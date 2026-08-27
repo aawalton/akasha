@@ -1,0 +1,167 @@
+---
+id: 8c9919ea-053c-592c-9bbf-77e59703eb7c
+page-type-slug: story-chapter-royal-road
+title: "76. Problem Customers"
+slug: 0076-76-problem-customers
+partOf: god-of-trash
+position: 76
+ownLength: 2904
+unit: words
+publishedAt: 2025-05-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2281919/76-problem-customers"
+royalRoadId: "2281919"
+---
+
+The next day was a down day, relatively. Only a few small ships pulled into the docks, and not all the salesmen bothered to set up their stalls at all, let alone hawk their wares as aggressively as they had the previous day. Rhys’s and Bast’s stall, on the other hand, maintained a long and winding line. They were still in the fad phase, and Rhys was loving it. Just as he’d promised, gold flowed like water from their customers’ pockets directly into their hands. The new ships full of students gave them inquisitive or dismissive looks, unwilling, for the most part, to brave the long line in order to try their wares, but a few joined the lines, or had big, curious eyes, and Rhys knew he’d gotten them hooked from having such a long line alone. Even the ones who gave him dismissive looks had noticed him, and that was the most important thing. The second he could stick in the mind of prospective customers, he’d won.
+
+Of course, it wasn’t all smooth sailing. Two problems had reared their heads, in the form of a white-haired Empire trainee and a beautiful young lady from the Uninhibited Wealth School.
+
+“I’ll take everything this stall has,” Laurent declared haughtily, looking down on Rhys. His eyes bored holes into Rhys’s face.
+
+Gods, I hope my makeup is passable again today, Rhys thought, looking half-away to keep Laurent from getting too good of a dead-on look at his face. The way the guy was staring, he was no longer worried about being seen through, and more worried about Laurent recognizing him out of costume, despite all the work he’d put in.
+
+Laurent stared, barely keeping his jaw from going slack. Gods, she’s so cute. I want to stand here and bask in her cuteness all day. I wonder if buying out her whole stock will get her attention?
+
+“Dear customer, our stall has a limit of three bags per person,” Bast rumbled in all-but-his-usual-voice, coming up behind Rhys. He glared death at Laurent, his hand reaching to his hip, where he’d obstinately tied a sword despite Rhys’s best efforts. “It’s better if no one associates you with swords!” “But how will I protect you?” In the end, he’d begrudgingly allowed Rhys to buy him a cheap sword in the marketplace, so he would appear to be no more than a merchant showing off sloppy but trendy wares, as opposed to wearing his actual sword into the stall. He’d almost insisted on that, until Rhys pointed out how obvious it was and how easily it was tied to the Sword Saint’s apprentice. Only then, when Rhys had brought up his Master, had Bast finally caved.
+
+Laurent startled. He glanced at Bast, giving him the usual wary look. His eyes narrowed. “I was talking to Rina.”
+
+“And Rina says there’s a limit of three bags per person!” Rhys chirped, quickly stepping in front of Bast. “Thank you so much, loyal customer. If you want more bags, you can get back in line!”
+
+Laurent’s eyes turned back to Rhys. He nodded and handed over the gold, then obediently got back in the end of the line.
+
+Rhys breathed out. “Jeez.”
+
+“Why not just let him buy out the stall? You’ll get your money then,” Bast said, not understanding.
+
+Rhys shook his finger. “I understand the sentiment, and I do like gold, but you’re looking too shallowly. If I sell all our potato chips to him, who experiences our potato chips?”
+
+“He does,” Bast said, already realizing.
+
+Rhys nodded. “Right. And if he’s the only one, then we don’t spread the good news of our potato chips to everyone. In the worst case, he’s only buying them to get my… Rina’s attention, and he plans to give them away afterward. Not only does that limit the spread of my delicious wares to only Empire students, who, if everything goes well, will leave this city after the tournament, but it also means that they’ll devalue my chips, since they’ll be used to getting them for free.
+
+“And don’t forget the knock-on effect of everyone in line right now seeing me sell out all my wares to one guy right in front of them. Essentially, they’ll see it as a betrayal, as me giving away what’s rightfully theirs to some nouveau-riche douchebag. I don’t want that! Potato chips are the food of the people, not the food of the young masters! I mean, I don’t mind young masters eating them, but they should be freely available to everyone. Rich, poor, young, old, everyone.”
+
+“That’s… actually very kind-hearted of you,” Bast commented, a little surprised.
+
+“How am I supposed to achieve market dominance if potato chips become a luxury item? I can only addict everyone to their delicious flavor if I sell to everyone.”
+
+“No, never mind, I understand now.”
+
+“Plus, they aren’t expensive to make. If I sell mine as a luxury good, the market value will come crashing down not long after, because someone else will realize they can still make a healthy profit margin at a much lower price point, and I’ll look like someone trying to take advantage of consumers, rather than a rigorous and healthy young capitalist just trying to get ahead in the world.”
+
+“By taking advantage of consumers.”
+
+“I didn’t say I wasn’t. I just said I didn’t want to look like I was.”
+
+“Ah.”
+
+Rhys beamed. “All that to say, that I’d rather take a little of everyone’s money, than all of one guy’s money. Besides, think of it this way. If he buys all the chips from my stall today, he won’t have the money to buy any chips tomorrow, and not only that, but his buddies, and himself, will have so many potato chips that they won’t want to buy any more. The line at my stall will get shorter, and I’ll have less of the trendy attractiveness that I need to really kickstart potato chips. It’s a lose-lose-lose proposition.”
+
+“I understand now, I was shortsighted. Please forgive me, master,” Bast said half-mockingly, giving Rhys a sarcastic bow.
+
+“It’s good that you understand you were wrong,” Rhys replied smugly. He nudged Bast. “Look lively. Here comes another.”
+
+The other problem customer flaunted up next. She flipped her perfectly-wavy hair and looked down her nose at Rhys and Bast. “One bag, please.”
+
+Lined up behind Anabel were all her sycophants and underlings, all of them equally decked out in the latest trends. Honestly, it was a bit of a headache for Rhys. He wanted to be trendy, but not that trendy. Anabel and her people were good customers, but they did give his potato chips an air of being ‘the thing of the moment,’ rather than a thing that was here to stay. Sure, he was happy being the item of the moment, but more than that, he needed to nail the transition into becoming a staple for mage households all over the lands, and Anabel and her people were no help at all in that transition.
+
+At least Laurent and his white-clad trainees looked relatively normal. Not only that, but he’d definitely hooked some of the trainees on flavor alone. They’d sneakily join the line at early hours and right before closing, snitching in to grab their three daily bags, then vanish into the night like the palest shadows imaginable. He was less certain he’d grabbed the hearts of the ones who marched in after Laurent, standing tall and proud to be sure their captain saw that they were good trainees who could follow a lead, but he knew he’d grabbed those sneaky trainees’ hearts.
+
+Of course, he was a little worried he’d grabbed Laurent’s heart a little too hard, but that was a problem for later.
+
+Rhys retrieved her bag and handed it over. “Here you go.”
+
+Anabel caught his wrist. Rhys froze. Behind him, Bast stepped forward, his hand instantly on his blade. Rhys glanced back and shook his head a little. She hadn’t done anything aggressive yet. Wait. Not yet.
+
+She turned his hand over, making the bangles jangle, then clicked her tongue. “You’re wasting your beauty.”
+
+“Huh?” Rhys asked.
+
+“Look at these arms! These beautiful, shapely arms. And that face of yours! Your body! Wasting it all on this boring A-line dress and these out-of-fashion bangles? I’m begging you, Rina, darling. Come with me this afternoon. Let me buy you something nicer. You can’t be wearing this last-season fashion. It simply won’t do.”
+
+Rhys blinked. Uh… what?
+
+Behind him, Bast lowered his hand from his sword. The sound of barely-stifled chuckling came from the back of the stall.
+
+“You’re the frontwoman of your stall. The face! It’s essential that you look beautiful,” she asserted. “Let me do this for you. I’m begging you. The potential in your figure! The angles in your face! You could be a model, Rina… let me use you as my model this afternoon.”
+
+Rhys licked his lips. He wanted to refuse, but on the other hand, the light in her eyes, the obsession in her voice—this was her path. Even without sensing anything like a path or enlightenment from her, he knew it. He hadn’t had the chance to walk someone else’s path, or see it expressed in their actions. If he let her take him, he’d get a valuable chance to advance his knowledge of paths—something he couldn’t guarantee he’d get in his entire time at Infinite Constellation School.
+
+“Certainly, but my friend Betsy comes with,” Rhys agreed.
+
+In the back of the stall, Bast’s chuckling choked to silence.
+
+Anabel lifted her chin, peering into the darkness where Bast usually lurked. Her eyes darted left and right, up and down, getting a good look at him. “Hmm. A challenge, but I agree. It will be a valuable chance to train.”
+
+All her flunkies behind her gasped, and Rhys could already hear the rumor mill starting. “She’s going to be Anabel’s model?” “Anabel asked her—she’s never asked us!” “How lucky. Let me get a good look! What does Anabel see in her?”
+
+A sinking sensation that he might have bitten off more than he could chew crawled through Rhys, but he pushed it down. The chance to see someone else walk their path was worth it. Such a rare opportunity couldn’t be turned down.
+
+Laurent, who’d been ever-so-slowly wandering toward the back of the line so that he could buy more chips, but bask in Rina’s cuteness for the maximum time possible on the way there, whipped around. He marched back to the front of the stall. “I refuse!”
+
+“Dear customer, please re-enter the line if you wish to buy more bags or talk to Rina,” Bast intoned, resting his hand on his sword once more.
+
+“Rina, come with me tonight. I’ll—I’ll show you around the ship. I’ll take you through our camp. You can see the glory of the Empire, with me!”
+
+Rhys’s ears perked up. A chance to scout out the enemy? He couldn’t turn that down! But… seeing Anabel’s path… but the enemy… but advancing as a mage… but knowing more about his enemy in the tournament and the future…
+
+Anabel scoffed. “I asked her first. She comes with me this afternoon. Perhaps in the evening, she might deign to visit you.”
+
+“What a wonderful idea! Yes, indeed. Laurent, please wait until Anabel and I are done. I’ll go with you afterward, as long as my friend Betsy can come,” Rhys agreed easily. What a wonderful solution! He was starting to see why Anabel was so popular.
+
+Laurent didn’t even glance Bast’s way. “Of course. Any friend of Rina’s is a friend of mine.”
+
+“I ain’t your friend,” Bast grumbled.
+
+Rhys nudged him. Now wasn’t the time! He didn’t like Laurent—or dislike him, except to the extent that he was something of a problem customer—but the valuable information they could obtain outweighed any consideration of his personal feelings. This was the Empire, the biggest threat to them personally in the tournament, or existentially as mages or members of this region. They couldn’t turn down Laurent’s invite. “Thank you for the kind invites, Anabel, Laurent. Of course we’d be happy to come with both of you.”
+
+Laurent nodded, awestruck just from being in Rhys’s presence. Rhys gestured for him to go, and he finally drifted off again, once more wandering toward the back of the line.
+
+Anabel lingered just one moment longer, shooting a harrumph after the retreating Laurent. “I don’t know what you see in him, but I certainly hope you see more in me.”
+
+Rhys blinked. He looked at her. “Huh?”
+
+Without explanation, she turned on her heel and walked away.
+
+He turned to Bast. “Did I just get hit on?”
+
+“From Laurent? Yeah, are you only realizing now?”
+
+“No, from Anabel! From the girl! Was she hitting on me?”
+
+Bast rolled his eyes. “Maybe on Rina. I wouldn’t know. It didn’t seem like it to me.”
+
+Rhys pinched his chin, staring thoughtfully after Anabel. He’d never been hit on, but Rina was so popular… were her charms simply so much that she charmed both men and women alike?
+
+Well, I’m not complaining. Even if they were only hitting on Rina, both Anabel and Laurent had offered him unique opportunities. He wasn’t about to turn either of them down.
+
+He glanced at Bast. “How are the fries and tornadoes coming?”
+
+As a response, Bast clunked down a few wraps of fries—folded together out of stiff paper Rhys had cleaned out of the trash, inspired by the British tradition of serving fish and chips in newspaper—in a tray out front. The next customers surged forward, curious about these new offerings. “The twist thingies are more difficult. It’s a fascinating sword technique, one I haven’t yet mastered.”
+
+“Sword technique…?” Rhys half-asked, then cut himself off. What did he expect, asking a martial artist to slice potatoes? Of course Bast would transform a boring, menial task with a knife into a sword technique. The only wonder was that he himself hadn’t realized such an obvious thing would occur. He nodded. “I trust you can figure it out.”
+
+“I will,” Bast pledged.
+
+The fries didn’t bring as much appeal to the stall as Rhys had hoped, mostly because they sold out so quickly that only the customers at the very front of the line saw them at all. On the other hand, those were some very satisfied customers, able to try both the fluffy deliciousness of a french fry and the crispy crunch of a potato chip at the same time. He’d worried that it might be a bit of potato overload, but from the blissful expressions of his customers, there was no such problem. A few of them even tried the squirt of vinegar he recommended on the fries, but from the somewhat puzzled expressions, he chalked that one up to being a Britishism rather than a good idea.
+
+What was I thinking, looking to the British for cooking advice? British cuisine had a reputation as being bland and brown, except for the curries they’d imported from India… which didn’t count, in Rhys’s opinion, since that was delicious Indian cooking, not British cooking, but who was he to say? In any case, he should have known better than looking to the one spot on the globe known for bad food.
+
+I’ve really got to keep an eye out for tomatoes. This world had potatoes. It had to have tomatoes somewhere. He’d get his ketchup in the end!
+
+Still, there was more than one way to flavor a fry. Ketchup wasn’t the be-all end-all. He didn’t feel like making mayonnaise—least of all because it required chickens, and he wasn’t much for animal-rearing and egg-gathering, plus he had no idea how to speed up or enhance the laying process, but there were non-animal techniques to make fries delicious that he hadn’t examined yet. In the meantime, I should try some seasoned salt. There was nothing like a fry with a bit of seasoned salt on it, especially Cajun seasoning. The market had a multitude of herbs and spices available. Sure, they were meant to be for potion-making, but most medicinal herbs, especially the cheaper ones, were also used in magical and non-magical cooking. Rhys tucked that away onto his to-do list, and went back to selling potato chips.
+
+They sold out sometime around noon, about when they’d sold out on the previous day. Rhys put up the CLOSED sign and took down their banners, waving a reluctant farewell to the customers who’d waited for naught. “Tomorrow! Come back earlier tomorrow. We’ll have more tomorrow!”
+
+“Are you sure? We’ve got two dates tonight. Do we have any time for cooking?” Bast asked, pushing his curls back for the thousandth time.
+
+“Stop playing with your hair, you’ll frizz the wig. And yes. We’re mages. We don’t need to sleep.”
+
+“What about growing the potatoes?”
+
+Rhys shot finger guns at Bast. “That’s why you’re going to stand here and wait for those two to show up, while I run down to the trash heap real quick and get them going!”
+
+Bast sighed dramatically and shook his head. He drew the cheap sword. “I’m going to go practice the tornado slash in the back of the yard. They can find me.”
+
+With that, the two of them parted, Rhys running to the trash, Bast walking to the training grounds.

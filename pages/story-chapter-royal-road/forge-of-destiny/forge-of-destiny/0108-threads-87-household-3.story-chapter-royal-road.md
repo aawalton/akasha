@@ -1,0 +1,101 @@
+---
+id: ac2cc238-02a2-5a84-b336-a9afd689b5ee
+page-type-slug: story-chapter-royal-road
+title: "Threads 87 Household 3"
+slug: 0108-threads-87-household-3
+partOf: forge-of-destiny
+position: 108
+ownLength: 1166
+unit: words
+publishedAt: 2021-05-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/685747/threads-87-household-3"
+royalRoadId: "685747"
+---
+
+The Sect’s war footing was not immediately obvious here at the foot of White Cloud Mountain, at least, not if she wasn’t looking for it. The town guards had been supplemented by soldiers, and their equipment had seen recent upgrades and refitting. Beneath the paved streets of the inner district of the sect town, dormant formation work hummed with new life, and on the walls, the squads on duty had been subtly reinforced.
+
+As for the people themselves, they seemed remarkably unworried. The general atmosphere was one of wary cheer. It made Ling Qi wonder how much information the mortals in town really got from the Sect. Ling Qi didn’t say anything about it to her mother; Ling Qi suspected that she already knew more than most.
+
+The market itself was a familiar sight, a square of beaten dirt ringed by stalls and street hawkers and crowded with people. It had its differences though, and she did not think them merely one of perspective. Whatever the reason, the Argent Peak Sect’s town was a happier place than the  outer ring of Tonghou.
+
+It certainly seemed to have done her mother good. She watched her mother engage with people, both customers and vendors, and what she saw was encouraging. Ling Qingge seemed more confident in her dealings, less withdrawn and bowed than she had been when she had first arrived from Tonghou. It felt good to see.
+
+For her part, Ling Qi kept her own peace, using subtle flows of qi to downplay her presence and appearance so that she didn’t cause too much of a stir as she followed her mother, holding Biyu’s hand. She was content with that until she spotted a familiar head of shaggy dark hair through the crowd.
+
+“Su Ling!” she called, and her friend’s furred ears twitched. She wasn’t the only one surprised. Ling Qi noted sheepishly that several people near her had startled, her greeting having overridden her effort to remain inconspicuous.
+
+<Some things just don’t change,> Sixiang teased.
+
+Su Ling looked Ling Qi’s way, her gaze flicking from Ling Qi to Biyu to her mother. Only then did she raise her hand in greeting and make her way over. “Ling Qi. Didn’t expect to see you here of all places.”
+
+“I had some extra time,” Ling Qi said. She glanced down at her little sister, whose wide eyes were following the irritable twitching of Su Ling’s tails. “Say hello, Biyu.”
+
+“Hi,” her little sister said shyly.
+
+“Hi,” Su Ling replied, visibly unsure of how to deal with the little girl’s attention. Around them, traffic was resuming. Surprisingly, it seemed that Su Ling’s friendly greeting had caused the townspeople to relax. “Still, never knew you to spend spare time not cultivating.”
+
+<She has you there. Don’t worry. I won’t let you relapse this time,> Sixiang whispered.
+
+Ling Qi took a mental swat at the muse. “I’ve gotten better at time management,” she said aloud. “What about you? You’re not much for spending time in town, last I heard.”
+
+Su Ling scuffed her foot against the ground. “Helping keeps the people relaxed. Couple a busybodies pestered me into doing it. S’pose just walking around town for a couple hours a day isn’t so bad.”
+
+“Your efforts are appreciated, Miss Su,” Ling Qingge said, returning from the stall she had been at. “Many people are thankful for your efforts during the troubles.”
+
+“... Yeah,” Su Ling said. She hid it well enough from mortal eyes, but Ling Qi was increasingly certain that Su Ling was very uncomfortable with Ling Qi’s mother. She wouldn’t speculate as to why.
+
+“Well, since we’re both out, why not walk together? You can help reassure everyone that I’m not too scary,” she said self-deprecatingly. While she was keeping her qi suppressed, she knew the richness of her garb was still alarming.
+
+Ling Qingge shot Ling a curious look but didn’t object, dipping her head slightly. “It would be our honor, Miss Su.”
+
+“No need to call me that,” Su Ling grumbled half-heartedly. She hesitated then shrugged. “Fine. Guess I can’t let you go ‘round jump-scaring people.”
+
+There were a few more pleasantries to exchange, but soon, they were following Ling Qingge on the woman’s rounds again. Su Ling wasn’t much for small talk so it fell to Ling Qi to resume conversation.
+
+“Any more news you can share on that expedition?” Ling Qi asked casually.
+
+Su Ling grunted. “It’s happening before the month is out. I’ll be going. Suyin won’t be.”
+
+Ling Qi’s eyebrows rose. “That’s surprising. I would have thought she would be an obvious choice.”
+
+“She is. That’s why they don’t want to risk her, third realm or no,” Su Ling snorted. “I don’t know the details, but they want to send us deep.”
+
+<I wonder just what the Sect is planning. You can’t really do too much down that way,> Sixiang mused.
+
+Ling Qi mulled that over as they moved through the crowd and stopped, letting her mother speak to someone else. “I wouldn’t mind being able to watch your back on the trip, assuming you’re willing to put my name forward.”
+
+Su Ling cocked her head to the side. “Why’s that?”
+
+“Gotta keep climbing,” Ling Qi said. “And I thought you could use a familiar face.”
+
+“Sis-y going on a trip?” Biyu piped up, pulling her eyes away from Su Ling’s tails.
+
+“Maybe.” Ling Qi tussled her hair.
+
+“I hope it is one you are well prepared for,” her mother said warily, returning.
+
+“I think I am.” Ling Qi met her mother’s eyes confidently.
+
+“And you, Miss Su?” Ling Qingge asked, breaking eye contact after a tense second.
+
+“Ling Qi’s more capable than I am,” Su Ling grunted, looking unhappy at the question. “S’pose I’d be glad to have her along.”
+
+Ling Qingge frowned. “I cannot object then, although I hope my daughter remembers her words.”
+
+Ling Qi sighed. She was never going to live down stopping a knife with her collarbone, was she? The maneuver had even been successful! “I’m not quite that flighty, Mother. I won’t be gone long.”
+
+What was with Ling Qingge looking to Su Ling for confirmation!
+
+“Probably not more than a week,” the other girl grudgingly confirmed.
+
+“Sis-y be good,” Biyu added gravely.
+
+Ling Qi huffed. “Should we really be loitering like this?” she asked with great dignity, gesturing to the man whose stall they stood in front of. He was looking nervous.
+
+“The hell kinda word is ‘loitering’?” Su Ling snorted. “But yeah, c’mon, let’s not give this guy any trouble.”
+
+“Of course. My apologies, sir,” Ling Qingge added, bowing her head
+
+Ling Qi still didn’t much like getting ganged up on, even if it did feel nostalgic. She stole a glance at the back of Su Ling’s head. Xiulan might have left, but that had just shown her that she needed to keep her friends close while she could.
+
+Like hells she was going to let Su Ling go diving into that pit without her.

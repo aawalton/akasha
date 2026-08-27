@@ -1,0 +1,171 @@
+---
+id: d138d1f9-2c37-5e22-9de2-4ea8cbb90711
+page-type-slug: story-chapter-royal-road
+title: "Threads 37 Three Moons 2"
+slug: 0049-threads-37-three-moons-2
+partOf: forge-of-destiny
+position: 49
+ownLength: 3302
+unit: words
+publishedAt: 2021-01-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/615754/threads-37-three-moons-2"
+royalRoadId: "615754"
+---
+
+Ling Qi yelped, clutching Zhengui to her chest as she tumbled head over heels into the open sky. Hanyi laughed as she tumbled through the air beside her.
+
+It was nothing like the controlled flight she was used to. Ling Qi spun, bobbed, and drifted on the breeze like a leaf caught in a windstorm as the province rushed by beneath them. Yet for all their speed, the rush of wind never became the howling gale that it should have been. Their wild flight took some getting used to, but as Ling Qi regained her bearings, she found it exhilarating rather than alarming.
+
+Despite her nerves at their destination, she found herself letting out a breathless laugh as Hanyi bumped against her and sent Ling Qi spinning away in the wind. She saw the little spirit stick out her tongue mockingly as she floated away on a gust.
+
+“Well, we can’t let her get away with that, can we?” Ling Qi asked, feeling a little light-headed.
+
+“Yeah, go get her, Big Sister!” Gui squeaked.
+
+“Let me give ya a hand,” Ling Qi heard Sixiang say as she felt the spirit's hands on her back. The shove that followed launched her through the air after the laughing Hanyi.
+
+Ling Qi could not be sure how long their trip lasted. It all seemed to blur together in a haze of fun and laughter. Yet however long it was, it did still come to an end as the wind deposited them on the side of the main road leading into Tonghou.
+
+Ling Qi frowned as she felt the giddiness fade and her trepidation return with the sight of those weathered gates. “Did you do something to us?” she asked as Hanyi and Sixiang alighted beside her.
+
+The three spirits, which had seemed to disappear during the flight, once more stood around her, Grinning at the front and the other two flanking her. “I put you wholly in the moment for a bit there,” the Grinning Moon answered without remorse. “I figured you could use a lil’ fun since you're so down about revisiting the old haunts.”
+
+“And why shouldn’t I be?” Ling Qi grumbled. Despite herself, she couldn’t find it in herself to be angry. Already, she found herself looking wistfully back at the simple joyful energy she had felt during the flight.
+
+“The pain is in the past. What has been lost is already lost; all that remains is what you gained from it,” the veiled spirit said, her airy voice surprisingly serious.
+
+“Never shy from your own experiences. They are the most precious secrets of all because it is from them that you are built,” Xin added solemnly.
+
+“There is no dreaming ambition that does not arise from yearning and want. It is in examining a dream’s seeds that their meaning becomes clear,” the Dreaming Moon finished.
+
+Ling Qi frowned, peering at the open gates of the city and the trickle of foot traffic going in and out. People walked around or in the case of the three spirits, through them without notice.
+
+“Do we really have to go in there?” Hanyi asked, wrinkling her nose. “There’s way too many people, and it’s so smelly.”
+
+“Yeah, I think we do,” Ling Qi said quietly. “Sorry, Hanyi. You’ll have to put up with it for a bit.”
+
+“Do not fear, Big Sister. I, Zhen, will set aflame any who bother you,” the little serpent announced. The arrogant voice he had adopted since his breakthrough sounded absurd in his childish voice. She smiled and stroked his head anyway.
+
+She felt a hand on her shoulder and glanced to her right where Sixiang stood. The spirit gave her a lopsided grin of encouragement.
+
+Ling Qi closed her eyes for a moment and breathed out. Tonghou really couldn’t hurt her anymore. Not only had she grown far beyond these streets, but also she was never alone. She wasn’t the frightened little girl wishing for warmth in the depth of winter. Not any more.
+
+“Let’s take a stroll then,” she said, taking her first step toward the gates.
+
+“That’s my girl,” the Grinning Moon said fondly, walking backward through the crowd ahead of her. “Time to see the sights.”
+
+Though she had not often strayed near to the gates when she was a mortal, Ling Qi still knew the district by sight, and Ling Qi found that Tonghou had not changed. Oh, some of the merchant stalls had been shuffled around, windows had been broken or fixed, and other details shuffled about, but it struck her how little things had changed. After a year and change in the Sect, her life would have been unrecognizable to the her of the streets, yet for everyone else in Tonghou, last year was the same as this one.
+
+Street toughs still strutted confidently in streets where the guard failed to tread, shops still ran, and people still worked. Most of all, the air of malaise which infused the whole outer district and hung over every person’s shoulders remained unchanged. Ling Qi had forgotten what it was like to be surrounded by people who, in their every motion, betrayed the hopelessness of those who saw no opportunity for improvement. Even the mortals in the village of the Sect did not have that missing spark of drive.
+
+Ling Qi’s new knowledge didn’t improve matters. The city’s inner wall was mighty and formidable, and power thrummed through the stone. She could see now that the outer wall was a pathetic thing though, warded enough to keep common beasts and spirits out but little more. Her stomach turned as she recognized what would happen if the city was ever under real threat.
+
+It felt jarring to watch the Grinning Moon dance through the crowds, spinning and sliding, flitting from roof to hanging sign to tattered awning seemingly without a care. The other spirits were more reserved. Dreaming glided through the dirty streets in a blur of rustling cloth, pausing now and then to trace her fingers over a person’s temples, drawing forth wisps of multihued smoke. Even Xin only looked around with a sense of polite interest, peering into shaded windows and regarding some of the haggling market sellers with amusement.
+
+“Why does none of this bother you?” she finally asked as she watched a commotion break out. A ragged young man a few years her junior broke through the crowd to flee from a pair of burly merchant’s guards. Even as she watched, the boy managed to slide under a passing wagon that had momentarily sped up, temporarily blocking the street and giving him a precious few seconds of lead, earning a laugh from the Grinning Moon. “You say that you watch out for people like that, but you could do a lot more, couldn’t you? Is it just because we entertain you?”
+
+“It’s because you are not dolls anymore that I do not do more,” the Grinning Moon said, perched like a piece of temple statuary on an awning overhead. “I love those who get by on their wits, the ones who strive no matter how poor their circumstances. Would you have me make of them dancing puppets once more? I could no more do that than you could eat your own arms, little sister. Be glad for the limitations of spirits. It was the greatest gift you were ever given.”
+
+Ling Qi grimaced at the answer, understanding, but not liking it all the same
+
+“There is no secret logic behind the world, no meaning or thought that guides it from above,” Xin said absently. “Though it is at its most obvious with cultivators, each of you shapes the world with your actions and thoughts, echoing and refracting from the ripples of others’ actions. Great Spirits are merely the greatest of these ripples.”
+
+“Humans weave their own strings, forge their own chains, and build their own cages,” said the Dreaming Moon. “It is often easy to see only the misery that you inflict upon each other, but there are few things more wretched and pitiable than a human who is truly alone.”
+
+“We nudge and we encourage and we strive because some part of us was once human,” Xin - no, the Hidden Moon - said, the echo of something greater carrying in her voice. “But those parts have made their mark. It falls to those who still live to make the next.”
+
+“You cannot let misery blind you,” said the Dreaming Moon. “Look, really look, around you. Even here in this crumbling place, humans can burn so bright.”
+
+Ling Qi looked away from the spirits, and for the first time, she really looked at the people around her. She forced herself to look past the veil of her preconceptions. It was true that hopelessness hung over these run-down streets like a blanket, but it was wrong to say that everyone was crushed by it. There were people who moved with a drive, however small. People whose spirits sparked with purpose, even if the fire that those embers might have become had been long since snuffed out. Despite everything, they lived, and Ling Qi knew well the difference between living and survival.
+
+“I just don’t see how it matters when so much just turns out like... this,” Ling Qi said, gesturing to the crowded street.
+
+Above her, the Grinning Moon let out a thoughtful hum. “Once, a long long time ago, there was a little girl who stole the sovereignty of wind from the cruel and fickle gods. I think, if she still lived, she would be amazed that there could even be so many people, let alone that they could build a city so large. That more children did not die of sickness than lived to see their second nameday..”
+
+“Small things are not irrelevant things, and together, even the smallest dreams may bloom in the firmament,” echoed Dreaming.
+
+“The future flows beyond even my sight,” murmured Hidden. “The world is not as it was. Human will is the engine which drives change.”
+
+Ling Qi looked at the Grinning Moon. “Was that girl you?”
+
+“One of many - or perhaps just an old and nameless tale. There’s hardly a difference, is there?” laughed the spirit. “But I think we stray a little from our purpose.”
+
+“I don’t really get any of this,” Hanyi huffed. “It’s just a bunch of boring people doing boring stuff. What are we even doing here?”
+
+“Hang in there, short stuff,” Sixiang laughed, resting a hand on the smaller spirit’s head. “Besides, you can’t know if someone is gonna be boring unless you get to know them.”
+
+Hanyi swatted the hand off her head. “That’d take forever, you dummy! If they can’t prove that they’re interesting, why would you bother?”
+
+“Big Sis, are you okay?” Gui asked, pawing at her gown from his place in the crook of her arm. “You look serious.”
+
+“Oh, is there somewhere you want to be, little sister?” the Grinning Moon asked, leaning down over the awning.
+
+“I think so,” Ling Qi said quietly. “There’s a place I need to see.”
+
+***
+
+Their journey took them away from the city outskirts, where the poorest of Tonghou’s residents lived. It took them inward toward the city’s inner wall. Not past it, of course; that was the realm of the very wealthiest mortals and the nobility. But their destination fell in the shadow of the wall. Nestled amidst theatres, gambling halls and teahouses, her mother’s former place of employment sat. Though it was by no means small, the brightly painted building somehow failed to loom the way that it did in her memories.
+
+In the middle of the day, the red painted lanterns hanging from the entrance awning were unlit, and traffic was slow. A couple of girls no more than a year or two older than her leaned out over the railing of the second floor balcony, calling out and advertising to passersby, inviting them to step inside. From within, the faint strains of music and laughter could be heard. If she were to consider it only in this moment, without the context of her memory, she might even call it pleasant and inviting.
+
+She did not have that privilege. Distantly, she felt her fists clench, and the air grow cold. People in the streets, oblivious to her presence before, shivered and cast glances at the mouth of the alley where she stood, muttering quiet prayers and hurrying on. Just looking at the place turned her stomach, and the pleasant facade only made it worse.
+
+“It does not seem worse than the other establishments nor the dens which we have left behind,” commented the Dreaming Moon. The spirit’s resplendent gown and ephemeral beauty looked faintly ridiculous with her perched on the rim of an old rain barrel.
+
+“Breath, think, and analyze,” the Hidden Moon said somberly, resting a hand on her shoulder. “I will not tell you to let go of your emotions. Instead, understand them, and place them in context.”
+
+“Why did you want to come and see this dump? What were you hoping to gain?” asked the Grinning Moon, lounging atop the cloth awning of the gambling hall across from the brothel.
+
+Ling Qi let out a breath, tightening her grip on Hanyi’s hand. The young spirit glanced up at her questioningly. It was funny how the young spirit seemed completely unbothered, even bored.
+
+“I’m not sure, if I’m honest,” Ling Qi admitted. Her eyes tingled as she allowed a trickle of qi into them and looked again at the place which had been her first home. It was utterly mundane, and that bothered her somehow. The smiles of the girls on the balcony were fake, but no more fake than the enthusiasm of the hawker calling people in to gamble their money away. They were mostly just bored and apathetic. There was some resignation and unhappiness, but…
+
+Where was the misery that she remembered?
+
+“You know by now that memory can be a funny thing,” Sixiang said quietly from their seat on the opposite side of the rain barrel that their grandmother had claimed.
+
+It was true, if she thought about it objectively. The terrible memories she had could not possibly cover the full span of time which she had spent here. Yet, they had happened. She remembered the bruises on her mother’s neck and arms. She remembered some of the vile men she had seen, arrogantly doing whatever they liked without any pushback. She remembered the girl struck by an off-duty guard.
+
+“Violence is hardly uncommon, even unprovoked violence upon the helpless, and it was not without consequence,” Xin said softly.
+
+Ling Qi glanced her way. She would trust the spirit’s word on that. Yet, she found herself remembering things that she had forgotten. She remembered her mother and the owner talking, and other girls contributing coppers to a growing pouch. She never had seen that girl again, which had seemed sinister, but…
+
+“Do you know what happened to the girl?”
+
+“She recovered on the back of communal funds,” Xin began.
+
+“She purchased an apprenticeship with a seamstress using the restitution paid from the guard’s fine,” the Dreaming Moon continued absently.
+
+“Never got her smile back though,” the Grinning Moon said flippantly. “If ya know what I mean.”
+
+It didn't make things better, but it surprised her all the same. She had become so inured to the idea that the people who went in could do as they liked that the idea that one had suffered even mild punishment surprised her.
+
+Ling Qi frowned, focusing her senses once more. A twinkling light blinked into existence before her eyes and began to drift across the street. She would not - could not - make herself step across that threshold, but she didn’t need to any longer, did she?
+
+Remembering the lessons of the Argent Mirror art, she forced herself to remain dispassionate as she looked inside. What she saw fit the general shape of her memories. On the first floor was the common area where a tired older woman played competently on a guzheng. Most of the tables and booths were empty, but here and there were customers, men being served drinks and fawned over by younger girls, smiling empty smiles and laughing empty laughs.
+
+But when she looked at the customers, she saw that they were just as empty as the girls. Sad, lonely, exhausted, worn down by one thing or another, seeking fulfillment in people who had none to give. It was a sickening sort of parody. A few even deluded themselves into thinking that the girls felt something genuine for them. That is, something other than a low level of fear anyway. She couldn’t, even in her forced dispassion, feel real sympathy.
+
+In the end, the customers were the ones who held all the power, and the girls simply had to play to their wants. It wasn’t as if her memories lied. Even at this slow time of day, there were some who could see their own power and reveled in it. She knew without looking, just from the ambient qi, that she would find nothing different on the second or third floors where the workers lived and rooms were rented out for more intimate services. It was all just emptiness and exploitation in different trappings.
+
+It still made her skin crawl. She still hated it and what happened inside. But the special horror it had once held seemed a little washed out now. If she compared it to the things she had seen in the streets, could she really say that it was uniquely horrible? In the end, it was the powerful enforcing their will on the weak, just like everywhere else. The men who got away with hurting were the ones rich or connected enough to make enforcing the rules unprofitable.
+
+Somehow that bothered her in a way it hadn’t before.
+
+It was funny in a twisted sort of way that the cultivator had been the one who actually got punished. She wasn’t sure what to think of that. Leaving that aside, running away really had been a sideways step, hadn’t it? Whether in a fancy brothel or a dark alley, she had to debase herself to survive. Virtue and vice were luxuries to be considered when she had a full belly and a warm blanket.
+
+She certainly had that now. She would not allow herself to feel shame about her mother nor the people she had hired any longer, no matter the sneering she got for it. They were people who her mother considered important. And in the end, they were people who had picked the poison they were willing to swallow in the name of survival, just like her.
+
+She thought back to what Cai Renxiang had said when she had first told her of the decision to hire them. She could see the truth in the girl’s words. To her, it may be a gross, unpleasant job, but there was no inherent shame in it.
+
+“Okay,” Ling Qi said. “I’m sorry for side tracking us. I’ve seen enough.”
+
+“Time is hardly an issue,” Xin said in amusement.
+
+“In the end, this is your journey,” the Dreaming Moon said.
+
+“Still, I think this has been enough walking. Feeling up for a run?” the Grinning Moon asked, leaping down from the awning where she had been lounging.
+
+Ling Qi raised her eyebrows in consternation, no longer interested in the sad tableau across the street. The memories that clung to this place remained and she could not say that they were behind her, but the location itself was almost incidental. “I guess? I know I’m not really physically present, but if I go rushing through the streets, won’t people notice?”
+
+The spirit’s ever-present grin just widened.

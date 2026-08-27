@@ -1,0 +1,137 @@
+---
+id: d8bf0e78-380e-5c9a-8b79-98e93bf5b329
+page-type-slug: story-chapter-royal-road
+title: "Threads 203-Opening Day 1"
+slug: 0236-threads-203-opening-day-1
+partOf: forge-of-destiny
+position: 236
+ownLength: 2278
+unit: words
+publishedAt: 2022-03-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/874921/threads-203-opening-day-1"
+royalRoadId: "874921"
+---
+
+“Our itinerary is set then,” Cai Renxiang said. Ling Qi was familiar enough with her liege to detect the satisfaction in her cool voice.
+
+“Well and truly organized, my lady,” Ling Qi said agreeably, leaning back in the seat across from her. On the desk between them lay a meticulously written document. Thin, straight lines divided clean white paper into a grid, and in each section, small, neat handwriting laid out dense information in brief words.
+
+It was, Ling Qi thought, the sort of thing that only Cai Renxiang would take such satisfaction in.
+
+<She’s almost as weird as you,> Sixiang whispered wryly.
+
+Ling Qi let the corner of her lips quirk up in a smile. Said the rippling lake of dream and fantasy that lived in her head.
+
+“You find something amusing?” Cai Renxiang asked, letting her chin rest on her hands.
+
+“Just Sixiang and their jokes,” Ling Qi said. “Thank you for taking my preferences into account, Lady Renxiang.”
+
+“Gratitude is unnecessary. I laid out the tasks which required aid, and you selected from them,” Renxiang dismissed. “I found your selection of the Diao surprising though.”
+
+Ling Qi tapped her fingernails on the desktop. “We have our troubles with them, but I think I’m better suited for addressing them. Your own reputation with them is fixed.”
+
+Prime Minister Diao Linqin did not care much for either of them, Ling Qi knew, but she was much more irrelevant in the seventh realm cultivator’s eyes. It would be less difficult for her to make some basic inroads.
+
+“Reasonable,” Cai Renxiang agreed. “I will trust you to at least discern where the average Diao’s opinions lie.”
+
+<I still think you should let me do a little manifesting. I’m good at making friends,> Sixiang complained.
+
+Ling Qi didn’t think that was a good idea. “I’m more worried about the things you’ve told me I missed. You could have contacted me earlier.”
+
+“I judged that it was better for you to complete your personal business,” Cai Rnxiang said, arching an eyebrow. “What good would it have done you to know that my mother has delayed her arrival time?”
+
+“Well, it wouldn’t,” Ling Qi said unhappily. “Still, I don’t like surprises. She didn’t tell you why?”
+
+“Just that a matter encountered on her route had required her attention,” Cai Renxiang said. “She will only be delayed until this evening. I have been assured she will make it to the planned feast for our Bai guests.”
+
+Ling Qi nodded, glancing worriedly out the window of the study. She saw only an early morning sky kissed by the first rays of the sun. She didn’t see a second sun on the northern horizon, so surely the matter couldn’t have been too critical. “... and the other surprise you had for me?”
+
+Renxiang let out an actual sigh. “You worry too much, Ling Qi. While it is strange for my father to be called to the same place as Mother, this does not change our plans beyond my needing to pay my respects before we begin today's meetings.”
+
+Ling Qi studied her friend’s face. She saw nothing but a faint exasperation. Perhaps earned, given that this was the third time Ling Qi had broached the matter. Maybe it was because she only knew the Duchess, but there was something that itched at her about her liege’s apathy.
+
+“As you say, my lady,” Ling Qi said.
+
+“On that note, we must be going soon if we are to maintain the schedule. Make your arrangements, and meet me at the entrance to the fairgrounds within the hour.”
+
+***
+
+Ling Qi walked with her hands hidden in her sleeves. She had adjusted her gown for the occasion. She had shed her mantle in favor of a light, airy pibo of pale blue silk and altered the color to a mix of midnight blue and black. She had also extended the train and added more lace to the hems and her sleeves. Her hair was styled up, a silver ornament of a grinning crescent shining in her hair. It had taken some help from Sixiang to get just right. Overall, her look was the sort of traditional style favored by the Bai.
+
+Cai Renxiang walked a step ahead with her hands folded behind her back. The only change she had made to her appearance was to bind her hair in a single tight braid that glittered with rose gold thread that caught the early morning sunlight, seeming almost to burn. Still, even that much change was surprising for Lady Renxiang.
+
+The Pavillion of the Cai loomed high, overshadowing all others, even standing only half-raised as workmen huffed and sweated, moving support poles the size of entire trees and bolts of white and gold cloth bigger than wagons. The central part of the pavilion was already raised, two pennants, one in the imperial colors and the other in the Cai’s, already fluttered from its high peak.
+
+They entered the dazzling interior, passing by silent white plumed guards, and immediately stepped from grass to polished marble tile. It extended under their feet in every direction. Polished furniture and stages were being hauled into place for guests and performers. In the center, there was a high fountain of gently spraying water surrounded by a ring of greenery and color. Workers and functioners paused and bowed, paying their respects as the two of them passed, heading for the small group of people standing before the central fountain.
+
+Ling Qi did not know what she expected from Cai Renxiang’s father, Diao Luwen, but the man Renxiang stopped in front of wasn’t it. He was a small man, his head barely coming up to Ling Qi’s chin, with a face handsome in a sort of academic way and a narrow shouldered build. He wore a black minister’s cap on his head, and a few curls of dark brown hair poked out from underneath. His complexion was a few shades lighter than hers.
+
+“Hm, hm, no, this is all wrong,” he fretted, gesticulating toward the half-set up display in the center of the pavilion. His glittering green robes swished with the quick motions of his hands. “The angles of these walking paths are utterly wrong in relation to the celestial pathways of qi veins of this region. Do you wish to make ill feelings and rivalry linger here in the very center of the arrangement instead of flowing naturally from the space? Imbeciles, imbeciles all! If you cannot handle even so basic a task, I will have to finish the arrangement myself!”
+
+Ling Qi stood behind Renxiang as the short man berated the cultivators, experts of the third and fourth realm all, for almost a full minute, spitting orders and terms that she almost recognized from her studies in formations and geomancy. In front of her, Renxiang waited patiently.
+
+Ling Qi found it difficult to read the man’s aura. It was tightly controlled, but every time he waved his hand, wrenching up and rearranging tiles at a gesture, or sprouting meticulously shaped plant life or shrubbery in newly cleared spaces, she felt as if she had just tried to read a page from one of Renxiang’s denser mathematical texts.
+
+They stood there, completely unnoticed, until Renxiang startled Ling Qi by clearing her throat and fluctuating her qi very slightly in the lull between orders being given.
+
+Diao Luwen paused, glancing over his shoulder at the two of them. For just a moment, Ling Qi saw his eyes, and they were dense circles of burning green formations, arrays and numbers. Then he blinked, and they were merely vibrant green but wholly human.
+
+“Hm, hm, who interrupts my work?” he asked absently. “Terribly busy. Thought my apprentices could be trusted with prep work, which they were clearly not.”
+
+“It is Cai Renxiang, father,” her liege said calmly. Ling Qi bowed her head along with Lady Renxiang, though hers was lower. “Your daughter wishes to pay her respects before proceeding with other duties.”
+
+Diao Luwen turned to face them fully, his eyebrows drawing together as if he was trying to remember something.
+
+“Oh, yes, I remember now. You do attend this Sect,” he said absently, as if recalling a meal from the day previous. “Well, hm, Inner Sect then? Very good. I am sure your mother is proud.”
+
+Perfunctory. Those words could not be said to be anything but perfunctory. There was no feeling at all behind them, save perhaps boredom. In truth, he was barely even looking at Renxiang, his eyes wandering to the works behind her. His gaze brushed over Ling Qi and his brows drew together again. “Who is this then? Were you allowed a handmaiden?”
+
+“This is Baroness Ling Qi, my retainer,” Renxiang said, raising her head. “She has done much work to advance the interests of the Cai.”
+
+“Has she,” he said dubiously, squinting at her. Ling Qi felt a prickling sensation like she was being measured, weighed, and numbered. “Oh, yes, the one involved with those barbarians. Heard you killed one of those Hui vermin who had managed to run off to the Wall.”
+
+Interest sparked in his eyes, and Ling Qi found herself uncomfortable under his focused gaze. “You dabble in dream work yourself, I see. Gates and thresholds? Not a bad focus for a young girl just building her house.”
+
+Ling Qi’s gaze flickered to her liege’s direction. Why was her father focused on Ling Qi? Lady Renxiang’s blank expression was unhelpful.
+
+“I have only just begun to study such things,” Ling Qi said. “I was under the impression that liminal works were out of fashion.”
+
+“Of a kind, of a kind,” he dismissed, waving a hand. His palms and fingers were cracked and calloused like a workman’s, at odds with the rest of his appearance. “The geomancy of towns and cities is about directing the flow of energy properly. That includes manipulating what thoughts and feelings linger in the region's spiritual realm. So many old settlements are laid down with misunderstood principles, lazy and cheap formatting, or at times, I suspect, active malice. It's been a terrible drain on the province. I am working to repair that as best I can, but you see what I have to work with.”
+
+He shot a venomous look over his shoulder. Apprentices redoubled their efforts.
+
+She glanced at Renxiang again. Still no help. “I see. Sir Diao is an architect and geomancer then?”
+
+He sniffed haughtily. “I am an urban planner, young lady, not a mere architect. It is my duty to modernize whole cities and towns.”
+
+“My apologies, Sir Diao.”
+
+“It’s nothing.” The man squinted at her. “I smell Hui on you, girl. Did you take any artifacts from the one you killed?”
+
+“We acquired a great deal of treasure,” Ling Qi said slowly. “But most are being reviewed and cataloged for auction. All I have right now is a brush.”
+
+“Give it here a moment then. I won’t have some child getting their fingers blown off or mind melted by one of their tricks. Enough of that in their trashy settlements and bunkers,” Diao Luwen grumped. “I suppose I’ll have to trust the auction house on the rest.”
+
+She shot a helpless look at Renxiang, whose expression had become thin-lipped. Renxiang offered a tiny shrug. Ling Qi flicked her wrist, producing the paintbrush that had been stored in her storage ring and presenting it to Renxiang’s father.
+
+He took it, muttering to himself as numbers and characters formed in the air around his fingers. The brush glowed briefly in his hands, and then, he handed it back. “Hmph, no surprises. Personal use item, I suppose. Be wary of any spirit that arises from that thing.”
+
+“I have no personal use for it,” Ling Qi said. “My family is very new though so it seems foolish to waste a talisman of such potency.”
+
+“Maybe. If that’s the case, leave it in your home and not that ring. Let it absorb better feelings. Use it for mundane painting even,” he advised brusquely. “It is potent, I'll give you that. Infuses paint with Law. Makes more potent qi constructs.”
+
+“Thank you for your advice, Sir Diao.” Ling Qi took the brush back and dematerialized it back into storage.
+
+Diao Luwen nodded once, turning back to Renxiang. “Hm, hm, I got distracted there. I acknowledge your respect, and you’ve fulfilled your duty. Go on, and let me get back to my work.”
+
+“Of course, father,” Cai Renxiang replied, seemingly unperturbed at being largely ignored by her own father. “It is my hope that your work goes well.”
+
+He grunted an agreement, turning back to his apprentices, and they did the same, heading back for the entrance. Ling Qi shot a look at Cai Renxiang, her brow furrowed.
+
+... It wasn’t her business. And even if she were to make it so, this wasn’t the time.
+
+<Oh darn, tact? I’ve been slacking,> Sixiang huffed. <For what it's worth, I think the guy’s just totally focused on work. Like that’s his entire Way focused on work and hating the Hui.>
+
+“So, we need to meet the Bai delegation next, right?” Ling Qi asked cheerfully. “Do you just want me to accompany you and back you up, or do you have a further role in mind?”
+
+“I would like you to interact with the lower caste individuals first,” Cai Renxiang replied. “The Bai have brought more delegates given the expectations that Bai Meizhen will be assigned to our project. I would like you to inspect the personalities among them and act as a guide. You will rejoin Bai Meizhen and I in the stands when the preliminary begins.”

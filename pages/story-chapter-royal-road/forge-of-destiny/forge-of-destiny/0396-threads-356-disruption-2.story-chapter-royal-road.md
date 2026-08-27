@@ -1,0 +1,131 @@
+---
+id: 89ba0034-f390-5663-b03c-b405cf180834
+page-type-slug: story-chapter-royal-road
+title: "Threads 356-Disruption 2"
+slug: 0396-threads-356-disruption-2
+partOf: forge-of-destiny
+position: 396
+ownLength: 2153
+unit: words
+publishedAt: 2024-01-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1486457/threads-356-disruption-2"
+royalRoadId: "1486457"
+---
+
+Zheng Fu wandered out of the room, loudly citing the need to stretch his legs. She scanned the room. Meng Deming was frowning after him, and so was Dzintara. He'd not been particularly quiet about his departure.
+
+"There’s my cover," Ling Qi muttered. She quietly backed from the table. Meng Dan caught her eye in question, but she shook her head. Later. His uncle glanced between them and whispered something to the younger Meng. She didn't stop to wonder. Leaving through a door at the rear of the hall, she turned a corner and left the waking world.
+
+The liminal of the embassy valley was a wild current like a river in the worst throes of spring. Behind her was a riot of clashing color and sound, a rising glacial cliff somehow fused to a proud castle wall, both things and neither at once. Ice floes cracked and crumbled along the edges and chunks of roadspan floated in the chaotic soup of mixed imagery that was this place, all under a sky filled with the dull red embers of a burning web that enclosed the sky in the shadow of a bleeding, broken mountain. Was it any wonder that things could slip the notice of watchers here with so much noise here?
+
+"Well, we knew this was gonna be rough." Sixiang slapped a hand down on her shoulder as they were carried down a pouring fall of figments like frothing waters shot through with every color in the world and out. "Ah, there's the signal!"
+
+Ling Qi followed their pointed finger and snapped her hand out, grasping the thread of glimmering reflective silver that flashed under her eyes. It felt like a taut musical string, stretched to near snapping and thrumming with vibration.
+
+"Nature of the threat?" she asked as the thread in her hand snapped back towards its source, sending the chaos around her into a jumbled blur.
+
+"Liminal object does not appear to be a conscious creature. Appears artificial. Traveling toward the target zone. Is capable of maneuver in response to interdiction. May be technique delivery mechanism."
+
+She couldn't fault Jin Tae for being short with her here. She sent back understanding.
+
+"Correction: multiple objects. Split in response to interference. Seeking bypass of my reflection arrays."
+
+Well, wasn't that wonderful. Was Zheng Fu moving?
+
+"On my way to the second site, You guys have made a right mess around here, ya know?"
+
+His voice echoed and warped strangely, lowering to an insect’s buzz and rising to a lion’s roar alternatively, but she understood it well enough. Would he arrive soon?
+
+"Yeah, be just a second or two behind, Lady Icicle."
+
+"If you have the spare attention to banter, you can move more quickly."
+
+She pulled herself, propelling through the chaotic liminal landscape toward a knot of small dreams and thoughts, low cultivators reflected through the dream in a place where ice and stone met on a floating berg of earth and stone, a point of solidity in the chaotic soup. She heard a low whine in the air and saw lights flashing. Lights like darting fish in the deep careened through the air, trailing ripples of distorted space.
+
+Flitting about outside were… things. Even looking directly at them, Ling Qi had trouble making out details. Masses of qi seemed to flip from one alignment to the next every time she blinked. They were like motes pulled directly from the unformed liminal, and yet holding together in a way that chaotic soup could not. They flitted to and fro like huge ungainly insects, shooting down toward the collections of muddled thought that were the reflections of the workers here, only to bounce immediately in the opposite direction, their momentum reversed and reflected by a glinting mirror.
+
+One shot away into the chaos, a second rebounded hard with a crack, and a third bobbed and juked crazily, jetting past the spinning perimeter of lights.
+
+Ling Qi shot toward it. Her hand outstretched, ready to snatch it into her emptied storage ring with her thieving technique.
+
+And the moment her qi brushed the churning mass, it burst. Oozing, vile stagnant qi gushed from the point in space.
+
+"No, no, no, no, no, we're at capacity, ya jerk!"
+
+Sixiang's presence washed out, winking lights and laughter, the smell of wine and fresh incense.  Sixiang's projected form, clinging to her shoulder, popped like a soap bubble, turning into a pulsating halo of multicolored light more akin to the sea they were in her mind. And where their light touched, the stagnancy washed away, the stink of stagnant marshwater and rotting logs pushed away under the glittering ripple that went out from her channels.
+
+Sixiang’s technique didn't fully dispel the foulness, but free to view it now, Ling Qi realized that the foul qi was only a medium for something else. Near invisible motes of qi she could only feel from their whispers of hunger and wrath and want resonated with the darkness in her own meridians. They were like… spores.
+
+She wrapped herself in possibility and stepped through the dissipating cloud, swiping the motes from the air before they could touch down among the reflections of the workers with inhuman precision. They dissolved at her touch, pathetically weak, barely held together. What were they meant to accomplish? However, it also meant that no matter how deftly she plucked them, there was no sign that they had ever been there.
+
+A sense of intuition made her gut churn, and she swept her eyes over the inchoate collections of bubbles that the minds of the workers appeared as in her senses here. Her gaze traced the film of those bubbles. Flashes of family, of happiness and mourning, of joy and sadness, swept by under her attention, the images of mundane lives flashes through her head. Despite her speed, a spore touched down… and nothing happened. The thought projection went on, unruffled. Nothing sprouted or burst. The mote dissolved, just as those she had touched had. Only…
+
+She saw another spore gently dissolve on contact with a shimmering bubble. This time, she looked more deeply.
+
+He looked up toward the distant light at the top of the pit and reached out for the hand of the shadowed savior descending toward them, speaking the words to soothe the furious mountain.
+
+Even a month or a week ago, she would have missed it, the shine of the bubble going just a little dull, a little gray.
+
+She was sorry for this. She would have to hope this man would be okay. Her hand knifed into the mass of bubbling thoughts, grasped the slick sickly warm marble of a bubble, and snatched it from the greater mass.
+
+Out in reality, she felt and saw the man stagger.
+
+The bubble in her hand burst into a melting mass of ooze, only the faint impression of writhing and skittering legs rising from the aborted hatching.
+
+"Objects dispersing. There may be a window to backtrace to the source." Jin Tae's voice clicked and clattered in her thoughts. "Inspector Cao detected a disturbance at the hall. He is pursuing."
+
+"Fucky stuff hatching over here. Punching it. Be a minute." Zheng Fu was terse.
+
+Ling Qi looked at the stinking marsh water dripping from her fingers and back to the swirling, confused mass of bubbling thoughts. Why was only this man affected? Were those spore bombs just a trigger for something already in place?
+
+Already, every sign that there was something wrong was disappearing from the man.
+
+"Will you pursue?"
+
+Ling Qi's thoughts flew, a dozen reasons to stay and examine or to fly and give chase passing through her mind. The retreating launchers would surely only be returning to some trap or discardable patsy. It might be too late to glean more than she already had, but this might also be the only chance to catch a glimpse of the source from tracing the path, the only chance to skim traces of the weapon from the man's spirit's before it dissolved entirely.
+
+It was only a pause for seconds, but in Ling Qi's mind, it felt like hours.
+
+"No. Trace with your resources. I believe I might still be able to find traces of the agent on the victims."
+
+"Understood. Turning over defense and investigation to you."
+
+Around her, Jin Tae’s circling mirror constructs in the air reversed their spin, rotated twice, and shot off into the chaotic sky.
+
+<Sixiang, please be my eyes outside,> Ling Qi instructed.
+
+<I got you. Nothing’s gonna get you while I'm your lookout, Lady Wind Thief.>
+
+<Don't you start giving me silly nicknames too.> Outside, this conversation would have been too long, a waste of time that she couldn't afford. Here, where she didn't have to bother moving her lips or making sounds, the whole exchange was less than an eyeblink.
+
+She turned to the churning column of bubbles that was the man while the halo of multihued light radiating from her sharpened and thickened, taking definition like radial rays of light spotted with eyes. Her gaze swept over the others again. No immediate reaction. So there was only one person that had been affected here, the man from the mountain accident.
+
+She gathered her focus, her will around her fingertips where the last of the dissolving sludge was vanishing. Thief of Winds. Thief of Names. This was her cultivation, and when she mastered her arts…
+
+There would be no secret or treasure beyond her reach
+
+She let her manifestation in the dream dissolve, becoming only will and self ensconced against the corrosive energies of the liminal. Her dissolving hand touched the outer edge of the roiling bubbles, and she stepped into.the man's reflected thoughts.
+
+She was not Shu Yue, and she never could be. She couldn't become another person so easily. But she could see them, know them, and understand them.
+
+This man, his name was Chen Gang, and he was a road formations foreman. An expert in standardized construction, he had been working under the Wang clan for close to a hundred years. He hoped to achieve the third realm someday, but he saved the majority of his spirit stones in the hope that he would be able to provide his three sons an education at the Blue Mountain Sect without needing to rely on the draft scholarship. One had already gone off, the boy aiming to be a soldier anyway, though he suspected the foolish boy was trying to help both his father and brothers with how high the cost was. The second…
+
+Ling Qi pushed her way out of the rush of information. What manifested before her eyes was a simple workshop, a place filled with tools and pages of notes. |Blueprints hung upon the walls, and vehicle parts were suspended from the ceiling.
+
+She peered at the ghosts manning the tables, transparent shades of human silhouette shimmering like the skin of bubbles. She understood instinctively that these were the man's sense of self and active thoughts, reflected and conceptualized by her own perceptions.
+
+She drifted like smoke beneath the worktables below their notice. They couldn't hurt her, but even noticing her here would certainly hurt him. Shu Yue had explained that much in training her in this art. She could easily break a person's mind by disrupting things in their “world.” It was different for third realm cultivators or those higher still, whose mind and self-conception could potentially crush any disruption, like her, but low realms and mortals could not endure such violent intrusions into themselves so easily.
+
+Flowing through the space, she peered at everything, looking for irregularity. She saw several of the thought silhouettes stopped in place, some leaning on walls, others hunched over the tables. These must be signs of the agitation and stress from her earlier, cruder theft of the agent that had tried to hatch in him.
+
+Not what she was looking for.
+
+The pages and the parts were scattered on the tables. Normal memories, she skimmed them as briefly as possible. Many were about actual formation specifications, the details of his current duty. She let them slip from her memory immediately and deliberately.
+
+Another lesson from Shu Yue. Taking too many of another's thoughts into her head and keeping them there would end her as surely as letting the energies of the liminal flood into herself unchecked. She didn't let herself dwell too long on the dregs of Huisheng still lurking in her mind.
+
+What she sought to master was not trivial. Most who sought these sorts of arts overreached, stole too greedily, and in doing so, emptied themselves out.
+
+Her eyes caught on a shade headed out of the workshop. It held in its insubstantial arms what appeared to her eyes as a box of scrap, immediate short-term memories being discarded rather than made long term.
+
+Then she caught a whiff of acrid rot and saw something twitch.

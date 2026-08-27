@@ -1,0 +1,273 @@
+---
+id: 445541c0-ffcd-5123-bb30-69dad3bcac72
+page-type-slug: story-chapter-royal-road
+title: "64. Under the Mask"
+slug: 0064-64-under-the-mask
+partOf: god-of-trash
+position: 64
+ownLength: 3252
+unit: words
+publishedAt: 2025-05-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2252513/64-under-the-mask"
+royalRoadId: "2252513"
+---
+
+The white-robed figure lowered the mask to reveal a face Rhys knew well. One that had matured since the year or so when they’d last seen one another, but a familiar face nonetheless. He caught his breath.
+
+“Bast?”
+
+Bast cracked a smile. “That’s me. So you do remember me!”
+
+Rhys shook his head. He put his hands on his hips and sighed. “‘You do remember me,’ says the guy who showed up in full-body-covering robes and a full-facial mask. How the hell was I supposed to recognize you under all that?” He gestured at Bast.
+
+“Speaking of, that’s quite a getup yourself,” Bast commented, tilting his head back at Rhys.
+
+“Like it? I made it myself.”
+
+“Really?”
+
+“Really.”
+
+Bast twisted his lips, then shook his head. “Stick to handbags.”
+
+“Oh, come the fuck on,” Rhys complained.
+
+Bast cracked a grin. He stepped in, offering Rhys his hand. Rhys took it, and the two clasped palms. “Rhys!”
+
+“Bast! It’s good to see you again, buddy.”
+
+“The same for you. How’s life been treating you?”
+
+“Lots of trash. I’m thriving. You?”
+
+Bast gestured, holding out his hands to show Rhys the robes, the fine gold filigree and the delicate embroidery. “You can’t tell from these fine robes? I’m on top. I’m the only disciple of the Sword Saint.”
+
+Rhys nodded. “You do look fine.”
+
+Bast held the pose for another few seconds, then shook his head. He crumbled. “Gods, I’m so sick of this bullcrap.”
+
+“Bullcrap?” Rhys asked, alarmed. Was something wrong?
+
+Bast caught his look of earnest concern and waved his hand. “No, no, not like that. He’s great, a great teacher. I couldn’t ask for more. Honestly, he pushes me harder than Straw, most days, and I’ve made such strides in my intents and sword skills that some days, I hardly recognize myself. It’s the rest of it.”
+
+“The rest of it?” Rhys asked, still very concerned. What was the Sword Saint doing? Taking advantage of Bast somehow?
+
+Bast gestured. “The fame. The attention. I can’t go anywhere without a dozen people bowing and scraping and offering food, favors, money… not for me, but because I represent access to the Sword Saint. I resorted to wearing a mask to get by all that, but that backfired. Now everyone knows my mask, and I still can’t go anywhere.”
+
+Rhys shrugged. “Better than them knowing your face.”
+
+“I agree, but…” Bast sighed. He shook his head. “Shouldn’t be laying all this on you. Come on. This is a happy reunion. Let’s…” He looked around him, at a loss, then shrugged. “Go walking?”
+
+“Sure.” Rhys headed off, leading the way toward the garbage pit.
+
+Bast walked alongside him. He patted his chest, and the robes flew off and vanished into a gold bangle around his wrist, along with the mask. Underneath, he wore plain brown robes, almost designed to blend in as much as possible. He glanced at Rhys. “Sorry, but can I ask you to call me Solaire when I’m masked?”
+
+“No problem. You know, it’s my first time being friends with a celebrity,” Rhys commented.
+
+“A celebrity. Hardly. More like…the pathetic goldfish shit dangling from a celebrity’s ass, you know, the long, stringy kind that just kind of dangles there, that everyone thinks they can use as a rope to—”
+
+“I get the picture,” Rhys interrupted, before Bast completed that metaphor any more graphically than he already had.
+
+“Sorry. I shouldn’t take it out on you. It’s just so constant. No matter what I do, these sycophants constantly—they don’t do it to Master, you know.”
+
+“The Sword Saint? Why not?” Rhys asked.
+
+Bast twisted his lips. “Too powerful. Politically and physically. He’s threatened to kill a few more annoying hangers-on in the past—not out of aggression,” he added quickly, when Rhys’s brows furrowed in concern. “Out of a… desire to be left alone. Master is very black and white. Yes and no. He doesn’t see it as an attack, or even a threat, but simply him very clearly laying out the consequences of their continued actions.”
+
+Rhys nodded slowly. He’d met people like that before back in his world. “Sounds like a fun guy.”
+
+Bast snorted. “You have no idea. I don’t mind his attitude—makes things simple—but I don’t have the strength to scare the flies off like he does. Which means they circle around me endlessly, like I’m a big stinky pile of—”
+
+Rhys put his hand up. “Whoa, whoa. Can you stop calling my friend shit, please? I appreciate the creativity but I don’t appreciate the sentiment.”
+
+Bast blinked, then cracked a grin. “Man, I’ve missed you. I—” He froze. A frown crawled over his face, and his nose wrinkled. “What is that smell? I’ve been smelling it for a while now, but it just keeps getting worse.”
+
+“What, you don’t recognize it from yesterday?” Rhys asked. He pushed aside a bush and gestured for Bast to go ahead into the garbage pile.
+
+“Gods—” Bast rubbed his face. “You know, a part of me had hoped it was merely a fluke that we always meet in garbage pits.”
+
+“No, no. I love the garbage. I thrive in it. I spend as much time here as I can.” Rhys beamed at Bast.
+
+“And I was calling myself shit,” Bast muttered, wrinkling his nose against the stench this time.
+
+“See? You aren’t shit. If you’re going to call yourself anything, call yourself garbage. Speaking of, I was about to start a fascinating experiment. Care to lend a hand?”
+
+Bast shook his head. “Does it involve garbage?”
+
+Rhys’s smile broadened.
+
+Bast sighed deeply. “Fine. Just tell me there’s a source of fresh water nearby?”
+
+“Oh, yeah. The stream is just down that way.” Rhys pointed. “Now come on, daylight’s a-burning.”
+
+The first thing he needed was a forge. He skimmed through the books in a few minutes with the help of Speed Reading, and had the basics down. Forges were actually very simple to construct. Some bricks, some mortar, something to hold the metal in, and somewhere to build the fire. Airflow was important, too, but he was building a trashy forge, and besides, he had the Sword Saint’s apprentice on his side. He was pretty sure he could enlist Bast to do some insane magical-slash-sword bullshit to feed the fire oxygen, and if not, there were accordions in the trash pit that wheezed when he stepped on the wrong parts. Redirect that the right way, and he had himself a kind of shitty bellows.
+
+Plus, there’s probably bellows in here, somewhere. They just don’t cry out like dying asthmatics when I step on them. Having once been a dying asthmatic who would have been quite fine with being stepped on by the correct woman—not that he ever was—he felt like he had the right to say that.
+
+He set the books down, thought better of it, put them in his storage ring, and nodded at Bast. “We need some bricks. Or stones. And something to bind them. I’m thinking clay? There’s clay by the riverside. I can extract the impurities, and it should be clean enough afterwards that we can bake it into place with the furnace’s own heat.”
+
+“Sounds good to me,” Bast said.
+
+“It’ll make the furnace kind of fragile, and I don’t know if it’s something that’ll last in the long term, but I don’t need it to last for long. I’m just trying to fix this.” Rhys pulled the cauldron out of his storage ring and plopped it down, giving it a little pat.
+
+Bast looked over it. “That’s a hell of a cauldron. Or it would be, if it wasn’t…” He gestured at the hole.
+
+“Yeah, that’s the part we’re fixing.”
+
+Bast nodded. “And once we build the forge, and fuel it, and find the metal, and melt it down, how are you going to attach it to the pot?”
+
+Rhys put his fingertips together and leaned over it, looking Bast in the eye. “One problem at a time.”
+
+“Mhm. So you don’t have a plan.”
+
+“I don’t have a plan, yet. That’s different.”
+
+“Is it?”
+
+“Temporally speaking, yes. I live in the fourth dimension, Bast,” Rhys said mysteriously, spreading his bridged hands.
+
+Bast just squinted at him.
+
+Rhys waved. “Let’s go get some bricks, stones, and clay. Then we’ll figure out the next step.”
+
+Shockingly, Bast nobly sacrificed himself to the task of retrieving the clay, leaving Rhys to go find suitable bricks. The trash pit had no shortage of them. There were entire segments of wall carved in here, even chunks of carved stone rent by a blade at some point. It looked as if some of the buildings had once been cut into pieces during some kind of insane mage battle. Rhys found a chunk with a window still in it, the glass intact but cut with all the precision of a diamond glass cutter, but from the shape of it, it was a single sword slash that had severed the wall and the window alike. He raised his brows.
+
+Mage battles are nuts.
+
+He drew his own sword. It wasn’t simple to cut apart the wall into smaller sections of bricks. Whoever had done it the first time had cut through the wall with the greatest of ease, but Rhys had to hack and slash over and over just to get one segment out. If he’d been wielding a real sword, its blade would have dulled, but it was a Trash Intent-formed blade, so it never dulled. It was his strength that failed.
+
+Really? After all that, I still can’t cut an ordinary wall apart? Rhys lifted his blade again, then paused and rested a hand on the bricks. The bricks emanated a powerful pulse of mana, at least at the Tier 2 level.
+
+Oh. Well, all the better, in all honesty. Even with trash, stronger materials made stronger products. He went back to his hacking, grabbing the latest brick segment and wiggling it free. He tossed it onto his pile of bricks. Already, it was almost half as tall as him. Another block for his garbage forge.
+
+Bast returned, a big sack of dripping wet mud wrapped in a cloth over his shoulder. “Congrats, here’s some mud.”
+
+“Awesome. Hold on, I’m almost done.” Rhys lifted his sword again.
+
+Bast stepped by him. He gripped Rhys by the shoulder and pushed him back. His blade lashed out, slicing the wall into perfectly even bricks. “There. Is that better?”
+
+“It’s…” Rhys raised his brows. I always expected Bast to be stronger than me, but seeing it right in front of my eyes is a different experience. He stared for a moment, then shook his head. “That cuts down time. Let’s see that mud.”
+
+Bast plopped it down. The sheet came open on its own, revealing a clump of sticky red rivermud. “Best I could find. Don’t think it’ll hold long under intense heat, though.”
+
+“That’s fine.” Rhys dusted off his robes and squatted over to the muddy pile. He patted it, calling all the impurities into himself. They rushed to him, far weaker than the impurities he was used to. They weren’t worth much for training, but when he removed them, the mud left behind was far more pure, far closer to clay. “There we go. Much better.”
+
+Bast stared. “How the hell…?”
+
+Rhys thumped him on the shoulder and grinned. “You aren’t the only one who’s been training.”
+
+Shaking his head, Bast backed away. “You mages are crazy.”
+
+“You just cut a wall with a normal sword,” Rhys pointed out.
+
+“That’s normal. What you just did… I’ve never seen anyone do it before.”
+
+“That’s normal?” Rhys asked, shocked. “Holy shit, I’m fucked.”
+
+“Huh?” Bast asked, lost.
+
+Rhys gestured. “The tournament! There’s a tournament coming up! You’re telling me all martial artists can just casually slice up a Tier 2 brick wall? That’s terrifying! I’m going to die!”
+
+“Don’t be melodramatic. They don’t let people die in the tournament… usually.”
+
+“Yeah? How about the Strawman’s shitty disciple?” Rhys asked.
+
+Bast opened his mouth, then shut it. He looked at Rhys. “Oh.”
+
+“I don’t mean anything by it, Bast. But you are the apprentice of the Sword Saint. People are begging you for your signature. I’m a no one. If I vanish, die by accident, then the Alliance is all the safer for it, and good riddance.”
+
+“I—”
+
+“I don’t mean anything by it,” Rhys repeated. “I really don’t. But for all that fame is shit, so’s anonymity. We’ve been living in different realities. You’re the premier disciple of the strongest swordsman. I’ve been living as the janitor of a school so small that one single Purple Dawn teacher decided he was going to take out my whole school.”
+
+“The janitor? Rhys, you aren’t even a student?” Now it was Bast’s turn to be concerned.
+
+“No, no, I signed up for it, I’m happy. Don’t worry about me. Well, maybe worry a little bit,” Rhys allowed. If Ernesto really tried to destroy his school for a second time, he wouldn’t mind to have the Sword Saint’s apprentice as backup. “But really, I’m fine, I picked this. Garbage is everything to me.”
+
+“I… guess so,” Bast allowed, looking around them.
+
+“So—”
+
+“But even so, there has to be something I can do. I don’t want people to see you as a faceless victim or someone better off dead,” Bast said, frowning.
+
+Rhys shrugged. “Help me get stronger?”
+
+“Sure. Let’s get started.” Bast reached for his sword.
+
+Rhys stopped his hand. “Whoa, whoa. What’re you getting that out for?”
+
+“What? You want to get stronger.”
+
+Rhys gestured at the cauldron. “I’ve got a plan, right there. Come on. Let’s build a forge.”
+
+Bast squinted at the cauldron, then at Rhys, still lost. “How does that make you stronger?”
+
+Rhys grinned. “Remember what I said about making a plan? I’ve made one, and it’s a banger.”
+
+“Is it?”
+
+Rhys grabbed the clay cloth and threw it over his shoulder. “Let’s go over there. It’s clear, the ground’s flat, and there isn’t too much overgrowth overhead.”
+
+“You know, hundreds of people would pay me any amount of money or favors for a sword lesson from me, the Sword Saint’s apprentice,” Bast pointed out.
+
+“We’ll get to that! We will, we really will. I highly value your strength, Bast. And I especially value it when you grab those bricks over there.” Rhys pointed over his shoulder, already toting the clay to the spot he’d indicated earlier.
+
+Bast sighed, but his eyes lit up nonetheless. A begrudging grin stretched across his lips. “What madness do you have in mind this time?”
+
+“Something that’ll make us so rich, we’ll be pissing gold. But first, I need a cauldron.”
+
+“And not just any cauldron, but this cauldron in particular,” Bast muttered under his breath.
+
+“Not really. That part’s just so I can find out if I can apply my path to this kind of complex multi-step crafting.”
+
+Bast sighed. “You never change, do you?”
+
+“You take that back. I’ve grown a few inches since you last saw me.”
+
+“Uh huh.” Bast eyed him up and down. “Don’t look like it.”
+
+“You only say that ‘cuz you grew more.”
+
+Bantering and bickering, the two of them lugged the raw materials over to where Rhys had indicated. Constructing the forge itself was relatively simple. A box where the fuel and metal would go, then a chimney. Rhys left the entire brick box open in the center, figuring he’d set up the place to put the metal later. Worst case, he’d just find a tough material shaped in a kind of bowl-ish manner, and pile the metal up in there. With Trash Intent, he could probably hold it in place well enough. He would just use a cauldron, but, well, if the metal was soft enough to melt in a cauldron, then it was too soft to patch his cauldron. It’d simply melt every time he tried to push the cauldron to its limits, and he didn’t really want to try holding molten metal into a three-dimensional shape with Trash Intent while also clutching onto the rest of the cauldron, while a highly pressurized, highly toxic material did its best to find a weak spot and escape. Not his idea of a good time. He had to find something harder, with a higher melting point.
+
+We might be left using stone. The stone would crack, but he could at least use Trash Intent to hold it together. He was more worried about the insulating properties of the stone. It would take longer to heat the metal, and longer for it to cool in the bowl. Cooling wasn’t the problem, but heating was. Longer to heat meant it would take more fuel. He could use trees, but he’d rather use trash, and make this a trashy process from start to finish, not to mention absorb a few impurities on the way. It was fine to use some trash, but what if it took so long that he had to start using valuable trash in the fire?
+
+Rhys turned and looked at the giant trash pile.
+
+Okay, maybe that’s not actually a problem.
+
+“What’s the holdup?” Bast asked.
+
+“I need something to melt the metal in, and a firm metal strong enough to hold up against a cauldron’s heat,” Rhys muttered thoughtfully.
+
+“What if you find another cauldron? A better one?”
+
+“A better one? Where am I gonna find a better one? This one’s got the strongest mana signature in the whole—” Rhys paused. He thumped Bast on the shoulder. “You’re a genius, Bast!”
+
+“Thanks for acknowledging it,” Bast said, grinning.
+
+There weren’t stronger large mana signatures in the trash. That much was true. There wasn’t such a thing as a ‘better cauldron.’ But what there were, were small splotches of very powerful mana signatures. Jagged bits of metal where a cauldron had completely torn itself apart, leaving very little behind. Some of those mana signatures were powerful, more powerful, even, than the cauldron he’d found, it was just that the pieces of metal were so small that he hadn’t seen them as cauldrons at all. But he didn’t need a second cauldron, he needed a few bits of metal that he could stuff into a hole in the cauldron he had.
+
+I can’t believe I overlooked something so obvious. Rhys set off across the garbage pit with vigor, seeking out those twisted and tangled bits of metal. Some were as large as his palm; others were as small as his fingernails. He collected them all, piling them up in his sleeves as he went.
+
+Bast watched hm go. He shook his head. “Can’t say I get it, but I guess I don’t have to.”
+
+Rhys returned after long with a pile of metal. “You find something to smelt the metal in while I was gone?”
+
+“Didn’t know I had an assignment,” Bast returned.
+
+“You know it now. Better late than never.” Rhys looked at him expectantly and clapped his hands. “So? What do you have for me?”
+
+Bast shrugged at him. “Nothing?”
+
+“Aw, come on. No more genius ideas?”
+
+“Not really.”
+
+Rhys clicked his tongue and shook his head. “I was counting on you, Bast.”
+
+Bast threw his hands up. Rhys grinned, and Bast rolled his eyes back at him.
+
+“Guess we’re going with the stone-trash solution,” Rhys said, and clapped, heading out into the trash.
+
+“There he goes again,” Bast muttered, watching him scamper over the trash.

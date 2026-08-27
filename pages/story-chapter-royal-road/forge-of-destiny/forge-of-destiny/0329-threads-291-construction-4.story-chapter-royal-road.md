@@ -1,0 +1,201 @@
+---
+id: a14b1bef-c737-5879-8b2c-a798bf5e5f75
+page-type-slug: story-chapter-royal-road
+title: "Threads 291 Construction 4"
+slug: 0329-threads-291-construction-4
+partOf: forge-of-destiny
+position: 329
+ownLength: 2672
+unit: words
+publishedAt: 2023-03-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1133526/threads-291-construction-4"
+royalRoadId: "1133526"
+---
+
+Traveling across the severed mountain peak and following the half-constructed road laid out by posts and string, she made her way toward the southern edge of the plateau. She had begun to feel a hole where one should be. It was the sort of deliberately amateurish masking she would do if trying to advertise her presence without giving her domain away. And indeed, as she moved round the foundations of defensive forts and towers, she found herself looking at a pair of figures who were definitely not workers.
+
+One was an acquaintance. Shrouded in gray robes, including headwrap and veil from which shaggy red hair poked out nonetheless, she saw the man she had briefly met, first in the Dream of Xiangmen and then again in the sewers under Haishan. This was Zheng Fu, scion of the Ebon Rivers ducal clan.
+
+The other, an old man with a face creased deeply by wind and sun, was obviously foreign. Despite the age of his face and the bend of his back, his hair and beard were iron gray and thick, spilling out from under the hood that shadowed his face. He wore a cloak of crow feathers around his bent shoulders, which reached all the way to ground, concealing the rest of his body save for the claw like hand that grasped onto the knotted top of the gnarled walking stick he leaned on.
+
+Whatever they were saying, she could not hear, only the cawing of crows and the sound of the wind. When Zheng Fu turned round, the screening technique swept away like leaves in an autumn wind.
+
+“Ho! Looks like you were right, old timer! There she is! Baroness, I’d like to speak, but I can wait till after you’ve had your chat with this grandfather here.”
+
+If the old foreign man had been any taller, the towering Zheng’s sweeping gesture probably would have clipped his temple. He stood there silently, watching her.
+
+“I was not informed that you would be here, Sir Zheng. But we can speak, of course. Please excuse me.”
+
+She didn’t want to imply in front of one of their guests that someone had apparently just shown up out of the blue. Last she knew, he had simply been carrying a message to the Duchess.
+
+“Ha, well, we can’t just let the other provinces have all the fun,” he said cheerfully, eyes gleaming with humor. “Later then, grandfather!”
+
+The elderly foreigner’s jaw worked, as if chewing on something. “Yes. Later, trickster.”
+
+Ling Qi held in her wince. Gods and ancestors, she hoped Zheng Fu hadn’t caused too much offense. She gave him a short nod as he stepped past her heading back along the road, and then, she stepped forward herself. Instead of bowing, she extended her hand as she had seen the foreigners do. “I am Emissary Ling Qi, and I am pleased to meet you, sir. I hope that you have not been given any offense.”
+
+He considered her in silence for a moment, and she worried that the gesture was wrong. After a few seconds, his other hand appeared from inside the cloak and clasped her wrist. Even wrapped in furs and leather, he was as cold as an arctic wind. Then again, so was she. She grasped the man’s near skeletal wrist back and held, meeting his gaze.
+
+She realized then that one of his eyes was gone, an empty, sunken socket.
+
+He released her. “He tried very hard in the way of your people.”
+
+“What way is that?”
+
+“Titles. Familiarity. You hold yourselves apart with unfamiliar rituals and order. He transgresses. But I am too old to beat my chest and howl at the moon for pride. Grandfather, ‘old timer,’ neither is untrue.” The old man withdrew his hand back into the depths of his cloak.
+
+His diction was strange, slow and considering as if he were drawing phrases from a tome. But his meaning was clear, even if his creaky, cracking voice made it harsh to the ear.
+
+“I am glad. May I ask why you sought to draw my attention, elder?”
+
+He nodded, made no effort to hide what he’d been doing. He no longer felt like a hole in the world, but rather, like an old stone, unremarkable and invisible for it. If she were not looking at him, she’d not know he was there.
+
+“Elder. Same meaning. Kinder,” the man said.
+
+Ling Qi did not rise to the bait. “I will call you as you like, of course. Do you have a name or title, sir?”
+
+“No. I set my name down long ago. Elder is fine.”
+
+It was the prerogative of the old to poke and prod the young. Such practices crossed cultures, it seemed. “Then elder, your purpose?”
+
+“To walk the far fields where there is no hope or hearth.” The crow cloaked elder tapped his stick thoughtfully on the ground. “To catch brave children when they tumble over the cliffs in the dark. Many whisper that the children are climbing high cliffs in the north. I have spoken with one. I would speak with the other.”
+
+Ling Qi only took a moment to analyze his cryptic speech. She was thankfully experienced with this. “You spoke to Lady Jaromila, so you wanted to speak to me.”
+
+He stared at her intently.
+
+She waited patiently, though she knew her time was limited if she wished to keep other appointments.
+
+“You are older than your skin,” he said finally. “What task did the old crone set you?”
+
+Ling Qi blinked at him. There must be some residual power clinging to her from her last dream expedition. “My companion and I fetched her firewood and listened to a story while she cooked.”
+
+“Interesting. Kind. Unusual,” the elder said thoughtfully.
+
+Ling Qi looked at him intently. “Were you ever given a task, elder?”
+
+He smiled mirthlessly and reached up, tugging at his collar. There, she glimpsed thick ropy scars going down a narrow chest as if he had been torn open long ago. “Wrangling the chicken.”
+
+A much harsher task indeed. “Since I believe you are judging me without words, may I ask you a question while you come to your decision, elder?”
+
+He hummed, gestured in a way which she took as agreement.
+
+“Is there anything which troubles your embassy? Any matters of conflict which they have perhaps not spoken of out of politeness? I wish to ensure that all are comfortable and in a peaceable state of mind for the upcoming summit.”
+
+“Your people shy from us as if we are rabid hounds. Words are short, terse, and avoided,” the elder said, confirming some of her concerns. “There is too much tension for complaints.”
+
+“What do you believe would relieve some of your people's tension?”
+
+He tapped his stick on the ground. “Your Lord Soul gives them fear, fear enough to uproot the Weeping Haven and bring her here. We both guard, but not together. Reaching an agreement on who shall patrol where and when would make the women’s grip on their blades looser. I think.”
+
+Ling Qi pursed her lips. That was probably difficult given who was in charge. Perhaps if Cai Renxiang really pushed the matter.
+
+“Would there be anything else, elder?”
+
+“Words between work crews. A sharing of the intent behind your runestones perhaps?” The elder shrugged. “For more, speak to those who still live as men, not this nameless old crow. You are driven.”
+
+That was much more doable. Wang Lian liked her despite their minor disagreement. Framing it as preventing a clash of the two sides’ construction methods would see at least some words shared. She was brought up short by his final words. “Yes. This is difficult, but it must succeed.”
+
+“Must it?” he wondered. “Two together. You are not the same, but you are not so different. You’ll both crack the ice.”
+
+Ling Qi frowned. He was probably referring to Jaromila. “Where two mountains meet, there will be quakes. But one does not need to crumble before the other.”
+
+“Trying too hard, that one.”
+
+“Maybe.” Ling Qi grimaced. “I’m not familiar enough to share a metaphor you might like better, sir.”
+
+She took a deep breath. Should she promise both of his requests? Would the time and effort spent be worth the improvement in the foreign delegations mood?
+
+She couldn’t be sure.
+
+“I can promise to see the issue of the work crews resolved soon,” LIng Qi said, making her decision. She simply couldn’t afford to be meek here. “The military matter is more delicate and will take time.”
+
+“I am not the one who needs to hear these words.”
+
+“But you can carry them, if that is not too presumptuous of me, elder.”
+
+He considered her with his one sunken eye for a long moment. “Carrying words is among my tasks. You are serious about this exchange of words.”
+
+“Lady Cai, Gan Guangli, and I have staked our future and reputation on this. I do not know if that means anything to you, elder, but we at least are very serious.”
+
+“It remains to be seen how well that intent is wielded. But I am satisfied, young emissary. Would you like this old crow to carry words of meeting to our camp?”
+
+“That would be most appreciated, elder,” she said, bowing before she could think better of it. “Perhaps close to evening?”
+
+“The wind will speak to you, if it is agreeable.” His voice cracked apart into the harsh cries of birds by his last word. He turned away from her, his shape wavered, and Ling Qi observed as the man scattered, becoming a flock of dozens of crows, winging away into the sky.
+
+High realms did love their dramatic exits, Ling Qi observed.
+
+Sixiang snorted. <Oh, like you’re not going to do the same when you get there.>
+
+Obviously, Ling Qi thought.
+
+<You did well there. You might need to be more careful with the more worldly ones though. That one was more like me than you, if ya get me.>
+
+Ling Qi nodded, taking one last glance over the high cliff before turning back herself. She agreed. That man was not wholly human. He had given up his name by his own words. She strongly suspected that it had greater implications than a particular string of sounds. She remembered Grydja’s tale. A high realm trusted by them to be so mobile and active? He had certainly given up something weighty.
+
+She saw red and gray in the distance and sighed, seeing Zheng Fu waiting there among the partially constructed towers at a polite distance.
+
+“Friendly chat then?” he asked as she approached.
+
+“May I ask why you are here, Sir Zheng? Surely it isn’t just to heckle my guests,” Ling Qi said frostily.
+
+“Ah, well, the oldsters back home want an eye, so after I dropped off the message with your duchess, I let her know I was coming here.” Zheng Fu shrugged. “I, ah, probably outran the messenger though.”
+
+Of course he did, Ling Qi thought. Or maybe the Duchess was toying with them and seeing if they could handle unexpected trouble. “In the future, please speak to me, Gan Guangli, or Lady Cai before approaching our guests. Now, may we walk and talk?”
+
+He frowned at her behind his mask, but turned to follow her. “Hey, now, I wasn’t trying to make trouble. I was wandering around waiting for you to come out of the garden when the old man showed up and told me you’d be coming to him.”
+
+Ling Qi narrowed her eyes, reading his expression, letting Sixiang feed her the feeling of his aura and intent. “I’m sorry. This is very delicate and stressful.”
+
+“Yeah, it’s a weird quest, but it is what it is.”
+
+“Quest?” Ling Qi asked as they reached the opening of the switchback road and began to descend.
+
+“Yeah, going for your Name. Just prepwork, but I can see it. You and that Cai girl and maybe the big guy? Finding your Name with a posse is a bit unusual, but It’s good.”
+
+Oh, he was referring to cultivation, the consolidation of insights that lead to the formation of a word and true name on which to build higher cultivation. “Our intent is more worldly than—”
+
+She paused. Was that really true? This was a work that would be part of their lives for a very long time. She closed her mouth.
+
+“Ain’t nothin ‘worldly’ about what we do.” Zheng Fu chuckled. “Anyway, I did want to let you know I was gonna be here. Figured it should be you since ya seem like the designated out-of-province handler. Also, you got that icy beauty thing going on.”
+
+Ling Qi gave him a flat look. There was precisely zero interest in his eyes, so it annoyed her instead of alarming her. He was still just messing around. “If you are going to be here, may I ask that you take this seriously yourself, Sir Zheng?”
+
+“Who says I’m not?” he wondered aloud, walking with his arms behind his head. “This is big. I wanna see it happen. Change like this is once in a lifetime, even for us.”
+
+Ling Qi gave him a dubious look. Change was a very slippery word. It would happen with success or failure. She just didn’t know enough about the Zheng to properly judge their interests. Knowing they wanted to involve themselves, that would have to change.
+
+Then again, who knew if he really represented the Zheng clan’s interests? From what she had heard, even the position of Duke of Ebon Rivers was a role they passed around like a party favor between sixth realms, and it was mainly used for interaction with other provinces with very little authority at home. She had no idea how that would work in practice.
+
+“That is your personal interest. May I ask what your clan is seeking, Sir Zheng?”
+
+Zheng Fu chuckled. “Getting us outta the house mostly, and finding things to do. My master, at least, likes what he sees down south here.”
+
+“And what does he see?”
+
+“That maybe, just punching bad guys is a waste of time. A distracting game.” He grinned, stretching the fabric of his mask. “Maybe we should think about punching the things that keep making bad guys.”
+
+Ling Qi considered what she had seen in dreams and read in histories of what had come before. “I think it is rather more complicated than punching.”
+
+“Punching ain’t simple,” he quipped. “You only think that because you’ve got little noodle arms.”
+
+Ling Qi sighed. This wasn’t going to go anywhere. “And what did you want to see me for, Sir Zheng?”
+
+“Wanted to introduce myself,  and let you all know I’m here,” Zheng Fu repeated, scratching at his chin. “Want to get a spot to stay and cultivate like the other provinces. Don’t need anything fancy. Just gimme a space, and I’ll build whatever I need.”
+
+“Any formation work will need to be run past the architects. But that isn’t unreasonable.”
+
+“Ah, hells, I just mean a shack and some training stuff, spooky lady. Guess I can’t blame you for thinking otherwise, dealing with the rest.”
+
+“Please do not intrude on our guests' spaces,” Ling Qi continued as if she’d not heard him. “You will be invited to listen to our reports, and if you wish to engage, we will arrange it. Can you promise that?”
+
+He looked down at her. She looked back. “Yeah, alright, your quest, your rules. I ain’t rude, whatever you folks might think.”
+
+Ling Qi breathed out. “Thank you very much, Sir Zheng. Was there anything else?”
+
+“Nah, you do what you gotta do. Just let me know when you’ve got my spot set up,” he dismissed, waving a hand.
+
+“I’ll have something for you by tomorrow morning then, Sir Zheng. Please excuse me,” Ling Qi said, offering a bow.
+
+And then, she turned and stepped from the side of the path. In moments, she was in freefall.

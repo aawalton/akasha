@@ -1,0 +1,59 @@
+---
+id: 432ee7b2-1469-57e8-a645-c077857b2307
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Handmaiden"
+slug: 0058-bonus-handmaiden
+partOf: forge-of-destiny
+position: 58
+ownLength: 1106
+unit: words
+publishedAt: 2021-02-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625171/bonus-handmaiden"
+royalRoadId: "625171"
+---
+
+Having a handmaiden, Bai Meizhen decided, was entirely more stressful than stories said. Looking out over the lake, she considered her words, and adjusted her grip on the fishing rod in her hands. Beside her, Xiao Fen stood still and attention, with her hands hidden in the long sleeves of her black gown. The other girl’s brow was wrinkled in concern.
+
+“My Lady, what troubles you so?” Xiao Fen asked.
+
+Of course Xiao Fen would notice her consternation. She was after all, her handmaiden. “I have been receiving a great deal of letters,” Bai Meizhen replied. “Regarding your conduct in the Outer Sect.”
+
+Xiao Fen, for one brief moment, looked wounded before her expression smoothed out, and she bowed low, a new fire of determination in her eyes. “I apologize Mistress. I had thought that I was representing your interests as instructed, clearly I have erred. Please instruct me on how I can improve.”
+
+Bai Meizhen lowered her head, and her fishing line sagged. That little display of emotion… She was glad for it. Of all the Xiao she had been given leave to interview, only Xiao Fen had showed that spark of unextinguished passion. However… that same temper had its problems. “Please call me by name when we are alone, Xiao Fen.”
+
+Perhaps it was the irritating Sect rules that kept them apart most times which made things remain so awkward between them still. Still that at least was a mistake that Xiao Fen only made once per meeting.
+
+“Of course, Lady Meizhen, forgive my slip,” Xiao Fen said, somehow bowing even lower.
+
+Bai Meizhen frowned, it was a small thing, but she wished that Xiao Fen could be less deferential. Ling Qi had spoiled her. “Raise your head. Let me say that you have been performing all of your tasks well, the letters I have received are about secondary concerns. There have been several complaints from the Hou clan regarding your treatment of Hou Jin in particular. Others families as well, if less so.”
+
+Xiao Fen looked confused. “But my Lady, the Hou clan is nothing. They are called counts, but what lands do they rule, or soldiers do they lead? They are jumped up courtiers. Why would you concern yourself with the prattle of trash?”
+
+Bai Meizhen was silent as she gave a sharp tug on her line, pulling a wriggling green scaled carp from the splashing water. It was a puny thing compared to the fish of the Lakes, but it was plump enough as Emerald Seas catches went. A single glance and a surge of qi froze the creatures heart, stilling it’s movement immediately. She began to work the hook free of it’s mouth. “It is true that the Hou clan is of the new paradigm in the capital, but this does not make them irrelevant. Their wealth is at least real. However do not mistake my intent. I do not particularly care about the whining of stone counters.”
+
+Even the house of her new… friend, Bao Qingling was not so shameless. Mercantile certainly, but their true power was built from their crafts and lands. That they chose to participate in the actual dickering over stones was unseemly, but not terribly so. For a moment, Bai Meizhen found herself distracted, thinking of the way the girl’s dark hair framed her face. The fish in her hands twitched and Bai Meizhen shook her head. Releasing the unhooked fish, it dropped and was snatched from the air by a tendril of shadow deposited in the basket behind her.
+
+“What have I done wrong then, Lady Meizhen?” Xiao Fen asked. “I did not kill or cripple Hou Jin, nor anyone else. I have been careful to remain within the Sect rules, and even refrained from using Five Organs Rotting art against human opponents.”
+
+“You will find, Xiao Fen, that outsiders have different standards on such matters,” Bai Meizhen replied. She scrutinized the hook at the end of her line, the tines were bent. She would have to replace it soon. Letting her shadow take the rod, she turned to her troubled handmaiden. “I would not call them soft precisely, not all of them, but they are more offended by words than hurts. The trouble, Xiao Fen is not you beating these churls, but the lash of your tongue visited upon their families.”
+
+“I have said nothing that is not true. Their pride far over matches their stations,” Xiao Fen said, looking aside. “Where were they, when the Strife came, or the Twilight King marched?”
+
+She was not wrong, Bai Meizhen thought but the world could not be made to bend, not even by the Bai. Not without terrible cost. These days they lived in saw pitiful creatures like the Hou elevated to high nobility. Even the Duchess Cai had done some such elevating among her courtly houses, casting down those of ancient bloodline who had grown venal and weak. Although her choices as least were less questionable in character. “All the same Xiao Fen, I must ask that you please show more restraint with your words, even if they are true. My Aunt seeks to bring the rest of the Empire back to us and away from the Sun, we cannot do that if we are offending their sensibilities at every turn.”
+
+“I understand,” Xiao Fen said. “...It is a fault of mine, for not being able to complete my diplomatic lessons, I prioritized the combat arts.”
+
+“It is a matter of circumstance,” Bai Meizhen dismissed, resting a hand on her shoulder. “Aunt Suzhen has informed me that the plans for completing your curriculum through correspondence are coming apace.”
+
+Another trouble brought on by their circumstances, normally a Bai would not select their companion until their seventeenth year, but the scattering of their scions had forced a change.
+
+Xiao Fen laid her hand over Bai Meizhen’s and smiled. It was an expression that looked good on the girl, despite its rarity. “Thank you, Lady Meizhen. I will not disappoint or fail you again.”
+
+“You have done no such thing,” Bai Meizhen huffed, gently tugging her hand free. “Now did you bring the spears? I find myself in the mind for a more active sport today.”
+
+Xiao Fen nodded eagerly, and a brace of fine fishing spears appeared in her extended hands, the sun glinting off their bronze tines. “As you requested, my Lady.”
+
+“Good,” Bai Meizhen sniffed, weighing one in her hand and looking back the lake. “Then shall we make a contest of it then, Xiao Fen?”
+
+One day, they would grow closer, as a Lady and her maid should. Bai Meizhen thought.

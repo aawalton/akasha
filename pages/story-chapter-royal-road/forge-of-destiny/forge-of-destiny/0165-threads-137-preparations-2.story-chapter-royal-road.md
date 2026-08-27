@@ -1,0 +1,191 @@
+---
+id: e68a9d11-b7d1-5f13-8259-80882237cb87
+page-type-slug: story-chapter-royal-road
+title: "Threads 137 Preparations 2"
+slug: 0165-threads-137-preparations-2
+partOf: forge-of-destiny
+position: 165
+ownLength: 2506
+unit: words
+publishedAt: 2021-10-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/760490/threads-137-preparations-2"
+royalRoadId: "760490"
+---
+
+Ling Qi had not been idle on other tasks while working on the garden. Each morning, she would either attend sparring with Wang Chao and his group or perform some private cultivation, further refining her new combat arts.
+
+Starless Night’s Reflection continued to come easy to her, and she soon ironed out inefficiencies in the techniques, and prepared to begin working toward the art’s capstone technique. She still had some ways to go, but she was confident that she would soon have the art mastered.
+
+Beast King’s Savage Dirge, on the other hand, was a more daunting art. There was much more to it, more techniques, more little twists to master. She refined its first two techniques further and began to work on its next technique, the Wolf God's Cunning. There was no spectacular growth, just a simple polishing and deepened understanding of the art’s fundamentals.
+
+In the evenings, she checked in with Hanyi. It was hard to talk to her because Hanyi didn't want to talk. She was being willful again, refusing to engage with Ling Qi when Ling Qi had tried to broach the subject of Hanyi’s battle performance. Instead, Hanyi focusing an almost manic energy on preparing for her performance. Sixiang thought the winter spirit needed space to work out frustrations, so Ling Qi had backed off. The last thing Hanyi needed was Ling Qi’s smothering. So she had elected to finish some other tasks.
+
+Ling Qi shifted uncomfortably in her seat at the archive. Across from her sat Bian Ya and Ruan Shen, who were being incredibly inappropriate.
+
+Ling Qi averted her eyes as the older girl sighed in content, letting her head rest on Ruan Shen’s shoulder, mussing her carefully braided hair. Their hands were intertwined atop the arm of the archive chair.
+
+Ling Qi coughed awkwardly into her hand. “Congratulations on your betrothal.”
+
+Ruan Shen smiled at her, a teasing twinkle in his eye. “It just seemed like the time to stop dragging my feet.”
+
+“Honestly, it took you long enough,” Bian Ya said primly. “I had cleared this courtship with my parents ages ago.”
+
+“Sorry, sorry.” Ruan Shen held up his hands. “I’ll be more diligent from now on.”
+
+“I will hold you to that,” Bian Ya said, not bothering to lift her head or open her eyes.
+
+Was she really fine being like this in public?
+
+<You’re such an old lady, Ling Qi,> Sixiang complained.
+
+Ling Qi’s eyebrows twitched. How was it that the gutter-girl had a stronger sense of propriety than the nobles?
+
+“So, what was it you wished to ask, Junior Sister?” Bian Ya asked.
+
+“I want to modify an art, and it’s my first modification. Have you heard of the Harmony of the Dancing Wind art?”
+
+“Mm. That is a funny little art,” Bian Ya mused, cracking an eye open. “A bit awkward in execution. It’s a good choice for your first modification.”
+
+“I thought so too,” Ling Qi said, fixing her gaze a few centimeters above their heads. “Would you be willing to provide some advice?”
+
+“Well, you did help keep this wonderful pillow intact,” Bian Ya said lightly. “What is it you wish to change?”
+
+“I want to remove the active element,” Ling Qi said, after considering for a moment. “The effects I find most useful are the extension of my perceptions. I want to make that two-way. The rest of the art is something I’m willing to discard; I have better arts for those purposes.”
+
+Harmony of the Dancing Wind had been a useful stopgap when she had lacked social arts entirely, but now, between Playful Muse’s Rapport and Moonless Saboteur's Smile, she had better options.
+
+Bian Ya raised her head from Ruan Shen’s shoulder. “I understand why you wished to speak with me on this matter.”
+
+“Senior Sister is the best expert I know,” Ling Qi said humbly.
+
+Bian Ya snorted at the flattery. “Perhaps in a year or two when you’ve expanded your circle of acquaintances, that might even be flattering.”
+
+“Give her a break. Junior Sister Ling has been trying pretty hard of late,” Ruan Shen teased.
+
+Ling Qi just crossed her arms and huffed at them. At least they had stopped… cuddling.
+
+“It’s not too difficult a task,” Bian Ya admitted. “I would normally suggest removing the musical element to achieve what you’re looking for, but your focus makes that a poor choice.”
+
+“You still practicing that art you were looking at before?” Ruan Shen asked, leaning back in his chair.
+
+Ling Qi nodded. “Yes, it’s proved pretty useful.”
+
+“You can probably use Winter’s Hearth Resounding as a model then to convert the Harmony of the Dancing Wind into a secondary background effect,” Ruan Shen suggested.
+
+Bian Ya shot him an unamused look. “I believe I was the one being asked for advice?”
+
+“Sorry,” Ruan Shen apologized with a playful smirk.
+
+“In any case, I would suggest leaning into your command of the wind,” Bian Ya said. “It is an element of transmission, the medium through which light and sound alike must travel. For this art, I would suggest focusing on sound. Attempting to add visual elements would simply snarl the qi flows.”
+
+Ling Qi nodded slowly. “I see. I would probably need to shift the art’s heart meridians to head meridians.”
+
+“Not necessarily,” Bian Ya disagreed. Ling Qi felt the wind in the room shift, and then, fluttering lightness and energy. When she heard Bian Ya’s voice again, it whispered directly in her ear without the girl’s lips moving. “It can be of use to provide some bolstering effect to those you are in communication with.”
+
+“Of course, that’ll cost you in other areas,” Ruan Shen said.
+
+“The Harmony of the Dancing Wind is unsuited to long range communication.” Bian Ya gave Ruan Shen a quelling look. “I do not believe it can be adjusted past the battlefield coordination level. As communications are not your specialty, for your purposes, that level should be enough.”
+
+Fair enough. If she went all in on the communications aspect, Ling Qi probably could squeeze more range out of the technique, but she wasn’t sure how useful that would be given her usual battlefield role. “Alright, thank you for your advice, Senior Sister. Do you think you could assist when I go to make the adjustments?”
+
+“I can certainly observe,” Bian Ya agreed. “And I can warn you if it seems that you are in danger of breaking the art.”
+
+“That is all I ask,” Ling Qi replied. She knew the process was too personalized for anything more.
+
+***
+
+The alteration of the Harmony of the Dancing Wind art took place over several days, spread out in six hour sessions during which Ling Qi had Bian Ya’s assistance.
+
+Altering an art was a meticulous task. It was not something she had thought of while cultivating, but an art was an extremely delicate and complex framework of qi, and each and every twist and slight variation in the flows could have cascading effects on the rest. This was a problem considering that modification was done while the art was equipped, and something going wrong could mean blowing out some of her meridians. However, Ling Qi had her advantages.
+
+“You need to lower the frequency of the emanation in the fourth ear channel,” Bian Ya said clinically. She touched a finger to the pale green vein of pulsing light. “Here, I think. Just a small adjustment of two pulses per cycle.”
+
+Ling Qi grunted an agreement, keeping a tight hold on her internal energies. She sat upon a meditation mat, and Bian Ya stood before her, observing the glowing tangle of lights that represented the structure of Ling Qi’s channels. Sixiang had been very helpful in generating the model.
+
+Letting out a breath through her nose, Ling Qi made the adjustment to the qi structure in her newest head meridian. She immediately felt the mounting pressure in her right temple release as the flows smoothed and ceased struggling to go wild.
+
+“I think that’s the last one,” Sixiang chirped cheerfully. On her shoulder, the image of the muse in miniature kicked their bare feet cheerfully. “I’m not feeling any more irregularities.”
+
+Bian Ya circled the floating meridian model. “No outstanding issues, but you require further efficiency. The flows are rough, and you are wasting qi.”
+
+Ling Qi nodded, rolling her shoulders. “That’s just normal art cultivation though.”
+
+“Exactly so,” Bian Ya said with a smile. “You have done good work, Junior Sister.”
+
+Ling Qi was just glad to have completed the project. While it hadn’t taken long, it had been very uncomfortable. Her head still ached from what she had put it through.
+
+“It’ll get easier, I think. Your head hurts cause there’s still so much mortal-y stuff in there interfering with things,” Sixiang said brightly. “Course, later you’ll have to be careful not to alter yourself too much in the process when the mortal bits aren’t holding things in place.”
+
+“Not how I would describe matters, but not wrong,” Bian Ya mused as the model faded away. “But, Junior Sister, I am curious about one thing.”
+
+“What is that, Senior Sister?” Ling Qi stood, rubbing her temple. They were in her living room, and the hearth had burned down. She should probably start it back up. It would be polite to offer Bian Ya some tea or something for her help.
+
+“The South Wind Blows Unerring technique, why did you choose it?” Bian Ya asked. “I am aware of the task you have been assigned by the Duchess, but surely, you can expect to be provided with talismans which will deal with the issue of translation.”
+
+Ling Qi paused. It had occurred to her. She had worn Liao Zhu’s translation ring when spying on the shishigui underground after all. “I don’t think I would be satisfied, relying on a tool,” she explained. “The Duchess gave me the task. If a talisman is doing the work, then anyone could do it.”
+
+“I suppose I can see your logic,” Bian Ya said dubiously. She graciously followed Ling Qi out to the dining room as they spoke. “But I cannot help but find it suspect.”
+
+“Mm, yeah, that doesn’t feel quite right,” the miniature Sixiang murmured, resting their chin on a fist.
+
+“It’s hard to articulate. But this task is going to be all about understanding strange people. I don’t think I’ll succeed if I’m relying entirely on a talisman.”
+
+It felt lazy like she wasn’t really taking things seriously. That felt disrespectful given… everything.
+
+“I think I understand.” Bian Ya gave her a thoughtful look. “Let me wish you luck on your journey.”
+
+“Thank you very much, Senior Sister,” Ling Qi said, offering a short bow. “Would you care for some refreshments before you go?”
+
+There was just one more thing she had to see to before she could focus on Hanyi’s recital.
+
+<Did you finish composing your part, Sixiang?’> Ling Qi thought.
+
+<Yeah. Yeah, I did,> the muse sent back silently, their voice subdued.
+
+***
+
+The melody’s theme was regret.
+
+Ringing softly over the mist-shrouded hills, the nameless melody Ling Qi had composed echoed between the stone plinths half-hidden in the morning fog. The air quavered with the sound, and the Mist twisted into the whispers of human shapes. The phantoms of fog fought, danced, gestured, and spoke wordless whispers.
+
+And in time, each one faded.
+
+Here, in the field of gravestones representing the Sect’s dead, Ling Qi played her song as a stick of rich incense burned down on the small altar before her.
+
+There were no bodies here, but the dead had to be respected all the same.  Ling Qi had spent much time earlier, wandering the older stones which filled the hills, and the mist never lifted, even when she was long gone.
+
+Ling Qi wore pure white today, the color bled from her gown. An unobservant watcher might think her a ghost.
+
+It was important, Ling Qi thought, as she reached the refrain, fingers dancing across the length of her flute. It was important to be here, even if she wasn’t really grieving.
+
+“You’re being way too unreasonable with yourself,” Sixiang sighed, even as the wind stirred around her, the faint sound of a bow being drawn across strings serving as an accompaniment.
+
+Ling Qi disagreed. Grief was a much stronger emotion. Claiming what she felt as grief was disrespectful. She was sad, certainly, but that wasn’t the same. Regret was the right word.
+
+“You can be obnoxiously stubborn,” Sixiang grumbled.
+
+Ling Qi played, and the incense burned down. The faint flickering light gleamed in the grooves that carved out a familiar name.
+
+She had contemplated death before. When she had dealt it out to her enemies and risked it herself, she had found her peace. It wasn’t the first time someone she had known had died. Zeqing had been her teacher, after all, much closer than a mere acquaintance. However, Zeqing’s death had been by her own hand, her own choice. It was different.
+
+Then again, perhaps that was unfair to Shen Hu. By all accounts, he had known what choice he was making, being the last to retreat.
+
+The last melancholic notes of the melody echoed out, and Ling Qi let her eyes drift open. Around her, the phantoms in the mist shaped by her song faded away, sinking back to earth. Yes, even if she didn’t grieve herself, she understood that others did. Each of these stones marked a memory, a discordant absence in a well-played meter.
+
+She had no responsibilities or obligations to any of them, not even Shen Hu, but a dissatisfied feeling churned in her stomach.  Ling Qi could not help but wonder if something like this was what drove Cai Renxiang’s ideals.
+
+Only one of these deaths had affected her, and even then, not heavily. However, when she looked upon these newly planted stones… In the future, more people were going to die. This field was going to grow. But it would be good if it grew less. If fewer people had to grieve here. If less connections were snapped by loss.
+
+So she was going to have to work hard and do her utmost to make sure that her mission succeeded.
+
+“You’ve got this. You’re the girl who got three Moon Aspects to share. What’s convincing some humans to play nice?” Sixiang asked.
+
+“Maybe,” Ling Qi whispered.
+
+She cast one last look at the gravestone. The incense had burned down, only an offering, a little cup of pale cider that she knew Shen Hu had enjoyed, remained. Ling Qi crouched and poured the libation out.
+
+She wouldn’t be back. By the time she returned, Shen Hu’s remains, and his shrine, would be with his family. All that would remain would be a name carved on the memorial stone.
+
+“Heeeey! Big Sis! C’mon, it’s time! You said you would listen to me practice!” Hanyi’s voice rang out of the mist.
+
+Ling Qi smiled wryly. She should get going before Hanyi did something disrespectful.

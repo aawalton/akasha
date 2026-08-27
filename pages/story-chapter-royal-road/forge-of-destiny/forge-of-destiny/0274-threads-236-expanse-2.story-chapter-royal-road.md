@@ -1,0 +1,151 @@
+---
+id: 7d56c02a-b15a-5ece-a48e-8ebae3564b9d
+page-type-slug: story-chapter-royal-road
+title: "Threads 236 Expanse 2"
+slug: 0274-threads-236-expanse-2
+partOf: forge-of-destiny
+position: 274
+ownLength: 2174
+unit: words
+publishedAt: 2022-08-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/966689/threads-236-expanse-2"
+royalRoadId: "966689"
+---
+
+Wind kicked up as Ling Qi lifted into the air, the hems of her dress fluttering and snapping in the conjured breeze.
+
+Gan Guangli reacted immediately and without a word, stepping in front of her with a wide guarded stance, his fists up. It went without saying that they would need to be careful. Damaging such a valuable and beautiful site would be terrible, even if it were not the home of some sleeping higher realm spirit.
+
+That limited their options. She certainly had to hold Zhengui back. Depending on what they were facing, they would have to—
+
+If she hadn’t been watching for it, she would have missed the faint ripple in the water.
+
+Something finger thin shot out blindingly fast, given away only seconds after by a sound like the cracking of a whip. It struck Gan Guangli’s upraised gauntlet and stuck there, a fleshy filament lined with quivering orifices that each contained a sharp barb.
+
+It was the first of many erupting from the water of the largest pool.
+
+What in the world had Sixiang disturbed?!
+
+<I was just mapping out the water!> Sixiang protested. <Jumping from head to head with fish-y people. I was going deeper to check out a tunnel, and then, I jumped into a head that was already occupied! It tried to take a bite then and there!>
+
+The air was cooling around her, moisture falling as light snowfall as Ling Qi began to cycle her qi. Shadows darkened, flowing like slow black flames along the hems of her gown and pooling in the seams of Guangli’s armor.
+
+With every passing moment, more whip-like tendrils were snapping out, but each bounced from gleaming armor. But if what Sixiang said was right…
+
+“Spiritual defenses first!”
+
+Gan Guangli shot a glance her way just as a faint thwip sound echoed in the air. Something smokey and black like a thorn impacted in the center of his forehead, sinking soundlessly through his helmet. Gan Guangli, standing stalwartly against the barrage of attacks, stumbled, a phosphorescent film washing over his eyes. Ling Qi hissed out a curse, about to tell Sixiang to leap over and wash whatever toxic qi this was out.
+
+“Too weak!” Gan Guangli roared, his voice strangely doubled, and golden fire erupted from his mouth with the words. It flared in his eyes and burned like a crown on his brow. His exclamation turned into a bellow of effort as his fists closed around the filaments gripping his gauntlets and like a fisherman pulling in his net, Gan Guangli reversed the creature’s efforts to drag him in.
+
+It was hideous. A slopping, heaving mass of quivering, shapeless white flesh the size of a horse covered in open fleshy tubes like the mouths of worms and flailing tendrils was flung onto the ground. Milky pink eyes stared out in every direction. Its qi stank like the liquid filth of a sewer, but at the same time, it was sheathed in something more familiar, the dancing, glittering qi of dream. She could already feel the thing coming apart, trying to slip back to the other side.
+
+Ling Qi’s mist flooded out and filled with laughter. Revelers in glittering coats and gowns, of shapes human and not, formed a ring about the beast, and clawed hands grasped its multitude of flailing limbs.
+
+“Up!”
+
+“Up!”
+
+“Heave!” her merry dancers shouted, and with the strength of dozens of phantoms, the beast’s escape was foiled, forcing it back to solidity, and then up it went, tossed into the air.
+
+The beast's flesh inflated, fleshy tubes across its body dilating. Wind was sucked in, and the natural piping of the wind turned to something eerie and erratic. The world started distorting, but only for a moment before Gan Guangli, ever well prepared to follow up, cocked a fist full of sunfire and radiant light and struck. The creature burst open like a thin paper bag filled with rotted meat.
+
+She gagged at the smell of rotten meat as she dissolved in place, reforming her body some meters back to avoid the rain of disgusting giblets. Gan Guangli made a similar sound of disgust as it rained down on him, little white fires springing up across his armor as his Cai-made garb seemed to flare with disgust itself, purifying the taint which dared to touch it.
+
+“That was only part of it,” Sixiang said gravely, their voice carried aloud on the wind.
+
+“What do you mean?” Gan Guangli watched the blue waters warily.
+
+“I sensed something a lot bigger down there. That was, like, a finger or something,” Sixiang explained.
+
+Ling Qi’s eyes burned silver, and wisps of light formed under the surface of the water, seeking and searching. The central pool went far deeper than it seemed as Sixiang had implied. Gray limestone gave way to muddier rocks choked with water weeds, and an opaque black tunnel descended into the earth, clear waters growing murky and polluted. There was some manner of filter there. She remembered the strange fungus entity she had dealt with far below during the expedition to the underground people’s home. Something similar?
+
+“I do not sense anything further. Do you?” Gan Guangli resumed his defensive stance, and she could feel qi echoing out through his feet.
+
+“No movement,” Ling Qi agreed, drifting back toward the floor and the edge of the pool. She looked out across the scalloped pools then to their surroundings. The remaining clumps of the creature were already dissolving and returning to the liminal realm.
+
+He let out a breath, letting some tension bleed out. “Good work, Lady Ling. I did not think you had such fine control of your constructs.”
+
+“Neither did I.” Here, where the real and the liminal were so close, it had been easy. Dream qi was much more reactive in this place.
+
+She knelt at the pool’s edge while Gan Guangli strode up to stand beside her, all sharp lines and gleaming metal to contrast her muted silhouette and cool color.
+
+“Spirits of the pools, what nightmare haunts your depths?” She let qi flow through her voice and her fingertips, tracing ripples on the pool’s surface before bleeding into the water. It was a polite supplication, that of a peer intruding on another’s home.
+
+She waited patiently for a reply, her gathered energy readied in her throat to sing a song of ending should the spirit be intractable.
+
+One of the lesser spirits rose from the pool’s depths, facing her with only a little fear. The spirit’s form was that of a lithe young man with pale skin and fair curls framed a cherubic face and wide, youthful seeming eyes. She also saw serrated teeth, too long fingers with too many joints, and the twitching tail and fins of a fish that took the place of legs.
+
+“The Painted Waters School greets the Lady of Winter and the Lord of Spring,” said the spirit swimming and circling below her. “We call this thing the Haunter in Darkness.”
+
+Ling Qi observed the spirit. She knew that he was a predator himself, although the creature was not bothering with deception, probably judging it to be useless in the face of a higher realm. So, she made no effort to appear less than cold and imperious herself. “And where does this creature arise from? Has it lived long in your depths?”
+
+“No,” the fish-like spirit replied harshly. “Forty and seven cycles of the sun ago, the earth did shake and cracked open the depths. Poisoned water came, and with it, the Haunter. It hooks the flesh, eats the mind, and wears the skin. Many, many have been taken in the dark.”
+
+“And why then have you not been taken?”
+
+The spirit’s eyes narrowed, and he bared his teeth. “The Piper wove a net. He sleeps now, containing the dark. Your singer holed the net, Lady of Winter.”
+
+“How was I supposed to notice it when you make it that subtle?” Sixiang complained.
+
+“The Piper is the spirit in the crystal?” Gan Guangli interjected.
+
+“This piece of their name is what this school knows,” said the spirit. “This mountain is their instrument, but they sleep now, keeping out the poison in the earth.”
+
+Ling Qi let out a hum of concern as she felt Zhengui shift irritably in her dantian. He did not like being unable to help. “This hole, is it lasting?”
+
+“No, not unless I pass through it again,” Sixiang answered. “I felt it closing already when I came back out.”
+
+“Then I apologize for our intrusion,” Ling Qi said. “Perhaps we may be able to negotiate solving this problem for you later.”
+
+A human touch might be able to seal corruption where a spirit’s approach only contained.
+
+The creature regarded her shrewdly. “A tendril slain and fresh winter qi to cure the waters pays thy debt, Lady Winter.”
+
+Or less politely, the spirit had no expectations. They would see if he was right or not, Ling Qi supposed, standing straight.
+
+“Are we done here?” Gan Guangli asked, glancing toward her.
+
+“Any more will require greater time and effort than we have at the moment,” Ling Qi said, turning to leave. “Let us continue our survey.”
+
+***
+
+“Interesting. Am I right to surmise that a leak into the territory of our enemies is a likely culprit?” Cai Renxiang asked from across the map table. This time, they were gathered on a narrow cliffside overlooking the southern pine forest which crowded about the feet of the mountains holding back the glacier which was the likely source of their river.
+
+“That does seem the most likely,” Ling Qi said. “That impure qi is not something which I have seen elsewhere.”
+
+“I will send a report to the Sect and a research request to the nearest archives then.” Cai Renxiang jotted down a note. “Did it seem manufactured?”
+
+“My experience is limited, but my instinct says no. It seems more environmental than deliberate. As the spirit said, the recent conflict has caused damages across the region.”
+
+“I concur,” Gan Guangli said. “The beast did not feel crafted to my senses the way the warbeasts of the shishigui did.”
+
+She cast him a look. It seemed that Gan Guangli had better senses than her in that department. Perhaps his focus on metal qi gave him some insights.
+
+“I accept your word,” Cai Renxiang said. “That was the most notable find then?”
+
+They shared a look. “Yes, outside of—”
+
+The almighty crash of an avalanche in the southern mountains reached them. The earth groaned under titanic hooves. Stalking slowly through the dust, rock and snow kicked up by the avalanche, s massive, shaggy four-legged beast with wide bowl-like antlers that stretched across the sky and a broad and ill-tempered face shook itself, casting off masses of ice and snow the size of small houses.
+
+Fourth realm, and from Ling Qi’s very brief interaction with the thunderhoof, it was utterly disinterested in negotiation. Thankfully, it was also disinterested in pursuit. Cai Renxiang’s expression grew pinched as she looked at the creature.
+
+Its head turned. She felt its gimlet gaze upon them, and it let out a snort that ruffled their hair with a blast of icy wind. It turned and ambled on.
+
+“The headwaters and the southern forest are inaccessible until further notice,” Cai Renxiang said, and they could only nod.
+
+“But leaving that aside, this expedition has been most fruitful,” Cai Renxiang said crisply. “I and the cartographers have identified several sites for settlement and promising resource extraction on the river. The great waterfall and the lake at its base will serve as the primary settlement, as the region is both safe and fertile.”
+
+They had not found any better location for a large mortal settlement and trade center, though they would likely need to seed villages all over their claimed territory as time went on.
+
+“It is unusual to do this, but nothing in this situation is normal,” Cai Renxiang continued. “I believe it is best that we remain together to develop the center as needed before doling out administrative zones. I would understand if you had objections to this.”
+
+Ling Qi shook her head. It was a formality with them, but she understood more traditional nobles might have grumbled about a lord delaying the divvying out of specific territories to their vassals.
+
+“It will be better for the land’s development to develop the center first. It bothers me not at all, Lady Cai,” Gan Guangli replied, shaking his head as well.
+
+“Good. Although you have uncovered several dangers, I remain highly confident in this project,” Cai Renxiang said, and for the first time in a while, Ling Qi saw a ghost of a smile on the girl’s lips. “There is one additional, less serious matter before we break for now.”
+
+“What is that?” Ling Qi asked curiously.
+
+“The river.” Cai Renxiang drummed her fingers on the table. “Our river. It has no mortal name, only the essence of its spirits. It needs one. I am open to suggestions.”

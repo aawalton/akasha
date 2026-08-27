@@ -1,0 +1,137 @@
+---
+id: 9903ec66-2a76-545a-bb7b-d3d19ef5e09e
+page-type-slug: story-chapter-royal-road
+title: "Threads 510 Ith 4"
+slug: 0559-threads-510-ith-4
+partOf: forge-of-destiny
+position: 559
+ownLength: 2552
+unit: words
+publishedAt: 2026-03-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3212989/threads-510-ith-4"
+royalRoadId: "3212989"
+---
+
+The passage of the lift was ponderous. She understood they were moving quite quickly by mortal standards, but she had grown used to faster transportation. It would occasionally jerk and grind or even grind to a halt, eliciting whispers from the formation engineers and hasty corrections to qi flows.
+
+The passage they were traveling through was even more unsettling.
+
+The domineering pressure of the Duchess' passage lingered in the bleached stone. Though the passage was some three meters wide and half again as high, she could almost see the vague outline of a humanoid shape in the contours of the resolidified rock.
+
+The Duchess had gone on a walk, tittered the courtiers. Ling Qi had felt a sovereign's power well enough that the jest fell flat. It wasn't funny at all to stand under the echo of will that had burned through countless kilometers of stone and punched through caverns that now lay bare, all life incinerated, mere shadows cast on white stone in ash.
+
+She was also familiar enough to know that this passage was a show of restraint, control, and mastery of Law. Xia Ren's tunnel would not have been nearly so small.
+
+The squirming strangeness, the way the stone seemed almost to breathe and shift, and the twisting of space she remembered from her own journey into ith territory were all dead here. The stone was silent, and the path razor straight and descending at a smooth slope.
+
+Ling Qi tried to imagine this passage, expanded to fit a marching army. She admitted that her imagination failed her.
+
+It took some hours to finish the descent. Light began to filter in from the end of the passage, and the soft bioluminescent glow was present in some areas of the underground. Qiyi squirmed uncomfortably around her, and her skin prickled with the toxic impurity in the air, but with her filter mask on, she had no difficulty breathing.
+
+The lift came to a halt as they emerged from the tunnel and out onto a ledge in the wall of a vast cavern. In the distance, Ling Qi saw the city of the ith for the first time. In their reconnaissance mission, they had never gone past the vast defensive wall that enclosed the city of the Ya, but here, they had appeared inside it.
+
+It was a sprawling organic thing. Arches and spires of pale limestone grew up toward the vast ceiling far overhead, and fanciful fangs of organically shaped stone hungdown. At the core of the city was a column that rose from floor to ceiling. It was but a twig compared to Xiangmen, but it must have been hundreds of meters around at the base.
+
+To her mortal sight, the city was dull, gray, and drab, but under her senses, it was aglow. Heat whorled through deliberate variations and striations in the rock formations, and the weak fire qi created glittering patterns as vivid as the brighter districts of the cloud. Stretches of land grew knobbly fungus that scattered glittering powders in what she assumed were the equivalent of parks and meditation gardens. It was easily as large as a normal imperial city, if much more organically patterned.
+
+Curving around the city was a mighty river of black, roiling impurity that flowed into a huge inky reservoir or lake before resuming its flow, disappearing somewhere in the far darkness. Above it, rootlets of Xiangmen dangled, curling out from the ceiling, so narrow they were only about the size of normal tree trunks. From them dripped a steady rain of sludgy liquid.
+
+More rootlets curled around the ceiling structures of the city, and the thickest were grown into the central pillar.
+
+She could not ignore one other detail. On the ground extending out from where they stood now, there was a vast fan of bleached ground, shining stark and white. It extended across the kilometers, only slowly fading as it approached the walls. Like the little pocket caverns they had passed, everything the radiance had touched was sterile and dead.
+
+That, she supposed, was the Duchess’ statement. Submit, or she would resume her walk.
+
+A space had been made where the tunnel terminated, a construction wide enough to receive the lift and a platform to hold those waiting for it. Down from there extended a sloping path that zig-zagged down the cavern wall, like the mountain roads on the surface.
+
+There were ith waiting for them, one of whom she recognized by the signature of her qi. Tcho-Ri was the Voice she had spoken to at last year's tournament at the Argent Peak Sect.
+
+Without the enclosing armor she had been sealed in on the surface, it was harder to restrain the instinctive revulsion that churned in her gut as she looked at that eyeless, vaguely canine face. Rubbery grey skin, a few shades lighter than the ones she had seen before, with bristly black hairs spread across her scalp. Heavy metal piercings hung from long, twitching ears, but it was nothing like the almost flayed open ritualist she had seen in the ith temple.
+
+Tcho-Ri and those with her were also dressed decently. Sort of. The heavy robed mantles thrown over their shoulders were clearly something they weren't used to wearing, but it showed they were picking up imperial expectations.
+
+"Guests from the great empire, Tcho-Ri greets you humbly."
+
+An iron band around Tcho-Ri’s neck flashed, and though Ling Qi could understand the yips and barking sounds actually emerging from her throat just fine at this point, the slightly reedy old woman's voice it projected was useful for the ministers’ staff. Perhaps it was even helpful to the ministers themselves. She shouldn't assume the ministers would have communion built into their cultivation.
+
+It was a strange idea that she might have capabilities that her superiors in cultivation did not, or at least, not passively.
+
+The iths' bow was awkward. They had clearly practiced, but the natural slope of their spines didn't match up with the expected motions. Ling Qi glanced at the ministers. She could not read what they did not wish to project, but they were not visibly expressing displeasure.
+
+Then again, neither was Tcho-Ri, but the staff on both sides were less perfectly controlled. There was sullen tension in the ith group and disgust and unhappiness among the imperial group. Both were professional on the face, but she could feel the lines on which tension would grow.
+
+Ling Qi almost wished she could stay here and try to keep this tension to a simmer herself, but her obligations didn't allow it.
+
+"We are pleased with your prompt greeting, unfortunate as the circumstances may be," Minister Tang said. Speaking first, he showed that his people would take the lead.
+
+"It remains our wish that this matter remains cordial, for all the strain which your distant cousins might cause," Zhu Fan said, indicating he would not be a passive observer. "Let us no longer rely on disruptive measures such as this in the future."
+
+Tcho Ri's left ear twitched, and her clawed fingertips tapped against the ground. She tilted her head back, indicating submission and agreement.
+
+Or so Ling Qi thought. Even the ith’s body language was difficult.
+
+"Yes, we wish to keep the strain on our relationship as low as possible, but there are also other security concerns that must be kept in mind," Ling Qi finished.
+
+"It's gonna be awkward trying to get your cuts in without stepping on anyone's ego. You owe me for playing messenger here!"
+
+She did. Sixiang was passing on any relevant observations she had to Minister Tang and Zhu Fan. That really was her sign that she could accomplish some acts more easily and less intrusively than a high realm.
+
+The piercings were signs of rank and had some religious component. She considered the order of their display and the heat signatures flowing through them significant, but she couldn't quite decipher the meanings. Was it entwined with personal expression? A replacement for normal visual cues and tics?
+
+There was also some kind of scent component, but with so little observation, she couldn't do more than guess at its import.
+
+"Has a space been prepared to speak with your leadership, as we requested?" Minister Tang asked crisply.
+
+"What you ask is difficult. The assembly is not in session and cannot be gathered so swiftly as this, and the Minds do not speak without the assembly," Tcho-Ri answered, the tips of her ears drooping slightly. "I may only offer my humble self and a circle of our most skilled Voices, if it pleases. I have tried to explain this, but it seems my Voice is not sufficient to the task."
+
+Ling Qi could already see that this would not be good enough for Minister Tang’s tastes. "If I may make a suggestion, you say the Minds cannot speak without the assembly." Whatever that was. Some large council of nobles who had to be gathered from across their lands? "These matters and your methods are strange to us. Words are easy. 'We cannot' feels like deflection. Will you show us why you cannot?"
+
+She glanced at Minister Tang, who caught her eye and nodded grudgingly.
+
+"I have been given your correspondence to the Duchess. This assembly is not what I requested. However, your explanations of your leaders have not convinced me. I understand they are in some manner of closed-door cultivation only to emerge at appointed times, but for the sake of their city, they must speak and affirm their commitment."
+
+There was a ripple of unease among the ith, softly yipped sounds that weren't quite words and a shift in the scents in the air. Tcho-Ri's iron ornaments jangled and rang with the movement of her ears.
+
+"If it will help the honored guests understand, I can arrange for you to see a Mind, and strive for communion."
+
+***
+
+The journey down from the lift station was quiet and awkward. Very little was spoken aloud as they trod the path down the cavern wall, approaching the radiance-blighted floor below.
+
+The ith walked ahead, conspicuously granting the imperial delegation their backs, in a display that Ling Qi could see was being communicated as intended. No guards. No warriors. Just these cloaked clerics, escorting them down to the city's plain.
+
+She could see more of Zhu Fan's point here. The lift, as it was, was already quite an intrusion, a glaring sore point, like a wound being left unhealed. It was a stark reminder of the threat the ith were under. She would work with him on Minister Tang to see the construction of their watch post somewhere less pointed. If it had to be in the city, then perhaps it could be built near the wall where traces of the radiance were scorched into the rock.
+
+She sensed communication, the gestures and glances of the Law agents, people who were all well so familiar with each other that they need not use words. Even she could only catch snippets of it. They were cataloguing what they saw, processing the data of their senses and of hers, as Sixiang fed them her observations on the ith and their communications.
+
+And the ith were communicating. They did so in scent, the twitch of an ear sending ornaments jingling, the curl of heat under their skin, and the way they walked. It was nothing nefarious; it was simply what might be called body language. They did not have eyes, so subtle sound cues and scents were the equivalent of shifts in expression. Their mild manipulations of fire qi were another vector. They must use something like spirit sight, but attuned to heat in particular. She had already known this but had not realized how fine a sense it was.
+
+The ith were tense and uneasy. Unsettled. Tcho-Ri was, if she judged right, stepping to the edge of a custom by the way they reacted to her proposal. Perhaps it was not usual for only one voice to access a mind.
+
+"Tcho-Ri requests that our guests take no offense at our citizens. We who speak have worked to be presentable to our guests, and have prepared accommodations for you during your visit. We must pass through the city proper for this." Tcho-Ri spoke up as they were approaching the gates.
+
+The path had been empty, going through the bleached territory; no ith worked or walked this area, save those with them. She could see soldiers manning the walls, and these were armored, as were those dangling from the tendrils of the faceless flying mounts patrolling the sky.
+
+"One cannot expect an entire population to present themselves as ambassadors," Ling Qi posed.
+
+"This is true. That your retinue and yourself have worked to comport yourselves properly is acceptable," Minister Tang agreed.
+
+The gates were open as they approached. A pair of huge slabs of rock and metal was bound to a system of pulleys. Its gears operated mostly by mechanical power rather than formation craft.
+
+Ling Qi surmised that their delegation’s arrival was known because few civilians were in the street. Even if they were not broadcasting their presence, neither were they hiding it. Loping gray-skinned shapes hurried to and fro. These were dressed as the ith she had seen before were, mostly in bandoleers, belts, and the occasional mesh holding tools with no concern for what a human might think of as modesty.
+
+Under their feet, she could sense a great deal of movement. The ith city was layered.
+
+Tcho-Ri kept them moving, and soon, they were approaching a spire at the edge of the inner city, like a rib of stone jutting up from the ground. Unlike the other structures, the stone was thin and hollow, and not merely from the rooms carved into it. It felt alive, like it really was a living rib followed by marrow. It had no door, only an organic sheet of flesh which contracted from its center point, stretching open like a pulsing artery to allow them ingress.
+
+Inside, it was hot and dim, humid with dampness from the yellowish vein-ridden walls. Most of Tcho-Ri's assistants stopped at the door, leaving her with only a pair who seemed closer to her. Apprentices, perhaps, judging from similarities in their piercings.
+
+"Is this the residence of your Mind?" Zhu Fan questioned. "It is quite a cultivation site. The convergence of energies here is… Hm..."
+
+"Like a body," one of the Law investigators spoke up, a sharp-faced young woman in black. "That is what I have felt. This feels akin to the places where nerves come together in the spine."
+
+"Yes, you begin to see. I have tried these words, but words are not enough at times," Tcho-Ri said. "Please, upstairs. This will be as close as this Tcho-Ri can bring you to meeting a Mind without a full assembly. The space in the node is small. May I request that the number in the audience be fewer?"
+
+Zhu Fan shared a look with Minister Tang, whose severe expression had become more contemplative. He glanced at her, and she simply offered her assurance. Through Sixiang, she could feel that the unease of their hosts was genuine and without violent intent.
+
+"Very well. Minister Zhu, myself, the Baroness, and my assistant, Lin Mei, will attend."

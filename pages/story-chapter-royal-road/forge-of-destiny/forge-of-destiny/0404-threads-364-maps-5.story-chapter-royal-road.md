@@ -1,0 +1,173 @@
+---
+id: 45fda7f2-c554-5b9c-b1d6-df3578f24eec
+page-type-slug: story-chapter-royal-road
+title: "Threads 364-Maps 5"
+slug: 0404-threads-364-maps-5
+partOf: forge-of-destiny
+position: 404
+ownLength: 2604
+unit: words
+publishedAt: 2024-02-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1528709/threads-364-maps-5"
+royalRoadId: "1528709"
+---
+
+As the rest of the table broke up into smaller groups for refreshment and more casual talks, she gave a nod to Cai Renxiang and broke off, heading to the corner of the room where the old man waited for her.
+
+"You believe you can mollify me," Cao Chun said without preamble. He really was quite annoyed.
+
+"I think I can," Ling Qi said. "Sir Cao, this is the clans’ right."
+
+"And if you think I could not see your manipulation there, using their pride and your connection with the Wang, to get your way and let them think it their own idea, you are a fool. It may not have been some grand scheme, but it was well played all the same. Those your age are often too given to overcomplicated plots when simple social tricks will do."
+
+"I thank you for saying so. May I explain my thoughts?"
+
+He grunted, gesturing for her to continue.
+
+She hummed for a moment, letting him see her examine the wards against eavesdropping and clairvoyance that he kept around him, as natural for the higher cultivator as her own breathing was to her.
+
+"I think it is necessary for the basic information exchange to occur, if this is to last longer term. This is not merely for my own reasons, which you might call soft and overly sympathetic, but also for practical ones as well."
+
+He regarded her with stony silence but did not move to interrupt.
+
+"If we truly are superior to them, then it will only be made more obvious through cooperation. If our methods are better, then there will be those that adopt them. If elements of their practice are useful, our people will adapt them and make our own practice better. And the more I learn, the less useful I find the term ‘barbarian.’ It terminates thought. By all measures, it means only 'not of the empire.' A useless distinction, considering the Sage conquered most of us. That the Xuan joined our great realm well after his death of their own will when they saw what we had built is notable."
+
+"There is a vast gulf of time between the subjugated lords of the forest and the savages of the Wall or these frozen foreigners." Cao Chun’s expression twisted, and his hand tightened on his cane. "It is unworthy for any who live in the Peaks to treat those of the provinces as if they were barely better than barbarians. I am most irritated when I find such infections of thought lingering like malignant tumors among my kin."
+
+She lowered her head respectfully. "I am glad Inspector Cao believes this. We of the Emerald Seas have been troubled, but we are as imperial as the nobles of the Heavenly Peaks. My point, though, is that we were not always so."
+
+"You propose that these foreigners can be brought to us?" The corner of his lips quirked up. "Ambitious, though you do not believe it."
+
+"... I don't," Ling Qi said. There was no point in trying to lie to a cultivator two realms above her. "But that is because I am not certain imperial authority is what makes people civilized."
+
+"And what does, then?" the old man asked mildly. She was pleased to see him engaging her in this discussion. "Bereft of order… You know what people are like, girl. I have read your file. You know what savages men are when they are ill-policed."
+
+"Plenty and peace is what tames the beasts within us."
+
+Cao Chun's expression grew condescending. "Baroness, never come to the lands of the Peaks if you think so."
+
+"Perhaps not all unworthy urges then, but those that lead to direct violence. In a civilized setting, a man might scheme after his neighbor’s wealth, but he will not draw a blade nor gather his warriors to take it."
+
+"Granted, but it is the watchful eye of authority which makes this so."
+
+"And are we not establishing the beginning of authority here? It is my hope that this can satisfy you. I believe we will come to peace through becoming familiar neighbors. You do not believe this, but if we show our excellence, it will move them toward us, just as they have moved the southern cloud tribes toward them."
+
+She paused before adding, "And allow me to share this. From what I have observed, the central authority of the Polar Nation is weak. When I asked after the presence of their capital, I saw dismissal and derision."
+
+It was only a slight exaggeration and a little twist on what she had learned of the Iron King in Grydja's shack and through Jaromila's story. Jaromila’s family had not used the direct authority of the capital to pursue her; they were not the Liu handing down edicts for Ling Qi's mother to be ruined. They had to scheme and plot to kill Jaromila's father, and they had to hide it well to boot.
+
+"Such an outcome would surely be the proverbial tree that only my grandchildren might shade under, but it is our duty to plant such seeds, no?"
+
+Cao Chun leaned on his cane heavily. "I do not know who taught you your manipulations, girl, but they are skilled. You tell me to my face that you do not believe it will be possible, but still, you continue to play on my rightful pride in our institutions."
+
+There was, Ling Qi thought, value in ambiguity. Truth was important, but without varnish, it was a blunt tool, a hammer or a wildfire. Under the Hui, burning every scheme equally had been the right action. She did not think it would be so forever. She felt a faint itch under her eye, a meridian twisting.
+
+Unvarnished truth was not always the right way. Sincerity in your communication was important, but truth as a virtue in itself was less so.
+
+"I know what you believe, and I am explaining how my actions may pay out under that perspective," Ling Qi justified. "I am only providing information and asking you to examine it. If you think it is nonsense, just say it is so."
+
+"I understand now why that miserable coward Jiao had his attention on you. Better that you took service under the Cai. Better headaches than waste. It is correct that I do not have the authority to gainsay the clans here. You have at least convinced me that you have dedication to the empire in your own way. I will handle any elements that wish to complain too loudly of this."
+
+"Thank you, inspector." Ling Qi bowed respectfully, as one would to an honored elder or teacher.
+
+He snorted. "You are on the edge of mocking me. Get you gone, baroness. I must think for now. Bring the Zheng to the embassy this evening. The culprit must be discussed further."
+
+She rose smoothly and left him without a further word, looking out over the rest of the recess where her eyes met Meng Dan's. He tilted his head slightly, silently calling her over. With him was his uncle, Meng Deming.
+
+It seemed it was finally time to become acquainted.
+
+***
+
+"Greetings, Sir Meng, I hope that you have settled in well. My apologies that I have had no chance to welcome you properly before now."
+
+She had made her way over to Meng Dan and his uncle without hesitation and given her greetings with a low bow. That Meng Deming had rebuffed her prior tentative offer of a meeting was left unsaid. He was the social superior here so some deference was expected.
+
+"This whole matter has been hasty. My nephew was able to convey your needs well enough while I worked to settle the ripples of that woman's little bout of swordplay." Meng Deming looked down at her with a piercing gaze, and Ling Qi allowed his senses to sweep over her without resistance. In turn, she took a closer look at him.
+
+Serene. Quiet frog song, the chirping calls of crickets, wind through the reeds, and mist under a moonlit sky. But the reeds stirred, and there were ripples beneath the water, dark shapes that she could not make out.
+
+It was not dissimilar to the feeling that Gu Xiulan’s mother had given her when Ling Qi had met her at the first New Year’s Tournament. Meng Dan’s uncle was more ill tempered than he appeared.
+
+"Sometimes, the world does not allow for long contemplations," Ling Qi said. "I am most thankful for your intervention with the mountain."
+
+"It could have been done without me in the new way, obliterating the spirits of this place and forcing them to grow in a new mold. It was the opportunity to avoid that as much as anything that I came here," Meng Deming said frankly.
+
+"I do think this endeavor has shown promise so far, though, hasn't it, uncle? Lady Cai, Lady Ling, and Sir Gan have been quite deft," Meng Dan offered.
+
+"Their efforts cannot be faulted," the older man relented, folding his arms into his sleeves in front of him. "Seeking peace is the way. Strife has its ways of testing and refining enlightenment, but too much, and it becomes an imposition."
+
+"There are enough ills and ails in the dreaming world without seeking them out. Flagellation does not bring us closer to truth," Ling Qi agreed. This time, the words weren’t an imposition from Huisheng's memory, but instead, her seeking out a thread and pulling it.
+
+Meng Dan raised his eyebrows. His uncle gave her a look. "A debated point, one with more nuance than a few words. But neither deprivation nor indulgence enhance the spirit. How much of this is memorization to impress me?"
+
+"I have been seeking a greater understanding of the Emerald Seas foundations," Ling Qi said. "I do not know that I believe in the dreaming way of the Pure One, but I am an honest student. One must be foolish indeed to build up without understanding the land under their feet."
+
+Whether learning from a being like Huisheng could really be called being an honest student given his thieving game methods was questionable, but that was not really relevant here.
+
+Meng Deming regarded her for a long moment, during which she remained in eye contact.
+
+"More than most who come up through new systems can say," he finally replied. The elder Meng was unreadable unfortunately. Neither his tone nor his aura gave her any clue as to his intent. "I wonder at you. With one hand, you give leave for our secrets to be shared with these… old kin. With the other hand, you would seize a vast swathe of the cloud men's land, land that cannot possibly be controlled by us, for centuries to come. Why?"
+
+"Because I must do one so that people might accept the other. I must be a dutiful subject of the empire if any are to listen to my words where they might conflict with that."
+
+"There is a strain of thought among the Way that the cloud men’s commingling with beasts marks them out as a lower rung of existence, creatures incapable of finding transcendence in this lifetime. You are the opposite. You think even the Wang's adoption is too severe."
+
+"I have seen among the White Sky that the cloud tribe can keep their deals, if motivated enough. In the past, when they could come and go with impunity, why would they? Even if they are only willing to treat now because, as Lord Luo said, 'they are losing,' that is still willingness."
+
+"Fragile willingness. And unenlightened souls cry always for vengeance."
+
+"That is so, but I believe the Emerald Seas will remain strong and united. The situation will not reverse in the foreseeable future, and tradition grows where repetition and habit carve furrows for it."
+
+Meng Deming gave a small nod. "That clarifies your vision. A second subject then. What was the disturbance you rushed to oversee that riled the throne’s dogs so?"
+
+Ling Qi let her mind empty, putting nothing to the surface. "There is some external saboteur, attempting to harm these talks. It was taken care of."
+
+With his cultivation, he might be able to pry it from her mind, but it would be inexcusably rude and noticeable, especially given that she would resist it. She didn't look away from his eyes.
+
+"I see," he said, and the waters rippled faintly. She couldn’t be sure if his reaction was one of annoyance or something else. "I am pleased to have made your acquaintance. I must speak with Lord Luo now though. Nephew, you may remain."
+
+"Thank you for speaking with me, Lord Meng," Ling Qi said, bowing again.
+
+"Thank you, uncle," Meng Dan said as well, and the older man turned and left them.
+
+"Not the most approachable man," Ling Qi observed once he had gone far enough away for her to be confident in the many overlapping social screens.
+
+"No, he is not. My uncle is quite austere. Still, I think you did well."
+
+Ling Qi sighed. "I'm glad you think so."
+
+"You managed as good an impression as you could," Meng Dan said soothingly. "Even I find him difficult to read. But uncle did not seem too opposed to allowing guests in the observatory ground, so long as they are, ah… Sibiar, was it?"
+
+"That is the modern name of the tribe," Ling Qi answered. "Ah, I see. He accepts the tapestry and the ancestral connection, but he takes a rather narrow view."
+
+"That seems to be the compromise position arrived at after discussions," Meng Dan said apologetically.
+
+Of course it was. The White Sky did not seem to take tribal divides as seriously as the empire did its clans, so they wouldn't be too pleased with such a condition, but she could probably still sell the concession.
+
+"Well, I am glad that the official position of the Meng clan is so accommodating."
+
+Meng Dan chuckled at that. "My, you are getting quite good at that. I suppose this whole affair is a grindstone for such skills."
+
+"It is." Ling Qi bit her lip. "Meng Dan, may I ask you a favor?"
+
+He raised an eyebrow. "Of course."
+
+"If you notice any irregularity at all with your uncle… please find a way to inform me," Ling Qi requested.
+
+Meng Dan’s ever present smile dimmed. "Do you understand what you are asking? That verges on the improper."
+
+Ling Qi was basically asking Meng Dan to inform on a member of his clan, in however small a way.
+
+"There is something complicated afoot here, Meng Dan, something that could still ruin this whole work."
+
+Meng Dan did not speak for a long moment, and Ling Qi restrained her fidgeting. She may have pushed too far.
+
+"... I see. Uncle is eccentric, but if he is showing troubles…” Meng Dan let out a breath. “I will inform you, Lady Ling."
+
+"Thank you." She smiled in relief. One more set of eyes on the case, tangentially at least.
+
+Meng Dan stared at her for a moment, then blinked, his expression resetting to an amused smile. "Of course, I shall now forget this was ever spoken," he said loftily. "I believe Lady Cai wishes for your attention."
+
+She observed for a moment longer, tilting her head. He broke eye contact before she did. She turned away, smoothing her expression, and chided herself. What in the world was she doing?!
+
+Ling Qi shook her head to clear it. She almost suspected Sixiang to whisper and laugh with her, but she was alone in her thoughts.

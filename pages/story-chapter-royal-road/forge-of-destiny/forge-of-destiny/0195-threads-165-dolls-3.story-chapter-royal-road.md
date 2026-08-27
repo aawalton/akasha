@@ -1,0 +1,177 @@
+---
+id: 23ce0694-562c-56cc-b4d3-fef1b14af29d
+page-type-slug: story-chapter-royal-road
+title: "Threads 165-Dolls 3"
+slug: 0195-threads-165-dolls-3
+partOf: forge-of-destiny
+position: 195
+ownLength: 2352
+unit: words
+publishedAt: 2021-12-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/811980/threads-165-dolls-3"
+royalRoadId: "811980"
+---
+
+Silence, heavy and cloying, fell in the wake of the spirit’s words. Even the shriek of the wind seemed dampened, and the cold less biting. Ling Qi turned to face her companions, and clasping her hands together, she bowed low.
+
+“I apologize sincerely for the trouble my choice has caused,” Ling Qi said. “I accept fault in the matter.”
+
+“Any path would have seen us face such a creature. There was no avoiding pain of some kind,” Xia Lin responded first, her voice a little thick. “I was, and am, prepared to accept some pain for my duty.”
+
+There was a crack and the sound of falling stone, and Ling Qi saw pebbles and dust falling into the snow, even with her eyes down.
+
+When Cai Renxiang spoke, her voice was even and controlled with no sign of the intense emotion that Ling Qi had seen on her face beforehand. “Xia Lin is correct. The Wall is riddled with dangerous spirits, and your actions have achieved our purposes. Raise your head, Baroness, and lead on. I do not care to stay here.”
+
+Ling Qi straightened up reluctantly. “Of course, Lady Cai.”
+
+She hoped Renxiang would forgive her for what she had done.
+
+<I don’t think that’s the problem, Ling Qi. I don't think she's blaming you,> Sixiang thought as she turned around. <You are the one who wants forgiveness.>
+
+<Shouldn’t I?> Ling Qi thought back, stepping forward on the narrow path.
+
+Snow was still falling, but the cold no longer seemed to sap at her bones, and the wind no longer threatened to tug her from the path. Black Skies Yearning was upholding her end of the bargain. Such was the advantage of dealing with spirits.
+
+<I only saw this secondhand, but I don’t think your choice was wrong. I think you were choosing between two bad choices. Maybe you could have been gentler, but do you think that girl would appreciate that? Appreciate you risking everything on her feelings?> Sixiang rebutted. <You opened a wound, but it’s not one you made.>
+
+Ling Qi trudged on without replying. She hated that she had caused pain to someone she cared for. It felt wrong.
+
+<Big Sister is really greedy sometimes. She won’t leave any responsibility for anyone else,> Zhengui murmured. <Zhengui thinks that the mean auntie is the one everyone should be mad at.>
+
+<She was a jerk,> Hanyi muttered sullenly. <I’m not broken.>
+
+<You’re not,> Ling Qi sent back tiredly. <You’re just yourself, and that is what Master Zeqing wanted.>
+
+Let others think what they wanted. Zeqing wasn’t wrong in what she did. Black Skies Yearning had admitted she was kin. If that was so, they would just have to accept the difference in her line.
+
+She glanced back to Renxiang with another twinge of guilt. There were things she shouldn’t bend on. If only it was always so easy to tell where that line was.
+
+***​
+
+The hike through the glacial gorge took the rest of the day and more than half of the nex. Never during that time did the storm seem as intense as it had been, but it was still an unpleasant journey. The mood of the group was lower than it had ever been. Cai Renxiang gave out clipped orders when necessary and otherwise remained silent. Xia Lin scouted the path ahead and returned, never spending more than a few minutes with the group.
+
+Meng Dan seemed to recover quickly; he had his nose back in his studies within a few hours. He kept drawing Gan Guangli into conversation, distracting the larger boy from his own brooding. Ling Qi didn’t listen in, but she was glad to see at least some of them didn’t have their thoughts occupied by dark things.
+
+Ling Qi distracted herself with the rhetorical exercises of her speech arts. Soon, she would need to be in top form for negotiations. That alone was a valid reason to put away the unpleasant thoughts in her head, was it not?
+
+Despite that, Ling Qi found it difficult to focus on arts like the Playful Muse Rapport when her head was like this. She was glad then that she had done much of the cultivation necessary during the early journey. She found herself doubting if she could really convince total foreigners of a connection to the Empire when her only practice with rhetorical arts were the sort of things useful for court parties. How could she convince these foreigners to agree to a ceasefire when she had been forced to use crude methods just to shake her friend out of a dream?
+
+At last, their journey became an ascent as the narrow rocky path came to the end of the glacial gorge and rose along the sheer cliffs of the high snowy plain at its top. They were very far to the south now, off of any of the province’s official maps, and here, the Wall began to thin out. Mighty peaks were no longer packed so densely, granting a view of the great scrub plains of hardy grass that lay beyond the mountains.
+
+But it was not that view which brought them up short. No, it was the unnatural peak that jutted from the plateau. It was a dark grey cone half visible through the snow, too regular to be natural, but too jagged and weathered to seem intentional. It was a heap of smelted iron ore in the shape of a mountain, piled and fused by forces unknown.
+
+Ling Qi could feel a resonance in the iron shard as she looked upon it. That was their destination.
+
+She didn’t object when Cai Renxiang called for a halt to allow them a short rest before they made contact.
+
+With Cai Renxiang secluding herself in the pavilion to meditate, Ling Qi found herself meditating as well.
+
+***
+
+Ling Qi opened her eyes and looked out over the sea of dreams in her mind.
+
+Sixiang’s presence had not changed too much since her last visit. She sat atop a hill formed from cushions and silks and furniture, but it was a little neater now. Little rolling hills like this stretched on from the shore, natural in contour and only surreal in their composition. Sixiang had begun to fill in details though. Here and there, thin silver barked tree trunks sprouted from the “soil.” Their canopies were masses of twinkling dream figments and starlight, wrapped like mist around slender branches.
+
+Ling Qi took a deep breath and scented flowers on the air.
+
+“What can I say? You and Zhengui got me on a gardening kick,” Sixiang said.
+
+Ling Qi glanced to the side where an avatar of her muse rose from the cushioned hills. Sixiang had changed their avatar a little. Their wispy hair was longer, and the silks they wore were loose, hanging off the avatar’s thin shoulders.
+
+“It looks lovely,” Ling Qi said quietly, smoothing her gown.
+
+Sixiang winced, putting a hand to their chest. “Ouch. You really going to be that formal with me?”
+
+Ling Qi rolled her eyes. “Quit that. You know I wasn’t trying to be formal.”
+
+“Nah, but the mask is starting to bleed in a bit, isn’t it?” Sixiang asked, leaning back to stare up at the false stars in the sky.
+
+When Ling Qi had begun to move in noble circles, that mode of speech had been an affectation, something she had to consciously use. Now, it came out naturally. It was such a small thing, but it was emblematic.
+
+Ling Qi was changing.
+
+“I don’t think that’s all bad,” Sixiang said to the sky. “But, you know, it feels like your problem is like you’re still feeling the opposite.”
+
+“I’m still a coward,” Ling Qi whispered.
+
+The only sound was the surf below and the whisper of the wind.
+
+Ling Qi clenched her fists, fingers digging into the silk she sat on. That’s what it came down to when the other rationalizations were stripped away. Once again, she had hurt someone because she was afraid. Just like the dream of blood. Just like in the streets. Just like when she had abandoned her mother.
+
+Her mannerisms had changed, but she hadn’t. Even the problems with Zhengui and with Hanyi came because she was afraid. She was afraid to let them stand on their own.
+
+“I don’t think that’s right,” Sixiang disagreed. “You decided to do something hurtful for a more certain result, but there was more to it than fear, wasn’t there?”
+
+“If that had been anyone but Renxiang, they’d have broken,” Ling Qi said. Even the echoes of that memory she had experienced indirectly made her stomach churn.
+
+“Yeah, but it was little miss sparkles, wasn’t it? I mean, you have a point—she’s the kind of girl who breaks instead of bends—but you’d need a lot more pressure than that to do it. I think you knew that deep down. I might not totally get it, but that’s the difference with your boss, isn’t it?”
+
+“I’m not sure what you mean.” Ling Qi met the spirit’s sparkling black eyes.
+
+“It’s the difference between blocking a knife with your throat so a friend can take a shot at an assassin and cracking someone upside the head with their trauma to break ‘em out of an illusion,” Sixiang replied. “Instinctively, you only trusted one of those people to be fine.”
+
+Ling Qi opened her mouth, then closed it. Her brow furrowed.
+
+“That’s why it felt so bad, seeing her lose composure like that,” Sixiang continued.
+
+“Of course, I would be upset, seeing my friend hurt like that,” Ling Qi shot back. “I wasn’t sure if Liming was taking control of her for a moment there.”
+
+“That’s fair. I don’t think I’m totally off base though.”
+
+Were they? Ling Qi wanted to say so, but there might have been something to it. So much of her was still rooted in fear. What was loneliness but the fear of isolation?
+
+Well, it was desire, too.
+
+That was the crux. Fear and desire together too easily became the sort of darkness embodied by Zeqing, clinging, smothering, and ultimately deadly. She didn’t want to become that. She had to extend those around her their own agency, but if she did…
+
+“I don’t think you’ll ever not be afraid,” Sixiang said bluntly. “But I think you’re letting that distract you.”
+
+“So you think I chose to hurt Cai Renxiang because I thought she could take it?” Ling Qi asked bitterly.
+
+“Yeah, that’s about right,” Sixiang replied, surprising her. The spirit cocked an eyebrow as she stared at them. “What, are you thinking that’s bad?”
+
+“Of course it is,” Ling Qi spluttered.
+
+“Is it though? Maybe it’s just me, but I think you should trust people to get hurt more often,” Sixiang said with a shrug. “Not like, hang ‘em out to dry or anything, but yeah, you should trust people more.”
+
+“I trust…” Ling Qi bit her own tongue. “I feel like you’re just trying to give me an out.”
+
+“Maybe! I like you more than her after all,” Sixiang said cheerfully. “More importantly, you're annoyed at me instead of being gloomy about yourself now.”
+
+“You’re horrible,” Ling Qi accused.
+
+It was more annoying that Sixiang was right. This wasn’t the same as the bloody dream or the streets. What she had done wasn’t solely in the service of selfish cowardice. She had been talking herself into a spiral of depression.
+
+But all the same, it had made something in her spirit twinge, the same wound that had been aching for months now, brought on by her spirits’ request. She still didn’t fully understand the cause of her pain.
+
+“I’m pretty sure trust is a part of it,” Sixiang said.
+
+“You sound like a mountain echo,” Ling Qi grumbled.
+
+Here in her head, she could admit that she was afraid her spirits could not keep up and that she’d just be alone again.
+
+“Your first instinct is to smother, but you got front row seats to the extreme of that,” Sixiang analyzed. “Think that might be a part of it?”
+
+“Maybe.” Ling Qi sighed. She didn’t think that was the real root either though. Did it really all come back to power? She was still so very small and weak. Her path stretched on, infinite and difficult. There was so much more distance left to run, and yet, there were so many things she had chosen to binder herself to.
+
+“Ah, it’s that fundamental.”
+
+“I can’t stop, Sixiang,” Ling Qi murmured. “That ice spirit, that barbarian titan… Even the Duchess. There are so many people and things who can crush me. But I don’t want to be alone again either.”
+
+Cultivation was an exercise in isolation. To be powerful was to be lonely, as Elder Ying had taught. With each step she took, more peers fell away. The longer she lived, the more of her family and friends, those who could not keep up, would die off. She hated the idea of that.
+
+Having looked on the face of the Duchess, even in memory, she hated it even more. If she got the power she needed, would she become like that? Not the same of course, but something equally inhuman in a different way?
+
+One day, would she do something so awful to a child who just wanted to meet their mother?
+
+“For what it’s worth, I can’t see you doing that with the path you’re on,” Sixiang reassured her. “But deciding to go all the way isn’t without cost.”
+
+Ling Qi nodded in acknowledgment.
+
+“I don’t think you can stop either though,” Sixiang said sadly. “It’d break you. I believe you’ll find a solution though. Just because you can’t stop doesn’t mean you have to sprint and leave everyone behind.”
+
+“I don’t want to slow down either,” Ling Qi replied. “I… I at least have to keep up with Renxiang.”
+
+She didn’t care for the idea of the girl advancing alone. Not when she saw what the end of that path could be.
+
+“Stubborn,” Sixiang huffed. “You’re gonna have to make a choice somewhere.”

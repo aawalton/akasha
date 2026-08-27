@@ -1,0 +1,277 @@
+---
+id: f97bc2a0-3f99-5dc2-ba33-1a88809499e3
+page-type-slug: story-chapter-royal-road
+title: "2. Good Time Had By All"
+slug: 0002-2-good-time-had-by-all
+partOf: god-of-trash
+position: 2
+ownLength: 4677
+unit: words
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2092907/2-good-time-had-by-all"
+royalRoadId: "2092907"
+---
+
+Rhys propped the chair up on the garbage at the edge of the pit and clambered up it. It was a short walk from the pit to the town, and dark when he got there. The town had a wall, and the gates were halfway closed, but a woman was arguing with the gate guards.
+
+She gestured at the darkness. “—still out there! He’s just a child. We can’t—”
+
+“Ma’am, we have to close the gates. We can’t leave ‘em open because one of your orphans vanished. He probably just ran off to play camp, or something. There’s monsters out there, we can’t leave the gates open for one kid.”
+
+“There’s monsters outside—do you hear yourself? You’re just going to lock him—”
+
+Rhys cleared his throat.
+
+The woman turned. She was middle-aged, with silver threading her dark brown hair, and dressed in old, modest clothes. At the sight of Rhys, her eyes lit up. “Oh, thank goodness. There you are! Rhys, come here, come on in.”
+
+He jogged over, cancelling the mana circulating through his body as he did so. He’d left it active all the way from the trash pit, pushing his limits, but he didn’t want anyone to notice anything suspicious yet. He needed to understand more about this world before he let anyone know he’d done something like activate his system or acquire mana. It could be no big deal, or it could be the kind of world-shattering talent indication that would lead to him getting kidnapped by some mad cult of mages. He just didn’t know. He suspected it was ‘no big deal’ rather than a world-shattering talent, given how little mana potion it took to top him up, but better safe than sorry.
+
+The second he was within grabbing range, the woman’s arm snaked out and caught his upper arm in a painful grasp. She yanked his closer and hissed in his ear, “You stay out after dark again and I’ll see to it you get a whooping like you’ve never felt before, do you hear me, child?”
+
+Rhys raised his brows. What an about-face. So she wasn’t as kind as she looked, just a woman getting her job done, who was angry to be inconvenienced by a trouble-maker like him. He got it—he also didn’t like kids—but he wasn’t real happy about being treated like shit, either.
+
+Seeing his unperturbed expression, the woman scowled deeper. She shook him, hard. “You hear me, boy?”
+
+“Yes, ma’am,” Rhys said. She kept scowling at him disbelievingly. After a moment, he put in the effort to give her a terrified expression.
+
+“Good. And wipe that stupid look off your face,” she snarled, dragging him away.
+
+Rhys stared at her back. Did she want him to look scared, or not? He rolled his eyes at the back of her head. No wonder he’d woken up dead in the pit. With someone like this looking after him, of course the other kids had been able to bully him to death. She probably spent as little time around the children as possible.
+
+Over her shoulder, she smiled sweetly at the guards and called, louder, “Thank you so much! I appreciate your help!”
+
+“Yeah, whatever.” The gate rattled as it shut.
+
+Rhys shrugged. At least he hadn’t been locked out with the monsters. And he had all his loot still, even the decoys.
+
+As if she’d sensed his thoughts, the woman turned back. “What is in that horrid sack of yours? I don’t remember giving you that.”
+
+“Mhm. I made it. It’s full of trash,” Rhys replied proudly.
+
+Her nose wrinkled. “Trash? Throw it away!”
+
+Rhys hugged the sack to his chest, as if he’d protect it to the death. In truth, the empty jars were a decoy. Compared to the value of the things hidden in his robes, they were nothing. Of course, he’d be happy to get away with all of it, but well, better to lose a little than everything. If she tried to take them, he’d kick up a fuss until she wore out, but he wouldn’t mind if he lost them. A worthy price to pay, to keep what he truly had looted.
+
+To his surprise, she snorted and turned away.
+
+He relaxed a hair, but internally, grew more tense. She hadn’t even tried to enforce her will. A woman like her, no way would she give up so easily… unless she knew something was for-certain going to take everything from him, without her having to make an effort. He double-checked all his valuable loot and prepared himself to run. The spark of mana in his stomach was almost gone, but he could probably get one last spurt of speed out of it if he really needed it.
+
+For now, he still needed to go to the orphanage to rest his head and receive food. But if he was treated the way he was beginning to suspect he was treated, then he wouldn’t be there for long. His body was young, but his mind was old. He was used to ten-hour shifts and working until he passed out. He could go find a job, if he needed to. Pay his own rent.
+
+Of course, he’d rather not. Not paying rent and taxes was the biggest advantage to being a child. But if he had no choice, he’d do it.
+
+The matron led the way through the cobbled streets and past Victorian-like houses, overhanging their understories and crowding over the street like trees searching for the sun, all the way to the back of the village, where a boxy stone building stood. A large fenced yard encased this boxy construction. At this late hour, no one stood in the yard, but the worn turf and a toy or two hidden away in the longer grass spoke to the building being occupied by many children.
+
+Rhys looked around, taking a moment to get the lay of the land. The fence was stone and metal rods, pointed at the tips. It would be hard to climb, but not impossible. There was enough space between the wall and the house to play tag or evade a pursuer, but not forever, and little to hide behind. He twisted his lips. It would be tough, but he could make it work.
+
+A loud clang startled him, and he whirled, but it was only the matron shutting the gate. Chains rattled as she pulled them through the gate’s bars and locked them shut. “Hopefully no more of you brats sneak out tonight. I’ve had enough goose chases for the week.”
+
+“I didn’t sneak out. I was almost killed by—”
+
+“Hurry inside, or you won’t get dinner,” she interrupted him.
+
+Rhys shut his mouth. It was worth a try, but as expected, he couldn’t get through to her. Rather than risk his loot by pushing things, he scurried into the boxy building.
+
+Its construction was as simple within as it was without. A central hallway, with rooms to the left and right. A staircase dead ahead of the front door led to the second floor, which was laid out much the same. Candle light and conversation came from the rear of the house. Even from here, he could see a large room laid out with long tables, each one occupied by children. Rhys approached it, adjusting his grip on his empty potion vial sack. If there was a real challenge to his ownership of the satchel, it’d come when he stepped inside.
+
+So, with a deep breath, and clutching tightly to the spark of mana in his core, he did just that.
+
+He almost expected the room to fall silent, but naturally, nothing so dramatic came to pass. Instead, the kids went right on eating. Most of the tables were occupied, and none of the kids called out to him. For a moment, he was back in high school, terrified he might sit with the wrong clique and commit social suicide.
+
+In the next, he scoffed. Who cared what a bunch of brats thought?
+
+Rhys retrieved a bowl of thin soup and a piece of rough bread from the matron at the far end of the tables, then sat down at the nearest empty seat. The children near him scowled and withdrew, but he ignored them. With the practiced hand of a born loser, he gulped down soup and bread in a few short moments.
+
+He’d barely finished when a shadow fell over him. A meaty hand landed on his shoulder. “You’re not hungry, are you, Rhys?”
+
+Rhys turned, exposing an empty bowl. He looked up at Tam and shook his head. “Not anymore.”
+
+Tam scowled. “You ate your bread?”
+
+“It’s my bread,” Rhys returned.
+
+“Didn’t we agree that you aren’t that hungry, so you should give me your bread?” Tam asked threateningly.
+
+“Did we? I don’t recall,” Rhys said lightly. The bullying extended even to this extreme? He supposed he wasn’t surprised, but nonetheless, it was shocking just how petty children were. It reminded him why he usually avoided them like the plague.
+
+Tam gripped his ponytail and pulled his head back. His eyes narrowed. “Did you not learn your lesson today?”
+
+Rhys glanced at the matrons, but as expected, they pretended to see nothing. He scoffed quietly and turned his eyes back to Tam. “Oh, I learned my lesson. Did you?”
+
+“What?” Tam asked.
+
+Rhys tapped Tam’s hand. “That blood on your hand… did it ever occur to you that you might kill me?”
+
+Tam recoiled, jerking his hand free. He looked at it. There was nothing smeared on his palm—Rhys’ blood had long since dried. Turning back to Rhys, he laughed. “Trying to scare me with ghost stories? Do you think I’m five?”
+
+“But I am dead. You killed me,” Rhys said, his face dead serious. He stared Tam dead in the eye, unflinching, unmoving.
+
+Tam backed away. He frowned. “What the heck? You just ate soup. You can’t be dead.”
+
+“Have you never heard of hungry ghosts?” Rhys whispered, and licked his lips, still staring down Tam.
+
+Tam backed away. He scoffed again, but he sounded less certain about it. “You’re insane.”
+
+Rhys just smiled, slowly.
+
+Rolling his eyes, Tam walked away, making sure to knock Rhys’ shoulder on the way past. “Better leave your bread in the morning, or else.”
+
+Rhys watched him go and said nothing. Only when Tam had retreated back to his seat did he finally stand and walk away. He’d done what he needed to do. It was time to get the rest of the plan moving.
+
+The trio had killed him. There was no mistaking that. Whatever retribution he visited upon them, they’d brought it upon themselves. But first, he had to familiarize himself with the building. The real Rhys would have known it like the back of his hand, but to him, it was a brand new location.
+
+None of the other kids left the room, even if they were done eating, and the matrons shot him a nasty look on his way out, but no one stopped him. Rhys took that as permission to keep going. The rest of the building he investigated in short time, mostly because there was precious little to see. Upstairs were the dormitories, two long rooms occupying either side of the hall. One was reserved for girls, with beds decorated with flower crowns and the scent of perfume lingering on the air, while the other was reserved for boys, and stank like it, too. He went from bed to bed, trying to identify Rhys’. In the end, he’d eliminated all the beds except one, a dirty, stained mattress with a single tattered sheet. A pair of shoes, tucked underneath, contained his name in small, crammed font, which confirmed it. He snorted. That wouldn’t be his for long.
+
+He might be a loser back in his home world, but he wasn’t so pathetic as to get bullied by a bunch of children. Nor did he intend to let their crimes go. If it was his world, they’d get sent to juvie for manslaughter. In this world, they’d probably get hung directly. He didn’t intend to kill them, but nor was he going to let them get away with it. They’d only escalate things if he turned the other cheek. Being a loser had taught him that much, and he had no intention of getting trampled in his second life, too.
+
+There was little else in the building, save a few lesson rooms and a play room for the smallest children. He couldn’t access the kitchen with the matrons there, so he left it. He didn’t need the kitchen, anyways.
+
+That night went quietly, and so did the next day. When he had time away from the other kids, he’d take a drop of the mana potion and circulate it until he grew feverish. Slowly, he adapted to the mana. As for the bullies, he avoided them like the plague. With the help of mana, it was laughably easy. At mealtimes, he’d eat fast and run off. During free time, he hid in the trash pit and dug for treasure. When they had lessons, he was the last to enter and the first to leave.
+
+His precious potions stayed on him always, while the empty vials he sold to a local apothecary. The shop’s owner asked him few questions, and he provided few answers. Each empty vial was only worth a quarter-penny, but it counted up over time, and by the end of the week, he had almost twenty cents. It didn’t sound impressive to his modern ears, used to sums in the thousands of dollars, but twenty cents was a good wage for a day’s work, here, so given that he could make that from doing nothing but rifling through the trash, he was satisfied.
+
+The potions he hadn’t asked about, but from glancing at the alchemist’s board, they wouldn’t be less than a full gold coin. For a village like this, that was incredibly rich. There wasn’t a single person here who could afford that kind of remedy, and even if they could, they wouldn’t waste their money on it unless they were backed into a corner. In other words, he had a fortune on his hands; he just didn’t have a place to sell it off.
+
+But that was fine. It just meant he had a guaranteed survival plan, and in an unpredictable fantasy world he barely understood, that was worth more than one gold.
+
+As for his skills, Scavenging grew to level 5, while Less is More hit 6. He hadn’t yet developed a skill for handling mana, but he felt as though he were on the verge of a breakthrough there. A few more days of sipping the mana potion, and he’d have a real chance at gaining that kind of skill.
+
+The whole time, he kept his eyes on the bullies, biding his time. A few times, Tam tried to corner him, only to be called away by a matron—not to save Rhys, but because lessons had started or the meal had begun. The more frustrated the boy became, the happier Rhys was. All according to plan.
+
+Unfortunately, he hadn’t learned much about the world in general. He’d tried asking the matron some simple questions, only to get knocked back with a generic “Don’t you know already?” Not wanting to give away that he knew nothing, he’d simply walked away. The textbooks in the orphanage were dry and smacked of propaganda where they spoke of the world around him at all. Mostly, they covered the basic subjects like math and literacy without branching into anything as complex as history or geography. Peasants like him weren’t meant to care about such things—or at least, that was the vibe he got.
+
+Still, he hadn’t learned nothing. The people on top of the mountain were mages, and they were incredibly powerful, but bound by a code of honor that included noninterference with mortals, or rather, non-mages. There were also martial artists and adventurers, who lived by their own rules and roamed the land freely. In other words, all his dreams of climbing to the apex could come true, but it was a long way off. And the orphanage wasn’t the place to achieve those dreams. The matrons were quite firm about that. He was meant to find a trade and live quietly as someone’s apprentice in three years, when he aged out of the orphanage.
+
+Of course, the only part of that he heard was ‘three years of free room and board.’ He had no intention of playing by their rules, and absolutely no desire to live a quiet life this time around.
+
+On the third day, he set out toward the trash pit only to hear footsteps behind him. He turned. Tam and Den followed him, pretending not to follow him, while Bast stared directly at him, grinning like a hyena. He turned back around and walked on, a small smile touching his lips. Good.
+
+Rhys kept his pace all the way to the trash pit. The second he climbed in, and the wall obscured the boys’ view of him, he sprinted around a nearby nook in the wall and vanished out of their sight. The boys reached the edge of the pit and paused.
+
+“Where’d he go?” Den asked.
+
+“Where else? The trash. Get going,” Tam replied. There was the sound of a blow, and a quiet oof from Den.
+
+“I don’t wanna go in the trash,” Den complained.
+
+“Oh, come on, Den. We’ve been in the trash a billion times before. What, are you afraid? Do you think he’s actually a ghost? Gonna let him keep making fools of us? He didn’t learn his lesson. We gotta make sure he learns. We agreed on this, Den. Now get moving.”
+
+There was a grunt. “You go first,” Den insisted.
+
+Tam sighed loudly. “Alright, fine. Bast, you go first.”
+
+Bast laughed aloud. “This is your fight. I’m just here cuz I’m bored. If you wanna catch Rhys, you catch Rhys. It’s none of my business.”
+
+“Don’t you like beating people up?” Tam whined, annoyed.
+
+“I like fighting. I don’t like beating on the weak. That’s your thing,” Bast replied flatly.
+
+“Oh, come on.” With one last complaint, the three-legged chair creaked, and Tam climbed down. There was a short pause, and then Den scrambled down after him. Bast hopped from the ledge, forsaking the chair entirely.
+
+“So… where’d he go?” Den asked.
+
+Rhys grinned. Just like he’d wanted. Hidden in his nook, he pulled a thread. The cans he’d found in the trash yesterday toppled, making a loud sound.
+
+“Ha! You thought you could hide? Filthy little rat,” Tam shouted. He ran toward the cans, with Den at his heel. Bast trailed slightly behind them, head high and hands in his pockets.
+
+In the nook, Rhys tensed. He leaned into a sprinter’s stance and activated the mana inside him. He could handle two drops of the potion now; not a huge improvement, but better than nothing. Watching the three boys, he counted slowly in his head.
+
+Three. Two.
+
+Tam yelped as the ground gave out beneath him. Den jumped back, and for a split second, Rhys thought he might have to deal with him, but then Tam latched onto Den. His weight was more than Den could handle, and so he pulled Den down into the pit Rhys had dug for them, rather than saving himself. Bast jumped back, suddenly on edge.
+
+Now. Rhys shot forth, running as fast as his tiny amount of mana would allow. Bast started to turn, but too slow. Rhys latched onto his shoulder and drew that final prize from his robes, holding it to Bast’s throat.
+
+Three inches of blade glittered in the sun. The sword had snapped not far after the hilt, making it useless to any swordsman, but more than enough to threaten a kid like Bast. Bast struggled, and Rhys tightened his grip, pushing the cold blade into Bast’s neck—not yet hard enough to cut, but close. “Hold still, or else.”
+
+Bast froze. He put his hands up. “Huh.”
+
+Down in the pit, Tam and Den screeched. Small, dark forms crawled over them. Rats, mice, ants, cockroaches, spiders, and all kinds of other horrific creatures roamed in the pit. Whenever he’d encountered one, Rhys had caught it and tossed it in his pitfall trap, then seeded the trap with bits of his breakfast and dinner bread so the pests would stay. The trap wasn’t exactly crowded, but he’d at least made sure the two bullies wouldn’t have a good time.
+
+“Wondering why you aren’t in the pit?” Rhys asked Bast.
+
+“Little bit, yeah,” Bast said, far calmer than Rhys had expected.
+
+“I could have pushed you in, but I didn’t, because I have a proposal for you. When Tam killed me three days ago, pushed me off that cliff and let me knock my head on the stone, you watched, is that correct?”
+
+Bast nodded. He frowned. “What do you mean, you died?”
+
+“So you’re only accessory to murder,” Rhys continued, ignoring Bast’s protest. “Which means I have a lighter sentence for you. What do you say you leave those idiots behind, and take my side?”
+
+Bast considered. For a child with a knife to his throat, he was startlingly calm. It was honestly starting to worry Rhys a little bit. Did Bast have the skills to back up his calm demeanor? Or was he naturally relaxed under pressure?
+
+His skin brushed Bast’s, and a shock of mana leaped between them, almost like a static shock. Rhys’ eyes widened as he suddenly understood. Bast, too, had some small amount of mana. Not only that, he seemed to be better at controlling it than Rhys. He might truly feel no pressure from someone like Rhys threatening him.
+
+“I like fighting,” Bast said at last. “I don’t really care about those two. I could get into lots of fights by following them around, but I don’t enjoy bullying the weak the way Tam does. It’s just kind of boring to me. I’d rather take on a more powerful opponent and challenge myself than hammer someone I already know can’t win. If you can offer me the opportunity to fight, then sure, I’ll swap sides.”
+
+“You’re awfully calm for someone with a knife at his throat,” Rhys commented.
+
+“Well, it isn’t the first time. And you’re weak, and you don’t have any killing aura. If it makes you more comfortable, you can go on pretending to threaten me, but I won’t be scared,” Bast replied.
+
+Rhys snorted. Bast had basically confirmed everything he’d wondered. He lowered the sword and stepped back, keeping it between him and Bast. Bast turned and looked at him, without a single ounce of fear in his gaze. Slowly, Rhys put the sword away.
+
+“I can’t guarantee fights, but I can guarantee you I intend to climb to the very top of this damn world and stand at its apex.” Rhys’ eyes shone. Utter conviction sounded in his voice, and he rested his hands on his hips, gazing to the horizon.
+
+Bast raised his brows. In Tam, he’d only seen a bully and a pig, a close-minded person grunting his way to his next meal. Rhys, though, Rhys had vision. Vision he’d never known the small boy to have before. He nodded. “That sounds more interesting than bullying kids. Take me with you.”
+
+Rhys offered his hand. “I hope this is the start of a wonderful partnership.”
+
+Bast took his hand, and they shook. “I hope I get to fight a lot.”
+
+“Bast! Help!” Tam shouted.
+
+Rhys motioned for Bast to stay back and walked up to the edge of the pit. He crouched there, looking down. “Bast is on my side. How do you feel now, murderer?”
+
+“What? Let me out of here! You little bitch. Let me out right now, or I’ll beat you so hard you’ll feel it next week!” Tam snarled.
+
+Den clawed at the walls, his eyes big with panic, shivering with his whole body. At the sight of Rhys, though, his eyes narrowed. “Fucking rat! Let us out, shitstain!”
+
+“No, I don’t think so. I don’t think you’ve learned your lesson at all. You know, pushing people into pits is very bad, don’t you agree? In fact, it can even kill them. You’ve experienced the pit, but you haven’t experienced near death. So why don’t we make that second one happen? Bast, can you grab that piece of wood, there?”
+
+Tam tensed. “What are you doing?”
+
+“Sending you to hell,” Rhys said evenly. He took the wood from Bast and laid it over the mouth of the pit, eclipsing the sun.
+
+“No, no, no, Bast, don’t you dare! Don’t you dare! I’ll—”
+
+“Bye,” Rhys said, and with one final wave, he shut Tam and Den in the pit.
+
+Bast dusted off his hands. He nodded at Rhys. “Sorry about earlier, by the way. I told Tam not to push you, but you know Tam.”
+
+“If you really feel sorry, then follow my orders from now on,” Rhys replied.
+
+Bast nodded. After a beat, he cleared his throat. “Are you actually possessed by a ghost?”
+
+Rhys paused. He looked back. “Why would you say that?”
+
+“Because you aren’t Rhys. I know Rhys. He’s a scaredy-cat that quavers and wavers over every little thing. Rhys wouldn’t have the guts to lock Tam and Den in a pit, or to threaten me with a sword. In fact, even avoiding us is more than I’d ever expect Rhys to be able to do. So who are you? And what happened to Rhys?”
+
+Rhys stared at him. He said nothing, but internally, his mind raced. He’d been found out, this quickly? What was he supposed to do now, run? Did this world have exorcists and the like? No, for that matter, what did he even qualify as? A possession? A reincarnation? He himself didn’t know, but he didn’t want to find out. Especially not at the receiving end of someone vastly more powerful’s spells.
+
+Bast met his gaze. For a few moments, they stared at each other in silence, both of them wearing their best poker faces. Bast broke first. He laughed and waved his hand, shaking his heat at Rhys. “Your face! Ha. No, don’t worry. I won’t report you. Whatever you are, you’re far more interesting than Rhys was. I’ll follow you to the ends of the earth.”
+
+“I’m Rhys. I just matured a little,” Rhys defended himself, a few beats too slow.
+
+“Sure, sure.” Bast grinned, not even a drop of belief on his face.
+
+Rhys sighed. Ah, well. It seemed Bast didn’t want to report him. Though even if the boy did, it would be one boy’s word against another’s. And who took twelve-year-old kids seriously? No, Bast was no threat to him.
+
+“What have you been doing in the trash, anyways?” Bast asked.
+
+“Preparing the trap.”
+
+“You’ve been doing more than just that,” Bast muttered.
+
+Rhys cut him a look. Or maybe not. Bast was a little too perceptive. “None of your business.”
+
+“Yeah, yeah.”
+
+They reached the town again. Rhys beelined for the orphanage without a second’s hesitation. He needed an alibi, in case Tam decided to rat him out, and there was no better alibi than the matrons themselves seeing him quietly study for almost the entirety of free time. If things worked in his favor, they’d forget that he vanished at the very start of free time, or simply assume he’d been studying the whole time.
+
+Abruptly, he paused. Bast almost bumped into him, dodging to the side at the last second. “What is it?”
+
+Rhys pointed. A poster on the wall advertised a tournament for martial artists, adventurers, and mages of all stripes, winner-takes-all. His heart raced, and adrenaline instantly surged. The opportunity was too good to pass up!
+
+Bast gave him a look. “I’m not that strong.”
+
+“No, that’s not it. Listen…”

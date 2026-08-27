@@ -1,0 +1,135 @@
+---
+id: 21a7f354-8605-5aba-8414-6c8614a86ba7
+page-type-slug: story-chapter-royal-road
+title: "Threads 527 Lakeside 2"
+slug: 0576-threads-527-lakeside-2
+partOf: forge-of-destiny
+position: 576
+ownLength: 2003
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3559174/threads-527-lakeside-2"
+royalRoadId: "3559174"
+---
+
+Ling Qi gestured for the potter to raise her head. "I see no disorder beyond the results of one at work. I hope these accommodations are serving you well until a proper workshop can be constructed."
+
+"They are, Lady Ling. The organization of supplies and staff exceeds even some established shops in the capital. Only the infrastructure lacks in comparison, and that is only a matter of time. The quality of the establishments I have seen being built is no less," Lai Wan replied swiftly, and she even meant it. However, the shops in the capital their district exceeded would be the poorly recognized ones. So, it was not a lie, but using missing context to be generous.
+
+"Lady Cai will be pleased to hear that her programs are finding success," Ling Qi replied politely. If they were achieving that standard with such primitive conditions, though, it was a good sign. "While I am glad you are settling in well. I am interested in your attempts with our local reagents. I need to update the reports on its properties and quality."
+
+"Of course, Lady Ling. I was just examining the latest pieces. Would you like me to show you?" Lai Wan asked, her quiet voice taking on an excited edge.
+
+"Of course. Please show me. I sense differing levels of ice qi in these pots. Is it a matter of ratios in mixing the clay?" Ling Qi asked, stepping under the tarp and allowing herself to be lead over to the table. She glanced at the kiln, smoking away. There was another piece inside.
+
+"Ah, those were my first experiments with the substance. On its own, it's too strong for mundane uses. A pot made entirely out of the chillgrasp clay freezes food put within it to unusability. Sometimes, the container even breaks if there is too much liquid in the stored items." The potter gestured to one of the shelves where several shards were stained with the remains of gathered berries. The lingering scent and qi seemed like that.
+
+“Directly mixing the clay seems to destroy most of its properties, at least with the general-use clays I have here. I believe some more heavily water-aspected clays could be usefully mixed, but that did not solve the initial problem I was given: creating vessels which might be valuable and affordable to mortal needs."
+
+"Past tense, which implies you found a solution," Ling Qi replied, peering at the pots. One was partially filled with grains, the other with sheep milk, and the third contained some kind of jam preserve.
+
+"Yes, the working solution I have come to is layering. With a more normal earth-aligned clay, the effect of the ice qi is muffled, and this allows the container to be chilled, rather than freezing outright. So far, I have focused on discerning the proper thickness of both the chillgrasp clay layer and the insulating layer to achieve different temperatures and dryness."
+
+"I see. That doesn't introduce trouble at the firing stage? I would think each layer would cook differently."
+
+"Yes, it does," Lai Wan admitted. "Right now, it requires some minor formation work etched into the inner and outer insulation, which prevents them from taking on heat and firing while the inner layer cooks. I do not yet have a solution for this expense."
+
+"They are the sort of material that fresh apprentices might be able to create?" Ling Qi questioned.
+
+Lai Wan hesitated before answering. "If a more experienced apprentice was allotted to check the work before firing and provide the qi for activation.”
+
+So it would be somewhat expensive to make whole containers in bulk.
+
+"Still, that means the notion of using small bricks for cellar linings should work?"
+
+"Yes, Lady Ling! This actually works well, since chillgrasp clay and more mundane bricks can be alternated in a single surface, adjusting the strength of the effect. I will need more time to discern the best and most efficient brick patterns for food storage."
+
+"And the effect of a cellar fully bricked with the chillgrasp bricks?" Ling Qi asked. She had a feeling she knew, but best to be sure.
+
+"Severe yin poisoning, even if the temperature is discounted, Lady Ling," Lai Wan replied, bowing again. "For reagents of the appropriate type, this may be useful…"
+
+"So, something to consider for my cellar, but not for anyone else's." Ling Qi laughed. "Can the bricks be fired without harm to mortal workers?"
+
+"The gloves used in harvesting the clay are sufficient for moving the bricks as well. For a mortal kiln, the temperatures required are at the upper end of what can be achieved without formation enhancement."
+
+This meant the only bottleneck was shaping the clay, but bricks were a simple shape. Perhaps some kind of mold could be arranged. Cai Renxiang's interest in solving food storage was intense. While they could trivially use her stipend to import food for hundreds of times as many people as they currently had, cost wasn't the only factor. There were many limits on logistics, like the throughput of the southern roads and simple availability. Storage rings could hold huge amounts in very little space, but the expense of using one to transport simple foodstuffs multiplied the cost a thousand times or more.
+
+If this material could be used to improve the longevity of stored food, it would be a great boon for the population of the southern Emerald Seas, who were often spread far apart and nestled in difficult terrain. The Wang, in particular, would enjoy denser and longer-term storage for their mountain city projects.
+
+"Good work," Ling Qi said simply. Those weren't really considerations the potter herself needed to worry about. "Let me examine these more closely for a moment. I do not have your expertise, but my insights on the nature of ice may have some value."
+
+"Of course, Lady Ling. These projects are all yours." The other woman bowed low again.
+
+It still felt off to phrase everything as statements and commands, but it would be strange to the people beneath her if she phrased them as questions when they certainly wouldn't be taken that way. It would be viewed as false humility.
+
+She stepped past Lai Wan and picked up the center jug filled with chilled sheep's milk. The white liquid rippled, a streamer of frost rising from the vessel's neck as she held it up.
+
+The ice qi within it could be mostly closely described as a rigid lattice with hard angles and flat panes. She could see why it didn't mix well with the earth qi that currently smothered and enveloped it. Shattering a pane of glass and mixing it into a pile of dirt didn't let one make it into a jar, after all.
+
+However, in contemplating the ice more deeply, she noticed one issue. Like herself, there were flecks of fire there. There were little sparks enveloped in chill, embers frozen in time. She glanced from one vessel to another. Some had more, and some had less. In the rightmost, there was a worrying concentration near the bottom of the pot. The cold would break down over time, losing energy to the pockets of heat.
+
+"You're aware of the fire qi corruption?" Ling Qi asked.
+
+"There is always some amount of fire qi after firing, but I had thought it to be within safe tolerances." Lai Wen shifted from foot to foot.
+
+Ling Qi felt bad for making the woman nervous.
+
+"It's only a longevity issue. The vessel on the right is the worst; it will only last a year or two. This one is the best. It may last a decade or so. What are the differences between the two?"
+
+Lai Wan rubbed her fingers together as she thought. "The thickness of the insulation layer… and the charcoal used in fueling. I used a slower release batch for the one you are holding.”
+
+"Ooooi, Qi!"
+
+She looked up, surprised to see Sixiang waving to her as they wove through startled workers at the edge of the district. She hadn't sensed the muse coming, as she had been rather focused. A glance at the light showed she had been examining the vessel in her hands for a good quarter hour.
+
+It really was going to get easier and easier to lose time.
+
+"Hey, I got messenger bird duty," her muse continued as they trotted up. “Looks like the guys you have on road warden duty spotted your… I mean, Sir Xuan's carriage on approach. They let the boss know, and she had me let you know."
+
+"Yes. I should receive him," Ling Qi set down the vessel and ran a hand through her hair, smoothing it before turning an apologetic look to Lai Wan. "I do mean what I said. Getting so far so quickly is good work."
+
+Lai Wan's frown showed that she didn't think so, but wasn't going to contradict her. "Lady Ling's observations are most valuable. I can promise that I will raise the base quality to the level of the best vessel. Should I seek to improve it further, though, or does the lady wish me to continue finding ways to streamline production?"
+
+A decade of use time wasn't bad, Ling Qi thought. Not for mortals, anyway. It still felt like a very long time to her, frankly, but for the cultivators, who they would have to convince of its value, maybe not.
+
+On the other hand, they really did need to be able to work this stuff in bulk for best effects, and longevity might be something to improve later. Shenglu would not have much workforce for some time yet.
+
+"Improve the longevity as much as you can," Ling Qi ordered. "I can tell that you are unhappy with these results, but they have come quickly. I'm confident you will find other ways to cheaply improve the quality."
+
+They weren't going to be mass-producing products anytime soon anyway, and in the meantime, she had a feeling the wartime disruptions would get worse before they got better. At the same time, rushing would not be helpful either.
+
+"The goal remains something which can afford to be distributed through mortal infrastructure in bulk. Low cost in labor and reagents is still the priority."
+
+"Yes, Lady Ling," Lai Wan replied immediately. "I will see the item’s lifespan doubled at least."
+
+A twenty-year replacement cycle could probably be sold to most barons if the item was cheap.
+
+"Lai Wan, I am confident you can create many higher-quality projects, with a greater budget. The time for that will come."
+
+It was easy for her to see the worming anxiety in the back of the other woman's mind. She had seen it with Li Suyin enough times before she'd been badgered into growing her own confidence
+
+"I will not fail to meet Lady Ling's expectations." The potter clasped her hands in front of her smock and bowed low yet again.
+
+Not entirely what she'd meant, but then, that was the filter that their differing status created, wasn't it?
+
+"You will not," she said with simple confidence. "Now, Sixiang, let's get out of her way and see about preparing for Sir Xuan."
+
+"Sure thing, boss," Sixiang chirped, smiling a little too brightly.
+
+Ling Qi set the vessel in her hands down, nodded to Lai Wan, and set off from the workshop. Sixiang kept pace easily, weaving through the workers until they were out of the industrial district and back among the residences surrounding the manor.
+
+"So, what was that you cut yourself off on?" Ling Qi asked, unamused. "Your… Your what, exactly?"
+
+"Huh? I dunno what you're talking about. Just stumbled on my words, is all," Sixiang protested, folding their arms behind their back.
+
+"Uh-huh," Ling Qi replied, unconvinced.
+
+"Well, if I said your turtle boy, that'd be confusing, wouldn't it?"
+
+"And rude," Ling Qi said dryly.
+
+"Right, right." Sixiang nodded. "Now, your puppy might be clearer, but…"
+
+"SIXIANG!"
+
+Honestly, it was a good thing that her screening was so good.

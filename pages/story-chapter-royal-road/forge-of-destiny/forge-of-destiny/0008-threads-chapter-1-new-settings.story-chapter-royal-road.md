@@ -1,0 +1,155 @@
+---
+id: ea251619-6bdb-5d9d-aa93-1174f934302d
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 1-New Settings"
+slug: 0008-threads-chapter-1-new-settings
+partOf: forge-of-destiny
+position: 8
+ownLength: 3593
+unit: words
+publishedAt: 2020-10-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/574004/threads-chapter-1-new-settings"
+royalRoadId: "574004"
+---
+
+Ling Qi stood at the edge of the grassy cliff and looked over her new home. Mountains and hills stretched in every direction, blanketed by the mists of an early fall morning, not yet chased away by the sun’s rays. In the distance the mighty slopes of the Outer Sect’s White Cloud Mountain, as she now knew it to be called, pierced the clouds, almost a third of the vast peak rising high above into the heavens.
+
+She wondered how her mentor Zeqing was faring, and Hanyi as well. She hadn’t had a chance to speak to the ice spirits that lived upon the frozen summit since before the qualifying tournament. She would find out soon enough, she mused - as soon as the application to continue visiting Zeqing’s home cleared the Sect’s bureaucracy. It was going to be strange, to lose access to many of the sites she had so freely used over the last year - in the interests of competition, Inner Sect disciples were restricted from visiting sites belonging to the Outer Sect, barring special circumstances. It wouldn’t do to have the more tenured students monopolise the most potent sites for years on end, or so it had been explained to her. An inconvenience, yes, but Ling Qi had no doubt that she’d be more than able to find suitable replacements.
+
+Scanning the rest of the horizon, the rest of the peaks were mere hills by comparison to White Cloud Mountain, barely tickling the underbelly of the cloudline. The mountain she now stood upon was no exception. Storm’s Repose, a grand name for a rather modest mountain, was the least of those belonging to the Inner Sect. Others, deeper within the titanic mountain range of the Wall, equalled or even surpassed White Cloud in altitude, with some rising so high that their peaks were deadly to cultivators of the third realm like her.
+
+<The view is pretty great,> Sixiang murmured in her thoughts, the insubstantial moon spirit’s essence tingling in her thoughts as they peered out through Ling Qi’s eyes. <The house is a bit small though, isn’t it?>
+
+<It is,> Ling Qi thought, turning away from the cliff with a swish of silk. Her dark gown swayed around her ankles, and the winglike half-cloak which hung from her back flared out, fluttering in the wind a moment too long to be natural. She couldn’t stand here all morning. She had to settle into her new abode.
+
+The grassy cliff she stood upon was a narrow thing, the vibrant green grass contrasting with protruding grey stone all around despite the chill of encroaching winter. Her disciple’s home was built directly into the side of the mountain, visible only by the perfectly set and framed door of darkly lacquered wood which formed its entrance.
+
+<You’re gonna have a hard time fitting the little big guy in here, aren’t you?> Sixiang asked.
+
+Pausing at the door, Ling Qi grimaced. That was true, but...
+
+<Zhengui isn’t little anymore! ... But I miss the garden,> her other spirit, Zhengui, muttered sleepily from her dantian. The tortoise-snake had been slipping into lengthy naps more and more since the end of the tournament.
+
+<I put in the paperwork for a space in the large spirit environment. Weren’t you paying attention?> Ling Qi thought back grumpily to Sixiang.
+
+<Not really!> the spirit replied cheerfully.
+
+<Of course you weren’t,> Ling Qi thought, sighing. Sixiang’s attention wandered at the best of times.
+
+“Zhengui, hang on. I’ll have a space for you soon,” she murmured aloud. She was thankful that Lady Cai had helped her expedite matters.
+
+<Zhengui trusts Big Sister,> Zhengui yawned in her thoughts, sinking back into slumber.
+
+The last few days had been an exhausting slog, most of her time spent dealing with all the set-up for entering the Inner Sect. Between paperwork for a living and cultivating space for Zhengui, then another stack of forms for permission to visit Zeqing, and yet another allowing her to spar with Meizhen, Lady Cai, and Gu Xiulan, she’d hardly had a moment to focus on anything else. She had no idea how her liege managed it.
+
+Stepping inside, Ling Qi found herself in a warm room of polished gray stone. A paper lantern hung from the ceiling overhead, casting the simple furniture set around the chamber in a soft and welcoming light. The lantern hung a bit low, Ling Qi noted with mild annoyance, ducking under it as she swept toward the hall that lead to the other rooms. The door closed with a quiet click behind her.
+
+Continuing her exploration, Ling Qi found a small kitchen and a pantry well stocked for simple meals and tea. She lingered for a moment, studying the formations on the shelves and walls meant to preserve the ingredients, clean the space, and repel pests. They were more complex than what she could compose herself; such utility had never been the focus of her formations studies.
+
+Next, she found an empty room full of workbenches and cupboards. This was a space meant for craftwork. It wasn’t much use to her, but poking through the cupboards turned up numerous mundane but high quality tools, from carving knives to needles to tongs and a hammer laid by a small forge in the far corner.
+
+Leaving the workshop behind, she next came upon a heavy wooden door banded with formation-reinforced iron. Swinging the heavy door open, Ling Qi sucked in a surprised breath as potent qi washed over her.
+
+<Now that’s a good feel,> Sixiang sighed happily as Ling Qi stepped past the threshold. The room beyond was rough. Unlike the other rooms, it seemed like a natural cavern. A glittering reverse forest of limestone stalactites hung from its high ceiling, and the floor was smooth and flat, sloping gently downward until it reached a simmering pool of liquid silver. In the center of the pool rose an outcropping of glittering yellow crystal shot through with streaks of pale green.
+
+This must be the lesser Argent Vent she had been assigned. Already, it felt stronger than the Argent Vent she and her friends had discovered last year, which had greatly helped them in cultivating their base cultivation. The qi in the room was potent, and Ling Qi allowed herself a few minutes to luxuriate in the mist which rose steadily from the cracks in the crystal outcropping before moving on.
+
+At the very back, she found a bedroom. Appointed with a simple, if comfortable, bed, a polished writing desk, and mirror, as well as a wardrobe, it wasn’t exactly a step down from her previous accommodations.
+
+It was hard to imagine that barely more than a year ago, Ling Qi had been sleeping in whatever warm alleyways or corners she could find. Having a real blanket would have been a luxury, she mused, patting the comforter on her new bed.
+
+She shouldn’t get too attached though; if she successfully ranked up to the next tier, she’d be moving into another residence. If anything, the residence that her mother and half-sister lived in in the Sect village would be more stable during her stay in the Inner Sect before she took up her duties on the Emerald Seas border for Cai Renxiang. The Sect village was more distant now, but she would make sure to make regular visits. She was determined not to abandon her mother again now that they’d reconnected once more.
+
+Ling Qi began to put away her few possessions, materializing them one by one from her storage ring. The dress Xiulan had gifted her went into her wardrobe. She hadn’t worn it in months, thanks to the masterpiece of talisman-craft she had earned in defending her now-liege, Cai Renxiang, but she couldn’t help but feel a little attached to it. It had been the first nice outfit she had owned in years.
+
+<You should change things up more often,> Sixiang suggested as she closed the wardrobe.
+
+“Where am I going to find a dress as powerful as this one?” Ling Qi scoffed.
+
+<You can wear things for other reasons you know,> the spirit replied dully.
+
+Now that was just silly, Ling Qi thought. What if she were attacked while wearing something less potent?
+
+Sixiang had no response to that, and Ling Qi moved on.
+
+One of her newest possessions, a deep green jade badge, came next. Its flat surface held two numbers picked out in silver. First was her current rank in the Sect, Eight Hundred and Thirty. The second was her current contribution points. Thanks to the formations embedded in the jade, the numbers changed on their own. As she only needed to wear the badge for official functions, so she tucked it into the topmost drawer of her desk for now.
+
+<You really have to tell me about the adventure that got you those extra points sometime,> Sixiang whispered. Unlike her peers, whose badges had started with a tiny “ten” for their contribution points, Ling Qi had a “twenty.”
+
+“I’m surprised you haven’t already picked it out,” Ling Qi said aloud. She had dreamed of that basement and chilling altar more than once. She was glad that she and Su Ling had stopped that crazed barbarian from unleashing a plague, and it seemed the Sect was as well.
+
+<Stingy,> Sixiang murmured, unable to hear thoughts not directed at them.
+
+Ling Qi laughed under her breath as she put down the last of her new possessions, a slip of jade containing the secrets of the Argent Genesis art. Like the rest of the Argent arts, it had been created by the ancestors of Sect Head Yuan He and polished to perfection under his eye. As the successor cultivation art to Argent Soul, which had been given to all incoming Outer Sect members, Argent Genesis was given to all incoming Inner Sect members, and focused on assisting cultivators in building a strong foundation for future growth. As was usual for Argent arts, it was a balanced art, designed to mingle with almost every form of Imperial cultivation, and in particular for Genesis, a fine secondary cultivation art.
+
+Although her personal cultivation art, Eight Phase Ceremony, was higher quality, having been gifted by the great spirit of the Moon, Ling Qi was well aware of the benefits that the Argent cultivation arts could bring, having mastered Argent Soul during her time in the Outer Sect. Besides, the first few levels of the art seemed fairly easy to grasp.
+
+Today was her first true day as an Inner Sect disciple. She would have to make sure that it and all the others that would follow counted. The Duchess had set a harsh goal for her liege and herself. She couldn’t afford to fall behind.
+
+***
+
+“It’s good to see you again, Li Suyin,” Ling Qi greeted her friend brightly as they met among the crowd heading to the earliest of the elders’ freely given basic lessons. Ling Qi thought it would be wise to attend every elder’s lesson at least once to show respect and see what knowledge was on offer.
+
+Her friend smiled back at her a touch nervously. Li Suyin had begun to grow her powder blue hair out again, and it now reached her shoulders. The shapeless smock she had taken to wearing in her workshop had been replaced with a gown of pale green silk with gold trim. Only the hexagonal patterned eyepatch she wore remained the same.
+
+“You as well, Ling Qi,” Suyin greeted politely. “Congratulations on placing so highly in the tournament.”
+
+“I could say the same to you,” Ling Qi said cheerfully, glancing around at the other disciples. Most looked to be only a bit older than them, but there were a scattering of people who looked quite a bit older in as much as cultivators bore the marks of early aging anyway. “Where do I put my order in for one of your meridian talismans?”
+
+Li Suyin’s expression grew bashful. “A-ah, well, I should have the first production batch done in a month or so? I will be sure to give you one then.”
+
+Ling Qi opened her mouth to protest at the gift, but a pointed look from her one-eyed friend made her close it again. She supposed she didn’t have any right to complain about charity. Li Suyin blanched then, her face growing pale. Her reaction was mirrored in a rippling wave of discomfort going through the crowd.
+
+“Good morning, Ling Qi,” the voice of her closest friend, Bai Meizhen, reached her ears, and Ling Qi turned to find Meizhen moving through a wide gap in the crowd with the same smooth, gliding grace that she always had. Her golden slit-pupiled eyes moved disinterestedly over the disciples gathered for the lesson before focusing on Ling Qi. “I hope your move has found you well.”
+
+“The ceiling is a little low,” Ling Qi grumbled, to which Meizhen responded with a raised eyebrow. The pale girl was a full head shorter than her after all. “But I am satisfied. For now,” she added cheekily.
+
+“Good morning, Miss Bai,” Li Suyin greeted from beside her, determined to be polite even while struggling under Bai Meizhen’s heavy aura of terror.
+
+Bai Meizhen glanced at her and gave a shallow nod. “Good morning,” she replied, not unkindly but with clear disinterest. “Ling Qi, is Cai Renxiang not attending this lecture?”
+
+“She remains busy,” Ling Qi replied apologetically. “I will be taking notes for her though,” she continued, holding up the lacquered case of writing utensils provided for the task.
+
+Meizhen’s lips quirked up, and even Li Suyin gave a nervous laugh. “I had wondered when it was that you had decided to be a scholar,” Meizhen said dryly.
+
+Ling Qi laughed as they resumed walking toward the lecture area, chatting with her friends. Well, she chatted with Meizhen. Li Suyin still seemed too nervous to speak up. It was nice. Could she have imagined a year ago that she could walk around with a straight back, and her head held high in a crowd like this?
+
+Putting aside her musings, the elder’s venue of choice was no lecture hall. Rather, the path led her and the other disciples into an expansive stone grotto with a softly bubbling pool at its rear. It was lit by innumerable softly glowing balls of light scattered across the artfully shaped ceiling. The grotto had never been touched by an artisan's chisel, but it was also shaped artificially all the same. Regular sloping stone benches rose from the mossy ground in concentric half- circles radiating out from the pool at the center, broken here and there by lanes for passage.
+
+Ling Qi and Bai Meizhen took seats near the center while Li Suyin parted from them with a hurried bow to seat herself nearer the front. Seating herself, Ling Qi was glad that her borrowed writing case unfolded into a tray that could be laid across the lap as the benches offered no writing surface.
+
+She spent a few more minutes of idle chat with Meizhen as the rest of the disciples filtered in, but soon enough, she fell silent as she felt the pressure of a great presence from the center of the room. The light dimmed, and luminous mist rose from the bubbling pool at the grotto’s center, quickly resolving into the shape of a man. The figure that resolved itself from the mist was ancient and unsettling.
+
+The elder, clad in plain silver robes without ornamentation, was more visibly old than any cultivator Ling Qi had ever seen. His wispy, snow white hair spilled down to his shoulders, matching the long, carefully groomed beard that hung to his waist. His face was a labyrinth of wrinkles, and his eyes had the milky cast of a man blind with age, albeit one with a luminous amber light burning in his pupils.
+
+Most unsettlingly, he seemed not all there. At regular intervals, slow pulses of light traveled through his form, outlining his bones in radiance while his flesh seemed to fade into mist. It was as if she were looking at a ghost.
+
+<Forget one foot in the grave. That guy is already lying down!> Sixiang laughed in her head, drawing a hurried mental shush from Ling Qi. Who knew if the elder could hear the spirit?!
+
+The elder had appeared from the mist seated in a lotus position, hovering just above the surface of the water, and he regarded the gathered disciples in silence, stern, heavily wrinkled features giving way to a skeletal rictus before fading back in, only for the cycle to repeat.
+
+“I am Elder Hua Heng.” The Elder’s voice was dry and scratchy as if from long disuse, and it echoed as if rising from the bottom of a deep hole. “My final years are upon me. I have chosen to spend them spreading knowledge to new generations. Be grateful,” he said . Despite the scratchiness of his voice, he had the cadence of a professional lecturer. “You will not speak while I am lecturing nor interrupt in any way,” he ordered. “There will be a time allotted for questions at the end of the session. Am I understood?”
+
+The chorus of confirmation from the disciples seemed satisfactory to Elder Hua.
+
+“Then allow me to begin the lecture on advanced qi theory,” he began smoothly as the last voices fell silent. “You are, each and every one of you, a cultivator who has either reached the third realm or will in the near future. A significant number of you will even achieve the fourth or perhaps, higher realms. As such, it is important to ground yourself in the deeper lore of how qi functions. The simple pattern imitation of lower realms will not avail you as you advance toward the peak of the third realm and beyond.”
+
+Ling Qi carefully transcribed his every word, her brush flying across the page with a speed and grace that would have been impossible for her mere months ago.
+
+“The first piece of knowledge that you must scribe into your mind is that qi is fundamental to all things.” As the ghostly man spoke, ribbons of water rose from the water beneath him, twining around his seated form in an intricate display of control. “It is the clay from which we were shaped by the hands of Those Who Were, and it is the true form of all things. The earth and the sky are composed of qi, as is the flame and the heavenly bolt.”
+
+The mist and the waters shaped themselves above and around the elder, shaping a scene of two indistinct but titanic figures locked in battle with innumerable things of terrible shape.
+
+“However, this world is impure. Stained by the blood and essence of those who sought our destruction ‘ere the world was born, it is riddled with toxin and corruption. Age, disease, all the maladies of the mortal condition are born from this impurity. The art of cultivation, then, is expelling ever more of this impurity until the body and soul are fully cleansed.” His scratchy voice rang out over the silent grotto as the shapes in the water and mist faded, splashing back into the pool.
+
+“It is a task beyond the vast majority of us,” he continued, gesturing to himself. “All things in this world are composed of qi and impurities, and straining out the whole of the latter is a task only the most talented may ever accomplish.”
+
+Ling Qi nodded along as she copied down his words. The truth of cultivation had not been laid out so clearly to her before, but she had picked up the gist of this over the past year.
+
+“This truth leads to our subject matter proper. Arts are exercises and patterns of qi which bring about certain effects. Once created and refined, they may be copied by the less talented or powerful to shape the world according to the method of the art’s creator. This is accomplished by expelling qi through the shaped channels carved by your efforts through the morass of corruption which separates the soul from the physical world. The exact shape of the channel and numerous other factors determine the effect, but they also limit the number of patterns a cultivator is capable of making use of,” Elder Hua continued. “Over time, carving new channels becomes nearly impossible, but the complexity of the patterns needed for powerful arts continues to rise.”
+
+Ling Qi had worried over this problem as she grew better at puzzling out the requirements for her arts.
+
+“However, the patterns used in arts are just that, structures designed to create an effect. In the third realm, a cultivator has the potency of spirit to shape these flows more directly and personalize them for greater efficiency. In the end, no pattern made by another will match one cultivated and tailored to oneself. Thus, the focus of my lectures will be on giving you the tools to do so for yourselves going forward.” He raised one hand in a gesture for them to pause. “However. It is unwise to attempt to reshape your meridians before the threshold stage of Green Soul. Do not attempt direct manipulation of meridians before then. Until that time, satisfy yourself with simply making your arts more efficient.”
+
+Ling Qi leaned forward eagerly as the elder continued to speak, launching into an explanation on the meditative exercises a cultivator could perform to discover and refine the inefficiencies in an art they practiced.

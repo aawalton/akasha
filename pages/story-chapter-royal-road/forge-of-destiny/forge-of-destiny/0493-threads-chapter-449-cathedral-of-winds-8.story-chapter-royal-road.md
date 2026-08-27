@@ -1,0 +1,155 @@
+---
+id: d463b052-be2d-57e5-afa6-f4ad6d99b913
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 449-Cathedral of Winds 8"
+slug: 0493-threads-chapter-449-cathedral-of-winds-8
+partOf: forge-of-destiny
+position: 493
+ownLength: 1957
+unit: words
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2282494/threads-chapter-449-cathedral-of-winds-8"
+royalRoadId: "2282494"
+---
+
+Good enough. She wondered at her new appellation though. It was the second time she had been referred to as “Attuner.”
+
+They had no more time for chit chat. The enemy was coming.
+
+It came first as a subtle, dark particulate in the water, like silt or mud, barely perceptible as different. It was a creeping poison to be taken in without notice.
+
+Ling Qi sang, and glittering scales filled the waters around her. Schooling carp shot out once again, but in a twist of fancy, the rushing chord of the River King was sped up, spontaneously rewoven. Eyes glittered with the bottomless hunger of vermin who could never be fulfilled. Fishy whiskers shook with indignance, and piscine mouths opened as they darted into the clouds of impure particulate.
+
+It vanished down their gullets and swept into their gills, and the flesh of the constructs bloated and broke. In turn, their fellows devoured them, each one becoming bigger than the last until only one swollen, rotted, and dying carp remained.
+
+"Suyin, a seal, please," she sent, without interrupting her song.
+
+There was too much poison. Her construct had absorbed it all, but now, she could not dispel it without unleashing the toxin once more.
+
+Li Suyin's artificial eye spun in its socket, still glimmering from her examination of the devouring, and she flicked her wrist out. The claws of her gauntlet extended, raising her palm. This time, a sphere etched with visible arrays shot out and swallowed up the toxified construct.
+
+"Strategy noted. Physical attacks incoming," her friend warned.
+
+Ling Qi inclined her head in acknowledgment and continued her song. It wasn’t easy, even with the right components to weave fresh bars which were not merely discordant noise. With her growing insight into the dirge of the beast kings, though, it was easier.
+
+Water stirred, and piscine bodies with wolfish heads, snapping and snarling as they spun into existence, darted toward the cavern mouths where Li Suyin's constructs stood guard.
+
+From the dark, tendrils lashed out. On the right, they slammed into the raised stone shields of the Bear and Boar constructs. They did so again and again, a rapid, murderous beat, the force sending the water rippling with the impact. Skeletal feet were driven down into the cavern floor.
+
+Others skulked and slunk through the water, trying to pass the twin blades of the Lion and Wolf, which slashed pale amalgam corpse flesh asunder, inky ichor spilling from the split tendrils. A dozen more clung to their limbs and dragged at their planted feet, seeking to yank the weapons from their hands.
+
+On the left, the Horse and Ox fared the best. The flash of the mirror shield turned whipping tendrils into drifting, formless ooze and others were fried by the electric burst of the outthrust mancatcher.
+
+Distorted by the water, her wolf-fish howled as they descended on the grasper tendrils dragging Suyin's constructs down the middle tunnel. They circled the tendrils, avoiding counterattacks to nip and harass.
+
+"Xinghong, support group one."
+
+A flash of red vaulted over the shield-wielding pair of Bear and Boar, and the whipping club of bone on the end of the hammering tendril caught him across the chest.
+
+Reflexively, Ling Qi drew on the wood qi she had refined through the channels in her spine, and a pale green light mixed with light blue, casting the whole chamber in eerie color. She felt a prickle across her own chest, the ghost of an impact, and Xinhong's chittering warcry held a confused note, even as he dug talons into rotting meat and began to tear.
+
+"Whoa! That's a new one. You sure you outta be taking damage directly like that?" Sixiang asked her.
+
+Better than catching knives with her neck, wasn't it? Ling Qi thought blithely.
+
+More of the parasite flesh was coming. In the leftmost passage, what could only be described as a bubbling, pastelike mass of flesh was squeezing its way up the tunnel. Gurgling, lipless mouths and blinking eyes rippled in and out of existence across the mass.
+
+Ling Qi's eyes flicked toward the crystal as the light brightened and pulsed, a precise pattern rippling out from the central crystal to the growths all across the chamber and down the tunnels. From the light and pattern and the sense of calculation, Ling Qi was able to translate it to words.
+
+"Current reserve calibrated. Resources marshaled and ordered. Beginning full purification drive."
+
+The water turned sharp and cold, the biting chill of a fresh, pure mountain stream. The dim opaqueness which lingered in it burned away, leaving it clear as glass and throwing the whole cavern into sharp relief.
+
+In the purified water, the parasite's corpseflesh boiled. Thin tendrils withered, and pollution burned off. It  struggled toward the flashing crystals before it  vanished down the hungry gullets of carp, which vanished in a flash of Suyin's qi when they bloated so fat that they threatened to burst.
+
+“Yuck. No wonder this spirit has had such a hard time. This thing's made to sneak little bits of pain through to infect and subvert it," Sixiang analyzed. "It'd win even without you here, but in a lil’ bit, it'd be right back where it started."
+
+Ling Qi could only agree, and she considered her next move.
+
+The question was how much of its strength this parasite would pour in before it realized they had a counter to its corruption.
+
+"Suyin, double up on the center and right. I'll take the leftmost tunnel."
+
+Her friend gave her a surprised look. "Horse and Ox are handling the attacks the best. Why…?" Suyin trailed off. Her artificial eye gleamed red as she focused on the horrid mass squeezing its way up the tunnel.
+
+"It's too dense for your dispelling mirror,” Ling Qi explained. “There’s too much fat and meat for it to be taken down with small shocks."
+
+"Understood," Li Suyin agreed. She drew her constructs away with a flick of the wrist and a silent command.
+
+Suyin trusted Ling Qi had a plan. And Ling Qi did! Of a sort.
+
+"Ling Qi, you’d better not be thinking of trying to siphon the impurity your constructs eat yourself," Sixiang threatened.
+
+"Of course not. You and Qiyi are going to help me," she thought back.
+
+A ribbon curled in the edge of her vision questioningly.
+
+"Qi."
+
+"No, listen. If Qiyi seals me from outside contact, the two of us can force the tainted water and constructs into the liminal, no?"
+
+"And then, it'll walk them right back. C'mon, Qi."
+
+"No, I don't think it will. It's shown no ability to transfer anything back and forth, only to reach through."
+
+"Suyin's got the sealy balls!"
+
+"Not an infinite number of them. Sixiang, where’s my dance instructor when I need them?"
+
+Sixiang sighed. "Right here. I am absolutely calling in that ice bath after this."
+
+"Done."
+
+Ling Qi stepped into the mouth of the tunnel.
+
+Mouths and eyes peered back at her, melting and reforming. A low, almost subsonic groan echoed from dozens of hungry gullets.
+
+In the inky blackness of her shadow, hundreds of gleaming crimson eyes stared back.
+
+Ling Qi thrust her palm out, and her shadow erupted. Claws scrabbled at wet rock, dragging sleek furred bodies that ended in scaled piscine tails. Ten, twenty, fifty, a hundred, two hundred and more, a carpet of scales and fur and teeth rushed through the underwater tunnel toward her foe.
+
+"Feeling dramatic, huh?" Sixiang chuckled.
+
+A little flourish never hurt anything.
+
+Groaning mouths opened, sprouting teeth of chitin and broken bone, while pastelike corpseflesh erupted with barbed tendrils. Rats were impaled, their shrieks distorted by the water, even as they curled in on themselves, gnawing at the barbed tendrils impaling their bodies. The hunger born from weakness couldn’t be so easily stilled.
+
+Other rats leapt and swam and climbed, darting through their dying brethren and scrambling up writhing tendrils. They died by the dozen, and were replaced by two dozen more.
+
+"I hope you'll give me something cooler than another rat this time," Sixiang whispered.
+
+She tilted her head, and the tenor of her song shifted. The icy mist crystalizing in the water around her roiled and darkened. Crystals fused with strands of inky shadow spun something much larger into view.
+
+"Your steed, Commander Sixiang."
+
+Her muse cackled in her head, and she felt the rush of chaotic qi as they flowed out through her eyes and ears, infusing the nascent construct. A mane of rainbow fur unfurled like a banner, kaleidoscopic wings flared, and the horse-sized, winged wolf launched down the tunnel, impacting the wall of creeping flesh.
+
+Ling Qi winced as the material shifted. Dead flesh came apart into strange transmuted chunks as the mass was driven an entire meter back where it had come from.
+
+The hunger of the least was a potent weapon. The isolation that existed when each hungry mouth turned on each other, fighting to be the one who gained a moment's reprieve… That was the Vermin King's strength and its weakness. The Wolf God was a similar failure of unity, except his was the call of a community turned to a tyrant’s whip.
+
+She knew it could be done better. She could combine, mix, and make something stronger than both individually.
+
+Her shadow crawled with rats again, but in the passage, rats swelled and bulked out, gaining a predator’s teeth and sleek and amphibious fur was shot through with veins of shimmering color. Cries halfway between chitters and barks echoed in the passage as the rat wolves followed Sixiang into the water clouded with rotten blood and impure ichor.
+
+Ling Qi drifted forward.
+
+"Qiyi, cover me completely."
+
+Her gown stirred around her. Fabric and thread spun out, swallowing her to the toes and fingertips. Dark purple swatches crawled up her cheeks and netted her hair. Over her eyes appeared lenses of mirrored silver. The coverings would have blinded her if she were limited to mortal senses, but the wisps clinging to the outside of her gown gave her as much vision as the eyes she had been born with.
+
+The tunnel quaked with the motion of the creature, and constructs slammed against the wall beside her head, crushed under a pseudopod of dead flesh the size of a tree trunk. With an idle thought, she commanded rats to jump onto it, diving into mouths and gnawing at eyes and burrowing deep into the flesh.
+
+She wasn't surprised when she felt that same flesh closing, mouths fusing and pockets of flesh crushed by pressure. The creature had learned from her last strategy. It wouldn't be so easy to handle it a second time. She was going to have to put a little more skin into the game.
+
+"Wait. How exactly are you thinking about walking this thing outta here?"
+
+Ling Qi laughed aloud, muffled behind Qiyi. "Just keep disrupting its cohesion, Sixiang. I wouldn't ask you to do something I wasn't willing to do."
+
+Sixiang groaned at that, but nonetheless, the winged wolf Sixiang operated howled, once again warping the tunnel. Chaotic qi broke apart corpseflesh around the framework of the wire-thin tendrils reaching from the liminal. The wolf’s wings flapped, battering the limbs trying to grasp them, and their fangs tore bloody chunks from the bubbling surface.
+
+Ling Qi raised her voice and carpeted the tunnel in writhing rats and howling wolves, splashing free from the vast shadow she now cast over the tunnel.
+
+"O Piper Lord, Master of the Eightfold Depths, in a moment, I shall disappear with this limb of your foe. Purge this tunnel without mercy in my wake," Ling Qi called out, a spiritual voice reaching into the crystalline channels running through the rock.
+
+"… Strategy accepted."

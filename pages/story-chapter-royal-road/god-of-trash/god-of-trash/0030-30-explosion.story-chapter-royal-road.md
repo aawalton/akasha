@@ -1,0 +1,89 @@
+---
+id: 906350da-ddca-5522-8a43-1a1615e2089f
+page-type-slug: story-chapter-royal-road
+title: "30. Explosion"
+slug: 0030-30-explosion
+partOf: god-of-trash
+position: 30
+ownLength: 2070
+unit: words
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2148464/30-explosion"
+royalRoadId: "2148464"
+---
+
+BANG!
+
+The cauldron exploded. Red-hot metal shards hurtled through the air. Rhys threw himself backward, covering his head with his hands as he hit the floor. The shockwave hit him and pushed him further, and he slammed into the rock below. Hot metal seared into his back and sizzled through his sides. He gritted his teeth and hissed rather than scream in pain.
+
+But there was no time to wait. On the floor, he activated Trash Body and whipped around to face the remnants of the cauldron. The potion still hung in the air, though it rapidly plummeted. He thrust his hand out and called the potion to him. The black sludge twitched in the air, then flew toward him.
+
+Shit. Vial, vial… The one he’d been holding was lost to him, tossed out of his hand by the shockwave. The dangerous goo flew his direction with nothing to protect him from its imminent impact, seething with thick impurities. Rhys scrabbled in his robes and pulled out a vial just as the sludge reached him. He called it into the vial and quickly capped it.
+
+Exhausted, bleeding from a dozen cuts, Rhys examined his prize. The goo slurped slowly in the vial, thick and disgusting. He could sense its potency from the far side of the glass. It was truly horrifying how vile it was. A single drop of the potion was worth an entire cauldron of ordinary goop. Somehow, he’d strengthened the potion while he was concentrating it—not that he was complaining. He grinned, then grimaced as the pain finally caught up to him. Reaching over his back, he slowly pulled the chunks of metal out of his body. He put the filth potion away and drew out an ordinary potion. A quick sip, and he began to heal. He kept pulling metal shards out as his body did its best to shove them out on its own.
+
+Now he had his filth potion so he could keep training impurities, and he could keep fighting with Ev to strengthen his martial prowess, as well. He waited while he healed, occasionally taking sips of the potion to speed things along. Slowly, the pain faded. Rhys climbed to his feet and dusted off his robes. A part of him wanted to rush right off to Ev, but he held back. First, he needed to make sure he could handle the potion. It would really suck if he got there, only to find out the potion overwhelmed him, and then get beaten up by Ev while he was struggling to not die to the potion at the same time.
+
+He pulled out the sludge. Staring at the vial, he hesitated. Was it just him, or had the glass decayed a little from the inside out? The inner layer of the vial looked a little corroded, the surface cracked—only at the hairline level, but enough to be worried, nonetheless. Rhys tipped his head, then shrugged. It wasn’t like it would make the potion less toxic.
+
+“Time for some plasticsmaxing. Or glassmaxing, I guess,” he muttered, and took a tiny sip of the potion.
+
+The potion burned. His whole mouth felt like it was on fire. He tasted acid, then electricity, then nothing at all as his mouth went completely numb. There was only pain and numbness, the two fighting one another for dominance. He quickly swallowed. It burned all the way down and roiled in his stomach, eating away at him from the inside out.
+
+My body might not be able to handle this, he thought, and then the impurities slammed into him, and there was no more time for thinking.
+
+The filth poured through him. Usually, he breathed it in, and could filter it on the way in, misusing his lungs and throat, perhaps, but nonetheless, filtering it. This time, he’d stuck it directly in his stomach. There was no leaning out of the impurity-smoke to gain a little breath of fresh air. He was in it to win it. He absorbed these, or he died, and there was no other option.
+
+The pain reached an apex, then tapered off. Rhys took a breath. I can handle—
+
+Less is More activated, and the pain redoubled once more, more than twice as powerful as before.
+
+Rhys’ body contorted against his will. He curled around his stomach, his limbs twisting unnaturally. Gasping, he managed a grunt of pain before all the air huffed out of him. Every inch of him burned, ached, went stiff, became overcome with pins and needles. Reaching his mana into his stomach, he stirred the potion, manually searching for the large clumps of impurities, only to find out he had the opposite problem.
+
+The impurities were tiny, but intense. He’d truly cooked them down. Now, they were slivers, splinters, tiny needles that pierced through everything they touched. His stomach, his organs, his muscles, his bones, his mana passages, the needle-like tiny impurities pierced through them all. They were as dense as they were small, heavier than they had any right to be. He couldn’t control them. They slipped through his mana, too heavy and slippery to get a hold of. In a few moments, there was no part of his body that wasn’t riddled with the things.
+
+Rhys continued to stiffen. His mana flow slowed, and his vision darkened. In his chest, his heart thumped, slowing with every passing moment. Death pressed close.
+
+Fuck it! Rhys grabbed two of the impurities. Without caring that he wasn’t anywhere near his core, he rubbed them together. The slender slivers grew warm, but stubbornly refused to ignite.
+
+Rhys narrowed his eyes. His heart beat slower. His vision had narrowed to a pinprick. He rubbed the impurities faster, putting all his strength into it. At the same time, he poured mana into the both of them, like blowing on a spark.
+
+Everything faded. He could no longer see. His heartbeat throbbed in his ears, each thwub too far from the next. He felt nothing. His body no longer responded to him, nor could he sense anything through it. There was nothing but him and the two impurities.
+
+Fzzt.
+
+Light flashed. Once. Twice. A steady flame took. The impurities began to burn. It quickly spread across his entire body, as the other impurities came alight in a flash of chain reactions. Rhys’ heart sped back up to normal. His vision returned, and so did feeling in his body. He stood upright and roared. Power flowed through him. More thoroughly than ever before, it flowed through his whole body. Just as there wasn’t a piece of him that hadn’t been pierced by the impurities, now, there wasn’t a single piece of him that wasn’t inundated with strength. His whole body thrummed, improving by leaps and bounds simply from absorbing the energy from the burned impurities.
+
+Everywhere the impurities had invaded grew stronger. His bones. His muscles. His organs and his mana structures. The power from the burning impurities reforged all of them, completely strengthening every aspect of his body. More of the super-impurities gathered in his core, but his core grew larger and wider, so that the additional super-impurities were negligible. All of them amounted to a tiny portion of his core. In this state, scoured by the impurities and their flames, Rhys could feel something emanating from them. A power… or maybe not? Potential, he realized. He sensed potential from them. Potency. Something he couldn’t yet unleash, waiting for him to get strong enough to handle it.
+
+Let’s survive this first, he decided. He straightened back up as the impurities transformed his body and took a small sip of his healing potion, letting it fix up the injuries the impurities had done to his body and organs before he’d ignited them. Rhys sat down, crossing his legs and entering a meditative state to wait out the transformation. The impurities still did harm. They ravaged him, but what they broke, they rebuilt stronger. He was still able to refill his core, but this wasn’t like ordinary impurity burning. Until he got used to this higher level of condensed, Less-is-More-boosted impurities, he’d have to burn them, then fight, and treat the fight as the cooldown period between absorbing impurities.
+
+He could sense that he had an immense amount of power from the impurities, but right now, he had to devote all that power internally, to heal the damage the impurities did either by guiding the potion he drank or by flaring Self-Regeneration. The mana he gained from them was, as usual, almost overwhelming; it was just that he needed that much mana to support his body and keep it from collapsing entirely. He battled against death, even as the impurities refined every iota of him.
+
+At last, the impurities burned down. Rhys sat there for a little while longer, healing himself to full, then stood. It was time to get back to battling. Sure, he couldn’t burn these impurities and fight now, but that was all the more reason he needed to figure out how. These impurities gave more power than the lower-level ones. If he got to the point that he didn’t utterly destroy himself with these impurities, he’d unlock a fierce power in battle that would give him a serious boost when he needed it most.
+
+Unbeknownst to Rhys, the devotees of the strange god were aghast. The pillar of smoke came from a different part of the peak? And not only that, but it was darker, thicker, and more powerful than the first? Had a challenger come to upset their god’s reign?
+
+Even those who took it as some sort of spirit or beast were taken aback. There were two of them, now? Wasn’t one enough?
+
+Only a few saw the pillar of black smoke and thought to themselves, wait, now that I think about it, isn’t that where it came from to begin with?
+
+Rhys rushed back to Ev’s usual valley, only to find it vacated, and Ev nowhere to be found. He frowned and looked around, confused. A piece of paper stabbed to the tree with a pocketknife caught his eye, and he wandered over.
+
+Got a problem to deal with for my brothers. Be back by end of the week.
+
+Rhys twisted his lips, then shrugged. He couldn’t count on Ev forever. She was her own person. If she had something else to do, then he’d have to find something else to do.
+
+Like what? He considered for a moment. He could practice forms, run laps, spar against some trees or dummies—
+
+No, hold on! Rhys shook his head. He hadn’t set out to be the ultimate martial artist! From the start, he’d recognized that it wasn’t a path available to him, and to this day, he still acknowledged that. He could hold his own against Ev because of all the buffs he had on him, but that was all. Without the buffs, he’d struggle to fight someone at his own strength. No, from the start, he’d set out to become a mage. The problem was that spell skills were few and far between, precious things that weren’t just given out to anyone. Even Az wouldn’t hand him one… though that probably had more to do with Az struggling to come up with a technique that played on his name, rather than simply being unwilling to give him one.
+
+He wracked his brain, pinching his chin in deep thought. How to get a spell… how to get a spell… The teachers were worthless. They were so basic-level that even the advanced classes were worthless. So where—
+
+Rhys straightened up. He snapped his fingers. That’s right! The class on mustelids! It wasn’t the class itself, but rather, something about it… if he sat there and pursued enlightenment, he felt as though he could surely acquire a spell.
+
+It was a long shot, but it was his only shot. Besides, he was curious about the Enlightenment skill. How far could it take him? What did it give him? The only way to find out, was to keep practicing.
+
+He’d meant to go back and pursue enlightenment in that class for a long time, now. Now that he had some free time, he might as well see it to the end.
+
+Drawing a brush out of his robes, he replied, Find me in town, and with that, he set off in pursuit of enlightenment.

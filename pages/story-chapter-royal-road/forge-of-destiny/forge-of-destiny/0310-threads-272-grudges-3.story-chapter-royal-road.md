@@ -1,0 +1,157 @@
+---
+id: f9d8cf35-7c59-5e3b-b645-f4dba8bc8937
+page-type-slug: story-chapter-royal-road
+title: "Threads 272-Grudges 3"
+slug: 0310-threads-272-grudges-3
+partOf: forge-of-destiny
+position: 310
+ownLength: 2390
+unit: words
+publishedAt: 2022-12-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1069357/threads-272-grudges-3"
+royalRoadId: "1069357"
+---
+
+“What?!” the voice from the crystal, Yan Renshu’s voice, snarled.
+
+“Dead men lose their hearing. Good to know,” Ling Qi said coldly.
+
+“You... You can’t be here! This room is impenetrable without the power of a fourth realm! And what did you just do to my masterpiece?!”
+
+She cocked her head to the side, her eyes narrowing into vicious slits. “Have you ever considered that you're just not very good at security?”
+
+Her response was a wordless scream of rage warbling through the crystal’s distorting filter.
+
+<Sixiang,> Ling Qi thought.
+
+<Sending a message out. Telling them to shut down the locations, full search, major cult attack in potentia.>
+
+That was for the best. She could explain the details later, but at least this message would kick the city’s Ministry of Law over like a hive of irritated bees.
+
+“This is far beyond a child’s grudge,” Ling Qi said. The qi in that worm pointed to nothing good. His words that she would be taken off the board… He had to be confident in the killing power of his work to kill one as resilient as her before the patriarch and elders of the town could react.
+
+How many mortals and low cultivators would have died under those circumstances?
+
+“A child’s grudge! You dare…”
+
+“Found you.”
+
+He spluttered, and Ling Qi grinned. She hadn’t, of course. He was speaking through a communication array that she couldn’t even parse. She had no technique which could track someone like that, and while she could maybe conceive of tracking someone down via impression in the dream, her current skills didn’t go so far.
+
+She felt the connection cut off, and the crystal went dark. Would he dare open another connection to the city not knowing what she could do?
+
+Ling Qi glanced down at the man groaning on the floor. Was he really trying to inch toward the transport array?
+
+“Stop,” she spoke, and he froze. “What do you know about these ‘party favors'?”
+
+“Seeds. Seeds in the sewers. Rat men, those corpse eaters, needed guidance. Not any formations I’ve seen before. Had… a friend in the Ministry of Works. Got maps. In the cisterns. Had to be watered regularly,” he rambled. “Lady Ling, I—”
+
+“Not now,” she cut him off harshly. “You can speak to the Ministry. Are they still down there?”
+
+“Yes.”
+
+Ling Qi scowled. This was at once larger and smaller than she had feared, not an internal intrigue, but an actual enemy operation. There was much at risk here. She had stopped the immediate problem, but who knew what failsafes that worm had added or if whatever ith’ia agents below had secondary orders?
+
+<Sixiang, relay,> she directed the muse mentally.
+
+<What are we gonna do, big sis?> Zhengui asked.
+
+It was tempting, so tempting, to simply rush off down into the sewers herself and dive into the thick of things. But that wasn’t the path she had chosen. She had chosen to be bound by her roots, and doing so did not dull the edge of her wings.
+
+Out of the corner of her eye, she saw a shape move and felt qi flicker. With a casual flick of her wrist, a diamond snare, claimed by theft from a son of the Thunder Palace, expanded and wrapped around Yan Shenyi. The man fell mid-lunge to the floor with the crack of a face meeting floor.
+
+“Did you really believe that would work?” she asked absently, listening and thinking as Sixiang relayed communications to her. The Ministry of Law was demanding more detailed answers as to what was going on. They were moving agents to the buildings at the four sites and evacuating them of people, but that wouldn’t be enough, if what she suspected was true.
+
+She needed them to see that. And for that, she had to do more than give terse reports. She needed to convince them.
+
+“Was worth the attempt,” Yan Shenyi grunted, looking mournfully at the transport circle.
+
+She could understand it. For all that she had saved him, he was still a dead man. A quick and merciful execution was the kindest path remaining. But that was the path he had chosen for himself.
+
+“What did he promise you?” Ling Qi asked, grasping the knotted diamond wire that held him and hauling the man off the ground to dangle from her hand like an awkward and traitorous parcel. There was some actual benefit to her height, it seemed.
+
+“Power. Position. What else could matter?” he asked darkly as she mounted the stairs. “That thing was supposed to be a cultivation aid.”
+
+“I bet it was.” Probably not an aid for imperial cultivation though, Ling Qi thought. “But how does betraying the Empire get you position?”
+
+“What can an easy talent like you understand? The Empire has always cheated the Yan family, always dangled the rewards we deserve just out of reach. That little bastard said the rat men needed human governers to act as go-betweens,” he said sourly. No regret in him, just spite for the one who betrayed him.
+
+She took a little pleasure as she briefly took a skipping step across the border of dream to bypass the security door, appearing in the tearoom above, and he retched on the carpet. A glance at the door saw it bang open on a harsh breeze revealing a hall populated by servers and curious guests peering out, no doubt sensing her unrestrained qi and the frost it spread across the floor.
+
+Apparently, one look at her expression had the guests pulling their heads back in and slamming the doors. The servers withdrew to the walls to avoid blocking her path. She glanced at one, a young man holding a tea tray to his chest.
+
+“Inform your employer that the Ministry of Law will be along to investigate unsanctioned construction. Any attempt to hide or destroy what I have found will go very poorly for them.”
+
+The server visibly swallowed, nodding his head frantically as the doors in her path burst open in tandem. Ling Qi flew out, drawing a high-pitched scream from Yan Shenyi at the acceleration. People scattered away from the front of the building as she burst out, rising sharply into the sky.
+
+Ling Qi said conversationally, “I don’t understand why you think the underground folk are going to win. You must know the Empire is stronger.” A pulse of pressure pressed down on her prisoner as internally, she tasked Sixiang with guiding her to Pan Xi and the ministry team’s base of communications.
+
+“The—I—Everyone knows order will collapse here the second that monster disappears and ascends. The clans will war, and the center will fall,” he wailed, squirming in the grasp of the snare, eyes bugged out as she rose over the rooftops. “The Empress has a weak, soft Way, and she can’t reign in the provinces! If-if everything is going to break, why not look out for yourself!”
+
+Like a starving child in the cold without even that much of a reason.
+
+There was a quiet boom as Ling Qi landed in a clear square that Sixiang’s directions had brought her to, dust kicking up in a circle. Before her, the elderly Pan Xi’s robes flapped in the breeze, and his expression was neutral.
+
+“Lady Ling has acquired the suspect,” he said. “Please tell me what this escalation is about.”
+
+Ling Qi fought down the urge to be impatient, and instead, she dumped Yan Shenyi on the ground before Pan Xi with a thump. “This man was conspiring to trigger an attack which would have appeared to be a Twilight Cult attack on the city. I removed the primary triggering device, but the attack assets are still in the sewers.”
+
+Pan Xi’s eyes widened as he studied her, shooting a look to nearby aides. “Conspiring with who?” he asked incredulously. “Who would dare bring the Ministry of Integrity down upon themselves like this? No mere criminal or intriguing noble would be so foolish.”
+
+“The Empire has more enemies than just the Cloud Tribes these days, Detective,” Ling Qi reminded. “There are genuine traitors in our midst. This man’s cousin is not dead. There are barbarians beneath your city.”
+
+Crude words, but she needed the visceral reaction they would invoke.
+
+The old man blinked, a horrified look passing over his face as he made the connections before turning dubious. “Lady Ling, that is a truly incredible claim…”
+
+“And not one I would make lightly,” Ling Qi stressed. She gave the man at her feet a kick. “Interrogate this one for details if you must, but we need to clear the sewers now.. Alert the District Minister and Viscount Xu. This is no longer a small matter.”
+
+Pan Xi still looked unsure, and Ling Qi grimaced. She had one more card to play here, and she had to hope the ith-ia were not simply withdrawing and destroying evidence of their presence. “Detective Pan Xi, I will stake the honor of the Cai on this. Your city is coming under attack.”
+
+As a retainer, invoking her liege like this was a double-edged sword. If she proved to be wrong, it would be a stain on the Cai. It would wreck Renxiang’s credibility. Most people would understand that it would be ruinous for Ling Qi personally to speak these words and be wrong or lying.
+
+The elderly man swallowed heavily, as did those around them, other ministry agents who she had very much not been hiding their conversation from. “If it is as you say, we must take preliminary action, but this one must ask that you carry this message directly to the Minister. Your words will carry much more weight if spoken yourself.”
+
+Ling Qi grimaced, frustrated but understanding. “Can you at least mobilize the lower ranks to begin a sweep?”
+
+“This, I will do, and descend myself if need be,” Pan Xi said, bowing. “I will inform the Minister to expect you and the prisoner. I am sure that he will understand after ripping the details from this traitor's head himself and hearing your words.”
+
+On the ground, Yan Shenyi squeezed his eyes shut and wept.
+
+“Fine. Let’s proceed as quickly as possible.”
+
+***​
+
+The District Minister had been dubious as well. Something like this could not happen here after all, he protested, but with prompting to engage his own arts of interrogation on Yan Shenyi and her promise that this was not merely delusion or the artifice of false memory, she staked her own reputation on the matter. It was enough.
+
+Of course, that was when the first indication of danger had poured in from a frantic officer. The team overseeing Yan Shenyi’s house reported something like a black fog beginning to leak from the ground, toxic and poisonous. Pan Xi’s efforts had already seen the streets around evacuated, so the damage came mainly from rotting wood and crumbling stone.
+
+She’d barely spared a word for the Minister after that, moving to the front. But she heard through the communication talisman that the general alarm was being raised, the Ministry of Law mobilizing, and the guard activating. All cultivators, local, traveling, or otherwise, were called upon now in the defense of the city.
+
+She’d arrived at a sinkhole in the street where Yan Shenyi’s house had been. Toxic vapors spilling in every direction were being contained by a cordon of cultivators, a wall of purifying stone and gusting winds that kept the boiling caldera of poison air inside.
+
+With the Minister’s writ and her own rank, she gathered the most combat capable of the defenders, and cloaking them in her own Mist, they descended into the pit.
+
+Among the crumbled and broken passages of the partially collapsed sewers, they found sights familiar to Ling Qi. The bioluminescent growths of the underground swelled with hostile life, but they died just as swiftly, growing and dying in an artificially rapid cycle, unleashing the rotten vapor which was flooding out.
+
+And then there were the rats and other vermin boiling out of the tunnels. The creatures were swelling and growing and dying with deathly qi, cancerous and twisted, but they were still a threat before they died.
+
+Ling Qi’s toes touched down on the toxic swamp the rotted pipes had made, and she sang her song of winter and lonely death, the Hoarfrost Caress. Even the cold was kinder than this. Ice rippled out, oily vapor turning into dull purple and green and gray slush. Squealing, maddened beasts froze and died, and alien feelers and fungal caps died with them, turning everything in the bottom of the crater and the pipes immediately beyond to a silent and sterile garden of crystal ice.
+
+Five sets of feet dropped into the filthy snow around her in a series of crunches, and she glanced at the men and women with her out of the corner of her eye. Three ministry officers and two of the city guards. There was one third realm from each group of middling stage. The remaining three were in the early stages of the third realm.
+
+As the poison dispersed, more cultivators would follow.
+
+“This will aid the ones above greatly, Lady Ling,” said one, an iron-haired man with a gruff voice and an ugly scar that turned his expression into a permanent snarl. His uniform was scuffed and bloody. He’d been one of the first to respond when the poison and broken beasts had begun to emerge.
+
+“I detect no movement out to fifty meters. Lady Ling, how far does your protection extend?” asked another, a short, blocky woman with her hair in a tight bun. She’d been overseeing the Minister’s office, his secretary.
+
+“It goes as far as my Mist does,” Ling Qi said. She was not restraining herself at all. Her mist clashed and rolled over the dissipating toxic, clean and silver gray. Shadows formed in it, sharp-eyed watchmen, crouching beasts with hackles raised, and a low and insistent beat could be felt in the bones. “I can guarantee safety for some hundred meters and be there immediately.”
+
+“We fan out then,” said another, a woman with a guard’s uniform. “If you approve?”
+
+“Yes,” Ling Qi agreed. “Our target is the cistern. Clear all approaches for ambushers then press the source.”
+
+“Understood.”
+
+Five voices echoed, and they paced into the dark.

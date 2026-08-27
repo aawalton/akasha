@@ -1,0 +1,263 @@
+---
+id: 74c11185-b556-5369-879e-c68113f304f7
+page-type-slug: story-chapter-royal-road
+title: "31 - Secret Stage?"
+slug: 0031-31-secret-stage
+partOf: gamer-girl-evolution
+position: 31
+ownLength: 1775
+unit: words
+ownProgress: 1775
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2795248/31-secret-stage"
+royalRoadId: "2795248"
+markedReadAt: "2026-06-29T20:06:34.485Z"
+---
+
+Of course you have a second phase. It wouldn't be fun if you didn't!
+
+The Leviathan’s attacks were quicker now, its water currents pushing Celica back as it tried to pin her against the wall. Each time Celica closed the distance, the Leviathan would create a massive surge of water, forcing her to retreat.
+
+But Celica wasn’t about to let up. Her Parry allowed her to counter the wave attacks as long as she timed it correctly. Apart from that, she could also use her ranged [Water Strike] skill to poke from a relatively safe distance.
+
+She focused her poke on its eyes and joints, where the creature seemed most vulnerable. With her speed and animation cancelling, she kept her damage output high, poking where she could and sneaking in combos through the small windows where the Leviathan's attacks were on cooldown.
+
+[Rift-Born Leviathan's HP: 43%]
+
+The more Celica dodged and countered, the more the Leviathan seemed to tire. The beast’s movements grew slower, and its attacks less accurate. She knew this was her chance to finish it off.
+
+[Rift-Born Leviathan's HP: 9%]
+
+She launched herself at the Leviathan, dodging a tail swipe with a perfect parry that sent the creature reeling.
+
+[Water Strike]
+
+Celica plunged her blade deep into the Leviathan’s heart, and with a final, earth-shattering roar, the creature collapsed into the floor, its massive form sinking into the depths.
+
+Celica stood over the Leviathan’s corpse, victorious.
+
+[+22,000 EXP]
+
+[You have defeated the Rift-Born Leviathan.]
+
+[You have obtained the item: Heart of the Ancients (3/3 Fragments Collected)]
+
+[Congratulations! You have completed the quest! You have completed the necessary requirement to exit this special area.]
+
+Celica took a moment to soak everything in, the exhilaration of the fight slowly fading as she looked down at the item in her hands. Suddenly, the system chimed in with a message.
+
+[The system has detected a unique item in your inventory which allows you to unlock a secret stage. Do you wish to use it here?]
+
+Celica's brows furrowed. A unique item which allows me to unlock a secret stage? She opened up her inventory, scanning for the item the system was referring to. Her eyes finally paused on one particular, unassuming item.
+
+***
+
+Keystone of the Cyclops (Rare) – It is said to hold the key to unlocking powerful, hidden locations within the Marshlands but its true purpose remains unclear.
+
+***
+
+Oh, so it's this item! she thought to herself with a smile. It was an item she'd received after defeating the Marshlands' Cyclops. Without any hesitation, Celica's hand moved.
+
+[Rare Item: Keystone of the Cyclops has been consumed.]
+
+[You have unlocked a Secret Stage. No EXP will be granted in this stage.]
+
+Celica's thoughts swirled as the world changed around her. No EXP will be granted... in that case, could it be that type of stage?
+
+Soon enough, she found herself in a dimly lit arena with system notifications filling her screen.
+
+[Welcome to the second floor's: Weapon Trial Stage.]
+
+[Boss Rush Activated.]
+
+[Time Limit: 30 Minutes.]
+
+[You have been granted a weapon which you must use for the remainder of this Weapon Trial Stage. You have 30 minutes to defeat as many bosses as possible. Your weapon will improve in quality, in tandem with the number of bosses you defeat.]
+
+[You cannot gain player EXP during this stage. This stage's sole purpose is for the player to obtain a suitable weapon.]
+
+She glanced down at the weapon which the system had forced into her hand. It was a small, murky dagger. The blade was almost invisible in the dim lighting, barely noticeable even when held out in front of her.
+
+***
+
++0 Droplet Dagger [Trash]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stat Change upon Equipping:
+
+Combat: -32,000
+
+Defensive: -2000
+
+Physical Attack: +1 (0~2)
+
+Fixed Effect: None
+
+Durability: 100%
+
+Description: A lacklustre dagger found in a blacksmith's scrapyard.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+Celica's mouth curled into a smile as she analysed the weapon. She could feel the weapon’s weakness in her grip. Truthfully, to Celica it barely even felt like a weapon at all.
+
+I knew it was a Weapon Trial Stage! To find one this early into the game is truly lucky! Seeing crappy weapons like this transform into the coolest items never gets old!
+
+Her thoughts were interrupted. Before her, a massive shark-like creature towered in the centre of the arena. Its glowing, watery body shimmered, a predatory gleam in its yellow eyes. Long, flowing tendrils of water extended from its sides, shifting and swirling like tentacles.
+
+The system chimed again.
+
+[First Boss: Aqua Fiend – Lv. 40]
+
+Only level 40?
+
+With a deep breath, Celica readied herself. The Droplet Blade felt light in her hand, but she would make do. She rushed forward, dodging the first few water projectiles the Fiend launched.
+
+The watery arrows splashed harmlessly against the stone floor as Celica struck.
+
+[Aqua Fiend HP: 100%]
+
+—60% HP
+
+[Aqua Fiend HP: 40%]
+
+Despite the weakened weapon, Celica's initial animation cancel combo had cleaved its HP by over half!
+
+The Fiend howled in frustration, its body surging as it attempted to push Celica back. She stumbled but quickly regained her footing. With a flick of its tail, another wave of water arrows darted straight toward her, followed by a barrage of water spheres.
+
+Celica was on the defensive now, dodging the incoming projectiles and parrying all she could. When her window to counter had arrived, Celica closed the gap in an instant. She landed a few quick slashes to the Fiend’s exposed flanks, chipping away at its health.
+
+[Aqua Fiend HP: 15%]
+
+Finally, the Fiend roared and twisted, its body charging at her with a burst of speed. Celica dodged easily and quickly parried another incoming swipe attack with practiced precision, using the momentary window that the boss was stuck in its animation to drive her dagger into its side with a clean thrust.
+
+The Aqua Fiend let out a final, gurgling roar before collapsing into a puddle of water.
+
+The system’s voice echoed in her ears.
+
+[You have defeated the First Boss: Aqua Fiend.]
+
+[Time Remaining: 29 minutes 22 seconds]
+
+[Your weapon has been upgraded.]
+
+She glanced at the blade, now gleaming with a faint, ethereal glow.
+
+***
+
++1 Puddle Shortsword [Common]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +7,000
+
+Defensive: +200
+
+Physical Attack: +300 (350~450)
+
+HP: +25
+
+Fixed Effect: None
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a beginner blacksmith's scrapyard, now a refined shortsword. After experiencing changes, perhaps the dagger's latent potential has begun to awaken.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+It had become slightly longer, and its edge was sharper. Additionally, its rank had improved from 'Trash' to 'Common'. She could feel the difference in its weight and balance, too.
+
+“Not a bad improvement for a first round,” Celica muttered to herself, ready for whatever came next.
+
+[Since you have defeated the First Boss: the Second Boss has spawned.]
+
+A monstrous figure rose from the floor of the arena. It had the appearance of a hulking, water-infused construct, and its body was made of swirling waves that formed a solid, stone-like armour. Its massive, muscular limbs glowed with azuric energy.
+
+[Second Boss: Tidal Guardian – Lv. 42]
+
+The system’s voice barely finished before the Guardian raised one of its enormous arms and slammed it onto the heart of the arena with a violent force. The ground beneath Celica trembled ominously, but she remained calm.
+
+The Guardian advanced, lifting its other massive arm to send out a sweeping blast of water that crashed into the space in front of her. Celica easily managed to dodge, leaping to the side as the force of the attack rippled through the whole arena.
+
+She rolled to her feet, her heart racing, but the Puddle Shortsword responded with a bit more power this time. It cut through the air with a clean arc, though still not as powerful as Celica needed just yet.
+
+[Water Strike]
+
+The Tidal Guardian roared, its fury echoing through the chamber. With a grunt, it charged at Celica. Reacting quickly in response, she leapt backward, landing just beyond its grasp. He launched some water projectiles, but Celica stayed one step ahead, Parrying while focusing on the beast's movements.
+
+She rushed towards it, sliding and cutting deep into the side of the Guardian’s aquatic body. The blade met some resistance, but Celica could feel it cutting through, bit by bit.
+
+[Tidal Guardian's HP: 81%]
+
+Celica’s heart pounded as the Guardian bellowed, shifting its form and launching a devastating steam attack into the air. The scalding vapor filled the air, and Celica could feel the heat almost searing at her skin.
+
+She dashed backward, narrowly avoiding the steam as it scorched the arena. Knowing the Guardian was vulnerable after the attack, Celica closed the gap with lightning speed.
+
+She slashed upward with her blade, landing a series of quick, decisive blows to the Guardian’s exposed flank.
+
+[Water Strike] → [Attack] → [Slash] → [Attack] → [Thrust] → [Attack]
+
+—21% HP
+
+—16% HP
+
+—24% HP
+
+[Tidal Guardian's HP: 20%]
+
+Getting off her full dps animation cancel combo in an instant, the Guardian slowed, its movements becoming more erratic as the damage began to take its toll. Celica seized the opportunity, dodging the next incoming Water Blast and landing a final, piercing strike with the Puddle Shortsword.
+
+The Tidal Guardian collapsed into a block of foam as the system chimed with victory.
+
+[You have defeated the Second Boss: Tidal Guardian.]
+
+[Time Remaining: 28 minutes 35 seconds]
+
+[Your weapon has been upgraded.]
+
+***
+
++2 Pond Shortsword [Uncommon]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +10,500
+
+Defensive: +600
+
+Physical Attack: +450 (400~500)
+
+HP: +75
+
+Fixed Effect: None
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined shortsword. After experiencing changes, perhaps the dagger's latent potential has begun to awaken.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+Celica gave a small nod of approval. It wasn’t the ideal weapon just yet (or even better than her original which she bought in Marshia), but it was quickly becoming something more.
+
+She readied herself for what was to come, the pressure of the time limit reminding her to stay focused and make the most out of this opportunity.
+
+[Due to the next weapon change being a significant improvement (Uncommon → Rare), the subsequent bosses will be substantially different, both in difficulty and nature.]
+
+[Please wait as changes to the arena are being made. Your time will be paused during this period.]

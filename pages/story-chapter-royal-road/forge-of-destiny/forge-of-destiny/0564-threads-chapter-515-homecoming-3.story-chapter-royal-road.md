@@ -1,0 +1,149 @@
+---
+id: 3726118d-7016-5947-aa1a-8a67d0c77f93
+page-type-slug: story-chapter-royal-road
+title: "Threads  Chapter 515-Homecoming 3"
+slug: 0564-threads-chapter-515-homecoming-3
+partOf: forge-of-destiny
+position: 564
+ownLength: 1887
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3299087/threads-chapter-515-homecoming-3"
+royalRoadId: "3299087"
+---
+
+Shenglu was beautiful. She understood she was biased, but nonetheless, when they crested the final hill that blocked their view of the lake, Ling Qi felt a deep sense of gladness in her heart. This was, she thought, her home. Before, it had been the Argent Peak Sect, but even that had been limited by her knowledge, she would leave it. Tonghou was a bad dream that lingered only in her iron hold, the memory of Isolation that drove her cultivation.
+
+She wondered when exactly this feeling had set in so fully.
+
+The little town by the lake had grown, the walls surrounding the manor and the city center rising high. That center was, itself, more filled in, with less empty space. The shrine at the center of the docks stood out, and if she looked beyond it, she could see the deep rich browns and blacks of fields prepared for the spring sowing in the months to come and the roving clouds of fluffy white as a loose flock of sheep grazed on one of the hills overlooking the town.
+
+She had a strong urge to just climb from the window of the carriage and fly down the rest of the way herself, but she restrained it. She could go on a flight later, perhaps with Biyu.
+
+She could see it on some of the others as well, a slight release of tension. Gan Guangli was the most obvious, beaming with pride as he looked out over the little boats dotting the surface of the lake. Cai Renxiang was less obvious, just a slight softening around her eyes. Xia Lin's gaze tracked the motion of the workers emerging from the dense copse of trees on the west side of the lake on a new widened path with a convoy transporting fresh cut lumber from the expanded camp further inside the forest. Even she gave a small nod of satisfaction at their discipline.
+
+Only Meng Dan's expression was more curious than relieved, and his eyes flicked up to meet hers when he felt her attention. "Quite a lot of progress for such a fresh location. I hope to get to know its secrets well."
+
+"Hoho! I shall give you a proper grand tour, Sir Meng!" Gan Guangli invited, clapping him on the shoulder. "As my new brother-in-arms, I can do no less!"
+
+Ling Qi blinked and hid a smile as Meng Dan faltered. "Ah, my thanks, Sir Gan."
+
+"An excellent idea," she said playfully. "We should forge all of our bonds strongly. Shall we inspect the new forestry camp together later, Xia Lin?"
+
+"I suppose."
+
+Meng Dan caught her eye and chuckled.
+
+It was good to be home, if only for a little while.
+
+***​
+
+Cai Renxiang was kind enough to dismiss her once they arrived. She would follow up with the owlishly blinking craftswoman and the other new residents later, but for now, she had a much more important duty to see to.
+
+"Sis!"
+
+Ling Qi swooped upward, feet leaving the ground with barely a rustle, leaving her a darting blur. Her arms passed like smoke through the wooden rail of the manor balcony, but were all too solid as she caught a squirming little body in her hands. Biyu shrieked in delight as they corkscrewed up into the air, the spin sending the hems of her gown flaring out, its trailing ribbons snapping in the wind.
+
+She descended just as fast, releasing her hold on the wind and letting her weight reassert itself, only giving a tug to ensure she landed easily on the balcony's edge. She smiled sheepishly at her mother, who was giving her a very dull, unimpressed look.
+
+"Sorry, I couldn't help myself," she apologized, bowing her head.
+
+Biyu kicked her feet happily. "Again! Again!"
+
+Mother sighed, squeezing her eyes shut. "You may do one more."
+
+Biyu cheered, Ling Qi smiled, and up they went again.
+
+Once had turned into twice, then thrice, and then Mother had put her foot down. Ling Qi thought it was fine to be somewhat indulgent of her younger sister.
+
+"I know Mother enjoys a sweet or two, so I hope my gift will grant me forgiveness." Ling Qi bowed playfully, presenting a blue ceramic jar.
+
+Biyu had gone for her nap, and the two of them were in the upstairs dining hall. Their family dining hall was separate from the ones below for visitors to the manor and civil servants, respectively.
+
+"Honey?" Mother questioned, peering at the label.
+
+"I recall you saying you enjoyed a spoonful in your tea back at the sect town," Ling Qi said, straightening up.
+
+"I see. Is this some manner of cultivation aid, like that awful tea you asked me to drink once?"
+
+"No," Ling Qi said defensively. "Well, it has properties that improve circulation and blood flow from a small inherent spark of wind qi, but its main purpose is to taste sweet. Promise!"
+
+Mother eyed her with some performative suspicion. Ling Qi kept her chastened expression. Even if she knew it was a joke… Well, why not play along? She was happy that her mother was confident enough to let herself have some humor these days.
+
+Mother sighed, broke the seal, and spooned a tiny bead of the glistening, bright gold liquid into her teacup, stirring it in.
+
+Ling Qi politely ignored the slightly undignified sound she made. They were alone after all; she'd shooed the servants out after they'd laid out the tea.
+
+"Thank you, Ling Qi," Mother said, setting it down.
+
+Ling Qi smiled over the rim of her own cup. "You're welcome. How is the clan?"
+
+"We are well settled now. Biyu has enjoyed the gardens. She's made friends with a few of the staff children. I considered if it would be inappropriate…"
+
+"No less inappropriate than our household already is," Ling Qi said wryly.
+
+"Yes, I assumed you would say that. I have almost opened a meridian," Mother continued.
+
+"Oh, which one did you end up going with?"
+
+"The arm. I have in mind a calligraphy art from your library. It should help with correspondence, and I might learn to inscribe messenger birds," Ling Qingge said hesitantly, almost as if she were asking permission.
+
+"I can see how you might find some use for that. The manor is enormous, even compared to our home at the Sect." Ling Qi laughed. "Mother, I'm glad for whatever you decide to do; your cultivation is your own to choose."
+
+"Of course," Mother said. "Do tell me what you have been up to. I have heard rumors about multiple courtships?"
+
+It was said so lightly, but somehow, Ling Qi felt sweat break out on her forehead at the look in her mother’s eyes. She found herself scratching the back of her head like a child and laughing.
+
+"Ah-ha… Well, you see… Um. Ahem. Firstly, you were already aware of Xuan Shi," Ling Qi began. It was a feeble riposte.
+
+"And so far as I knew, it was only a polite interest that you said had been addressed. He seems like a kind, responsible young man, and so, I put my worries to rest."
+
+"He is that," Ling Qi defended. "Mother, the reason I was reticent about him after you pointed out what I was willingly ignoring… You understand it, right? I was afraid. Because what else could a girl of my experiences be?"
+
+She didn't want to get into her tribulations, nor the wounds that she had seen heal since.
+
+Mother's expression grew somber, her eyes falling to the tabletop as she gripped her cup tightly. Mother knew, too. Mother knew very well because she had danced on those terrifying strings for half of her life.
+
+"I do understand, Ling Qi. You have changed, though. I don't see that fear in you as much. It makes an old woman worry."
+
+"You aren't very old, Mother," Ling Qi protested. "I know several people called Young Mistress, who are twice your years."
+
+Mother's expression scrunched up, but she could see Mother was glad she hadn't caused her any distress. "That feels very strange."
+
+"Doesn't it just? Xuan Shi is very dedicated. He handed over the gauntlets that protected me back at the summit, artifacts probably worth more than this manor without even a moment's pause. He has not indicated that I owe him any favor for this, despite their destruction."
+
+She reached out to pour herself a cup of tea as well.
+
+"And I don't feel obligated to do so. He is just very sweet, even if he is awkward about it. I want to give him a chance, and for some reason, he wants to take it, although I'm sure he could do much better. Zhengui clears the practical hurdles."
+
+"And I suppose that Bao Qian is the more obligatory of these?" Mother asked to clarify. "An offer you were entertaining for politics' sake?"
+
+"It seems cruel to say that," Ling Qi demurred. "I like him well enough; we work together well. I find him reliable in business and trust him with Hanyi's wellbeing."
+
+It was enough. By all traditional standards, it was enough to form the basis of a marriage. Cai Renxiang's view of marriage only differed from the norm in how blunt it was. A cultivator’s marriage was primarily a tool to secure stability and familial connections.
+
+Most people would say that affection between the partners was good and desirable, but it wasn't the point of a marriage. Affection was a happy bonus to be celebrated. As long as there wasn't active antipathy in the match, that was good enough.
+
+"He is a good business partner. I don't know if he can be more," Ling Qi finished awkwardly.
+
+"He did strike me as a reliable sort, though I admit, you know what small plans I had for you now."
+
+Her mother had hoped that teaching her letters and numbers would be enough to secure her a stable husband, a shopkeeper or tradesman would appreciate a wife who could take care of clerical duties and accounting. In doing so, she had further hoped that the Liu clan's malice would not pass on to the next generation.
+
+Ling Qi couldn't blame her mother for her plans. They were probably the best-case scenario for the situation she had been born into.
+
+Qingge stared thoughtfully into her cup. "And this Meng Dan? I saw him arriving with you, and knew him to be part of your lady's retinue. Is this another political offer that has to be entertained?"
+
+Ling Qi felt her shoulders hunch against her will. "No," she answered reluctantly.
+
+Mother stared at her.
+
+"We get along well. He's quite funny, and I find him very handsome, even if he is a little thin for a man," Ling Qi said. She felt as if she were staring down at herself as the words tumbled over each other on their hurried way out of her mouth. "There are political advantages, but…"
+
+"Oh, Ling Qi," her mother despaired, rubbing her face. She looked worried, amused, and a touch of fear for her there, banked deep, all tangled up into that complicated expression.
+
+"I will introduce him to you soon, Mother," Ling Qi promised.
+
+Her mother sighed. "Please do. I feel I should know at least what you are getting into."
+
+"That is fair."

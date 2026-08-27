@@ -1,0 +1,159 @@
+---
+id: 6386656c-259c-5b22-ab64-5c3b5c4e86b4
+page-type-slug: story-chapter-royal-road
+title: "Threads 528 Lakeside 3"
+slug: 0577-threads-528-lakeside-3
+partOf: forge-of-destiny
+position: 577
+ownLength: 2097
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3577928/threads-528-lakeside-3"
+royalRoadId: "3577928"
+---
+
+She stopped only briefly at the manor, mostly to drop off a report on the project progress for Renxiang and check her office for anything urgent that might have popped up. She instructed a clerk to send her a messenger bird if something truly urgent did come up.
+
+Soon, she was on her way out to the visitors' stables, the still makeshift field arranged to receive incoming guests, merchants, and suppliers alike. It wasn't exactly stately, full of workers heaving crates from the backs of wagons and carrying them off to be loaded onto smaller carts for distribution around Shenglu. Still, there was a hastily erected section roped off for noble visitors now, with bamboo screens that dampened the sounds from the rest of the yard.
+
+Xuan Shi's carriage was rolled up a few short minutes after she had arrived, so she had timed her appearance well.
+
+"Good workin’ with ya!"
+
+Yes, Sixiang had done a good job feeling for the approach of their cousin and in doing so, helping her determine when to show up.
+
+The carriage was simple, one of the plain vehicles the sect allowed its disciples to rent out. Xuan Shi, though, looked… good.
+
+Not different; he still wore robes of heavy green and black, though his sleeves were now pinned in place by ceramic armlets rather than allowed to billow, and he had a few strips of green silk hanging from his wide turtleshell-patterned hat. Physically, he hadn't changed much, but he seemed less burdened. Or perhaps, less inward-facing. There was a touch of confidence and resolve in his posture that she hadn't seen before. He was at the sixth stage as well, so perhaps something about his elevation had caused the change. She was curious.
+
+"Xuan Shi," Ling Qi greeted warmly. "Welcome back to Shenglu. I hope your trip was both swift and uneventful. I'm surprised you took a carriage."
+
+"This one wrought a delay in cultivation. Contemplation of the deep and the high absorbed thought, yet an arrival was not to be delayed." Xuan Shi clasped his hands before him and politely lowered his head. "This one is thankful for Ling Qi's welcome and her acceptance of the suit."
+
+"It was never in question, as you well know," Ling Qi replied amusedly.
+
+He shrugged, as if to say, 'all the same'. "This one is merely pleased to see thyself, bright and whole, though the winds whisper that this might not remain so."
+
+She wrinkled her nose. Even him! At least he didn't sound scolding, just concerned.
+
+"The General’s fire couldn't end me, nor keep me down. Some overgrown mining accident isn't going to manage either." Ling Qi performatively tilted her chin back.
+
+"It will not, but this one wishes to see the heat touch not even a hair. Still, if thy confidence is so great, what is there to do but share the burden?"
+
+"Hey, now. Don't go giving her a bigger head. The poor girl's shoulders might not take it well," Sixiang teased.
+
+"Thank you, Sixiang," Ling Qi said tartly. "Any other wisdom to offer?"
+
+Sixiang tapped a finger against their chin before turning to Xuan Shi. "Her favorite flavors are usually 'does this aid cultivation', but she really likes warm plum jam."
+
+Xuan Shi blinked very slowly.
+
+Ling Qi pinched her nose and sighed. "Not what I meant."
+
+"But what you asked for!" Sixiang chirped. "You, of all people, should know the difference."
+
+"A note shall be made. This one thanks the navigator for splitting the fog," Xuan Shi intoned.
+
+Ling Qi squinted at him. Was that a tease? … It was.
+
+"Would Ling Qi escort this one to the west shore?" he asked suddenly, and it was her turn to blink.
+
+"I can. May I ask why?"
+
+"If this one may, the unknown is the purpose. This one shall appreciate thy company, if the span of the day is free."
+
+A surprise, then. Had he already made his gift? She was curious.
+
+"Lady Cai has given me the duty of escorting you for your arrival, so I do not see an issue with your request."
+
+And had made her get well ahead on her tasks in preparation for Xuan Shi’s visit, the tyrant.
+
+"Ohhhh, am I invited?" Sixiang asked. "I feel my cousin, but where's your little bird?"
+
+"A turning of the sun behind, a cultivation task being fulfilled," Xuan Shi replied. "The moons are welcome, if Ling Qi agrees."
+
+"I don't see why not."
+
+She gestured to the grooms standing outside the range of their screens, signaling them to move forward to take care of Xuan Shi's carriage and its horses.
+
+"Shall we take the path, or just walk along the shore?"
+
+***​
+
+They were quiet on the walk. Xuan Shi was never one to fill the air with speech. She had by necessity grown to talk much more than she used to, but this silence was nice in a way. The sound of the lake lapping at the shore and the wind rustling through the scattered reeds was enough.
+
+Sixiang looked like they had an itch after a few minutes of quiet, which was amusing. She could feel, even if she wasn't listening in, that her muse and Kongyou were sniping at each other through spiritual communication.
+
+Soon, they reached the west shore, far from the busy docks slowly growing on the opposite side of the lake. Shenglu's manor was a silhouette in the waterfall mist, and colorful arcs of refracted color gleamed in it under the high sun.
+
+They slowed to a halt at a clear patch of shore, where the sandy mud protruded out into the water in a low spit of land, mostly clear of reeds.
+
+She glanced at him, and he gave a small nod after staring out over the water for a moment longer. He reached into the pocket of his robe, rather than any of the storage baubles she could sense on him, and withdrew his hand before turning to hold something out to her.
+
+She looked down curiously into his palm and saw a hairpin there. It was two-tined, made of silvered glass. The ornament at its end was a tiny round circle of fireglass, smooth and shining as the surface of an unruffled lake.
+
+She picked it up carefully, and she could feel the dense qi embedded in it. Her eyes did not reflect in the glass, though she could feel its receptiveness to the energies she cycled through her eyes. She supposed she wouldn't ever need a water bowl or mirror for far seeing with this. Only…
+
+"Did Zhengui source this?" Ling Qi asked, amused, brushing her thumb across the glassy disk. Even processed, with dream qi and water qi woven heavily into the fire, she couldn't fail to recognize Zhengui's qi.
+
+"Young Sir Ling has been most helpful. This one would show you the trails the fires may make in the heavens when time allows," Xuan Shi vowed. "Turn the piece. Please."
+
+She never thought she would see the day when Zhengui would actually keep a secret from her. It filled her with both an amused and rueful feeling. Smiling slightly, she turned the pin over in her hand.
+
+The other side took her breath away. At the bottom of the circle was inlaid an upturned pale crescent of pearl. It was rich with the qi of the sea, and etched above in careful lines and colored by inlaid white jade was the image of a small swift ship, its sails full with the wind, cutting through dark waters. It felt like a tiny portal through which she could reach and touch it, and it radiated a yearning that she knew all too well. To seek, to find, to keep.
+
+“Hold it up with the sun behind, facing out to the water. Only a drop of thy qi is needed."
+
+She heard Xuan Shi speaking in his home dialect, the smoother words falling more freely than the language of the south did. Curious, she held it up as he asked, stepping out onto the sandy spit.
+
+The sun hitting the back of the obsidian glass cast a sparkling light through, whispers of waves and seafoam clinging almost invisibly to the air. She let her qi touch the dense matrix of formations she could feel in the glass, and mist billowed softly from where the refracted light landed, like the morning had come again to the lake shore. And there, beyond the veil of the material, she saw the ship etched into the pin, waiting and bobbing in dark waters.
+
+"If you wish, this one would be pleased to take you out upon the currents today," Xuan Shi invited. "However, this vessel may only skim the shore yet."
+
+She nodded. The shadow of the sails was just barely visible to reality.
+
+"I accept. Where do you…"
+
+She paused, a glance telling her the answer. Where did she want to go?
+
+"I've been on many harrowing voyages, and I think I'll be on many more, sooner rather than later under dangerous skies and dangerous stars," Ling Qi said thoughtfully. "Let's just sail Snowblossom. I think I can afford just one relaxing day."
+
+There was no need to turn this trip into a trial or a tribulation; there were plenty of those in store for the future.
+
+"A calming ride, a circle round the lake, if deeper than the surface. A good maiden voyage," Xuan Shi stepped up beside her. He was still for a few moments, standing there with her. She gave him a curious glance, wondering what he was waiting for.
+
+She felt his fingers brush across her palm, his hand hovering over her own. Her eyebrows rose, but after a moment’s pause, she pressed her palm into his. His fingers closed around hers. His hand felt a bit rough to the touch, not calluses, mostly, but the faint texture of scales. It felt very broad, like her more slender hand could disappear into his grip.
+
+They stood there for a moment more, until Sixiang finally lost control of their giggles. She didn't dignify the muse with a response to such rudeness, and instead stepped out, into, and through the veil.
+
+Her next step fell on smooth and polished wood.
+
+"How long does the ship linger once I've stopped holding up the pin?" Ling Qi asked, her voice just a bit too quick.
+
+Xuan Shi, she felt, was almost relieved by her sudden question. He continued speaking in his own language with her. "The projection remains for some minutes or can be dismissed instantly."
+
+She peered at their surroundings.
+
+The ship was quite large, especially compared to the little lake boats that the fishers at Shenglu used, but was smaller than the great cargo ship that had filled the harbors of Xia Anxi’s memories. It had multiple, ribbed triangular sails and an expansive deck.
+
+The mists curled around it, and the blue-black waves lapped at the stark silver of the hull. Above them was a sky of velvet black, threaded through with wisps of brightly color, and the light of three moons shone down, a grinning crescent, a gibbous, and the thin line of silver light around a black disc that was the new moon. All of them hung too large to be real in the sky.
+
+This place was as much hers as anything right now. Snowblossom dreamed below; the old spirit usually showed little awareness. They were too small and fleeting to catch her attention, unless Ling Qi cried out for it.
+
+"Sheesh, aren't you two just adorable?" a reedy voice drawled. She glanced over to the rail where the nightmare, Kongyou, lounged. They didn't bother with the approximation of clothes today, clad only with softly pastel mothlike fuzz over chitinous limbs, silvery wings folded behind their back. "Told you you could do it, Shi!"
+
+"Oi, don't go interrupting the moment," Sixiang griped, placing their hands on their hips.
+
+"You were laughing, too!"
+
+"Sixiang, why don't you entertain your cousin for a while?" Ling Qi asked dully.
+
+"Please," Xuan Shi supported, voice slightly strained.
+
+"Gotcha, gotcha. C'mon, cuz, let's leave 'em to it. We need to chat anyway," Sixiaing said.
+
+"Do we really? You get how miffed Gramps is, right? You sure?"
+
+"Yep!" Sixiang dove for them, their mannequin clattering to the deck of the boat as they dissolved into a comet of smoke and light, impacting Kongyou and carrying them both over the rail of the boat.
+
+"Remember to take your coat off, Shiiiii!" Kongyou cried out as she disappeared under the waters.

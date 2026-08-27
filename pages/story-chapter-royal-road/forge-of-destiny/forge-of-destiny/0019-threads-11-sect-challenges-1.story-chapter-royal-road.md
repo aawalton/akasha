@@ -1,0 +1,151 @@
+---
+id: 34cca34c-975c-5f6c-a466-dad8131599a2
+page-type-slug: story-chapter-royal-road
+title: "Threads 11- Sect Challenges 1"
+slug: 0019-threads-11-sect-challenges-1
+partOf: forge-of-destiny
+position: 19
+ownLength: 2644
+unit: words
+publishedAt: 2020-11-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/586009/threads-11--sect-challenges-1"
+royalRoadId: "586009"
+---
+
+Seeking a break from her churning thoughts, Ling Qi turned her attention to the young looking elder below. The elder was a squat, dour looking man with thinning hair and a wide face. He exuded a pressure that seemed to drain the very color from his surroundings. He wore plain silver robes, a minister’s cap, and a pair of tiny spectacles, all in perfect symmetry.
+
+“We now begin the challenge given by disciple eight hundred and ten, Cai Renxiang, to disciple seven hundred and ninety five, Liu Su.” The elder’s voice was drier than a desert, and half as raspy. It seemed to absorb sound and attention alike, fixing Ling Qi’s attention on the dour man and silencing the murmurs from the other viewing boxes and the general stands. “In accordance with sect rules, Disciple Liu has chosen a match of administrative competence in lieu of a personal duel.”
+
+Ling Qi’s eyes flicked briefly to her liege’s target, a handsome boy a year or two older standing firmly in the second stage of green and bronze realms. He looked calm and collected, confident even. She was too far away to feel much of his aura, but there was a faint papery scent to it.
+
+Her attention returned to the elder then, yanked back by his droning voice. “In the constructed scenario, both disciples have been given the task of reorganizing a barony whose regulations have fallen out of sync with modern Imperial law. The disciples will then be tasked with organizing the county's human resources for military mobilization. Disciple performance will be judged based upon time, accuracy, and minimizing efficiency losses, as judged by I, Elder Meng. Disciples, seat yourselves, and prepare to begin.”
+
+Ling Qi watched, bemused, as the “challenge” began. Liu Su was impressive, insofar as he could be given the dull nature of the challenge. She felt the qi fluctuations as his domain expanded out, and paper and writing implements began to fly. Heavy reference tomes of law fluttered like overweight butterflies, their pages flipping rapidly as form after form was filled in by flying ink brushes, while Liu Su sat with his hands folded neatly in his lap, his eyes half-lidded and fluttering like a man on the verge of sleep.
+
+Cai Renxiang, on the other hand, was less visually impressive. Yet the stern girl did not so much as glance at the tomes of reference she had been provided, and although she wielded only a single ink brush, her hands were a literal blur that only resolved if Ling Qi focused. Ling Qi was pretty sure she caught the sound of ink and paper sizzling from the speed with which her liege wrote.
+
+Despite all that, she was still watching two people fill in paperwork, if rapidly, and that was difficult to grab her attention. Ling Qi found her thoughts turning back to what Meizhen had said. She didn’t know if she could agree with her friend. It felt as if she were just making excuses for herself.
+
+Ling Qi had decided that she didn’t want to betray friends, but where did that line lie? Who was a friend, and what counted as betrayal?
+
+She was still wrestling with that question when the match was called. Liu Su had finished faster, but apparently, his work could not match the quality of her liege’s efficiency and total lack of errors.
+
+She would have to congratulate her liege. And Ling Qi would have to make sure she didn’t get left behind. She couldn’t put off her research and intelligence gathering on potential disciples to challenge just to navel-gaze. There would be time for that later.
+
+***
+
+Ling Qi was not sure what she had expected when she had set this meeting up.
+
+“Does it not cause the gown to hang oddly and bunch up?” Gu Xiulan asked, idly swirling the cup of bubbling hot tea in her hand. “And I imagine it must chafe terribly.”
+
+“Not at all,” Li Suyin replied, smoothing out the glittering silk folds of the gown she was showing them as she neatly folded it back up. “The metal filaments, once attuned to the wearer, will follow their motions naturally and can be controlled in the same way one would a limb.”
+
+It wasn’t this, though.
+
+“That sounds somewhat like a flying sword,” Xiulan commented shrewdly. “Are you certain you are not overreaching yourself?”
+
+Li Suyin met Xiulan’s gaze steadily from where she stood. “It is just a prototype. I admit the control is limited to simple motions as things are currently, but the filaments are vectors for my arts all the same. My partner and I will develop it further when I break through.”
+
+Xiulan continued to stare her down, to which Li Suyin responded by drawing herself up further. This was more like what she was expecting. “That’s the second time you’ve mentioned a partner,” Ling Qi said, pushing herself up from the wall she had been leaning against. “Anyone interesting?”
+
+Li Suyin glanced toward her. “Oh! Um - I suppose neither of you interacted much with the crafting disciples. I have been collaborating with Du Feng, the disciple who placed second in the production competition, one rank above me, on a few projects.”
+
+“Hm, I approve,” Xiulan said, pausing to take a sip of her near boiling tea. Ling Qi had no idea how the girl could stand it. She found the blend Li Suyin had set out to be much better chilled. “I suppose you really have grown.”
+
+“I am pleased to finally meet your standards, Sect Sister Gu,” Li Suyin replied irritably.
+
+Xiulan laughed. “You see? You would not have dared to talk back to me six months ago.”
+
+Ling Qi coughed into her hand. “Maybe we should get back to our original topic.”
+
+Despite her words, she was glad to listen to her friends’ banter; it let her feel normal again. Still, she had arranged this meeting for a purpose. As they were all in the eight hundreds, with her at 830, Li Suyin at 840, and Gu Xiulan at 890, they could share the efforts of their intelligence gathering as they were all trying to scope out the competition in the lower end of the Inner Sect.
+
+“I am grossly underranked,” Gu Xiulan grumbled, her empty tea cup hitting the table with a solid clunk.
+
+Ling Qi nodded in agreement. When speaking with other Inner disciples, and more often, just observing public areas from a well hidden nook, she had come to a similar conclusion. Disciples below nine hundred were mostly in the second realm with a scattering of partial breakthroughs. Even up to rank 880 or so, partial third realms were more common than full ones. She could say that those disciples were beneath her concern and not feel like she was being cocky saying so.
+
+“Just how high are you thinking of challenging?” she asked, giving her friend a sidelong look.
+
+“High enough to reach the next reward tier. I would shame my family otherwise,” Xiulan sniffed.
+
+“I am not yet certain that I wish to challenge for a higher rank at all,” Li Suyin sighed. “I really should finish a project or two first and begin my breakthrough.”
+
+“Are you saying you don’t have your eye on any particular seat?” Ling Qi asked, raising an eyebrow.”
+
+“No,” Li Suyin admitted, sitting down across from Xiulan, having finished putting away her prototype gown.
+
+Ling Qi laughed, and Xiulan tittered along. “Well, let’s leave that aside for the moment. What have we learned about our yearmates?”
+
+“Sun Liling has hardly shown her face,” Gu Xiulan answered first. “Neither has that Kang, though that might be for medical reasons. Bai Meizhen was not gentle in her match.”
+
+“Ji Rong has been in the archives a great deal,” Li Suyin offered. “And not always in the arts sections. He got into a fistfight with a tome of Imperial law while I was studying construct behavior functions. The archivists were quite cross. One commented that it was becoming more common.”
+
+Xiulan let out an unladylike snort of laughter. “That would be a sight.”
+
+“Shen Hu is probably only aiming for a small challenge, so he doesn’t fall below the rank threshold,” Ling Qi added. “He wants to focus on shoring up some weaknesses first.”
+
+“I believe that is everyone of import,” Xiulan said haughtily. “Unless one of your compatriots is aiming to challenge a combat disciple?” she asked, looking at Li Suyin.
+
+“Unlikely,” Li Suyin said. “It might be a little arrogant to say, but aside from Yan Renshu and Fu Xiang, none of the crafters ranked below me are my match either.”
+
+Yan Renshu was the sticking point. Like Gu Xiulan, he was certainly underranked. Ling Qi half worried that he would challenge Li Suyin just to spite her, but she could only speculate on the boy’s plans - if he had any. Not that it would be a serious loss for Li Suyin if that happened; she’d only drop one rank from Yan Renshu taking her former rank, perhaps a bit more if she were ‘leapfrogged’ by other disciples below her successfully winning rank challenges to disciples above her, but she would almost certainly stay in the same reward tier regardless.
+
+Ling Qi flicked her wrist, and a thick scroll appeared in her hand, drawn from her storage ring. “Let’s leave our yearmates aside. I did a little people watching and picked some things up about our new Sect Brothers and Sisters.”
+
+“I did as well since you asked me to,” Li Suyin added, placing her own scroll on the table.
+
+Xiulan rolled her eyes. “What a pair of scholars you are,” she mocked lightly. “I spoke to and mingled with our new brethren on this mountain. I felt no need to write down my insights.”
+
+LI Suyin and Ling Qi let out an almost simultaneous huff of annoyance, only to meet each other’s eyes and break into quiet laughter. Yes, Ling Qi was glad that she had involved her friends, instead of doing this alone.
+
+***
+
+Ling Qi had been busy since meeting with her friends. The sluggishness to her qi had not vanished but instead, it lingered, a morose stillness that slowed her every effort to cultivate.
+
+In the same way, she found her thoughts haunted by the scent of blood and cries of pain in moments of silence. Increasingly, she found those moments appearing. She wasn’t the only one who had been affected by the Bloody Moon trial, and Sixiang had barely spoken up at all in the aftermath of it.
+
+Here and now however, Ling Qi let her worries drift away as the swirling snowflakes did on frigid wind. She sank eagerly into the welcome embrace of the heavy darkness which shrouded her mentor’s mountaintop home.
+
+In the depths of an impossible blizzard above the clouds themselves, lit by starlight, Ling Qi danced, following the motions deciphered from the jade slip containing the Sable Crescent Step.
+
+“Your movements are empty.” Zeqing’s voice echoed from all around her as Ling Qi spun, avoiding a glittering ball of ice and snow flung at her by a giggling little girl.
+
+Ling Qi’s eyes remained closed as she kept her concentration, slipping between the driving shards of ice hidden in the falling sleet. “Where am I making a mistake?” she asked, her voice aloof and calm, emotion temporarily drowned in concentration.
+
+“You mistake me. You are not performing poorly,” her mentor replied, her voice a blustery gust. “Your intent is suppressed. That is the purpose of this dance, is it not?”
+
+Ling Qi hummed, sidestepping and weaving through the snowfield to the soundless thrum of the darkness that shrouded the mountaintop. “I am still surprised that your home is so…” She trailed off, a shudder traveling up her spine. She had never cultivated here during her time in the Outer Sect, and so, she had never felt the sheer potency of the qi in this place. “I didn’t expect so much darkness here.”
+
+“Darkness and cold are two facets of a single crystal,” Zeqing’s voice murmured in her ear while the blizzard howled and Hanyi laughed. “They are absence and emptiness and the end of all things.”
+
+“The silence is beautiful sometimes,” Ling Qi murmured. She did not speak of base sound, as the storm was actually quite loud, but on a deeper level, beneath sight and sound where there was only the flow of qi, it was calm and peaceful. There was no strife and violence, only a quiet stillness that made her heart ache. Yet she knew that the feeling was fleeting, without needing to hear Zeqing’s words.
+
+“Cold seeks heat, and darkness seeks light. Emptiness yearns for fulfillment. Such is the source of desire. Do not seek out the silence, Ling Qi.” Zeqing’s voice had a sad note to it. “Should you reach it, you would cease as surely as frost on a spring morn. Humans are not meant for such purity.”
+
+Ling Qi did not take any insult at the words. She knew purity of concept was not something to be desired. Not yet. She was still far from those heights.
+
+“Still, I wonder what it is like,” she mused. She had no doubt it would be inaudible to any except the blizzard which shrouded her. “Zeqing, would you tell me?”
+
+This time, her mentor did not respond immediately, save for an intensifying of the winds and the driving ice. Ling Qi smiled as she wove through another barrage of flung snow from an increasingly pouting Hanyi.
+
+“All things End.” Ling Qi shivered, the final word echoing like the ringing of a temple gong, layers of meaning skipping across her thoughts. “Heat, warmth, lives, cities, empires, rivers, and mountains; none are eternal. The sun and the moon, the heavens and the earth, these things, too, shall End in time.” Zeqing’s voice chilled her and spoke as if from the bottom of a deep pit. “And when the Heavens lie dark and the earth crumbles, even the End will cease. What lies beyond is unknowable.”
+
+Ling Qi let out a breath of relief as her dance came to a stop, and the chill faded. “Thank you for answering, teacher.”
+
+“You do not understand. My words cannot express the truth without dealing you great harm,” Zeqing said as the wind died and her human form spun into existence from snow and wind, floating serenely. “But that is fine. You are too young for such understanding yet.”
+
+“For once, I have no complaints at being told that,” Ling Qi remarked, rubbing her arms through the fabric of her gown. She still felt chilled. “Master Zeqing, do you think I chose wrongly in that dream?”
+
+“I cannot fully understand your reasons for distress,” the ice spirit replied, her blood red lips unmoving. “I can only say this: take what you desire and cling to it fiercely, for nothing is forever.”
+
+Ling Qi was silent. The words resonated, and yet, what did she desire?
+
+“Are you done talking about boring stuff with Big Sis yet?” Hanyi called, her voice jarring Ling Qi from morose thoughts. Hanyi ran over to them atop the snow, her pale blue feet not making a sound or disturbing a single flake.
+
+“Yes, we’re done,” Ling Qi said, putting on a smile for Hanyi. “What did you want to show me?”
+
+“Momma showed me how to make flowers!” Hanyi chattered excitedly, grasping her hand to pull her along. “I made a garden. You gotta see!”
+
+“Yes, desires must be grasped, even should they bring an ending.” Ling Qi did not turn back despite the conflict in her mentor’s voice. Hanyi had not heard, and Ling Qi was sure that those words were meant for only her.
+
+She felt a sinking in her stomach. All things End, huh?

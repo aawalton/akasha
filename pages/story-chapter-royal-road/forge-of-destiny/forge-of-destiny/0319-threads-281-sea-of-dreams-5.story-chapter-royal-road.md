@@ -1,0 +1,161 @@
+---
+id: f2848daf-e6e7-572d-8b54-aa6666249b91
+page-type-slug: story-chapter-royal-road
+title: "Threads 281-Sea of Dreams 5"
+slug: 0319-threads-281-sea-of-dreams-5
+partOf: forge-of-destiny
+position: 319
+ownLength: 2521
+unit: words
+publishedAt: 2023-02-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1104173/threads-281-sea-of-dreams-5"
+royalRoadId: "1104173"
+---
+
+Ling Qi shared a long look with Xuan Shi.
+
+As much as a founding tale could be interesting, how much would it help? Flipping the situation around in her head, how much would the tale of the Empire’s founding tell one about the Emerald Seas of today? In the end, this summit was still mostly a contact between border provinces.
+
+“I think we’ll take the tale of this Iron King guy,” Sixiang said.
+
+“And you speak for the girl, echo?” asked the crone, peering out from under her heavy brow.
+
+“They can,” Ling Qi said, “Sixiang only spoke my thoughts before I could.”
+
+“Interesting. Is it the same for you, boy?” Grydja asked, turning to Xuan Shi.
+
+He glanced up to where Kongyou was still perched on his shoulder. The nightmare looked back, insectile eyes glittering in the dark.
+
+“Nah. Even this dumb guy’s not so much of a fool.”
+
+“It is so,” Xuan Shi said. “This one would also like the King’s Tale, grandmother.”
+
+“Well enough then. Well enough,” the spirit said.
+
+She leaned over the steaming cauldron, her stirring spoon circling evenly. The aroma from the cauldron was that of a rich stew, and Ling Qi could hear the faint sloshing of water and the bump of solids against the inside of the cauldron.
+
+Gryja’s crackling voice took on a sort of rhythmic cadence as she spoke, and the crone’s milky eyes gazed into the steam without the glinting appetite and playful malice which had characterized her so far.
+
+“It began on the day when the sun last turned black. When the terrible fear swept south with the fiery winds that scoured the eastern sky, crumbled mountains, and turned the eastern steppe into a field of sucking mud and the tundra to trackless marsh. When a daughter of the sun died and all the land cried out in torment from her death.”
+
+The Twilight King, Ling Qi thought. The demonic cultivator who had nearly destroyed the Empire in ages past and who had destroyed the Golden Fields province when the Purifying Sun, her friend Gu Xiulan’s ancestral spirit, had destroyed herself to end him. It was hard to imagine, but she supposed even the mountains of the Wall had not been able to shield the southern lands from that ruin.
+
+“This terrible omen put the people in disarray, the eastern clans and tribes most of all. The land was changed. But worst of all had been the sun’s blackening. Though it lasted only a few bare hours, the Southern Gate shook and rumbled with the terrible force of the enemy in those moments of his distraction.”
+
+Grydja smacked her lips and muttered, “Busy, awful days, oh yes. Old Grydja did not get to relax in those days, for there was so much to be done. Only twice before did the world shudder so, but we were fortunate. With this, that dead sun ensured it all remained in our hands, did not stir things better left asleep. But, but, you children are not here to listen to an old woman’s complaints about work.”
+
+She continued, “The Iron King rose in the Glittering City, the great fortress and gatehouse turned capital of the mortal children. With the beasts of the Outside pawing at the gates with their fragments and breath coming through and the world going mad, he rose and led.”
+
+Ling Qi heard the roar of voices, the awful sound of screaming demons, and the sounds of war, clanking metal and rending flesh, all in the hiss and bubbling of the cauldron.
+
+“With so many of those who spoke with the Scepter’s voice occupied with the land, he led. He bore no negotiation, no speech. His voice was his sword, and it spoke harsh things indeed. He demanded a steep tribute to arm himself and his men, and he crushed town and city and village which would not pay. All to fight the demons, he said, oh yes, all to fight the demons.”
+
+The crone chuckled.
+
+“It was even true in its way. At the beginning.”
+
+“But it didn’t stay true,” Ling Qi said.
+
+“Smart poppet. Of course it didn’t. The truth was only a convenience to begin with.”
+
+The crone laughed, raspy and cruel.
+
+“With so many warriors, warriors of all stripes behind him and him wearing the title of hero as a crown, the people of the Glittering City were happy to see all the land turned to their defense. What cared they for the eastern tribes, driven to privation and collapse by the tithe as they struggled with their new land. What cared they for the frozen villages and towns in the north or to the flooding ports in the east. They were the stalwarts who stood astride the Gate and who defended all the world. They took only what they were owed.”
+
+Grydja’s lips peeled apart in a sneer, iron fangs grinding, casting pale blue sparks into the hissing cauldron.
+
+“No victory could be enough, even as the demons abated. More tithes. More fortifications. More warriors. Never mind that their blades turned on the people and the land. Even the Glittering City began to grow unsure, for the first duty of a king is to perpetuate himself. The might of the Iron King and his throne turned upon his people. He took and took, reducing the land ever more to waste, all to keep a tottering throne afloat. Hungry, hungry things are kings. They will eat themselves from the feet up, if given half a chance, and not notice until there’s naught but snapping jaws and rolling eyes upon the throne.”
+
+Grydja pointed a bony finger at them.
+
+“Learn this, if nothing else, children. The people of ice are wary of power, far more than you dragon spawn. You will find few friends with displays of might.”
+
+“You can’t face power without power of your own,” Ling Qi pointed out. “It might be right to be wary, but you can’t reject power outright. Without it, you can do nothing.”
+
+“A man who only speaks may be mightier than an army, but this is only because his words and thoughts are weapons and armament,” Xuan Shi said slowly. “It is not a matter of rejecting might in its wholeness, this one believes. Rather, Grandmother, what form of might is seen as the right?”
+
+“Oh, aye, aye, children. You catch an old woman out in her story. It is the naked fist that is not respected. It is commands given without deliberation or consultation disregarded. It is the might of kings which will avail you not.”
+
+That made more sense, but Ling Qi was still bothered. “Honored Grandmother, may I ask why you seem to hold such contempt for power? I can see your nature. You are hunger and cold and ending. You yourself are the night which ends all things without discrimination. Where does your malice come from?”
+
+Grydja regarded her over the boiling cauldron, and Ling Qi worried that she had overstepped. Something sparked, black and terrible, awfully deep in those milky eyes.
+
+“The End needs no assistance.”
+
+The words were frigid beyond description. It cut through her clothes and her skin as if she were still a mortal shivering in the street. They lacked any of the crone’s lackadaisical tone or personality. They were precise and flat and wholly without inflection.
+
+“Bold child, happy child, don’t poke so deep. Looking so deep like that, you’ll miss the surface,” Grydja scolded, wagging a frostbitten finger at her. “Your ending is a thing of men and beasts and cities and rivers and mountains, and so is this old woman’s. Who would old Grydja be in dead and empty lands scoured by stars? Even a strict grandmother is fond of her get, oh, yes. Even if the cold always takes some.”
+
+“My apologies, Grandmother,” Ling Qi said shakily.
+
+The spirit eyed her, the stirring of the stew slowing. “You trouble yourself because you keep wishing to poke behind the curtain despite your master’s warning. If you wish a tidbit of wisdom, poppet, it is this: Ending is not of the sun or the moon, the earth or the sky. We are born from…”
+
+“Time,” Xuan Shi finished. “Forward motion. Causality. Disparity. When the Nameless Father and Mother made beginnings, so, too, were endings born.”
+
+Ling Qi quietly warmed her hands over Zhengui’s glowing shell. Her little brother had shuffled over, glaring defiantly at the greater spirit as he placed himself between them.
+
+“That’s the one. You call it Brother Time, but it bears no name you could withstand, little one.” The crone cackled. “Ending as transition or as transgression if you’d like to play with spice, you have this and should build upon it, if you want an old woman’s opinion.”
+
+“This one thanks the Honored Grandmother for her advice.”
+
+The crone hummed. “But the story, the story. For all their destruction and consumption though, kings are hard things to topple, for men and women alike are sturdy creatures and will suffer much before their tears become wrath. As has been said though, kings are ever hungry, and the Iron King’s appetite, most of all. Many old guardians, those who had become of the land, were slain and destroyed as his hunger began to awaken their instinct to defend, and in this, they mirrored the people.
+
+“The Iron King took from the Gate its warriors and turned it upon the land. He slew the Rampart City and struck a mortal blow at the Five Rivers City, both children-disciples of She who became the Scepter. They were among the eldest of all cities, and this, at last, was too much.”
+
+The words “too much” echoed and distorted as if called out by the shadows in the hut.
+
+The hag's gimlet eyes glowed in the dark as the spoon plunged down like a knife into the cauldron. The spoon rose, bearing to the top of the waters something red and round. It was a skull, jaw open in a scream, muscle still clinging to bone. One wide eye rolled in its socket. Ling Qi got only a glimpse before it was plunged back into the water.
+
+Ling Qi swallowed hard, but it was Xuan Shi who spoke up first.
+
+“Slew a city?” Xuan Shi asked, frowning. “This does not strike as poetry.”
+
+“It’s not. Take that as your lesson. Power, the power they respect, is that which holds up and binds together. Waystations, fortresses, centers of wisdom, cities, these are what those who cast aside human flesh aspire to,” said the crone. “The Iron King didn’t, although he would have made a mighty, if harsh, one. But he took and took alone, and built his body into a throne, and the Glittering City, she who was Sudica herself, gave her people the power to tear him down and hang his broken corpse from the Hierophant’s branches in offering to the cold and the crows. Know that, when you go to speak, that this is the peak of the Way among the people of the ice.”
+
+To become a city, it was difficult to wrap her mind around. The final ascension beyond the realms of cultivation was to become a great spirit and to write one’s Law into reality and forever change the world. To make oneself a part of the land was more like becoming a sublime ancestor.
+
+But she’d already seen this type of cultivation, hadn’t she? She’d seen the iron mountain which was a man. Was that an infant city or merely a cultivator who could not reach quite so high?
+
+The crone let them contemplate her answer as she raised the iron spoon to her lips, sipping from the crimson broth.
+
+“It is an admirable end. Among the cousins, it is well sought. To become an island and to host kin upon their backs, this is known and honored,” Xuan Shi mused. “Grave and home alike, swimming forever as the Living Isle does.”
+
+“It does sound nice,” Gui said. “Oh, but with people on Gui’s back, it would make it hard to burn.”
+
+“Obviously, I, Zhen, would bless our people against our flames, so only enemies would burn,” Zhen hissed. “This, any lord should do.”
+
+“Not so easy. People are fragile,” Sixiang commented. “What are you thinking, Qi?”
+
+“I am thankful to the Honored Grandmother for this knowledge,” Ling Qi said, bowing. “I had the pieces, but these words put the puzzle together. This is the highest aspiration?”
+
+“It is, and its opposite is despised and spat on.”
+
+A culture which despised power gathered wholly to the self and Law wrought of aggrandizement. Dangerous. Many in the Empire had Ways which could be seen like that or were like that. Would the Duchess be viewed in a similar fashion?
+
+“But you children have tired this old woman out, that you have. Be off with you then to the waking world. Best not to sleep too long, dearies,” said Grydja as the fire banked. “And besides, my stew is done, and you’d best not watch an old woman eat.”
+
+“Then we will not disturb thy meal any further,” Xuan Shi said, bowing his head.
+
+“Yes, we will respect your wishes,” Ling Qi followed, bowing as well.
+
+“Heh, the details are different, but not so much. Thanks for the tale,” Kongyou said brightly.
+
+The crone gave the nightmare a look, and they scuttled behind Xuan Shi’s head. “Hmph, foolish morsel of a man, too clever a girl. Aye, hold up but a moment, old Grydja nearly forgot something.” The crone stood, looming over both them and the fire, fishing about in her apron. “Here, boy.”
+
+Xuan Shi blinked in shock, holding out his gauntleted hand seemingly by instinct as the old spirit dropped something into his open palm. Small and white and oblong, it looked like… a chicken egg?
+
+“That mangy little beast outside still lays now and then, but I’ve no taste for eggs anymore.”
+
+Xuan Shi looked down at the egg with curiosity. “What manner of beast…?”
+
+“A chicken, you daft boy,” Grydja interrupted brusquely. She sniffed, turning her milky-eyed gaze on Ling Qi. Her wrapped foot moved, kicking the dust about the hearth, sending up a spray of sparks. Ling Qi threw up a hand, but they guttered long before reaching her, leaving only an impact on her outstretched hand. She grasped it by instinct, and opening her eyes, she found herself looking at a scorched and withered shard of petrified black wood as long as her forearm. It weighed heavily in her hands.
+
+“Think on sacrifice. Understand it well, and you’ll find your End. Now, git.”
+
+The hag waved her hand, and there was a rush of wind and snow and shadow.
+
+Ling Qi gasped, almost stumbling as the world rushed through her. She opened her eyes to see the little ruined shrine. The sun was descending, painting the sky. They were back in the waking world.
+
+Xuan Shi stood beside her, leaning heavily against the broken shrine. She met his eyes.
+
+“Lady Ling, this one would very much like to contribute to your work.”

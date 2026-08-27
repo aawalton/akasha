@@ -1,0 +1,129 @@
+---
+id: d0f0c4cc-e0ee-5f77-bed2-618764a8e8d2
+page-type-slug: story-chapter-royal-road
+title: "Threads 85-Household 1"
+slug: 0106-threads-85-household-1
+partOf: forge-of-destiny
+position: 106
+ownLength: 2051
+unit: words
+publishedAt: 2021-05-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/682864/threads-85-household-1"
+royalRoadId: "682864"
+---
+
+Ling Qi watched the house servant who was leading her inside through a silver gleam in the fold of her gown. The young woman was a few years her elder, but nevertheless, her head was low, and the tension in her shoulders was clear. Ling Qi thought that she might be the same person who had first opened the gate for her back at the beginning when she had first visited after hiring them, but she couldn’t be sure. That kind of said it all, didn’t it?
+
+<Not all your fault. I shoulda been more assertive in pointing out when you were drifting,> Sixiang murmured.
+
+Ling Qi wasn’t sure she agreed. Her promise to Zhengui and Hanyi had made her think, and her recent integration had changed her perception a little as well. Not, admittedly, about her mortal household, but about the dismissal she had delivered to her own mother for expressing the same concern as her spirits. It was just that those things tied together. The people she had hired were friends of her mother, or at least, people her mother cared about. What did it say about her that she dismissed their existence so easily?
+
+Ling Qi hummed to herself as she stepped inside, and she waited as the young woman closed the door behind them, allowing the servant to take the lead again. It wasn’t necessary, but it was polite.
+
+She had spoken to Cai Renxiang on the subject before, and she probably hadn’t understood properly then. So much of imperial society, its traditions and etiquette and laws, were built around keeping cultivators grounded and engaged. Elder Hua Su had poked fun at the idea of sitting in a cave for a hundred years back in the Outer Sect, but the truth was that the scenario was a very easy one to drift into. This time, she had disappeared for a day and a half, and at other times, she had vanished for longer. Those times would only grow in length as she ascended the realms of cultivation, she understood.
+
+Ling Qi had meditated on loneliness in her efforts to better control her domain, and the thought of the future had frightened her a little. She wouldn’t stop climbing, couldn’t counteract the separation wrought by cultivation and didn’t want to, but she couldn’t become unmoored either. Her mother was important to her, and so for her sake, she had to try at least a little with the people her mother cared about.
+
+<I’ll give ya a swat if you drift off your course this time,> Sixiang teased. <So here’s the first one. You’re not quite restrained.>
+
+Ling Qi frowned in consternation, wondering what Sixiang was talking about. Then, it struck her. The mortal woman’s footsteps made faint sounds on the polished floor, and her gown rustled with her movements and her breath disturbed the air, but Ling Qi was silent, utterly so. The only noise Ling Qi made was a distant, eerie piping. She concentrated, and a twitch of her qi normalized things. “How has my mother been since the attack?” she asked, adjusting her qi flow so that it wouldn’t accidentally happen again.
+
+The woman in front of her startled, but to her credit, Ling Qi was sure a mortal wouldn’t have noticed. “Madame Ling has been anxious, but she is doing well,” the servant answered. “She was greatly reassured by Lady Li’s work.”
+
+Ling Qi hummed thoughtfully. “And you? Are the others handling things well?” She had offered to let any household servant leave, but no one had taken her up on it.
+
+“We are most thankful for your patronage,” the woman replied carefully, keeping her head down.
+
+“I didn’t ask that,” Ling Qi said. She came to a halt. “I asked how you and the others are holding up. I was genuine when I said that any of you could leave.”
+
+The young woman paused, alarmed at the questioning or more accurately, Ling Qi’s attention. Was she really that bad? “It has been trying,” the woman admitted. “But no one wants to go back.”
+
+Ling Qi regarded the young woman with some surprise. The servant was being honest. “You aren’t afraid of the coming conflicts?”
+
+The girl said guiltily, “I am, but it’s still better here, isn’t it? At least we are being protected. You and the other immortals will not let the barbarians through, right?”
+
+“No,” Ling Qi replied. She was uncomfortable with the expectation she saw there. It was one thing to be told she was responsible for people, but it was another to actually feel it. “We won’t lose. You’ll be safe.” It wasn’t a lie. She was sure that no one would let this place, the gateway to the Sect, fall.
+
+“Then there is no reason to talk about going back. The others feel the same. That is, if our service has been satisfactory? Madam Ling has said we have been doing well.” The young woman grew more anxious as she spoke, clutching at her gown.
+
+Ling Qi was quick to reply. “I have no complaints. Please, let’s continue,” she added, gesturing down the hall.
+
+<Moons, it’s a good thing she can’t tell how off kilter you are from a lil respect and expectation. How do you function sometimes?> Sixiang huffed.
+
+<Poorly,> Ling Qi thought dryly, resuming her walk toward the garden. She glanced at the young woman’s back and reminded herself to take the time to memorize some of her household’s names later. It was good to know that her household was staying around because they actually wanted to, even if it was only because Tonghou was worse.
+
+She gave the young woman a nod of acknowledgement as she stepped out onto the porch overlooking the garden. The sun was beginning to peek over the horizon so it only took a moment to spot her mother.
+
+Ling Qingge stood by the garden pond dressed in a plain brown gown. She held an unusual pose, one of the stances of the cultivation art Ling Qi had provided her. Ling Qi stood for a moment at the edge of the porch, observing the flow of her mother’s qi, such as it was.
+
+She was doing better. The cracks of age and wear remained on her dantian, but the light of awakening had been kindled inside of it. Growth would still be fraught, but her mother’s cultivation was at least stable. There was no danger of regression. Mother’s attempts at physical cultivation had made some progress, and it seemed like the exercises in the cultivation art were helping.
+
+Ling Qi ghosted down through the banister, landing lightly on the garden path, and then let her next footfall sound normally. Her mother opened her eyes at the sound.
+
+“Ling Qi, I did not expect you so early. Is everything well?” her mother asked, lowering her arms.
+
+“Everything is fine. My cultivation just took less time than expected,” Ling Qi deflected. “I thought I would come a little early. Sorry for interrupting you.”
+
+Her mother looked at her with a frown. Was she really that obvious?
+
+<It’s almost like you’re practicing an art of honesty. Do you really want to fool your mom?> Sixiang whispered.
+
+“Well, that’s not wholly right. I did want to talk,” Ling Qi added before her mother could voice her question. Sixiang was right, of course; there was no value in deflections here.
+
+“Of course,” her mother replied, seeming hesitant. “Did your exercise proceed properly?”
+
+“Yeah,” Ling Qi said with a half smile, moving to take a seat on one of the stone benches in the garden. “Integration went fine. See?” Her domain weapon shimmered into view across her lap, and a pale transparent mist rolled out around them, cloaking the garden. She had spent some time practicing so there were no embarrassing manifestations, but the mist still settled about her mother’s shoulders like a warm winter mantle.
+
+The older woman blinked in surprise, reaching up tentatively to touch it, but the mist parted before her fingers. “I see. I admit I do not quite understand what has changed, but I am glad you succeeded.”
+
+“Thank you.” Ling Qi fingered the wooden grip of the domain blade absently. “But I actually wanted to apologize.”
+
+Carefully, her mother took a seat beside her. Ling Qi could see all the little aches that still plagued her in every movement. “I see.”
+
+Ling Qi smiled to herself. She was glad mother hadn’t tried to appease her or say that there was nothing to apologize for. “I’m sorry for being so dismissive. I’m not going to apologize for my actions, but I am sorry for being so short with you about it.”
+
+“That hardly sets me at ease,” her mother said stubbornly. “I still do not understand why you would do such a thing.”
+
+Ling Qi considered her words. The lessons of the Playful Muse’s Rapport art flitted through her head as she turned to meet her mother’s pleading gaze. “Because I am strong and greedy,” Ling Qi said. “Because I don’t want to lose anything. Because I won’t let fear guide my hands or my feet. I hope you can understand, Mother. I don’t intend to die.”
+
+Ling Qingge closed her eyes. “This is the sort of conversation I would expect to have with a son going to war.”
+
+“I was always pretty bad at being a girl. Sorry, Mom,” Ling Qi said.
+
+“You weren’t,” Ling Qingge disagreed. “You were no more rambunctious and restless than any other child.”
+
+“No need to spare my feelings.” Ling Qi sighed. “I understand—”
+
+“Ling Qi, I was never prepared to be a mother at an age barely older than you are now. My conditions may have left me in a poor state, but that only explains my mistakes. It does not excuse them,” Ling Qingge interrupted sharply. “So do not spare my feelings.”
+
+Ling Qi was silent, and so was her mother. Finally, Ling Qi blew out a breath, sending eddies through the mist. “I guess neither of us know much about what we’re doing, huh?”
+
+“It seems so,” her mother replied. “Ling Qi, I cannot pretend to understand matters of cultivation beyond the most basic. Answer me this. Were you certain that you would survive that knife?”
+
+She had not expected the potency of the poison, but looking back at the moment of decision…
+
+“Yes,” Ling Qi said with conviction.
+
+“Then I must trust your judgement,” her mother said wearily. Ling Qingge was not happy, but she had accepted it. There was nothing else to say.
+
+“How is the household handling the new security?” Ling Qi asked, turning her eyes to the garden.
+
+“As well as can be expected. I have not explained to them the precise nature of the guardians in the basement,” Ling Qingge replied. Probably for the best. “Miss Li explained the upkeep necessary very well.”
+
+“Will you be alright taking care of it?” Ling Qi asked.
+
+Mother looked down at her hands, flexing her fingers thoughtfully. A single pale and guttering spark of qi leaked from her fingertips. “Yes. It is simple enough, if tiring.”
+
+Ling Qi could manage it with no more effort than the time taken to come to the house, but she wasn’t going to take that away from her mother. “Good. Has everyone in the house been acclimating well?”
+
+Her mother gave a surprised look. “Yes. Despite the disturbance, the town’s laws are well enforced and the sect guards are disciplined and do not bother the girls.”
+
+“Just don’t be afraid to come to me if there’s trouble. I can spare the attention,” she said. “Think you can get me a list of names? That’s something else I should be better with.”
+
+“I suppose.” Mother sounded so dubious. She really was that bad, wasn’t she?
+
+<Yep,> Sixiang agreed.
+
+“Well, enough chit-chat,” Ling Qi said with false cheer. “I don’t want to take away from your cultivation, Mother. Why don’t I help you out with your exercises?”
+
+It was well beyond time that she stepped up her aid. She had said that she wanted to help Zhengui and Hanyi keep up, and although her mother would never see violence again if she had her way, there was no reason to slack off. Everyone was better off with more cultivation.

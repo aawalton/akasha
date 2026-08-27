@@ -1,0 +1,123 @@
+---
+id: 0ddb6f4c-2fde-5838-ae88-9ba2af99835a
+page-type-slug: story-chapter-royal-road
+title: "Threads 23-Winter's Muse"
+slug: 0032-threads-23-winters-muse
+partOf: forge-of-destiny
+position: 32
+ownLength: 2729
+unit: words
+publishedAt: 2020-12-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/600030/threads-23-winters-muse"
+royalRoadId: "600030"
+---
+
+Zeqing’s home had never seemed so dark, Ling Qi thought nervously.
+
+For once, no one had come to greet her when she arrived on the mountaintop. There was only the wind and the dancing snowflakes. Her mentor’s home huddled darkly on its foundations like an image from an old tale. Its shutters were closed, and shadow lay deeply under its eaves despite the bright noonday sun shining overhead.
+
+And it was so very cold. Ling Qi shivered, rubbing her arms as she approached, footsteps light atop the snowy field.
+
+“Are you sure about this?” Sixiang asked, their voice drifting on the wind. “I know she’s your teacher and all, but you’re... No one is welcome here right now. Can’t you feel it?”
+
+“I can feel it,” Ling Qi replied, approaching the door. “But I know my lessons aren’t complete either.”
+
+<Ling Qi… This isn’t like that dream or messing around in the forest,> Sixiang said, the wind falling silent as their voice returned to her thoughts. <I know I joke a lot, but you could die here. Did you even tell anyone what you were doing?>
+
+Ling Qi opened her mouth, but she ended up staying silent rather than replying. She had told Cai Renxiang that she would be secluding herself in cultivation for a day or two, but there had been no reason to worry or frighten everyone else. She had already chosen to approach Zeqing again, even knowing the spirit was dangerous right now.
+
+“The way things are right now is partially my fault,” she finally said. “It’s only right that I help resolve it. I don’t want to…”
+
+Sixiang didn’t answer with words, but memories of her childhood drifted up, of stolen blankets and too slow allies.
+
+“No, that’s not right.” Ling Qi shook her head. “I’m still that person. I’m still selfish and afraid.” The Bloody Moon dream had proven that. The old her remained, just under the skin. “But Zeqing is my teacher. I couldn’t have gotten to where I am without her. I won’t leave her or her daughter like this,” she said, determination filling her voice. “... There has to be some things more valuable than safety.”
+
+She felt Sixiang’s mental sigh, followed by the assurance of support, settling like a warm blanket around her shoulders. With that, Ling Qi didn’t hesitate any more, and she took the last steps toward the darkened doorway and rapped her knuckles on the frame.
+
+For a moment, there was no reply, but then, ever so slowly, the door opened. The drawn out creak as it drifted ajar raised the hairs on her neck. There was no more invitation than that, but Ling Qi knew that if Zeqing did not want her here, she could not have forced the door even with all her strength. Taking a deep breath, she stepped inside, squinting into the unnatural darkness that shrouded even her vision. It was unsettling. How long had it been since she had last stood in the dark like this?
+
+The door snapped shut behind her, cutting off the last rectangle of light, but Ling Qi remained composed. “Master Zeqing, your student has come to greet you,” she said, speaking formally. Unable to see, she simply made the appropriate bow without turning. A cold breeze was her only answer, but as she straightened up, the darkness lightened a fraction, and she saw ahead of her a sitting room where her mentor waited before a hearth that guttered with heatless green flame.
+
+Zeqing floated before the hearth, the empty lower half of her gown folded as if she were seated upon an invisible seat. The spirit’s head was lowered, her silver hair hiding her face. Ling Qi approached cautiously until she stood within the circle of firelight, trying to ignore the uneasy feeling that she stood in an empty void from which there was no escape or exit. “Master…”
+
+“I am surprised to see you so soon. Are you really so eager?” Zeqing asked, her voice cold and distant. She did not look up.
+
+“I do not want to leave my mentor in pain,” Ling Qi replied honestly. “Where is Hanyi?”
+
+Zeqing let out a small huff of amusement at her hesitant words. “Safe. I left her with her father while I centered myself.” Zeqing paused then, finally raising her head to look at Ling Qi. She almost flinched at the sight of the hairline fracture running from Zeqing’s chin all the way up to her temple. It was as if Zeqing’s face was a porcelain mask, and Ling Qi could not quite find the courage to look into the darkness that lay behind it. “You have never met my husband, have you?”
+
+“No,” Ling Qi answered reluctantly, a sinking feeling telling her that she was not going to like this.
+
+Zeqing gestured with an empty sleeve, and to their right, a patch of darkness grew light. Through it, Ling Qi saw into a room, its shadowed walls stacked with toys shaped from ice and snow and rock. In the center, she saw Hanyi seated at a table, face screwed up in concentration as she messily copied the characters from a second sheet. As she finished the last brushstroke, she looked up, an excited gleam in her eyes and said something Ling Qi could not hear to the larger figure beside her.
+
+Ling Qi could not help but follow the young spirit’s gaze. Although her eyes saw a handsome man with ice pale skin and a bookish air smiling softly at his daughter, her other senses saw beneath the facade. It was a hideous mannequin of ice, blood, and bone. A single terrified eye stared out at her from an iced over socket, pleading for escape and release.
+
+Ling Qi shuddered, her stomach churning as she felt the reality of the thing that Zeqing called her husband. The bones of it were made wholly of the spirit’s power, but there were enough pieces, crudely stitched into its frame, that she could feel the shape of the man it had once been. The worst of it was that there was still a spark of life and awareness in those broken fragments of a soul.
+
+“Even her time with him has turned to lessons,” Zeqing sighed, resting her chin in a hand of clear ice. She glanced briefly at Ling Qi. “Hanyi sees only her father as he should have been, but I felt that you could handle the truth.”
+
+“... Why?” Ling Qi asked, swallowing the bile that wanted to rise in her throat, dragging her eyes away from the horrible thing.
+
+“Would any answer satisfy you?” Zeqing asked absently. “Would spinning a tale of his perfidy give you satisfaction?”
+
+Ling Qi grimaced. “Maybe,” she admitted. “People can be terrible.”
+
+Zeqing let out a small laugh. “Such honesty,” she mused. “Very well. Once, a small clan ruled this patch of land, though I and my predecessors had been here far longer. My husband was one of three brothers in contention for the seat of the clan’s heir. My husband was a scholar and a wanderer at heart, and so he discovered me.”
+
+Ling Qi studiously avoided looking at the subject of their conversation but nodded. She already had a feeling where this story was going.
+
+Zeqing turned her empty white eyes upon Ling Qi with a knowing look. “Indeed. Be aware that I had long been alone. Imperial claims in this region are recent, and I - we - were subjects of reverence and placation. The Imperial method of interacting with spirits was quite new to me at the time,” she said with a sigh. “... And he did have such a skilled tongue.”
+
+Zeqing shook her head, and after a beat of silence, she continued. “He sought to bind me of course. Power such as mine would have been a boon to his claim to the seat. He returned to this mountain again and again to woo me, and in the end, he even convinced me to bear his child as proof of our love so that I would never be lonely again.”
+
+Ling Qi’s eyes shifted to Hanyi, and she thought of what she knew of history. “Hanyi isn’t that old, is she?”
+
+“I kept her within me for the longest time. I was bitter, but I was not willing to destroy a part of myself. We get ahead of ourselves, however. For the better part of a decade did he continue to visit me, and in doing so, he changed me," Zeqing explained wistfully, gazing at the broken, spiritually bleeding thing in the other room. "I am a spirit of darkness, desire, and covetousness. I am the cold that saps the life from a man's bones yet allows him to drift into his final sleep feeling naught but pleasant warmth. Yet for the first time, I came to feel more than a base desire and hunger for warmth, and from the qi I took from him were born the emotions that come so easily to your kind. I fell in love, and I agreed to join my essence to his and create a new life. It was a transgressive thing, not done in all of the memories of my past selves. I am a creature of endings, not beginnings after all," her mentor finished with a bitter laugh.
+
+“What happened in the end?” Ling Qi asked. She already knew the answer, at least in the broad strokes.
+
+“It was a ploy, and his ability to avoid my sight was not as good as he believed,” Zeqing answered clinically. “A life that bound us together would have made for an unbreakable binding with his techniques, even for me. He would then have been free to take a human wife as well, as is your people’s custom.” She gave a faint shrug. “Instead, when he returned the next time, I devoured him, body and soul, and refused to allow him his End.”
+
+Ling Qi looked at the thing’s single staring eye pleading for the mercy of release into death and shuddered. Could she say that he had deserved that?
+
+She thought of the past and the things she had seen on the streets and in her mother’s home. Leering faces and her mother’s limping steps and bruised limbs rose all too clear in her memory. She recalled well those less cunning and lucky than her, who had fallen into servitude, legal and otherwise, in the slums.
+
+If she met those people now, could she say that she would be inclined to treat them any better? For a moment, she brought herself to imagine that night long ago, the last one she had spent in her mother’s home. She remembered the stink of alcohol on rich robes and the feeling of a fat, sweaty hand on her shoulder before Mother had distracted him and shooed her off to her room. She imagined that hated face paling in terror as ice crept up his robes and his choked scream as winter stole the breath from his lungs.
+
+It was incredibly satisfying, made all the more so by the simple fact that if she truly wanted to, she had no doubt that she could make it reality. She had left old grudges behind these days, too busy to waste time contemplating them, but in her heart, some still simmered. She was a practical person, but she was not forgiving.
+
+Yet the thought of taking even that man and binding his frozen soul to her like a spirit was repugnant. To keep a source of hate and pain chained to herself... She couldn’t imagine the satisfaction lasting long at all. It was pointless and wasteful. Though she knew it was not the same, she couldn’t see stretching out the punishment as a good thing.
+
+Sixiang laughed weakly in her thoughts. <I guess I see why my aunt wanted to show you that dream. Don’t forget now.>
+
+Ling Qi paused. Could she square that - the satisfaction at personal retribution and the horror at the slaughter of that civil war? Was it a contradiction in terms? She didn’t think so, but she doubted that those two long dead Weilu leaders thought any different. She opened her eyes to find her mentor still staring at her, despite Ling Qi’s minutes-long silence. The fire was gone. The image of Hanyi and her father was gone. There was only Ling Qi and Zeqing facing one another in the endless dark.
+
+“You should End him, Master Zeqing,” she said quietly, meeting her mentor’s empty white gaze. “Things shouldn’t persist past their Endings.”
+
+“Of course you would have me give up what is mine,” Zeqing said softly, tendrils of hungry darkness writhing out through the crack in her visage. “That is what you are here for, is it not, my dear student?”
+
+“... I am,” Ling Qi admitted. “Master Zeqing, you taught me to keep what I love close, but if I break those things in doing so, is there really any meaning?”
+
+“There is,” the spirit replied. “Even broken shards can be held close to warm you in the night. Once a thing has Ended, once it has left you, it is gone.”
+
+“I don’t agree,” Ling Qi said with determination. “I abandoned my mother long ago, but we’re together again. She’s still my mother, even if things are different now. Our relationship didn’t End.”
+
+“Can you truly say that?” Zeqing asked, a cold wind beginning to blow through the darkness. “When I have seen and felt the way that you regard her? It hurts my heart to imagine my Hanyi seeing me in such a pitiable light.”
+
+Ling Qi winced, shivering as the icy breeze cut through her gown and flesh alike, chilling her to the core. It was true that she didn’t tell her mother many things. She held her separate from most of her life for good reason. She knew well how far below consideration mortals were for most cultivators. “And yet I love my mother still, even if she cannot do anything for me. That…” She hesitated, unsure of how to articulate her thoughts.
+
+Zeqing slowly rose, her empty gown shifting as she seemed to stand. The frozen spirit seemed so terribly tall in the dark. “A Mother protects her children. She keeps them safe. She teaches and nurtures. If a child leaves her, how is she to do these things?”
+
+Ling Qi looked up at the looming figure of her mentor, her pale face seeming to almost glow in the absolute darkness. “Childhood has to end, sometimes sooner than it should,” she answered quietly. “I have finished my lessons, and Hanyi is growing up. Even if you stop that end from coming... would it satisfy you?”
+
+For the first time since they had begun speaking, Zeqing’s mask-like visage twisted into an expression. She flinched, and the wind stopped dead as her features twisted in pain like a woman who had been stabbed. Ling Qi startled as a sharp report like a tree shattering from the winter’s cold echoed through the void. A new crack now spiderwebbed across her mentor’s face, stark and jagged. It cut through her nose and right eye, disappearing under her hairline.
+
+“Master Zeqing?” Ling Qi asked, her resolve shaking as she felt the deathly cold beginning to creep up through the soles of her shoes, stabbing into her feet like a forest of pins and needles.
+
+“Go to my daughter, Ling Qi,” her mentor ordered dully. “Your final lesson is upon you. As your teacher… All I may do is ensure that your success is possible.” The spirit turned away, dress billowing in the howling wind that was beginning to build. “Take her, and leave the mountain.”
+
+To her side, pale ghost lights arose, marking out a hall that no doubt lead to Hanyi’s room, but Ling Qi hesitated, moving to follow Zeqing as she drifted into darkness, only to be driven back by shrieking winds and blowing ice that left shallow cuts across her face and hands.
+
+<I think you should listen to her. You knew what you were kicking off, didn’t you?> Sixiang asked, their normally joyful voice somber.
+
+“... I did,” Ling Qi agreed, straightening her shoulders as she turned on her heel to march down the hall. The time for hesitation was past.

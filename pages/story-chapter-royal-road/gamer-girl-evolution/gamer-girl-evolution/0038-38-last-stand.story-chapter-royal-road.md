@@ -1,0 +1,187 @@
+---
+id: 8573a3f9-d9b6-5fa2-bf08-0e5a0428506a
+page-type-slug: story-chapter-royal-road
+title: "38 - Last Stand"
+slug: 0038-38-last-stand
+partOf: gamer-girl-evolution
+position: 38
+ownLength: 1905
+unit: words
+ownProgress: 1905
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2914272/38-last-stand"
+royalRoadId: "2914272"
+markedReadAt: "2026-06-29T20:06:47.936Z"
+---
+
+As if possessed by the goddess of speed, Celica easily broke out of the elven armies’ encirclement. Her thoughts were racing as she dashed around the arena, her sword destroying every poor elf that tried to stop her.
+
+Since she’s summoned these, I can keep my crit chance constantly stacked. I should target the archers first, since they’re generally lower level and are ranged. After they're gone, dealing with the warrior types will be much easier.
+
+In the distance, an elf archer readied her bow, aiming at Celica’s current position. Just as it looked like the arrow would land from the elf's perspective, Celica disappeared, instantly appearing besides her.
+
+Her sword flashed, cleaving straight through the startled archer, an unsettling cry escaping from the elf's lips during its final moments. But Celica wasn’t fazed. She was already moving onto her next target.
+
+One by one, all of the archers fell around the arena, the rain of arrows following Celica dwindling by the second.
+
+Now all that’s left is the warriors. Her eyes narrowed, instantly locking onto the warriors who didn’t seem to even realise what had just happened. They readied their swords in anticipation but Celica was much faster than they imagined.
+
+[Water Strike]
+
+A blade of water gushed out of Ocean’s Call, knocking into a group of three warriors simultaneously.
+
+Critical Hit!
+
+Critical Hit!
+
+Critical Hit!
+
+The dark elf empress watched on quietly as her minions fell one by one at a frightening speed. Unconsciously, the tapping on her throne sped up, her eyebrows twitching in obvious annoyance.
+
+[You have defeated all of the boss' minions. The boss is no longer in an untargetable state.]
+
+As soon as the notification came up, Celica dashed straight towards the boss her intention clear. The boss remained sitting, calm and composed, like she didn't want to acknowledge the fact that Celica was approaching her with heavy killing intent.
+
+Krrr!
+
+A grating sound echoed as Celica's sword collided with the empress' wind barrier, but Celica had expected it. She layered her attacks, animation cancelling her skills perfectly to destroy the barrier as quickly as possible.
+
+Suddenly, the cover of wind surrounding the boss exploded but instead of he same scene as last time playing out, something strange happened. This time, Celica anticipated the explosion and parried as soon as she destroyed the barrier. Instead of being flung back like last time, Celica stood her ground.
+
+Before the boss could react, Celica Slashed and Thrusted, animation cancelling and ending her combo with a heavy [Water Strike]. For the first time, the boss' face changed, a new emotion displaying as she pushed Celica away with a loaded gust of wind.
+
+Fear.
+
+[The Empress of the Night HP: 89.5%]
+
+"Only 11%?" Celica muttered. "It's rare for floor one bosses to have crit resistances but, I guess it makes sense for a final boss. And the fact she wasn't frozen after all those attacks, she must have some elemental resistances, too. Not bad."
+
+From the throne, the empress sat up, and a large magic circle formed on the ground. From within, emerged a dark, magical sword which looked like it had been forged out of pure darkness.
+
+She grasped the sword and pointed it directly at Celica, finally taking her seriously.
+
+"So this is how that little froggy felt..." Celica mumbled as she saw the elf empress assuming the same pose she had done earlier with the rift toad. She raised her sword with one hand, doing the same motion as the empress.
+
+Then, they both disappeared.
+
+Krr! Krr! Krr!
+
+Sparks from metal hitting metal covered the arena, as their swords clashed several times. Celica's eyebrows furrowed and she quickly disengaged, parrying the boss' attack and jumping backwards.
+
+Her eyes flew to the top of her screen.
+
+[Lv 46 - Celica Travine Crystalis HP: 83%]
+
+It was the first time she'd taken damage and she had a feeling it was...
+
+"Chip damage? Seriously?" She sighed. "Well, she is level 90 which is basically double my level. I can make up for the difference in raw stats with my movement, animation cancelling and this really strong weapon but I guess chip damage is unavoidable if we clash head on."
+
+If after three clashes she dealt this much chip damage then... a solid hit would spell instant death for sure. I'm gonna have to not clash with this boss at all.
+
+Her thoughts raced as she considered her options before finally settling on what she thought was the best strategy.
+
+She moved in, closing the gap between herself and the boss, starting with a Slash. The boss dodged, replying with a Thrust of its own.
+
+In a nick of time, Celica quickly Parried, leaving the boss open for an attack. Seeing her chance, Celica attacked before instantly following up with a Thrust, an animation cancel and a [Water Strike].
+
+[The Empress of the Night HP: 82.1%]
+
+Celica paused. That damage isn't bad. Though, its about to get a whole lot worse for this boss. The boss paused, readying her dark sword. She looked around nervously, instinctively she could tell something was wrong, but she couldn't quite realise what it was.
+
+She looked at Celica who wasn't rushing towards her or in a battle stance like before. Instead she was walking towards her leisurely, pointing to her feet.  Just then she looked down, where a layer of ice had begun to consume her.
+
+Slowly, the ice covered her entire body until she was completely frozen, only able to move her eyes in the capsule of ice. All she could see was Celica's distant figure reappear next to her and her body twitch strangely as she animation cancelled through her whole combo.
+
+Empowered Critical Hit! x5
+
+Empowered Critical Hit! x10
+
+Empowered Critical Hit! x5
+
+Celica had managed to get off twenty attacks during the period the boss was frozen, all of which being empowered critical hits! Suddenly, the boss' HP melted away at a frightening pace.
+
+[The Empress of the Night HP: 0.01%]
+
+[The boss is enduring. It refuses to die for another thirty seconds, entering a frenzied state. Survive.]
+
+"What the..." Celica paused, instantly retreating as soon as she saw red rune like patterns covering the elf's body. "Refusing to die, huh? Well, things would've been too easy if you got one shot like that!"
+
+Although Celica was talking a big game, she knew her best option here could only be one thing.
+
+Run!
+
+A level 90 frenzied boss wasn't something to mess around with, especially not the royal kind like this elf boss.
+
+[The boss is casting a large scale attack, which covers the entire arena. You have three seconds to prepare.]
+
+Three seconds... Celica's eyebrows narrowed. Internally, she was grateful that on the lower floors the system aided players by telling them what, major attacks the boss was about to use. That way, it wasn't as hardcore as the later floors.
+
+Though, Celica could tell she was about to use a widespread attack just from the start-up animation.
+
+Instantly, Celica vectored towards the edge of the arena, her sword poised and ready for the attack, which came swiftly after. A frightening darkness covered the throne room, as black spears rained down from above, coated in vivid blue flames.
+
+Several of which were falling right towards Celica, whose sword was glowing a heavy azure.
+
+[Water Strike]
+
+She cut through several of the spears, but a few were still descending. She predicted where they'd land, vectoring around them perfectly, but the barrage kept going. She kept moving around as the last of the spears fell, one perfectly aimed at Celica.
+
+I can't dodge this!  She thought as she met it head on.
+
+Parry!
+
+[Lv 46 - Celica Travine Crystalis HP: 21%]
+
+"60% HP lost just from chip damage!? Come on, that's ridiculous!" Celica said in outrage, though she knew it really wasn't ridiculous. Players were simply not meant to be able to clear up to this point at this stage in the game.
+
+Most players either didn't have a job class or the job class hadn't evolved yet, and players hadn't evolved into different races yet either. Not only that, their armour and accessories were sub-par, with very little unique items.
+
+Already getting this far was something the system didn't want any player to do, and Celica knew that well.
+
+Her eyes flickered upwards towards the elf boss, who looked extremely fatigued. She was panting, but her eyes were cold and determined.
+
+[You must survive another 15 seconds.]
+
+"Thanks for the reminder," Celica said under her breath, analysing the boss' carefully. "Can it even attack in that state?"
+
+As if replying to her question, the boss moved, instantly closing the gap between her and Celica. Its black sword moved directly for Celica's head the next moment. Celica instinctively moved her sword up to parry before dodging at the last moment, barely.
+
+That was close!
+
+A bead of sweat dropped down Celica's face. If she'd parried that attack, judging from the chip damage from the black spear, she'd likely have died on the spot.
+
+The boss didn't give Celica any time to catch her breath, determined to finish her off here and now.
+
+Several balls of blue flames roared towards Celica, each travelling at different speeds and angles. Celica danced around them, weaving sometimes and ducking other times and standing completely still some other times.
+
+Like some sort of illusion, the flames all missed Celica entirely.
+
+The boss bit down on her lower lip in frustration. She was running out of time.
+
+[You must survive another 5 seconds.]
+
+Suddenly, the boss stopped, another magical circle forming on the ground. This time, she dropped her sword into it and out came a crimson, crystalline bow. She grabbed it as quick as she could before aiming straight at Celica.
+
+As she drew it, a strange misty silver light gathered around it. Anyone who had played half an RPG could tell that was the boss' strongest, final attack.
+
+[The boss has sacrificed everything to unleash this powerful attack, capable of instantly killing all players level 85 and below. You must survive another two seconds.]
+
+They always make these final bosses impossibly hard. The game really doesn't want to give out a legendary weapon this early.
+
+Celica turned vectoring away from the boss as fast as possible, right to the corner of the throne room. She was hoping to use some of the pillars as cover but...
+
+CRASH!
+
+The solitary crystal arrow pierced straight through all the pillars instantly, locking onto Celica's position immediately.
+
+[You must survive for another 1 second.]
+
+As if her life depended on it, Celica began running. She vectored erratically, hoping to slow down the arrow which was chasing her if only by a little. But no matter what she did, the gap between her and the arrow was only getting shorter.
+
+[Water Strike]
+
+She turned, sending a wave of water spiralling towards the empowered silver arrow. She animation cancelled the start-up animation and the end frames to keep running as fast as possible, but the arrow didn't even flinch.
+
+She ran up the flight of stairs towards the throne to see if perhaps elevation would change its traveling speed but it was to no avail. The arrow was locked onto her position, and it wouldn't stop unless it hit her.
+
+Then, at the most tense moment possible, a system notification rang out in Celica's ear.

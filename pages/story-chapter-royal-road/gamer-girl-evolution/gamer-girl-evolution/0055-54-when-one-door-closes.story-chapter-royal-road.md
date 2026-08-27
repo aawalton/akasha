@@ -1,0 +1,211 @@
+---
+id: 0660867e-ae76-5cfd-8733-b0f8148f4d5e
+page-type-slug: story-chapter-royal-road
+title: "54 - When One Door Closes..."
+slug: 0055-54-when-one-door-closes
+partOf: gamer-girl-evolution
+position: 55
+ownLength: 1584
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3248297/54-when-one-door-closes"
+royalRoadId: "3248297"
+---
+
+Well, at the very least, the fact they can't see my face proves that my cheap disguise item is working on them.
+
+The silence stretched.
+
+Celica didn't move right away.
+
+Not because she was hesitating—no, that would've been dangerous. She just needed half a second. Half a second to remind herself she'd already planned for this.
+
+Of course he'd ask. He was a Realm King after all... you don't obtain that status by letting suspicions sit idly.
+
+The King's gaze remained fixed on her, patient but sharp. The commanders were no different.
+
+Doran was steady and unyielding, Triton was still like a statue carved from the floor itself and Semmia's eyes were constantly flickering with barely-contained curiosity. Ulza leaned back in her chair, arms crossed, already expecting an interesting watch. Thorne simply stared with a neutral expression. Ophel hadn't moved at all.
+
+Celica exhaled once.
+
+Then she moved.
+
+She lifted her chin before she swiped her hood down in one swift motion.
+
+"There," she said calmly. "My face."
+
+For a moment, no one spoke.
+
+The King was the first to react—not with anger, or suspicion, but with a quiet, thoughtful hum. "I see. You certainly do appear to be Earthonian." he said at last.
+
+A simultaneous nod from the commanders affirmed that they agreed.
+
+"Turns out you're actually quite pretty. Is that why you choose to hide your face?" Ulza said, her mouth opening slightly.
+
+What's with that look of surprise, Celica thought to herself, but decided it was best not to be petty. "I do so for personal reasons. When I was younger, it made it easier to survive on my own. I would say it's become somewhat of a habit."
+
+King Sebius folded his hands atop the table. "You value your privacy, and yet you did not refuse me outright. That courtesy does not go unnoticed."
+
+He smiled then—small, measured, and unmistakably pleased. "You've satisfied both tradition and decorum. That is enough."
+
+Thank every system admin that exists, specifically the ones who choose the floor 2 rewards.
+
+She silently navigated to her inventory with practiced ease, looking at the reason she'd managed to bluff her way through the situation.
+
+There it was.
+
+***
+
+Inventory (Page One)
+
+Phantom's Mask (Unique)
+
+A mask that allows the wearer to take on the appearance of a single, self-created character. The identity can be entirely customised, but only one specific character can be assumed. You cannot mimic other players abilities, and the transformation is purely visual. Perfect for blending in, creating an alias, or hiding your true identity. The effect lasts until you unequip the mask.
+
+Phantom's Mask (Unique) {Duplicate}
+
+...
+
+Phantom's Blade (Unique)
+
+An equippable item that visually transforms a weapon into a similar weapon of your choice. The transformation retains the weapon’s original stats but alters its appearance and hitbox. The effect lasts until you unequip the blade.
+
+Phantom's Blade (Unique) {Duplicate}
+
+...
+
+Elixir of Gold (x3) (Super Rare) An elixir that, when consumed, boosts gold drop rate by 100% for one hour. Single-use.
+
+Elixir of Blessings (x3) (Super Rare) A rare elixir that increases item drop rate by 100% for one hour. Single-use.
+
+VIP Ticket for the Grand Eonian Colosseum (Unknown) A ticket granting exclusive access to the VIP seats in the Grand Eonian Colosseum, where the most elite players test their combat skills in the world's biggest public arena. Win battles to earn valuable rewards and prestige among other players, warriors and perhaps even commanders.
+
+Mirror of Replication (Unknown) {one-time use}
+
+Grants the user the ability to duplicate a unique-tier item or lower. This item will vanish upon its first usage. The duplicated item cannot be sold, traded or dismantled.
+
+***
+
+Two identical pairs of items sat side by side, the result of using a reward she'd obtained from being first on the second floor, the Mirror of Replication.
+
+Before she'd entered the castle, Celica had quietly used the item. Because the Phantom's Mask & Blade counted as a single item, she’d managed to get two items for the price of one duplicator.
+
+Then, she'd tested to see if she could create another persona with the second Phantom's Mask & Blade. Luckily, she could, and hence another character was born.
+
+Wisdom Hands, the beautiful Earthonian orphan and the newest great commander of Eonia, the Wise Commander.
+
+Good instincts, past me. I owe you one.
+
+The tension in the room didn't vanish, but it shifted.
+
+Celica remained still, her back straight and her hands folded loosely before her.
+
+Doran cleared his throat, making his thoughts on the matter clear. "I believe this matter has been settled."
+
+King Sebius nodded in agreement. "Indeed." His gaze shifted away from Celica. "We will proceed."
+
+Step one: don't get executed, completed successfully. Internally, Celica breathed a sigh of relief. Since there's something to proceed with, I guess interrogating me wasn't the only reason for this meeting.
+
+In a sudden motion, King Sebius rose from his seat. He promptly stepped away from the head of the table and, without warning, bowed. It was a genuine bow—head lowered, shoulders dipped and his posture unbefitting of royalty.
+
+The air froze.
+
+Doran was the first to react, his chair scraping back sharply as he stood. "Your Majesty—" His voice was firm yet alarmed. "Please, raise your head. We are not worthy of this."
+
+The other commanders followed suit almost instinctively. Triton rose in silence. Semmia's usual ease vanished, her expression sharpening. Even Ulza straightened, brows knitting together. Ophel and Thorne were already on their feet, faces unreadable but alert.
+
+Celica stayed seated.
+
+Not because she didn't understand the gravity—but because she did.
+
+A king doesn't bow unless something has gone very, very wrong.
+
+"I will not," King Sebius said quietly, still bowed, "until I have said what must be said."
+
+He lifted his head then, just enough to meet their eyes. "What occurred in the colosseum should never have happened. An Ancient Dragon Sovereign appearing within the capital—within a controlled demonstration, no less—is an unforgivable failure."
+
+The room remained silent.
+
+Doran clenched a fist at his side. "The fault does not lie with you alone, Your Majesty."
+
+"No," the King agreed. "But the responsibility does."
+
+He straightened fully, his gaze hardening. "The perpetrator has not yet been found. However, the nature of the monster tells me much. That creature was not summoned by chance. It was altered by something. Or perhaps by... someone."
+
+Semmia looked around the table. "You believe there was a collusion."
+
+"I do." The King's voice lowered. "With the Monster Realm."
+
+That earned visible reactions.
+
+Ulza let out a sharp sigh, before mumbling something under her breath that sounded a lot like, “That’s not funny.”
+
+King Sebius ignored her before continuing. "There are only two realistic possibilities."
+
+He raised a finger. "First: a great commander from another realm aided in the creation or transport of that monstrosity."
+
+Doran shook his head slowly. "Unlikely. No external commander could breach Earthonia's inner defences without leaving a trail."
+
+"Agreed," the King said. His finger lowered—and then two more rose again. "Second: a great commander of Earthonia was involved. Like... one of you."
+
+The other commanders' eyes darted around the room before finally settling once more on Celica. She didn't react on the outside, but internally—
+
+Seriously? Blaming me again? Is that the only conclusion you so called 'great' commanders can—
+
+Before she could even finish the thought, the King shook his head. "I do not believe it was Wisdom Hands," he said plainly. "Nor any of you seated here. I trust my commanders."
+
+The words were firm, but all of those that were present understood the underlying meaning. It wasn't an accusation but a reminder that they should all be wary of one another other.
+
+The King exhaled. "There is a third possibility."
+
+Thorne's eyes narrowed as Semmia stilled completely, clearly doing her best impression of Ophel.
+
+"The third possibility is that there was a Player involved. One who has not only established contact with the Monster Realm, but also one who has betrayed humanity as a whole."
+
+The reaction was immediate.
+
+Ulza shouted in protest. "Wait. That's actually possible?"
+
+Semmia frowned. "In most cases, no. Most Players don't have access to that kind of leverage. But if someone from the monster realm made contact with them first, then..."
+
+"It's possible." Triton rumbled.
+
+Celica kept still. She wasn't sure if it was a commander who was involved or if it really had been a player which helped create that monstrosity. Only a single person came to mind when she thought about the situation.
+
+Slimonius.
+
+For now though, she pushed the thought aside.
+
+The King turned toward Ophel and Thorne. "I want this investigated thoroughly. Follow every lead and speak to no one outside this room about this, unless necessary."
+
+Ophel inclined her head. "Understood."
+
+Thorne nodded once. "We'll find something."
+
+Just as the tension began to settle—a chime rang out.
+
+Celica flinched.
+
+No—she jumped.
+
+Her chair scraped loudly against the floor as she shot to her feet, movement sharp and entirely unplanned.
+
+Why now!?
+
+***
+
+[SYSTEM ANNOUNCEMENT]
+
+Player LunarShroud was the first to complete the third main quest in your Area!
+
+Player LunarShroud was the first to complete the third main quest in your Zone!
+
+Player LunarShroud was the first to complete the third main quest in the World!
+
+***
+
+Her heart sank straight through the floor.
+
+I missed it. I actually missed it.
+
+Collectively noticing her over the top reaction, one by one, everyone in the room turned to face Celica.

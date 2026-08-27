@@ -1,0 +1,245 @@
+---
+id: 363a2b89-c76f-5778-b443-e15c3ab44b0b
+page-type-slug: story-chapter-royal-road
+title: "Threads 108-Descent 10"
+slug: 0131-threads-108-descent-10
+partOf: forge-of-destiny
+position: 131
+ownLength: 4643
+unit: words
+publishedAt: 2021-07-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/717064/threads-108-descent-10"
+royalRoadId: "717064"
+---
+
+Ling Qi was a little surprised by the simplicity of the plan. Some part of her still expected grand and intricate gambits from a cultivator strategist, but she supposed it made sense. This wasn’t a heist or a burglary; this was smashing a shop's front window to test the response times of the guard, or a gang burning a stall to prove that yes, they were serious about the money.
+
+They stood amongst the thick fungal trees on the hill overlooking the fortress, which was situated several kilometers north and west of their entry point to the cavern.
+
+“Are you ready for this?” Ling Qi asked Su Ling as a single silver wisp drifted out to the edge of the forest.
+
+“As ready as I am for anything involving you,” Su Ling retorted dryly.
+
+“You can’t blame me for this one. I was following you,” Ling Qi joked back. “Seriously though, Su Ling, do you think you’re ready?”
+
+Su Ling grimaced, her ears lying flat against the sides of her head. “Nah, but it’s not like I have the hard part. Me and Flowers just gotta protect the beacon and make sure the rest of you can bug out.”
+
+“Not really the point, but I get it,” Ling Qi murmured, glancing toward Bian Ya, who stood a short distance away, crouched in front of her spirit beast. They seemed to be having a private conversation. “I trust you to have my back.”
+
+“I guess I trust you to have my front, crazy girl,” Su Ling said huffily. “Besides, we have that Xuan guy. He’s some kinda ducal boy like the snake princess, right?”
+
+“This one will endeavor to match the praise of Sister Su.” Xuan Shi kneeled a few meters away, examining the scores of ceramic plates which Ling Qi knew to be a potent defensive formation. “It is the pride of Xuan that the land itself shall break ere we will.”
+
+“Let’s hope we don’t have to test that down here under a few million tonnes of rock,” Ling Qi said. “We’ll be relying on all of you though. It’s only a matter of time till we’re going to have to retreat.”
+
+Xuan Shi dipped his head. “This one will see to his duty. Miss Ling may rely upon that.”
+
+“Indeed,” Bian Ya said, brushing dirt from her gown as she straightened up. “Ling Qi, you are being called to the front.”
+
+Ling Qi dipped her head in acknowledgement. “Good luck, everyone.”
+
+As the others reciprocated her farewell, she turned and faded into the shadow of the trees, heading for the edge of the forest.
+
+Ling Qi could already see her destination. Their position lay at the bottom of a valley whereas the fortress occupied a hilltop. Built from blocks of white bone, the thing bristled like the shell of an insect. Five pointed towers rose, equidistant from one another, joining sturdy walls whose upper reaches were marked by angular spikes. The central structure was a stepped pyramid of black stone marked by luminescent and foreign carvings.
+
+<Do you understand the plan, Zhengui?> Ling Qi thought as she flitted forward.
+
+<Zhengui understands. Together with Big Sister and Hanyi, we are going to put on a very loud show!>
+
+Ling Qi chuckled to herself. Good enough. After Guan Zhi broke a hole in their defenses with the initial assault, she and Liao Zhu were to move into the breach and begin laying about while avoiding stealthier tactics. Ji Rong was paired with her to assist with enemies who proved too tough for her to run over or who would otherwise impede her general havoc-raising, attention-gathering role.
+
+It was a little ironic that he was acting as her support.
+
+<And you, Hanyi? I know this wasn’t the sort of stage you had in mind,> Ling Qi thought.
+
+<This is this, and that is that. I can’t wait to do a proper duet with Sis!> Hanyi boasted.
+
+Guan Zhi would have to pace herself due to the cost of using fourth realm techniques down here, saving her strength for the inevitable reinforcements.
+
+<Sixiang?> Ling Qi thought as she approached the wood’s end.
+
+<I’ve got this. Just worry about yourself,> Sixiang replied.
+
+She arrived at the forest's edge a moment later, landing in a crouch beside Guan Zhi. “Reporting in,” she said evenly as she stood up.
+
+“Very good. Our retreat route is plotted?” Guan Zhi asked.
+
+“The route is plotted out,” Ling Qi agreed. She had already shared the map with Bian Ya, who would be guiding the retreat.
+
+“Finally. Time to actually do something,” Ji Rong said, grinning as he looked down the hill.
+
+Liao Zhu, crouched on a branch, was not so crude in his expression, but there was a visible tension in his shoulders.
+
+Her commander merely nodded, standing with her arms behind her back. “Get to your positions then. I am not my uncle. It would be unwise to be near while I unleash my power.”
+
+Ling Qi joined the others in acknowledging her words. She leaped away from the little clearing, flitting through the tall grass where the very last of the fungal trees grew.
+
+But she couldn’t help but keep an eye behind her where she could feel the gathering of power.
+
+Guan Zhi, standing in the knee-high grass, exhaled and rotated her arms, bringing her hands together in front of her chest, elbows pointed out. The air vibrated. The valley shook. In a circle two meters around her feet, grass flattened as if crushed by an immense weight. The fungal trees shook and bowed, branches ripped down to be crushed into the flattened dirt. Then the circle widened.
+
+Four meters.
+
+Tree trunks groaned and strained and screamed and shattered to splinters.
+
+Eight meters.
+
+Dust and wood shards failed to fall to earth, pulled irresistibly toward Guan Zhi, an orbiting sphere of debris. The air shimmered, and Ling Qi could feel what little light there was distorting.
+
+Sixteen meters.
+
+Naught stood higher than her feet in the whole of the circle, and Guan Zhi’s hand darkened to the color of blackened bronze, snapped out, catching a stone from the cloud of debris.
+
+Thirty-two meters.
+
+Only a handful of seconds had passed. Cries of alarm were beginning to rise from the fortress, and Ling Qi could hear the faint sizzle of impurity burning flesh from within the warped and darkening cloud.
+
+Sixty-four meters.
+
+As Ling Qi completed the arc of her leap and landed atop a still standing tree, she saw the blurry form of Guan Zhi move, cocking her arm back, and then a boom of thunder as a projectile whizzed out. Ling Qi tightened her hands upon the branch as the wind screamed and her perch rocked in the passage of the missile.
+
+Ling Qi was just barely able to see it, the ragged stone Commander Guan had thrown. When Guan Zhi had snatched it, the stone had been the size of a fist; now, it was a perfect sphere the size of a marble, and air and light alike warped around it.
+
+The stone struck the tower with an echoing boom. Ling Qi shielded her eyes from dust, and the noise of crumbling masonry rang out, washing over her as the sphere of warped light expanded a dozen times over. Blocks of bone, enhanced by the shishigui’s foreign formations, crumbled to powder, ripped inward toward the center of the distorted, smoky gray sphere two score meters wide that expanded outward from the point of impact.
+
+Ling Qi could feel the screams from within the vanishing tower, even if the actual sound was unable to escape the circle. It lasted only a second, and when it vanished, a compressed sphere of dust and stone the size of her head dropped to the ground, oozing pinkish froth, leaving a perfect spherical scoop missing from the tower. At the edges of the scoop, severed formations sparked and spat, and the air trembled with the fluctuations of the destabilized array.
+
+Inside, Ling Qi saw a scene of confusion and alarm. Shishigui who had been patrolling the walls had fallen back on the floor and stared, those inside the tower gaped at the hole in their defenses, and the many individuals in the courtyard were scrambling to respond.
+
+Ling Qi leaped from her perch.
+
+Zhengui landed in the courtyard with a ground shaking boom.
+
+Balanced on her toes at the highest point of his shell, Ling Qi raised her flute to her lips as The Mist rolled forth from the singing blade which circled overhead. Standing on a lower spike, Hanyi laughed and raised her hands and her voice in the Spring’s End Aria.
+
+Ling Qi joined her, and together, they brought winter to the underworld. Frost spread across stone and flesh alike as the temperature dropped, and in The Mist, frost coalesced into haunting skeletal shadows whose raspy voices joined the song, even as frozen claws tore into rubbery grey flesh.
+
+Below her, Gui bellowed, and the frozen earth cracked as tendrils and roots reached up to spear unready foes. The roots continued to spiral and climb up crumbling bone walls to stab and grab at enemies in the broken halls. Above, smoke rose from Zhen’s maw as he snapped down lightning fast, sinking his fangs into a squealing shishigui and flung it away, flames leaping from its wounds.
+
+Yet her enemies were not overwhelmed. In the handful of seconds after she had appeared, the wide open and chaotic courtyard saw order already forming, drill sergeants and officers howling and yipping for their comrades.
+
+To her left was something like a kennel where shishigui stood gaping as dozens of rat beasts cowered and yowled in confusion. A single shishigui almost twice as tall as the others and clad in heavy chitin armor let out a bellowing bark which silenced the yowling, and before Ling Qi’s eyes, the chaotic mass began to fall into order as lesser herders joined in, their qi propagating through the pack and each other.
+
+To her right was a short, twisting tower which looked like a carven waterspout. Two of the dancing assassins stood at the entrance, already recovering their poise.
+
+And in the center was the pyramid keep from which she could sense many gathering auras.
+
+Just a short distance away, a squad of the creatures armed with slings seemed to be forming up, preparing to barrage her, guided by a pair of low third realm officers.
+
+Then Liao Zhu landed in their center, and his arms blurred. Weeping red wounds opened across one of the third realm officer’s throat, wrists, and inner thighs, and the creature let out a strangled scream as he collapsed, gushing blood from his everything. The creature's companion struck out, and his spear slashed through Liao Zhu’s mask only for his form to blur. Then, there were two Liao Zhu, arms blurring and flashing as his knives butchered the squad like animals being carved up for market. His twin forms strode untouched through them like a whirlwind of steel and death, heading for the entrance of the pyramid.
+
+Even as Zhengui took his first stomping steps forward and Ling Qi prepared to lash her still gathering foes with ice and death, the air surged with the crackle of lightning, and the shishigui nearest to her screamed as jagged bolts of white light exploded among them, charring flesh to ash. Ji Rong arrived at her side, his hair spiked and sparking with crawling arcs of static.
+
+Taking in the scene, Ling Qi prepared herself to move toward the kennel.
+
+Silently, she conveyed her intentions to Zhengui, and he turned, his ponderous steps carrying her to the left of the breach where the tall shishigui rallied his beasts. Unlike the cone structure of the central fort, the kennel was a dome of black, glassy stone surrounded by a fenced-off yard.
+
+The brutish Houndmaster was different from his kin in many ways. He was taller, taller than even the thin and lanky dancers, taller than Ling Qi, and taller than even the Duchess had been, and his posture was less hunched, causing him to tower over two meters in height. His frame bulged with muscle, but there was something ugly about it, a subtle and repellant wrongness to the creature’s proportions, and when his limbs flexed to raise his strange two-pronged polearm, black ooze dripped from open tears in his skin under which exposed muscle flexed. His helm was a strange lumpy thing made of some kind of grey-blue metal rather than chitin or stone like so many of the other shishigui, though the rest of his garb was hardened leather and chitin.
+
+From across the field, Ling Qi met his eyeless gaze as Zhengui stomped across the hard-packed field, growing roots proceeding and clearing his path of straggling soldiers caught out of position. Wraiths continued to coalesce from the mist which poured from the singing sword circling her head, and their icy claws began to tear at his hounds and soldiers alike.
+
+The Houndmaster let out a deep bark, and in the back of her mind, Liao Zhu’s ring translated. “Retain order! Rally!” he roared, and power poured forth, meeting The Mist and clashing.
+
+Sharp-edged symbols flickered in the corners of her vision, and an invisible banner unfurled at his back, a twisting sigil composed of mingling lines of heat and cold. Ling Qi felt the flare of energies across piercings throughout the brute’s body, visible and not. Were those his domain weapon then?
+
+His hounds barked and bayed and yipped in response, and her wraiths’ talons failed to find purchase on their hides.
+
+Ling Qi turned her eyes from him, her gaze falling upon a smaller but still armored shishigui standing to his right, a node in the network of power that was beginning to form among hounds and their masters alike. She played a song of winter and endings, and the soldier screamed as the caress of hoarfrost entered his veins, turning blood to ice and rupturing his flesh. Around him, the rat hounds writhed and yowled under the echoes, patches of flesh and bristly fur freezing and shattering as they died. At her side, a young girl’s laughter and song rang out, and beasts threw themselves toward Hanyi in desperate adulation only to be captured by snaring roots and biting fangs.
+
+The Houndmaster bounded forth, his canine maw open in a bark of challenge, but only a shimmer of green in the folds of her gown showed her attention to the threat. Dueling wasn’t her goal here.
+
+His bounding leap was met by a crackling comet. Ji Rong roared his own challenge back as he leapt up in a shower of cracked stone and dirt, crackling sheets of lightning pouring off of billowing sleeves, and his fist met the creature’s polearm with a muffled boom. Around Ji Rong’s shoulders, light bloomed, and golden discs, nine of them, materialized, arranged in a circle behind his back and connected by a snapping ring of heavenly power. As the two combatants exchanged a flurry of blows midair, the black enameled lotus petals engraved on the topmost disc’s flat side flared with azure light.
+
+From behind her, Ling Qi felt the hostility of creatures in the drillyard, but before she could even articulate the thought, Zhengui stamped his feet on the ground and huge roots and trunks erupted. Pale green as new saplings, they twined together, erupting in a curving line across the fortress yard to split the kennels from the main area, cutting off a bare few dozen shishigui soldiers from those gathering in the drill yard.
+
+Ling Qi swayed through the barrage of slingstones and javelins that rose from those remnants, only a few coming close enough to scatter verdant sparks from her Hundred Ring Armament. But as she wove the chorus of her melody again, preparing to scour the kennels, Ling Qi could not help but worry.
+
+Her qi was not recovering. She could feel Zhengui’s energies recovering, if sluggishly, but her own breathing techniques and the Ten Ring Defense were failing to draw in and convert excess battle qi back into her own.
+
+Once more, her song rang out, but this time, her target didn’t die. The icy qi that swirled around him whirled and screamed, condensing inward only to scatter on contact. Her technique shattered into fragments that peppered all of the hounds and their masters alike like a light flurry rather than a screaming blizzard.
+
+She saw out of the corner of her eye that the brute was grimacing with effort as he wove through Ji Ring’s fists, blocking and parrying with his two-pronged spear and weathering the lightning that poured out of Ji Rong. Ji Rong’s bolts were scattering into useless sparks across the Houndmaster’s armor. It was the same effect, distributing the force of their attacks across the whole group, and thus, rendering them nigh useless.
+
+No, that wasn’t quite right…
+
+<It’s just the spiritual and energy effects,> Sixiang realized in her head, and the thought was confirmed a moment later as Zhen snapped a leaping hound out of the air and flung it away.
+
+Wisps of light whirled around her, and Ling Qi’s eyes flashed silver as she studied the flows of energy webbing their way across the battlefield. Hoarfrost Caress wasn’t the best choice then; she was going to need a bit more power to make it work.
+
+But her enemies weren’t just sitting still.
+
+The mass of hounds were no longer a disorganized mob. They were forming up into packs, each led by a houndmaster, ranging from a few dozen individuals down to groups of five or so, and beginning to scatter. Those of lesser cultivation broke from the main mass to circle around her and Zhengui like hunting wolves, their high-pitched yipping echoing and beginning to reverberate, the cacophony eating away at her concentration and making it harder to focus. Others dove into the ground, burrowing into the earth like worms. At the center of their formation, a dozen much larger and brawnier hounds loped forward, a houndmaster riding on the largest specimen’s back, and as he raised his spear, they opened their jaws in unison and screamed.
+
+Zhengui planted his feet as earth and stone rippled under the physical force of the noise, and at her side, Hanyi let out a cry of pain, clapping her hands over her ears. Ling Qi merely grimaced, the shroud of her Deepwood Vitality over them both shattering under the concerted assault. She felt a single drop of blood trickle from her nose.
+
+That had hurt, but the shishigui would have to do better than that. Green light flared as she restored the armor broken under the assault.
+
+<Zhengui, stay at my back,> Ling Qi thought tersely.
+
+As soon as the thought was complete, she leaped down from his shell, landing a few meters ahead. As she landed, she spun, her gown flaring outward as she began to dance. All around her in The Mist, phantom dancers emerged from skeletal wraiths, frost and rime transforming into glittering finery and grinning skulls transformed into coldly mocking faces.
+
+Many of the shishigui let out barks and yips of terrified panic as phantom dancers seized them and whirled them away from their comrades, disrupting nearly their formations and packs. Of her targets, only the spear-wielding rider of the larger hounds resisted the festival’s grasp as the spinning haft of his spear disrupted Ling Qi’s attempt, smiting the phantoms back into drifting mist.
+
+However, there were still scores of enemies, and as with the barbarians she had encountered in her last sect mission, it seemed to actually matter. Hounds leapt at her wildly as they burst from the ground, clawing and biting; glowing stones flung at her from slings exploded into noxious gases and goo.
+
+Ling Qi wove through them all, but it was a closer thing than she liked. She could not simply ignore her weaker foes given the weaves of qi empowering claw and fang and stone.
+
+But she wasn’t fighting alone.
+
+Roots erupted from the ground around her like a circle of spears, driving enemies back and giving her room to breathe, and snapping fangs caught leaping hounds midair and flung them away, burning. Hanyi’s voice rang out through the cold laughter and noise of the revel, and her phantoms clapped in adoration as hounds flung themselves at her with worshipful yips. Some died on Zhengui’s roots, some burned on his volcanic shell, and others, Hanyi caught in her arms, grinning brightly as she inhaled their warmth and vitality before dropping the broken corpses behind her like withered leaves.
+
+Ling Qi spotted Ji Rong driving his fist into the Houndmaster’s jaw, snapping the creature's head upward and scattering broken chips of his enemy’s helm. His spirit’s jaw’s were clamped around the Houndmaster’s spear, yanking it aside to allow the blow through. Thunder boomed, and a jagged bolt of lightning half a meter wide slammed down on them both, sending up an explosion of dust and debris. On his back, a second and a third lotus bloomed with azure light.
+
+It really was chaos all around. Through a wisp, she saw rapidly organizing shishigui pounding on Zhengui’s wall. Their spears and claws did little against the growth, but she saw axes being expressed, and strange objects like large bellows were being hauled out by officers to spray clouds of noxious gas that left wood withered and black. The dancers were nowhere to be seen.
+
+The fortress’ wall continued to shake and crumble as Guan Zhi pelted it from outside. Stone rumbled as a tower collapsed, and a pack of hounds and their shishigui leader screamed as a blackened stone ricocheted off a piece of broken masonry and consumed both them and the ground they stood upon in a sphere of misty black.
+
+But all this was happening on the periphery. Ling Qi spun and danced through the revel. All around her, the laughing moon fairies snatched at shishigui squad leaders, dragging them in to dance, while their billowing robes and caressing hands drew blood as if from a sharp wind. Ling Qi grimaced as a horrible scream ripped through the air, making her steps falter just a moment as her head pounded. Her distraction cost her, and a ceramic sphere shattered against her chest, a wave of noxious sludge splattering over her that burned and itched even through her gown.
+
+Her eyes narrowed as she glared at the leader of the largest pack, a third realm, if weaker than her. He and his hounds were troublesome. <Sixiang?>
+
+<Ready when you are!> the muse confirmed in her head.
+
+<Good. Zhengui, be ready the second I give the signal,> Ling Qi thought.
+
+“Yes, Big Sister!” he cried, and she was already moving.
+
+She spun to the side, ducked under a leaping hound, and vanished into the shadow of a digger’s tunnel before appearing directly before her vexing foe. He jerked back as she rematerialized in midair before him, and Sixiang’s chaotic qi roiled out, disrupting the technique shielding him from direct harm. The revelers roared their approval, and from Ling Qi’s flute came the Hoarfrost Refrain.
+
+Stripped of his protection against a technique bolstered by her revel, the shishigui lieutenant let out a scream as his flesh split open and veins burst from freezing blood. Around him, his hounds howled in pain as they, too, were lashed by ice.
+
+More importantly, as he fell, combined with the other leaders seized and drained by her revelers, a significant part of the gathering power among them collapsed.
+
+Zhengui let out a bellow, and the earth bellowed with him. All around her, liquid magma geysered from the ground, scouring flesh, boiling blood, and consuming unprotected hounds.
+
+It was not all of them. Many held on, shielding themselves and their charges with techniques too numerous to name, protected by the blurring heat sigil of the Houndmaster still fighting Ji Rong, but it was a strong blow all the same. All but the hardiest hounds had been slain.
+
+“Ling Qi! Watch out!” Sixiang shouted, and Ling Qi bent backward without thinking as a glittering green knife hissed through the air where her neck had been, clasped by a too familiar, thin-fingered hand.
+
+There was a crash, and Zhengui cried out as a blazing meteor struck his side, revealing Ji Rong, rising from his knees, bloodied and wounded, and cradling his spirit beast in his arms. His foe stood from the crumbling rubble of the kennel, badly burnt but unbowed.
+
+And behind them, there was a splintering crack as Zhengui’s Paradise Rampart collapsed under its own weight, rotted from the inside. The shishigui behind the rampart let out a full-throated roar of triumph as they poured through, an advancing line of spearmen shielded by a thick miasma of impure qi.
+
+Near the entrance to the fort, Liao Zhu spun and slashed blindingly fast, dueling four third realms of worrying potency.
+
+However, before Ling Qi could so much as reorient herself, the cresting tip of the charging enemy formation crumpled. Across their line, a smear of red bloomed. To Ling Qi’s eye, it was as if some divine painter had dragged a red brush across the world. Flesh, bone, and armor alike liquified in a line a quarter meter wide, and enemies tumbled to the ground in severed chunks.
+
+The cause was only made clear a beat later as the blur across her vision resolved into Commander Guan Zhi, her raised leg coming back to rest on the ground. The young woman was an ominous sight. Around her, the qi of light and air bent and warped, making her look as if she were carved from black stone. Rocks and soil and droplets of blood alike floated around her, torn between the pull of her power and the pull of the earth.
+
+Before the stumbling shishigui line could so much as buckle, the dancer beside her let out an ecstatic cry, and Ling Qi’s gaze snapped upward toward the feeling of power that erupted. There, crouched atop the pinnacle of the fort, was a silhouette much like the vile priest she had spied at the river’s source, an emaciated figure cloaked in liquid rot with lines of thin nails driven into her skull. Gleaming piercings festooned the creature's body, rods of bright steel that had been driven through the gaps between bones and weaved between emaciated ribs. The nails buried in the creature's skull where eyes should have been flashed with vile green light, and Ling Qi felt her stomach turn as the world warped.
+
+Pain.
+
+She felt her arm snap as the man brought his boot down.
+
+She sobbed in an alley as hunger clawed at her stomach and cold clawed at her flesh.
+
+Sun Liling’s spear tore through her stomach.
+
+The foul man reached for her with sweaty fingers.
+
+He watched helplessly as Big Sister fought and he cowered, tiny and afraid. She watched her mother die, scattering into the snowstorm. He snarled in defiance as the screaming noble's knee struck him in the stomach again, holding tight even as the burning roof collapsed. He despaired in his hiding place as Father and Mother died under the hunter’s spears. She / he / they squealed in pain as the monster apes from the surface crushed/broke/burned them.
+
+HungerfearpainlossdeathagonytormentpainpainpainPAIN.
+
+Then the world warped again, and Ling Qi had to hold in a sob of relief as the crushing overload on her senses lifted. She saw Guan Zhi standing before them, her fist outstretched, glaring up at the fourth realm on the roof. Ling Qi could almost imagine that she saw the scattering ashes of a thousand memories twisting away in the air from the commander’s knuckles.Bian Ya’s voice sounded in her ears. “Begin the retreat now.”

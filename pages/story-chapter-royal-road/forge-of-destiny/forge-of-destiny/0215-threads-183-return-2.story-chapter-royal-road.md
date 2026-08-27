@@ -1,0 +1,161 @@
+---
+id: fa088f77-4869-550c-8af6-25d198610177
+page-type-slug: story-chapter-royal-road
+title: "Threads 183-Return 2"
+slug: 0215-threads-183-return-2
+partOf: forge-of-destiny
+position: 215
+ownLength: 2481
+unit: words
+publishedAt: 2022-02-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/840969/threads-183-return-2"
+royalRoadId: "840969"
+---
+
+… And you would not believe how unbearably crass the man is! I understand that the Zheng have different ways, but there should be a limit. But leaving that uncouth cad aside, the rest of the journey through the borderlands and into the Golden Fields proper went well. I must admit, seeing the spires of Phoenix Home rising over the horizon brought a moment of weakness. I understand that you hold no special feeling toward your city of birth, so it must seem quite foolish to you, but… it was as if a year’s worth of homesickness struck me at once. Phoenix Home is a marvel of craft and beauty, and I should like you to see it someday.
+
+I suppose it is unlikely that you will find yourself with the time in the near future though, so perhaps I might commission a small painting for you. I haven’t forgotten that I owe you a gift. Don’t you dare tell me that I do not!
+
+As for how matters proceeded once I reached home, it was,better than I could have expected. Father has promised to train me further in the Gu arts that I may sooner heal some of my wounds. Mother is displeased with us, but it is my hope that she will calm herself in time. I do have to admit some small trepidation though. While I am certain of my lethality as a warrior, I am not so certain of myself as a soldier and leader. Father seems confident in me, and I do not wish to disappoint him.
+
+Despite that, I can only describe the feeling of receiving so much attention from my father to be satisfying...
+
+Ling Qi looked up as she heard footsteps approaching her seat on the fence surrounding the training yard. The small novel worth of pages which had sprung from the envelope containing Xiulan’s letter was balanced on her knee. All around her was the sound of laughter, combat, and carousing. The group she had helped Wang Chao put together hadn’t flagged in her absence.
+
+She turned her gaze to the one who had interrupted her, and the short brunette immediately made a small squeaking sound and bowed her head. “My apologies for interrupting your correspondence, Miss Ling.”
+
+“It’s no trouble…” Ling Qi paused a second, searching her mind for the girl's name.
+
+<Nie Ai,> Sixiang murmured.
+
+“Nie Ai,” Ling Qi finished, keeping her pause minimal.
+
+It was actually a little uncomfortable how pleased the girl looked to have her name remembered.
+
+“I should probably read this at home. My friend has given me quite a lot to read,” Ling Qisaid with a smile, carefully restacking the papers. She returned them to their too small envelope and dismissed it to storage. “Did you need something?”
+
+“Ah, Sir Wang had asked for you to come to the entrance,” Nie Ai said, keeping her eyes lowered.
+
+Ling Qi frowned, turning toward the narrow channel road that made up the entrance of the valley they had taken for their gathering. There was a bit too much “noise” in the air to readily read presences so far away. She could send a wisp, but that might be rude. “Lead the way then.”
+
+The girl bowed again as Ling Qi hopped down from the fence, idly nodding her head toward those who acknowledged her presence. The story of their trip and what Cai Renxiang had asked her mother for had not yet become fully public knowledge, although those with an ear to the court like Bian Ya were aware (before Ling Qi had just straight up told her), but it was still seeping into the pool of public rumor. All they knew was that Ling Qi and Cai Renxiang had succeeded at an important mission in foreign lands.
+
+“Nie Ai, how have things been at the Sect?” Ling Qi asked as they passed a ring where two young men were having a contest of strength with Zhengui. It was a game where teams of disciples would try to move him in exchange for small prizes. The crackling of thunder and crumbling stone joined human grunts of effort and calls of encouragement. “I don’t mean out in the war effort, but here,” she clarified.
+
+The other girl plucked at her sleeves nervously. “It has been tense. Everyone is being rotated on and off duty, and the recent break in advancement has cheered everyone. More of the outer province students have left though. Ranks 993 and down are currently empty.”
+
+This meant the Sect hadn’t managed to promote new blood from the military yet. She supposed everyone must be focused on the logistics of the war.
+
+“How is Elder Jiao doing? I’ve heard that the other wounded are awake again, but I hadn’t heard of him.”
+
+“Elder Jiao?” Nie Ai asked, furrowing her brow. “Um, I believe he was focusing on the Sect’s defenses against the underground. I think I heard a rumor that he and the Sect Head had a disagreement over something though…”
+
+Ling Qi gave her a questioning look, and the girl ducked her head low. “I’m sorry. I don’t know more than that.”
+
+<I wonder if I should pester auntie,> Sixiang mused.
+
+<I don’t think we should put our noses into elder business,> Ling Qi sent back.
+
+Out loud, she said, “Don’t worry, Miss Nie. It was just an idle curiosity.”
+
+The girl nodded, seeming relieved as they passed the pavilion, and she saw Wang Chao standing by the gate, his brow furrowed and his arms crossed. He looked both worried and contemplative.
+
+Ling Qi’s thoughts drifted back to what she had been contemplating before Xiulan’s letter arrived. Word had not yet spread far outside of the court, but should she mention what was happening to Wang Chao? While he was probably not going to be much help himself, she wondered if she could ask him to put her in contact with relatives who could be.
+
+There was a certain wisdom to giving more clans buy-ins to their project, but doing so would make things more complicated as well, giving them more interests to cater to. Cai Renxiang had given her latitude on the matter while Renxiang was focused on studying up on the names in the advisor pool that was already being filled with her mother’s recommendations.
+
+“Sir Wang, what is troubling you so?” Ling Qi asked, leaving Nie Ai behind as she approached her fellow event organizer. In the end, holding back was silly. She didn’t gain anything by leaving him out of the loop.
+
+“Oh, Miss Ling! Thank you for coming quickly,” Wang Chao said, looking up and blinking owlishly. He must have been deep in thought. “I’ve just received some requests to attend our gatherings that I want your input on.”
+
+Ling Qi cocked her head to the side curiously. “Really?”
+
+“Yes, yes, I know we agreed that we could be sparing about invitations,” Wang Chao said. “But it isn’t just some run-of-the-mill disciples asking here.”
+
+“Who is it then?” Ling Qi asked, feeling the rumbling of the earth in her ears. She extended her own qi, cloaking their words in figments of inane small talk.
+
+“It’s that Luo,” Wang Chao grunted. “It’s true that we’ve got a handsome number of his folk here, but I doubt it's just benign interest. I can’t fathom what he’s up to, but I know that man is a plotter!”
+
+Ling Qi pursed her lips. Luo Zhong had not left her with the best of impressions, though she didn’t think he was malicious. “I’m unsure as well. It is possible that it’s a goodwill exercise. If he just wanted to spy for some reason, it would be easy enough to ask one of his people who already attend.”
+
+“Well, of course, and it’s not as if we’re up to any skullduggery here, just good, honest exercise,” Wang Chao grumbled. “Luo Zhong isn’t the type for that sort of thing though.”
+
+“Perhaps not,” Ling Qi admitted. “It’s more likely that it has something to do with me.”
+
+He gave her an uncomprehending look.
+
+“I spend most of my public time here. It’s the most reasonable place to contact me without it seeming like untoward stalking,” Ling Qi pointed out. “My recent business was quite high profile.”
+
+“Oh, right, your trip,” Wang Chao realized. He seemed dissatisfied with her answer, and Ling Qi had to hold back a sigh.
+
+“Naturally, he wouldn’t want you to gain too much advantage from our friendship,” Ling Qi said.
+
+He blinked, and his brewing frown cleared up, becoming a grin. “Aha, of course! Yes, that cunning hound. Trying to use me to get back to you after he was too boorish to keep your company. Why, I have half a mind to refuse him now!”
+
+<Is it wrong that I think this guy is weirdly cute?> Sixiang mused. <But I also feel kinda sorry for him.>
+
+Ling Qi didn’t acknowledge Sixiang’s thoughts. “I don’t think a delay in answering is unreasonable. You don’t want to appear too high-handed either.”
+
+“Mm, you’re right,” Wang Chao said, rubbing his chin. He squinted up at her. “Are you comfortable with his coming? If he wants to question you, he could make himself a nuisance.”
+
+And there, Ling Qi supposed, was the reason that she did not mind Wang Chao despite his flaws. He had a good heart. “I can handle myself,” she assured him.
+
+“Right, right, no offense meant, Miss Ling,” he said. “That does bring up the second request. Lady Bai asked if it would be alright for her to attend from time to time. Why did she not just ask you?”
+
+“At a guess, I’d say she was trying to be proper. You are the higher ranking one here, even if I am her friend,” Ling Qi said. She was a little mystified that Meizhen would bother, but her friend was becoming more outgoing.
+
+“Of course. Whatever you can say about the Bai, they abide by propriety in their way,” Wang Chao said. “Do you… think it is safe? The Bai are not known to be friendly, even in the sparring ring.”
+
+Although it annoyed her to hear her friend stereotyped, she had to admit that there was a kernel of truth in that. “I can speak with her. Bai Meizhen has spent enough time in the Emerald Seas to learn our etiquette. She is my friend, so I’m sure she’ll be most interested in testing my skills.”
+
+Wang Chao nodded in understanding. “You are a brave one, Miss Ling.”
+
+“You are too kind,” Ling Qi said dismissively. “Was that all that troubled you?”
+
+“Yes, and I’m glad you helped me clear my mind,” Wang Chao chuffed. “How about we attend the pavilion, get a drink, and then we can have a spar? I have a new technique that I perfected against the barbarians.”
+
+“Certainly,” Ling Qi agreed politely. “Although, Sir Wang, have I had the chance to tell you about my trip?”
+
+“No, I don’t think you have,” Wang Chao said amiably as they began to head to the pavilion. “Something about descending the frozen pit beyond the Wall?”
+
+“It was a little more eventful than that.” Ling Qi let their words spill out into public once more. “The exciting part begins in an odd valley deep in the middle of the Wall…”
+
+By the time she was done telling the story, she had attracted quite a gaggle of listeners over by the refreshment table. It was kind of fulfilling, feeling the admiration of the crowd for her storytelling.
+
+<Nothing like an appreciative audience to make you feel good,> Sixiang agreed.
+
+“That’s certainly an adventure!” Wang Chao said as she finished, and the crowd broke up into gossiping cliques. “Pah, to think there was one of those traitors out there lurking about. Even if he was a corpse, it’s good that you took care of it!”
+
+Ling Qi laughed. “Well, that was hardly the most important part.”
+
+“Mm, yes, these White Sky… You are certain they are what they claim? It’s not unknown for tribes to puff themselves up,” Wang Chao warned, crossing his arms.
+
+“There were too many signs of more advanced living,” Ling Qi said. “Even if they exaggerate a little, they’re definitely not just another cloud tribe.”
+
+“Fair enough,” Wang Chao said. “You do hear some things from the north now and then, so it isn’t impossible. Be careful though, Miss Ling. You can’t let yourself be tricked by foreigners.”
+
+“Lady Cai and I will be most careful,” Ling Qi said. “Actually, I had been meaning to ask you. Do you think you could put me into contact with those in the Wang clan that might be able to help with the project? The Duchess is giving my lady some advisors, but you know how Her Grace is.”
+
+Wang looked thoughtful, resting his chin in his hand. “Hm, hm, Her Grace does prefer self-sufficiency. If you intend to settle in the mountains, then the Wang would be a good ally to have! Do you know where your land would be?”
+
+“Close to the meeting point to be built in the valley, no doubt,” Ling Qi replied. “If I had to guess…”
+
+“You’ll be given some of the land the Sect has taken,” Wang Chao said. “Their charter means they cannot expand without the permission of the Empress and the Duchess, so the conquered lands go to the Cai. It seems we will be neighbors, Miss Ling!”
+
+Ling Qi blinked as he pre-empted her. It seemed Wang Chao was familiar with the legalities. Cai Renxiang had determined the same thing. The new lands were Cai by default and had no one to administer them. Putting them in the region was the obvious solution.
+
+“Perhaps, Sir Wang, though it would be more accurate to say Lady Cai will be your neighbor. But, my question…”
+
+“Oh, right!” he exclaimed, pounding a fist into his palm. “I don’t mind at all writing a letter to my father and siblings. Some might think you’re a little too radical, but you’ve given me some confidence in Lady Cai. I will definitely convey that to my family!”
+
+“Thank you very much, Sir Wang. I appreciate it a great deal.”
+
+“Although, Miss Ling,” he began thoughtfully.
+
+“Yes?”
+
+“Do you think you might speak with Lady Cai on my behalf?” Wang Chao requested. “Praise from the heiress for my progress would go far toward letting me get Father’s attention.”
+
+“I think that can be arranged. Lady Cai trusts my judgement,” Ling Qi agreed. “Why don’t you tell me of your own feats while we head out to the sparring yard?”
+
+Wang Chao grinned broadly as they made their way out of the pavilion. “Ha! Well, I was at the head of the third roadworks company, overseeing the construction of a bridge, when the nomads came for us…”

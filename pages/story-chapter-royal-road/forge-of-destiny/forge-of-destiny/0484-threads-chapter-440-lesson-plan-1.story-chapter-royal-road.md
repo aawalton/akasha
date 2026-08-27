@@ -1,0 +1,127 @@
+---
+id: 67896662-0de7-544c-a222-ca1d88179da1
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 440-Lesson Plan 1"
+slug: 0484-threads-chapter-440-lesson-plan-1
+partOf: forge-of-destiny
+position: 484
+ownLength: 1768
+unit: words
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2164772/threads-chapter-440-lesson-plan-1"
+royalRoadId: "2164772"
+---
+
+The pleasant cool of the manor was a comfort after dealing with the fires. While she could keep herself cool at all times and places with a mere cycling of cold qi, there was something to be said for the brisk, natural cool which the offices of the second floor of the Shenglu's manor offered, and the gentle, soothing sounds of falling water.
+
+Her eyes roamed over the room thoughtfully. This was her office. She could work wherever she liked, but this place was hers. It had the benefit of a balcony, looking out over the gardens through a curtain of falling, icy water, but the interior was nothing special. Her desk and furnishings were no different than the ones in any of the offices. A few shelves were filled with reference books, each one a copy of a copy of a copy, churned out during the education of scribes in the capital.
+
+Maybe she should consider personalizing it. She could at least use some cooler colors.
+
+Ling Qi returned her attention to the forms on her desk. The shrines to winter, her tentatively named ”Theaters of Frost,” was nearing its first stage of completion. The bonfire sites had been cleared for congregation, the dirt packed flat, and the supporting structures built. They were just waiting on some deliveries, and then, she would have to consecrate the central shrine and determine who would be the acting priest when she and Hanyi were not here.
+
+Soon, she would have those chestnuts,too. She could not believe the import route would be going through seven different baronies and three viscounties! No wonder the empire was encouraging the cultivation of civil servants. Mortal clerks would take ages to untangle this kind of mess.
+
+(Ling Qi was sure Renxiang would have taken just a few minutes to arrange everything, but that was not the point!)
+
+Having put in the work, Ling Qi thought that the assignment wasn't just getting back at her for maybe intentionally phrasing her reports to exasperate Renxiang. Her liege and friend did have a point. Just as it did no good to handle all the threats for their soldiers, it didn't help their burgeoning civil service if Cai Renxiang acted as the keystone of everyday operations.
+
+Cai Renxiang was quite satisfied with the clerks from the Gold Autumn school. With the central granary having its newly built storerooms filled with foodstuffs and the distribution system now processing efficiently, Renxiang had some plans for expanding their duties.
+
+The room darkened. Cold, oily tendrils of qi crept across her skin, made her throat constrict. Then, black, empty eyes crept into her sight, and hanging strands of black hair tickled her neck.
+
+She let out a breath, and tilted her head up to look at Shu Yue, who leaned over her.
+
+"You don’t actually have to do that, do you?" she griped, taking hold of her heart rate and slowing it down manually with a small fluctuation in her qi.
+
+"Yes," Shu Yue said agreeably. Her office flickered and wavered as her sometimes tutor vanished before reappearing in front of her desk. Long fingered, pale hands were steepled in front of their chest.
+
+"I'm sorry Lin Hai had to go so soon. Did you want me to send for anything?"
+
+"The tides of fate carry us all into different times and places. We will meet again soon enough," Shu Yue said. "And you need not."
+
+"As you like. I hope there's no emergency."
+
+"No, all is safe enough. I merely wish to speak of the future."
+
+"Is this about my lessons? I understand I wasn't fit to practice yet."
+
+"You were not, although you have proven the resilience to keep yourself intact through many more lessons." Shu Yue’s fingers tapped against one another. They seemed pensive.
+
+As the silence between them stretched, Ling Qi could sense that they had more to say.
+
+"You have impressed me. I deeply dislike what I asked of you at the climax of the summit. In truth, I was uncertain if you would survive it."
+
+"It was not a light thing to ask, but if I am not willing to put my life on the line for what I cultivate, the path to higher realms will never open, will it?"
+
+Shu Yue's eyes did not contain pity or regret, only a teacher's satisfaction. "Yes. One who values their own existence more than any goal or ideal cannot tread in the realms of sovereigns."
+
+"That is not easy for most people to do."
+
+"It is not good for most people to do," Shu Yue replied gravely. "But your mind is tempered now. You have tasted obliteration, and yet, you remain on your Way. I do not doubt you will forge a true Name for yourself soon enough, should you weather this war."
+
+"I'll take the encouragement. My lessons?"
+
+Shu Yue smiled thinly, the corners of their lips curling too far up toward their ears. "I shall have a lesson plan prepared by the time you begin your journey north. Call when you wish for it."
+
+"Very well. May I ask if you have looked into the caverns in the Cathedral of Winds? I intend to clear the site out with some help soon. Anything you are willing to tell me would be appreciated."
+
+Shu Yue tilted their head in thought. "I am not to stunt your growth by removing trials within your capacity. That said, there is little need for further proving on such minor matters."
+
+Ling Qi leaned forward in her seat.
+
+"The preparations you and your former sect sister have made are sufficient, if used wisely. The breach into the ith strata is sealable within your means. The east facing branch of the cavern system from the green crystal chamber holds the primary breach."
+
+Ling Qi considered this answer. She hadn't even seen the caverns yet, but having to identify branches of a cavern system implied they were very extensive. "No more than that?"
+
+"I will not eliminate the fun you wish to have with your friend. You have been looking forward to this excursion, have you not?"
+
+She had. The journey with Bao Qian had been fun, but she had been limited at the time. Ling Qi was looking forward to stretching her legs, now that there were not any aches.
+
+And… she hadn't really gone on an adventure with Suyin in quite some time. She wanted that kind of simplicity, at least once, before she jumped back into the complexities her life now entailed. "I have gotten too wrapped up in work."
+
+"It is common. Your drive will only grow. You are suited to fighting for your diversions though, I think," Shu Yue pondered. "That niche will not easily be polished out of your Way."
+
+Ling Qi certainly hoped so. As she grew toward the peak of the third realm, she could feel the certainty that shaped her qi channels. What was coming in her cultivation was final, in a way her previous breakthroughs to the yellow realm and then the green realm had not been. Every event and insight of the last hectic years were coming together into a Name at the tip of her tongue but which she could not yet speak.
+
+Ling Qi rested her chin on her hand, and Shu Yue was polite enough to remain silent as she gathered her thoughts. "May I ask what you are planning for my lessons?"
+
+Shu Yue nodded, and she politely ignored the unsettling crackling of shifting vertebrae. "There is a unique opportunity. You have mastered the maintenance of the self. If the General did not burn you away, only a clash with the most terrible lurkers of the liminal, or a failed invasion of a higher realm’s mind, will break your self."
+
+Tap, tap went their fingers, the sound dry and papery.
+
+"Or a moment of carelessness."
+
+Ling Qi lowered her head in acknowledgement.
+
+"We focus, then, on the outer expressions of the art, the faults and fissures and imperfections of identity. The ways in which it is worn away. The methods by which it is broken." Shu Yue’s voice was low and cold. "This is the opportunity. You will walk in the Dream of Xiangmen with me, and together, we will look on what lingers there."
+
+"You intend to take me where I promised not to walk during my last visit then?"
+
+"The roots would be a strong lesson. You have seen the surface of it in your own life."
+
+Ling Qi had lived on the streets of Tonghou and seen the privation and desperation there, wearing people down and crumbling barriers of the self thought to be inviolate.
+
+"You call it the surface only."
+
+Shu Yue's thin lips pressed in an unhappy line.
+
+"Yes. I would never have warned you away if it were only that. In the depths of the great tree, there are far greater horrors and nightmares. The whims of the liar lords, the dream makers, are there in the dark. Even two hundred years and the scouring of Her radiance cannot remove that shadow."
+
+Something about the way Shu Yue spoke sent a shiver up her spine, and the whispering laughter and sobs of countless children made her heart freeze in her chest.
+
+"In the depths, you will learn of the tools which abrade a person down to their least selves," Shu Yue continued. "You have learned to walk in the personal dream of a cultivator. There, you will learn to hurt with the deliberation of a surgeon's scalpel."
+
+Shu Yue warned her.
+
+"It will not be a kind lesson."
+
+Ling Qi swallowed. "You said it would be a strong lesson. Is it not your plan?"
+
+The corners of her tutor's lips curled back up. "It is a choice. There is another lesson. You have seen her: the vortice in the canopy; the Empty Ascension; and the Palace of One. You have floated in her orbit. I would take you deeper. To know the terrible, scouring fire that is hope. To know how minds may bend toward a distant and unreachable dream. And how these ideals may be broken and twisted into the lesson her descendants took from her. This would be another lesson of sight. But as befitting the coming war, it, too, is a lesson of hurt, if one lesser than the lesson of the roots."
+
+"Are there no lessons from those days that are not hurtful?" Ling Qi asked.
+
+"If there were, neither my Master nor I would be what we are," Shu Yue said simply. "Which lesson shall I prepare?"
+
+“The roots.”

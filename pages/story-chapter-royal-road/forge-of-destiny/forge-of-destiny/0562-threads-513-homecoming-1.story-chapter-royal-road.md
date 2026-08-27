@@ -1,0 +1,77 @@
+---
+id: 131ff35b-17ef-5009-a1b9-c571a5173c54
+page-type-slug: story-chapter-royal-road
+title: "Threads 513 -Homecoming 1"
+slug: 0562-threads-513-homecoming-1
+partOf: forge-of-destiny
+position: 562
+ownLength: 1471
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3270752/threads-513--homecoming-1"
+royalRoadId: "3270752"
+---
+
+There were some murmurs and sounds of approval allowed to slip out by the ones voicing it, but the Lin woman asking her the questions simply gave a crisp nod.
+
+"An optimistic vision, but not an unreasonable one," she allowed. "A well guarded but peaceful border is all most would wish for, and it would provide the Wang family the time for their own projects to bear fruit."
+
+"Every day that goes by without interference, our cities will grow in strength and prosperity," the Wang clan's extremely thick-browed courtier replied. "And to be frank, from the observations my niece has shown me, there is some value to be taken from these foreigners' construction methods."
+
+"No doubt they require the proper propitiation to their gods," another voice spoke up, slightly sour.
+
+"Perhaps." The Wang courtier’s broad shoulders shrugged it off. "But that is half the point of this business with the priests at the summit, isn't it, Baroness?"
+
+"If Sir Wang means that we intend to find out which lower spirits and rites are compatible, that is correct," Ling Qi answered. "For the joint construction of the summit, this is invaluable, but I will not deny that the wise artisans of the Wang might find more general insights."
+
+Cai Renxiang interjected then. "It is the presented opinion of the priests I have spoken to that spirits cannot truly be barbarian in nature. The spirits of the land and sky do not know such human allegiance. The cultural spirits and human ascensions are different in character. If this is incorrect, let the Honored Minister correct me."
+
+"That is the orthodoxy on the subject," Zhu Fan said from his position flanking the throne with the other ministers of Xiangmen. "However, they might require taming and adaptation to the Celestial Court. The matter of non-imperial human ascension has long been debated, but the position that denies it entirely has always been dubious, given the history of the Sage and the Red Garden. I cannot give full guidance on this subject until the ministers gather in the capital later this year. There are no signs of those on the proscribed spirits list among those discussed with us by our neighbors. This, I will say confidently."
+
+"The gods of the foreigners, even those born from ascension and divergent as their ideas of it may be from ours, must be treated with by the Celestial Court. Ignoring them or making pretensions about their nature only harms our ability to understand and interact. It is my hope that the priests of both of our peoples may learn a great deal and find the point where harmony may be found,” the minister continued.
+
+"Mm, discord makes for a poor foundation," the Wang courtier agreed, waving a hand.
+
+With that, the subject moved on, and Ling Qi lowered her head as the talk turned to military movements and poking around at the exact borders of the summit treaty and what it encompassed. These questions, Cai Renxiang was more suited to answer.
+
+Eventually, the questioning wound down, after winding through every subject and prodding their agreements for flaws. It was as exhausting as a battle in its own way, and when the final courtier bowed their head, satisfied with Meng Dan's answers on the historical veracity of some of the claims that underpinned the entire matter, it was finally concluded.
+
+"The summit of the south has been successful in all of its initial goals." Cai Shenhua's voice was a pronouncement as sharp and undeniable as the falling of a blade. "What will bloom from the seeds sown is less certain. We shall be watching. My daughter, having proven herself with words, she shall now prove herself with a sword."
+
+The Duchess stood from the throne, and the radiance cast long shadows as those around the hall knelt. "The time for words, so valuable with the reasoned folk of the icy south, is long past for the creatures which crawl beneath our feet, creeping forth to assault mortals, to assail cities, and to aid raiders and barbarians. Long has it taken, to gather our forces. Long has it taken, since the soldiers of the Emerald Seas have marched as one. The time of charlatans who leave half the province to burn has ended. We march, and where we march, those who assail us will know regret. Cai Renxiang, Heiress of the Emerald Seas, the time has come to show both dedication and strength for you as well. One who would sit upon a Throne cannot allow their knowledge of war to grow distant. To wield violence is fundamental to rule. When I march south, my daughter shall join me."
+
+"It shall be my honor, Mother, to join you in punishing those who would shed the blood of our people in the most cowardly ways." Cai Renxiang bowed her head still further, almost pressing her head to the carpet. "For the Emerald Seas, I will wield my blade until my hand may no longer grip its hilt."
+
+"As it should be," Cai Shenhua approved. "In three months' time, the Emerald Seas shall be gathered. With me shall go the Heron General and my wife. To defend the homeland, I give the duties to the Patriarch Jia and the Matriarch Wang, in coordination with Her Majesty's Great Sects, with the Patriarchs Luo, Meng, and Bao to stand awake in reserve. The scheming creatures of Ya shall be put to siege, their plots burned beneath the scathing light of our banners."
+
+It was not a small request, Ling Qi understood, for the Duchess of the Emerald Seas to call upon the patriarchs and matriarchs of all clans of the Emerald Seas to remove themselves from closed-door cultivation. And that was what she was doing. By ordering it of the counts, they would in turn order it of those beneath them. It was the final step for their province to move to full war footing. As far as she knew, it had not been done since the days of the Xi.
+
+"Our Emerald Seas shall not be trampled upon. Our Emerald Seas shall not brook invaders. Never again shall we be scattered islands, drowned by the pouring floodwaters. All of our foes shall know regret for their trespasses against the people of Tsu."
+
+Those words, spoken in that voice, were as a chisel carving their truth into the world, and from the gathered nobility of the Emerald Seas, there rose a rumble of approval, even but wrathful.
+
+Ling Qi let out a small breath. The course was set. The path was laid. She could only try to see herself and her friends through the span of it.
+
+***
+
+"Haha! I did not take you for the kind to enjoy cultivation elixirs that are no longer useful, Miss Xia!" Gan Guangli laughed.
+
+"Bear Marrow Elixir is widely used for a reason in military programs.Even if its cultivation effects taper away, it remains a bracing and healthy additive to one’s water intake," Xia Lin justified, holding the bottle of dark liquid to her chest a touch defensively.
+
+"Well, I can hardly talk." Ling Qi held up a little pot to shake, the leaves within rustling. "The tea Bai Meizhen shared on the first day of my cultivation has a kick that I don't quite feel even with stronger elixirs."
+
+Meng Dan, she saw, was doing his best not to grimace. "Nettlefang Black. Really, Lady Ling?"
+
+"It's a bit bitter, but good," Ling Qi protested.
+
+"A bit bitter?" he wondered. "I suppose I am biased. I've seen the desiccated bodies of the beasts who foolishly wander into patches of it. The harvesters have to wear full-body protection."
+
+"Not something we could grow locally then." Ling Qi sighed.
+
+"Likely not," Cai Renxiang said dryly. “Safety precautions aside, it requires a much damper climate."
+
+They stood in the lower hall of the Cai guesthouse where they had resided throughout their trip to Xiangmen. It felt as if they had been here for very long, but the time had come for them to return home to Shenglu, and the austere dining hall table was piled with the things they had acquired while they were here. This included cultivation reagents, small souvenirs for their families, and in the case of Cai Renxiang, quite a number of new books. Ling Qi had watched with bemused dread as the “Sixth Thousand Five Hundred and Fifty-Second Edition of the Complete Imperial Legal Code, and Notation on Interpretation of New Edicts” filled an entire packing crate with its volumes alone.
+
+Outside, carriages were assembling, collecting the small cultivator talents that would be returning to Shenglu with them, including the ones Ling Qi had chosen herself. Supplies for Shenglu were also being loaded into them.
+
+It would be good to be home again, if only for a little while.

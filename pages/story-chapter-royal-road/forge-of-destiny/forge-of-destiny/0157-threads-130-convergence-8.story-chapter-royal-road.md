@@ -1,0 +1,151 @@
+---
+id: ee556886-0256-5097-8f83-a70d05e0ee06
+page-type-slug: story-chapter-royal-road
+title: "Threads 130-Convergence 8"
+slug: 0157-threads-130-convergence-8
+partOf: forge-of-destiny
+position: 157
+ownLength: 2750
+unit: words
+publishedAt: 2021-09-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/750141/threads-130-convergence-8"
+royalRoadId: "750141"
+---
+
+A hurricane of wind ripped through the broken wall of the caldera, and it was everything Linq Qi could do to not be blown away. She stared out through the gap at the rising cloud of smoke and debris, a tall pillar with an expanding cap which rose from a blackened crater where a valley had once been. Ling Qi dragged her eyes upward and beheld the clouds rising in a kilometers-wide funnel above the caldera, whirling walls of wind that screamed at speeds fit to tear trees and whole hills from the earth. The circle of visible sky was awash with light, countless burning stars blooming and dying.
+
+The elder stood motionless. No, that wasn’t right, she realized as a mountain peak caved in, crushed in the shape of a foot, and a second falling sun detonated kilometers away and still ripped at her hair and gown. He appeared to be still because she could not see him moving. She saw a thousand, two thousand, detonations of light in the sky, and the air wailed with unending thunder. She could feel the wind around her distorting, the world's natural flows bending and buckling under their weight. She could feel the storm deforming, heaven, water, and wind qi carving itself into the world in unalterable grooves.
+
+The spirits of the world were going mad with panic, and she could feel even the slow spirits of the mountains themselves awakening, hardening their stony hides in the face of ruin.
+
+She ripped her eyes away from the battle that she could not hope to comprehend, let alone affect. The ring of lesser nomads overhead was nearly gone, dead or scattered, with only a handful left, but even they were fleeing the clash of the titans. Ling Qi crossed the battlefield in an eyeblink, wrestling the chaotic winds all the way.
+
+As she appeared at Zhengui’s side, two sets of eyes blinked dazedly at her. “I… did good, Big Sister?” he asked in his twinned voice.
+
+“You did,” Ling Qi said. “So take a break now, alright?”
+
+“Yeah,” he muttered, eyelids drooping as he dematerialized.
+
+Around her, Ling Qi noted the other disciples climbing out of grasping roots that prevented the wind from hurling them about like matchsticks. Most were struggling to their feet, but Ling Qi could sense the impurity in their auras, eating away at them. She could even feel it on herself, clinging to her skin like oil. Ling Qi grimaced. If she had saved them just to have them die now…
+
+A bell rang, clear and high. Harsh light washed over the crater, but its touch was kind. Not soft, never that, but kind all the same. Ling Qi let out a breath as she felt the oily weight of impurity vanish from her channels, and inside her dantian, her spirits’ presences pulsed with relief.
+
+<I take back at least half of the bad things I’ve thought about that one,> Sixiang mumbled.
+
+<I’m sorry, Big Sis,> Hanyi whispered.
+
+Ling Qi hushed her, willing her to rest. Renxiang landed at her side, a ribbon of liquid light swimming through the air and casting its purifying light despite the frayed edges and spots of black that marked it.
+
+“That was good work,” the heiress said quietly, and Ling Qi knew only she could hear. “Liming gave me some difficulty in those last moments.” Renxiang’s voice was rough. There was a raggedness to it, sourced from the ugly burns that marked her throat.
+
+“I’m glad you ladies are well!” Ruan Shen called from the crater’s lip. A shock of his hair was still bright green, and flower petals still clung to his skin, masking steaming burns. “If you gather everyone up, I can play a little pick-me-up!”
+
+Right, they weren’t done, Ling Qi thought. Just because the immediate enemies had fled didn’t mean that they weren’t still on the battlefield. Even if she refused to look, the battle above roared in her mind.
+
+The storm raged, and a titan with lightning for bones and clouds for flesh grappled with a great golden mountain among the jeering stars. Rays of harsh sunfire and heavenly bolts tore at the mountainside, sending a million tons of stone crumbling down. Within the mountain, dawn’s light bloomed, a thousand colors spilling from painted caverns. Harsh and soft sunlight clashed and lit the vault of heaven aflame.
+
+“I will provide vigil. Ling Qi, help get the others on their feet,” Cai Renxiang ordered. “Recovery formation on Disciple Ruan!”
+
+Ling Qi shook out the pressure invading her thoughts. “Right,” she grimaced.
+
+Swiftly, she scanned those climbing to their feet and blinked to the side of a young man as a broken ankle collapsed under his weight. She caught him halfway to the ground, and a swift leap carried him to Ruan Shen’s side. She vanished on a whisper of wind, repeating the action twice more.
+
+Even with the pressure above, Ling Qi could not help but notice a change in her peers’ attitudes. There was no hint of the jealousy and sullen dislike that had simmered beneath the polite surface. She wasn’t sure it would last, but for now, the battlefield had stripped it away.
+
+Ling Qi returned to Ruan Shen’s side with the last of the disciples in time to hear Ruan Shen’s soothing song and feel the soft spring melody wash over her. She felt aches ease and pain grow dull, although she could tell that the effect was temporary. Around her, others straightened up as broken bones slid back into place, and flower petals fell, clinging to and staunching wounds.
+
+“We’ll all need a visit to the medicine hall, but I can keep us on our feet,” Ruan Shen said, running his fingers nervously over his scorched scalp. “Now, what’s—”
+
+A hundred thousand arrows roared from a bowstring, each one a shard of sunfire fletched with the storm. They flew unerring, and one hundred fists the size of hills shattered the air, punching them from the sky, and battered the Cloud Titan, but could not catch the scattering sky. Behind the fists, a mountain bled liquid sunlight from a thousand tiny wounds.
+
+Ruan Shen shuddered, his smile transforming into a grimace. “What’s the plan?” he finished, his voice strained.
+
+“I have received our orders,” Cai Renxiang spoke from above. The line of her gaze was visible in light as she scanned the caldera for threats. “We are to retreat and secure the starstone until we rendezvous with our reinforcements. Communication is breaking down due to the intensifying storm. We must assume that the enemy is reinforcing as well.”
+
+Ling Qi glanced to the other side of the caldera where the stone still rested. The moisture-thick air around it glimmered with rainbow light. “I suppose I can move it,” Ling Qi said. She had enough qi to use her Grinding Glacial Melody technique quite a few times.
+
+“I will pierce the caldera wall,” Cai Renxiang said grimly, “and assist with the movement. Sir Ruan, bolster our efforts. The rest of you, form a perimeter and watch for foes.”
+
+The chorus of agreement was perfunctory. No one wanted to stay in the caldera. They moved toward the wall where the stone rested, and Cai Renxiang descended, drawing back her saber. Three swift slashes carved through the already dissolving rock.
+
+When the tip of Renxiang’s blade bloomed with light and unleashed a small ray of scouring light over the stone and the wall however, something strange happened. The stone, so inert up until now, wobbled violently. Cai Renxiang let out a choked off grunt of pain. Her free hand flew up to press against her temple.
+
+Behind the starstone, the wall that had been targeted still crumbled away under the blast.
+
+Everyone scattered as the stone rolled toward them, defensive techniques activating only for it to rock to a stop when it reached a small upward slope in the broken floor. They all eyed it warily.
+
+“Maybe I should handle the moving on my own,” Ling Qi said.
+
+“Agreed.” Cai Renxiang glared suspiciously at the starstone.
+
+“Seconded,” Ruan Shen said nervously, continuing to strum out a bolstering tune.
+
+A single icy stanza sent the stone rocking back, tumbling through the hole and down the mountainside. They chased after it, not having the time to give the matter more thought.
+
+Outside, Ling Qi finally caught sight of the battle between the fourth realms. Guan Zhi was being pushed back, but Ling Qi knew it wouldn’t matter. She could feel the incoming tide of sect reinforcements.
+
+As they dashed down the mountainside following the bouncing stone, she felt the attention of the leader of the Twelve Stars group turn toward them. The cyan wasn’t visible as a person any longer, only a screaming funnel of iridescent wind, but Ling Qi could imagine that she saw glowing eyes widen in fury.
+
+Then Guan Zhi let out a warcry that shook the mountainside, and blackened bronze hands seized the narrow end of the towering wind funnel. Even as arrows and lightning scoured her flesh, the funnel spun wildly through the air in two revolutions before slamming into the ground in a plume of dust that was swiftly ripped away by the roaring storm overhead.
+
+The starstone caught on the lip of a cliffside, and Ling Qi belted out another grinding stanza. The cliffside crumbled. The stone rolled on. They ran and flew after it.
+
+From the east came a river. Torrential and furious, it made its bed in the sky, whitecapped currents howling above the thunder of fists and the rumble of stone. On the river came a great ship, a sleek thing of bronze with sails of purest silver. Beneath its deck whirred clockwork of unimaginable complexity. Upon the sides of its hull, panels drew down revealing a thousand weapons of innovative and cruel design.
+
+From the west came an inferno, all consuming and vast. The flame ate the clouds and hissed and crackled with joy among the steam. In the burning depths was a platform of soot and ash. There, demons and ogres beat out a warsong upon drums carved from magma and fear. A hundred devils in soot-blackened bronze cavorted before the burning throne of skulls at its core. Lo! The Burned Queen had come, and the court of devils marshalled for war! A paneled mask whirred and clicked, transforming a cruel smile into a bloodthirsty shout, and a tremendous gauntleted hand rose and clenched into a fist.
+
+But they were far from safe. Ling Qi nearly stumbled as a wave of pressure from the battle behind and above them ripped through whatever Elder Yongrui had been doing to shield them. The coming of the other two Elder’s made pain spike in her temples and blood drip from her nose. They fled down the mountain, and what few barbarians remained scattered.
+
+For a single moment, something drowned out all sound, the sound of the rolling stone, their feet, and even the continuous thunder of the clash overhead. It wasn’t a sound; it was the antithesis of sound, and before it, sound rotted and crumbled.
+
+Out of the corner of her eye, she saw the Twelve Stars group leader, once more a man and an eagle, soaring in the sky. His mask was gone, revealing a wind-weathered face. In his hand was a warhorn hewn from starstone, gleaming wetly in the rain. The awful not-sound emanated from it, full of fear, a child's cry for help.
+
+The rain hissed and steamed, the light of the sun turned red as blood by the flames devouring the heavens. Ling Qi tried not to gag as the stench of burning flesh assaulted her nose and tried not to stumble as the rain began to pound down with enough force to crack stone, every drop stinging on her skin. She didn’t dare to look up, even as the mountain groaned and grumbled and the ground beneath her feet began to give way.
+
+All around her, trees tipped crazily as weakened soil began to slip downward, a vast mudslide picking up momentum under her feet. She could barely hear Ruan Shen’s song or the voices of her allies over the cacophonous noise. Despite the unsure footing, Ling Qi darted downwards, keeping the rolling starstone moving even as the muck tried to bury it once more.
+
+They ran on, and behind them, the world came apart.
+
+The storm screamed as barbed hooks of silver and wit punctured the clouds and hooked upon lightning-wrought bone and nets of steel and resolve tangled its currents. The devils swarmed, laughing their cruel laughs even as lightning unmade them, a thousand slain only for a thousand more to emerge, born from the inferno’s embers. The drums did beat, pounding a mocking funeral dirge. The river crashed down with a dragon’s roar, scouring away the whirling winds to expose the titan at the core.
+
+Through the river waded the scarred golden mountain, his hundred fists raised not in defense, but with intent to strike.
+
+The wind and pressure nearly crushed her. Trees and stones the size of houses whirled into the air, dragged into the sky. Stone and mud caught fire, even amidst the pounding rain. All fought to keep from being entangled in the battle of the mighty forces above save the starstone, which seemed to care not at all. Yet it responded to her melody all the same, even as the song was drowned out.
+
+The barbed lashes forged from hate tore apart the flesh of clouds, and the devils shrieked in delight at the touch of the sky’s blood.
+
+Suffer, crackled the flames.
+
+Vengeance, roared the river.
+
+Die, spake the mountain.
+
+One hundred fists crashed down, and bones of lightning fractured. The ship cut unerring through the raging waters of the river as it coiled around the storm, the chains of its grapnels binding the storm even as a hundred new weapons wrought of a war-forged mind wheeled forth onto the decks to speak.
+
+But the storm did rage. The mountain earned new scars as suns bloomed upon his sides and sent a million tons of stone and gold sloughing off. The Burned Queen laughed as lightning struck deep into her court, slaughtering demons and blackening her flesh. The river boiled with sunfire, the rising steam a scream. Only the ship was pristine, darting through ten thousand arrows untouched.
+
+A girl at Ling Qi’s side stumbled and fell, and it was only Ling Qi seizing her arm and dragging her up that kept her from being devoured by the mud. They were nearly at the bottom of the mountain, and Ling Qi could faintly sense the qi of imperial cultivators ahead. They only needed to cover a few more kilometers.
+
+Lightning fell from the sky, a river of electricity.
+
+Cai Renxiang’s light flared, and for just a moment, there was no rain. The lightning sparked and crawled over the smooth aegis of light that had bloomed.
+
+“Their shamans are going active,” Ruan Shen hissed. “We have to—”
+
+The storm bled. Swathes of cloud flesh boiled under the heat of the inferno and the beat of the drums. Bone broke under the mountain’s fists, and its winds slowed under the machinations of the ship. The river crashed down, and this time, the current punched through, raging water breaking through the storm and out the other side.
+
+The storm raged against inevitability, and winds fit to scour the very world began to shriek. It…
+
+Dawn came in the south. Unlight rose over the mountains. The sk#@%^^&@@^%#
+
+Radiant Titan, trailing hair the veil of glittering stars in negative. Eyes of crimson fall upon the impure world. S@(*&())&^%%&*())))^%^%$&%^&^%&^ Seven Colored Sword of Ruin ris%&^*(^*%***&(&^&^&
+
+And all the world crumbled.
+
+A strange static of incomprehension assaulted her mind, and Sixiang let out a pained whimper in her thoughts.
+
+Ling Qi fell to her knees under the wave of pressure that struck her back, and droplets of red spattered the mud as the air was driven from her lungs in a spray of blood-flecked breath. Her eyes burned with the shadow of the light that just bloomed across the sky. Her ears rang in the eerie silence that was the end of the continuous ringing of thunder from above. Around her, allies lay scattered and groaning, and only Cai Renxiang had not been bowled over.
+
+Before her lay the starstone, come to rest against piled trees and stones.
+
+Through its center was a jagged crack.

@@ -1,0 +1,217 @@
+---
+id: 30d1f0db-7e87-5804-abe4-2fa9e5d204f3
+page-type-slug: story-chapter-royal-road
+title: "Threads 256-Capital 8"
+slug: 0294-threads-256-capital-8
+partOf: forge-of-destiny
+position: 294
+ownLength: 2776
+unit: words
+publishedAt: 2022-10-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1018288/threads-256-capital-8"
+royalRoadId: "1018288"
+---
+
+Ling Qi looked up and up to the source of the new voice. Sixiang’s grandmother, the avatar of the Dreaming Moon, simultaneously towered high above and danced innocuously through the crowd in a way almost impossible to understand. Her trailing skirts were the spirits of the dance, her voice was the sound of festival, and her face the reflection of a thousand revelers. She was a child, a young woman, a mature matron, and a doddering grandmother all at once, and Ling Qi felt her head ache and her ears ring from merely perceiving her existence even in partial fullness.
+
+And then, she was merely Sister Brightsong, the Emerald Dancer, a lithe, lovely but androgynous woman in glittering rainbow silks perched cross-legged before the two of them in mid air. She twirled a pale green parasol over her shoulder.
+
+“Granny, you shouldn’t try and stretch her head out like that,” Sixiang complained.
+
+“Oh, she’s fine, child. Your girl is tough. Look at her, not even a nosebleed,” the Dreaming Avatar said.
+
+“Thank you for your invitation.” Ling Qi bowed her head.
+
+“You’ve had it since our walkabout. I’m only glad that you took it. Don’t be such a stranger,” the moon spirit said. “Sixiang is right though. You’ve rocketed up so fast and tried so hard to escape what you came from.”
+
+“I won’t apologize for that. I’m happy to leave most of it behind,” Ling Qi said firmly.
+
+“But you did come back for part of it,” said the avatar, twirling a smoky rainbow curl on their finger. “You faced the form of your nightmare with us before. Has its shadow crept back on you?”
+
+Ling Qi glanced nervously about. Something about the word “nightmare” reverberated when the moon spirit spoke, turning shadows to oil and tar and sending a chill wind through the square.
+
+Ling Qi took a deep breath and met the spirit’s eyes firmly. The scent of cheap wine and the shadow of squinting eyes vanished like dew on a summer morning, and with it went the gnawing hunger, the pain of a broken arm, the fear of pounding feet behind her, and the shortness of breath in a child’s lungs. Ling Qi had left many nightmares behind.
+
+“I understand what Sixiang has been trying to say. There is no need for that. I know I’m still unreasonable about some aspects of my past.”
+
+“Please, Grandmother,” Sixiang pleaded. “I don’t think tribulation is the cure here. I’ve got this.”
+
+The Dreaming Moon regarded them both curiously for a moment. “I suppose you do. But tell me, Dreamer, what do you see here in the Great Reverie, the Dream of the People?”
+
+They were walking now, walking up the stairs to a temple, though Ling Qi did not recall standing up or moving. The noise of the festival was lower here, less wild abandon and more the low sound of conversation from a thousand lips, the breathing of the creature called civilization.
+
+“It’s all so tenuous.” Ling Qi looked up at the dark sky and the near full moon gleaming overhead. Lights burst in the sky overhead. “Families and business and friends are united by the merest thread. It can all fall apart in an instant. It did all fall apart in an instant not too long ago, didn’t it?”
+
+The cracks yawned wide, scabbed over with webs and tarry darkness. Duchess Cai’s ascension to the throne had been tumultuous, and the scars wrought by the Hui still lingered.
+
+“It did. Does that lessen what it is now?” The Dreaming Moon sat upon the arch of the temple as if it were an emperor's throne.
+
+“But most things are like that,” Sixiang argued. “Connections break. Communities split. But you know endings, Ling Qi.”
+
+Ling Qi’s lips twisted wryly and finished silently. Endings are just new beginnings.
+
+They stood at the top of the steps of the temple, and Ling Qi looked down on the festival, a reflection of the empty void above with warm fires in the place of cold, cruel stars. “It can’t be a clean divide, can it?”
+
+“Nothing involving you wonderful mortals is ever clean,” spoke the Dreaming Moon, and Ling Qi felt her mind itch at the pressure of something so much larger than the already tremendous existence of the avatar.
+
+“We hurt, and we hurt in turn,” Ling Qi echoed Meizhen’s insight, bought by the pain that Ling Qi had unwittingly caused her.
+
+“Dreams and Nightmares are but reflections at different angles,” said the Moon.
+
+“But they’re not only tricks of perspective. That is itself a lie,” Ling Qi said.
+
+“Is not the greatest artist but the most consummate of liars?”
+
+“No, they are the poorest ones,” Ling Qi disagreed. “If you have no truth to convey, your art is empty. If it speaks only to your own self, it is even more worthless still.”
+
+Silver light burnt her eyes and made tears trickle down her cheeks.
+
+Family, she realized, was only a knot of strong bonds, and it was the small connections between people which built a community. There was no line between love and obligation, not if both were true.
+
+The light died. With watering eyes, she saw the avatar of the Dreaming Moon standing before her, and she felt a hand on her cheek. A voice whispered softly in her ear.
+
+“You’re close, Dreamer, but you’re not quite there. The greatest lies, the greatest art, is that which becomes truth. But your fear remains. Face your nightmare, and find your truth.”
+
+Ling Qi fell to her knees, reaching up to scrub at her eyes. The avatar was gone.
+
+Sixiang was there though, an arm around her shoulder. “I should have known Grandmother would be intense. You're getting close to something big after all.”
+
+“And the Moons make sure that we’re ready for it.” Ling Qi said quietly, remembering the shared memories of the muse. “Sixiang, you have a grandfather too, don’t you?”
+
+Her friend was silent for a long, long time, long enough for Ling Qi to blink the remaining stars from her eyes. “Yeah, I do. How’d you know?”
+
+“Dreams and Nightmares go hand in hand,” Ling Qi repeated. “I’m going to have to meet him, aren’t I?”
+
+“Yeah,” Sixiang said sadly.
+
+Ling Qi looked down at her hand, opening and closing it. She noted the thin red smears there from wiping away her tears. “Okay.”
+
+“Okay?”
+
+Ling Qi nodded and stood, leaning on Sixiang’s shoulder. “Will you show me around the rest of the festival?”
+
+Sixiang smiled, a little sad, but proud. “Sure thing.”
+
+***
+
+<Thank you, Big Sister,> Zhengui said to her.
+
+“I wasn’t going to refuse something so simple after spending most of the morning shopping with Hanyi,” Ling Qi said aloud.
+
+She walked along a wide and brightly lit boulevard. It was quieter than other parts of the district with no blaringly bright signs or hawking merchants in sight. It was quiet and serene.
+
+As one would expect from a temple ground.
+
+<That was silly.> Gui’s voice came to the fore, and she could imagine his expression of confusion in her mind's eye.
+
+Hanyi had definitely gone a little overboard, but she was spending her own money. Ling Qi thought it was fine to let her splurge for now. She could give her junior sister a talk about financial responsibility later.
+
+She absolutely wasn’t going to regret putting her foot down at the last shop though. Dreamscapes and reflecting light aside, dresses were not to be made of bubbles.
+
+Well, her tirade had made Renxiang smile, just a little, so silver linings. Hanyi was still pouting though.
+
+“Though I wonder about your interest,” Ling Qi said, looking to the side. “Weren’t you with Lady Cai for much longer than I?”
+
+“Her residence was in the surrounding townships at the time. This is my first time in the Cloudspires as well,” Gan Guangli said brightly. He marched along in his enameled armor, the light glinting off the gold filigree most resplendently.
+
+“What was it like before the Sect?”
+
+It was a vague question, but she trusted Gan Guangli to understand her.
+
+“It was a time of harsh training, lessons, and preparation. I do miss those days, but it is better left behind,” Gan Guangli said solemnly. “It is far too small for our lady now.”
+
+Ling Qi nodded shallowly, taking his meaning in both forms. It was something Renxiang had moved past, and no longer needed addressing. “It has been a hard year, but I think we are better for it.”
+
+Gan Guangli’s ever present smile faded a touch.”Yes. I must thank you again for doing what I could not.”
+
+“It was only luck. Our places could have been easily swapped,” Ling Qi demurred.
+
+Gan Guangli didn’t look like he agreed, but left it there.
+
+The Temple of the Heavenly Pillar was a tall narrow structure with six tiered roofs whose shingles were a rich red brown. Around it, there was a sprawling garden, seemingly as wild and disordered as the wilderness, but with her experience working on Zhengui’s garden, Ling Qi could see the subtle order of it. Although bushes and small trees grew in naturalistic forms, she could feel the gentle curving lines that underlaid the layout.
+
+But other than the subtle redirection of energies, there was no indication that this was a place of power. It was as unassuming as a building its size could be. Ling Qi supposed that of all the institutions of Xiangmen, the priests of the Heavenly Pillar needed no airs. In a city where any new construction at all was in their hands, if only for the laying of foundations, they could not really be ignored or undermined.
+
+<He’s close to the surface here,> Gui said guilelessly.
+
+<I, Zhen, give respect to the Elder,> his other half whispered, feeling very subdued.
+
+Ling Qi did not need to ask what he was referring to. She could feel it here. Not the way that she had felt the presence of other great powers like the Duchess or the Moon’s avatars or the watching thing in the caverns. No, it was simply there in the same way that the earth was there or the sky was there.
+
+Xiangmen was.
+
+“How aware is the Heavenly Pillar of all upon it?” Ling Qi wondered.
+
+“Impossible to answer. Only those on the edge of true ascension may begin to comprehend the enormity of the Ancient.”
+
+Ling Qi turned her head toward the source of the voice, an unassuming little man in dark green robes. He had a round face and a bald head, seeming to sit directly on his shoulders with very little neck in between. His face was lightly lined, and he held his eyes half-shut. Upon the chest of his robe was embroidered a great golden tree with branches and roots alike splitting fractally to form patterns across the rest of the robe.
+
+“Sir,” Ling Qi said, bowing her head. “I apologize for the intrusion.”
+
+“As do I.” Gan Guanglipolitely bowed as well.
+
+“The temple is open to visitors,” the priest replied pleasantly, his attention buzzing over them both, a gentle brush of wind. “I am Hou Wen. Do you have a purpose here today, young lord, young lady?”
+
+“My spirit wishes to immerse himself in the Heavenly Pillar’s presence while we are in the city. I would like permission to release him physically,” Ling Qi said.
+
+“I had hoped to observe the shrine, meditate, and make an offering,” Gan Guangli said, keeping his usual tone to a polite boom. “We are soon to found a new settlement.”
+
+“Is that so?” asked the priest, one eye cracking open a little further. “Neither is unreasonable, but your spirit will need to limit his bulk. The gardens are not to be disturbed.”
+
+Her little brother huffed. <Gui will not be a bad guest.>
+
+“He promises good behavior,” Ling Qi replied, and at a nod from the priest, she released Zhengui.
+
+Her little brother materialized in a faint cloud of smoke, smelling of wood ash and charcoal. With his shell only being about a meter and a half long, he was only the size of a big dog with Zhen curled up on his back. He really was becoming quite good at controlling his size.
+
+Hou Wen observed him curiously, and Zhengui looked back proudly. After a long moment, the priest gestured for them to follow.
+
+He showed them inside the temple proper, the first floor of it, which contained an inner garden. The walls were fine clear glass set in metal frames, and the ceiling an exotic material that displayed the vibrant blue sky outside and the bright sunlight that was gradually growing a darker orange as the sun was setting. The garden followed a curving, spiraling geometry that led to the center where a young tree grew. Its bark was like a gleaming gold leaf, and its leaves the color of rich jade. The peaches that grew on it hung heavy and juicy on the thin branches.
+
+The priest stopped before the tree and clapped his hands twice, bowing at the waist, and Ling Qi took it as her cue to do the same, along with Gan Guangli. Zhengui lowered both of his heads near to the ground.
+
+The priest maintained his posture for precisely ten seconds before straightening up. “Your presence here is not rejected. Please be free to walk and contemplate in the inner garden. When you wish to make your offering, I will guide you.”
+
+“Thank you, sir,” Ling Qi said. “May I ask what this tree represents?”
+
+Hou Wen offered a small smile. “Each temple holds a different tree in its inner garden, a paragon of that species cultivated over many centuries. Xiangmen preserves. Even if the world is brought again to ruin, the Emerald Seas may be born anew.”
+
+“It would be no good if the flora couldn’t grow again,” Gui pondered aloud.
+
+“Just so,” agreed Hou Wen, looking at her little brother out of the corner of his eye. “Preservation assures new growth.”
+
+“Things can’t be preserved forever. Destruction comes,” Zhen said haughtily.
+
+“It does, and so we endure,” Hou Wen said pleasantly. “Good day, young lady, young sir.”
+
+“You should be more polite,” Ling Qi whispered harshly to Zhengui as the man left them.
+
+“It isn’t good to coddle,” Zhen defended. “Things will get stagnant and weak.”
+
+“Preservation does not bring stagnation,” Gan Guangli rumbled. “It is not weak or wrong to defend those who have not yet found their strength. Indeed, the world is most ugly when we believe that.”
+
+Ling Qi gave him a considering look.
+
+“Gui thinks Mr. Clean is right. Gui thinks Zhengui would be dumb if he burned the roots and the seeds too,” Gui chirped.
+
+Zhen looked deeply offended, but he also didn’t reply.
+
+Ling Qi knew that Zhen and Gui were not really separate people, but different mental aspects of his singular self. So she didn’t comment, knowing it was just him thinking out loud about an internal argument. Instead, she asked, “Mr. Clean?”
+
+Gui nodded. “He is very shiny.”
+
+“His sun cleanses taint and poison. It brings health,” Zhen said wisely.
+
+Sixiang let out a snort in her head, Ling Qi struggled not to do the same, covering her mouth with her hand.
+
+“A moniker I shall wear with honor!” Gan Guangli struck a fist against his chest. His expression grew more serious as he turned to look at the garden and the tree. “Preservation though… Yes, I must meditate. Please excuse me, Miss Ling.”
+
+Ling Qi left him to find his own place to cultivate while she followed Zhengui as he walked through the garden.
+
+To surround and preserve without really being a part of what lay inside. That was a lonely path, wasn’t it? But then again, she was a lonely girl at heart.
+
+She felt Sixiang’s phantom arms around her and lowered her head. It was a path, but not the only one. Not even the one she wanted really. Because she was greedy as well. If she had a choice between two treasures, she would always, in her heart, desire to grasp both.
+
+Ling Qi rested a hand on Zhen’s head as they walked, and he bickered with himself, stopping here and there to observe parts of the garden. Now and then, he would lie down, roots wriggling from his feet down into the earth, and she would let him.
+
+The coming months would determine a great deal about what treasures she would be able to grasp. She would have to get more hands. One way or the other.

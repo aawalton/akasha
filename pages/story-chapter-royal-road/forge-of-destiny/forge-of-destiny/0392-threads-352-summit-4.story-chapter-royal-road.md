@@ -1,0 +1,169 @@
+---
+id: 20eec5c0-8975-5a24-a981-4e8ea71ff55b
+page-type-slug: story-chapter-royal-road
+title: "Threads 352-Summit 4"
+slug: 0392-threads-352-summit-4
+partOf: forge-of-destiny
+position: 392
+ownLength: 1996
+unit: words
+publishedAt: 2023-12-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1443397/threads-352-summit-4"
+royalRoadId: "1443397"
+---
+
+Ling Qi mingled and traded small words, encouragement, and debates with various functionaries. She found Cao Chun conferring with another more junior agent she couldn’t recognize at a glance.
+
+“Baroness,” he said before she had finished approaching. His companion turned and left. He remained with his back to her until she stopped, only then turning to face her.
+
+“Inspector Cao,” she returned, lowering her head. “Are the current negotiations to your satisfaction?”
+
+His blank mask tilted up. “These foreigners have shown that they have a functional understanding of the concept of civil law and meaningful tradition of jurisprudence. This arrangement is… possible.”
+
+Ling Qi was surprised to hear him admit that, but she carefully kept it from her face.
+
+Of course, for all her talents, he was still two realms above her.
+
+His cane tapped once against the floor. “I am not blind, baroness, merely skeptical.”
+
+“My apologies, inspector. I did not mean to imply otherwise. There are many who are not blind but are blinkered. Such is the way of cultivation.”
+
+“Hmph. Spare me the koan, young lady. Yes, that is the reason given for why the young are taking the lead in this.”
+
+“A reason which you do not approve of.”
+
+“I do not, but I will not say you are all not giving your best efforts.”
+
+Even now, with his mask on, she could read him. He still thought that they were being foolish, inviting inevitable betrayal and disaster. But…
+
+“Even when violence came close, we pushed it off.”
+
+“Yes, your speech,” Cao Chun said, his blank mask turning as if to peer past her. “I interviewed our craftswoman myself. She may not even have noticed consciously, but she broke the boy’s wrist, not that the foreigners seemed to care about that over the cultivation taint. A shameful lack of discipline.”
+
+Ling Qi eyed him warily. “You approve of the outcome?”
+
+His discontent scratched at her nose like smoke. “It was well handled. A wrong is a wrong. Being the ones to break the peace dirties the empire’s honor.”
+
+“It was an unfortunate flaring of tempers.”
+
+“Hmm. What is it you wish to say, baroness?”
+
+“It is my hope to ask you for your thoughts on the arbitration negotiation. Though Inspector Cao has made his voice clear, I hoped that any unsaid concerns might be addressed.”
+
+“I see.”
+
+Unlike his younger colleagues the old inspector was not nearly impolitic enough to make accusations.
+
+“The Ministry of Integrity is rooted in the Ministry of Law. Please do not think that Lady Cai or myself disdain your expertise.”
+
+They did not. But she did feel the ministry had tendencies toward overclaiming their area of it.
+
+“I favor the panel approach in this,” he said. “The idea is sound, if needing refinement. Frankly, I can see that you intend to push toward an even number to claim fairness despite your starting position. Two and two, rather than two and one.Requiring a majority means that at least one imperial must agree with the foreigners or vice versa to reach a verdict.”
+
+Ling Qi was silent. The intention was to let the delegates raise the problem and come to the conclusion themselves. Ideas people thought were their own always went down better.
+
+“Whereas the other is an unpalatable problem with obvious downsides, existing to be torn down?”
+
+“No. Both the empire and the Polar Nation have a tradition of singular judges presiding. While there are problems with the proposal, such as the chance of bias toward their homes and the lack of accountability because of the strange jurisdiction, we felt it was important to discuss the traditional option and find out if there were solutions to be had.”
+
+He examined her closely.
+
+She looked back with clear eyes. It was true. She didn’t think it was a good option, but if there were arguments for it, she would be happy to hear them.
+
+“We will see. I may not favor it, but others do. Let your gambit play as it will.”
+
+“Inspector, if I may, I understand your skepticism, but is there anything which could assuage that?”
+
+Cao Chun rhythmically tapped his cane on the wooden floor.
+
+“If you truly wish for our support rather than silence, baroness, then take this proposal to your liege. Agree that at least one judge magistrate upon each panel be drawn from the capital from a ministry-approved pool.”
+
+Ling Qigave him a wary look. “Would such judges even take a position like this? I apologize, inspector, but I feel as if this will only result in a gridlock and empty seats.”
+
+Cao Chun tilted his chin down to her surprise, acknowledging rather than retorting. “Then let me swear this oath on the honor of the Ministry of Integrity. Agree, and you will receive candidates in a timely fashion. I will ensure it.”
+
+“I cannot make any promises without consulting Lady Cai.”
+
+“Of course. Take the proposal to her. If you choose to take it, then support me in the matter when the panel composition is brought up,” Cao Chun said. “I sense there is something else you wish to raise.”
+
+“Ling Qi shook her head. “There is, but it is not about this meeting. I was hoping to speak to you after. It is about the spirit troubles and construction accidents.”
+
+She felt his focus narrow onto her. “I see. Afterward, then.”
+
+“Thank you, inspector.” Ling Qi clasped her hands and bowed formally.
+
+Her thoughts spun. It didn’t seem like a terrible deal. While she was sure capital judges would be more hardline and inflexible, they would still be devotees of the law in way and spirit. It probably would irritate some in the Emerald Seas, particularly her allies who tended to be more provincialist, but she could probably convince them of a minor concession to buy down the ministry’s ire.
+
+“You are welcome, baroness. On the matter of the accidents, let us speak at the end of today's session.”
+
+Ling Qi nodded, hearing the polite dismissal for what it was. She could sense the Wang functionary hovering just out of their conversation screening range too, after all. “Yes, we will. And I believe Lady Cai will be amenable to your suggestion.”
+
+“I would be thankful.”
+
+She bowed again, he lowered his head, and they parted ways.
+
+Ling Qi wove back toward the table, stopping briefly to speak with a Luo courtier. They were interested to know her opinion on the matter of sedentary versus nomadic judges, that is, magistrates who performed a circuit among settlements rather than staying in one. Reading between the lines, the Luo were probably interested in distributing the infrastructure on the southern border rather than seeing it all gathered here at the current embassy.
+
+She’d keep that in mind. Maybe a promise to expand later? She didn’t think there was enough throughput for more outposts yet. Besides, she couldn’t say she fully trusted establishing more potential points for failure and conflict before this one was even proven.
+
+Passing out of the conversation, she arrived at Cai Renxiang’s side as the other girl was leaving her own conversation and conveyed the deal.
+
+“A ministry-selected judge from the Peaks? Doable,” Cai Renxiang assessed. “There are few methods of gaining the ministry’s support which will not cost some influence given their goals…”
+
+“But on the matter of law, closest to their root expertise, I think it is where that cost is lowest,” Ling Qi agreed.
+
+“Yes. You have my approval for this. Do you have a position prepared for the clans?”
+
+“I have thoughts, but Lady Cai is still more familiar.”
+
+Her liege looked past her toward the chatting nobles. Ling Qi’s eyes wandered. Meng Dan was conferring with his uncle, who was watching everyone with a severe expression. Wang Lian was standing with her hands behind her back, talking to Inzha. Luo Jie was now speaking with Cao Chun, and Jaromila was talking to Dzintara and another older woman with an intricate headscarf and religious markings on her clothes.
+
+“Legitimacy. That the throne is paying attention provides our endeavor legitimacy. We have our own judge, standing equal, and we are allowing their judge in good faith. We are a province which demands that much respect.”
+
+Across the room, Jaromila caught her eye.
+
+“I see. That is a working position. I think the implication is that it would be better for us to see the throne’s agents than not as an additional argument.”
+
+“So long as it remains an implication,” Cai Renxiang agreed.
+
+“Of course. Excuse me, Lady Cai.”
+
+Cai Renxiang nodded and turned to look at Meng Dan, who was approaching with his hands clasped. Ling Qi gave him a small smile as she passed him by, heading for Jaromila by a slightly meandering route.
+
+“Emissary Ling Qi, it is good to see things are proceeding so civilly, is it not?” the blonde woman asked as she came near.
+
+“It is, Emissary Jaromila.” Ling Qi took Jaromila’s outstretched arm, clasping it around the wrist for several seconds. Jaromila did the same to her. Her iron nails were sharp on her skin even through her dress. This was, she had learned, a somewhat familiar gesture for the Polar Nation, so it implied a degree of trust and closeness to hold it this long without testing each other's strength.
+
+The older woman standing with them frowned, but Dzintara merely pursed her lips.
+
+“I hope that everyone is feeling their concerns borne out?”
+
+“I feel decorum could be better kept through a speaking scepter, but discussions are being managed even without it,” Dzintara allowed.
+
+Having some badge or idol which conferred permission to speak and informing others to listen was the Polar Nation’s method for these conferences. It had been proposed, but the idea had gotten bogged down in arguments over what the etiquette for passing it would be.
+
+“I hope that future summits can refine our methods. For now, I think freer debate is serving us well.”
+
+“It is. There is too much to discuss and too many disagreements for the single speaker methods to work here,” Jaromila said. “I think talks on identification methods for border crossing are going well?”
+
+“They are, but I hope you will forgive Inspector Cao and some of our delegates for their bluntness. Cloud tribe raids and our security are not distant matters to them,” Ling Qi said, putting just a little apology into her voice.
+
+“No one has gone beyond the bounds of slightly heated debate, yet,” Dzintara said grudgingly. “Nonetheless, we will need guarantees that your ‘concerns’ do not allow malicious actors.”
+
+“I understand. We will find a method which everyone can accept.”
+
+“The young emissary is very confident,” the old woman interrupted. “But do you truly speak with such weight?”
+
+Her accent was thick, and her words were a little odd and halting.
+
+“Their people aim for ascension more commonly than ours,” Jaromila said firmly.
+
+“But the ascended speak for themselves. Who do you speak for? What voice do you channel?” the old woman asked.
+
+Ling Qi took it in stride. “Right now, I speak for Her Grace, our Duchess Cai, Master of the Divine Pillar Xiangmen. I hope that is enough. You have not, after all, brought Crowfather, or any other, here for debate.”
+
+“It would be madness,” the woman said. “You do not wear her mantle—the one you call liege does—yet you are called emissary. Is it only because your mantle is akin to ours? A sop for this history we once shared?”
+
+“Priestess, you are being rude,” Jaromila reprimanded.
+
+Ling Qi raised a hand, forestalling her. “Our methods are not at all the same. All of the effort to find commonality is an exercise in making everyone as comfortable as possible. I do not think this is necessarily bad. I am not treading the path of any one spirit or god, but rather, I am making my own. This is the way that we in the Celestial Empire act.”

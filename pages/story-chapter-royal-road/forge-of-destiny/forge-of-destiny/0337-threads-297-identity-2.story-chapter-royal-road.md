@@ -1,0 +1,99 @@
+---
+id: e2f522e5-91fd-5a63-8ae3-bf43c190ac2d
+page-type-slug: story-chapter-royal-road
+title: "Threads 297-Identity 2"
+slug: 0337-threads-297-identity-2
+partOf: forge-of-destiny
+position: 337
+ownLength: 1409
+unit: words
+publishedAt: 2023-04-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1169195/threads-297-identity-2"
+royalRoadId: "1169195"
+---
+
+“I’ve been ignorant,” Ling Qi said. “My world was small, barely larger than what lay before my eyes.”
+
+She thought of scrabbling for food and shelter, never able to look up, barely able to look around. No time for anything not immediately relevant. It was an awful way to live and one which no person should have to endure.
+
+“You didn’t stay that way for long.”
+
+Ling Qi furrowed her brows at Sixiang’s words. Was that really true? Without being on the edge of death, she had been able to pause and think, but she hadn’t gotten better at first. In many ways, she was still incurious, tunnel visioned on what was right in front of her.
+
+But that wasn’t good enough for who she was now. There were too many ways to be blindsided, too many ways to misunderstand or stumble. The world was wide, and there was so much in it. It was frightening to admit that she ultimately understood little. She was only just beginning to piece together concepts of why.
+
+She didn’t think she’d be able to achieve her goals, if she couldn’t even answer such simple questions.
+
+“A person’s ‘why’ is anything but simple,” Sixiang drawled.
+
+“Maybe,” Ling Qi said, looking up to meet Shu Yue’s black gaze. “I want to suss it out anyway. And while I can’t disappear entirely like you do, Shu Yue, I’m still quite good at getting into places I’m not supposed to be in. But I wonder if I can really consider it theft if I don’t intend to take anything.”
+
+“That is a thought you will have to interpret for yourself. It is outside of my expertise,” Shu Yue said.
+
+Ling Qi nodded absently, but she found her thoughts coming back around again to a question she had already asked.
+
+“You really don’t control them at all? Change them?”
+
+“I become. Change or control in the way you mean it would be at cross purposes with this, but…”
+
+“But?” Ling Qi echoed.
+
+“Is it possible to observe a thing without changing it?” Shu Yue mused. “Or rather, what we, who have not found our ultimate truth and become Law, say what ‘I’ is.”
+
+“I think we can,” Ling Qi said slowly. “We change and grow, but while I am not the same as I was a year ago, I am still Ling Qi.”
+
+“Yes. This is the common answer. I am unsatisfied by it,” Shu Yue said. Ling Qi sensed no rebuke in their words.
+
+Shu Yue stepped up to the trunk of the cherry blossom tree, sliding their fingertips along the bark. “I have been many, many people, though Shu Yue recalls only the faintest echoes of most,” they said thoughtfully. “I, Shu Yue, have observed mortals, seen them crawl from the cradle and fall to the grave. Countless, countless candles in the dark. I have endeavored to understand what ‘I’ is more deeply than any being born with such a concept, I think. That may be arrogant.”
+
+“I don’t doubt your experience,” Ling Qi said.
+
+They hummed, continuing to trace the contours of the bark. “‘I’ is malleable. A sharp blow, a trauma, may remake a man entire. An extended hand might do the same. Or it may not. You may observe a mortal throughout their life, and there will not be a single moment which you can isolate and say: This is the truth.”
+
+Ling Qi listened as Shu Yue mused.
+
+“A cultivator is different. Ultimately, what we seek is to freeze one single moment, one unchanging ‘I,’ and burn it into the world that we may never be forgotten.”
+
+“You make it sound…” Ling Qi hesitated. “So domineering.”
+
+“What is power, Ling Qi?” Shu Yue asked, turning to face her.
+
+Ling Qi blinked, taken aback by the question. “I’m not sure you can say it is any one thing. It can be strength of the arm, the charisma of a leader, wealth, or the will of many coming together.”
+
+Shu Yue rubbed their fingers together thoughtfully. It made a dry, dusty sound. “A better answer than most would give. But you err.”
+
+“How so?”
+
+“Power is all the things you describe and more, but that does not mean they are not without commonality. Let me give you a small insight, a word passed from my master’s ears and now, to yours,” Shu Yue said. “Power is the ability to effect change.”
+
+The world, or maybe her vision, darkened, the shadows of the garden pooling deeply, a chill wind blowing.
+
+“Power has no morals, no justice. It is not good or evil. It does not corrupt nor purify. What a person is with power is only themself given the opportunity to do as they please. It allows one to effect or resist change, to push the world forward or back.”
+
+Ling Qi hunched her shoulders. “That seems like such an empty statement.”
+
+“It is only empty if the lack of meaning discomfits you. It is merely a stripping of pretension,” Shu Yue said. “It is to the interest of those who hold and wield power already to assign it deeper meaning, to condemn its seekers and exalt its holders, to divide and define and create twisting justifications and condemnations as it suits them. But there is a reason cultivators who achieve the highest realm are called ‘sovereign.’ We, even the most benevolent or retiring of us, have accepted that we wish for dominion in some way.”
+
+“And what does this have to do with our lesson?”
+
+“Identity. What one believes is truth. What one seeks to do, what power, great or small one seeks to exert upon the world. This is ‘I.’ A mortal has the benefit of changing day to day. You do not have this luxury. It is the treasure in the vault you will seek in your skulking, and it will be needed to understand yourself. What do you want, Ling Qi? What dominion do you seek? What is your power for? Answer that, and perhaps whatever you seek in the depths of dream will not break you.”
+
+Ling Qi grimaced, not surprised that Shu Yue could detect the truth of her intentions. While she no longer needed this place to enter the dream, she had gone on several dream quests from this location. It was still, for her, the best place to undertake a dangerous quest like the nightmare tribulation that the Emerald Dancer had warned her of in the Dream of Xiangmen.
+
+“You still don’t have to do this now, Ling Qi,” Sixiang said. “You have so much going on. A couple months before diving into the deep end won’t hurt.”
+
+Now, who was the one getting cold feet? Ling Qi thought fondly. She had decided. She couldn’t go into the final stretch of this summit while this internal conflict persisted.
+
+But Shu Yue wasn’t condemning her choice or trying to talk her out of her trial. They were trying to make her reflect, to think on an idea pertinent to both this art and a descent into the most dangerous parts of the liminal.
+
+What she wanted was born right at the beginning of her journey, wasn’t it?
+
+Miscommunication had led her to run away from home because she didn’t understand. She hadn’t understood that mother had been protecting her in the only way her weak power allowed. Miscommunication had continued in the Sect. Her own ignorance had meant that she deceived without knowing, nearly costing her her best friend. Xiulan had been driven to nearly kill herself trying to keep up with her. In the Inner Sect, her own paranoia and assumptions had stunted her efforts to connect with her peers.
+
+She didn’t accept responsibility for the actions of others, but it didn’t excuse her from not understanding what her choices did and how they affected her world. She didn’t want to be lost in the mist and shadows of ignorance.
+
+And in the end, her Want was to reach out, to grasp and hold and keep a Community and Home. Want was the purest expression of life, of choice, of will. To lack Want was death by another name
+
+“I want to make people understand and speak. Even if the communication changes nothing. I want to understand and be understood. I do not want to fight battles of ignorance,” Ling Qi said.
+
+“An acceptable seed,” Shu Yue said, offering an acknowledging nod. “Now, let us begin.”

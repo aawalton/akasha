@@ -1,0 +1,111 @@
+---
+id: e965f0f7-c2e7-5f2f-b8e8-c9f9c6cb0a03
+page-type-slug: story-chapter-royal-road
+title: "Threads 62 Dressmaker 2"
+slug: 0079-threads-62-dressmaker-2
+partOf: forge-of-destiny
+position: 79
+ownLength: 2047
+unit: words
+publishedAt: 2021-03-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/649038/threads-62-dressmaker-2"
+royalRoadId: "649038"
+---
+
+Soon, they arrived on Cai Renxiang’s doorstep, and the door swung open on its own as they arrived. Heading inside, they followed the beacon that was the other girl’s qi toward her study. Inside, Ling Qi found her liege seated not at her desk as was usual but in the more comfortable chair on the other side of the room. She was putting aside a rather thin volume bound in blue leather.
+
+“Welcome,” Cai Renxiang said evenly, lowering her head slightly toward Meizhen. “My apologies for my inattention.”
+
+“It is no trouble,” Meizhen replied graciously. “Although I am surprised.”
+
+“Even I may become briefly distracted when immersed in a favorite,” Cai Renxiang said mildly. “I completed my cultivation some ten minutes ahead of schedule, so it seemed an opportune moment to revisit it.”
+
+Ling Qi slid into the room behind Meizhen, offering a silent bow to her liege before they made their way out to the sitting room where three chairs were arranged in a circle. Beside each chair was an end table stocked with embroidery supplies. Ling Qi eyed the needles tentatively; she had not had cause to touch anything of the sort since her patchwork modifications to her first disciple robe. Ling Qi wanted to try immersing herself in the interests of her best friend and liege, and with both of them interested in sewing, this was probably the best point to start.
+
+As they took their seats, Ling Qi said, “I admit, I am curious as to what sort of book could distract you so, Lady Cai. You are not much inclined to leisure.” She picked through the pieces that had been made available for her to embroider and was very glad that she had spent some time with Sixiang earlier to refresh her memory on how this sort of picky stitching worked.
+
+<Well, you’ve got the fingers, but I’m always here for ideas,> Sixiang laughed.
+
+“She is not wrong,” Meizhen said evenly. She had selected a plain sash of dark green silk to work on and was now rifling through the colored thread.
+
+“I have had little time, it is true,” Cai Renxiang agreed. Glimmering gold thread snaked into the air from the basket beside her, levitating in front of her eyes for inspection. “Since I began my preparations for entering the Sect and public life, some matters have fallen by the wayside. Although I called it my favorite, in truth, this is the first time that I have had the opportunity to return to its pages in more than five years.”
+
+Ling Qi knew that Cai Renxiang was older than her by a few months, having turned sixteen in the last month, but that would mean the book she had been reading was one she had picked up at ten or eleven. If her liege was a normal girl, she would wonder what kind of storybook it was. As things were, well… Ling Qi selected a dark blue hair ribbon for her project. “Please, my lady, do not keep us in suspense.”
+
+Cai Renxiang arched an eyebrow at her, but no rebuke was forthcoming. It seemed that this was a private enough affair that some casual speech was acceptable. “It is titled ‘The Analects.’ The text is a collection of short, anecdotal statements and exchanges between a first dynasty scholar by the name of Kung and his disciples, as well as surviving fragments from a number of other books authored by them. He was quite an insightful man in many regards. I regret that the volume is incomplete.”
+
+“I feel as if I might recall the name,” Meizhen mused, beginning her needlework. “Something to do with the early reforms of the ministry systems?”
+
+“That effort was spearheaded by a student of the author’s surviving disciple. The volume itself is rather obscure. My own is a mere copy of the original which Mother has in her personal library,” Cai Renxiang explained as her needle threaded itself.
+
+“Why incomplete then?” Ling Qi asked. “I can’t imagine that the Duchess would stand for that.”
+
+“Even my honored mother cannot pluck the lost words of dead men from ten thousand years past from the air,” her liege said, a very slight edge of dryness in her words. “The scholar Kung was a resident of Chou county.”
+
+Meizhen winced, but her needles didn’t falter. “Bai Wulin’s third clash with Shang Tsung, I presume?”
+
+Cai Renxiang nodded. “The province was thoroughly destroyed by the clash between the honored general and the Usurper. What I have only exists because one of the disciples was away from the capital on an errand at the time.”
+
+Even Ling Qi had picked up enough history to have at least a vague idea what they were talking about. The First Dynasty had ended in a civil war between branches of the Imperial house, resulting in the destruction of many archives and libraries. The Shang, as the usurpers had called themselves, had been bent on destroying pre-Imperial and early Imperial works.
+
+<The pale pink would be a good contrasting color to add,> Sixiang suggested as Ling Qi picked through the threads.
+
+“So, what is the book about?” Ling Qi asked as she took Sixiang’s advice, adding the spool to the colors she had picked out. Now, she just needed a pattern.
+
+“The scholar muses on the foundational elements of society and governance and how they arise from the vagaries of interpersonal relationships,” Cai Renxiang answered. Already, the shapes of golden and black butterfly wings were taking shape on the silk in her hands. “I find that I have a new perspective on things with this reading and that I had ignored some insights to my detriment during my time at the Sect thus far.”
+
+Ling Qi would hope so; the text didn’t sound like the sort of thing a ten year old was really equipped to parse, no matter how prodigious. She was not going to say so though.
+
+“I believe you have done better in your tasks than could have been reasonably expected given the chaotic elements at play,” Meizhen noted. “It is good to be critical of oneself, but only to a point.”
+
+Cai Renxiang absently acknowledged the words, and Ling Qi got the feeling that Meizhen had said as much before. “I disagree, of course. My failures arose from inflexibility, presumption, and compromise of my ideals. As the Scholar Kung said, ‘One who has committed a mistake and does not correct it is committing another mistake.’”
+
+“A fine statement indeed,” Meizhen replied blandly. “Learn from the past certainly, but keep your eyes forward lest the future plant a knife in your back. The past is inviolate. You cannot change it, only act on things as they are.”
+
+“You speak as if I am a madwoman, ready to destroy myself in battling the flow of time and not one merely engaging in self reflection,” Cai Renxiang said with faint exasperation.
+
+“You have corrected your errors in perspective and reflected quite enough. I merely worry that you will mire yourself in such musing and become your own obstacle,” Meizhen shot back.
+
+Ling Qi watched the two girls speak; the dynamic was different than she expected. It was strange. Her liege seemed more… personable with Meizhen. Some old ember of jealousy flared in her heart, but for who or for what, she wasn’t sure.
+
+“While I can’t speak for my lady, I have found some success in self-reflection,” Ling Qi offered.
+
+“Grudgingly,” Sixiang added in amusement. “And with much prodding.”
+
+“And I will not gainsay the value of that,” Meizhen said with a huff. Glittering silver threads had begun to create an intricate geometric pattern on the silk in her hands. “We, the Bai, are engaged in such matters ourselves at the moment.”
+
+“The branch clans are continuing to be troublesome?” Cai Renxiang asked carefully.
+
+“The Violet Corals have been convinced to accept infrastructure funding to expand their coastal holdings, but the Blue Cobra and Yellow Boa remain aligned with other members of the family. That is not to speak of the troubles the Green Asp are making regarding the recent border incident. Many of the Bai are not taking the opening of borders and the exchanges with Emerald Seas well.”
+
+“Worrying. The Meng and some elements of the Diao have been making dissatisfied noises as well, according to the reports mother allows me. Of course, Minister Diao will not allow too much defiance from within her clan, but the Meng are a concern,” Cai Renxiang said. She then looked to Ling Qi. “How have your meetings with the Bao gone?”
+
+“We have not discussed politics much,” Ling Qi admitted, noting the interested look she received from Meizhen as well. She glanced down at her work to buy a moment to compose her reply, noting with some frustration how clumsy her own project looked compared to theirs. The snowflake pattern that she was working at was good for mortal work, but it seemed dull compared to the shifting pattern Meizhen was working on or the seeming living butterflies that fluttered across the pale blue cloth of Cai Renxiang's piece. “We spent most of the time discussing financial matters. Bao Qian seems like a talented young man; it does not seem like a wholly idle offer from the Bao.”
+
+Meizhen hummed, giving her a suspicious look. Of course her friend would detect her mixed feelings on the matter. “Miss Bao seems to believe that her brother is serious about the matter,” she said.
+
+“A hopeful sign. The true intentions of the Bao clan can be somewhat difficult to pin down. They were among the last of the counts to give open support to mother against the Hui, but they were among the most enthusiastic in the aftermath.” Cai Renxiang shook her head. “That reminds me of the matter which led to my invitation however, Ling Qi. You require further outfitting.”
+
+Ling Qi blinked, not quite sure what to make of that. “I beg your pardon, Lady Cai?”
+
+She caught the faintest touch of a smirk on Bai Meizhen’s lips. “I believe what Cai Renxiang wishes to say,” she interjected smoothly, “is that it is past time for you to acquire further accessories.”
+
+“I approve of your desire to remain at top battle potential at all times,” her liege continued seriously. “However, it is possible to retain your potency while not presenting too stagnant an image.”
+
+Sixiang started giggling, the traitor. “... I see. Might I ask what your plans are, my lady?”
+
+“I have scheduled an appointment with Lin Hai, the man who designed your gown in its original state,” Cai Renxiang explained crisply. “The three of us will proceed to his workshop on the last day of the month. I wish you to be equipped before your next assignment.”
+
+Ling Qi frowned. Her next scouting assignment would see her detached with a small group to defend an outlying mining village in Sect territory, so she would be away for some time, but she did not see what the hurry was. Unless…
+
+Meizhen chuckled, and even Cai Renxiang looked briefly amused. “Yes, we will be acquiring more than just mundane accessories. We both require improved talismans. Mother has given me a small dispensation for that purpose.”
+
+“And in a gesture of trust, Aunt Suzhen has agreed to fund a commission from an Emerald Seas master,” Bai Meizhen added. “So I am not merely along to prevent you from doing something silly.”
+
+“What is that supposed to mean?” Ling Qi asked, giving her friend an aggrieved look.
+
+“The last time you commissioned talismans for yourself, one of them was that silly hairpiece that spat blinding dust,” her friend said with a sniff. “I will see you becoming dignified, even if I must hold your hand the entire way.”
+
+“That aside,” Cai Renxiang said, cutting off any further squabbling, “consider what kind of piece you wish for over the next few days. There are many options. While Lin Hai is not my mother, able to spin a peerless blade from thread, he is nonetheless not limited to wholly cloth goods.”
+
+Ling Qi shot Bai Meizhen a slightly sour look, but her friend did not look apologetic at all. “Of course, Lady Cai. Thank you for your invitation.”

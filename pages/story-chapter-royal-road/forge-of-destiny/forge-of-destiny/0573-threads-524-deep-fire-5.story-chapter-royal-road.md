@@ -1,0 +1,113 @@
+---
+id: 6c53c51f-f42c-5677-aabf-a50d79a84e2f
+page-type-slug: story-chapter-royal-road
+title: "Threads 524-Deep Fire 5"
+slug: 0573-threads-524-deep-fire-5
+partOf: forge-of-destiny
+position: 573
+ownLength: 1836
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3481254/threads-524-deep-fire-5"
+royalRoadId: "3481254"
+---
+
+She turned her head, meeting Meng Dan's eyes through the mist, and the moment they fell upon her, she had to fend off a half dozen slivers of qi that tried to slip into her channels. He was good, but Huisheng was much, much better.
+
+Did his techniques descend from the same ones the old ghost used?
+
+She paused as something fractured in the liminal and faintly in reality. Angles became subtly wrong, like the world was a mirror that had suddenly developed cracks.
+
+Now, what was this?
+
+His brows were furrowed in concentration, staring directly at her, and she tilted her head, smiling behind her flute, in the way she had noticed made his eyes catch on her hair spilling over her shoulder. Not a twitch. She supposed it was too much to expect him to be distracted when they were being serious.
+
+She twisted through space in a dance that whorled her out of the path of Xia Lin's next charge, slipping halfway into the veil between reality and dream.
+
+And like when Meng Duyi had trapped her, she found the liminal changed. Through the veil, she glimpsed a maze of rippling waters, walls like the surface of ponds and lakes cast in glass, connected to no shore nor visible depths.
+
+She spun her dance through, aiming to emerge behind Gan Guangli, who was squaring up with the rising bear construct. Multiple of her wolf constructs gnawed at his feet and ankles.
+
+She reemerged from the liminal about half a meter to the right of where she started.
+
+Green light flared, black silk writhed in agitation, and Qiyi expanded across her body. Her full battle regalia formed in an instant of impact and the scream of metal across metal.
+
+She tried to disincorporate herself but found her body locked in shape by bands of harsh metallic light. Xia Lin's faceless helm stared down at her, reflecting her own face, as the girl kicked off the air and rammed her halberd down beneath Ling Qi's ribs like a vaulting pole. Ling Qi crashed into the packed dirt with a boom of thunder.
+
+She writhed free of the light's grip, dissolving into wind. Ling Qi had been exclusively relying on her dreamwalking recently, but she knew more than one way to dance. She slipped through the bars of Meng Dan's cage as naught but a laughing breeze and flying shadow.
+
+He had the right idea. She couldn't be bound or stilled, but she could be redirected. She would have to remember that weakness. His puzzling mathematical alterations could likely apply to this technique, too, if she gave him time to formulate it.
+
+Ling Qi wondered if he could twist her path with both at once. She didn't think so. Meng Dan was quite skilled, but he wasn't a gnarled elder like his Uncle Duyi just yet.
+
+Even with the still clinging green qi in her veins healing her, her ribs still ached. Xia Lin's impacts reverberated, ringing through her defenses the same way a mace would impact through a plate of mundane armor. Each hit from the girl tore through a hefty amount of her qi, despite Qiyi’s assistance.
+
+Xia Lin had her strengths, too. She was the shattering spear that launched ahead, crushing armor and breaking formations to pave the way.
+
+Ling Qi rematerialized mid-twirl, the hem of her gown flaring out. The tight mesh weave that covered her from neck to toe beneath all her layers now was still an unfamiliar sensation, as was the veil that fluttered over her face, opaque from the outside, but wholly transparent to her.
+
+The impact of the bear construct's paw across Gan Guangli’s chestplate was like the strike of a temple gong. It was returned by the retainer’s own bellow and the meaty impact of six fists beating against fur and muscle. Reared up on its hind legs, the shadow of the bear god still towered over her friend, but he has grown to the height of its chest. Gan Guangli was truly a giant now, and she knew that the staff on the upper balconies would probably be distracted, looking out at their display, even with the sound-dampening formations.
+
+Ling Qi felt the intrusion of a sliver of Meng Dan's qi. Rapidly, she spun the tainted energy off, and her form dissipated into an explosion of croaking, flapping crows. Xia Lin tore through them in a bright arc a bare moment later, her feet screaming across empty air and kicking sparks as she turned, tracking the construct that contained the tracking qi.
+
+That would buy another handful of seconds. She could already feel the threads of Meng Dan's qi, like rays of starlight sweeping and scanning through her mist.
+
+Ling Qi turned her eyes back to Gan Guangli where he clashed with her construct over and over. The potency of the Bear God was such that a construct infused with his might could not be duplicated. As she mastered it, she would be able to mold different forms, but she would still only be able to maintain a single one of it.
+
+The bear god fell in the face of a hero's might. Tsu the Diviner was a speaker and an astrologer. His reputation was not that of a mighty warrior. However, against the implacable force of the Bear God that had no attention for words, nor attention for the peoples it trampled, he, too, had doffed his robe and strode out to war with muscle and fist.
+
+Violence, too, was its own form of communication.
+
+That was the way of this world. No cultivation was so peaceful, so separate from struggle that it could not translate into violence, physical or spiritual, at the extremis.
+
+Tsu's truth was not that of the singular hero, though, shouldering the weight of the world alone. The Bear God, the force of a world apathetic to suffering, could not be stayed by one set of hands alone. For days and nights, Tsu had suffered and been broken by that crushing power, all while never retreating an inch, holding it so that those who stood at his side slew the great beast through a thousand cuts, slaying calamity as only men could. Together, with patience.
+
+An ursine roar trumpeted across the field as the shadow filled with a new surge of power, sipping deeply from the well of her qi. It sent Gan Guangli toppling onto his back with a boom that made the whole field seem to jump. Such was the dirge of the Bear God, the grinding struggle of calamity worn down, not even noticing the endless pinpricks which spilled his blood to the last drop.
+
+More importantly, Gan Guangli would not be going anywhere until the others had a chance to free him. It locked up a good portion of her qi as well, but it still gave her an opening.
+
+Not a long one, though. She didn't doubt that Meng Dan knew the story well, even if he couldn't just directly analyze the technique with a few moments' concentration.
+
+“Sixiang, I need you to distract Xia Lin. Jump into this wolf when I empower it, then lead the pack and harry her. Buy me some time,” Ling Qi thought.
+
+“Ugh. That light's gonna sting," Sixiang complained. But they didn't say no.
+
+Ling Qi smiled, feeling the contours of the maze of bent space and dream around her, an ever-shifting labyrinth. She could see sweat on Meng Dan’s brow. This was a more complicated trap. A quick wind jaunt wouldn't do the trick here.
+
+She might not be able to reach him and sing winter right into his handsome face, but her Mist was all around him.  She had an option.
+
+A wolf howled, and it echoed through the field, answered by a score or more from the mist.
+
+Xia Lin's armored foot ground back through the dirt as a horse-sized wolf crashed down against her upraised weapon haft, jaws biting down and paws scrabbling the dirt. Massive wings of rainbow feathers beat behind it, spreading a rippling glitter of disorienting lunatic qi. Dark-furred bodies poured in in a wave behind it, howling and barking.
+
+Ling Qi let herself dissolve into a breeze, and a current of schooling fish rushed through the maze's corridors. She didn't let herself stay still for even a moment, bouncing the core of her qi wildly through the chaotic mess, straining the spatial and spiritual maze Meng Dan had summoned around her. She could feel his attention flicking from one place to the next, repairing damage done by her gnawing, dispelling fish constructs. He was quick about it, but in the end, she only needed a single gap.
+
+The wind thief slipped through, and she stood behind him, a frozen serenade building in the back of her throat. Mist spilled from her parted lips.
+
+"Ghhk, Boss! Alert, Boss! I pissed her off! Lin-lin's a tornado made of knives and pain!"
+
+There was no rumble of shattering air this time, and she only just felt the surging of qi before the impact.
+
+Light. It wasn't like Cai Renxiang's bleaching, expansive beams and blasts. Xia Lin’s light was narrow, focused, and concentrated.
+
+Ling Qi had never imagined what it would be like to be punched in the jaw by a ray of light, but she could now say she had the unfortunate experience. Mist parted in expanding concentric circles, and Ling Qi felt herself hit the barrier at the edge of the field. The seal cutting off the sparring field from the gardens rippled with the impact, flaring bright and visible as the formations strained.
+
+Another impact, a second, a third, a fourth, multiple strikes between eyeblinks landed on her form before she had the time to think of an increment of counting. Qiyi let out an unhappy cry, her own qi wavering as the point of Xia Lin’s halberd pierced through silk to bite into her qi directly.
+
+A blizzard erupted around her, clashing against the relentless whirlwind of light.
+
+"Seizing control." Yinhui's voice drifted in and out on currents she wasn't supposed to hear.
+
+"Hoh! Thank you, little miss!"
+
+Ling Qi wrenched herself away from Xia Lin, hurling herself sideways through the liminal, bleeding a streak of qi.
+
+She met a stoic golden face there, surrounded by golden hands that were arrayed like a blooming flower’s petals.
+
+Ling Qi smiled wryly. She didn't see Jinzha, Gan Guangli's sun spirit, often. He was taciturn, or shy. Possibly both.
+
+She didn't have time to avoid the impact of hands. Blazing solar qi ejected her out of the liminal, right into the swinging path of an immense bear paw, now etched with silver markings. It smashed her into the ground.
+
+Ling Qi sprang up, whirling through it, unable to be held, then stumbled right into a maze that staggered her and split her attention and thoughts down different corridors. A dozen distorted angles greeted her.
+
+Golden palms cut out the light. Impact. A plume of dust.

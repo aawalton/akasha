@@ -1,0 +1,119 @@
+---
+id: 90ea1524-29b9-5c4b-bcef-52b452bf5844
+page-type-slug: story-chapter-royal-road
+title: "Threads 501-Temple 1"
+slug: 0549-threads-501-temple-1
+partOf: forge-of-destiny
+position: 549
+ownLength: 1901
+unit: words
+publishedAt: 2026-02-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3072967/threads-501-temple-1"
+royalRoadId: "3072967"
+---
+
+The dawn of the next day came rather late the next day, all things told. Of course, the sun still rose on its mark, but there were very few in Xiangmen to rise with him. The whole of the city lay in the throes of the recovery from the riotous celebration of the wedding day, from the lowest fieldhand out on the root hills to the highest nobles up in the cloud district.
+
+And she did mean the highest. She did not think there was any person in the Emerald Seas who would dare intrude on the Duchess' chambers before the new brides were ready to leave of their own accord. The planners for the day had known this, and so had gone with something of a “flex schedule,” as Cai Renxiang had explained to her with just a little disgruntlement.
+
+"You are all looking very spry today," Ling Qi greeted lightly, entering the dining room where her fellow retainers were gathered. It wasn't even that much of a jab. Gan Guangli was holding his head, rubbing his temples, and Cai Renxiang's eyes were a touch narrower than usual.
+
+Xia Lin was impeccable, of course, and she was pretty sure that Meng Dan had probably disheveled his hair on purpose. Her suspicion, she felt, was confirmed when he caught her looking and smirked.
+
+"Indulging like this is sometimes necessary to fulfill expectations." Cai Renxiang sighed. "I see you had your own, less conventional indulgences."
+
+Ling Qi swept her way to the last open seat at the table, sliding in between Meng Dan and Xia Lin. "Training can be rough sometimes, but the lesson took."
+
+"As expected of Lady Ling, to cultivate through the night and not show a spot of exhaustion in the morning!" Gan Guangli laughed.
+
+Cai Renxiang glanced over her one more time, clearly noting the slightly strained nature of her smile, and nodded.
+
+The scent of the simple breakfast fare was rich and tempting to her nose, the various buns and pastries set out for early refreshment each tantalizing in their own way. She plucked a plum dumpling dusted in some light brown seasoning from the paste, and bit in, humming happily.
+
+"Oh, what is this?" Ling Qi wondered, blinking after swallowing the first bite.
+
+Meng Dan glanced over to the bun in her hand. "Hm? The seasoning? Cinnamon, I believe. There are a few places it grows in the Meng lands, but it mostly comes from the Thousand Lakes."
+
+"Ish good," Ling Qi declared.
+
+Xia Lin leaned forward in her seat and took one of the dumplings as well.
+
+"So, we're on call for the temple tour today?" Ling Qi asked after polishing off the snack. She considered her slightly sticky fingers but used the provided cloth to wipe them off. They could be informal here, but not that informal.
+
+"Correct," Xia Lin said, around a mouthful of her own dumpling.
+
+"The diviners estimate we will begin in no more than four hours," Meng Dan said.
+
+"There are diviners at work on that?" Gan Guangli asked with good humor.
+
+"Of course there are," Meng Dan replied.
+
+"As Baroness Ling is now here, I do have some business to discuss. While it was not a high priority in the lead up to the ceremony, now that we are merely waiting for the second day's tour to begin, I shall share the reports from Shenglu regarding the progress of projects there."
+
+They all made sounds to the affirmative, and Gan Guangli poured himself a cup of fresh water, and Xia Lin and Meng Dan filled their plates.
+
+"Temple construction, as I recall," Xia Lin said.
+
+"The structures for Snowblossom Lake and the geyser, Boiling Deep, '" Cai Renxiang agreed. "The latter is mostly in improving accessibility to the site. Your spirit's regular route has driven away most hostile spirits along it. The priests tell me that his authority is strong where he walks with such regularity, but paving a path, installing stairs along the steeper slopes, and providing some outbuildings at the site for ritual supplies will assist in establishing his authority."
+
+"That is good to hear. I am glad Zhengui is finding things to help with the fief while we are all away. I take it that there were no unexpected problems with the lake shrine?"
+
+"Nothing of note. Some minor exorcisms needed to be done, and there were corrections made in some rites for the priests being trained, but nothing which has altered the schedule. It will all be ready by the time we return," Cai Renxiang replied.
+
+"The last item was refilling our local supply of construction materials," Meng Dan said. "There's not yet enough local production of wood and stone to keep up with all of the projects being enacted, or so I understand."
+
+"The workers are doing their utmost, but a properly built wall is material hungry, let alone everything else. There are not enough people in the fief yet, despite the enthusiasm of those who have arrived," Xia Lin supported.
+
+"My allowance as an heir does allow us to skip many steps and achieve efficiencies that a more normally funded settlement could not," Cai Renxiang observed. "The bottleneck is the supply lines and roads in the south. Going by my clerks' reports, we should have enough to see us through several more projects.”
+
+"What of Meng Duyi?" Ling Qi asked. "We did not hear back from him last time."
+
+"Yes, how is my kinsman doing?" Meng Dan asked. "I recall hearing praise for him in correspondence."
+
+"Meng Duyi has continued to monitor the situation at our quarry location and the special methods being used. The workers have adjusted well to the requirements, and several have been identified as minor cultivation potentials." Cai Renxiang shuffled through the documents in front of her. "It seems he was able to aid in an initiative by our subordinates as well. A reliable method for harvesting the cold-aspected clay from the lakeside has been found. Little can be done with it yet, but the raw material is being dug out, cut, and stored now."
+
+"It is good that the ones we left behind were wise enough to seek the advice of such an expert, and more fortunate that Sir Meng was willing to indulge outside the bounds of his contract." Xia Lin cupped her chin thoughtfully. "It is generous of him."
+
+"Uncle has been enjoying his time, or so I hear," Meng Dan said. "I admit, I am more surprised by the note on cultivation talents. How was that discovered? What is this 'special method’?"
+
+"Weaving work songs into rites for the spirits of earth and water active at the quarry site, and a small channel dug to allow the stone to be floated down to the lakeside for use," Ling Qi answered. "It's very beneficial, as long as everyone can perform their part correctly."
+
+"A small number among the foremen, who showed the most aptitude for the work-rite, have attracted some minor spiritual attention," Cai Renxiang said. "That is the indication of talent spoken of."
+
+"Interesting. It will lose some effect once the spirits settle into the new routine, but quite a useful side effect," Meng Dan mused.
+
+"Indeed! It would do us well to be able to bolster our home grown cultivation pool," Gan Guangli enthused. "How have our soldiers been doing?"
+
+"With the sect forces guarding the borders, they have been focused on spirit management. Nothing like the fires has occurred. There have been some minor injuries and one major injury in an altercation with a second realm bear, but nothing irrecoverable." Cai Renxiang scanned the last of the letters in her hands. "The question, then, is what instruction we are to give as the current projects finish."
+
+"After the fires that resulted from that pocket of bad air raised by our other geomantic projects, we should not put off local forestry further," Xia Lin raised.
+
+"Agreed," Gan Guangli supported. "We do need further local jobs if we are to attract more people. Keeping the local forests managed and cut back is a good way to do so. We may be able to get good reagents as well. I recognize several types of resin-producing trees in the region."
+
+Ling Qi mirrored what her friend had done a few moments ago, snatching one of the buns Xia Lin had taken. The dough was very crisp and airy. Biting into it, she let out a happy hum. Such a rich flavor… The chicken meat was soaked in a sauce and spices she didn't recognize.
+
+"It would be good to have better eyes in the woods. I don't think such fires are going to be unheard of, and getting a better idea of the hierarchy of bests in the region will be useful, too. Zhengui has told me some things, but he doesn't necessarily think of the specifics that we would be interested in knowing."
+
+Her little brother tended to take a broader view of the region rather than identifying individual beasts, packs, and trails.
+
+They all glanced at Meng Dan, who bowed his head deferentially. "I appreciate the inclusion, but not having been on site, I do not think my advice here is meaningful."
+
+Cai Renxiang nodded crisply. "Investing in forestry infrastructure then. There has always been a small amount at the initial campsite. It will be expanded while work at the geyser shrine continues. Other items?"
+
+"We put together the temple boat ad hoc, but assembling a workshop on the docks for boat building could be useful to the fishers," Ling Qi proposed.
+
+"Locally sourced iron for tools would enable our citizens to develop themselves more independently of our central efforts. Metal is the soul of industry," Xia Lin said.
+
+"I believe outfitting the farmlands with the full suite of modern tools would be better. We should secure good plows and the animals to pull them. Acquiring poultry would improve diets, and households will need a supply of the many hand tools to function well. Supply caches to enable them to make repairs would also be useful," Gan Guangli advised. "Self-sufficiency is good, but I think it is our duty to provide the seeds for that first."
+
+"A fair point," Xia Lin allowed. "I suppose I would wish for more time to review the mining sites for patrol adjustments."
+
+"Most of our people remain on the fields, which will likely remain the case for some time. I concur, space and infrastructure for a mill should also be considered at this point, given growth." Cai Renxiang made a note.
+
+"Ah, well, boats later, I suppose," Ling Qi said easily. Her specialty was in the shrines' infrastructure. These more down-to-earth logistics were more Gan Guangli's field. She was, after all, a city girl, even if one that the city hadn't particularly wanted.
+
+She began to reach for a pastry this time, covered in some kind of delicious-looking glaze—honey-based, maybe? She could smell the fruit jam filling, too. Naturally, it was at this time a paper messenger bird fluttered through the hall's open window, unfolding elegantly in front of Cai Renxiang.
+
+"It seems we should be getting to our places," Cai Renxiang announced after glancing at the paper. "The tour begins at the Temple of the Bountiful Earth."
+
+Ling Qi huffed and took the pastry. It was good. It was too bad it would be the last one, though.

@@ -1,0 +1,171 @@
+---
+id: 78928ccb-9e75-56ad-8e3a-925716700769
+page-type-slug: story-chapter-royal-road
+title: "Threads 365-Maps 6"
+slug: 0405-threads-365-maps-6
+partOf: forge-of-destiny
+position: 405
+ownLength: 2296
+unit: words
+publishedAt: 2024-02-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1533304/threads-365-maps-6"
+royalRoadId: "1533304"
+---
+
+"Meng Deming is satisfied with negotiations?"
+
+Cai Renxiang did not turn to her as she approached, remaining standing over the table with her arms folded behind her back. Her eyes were trained on the map, studying the tentative lines drawn on it and the pins marking points of interest.
+
+"He is not unsatisfied," Ling Qi corrected. "He also laid out the Meng’s position on the observatory. Scholars of Sibiar descent only."
+
+Cai Renxiang wrinkled her nose in annoyance. It only lasted a moment before smoothing away. "Understood. If you determine that we need to press them over it, inform me."
+
+"I don't think it should be a problem. I expect our guests to be more baffled than offended."
+
+"Good. We must address the claims of the Sun before we finish today."
+
+Ling Qi tried very hard not to let her headache show in her voice. "Yes. I was able to talk them down to a more reasonable starting point, but I fear that the extent of our land claims may have emboldened Princess Sun, regardless of whatever agreement I established with Ji Rong."
+
+"A calculated risk."
+
+"Ultimately, I do not believe the Sun truly want much in the mountains themselves given the vast resources poured into the mining sites."
+
+"And Gan Guangli's contacts in the Jia and Diao confirm that the majority of Sun and Jin resources are being placed into the construction of a grand port in the north," Cai Renxiang noted.
+
+"Then it’s just a matter of how difficult the princess wants to be."
+
+"We will not be able to truly claim most of what we have painted ours. There is no reason for the Sun to not want the same."
+
+Ling Qi grimaced. "And while they are not directly involved, the Sun deciding to advance on the south past agreed-upon bounds with the White Sky would…"
+
+"Degrade relations," Cai Renxiang finished.
+
+"Lady Cai enjoys her understatement."
+
+Renxiang merely glanced at her and assessed clinically, "This is a minor focus for the Sun. If they choose to be difficult, it will be in the future, and even then, well into it."
+
+"If Lady Cai is correct, then I will hold the Sun hard to the lines I spoke with Ji Rong about. Nothing in Freyja's Pass with claims radiating out a hundred kilometers or so from their mining sites, along with the vales here and here for fort construction… I don't believe this will give them cause to be openly insulted."
+
+"However, the Twisted Pines have more claims on their peaks. There will be some disgruntlement, if your reports are correct."
+
+Ling Qi grimaced at that. "I might be able to peel the Sun back a little more, but at that point, we risk them ignoring us."
+
+"And giving any further will attrition the gains you have so masterfully made here today." Cai Renxiang sighed. "We must…"
+
+"Stick to the negotiation I worked out with Ji Rong, regardless of however much Sun Liling pushes," Ling Qi agreed.
+
+"Yes. In the end, there is only so much we can corral the Sun. Buying their favor at the cost of opinion among the actual participants is simply not useful."
+
+Ling Qi smiled slightly and questioned, "Really, though. ‘Masterful’?"
+
+"No one shouted. Threats of violence were minimal and largely spiritual in nature. We have a tentative agreement on border lines," Cai Renxiang replied. "So, yes, masterful. I give compliments where they are appropriate."
+
+Ling Qi considered the many personalities here and dipped her head. "Still, you may need to take the lead more here. I might be your voice, but if Sun Liling gets it in her head to be stubborn, only you truly have the status to shut her down."
+
+Cai Renxiang acknowledged the point. "I have left this round to you as this is all very… feeling-based, unlike the previous week's negotiations, but perhaps that is for the best."
+
+"May I ask what is for the best, Lady Cai?" Gan Guangli asked as he approached.
+
+People were starting to drift back to their places.
+
+"That I speak primarily for us when we invite Princess Sun to the table," Renxiang replied. "We are not going to be permissive with the West."
+
+"I see the wisdom," Gan Guangli agreed. "Ah! The sects and the observers for the Jia are pleased. Thanks to the firm claims on so much buffering land, there is very little complaint, even from the Rushing Cloud Sect. I believe the Jia will be much easier to convince to invest into infrastructure and management now."
+
+"That is good," Cai Renxiang said. "Very well. It is time. Take your positions. Support me, but leave me the lead."
+
+"Yes, Lady Cai," they both affirmed, falling in behind her as they returned to the head of the table.
+
+When all of the delegates had settled into their positions again, Cai Renxiang rose from her seat to address them all once more.
+
+"Today, we have made excellent progress. Although the details must be worked out in following days to ensure that there is no confusion or discrepancies, we have achieved a broad consensus. Before we retire this day, there is another matter which we must see to. The Celestial Empire is vast, and we are not its only province, just as the White Sky is not the only territory of the Polar Nation. In the east, the Grave of the Sun presents an impassable barrier, and so that may be left aside. In the west, however, the province of the Western Territories and the territory of the Twisted Pines may come into contact. As such, some degree of agreement must be reached as to their border as well. Thus, I invite Princess Sun, representing her great-grandfather, King Sun Shao of the Western Territories, to this table."
+
+"And I cede my scepter now to Emissary Dzintara, Blade of the Twin Crescent Temple-Lodge," Jaromila followed.
+
+Dzintara rose from her seat. "Here and now, I speak now for Twisted Pines, my other home."
+
+"And I suppose I finally get to pry myself out of this chair," Sun Liling drawled from the observer's portion of the hall, rising to her feet. She was still wearing those snakeskin boots, and her heels clacked on the floor. Ling Qi eyed her warily as she crossed the room at a confident pace. A gesture from Cai Renxiang had a number of their functionaries clear space for the princess to stand across from Dzintara. The two faced each other as a second, smaller map was placed on the table, showing the far less expansive stretch of mountains in the west.
+
+"So, I hear your people are pretty tough,” Sun Liling said casually. “Don't think your woods are as hard as the jungle, but it doesn't sound like a bad camping ground."
+
+"I do not believe one should wish for one's land to be hard, but it is so. It has shocked us to learn of your conquest. Those in the further west, the Barrier Princes of Khusan, did not report any change in the jungle to us in our talks these last five hundred years."
+
+"Is that what the fellas in those ugly stone forts far out west are called? Maybe if they ever did anything but shoot at our guys, there'd have been something to talk about." Sun Liling shrugged. "Well, guess some of the more feral tribes that fled our soldiers are still acting up over there. We've been a bit busy taming the stretch that we've got."
+
+"But you desire the mountains all the same."
+
+"Course we do. Jungle's a lot of things, but a source of good building stone and metal isn't one of them."
+
+Ling Qi watched Sun Liling warily. Princess Sun was being pretty inoffensive, relatively.
+
+"And,” Cai Renxiang interrupted, “the southern border of the Western Territories has never been well defined."
+
+"True! Ain't been much reason until now." Sun Liling bent over the table and reached out, tapping a finger along the mapped mountains. "So, I'll be honest. We'd like all of this from the pass where your ancestor's sitting over to here with the—what did ya call them, the barrier princes?—over to the fort that sits here."
+
+Where she pointed, there was nothing shown on the map, but Dzintara's frowning expression showed no incomprehension.
+
+"That is far too deep. Unlike our brethren in the east, we have our own holdings in the mountains, which we will not give up. And the Axemother will not bear a foreign presence as close as you indicated. You claim to kill and harvest the Flower Demon’s flesh, but its stink is still upon you."
+
+Sun Liling crossed her arms. "Hey, now, that's a little rude."
+
+"Emissary Dzintara," Jaromila warned softly.
+
+The woman narrowed her eyes. "Your power is too similar. It will not be tolerated in this region. You may argue with the Axemother on this, for all the good it will do you."
+
+"I think it best if the Sun Kingdom remains in this region in the north, as your own representative said," Cai Renxiang said, gesturing to the map as well, outlining three overlapping radiuses around the sites of the Sun's new mines. The one closest to the main range cut a decent way into the mountains.
+
+"Rich, coming from the bunch who just added on a hefty third to their province. Am I really being unreasonable here?" Sun Liling wondered.
+
+"Princess, neither you nor your retainer placed conditionals upon our agreement," Cai Renxiang rebutted calmly.
+
+Sun Liling snorted, but surprisingly, she didn't take a more aggressive posture or tone. "Eh, fine. Not like we really need it."
+
+Dzintara glanced at Cai Renxiang and Ling Qi and tsked. "This is better, but the border needs to be pushed to… here, to avoid the goddess' wrath."
+
+"Dunno about that. We've been handling it pretty well," Sun Ling disagreed. "Our hunters are having some fun with those flying lizard things."
+
+"I assure you, if you remain there, they will not. The black zmeya are the least of Her blades," Dzintara replied challengingly.
+
+"Hm…. Sounds like you WANT to have a go." Sun Liling tilted her head and grinned, sharp toothed and glinting.
+
+"It would not benefit anyone. There are methods which can ward these creatures in a limited fashion," Ling Qi interjected. "Princess Sun, how many of your people is a few kilometers of unusable wilderness worth? None but your elites can even walk those lands."
+
+Sun Liling made an irritated face at her, but to Ling Qi's continued surprise, she didn't clap back with something else insulting. "Tch, suppose that's fair. Wouldn't do for me to be less concerned about our boys and girls than you are."
+
+Cai Renxiang regarded the Princess thoughtfully before returning her attention to the others. "Emissary Dzintara, where would you place the limits of your ancestor goddess' sacred land?"
+
+Ling Qi observed the soft murmuring of the other delegates and experts present. None spoke up as this really was a matter out of their hands.
+
+Dzintara frowned deeply, and Ling Qi caught the faint sound of grinding iron as her jaw worked. "Here, along the ridgeline. This is a defensible position. Should you prove to truly be harvesters, then perhaps we might speak on warding methods in the future, princess."
+
+Sun Liling's gaze flicked over the map. "Guess that would make a good line. If we're gonna withdraw here though, the Sun want this, the mountains flanking this valley further west. No complaints about us building up forts either, eh? You put in a word with those barrier guys too. Tell them to stop shooting those sun missiles at guys carrying our flag."
+
+"I can order no such thing, but our emissaries will inform them that there is a flag that can be spoken to."
+
+"Yeah, yeah, I get it," Sun Liling dismissed. "And the mountains?"
+
+"The mouth of that valley is acceptable, provided we come to an agreement over any road built further in."
+
+"Riiiight. Kinda far out in the future, but we gotta think like that, huh? Maybe you can stick a big gate on your end, too. High fences are good neighbors."
+
+"Agreed," Dzintara said coolly. "We will claim the lands along this line. There has been no need to codify our northern lands, so this is only making the truth official, unlike the primary negotiations."
+
+Ling Qi shared a brief look with Cai Renxiang. This was going well. It made her suspicious. Just what was Sun Liling up to?
+
+"It pleases me that this goes well. Do you have any objections to the general claims, emissaries, princess?" Cai Renxiang asked.
+
+"Gotta turn this pretty line into a bunch of squiggles so it follows useful terrain, but that's what tomorrow is for innit? Yeah, guess this is fine," Sun Liling said.
+
+Dzintara agreed. "It is so. We will need to speak more on what is allowable in the unclaimed zone."
+
+"And we need to chat about your big lizards. Zmeya, was it? We ain't gonna spare what attacks us," Sun Liling warned.
+
+"That is fine, so long as you do not intrude where you are not needed. Black Zmeya exist to freeze and slay the encroaching roots. They are merely constructs."
+
+"That why the big skull turned into slush?"
+
+Ling Qi took a deep breath. She didn't know precisely what Sun Liling or her family were planning, but for now, it was working out for their plans. That would have to be good enough. Looking at the princess, the blaring, raging, yang-tinted blaze of her aura was banked. It felt like slitted predatory eyes peering back at her through the brush, low to the ground and stalking.
+
+She was plotting.
+
+But they could now call the opening round of the border negotiations complete.

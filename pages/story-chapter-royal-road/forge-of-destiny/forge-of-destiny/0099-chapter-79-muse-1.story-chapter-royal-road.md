@@ -1,0 +1,97 @@
+---
+id: e1ac8a0e-bb4d-5b26-b139-22c87262f692
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79-Muse 1"
+slug: 0099-chapter-79-muse-1
+partOf: forge-of-destiny
+position: 99
+ownLength: 1642
+unit: words
+publishedAt: 2021-04-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/673445/chapter-79-muse-1"
+royalRoadId: "673445"
+---
+
+Sixiang’s expression grew somber, and despite herself, Ling Qi was aware of the handsome lines of the currently male muse’s face, not so far from her own.
+
+“Is there really nothing else for me? That’s the wrong question, I think,” they said, and they separated for the next steps. Another set of hands clasped Ling Qi’s as she spun away, and the other dancer’s features blurred and became Sixiang’s. “There are so many things I want to see, but I have to wonder if staying where I am is the best way to see them. I’ve changed.”
+
+“You have, but I don’t think it’s so bad. You used to be pretty feckless,” Ling Qi teased gently, not missing a beat at the ‘new’ partner.
+
+“Mm, I’m not so sure,” Sixiang mused, moving in time to the phantom music that rang over the dancers. It seemed to come from everywhere and nowhere all at once, sending the curved and mirrored walls around the dance floor rippling. “I don’t regret coming to care about you, but my fear has made me less. It seems so much clearer here, immersed in a dream.”
+
+“There is nothing wrong with wanting to live, spirit or no,” Ling Qi replied, meeting Sixiang’s eyes. “I understand, though. It’s not easy seeing so much…” She trailed off, thinking of bodies lying still in the fields and faces covered in creeping frost. She shivered despite the warmth of the room.
+
+“It’s because of my own fear that I feel their fear so acutely, you know,” Sixiang continued. “I’m a muse. I can feel what people are feeling, even when they try to throw up a mask. In combat when they aren’t even trying…”
+
+Ling Qi was silent, lowering her eyes.
+
+“Your world is so rigid and limited,” Sixiang said. “No one knows what happens when you humans leave it, except for those who won’t answer. How can you not be afraid when you don’t know if this is your last dream? So many little sparks, all clashing. None of them want to die, but they're driven to bring death to others anyway, riding on the currents of causality, old actions sending ripples downstream again and again…”
+
+Sixiang’s voice started to drift off, and Ling Qi gave their hand a sharp squeeze, drawing them back from whatever dreamlike tangent they were going off on. “I don’t know about any of that,” Ling Qi said. “But even if you can understand your enemies, they’re still your enemies. People want things, and sometimes, what they want just can’t be reconciled with what you want.”
+
+“Like I said, rigid and limited,” Sixiang chuckled sadly. “I get it, but I wonder if that’s the argument that you want to make right now.”
+
+Ling Qi flushed slightly. “We aren’t enemies, Sixiang. We’re friends. I want you to be happy, and I want you to stay, but if one precludes the other…”
+
+Sixiang grinned in amusement, and Ling Qi huffed at the obvious teasing as their dance carried them to the edge of the floor and through the curved and gleaming wall. The glasslike exterior rippled as they stepped through, then shattered, reducing their previous venue to a thousand falling sparks of color and light.
+
+Now, they walked on a snowy path that wound through a dense forest. They were clad in mourner’s white, their gowns unembellished, just two in a stream of humanity that wound out of sight both ahead and behind. A soft mourning song rang through the air, punctuated by sobs from amidst the line. On the mourners' shoulders were countless biers smelling of incense and oils that only just masked the scent of death.
+
+“It might be hard for you to understand as a human,” Sixiang mused beside her. The handles of their bier rested heavily on Ling Qi’s shoulders. The muse had shifted to a female aspect now, slighter and softer than the face they had worn a moment ago. “It’s not like I’m unfamiliar with the bad stuff. Nightmares are dreams, too, and more than one artist has poured their fear and anxiety onto the page or canvas.”
+
+“Then why? I want to understand,” Ling Qi asked, her voice muffled. The very air of this place seemed to disallow loudness.
+
+“It’s like…” Sixiang paused, searching for words. “Before I could think this is fear-of-death and this is pain-of-loss, but it was like describing the color of something. There wasn’t really any understanding to it.”
+
+Ling Qi was silent, her qi thrumming in her meridians. It really struck her then, the inhumanity of her companion. As a human, she could reconcile the things Sixiang had spoken of, but Sixiang was a muse, a creature of thought and feeling; a conflict like this could discomfit or depress her, but to Sixiang, it was really more like a wasting illness.
+
+“But you’ve spent enough time to have that context now. They aren’t just colors on the pallet anymore,” Ling Qi realized. The mourning song rang out so much more clearly now. The singers poured out the laments of the dead and the hopes of the living, and though the language they sang in was foreign, she understood.
+
+“Heh, looks like you were paying attention to the art stuff after all,” Sixiang chuckled. “But yes Ling Qi. I understand people. I can feel what they feel. Do you understand?”
+
+Ling Qi had difficulty imagining it. She had trouble enough with her own emotions. The thought of having the feelings of others flooding her head at all times was unpleasant. She knew intuitively that Sixiang was not just speaking of their allies, and it fed certain threads of unease that had wound through her thoughts since the day she had killed the Bai traitor and the bandits. She lowered her eyes as the dirge rose higher.
+
+“I stand by what I said earlier. You should save your understanding for the people you care about. You have to choose what to value more and what to value less.”
+
+“I think I get it. I really do. It’s just not so easy to get the spirit back into the bottle,” Sixiang said. “I’m afraid, Ling Qi. I don’t know how to handle that.”
+
+Ling Qi walked in silence next to the muse, her sandaled feet churning the cold muddy road.
+
+In the distant part of her that still sat outside atop an old and worn stone amid, Ling Qi stared down at the stick of jade in her hands, eyes glassy in her faintly dozing state. Within the jade lay the Playful Muse’s Rapport art, a remaining piece of Emerald Seas’ history. In the state she was in now, she could almost taste the strife that still clung to the art, a tinge of copper and wood smoke for the millennia of civil war, decadence, and spite.
+
+It felt familiar, the scent of burning knowledge. Had she not spent a night in such a repository once?
+
+Ling Qi peered at the art within the jade. She had hoped that the art, patterned off Sixiang’s siblings, could help her understand her friend better.
+
+“Spacing out even now?” Sixiang asked with a small smile, drawing her back to the snowy mourner’s path.
+
+“Something like that,” Ling Qi replied, ignoring the muse’s knowing look. “I think we’ve both had enough of this atmosphere, don’t you think?”
+
+Ling Qi breathed out and released the handles of the bier she bore, flicking her wrists and sending her sleeves billowing as she shook them out. The snowy path and the mourners song shattered like so much glass and dissolved into smoke.
+
+They fell.
+
+“Well, someone has gotten brave,” Sixiang complained as they tumbled head over heels beside Ling Qi. They plunged like falling arrows through the open azure sky. Below, there was no ground nor clouds, just the endless sky stretching on forever, above and below. Only the faintest outline of a nearly full moon marred the blue. The wind whistled past Ling Qi’s ears and tugged at her gown, but the wind was an old friend.
+
+Ling Qi righted herself and stilled the grasping tugs of the wind that pulled at the hems of her gown. She grinned. “Quit messing around, Sixiang.”
+
+The muse huffed, and their haphazard tumble ceased. Their form flowed smokelike until they once again faced Ling Qi, but their form had changed again. The Sixiang that looked back at her in irritation was wholly androgynous, their features a mix of sharp and soft, their multihued hair streaming above in the wind like a colorful scarf.
+
+“I appreciate the thought, but isn’t what you’re doing a little high-handed?” Sixiang asked crossly.
+
+“Maybe so, but I’ll grasp at whatever straws I might need to help you,” Ling Qi replied unrepentantly. Her gown billowed around her as she fell but never to the point of impropriety. “I want to understand, Sixiang.”
+
+“I know you do, Ling Qi,” the muse replied, smiling. “I’m glad you do, but I’m not sure that art can do it. Playful Muse’s Rapport is not about being a muse. It’s about applying some of our perspective to yourself. Honestly, I think you might have trouble cultivating it with how closed off you are.”
+
+“Then show me,” Ling Qi pleaded, spreading her arms. “You brought me to your memories before. You can do it again, can’t you?”
+
+Sixiang met her eyes, their eyebrows drawing together.
+
+“I won’t ask you to change your mind. I know how stubborn you are,” Sixiang said. “But if you really want to understand, it’ll have to be a lot deeper than last time.”
+
+“I’m pretty tough,” Ling Qi replied, putting on a cocky smile. “But you know that.”
+
+“I do,” Sixiang laughed. Then they were in front of her, hands resting on her temples. Their smile turned melancholic. “Change places.”
+
+Ling Qi’s vision went white.

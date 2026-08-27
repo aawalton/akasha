@@ -1,0 +1,91 @@
+---
+id: 1cb0c406-8138-542c-a1e0-81f494f74ed8
+page-type-slug: story-chapter-royal-road
+title: "17. Chilling in the Library"
+slug: 0017-17-chilling-in-the-library
+partOf: god-of-trash
+position: 17
+ownLength: 2140
+unit: words
+publishedAt: 2025-03-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2120409/17-chilling-in-the-library"
+royalRoadId: "2120409"
+---
+
+The library sprawled over a good chunk of the mountainside. It stood tall, its façade as grand as any of the lecture halls. The steps leading up to its front door were dusty, and when Rhys pushed on the door, it creaked and halted an inch in, its hinges all but rusted shut. He frowned and pushed harder. The rust broke off with a crack, and the door swung open.
+
+Almost before he stepped inside, an indolent voice called, “Who goes there?”
+
+“No one,” Rhys shouted back.
+
+There was silence, then a grunt that echoed through the vaulted halls. “Better be.”
+
+Black-and-white checkered tile spread underfoot. Rich, dark wood clad the walls. Shelves bent in the middle, laden with books. Some were tidy and neat, but the majority were stuffed full of books, so overstuffed that books were practically oozing out at the seams. Stacked in lines, then pushed in horizontally, and even squeezed at odd angles into the gaps remaining, until they spilled out onto the floor and stacked up in pillars around the floor. And the shelves weren’t merely capped at human height. They climbed from the floor, all the way up to the twenty-foot ceilings. Here and there, rolling ladders offered a way up, but the books that spilled forth from the shelves meant their wheels weren’t particularly operational. The scent of dust and old books filled the air, along with a mysterious spicy scent he couldn’t quite place.
+
+Rhys turned the corner. A massive desk was tucked to the left, in the first nook available. Behind it sprawled a man who was Cynog’s opposite in every possible way. Feet kicked up on the desk, he lazed in a massive cozy armchair. Long limbs only served to emphasize how bone-slender he was. His hair spilled down his back, not in a way that said he cared for it, but simply indicated he hadn’t had it cut in a long time. He didn’t have a beard, but on closer inspection, fair whisps on hair clung to his jaw, too pale and thin to qualify as any sort of organized facial hair, but simply the result of his extreme languor. He wore white-and-black robes that fell back at his hips, black narrow-legged trousers so tight as to qualify as leggings, and a simple black belt. Of all the teachers, he was one of the simplest-dressed ones so far, barring the man in rags ranting about ferrets. Even Cynog had worn gold bracers, leg guards, and a matching bejeweled belt. This man wore no gems at all.
+
+A book rested in one hand, and his eyes scanned across the page at speed. He reached the end of the book and set it down, a satisfied expression on his face, then stretched in his chair and yawned wide, like a cat in a beam of sun.
+
+He and Rhys’ gazes met, and he grumbled in his chest and ran a hand over his face. In the space of a moment, his hair organized itself, his face grew clean, and the facial hair vanished. He put on a very-strained smile. “How can I help you?”
+
+Reclusive is a kind way to put it, Rhys reflected. The man was an absolute slug. Sure ,he was skinny, but that was probably only because it was too much effort to get up and eat. From the dust underfoot, no one—not this man or anyone else—had trodden the halls of the library in a long time. It seemed there was an unspoken understanding not to disturb him.
+
+Luckily, Rhys was a bit too trashy to pick up on such subtle social cues, so here he was. He stepped forward and nodded. “I’m the garbage collector. Are there any books you’re looking to get rid of?”
+
+“Huh? Oh, sure.” The smile vanished. He yawned again and waved a hand. A dozen boxes floated toward Rhys, all of them empty. As they passed by the shelves, books jumped off them of their own will and flew into the boxes, where they stacked up in messy heaps.
+
+“That’s a lot of books,” Rhys commented. Wasn’t he supposed to be protective of books? Why was he so willing to toss these, then?
+
+“Eh. They’re all garbage. Um…” He paused to yawn. “The kind of nonsense fake mages sell mortals, hoping to make a quick buck. None of them hold a real technique. At best, you’ll waste your time. The worst of them can even lead hopeful mages astray, onto dark or mistaken paths. They’re a bit dangerous, so I’ve been meaning to get rid of the extra copies for a while now.”
+
+“Extra copies?”
+
+“Mmm. Those fakers produce these a dime a dozen and fill the world with this nonsense. Pretty much every mortal town will have five or six ‘manuals’ on display. Just from students who mistakenly thought they would ‘get ahead,’ or earnestly believed they could become a mage from this bullshit, I’ve collected hundreds of copies of these things. Of course, I’ve got one copy of each archived. I wouldn’t dream of giving those up. But I don’t need a thousand copies of bullshit manuals in various states of disrepair hanging around my library. Gods know I’ve already got enough books to protect.” He shook his head, gesturing at the disarray around them.
+
+“I can see that,” Rhys said.
+
+The lazy man stretched again, once more reminding Rhys of a cat lounging in the sun. “I’m Azarian, by the way. Azarian the Librarian. Friends call me Az. And you are?”
+
+“Rhys. Garbageman,” Rhys introduced himself for a second time.
+
+“Hmm. You should find a rhyming profession as well. Or change your name.”
+
+“You could call me Rhys the Recycler. It doesn’t rhyme, but it aliterates,” Rhys tried.
+
+“Heh, Rhys-cycler,” Az said. He nodded, and a real smile appeared on his lips. “I like you, Rhys.”
+
+Rhys nodded, not sure how to respond to that. Then again, maybe it was simply one trash recognizing another? Az was a different kind of trash than Rhys; Rhys had nothing, while Az had it all and frittered it away lazing in this library. All his potential and skill, wasted in doing nothing but lounging at his desk and reading. His aura was no weaker than Cynog’s, somewhere at the upper limits of Tier 3, but Rhys wouldn’t put a penny on Az, if he were to face off against Cynog. Unless, of course, the challenge was something literary, or maybe a race to have the best snooze as quickly as possible.
+
+The boxes filled and stacked up near the entry hallway. There were easily ten, maybe fifteen boxes, and each one large enough that Rhys could curl up inside. He eyed them a little uncertainly. With his mana boosted strength, could he carry all of them? Let alone stacking fifteen boxes at once… maybe if he was burning impurities, but… He shook his head. This was going to be a multi-trip job.
+
+As he stacked up the boxes, Rhys decided to press his luck. He leaned toward Az. “You wouldn’t happen to have any… trashy literature hanging around the library, would you? Anything a little less than highbrow?”
+
+Bam! Az sat up so sharply Rhys didn’t see him move and slammed his hand on his desk. A metaphorical thundercloud brewed around his brows, his frown as deep as the darkest ocean. “In my library? You insult me, sir. No! Not a single piece of that kind of… I hesitate to call it literature! Absolutely not. I would never. Get out, before I—”
+
+A book fell off his desk, knocked there by the force of his thump. It fell open to reveal a finely illustrated page with a very fine illustration of a young lady on it. Her collar was a little more than undone. Entirely missing, in fact. And the blouse, too. Her entire dress seemed to have gone missing, in fact. Not only that, but her cheeks flushed in a very unchaste way.
+
+Rhys blinked at the book, then slowly looked up at Az. He hadn’t meant that kind of literature, just trashy scifi and fantasy—pulp fiction, as it were—but, well, if Az was offering… it wasn’t as if he wasn’t a man of culture at times, himself.
+
+Az flashed forth. The book vanished off the floor, and Az reappeared behind the desk, stuffing something hurriedly into his shirt. He narrowed his eyes at Rhys. “You saw nothing.”
+
+“No, no, I understand. Well, that kind of literature is still a bit too rich for me yet, but if you had some pulp fiction lying around, I certainly could be persuaded to entirely forget such a rosy page,” Rhys replied, fighting the urge to laugh aloud.
+
+Az snapped his fingers. A dozen additional books joined the garbage manuals in Rhys’ box.
+
+Rhys nodded. “Then we have an agreement, sir. And, ah, best of luck with your literature. I suppose I can look forward to receiving your recommendations in another few years?”
+
+“Of course. Any time,” Az said, quickly recovering. He still stood behind his desk, one hand pressed against a somewhat unstable stack of books to keep any more from tumbling down.
+
+Rhys looked the stack of books up and down. They were well-worn, with cracked spines and tired bindings. He looked away rather than see too much and learn more about Az than he really wanted to, but quietly shook his head at himself. A man of culture indeed!
+
+Leaving Az to his studies, he quickly ferried the garbage books out onto the steps in three groups of five. From there, he hauled the books back to his hideout. Rather than just throw them in the garbage, though, he put the boxes in his cave, back where the rain and elements wouldn’t easily damage them. Garbage manuals? His eyes shone just thinking about it. Garbage! Manuals! Oh, the things he could learn!
+
+Most people might read instructions and simply think of them as the way to accomplish something. But that was wrong. No matter what set of instructions, it was always colored by the biases of the person who had written them. An expert carpenter might leave out the lathing process and simply say ‘turn out four chair legs,’ while an amateur might focus overlong on the way to put hammer to nail. An artist would spend time telling you how to carve patterns into its back, while a dyes-man would focus on the minutiae of setting the wood stain. The way someone described something, the things they focused on and what they left out, could tell him as much about the person who had written the instructions as the instructions could tell him about how to do the thing he’d set out to do. And, of course, the places where the instructions were hardheaded or wrong… there were always things the original instruction writer had done incorrectly, that were simply mystifying to the reader afterward.
+
+Those didn’t tell him how to accomplish the task. Ordinary people might simply throw those steps out. But to Rhys, that was only part of the challenge. Could he understand where the original writer of the instructions had gone wrong? Could he figure out what they’d misunderstood, or comprehended incorrectly, by seeing their incorrect instructions? And from there, there was always the possibility that he could read the wrong way, and put together how to do things correctly, simply by knowing what not to do.
+
+Bad tutorials were just another kind of garbage. No less precious than any other trash for being wrong, or stubborn, or fundamentally misunderstanding the process. No, in fact, moreso because of that. If he was merely given the correct instructions, he’d only know one correct way to get there. If he had the wrong instructions, he was free to imagine a dozen correct ways to complete the task.
+
+Now, he had before him manuals that weren’t only accidentally wrong, weren’t only hardheaded, but were deliberately, intentionally incorrect. If someone intentionally sabotaged, that sabotage simply told him where the most important steps were. And now that he was in a mages’ school, if he ever got stuck, he could always go back to the library and look up the same process, to see if he couldn’t come at it from two ways. In that way, by looking at the trash and the good, he could put both together and come up with an answer no one had ever come up with before. Not only that, but he could also tie all the techniques within these manuals to his path, which meant a passive boost to his comprehension. When he was done, the books could hit the trash heap and empower his attempt to grow the Star Ice seed. What wasn’t to love?
+
+Filled with anticipation, Rhys opened the first manual.

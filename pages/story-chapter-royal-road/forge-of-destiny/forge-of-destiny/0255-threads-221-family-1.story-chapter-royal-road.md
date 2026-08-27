@@ -1,0 +1,167 @@
+---
+id: 15cbb760-afeb-5cf5-969a-0b56405eda3f
+page-type-slug: story-chapter-royal-road
+title: "Threads 221-Family 1"
+slug: 0255-threads-221-family-1
+partOf: forge-of-destiny
+position: 255
+ownLength: 2628
+unit: words
+publishedAt: 2022-06-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/922139/threads-221-family-1"
+royalRoadId: "922139"
+---
+
+Ling Qi danced through the newly grown woods atop the hill, a wraith of dream and wind and mist flickering in the shadow of blossoming green and verdant qi. She ran, leaped, and played along the web of qi that ran through the local dream, following them to their anchors.
+
+Luo Zhong’s arts felt disconcerting. There was a resemblance to the wild qi that coursed through Alingge’s meridians, but she could see the places where they diverged. She could see where the ancient, nameless people became hill and forest and mountain and then Weilu and hill tribe. His qi was paper and ink, leather and metal, bindings and tethers and words.
+
+Her foot fell upon a narrow branch, barely bending the pale green wood. Sound erupted around her, the noise of a dozen snarling and howling hounds returning in force, as Ling Qi dipped back into the physical world. She felt the wind shift before she saw the man-sized bullet shoot toward her, Wang Chao catapulting himself at such speed that she could not even perceive him as more than a blur.
+
+She dispersed, no more than a cold winter breeze, a shower of snowflakes and chilled air, and in spirit, she grasped a tether of fire and metal, letting it pull her along to her destination.
+
+Yet for all that his aura was a net of bindings, it still resonated with her own qi. Connection. Community. Luo Zhong was not, Ling Qi thought, as wise and savvy as he liked to portray, but he was only one knot in a wider net. His contracted spirits were manifestations of the spirit of his family's city. She felt that strength touching on him, mother and father and siblings and relatives all bound to a great spirit that had seen them all grow from diapers. It was an immense support. It was an immense pressure. Luo Zhong was just one dog in the pack, full of pride and desire to give back what he had given, his drive overriding all concerns for those outside the pack.
+
+Spirit contracts aside, this was family as most in the Empire saw it. Binding and obligation. Duty and responsibility. Blood, above all other concerns. It bothered her like a fly buzzing in her ear. Family was an obligation, but that understanding was incomplete.
+
+She doubted Luo Zhong would have been pleased to know just how much she could read him through the rivers of qi flowing into the liminal, which he had left for her navigation. Even now, he underestimated her. Then again, perhaps that was unfair; so few knew of her growing study of dreams yet.
+
+<Hey, now. You’re forgetting something,> Sixiang reminded.
+
+Of course, it was Sixiang’s new talent for possessing qi constructs which allowed this to work at all. Sixiang possessed a summon, and then Luo Zhong’s contract and her bond allowed her to swiftly pull herself to Sixiang’s location.
+
+Ling Qi reemerged back into the material to hear a tremendous bang that shook the hill. A slender hound made of crimson fire stood upon a crackling plane of joined ceramic panels, shrouded in glittering mist. Its canine face gave the impression of grinning, and its eyes sparkled black like Sixiang’s.
+
+Behind the panels, Xuan Shi stood with his hands raised, feet set wide. On his back was strapped a long stick of green wood with a single bright orange leaf sprouting from its top. Zhengui’s flag. Ling Qi grinned. The silly thing really took the seriousness out of the air.
+
+She met Xuan Shi’s eyes through the gaps in the panels and saw them widen as her gaze flicked over his shoulder to where a tiny gossamer winged butterfly rested on the flag, shrouded in glittering rainbow mist.
+
+The panels moved quickly like the door of a vault, snapping shut to isolate forever the priceless treasure within. But she was the wind, and no vault could keep her out.
+
+An instant later, the flag was in her hands.
+
+Then, the panels snapped shut around her, a featureless prison without hinges, doors, or cracks, split only by the wide grin of nightmare. Ling Qi laughed.
+
+Of course it wouldn’t be so easy.
+
+It took the full twenty minutes before the game finally ended. The flag had ultimately ended up in her hands, but she didn’t think either she or Xuan Shi cared that much. It had been fun, and that was enough.
+
+But all diversions had their end, and soon, Ling Qi was on her way back to meet with Cai Renxiang.
+
+***
+
+“I hope your meeting went well,” Cai Renxiang greeted. Her voice was clipped, and Ling Qi could see some of the subtle signs of stress that only someone close to the heiress would notice in her posture and expression.
+
+“It went—” Ling Qi paused, considering her words. They walked through the loose crowds moving between the noble pavilions. The great cathedral-like cloth structure of the Cai tent loomed large ahead. “—acceptably. Xuan Shi and Wang Chao are both doing well.”
+
+Whatever her thoughts on the extra person there, her main goal had been a success. Wang Chao was too bullish to let someone he perceived as a friend isolate themselves too much. Of course, that personality could backfire too, but for now, she’d call it a win.
+
+“How did Her Grace take your message?” Ling Qi asked.
+
+“My mother will begin a correspondence negotiating a state meeting,” Cai Renxiang reported tersely. “It will be delayed. It would be inappropriate for a commander to leave the field at a campaign’s denouement, and it would be further inappropriate to receive one of King Shao’s status in a military camp.”
+
+Ling Qi digested that. It seemed a very lukewarm, but indisputably polite, response on the Duchess’ part to her. That, she supposed, was to be expected.
+
+“It is likely that this is only an opening exchange,” Cai Renxiang said. “These kinds of negotiations are never simple.”
+
+Ling Qi gave a shallow nod. Sun Shao’s sudden interest in a meeting and a military campaign were almost certainly meant to disrupt the Duchess’ plans and strain her relations with the Bai. Yet, because of who he was, she could not simply ignore or trample over him as the Duchess might a lesser obstacle.
+
+Ling Qi felt a twinge of discomfort at that. Even the peak of cultivation was not immune to the winds of the world. She should have known that. Had Sun Shao not been humiliated last year? The victory she had cheered for in the finals had meant the eighth realm King of the West had watched his great-granddaughter be beaten and humiliated with no recourse.
+
+“What troubles you?” Cai Renxiang asked, glancing over her shoulder as they reached the open square before the Cai pavilion.
+
+Ling Qi realized that she had stopped, her expression scrunching up into a scowl. She smoothed her features and offered her liege a smile. “I’m just considering some of the strategic troubles we might face.”
+
+Renxiang didn’t seem to entirely believe her, but she didn’t press, resuming their walk.
+
+Was being safe really so impossible?
+
+Ling Qi dismissed the troubling thought from her mind. She expected a comment from Sixiang, but the muse was silent. They were stepping into the realm of the Cai after all. Yes, that was certainly the reason.
+
+They approached the pavilion, but then, they turned aside at the entrance, following a path which led around the left side.
+
+“I am glad you did not forget your appointment given all the excitement.”
+
+“Don’t be absurd. I do not forget appointments,” Renxiang said stiffly.
+
+They rounded the corner of the pavilion, coming into sight of the carriage yard. The Duchess’ carriage was just as resplendent as it had been last year, though lacking its beasts. There was also a second, more humble carriage painted in pale green, but it, too, was thrumming with qi enhancement. Presumably, that was the carriage of Diao Luwen, Cai Renxiang’s father. Beside the two carriages was a third. Larger and bulkier, it was painted a light rose pink.
+
+Ling Qi had felt the security formations of Elder Sima Jiao when she had entered the command tent of the Sect’s forward base under the earth. She had felt the open threat of the security formations wrought upon the Bai ambassador’s chambers. She had felt the overwhelming presence of the court at Xiangmen and the ancient pillars of beast bone there.
+
+None of them made the hairs on the back of her neck rise like this simple unobtrusive pink carriage. It felt wholly mundane; she couldn’t even feel the flow of basic arrays meant to strengthen the wood and stave off the need for maintenance. Somehow, that made the carriage feel even more ominous.
+
+Two White Plume soldiers stood near it, but they felt almost like accessories.
+
+“Lady Cai.” One of the soldiers stepped forward, clapping his fists together and bowing his head. “Her Grace has informed us that you and your retainer are to be allowed access to the young miss.”
+
+“Thank you, Captain Wei,” Renxiang said evenly.
+
+“Please be aware that the interior of the carriage is under the effect of qi suppression and prepare yourself accordingly,” the soldier replied, stepping aside to open the way.
+
+Ling Qi had heard of the effect. It was mostly used for imprisoning very politically sensitive criminals. Renxiang had used something similar for their opponents in the first year, but their version was only rated for lower ranking cultivators. Anything for stronger opponents was hellishly expensive to maintain.
+
+She followed Renxiang up the steps of the carriage and through the door. She winced as she crossed the threshold, almost missing a step as the door closed behind it. It felt like being punched in the gut to suddenly have all of her meridians shut down at once like that day in the blizzard with Zeqing so long ago. She could barely even feel the energy in her dantian.
+
+She was still far from mortal. No formation could take away the qi she had molded into flesh and bone over the last two years or the changes she had made directly to her spirit. Her mist still slept under her skin. Still, she felt… less.
+
+The interior of the carriage was filled with a soft light and softer furnishings. Small tapestries covered the walls, and her feet sank into the thick and fuzzy carpet. It was naturally larger on the inside than out.
+
+At the far end of the cozy chamber, there was a large crib carved of immaculately shaped and polished white wood and filled with a luxurious mattress and silken blankets. Over it hung an arrangement of crystal and jade chimes, turning slowly. The chimes were the only source of qi in the room, just a simple little formation that sent out timed puffs of wind to make the chimes play a soothing tune.
+
+They shouldn’t have worked under the suppression, but that was the work of an eighth realm.
+
+Beside the crib was an older woman, just barely third realm, who was already bowing deeply to her liege.
+
+“The young miss has just been fed and cleaned, Lady Cai,” the nursemaid said. “She is a calm child so all should be well. Would Lady Cai like me to stay and attend?”
+
+“No,” Renxiang said, looking at the crib rather than the woman. “Although it may be for the best.”
+
+That sort of uncertainty from Renxiang felt truly unnatural to Ling Qi.
+
+The nursemaid nodded once, businesslike. “I had thought so. Privacy with family is important.” Ling Qi felt the woman's eyes flick her way. “I will leave, but if the young miss needs anything, please ring the bell on that table. It will signal me.”
+
+Ling Qi felt like this woman must be very familiar with higher ranking cultivators. Would her own servants gain this unflappable air in time?
+
+Renxiang murmured an agreement, and the nursemaid bustled on out, not giving them another look. Renxiang took a few steps closer and she followed.
+
+Cai Tienli lay in the crib, one chubby fist stuffed firmly in her mouth. She was a baby like any other Ling Qi had seen save for the richness of her swaddling. Perhaps her hair was growing in a little quickly given her age, a light honey brown fuzz on her scalp. Her skin was a shade duskier than her sister’s, more resembling their father or the Prime Minister. Her eyes were bright green, and they followed the slow movement of the glittering chimes above as she chewed on her fist.
+
+Somehow, Ling Qi had expected the baby to be stranger. Maybe, she should have an inkling of glitter around her, a precursor to the halos of light that surrounded her mother and sister. Then again, Ling Qi thought, eyeing Renxiang’s back, even her sister’s halo had grown less pronounced, hadn’t it? She didn’t quite remember when that had changed and Renxiang’s aura had begun to dim and fade away in calm times.
+
+But no, Cai Tienli was just a baby, if one that seemed to have an unusually steady gaze.
+
+Renxiang laid on her hands on the side of the crib and looked down, expression unreadable. The baby's eyes flicked toward her, the object obstructing the view of the chimes, and made a wet sound, reaching up her spit-covered hand.
+
+Cute.
+
+“What am I meant to feel right now?” Cai Renxiang asked.
+
+“I’m not sure I understand, Lady Renxiang.”
+
+“I do not understand why I was allowed here. What does Mother want from this?” Renxiang looked down at her sister, who let out another wet gurgle in response.
+
+Ling Qi had not really considered it from that point of view. She had not thought of what Shenhua intended to result from this meeting. “I wonder if that is a helpful way to think of things.”
+
+“Am I meant to discover affection, thus binding the Cai clan more closely to avoid future strife? Am I meant to see a rival, a show of how easily I may be replaced if my performance wavers? Am I meant to…”
+
+Ling Qi laid a hand on Renxiang’s shoulder as the wood creaked under the heiress’ grasp. Below, Cai Tienli’s face scrunched up as if she might cry.
+
+“Isn’t it better to think ‘what do I want from this’? Lady Renxiang, you’ve already made choices that surprised your mother, haven’t you?”
+
+She didn’t believe the Duchess really thought they would choose the project they had.
+
+“Even if she intends my latitude, I still do not know what to feel. This child is my sister. What does this mean? In many clans, we would be rivals. In the classic conception of clan duty, we are meant to support and work in harmony.”
+
+“I think you are supposed to love your siblings.”
+
+“I do not know what that means,” Renxiang said with a sharp frustration. “No one ever defines love. Instinctive understanding is always expected. It is unlikely that we will see one another on more than the passing occasion and at formal events. What does that statement mean in this context?”
+
+Ling Qi pursed her lips. “I don’t know if I have a good answer. There's a difference between clan and family. You are born into a clan. You are obligated to support and aid your clan. Family, I think, is something else.”
+
+It was a distinction she had been pondering for a while now, here and there.
+
+“What, then, is family?”
+
+“Family are those who you keep by you, not out of obligation, but because they make you happy enough to take up that obligation willingly.”
+
+Renxiang didn’t answer at first, and in the crib, Cai Tienli started to cry.

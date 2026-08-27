@@ -1,0 +1,53 @@
+---
+id: b9ca7bf6-8c9c-59c6-9bdb-7675aaef7ed3
+page-type-slug: story-chapter-royal-road
+title: "122. Crafting Fries"
+slug: 0122-122-crafting-fries
+partOf: god-of-trash
+position: 122
+ownLength: 1642
+unit: words
+publishedAt: 2025-07-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2414288/122-crafting-fries"
+royalRoadId: "2414288"
+---
+
+Rhys cut, soaked, and dried the potatoes, then immediately stored them in the charcoal storage ring, which he’d emptied of its previous contents. Fries couldn’t be pre-prepared like chips; or, at least, they couldn’t be pre-fried. Even the trashiest fast food establishments fried their fries on-premises, and that was saying something, in a world where most of their food was precooked, frozen, then ‘prepared’ on-site via microwave and heat lamp. True, fast food fries were half-cooked and frozen first, but the final dip in oil was still on-site. Fries simply didn’t work without a fresh fry. Of course, on the other hand, fryers weren’t hard to operate, even for untrained minimum-wage employees, and Rhys needed nothing but a few wire baskets to replicate the fast food restaurant’s fryer in this world, where his employees weren’t teenagers who didn’t know better but adult mages with more capability and skill than they knew what to do with.
+
+He imbued the fries with the same hint of his path as the chips, though he knew he should do something else. If he kept doing the same trick, eventually, someone would pick up on it. It was just that it was such a good trick, he didn’t want to stop using it quite yet. Then again, it was trashy to keep reusing the same trick over and over until it was well and fully worn out, so it wasn’t against his path to keep things the same. It just struck him as a good idea to start working on someone else, so that whenever his first trick wore out, he had something else to fall back on, like the vitality tomatoes.
+
+Speaking of… he looked at his hand, though truly, he directed his eyes inward, at his core. Imbuing the tomatoes with vitality had considerably drained his trash star. It still had plenty of energy for now, but it would run down sooner or later. He had to replenish it from somewhere.
+
+He twisted his lips, thinking. This couldn’t be the Empire’s only trash heap. For one, it had been mostly mortal trash, not mage trash. For two, the Empire had consigned lots of books and artifacts that didn’t meet its qualifications to the garbage, but he’d found none of them here. That meant there had to be other trash heaps, and not only that, but more powerful trash heaps. They just weren’t here. They were somewhere else, probably deeper into the Empire.
+
+Deeper in the Empire. He looked around, taking in his underlings. They were highly competent, and as long as he imbued the raw materials with vitality and his path, they were capable of taking them to the finish line once he showed them how. He’d walk threm through starting their first store, then hand the reins over to someone—probably Korii—and run off into the Empire to find more trash to refill his trash star. The downside of his purely-trash-based cultivation technique was that when he ran out of trash, the star stopped burning, and he ceased to be a mage once more. The activation conditions required far more trash than continuously burning trash did, as well, meaning he really did not want to run out of trash or let the star burn down. He bit his lip, gazing at the star. Did he have enough energy to wait that long? To wait until everything was set up and ready to go? He was already running low…
+
+Rhys snapped his fingers as a thought came to him. He’d amassed all his original trash from the mines, but he knew for a fact that the mines he’d come from weren’t the Empire’s only labor camp. All the other camps surely had as much trash, if not more, than the mines had, plus, he gained more manpower by hitting the other camps. On the downside, attacking the mines meant drawing attention to himself, right at the critical juncture where he wanted the absolute minimum of the Empire’s attention.
+
+Or does it? He raised his brows, thinking. Sure, the Empire would think the camp attacks were related, but what if he made them appear as if they weren’t? Freed the workers, gave some of them cores, then vanished back to the wilderness from whence he came, let them run wild and distract the Empire while he quietly enacted his true plan over here at its newest city. It was a kind of awful thing to do to the people in the camps, when he knew he could save them from a harsh death at the hands of the Empire by recruiting them, but… he couldn’t save everyone. And it wasn’t like he was going to tell them to unalive themselves, either. They were free to do whatever they wanted. Run away, fight, even follow him back. Suire, it was neglectful, but it wasn’t cruel. If anything, he gave them more freedom than he had with this first batch, where he’d knowingly, willingly, strong-armed them into fighting alongside him, by taking their cores if they left. There’d been intelligence in the decision, since the Emprie would kill anyone who had a core, but they could blend in without one, but at the same time, who would say no to a core? Having been elevated to a mage again after so long ground underfoot as a mortal once more, who would say no and become weak again, to be stomped on?
+
+Rhys sighed aloud. No matter what he did, whether he collected them or set them free, it was manipulative. Once he utilized his strength to give them back their cores, he’d inherently incurred a debt they could not repay. At that point, anything he asked of them could be considered compulsion. It was a messed up situation, and he had no idea what to do about it, so… he shrugged to himself. If it was compulsion no matter what, then he just wouldn’t worry about it! Nothing he could do, so he'd just do what he wanted. It made sense to him.
+
+Korii glanced at him. “Something on your mind?”
+
+“There was, but I think I’ve resolved it,” Rhys said. Once he got over the need to be a good person, it was pretty easy to callously set the people from another camp free, and let them do whatever they wanted, damn the consequences. Then again, it wasn’t like he ever had the ability to control other people. He was honestly worrying a little too much about it. It was like worrying that some random high schooler would start smoking cigarettes because he walked by smoking. Sure, it was a bad look, and it might influence their ultimate death, but he really couldn’t be blamed for other people’s bad decisions. …Or that was what he told himself, anyways.
+
+It's no fun being the guy who has to make tough decisions. He’d rather be the nobody at the bottom of the ladder, who was just following orders. If there was a war crimes tribunal waiting for him at the end of all this, his odds weren’t great.
+
+Then again, this seemed like a might-makes-right world, and by that logic, not only were his actions correct, but everyone he released from the camps took their destiny into their own hands, and had the responsibility to gauge their might and determine their route from there. Their bad decisions were truly their own, from that moral perspective. He was pretty sure that argument wasn’t going to win over any philosophers, but then again, he didn’t really care about philosophers’ opinions.
+
+Philosophers were the guys who showed up after everything was said and done, and determined who they thought was right and wrong… which was the trashiest possible take, in Rhys’s opinion. They were the ultimate armchair referees. They had no say on the actual play of the events, or on people’s take on anything as it happened, but afterwards, when everyone had hindsight, they decided ‘good’ and ‘evil,’ as though they had any right. Armchair refs, each and every one of them. In other words, the worst kind of people.
+
+Rhys drew a set of raw fries out of the ice water he’d been soaking them in, and walked over to the hot oil. The other mages gathered close as he dropped them in, watching the little potato sticks bob in the oil. He waited until they were golden brown, then gestured, calling them out with Trash Manipulation and setting them into some paper he’d drawn the filth and impurities from. Putting them to the side, he grabbed a broken cup and poured some freshly-made ketchup into the bottom of it, then stepped back for everyone to take a bite of the fresh fries.
+
+Korii took a bite. Her eyes got wide, and she put a hand over her mouth. “So good!”
+
+Blake frowned, unconvinced, then took a bite for himself, and melted. “No way…”
+
+All the other mages fought their way forward, each taking a fry and dipping it in a bit of ketchup reverentially, almost worshipfully. Rhys gazed on, nodding with approval. As it should be. Junk food, finally worshipped, as was its right!
+
+When everyone had had a taste, he took the final fry, dipped it in the last of the ketchup, and allowed himself a taste. Hot potato exploded on his tongue, mixed with the perfect amount of salt, and the vinegary, tomatoey ketchup provided the perfect sweet-salty-acidic counterpart to the salty starch of the potato. He closed his eyes, relishing the flavor.
+
+I never thought I’d taste this. Not in this world. But here he was. In another world, full of magic, and eating potato fries. Life couldn’t get any better.
+
+And then he opened his eyes and smiled. It was time to get the ball rolling on all his endeavors. Time to cause a little chaos.

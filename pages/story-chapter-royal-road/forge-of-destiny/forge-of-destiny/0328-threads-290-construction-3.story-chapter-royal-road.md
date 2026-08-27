@@ -1,0 +1,153 @@
+---
+id: 3b8d533c-a119-5bd8-94d5-e64b0523207c
+page-type-slug: story-chapter-royal-road
+title: "Threads 290 Construction 3"
+slug: 0328-threads-290-construction-3
+partOf: forge-of-destiny
+position: 328
+ownLength: 2018
+unit: words
+publishedAt: 2023-03-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1130928/threads-290-construction-3"
+royalRoadId: "1130928"
+---
+
+It was a few hours later, the sun having passed its zenith, when Ling Qi made her way out, traveling up and over the switchback path that led toward the top of the severed mountain. It was unpleasant. The qi in the air was still disturbed and humming, the mountain all but emanating indignation and wrath but also the fear of a being wholly cowed. Ling Qi could sense the efforts being made to calm the local spirits though, so the mountain’s feelings didn’t worry her.
+
+On the newly formed plateau, there were many workers, turning the cloven surface into something more natural. The efforts were mostly mundane. with  many workers were hauling bags or wagons of soil and grass seed, but there were scattered individuals shaping the cut stone, transforming the exposed rock into a material that would endure the elements and hold soil.
+
+Her target wasn’t in the general work crews this time, but in the rising tower of cut white stone and polished wood. It was an observatory, she had been told, a place to study the sky and the threats beyond. It had been arranged for by the Duchess to study the demon lights they had seen in the sky on their journey south. Around it, the beginnings of a fine garden were being cultivated, and she could see the bases of other buildings. The Meng had chosen this location and lobbied the Duchess for attachment to the observatory, and their request had been granted.
+
+As Ling Qi fluttered down from the sky, gown billowing out in the wind, she was greeted by one of the pair standing near the entrance of the incomplete observatory.
+
+“Lady Ling, you are in fine form this day,” Meng Dan greeted as she touched down. “You’ve tried a new pattern for your mantle, I see.”
+
+Ling Qi reached up, brushing the pale blue fur trim at her neck. She’d shaped her mantle into a pale, diaphanous cloak of nearly transparent silk with a touch of glittering thread that made her seem partially shrouded in snow.
+
+“It’s good to give her some practice,” Ling Qi said, referring to her slowly awakening gown. “And even one such as I like to try new things now and then.”
+
+“You do indeed,” Meng Dan said, his eyes sparkled with humor, and Ling Qi smiled back, acknowledging the understatement.
+
+“You managed to secure yourself as a representative then?”
+
+“I did, through prior experience and some backing. And I admit, it helped that a number of candidates stormed out, refusing to countenance the entire matter.”
+
+Ling Qi winced. She had heard that a faction of the Meng clan were incredibly upset by some of her recent statements. She had already committed to helping Meng Diu and Meng Dan’s group though.
+
+“And who is this?” she asked, politely turning to the other person present, a gangly, bookish man in dark blue robes. He had a sleepless look to him, which was strange given that she sensed he was in the fourth realm.
+
+“Baroness Ling wounds me,” he said tiredly, running a hand through his hair and knocking his minister's cap askew.
+
+<Astronomer Wu,> Sixiang whispered.
+
+Ling Qi bowed in apology as a brief burst of memory replayed behind her eyes. This was the astronomer at court, who’d verified some of their claims. “My deepest apologies, Astronomer Wu. Her Grace tends to overwhelm other impressions.”
+
+“She does,” Wu said. “Please raise your head. I am only a scholar after all.”
+
+Ling Qi rose. He turned to look at Meng Dan.
+
+“Let me leave you to your next appointment then, Sir Meng. I’ve enjoyed our conversation, but I really must get back to work as well.” The astronomer gestured respectfully and bowed himself.
+
+“Of course. I do wish you good fortune in attuning and aligning the lenses tonight, Astronomer,” Meng Dan said politely.
+
+“Baroness, if you or Lady Cai would care to read this one's observations on the celestial phenomena in the south, please just set an appointment,” he added, turning to her and bowing again.
+
+“Thank you for your hard work, Astronomer Wu.”
+
+With that, the older man left. The two of them waited a polite beat for him to disappear inside the observatory before continuing.
+
+“I must inform you that I am not alone here,” Meng Dan said.
+
+Ling Qi sighed. “Who?”
+
+“An uncle of mine, one who is aligned to the clan head’s views. He is not wholly unsympathetic to grandmother though. I will, however, have to run any serious agreement through him.”
+
+“I understand,” Ling Qi said unhappily. It was an obstacle, but not an unexpected one. “How much obstruction do you think there will be?”
+
+“That is the interesting question.” Meng Dan steepled his fingers together. “Uncle Deming is a principled man. In many ways, he was the compromise candidate.”
+
+Ling Qi crossed her arms, considering this. “And what are his principles?”
+
+“That there is more power in words than blades. That we, the Meng, should be teachers and keepers of history. He is a deeply melancholy man, stemming from his belief that our ways can only fade, or at best, hold in the heartlands. It is my grandmother’s belief that he might be swayed to our views if it can be shown that the spirit speaking methods and principles of the Dreaming Way can still find purchase in today’s world.”
+
+Ling Qi frowned. “Merely asking after those beliefs would be taken as flattery alone.”
+
+“Yes,” Meng Dan agreed. “Unless you can show you have some real interest already?”
+
+Ling Qi thought of a horned skeleton, pierced and bound to a pillar of stone in a jail of broken time. “Maybe.”
+
+“You did imply before that you might have found something,” Meng Dan offered. “But leaving that aside, he is not against this effort in principle. Neither is the clan head. Do understand that.”
+
+“They aren’t? I understand that the majority of your clan is very isolationist.”
+
+“They are, but they are also very traditional. And thanks to the tapestry you sold to us, whose authenticity is now beyond question, it cannot be argued easily that diplomacy with these folk is untraditional.”
+
+Ling Qi hummed under her breath. That was an unexpected benefit. “But there is still opposition.”
+
+“Of course. Right now, they seem to be testing language implying that the ice folk are shiftless and untrustworthy since the marriage alliance was not renewed and the High King who made it was unseated by his rivals in the end. I can’t say how effective it is yet.”
+
+“Something else relying on our success,” Ling QI said wryly.
+
+“Naturally,” Meng Dan chuckled. “But please, come with me. Our housing is incomplete, but a small pavilion has been set aside for meals. Do you have a preference for tea?”
+
+“Please serve whatever your own preference is. Is your uncle here yet? I do not sense any one of the upper realms aside from Astronomer Wu.”
+
+“Not yet. A personal meeting unrelated to the summit is probably best saved for after the success of the initial negotiations. I will introduce you in the coming months, of course.”
+
+They made their way to a little pavilion which looked as if it would be surrounded by running water eventually, and soon, they were served a rich green tea.
+
+“I’m surprised your elders were willing to set up here atop such a blatant violation of the natural spiritual landscape.”
+
+“Disasters come, and rearrange the world. One must know how to create in the wake of ruin.”
+
+That explained all of the effort put into landscaping. She touched base with Sixiang, who had been casting their senses about.
+
+<Does seem like it's having a soothing effect. Also, there’s at least one person moving around up here in the big leagues. I think it’s one of the foreign guys. Course I’m pretty sure he let me notice him,> Sixiang commented.
+
+Ling Qi inclined her head slightly. “So, Meng Dan, let’s get to the main question. What does the Meng clan want most from these negotiations?”
+
+“That is difficult to answer given the competing interests at play. But… I think an agreement of military cooperation against the nomad tribes that lie between us would do the most to silence critics among my clan. And given grandmother’s intentions to develop the south, that would be most helpful to us.”
+
+“You don’t ask for small results.” Ling Qi sighed, letting the warm steam from the tea waft over her face. She drummed her fingers on the table. “You know any such agreement would be a long way off.”
+
+“Yes,” Meng Dan agreed. “But I have little else to offer. Only a reduction in raids would materially affect the Meng clan’s interests.”
+
+This request could potentially interlock with other interests. But it was an idea which needed more cooking. “Hmm, do you know what movements the Western Territories are making?”
+
+“They are attempting to build a port again. It seems significantly more successful than their last attempt. But in regards to the troop movements in the south, the number of involved troops are significant. Reports indicate at least twenty thousand Sun soldiers, all at least third realm. It is their largest muster since the initial conquest of the west. Also…” Meng Dan trailed off, and his perpetual smile dipped.
+
+“Also?” Ling Qi asked warily.
+
+“The priests who oversee the maintenance of the western border have been requesting reinforcement and resources. The jungle is… energetic in a way that they have not experienced.”
+
+And then, there was that. She hoped Cai Renxiang would return with more news on what had gone down in the meeting between Sun Shao and the Duchess. “Thank you, Meng Dan.”
+
+“You are very welcome, Miss Ling. Perhaps you will deign to share some of those secrets you have teased in the future.”
+
+“Maybe when this is over, we can arrange to share notes.”
+
+“Most agreeable. I’m sure I can arrange something comfortable,” Meng Dan replied. “Though I must insist you share some favorites for the catering.”
+
+Ling Qi blinked, and for the first time, an errant thought crossed her mind. Meng Dan seemed to compliment her often. She’d assumed it was just part of his affable personality. However, this arrangement…
+
+<Does it change anything?>
+
+Sixiang’s words brought her up short. No, she supposed it didn’t. Nothing official had been mentioned, so even if there was an idle fancy there, it didn’t amount to anything. She had strength and position. There was no threat.
+
+“Miss Ling?” Meng Dan asked, tilting his head.
+
+“Sorry, just lost in thought for a moment. I’d actually like to acquire some material to study imperial era Weilu governance and spirit law. And if I’m going to talk to your uncle, I wouldn’t mind some primers on the basic tenets of the Dreaming Way. Do you have any recommendations?”
+
+Meng Dan drummed his fingers on the table. She held back a wince. He’d obviously noticed a shift in her demeanor
+
+“Well, what is publicly available is somewhat limited, but I can create a reading list for you easily enough.”
+
+Ling Qi nodded, sipping from her tea.
+
+They spoke a while longer on smaller details such as arrangements for material and accommodation for the Meng clan in the planning and building. These were requests which she could pass up the chain to hopefully smooth prickly tempers.
+
+He also provided some more objective feedback on Hanyi’s tour, which had been successful by all metrics. Her junior sister did seem to have influenced the more local spirits strongly. A repeat the following year was looking to be well in the cards.
+
+Meng Diu was heavily involved in pushing for renewal projects in the south, but it was hampered somewhat by the troubles in the west. It made it difficult to argue with the more militantly isolationist Meng.
+
+Eventually, Ling Qi took her leave, leaving Meng Dan to resume his own duties as she made her way from the observatory and the half-tilled garden. Outside, she swiftly turned her attention to the south where Sixiang indicated the continued presence of power.

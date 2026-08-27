@@ -1,0 +1,151 @@
+---
+id: aa9e2f18-4ae3-5c8f-8512-7d6427c6ff6f
+page-type-slug: story-chapter-royal-road
+title: "Threads 196-Liminal 5"
+slug: 0228-threads-196-liminal-5
+partOf: forge-of-destiny
+position: 228
+ownLength: 2423
+unit: words
+publishedAt: 2022-03-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/863324/threads-196-liminal-5"
+royalRoadId: "863324"
+---
+
+She continued her descent, keeping her eye on the flicker of green that she had spotted. It helped to focus on a goal, rather than descending without purpose. It kept her thoughts running in the correct direction and her body reacting to her own commands rather than those of fragmented signals from fleeting alternate selves.
+
+Forward. No turning. No retreating. That was the key.
+
+When she came to the bottom of the stairs, it was abrupt. One moment, she had been placing a foot forward onto another dry stair. The next, her foot had sunk into swampy muck.
+
+She beheld the sight of a low, wide cavern with a sense of creeping familiarity. It had been over a year since she had seen this place last, but she had seen it. Sluggish black water lapped at the muddy shore, and she remembered the treasures she had pulled from it: the shard of solid darkness from which her domain blade had been carved; the deathly mirror which sale had funded her cultivation for a year now; and the near forgotten seed pods still resting in her storage ring in the material world.
+
+In the center was the horned skeleton wrapped in vines and covered in black flowers. It was still bleeding the liquid that filled the pool. Driven into the earth at its side was the same bronze spear she had seen before, but in the Dream, the spear flickered with a ghastly green radiance.
+
+As she beheld it, she sucked in a breath when the bare skull twitched and rose to regard her with sockets full of black flower petals.
+
+“I see you.” The voice that emitted from the skeleton dug into her mind with claws of icy cold, painful and ragged. Yet, through the pain, Ling Qi could feel no malice in those words. If anything, they seemed almost filled with wonder.
+
+She felt a sharp pain in her chest then and felt something part her skin from within. She looked down to see the point of her domain blade pulling free, glistening and black. It shot from her chest, and it took everything she had to halt it middair, vibrating with tension. It felt like someone had just yanked on her arm hard enough to dislocate it.
+
+“My blood, you will not come?” The worn whisper of the skeleton scratched at her ears. Its jaw didn’t move, and its voice seemed to be born from the rustle of petals and dried vines.
+
+“Honored Elder, you are mistaken,” Ling Qi ground out through grit teeth, feeling the strain of holding her blade in place, humming in the air between them. “I only took the gifts freely offered. I am not your blood.”
+
+Somehow, she could feel the futility of her effort. She could feel the strength of the skeleton. If it exerted itself just a little more, she knew it would have her blade.
+
+“Liar.” Its voice was scolding but fond. “But what thief does not lie?”
+
+Air shimmered in a veil of glittering color, and chaotic qi washed out over the room like a tidal wave as Sixiang materialized in front of her at full height. "Let her go," the muse hissed, their expression strained.
+
+She jerked back as the pressure on her domain blade loosened, but the grip was not wholly gone.
+
+"How greedy," whispered the skeleton, seemingly not angered by the interference. "You would deny a lonely elder their first company in an age?"
+
+"If she doesn't want to be here, you bet I do." Sixiang's words no longer came from their lips but rather on the sounds of an increasingly violent tide.
+
+"Thank you, Sixiang," Ling Qi said with a wince, laying a hand on the muse's shoulder. "Honored Elder, unfortunately, I cannot stay. I have many obligations."
+
+“Young. So young. So much remains to be seen, to be taken,” the voice crooned. "Go, and come visit again. Bring with you your tales, and let us share as one thief to another.”
+
+The grip vanished, and Ling Qi nearly stumbled, staring at the skeleton warily. “Why do you trust that I would come back?”
+
+“Ling Qi, don’t question the thing,” Sixiang hissed in alarm.
+
+Somehow, the thorny vines framing fleshless jaws seemed to convey a smile. “Curiosity. Want. Power.”
+
+Ling Qi felt something like an impact against her stomach and a rushing sensation like flying at top speed. Her back slammed against wood, and cherry blossoms rained down. She found herself staring up at the boughs which surrounded her starting point. The dream idol floated soundlessly above the shimmering ring gates.
+
+A familiar dark oaken door now stood at the edge of the clearing. It had no frame nor hinges, just a simple handle.
+
+Ling Qi shut her eyes. “I think that’s enough for one session.”
+
+***
+
+The sights she had seen in the realm of Dream still filled her mind even now, well after she had passed back through the ring gates and packed both them and the idol away. She still saw the crumbling city ruins balanced so precariously, lives and experience piled high atop their predecessors’ until the oldest were but dust and sediment.
+
+The bleeding mountain and the behemoth with Gui’s eyes stuck in her mind as well, mysteries she was itching to unravel. Then, there was that itching whisper.
+
+Power and Want.
+
+She couldn’t deny that those simple words compelled her. Divorced from the immediate fear of the moment, she was left to dwell on what she had felt down in that moldering prison. She felt a draw to that whispering skeleton, a deeply uncomfortable kinship. Somehow, she was certain that they were similar.
+
+She couldn’t shake the feeling that he would be sad if she never returned. It was lonely to be a prisoner.
+
+“I can’t feel anything influencing you, but he might just be better than me,” Sixiang answered her unspoken question.
+
+Ling Qi acknowledged that. Then again, they had known exploring the liminal realm would be dangerous.
+
+“Nothing ventured, nothing gained,” Sixiang agreed.
+
+“Hey, Big Sis! Are you alright? You’ve been staring off into space since the wagon got moving.” Hanyi’s voice brought her out of her thoughts, and Ling Qi cracked her eyes open.
+
+The young ice spirit, already somewhat dressed up, was sitting across from her in the cluttered and cramped workshop which took up the back of Bao Qian’s wagon. She wore a dark blue gown that contrasted with her pale complexion, a graceful thing that Meizhen had helped her pick out. Her hair had been tied back in several braids and was threaded through with white flowers, which her friend had assured her symbolized the coming of winter.
+
+All in all, Hanyi looked like quite the little noblewoman, despite the bare feet kicking away and sending the hems of her gown flapping.
+
+“Just thinking about things.”
+
+“It’s cause you went on that weird trip! You should’ve taken me and the dummy with you,” Hanyi accused, crossing her arms.
+
+“Maybe another time,” Ling Qi said noncommittally. She didn’t know how well they would handle it.
+
+<You’ll want to work on your own skills first,> Sixiang murmured.
+
+“Besides, you were busy. Bao Qian has told me how much work you’ve put into this,” Ling Qi said. “This isn’t just one show. It’s a whole tour.”
+
+“Yeah,” Hanyi said proudly, either mollified or forgetting her previous annoyance. “There was a whole bunch of work, and even though I didn’t get most of it, there was a bunch of local spirits and stuff about each stop that I had to memorize since I’m doing more than just singing.”
+
+“I trust that you’re well prepared,” Ling Qi said, glancing toward the front of the wagon. Whatever else she might say of Bao Qian, he was a dependable sort. Although, coming from the Dream…
+
+Ling Qi found herself eyeing the flows of energy through this wagon, lingering on the entrances and exits. Since her journey with Sixiang, she had found her senses sharpened in an unexpected way. The places between—doorways, boundary markers, and others—stood out more sharply to her. Training her senses to interact with the realm of Dreams had left her more sensitive to other liminal spaces.
+
+She wondered what it was that made Bao Qian regard this cluttered wagon as his home over the manors and lands of the Bao.
+
+“We will be arriving shortly, ladies and spirits. Prepare yourselves!” His voice called back to them.
+
+It wasn’t really her business, Ling Qi thought. She smiled and leaned over to pat Hanyi on the head encouragingly. She was looking forward to her junior sister’s performance.
+
+***
+
+The first stop on the week-long tour was the largest venue.
+
+Bao Qian had begun by soliciting the barons of the south central valley region, and he had secured agreement from several before his efforts had attracted the attention of Vscount Chao. In this region, so close to the Wall, all but a handful of families were relatively young. This viscounty was no different, and its current owners had only held the title for some two hundred years.
+
+It was for this reason, Ling Qi suspected, that they were eager enough to try new things. Hanyi would be performing not in the viscounty’s capital though, but rather, its largest agricultural settlement.
+
+Ling Qi had thought that she understood what farmlands looked like, having seen the rolling tea fields of the Sect and the walled fields and pastures of Tonghou. This was much larger. Empty, harvested fields set for winter stretched in every direction nearly as far as she could perceive. Neat roads cut between fields, and scattered structures gave the feeling of a dozen tiny villages rather than a large town.
+
+However, between her efforts at gardening and her recent journeys, it was easy to tell that this region was as walled as any town or city. Thick lines of growth marked the border between wilderness and civilization with trees packed so close together that they were a living bulwark, reinforced with formation arrays old enough to have become part of the living qi network of the trees themselves.
+
+The venue itself was near the center of the widely spread settlement, a grand pagoda with a green tile roof and walls of living wood. Like everything else here, the pagoda sprawled, taking up an entire hill with its structure and grounds.
+
+“Quite a pretty structure, is it not?” Bao Qian commented casually as they walked up the winding ramp which led into the temple. Hanyi had left them, hurried away by attendants and junior priests to prepare for the show.
+
+“It is.” Ling Qi looked over the scrollwork on the handrails of the ramp and the glimmering garden that lay beyond. The air was filled by the faint music of a small river which wound around the hill and watered the fields beyond. “What did you say it was called again?”
+
+“The Springmist Temple,” Bao Qian replied. “It’s the second largest temple in the south central valley, and it looks after the yearly flooding and the fertility of the valley.”
+
+“Are you sure this is appropriate for Hanyi then?” Ling Qi asked, not wanting to fret but being unable to quiet her worry.
+
+“I have been assured that it is. Winters have been growing harsher, but the priests have not yet been able to pin down a spirit to propitiate for this. I have exchanged numerous letters with the head priestess of the temple and Viscount Chao to confirm the details.”
+
+“I see.” She was being ridiculous.
+
+As they passed through the entrance of the temple, her nose filled with the smoky scent of burning incense and fragrant wood smoke. Inside the temple, she saw people gathered. Lay worshippers would be outside for the procession that would follow so these must be the gathered nobles of the region, here to oversee and view the rituals and the performance that was part of it.
+
+Bao Qian’s voice tickled her ear, though he had not leaned closer nor had his lips moved. Indeed, he was smiling pleasantly at those who had looked up to see them. “There are two main groups here. There are the nobles whose agricultural lands line the main road which currently ends in the ruins of Black Lotus Pass, and the others are nobles whose lands are further into the hills and produce the valley’s metals and finished goods
+
+Ling Qi shot him a look out of the corner of her eye even as she bowed in greeting to the gathered nobles, and he looked back impassively. Well, it wasn’t as if she didn’t know the secondary purposes of these gatherings. Cai Renxiang and she had embarked on quite a difficult project, and they wouldn’t be able to do it alone. The Wang and the Sect would support them militarily, but protecting their land, once appointed, was only the first step. To thrive, it had to be made prosperous. They couldn’t expect to be directly supported by the committal clan of the area, the Diao, at least not at first.
+
+“If I wanted to speak to someone about the old road, where should I direct my attention?” Ling Qi asked under her breath.
+
+It wasn’t a completely vital route. Most of those went through the Wang lands in the foothills and outer mountains, but this pass at the extremis of the Diao’s southern holdings did still have value, opening access to these valleys, the river, and potentially, the Meng to the West. Besides that, from her admittedly limited understanding of such things, it was good to keep many routes so that any one becoming blocked wasn’t catastrophic to any trade they could develop. Having multiple escape routes and fences was always better than only having one.
+
+“A good starting point would be Baron Suo,” Bao Qian answered. She followed his gaze to a middle-aged man standing with a small group of other nobles by the refreshments table. He had dark brown hair speckled with gray and a round, friendly-seeming face. “Their land abuts the old road, and they are well liked by their neighbors. His father recently took up the role of patriarch so he is a newer clan head as well. He seems like a man open to innovation in my opinion.”
+
+“Thank you, Bao Qian,” Ling Qi said. “I will see when the performance starts.”
+
+“Of course. Good hunting, Ling Qi.”
+
+They split up, Ling Qi heading toward Baron Suo and Bao Qian moving off toward another gaggle of nobles.

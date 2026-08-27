@@ -1,0 +1,169 @@
+---
+id: fa44b4c0-6357-5652-8de6-26864b9aed05
+page-type-slug: story-chapter-royal-road
+title: "Threads 328-Dukes 2"
+slug: 0368-threads-328-dukes-2
+partOf: forge-of-destiny
+position: 368
+ownLength: 2635
+unit: words
+publishedAt: 2023-08-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1313970/threads-328-dukes-2"
+royalRoadId: "1313970"
+---
+
+A cresting gust of wind yanked at her hair and the hems of her dress. Light flashed, and the scream of something viciously sharp being dragged along the stone followed. Ling Qi parted the wave of dust and dirt that followed around herself and the Bai.
+
+Xuan Shi stood a little ways off the platform, a hovering swarm of his hexagonal talisman shields forming half of a sphere in front of him, rippling and sparking with blue-gray qi. He was unruffled, and he stood with his feet and the butt of his staff planted in the earth. The only unsteadiness of his posture was the way his eyes flicked toward her.
+
+Zheng Fu stood about two meters distant, bouncing on the balls of his feet in a loose fighting stance as his right arm snapped back in a blur, rippling back into human shape from the mantis-like blade that had drug sparks along the surface of Xuan Shi’s defense. His other arm was drawn back, chambered for a punch, muscles writhing and swelling under the thick wraps he wore on his arms. Then, he spied them.
+
+“Oh, looks like we’ll have to box a little later, turtle-man. The ladies are here!”
+
+“I’m quite sure you could have felt us coming some time ago, had you expended the effort,” Bai Meizhen criticized.
+
+“Eh, maybe. I really wanted a crack at this guy though. He’s tough!” Zheng Fu shrugged. “Later?”
+
+“Later,” Xuan Shi agreed, reaching out for one of the panels as the others flitted away, disappearing into his gauntlets in a dozen little flashes. He rubbed his thumb along the scratch in the remaining panel. “Apologies, Lady Ling, Lady Bai. To test mine artifice against such strength is not a common chance.”
+
+“There is a time and a place for such spars, but I suppose I will not blame you for showing martial spirit,” Bai Meizhen said haughtily. “I hope you may restrain yourselves going forward.”
+
+“Yeah, yeah,” Zhen Fu said dismissively. “If you’re standing around waiting, you might as well cultivate a little. I know you gotta stop once business starts though.”
+
+Well, that was an admirable work ethic at least. She was sure Sixiang would have needled her about her own habits if they had been here.
+
+“This one apologizes,” Xuan Shi said evenly. “Three arrive. The sand dwellers demur. Whence is the bloodied flower?”
+
+“The Western Territories have indicated that Sun Liling may be somewhat late, as their delegation is only just arriving,” Ling Qi said apologetically. “We may have to wait for a short time.”
+
+“Hah, is that so?” Zheng Fu scratched the back of his head. “You all want in on this then? We could do teams. You and the snake-y lot, me and turtle man?”
+
+“I would prefer if we did not melt, freeze, or otherwise explode the meeting site, honored guests,” Ling Qi said calmly.
+
+“That doesn’t sound like a ‘no.’ That sounds like a ‘maybe later.’”
+
+“I will have to decline for the foreseeable future,” Bai Meizhen said.
+
+Xia Anxi was disapproving. “Honestly, we are a diplomatic mission.”
+
+Xiao Fen looked like she was dissecting Zheng Fu with her eyes and did not speak.
+
+“Bah, alright. Means we have to fill the time, and you didn’t bring snacks. Unless…?” Zheng Nan waggled his eyebrows behind his headwrap.
+
+Ling Qi sighed. She gestured, and atop the stone table, a spread of drinks and carefully arranged platters of light snacks appeared on the table. It was a little rude to serve before the Western Territories arrived, but declaring they would be late was also rude.
+
+“Hah, there we go!” Zheng Fu laughed, practically leaping onto a bench, reaching for a bottle of one of the harder ciders.
+
+“Your hospitality is appreciated,” Bai Meizhen said quietly, stepping past her. “Sir Xuan, I have heard you were more involved in matters than the rest of us. May I ask after your reasons?”
+
+“Our ports are open and accept many ships,” Xuan Shi said simply, taking a seat. “Advice was asked, and though the clan and seas are far, some use might be found. This is curious, no?”
+
+“You got that right. Honestly, you hermit folk have been holding out on us, and now, the south is getting exciting too! We gotta get ourselves out here more,” Zheng Fu enthused.
+
+“It is intriguing,” Bai Meizhen said, taking her own seat, Xia Anxi and Xiao Fen followed, but Ling Qi remained standing. Late or not, she didn’t intend to seat herself before all of her guests were here. “I trust in Lady Cai’s judgment, so I am not as skeptical as some. Still, this is certainly a bold endeavor.”
+
+“No disagreement there,” Zheng Fu said, the cloth of his facemask stretching over what was surely a wide grin. “I…”
+
+Ling Qi abruptly straightened up. The scent of copper invaded her nostrils, and the feeling of leaves and new shoots and crumbling black earth brushed her senses.
+
+Bai Meizhen sniffed. “Not that late, it seems.”
+
+It wasn’t long before Sun Liling made her presence known on the hilltop, walking with an unshakeable predatory confidence. The Princess of the West was not too much different from how she was at the tournament.Her sun-darkened skin had shed the handful of scars she had before, and her hair was a little longer, bound up in a thick braid that swayed behind her back. She wore a shimmering vest of black scales over a pale green shirt with silver vambraces that pinned the sleeves in place. The high riding boots her silken pants were tucked into were made of white snakeskin.
+
+She was glad that Bai Meizhen had such a good hold on her temper because that clothing choice was obviously provocative. Xiao Fen looked about ready to spit blood and leap over the table. Meizhen merely narrowed her eyes.
+
+Trailing behind Liling was another familiar figure. Ji Rong, unlike his liege, had picked up new scars, quite a few of them, climbing like lines of lightning up around his bare arms from beneath the bandage wraps around his hands and wrists. He was wearing an open chested, sleeveless tunic in similar colors to Sun Liling. His hair had been shorn short, rather than remaining a shaggy mop.
+
+“Yo,” Sun Liling greeted. “Looks like you started without us.” The princess tilted her head as she looked at Ling Qi.
+
+Ling Qi smelled blood as the princess stared at her. Sun Liling was almost as tall as her now, and she was firmly in the sixth stage of the green realm, though there was a potency in her aura beyond that.
+
+Ling Qi smiled blandly. “Only in making ready the refreshments. It would be terribly rude to make the other guests wait for hospitality when there was no specific time of arrival provided.”
+
+Sun Liling cracked a grin. “That’s fair. I guess I won’t sweat it. It’s fine that I brought a plus one, right?”
+
+“Of course. I would never refuse our esteemed guests their retinues,” Ling Qi returned. “Please find a seat, princess. Since you are here, we can get to business, if no one has any objections.”
+
+Zheng Fu gave her a thumbs up with his mouth full of cider. Xuan Shi inclined his head.
+
+“Everyone present has many duties to see to. I am ready to proceed at any time, baroness,” Bai Meizhen said.
+
+“Yeah, sure. I’d like to hear what exactly ’s been going on down here. Rumors have been wild,” Sun Liling said casually. She advanced toward the table.
+
+Ji Rong followed. He briefly met her eyes, and Ling Qi had to stop herself from frowning. There was something ragged in his gaze.
+
+The two of them took a seat near Xuan Shi, as close to opposite the Bai delegation as they could manage, and Ling Qi silently let out a breath of relief. Sun Liling wasn’t going all in on antagonizing them then. At least not yet.
+
+Ling Qi moved around the table to find an open space as close to equidistant as she could manage from all of the guests present. “I’m sure the rumors have been very outlandish. But with everyone here, I hope I can give all of you, the Cai’s esteemed guests, a clear picture of the situation.”
+
+Xuan Shi already knew all of this, and Bai Meizhen knew most of it, but it was best to treat everyone as if they were on even footing here.
+
+“Some months ago, during the Argent Peak Sect’s assault on the nomad confederations’ meeting, I encountered an individual who was neither cloud tribe nor imperial…”
+
+Ling Qi made her presentation, laying out the raw facts of the events at the caldera, the journey to the south, the meeting in the iron fortress, and the preparations of the last month or so. She allowed qi to tinge her voice as she spoke—it came easily now—adding clarity and sincerity to her words, granting them a depth that mortal speech could not match with image and memory embedded in each syllable.
+
+While she spoke, she watched her audience. Xuan Shi leaned forward subtly, listening intently, despite knowing this all. Zheng Fu grinned, putting an elbow on the table while shoveling in snacks with untoward speed. Bai Meizhen was unreadable, but Xia Anxi looked disbelieving. As for Sun Liling, she listened with a cocked eyebrow and an unreadable smirk.
+
+“Hah! You’ve been running non-stop. Bunch of adventures back-to-back,” Zheng Fu exclaimed as she finished. “Well, I get why you’re so intense about this!”
+
+“Prioritizing among enemies and potential enemies is wise, and Duchess Cai’s subjugations prove that foreign arrangements are possible here, just as they are on the seas,” Bai Meizhen said diplomatically.
+
+That was the official Bai line, Ling Qi knew.
+
+“Yeah, I get it. Enemies, enemies everywhere. Gotta pick a direction,” Sun Liling said. “Still, gotta ask, I don’t feel like you all are really just looking for something perfunctory here? Kinda at odds with everything you’re building.”
+
+“We would like it to be more to head off potential conflict in the future since the Emerald Seas is not positioned to truly control the mountains of the Wall. Are matters different for the Western Territories?”
+
+“Nah,” Sun Liling said lazily. “Looking like there’s some good mining in the foothills, but we’ve got enough space to fill up. Right, Ji Rong? You toured the settlements.”
+
+“... Yeah. Need more people first.”
+
+“Eh, you lot are moving enough stuff that I doubt you’re planning to punch and run down there,” Zheng Fu drawled. “Hells, I hear your grandpappy’s had some real bigwigs tearing up open mines down there. Sure sounds permanent to me.”
+
+Sun Liling squinted at Zheng Fu, and Ling Qi blinked. She hadn’t expected that.
+
+“There ain’t as many tribes in our chunk of mountains. Might as well get some use out of ‘em.” Sun Liling shrugged. “We ain’t planning big settlements. Also not really the point of this, is it?”
+
+“I hope that our efforts can be coordinated, if only to avoid any unnecessary mistakes or conflicts,” Ling Qi said. “I have knowledge that indicates that the Polar Nation who live south of the Western Territories has some contact with a ‘flower demon’ from the north, which sounds like the old inhabitants of your kingdom, for example. Have you found any passes that would facilitate that?”
+
+Sun Liling hummed to herself. “Well, now we’re really getting off track. Since I’m feeling generous though… Yeah, there’s something like that, a place where the mountains go low. Sealed off though. Some real nasty growth there. Good thing Gramps hasn’t decided to chop through it yet, huh?”
+
+“Probably,” Ling Qi said slowly. “My apologies, Princess Sun, I hope to speak with you more on those matters later.”
+
+“And I might be inclined to listen. Why don’t ya get back to explaining the barbarians right now though?”
+
+“My lady’s current plan for negotiations is to establish non-aggression, a mutually acceptable dispute resolution mechanism, and agreement over territory maps. We intend to maintain in this area a small ‘foreign quarter’ similar to the Xuan’s port. Any trading at scale is still some time away, but we are considering offering some mutual academic access to keep interest.”
+
+Xuan Shi tilted his head curiously.
+
+“Oh?” Bai Meizhen asked. “The observatory then? I suppose that awful light in the south means these people have some experience with the sky.”
+
+“Just so,” Ling Qi replied. “Tentative investigation indicates that they may have difficulty producing glass as fine as ours, so our telescope might be of interest. Similarly, I have observed their astronomical maps, and they are not too inferior to imperial ones.”
+
+“Guess offering mostly irrelevant stuff is a good plan for bait,” Sun Liling said dismissively.
+
+Nettled, Xuan Shi intoned, “One who lives ‘pon the shore never shall ignore the stars.”
+
+“And I don’t think you need to sink a city's worth of stones into a fancy looking glass to make a star chart,” Sun Liling retorted. “But guess there is some funny stuff going on down south, so maybe it is worth it. Anyway, if you’re looking for approval, I don’t care. Gramps won’t either.”
+
+“It is unorthodox, and not done, to share imperial knowledge with barbarians, but… Princess Sun is correct that a tertiary field like astronomy will not cause too much upset.” Bai Meizhen looked like she had bitten into something deeply sour agreeing even that much with Sun Liling.
+
+“Ehhhhhh… It’s fine?” Zheng Fu offered. “Like, it sounds like a solid plan, not that I have any idea for this stuff. Don’t know that the capital spooks will see it that way.”
+
+“The isles will trust in the judgment of our friends, and we approve the scholarship of the stars,” Xuan Shi said.
+
+“Lady Cai will be pleased. We have hope that the academic mission will serve as the seed of a tradepost, through which wealth may flow into the empire, but that goal is much further away. Now, the first subject I would like to speak to everyone on is how you, our honored guests, are able to interact with negotiations. Lady Cai feels it is important that everyone come to an agreement on our behavior to prevent any misunderstandings.”
+
+“We’re just observers, aren’t we? Just need to sit in our pretty little rustic palaces while you jaw off with the savages, no?” Sun Liling idly drummed her fingers on the table. Her fingernails were bright green and sharp and made a noise not unlike daggers tapping on the stone.
+
+“Of course. You are free to do so. But I know that the worthies of the empire are rarely happy sitting passive for long,” Ling Qi said smoothly.
+
+“Hah, that’s right. I’d go nuts just sitting around like that. Plus, I kinda want to chat with that old crow guy again.” Zheng Fu took a deep drink from the bottle of wine he’d pulled his way and let out a satisfied sigh. “But you don’t want me wandering on my own and spooking them into jumping me. I get it.”
+
+“It is not the Bai’s interest to be involved with barbarians until they have proven themselves otherwise,” Bai Meizhen laid out. “But yes, It would be terribly dull, merely sitting and reading reports rather than witnessing your work first hand. Of course, others may have further interests.”
+
+Xia Anxi bowed his head. “If Lady Cai might allow, I would like to speak with the geomancers, if only to set my lady’s mind at ease on the safety of the projects here.”
+
+Xuan Shi put in his view. “Consultation with Lady Ling is already my purpose in order to ease understanding and bring about friendship.”
+
+Sun Liling snorted. “Suppose you got me there. So, what are you proposing?”

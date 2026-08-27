@@ -1,0 +1,101 @@
+---
+id: 12bd134d-1222-5e89-8c54-b62994939975
+page-type-slug: story-chapter-royal-road
+title: "Interlude: The Cobbler and the Viper"
+slug: 0039-interlude-the-cobbler-and-the-viper
+partOf: forge-of-destiny
+position: 39
+ownLength: 1716
+unit: words
+publishedAt: 2020-12-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607367/interlude-the-cobbler-and-the-viper"
+royalRoadId: "607367"
+---
+
+Liu Xin fled through the woods, his robes flapping in the wind.
+
+He heard the snap of a twig to his right and the flash of steel. Immediately, he dipped his hand into a sewn on pocket and flung out the contents, channeling a trickle of qi. The fine grained sand that he had flung hissed white hot, the cloud expanding to engulf the boy that had come bounding out from the trees.
+
+The boy howled, the sword dropping from his hands as he clawed at his face, and Liu Xin darted in, fist already drawn back for a punch. The heated grit in the air stung his skin but didn’t burn. One hard jab, strike under the ribs, push through. When he stumbled, strike the knee. The boy toppled over, and Liu Xin fled past him.
+
+It was a good thing that even before the Ministry had come, he had learned to fight. The rootways were a rough place; you had to be a little rough to get by. Liu Xin was more than a little rough. He bounded over a fallen log, the strength of cultivation in his legs launching him a good three meters before his feet touched the forest floor.
+
+He’d had to get rougher in the last year after his shitty old man had caught him experimenting with Tanner Shou’s son and disowned him. Liu Xin’s tight expression curled into a scowl as he took a sharp left away from the sound of crashing feet and tearing underbrush.
+
+Dammit! This was all because he couldn’t control his mouth. He’d heard that sluggard Hou Jin complaining about how unfair the elders were, and a comment had just slipped out.
+
+Hou Jin had a lot of money and just as many ‘friends.’
+
+His feet beat against the forest loam, and he felt something snatch at his ankle. Running as he was, he could only curse as he saw the rootlet that had curled around his ankle, sparking with qi. He rolled as he hit the ground, managing not to land flat on his face but only just. Brambles tore at his robe and his shoulder cracked against a tree trunk before he sprang to his feet.
+
+They had him surrounded. He counted eight of them, including Hou Jin himself. He scanned his surroundings, noting the knives, swords, and clubs readied in their hands. One of these clowns, he could take, maybe even two or three. He hadn’t been slacking off in the elder’s lessons after all. But eight was too many. Maybe he could break to the left…
+
+“Such a desperate little rat.” Hou Jin was red faced, his cheeks quivering with outrage and exertion, but the fatty still walked with a swagger that set Liu Xin’s teeth on edge. “Your beating is going to be so much worse now. You should have known your place and accepted your punishment.”
+
+That earned some dark chuckles from his thugs, and Liu Xin glanced around, the rough bark of the tree at his back scraping against his robe. Hou Jin had demanded his month's spirit stones for the insult. As if the damn silk pants needed them.
+
+“Right, right, how foolish for this humble peasant to ignore your lordship’s kindness,” he said dryly. His eyes darted back and forth trying to determine which of the thugs would go down the easiest. He still had one more pouch of burning sand.
+
+The fucker didn’t even acknowledge his sarcasm, merely cracking his knuckles threateningly. “Indeed. You should have known better than to cross this young lord,” he sniffed. “So give thanks for the lesson.”
+
+Liu Xin bared his teeth. He had already hidden the stones and the pills he’d scavenged. “If Sir Piggy is so great, I don’t see why we need the audience,” he sneered.
+
+Stars exploded in his vision, and his head cracked against the back of the tree. Liu Xin tasted blood in his mouth. Hou Jin looked down at the flecks of blood on his knuckles in disdain. Liu Xin hadn’t even managed to react.
+
+It wasn’t fucking fair. This whining fastass had started so far ahead, and he dared complain about their lessons?
+
+“Taking out the trash is what servants are for, fool,” Hou Jin said coldly. One of the thugs raised his club. They wouldn’t kill him, but this was going to suck all the same. It was now or never. Liu Xin’s hand dipped into his pocket and…
+
+Facing as they were, only Liu Xin saw the strip of shadow peel away from the tree.
+
+Everyone heard the horrifying noise as the arm of the boy raising the club jerked to the side and fell limp at his side, dislocated and useless. His startled scream had the others wheeling. A black blur streaked across a disciple’s face, deforming his nose and sending teeth flying. A girl with a knife stabbed out at the blur, and her wrist bent backward with a hideous crack. The tallest of the thugs, a boy half again Liu Xin’s height, went down with a falsetto scream as a dainty knee drove three times into his groin, ending with a sickening pop.
+
+“W-who dares!” Hou Jin bellowed, even as a jeweled sword appeared in his hands, the shimmer of a defensive art crackling in the air.
+
+The blur resolved, and Liu Xin stared blankly at the slender girl standing there in the middle of the four sobbing disciples. Her robe was plain and black, only the silver lining marking her as a disciple. Her skin was unearthly pale, but for the gleaming dark scales that marked her brow, and her long hair was a lustrous black.
+
+Her pale yellow eyes fell on him, and Liu Xin swallowed hard.
+
+He had met this girl before. She was part of the elder’s advanced lessons, and they had been paired for sparring several times. She was a cruel and vicious fighter, and rumor had it she was part snake, a member of some powerful family from another province. He was always left on the ground after their spars, barely able to walk. But that hadn’t been unusual early on. She at least gave real pointers. He got the feeling she didn’t look down on him more than anyone else either.
+
+“Liu Xin, you are late for tea.” Her voice was cold and brusque without a hint of emotion.
+
+But for the groans of the wounded, a pin drop could have been heard in the clearing. Ah, that was right. Yesterday, she had approached him and stated that they were going to take tea together. He’d found it bizarre, and he’d kind of thought he was being pranked by an illusion, but today's events had put it out of his head.
+
+“Excuse me! What do you think you are doing, assaulting us like this?! You cannot expect to just…” Hou Jin began to snarl.
+
+Her eyes flicked in his direction, and the words died in Hou Jin’s throat, his face going a blotchy red and white. “Hou Jin, fifth son of the fourth son of the Head of Clan Hou, Counts of the Eighth Peak in the Celestial Peaks. Prospects: mediocre. Status: Irrelevant. Be silent when your betters are speaking.”
+
+Liu Xin felt laughter bubbling in his throat as Hou Jin sputtered and the remaining disciples milled in confusion and fear. “I was a little held up.”
+
+“I see this. I will forgive your slight given the circumstances. You will improve yourself in the future,” Xiao Fen said seriously. “Come. I will not extend our reservation again.”
+
+“Lady Xiao -” Hou Jin began again.
+
+Xiao Fen’s form blurred, and his words cut out into a wet gurgle as her tiny fist buried itself in his throat. Hou Jin fell to his knees, gagging violently as the veins on his neck blackened and crackling frost spread across his skin.
+
+“I said ‘be silent,’ trash. It was not a request,” Xiao Fen said harshly. She turned without a further word to leave.
+
+Liu Xin stood straight and took a step to follow her. None of Hou Jin’s friends moved to stop him. He met the closest boy’s eyes, and it was the other disciple who lowered his head. He hurried to catch up to Xiao Fen.
+
+“Thank you for the assist,” Liu Xin said carefully, as he caught up, eying her warily.
+
+“Thanks are unnecessary. Continue cultivating so that you do not require assistance against such worthless individuals again,” Xiao Fen replied.
+
+Liu Xin nodded, his thoughts spinning as he tried to figure out just what the hell was going on. He hit upon an idea, a very worrying one. He wondered if his mouth was going to get him beaten anyway. “Just, uh, so you know. I’m not inclined to women.” He’d heard noblewomen sometimes did things like that, and however strong Xiao Fen was, he didn’t intend to be anyone’s toy.
+
+"Of course outsider nobles would be so disgusting," Xiao Fen said with contempt. Her eyes turned toward him, and Liu Xin flinched. “As a Xiao, I have no use for carnal relations outside reproduction,” she said without a hint of embarrassment.
+
+“Oh, uh, that’s good,” Liu Xin said awkwardly as they walked through the forest. “So… why?”
+
+“My Mistress ordered that I make a friend,” Xiao Fen said matter-of-factly. “Having reviewed the disciples present this year, I have determined that you will be my friend. Your battle instinct and drive are admirable.”
+
+“Thanks, you’ve got a mean jab,” Liu Xin said blankly, processing the crazy girl's words. “So you mauled a comital scion because I’m your friend?”
+
+“I silenced trash because he did not know his place,” Xiao Fen answered. “I stepped into the situation because you are my friend. Having spoken with my Mistress on the subject, I determined that this was correct action. Do you believe I erred?”
+
+She was completely nuts, Liu Xin thought faintly. “N-no, friends are supposed to help each other out.”
+
+“Very good,” Xiao Fen said, finally showing an emotion, a touch of satisfaction showing in the upward quirk of her lips. “Now, tea. It is necessary for friends to share their non-vital interests.”
+
+“Right,” Liu Xin said dizzily as they stepped out of the woods. Just what had he gotten himself into?

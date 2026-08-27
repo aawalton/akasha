@@ -1,0 +1,121 @@
+---
+id: f6af380c-1087-5ce9-9644-3565e6df7fd9
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 519-Borders 3"
+slug: 0568-threads-chapter-519-borders-3
+partOf: forge-of-destiny
+position: 568
+ownLength: 2158
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3397639/threads-chapter-519-borders-3"
+royalRoadId: "3397639"
+---
+
+She pressed her hand firmly, letting her hold on solidity loosen again, and was immediately struck by the thrumming, painful vibration. The loose motes of her qi buzzed painfully, trying to scatter apart beyond repair.
+
+"Heaven qi. It's blocking the passage of yin energies," she said, dropping back to the ground silently. There is no physical barrier, hidden or… No, I suppose there's some sort of field."
+
+"One who hides by saying 'I am not here' is best kept out by saying 'I am here'. Heaven is thought, presence, raw energy, together with sunlight; it is the purest expression of yang," Meng Duyi lectured. "A space that is filled cannot be empty. Its most minute sparks radiate presence, if but fed a little."
+
+"It's not anything solid, nor is it strictly manipulating the wind, which is why I did not pick up on it. It's completely porous, except for dense collections of yin, which it doesn't block so much as scatters. The solid feeling is just my own consciousness reflexively holding me together, which the cloud could not do," Ling Qi analyzed. "At this place, it is a barrier only for me and any passing rain clouds. It must take very little energy."
+
+"It would be painfully obvious if there were more snow, or even among the trees, where the field would interact with wood qi," Meng Duyi admitted easily.
+
+"Heaven qi does not penetrate the earth well. The density of the earth smothers the very presence you speak of," Ling Qi mused.
+
+She didn't really move through the earth herself. Her movement began in one place and ended in the next, skipping the distance in between, but she didn't go through objects. Conceptually, she went around them.
+
+That said... She cycled her qi through meridians full with kaleidoscopic qi, and took a half step out of the world. Then, she winced, rubbing her eyes and stepping back. "Bright."
+
+The barrier was a roaring vortex of sparking electricity, the crackling laughter of strobing lightning in raving revel.
+
+"Too simple a solution, but it is always a good idea to check. Many times, what is obvious to you will not be obvious to the maker of a barrier," Meng Duyi encouraged.
+
+She could perceive her destination, and that was usually enough, but clearly, it was not enough for this barrier. Ling Qi drew on her qi, and the air shimmered, a whorl of dreamstuff forming. A flock of birds formed in a glittering cloud around her. They screeched triumphantly as they swooped out in every direction, talons and hooked beaks prepared to tear, and then, they passed through the barrier without harm. Those that impacted Meng Duyi came apart like splashes of paint, dissolving into colorful smoke and fading into the air.
+
+"It is not just yin energy then."
+
+"Borders need not only be one thing."
+
+"Walls and a roof define the space which belongs to their inhabitants, but they are also a border between outside and inside in the physical sense. These ideas are still related. A barrier must have a coherent concept to its different factors," Ling Qi said thought aloud. "I do not move through physical space. But I must still go from one place to another. I cannot be in many places yet."
+
+She observed her dream constructs swooping in and out of the barrier.
+
+"Heaven qi is also the conduit for thought."
+
+"It is. The signals which a mortal's mind controls their body with are carried on the Father's sparks," Meng Duyi replied. "So do yours, though you have more options, as a cultivator."
+
+"It's more than my consciousness stopping my qi from being scattered. The heaven qi is also a screen against conscious thought. It’s disrupting and scattering it." She glanced up at the sky. "The cloud has little identity. It is temporary by nature, so it doesn't have the continuity to resist its components being scattered. I am caged by my own wholeness."
+
+Meng Duyi appeared to be waiting to see if she had anything else to say. Finally, he gave a small nod. "To name a thing is to define it. Doing so fundamentally divides it. You have realized it. To have us, creates a them. To define inside creates outside. Define virtue, and vice is created. If you are I, you are not me. This is the art of borders, creating division."
+
+Ling Qi cycled the qi running through her nerves, commanding her senses deeper. It was not, as she first thought, merely strengthening the ambient heavenly qi. There was also a tiny bit of Meng Duyi in every mote.
+
+She rarely felt his qi. He seemed at almost all times merely an old man. To be able to feel him now must mean that he was showing her part of the why.
+
+She could not pass through the sieve of sparks because she was not Meng Duyi, and Ling Qi could not exist in the place of Meng Duyi, not without ceasing to be.
+
+At least, that was the presumption. She was not her other teacher, but could that be a valid path out? She could overlap herself, if only for a little while. Meng Duyi could surely stop her, given his cultivation, but if he considered it a valid solution, he might not.
+
+What was he angling to teach her with the solution? The other option she thought was to move under the earth. She was not used to that; it didn't come naturally. There was darkness under the earth but not really in it, and the only air was the miniscule gaps between soil grains and the quickly collapsing tunnels of earthworms. She would have to go deep, too. Insulation or no, the heaven qi penetrated the topsoil in some way.
+
+Trying to figure out what he wanted her to do was probably a mistake, if she followed her intuition. How she decided to solve the puzzle was more important.
+
+There was an idea there, of a temporary masking, of twisting definitions such that Meng Duyi's 'I' and her own could briefly overlap, blurring the boundaries just long enough to slip through the net he had cast her in. As she stood here, considering him and his impassive expression, waiting for her to make her move, she wondered if that was really something she wished to do.
+
+Was it arrogance on her part to seek the path of directly flouting his defense? There was no reason to try and break through a locked door if there was an unlocked cellar right there.
+
+And the purpose of the lesson, so far as she could tell, was to make her think about what defined a border and what crossing it meant.
+
+She glanced at the ground. She had previously passed through solid objects, even floors, but it was always to access something on the other side. There was a clear transition she was skipping. The net denied that.
+
+She supposed it came back to her first example of a clear border, earth and the heavens. She had never really treated the ground like a simple object the way she would a wall or a boulder or a tree.
+
+She met Meng Duyi's eyes, then sank into the ground.
+
+Letting herself drift apart, dematerialize, and fall into the barren ground felt strange. When she let herself come apart into a gusting breeze, her focus was usually on keeping enough of a tether between the motes of herself that they didn't just drift away.
+
+When she thought of the earth, her mind pictured a solid, immovable mass. But the earth was nothing of the sort. It was countless millions of things, grains of dirt and pebbles and pockets of moisture and creeping worms and layers of stone. Deep, deep down, there was a great deal of water, a permanent frost that bound the dirt into hardpacked wholeness and at the same time, created channels, gaps in a net that she could slip through.
+
+It was hard to navigate. She couldn't see or hear, although she could feel the surface to a degree like this, feel the open expanse of wind and the crackle of electric sparks.
+
+As the dream was the domain of yang, the earth was the domain of yin, and where she threatened to fly apart in the realm of thoughts, here, she felt threatened by compression. Yin consumed. It absorbed. In the weighty depthsof stone and soil, she was no more than a grain of dirt, and it would be so easy to let herself be subsumed.
+
+She felt the cold leeching down and the heat radiating up. In her eyeless, earless state, the soft crackling whisper of heat rose and thrust tendrils through packed soil, turning frost to mud. It wanted out. It yearned for the sky. It yearned to burn.
+
+It thrummed with the intensity of a long-chained beast, worrying at chains it had begun to feel cracking. She did not think there was any restoring them now. The way had been opened, the border between above and below had been perforated too thoroughly for that. There would be no closing of channels back off now.
+
+Zhengui and she had their work cut out for them.
+
+And so did the Celestial Empire and the Emerald Seas.
+
+Isolation, in the end, was never a stable state. Outside the borders one set for themself, the world moved and changed. Barriers would never keep everything out. Isolation played on and preyed on the borders of oneself. The more harshly one defined, the keener its cut.
+
+Meng Duyi had not made the traversal easy. His presence crawled along the surface and in the topsoil, sputtering out where he sank too deep into the well of yin that was the earth
+
+Stone. The sparks of self did not penetrate stone, and with her senses, she could feel the welcome openness of the sky beyond.
+
+Ling Qi let out a wheeze, feeling as if she had just held in a breath for too long as she emerged on the stretch of bare stone where Meng Duyi had been standing, blinking her eyes in the blinding light of the sun.
+
+"I expected your pride to seek the more difficult route," Meng Duyi commented mildly. "Forced to examine your own thinking, escaping through the earth was the obvious choice. Did you not consider that it could be a trap?"
+
+"I do not think that was the point of the exercise," Ling Qi replied. "That seems more of a lesson as Elder Jaio would teach it. You do not think the same way. A clear solution is not always a bad one."
+
+Meng Duyi agreed. "Straining your identity to slip through my net, thinning yourself to the point of near dissolution or seeking to impose a tighter connection would tell me more of how much you have indulged your other teachers' mindsets."
+
+"More than just asking me?" Ling Qi grumbled.
+
+"You know well that one does not always tell themselves the truth. This was also not the primary purpose of the exercise. All things are porous. They shade into one another when one looks closely enough. Even the divide between heaven and earth, between you and I, is not a stark, impassable line. Even 'is' and 'is not' are lines that may be crossed. Thus, the lesson, for a cultivator attuned to wind, earth, and mountains, seems impassable, an obstacle that may only be worn away through eons, but they have their crossings, the places the wind may pass through, if one has a keen enough eye."
+
+Ling Qi nodded slowly. As an introductory lesson, it made sense, to get her thinking in the right ways.
+
+Meng Duyi strode past her, once again leaving no trace of his passing as the sparks of his presence faded from the air. "Come. Let us begin charting a path back to the cliffside, and we may discuss what your options may be for the spirit of flame your brother and you must treat with. His understanding is intrinsic; yours must be learned."
+
+Ling Qi followed after him, recentering herself and easing up on her breathing. She cast a look back at the ground before she moved though, considering the browns and greys and the deeper dark that dwelled beneath.
+
+Isolation was always a matter of perceptions. All people needed contact, but whether they saw them reaching out was a different question entirely. Her domain, long dormant, shifted under her skin, the mist roiling. She had called isolation her blade and had carved that place for it in her soul, but had she been leaving it unsharpened?
+
+Since then, she had invested so much in bringing together and giving back. Maybe she had strayed from purpose. Maybe that was why there was a niggling feeling of incompleteness to her serenade.
+
+That was a contemplation for later. Cold and Isolation and Endings. They were all tied together, in the end.

@@ -1,0 +1,133 @@
+---
+id: 899abf47-156d-5137-b331-6e18525a2466
+page-type-slug: story-chapter-royal-road
+title: "Threads 487-Ceremony 1"
+slug: 0532-threads-487-ceremony-1
+partOf: forge-of-destiny
+position: 532
+ownLength: 2128
+unit: words
+publishedAt: 2025-12-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2820070/threads-487-ceremony-1"
+royalRoadId: "2820070"
+---
+
+"I still can't understand it, on the deepest level." Ling Qi stood from the bed and paced to the window of the room. "I've seen it and felt it, but I still…"
+
+Ling Qi thought of the faces turned away from a ratty child, shivering on a street corner. She thought of her mother's rooms and the scent of alcohol on a man's breath and sweaty hands. She thought of starving, her belly feeling as if it was eating itself from the inside out.
+
+"I still want to live. I want to live, more than almost anything else."
+
+Shu Yue hummed. It was a low, resonant noise, deeper than anything that should have come from a human throat. "Denial, though you can't quite fully lie. A sneaking word. Almost."
+
+Ling Qi hunched her shoulders at the window. The cool wind from outside tugged at her hair. The shadow she cast on the floor writhed.
+
+"C'mon, Qi. Even I know this isn’t the time for dodging," Sixiang said.
+
+Ling Qi considered what she would do if the people she had gathered to her were taken away and she, sent back to being a lonely wraith of frozen wind. She wanted to flinch away from what her mind showed her beneath the kinder face she had worked so hard to build for herself.
+
+Boiling shadows and consuming frost. The shriek of a blizzard, the kind that cared not for walls and roofs, and that tore and buried and crushed anything human hands could build.
+
+Would she really care what got in her way, once that howling scream tore its way from her throat? She'd told Renxiang once that she found it hard to care for people she did not know. In response, she'd done her best to extend the framework of who she “knew” and painstakingly built a map of connections in her head to cover a wider net.
+
+How sturdy was that construction?
+
+She exhaled, frost sparkling in the night air. "I don't understand that hate, the mindset that doesn't care for yourself, only the pain you can inflict. I hope I never will. But I have seen it, and I can map a mind that thinks that way now. That was the point of this exercise, wasn't it?"
+
+"A point," Shu Yue corrected. "A lesson which is told but not felt is one forgotten quickly. After immersing yourself in her life, you will never forget how deep a grudge can run, so long as you recall this lesson." A pause. Shu Yue towered over her in the dim room. “What else did you learn?”
+
+Ling Qi looked out at the collection of glittering lights, extending away from her window in every direction, the constellation of Xiangmen's Cloud District.
+
+"You do not need to be a sovereign of cultivation to have lost all ability to care for or know any perspective but your own. It might actually be more common than not."
+
+"Cultivation takes its shape from its practitioners, as much as they take their shape from it," Shu Yue acknowledged. "This is true. Humans live in the world behind their eyes, as much or more than they live in the world where all feet tread."
+
+"There's a reason you all use that word ‘cultivate,’" Sixiang commented. "You grow, you prune, you snip, you shape, but you're only ever working with what was already there."
+
+Shu Yue inclined their head in agreement. "It is so. However twisted, grand, awesome, terrifying or transcendent we become, the core of every cultivator was born in the mind of a mortal, a small, limited thing living in a world that is far greater than their senses can perceive."
+
+Ling Qi leaned against the windowsill. "At the same time, if people can't know each other, they could not build this society. We don't live in a world of lonely titans surrounded by desolation."
+
+"We do not. That, too, is a dichotomy of human experience," Shu Yue said. "You will find whole libraries filled with philosophy debating which is the more 'natural' way."
+
+"I don't know if that's a useful way of framing it, but then, that might be arrogant of me." Ling Qi shrugged.
+
+Shu Yue smiled, a thin black line between bloodless lips. "A cultivator who seeks sovereignty must, by nature, be arrogant. A truly humble person could not reach for such power."
+
+"That, I won't try to deny. It should be possible to hold that arrogance, and still retain some perspective though. I think there has to be."
+
+"You think?"
+
+"There is," Ling Qi said firmly.
+
+It was no good to lack conviction in something she felt would be deeply important in forming her Way. If it wasn't true, she would make it true. That was the conviction of a sovereign.
+
+"When will we commence the lesson proper?" Ling Qi asked.
+
+"After the day of the ceremony and before the week of feasting and celebration that follows," Shu Yue answered. “I will meet you here in the early hours of the day after the ceremony.”
+
+"Understood," Ling Qi said. "Will you be attending?"
+
+"Naturally. It is my master's wedding." Shu Yue chuckled. "Though perhaps, not visibly. Foolish as it might seem, there is always a chance for… trouble."
+
+Ling Qi inclined her head at that.
+
+She couldn't imagine a more foolish place or time to cause a disturbance, but she knew all too well that foolish plans could seem very reasonable to the right mind. She just hoped they had reached their fill of surprises for now.
+
+***​
+
+The day of the wedding opened with the cacophonous blast of horns. They shattered the early dawn air, announcing the beginning of the procession.
+
+At the very base of Xiangmen, there was a vast caravan flying the colors of the Diao clan, stretching like a river down the road. Dancers, marchers, and musicians celebrated loudly, and wagons groaning with the weight of gifts, offerings, and wealth, all left free of storage rings, displayed the splendor of the Diao clan.
+
+Even so far below from where she was gathered with Cai Renxiang and her fellow retainers in a group waiting at the very branch’s edge to receive the party of the bride, Ling Qi could see the caravan. The landing avenue was a branch of the great tree that thrust out much further than the others, extending out like a reaching arm over the landscape. At the branch tip was a platform the size of a small village, balanced and built into the twigs and leaves, where the aerial vehicles of the highest nobility were received.
+
+It was the natural place for the heiress of the Cai to be. Cai Renxiang would lead the bridal procession to the palace where the Duchess awaited. With them were the ranks of the White Plumes not yet deployed in the south, a number of ministers and vice ministers of the city, and other such worthies honored with a place in the receiving party.
+
+Even this was a dance of political favor, albeit in understated ways.
+
+The bridal procession lifted from the base roots as they reached the outer boroughs of the root towns, winding into the sky and curling around the trunk. Below them, many hundreds of wagons and carriages remained, breaking off and spreading through the lower parts of Xiangmen to scatter the Diao clan's gifts to the city’s denizens.
+
+It was strange. Usually, gifts were only given to the other clan specifically, even when that clan was a ducal one. Cai Shenhua and Diao Linqin had insisted on this peculiarity.
+
+“Not that the Diao were all that reluctant, from what I got. Makes them look real good and wealthy, and it's not like it really costs much," Sixiang murmured.
+
+There was that.
+
+Ling Qi glanced up and down the ranks of people waiting with them to greet the procession. Some among the White Plumes were on horseback, lined up in parade formation, but most were on foot, lined up in rows of resplendent clothing.
+
+Meanwhile, Cai Renxiang had coaxed more finery from Liming. She looked like a young scholar hero from a storybook, white riding boots and long gloves, both with red lacing, snug and perfectly pressed trousers, and a silk shirt. A white half-cape fluttered from her back, and her long hair was wound up in a tight braid wreathing the back of her head, woven through with silver threads that glinted under the gleaming light emitted by her aura.
+
+Xia Lin and Gan Guangli were both dressed in full armor, a slender spear, and a towering wall of silver and white metals, the colors of the Cai splashed across the tabards over their chest plates.
+
+Meng Dan stood with them as well, the first public display of his retainership, and a bold one given the situation with his clan. He was… very handsome, she had to admit, in his scholar's robe and crown of woven branches, chestnut brown hair spilling wavily down to his shoulders.
+
+"Pfft,” Sixiang spluttered out a private laugh. “My girl is branching out in tastes a little, huh? Then again, I guess you did like the look of Han Jian back then."
+
+Hush, she grumped.
+
+Pretty, pretty, got to be pretty!
+
+Her dress was ecstatic. Ling Qi had finally let her try out that high collar and veil arrangement with the midnight blue ribbons in her hair. With wide swooping sleeves and thin, half-transparent gloves, she supposed she looked mysterious. The lower half of the gown was a little too snug around her hips and waist, but she'd allowed Qiyi her play. She did like the train of the gown seeming to merge and emerge from her shadow as she walked.
+
+They waited in formal silence, save for the music rising throughout the city, and soon, the bridal procession approached the landing. Two rows of Diao cavalry sat astride flying horses with pale blue and white coats, armed and armored with a mix of the living wood the Diao shaped from the trees of their home and gleaming imperial steel.
+
+Behind them came a palanquin of deep red wood, as large as a small house and hung with pale pink silk to cover its windows. Fanciful sculpted flowers lined its curved roof. It was borne on two long wooden rods set beneath it, which were in turn held up by four cyan cultivators of the Diao clan that strode forth across the empty air. Behind them trailed two more lines of soldiers on horseback who flanked platforms covered in piled wealth and gifts.
+
+They descended, and the first hooves touched down on the platform, fanning out to give Cai Renxiang room to approach. Ling Qi stepped forward along with her, casting a glance at the procession, which was now moving up and preparing to merge with the bridal one. She herself would be on Cai Renxiang's left when they began the march, along with the Minister of Works and Spiritual Affairs.
+
+"The Cai clan gives our welcome and esteem to the matriarch of the Diao and her honored clan. Stewards of the Central Valley, Masters of the Deep Groves, Keepers of the Central Highway, and Wardens of Vales and Waters and Blooming Flowers…"
+
+Cai Renxiang began to speak, hands folded behind her back as she listed off the many more minor titles attached to the clan as the procession formed up.
+
+Ling Qi and the others were a unit with Cai Renxiang, as far as the organization and honors were concerned. As her direct retainers, they were her feet and hands. As the heiress, Cai Renxiang was allowed more retainers than others, but there was an expectation that they would be of higher cultivation and rank.
+
+It was nerve-wracking. They were the only ones besides the escorting soldiers who were lower than the fourth realm. In addition, she could detect some discontent in the air, a low undercurrent from the lords and ministers around them. It was very subtle. None would openly express displeasure at the Duchess' decree.
+
+At least, they would not without her presence demanding they speak their minds. As she understood it, this had already occurred. According to Renxiang, there had been quite a few proposals from court worthies to place attendants in her liege's retinue during the procession.
+
+In the end, this was the result of the Duchess' decree. She was sure she'd have to either soothe ruffled feathers soon or just accept the small enmity formed by her and her fellow retainers’ presence here.
+
+It wasn't as if there weren't benefits either. It was an immense honor to be allowed in the greeting party.
+
+"... to the great heavenly pillar, and the supreme Throne of Seasons,” Cai Renxiang announced, “where your bride awaits your arrival."

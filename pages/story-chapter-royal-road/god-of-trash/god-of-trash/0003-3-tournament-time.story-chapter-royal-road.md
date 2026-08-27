@@ -1,0 +1,279 @@
+---
+id: 1f7da8d0-3913-547b-b84a-f6e5c4247eed
+page-type-slug: story-chapter-royal-road
+title: "3. Tournament Time"
+slug: 0003-3-tournament-time
+partOf: god-of-trash
+position: 3
+ownLength: 5337
+unit: words
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2093146/3-tournament-time"
+royalRoadId: "2093146"
+---
+
+Tam and Den crawled back to the orphanage by nightfall, covered in filth and bites, and none the happier for their stint in the depths of the pit. They glared death at Rhys, and Rhys ignored them. Tam tried reporting what had happened to the matron, but she gave him as much time as she’d given Rhys, and simply clapped him on the ear for not listening to her when he wouldn’t stop whining. Injured and filthy, Tam tried to get back at Rhys in the usual petty ways. Rhys came back to a filthy bed one night, full of food scraps, and all the kids in the orphanage laughing and pointing as if he’d soiled the bed. Instead of reacting, he’d simply nodded at Bast. Bast carried Tam into the filthy bed, while Rhys claimed Tam’s clean sheets.
+
+After that, no one laughed and pointed any more. The message was clear: the balance of power had shifted. No longer was Rhys everyone’s butt monkey, and Tam the feared school bully. Now it was Rhys who was feared, while Tam was derided as little more than a paper tiger.
+
+But children’s politics were the least of Rhys’ concern. Instead, all his energy was focused on the tournament, coming up at the end of the week. He scrubbed his clothes, and Bast’s too, making sure they were as clean as possible, replaced all the miscolored patches with matching-color ones, and even shone their shoes. With the sword, he managed to give Bast’s unruly mop a bit of shape, though he refused to let Bast try cutting his hair.
+
+In between his efforts, he chatted with Bast about mana. Bast had a slightly better grasp on the stuff than him, though his grasp seemed to be entirely instinctual. Most of their conversations ended with Rhys mulling in frustrated silence, while Bast displayed the results of his instinctive mana gathering through punching the bark off trees or blasting a brick into dust with a kick. Still, their conversations weren’t fruitless for Rhys. Slowly, he was starting to understand how to manage his mana, and circulate it without breaking a fever. He could handle three drops at once, now, and his face barely flushed when he used it to strengthen his body. He couldn’t punch the bark off trees or obliterate bricks, but if Tam tried to get physical revenge on him now, he could simply laugh it off. Under the influence of mana and not having to sacrifice parts of his meal to the older boy, he began to build muscle on his malnourished body, as well.
+
+And of course, he didn’t stop visiting the trash heap, either. His twenty pennies grew into thirty-five. Bast followed him around everywhere, and thus figured out what Rhys was up to in the trash heap. Rather than trying to take his money or strongarm his way into controlling the operation, though, Bast simply fell in and helped him gather bottles.
+
+“Why didn’t you take control? You’re stronger than me,” Rhys pointed out one day.
+
+Bast simply shrugged. “You’re the brains of the operation. I never would have thought of this if you didn’t do it first. I could steal this from you, but what would that get me? I’d end up in hell, like Tam. Instead, aren’t I better off sticking at your side and continuing to benefit from your future plans?”
+
+Rhys could find no fault in that logic, so he nodded and went back to gathering potions.
+
+Between the two of them, only Rhys had the fine motor skills required to tease drops of potions from the bottom of vials, so it fell to him to continue filling his health and mana potions. He offered Bast a drop of the mana potion one day, half out of curiosity, to see what someone who instinctively gathered mana would think of its quality. Bast had licked his lips, then frowned.
+
+“That’s… hmm. Like an hour’s worth of gathered mana? Are you really practicing on that little? You should try absorbing mana from the air instead.”
+
+An hour’s worth of gathered mana was enough to fill his core? Three hours, now, but still! Rhys managed a fake smile, a little embarrassed. He really was reincarnated with trash stats, wasn’t he? Though, to be fair, he didn’t know the full effect of Less is More. Maybe it doubled the effect of the potion, though even with a doubled potion, that still meant two hours of mana gathering was more than enough for him to start out with. He shook his head at himself. No, he couldn’t let Bast know. He wasn’t bothered to learn his stats were as trashy as he’d thought, but he didn’t want the other boy knowing. Bast might not be as appreciative of trash as Rhys was.
+
+He did follow Bast’s advice and attempt to gather mana from the air. Doing it like Bast, by simply walking and breathing, was outright impossible for him, but when he laid in bed at night and focused on nothing else, he could guide a tiny scrap of mana into his core. It wasn’t much, not even comparable to one drop of the potion, but it was better than nothing. Any extra mana counted in his book.
+
+His mana manipulation skill hadn’t taken shape yet, nor had a mana gathering skill, but he leveled up Scavenging and Less is More to 10 each. Survivalist hit level 3, and Pain Resist hit 2, just from spending so long outdoors, scrambling over the trash heap. Hunger Resist didn’t level at all, but he didn’t mind that so much. Right now, he needed to focus on eating and growing. He could worry about leveling such a low-tier skill later.
+
+At last, the day of the tournament arrived. He scrubbed his and Bast’s clothes one last time, and forced the other boy to bathe in the river, even if he had to do it at swordpoint. Once cleaned, Bast’s hair turned out to be a middling chestnut, while his skin turned out to be fairer than Rhys’—it was only the dirt that had darkened it. Only his dark, near-black eyes remained the same shade.
+
+A bit curious, Rhys glanced in the river he’d forced Bast into, only to discover his eyes were a green-brown hazel. Taken together, they reminded him of the color of garbage, with dirt and plant matter mixed in alike. He snorted. Mousy-colored hair, green-brown hazel eyes. He really was perfectly colored to blend into the trash. Indeed, this body couldn’t have been picked better for a god of trash.
+
+With both of them squeaky clean, their clothes as nice as they’d ever looked and their hair neatly brushed, he led the way to the arena.
+
+The other children had started chattering about it as well, and a few of them crowded around the outside, climbing trees and perched on balconies to peer over the walls. He led the way past them, moving with the assured confidence of someone who belonged. A few of the kids cast him funny looks, but with Bast at his heel, no one dared say a thing.
+
+The arena was small, compared to the arenas Rhys was used to in his homeworld, but compared to this village, absolutely enormous. It was a large, empty field surrounded by a tall wall, with stables on either end and a small hut in the center. Stadium benches lined the outside. Most of them were rough and wooden, and occupied by travelers or townsfolk, here to see the spectacle. However, at one end of the arena, a stone platform stood, tall and noble. It hadn’t appeared until a few days ago, when a team of four men had carried it in and installed it in their arena. This stone platform held fine seats, with three chairs in its center almost ornate enough to be considered thrones. This seating was empty for now, but based on the men who’d carried it in, with their supernatural strength and fine robes, it was reserved for mages. True mages, the kind who lived on the mountain and refused to interfere with mortal lives.
+
+Rhys eyed it now. For people who didn’t interfere with mortals, they sure were interested in the tournament. Then again, even mages had to recruit, surely, and where better to recruit than a battle tournament? He turned away, uninterested. As much as he wanted to become a mage eventually, his stats were still too trash to catch a mage’s eye. His purpose here was entirely different.
+
+“This way,” he muttered to Bast, and led the way around to the back of the arena. The contestants gathered here, a ragtag group. From leather-bound, sweaty martial artists, to adventurers dressed in armor forged from the rare monsters they’d killed, to mages, in their ornate and soft robes, all types of powerful sorts grouped at the arena’s rear entrance, waiting to be organized in the tournament. Rhys and Bast breezed past all of them, entering the tournament’s stables directly. One of the organizers glanced at them, but when Rhys showed no hesitation and didn’t even glance the woman’s direction, she simply turned her eyes away.
+
+“Wow, you were right. All we had to do is pretend like we belonged,” Bast murmured.
+
+“We do belong,” Rhys replied, absolutely sure of himself.
+
+Bast chuckled. “That’s right.”
+
+“Remember the plan. Even if we only get one before we’re thrown out, it’s still worth it.”
+
+“Understood.” Bast glanced around, then picked a clean spot to sit and wait.
+
+Rhys stood at the edge of the stables, watching the combatants gather. Even from here, he could feel the pulse of their mana beat against his skin. Different combatants had different types of mana, from the raging, brutal power of the martial artists to the gentle, yet powerful flow of the mages. Bast’s mana most reminded him of the martial artists, strong and straightforward, while his was more akin to a mage’s or adventurers’ mana, without the aggressive edge, but with a softness that allowed for subtlety and strategy alike.
+
+His eyes sparkled. This was what his future looked like. These powerful beings, strong enough to slaughter this village without breaking a sweat—that was what he longed for. Magic. Strength. Power.
+
+“Admiring the crowd?”
+
+Rhys startled and spun. Behind him, Bast jumped to his feet. Both of them stared at the man who seemed to have materialized in the stables.
+
+There was nothing remarkable about the man. His messy, straw-colored hair was covered by an equally messy straw hat. He wore a tattered outfit, and rather than a sword, a birch stick hung through his belt. Bright blue eyes, as clear as the midday sky, smiled at them. Both his body and clothes were covered in dirt, making both Bast and Rhys look like refined noble children in comparison. Looking at him, Rhys couldn’t help but feel that rather than a human, he looked more like a scarecrow.
+
+Rhys nodded. Instantly on guard, he eyed the man warily, but put on a smile as if he had no cares in the world. “We’ve never seen such powerful people before.”
+
+The man chuckled. “Powerful, huh? And yet they’d be considered weaklings, even by the standards of that tiny school up the mountain.”
+
+“School?” Rhys asked, legitimately curious.
+
+“Mages organize themselves into schools, much as fish do. There’s no deeper meaning to it, although a young mage could receive a decent education at a school, as he or she could at any gathering of mages. Ah, some prefer the term sect or clan, or even house or tower. It simply depends how they’re organized.”
+
+Bast frowned. His brows furrowed. “Mages are like fish?”
+
+Rhys, on the other hand, nodded. He understood what the man was saying. “Then, are you here to take part in the tournament?”
+
+The scarecrow-like man let out a cawing laugh, as if he had swallowed the very crows he was meant to scare. “No, no. It wouldn’t do to let one such as me take part in such a tournament. Could you image? Filthy old me, fighting against these bright young upstarts?”
+
+“You look young. And not only that, you called them weak moments ago,” Rhys pointed out.
+
+The man chuckled. “Aren’t you a sharp one. I might look young, but look closer. This old man has wrinkles on his face.” He pointed to the corners of his eyes, which crinkled with crow’s feet, just as he’d said. Nonetheless, there wasn’t a single line on the rest of his face.
+
+Unconvinced, Rhys nodded slowly. There was more to this man than he was letting on, but as long as he wasn’t here to kick them out, he didn’t mind sharing the stable with a mysterious stranger. He stepped forward and offered his hand. “I’m Rhys, and this is Bast.”
+
+“It’s rude to offer to shake with a weapon concealed in your shirt,” the man countered, pointing directly at where Rhys had stashed his sword.
+
+Rhys drew the sword and showed its broken blade to the man before stowing it once more. “I’m no threat to you, sir.”
+
+The man chuckled. “What a polite young man. Indeed, indeed. And Bast, was it?”
+
+“Short for Bastard,” Bast replied, lowering his head just an inch. Unlike Rhys, a glow of challenge glimmered in his eyes, daring the man to take offense.
+
+For his part, Rhys stared. He’d always thought Bast was a strange name, but he’d never been interested enough to ask. Short for Bastard? Even if Bast’s parents didn’t want him, what kind of monster would name their own child a slur?
+
+Laughing again, the old man nodded. “I like you. There’s some fire in your eyes. Good. Keep it that way.” He looked the boys over and offered one last nod. “I’m known as The Strawman, or sometimes the Birch Boy, or when they’re feeling less generous, the Birch Bitch. I wouldn’t mind if you called me Straw or Birch, but forgive me if I’m a little too weak willed to own my derogative the way your friend does his.”
+
+A glow of approval appeared in Bast’s eyes. “Birch it is.”
+
+“Mr. Straw, are you here to watch the tournament?” Rhys asked. Quietly, he probed the man’s aura. Unlike the contestants, it didn’t roil off of him, but was instead so weak he could barely feel it. Still, when he pressed his mana to its absolute limits, he could sense the man’s aura anyways. It had a strange feeling to it, unlike any of the contestants’ auras, as slippery and hard to grasp as an eel. From the look on Straw’s face, he was very aware that Rhys was probing him, but the man made no protest whatsoever, nor did he retract his aura.
+
+“Mr. Straw? How polite indeed! Yes, yes. I’m here to watch. And much like you boys, I also prefer not to pay entry.” Straw’s eyes glimmered, and a small grin appeared on his face as his eyes flicked from one boy to the other.
+
+Rhys held his head up high, showing not the least bit of shame. “We’re the tournament’s official cleanup boys.”
+
+“Oh? The tournament has cleanup boys? I didn’t know,” Straw said playfully.
+
+“Neither does the tournament, yet,” Bast replied.
+
+Straw chuckled. “Well, I’ve never been the kind of guest to be invited either, so why don’t we share this stable together until the tournament starts?”
+
+“I was just thinking the same,” Rhys replied.
+
+The three of them sat quietly for a time, waiting for the tournament to begin. Rhys glanced at Straw. He had no idea what the man’s intentions were, but they didn’t seem negative. In fact, he’d approved of the boy’s plan, if only tacitly. Still, he hadn’t given his name, just appellations, and his strange scarecrow-like appearance and odd mana signature spiked Rhys’ suspicions. This man was powerful, maybe even dangerous, but he seemed positive toward them at the moment.
+
+He shrugged to himself. That would have to be enough.
+
+Contestants and viewers alike filed in. The contestants took a series of benches in front of the first row of seats, while the watchers, mostly mortal, filled the stadium seating. The stone seats remained empty, except for one slightly ragged-looking mage, who sat at the very edge. Of course, compared to Rhys, Bast, or Straw, that man seemed the epitome of fine dressing. It was only when Rhys compared him to the mages he’d glimpsed up on the mountain, or even in the contest that he looked shabby. Still, the aura that rolled off of him was far stronger than anyone Rhys had met yet… maybe with the exception of Straw. He eyed the man beside him yet again. The aura he could sense was only at the level of the contestants, but the way the man dismissed them and the mage school up the mountain alike suggested he wasn’t revealing his whole strength.
+
+Straw caught his gaze and waved. “Hello.”
+
+Rhys quickly looked away. He didn’t need to annoy someone who might be very powerful. Better to leave him alone, as he preferred.
+
+An announcer strode forward and cleared his throat, and his voice boomed forth, as if he spoke through a loudspeaker. He wore the clothes of an adventurer, although the brightly-colored leather of his armor was slightly faded, and the bear claw on his hip was colored with dust. Lifting his arms, he turned slowly, addressing the whole crowd. “Welcome, ladies and gentlemen! Welcome to the tenth Varian Regional Mixed Tournament! No holds barred, no attacks outlawed. Magic, sword energy,  See the might of the sword up against the mystery of a mage and the tricks and traps of an adventurer! Remember, the winners of this tournament can move on to the country-wide tournament. We thank our generous hosts, the Snowdrop Mage School. Thank you!” He gestured up at the almost empty stone seating.
+
+A smattering of thin applause sounded. For his part, the only mage who occupied the seating had the good graces to look embarrassed.
+
+The announcer lowered his arms, turning back to the crowd. “So, without further ado, your first match!”
+
+Two figures stepped forward. A muscular woman in simple robes cut for easy movement and lightweight leather armor stood on the far side, one hand on her sword, her eyes gazing straight at her opponent, while on their side, a slender man in purple robes stroked a thin beard and smirked back.
+
+“In the left corner, the swordsmistress rumored to be next in line to inherit the Abyssal Depths Sword School, Analiis Rovaire!”
+
+Some applause, mostly from the other martial artists in the crowd.
+
+“To the right, the potion master of the Purple Mysteries Sect, Primm Horage!”
+
+A few scattered claps, even less than there’d been for the empty stone seating.
+
+Rhys looked at Straw. “Are potion masters not respected?”
+
+Straw chuckled. “No, no. To the contrary, potion masters are some of the most respected mages.”
+
+“Then… is this Primm fellow disliked?” Rhys guessed.
+
+“He certainly isn’t well liked.”
+
+Rhys glanced at him. “Why would that be?”
+
+Bast inched forward as well, curious.
+
+“One can do a great many things with potions. Heal wounds and replenish mana, yes, but paralyze, poison, and injure as well. Primm has… shall we say, a reputation for toying with his opponents? He prefers to steal opponents’ free will, then torture them to death at his leisure. Crippling someone or savaging their mana passages with a potion is all fair game to him. And you can only imagine the kind of damage a man with that kind of mindset could do, selling his potions to those who would do harm.” Straw spread his hands. “But then, what would a nobody like me know about that?”
+
+“A nobody,” Rhys scoffed. He eyed Primm in a new light. No wonder no one had wanted to applaud for him. Even if there was someone in the crowd who approved of his actions, who would announce their approval for a sadist in broad daylight?
+
+At the same time, excitement stirred in his chest. He glanced at Bast, who nodded back. A potion master. This was the kind of guy they needed!
+
+The announcer blew a horn, and the battle commenced. Rhys watched, enraptured. The two combatants traded blows at a blistering pace. Even though Primm was a potion master, he could still match the swordsmaster’s attacks blow for blow. Or he could… at first. The swordsmaster laughed, and her blade moved faster than before. Blood flew, and Primm staggered back, a gash rending his body from shoulder to hip.
+
+“Damn,” Rhys muttered.
+
+Almost before the wound could bleed, Primm tossed back a blue potion. The wound began to heal, and he tossed the vial away carelessly.
+
+“Bast!” Rhys snapped. He was too far away. He’d never make it in time.
+
+Without hesitation, Bast darted out. He flashed up to the stage and lunged, snatching the vial in both hands. Prize secured, he retreated to the edge of the stage.
+
+Rhys nodded to Straw. “We’ll be back.” He jogged up to the edge of the stage and crouched beside Bast, elbowing the other boy until he took the same stance.
+
+It was a very specific crouch, one leg up, the other back, both hands curled in fists on the ground. He’d borrowed it from tennis tournaments’ ball boys, though Bast wouldn’t know that. It was, however, a very official-looking crouch, and one that was less likely to get them questioned by the authorities.
+
+The announcer frowned at them, but said nothing. Rhys gazed ahead with clear eyes full of conviction.
+
+Beside him, Bast leaned in. “There’s some good dregs in this.”
+
+“Good,” Rhys replied. And it was made by a potion master. Doubtlessly it’d be more effective than an ordinary health potion.
+
+In quick succession, Primm downed another three bottles. Both Rhys and Bast darted forth, snatching the vials before they hit the ground. Primm glanced at them, frowning slightly, but said nothing.
+
+Primm’s body swelled. Muscle covered his frame, and he hunched forward as his robes tore from his might. Mana roiled around him, suddenly empowered. Letting out a fearsome roar, he charged the swordsmaster. She darted back, shocked, and defended desperately against his blows.
+
+Rhys nudged Bast. “Keep those three separate.” They didn’t know which one of the three caused such overwhelming muscle growth and the burst of mana. Maybe they even needed all three together. Either way, he’d be investigating these later.
+
+Bast nodded.
+
+The battle raged on. Primm pressured the swordsmaster until her eyes abruptly began to glow red. Her sword glowed red in concert with her eyes, and she stepped forth, forcing Primm back. He screamed, taking her blows with his overgrown body and struggling to land a hit, but there was no blasting through her bladework with brute force alone. She forced him back, then raised her sword, poised to land a killing blow.
+
+Primm’s body shriveled back to its usual size. He raised his hands. “I surrender!”
+
+The red light dimmed in the swordswoman’s eyes. Her sword returned to its usual luster. She stepped back and sheathed her sword.
+
+The announcer lifted his arm. “And there we have it! Analiis takes the victory. Primm has been disqualified!”
+
+Primm stepped back. Instead of looking concerned, though, there was an easy smile on his face. He turned to the crowd and bowed. Again, almost no one clapped, but a few of the crowd’s nobles pinched their chins, thoughtful looks on their faces. Rhys could all but read their thoughts. If a weak potion master could be boosted to stand on even footing with a swordsmaster like Analiis just by drinking a few potions, what could that same boost do for them? Or perhaps, their loyal knights? Primm hadn’t participated in the tournament to win; he’d participated to advertise his wares.
+
+On the far side of the arena, Analiis’ nose wrinkled in distaste as she realized the same. She harrumphed and turned away, marching back to her seat.
+
+“She entered the tournament. She can’t be mad that she was pressured by a filthy potion master. It’s not her fault that this is all the Abyssal Depths Sword can amount to, but she shouldn’t be angered either that the path she chose to walk is so shallow. It’s ours to accept the end of the path we choose. To rage impotently against it is to choose the route of deviation and death.”
+
+Rhys whirled, clapping his ear. Straw had all but whispered in it. “Could you warn a man before you sneak up behind us?”
+
+“But where’s the fun in that?” Straw returned with an easy grin. He sat back, watching the tournament and the boys alike. “I like this plan of yours. Do you need my help?”
+
+Rhys eyed him. “I can’t spare a cut for you.” As strong as Straw was, he could demand to take all the spoils. Allowing him any reward would mean giving it all up, if he meant to recompense Straw based on his relative strength to Bast and he.
+
+Straw chuckled. “I have no interest in such things. I only offer to help out of boredom.”
+
+Rhys considered for a moment, then shrugged to himself. At the end of the day, if Straw wanted his potions, he could easily take them. And as the man himself had said, why should he want them at all? They were incredibly valuable to Rhys, but to even the competitors in the arena, they were trash they had discarded, not valuable items. If Straw was more powerful than them…
+
+He shrugged to himself. “Sure, why not? Bast and I have this end covered. You can go catch items on the other side of the field.”
+
+“Empty potion bottles?” Straw asked.
+
+“Potion bottles, pill wrappers, anything they discard is valuable to me.”
+
+Straw touched the brim of his hat. “Consider it done.” With that, he vanished.
+
+Bast shivered. “That guy gives me the creeps.”
+
+“He’s got to be crazy powerful, right?” Rhys asked.
+
+Bast nodded. “That’s the impression I get. Stronger than the contestants, for certain.”
+
+“What’s he doing here?” Rhys asked, half to himself.
+
+“Passing the time?” Bast suggested.
+
+Rhys snorted. “Who knows. I don’t even understand normal mages, let alone mysterious experts like him.”
+
+He peered over to the other side of the arena. He saw no sign of Straw, not his figure nor his shadow. Rhys shrugged to himself. He and Bast had their hands full catching potions on this side. He’d originally planned just to grab the potions from one side, then collect the rest after each match, and of course, if the matches were too dangerous, he’d simply wait for the end. If Straw did nothing, then he’d revert to his original plan.
+
+He could have gone to the other side, and left Bast alone on this side, but he figured the two of them together looked more official and imposing than two of them apart. They weren’t actually part of the tournament, after all. Better to risk losing a few potions than to risk getting kicked out entirely. The more official they looked, the longer they’d be able to stay in the tournament.
+
+The next contestants took the stage. These two were both adventurers. One wielded a weapon that looked more like a grappling hook than a blade, and the other carried a dagger formed from the enormous tooth of some monster. More evenly matched than the swordsmaster and the potions master, they sparred for some time, both of them sucking down mana and health potions. Rhys and Bast caught the ones on their side, while the ones on Straw’s side mysteriously vanished, with only the flicker of a pale form appearing from time to time. The grappling-hook equipped man moved on, and the next pair took the stage. This adventurer barely faced their mage opponent for a single moment before the mage drew a sword and, with some mysterious attack too quick for Rhys’ eyes to follow, took the adventurer to his knees, sword pressed against his jugular. The adventurer surrendered without using a single potion.
+
+Rhys sighed. “How unfortunate.”
+
+“Drawn-out fights are far better,” Bast agreed.
+
+“We get more potions,” Rhys said.
+
+“And they’re fun to watch.”
+
+Rhys nodded at the field. “I didn’t expect mages to be swordsmen as well.”
+
+Bast stared at him, confused. “How are they meant to best martial artists and adventurers if they don’t know how to handle a weapon? Of course they use the sword. Mages pursue perfection. To lack in martial skill would be to expose a glaring weakness to everyone they fought.”
+
+Rhys opened his mouth, then shut it. Now that Bast had pointed it out, it was glaringly obvious. If mages really were squishy, unable to defend themselves against melee attacks, then how would they survive in a world where people could equally empower their bodies and weapon attacks as put mana into fireballs? “But then, what’s the difference between mages and martial artists?”
+
+“Mages pursue magic primarily and martial skill secondarily. Martial artists invert that. They pursue strong bodies and powerful weapon skills, while putting ranged magics secondary. Of course, a sufficiently skilled mage can defeat a martial artist with the sword, and a sufficiently skilled martial artist could defeat a mage with magic, although… I don’t think any martial artist would be happy with that kind of exchange,” Bast explained.
+
+“And adventurers?” Rhys asked. “All-rounders?”
+
+“Basically. Though they often pursue monsters for the inherent advantages monster materials have over basic, or even enchanted materials. Really, what sets adventurers apart is that they walk alone. A mage belongs to a school, a martial artist to a sword school. Adventurers belong to no one and nowhere. There are guilds, but the guilds are more… er, friendly gatherings rather than hierarchical organizations. Guilds cannot control their members and have little political might, and little ability to recall members to defend the guild, for example… they’re more tavern halls than schools. And many adventurers don’t belong to guilds at all.”
+
+Rhys nodded. “Makes sense.” Those who favored physical attacks, those who favored magic, and those who favored freedom, at the cost of the strong support a mage or sword school might offer. He glanced at Bast. “How do you know all this?”
+
+After all, Bast hadn’t questioned his asking questions, which suggested it was something reasonable for someone of this world to ask about.
+
+Bast shrugged. “My father was a high-ranking member of a sword school. Unfortunately, my mother was his favorite whore, and I, therefore… well, you know my name. I grew up hearing about their world, until she beat me too hard and I ran away for good.”
+
+“I’m sorry,” Rhys said earnestly.
+
+“Don’t be. I’m sure not,” Bast replied with a laugh. There was only a hint of bitterness to it, buried so deep as to be almost entirely hidden.
+
+Rhys glanced at him, but said nothing. Even if he pretended like it didn’t matter, getting rejected by his parents still had to hurt. Bast was surprisingly mature for a twelve-or-so year-old kid, which spoke to what he must have had to have gone through. He wasn’t going to ask. Now wasn’t the time, and they didn’t yet know each other well enough for him to pry so deeply. But he made a mental note to be careful around any parenthood topics.
+
+Another battle began. Rhys and Bast turned back to the field, leaning forward in their crouches, ready to burst forth. What everyone else threw away, Rhys would pick up. Whether it was items… or even people, he was determined to find the value in what everyone else called trash. That Bast’s mother had tossed him aside only made Rhys more determined to polish the kid into a valuable ally.
+
+That’s it. I’ve decided. I’ll become a mage—no, the most powerful mage. But I’ll make sure Bast becomes the most powerful martial artist.

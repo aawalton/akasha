@@ -1,0 +1,191 @@
+---
+id: 187103c3-8f62-5efa-b69b-eb9eaaa1316e
+page-type-slug: story-chapter-royal-road
+title: "Threads 145-Tome 2"
+slug: 0173-threads-145-tome-2
+partOf: forge-of-destiny
+position: 173
+ownLength: 2487
+unit: words
+publishedAt: 2021-10-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/770609/threads-145-tome-2"
+royalRoadId: "770609"
+---
+
+“So, let us grant that I believe your studies are relevant to our task.”
+
+“Most generous of you, Baroness,” Meng Dan said, resting his chin in his hand.
+
+“What skills do you have to offer to my lady in the field?” Ling Qi asked, ignoring his interjection.
+
+“Mm, I agree. You’d obviously be a real good study buddy, but how’s your practicals?” Sixiang asked flippantly. Normally, Ling Qi wouldn’t be so casual, but she thought she had a decent measure of Meng Dan now.
+
+“While I do not spend a great deal of time in the wilderness, the Deep Archive is not so very different for cultivators of our level,” Meng Dan replied smoothly.
+
+“That’s the second time you’ve mentioned that,” Ling Qi said. “What is the ‘Deep Archive’?”
+
+“Scholar Ling is familiar with the struggles of the Argent Peak Sect librarians,” Yinhui said. “Argent Sect’s archive is a very young library.”
+
+Ling Qi hummed to herself. She was aware that plenty of the older books and scrolls had some bite to them and that the archivists had to do significant work in keeping everything orderly and peaceful.
+
+“Blue Mountain Sect’s Library of the Diviner is one of the oldest surviving structures in the Empire,” Meng Dan explained. “And has at times been left understaffed.”
+
+“The stacks are as deadly as any bramble patch,” Sixiang summarized.
+
+“Just so,” Meng Dan agreed. “There are many wings and sub-basements which are essentially naturally reinforcing spirit ecosystems, some of which extend entirely or partially into the liminal. When I describe making an ‘expedition’ into the Deep Archive, I am not making use of hyperbole.”
+
+Ling Qi nodded slowly. She knew that all things developed spirits in time, so a building that, by inference, dated back to the time of Tsu the Diviner, the half-mythical founder of the Emerald Seas, would likely be strange indeed. “Fair enough. So you have experience with survival skills and spirit negotiation then.”
+
+“I would humbly claim some proficiency, yes,” Meng Dan replied. “However, I believe my greatest skill, and the asset which I could provide to your lady, is my ability to organize, decipher, and interpret large amounts of information.”
+
+“Most cultivators can claim to be able to quickly absorb information,” Ling Qi pointed out.
+
+“Knowledge and understanding are separate tasks,” Yinhui said, barely touching her teacup to her lips.
+
+“It is indeed trivial for any cultivator of the third realm to memorize great reams of information,” Meng Dan said, pushing his glasses up. “But the skill of dissecting, discarding, and interpreting that information into useful data is another. One which, and I mean no offense, Lady Cai’s small court yet lacks in its retainers.”
+
+Ling Qi hummed to herself, drumming her fingers on the table as she met Meng Dan’s eyes. Behind her eyes, she felt Sixiang focus as well. To her eyes, Meng Dan seemed sincere. His perpetual smile and manner did seem a little condescending, but it did not feel malicious in the way it could for some individuals.
+
+She didn’t get the feeling that he thought he was better than her.
+
+Ling Qi traced her finger along the edge of her tea cup. “One more question. What is it exactly that you find so funny, Sir Meng?”
+
+His smile became a little thinner, his eyes practically twinkling with humor. “Lady Baroness, when you study people and their institutions as closely as I, laughter is the only rational and healthy reaction.”
+
+Ling Qi nodded. Whether she agreed or not, those words held the thrum of Truth. His Truth, at least.
+
+***
+
+“Your impressions?” Cai Renxiang asked crisply as they faced one another beneath the evening sky. They stood in an empty training field, a small field of grass atop a steep cliff.
+
+Ling Qi shifted, adjusting her footing, along with the grip on the blade in her hand. She had reached the vague point of “good enough” with blades. Yet, sometimes, she still faced Cai Renxiang like this, without techniques or active arts.
+
+Some people had odd ways of relaxing.
+
+“I believe both of them will be assets in different aspects,” Ling Qi answered as she slid forward, bringing her blade up in a textbook perfect upward slash.
+
+She was met by a similarly perfect deflection, metal sliding off metal. Ling Qi turned with the motion of the slash, ducking beneath the countering blow. They were only moving a bit faster than mortals. This wasn’t even a spar really, just moving meditation.
+
+“I am not concerned with Meng Dan’s intentions, and Xia Lin is…” Ling Qi began.
+
+“Loyal.” Cai Renxiang finished shortly. “General Xia is unwavering in her devotion to Mother. She would not give a recommendation lightly.”
+
+Twice more, their blades clashed. Cai Renxiang pressed forward. Her style was offensive and overbearing. Ling Qi retreated and circled, the saber style she practiced in moments like these was more than a little dance-like. There was no reason to be inefficient after all.
+
+“And your business?” Ling Qi asked. The General implied that Renxiang had made a request of her mother. That seemed… odd.
+
+There was the faintest waver in the upheld edge of the practice blade in Renxiang’s hands. “It is because of the two of you.”
+
+Ling Qi’s knees bending as her upraised blade absorbed the force of Renxiang’s downward sweep. She tilted the blade, letting it slide off of her and circled left. “Meizhen and I?”
+
+The heiress’ nod was stiff. “Accepting and reacting to Mother’s directives is not enough. My failure in finding insight is proof of this.”
+
+Ling Qi remembered the very awkward tea party where that had come up and held back a grimace. “I did not mean to unsettle you so.”
+
+“You were… not wrong. If I damage myself unnecessarily in the course of my duty, this is also a disservice to those I am responsible for,” Cai Renxiang stated coolly. “So… maintenance of the self.”
+
+Ling Qi stepped back as Renxiang did, letting the saber fall to her side. “I’m glad, Lady Renxiang. You haven’t answered though. Evasion is unlike you.”
+
+“I chose to make a selfish request,” Cai Renxiang said. For a moment, the girl’s normally overbearing presence shrank. “Gan Guangli will be accompanying us on this journey.”
+
+Ling Qi blinked, then smiled. “That’s great! It will be good to have another familiar face along.”
+
+“I could likely have secured further material support for you and our expedition, if I had not spent my capital so,” Cai Renxiang elaborated bluntly.
+
+Ling Qi’s smile faded. “Lady Renxiang, my stipend is generous enough. I am not going to begrudge you this. Although naturally, I will accept any further windfalls.”
+
+“Naturally,” Cai Renxiang repeated dryly.
+
+She would not pretend that she really understood the heiress’ reasons. She knew that even if both of them would deny the title, Cai Renxiang and Gan Guangli were friends. “When will he be meeting us?”
+
+“Tomorrow,” Cai Renxiang replied, bringing her saber up to rest on her shoulder. “We are departing in two day’s time. I wished to speak with you regarding that. I believe it would be good to undergo some manner of group exercise before our departure to test our cohesion. I am inclined to do a military exercise given the presence of the General’s forces, but I would know your thoughts.”
+
+Ling Qi hummed thoughtfully to herself as she followed her liege over to the weapon rack to deposit her saber. <What do you think, Sixiang?>
+
+<Maybe something a little less regimented?> Sixiang suggested. <Maybe you can use your map and have a mini expedition with the group.>
+
+***
+
+Two metal clad fists crashed together. “Greetings, honorable allies!”
+
+Gan Guangli was much the same as he had been when Ling Qi had seen him last. He had gained a few centimeters in height, his shoulders were a touch more broad, and his short blonde hair had grown out just a bit. Yet he was still Guan Guangli, tall and boisterous, a hulk in gilded white and red armor.
+
+“My, aren’t you a bright one.” Meng Dan tilted his head as he examined Gan Guangli.
+
+Xia Lin eyed him in silent appraisal, her arms crossed over her breastplate.
+
+Cai Renxiang stood beside him, any hint of uncertainty she had shown the previous evening gone from her austere expression. “This is Gan Guangli, oldest of my retainers. He will be accompanying us on this journey as well.”
+
+Xia Lin clasped her hands and bowed very precisely. “Greetings, Baron Gan. I am Sergeant Xia Lin of the White Plumes. I have been assigned the duty of guarding your mistress.”
+
+She seemed slightly nonplussed when Gan Guangli beamed at her.
+
+Meng Dan toyed with the frames of his glasses, casting an unreadable look at Xia Lin. “And I am Meng Dan. Your lady has invited me for my expertise on ancient cultures.”
+
+“And I would hope that you remember me, Gan Guangli,” Ling Qi said dryly.
+
+They stood under the eaves of a stone pavilion on the Inner Sect Peak where Cai Renxiang currently lived. The sun was still low in the sky, having only recently risen over the horizon.
+
+“Of course, Miss Ling. It pleases me to make your acquaintance as well, Sir Meng!” Gan Guangli greeted cheerfully, straightening to his full height. “As for you, Sergeant Xia, it is reassuring that my lady will have a soldier so elite at her side! My own circumstances have caused me some trouble in keeping pace.”
+
+At foundation green and bronze, Gan Guangli was a half, if not full, stage behind everyone. There was no shame in his voice though. Gan Guangli really was irrepressible.
+
+“... Lady Cai’s safety will be secure,” Xia Lin said. Her gaze flicked away from Gan Guangli’s face down to Cai Renxiang. “On that matter, my lady, what are the plans for our expedition?”
+
+“We have two days of preparatory time. During the first half of our journey, we will be traveling with a combined war party from the Sect and the White Plumes, which will be cooperating with Wang and Meng forces in a limited offensive against the barbarians. This will provide us with cover during the second half when we split from the main forces.”
+
+“Oh my. How delightfully bold,” Meng Dan said. “As expected from Yuan He and the Heron General.”
+
+Cai Renxiang simply inclined her head. “We will leave the main force and travel to the edge of the territory known to be held by tribes which are participating in the current hostilities with a scouting element. Then, we will split again for the final leg of the journey.”
+
+Ling Qi hummed to herself. She had heard this already when she had been discussing potential trips with Renxiang the night before. They would probably have an observer as well, but since interference would mean failure, it was best to plan as if they did not.
+
+“What are our plans for extraction?” Xia Lin asked. “I have reviewed the documentation, and the target location is very deep in the Wall, near the edge of reliable mapping.”
+
+“Mother has crafted us a single use transportation talisman,” Renxiang replied. “We are to attempt to negotiate the placement of a transportation tag at a designated meeting location if possible.”
+
+It shouldn’t be an impossible ask. Allowing a potential enemy to mark their location was dangerous, but in controlling the placement, the White Sky Confederation would be able to prepare defensive measures as they liked.
+
+<Mutual untrustworthiness. Diplomacy is fun, isn’t it?> Sixiang thought.
+
+“I mean no offense, but what is to be done if the talisman fails or is interdicted? I had heard that our foes have some proficiency in that.” Meng Dan questioned.
+
+There was a moment of bewildered silence. Xia Lin and Gan Guangli alike stared at Meng Dan blankly. Even Ling Qi shifted uncomfortably. The mere thought of a talisman from Cai Shenhua, a cultivator at the highest realm known for her crafting abilities, failing was alarming, but… Elder Jiao’s talisman had been interfered with.
+
+“It is a relevant concern,” Ling Qi said carefully. “Underestimating foes is foolish.”
+
+“Ling Qi is correct,” Renxiang said crisply. “We will also have emergency communications with one of the Duchess’ apprentices. They will begin a rescue operation if need be.”
+
+“That is relieving,” Meng Dan said, bowing his head. “The Duchess is wise.”
+
+“It is good that we are prepared for even the most unlikely contingency,” Gan Guangli said with a firm nod.
+
+“Yes,” Xia Lin said slowly. Ling Qi couldn’t be sure what she was thinking. Her aura was as unreadable as her expression. “What, then, are we to do until departure? Will we be participating in the cooperative drilling with the Sect?”
+
+“I believe I have a more fruitful exercise in mind,” Renxiang said. “The core of our mission will be its final leg, and most of us are familiar with military protocol already.”
+
+“And even I know to stay out of the way and obey orders,” Meng Dan said lightly.
+
+“Just so,” Renxiang said, gesturing for Ling Qi to come forward to the table in the center of the pavilion. “Ling Qi has a lead on a more useful exercise.”
+
+Eyes fell on her, and Ling Qi dipped her head humbly as she stepped forward. “I have, in the course of my cultivation, gained a number of treasures. Among them is a map of the sect grounds marking numerous sites of interest.”
+
+“Intriguing,” Meng Dan said, leaning forward eagerly as Ling Qi gestured and the map materialized on the table. “You are fortunate indeed, Miss Ling.”
+
+“I am,” Ling Qi agreed. She looked upon the silvery surface with some trepidation. She had used the map very sparingly since her last major use, visiting the trial site of the Bloody Moon.
+
+She would not be so weakly resolved again.
+
+“A shorter expedition in safer ground as a test then,” Xia Lin said, stepping forward herself to peer at the map. “Practical enough.”
+
+“I have not been able to quest into the sect grounds often,” Gan Guangli boomed. “What a wonderful opportunity!”
+
+“Indeed. It is possible that we may achieve some additional benefit,” Renxiang said.
+
+“Sect-cultivated spirits are often beneficial,” Xia Lin acknowledged. She looked at Ling Qi. “Have you selected a destination?”
+
+“I have some ideas, but I had hoped to ask Sir Meng’s assistance,” Ling Qi replied easily. Really, when inspecting the map, she simply got hunches about where best to go. “There is some element of divination in the map’s use, and a fellow expert’s opinion would be welcome.”
+
+Calling herself an expert of divination was a stretch, but she managed to say it with a straight face. Meng Dan’s amused gaze told her he saw through it. “Naturally, Miss Ling. What portents have you deciphered thus far?”
+
+“Well,” Ling Qi said, sweeping her hand over the map. “The signs seemed to point to these…”

@@ -1,0 +1,149 @@
+---
+id: b886569c-954b-5b6b-9369-df5d28f3c29b
+page-type-slug: story-chapter-royal-road
+title: "Threads 243-Fox 5"
+slug: 0281-threads-243-fox-5
+partOf: forge-of-destiny
+position: 281
+ownLength: 1746
+unit: words
+publishedAt: 2022-09-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/984604/threads-243-fox-5"
+royalRoadId: "984604"
+---
+
+She didn’t feel so lucky though, sitting her friend up against the side of the cave.
+
+Su Ling hacked up another mass of bloody water, and her eyes fluttered open. She mumbled, “Pretty sure we’re not dead?”
+
+“Somehow.” Ling Qi swiped soaked hair out of her eyes.
+
+Her friend’s eyes widened then, and she looked down. “Xisheng, are you okay?”
+
+The child held under her arm did not look okay. Soaked to the bone and covered in Su Ling’s blood, the child ghost’s features, which had settled into an androgynous state, was pasty and pale, their eyes shut. Ling Qi could see places on their arms where flesh and cloth had dissolved into shimmering smoke, leaving crumbling patches as if they were a hollow china doll. The ghost’s feet and lower legs were already gone, crumbled entirely beneath the knee.
+
+One eye cracked open, looking up at them. It cycled between colors, green and blue and brown, settling eventually on an eye not much different from Su Ling’s. “You cut her,” the child breathed out in amazement.
+
+“Yeah, I did,” Su Ling agreed. “See, she ain’t so strong. So hang on a bit. You can see me finish the job.”
+
+Xisheng laughed. It was a happy, childish sound. “Sister is silly. I was never real in the first place. Thank you for pretending I was.” They sounded strangely peaceful for what was happening. The holes in their body yawned wider, flesh crumbling like old clay. “I like this. I don’t feel hungry anymore. Nothing hurts.”
+
+“Fucking damn it,” Su Ling snarled under her breath.
+
+Ling Qi was silent, exhaustion finally setting in as she fell back on her heels. She was thankful that the old skeleton was silent. She could not deal with him as well right now.
+
+Xisheng breathed out, and a part of her cheek caved in. There was no bone or blood, just dust crumbling off. “Sister is too nice. Her heart is too big. Don’t break, okay? There’s lots of us, but only one of you.”
+
+“There won’t be any more of you eaten,” Su Ling vowed. “I won’t let this keep happening. Not if I hafta bow and scrape and beg. My pride ain’t worth that. No more Xisheng.”
+
+“That’s good. I think a lot of them would have liked you.” The words grew softer and softer until a final sigh of air came and what remained collapsed inward entirely, leaving no more than fragments of clay, grave dirt, and drifting dust on Su Ling’s lap.
+
+Ling Qi looked away, clenching her fists. Still not enough. She gave her friend privacy and looked to the one who had rescued them at the end. Her eyes met empty sockets that sparked and glittered with eerie green.
+
+Why?
+
+BOLD. APPROVAL.
+
+The spirit’s voice whispered in her mind, the curling caress of dried thorny branches on her thoughts.
+
+She had failed though.
+
+Nuance came, the concepts pressed into her mind growing more complex, more comprehensible. Like an old man speaking for the first time in years, becoming clearer more understandable.
+
+“Practice. The junior oversteps. The senior steadies and catches. Plan better escapes. You have not the fire and spite for broken treasures to bring satisfaction.”
+
+She couldn’t deny that. But she still didn’t understand why.
+
+“Blood.”
+
+She didn’t believe that. Half the province had his family's blood.
+
+“You know of the difference, little junior. You write it in your soul.”
+
+She closed her eyes, feeling the desolate qi of this place. Last time, she had been panicked, terrified, and surprised, but having come from the fox’s den and its illusions, it did not feel quite so bad. Once, she had considered ignoring the door that had appeared, avoiding the danger this old, old thing represented.
+
+Isolation. It was the desolation of self. This place dripped with it.
+
+“Ling Qi, who's the skeleton? Why are you staring at it like that?” Su Ling asked. Their voice still cracked, and she knew if she looked at the other girl’s face, her eyes would be red and there would be tracks worn on bloody cheeks.
+
+Ling Qi clapped her hands together in front of her and offered a small bow, as one would to a senior. “Just a kind uncle who took pity on his junior.”
+
+“You owe me, little thief. But not now. You know the way.”
+
+Su Ling looked hard at the horned skeleton on his throne of muck and stone, woven through with brambles and black petaled flowers. “I trust you, Ling Qi,” she grunted. “But I’m also pretty sure I’m gonna pass out soon.”
+
+Ling Qi blew out a breath, her eyes turning to the shadow of the cavern where the razor thin line marked the position of the door back to her labyrinth gate. She wrapped an arm under Su Ling’s shoulders and helped her up. To the skeleton, she answered, “I pay my debts. I’ll be back to tell you the story soon.”
+
+“That all you have to trade? Stories?” Su Ling’s voice slurred as she leaned into Ling Qi. “Fuck, how do you always get the best deals?”
+
+A horn crowned skull tilted towards her, and Ling Qi limped for the door.
+
+She couldn’t wait to catch a real nap.
+
+***
+
+To say their friends were less than pleased with their condition was something of an understatement. To be under the baleful gaze of an unhappy Bai for the better part of an hour reminded her of the spiritual resistance training she had asked for in her first year.
+
+Bai Meizhen had really refined her technique.
+
+And she didn’t even know Li Suyin could yell like that.
+
+The only saving grace, if she wanted to look at it like that, was that Lady Cai had put herself in the medicine hall as well while they’d been out. She didn’t know what the heiress had done yet, but apparently, she’d had to be hauled from her meditation room with blood running from her eyes, ears, and nose and burns all over her body. Almost certainly a tribulation, or so the Sect’s gossip mill whispered. Was it successful or not? No one knew yet.
+
+Ling Qi sat on the edge of the bed in the medicine hall, still dressed in the white robe she’d been lent. She’d kept her dress on a chair by the bed, so she could lay her hand on it whenever the silk started rippling and twitching anxiously. Her arm was held in a sling, but her breathing was easier now, her ribs no longer being halfway into her lungs.
+
+Ling Qi chuckled to herself, but it died as her eyes fell on the table beside her bed. On its surface were a handful of wood and metal splinters that had been surgically removed from her upper chest and face. They were all that remained of her flute.
+
+It… hurt. Her flute hadn’t simply been snapped this time. There was barely any of it left. She had taken its presence for granted, that its reinforced shell could survive anything. She should have gotten a new one ages ago. She had the spirit stones, and she had had the time and peace. Instead, she’d clung to it until it shattered.
+
+She really was a hypocrite, wasn’t she?
+
+A pillow hit her in the side of the head.
+
+“Oi, no brooding allowed in the recovery room,” Su Ling grumbled at her in a surly voice. She lay in a narrow bed, propped up on a small mountain of pillows. Her chest was wrapped in bandages, and so were her arms. Her arms were absolutely swathed in them in fact, to the extent that her hands could not be seen.
+
+“Did you throw that pillow with your tail?” Ling Qi asked incredulously.
+
+Su Ling glared flatly, one dark furred tail curling at the side of her bed. “So what if I did? You were brooding again.”
+
+“I can brood if I want,” Ling Qi said petulantly.
+
+“You should rest,” Su Ling accused, jabbing the tip of the tail at her. “... and ‘m sorry. I know that thing meant a lot to you.”
+
+Ling Qi smiled. It was a little stiff. “You don’t get to apologize for my harebrained idea.”
+
+<Admitting that an action was reckless. Has this young miss achieved a new stage?> Sixiang drawled sarcastically.
+
+“Su Ling, you need to figure out how to whap a dream spirit with a pillow. Sixiang is sassing me,” Ling Qi complained.
+
+She pulled her eyes away from the splinters. Later. There was time for that later.
+
+“Blat them yourself,” Su Ling said without sympathy.
+
+Ling Qi shot the open air a huffy look, and Sixiang snickered. Yes, they were all alive. Even Su Ling would recover, though the scarring on her arms would be severe.
+
+She would never be able to use those meridians in her arms for anything else though. It was as if she had assimilated a domain weapon early.
+
+But they were fine. And that was worth more than some happy memories.
+
+“Hey, Ling Qi. You’ll get that message to that Diao woman, right? Or go around her if need be? I know it’s a big favor, but…”
+
+“It will be done,” Ling Qi said. She was not Su Ling, but she had no desire to see that monstrosity continue. A sweep for any children with fox blood and a request for closer monitoring would be a good start.
+
+And if it couldn’t be resolved, there was a member of the Ministry of Integrity right here, wasn’t there?
+
+Su Ling sighed. “Than—”
+
+There was a boom, and the earth shook. Then, a crash drew their eyes to the door. The water set on the table’s edge rippled with pounding footsteps. The doors burst open with a bang, and there stood Gan Guangli with a frazzled young disciple hanging off his arm like a scarf.
+
+“Sir, visiting hours are over,” the dizzy disciple groaned.
+
+“Miss Su, my deepest apologies! I was out among the wilderness and had not heard of your plight!” he announced, head scraping the rafters as he thudded in, ignoring the aide in a startling display of rudeness for her fellow retainer. “Are you—”
+
+A pillow struck him dead center in the face.
+
+“Up. Shut. Now. Down. Volume,” Su Ling rushed out, looking as if she wished to sink entirely into her mountain of pillows.
+
+Ling Qi smiled at her friend, bright and friendly.
+
+Su Ling shivered.

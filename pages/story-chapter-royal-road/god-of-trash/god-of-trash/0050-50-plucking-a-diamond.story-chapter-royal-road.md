@@ -1,0 +1,113 @@
+---
+id: 18493377-c2d8-5f81-9c46-8348ca096db5
+page-type-slug: story-chapter-royal-road
+title: "50. Plucking a Diamond"
+slug: 0050-50-plucking-a-diamond
+partOf: god-of-trash
+position: 50
+ownLength: 1876
+unit: words
+publishedAt: 2025-04-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2199348/50-plucking-a-diamond"
+royalRoadId: "2199348"
+---
+
+The tsunami of burning impurities rushed through Rhys and into Walter. They coursed through his core, surrounding the black mark of the skeleton. Rhys’ impurities scoured at the skeleton, lifting it off Water’s core, ripping every black mark and trace of impurity out of the other boy’s core. The mass of impurity worked like superpowered sandpaper, and on top of that, it was superheated. When it came to lifting the curse off Walter’s core, it was like scrubbing with a scouring pad and boiling water. He narrowed his eyes, focusing on the skeleton itself. This was the most important moment. The curse, the skeleton, was no longer empowered by Walter’s core. With no power source to draw from, the curse naturally began to die.
+
+But Rhys didn’t let it. He fed it impure power, directly from the impurities he was burning. The skeleton trembled. That black intelligence shook as well. It struggled to remain tethered to the skeleton, but the skeleton itself could hold very little power. Compared to the power of Rhys’ wave of impurities, it was utterly overwhelmed. He burned the black power that controlled it. That power was immense, and this was but a tiny strand of that power, but this tiny strand? This tiny strand was well within Rhys’ power to burn away.
+
+How… the voice whispered, and then there was silence.
+
+Nothing connected to the curse except for Rhys. Nothing empowered the source but Rhys’ burning impurities. Rhys surrounded the curse with his impurities and pulled it free of Walter’s core. He drew it into himself, placing it not on his core, but wrapping it in a small ball of impurities and setting it nearby. The small ball of impurities wrapping the curse orbited his core, and within the small ball, the skeleton quietly shut its eye sockets and went back to sleep.
+
+It was his. His spell. He knew instinctively that he could only empower it with impurities; mana would never do. It was a filthy thing, trash, and he wasn’t quite skilled enough to truly obtain it for himself. He was skilled enough to obtain it, hold it, and unleash it when need be, but it remained a separate thing from himself. Something he’d stolen, something he now owned, but not something that was his. It was different from Cornered Rat or Trash Intent, which came from his core, his path, and were an innate part of him. Instead, it was a weapon. Something he’d picked up, something he could use to deadly intent, something he could activate and unleash destruction with, but not a part of him.
+
+Curse Obtained: Cold Grasp of the Frozen Earth
+
+Pull an opponent into the earth and smother them beneath. The bones are icy cold and sap vitality on contact.
+
+As it went to sleep in orbit of his core, he noticed that the skeleton’s hands were disproportionately large, perhaps as large as its entire ribcage. It folded them before it, sleeping on its side, so that its overlarge hands were fully visible within the orb of impurities.
+
+Rhys retreated from within Walter, taking his impurities with him. In his grip, Walter foamed at the mouth and passed out. The duel was decided.
+
+But Rhys wasn’t done. Or rather, he couldn’t be done. He sat back and folded his legs, focusing all his attention on the energy swirling within him. His body was a charcoaled, burning mess. This time, he really had burned it all down. Without the impurities to empower him and feed his life force, he would have died a long time ago.
+
+So, before the impurities could burn out, Rhys sat there and carefully rebuilt himself.
+
+Organ by organ. Muscle by muscle. Bone by bone. His body reformed. From outside, it appeared as though the charcoal fell away to reveal a refreshed, perfect body, but from within, it was a different story. Rhys carefully shaped every inch of himself, schooling everything into its proper position. If he didn’t have the practice of reforging his body from his previous efforts, he would have been lost, because very little of his body remained undamaged. But because he remembered where everything belonged, every scrap of flesh and piece of bone, he could regenerate everything, as long as he had impurities to burn.
+
+This wasn’t Self-Regeneration. This was something he could never learn as a skill. It was his manual effort, one piece at a time, slowly and carefully rebuilding his body from ruin.
+
+This time, he not only rebuilt it sturdier, able to take more impurities, but also stronger. His muscle and bone was denser, his ligaments more flexible and durable. Bit by bit, piece by piece, until the impurities burned out. The black smoke petered away, and Rhys opened his eyes.
+
+“You don’t get to interrupt one of our students’ enlightenments, just because you’re from a big academy,” Cynog mocked Ernesto. He stood with his arms out, a wall of muscle close behind Rhys.
+
+“He crippled one of my students.”
+
+“I didn’t see any crippling. If your student crumpled under Rhys’ power, that’s his weakness. Isn’t that what you were going to say if one of your students crippled one of ours? Or was that girl howling about crippling our students for nothing?”
+
+“What my students say in the heat of battle should not be taken as serious threats.”
+
+“No, huh? Especially not if they immediately act on those threats?”
+
+Ernesto fell silent.
+
+Rhys stared up, a little flabbergasted. Was Cynog… defending him? What the hell? Where was the petty bully he’d gotten to know so well, and who was this man?
+
+At the same time, he understood. He’d had ‘friends’ like Cynog, back in his original world. People who were all too happy to bully anyone they ran into, friend or no, but who would turn their prodigious bullying power on a foe and absolutely broadside them for the sake of the larger group, if given the chance. He’d enjoyed pointing those loose cannons at the people who deserved a load of hot lead in the face, and now, he was glad to hear Cynog hammering Ernesto. Even a piece of human trash like a bully can become a weapon in the right circumstance, he reflected, and tucked that breakthrough into the back of his head.
+
+Cynog glanced down. Seeing Rhys awake, he nodded. “If you’re awake, cover yourself and scram.”
+
+Cover himself? Rhys looked down, to find nothing but miles of skin awaiting him. His clothes had burned away with the impurities.
+
+Whoops. He drew some scrap fabric from his storage ring with a flourish and wrapped it around himself, toga-style. Bowing, he retreated a few steps from Cynog and Ernesto alike, then said, “Ernesto—”
+
+“Professor Ernesto.”
+
+“Prof. If you inspect your student over there, I think you’ll find that not only is he in perfect condition, but he is in fact in better condition than he was before battle. And if that’s the case, then I haven’t crippled anyone, have I?”
+
+“Mae—”
+
+“I’m fine, Professor,” Mae interjected, embarrassed to have been brought up at all. She rolled out her shoulder. “That healing potion my sister made for me fixed my shoulder right up.”
+
+Ernesto scowled. He swept over to Walter’s side and knelt, checking his pulse.
+
+At his teacher’s touch, Walter jolted awake. He looked around, then touched his stomach, shocked. “The curse… it’s gone?”
+
+“What?” Ernesto asked, equally shocked.
+
+“The curse, the one I obtained during the trial in the tomb. It’s gone!” Walter said, equally bewildered and confused. He didn’t sound joyful or excited, but rather, anxious. “What am I going to tell the Elders…?”
+
+“There’s more than one path to power. I always thought cursing yourself was a bit hasty. You have plenty of potential, and no need to seek out curse power unless you desire that path, as Hono does,” Ernesto chided him, and for a brief moment, Rhys saw the responsibility of an adult and a teacher in the man’s expression.
+
+Lost, Walter turned to Ernesto. “How am I supposed to avenge my family without a power equal to—”
+
+“Enough.” Ernesto glanced at Rhys, who was very politely pretending not to listen to their conversation, while drinking in every word. “There are too many ears here. These are sensitive matters. We can continue in private.”
+
+Numbly, Walter nodded. He pushed himself to his feet.
+
+With that calm demeanor of his, I never would have guessed he sought to avenge his family. Rhys shrugged to himself. People were complex. It wasn’t as though those who sought vengeance brooded over it every second of every day. They’d laugh, smile, even plot together with asshole professors to bully small schools. Whatever progressed their goals, he supposed… which made them no different from any other mage.
+
+As Walter passed him, Rhys leaned in. “Sorry I commented about your family. I didn’t know.”
+
+“Huh? Oh, my social status.” Walter snorted. “As if something that weak would get under my skin.”
+
+Sure seemed to work in the heat of the moment. Tucking his personal thoughts away, Rhys nodded, letting Walter have the small victory. Now that the fight was over, he had no need to crow over every tiny petty win and loss. Mental warfare was best reserved for battle, so it had maximum impact when it was performed. In this case, he didn’t have the time to do anything insidious, where he wore the man’s mentality down over weeks or years, so there was no point preventing Walter from letting their past battle be water under the bridge.
+
+Ernesto brushed imaginary dust from his shoulder. “Now then. How wonderful, that we had a friendly duel.”
+
+We did? Rhys almost asked aloud. He shook his head at Ernesto. Just moments ago, the man had been trying to play the victim and claim that Rhys had crippled his students, and now it was all a friendly duel? What a joke. If Ernesto’s students had won, it wouldn’t have been a ‘friendly duel,’ but a ‘clear example of the incompetence of Infinite Constellation School,’ not that there was any point blabbing that outright. Everyone here knew it. It was a miracle they’d survived the ‘friendly visit’ largely unharmed so far. A miracle Rhys had worked hard to put into place, but a miracle nonetheless.
+
+Ernesto nodded at everyone who’d assembled to watch the duel. “My students and I are tired. We had a long day of travel, and difficult battles afterward. I believe it’s time we retired for the night.”
+
+“Of course. Should I…er, Tarais, would you escort them to their quarters?” Rhys quickly amended, remembering the state of his robes.
+
+Tarais stepped forward, but Ernesto lifted his hand. “No need. We recall where the cabin is, thank you.”
+
+As he led them away, Victor stuck his tongue out at Rhys, Hono huffed and ignored him, and Mae gave him a deadly, but appraising, look. Walter wobbled off in a daze, somewhere between shocked, elated, and terrified.
+
+Rhys nodded at Tarais. “Will you keep an eye on them?”
+
+“While you fetch some robes? Certainly,” she replied, eyeing his current ragged attire.
+
+Rhys opened his mouth, then shut it. Not quite… but close enough. “I’ll be right back,” he promised, and ran off.

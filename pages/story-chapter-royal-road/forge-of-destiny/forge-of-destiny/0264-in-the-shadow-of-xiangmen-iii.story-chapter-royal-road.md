@@ -1,0 +1,47 @@
+---
+id: f6b9cf80-0308-50be-9ba0-c7c9961b004f
+page-type-slug: story-chapter-royal-road
+title: "In the Shadow of Xiangmen III"
+slug: 0264-in-the-shadow-of-xiangmen-iii
+partOf: forge-of-destiny
+position: 264
+ownLength: 499
+unit: words
+publishedAt: 2022-07-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/941740/in-the-shadow-of-xiangmen-iii"
+royalRoadId: "941740"
+---
+
+Brilliant light scours away shadow and doubt. Minds clear. Resolve renews.
+
+I Am Here, declares the Light, and in the darkness, one million nightmares burn.
+
+The Radiance, the Ideal, strides onto the stage in a gown woven from strands of possibility, grief, and love. The click of heels are a thunder that shake the boughs of Xiangmen. Her eyes are the future, casting its unknowable, unreachable light upon the present, the blank and colorless canvas. Her blade is Truth, ineffable and pitiless. When she raises it, ancient web and artifice split apart like rotted rope, revealing the clear blue sky.
+
+Speak not of mercy, Lord of Lies. Speak not of sweet reason or of civility, chains and manacles in your grasp. Speak not of order. Order is no fat and wretched creature scheming alone with its dolls.
+
+Behold I, your failure, so great that no Lie may erase it.
+
+Feet stamp, voices sound, and the armies of earth advance into the teeth of nightmare.
+
+Among the branches, the King of Dreams quakes in rage at the impertinence, even as blisters of bleaching white take root upon the tip of his legs and his legions of nightmares burn.
+
+Ungrateful and miserable beasts! We have guided. We have cultivated! All that you have is our largesse! The king’s voice roars, and reality twists. Grass becomes thorns, air becomes flame, and all the nightmares of the underworld spill from the wailing gaps in the material world. Spit upon our generosity! It will not come again!
+
+The great silver wolf howls in rage, throwing off cruel devils and creeping horrors that threaten to drown it. Beasts and riders stream around his stamping feet, clashing with brightly bannered riders who pour from the roots of the trees, each one a blur of possibilities. The ramparts of the Prince of Earth advance, carving the land apart into mazes of jewel and stone. The mist surges, and a war song rises, consuming those who sought the Light.
+
+The Builder strikes the gates of heaven, shattering rotten artifice.
+
+The Crucible walks, and lives vanish in a mist of ash and blood.
+
+The Orator speaks, and men fight with the strength of one hundred.
+
+The Lover spreads her hands and raises their Ideal to the heavens.
+
+The Liar Lords fight. Their craft evaporates in the light, and their falsehoods shatter. Each is alone, bound only by thin threads of the Patriarch’s will. Each clings to their Lie. Even as the world descends into chaos, they warp the minds of men and spin their heavenly lies where the light does not reach. Warriors go mad with the torment and horror that spill from the Masters of Nightmare.
+
+The sky comes apart, and the Lord of Heaven screams.
+
+In the sky, the Ideal burns like a second sun, a future yet unsullied, and the hurricane of her blade’s strike tears hills from the earth and leaves from the great tree.
+
+A twitching leg a kilometer long crashes to the earth.

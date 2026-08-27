@@ -1,0 +1,141 @@
+---
+id: 872a29a1-be78-535b-bbe4-42bc7f7da3db
+page-type-slug: story-chapter-royal-road
+title: "Threads 197-Rite 1"
+slug: 0229-threads-197-rite-1
+partOf: forge-of-destiny
+position: 229
+ownLength: 1978
+unit: words
+publishedAt: 2022-03-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/864734/threads-197-rite-1"
+royalRoadId: "864734"
+---
+
+“Baroness Ling.” Her target, Baron Suo, turned to her as she approached. Her initial impression held; he had a genial sort of air. His robes were well embroidered but not gaudy, and his unexpressed domain had a placid feel. He was of the seventh stage of the green realm. If she assumed his father, the patriarch, was fourth realm, it seemed that the Suo family were quite stable for a baronial clan. “It is a pleasure to make your acquaintance.”
+
+“I am likewise honored that the idea for my junior sister’s tour has been so well received. Thank you all very much for attending,” Ling Qi said politely, offering a bow slightly lower than was strictly necessary.
+
+She listened with half an ear as the others introduced themselves, trusting Sixiang to help her match faces to names where necessary. The others in this circle were not titled themselves. They were children, siblings, and cousins to those who were. She traded pleasantries with them for a time.
+
+“It is an interesting endeavor you’ve set out to organizing here,” Baron Suo commented. “Spirits have been imported into the valley before, but it is typically a more gradual process.”
+
+“My junior sister enjoys her performances, but she is still a spirit. It is my hope that she may have some positive effect beyond enjoyment of her music,” Ling Qi replied.
+
+“Fine music is a reward all its own,” Baron Suo said. “It is a sign of prosperous times that there is room for such events.”
+
+Ling Qi listened carefully to the words of agreement and watched the expressions of the other nobles. She could respect that kind of attitude, she thought. “Well said, Baron Suo. To see that prosperity continue to grow and put down threats to it is my lady’s fondest dream.”
+
+“Young Lady Cai’s ambition is most admirable,” one of the lesser nobles murmured.
+
+“If only my own daughter could show even half of that drive and initiative,” an older woman sighed.
+
+“I do hope she maintains her health. To take up such heavy responsibilities at this age…”
+
+She allowed the tide of well wishes and compliments to wash over her, keeping a smile in place.
+
+“Your words and concerns are too kind,” Ling Qi said. Sixiang’s whispers told her that not all were genuine. Although they would never voice it, a pair of teenagers being given such responsibilities was considered of dubious value. She marked out the faces that spoke of emotions darker than wariness or condescension. “Lady Cai and I will work diligently to exceed your expectations.”
+
+“I am sure you will. Lady Ling has already gained some reputation for unorthodox solutions,” Baron Suo said cheerfully. He gestured to the temple around with the cup in his hand. “After all, here we stand.”
+
+“It is important to keep in mind alternative solutions, even if it is sometimes best to stick with what already works,” Ling Qi said diplomatically.
+
+“Wise,” said the baron, a twinkle of amusement in his eyes. She thought he was being genuine, but neither she nor Sixiang could be fully sure of her read on him.
+
+“Regarding solutions that have worked in the past, is it not a shame that the old lotus trade road has declined so?” Ling Qi ventured.
+
+“Ah, that old thing,” Baron Suo said. “It is a shame that goods no longer flow from Black Lotus Mountain. Neither the Wang clan nor the Diao clan have been enthusiastic about exorcising the old Li lands. I cannot blame them.”
+
+Ling Qi listened as others voiced similar words, bemoaning the loss of medicinal products which had once made the road a rich one, and complained of the rising cost of maintenance on mostly unused spans. The thrust of her question wasn’t missed, but again, she sensed a certain condescension as if she were a child proposing a plan that seemed obvious but wasn’t possible.
+
+“Is it truly so dangerous that it cannot be resolved?” Ling Qi inquired. She couldn’t change that impression without more successes to her name, but she could play off of it to learn more of the situation.
+
+“It’s not unresolvable like that patch of the western fens,” one noble murmured.
+
+“I am sure any of the great houses could do so, let alone Her Grace.”
+
+“Expensive. Terribly expensive. Exorcists of that caliber are not cheap, even ignoring the troops needed to hold the ruins whilst they work.”
+
+“Ah, but who would claim the ownership after? A sticky situation.”
+
+“It is not only a matter of danger, Baroness,” Baron Suo interjected, making the others fall silent. “In the chaos of Ogodei and the disposal of the Hui tyrants, many claims of land became confused. The southern pass is among them, and both the Diao and Wang have significant claims.”
+
+“It is unfortunate that such matters would block such an important road from opening,” Ling Qi said. “I hope that this matter can be resolved in the near future.”
+
+“From your lips to Her Grace’s ears,” Baron Suo said beatifically.
+
+Ling Qi shook her head. “Oh no, you overestimate me, Baron Suo.”
+
+“Perhaps, but you have surprised others before, Baroness,” the older man said, dipping his head with a bit of respect. “I know that I would be most eager to repair the roads and bridges in my land if it ever became so.”
+
+“That is good to hear,” Ling Qi said. “If—”
+
+“Lady Ling.” Her words were cut off by the approach of a servant whose head was deeply bowed by the time she had turned her head to look at the woman. “There is a matter in the preparation room which requires your attention.”
+
+Ling Qi pursed her lips but didn’t direct any of her irritation at the servant. “I apologize, Baron Suo. Please excuse me.”
+
+“Of course. It has been pleasant speaking with you,” the Baron said, and similar murmurs echoed him.
+
+At least she had made a positive impression, Ling Qi thought, following the serving woman who bustled along to stay ahead of her stride. Being thought of as a well meaning, precocious child wasn’t the worst.
+
+<But you’re still pretty annoyed.> Sixiang snickered in her mind. <I dunno how hard working on this problem will be, but it seems like a pretty straightforward goal to pursue.>
+
+Maybe. She would have to speak with Cai Renxiang for access to actually useful records on who owned what, and she was intending to speak with the Wang clan at the tournament. She could ask for their thoughts on the matter at that time.
+
+<Why haven’t you sent a wisp ahead to figure out what’s wrong by the way?> Sixiang asked as they passed from the temple's great hall to a side passage. She could feel Hanyi’s qi, along with a few other people’s, at the end.
+
+That would be rude, Ling Qi thought. She was a guest not an infiltrator, and it wasn’t like whatever problem was occurring was due to a physical threat. However, now that they were out of easy hearing of the guests, she could screen her conversation with a bit of effort.
+
+“What is the nature of the problem?” Ling Qi asked brusquely.
+
+“There seems to be a disagreement between High Priestess Chao Yanlin and your junior sister, Baroness,” the servant said meekly, keeping her eyes ahead and her head down.
+
+Ling Qi focused on what she could feel from past the door. “Has Sir Bao been informed?”
+
+“Yes. Would you like him to be called for, Lady Ling?” the woman asked as they approached the door.
+
+“Not yet,” Ling Qi said after a moment. It was better that one of them remained out with the guests. “You may go. I can send him a message myself if need be.”
+
+As the woman hurried away, Ling Qi turned the handle of the preparation room's doors. Beyond the door, she found a room filled with shimmering mist. It appeared almost like a natural grove within the building centered around a burbling spring of clear, pure water. The spring filled a depression of pebbled stone carved to appear natural, and several slender trees sprouted up around it, their leafy boughs damp with dew.
+
+In the room, she found Hanyi standing with her hands on her hips, glaring across the spring at a taller woman.
+
+It struck her then that the woman, Chao Yanlin, was probably a daughter of the region's viscountial clan. She was of middling height, a head shorter than Ling Qi herself, and wore an elaborate green gown and what Ling Qi at first took to be a blue mantle, but which turned out to be glittering liquid. Her hair was tied up in elaborate jingling ornaments, framing a doll-like face currently scrunched up in suspicion.
+
+“Baroness Ling,” she greeted Ling Qi in a clipped but still polite tone. “Thank you for your prompt arrival.”
+
+“You are welcome,” Ling Qi said warily, letting the door drift shut behind her. The qi in the room was refreshing and pure, but the atmosphere was less so. She saw several servants and lesser clergy scattered around the perimeter of the room, looking as if they were trying to avoid attention. “What seems to be the issue?”
+
+“This lady is trying to tell me that I have to change my performance just cause some streams will get whiny if I don’t,” Hanyi complained, glaring harder.
+
+The priestess’ frown deepened. “I have attempted to inform your spirit that the routine which she has presented to me is not what we agreed to in this cooperation. I will not have my charge’s fields flooded because the pride of the spirit of the Seven Hills Stream has been trampled upon.”
+
+“And I told you I followed all the directions in your letters. If you left something out, that’s not my fault!” Hanyi said, stamping her foot.
+
+Ling Qi stepped forward, seeing the signs of a more petulant outburst in Hanyi’s demeanor, and laid a hand on her shoulder. “It seems that there has been some miscommunication between us, for which I apologize.”
+
+“I cannot help but wonder at your motives, Baroness. Your bound spirit has been crass and disrespectful from the start,” the priestess accused.
+
+“You started being a jerk the second you walked in,” Hanyi muttered under her breath. Ling Qi scattered the sound on her wind, but frowned herself.
+
+<She does seem more hostile than a mistake would warrant,> Sixiang thought.
+
+“Hanyi, was there really no mention of this Seven Hills Stream in your communication?” Ling Qi asked.
+
+“No, there were nine spirits in the directions they sent me,” Hanyi protested.
+
+“I am doubtful that my people would make such a grievous error. There are ten spirits which must be seen to for the winter festivals,” Priestess Chao replied.
+
+Something was fishy here. “Is it possible to just alter the choreography to fix this?”
+
+“Even I can’t memorize a whole new section in a couple minutes. I’d probably mess it up and just make things worse,” Hanyi grumbled.
+
+Ling Qi bit her lip. If it was only a short section, then she could handle that part, but this was Hanyi’s tour. Her involvement would turn it, in the eyes of the Emerald Seas, from Hanyi’s into hers with Hanyi just being a supporting assistant.
+
+“I cannot stop this from going forward if you choose to do so,” the priestess said stonily. “It is too late to stop the ritual festivities. There will be consequences.”
+
+“I am sure there will be,” Ling Qi said unhappily. “And I think I will want to see the correspondence between the two of you later.”
+
+“Agreeable, but what do you intend to do now?” asked the older woman.
+
+“Seeing that you and the other temple staff are needed here, the only reasonable thing to do is to deal with the spirit in question myself.”

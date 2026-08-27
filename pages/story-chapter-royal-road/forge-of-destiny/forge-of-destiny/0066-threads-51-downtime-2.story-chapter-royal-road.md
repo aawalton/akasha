@@ -1,0 +1,175 @@
+---
+id: 77ce09ba-66b8-51ef-af84-4b547cb631ce
+page-type-slug: story-chapter-royal-road
+title: "Threads 51-Downtime 2"
+slug: 0066-threads-51-downtime-2
+partOf: forge-of-destiny
+position: 66
+ownLength: 2778
+unit: words
+publishedAt: 2021-02-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/633912/threads-51-downtime-2"
+royalRoadId: "633912"
+---
+
+Ling Qi peered into the distance at the smoking crater in the ground, the glassy glimmer of melted dirt and shattered stone surrounding it. Then she shook her head. “Sorry, little brother. You still missed.”
+
+“Ugh, stupid Zhen,” Gui grumbled. The giant tortoise lowered his head and swallowed another massive mouthful of dirt, stones, and plant matter from the miniature mountain of “ammunition” they had prepared.
+
+“Silence, foolish Gui!” Zhen hissed as the air around him rippled with heat. “I, Zhen, merely need a little more practice!”
+
+Ling Qi watched with a critical eye, flickers of silver marking the use of her perception techniques as she examined the processes of the technique Zhengui was trying to develop. He was not very good at taking in earth qi, so for now, they were using this crude method, but once he had mastered the more mundane aspects, they would have to work on the internal ones. Perhaps she could ask Xuan Shi? He had much more experience with earth arts.
+
+“You ready with the target, Sixiang?” she asked, resting her hand on Gui’s scaly head as he swallowed the “fuel.” Molten glass dripped from the corners of Gui’s mouth. It was cute.
+
+“Got ya covered, boss,” Sixiang said, and in the distance, Ling Qi saw the clay target, a simple, unadorned disc, spinning and floating in midair. The wind coiled around the disc, preparing to fling it into the distance. Sixiang was getting better at manipulating the wind, but so far they had not come up with something that could be called a technique.
+
+“Alright. Fire when ready,” Ling Qi said with a grin.
+
+Zhen’s throat bulged as the missile formed and traveled up toward his mouth, gathering fiery qi along the way, and the disc was flung away. A moment later, he rose to his full height and spat, and a burning mass of molten earth and ash erupted. The missile was roughly a meter across in size and arced high through the air trailing ash and rippling heat. It arced down a hundred meters distant, and the qi contained within churned. In a flash of fiery light and molten shrapnel, it exploded.
+
+“Give the boy a prize!” Sixiang announced cheerfully, and Ling Qi grinned as well. The disc was gone, blasted into burnt fragments.
+
+“Ha! It is done!” Zhen crowed.
+
+“Hmph. Zhen should not be so proud. Sixiang is taking it easy.” Gui taunted, even as he eyed the pile of dirt and stones with distaste.
+
+“It’s a good first step,” Ling Qi soothed as Zhen turned outraged eyes on his other half. “We’ll work on consistency, and then, we can move onto harder targets.”
+
+However, before they could continue with their practice, Ling Qi found her attention drawn away. She turned to look to her right as she felt Hanyi’s qi approaching. Even from here, she could feel the spirit’s anger and embarrassment, long before she spotted her trudging up the hill where Zhengui practiced his techniques.
+
+Hanyi was soaked to the bone. Her dress hung heavy from her shoulders, stiff and covered in frost and ice. Icicles dangled from the hems, clinking musically as she walked, and her hair was muddy and full of water weeds.
+
+Ling Qi was at her side in the blink of an eye, crossing the intervening distance as little more than a blur. “Hanyi, what happened?” Ling Qi asked, crouching down to look at her. Ling Qi could see the fading remains of bruises and scrapes on the young spirit’s arms and legs.
+
+“I was just playing, and this stupid jerk knocked me off the side of the waterfall! And then this spirit got mad ‘cause I froze his dumb pond,” Hanyi sniffled out. “Then I had to walk all the way out here ‘cause I can’t get into the cave without you.”
+
+Ling Qi grimaced. “Sorry about that,” she apologized. The locks on the disciples’ homes were not something she could modify. “But who knocked you off a cliff, and why?”
+
+“I dunno,” Hanyi pouted. “I was just playing and singing by the stream, and they got mad at me for making noise and kicked me off the cliffside.”
+
+Ling Qi frowned. She sensed something a little evasive in Hanyi’s tone.
+
+“What?! Big Sister, we need to go beat them up!” Zhengui announced, apparently having caught the story as he trundled over. “We can’t just let people mess with family.”
+
+“Doofus,” Hanyi muttered under her breath, looking away briefly. She quickly brightened up though, looking pleadingly up at Ling Qi. “Yeah, you should beat them up, Big Sister!”
+
+<Methinks we’re missing some context here,> Sixiang whispered dryly in her thoughts.
+
+“I still need to know who it was,” Ling Qi pointed out.
+
+“Well…” Hanyi began sheepishly.
+
+***​
+
+Ling Qi did not know what she had expected, but it was not this.
+
+Standing before the perpetrator, she looked into Yu Nuan’s eyes and saw stubborn determination mixed with fear. The girl looked much the same as she had when Ling Qi had challenged her last. She had a new set of piercings in her right ear, and some of the others had been changed for studs of other colors, but that was the extent of her physical changes.
+
+“What is this I hear about you knocking my spirit off this cliff?” LIng Qi asked coolly, gesturing to her right where the clear waters tumbled over the cliffside, churning up the pond below. Chunks of slow melting ice still floated on its weedy surface. Hanyi peered out from behind her, and Ling Qi did not miss the way she pulled a face and stuck out her tongue at the other disciple.
+
+“I lost my temper,” Yu Nuan replied defensively. “But that little… Your spirit has been bugging me all month, interrupting my practice and trying to challenge me, and when she scared off the spirit I was trying to bind...”
+
+Left unsaid was what Ling Qi read between the lines. Yu Nuan had assumed Ling Qi was trying to mess with her and was now preparing herself for the consequences of rising to the bait. Ling Qi eyed Hanyi, who huffed.
+
+“Like that’s a good excuse for attacking me like a big jerk. You knocked me off a cliff!”
+
+Yu Nuan’s pierced eyebrow twitched violently. “We’re all third realms here,” she growled. “Don’t pretend you’re made of glass.” She crossed her arms and looked defiantly at Ling Qi. “I’m not gonna apologize.”
+
+“Hanyi, why have you been following Disciple Yu around and challenging her?” Ling Qi asked suspiciously.
+
+The young spirit looked briefly furtive, but a hard look from Ling Qi made her darting eyes still. “I wanted to beat her. Everyone says Big Sister crushed her so easily, so I thought I should be able to win too.” She scuffed her foot in the dirt. “I kept losing.”
+
+There was another violent twitch of an eyebrow from Yu Nuan. Ling Qi felt bad for the other girl. Hanyi had caused the two of them trouble. If, or rather, when, it got around that Ling Qi had allowed one of her spirits to get attacked by a lower ranked disciple, it would give her detractors even more ammunition if she didn’t do anything about it. Ling Qi rubbed her forehead in frustration before she caught herself.
+
+Straightening up, she looked the other girl in the eyes and measured her wary stance. “I will need an apology,” she stated baldly, causing the other girl’s shoulders to stiffen. “However, Hanyi, you need to stop-”
+
+“No!” Hanyi interrupted stubbornly, stamping her foot. “I’m gonna beat her! She’s a cheater, and she made fun of Momma’s song.”
+
+“I said you’re bad at it, you little snot,” Yu Nuan shot back. “If you’re just copying someone else, of course you’d be bad.”
+
+Hanyi puffed her cheeks out angrily, and Ling Qi restrained a grimace.
+
+<You can just make her stop,> Sixiang pointed out.
+
+<I could,> Ling Qi thought. <But it’s my fault for not paying attention to what Hanyi was doing in the first place. I’m supposed to be her ‘guardian.’> It was a weird and unwelcome thought, but not one Ling Qi could avoid having.
+
+“Yu Nuan, I will repeat: I will need an apology, but I am willing to compensate you for lost time and trouble.” She held up a hand to quiet Hanyi and to her, she said, “If you want to challenge someone, ask me first, and I’ll help you arrange it.”
+
+“Then I wanna challenge her now. She’s a cheater!” Hanyi said, pointing at Yu Nuan.
+
+“And why should I accept?” the other disciple replied, crossing her arms. “I’ve already lost enough time on this.”
+
+Ling Qi thought and then offered, “If you win, I’ll add on helping you wrangle a spirit since you’re having some trouble on that front.”
+
+The other girl stared her down, only briefly looking at Hanyi, which seemed to infuriate the young spirit even more. “I’m guessing this deal is only good if it comes with that apology, huh?” she asked.
+
+“Yes,” Ling Qi replied bluntly.
+
+“Fine,” Yu Nuan said. “You got a deal. What’s the time frame?”
+
+Ling Qi sighed. The annoying political bits had been smoothed over, but as she watched Hanyi out of the corner of her eye, she knew that there were other things she had been neglecting. She would have her chance since she would certainly be helping Hanyi with her composition.
+
+***
+
+“Do you understand why I’m angry?” Ling Qi asked.
+
+“No, I don’t see what the big deal is,” Hanyi complained.
+
+Ling Qi rubbed her forehead in frustration. She sat on her bed, looking down at Hanyi, who knelt on the floor, looking recalcitrant. This wasn’t a conversation that Ling Qi wanted to be overheard. “Hanyi, you can’t just go around bothering people whenever you want. You could get me in a lot of trouble, you know?”
+
+“That’s why I challenged someone you already beat,” Hanyi argued. “She doesn’t have any strong friends either. Big Sis is way too nice. You didn’t have to give her anything.”
+
+Ling Qi grimaced. Even with the windfall she had gained from the sale of the mirror she had found in the Weilu tomb, giving up a green stone to Yu Nuan had been almost physically painful. It had, however, finally seemed to convince the other girl that this wasn’t some elaborate bullying plot. With her cooperation, Ling Qi could just pass the whole thing off as some friendly competition when the story hit the rumor mills.
+
+“That’s not a good reason, Hanyi. When someone tells you they don’t want to play, you have to stop,” Ling Qi explained sternly. For a moment, she struggled to articulate her thoughts into words, to put this in a way that Hanyi would understand. A whisper of inspiration from Sixiang helped her organize her thoughts.
+
+“That is not the sort of image Lady Cai wants us to project, and I also do not want to be that kind of person,” Ling Qi chided. “It’s not just a matter of strength. Reputation is important too. I trusted you to handle yourself well. That’s why I let you go where you wanted to go. Now I don’t know if I can do that.”
+
+“I still don’t get it,” she sulked. “I was just playing. You didn’t have any problem bullying those dumb stream spirits so your real little sister could play.”
+
+“That’s -” Ling Qi began to retort, only to shut her mouth with a click before she could finish the sentence. It was different. Those were just simple first realm spirits, no more intelligent than an animal, and Biyu was helpless. It wasn’t the same, but would Hanyi see it that way? The young spirit had a very stark and simple worldview.
+
+“Dealing with pe-humans is different,” Ling Qi finally said. “I know you might not understand well, but the ways we deal with each other are more complicated. It’s easy to mess up. It wasn’t a big deal this time, but in the future, you could really end up hurting me. Please just ask me before you do something to a human, okay? I promise I’ll listen and try to explain what you should do. And if someone really hurts you or bullies you, I’ll do everything I can to crush them.”
+
+Spirits above, she wished that she could pass the responsibility to Meizhen or Cai Renxiang, or even Xiulan. Someone who actually knew what they were doing.
+
+“Fine,” Hanyi said after a moment. “M’sorry I got you in trouble,” she added in a mumble.
+
+Somehow, seeing Hanyi finally looking crestfallen and apologetic wasn’t satisfying. Ling Qi slid off of her bed to kneel in front of Hanyi, her gown pooling around her knees as she tentatively rested her hands on Hanyi’s shoulders. “Why Yu Nuan?” she asked softly. “I still don’t really understand. Why have you been doing this?”
+
+Hanyi mumbled something unintelligible, staring at the floor. Ling Qi gently squeezed her shoulders, and the young spirit spoke up. “I want to be strong. If it was someone you beat, I… I thought I could win. Even if I wasn’t as good as you, I would still be keeping up. But I couldn’t. I lost, and I shamed Momma’s songs. I told Momma I would be strong and pretty and smart like her, and I’m just NOT!” Her voice rose until she was practically shouting by the end.
+
+“Hanyi-” Ling Qi began, but she was swiftly interrupted.
+
+“I’m slow, and I’m heavy, and I’m still weak! That girl was right. I can’t sing right, and I can’t move right, and… I’m nothing like Momma, and I should have just stayed with her so she could still…”
+
+Ling Qi pulled Hanyi into a hug, cutting off her increasingly hysterical words. “Hanyi, Zeqing wanted you to live. Everything else comes second to that,” Ling Qi said with complete conviction as the little girl in her arms trembled.
+
+“It’s not enough,” Hanyi cried, her voice muffled by Ling Qi’s gown. “Momma’s gone. I have to- I need to be like her or…”
+
+“Or nothing,” Ling Qi finished firmly. “You are Hanyi. You aren’t your mother. But one of the reasons she did what she did was so that you could go out and be yourself, and not just Zeqing’s daughter. You don’t have to be just like her to make her proud.”
+
+She loosened her grip on Hanyi, allowing some distance to come between them again. Hanyi’s eyes were reddened by tears. “I can’t compare to Momma though,” she said. “If I’m not trying to be like her, then who should I be like?”
+
+“I’m not saying you can’t be like Zeqing, but you need to focus on your strengths, and build yourself up,” Ling Qi replied gently. “You’re an energetic and forthright girl. Maybe you should accept that and -”
+
+“I dunno,” Sixiang said brightly, timing their interruption perfectly. “Do you really think she can turn being a stubborn brat into something productive?”
+
+Hanyi scowled at the empty air. “Who asked you! If Big Sister thinks I can, then I can. Don’t interrupt Ling Qi!”
+
+Ling Qi sent Sixiang a silent thanks as she stood and offered a hand to Hanyi. “Anyway, since the serious talk is done, there’s no reason to hang around in this dull little cave. Will you take a walk with me, Hanyi? We can talk about ideas for your composition.”
+
+Hanyi took her hand and rose to her feet. The young spirit’s smile was still a little brittle. “Yes! With Big Sister’s help, I’ll definitely make something good.”
+
+Ling Qi was careful not to let her relief show on her face. That had been a terribly difficult conversation. She led Hanyi toward the door. Some nice music chat would be a nice break.
+
+“Big Sister?” Hanyi drew her attention as they approached the door. For once, her tone and posture were almost shy. “Um… You said I should focus on my strength, but what do you think that is?”
+
+Ling Qi thought about it. “I think it’s your curiosity and desire to explore,” she said gently. “I remember the first time we met, it was because you snuck out.”
+
+Ultimately, she thought that kind of impulse in Hanyi was probably a sign that the break from Zeqing was inevitable, even if she had accelerated it.
+
+“Exploring, huh?” Hanyi asked, twisting a strand of hair between her fingers. “Yeah… Yeah! I can definitely make a song about that!”
+
+“That’s the spirit,” Ling Qi chuckled, ruffling her hair. “Let’s start working on some compositions then.”

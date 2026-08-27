@@ -1,0 +1,195 @@
+---
+id: 75a688c4-5b9b-5fc6-88bc-228ca3e8eab7
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Sixteen: The Way Forward"
+slug: 0119-chapter-one-hundred-sixteen-the-way-forward
+partOf: flesh-eater-demon-evolution-litrpg
+position: 119
+ownLength: 3006
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3807139/chapter-one-hundred-sixteen-the-way-forward"
+royalRoadId: "3807139"
+---
+
+Pyre carefully shut the washroom door behind her. It had taken some time, but she’d managed to thin out her excess flesh enough to thread it through the crack below the door, resulting in a sizable mass of flesh inside the room complete with an extra eye and mouth.
+
+Through that eye, she could see Llyr still submerged below the water. The faint blue glow had strengthened some, and if she manipulated her extra flesh appendage to peer down at the tub, she could actually see his legs regrowing.
+
+The siren himself, however, still seemed to be knocked out. Frankly she was pretty sure they could’ve spoken right in the same room and he still wouldn’t have woken up, but Callan and Daphne had both insisted.
+
+Speaking of which, the two mages were standing across from the demon in the hallway (or floating, in Callan’s case), both visibly tense and eyeing the closed washroom door repeatedly. Pyre adjusted her extended flesh a final time, then nodded at the two with a raised eyebrow.
+
+“So? I know you two were listening in. You heard of any of that stuff before?”
+
+They exchanged uneasy looks. Between them, Callan looked mostly anxious while Daphne’s expression was a fair bit more stony and, therefore, harder to read.
+
+Slowly, Callan opened his mouth to respond.
+
+“Nothing about the group he was talking about specifically,” he began, “but the stuff about lost ichor in the area would match with that ichorquake we saw on the way here.” His brows furrowed. “It’s definitely not impossible that a group like that could exist.”
+
+Pyre hummed. “What about that country he was talking about? Ithren, I think.”
+
+“It’s real,” the ghost confirmed. He swallowed. “I’ve never heard about any experiments like that going on before they were absorbed into the alliance, but it… honestly wouldn’t surprise me.”
+
+“Yeah? Why not?”
+
+“Their old regime was famously corrupt.” Daphne’s voice was hard. She crossed her arms in front of her chest, gaze intense like she was contemplating something. “They were the last country with… fully legal slavery, and the living conditions for the common people were notoriously terrible.”
+
+Pyre caught the brief pause before “fully,” and her mind wandered to Merrick and his old job as a leveling aide. She wondered if Daphne had been thinking of something similar.
+
+“There were multiple rebellion attempts over the years, but they were all put down,” Daphne continued. “The regime change happened when the youngest prince and princess went to the Solis Alliance for help. With their backing, they finally had enough power to overthrow the old king and aristocracy. After that they started reforms, and the country is basically unrecognizable now. But the regime change itself was very bloody.”
+
+The demon’s eyes wandered over to the closed washroom door, as did Callan and Daphne’s. Bloody enough that Llyr had died during it in his first life, apparently. Her eyes narrowed, thinking.
+
+“So, blood experiments wouldn’t have been impossible.”
+
+Daphne shook her head, jaw tight. “It wouldn’t surprise me, no.” She shifted her weight. “I can’t tell what the group’s goal is, though. There’s a lot of rituals that need blood. And you said they might have one of your soul shards?”
+
+“The tattooed guy recognized my description of it, so probably, yeah.”
+
+“If they’re working with Serindell’s nobility, it’ll be harder to locate them,” Callan muttered. “We already saw someone covering their tracks before.” His eyes moved to the closed door, where inside, Llyr was still sleeping. He hesitated.
+
+“Are we… I mean, what are we going to do with…” His voice trailed, but it was abundantly obvious what—or who, to be exact—he was talking about.
+
+Pyre warped her extended flesh to sweep the room again with her eye. The glow from the water was bright enough that it could be faintly seen below the door now. Llyr himself, however, still seemed fully unconscious. Even his overall temperature had gone down significantly since he’d first closed his eyes, to the point that it blended into the temperature gradient of the surrounding water.
+
+Personally the demon had no real qualms about working with the guy for the purposes of hunting down the group’s location. He knew the most about the situation, was a very useful healer, and could clearly hold his own in a fight. She wasn’t particularly worried about any attempted back-stabbing, either, now that they knew what his weakness was. She’d already proven she could beat him in a fight, and with all her perception abilities, it would be fairly easy to always keep an eye—literally—on him.
+
+The demon’s gaze moved over to Daphne. The noble’s lips were thin, and her shoulders were visibly tense. It wasn’t quite the same as the tension from when they’d first confronted Llyr in the fire ring, though. That had been a lot more angry. This seemed mostly wary and something else.
+
+Pyre hummed contemplatively. Callan was clearly nervous around the healer, but seemed generally more willing to hear him out. If anyone was going to have an objection here, it was the noble.
+
+Daphne herself seemed acutely aware of the two pairs of eyes on her, because after another tense moment of pause, she released a long breath.
+
+“Working with him will probably let us find that group faster,” she muttered. She frowned. “We need to set some ground rules, though. And I have some questions for him after he wakes up.”
+
+Callan’s brows furrowed, and his eyes darted between the closed door, Daphne, and finally Pyre. “Did he…? I mean, I didn’t hear him say anything about the portal spell, but I wasn’t sure if maybe he brought it up and we didn’t hear.”
+
+Daphne stiffened at the mention of the spell, one hand moving unconsciously to rub at her chest. Through the eye in the room, it looked like Llyr’s legs had regenerated down to his ankles, so he’d probably wake up soon. Now that he was surrounded by water, his healing speed had increased exponentially. Pyre had to wonder why he even bothered leaving the ocean at all, when by all accounts it looked like he’d be practically invincible there.
+
+Perhaps it was sentimentality. He’d have more memories of being a human than a monster. Or maybe it was practicality or some other reason. It was hard to say.
+
+“He didn’t bring it up,” Pyre said simply. Neither of the mages looked too surprised at the answer. This, the demon suspected, would be one of the main things Daphne intended to question him about.
+
+In the room, the glow of the waters began to die down slightly. Pyre swiveled her extra appendage and saw that the healer’s legs had fully regrown. He wasn’t awake yet, but he probably would be soon, especially since his body temperature was rapidly rising back to what it was before.
+
+“Looks like the doc’s waking up,” Pyre said. She retracted the extra limb, reabsorbed the eye, and swung open the washroom door.
+
+Without hesitation, the demon strode inside, Daphne and Callan following much more cautiously behind her.
+
+By the time the trio stepped all the way inside the room, Llyr had opened his eyes and pushed himself up so that his head and chest were above the water. He hadn’t actually bothered getting out of the tub, Pyre noted, so it was possible that even though his legs had regrown, they weren’t fully ready to walk on yet. Or maybe he just felt more comfortable in the water, being part-fish and all.
+
+The healer watched them coolly with steady blue eyes, all traces of the earlier freneticness gone. He managed to look impressively calm and controlled despite being completely drenched.
+
+“I assume you were discussing what to do with me,” he said dryly. Daphne narrowed her eyes and took a step forward.
+
+“Yeah, we were.” Her voice was blunt. The noble cocked her head, red hair gleaming in the light streaming in through the washroom’s window. Her expression was perfectly stoic and hard, giving nothing away.
+
+“For now, we’re going to believe your story. Like Pyre said, we have our own reasons for wanting to find and stop this group, and it sounds like you do too.” For the first time since entering the room, Daphne wavered slightly, but she quickly regained her composure. “That being said, we have some ground rules first.”
+
+Llyr arched an eyebrow. “Such as?”
+
+Daphne raised her index finger. “No lies. If you don’t want to tell us something about your past, fine, but we can’t work together if we’re not being honest with each other. We won’t lie to you, either.” She raised a second finger.
+
+“Two, no charm effects.” The noble emphasized the last words, eyes narrowed and gaze sharp enough to cut metal. “If you try to charm any of us again, I will set you on fire on the spot.”
+
+“They don’t work on Pyre anyway,” Callan added, glancing back at the demon in question. He shifted uncomfortably, clearly still bothered by the reminder of the charm situation. “So if you do try something, she’ll be able to tell.”
+
+Pyre gave a nod from where she stood leaning against the wall watching the proceedings silently. This was the sort of thing Daphne and Callan were better at. She was mostly here to keep an eye on things, ready to shoot out a bone spear if necessary.
+
+Llyr was quiet for a moment, and Pyre wondered if he was going to try to argue. However, after a few moments of silence, the healer slowly nodded.
+
+“Alright,” he murmured. “That sounds reasonable enough. I, however, have my own conditions.”
+
+Daphne bristled slightly. “What are they?”
+
+Llyr hummed, cocking his head in a motion that looked distinctly unhuman. Now that Pyre thought about it, she was pretty sure he hadn’t blinked once since waking up. She wasn’t one to talk considering her own tendency to forget to, but the siren had been pretty good about faking it up until now. It seemed the mask was well and truly off.
+
+“Assuming you pursue this group, I want to be included in your plans,” Llyr began. “If you learn something about them, you must tell me. And I expect you to be honest as well, of course.”
+
+Daphne nodded slowly. “Okay, we can do that,” she said, albeit somewhat reluctantly. If the mage had her way, she’d probably prefer they leave Llyr out of the inevitable cult-hideout rushdown. “What else?”
+
+The siren’s gaze shifted to Pyre, sharp and assessing. He smiled thinly.
+
+“For the sake of security, neither of us will attack each other until after this group is found and dealt with.”
+
+Pyre raised an eyebrow. “Make that until after you’re done healing Daphne, and you’ve got a deal.”
+
+Callan sucked in a breath at that. The ghost’s gaze darted nervously around the room. Daphne’s eyes narrowed, her own attention fixed on the healer.
+
+“About that, I’ve got a question for you.”
+
+Llyr turned to face the noble, expression perfectly neutral. “Yes?”
+
+“Is the spell real?” Her voice was sharp. “If I hadn’t found those bodies and went through with the ritual, would it have actually worked?”
+
+The healer gave her a long look at that. “The magic involved is completely genuine, yes,” he replied. “The portals would function exactly as promised.”
+
+“But would you have cast it correctly?” Daphne gritted out.
+
+Llyr’s jaw shut. A silence fell over the room, the siren simply studying them for a long while, quiet. Finally, he opened his mouth again and spoke in an even tone, expression still giving away nothing.
+
+“The middle of the spell is the most precarious time,” he began slowly. “The soul is suspended in a very fragile state until the rest of the spell is complete.”
+
+Daphne’s shoulders tensed, and based on the way Callan’s eyes were widening in horror, both mages seemed to already anticipate what the healer was going to say next.
+
+“When I let you stay here, I was always planning on questioning you and your connection to this group,” Llyr continued. His gaze remained steady. “That would’ve been the perfect time to do it.”
+
+For a moment, no one spoke.
+
+Daphne inhaled sharply, fingers squeezing into a fist so tightly that her knuckles turned white. “I see,” she got out. Without another word, the mage spun around and exited the room, shutting the door behind her.
+
+Callan glanced nervously between the closed door and Llyr. After a brief moment of hesitation, the ghost turned and floated through the door after Daphne.
+
+It didn’t take Callan long to find the other mage. After he phased through the door, he immediately spotted her leaning against the opposite wall a little ways further down the hallway. Her head was tilted back, fiery red hair falling down her back and shoulders in messy waves as she stared up at the cracked ceiling.
+
+Tentatively, Callan drifted closer, unsure of what to say. The noble’s face was surprisingly blank, but he wasn’t sure if that was a good thing.
+
+The ghost came to a stop a little ways away, hovering beside Daphne against the hallway wall. She didn’t react or glance in his direction, still staring up at the ceiling like it was the most interesting thing in the world.
+
+“Are you… okay?” Callan said slowly. It sounded like a stupid question even to his own ears, and he immediately regretted it, but he didn’t know what else to say.
+
+Daphne laughed darkly. “Great. Just found out I’ve basically been a hostage this whole time without realizing it, and I’m also apparently the stupidest person this side of the Spine.”
+
+Callan winced. “That’s not fair,” he muttered. “He was using charm magic. Siren charm magic. I didn’t think there was anything wrong, either.”
+
+He was still processing the full implications of it. It would’ve been one thing to simply discover the bodies and that Llyr was a reincarnator, but the charm issue put everything else into doubt. It was impossible to look at his past interactions with the healer without questioning how much of it had been real and how much had been influenced.
+
+He’d remembered thinking, briefly, that it was unusual for him to get over his suspicion of someone so quickly. But there had been lots of good reasons for it that had made him brush past the thought. Llyr had been nothing but kind to them, and everything they’d heard about him from the residents of Serindell also served as proof of his character. The healer took him seriously in a way he wasn’t used to, listening to his rambles about magic and freely trusting him to use his collection of spell components.
+
+Maybe it was pathetic of him, but it had been nice to have a powerful, more experienced, older magic-user act like his opinion mattered. There’d even been a moment when he’d wondered, while discussing portal options with Llyr, where he would be now if his old magic instructor had been someone like the healer. He couldn’t help looking up to him.
+
+Now, Callan was left wondering if he’d ever really known the siren at all. The feeling was probably even worse for Daphne, after what he’d just revealed.
+
+The ghost shuddered. While this entire situation was far from ideal—the extensive destruction throughout the manor and both Pyre and Llyr’s wounds were proof of that—the idea of being halfway through the planned spell only for Llyr to pause it to question them, Daphne’s soul literally on the line… It sent a chill up his spine to even think about.
+
+“Maybe,” Daphne muttered, “but I didn’t realize what my uncle was doing, either. I knew he was up to something, but I still couldn’t put the pieces together until it was staring me straight in the face.”
+
+She lowered her head, gaze shifting to stare down at the floor. “It just feels like I’m always being lied to, and I’m too stupid to figure it out.” She laughed darkly. “Hell, even Pyre was lying about being a demon at first.”
+
+“That’s still not your fault,” Callan insisted. “I don’t think someone else in your situation would’ve done any better. I mean, I definitely wouldn’t have.”
+
+Slowly, Daphne raised her head and turned to the ghost. She was quiet for a moment, simply studying him in a way he couldn’t read. He shifted nervously.
+
+Finally, a small smile spread across the noble’s lips. “Maybe,” she said. She pushed herself away from the wall, straightening and patting the dust off her clothes. Her gaze moved back over to the closed washroom door.
+
+Callan glanced at it as well. He hadn’t heard anything from inside the room, so Pyre and Llyr were probably still inside, but he couldn’t help but be a little nervous at the prospect of facing the latter again. A part of him was holding onto the hope that not everything about the healer had been false, but he still wasn’t sure how to approach the man—the siren—who was now effectively a stranger.
+
+“Guess it’s time to head back,” Daphne muttered.
+
+“Are you sure you’re okay?”
+
+The noble smiled wryly. “Not really, and I don’t think I’m ever going to like Llyr, but it’s more important that we stop that group and find Pyre’s soul piece.”
+
+She took a deep breath and squared her shoulders. “I can put aside my personal dislike to work with him until we’ve achieved those goals. And if he tries anything”—she snapped her fingers, eyes gleaming—“then I’ll deal with him then.”
+
+Callan studied the mage, the confident stubbornness returned to her features, bold and determined as ever in a way he’d come to admire. He felt himself smile unconsciously in return.
+
+He floated forward, ready to enter the room again, when Daphne stopped at the last second. She glanced back at him.
+
+“And Callan?”
+
+The ghost paused. “Yes?”
+
+Daphne smiled. “Thank you,” she said. With that, the noble turned and swung open the door, leaving Callan blinking behind her.

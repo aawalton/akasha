@@ -1,0 +1,129 @@
+---
+id: 248a6776-df09-5518-8d2a-a5f78726bac0
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 420-Taming Winter 9"
+slug: 0464-threads-chapter-420-taming-winter-9
+partOf: forge-of-destiny
+position: 464
+ownLength: 1613
+unit: words
+publishedAt: 2024-12-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1965049/threads-chapter-420-taming-winter-9"
+royalRoadId: "1965049"
+---
+
+Each word of Bao Qian’s had been punctuated by a pulse of gold. The rock thrummed under his feet in time with his words, and the gemstones woven through the fabric of his clothes and set in his belt and rings flashed in time as well.
+
+It was easy sometimes to forget that Bao Qian was a stage above her in cultivation, and well into that stage at that. It was only then that his wandering eyes seemed to see them, and he froze.
+
+They were not close, but she still should not have been able to forget him so easily. He'd been wiped from her mind, and she'd not even noticed.
+
+"Oh! Oh! Crap, I totally forgot," Hanyi whispered.
+
+Bao Qian's expression twisted. "I forgot as well. So much for my artifice. My apologies for interrupting your negotiations."
+
+"My defenses were insufficient as well," Ling Qi said.
+
+The copper scent of blood and the surge of his qi shook away the frost from her mind. She looked up at the glowering teary eye of the Weeping Mother, who swayed to and fro, sending the strands of her hair swaying. Oily tears splashed upon the icy stone as the spirit bemoaned.
+
+Rejected, rejected. Always, children reject her gifts, spit defiance, and flee. Run. Run now. The cold will come, and mortal sparks shall flee away.
+
+Sullen. Petulant. That was the only way she could describe the spirit's demeanor.
+
+The Weeping Mother had two simple, painful concepts at her core that formed the basis of her way.
+
+Abandonment.
+
+This spirit was a sheet of glacial ice left behind in eons old retreat, whose waters flowed always away and here, above the clouds, never returned. She had been dying by inches for longer than whole imperial dynasties had ruled. The truth of Ending she held at her core was the inevitability of loss.
+
+It was a weakness, too. This spirit was not like Zeqing. She could not stop them from leaving this place if they turned on their heels and left of their own will because they were her kin, and her story was that they would always leave her.
+
+Her second truth was more insidious. Despair.
+
+This was the wasting that sapped life and drive as surely and as inevitably as any physical cold. It was its own form of Isolation, one which the mind inflicted on itself.
+
+This, too, Ling Qi understood. On the worst days, the mind wandered. Was it worth it to struggle through another season? Was it worth it to scrape by for one more day? No one wanted her. No one would help her. Nothing would change. Any hand that reached out could only be hiding the malice in its grip. Wouldn't it be so much more restful to lie down and let it end?
+
+She understood the isolation of privation. Xuan Shi had let her see a glimpse of what it was to be alone even when you had a seat at the hearthfire. Zeqing had shown her how to be alone even as you strangled the life from the ones you embraced. Now, the Weeping Mother of Lonesome Streams showed her another facet of the truth of Isolation.
+
+One's own self could isolate just as effectively as anything external. If she chose despair, even when escape stood before her, no one's hand could ever reach her.
+
+She could reach for the spirit, imbue her voice, promise visitation or rites, ritually carrying the waters of the streams back to the peak…
+
+If she succeeded, it would kill this spirit as surely as taking a student and releasing her daughter had killed Master Zeqing. Because the core of her was Abandonment. Ling Qi could gather every fairy born of the young winter's snows and bring them back to this place, but she was not sure the spirit would even be able to see them. The Weeping Mother could not reach out her hand to welcome them back, and that, too, was Isolation.
+
+As starvation was privation of the body, isolation was privation of the soul. Thus, the greatest foe is herself. No hand may reach the one who has clenched and withdrawn. The blade Isolation rends all warmth into cold.
+
+No effort could reach one who did not want to be reached.
+
+Ling Qi let out a long breath. Down in her dantian, she felt a churning in her qi, flecks of impurity scraped clean from a surface, the edge of a blade sharpened.
+
+Blades were cruel things. It was their purpose to separate, to sever, to destroy. Such acts could be done in the name of creation, but that did not change their nature in the moment. It was so important to keep them sheathed. They must be oiled, sharpened, and drawn only when no other tool would do.
+
+"Ugh, this is stupid. It's like all of Momma's sisters are miserable," Hanyi muttered.
+
+Ling Qi looked her junior sister’s way and then turned her gaze back to the ice spirit looming in the darkness, meeting her bloodshot eye beneath writhing black tresses. "None shall tread in your domain, save I or one who bears my authority. Your peak shall not be trampled. Your ways shall not be besmirched. Mountain and glacier, this sacred land shall not know human feet."
+
+A hiss like the rattle of wind through a ribcage escaped the spirit’s hidden mouth.
+
+"You will receive respect and an offering no less than once per year, and in return, you will not raise your voice against those under my protection. The clouds will flow ever away from you on the paths they choose," Ling Qi intoned.
+
+The spirit’s head twisted to the side, and she was suddenly very close, her icy breath washing over her. The Weeping Mother's jaw worked beneath her hair, and Ling Qi glimpsed long teeth of rusted iron.
+
+The spirit spoke in a voice as cracked as crumbling stone and as miserable as the whisper of a woman about to loop a hanging cord about her own neck. "Why? Do you. Think. You can dictate. Child."
+
+"Because we have all rejected you. You cannot take what we do not surrender. Despair has failed you," Ling Qi answered. "Right, Hanyi, Bao Qian?"
+
+"I'm sad, but I'm mostly just disappointed. If I didn't let Mama eat me, why would I let you?" Hanyi asked scornfully.
+
+"I don't much care for exploitative contracts like hers. If you need it, I will provide my services in setting the binding wards over this mountain at cost," Bao Qian said gruffly.
+
+Ling Qi smiled thinly. "It's a fair deal. If you give nothing… you will receive nothing. Your daughters will reap rewards and grow, but you will merely be forgotten."
+
+The Weeping Mother's tears splattered upon the stone, and her power howled around them, but between the authority she had been granted, Bao Qian and Hanyi's resolve, and the now reversed resonation of their truths, it could not reach them anymore.
+
+"Grief. Regret. Cold Embers. Whispered into the wind. Tears. That which cannot be replaced."
+
+"You may share in them, not take them whole. Along with tokens and idols made and imbued in image of loss," Ling Qi rejoined, relaxed now that the spirit was cooperating. So to speak.
+
+Iron teeth ground together. "Done."
+
+"Hmph, I'll come once a year and sing to you, too. Nobody should be alone all the time, even if they're a jerk."
+
+"Hanyi… That may not be…"
+
+"It might break her? Yeah, maybe. I'm gonna do it anyway, unless Big Sis absolutely says I can't."
+
+"No Absolution. Unfilial Daughter."
+
+"Good, cause I don't need that," Hanyi retorted.
+
+Ling Qi frowned in consternation. The spirit was willing to accept ritual distance because she could see an echo of her own tale in her, but if Hanyi was going to stir her up, that fragile connection might fracture.
+
+"I will not stop you, Hanyi," Ling Qi relented. She directed her next words toward the spirit. "Hanyi will be the intermediary, the bringer of your offerings at this time of the year, when the snows scatter but winter has not yet come."
+
+The bloodshot eye behind the hair narrowed, and the frigid air crackled. What little moisture remained spontaneously froze into chips of ice.
+
+"If I break my end of the deal, you'll retaliate all you want, right? If you’re right, you might even eat me up like you wanna. I know. I’ll be here."
+
+Ling Qi grimaced, and so did Bao Qian. She gave her little sister a dirty look. Did she have to say such words? It was like she wanted Ling Qi to gather her up and ground her to the manor for her own safety.
+
+The Weeping Mother's looming shape shattered into a flurry of ice, scouring the cavern.
+
+Done. Done. Done. Hands hold nothing. Tears flow and flow ever away.
+
+The Lonely Wind yet scours away what does not belong.
+
+Ling Qi pressed her lips together. For now, this deal would have to be good enough. "Let us not linger on this doorstep much longer."
+
+"Yeah, I wanna go," Hanyi said. "You still have more good stuff to cook, huh, Mister Manager?"
+
+"I'm afraid you ladies will be on your own for that tonight." Bao Qian shook out his frostbitten hand.
+
+It was nothing a third realm cultivator couldn't heal in over a night's meditation or sleep, but…
+
+"We should save the banter for the climb down," Ling Qi said.
+
+Bao Qan shot a look at the bubbling black spring in the cavern center. "Quite right."
+
+They didn't let each other go until they were well out of the Weeping Mother's cavern.

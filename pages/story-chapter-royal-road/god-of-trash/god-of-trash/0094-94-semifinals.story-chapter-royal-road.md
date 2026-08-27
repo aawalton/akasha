@@ -1,0 +1,127 @@
+---
+id: 9965faff-7ef1-57e7-8209-c2a4cfe0fabb
+page-type-slug: story-chapter-royal-road
+title: "94. Semifinals"
+slug: 0094-94-semifinals
+partOf: god-of-trash
+position: 94
+ownLength: 3095
+unit: words
+publishedAt: 2025-06-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2325492/94-semifinals"
+royalRoadId: "2325492"
+---
+
+Rhys found his name easily. There were only two fields left; each of the semifinals took place with all the stadium’s attention, with no other Tier fights going on at the same time. Earlier this morning, the Tier 1 semifinals had occurred; now it was the Tier 2, and after them would be Tier 3. The stone platform before him was pristine, which came as a bit of a shock, because Rhys’s battles had shattered several platforms, let alone the other battlers who had even less care for collateral damage than Rhys did. Looking closer, the platform was made up of squares, and each square was a block of stone, so it wasn’t that they had complete platforms, but instead, these final two were cobbled together from the surviving pieces from the previous platforms.
+
+“Sure hope the Academy owns a quarry,” Rhys muttered to himself.
+
+“The Empire owns many,” his opponent announced proudly. Laurent stepped forward, his white hair snapping on the breeze. He wore it in a ponytail, like Rhys wore his hair, but where Rhys’s hair was a frazzled mess barely pinched in place by a ribbon only to immediately spring back to the width of his head, Laurent’s was like a ribbon, narrow and silky, flowing as one solid piece when the wind played with it.
+
+Bit of a waste on such a boring design, Rhys thought, eying Laurent’s strict obedience to the Empire’s white military uniform.
+
+Abruptly, Laurent frowned. He looked Rhys up and down. “Something about you… your aura, perhaps… is familiar. Have we met?”
+
+Rhys stiffened. Haha, nope! You and me? Never! Definitely didn’t go on a date with you as my crossdressing persona Rina! He coughed and quickly changed the subject. “Your hair. I’ve noticed many of the Empire’s soldiers wear white hair, but for the most part, the students’ hair is naturally colored, the ordinary hodgepodge of brown, blond, black and red. Why is that?”
+
+Laurent puffed out his chest, proud to discuss his home country. “So you’ve noticed! Yes, you’re right. When we graduate from the military academy as fully-fledged soldiers of the Empire, we are granted the honor of our white hair, to match our beautiful country’s purity! As the student president and my fellow students’ commanding officer, who also happens to have a few commendable moments of service himself,” Laurent turned a little, to emphasize the badges and ribbons on his chest. They were few and constrained, but doubtlessly hard-earned. Rhys had often found that the less shiny the medals were, the more the soldier had worked to earn them. “I was granted the honor of being granted the permission to bear white hair early.”
+
+“Is that a magical technique, then? It’d be a pain in the ass to keep bleaching everyone’s hair,” Rhys commented.
+
+Laurent nodded. “Permanent and irreversible magic! Until your hair is white, you are still permitted to back out of the military, return your core, and resume your life as a mortal. White hair is a signal of our dedication to the Empire! As someone deeply committed to the Empire, I didn’t hesitate to take up the guise when asked, and now I bear the glorious white hair you see before you today.”
+
+Rhys nodded slowly, once more reminded of the terror of the Empire. His only option was to become a soldier, or else return to mortal life? Die in the fleeting blink of an eye, with no ability to influence anyone or anything until his short life ran out? To say the Empress brooked no dissent was to state it lightly. Truly, how terrifying.
+
+Maybe Az is right. Maybe I should secure an exit route. But at the same time, Rhys knew it was hopeless. He would make a dive to get onto Bast’s ship, whatever that was, then attempt escape on foot. Better to be tracked down one-on-one and chance it against the Empire’s dragnet, than attract attention to himself flying away on a ship.
+
+But probably I’ll be captured. He sighed. His future didn’t look bright, and yet, he hadn’t given up yet. Even if he ended up under the Empire’s control, he wasn’t afraid. His path wasn’t something so fragile that it would fade when the regime changed overhead. The Empire might be efficient and ruthless, but it would still generate trash. And where there was trash, there was a route ahead for Rhys.
+
+Death? No. He didn’t fear death. Not from regime change, anyways. Death came to loyalists and brave soldiers, of which Rhys was neither. He was trash, the scum that floated on the water. When a great wave tore through a city, the scum floated right on with it. If he had to bow to the Empress and attend her military academy, so be it. Better to survive and figure out how to escape or break free later, rather than struggle and die meaninglessly, like an ant in an ant war, nothing but a black speck on the sidewalk roasting in the sun.
+
+“Do you have a path, Laurent?”
+
+“My path is my Empress’s!” Laurent pledged, saluting as if on instinct.
+
+Rhys snorted. That was easy enough to say. He wasn’t afraid to bark such a response when asked. His filthy lips could say anything, but it wouldn’t make it true. “What makes you tick? What gives you power?”
+
+Laurent paused at that. “I study the blade.”
+
+“But what makes you happy?”
+
+Laurent narrowed his eyes. He stepped onto the platform. “It is time to battle, Rhys Foundling.”
+
+Rhys bowed and stepped forth. He faced Laurent, taking stock of the man as a fighter for the first time. His aura was powerful; between Rhys and Laurent, anyone would choose Laurent as the winner by the power of his aura alone. He studied the blade; that made him a swordsman, but from the strength of his aura, he could use magic as well. Rhys had watched his battles thus far, but much like Bast’s, they were over in a flash. Laurent was too powerful for anyone on this field, maybe excepting Bast, to put up a real fight. What little interesting information Rhys had been able to glean, was that Laurent preferred a direct attack from the front, one brutal slash that severed his opponent’s defenses and forced them off the platform in one. It wasn’t exactly a novel idea. A lot of the swordsmen’s easier battles looked much the same. The difference was the elegance and skill with which Laurent unleashed his blow.
+
+Bast, on the other hand, tended to march directly up to his opponent and kick them off the platform with a foot to the chest. It wasn’t very fitting for the Sword Saint’s apprentice, but the Sword Saint didn’t seem to mind, and when the battle got serious, Bast wasn’t afraid to use his sword, either… though so far, he’d only bothered in two, and one of them he’d seemed more exasperated than pushed to draw his sword, while the other had ended so quickly after Bast drew his sword that the sword was naught but a silver flash on the air, then sheathed once more. Between Bast and Laurent, Bast clearly surpassed Laurent’s skill several times over, but, well, that was a foregone conclusion, as far as Rhys was concerned. Bast was the real deal, the diamond he’d found in his original trash. Sure, there were some parts of Bast that were trashy; he wouldn’t be Rhys’s friend if that wasn’t true. But his skills were unmatched, unrivaled, unobstructed, every possible un- in the world.
+
+To be quite honest, Rhys desperately wanted to watch Laurent and Bast’s match, but at the same time, he was too trashy to throw the battle here to give his friend a good match. He was a rat, a filthy rrrat, and he was going to cling on to the last, until his teeth gave out and his claws slipped free.
+
+He drew his broken sword. Laurent frowned at it, but said nothing. Either he’d been watching Rhys’s battles, and knew the sword wouldn’t hold him back, or simply respected any tactics executed by someone at this late stage of the tournament, but he merely drew his sword in response. For a brief moment, they faced one another, blades between them.
+
+Laurent’s foot shifted. That was all the warning Rhys got, but it was enough. He released his sword with one hand, summoning forth a scrap of timber in the other. A massive roof-support beam materialized upright between him and Laurent, and Laurent’s sword struck it—and sliced right through.
+
+Damn. He’d been hoping Laurent’s sword would get stuck in the thick wood, but that was a vain hope in the end. Laurent was nearly equal to Bast’s strength, and Bast could slice up empowered brick walls. He should have known his timber stood no chance.
+
+Still, it had absorbed Laurent’s momentum. For the first time, the boy now stood exposed in the center of the stone square, his sword out, but his opponent still in play.
+
+To his credit, Laurent didn’t hesitate. He immediately backed away, putting distance between them, a move that showed he’d battled those stronger than him before, and knew to be wary of an opponent who could block his opening strike. The fact that he didn’t completely understand Rhys’s techniques probably pushed him backward rather than forward as well. He knew Rhys could summon objects, but that was it. He had no idea the limitations or boundaries of Rhys’s skills. That was only natural; not many people pursued the Trash Path. But it gave Rhys an opening, and so, Rhys immediately jumped forward to exploit it.
+
+Laurent’s eyes flashed. His feet shifted, and his sword blasted out with explosive strength. The retreat was a feint. Rhys found a blade hurtling toward his heart, while his own feet carried him forward, locked in by the laws of momentum.
+
+There wasn’t any time to pull back, and his speed was too great to completely abate in an instant. Instead, Rhys turned to the side. The blade glanced across his chest, carving a great arc in his robes and in the flesh beneath, but at least it didn’t take his heart.
+
+To Rhys’s disappointment, he’d dodged too well, and wasn’t injured enough for Trash Body to activate. Still, he’d dodged Laurent’s second attack, and he was now in close combat with the boy. He reached his hand out as he stepped past Laurent, a piece of metal hidden in his palm.
+
+Laurent jerked back, but it was too late. Rhys activated Trash Intent, and a cauldron fell onto his shoulders. The manifestation, like all Rhys’s manifestations, was transparent, so he could see through it, but it was bright enough to temporarily blind—or at least disorient—anyone caught within it. The durability and weight of the manifestation was real, if nothing else, and so forty pounds of iron slammed onto Laurent’s shoulders. Not expecting such an unorthodox attack, Laurent fell back once more, a habit Rhys catalogued quietly; when faced with surprise, Laurent retreated to make space and get a better understanding of his opponent.
+
+It was a gesture a talented fighter would make. The hubris laid in falling back, assuming he could make room to study his opponent, assuming his opponent would let him study them, assuming that he could comprehend his opponent in those few moments of study.
+
+Rhys, on the other hand, was not a talented fighter. He’d gained his skills through hard work and endless effort, through attacking even when he should, by all rights, retreat, by overcoming talent through ferocity and the willingness to take a hit, throw his body away, just to land one small ippon on his opponent. His style of fighting assumed that he had no skill, that if he gave his opponent the room to breathe, they would find a way to overcome him by talent, and so he had to relentlessly press the advantage in the rare moments he had it, even if it meant taking a greater loss himself in the next moment.
+
+Of course, Rhys’s other advantage was that he was painfully aware of his own skill level. Against opponents he could counter, or who fought with magic, he wasn’t afraid to fall back and take stock of the battle. But against martial opponents? Every single battle he’d experienced, he’d experienced on the losing end. Straw, Bast, Ev, Cynog, every single encounter Rhys had had in melee scrums that seriously threatened his life, was against someone vastly more skilled, talented, and powerful than him. As a result, he’d developed this inferiority complex, as some might call it; his surety that he could not win without sacrificing his own body. If Laurent assumed that he could win, if only he took a step back and studied the field, then Rhys was equally-but-oppositely convinced that taking a step back would allow his opponent the advantage that would end the battle. It was as close-minded a mindset as Laurent’s hubris, merely in the opposite direction.
+
+And yet, the end product was a ferocious pressing of the rare advantage he could seize that became an advantage in its own right.
+
+Laurent shoved the cauldron off his head, toward Rhys, meaning to use it to block Rhys’s sword, already flying toward his head. Rhys deactivated the manifestation as it fell toward him, and slashed through the empty air where it had been. He landed a blow on Laurent’s side, staining his brilliant white uniform red. Laurent instantly struck back, only for Rhys to re-manifest the cauldron and kick it upward. Laurent’s sword struck the cauldron and carved through it; as if he’d been expecting it, his blade cut through the source of the manifestation, the scrap of metal, and to Rhys’s surprise, the manifestation blinked out of existence.
+
+Huh. Good to know. If the trash that formed the source of his Trash Intent was destroyed, the Trash Intent fell apart. It wasn’t the most shocking thing he’d ever heard, but since he was working with trash to begin with, he was a bit surprised that trashing the trash ruined his intent. Did it have to do with the form of ‘intent?’ In other words, if the root of his intent no longer was locked to the original piece, did he no longer have the proper form of the intent to shape the object he desired? If he manifested a bowl from half a bowl, then that half-bowl got cut into half, his original intent would still be manifesting the half a bowl the initial half a bowl needed, not the three-quarters bowl the newly made quarter-bowl needed. Was that it?
+
+There was no time to ponder any further. Laurent charged in, and Rhys had two options: take the hit or retreat. He clashed with Laurent’s blade. The force of the blow knocked his blade hard, and rather than hold on, Rhys released it. It went flying high into the air, thrown by the force of a full-power Tier 2 sword strike from a martial artist.
+
+Sword removed, Rhys was still far from unarmed. He brought out the steel pole, and Laurent’s eyes widened with shock. Laurent instantly smashed the pole out of his hand, before Rhys could even activate it.
+
+So he has been watching my battles. Rhys manifested a scrap of lurid pink fabric and flapped it aggressively at Laurent. As he’d expected, Laurent stepped back. His instinct to retreat and take in the scene activated before his rational brain processed that Rhys held nothing but a harmless piece of cloth.
+
+Exactly what Rhys had wanted.
+
+“Bye-bye,” Rhys said, waving the cloth.
+
+Laurent’s brows furrowed. He looked around him, searching the ground for some kind of unexpected manifestation.
+
+Rhys’s sword, still fully manifested, fell from the heavens. The blade carved into the top of Laurent’s head, knocking it forward at the same time. The blade clattered away, de-manifesting as it hit the ground. Laurent wobbled, and blood stained his white hair crimson, but he didn’t fall. At this tier, a falling blade wasn’t enough to give the boy a concussion, let alone shatter Laurent’s skull, but Rhys had known that from the start. He whirled, building force and momentum, and delivered it into Laurent’s solar plexus in a single powerful kick. All the air whooshed out of Laurent, and yet again, he stepped back.
+
+Off the platform.
+
+Rhys picked up his steel pipe and his sword and bowed to Laurent. “A good match.”
+
+Laurent looked at him, confused, then looked down at his feet. His face blushed with anger and embarrassment. “You—”
+
+“Trash, I know. I wouldn’t win if we actually traded sword blows, so why would I bother? I’m not stupid.” Rhys shook his head at Laurent and offered him a hand back up onto the platform.
+
+Laurent hesitated, then took Rhys’s hand. The second their hands met, Laurent yanked his back, as though it had been burned.
+
+Rhys frowned. “What?”
+
+“It’s—” Laurent stared at Rhys as if he’d seen a ghost. His eyes flickered over Rhys’s face, steadily widening.
+
+Uh oh. Did he realize? Rhys glanced at his hand. From their hands touching? How? They hadn’t even held hands! What kind of virgin was this guy? Remembering the feeling of his hand from a single brush when they were trading currency for potato chips? Even Rhys didn’t have that level of virgin power.
+
+In the next second, Laurent shook his head. “N-no. My apologies. I was mistaken.” He took Rhys’s hand and stepped back up onto the platform. “It was a good match. You’ve made me aware of my failings. I won’t make the same mistake again.”
+
+“Ah, well, that’s good, I guess,” Rhys said, not sure how he felt about helping a future member of the Empire’s military get stronger. He wasn’t the kind of guy who’d sit back for fifteen episodes just so his foe could power up to their maximum power so they could have a good fight. He’d rather beat the guy in his mook form in one hit, thanks.
+
+“I’ll look forward to your battle in the finals,” Laurent said.
+
+Rhys startled. That’s right! He had to face Bast in the finals now! Holy shit, how was he supposed to do that? Bast knew all his dirty tricks and trashy skills. Forget beating him—what he had to do now was figure out a way to avoid the beating of his life!
+
+Lost in thought, he stumbled away, while behind him, Laurent gazed at his retreating back, his eyes narrowed.

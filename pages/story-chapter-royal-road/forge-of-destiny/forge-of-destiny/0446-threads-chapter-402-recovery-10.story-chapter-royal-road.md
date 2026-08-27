@@ -1,0 +1,139 @@
+---
+id: b2a9d61d-106c-53ee-a4be-e70d3683fbae
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 402-Recovery 10"
+slug: 0446-threads-chapter-402-recovery-10
+partOf: forge-of-destiny
+position: 446
+ownLength: 2010
+unit: words
+publishedAt: 2024-09-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1817074/threads-chapter-402-recovery-10"
+royalRoadId: "1817074"
+---
+
+Ling Qi completed the adoption ceremony by extending her hand toward Ling Nuan. It was awkward doing so while sitting down, but she was tall enough that it still worked.
+
+Ling Nuan took her hand and raised her head, turning to look out over the gathered household.
+
+"Thank you, my clan head," she said roughly. She did not strictly need to continue holding Ling Qi's hand for any longer, but she did not let go. "I would like to show my appreciation."
+
+Ling Qi nodded. They'd discussed this, just after the fittings were done.
+
+Yu Nuan—no, Ling Nuan now—would perform a piece of her own up on the stage, a presentation and demonstration to the clan introducing who she was and what she was bringing. Ling Qi had considered asking the other girl to improvise a duet between them, but in the end, she had decided otherwise. They were establishing a new tradition here. Not every cultivator adopted into the Ling clan in the future would be a musician, after all, so this would be better.
+
+"I would be pleased to see it, as would we all," Ling Qi said.
+
+She gestured, and Mother closed the cabinet containing the ancestral tablets. As she stepped back, the roots enclosing it rumbled, curling to cradle it protectively as they withdrew the cabinet back down beneath the stage.
+
+"Come,” Ling Qi continued. “Let us cede the stage to our new kin."
+
+Mother, Hanyi, and herself descended the ramp from the stage. She felt Sixiang's presence retreat from her mind to the puppet body nestled in the dark of the garden. The ground shook as Zhengui emerged, trundling up to the far end of the family table where a trough piled high with fruits waited for him. She took a seat beside Mother, who quietly dismissed the older woman who had been tending to Biyu back to the household tables. Hanyi remained standing at her side, and an empty seat was reserved for Ling Nuan.
+
+Faerie lights bloomed, casting new light across the stage. Ling Nuan stood tall and straight-backed as the air shimmered and her lute, a rich, redwood instrument chased with elements of black enamel and gleaming steel, appeared in her hands. She twisted the knobs, adjusting the strings.
+
+"I'm thankful for the welcome, so listen up. The Ling clan is a good one, better'n I deserve, and all of you are part of that, from what I hear,” Ling Nuan called out. “You'll never gain something you don't grasp for. You won't keep something good by resting on your laurels. This piece is called, 'Thunder Under Snow.'"
+
+She slashed her hand down across the strings. Electricity sparked off of her fingernails, thunder cracked in the sky above, and the lute rang out with a harsh metallic strum that echoed over the garden.
+
+Ling Qi smiled, letting the music wash over her. Ling Nuan was not going to overwhelm an audience like this with a cultivator's full theatrics, but that did not mean that Ling Qi could not feel the meaning thrummed in time with the sound.
+
+She saw that more than a few of her household was taken back by the chaotic sound that followed the opening riff, far from the harmonious noble or rhythmic teahouse styles that were more in fashion.
+
+It was lightning crackling amidst a whited-out sky and thunder rolling off the steep, southern mountain cliffs.
+
+A front swept south, carrying all caught in its wake on its wind. The song of the blizzard howl could not be ignored, and beasts great and small raised their eyes from their hunts, their haunts, their contests, their wars.
+
+Only wind. Only wind. Ethereal, weightless, soft snow turned to cutting daggers. It could not be ignored.
+
+Ling Qi could only be flattered at the comparison.
+
+Thunder rumbled. Small storms content to lash the valleys with wind and rain, but in truth, a quiet crash, a wind without direction. Small ambition. Thoughtless ambition. Rage without a target. Rage that knew itself futile, dashing carelessly upon the stones until its energy was spent.
+
+South, spoke the wind. Up, spoke the wind. See the sky. Find direction. Move, dance, laugh, rage.
+
+Rage together. Rage loud. The wind carries. The blizzard song advances. And where mountains cannot be bowed, they will be left behind, one drop, one gust, one rumble at a time.
+
+So sweeps the snow, and so sings the wind on and on and on, direction ever unwavering….
+
+The music itself is loud and demanding. It roars for attention from the listener to look, to hear. It inflames the blood with purpose, purpose to drive forward to the song of the listener’s desire.
+
+Ling Qi was glad Ling Nuan had found something she truly wanted even if she couldn’t yet accept that one could look at Cai Renxiang’s actions and be inspired.
+
+Despite the initial confusion over the music, she saw the faces at the tables below rapt with attention as well. It resonated. So many had uprooted their lives to join this household. Some had done so out of trust in her mother's word, but more had come for the simple hope that anything would be better than the run-down streets, no matter the risk. That the border, seething with conflict, was better than wallowing another hopeless, helpless day in Tonghou.
+
+Some people would rather have their place commanded, their days ordered by higher hands. But many people wished for a choice, to be able to say that “this is the road that I have chosen, for good or for ill.” Her Ling clan would be a place for people with such spirits.
+
+Ling Qi closed her eyes and allowed herself to sink into the clash and crash of Yu Nuan's thunderous ode to striving.
+
+***
+
+"Hells, I feel like one of those grandstanding noble pricks," Ling Nuan grumbled into her winecup. With her head tilted forward, her blue fringe fell over her eyes, but even with the hunch of her shoulders, Ling Qi could see the flush on her cheeks.
+
+"Language," Mother warned. "Be mindful."
+
+"Momma, what's a pr—" Biyu began only for Mother to clap a hand over her mouth and lean down to whisper in her ear.
+
+Ling Qi chuckled as Ling Nuan winced and looked contrite under the glance Mother gave her.
+
+"I hate to be the one who must inform you of this, but you have been a noble for some time," Ling Qi told her.
+
+"You know what I mean." Ling Nuan scrunched up her nose as she sipped her wine. "Fu—I mean, 's cold. Like, really cold…"
+
+"Ah, sorry. I asked Hanyi to chill the wines, but she might have gone overboard." Ling Qi tasted her own. Huh. It was fine. It was good wine, but mortal, lacking some of the kick and depth of flavor she'd grown used to.
+
+"I made sure they didn't freeze! I did it just like Elder Sister said to do it," Hanyi defended.
+
+Ling Nuan shook her head. "Explains why it feels like it just got pulled out of an ice chest."
+
+"I do know what you mean, though."
+
+Ling Qi looked out over the rest of the tables. They were bright and full of chatter. People were discussing the performance, Ling Nuan, and the future. People laughed. A child was scolded for spilling his drink. Two elderly women bickered, jabbing their chopsticks at one another rudely, but with laughter in their eyes. A gasp went up from a group watching the sky as they glimpsed a hound diving in and out of the clouds. A hundred, hundred little interactions of joy.
+
+This was well. Ling Qi felt the constant itch and burn in her recovering meridians lessen, just a little, like freshly applied balm on her skin.
+
+"It's not grandstanding if everyone really is gathered for you."
+
+"Not the point,” Ling Nuan complained. “I don't want to go around overawing people. I was just caught up in the moment."
+
+"No one is overawed,” Ling Qingge corrected. “Shocked, perhaps, at your style, but I believe everyone enjoyed the piece."
+
+Her mother straightened up from Biyu, who immediately undoed all her work of wiping her face by doing her best to stuff an entire plum cake into her bulging cheeks. Ling Qi didn't have the heart to point it out. Better to let her little sister finish and then get scolded by Mother.
+
+"I think you did very well, and that everyone will remember this night," Ling Qi soothed.
+
+This only made the other girl hunch her shoulders and grumble more. Ling Qi sighed. Her new adoptive sister might have reached her limit of social interaction for the evening.
+
+"Ah, I did have some questions I wanted to ask you about. Snowblossom business," Ling Qi clarified.
+
+Ling Nuan straightened up at the topic change. "Sure. You looking to get some animals?"
+
+"Yes. We’re setting up some infrastructure for now, but Lady Cai wished to collect expertise before sending the order to the Luo."
+
+Ling Qi broke a dumpling in half and brought it to her lips. Mother's dumplings were always worth eating, even as a cultivator. Beside her, she heard Mother gasp and saw her turn to Biyu, a handkerchief in hand. Fight on, little sister. She was sure the cake had been worth it.
+
+"I'm guessing… goats, sheep, chickens, maybe pigs? Doesn't seem much like cow country. Too steep and cold."
+
+"There are some high mountain breeds, but we're not looking into those until we're better established," Ling Qi agreed. "Any thoughts?"
+
+"Chickens are easy. Prolly don't even need a dedicated spot, just hook up each little farm with a coop. They'll appreciate the eggs and pest control. They’ll need more fencing though since the little predators will go for them where they won't for crops." Yu Nuan toyed with a strip of sauce drizzled meat on her plate. "Might be best if you don't have a lot of people."
+
+"And the others?" .
+
+"Pigs don't need a lot of upkeep. You can feed them off scraps. But they can be dangerous. The smaller ones are waist high, and they only get bigger from there. A pig will take down a fence if you let it. Hells, a hog that's got into some qi-rich rooting will knock down a house. They take to cultivation mutations easily. Lots of meat and good fertilizer, but not much else of use. Honestly, goats'll be good all around. You only need a few herders, they can handle themselves, and they give milk and wool. Ornery little shi—"
+
+Ling Nuan eyed Mother and cut herself off, but her eyes lingered on Biyu giggling as she wiggled under Mother's grasp.
+
+"... They're temperamental, and it can be hard to keep them out of trouble, depending on the breed. Lotta high jumpers and quick climbers in the southern breeds. There's a few breeds I can recommend that should mostly stay put though."
+
+"And sheep?" Ling Qi asked.
+
+"The dumbest animals you'll ever find. Your herders will have to protect them from themselves as much as anything else." Yu Nuan had a small smile on her face, like she was reminiscing. "They're so soft though, especially the Cerulean Hills breed. Docile little dummies, too. You're gonna get more and better wool from most breeds, and the milk isn't bad either."
+
+"I think I recall that breed being on the list. Any more specific recommendations in the other categories?"
+
+"Sure. Let's see… You’ll want to avoid the Vermillion-Comb breed of chicken from out east. Too temperamental; they'll peck each other to death if you have more than a few in a space…" Ling Nuan settled into her seat, losing more of the built-up tension as she talked, and began to pick at her meal more.
+
+Another small success. Ling Qi finished her dumpling, satisfied, and listened to her new sister go on.
+
+She'd have to write everything said down later, just cleaned up a little, and send it on to Cai Renxiang. Her liege would appreciate the perspective.

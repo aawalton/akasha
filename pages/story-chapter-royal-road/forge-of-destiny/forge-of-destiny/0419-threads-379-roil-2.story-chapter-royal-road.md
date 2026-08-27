@@ -1,0 +1,165 @@
+---
+id: 1cdc1b7e-3c8d-5e15-a523-fca2d31f4b78
+page-type-slug: story-chapter-royal-road
+title: "Threads 379-Roil 2"
+slug: 0419-threads-379-roil-2
+partOf: forge-of-destiny
+position: 419
+ownLength: 1950
+unit: words
+publishedAt: 2024-05-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1635296/threads-379-roil-2"
+royalRoadId: "1635296"
+---
+
+Ling Qi was surprised by the sheer, quiet panic in his voice. She had thought she understood the implications,as someone who studied the past and the many times clans had fallen in the Emerald Seas, the Chu only being the most recent.
+
+Jin Tae fell silent, and it was Cao Chun who spoke. "We have, thanks to Baroness Ling, a Name, and more than one after my own investigations. Would you know the Name of a hidden elder of your clan, if it were presented to you?"
+
+Meng Dan looked pained. "I am too young to receive such knowledge."
+
+"Then…"
+
+"But my grandmother is not. I have a way to contact her, immediately and in real time, for a dire problem."
+
+Cao Chun shook his head. "And we are to trust that she is not in contact with the perpetrator?"
+
+"Meng Diu would not be involved in this," Ling Qi stated.
+
+Perhaps… Perhaps that was only a mask. What the woman wanted her to see, she would, given the differences in their cultivation. But Meng Diu’s actions since their first collaboration spoke otherwise.
+
+"Inspector Cao,” Ling Qi continued, “if we are correct, is it not worth seeing this matter shut down at the root? It is even possible, given his abilities, that the perpetrator is still physically in Meng lands."
+
+Cao Chun looked at her hard, a small tic in his cheek.
+
+"If this is allowed to burst into public view unimpeded, it will tear the province apart. We may disagree on much about this summit, but this is beyond that. Please, inspector."
+
+"I will allow it," he said grudgingly.
+
+Jin Tae's eyebrows flew up.
+
+"It will be done right here under my supervision. Does this method allow multiple speakers?"
+
+"If we are close. It does not last long," Meng Dan said.
+
+He didn’t hesitate any further. There was a flash as the item appeared from within his ring. It was a small, smooth stone like any other that could be found on a riverbed. Ling Qi could neither see nor sense no formations on it.
+
+He spoke, and the words were half-foreign to her ears. They sounded like ancient and archaic imperial and a little bit of hill tribe, but with elements foreign to both. The meaning still came to her clear enough, even without the sounds making sense. The Rains Arrive.
+
+Cao Chun squinted at Meng Dan, and Jin Tae frowned as the Meng scion continued to speak in that odd archaic tongue.
+
+“Grandmother, there may be a traitor dragging us into the duchess’ light. Uncle is compromised, even if the source is another. The ministry knows. They have a Name.”
+
+She understood but kept her peace until she felt a trickle of the old woman's qi through the stone, like a single eye opening, peering down a long tunnel.
+
+"And you believe him?" she asked, dry and creaking, sounding older than Ling Qi had ever heard her.
+
+Cao Chun spoke, his qi pushing to the fore, ripples of metallic light gleaming on his skin. He spoke what could only be the words pried from the second parasite.
+
+Preservation. Wholeness. Purity. Keeper Against Defilement.
+
+There was a beat of silence.
+
+"I believe Lady Ling, who found the first Name." Meng Dan bowed his head to the stone in his hand.
+
+The sensation of the eye fell on her.
+
+Ling Qi inhaled, and when she spoke, what came out of her mouth was not merely sound, but a full recreation of what she had felt hating her from the other side of a dream parasite's eyes.
+
+Still Waters Deeping. Archivist of the Reviled.
+
+There was another beat of silence.
+
+In that old and unintelligible tongue, Meng Diu swore.
+
+The obscenity echoed in the tiny office room.
+
+Meng Dan's face had gone white with alarm.
+
+"You recognize the name then,” Cao Chun said clinically. “You understand the gravity."
+
+"I do. These were names I expected to hear only at final funerary ceremonies," Meng Diu said. Her voice was unruffled again, no sign of alarm or outburst. "You are correct. The name is known to me. Its owner should be preparing themselves for the end of this cycle. There is no reason such a name should be known by one like the baroness."
+
+Cao Chun snorted irritably, but didn't comment on his exclusion. The Ministry of Integrity might have other methods of acquiring a Meng elder’s name. She was fortunate that Meng Diu knew her and could read the truth in her voice, even from so far away.
+
+"I see," Cao Chun said. "It is always a misfortune when an honored elder slips upon the threshold of life and death from a rotting soul."
+
+"It is indeed," Meng Diu replied warily. "Meng Delun's preparations should have been too far along for such distant operations."
+
+"Is it possible that his stores of talismans have simply been put to use by some lesser saboteur?" Meng Dan asked. "If I recall, Elder Delun's domain is the restricted archives and storehouses. Could some number of his lieutenants and apprentices be making a play?"
+
+"It is possible," Meng Diu said shortly. "Although…"
+
+"At the very least, it is someone who can credibly mimic his power," Ling Qi said. She had felt that presence, and Shu Yue had nearly caught them. A cultivator who could spin off a fourth realm simulacrum was not weak, but it would be better than facing a sovereign.
+
+Meng Dan looked pained. Finally, Meng Diu spoke up. "The Meng have long practiced certain cultivation methods which allow the borrowing and linking of powers… just as the Hui did. We do not discuss this."
+
+"As the foreigners claim to do as well. Perhaps there is more than historical curiosity to this connection that was unearthed," Cao Chun muttered. "This method, it is orthodox?"
+
+"Neither the second dynasty, nor the founders of the current one, barred the methods," Meng Diu replied tightly.
+
+"And it has not been reviewed since, I would assume," Cao Chun said tiredly. For a moment, he looked far older and lined himself as if he were shrinking into his own body. "Well, clan business. It is possible then for it to be lesser collaborators, but they will wield a sovereign's power regardless."
+
+Ling Qi could not help but uncomfortably recall her own sojourn into the Emerald Seas’ nightmare where she had briefly worn the mantle of an old and forgotten sovereign whom Huisheng was an echo and shadow of. With her, it had been an ad hoc and desperate gamble that had lasted but bare moments, and even then, the mantle could have only existed in the deep liminal. Doing so had damaged her cultivation and could have done so much worse. But the very fact that she could do that proved such techniques were possible.
+
+"There are methods of disruption, and it must be anchored in a place of power," Meng Diu said. "Inspector, that is your knowledge. Meng Delun's charge as an elder is the guarding and preservation of forbidden secrets and the development of defenses against them. In the old days, he was among those who guarded the clan’s minds from the Hui and the perilous foreign influences that they loved. His concealment arts are without compare in his realm, and his understanding of the twisting mental arts are deep and steeped with personal experience. He is not a warrior in the truest sense, but he is, at his core, a defender, even if his vision on what requires defense has become twisted and broken. This talisman will run its course shortly. I will have matters arranged here to investigate the truth of this supposition and to ensure that no support from an apprentice, site, or formation comes from here… and I will have to prepare for a cleaning. Good fortune to you."
+
+"Good fortune to you," Cao Chun replied tersely. "Knowing his mortal name is enough boon. From there, compiling information is easier."
+
+"You will see that my grandson is not caught up in this," Meng Diu demanded.
+
+"Grandmother,” Meng Dan protested, “I am already caught. I will assist the ministry and Miss Ling as I can."
+
+"... Very well."
+
+And with that, the connection cut.
+
+"We have much work to do," Cao Chun said. "Jin Tae will arrange the message to the White Sky. Baroness, do you believe you can convince them to at least speak of delays and deflect over the reasons rather than cutting the meeting off entirely?"
+
+"I do not see why they could not be so reasonable."
+
+Cao Chun grunted. "Then we will have a little more time. Jin Tae, go to the formation room. The baroness will be along to dictate in a moment."
+
+Jin Tae bowed. "Understood, inspector. Baroness, I assume you will be able to detect my qi?"
+
+"Assuming the wards allow it."
+
+Jin Tae straightened up. "I shall leave the door open." He took his leave.
+
+Ling Qi glanced at Cao Chun after the door clicked shut behind his apprentice. "Inspector, what did you want to bring up that you do not wish Jin Tae to hear?"
+
+"I would like to know the disposition of the duchess' pet demon," Cao Chun said bluntly. "I know it was assigned to the protection of the heiress… and you."
+
+Ling Qi kept her expression neutral, for all that she wanted to scowl at the man for those words.
+
+"Do not deny. I am not stupid. While I am certain your own arts were pivotal, you would not have accomplished what you did without some backing to prevent reprisals through the parasites. I do not approve of such a being, but it is under control for now. That is more than can be said of this rogue."
+
+"Is that the opinion of the ministry?" Ling Qi asked warily.
+
+"It is my opinion, and if my superiors did not wish for it, they should have left me my retirement. I cannot plan properly without knowing the disposition of the pieces on the board."
+
+"Shu Yue nearly caught them the first time, when they thought to strike at me. Instead, they caught and destroyed a fourth realm simulacrum." Ling Qi paused, considering, before amending, "Or what they believed to be one. I am only in occasional contact to preserve their own anonymity and freedom of action."
+
+Meng Dan raised an eyebrow at her. "Then there is another peer already on the hunt?"
+
+"There is. They have mostly been waiting for the target to overextend themselves."
+
+"Not a bad plan, and it confirms my own thoughts. The target has been growing more careful and cagey, but they are not withdrawing. Either their Way will not allow it or they feel they are already caught."
+
+"Do you think they intend to go unto death?" Ling Qi asked.
+
+"I do not think they intended so at the beginning. This is why I lend some credence to this mantling notion. A sovereign on the edge of death already… It is possible this technique explains some discrepancies."
+
+"I hope it is so," Ling Qi said. "Will you be willing to communicate with Shu Yue?"
+
+Cao Chun grimaced. "I will. I assume it is not here?"
+
+"If they were, I'm sure they would have spoken."
+
+"Then the security formations are in good order at least," Cao Chun grumbled. "Very well. I will be taking a walk outside in thirty minutes’ time."
+
+"Understood. I do not wish to delay the message, and the general needs to be informed."
+
+"If I may, Miss Ling,” Meng Dan said, “I would go with you. I wish to be of what aid I can."
+
+"Of course." She lowered her head. "Goodbye for now, inspector."

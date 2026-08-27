@@ -1,0 +1,145 @@
+---
+id: 1e18d675-40f7-5adc-a032-85845ebfaace
+page-type-slug: story-chapter-royal-road
+title: "Threads 105-Descent 7"
+slug: 0128-threads-105-descent-7
+partOf: forge-of-destiny
+position: 128
+ownLength: 2281
+unit: words
+publishedAt: 2021-07-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/713165/threads-105-descent-7"
+royalRoadId: "713165"
+---
+
+Ling Qi noticed someone approaching her, their presence loud, a beacon almost as obvious as Cai Renxiang. Her expression smoothed into neutrality as she faced Ji Rong. Hanyi almost bumped into her at the sudden stop, but it only took her a moment to recover, peering around Ling Qi’s skirts to see what had drawn her attention.
+
+Ji Rong studied her warily as he came to a stop a few strides away. He really hadn’t changed his manner much. He still stood with hunched shoulders, his hands stuffed into his pockets. Only the golden loops of scales that hung about his shoulders and the peering lizard-like head of his companion resting on his shoulder was any different. “Yo. Your boy going to be good for this?”
+
+Ling Qi regarded him, trying to pick out just what he wanted, why he could possibly be approaching her. So it was that Hanyi beat her to responding.
+
+“Zhengui is fine, obviously,” Hanyi retorted. “Don’t look down on him or my Sis!”
+
+Sixiang snorted out a laugh in her thoughts, and Ling Qi tried to keep her eyebrow from twitching. This girl… She really could change gears quickly.
+
+Ji Rong glanced down at her. “That so?”
+
+Hanyi huffed, but Ling Qi held up a hand to quiet her before she could respond again. “Zhengui is just tired. Why are you asking?”
+
+He met her eyes and rolled his shoulders, drawing a grumble from his own spirit. “Look, I’m not tryin’ to start a fight. It’s obvious he’s hurt though. I just wanna know if we’re down a fighter.”
+
+“And why is that? Does he look wounded to you?” Ling Qi shot back.
+
+He snorted. “Don’t give me that. I saw your face back then. Parents don’t get that face when their kids ain’t hurt. You looked like you were gonna gut someone.”
+
+Ling Qi’s eyes widened, and internally, Sixiang sighed. “He’ll be fine. It’s nothing that will impair him in a fight,” she said tightly. She didn’t bother responding to his provocation regarding their relationship. “How about you? Isn’t it reckless to bring a spirit just on the edge of green down here as a combatant?”
+
+The shrunken dragon gave her an outraged look, his gleaming golden scales puffing out around his neck in a way that made him seem bigger. “You! Don’t imply that I can’t fight. You dare…!”
+
+“Chill, Relong. She’s just tryin to get a rise out of ya,” Ji Rong snapped. “I put down my conditions. He fulfilled ‘em. If he gets his fool self killed, that’s his own business. He’s my sworn brother, not my kid or my servant.”
+
+Ling Qi stared at him. How could he be so unconcerned? Well, no, she knew how. Somehow, she had just expected…
+
+<Ling Qi, you're stressed out and it’s making you judge-y. Other people do stuff in other ways,> Sixiang remonstrated with her in her thoughts.
+
+“I wonder how useful he’ll be though. Has he even had time to practice like that?” Hanyi asked snootily. “Zhengui is definitely way better.”
+
+Ling Qi almost winced. Even with the small amount she knew about dragons…
+
+She had already stepped in front of Hanyi before the young dragon had even finished coiling to spring, and Ji Rong caught him by the scruff of the neck before Relong could make it off of his shoulder. “We can’t afford to fight right now, Re,” he barked. Toward her, he said, “I’d appreciate it if you’d quit needling him.”
+
+Ling Qi breathed out. Sixiang was right. She was letting things get to her and taking it out on Ji Rong. She gave a short nod. “Less teasing, alright?” she said to Hanyi. “If you want to pick a fight, do it when we get back.”
+
+“Like I’m afraid,” Hanyi sniffed.
+
+“Say those words again when I am not restrained by duty,” the dragon grumbled, dangling from Ji Rong’s fist in a way that reminded her of a kitten being carried off by its mother.
+
+Ling Qi closed her eyes for a moment. “What did you need, Ji Rong?”
+
+He released his spirit, leaving Relong to coil back around his shoulders, and scrubbed a hand through his hair. “Seriously, I wasn’t trying to start a fight,” he grumbled. “You know things are gonna go to the hells down there, right? We might have a fancy escape route, but we’re still being used as bait.”
+
+Ling Qi wouldn’t quite put it that way, but he wasn’t wrong either. Sixiang’s phantom finger prodded her in the side, and she nodded. “I get it. My little brother,” she emphasized, “isn’t going to be a weak link.”
+
+He snorted, and her eyebrow twitched. “Good, but there was something else I was gonna ask you.”
+
+Ling Qi lifted an eyebrow and gestured for him to get on with it.
+
+“I want to fight you,” he said bluntly. She gave him a blank look. “Not here, obviously,” he clarified.
+
+“Why?”
+
+“Cause you’re the only one who’s beat me without being years ahead or a damned ducal,” he spat.
+
+“And you think you’re going to win now?” she asked dryly.
+
+“I think I’m going to get my ass kicked, but I don’t know how hard,” he said, making her blink.
+
+“Brother…” Relong mumbled uncomfortably, squirming around the boy's neck.
+
+Ling Qi shot a look at Hanyi to wipe away the smirk that she knew would be forming.
+
+“I’ll be blunt in return. I don’t know what you're getting at. Why now? You could have challenged me any time this year,” Ling Qi questioned.
+
+He grimaced in frustration. “Because I need to know if you’re just keeping pace or if you're pulling ahead. And I’ve been putting it off, but I can’t anymore.”
+
+“And why is that?” Ling Qi asked, feeling the first thread of real curiosity.
+
+He glanced away grumbling. “She’s gonna kick my ass for this,” he mumbled. “End of next month, Sun Liling and me are leaving. She’s got family business back home, and I gotta do some formal crap myself. We’ll be back for the New Year’s Tourney at the end of this year, but I wanna do this before that.”
+
+“I’ll think about it,” Ling Qi said noncommittally, giving him a dubious look.
+
+Ji Rong looked unsatisfied but didn’t press her further.
+
+They parted ways, and Ling Qi shook her head. She’d have to pass the information about Sun Liling’s plans along to Cai Renxiang.
+
+***
+
+When “morning” came, Ling Qi and Liao Zhu descended into the cavern. Foul and humid, the air left oily sweat to congeal on her skin as they carefully scouted out the abyssal plain at the edge of the cavern. Beneath their feet, the earth and grass had an unpleasant texture and malleability, an unwholesome spongey springiness that made her flesh crawl every time feathery grass fronds brushed her ankles.
+
+She knew on some level that it was irrational, that she had seen and experienced worse, but everything about this place seemed to trigger an instinctive loathing that was hard to dismiss. Even Liao Zhu, unflappable as he was, had a certain tension in his shoulders and tightness around his eyes as they scouted the immediate area.
+
+As unpleasant as it was, the tall, feathery grass was something of a boon, giving them cover to move through the rolling hills. At the edge of the twisted fungal forest, they found the first signs of real activity, a muddy track winding between the swaying trunks. Carefully following the path at a good distance revealed none of their enemy, but it did take them to the other side of the forest. The path itself terminated around a partially excavated boulder-topped hill, which looked much like a quarry on the surface.
+
+Seeing it revealed why the shape of the boulders Ling Qi had seen bothered her. Those oddly shaped protrusions emerging from the tops of the hills were not mere boulders. As Ling Qi looked down into a quarry where an immense ribcage lay partially exposed, she realized they were the scattered spinal bones of titanic beasts. The sheer scale of what she was looking at was difficult to accept. She had heard stories of the immenseness of certain beasts, even seen something similar at a distance in the form of the Sect Head's companion, but never before had she seen a ribcage that could have contained all of Tonghou from only a few dozen meters away.
+
+And it was not alone. At the bottom of the quarry, the spongy earth had been removed, revealing not stone bedrock, but an endless, uncountable number of smaller bones, smashed and fused and petrified together. On one side of the quarry sat a single meters-wide block of the stuff upon an unmanned sledge. Skulls and ribs and other bones from too many creatures to identify were visible in its contours.
+
+She recalled what the fungus had called this place and understood. Land of Bones and Worms… She’d seen the bones now. She wondered where the worms were.
+
+They did not linger long at the quarry. For whatever reason, it was abandoned. Of more immediate interest was the road they found and the structures visible now that they had traveled beyond the fungal forest. This road was not merely a packed dirt path; it was made of regular bricks of off-white “stone.”
+
+“Hoh, not exactly the work of savages,” Liao Zhu murmured as they crouched in the underbrush, watching the empty road.
+
+“They’re just bricks,” Ling Qi replied.
+
+He shook his head. “No, I only dabble in such things, but the design is advanced. Look at the drainage along the sides, the regularity of the stones, and the even mix of the mortar. These are not unsettled creatures.”
+
+Ling Qi was silent. She recalled Bao Qingling’s words. “It just means we need to be more careful,” she said.
+
+“Indeed.” Liao Zhu peered at the structures visible in the distance. “We will need to split here to cover more ground.”
+
+Ling Qi breathed out, reaching inward for support from her spirits. “Yes, Senior Brother. Should I take the outward path?” she asked, gesturing toward the road where it went toward the wall.
+
+“Yes,” he agreed. “But first…” He flicked his wrist, and a small silver ring appeared in his palm. He held it out to her.
+
+Ling Qi blinked. She took the ring out of instinct. “Senior Brother, what is this?”
+
+“It contains a technique of mine. So long as you wear it, you should be able to understand the creatures’ tongue,” he explained. “Please keep it safe. I shall have to return it to its original owner when we return to the surface.”
+
+“O-of course,” Ling Qi agreed, slipping the ring onto her finger. Now was not the time to feel awkward and uncertain.
+
+He looked at her a moment longer and then shook his head with a quiet chuckle. “Do watch yourself. A hero I might be, but this is no time nor place for damsels and daring rescues. Good hunting, Junior Sister.”
+
+“Good hunting, Senior Brother,” she echoed. A moment later, he was gone.
+
+Ling Qi turned her eyes back to the bone brick path. Skulking through the undergrowth, flitting from shadow to shadow, keeping close to the ground to avoid expending qi or revealing herself, Ling Qi made her way further toward the curving edge of the cavern.
+
+The fields caught her eye first. They were bright and colorful things, full of strange plants she did not recognize, odd things with big, ripe, flowering growths like puffy gourds. Wandering the fields were low-slung loping shapes with grey, rubbery skin and canine faces. She recognized her foes from the last time she had ventured into the caverns with Li Suyin. They were all nearly naked, their only clothing belts or bandoliers hung with tools. They were also performing what seemed to be mostly mundane farm labor. They weren’t mortal though. It was hard to judge, but they seemed to be roughly first realm.
+
+The laborers didn’t keep her attention as she moved around the edge of the field. Soon, a large structure, a dome of black metal and pale stone, came into sight, and here, she saw another familiar sight. Scampering, rushing, and crawling through ripened fields were swarms of the ugly human-rat things that had erupted into the cavern on Li Suyin’s expedition, only they seemed much smaller and less ravenous. The ones she saw in the fields were only the size of a small human child, and they seemed mostly interested in gorging themselves on the gourd fruits and tussling in a way reminiscent of other young animals, even if they were utterly hideous.
+
+Here and there around the field, loping around and occasionally prodding particularly violent scufflers apart with long sticks of bone, were more of the shishigui. These were more familiar, low third realm like the herders she had fought before. As she watched, one led another pack of the rat-things out of the dome while another took a pack inside.
+
+Circling further toward the wall of the cavern, the sound of flowing water reached her ears as the silhouettes of buildings came into view. They were tall, semi-conical things like artificial stalagmites. The village had no wall and sat astride a rushing river of tar-like liquid, which flowed from the interior out to the wall and then disappeared under the stone. Many bridges crossed the river, and the bridges teemed with shishigui, who were hauling… something out of the water and throwing other things back in. She was too far away to make out what precisely they were doing.
+
+She had to decide what to investigate first.

@@ -1,0 +1,201 @@
+---
+id: 69b67afb-4986-5840-aeef-09f1d5a60f55
+page-type-slug: story-chapter-royal-road
+title: "Threads 177- Emissary 12"
+slug: 0208-threads-177-emissary-12
+partOf: forge-of-destiny
+position: 208
+ownLength: 3372
+unit: words
+publishedAt: 2022-01-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/830046/threads-177--emissary-12"
+royalRoadId: "830046"
+---
+
+Ling Qi quietly shut the door to her room behind her, leaving Hanyi and Zhengui to their rest and cultivation. They wouldn’t be participating in the talks today.
+
+“Join us, Ling Qi.” She looked up at the sound of her liege’s voice. Cai Renxiang and Gan Guangli were already seated at the table in the main room. She had felt their presences from within her room; a beckoning pulse of Cai Renxiang’s light had brought her out so early.
+
+“Of course, Lady Cai.”  A flicker of shadow carried her to an open seat opposite Gan Guangli. “May I ask what you were discussing?”
+
+“Small matters of philosophy,” Gan Guangli said. “And what matters are reasonable expectations for the future.”
+
+Cai Renxiang gave a small, assenting nod. “But we have not the luxury of long ruminations. We should prepare ourselves for the meeting coming later this day.”
+
+“Should we not wait for the others then?” Ling Qi asked. “I believe we agreed Meng Dan’s presentation would be our opening move.”
+
+“It is. Prompting a reciprocation of information on their history will be important to avoiding misunderstandings in the future. However, there is something I need to discuss with the two of you before that. At this point we are unlikely to fail at our expedition's goals. Are you two in agreement?” Cai Renxiang looked at each of them in turn.
+
+“It would seem so,” Gan Guangli said. “These people are not greatly inclined to war. I do not think it is a weakness of character though, as most would think of such timidity. Although I have only spent a short time with them, I think there is a deep resolve in their hearts which should not be underestimated. So long as our demands do not become insulting, they should remain accommodating.”
+
+“I can’t say much about martial virtues, but I believe I understand Emissary Jaromila and her position well enough now to be certain that she wishes these negotiations to succeed. For her, additional ties with foreigners would only strengthen her position,” Ling Qi said thoughtfully. “We do not need to worry much about higher realm intervention either so long as we avoid offending their religious sensibilities.”
+
+“Yes, you did say that their higher realms abrogate temporal rule,” Cai Renxiang recalled. “I find it odd that the wisest and farthest seeing do not rule, but I suppose that their power remains as backing for government decisions. Given their focus on religious institutions and consultation with them, I suppose it is not so different from the patriarch, head, and heir systems most clans observe.”
+
+<I can’t help but feel that her interpretation is a little wrongheaded, but it’s not exactly incorrect either,> Sixiang muttered. <Probably the best explanation you all could give your bosses anyway.>
+
+Ling Qi nodded silently, gesturing to indicate that she had nothing else to say.
+
+“It is true that the abilities of those beyond the fourth realm are not necessary in most situations, except to counter their peers,” Gan Guangli mused, drumming his fingers on his elbow. “But I still find it strange.”
+
+“I do not completely understand their cultivation,” Ling Qi admitted. Gan Guangli’s point bothered her, but she couldn’t quite say why. “So I do not want to judge overmuch.”
+
+“Agreed,” Cai Renxiang said. “What I wish to ask you two then, is what you would advise we do with this accomplishment.”
+
+“You think the Duchess will grant us a boon?” Ling Qi asked.
+
+“I believe she will be inclined to give more duties to those who prove they can handle it,” Cai Renxiang corrected levelly. “Assuming we succeed beyond the parameters of the expedition, it will be possible to make choices on where those duties lie.”
+
+“You are wondering whether it is wise to remain where you are?” Gan Guangli asked to clarify.
+
+“I have been reminded of late that my accomplishments are still very thin on the ground,” Cai Renxiang answered. Her fingers tapped a steady beat on the hilt of her saber which was laid across her lap. “The path we are on, of achieving high rank in the Sect and being its champions at the intersect tournament, I have begun to wonder if it is enough. Excellence is the only thing Mother cares about, and this is the chance to pursue something more.”
+
+“You know, my lady, that the tournament is no small thing. Attendance and performance there will be seen throughout the province and the Empire beyond, particularly with the greater number of disciples from out of province arriving in recent years,” Gan Guangli pointed out. “The connections that can be forged there among the nobility of the Emerald Seas and its institutions will be tremendous.”
+
+Ling Qi was mostly worried that Renxiang was speaking of the task laid down by the Duchess herself could be “insufficient.” She knew that the girl pushed herself tremendously at all times, and wondered if she was now intending to take that even further. She didn’t know how healthy that was.
+
+“I acknowledge this, but in the end, they will still be the achievements of students,” Cai Renxiang pointed out.
+
+“But we are students,” Ling Qi said.
+
+“Nonetheless, we must think beyond a few years.”
+
+“What is it you propose, Lady Cai? It is unlike you to be so evasive,” Gan Guangli said, furrowing his brow.
+
+“I have found myself thinking that it may be best to stake my place in the province on this business,” Cai Renxiang said. “This matter we have stumbled into thanks to Ling Qi’s actions is not an opportunity to come again soon. We are guaranteed to have martial achievements given the war coming to the south and Mother’s participation. But we are uniquely positioned to gain influence over the relationship which develops here.”
+
+Cai Renxiang’s gaze turned toward Ling Qi, and she knew what the heiress meant. By quirk of fate, she was someone that these foreigners would extend at least limited trust to, even before building a relationship with them.
+
+“I am not sure this is a decision to be made now,” Gan Guangli protested. “My lady, even if these negotiations succeed, it will be many months before we can realistically expect there to be further contact. The base location will need to be prepared, and matters of the war and the border counts will need addressing.”
+
+“It is something which we must consider,” Cai Renxiang said. “Ling Qi, Gan Guangli, I will admit that I am considering a risky path, so please, consider it in your minds and later, when the time comes to debrief my mother, I would have your opinions.”
+
+Ling Qi crossed her arms. It was true that they had achieved something unique here, but did she really want to commit to that? The Sect remained a place of wealth and knowledge that she could continue to benefit from.
+
+<And of course, pretty much everyone you know is there,> Sixiang thought. <I could see snake girl ending up part of this, but you might be leaving a good number of people behind. But that would also be happening at some point given the proposed timeline.>
+
+Ling Qi acknowledged that at most, they would be with the Sect for another year. Was accelerating that in their best interests though?
+
+<I think you should counsel what you’ll find the most fulfilling personally,> Sixiang whispered. <You're at the point in your cultivation where progress needs more than drugs and stones and cultivation sites.>
+
+“I can see the benefits you speak of, Lady Cai, but I think that many of the lords of the Emerald Seas will not respect it as much as a more traditional position for an heiress,” Gan Guangli warned. “That is unfortunate, but it cannot be denied.”
+
+“This is true,” Cai Renxiang admitted. “In the short term, it is likely that my—our—connections with the bulk of the nobility will be less than they would otherwise. This can be mitigated through personal effort, but it is absolutely a disadvantage.”
+
+“On the other hand, if we succeed in making something more here, we can use that success to boost those who do support us against the ones who didn’t,” Ling Qi said thoughtfully. “ I don’t know how that will work out though.”
+
+Cai Renxiang let out a long breath. “Breaking traditions…”
+
+Ling Qi was silent, and so was Gan Guangli. She knew what the heiress’ seeming non-sequitur was about. The image of the radiant titan burned in the back of her mind.
+
+It wasn’t going to be an easy choice.
+
+***​
+
+“And so you can see, our people were allies once, and it would shame our shared blood to not at least seek to come to an accord,” Meng Dan finished smoothly, bowing his head at the conclusion of his speech.
+
+All of them were present again, this time on the upper floor of the redoubt. The hall here was more lavishly furnished, thick furs and wooden paneling softening the harsh iron edge of the chamber. They sat at a round table of polished marble set in the center of the room.
+
+This time, they were not just speaking to Jaromila and Ilsur. Two other emissaries of the White Sky were present, though they were junior to Jaromila. The most obvious addition was a thickset woman who by complexion and features would not look out of place in the south Emerald Seas. Their hosts had sent out a message to the closest outpost of their countrymen, the Sibiar, the day before. This woman, Emissary Khadne, had been the one to answer, riding hard through the night to arrive for the meeting in the morning. Her garb was much the same as that of their hosts, the Alaniar, save for a preference for green and white colors. She wore her hair in thick dark braids.
+
+“You spin a very good tale, I will grant,” Khadne said. Where the others were seated, she stood, looking down over the documents and books on the table. She glanced to her left where they had set up the tapestry, which, to Ling Qi’s amusement, seemed terribly indignant at the use they had put it to. “But I am not so eager to call you kin.”
+
+Meng Dan’s research had traced down the closest connections to the old prince, and in the modern Emerald Seas, they lay in the Meng and the Diao clans.
+
+“Blood is, of course, not the only thing which determines kin, especially when such gaps in time are in play.” Meng Dan said humbly, “It is only my intention to show that it is possible for our people to get along.”
+
+“I will compare this to our records when I return. Granting that you are not speaking falsehood, the Sibiar will give their support to these negotiations.” Khadne gave Meng Dan one last considering look before sitting down. “To business then.”
+
+“Thank you, Emissary Khadne.” Ling Qi stepped in swiftly as Meng Dan resumed his seat, gathering the props of his presentation back into storage with a sweep of his hand. “If I might make a suggestion, could you ask your clan leaders to share any such findings when next our people meet? It would be to everyone’s benefit if such matters could be proven to everyone’s satisfaction.”
+
+“Such old texts are not so easily shared. They contain many secrets of the Sibiar people. But your words do have some merit,” the woman said, mulling it over.
+
+“I think, as matters stand, allowing all of our peoples to present more information would be beneficial,” Jaromila persuaded. “I would be willing to press for the release of some records on the migration period as well. If you would be so kind, Emissary Khadne, I would consider this a favor.”
+
+The two women shared a look, which Ling Qi suspected passed something more between them, before Khadne responded. “The era of the Khan Queens is over. We will see what texts can be safely shared.”
+
+“Mother will see effort put toward unearthing greater information on our end as well,” Cai Renxiang promised from her seat beside Ling Qi. “You understand that we had need to hurry with this delegation.”
+
+“Yes, the cloud folk are stirring,” Khadne acknowledged. “I suspect the echoes rolling through the land are your own folk’s reprisals.”
+
+“It is likely,” Ling Qi admitted. She didn’t know what exactly the woman was talking about, but the Sect Head was taking the field. “This is why we wished to make certain that we spoke with you to avoid any more unfortunate conflict.”
+
+“On that note, I have compiled some documents regarding those tribes which are friendly to us,” Jaromila said. “I hope that the clan of Cai will give this consideration.”
+
+Ling Qi gave Cai Renxiang a sidelong look. The other girl inclined her head slightly.
+
+“So long as the clans of the Alaniar and Sibiar ensure that their allies know that certain actions cannot be overlooked,” Ling Qi said. “The people of the Emerald Seas will defend themselves.”
+
+Behind the women, Ilsur, standing beside a few other men, smiled thinly.
+
+“I would respect you less if you didn’t,” Khadne grunted. “We will need to compare maps as well. We are far apart now, but the Sibiar claim portions of the Great Bulwark. I know the Alaniar do as well.”
+
+“It would behoove us both to include cartographers in the next delegation,” Cai Renxiang proposed. “We have a map available among the gifts we intend to give you, but it is best to avoid discrepancies.”
+
+“Very much so. I believe that the Alaniar can provide maps as part of the document packages,” Jaromila said pleasantly.
+
+As friendly as things were going at the moment, Ling Qi was sure that their maps, like the one they were providing, were not going to include too much strategic information. She was also sure the lines on their maps wouldn’t line up with the territory in the wall that was actually settled, any more than theirs did..
+
+“Should we be expecting representatives from the other clans of your confederation when next we meet?” Ling Qi asked, moving things along.
+
+“The diplomatic efforts in the north have largely fallen to the Alaniar and the Sibiar. We will speak with the Kirgia, but until more concrete arrangements are reached, it will likely only be our two clans,” Jaromila said. “Should we expect more varied guests?”
+
+Ling Qi said apologetically, “I cannot be certain who Her Grace will choose for the next delegation.”
+
+“Eventually, all of the Emerald Seas’ great clans will show interest,” Cai Renxiang intervened. “But participants will likely be limited at first.”
+
+“There is also the matter of where any further meetings are to take place,” Ling Qi added. “Meaning no disrespect toward your hospitality, this redoubt is very far from our lands and the passage quite deadly. Something closer to the middle of the Wall would be better for both of us for many reasons.”
+
+“Yes, we do not need foreign [Runy] in Demar’s Rest. I would not know how to begin communing with him to allow it,” Khadne grumbled. The word she used didn’t translate fully, but it seemed to be their word for formations. She glanced at Jaromila. “The claims…”
+
+“Such a working is within the abilities of the Alaniar’s craftsmasters,” Jaromila observed. “The expense would be significant if it is meant for more than one use.”
+
+“My Honored Mother does not wish matters of distance to ruin relations,” Cai Renxiang said in response. “We need but a location which the transportation anchor may be placed in.”
+
+“If I may offer a suggestion,” Ling Qi offered. She had discussed this with Cai Renxiang already, and they had decided it was the best choice. “There is a valley less than two weeks’ journey from here which contains some ruins which might be refurbished for our purposes.”
+
+The Hui ruin was a useful midpoint particular since the Sect was occupying the territory north of it. It was also far enough away to avoid spooking either side.
+
+“I would need more details on the location,” Jaromila said thoughtfully. “Where is this valley?”
+
+Having anticipated this, Ling Qi dipped her head and allowed Cai Renxiang to take the lead. Her liege was better at laying out exacting details. They took the opportunity to unroll the map they were given, depicting the Emerald Seas and the Wall, and their hosts in turn called for a map that they had on hand. It lacked the luxurious illumination and color of their gift map, but their map was still useful.
+
+Ling Qi drank in the details as Cai Renxiang and the emissaries spoke on the placement of the valley and its geography. It didn’t show much of their lands. She saw the mark for this redoubt and a dozen similar marks dotted throughout the southern Wall. The furthest east was well south of the Grave, and the furthest west looked to be south of the Western Territories. Most were clustered in the area directly south of the Luo lands. It also showed the delineation of territory between the Sibiar and the Alaniar. This region was apparently a neutral strip with the Alaniar’s lands being further to the south and west.
+
+Soon, the matter was hashed out, and the valley was carefully marked on the other side’s map.
+
+“Workable,” Emissary Khadne grunted as they all sat back down, the maps left open on the table.
+
+“We can have a small delegation provide the blood price to the site as soon as we return,” Cai Renxiang said. “It should not take more than a month to arrive.”
+
+“I can have outriders available to watch the location,” Khadne said. “They can be in place in a matter of weeks.”
+
+Ling Qi wasn’t sure if the woman was being competitive or not.
+
+“Such a simple transaction will be good for mutual trust,” Jaromila said. “But I think it would be best to think about future interactions more. We will need further time to speak with our leaders and make adequate preparations for the site.”
+
+“And we will need time to collect the materials for our sharing agreement,” Cai Renxiang agreed. “Do you wish to establish a timeframe for the next major meeting?”
+
+“Being exact would just lead to problems,” Jaromila worried. “We will no doubt both run into troubles and obstructions. Shall we tentatively set it for the midsummer of the next year?”
+
+Quickly counting in her head, Ling Qi clarified, “Midsummer being about eight months from now?”
+
+“That is roughly correct,” Jaromila said. “We would agree to a wide span of availability at that time to avoid confusion until our scholars have determined how our calendars match.”
+
+“That seems agreeable,” Ling Qi said.
+
+“Now if only we all had proper oaths we could agree upon,” Khadne muttered. “This is enough for an initial meeting though.”
+
+“Indeed. I am sure that in the future, we will find commonalities which both of our peoples may swear upon. Until then, you have my word and the honor of the Cai.”
+
+“And my word with the honor of the White Sky,” Jaromila said pleasantly. “I hope we will see one another again, Cai Renxiang, Ling Qi. Will you be sharing our hospitality much longer?”
+
+Her pronunciation of their names was still stretched by the accent of her speech, but she was clearly improving already.
+
+“I think it would be best if we carried word back quickly,” Ling Qi said. “But we still need to present the rest of our gifts and it would be rude not to allow you to share a meal with us before we take our leave.”
+
+“Indeed,” Cai Renxiang agreed, placing the silver ring containing their gifts on the table, “Please allow us to share the works of the Emerald Seas.”
+
+***​
+
+All too soon, it was time to go back out under the cold winter sun. The trip would be short this time. They were only traveling to the edge of the snowfield before using their escape talisman, and from there, it would be a week from the small fortress in the mountains back to the sect lands. Whatever came in the future though, this expedition had been a success.

@@ -1,0 +1,155 @@
+---
+id: c9da9e3d-699a-5387-b390-fed91fa084de
+page-type-slug: story-chapter-royal-road
+title: "Threads 240-Fox 2"
+slug: 0278-threads-240-fox-2
+partOf: forge-of-destiny
+position: 278
+ownLength: 2152
+unit: words
+publishedAt: 2022-08-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/977295/threads-240-fox-2"
+royalRoadId: "977295"
+---
+
+Beyond was the shrine center, filled with the fallen icons of little gods. Peeling paint that should have been too faded for detail nonetheless spoke the old tales of creation and the coming of Tsu in the currents of the liminal energy woven tight still through the walls. There, in the place of honor, stood the withered flowers of the Bountiful Earth, born of Tsu, patriarch spirit of the Emerald Seas. There, the silver disc of the Mother Moon lay untarnished still. And there, an icon of a river god was tarnished to black, and a dozen others were even less recognizable than that.
+
+At the center where the god of the shrine was to sit was a broken figure of gold, its nine tails drooping, melted and broken. Its altar was painted in the bright colors of dawn.
+
+“When festivals stop, when offerings end, blood and flesh remain,” Sixiang said quietly.
+
+Su Ling whirled on them, lips drawn back in a snarl. “Don’t you dare try ta excuse this shit ‘cause of something a disgusting fuck did forever ago!”
+
+Sixiang raised their hands defensively. “Not giving excuses here. Spirits are spirits though.”
+
+“Not all deals are good ones,” Ling Qi said. “But there are consequences even for breaking bad contracts.”
+
+Su Ling shot her a hurt look.
+
+“Explanations aren’t excuses, Su Ling,” Ling Qi said steadily.
+
+Her friend grimaced, dragging a hand through her hair. “I fuckin’ know that. Sorry. That doesn’t explain why that bitch isn’t dead. Plenty of places broke with the old ways and didn’t leave the spirits to do as they liked.”
+
+“That’s true,” Ling Qi agreed. “An unwanted god is just an obstacle after all. Why leave it, or being realistic, a descendant of it, still wandering around in one of the strongest counties of the Emerald Seas?”
+
+Su Ling moved into the room, glaring up at the broken statue in its center. It stared back with empty eye sockets, the gems that had once filled them long gone.
+
+They both flinched, qi rising against a threat as they heard a crash from behind them. A wisp clinging to the back of Ling Qi’s gown spotted a bushy haired shadow darting into a side hall. She shared a look with Su Ling, whose sharp ears had surely caught the pattering of feet.
+
+“Do you still want to ignore that?” Ling Qi asked.
+
+“Not all of us get all worked up just because they see a cute kid,” Su Ling retorted.”Wouldn’t they just be a weird memory figment at best?”
+
+“Could be a little cousin playing around,” Sixiang suggested. “What do you want to do?”
+
+“I don’t know. Say I accept this, that something way back went wrong, and caused… her. What do I do with that?”
+
+“It might not help your peace of mind, but figuring out your obstacles will still help you move toward your goal,” Ling Qi said.
+
+Su ling grimaced. “You’re right. I shouldn’t ignore that. It’s just…”
+
+“What did you want to find?” Ling Qi asked.
+
+“Some conspiracy or cult keeping her around?” Su Ling ventured. “Not that she’s probably just the shitty result of something unrelated.”
+
+Ling Qi thought back to her conversations with Meng Dan and sighed. “You’ve described most major events in history right there, or so I’ve been told.”
+
+“Izzat so?” Su Ling let out a bark of laughter.
+
+“Well, historical events are usually several unrelated fuck ups piling up in one place,” Ling Qi said, allowing herself to be just a bit vulgar. She was taking liberties with his words, but it was helping Su Ling, so she could apologize later.
+
+There was a scrape, and something fell again.
+
+“She’s not very good at that,” Su Ling grumbled. “Not sure if that makes it more or less believable.”
+
+Ling Qi hummed. It was just her gut, but she didn’t think the child, or thing wearing one’s face, was a trap, at least not from Su Ling’s mother. “If she’s going to keep following us, maybe we should just meet her now.
+
+“Time is probably better spent here,” Su Ling disagreed. “Maybe I get that sicko's memory talking again and find out something more.”
+
+They both looked to Sixiang, who held up their hands. “Whoa. whoa, what am I. some kind of tiebreaker?”
+
+“Yes,” they both agreed.
+
+Sixiang stuck out their tongue. “We should check up on the kid. If they are up to something, we don’t really want to just let her set up something.”
+
+Su Ling grimaced, not able to refute the logic. “Fine. You know it's not a real kid though, right?”
+
+“It’s pretty unlikely,'' Ling Qi agreed. The only reason she even considered the possibility was that a child with a fox’s bloodline might theoretically be born with a gift for dreamwalking.
+
+“Let’s go check this out then. I did already get the basic picture here,” Su Ling grunted, moving back toward the door.
+
+“Yeah,” Sixiang said unhappily, buffing the tarnished icon of the Mother Moon with their sleeve. “The picture isn't subtle. This place musta wanted to show it for a long time.”
+
+Ling Qi shared a glance with Su Ling and ghosted out of the room as a ribbon of shadow. Shapeless, bodiless, she flowed along the splintered ceiling, seeking the source of warmth and life and light in this dark place. Her companions followed behind in silence.
+
+It did not take long to find her quarry. The fox girl crouched inside the doorway of a room in one of the side halls, fearfully peering around the corner. They were as Ling Qi saw them last. Tiny, skinny, and filthy with brush and leaves and now smears of black ooze in their bushy hair. A single quivering tail curled around their body.
+
+Observing her for longer than a moment while molded into the shadows of the ceiling, the fox girl was clearly not a younger Su Ling. The hair was the wrong shade of reddish brown, her eyes were gray rather than green, and her facial features were subtly different. The child could have passed for her friend's sister though.
+
+Her spiritual senses showed her a child with innately awakened qi born from beast blood, albeit it was only a couple of meridians and a flicker of light in her dantian. Perhaps not long ago, Ling Qi would have only seen that, but her eyes were sharper now. The girl was not normal. Her meridians twitched and moved, one moment winding along her spine, and the next, it was branching through her legs, and now, it was coiling toward her eyes.
+
+It was unsettling and unnatural, not quite like anything she had seen before. She thought the information to Sixiang, who would pass it to Su Ling.
+
+The child looked up. Her eyes were liquid gold now.
+
+Ling Qi’s circulating qi caught in her channels. But then, the child looked away, peering warily down the hall at the faint sound of Su Ling’s footsteps.
+
+“So, squirt, you’ve been following us!” Sixiang said cheerfully, manifesting directly above the child, crouched on the broken table. Ling Qi tightened her grip on the energy of the dream.
+
+The child fell backward, sputtering and scooting her bottom across the dusty floor until her back hit the door frame.
+
+“Ah, I’m sorry, I’m sorry!” the girl yelped, covering her face with her hands. It was unpleasant to watch. Ling Qi knew that particular posture of cowering, expecting the rapid onset of pain.
+
+“Don’t apologize. Tell us what you want,” Su Ling said bluntly as she rounded the corner. Her arms were crossed over her chest, and her tails lashed behind her, two real and one of shadow and stars. But she couldn’t hide the flicker of discomfort that showed in her eyes from Ling Qi. Su Ling didn’t like this scene either.
+
+“I’m sorry,” the cowering girl repeated, peeking through her fingers. “But you’re not ‘upposed to be here.”
+
+“Who decides that?” Su Ling’s discomfort was palpable, and Ling Qi saw her gaze sliding to the right and left as if searching for something else to focus on. Finally, she grimaced and uncrossed her arms, coming up to crouch by the girl. “Look, we don’t want to hurt you. We’re just looking for information, okay? Who are you?”
+
+“I’m Xisheng,” said the child. She was still afraid. . “You're too big, sister. Momma won’t like that.”
+
+Su Ling narrowed her eyes at the name, no doubt recognizing what Ling Qi did. The girl called herself “sacrifice.”
+
+Sixiang looked a little sad, peering down. “You’re not a dreaming mortal or one of us. You're not even quite a fox, are you, kiddo? What are you?”
+
+The girl finally lowered her hands, hands now holding a darker shade of skin and more pronounced claws. Her eyes were brown, her hair was black, and her features a little rounder. But she was still afraid. “I’m Xisheng. I told ya. I’m the lost.”
+
+That childish face tilted, showing a spark of wisdom beyond its years. There was a shadow there behind her ever so briefly. Small forms still in the snow, blood and pain and ugliness Ling Qi thought she had left behind in the worst streets of Tonghou.
+
+The girl’s face changed again, lighter hair, lighter skin, and indeterminate gender. Their voice echoed strangely. “Most of us aren’t so lucky, sister. Why did you come back? Are you gonna eat us? So you can get even bigger?”
+
+Su Ling had flinched back, her hands white knuckled as she glimpsed what Ling Qi had already seen. This was… a ghost of sorts. But not of one little girl. They were a ghost of many, many little girls and boys pressed together.
+
+“Fuck, no! I don’t eat people,” Su Ling spat out.
+
+The ghost’s head tilted to the side, their curls auburn red now. “But how else are you gonna eat Momma? If you don't, she'll eat you. That’s what we’re for. She takes what she’s owed and gives back the prettiest gifts! We're all sacrifices. And it makes her strong.”
+
+“I’m gonna kill her,” Su Ling vowed. “Not eat her. Maybe I’ll make a rug, but I’m not gonna eat her.”
+
+“That’s dumb,” said Xisheng, now a little boy with mournful blue eyes and muddy hair. His dark furred ears twitched as he tilted his head, and his nose was black with frostbite. “Sacrifice is how you get big and strong. You might even get your sixth tail! No one has done that here in forever.”
+
+“No, it’s not,” Su Ling growled, standing up. “I don’t want the tails I already have.”
+
+“That’s easy to say when you're already big,” said the ghost, once again the young girl with twigs and leaves in her hair. The shadows of bruises and the scent of burning hair wafted gently from her. “When you’re already strong. Did you really forget how it is to be hungry already?”
+
+“I know being hungry ain’t everything,” Su Ling said. “Solving that is only step one. You need more than that, else you're just a monster. Like her.”
+
+“What’s a monster, sister?” asked the little ghost through a broken jaw and a mouth of shattered teeth. “Is it another word for a human?”
+
+It was hard for Ling Qi to remain silent, and she saw Sixiang biting their lip as well. But another part of her recognized that Su Ling needed to be the one who answered these questions.
+
+Su Ling’s expression folded into a scowl, and for a long, long moment, she stared down at the ghost. The ghost child just looked back at her curiously, now through the empty eyes of a skull filled with the same dripping black tar.
+
+“You’re not all the way wrong, you cheeky little shit, but it's not another word for human. It’s another word for person,” Su Ling answered. “It’s what we all are when we don’t try to be better.”
+
+Su Ling scratched at the skin near her right eye, and her  nail broke skin. The little cut bled, and the trail looked not unlike a crescent.
+
+“But what’s the difference between killing someone and eating them?” Xisheng asked innocently. “They’re gone either way. Isn’t it dumb to waste them?”
+
+“No, cause it's more important to keep in mind what the death is for. I don’t want to kill her cause it’ll make perfect cultivation materials or some shit,” Su Ling explained.
+
+“Hehe, Sister is a weird one. Maybe that’s why you got to be so big, and we never will,” giggled the ghost. “But I guess it doesn’t matter. Momma is waking up from her nap.”
+
+Despite her immaterial form, Ling Qi felt a sensation like goosebumps on her nonexistent skin, a sensation of crawling, predatory awareness.
+
+“Bye, Sister,” said the little ghost, smiling sadly now with a face that was whole and unscarred. “Meet’cha in Momma’s belly.”

@@ -1,0 +1,105 @@
+---
+id: 47147b3d-b884-5887-88fe-0c6df0677b21
+page-type-slug: story-chapter-royal-road
+title: "Threads 480-Grudge 4"
+slug: 0525-threads-480-grudge-4
+partOf: forge-of-destiny
+position: 525
+ownLength: 1390
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2710081/threads-480-grudge-4"
+royalRoadId: "2710081"
+---
+
+It was so much easier, now that it was not merely a matter of words and tone and body language, though she kept those tools sharp still. Qi shaped what people saw, and let her disappear in the wake of a feast so much more easily.
+
+Again. She found a man, the son of a mortal headman of a village in the outskirts. He was the second son, overshadowed by his brother.
+
+How easy it was, to curdle a small jealousy into something deadly. Never, never did she tell him what to do. Oh, no. A soft word here, a soft word there, just a little nudge from the sweet girl who held his heart and wanted him to be happy.
+
+His anguish at his brother's grave was so much sweeter with the shock that bloomed as she slipped a knife up under his ribs while embracing him. She gazed into his eyes until they went dark.
+
+It only took one year this time.
+
+One year’s sweet dream. The price she collected at the end was only fair.
+
+Her cultivation grew. She took out smaller work, while contemplating on the nature of love. A month here. A few there. Her dantian filled, sweet as honey, warm as blood. There was something binding her though, even as fresh channels opened in her spirit, weakening the limits of flesh.
+
+Mortal blood wouldn't be enough to break this chain she strained under.
+
+Ling Qi felt sick, deep in her stomach. She understood why this was among the lessons offered to her. Ming Xia had touched, in the lowest realms, what she was reaching for in the higher: the power to break people apart, and to twist their bonds and Ways against them.
+
+If they were to touch the crimes of the Hui against their subjects, then a low cultivator’s first unsteady steps along similar Ways was a lesson in and of itself.
+
+"I'm glad you decided to pull back. I don't want to think of how you'd feel sitting right behind her eyes while she does this. You beat yourself up enough for being selfish and manipulative."
+
+"I recognize it. I don't think I'm worse than the average person anymore, but the average still isn't very good."
+
+"Heh. When that's progress."
+
+Ling Qi felt the hot spray of blood again, distant through Ming Xia's hands. A different sort of betrayal. A different flavor. The chains of the first realm broke, and Ming Xia was released into the new cage of the second. It was as freeing as she remembered, for all that it seemed so small now.
+
+It was a joy Ming Xia barely even felt. A few seconds of thrill, before it was overtaken by imaginings of bloodied faces. Of Wei Jun, of the wife whose name she did not even know, of the Madam and all the women there.
+
+That startled Ling Qi. Where did that grudge come from? The madam, she understood. The physician, even, but the other women? They didn't even have faces in Ming Xia's memory. Why would they? They were just in the background, attachments to the one she really hated. Just property to be destroyed in the course of ruining one woman.
+
+People, even cultivators, had so little self-reflection.
+
+That night, the brothel burned, its women, and customers alike, while Ming Xia held the woman who had been the closest thing to her mother in her arms. There, among the crackling flames and the screams, was the first time Ming Xia felt what Ling Qi could call happiness because as the bonds of the second realm strained and broke on a choking song of smoke and pleas, she felt assured that Wei Jun's eyes would be hers again.
+
+With her experience, it was trivial to enter a man's home and slip into a new skin and new face, no more than a simple maid, brought on to care for the house. The years had gone by swiftly for Ming Xia as she whetted the blade she wielded. And yet, there was still a shock, the first time she saw the boy, Wei Jun's son.
+
+Her spirit trembled with such rage, it had nearly burst her new face like a bubble of soap.
+
+It was worse when her probing in those first weeks revealed to her that she would not be able to turn Wei Jun’s eyes to her. Wei Jun, she could observe, with senses honed by her contemplations of Love and Betrayal, had no eyes for anyone else. Not anymore.
+
+The pit of venom where her heart had been bubbled and frothed, but she had planned too long to just savage him like an animal now.
+
+No, she had a better plan.
+
+That woman, once peeled out of her skin, made a fine enough gown and mask. No one found the lump of meat that remained, cast down in chunks to the hogs in the undercity.
+
+There was a slight weakness to the plan. A part of her considered just becoming the mask and taking what she should have had all along. It would have been trivial to become Wei Jun's wife in truth.
+
+But the acid in her skin and the hate in her dreams would not allow it. Every time she saw the child, her guts seized and rankled, that old ache from that bloody bed returning.
+
+There was, she decided, after half a year of escalating torments, few more potent betrayals than a child who had discovered that their mother hated them. Nothing she did was where Wei Jun could see, for all that he grew increasingly fretful about his son's nightmares and growing ill health. She had to be wary of and play slowly around the priests he called. The one time she had fallen under suspicion, she had feigned such distress and illness from it that Wei Jun had cast the protesting priest out of the house.
+
+She'd been sure to be more subtle after that.
+
+Soon, she found Wei Jun's pain as his son, confined to bed and wasting away, far more satisfying than merely killing him in their bed, a knife in his gut while he clawed at the face of the one he loved.
+
+She whispered it in the boy's ear every night, too, that he was killing his father bit by bit. Oh, why was he such an awful son?
+
+She would kill Wei Jun on the night that his son died, as he poured out his grief to his wife.
+
+It was… perfect. No one could stop her vengeance now.
+
+On the final night of nightmares, she came to the boy,and he had looked up at her, not with frightened eyes, but with no eyes at all.
+
+Make the monster go away. Please. Bring Mommy back.
+
+The shadows whispered in the voice of a little boy who no longer had a mouth.
+
+Cold hands, with fingers that were far too long, closed around Ming Xia's throat.
+
+***
+
+Ling Qi jerked backward with a gasp, blinking away tears. Her heart thundered in her ears. She looked down at the table before her. It was frozen through, the wood utterly ruined. Holes had been punched through its top by her fingers.
+
+"I don't think they felt there was any use in you feeling the death. Not the point of the lesson,"
+
+Gears clicked and whirred. The puppet sat up, Sixiang's face slowly filled in over the blank mask, light mist rolling in in the morning.
+
+She supposed not. Or at least, learning what Shu Yue had done to Ming Xia in the end might very well be part of the next lesson.
+
+There were so many unkind and vile grievances in the world. Not just the great affairs of empires and provinces and clashing civilizations, but so many small things, too. And the small grudges were born from the greater ones, just as they informed them. Which came first?
+
+Cai Renxiang would say the greater crimes were the soil from which the lesser grew. Ling Qi was not sure that it was that simple. She had much to think about before she spoke to Shu Yue again.
+
+"I'm going to sleep. Will you stay with me, Sixiang?"
+
+The muse looked up, expression uncertain. "Qi…?"
+
+"I just want a little nap. There's so much to do tomorrow yet."

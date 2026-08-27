@@ -1,0 +1,53 @@
+---
+id: 4bf8cf98-f572-5d2c-ac84-899249691229
+page-type-slug: story-chapter-royal-road
+title: "Smelting 4"
+slug: 0004-smelting-4
+partOf: forge-of-destiny
+position: 4
+ownLength: 1666
+unit: words
+publishedAt: 2018-11-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/302839/smelting-4"
+royalRoadId: "302839"
+---
+
+Things grew rather more hectic as they reached the bottom of the path and the group splintered, various groups rushing off to secure their claims.
+
+For Bai Meizhen and Ling Qi, things went rather smoothly though. For all that the other girls seemed to dislike Bai Meizhen, they also seemed reluctant to confront her directly and certainly not over one of the homes in the second section. So it was with some ease that the two of them managed to secure a fairly luxurious space for themselves, or so Ling Qi felt.
+
+The second worst homes in the Sect were still a step above any accommodation Ling Qi had ever lived in. The squat stone building was only a single story, but in addition to a fairly spacious front room with a well kept hearth, there were also a pair of bedrooms, a tiny kitchen, and a third empty room laid out with thick mats. It wasn’t furnished with any particular luxury: simple pallets and roughly carven chests for their belongings were the only contents of the bedrooms. It did have a small backyard filled with freshly trimmed grass.
+
+Ling Qi separated from her new roommate to head into her bedroom and luxuriate in the fact that she had a personal bedroom. While she feared what might come in the days ahead, for the moment, she let herself enjoy the feeling of luxury.
+
+It did not take long to put her things away. The chest in one corner of the room was big enough to hold all of her meagre possessions - but she took the time to put it all away neatly and give herself a chance to process everything that had happened today.Eventually, she found herself in the front room of the house with the sun setting outside. Ling Qi had discovered a sheet of paper on the kitchen’s countertop, which stated that food and drink would be provided from a storehouse at the center of the district. Having retrieved and cooked a simple meal, she was sitting in front of the fire while Bai Meizhen quietly tended to the tea she was brewing in the clay pot they had found in one of the kitchen cubbies.With her now empty bowl set on the floor beside her, Ling Qi had the scroll for the Argent Soul technique open in her lap. She tried to decipher the odd diagram and the text around it, but it seemed no more than a collection of breathing exercises interspersed with flowery philosophical nonsense. It didn’t help that her ability to read was... rusty. She was beginning to feel irritated; she knew she was missing something, but couldn’t quite understand what.She was pulled from her thoughts by the whistle of the tea kettle. As much as she wanted to figure this out on her own… she should probably ask.
+
+Bai Meizhen had made no indication that she was willing to help her, but after spending most of the afternoon together to collect necessities for their home, Ling Qi felt that she was beginning to get a feel for the taciturn girl. Asking for help was probably against Bai Meizhen’s nature, as was offering help on her own initiative, but Ling Qi could ask.
+
+“Bai Meizhen, do you know what this part means?” she asked, pointing to a block of characters next to a line pointing toward the navel of the human figure covered in lines and squiggles in the diagram.
+
+The other girl took a moment to look up from the brewing tea, looking faintly surprised that Ling Qi was speaking to her. She didn’t really engage verbally unless prompted. She did lean forward, narrowing her creepy golden eyes to study the scroll, which Ling Qi helpfully turned to make easier for her.
+
+“It is describing the state of mind one must reach to begin absorbing spiritual energy into one’s dantian,” she responded a bit condescendingly. “It is the initial step in the simple exercises for the first stage of the technique once you have mastered the first breathing method.”Ling Qi let out a breath, not letting the other girl’s tone bother her. The other girl didn’t mean any harm and was being helpful.
+
+“What is a dantian exactly?” Ling Qi asked, keeping her tone even. She hated even more that she felt she earned the condescension with her ignorance.Bai Meizhen frowned, pausing as she poured herself a cup of the newly brewed tea. “It is the seat of a cultivator’s power, the core from which you channel energies through the meridians in your body. Filling the dantian is required to awaken and begin production of your own Qi.” She paused for a beat to stare at Ling Qi. “Qi is the energy which allows us to do… everything beyond the ability of mortals.”“I know that much,” Ling Qi responded defensively. “But how am I supposed to feel something inside of me like it says? It’s not like I can sense any of my other organs.”Ensure your favorite authors get the support they deserve. Read this novel on Royal Road.The pale girl pursed her lips in consideration. “Give me your hand,” she said brusquely, holding out her own left hand.“Why?” Ling Qi glanced at the girl’s hand suspiciously. She could see the movement of the small snake she had glimpsed in the girl’s sleeve a few times by now.“I will inject a spark of Qi into you,” Bai Meizhen responded impatiently. “It will hurt, but it will allow you to feel your dantian until it fades. You will need to practice in the future to avoid the need for such crutches though.”“How much pain are we talking about?” Ling Qi asked warily, even as she raised her hand. She knew everything depended on her being able to gain enough strength to defend herself by the end of three months. She was still suspicious and some part of her railed against so easily trusting the girl in front of her not to hurt her… but could she afford that right now? Leaps of faith were all she had.
+
+As her housemate took her hand, Bai Meizhen answered, “It is painful, but my Aunt did this for me when I was eight years old. It should be no trouble for you.”Ling Qi was about to respond when she felt a sudden heat in her palm, followed by an explosion of pain in her gut. It felt as if a burning knife had stabbed into her and then violently twisted, and she couldn’t help but double over clutching her stomach. A slight whimper escaped her lips as she felt her eyes beginning to water. She didn’t know how long it was until the burning pain faded to a knot of heat behind her navel, throbbing like a second heartbeat. Was this the ‘dantian’ the other girl had mentioned?Speaking of Bai Meizhen, she was observing Ling Qi quizzically over the lip of her teacup, and Ling Qi noted absently that a second cup had been placed before her. Letting out a shuddering breath, Ling Qi sat up, one hand still held over her stomach.
+
+“That… that was more than painful,” she rasped, glaring at the other girl.“Was it?” the pale girl asked, seeming genuinely surprised. Ling Qi didn’t know if she was misreading the other girl’s cues though.
+
+“My apologies. You can feel the dantian now though, correct?”“I can,” Ling Qi admitted grudgingly.“You should drink your tea then meditate while it lasts,” Bai Meizhen said evenly. “Otherwise, it will have been for nothing.”Ling Qi slugged back the tea in her cup, grimacing at the gross, bitter flavor of it then moved to stand, loosely clutching the scroll in her hand. She was still irritated and wary that she was being messed with. Sun Liling’s words echoed in her thoughts. For now, she was determined to at least try and reach this ‘awakening’.
+
+It had been strange.
+
+Ling Qi had never liked sitting still for too long before, but after she had shut the thick door to the meditation room and sat down to practice breathing as the scroll instructed, she found that her mind did not wander nearly as much as she expected it would. Rather, she seemed to fall into the pattern that the scroll described with ease as if she had been doing it for years.When she felt she had it down, she removed one of the glimmering red stones from her pocket and held it in her hands clasped in front of her stomach. She focused on the warmth of the stone and the throbbing pain in her abdomen and cast away her thoughts.
+
+The heat was all that mattered. Her body, the cold stone room - none of it mattered. Just the pulse of pain in her belly and the heat in her hands.
+
+She was still empty.
+
+Painfully so. The heat of the stone was her only hope for filling the void she could now feel.
+
+She focused on her breathing and began to pull in time with her breath. The energy in the stone began to move, cresting and ebbing in time with her breath, until finally, it began to flow inwards. It trickled into the slowly fading knot of pain Bai Meizhen had given her.
+
+Slowly, she replaced that unpleasant sensation with a comfortable warmth. It was frustrating; something was blocking the energy from entering her body and much of the energy dispersed into the air instead of being absorbed.When she opened her eyes and found the room dark, she felt oddly refreshed. She didn’t think she had ‘awakened’ yet, but she could feel the warm steady pulse of the spiritual energy now. In contrast, the stone in her hand had turned gray and lifeless. Rubbing it between her fingers thoughtfully, she watched as it crumbled into dust.She stood and stretched then quietly left the room. She felt better than she had in years, and despite some initial setbacks… she felt like she could do this.

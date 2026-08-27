@@ -1,0 +1,135 @@
+---
+id: 5371c617-14d0-59b8-b4e7-ac558261f574
+page-type-slug: story-chapter-royal-road
+title: "Threads 65-Foreshock 2"
+slug: 0083-threads-65-foreshock-2
+partOf: forge-of-destiny
+position: 83
+ownLength: 2749
+unit: words
+publishedAt: 2021-03-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/652672/threads-65-foreshock-2"
+royalRoadId: "652672"
+---
+
+“I believe I could serve best in the defense of the river valley,” Ling Qi said as her turn to speak came around. “Given the wide area of effect which my arts have and my mobility, I will be able to effectively screen the outskirts of the valley for threats, and my spirits are more effective on the defense.”
+
+She spoke as confidently as she could manage and felt a twinge of relief as Guan Zhi nodded once in agreement. “I find your assessment sound enough. Your post will be the southmost village then, Officer Ling. You will have a squad of six under your command in the region.”
+
+Ling Qi stepped back, bowing in acceptance as others stepped up to make their cases. She did not know the other two commanders assigned to the village region, a pair of young men at the appraisal stage of the third realm. They were both older than her, but not excessively so. Her acquaintances from the Luo party ended up in different roles. Alingge was assigned as one of the two disciples serving directly under Guan Zhi while Sha Feng was assigned to the messenger cadre.
+
+Once everyone had their assignments, they were dismissed to receive their dossiers on their subordinates and assigned regions from the Sect office. From there, they were off, separating into their regional groups. With a bit of quiet urging from Sixiang, Ling Qi made an effort to be sociable and learned the names of the two who would be in charge of the other villages. Wei Ping and Song Li were both sons of baronial families in their early twenties. They seemed confident and professional enough at first impression.
+
+The journey south took them through thickly wooded hills, following a winding gravel road that threaded between the verdant hills. Though the distance would probably take a day or two for lower realms or mortals, for third realm cultivators, it was a matter of hours.
+
+Soon, the river valley opened up before their eyes. The river wound like an azure ribbon down from the sky-blocking mountains of the Wall, and in the great cleft that it had carved in the land, people thrived. All along the length of the valley were fields and rice paddies, ordered shapes standing in contrast to the wilder regions around. Little houses and structures were scattered throughout the valley with humble homes of wood and rough quarried stone standing beside great carven totems that radiated qi, keeping the dangers of the woods at bay.
+
+The villages themselves were tiny things, gatherings of a few dozen structures set on relative high ground to protect them from the river’s flooding. Each was home to no more than a couple hundred people with half again that number scattered through the farm houses and fields in their surroundings. Ling Qi bid farewell to her fellow disciples as they passed first village, and then the next, until she was alone, proceeding toward the final, most southerly of trio.
+
+The last village was nestled along the river, straddling a stony ford where the river ran shallow. In the distance, she could see the faint silhouette of Icebreaker Peak, named for the way it broke the cold winds blowing north on its flank. The slopes of the valley were wide and gentle as the river bent east. Here, she met the scouts who would be under her command, a pair of second realm veterans and four first realm recruits drawn from the region. If she were honest with herself, she still felt uncomfortable with the overawed deference of the first realms; the professional manner of the veterans was much more agreeable.
+
+Once the pleasantries were out of the way, she spent a short time listening to reports on recent issues that had cropped up at the outskirts of the village: a few hungry wolves, some blockages in the river, and a minor disease spirit found festering in a marshy stretch of river. All of the issues had been taken care of in the last day or two, save for the disease spirit, but such a thing would be easily dealt with by a cultivator of her calibre.
+
+Once she had confirmed their patrol routes, a formality considering that the routes were set by the regional commander, Ling Qi set off to do just that, in the brief window of time before she was due to meet with the main force officer, who had not yet arrived. As she suspected, handling the disease spirit was not a difficult task. Between Zhengui’s vital presence flushing the creature out and Ling Qi’s own Hoarfrost Refrain technique, the minor spirit was quickly destroyed. Upon returning to the village, Ling Qi found herself surprised once more.
+
+“So diligent,” Gu Xiulan said with a smirk as she greeted her on the path outside the village. “Going out to perform your duties before I even had a chance to arrive.”
+
+“There is no point in wasting time,” Ling Qi retorted. “I admit, I was not expecting to see you assigned here. I thought you would want a more forward position.”
+
+Xiulan’s smirk faded at Ling Qi’s observation, and she let out a frustrated huff. “Yes, well, it was determined that my qi would be too disruptive to the spirits of Icebreaker Peak, and I was hardly going to accept a soft assignment at the other mountain. At least I will see some action here.”
+
+While Ling Qi didn’t disagree with her conclusion, she did give her friend a worried look. While she would not have thought to question it before, her recent experience with that Bai and the bandits had changed her view on just how difficult real battle could be in comparison to the structured duels in the Sect. “I am glad to have you. Do you think you’re prepared for a real battle though?” Ling Qi asked in a low voice, relying on Sixiang to keep their conversation discreet.
+
+“Of course I am.” Her friend gave her a genuinely hurt look, and Ling Qi regretted her question. “Hmph, I will forgive you, if only because I know your sincerity.”
+
+Ling Qi smiled sheepishly. “Sorry, sorry, I guess I was just thinking of how things were for me.”
+
+“I said I forgave you,” Xiulan sniffed. “In any case, I suppose I will see you around. I will ensure that there is tea out when you come to give me your reports.”
+
+“I’ll look forward to it,” Ling Qi replied. “I am glad to have someone reliable at my back.”
+
+“Obviously,” her friend smirked. “Now, off with you. I must make sure the rabble I have been assigned is in good discipline.”
+
+Ling Qi nodded to her friend as they parted ways, turning back to head for the scouting outpost that served as her command center. However, before she arrived and began to plan how she would handle things in the coming days, she had something more personal to attend to. Finding a lightly wooded and unsettled copse along the rim of the valley, Ling Qi let her spirits out of her dantian.
+
+“Ugh, finally,” Hanyi said, stretching her arms overhead. “Riding around all day is so boring.”
+
+“Hanyi should complain less,” Gui said sleepily as he got his legs under him, rising to tower over the rest of them.
+
+“Easy for you to say,” the young ice spirit sniffed. “You just sleep, you big lummox. Well, we did get to have some fun and get a little snack.”
+
+“Mph, bad taste,” Zhen grumbled with none of his usual affected pomp or dignity.
+
+Ling Qi thought back to the thoroughly churned up marsh and Hanyi happily consuming the qi and heat of diseased animals until they were no more than inert lumps of frozen meat. At least  Hanyi’s method was less messy than Zhengui’s. “I’m sure we can find you something good in the future,” she said, reaching up to rest her hand on Zhengui’s shell. “For now, is everyone feeling alright?”
+
+“Worrywort,” Sixiang laughed on the wind. “Like any of us are going to get sick from a little baby spirit like that.”
+
+“Yeah, auntie is right for once,” Hanyi said. “Big Sis worries too much.”
+
+“Brat,” Sixiang grumbled, though Ling Qi could tell that the spirit was only pretending to be annoyed by the new nickname Hanyi had started to use for them.
+
+“Gui definitely feels good,” her little brother rumbled cheerfully.
+
+“Yes, weak little sick demon cannot infect I, Zhen,” his other half agreed.
+
+“Right,” Ling Qi shook her head. “Anyway, we need to talk. I am going to need everyone’s help to make sure this goes well. That means certain people need to behave.” She added the last with a sharp look to Hanyi. The young ice spirit returned her gaze with the most innocent expression that she could muster. If Ling Qi had not known her, she might even have bought it.
+
+“Yes! I will keep all the bad people and beasts away from the nice humans!” Gui’s emphatic declaration caused her to break her staring contest with Hanyi, who herself gave Zhengui an outraged look.
+
+“You weren’t asleep at all!” she complained.
+
+“Not the whole time,” Zhen admitted. “But we must pay attention to Big Sister.”
+
+<These kids,> Sixiang snorted in amusement, their words echoing in and with Ling Qi’s own thoughts.
+
+“That is the general idea, yes,” Ling Qi said, ignoring the whole aside for the moment. “But Zhengui, you will have to be careful. If you don’t watch your steps, you could damage the farms and then the people won’t have food.”
+
+“Gui will be careful,” her little brother agreed swiftly.
+
+She studied him for a moment. As with her outing with Bao Qian, Zhengui was eager, almost painfully so. She was glad that she had chosen a role that would give him something concrete to do. “Good, because I am going to trust you to do something on your own. Zhengui, while we are out here, I want you to walk around the edge of the farmland. You have to keep anything bad away.”
+
+“Hmph, a trivial task,” Zhen preened.
+
+“But don’t be afraid to signal me,” she admonished before he could brag too much. “Like we practised, alright?”
+
+While his accuracy with his molten missiles was still a little lacking at distance, the flare of qi was a powerful and noticeable one, especially in the cool, wet environment of the river valley. She reminded herself to discuss the signal with Xiulan when they took tea this evening.
+
+“What’ll I be doing?” Hanyi asked curiously. “Am I gonna go with the big doof to keep him out of trouble?”
+
+Ling Qi gave Hanyi a look. While she trusted Hanyi when it counted, she did not trust that the young spirit would not get distracted and end up playing tricks and pranks if left to her own devices. “You are going to stay with me. You’re going to be my messenger,” she said sweetly. She knew Hanyi well enough that locating the spirit with her divination technique was easy. Using Hanyi, she could quickly pass messages over a pretty wide area.
+
+Though she knew it was not a new concept given the Ministry of Communications’ existence, she was rather proud of having found a good use for something as simple as the Initiate’s Viewing Pool technique. She would have to adjust the relay points for her subordinates to take it into account.
+
+So, with her plans in mind, Ling Qi set about establishing her command’s deployment. After some deliberation, she assigned one of the two veterans under her command to deal with putting together the reports and such at the command center while she took over the man’s own routes. She kept in contact with headquarters via the Viewing Pool technique and used Hanyi to stay in regular contact with the other scouts.
+
+Every time her routes took her back near the village, she would look in on Zhengui. Her little brother seemed to be enjoying himself stomping around the edge of the valley, and Zhen in particular preened under the awed attention of the farmers who spied him. It probably didn’t help that after the first day, people were leaving out small offerings for him.
+
+In the evenings, she would listen to the reports of the man she had put in charge of assembling reports, read through his work, and head into the village to share information with Xiulan before beginning her night route. Things very swiftly began to fall into a routine.
+
+That was not to say that there were not moments of excitement. On the second day, a trio of glider-mounted tribesmen had appeared below the cloudline en route to one of the outlying farmhouses, but a molten shot fired from Zhengui had scattered them, and they fled back above the clouds. Here and there, some beast or spirit would slither through the patrols and make trouble.
+
+However, on the fourth day, something unusual happened. As Ling Qi flowed through the trees like a shadow, alternatively flying or springing weightlessly from branch to branch, the earth shook. It lasted only a moment, and it was not strong, only a momentary tremble that set the trees swaying and the qi of the earth stirring chaotically. It seemed to come from the south, but worrying as it was, a quick check in with the outpost showed nothing immediately amiss, and so Ling Qi continued her path.
+
+However, soon after, she paused when she felt a familiar presence coming from the south. Sure enough, Sha Feng, the young man she had hunted the mirage lion with, came bounding and gliding over the treetops, a pair of brightly painted silk fans in his hands. Though the fans did not let him fly, the wind gusts they made certainly made his jumps count.
+
+She waited as their eyes met, and he bounded down, landing atop a branch within shouting distance. “Lady Ling,” he greeted in a hurried tone. “I have been charged with informing the officers that a troublesome occurrence has happened on Icebreaker Peak. A deadly spirit has been awakened. Lieutenant Liao and the other officers are currently engaging it, but they believe it will take some time to subdue.”
+
+Ling Qi’s eyes widened marginally. A spirit that Senior Brother Liao could not immediately subdue must be very dangerous. “I hear you, Sect Brother,” she said formally. “Do we need to send aid?”
+
+He shook his head. “No, but know that reinforcements from the mountain will be unavailable, and prepare your command for the land to be stirred up in the south. Please excuse me, Miss Ling. I must continue spreading the message.”
+
+Ling Qi nodded sharply, and he was off again. At her side, Hanyi gave her a curious look.
+
+“Are you worried about the mask guy?” Hanyi asked her guilelessly.
+
+Ling Qi shook her head but did drop down from the branches, heading for a nearby pond. “Sect Brother Liao will be fine, but I have a bad feeling. Let’s return to the outpost and make sure everyone knows.”
+
+A short time later, she arrived to find the outpost quite lively. Messenger cranes fluttered in and out of the entrance at a furious pace. When she stepped inside, she arrived to see the soldier she had left at the command center looking harried as he scribbled out another message on formation paper.
+
+“Ma’am.” He stood up and bowed as she stepped in. There was a touch of relief on the middle-aged man’s features. “I am glad my message reached you. There is a situation. One of the outriders in the northwestern village spotted several tribesmen with bonded mounts below the cloudline to our west. Shortly thereafter, the northeastern village reported something similar. They are requesting support.”
+
+Bonded mounts meant that they were at least second realm, Ling Qi thought. “Unfortunately, I did not receive your message. I returned because a messenger informed me that the spirits of the land are likely to become agitated due to a battle on Icebreaker Peak,” she said.
+
+The veteran scout looked like he had bitten into something sour, and it was only his discipline that kept him from swearing. “Reinforcements will be out of the question then, ma’am?”
+
+“None from the south,” she agreed with a nod. Looking out through the south-facing window, she could see the claw-like shadow of the mountain. As she did, another tremor ran through the ground.

@@ -1,0 +1,129 @@
+---
+id: 0adbf4b8-f018-58da-baf1-47c4389275d3
+page-type-slug: story-chapter-royal-road
+title: "Threads 153-Rot 2"
+slug: 0183-threads-153-rot-2
+partOf: forge-of-destiny
+position: 183
+ownLength: 2442
+unit: words
+publishedAt: 2021-11-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/786236/threads-153-rot-2"
+royalRoadId: "786236"
+---
+
+Ling Qi rose from the net of dream webbing as if it were no more than air, no longer smiling. Beneath her, the solid shell of Zhengui, already aglow with volcanic light, formed and beside her was Hanyi, smiling viciously. Caught in mid-leap, the three spiders screeched in unison as she played the howl of a blizzard on her flute.
+
+Behind her, the lump of webbing where Xia Lin had stood blazed with pitiless radiance before ripping apart, the thicker structural webbing beneath shattering and leaving a ragged hole where she had stood. A comet of white light roared through the air, and the largest of the spiders screamed as a radiant blade cracked open her chitinous abdomen and severed the strings of power that radiated from her, causing the hypnotic colors and venomous qi shrouding the others to fade.
+
+Two spiders hung behind them in confusion, weaving a net to prevent a flight that wasn’t coming.
+
+Ling Qi smiled as her domain weapon emerged, and The Mist flooded out, drowning the hundreds of lesser spiders in further confusion as she focused on the three frostbitten spiders scrambling back onto their webs in front of her. From her flute came the Spring’s End and the Echoes of Winter, the air around her cooling frighteningly fast as Hanyi sang along. Webbing cracked as the moisture in it froze and expanded.
+
+The damage to the web chamber grew worse as Zhengui rumbled angrily beneath her and winter’s chill met volcanic heat, transforming cold mist into scalding steam as a ring of magma erupted from below. Spiders shrieked in their hundreds as silk withered, melted, and caught on fire.
+
+Above, Xia Lin zipped past, leaving a blinding trail as her boots stamped down on the first spider’s face, launching her upward to pierce the ceiling and the belly of one of the spiders above, severing another web of enhancing energies before it could finish forming.
+
+But their enemies were already beginning to regain their bearings. Three spiders leapt over the roiling ring of magma, skittering on webs of qi through the air and seeming to blink from one place to the next as they circled and closed in on her. Ling Qi and Hanyi vanished before their fangs could find purchase, leaving a trail of shadows and snowflakes as they reappeared in midair, Hanyi dangling from her back.
+
+It left the spiders skittering across Zhengui’s broad and expanding back as he took advantage of the growing space in the ruined chamber. A flicker of silver zipped past in the corner of her vision, and Ling Qi saw one of the two rearguard spiders squeal as an arming sword buried itself in the creature’s face, and radiant energy crackled through its spirit, causing its whole body to seize and convulse.
+
+Ling Qi swooped forward toward the recovering spider matriarch, and Hanyi leapt off of her back with a laugh as she passed over Zhengui, grasping onto one of the three spiders there. Her Singing Mist Blade shot toward the second with the melancholy wail of a lost child, and Zhen’s fangs pierced the third. Behind her, song became silence, drowning the sounds of battle.
+
+Ling Qi played the song of an advancing glacier as she bore down on the matriarch, and the force of her qi punched the beast through the gray and sagging webbing, weakened by flame and radiance.
+
+Following through, Ling Qi emerged among shattered walls and dark stone to face the hissing spider matriarch, whose sword-like limbs sliced through the air, leaving ripples where they passed through Ling Qi’s form. Webs of illusion and sleep wove around her, but she passed through their net as if they were not there, and the echo of the glacier smashed the spider against the stone wall again, cracking carapace further.
+
+Ling Qi alighted upon the creature’s bleeding back and sang of hoarfrost, and ichor froze as a lethal cold crept into the beast’s wounded body. Behind her, radiance washed out, lighting the expansive cave as Xia Lin erupted from the sagging cocoon of webbing with a spider impaled, wriggling on the end of her blade. She spun her weapon twice over her head and flung the creature off with a thunderous boom, followed shortly after by a wet splat of impact on the cave’s far wall.
+
+Ling Qi looked down at the struggling spider with a touch of pity. They could not have known that Ling Qi and, it seemed, Xia Lin so perfectly countered their abilities. Even now, the spider below her was confused and shocked, barely able to understand how swiftly things had gone against her. Ling Qi felt the gathered power in her lungs, the silence that would spill forth with just a little push.
+
+She sang, and the spider matriarch grew still.
+
+Ling Qi returned to the central nest on a gust of wind to find that Xia Lin had already returned, punching back through to the finish one of the lesser spiders. She politely averted her eyes from Zhen, whose throat still bulged with a half-swallowed spider, its twitching legs poking out of his mouth. Observing the last thrashings of the spider Xia Lin was finishing, Ling Qi pursed her lips.
+
+Looking upon it now, it seemed that her estimations of the spiders’ power had been off. While the matriarch at least had been an equal, this one was only in the early stage of the green realm.
+
+“It is an uncommon but not unknown effect among Hui-aligned beasts,” Xia Lin explained when Ling Qi voiced her thoughts. There was a crack and a wet noise as she twisted her halberd once, and the gleaming arming sword circling her shoulders flitted down, embedding itself to the hilt in the creature’s body. “It is a sort of linking. It offers the most powerful creatures in the link a measure of control over their lessers in exchange for a blurring of the lines between cultivation stages. I had thought it strange that so many of such close cultivation would cooperate.”
+
+“I did not give you a chance to relay information,” Ling Qi said, dipping her head in apology. “You destroyed the effect in the initial exchange?”
+
+“She did,” Xia Lin answered, tightening her grip on her halberd and pulling it free. The polearm spun expertly in her hands until its head faced up again, splattered ichor already boiling from the intricate blade in a cloud of acrid smoke, leaving it clean and unblemished.
+
+“Of course,” Ling Qi acknowledged. She glanced away at the sound of bare feet on stone, and Hanyi ran up to her, grinning.
+
+“Did you see, Big Sis? I totally ruined one of them by myself!” Hanyi said proudly, holding a handful of red globules that took Ling Qi a moment to recognize. They were flash frozen spider eyeballs.
+
+She rested her hand on Hanyi’s head and smiled. “Good job, little sister.”
+
+Xia Lin looked at both of them pensively. “I will admit, I had some misgivings about your plan, but it seems that I have misjudged you somewhat.”
+
+“Hmph. When Big Sis is confident, it's for a good reason,” Hanyi huffed, annoyed at her praise being interrupted.
+
+“I like to think so,” Ling Qi said dryly. “I knew that I would not need to worry about being entrapped, and I was certain I could free you if need be.”
+
+“Your thoughts mirrored mine then,” Xia Lin said. “But it seems that we both know the truth that one must never cease moving forward.”
+
+Ling Qi met Xia Lin’s eyes then, and with The Mist still shrouding the battlefield, she really looked at the girl with the full power of her domain thrumming beneath her armor.
+
+Forward, forward evermore. Bound by thy honor alone, strive for the gleaming dawn.
+
+Ling Qi gave Xia Lin an acknowledging nod. It seemed they had more in common than she had thought. Then, her Singing Mist Blade shimmered, and the mist began to fade. The arming blade embedded in the corpse at their feet flashed. They were once again just two young women standing in the ruins of a burnt out nest.
+
+“What do we do now, Big Sister?” Zhengui asked, trundling over. “Gui does not think the little spiders will talk.”
+
+“They don’t need to,” Ling Qi replied. She looked toward the one part of the broken-up suite of rooms still whole, just visible beyond the dead bulk of the spider carcass the nest had been built into. “I can see where the energies flow now.”
+
+***
+
+Making their way across the ruined floor, Ling Qi was wary. She would have thought that if the spiders had any other allies present, like this “lord,” they would have noticed and joined the fight, short as it had been. She supposed it was possible that they were being watched or that any observers had retreated instead.
+
+Ling Qi’s wisps spun throughout the dusty chamber but found nothing.
+
+“This is the target then?” Xia Lin asked quietly, pointing her blade at the small stone chamber surrounded by rubble.
+
+“Inside,” Ling Qi agreed, gesturing at the wooden door set in the closest wall. It was a finely fitted thing, still holding its polish, preserved by formations which had failed everywhere else. The twisting, spiralling lines of energy which flowed through the complex converged here, wrapping around a stone column that extended from the ceiling before meeting at some hidden source inside.
+
+Behind her, Zhengui lumbered along at a bit over half of his full size with Hanyi perched on his back. There was no point in concealing them now.
+
+Humming to herself, Ling Qi observed the door. It was sealed tight. Not a single wisp got through to the interior.
+
+<Nothing from me either. Place is warded against dream spirits,> Sixiang murmured. <Airtight, too.>
+
+What a troublesome room. Ling Qi examined the door and its frame, studying the characters etched into the wood, filled with powdered silver. There was no handle or lock. Her fingers itched for her formation-breaking tools, but she was stymied by the complexity. They were already going to be cutting it close on reporting back.
+
+“Xia Lin, do you believe you can remove the obstacle without setting off any defenses?”
+
+Her companion stepped forward, assessing the doorway. She nodded sharply. “These patterns are old. They have not been updated against modern countermeasures.”
+
+Ling Qi raised an eyebrow. “Are there countermeasures to Her Grace’s work?”
+
+Xia Lin made a disgruntled sound as she gestured for Ling Qi to step back. “Nothing is absolute, and my equipment and techniques are hardly the pinnacle of the Duchess’ craft.”
+
+Ling Qi fell back beside Zhengui, who turned his heads curiously. Hanyi was inattentive, rolling a frozen spider eye around in her mouth like a piece of sugar candy.
+
+“What are you waiting for, Big Sis?” Gui asked.
+
+“There’s no reason for me to risk the defenses. We can hardly be quiet at this point,” Ling Qi said, patting him on the head. “Just be ready in case whatever is inside attacks.”
+
+Her little brother bobbed both of his heads intently, focusing on the door and Xia Lin. Hanyi gave her a grin stained red by her “candy” and a thumbs up.
+
+Ahead of them, Xia Lin brushed her fingers across the curved head of her halberd, and gleaming white light spread behind her touch, transforming metal into liquid light. The haft of the weapon hummed visibly in her hand as she took a short grip and stabbed forward. The blazing head punched through stone like soft clay, droplets of molten stone splashing across Xia Lin’s armor as she began to drag the blade upward from the base of the doorframe.
+
+Formation chains sparked and sputtered as they were carved apart, and veins of white crawled through stone and wood as threads of radiance wormed outward through them. It was, Ling Qi thought, a sight she had seen once before in a dream. But this doorway was not the shadow of an ancient king, and where the white threads crawled, the intricate work unraveled and went dead. Xia Lin carved a rough rectangle around the doorway.
+
+With her senses enhanced to search for watchers, Ling Qi was able to see as the bonds between particulates of qi that made up the door dispersed in a flash of white, the cut-out material disintegrating before her eyes into a loose cloud of glittering, gauzy thread that itself dissolved like the tatters of a dream before the morning sun.
+
+The putrid air that rolled out of the newly open chamber almost made her retch. Through watering eyes, she saw Xia Lin herself stagger, reflexively covering her mouth and nose with her hand. Zhen and Hanyi reeled back as if struck, and even Gui shook his head violently as if bothered by flies.
+
+And flies there were. They boiled from the room in a great cloud, greying the air with their bodies and filling the chamber with the buzzing of their wings. She saw a hundred tiny sparks of radiance as flies impacted Xia Lin’s armor and died.
+
+She saw then what lay inside. It was a small room that once might have been partially furnished, but what remained of that lay in rotten ruin on the floor, crawling with flies and maggots and other verminous shapes.
+
+However, the bare stone walls were not unadorned. Paper and parchment were pinned up all across them, haphazard and wild, covered in scribbled text and drawings. She saw fragments of wild plans, plots to infiltrate clans and sow plagues, to subvert individuals, and to sabotage road wardings. She saw drawings of cities aflame and people who might have been members of the province’s comital clans humbled and on their knees, and images of proud and haughty folk, mounted on spiderback, riding in triumph down city streets.
+
+Most of all, there were dozens of portraits of what could only be the Duchess painted in stark black ink. Some were torn apart, and some were marked by wild strokes of the brush or smears of blood and fouler things.
+
+In the center of the room sat a corpse. Sallow grey-green flesh hung from its bones, quivering with the influx of air. The meat of the corpse writhed with maggots and teemed with flies, but it wore resplendent robes of green and silver, cut in a somewhat archaic fashion. Smooth black hair, incongruously clean and intact, flowed like silk down the corpse’s back and hid its face from view.
+
+It was only when she saw its hand move that she realized that it was not simply a corpse.

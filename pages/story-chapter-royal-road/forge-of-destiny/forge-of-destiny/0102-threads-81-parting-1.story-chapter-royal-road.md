@@ -1,0 +1,111 @@
+---
+id: 0408665e-51c8-5c17-a374-aaed7f8c9494
+page-type-slug: story-chapter-royal-road
+title: "Threads 81-Parting 1"
+slug: 0102-threads-81-parting-1
+partOf: forge-of-destiny
+position: 102
+ownLength: 1660
+unit: words
+publishedAt: 2021-05-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/677894/threads-81-parting-1"
+royalRoadId: "677894"
+---
+
+Ling Qi felt lighter in the days that followed her time with Sixiang. She had solved the problem, even if she still wasn’t wholly sure how, and her cultivation for the month was on schedule.
+
+In her attempt to better understand Sixiang and their worries, she had cultivated a succession of arts in Songseeker’s Ceremony, Playful Muse’s Rapport, and Melodies of the Spirit Seekers. Songseeker’s Ceremony was the successor cultivation art to Eight Phase Ceremony that she had created in her vision quest with the aid of the Grinning, Hidden, and Dreaming Moon phases. Given her experience with the base art and that the successor art was tailored to her, she had easily reached the second song of Songseeker’s Ceremony, learning to channel the qi used in her base cultivation to simultaneously develop her domain and to better develop the growth of her bound spirits.
+
+The Playful Muse Rapport art was strange to her. Unlike other arts, there were few qi exercises. What it did have mostly consisted of methods to accentuate the natural reverberations in a cultivator’s qi when expressing things to improve others’ perception of the speaker’s honesty and sincerity. The rest was essentially just an extremely dense manual of rhetorical technique, with a few subtle qi techniques  that were more accompaniment to the lessons on body language and tone distributed throughout..
+
+Melodies of the Spirit Seekers was more mystical, since it dealt with spirits. It was as much ritual as art, detailing exhaustively the methods for dealing with many minor spirits, and learning how their simple minds worked. This was then used as a foundation to launch into communications with more complex spirits, and determine how to convince or coerce them into long term agreements.
+
+Thankfully, her final planned cultivation was much less stressful. The Roaming Moon’s Eye technique was simply an extension of her introductory divination art, but she still cultivated it dutifully. She did not think it would ever be her focus, but she could admit that being able to get a wider view of the situation would help immensely in the future.
+
+So, she was hardly surprised when Gu Xiulan approached her while she was cultivating at the Silent Stones. Ling Qi had seen her coming after all, but the saddened expression on her face was worrying.
+
+Ling Qi’s reaction to Xiulan’s reason for coming had been one of bewilderment. “What?” Ling Qi asked.
+
+“Have you grown moss over your ears while cultivating?” Xiulan asked with a scoff. The other girl rested her hand on her hip and tapped her foot against the dry brown grass. “I said that I am going home.”
+
+Ling Qi stared at her friend’s haughty expression. She hardly even needed her recent training to see the lie in it. Distress welled in her thoughts, and lessons and speech exercises fled from her thoughts. “Why, though? Your rank has been rising quickly, and so has your cultivation. You fought really well at the village, too. Why would your family…?”
+
+“It is because I have been doing so well that I am being withdrawn.” Xiulan smirked, but there was a bitter edge to it. “There is a war brewing, Ling Qi, in case it has already slipped your mind. The Gu family cannot risk both Yanmei and myself.”
+
+Ling Qi fell silent, staring at her friend. She fought down the urge to clench her fist and make denials. She wanted to make plans to find a way to convince her friend’s family to change their minds but…
+
+<You can see that you wouldn’t be able to convince even her,> Sixiang murmured sadly. <She’s sad but proud, too.>
+
+Ling Qi closed her eyes for a moment. “What does this mean for you then? You say they can’t spare the both of you, but don’t you have many older sisters?”
+
+“None of them save Yanmei have shown my talent. Father believes that my growth can best be guided from home,” Xiulan answered, tossing her hair. She gave Ling Qi an irritable look. “Where are my congratulations, you rude girl? I know your standards are skewed thanks to that liege of yours, but it is quite an achievement to receive this kind of acknowledgement from my family at my age.”
+
+“I’m sorry, Xiulan,” Ling Qi apologized. “I just…” For a moment, she restrained herself, propriety and her own nerves holding her back. It didn’t last. Too much restraint could be harmful. She stepped forward, and before her friend could do more than widen her eyes in surprise, Ling Qi wrapped her arms around Xiulan. “I don’t want to see you go.”
+
+Xiulan squirmed uncomfortably in her grip, not quite pushing her away, but stiff and surprised nonetheless. The difference in their height probably didn’t help. “I… You… What in the world are you doing?” Her voice was muffled by Ling Qi’s gown.
+
+Ling Qi felt moisture forming in the corner of her eyes. “You’ll just have to bear with it and give me a second.”
+
+“It’s not as if I want to leave you behind either,” Xiulan grumbled at last. Though she did not return Ling Qi’s hug, she did manage to awkwardly pat Ling Qi on the back. “Now, release me already. What in the world has gotten into you?”
+
+“It’s my fault, I think,” Sixiang said as Ling Qi released Xiulan, their voice carrying on the wind. “Sorry about that.”
+
+Xiulan glanced around sharply as she smoothed the wrinkles in her gown before relaxing. “Your other spirit, the moon one. I forgot about them.”
+
+“What can I say? I’m a lil’ shy,” Sixiang murmured.
+
+Ling Qi glanced away, her cheeks darkening,embarrassed by her impulsiveness now that it was over. She would have to meditate more. “Sorry, Xiulan.”
+
+Xiulan glanced away, blinking rapidly. “Apology accepted. Honestly, doing something like that outside.”
+
+Ling Qi smiled wanly and didn’t comment on the wetness she spied in the other girl’s eyes before it curled away into steam. She frowned then. “Wait, what does that mean for your betrothal? I thought you were supposed to marry into the Fan family.”
+
+Xiulan smirked. “That is certainly a side benefit of being in line for the heirship.”
+
+“Does that mean Fan Yu is going to marry into the Gu then?” Ling Qi asked. Noble marriage practices still felt odd to her. It was strange to talk about a man marrying into a woman’s family.
+
+Xiulan gaped at her and then shook her head rapidly, the ornaments in her hair jingling. “No, of course not! The Fan would never agree to such a thing.”
+
+Right, the Fan were a comital clan, and even if Fan Yu wasn’t anywhere near the heirship, he was still part of the main family. That had been a silly question. “Congratulations,” she said, smiling. The thought of Xiulan leaving still hurt, but knowing that one of the things that had been burdening her friend most was gone helped, at least a little.
+
+“Indeed.” Xiulan preened.
+
+“When will you be leaving?” Ling Qi asked tentatively. She hoped there would still be some time.
+
+“The first of the month,” Xiulan replied, her cheer fading. “Father already has my carriage and guards on the way.”
+
+“I wouldn’t think you would need them,” Ling Qi teased halfheartedly. She should have expected that.
+
+“It’s not as if a lady can be expected to handle every little beast on the road herself,” Xiulan said haughtily. “Would you have people imagine the Gu to be so poor?”
+
+“Of course not,” Ling Qi said.
+
+“In any case, I must soon get back to my sister. I sought you out today to extend an invitation. Will you see me off? It has been some time since we have had one of our little ladies’ night,” Xiulan asked, a touch stiffly.
+
+Ling Qi studied the emotions on her friend’s face. “I’ll make time. Just make sure there are plenty of sweets.”
+
+Xiulan huffed but looked pleased. “Really, still a ruffian at heart. I remember you scraping the bowl with your fingers the first time.”
+
+“Don’t pretend you don’t have a sweet tooth,” Ling Qi chuckled. “Tell me the day, Xiulan. I’ll be there.”
+
+“The last day of the month. I already received approval from my sister to take the evening off from training,” Xiulan replied.
+
+They exchanged their goodbyes, and as her friend left the field, Ling Qi sat down heavily on her boulder.
+
+“What are you going to do?” Sixiang asked. Ling Qi was thankful for the faint pressure of hands on her shoulders.
+
+“There’s nothing I can do,” Ling Qi replied with a bitter smile. “It’s not my choice.”
+
+Saying the words felt like ripping off a scab, but she couldn’t say that she didn’t feel better afterward. Something that wasn’t quite contentment settled in her stomach. All she could do was see her friend off. Well, that and bombarding her with letters. She would not allow her connection to one of her best friends fray. They would see each other again.
+
+“Heh, that’s a scary look on your face,” Sixiang chuckled. “I like it.”
+
+“Hush, you,” Ling Qi huffed. Still, it didn’t feel right. She wanted to do something now. She wanted to help her friend, give her something…
+
+“It’s not wrong to give someone you’re parting from a gift, right?” Ling Qi asked aloud.
+
+“Mm, I don’t think so,” Sixiang hummed. “What are you thinking?”
+
+“I’m not sure.” Ling Qi traced patterns of frost on the stone with her finger as she thought. Her most immediate thought was jewelry; Xiulan did love her shiny things. A matched pair would… Well, she would have to hunt down something that didn’t have romantic implications, but she could do it.
+
+Then she recalled that Bao Qian had mentioned something about recording songs. She had balked at the idea, disliking the idea of selling her work and compositions, but if it was just for Xiulan… She still had a few days. She would compose something.

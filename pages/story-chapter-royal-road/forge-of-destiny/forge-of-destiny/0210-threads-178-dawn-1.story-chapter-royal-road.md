@@ -1,0 +1,137 @@
+---
+id: 13d60e68-0342-50e8-8a77-bd56af71fb75
+page-type-slug: story-chapter-royal-road
+title: "Threads 178-Dawn 1"
+slug: 0210-threads-178-dawn-1
+partOf: forge-of-destiny
+position: 210
+ownLength: 1945
+unit: words
+publishedAt: 2022-01-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/833233/threads-178-dawn-1"
+royalRoadId: "833233"
+---
+
+When Ling Qi found Cai Renxiang in her office, she stood in front of a mirror. It stood out in the perfectly ordered room, a foreign thing disrupting the geometric perfection of her liege’s decor. Full length and plain as such things went, it sat against the far wall of the study. Cai Renxiang stood in front of the mirror, arms behind her back as Ling Qi quietly closed the door behind herself.
+
+“I didn’t even know you owned a mirror,” Ling Qi said, breaking the silence.
+
+“How did you imagine that I arranged my appearance?” Cai Renxiang asked absently, not turning toward her.
+
+“I don’t know. Maybe you used the flat of your saber?” Ling Qi joked lightly, crossing the room to stand behind her. Looking over Renxiang’s shoulder, she studied the contrast between them, white and gold to blue and black. She could almost be mistaken for a shadow. The way her reflection blurred at the edges didn’t help.
+
+“Amusing,” Cai Renxiang said, though she didn’t really sound amused, even in the subtle way that she sometimes showed. “You know why I asked you here.”
+
+Her smile faded. They had only just arrived back at the Sect; Ling Qi had not even greeted her mother again yet. Now, she wouldn’t have time until after the report to the Duchess. She didn’t hold the delay against Renxiang though. “I understand. What I saw…”
+
+“I trust that you will not speak of such things to others,” Renxiang uncharacteristically interrupted. Her voice was stiff, and there was something unpleasantly fragile about it.
+
+<Like she even needs to ask,> Sixiang scoffed, but there was no heat in the thought.
+
+“Of course not, Lady Renxiang,” Ling Qi said. “I’ll swear it, if you like.”
+
+“That is not necessary,” Cai Renxiang said, squeezing her eyes shut for a moment. “You have questions.”
+
+“I do not want to pry where I am not wanted,” Ling Qi demurred.
+
+“I would rather answer than leave you to imagine answers,” Cai Renxiang insisted.
+
+Ling Qi bit her lower lip, remembering what she had seen in Renxiang’s dream. Sixiang hissed in discomfort as the memory of searing light and a doll with bloody hands surfaced. “Liming’s appearance is…”
+
+“It has always looked like that,” Renxiang said.
+
+“... She,” Ling Qi corrected without thinking.
+
+In the mirror, her liege’s eyes flicked toward her. “Rather, it has always mirrored my current appearance. I do not believe any others have perceived that before however.”
+
+She didn’t acknowledge the interruption at all.
+
+<Probably not something to press. Honestly, I’m surprised you did in the first place,> Sixiang advised.
+
+Ling Qi was surprised too. Perhaps it was just that conversation with Lin Hai surfacing. Perhaps it was her musing on what a person was. Somehow, depersonalizing Liming just didn’t seem right. “Is the resemblance because of what Her Grace did?”
+
+“I can only assume. I am not privy to her methods,” Cai Renxiang said. “I do know that I am unable to form normal spirit bonds and that Liming cannot be attuned to any other person. I cannot even be very far from it for long periods of time.”
+
+In the mirror, bloody light gleamed along the threads of the crimson butterfly splayed across her chest.
+
+Ling Qi knew that Cai Renxiang had never had other spirits, but knowing that she was unable… She swallowed, storing the implications away. “Cifeng then…”
+
+“A custom work. Mother made it work,” Cai Renxiang said, quietly stroking the hilt of the blade at her hip. Ling Qi felt the unhappy rumble in the room's spiritual qi contrasted against the metallic purr. “Presumably, she believed a control instrument was necessary. I would not be surprised if Cifeng was a planned portion of the project to begin with, however.”
+
+Ling Qi wondered about that, Liming hadn’t seemed terribly inconvenienced when she stepped into the blade in the dream. Perhaps because it was not the actual blade spirit? “I am sorry for breaking the dream as I did,” Ling Qi apologized.
+
+“That foolish thing? Do not apologize.”
+
+“It wasn’t foolish,” Ling Qi argued.
+
+“It was a shallow and childish recreation of what I sought,” Cai Renxiang said harshly. “Perhaps because I am still a foolish child who even now cannot properly envision the world I wish to usher in.”
+
+“Or perhaps because it was an illusion crafted by a mountain hag who had never experienced the existence of a hamlet, let alone a city,” Ling Qi shot back. “You are placing too much on your own shoulders again, Lady Renxiang.”
+
+Their eyes met in the mirror, and to Ling Qi’s surprise, it was her liege’s eyes who flicked downward first. “Perhaps.”
+
+“Regardless, it was my method that I regret,” Ling Qi continued. “But in the end, I knew you would not want me to risk our mission with something less certain.”
+
+“You know me then,” Renxiang said. “Through our actions, we might yet spare many lives, now and in the future. I would not sacrifice that for my own comfort.”
+
+“All the same, please remember to think of yourself too, Lady Renxiang,” Ling Qi said softly. “Once we have reported to your mother, you deserve rest.”
+
+Renxiang didn’t answer her for quite a while, instead looking toward the mirror. Just as Ling Qi was thinking to speak up again, the heiress moved. Still staring into the mirror, Renxiang traced her fingers along the red pattern on her chest. “I wonder sometimes if I am the craftwork, and Liming, the girl.”
+
+“Why would you…”
+
+“I am aware that my rigidity and the justice I seek are not natural. My… focus and drive are not normal. Rather, is not an unending well of anger the far more human thing to feel in the face of what was done?” Cai Renxiang spoke over her, not really seeming to notice her words.
+
+The light in Liming’s threads burned, and Ling Qi swore she could see the eyespots in the pattern narrowing in the mirror. The air thrummed with bloodlust even as Cai Renxiang’s grip on the hilt of her saber turned white-knuckled. She could almost hear the scream of rage locked behind the blade.
+
+Ling Qi moved forward and laid her hand on Renxiang’s shoulder. “Lady Renxiang, leaving aside philosophy, you’re the one I swore myself to, not Liming. Whatever your mother did, you are Cai Renxiang.”
+
+The girl’s shoulder was stiff under her grip. After a long moment, Renxiang put her hand over Ling Qi’s and squeezed her eyes shut again. “We should prepare to meet the others.”
+
+In the mirror, Liming glowered at them both, but the screaming had stopped.
+
+***
+
+All traces of uncertainty were gone from Cai Renxiang’s expression and body language by the time the others had arrived. The farspeaking talisman array had been set up already and was now beginning the hours-long cycle of powering its formation properly. Their appearance in court was scheduled for ten minutes after it would be finished to account for any variance.
+
+For now, all five of them sat around the hearth in Cai Renxiang’s front room. Renxiang was by herself in a regal seat set at the top of the half circle formed by the furniture. Ling Qi and Gan Guangli occupied the couch set to her left, and Xia Lin and Meng Dan the one on her right.
+
+“Firstly, allow me to thank you for all of your efforts in this expedition,” Cai Renxiang began formally. “Each of you performed your roles very well, and thanks to those efforts, we achieved success in all of our goals.”
+
+Everyone bowed their heads slightly, murmuring the proper thankful responses. Cai Renxiang paused a moment to let the noise die down before continuing.
+
+“Now, we must present our efforts to court, and that is a challenge unto itself,” she continued. “If the seeds we have sowed are to become something more, we must show that it will be worth the effort to my mother and the lords of the Emerald Seas. Xia Lin, I would like you to present the tale of bringing down the Hui remnant you and Ling Qi discovered.”
+
+“I will endeavor to present the achievement well,” Xia Lin said humbly, bowing her head.
+
+Cai Renxiang acknowledged her with a nod. “Meng Dan, you will present your findings among the treasures that reinforced our points. I give you allowance to make mention of the auction that the three of you have arranged among yourselves, but keep the focus on the new proofs you uncovered.”
+
+Ling Qi shared a look with Xia Lin and Meng Dan.The treasures she and Xia Lin had acquired were quite a trove, and it would take some time, a number of months at least, to set up a venue for their sale. Meng Dan had, in exchange for his clan’s first sale rights to the tapestry talisman, offered to help them arrange it.
+
+“You do me honor, allowing me to speak before Her Grace,” Meng Dan said. “I have already collated my reports into something presentable to non-academics, of course.”
+
+“Very good,” Cai Renxiang said crisply. “Gan Guangli, you will present the journey after the valley up until we made contact. On the matter of the cyan spirit, simply state that Baroness Ling was able to negotiate us safe passage.”
+
+“Yes, Lady Cai,” Gan Guangli rumbled. “I will ensure that the trials of our travel are known.”
+
+Ling Qi wished him luck. Occupied as she had been in searching the inside of the dream space with Meng Dan, she had only heard about those minor trials and troubles secondhand.
+
+“You and I, Baroness,” Cai Renxiang said after acknowledging Gan Guangli’s response, “will handle the narrative of the negotiations. Our reports will be interrelated. You will speak of the cultural and spiritual matters while I will discuss the material aspects of our dealings. Do you believe this is acceptable?”
+
+“I do,” Ling Qi agreed, turning over the events in the south in her head and considering how she would present them. She had already done some thinking in that regard, but it would be good to finalize things.
+
+<You mean you’ve had me playing speechwriter in your skull,> Sixiang corrected.
+
+That was the same thing, Ling Qi thought. Sixiang was her muse after all.
+
+Ignoring the spirit's snort of laughter, Ling Qi kept her attention on Cai Renxiang.
+
+The heiress had paused, turning her gaze to Xia Lin and Meng Dan. “I am not unaware of the secondary purpose of your presence on this expedition. What are your thoughts on this matter? Speak plainly, please.”
+
+“You are all quite fun, I think,” Meng Dan said with a faint smile. “I think I should like to return to the library for a time, but perhaps when we meet again for the auction, we can speak more on the future.”
+
+Xia Lin hesitated before answering. “I… have some disagreements with the style of your command, my lady, but I believe your choices advance the health of the province. If you would have me, I would not object to remaining at your service.”
+
+“I will consider your application then,” Cai Renxiang said. “Sir Meng, I will look forward to speaking with you and your grandmother on such matters in the future.”
+
+Renxiang changed the subject. “However,” she continued, “there is one matter that must be resolved before we make any further plans for our presentation. “We must decide how involved we intend to be in the diplomacy with these foreigners in the future. We have already spoken of the virtues and vices of staying our current course or taking advantage of this opportunity. So let us choose.”

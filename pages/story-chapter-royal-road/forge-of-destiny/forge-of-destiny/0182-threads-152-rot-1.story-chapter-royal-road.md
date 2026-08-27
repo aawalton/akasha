@@ -1,0 +1,173 @@
+---
+id: 4da19b13-e24b-5ac9-ac3f-329a51c7c673
+page-type-slug: story-chapter-royal-road
+title: "Threads 152-Rot 1"
+slug: 0182-threads-152-rot-1
+partOf: forge-of-destiny
+position: 182
+ownLength: 2826
+unit: words
+publishedAt: 2021-11-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/784723/threads-152-rot-1"
+royalRoadId: "784723"
+---
+
+Landing in a crouch, she sent the wisps spiralling out into the chamber at the bottom. It was small, only a few meters across, but three tunnels reached out. Small and cramped, they were roughly carved, most likely shaped by the quick excavation of an earth technique.
+
+As the wisps began sending her information from down the tunnels, Xia Lin dropped down beside her, making only a slight thump despite all of her armor. She held her halberd in a low guard position, eyes flicking from one tunnel to the next.
+
+There were spirits down here as well, Ling Qi thought, as images from all of her wisps fed in at once. Little creatures of mud and river water crouched in corners and floated in stagnant puddles. More of the little knot-hole eyed creatures clung to damp roots that poked through the ceiling as well, and down the third tunnel where stone had caved in, fungal creatures clung to muddy stones, supping on a rotting log.
+
+Ling Qi gestured sharply to the leftmost path. “Dead-end, tunnel collapse,” she said quietly.
+
+“And the other paths?” Xia Lin asked just as quietly, smoothly orienting toward the other tunnels.
+
+Ling Qi sorted through the information. Down the middle path, there were a few rooms filled with the rotted remains of furniture. It seemed like a small barracks or waystop. There were beds, a few racks of weapons, and a small chest that radiated the energies of spirit stones. Something to check later. Down the right path was a room with three equally spaced pools of clear clean water over which hung a contraption of brass and mirrors, now tarnished and cracked. She wasn’t expert enough to say for sure, but it looked like some kind of clairvoyance set up.
+
+“Disused scrying chamber on the right path. Barracks in the middle path,” Ling Qi answered.
+
+“Unsurprising,” Xia Lin muttered. “We are fortunate that the site seems abandoned. The Hui were fiendish in their trapmaking.”
+
+Ling Qi eyed the many intricate formations carved subtly into the walls around them. Comparing the style of the arrays to Xuan Shi’s or the Sect’s work she had studied, it seemed terribly fragile to her. Too much complexity. Relying on cascading energies would no doubt be powerful, but without maintenance, the formations had broken easily.
+
+“Do you have any experience with this sort of thing?” Ling Qi asked.
+
+“Indirectly,” Xia Lin replied. “My elders in the regiment have passed down their experiences rooting out the many boltholes of the Hui. I myself have only experience in removing proscribed cults from abandoned locations.”
+
+Ling Qi pursed her lips. She had never been deeply involved in the temples or cults. She was pretty sure the Empire took a light hand with them though, so to be proscribed... “That must have been unpleasant.”
+
+Xia Lin simply nodded, her lips set in a thin line.
+
+Ling Qi jerked her head toward the scrying room tunnel, sending a silent whisper to Sixiang to watch their back. “Anything I should be aware of?”
+
+“Hidden entrances, dream labyrinths, and blood locks,” Xia Lin answered. “Be wary of using your insubstantial movement to pass through things. The Hui were more paranoid of their own than enemies.”
+
+Of course they were, Ling Qi thought grumpily. The web of energy for the formations above ran deep through the stone, too deep to be easily disrupted. She did not have any arts suitable for large-scale destruction. Even Call to Ending was not suited for attacking earth and stone that did not have flesh beneath.
+
+“Do you have any formation breaking methods?” Ling Qi asked as they entered the hall.
+
+“My blade pierces and shatters the works and lies of the wicked,” Xia Lin replied confidently. “Her Grace made it with that purpose in mind.”
+
+Ling Qi glanced toward the halberd head, pointing out in front of them, and watched the faint buzz of radiant qi that hummed along the grain of the metal. It brought to mind Meizhen’s tool from last year, the one she had brought from her clan vaults to shatter Yan Renshu’s defenses. The skein of energies in Xia Lin’s weapon were so much more refined and sharp than the obsolete siege rod Meizhen had used.
+
+“Let me try my hand at any obstacles first. If there is anyone left, we don’t want to alert them. I’ll have Sixiang signal you if I want you to strike.”
+
+Xia Lin nodded her assent. There were no more words as they traversed the tunnel and entered the clairvoyance chamber. It was as old and abandoned as the rest, but entering herself, Ling Qi noted details that her wisps had missed. The contraption above was corroded and hung with webs, and the shadowed ceiling teemed with normally sized spiders. Hissing, they scurried from their presence as they entered and lurked between brass gears and fittings. Withered spirits, half drained, twitched feebly in their webs.
+
+Ling Qi crouched down by the closest of the water pools. It was rounded and lined with fired clay tiles, shaped and sized for use with divination arts not much different than hers. If she had to guess, the tarnished mirrors hanging above were some kind of focus for a more advanced form of divination. Ling Qi pondered whether she could make use of it for anything or whether it would be better just to break it.
+
+“There is an entrance here,” Xia Lin said quietly, making her look up.
+
+She followed the girl’s pointed finger to a section of wall to their right. Squinting for a moment, she saw the shimmer of illusory qi. Stone swam before her eyes and became a sheet of webbing covering a narrow gap. With a thought, she sent a wisp flying toward it, only to frown as the glimmering qi construct stuck to the strands like a fly in a web when it tried to pass.
+
+She dismissed the wisp and stood, studying the barrier. There was no formation work that she could see, just the natural workings of a spirit in the spidersilk. Was it worth pushing through?
+
+She narrowed her eyes, peering through the strands. Inside was a funnel of webbing covering every surface, transforming the stone passage into a round tunnel.
+
+She eyed the little spiders above. Some of them were developed enough to be minor spirit beasts. Perhaps…
+
+“What was the disposition of the spirit beasts associated with the Hui afterwards?” Ling Qi asked.
+
+Xia Lin paused in her study of the webs. “Scattered and disjointed. Some followed the Hui unto death, some retreated to the woods and reverted to feral behavior, and others merely requested a renewal of contracts with the Duchess.”
+
+Ling Qi grunted in annoyance. No easy answers then.
+
+She pinned a particularly fat and fuzzy brown specimen with a stern look, causing the hand-sized arachnid to freeze in place. It was mid red in power, and she sensed just enough spiritual potency that it could probably understand intent.
+
+Letting musical flows of qi tinge her voice, she spoke softly but authoritatively. “If there is one who rules this place, I would parley with them. Go and inform your ruler.”
+
+She let the weight of her attention fall, and the spider bolted away, scurrying up into a crevice in the rock.
+
+“You give up our advantage of surprise?” Xia Lin asked, more curious than accusing.
+
+“If I had you cut through that barrier, it would do the same. And even if I could probably slip through, that would leave me alone with too many unknowns. If they’re hostile and too strong, we can run and get the others, or we can just bypass this place and risk the illusions with Lady Cai.”
+
+<Zhengui, I want you to burn everything and bring the passage down behind us if it comes to that,> she thought.
+
+<Zhengui will be happy to squish dumb spiders who will not talk,> her little brother asserted cheerfully.
+
+Xia Lin seemed satisfied with her answer.
+
+It was not long before the webbing blocking their path twitched, and the strands drew apart, fully revealing the funnel beyond, offering silent invitation. The moment that the strands parted enough, a wisp, dimmed to invisibility, darted down the tunnel, and in her thoughts, she felt Sixiang focus in on the feed of information coming from it.
+
+What lay at the end of the tunnel was a chamber woven of webs anchored to the chitinous limbs of a genuinely massive spider. The spider was still and empty of spirit though, an empty corpse and no more. Within the chamber itself, there were many hundreds of lesser spiders, six of them worth individual attention. Each one was larger than a human, closer to the size of a horse. It was difficult to get an accurate read on their cultivation—each one was covered in twitching hairs that disrupted the vision of her wisp and Sixiang’s wind—but they were certainly within a stage of her and Xia Lin.
+
+They hadn’t noticed her wisp. Instead, they seemed to be engaged in debate among themselves. Their frontmost limbs wriggled as they gesticulated at one another, filling the chamber with the sound of scraping carapace.
+
+She narrowed her eyes a touch as she realized the meaning of their movements and the vibrations they were sending through their webs. They were frantically planning an ambush.
+
+Such a blatant use of a good faith request annoyed her.
+
+<We’re going in,> Ling Qi thought to Sixiang. <We can still get useful information, and I’m confident we can handle an attack that we’re aware of. Relay our findings and plan to Xia Lin.>
+
+Ling Qi glanced over toward the other girl in time to see her eyebrows rise slightly. Xia Lin’s eyes flicked over to meet hers, but no more than that. She tapped the side of her helmet once, and a blank facemask shimmered into existence across her face. Any trace of emotion or personality vanished behind a veil of studious patience and professionalism.
+
+That was good enough. Ling Qi would be doing the talking here.
+
+Ling Qi began to walk toward the tunnel and nudged Zhengui and Hanyi to be ready in her thoughts. Xia Lin fell in a step behind and to her side.
+
+As they walked, Ling Qi began to hum softly under her breath, letting a trickle of qi into her voice. Her senses followed the sound, the modified technique of the Harmony of Dancing Winds art, and she joined Sixiang on the breeze to widen her sphere of awareness, slipping through the hair-thin gaps in the webbing that would have caught her wisps.
+
+The short journey down the tunnel was made in silence, save for the faint sound of metal-shod feet pulling away from sticky threads. Ling Qi began to get a feel for the crumbling stonework that lay beyond the tangled webs. The chamber where the dead large spider lay was the center of a suite of rooms, their walls long broken apart to create a larger chamber, although a couple were intact.
+
+Emerging into the main chamber, Ling Qi put on a smile and looked up to where four large brown spiders now hung. Their forms bristled with sharp brown hairs that quivered with every motion in the air. The other two had crept off somewhere. The webbing still distorted her senses where it lay thick, and it was taking time to decipher the movements within the narrow funnel tunnels that crisscrossed outside.
+
+Ling Qi brought her hands together and bowed, smiling as she did so in the center of the chamber. “Greetings, Honorable Matriarchs. This envoy apologizes for the somewhat rude intrusion into your home.”
+
+Through the wisp still bobbing unseen in the room, Ling Qi watched them, the faint rustling of limbs and the fluctuations in their qi. The largest spider, crouched in the webs directly ahead of her, rubbed its two front limbs together, fangs quivering as it emitted a dry voice. “Your apology is accepted, but only this once.” Haughtiness, pride, and self-assurance; these, Ling Qi read in the creature. No indication that it was speaking for another. “What brings you before us?”
+
+Ling Qi grew more confident that there was no hidden higher realm lurking about. The echoes of her humming continued to whisper through the webs, and she found two of the spiders creeping close to the entrance, likely to close off the retreat.
+
+“We seek passage through the lands of your kin above—”
+
+“Not kin,” whispered a smaller spider to her right. Its whispery voice was joined by a sussurruss of others, angry and low. One of the larger spider’s legs drummed on the webbing.
+
+“Those above have betrayed the true-clan. They are not kin,” the largest spider said.
+
+“My apologies again,” Ling Qi said obsequiously. She even meant it. After all, it was rude of her to conflate the spiders above with these, so crudely intending to betray hospitality. “Nevertheless, the mighty working of illusions above bars our path. Might I be able to convince you to lower its protection for a time while we pass?”
+
+There was a rustling among the gathered spiders, and Ling Qi caught a little of the communication moving through vibrating webs. In the end, communication was an expression of qi between individuals, and her arts had taught her to read them regardless of medium. They were aware of the illusion formations and perhaps how to turn it off.
+
+“The true-clan may be willing to bargain for this service,” the largest spider whispered, crawling a meter or two further down. Optimal range for a technique?
+
+Above, Ling Qi finally tracked down the other two spiders which she knew to be hidden. They were of a size with the one she spoke to, and they were directly above, weaving a technique between them, an entrapping web that would leave them vulnerable to the others.
+
+Through Sixiang, she relayed the positions of all the hidden spiders to Xia Lin. Xia Lin remained as still as a statue of steel.
+
+“I see. And what might we do for the true-clan in exchange?” Ling Qi asked, finally straightening up.
+
+“News,” whispered one spider. Again, the word was repeated throughout the swarm again and again.
+
+“Yes,” whispered the larger spider. “Have the traitors been driven from the great Heavenly Pillar?”
+
+Ling Qi’s smile was bright indeed as she nodded. She had heard enough from her liege and the history books and other people to qualify the last generation of the Hui as such. “Though it seems the fight is ongoing.”
+
+That sent a thrill through them, whispering in the webs. She felt the vibrations murmuring of “The Return” with almost religious intensity.
+
+The two far above weaving their trap paused just a moment, and she heard the whisper of something, a name or a title. “Lord Scribbler?” That was a little concerning. All of the larger spiders were female.
+
+Was there actually a surviving Hui about? She wondered at the name, but spirits often referred to humans in odd ways.
+
+“May I ask, Honored Matriarchs, what you are doing so far in the south? I was not informed of your presence before beginning my own expedition.”
+
+“We wait, and we watch,” the larger spider whispered, fangs rubbing coarsely against one another, “until the time comes. Many were weak, many disloyal. Not we. Never we.”
+
+The spiders in the rear were now just above the exit, waiting at hidden tunnels to strike. Those above were finishing their weave. Time was growing short.
+
+“Are there humans among you yet?”
+
+“Lesser-kin, like you, envoy, fled their duty and joined the cloud riders. The lord remains,” the spider said smugly.
+
+She didn’t sense anything below. Maybe one of the sealed chambers?
+
+Ling Qi felt some worry at the spiders calling her and Xia Lin “lesser-kin.” Did they just mean not full-blooded Hui? She was just going to ignore the nonsense about imperials, even renegades, joining the cloud tribes. It was more likely they had just fled and died or hidden themselves in the province.
+
+More importantly, the fading echoes of her song revealed the flows of energy beyond the obscuring webs. The power source for the formation above lay here in the one chamber still fully intact.
+
+“I see. Thank you for your time, Matriarch,” Ling Qi said politely. “Might I ask that you disable the illusion for a day then?”
+
+“Worry not, envoy,” crooned the spider. “Your illusion is coming to an end.”
+
+All around them, beautiful colors began to shift and dance along the webbings’ strings, hypnotic and soporific, and from the ceiling drifted a gentle web of wonderful dreams, falling upon them with the weight of exhaustion. As one, three spiders crouched and prepared to leap down, fangs wet with venom, as the fourth and largest wove her limbs in a dance that spread venomous power through the others’ fangs.
+
+Ling Qi narrowed her eyes. “Rude.”

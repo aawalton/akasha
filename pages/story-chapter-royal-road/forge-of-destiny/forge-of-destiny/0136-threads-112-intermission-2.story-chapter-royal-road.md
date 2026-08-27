@@ -1,0 +1,153 @@
+---
+id: 8009b084-c221-542f-90fd-30b8fe943cde
+page-type-slug: story-chapter-royal-road
+title: "Threads 112-Intermission 2"
+slug: 0136-threads-112-intermission-2
+partOf: forge-of-destiny
+position: 136
+ownLength: 1994
+unit: words
+publishedAt: 2021-07-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/723400/threads-112-intermission-2"
+royalRoadId: "723400"
+---
+
+Xuan Shi had seemed to enjoy the tea, and Ling Qi made a note to thank Lady Renxiang for her suggestions in that regard. His tastes in food had been pretty simple; he had stuck largely to steamed vegetables and rice crackers, avoiding dishes with meat or fish.
+
+“I’m curious. Do you just not like meat, or is it a bloodline matter?” Ling Qi asked as she trailed her fingers over the wall, brushing her qi against the formations worked into the wood. The characters lit with faint ghostly light.
+
+Xuan Shi studied them intently from a pace or two behind her. “This one has always been ill equipped for the consumption of animal flesh. Though cultivation transcends such matters, the preference remains.”
+
+“That must have been hard. Aren’t most Savage Seas dishes fish?” Ling Qi asked. Right now, they were just reviewing Li Suyin’s work so that Xuan Shi could plan out his upgrades. Of course, only Ling Qi, Li Suyin, or her mother could activate them, so she was assisting already.
+
+“Many, but not all,” Xuan Shi replied simply.
+
+“What sort of food do you enjoy then?” Ling Qi asked, continuing along the wall.
+
+The panic room Li Suyin had constructed was on the ground floor for structural and spiritual reasons. It was mostly bare of decoration, and the formations on the polished wooden walls were openly visible. It was furnished with a table and a number of chairs, as well as a few simple beds. In one corner was a preservation box containing enough food for the household to live off of for two or three days. Thick bands of polished steel ran around the perimeter as well as the corners where the wall joined the ceiling or floor.
+
+Xuan Shi paused, considering her question. “The Savage Seas cultivates many breeds of kelp with rich flavour. The dishes which can be made from them are numerous.”
+
+Wasn’t kelp some kind of water weed? She supposed that people ate stranger things. They soon finished the circuit of the room. “So, what do you think?”
+
+“Miss Li has done superb work with her materials,” Xuan Shi said thoughtfully. “Foundation and framework alike are sturdy and will allow significant enhancement. There will be significant material expense for such a large chamber. This one is unsure if current stocks are sufficient.”
+
+“I will purchase what you need. Please do not empty your own supplies,” Ling Qi said firmly.
+
+“Miss Ling, there is no need—” he began.
+
+“Xuan Shi, I don’t want to keep taking advantage of your kindness,” Ling Qi said, turning around to face him. ”Please allow me to at least purchase the supplies.”
+
+Xuan Shi hesitated and then tugged his hat down, covering the narrow slice of his face that was visible. “As you say. This one can begin the outlining work tomorrow. Will the pre-dawn hours be a viable time?”
+
+“I think so,” Ling Qi said. There were other things she needed to do tomorrow, such as helping her mother cultivate, taking part in the planning for Biyu’s birthday, spending time with friends, and making plans for her arrangement with Wang Chao, so an early start was fine with her. “Thank you again for this.”
+
+“There is no need for such repetition,” Xuan Shi replied, turning back to study the walls.
+
+“I think there is. I have been rude before.” Avoiding him for months on end certainly counted. “And I know Zhengui has been trying about your presence.”
+
+“It is only to be expected,” Xuan Shi said shortly.
+
+“Why is it expected?” LIng Qi asked. “Sixiang thinks it might be some misplaced territorial instinct, but I’m not sure if xuan wu are like that. Texts on their nature are scarce.”
+
+Xuan Shi didn’t respond at first, tracing his finger along the curve of a painted character. “Within the shoal, xuan wu are communal creatures, caring little for territory or personal items. Conflict arises when shoals meet.”
+
+A shoal was the word for a group of xuan wu, if Ling Qi remembered right. “I thought all xuan wu were members of the Xuan though,” she said. “Or are you talking about sub groups?”
+
+Xuan Shi let out a huff of dry laughter. “The Living Isle’s brood is the mightiest and most fecund shoals, but others swim in distant seas. There are shoals on the coast of distant Khem in the north and far to the west beyond the land’s end where the Great Maelstrom churns. Those more kin to thy brother once walked amongst the lands beyond the Golden Fields as well, though none now know their disposition.”
+
+“So it is something of the sort,” Ling Qi said to herself. She couldn’t help but feel like he was deflecting though, but she could also tell that there was no good in prying more. “Let’s get out of here, so I can let Mother know that the staff can relax.”
+
+“This one apologizes for the inconvenience,” Xuan Shi said wryly, turning to the door.
+
+“I think my mother enjoys putting them through their paces, at least a little,” Ling Qi said with a small smile. “She has some pride in what she has accomplished here. Even if I do end up exasperating her.”
+
+“Thy mother seems formidable and perceptive, so far as her state allows,” Xuan Shi agreed. “Miss Ling is fortunate.”
+
+“I am glad that I can provide her and my sister with comfort and safety. I am glad that I can keep them close,” Ling Qi said. “Is it troubling for you? I know your uncles came to visit last year, but did your parents?”
+
+“No,” Xuan Shi replied. It was surprisingly curt.
+
+Ling Qi winced. “I apologize for my presumption. I didn’t mean to offend. Are—Do they—” She stumbled on her words. Ling Qi silently cursed; she’d gone and made a mistake again.
+
+“Miss Ling did not offend. I do not know their faces, so there is no pain in absence,” Xuan Shi said evenly. “This one is grateful for the attention given by the Honored Admirals.”
+
+Had he never met his own parents, or was not knowing their faces a metaphor? She didn’t think he was implying that they were dead, but she couldn’t be sure.
+
+“Regardless, thank you again for your help. If you ever need anything, please let me know,” Ling Qi said, recovering. “Maybe I could help you get a spirit of your own? I’ve had some success with that.”
+
+Xuan Shi chuckled, but it still sounded forced. “A tempting offer, but in that, at least, this one has recently encountered some good fortune, Miss Ling.”
+
+“Oh?” Ling Qi asked. She hadn’t sensed anything different at all. “When did that happen?”
+
+“Just after our escape from Dream.” Xuan Shi looked pleased. “In my meditations, a spirit of the liminal approached and wished to make a pact. It is temporary yet, but this one is hopeful.”
+
+<Funny. Didn’t notice anybody around besides that jerk,> Sixiang murmured blearily.
+
+Well, neither of them had been in great condition, Ling Qi thought. “Congratulations,” she said earnestly. “I suppose I’ll just have to find another way to help.”
+
+“This one does not doubt thine abilities, Miss Ling,” Xuan Shi replied as they neared the door. “Farewell.”
+
+***
+
+Ling Qi joined her mother in the garden after Xuan Shi left, taking a seat beside her on the stone bench that overlooked the pond. She was still pondering what she had learned from him.
+
+“Ling Qi, can you truly afford to spend even more coin on this temporary home?” Ling Qingge asked quietly, startling her.
+
+“Of course I can, Mother,” Ling Qi responded quickly. “Why would you even ask that? You—”
+
+“I ask because I have been studying cultivation,” her mother said firmly. “And I have become aware of how much wealth you need to continue growing as you do.”
+
+“You and Biyu are more important than wealth,” Ling Qi said.
+
+“I do not doubt that,” Ling Qingge replied. “But you did not answer my question. Can you afford such expenses without harming yourself?”
+
+“I should be able to afford this one.” Numbers danced in her head, the budget of green stones she had remaining and her month-to-month needs. Ling Qi’s savings were dwindling given the price Xuan Shi had named for the materials.
+
+“I haven’t just been spending,” Ling Qi said uncomfortably. “Bao Qian has come through on our deal, and I’ve gotten my first income from the sales.”
+
+“Who is Bao Qian?” her mother asked with some concern.
+
+Ling Qi blinked. Had she really not…? She bowed her head in apology. “It must have slipped my mind. Bao Qian is a scion of the Bao clan who came here to establish business with me. We worked out a deal for the sale of some of Zhengui’s byproducts.”
+
+Ling Qingge was still frowning. “A member of a count clan came just for this? It must be quite valuable.”
+
+Ling Qi looked away, feeling guilty. “He may also be trying to court me… Sort of,” she added, trailing off into a mumble.
+
+She didn’t miss the way that her mother’s back stiffened at her words. “Ling Qi,” she said, and the full weight of her frustration was conveyed by those brief syllables.
+
+“It’s not really official or anything,” Ling Qi explained. “Well, his clan is fine with it, but they seem to be willing to play a longer game, and…”
+
+“Ling Qi, please tell me that you have observed propriety,” her mother cut her off with a plea.
+
+Ling Qi’s eyes flew open at her mother’s implication, and she gave her a hurt look. “Mother! Of course I haven’t done anything like... like...” She couldn’t even put it into words.
+
+Ling Qingge squeezed her eyes shut, taking a deep breath. “I am sorry, Ling Qi. I only…”
+
+Ling Qi tried to see things from her mother’s perspective. It probably looked like she had been trying to conceal something. Given everything in their lives, could she really blame the older woman? “I understand how dangerous men can be. I do, Mom.”
+
+Ling Qingge didn’t reply at first. “I hope that you do, but your interactions with that young man gave me doubt.”
+
+“Xuan Shi?” Ling Qi asked in confusion. They were friendly enough, but he was…
+
+“Ling Qi, even I could see that he held an interest in you,” her mother chided. “Are you truly saying that you were not making use of that?”
+
+Ling Qi gave her a horrified look. Her mother examined Ling Qi’s face and then slowly lowered her face into her hands.
+
+They both sat in awkward silence as the evening song of the crickets began.
+
+“I do not think that he is the sort of man to perceive obligation from favors such as this,” Ling Qingge finally said, raising her head. “But Ling Qi, please exercise further caution in the future.”
+
+Ling Qi stared ahead at the garden pond, reviewing her memories. She still couldn’t see it. Yes, he was willing to help her and seemed impressed with her at times, but she had never noticed anything that she would take as that kind of interest, just friendliness.
+
+She had a difficult time picturing Xuan Shi even being able to do that. The boy was too reserved.
+
+<Breathe, Ling Qi,> Sixiang murmured.
+
+She did so. Did this change anything? Some part of her wanted to scream that yes, obviously it did. “I will be more aware in the future,” Ling Qi said, looking down at her hands. She couldn’t really picture him as being dangerous in that way. “I think you’re right, Mother.”
+
+“It is good fortune,” Ling Qingge agreed, “that this young man seems a good sort. But this is exceptional. So Ling Qi, please tell me about this Bao Qian.”
+
+Ling Qi sighed. It was going to be a long evening.
+
+And she still had to figure out how she was going to talk to Xuan Shi tomorrow.

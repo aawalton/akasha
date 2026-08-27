@@ -1,0 +1,175 @@
+---
+id: c41b0654-e2a5-57a7-be83-3a387d535a2d
+page-type-slug: story-chapter-royal-road
+title: "Threads 267 Perception 4"
+slug: 0305-threads-267-perception-4
+partOf: forge-of-destiny
+position: 305
+ownLength: 2266
+unit: words
+publishedAt: 2022-12-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1056672/threads-267-perception-4"
+royalRoadId: "1056672"
+---
+
+What to do? Joking aside, she actually did feel for them a little.
+
+<There’s a poetry reading going on. Got a couple of Gan’s folks there,> Sixiang pointed out. <And Wang Chao and his swordsman buddy are off doing some weapon testing with some of the crafter folks off to the right.>
+
+Ling Qi bowed her head in thanks to the muse.
+
+“You’re enjoying the atmosphere I see,” Ling Qi said airily, stepping out from between a pair of passing disciples and a nearby food table. She hadn’t been standing anywhere close to either Xiao Fen or Liu Xin a moment ago, but it was her party, and she could ignore space and distance if she liked.
+
+<Just basic host rights, that is,> Sixiang agreed.
+
+Xiao Fen did not jump, but she did stiffen, and that was enough. Besides, Liu Xin jumped high enough for the both of them, whirling around with wide eyes.
+
+“It is a most energetic gathering, Lady Ling,” Xiao Fen said, barely turning her head. “Wild, even.”
+
+Was that sass? Ling Qi wondered. Xiao Fen had definitely improved since she saw the girl last. “I have sampled many types of hospitality. Some energy makes more intense and lasting impressions, don’t you think?”
+
+“Definitely not what I was expecting,” Liu Xin said, glancing around.
+
+“You imagined a more formal gathering, I’m guessing,” Ling Qi said.
+
+He nodded, glancing at her nervously.
+
+“That might be more normal, but there are limits to that kind of party. Where did your lady go, Xiao Fen?”
+
+“Lady Bai had some private discussions to attend to,” Xiao Fen replied flatly. Her eyes scanned around, cold and burning. Nearby, disciples flinched at her examination and hurried along.
+
+Well, one could only expect so much progress.
+
+“Why don’t you attend to me for a time? There is a talisman demonstration going on in one of the eastern sections. That might be more interesting to you.”
+
+“Yeah?” Liu Xin asked, perking up. “I’ve wondered what the Inner Sect scene’d be like.”
+
+Xiao Fen pursed her lips and glanced at her friend. She looked at Ling Qi, and after  struggling for a moment, she grudgingly agreed. “Acceptable.”
+
+“Come along then. Liu Xin, while we walk, how were things in the Outer Sect during those last days? I want to hear all about it.” Ling Qi ushered them along with an amused smile.
+
+It wasn’t wholly for the purpose of picking up tidbits to tease Xiao Fen with, although that was a side benefit. Liu Xin, who was as much out of place as she had been at the beginning, really did need the help to loosen up, and it worked. His words came easier with every sentence that met an attentive ear.
+
+The Outer Sect had been chaotic at the end of last year. Though direct battle was made verboten by the war, the striving against the Sun allies took on a subtler character. Contests of skill and constant work to undermine one another or cause members to shame their factions became the norm.
+
+In truth, Xiao Fen had ended up in a troublesome position. Her instinct toward finality often caused trouble, though apparently, Meizhen had talked her through less direct conflict resolution. It wasn’t really possible for the Bai to get a worse reputation in that regard, so any kind of improvement was probably good.
+
+It didn’t take long, even working through the crisscrossing hedge rows, to reach the correct field, and Ling Qi heard the sounds of their destination well before they arrived. Wang Chao might be very slightly cannier than he looked, but he matched Gan Guangli’s loudness honestly.
+
+“Bwahaha! You look absurd, Liang He!”
+
+As they rounded the last corner, coming into view of the display field, she saw that the grass had been removed with prejudice by both Zhengui and Wang Chao’s spirit beast, leaving behind a well packed but dusty earth. There were fewer disciples here, but all around the perimeter hedges were the stations of the invited crafting disciples, all from the lower five hundred ranks.
+
+It had meant excluding Suyin, but that girl hardly needed the advertisement, and it let her talk with the girl about the lower ranking crafters that Suyin thought could use a hand. It all worked out.
+
+There in the center of the field was Wang Chao, holding his stomach as he howled with laughter. Near him was the source. Liang He, his friend, the handsome swordsman she had dueled for rank once, stood balanced on one foot. He had a thin, guardless sword in each hand. Another pair attached backward to his elbows. He had one clutched in the crook of his knee and another stuck to the bottom of his boot. The last, he had clenched between his teeth. They were all connected to him via a subtle wire-like aura of sharp-edged sword qi.
+
+As she watched, Liang He tensed his one free leg and jumped up, performing a flip with each blade flashing out in a complex cutting arc that made the wind howl. He landed back on a single foot to the more restrained laughter of the other disciples present and the nervous and embarrassed smile of the dark skinned young man Ling Qi took to be the crafter.
+
+Liang He relaxed, and the swords fell with a clatter, snapping into a bundle as if drawn to each other on the ground. “The quality of each blade is good,” he praised. “Superb balance and steelwork.”
+
+“More for a dancer than a warrior though,” Wang Chao assessed as Liang He scooped up the bundle.
+
+“Yes,” Liang He agreed, proffering them back to the crafter kindly. “But it is only a proof of concept, yes?”
+
+“Yes, Sir Wang, Sir Liang. I am only testing my ability to craft a single talisman from many pieces. The finished project should fly rather than needing such contortions,” the disciple hurriedly said.
+
+“Maybe market this version to the entertainers to pay your way, eh? I’d pay to see a full sword dance with that set up.” Wang Chao laughed before his eyes fell on her. “Ah! Lady Ling, come to see what’s about? I had heard you were down a talisman.”
+
+“I’m not in the market just yet,” Ling Qi demurred, dashing any blooming hope in the eyes of the disciples. It was more polite than saying that she was certainly looking for a flute talisman with a quality outside of their reach. “I was just showing some friends about. May I introduce Lady Bai Xiao Fen and Baron Liu Xin?”
+
+She felt for the young man looking so perturbed by the title, but Liu Xin was technically a baron now, even if without backing like hers, his title meant less at the moment. Fortunately, most eyes fell on Xiao Fen, who scanned the crowd like a warrior judging threats.
+
+She bowed, stiff and precise. “It is my honor to attend. Please do not put the demonstrations aside for my sake.”
+
+“Ah, yeah, that’s a really good trick. You’re taking advantage of the natural attraction between the qi in that particular alloy, right?” Liu Xin asked.
+
+Eyes turned to the other crafting disciple, who nodded tentatively. “Yes, you have sharp eyes, Sir Liu, to notice without a close inspection. Do you work with metals as well?”
+
+“I like ceramics more, but you should be familiar with the basics of everything, right?”
+
+“It’s wise to have a grounding in a few fields,” one of the observing disciples agreed. “But spreading yourself too widely is foolish.”
+
+“I think Miss Xiao Fen can speak for his skill.” Ling Qi cheerfully volunteered Xiao Fen.
+
+The other girl shot her a look. “Liu Xin’s skill is not inferior to the common works of the Thousand Lakes.”
+
+Liu Xin gave a look of fond exasperation, and some of the disciples looked confused, but a few, those from more established and knowledgeable families, looked outright poleaxed.
+
+Bai pride was well known.
+
+“Do you have any of your works on you?” one of them asked as Ling Qi took a step back.
+
+The young man frowned. “Just some basics… Ah, Xiao Fen, you still have some of those knives I made for you, right?”
+
+“A few.” A flick of her wrist brought forth three shimmering silver knives, held blade first between her fingers, proffering them toward the others.
+
+Liang He was the one brave enough to take them with Wang Chao looking on, bemused.
+
+“Interesting shape, these barbs. I’d say they were meant to catch and tear flesh, but silver is a bit soft for that,” Liang He evaluated, balancing the point on one of his fingers.
+
+“Silver is the metal of the moon, and its properties are heavily yin. The silver is used for its absorptive properties,” Liu Xin explained.
+
+Liang He directed a careful question to Xiao Fen. “I don’t want to presume, but poison…?”
+
+“Mine is a cold fire, but it is the same principle,” Xiao Fen replied. “The barbs provide additional contact points for the embers to catch in the enemies’ qi.”
+
+Wang Chao plucked the dagger from Liu Xin’s hands. “The metalwork is a bit shoddy though, isn’t it? Full of bubbles and faults, though they’re a bit odd…”
+
+“They’re meant to break,” Liu Xin said. “They’re made for her, but they can take most forms of corrosive qi. It builds up in the bubbles and faults and soaks the metal thoroughly.”
+
+Wang Chao squinted and then grinned. “Aha! Then boom! You said you work with ceramics, but you mean explosives, don’t you? Knew you had the feel of a blast miner about you!”
+
+Liu Xin rubbed the back of his neck, looking flushed, and Ling Qi took another step back, fading into shadow, and then vanishing through the hedge as the conversation went on. She hadn’t been able to tease Xiao Fen as much as she’d liked, but maybe this was better for now.
+
+“My thanks for your intervention.”
+
+Ling Qi gave her friend, Bai Meizhen, a friendly nod. Meizhen was loitering under one of the arches on the other side of the hedge Ling Qi had used to exit the field, alone, but not shrouded in an aura of terror. Although the aura that had been Bai Meizhen’s trademark since the first day of the Sect still simmered in her eyes and under her skin, it was controlled utterly.
+
+“I’m starting to get the hang of little nudges,” Ling Qi said. Was this what Xin so enjoyed indulging in?
+
+“I am trying to instill Xiao Fen with more initiative, but it is a lengthy task,” Bai Meizhen agreed. “It is good to see you again, Ling Qi.”
+
+“I have been busy,” Ling Qi acknowledged, falling in beside her friend as they began to walk. “Have you ever been to Xiangmen? It’s beyond description.”
+
+“My carriage stopped there on the way to the Sect. While it cannot compare to Lake Hei, it is truly impressive.”
+
+“What have you been doing, Meizhen?” Ling Qi asked, casually confident that between her and her friend, no one here would overhear them.
+
+“Arranging my business with the Bao, reviewing my subordinates’ abilities, studying your reports of these foreigners, and keeping an ear to the courts through my teacher.”
+
+“She’s still here?” Ling Qi asked, surprised. The Bai ambassador was tutoring Meizhen.
+
+“She will remain at the Duchess’ side, and the Duchess, as you know, will be staying here in the south for the foreseeable future. Convenient, giving my own posting.”
+
+“I’m surprised you’re getting away with that.”
+
+“Some are already calling our clique ‘little Xiangmen.’ Such talk is mostly derisive for now, but not wrong. It falls in and out of practice, but placing your heir in a position to oversee your province in miniature is not unknown. My aunt is pleased enough to extend the game for her ally.”
+
+“I suppose she’s selling it as part of the resettlement efforts?”
+
+“My, you do pay attention now. Yes, young Bai are being encouraged to ‘rough it’ more to show leadership outside of the palaces. There is some resistance…”
+
+“But ‘stopping the youth from getting soft’ is never a hard sell with the sort who usually oppose her.”
+
+“Just so.” Bai Meizhen laughed as they approached the central field where many of the spirits were gathered around Zhengui. To Ling Qi’s amusement, Cui was coiled up on his shell, and Zhen was all but vibrating with anxiety.
+
+They stopped near the edge of the field to not interrupt. Ling Qi glanced at her friend. “So, has it been decided yet where you’ll be staying?”
+
+“The Argent Peak Sect has graciously offered to host us. They are already undergoing a major expansion, and adding a fortified embassy is not difficult.” Bai Meizhen’s lips twisted in a sardonic smile. “And the sects are ostensibly neutral among the provinces.”
+
+“The Throne approves?” Ling Qi asked worriedly.
+
+“I do not think it does. We are considering alternate options. There is the meeting site itself, of course…”
+
+“But also our ‘little Xiangmen,’” Ling Qi realized.
+
+“Once there is a settlement worth the name anyway,” Bai Meizhen said with a small smile. “Likely, we will decamp to the meeting site for now. But perhaps the Bai might still be of aid to our allies.”
+
+“Oh?”
+
+“How long has it been since we walked into danger together, Qi? I feel some youthful hotheadedness, it must be said.”
+
+Ling Qi smirked. “Ah, and it would distract from other indiscretions. Well, there are a few places that might be good for cooling heated blood.”
+
+“Superb,” Meizhen said sincerely.

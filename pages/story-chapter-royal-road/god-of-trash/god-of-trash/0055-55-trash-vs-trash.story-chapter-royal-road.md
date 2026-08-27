@@ -1,0 +1,153 @@
+---
+id: 96e150a3-bb16-5f1f-9aca-0dd72a349bfe
+page-type-slug: story-chapter-royal-road
+title: "55. Trash vs Trash"
+slug: 0055-55-trash-vs-trash
+partOf: god-of-trash
+position: 55
+ownLength: 2959
+unit: words
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2213068/55-trash-vs-trash"
+royalRoadId: "2213068"
+---
+
+Rhys charged toward the mounted demon as the mounted demon charged him. The demon struck down at him with all its might. Rhys activated Trash Intent as he slashed up at it. Their blades clashed.
+
+The demon’s black cleaver pulsed with curse power. The dark energy emanated from it, seeking to taint Rhys.
+
+Rhys sucked the taint in, building it into the next star in his core. His Trash Intent-empowered blade cut a notch into the ominous black sword, then jerked to a halt as the metal grew too thick. Still, Rhys grinned. Trash like him was able to meet the demon on its own terms, and hold his own. He’d come a long way.
+
+Surprised, the demon jerked back. The horse ran on, taking the demon with it. Rhys pivoted, watching the two as they rode. They reached the end of the small, narrow arena. The horse reared, then rounded on Rhys, snapping around to charge at him again.
+
+Rhys’ whole body brimmed with strength. His mana was fully topped up. He’d never felt stronger in his life. The monster before him emanated pressure in the upper ranks of his current tier, but Rhys felt no fear. He could take it.
+
+He had the trash.
+
+Rhys summoned the rat projection. It circled around him and settled beside him, watching the demon. He empowered his sword with Trash Intent and Trash Aura, and as the demon closed in on him, he unleashed a slash of Trash Aura at the demon. It turned its horse to the side at the last second and caught the blade on its black sword. The horse reared and plunged toward Rhys, striking at him with its enormous hooves.
+
+Rhys dashed back. The rat charged, biting at the horse’s legs. The horse stopped dead and stomped at the rat, distracted.
+
+The moment it took its eyes off him, Rhys reached out to the ball of impurities circulating around his core. There was plenty of curse power floating around his body, so he pushed that into the ball. The curse within came to life.
+
+Here goes nothing. The curse ran through him. Instinctively, Rhys raised his hand and grasped at the horse.
+
+Two enormous skeletal hands pierced through the muddy floor and clasped the horse and rider both, bearing them into the earth.
+
+The rider swept its black blade. The bones shattered, and its mount leaped free—directly into a leg-breaking pile of slippery, round, random garbage.
+
+The horse whinnied in fear. The rider gripped the reins tight, to no avail. The horse crashed down, and its legs went out from under it. It sprawled over the floor.
+
+Thrown free, the demon rolled over the mud. Rhys closed in behind it, using Trash Step to race over the garbage footing. Before the demon could rise, he slammed his sword down on its neck.
+
+Its skull came free. It rolled over the earth.
+
+Panting, Rhys slowly came to his feet. Was that it? Had he done it?
+
+Strands of black power reached out from the skull and from the spine alike. They connected, and the strands slowly drew the head and spine back together.
+
+“I don’t think so.” Rhys reached in and grabbed the black strands.
+
+Curse power writhed under his grasp. It reached into him, seeking to corrupt him. A wave poured through his mana passages, flooding his body.
+
+Rhys pointed it all at the star in his core and rounded it up there. The star began to glow, in the brink of setting alight.
+
+The black energy wavered. It jerked away, trying to escape him. Rhys reached after it, tightening his grip on the energy. It slipped around his fingers.
+
+He chuckled and pulled at it, dragging it into him.
+
+The black strands retreated, hiding away in the demon’s skull and spine. Rhys shrugged. He gripped the skull in one hand and the spine in the other. Taking a deep breath, he pulled ferociously from both at the same time.
+
+The skull’s eyes came alight. Its jaw worked wildly. In his other hand, the skeletal body thrashed. Claws scraped at his arms, and it kicked with all its might, bucking its whole body against his hold.
+
+“Nope.” Rhys pulled harder than ever. The skeleton thrashed, but there was nothing it could do. He had it in his grasp, and its curse power was his.
+
+Something slammed into him from behind. Rhys tumbled, instinctively rolling with the blow. As he rolled, he caught sight of his assailant—the horse, which had scrambled free of the trash pile to come to the aid of its rider.
+
+Rhys rolled upright and skidded to a stop seconds before he struck the wall. He looked up, clutching his sword behind him. Across the room, the rider leaped up onto his horse. He swung his sword at Rhys, leveling the blade at Rhys.
+
+“One last charge,” Rhys said.
+
+The horse reared. It landed with a snort, cold smoke rising from its nostrils. On its back, the rider lowered its head, and its blazing red eyes locked onto Rhys’. The horse chomped at the bit, its dinnerplate hooves stomping the earth.
+
+Rhys charged, and the rider rushed at him. The horse ate up the ground between them. As the rider closed in, it raised its cleaver high. Its eyes glowed. It would win. It had the reach, the speed. This battle was in its hands.
+
+Abruptly, Rhys stopped dead. He ripped the steel pole out of his storage ring, braced it on the ground, and pointed the end at the rider. The blue glow of Trash Intent sprung forth and hammered into the rider’s shoulder. The pole bucked in Rhys’ hands, trying to break free, but he held on. The butt dug into the mud. Come on!
+
+The rider flew backward, taken right off the horse by the pole. The horse ran by, unable to immediately turn its bulk to rescue the rider. Rhys raced in and grabbed the rider once more, pulling on the curse energy even more powerfully than the first time.
+
+“You’re mine. Stop resisting!”
+
+The rider’s body trembled. The black stone that served as its heart grew smaller and smaller, withering away as Rhys drew the curse power out of it. As the curse power flowed out of it, the dark energy around its bones and the bright fire in its eyes both faded. At last, nothing remained but the bones. The horns fell off, and the bones fell to powder.
+
+Rhys raised his brows. This skeleton hadn’t been the source of the curse. Was it the horse?
+
+An angry whinny sounded from behind him. The staccato beat of hooves on the earth raced closer. Rhys threw himself out of the way, and hooves landed on the place where he’d been seconds before. The horse charged by, slowing as it reached the wall and turned, then lined up for another charge.
+
+“You saw how that ended last time. Do you want to get jousted, too?” Rhys asked, though honestly, he wasn’t confident his pole would hold. The horse was massive. Its weight alone might be enough to crumple the pole, even if he reinforced it to perfect with Trash Intent.
+
+The horse snorted. Apparently coming to the same conclusion as Rhys, it reared, then charged, barreling down on him. Rhys held his ground. He held out his sword, tightening his grip.
+
+And then he rolled out of the way and let the horse charge by.
+
+“Are you stupid? No shot I’m taking you on outright,” Rhys berated it as it lumbered past. He wasn’t going to make a brave stand or heroically charge head-first. What did the horse think he was, some hero? Pfft. Rhys knew his place. He was trash, so he was going to fight dirty like the trash he was. If he stood tall, there wasn’t a chance he’d survive in this brutal world.
+
+The horse ran by, huffing in frustration but unable to attack him. It was huge and fast, but as a result, it had a ton of inertia. It couldn’t stop on a dime or turn tight angles. As long as he dodged its direct charge, he was safe.
+
+It slowed down as it reached the wall. Tossing its head, it stomped the mud into a froth as it turned.
+
+Grabbing ahold of his fresh curse power, Rhys put it all into the curse circulating around his core. Two skeletal hands appeared on either side of the horse and bore it down. The horse screeched and fought back, but the hands, empowered by all the curse power in its rider, were too strong. They pressed it into the earth and kept dragging, trying to pull it deeper yet.
+
+“Whoa, whoa.” Rhys let up on the amount of mana he poured into his curse to keep it from pulling his prize directly into the ground. Instead, he jogged over to its side and put his hand on its head. “You’ve been thrown away. Tossed in this pit for who knows how long, with piles and piles of garbage thrown on your head. But don’t worry. You’re mine now. I’ll take good care of you.”
+
+With that, he pulled hard, sucking the curse power into himself.
+
+The horse struggled. Neighing and kicking its powerful legs, it fought against the curse’s hold. The strange part was, Rhys felt every beat of its hooves on his own hands, as if it kicked him instead of the cursed bones. He winced and gritted his teeth, but kept going. This was his curse, his garbage. He’d earned it fair and square. Now it was time for it to join the other curse flowing around his core, and truly belong to him!
+
+The horse diminished, the same as the rider had, then vanished. This time, though, a single bone remained, one piece of the horse skeleton surviving to hurtle into his core. Like with the first curse, Rhys wrapped it in impurities and sent it circulating around his core.
+
+Curious, he sent a bit of curse power into the bone to see what it would do. He felt the sensation of a horse, and understood—the horse would come if he called. In essence, he’d gained a mount.
+
+He took a moment and simply took it all in. His core emanated mana, glowing faintly. Around it, the two curses floated like moons; the one with large hands, and the other, a single bone of a horse skeleton. Curse power circulated around the outside of his core like the rings around a planet, emanating a cold, ominous power. He could purify it, but since curses required curse power, he didn’t want to completely burn away his store. He could transform curse power to mana, but not the other way around.
+
+Curses… He gazed at them, a bit confused. Were these like Straw? Remnant Weapons, or whatever they’d been called, something left over by a great and powerful demon king? They used the same curse power Straw did, but Straw wasn’t a skeleton, and he didn’t have horns.
+
+Then again, maybe not all Remnant Weapons were built the same. Maybe these were weak fragments, and Straw was a large, almost full, and highly dangerous Remnant. Or maybe these were something else entirely. He made a note to ask someone once things were quieter and see if he could figure it out.
+
+Another question tickled at the back of his mind. Did these curses generate the ‘foul well,’ as Ernesto had called the trash pit? Or did people start throwing trash on the curses to bury them away and keep them from endangering ordinary mages? After all, dangerous things went in the trash, too. Sure, the most highly dangerous items from Rhys’ world, such as nuclear waste, had their own disposal and storage methods, but some dangerous items were simply thrown into the landfill with everything else. If someone had once known that there was a dangerous item here, maybe they’d made it a trash pit deliberately, so that no one would want to go near it. Aside from Rhys, most people avoided the trash, after all.
+
+The curses… they weren’t good, per se. He wasn’t completely sure it was a good idea to use them. But what they were, for sure, was trash. And trash was his. He knew in his heart, in his path, that curses belonged to him. If his path was telling him that, then he needed to listen to it. The curses were trash, which meant there was something more hidden in them. Some truth related to them and trash that he needed to discover. If that was true, then he had no hesitation in collecting them, and not only that, learning more about them. What other way to learn more about curses than to use them?
+
+Well, that and talk to Az. He wouldn’t want to talk to an ordinary mage or librarian about it, since curses were clearly not seen as positive—though Ernesto was willing to openly investigate them, so maybe they weren’t as bad as he thought. Still, he didn’t think it was a good idea to run around and admit to everyone that he had curses inside him. Plus, if his earlier guesses were right, and Ernesto’s class was allowed to exist so Purple Dawn had plausible deniability for any criminal actions they took, then curses weren’t good at all, and Ernesto was only allowed to use them so openly so that when the time came for Purple Dawn to excise him, they had plenty of reason to turn against him and expel him. They wouldn’t be struggling to come up with an excuse to exile… or even execute him.
+
+He shook his head. Standing, he dusted off his robes and dismissed the hands. These questions were for later. For now, he needed to get out of here.
+
+He turned to go, then stopped. Something tugged at his heart. He sensed… something. He didn’t know what it was, but he knew two things: it was trash, and it was important. He turned, following the sensation.
+
+He’d thought the chamber was relatively straightforward, a horizontal hall wide enough to joust in, and that was about it. As the sensation drew him toward the wall, however, he realized that his initial take was wrong. The wall juked left and right, appearing to be a solid entity while in truth allowing a human-sized object to pass through. Interestingly, both the horse and rider alike would have been too large to fit between the gap. Even Rhys was a tight fit. The earth scraped by his shoulders and kept narrowing until he had to turn sideways to squeeze through.
+
+He stepped out and into a small antechamber. Dregs of trash still swilled around his ankles, but with a sweep of his hand, he sent that trash into his core. The trash flowed away, and Rhys blinked, startled.
+
+How the hell did that get down here?
+
+A skeletal man kneeled with his back against the wall, frozen in a meditative stance. No curse energy clung to it, nor did it sport horns. It wore full plate armor that couldn’t possibly have fit through the walls Rhys had had to squeeze through. The chamber must have been built around him, or else he carried his armor in piece by piece, then put it on once he was within. His hands rested on his folded knees, and his gaze was locked dead ahead, on the object stuck in the mud before him.
+
+A sword.
+
+It was rusty and old, corroded by years submerged in the trash pit, but a strange light still clung to its depths. It almost reminded Rhys of the starlight embedded in Aquari’s attacks, but much brighter and warmer. If Aquari was the night and the cool stars, then this thing shone with the heat of the sun.
+
+He yanked it out of the earth. As if the skeleton had been waiting for this moment, it crumbled. Both the bones and the armor turned to dust.
+
+He nodded to the pile that had once been the skeleton. “Thank you.”
+
+Rhys turned the sword over in his hand, taking it in. It was beautifully wrought, but absolutely ruined by the ages. Rust crawled over every inch of it. Its blade was notched and dull. The light in its depths flickered, as if on the verge of going out, and the wrapping around the hilt was so stained by filth that it had become a different color. It had once been valuable, but now, there was no doubt: it was trash.
+
+Rhys chuckled. Perfect.
+
+The sword was delicate, almost as delicate as the skeleton had been. Simply holding it, he could feel the rust coming off in his hand, feel the leather binding crumble. He needed to preserve it, somehow, before he could use it. In the delicate state it was in, even if he reinforced it with Trash Intent, it would crumble in a single blow.
+
+Nonetheless, he felt the power thrumming within it, the heat and fury of the sun. It would be one hell of a final blow. If he found himself completely backed into a corner with no way out, it might be what tipped the scales in his favor. In its current degraded state, it was likely still enough to save his life, even if it would crumble immediately afterwards.
+
+But let’s try to fix it up, first, rather than leave it as a last resort. Rhys tucked it into his storage ring, where it would float in the interminable space within until he retrieved it. He gazed upward. Flashes of light flickered where Aquari and Ernesto battled on the surface.
+
+It was time to finish this.

@@ -1,0 +1,153 @@
+---
+id: df635fbb-a42f-5fe7-ba7a-7520a1c61582
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred: The Solution"
+slug: 0103-chapter-one-hundred-the-solution
+partOf: flesh-eater-demon-evolution-litrpg
+position: 103
+ownLength: 2283
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3610269/chapter-one-hundred-the-solution"
+royalRoadId: "3610269"
+---
+
+With surprising swiftness, an unfamiliar man lunged through the doorway and gripped onto the front of Llyr’s robes. He looked human at a glance, with mussed hair, rumpled dirt-streaked clothes, and a frenzied look in his eyes as he stared up at the healer.
+
+“Please, you have to help me!” he begged, nearly yanking Llyr forward from how hard he’d grabbed onto him.
+
+The healer carefully studied the stranger, but he didn’t visibly react to his sudden appearance. “I’m with another patient right now,” he said evenly, still maintaining a calm demeanor. “If you could please just give me a few moments, I—”
+
+“I don’t give a fuck about some other patient! I don’t have time!” One of the man’s hands released Llyr’s shirt and shot towards him, maybe to yank him closer, maybe just as an instinctive movement in anger.
+
+It didn’t really matter, though, because Pyre stepped forward and caught his wrist before he could do anything.
+
+“Woah there, you might want to take two steps back,” the demon drawled casually.
+
+The man tried to yank his hand away, but it didn’t budge. It confirmed, at least, that he was just an ordinary human. Pyre’s grip might as well have been steel for how wide the gap in strength was. He stared up at the demon, fear flashing on his face.
+
+“Please, it’s alright,” Llyr interjected. The healer’s gaze darted behind the man, and his jaw tightened slightly. He looked to the stranger again. “Please just give me one moment to gather my supplies, and I’ll meet you outside.”
+
+Pyre raised an eyebrow at that, but she let go of the man’s wrist. He stumbled back and immediately scrambled to put distance between him and the demon.
+
+At that point Llyr was already striding down the hall, so she just gave him a final look and turned around. He wasn’t really a threat, anyway, and it wasn’t like this was her mansion to protect.
+
+Daphne was already standing by the time they reached the infirmary. “Is everything okay?” she asked, eyeing the doorway warily. Llyr just gave her a calm smile.
+
+“Excuse me, I have an urgent matter to attend to.” He stepped over to the table and picked up the water basin he’d set there, nodding apologetically at Daphne and Callan. “I should be back soon. In the meantime, please feel free to test whatever spells you’d like.”
+
+The words did nothing to quell the two mages’ worries. Callan glanced over at Pyre, the question clear on his face. The demon just jerked her head at the door, indicating that she was planning on following the healer. That seemed to ease the ghost some, and he nodded slowly.
+
+After exiting the room, Llyr moved swiftly back down the hallway, though he was careful to keep the water basin from spilling. Pyre glanced over at him, her own longer strides considerably more relaxed in pace.
+
+“This happen a lot?” she said conversationally.
+
+“Sometimes, yes.”
+
+The demon snorted. “You’d think they’d be a little nicer if they’re looking for free healing.”
+
+At that, Llyr turned to face her, blue eyes meeting grey.
+
+“The people who come to me have nowhere else to go. They are at their most desperate and vulnerable.” His steps slowed slightly. “I will not judge them in their worst moments.”
+
+Pyre gave the healer a long look at that. “Very saintly of you,” she said.
+
+Llyr laughed—not his usual light chuckle, but an actual, full-blown laugh. He smiled at the demon and shook his head. “Not at all,” he said.
+
+Turning back around, Llyr stepped out the still-open front door and strode over to the shore. There, the man from before was waiting.
+
+Pyre leaned casually back against the mansion wall and watched the proceedings. From here, she could see a small figure sitting on the ground beside the man, his back propped up against a boulder. It looked like a human kid. She couldn’t make out many details, though, before Llyr immediately kneeled down beside the boy and blocked her view.
+
+The healer set his water basin down while the man paced nervously around the rock. It was too far away to hear what they were saying, but a few moments later, Llyr dipped his hand into the basin. Pyre watched as the same blue light from the infirmary glowed in the healer’s palm. He shifted, and she was able to get a clearer look at the kid.
+
+The human was visibly pale and feverish, and one of his pant legs had been rolled up. It revealed a deep gash running nearly the entire length of his calf. The surrounding skin was red and inflamed, a few veins visible creeping around the cut. Pyre was no wound expert, but it looked infected.
+
+With careful movements, Llyr lowered his water-wrapped hand to the wound. The light intensified, and Pyre watched the magic pull some sort of gunk from the gash. He tossed it aside and pulled another stream of water from the basin.
+
+The demon watched with mild curiosity as the healer worked. Now that she thought about it, this was the first time she’d actually seen him heal a wound. Everything before this had been soul scans and the failed barrier attempt.
+
+Technically, she didn’t really know the full extent of Llyr’s healing abilities. They could be overhyped for all she knew, so it was probably a good thing that she was getting a live demonstration now. Pyre could see the redness around the cut fading with each new pass, until finally, there was only the open gash itself.
+
+With a flash of blue, Llyr slowly guided a fresh stream of water over the wound. Pyre’s eyebrows rose as the skin visibly sealed itself wherever the water touched it.
+
+By the time the healer was done, the wound was shut and the inflammation soothed. A thin white line on the boy’s leg was the only indication that it had ever existed.
+
+Not overhyped at all, the demon thought, whistling to herself. A wound as large as that one would’ve taken longer for her to regenerate than his spell had just accomplished. No wonder Lord Alardice was trying to recruit him or whatever.
+
+The man was saying something to the kid, who looked tired, but less sick than before. He turned to Llyr next and lunged towards him. Pyre’s gaze sharpened. She almost stepped forward when the man pulled the healer into a tight hug.
+
+The demon stopped and stared. The man was crying now, mouth moving in a nonstop flood of words. Llyr said something in return and smiled softly. He reached a hand around and patted the man’s back in a soothing gesture.
+
+It occurred to Pyre that no one looking at this scene right now would ever think the healer was a monster. That he wasn’t human. Whatever he was, it didn’t seem to affect his behavior or emotions at all.
+
+She watched a little longer, briefly wondering if she should feel something at the sight. This was a father profusely thanking someone for saving his son’s life. Maybe it should’ve been heartwarming. She thought of Merrick’s past and the way Declan had reacted to it, then turned to watch the scene on the shore again.
+
+But there was nothing.
+
+They returned to the infirmary after bidding farewell to the two. The man’s entire demeanor had completely changed from when he’d been yelling at the door, to the point that Pyre could probably be convinced that they were entirely different people. Llyr waved at him a final time, then stepped inside the mansion and shut the door.
+
+They were immediately greeted by Callan and Daphne, who’d clearly been watching everything from the window.
+
+“Is the kid okay now?” Callan asked, worriedly peering at the two figures’ retreating forms. Llyr nodded.
+
+“Yes, he will be.” He adjusted his hold on the water basin, which was now half-empty. “I apologize for the interruption. We can continue developing the portal spell.”
+
+“Don’t apologize for that,” Daphne said firmly. She smiled. “It’s good that you helped them.”
+
+Callan nodded in agreement, and there was no small amount of awe in the ghost’s eyes as he gazed up at Llyr. Pyre had been right to be impressed at his spell just now, then. Clearly healing at that caliber wasn’t a common thing in this world.
+
+The group returned to the infirmary after that. There, the three magic-users gathered in the center of the room to begin their spell experiments. Seeing as she had no idea how long this would take, Pyre opted to lounge back on a cot and observe.
+
+The answer turned out to be very long.
+
+The demon watched the mages discuss (argue, in the case of Callan and Daphne) various options, sometimes testing a few spells before they continued sketching out different glyphs. Llyr exited the room and returned with a stack of books at some point, which all three immediately pored over.
+
+Pyre finally gave up on trying to follow the thread of their conversation and firmly filed it away as “magic shit.” She glanced at the clock.
+
+At this point, six hours had passed, and the three didn’t seem any closer to a final spell. They worked straight through lunch, and it was only because Daphne’s stomach rumbled that they didn’t forget about dinner (though Pyre suspected all three of them would’ve been happy to work through that, too).
+
+Their research ended up continuing into the next day. They were up bright and early in the infirmary, already going over yesterday’s notes. Pyre listened to them talk for about half an hour before deciding she had no desire to hear this all again. And so, the demon exited the room, instead opting to explore the mansion while the mages worked.
+
+Callan and Daphne had already thoroughly catalogued the building, so it was now Pyre’s turn to stroll down the hallways, ducking into every room she saw. Her earlier assessment about most of the building being furnished the exact same way turned out to be very accurate.
+
+There were a few exceptions. There was the dining hall and kitchen, of course, and she snorted when she found the mansion library located right next to the room that Callan had picked for himself. It was smaller than the one in the Bellhein manor, but the books here looked like they were actually regularly read and used.
+
+A few of the rooms, too, were locked. Pyre jiggled the doorknob on the door at the end of the second floor. She vaguely recalled Llyr mentioning that he used some rooms for storage. This must be one of them.
+
+She briefly considered breaking in, but she figured she should at least wait until Daphne was healed before potentially pissing the healer off. With that in mind, the demon turned and continued roaming, purposely moving as slow as possible to take up more time.
+
+It was dark by the time she returned to the infirmary. Pyre made an executive decision to explore Serindell and the shore if they were still at it tomorrow. Maybe she’d go hunt some fish to get more [Aquatic Adaptation] shards or something.
+
+That didn’t turn out to be necessary, though, because when she stepped back into the infirmary, the three magic-users were clustered around a new sigil that had been drawn onto the ground. They all looked varying degrees of tired, but Daphne and Callan in particular were positively beaming.
+
+Pyre stopped in the doorway and cocked her head at the glyph circle.
+
+“You figure it out?”
+
+Callan and Daphne both jumped, spinning around to face the demon. Llyr just smiled at her, unperturbed.
+
+“We’ll need to test it first, but yes, I believe we may have a solution,” he said.
+
+Despite it taking two days, that still felt pretty fast to the demon. The benefits of having three heads working on the spell, she supposed. Three very nerdy and talented heads, at that.
+
+“Okay, cool. Go for it then.”
+
+The mages exchanged looks at that.
+
+“Well, we’re not ready just yet,” Callan said. He cleared his throat. “We need a few more spell components before we can try the spell out. Llyr had a lot already, but there’s still some stuff we’re missing.”
+
+“We should be able to buy it, though,” Daphne added, eyes gleaming in the dim light. They’d lit a few candles, but besides that, there was only the moonlight filtering through the window to illuminate the place.
+
+Pyre hummed in acknowledgement. “City trip tomorrow, then?”
+
+Llyr nodded. “Yes, we can head to Serindell tomorrow morning. It shouldn’t take long to find the components, and then we can test the spell when we return.” He glanced out the window and rose. “I’m sorry, I didn’t realize it was so late. I’ll begin preparing dinner.”
+
+Daphne stood as well. “I’ll help,” she said. Callan eyed her suspiciously.
+
+“Do you even know how to cook?” he asked. The noble promptly shushed him, but the ghost ended up following the two of them to the kitchen anyway.
+
+Left alone in the infirmary, Pyre took a moment to gaze out the window at the silver moonlight reflecting off the churning ocean waves. It looked peaceful, she thought. She hadn’t seen any more of those ichor releases since the last one, nor had anything else unusual happened.
+
+Despite this, a weird feeling settled in her chest as she stared out into the night. Anticipation, maybe. Or maybe it was something else entirely.
+
+The demon’s eyes narrowed. She stared at the silver light for just a moment longer, then turned away and made her way towards the dining room.

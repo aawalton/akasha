@@ -1,0 +1,121 @@
+---
+id: 318b77fc-e67a-5c14-8820-d54ff10073e4
+page-type-slug: story-chapter-royal-road
+title: "129. A Remnant Weapon"
+slug: 0129-129-a-remnant-weapon
+partOf: god-of-trash
+position: 129
+ownLength: 2151
+unit: words
+publishedAt: 2025-07-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2432534/129-a-remnant-weapon"
+royalRoadId: "2432534"
+---
+
+The hand clawed at the earth, fingers curling up on the surface of the earth, and a figure emerged from the filth. Rhys stared for a second, struggling to compute what he was seeing. He’d expected a giant skeleton to climb out of the well, but instead, there were three long bone fingers connected to a small figure’s back, then three on the other side…
+
+Rhys blinked. He rubbed his eyes, then stared. “Sable?”
+
+Ernesto’s ex-champion clambered out of the Impure Well. She gazed at him with haunted eyes, gunk dripping off her body-sock-and-black-leotard clad body, the bone armor that seemed almost a part of her gleaming in the low light. Like an animal, her eyes reflected the light, empty and devoid of human intelligence.
+
+Rhys put his hands up. “Sable, it’s me. Do you recognize me? Rhys, from the tournament?”
+
+She whipped around, glaring. A thousand questions ran through his head—what was she doing in there, had she survived the Empire’s march uninjured, where was Ernesto, did she know where Straw was—but Rhys choked them all back and just kept his hands up, silently waiting for her to react to him. She was in fight-or-flight mode right now. If he made a quick motion or too much noise, she would attack, so he waited for her to calm down and breathe. Sable looked around, left and right, then finally registered Rhys. Her shoulders un-tensed, and she blinked. “You’re not the Empire.”
+
+“No, I’m not,” Rhys agreed. “Are they who put you in there?”
+
+“Put me?” she frowned at him. “No, I hid in there to escape the Empire.”
+
+It was Rhys’s turn to frown at her. Even he wasn’t crazy enough to just… hang out in an Impure Well for an extended period of time. They were horrifically corrosive and they smelled horrible. Sure, he could nullify most of the danger, but even so, it was a disgusting proposition, and for anyone who wasn’t Rhys, incredibly dangerous. Why would she go into one deliberately, and not only that, but hide there?
+
+Sable shook herself, shedding the last of the filthy liquid. She gestured. “I’m the daughter of a Remnant Weapon. If not for Ernesto, I would have been imprisoned under the Alliance. What do you think the Empire would do to a monster like me? Especially when the Empress can’t take my core and control me.”
+
+Rhys pressed his lips together. She had a great point. The Empress allowed Lira to be thrown into the sewers, and Lira was just another race of humanoids. Sable was the child of a construct built to be a humanity-destroying weapon. There was every chance that they’d execute her on sight.
+
+But that didn’t answer all his questions. “How’d you survive in there?”
+
+She pointed to the fang dangling from her beaded headdress. “Father’s fang. It creates a barrier that keeps out the worst of the impurities and filth. When I was little, I used to live near a well, and hide in it whenever someone got too close. It’s how I survived before I got strong enough to hold my own.”
+
+He looked her up and down. “But it still lets some through, right?”
+
+Sable hesitated, then nodded.
+
+Rhys held out his hand. “I’ll take those for you.”
+
+“Are you sure? I have Impurity Resist.”
+
+“I do, too. And I can use them to make myself stronger,” Rhys returned.
+
+She raised her brows, then delicately extended her hand and laid it in his. The glove brushed against his hand, and the cold bones on the back of her gloves pricked against his skin almost like a cat’s claws. He pulled the impurities into himself, and she shuddered, then stretched luxuriously. “I feel so clean.”
+
+“It might feel that way, but make sure you take a bath as soon as possible. Apparently this doesn’t take scent,” Rhys warned her. He walked forward, toward the well.
+
+“Where are you going?”
+
+“Back to my hideout, but first, I’m sucking up this Impure Well,” Rhys declared. He hesitated, looking back at Sable. “And that has nothing to do with it being gamer girl bathwater, okay? I was going to absorb it before I knew you were in it, just so we’re clear.”
+
+“Gamer… what?” Sable asked, squinting.
+
+“Don’t worry about it. From the bottom of my heart, don’t worry about it. By the way, hold up, we need to talk some, but I think I’m gonna invite you back with me… but I gotta slurp this thing before we talk. It’s way too distracting.” He knelt and reached down, then thought about it for a moment. He could reach the well now, sure, but it would go down as he absorbed it, and not only that, but he wanted to get the bonus bones at the bottom as well so his Skelly Boy moved even faster. Standing up here got him none of that. He backed up, then ran at the well.
+
+Sable watched him, her brows furrowed in utter confusion.
+
+He gave her a jaunty wave, hopped into the air, and curled up into a ball. “Cannonball!”
+
+Rhys slammed down into the Impure Well. Impurities started to splash everywhere, only to whirl about in midair and rush into his core instead. He plunged down into the liquid, greedily absorbing it as he fell. Impurities, trash, and gunk flowed into his trash star, rejuvenating it and growing the trash star back up toward its original size. Compared to the farm, this gave him much more trash mass and high quality impurities.
+
+I suppose I should expect to mostly free people when I head to the camps, and look for Impure Wells to feed the trash star. Of course, he had Skelly Boy now, aka his auto-Impure Well sensor, and from the sounds of it, Sable knew where a few Impure Wells were, as well, or at least one. Lots and lots of Impure Wells for him to slurp up, and keep his trash star burning.
+
+Impurities rushed into him, scything into his trash star. He dropped into the well like a stone, sucking out impurities below him to burrow deeper and deeper, while more impurities poured into him from above. He was a vacuum of impurities, a whirlpool forming on either side of him as the impurities poured in so quickly that the entire flow of the well was altered. They swooped into the trash star and ignited, joining the rest of the trash plasma within. Down, down, down, into the darkness of the well. Curse power awaited him in the depths, and another duel with the rider. He already knew what awaited, so he kept a hand on his sword, ready to attack. The key to the rider was to fight him before he got his charge started, and since he knew what was coming, there was no reason to wait. He was going to attack the second his feet touched the ground.
+
+Sadly, the second Impure Well he’d run into didn’t have any hidden chambers with mysterious warriors holding sunlight swords, and, for that matter, the original sunlight sword was hidden away underground back at Purple Dawn, where he’d hastily hidden a few items in the ground before getting captured. He hadn’t recovered them yet because the majority of what he’d hidden was too recognizable, like Rina and Betsy’s outfits or the aforementioned sunlight sword, and besides, they were irreplacable artifacts and he was in a very dangerous scenario, where he was likely to get his gear taken from him and misused by the Empire at any moment, but he at least knew where they were, to come back to them later. He hadn’t simply buried his storage rings for two reasons. One, they had relatively strong magical signatures, and were easy to find; two, if the Empire found none of his gear, they’d get suspicious and go hunting to find his real gear, whereas handing them the majority of his gear meant they wouldn’t search for the truly valuable artifacts. Of course, it meant he’d lost all his gold, and he was still a little bitter about that, but he had a plan to get it back.
+
+But who knew? Maybe this Impure Well would have a hidden chamber, too. There was no telling until he got there.
+
+He landed on the earthen floor, slurping up the last of the impurities. Rhys stayed on his toes and kept his head on a swivel, waiting for the rider to appear. As the curse energy coalesced and the rider took form, Rhys instantly charged in, hacking apart the bones even as they formed together. The rider materialized for a split second before Rhys tore it apart, then absorbed its curse power and the remnant bone. He brushed off his robes and looked around, walking the outer walls to make sure he missed nothing, but like the second well, there was no chamber here, either.
+
+Huh. Wonder what it was about that first well? Maybe someone just tried to challenge the curse in its center and failed, or something? He shrugged to himself, then bent his knees and leaped, clearing the top of the well in two easy bounds. Dusting himself off, he turned to Sable. “So, where were we?”
+
+She stared at him with wide eyes. “What did you just do?”
+
+“I absorbed the filth. What? Is there a problem?”
+
+“How? That’s… even the Alliance couldn’t figure out what to do with the Impure Wells. You can’t just absorb them like that.”
+
+“Never let someone tell you never,” Rhys told her confidently. She gave him a look, but he didn’t explain any further. Instead, he nodded. “So how did you end up here?”
+
+“I was fleeing the Empire, and the Impure Well in Purple Dawn Academy was dry,” she said. Her eyes narrowed.
+
+Rhys coughed. “Right… sorry about that.”
+
+“It does make a lot more sense now,” she said.
+
+Quickly changing the topic, Rhys furrowed his brows as he realized something. Sable was Ernesto’s student, no, his champion, but she was fleeing the Empire alone? “Ernesto didn’t help you?”
+
+She laughed. “Ernesto fled before the Empire attacked. He abandoned all of us, all of his students, and escaped with his experiments alone.”
+
+His experiments. That reminded him. “Was Straw one of his experiments? That is, was one of his experiments composed of a lot of straw or hay?” Rhys probed.
+
+Sable tilted her head at him. The beads swayed across her forehead. “Why… Oh, that’s right. You’re the Strawman’s disciple, aren’t you.”
+
+He nodded. She already knew, so there was no point holding back or hiding the truth.
+
+“He did take what he had of the Strawman with him, but he didn’t have the whole Strawman. The Alliance insisted on keeping the majority of the Strawman locked away, so he couldn’t reform. Ernesto only ever had a small sample of him.”
+
+“That’s unfortunate… but good to know,” Rhys said. He patted the tiny Straw doll hanging from his sword. It meant there was no reason to poke around Purple Dawn any longer, but if he ran into Ernesto or an Alliance stronghold, it was worth looking into. He nodded to her. “You didn’t have to tell me that, but I appreciate that you did. Thank you.”
+
+She harrumphed. “Ernesto abandoned me, knowing that I would die. There’s no reason to remain loyal to him any longer.”
+
+Rhys nodded. In his opinion, Sable never had any reason to remain loyal to that shitstain to begin with, but then again, it wasn’t like he’d understand what it was like to be the child of a Remnant Weapon, coursing with cursed energy, unable to throw off the negative association the Alliance had with her father, called a monster for the bones that grew out of her, which she’d never asked for or wanted. From her perspective, he could see even an asshole like Ernesto becoming a savior, the one person willing to give her any chance at all to become a mage, despite all his personality issues and selfish goals.
+
+“You have two options, Sable. Are you going to try to escape, and reenter the relative safety of the Alliance? Or do you want to fight with me, and take down the Empire?”
+
+She crossed her arms. The spider arms on her back put their tips on her hips. “Well, someone sucked up my hiding spot, so…”
+
+“Sorry about that,” Rhys muttered.
+
+Sable shook her head. “Someone would have found me eventually. I didn’t want to spend the next decade or century locked in that place, slowly getting more and more corrupted. Once the initial attack was over, I meant to emerge, but it’s hard to keep track of time when you’re surrounded by impurities, slowly invading your body and mind.”
+
+She took a deep breath, thinking, then turned back to him. “I’ll fight.”
+
+“Excellent. Welcome to the team.”

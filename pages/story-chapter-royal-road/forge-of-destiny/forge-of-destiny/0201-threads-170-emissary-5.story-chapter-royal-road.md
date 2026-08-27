@@ -1,0 +1,131 @@
+---
+id: c0ffbb9d-d495-53ee-8075-5a6085fc938b
+page-type-slug: story-chapter-royal-road
+title: "Threads 170-Emissary 5"
+slug: 0201-threads-170-emissary-5
+partOf: forge-of-destiny
+position: 201
+ownLength: 2081
+unit: words
+publishedAt: 2022-01-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/819744/threads-170-emissary-5"
+royalRoadId: "819744"
+---
+
+At least Gan Guangli seemed to be getting along with them.
+
+“While I stand by my word. I will not deny your dedication to excellence,” the foreign man rumbled as he stood up, flexing his hand.
+
+“I apologize for my earlier words, Sir Ostrik. They were spoken in ignorance,” Gan Guangli said. Standing as well, he bowed his head.
+
+“Youthful impetuousness, I am well acquainted with it,” the older man said, waving off his apology. “But we have guests! My apologies for not noticing your entry, Emissary!”
+
+Ling Qi felt a faint stirring of her old nervousness as all the eyes in the room turned to her. She put aside her discomfort and offered a small bow. “Please do not mind me. I was just hoping to check on my companion and view your shrine.”
+
+The man, Ostrik, gave her a toothy grin and spread his arms wide. “Be welcome then, though it is but a humble place we have built, so far into the wilderness we are.”
+
+“Your carvers and painters have certainly done amazing work,” Ling Qi complimented. The faces carved upon the pillars seemed almost alive looking down on her.
+
+<They might be just a little,> Sixiang murmured.
+
+“But please, let me introduce myself. I am Ling Qi, and this is my junior sister, Hanyi,” Ling Qi said politely. “And Zhengui, my brother, is on my right.”
+
+“I am Ostrik the Sunsoul, keeper of this little place. Be welcome, Lingchee of Tsai,” the man boomed. He waved his hand, scattering the lesser priests back to their duties. Gan Guangli followed him as he came around the well. His gaze turned down to her companions, and for once, his expression didn’t fall or change as he stopped in front of them. Ling Qi blinked as he knelt down, reaching under his mantle to rummage for something.
+
+His hand emerged holding a faintly glowing object. At first, Ling Qi thought it was a spirit stone, but the qi was not right for that. In fact, it looked almost like a sugar candy. He extended his hand to Hanyi and smiled kindly. “Hello there, young miss. I’ve heard good things about you. Do you think you would care for a treat?”
+
+“I’m not some kind of baby,” Hanyi huffed, but she glanced up at Ling Qi. “I guess I’m a little hungry though.”
+
+Ling Qi met Ostrik’s gaze and gave a little nod.
+
+“I, Zhen, hope that Sir Sunsoul is not going to be stingy,” Zhen hissed.
+
+Ostrik blinked. “What an odd little god to speak like a man, but let none say that I am ungenerous.” Two more candies were flicked out and caught in two mouths. Both of Zhengui’s heads hummed in happiness.
+
+Ostrik dusted off his trousers as he rose back to his full height, towering near a full head over even Ling Qi. “I apologize if I might have overstepped myself, Emissary, but I know it can be difficult to care for children.”
+
+“I do not mind,” Ling Qi said slowly, watching Hanyi. She was rolling the candy around in her mouth. Her eyebrows were scrunched together, and she seemed intensely focused on the flavor. “What was the contest between you and my companion about?”
+
+“I spoke too quickly,” Gan Guangli explained, dipping his head. “I still find it strange that you would disdain martial valor so, Sir Ostrik, when you are clearly a man of great might.”
+
+“It is not a matter of disdaining valour,” Ostrick grunted. “A man should not raise his hands against his fellow man, save in friendly sport.”
+
+“If you do not mind my asking, why is that?” Ling Qi asked. It seemed that what she and Meng Dan had learned from the letters was accurate at least.
+
+The foreign man rubbed his chin thoughtfully, considering her for a long moment before gesturing to the columns. He spoke in a clear, rolling voice that commanded attention. “It is as you see around you. The three aspects of the sun are the three aspects of men: joyous, inspirational Koliada, Lord of the Dawn; raging, mercurial Perkunas, the Stormbringer; and the wise, mysterious Crowfather, who walks beyond the Gates. A man who raises his hands to other men has allowed Perkunas to master him, giving in to his natural tempestuousness and rage. Such a man cannot stand among the suntouched for he is open to the whispers of the Outer Night.”
+
+Gan Guangli frowned during the speech, but she got the impression that he had already heard it. “I am not inclined to agree. Discipline and martial practice go hand in hand.”
+
+“It is good then that you speak to a man as radical as I and my comrades,” Osrik said in amusement. “Some of my crustier colleagues regard even sport as too much. But you held up against me in Koliada’s light, so let us argue no more. Perhaps in your strange, northern lands where the Night is weak and the Sun is ascendant, things are different.”
+
+“I will say no more on the matter, Sir Ostrick,” Gan Guangli said. “I must say, I was expecting you to defeat me more easily given your power.”
+
+Ostrik’s thick eyebrows rose. “Under the light, such contests are not a matter of strength, but spirit and discipline.”
+
+Ling Qi had been wondering about that. Ostrik seemed like he was at the peak of the third realm, although she was unsure how accurate her senses were among these people. Still, it was a good thing to know that these people differed from their more southerly peers. Something to note for her report.
+
+“Is that how you come to accept the men of the cloud tribes?” Ling Qi asked, drawing his attention back.
+
+Ostrik’s lips briefly twitched into a grimace. “Yes, it is a hard thing, but they are not quite men as we are, yes? Their beast souls protect them from the whispers of Night. They cannot be suntouched, but their ways do no harm, so far from the Gates.”
+
+He must be referring to the cloud tribes’ cultivation method where they bonded with their mounts to the point of combining cultivation.
+
+“Let me ask you a question in turn, Emissary,” Ostrik said. “Could you explain to me this business with you and these children? The being behind your eyes is certainly the sign of your pact, as your husband’s sun shadow is, but I do not understand what I feel between you.”
+
+She and Gan Guangli shared a look, and Ling Qi grimaced. “Ah, that is another misunderstanding. There are no marriages among our group.”
+
+Sixiang stifled a chuckle in her head.
+
+Ostrik blinked, a look of mild surprise crossing his features. “Are you seeking to seal a marriage alliance then? That seems hasty for a first meeting.”
+
+“No, we are not,” Gan Guangli said a little too quickly.
+
+“We are not,” Ling Qi agreed.
+
+Ostrik shook his head. He seemed a little disapproving in the look he gave Gan Guangli now. “Well, regardless, you haven’t answered my question, Emissary.”
+
+“It is difficult to explain quickly,” Ling Qi said, looking down to Zhengui, who was now peering around curiously at the room. Zhen seemed a little hypnotized, staring into the light radiating from the amber at the center of the chamber. “Under the imperial methods, a cultivator”—seeing Ostrik's incomprehension of the word, she corrected herself—“a person of power can choose to join their qi with a spirit or beast. The spirit or beast provides strength and companionship to the person, and the person offers the spirit or beast new avenues of growth.”
+
+“So it is like the bonds of the cloud folk, but less deep and permanent,” Ostrik mused, combing his fingers through his beard. “Yes, I suppose that makes some sense.”
+
+Ling Qi pressed her lips into a thin line. It really wasn’t the same at all.
+
+<I don’t think he’s wrong. If he is, it's just a matter of degree,> Sixiang chided.
+
+Maybe, Ling Qi allowed grudgingly. It wasn’t worth arguing over.
+
+“Hey, Mister Ostrik, do you have another one of those candies?” Hanyi piped up from her side, smiling sweetly.
+
+The foreigner let out a chuff of laughter and reached under his mantle to procure another. “Only one more, young miss. You’ll get yourself sick otherwise.”
+
+“Thank you!” Hanyi chirped, all but snatching it out of his hand.
+
+It was amazing how fast that girl’s mood could turn around. “Well, thank you for your time and kindness, sir. Will you be staying a while, Gan Guangli?”
+
+“I think I should like to,” Gan Guangli said. “If Sir Ostrik would allow it, I would enjoy conversing further on our differences and similarities.”
+
+“I can free the afternoon, particularly for a young man in so much danger given the sensitivity of all this,” Ostrik said primly. “Better you stay with me than find yourself in the barracks.”
+
+Ling Qi coughed. The implication was bizarre. The foreigner sounded like a scolding grandmother. Gan Guangli’s expression screwed up in disbelief as well.
+
+“Well,” Ling Qi said a touch too loudly, “I meant to ask, Sir Ostrik, is there a place like this for those of my type? If I am to speak in the role I have been labeled as, I think I should understand your customs better.”
+
+The sun priests were interesting, and she had definitely learned more about how these people organized themselves socially, no matter how strange it was, but she still needed to learn what the title they assigned her meant.
+
+Ostrik looked thoughtful as he nodded. “I suppose so. You’ll find the shrine of winter, the lesser one at least, further along this hall here.” He gestured to the entrance on the far wall. He gave her a series of directions, and with a final bow, Ling Qi parted ways, leaving Gan to his discussion on the nature of the Sun with the older man.
+
+The path she took was not a long one, though it took many turns. This place, Ling Qi decided, would be a nightmare to invade with peer forces. She trailed her fingers along the wall and found herself unable to press through the dense, qi-rich iron. It was like trying to push through another cultivator.
+
+As she drew closer to the shrine, the painted sky overhead began to burst into the rich colors of sunset and then faded into black. With every step she took, the light dimmed. Had she been a mortal still, it would have been pitch black by the time the passage opened into a tall cylindrical room with a domed roof.
+
+Arranged around the room, she saw three statues of iron, their heads near the ceiling some five meters up. On the left was a young woman in rich furred regalia. A spiked crown similar to what Jaromila had worn in battle rested on her head. A scepter was clasped in her right hand and raised toward the roof, and her left hand clasped a sparkling orb of crystal to her chest.
+
+In the center was a mature woman, whose hands held weapons of gleaming blue ice, a pair of axes raised over her head. The mature woman’s expression was a defiant snarl, and her hair hung loose and wild about her shoulders. Scandalously, the woman was garbed in only the hide and fur of some unidentifiable beast, wrapped around her shoulders like the cloak. The rest of her body was wholly bare and rendered in uncomfortable detail.
+
+On the right was a crone. Hideous, with sagging jowls, a pointed chin, a bulbous nose, and wild straw-like hair, the crone bent over a table and held a mortar and pestle in her hands. She was garbed in shapeless robes and furs, and her expression was a snaggle-toothed smile exposing crooked fangs. A necklace of human skulls hung about her neck.
+
+For a long moment, Ling Qi’s gaze lingered on the crone. Something in the cold iron visage resonated with the chilling note of silence and endings which she had cultivated in the form of the Frozen Soul Serenade and the Starless Night’s Reflection arts. More than that, there was something lonely there in the hunched shoulders and shadowed, wrinkle-lined face.
+
+Ling Qi felt Hanyi squeeze her hand then. She glanced down at Hanyi, and the spirit looked back curiously. “Why’d we stop, Big Sister?”
+
+“It’s nothing,” Ling Qi said quietly. It seemed disrespectful to speak loudly in this place. “Let’s take a look.”

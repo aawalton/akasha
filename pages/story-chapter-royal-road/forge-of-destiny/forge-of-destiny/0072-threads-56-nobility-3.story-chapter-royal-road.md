@@ -1,0 +1,143 @@
+---
+id: 250d5af0-ce44-5b87-950f-059d4996e939
+page-type-slug: story-chapter-royal-road
+title: "Threads 56-Nobility 3"
+slug: 0072-threads-56-nobility-3
+partOf: forge-of-destiny
+position: 72
+ownLength: 3427
+unit: words
+publishedAt: 2021-03-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/639887/threads-56-nobility-3"
+royalRoadId: "639887"
+---
+
+Ling Qi felt as if she were on the cusp of a realization. Meizhen used her mannerisms as a nigh invulnerable armor to deflect unwanted social advances, and for a time, emulating her had been helpful. But just as she had found her own combat style, Meizhen’s social style was not hers, and continuing to cling to that false face was only doing her harm in her interactions with others. She would have to figure out her own approach in the future, an approach that was more honest to herself. For now, she had a lion to hunt.
+
+It did not take too long to work out their plan. They would separate and begin working their way through the beast’s territory, harvesting plants and herbs. Ling Qi would take the central role so that she could easily react if either of the other two were attacked. Sha Feng and Lin Fei would also release their spirit beasts, a hawk and an owl respectively, to act as overwatch and messenger to the other groups as necessary.
+
+Simple and elegant as a plan should be, in Ling Qi’s opinion. It did rely on the lion being hungry enough to attack, but Alingge and she had not seen any signs of recent kills, so that should be fine. If the lion did not take the bait, they would just have to flush the beast out of its lair.
+
+The downside of this was that it was a pretty dull plan to enact. The fact that they had to separate meant that they couldn’t chat much, and Ling Qi had found that she didn’t mind her companions’ company.
+
+By the time they separated and Ling Qi started collecting herbs, she was beginning to entertain the seed of an idea. Maybe she could set up her own little gathering in the future? It would have to be a small gathering, since she still disliked the crowding of Cai Renxiang’s parties, but she should try to slowly bring some of her disparate social groups together. She wasn’t quite the same confused commoner she had been the last time she had made the effort with the Golden Fields group and Su Ling and Li Suyin.
+
+While she mused on such thoughts, she kept her senses alert, keeping close track of the twin beacons that were her companions’ qi. They were well out of sight, but if she poured on the effort and dropped her suppression, she could be on either of them in seconds.
+
+<You’re such a mother hen sometimes,> Sixiang laughed.
+
+<There’s nothing wrong with caution,> Ling Qi thought primly, reaching down to pluck a bunch of wild berries. She paused just before her fingers could touch them. She had felt something, a ripple in the wind and ambient qi, a well hidden spike of hostility and hunger. Ling Qi vanished, leaving the berry bush swaying as air rushed in to fill the space where she had been crouched.
+
+It did indeed only take a few seconds for her to reach the clearing where Sha Feng had been gathering herbs. A snarling, two-meters-long cat with dull grey fur marked with darker spots and stripes was upon him. The beast had him pinned to the ground, and its jaws were locked around his forearm, fangs digging into the thick leather bracers worn under his armor and the flesh beneath. The beast’s claws scrabbled at his chest, cutting through cloth and leather to cut lines of red in flesh.
+
+Ling Qi had to restrain the reflexive urge to sing a single sharp note and blast the beast off of him because Sha Feng’s expression was one of excitement rather than distress as he struggled to wrestle his way out from beneath the great cat. Remembering her words, Ling Qi instead materialized in the branches of a tree above and breathed out, a ripple of vital qi spreading through the clearing with the beat of her heart. Sha Feng’s skin shimmered with viridian light and suddenly, the beast’s claws no longer found purchase.
+
+She watched in some bemusement as the young man used the beast’s moment of confusion to free his other arm and with a vortex of howling air gathering around his fist, punched the lion in the side of the head in three rapid jabs. The beast seemed hardly harmed by the punches, but the grip of its jaws on Sha Feng’s forearm loosened. Ling Qi felt the older boy take hold of the wind, his outline briefly wavering as he slipped free and reformed a meter away in a ready position, a saber in his left hand.
+
+The beast let out a low snarl as it rounded on him, and she could sense the beast’s attempt to discern the source of the shimmering viridian armor. It wasn’t stupid. For a time, Ling Qi patiently observed as the lion circled and the boy feinted and slashed, not letting himself get pinned again.
+
+Then Ling Qi spotted the fluttering of wings in the sky overhead and grinned, allowing her hold on her qi to loosen. The lion immediately began to turn toward her, the greater threat, ignoring the bellicose boy advancing on it with a saber only to yowl as an arrow carved from pale green wood punched into its flank from the other side. Immediately, the beast shimmered, the air around it shifting as light and wind bent. Ling Qi watched as it darted off to the south, but her other senses showed the trail of qi leading west.
+
+The hunt that followed lasted a bit under half an hour as the pursuing nobles came out of the woodwork to chase down the fleeing beast. It was not exactly what Ling Qi would call harrowing or challenging, but she somehow got caught up in it, hopping through the canopy of the trees beside Alingge as they directed the others. Some part of her had been worried about Sha Feng’s wounds, but all told, he seemed rather pleased with them, boasting to the others about his brief tussle and letting Lin Fei fuss grumpily over him.
+
+At last, the lion fell, wounded and boxed in by disciples with spears and swords. She might have felt bad for it, but Ling Qi was not that softhearted. It was a predatory spirit beast, unbound and wild. The only reason it did not prey on humans regularly was geography. All in all, the hunt itself seemed almost anti-climactic.
+
+She supposed that the hunting was always a sideshow given the venue. Ling Qi watched a particularly brawny boy hoist the carcass onto his shoulders as the others chatted and laughed. Through the crowd, she met Luo Zhong’s eyes, and he smiled. The time for the real challenge had come. The victory celebration.
+
+So far, she had been prodded and herded and put on the spot. But why? She still was not sure of the Luo scion’s intentions, and that bothered her.
+
+***
+
+Ling Qi idly swirled the contents of her cup as she observed the ongoing celebration. From the depths of someone’s storage ring, the party had gained several barrels of a rich fruit cider, and in the center of the clearing, a great fire pit had been dug to use in roasting their catch. Ling Qi was not sure how good the meat of the mirage lion would end up tasting, but she supposed that wasn’t the point of this gathering. Besides, the disciple tending the fire did look like he knew what he was doing with those spices. The beast’s skin was stretched on a drying rack and would go to Alingge, who had landed the fatal shot. The core had been presented to Luo Zhong, of course.
+
+She observed the scion of the Luo where he sat, leaning against the side of his hound, which gnawed lazily at the bloody haunch that had been provided to him. Luo Zhong seemed to have an air of satisfaction about him as he chatted with the Sha brothers.
+
+“Satisfied with your success?” Ling Qi did not startle when Wu Jing spoke up from beside her. It had been easy to sense his approach.
+
+“I am. Everyone seems to be enjoying themselves,” Ling Qi replied evenly. She did not turn toward him. It was a minor snub, but no more than his rude words earlier had earned. “Except perhaps for you.”
+
+Somewhat surprisingly, Wu Jing did not seem to take offense, merely making a noise of agreement. “No one received any serious wounds. The risk was still foolish, but I have no reason for complaint.”
+
+She looked over at the young man out of the corner of her eye. “We are all cultivators. Without risk, how will we grow?”
+
+He gave her an unimpressed look from underneath his bushy eyebrows. “And that, Miss Ling, is part of why I find you disagreeable. You risk easily, you offend easily, and you think nothing of us as you climb over our heads seeking higher peaks.”
+
+“I will not apologize for growing as strong as I am able,” Ling Qi shot back. “It is others who choose to take offense when I pass them.”
+
+“I am not criticizing your focus on growth,” Wu Jing said with a frown. “It would be foolish not to leverage your talent. I am criticizing your disregard. Even now, you hold your peers in contempt. Nay, I would say that you do not even see them as your peers. It is an attitude that bodes poorly for the future of our province.”
+
+It was only Sixiang’s influence that kept Ling Qi from snapping back. “As I have been reminded of many times, I have little experience in the dealings of my peers,” she rebutted coldly. “I apologize if that has caused me to give offense.”
+
+“I would not find you so disagreeable if it were mere inexperience,” he countered. “You are not as subtle as you think, Miss Ling. I have observed you at Lady Cai’s gatherings. You think very little of us. Even today, you approached this gathering as a tiresome chore. Others might be afraid to speak their minds on the matter due to your backing, but I am not.”
+
+Ling Qi was silent because he wasn’t wrong. Even if she had resolved to change her approach, it didn’t change how she had acted previously in social gatherings. “You are correct that I find large gatherings tiresome and treacherous, but that does not reflect on individuals,” she replied after a moment. “I find Sha Feng and Lin Fei agreeable enough, and I quite like Alingge after our conversation. So, I will apologize one final time.” Her voice grew sharp . “However, if you continue, I will take offense.”
+
+She met his eyes, glacial blue to stony grey, and she felt the pressure of his qi against hers. A dusting of frost spread over the grass, and the faintest rumble of vibration shook the earth. Then, the moment passed. Ling Qi was faintly aware of some of the others shooting curious or concerned looks their way.
+
+“Perhaps you speak true,” Wu Jing said as the pressure faded. “But I find your attitude troubling all the same for one who has the ear of our lady. If you are sincere, then pay a mind to the perceptions and echoes of your actions in the future. The Emerald Seas can little afford instability. The Wu remember how fragile prosperity truly is.”
+
+“I hear your advice,” Ling Qi said, and now that she had calmed her temper, she understood at least the position he came from. It struck her then what an awkward position Cai Shenhua must have put a large section of her own supporters in with last year’s business. It was grating to be thought of as a bad influence on Cai Renxiang though. “But, like my lady, I will not compromise on some matters.”
+
+“We will see. I apologize for my own harshness and for taking so much of your time, Miss Ling.” Wu Jing offered a stiff, but slightly lower than necessary, bow and turned to join the others.
+
+<What a pain,> Ling Qi thought.
+
+<Hey, now, that’s the attitude bringing you trouble,> Sixiang chided. <It’s not like you’ve given much reason for them to be friendly, right?>
+
+Ling Qi silently agreed, but it was still a pain. But she wouldn’t get anywhere just standing here alone, and so, taking a moment to center herself, Ling Qi strode toward Sha Feng and his brother. Best to start on more familiar ground.
+
+She kept herself focused as she mingled, not letting her thoughts wander too much. It was not that bad a time really. She chatted with the Sha brothers, swapping stories about encounters with moon spirits, which evolved into speaking with Lin Fei and one of her close friends, a doll-like and exuberant girl who was practically swimming in pink silk and lace. Ling Qi suspected that Xiulan would either love or hate the girl with no in-between. Still, her experience with her hot-headed friend meant that she could hold her own in a conversation about style and fashion.
+
+When they drifted off, she spoke with Alingge for a time regarding the care and training of spirit beasts. She may have ended up gushing over Zhengui a little too much, but Alingge seemed not to mind. The meat was finished about the time they finished up their conversation, and she accepted her portion from the boy who had handled the cooking, noting the faintly starry-eyed way in which he regarded Alingge. He was a new baron like herself, if she remembered correctly. She supposed she wished him luck. The roast was surprisingly good; he was certainly skilled enough at cooking.
+
+From there, she drifted to and fro, engaging with the other disciples in pairs or trios. She even managed to have a fairly civil conversation involving Wu Jing as things were winding down. She found her efforts stymied with some. Her previous reputation and isolation had clearly solidified negative impressions in their minds, but overall, she was cautiously hopeful. The nobles of the eastern Emerald Seas, or at least this cross section of them, seemed better inclined toward her than most.
+
+Soon enough, the gathering reached its end, and people began to take their leave, Ling Qi among them. She would probably be buried deep in the archive through the night, and then in the morning, she had an appointment with the arriving Bao scion. Luckily, he wanted to speak with Li Suyin as well, so she wouldn’t have to awkwardly meet him alone.
+
+“Thoughts wandering from the trail again?” Luo Zhong’s voice shook her from her thoughts as the boy approached her, his giant hound padding at his side.
+
+“Just considering my schedule,” Ling Qi answered. She had eased herself into being a touch more casual during the party. It made things a little easier on her frankly. “There’s hardly a moment to spare, you know?”
+
+“I do indeed,” he replied, studying her. “You did enjoy yourself here, I hope?”
+
+Ling Qi considered the question. There were certainly parts of the gathering which she had found disagreeable, but overall, it hadn’t been a terrible afternoon. “I am glad to have received your invitation,” she said, offering a bow.
+
+“A somewhat vague answer,” Luo Zhong chuckled, amusement in his eyes. “In any case, you are welcome to join us again.”
+
+“I will consider it, as time allows,” Ling Qi said. “I hope there will be less testing in the future,” she added more quietly, meeting the young man’s eyes.
+
+His faint smile widened into an amused grin. “I have your measure now, I think. Worry not. Have a good evening, Miss Ling.”
+
+“You as well, Sir Luo,” Ling Qi replied evenly before turning away.
+
+Just because she had been overthinking things didn’t mean there wasn’t a game to be played. Still, she had learned a fair amount today. Most of the Luo vassals were Weilu moderates that valued the traditions of the Emerald Seas but accepted that change was inevitable, and thankfully, they were mostly neutral toward her. However, those that aligned with Imperial moderates, who valued the prosperity brought by the unified Empire, and those such as Wu Jing that aligned with Imperial conservatives, who valued obedience to the decrees of the Imperial throne, were suspicious or cold toward her. Ling Qi also got along well with Alingge, who was the only one who could be viewed as aligned with the Old Tribe faction, a group that was characterized as being heavily traditional and isolationist but generally ignored changes which did not intrude on their ways. Of course, as the only one, it was hard to read into that much.
+
+In the end, experience was more valuable than any number of ledgers full of lineages and dry histories. She owed it to Cai Renxiang to learn the landscape of their home.
+
+***
+
+“Who knew that you and your family were so popular?” Ling Qi murmured in amusement as they exited the archive. After a night and morning spent amidst whispering shelves, the warmth of the noontime sun felt good. Being able to tease Sixiang back for once, on the other hand, was the best.
+
+“I still don’t know why you took that thing,” Sixiang grumbled, making the wind kick up around Ling Qi. “I never thought I’d see someone deconstruct the idea of having a good time like it was some complicated idea.”
+
+“It seemed like a useful area of study to me,” Ling Qi disagreed, looking out over the landscape from the top of the carven cliff the archive occupied. It had surprised her just how many arts there were that studied the nature of moon spirits as a social tool.
+
+“Of course you would need step by step instructions and exercises for loosening up,” Sixiang huffed. “At least we’re done, right?”
+
+Ling Qi hummed in agreement. She had found several likely arts which could improve her socializing ability. Playful Muse’s Rapport was inspired by the playful nature of the children of the Dreaming Moon, an art that focused on conveying thoughts clearly and with utmost honesty of intent. Moonless Saboteur’s Smile was inspired by the behavior of the spirits of the hidden moon in the Weilu courts, an art that subtly arranged matters to the benefit of mortals who caught their fancy.
+
+When searching, Ling Qi also found a social art for interacting with spirits. Melodies of the Spirit Seekers had been developed in the late days of Xi’s reign and sought to deal with spirits in a way that prevented misunderstandings. It was out of fashion among the nobility of the Empire as nowadays, spirits were normally dealt with through genuflection, appeasement, or exorcism, but as Ling Qi had told the Dreaming Moon, a lot of her successes had come from coming to an accord with spirits.
+
+Since Ling Qi had mastered the Curious Diviner’s Eye art already, she picked up two successor arts to it at the archive as well. Both successor arts had similar techniques, but Roaming Moon’s Eye focused more on information gathering in a wide area whereas Casual Diviner’s Pose focused more on combat perception.
+
+She would decide which of the social arts and which successor art to start cultivating later. She had already planned out her cultivation for the weeks immediately ahead. Until then, she would just have to consider which of the arts fit her needs going forward.
+
+“I suppose I should be getting down to the Sect town,” Ling Qi sighed, looking down from the clear blue sky to the green landscape below. Hopefully, the meeting with her potential Bao suitor would not be too awkward.
+
+“Just relax,” Sixiang said, and Ling Qi felt the phantom sensation of fingers jabbing her side. “Remember not to wind yourself up. Go meet the guy, and let yourself have fun for goodness sake.”
+
+Ling Qi irritably swatted at the air, dispersing the fragile constructs of wind Sixiang was poking her with. She knew what she had to do; that didn’t make it easier. “I know, I know,” she grumbled. “Now quit it.”
+
+Sixiang huffed. <If you know, then quit stalling,> they challenged.
+
+Taking only a moment to breathe, cycle her qi, and still her thoughts, Ling Qi stepped off the cliff and allowed the rush of wind past her ears to settle her nerves. A moment before she would have struck earth and branch, her winged cloak flared, and Ling Qi swooped back up, soaring toward the town.

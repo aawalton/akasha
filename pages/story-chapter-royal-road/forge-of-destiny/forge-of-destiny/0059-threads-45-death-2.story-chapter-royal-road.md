@@ -1,0 +1,185 @@
+---
+id: 0e510cd4-bf3c-50f2-86a5-b9973c71072f
+page-type-slug: story-chapter-royal-road
+title: "Threads 45-Death 2"
+slug: 0059-threads-45-death-2
+partOf: forge-of-destiny
+position: 59
+ownLength: 3457
+unit: words
+publishedAt: 2021-02-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/625769/threads-45-death-2"
+royalRoadId: "625769"
+---
+
+Ling Qi looked to her right, following the line of Sixiang’s attention into the lane between rows of stalls. Briefly, her vision was blocked by some passersby, but she soon met a pair of dark amber eyes, and the young man they belonged to immediately stopped.
+
+It took only a moment to place his face, even if she had only met him once. Luo Zhong, one of the clan scions she had met at Cai Renxiang’s parties, looked back at her with an air of mild interest. He stood at ease with his hands in the pockets of his loose robes.
+
+“Sir Luo,” she greeted simply. “Can I help you with something?”
+
+“You have better senses than you have been given credit for,” he said casually. He glanced past her toward her companions. “But perhaps that is a more recent development?”
+
+“Do you know this man, Ling Qi?” Bai Meizhen asked mildly.
+
+“We have met,” Ling Qi replied.
+
+“Do tell,” smirked Xiulan, eyeing the young man up and down.
+
+“My apologies for interrupting your trip, ladies,” Luo Zhong said, offering a polite bow. “I had hoped to speak with Miss Ling, but she has been difficult to find since her return.”
+
+Translation: she had been hermitting it up at home. Ling Qi glanced between her friends then nodded. “We can talk now, if you would like. What’s your concern?”
+
+The Luo scion smiled, and Ling Qi found herself thinking that he was fairly handsome in a rough sort of way. She blamed the thought on Sixiang and the conversation that her friends and she had been having a moment ago. “I have unfortunately not been able to access our Lady Cai. Is it true that the two of you fended off an invasion of our borders?”
+
+She didn’t miss the way his gaze briefly lingered on Meizhen, who drew herself up imperiously. Nor did she miss the attention being directed their way from other passersby. She almost snapped back, but pausing a moment, she felt the fluctuation in Luo Zhong’s qi spreading around them like a pack of canny herding hounds keeping onlookers at bay. He was screening them. Still, she glanced to Meizhen, and cool qi washed out.
+
+“It was nothing so grand,” she replied. “Just a band of criminals with an unusual strength.”
+
+“So that is where you disappeared to,” Xiulan hummed. “You crushed them, I suppose?”
+
+“Yes,” Ling Qi replied, almost faltering for a moment. “Neither Lady Cai nor I were badly hurt, and none of the criminals escaped. There were no casualties beyond the initial attack,” she added, looking back to Luo Zhong.
+
+“I see,” he said thoughtfully. “You are aware that some are grumbling about how insecure the border has become, correct?”
+
+“Opening a few roads hardly affects the security of the wilds,” Meizhen replied coolly.
+
+“I agree,” Ling Qi backed up Meizhen. “And if I may, Sir Luo, certain events surrounding the attack were very… conveniently timed.”
+
+He smirked, showing teeth that were a bit sharper than normal, and gave her an appraising look. “That is quite the implication you have there, Miss Ling. Be careful with how you wield it. It would be disagreeable if the province took a turn for the insular again.”
+
+<He’s not wrong there. Someone could lose a finger on that edge,> Sixiang muttered. <Oh wait, did I say finger? I meant head.>
+
+“It would. Goodness knows how much money would be lost,” Gu Xiulan said, tossing her hair.
+
+“The Luo would survive, but losing the support of the Gu clan’s mines and quarries would be unfortunate indeed,” Luo Zhong agreed easily. “Is your sister well, Gu Xiulan?”
+
+“Elder Sister Yanmei has been quite busy,” Xiulan answered smoothly. “But I believe she is in contact with Father regarding your uncle’s suit.”
+
+“I’m glad to hear that,” he said. Then dipping another bow to the three of them, he continued, “In any case, my apologies for taking up your time, ladies. Thank you for your time and words, Miss Ling.”
+
+“You are welcome,” Ling Qi replied.
+
+“Miss Gu, Miss Bai, I hope you have a good day as well,” he added, straightening up. “And Miss Ling…”
+
+“Yes?” she asked.
+
+“I sometimes get together with others from the east of the province to have a little hunt and discuss matters of the province. If you would like, please feel free to join us as your time allows. Vassals of the Cai should get along after all,” Luo Zhong invited smoothly. “I would be honored by your presence.”
+
+“If time allows,” Ling Qi demurred. If it hadn’t been clear already, it certainly was now. She could no longer stay out of Emerald Seas politics.
+
+Still, she refused to drown in them. As Luo Zhong took her leave, she put his offer out of her mind for now. She was here to shop and to tease and be teased by her friends. “So, Meizhen, I’ve been meaning to ask. What have you been doing with Bao Qingling lately?”
+
+***
+
+Over the next few days, Ling Qi remained immersed in more relaxing things. She attended Li Suyin’s breakthrough celebration, congratulating the girl and complimenting her on her new dress that she and the boy she had been cooperating with had finished. She spent time working with Zhengui and Hanyi and more time at home, playing music for her little sister or cultivating with her mother.
+
+But she knew she did not have all the time in the world to relax. She would be going out with the Sect’s scouting corps for live exercises soon.
+
+Ling Qi began to wish that she had never begun to think about things like this.
+
+“It always would have come up at some point,” Sixiang pointed out, idly kicking their feet in the shimmering dream water.
+
+Ling Qi sighed, looking out over the shore where they sat. It was still a little strange to be so literally enmeshed in her own mind, but it could be relaxing. “If Meizhen is right…”
+
+What did it say about her that she had never really thought of spirit beasts in the same way she thought of people? What did it mean for Zhengui? She called him “little brother,” but was he really only a pet to her?
+
+“I think you’re taking the recrimination too far there,” Sixiang said idly, their wispy rainbow hair drifting in an unfelt breeze as they stopped kicking their feet and turned to look at Zhengui. “People think and dream contradictory things all the time, you know? You definitely think of the big doof like family.”
+
+Ling Qi dipped her head in acknowledgement. She supposed that was what it came down to. A person was different than people. But it still bothered her now that she had been forced to acknowledge it. Did every spirit beast count? Every simple animal? Every bit of quasi-active elemental qi? Were barbarians supposed to be people too? If so, what did that mean for her current conundrum?
+
+The simple fact was that the deaths she had inflicted on the bandits and the renegade Bai had felt different than hunting beasts. It had felt different from attacking that barbarian shaman so long ago. She had imagined killing before, thought darkly of what she would do to some of the people who had hurt her in the streets or more recently, the ones who had abused their power over her mother. The reality had differed and had churned her stomach but if she asked herself if she could still take satisfaction from those fantasies, the answer varied. For most, the idea seemed horrible now, but…
+
+There were still a few that she could picture suffering those same fates and feel nothing but satisfaction for. She had rejected the permanent torment that her mentor inflicted on her treacherous husband, but there were those who deserved to End, ones who, even now, she would freeze the life from with hardly a moment’s hesitation, if things were arranged such that there would be no further consequences.
+
+The Mirror that she had cultivated in her thoughts and accepted into her spirit did not allow her to lie to herself in that. Was she a bad person then?
+
+“I’m still pretty new to the concept, so I can’t help much,” Sixiang said with a helpless shrug. “But… Hmm, death is part of the world too. I think it comes down to the circumstances.”
+
+“You’re probably right,” Ling Qi said with a sigh. “But I don’t know if I should be the one judging that.”
+
+“Only you can judge yourself,” Sixiang replied. “Don’t you remember what Auntie said? There’s no fate or higher plans. The world is just countless dreams bouncing off one another and shaping the future. Right and wrong is down to you and the people whose judgment you care about.”
+
+“That somehow doesn’t feel as comforting anymore,” Ling Qi said dryly. Some would call that freedom, she would call it responsibility. She stood, brushing off her gown out of habit, despite the fact that not a single grain stuck. “If I have to be the one who judges, I think I’d still like some advice,” she added quietly as her form shimmered and she vanished back into the waking world.
+
+Though she couldn’t say she knew him well, there was one person she knew who had to have considered the implications she was now thinking on very deeply indeed.
+
+***
+
+Finding the person in question did not prove too difficult, thankfully. Liao Zhu, her sometime instructor and Senior Brother, was currently logged at the central Sect office as using one of the advanced training grounds available to disciples of the highest ranks. As she was technically his student for the duration of the military lessons, she was able to acquire this information just by asking. There was definitely some use to learning the little details of how the Sect was run.
+
+The training ground lay deeper in the mountainous Sect lands, a high snowy plateau ringed with warding arrays, both to repel spirits and keep the effects going off inside from damaging the surrounding environment. Upon arriving, Ling Qi had begun to search for a comfortable place to wait for him to emerge, but she had noticed that the entry array was in its unlocked state. If he did not want to be interrupted, surely he would have locked the arrays behind him.
+
+She could admit to being a little curious too as to what an advanced training ground entailed. So with only slight hesitation, Ling Qi stepped through. Immediately, she found her senses under assault by the sounds of combat and the clash of metal on metal. She had walked into a battlefield.
+
+The ground was littered with gleaming black knives, and the sky was full of phantoms. They were armored figures wielding a variety of weapons, some mounted upon beasts while others strode through the air on boots trailing clouds. Even as she watched, more of the armored warriors were disgorged by a trio of complex arrays laid out around the training field. They paid her no mind, soaring up toward the center of the commotion.
+
+There, in the center of the churning chaos of phantasmal bodies, she spotted Liao Zhu. Well, one of the figures she spotted was surely him anyway. Black knives fell like rain, and when they pierced a phantom through the head or heart, the constructs shattered into motes of light. Liao Zhu moved amongst them in a barely perceptible blur. There seemed to be at least a half-dozen of him at any one time, mirror images that blurred and split and merged with no seeming rhyme or reason. Their every movement trailed blurring afterimages.
+
+Here, a bracer-clad arm seemed to split, blocking three different blows from different angles and whipping out to fling another knife directly into the forehead of another phantom at the same time. There, one leapt upward, bouncing off the head of a phantom and split into four, leaping in separate directions and trailing afterimages of their own.
+
+It was supremely confusing to try and follow, and Ling Qi could not begin to guess which one was the real one, even as her eyes instinctively flooded with moon qi. There was something else here too, something that leapt from the shadow of one construct to another faster than she could see. However, she only had a bare few moments to observe before she felt the fluctuation in the masterful weave of moonlight and darkness qi that lay over the training field and met the Senior Disciple’s eyes from across the battlefield.
+
+Immediately, Liao Zhu made a sign with one hand, and the phantoms flooding the training field vanished in a rain of twinkling starlight. He fell to earth and landed in a crouch, all but one of his mirrored copies fading. They stood with eerie synchronicity and turned to face one another and bowed. A moment later, the one on the left rippled like the surface of a lake disturbed by a stone, and Ling Qi glimpsed a tall and androgynous figure dressed in robes of glimmering silver. Where its face and head should have been was only a cloud of shimmering mist, and when she squinted at it, trying to see through to the face beneath, she only found herself staring back into her own eyes.
+
+“Coming to peek at your Senior Brother without invitation, Junior Sister Ling? While I am indeed a peerless spectacle, I had not thought you the type,” Liao Zhu said, voice loud and bold as he turned to face her. The figure beside him vanished like morning mist. It was almost enough for her to miss the patch of blackness slithering across the ground to merge with the shadow pooled at his feet. “After all, is that not what your own moon spirit is for?”
+
+<He’s not wrong,> Sixiang murmured, regaining, for a moment, some of their humor.
+
+“My apologies, Senior Brother Liao,” Ling Qi replied with a bow. “But you did leave the ‘door’ open. I cannot imagine that you would do so mistakenly.”
+
+“True enough,” the masked young man replied. He glanced at the weaponry littering the ground and gave the knife in his right hand an elegant spin. The blades strewn across the earth dissolved, flowing back into the one in his hand like ribbons of mist. “You were not the visitor I had expected,” he said, sounding more somber than usual.
+
+Ling Qi felt awkward. “I am sorry. Did you wish for me to come back later?”
+
+“No, no, do not worry your head over your Senior Brother’s disputes,” he said, waving a hand now empty of weaponry dismissively as he strolled closer. “What is it that ails you, Junior Sister? Nerves regarding the live exercises? Troubled cultivation? Advice about wooing a suitor or damaging a rival? Your humble Senior Brother can aid you in finding answers for all of that and more.”
+
+Ling Qi frowned at the barrage of offers, and the question of who he had been waiting for faded from her thoughts. She considered how to word her request. “Have you heard the rumors regarding Lady Cai and myself?”
+
+“Which ones?” Liao Zhu asked, looking at her with amusement as he tugged at his mask, straightening the snarling fangs. “That you are her secret shadow, crafted by her mother and left to grow among the mortals as an experiment? Perhaps the one in which you are secret lovers in the vein of the Duchess’ own escapades? Or mayhaps you refer to the rumor wherein ‘you’ are merely the gown you wear, puppeting a hapless commoner who surely couldn’t have risen to such heights on their own.”
+
+Ling Qi gaped at him and in her head, Sixiang snorted.
+
+“Told you wearing the same dress all the time was a bad idea,” her muse laughed, voice carried on the wind.
+
+Ling Qi grimaced. “Hush, you,” she grumbled, glancing out of habit at the empty air where Sixiang’s words emanated from. “No,” she ground out. “I mean the rumors regarding our recent absence.”
+
+Liao Zhu regarded her silently, his bombastic amusement fading away in a moment. “A serious matter then. Let this Senior Brother apologize for his jape then,” he said, sketching a bow. “I am afraid that I have been too busy to immerse myself in the Sect rumor mill recently.”
+
+Ling Qi sighed. “It’s fine,” she said. Perhaps it was best just to be blunt. “Bandits slipped over the border and stole something belonging to the Duchess. They sacked a town and ran off. Lady Cai and I were sent to take care of it.”
+
+When she looked at Liao Zhu, she found him looking at her gravely, arms crossed over his broad chest. “I see. Your first real combat then?”
+
+“I wouldn’t say that,” Ling Qi murmured. “I’ve fought beasts and spirits lethally before, and… once, there was a barbarian, but…” Even for a savage, he had been more monster than man, and in any case, he had killed himself before her arrow could land.
+
+“It is not the same. You took lives then?” he asked gently.
+
+“Many, and one directly with my own hands,” Ling Qi replied. Even with her senses extended across the battlefield, the ones who had fallen in her Mist seemed more distant, perhaps because of how many ways her attention had been divided when the blow fell. Not so the renegade Bai.
+
+“It is a hard thing,” he said neutrally.
+
+“How do you deal with it?” Ling Qi asked. “I mean, I suppose you mostly deal with barbarians, but…”
+
+“Not so. My hands are crimson with Imperial blood as well,” Liao Zhu interrupted. “Bandits, deserters, and even those who defect, seeking to join our foes. I have played judge and executioner for them all, and…”
+
+“And?” Ling Qi asked cautiously.
+
+“And the look of life and spirit fading is much the same, Imperial or barbarian,” he finished grimly. “However in this one thing, your Senior Brother can only be of limited help.”
+
+“Oh,” Ling Qi replied, feeling deflated. Some part of her had hoped that he would have some wise answer that could put her doubts to rest.
+
+“I have told you before of what I seek. I seek to find ways to prevent people from falling into the extremes of vice and crime, and when that fails, I seek to deal precise and exact justice, cutting with the precision of a surgeon’s blade, removing only the most diseased of tissue in the name of bringing health to the body of the Empire,” he continued. “To that end, I have ended lives. To that end, I must never cease questioning the rightness of my actions. If solace and acceptance is what you seek, I cannot help.”
+
+<No easy answers, huh?> Sixiang murmured, and Ling Qi felt the phantom touch of a hand on her shoulder.
+
+“I guess it was silly for me to expect there to be one. I even had a bunch of great spirits telling me that things were complicated,” Ling Qi said wryly. “I’m sorry for wasting your time, Senior Brother.”
+
+“It is not wasted. I remain a font of powerful advice,” the older disciple replied, some of his humor returning. “Junior Sister, you will face such choices again and again in this cruel world of ours. Do not allow yourself to become convinced that lives are without weight. That is the path of the tyrant and the butcher. Neither should you be excessive in your mercy however. Weigh the lives that fall into your hands, and consider the value of each one, the good and the harm that it might do if left unsevered. When you have, then you can make your choice in good conscience.”
+
+Ling Qi remembered the village’s broken walls and ruined fields. She remembered her glimpse of still smoldering buildings and bloodstained streets. She considered the things that she was only just becoming aware of, the potential for violence and instability that the raid had created, spreading far beyond any one village. She tried to weigh it against dead faces in the mud and a cracked tangle of frozen limbs.
+
+“I don’t think I like this,” Ling Qi said quietly.
+
+“If you did, I would be deeply concerned, Junior Sister,” Liao Zhu said wryly. For a moment, he looked as if he was going to tussle her hair like a fond older brother, but he seemed to think better of it and turned away. “Regardless, you should seek to settle yourself. You have only a few days until the exercises.”
+
+Ling Qi straightened up and nodded. She would just have to keep walking her path, doubts and all.

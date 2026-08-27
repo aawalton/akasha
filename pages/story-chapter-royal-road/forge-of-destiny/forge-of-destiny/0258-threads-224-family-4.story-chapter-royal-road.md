@@ -1,0 +1,173 @@
+---
+id: 64b4f0fd-4124-54b3-a7f6-f1cfed223f77
+page-type-slug: story-chapter-royal-road
+title: "Threads 224-Family 4"
+slug: 0258-threads-224-family-4
+partOf: forge-of-destiny
+position: 258
+ownLength: 2021
+unit: words
+publishedAt: 2022-06-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/929093/threads-224-family-4"
+royalRoadId: "929093"
+---
+
+They parted ways with the Bai delegation as usual following the closing of the day’s matches.
+
+This evening, she and Cai Renxiang were going to attend another gathering of the Duchess. This time, Gan Guangli would be allowed to attend. She thought that boded well for him.
+
+For now, she was free, and she found her way back to the crafting competition where she had promised to meet Li Suyin.
+
+She found the girl sitting in the back rows with Su Ling and surprisingly, Bao Qingling. More surprisingly, it was Su Ling and Bao Qingling who were in conversation.
+
+“So you’re saying this is something that’s actually been studied? Like I can have a place to start?” Su Ling asked as she approached.
+
+“I said it is a subject which has been proposed. Even with the current climate, any public studies have been stamped out,” Bao Qingling replied. The usually tense girl seemed relaxed, at least for her, which was roughly normal behavior for anyone else. “I would suggest you keep any such project to yourself.”
+
+“Ugh, fine,” Su Ling grumbled. Her ears twitched, and she noticed Ling Qi. “Done schmoozing already?”
+
+“You’re never done schmoozing,” Ling Qi said primly. “You’ll learn that soon enough.”
+
+Su Ling huffed irritably, Bao Qingling snorted, and Li Suyin covered her mouth with her hand. Ling Qi took up a seat on the other side of Su Ling.
+
+“Oh, Suyin, your eye!” Ling Qi exclaimed before swiftly lowering her voice. “When…?”
+
+Her friend turned to face her, smiling. For the first time in over a year, she met Ling Qi’s gaze with both of her eyes. There was still some faint scarring around the one which had been ruined, but save for a slight metallic gleam in the iris, it looked wholly natural.
+
+“Just before the tournament,” Li Suyin said happily.
+
+“You were ready a month ago. You were just dithering,” Bao Qingling said bluntly, crossing her arms.
+
+Li Suyin looked sheepish. “Maybe.”
+
+“I’m just happy you were able to do it,” Ling Qi said. It felt good to see one of her friends overcome an obstacle that had hurt them for so long. “So, what were we talking about?”
+
+“Was looking into some self-surgery methods,” Su Ling said. “Been feeling an itch lately.” She glanced down at the twin brown tails wrapped awkwardly around her waist.
+
+Ling Qi took a moment to realize what she was talking about. Su Ling must have felt she was going to grow another tail soon.
+
+“Removing spirit blood is a controversial subject, which I was advising this junior sister of,” Bao Qingling drawled.
+
+Li Suyin looked troubled. “I don’t think it's necessary, Su Ling. You’ve carved out your own path already, haven’t you?”
+
+“Letting the accidents of birth hold you back is wrong. We are cultivators. Cut away what you do not want or need,” Bao Qingling said with a shrug.
+
+“You’ve already made it your own, haven’t you?” Ling Qi looked over at Su Ling. “We couldn’t have gotten where we needed to go without your divination.”
+
+Su Ling grimaced, baring sharp teeth. “I can relearn that the proper way. Got the tools, just need the arts, and the Sect has some pyromancy arts in the archives.”
+
+Ling Qi nodded. It didn’t quite sit right with her. She knew Su Ling was never really happy with herself, but she thought the other girl had found some equilibrium. It bothered her that she’d been inattentive.
+
+“Well, I think that stealing your enemies' tools is a better form of spite,” Ling Qi said after a moment. “They’re yours now, no one else's.”
+
+“Not a terrible sentiment,” Bao Qingling said. Her eyes were fixed on the testing chamber being set up ahead.
+
+Today would begin the presentation of the examinees’ final projects with the second half finishing tomorrow. It was a change from last year. Apparently, more disciples had made it through the preliminary exams this year.
+
+Or maybe more disciples were avoiding the combat tourney.
+
+“I don’t know your situation, junior sister,” Bao Qingling continued. Her oddly relaxed demeanor continued to perturb Ling Qi. “Do whatever you do for yourself first. Anyone else should come second or third. That is what cultivation is.”
+
+Ling Qi chuckled. “Not quite how I’d put it.”
+
+Li Suyin smiled, reaching over to pat Su Ling on the hand. “You know my sentiments, but you have my support. And my scalpels.”
+
+Su Ling snorted, and Li Suyin’s smile turned impish. Ling Qi covered her mouth to muffle a laugh.
+
+“Right. Thanks for the image, Suyin,” Su Ling drawled.
+
+“You’re welcome,” Li Suyin said primly.
+
+Some of the tension that had formed in the air dissolved away.
+
+Ling Qi blew out a breath of air, watching a disciple present a talisman shield inlaid with an intricate mosaic of jade. “If you don’t mind me asking, what are your plans for the coming year? Mine are pretty well set at this point.”
+
+Li Suyin considered the question.”I think I will be pursuing an apprenticeship under Elder Su. She has indicated that I might have the potential. So I will be working hard in the Sect’s medicine department.”
+
+“Proud of you.” Su Ling nudged the shorter girl’s shoulder with her own.
+
+Li Suyin gave a small smile. “I’d still like to work on that project we spoke of though, Ling Qi. Making something so complex would be a great show of my abilities.”
+
+Ling Qi nodded. The recipe for a fourth realm breakthrough elixir was one of the treasures she’d acquired on her trip. She’d already spoken of it with Suyin before.
+
+Bao Qingling glanced at them in mild interest.
+
+“I’ll look forward to our cooperation then, Grandmistress Suyin,” Ling Qi teased.
+
+“Oh, stop.” Li Suyin laughed quietly.
+
+They quieted down for a time, watching the presentations go by.
+
+“Just gonna keep studying. Learning. That asshole teaching me calligraphy… He’s kinda rubbed my nose in how much I don’t know,” Su Ling said. “I dunno where I’m gonna go with that. I still gotta do what I gotta do, but maybe I’ve started thinking of after.”
+
+Ling Qi nodded. “After. Yeah, that’s the scary part.”
+
+Being able to—having to—look beyond the next moment, the next meal, the next night could be paralyzing. She wished she could know she wasn’t charging off into her own ruin. Surety, that, too, was a fruit of cultivation.
+
+“Small problems,” Bao Qingling said shortly, her fingers laced together in her lap. She didn’t look over at them.
+
+“What do you mean, Senior Sister?” Li Suyin asked.
+
+“Solve small problems. Break things down. One ingredient. One step. You can have a plan, but finish your current step before you start agonizing over the next one.”
+
+“And what’s your next step, Senior Sister?” Ling Qi followed up.
+
+Bao Qingling didn’t look at her, but Ling Qi felt a crawling sensation on her skin that she knew was the older girl’s attention.
+
+“I’ve gotten a contract with your friend. I will be the go-between for the Bao and the Bai on your little trip. It’ll be for medicines and cultivation supplies.” The corner of the girl’s thin lips curled up in a smirk. “My brother’s face when I gave him that contract.”
+
+“Congratulations, Senior Sister!” Li Suyin exclaimed. “Such a prestigious role.”
+
+Su Ling hmphed. “Good for you.”
+
+Ling Qi nodded in acknowledgment. She was glad that Bai Meizhen and Bao Qingling had worked something out.
+
+Her gaze strayed back to the contests where she saw again Jin Tae, the young man from last time she had been here, presenting his project. It was a small automata about the size of a cat made of brass and steel. It was shaped like a tiny man with wings and an exaggerated birdlike face. Actually, it looked somewhat like the great thunder spirit she had encountered with Yu Nuan. She watched as it performed various tasks, including carving new formations on tablets of clay, needing only a final infusion of qi from its maker to activate its work.
+
+It was among the last of the day's presentations.
+
+Soon, presentations were over, and she stood up with her friends as the audience began to move forward to speak with the disciples or move towards the exits. She walked beside Su Ling and Li Suyin with Bao Qingling trailing behind as they left the testing hall and the building.
+
+It was as they were leaving, making small chat that Ling Qi caught the feeling of having another's attention. She glanced to the side, noticing the faint twitch in Bao Qingling’s shoulders that told her that the other girl had noticed too.
+
+What she saw approaching them was a young woman seemingly in her early twenties. The woman wore a many layered gown in various shades of red and pink, and her aristocratic features bore subtle signs of cosmetics. Her honey brown hair was pulled up and arranged within a glittering net of fine silver chains hung with many little gemstone ornaments, carved flowers no larger than a fingernail. Her skin was a shade darker than Suyin or Bao Qingling’s but lighter than Ling Qi’s.
+
+A subtle nudge brought Suyin’s attention as they stepped out of the crowd and stopped politely.
+
+“Baroness Ling, Baroness Li, Baroness Su,” the woman greeted politely, inclining her head only slightly. Her gaze lingered a moment on Su Ling before moving to their companion. “Bao Qingling.”
+
+“Diao Hualing,” Bao Qingling said shortly, sounding intensely disinterested.
+
+It was slightly rude to give someone’s name before they could give it themselves. Diao Hualing’s stare bored into Bao Qingling's impassive face for a long few seconds.
+
+“It has been some time,” she finally said, turning her eyes from the taciturn crafter.
+
+“What might we be able to help Lady Diao with?” Ling Qi asked..
+
+“I had hoped to meet a few young talents this day,” Diao Hualing said formally. “The heiress’ retainer, the Argent Peak Sect’s rising expert on the impure things under the earth… and the one who has shown such talents with the art of pyromancy. A lucky convergence.”
+
+Su Ling shifted uncomfortably while Li Suyin smiled guilelessly. “It’s an honor to be noticed so, but my humble studies can hardly be called expertise.”
+
+“I disagree. But it seems I may have caught you in another engagement,” Diao Hualing said. “If—”
+
+“I’m going,” Bao Qingling interrupted. “Li Suyin, be at my workshop tomorrow evening for the project we discussed.”
+
+“Yes, Senior Sister,” Li Suyin acknowledged, glancing between the two comital scions nervously. Even she had caught the tension there.
+
+Bao Qingling left, and Diao Hualing watched her go for a moment before speaking. “In any case, do the three of you have plans at the moment?”
+
+“I was going to escort Li Suyin around and introduce her to a few people,” Ling Qi said. “Nothing more.”
+
+“That is convenient. Will you allow me to walk with you, Baronesses? I will not take up much of your afternoon.” The words had the air of a request, but Ling Qi glanced at her friends and saw that they understood just as well how rude it would be to deny a comital scion such a small thing, particularly when she was giving them some face by simply walking with them publicly while Ling Qi introduced Li Suyin to people.
+
+She saw Su Ling’s ears flatten against the side of her head in irritation though. She’d have to help that girl out with how expressive she could be.
+
+“It would be our honor, Lady Diao,” Ling Qi said.
+
+“Grand.” Diao Hualing’s eyes crinkled into thin slits as she smiled. “Let us descend then. I am afraid this high mountain air is not for me.”
+
+"Yes, thank you very much, Lady Diao," Li Suyin said.
+
+"Yeah, you're welcome to walk with us." Su Ling sounded wary, and once again, the older woman's eyes fell on her, making her squirm.
+
+"Such polite young ladies," Diao Hualing said blithely as they began to descend the stairs from the Sect's main plaza. "I believe I have some proposals which may interest all of you."

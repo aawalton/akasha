@@ -1,0 +1,173 @@
+---
+id: da26b9ac-54a4-5057-b7e5-cd7538eedc8f
+page-type-slug: story-chapter-royal-road
+title: "Threads 94-Diplomacy 3"
+slug: 0116-threads-94-diplomacy-3
+partOf: forge-of-destiny
+position: 116
+ownLength: 2536
+unit: words
+publishedAt: 2021-06-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/698449/threads-94-diplomacy-3"
+royalRoadId: "698449"
+---
+
+“Many thanks for your invitation,” Alingge said as she strolled with Ling Qi to the empty end of the training field they had decided on.
+
+“It’s no trouble. I was surprised to see you here though. I didn’t think still targets would offer anything to an archer of your skill,” Ling Qi said.
+
+“It is the waking meditation, I believe you call it,” the other girl replied. “Difficulty is not the purpose.”
+
+Something like what she did with sneaking around in her spare time or composing music with her mother then. That made more sense.
+
+<Mhmm. Obviously, no one would do anything if it didn’t have cultivation benefits,> Sixiang joked. Ling Qi gave them a mental swat.
+
+“Miss Alingge, it is good of you to join us,” Wang Chao greeted as they arrived.
+
+“I have said that such formality is unnecessary for me. Please leave off such things” the girl said coolly, not friendly but neither unfriendly. Ling Qi wondered how they knew each other.
+
+“It is inappropriate to refer to a lady by name alone,” Wang Chao said, looking uncertain. Beside him, Liang He put a hand on his shoulder. These two were a bit odd. Idly, Ling Qi wondered if the two of them were like Meizhen.
+
+“Do as you will then,” Alingge said before looking to Ling Qi. “You have the xuan wu here?”
+
+Ling Qi shook off her distracting thoughts and ignored Sixiang’s fit of laughter. “His name is Zhengui,” she corrected and gave her little brother the signal to materialize. There was an awkward silence as nothing happened, and Ling Qi felt her eyebrow twitch. She gave Zhengui a sharp mental prod.
+
+<Huh-What, Gui is awake!>
+
+She held back a sigh at his exclamation as Zhengui began to materialize in front of them. At his full size, Zhengui loomed over them, eight meters long from one end of his shell and about a third of that at the shoulder, and Zhen arching his body over Gui’s shell only made him seem larger. Ash drifted from his mouths and lines of fiery red pulsed in his shell as Zhengui struck a pose in the afternoon sunlight.
+
+“I, Zhen, greet Big Sister’s human friends,” Zhen said proudly, his tongue flicking and leaving heat ripples in the air.
+
+“Hello!” Gui chirped in a basso rumble.
+
+“Such majesty,” Alingge breathed. Her wide, almost sparkling eyes made the taciturn girl look ten years younger. “I did not imagine such a potent furnace of beast qi.”
+
+Ling Qi glanced at her in askance, not entirely sure what she was referring to. Zhen was going to be insufferable in the next few days.
+
+“Indeed, a most impressive beast,” Wang Chao praised, examining Zhengui with a workman’s eye. “Your fortune is truly enviable, Miss Ling.”
+
+“I suppose it is a good thing he was not included in our duel, else it would have been more one-sided,” Liang He said with self-deprecation.
+
+“Yes, Zhen is very great, but he needs to learn to fight alongside Big Sister,” Zhen agreed pompously; She could practically see the serpent’s ego swelling.
+
+“Just so,” Wang Chao agreed. “Miss Ling was right to come to me, for I have much wisdom to share!” Ling Qi wondered if there was going to be space for the both of them and their respective egos. “How to test the beast’s abilities though?”
+
+“Perhaps you could spar with him? Zhengui rarely gets to face enemies other than myself,” Ling Qi suggested.
+
+Wang Chao eyed her little brother up and down. “Not a bad idea,” he said, glancing back at her and the others. “If I’m to give you proper instruction, I’ll need to see the two of you together though.”
+
+Ling Qi did not want to risk embarrassing the older boy. He was a step above her in cultivation of course, and as a comital scion, his arts were surely high quality. But she was aware of just how frustrating it was to fight her. It might be better to spar with Wang Chao in a private training ground after they had obtained a proper sparring license. “I was hoping that you could assess his abilities individually first.”
+
+“I, too, wish to see the great beast’s abilities in action,” Alingge agreed, her eyes not leaving Zhengui. “The mists and ice are not good for spectation.”
+
+“I, Zhen, will face whoever Big Sister likes,” Zhen hissed haughtily.
+
+“Gui, too,” his other half agreed. “Are we gonna fight Mister Avalanche?”
+
+“It seems so.” Wang Chao seemed fairly chuffed, rolling his shoulders as he surveyed the xuan wu. “Let it not be said that Wang Chao would ignore a lady’s request. Liang, will you see to the field settings? Then you can join the ladies.”
+
+The other boy chuckled, glancing over at the two of them nervously. “Of course, Lord Wang. I hope you enjoy your spar.”
+
+“It should be good fun. I assume your spirit does not need to be coddled, Miss Ling?” Wang Chao asked.
+
+“I will trust your discretion,” Ling Qi forced out. She felt a pang of pain at the thought of leaving Zhengui to fight a stronger opponent unsupported, but it was only a spar. She couldn’t baby him if he was going to keep up with her. “Zhengui, fight hard, okay?”
+
+“Yes, Big Sister!” they both announced in unison.
+
+Together with Alingge, Ling Qi withdrew to the edge of the training field as the air around it shimmered, preventing any stray qi or objects from flying out and disrupting the rest of the training grounds. Ling Qi glanced at the fur-clad girl at her side. “Do you actually have trouble seeing through my mist?”
+
+“It is an effort,” Alingge replied shortly, watching as Wang Chao and Zhengui walked apart, giving each other some starting distance. “Effort better spent elsewhere. Though it was amusing to watch you hunt in the tournament.”
+
+Ling Qi hummed, noting the faint circulation of qi through the girl’s eyes, ears, and nose. She was activating some kind of perception art. “And I have improved quite a lot since then,” she mused.
+
+“Yes,” the other girl agreed.
+
+Out in the field, Wang Chao leveled his pike at Zhengui. “Let us begin then! Sir Ling, I will give you a five count to prepare yourself!”
+
+Ling Qi blinked. Referring to Zhengui that way… Wang Chao was taking her claim of him as her little brother seriously. She wondered whether that actually was a thing she could do, legally speaking.
+
+“You better not look down on Gui!” her little brother warned, even as his shell flared with volcanic light and Ling Qi felt his root system spreading under the field. The air around Zhen distorted with heat.
+
+“He’s surprisingly earnest,” Ling Qi commented.
+
+“Lord Wang is very straightforward.” She glanced over to see Liang He approaching them. She took a moment to study his face. All playfulness aside, he really did seem slightly afraid of her.
+
+“I am glad I came to him for help with this then,” Ling Qi said, dipping her head politely. “And I apologize for injuring you so badly. It only seemed respectful to use my finisher after you used yours.”
+
+Wang Chao began to move toward Zhengui, ripples of qi echoing from his feet with each step. Every pulse pinged out and reverberated back, flooding back into his meridians. Each pulse was weak, but with every step, the pulses were growing stronger. The earth between him and Zhengui erupted with crawling, surging branches and vines, a fortress wall rising from the earth as Zhen’s throat swelled with superheated qi.
+
+“I understood,” Liang He said with a weak chuckle, turning his eyes to the battle. Ling Qi considered the way he regarded Wang Chao’s back as he charged into the teeth of Zhengui’s defenses. Her earlier musing had been off-base. His look seemed more like the way Han Fang looked at Han Jian. There was nothing romantic there, just loyalty and something vaguely familial.
+
+“Not a bad barrier!” Wang Chao complimented. “But the foundation is unstable!” Ling Qi blinked as he thrust his pike right into the grasping, regenerating vines with no sign of a more powerful technique. Then the qi of Zhengui’s Paradise Rampart cracked and violently shattered around the point of impact, taking its physical manifestation with it.
+
+Of course, her little brother was alert, and before the debris had even struck the ground, a massive glob of molten glass and liquid fire struck Wang Chao full on.
+
+“Your Zhengui has considerable power for his cultivation,” Alingge observed. She stood with her arms crossed under her fur cloak, wholly still except for her eyes. Her composure had obviously recovered. “Is that natural, or have you used some technique to bolster him?”
+
+“Elder Ying gave me some lessons on spirit bonding and aiding their growth, but nothing like an art,” Ling Qi answered. “Is that a thing?” If so, some parts of her Songseeker’s Ceremony cultivation art made more sense
+
+The other girl glanced at her. “There are cultivation arts for this, yes.”
+
+Laughter rang out from the clearing smoke as Wang Chao barreled through, glowing, molten droplets flying from his armor. It was a deep belly laugh too. It seemed that he was that type of fighter. It was too bad that Gan Guangli was not here, Ling Qi privately lamented. Gan would probably be better at this.
+
+Wang Chao crossed the remaining distance to her little brother in barely a moment, grasping roots torn wholesale from the earth when they tried to hinder his feet. His pike swung out, and Zhengui’s head pulled back into his shell as he stamped forward, presenting his shelled shoulder to the blow. There was a ring like a temple gong being struck as metal met shell, and the hard packed earth beneath them shattered in a shower of grit and stony shrapnel.
+
+Zhengui seemed to be having fun, going by the excitement strumming through their bond.
+
+“It’s probably not a bad idea to let him play around with some other folks. You are kind of an ass to fight,” Sixiang chuckled.
+
+“He’s holding back though,” Ling Qi said absently, only realizing that she had spoken aloud a moment later.
+
+“It is not typically the point of a spar to immediately crush your opponent,” Liang He said.
+
+“I know that.” All the same, the ugly feeling that sometimes rose up after a spar with Meizhen or Cai Renxiang stirred in her stomach. Watching her little brother be on the other end of it was no less dissatisfying.
+
+Wang Chao skidded back, catching Zhen’s striking fangs on his forearm. As her little brother pushed him away, the crack in his shell left by their clash was already sealing up with oozing, liquid green qi drawn from the earth under his feet. She clenched her fists as Wang Chao punched Zhen directly in the snout with such force that the serpent’s head flew backward, molten spittle flying from his jaws.
+
+“It is not as uneven as it looks. Wang is ramping up now that he has tested your Zhengui’s toughness,” Alingge said. “What a strange beast qi.”
+
+“What do you mean by that?” Ling Qi asked, not looking away from the fight. The hole in the Paradise Rampart technique had sealed itself, cutting off retreat as Gui hunkered down, drawing vitality from his roots, and Wang Chao traded blows with Zhen, liquid fire going everywhere and setting the grass alight.
+
+“It is the way of my clan to cultivate through observation and study of beasts and plants,” Alingge explained. “This is why I thank you for the opportunity. Beast qi are the energies which make up a beast’s natural functions.”
+
+“Ah, so it’s all beast qi, even if it’s fire or wood or whatever else,” Ling Qi caught on easily.
+
+“Yes,” Alingge agreed.
+
+The earth roiled as spearing stabbing roots erupted, shattering on Wang Chao’s armor as he charged back into melee with Zhengui, the ripples echoing from his footfalls quite dense and potent now. As his armor and flesh took on a stony feature, the ground shook when he walked. Stone peeled away and burned as he took another volcanic shot directly to the chest.
+
+The difference in potency between the arts of a cultivator at the fourth stage of green and a beast at the second was telling.
+
+... And she had underestimated Wang Chao.
+
+Wang Chao leaped, the force of his jump cracking the already ruined field. A dark grey shell of qi that had been building with each pulse exploded off of him, forming a spheroid shell as he fell back to earth on a collision course with Zhengui.
+
+To his credit, Gui let out his own earthshaking bellow of challenge as he hardened his stance, preparing for impact. The resulting blast sent a powerful gust outward, sending her hair and gown fluttering.
+
+“It looks like he needs a little more work,” Ling Qi said with a wry chuckle. “I might have to cut back on cultivation to train him more.”
+
+“That is a strange conclusion,” Alingge replied absently, peering into the rising cloud of smoke and grit that consumed both combatants. “Empowering clan and companions is cultivation.”
+
+“And he hardly showed himself poorly,” Liang He offered tentatively.
+
+<You’re being unreasonable,> Sixiang pointed out.
+
+“Hoho, you are a sturdy one!” Wang Chao’s voice interrupted the conversation as the smoke began to clear. The field was cratered inward, and Zhengui lay at the bottom of it. It was perhaps more accurate to say Zhengui was embedded in the bottom of the crater, only the top of his shell sticking out of the dirt. Several spikes were cracked or broken, and a spider web of fractures spread across the whole structure, but she forced herself to acknowledge that Zhengui was fine. He was already beginning to regenerate the damage.
+
+Zhen wormed his head out of the earth, emerging from the shell covered in dust and grit. He looked distinctly displeased. “I, Zhen, am not defeated!”
+
+“Perhaps not, Sir Ling, but there is nothing more to be gained. I have your measure. Anything more will need to involve Miss Ling,” Wang Chao called down from the top of the crater. He was dusty and a bit scorched, but otherwise unharmed.
+
+“Looks like that’s my cue.” Ling Qi took a step and appeared at the lip of the crater. “You did a very good job, little brother!”
+
+Gui’s head emerged from the dirt next as he continued to dig himself out. “Big Sister, I can still fight!” he complained.
+
+“I know how tough you are, Zhengui. But you have to save some energy for when we fight together later, okay?”
+
+Zhengui grumbled but began to climb out of the crater.
+
+“You had quite the good fortune in finding this one, Miss Ling,” Wang Chao said.
+
+“Thank you. I am very proud of Zhengui,” she replied. “Do you think you can help me?”
+
+“Defenses have certainly been built on worse foundations,” the stout boy said, looking at the approaching Alingge and Liang He. “I think I can manage some advice. It will give me something to do until those crawling cowards and barbarians show themselves again!”

@@ -1,0 +1,175 @@
+---
+id: 3947f10f-0cb4-5641-919d-e4204ee2e8b5
+page-type-slug: story-chapter-royal-road
+title: "Threads 217-Second Day 1"
+slug: 0251-threads-217-second-day-1
+partOf: forge-of-destiny
+position: 251
+ownLength: 2326
+unit: words
+publishedAt: 2022-05-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/913112/threads-217-second-day-1"
+royalRoadId: "913112"
+---
+
+Actually being on the tournament field at ground level was nostalgic, Ling Qi thought. It was here, just last year, that she had taken her first real step in establishing herself before the eyes of the Empire. It was here, for the first time, that she publicly showed her strength without holding back. It was here, she supposed, that the little seed of arrogance which had brought her near ruin in the dream of the Forest King had been born. Yes, in many ways, it was an important place.
+
+She supposed it was the same for Gan Guangli.
+
+“My apologies for not congratulating you earlier, Sir Gan,” Ling Qi said cheerfully.
+
+“My performance thus far has only been the minimum required to not besmirch our lady’s name,” Gan Guangli replied. “Nor that of our esteemed guests!”
+
+“You have performed to my expectations,” Cai Renxiang said evenly, stepping forward.
+
+They stood beside one of the four arenas on the grassy field that filled the space between the platforms and the stands. The stands were swiftly emptying as the audience went forth to partake in the other attractions of the Sect’s tournament. With Gan Guangli stood that Gun Jun fellow and Ma Jun, who looked as if she were torn between bouncing on her heels in joy at her success and frightened glances at their Bai guests.
+
+“I am pleased to see my ally’s subordinates succeeding as well,” Bai Meizhen said politely, looking up from Xiao Fen, who stood stiffly under Bai Meizhen’s examination. Xiao Fen had received a few scratches in her fight. It was nothing worth visiting the Medicine Hall, but Meizhen seemed inclined to fuss anyway. “I am certain you know Xiao Fen already, but with us today are Bai Xia Anxi and Bai Lao Keung, my new subordinates.”
+
+Ling Qi caught a brief expression of thoughtfulness on Lao Keung’s face as she introduced them. It was something she had noticed, first with Xiao Fen and now with these two. When introducing her kin, Meizhen went out of her way to refer to them fully as Bai. Other White Serpent Bai did not do this.
+
+Lao Keung spoke first, clapping his fists together and offered a formal military bow. “I am Lao Keung. As I will be heading Miss Bai’s personal security, I expect we will be working together.”
+
+Xia Anxi offered a slightly condescending smile. “And I am Xia Anxi, part of the diplomatic attachment. I hope you will keep anything from troubling us while we work.”
+
+“Of course!” Gan Guangli exclaimed, reaching out to clasp wrists with a slightly bemused looking Anxi. He either missed, or more likely, ignored the tone Xia Anxi used. “I will look forward to working with you both in the name of advancing both of our ladies’ interests.”
+
+“I am certain you will not disappoint me,” Cai Renxiang said formally. “You have done good work, both in maintaining my project and raising your followers as well.”
+
+The other two with Gan Guangli bowed low in response to her words.
+
+“Lady Cai is too kind,” they said, almost in unison.
+
+“A commander may only hope for talented officers,” Gan Guangli said cheerfully. “If—”
+
+It was a flash of red in the corner of her vision. No, rather, it was a crimson that filled her spiritual senses, the coppery scent of blood mingling with freshly turned soil. Ling Qi turned her head toward the source of the sensation.
+
+There, at the edge of another arena with the victorious Lu Feng, stood Sun Liling. Sun Liling glanced away from Lu Feng, briefly meeting her gaze before her eyes swept away to the rest of Ling Qi’s party, who had noticed her as well.
+
+The Princess of the West had changed since Ling Qi had last seen her. Her crimson hair held a streak of vibrant green, and the sharp-edged smirk she wore seemed more literal than before. The biggest change was to her spirit though. She was a sink of power. Her skin drank in the qi of sun and water in the air, and the power of the earth and soil visibly flowed into her feet to Ling Qi’s spiritual senses. Her dantian burned in Ling Qi’s spiritual sight like a miniature sun, environmental qi churning, digesting into hungry crimson.
+
+She was in the formation stage, the sixth step of the third realm, a full two stages above where she had been just a couple months ago.
+
+“Yo! Looks like we’re all here again, huh?” Sun Liling called out, waving. She seemed completely oblivious to the stony silence of the Bai around them as she strolled over to them. Sun Liling wore the same loose black silk pants she always had, but her shirt was a pale cream color embroidered with sunflowers, and over it, she wore a loose and unsecured vest of crimson made of some plant fiber that seemed still alive. “This sure is nostalgic.”
+
+There was a beat of heavy silence, and in it, Ling Qi finally noticed Ji Rong standing in Sun Liling’s shadow. He hadn’t grown explosively at least. He was stronger than last she had seen him of course, but not unreasonably so. His expression was stony, and she couldn’t read him at all.
+
+“Princess Sun,” Cai Renxiang greeted politely. “I am glad your return was untroubled.”
+
+“Yes, it seems that the West has at least managed to maintain its transport infrastructure,” Bai Meizhen said in a voice as cold as Ling Qi’s Hoarfrost Caress technique.
+
+“Right?” Sun Liling laughed. “Roads, how do those work? How’re a buncha meatheads supposed to know?”
+
+Bai Meizhen blinked, momentarily nonplussed.
+
+“I guess we managed on our own, just like always.” The princess beamed. “Honestly, things are going pretty great back home! Gramps had some tips for me, and I got to see my people again.”
+
+“... I am pleased for you,” Cai Renxiang said slowly.
+
+“You sure are,” Sun Liling said. “Anyways, gotta couple things to say! Mind if I have your ear for a moment?”
+
+Ling Qi was starting to feel unnerved looking at Sun Liling’s half-lidded eyes and wide smile. It felt unnatural like the bright lure or sweet scent meant to lure prey.
+
+“I do not see why not,” her liege said. There wasn’t really a reason to refuse.
+
+“So first, no hard feelings either way, regardless of which of our boys wins, yeah?” Sun Liling asked flippantly, slipping her hands into her pockets. “Just a fun lil challenge, right?”
+
+“Of course,” Cai Renxiang said.
+
+Sun Liling nodded enthusiastically. “Other thing’s a bit bigger. I need you to pass a message to your mother. Gramps has decided that since we’re all doing this imperial unity thing, he’s gonna head south too to clear out our bits of the mountains! He’s gonna be coming to meet the Duchess so they can talk coordination, yeah? Don’t want to step on each other’s toes!”
+
+Silence hung in the air at her declaration, and Ling Qi glanced at Gan Guangli, who seemed bewildered too. The less said for Bai Meizhen’s and the other Bai’s reactions, the better.
+
+“If that is King Sun’s wish, I am certain Mother will prepare to receive his simulacrum,” Cai Renxiang replied, barely missing a beat. “It is good to hear of such cooperation.”
+
+“Nah, he’s gonna have his alternates overseeing the muster. General Lu’s got that mostly in hand. He’ll be coming in person. Ask your mother to open a line so we can figure out the date, yeah?”
+
+Ling Qi did not know much about the Western Territories, but even she understood that Sun SHao never left the jungle in person. What was going on?
+
+Silence again, and this time, Sun Liling didn’t give them time to reply, turning to saunter away. “C’mon, boys, we got other people to see.
+
+Ling Qi blinked, mortified as Sun Liling pulled her hands from her pockets to swat both Lu Feng and Ji Rong on the bottoms as she passed them by. She glanced at Ji Rong, who briefly met her eyes, looking conflicted before he hurried to follow.
+
+“What,” Lao Keung said.
+
+“What,” Bai Meizhen echoed, glaring at Liling’s back.
+
+Xiao Fen made a sound not unlike a furiously burning fuse.
+
+“I do not even know where to begin,” Xia Anxi muttered.
+
+“And I do believe it would be best if you did not.” Another voice startled Ling Qi, and she glanced back to see Xia Lushen standing behind them, one hand on Bai Meizhen’s shoulder. “This is not business for you.”
+
+“Lord Xia,” they all swiftly greeted.
+
+“Lady Cai, I hope you will deliver this message to your mother swiftly,” Xia Lushen said pleasantly. “It does seem of great import.”
+
+“I will,” Cai Renxiang said. “I must apologize to you, my guests. This is most urgent—”
+
+“It is nothing. We will meet again this evening,” Bai Meizhen said, recovering.
+
+“May I ask to borrow your retainer, Lady Cai?” Xia Lushen asked. “It was her note which originally brought me here.”
+
+Ling Qi blinked, remembering that she had sent a missive indicating that she had made her decision on the sale. She hadn’t expected such a prompt response.
+
+“Of course, Lord Xia. Ling Qi, you are free until we meet back with our guests this evening,” Cai Renxiang said distractedly.
+
+She nodded to her liege as the group broke up with a few more pleasantries and followed after Meizhen’s uncle as he walked toward one of the exits. She turned her attention inward toward Sixiang. The muse hadn’t said a word in some time.
+
+<Yeah, sorry. Just trying to figure out what I was looking at, and got blocked by the princess’ spirit. I’m not sure if they were flirting or threatening; it was kinda both. That was a weird conversation,> Sixiang muttered. <Please don’t fight her again anytime soon. I don’t wanna get involved with that.>
+
+Not planning on it, Ling Qi thought.
+
+“You honor me with your swift reply, Lord Xia,” she said aloud.
+
+“It is nothing,” he said. “Merely a small favor. I suppose you would like to know what I have to offer.”
+
+“If you would, please,” Ling Qi said.
+
+“Most simply, I can offer stones. Two hundred green stones will go far for a young lady your age. However, if mere stones will not interest you, I can offer some small studies I and my apprentices have done on soil and fertilization. Your spirit undoubtedly does good work, but given the constraints of your environment, it may be best to stack advantages.”
+
+Ling Qi nodded. Either of those would be a boon.
+
+“On the other hand,” he mused, “I can offer medicines. I am not an unskilled alchemist…”
+
+Ling Qi perked up. “I did acquire the recipe for a cyan breakthrough drug recently. Perhaps you could help me acquire some of its reagents?”
+
+“Have you now? So resourceful,” Xia Lushen praised. “Yes, that would be within my power. I take it you already have a maker in mind?”
+
+“I mean no insult,” Ling Qi said humbly.
+
+“No, it is good to develop your own networks,” he dismissed. "Aside from that, I can offer some insightful conversation. Our Ways are not particularly close, but some of my meditations may aid you."
+
+Ling Qi considered the options Xia Lushen had laid out. She was likely still a few years from attempting the fourth realm breakthrough, but she would be establishing her home on the border sometime this coming year. One thing she had learned well was that benefits and good fortune built on each other like a ball of snow rolling downhill. That was why the great families were great. Even if they had a bad generation, the sheer inertia of their power would keep them rolling.
+
+She intended to ensure that her family had as much of that inertia as she could.
+
+“I think I would prefer the soil studies.”
+
+“A fine choice,” Xia Lushen said with an amiable nod. They exited the hall which passed under the stands, stepping out into the sun outside the arena. “The lands of the Ling will never suffer from parasites and weeds.”
+
+There was something vaguely malicious about the way the smiling old man pronounced those words, but given the Bai’s proximity to the western jungles, she could hardly fault him for that. “I am certain that Sir Xia’s studies will be more than enough for the calmer lands of the Wall.”
+
+“Indeed.” He frowned, gazing back over his shoulder into the arena. “Regardless, you will be well defended from encroachment. I do not have the items on my person. Would an exchange at the end of the tournament be acceptable?”
+
+“Of course,” Ling Qi said. “Thank you for all of your consideration, Sir Xia.”
+
+“No need. I am certain you have your own business to attend to.”
+
+Ling Qi nodded agreeably and bowed respectfully to the senior Bai as they parted ways, making her way down the path toward the guest pavilions. The trouble was her plans were now unsettled. She’d meant to remain with Renxiang and the others until her appointment with Wang Chao and Xuan Shi.
+
+<Bit of a conundrum. Maybe walk around? You do have that dossier to look through,> Sixiang proposed. <Besides, I’m sure you can find some good fortune underfoot.>
+
+I’m hardly going to trip over opportunities, Ling Qi thought, restraining her urge to roll her eyes.
+
+It wasn’t a bad idea though. Just observing the nobility of the Emerald Seas while she analyzed the information she had been given wouldn’t be a bad way to spend some sudden free time.
+
+“You’re helping me process and analyze everything,” Ling Qi said under her breath.
+
+<Whaaat,> Sixiang complained. <It’s all boring stuff!>
+
+Too bad, Ling Qi thought. This is what they signed up for.
+
+<Pretty sure I didn’t sign anything,> Sixiang grumbled.
+
+Ling Qi laughed, a smile on her lips as she joined the crowds among the pavilions.

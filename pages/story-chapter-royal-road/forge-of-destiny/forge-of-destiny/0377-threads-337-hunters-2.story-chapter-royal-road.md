@@ -1,0 +1,127 @@
+---
+id: 09cccab3-2a42-5301-bd5e-72cac64524c8
+page-type-slug: story-chapter-royal-road
+title: "Threads 337-Hunters 2"
+slug: 0377-threads-337-hunters-2
+partOf: forge-of-destiny
+position: 377
+ownLength: 1942
+unit: words
+publishedAt: 2023-09-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1354492/threads-337-hunters-2"
+royalRoadId: "1354492"
+---
+
+“They’re quarrying them out mostly,” Ji Rong said.
+
+“Excuse me?”
+
+“There’s basically three big camps down there that they’re building up. Supposedly, Liling’s gramps had his astrologers do some big ritual thing after they killed the tribes in the foothills. Then he went out and struck three different mountains along the southern border with his spear.”
+
+Ling Qi’s eyebrows climbed as Ji Rong spoke. White, eighth realm cultivators only very rarely did such base, physical acts.
+
+“I saw one of the holes in the ground. There were scattered bits of mountain everywhere, and the earth was bleeding. It's no damn joke.”
+
+Ji Rong’s expression twisted as he described it, and she could feel an echo of his emotion. She saw a black pit, kilometers-wide, rent in the earth, the shattered roots of a mountain still jutting out along the rim. Blood oozed from the broken ground, drizzling into the hole below as if the wound were in flesh rather than the earth. Mostly, she felt the irritation and fear that now clung to those images, the show of a sovereign at the peak of power.
+
+“They aren’t showing the signs of another large campaign though?”
+
+“They’re drilling a bunch. I got put through my paces down there.” Ji Rong grunted. “It’s where I got these scars. Got taken out on patrol, and got stuck punching arrows out of the sky while guarding some work crew till my support got there.”
+
+She glanced at the spiraling lightning scars traveling up his arms. “I see. And the quarrying, what is it for?”
+
+“I know a bunch is going north, but it looked like they were starting to build something big near the dig site too, a fort or something. They’re busy below too, building walkways and framing down in the pit,” Ji Rong answered.
+
+Ling Qi frowned. Were there ith-ia under the jungle? Blasting open holes into the earth might make sense then… or maybe there were star stones buried under those mountains? She simply didn’t know enough to say.
+
+“For what it’s worth… I think Liling is just trying to fuck with your head. I don’t know military stuff, but it sure looks like they’re digging in to me. Doubt they’re gonna move before you’ve worked out your deal here.”
+
+Ling Qi let out a breath. That was one concern off her mind, even if the potential for their campaigns in the future were worrying.
+
+“Alright, secondly, this pass through the mountains. It’s blocked apparently. Did you see it?”
+
+“From a distance.” Ji Rong scratched at one of his scars. “It’s like the biggest thornbush I ever saw, considering it was higher than some of the mountains, and it extends back a long way. Dense and black, fulla thorns… It was fuckin cold too. I could feel the chill from a couple leagues off. According to some of the other guys, lower realms—folks without shen—can’t get within a few kilometers before they start to die.”
+
+“Understood,” Ling Qi said. On one hand, it was probably good that there wasn’t a direct overland route north-south just yet. On the other hand, that was just ominous. “Have the Western soldiers made any attempts on it?”
+
+“Some high realms poked it, from what I heard.” Ji Rong said. “Infested with spirit beasts. Big, flying two-headed lizards, spitting ice and lightning and black fire. I saw a skull one of the fifth realms was showing off. Was as big as your obnoxious turtle’s.”
+
+“Don’t talk down to my brother unless you’d like a fight yourself, Baron Ji,” Ling Qi said frostily, to which he rolled his eyes. Ling Qi considered the information. “So they are making advances?”
+
+“Hunting the outskirts for sport,” Ji Rong corrected. “You’ve seen these guys. Out west, they expect you to hunt the material for your kit yourself. I even got something being made. But nah, too many of them further in, and they're wary of the hedge itself. Shao apparently took a look at it, but decided not to do anything yet. Just ordered them to set a defensive line for if the uglies came out.”
+
+It was certainly no joke, if the high realm military officers of the west had chosen to defer the challenge. And that was something to ask Dzintara about. She had a feeling the barrier might have something to do with their goddess’ battle with “the flower demon.”
+
+Ling Qi moved on. “Were you provided maps at all?”
+
+“Yeah, this is the bit Liling told me to be kinda straight about.” Ji Rong stood up, gesturing for her to follow him over to a table. “So look, for the deal, I can tell you the bits she said I absolutely can’t negotiate, yeah? A bunch of the other claims are just merchant shit, you dig?”
+
+“I understand haggling, yes,” Ling Qi said dryly.
+
+“Course you do.” Ji Rong snorted. “Let's spend a while on this. Can’t give you the minimum. Gotta look like I’m not half-assing this.”
+
+“I understand,” Ling said as a detailed map of the portion of the Wall that extended into the jungle appeared. There were some very expansive red lines drawn on it. She didn’t want to imagine arguing a more belligerent representative of the Western Territories down.
+
+And this was only the preliminary action. She had to negotiate with the Sun for what she would later negotiate with the White Sky.
+
+***
+
+It was, amusingly, still quite a spirited debate, but more because they were arguing over what it would look believable for him to have conceded.
+
+Ling Qi would begin the greater negotiations by claiming a span of mountains and valleys south of the jungle for some two hundred kilometers down to a canyon that snaked through the middle of the mountains a little way north of the line where the hedge was. But Ji Rong had told her that she could get away with shedding most of that, if need be. The Sun would only object to the point of ignoring her and the Emerald Seas if they did not get the areas surrounding Sun Shao’s three projects.
+
+And that was the niggle, wasn’t it? This was the Sun “playing nice.” Unless the empress descended from the throne and decreed their agreement law, this negotiated treaty would really only bind anyone outside the Emerald Seas as far as they chose to indulge it. It felt strange to be vaguely grateful that the Grave of the Sun served as an absolute check on any southern ambitions the Golden Fields could have as well.
+
+Especially given the tenor of Xiulan’s last few letters.
+
+She shook that thought away and straightened up, accepting the map with the revised log from Ji Rong. Flicking her wrist, the thick map case dissolved into glittering fog, flowing into her storage ring.
+
+“I’m gonna eat some shit for those concessions,” Ji Rong grumbled.
+
+“It’s hardly your fault that Cai’s wicked shadow witch talked around you, hm? How is your own junior brother by the way?”
+
+“Relong? He went to visit the other dragons while we’re at the sect. He’s got some stuff to do up there now that he’s gotten a bit bigger,” Ji Rong replied. “He’ll ask me if he needs something. Where’s your lot?”
+
+“Zhengui is working with the mortals and crafters at our new settlement. Hanyi is rehearsing. I don’t think it would be good to let her grow bored here.”
+
+Ji Rong grunted, rolling up his own copy of the map and sliding it into a second case. “Guess that just leaves the last item.”
+
+“The Goddess of the Red Garden, sometimes called the Sunflower Goddess, the great spirit revered by the barbarians which used to live in the west,” Ling Qi agreed. “I don’t suppose…”
+
+“I ain’t stupid,” Ji Rong grumbled. “I started noticing a giant heartbeat. That’s where my thoughts went too.”
+
+Ling Qi inclined her head. It made her wonder. Sun Liling’s abilities were unusual and very potent in their specific function, but Sun Liling had surely passed under the eyes of higher realms who would notice such corruption. Did that mean that whatever was going on with Sun Liling, people like Her Grace were already aware of but operating over their heads?
+
+It was a strong possibility. Sun Shao was… What? What had he done? Found a way to bind some parts of the jungle and steal its power? Or had he found a way to tame it finally? With their cultivation arts, it wasn’t impossible for something like that to happen. But that didn’t seem right. That heartbeat was joyous, not constrained or angry or sullen.
+
+A constant martial drumbeat, it soaked along the edges of every blade. It sang in the scratches in armor and plate. It was, to use her own metaphor, the sound of a million skittering feet and stamping hooves and pounding feet and the song of the forest roused to war, not for mere hunger but competition.
+
+Striving was a purpose in and of itself. That concept was strange and uncomfortable to her. It was at odds with her perspective. A person strove because they wanted. They strove to fill their belly or fulfill their spirit. She wanted to call conflict as a goal in and of itself ugly, but—
+
+There is no peace in emptiness, no content in stillness. Stagnation is death; act, change, move, think, and grow until the very end.
+
+Maybe she was only deluding herself. Conflict was intrinsic to life and to choice. Avoiding that aspect was disingenuous.
+
+… She still didn’t think the thought of conflict was something to exult in.
+
+“I only know a cursory amount. It’s the reason for the barbarians' raiding, a hungry spirit that demanded endless blood sacrifice in exchange for allowing the people there to live beneath the jungle’s boughs,” Ling Qi said.
+
+“That’s… not exactly right? I don’t think they sacrificed to protect themselves. They did it to cultivate.” Ji Rong scratched his head. “I guess that’s the same thing. You can’t protect shit if you’re not strong.”
+
+Ling Qi inclined her head as they stepped away from the table, her eyes wandering over the blandly furnished room. The westerners hadn’t done anything to make it their own yet. She wondered if they ever would.
+
+“Yes. So the spirit was a central part of their cultivation then? Does that mean the Sun arts…”
+
+“From what the soldiers I talked to said, they’re about harvesting the jungle. They take from it. They don’t give. They rip her power from her body, harvest her blood, and crack her bones for marrow. The barbarians submitted and fed her blood for power. The Sun conquered her, and they’ll fight her till she’s stripped down to the bedrock and finally dies,” Ji Rong said. “They’ll do what the Bai were always too cowardly to do, even if it takes a hundred generations.”
+
+Some more profound method, taking that to the next level then? Ling Qi didn’t know. That still didn’t feel quite right.
+
+“So the goddess is the jungle? Like a sublime ancestor?”
+
+“I dunno any of that shit. But kinda? People talk like they're taking a whack at her every time they cut down a tree or slay a beast. But then, everything in there is trying to kill ya, down to the fucking grass.”
+
+Ling Qi grimaced, remembering her brief jaunt in Elder Jiao’s illusion worlds and the run she and Xiulan had made through that murderous jungle.
+
+“Will you escort me in asking the soldiers what they know?”
+
+“Yeah, gotta keep an eye on you after all, you sneaky witch," Ji Rong drawled sarcastically.

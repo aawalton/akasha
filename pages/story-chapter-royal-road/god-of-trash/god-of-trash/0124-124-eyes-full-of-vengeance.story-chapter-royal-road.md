@@ -1,0 +1,69 @@
+---
+id: 10f3dba0-96b2-542e-aff5-344eba2582dd
+page-type-slug: story-chapter-royal-road
+title: "124. Eyes Full of Vengeance"
+slug: 0124-124-eyes-full-of-vengeance
+partOf: god-of-trash
+position: 124
+ownLength: 2155
+unit: words
+publishedAt: 2025-07-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2419588/124-eyes-full-of-vengeance"
+royalRoadId: "2419588"
+---
+
+Rhys charged at the nearest guards, and they charged down at him. He narrowed his eyes, then flicked his fingers at one of the further guards, who hung back, murmuring words to himself as he gathered mana for a spell. A rat crawled over the man’s shoulder, and he startled and batted at it, only for a second rat to appear, and a third, and a fourth, until the tiny beasts swarmed him, chittering as they gnawed at his flesh. He screamed, batting at them, but his blows did little. The rats consumed him, leaving nothing behind, then consumed themselves, vanishing once more.
+
+This was the technique Rhys had learned in the mines. This was the ultimate form of his rat-summoning.
+
+The newly-consumed guard’s sword drifted in the wind, wandering toward them. Lira kicked off the back of Rhys’s sword and flew through the air. She landed on a guard’s shoulder, jumped again, and flipped around to land feet-first on the abandoned sword, her slender sword outstretched. Suddenly flanked, the guards floundered, not certain whether to attack Lira or Rhys first.
+
+Lira and Rhys met one another’s eyes, then nodded. Rhys jumped left, while Lira took the right half. The guards swiftly fell, and Rhys absorbed them just as quickly. He stored their energy separate from their bodies, as usual, letting their bodies become trash, while their energy he stored around the exterior of the trash star, to be absorbed later, if he didn’t find any mages who wanted to take on the responsibility of being reinstated. He leaned forward, flying toward the abandoned flying swords, and pulled out two pieces of wood trash. Using the two like chopsticks, he fished the flying swords out of the air and stored them in his storage ring. He could use those later, either here or back at the base with his potato-chip-makers. Given how the merchants didn’t ride flying swords, he assumed sword-flying was restricted to the military and the aristocracy in the Empire, but that didn’t mean he couldn’t use flying swords when he attacked the Empire, just that he shouldn’t when he was going around as an innocent junk food salesman.
+
+He and Lira landed. The farm workers looked up, their eyes big and empty, shellshocked more than anything. Rhys stepped forward. “You are all freed. If anyone wants the danger and responsibility of a restored core, follow me. I can’t guarantee anything, except that you walk into death; I cannot, and will not, keep you safe. You might follow me and die for no benefit. Even if you receive a benefit, you must continue to follow me until the end of your lives, or the end of the Empire.
+
+“If you are not prepared for that commitment, if you want to simply be free and safe, then go now. Scatter to the four winds and make for the nearest borders. We will fight here, and distract the Empire for as long as we can, to give you as much time to get away as possible.”
+
+The prisoners looked amongst themselves. A few of them turned and ran without hesitation, vanishing into the forest around them. There was no barrier around the farm; Rhys didn’t know why, but he suspected it had to do with how the herbs grew. It was possible that a barrier would interfere with the flow of mana and prevent them from growing properly. They were absorbing mana passively from the soil and air, at a low rate; he was close enough to be able to sense the motion of mana in the air, flowing into the plants. It wasn’t infeasible that a barrier would alter their growth. In any case, he was grateful for the lack of a barrier, since it made it easier to handle the escapees.
+
+A few of them stepped forward. Their eyes were hardened, without a single scrap of hope left. These men and women marched to their death, but they marched with their eyes wide open, hoping to take down one guard on their way to hell. Rhys nodded. He glanced over them, then chose the one who looked the most committed, the most willing to fight until they or the Empire were dust, and put a hand on their shoulder. Power flowed from him into the young man, and he focused, coursing it into a core.
+
+The young man startled. He looked down at himself, then raised his hands, marveling at the return of mana. “I’m… whole again?”
+
+“Come. We have work to do,” Rhys said. He turned and marched off, further into the farm, toward the buildings and barracks in the near distance. As he walked, he absorbed the impurities from the plants and soil around him, sucking all the trash and filth into himself. The plants behind him sparkled, brightening under his influence.
+
+“Pick the plants and take them with you. Feel free to eat as many as you want,” Lira added, bending to pick a few of the herbs herself.
+
+Rhys nodded. There was no point leaving the impurity-free herbs for the Empire. “We take everything. We are the locusts. Nothing should remain behind us.”
+
+The once-mages nodded. They ran off, all of them spreading out over the fields and harvesting plants as quickly as they could. It was the same task they’d been doing, but now, they were doing it for themselves, and their eyes shone with hope and possibility. The restored mage took an entire three rows for himself, hopping from plant to plant and leaving not even the roots behind. Rhys glanced at him approvingly. With the rootstock, they could try replanting these herbs back in his garbage garden patch, and beyond that, try testing them as a flavor ingredient in their junk food. Plenty of junk food took flavors from herbs, whether it was onions and garlic or savory spice mixes. He had no idea how a magical herb would serve as a flavor component, especially when magical herbs were usually quite bitter in his limited experience, but it was worth a shot.
+
+As he walked, Rhys glanced at the bugs and pests on the herbs. He could absorb them easily; after all, pests were universally considered trash by farmers. His own words had sparked a thought in him. We are the locusts. He’d absorbed the essence of rats and become capable of summoning a swarm of rats. If he absorbed enough bugs… He raised his brows. There were infinite skills available to him through the route of bugs. In fact, he wouldn’t be surprised if bugs were an entire path unto themselves. Still, through the path of trash, he could easily access the path of bugs. Bugs loved trash, and trash loved bugs. The two were enveloped in a harmonious cycle, where bugs grew stronger from trash, and trash broke down into more useful items like compost and earth thanks to bugs. From a certain perspective, Rhys had even dabbled in the path of bugs before, with his accelerated compost creation.
+
+Of course, that was passive, or neutral association with bugs, where bugs and trash were locked in their harmonious cycle and enhancing one another. What he wanted now, was instead the aggression of bugs; stinging, biting, or even devouring bugs like locusts that he could use offensively, not unlike the rats. The rats took a good chunk of mana to summon, and had no secondary effect. He still hadn’t finished his efforts with creating a mage-infecting disease, so they could only devour things to death. On the other hand, mages were easier to inflict with poisons than diseases, and bugs naturally possessed poisons. If he could summon a swarm of poison-bearing bugs and set them on a mage, then even if the mage survived or dismissed the initial onslaught, he still gained the benefit of the poison. That, and a sting or bite could be an irritant to distract or slow mages, and prevent them from casting a spell or completing an attack even if they did little damage. It was a route worth pursuing.
+
+Rhys continued to absorb the bugs, but he stored them away from the rest of the trash for later study. He could always use more attacking spells. For a guy who styled himself—and thought of himself—as a mage, he sure didn’t have a lot of spells. It didn’t keep him from calling himself a mage, because he was trashy like that, but it did mean there was a little twitch in his heart, crying out for more spells. The fireball was forever beyond his reach, but that didn’t mean all offensive spells were impossible. Things like rats and bugs, throwing impurities, and other trash techniques he hadn’t thought of yet, he still had plenty of offensive spells open to him. He just had to think along the lines of his path, rather than thinking about generic offensive spells, and then he’d succeed. After all, his talent was garbage if it wasn’t aimed at garbage.
+
+More guards emerged from the buildings as they approached, and other fields, full of other mages, looked up, aware of their actions, but uncertain how to proceed. At the sight of Rhys’s glowing Trash Intent and Lira’s eerie smile, the guards immediately charged the two of them. Rhys snapped his fingers, and the nearby storage hut trembled. A stream of rats burst out of it and charged the guards, overwhelming the first. A second turned to help the first deal with the rats, and the rest kept charging.
+
+Beside him, Lira gestured. The plants nearest a guard withered, and a bolt of water leaped forth and pierced the guard’s side. He cried out, stumbling.
+
+There was still time before the remaining guards reached them. Rhys paused, then smiled. With all the impurities and filth he’d sucked up, there was a fair bit of cursed power mixed in. He still didn’t fully understand cursed power, but there seemed to be more of it when there were negative emotions or impurities mixed into the person’s blood. Given that he’d been absorbing lots of guards and guards’ energies, there were plenty of negative emotions and impurities that came with it, which meant he’d taken in some curse power. Now, he drew out that curse power and pushed it into one of the lumps circulating around his trash star.
+
+Bone fingers pushed through the earth directly ahead of where the guards were running. The ones in the rear saw it in time to jump back, but the first three had no time to react. Skeletal hands surged out of the earth, clasped over the guards, and dragged them down. They had time to scream before their bodies crunched into the earth. There was no magic to the actual killing; the skeletal hands pulled downward, the guards’ bodies impacted the earth, and the hands kept pulling, crushing the guards against the suddenly-frozen ground. A patch of frozen ground remained, covered in icy blood and frozen chunks of meat.
+
+Rhys staggered, his vision going dark. He barely caught himself before he hit the ground, and pressed a hand to his forehead. It was the first time he’d used the curse to kill, and it had taken more out of him than he’d expected. His blood darkened with impurities, and his mana shuddered, some of it darkening to curse power as a result of using the curse to attack. The backlash was severe and immediate, and to anyone but Rhys, would have been crippling. However, for Rhys, he simply stored the impurities in his trash core and drew the curse power out of his mana, storing it around the outside of the trash star as a ring. If the trash star was Saturn, then the cursed power was Saturn’s rings, and the curses were its moons.
+
+“Are you okay?” Lira asked.
+
+Rhys shook his head and straightened, shrugging it off. “I’ll be fine.” He gestured, calling the rats from the first guard, who was now almost totally devoured, to the second guard who’d gone to help him. The curse was powerful, but unlike standard techniques, he couldn’t immediately use it in combat. It was something best used when his enemies were at a distance and had no way to immediately punish him during the backlash. As much as he could trivialize the backlash, it still took him out for a few seconds, and as he well knew, a second was an eternity in battle.
+
+Luckily, his melee skills were relatively polished, thanks to Bast and Straw, so he didn’t have to worry too much about overrelying on curses.
+
+On his hilt, the Straw doll shuddered. It looked up at Rhys and chittered hungrily.
+
+“You want curse power? Sure,” Rhys said. “But not now. Later.”
+
+The Straw doll grumbled in dissatisfaction, but simply went inert again.
+
+The guards were almost on top of them. Rhys slashed the air and charged, ready to meet them.

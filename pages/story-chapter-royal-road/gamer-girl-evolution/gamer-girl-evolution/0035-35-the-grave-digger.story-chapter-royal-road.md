@@ -1,0 +1,223 @@
+---
+id: b8dc51a3-b61e-57f1-a0ab-6a66112cb990
+page-type-slug: story-chapter-royal-road
+title: "35 - The Grave Digger"
+slug: 0035-35-the-grave-digger
+partOf: gamer-girl-evolution
+position: 35
+ownLength: 1610
+unit: words
+ownProgress: 1610
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2812515/35-the-grave-digger"
+royalRoadId: "2812515"
+markedReadAt: "2026-06-29T20:06:42.122Z"
+---
+
+Celica looked around the quickly changing arena. The fields of grass and countless trees were being deleted in real time in front of her, leaving only the cold embrace or dimly lit arena she’d seen too many times already.
+
+“What’s it going to be this time?” she said vacantly. “Going from the trend, it’s probably gonna be...” she paused. The arena around her began to change but not in the way she expected.
+
+Instead of air currents shooting into the air from down below, there was mist covering the arena. Instead of an area which looked like an ancient ruins, she observed an area in ruins.
+
+The ground caved in at several locations and a deadly sigh hung in the air. Blocks of stone tablets jutted out from the ground, their markings utterly illegible, faded by time or something else entirely.
+
+The arena wasn’t springing to life like it had previously so many times. Instead, it was springing to death.
+
+A cold shiver ran up Celica’s arms as she looked around. Several of her hairs stood on edge. Although, she felt uncomfortable, she remained focused, her eyes still scanning for her target.
+
+Through the graveyard's mist emerged a figure carrying a shovel. With eyes as bottomless as an abyss and skin so drained of colour it could barely be called skin.
+
+As soon as the two figures made eye contact, they both disappeared, as if the start of their battle had been planned out prior.
+
+[ {Elite} Grave Digger (Boss) – Lv. 60]
+
+[Time Remaining: 19 Minutes 33 seconds]
+
+The distance between them was closed in an instant as they both met in the middle of the arena. The Grave Digger’s shovel collapsed downwards from above his head as Celica’s sword rose to meet it.
+
+Krr! Clash!
+
+A burst of sparks flew out as steel met steel. They stood pushing back against each other, neither side gaining the immediate advantage. Suddenly, they separated.
+
+Clash! Clash! Clash!
+
+Their weapons met several more times, but neither weapon gained an advantage. Celica’s eyebrows furrowed slightly. Her critical hit chance wasn’t increasing from their clashes, a clean hit had to be landed in order to stack the effect, and she knew that.
+
+His defences are solid, she thought to herself looking for an opening. If you have no openings, then I’ll just have to create one!
+
+She moved towards the boss again, this time coming at an angle. The Grave Digger hesitated, before thrusting his shovel forwards.
+
+Parry!
+
+Celica’s sword was already in motion by the time he began his thrust. A loud Clang! sound echoed as the Grave Digger was forced off balance by her perfectly timed parry.
+
+[Water Strike]
+
+Her sword omitted a strong azure hue as a wave of water flew out from it.
+
+Critical Hit Chance +1%
+
+But she wasn’t done yet. Now that she had a chance, she followed up with an extra attack using her animation cancelling and a Slash.
+
+Cumulative Critical Hit Chance: 3%
+
+The boss quickly recovered, staggering for a few moments before jumping backwards. Its lifeless eyes stared at the human who had injured it coldly.
+
+Celica’s eyes drifted to the boss’ HP bar.
+
+[ {Elite} Grave Digger HP: 98.3%]
+
+She sighed, looking at the damage she’d dealt. Her maximum DPS animation cancel combo consisted of only 7 hits since she only had 3 skills to combo it with. She’d just hit it three times but only dealt 1.7% of its HP. That meant her full combo would only deal a little over 3.5% of its HP.
+
+She had a feeling this boss would take a while. Much longer than she’d want, considering the circumstances.
+
+In that case, the key to clearing this boss as fast as possible lies in stacking critical hit chance!
+
+Her eyes narrowed as she dashed in again. The Grave Digger dashed in too, mirroring Celica’s movements. This time Celica faked a thrust before vectoring around the boss’ weapon.
+
+The Grave Digger frowned, turning to thwack Celica with a slash downwards.
+
+“Gotcha!” Celica smiled mischievously.
+
+Parry! Attack → Thrust → Attack → Slash → Attack → [Water Strike] → Attack.
+
+She retreated, satisfied with executing her max DPS combo.
+
+Cumulative Critical Hit Chance: 10%
+
+Her smirk grew wider as she looked at her critical hit chance. Nice, I have a win con.
+
+Although the boss still had over 94% of its HP, she wasn’t stressed. She knew the quicker she stacked the critical hit chance, the faster she could shred the boss’ HP.
+
+The battle continued with Celica finding openings using her elusive movement, well timed parries and creative usages of her skills. The Grave Digger could only watch as its HP bar slowly trickled down.
+
+[ {Elite} Grave Digger HP: 81.6%]
+
+Cumulative Critical Hit Chance: 38%
+
+Celica’s eyes shifted to the timer at the top of her UI.
+
+[Time Remaining: 17 Minutes 59 seconds]
+
+A minute and a half just for twenty percent of his HP. Still, now that my crit chance is so high, my next combos should be...
+
+Celica moved in close, parrying the Grave Digger’s frontal attack.
+
+Attack (Crit) → Thrust → Attack → Slash (Crit)→ Attack (Crit) → [Water Strike] → Attack.
+
+Her eyes widened as she looked at the Grave Digger’s HP.
+
+[ {Elite} Grave Digger HP: 73.2%]
+
+Three crits! She looked at her damage in awe, a satisfied smile covering her face.
+
+As if reacting to the same thing, the boss raised his shovel before slamming it down. Beneath the steel shovel, the arena cracked. Pale lights rose from the cracks, steadily forming the shape of enemies.
+
+[Grave Digger’s Ghoul – Lv. 60]
+
+[Grave Digger’s Ghoul – Lv. 61]
+
+[Grave Digger’s Ghoul – Lv. 59]
+
+An army of ghouls rose up from the ground surrounding Celica. In most normal cases, players would be annoyed that the boss summoned minions. However, in Celica’s case, she was overjoyed.
+
+“I get to stack my crit chance... for free?” she said in disbelief, as if she couldn’t believe her own eyes.
+
+The Grave Digger watched on with lifeless eyes as Celica dove into the wave of ghouls, her sword a blur as she cleaved through them all with ease.
+
+Critical Hit Chance: +1% +1% +1% +1% +1%...
+
+She struck the tens of ghouls down.
+
+Critical Hit Chance: +1% +1% +1% +1% +1%...
+
+Again.
+
+Critical Hit Chance: +1% +1% +1% +1% +1%...
+
+And again.
+
+Cumulative Critical Hit Chance: 100%
+
+She turned her eyes back to the boss after clearing out all of its minions.
+
+[ {Elite} Grave Digger HP: 85.0%]
+
+“So, you were using that time to heal some HP. Not that it’s gonna matter, anyways.” She moved like the mist, appearing before the boss like a ghost. It reacted with a thrust, but she dodged it, sending a wave of water hurtling towards it as a rebuttal.
+
+[Water Strike]
+
+Critical Hit!
+
+Celica wasn’t done. She moved hurriedly to follow up her previous skill, executing the only combo she currently had. Celica watched as the bosses previously stubborn HP bar evaporated.
+
+Critical Hit!
+
+Critical Hit!
+
+Critical Hit!
+
+[ {Elite} Grave Digger HP: 59.3%]
+
+A slight chuckle escaped Celica’s mouth as she looked at the terrifying damage she’d just dealt to the poor boss. “Looks like your time’s run out Grave Digger. Although, I’m sure your time had already ran out a century ago too.”
+
+The boss moved to summon more undead to guard him and overwhelm Celica, but she was used to fighting large crowds. Especially after dealing with two entire armies of monsters earlier.
+
+She weaved around them, one-shot them where necessary and closed the gap between her and the Grave Digger. The boss let out several howls as its HP melted.
+
+43%... 29%... 12%... 1%...
+
+The humanoid boss could do nothing but lament as Celica sealed its fate. Her blade lit up once more as a torrent of water flashed towards the boss. The wave was the last thing it saw before its vision faded to black.
+
+[You have defeated the Seventh Boss: Grave Digger.]
+
+[Time Remaining: 16 minutes 41 seconds]
+
+“Three minutes huh...” Celica sighed, slightly disappointed. “A fifteen-level difference is no joke. Not to mention the fact it's an elite boss.”
+
+[Congratulations! Your weapon has been upgraded to the Inferior Epic Rank.]
+
+Celica’s eyes were a blur as she looked at the changes intensely on her screen.
+
+***
+
++7 Ocean's Call [Inferior Epic]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+This weapon grows in level with the user, increasing its stats.
+
+Required Level: 45
+
+Grows until Level: 70
+
+Stats Given:
+
+Combat: +504,000
+
+Defensive: +14,400
+
+Physical Attack: +21,600 (20,000~23,200)
+
+HP: +2200
+
+Fixed Effect (1): While in combat, every attack stacks 2% critical hit chance cumulatively. Maximum critical strike chance attainable is 100% at 50 cumulative attacks. If no enemies or targets are damaged within 30 seconds, critical hit chance resets back to 0. Current critical hit chance: 100% (28 seconds before the cooldown resets).
+
+Fixed Effect (2): Critical Hit Damage is Amplified by 50%.
+
+Epic Attribute: Ice
+
+Epic Debuff:  Attacks have a 10% chance to freeze enemies.
+
+Epic Ability: FrostBite (Passive) – Coat Ocean’s Call in a layer of frost, imbuing all subsequent attacks with the power of ice. Frost-based attacks deal 100% increased damage during this ability's activation. Duration: 30 seconds. Cooldown: 20 seconds.
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined longsword desired by countless swordsmen across all of Earthonia. After experiencing changes, the dagger's latent potential has almost fully awakened, but a greater power within lays dormant.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+A wide smile blossomed onto Celica’s face. Her mouth moved involuntarily. “Hehe. Hehehehe.”

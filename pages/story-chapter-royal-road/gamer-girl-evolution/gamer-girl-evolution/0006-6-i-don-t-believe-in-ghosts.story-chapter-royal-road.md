@@ -1,0 +1,143 @@
+---
+id: e5cf20f7-7bae-560d-aef4-6222a45c88bc
+page-type-slug: story-chapter-royal-road
+title: "6 – I Don’t Believe In Ghosts"
+slug: 0006-6-i-don-t-believe-in-ghosts
+partOf: gamer-girl-evolution
+position: 6
+ownLength: 1519
+unit: words
+ownProgress: 1519
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620538/6-i-dont-believe-in-ghosts"
+royalRoadId: "2620538"
+markedReadAt: "2026-06-29T20:05:47.157Z"
+---
+
+[Shadow Forest — Final Stage][Objective: Defeat the Ghost Guardian]
+
+Shadows moved between the trees. Just then, one detached itself, drifting forward formlessly as it lunged.
+
+[Shadow Wisp – Lv. 16]
+
+Celica sidestepped, her blade flashing. The thing split like smoke, then reformed. Another slid from behind. Then another. She clicked her tongue. “This mechanic… so soon?”
+
+Celica’s posture changed as she lined up her sword to hit at least two wisps with one swing. The wisps split like smoke again, but this time, they didn’t reform.
+
+“Right, it’s just as I expected.”
+
+One by one, their HP bars collapsed, dissolving into green smoke. A few drops scattered into her inventory—crafting mats, mainly, but it wasn’t anything worth slowing down for. She pressed on.
+
+The mist thickened until the world ahead turned opaque. Her minimap fuzzed, unreadable. Then a ripple tore through the fog, and a figure emerged. A tall silhouette, cloaked in black. Its hood lifted just enough to show a pale mask. No mouth, no eyes, only a blank porcelain surface.
+
+[Ghost Magician – Lv. 20]
+
+Celica’s grip tightened on her sword. Magician? And Level 20? That wasn’t supposed to happen in the first dungeon. The ghost guardian was supposed to be the level 18 Ghost Knight.
+
+The Ghost Magician raised its staff. The ground cracked open and jagged spikes erupted from beneath her feet. She dove sideways quickly, reacting to the new attack.
+
+“Magic?” Her eyes narrowed. The boss didn’t care. It cast again, shadows twisting into flaming serpents that lashed across the clearing. She darted left, and right frantically, observing the foreign boss.
+
+She pressed her back to a tree, then—using her glitchy vectoring— she forced herself deeper, clipping fully into its trunk. Her vision warped as textures stretched across her screen, half the UI flickering.
+
+The Ghost Magician didn’t hesitate or seem to care about her actions. It kept casting, filling the clearing with cursed fire and jagged illusions. But none of it touched her.
+
+Inside the tree, Celica smirked. “Don't you know I don't believe in ghosts? So how can they hurt me?”
+
+She was untargetable.
+
+She angled her sword outward, only the tip of her hitbox poking past the geometry. Then she went to work. Thrust. Cancel. Slash. Cancel. Double-register frame combo. Her MP bar ticked down in slow motion, every cancel shaving off frames, every animation optimal.
+
+From outside, it must’ve looked absurd: a blade jutting out of a tree, hammering the boss’s HP bar like a shredder.
+
+The Ghost Magician twitched, their robe jerking violently as if the game engine had bugged out. Its spells fired off randomly, bathing the entire shadow forest with earth magic, but she remained untouched.
+
+Chunks of red vanished from its bar. Half.  Three-quarters. Her thoughts drifted mid-combo, her movements fully automatic.
+
+“Something isn’t quite right… Fenrir’s bite. The Monkey King’s parry. And now this thing, breaking progression walls with magic…”
+
+Her sword flared as the final boss’ HP bar collapsed completely.
+
+The mask cracked as it crumpled in on itself, twisting until it shattered in a burst of warped light. The mist cleared.
+
+The loot window popped.
+
+[Dungeon Clear Reward: Shadow Forest Chest][Bonus: First Clear: Unique Item Granted]
+
+Celica sighed, exhaling through her nose. Her blade still hummed from the last cancel chain. “That’s one dungeon down.” She clipped back out of the tree, rolling her shoulders as she did.
+
+The system was changing. Enemies weren’t supposed to fight like this… but that was fine. She smirked at the empty clearing. “If the game wants to change, I’ll have to adapt.”
+
+In front of her a chest materialised—heavy, and glowing a faint blue.
+
+Celica knelt down, flicked the latch, and let the lid creak open. The UI popped, one reward at a time:
+
+[1 Gold][3x Shadow Potions — temporarily increase evasion][Unique Accessory: Phantom’s Band]Passive: Slight chance to completely ignore fall damage.
+
+Celica’s eyes widened. “This is… new… hehehe…” She had unknowingly curled over, her mouth dripping with drool. If anyone saw her right now they’d definitely think she was a unique gremlin-type monster.
+
+[System Announcement: Player Snapped Sword has achieved the First Clear of the world’s first dungeon: Shadow Forest]
+
+The words blasted across global chat. Every player, in every town, in every field, saw her alias in flashing gold text.
+
+Outside, she could already imagine the reaction. Newbies grinding slimes in the grasslands, their jaws dropping. Veterans cursing as they scrambled for information on the dungeon’s whereabouts. Redditors asking “Who is Snapped Sword and how are they so good?”on r/TheTenRealms. Maybe that last one was just in her head.
+
+Celica shut the chest, brushing ghost dust off her gloves. The forest dissolved around her, textures fragmenting as the dungeon collapsed into the exit screen. She stood there a moment longer, savouring it.
+
+Then, the exit light swallowed her whole. The Shadow Forest spat her out in a shimmer of pixels as she stepped into the open air.
+
+Silence.
+
+The clearing outside the dungeon was empty. Not a single wide-eyed newbie gawking at her gear, not a single rival guild lurking to measure her strength, not even a gaggle of low-levels grinding monkeys in the treeline.
+
+Just the sun beating down, the faint sway of the grass, and the stale scent of leaves still clinging to her cloak. Celica blinked once. Then twice.
+
+“Oh, come on,” she muttered, planting a hand on her hip. “This is too easy.”
+
+For a moment, she stood there, almost offended at the lack of witnesses. She’d just burned through a dungeon first-clear faster than anyone in the game’s history.
+
+But fine. If the world wasn’t going to react for her, she’d imagine it herself. She straightened her shoulders, tilted her chin, and let her voice drop into a mock-whisper:
+
+“Did you hear? Snapped Sword already cleared it!” Then she cupped her own ear, gasping dramatically. “No way! She soloed the Ghost Magician?”
+
+Celica clutched her chest in mock horror, then burst out laughing. A sharp, delighted cackle that cut through the still air.
+
+“Hehe… pathetic,” she laughed to herself self-deprecatingly, brushing dust off her gloves. Her laughter echoed a moment longer before trailing into quiet. That was when she noticed him.
+
+The armoured NPC who had blocked her at the start of the dungeon was still there. But something was off. When she’d entered, his stance had been mechanical and lifeless. A human-shaped roadblock, if you will. Now, though…
+
+Celica froze.
+
+He was smiling. Not wide. Not sinister. Just a faint curl at the corner of his mouth, like he’d witnessed her little performance and found it amusing.
+
+Her brows shot up. NPCs didn’t do that. Not in these starter zones. They weren’t coded for idle expressions beyond the basics—neutral, angry, polite. For him to deviate at all meant either she’d triggered a hidden flag… or the devs were cooking.
+
+Celica tilted her head, a smirk tugging at her lips. “Well, well. Guess someone was watching, after all.”
+
+Celica stepped closer to the armoured NPC, folding her arms as she did. His faint smile hadn’t budged, and that in itself was suspicious. Normally, this guy just droned on about safety in numbers and sent players packing until they showed up with a party. Even when you’d cleared the dungeon he didn’t mention anything else except the entry requirements to challenge it again.
+
+Just then Celica thought back, remembering a very specific and very niche rumour from the past. A subreddit she’d long since forgotten. She tilted her head, then said casually, “Those… monkeys in the cave… they laugh at the worst times.”
+
+The words hung in the air, strange even to her own ears.
+
+The NPC’s head jerked slightly, almost like a puppet tugged by a new string. Then, in a low voice, he replied, “Few travellers notice their laughter. Fewer still understand what it means. You… are different.”
+
+Celica smirked and thought to herself internally, finally someone who gets it.
+
+His eyes, once dull, now glowed faintly as if recognizing her. “There is a stage beyond the stage. A path beyond the path. Forgotten by most and hidden from those who rush blindly. Only those prepared may walk it.”
+
+Her heart gave a small kick of triumph. So that rumour really was true… so that means I should be able to unlock... She stepped closer, her voice lowering. “So there’s a secret path.”
+
+The NPC inclined his head, as if bowing to her knowledge. “Yes. But it is not for the unprepared.”
+
+[Requirement: Level 20 or higher. Solo entry. If you fail, the path is sealed forever.]
+
+“If I fail? Do you know who you’re dealing with?” She murmured, laughing as she brushed a strand of hair away from her face.
+
+The NPC extended his hand. The grass at his feet stirred like mist, curling upward into the outline of a gate. His voice deepened.
+
+“Will you walk the forgotten path, traveller?”
+
+[Do you wish to enter the hidden stage ‘The Forgotten Graveyard’?]
+
+Celica’s grin widened, sharp and charming. The UI faded as she moved towards the gate. The mist rose and surged forward, before swallowing her whole.

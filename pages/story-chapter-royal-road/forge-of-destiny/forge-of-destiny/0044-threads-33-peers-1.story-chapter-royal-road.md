@@ -1,0 +1,137 @@
+---
+id: 686e0936-49b0-5502-8d1f-aaf6330498a5
+page-type-slug: story-chapter-royal-road
+title: "Threads 33-Peers 1"
+slug: 0044-threads-33-peers-1
+partOf: forge-of-destiny
+position: 44
+ownLength: 2765
+unit: words
+publishedAt: 2021-01-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/611350/threads-33-peers-1"
+royalRoadId: "611350"
+---
+
+“So, I think I would call my outing with Xuan Shi a success,” Ling Qi finished, drumming her fingers on the arms of her chair. She’d left the exact details out of her report, but she had parted with the Xuan scion on good, if awkward, terms.
+
+“Very good. He is an important contact,” Cai Renxiang said crisply, capping the scroll case in her hands with a snap. It soon joined its brothers on a pyramidal stack. “We should be on our way.”
+
+Ling Qi eyed it and the stack of unfinished documents covered in unfamiliar numbers and names. She stood, and Cai Renxiang did the same as they left the girl’s office.
+
+“You know,” Ling Qi started casually, “what is all of that back there about? I can’t imagine that taking care of finances for a handful of people and a small gathering requires that much paperwork.”
+
+“Somewhat more than you might imagine,” Cai Renxiang replied in that way she had, the one that made Ling Qi unsure if Cai was being sarcastic. “What brings the question?”
+
+Ling Qi gave an awkward shrug as they made their way out of her liege’s residence. “Just curious, I suppose. I was wondering what has made you so busy.”
+
+“It is merely another set of tasks Mother has set me,” Cai Renxiang replied. The light that had once clung to her head and shoulders seemed to suffuse her more fully now, gleaming from the folds of her gown and leaving a faint shimmer in her wake. “I am to mirror the role of the Minister of one of Mother's minor holdings.”
+
+Ling Qi blinked, staring at the back of the girl’s head blankly. “How are you to do that from here?”
+
+“Only the administrative portion of the role, obviously,” Cai Renxiang said, glancing back at her. “I receive the same reports, requests, and other information that he does. Of course, the budgets, reviews, and legal rulings I create are for Mother’s eyes alone. I have not been reprimanded for errors yet, so I can only assume that I am performing adequately.”
+
+“Only adequately?” Ling Qi asked with a raised eyebrow.
+
+Cai Renxiang did not visibly react to her words, but when she spoke, Ling Qi did hear a tinge of frustration to her words. “I will not presume. I will admit, however, that it is somewhat vexing to see a new month's reports and find inefficiencies that I had uncovered continuing unobstructed and find other short-sighted decisions being repeated again and again.”
+
+<Such a nice family your boss has,> Sixiang whispered dryly. Her head felt oddly quiet with only the muse and herself present.
+
+Ling Qi had to admit, she would not say that she knew her liege's mind perfectly but that seemed like something deliberately designed to agitate her. She supposed she couldn’t know the Duchess’ mind. “The Duchess is not the sort to hide her displeasure, I think,” Ling Qi commented carefully, “or to accept adequacy.”
+
+“I am aware. I simply fail to understand her intentions,” Cai Renxiang said, the irritation in her voice subsiding. They lapsed into companionable silence as they reached the cliffside of the mountain and took flight, heading for the building her liege had rented for this month's gathering. They needed to be there first to greet guests as they arrived.
+
+***
+
+The hall was much the same as it had been each time before. Colorful tapestries and strings of flowering plants were hung on the stone walls, and there was a table laden with treats from all over Emerald Seas, attended by minor Sect workers. There was a single stage for entertainers, which she would be spending a large portion of her time during the gathering on.
+
+For now though, she stood near the entrance behind and to the right of Cai Renxiang to greet their guests as they arrived. She had done this a couple of times now and had prepared herself mentally for a good half hour of dull greetings and pleasantry. However, she found herself surprised by the first ones to arrive.
+
+While Bai Meizhen arriving early to claim and dominate a corner of the hall was not unusual, the one with her was. Bao Qingling was not a common sight period. The tall, gangly girl had shown up briefly at the first one to give Cai Renxiang some face but never again. She was also missing the shapeless smock and other accessories Ling Qi had always seen the girl wearing before. While the thick padded clothes, gloves, and boots remained, the top layer was made of silk in shiny black and green, rather than dull brown leather.
+
+“... the qualities, texture, and toughness of the silk is a significant divergence. How is the retention of the toxin potency?” she heard Bai Meizhen ask as they approached.
+
+“Seventy-five percent,” Bao Qingling replied gruffly. Her gaze remained straight ahead as she spoke, but her fingers twitched with a certain nervous energy. “Still needs workshopping, but progress has been satisfactory so far.”
+
+“The work reminds me of the crafts of certain family artifacts,” Bai Meizhen said smoothly. “The quality is not quite there, obviously, but it is an intriguing project. The use of treated spider webbing, rather than traditional silk, is an interesting twist.”
+
+“You’re too kind,” the taller girl said, a bit of pride creeping into her dry voice. “The works of Bai Xiong are treasured masterworks for a reason.” Their conversation fell silent as they approached the hall.
+
+“Miss Bai, Miss Bao,” Cai Renxiang greeted formally as they stepped inside. “Welcome to my hall. You honor me with your presence.”
+
+“Thank you very much for coming,” Ling Qi echoed. “I hope that you find the afternoon enjoyable.”
+
+“And I am honored by your invitation,” Bai Meizhen replied evenly. She cast Ling Qi an amused glance, but Ling Qi retained her pleasant mask. They had to go through the motions after all; she could chat with her friend later.
+
+“As am I,” Bao Qingling added stiffly, dipping her head with a twitchy jerk. “You’ve outdone yourself, Lady Cai.”
+
+“Thank you for your kind words. Please partake as you will of refreshments while the other guests arrive,” Cai Renxiang said, gesturing that they were free to pass.
+
+There was another exchange of bows, and the two passed them by. Ling Qi glanced back at them as their conversation resumed.
+
+“I would be interested to see the reaction of your silk to some Bai venoms,” Bai Meizhen began.
+
+Then Cai Renxiang shot Ling Qi a look, and Ling Qi smiled apologetically. They already had more guests coming. Eyes up front. She would have to figure out what those two were up to later.
+
+Guests trickled in, coming in ones and twos and threes. Gu Xiulan arrived, as did Xuan Shi and some of Ling Qi’s former tutors. Shen Hu drifted in alone, still seeming awkward, although dressed nicely.
+
+As the arrivals were beginning to taper off, Ling Qi found herself facing the day's second surprise. As a head of red hair came into view, she caught even Cai Renxiang’s lips briefly twitch down into a frown.
+
+Yet, nonetheless, as Sun Liling came to a stop in front of them, her hands tucked into her pockets and her shoulders casually slouched, Cai Renxiang did not miss a beat. “Welcome, Princess Sun. It pleases me that you have deigned to accept one of my invitations.”
+
+“It really is a pleasure,” Ling Qi added blandly. She knew in a vague sense that Cai Renxiang regularly invited everyone above a certain status to avoid giving offense, but she supposed that she had never considered that this would include Sun Liling. “I hope you have managed to cure your restlessness, Princess Sun.”
+
+“Hah, suppose I have,” Sun Liling laughed. “Apologies if my presence disturbed your delicate sensibilities the other day. I hope ya remembered my message.”
+
+<I wonder if you humans have invented an art to make words into actual knives,> Sixiang mused silently in her head.
+
+“She did,” Cai Renxiang replied evenly. “Your concern is appreciated, Princess.”
+
+“I’m glad,” Sun Liling said agreeably. “I’ve been reminded that we can’t let little grudges and indiscretions get in the way of cooperation. We’re all servants of one Empire after all,” she drawled.
+
+“An admirable view,” Cai Renxiang said as Ling Qi tried to keep a dubious expression off her face. “You are welcome to my gathering, Princess Sun. I hope that you find it satisfactory.”
+
+Sun Liling nodded then passed them by. Ling Qi shared a long look with her liege. It looked like she wasn’t alone in not buying that for an instant. For now, there was little to do about it. She remained by Cai Renxiang’s side until the greeting was done.
+
+As Ling Qi mounted the steps to the stage and drew her flute to begin playing the first of her new pieces, her thoughts wandered to the party ahead. While she would observe everyone as well as she could from the stage, she had to consider how she would spend her time in the intermission between performances.
+
+When Ling Qi began her first piece of the afternoon, she allowed her qi to stir and effortlessly weave the Spring Breeze Canto into the light and ephemeral notes of her song. In studying the Harmony of the Dancing Wind art, she had worried that it was too direct and intrusive, or even rude, to use in social gatherings, but in attending these gatherings, she had begun to pick up some unspoken rules.
+
+It was simply accepted that everyone would listen in on everyone else. If Ling Qi focused, turning her attention to any one party goer, she could see the traces of perception arts. Cai Renxiang cast an invisible radiance over the gaggle of young nobles she conversed with, and its shadow stretched beyond them into the shifting crowd. Bai Mizhen’s presence loomed in the far corner, periodically exuding tendrils of qi like a snake tasting the air. Bao Qingling stood enshrouded in a drifting web of strands that vibrated with every passing motion and word in her vicinity.
+
+These perception arts were not uncontested however. As the soft notes of her song drifted over the hall, people would fade in and out. She looked to Wen Cao, quietly conversing with another boy, and found her senses distorted, as if she were seeing and hearing through a veil of rippling water. She looked to Sun Liling, and the beating of a monstrous heart drowned out Sun’s exact words as she chatted with a girl Ling Qi did not recognize.
+
+It was a little irritating that she had only found this out such a short time ago. However, she could not resent her friends in this for not explaining. Like many other things, it simply wasn’t something that was talked about. It was something that was known implicitly, the same way that she knew that speaking loudly would result in people nearby overhearing her words. If someone had needed that explained to them, wouldn’t she be baffled?
+
+The norm she had figured out gave her a new perspective on these gatherings. It was all one big dance of play and counterplay. Still, at least, she was beginning to develop the proper tools for this battlefield as well. So Ling Qi played, and Ling Qi observed.
+
+The overall mood was good. Disciples were pleased with her performance and the provided refreshments. In casual conversations, praise for her liege came easily to many lips. The swift, steady rise in ranks she was undergoing was not eliciting much resentment, but the comments she overheard regarding herself were less positive in tone. From the scions of various Emerald Seas clans, there was a certain air of resentment toward her, as if she had snatched something that belonged to them.
+
+More annoying were the veiled sneering toward some of her recent actions. Scions complained that she was thoughtless and destructive for setting off the storm on the Outer Peak without warning. that she wasted her time playing around with mortals, and that she built her staff from gutter trash, ignorant of “that sort’s” inherent untrustworthiness. The last complaint was especially annoying because there was always the undertone that she was that sort as well, and that obviously, someone should see about displacing her from the position she found herself in at Cai Renxiang’s side.
+
+Of course, she couldn’t act on the comments she had gleaned when the notes of her song pierced the obscuring veils of party goers’ social masking arts. That just wasn’t how the game worked. No, she had to smile, keep her knives up her sleeves, and act like the only things she had heard were the things said to her face.
+
+Ling Qi had put aside many petty grudges in the Outer Sect as she grew past their perpetrators. She had fixed her eyes forward on climbing the mountain of cultivation and cast aside her detractors as meaningless distractions. But that was not really an option anymore, she thought grimly. Perhaps these specific individuals could be treated the same way, but the families of Emerald Seas and beyond that they represented were not so easily ignored.
+
+Ling Qi allowed none of her thoughts to be expressed on her face or in her song, continuing to play the smooth melody she had composed for the party as she turned her attention to more individual concerns. Although her art failed to allow her to perceive Sun Liling’s actual words, she could still observe the girl’s actions, which were very mundane. The princess chatted, mingled, laughed politely at jests, and just generally acted the part of any other noble at the gathering. Sun still kept her slouched and casual posture and skimped on formal motions, but in every other way, she seemed to simply be behaving herself.
+
+Bai Meizhen seemed surprisingly comfortable among the guests. The ripples of terror that she had once unleashed with her every motion were controlled now, and she spoke with ease to those who engaged her. Ling Qi even spied what she suspected was the source of Meizhen’s previous complaints, a handsome young man in white and black robes who seemed to hang on her every word. Ling Qi didn’t miss the spark of extra animation that entered into Meizhen’s expression when those seeking her attention drifted off and the pale girl turned back to Bao Qingling, who hovered nearby, radiating prickliness from her scowling expression. She had caught the Bao’s attention shifting her way periodically as well, so Ling Qi suspected that they would be speaking later regardless.
+
+Eventually though, her first piece wound down, and Ling Qi stepped away from the stage to be replaced by a young man with a guqin whose name escaped her at the moment. She gave him a polite nod as she passed him by.
+
+<What’s the plan then, boss?> Sixiang drawled.
+
+Ling Qi considered her options as she made her way to the drinks table and accepted a cup of pale plum wine. It would have been mildly intoxicating to a mortal, but for anyone here, it may as well have been a simple fruit juice.
+
+What should she do? Usually, at these gatherings, she said hello and made small talk with whichever of her friends were present and traded pleasantries with the handful of people who approached her. That was the only reason she remembered that Wen fellow’s name. He was consistent in finding and greeting her at these things.
+
+She glanced in the direction from which she could feel the Wen’s qi; he seemed rather withdrawn today. This was fine with her; though she knew he was a valuable contact in the Ebon Rivers province, she didn’t much care for him.
+
+She was getting distracted though. Ling Qi took a sip from her cup and then turned and began to walk toward the most brightly lit portion of the room.
+
+<That’s your choice then?> Sixiang asked quietly.
+
+<I can’t just keep playing around at the edges,> Ling Qi thought back. <I need to start taking this more seriously.>
+
+Cai Renxiang would be the one to observe and learn from. Besides, she was certain no one could actually enjoy being alone, surrounded by false faces at these gatherings. ... Well, Xiulan might; that girl did seem to delight in trading insinuations and jibes with unfriendly people. She chalked that up to her friend’s aggressive, confrontational attitude though.
+
+Ling Qi left those thoughts aside as she made her way through the crowd to reach Cai Renxiang.

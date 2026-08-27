@@ -1,0 +1,199 @@
+---
+id: dd83b71c-cd47-524e-905f-becca8460f21
+page-type-slug: story-chapter-royal-road
+title: "43 - Bling Bling Maxing: The Sequel "
+slug: 0043-43-bling-bling-maxing-the-sequel
+partOf: gamer-girl-evolution
+position: 43
+ownLength: 1730
+unit: words
+ownProgress: 1730
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2936005/43-bling-bling-maxing-the-sequel"
+royalRoadId: "2936005"
+markedReadAt: "2026-06-29T20:06:57.287Z"
+---
+
+As soon as she entered the marshlands, Celica opened her minimap. Although only a few moments had passed since she left Blade Village, the village was nowhere in sight on the minimap, however, a few other locations, ones where mobs typically spawned, were in view.
+
+This time, she'd opened her minimap to check for any anomalies (like the mist military outpost), but there were none. Everything was exactly how she remembered it.
+
+[Ogre - Lv. 19]
+
+[Ogre - Lv. 19]
+
+[Ogre - Lv. 20]
+
+Before long, Celica found herself surrounded by ogres. Most players in her situation would've cursed their bad luck, but not Celica. In fact, she was praising her good luck.
+
+Without any hesitation, she charged forwards, her sword flashing. Right as the sword hit the enemy, she quickly pulled it back, vectored strangely on the spot, and attacked in the same place again.
+
+Performing the same double-register glitch she had on the first floor, Celica waited patiently for the mob to drop several silver or gold coins.
+
+But, unfortunately, that didn't happen. All that fell onto the floor and then promptly into her inventory, were a bunch of bronze coins. She sighed, then reappeared next to the closest ogre, performing the same double register input to attack twice in the same frame.
+
+Still, the end result was the same.
+
+Just like before, it only works for certain mobs on the first floor... She didn't panic, though. She'd suspected that it wouldn't work, but she still wanted to test it. Regardless of the final outcome, she wanted to try her luck with getting coin duplicates. And so, she did just that.
+
+Trolls, goblins, ogres, wolves—any mob she could find was slaughtered, using the double register glitch. None of them gave more currency than they should.
+
+But Celica was persistent, determined even, to make her life easier. She tried every possible glitch she could think of.
+
+Whether it was performing the pick-up animation twice to trick the game into adding the coins twice, or interacting with the coins on the exact transition frame to cause repeated pick-ups or even entity cramming to register multiple “death” events at the same time. Some of them seemed like they might work if she tried them a few more times, but...
+
+"Looks like I'm just going to have to do it the old fashioned way," she said, sighing as she opened up her inventory.
+
+***
+
+[Inventory]
+
+...
+
+Phantom’s Mask (Unique) Phantom’s Blade (Unique).
+
+Elixir of Gold (x3) (Super Rare) Elixir of Blessings (x3) (Super Rare).
+
+VIP Ticket for the Grand Eonian Colosseum (Unknown)
+
+Rift-Corrupted Trophy (x3) (Super Rare) – A collectible item that can be sold for a high value.
+
+Currency Available: 6 Platinum Coins, 3 Gold coins, 66 Silver Coins, 51 Bronze Coins
+
+...
+
+***
+
+The old fashioned way she was forced to do was, of course, regular farming. It was the way every MMO player knew and did when they went exp or coin farming. You would go to an area with a lot of mobs, clear out the area, and then rotate to another area as you wait for them to respawn.
+
+Then, you'd clear that area out too and rotate again and so on and so forth. This process was repeated until your material bag was full. When it got full, you'd go to the nearest village or town and sell all the monster drops. Then rinse and repeat, until you met your currency goal.
+
+Since she had no glitches to abuse to quickly rake in cash, Celica had to grind this way too. However, compared to other players, Celica had a few advantages. She knew the optimal pathing for grinding, where she should rotate to for maximum efficiency, and the best mobs to target in terms of loot drops.
+
+She also knew that with her weapon, the sheer speed and efficacy of her farming would be something no other player could hope to match.
+
+She stretched slightly, pumping herself up. After a short moment, a brilliant flash of neon coloured lights covered Celica. It was her buffs being activated. She turned to her weapon, making sure all the toggleable abilities were toggled on. After confirming they were, she got going.
+
+[+0 EXP]x88
+
+[+0 EXP]x99
+
+[+0 EXP]x111
+
+[You have obtained an item: Ogre's Hide (x45).]
+
+[You have obtained an item: Troll's tooth (x74).]
+
+[You have obtained an item: Wolf's Fur (x66).]
+
+Since Celica was several levels above all the mobs, she gained zero exp and one shot everything in her way. Even without CotA, Celica was way too strong to struggle against mobs of this level.
+
+She made her way around the entire marshlands, cutting through every mob possible, in the most efficient way.
+
+[You have obtained an item: Wolf's Fur (x1). Your inventory is full. Please remove an item if you wish to make space for this item.]
+
+After about fifteen minutes had passed, her inventory was full to the brim with monster materials. Without wasting time, Celica moved towards the nearest commercial area, a town called Shimmer Town.
+
+Celica remembered this place from her countless playthroughs and pathed through it like she was making her way around her hometown. She quickly located the NPC in charge of one of the shops.
+
+She opened her inventory.
+
+***
+
+[Inventory]
+
+[Monster Drops]
+
+Ogre's Hide (x999), Troll's tooth (x999), Wolf's Fur (x999), Ogre's Hide (x999), Troll's tooth (x999), Wolf's Fur (x999), Ogre's Hide (x999), Troll's tooth (x999), Wolf's Fur (x999)....
+
+***
+
+[You have selected several items. Are you sure you would like to sell these?]
+
+Yes.
+
+[You have obtained: 75 gold coins, 43 silver coins and 20 bronze coins.]
+
+At this pace, it'll take me roughly an hour for to get three platinum coins. I can grind this for at least ten hours a day, so I should end up with 30 platinum coins for every day I grind.
+
+There's only 3 days left until the end of the floor. I'll be cutting it close if I want to max out by the end of floor two, but... it's worth a shot!
+
+As soon as the transaction finished, Celica left Shimmer Town, leaving directly for the marshlands. She had more very fun grinding to do, after all.
+
+And so, for the next three days, Celica coin grinded for twelve hours consecutively. Only taking breaks to sleep, eat and occasionally spend time with Ingrid.
+
+By the end of day one, her coin total had considerably improved.
+
+Currency Available: 38 Platinum Coins, 43 Gold coins, 22 Silver Coins, 10 Bronze Coins
+
+And by day two, it had grown even bigger..
+
+Currency Available: 69 Platinum Coins, 87 Gold coins, 1 Silver Coins, 77 Bronze Coins
+
+And by day three, the last day, the perfect amount she'd amassed was enough to put a smile on any mmorpg player's face.
+
+Currency Available: 99 Platinum Coins, 99 Gold coins, 99 Silver Coins, 99 Bronze Coins
+
+Anytime she tried to pick up a coin, the game rejected it, kicking it out of her inventory. After a long long grind (not that Celica wasn't used to grinds like these) she'd maxed out her currency.
+
+Her hands moved, opening up a menu which she hadn't looked at in a while.
+
+***
+
+[Earthonia’s Second Main Quest: Kill 50 Trolls]
+
+Completion: 50 / 50
+
+Time Remaining: 0 days, 6 hours, 22 minutes, 12 seconds
+
+***
+
+As she looked at the main quest, she chuckled slightly. It felt like she'd killed those 50 trolls several weeks ago, not a few days ago.
+
+Looks like I have barely enough time for a nice nap. She moved towards Marshia relatively quickly, but definitely not energetically. She was already ready to clock out.
+
+Once she'd arrived back home, she sent Talia a message. It had become somewhat of a custom for them to all meetup before the floor was over, but Celica couldn't make it this time. She needed some sleep before Slimonius woke her up like an alarm clock.
+
+After seeing the message went through, Celica knocked out, her rhythmic snoring echoing around the room.
+
+BOOM!
+
+Celica felt like she'd be struck by thunder as she was jolted awake. She looked around slowly, but everything seemed pixelated, like she was still dreaming. After a long while, it all came into focus.
+
+Around her, a scattered assortment of players arrived. Some had been mid-meal, bread loaves and mugs of ale still in hand. Some (like Celica) had been asleep in inns, waking abruptly to disorientation and panic. Others had been duelling monsters, only to appear abruptly in the centre of Marshia.
+
+Celica scratched her head in annoyance. It didn't feel nice to be one of the player's woken up. For what it was worth, though, she was happy she at least managed to get a solid six hours of sleep in.
+
+From the ground rose a familiar semi-transparent figure, its jelly-like body glittering. Its tentacles flopped around, dripping with slime that sloshed wherever it met Marshia's cold floor. A mechanical, yet slimy, voice boomed.
+
+"Congratulations! Everyone who is here now has completed the main quest!" Slimonius said pompously. "Unfortunately, not everyone is here." The slime king paused, and then a devilish smirk covered his face.
+
+— "What does he mean?"
+
+— "Hm? Don't look at me."
+
+— "Is it bug where some players weren't summoned?"
+
+A cacophony of discussions rang out after Slimonius spoke, all similarly confused.
+
+"I assure you, this game has no bugs." Slimonius said as a matter of factly.
+
+Celica, who was half-listening, almost choked on air. Now she was really awake. She was tempted to do her vectoring glitch in front of him, but ultimately decided not to.
+
+"59 players in area eleven, your area, have failed to complete the Second Main Quest. So, they have been permanently deleted."
+
+— "Deleted?"
+
+— "59 people...?"
+
+"Indeed, even though a player from your area defeated the Cyclops in record time, 59 players still failed to complete the main quest in time. Their names have been listed..."
+
+In front of Celica, a list of several real names came up. Suddenly, everything felt a lot more real. Before this point, no one from their area had died. But now...
+
+— "No way, I knew that guy!"
+
+— "Why... why did they have to die...?
+
+— "So many people..."
+
+"Why?" Slimonius repeated, as if he'd heard the most ridiculous question ever. "Because they weren't good enough. Obviously."

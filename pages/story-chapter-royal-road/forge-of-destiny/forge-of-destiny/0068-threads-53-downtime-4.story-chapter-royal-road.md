@@ -1,0 +1,101 @@
+---
+id: aa652b2d-f618-5fec-958e-db75d5c04095
+page-type-slug: story-chapter-royal-road
+title: "Threads 53-Downtime 4"
+slug: 0068-threads-53-downtime-4
+partOf: forge-of-destiny
+position: 68
+ownLength: 1444
+unit: words
+publishedAt: 2021-02-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/636047/threads-53-downtime-4"
+royalRoadId: "636047"
+---
+
+“Xiao Fen? Is that you up there?” a wary voice called out from the woods. “I don’t really have the hang of this art yet…”
+
+“Your senses do not fool you, Liu Xin,” Xiao Fen said stiffly.
+
+The boy that stepped out of the woods was an average looking sort. He wore the Sect’s silver robes, which had been made or modified into a talisman. He had short black hair tied into a topknot and a somewhat handsome face, but he was rather skinny and gangly in build. His grey eyes widened when they landed on Ling Qi, and he hastily bowed. “Oh, uh, that’s what that was,” he muttered to himself. “That is, my apologies for interrupting, Senior Sister.”
+
+“It’s no trouble,” Ling Qi said in amusement, running an assessing eye over him. Fire and earth were his choice of elements from the look of it. Early second realm too, so he was talented, but not too talented or at least not too lucky.
+
+“Why are you here, Liu Xin?” Xiao Fen asked.
+
+“Ah, I just figured you shouldn’t walk back alone,” Liu Xin replied, his eyes darting from Ling Qi to Xiao Fen’s irate expression. “Lu’s guys are out in force.” Xiao Fen’s eyebrow twitched.
+
+“How dutiful of you, Junior Brother,” Ling Qi said with an ill-concealed grin. “Xiao Fen has spoken of how dutiful you are.”
+
+The younger girl shot her a look that could have melted steel, if her cultivation were higher. “Your concern is appreciated,” she said. “But you have only risked yourself pointlessly.”
+
+“I’d have gotten away if it came down to it. I’d rather be around to watch your back.” He glanced at Ling Qi in worry. “You... tend to start fights when you come back from these.”
+
+Ling Qi’s eyes twinkled with amusement. “It never hurts to have another set of eyes open,” she said with faux wisdom. “Why don’t we all walk together a ways then?”
+
+Xiao Fen briefly looked as if she bitten into something sour. “Very well, Senior Sister.”
+
+Ling Qi did not waste time as they began to return to the Sect. “So, Xiao Fen is a little reticent when it comes to talking about you, Liu Xin. You came to the Sect on a military scholarship?”
+
+The young man inched away from her inspection. “Yes. I was probably going to enlist anyway.”
+
+“Why is that?” Ling Qi asked. In Tonghou, few people wanted to join the army, even with its benefits, because the death rates for new recruits were so high.
+
+“Dad disowned me a year before the Ministry guys came,” he answered. “Seemed like the best deal.”
+
+His response gave her some pause. Although she was sure that she could pressure him into answering, she did not want to intrude that far into his private affairs. She glanced at Xiao Fen, who seemed unsurprised by this, and shrugged. “That’s fair,” she said. “You are from the capital, right? What is it like living there? I have not had the chance to visit yet.”
+
+“Well, I’m from the root districts. So I’ve never seen the upper or even middle city up close,” he said. “It’s… peaceful, I guess. Normal. Or at least I thought it was.” The last was muttered under his breath, too low for a normal person to hear. Xiao Fen gave the sky a long-suffering look.
+
+Ling Qi hummed thoughtfully. “I admit, I have only met Her Grace once, but it left an impression. What’s it like living under her?”
+
+<Smooth,> Sixiang said drolly as Liu Xin shot her an alarmed look and glanced to Xiao Fen.
+
+“Miss Ling is a direct subordinate of Cai Renxiang, Duchess Cai’s heir,” the Bai handmaiden said. “She is merely being blunt. Just answer honestly. Lying will only make you look foolish.”
+
+Ling Qi looked at Xiao Fen, who looked back blankly. On Xio Fen’s other side, Liu Xin still looked uncomfortable. “It’s good, I think, as good as it can be.”
+
+Ling Qi considered his answer and his body language. Strangely, he seemed less afraid than conflicted. “I’m glad, but you didn’t precisely answer my question.”
+
+He shrugged. “It’s not like the bottom gets much interaction with the top, but I can’t complain. Without the kitchens and the dorms she had set up, I’d probably have had a worse time in the last year. I thought that kind of thing was just normal, but, uh, no one else seems to think so.”
+
+“It is rather strange,” Xiao Fen sniffed. “But I am sure the Duchess has some plan aside from coddling mortals.”
+
+Ling Qi frowned. Kitchens? Dorms? What was he even talking about? What would the Duchess have to do with such things? “What are you speaking of, Junior Brother? Some kind of work project?”
+
+It wasn’t that unusual to round up young men for construction projects and pay them in food and lodging. It never really happened in Tonghou, but she had studied enough civics to pick up on that much.
+
+“No, I mean places you can go to get a bowl of rice gruel and cot for the night to keep you out of trouble,” Liu Xin replied. “She had them built a while back, or so I understand.”
+
+For free? Ling Qi almost blurted out, but that was obvious from context. “Why the hesitation then? That sounds very good indeed.” Especially since it wasn’t like they had to interact with the Duchess herself.
+
+“Just lasting impressions, I guess,” Liu Xin replied, “My dad and granddad didn’t like her much. Grandad was a high official before the Duchess purged the ministries. They didn’t like the taxes much either.”
+
+“I believe I recall some of my seniors discussing that matter. A very impressive show of control,” Bai Xiao Fen said, nodding her head. “Removing the previous duke’s influence in its entirety.”
+
+“I dunno about the political stuff, but I know when gramps would get in his cups, he’d talk about the day she showed up at the Lower City’s Ministry of Commerce,” Liu Xin said. “The Regional Minister had his skin boiled right off, and his skull ended up displayed over the gates. Bunch of others went the same way. Gramps just got ejected though.”
+
+Ling Qi was silent as they walked along under the boughs. The Duchess had actually appeared to a bunch of mortals? Recalling the pressure she had felt in the Duchess’ presence, how had any mortals withstood that? Maybe Liu Xin’s grandfather had mistook some kind of telepresence or projection technique. “Why was your grandfather treated more lightly?”
+
+“He was just a cheat. He always complained that no one would hire him as a clerk since it was announced that he’d had his civil service exam scores falsified.” Liu Xin smiled bitterly down at the ground. “Guess that’s why dad was stuck making shoes. They were both always pissy about that.”
+
+Xiao Fen’s scoff broke the silence that followed. “Your lot has been improved by being cut from such worthless fools.”
+
+“Maybe,” Liu Xin laughed. “My old man was a real piece of work.”
+
+“I’m guessing it wasn’t just one ministry though.”
+
+“Oh yeah. According to the old folks, things got real crazy. Guards and guard captains were executed, and whole ministries gutted. The army even came through and stomped a whole lot of smugglers and gangs and businesses to bits,” Liu Xin said, seeming to grow more comfortable. “Real crazy, like I said. Turned the rootways upside down.”
+
+“Things must have gotten bloody after that.” Ling Qi grimaced. “How did anyone keep order with the government destroyed like that? It’d take decades to replace everyone, wouldn’t it?”
+
+“The Duchess,” Liu Xin said, as if that explained everything. “And even the complainers say that things calmed down quickly with her intervention.”
+
+Maybe it did. She had seen a glimpse of that power, and she had seen what Cai Renxiang could do with mundane administrative tasks. If Cai Shenhua decided that she was going to administer an entire city herself, Ling Qi suspected that she could do so just fine.
+
+“Bizarre.” Xiao Fen shook her head. “Xiangmen is a city of over a million souls. Such a task must have taken the Duchess’ near full attention for the better part of a decade. Ten years of a peak cultivator’s time spent on mere administration.”
+
+“I am certain the Duchess had good reasons,” Ling Qi replied.
+
+“Oh, I am certain. The Hui must have truly made a mess of things,” Xiao Fen said.
+
+Ling Qi hummed to herself. Her questions had ruined the mood for teasing. She would just have to make it up at their next session.

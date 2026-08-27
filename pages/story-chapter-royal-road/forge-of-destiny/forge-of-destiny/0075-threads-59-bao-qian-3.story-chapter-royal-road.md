@@ -1,0 +1,133 @@
+---
+id: a07d26db-15e5-50f6-ac9f-5757b54d4303
+page-type-slug: story-chapter-royal-road
+title: "Threads 59-Bao Qian 3"
+slug: 0075-threads-59-bao-qian-3
+partOf: forge-of-destiny
+position: 75
+ownLength: 2088
+unit: words
+publishedAt: 2021-03-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/643716/threads-59-bao-qian-3"
+royalRoadId: "643716"
+---
+
+“So, with the correct arts and knowledge, metals and minerals can be induced to grow, restoring themselves in a time useful to humans,” Bao Qian explained.
+
+They had been traveling for some time and at last, polite small talk had turned into something a little more interesting, that is, a discussion of why they were out here and what Bao Qian was doing.
+
+“Secret family arts, I assume,” Ling Qi pointed out shrewdly.
+
+“Of course,” Bao Qian chuckled. “We are not the only ones in the Empire with such arts, but there are not many. The methods do have their downsides. One must accept a sharp reduction in immediate productivity to use the Bao methods, and many prefer to go without and simply create new sites when old ones run dry. There are always more lands to exploit after all, or so the logic goes.”
+
+“That was the reasoning behind the Hui settlement programs, if I recall,” Li Suyin said from atop her sedan.
+
+“Right you are, Miss Li. For all that the maps have said that the borders have been the same since the usurpation, the reality is that the south was nigh unsettled. Of course, the Hui were just using it as a distraction to get their vassals out of court, so things were… not very well organized.”
+
+“It was a chaotic and lawless period,” Du Feng put forward cautiously. “But many made their fortunes during that era. Many towns and cities were settled in those days.”
+
+“And many more fell, even before Ogodei smashed things, and much of the later trouble arose from it,” Bao Qian said with a shrug. “A stable and well organized investment is superior to territorial knife fighting.”
+
+“I would have thought you were more the type for risky ventures,” Ling Qi said innocently.
+
+“There is a difference between personal risk and that sort of thing,” Bao Qian clarified. “It is admirable to have the right instinct for risk.”
+
+“I suppose so,” Ling Qi allowed.
+
+“Sis is weird about when she’ll do risky things,” Hanyi commented idly. Ling Qi shot her a look, and Hanyi stuck out her tongue.
+
+“Ling Qi rarely overestimates herself,” Li Suyin put in, giving her a tentative smile.
+
+Ling Qi was not so sure of that, but she was hardly going to say so. It only took one misstep for things to go awfully. She had been lucky the consequences had been so light so far.
+
+<You took your lumps, but you won’t mess up like that in the material world. But not the time to get lost in your thoughts though,> Sixiang whispered.
+
+“I have been very fortunate,” Ling Qi said aloud, politely dismissing Li Suyin’s praise. “Still, I would be interested to hear more about why you regard your time in the south as a stable investment.”
+
+“Duchess Cai is a very thorough woman. Some might say implacable even,” Bao Qian elaborated, stroking his chin. “In recent decades, investment in the south of the province has only grown. New villages are seeing construction quite regularly, and if I can establish myself well, it should not be hard to make my fortune on prospecting contracts amidst the foothills of the Wall.”
+
+“I had thought the Bao did not have much interest in expansion,” Ling Qi commented.
+
+“Filling in what you already own is hardly expansion,” he shot back. “We merely think it foolish to grab at more when what we already have is so sparsely used.”
+
+“A fair assessment, Sir Bao. Some of our peers are a bit too bloodthirsty, I think,” Du Feng agreed.
+
+“It is more a matter of glory than blood,” Li Suyin said quietly, the talons of her glove clicking against the arm of her charm.
+
+Ling Qi thought Li Suyin had the right of it. While she was hardly a master of imperial politics, even she could see that martial achievements seemed more valued than any others.
+
+“Well, duh. Killing enemies is way cooler than digging up rocks or building stuff,” Hanyi said imperiously. “People don’t write songs about that kind of thing.”
+
+“You should visit our clan hall then, young spirit,” Bao Qian said with a touch of amusement, “and listen to a rendition of the ballad our esteemed founder composed to court the Lady of Subterranean Wonders.”
+
+“Hanyi should just try to get into less trouble, instead of picking fights,” Gui said.
+
+“I think both pieces of advice might be useful,” Ling Qi said dryly. “That aside, I was more curious about your intentions toward my little brother, Bao Qian.”
+
+“What phrasing,” he chuckled. “I would think it obvious. The xuan wu of the Savage Seas are the source of the vast wealth that allows the Xuan to function as a province despite their meagre lands. The legendary xuan wu are said to emanate vitality such that the seas teem with fish, and the mere silt churned by their feet can make even the poorest soil flourish.”
+
+Ling Qi was aware of those stories - she had studied xuan wu - but she was looking for a more concrete answer. “My Zhengui is not the normal sort of xuan wu though,” she pointed out, patting his shell. “You wouldn’t catch him trying to go for a swim any time soon.”
+
+<Maybe if Lady Cui asked,> she caught the whisper of Zhen’s thoughts and restrained the urge to laugh. Poor Zhen.
+
+“That hardly dampens my enthusiasm. It merely means that you have a wholly unique source of resources.” Bao Qian paused, holding up a hand to forestall her response. “I do not mean any offense in that. Just as you might charge a great deal to perform your songs at a noble gala, so, too, could your Zhengui charge a high price merely to stomp about a barony or viscounty’s fields in the fallow season or simply sell the ash he leaves behind in his wake.”
+
+She took his point well enough, and she did not allow herself to be offended this time. “And you wish to get a cut of that potential wealth.”
+
+“I do,” he agreed. “Though I like to think that my services as a salesman equal the value of my requested share.”
+
+Ling Qi hummed to herself. Li Suyin and Du Feng had withdrawn from the conversation for the moment, letting the two of them speak, but there was another person who should be involved here. “Zhengui, what do you think?”
+
+“Gui would be happy to help Big Sister,” the tortoise below her chirped, though his size made it more of a rumble.
+
+Zhen was more reserved, his tongue flicking through the air. “I, Zhen, do not like making Big Sister rely on others to care for him. If I can earn my own keep, I would do so.”
+
+“A dutiful fellow indeed,” Bao Qian chuckled. “It seems you have raised him well.”
+
+“I would not claim too much credit,” Ling Qi said distractedly, even as she communicated with Zhengui on a deeper level. She did not often think about their connection these days as Zhengui was grown enough that it felt uncomfortable to intrude on his mental privacy too much, but he was eager about the idea. He wanted to help her, wanted to contribute and not drag her down. Her little brother’s pride, embodied by Zhen, was a much more fragile thing than it seemed. Absently, she reached up to rest a hand on his warm scales.
+
+“I will speak about this with the Sect and study their observations,” Ling Qi finally replied. She would get the Sect’s reports on the effects and potential value before making any negotiations, but she would probably go forward with a deal at some point. She did have to think of her future beyond the Sect.
+
+“I will await your decision eagerly,” Bao Qian replied, offering a half bow from his seat.
+
+<What is your impression of him, Sixiang?> Ling Qi asked as she watched Bao Qian pivot easily into a conversation with Li Suyin and Du Feng regarding their projects. It was difficult to dislike him, but for just that reason, she found herself unable to dismiss a faint feeling of distrust and suspicion. It had ever been her experience that those who seemed the most trustworthy were often the least. On the other hand, had Cai Renxiang not proven that wrong at least in one case?
+
+<He’s too far above me to read with total certainty,> Sixiang admitted. <He’s ambitious, and I don’t think he’s putting on a mask. He really is a cheerful, gregarious type. I think he’s unsure how to handle you though. You can see it here and there, little pauses for thought. He’s trying not to scare you off, and it’s throwing him off his game. Thinks you’re a bit like an easily startled colt.>
+
+Ling Qi didn’t care much for that description, but she knew Sixiang had felt her desire for sincerity and frankness. <And the rest?>
+
+<I don’t really get all of your human money nonsense,> Sixiang huffed. <But I’m not really seeing any downsides to carting off the Little Big Guy’s poop if it gets you more rocks and drugs. Consider it a test case since there’s nothin’ to lose for you or your bro.>
+
+Ling Qi’s eyebrow twitched violently, but she put on a smile when Li Suyin shot her a concerned look. <Did you have to put it like that?> she thought irritably.
+
+<Absolutely,> Sixiang replied smugly. <Now relax already. You’re winding yourself up again.>
+
+She was, Ling Qi realized. It seemed that she still needed more practice when it came to this kind of thing, especially when there was no need to be. With Li Suyin and her spirits here, she was surrounded by friends and allies. She needed to act like it.
+
+The rest of the trip out passed without incident. Their little caravan represented enough concentrated strength that no beasts or spirits pestered them, and the conversation was pleasant enough. Li Suyin and Du Feng were both prone to rambling about their work with only a little prompting, filling silence that would otherwise be awkward. Between Du Feng’s talks of cloth and cuts and designs and the increasing gleam in Hanyi’s eye, she had a feeling there was going to be future trouble brewing. She had mostly avoided letting Hanyi and Xiulan interact for a reason, but a terrible seed had been planted anyway.
+
+At least if things went through with Zhengui, perhaps she could even afford indulging Hanyi’s desires.
+
+The site itself was hardly impressive. Indeed, if Bao Qian had not stopped them, she would have kept right on walking without even noticing it.
+
+“Is this really it?” Ling Qi asked, surveying the open, weed-filled field. She supposed the sparse trees scattered about were younger than most of the growth in this area.
+
+“If you look closely, you can still see the contours of the manor’s foundations,” Bao Qian replied. She followed the direction his hand was pointed in, and she did note a certain unnatural regularity in the stone.
+
+“What is the plan now that we are here then?” Du Feng asked, his floating carpet slowly sinking low enough that he could swing his legs off of it and stand.
+
+“We search out the quarry in question, and then let me get to business,” Bao Qian announced cheerfully. “Shouldn’t be more than a few hours work.”
+
+“Hmm, I will release some scouting constructs,” Li Suyin mused as her skeletal porters set down her chair.
+
+“And I can search from the air,” Ling Qi said. Her Curious Diviner’s Eye art would help, letting her expand and enhance her field of vision.
+
+“I will help with roots!” Gui announced, digging his tubby claws into the earth.
+
+“I’ll just ride with Big Sis and make sure she doesn’t get into trouble,” Hanyi said. Ling Qi knew she just wanted an airborne piggy back ride though.
+
+“... I suppose I shall handle refreshments then,” Du Feng said ruefully. “I hope everyone can be satisfied with mulberry tea.”
+
+“Splendid. Let us get on with it then,” Bao Qian chuckled. “I am sure that we will be done in no time.”
+
+As Ling Qi soared into the air with Hanyi perched on her shoulders, she couldn’t help but think that this wasn’t so bad. While she couldn’t say whether she really cared for Bao Qian or not yet, she was willing to get to know him. There was no hurry, at least in this matter, after all.

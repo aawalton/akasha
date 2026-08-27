@@ -1,0 +1,155 @@
+---
+id: 3f72d2d6-e59c-5107-b176-49c34439b900
+page-type-slug: story-chapter-royal-road
+title: "Threads 407-Courtesies 2"
+slug: 0451-threads-407-courtesies-2
+partOf: forge-of-destiny
+position: 451
+ownLength: 1834
+unit: words
+publishedAt: 2024-10-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1855446/threads-407-courtesies-2"
+royalRoadId: "1855446"
+---
+
+"Liming has been restless. It was quiescent during the summit, but as months have gone by, its temperament has only grown worse," Cai Renxiang said. "I suspect I will not be able to advance beyond the sixth stage of the green realm without finding a solution."
+
+The crimson and yellow fabric splayed across her chest, the beastly eyes of Liming, rippled visibly, silk straining.
+
+"I have the matter in hand," Cai Renxiang said sharply, meeting her concerned eyes. "This does remind me, though; your own gown should be repaired in two months' time."
+
+"I am glad for that," Ling Qi said slowly.
+
+She absolutely was. She was grateful to the tailors who had worked so hard to give her a mundane wardrobe, but she wanted her real dress back.
+
+However, her mind was not on that. Her friend was bound to her own dress in many painful ways. It was her guardian, but also, her jailor. Renxiang hated it. She hated that Liming could, at times, control her.
+
+At the same time, Ling Qi remembered the figure with glass eyes and Renxiang's face, its mouth stitched shut with adamantine thread. A part of her pitied that.
+
+"Renxiang, what do you intend?"
+
+"A meditation and struggle as the last. My resolve against Mother was enough last time, but…"
+
+Her friend was rarely so unsure.
+
+"You said before that you had reached some kind of accord?"
+
+"That is overstating the matter. I was able to…" Cai Renxiang paused, furrowing her brow. "... impress upon it my resolve to defy Mother, but not in the way it intended."
+
+"Her," Ling Qi corrected.
+
+Cai Renxiang frowned. Then she closed her eyes. "As you like."
+
+Ling Qi considered her liege, reaching out to pour a warm stream of tea into her own empty cup. "Do you want to reach an accord with Liming?"
+
+"I do not know that such a thing is even possible. Liming is a thing of hatred and spite, even if much of it is aimed toward my mother."
+
+Liming snarled. Ling Qi's eyes widened, and so did Renxiang's. Qi pulsed off the garment, cloth straining away from Cai Renxiang's body. The heiress' sword was in her hands in a flash of light, fingers gripping the wrapped hilt tightly. A pulse of metallic qi followed, and Liming went limp and silent.
+
+Ling Qi stared at the garment. It was the first time since she had awoken that she had not understood a communication. The hound spirit Qiu's barking had been legible to her. Even the infant chick in Xuan Shi's care had conveyed to her the basic concepts an infant could comprehend in her chirping.
+
+Yet Liming's snarl was nothing but a noise, a wall of wrath and hate to her senses no different than it had been before the development of her new domain ability.
+
+"I don't think she cared for that," Ling Qi said.
+
+"I suppose not," Cai Renxiang said curtly. "Ling Qi, I appreciate your intent."
+
+"But you would like me to stop pursuing this line of query? I will if you truly do want me to, but will you answer? Not over what is possible, but what you want."
+
+Cai Renxiang's fingers tapped along the hilt of her sword, and Ling Qi could understand Cifeng's thrumming purr in response.
+
+[Triumph][Conviction][Smugness][Order][Suppression]
+
+There was little thought in it. The weapon was not a complex minded spirit by her measure.
+
+"Contracts and accords are always desirable. To have rules defined, behaviors regulated… I would find this a comfort," Renxiang said after some time."But a contract may only exist between equal parties or in the presence of an overriding guarantor. Without such, they have no worth."
+
+Ling Qi understood that. It was the most basic legal theory. It was why vassals would approach their lieges to mediate deals. It was also why the Ministry of Law had been made, to allow for the empire to adjudicate disputes between their subjects with the weight of the throne behind a local judge.
+
+"And you are not equal."
+
+"We are not. Only Cifeng guards me against… her control, along with whatever behaviors Mother stitched into her at creation. Behaviors I have not been made fully aware of."
+
+The only obvious one was the reaction that Liming would have if Renxiang’s life was in imminent danger.
+
+"Doesn't Cifeng change that balance? If you have a tool which may…"
+
+"You recall our exit from that dream trap."
+
+Ling Qi paused. She did remember. There had been the memory of Cai Shenhua vanishing and then confronting Liming on their way out. At that time, the spirit had deliberately impaled herself on the representation of Cifeng there to get closer to Renxiang.
+
+"I see. However, I can guarantee that what Liming did was not painless to her. Why, then?"
+
+Could a spirit as wild and unfettered as Liming even prosecute a lengthy lie?
+
+"I do not know, and that is the trouble." Cai Renxiang breathed deeply. She did not release her grip on her sword, but gestured for Ling Qi to pour her a new cup. "But… considering the spirit of the question… I would."
+
+Ling Qi blinked, surprise flashing over her face. She had expected Cai Renxiang to deny it outright.
+
+"There is no changing the events of the past. Liming is something—someone—I have never been without. I despise losing control of myself; I despise uncertainty. However..."
+
+"I understand." Ling Qi looked at Liming. The outfit was simmering in silence, radiating resentment. "You do not actually know what it would be like to be without her, do you?"
+
+Renxiang set her tea cup down. She brushed her fingers over the white and gold fabric at her collar, and did not flinch as sullen embers of qi snapped like static under her fingers. "Correct. I have told you once of the childish fears which dog my mind. What exactly would disappear if I severed the surgical stitching which binds us?"
+
+Liming's snarl settled into a lower pitch. The eyes splayed across the fabric still glinted and sparked with contained hate.
+
+Who was the girl, and who was the construct? She wanted to say the answer was obvious, but when the workings of a white realm cultivator were in play, she could not confidently say such.
+
+"And you said you did not want to talk about this."
+
+Renxiang sighed. "There is value in airing my thoughts with one of the few who can be trusted."
+
+Ling Qi inclined her head, accepting the compliment for what it was.
+
+"I would,” Cai Renxiang repeated. “Were it possible. I would define our position, such that the bleeding could stop."
+
+"I think that is the correct impulse and one which a ruler should have. I will not pretend to know what is possible between you two. If Liming can be reasoned with…"
+
+She felt those eyes upon her, the pressure in the air, banked and weakened by the blade in Renxiang's left hand.
+
+"You have my aid, whenever or however you should want it."
+
+"I do not know that I will ever require it,” Cai Renxiang said frankly, “but as always, your loyalty and dedication leave me in good stead, Ling Qi. But truly, I would like to end this line of conversation."
+
+"Understood."
+
+***
+
+In the wake of that conversation she sat in companionable silence with her liege for some time, taking tea in turns until the pot was cool and empty.
+
+She heard feet walking on the floors, items in the kitchen clanging, and people’s voices rising and lowering. To Ling Qi, those sounds of life and activity were becoming something like her own heartbeat. For all that she would be glad to get out into the world, these past months had given her a sense .
+
+"You have a good household, Ling Qi."
+
+"It is a humble thing yet. But I would not trade them for any other."
+
+"It is not the most skilled,” Cai Renxiang assessed. “Their demeanors waver, and they second guess themselves. They are afraid of cultivators. All the same, I cannot say that your choice to allow your mother hiring latitude was wrong."
+
+"I'm glad to hear it, but I am sure people will be whispering about our low origins for generations."
+
+"Yes," Cai Renxiang agreed. "Will your mother be well in your absence?"
+
+"She has been before. I hope you aren't offended that you make her nervous."
+
+"No, that is reasonable. Hm, I suppose I understand better where our disagreement came from, that day in my sister's carriage."
+
+Ling Qi pursed her lips recalling their brief argument over the nature of family and corruption and Cai Renxiang’s decision that she could not be the sort of sister Ling Qi spoke of to Tienli.
+
+"You weren't entirely wrong. People will favor those closest to them over laws and systems, and that is fertile soil for further bending of duty's stricture. The second exception is always easier than the first," Ling Qi said.
+
+"And there is no solution to that which is not beyond consideration. The only method is rigorous examination and inspection of those systems by forces not easily subverted."
+
+"I will leave that to your expertise. When you have a proposal, you may point me to the ones you need to convince," Ling Qi said impishly before her smile faded. "But… your sister…"
+
+"What I said still remains true. I cannot protect her. I cannot be at Xiangmen for any meaningful lengths of time. That role…"
+
+"I won't gainsay you. You aren't wrong. All the same, we are cultivators. Given what we intend to accomplish, can you truly say you will not do something just because it is difficult?" Ling Qi took a deep breath in the silence that followed. "I respect your choice, so long as you are making it for reasons truer than that, my liege."
+
+"Well enough said," Renxiang murmured. "Then rather, it remains true in my eyes. I am not wrong, as you said. A ruler must not be stained by corruption. My duty is to calculate and plan and administer the province to maximize the benefits which it can give its people."
+
+"Then I will accept Lady Cai's reasoning, so long as she does so as well," Ling Qi said.
+
+Renxiang rarely sounded unsure. She didn’t here either. But neither did she speak with the utter surety with which she usually pronounced her goals. There was still something she was unsure of, a speck of dust in her vision. Ling Qi could feel it. Prodding so deeply into another cultivator’s Way was not lightly done, even between friends, but they could share the words which resonated with them, if they chose to.
+
+"Renxiang, I have found many concepts to meditate on these past months. I am certain you have, too. You know I disagree with some of your words,” Ling Qi began. “To understand one another better, as your friend and your retainer, I ask that you share your thoughts and let me share mine.”

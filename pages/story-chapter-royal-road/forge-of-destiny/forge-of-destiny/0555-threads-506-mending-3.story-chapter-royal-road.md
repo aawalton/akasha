@@ -1,0 +1,149 @@
+---
+id: 407c5b30-3a6a-5cd7-ba79-6558c9e28e51
+page-type-slug: story-chapter-royal-road
+title: "Threads 506-mending 3"
+slug: 0555-threads-506-mending-3
+partOf: forge-of-destiny
+position: 555
+ownLength: 2215
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3160706/threads-506-mending-3"
+royalRoadId: "3160706"
+---
+
+The tea house was almost comically quiet in comparison, but no less strange and dreamlike in form, with walls of many colored wood and a table which trotted up to them like a big friendly dog trailing a pack of skittering chair puppies. The pack followed after them as they looked for a place among the patrons to sit.
+
+The dream spirits here were more sedate, a mix of jittering insect people, half beasts, and ephemeral figures of light and shadow, all clustered around their tables. They filled the interior with the low murmur of conversation.
+
+Sixiang and Ling Qi took their seats around the settling table, and the remaining chairs rattled around, circling twice as if searching for other occupants before running off to join a fresh table pack. Ling Qi raised her hand as if to hail the host, and a tea set descended, arranging itself upon the tabletop.
+
+"Figures you'd imagine a place where you wouldn't need anyone to serve. That still makes you kinda uncomfortable, doesn't it?"
+
+"It still does," Ling Qi agreed. "I've made my peace with it."
+
+"Mm, that's something I still think you should poke. Subordinates and how you are with them is definitely going to be squishy with all that meditation on Choice and consent," Sixiang pointed out.
+
+Ling Qi grimaced as she poured Sixiang's tea and slid it across to them. "It will, but I think that is a conversation for later. Please interrupt me if it seems like I'm avoiding it, though."
+
+"Will do!" Sixiang chirped. "I'll stop distracting you. You got something on your mind?"
+
+Ling Qi sighed into her teacup, watching the ripples spread across the warm surface of the liquid. "That feels like part of the problem. With us, the concerns are always about me. Wasn’t wanting you to go out and find other things in the world to enjoy also just my selfish desire?"
+
+Sixiang contended, "Maybe a part of it, but I didn't have to do it if I didn't want to. I coulda said no and just moped around Shenglu or your mom's house or wherever. Would you have kicked me out?"
+
+"No," Ling Qi said. She sipped the rich and flavorful tea, sending her mind spinning back to the warm kitchen of the house in White Cloud Town where she had watched her mother form dough for her dumplings. "I do think you need to ask more of me, and I need to actually do them sometimes. I can't just dismiss requests like going out to do art with you as unimportant or frivolous."
+
+"I don't need you to change for me."
+
+"I need to not take you for granted, if I want to truly say you are my friend or anything else," Ling Qi said. "It's the same reason I think it is harder for me to see Xuan Shi as… well…"
+
+Sixiang rested his hand on his chin. "Huh. So that's Meng's real secret. He's not as passive. Of course, anyone like that would have spooked you straight to the heavens six months ago."
+
+Ling Qi winced. Sixiang wasn't wrong.
+
+"That's a fair point for me, though. Not like just going with the flow comes naturally to me," Sixiang said thoughtfully. "You're gonna let me arrange festival activities back at Shenglu. No, actually, you're gonna arrange them with me."
+
+"I will have to ask Renxiang," Ling Qi warned. "And just the activities?"
+
+"I'm not suited to figuring out schedules and stuff," Sixiang dismissed, “If you give me a rundown of whoever we're honoring, though, I can throw 'em a bash they'll like."
+
+"Some will be more staid than I think you'd like," Ling Qi said, thinking back on the list of official festival days from the empire-wide, down to the provincial, and then to the local that she was slowly compiling. She was beginning to see why the local priesthoods could be so touchy about the exact details of their rituals, as she came to understand the interconnected and often overlapping spirit courts in the region. That was probably what the Minister of Spiritual Affairs wanted to talk to her about.
+
+"I can definitely think of some that you would be suited for, and others where it can be made suited," Ling Qi continued.
+
+Sixiang laughed. "Not gonna turn myself into a pastel tyrant on ya, Qi. If we're planning an event, that's all I want. You don't gotta say yes to everything I say."
+
+"Just reversing the roles wouldn't really be any better." Ling Qi sighed, draining the rest of her cup. The warm feeling was welcome. "We just need to find the right boundaries."
+
+"That’s part of the reason why you don't see me in that way, isn't it? We're too close. I don't really get all the differences between kinds of love, but just feeling it out, I guess I'm more like a sibling to you."
+
+It was the first time the relationship between them had been directly addressed, but it was clear Sixiang could see beneath her words clearly enough.
+
+She had expected upset, sadness, maybe anger. Wasn't that how rejection was meant to go? It was why one had to be so careful with opening that path in the first place. And Sixiang did seem sad, but she thought there was more confusion than anything else there.
+
+"I don't know if there's a good word for it," Ling Qi said. "You are more than my friend. We spent so much time entwined too closely for that. I've let you share in my private thoughts, and see out of my eyes, and so much else, but to me, romantic love is different than that."
+
+Sixiang slid his hand across the table and squeezed her hand. "Yeah, I am getting that. I wonder… No, I can tell that we both have different ideas of what it even is. It's a lot more—I dunno the right word—exclusive to you. Whereas for me, it just seemed like the natural next step to what we were already doing before." He brushed his thumb over the back of her hand. "The more I think of this, yeah, I don't know if I want to apply the word romance to it. I love you, Qi, but I feel like that word itself is getting in the way of us being happy with each other."
+
+Ling Qi gave a small nod. She probably wasn't entirely  “fixed,” was she? Well, that was the wrong way to look at it. She had overcome much fear, but in the end, the way she saw the world probably hadn't changed.
+
+"Yeah, I don't think overcoming a trauma fixes ya," Sixiang drawled, “especially when you have no idea what being fixed even is.”
+
+It was being normal, wasn't it? She wanted to be normal about love and physicality. Then again, what was normal?
+
+"This is all messy, and I hate it," Ling Qi said dully. "Cultivation and tribulations are supposed to give clarity."
+
+"Give it a realm or two," Sixiang said wanly. His heart was clearly not in the chuckle.
+
+Her own answering laugh trailed off, too. If there was one insight she had learned under the flames of a sovereign, it was that there was no lack of clarity once one had become their Law.
+
+"Pour out another one, will ya? I could use another cup. Gotta say you picked a good blend.”
+
+"I might not be as precise about my preferences as Renxiang, but she has given me a taste for good tea." Ling Qi moved to refill both of their cups. "I do love you too, Sixiang, if not in the exact way you had hoped," Ling Qi added as she set the pot back down.
+
+"Yeah, I get that. Honestly, I don't know exactly what I feel right now." Sixiang traced a finger around the rim of his cup. "It's making me wonder about how well what I feel fits into the human frame or how much I even understand it. Muses aren't meant to last."
+
+That did leave Ling Qi shifting uncomfortably. "Maybe Xin could find you someone to talk to. I don't know what being a muse is like, but surely, you're not the only dream muse who has ever decided to stay."
+
+"Or I could just ask Grandmother, when we go to Fantasia. Gramps is still probably sore about our trick. If we show up all wobbly and indecisive still, he might actually blow a meridian," Sixiang joked, but Ling Qi felt a small, cold knot of dread at the thought. She didn’t plan to delve deep or enter the Dreaming Court proper on her next adventure with Bao Qian, but great spirits could do as they will.
+
+"We both know how luck tends to work around you," Sixiang said, amused. "I don't doubt a conversation's gonna happen, but it'll probably be after you're done with Bao boy."
+
+Ling Qi sighed. It wasn't as if she doubted that herself.
+
+"But! We've been sitting down long enough." Sixiang set their empty teacup back down and clapped. "Let's get to those games, yeah?"
+
+Ling Qi drained her own, letting her eyes drift shut as she savored the warmth of home and family. She took Sixiang's hand and rose from the table, leaving it to trot away to a new customer along with their chairs.
+
+"Are you sure, given what we just talked about?"
+
+"Am I sure I want to hang out and play festival games after all the dreary junk and separation?" Sixiang asked, amused. "What a silly question, ya dork."
+
+"It's not silly," Ling Qi defended, rolling her eyes. "Thank you, Sixiang. I'm glad we can still walk together."
+
+"Pfft. Just because I accepted I got some nightmare in me doesn't mean I'm any less me," Sixiang laughed, leading her outside the door. "We know where we want to go, and that's enough."
+
+Ling Qi let the roar of the crowds wash over her as they stepped outside, the bright bang of a firework going off somewhere, and the strains of music and the tramping of feet a discordant but welcome melody. "It is. Let's enjoy the festival, Sixiang."
+
+***
+
+"Come on! I bet I can do it if we just try one more time!" Sixiang complained, glaring at the game stand where colored rings jittered across the floor and crawled back up to the counter. The bottles set out for them to be tossed over rattled with muffled laughter.
+
+The mothlike muse behind the counter smirked, leaning on the counter. "Yah! You got it, cuz. Just one more toss. You almost had it that time!"
+
+The rings rattled, spreading themselves across the counter enticingly.
+
+"You know I could see them contracting mid-throw, right?" Ling Qi asked the game keeper.
+
+"You know I could hear you trying to sweet talk my rings, right, beanpole?" the game keeper replied, amused. "And I could see you fiddling with the wind before that."
+
+"Like you weren't moving the platform the bottles were on," Sixiang grumped.
+
+"Right! That's the game, ya idjits. Now, if you want the next round, that'll be a memory of a breeze at sunset or two of your red human rocks. Step up or step out!" The muse spread their upper set of hands while the lower gestured to the line of festival goers behind them.
+
+Sixiang shot her a pleading look, but Ling Qi turned up her nose. Honestly, those little rings, not staying bought. They were worse than a Tonghou official! "Let's play a different game, Sixiang."
+
+"Fiiine. Cmon, I see a game table over yonder!"
+
+He tugged at her hand, and she followed after. "Festival games sure are cutthroat, hm?"
+
+"That's what you get when you're born of the dreams of a big city," Sixiang informed her cheerfully. "So, games?"
+
+"I've seen paiju and mahjong played, but I don't really know the rules. Paiju is the simpler one, right?" Ling Qi wondered. There was no point in gambling games for someone like her on the street, not when she'd just have been robbed by her opponent if she did win.
+
+Sixiang clicked his tongue. "You can see it that way. It does look like that's what they're playing over here. It's definitely more of a street game. I'll show you the ropes."
+
+"Sure," Ling Qi said. "Assuming I don't get banned from the table.
+
+"Pfft, come on. You heard my cuz back there. Cultivators cheating is part of the game," Sixiang dismissed. "Sure you want to stay out though, when you got that big meeting in the morning?"
+
+Ling Qi blew out a breath, as they passed under the gate that led to the park where the game tables had been set out. "I'm well prepared. Fretting over it more won't improve that."
+
+"Yeah?" Sixiang asked encouragingly.
+
+"The Minister of Spiritual Affairs likely wants to establish where I stand on methodology, and maybe chide me for disrupting others. I can handle that. The ith… That’s a trickier question, but I have some ideas."
+
+"You'll knock it out, no problem, and I'll help ya," Sixiang promised as they reached the tables. "Now, paiju plays like this…"
+
+Ling Qi listened to Sixiang's instructions intently. If she was going to learn a game, she would learn it well.

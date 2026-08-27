@@ -1,0 +1,149 @@
+---
+id: 69750435-c14b-515c-b50a-c98c8bcbdfc5
+page-type-slug: story-chapter-royal-road
+title: "Threads 374-Finishing 2"
+slug: 0414-threads-374-finishing-2
+partOf: forge-of-destiny
+position: 414
+ownLength: 2489
+unit: words
+publishedAt: 2024-04-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1581214/threads-374-finishing-2"
+royalRoadId: "1581214"
+---
+
+The meeting hall had a different tenor today. For one, the general was absent, although Xia Lin was still here.
+
+The White Sky's side was living up to its name because there was a truly staggering amount of white among the heads gathered at their side of the table. The faces were heavily lined and suspicious, and they gathered in small cliques bearing different symbols and attire, some wearing furs and headdresses of bone and horn, and others clutching staves of twisted frozen wood or fingering charms made of feather and bone.
+
+The imperial side was more colorful, but no less different than usual. A lot of priests in their colorful robes and headdresses were in attendance. She heard the jangle of ringed staffs and the rustle of paper talismans as they squinted just as suspiciously back at their counterparts across the table.
+
+She met the eyes of Emissary Inzha, who was here in place of her husband today, standing out among the snow-capped crowd by her tall headwear. The other woman gave her a commiserating smile. Ling Qi returned it, dipping her head. They were in for a difficult time, but could it really be as bad as having the general breathing down her neck last week?
+
+She pursed her lips as she looked on at the jumble of conflicting imagery that was all of these wants and drives and desires.
+
+… There were different kinds of challenges.
+
+Ling Qi’s mistake had been to look at each individual interest here as separate and disconnected. If she focused her eyes a little differently, squinted and tilted her head, there was a picture to be seen. Because if she had learned one thing over the course of these negotiations, it was that wants and desires and actions were not isolated. Every word she had spoken and every choice she had made had rippled out to affect others.
+
+What the nobles of the Emerald Seas wanted did not arise completely from present, momentary advantage. That was a part, but a long, long history of disunity, internal chaos, and being preyed upon in their separated weakness informed what they saw as gain. To the Emerald Seas, the building advantage they had over the people of the clouds since Ogodei's fall and Cai Shenhua's rise was the end of a long winter. The march of soldiers and priests and settlers were the ides of spring, the waters released to flood, uncaring of the destruction of those downstream.
+
+She didn't have the full picture of the White Sky. Their image was jumbled to her. If anything, she had her suspicions that their factions were just as deeply divided as any two provinces of the Celestial Empire. From what she had learned from Grydja in that liminal adventure with Xuan Shi, she did not think there was a central authority. It would be as if instead of an emperor, there was only a council of dukes and kings like the old Weilu before the founding era. In their own way though, they were proud and confident. With the revelation of the Sky Palace and its nature, they had lost some of their reticence. The White Sky saw themselves ascendant as well.
+
+It would be so, so easy for both sides’ pride to come to a clash. For the want of nations to become war.
+
+The cloud tribes were suffering from it. Whatever the reasons were, the untouchable cloud tribes who had acted with impunity in the southern hills and forests had seen their fortune reverse. The people of the cloud had been in a slow decline since the Xi. Some had gone east and had become of the bogs and badlands. Some had gone west, surviving the harrowing passage to become princes of hill and mountain, a few among a thousand in the mysterious land the White Sky called Khusan.
+
+And many who were left now looked south. Others looked under the earth, and those that remained gathered for war. One nation's spring was another's winter.
+
+Ling Qi laid a hand on Hanyi's shoulder when the low rumble of speech around the table faded as Jaromila and Cai Renxiang rose, standing across from each other.
+
+Cai Renxiang began. "We have come far. We have established the foundation for law between us."
+
+"We have come together and determined without swords where the borders of our realms will lie," Jaromila responded.
+
+"Now, we must address less material matters, matters of spirit and ritual."
+
+"Matters of knowledge and artisanship."
+
+Ling Qi was pleased with the effect of the intertwining speech and glad that she had helped the two arrange it.
+
+"Thus, we will begin our discussion here at the embassy itself," Cai Renxiang continued.
+
+"The spirits of the place are unsettled. With our achievements last week, it is far less now, but  the spirits of this place will remain in confusion until we align our practices here.”
+
+Now, Ling Qi rose from her seat to speak. "We must now decide how to proceed with doing so. I ask that the experts in the affairs of the gods, small and large, share their wisdom here, and do so with respect to their counterparts."
+
+There was a murmuring among the gathered priests. When one finally stood to speak, it was an elderly imperial man in dark green robes, leaning heavily on his ring-headed staff. His silver hair was woven through with a circlet of gold, molded into the shape of woven wheat stalks and heads. "This is a wild land. Its spirits do not know us. They are confused, frightened, and angry. The many disparate pieces of casual ritual trouble them. Only where construction has been laid down are they quelled."
+
+"Slain and broken, more like," one of the White Sky priests, an old man himself with skin like dried tree bark and only a few wispy strands clinging to his bald head, spoke. He wore a half mask of leaves and woven branches. "It is not always the wrong way to carve the world in our shape. This is the way of living things, to adapt our environment as we adapt to it, but there is no need to dance around the subject."
+
+"Harmony is not the absence of violence, but rather, a sustainable state between all factors," the imperial priest agreed. "This is why we cannot simply both perform our rituals. As the embassy is far closer to the lands which we have claimed, it is only sensible for our rituals to have primacy."
+
+"Unacceptable!" A woman with dark geometric lines painted on her wrinkled face rose to her feet as well. "How can this be a place of neutrality if your gods are supreme?"
+
+"Ritual division then, marking the boundary between us to tell all of the spirits here where one begins and one ends."
+
+"There will be spiritual pollution along such a border."
+
+"And what of shrines? In the hall itself, that is. It holds for now, but…"
+
+Ling Qi listened as discussion opened in earnest, priests from both sides debating on the topic of boundaries and rituals. Eventually, one voice spoke over the others, carrying the weight of qi.
+
+"There will be no foreign shrines nor gods in imperial spaces," Cao Chun stated. "Although it will be difficult, the answer is simple. There is a border here as anywhere else. Let each side see to its own matters, and assign some exorcists to deal with any pollution where rituals clash."
+
+"That is impossible for this meeting hall at least," Inzha pointed out. “It is already a place of both peoples, rough as it might be."
+
+Cao Chun grimaced. "So there may be some allowance for this place in particular. There is no need to overcomplicate the solution."
+
+Luo Jie shook his head. "I must disagree, honorable inspector. At least those devoted to spirits of roads and wilds must speak. If we are the base for resting soldiers, then the gods of hearthfires and guestrights must be attended. Avoidance here will only bring harm."
+
+"I agree with the venerable Voice of Hounds," Dzintara spoke up from among the murmuring priests. "Trading ease in the present for future troubles is unwise. Let those who speak for the Crowfather, the Wastewalker, and the smaller gods of journeys, hearths, and boundaries gather with their imperial counterparts and determine the way forward."
+
+Ling Qi raised an eyebrow at the title, but Luo Jie showed no offense.
+
+She glanced at Inzha as the other emissary rose, putting forth her own view.
+
+"If we are to gather a council of priests to match our council of lawmakers, why be so limited? Let each side gather the small voices of gods and spirits they deem relevant to the mountains and this place and places like it. Let them convene here under the aegis of safety we have established. For this new place and new agreement, let a full suite of new rituals and correct methods of propiation be designed and new cults be established, if necessary. When setting foundations, one must be thorough."
+
+"That is entirely unnecessary," Cao Chun grumbled.
+
+"Too much, too fast," Luo Jie agreed. "There is no need for such disruptions."
+
+"I don't see the need to go beyond the connections at the roads and the hearths and the meeting places," Wang Lian followed up. "We'll just have priests getting underfoot this way."
+
+"Are your geomancers not a form of priest?" Jaromila asked.
+
+Wang Lian looked baffled. "No."
+
+"Do they not commune with the land to determine…?"
+
+Ling Qi glanced at Cai Renxiang and Gan Guangli. They needed to bring this debate to a close.
+
+She met Cai Renxiang's eyes. They had agreed to support some syncretism. It was simply a practical necessity that spiritual infrastructure for paths, gates, and boundaries exist for the day-to-day running of the embassy and for the existence of a proper foreign quarter.
+
+While the inspector was not incorrect that the small amounts of spiritual pollution and chaos produced by the current setup could be policed by a few dedicated exorcists, that would not, and could not, scale up. Here, the Ministry of Integrity couldn't get its way. At the same time, going for full integration and an all inclusive spiritual council would raise too many hackles and present too many difficulties. It was better to set a foundation and expand later.
+
+"I believe we must create a shared travel infrastructure, at the very least," Ling Qi interrupted. "If this arrangement is to last in the long term, then we cannot always be dealing with spiritual corruption and confusion at the borders or have soldiers, messengers, and any other travelers dogged by misfortunes and curses."
+
+"Imperial methods do not need to be adapted here,” Cao Chun objected. “Instead, these mountains should be tamed and the roads made safe through proper pacification. It is true that there will be some minor troubles where safe separation from foreign elements is impossible."
+
+"And when points of contact grow, so will the problem. Inspector, I cannot countenance a complete refusal to prepare for future growth."
+
+"I agree that we should not step too quickly, but truly, laying foundations for travel rituals seems to me to be an absolute necessity," Dzintara said. "Obviously, these methods will only be used here in the borderlands. No one's rites in their core will be infringed upon."
+
+"Deviation,” Cao Chun said, “has its way of spreading. I cannot stop you, baroness and  worthies of the Emerald Seas, whose lack of objection I note. However, understand that the throne will be watching. Imperial decrees on orthodox processes will not be crossed with these new methods."
+
+Wang Lian snorted. "I don't intend to see anyone carving open mortals for reagents and offerings on the borders of our lands."
+
+"You know very well that demonic methods are not always so blatant." Cao Chun’s expression was severe.
+
+"What do you accuse us of?" Inzha asked, beating Dzintara to it by the way the other woman snapped her mouth shut. There was grumbling welling up among the White Sky priests as well.
+
+Ling Qi held back a grimace.
+
+"We have observed studies and reports of your cultivation methods. They are suspect, particularly those sacrifices to your crone spirit," Cao Chun said. "Or do you deny that one of the benefits offered to your vassal tribes was freedom from her hunger?"
+
+Ilsur chuckled darkly. "Oh, now, the lowlanders care for the lives of cloud children!"
+
+"Yes, this old man must have forgotten the mercy of the clouds for the young when they come to take!" Luo Jie shot back.
+
+Cao Chun gave a short sharp nod to Luo Jie. "Regardless, cultivation practice and ritual is different from the collateral of war."
+
+"Do not,” Ilsur snarled, “pretend that your own spirits do not inflict death when they are displeased or not sacrificed to, imperial."
+
+"The cold of Crone Winter will harm any who are not under her protection. She is a cruel god of a cruel domain," Jaromila said coldly. "We do not serve our people well by refusing to acknowledge cruel things, which I am sure you are familiar with. However, our rites do not demand the giving of human lives, if that is what you are implying."
+
+This debate was swiftly going in a dangerous direction.
+
+"Of course,” Ling Qi said, “we are loyal subjects and will not defy any imperial decrees. However, there is a great deal of latitude for local ritual in imperial law. If the throne wishes to observe, I am certain Her Grace will accommodate."
+
+There was some rumbling from the imperial priests at that. While the overall Ministry of Spiritual Affairs had the final word on orthodoxy of spiritual rites, that right had not been exercised very often in the provinces. But there was no way to not step into the minefield of the empire's own internal conflicts between imperial and provincial power.
+
+"As you say. I cannot stop you, only advise you of the throne’s thoughts," Cao Chun repeated. "You are aware of them, and you persist here. I will say no more on the matter."
+
+It was clear that unlike in past instances of disagreement, Cao Chun's disapproval was not reduced at all. Given his history, it made sense. If there was any place where his zeal for imperial orthodoxy was at its strongest, it was here in the matter of rites, rituals, and cultivation.
+
+Ling Qi lowered her head in acknowledgement of his words and then raised it again. She had known it would not be possible to avoid conflict with Cao Chun and the ministry forever. She did wish that he had not created such a sour atmosphere on the White Sky.
+
+"Let us agree to the proposal to create travelers rites, gate rites and study wildland rites then," Jaromila said after a moment. "The next topic, I believe, can be the matter of the observatory you have built here."

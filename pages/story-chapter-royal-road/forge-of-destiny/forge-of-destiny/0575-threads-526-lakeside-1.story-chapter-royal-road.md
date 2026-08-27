@@ -1,0 +1,129 @@
+---
+id: 75446892-9e2a-56da-bb5c-9043edcf245f
+page-type-slug: story-chapter-royal-road
+title: "Threads 526-Lakeside 1"
+slug: 0575-threads-526-lakeside-1
+partOf: forge-of-destiny
+position: 575
+ownLength: 2169
+unit: words
+publishedAt: 2026-06-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3545841/threads-526-lakeside-1"
+royalRoadId: "3545841"
+---
+
+"I welcome Sir Meng. It is an honor to host a gentleman of such an esteemed family in our humble home," Ling Qingge greeted.
+
+There was a formula to this type of social interaction. It hardly mattered that Meng Dan had been in and out of the public section of the manor for a month. She would probably go through similar words with Xuan Shi, now that the suit had been formalized, regardless of their past interactions.
+
+"Please seat yourself, Sir Meng."
+
+"My thanks, Madam Ling. Your hospitality is most welcome so far from home." Meng Dan's smile, or at least this variation on it, told her he was having fun with the protocol given the little mismatches with the situation.
+
+He raised his head and took the offered seat, accepting the tea served to him by their staff.
+
+"For a man who wishes to make this his future household, these small courtesies are nothing," Ling Qingge finished. "It pains me that we have not been able to speak before this on your wishes."
+
+Ling Qi kept a straight face. That was definitely within the parameters for this meet and greet, but she acknowledged the words for the rebuke they were.
+
+"It is to my shame. Despite the necessity, the duties required of us both have left little time for me to present myself to Madam Ling's household. The turmoil of the Meng required my attention, but I could not and would not abdicate any suit by delaying the offer any further. Not when Lady Ling has other suitors as well," Meng Dan replied firmly. "So, I can only offer apologies, not regrets."
+
+"Apologies I shall have to echo, when my own turn for such a meeting comes," Ling Qi spoke up for the first time.
+
+Her mother pursed her lips and nodded in acknowledgement. "It is irregular, but these are irregular times. Sir Meng, I would ask, why do you seek my daughter's hand, even in this situation? It is no dishonor, but all the same, there are those who will whisper about such an arrangement."
+
+Meng Dan nodded politely. "The Meng clan owes Lady Ling a debt, and my elders believe she and her Ling clan will be a force to watch in the future. The Meng cannot afford closed doors at this time. In addition to that, Shenglu provides the opportunity for us to remain involved in southern affairs and to keep the Ways of Tsu blooming, rather than stagnant."
+
+It was a businesslike reason proffered. A year ago, it would have bothered Ling Qi. She would have felt used. In a way, that might still be true, but she also understood better that listing out benefits did not make them the actual reason.
+
+"These are my family's reasons. As to my own, a few tarnishing whispers are nothing to me. Your daughter is simply worth it."
+
+Ling Qi huffed out a sigh because he could go and say something like that with complete sincerity.
+
+Mother, it seemed, did not find him as charming. Or rather, she probably did, and that was the problem. The two of them had not discussed her paternity much, but the impression Ling Qi had gotten was that he had been a very charming man as well.
+
+"I am glad to understand the Meng family's intentions, and I have no doubts of their ability to provide many benefits to the Ling clan." This was as close to discussing any material contract benefits as they would come in a moment like this. "However, I am afraid I must ask Sir Meng to elaborate on his own reasons."
+
+Meng Dan acknowledged her mother’s words. "I understand your reticence, Madam Ling. Many men speak pretty words."
+
+"Yet, you speak them anyway, although I am sure my daughter has given you some words of advice."
+
+Ling Qi casually glanced away from her mother’s pointed look.
+
+“Ling Qi may have spoken of her mother once or twice," Meng Dan allowed smoothly. "If I may be honest, I speak this way, even knowing your reticence, for one main reason."
+
+"And that is?"
+
+"If you will excuse my words, your daughter does not value herself, for herself, nearly enough. My words are my small effort to correct that. Sometimes, I lay it on too much in pursuit of that goal."
+
+Ling Qi glowered at him. It was sweet, yes, but really, she was going to be fine. It was just a single blast, and it was going to save them all so much trouble.
+
+"Those words themselves are fine ones, calculated to agree with my own temper at the moment," Mother said shrewdly. "I do not have to be of greater cultivation to see this."
+
+"Calculated words remain true, but if you would like an answer that is more off the cuff, Madam Ling, I just enjoy seeing her reactions when I compliment her as well. It's fun."
+
+"Meng Dan," Ling Qi groaned. He knew as well as her what was appropriate in this situation, and they had already deviated a little outside the lines.
+
+"You see?" Meng Dan asked rhetorically.
+
+Mother gave her a long look, and Ling Qi straightened her expression and her posture, regaining the dignity that she could from her outburst.
+
+"She does seem less reserved when she speaks of you, and reacts to you," Mother acknowledged. Ling Qi did not allow herself to react again and give him the satisfaction. "You are not wrong, Sir Meng."
+
+Base treachery.
+
+"I would know why you believe the Ling clan is where you would like to make your future," Mother continued. "I hear the feelings you show, and it pleases me that my daughter might have one to remind her to think of herself on occasion, but I need an answer to this question."
+
+Mother was a more practical woman than Ling Qi. Cai Renxiang had called her a romantic before, and she supposed that was true. She could acknowledge the material benefits and the political alliance this Meng suit represented, but it wasn't the main point for her.
+
+Meng Dan steepled his fingers. "Leaving aside the interest of my clan? I do not have the temperament or desire to climb the ranks in our internal affairs. My interests are academic. Ling Qi, even beyond her virtues, seems to have a talent for uncovering interesting information about the past. My clan will not leave me unsupported either. I may conduct research and correspond with colleagues at Blue Mountain Sect more effectively here, with less restriction, than in a more distant county or the capital, where I would likely be married as well. The south is where history is happening, and so, it is where I wish to be. I believe the Ling clan will be at the center of its developments, one way or the other."
+
+That at least, seemed to satisfy Mother a little. She was more comfortable knowing and hearing clearly what else would tie him here beyond mere romantic feeling. She couldn't help but feel a pang of sadness for her mother, but with her mother’s experiences, she doubted it could be any other way.
+
+"Yes. I can see that the peace of a smaller clan might benefit a scholarly man," Ling Qingge said. "Though I cannot speak of your ambitions, I understand the desire to have a peaceful home."
+
+"I am glad, Madam Ling. Despite my japes, I am serious more often than not," Meng Dan said.
+
+"We shall see," Ling Qingge replied. "Now, I would raise another important matter. What are your expectations in regard to children?"
+
+Ling Qi almost spit out her tea.
+
+"Mmm. We are both in the midst of career and cultivation, so I imagine a first child would be some decade or two away, and maybe even more if turmoil persists. After that point? Neither of our Ways would seem troublesome to creating children. I am inclined to a small number, but I would understand if the Ling clan wishes to expand."
+
+He didn't even miss a beat!
+
+Mother had a strange expression as well, albeit for different reasons. Mother was probably unused to the idea that a few decades was a small span of time.
+
+It was a long meeting.
+
+***​
+
+Time passed, as it always did, in fits and starts. The days were filled with correspondence and administrative work. Applications for approvals of ceremonies and preparations for the larger one she had arranged to deal with the fire spirit crossed her desk, and she went out on the temple boat to fulfill her obligation to commune with Snowblossom.
+
+The lake was satisfied so far. She found the presence of the fishers and their offerings pleasant. The most difficult part of their communications was getting the lake to understand what was and wasn't appropriate in the bulk of eels spawned from her waters. The fishers did not have the cultivation to deal with fish that could coil around and drag down an entire boat.
+
+She'd not had eel before, though. She might have to see what the kitchens did with it.
+
+Despite her days being full with the work of seeing to Shenglu, Cai Renxiang drilled them relentlessly. In every pairing possible, she worked with her companions among Renxiang's retainers against the others, the heiress herself or both.
+
+Her liege was a juggernaut in a fight, and ten times as bad when she allowed one or more of them as an ally. She was firmly in the sixth stage of the third realm now, which Ling Qi herself was on the verge of. In what moments of pure cultivation she found, she could feel herself pressed right to the limits of the fifth stage. One last push was all she needed to make that transition herself.
+
+It felt as if she had spent forever just getting this far. She could feel the edges in her spirit still not quite fitting together, but beginning to form the cradle which would hold the Name she had been cultivating.
+
+She returned from her thoughts as she entered the workers’ district, the sound of shouting, hammering, and the dragging of heavy objects ringing in her ears. Calling it a district was an exaggeration; it was a street block near the northeastern side of the city center where raw materials were delivered and many of the crafters had set up temporary workshops.
+
+It was also where her on-site crafter hires had gravitated to. She had left them with their stipends, with only a few instructions at first, to see how they would manage themselves and the early projects. They and their workshops had both ended up in this district, even though they had rooms in the manor.
+
+Today, she was here to see the potter Lai Wan, whose services she had acquired back at the capital. With regular collection of the ice-aspected clay found along the lakeshore underway, she was curious what the woman made of it, seeing as they had not yet worked out how to let mortal potters work the material without protective equipment that made fine clay forming impossible.
+
+She knew better than most how awful frostbite could be, and how quickly it could set in on the fingers.
+
+Lai Wan had set herself up in the corner of the district furthest from the walls, not quite at its edge but not far from it either. Like most, her roof was a tarp of heavy canvas stretched across easy-to-move supports, pounded into the hard-packed dirt where foundations and streets had yet to be laid.
+
+It was a sparse setup, to Ling Qi's eye. A few thin screens of bamboo and oiled paper had been set up to block out one corner where some shelving and a sturdy potter's wheel were placed. On the more open side, a kiln had been set up. It was taken from Xiangmen, probably a gift from her master, if Ling Qi judged the quality correctly. The chimney at the top sent a lazy streamer of smoke up through a hole cut in the canvas roof, and the smoke sparkled with water qi of some kind.
+
+Lai Wan stood over a table at the center of the workshop, her shoulders hunched as she examined several small storage pots. They were unglazed and undecorated with wide bodies and slender necks, clearly meant to be sealed for long-term storage in a cellar rather than any decorative use. They each radiated icy qi to different intensities and degrees.
+
+"Miss Lai," Ling Qi greeted politely as she approached the perimeter of the pavilion. She wasn't hiding her presence or restraining her qi especially hard, but like many crafters, the potter seemed to be pretty engrossed in her work. To her credit, Lai Wan didn't jump; her shoulders just tensed a little as she quickly turned and clasped clay-stained hands, bowing so low that the spectacles she had on looked like they might drop from her nose.
+
+"Lady Ling! Welcome to my humble workplace. I apologize for the disorder."

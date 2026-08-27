@@ -1,0 +1,119 @@
+---
+id: 570f60b5-f3a1-5b98-ad0c-f0d583081c49
+page-type-slug: story-chapter-royal-road
+title: "130. Homeward Bound"
+slug: 0130-130-homeward-bound
+partOf: god-of-trash
+position: 130
+ownLength: 2982
+unit: words
+publishedAt: 2025-07-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2435319/130-homeward-bound"
+royalRoadId: "2435319"
+---
+
+Once more, Rhys mounted his skeleton warrior. The skeleton was a little larger now, and faster, what with the extra bone he could use to make a more complete projection. Sable perched on its shoulder, while he lounged in its arms. It was just too comfortable down there. Plus, it was his skeleton! Of course he got the best seat. It’d be crazy to hand it over to a random person.
+
+Internally, Rhys considered ways to make his travel even more comfortable. He could string a hammock between its arms, but that might sway too much. Maybe if he had it carry a throne? That would look cool as hell, but the ride might be a bit too bumpy. Hmm. He wanted maximum comfort, not maximum aesthetic. Now that he’d discovered what it was to travel in comfort, he couldn’t go back. He needed something soft, something that would absorb the blows of the road. A big soft cushion, or maybe a big fat beanbag chair?
+
+A memory floated to the top of his mind. Once, he’d gone over to a friend’s house as a child and discovered that they slept on, not an ordinary bed, but a bed-sized beanbag chair. He’d sunk into the beany depths, hugged by the form-fitting softness of the beanbag bed, and almost passed out right there, it was so soft and comfortable. That was what he needed: a beanbag bed chair! He could see it right now, the absolute dominance of rolling up on his enemies, being carried by a skeleton in a big fat beanbag chair, while he lounged, casually crunching on some chips and sipping some soda… which was something he had to get a move on.
+
+Soda ruled the world in his original world. Human beings would do anything to suck on some interesting sugar water. Soda, too, might actually be an easier sell to mages, who were not used to eating, but were used to drinking potions. Rhys pinched his chin, moving on to his next great idea. Yes, that would be it: soda. Soda was the next junk food on his agenda. Potato chips he could probably sell to the youth, trick them into poisoning themselves, but adults would be more wary. Sugared potions, aka sodas, would be the way to get adult mages.
+
+He did have a large quantity of sugar back at the hideout, and thanks to Lira, a basically endless quantity of pure water. What he needed was some method of carbonation. Bubbles were essential to the soda experience; otherwise, it was just brown fruit juice. As for what to put in it, he could start simple, by making it a delicious health potion, then expand to mana potions and other potions. He didn’t want to overuse his enlightenment imbuement techniques, since the mages would get wise to them eventually if he hammered them out there, but surely there was something else he could put in the potions to lure them to keep drinking. After all, there was a certain cola brand that had started from a flavored cocaine drink, and potions were meant to enhance the body in some way or another; he could slip addictive enhancers in there without anyone questioning him too deeply. Sugar was itself addictive, too, so it didn’t hurt to put maximum sugar into the potions, too.
+
+He would have to investigate the Empire’s drug laws, assuming there were such things, though he suspected the answer was no, and that it was just that addictive potions were considered low-quality and not worth consuming. He twisted his lips. That was the other thing; mages were used to drinking potions, yes, but they also had high standards. If his drinks were outright addictive, using known addictive substances, then they’d get rejected by the mages. No, I think the better play is to make good potions, then load them up with sugar. Rather than having to seek out addictive substances, his supply chain would be simpler, and the simple addiction loop of sugar would be way easier to trap people in than a more obvious addiction loop. How many people in his world would say they weren’t addicted to sugar, after all, but refuse to drink anything but sodas? Caffeine was also an option, he supposed, but compared to magical herbs, it wouldn’t have as positive or strong an effect. Magical herbs that were non-addictive but served as stimulants, that was the sweet spot. They wouldn’t get auto-rejected by the snobbish mages for being ‘low quality’ addictive potions, but nonetheless, they would have the same addiction loops as any stimulant did, whether the substance itself was addictive or not.
+
+He nodded. Yes, that was the angle. Not going so far that only degenerates would reach for the filth, but nailing that everyday garbage that everyone could appreciate, degenerate or not. True degenerate trash was fun, and sometimes he’d go there, but when he was trying to sell a product to the mass market, he had to restrain himself and keep things reasonable, with just enough garbage that it would slip past the average person’s filter without feeling scammy. After all, although he appreciated true degenerate filth, only degenerates would reach for it, which made it less trash than the truest form of trash: the overly processed mass market garbage that was palatable to everyone yet insidiously dangerous, that would shorten one’s lifespan in a gentle, delicious way, to the extent that the drinkers would make excuses to keep drinking, but not get pressured by their peers to stop.
+
+He also wanted to try his hand at alcohol, but soda was more prolific. Truthfully, he knew that tea and coffee outpaced soda back on his home world, and even fruit juice outpaced soda, but given that fruit juice, tea, and coffee were one, not trash, and two, required good ingredients to actually taste good, he’d rather stick with soda. Plus, he was pretty sure fruit juice ranked higher than soda because of health initiatives and incentives, plus crazy health-conscious parents feeding their delicate, precious children who couldn’t possibly eat anything unhealthy, except those chickie nuggies that were the only solid food they’d eat. If people were just allowed to drink whatever, who’d reach for an apple juice over a delicious soft drink?
+
+In any case, it was irrelevant; only soda qualified as junk food, and therefore trash. For all his pondering, though, he still didn’t have a source for carbon dioxide. Sodas were carbonated drinks, and that was an absolute requirement, as far as he was concerned. In his world, carbon dioxide would be gathered from somewhere, perhaps the fermentation of beer, or created via chemical processes, then injected into the soda, but carbon dioxide existed all around them right now. In fact, it could be considered a discarded product of the body’s oxygenation processes—that is, trash. He pinched his chin. Was it possible to use Trash Manipulation to gather expelled carbon dioxide, then inject it into water as if it was from a pressurized container, therefore carbonating the water? It sounded possible, and he’d used Trash Manipulation on smoke before, but using it to separate a gas from the natural composition of air sounded far more difficult than that. Still, it sounded like a path ahead, and something to try once he got home.
+
+“You’ve been quiet,” Sable commented.
+
+“I was thinking about things,” Rhys said. He stretched and slightly adjusted his position for optimal lounging, tilting his head back to look at her. “Why? There something you want to talk about?”
+
+“No, just… Last time we met, we were enemies. Now you’re inviting me back to your hideout with no reservations. It’s a little crazy to me.”
+
+“Is it? We weren’t deadly enemies or anything, we just fought in a tournament.”
+
+“I was Ernesto’s champion. Your school was at stake,” she pointed out.
+
+Rhys shrugged. “I guess. I had a lot of tricks up my sleeve, so I was pretty confident I wasn’t going to lose. Even if I did lose, it’s not like I’d give up. I’d keep fighting back against Ernesto until he gave up and moved on.”
+
+He’d held back against her, honestly. Not because he was a better fighter or anything like that, but because it was so utterly devastating to release the full power of his impurities against anyone he didn’t mean to kill. Even if he could absorb them afterward, there was still lingering damage like acid and burning that remained behind. The fact that Sable had forced him to use any impurities at all spoke to how difficult the battle had been. Still, he recognized that impurities were something of a cheat skill, not truly indicative of his battle prowess. If he hadn’t had them, fighting Sable, who effectively had six blades attached to her back and almost a dozen more strapped to her hands and feet before they even started talking about weapons… he was definitely the one at a disadvantage.
+
+She hummed neutrally. “What happened between you and Ernesto? I never got the full story.”
+
+“No?”
+
+“He told me to fight you. That was enough.”
+
+Rhys raised his brows. A little too obedient for his blood, but then, wasn’t her father a construct, a weapon the Demon King had built? Why give a weapon too much free will? Straw had… well, he definitely had free will, but there was always an odd sensation to him, as if he wasn’t quite human… duh, Rhys thought. Still, there was something to that. As if Straw hadn’t had too much of his own will, even if he made plenty of his own choices. He couldn’t really put his finger on it, or put it to words, but nonetheless, he felt as though he understood why she’d show such obedience; Straw had seemed as if he were willing to give someone that obedience, if only he found the right person to be obedient to.
+
+He waved his hand. “It’s a long story. He wanted my school’s Impure Well, I got there first, he wasn’t happy about that, and so on.”
+
+“So you have a history of absorbing Impure Wells, then.”
+
+“I intend to keep doing it, too, so watch out,” Rhys joked. He looked at Sable. “Surely you weren’t planning to keep hiding in wells?”
+
+“It’s a last-ditch thing, but it is oddly comforting. You know, one theory is that Impure Wells were created by the Demon King, as hiding places for his soldiers and ways to intimidate and oppress the people around them; he could always threaten to burst the well and flood the community with impurities, injuring mages irrecoverably and cutting off any mortals’ chances of magehood… or so the story goes.”
+
+Rhys looked at her. “You doubt that?”
+
+She gestured at herself. “I can hide, but I still get impurities. I don’t know father, but aside from you, I don’t think anyone can step into an Impure Well with impunity. If you ask me, I think the Demon King used the Impure Wells because they’re convenient, but I don’t think he created them.”
+
+He tilted his head. It was an interesting thought. If they were the Demon King’s, then they were only as old as the Demon King, and a problem that vanished with him, leaving a mess for Rhys to clean up, but that was all. If they weren’t created by the Demon King, then some other process Rhys didn’t know about or understand was creating them, and he’d have to absorb them all, then comprehend and overcome whatever that process was. If he was really brought here to clean up the world’s trash, and therefore the Impure Wells, would absolutexistance summon someone from another reality just to clean up a static set of entities that were no longer being created, and not only that, but limited to the regions where the Demon King had ruled? He doubted it. Then again, it could be that there were more types of trash than just Impure Wells, so maybe they were the Demon King’s creation.
+
+He shrugged. It was something to keep in mind, but he had no way to confirm or deny anything. He simply had to keep going, keep learning and discovering more information, until he could figure out how everything worked out.
+
+He nodded at Sable. “The Empress seems pretty bad, but I don’t know how bad the Demon King was. Was he worse than this?”
+
+She laughed. “You really aren’t much of a student, are you?”
+
+Rhys smiled, having the good graces to at least look a little embarrassed.
+
+“He was much more powerful than the Empress. The current Sword Saint can go toe-to-toe with the Empress in a solo battle with no-one interfering, and he wouldn’t stand a chance against the Demon King. He’d struggle to fight one of the Remnant Weapons, centuries after the Demon King’s defeat, let alone the Demon King himself.”
+
+Rhys snorted. “I saw that play out in real time, you don’t have to tell me.” The Sword Saint had teamed up with a number of other mages, including the rose-wielding Lady Illya, in order to take Straw down. He hadn’t seen the Sword Saint’s battle, and he presumed he took care of Straw quickly, since he arrived to take Bast away shortly after, but still; he’d needed assistance to take down Straw, rather than facing him himself. That said enough about the scale of the Demon Lord’s power, that he’d been able to not only dominate but create beings on the power level of Straw.
+
+Sable nodded. “Not much is known of his reign. What records were kept were heavily censored, and most of them were burned in the war to take him down. The previous Sword Saint is the one who actually took him down, and she died in the final battle, after the most powerful mages, martial artists, and adventurers fought their way into his castle and banded together to take down his armies. Due to the Demon King’s interference, she couldn’t pass on all her arts, or even the true form of them, to her young disciple, and she died in the final fight, meaning she had no chance to correct her teachings afterward. Some people call her ‘the last true Sword Saint,’ since the Sword Saint’s arts, passed down since the founding of our region, were lost with her death.”
+
+“And the rest of them?” Rhys asked, though he could already guess the answer.
+
+“The other mages, martials, and adventurers strong enough to hold their own with that ancient Sword Saint were likewise tainted, heavily injured, or killed in that battle. In one fell swoop, the region lost its most powerful echelons of power, but in return, we took down the Demon King.” She paused, giving him a sad grimace. “In truth, the Alliance is a desperate attempt to keep the region safe from the surrounding regions by a bunch of factions who would kill each other as soon as look at each other, were all things equal. The fact that our region, Orphela, is seen as destitute after the Demon King’s destruction is likely the only thing keeping invaders out… and even then, when a conqueror comes through, well…”
+
+“The inevitable happens,” Rhys finished for her. Many things made more sense now; why they Demon King was no longer, but they struggled to face the Emperess; why the Empress wasn’t seen as quite as terrible as the Demon King, while being unquestioningly a terrifying force of oppression. He took a deep breath, then smiled. “If the cream of the crop all got killed, then it’s left to us trash to scrabble our own freedom, huh?”
+
+“I suppose,” Sable said, giving him an odd look.
+
+“Then again, if the Alliance is so desperate for power, why not utilize the Remnant Weapons?” Rhys asked.
+
+She pursed her lips. “I know Straw is a friend to you, but… to most of the Alliance, he’s a monster, a horrifyingly corruptive influence that’s as likely to destroy this region as our neighbors. Imagine you have a tiger on a leash. Do you feel safe?”
+
+“No. That thing’s gonna whip around and eat my face—oh,” Rhys said, realizing her intention. He nodded. “I guess… I mean, I don’t agree with it, but I do understand their perspective better, now.”
+
+She shook her head. “I’m glad I was able to provide basic history to you.”
+
+“Hey. Don’t knock it. My librarian likes porno books and the orphanage gave me some political bullshit instead of learning. Basic history can be hard to come by,” Rhys countered.
+
+“What about your academy? Once you became a mage, that is.”
+
+Rhys laughed. “You’re kidding. I was the janitor, not a student. A standard curriculum? You can forget it.”
+
+He left out that he willfully ignored anything like a standard curriculum, having become beyond inured to standardized education in his first world.
+
+Sable blinked, looking at him in a new light. She tilted her head, and the fang drifted across her forehead. “Huh. We may be more alike than I thought.”
+
+I dunno about that, Rhys thought, but he kept that to himself, knowing she’d take it the wrong way. It sounded like he was saying ‘you and I aren’t alike at all!’ when what he meant was, ‘I’m a stubborn-ass gremlin from the underworld of the deep internet, there isn’t a scum like me in this whole world.’
+
+Instead, he turned to face forward. “We’re almost back. Try to look as un-threatening as you can.”
+
+Sable gestured at the bones protruding from her body.
+
+“I realize it’s a challenge, but…” Rhys said with a laugh. “Where’d that cloak of yours go?”
+
+“Corrupted by the well,” she said.
+
+Rhys paused, once more feeling a little embarrassed. After a second, he waved his hand. “I’ll make you a new one. Come on. Home’s just ahead.”

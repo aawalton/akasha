@@ -1,0 +1,131 @@
+---
+id: c9771109-fd5b-5959-afb7-e46d881275a8
+page-type-slug: story-chapter-royal-road
+title: "Threads 362-Maps 3"
+slug: 0402-threads-362-maps-3
+partOf: forge-of-destiny
+position: 402
+ownLength: 2563
+unit: words
+publishedAt: 2024-02-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1519814/threads-362-maps-3"
+royalRoadId: "1519814"
+---
+
+The atmosphere in the meeting hall was different today, and not just because the last of the windows had been properly fitted in during the day-long break between sessions. It was because of who was present.
+
+The general's armor gleamed even in the low indoor light, the segmented plate and faceless helm leaving not a single centimeter of skin uncovered. General Xia stood back from the table with her arms crossed behind her back, positioned such that she would loom over Cai Renxiang's end of the table.
+
+There had been some attempts to cajole the general to sit at the table, but it had not been successful.
+
+She was not the only new addition either. Behind Jaromila's seat was a tall, old woman with skin that was more gnarled bark than flesh. She reminded Ling Qi of Shu Yue in the way that her silhouette was subtly wrong for a human. Her arms were too long and bent oddly with too many joints, and her back was hunched and her shoulders twisted. Dry strands of gray hair fell long around her face and shoulders, tangled with a crown of jutting branches and twigs from which pale leaves sprouted. Her simple dress was roughspun and shapeless, draped over her twisted form carelessly like a cloak thrown over a tree branch. The bent woman's sunken eyes were dark and fixed on the general.
+
+By the spirits, neither of them were even bothering to pretend at normal human body language, remaining eerily still instead. Although it was difficult to judge with surety, Ling Qi estimated that the White Sky high realm was not a match for General Xia Ren. The vortex of howling polar wind and whispering branches scraping against the eaves around the White Sky woman was more akin to Cao Chun. Probably the equivalent of a fifth realm… But there was a tether in her soul, a direct line to the titanic tree that loomed over the White Sky's half of the valley.
+
+Not that they lacked presence. Ling Qi could feel their wills clashing in the air over the table, the whisper of steel and crackle of flames meeting the low keen of the nighttime wind and the crackle of shifting ice. Even with her new art, she wasn't willing to casually poke her nose into that.
+
+… She could, if need be, but the “conversation” had swiftly started to make her head pound, a point of painful heat growing in her eyes. She was not interested in bursting a blood vessel just to listen to the exact nature of the two’s contest of wills.
+
+There were other new faces too. Ling Qi spied Xia Lin and a few of her seniors in the White Plumes, Ilsur, taking a seat rather than standing by Jaromila, and a handful of others with the look of soldiers, mostly White Sky. Emissary Khadne had also returned, exchanged for Inzha and Rostam.
+
+Ling Qi bit back a sigh as she met Jaromila's eyes across the length of the table. The older woman's eyes flicked downward in commiseration. Nothing for it but to tie up their sleeves and begin.
+
+"Welcome, everyone, worthies of the Emerald Seas and the White Sky alike, as we resume our talks here in the second week of the summit." Cai Renxiang spoke crisply as she rose, and the low murmur of conversation lapsed. Even the tense cloud of communication going over their heads lessened as the general's faceless helm tilted toward her liege.
+
+"We have found success in the first week of talks. We have established that our laws can be reconciled by our experts and that fair judgements on disputes can be found without the need for drawn blades. All of these findings are an accomplishment that I desire for all present to keep in their minds as we move to this next stage: the establishment of claims and borders for our realms on the great belt of mountains that separates our polities. Agreement can be found here, and those we are negotiating with are all operating in good faith. What is agreed in this hall shall be respected."
+
+Jaromila rose from her own chair. "It is so. All of us are people who respect laws and oaths. Though there is much to negotiate here before promises and maps can be made, let the agreements made in this hall be binding. There shall be no re-litigation at blade point. Negotiate with this in your mind."
+
+It was optimistic maybe, but setting the tone was important. They were not simply buying time to move forces and push the point. It was impossible to eliminate that mindset entirely, but best it be shoved to the margins.
+
+"I do not doubt that my words will be disdained by you, people of the lowlands." Ilsur spoke without standing. "Most of you would slay me where I sit, if not for your oaths. Know this. I speak for my father, the great khan who commands the south, who has bound us to the White Sky over the Blue or the Stars. We are still men of the clouds, and we will remain men of the clouds, but we know that the old days are dead. We will change, if you will change, but we will not be destroyed."
+
+"Fine words, indeed. Many fine words have been spoken since the day the extended hand of Great Tsu was slapped down. Perhaps this time, they shall be more than empty wind," Luo Jie said. "We are the men of the plains and the hills, the wild valleys and warm rivers, and we have ever suffered under the raining arrows of the clouds. It is convenient that only now, as you are pushed back, do you bring words instead."
+
+It was said in a mild tone, but the old man's creaking voice had an edge of steel to it.
+
+"Words are well enough, backed as these are. If the clouds stay well away from our walls, then I care little for where and how they fly," Wang Lian said.
+
+"If your walls do not crawl down the slopes of every mountain like creeping vines, that may be possible," Ilsur retorted tersely. "We will see."
+
+"The people of the Emerald Seas will have the land and the resources they require for prosperity."
+
+The general's flat, emotionless voice cut through the air like a blade.
+
+"The White Sky will not abandon those sworn to it."
+
+The gnarled tree woman's voice whispered past like frost spreading on grass.
+
+She shared another look with Jaromila. This was going to have to be approached with care. She knew, too, that this was the place where their interests would inevitably clash, no matter the small friendship between them.
+
+To most of the imperial groupings, this negotiation was the most important phase. Favor bought here could be spent on the foreign quarter and other cultural integration projects.
+
+The most strident demands for expansion called for them to claim a full two-thirds of the mountains down to within a few hundred kilometers of the White Sky's northernmost existing outposts. That would leave absolutely nothing south of their borders unclaimed. It was extremely bold, even for an opening position, and raising the proposal would no doubt insult the White Sky significantly, burning a great deal of trust and good will. However, it would advance their own cause greatly, including Cai Renxiang's reputation within the Emerald Seas, if she could manage it.
+
+A more reasonable, if still ambitious, position was to claim up to just beyond the median point in the mountain range. This would leave room for a buffer zone between the two nations and some space for unaffiliated cloud tribes to be swayed to the White Sky. It would also be quite a coup for the Celestial Empire, and although it would drive down support among the White Sky during the summit, it was not nearly as much of an insult.
+
+Claiming only about a third of the mountains was much less ambitious. This would still satisfy the nobles’ ambitions for the moment, and no one would grumble about it too much, but she and Renxiang were also sure that such a position would be seen as unambitious. Moreover, the unclaimed land left between them would lead to future clashes.
+
+In the end, Cai Renxiang and them had decided beforehand that this was the point where it was most valuable to be seen as following imperial orthodoxy. Although they declined to adopt the maximalists’ position, being aggressive on claims of land would shore up their internal support greatly. And privately, they had thought that having a great swathe of empty land to settle and build in would prevent more militaristic voices from gaining strength once the current war with the Twelve Stars Confederation was over and the excuse of “no war on two fronts” fell away.
+
+Ling Qi was sorry that she would be making things more difficult for Jaromila though. She suspected the other woman expected it, just as Ling Qi suspected that Jaromlia would be pushing hard on the more cultural and informational aspects of the treaty.
+
+"We will not break the oaths of protection we have made, but there is still flexibility in this. The mountains you call the Wall are wide."
+
+Dzintara gestured to the maps that lay between them. The maps of the southern Emerald Sea and the Northern White Sky, and the mountains in between, most of which were sparsely detailed but at least had been matched to each other well.
+
+"A raider flies very far from his camp. Is this not their pride?" Luo Jie asked.
+
+"It is," Ilsur admittedly freely with a casual shrug.
+
+"We must then ask for a strong zone of claims in which we can operate,” Ling Qi said, stepping past Cai Renxiang right up the the edge of the table. She extended her hand toward the maps. "Down to here, with the peaks of the battlements, following the line of valleys and higher peaks in the center of the range."
+
+The mountains of the Wall were tremendously high, especially deeper in, rising far, far above the clouds, but the five peaks collectively called the “battlements” were peaks that towered over even their neighbors. The highest of them was comparable to Xiangmen's height. They were also more than halfway to the tundra on the other side, and they had only barely been surveyed by imperial scouts, such was the distance.
+
+There was a great deal of murmuring on the foreign side of the table.
+
+Jaromila looked back at her, expression hard. "You ask to go very deep. I have seen the maps of your settlements. Even the hardiest flier among my husband's tribe could not cross a fraction of this distance in a day and night."
+
+"And among what you call the battlements are peaks that are sacred to us," Ilsur protested. "That is too much."
+
+"When the sacred groves of the east, the Horned Lord’s footfalls, were flooded and brought down by mud and lightning, there was little care for that," Luo Jie said snippily.
+
+Ilsur scoffed. "When your old conquerors denied us the sacred Blue Mountain, when the Valley of the Earth Bones was defiled by your mines, there was little care for that."
+
+"What is more, the line is insecure. There, the peaks are closely packed. There are few valleys there, and the proper sites for defensive construction are occupied by mighty beasts and spirit lords," Khadne pointed out. "And there, too, is what was once the land occupied by the Sibiar, the people who sheltered your diviner."
+
+And her ancestors, as Ling Qi recalled. But this was fine. They had expected pushback. She would have been even more surprised if this line had been accepted.
+
+"We should not over-extend,” Wang Lian cautioned. “I have studied these maps closely to determine the best paths for roads, the chains of valleys and passes most suited, and the mountains most viable for tunneling." Rising herself, Wang Lian traced glowing lines across the painted surfaces of the map. "One lies here where we sit and runs down through Hu Lao Pass beyond. The other follows the headwaters of the river Jing in the east, though it will take much more engineering and appeasement. The river is proud and sacred."
+
+"The run of the Third Sky, too, here, in the center," Ilsur said gruffly, gesturing to the map himself. A patch in the northwest glowed dully.
+
+"I acknowledge the wisdom of the experts who know the land. If the battlements, your sacred peaks and ancestral lands, are too far, perhaps this series of valleys to the north is better?" Ling Qi proposed. "Lady Wang, would these points be better fortifications?"
+
+"More workable," the stout woman grunted.
+
+"This plan cuts off many routes of my people," Ilsur warned. "If you would starve us, then you cannot expect there to be lasting peace."
+
+"I do not expect that regardless," Cao Chun inserted.
+
+Jaromila raised her hand. "There is something to be said for acknowledging that your people and the cloud have different needs. With their flight, walls are meaningless. Could you not occupy the valleys here, here, and here while swearing off the high mountain slopes where their livestock graze?”
+
+"It would make our defenses as porous as the eastern sands," Luo Jie objected. "And we know that you do not speak for all the tribes of these lands in their scores and scores."
+
+"That is why it is impossible to make deals with the cloud,” one of the courtiers on their side grumbled. “Treat with one, and they circle off without a word, leaving the net to burn and pillage without regard."
+
+"We hold to our word. But a tribe cannot always control where it moves when a stronger tribe comes to take the graze or when the shamans' divinations command us to move. Nor will you tell me that you lowlanders have not broken treaties for all kinds of nonsensical excuses," Ilsur replied. "Regardless, in unifying, we may prevent this."
+
+"A poor guarantee," Xia Ren interrupted coldly.
+
+"But an attempt at one all the same," Ling Qi cut in, glancing at the general. "It is true that the high peaks are of minimal value to us, and our defenses must be three-dimensional regardless. So, perhaps some degree of passage could be negotiated at the trailing edge of our claims, assuming the White Sky is willing to swear off taking advantage of the matter."
+
+"An easy enough promise," Jaromila said. "However…"
+
+"It is buying trouble for ourselves. We cannot guarantee the behavior of unaligned tribes," Dzintara cut in.
+
+Wang Lian snorted. "I would lose respect for you people if you claimed you could. Pulling back from the central peaks is one thing, but turning our claims into a spider's web of the valleys and passes is too much. While the outer peaks have little value without cloud tribes to tend herds, the mining in many of these peaks is good. I understand you object to that, too."
+
+"Much less than our northern kin," Ilsur shot back. "Grub about the mountain roots if you like. Beyond the sacred peaks, the graze is our concern."
+
+There was some heat building in everyone's words. Tones were growing clipped, and responses were coming dangerously close to interrupting the person who spoke before them.

@@ -1,0 +1,133 @@
+---
+id: f7c4be54-57e6-5b65-ada2-df60da3f5299
+page-type-slug: story-chapter-royal-road
+title: "Threads 406-Courtesies 1"
+slug: 0450-threads-406-courtesies-1
+partOf: forge-of-destiny
+position: 450
+ownLength: 1998
+unit: words
+publishedAt: 2024-10-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1850822/threads-406-courtesies-1"
+royalRoadId: "1850822"
+---
+
+There was quite a bit of fanfare in White Cloud Town for Cai Renxiang’s visit, something that had happened regularly for the better part of the last two years. She knew that Cai Renxiang had been in and out more than once without a peep from the town’s government. The most reaction they had received had been when they had needed to use the governor's emergency transport formation to chase after some bandits.
+
+This time, however, the streets had been swept, the gates thrown wide, and the traffic cleared as Cai Renxiang arrived at the head of a small column of soldiers. The heiress managed to look fairly regal atop a white horse, bridle held loosely in one hand as she sternly recited the proper pleasantries to the town's arrayed officials.
+
+This was the difference between being a disciple, even one proclaimed as the tacit, default ducal heir, and being a power in her own right with her own deeds and base of power, however small.
+
+Ling Qi sighed and withdrew her sight back to her physical eyes, letting her awareness through the distant wisp shuffle into the back of her thoughts.
+
+"You have an hour. I would expect it to be very close to exactly that. Lady Cai is very punctual, and there is nothing the town’s officials are likely to do to delay that."
+
+"Yes, Lady Ling." The maid attending her bowed. "I will inform Madam Qingge at once."
+
+Ling Qi nodded, putting aside the last of the morning's paperwork as the girl hurried out.
+
+"Jeez. Why's it gotta be such a big deal? We talk to boss lady and visit her all the time," Hanyi complained.
+
+"Because Lady Cai is paying the Ling clan the respect of an official visit in recognition of my accomplishments. Think of it like one of your shows, but with more talking and bowing and serving of tea."
+
+"Oh, that makes sense. I guess," Hanyi said dubiously.
+
+Ling Qi smiled. "Don't worry, Junior Sister. All the parts are accounted for. You just have to stand behind me and look like a proper lady."
+
+"Easy. No one’s a more proper lady than me," Hanyi bragged. "Should I take you out to the main hall?"
+
+"Please," Ling Qi replied, leaning back in her chair. When her chair was turned and the chair's wheels began to carry her out of the office, she reflected that it almost felt normal now.
+
+She had to get permission to start doing walking exercises soon.
+
+***​
+
+The main hall of the manor in which the Ling clan resided, such as it was, had been prepared for Cai Renxiang’s visit. Its furnishings had been changed out and rearranged, such that the floor was clear, leading up to an elevated portion of the floor. A rich carpet had been rolled out, and the servants of the house kneeling in kowtow on either side. Ling Qi, her mother, and Hanyi were all up on the raised dais, arranged to receive their honored guest.
+
+Everything was arranged just so, from the draw of the shades allowing sunlight to spill in naturally, to the posture of each of the members of her household. Normally, a vassal would have soldiers as well to display martial readiness for their liege, but Ling Qi did not have those yet.
+
+It was all very ostentatious, but she was glad to give her people some practice in receiving important guests, though of course, besides her mother, she didn't think any of them really understood this visit in that way. She felt they were all performing admirably though.
+
+As she felt the light pulsing through the halls of her home, she directed her attention toward the door. Cai Renxiang's approach had the feel of gear-teeth turning, the regular click and grind of metal in smooth operation. The light her liege cast from around her head even now, preceded her in the dimmer hallway outside, washing out the shadows.
+
+Cai Renxiang arrived at the door of her hall flanked by a pair of her own courtiers, low cultivators Ling Qi vaguely recognized from her times at Snowblossom as administrator and assistant to her liege. With them were the two maids assigned to greet them at the gates, who were doing an excellent job of looking poised instead of scared stiff, as she could tell they were.
+
+"Lady Cai, your humble and oathsworn retainer welcomes you, and apologizes that she may not offer you the proper respects due to her condition." Ling Qi clasped her hands before her chest and lowering her head as much as she realistically could in her chair.
+
+Of course there were protocols for being injured too badly to stand, bow, or kowtow as normally required. Imperial etiquette books were very thorough.
+
+"For wounds taken in my service, there is no such offense," Cai Renxiang replied back. Gloved hands folded behind her back, she entered the hall at a steady pace, pausing only to raise her hand in official dismissal of her entourage. The door greeters murmured and bowed to them as well before leading them away to be received themselves. "I am pleased to see such a well ordered home."
+
+"My liege does me great honor with her compliment," Ling Qi said. Her head remained low. Beside her, Mother and Hanyi bowed at the waist as well. She and Renxiang had worked this out in letters. Allowing the members of her direct family to bow instead of kowtow was another sign of favor. "Please, Lady Cai, be welcome here with my Ling Clan, for as long as you should demand our hospitality."
+
+Cai Renxiang's heels clicked on the polished wooden floor of the raised hall as she mounted the three steps to stand across from Ling Qi. Her expression was neutral as she scanned her gaze over the room. "Raise your heads. I come not with demands and duties, but rewards for your deeds, Baroness Ling. For great services to your province, and to the House of Cai."
+
+"Deeds done in your name and out of my love for the Emerald Seas," Ling Qi said formally. "For this, loyal retainer requires no reward."
+
+"And yet, I offer it all the same."
+
+"Then, this one shall not be so rude as to reject my liege's kindness."
+
+Simple formality. Recipient softly rejects once, the rewarding party insists, and the recipient gracefully accepts. It was a little dance, allowing one to appear humble while the liege was positioned to be insistent in rewarding deeds well done.
+
+Cai Renxiang nodded crisply. "Then know, Baroness Ling Qi, that from this day, the cultivation stipend of your clan shall be increased half again, and the best of our services will be put to use for you in the construction of your grounds at the settlement of Snowblossom. In addition to this, my honored mother has granted you this boon…"
+
+Her fingers curled, and a flask of white jade appeared in her hand, corked and sealed with a silk ribbon and engraved with a stylized tree, its branches reaching for the sun. Even with her senses atrophied, Ling Qi could feel the deep pulse of raw, vital qi spilling through the seal of the jade. She saw the brief, hungry greed flash darkly in Hanyi's pale eyes and saw Mother straighten up. Even the mortals of the room stirred nervously, the potency of the qi that obvious.
+
+"A flask of lower grade Xiangmen sap, drawn from the Heavenly Pillar during this year's harvest. It is to be disposed of at the Ling clan's will," Cai Renxiang continued.
+
+Ling Qi reached out to accept the flask with another difficult half bow. "The house of Ling is ever grateful for your regard."
+
+"The house of Cai looks forward to further excellent service."
+
+"And shall receive it. Now, would my liege care to retire? A light meal and fresh tea has been prepared…"
+
+***​
+
+"I am pleased that you found our hospitality acceptable, Lady Cai," Ling Qingge said over the sound of tea being poured.
+
+This was Mother’s specific part of the ceremony; Ling Qi had secured the blend, and Mother had practiced until it could be brewed the way Renxiang liked it. A mortal couldn't have been exact enough, except by luck.
+
+Renxiang lifted her cup. "You have done well for a new house." She inhaled the aroma of the tea, and by Ling Qi's judgment, she was satisfied enough. "I commend you for your competent management."
+
+Mother bowed deeply. Ling Qi might have used higher praise than “competent,” even if it was the truth from Renxiang's perspective, but she didn't say anything. Little nitpicks on the edge of truth were just where her mind had been going lately.
+
+"And I am truly glad that your duties are going well enough that you have the freedom to spend some time on this reception," Ling Qi said. "Snowblossom is prospering then?"
+
+"As much as it can, given the limitations of size and infrastructure. I understand that you have indicated that you would be well enough to visit yourself in some weeks."
+
+"I have received the physicians' tentative approval to travel after my next inspection. They would like me to begin performing some basic physical and spiritual exercises."
+
+"To prevent any more than the minimal atrophy I observe. Will you?"
+
+"I believe so." Ling Qi looked at her mother. They had discussed this in the quiet hours of the morning. Mother was reticent, but Ling Qi was improving, and she needed to be able to move again. Inspecting their soon-to-be home at Snowblossom was a fine enough reason. They'd be back together soon enough.
+
+"She'll have Zhengui and I, so it'll be no problem," Hanyi boasted. "I'm gonna drag Sixiang to come, too!"
+
+Ling Qi chuckled. "I don't think they’ll need dragging to come along."
+
+"Your presence will be appreciated,” Cai Renxiang said. “The surveyors and their scholarly attachment have missed Zhengui's presence, and they will likely wish to have him look over their results for completion's sake."
+
+"Of course. I think he has missed his little friends as well. He was enjoying the work. I'll be glad to get him back to it."
+
+Cai Renxiang nodded, eyes wandering thoughtfully over the room. They rested briefly on her mother before twitching away a hair too fast.
+
+"The house will be quiet without you all, but it is my hope that we will not be apart for long," Mother said. "But I shall take my leave now. Hanyi, you as well."
+
+Mother understood that they would need privacy to speak on other matters.
+
+They were silent until the doors of the dining room were shut and the faint shimmer of Cai Renxiang's social screening arts began to rise.
+
+"You should keep it up, but I don't think it is necessary for us anymore," Ling Qi said without moving her lips or passing a single mote of air from her lungs.
+
+Cai Renxiang observed her, tilted her head… and then did the same. "Is that so?"
+
+Her domain was still recovering, but in the wake of her burning, she had found that she could speak without speaking, and hear and be heard by those who wished to communicate with her. It had startled a maid or two, as well as Mother. Hanyi had taken her new ability in stride.
+
+It was hard to put into words, but she understood instinctively that for certain people, those she was closest to, this mode of communication was inviolate. Only a cultivator of the upper realms might break their privacy; and even then, only with active effort.
+
+"You have not stopped cultivating," Renxiang observed.
+
+"Neither have you. But… Renxiang, why are you bleeding?"
+
+No one else would see it. No one who did not have her senses and understanding of Renxiang would notice. But Renxiang's light was tinted red, down at the roots. It was as if Liming's threads, already woven into her, had begun to writhe and tear at her flesh.

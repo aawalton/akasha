@@ -1,0 +1,65 @@
+---
+id: c08ac8ff-d489-5d7e-b09c-ac72fca3d1d5
+page-type-slug: story-chapter-royal-road
+title: "Bonus: The Sky that Fell"
+slug: 0065-bonus-the-sky-that-fell
+partOf: forge-of-destiny
+position: 65
+ownLength: 1124
+unit: words
+publishedAt: 2021-02-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/633332/bonus-the-sky-that-fell"
+royalRoadId: "633332"
+---
+
+Great Father is the First Sky, whose arrows are the lightning, whose hoofbeats are the wind, and whose mane is the clear blue sky.
+
+The Second Sky is the Starson, who led the greatest hunt of all. It was he who hunted the Gods and fashioned their bones into his armaments. It was he who gave the Mountains to the People to hunt forevermore.
+
+The Third Sky is the first whose name is not sealed. Mighty Balamber, Lord of Summer, who faced the bloodtide in the west, stirred to madness by the lowlander kings. It was he who met the Red Jungle in war and enforced the Compact of the Crimson Noon.
+
+The Fourth Sky is Wise Metok, Lord of the Spring, whose fury is the flood and whose compassion is the rain. It was he whose wisdom wrought the seasons and bound the Crone to return to her lands of Always Winter each year.
+
+The Fifth Sky is Stolid Sarangerel, Lady of the Night, who brings health to babes and who guides the cunning hunter’s eye. It was she who carved the first mask and she who whispered the secret names of the traitor stars unto the Moon.
+
+The Sixth Sky is Wroth Batu, Lord of War, who led the first host of the People to war and who beat back the Children of Trees. Glory to him, who shattered the Stag Lord’s horns! Glory to him, who kept the People free.
+
+The Seventh Sky… never came.
+
+For many centuries, the people had yearned for the rise of a new Sky to finish the work of Batu. Onward had come the lowlanders, digging like worms into the flesh of the mountains to carve out their hearts. The warriors of the People fought, and yet ever onward, they crept, innumerable as the great locust tide. One year at a time, one valley at a time, the People lost.
+
+He came then, a humble boy of a defeated tribe, taken into the household of his father's sister. Yet bold was the child Ogodei, and the path of a mere hunter would not satisfy the thirst for glory in his heart. A warrior born, he swiftly dominated the games of boys and earned his wings. There, he earned the favor of childless Mondor, Khan of the Thunder Bearers tribe, and rose swiftly in the esteem of the warriors.
+
+Many trials awaited him. Warriors dissatisfied with the Khan’s favor gave to him deadly tasks, and each one, he conquered. Twice did he fend off ambushes from collaborators of other tribes, seeking his life.
+
+But the first true sign of glory came at his day of bonding. There did Ogodei refuse to accept a Beast-Self of the tribe’s bloodline, even a foal of Khan Mondor’s line. He claimed the Rite of Founding and set forth to establish his claim.
+
+None can say what adventures and journeys the young Khan had in the highest mountain peaks where Father's storms rage eternal. Yet after ten years, long after he was assumed dead, did Ogodei descend, aback a mighty Dragon Horse whose scales glittered as ice and whose horn was Father’s lightning made manifest. Young warriors flocked to Ogodei, and young women fought for the right to challenge for his hand.
+
+Once again did the young Khan earn consternation when he chose Sarnai of the Thunder Bearers as his bride, daughter of a simple hunter, a girl he had known in his youth. Alas, when the young Khan left upon his marital quest, tragedy struck. Lowlanders under the name of Li came to the Thunder Bearers’ grazing peak, seeking the wealth in its heart. There was slain the Khan Mondor, his warriors, and gentle Sarnai alike.
+
+Wroth was Ogodei, upon his return, and the remains of the Thunder Bearers joined him without thought. Then and there, many believed the youth would fall upon the Li and be slain in turn, as often happened in the wake of such events. Yet it was not so, for in Ogodei, it seemed the Wisdom of Metok was strong. So it was that for two hundred years did the young Khan harden himself against vengeance and work to grow. He hunted mighty beasts and warred with mighty Khans.
+
+He was magnanimous in victory, taking only the proper amount and sparing warriors where he could. And all the while did the Khan whisper words of vengeance and unity in the ears of the tribes. He was not the only man or woman in the mountains to have been brought such loss, and his words resonated with the People. When the Grand Kurultai came, he proved himself strong in the favor of the First and Second, and like storm clouds gathering, the allies of Ogodei grew.
+
+He grew strong, stronger than all but the mightiest of Khans, and soon, as strong as they as well. The Seventh Sky had come, the warriors whispered, and the time to strike back was nigh. Batu had Broken the Forest Lord’s horns, but Ogodei, Lord of Lightning, would burn their forests to the ground and drive them from the hills forevermore.
+
+Yet still, the greatest Khans resisted, for they as well had achieved the realm of Ogodei, though each of the three was old and gray and bore no illusions of rising to become a Sky. And so, did Ogodei undergo one last trial.
+
+The foul kin of the old Gods had crept back into the mountains, carried by the lowlander scum. There, did one of the scaled worms of the sky dare call itself king.
+
+And like the Starson before him, did Ogodei cast the beast down and fashion armor of its hide.
+
+For the first time since the days of the Gods did more than half of the People gather under one banner.
+
+With offerings of dragon’s blood did Ogodei open the vaults of the Starson and receive a cache of his arrows. When the first one flew, it heralded the end of days for the accursed Li and their Black Lotus Mountain. There, the people purged the Li’s toxins from the land and burned their abominable crafts to the ground.
+
+Yet there was no call from the lowlander kings. Where the tribes fought together, the lowlanders fought alone, and they died alone. Their slow soldiers and decadent lords failed to match the cunning of the great Khan, and for a time, it seemed as if victory was nigh!
+
+A lie. A beautiful lie. None know how Ogodei fell, but fall, he did.
+
+And the lowlanders stirred with rage.
+
+Such is the tale of the Sky that Fell. And that Sky’s falling was but a prelude to the end of the People.
+
+Unless, perhaps, a true Seventh Sky comes.

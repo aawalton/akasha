@@ -1,0 +1,179 @@
+---
+id: 8df86a86-5a5e-5d35-8093-1473c42912c3
+page-type-slug: story-chapter-royal-road
+title: "3 – Bling Bling Maxing"
+slug: 0003-3-bling-bling-maxing
+partOf: gamer-girl-evolution
+position: 3
+ownLength: 1899
+unit: words
+ownProgress: 1899
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620520/3-bling-bling-maxing"
+royalRoadId: "2620520"
+markedReadAt: "2026-06-29T20:05:41.168Z"
+---
+
+“He just died… to a slime!?”
+
+Celica’s voice cracked louder than she meant it to. She stared at the empty patch of grass where the guy had been only seconds ago. A sloppy swing, a single slime hop, and then—gone. Not just downed. Not just a respawn timer. Gone.
+
+Her hands curled into fists. She had seen death in games before. Countless raids, PvP tournaments, losers screaming in chat. But this wasn’t supposed to be like that. This felt… final. The crowd’s panic rose like a wave: shrieks, swearing, desperate questions. Some backed away from the field. Others froze, staring as if the slime might lunge at them next.
+
+Celica grit her teeth. No. I can’t think about that right now.
+
+Her body moved on instinct. She wasn’t going to be one of those panicked idiots standing around, waiting to get chewed up. Grinding had always been her escape hatch. Focus on the numbers, the inputs, the drops. That’s where her strength was. That’s where the fear couldn’t reach her.
+
+And she knew just the thing to grind next.
+
+Celica crouched in the grass, squinting at the slimes bobbing near the edge of the plains. The beginner monsters squelched about, barely dangerous enough to threaten someone holding a stick.
+
+But to her, they weren’t prey. They were coins.
+
+“Alright, let’s see if the old trick still works…” She cracked her knuckles, took a deep breath, and broke into her zigzagging sprint. The vectoring glitch warped her path into a jagged lightning bolt, and her blade blurred as she swung twice in the exact same frame.
+
+The slime split apart with a wet pop. Instead of a single copper coin dropping, two silvers clinked to the ground.
+
+Celica’s eyes glinted. “Bingo.”
+
+Her sword’s durability bar didn’t dip either, frozen in place thanks to the desync glitch she’d kept doing. Double silvers, plus, zero wear and tear.
+
+Back in the earliest patches, this combo had been the most broken exploit imaginable. The devs patched it a dozen times, but speedrunners always found workarounds. She remembered late nights frame-testing weapon animations, juggling menus, and laughing whenever some redditor claimed it was “fixed.”
+
+To anyone watching, her movement looked downright insane. Jerky, twitchy, like she was fighting the game itself. To her, it was muscle memory.
+
+Another slime, another double-silver. Her laugh bubbled out, sharp and smug. “One hour. That’s all it’ll take.”
+
+And so she went to work, abusing the silver coin glitch.
+
+Slimes popped like bubbles under her vectoring blade, silver coins showering down in unnatural heaps. Other players gawked at her from a distance, whispering.
+
+“What the hell is she doing?”“Her body’s… twitching…”“Wait—are those silver drops? No way, slimes only give copper!”
+
+She ignored them. Every speedrunner had learned to tune out chat and peanut galleries. The only sounds that mattered were the audio queues signalling she’d successfully performed the glitches.
+
+Coins piled up faster than she could scoop them, so she refined her pathing into tight, looping spirals. Kill, grab, kill, grab. Each coin stack pushed her closer to the limit.
+
+10 silver.20 silver.30 silver.
+
+The trick, she knew, was to chain kills in perfect rhythm. If her hands wavered even slightly, the frame advantage vanished. But her reflexes weren’t just honed, they were engraved into her bones.
+
+When she was fifteen, she’d spent entire days resetting fights for one extra frame. Her parents had called it an obsession. They were right.
+
+Forty minutes in, her purse grew heavy. The system’s clunky coin-counting HUD struggled to keep up, numbers flickering each time she opened her inventory.
+
+“Come on, keep up with me,” she muttered, cutting down another pair of slimes with a flicker-step. Silver rained down. She bent, scooped, and checked her bag.
+
+97 gold coins.
+
+She grinned. “Almost there.”
+
+The crowd watching her had grown. Newbies whispered like she was some kind of cheat code in human form.
+
+“Is she… a virus?”“No, look, the system isn’t kicking her. She’s legit.”“How? How is this legit!?”
+
+Celica’s eyes narrowed on the final stretch. Sweat beaded her forehead, her arms blurring through the twitchy motions that made her body look like a broken marionette. Slimes burst into gory puddles, silver showering down like a slot machine hitting jackpot again and again.
+
+And then it happened.
+
+Her coin total hit 99 gold, 99 silver, 99 copper.
+
+The numbers froze.
+
+She blinked. Hit the coin tab again. Nothing changed. She picked up another handful of silver and waited for the flicker. She waited for that sweet overflow into the next digit. Instead, the coins simply… vanished.
+
+“What.”
+
+She bent, scooped again. Another stack dissolved mid-air before it hit her pouch. No error code. No flashing red text. Just… gone.
+
+Her eye twitched.
+
+“…What is this spaghetti code?”
+
+It wasn’t anger so much as disbelief. She’d broken TNR’s economy half a dozen times before. Glitched potions. Traded negative gold values. Duplicated items into the millions. But never had the system simply hard-stopped her at an arbitrary number.
+
+“No overflow… no error handling… just… capped?” she muttered, pacing in a tight circle. “You’ve gotta be kidding me. Who coded this, a small indie company?”
+
+The newbies behind her muttered louder. Celica ignored them. Her fingers twitched as she tested little experiments:
+
+Every time, the result was the same. The hard cap smirked back at her: 99 gold.
+
+“Makes enough sense, no way they thought anyone would reach the more than 100 gold on the first floor…” She exhaled a laugh, half-annoyed, half-thrilled. “Guess I’m still the dev team’s worst nightmare.”
+
+Her perma-stuck 1% durability sword slid back into its sheath, almost cracking for good when it did. She wasn’t going to get another coin no matter what she did, and wasting inputs was the one thing she couldn’t stand. But as she turned back toward the town square, she caught herself smiling.
+
+Because if the devs had been lazy enough to slap a hard cap on currency… then what other sloppy patches were hiding in here?
+
+The moment she stopped glitching, the crowd of new players dispersed like startled pigeons. Their nervous chatter quickly shifted back to shouts of combat. Slimes squealing, steel clashing, coins clinking against dirt.
+
+Celica lingered a moment longer, scanning the treeline. Dozens of slimes were already being swarmed by overeager players, their movements jerky and inefficient. No one noticed her watching. Good.
+
+She turned on her heel and followed the beaten path out of the forest. The beginner town rose into view, a cluster of crooked roofs and flickering signs that felt almost too detailed for a tutorial zone. NPC stalls lined the dirt street, each with its own static smile and glowing menu prompts.
+
+New players crowded the stalls, fumbling through purchase screens, arguing over prices that would never change. One man squinted at a cool looking sword as though staring hard enough would make its price decrease. Another cursed when he realized selling slime gel was basically worthless.
+
+Her eyes slid across the shops, lingering a fraction too long on the weaponsmith’s display. She shook her head, suppressing the temptation. Later.
+
+Because it wasn’t the shops that held the town’s energy. It was the fountain.
+
+The noise swelled with every step she took closer. She heard cheers, gasps, even cries of relief. Something big was happening there. And Celica intended to see it.
+
+A sound like thunder cracked the air. At the fountain’s base, a body of light was forming. It pulsed, like a heartbeat, before snapping outward into the shape of a person.
+
+The glow hardened into flesh, cloth, and armour. A man collapsed to his knees, gasping like he’d been underwater. Players shouted and stumbled back.
+
+“Wait—that’s the guy who—!”“He died! I saw him get swallowed!”“What the fu—”
+
+Another burst of light flared beside him. Then another. Each time, someone stumbled out, panting, trembling, and clutching at their chest. The square filled with voices, gasps, tears, and even a few cheers.
+
+“I was dead,” one woman whispered, staring at her hands. Her voice broke into a ragged sob. “I swear I was gone. This must be Heaven!”
+
+“No way,” another player barked. “No way this is real!”
+
+Celica folded her arms, her eyes narrowing. Chat, is this real chat? She remembered the man’s scream from the forest. The way his body pixelated into nothing. And yet here he was. Alive.
+
+Then she saw him. Standing calmly at the fountain’s edge, robes trailing over the stone, staff in hand. His face was sharp, almost statuesque, framed by silver hair. His eyes glowed faintly blue.
+
+Druvius.
+
+Celica’s throat tightened. Druvius was a mid-tier quest giver, guardian of the Sanctuary Trials. Fifth Realm content. He had no business being here, on the very first floor.
+
+Her heartbeat picked up. “Is this… a crossover event? Or worse?”
+
+The NPC’s voice boomed across the square. “Rejoice. Death shall not claim you here. Not yet. This is the proving ground, the crucible of beginnings. Your lives are bound to the quest.”
+
+The crowd erupted.
+
+“What do you mean, not yet?!”“You’re saying we’re safe?”“Then why did it hurt so much!?”
+
+Druvius lifted his staff, silencing them with a flick of light. “Listen well. In this realm, only failure to complete the main quest shall bind you to true death. The body may fall, the spirit may falter, but you shall rise again until your task is fulfilled—or until you forsake it.”
+
+The words echoed, heavy as stone.
+
+Celica’s eyes narrowed further. Druvius was repeating the same lines to each group that stumbled near, his tone eerily precise, like a script. Just a loop.
+
+But the implications gnawed at her. If Druvius was here, tied into tutorial logic… did that mean the realms were bleeding into each other? Was someone rewriting the rules?
+
+The man who had died earlier staggered to his feet, pale and shaking. His voice cracked as he shouted, “So it doesn’t matter what we do? We can’t die?”
+
+Druvius’s eyes flared brighter. “Not by blade. Not by beast. Only through failure.”
+
+The word hung in the air, final and absolute.
+
+Celica turned on her heel, leaving the fountain behind. The crowd swelled with noise, but she blocked it all out. Her mind replayed Druvius’s face. The gleam of his staff, the exact cadence of his words. There was no mistaking it. But he shouldn’t exist. Not here, not yet.
+
+“Realms don’t bleed into each other,” she muttered. “Not unless…”
+
+Her thoughts spiralled. Had the devs mixed NPCs by accident? Was this an intentional secret event? Or worse, was the Fifth Realm leaking into the First, rewriting the game’s logic?
+
+That would explain the spaghetti code. The gold cap. Slimonius.
+
+Her lips pressed into a thin line.
+
+Around her, newbies buzzed with relief, laughing about their respawns, rushing toward the shops with reckless energy. To them, this was just another chance. To her, it was a warning that the game wasn’t how she remembered it.
+
+She exhaled slowly, eyes narrowing at the vendor stalls. The potion stand, the weapons rack, the armour smith.
+
+Her gloved hand tightened around her sword hilt, the weapon still frozen in perfect condition by her glitch. “Fine,” she whispered, a spark dancing in her eyes. “If the rules are breaking, then I’ll be the one to break them first.”
+
+Her gaze locked on the shop section, glinting with merciless intent. Now I’ll really break this game.

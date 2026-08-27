@@ -1,0 +1,189 @@
+---
+id: 9551d9b9-4c81-5b69-9787-b75c019eb273
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77-Normalcy 5"
+slug: 0097-chapter-77-normalcy-5
+partOf: forge-of-destiny
+position: 97
+ownLength: 3069
+unit: words
+publishedAt: 2021-04-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/670343/chapter-77-normalcy-5"
+royalRoadId: "670343"
+---
+
+To any who might have seen them, Ling Qi was sure they would have seemed like a relaxed and lackadaisical sight. Zhengui’s hill lay shrouded in fog and mist, swirling around the rising columns of air warmed by the heated earth and Zhengui’s breath. She sat atop Zhengui’s shell, nestled in a seat made of soft green wood and new grown leaves. Her eyes were half shut as she played a slow and tranquil song on her flute. Hanyi was content to sit on the edge of Zhengui’s shell, kicking her bare feet as she raised her voice in wordless song. Beneath her, her seating rumbled with Gui’s hum, and above her, Zhen swayed, flickering blue sparks raining down gently over her with each flick of his tongue.
+
+Yet Ling Qi’s thoughts were in turmoil. She hid it well, not wanting to ruin this brief respite, but she thought Zhen might have noticed. He had been full of questions while they were still composing. She did not know how to feel. She had discovered a flaw in her cultivation, a conflict of insights between her need to continually advance and her understanding that her desires alone could not make a family. Sixiang was exhausted and considering leaving her. The Sect was at war. How could things become so chaotic so quickly?
+
+She knew ,of course, that the path forward would be rocky and in fact, required her to face and resolve conflicts in her Way to advance, but it seemed that months passing by with steady progress had left her unprepared for the next rough patch in the road. Even now, as she played, she thought furiously about what she could do to help her spirits grow while maintaining her own pace. Her mind spun arguments for Sixiang to stay, reached for promises she could make, things she could do. All of it swirled round and round in her thoughts, turning into a hopeless snarl.
+
+So, as morning turned into afternoon, Ling Qi was not unhappy to feel the approach of a distraction. She  kept her peace as they approached, not giving away that she had felt them coming.
+
+“What a sight they make, Sister Meizhen, fogging up the entire hill.” Ling Qi cracked an eye open only when she heard a haughty, imperious voice.
+
+Above her, Zhen jerked in surprise, shaken out of his music-induced lull, and Gui’s whole body shifted. Hanyi’s song was cut off as she let out a yelp, the stable seating beneath her rocking violently as Zhengui shot to his feet.
+
+“Quite a sight indeed,” Meizhen mused, meeting her eyes from the bottom of the hill despite the mist in the way. At her feet, Cui coiled, jade green scales gleaming like polished metal under the afternoon sun. “It reminds me of the mangrove mists on a fall morning.”
+
+“Sister Meizhen is too kind,” Cui replied, giving the impression of turning up her nose.
+
+Ling Qi grinned, hiding her expression behind her sleeve as Zhengui trundled with all the speed he could muster down the hill, the ground shaking as he emerged from the fog. Some things, at least, had not changed. Zhengui had always been eager to see and show off for Cui.
+
+“Lady Cui! Big Sister said that the Bai Meizhen would be coming but not you.” Zhen sounded almost giddy. Hanyi shot him a dirty look as she regained her balance on the side of his shell.
+
+At her friend’s side, the serpent raised her head. She had grown quite a bit. Even in her shrunken form, her head rose to Meizhen’s shoulder when raised from her coils. “I, Cui, was merely curious. My Sister said that something had managed to bruise even your thick skull and you were only just waking.”
+
+“Yes! Well, not Gui’s head exactly, but there was a very big corpse bug. It tasted very bad,” Gui rumbled cheerfully. Ling Qi leaped from his back, drifting down on a breeze to land at the base of the hill.
+
+Zhen harrumphed. “It was I, Zhen, whose fangs and venom slew the beast.” He paused then. “Together with Linhuo.”
+
+“Is that so,” Cui replied, unimpressed. Uncoiling from around Meizhen’s feet, she slithered past Ling Qi, shooting a cool look at her but making no objection as Ling Qi approached Meizhen.
+
+“I’m glad you received my message,” Ling Qi said as their spirits spoke. She had been vaguely aware that Cui still spent time around Zhengui, but it had always happened out of her sight. Cui was still not terribly fond of her. If she was ever unsure about the Bai family’s capacity for holding grudges, she would have been disabused of the notion by now.
+
+Meizhen dipped her head in acknowledgement. “Yes, having a specific time rather than ‘this afternoon’ was certainly helpful,” her friend said dryly.
+
+“Well, I was hardly sure,” Ling Qi huffed. “Ah, I invited Lady Cai as well.”
+
+Meizhen raised an eyebrow. “I am surprised. I doubt she will come however. Cai Renxiang is not one to change plans midday easily.”
+
+Ling Qi shuffled her feet uncomfortably, glancing to her side. Over at the hill, Cui had swelled in size. At nearly fifteen meters long, the serpent flexed her coils with the air of one cramped from a large carriage ride. “I may have been somewhat forceful in my invitation,” she hedged, not meeting Meizhen’s eyes.
+
+She could feel Meizhen’s gaze drilling into her. “... Ling Qi, what did you do.”
+
+“You had met her just before,” Ling Qi replied, dodging the question. “She needed to get out of that office and her own thoughts.”
+
+Meizhen stared her down, looking deeply unimpressed. “You are not raising my confidence with your avoidance, Ling Qi.”
+
+“I may have implied that she was failing to live up to her ideals by refusing help,” Ling Qi mumbled. “I’m right though,” she added stubbornly. Somehow, that only made the ache in her dantian twinge more.
+
+Ling Qi was treated to the sight of the eternally elegant Bai Meizhen closing her eyes and reaching up to pinch the bridge of her nose in frustration. “Ling Qi, you cannot just speak to your superior that way,” she said in exasperation.
+
+“It was all in private. I’m not a fool,” Ling Qi protested defensively.
+
+“Even so!” Meizhen declared in a huff. “Honestly, you are lucky that Cai Renxiang is so permissive with her direct subordinates. You take the lessons of Argent Mirror much too far.”
+
+They both twitched then as they felt a presence on the edge of their senses. Even dimmed, there was no missing the heiress of Cai. A moment later, she arrived in a gust of wind, the hems of her gown fluttering as she descended from the sky on wings of light.
+
+“My apologies for interrupting your conversation,” Cai Renxiang said evenly as her wings scattered into fading motes. “However, this was the appointed time for arrival.”
+
+Ling Qi was deeply glad that her conversation partner had been Meizhen and so their words had not been overheard. Without Sixiang, she was unfortunately vulnerable in that fashion. “Thank you for accepting my invitation, Lady Cai,” she said, bowing a touch more deeply than necessary.
+
+Meizhen shot her a very brief look before inclining her head slightly as well. “I, too, am pleased to see you, Cai Renxiang. It is good to allow oneself a few moments of recreation in trying times.”
+
+The other girl’s eyes swept over them both. “So I am told.”
+
+Well, she had showed up, and she didn’t look angry, although Ling Qi doubted she would know if the girl was angry without Sixiang’s help. “It has slipped my mind, but have I actually introduced you to my spirits?”
+
+“Not directly,” Cai Renxiang answered bluntly. Ling Qi saw the other girl toying with the hilt of her sheathed saber as she spoke. A new tic of some kind? “But I am aware of them all.”
+
+“Of course,” Ling Qi replied. Cai Renxiang funded the upkeep for her more physical spirits, Zhengui in particular. “Zhengui, Hanyi, introduce yourselves please.”
+
+Their own conversation interrupted, her spirits looked up. Surprisingly, it was Hanyi who hopped down first, vanishing and reappearing mid curtsy, a wide smile on her face. Ling Qi was immediately suspicious. She really hoped that Hanyi wasn’t in the mood for pranks.
+
+“Hello! My name is Hanyi,” the young ice spirit chirped, bowing her head low. “Ling Qi mentioned you a lot. Is it true that she got all of her pretty things from you?”
+
+So that was her angle. Ling Qi did her best not to let her eyebrow twitch.
+
+Cai Renxiang’s expression was blank. “That is not entirely inaccurate,” the heiress said a touch dryly. Ling Qi hoped that it was a good sign.
+
+“Ah, Lady Cai must be very generous,” Hanyi said with a grin. “I wish I could have those kinds of things too.”
+
+“I will mark down a stipend for equipment expenses,” Cai Renxiang said. She turned her head toward Ling Qi.
+
+“I will be happy to advise on the matter,” Bai Meizhen cut in smoothly.
+
+Ling Qi met Cai Renxiang’s gaze and found it implacable. She glanced to Meizhen and Cui, seeing no pity, and in Hanyi, there was only avarice. Even Zhengui only looked on with innocent curiosity. She was alone and outmaneuvered. “Of course. Thank you for your generosity, Lady Cai.”
+
+“Hello, I am Gui!” her little brother thankfully butted in then.
+
+“I, Zhen, greet the mighty Lady Cai,” his other half greeted with considerably more dignity.
+
+“I, Cui, greet the Lady Cai as well,” Cui called lazily from somewhere behind them.
+
+“It pleases me to make your acquaintance. Reports of your activities were praiseworthy,” Cai Renxiang replied evenly. “Good Zhengui, please continue to support Ling Qi’s efforts in the future.”
+
+Her little brother practically swelled with pride, twin cries of agreement ringing out. A few more pleasantries were exchanged, but soon, Zhengui trundled off to speak with Cui again, followed by a huffy Hanyi, and the three of them turned to the business of tea. It was unfortunate that in preparing for this outing this morning, Ling Qi had not thought that she would be inviting her liege. As such, she had only a tea set and a blanket. Changing her loadout had slipped her mind entirely.
+
+As she was about to articulate this though, Cai Renxiang gestured, and a well appointed table and four chairs carved from dark lacquered wood appeared on the open space at the base of the hill. The furniture tilted and shifted on the even ground for a moment, but then Ling Qi felt a pulse of earthen qi and the land imperceptibly flattened, evening out under the grass.
+
+“Maintaining the ability to set out a field office at a moment’s notice is important. You have the tea, I trust, Ling Qi?” Cai Renxiang asked without looking at her.
+
+Of course Cai Renxiang would keep an office suite in her storage ring. How silly of her to think otherwise. “Yes. Please take your seats. You are my guests, even if this isn’t my home.”
+
+The two of them took their seats across from each other as Ling Qi busied herself with the minutiae of setting the table and putting the tea to brew.
+
+“Your third spirit, are they well?” Cai Renxiang inquired. She sat straight backed in her chair, hands folded in her lap.
+
+Ling Qi paused in the midst of brewing. “Recent events have been somewhat difficult for them. Sixiang is resting at the moment,” Ling Qi said. “I hope you do not take offense at their lack of greeting.”
+
+“Is it a matter of spiritual damage?” Bai Meizhen asked with some concern. “I have some supply of appropriate tinctures.”
+
+Ling Qi glanced down at the inky shadow swirling at Meizhen’s feet. “No, it is nothing like that,” she clarified, her gaze dropping to the tabletop. “Sixiang is not a spirit of war. I am worried for them.” Had she not invited Cai Renxiang out so that they could speak of her problems? She did not want to drag someone else’s problems out.
+
+“I see,” Meizhen said in understanding. “Spirits of the moon can adjust themselves to many things. I am certain matters will be resolved satisfactorily.”
+
+Ling Qi wasn’t entirely sure she liked the idea of a Sixiang adjusted to violence. For all that she had, if not embraced it, at least accepted it, having Sixiang as a counterpoint felt important somehow.
+
+“I cannot comment on the matter. I doubt any advice I could give would be accepted by Sixiang,” Cai Renxiang said.
+
+Ling Qi gave her a sidelong look as she set the tea to boil and sat down. She had not really thought of the fact that her liege could probably sense the moon spirit’s dislike. “Perhaps. We will have to work it out, one way or the other.”
+
+“Alliances are not always easy,” Cai Renxiang agreed. “Bai Meizhen, might I ask, how are the Bai reacting to news of these new barbarians?”
+
+“My grandfather is not truly concerned,” Meizhen replied. “The lands of Thousand Lakes are ill suited to caves. However, surveying groups are reviewing their knowledge. Should any such holes be found, we will drown them in the endless waters of Lake Hei.”
+
+“Will the Bai be sending any assistance to Emerald Seas?” Ling Qi asked.
+
+Bai Meizhen’s gaze flicked over to Cai Renxiang. “Should the Duchess request it.”
+
+Ling Qi dipped her head in understanding, reading between the lines. Emerald Seas could not afford to go begging an ally for help over what was still a minor incursion.  “I’m sure we will handle it ourselves. It is good to know your help is available though,” Ling Qi said.
+
+However, she did not want the conversation to drift back into politics.She shot Bai Meizhen a brief pleading look.
+
+“Of course,” Bai Meizhen replied. Steam began to rise from the teapot as the script-etched burner swiftly heated the water, and Ling Qi began to brew the tea. She kept her eyes down on her work. “Cai Renxiang, I believe you mentioned that your sister was born without troubles. How is she?”
+
+This time, there was no outward reaction from the heiress. “Cai Tienli is in good health. I have not seen my sister as of yet, but I have heard that she takes more after our father in mien. There were no complications following Mother’s delivery. Head Physician Liao has given her a clean bill of health, and Medicine Saint Tong agrees.”
+
+Ling Qi knew Cai Renxiang’s father was a member of the Diao clan, just like the Prime Minister, so she could only picture a baby with slightly darker skin and wisps of rose pink hair. It was funn that despite her studying, she still didn’t know the name of Cai Renxiang’s father. It would be rude to ask though.
+
+“Medicine Saint?” she asked instead, curious at the term.
+
+“It is a somewhat archaic term for those who reach the sixth realm on a way of medicine or alchemy,” Bai Meizhen explained. “There has been some push to use the term only for the masters of the Celestial Distillation Sect in Celestial Peaks.” Meizhen sounded pretty disdainful of the idea.
+
+“Politics aside, Saint Tong is considered the foremost expert on the care of children in the Empire,” Cai Renxiang said. “It was somewhat unexpected that Mother requested his presence.”
+
+“Among those of the highest cultivation, birth is always somewhat fraught for the child,” Meizhen said carefully. “The moment the soul cord is severed, they become their own beings.”
+
+“Indeed. However, it remains strange,” Cai Renxiang said, watching the curls of steam rising from the brewing tea. “Head Physician Liao was sufficient for me.”
+
+A brief and uncomfortable silence passed over the table. Ling Qi cracked an awkward smile. “Well, the Duchess knows more than any of us, particularly about herself. Perhaps she sensed some irregularity?”
+
+“Perhaps,” Cai Renxiang allowed.
+
+“Whatever the matter is, it is surely resolved given the expertise at hand,” Meizhen said as Ling Qi began to pour the tea. “Speaking of irregularities, however…” Bai Meizhen gave Ling Qi a hard look. “Did you somehow manage to strain yourself between the morning and now, Ling Qi? Surely the physicians informed you to avoid overexerting yourself.”
+
+Ling Qi shot her friend a frown. She felt Cai Renxiang look her way with a faint frown, studying her. “I’ve run into a little problem,” Ling Qi admitted, filling the cups. “A matter came up, and I found myself unable to fully resolve it. I think I have found a flaw in my cultivation base.”
+
+Despite herself, Ling Qi’s eyes drifted to Zhengui where he, Hanyi and Cui were having their own little ‘tea party.’ Their party somehow involved the corpse of a huge mountain beast she didn’t immediately recognize. Where had that even come from?
+
+“Ah,” Meizhen acknowledged. “Do not be too disheartened. Most everyone encounters a heart demon or two on their way.”
+
+“Heart Demon?” Ling Qi asked, unable to suppress a snigger. What an overwrought term.
+
+Faint color dusted her friend’s cheeks at the sound of her laughter. “It is the proper term. Honestly, the term has been used for millennia. You are so uncultured at times, Ling Qi.”
+
+“I’m sorry,” Ling Qi chuckled. Laughing felt good. “I’m not sure I’d call it a demon, but yeah, there's… I don’t know if I’d call it a contradiction, but it is a conflict at least.”
+
+She carefully passed out the tea in the silence that followed.
+
+“I was being serious,” Meizhen added as she received her cup. “I resolved such a conflict myself not too long ago. You will be able to find your resolve and the Way forward, I am sure.”
+
+Ling Qi looked to her friend in surprise, but thinking about it, Meizhen had changed in recent months. Grown more confident, more daring, and friendlier, at least to a select few.
+
+“How about you, Lady Cai?” she asked, placing a cup in front of her liege. “Any advice on maintaining a perfect path?”
+
+Cai Renxiang gathered the cup in her hands but did not answer immediately. “I completed the cultivation of one of my mother's arts just yesterday. I found no insight in it.”
+
+Ling Qi stared at the girl. Oh. That would certainly explain things.

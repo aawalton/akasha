@@ -1,0 +1,171 @@
+---
+id: 1966d8c5-50bf-5639-884f-a8877144e9f3
+page-type-slug: story-chapter-royal-road
+title: "Threads 215-Friend and Foe 4"
+slug: 0249-threads-215-friend-and-foe-4
+partOf: forge-of-destiny
+position: 249
+ownLength: 1967
+unit: words
+publishedAt: 2022-05-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/908434/threads-215-friend-and-foe-4"
+royalRoadId: "908434"
+---
+
+“Getting back to what’s in front of us, what do the other provinces think of our venture, Lady Renxiang?” Ling Qi asked.
+
+“As we suspected. The Zheng see it as a grand adventure. The Lakes are officially supportive but internally ambivalent,” Cai Renxiang replied.
+
+Meizhen tipped her head in apology. “The Duchess has sold it well, and her successful subjugation helps, but my kin do not easily approve of diplomacy.”
+
+Renxiang nodded faintly. “The Fields are ambivalent, of course, but the Capital and Sands have signaled some disapproval. I believe we may need to accommodate an imperial observer in our plans.”
+
+Ling Qi blinked and then frowned. That was unexpected. “The Throne does not consider this provincial business?”
+
+“The Throne has indicated that it has an interest in the matter,” Renxiang replied. “But it is still to allow the Duchess’ lead.”
+
+“Hmph. Absent when they are needed, ever present when unwanted,” Meizhen mocked.
+
+“D’you think they’ll send someone who will mess things up?” Sixiang asked.
+
+“I do not know,” Cai Renxiang said. “It is a factor we will have to account for.”
+
+“Well, we’ll work it out,” Ling Qi said with a frown. “What is the plan for tomorrow? I know our outline, but…”
+
+“As the junior generation, we will be leaving the adults to their business tomorrow,” Meizhen said. “We are expected to attend the tournament together. Trust building, of course. I would like your continued assistance in deciphering the intentions of my assigned subordinates.”
+
+“Just whose retainer is Ling Qi?” Renxiang asked over the rim of her cup.
+
+“Yours, although only because I let her go,” Meizhen teased.
+
+“I am sitting right here.” Ling Qi huffed.
+
+“So you are,” Meizhen said blithely. “What do you think of them by the by? Aside from your admiration of Lao Keung’s physique.”
+
+“Meizhen,” Ling Qi hissed. “Spirits, I wasn’t obvious, right?”
+
+“No, I just know you,” Meizhen replied smugly.
+
+“A match with the Thousand Lakes would not be terrible,” Renxiang mused. “It would have disadvantages over an internal match, but not insurmountable ones. There would be benefits to the alliance as well.”
+
+“Lady Renxiang,” Ling Qi complained, only to sigh. “I don’t have too much of a read yet; I’ve only known them for a few hours. Lao Keung has some resentment in him, but it is not personalized. Xia Anxi is very prideful, but he seems frightened of you, Meizhen.”
+
+“As is proper,” Xiao Fen said primly, breaking her silence.
+
+“Inevitable, but it does make things difficult if they will not speak plainly,” Meizhen said. “If I were to hint that I want you to be engaged with, which of the two do you prefer?”
+
+“Let me speak with Xia Anxi,” Ling Qi said after a moment’s thought. She wasn’t certain how genuine his interest had been, but it would be interesting to speak to a musician from such a distant tradition. Plus, she had paid more attention to the other Bai yesterday. It wouldn’t do to snub.
+
+“I will imply my interest in his assistance with keeping relations high then,” Meizhen said.
+
+“Why not just tell him?” Ling Qi asked, taking a drink from her slush-filled cup. She quite liked this. Maybe she should try it with other drinks? The texture of the ice was pleasant.
+
+“It is good to allow your subordinates to appear as if they are anticipating your desires,” Bai Meizhen replied. “It is a kindness for new members of my entourage, or so Lady Xilai says. I trust her experience in the matter.”
+
+“It is not an uncommon practice, though it is not my preference,” Cai Renxiang commented absently.
+
+“Good thing, else I’d have made a fool of myself,” Ling Qi quipped.
+
+“Indeed,” Cai Renxiang replied.
+
+The three of them shared a laugh. It was good to relax now while they were veiled from the public eye. Tomorrow, they will be back, and the theater of society will resume. Now though, they could simply be good friends.
+
+***
+
+“The first match was at least a little interesting,” Lao Keung said, leaning against the railing which separated their box from the general crowd of the stands. “Good spearwork at least.”
+
+“Workmanlike at best,” Xia Anxi drawled. He remained in the seat beside her. It was actually funny how stubborn he was being in that regard. “Neither combatant had any real grace. But yes, an entertaining brawl.”
+
+Ling Qi nodded in agreement. Gun Jun had won, but it was a close thing.
+
+“The dedication of both combatants was admirable,” Bai Meizhen said. “I will not blame the Sect for the dullness of the second and third though. It was inevitable given the competition, just as my own first match was last year.”
+
+Bai Meizhen, Cai Renxiang, Lao Keung, and Xia Anxi all occupied this lower box with her today. They were essentially the Bai-Cai alliance junior division, as it were.
+
+<Pfft, you make it sound funnier than it is,> Sixiang snickered.
+
+“A certain respect is deserved for Lady Bai,” Xia Anxi said. “But being expected does not make it any less dull.”
+
+Lu Feng’s match had just ended, and as expected, it was a swift one just as Gan Guangli’s before it had been. Third realms as advanced as they were against second realms… The best a second realm could expect was being allowed to show off some of their skills by their opponents.
+
+“I heard you went very soft on your opponent in the first match, Lady Bai,” Lao Keung said. It wasn’t quite a question like when he’d asked permission to stand instead of sit, but Ling Qi felt like he was probing at her friend.
+
+“Pain and fear are tools like any other,” Meizhen replied. “While the strength of the clan must be maintained, there is little purpose in terrorizing an individual whose only offense is poor fortune in a drawing. Using those tools in such a random way devalues their threat.”
+
+“I see. Thank you for explaining your reasoning, Lady Bai,” Lao Keung said.
+
+As they were having that conversation, Ling Qi observed Xia Anxi out of the corner of her eye, as he was doing to her.
+
+“This next one, you implied that you knew her?” he asked, drumming his slender fingers on the arm rest.
+
+“I fought her,” Ling Qi clarified, looking down to the arenas where Chu Song was now taking up a position opposite another older disciple. He was only an early green realm compared to her solid appraisal. “She was strong, but she lacked the flexibility to deal with me at that time.”
+
+“Unfortunate for her,” Xia Anxi said. “Is it true that she openly insulted your liege?”
+
+“Not so much at the tournament,” Ling Qi said. It was more that Ling Qi riled her up. “I may have baited her.”
+
+“Oh? Do tell,” Xia Anxi said, raising an eyebrow.
+
+The words felt crueler now, looking back, but Ling Qi couldn't bring herself to feel particularly bad for Chu Song. “I asked her why I should care for the memory of a clan a hundred years dead.”
+
+“Blunt, but effective,” Xia Anxi concluded. “Ah, she must have raged. Those sorts always do.”
+
+“Yes,” Ling Qi said, looking down at the match.
+
+Chu Song and the other disciple were clashing in the midst of a stony field, and she seemed to be coming out the better. Chu Song’s cultivation hadn’t improved much, but to Ling Qi’s eye, her skills had. Her movement and demeanor were both much more controlled, and her swordplay more disciplined.
+
+“I must wonder why the Duchess left any of the Chu alive at all. It’s best to finish things with foes. Anything else is just buying future trouble,” he mused. “Of course, I am sure I simply cannot see such a cultivator’s plans.”
+
+Ling Qi didn’t answer at first. Why had the Duchess spared any of them? Going as far as she did, there would have been no more objection to finishing the clan entirely, aside from perhaps allowing spouses and children to change their names and join their partner’s or parent’s clans. Why allow the Chu to persist at all?
+
+“Perhaps living examples are more effective than dead stone and ruins?”
+
+Xia Anxi nodded thoughtfully. “A fair point, yes.”
+
+In the arena below, the boy Chu Song was fighting broke away with a movement art and leapt into the air. A great condor materialized above him, carrying him into the sky in its talons. Ling Qi saw Chu Song’s expression twist into a snarl as she reached up and clenched a fist. She felt the wind in the arena change, a massive downdraft slamming her foe and his beast back to earth.
+
+“I made an impression, it seems,” Ling Qi observed.
+
+“That’s right. You can fly. Tell me, what is it like?”
+
+Ling Qi blinked, turning her gaze to Xia Anxi. He was still looking down at the arena, watching Chu Song hound down her foes. “It’s the most refreshing thing in the world. The feeling of being unmoored from everything, weightless and free, is incomparable.”
+
+He nodded, and a moment of silence passed. Ling Qi listened absently to the polite and formal back and forth between Meizhen and Renxiang.
+
+“What is the sea like?” Ling Qi asked. “I’ve seen forests and mountains and vales, rivers and plains of snow, but never the ocean.”
+
+“It is powerful.” Xia Anxi sounded nostalgic. “A million, million tonnes of water pounding upon the shore in a rhythm as old as time, a glittering beauty of wave and surf, vast beyond even the confines of the horizon, with depths of mystery to match even sacred Lake Hei.”
+
+“How poetic,” Ling Qi said.
+
+He sniffed. “I do write the lyrics of my personal songs.”
+
+“Ugh, lyrics. I am not much for spoken words. A clear melody carries meaning better,” Ling Qi replied.
+
+Sixiang grumbled in her head.
+
+“The spoken word is among the first works of art made by man,” Xia Anxi retorted haughtily. “You should not dismiss it so.”
+
+“Is that so.” Ling Qi tilted her head. “If you will excuse the question, how did you come by your talent? I was under the impression that the Bai did not have much focus on music.”
+
+“The esteemed White Serpents do not engage with such arts,” Xia Anxi conceded, his eyes flicking briefly toward Meizhen. “But the Blue have their work songs, and even the Red and the Green their marching hymns and drums. The Xia draw their song from the sea, which has its uses in cultivating our coral.”
+
+“Coral?” Ling Qi asked.
+
+“Ah, yes, a southlander wouldn’t know. Most think it a sort of stone, but it is more akin to your trees, living and immobile. It grows underwater in sprawling and beautiful formations. We tend and cultivate it for our underwater holdings, both in our homes and as fortifications against the leviathans which prowl the kelp beds of the red jungle. But even beside that, the spirits of wind and wave have always responded well to song.”
+
+Ling Qi struggled to picture the described coral. She did know there were some Weilu traditions toward shaping trees through song, and her dossier on the Meng had indicated that they made heavy use of living wood and plant life in their traditional architecture.
+
+“It does sound beautiful. I’d like to see it someday.”
+
+“Perhaps I might send for a painting to remind me of home,” he said flippantly.
+
+“Ah, trivial, of course,” Ling Qi said dryly.
+
+The match was wrapping up. Chu Song had won handily, not even bringing out her spirit beast.
+
+“I am a man of some means and talent.” Xia Anxi preened.
+
+“Naturally.” Ling Qi chuckled, leaning back in her seat.
+
+There would be a brief intermission before the fifth match began.

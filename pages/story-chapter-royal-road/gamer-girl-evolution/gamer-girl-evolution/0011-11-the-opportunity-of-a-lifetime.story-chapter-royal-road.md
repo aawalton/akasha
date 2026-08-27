@@ -1,0 +1,119 @@
+---
+id: 7df904f2-9b12-53d6-96ec-690933559bfb
+page-type-slug: story-chapter-royal-road
+title: "11 - The Opportunity of a Lifetime"
+slug: 0011-11-the-opportunity-of-a-lifetime
+partOf: gamer-girl-evolution
+position: 11
+ownLength: 1789
+unit: words
+ownProgress: 1789
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2628711/11-the-opportunity-of-a-lifetime"
+royalRoadId: "2628711"
+markedReadAt: "2026-06-29T20:05:56.444Z"
+---
+
+Celica sat frozen in front of her screen, eyes locked onto the flashing headlines. The words leaped out at her like a jumpscare: The Arrival of the ‘Players’. Could this be a new era?
+
+Her fingers hovered over the keyboard, the bright glare of the article blurring her vision. Everywhere she turned, she saw the same unsettling phrases. “Players”, “game mechanics”, and “The Ten Realms” were stamped on every piece of news, social media post, and online forum.
+
+The more she tried to rationalise it, the less she understood. The world outside her window looked so ordinary, but the information flooding her phone made it seem like she was in some twisted contradictory horror game.
+
+She didn’t know where to begin. How could this even be real? She pinched herself, trying to wake herself up. It was useless. The more she read, the more questions piled up, each more bizarre than the last. How was this happening? Why was this happening?
+
+With her head spinning, Celica forced herself to stand, her legs shaky from the tension. She needed to ground herself. She needed something, anything, to remind her that she was still in the real world, despite everything that had just transpired. Her eyes flicked to the bathroom door, and a rare thought struck her: a shower.
+
+She’d never been one to indulge in self-care, especially as a gamer. Showers were usually just a way to get clean before diving into her grind. But now? It was the only thing she could think of to get away from the internet.
+
+The water was cold at first, shocking her body, but it was exactly what she needed. It sliced through the haze of confusion, jolting her back into the present. She stood there for a while, letting it wash away the last remnants of the tension that had clung to her skin.
+
+When she finally emerged, a sense of clarity had settled over her. The world still seemed strange, but at least now, she wasn’t so suffocated by it. She dried herself off and got dressed into her familiar clothes.
+
+She then moved to the kitchen, turning on the kettle and preparing the camomile tea she always liked. The warmth of the cup in her hands steadied her. The steam rising from it felt real.
+
+Celica sat at the small table, sipping the tea slowly as she stared at the mundane clutter of her apartment. The chipped mug, the faulty window, the small stack of coins on the counter. Nothing had changed, and yet everything had.
+
+She knew she had to make sense of what was happening, but the more she thought about it, the less she knew what to do next. How could she even begin to process the impossible?
+
+Her eyes drifted to the window, where the city hummed with life. Outside, hundreds of people went about their business as if everything was normal. Celica couldn’t help but wonder if any of them were players like her now. She tightened her grip on the mug.
+
+Celica’s phone buzzed again, but this time, the notification wasn’t a simple alert.
+
+Breaking News: All DreamCore Company Offices Have Been Abandoned. Staff Missing, Cryptic Message Left Behind.
+
+She blinked, her heart skipping a beat as her mind raced. The news anchor’s voice crackled through her speakers, sounding unnaturally tense as they reported:
+
+“Authorities are investigating the sudden disappearance of all employees at DreamCore, the company responsible for the development of the globally infamous game The Ten Realms. According to sources, all staff members vanished overnight, leaving behind a mysterious message scrawled on every office whiteboard:
+
+‘The next floor will call all players on the night of the full moon. Fare thee well, we have all left for the tenth realm’.”
+
+Celica’s breath caught in her throat. The message felt like a half a riddle and half a threat. They’ve all left for the tenth realm... what does that even mean? And a full moon?
+
+Her fingers trembled slightly as she scrolled through the article. The staff were all gone, vanished without a trace. What happened to them? Where did they go?
+
+The walls of her apartment suddenly felt too small, too suffocating. Her mind raced, trying to make sense of it all. The ‘players’ were all being pulled into something. Something big. But what?
+
+She clenched her fists. She couldn’t afford to let herself spiral into panic. A cold shiver ran down her spine. Her connection between the game and her real world had always been close, but now, it felt too real. The boundaries were blurring. There was something bigger at play, and Celica couldn’t figure out what.
+
+Yet.
+
+She finished her tea, then paused, her eyes closed in contemplation. She couldn’t keep running from this strange new reality, and she knew that. If this was really happening... if the game really was not just a game anymore, then she had to take full advantage of every resource at her disposal.
+
+This was bigger than just surviving the next floor. This was her life now. The boundaries between the real world and the game had shattered, and Celica could tell countless opportunities would slip through her fingers if she didn’t act quickly.
+
+Celica took a deep breath and then looked down at her own body. She flexed her fingers. The stats from The Ten Realms had carried over and she noticed that earlier, but she wanted to test it again. To test if everything had carried over.
+
+Testing her agility, she darted across the room in a blur of motion, her feet light against the floor. Her movements were fluid, almost unnatural in their precision. She stopped, spun, and balanced on one leg, holding her position easily. Celica smiled to herself. It’s one to one. Her agility stat was as real in the physical world as it was in the game.
+
+Next, she flexed her arm, pushing herself up from the floor and testing her strength. Every muscle responded to the effort, and it wasn’t just the feeling of having more muscle. Her entire body seemed to be more aware and attuned. The difference was palpable.
+
+It’s real, she thought, her heart pounding with the rush of the realization. The power of the game had seeped into her very bones.
+
+She took a few steps back and then, with a small smirk, she tried a familiar trick. She moved strangely in a quick, erratic motion, expecting to teleport or skip. But nothing happened.
+
+She exhaled slowly. I thought so.
+
+It had been too much to hope for. The glitches, the mechanics, and the absurd ways she could manipulate the game world—they didn’t transfer. It wasn’t the game’s engine that had moved with her into reality; it was the stats.
+
+Celica sighed but she didn’t feel defeated. There was still too much to experiment with, and too much she didn’t know. Her gaze fell to the small, glowing icon in the corner of her vision. She had tested her body, but what about her inventory?
+
+Celica reached forward and imagined pulling out a random item, something simple. She focused on the pale herbs that slimes dropped. In a flash, a small bundle of dried herbs materialized in her hand. They were just as she remembered, crushed leaves wrapped in a soft cloth.
+
+She grinned in disbelief as her heart began to race, realising exactly what that meant. She tried again, pulling out a few health potions. They materialized in her hands, bottles clinking together with a reassuring sound.
+
+She immediately placed them back into her inventory, watching the bottles disappear without a trace, and a small jolt ran through her.
+
+This was the opportunity she’d been waiting for.
+
+She wasn’t just in the game anymore. She was in the real world, but she had access to the resources of another dimension. It was like she had stumbled into the most powerful cheat code imaginable.
+
+Immediately, Celica picked up the tea cup and attempted to place it into her inventory. No luck. She tried again with a plate, but the same happened. So, I can only store in-game items in the inventory...
+
+Her mind started to buzz with calculations and ideas. Potions could be sold. Herbs could be used to make medicine. What about crafting materials? How could those be turned into something useful? Or even... profitable?
+
+If she could bring certain rare items back to Earth, especially ones that could offer practical benefits to people, like health potions or tonics, she could change her entire life.
+
+“Hehehe...” A creepy smile crept onto her face.
+
+With this, she wasn’t just a pro gamer anymore; she was a businesswoman with access to an entire world of untapped resources. And right now, those resources were hers for the taking.
+
+Her mind wandered further. What if she could find a way to combine this with something bigger? Maybe she could form a pharmaceutical company focused on the medical benefits of these items.
+
+Or an auction house where the ultra-wealthy could bid on rare, game-exclusive goods. Maybe even something more underground, selling special gear, rare crafting materials, and exclusive buffs to the highest bidder.
+
+There would be risks, competition, and likely plenty of people who would be interested in controlling these assets. But she didn’t mind. To her, what stood to be gained was worth the risks. Besides, she was the only person who knew the true value of a lot of items—especially some of the late-game ones.
+
+As she mulled over the possibilities, a more pressing thought crossed her mind. How do certain “cure-all” items work in real life? Could they cure incurable diseases? Because if it could... there was someone she wanted to save. Before it was too late.
+
+She sat down, not allowing herself to pace around the room anymore. She wanted to get started taking advantage of her maxed-out gold and numerous items but... how?
+
+Celica was deep in thought about the logistics of her money-making scheme, when a sharp knock on the door broke her concentration. She stiffened. It was rare for anyone to visit her.
+
+Reluctantly, she stood up, walking slowly toward the door, her mind still occupied. She swung it open, half-expecting a delivery or some kind of mail. But the sight that greeted her left her frozen.
+
+Standing there was a little girl, not too different to Celica in appearance. She had blonde hair and couldn’t have been older than eleven. She was clutching a necklace in her hands very tightly.
+
+The child’s face was red from crying, her small hand shaking as she held the necklace up to Celica, like an offering. The little girl’s voice trembled as she sobbed, her words barely audible.
+
+“H-help... everyone has... disappeared...”

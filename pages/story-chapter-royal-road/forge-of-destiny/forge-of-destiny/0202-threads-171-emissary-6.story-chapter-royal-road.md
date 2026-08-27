@@ -1,0 +1,189 @@
+---
+id: f18f7a23-ee53-5043-98b3-78bdcc9684a7
+page-type-slug: story-chapter-royal-road
+title: "Threads 171 Emissary 6"
+slug: 0202-threads-171-emissary-6
+partOf: forge-of-destiny
+position: 202
+ownLength: 2922
+unit: words
+publishedAt: 2022-01-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/820958/threads-171-emissary-6"
+royalRoadId: "820958"
+---
+
+She wasn’t sure what she had expected. Something more like the sun shrine, perhaps? But this place was empty save for her and her spirits, and the silence in it hung heavy like a thick cloak. Overhead, the ceiling twinkled with a thousand points of light like a clear night sky, and frost dusted the bare iron floor. The walls behind the statue were bare, but Ling Qi could sense twisting patterns of temperature in the black iron. She thought the patterns might have formed images, but her sense for that sort of thing wasn’t clear enough to make them out. At her side, Zhengui’s every step made a faint sizzling sound as the frost under his feet melted, and twin risers of steam arose from his mouths.
+
+The eyes of the statues seemed to fall upon her, twinkling and aware. The feeling of being watched made the back of her neck itch. As she approached the statue of the young woman, she glanced down at the floor and the pattern on tile that lay under the carpet of frost. At the center was a circle of polished blue and white surrounded by larger and larger concentric rings. On the next ring out was a sphere of tarnished silver, and the next ring had a circle of gold on the opposite side. Smaller circles of varying colors marked the rings that radiated out. It took a second for Ling Qi to realize what it was. Images from a book she had read while figuring out the vagaries of stellar and lunar qi came to mind. It was a depiction of the heavenly spheres.
+
+The people of the Polar Gates had pretty advanced astronomy.
+
+“Gui does not like this place very much,” her little brother muttered, stretching his neck from his shell to look at the statue depicting an older woman’s snarling face.
+
+“Gui should not whine,” Zhen hissed. He faced backward, eyeing the crone statue suspiciously.
+
+His voice shook her from her thoughts, and Ling Qi looked up at the statue looming overhead. The statue of the young woman was cold and metallic, yet nearly alive in its shape and silhouette. The folds of her iron gown seemed ready to rustle and move with the wind, and her chest seemed ready to begin rising and falling. An orb held to her chest gleamed with contained power. The young woman’s expression was resolute, and the line of her back and the set of her shoulders screamed of confidence and poise.  Blue light sparked in the eyes of cold iron, and Ling Qi’s breath hitched.
+
+Pride.
+
+Pride and rule. Guidance and responsibility.
+
+She felt as if she knelt once more before the throne of Xiangmen, pierced by the sight of something wholly beyond her.
+
+She felt small. What pride did she have? What right did she have to guide anyone? She was just a foolish girl who struggled to balance her own time and family. Even now, she wasn’t strong; she was always trailing behind others.
+
+She was still so often afraid.
+
+Imperious blue eyes stared back at her. They judged her.
+
+Ling Qi caught her breath then, staring once more at a visage of iron. She found herself subtly straightening her own shoulders as she looked on, feeling a stirring of pride in her chest. It was a spark of heat at first, and then a growing warmth.
+
+Though the final leg had been dangerous and painful, had they not made it here? Had they not crossed through most of the Wall in a matter of weeks? Had she not grown as far as she had in less than two years, shooting up to tread just behind the prodigies of great houses? Had she not done so without abandoning her family and responsibilities and becoming a hermit cultivator?
+
+Things were far from over, and their actions--her actions—might still change the path of nations, if only in a small way. She couldn’t claim full credit for that, but there was no point in shrinking from the accomplishment.
+
+Yes, she was still just a child lacking in clarity and decisiveness, but that would come in time.
+
+The moment passed, and worry and self-recriminations for mistakes returned to nibble at her thoughts. The injection of pride still burned in her spine, but she had to wonder what it had meant. Why had she thought of herself as a child? Was it Black Skies Yearning’s words haunting her? Was it simply her weakness?
+
+Ling Qi took a shuddering breath and lowered her eyes from the statue’s face. Clapping her hands twice, she bowed her head.
+
+“I think I like her,” Hanyi said. Beside her, the young spirit looked up, her expression one of admiration. There was no sign that she had felt any of what Ling Qi had. “I wanna be a lady like that.”
+
+“You’ll get there,” Ling Qi said, touseling her hair. She couldn’t even disagree. It would be nice to be so self-assured and powerful.
+
+<It’s not all about power,> Sixiang murmured. <And oh, moons, does this feel weird. Is this what being disapproved of feels like? I’m not actually totally feckless!>
+
+“You’re not, most of the time,” Ling Qi agreed, drawing a curious look from her other spirits. Despite Sixiang’s words, it did come down to power though. Without it, she couldn’t accomplish anything.
+
+Examining the lower portion of the statue, the dais it stood upon, Ling Qi wondered what the appropriate offerings for these foreign gods were. She saw no place for incense, but… Ah, there was a well hidden grate. Libations, then?
+
+As she was pondering this she heard the faint brush of cloth against the floor at the entrance of the chamber and turned her head. There, she saw a young woman in a plain brown robe belted at the waist and marked by repeating, stitched patterns. Her head and the upper half of her face was covered by a black headwrap. In one hand, she held a stone bucket filled with water, and in the other, a somewhat ragged piece of cloth.
+
+They were clearly the tools of a cleaner, but bafflingly, the girl felt like a third realm, if a new one, to her senses. It was more startling that she hadn’t noticed the other girl sooner.
+
+The most alarming thing though was that the girl had no heartbeat. Ling Qi could feel her breathing, but there was no pulse in her chest nor warmth in her veins. Yet Ling Qi was quite certain that she was human and not a spirit.
+
+The other girl seemed startled as well. The water in the bucket sloshed as she came to a sudden stop. “Forgiveness for my intrusion, Emiss—” the girl began to say only to stall and fall silent as she turned her blindfolded head, first toward Hanyi and then Zhengui.
+
+“It’s fine. I am only a visitor,” Ling Qi said, studying her. The other girl’s hands were covered by dark blue gloves. In fact, the only part of the girl visible was the narrow slice of flesh around her pale blue lips, as well as her neck. “I apologize if my presence is inappropriate.”
+
+“The lesser shrine is open to all. I am merely here to clean, Emissary,” the girl demurred, holding the rag up to her chest. The liquid in the bucket sloshed with the motion and Ling Qi realized that it must be some kind of oil, both from the scent and the fact that it wasn’t frozen. “I will wait if you require more time for communion.”
+
+“No, it’s fine,” Ling Qi said with a faint frown. Hanyi ignored the newcomer, continuing to stare up at the statue of the young woman. Gui eyed the girl warily at her side, though Zhen’s gaze remained fixed on the statue of the old lady. She turned back to the statue. “Why is no one here? The other shrine was much more lively.”
+
+She heard the shuffle of the girl’s cloth slippers on the frosted ground as she entered the shrine behind Ling Qi, moving toward the central statue of the older woman. There was still no heartbeat, even as she strained to hear it. “This is a small and peaceful outpost. The warriors do not need to offer blood to Fryja, nor silver to the Crone often outside of their holy days, and Lady Jaromila and the Voice have their own worship place for Sudica.”
+
+Ling Qi hummed in response, looking up at the regal figure before her. “This is ‘Sudica’ then?”
+
+“Yes, Emissary.” The girl knelt before the middle statue, and there was a sound of splashing liquid before the girl began to polish the dais, scrubbing away the faint stains of old blood. That made the scandalous woman with the axes “Fryja” by process of elimination.
+
+“I admit, I am very far from home. These names and faces you give to the great...” Calling great spirits “gods” wasn’t in fashion among imperial cultivators, but it seemed to be here. “... the gods are unfamiliar to me. It seems to me that the Sun should be matched to the Moon, but that doesn’t seem to be the case here.”
+
+There was a moment of quiet as the girl continued her cleaning work.
+
+“The moon is only part of the night sky and the cold it brings.” The girl seemed bemused. “The bright moons are the lantern of Sudica illuminating the night and its terrors. The crescents are the axes of Fryja, raised against the stars. The black moon is the cloak of the Crone, thrown over the world that good folk know to close their homes and pray, so that her curses touch only the demons of the night.”
+
+<Feh, Grandmother’s not just a lantern,> Sixiang complained to Ling Qi. <... But I guess that’s not quite right. I have a feeling I’d be sunnier if I was born down here. Ugh, the shame of it.>
+
+Perhaps, Ling Qi thought, considering the statue above her. Or perhaps they just didn’t know enough to see the connections yet.
+
+“Hey, how come you’re dead?” Gui asked sharply, startling her. He rarely spoke out of turn. At her side, he had grown larger, not taking his eyes off the girl.
+
+“Zhengui,” Ling Qi hissed chidingly. She gave him a stern look, and his head sank. “I’m sorry. That was a rude insinuation.”
+
+The girl looked puzzled, turning her head towards them from where she knelt on the floor. “It’s fine, I think?... Lady Emissary, what is that spirit at your side?”
+
+“Zhengui is my companion and...” Ling Qi paused. It was probably better to avoid confusion. “... little brother. Not by blood, of course.”
+
+Zhen briefly pulled his eyes away from the Crone to peer up at her.
+
+The girl looked even more puzzled after her answer. “I see. Do your lands lie at the northern gates then?”
+
+Ling Qi was growing concerned that she and the girl were talking past each other now. “I do not think so,” she said slowly.
+
+“Oh, that makes more sense,” the girl said to herself. “The tales always said the northern gates were a world away. Your spirit feels like the spirits of the earthflames that ring the Polar Gates.”
+
+Gui perked up. “Gui is new, but Gui is very good at making fire come out of earth.”
+
+“I, Zhen, am better,” his other half muttered. “But why does Nameless Girl have no heart if she is not dead?”
+
+Ling Qi winced. He wasn’t letting that go. “Zhengui, I’m sure it’s just an effect—”
+
+“Oh,” the girl said, wringing out her rag. “I offered my heart and eyes to my godmother as my ascension price,” she said proudly. “It was a dangerous choice, but I’m certain it was the right one. I will complete my first quest and craft a new heart before my mortal one decays.”
+
+Ling Qi stared at the blindfolded girl. She couldn’t actually mean…
+
+<Yyyyyyeah, that’s a really big scar,> Sixiang observed. <I didn’t think you meat folk could open yourselves up like that.>
+
+For once, Ling Qi didn’t even chide Sixiang for peeping. Instead, she just recalled her time in the burning library and the book Hanyi had brought about the mountain folk and their self-mutilating cultivation practices. She had thought it was just an imperial exaggeration.
+
+Apparently not.
+
+“Oh, wow. You can just make yourself a new one? That’s so cool!” Hanyi piped up, finally drawn into the conversation.
+
+The girl beamed, looking pleased at the praise.
+
+Ling Qi looked back at the statue of Sudica. Clearing her throat, she said, “If I may ask, I am unfamiliar with the names that your people give to the great—the gods. Could you tell me more of Sudica? She seems like the patron of emissaries.”
+
+“She was the first,” the girl explained. “When the Daniar and the other new tribes arrived through the gates, Sudica and her sisters were those who wisely saw that allowing old and new tribes to war would only bring victory to the Outer Night. She gathered the first Great Althing and laid down the first laws of the confederation. In her apotheosis, she became the face of early winter who prepares us for the Night.”
+
+So, an ascended cultivator. Something kind of like the Sage Emperor for them then. “Is that what the emissaries do then? They keep everyone connected?”
+
+Nodding, the blindfolded girl set down her rag. “Yes, to be an emissary is to be one who speaks to both the gods and kings and ensures that the conflict between wanderers and landsfolk does not rise to the level of kinstrife. To have been given as an initiate to the cult of the Threefold Winter is a great honor.”
+
+Well, they said that these three were not just the Moon, but it certainly sounded similar enough, albeit with three aspects instead of eight. This Sudica seemed to blend the Reflective and Guiding Moons.
+
+“Thank you for your time,” Ling Qi said, bowing her head. It was a small thing, but Ling Qi felt more certain about how to act now. She was glad that she had approached the way she had thus far. “Ah, I’m sorry, but your name…”
+
+“I have not earned my true name, but right now, I am Initiate Sveta, Emissary,” the girl replied.
+
+“And I am Emissary Ling Qi,” she returned. “I will let you get on with your tasks and stop distracting you then.”
+
+“It is no trouble. I can clean and speak,” Sveta said cheerfully. Really, her attitude was disconcertingly at odds with her appearance. “If time allows, might I be allowed to ask what faces of the Goddess you follow, Emissary?”
+
+“I suppose,” Ling Qi replied. It would only be polite.
+
+***
+
+By the time she left the shrine, a fair amount of time had passed. Sveta had been baffled by her explanations. She saw the Crone in the Hidden Moon, but Ling Qi’s other patrons seemed to not match up well.
+
+They were very manly apparently. Sixiang hadn’t stopped snickering for a while after that.
+
+Still, as they left, Ling Qi’s gaze turned back to her little brother. He had been quiet during the ensuing conversation. “What were you seeing, Zhengui?” she asked gently as they left the shrine and Sveta behind.
+
+“Destruction,” hissed the serpent, bereft of his usual aplomb. “Zhen sees Winter. It is as hungry as fire.”
+
+“Well, duh, I could have told you that,” Hanyi said. She walked with her hands behind her head, wholly relaxed. She had liked the shrine.
+
+“Hanyi eats a lot, but not that much,” Gui muttered.
+
+Hanyi shot him a dark look, which seemed not to affect the shrunken tortoise.
+
+Ling Qi’s attention remained on Zhen.
+
+“I, Zhen, think I have learned something. I am looking forward to working with Big Sister more,” he said, still seeming lost in thought.
+
+“Me too,” Ling Qi agreed. It really was past time for her to stop waffling on some things. She had no right to the pride the statue had thrust into her head, but it was true that she had let herself lack clarity for too long on some matters.
+
+A heavy footfall reached her ears from up the hall. Ling Qi looked up curiously and felt the approach of Gan Guangli. He rounded the corner shortly thereafter. He looked both thoughtful and a little harassed.
+
+“Ah, Miss Ling, there you are!” he said, waving to her from down the hall.
+
+“Gan Guangli?” Ling Qi asked, nonplussed. “Is there something wrong?”
+
+“No, no,” he dismissed with a nervous chuckle as they met in the hall. “Sir Osrik was just insistent that I find you if I was leaving.”
+
+Ling Qi raised an eyebrow.
+
+Gan Guangli’s shoulders sagged, and when he spoke, it was at a much lower volume than his usual boom. “Is this what it is like to be an unmarried young lady? Treated as if you cannot possibly fend for yourself?”
+
+“I wouldn’t know,” Ling Qi said wryly. “I’ve hardly been a lady long.”
+
+Gan Guangli sighed. “I suppose. Still, as kind and knowledgeable as Sir Osrik was, I found the need to go somewhere less stifling. Where did you plan to go next?”
+
+Ling Qi hummed to herself. The group should start gathering back up soon to discuss their findings.
+
+“To the dining hall,” she decided. “I can sense Meng Dan around that way.”
+
+“Allow me to follow your lead then, Miss Ling.”

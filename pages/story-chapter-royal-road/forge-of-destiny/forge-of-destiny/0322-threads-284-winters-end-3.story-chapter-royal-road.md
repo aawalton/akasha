@@ -1,0 +1,119 @@
+---
+id: cd28cb9b-4a18-592d-b16d-2b3919d9284a
+page-type-slug: story-chapter-royal-road
+title: "Threads 284-Winter's End 3"
+slug: 0322-threads-284-winters-end-3
+partOf: forge-of-destiny
+position: 322
+ownLength: 2423
+unit: words
+publishedAt: 2023-02-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1113284/threads-284-winters-end-3"
+royalRoadId: "1113284"
+---
+
+Hanyi began to sing, and Ling Qi listened closely. The song was light and graceful, resembling the piece Ling Qi had helped her compose some time ago for that last concert before the journey south, but this version was more strident and mature.
+
+And as Hanyi sang, flurries of snow crystallized in the wind that whipped up around her, resulting in falling flakes and pebbles of hail. The bite of the wind grew sharper, and the hems of her gown kicked up as her bare feet left the stone, carried aloft on the wind. Ling Qi felt Hanyi’s qi thinning, diffusing out into the surrounding air. The flurries soon became a curtain of snow and sleet.
+
+A veil of glittering frost lengthened her gown, shadowed Hanyi’s face in a veil of shadow and crystal. The song grew softer as she seemed to retreat into the snowfall, a lithe shadow in the snow.
+
+This was a song about the coming of winter, the cold wind entering the stage, and the beauty of the first snow, falling in sparkles upon the earth.
+
+Ling Qi reached out a hand, feeling the driving snow on her fingers, infused with a potent qi that left a faint buzzing feeling on her fingers as it tried to drain away her qi. She felt the tug at her mind too, riveting her attention on her singing little sister. The power of the technique muddled a bit on her, unable to take hold on her thoughts, but…
+
+<False affection, and a desire to protect. It’ll be really hard for anyone to take aim and hurt Hanyi on purpose,> Sixiang whispered.
+
+And it was preparation. Ling Qi could tell that the ice qi was filling the air with snow, potent and ready for use in further techniques, and it was also diffusing what did try to strike the singer through it. A strong opening move.
+
+Ling Qi smiled at the shadowed maiden’s silhouette. “Hanyi, did you really make a technique just to seem taller?”
+
+The haunting song cut off, and the shadow in the snow glared at her with glittering white eyes, planting hands on her hips. “Big Siiiiis, let me be cool!”
+
+“You’re very cool, for sure,” Ling Qi soothed. She stepped into the falling snow, ignoring the faint tingle the flesh-shattering chill left on her skin, and wrapped her junior sister in a hug. Up close, the ice that had gathered, lengthening Hanyi’s gown and veiling her face, did look very elegant. “I’m just teasing. It looks very effective. It sets up for other techniques, right?”
+
+Hanyi stepped back, frost glittering on the front of her gown, and she crossed her arms irritably over her chest. “Hmph, yeah, it does. It’ll let me build up my power, and protect me while I do.”
+
+“It’s a good idea for an opening,” Ling Qi said thoughtfully.
+
+“So, what do you have, Big Sis? Thought of how you're going to start your song yet?” Hanyi challenged.
+
+“I’ve had some thoughts.”
+
+After the conversation with Jaromila in the south, her performance as the Diviner Tsu at the Sect, and even the visit in the Dream to the crone’s hut only a few days ago, she had come to a conclusion on truth. Endings, the ones she created and the ones she inflicted, should pave the way for something new. If she killed, she wished to do so knowing that there was some purpose, and that a goal was advanced or improved in the doing.
+
+<Most people want to think that. It doesn’t stop what we saw under that mountain,> Sixiang whispered.
+
+That was the trouble when thinking in terms of seasons and of cycles. It was easy to find only stagnation and endlessly repeat her actions in the hopes of a different result. Maybe this was the wrong way to approach the subject. Shu Yue’s words and the expectations of Cai Renxiang’s mother, too, were also relevant.
+
+Even if one turning rhymed with the last and even if there were certain base similarities in the cycles, they were not the same. Cai Renxiang was not Cai Shenhua, and Ling Qi was not Shu Yue. Else it was worse than worthless. It was only the horror and nightmare they had trodden lightly on in the dream.
+
+And she had found some support for that concept in the writing of Meng artists and in meditations on the turnings of years and centuries and on loss and nostalgia.
+
+The seasons turn, but the past year is not repeated.
+
+“Hey, Big Sis, you just gonna stand there looking mournful in the snow?” Hanyi called out, shaking her out of her thoughts. Her junior sister stood there in her normal garb again, arms crossed and an eyebrow raised.
+
+“Sorry, I lost myself in thought,” Ling Qi said ruefully. “I was going to show you some of what I had in mind, right?”
+
+Ling Qi began to hum to herself, turning away from Hanyi to stride across the cold stone well away from where her junior sister had made her own display. Faint outlines of frost formed around her footfalls as she did, and in her hand, a length of clear blue-tinted ice began to form. It was a flute, glittering and half-transparent, much like Zeqing had once used while instructing her. She raised the flute to her lips, allowing her eyes to drift closed as she began to play some experimental bars.
+
+The Aria of Spring’s Ending was the first technique of Zeqing’s Frozen Soul Serenade art. It was a melody that sounded off the end of warmth and heralded the obliteration of life. Here, in the eternal cold of the mountain peak, there would never be a spring, but that’s not the type of song that Ling Qi wanted. Hanyi had chosen to focus its cold emanations upon herself, retaining its defensive properties while transforming its aesthetic, making it her gown and veil.
+
+In contrast, Ling Qi wished to focus it outward. To that end, in her mind's eye, she envisioned Ice. She envisioned ice like that which covered the mountain peaks or which blanketed the southern lands and the peaks of the Wall creeping across every surface and foe, stilling and silencing to put the world into slumber. She envisioned a field of ice flowers blooming from the old and the stagnant and the dead, shattering and releasing their heat.
+
+Ling Qi’s Ending was not the stasis of a mountain peak above the clouds but the winter cold that preceded a new dawn and spring. Though the spring was not her, maybe one day, she could create a song to complement her successor art, but more likely, it would be another’s role to represent the storm of spring.
+
+The core of the Frozen Soul Serenade art was violence. It was a cold that killed others. It could be brought by inches to draw upon other concepts for additional functions, but it could not shed its core.
+
+And Ling Qi did not think it would be good to do so either. She did not want to see the terrors of the past repeated forever, but in the end, change was violence. To create a new world, the old must die. And those slated to die, to have their world die, could only ever respond to change with violence to preserve themselves.
+
+This, she thought, was similar to the  sacrifice the crone had spoken of. People would sacrifice everything to achieve the world they wanted. So, if she were to do violence, there needed to be a purpose in it rather than change for its own sake.
+
+Ling Qi hummed the first bars of the Spring’s End Aria, feeling her qi rapidly flow into the old patterns, chilling the air around her. And then she stopped and hummed another bar, similar to her master’s melody but different. She felt the qi of the technique waver and begin to unravel, sending a twinge of pain through her meridians, and instead of allowing it to do so, she changed the flow and realigned the pattern.
+
+Her humming became a quiet, wordless song, harsh and hard. The billowing cold of the Spring’s End Aria tightened up around her. Around her feet, a spider web of pale blue translucent ice began to spread in a fractal pattern. The temperature plunged, and from the dry air here above the clouds, what little moisture there was frozen in gossamer sheets, swiftly shattered into flying, near invisible shards by the mere brush of the wind.
+
+World’s End Aria. The name came to her as she sang, letting the wind lift her into the air. There were many worlds, big and small, and it was not terribly hard to end them. But the name didn’t feel right yet. Not for a song still being worked on.
+
+Year’s End Aria. That would do for now.
+
+Her song stole away all traces of heat and the motion of the wind, stilling the air around her. Ling Qi sang and narrowed her eyes at the shimmering ripple of a wind spirit, a minor elemental faerie not even really an animal yet. The cold sucked inward, a film of frost and ice over her skin as she focused her power.
+
+The wind faerie froze, losing all motion, and shattered into fine crystal dust in the wind.
+
+Below, Hanyi laughed and clapped her hands, resuming her own song, calling up the snow and garbing herself in ice. Wind carried her up to the top of a stony escarpment where she stood and sang across from Ling Qi.
+
+Ling Qi reached out, caught Hanyi’s hand, and carried her up into the skies. Zeqing’s home and grave lay below, a mound of stone and snow, quiet and lifeless. Yet as they sang, Ling Qi could not help but feel that she felt someone stirring, the deep and deathly cold qi of this place rippling ever so slightly.
+
+Ling Qi let her eyes drift shut. A flute of ice hovering at her lips was played through pure manipulation of the wind. Different patterns, different bars, a song being written and rewritten. It was not time yet. There was no one here. One day, she hoped there would be.
+
+But for now, they would fly for the static mountain peak was not the right place to finish their songs. The land below which knew seasons other than endless cold would be needed for this composition.
+
+And so they flew down below the clouds where the land was green. She had already gotten leave from the Sect for this. Ill omened beasts and poisoned things from beneath had begun to gather in a section of forest in the Outer Sect, worrying at the wardings that protected mortals. Although clearing them was Outer Sect work normally, it would still be useful for training.
+
+She and her junior sister descended on the browning patch in the canopy in a cloud of falling sleet and snow. Where the toes of her slippers touched down, the ice came, a spreading crystal web beneath her feet. Leaves grew white with frost, then stiff and frozen, captured in a skin of translucent ice. Beasts and dark spirits fled, growing slow and sluggish where her gaze turned.
+
+The light snow Hanyi brought dusted the rapidly crystalizing treetops, already beginning to groan and droop under the weight of her ice, and her lovely song and outstretched hands brought the fleeing to heel, crawling back in worship of winter’s idol, unable to pull their attention away from her purity and beauty.
+
+Her junior sister vanished from her side, a cold breeze swirling and dancing around one enraptured creature after the next. Hanyi drew in their heat with each intake of breath and left behind corpses covered in snow. She flitted between one and the next without movement and steps, drawn to the qi they all but offered up in a stupified haze.
+
+Ling Qi knew herself to be the darker figure of the two of them. She loomed, a tall shadow stretching under the frozen canopy and distorted by the glimmering light that peeked through the dense ice.
+
+She walked, and the world darkened in her wake, sleet and creeping ice. A beast, a great red and black bear covered in tumorous growths, driven mad by pain and toxin, roared and charged toward her, splintering frozen trees in its wake. And Ling Qi stepped past, playing her flute, and the sharp, cold notes flayed away layers of defensive qi.
+
+She walked on, a gleaming statue left behind her.
+
+And another, and another, refining the verses with each passing foe. The seeping cold spread through the tainted grove, and the branches sheathed in ice and heavy with falling snow drooped near to the ground.
+
+This was the Frozen Night’s Refrain.
+
+Hanyi appeared back at her side, a smug smile behind her frost veil, and streamers of heat erupted from all who had been swayed by her song. Her junior sister drank it all in, her eyes lighting up, the shadow of pale blue iris shading into her milky white eyes. And where she grasped Ling Qi’s hand, Ling Qi felt a little warmth too, a bare trickle of qi, but qi all the same.
+
+Ling Qi considered the area as her own targets began to stir, the faint sound of cracking ice filling the grove. She had held back to test out the final technique of her successor art. It was no longer the Call to Ending, but a shadow still remained of the coda of absolute silence that erased all noise.
+
+She sang, her qi flooding outward into the shards of icy cold left in the meridians of beasts and tainted spirits. They cried out, a crescendo of noise that joined her song, a melody like the cracking of ice floes and the thundering of released waters. From every ice surface, frost flowers bloomed, pale white, blue, and a hint of pink on those that grew from the rime on flesh.
+
+And then they erupted. Petals and ice and snow and wind transformed the grove into a cloud of depthless white and and silence. Ling Qi felt the qi flow back to those around her, to Hanyi and even Sixiang, who stirred in her mind, feeling the surge of vitality and power.
+
+The old did die, and in death, they rang in the spring. This successor art was incomplete yet, still drawing much from the original Frozen Soul Serenade art, but she had the foundations down.

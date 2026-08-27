@@ -1,0 +1,109 @@
+---
+id: b09d5155-7d31-5105-ab43-495f7392356c
+page-type-slug: story-chapter-royal-road
+title: "Threads 89-Deals 2"
+slug: 0110-threads-89-deals-2
+partOf: forge-of-destiny
+position: 110
+ownLength: 1737
+unit: words
+publishedAt: 2021-05-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/687906/threads-89-deals-2"
+royalRoadId: "687906"
+---
+
+The meeting place they had decided on was out near the quarry site that they had investigated together shortly after Bao Qian’s arrival. When Ling Qi arrived, she found Bao Qian and his wagon parked about half a kilometer from the work site. As she descended from the sky, he was standing before a collection of stone blocks, half a dozen in various shades and textures. As she alighted on the ground, Bao Qian looked up and grinned, abandoning his geological contemplations.
+
+“Miss Ling, you’re early, I see. Eager to conduct our business then?” he asked.
+
+“It’s better to be early than late,” Ling Qi replied politely. If only to get a better chance to scope out the venue, she thought. “I hope you do not mind if I let my spirits out. They will be part of the negotiation as well.”
+
+“Of course, of course, “Bao Qian said, gesturing for her to follow him to the other side of the wagon. “I hope you’ll excuse me if Yinshi isn’t about. She’s taking care of some, ah, blunt discussions with the local spirits of earth and stone regarding her diet and the quarry here.”
+
+“I don’t take offense,” Ling Qi said. A silent thought went out, and behind her, two shapes, one large and one small, began to materialize as she followed Bao Qian to where a polished wooden table and a pair of field chairs had been set up. A tea pot was steaming merrily. “How have things been going out here?”
+
+“Well enough, well enough,” Bao Qian said agreeably. “It seems that the, hah, seams of valuable material are ready for a bit of careful harvesting.” Arriving at the table, he turned back to face Ling Qi and her spirits. “In any case, welcome, guests! I hope you will forgive the humble accomodations and lack of refreshment.”
+
+“That is also fine,” Ling Qi said dryly. “Thank you for not trying to overwhelm me with wealth and finery.”
+
+“Tch, Big Sister is way too humble,” Hanyi grumbled, eyeing their surroundings and Bao Qian with a devious gleam.
+
+“Hanyi is just greedy,” Zhen said with a haughty flick of his tongue. “Big Sister knows that she does not need to show off.”
+
+Bao Qian just chuckled at the interplay and gestured for her to take a seat as he did so himself.
+
+Ling Qi eyed the table where there were only two seats. That was well enough for Zhengui, but it left Hanyi out. Was it an oversight or an expectation? She supposed it didn’t matter. He had asked that she be blunt and open, so that was what he would get. Pulling out her seat, she gestured for Hanyi, and the young spirit grinned brightly, jumping up into her lap. For once, her height did her some good in allowing it despite Hanyi’s growth.
+
+She met Bao Qian’s eyes as Zhengui settled down beside the table, his head still level with theirs despite lying down on his belly. He chuckled and offered a brief bow of apology.
+
+“Since we are all here, why not begin by laying out our starting positions?” Bao Qian continued smoothly, moving to pour himself a cup of tea. It was a very dark blend, nearly black and had a rich fragrance.
+
+Ling Qi eyed him curiously. “What do you mean?”
+
+“This is a friendly negotiation, so it would be better if we both stated our goals for negotiation, would it not?” he asked. “I can go first if you—”
+
+“Gui wants to contribute to his sister so that she can have as many shiny stones as she likes,” Gui announced bluntly, looming over the table.
+
+“I, Zhen, concur,” his other half announced proudly. “But Zhen will not allow the Sparkly Man to tread on either my or Big Sister’s pride either.”
+
+There was a moment of awkward silence, Ling Qi coughed into her hand to hide the slight darkening of her cheeks. “Thank you very much, Zhengui.” Maybe they should have rehearsed this before arriving.
+
+<Nah, you’d just muck it up and get all stiff. Remember what you’ve learned, and just go with the flow,> Sixiang whispered.
+
+“That is certainly a clear declaration of intent!” Bao Qian laughed. “Very well then. I wish to make a profit as the go-between for a unique spirit and his lovely sister to fund my other business in the region.”
+
+“Other business?” Ling Qi queried.
+
+“Prospecting, and the business with the recordings,” he answered. “Recent developments have significantly reduced the cost of high fidelity spiritual recordings. I was not just flattering you, Miss Ling. I smell a genuine opportunity for a new market.”
+
+Ling Qi kept her expression blank. She had paid him a green stone for a single recording device. That was reduced? “I see. Well, I wish to ensure that my cultivation funds remain steady and that I have savings remaining after I take leave of the Sect. I also wish to have a friendly relation to the Bao family.” She paused, and she could feel Hanyi vibrating in her lap, clearly eager to break in. “And I would also like to arrange matters so that Hanyi can begin to make use of your services to distribute her songs.”
+
+Bao Qian’s eyebrows had begun to rise as she made her additional request and had climbed to his hairline by the time she had finished. “That is an unexpected request,” Bao Qian said with a hint of doubt. “Is she…?”
+
+“I’m not as good as Big Sis, but I am a really good singer!” Hanyi boasted.
+
+“Her mother was a mentor of mine,” Ling Qi explained. “She has a lot to learn, but I can vouch for her talents.”
+
+Bao Qian considered this. “Mm, there will be a stigma to deal with in the northern markets. Not what I would have wanted for my launch piece,” he thought aloud. He fell silent, studying Ling Qi. She could not easily read his face or thoughts on the matter.
+
+“I would consider it a personal favor,” Ling Qi said bluntly.
+
+Bao Qian let loose a sharp bark of laughter at that. “How can I refuse then?” He scrubbed a hand through his short hair in consternation. “I suppose I can attempt to spin it as promoting a local fashion to the regional level and go from there. Yes, that might work…” He shook his head. “In any case, let us discuss our main business, and then, we can discuss the logistics of Miss Hanyi’s performances. How much ash can Sir Zhengui produce in a week?”
+
+“Many, many wheelbarrows when the food is good,” Gui announced proudly. Ling Qi wondered how he knew that.
+
+Bao Qian grinned wolfishly. “Tell me more.”
+
+***
+
+They continued to speak for several hours as the sun crawled toward the horizon, hashing out the many, many details of delivery, sales percentages, and other things that left Ling Qi feeling tired out. Even then, the negotiations paled in comparison to the needs of setting things up for Hanyi, such as how many songs she would compose for the initial run, by what deadline, the subject matter of the melodies, and on and on.
+
+In the end, they worked out what Ling Qi thought was a fairly good deal. Bao Qian would pay her five green stones for one month’s worth of Zhengui’s ash, to be collected at her expense. Bao Qian would keep the profits from the first month’s sale. For each month following, he would provide one green stone for the ash, but he would also split the profits of the sale with her, fifty five parts to forty five in her favor.
+
+Hanyi’s situation was less clear cut. It would take some time for him to “promote” her and receive significant sales. Ling Qi would pay two green stones, taken from Zhengui’s end of the deal, to help cover the material costs of the first run, and they would split the initial sales, sixty parts to forty in Hanyi’s favor. They would renegotiate at the end of the year when the situation became more clear.
+
+Ling Qi could end either contract without penalty, but there would be a three months grace period from the date of cancelation.
+
+Ling Qi leaned back in her seat with a sigh as they finally hashed out the last of the contract language. It all looked fair to Ling Qi, but all the same, she was going to ask Cai Renxiang to review it before she signed. Bao Qian might have an advantage in cultivation, but she trusted her liege to cut through any legal deception like a sword through paper.
+
+Hanyi and Zhengui had made a valiant effort to stay interested and engaged, but after the second hour, she had excused them to go ramble through the local woods.
+
+“Best get used to this sort of thing,” Bao Qian said, carefully folding his copy of the contract before vanishing it into storage with a flick of his wrist. “Such is life for those of us who choose to remain engaged with the world.”
+
+“Never before have I heard such a strong argument for going hermit.” Ling Qi eyed the darkening sky. “We’ll reconvene in two days to sign the contracts then?”
+
+“As the lady wishes.” Bao Qian stood up and bent backwards, eliciting a sharp crack from his spine as he stretched. Ling Qi kept her eyes fixed upward. “There was another, more personal matter I wanted to question you about.”
+
+Ling Qi tilted her head back down slightly. “And what might that be?”
+
+“It is my cousin,” Bao Qian said. “She approached me the other day to acquire some seafoam jade, but she wouldn't tell me what sort of project she was working on.”
+
+“Is that strange?” Ling Qi asked. “Your cousin is very private.” An idea germinated in her mind.
+
+Sixiang giggled. Ling Qi kept her expression straight.
+
+“No, it is not. Usually, she is proud enough of her projects to brag with a bit of prodding though,” Bao Qian mused. “Her demeanor was just… strange. She seemed very pleased, but not in the usual vindictive or superior way.”
+
+Ling Qi pressed her lips together in a thin line. “I can’t say.”
+
+He eyed her suspiciously, and she looked back blandly. “I suppose I shouldn’t pry,” he grumbled. “In any case, could I interest you in accompanying me to dinner tonight, Miss Ling?”

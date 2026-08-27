@@ -1,0 +1,103 @@
+---
+id: bc2533be-f1e5-5ab9-977c-d43bc563a54c
+page-type-slug: story-chapter-royal-road
+title: "Threads 18"
+slug: 0027-threads-18
+partOf: forge-of-destiny
+position: 27
+ownLength: 3415
+unit: words
+publishedAt: 2020-12-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/594684/threads-18"
+royalRoadId: "594684"
+---
+
+Ling Qi raised her flute to her lips, looking back at the eyeless visages of the rat things that were finally beginning to orient onto the two of them through the mist. There were more than a dozen of them, and the sand bulged with more burrowers. Ling Qi resumed her song, flowing effortlessly into the echo that had been kept going by her qi. The sound of her flute echoed eerily in the small cavern, turning twitching heads toward her as she strode towards the center.
+
+She began the Starlight Elegy, and the cloying mist grew colder and heavier. She watched dispassionately as a particularly quick rat thing that had thus far avoided the claws of her phantoms faltered and slowed, its limbs growing sluggish until a phantasmal beast tore out its throat with hungry fangs. The scene was repeated all across the cavern, again and again, beasts emerging just to die, most before they could even react.
+
+These things were not normal, Ling Qi could tell. Beasts, even spirit beasts, did not charge headlong into certain death like this, not without good reason. She supposed that she would find out those reasons with the arrival of the third realms. A rat thing loped and skittered toward her, letting out a chittering shriek though blood-frothed jaws, and she watched as it veered away from her to crash into the wall, torn by phantasmal claws. Beasts like this… They couldn’t even overcome her Diapason to find her in the mist.
+
+She began the final stanza of the Melody then, the Traveler’s End, and the image of a misty vale under the dark moon imposed itself over the sandy cavern. The echoing cries of her phantoms joined the melody as her qi lent them greater solidity. No more just disembodied claws, fangs, and hungry eyes, her phantoms were now stalking shadows in the shapes of beasts.
+
+As she laid down the technique, the first loping forms became visible in the tunnels. Bulkier than their burrowing counterparts with rubbery grey skin and visages that were more canine than rodent, the twisted beasts howled and gibbered, claws scratching and tearing at the stone. In response, Ling Qi’s flying sword shot out from the mist, letting loose a discordant wail as it soared down the nearer tunnel, sending the beasts within shying back, brackish black blood leaking from their ears.
+
+But there were two tunnels, and the ugly beasts were only stymied, not stopped. They poured into the cavern, first in pairs and trios, and then in growing numbers. The claws of her phantoms met resistance in their rubbery hide, though their hide could not stop them entirely. Larger beasts, less like twisted men and more like great apes in size and stature, stalked among their lesser kin, and their jeering howls hardened hides and sharpened fangs. Others had backs bristling with bony growths, tumorous and twisted but poking from diseased flesh with menacing points. Her phantoms were no longer enough against the growing pack. The creatures' attention was still on her, but Ling Qi was all too aware of her friend behind her, searching the walls of the cavern.
+
+So Ling Qi ensured that their attention would remain on her. With the Traveler’s End complete, the mist called by the Forgotten Vale Melody would sustain itself, and so she began her second song. Ice crept over sand, and a handful of rat things that had found their way close through coincidence, pushed by the growing mob, chittered in pain as frost spread across flesh and blood began to freeze. Ling Qi grimaced as she felt the things’ oily qi draining into her, and she sidestepped around clumsy lunges and snapping teeth. Most of the oily qi washed against her skin, leaving her feeling oddly dirty, but a trickle of qi flowed back into her reserves, restoring some of what she had spent.
+
+She had lost count of the number of beasts pouring into the cavern, and although the whistling wail of her sword lashed the bodies coming up the tunnels and her phantoms continued to do work, the mob of creatures were reaching her through the mazes of mist due to theraw crush of bodies. The cacophony of hisses and growls almost drowned out the echo of her melody. Yet she couldn’t afford to step back, and so Ling Qi made room in another way.
+
+The third technique of the Frozen Soul Serenade was not one she had used often in active combat. It lashed out at everything nearby, regardless of whether they were friend or foe. Li Suyin was well behind her though, so she felt no need to hold back. The shrieks of the beasts and the haunting melody alike were drowned out momentarily as the frigid howl of deepest winter rang out through the cavern. The beasts nearest to Ling Qi did not even scream, the sound lost in their throat as flesh and blood alike froze solid. Those further back gibbered and yowled, partially shielded by their nearer comrades, but great swathes of their rubbery hides still froze and sloughed off or cracked and wept viscous, slushy fluid.
+
+The fight was only just beginning though. The mob still numbered beyond easy count, and even the snarling storm of snowflakes that had sprung up around her in the mist, frozen moisture turning to short-lived snow, failed to deter the beasts. She felt the qi armoring the beasts growing thicker as more and more of the beasts reinforced each other, their filthy-feeling qi roiling and flowing together. Most still wandered off-course, getting turned around and running into their brethren, but Ling Qi was forced to duck and twist and dodge, avoiding a half dozen snatching claws and bony projectiles.
+
+Looking over the writhing mass of flesh as they poured forward, the sheer weight shattering their frozen comrades, Ling Qi spied something new. There, crouched on the lip of the further tunnel was another creature, smaller than most of them. The others slid around it, never once approaching. The new creature, an eyeless thing with rubbery grey skin and a canine visage, resembled the creatures of the second wave the most. Yet unlike the others, it crouched like a man rather than a beast, and around its neck, she saw a necklace of glowing purple stones carved into strange shapes. In its right forelimbs, it loosely held a strange stone knife.
+
+The thing let out a few barking yips that had the cadence of speech and then drove the knife into the sand. Even in the chaos of the scrum, Ling Qi felt the ripple of qi that washed over the horde. That one had taken the first steps into the third realm. Ling Qi did not have much time to think on that because suddenly, far fewer of the beasts were stumbling around, hopelessly lost in their effort to reach her.
+
+Faced with the snarling swarm now finally pressing down on her position in more than dribs and drabs, Ling Qi stepped forward. Dark qi flooded through her limbs, and she flowed through the storm of attacks like a wraith. Ling Qi had no time for thought, only reaction. Claws and slavering maws reached for her, and bony spines screeched through the air. She moved perfectly, flowing around strike after strike, while other attacks passed through her form in puffs of dark mist.
+
+All the while, she moved forward, every step carrying her further into her enemies’ reach. Soon, she was surrounded. Then winter sang, and beasts died. Claws that reached for her flash froze and exploded into pinkish mist, frozen blood swelling in suddenly rigid veins like the sap of a tree in the deepest depths of winter. She kept her eyes fixed on the third realm beast that was her goal. With a mental tug, she pulled back on her flying sword, recalling her blade from where it stymied the flow of beasts in the other tunnel.
+
+For its part, the beast that was her target seemed aware of its situation. It let out an alarmed bark at her unstopped advance, scrambling backward even as it raised its knife defensively. Another pulse of filthy qi rippled out, and the beasts around her let loose with blood-curdling howls.
+
+From the pores and jaws, a crimson mist began to emerge in thin streamers, mingling with the cloying fog of her melody. The claws of her phantoms, which had thus far still been tearing bloody lines in exposed flanks of dozens of beasts, began to deflect off of suddenly stony hides, and the creatures’ claws and fangs gained a metallic sheen that shone in the dull red light cast by the mist leaking from opened jaws.
+
+Through her connection to her sword, she also felt two other third realm presences approaching. Thankfully, the influx of lesser beasts was finally beginning to taper off. She felt something soft and viscous strike her Singing Mist Blade then, and suddenly, it could not move, stuck to the wall by something clinging and jelly-like.
+
+She couldn’t allow herself to be distracted by the capture of her flying sword. From every side came attacks, their ferocity and power greater than before. Plumes of sand were kicked up in their wake, choking the already flooded battlefield further.
+
+In that moment, all thought fled Ling Qi. There was only the cavern and the weapons of her foes. Viridian light gleamed beneath her robes as a facsimile of centennial bark spread across her skin, but she knew it would not be enough. And so, as she was attacked from every side, Ling Qi stilled.
+
+Ling Qi twitched her head to the right, avoiding a lashing claw that would have taken her eye by a mere millimeter. She stepped, and her body flowed a meter to her right, reforming from darkness and leaving a volley of crimson spines to strike the sand where she had been. There was no wasted movement. She avoided claws by a hair’s breadth, grew immaterial to gnashing fangs, and let those few that she could not avoid skate off of viridian bark and rustling cloth, nothing more than glancing blows.
+
+Ling Qi felt like she had finally understood the lesson taught by Sable Crescent’s Grace. She understood motion without motion and presence without presence. She found the moment of understanding fading quickly, but some knowledge remained, and she found herself dodging with a sable grace that she had not had before.
+
+She leaned to the side, avoiding the flung corpse of a rat thing with hardly a thought, and her flute sang again of winter. Even through their armor and bolstering qi, a dozen beasts died.
+
+Behind her, she heard a sound like shattering pottery, and glancing back, she saw Li Suyin standing by a hole broken in the stone wall. In the cavity beyond, slowly pulsating, fleshy eggs glowed with faint luminescence. At her back, Suyin’s guardians stood in a shield wall, and in front of them was a metallic cone atop a stake driven into the ground, hissing faintly as it discharged something into the air.
+
+In front of her, two loping figures emerged from the second tunnel. Like the other third realm beast, they were smaller than the other creatures and carried tools. These two wore bandoleers made of some pale leather across their chests, hung with pouches. They unholstered spears from their backs, and cackling high-pitched laughter spilled from their snaggle-toothed maws.
+
+Very few beasts were emerging from the tunnels now, but the cavern was still filled with the mass of flesh, despite her culling.
+
+It looked like the real fight was about to begin.
+
+Ling Qi considered her real foes, and they considered her in turn. The sounds of the gibbering swarm seemed to fade. The lesser spirits were effectively just the third realms’ weapons after all. As she stared at the knife wielder’s eyeless visage, Ling Qi admitted to herself that it was a relief to once again face down simple enemies, things that didn’t deserve mercy or consideration.
+
+All at once, the world seemed to come back to life. Her fingers twitched, and she played the first note of the Elegy again. Her enemy’s eyes widened, and it let out an alarmed yip, raising its knife as if to ward her off. As the mists churned and thickened, encircling the knife-wielding beast, its own oily qi pulsed, and Ling Qi blinked as she felt the net of qi she had woven slide off of the beast and snap shut around one of the ape-like beasts instead. The ape thing let out a piteous yowl as her qi entrapped it, throwing its head back and forth in a wild panic as her mist cut it off entirely from its fellows. Ling Qi had no time to consider her technique’s failure though.
+
+She dissolved into dark mist as a grey missile shot through where she stood a moment before, rematerializing atop the back of one of the many beasts still flooding the room. The spear-wielding beast that had lunged at her let out a high-pitched cackle as its oddly bent legs struck the ground and sent it rebounding toward the ceiling like a child’s ball. A second time, she slid to the side, avoiding by a hair the bone-tipped spear and the sizzling purple toxin that leaked from its tip, and then a third, she dodged, bending backwards to be almost parallel to the ground as the beast rebounded directly backwards, thrusting the barbed back end through the space her torso had just occupied.
+
+The beast she had landed on had been pounded to the ground, but its fellows were not so impaired. In her distraction, the third beast had time to act as well. As she straightened up from her dodge, she saw it reach one of its twisted hands into a pouch and pull it back out, clutching a fistful of viscous black ooze. Ling Qi prepared to dodge a throw, but instead, the beast simply gave a light toss, letting the lump of goo land atop a pile of broken, frozen flesh that had once been several beasts.
+
+The ooze immediately began to hiss and bubble violently, spreading and consuming flesh as it sunk into the shattered corpses. Ling Qi hesitated, unsure. She gave her flying sword a second mental tug but found it still entrapped, somehow stopped from even dematerializing. She considered again her foes and what she had seen so far.
+
+Ling Qi dissolved into shadow. Uncaring of obstacles, Ling Qi flowed through the shadows of beasts, springing forth into existence behind the beast that had flung the ooze. Before the creature could so much as flinch, her flute sang a blizzard’s howl, focused down on a single point, and hoarfrost spread across its rubbery hide.
+
+The creature cried out in pain, stumbling away from her with blood oozing from frostbitten patches spreading across cold-cracked flesh. The first one, the knife-wielding one supporting the beasts, was dangerous, but it was a danger in decline. Some of the weaker members of the mob were beginning to drop mewling into the sand, exhausted and lethargic from her Starlight Elegy. The direct attacker was dangerous - as she dodged repeated blows from its spear, she winced when a spray of fine purple mist erupted from the point of its spear, sizzling as it seeped through her renewed armor and burned against her skin - but it was a danger she could handle.
+
+The third one, though, had entrapped her domain weapon and was doing something strange to the corpses. She would rather eliminate the unknown variable. She paid for her choice as she was nearly buried by the horde of beasts again. Here and there, she miscalculated by a fraction, and she felt the prick of teeth faintly through her armor.
+
+Yet Ling Qi remained confident. While her qi was slowly draining because the trickle of pure qi Ling Qi was able to absorb from the tainted mass could not quite keep up with the liberal expense of her attacks, she felt like she was winning.
+
+Keeping her focus on the yipping third beast as it rummaged through its pouches and scrambled away from her, she flowed again, bypassing the cloud of filthy-feeling yellow powder it flung up in her path. Again, her flute sang, but this time, it was without focus. Now that it was among the crowd, she might as well reduce their numbers while battering it with cold. This had the advantage of icing over the bubbling muck it had flung as well. Ice-crusted flesh cracked and squished beneath her feet as she danced atop the carpet of bodies. Tendrils of oily qi brushing across her spirit drew her eyes to the knife wielder. Its twisted face seemed to be showing a growing alarm. Inside her mind, Sixiang let out a tittering laugh and brushed away whatever the effect was with contemptuous ease.
+
+She suffered another scratch as the spear-wielding beast managed to catch her off guard, cutting through cloth and viridian qi with a sizzling, acidic hiss, leaving a burning line across her shoulder. Its partner let out a low, defiant snarl as she bore down on it, ripping the entire pouch that it had pulled the ooze from and flinging it at her. Ling Qi dodged with ease.
+
+Winter cried out again, and the third beast was silenced, just like the dozen of its nearby lesser kin. As the flurry of pink snowflakes fell around her, Ling Qi turned to face the other two and restrained a smile as she felt her flying sword tug loose of the dissolving trap it lay in. She called her sword back and sent it spiralling out at the knife wielder in a screaming blur. She met the spear wielder’s eyeless gaze where it crouched atop a frozen corpse and saw cold calculation in its body language.
+
+The beast cocked its head to the side, and its snaggle-toothed maw stretched into an ugly expression that might have been called a smile. Ling Qi tensed in preparation. Then, she was left blinking, bewildered, as her opponent shot away, reducing the frozen corpse it had been crouched on into a mass of pink slush, and vanished down the tunnel it had come from.
+
+The corpses beneath her feet rumbled ominously. Ling Qi shot straight up, carried on the wings of her cloak as the carpet of flesh erupted in churning black slime. Living beasts screamed as arm-thick tendrils of drooping sludge dragged them into the main mass, and the bubbles on its surface seemed to scream as they popped, the shadows of faces forming beneath the surface and fading just as fast as the mass began to spread.
+
+Alarmingly, Ling Qi felt her mist dissolving where the slime touched, the qi infusing the water vapor draining away as if into a hungry void. Ling Qi grimaced as she once again played Zeqing’s song, and while the tendrils reaching for her froze and crumbled, she felt a leeching drain as the technique drew more than it should have from her reserves to do its work. Worse, it didn’t really feel like she had done the muck much harm. Its aura was already third realm and still swelling with power, and its rapid growth was filling the cavern fast as well. Even if Ling Qi could beat this thing, Li Suyin would quickly run out of room to avoid it if they remained here.
+
+Darting out of the sky, Ling Qi snatched the half-frozen bandoleer from the body of the foe she had killed and held out her right hand, drawing the bodies of as many beasts as she could fit into her ring then shot away from the spreading mess at high speed. Through her sword, she could feel the knife wielder scrambling away as well, letting out alarmed yips.
+
+“Li Suyin, I think it’s time to go,” Ling Qi said tersely as she rematerialized beside her friend. “You’ve got what you need, right?”
+
+Suyin nodded quickly, glancing at the reaching tendrils in alarm. Half of the nest she had opened was empty by now. “Yes, I can’t carry any more as it is. I already had Yi set explosive charms around the entrance just in case, so…”
+
+Ling Qi grinned tightly and patted Suyin on the shoulder as she recalled her sword from chasing the fleeing knife wielder down the tunnel. “Time to run then!”

@@ -1,0 +1,51 @@
+---
+id: 76926642-d41d-569b-b10f-56c873b89e51
+page-type-slug: story-chapter-royal-road
+title: "In the Shadow of Xiangmen IV"
+slug: 0266-in-the-shadow-of-xiangmen-iv
+partOf: forge-of-destiny
+position: 266
+ownLength: 841
+unit: words
+publishedAt: 2022-07-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/944027/in-the-shadow-of-xiangmen-iv"
+royalRoadId: "944027"
+---
+
+A great wail of hatred, fury, and pain resounds. The fallen titan’s limb spasms, and its toxic ichor spills across the land, rotting and corroding the earth. It twitches, it jerks, and it shrinks into a man, his fine robes soiled by blood, his painted flesh scoured by light. His clouded eyes open and look, for the first time, up at those who he had never seen as people.
+
+One of the nine Lords of Heaven, the Liar Kings, lies in the mud, stripped of all of his glamours, bereft of his false truths. He lies at the boots of his victims, his power broken.
+
+The screams rise into the great canopy of Xiangmen, as if it were a rising gust carrying upward the implacable radiance. The great spider who spread his webs across the sky, whose limbs stretched from one end of mighty Xiangmen’s canopy to the other, retreats, the broken stub of a limb weeping ichor. Web assailed the Ideal, so thick and heavy that even the radiance could not dissolve it trivially. Strands of paranoia, arrogance, and hate enshroud her, bound her, and did not burn because they were not lies. At the twitch of the nightmare titan’s limbs, it spun forth the darkest and most rancid contents of the human spirit into a dense and nightmarish net to snuff the rising light.
+
+Ancient defenses churn to life, energies drawn from the limitless well of Xiangmen’s power. Spirit labyrinths, barriers of every kind, and impassable gates layer ever deeper before the retreat of the Lord of Heaven.
+
+The rage of the Liar Kings could be felt across the whole of the battlefield. One of their own had been slain, and there is no panic and fury greater than that of the powerful shown their own mortality. Titanic arachnid limbs dig into the sky and the earth and rend open the world, opening oozing sores in the material world that plunged into the most primal depths of nightmare.
+
+The Truth guarded well against the lies of men, the thinking lies, the tricks and deceits of the civilized mind, but the things the Patriarch called now are older, simpler horrors. These are the terrors of the mind which bypassed thought, born from the simplest and most animal impulses. Avatars of humankind’s oldest nightmares lumbered and crawled and slopped into the waking world.
+
+The One Behind, The Other, The Whispering Dark, The Plagued Man, The Emptiness, and a hundred others beside, named and unnamed, come forth, and the advancing lines of battle became chaos. Men and women turn against each other and against themselves. None are spared, friend nor foe. The nightmares swim and crawl and slosh into Xiangmen’s halls and its hiding people weep.
+
+The great Patriarch, Master of Realities, looks upon the ruin he wrought and is satisfied. So what if some of his own wash away as well? They are his dream and live at his whim. All the world could burn if it preserves his power. All the world should burn if it could not be preserved.
+
+The Light stalls. It struggles, it fights, but in the face of the once-nine and the old powers of Xiangmen, it could not advance. He could not slay it, not face-to-face, but there is time now to plot.
+
+A wind whirling with petals of red and pink and white flows between the ichorous strands which entrapped the Ideal.
+
+The wind dies, the light fades.
+
+Then, it burns again. O how it burns!
+
+Pink and gold, white and orange, a hundred hundred colors wash out, shining through the web. Where men and women fight, it shines. Where friends die at the feet of other friends, it shines. Where warriors rage alone against themselves, it shines. Where tears fill eyes, it shines.
+
+And the light redoubles again and again. The Heavenly Kings shine, the tattered and dying marsh Mist shine, the wounded Wolf shines, the Prince of the Earth shines, and even the meanest soldier shines. And with each person's mind which is cast in its rays, the Ideal burns brighter.
+
+They could not look upon it. The Ideal, the radiance, is not something the hearts and minds of humans could withstand. It is not something which could be reached and held, only fought for and sought.
+
+But it burns in the hearts of each one all the same now, a spark born of the second sun in the sky, leaving no shadows under Xiangmen. For one day at least, the Ideal burns in every heart, and for one day at least even the most primal of terrors hold no purchase.
+
+The net of spiritual filth flakes away in a light no longer colorless, and at its core are two in embrace.
+
+As the light shines on kilometers-thick bark and leaves larger than sails, there is a shift in the air, no more than a rustling of leaves. Defenses older than the Empire thrum thoughtfully and shut down.
+
+Four hands bring down a sword of light, and the Thrones of Heaven crumbles.

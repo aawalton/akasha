@@ -1,0 +1,119 @@
+---
+id: c4ad8d18-4410-55a7-9aa7-cc85057371a9
+page-type-slug: story-chapter-royal-road
+title: "Threads 209-Opening Day 7"
+slug: 0242-threads-209-opening-day-7
+partOf: forge-of-destiny
+position: 242
+ownLength: 1970
+unit: words
+publishedAt: 2022-04-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/886080/threads-209-opening-day-7"
+royalRoadId: "886080"
+---
+
+Ling Qi sat quietly on the far left side of the slowly filling seats in the testing hall, the picture of a proper young lady getting some soft meditation in while waiting for the qualifying tests of the crafting competition to begin. In reality, she was peering into the contents of her storage ring at everything she had just received, and in her mind’s eye, she turned over page after neatly written page of documents and dossiers.
+
+Once, she had trouble even retrieving things from her ring. Now, with her experiences stepping between the bounds of the physical and unreal and her adventure in the broken storage space of the Hui, it was simple enough to outright manipulate the objects within.
+
+<That guy is meticulous, huh?> Sixiang mused. <There’s… a lot to get through.>
+
+There definitely was. Just the list of potential contacts and the attached information could have filled one of Cai Renxiang’s law books. Each suggestion carried with it a detailed biopic, habits and flaws, points of leverage both hard and soft, considerations for the best approach, and more. Those, she set aside. Cultivating acquaintances across the province was more of a long term project.
+
+They were all fairly lowly placed, she noted. Servants, guards, and bureaucrats accounted for most of the contacts. She supposed that Hou Zhuang didn’t want her to get overconfident and go for higher ranking contacts right away.
+
+The rest though, a breakdown of the Emerald Seas situation with accompanying maps and notes was more immediately useful. Much of it came to her easily, building off the coalescing understanding she had been gaining of the various factions from her own efforts. She saw the province divided on a map not by the territories of counts but by regions, although the two sometimes overlapped.
+
+These were what Hou Zhuang believed were the dividing lines of the lower clans, and scanning through his information, she didn’t think he was wrong. The Emerald Seas was of middling size for a province, but it still covered a diverse landscape from the northern hills and forests at the foot of the Celestial Peaks through the fens in the west to the dry plains in the east, and down to the rolling hills which eventually rose into the Wall. Its main throughline was the River Jing, the Shining River, whose headwaters came from the glaciers in the Wall and which flowed all the way through the Thousand Lakes to empty into the ocean on the other side of the continent.
+
+Under this conception, the lower clans of the Emerald Seas could be divided into eight geographic and cultural regions.
+
+The Celestial Hills, a thin slice of the far north on the border of the capital, saw themselves as little different from their neighbors a few score miles north in the Peaks.
+
+Below them was the North Jing river valley, which encompassed most of the Bao lands and which abutted the part of the great continent-spanning river until it flowed into the Thousand Lakes.
+
+Then, there were the Western Fens, the core of the Meng’s territory, where the Red Jungle met the woodlands of the Emerald Seas.
+
+The Central Valley Region where the Diao reigned, whose southern edge she had visited with Hanyi, was the heartland of the province.
+
+East of that was the Southern Jing river region where the Jia clan was concentrated in what had been the lands of the Chu before Ogodei.
+
+Beyond that was a long stretch going from the Celestial Peaks down to the Wall in the south. These were the Eastern Plains, the dry and grassy plains where the Emerald Seas bordered the Golden Fields province.
+
+The Foundations, the still sparsely settled lands in the south where she had spent the last year, encompassed the Wang territories, the Argent Peak and Blue Mountain Sects and the southern gains of the Meng.
+
+A small region was marked out as the Thundering Hills, named after its many waterfalls, as well as the site where Ogodei had died, which caused a great deal of extra rainfall in the region. It was the other half of the Jia’s territory, along with the Rushing Cloud Sect.
+
+She’d have to confirm the information herself, but she, or rather her liege, was doing well in the south at least. The people of the Foundations and the Thundering Hills, being so often the ones to suffer in the wars which plagued the province, were both favorable to their project. Opinions of their project were less and less favorable the further north when asked.
+
+“Hoh, Lady Ling, there you are! I might have missed you if not for the chill!” Wang Chao’s boisterous voice cut through the more polite background noise of the gathering audience, and she looked up to see him approaching along the aisle to her right.
+
+“Hello, Sir Wang,” she greeted. “I’m sure I don’t know what you’re talking about.”
+
+“Of course not.” He dropped himself into a seat to her right, impervious to the glances of the nobles around him. “Ah, but I’m looking forward to viewing our juniors’ efforts!”
+
+“I admit I was surprised,” Ling Qi said. “I didn’t think you would have such an interest in the crafters. Or is it for our other guest’s sake?”
+
+“I thought the Xuan might enjoy it, yes,” Wang Chao said with a grin, seemingly pleased with himself for the deduction. “But I respect this kind of work. I’ve not the head nor the hands for it, but it's the crafters of the Empire who take the spoils of our victories and make them something worthwhile. You can bash in the skulls of beasts and barbarians all day, but if no one is able to put up the gates and walls, you’ll be bashing forever.”
+
+“I hadn’t thought of it from that perspective,” Ling Qi said. “My arts are even more ephemeral, so I cannot look down on them either.”
+
+“Everyone’s got their place,” Wang Chao said indulgently. “Living would be dull without artists, eh?”
+
+“I suppose it would be,” Ling Qi allowed.
+
+The disciples were beginning to file into the testing area. Her eyes fell on Xuan Shi making his way in with the last trickles of the crowd. Their eyes met over the distance, and he nodded, beginning to head her way. A glance over didn’t reveal anything wrong.
+
+<If his game is known, that one won’t do anything obvious, especially with so many people about,> Sixiang grumped.
+
+“Greetings, Lord of Wang, Lady of Ling,” Xuan Shi said lowly, approaching them along the aisle. “My apologies. This one was kept for some time in conversation with the faces of my kin.”
+
+Ling Qi deciphered his words quickly, but Wang Chao’s brows drew together, and she spotted his lips moving, mumbling under his breath. His expression thankfully brightened up a moment later.
+
+“No trouble, Sir Xuan. Family must come first,” he said enthusiastically. “Take a seat, take a seat.”
+
+Ling Qi smiled at Xuan Shi. “I am glad you could make it.”
+
+Xuan Shi took a seat beside Wang Chao, giving her a small nod. “The invitation pleases me. Miss Ling is too kind.”
+
+“She hardly needed to convince me,” Wang Chao said cheerfully. “Why, just imagine the wargames we can play out with the assistance of your mobile barrier projects!”
+
+“Sir Wang is familiar?” Xuan Shi asked curiously.
+
+“Well, don’t ask me about specifics, but I’ve heard of the effects,” the older boy said. “Masterful work from what I hear. Such a sturdy defense combined with versatility and mobility! If you weren’t a Xuan, I suspect the White Plumes or the Sect would have you drafted already! The things that could be done with such talismans!”
+
+“My work is only a reflection of the craft of my elders, the master shipbuilders of the Isles. It is nothing so grand,” Xuan Shi said. She could tell despite his collar and tipped hat that he was caught off guard by Wang Chao’s enthusiastic and blunt praise.
+
+“Sect Brother Xuan’s work did show quite a lot of promise,” Ling Qi said. “I recall you using it to keep up with us at full sprint, even while you deflected attacks.”
+
+“Such speed as well?” Wang Chao asked, astonished. “I’d like to see that.”
+
+“Thy praise is too much,” Xuan Shi demurred. “Mine panopoly is difficult to assemble, and its reagents rare. The heights of its performance are only possible with the modified arts of a ship’s captain. In a way, this one has simply transferred the knowledge of a hullmaker to the land.”
+
+Ling Qi hummed doubtfully at that. She had seen the fitted ceramic panels of his masterwork, reacting as swiftly as his own limbs and hands. She suspected that Xuan Shi was being reflexively self-deprecating, but she didn’t know enough of the subject to truly call him on it.
+
+“Ah, well, one would expect so,” Wang Chao said. “Still, it has potential. Even a few ‘land ships’ could be useful. I’ve heard some of my uncles and aunts speak of something similar.”
+
+“Ah? Convergent development? Interesting,” Xuan Shi mused.
+
+Conversation ceased as the elder monitoring the test came forth. It was Elder Hua Su again, the teacher from her first year, but last year had not been overly kind to her. Then again, her father, Elder Heng, had passed away, even before the war had started.
+
+Ling Qi remained silent as the elder spoke in front of the gathered disciples and audience. The written preliminary exam had already been held, and now came the practical portion in which disciples would complete a number of tasks from elixir brewing to ward crafting to ensure that they had a baseline of competence in all major disciplines.
+
+As the elder started this portion of the testing, Ling Qi noticed that Xuan Shi was looking at one disciple in particular. She followed his gaze to a broad back swathed in Argent Peak Sect’s silver. The disciple in question was a tall, broad-shouldered young man with long wavy brown hair and slightly sun-darkened skin. He wore a pair of spectacles on his handsome face, whose frames were made of some colorful organic shell material. His robe was very conservative, but the sash that bound it tight around him was highly colorful and woven of colorful shells. Ling Qi was starting to sense a theme.
+
+She saw the disciple meet Xuan Shi’s gaze and offer a beatific smile. She froze when his sea green eyes turned briefly to her, studying her for a moment in curiosity. He was very handsome, a good balance between the bulk of someone like Gan Guangli or Lao Keung and the aristocratic type like Han Jian. Ling Qi blinked a moment after that thought completed, frowning as she circulated her qi to dispel anything untoward. The crafter turned back to his workstation.
+
+<Yeah, cause someone is gonna project an illusion past an elder,> Sixiang scoffed. Ling Qi could feel them rolling their eyes. <It’s alright to think someone is attractive, Ling Qi.>
+
+... It didn’t matter.
+
+“Is there a particular junior you have your eye on, Sect Brother?” Ling Qi asked Xuan Shi.
+
+“Apologies. This one is merely being cautious of the trouble,” Xuan Shi said. “The Jin bring disruption wherever they walk or sail.”
+
+“Is that the other ducal scion I’d heard about?” Wang Chao asked. “I’ve never seen one of his kin before. Rather plain, isn’t he?”
+
+“The Jin have long abandoned the blood of their ancestors,” Xuan Shi said stiffly.
+
+A question about the Jin was on the tip of her tongue before Ling Qi reconsidered. Her goal right now was to ingratiate Wang Chao with Xuan Shi and vice versa. Wang Chao needed more prominent connections, Xuan Shi needed more friends, and she wanted her acquaintances to be happy.

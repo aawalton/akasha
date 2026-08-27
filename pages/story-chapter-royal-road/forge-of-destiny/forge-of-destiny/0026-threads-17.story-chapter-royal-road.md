@@ -1,0 +1,135 @@
+---
+id: 16da68f1-79cd-513f-9b12-64bb9451a492
+page-type-slug: story-chapter-royal-road
+title: "Threads 17"
+slug: 0026-threads-17
+partOf: forge-of-destiny
+position: 26
+ownLength: 2461
+unit: words
+publishedAt: 2020-11-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/593155/threads-17"
+royalRoadId: "593155"
+---
+
+Ling Qi stood ready for another few moments after the creature’s last twitch subsided. Only after a swift kick to one of its remaining eyes failed to bring a reaction did she allow herself to turn around.
+
+“Everything alright up there?” she called.
+
+“Y-yes,” Li Suyin called back from the edge of the pit, her voice muffled. Ling Qi looked with bemusement upon her friend’s solution to the issue of being dragged down.
+
+Li Suyin stood in a veritable cage of bone, metal, and silk formed by her guardians. The one with the shield stood below, its shield spiked into the ground. The simple slab of metal had expanded, twin plates of steel bursting from its sides to form a curved barrier. The other one stood behind, the hooked ornament at the base of its gaundao now stuck firmly into the ceiling at the end of a chain. It clasped the extended weapon in one hand while the other seemed to be holding the first guardian’s collar, but a second look showed that the gauntlet and armor had fused into a single piece. Metal flowed as she watched, the two guardians detaching from one another as Li Suyin peeked out from between them.
+
+“I take it that that’s new,” Ling Qi said dryly, gesturing to the dead beast.
+
+“Nothing like that has come up here before, no,” Li Suyin replied with a frown, making her way down the slope carefully. “It could just be bad luck, but…”
+
+“You did have a way out with you before, right?” Ling Qi asked worriedly. While Li Suyin had weathered the peripheral of the fight fine and even helped distract the creature, she didn’t know if her friend could have handled it on her own.
+
+“I have an escape talisman,” Li Suyin answered, examining the creature. “You would think a predator like this would leave more signs, considering how destructive it is,” she mused absently.
+
+“Unless this isn’t its normal hunting grounds,” Ling Qi offered.
+
+“Well, we can determine that later,” Li Suyin replied, reaching into her bags to retrieve a leather surgical mask and a pair of goggles. “I need to harvest this! A core this potent will be a great boon for my work.”
+
+Ling Qi sighed and resigned herself to standing guard while her friend butchered hundreds of kilograms worth of beetle monster. She was glad Suyin was happy, but should she really be this blase about a threat to her life? What had happened to the wilting girl who hated fighting and blood?
+
+“Do you think we should follow its trail?” Li Suyin asked, crouching near the beast’s oozing maw. “I had scouted out a path to the third level already, but if this leads back to a nest… There could be so much more to find.”
+
+Ling Qi raised an eyebrow. “You want to tangle with a bunch of these?” she asked incredulously.
+
+Li Suyin shook her head, and she flicked her wrist, drawing a carving knife the length of her forearm from storage. “There isn’t enough nutrition in this region to support multiple adults of this size. It would be a mated pair at most. The upper caverns would be stripped bare if there were more. We might find juveniles or even eggs though! A sample of the carapace still in development could advance…”
+
+Ling Qi watched as her friend sank the knife into a crack in the creature’s carapace, and the formations on its blade glowed, even as a spurt of blood stained Suyin’s facemask. She listened to Li Suyin discuss the improvements she could make to her constructs.
+
+What a change that she was the one feeling a little timid.
+
+But one way or another, they were going into dangerous territory. It only made sense to follow the obvious trail, and she couldn’t afford to start jumping at shadows. She had handled the beast easily enough, and Li Suyin had acquitted herself well.
+
+Of course, having decided that, Ling Qi could only wait for Suyin to finish. Butchering the bug-thing took the better part of two hours. Oh, Li Suyin needed her help once or twice to pry a section of chitin too thick to cut open, but Ling Qi had little to do aside from keeping watch.
+
+Eventually, after the fist-sized greasy black lump that seemed to be the beast’s core and many kilograms of chitin and tissue had vanished into Li Suyin’s and Ling Qi’s storage rings, and with the butchered corpse dragged out of the pit, they were finally ready to descend. Ling Qi ended up carrying her friend down, looping her arms under the shorter girl’s. With so much stone converted into sand, there was nothing to attach a grapple to.
+
+The bottom of the tunnel lay half a hundred meters down. The walls glistened with the slimy secretions of the beast they had killed, but they were at least solid. Ling Qi glanced at Suyin as the other girl released her guardians from storage again. She was glad they were moving again, but…
+
+<I think it’s kind of cute,> Sixiang commented lightly.
+
+Suyin’s arms were caked up to the elbows in chunky black and green gore, and her facemask and smock weren’t much better. Ling Qi glanced at her own hands, speckled with bug goo as they were. Her gown had repelled the gunk almost violently, thankfully, so it was just her hands and forearms stained with gore.
+
+“You really have changed quite a bit, haven’t you, Li Suyin?” Ling Qi mused aloud as Suyin sent a pack of skeletal mice skittering down the passage to scout.
+
+Li Suyin looked to her in confusion, her gleaming eyepatch contrasting with her pale blue eye. “What do you…?” She glanced down at herself then and gave a sheepish shrug. “Medicine is a dirty profession,” Li Suyin continued, somewhat self-consciously. “You have to deal with many things that others find hard to look at or disgusting. I suppose I have just adjusted to it.”
+
+“There’s nothing wrong with that.” Ling Qi hummed as they began to move forward, walking quietly down the lopsided tunnel. “I am surprised that you have gone so far with these constructs though. Surely the Sect had resources that needed less reverse engineering.” She had treated the pale manual’s constructs as more of a hobby. Even the Ossuary Horror was more of a distraction tactic for her than a core part of her combat style.
+
+“Sometimes, things shouldn’t be beautiful,” Li Suyin said. “Isn’t it better not to hide the nature of some things?”
+
+“I suppose not,” Ling Qi said. “They don’t need to be pretty to work.”
+
+“It might be a little childish, but I admit that I like the idea of turning things people consider unpleasant to good ends,” Li Suyin said. “After all, so many things considered virtuous are…” She trailed off, shaking her head.
+
+Ling Qi hummed in reply, not really sure what to say.
+
+<She’s having fun with the idea of inversion of aesthetics is all,> Sixiang whispered. <Like the frost flowers Hanyi showed you. Beauty arising from desolation.>
+
+<Kind of inferring a lot from a little, aren’t you?> Ling Qi thought back dryly.
+
+<I’m a muse. That’s my job,> Sixiang shot back.
+
+“Ling Qi?” Li Suyin asked, glancing over at her as they paused at a curve in the tunnel, waiting for Suyin’s scouts to return.
+
+“Just chatting with Sixiang,” Ling Qi replied, “about the aesthetics of your constructs.”
+
+Her friend blinked, looking befuddled behind her mask. “Oh. What do they think?”
+
+<She should mix elements of traditional attractiveness into the work. The uncanniness of the contrast between the attractive and repulsive elements will enhance the image she’s going for,> Sixiang rattled off.
+
+Ling Qi blinked slowly at the response before relaying it. “Sixiang thinks you should use some conventionally beautiful elements in the mix. The contrast will improve the overall unsettling vibe.”
+
+Li Suyin frowned. “Um… I see. I will take that into account.” She did not sound as if she was sure of that at all. The conversation petered out as they turned their focus back to exploration.
+
+The tunnel wound for a fair distance before breaking out into empty air. They emerged on the wall of a chasm, too deep for even Ling Qi to see the bottom of. The yawning gap simply stretched down until all Ling Qi could perceive was undifferentiated gray. They did, however, emerge on a sloping cliffside so there remained a trail of slime and scrapings to follow.
+
+On the way down, Ling Qi saw many things skittering and flying in the darkness in more shapes than she could count. Some ignored them while others stared down at them with inscrutable eyes. Ling Qi remained on guard, but none seemed prepared to attack. She still felt relieved when their trail led back into a tunnel and away from the abyssal chasm. Eventually, they came to a wide, circular chamber some forty meters across with a floor of soft white sand. The bug thing’s qi marked the place as deeply as the gouges and scratches left by its limbs did. Another two tunnels led deeper into the earth, seemingly natural this time.
+
+As Li Suyin hurried to examine discarded moltings and fragments of shell scattered across the cavern, Ling Qi peered around carefully, her flute in her hands. She felt an itch, a feeling in her gut, telling her to stay alert. But after nearly a quarter hour had passed and nothing had happened, she still very nearly leaped out of her skin when the sand off to her right stirred.
+
+The shifting grains mounded up as something beneath burrowed upward. Ling Qi had a moment to see some pale-skinned and grub-like thing beginning to emerge before the single sharp note that she blew from her flute blasted the top half of the creature into a sticky red and green mist.
+
+Li Suyin paused in harvesting the empty moltings in the echoing silence that followed, and Ling Qi felt her nerves somewhat subside. It had only been some kind of weak beast, no more than a first realm.
+
+Why hadn’t she felt its approach though?
+
+“A scavenger…?” Li Suyin proposed, even as her clanking guardians moved into more defensive positions.
+
+Ling Qi focused, and behind her eyes, Sixiang did the same. Her eyes rippled silver, argent and lunar qi mingling to enhance her senses still further. She felt it. They were not presences per se, but a disturbing sort of absence like a shadow glimpsed in a dark forest. The sand boiled beneath their feet, and this time, the creature that emerged was not alone. Ling Qi got a better look, and she wished she hadn’t.
+
+Their flesh were glistening and pale like a maggot’s, and their movements betrayed a repellant softness at odds with their shape. The creatures resembled humans, if humans had been forced to crawl on all fours like bugs until their limbs bent unnaturally out, lending them a skittering, rodent-like gait. Their heads were worse. Eyeless and bald, their pale, blue-veined flesh stretched thin over empty eye sockets. Bristling whiskers protruded from their otherwise hairless skin just below their elongated nose and chattering teeth. Their visages were like some hideous combination of human and rat.
+
+Now that she knew what to look for, Ling Qi could feel the shadow of even more presences from further down. They were under the sand and down the tunnels, a creeping horde that she could not count. Even now though, Ling Qi wasn’t worried. The creatures, within the bounds of the first and second realm, were weak.
+
+Ling Qi played, and her mist rolled out, engulfing the pale and skittering beasts as they turned their snouts and sniffed the air. Crimson eyes and black claws bloomed in the mist, and the creatures were torn apart, their soft flesh like paper before the claws and fangs of her phantasms.
+
+Yet Ling Qi could feel greater presences amidst the sea of not-qi like the ripples left by a larger fish. There were at least three third realm entities coming up from below, though none were above the first steps into the realm. Even deeper than that, Ling Qi thought that she felt the presence of still more, but at this distance, it was impossible to be sure.
+
+“Ling Qi?” Li Suyin called through the mist, moving to stand next to her as more rat-things emerged into the mist only to die. “There is still a great deal more to harvest here. Do you think you can keep these things away?” she asked, peering down at the twitching corpse of one of the rat things.
+
+Ling Qi grimaced, letting her qi carry the tune while she spoke. “I can’t count how many of these creatures there are, but there’s some third realms approaching.”
+
+Li Suyin winced. “I suppose we should begin retreating then. The molts will have to be enough. I was sure that I found the signs of a nest though...”
+
+Ling Qi considered her options. She looked out at the pale, thrashing forms swiping and hissing at the phantoms in her mist. She remembered the promise she had made to herself last year, that she wouldn’t allow herself to be chained by fear. She remembered, too, the sobering experiences of learning just how high the mountains rose. Feeling creatures rising in such vast numbers gave her unsettling flashbacks to the horde of rats she had been part of in the Bloody Moon dream, but this was hardly the same, was it?
+
+While she had learned that fear couldn’t be conquered so easily, she wouldn’t let herself become a coward. She wouldn’t treat her friends like they were made of glass.
+
+“Keep looking for the nest,” she directed. “I can hold them off.”
+
+<Oh boy, this is going to be messy, isn’t it? Damn it, I wish I had finished what I was working on…> Sixiang lamented.
+
+<Just keep me clear,> Ling Qi thought to Sixiang as she raised her flute, preparing to play again. To Suyin, she said, “Stay away from the center, Suyin. My other art is less ally-friendly than my mist.”
+
+Li Suyin glanced at the tunnels then back at her as the echoing sounds of many scrabbling feet reached them over the dying wails of the burrowers. She gave a determined nod. “This will not take long. Yi, Er, begin search and excavation,” she spoke in a clipped tone, sending the constructs into motion.
+
+Ling Qi smiled. She really had to talk to her friend about her naming sense. Zhenli was fine, but calling her guards “One” and “Two”? That was just dull.
+
+<We’ll have a chat with her later,> Sixiang laughed. <Better get playing though.>

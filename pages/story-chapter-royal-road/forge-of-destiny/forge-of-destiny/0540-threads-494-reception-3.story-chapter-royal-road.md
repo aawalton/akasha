@@ -1,0 +1,157 @@
+---
+id: 5f2adfa1-70f3-58d2-a258-252ef231d71a
+page-type-slug: story-chapter-royal-road
+title: "Threads 494-Reception 3"
+slug: 0540-threads-494-reception-3
+partOf: forge-of-destiny
+position: 540
+ownLength: 1668
+unit: words
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2960085/threads-494-reception-3"
+royalRoadId: "2960085"
+---
+
+Ling Qi followed Meng Dan’s gaze to the fountains where the strains of stringed instruments rose and pairs danced in courtly elegance.
+
+She considered the dancers. "I can glean the patterns, but you'll need to show me the steps."
+
+"Of course, Lady Ling. I do not mind at all." Meng Dan gripped her hand tighter. He took a step, and she allowed him to lead her on. "The Eventide Procession originated with some early festivals to the moon and the changes in her procession from season to season. The movements evoke her stately arc through the houses of the night sky, inspecting the stars there for intrusion."
+
+Ling Qi eyed the circling pattern of the dance. There was no true formation work in it, but she could feel the slight stirring of the night air into harmonious patterns following the swirl of gowns and the movement of feet. "And why is it done in pairs?"
+
+"Originally, one dancer would wear white, and the other black, and the exchange of places and lead in the dance would represent the phases. The version used for casual festivities has discarded this."
+
+He was very suave, but she could also feel some of his nerves. It bolstered her, knowing she wasn't the only one with anxiety.
+
+"I suppose limiting the color palette of all the guests would upset the courts." .
+
+They arrived by the edge of the fountain area, passing through the colorful stakes set along the edge of the field to separate it. In the back of her head, Ling Qi took in the beat of the music, dissected, and analyzed it. Harmonious progression: one step, two steps, three. A flowing pattern with the same beginning and end, each cycle proceeding cleanly into the next.
+
+"Just so. I'm sure you've noticed the steps are looser than a pure ritual, too. Let's wait for it to reset to the first movement."
+
+"Twenty beats," Ling Qi said absently.
+
+"Eighteen now. Keep it cool, Qi. You got this," Sixiang whispered.
+
+"If you'll excuse my boldness then, Lady Ling," Meng Dan said. His grip on her hand firmed up, and he reached out and took her other hand. With a gentle pull, he took her out among the other dancers.
+
+Close. They were frightfully close, barely a few handsbreadths apart, facing each other. She was thankful for her cultivation, which allowed her to quickly match a rhythm without the stumbles and uncertainty of mortal steps.
+
+"Clasp my leading hand. The other should rest on my shoulder," Meng Dan instructed.
+
+She did so, and his arm slid under hers, resting on her side. Close. Close. Too close.
+
+She let out a calming breath as he led her through the first turn, the hem of her gown flaring out with the motion.
+
+"Repeat the first two steps, then slide the leading foot out."
+
+He didn't ask if she was okay nor did he pause or hesitate, even though she knew she must have felt like an ice sculpture under his hands, and showed about as much grace.
+
+"Qi, you're moving fine. You're, uh, definitely a little chilly, but you're moving fine."
+
+She appreciated having Sixiang back. Mist spilled from beneath her gown, swirling around her feet as she danced. A slight frost crawled across Meng Dan's hand, which held hers. Ridiculous.
+
+"Sorry about the chill."
+
+"If that were all it took to keep me away, I'd have no business in the contest," Meng Dan murmured, meeting her eyes.
+
+The temperature steadied, and so did she. "So, what period was this dance from?"
+
+"Early post-consolidation, after the Sage assigned the dukedom to the submitted Weilu clans. It transferred from ritual dance to entertainment, partly from consolidating priestly roles into fewer hands. It was likely a bit of subversion at first from those who had lost their right to speak directly to the spirits," Meng Dan answered.
+
+Eight verses to the song naturally for the eight phases of the moon. Having pushed past her silliness, it was easier than ever to follow the steps in time with the other dancers. They spun, separated to the end of outstretched arms, and came back together.
+
+"There's still a bit of reverence in it. It's diluted, but it still reflects the movement of the night sky."
+
+"It does,” Meng Dan acknowledged. “The leading role swaps ahead as we reach the reflecting. Have you absorbed enough?"
+
+"I have. I'll not step on your toes, at least."
+
+The mild frost burn was probably worse than that, if she were honest. Meng Dan chuckled; she gave an apologetic smile.
+
+"You know, I don't believe I have ever seen you express your domain, Meng Dan," Ling Qi commented. "Is it simply subtle, or is your control really so good?"
+
+His heart was beating quickly, too.
+
+"It may surprise you, but my domain is very inwardly focused. It is one reason I am not a strong practitioner of the dreaming way. My conception of the world is very physical."
+
+The next motion had them come together, barely a few centimeters apart as they swayed through this extended round of the dance. This must be the transition phase of the dance; with one in white, and the other in black, they would be the equal halves of the half moon.
+
+"That surprises me," Ling Qi said, keeping her voice steady. He was very handsome, at such a distance.
+
+"People express great ideals, which often form the speartip of changing times, but in the end, it always comes back to material factors. Always comes back to the conditions of the world at the time the great leader, the ascending cultivator, was forming their Way. If the world is an illusion, a dream as some priests say, then I can only think that those terms have become broad to the point of meaninglessness."
+
+"Sounds a little heretical," she joked.
+
+"I shall trust you with the secret," he said, smiling wryly.
+
+They glided through the steps, pulling apart, coming together, forming the steps of the cycle with her in the lead now. They picked up some speed, and cloth rustled under the strains of the music.
+
+… It wasn't so bad, this closeness.
+
+"It's not quite heart’s blood, but I'll take it. I think there is some truth to the notion, but it's reciprocal. Thoughts shape the world; the world shapes thoughts."
+
+"I suppose so. There are many reasons why I find your company a pleasure: your ideas, your voice, your Way, but it would be a lie to say that a large part is not simply your captivating beauty," he said, casual as anything.
+
+Ling Qi felt her cheeks grow hot. "Stop that."
+
+The worst thing was that right here and now, looking him directly in the eye, there was no way for her to convince herself that he was lying or even exaggerating. The senses that allowed her to parse even the intentions of a sovereign didn't allow it.
+
+"Say it once more with honesty, and I will desist," Meng Dan promised.
+
+She sighed irritably, dragging her eyes away. "Everyone is getting too bold. Baroness Ling's retribution will be legendary."
+
+"I shall prepare my scrolls to record it."
+
+"You had better, or you won't be spared." She huffed, looking back up at him. The dance was coming to a close. They were very close. Her eyes flicked down toward his lips.
+
+… No, there was pushing boundaries, and then there was just plain, bald impropriety.
+
+His forehead came to rest against hers. She stilled and stiffened, eyes widening.
+
+And then he stepped away, utterly unruffled, still holding her hand. "I appreciate the dance, Baroness Ling."
+
+She nodded once, imperiously, breathlessly. "You are welcome, Sir Meng."
+
+"You sound like one of Suyin's malfunctioning voice boxes," Sixiang whispered.
+
+Shut up, Sixiang!
+
+The muse's laughter followed her off of the dancing field.
+
+***​
+
+After a perfectly normal departure and a moment spent lingering by the drink tables to recenter herself with a deep cup of a dark, almost indigo wine that she was going to have to trace the source of, Ling Qi was feeling more balanced. Meng Dan had politely taken his leave to mingle freely.
+
+Vengeance. Vengeance against all who assailed her, mocked her, dogged at her heels, and dared to make a fool of this young miss.
+
+"Maybe turn down the villainess a bit?" Sixiang asked blithely.
+
+They were on the list, too.
+
+"Uhh, please, no, dark mistress? This humble one pleads your mercy!" Sixiang said with unconvincing obsequiousness.
+
+Better.
+
+"Big collar? Tall heels? Imposing!"
+
+Okay, she was going to badly influence Qiyi if she kept the joke going any further.
+
+"Awww," her dress sulked.
+
+Ling Qi swirled the remaining wine in her coup and swallowed it down, choosing not to fully burn off the slightly fuzzy sensation the drink left clinging to her thoughts. It was pleasant for the moment, and she could cycle it away if it seemed she needed to be sharper.
+
+And she would need to be sharper. It was growing late, and she fully expected Shu Yue to arrive at some point as the evening sank away into night. She had a lesson yet to attend.
+
+“Moons, I really kinda wish you wouldn’t. It's been a good time tonight. I think you could go without the spook."
+
+Sixiang knew she couldn't do that.
+
+"Yeah, yeah. I know your hair might catch fire if you hang around your boytoy any longer, so whatcha planning for the rest of the night?" Sixiang asked
+
+She hummed in thought, receiving a refill of her cup from a palace servant with a silver pitcher before stepping away from the table.
+
+There were so many nobles from across the Emerald Seas here; it would be a good time to reinforce her contacts throughout the lesser nobility. She had even spotted at least a few of her pen-friends on the guest list.
+
+She should at least try to do some of her job. Squaring her shoulders, she entered the fray.

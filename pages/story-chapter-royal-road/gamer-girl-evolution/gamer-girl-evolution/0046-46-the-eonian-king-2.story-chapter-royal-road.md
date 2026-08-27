@@ -1,0 +1,165 @@
+---
+id: f81ae456-49d2-58ae-8b0e-11abedb2409b
+page-type-slug: story-chapter-royal-road
+title: "46 - The Eonian King (2)"
+slug: 0046-46-the-eonian-king-2
+partOf: gamer-girl-evolution
+position: 46
+ownLength: 1751
+unit: words
+ownProgress: 1751
+publishedAt: 2026-01-15
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2946018/46-the-eonian-king-2"
+royalRoadId: "2946018"
+markedReadAt: "2026-06-29T20:07:03.104Z"
+---
+
+A small commotion broke out among the players in the crowd below the king. For the MMO veterans present, one of the answers the king provided (namely job classes), didn't incite any confusion.
+
+For the non-MMO players though, even the idea of job classes was confusing. How would changing job make you stronger?
+
+Still, for MMO vets and normies alike, the idea of evolution was unfamiliar.
+
+— "Job change? Is that another way to earn money? Different to killing monsters?"
+
+— "Evolution? Like alter our DNA?"
+
+— "Erm... can someone explain what the hell this bald king is talking about?"
+
+Several confused and anxious voices sprang out around Celica. But, counter acting those voices were several excited, MMO players.
+
+— "I already know I'm going to be a Tank. No better feeling than soaking up tons of damage and walking away unscathed!"
+
+— "Tank? Obviously being an assassin is better. You only want to be a tank because you don't know what its like to one-shot end-game content."
+
+— "Assassin's are better? Are you sure? With all that unreliable DPS? Naturally, mages are the most OP class in all MMOs. Physical classes are just portable shields for Magic classes."
+
+With a few words from King Sebius, the crowd had divided into two groups. Those familiar with MMO games and what they typically entailed, and those that weren't.
+
+Celica naturally belonged to the first crowd. But unlike everyone else, she already had her job class.
+
+Supporter. It was a unique, exclusive OP job class, with limitless potential.
+
+"I know, I know. It's exciting, isn't it? But please, Players, try to remain calm. I'd hate to have to—quiet you all down. Manually."
+
+King Sebius said slowly, an amicable smile blossoming.
+
+Without much delay, the crowd beneath the Eonian King's balcony quieted down significantly. They all preferred to not be muted. Again.
+
+"Fear not, Players. I, King Sebius of Earthonia, have heard your qualms and queries. You all are pondering of the same questions. What is a job class, and what does it mean to change it? But also, what is evolution?"
+
+Like clockwork, the majority of the audience below the king nodded.
+
+"I shall present you with the answers now. Firstly, Job Classes. They are specialised roles or pathways, which you can obtain through the completion of a job change quest. As of currently, you all have no job class. You all are the weakest you could possibly be. But as of floor 4, that can be changed."
+
+The King spoke leisurely, but his gaze was intense.
+
+— "Next floor? So we need to wait before we can job change? Seriously?"
+
+— "Ugh, just when I got my hopes up too."
+
+A synchronised groan of disappointment echoed briefly among the crowd of players, originating from the MMO enthusiasts who were hoping to class change as soon as possible. Since it was a fact all MMO players agreed upon, that the game only really started after completing the 1st job class change quest.
+
+Celica paused, thinking to herself quietly. So the timing for the job class change hasn't changed. I wonder what job class I should recommend for Ingrid? Maybe suggesting ones for Kellen, Rhys and Talia could be good too.
+
+"The job class change quest must be given on floor 4. This is non negotiable." The King's tone dropped an octave. "This is so that Players have the necessary time to consider which job class would be most beneficial for them. It also allows discussion among players and improves the likelihood of making an informed choice. Especially for those with which this concept is new."
+
+His line of sight seemed to be focused, scanning over the players who had voiced their complaints earlier. Without fail, all of those that complained instinctively shirked back slightly.
+
+"Anyways... there's several different job classes. It's important to know that each of these is just the beginning. There are many, many different pathways to take after selecting your job class. The first job class change merely opens the door.
+
+With that being said, here's a list of the possible job classes you can accept. Notice that the quest difficulty among them all is the same. The quests aren't easier or harder depending on the job class. They're just different."
+
+Celica nodded slowly upon hearing his words. It was true that for the first job class change - if your job class wasn't unique - the difficulty was the same for every job class. What King Sebius failed to mention, however, was that this aspect changed for the second job class.
+
+But that was still a few realms away.
+
+[System Notification: You have received a prompt.]
+
+Before Celica's eyes, a virtual, holographic list containing various intricate lines appeared. The top of the list was titled: Job Classes, Job-Specific skills and Class Change Quest Details.
+
+She skimmed through it, quickly realising that there hadn't been any changes to her original timeline.
+
+Good.
+
+In her vicinity, players weren't reacting nearly as calmly as she was. Some were jumping on the spot gleefully, others were eyeing the list with careful scrutiny and more were scratching their heads in a state of perplexion.
+
+King Sebius took in all their reactions and a small smile tugged at his lips. There was a part of him that liked the fact that the reactions were so heavily mixed. Perhaps he thought it made his subjects more interesting.
+
+"I appreciate that you only some of you can truly comprehend what any of this truly means." King Sebius said dryly. He didn't follow up his previous sentence for at least thirty seconds, but for the players it felt more like two minutes of a weird, awkward silence. Then, he finally spoke up again.
+
+"But, I've prepared a way for you all to visualise what these classes truly mean. Grand Commander?" The Eonian King turned to one of the strong looking soldiers behind him and to his right. The person he referred to as 'Grand Commander' was unnaturally tall with a large figure.
+
+The Grand Commander's clothes were decorated with several badges of honour, and he seemed to have a natural air of royalty. He saluted to the King before replying with his head bowed in reverence.
+
+"Understood."
+
+The Grand Commander turned towards some of the other military officers behind the King and nodded. As if they'd all briefly communicated telepathically, they all disappeared.
+
+Whish!
+
+A strong gust whistled by as multiple beams of light flew away from the King's balcony, streaking across the sky like falling stars.
+
+— "Did they all just jump off the balcony? Don't tell me they can fly?"
+
+— "Where did they all go?"
+
+— "Wait. Look up there!"
+
+A certain voice cut through the crowd, forcing everyone to readjust their attention. The one who shouted pointed his hand to a section above courtyard's right wall.
+
+Above the wall was a large holographic screen, displaying an empty arena.
+
+"Look there. And there! Hey, wait there's some over there too!"
+
+More and more voices called out, acknowledging the various holographic screens showing up around them. Even though the courtyard was packed full of players, everyone could see at least a couple screens.
+
+Without warning, all of the screens displaying the empty arena changed.
+
+Crash! Crash! Crash!
+
+One after another, several lights burst onto the screen. Without fail, they all crashed directly onto the arena's earthen floor, one by one. When the dust had settled, several relatively familiar figures emerged.
+
+They were all unscathed.
+
+— "Are you kidding me? They were in flight that whole time? And landed... unscathed?"
+
+— "Is this scripted?"
+
+— "If changing job class can make you superhuman like them, then sign me up right now!"
+
+King Sebius' grin grew wide as he spread his arms out.
+
+"Bear witness to my Great Commanders strength and the glory of the biggest human arena in the history of mankind, the Grand Eonian Colosseum!"
+
+The King spoke with so much fervour and passion, that he seemed - in the moment - more like a budding artist discussing his favourite artwork, than a king. "This colosseum is available only to the strongest warriors of all, and once you complete the Main Quest, I will invite all players to witness fights at the apex of humanity! Fights between human titans!"
+
+King Sebius said quickly, his breaths becoming more ragged and his eyes shining brighter with each word. Then he froze, coughed slightly, and regained his usual leisurely air. "Excuse me, where was I..? Ah, yes, job classes. I understand that the list, while it contains all the skill and class information, doesn't really help with visualisation.
+
+Worry not, today you have the honour of witnessing a show of strength from the Eonian Empire's Great Commanders. Release the beast."
+
+King Sebius raised his hand towards the screen, and soon, one of the colosseum's gates rose, revealing a frightening creature.
+
+[Ferocious Earth Dragon - Lv. 200]
+
+— "Level... 200!?!?"
+
+— "Is that a real dragon???"
+
+— "Will we have to face monsters like this in the future!?"
+
+The majority of the playerbase was only around level 25. Many of them hadn't even seen level 30 mobs, nevermind one that was level 200. It was Celica who was the anomaly, with her staggeringly high level of over 50.
+
+It's close to a real dragon, but not one of the stronger types. Facing a monster like this in the later realms would be a gift honestly. Just wait until till these players fight an Angel or a Mutated True Dragon or even an Archaic Void Realm Beast for the first time.
+
+Then they'll know what real difficulty is.
+
+Hell, they'd probably stop playing the game out of sheer fear if they had to fight the Empress of the Night from the Weapon Trial Stage, and she was only a Royal dark-elf. Not even close to one of the strongest combatants this game had to offer.
+
+King Sebius, as if promptly satisfied with the reaction to the monster turned his attention to the six military officers, who were on the screen standing opposite the monster.
+
+"So, who will demonstrate their class first?"
+
+Without a shred of hesitation, a tall figure stepped out of line, appearing face to face with the Ferocious Earth Dragon. The players watched on with bated breath, while King Sebius laughed ecstatically.
+
+"Good, very good. I'd expect nothing less from the Grand Commander. Go, show them the power of Earthonia's strongest! Show them the power of the Berserker Class!"

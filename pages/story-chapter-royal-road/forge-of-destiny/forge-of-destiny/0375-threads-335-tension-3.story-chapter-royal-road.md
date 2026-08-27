@@ -1,0 +1,169 @@
+---
+id: 3de4be7f-0a85-536d-a01a-166f58142a35
+page-type-slug: story-chapter-royal-road
+title: "Threads 335 Tension 3"
+slug: 0375-threads-335-tension-3
+partOf: forge-of-destiny
+position: 375
+ownLength: 2266
+unit: words
+publishedAt: 2023-09-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1347089/threads-335-tension-3"
+royalRoadId: "1347089"
+---
+
+The interior of the hall was empty, still filled with tools and the signs of work being done. There, she saw two familiar figures. Xuan Shi stood by a cracked span of paneling, and beside him, Xia Lin, with her helmet off and her hand on her hip, looked very vexed.
+
+“Baroness,” Xia Lin greeted, looking over Xuan Shi’s head. The word dripped with deep frustration.
+
+Ling Qi felt repentant. She had made the girl—her friend?—deal with all of this nonsense. Ling Qi was weary of it after just an hour or two.
+
+What had been Xia Lin’s favorite food when they went out to dinner together at Xiangmen? Ling Qi wished Sixiang could remind her.
+
+“Lady Ling. Sir Jin,” Xuan Shi greeted. His expression was stony as it swept over Jin Tae. “This one is pleased to offer service.”
+
+“Thank you for coming on such short notice,” Ling Qi said.
+
+“Indeed, the humbleness of the Xuan clan has never been in doubt,” Jin Tae said lightly. “What are your findings?”
+
+Xuan Shi narrowed his eyes and blew out a sharp breath from his nose, turning his eyes to Ling Qi.
+
+“Terrible snarl. Two energies to nurture, and two whorls of compassion, clashing and brewing a storm. A blast, if completed. Smoking malevolence, if left to simmer. This one has taken the opportunity to remove the offending panels.”
+
+… Of course. Both crafters were right. Wonderful. Perfect.
+
+“In your judgment, did the error in the fusion produce enough malevolence to affect minds?”
+
+Xuan Shi considered, turning back to the wall to gently pull down the cracked and corroded wood, setting it on the ground. He clearly wondered if she had a preferred answer.
+
+Ling Qi lowered her head.
+
+“Enough to fray tempers and stoke spite, but only a small amount… This one does not see malice, only two styles fusing incorrectly. It is only outside both, looking in, that it is noticed.”
+
+“Well, it seems we have our expert opinion. What now then, Lady Ling?” Jin Tae asked.
+
+Ling Qi pursed her lips.
+
+“We’ll simply have to divert more translators to the project and hold a further meeting about ‘obvious’ cultural matters. I will help train another few individuals in the White Sky tongue myself and ask that Emissary Khadne do the same. I am certain she will be reasonable.”
+
+“If Lady Ling would like to raise the matter, this one would be pleased to volunteer their time. Idle as this one yet is,” Xuan Shi offered.
+
+“How generous,” Jin Tae said. “Lady Ling, the matter of the insult is not to be forgotten.”
+
+“I have not forgotten,” Ling Qi agreed.
+
+Jin Tae had not in any way impeded her investigation. He clearly disagreed with her, but in the White Sky camp, he had shown solidarity in his silence. And while she thought he was wrong and knew that the ministry was not invested in her success, she also knew more of her countrymen than she cared to admit would be on his side in the matter.
+
+“I will inform Emissary Khadne of the need for mutual apologies over the matter… but I will also ask that the guard in question be censured by removal from any mixed detail,” she decided.
+
+Frankly, while the imperial crafter had made an impulsive error, she couldn’t help but see the White Sky’s response as excessive, even knowing there was cultivation damage involved. Also, from what she had gleaned of the White Sky’s intent, they agreed with her assessment. Having the guard who intervened taken out of the duty rotation to “cool her head” implied they thought it too hot. Similarly, they could quietly allow their crafter to recover and work on other projects.
+
+If she assessed the White Sky right, they wouldn’t demand an announcement from the imperials. If Ling Qi asked Khadne to make a statement as part of her apology, she would be willing to do so. The White Sky pride was not quite the same as the imperial’s. Stating aloud what they were going to do anyway wouldn’t embarrass them.
+
+Meanwhile, the more belligerent among her group would see that announcement as a concession, if a very small one. It would be viewed as an oblique admittance of fault.
+
+“I see,” Jin Tae said. “Lady Ling is wise.”
+
+She could only feel the begrudging nature of that compliment due to her superior cultivation.
+
+“That does seem to be for the best. However, you should be warned that further meetings and discussions will eat into work time,” Xia Lin warned. “The structure will be complete, but sections with rough or lacking flourish are a possible result.”
+
+Ling Qi grimaced. “I understand. I can only request that everyone give this matter their best, for the pride of the empire, if nothing else.”
+
+“As long as you understand,” Xia Lin allowed.
+
+Ling Qi gave the other girl a commiserating look. She could see the lapsed terror in her body language. Xia Lin had been outright afraid that her aunt would intervene back there, hadn’t she? That would have escalated the matter beyond saving.
+
+She mentally added a bottle of fine Xiangmen root cider to her apology gift to Xia Lin.
+
+“And I must thank you, Sir Xuan,” Ling Qi said. “I will send a missive to Lady Wang about your offer, but I am sure she will accept.”
+
+Wang Lian was not the type to be so prideful. She would probably be pleased to pick the mind of even a younger and less cultivated Xuan crafter on the worksite.
+
+“When a ship flounders, it is a good neighbor's duty to offer tow.”
+
+Xuan Shi was rather pointedly ignoring Jin Tae.
+
+“Unity among the provinces is to be lauded,” Jin Tae said. “Shall I consider this matter closed then, Lady Ling?”
+
+“I think so. I will write to Emissary Khadne and arrange matters with the workers. Would the ministry like to pass an inspection over the meeting hall before the work resumes as well?”
+
+Jin Tae’s gaze fell on Xuan Shi. “Inspector Cao will briefly examine the formations. The ministry would not insult the Wang or the Xuan with less. Nor would we wish to impede the resumption of work. I do hope further collaboration will also go smoothly, Lady Ling.”
+
+“As do I,” she said. Because this surely wouldn’t be the last problem the summit saw. “Now, please excuse me everyone. I have much writing and talking to do.”
+
+She only had an hour before she was supposed to meet Ji Rong and Sun Liling after all.
+
+***
+
+The manor assigned to the Sun was not remarkable. While the artisans had made their best effort to make the embassy housing as fine as possible, for a project like this and for structures which would go through many residents, a certain uniformity could not be avoided, especially with the late arrival of the Sun.
+
+The guards outside did clearly belong to the Sun family though. It was her first time encountering the soldiers of “the Butcher of the West.”
+
+Her first thought was to compare them to the Duchess’ White Plumes, but there was very little commonality. Cai Shenhua’s elites were a united face of gleaming steel and precision, absolute discipline in form. The soldiers outside of the Sun’s manor were not that.
+
+These soldiers also exuded extreme confidence and discipline, but it was a different sort. The extent of their uniformity was the bright crimson red worked into their armor. Each soldier bore armaments of bone, hide, metal, and wood that were clearly reagents from powerful beasts, but each soldier was unique in their trappings. One had a great slab of bone and tooth on their back, half of some beast’s toothy jaw. Another had a spear that seemed like a slender green stem tipped with a wicked stinger that stunk of acid. Another had twin blades that were black metal crackling with frost, yet were clearly organically grown talons affixed to handles of bone.
+
+And that was not even getting into the extravagant intricacies of their armor.
+
+Not one was less than third realm, although most were in the second or third stage.
+
+Ling Qi finished her brief scan of the soldiers stationed on the manor grounds, and she turned her attention to Ji Rong, waiting at the door for her.
+
+“Cutting it close, aren’t ya?” Ji Rong retained a little bit of thuggish slouch to his posture. He wore a scowl and crossed his arms.
+
+She knew they couldn’t appear too friendly.
+
+“I have arrived at the appointed time, Baron Ji. But I thank the Sun clan for receiving me so swiftly.
+
+Not like they’d left her much time to set meetings, but that was the game.
+
+“Yeah. We offer respect for the accommodations, but it's better if we talk inside,” Ji Rong jerked his head toward the door. “You can follow me.”
+
+She offered a small bow, and she let her brows furrow as he turned away without a word. It didn’t bother her, but it was easy to let her general irritation with the last day show on her face.
+
+She followed Ji Rong inside, falling in beside him. “Has Princess Sun considered my proposal?”
+
+“Yeah. I told her I could get my job done a hell of a lot better if you and her hashed out the big picture of what you wanted and then let me handle the details, ‘stead of making me run back and forth between you like some pasty clerk,” Ji Rong drawled.
+
+“I hope we can both minimize our inconvenience.”
+
+Good. She would be able to see Sun Liling and make good on her end of their deal.
+
+Ji Rong gave a grunt of agreement and gestured at the pair of guards standing before the internal doors ahead of them, who, in turn, opened them to allow Ling Qi and Ji Rong into the manor’s sitting room.
+
+Sun Liling was already there, her arms behind her head as she balanced her chair on its back legs. She glanced at them as they entered, and the chair tipped forward, landing with a clunk.
+
+“Well, here we go. Why don’t we get this done with, huh? I’ve heard you’re getting run ragged today, Miss Baroness.”
+
+“It is a busy day for certain, Lady Sun.” Ling Qi lowered her head politely in a short bow. “Thank you for receiving me.”
+
+“You can thank Ji Rong. Not like I actually want to make his life a pain in the ass.” Sun Liling shrugged. “So, let’s talk, yeah. What’re you looking for from us?”
+
+“A few broad categories.” Ling Qi observed the princess. She had to be careful with her senses and with how much she reached out. “Firstly, we request information on the passage through the mountains you mentioned. We would like to be able to compare such information with that from our guests.”
+
+“The ones who say they fought a ‘flower demon’ before, huh?” A catlike smirk curled her lips. “Yeah, I can see why you’d want that. Go on.”
+
+No answer yet.
+
+“Secondly, we request any information the west may have retained about the barbarian religion after the conquest. It seems likely that this creature is one and the same with the old goddess of the red garden.”
+
+She kept herself relaxed as she let her eyes look beyond the physical, the vague impressions of aura and qi. It was still… not easy, but she had walked enough in dream to know how to peek past the veil. It was an important skill for not stepping directly into something unpleasant.
+
+The scent of blood was overwhelming. Ji Rong had not been lying about the sound of beating drums. But… he was wrong. It was not drums. It was a heartbeat. A vast, vast heartbeat, echoing from half a continent away. A heartbeat pounding through a conduit of blood, flowing into Liling.
+
+It was a mighty cultivation art indeed to be able to tap into such a deep well of power from so far away. Had her Great Grandfather found a way to directly fuel his descendants cultivation?
+
+“Huh. Not much of that left.” Sun Liling scratched at her cheek idly. “Gramps mostly wiped the ones in the center out, y’know. The priests and all. Not like the commoners out in the sticks that we let live know more than the average peasant knows about the great spirits, y’know.”
+
+“I am certain your people retained some knowledge. I am not so foolish as to think that soldiers lack intellect. The west is a martial land, but you are not unthinking brutes.”
+
+“Hah. Isn’t that kind of you?” The other girl chuckled. “Really going to butter me up now?”
+
+“I have never been the one to initiate our troubles,” Ling Qi replied.
+
+Sun Liling’s eyes narrowed, and Ling Qi felt the princess’s intent wash over her. Princess Sun was the hunter. She was a woman who had never known a life as prey and had never known what it was to be weak. That was the difference, the line that could never be crossed between them.
+
+… Only that wasn’t true. That, she could pick from the qi invested in every pounding heartbeat. Even a tiger was once a cub. Even a blood-soaked hunter was once a helpless babe. No life begins with might. Strength arises from weakness. Strength grows from frantic battle and desperate fear. The spilled blood that ferments into the intoxicating, barrier-shattering elixir that is resolve, spite, and hate.
+
+How brittle are those who forget the fear of the weak.

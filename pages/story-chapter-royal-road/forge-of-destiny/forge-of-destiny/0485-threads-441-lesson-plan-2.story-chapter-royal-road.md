@@ -1,0 +1,123 @@
+---
+id: 80cfb653-3933-51f5-89dc-89817f755d4f
+page-type-slug: story-chapter-royal-road
+title: "Threads 441-Lesson Plan 2"
+slug: 0485-threads-441-lesson-plan-2
+partOf: forge-of-destiny
+position: 485
+ownLength: 1716
+unit: words
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2172803/threads-441-lesson-plan-2"
+royalRoadId: "2172803"
+---
+
+"The roots?”
+
+Ling Qi pondered the unspoken question. As a teacher, Shu Yue was not one to tell her she was wrong, or even guide her choices much, so it wasn't an oblique rebuke or warning.
+
+"I've seen the clashes of high ideals and the towering perspectives of sovereigns. I've seen what a Way like mine could be like at those heights. My thought then was that the difference lay in the faces, the individuals of your kin and community. Letting them disappear into the whole is the start of a poor turn." Ling Qi shrugged. "I'm already bad at remembering people who are too far away. I've engraved the lonely streets into my Way, but I'm not sure if it's enough. Seeing what an unrestrained ideal can do to those beneath its notice is a lesson I will benefit from, which will sharpen my own weapons well, such as they are."
+
+What she had suffered, she had made her weapon: isolation, the privation of the mind. That was the cultivation she had chosen. In every art where she had the capacity to harm, there were traces of that weapon.
+
+She knew she was going to hate looking into such a pit of ugliness in the depths of Xiangmen, but she also knew that the coming offensive against the ith would be so much worse.
+
+"So, yes,” she continued, “the roots, down where the suffering is all the sharper for its lack of malice. As for the Palace, I have a feeling I'll need to see it again but now is not the time. That journey should not be touched by war."
+
+"I will not promise to offer my guidance toward it when you feel ready. A choice made is a consequence set. Without such, they are meaningless."
+
+"I understand." Ling Qi bowed her head. "May I ask how we will proceed with this lesson? I cannot disappear for long."
+
+"I will pose you questions and assignments, observations to make during the days of your stay. When I am satisfied with your efforts, we will descend, and you will examine those answers in the face of the nightmares. This will keep the lesson grounded in the present, as your Way must be, and prevent too much strain and mental pollution from ruining your other efforts."
+
+"I accept my choice.”
+
+"Then, let it be so," Shu Yue said gravely. They straightened to their full height. "Another guest arrives."
+
+Ling Qi glanced outside at the position of the sun. "Oh! Yes, Meng Duyi was meant to come by today."
+
+"I will not delay your meeting with the Maker of Harmonies. We will speak again when you journey north."
+
+"I will look forward to our lesson."
+
+Shu Yue's head tilted, their ear left almost horizontal to their shoulder. "I do not know that you should, but it pleases me that you look ahead with clear eyes."
+
+Their form collapsed, shadows skittering away into the corners of the room. Ling Qi was once again alone, or seemingly so, anyway.
+
+"There isn't much reason to drive myself to distraction wondering otherwise, is there?" she wondered aloud, not expecting an answer. She didn't receive one. In the absence of Shu Yue's buzzing, empty aura pressing down on her, she could feel the slow approach of Meng Duyi, like a winding stream burbling over smooth river stones sedately and without excitement. His news must be nothing terrible, then.
+
+She gestured as he arrived, and the door opened with a faint click. Meng Duyi strode through without a pause. Such efficiency was only expected when everyone involved had a certain level of perception.
+
+"Thank you for receiving me, Baroness."
+
+The door swung shut behind him as easily as it had opened.
+
+"You were my scheduled meeting. I would not dare use your time so poorly as to push it back without good reason."
+
+"And the shadow did not have one to report," Meng Duyi replied agreeably.
+
+Shu Yue had not been hiding their presence.
+
+"We were simply discussing lesson plans."
+
+He pursed his lips. "I will not waste time speaking of wariness. You have already chosen a very old path when it comes to choosing mentors."
+
+Ling Qi smiled. He didn't even know about Huisheng, but his observation was still true. Learning from deadly spirits was perhaps the oldest form of cultivation.
+
+"I have slowed down for long enough."
+
+Meng Duyi observed her beneath his antlered headdress, stroking the length of his beard thoughtfully. "If that is your Way. I have made some changes to the arrangement of your quarry. There were poor practices."
+
+"I admit, I'm surprised. What did Lady Cai miss?"
+
+"Her plan was precision perfect for a more northerly city, but it failed to take advantage of the geography and spiritual landscape here. It is always easier to move goods by water to begin with, and you are arranging these small canals already. More effective transport back to your construction sites was the start."
+
+"I see." The quarry was a ways out from the town center to avoid the noise and dust from troubling anyone. "And the run-off?"
+
+"There are several drainage techniques and rites which we use in the western fens which were applicable; the spirits of the earth and stone will avoid mingling with the waters if treated correctly, and the correct cadence and pattern of the stone-cutting can induce them to cooperate and ease the labor."
+
+"Can our mortal laborers handle the proper methods without causing more dangerous offense?" Ling Qi asked. She was not well versed in mining procedure, but she knew the horror stories which sometimes filtered back into Tonghou from the mines: crushing and suffocation, the rage of the injured earth swallowing a dozen men whole or infecting them with choking, wasting sickness.
+
+"I took your arrangement of the fishing rites and adjusted them. Work songs are already becoming commonplace. I've ensured the spoken rite is simple and catching." Meng Duyi rested his hands heavily on the rustling top of his cane. "More expansive operations may require more of the foremen, but I judge neither you nor the Lady Cai will balk at the slight increases in cost. It will train workers better for the dangers of spirit stone mining regardless."
+
+He gestured, and a wooden scroll case appeared in his hand. He laid it on her desk and straightened back up.
+
+"I have written a treatise for your lady and yourself to review, along with young Master Zhengui."
+
+Ling Qi stood, clasped her hands in front of her chest, and bowed. "Thank you, Sir Meng, for your efforts on our part. I regret that I have not had more time to avail myself of your lessons directly."
+
+"Your brother is an attentive enough student. I will be here a decade yet. I am aware of the demands on your time. In the end, my lessons are yours to take," Meng Duyi replied serenely.
+
+In the end, it was her time she was spending by focusing on other matters. "Still, I hope we might find the time soon. May I ask if you received the surveyor's notes regarding the cultivation site on the upper cliffs?"
+
+"This Cathedral of Winds? A well-chosen name. The danger there is leaking a slight taint into the river, but if you take care of the issue soon, there will be no trouble with it. The flow of impurity is too dilute currently."
+
+"Good," Ling Qi said, feeling some relief. The last thing she needed was a spreading sickness here. "Sir Meng, can you look into the construction materials for the shrine we intend to place down there? I would like a professional opinion on whether they will suffice for the spirit of the crystals when it awakens."
+
+"The spirit is dormant, and its flows are tainted. It is difficult to make any judgment with certainty, even for I. However, I will review what you have gathered and ensure there are no obvious problems."
+
+"Thank you, Sir Meng. I need to prepare for the expedition to the cathedral site, but I hope I will find some time to hear your wisdom in the aftermath."
+
+He stroked his beard. "I suppose the communion with the spirit there and the clean-up work may be a useful venue for an introductory lesson. If I may…"
+
+"Please," Ling Qi said, curious.
+
+"This room was chosen well. The balcony faces east, receiving the strong yang of the dawning sun each morning, but if this is to be your primary office, it will not be enough, given your nature." The geomancer’s eyes panned around the room. "Yin pools in your presence. While you are suited to it, it will make your subordinates sluggish and fatigued. I suggest looking into other sources of yang: an art piece with brighter colors, and perhaps a more intense lantern for light. Summer-aspected floral arrangements may also work."
+
+"Would a muse of the Dreaming Moon counterbalance the pooling of yin?"
+
+Meng Duyi raised an eyebrow. "To an extent. I would suggest some brighter colors in the halls and nearby offices regardless."
+
+"I will see to it, though I really do like more muted colors." Ling Qi peered around the room. Some spots of brightness wouldn't hurt, especially if they were mainly in the halls outside, and some flower arrangements would make the atmosphere cheerier.
+
+"For your own space, it may be fine, so long as you do not carelessly keep any subordinates working in the interior for too long. You yourself are a great attractor of yin energy, amplifying what is in your surroundings. Mortals and low cultivators have much less constitution for concentrated energies than you or I."
+
+Just something else to remember. It was no wonder that a higher realm could forget and trample others without any malice.
+
+"I'll keep that in mind. It's a leader's duty to take care of their subordinates."
+
+"Easy words to say. Easy words to forget. We will speak again when your expedition is done then, Baroness?"
+
+"We will. Thank you, Sir Meng," Ling Qi replied, looking back down at the work on her desk. She just needed to finish these reports for Renxiang, and then, she could go out to wait for and meet Suyin and Sixiang.
+
+She'd missed her friends a great deal.

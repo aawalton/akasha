@@ -1,0 +1,157 @@
+---
+id: 1f4c0cb8-a10a-5872-b3dc-bf8ad4505462
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter Chapter 403-Standing 1"
+slug: 0447-threads-chapter-chapter-403-standing-1
+partOf: forge-of-destiny
+position: 447
+ownLength: 1897
+unit: words
+publishedAt: 2024-09-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1821851/threads-chapter-chapter-403-standing-1"
+royalRoadId: "1821851"
+---
+
+"Goodness, Ling Qi! You just cannot keep out of trouble, can you?"
+
+"So I have been told again and again," Ling Qi said wryly.
+
+The gangly silk wrapped skeleton serving their tea bowed with a flourish, dapper black servant’s robes rustling around its limbs. The empty eye sockets of the horse's skull that made its head glowed with a faint green light.
+
+Ling Qi took a sip from her cup. The balance of the milk with the mellow flavor of the blend was perfect, at least to her unrefined palette. Cai Renxiang would probably have more to say.
+
+"You've really improved your automatons."
+
+LI Siyuin smiled at the praise. "Well, it’s only with my direct attention that they can have so much finesse."
+
+"Still impressive. You'll be able to split off a dozen selves the moment you step into the fourth realm," Ling Qi replied playfully.
+
+"Now, you are just making fun of me with praise. Who even knows if I will reach so high? But that aside, Ling Qi, I am glad you are looking so well. The things I’d heard… I expected worse honestly."
+
+Ling Qi rubbed her bare fingers along the smooth porcelain side of her tea cup. It was still a fresh sensation to touch the world without a layer of medicine-soaked wrappings and qi cushioning. But her hands were bare now and showed no sign of burns.
+
+Of the rest of her body, most of it was still tightly shrouded in medical wrapping. More importantly, she had begun to be able to flex and move her ankles and toes again, and she had sensation in her lower legs. It was strange how exciting such a basic movement could seem.
+
+"I have been recovering faster than the physicians have projected. I suppose I really am just that stubborn."
+
+Li Suyin fixed her with an unimpressed look. "You had better be following their instructions."
+
+"Of course I am," Ling Qi replied with a look of mock hurt. "I merely keep exceeding their predictions."
+
+They were only small cultivation exercises!
+
+She held the other girl's gaze until Li Suyin huffed and looked away. "I shall have to thank your junior sister for keeping an eye out."
+
+Hanyi had been colluding with her mother, and the spirit had shown none of the proper respect she owed her senior sister in refusing to let the matter lie. … Hanyi probably deserved Suyin's thanks. Her own as well, really.
+
+"If you wish to get her a present, she prefers sweets or glasswork," Ling Qi said.
+
+"Perhaps I can buy something." Li Suyin sighed. "The sect is preparing to remobilize."
+
+Ling Qi's eyes wandered the web hung rafters of the tea room. Li Suyin's sect manor was tight and claustrophobic, but the bright qi lights on the surface floors kept a good ambiance.
+
+"The offensive against the ith is set for the fourth month of next year."
+
+"In the spring after Her Grace's wedding at the beginning of the year," Li Suyin agreed. "The fighting in the underground beachheads has never stopped. It will be worse once the Duchess begins digging."
+
+"And you'll be involved," Ling Qi said unhappily.
+
+Her friend tilted her chin up challengingly. "So will you."
+
+"Yes. So how big will the war construct be?"
+
+"I've been modifying the manor to transform in case of another attack, so I can manage at least that much bulk, but…" Li Suyin's hand flew to her mouth. "Ah! I mean, that will be a surprise!"
+
+Ling Qi snorted.
+
+Li Suyin puffed out her cheeks adorably. "I have many projects which will be online by then."
+
+"Just remember to cultivate, too," Ling Qi replied, amused.
+
+It felt better to joke than it did to imagine what it was going to be like down there in the dark. People killing, and people being killed. She could not talk the province or the sect out of the war against the ith, not after the attacks on the imperial settlements and the death of Elder Zhou. So war it was.
+
+Li Suyin pouted. "I get plenty of exercise! Find new jests."
+
+Suyin was solidly at the third stage of green in spirit and the second stage physically. It didn’t match Ling Qi's speed of cultivation, but it was quite respectable. Ling Qi dipped her head in acknowledgement and changed the subject. "Have you talked to anyone besides Qingling or your tutors since I left for the summit?"
+
+"Su Ling is returning soon," Li Suyin replied evasively.
+
+"And I'll be happy to see her, too. What about that young man who you did the joint project with?"
+
+Li Suyin frowned. "... He has moved on to other interests."
+
+"Ah." Ling Qi could feel Li Suyin's self-recrimination in that statement. If the other girl already felt her inattention had driven someone away, there was no point in belaboring it.
+
+"It's just so difficult to pull myself away from my work when there is so much that needs doing,” Li Suyin continued. Frowning at her empty teacup, she rang the little bell on the table, and the silent skeletal automata clicked and swished its way back to pour her a new cup. "And it's not that I didn't like him, but… isn't it much more interesting to work together on a project than it is to go out for food or some other frippery neither of us need?"
+
+Ling Qi smiled. "I understand where you're coming from. I can't scold you, not when I think the same."
+
+Li Suyin sighed glumly. "I don't think I can be a good wife anymore, but it doesn't bother me like that should."
+
+"That's just going too far." Ling Qi leaned forward and poked her friend in the forehead. "You're still thinking like a mortal, Li Suyin."
+
+The shorter girl batted her hand away. "I know! I have many more duties, and I won't set my projects aside… I just… Who would even try to sweep a girl like me off my feet anymore?"
+
+Ling Qi considered her friend: the white scars around her faintly glowing eye, the jeweled, clawed gauntlet of white jade that covered her left arm, the high-necked, web patterned mantle, and the glinting, sharp metal threads. She felt the way Li Suyin's aura branched out, connecting to countless automata and weapons caches stashed in the construction of the manor.
+
+"A suitor with a brave heart and clear eyes who can see my soft hearted, squishy friend Li Suyin under the trappings."
+
+"I—I am not squishy!"
+
+"No, even if you exercise regularly, Li Suyin will never not be squishy."
+
+It was true though that the higher you rose in cultivation and the more you distinguished yourself, the harder it was to reach out beyond your interests. That was one of the issues of not securing an earlier betrothal when two cultivators’ Ways could still be malleable.
+
+"You are incorrigible," Li Suyin grumbled. "Ah, Ling Qi, you are, um, leaking."
+
+Ling Qi blinked, shaken from her thoughts, and realized the room was filling with a clinging silvery mist. It curled in long spiraling fingers around Li Siyun and crept up the walls. She inhaled, and the mist was pulled back in, vanishing under the hem of her gown and into her sleeves.
+
+"Sorry. My domain is able to express again, but I sometimes forget to rein it in after so long without need."
+
+"No, no, it's fine. I'm glad for your health. Besides, your domain has always been comforting."
+
+"Has it?"
+
+"What few times I've experienced it, at least. I am told that others find it very dark and cold. You have your own fearsome reputation."
+
+"I suppose it is," Ling Qi mused. "I'm not close to many people, and my domain reflects that. I feel that some aspect of it has shifted though."
+
+Isolation, the cold pain of a starving child, was still embedded in her. It always would be. That was the root of who she was, and she had taken that truth and experience and shaped it into a weapon.
+
+"You are different," Li Suyin agreed. "I do not think we could have spoken about my lack of courting before. And as for what you have done in the south… I think many are still coming to terms with it."
+
+"I had help, and I gained some small insights," Ling Qi said. "I suppose that is part of it. I realized that I don't need to freeze out everyone who is not my friend. Most people will never be my friend, but then, most people will never be my enemy either."
+
+"You are very stubborn, but when you change your mind, you certainly have no doubts or regrets," Li Suyin said fondly. "I wish I could do the same."
+
+"It can be good to question yourself," Ling Qi allowed. "But at some point, one has to accept the answers they've found."
+
+"Yes. That is why I will not stop and why I will keep making more hands, more bodies. The less people who need to stand on the front lines or to work in deadly places, the better."
+
+"That sounds like a good resolution. I suppose I will have to make sure everyone stays aligned to keep them from squabbling over misunderstandings and hurt pride so you can do your work cleanly."
+
+Li Suyin let out a small laugh, covering her mouth. "I feel your job is the harder one!"
+
+"It might be." Ling Qi gave a put-upon sigh.
+
+"I wasn't actually going to graft limbs on, you know. I don't want to make myself that difficult to approach."
+
+"I'm glad for you," Ling Qi said dryly. "And don’t forget that you can approach someone, too."
+
+"Ling Qi! Honestly, I'm not sure if going all the way in the other direction is best." Li Suyin’s cheeks flushed. "I also wanted to thank you for lending me your muse. Sixiang has been very helpful in researching some notions I had of remote spiritual tethers as a control mechanism."
+
+Ling Qi nodded, pretending she fully understood that. "They did it on their own. Is that puppet body they've been using compensation then?"
+
+"Oh, yes, an early prototype. The data I get from their consistent use is payment." Li Suyin gave her a challenging look.
+
+She held up her hands in surrender, and then gestured to her empty tea cup.
+
+Li Suyin's automata smoothly poured her another and retreated from them once again, the glow of its eyes shining out of the shadowed corner of the room. They sat in companionable silence for a few moments, both enjoying the smooth earthy blend Suyin had served.
+
+"What are your plans by the way?" Li Suyin asked. "I know your adopted sister—congratulations—went south. Are you intending to go as well? You're well enough to travel a little."
+
+"Not yet. Lady Cai will be visiting early next month. Ling Nuan was pleased enough to go south and see our home-to-be and help the workers make arrangements for the new sheep herd that will be arriving. I may visit Snowblossom again after that if the physicians approve."
+
+"Wonderful. I hope everything is going well. I don't know what I would do if I needed to worry about a whole village rather than my little manor."
+
+"Well, calling it even a village is overstating it at this point, but we are getting there…"

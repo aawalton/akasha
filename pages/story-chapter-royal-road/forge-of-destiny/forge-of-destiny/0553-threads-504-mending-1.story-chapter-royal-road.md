@@ -1,0 +1,131 @@
+---
+id: 4c32fdc4-0c02-5d73-bbf8-ca33ef037c9d
+page-type-slug: story-chapter-royal-road
+title: "Threads 504-Mending 1"
+slug: 0553-threads-504-mending-1
+partOf: forge-of-destiny
+position: 553
+ownLength: 1898
+unit: words
+publishedAt: 2026-03-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3135485/threads-504-mending-1"
+royalRoadId: "3135485"
+---
+
+She did have one more promise to keep, though. One more conversation to have, before she turned her mind to the task of arranging meetings with the subjugated ith.
+
+“We got a few nights left. Doesn't have to be tonight,” Sixiang offered.
+
+No, she shouldn’t put this off any longer. They were both avoiding it in certain ways.
+
+"Suppose we are."
+
+Beside her, at the exit of the palace gardens where she'd gone to linger, looking out over the constellation of lower branches stretching in the yawning depth of the sky below, Sixiang shimmered into existence, a hollow shell of refracted light. It was a thin projection to Ling Qi's senses, barely there.
+
+"Whatcha thinking then?"
+
+"I think we need to just… talk, without getting sidetracked or deflected. How about we take a walk?"
+
+Sixiang made a show of heaving a sigh, putting their arms up behind their head. "A walk, huh? Yeah, that sounds nice. Where to?"
+
+They left the palace lights behind, skipping distance like a flung pebble skating over the water's surface. Flashes of the street and the riot of colors on the other side intertwined.
+
+It wasn't so different from one side to the other. On one side, streets thronged, filled with celebration, laughter and streamers and performances. On the other side, spirits spun and danced, pirouetting in the air between shimmering bubbles of contentment and good feeling and the fuzzy happiness of inebriation.
+
+"What side do we feel like walking on?" Sixiang asked as they emerged from a side street in a shimmer of rippling light, joining the small parade proceeding twigward to the city's edge.
+
+"Your side. Less chance of interruption, and I want to remember the good of Xiangmen's dream before I leave," Ling Qi decided.
+
+"Hard to overhear us when all the music is blaring. Do you mind if I choose a spot?"
+
+She glanced at her muse in surprise. "If you have one in mind, go ahead."
+
+Sixiang gave her hand a squeeze as they stopped at the edge of a thoroughfare. A small procession of musicians marched through, an impromptu orchestra bringing music to the nighttime streets.
+
+"I got something."
+
+Ling Qi inclined her head in agreement. Sixiang tugged at her hand, and they stepped back through the veil. Colors and noises rushed by, and thoughts and feelings scattered before them like schools of frightened fish.
+
+They emerged in a hall of silver and glass, overlooking the riot of spirits below. The grand revel she had witnessed on her last journey to Xiangmen was now swollen like a river in the midst of a spring flood, a riot of shapes and bodies crashing through phantasmal streets.
+
+The cacophony was muted, a dull roar. Ling Qi pressed her hand to the seemingly glass pane beside her and her fingers sank into it like mud.
+
+"I remembered. There was a previous part of me whose human kept a viewing platform around Xiangmen. It's busted and falling apart, as ya can see. It'll do, though."
+
+Ling Qi tilted her head as she observed around her. It was like a birdcage, or rather, the bottom of one, with thin bars of silver rising into the sky overhead and melting away into the dome of permeable dreamstuff overhead. Beneath her feet, the bars came back together, creating the floor they stood on.
+
+She could feel an echo from the person who had made it. This was, to them, what her island moon shrine was to her. It had been an entry point, a cultivation chamber. Now, it was faded, only a whisper of poetry remaining in the wind.
+
+"It's still quite pretty. Do you remember anything else about that dream?" Ling Qi asked. She thrust her hands against the glass and parted it, unleashing a riot of noise and scents, the bubbling good feeling of a city mid-festival.
+
+But it didn't leave their words to each other any less clear.
+
+"Not really. I don't have much more than light impressions of past dreams. Permanence ain't exactly what the Dreaming Moon is about." Sixiang came up beside her to lean against the silver frame. "So. This conversation."
+
+"This conversation," Ling Qi echoed.
+
+Silence stretched between them. Out of the corner of her eye, Ling Qi saw Sixiang's hair flick in a phantom breeze, growing shorter while their face and shoulders grew broader.
+
+"I still feel it, even now that I've been away from ya. I honestly don't know how love, that permanent love, not just the fleeting infatuation of a tryst or a dream, works. I just know I don't want to leave you, and I don't want to let you go." Their voice was deeper, and Sixiang looked over at her with a longing look.
+
+Ling Qi felt a skip in her heartbeat, a slight heat that wanted to rise in her cheeks. It wasn't quite what she'd felt around Meng Dan when he started laying on the charm, but she wouldn't lie and say there was nothing there. And yet, it was stifled by the confusion around…
+
+"I know that you feel something like that with your fam too, yeah? I've felt it, looking at them out of your eyes."
+
+Around that.
+
+"Maybe. I haven't dug as deep into your emotions as you have into mine." Ling Qi turned around, letting the wild music outside wash over her as rested her elbows on the sill of the window she had created. "That's not an accusation. I know I could have, but I'd probably have panicked, if you’d let me."
+
+"Yeah," Sixiang agreed after a pause.
+
+Ling Qi sighed. "I don't know how to resolve that for us. I want to. I don't like this awkward, in-between state we’re in."
+
+"This liminal thing, ya mean?" Sixiang waggled their eyebrows.
+
+She snorted. "Yes, sure."
+
+Sixiang chuckled, but it trailed off, back into an awkward quiet. Ling Qi cast about for how to approach the conversation they needed to have. Sixiang scuffed his foot against the floor, and the platform lurched beneath them and began to move, flying over the spirit-filled streets of Xiangmen's dream, a rain of sparkles trailing behind them.
+
+Now that she was aware of them, she could see the strangling hands of nightmares even here.They pawed at the edges of her senses and snaked through the alleyways, but they were withered and unhealthy, covered in sores and burns. But honestly, she wasn't interested in nightmares, not right now.
+
+Her eyes wandered to the fantastical things that danced in the streets. Potent dream wines flowed, and glittering wings of butterfly scale and bright feathered plumes twirled in the air, their owners caught in dance. Muses, spirits that were little more than ephemeral clouds of glittering bubbles filled with human emotions, swirled in the streets, and they raised their cups to the colorless radiant sun in its clasping cage of thorns so far above.
+
+It was chaos, a good chaos, the riot of choice and human experience. But it wasn't simple, was it? It never was.
+
+"I liked hanging out with Suyin," Sixiang broke the quiet between them. "She's such a fun little ball of nerves. I liked seeing how those machines work, and I liked showing her how to imbue my baby cousins into formations and stuff."
+
+"Should I worry about that?" Ling Qi wondered.
+
+"Nah, nah. I mean, probably, anyway. It's probably fine," Sixiang teased.
+
+Ling Qi laughed.
+
+"I do think there are things, people, I might like to stick around for. That squirt, Hanyi needs a needle to the ego sometimes, Suyin needs a muse too, the silly shut-in. Gan and Su Ling are adorable when you tease ‘em… I just don't know if they'd be enough, without you as my anchor," Sixiang continued. "I was made for you, even if I've somewhat grown past that."
+
+And there it was, a thing that caused her some discomfort. She knew Sixiang could see it on her face, too, by the way his expression dropped.
+
+"You were strange to me at first," Ling Qi said slowly. "A disruptive force, shaking everything up around me. You encouraged me to indulge in my worst instincts sometimes, like that very first party Cai Renxiang got me an invitation to."
+
+"Ah, yeah. You probably still shouldn't take my advice about politics," Sixiang told her.
+
+She rolled her eyes at that. "Once I bound you, you were a confidant that was always there. You understood me, and I could always talk to you. You became one of my best friends, and that’s saying something with how rapidly I was forming friendships back then, like a beggar stuffing food into her pockets at a public feast."
+
+Sixiang snorted, and Ling Qi quirked a brief smile, amused by the imagery her own words conjured. "More than that, I came to rely on you. I didn't want to let you go either. I convinced you to stay, even when you were considering fading. That first time we danced, that’s when you started feeling like this, wasn't it?"
+
+"It was the first time I really thought of you as beautiful, yeah,” Sixiang confessed. “I felt how much you wanted me to stay, and it made me want to stay, too. You understand, right? I was upset, fraying because feeling so much from those bandits you killed hurt me, like having splinters jammed under my fingernails. It still does."
+
+Ling Qi thought of Diao Linqin and kept quiet.
+
+"I didn't care about them. I was upset at my pain. You were still the only real person that mattered to me. Well, I was grateful to the little Cai for talking you out of a bad spot, too." Sixiang continued, “"Getting out of your head for a while was the right answer. Having a body was also the right answer. I hate the distance, though. I do wanna goof off in my silly mannequin, but I also want to come back to ya after, not after months like this, but maybe after a day or two."
+
+"I don't like being alone in my own head,” Ling Qi confessed.
+
+She diverted a soothing thought to Qiyi, who responded with something like a cat's purr. She did love her dress, but it wasn't the same. Qiyi was more like a very small child, and was much more passive beside, being a dress. She could and would go silent for days until something roused a powerful enough interest in her.
+
+"I miss my friend, and I don't like this brittleness between us. I don't like how quick you are to apologize and back off." Ling Qi voiced the discontent that had been dogging her.
+
+"One way or the other, we need to decide what we want to be," Sixiang said. "I'm not gonna compete with those guys. That feels weird to me… Possessive. Nightmare-y. I know humans might think it strange, but you're cute with them. I don't know how any one of 'em would react to a plus one, though."
+
+Even with how far she had come from being a provincial rube, Ling Qi felt very uncertain around the idea herself. She certainly couldn't even imagine entertaining the idea with anyone but Sixiang. All the same…
+
+"Either way, I'm not going anywhere,” Sixiang concluded. “If you just want to be friends or family, I can deal with that. So. What do we want to do?"

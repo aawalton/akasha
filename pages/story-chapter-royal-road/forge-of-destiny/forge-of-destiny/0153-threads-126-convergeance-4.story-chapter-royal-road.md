@@ -1,0 +1,139 @@
+---
+id: edc8be88-ba94-5023-8cbf-6496ff601d7b
+page-type-slug: story-chapter-royal-road
+title: "Threads 126-Convergeance 4"
+slug: 0153-threads-126-convergeance-4
+partOf: forge-of-destiny
+position: 153
+ownLength: 3074
+unit: words
+publishedAt: 2021-09-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/745307/threads-126-convergeance-4"
+royalRoadId: "745307"
+---
+
+This was a mistake.
+
+For the hundredth time since Ling Qi had begun reporting back, the thought flitted through her mind, a stray thread in the loom. Continuing this operation in its current form was the incorrect choice. That was not to say that seeds of alliance being planted should be allowed to grow, that their enemies should return home unmolested, new resources in hand.
+
+It was said that in the opening salvo of Ogodei’s war, a single iridescent arrow from beyond the horizon had pierced the millenia old mountain fastness of Black Lotus Peak and struck Patriarch Li through the middle dantian in his own meditation chambers. Enemies of the Empire could not be allowed such weapons. But this was the wrong way to go about it, and not all here were enemies just yet by her measure. Nor could she see any path from this that would weaken their enemy’s suit for allies. This was a hammer being applied to a half painted canvas. But her opinion was not yet relevant in the grand scheme of things.
+
+Her gaze flicked to the disciples far below where she stood in the sky. Her objection had been logged, and it had been dismissed. The elders involved in the operation had relayed the order to proceed. Cai Renxiang felt a spark of anger, incandescent in its unfamiliarity. Was this a shadow of what Mother had felt before her ascent when the warning bought with Grandfather’s blood was ignored in the court of the Hui?
+
+A childish comparison, perhaps. The situations were not even close in severity.
+
+“Prepare to fire,” the communications disciple said crisply, his earlier babbling gone. Power from a dozen disciples washed over her, bolstering the flow of her qi. She saw through Ling Qi’s eyes and beheld her target.
+
+Cai Renxiang’s misgivings wrought no hesitation. Whatever her thoughts, she did not intend to leave Ling Qi unsupported. Cifeng’s sheath unspooled, shimmering thread revealing reflective steel, and in her hand, the blade purred.
+
+Around her, rain evaporated, shredding into its component motes of qi as her Light burned. It spilled from her pores, casting the valley below in harsh light. Radiance spilled from her eyes, and mortal vision faded away, revealing the pattern that lay beneath, infinite in complexity and beyond all but the meanest comprehension by a mind as young as hers.
+
+In the layer below conscious thought, Liming’s presence bubbled up. The whispers of her gown were not words; they never were. They were animal things, urging animal acts. They were rage and passion and the desire to act. The desire to break and remake.
+
+From the spool of power that lay beyond her reach, Cai Renxiang pulled, and Liming howled in rage, hurling itself against her control, tearing at her mind, seeking to seize her limbs as she took its power into herself, drawing more than she ever had before. She felt her very bones vibrating under the power she drew, and she knew that her face had vanished into featureless incandescence. She had advanced since that day in the swamps.
+
+The mastered Judgement of the Broken World could not be used with her own piddling power.
+
+Her limbs trembled under Liming’s assault as the radiance bloomed outward, bleaching stones and plants hundreds of meters below. Cai Renxiang raised Cifeng in a two-handed grip above her head, the blade replaced by a bar of empyrean light, too bright for even immortal eyes to look upon.
+
+Cifeng sang as Liming’s threads were severed, and resistance ceased.
+
+Radiance fell.
+
+***
+
+Trepidation touched Ling Qi’s thoughts as she considered her targets. This was, she knew, going to be dangerous. Around her were arrayed so many powerful cultivators. This would not be a battle where she would be able to simply shrug off everything hurled her way. It didn’t help that there was still that niggling doubt in her head, wondering if this was a good idea at all.
+
+But the stunned silence that had followed the shishigui’s offer was fading. The fourth realm barbarian was leaning forward in his saddle, and she could feel the sparks of qi beginning to burn in his eyes and ears, presumably checking to see if the sight before him was an illusion.
+
+She was out of time.
+
+Ling Qi fixed the fourth realm tribesman and the beetle-armored shishigui in her eyes and felt the communications disciple’s technique take hold, sending what she saw down to the smallest mote of dust to her allies.
+
+The fourth realm’s eagle screamed a deafening warning.
+
+The storm clouds overhead blew apart in a wide circle around the black sphere that fell. A perfect marble of blackness, thunder boomed and contrails of broken air trailed its path. Overhead, barbarians screamed in alarm as they were yanked upward like puppets on strings, barely able to cling to their mounts. Chunks of the caldera rim were ripped loose, rocketing into the air and smashing into the bodies of men and beasts similarly dragged.
+
+On the opposite side of the Caldera, a mathematically perfect circle of the clouds evaporated under a pillar of incandescent light wide enough to swallow a city block. Three unlucky barbarians circling overhead vanished as the light touched them, seared away beyond even ash at its merest touch.
+
+An eagle’s wings flared, and the wind rose with a roar. A long, spindly arm clad in chitin seized the young musician standing beside its owner and yanked the man and mount alike against the shishigui’s narrow chest.
+
+The black sphere struck the fourth realm's upraised sword, and men screamed as the caldera shook and stone crumbled, bodies and objects dragged violently toward the epicenter. In contrast, the light fell upon the stone with eerie quiet, swallowing the screams of those beneath it.
+
+Ling Qi was already moving, her own role decided. She didn’t wholly understand the danger of this starstone, but she knew enough. A hundred ideas flickered through her head as she descended into the chaos of the caldera. She needed to make sure it couldn’t simply be pulled back into the earth as easily as it had been raised. She saw the way it warped qi at a mere touch, a virulent ooze forming around its bottom. But it was still resting there on the ground, was it not? In some way at least, it still obeyed the Law of Earth.
+
+Her eyes flicked toward the side of the caldera bleached by Cai Renxiang’s light, already fading into twinkling stars, and an idea was born. A moment of silent communication passed between her and Zhengui, and she released her spirits.
+
+There was a muffled sound of displaced air as Zhengui appeared in midair, falling with the force of a meteor toward the center of the cavern, Hanyi clinging to his back. Cold stone warmed to heat as stones were made to remember their fire, and the ground rocked as a plume of lava roared forth, launching the starstone into the air.
+
+Ling Qi materialized beside it and sang the grinding melody of winter, and the force of a glacier slammed against the slowly spinning, airborne stone. It flew downward as if flung from a catapult into the fading curtain of sparkling light from Cai Renxiang’s attack. She saw the stone there bleached a perfect pearly white. There were two ashen shadows where the two attendant shishigui had been and four barbarians gathered together on their horses. Horrid burns marked the beasts’ flanks, and she could see exposed muscle where fur and skin had burned away. Their riders were hardly better, their armor in tatters and their skin covered in burns.
+
+The starstone crashed into the middle of them, and the barbarians scattered like pins, but one was too slow. An ugly crunch and a hideous sizzling ensued as the starstone struck him. Ling Qi did not look at what remained when the starstone rolled ponderously away across the scoured ground.
+
+It was only then that she was able to get a proper look at the battlefield. Zhengui was in the center, roots already bursting from the ground beneath his feet. She soared just above him, and Hanyi clung to his back, hiding in the shadow of a shell spike.
+
+Sterile, bleached stone crumbled to powder as the shishigui envoy rose from the less damaged stone beneath it, chalky chunks clinging to his scorched armor. Where his armor did not cover, his skin was an angry red. The barbarian musician he had dragged down with him gasped for breath, and his horse screamed, cantering away across the powdery stone.
+
+Muffled booms sounded rapidly from the other side of the caldera. Men lay moaning and broken like sticks across the ground there, and a new crater, meters deep, had been formed. Even now, men and beasts above struggled to fly away from the stones and bodies strewn across the ground, but marked as they were by the hazy darkness of Guan Zhi’s qi, it was slow going.
+
+In midair, the two fourth realms dueled. Guan Zhi’s entire body was the color of blackened bronze, and her limbs blurred beyond sight as she doggedly chased the fourth realm barbarian trying to gain altitude and distance. Fists struck planes of solid wind, and the force of the eagle's shrieks released muffled booms that shook the mountain.
+
+Below, the Twelve Stars Confederation warriors rallied. Two of the weakest lay on the ground, struggling to rise on shattered limbs, their eagles letting out piteous shrieks. The rest rose, but Ling Qi could see damage in more than a few of their movements.
+
+Only the White Sky barbarians stood unharmed. The man had taken to the air on his winged horse, but the woman stood in a circle of frost. Cloth and fur had become armor, stiffened by blue-white rime. A crown of seven points had formed on her brow, and in a hand clad in a gauntlet of ice, she held a scepter of dull iron, its head wrought in the shape of a snarling demon, menacing with spikes.
+
+Ling Qi was not sure she liked the way the woman was staring at Hanyi.
+
+But she didn’t have time to think about that.
+
+Near a hundred arrows fell upon her position, warriors shouting in outrage at her intervention. The arrows crackled with lightning, screamed with wind, and whispered with frost, and Ling Qi wove through them like wind through the rain, spiraling down to Zhengui, who stomped forward, head down toward the starstone.
+
+“Stop her!” a man roared, his voice halfway to an eagle’s shriek himself.
+
+This was going to be terrible, Ling Qi thought faintly. A booming song rang out, a melody of war and defiance. It was a thousand stamping hooves and a thousand raised fists rendered into song. It battered her ears and shook her vision, but a pulse of Sixiang’s qi reduced the effect to a mere ringing.
+
+An eagle screamed, and she struggled to control the wind, her dominance warring with that of the barbarian warriors. In the end, she remained whole and unscattered, but a vortex whipped up around her, hemming her movements. The sky, so badly rent, rumbled, lightning burning in the bellies of the clouds, and the storm fell upon her, jagged bolts striking into her prison of wind.
+
+Ling Qi grimaced as they diffused through her, sparks dancing under her skin. It was almost enough for her to miss the marble of liquid filth that bloomed beside her ear, a churning viscous droplet that swelled and bubbled, the air hissing on contact with it.
+
+Carried on the Western Wind, Ling Qi moved just as the boil burst, filling the air with a stinking miasma of black smoke that burned and sizzled. She rematerialized beside Zhengui and met the eyes of the tall shishigui envoy. The creature’s gaze burned with anger, and as he leveled his outstretched hand, five more droplets of filth bloomed on the tips of his claws.
+
+Zhengui didn’t need her signal.
+
+Roots ripped from the ground, cutting off her vision and granting just a moment to think and act. Mist spilled from her robes, and a singing blade shimmered to life over her head. It sang and shot upward, and a man ordering his troops let out a cry as he found himself alone in a world of endless mist. Her own flute materialized in her hand as her feet touched stone.
+
+That was when the dancer struck. Rising from Zhengui’s shadow, the creature’s knife flashed, and Ling Qi spun, the hem of her gown flaring out as she dodged, and a riot of color erupted. A drunkenly singing bear wrought of moonbeam and dream danced into existence, and it clasped the creature to its chest, spinning them off into the revel.
+
+But that wasn't the only dancer. Her heart almost stopped when she heard Zhengui scream. She whipped around in time to see a second dancer rising beneath him, her knife held in a two-handed grasp as she drove it down into Gui’s neck. Her voice wasn’t the only one that rose. Hanyi leaped onto the thing’s back, her voice the scream of an early winter descending on the world. The dancer twisted, already beginning to vanish back into shadow until roots bound its ankles.
+
+The dancer let out a cry as flesh blackened and withered under Hanyi’s hands, and Zhengui shook them both off with a bellow. The knife had cut a deep gash wound in his throat, but already, magmatic blood was congealing, hardening into a stony scab.
+
+Wood rotted and cracked, and Zhengui’s barricade crumbled in the center where the shishigui envoy strode through. Around him were a hundred droplets of sizzling black impurity or more, each one burning with a spark of baleful qi. Ling Qi barely had time to turn again before they shot out, spinning crazily in different directions. Elongating into blades, twisting into cutting cords, and expanding into exploding spheres, they carved through her revel, tearing apart phantoms, shearing dancers to pieces.
+
+Ling Qi hissed as one particularly large explosion splashed across her back, another over her ankles as she leapt over a blade. Burning and blistering flesh marked its passage even as she blurred into wind.
+
+It was only going to get worse. More droplets were blooming around the envoy, rising from his armor and skin, and they were steadily forming a dense cloud in the area, forcing her to flow between droplets or be burned yet again. Desperately, she stepped through the wind, escaping the vortex hemming her in.
+
+Arrows fell upon her, wind tore at her, and she somehow managed to avoid them all, spinning back up into the air to see the surviving barbarians of the shishigui-allied group approaching the starstone. Before she could do anything about that, a bolt of lightning, carried on the strum of an instrument, slammed into her back, sending her crashing to the ground in a plume of powdered, sterile stone.
+
+Ling Qi hissed in pain as she dissolved and reformed back on her feet, and this time, when she spun in a graceful dance, her limbs were trailed by phantom images. For one moment, Ling Qi was aware of space beyond the base physical, and her next step carried her across the caldera, carrying the revel with her. One dancer, still struggling in the grasp of the suit-clad bear came with, and so did the other. She was attempting to throw Hanyi off, but that was difficult to accomplish when Gui’s jaws were locked onto one of her arms and Zhen was biting her again and again.
+
+They all materialized near the wall of the caldera where the stone had come to rest.
+
+The barbarians approaching the stone wheeled on her immediately, the cries of their horses loosing lightning. Gui merely reeled back, sparking bolts causing him to release his jaw, but Ling Qi felt her breath hitch as Hanyi let out a cry and fell from the dancer's back with an ugly scorch mark across her back.
+
+Hoarfrost tore through the air, crystallizing moisture into falling snow as the already wounded barbarian at the head of the trio reeled back, dripping blood freezing as his fingertips blackened and cracked.
+
+But whatever her anger, she could see that she was going to be cornered. Already, half of the Twelve Star warriors were reorienting on her. Arrows were being drawn back, and liquid filth was bubbling from the earth, gathering to engulf her revel. The second dancer had slipped back into shadow.
+
+Only the White Sky were yet aloof. The man on his flying horse eyed everyone warily, a spear of glittering glass in his hands, but she could feel his qi drifting out like a warm wind and clean sunlight, bolstering other cloud tribe warriors. On the ground, warriors climbed painfully to their feet with renewed vigor, broken limbs straightening out. The foreign woman remained on the ground, and around her, there was cold. Stray pebbles and stones, deflected arrows, and more flew toward her, but they all lost all momentum and clattered to rest a dozen meters away. The only difference from before was that now, the foreigner was looking at her instead of Hanyi.
+
+A shockwave rippled through the caldera as Guan Zhi struck a clean hit across the eagle’s beak, sending the massive raptor tumbling back. Ling Qi’s hair was sent fluttering from a hundred meters and more away, but she had to raise her arms in front of her face as cutting arcs of wind tore into her from all sides, their edges gleaming with iridescent light that left hair thin cuts in her bronze dark skin.
+
+Then, the light crashed down for the second time. This time, it came not as a column, but as a blooming radiance that scoured away filth. The shishigui envoy hissed in irritation as a massive chunk of his constructs evaporated and leapt back as a blade crashed down, splitting stone in a six-meter-long trench
+
+Cai Renxiang had arrived, wrapped in radiance. Zhengui bellowed, raising a half circle of wooden walls that cut them off from the rest of the battlefield as Hanyi rose unsteadily to her feet, tears in the corners of her eyes.
+
+Against the wall, the starstone gleamed, slowly sublimating its way through the bleached caldera wall.
+
+Ling Qi grit her teeth. Surely, the rest of the reinforcements couldn’t be far behind now!

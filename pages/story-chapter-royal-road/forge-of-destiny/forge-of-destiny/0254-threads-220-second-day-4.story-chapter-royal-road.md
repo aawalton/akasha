@@ -1,0 +1,185 @@
+---
+id: 75fb2de0-2d0c-5171-9382-6ba7d288701f
+page-type-slug: story-chapter-royal-road
+title: "Threads 220-Second Day 4"
+slug: 0254-threads-220-second-day-4
+partOf: forge-of-destiny
+position: 254
+ownLength: 2518
+unit: words
+publishedAt: 2022-06-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/919420/threads-220-second-day-4"
+royalRoadId: "919420"
+---
+
+Ling Qi sang a high clear bar. The wind howled, the ground frosted, and the whirling panels immediately snapped together into a solid dome that flashed a deep blue as it met the force of her Hoarfrost Refrain.
+
+Ling Qi allowed silver to bleed into her eyes as she studied the way her offensive qi scattered. It struck like a blizzard wind but had shattered on contact with the tiles. Strands of qi had been unwound and separated, a fractal breaking that shredded the qi of her attack into smaller and smaller parts absorbed by the tiles.
+
+The wind whipped up, her gown and cloak fluttered, and the ice of winter howled again to the same effect. Three times more, a quick and strident melody, and Ling Qi’s eyes narrowed. The feeling of his defense was all too familiar.
+
+Isolation.
+
+Weaponized, or perhaps, armorized? That was what his defenses did. They broke things down again and again until each strand of qi and each mote of power was alone and weak, then absorbed them. The adaptive component… Each time a similar construct was used against him, his art and the arrays of the talismans were able to break the offending technique down faster and more efficiently, taking less damage.
+
+Her voice rose, and an eagle screamed. The tremendous phantom swooped down and dashed itself upon the intractable barrier that met it. Twice more, the eagle, and then again, the ice. The Hoarfrost scattered slower this time, not quite as slow as the first time she had used it,but slower all the same.
+
+“Sister Ling has had a revelation,” Xuan Shi said mildly as the barrier around him broke apart, leaving them face-to-face on the now well ruined hilltop.
+
+“It is a powerful effect, but as with anything, there are limits. It is still very impressive.”
+
+“Not so much,” he deflected.
+
+Ling Qi nodded, but her thoughts were distant. It felt strange to encounter a concept so familiar in another's art.
+
+The texture of the concept expressed through these talismans felt different compared to her own understanding, embedded now forever in the blade that was a part of herself. It was privation of a sort, but the closest she could come to articulating the difference was that she cultivated loneliness in scarcity, the deprived wasteland of deepest winter. Xuan Shi’s isolation seemed more like that of a starving man surrounded by a feast he couldn’t touch, the feeling of being alone even in the densest crowd.
+
+It was familiar, but not quite intersecting with her understanding.
+
+“Sister Ling?” Xuan Shi’s voice broke her from her thoughts.
+
+She raised her head and put on a smile. “Apologies. I lost myself in thought for a moment. I think that’s enough of an initial test for me.”
+
+“As Sister Ling wishes,” Xuan Shi said, bowing his head.
+
+Ling Qi returned the gesture and turned away. “Shall you give it a try, Sir Luo?”
+
+“My host is gracious. I may have a technique or two to try.”
+
+“Feel free, son of Luo,” Xuan Shi invited.
+
+Ling Qi moved back from the cleared area to stand beside Zhengui, resting a hand on his head as Luo Zhong took up the field. “Thank you for preparing the ground, Zhengui,” she said, brushing her fingers over smooth scales.
+
+“Zhen was pleased to help,” his other half said snootily, bumping his broad head against her shoulder. Ling Qi chuckled and reached up to rub the serpent’s brow ridges.
+
+“It’s kinda boring with everyone busy,” Gui said quietly. “But that is good ‘cause it gives Zhen and Gui time to think.”
+
+“It gives I, Zhen, time to argue with thickheaded Gui perhaps,” the serpent corrected.
+
+Ling Qi gave a small hum of acknowledgement. She knew Zhengui needed time to contemplate and work through things too. Beast cultivation was narrower, but not so different from her own cultivation.
+
+As she watched, Luo Zhong politely bowed to Xuan Shi before a flick of his wrist brought a paper talisman into his hands.
+
+“I’ll find time to talk to you if you need it,” she offered. She wasn’t going to be overbearing, but she would be available.
+
+Zhen gave a happy hiss as she gave his head one last pat and returned her hand to the top of Gui’s head.
+
+Qi burned across the characters inked on the talisman in Luo Zhong’s hand, and Ling Qi cocked her head as she felt threads of qi extending into the spiritual realm, calling, or rather, pulling on something like a leash or a tether. Crimson fire bloomed within the circling tiles, right between Xuan Shi’s feet.
+
+The whirling tiles slammed down in a solid dome, cutting Xuan Shi off from the outside entirely. A breath passed, and then, they came apart. The fire was gone.
+
+“Well, it would have been disappointing if it was really so easy,” Luo Zhong said, unperturbed.The same fire burned on one character of the paper talismans, fitful and sparking.
+
+“To create a construct within the defenses was an obvious solution. But one would be more foolish not to try, if the option is there.”
+
+Ling Qi watched Luo Zhong nod and sweep the talisman held between his fingers through a few rapid, sharp movements. The light burning in the characters changed, red bleeding to silver, lighting up new characters. Again, she felt a pull on threads extending out of the material.
+
+“What fun,” Wang Chao said loudly as he reached her side. He watched with interest as a horse-sized hound of silver fire erupted from the earth under Xuan Shi’s feet, carrying him skyward on the platform formed of the barrier panels that had snapped into place under his feet. The talisman in Luo Zhong’s hand swept through the air vertically, trailing glittering blue light, and a second hound wrought of clouds and lightning coalesced from the mist left behind by her own arts, diving down to strike like lightning against the dome forming over Xuan Shi’s head. “It seems like Brother Luo is taking this seriously!”
+
+Ling Qi glanced his way. “It does seem so. What is the art he is using? Those aren’t bound spirits. I can tell that much.”
+
+“Luo contract techniques,” Wang Chao said. “He used them in our tournament too.”
+
+That jogged Ling Qi’s memory. In studying the clans of Emerald Seas, she had seen mentions that the Luo had retained a somewhat unorthodox spirit binding and relations tradition from their branch of the Weilu. She’d not put much thought into it before.
+
+Green light burned on a talisman. The silver wolf dissolved, and the wind picked up with an animal howl, a nigh invisible green flash the only sign of the third “spirit” summoned. It felt like sharp edges and spring wind, and she saw chips of ceramic go flying as it struck innumerable times in quick succession at the whirling panels.
+
+“So that’s why I can feel his qi pulling at something out of sight,” Ling Qi mused.
+
+<Pretty costly from the feel of it,> Sixiang whispered.
+
+“Right. Contract arts don’t allow the full spirit to be drawn on, only a certain fraction determined by negotiations,” Wang Chao explained, putting on his knowledgeable voice. “And only to do certain specific things.”
+
+Push and pull, give and take. That explained what she was feeling from those weird liminal connections. It was not too unlike what she’d done with the river spirit, offering power for a service or boon.
+
+Transaction was not completely alien to her own thoughts of community and communication, but the way Luo Zhong employed it felt coarse to her. Impersonal was perhaps a better descriptor.
+
+The lightshow on the hill ended as Xuan Shi crashed back to earth. There was a single tiny chip in the brim of his hat. “An Impressive trick. Such a small thing, slipping in amidst the bright and flashing threats. This one will have to adjust the formation’s threat detection.”
+
+Luo Zhong smiled faintly, raising his hand to allow a glittering dragonfly seemingly made from glass to alight on his fingers. “Against powerful techniques, your work is truly superlative, Brother Xuan. This little trick could hardly change the course of a battle.”
+
+“Perhaps not alone,” Xuan Shi said, inclining his head. “Nonetheless, this one humbly thanks Brother Luo for providing this consideration.”
+
+“That was a fine demonstration!” Wang Chao interjected, walking off toward the two of them. Ling Qi sighed, and giving Zhengui one last pat on the head, followed after.
+
+“A good opening,” Xuan Shi agreed. “Thou must all be considering paths toward circumventing mine technique by now.”
+
+He sounded pleased by that. It seemed that Xuan Shi did have something of a competitive streak, if pushed.
+
+“Maybe, maybe,” Wang Chao said with a grin. “What sort of form do you think the game should take going forward?”
+
+“Perhaps paired contests?” Luo Zhong suggested. “My own cultivation advantage does weight things, but Brother Xuan’s mastery is great.”
+
+“I believe we were thinking of something similar. A few scenarios with more complex objectives might be enjoyable,” Ling Qi agreed.
+
+“True. The wide world is no dueling arena,” Xuan Shi said.
+
+“Ah, game objectives. How fun!” Wang Chao boomed. “I’d object to Ling Qi and Sir Xuan teaming up. I can’t imagine dealing with that to be less than obnoxious.”
+
+Ling Qi cocked an eyebrow. “Am I to be insulted, Sir Chao?”
+
+“Hah, as if! I know you feel complimented by that sort of thing.” Wang Chao grinned at her.
+
+Xuan Shi chuckled. “I and Sir Wang then?”
+
+Ling Qi looked over at Luo Zhong. He still wore an expression of pleasant interest. She thought she might have a better grip on the older boy now. She doubted they would ever be friends, but it was unrealistic to imagine that she could be friends with everyone.
+
+“That seems fair. One senior and one junior disciple for each side. I’m afraid I don’t stack up to a scion of the great Xuan clan though.”
+
+“Sister Ling should be less humble,” Xuan Shi said, surprising her. It had been a rote bit of etiquette, not the sort of statement that would earn a response.
+
+“Brother Xuan is too kind,” she said reflexively. “Anyway, I doubt we want something as simple as a head-to-head duel…”
+
+“Oh! Zhen and Gui can make a thing for capturing! Those games are fun!” her little brother announced.
+
+“A flag capture game,” Wang Chao said thoughtfully. “I have no objections.”
+
+“Nor I,” Luo Zhong agreed pleasantly.
+
+They spoke a little longer, deciding the rules. The victory objective would be of middling size and movable, and the defenders would have five minutes to prepare. The offensive team would win if they could take and hold the objective for two minutes while the defensive team would win if they held for the time limit of ten minutes or took the objective back after losing it and then held it for two minutes themselves. Sixiang and Kongyou would be valid participants, but there would be no other bound beasts involved.
+
+Luo Zhong and she descended the hill to give the others time to prepare.
+
+“You see the benefit the rules give us?” Luo Zhong ventured.
+
+“Yes. It doesn’t require Brother Xuan’s defenses to be broken, merely bypassed. Quite gracious.” It made things more fun after all. Ling Qi appreciated the consideration.
+
+“Gracious, yes,” Luo Zhong said thoughtfully. “You have been quite gracious yourself.”
+
+She gave him a sidelong look as they reached the bottom of the hill. “It is uncomfortable for a guest to be left on their own to grasp a group's dynamics.”
+
+“True,” Luo Zhong agreed, looking up at the stars. “One who does manage earns more respect, I think. But it is a shame if they never return.”
+
+<Hah! Like he ever sent an invite after that first time.> Sixiang scoffed. <Were you supposed to ask, I wonder? Or maybe he figured you’d poke Alingge for an invite?>
+
+Personally, Ling Qi wasn’t certain she bought his words, but she acknowledged that they approached social situations differently.
+
+“Time is a cruel master. One never has enough of it,” Ling Qi countered. “When weighing which engagements to attend, is it wrong to place weight on those which are enjoyable as well as profitable?”
+
+Luo Zhong smiled thinly. “We all weigh our priorities differently. Such is life. But, all the same, a wider network has better utility than a smaller one.”
+
+“On that, we must disagree. I find that a smaller, more trusted circle is superior. But I can at least understand your contention. The thought is much the same as what goes into those contracts of yours, isn’t it?”
+
+“The Luo lands are wide, and we have ever been more mobile than our erstwhile peers. New resources and agreements must be pursued aggressively,” Luo Zhong said, giving a slight dip of his head. “Our familial arts are a reflection of our lives. One must be both persistent on the hunt and flexible in action.”
+
+“Aggressiveness can be a negative trait too,” Ling Qi said blandly.
+
+He frowned. “I admit, I am at a loss for when aggressiveness has been my sin against you, Lady Ling.”
+
+Ling Qi dropped the point. In the end, his dispute with Bao Qingling wasn’t her business.
+
+“Ah, you do have a connection through that Li Suyin, who leaped over us all,” Luo Zhong realized. “And I suppose you would have seen that embarrassing incident. I apologize if it made you think poorly of me. I allowed frustration to make me hasty and unwise. That pursuit should have been left in private.”
+
+“Why continue pursuing a deal that is clearly unwanted?”
+
+“Because I believe it really is the best arrangement possible for both of us, and she will not even list what objections she has that I might address them,” Luo Zhong said, a touch of frustration and dissatisfaction in his voice. “But we are veering into personal matters.”
+
+“You don’t see it as… unworthy for a man to pursue a woman that way?” Ling Qi asked warily.
+
+He blinked, and for just a moment, she saw genuine confusion on his face before comprehension dawned. “I see. From your point of view, it must seem much more predatory. I assure you, I have no capability to do a single thing to that woman she does not allow, nor would I if I could. It is merely a contract dispute which has grown heated… and realistically, one likely to be abandoned. That I gave you such an ugly impression is something I sincerely apologize for.”
+
+Ling Qi took in a deep breath of the cool afternoon air. So much like Renxiang in a way. Luo Zhong seemed wholly sincere, as if those implications had never even occurred to him. Indeed, she felt that he was quite sincere in apologizing, but she simply couldn’t accept them.
+
+<I’m not sure you should. It might break something,> Sixiang murmured. <Still, I guess it’s good to know he stands there.>
+
+“I accept your apology,” Ling Qi said politely. “So, what are your thoughts on our strategy?”

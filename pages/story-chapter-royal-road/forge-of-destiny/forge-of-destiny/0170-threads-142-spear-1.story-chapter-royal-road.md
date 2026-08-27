@@ -1,0 +1,173 @@
+---
+id: 58940459-3e06-5946-a571-14115e0038a8
+page-type-slug: story-chapter-royal-road
+title: "Threads 142 Spear 1"
+slug: 0170-threads-142-spear-1
+partOf: forge-of-destiny
+position: 170
+ownLength: 2590
+unit: words
+publishedAt: 2021-10-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/766818/threads-142-spear-1"
+royalRoadId: "766818"
+---
+
+The Cai force’s arrival was marked by a plume of rising dust, visible from kilometers away. The northern road was cleared of traffic, commerce and civilian traffic alike coming to a halt as the cleared fields north of White Cloud Town were made ready to receive visitors.
+
+Sect Head Yuan He waited at the entrance of the town. His flowing storm gray robe snapped and flapped in the blowing breeze. His intricately bound beard and naturally spiked white hair crackled with static, and the gnarled wooden cane clasped in his hands thrummed with power.
+
+Far away in the sky, the kilometers-long coils of a dragon churned among the storm clouds, and a rumbling that was not thunder could be heard from the black depths of the storm where twin blue-white lights burned at attention.
+
+Behind Sect Head Yuan was a small, gathered force of the Sect, eclectic in make-up but all core disciples. The disciples stood at attention, a multitude of weapons held on shoulders or sheathed at hips, the only commonality among them the silver sigil of the sect on their armor.
+
+It took a great effort of will for Ling Qi not to shift uncomfortably. She and Cai Renxiang stood off to one side. They were not with the Sect’s forces because right now, they were not acting as disciples, but as the representatives of the Cai.
+
+Likewise, Bai Meizhen stood a step behind them, standing perfectly still with an imperious expression. As of right now, she, too, was representing her clan, if only because the Bai had not yet deigned to send a full representative to observe the military operations.
+
+Ling Qi felt the earth shaking under her feet from the pounding of hooves. She felt the wind disturbed by the passage of many bodies.
+
+The vanguard of the Cai force emerged from around the bend in the northern road. The horses were armored in plated barding, hung with tassels of gold and white. Behind the lead horseman fluttered a banner of pure white splashed with the official sigil of the Cai, a crimson butterfly emerging from a shattered cocoon with prominent golden eyespots on its wings.
+
+The rest of the force came behind. Each soldier bore armor of overlapping bands of flexible steel, enamelled in white. The soldiers in the frontmost ranks bore halberds with crimson tassels and golden blades while the ones who came behind bore a saber at their hip and on their back, an immense thing that looked like the halfway point between a crossbow and a siege engine. In the rearmost ranks were more halberdiers mingled with men and women who bore no obvious arms but who wore crossed bandoliers lined with dozens of pouches.
+
+There were one hundred of them. Eighty third realms varying from green appraisal to threshold in power were accompanied by eighteen fourth realm lieutenants, bearing a second white plume on their helms. Two fifth realms rode among them as well, commanders distinguished only by the crimson cloaks on their shoulders and their aura of power.
+
+At the center of the formation rode General Xia Ren herself. Armored in a gold enamelled plate, her faceless silver helm flashed under the light of the crackling clouds, and the spread wings of a heron marked her breastplate. The wind parted around the general and her warhorse as if cloven by a blade and not a drop of moisture or a speck of mud touched any part of the woman or her mount.
+
+<By Grandmother, what a bunch of creeps,> Sixiang whispered, shivering. <Can you feel that? The way they’re cut off, the way they’re not thinking for themselves?>
+
+Ling Qi kept her expression even. She did see the eerie synchronicity of the Cai force’s movement. It wasn’t just discipline. Each soldier and each horse moved perfectly in sync with their fellow soldiers and mounts, and in her more spiritual senses, Ling Qi could not see anything individual about their auras. They felt like a single entity, a machine of gleaming clockwork whose ticking heart was the General.
+
+They felt unnatural to her senses, so recently attuned to the flows of Dream.
+
+The White Plumes flowed into the space left for them, hooves that glinted metallically churning the dirt. As one, they dismounted and formed perfect ranks without a single shouted word from the officers or visible signal. Their armor gleamed and crackled with nascent power.
+
+Cai Renxiang had told her the difference between a regular soldier of the Cai and a member of the elite White Plumes was that each one of the thousand soldiers that comprised the White Plumes bore equipment, arms, and armor crafted by the Duchess herself.
+
+General Xia Ren stepped forward from the ranks to face Sect Head Yuan. “I come, commanded to render aid in the name of her grace.” Xia Ren’s voice was cold and dry, her words clipped and utterly without affectation or ornament, more mechanical than Renxiang had ever been at her worst. “I offer my full cooperation with your leadership, Sect Head Yuan of the Argent Peak Sect.”
+
+<Not her subordination though,> Sixiang noted. <That’s going to ruffle some feathers.>
+
+For a moment, the air crackled with tension, and not a few core disciples subtly bristled. However, Sect Head Yuan He tapped his cane on the ground. “I, Yuan He, do accept my liege’s aid gratefully. Be welcome, General Xia of Xiangmen.”
+
+Xia Ren nodded sharply and swept off her helm. Her face bore similarities to Alingge’s in general shape and structure, but her scalp was bare, bearing only a slight layer of dark fuzz, and her features were hard and scarred. A thick line of scar tissue extended from her right temple down to the left side of her chin, an ugly scar marked the flesh around her left eye, almost as if an arrow had been ripped out there, and a pair of faded geometric tattoos marked the general’s cheeks, reminiscent of the old tribe tattoos Ling Qi had seen. But Xia Ren’s eyes were both intact, the color of liquid steel and solid without a pupil or iris.
+
+The intimidating woman gave a short bow at the waist. “Sect Head Yuan is wise. Where are we to be quartered?”
+
+“Space has been prepared on the Argent Peak,” Sect Head Yuan replied, naming the centermost peak of the Sect where elders and their chosen core disciples lived. “My disciples will stable your steeds. I will show you the way. Do you require time for other business first?”
+
+Ling Qi saw the way the old man glanced in their direction.
+
+Xia Ren tilted her head, her steel gaze falling upon them. “If the Sect Head allows. A simulacrum will be sufficient.”
+
+“By all means, General,” Sect Head Yuan said. “Allow me to show you the way then.”
+
+Ling Qi felt the air in front of them carved apart, and the earth in front of Cai Renxiang split open. Before her eyes an exact copy of the general stepped out as if from a portal in the air. There was a brief shimmer of steel qi across her form, and to Ling Qi’s senses, the woman before her felt hollow like a structure of spun glass, filled with air.
+
+She bowed low all the same.
+
+“Young Mistress, Lady Bai,” General Xia greeted shortly. “Your continued good health is pleasing.”
+
+“It lightens my concerns that my gracious mother has assigned you to the southern border, General,” Cai Renxiang said.
+
+“It pleases the Bai to know that our allies are handling their affairs with rigor and competence,” Meizhen said, bowing as well. “My aunt apologizes for the lack of a more experienced observer.”
+
+“The Emerald Seas can stand on its own feet,” the General said flatly. “But our ally’s concern is appreciated.”
+
+Bai Meizhen raised her head. “The Bai offer our full confidence in your endeavors.”
+
+The older woman’s eyes moved back to Renxiang, who stood patiently, waiting for the General to finish. “Young Mistress, Her Grace has words which I am to convey to you in private.”
+
+Cai Renxiang’s eyes widened marginally. “Very well, General. Is this regarding the task which faces us?”
+
+“Partially,” Xia Ren replied. The woman raised her right hand from her side. “Sergeant Xia Lin!”
+
+Ling Qi felt the rush of displaced air that accompanied a swiftly moving cultivator as she partially raised her head. She saw a young woman standing behind and to the left of the General. Xia Lin looked to be about the same age as Ling Qi with similar cultivation. She appeared to be one of the halberdiers of the army, the weapon on her back gleaming in the dim sunlight. Her helm was under her arm, revealing a girl who looked somewhat like a younger Xia Ren. Her dark, curly brown hair was shorn at her ears rather than wholly shaved however, and her scars much less severe. There were only a few thin white lines across her cheeks and lips. Her eyes were a natural storm grey with only a few steely sparks.
+
+“Sergeant Xia Lin will be your adjutant,” the General said brusquely. “Her Grace has determined that excessive cultivation and preconceptions would be counter-productive to your task. The sergeant is the best of my soldiers in the Young Mistress’ generation.”
+
+“It is my honor to serve the heiress of Cai,” Xia Lin said, striking her breastplate with her fist as she bowed low. “I will not fail to meet your expectations.”
+
+“I am certain that General Xia’s recommendation is a good one,” Cai Renxiang said.
+
+Ling Qi thought that she saw the younger Xia’s expression briefly become happy. It was odd given that she still couldn’t feel anything from her.
+
+“There is the matter of the request you made of the Duchess, however,” Xia Ren continued, not missing a beat. Ling Qi shot Cai Renxiang a look, wondering what she was talking about. “However, Her Grace’s reply is to be delivered in private.”
+
+Cai Renxiang looked briefly concerned, but then dipped her head. “I see. In that case, Baroness Ling, would you accompany the sergeant? It would be best for us to familiarize ourselves with one another.”
+
+“Of course, Lady Cai,” Ling Qi replied reflexively.
+
+“If it pleases, I may stay as well,” Bai Meizhen said smoothly. “It is good for the Bai to continue familiarizing ourselves with our allies.”
+
+General Xia gave a short nod. “Practical. Sergeant, familiarize yourself with the local situation and mission parameters. If you would, Young Mistress?” she asked, extending her hand.
+
+Cai Renxiang took the general’s hand, and they were gone.
+
+Ling Qi stared at Xia Lin, who stood at attention before her, studying Ling Qi just as Ling Qi studied her.
+
+“Please follow me then, and I will show you the lay of the land,” Ling Qi said cheerfully, clapping her hands. She paused. “Should I refer to you by rank, or would you prefer a civilian honorific?”
+
+Xia Lin tilted her head to the side. Her tone was polite without the clipped edge that the elder Xia had. “Protocol is a little unclear, is it not? You may call me ‘Miss Xia.’ Do you require your rank to be stated, Baroness?”
+
+“No, no, Miss Ling will be fine,” Ling Qi said before glancing over to Meizhen.
+
+“Miss Bai will be fine for me as well,” Meizhen said, inclining her head. “I have no great status in the clan after all.”
+
+“So humble. Miss Bai’s modesty is impressive,” Xia Lin said with a touch of a smile.
+
+The three of them set off from the area outside of town where the White Plumes had arrived and entered the town. Traffic was still low due to the presence of so many powerful cultivators.
+
+“So, what do you already know of our mission, Miss Xia?” Ling Qi asked as they passed down the main street.
+
+“We are to open talks and secure a ceasefire with an unknown foreign group,” Xia Lin replied crisply. She walked tall and straight with her hands at her side. There was a faint hint of confident swagger in her steps, but nothing untoward. “Opening further diplomatic channels is the secondary priority.”
+
+“That seems mostly accurate.” Ling Qi watched her closely.
+
+<Sorry, Ling Qi. Not getting much from her,> Sixiang whispered in her head. <Feels like I’m staring at a wall.>
+
+“Am I missing some part in my summary?” Xia Lin asked politely.
+
+“No, not really, only that we are attempting to establish understanding via shared ancestral connection,” Ling Qi said.
+
+“Yes, Miss Ling’s mentor,” Xia Lin said. “I am sorry. I did not think the pretext was relevant to the strategic assessment.”
+
+Ling Qi mulled over the words. She wasn’t quite sure how she should take that…
+
+“The method used to establish rapport is important,” Meizhen said, walking with her hands clasped behind her back.
+
+“Miss Bai is correct,” Xia Lin agreed, lowering her eyes briefly. “The rhetoric a diplomat chooses is as important as a warrior’s choice of arms and armor. I am not a diplomat though. My role is to ensure that the Young Mistress and Miss Ling reach their destination safely. My assessment was based upon my role in the group.”
+
+“That’s fair,” Ling Qi said. “In any case, I was curious. Is General Xia your mother? I’m afraid I haven’t had the time to study all of the province’s lineages yet.”
+
+Xia Lin’s lips twitched, and she raised her hand to cover her mouth. It almost looked like she was going to laugh. “No, the General is not my mother. By blood, she is my great-aunt.”
+
+“You seemed to find the question amusing.” Bai Meizhen raised an eyebrow.
+
+The three of them strolled past the town gates, starting on the winding road into the sect lands.
+
+“It is absurd to imagine the General as a mother,” Xia Ren explained.
+
+“Really?” Ling Qi asked. “Even Her Grace has children. It doesn’t seem too absurd to me.”
+
+“You are unfamiliar with the General. Her Grace is much more suited to motherhood than the General,” Xia Lin said, conviction strong in her voice.
+
+Ling Qi had to stop herself from staring. She remembered the pressure of the Duchess’ attention and the pitiless scouring radiance of her eyes. She wanted to object to those words, but the certainty in Xia Lin’s eyes stopped her.
+
+“My apologies for the rude question,” Ling Qi said instead.
+
+“No, it is a valid concern. Nepotism is a significant issue still,” Xia Lin said, seeming unoffended. She was also misinterpreting Ling Qi’s intent. “The General does not favor her kin. I am the only member of the Xia’s youngest generation to meet her expectations thus far.”
+
+“I have no reason to believe you are unqualified, at least no more than I am,” Ling Qi said easily.
+
+“Miss Ling is humble as well, I see,” Xia Lin said in amusement.
+
+“I try.” Ling Qi shrugged.
+
+“She really does,” Meizhen said dryly.
+
+<I think I’m starting to figure out how this works,> Sixiang muttered. <If you look closer it’s not quite as uniform as it appears.>
+
+Ling Qi glanced toward Xia Lin at Sixiang’s words. The steel aura that shrouded Xia Lin seemed to have little gaps through which flickers of feeling showed through. Was it a social defense art then? It felt more intrinsic than that, but it was good to know that her first impression had been in error.
+
+“So, Miss Xia, is there anything in particular which would interest you on the sect grounds?”

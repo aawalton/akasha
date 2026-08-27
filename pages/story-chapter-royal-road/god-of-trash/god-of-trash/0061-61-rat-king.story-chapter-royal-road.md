@@ -1,0 +1,101 @@
+---
+id: 9341e67e-faae-50c0-9f33-64848079c1ae
+page-type-slug: story-chapter-royal-road
+title: "61. Rat King"
+slug: 0061-61-rat-king
+partOf: god-of-trash
+position: 61
+ownLength: 2746
+unit: words
+publishedAt: 2025-04-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2244517/61-rat-king"
+royalRoadId: "2244517"
+---
+
+Rhys squinted. The rat with the quirked tail looked like the one he’d rescued. No—it was the one he’d rescued! He scanned it with his mana to be sure, and when he found no impurities, he was convinced. That rat was the one that had been trapped under the cauldron, which had nodded at him when he’d freed it. The other one was still full of impurities, but it gave him a look with strangely intelligent eyes.
+
+He looked at the first rat, then back to the new one. “You… want me to take your impurities?”
+
+The rat edged forward, nervous but eager.
+
+Rhys scanned the rat with his mana. Both the one he’d saved, and this rat, both had some amount of mana in them. Not enough to qualify as Tier 1, but maybe enough to qualify as the bottom of Tier 0. Since mana improved everything about a human being, why wouldn’t it improve everything about an animal, to include its intelligence? Rhys stretched out his hand, offering it palm-up to the rat. The rat scurried over. It hesitated just out of reach, its heart beating visibly in its tiny body, then bridged the final gap between them in a lunge and put a paw on his finger.
+
+Rhys drew its impurities into his body. The rat tensed, and then its eyes widened. It chittered at him in amazement.
+
+“You’re welcome…?” Rhys guessed. He didn’t speak rat… if these rats were even intelligent enough to develop a spoken language. Eh, rats are pretty smart. If the mana really props their brains up, then why not?
+
+The rat chittered some more at him, then ran back to the first rat. The two chatted for a moment, then ran off over the trash.
+
+Rhys watched them go, then shrugged to himself and turned back away, going through the trash again. He didn’t mind. More impurities for him was always a good thing. And if the rats brought more friends with more impurities—
+
+Chitter!
+
+He turned. A wave of rats crested over the trash, rushing toward him. Rhys startled. He reached for his sword.
+
+The rats slowed. They came to a halt, forming a half-moon around him. Almost worshipfully, one approached. Its head was low, its body profile lowered into almost a bow. It raised a paw to him.
+
+Rhys looked at all the rats. He scanned them, searching over them for impurities. They all gave strong responses, all with second-tier or even third-tier impurities, more powerful than anything he’d seen so far. “Oh… all of you?”
+
+The rat that had approached chittered agreeably.
+
+“Well… okay.” Rhys looked at the rats, then gestured for them all to get close together. “All of you, get in close. I want everyone touching everyone else, okay?”
+
+The rats immediately reformed into a messy swarm, clambering all over one another. Rhys stared in half-amazement, half-disgust. He shook his head, then knelt and touched one of the top rats. Using them as a conduit, he reached out to every rat in the swarm, and pulled all the impurities toward himself.
+
+The rats squeaked in pain, then shock, then amazement. Rhys, for his part, stood, touching his core. It was now laden with impurities, more high-quality impurities than he’d ever had before. He had the high-level materials to ignite dozens of trash stars this way. In fact… he looked at the trash all around him. Subconsciously, he’d been thinking of brewing it all into potions, but that wasn’t necessary, was it? The trash stars did better the more mass he fed into them. If it took a lot of trash to generate enough impurities, that just meant the trash star would be bigger and better when it ignited.
+
+A little pat on his foot caught his attention. The quirked-tail rat stood on its hind legs, looking up at him, one paw on his foot. It nodded, then scurried off.
+
+“Yeah, you’re welcome,” Rhys said. They’d done him a service as much as he’d done them a service, so he wasn’t too worried about them ‘owing him’ or whatever. Of course, he wasn’t so noble as to refuse something if they wanted to give it to him (at the end of the day, he was still trash), but he wasn’t overly concerned about getting repaid for his services. It had cost him nothing, and gained him a fair deal of material in return. He’d already received everything he needed from the rats.
+
+The quirked-tail rat ran back to the other rats. They chittered at each other, their high-pitched voices sounding back and forth as they argued. Abruptly, they scattered to the four winds, vanishing across the trash pit. Rhys waved goodbye to their furry rears, and went back to picking through the trash.
+
+Without rats to distract him, it didn’t take long to discover that this powerful spot on the edge of the trash pit was also a cache of ill-gotten goods. He extended his senses to feel the locations of the other powerful points. Most of them were also on the edge of the pile, but one was in the center of the landfill. He turned toward that one. The edge were likely all stashes put there by the smugglers, or embezzlers, or whatever particular brand of criminal was doing this. After all, why would a criminal want to descend into the center of the stinky, gross trash pit, when they could just leave their goods on the relatively-clean edges? If any of these powerful points in the trash were actually trashure, it would be the one in the center of the trash.
+
+Well, it is possible that it’s all smuggler caches, and I’ll have to work harder to find trashure than simply looking for powerful mana, but it’s worth a quick look. Going to the powerful points wasn't the end of his trashure hunting, but merely the beginning.
+
+This powerful point was deep in the heart of the trash pit. He stood over it, gazing down. He could sense it, deep in the trash, but there was a mound of trash between him and the powerful mana signal.
+
+He glanced at his core. The trash star there still needed more material to ignite. Why not try absorbing the trash and see what happened? If he was right, then he wouldn’t have to waste his time brewing potions. If he was wrong, then all he risked was a slightly weaker trash star.
+
+Putting his hand on the trash, Rhys called it into himself.
+
+Instantly, the pile collapsed in on itself. Trash rushed into Rhys’ core, transforming as he called it in. He pushed it into the trash star, compressing it just as he had in the toxic trash pit. The trash star grew denser and denser, until he could feel it about to collapse and tear apart his core. He pushed a shred of mana into it, and the star ignited again for one brief second before it instantly burned out. In that second, he made serious gains, but it only lasted for a split second.
+
+He put a hand on his chin and nodded. It was obvious what he had to do now: absorb trash, compact it into a trash start, and push further, compress it for longer, compact more material into it, until the star could burn for more than a split second. Ideally, he could keep it burning forever, but that would take more trash than there was in this entire pile. Maybe even more than there was in the entire region.
+
+From the star’s momentary pulse of heat and fire, a few trickles of gold-toned mana leaked out. Those drops gathered at the bottom of his core along with the impurities. Rhys eyed them for a moment, then raised his brows. Wait. Is that what that book was talking about? He reached into his storage ring and pulled out a cultivation book he’d borrowed from the library. It described a path he wasn’t interested in—that of a specific sword style—but it also contained a lot of good general cultivation knowledge, so he’d been reading around the path parts to figure out what might come next in cultivating mana and growing as a mage.
+
+…after Foundation Building comes Core Formation, in which the mage firms and fills their core. Once the core has grown to its maximum size, the mage fills it with condensed golden mana, which provides the foundation for the next stage of growth. The amount of gold mana the mage can fit into their core determines their potential for future growth, just as the size of their core does, just as their bloodline, body, and natural aptitude for absorbing mana…
+
+Putting the book away, he examined his core again. It was gold, and it was definitely condensed. Was this the special mana the book was talking about? He raised his brows. That much trash, for a few tiny drops of mana? He’d need a lot of trash if he was going to get through this. I can’t imagine how long it would take if I didn’t have a path to rely on… but then, I am starting from trash. His natural aptitudes were the lowest of the low. With all his reforging, he’d gotten them up to passable, but he still had to rely on his path to make any progress. If he sat around and breathed in mana, the way ordinary mages absorbed mana, he might run out of lifetime before he hit Tier 3.
+
+Either way, there was still trash between him and that powerful signal. Rhys put his hand down on the trash and absorbed it yet again. As he absorbed it, he inadvertently dug a tunnel deeper into the pit. The landfill was larger than he’d taken it to be at first. It had mounded over the earth, as large as an ordinary castle, but it also went underground, into some kind of crag in the earth. At a guess, the mages had started throwing their garbage into a valley of some sort, and as the years passed by, the valley had filled, then overfilled, then flowed into the forest around it. There were probably mages who didn’t know that the pit had been built on a valley at all, that was how buried the original valley was.
+
+With the impurities he’d gained from the rats and the trash, he ignited another two stars and accumulated a few more drops of gold mana before he finally drew level with the powerful signal. By now, he was pretty sure this wasn’t a smugglers’ cache, but legitimate trashure. If smugglers were delving this deep into the trash to hide their goods, they deserved it, honestly. That was dedication to the trash.
+
+He cast around him, poking around at the floor to find the trash. He had his original trash sword, and the sunlight sword from the bottom of the toxic trash pit, so he didn’t really need a weapon, not that he’d turn another one down. He could always polish it up and sell it. Though he had plenty of gold from the ash and the herbs he’d sold to Sorden, he was always happy to earn more gold. There was no such thing as too much!
+
+Speaking of, I should buy some seeds. This school definitely has herb seeds that are worth good money when grown. As long as their growth requirements are simple, I can generate mana-infused compost and grow them rapidly for even more gold. It was a simple investment, and one worth making. He wouldn’t set up gardens here like he had back on his home turf, not when Purple Dawn was at best uncaring of what happened to little schools like his, and at worst, actively aggressive toward them. Still, he didn’t need to set up a garden to grow herbs. Due to his mana-infusion and mana-rich compost technique, he could fire up a load of plants whenever he needed them.
+
+Of course, there could be anything in the trash, anything at all. A weapon, a shield, even another miraculous poison—ahem, potion-holding vial. He’d take any kind of magical equipment, any kind at all.
+
+Pushing the last of the trash aside, he revealed a solid blackened wall. His brows furrowed. He pushed more trash away, and the wall curved. A foot poked out from the bottom, jutting up into the trash.
+
+Rhys knelt and hooked a hand under the thing’s lip, standing it upright. A cauldron. Its lid sat nearby, and he drew it over, matching it with the top. Thick walls curved evenly downward, culminating in four lion’s-foot feet. An ornately carved dragon twisted around the outside of the cauldron, and fine gilding swirled around its lip and lid, brimming with mana in some kind of enchantment. The whole cauldron was in remarkably good shape, with one exception. He spun it around, turning the blemish to face him. One side of the cauldron was completely blown out, as if someone had shot a cannonball out from within the cauldron. The steel walls peeled back like a flower’s petals around a roughly circular hole that had been blasted in the thick wall.
+
+He twisted his lips. His old cauldron was, well, just an ordinary cauldron, and even with Trash Intent, it had been struggling to retain its shape for some time now. He’d been using the liquid technique to hold impurities away from the wall, leaving some water between the metal inner wall and the corrosive impurities so the water mitigated the damage, but even so, the bottom was getting thin. This cauldron would do nicely to replace it, and not only that, but if it was as strong as it felt, it would last him for quite some time.
+
+If not for that glaring hole in its side.
+
+Rhys pursed his lips, thinking. He pulled at his own clothes, then looked at the new cauldron. He’d used trash-based comprehension to merge trash clothes into his robes. True, he’d also had a high understanding of clothesmaking, but the base concept remained the same. If he could up his understanding of forging, then, by merging forging and trash knowledge, he could probably repair this cauldron. It was worth a shot, anyways.
+
+Gesturing, he sent the cauldron into his storage ring. A project for a later date…or rather, a task for him during his downtime at the tournament. Infinite Constellation didn’t have forging classes, but Purple Dawn did. The spiel Mouse had given them included an invitation to sit in on any classes. With Ernesto on the mind, he’d been a little suspicious of the offer being an attempt to sabotage their futures with false ‘classes’ that taught false ‘truths,’ but on deeper thought, rather than an attempt to sabotage their future as mages, it was far more likely that they were invited to sit in on the classes so they could see how high-quality the education at Purple Dawn was, so the more powerful school could poach the most powerful students from the lesser schools.
+
+After all, they were the cream of the crop, the ones the little schools had sent to the tournament to show off the peak of their strength. Purple Dawn stood to gain much more by currying favor with the most powerful student mages with the most potential, rather than giving them false instruction. Sure, it might fool a few of the stupider martial students, but anyone who realized what was happening would hold a grudge against Purple Dawn, and if they, the students with the highest potential, became powerful enough later in their magehood and held a grudge, they could inflict a good deal of damage on Purple Dawn. Far better that they looked back on their tournament experience with fond eyes.
+
+The light from overhead cut off. Rhys startled and whipped around. Oh shit! The trash is falling—
+
+A figure stood on the lip of the hole, eclipsing the sun. They wore flowing white robes, as immaculate as Rhys was filthy. In one hand, they held a sword, bare blade glinting in the sunlight. Rhys squinted, trying to make out their face, only to realize it wasn’t possible. The man wore a mask, one with no more than eyeholes on a featureless white face.
+
+Rhys’ heart sunk. I take it back. I would rather have the trash fall on me. He was cornered, like a rat in a hole, with no way out but through.

@@ -1,0 +1,201 @@
+---
+id: d655146e-af9f-5518-a5de-f5eb50ad22ae
+page-type-slug: story-chapter-royal-road
+title: "Threads 266-Perceptions 3"
+slug: 0304-threads-266-perceptions-3
+partOf: forge-of-destiny
+position: 304
+ownLength: 2167
+unit: words
+publishedAt: 2022-12-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1053612/threads-266-perceptions-3"
+royalRoadId: "1053612"
+---
+
+Home. It still eluded her. The house in the sect town wasn’t really hers. Tonghou had certainly never been home. But this, she had built, a little retreat where she could cultivate her arts, bully her juniors, and trade pointers with her peers.
+
+<One of those activities is not like the others,> Sixiang noted dryly.
+
+Nonsense, Ling Qi thought. “Ah, it looks like some of our more honored guests are here,” she said aloud.
+
+The slight pressure of her best friend’s aura cocooned her, and beside Ling Qi, Wang Chao straightened up.
+
+“Lady Bai, I am honored you accepted my invitation,” Ling Qi said, bowing low.
+
+“You do us much honor,” Wang Chao echoed.
+
+Bai Meizhen smiled politely at them both. Her gown was glittering white like newly fallen snow, and subtly patterned with scales with a pale blue sash around her waist. Her long white hair fell free and unstyled. In her shadow was Xiao Fen, who wore the same fierce expression as always, even if her pale yellow eyes flinched away when she met Ling Qi’s grin. She wore all black naturally, and she wore her hair in a braid wrapped in metal wire.
+
+Skulking behind Xiao Fen was a young man she’d seen last after training Xiao Fen once, the commoner friend Xiao Fen had made, as instructed by Bai Meizhen. He didn’t look like he’d suffered too much for the friendship, but he did look much like how Ling Qi had felt this time last year, eyes darting everywhere and fidgeting like he didn’t belong.
+
+“I was pleased to accept it. With my cooperation with your lady going forward, it was only reasonable,” Bai Meizhen said formally. “Though the form of this gathering is a little unorthodox.”
+
+Bai Meizhen glanced out over the field, taking in the wandering spirit beasts and open air.
+
+“Haha, we decided it would be a good idea to show off what we in the Emerald Seas are all about!” Wang Chao said enthusiastically.
+
+“It is good to see other provinces expressing themselves,” Bai Meizhen demurred. “May I…?”
+
+“Of course,” Ling Qi said.
+
+Bai Meizhen’s shadow shimmered and rippled, and a spade-shaped green head and sinuous coils emerged. “Let me introduce Bai Cui as well then. It has been some time hasn’t it, Cui?”
+
+The serpent reared up on her coils until her head was even with Ling Qi’s. “It has. This is pleasing.” Cui’s voice had matured, sounding less like a fussy girl, and more like a fussy lady.
+
+“Zhengui is in the center,” Ling Qi offered.
+
+“Hmph, as if I, Cui, cannot feel him burning. He is loud,” Cui derided, lowering herself back into the grass and darting off, much to the relief of the two servers moving forward to offer drinks to the human guests.
+
+“Allow me to introduce my other companions as well. This is Bai Xiao Fen, my cousin and handmaiden,” Bai Meizhen said as she graciously accepted her cup. “And this is Liu Xin, a worthy talent she discovered in the Outer Sect.”
+
+“It’s a pleasure to meet you both!” Wang Chao said, stepping forward. “Welcome to Lady Ling and I’s gathering. Please, eat and drink as much as you like. We have some small events and contests too, so look forward to that!”
+
+Xiao Fen bowed formally and silently, but Liu Xin faltered a moment, staring at Wang Chao before hastily bowing himself.
+
+Ling Qi acknowledged Sixiang’s snickering with a small smile. “Welcome. I hope you can find some help and new friends here since my duties will be taking yours away.”
+
+The awkward young man bobbed his head in another partial bow. “Y-yeah. Thank you.”
+
+“Wang Chao, do you want to introduce them around? I think these are our last guests.” She met Meizhen’s eyes and tilted her head. Later, she conveyed.
+
+Her friend nodded. “Of course. Sir Wang, would you?”
+
+She silently thanked her friend for giving Wang Chao some face as they moved deeper into the garden.
+
+Ling Qi herself turned and took a step, rematerializing in one of the larger squares within where the ground had been cleared and a great bonfire was burning in the center surrounded by people dancing, some enthusiastically, some awkwardly. There, she spotted among the dancers her former bodyguard locked arm in arm with Gan Guangli’s friend. Her former bodyguard’s twin sister, and former bodyguard herself, stood along the edges clapping in time with the music. Other acquaintances were scattered about.
+
+But there was one person she was here for at the moment.
+
+“Miss Ling,” Xuan Shi said, tipping his patterned hat.
+
+“Ling Qi is fine,” she replied simply, eyeing him. His robes were dark green, hemmed in silver today. He wasn’t wearing those talisman gauntlets of his either. “This is not where I would have expected you.”
+
+“Fire warms, even if one does not stand face to face with the flame.”
+
+“But it can be cold in the back,” she rejoined. “Regardless, I am glad you came.”
+
+“Sir Wang is convincing. The avalanche carries all in its path forward.”
+
+“It does.” Ling Qi considered him for a long moment. The truth was that they both knew there was reason to speak with him beyond friendliness. Bai Meizhen’s presence represented the tacit support of the Bai for this negotiation. His presence could do much the same on behalf of the Xuan.
+
+“I wonder, has your companion taken you out for any strolls?”
+
+“Feet of mud do not walk as lightly as ones of snow,” Xuan Shi said wistfully. “Nor do numerals and gears mesh well with dreams.”
+
+“I’m not sure I agree, but even so, there are adventures to be had if I am wrong.”
+
+He turned, giving her a patient look.
+
+“A stroll on the other side isn’t out of reach. I did promise a trip to revelry once, but do you have another dream in mind?”
+
+“Offer to a starving man a banquet, and speak the question ‘which dish first’?” Xuan Shi asked wryly.
+
+“You don’t need to decide today, and I do recommend the Moon’s revelry for a first trip.”
+
+“Why?”
+
+“Because I’ve treated you shabbily, and you can help us,” Ling Qi replied, not dressing her words up.
+
+“This one has received the kindness he deserves in dreaming so thoughtlessly.”
+
+“I won’t pretend to fully understand, but I can say that there are new horizons out there. Even if the answers weren’t what you liked, what remains at the Sect for you?”
+
+“The last volume was not here. Did you know this, Lady Ling?” Xuan Shi looked at the fire, the music and the sound of voices nearly washing out his words.
+
+“The elder never finished his books then?” Ling Qi asked to clarify.
+
+Xuan Shi nodded. “A disappointment.”
+
+“Stories don’t have to end to be precious, I think, or rather, they don’t end as long as someone remembers them.”
+
+If there was one thing she felt she had learned at the Sect, it was that histories were stories, and they grew like bamboo, putting forth new shoots with every teller and listener. “I also wanted to apologize for some of my words on the significance of Elder Lang’s tales.”
+
+“After so long?” Xuan Shi asked, surprised at the topic. “There are many who would call it more rude to call up forgotten slights.”
+
+“It would have been false if I apologized before.”
+
+He considered her words. “A sojourn into the unknown then, a strange journey. Let it be seen where the road goes.”
+
+“Ever, ever onward. To step back is death,” Ling Qi said lightly.
+
+He turned his head, squinting at her.
+
+Moving forward was not an abandonment of the past because the past couldn’t be abandoned. It was always there on her back, whether she wanted it or not. She was leaving the Sect and many of these people behind, but a home did not have to be grand or eternal.
+
+Home was the people she gathered and called her own.
+
+That was the lesson of Tsu, she thought, the one muddled and forgotten. When the tribes came to Xiangmen, they were not bound by blood or culture or duty or law. Not then. They came in desperation, but that is not why they stayed. Tsu bound them and made them a people.
+
+“Miss Ling’s thoughts run deep,” Xuan Shi said.
+
+Ling Qi laughed. “It’s the opposite. I’m told they wander around the sky.”
+
+He nodded as if that wasn’t a jest at all.
+
+Ling Qi watched the fire and the dancers. “Xuan Shi, are you content with watching?”
+
+He paused. And when he spoke, he looked at her. “No.”
+
+She understood the shades of the silence after, and she frowned, calm despite the crawling feeling up her spine. She didn’t understand the persistence of his feelings. After all their interactions, why would he still be interested in her?
+
+Sixiang sighed. <You’re really bad at seeing yourself still.>
+
+“Would Miss Ling show this one the steps?” She was startled when he spoke again.
+
+She breathed out. There was nothing to fear here. This cheerful communal dance had been chosen specifically because there wasn’t even a hint of untowardness. Partners switched with each revolution around the bonfire. It was as much ritual as anything else.
+
+“Certainly. Maybe it’s appropriate. This dance represents the passing of seasons. Shall we start over, no obligations or expectations?”
+
+For a moment, he honestly looked like a man braced for a blow that never came, off balance and out of position. But he recovered and took her meaning, she thought. This was no kind of promise.
+
+“Most agreeable.”
+
+She smiled and offered him a hand.
+
+The bonfire dance was lively. Arm in arm with a partner, she spun and kicked and stomped in time with the music as she made her way around the fire. Xuan Shi was not as clumsy as he put on, even if he was awfully on edge.
+
+Not that she could blame him. It wasn’t like she was fully comfortable either, but surrounded by other people clearly less troubled than she, it was easier to fall into the mood of the crowd. They spun through a revolution and parted. Ling Qi caught onto another female disciple’s arm while Xuan Shi caught onto a laughing Gun Jun, who obviously didn’t recognize him. They joined arms again on the next round and split again on the next.
+
+Ling Qi suddenly found herself arm in arm with another face she recognized. She hadn’t noticed his restrained and muted qi in the crowd.
+
+“Miss Ling,” Luo Zhong greeted, tipping his head as they locked arms.
+
+“Sir Luo,” she greeted, not missing the steps.
+
+“This is an impressive arrangement, and you’ve learned the steps well. I could have been of assistance.”
+
+“I had practice in working things out on my own,” Ling Qi replied, her gown flaring out as they spun. “And this is Wang Chao and I’s arrangement.”
+
+“Of course.”
+
+“And now it is his. I hope there will be no misunderstandings about that.” In the end, Ling Qi could not be friends with everyone, and it was foolish to try. She could not always be reacting and waiting for offers. “It would harm my trust greatly.”
+
+She knew who her friends were and who were merely contacts.
+
+“Of course,” he repeated amiably. “It would be rude to upstage your host.” Luo Zhong tilted his head as they came around to the second half of the circle.
+
+“It would be,” she agreed. Continuing, she said bluntly, “Seed livestock and watch dogs, low grade stock for now. That is what would aid our arrangement the most.”
+
+“Easy enough for my Luo clan,” Luo Zhong replied immediately. “It would be helpful if we were able to observe the event, as the Meng will.”
+
+“You?” Ling Qi asked.
+
+“My uncle,” he corrected. “You have met him before at the prior tournament.”
+
+Ling Qi thought back to a scrawny and grizzled old man in an animal hide cloak, speaking in cryptic riddles at her first year’s end tournament. “Acceptable, though Lady Cai has the last word.”
+
+They reached the end of the circle and split apart. Her arm caught back onto Xuan Shi’s.
+
+“Miss Ling is well?” he asked. His steps were smoother now.
+
+“Well enough. One more circle then?”
+
+“Once more. The spirit can take no more,” Xuan Shi said self-deprecatingly.
+
+“People take practice,” Ling Qi agreed.
+
+However, unlike Xuan Shi, who was free to hurry off to a suitably distant corner after they parted ways, Ling Qi was the host, and so she could not yet find a quiet place to cultivate.
+
+She spied Xiao Fen standing stiffly near a hedge wall, her friend at her side. Xiao Fen was staring straight ahead with an intensity that threatened to light up the opposite wall. Liu Xin was looking around warily. Bai Meizhen was not there. She must have ordered Xiao Fen to mingle on her own.
+
+That was almost as good, Ling Qi decided.

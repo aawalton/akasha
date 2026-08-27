@@ -1,0 +1,141 @@
+---
+id: a1a00a1f-20fc-5f8a-9d20-5785f08cf1b6
+page-type-slug: story-chapter-royal-road
+title: "Threads 157 Past 3"
+slug: 0187-threads-157-past-3
+partOf: forge-of-destiny
+position: 187
+ownLength: 2248
+unit: words
+publishedAt: 2021-11-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/792579/threads-157-past-3"
+royalRoadId: "792579"
+---
+
+Together, they descended into the unnatural darkness of the stairwell.
+
+Together, they found more confounding effects. There were places where the space of the stairwell warped, turning back on itself in a recursive loop. There were other places where the fabric of this space thinned, threatening to drop intruders into bubbles of corrosive not-reality or spill the stuff into the ring itself. And yet other places sang softly in their minds, showing visions of riches and secrets uncounted.
+
+Between her instinct and Meng Dan’s sight, they traversed safely. Illusions were revealed as the pale shadows they were. Ling Qi found the thread of a path that snaked through recursive space, and Meng Dan’s fluttering paper talismans sealed the planned rifts that sought to spill corroding dreamstuff into the ring’s internals.
+
+During the descent, the four of them did not speak overmuch, their focus squarely placed on traversing the stairs, but when at last they reached the foot of the stairs, the silence was broken.
+
+Sixiang whistled long and low at the glittering hoard before them.
+
+Despite herself, Ling Qi felt her eyes widen as she beheld it all. Piled almost waist-high through a space some forty meters across were treasures. Jewelry, gemstones, statuary, paintings, and tapestries and other treasures were strewn haphazardly across the stone floor, as if they had been thrown carelessly into a pile with great haste.
+
+But like above, the most prevalent thing down here was books. Shelves of polished wood, still gleaming and near reflective, stood crookedly throughout the chamber, filled with books, and other books lay on the ground or rested haphazardly on piles of goods.
+
+She didn’t think it was an illusion this time. She glanced at Meng Dan and saw his eyes were narrowed, strings of shining qi crawling across the lenses of his glasses. Carefully, she sent her wisps bobbing out, not touching any of the treasures within as they began to search the piles.
+
+“What do you think? The real thing?”
+
+“It seems so,” he said slowly. “We must be careful though. I sense great instability in this space. I would not step on the tile in front of you.”
+
+Ling Qi paused and traced her eyes over the painfully rich contents of the ring, feeling the flows of the dreamstuff that made up the structure itself. The weave of it was thin here like a technique half-dispelled. Carefully, she stretched her foot out and pressed it against the stone tile just in front of them. Rock dissolved under the slight pressure, falling away into a hole that led to a kaleidoscope of shifting formless color.
+
+“Very unstable,” she agreed.
+
+One of her wisps passed over a gaping rent into the floor, and she watched as a jeweled hairpin teetering on the crumbling edge fell, dissolving like mist in the sea of dream.
+
+“Our entry into this space has sped up the rate of corrosion,” Yinhui said calmly, peering out from behind Meng Dan. Both of her hands were clasped around one of his.
+
+Sixiang’s lips were pressed together in a thin line. “It’s too much to stabilize, but I can probably give you guys more time. Gonna be tuckered out after holding it together though.”
+
+Ling Qi nodded sharply. “Do it. Meng Dan, do you think the upper part of the ring is going to crumble too? Is this another trap or just age?”
+
+“I suspect both given previous obstacles. A ring of this calibre should not be breaking down after a mere few centuries. The security functions have broken though. How shoddy,” he criticized. “Yinhui?”
+
+“Overall integrity should remain for one year and thirty seven days,” the small spirit replied.
+
+“Long enough then. It is a good thing that we have cleared the stairwell’s defenses. I suggest we begin moving as much of the treasures as we are able,” Meng Dan said. “Have your scouts noted anything of particular value, Miss Ling?”
+
+Ling Qi’s vision flickered through multiple viewpoints at once. “Yes, there is…”
+
+Ling Qi trailed off as she saw a great tapestry as long and thick as the trunk of a tree, vibrant with qi. On the floor near the tapestry was a small chest, slips of white jade glittering within. All around it were shelves holding thick volumes. One title in particular caught her eye. It was A Complete Genealogy and Accounting of the House of Tsu.
+
+“I believe I see some very valuable books along the right wall,” Ling Qi said faintly.
+
+“How valuable?” Meng Dan asked, raising an eyebrow as he considered the shelves already before them with a hungry gleam in his eyes.
+
+“How valuable would you rate a completed genealogy of the Weilu?” Ling Qi asked.
+
+Beside her, Meng Dan stilled. He didn’t blink, or adjust his glasses, or even draw another breath for a long moment. Then the moment broke, and the perpetually smiling young man licked his lips nervously. “We should hurry, I think.”
+
+“We should,” Ling Qi agreed.
+
+“On it.” Sixiang’s laughed, their physical form dispersed into a cloud of glittering mist, and the chamber groaned as stone settled, solidified, and became more real.
+
+Ling Qi sprang off, following the curve of the left wall. Even with her mobility limited, she could still move quickly, her feet barely touching stone as she scanned the floor for weak points. Behind her, Meng Dan followed, Yinhui clinging to the back of his robe. His movement technique was interesting. She saw characters and numbers in the shadows and wind around him, flickering with silver, and then he would take a step and simply move, crossing meters of distance in a blur.
+
+He followed after her in a zigzagging path that wove through the weakened parts of the floor, never seeming to do more than take individual small steps. Yet she could feel the wind parting around him as he moved, so it wasn’t like her own quick shadow stepping.
+
+It only took a matter of moments to circle the room to where she had seen the books and the oversized tapestry, and all the while, her wisps zoomed over the room, noting things that looked of special value.
+
+“Miss Ling,” Meng Dan said as she alighted beside the shelf. “Do I have your permission to access your divinatory constructs?”
+
+“Is that something you can do?” Ling Qi asked.
+
+“Of course,” he chuckled. “It is much easier if you do not resist.”
+
+“That sounds very suspicious.” Yinhui sighed.
+
+It did, but they were in a hurry. “I will try not to throw off your technique, so go ahead. But why?”
+
+If he tried anything untoward, they were literally sitting beside Cai Renxiang, who would, no doubt, notice.
+
+“It will enable me to catalogue all of this and calculate the most optimal gathering…” Meng Dan began cheerfully, only to trail off. It took her a moment to realize that he had come into sight of the books and their titles.
+
+For just a moment, she saw the excitement of a child whose parents had just given them a free run of a sweet shop.
+
+“Sir Meng?” she inquired politely. It would be rude to comment.
+
+He shook himself. “Yes, of course. Please allow me a moment, Miss Ling.”
+
+Meng Dan brought his hands together in front of his face, traceries of silver light gleaming on his fingernails and from beneath his half-closed eyelids. Ling Qi felt an odd sort of tingling through the meridians which powered her divination techniques. It felt a bit like when Sixiang would actively peer through her eyes.
+
+This technique was insidious. If she hadn’t been prepared and waiting for it, she felt like she could have easily missed it. A dangerous skill, but one that made sense for a technique from the Hidden Moon.
+
+Ling Qi reached down to pluck the book which had caught her eye from the shelf. It was a massive thing, as thick as one of Renxiang’s unabridged legal codes, and was bound in supple green leather with its title inked in shimmering characters that flowed from silver to gold and back.
+
+Ling Qi moved to open it and take a peek at the pages inside, only for the cover to resist her. She frowned and tried to simply flip it open to the middle, but the pages stayed as they were as if she were holding a stone sculpture of a book. In her arms, the tremendous tome let out something like a whispery growl, like a cat who had just had its fur rubbed the wrong way.
+
+“Do be careful, Miss Ling,” Meng Dan said anxiously. She was a little startled when he snatched the book right out of her hands. Meng Dan didn’t look at her at all; instead, he was preoccupied with running his fingers soothingly up the book’s spine. “A tome like this requires a tender touch.”
+
+Ling Qi stared blankly at him, only to glance down as she felt a tug at her sleeve. Yinhui looked up at Ling Qi and very slowly shook her head. “Please excuse him, Scholar Ling. He is right though; it is best to be careful with old books. They are often very picky.”
+
+“I will keep that in mind,” Ling Qi huffed. It wasn’t like they had time to study or read right now anyway.
+
+She turned her eyes to the massive tapestry, noting the powerful flows of qi in the fabric. She brushed her hand along its side and felt a thrum of awareness.
+
+She really should have expected this.
+
+***​
+
+The chamber’s existence, bolstered by Sixiang, lasted for nearly half an hour. Unable to put things into storage while in the ring, they were forced to physically carry things out to the upper levels. However, even with their abilities limited, thanks to both Ling Qi’s speed and Meng Dan’s ability to swiftly organize their loads for maximum efficiency, they managed to save most of the materials that had not already fallen into the void.
+
+It still hurt to see so many talismans, books, and works of art go. She had earned these, damn it.
+
+Ling Qi sat the last pile of items down, watching a handful of hairpins and jewels go rolling across the floor. They had knocked over and shoved aside several stacks of Hui Peng’s scribbling in moving the contents up here, and the floor was now practically carpeted in looseleaf papers and sketches.
+
+Well, where it wasn’t covered in actual carpets. They had found quite a few of those.
+
+“Good work, Miss Ling,” Meng Dan’s voice called to her from over the piles. “Do come over here. You have to see this.” He was still sounding so energetic, even though he’d carried just as much as she had.
+
+Beside her, Sixiang reformed with a small laugh, jabbing her in the side with their elbow. “It’s not like you aren’t excited by all this loot.”
+
+Ling Qi turned up her nose as she wound around the transported shelves. That wasn’t the point. While most of what they had brought up wasn’t particularly potent, they were all clearly cultivator work. She had seen paintings which moved with inner animation and sculptures which felt almost real to the touch. She had lost count of the number of second and third grade talisman accessories mixed in among items whose power was fully in the sheer quality of their craftsmanship.
+
+“What did you—” Ling Qi began as she rounded a shelf, only to stop and blink.
+
+Meng Dan stood before the great tapestry unrolled haphazardly over piles of parchment and paper. The sight took her breath away. Before her eyes, the eaves of Xiangmen moved, and the stars twinkled amongst its canopy. Among the leaves, along the branches, and twining down the trunk were hundreds of names picked out in gold and silver stitching.
+
+Meng Dan stood before it, the book which he had taken from her still cradled in his hands, but now, the cover was open, revealing a beautiful watercolor illustration of a wise-looking sage garbed in resplendent robes which were vibrant with flowers and plant life. A crown of stars shone about his head in the shape of great antlers. She knew without a doubt that it was intended to be a depiction of Tsu the Diviner.
+
+“It seems that the tapestry is a companion piece,” Meng Dan said, staring intently at the cloth. “And look at this.”
+
+He reached out, pressing his finger against the the tapestry, and before her eyes, the names changed, seeming to zoom like startled birds across the tapestry until a whole new set of names became clear. Directly under his thin finger was the name “Duzhi.”
+
+“A bloodline tracking device, obviously made to reinforce Hui legitimacy, but still,” he said, finally looking up as she stepped up to his side. “Meng Duzhi was the third son of Duke Angguo. He took an imperial wife and received the right to settle the western fens from his father. The reasons for the split are unclear, but I’ve posited that it was a move to remove some bloat from the council of kings and avoid a succession crisis.” Meng Dan spoke quickly. “Ah, I know so little of the founding period! Only the direct descendants of the Patriarch typically have access to our inner archives…”
+
+Ling Qi listened to him speak, but her eyes were on the tapestry. She felt a little thrill of curiosity. What would happen if she laid a finger on it?

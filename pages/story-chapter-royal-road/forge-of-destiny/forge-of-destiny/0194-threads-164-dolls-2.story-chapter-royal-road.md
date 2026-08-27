@@ -1,0 +1,133 @@
+---
+id: b5fca6d7-d22b-5003-895d-00ccbb18807e
+page-type-slug: story-chapter-royal-road
+title: "Threads 164-Dolls 2"
+slug: 0194-threads-164-dolls-2
+partOf: forge-of-destiny
+position: 194
+ownLength: 2231
+unit: words
+publishedAt: 2021-12-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/810110/threads-164-dolls-2"
+royalRoadId: "810110"
+---
+
+“Where else would I be?” Lin Hai beckoned Renxiang out as he straightened up. “You are an odd girl at times, Baroness.”
+
+“She is,” Cai Renxiang agreed. “But if you are here, would you like to attend the fitting? Your perspective may offer valuable critique.”
+
+There was a sinking feeling in Ling Qi’s stomach. She knew—knew for certain—a way to break this fantasy. Cai Renxiang had already been fitted for coronation—and everything else. She had met Liming after all, and she remembered Cai Renxiang’s words regarding the fitting.
+
+To bring it up here though, in this land of memory and dream, would be painful.
+
+Yet it would be certain.
+
+There were other lines of attack, true. She could prod her liege about this coronation. Did Renxiang truly believe her mother would retire when they were both still so young? She could prod her to look outside and see the gaps in the illusion. She could point out to her liege at how easy this all was. That Renxiang had achieved such change in such a short time when they both knew that their path was going to be hard and arduous didn’t make sense.
+
+Yet they were all arguments of logic. And logic was a soft and easy thing to mold and twist into rationalization. All the same, if anyone could be pulled from their dreams by logic, it was Cai Renxiang.
+
+“Ling Qi?” asked Cai Renxiang, raising an eyebrow.
+
+Ling Qi’s hands balled into fists. Her mind spun out a thousand lines of argumentation she could raise, but it all came back to one thing. Their lives were in danger right now. Perhaps Liming would save Cai Renxiang, but what of the rest of them? It would ruin the mission in so many ways if they had to be saved by Liming or whatever other observer the Duchess had sent along. It would end the chance to lessen the impact of war in the south.
+
+She couldn’t imagine Cai Renxiang approving of the decision to risk that if they didn’t have to, especially if it was done just to spare her pain. Yet for Ling Qi deliberately hurting a friend twisted something in her chest.
+
+“Ling Qi, you are beginning to concern me,” Cai Renxiang said, watching her from the doorway. She stood with her arms crossed, frowning faintly. The simulacrum of Lin Hai stood behind her with a look of faint concern as well. “Are you certain you are well?”
+
+“No, I don’t think I am,” Ling Qi said precisely. “I’m sorry for deflecting before, but I am actually here to remind you of something.”
+
+“Are you saying our lady has forgotten something?” Lin Hai made an exaggerated gasp of surprise. He laid a hand on Cai Renxiang’s shoulder. “How scandalous of you, Baroness. We have certainly been busy, but Lady Ren has not been that distracted.”
+
+Cai Renxiang, however, looked disquieted and raised her hand to place over his. “No, Ling Qi has my trust. If she believes I have overlooked something, I will listen.” She paused then and shook her head. “Perhaps it would explain the distraction I have felt today.”
+
+Ling Qi pursed her lips. She wondered if that was a sign of her liege’s mental struggle. “Renxiang, you’ve already had your dress fitting.”
+
+“She most certainly has not,” Lin Hai disagreed immediately. “As her tailor, I think I would recall that.”
+
+Ling Qi ignored him and the glint of blue-white ice in his eyes. She met Renxiang’s gaze steadily. “Renxiang, you only have one dress, and your mother made it. She made it years ago, and you’ve never worn anything else since.”
+
+“Ridiculous!” Cai Renxiang’s frown deepened into a scowl. “My Honored Mother would not waste her craft on a child. That is why she had always refused my childish demands to meet her face-to-face before I achieved the third realm. It would be…” Her face scrunched up in discomfort, and in a disquieting display for the stoic girl, she visibly shook herself. “...pointlessly cruel,” she breathed out.
+
+“Just so,” Lin Hai said, resting his hand on his hip. “Really, Baroness, what has gotten into you, speaking such strange things? Are you ill perhaps? Wading into Dream as you do can befuddle the mind.”
+
+“Yes, that must be so. My apologies for misunderstanding your limits, Ling Qi,” Cai Renxiang said. “I will see a physician brought in at once. Please take the rest of the afternoon to rest.”
+
+She sounded distracted and uncertain, and Ling Qi grimaced, shooting a dark look at the simulacrum behind her liege. Cai Renxiang’s discomfort was already fading. This spirit was laying her thumb on the scale.
+
+Ling Qi stepped forward within arm’s reach of her liege. “Renxiang, listen, you can’t change the past, even if it’s painful, even if it’s awful. You know that. I know that. Isn’t that why you always talk about the future?”
+
+Cai Renxiang narrowed her eyes. “Baroness, you are really being too familiar.”
+
+“Maybe, but how else would you know it’s me?” Ling Qi asked.“I wouldn’t be who I am if I did not know loneliness. If you don’t remember what it is you're trying to replace, do you think you can really build this?” She gestured to the window through which the image of the idyllic city lay. “Make it more than a dream?”
+
+Cai Renxiang grimaced, pain blooming on her features.
+
+“That is quite enough, Baroness!” the not-Lin Hai snapped. He moved to push her away with all the implacable strength of a higher realm. “I know not what has disturbed your mind so, but Lady Ren does not need—”
+
+His hand went through her shoulder as Ling Qi took hold of the dream’s fabric and twisted it, stepping closer still to place her hands on Renxiang’s shoulders. When she spoke again, Ling Qi’s words felt sour on her tongue. “Remember Liming.”
+
+The world bent around her as she spoke the spirit’s name, the sound of it distorting the air. Like water into which a stone had been dropped, the dream rippled. She was close enough to see Renxiang’s eyes widen and her pupils shrink in terror.
+
+“Mother... Uncle... Why?” The words that passed Renxiang’s lips were little more than a whisper, but they reverberated through the dream like thunder.
+
+The light of the bright summer’s day outside changed. Warm sunlight became harsh radiance, and the city boiled away into light. The mansion groaned as polished wood split apart, giving way to walls of gleaming metal. The office shuddered, and not-Lin Hai’s expression twisted into a snarl as he dissolved, scoured away like the morning mist at the dawn. But Ling Qi felt the spirit’s lingering malice bloom in the dream.
+
+She was here.
+
+Ling Qi could feel the power crushing down on her back. She could see Renxiang looking over her shoulder, pain turning to terror in her eyes.
+
+Radiance. Radiance beyond description. A light that scoured and bleached and crumbled.
+
+Ling Qi felt the breath driven from her lungs, and her heartbeats quickened to near the point of bursting. She saw it without her eyes, for what were such pitiful mortal organs in the face of the Tyrant? She saw truth unfettered by the thin mask of human flesh and languid wit, the light of creation and destruction in all its terrible glory.
+
+Witness the implacable and infinite. Behold the Tyrant Progress whose breath is the end of kings and whose hands are the builders of thrones.
+
+Cai Renxiang’s shoulders shook under her hands even as the world was consumed in white.
+
+Ling Qi saw the shadow of a workshop through tears and blood-blurred eyes. The workshop had walls of resplendent cloth, and the tools of a weaver and tailor, wrought of the wood and metal of gods, laid upon the tables.
+
+She stood horrified/she laid flayed out upon the loom. She felt bile in her throat/she felt her flesh unspun. She heard a child scream/she felt fingers like merciless razor-edged shears plunge into her soul, severing some threads to lie on the floor. She felt her stomach heave/she felt threads of herself wound round a spindle, prepared to be woven into a half-finished gown of gold and white. She felt her eyes burn/she saw the Tyrant pluck gleaming threads of diamond and adamant from her own self and pass them through the eye of the embroidering needle.
+
+It was the echo of an echo, a child’s memory of pain and incomprehension made as clear as it was only by the nature of the liminal. She knew that the light failed to truly scour her only because it was filtered through a child’s memory. She knew that the tiny fragment of the Duchess’ truth she had witnessed was just that, else she, too, would have been broken at the sight.
+
+Even as the taste of acid burned her tongue, she did the only thing she could think of. Ling Qi stepped through the dream and wrapped her arms around Renxiang, the real Renxiang, who stood frozen before her.
+
+“You’ve withstood this already!” It wasn’t just physical pain that made it hard to think. It was the feeling of betrayal, the intense emotion of a child’s incomprehension and hurt at a pillar of their life performing an unforgivable hurt. “Renxiang, you’ve withstood this already! This is only a memory!”
+
+Cai Renxiang shook like a leaf in her arms, but as Ling Qi repeated herself, all but shouting in her ear, she felt the shaking stop and heard the grinding of gritted teeth. She felt her liege’s hand on her shoulder, not quite returning the embrace, but not rejecting it either.
+
+The luminous workshop shattered like spun glass under a boot.
+
+They stood in a child’s playroom, lit only by a faint, sourceless gray light. Ling Qi heard a deep, rumbling growl and felt the heat of bloodlust on her back. She felt Cai Renxiang’s tension return in an instant, and the hand left her back as Cai Renxiang stepped out of her embrace, leveling Cifeng’s curved blade at the slouched figure of Liming.
+
+“Not one step closer,” Cai Renxiang demanded, the point of her saber pressing directly against the spirit.
+
+Liming cocked her head slowly to the side, long black hair falling away to reveal one gleaming eye of glass. Ling Qi swallowed as the spirit briefly looked at her, then locked its gaze on Renxiang. There was something different about the spirit that Ling Qi could not quite place.
+
+Then, with a deep rumble in its throat, the spirit reached out, and smeared its bloody hand along the length of the blade. It took a step closer, and Cifeng punched through its chest and out of its back in a shower of blood. Liming grasped Cai Renxiang’s wrist and let out a low hiss.
+
+Ling Qi realized what was different. The cloying hate the spirit exuded like mist was banked when it looked at Renxiang. It was replaced by ice cold contempt.
+
+Cai Renxiang’s eyes flicked over to her and then back to Liming. “Ling Qi—”
+
+Whatever she might have said was lost as the playroom vanished in a flurry of snow.
+
+Ling Qi almost stumbled as she came back to herself high on the mountain ridge as a pulse of power reinforced the material world like the gate of a castle slamming shut. She stood on solid stone, surrounded in white, but it was the natural haze of an intense blizzard. She heard gasps of startlement from her companions, and the babble of her spirits in her head.
+
+<Knew you had this,> Sixiang said in her mind.
+
+Ling Qi looked ahead and saw Black Skies Yearning, hovering in the air. Her mask-like face was twisted in an expression that was both angry and worried.
+
+Ling Qi only realized that the spirit’s attention was on something behind her when she heard stone shatter. Whipping her head around, she saw Cai Renxiang, her left arm buried up to the elbow in the mountainside, pebbles and grit still flying outward from where her fist had pulverized stone.
+
+The others behind her looked on in bewilderment as they shook off their dreams, but Ling Qi saw Cai Renxiang’s face. Her eyes were beacons of pale radiance, and the stoic girl's expression was twisted in hatred, glaring at the spirit in the snow beyond. It felt wrong seeing that expression on Cai Renxiang.
+
+Ling Qi looked at the others. Xia Lin surreptitiously wiped moisture from her eyes. Gan Guangli watched their liege with concern even as his fists clenched and unclenched. Meng Dan still smiled, but a distant look haunted his eyes.
+
+She glanced down to the light still shining from Liming’s eyes. The heavy scent of blood and steel hung in the air.
+
+“I believe I have won our wager,” Ling Qi said coolly. “It would be best if we passed through now, I think.”
+
+The ice spirit looked back at her with empty black eyes, and she felt its resentment, but there was something else too, the wariness of a predator that had just been bloodied by its prey. Ling Qi had felt the ripple of power that had yanked them fully back into the material world. What had Black Skies Yearning felt?
+
+“The victory is yours, Child of Winter,” the spirit whispered sulkily. Its physical form dissolved. “Pass with my blessing.”

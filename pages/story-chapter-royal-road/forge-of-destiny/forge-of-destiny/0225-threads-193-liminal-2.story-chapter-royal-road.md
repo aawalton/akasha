@@ -1,0 +1,141 @@
+---
+id: 9cad4d73-e280-5180-87d3-42903d9824b8
+page-type-slug: story-chapter-royal-road
+title: "Threads 193-Liminal 2"
+slug: 0225-threads-193-liminal-2
+partOf: forge-of-destiny
+position: 225
+ownLength: 2220
+unit: words
+publishedAt: 2022-03-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/858850/threads-193-liminal-2"
+royalRoadId: "858850"
+---
+
+Ling Qi looked out over crumbling foundations and a single standing cherry tree. Here was the place where the three moons, or their avatars at least, had come to her nearly a year ago now to take her forth on a quest to examine her own past.
+
+It was here that she would start her own explorations of the Dream.
+
+“Done moping around?” Sixiang asked, looking up from where they crouched over the three rings of bronze and jade which made up the ancient scrying device and gate she had pulled from the dead Hui’s storage ring. The rings were placed carefully among the browning grass to line up with the faint lines of energy in the area.
+
+“I wasn’t moping,” Ling Qi retorted. “We needed to wait for the rings to charge. How’s your manifestation holding up?”
+
+“Easy peasy,” Sixiang said with a smirk, puffing out their slim chest. Sixiang had chosen to look more masculine today, keeping their hair shorter and their features sharper. “Told you that thing would be useful.”
+
+Ling Qi glanced toward the golden idol which they had placed in the center point between the rings. It did seem to make the rings power up faster, as well as ease the effort it took for Sixiang to manifest.
+
+“Let’s see what we can do with this.”
+
+“Onward to adventure,” Sixiang drawled, tracing their finger around the rim of the closest ring. It spat luminous sparks, and the air inside wavered.
+
+“So, what are we doing today that’s different from what we’ve done before?”
+
+“Before, when I taught you how to dance, I was teaching you how to skim along the edges,” Sixiang lectured, leaning an elbow on her shoulder. “You were good at that since you already knew the trick of moving without moving.”
+
+Ling Qi nodded, giving the spirit a gentle nudge to push them off her. Her very first movement art, the Sable Crescent Step, had been a lengthy lesson on the nature of darkness. Darkness was a state. Fade into it, and it was easy to simply appear wherever there was a lack of light. Of course, she was still limited by her human mind. She could only move to places that she could perceive, and she couldn’t disperse herself completely for very long. Doing so felt a bit like trying to hold her breath for too long as a mortal.
+
+“Yes, but I’ve also done more. You’ve taken me into Dream before.”
+
+Sixiang was already shaking their head. “Nah. I’ve let you experience my memories, but that’s not the same. Today, I’m gonna show you how to intentionally enter into Dream.”
+
+Ling Qi averted her eyes at the reminder of the desperate jump she had pulled herself and her fellow disciples into during their escape from underground, the one that had almost broken her open like a shattered vessel. “How do we get started on that?”
+
+“It’ll be easier because of our setup here, but if you’re gonna physically enter, the important thing is getting into the right state of mind,” Sixiang instructed. Ling Qi held back a snort as a small pair of spectacles materialized on their nose. “You have to sleep while waking.”
+
+Ling Qi stared at Sixiang. Sixiang stared back.
+
+Ling Qi raised an eyebrow. “Is that it?”
+
+“Can you explain how to breathe?” Sixiang retorted.
+
+“No,” Ling Qi agreed grudgingly. “Then what good is this?”
+
+“It’s not like I’m totally useless,” Sixiang drawled. “For you solid folks, it's about state of mind. Even when you’re calm, your mind is still going on about a bunch of stuff in the background. You’re not ever really not thinking about something.”
+
+“Are you about to tell me I need to clear my mind?” Ling Qi asked sarcastically.
+
+“That’s the opposite of what you need to do. If anything, you need to fill your mind. Dream is ideas,inspiration, and thoughts. It’s everything that goes on under the hood. That’s why dreams are usually just weird mishmashes of thoughts and experiences from the waking world. So no, don’t clear your mind. Lose your restraint entirely. Let yourself dream. I’ll be careful not to let you float away.”
+
+Ling Qi frowned as she stepped into the closest ring, feeling the hum of qi on her skin. Inside the ring looking out, the view of the grounds of the Outer Sect was hazy. It was like looking outside on a hot summer day. Her eyes drifted over the town at the foot of the Outer Sect mountain where her family was to the faint curl of smoke that marked Zhengui’s hill. Her eyes then wandered up to the cloudy sky where the immense coils of the Sect Head’s dragon companion still loomed in the sky. She craned her neck, spying the endless mountain peaks to the south.
+
+If there was one thing that she had come to learn recently, it was that she was ignorant of so much still.
+
+... And she wasn’t satisfied with staying so anymore.
+
+Ling Qi closed her eyes. She let her mind wander, a hundred, a thousand thoughts boiling over one another, unrestrained by any attempt at focus. The rest of the world faded away as she let herself grow lost in the cauldron of her own mind. The last thing she heard as she reached a hand out and pressed it against something like the skin of a soap bubble was a chuckle from her muse.
+
+“Knew you’d get it, Ling Qi.”
+
+She felt her stomach lurch, and even the touch of ground vanished under her feet. Ling Qi felt a rising alarm as a sense of lightheadedness overtook her, and she felt her fingers begin to dissolve.
+
+Arms wrapped around her waist, and her weight snapped back. Ling Qi took in a sharp breath through lungs that no longer felt half-liquid.
+
+“Told you I’d stop you floating away,” Sixiang said, voice tickling her ear.
+
+Ling Qi shot them a dirty look over her shoulder as she opened her eyes and peered at their surroundings.
+
+They now stood in a bamboo grove before a humble shrine. The sound of a burbling spring reached her ears, and she turned to see a clear spring that had taken the place of the overgrown muddy pool which had been there in reality.
+
+“I could have used a little more warning,” Ling Qi rebuked.
+
+“You already knew the danger of the Dream.” Sixiang drew away. Wisps of colorful smoke rose from their limbs where their bodies had touched.
+
+“I wasn’t thinking of it,” Ling Qi grunted, raising her eyes to the source of golden light that illuminated the little shrine. The idol floated above their heads, twice the size that it had been in the physical world. Its expression was still serene, but an eddy of power swirled around it, and the lotus in its lap glowed with a dim unlight.
+
+“That was the point,” Sixiang reminded her.
+
+Ling Qi grimaced, breathing in what felt like heavily qi-dense air. “Is it always like that when crossing over?”
+
+“Yeah, ‘s dangerous. You solid people aren’t really meant to be here, and you’re still pretty attached to your body.” Sixiang clapped her on the shoulder. “It’s extra dangerous to go alone. Good thing you got me.”
+
+Ling Qi rolled her eyes but smiled as she turned away. Sixiang sniffed in mock hurt. “Where are we? This isn’t like last time.”
+
+“Well, yeah,” Sixiang agreed. “Last time, you jumped right in the deep end. This place is closer to the Real, so it’s more like a… shadow or impression of your world.”
+
+“I see,” Ling Qi murmured, casting one wary eye at the idol as she approached the shrine. Inside was an altar and an eight-sided mirror framed in black jade. The mirror shone with the gleam of moonlight on a clear night. Wisps of silver, infant faeries, drifted and flickered, their laughter like the soft ring of wind chimes in her ears as she reached inside and lit a stick of incense.
+
+It didn’t matter that she had no fire techniques. The incense lit because what else would an incense stick do? She clapped her hands twice and bowed her head to a mirror that shimmered black then turned away, striding toward the dirt path that wound out of the bamboo grove. A halo of moon fairies followed after her, swirling and dancing around her head.
+
+Sixiang waved their hands, shooing them away as they caught up.
+
+“Jealous of a bunch of kids, Sixiang?” Ling Qi asked.
+
+“Pfah, like a bunch of brainless babies can appreciate you. So what’s the plan?”
+
+“I’m not sure yet,” Ling Qi admitted. She grasped inside her storage ring and pulled on the last piece of loot she had acquired, a compass of dark red wood with a sliver of rainbow-hued metal spinning under the glass. She paused and squinted at it, but the sliver of metal didn’t stop spinning. “Where do you think we should go?”
+
+“Probably the wrong question,” Sixiang said as they resumed walking. Their words echoed weirdly here as if rising from the bottom of a deep pool.
+
+The bamboo grove stopped abruptly at a sheer cliffside, stretching infinitely down into darkness. Beyond it lay a forest, but nothing like she had ever seen before. The trees were immense beyond reckoning. They stood at a level with the lowest branches and yet the trunks stretched out of sight, and the glittering canopy overhead seemed as far away as the night sky. Mist drifted between trunks as wide around as whole townships, and the breeze sent branches larger than trunks a-swaying.
+
+She looked up, and there, in a single drop of dew clinging to an immense leaf, was a distorted image of the sect town, and beyond that in their own dewdrops were scattered bubbles. There, she saw the Outer Sect mountain, and there, the lowest of the Inner Sect peaks. Further beyond, she felt the distant rumble of thunder and caught a golden glow.
+
+She looked down into the infinite mist and caught movement, something vast but graceful passing between the titanic trunks. In the eddies of the mist, she saw the shadow of human construction carved into the dark wood, dozens, hundreds scattered about, stacked atop one another. There lived shadows flickering and quiet, yet no less real than the glittering dew above.
+
+“So, Ling Qi, what do you want to dream about?”
+
+“There’s one thing I picked up from Meng Dan that I think is right,” Ling Qi said, thinking back to the tapestry and its disappointing revelations. “The past isn’t the most important concern, but if you don’t understand it, you won’t really understand the present either.”
+
+Sixiang followed her gaze down into the dim mist far below and the teetering cities piled upon the platforms and low branches.
+
+“I’d probably have disagreed with you a year ago,” Sixiang said. “The present is what matters, and maybe the future… But I guess those nerdy cousins of mine have a point. Every dream comes from a memory.”
+
+Ling Qi studied the shadowed silhouettes below and willed herself to rise from the ground, only to blink as she failed to move at all. She glanced down at her gown, and the silky cloth seemed to almost shrink away in frustrated contriteness.
+
+“Don’t think you’re going to be able to rely on that one. What they usually manipulate isn’t here.” Sixiang stepped off the cliff, fell for a moment, and then bobbed back up like someone floating in the water. The air around their feet distorted.
+
+“And she isn’t developed enough to manipulate the dream,” Ling Qi realized, brushing her hand over her sleeve.
+
+“Not without losing bits.” Sixiang offered their hand. “Speaking of losing bits, Ling Qi, be seriously careful. No matter what happens, you gotta hold on to who you are. It’d be awful if something snuck into your skin.”
+
+Ling Qi nodded faintly, taking Sixiang’s hand as she focused firmly on her desire to descend. Was that the faint feeling of pressure on her mind? Was it the feeling of countless consciousnesses pressing down, threatening to bleed into her and change who she was? She’d thought, from her study, that it would be more overt.
+
+“Why would it be? This is the place where all barriers fade. Is it usually noisy when one cupful of water flows into another?” Sixiang asked. A sloping trail of starlight bloomed, and they began to slide swiftly downward along its curving trail, the wind tugging at their sleeves and hair.
+
+“I’ll be careful not to spill,” Ling Qi murmured. It would be a challenge. She was so used to dispersing when she wanted to hide that holding herself together was a more novel task.
+
+The two of them lapsed into silence as they rushed downward, new stars and beams of moonlight spinning into existence as they descended. Ling Qi’s eyes darted from one shadowed edifice to another, seeking anything of interest. In her free hand, the crystal compass continued to spin wildly and without direction.
+
+Her eyes fell on a structure within one of the haphazardly stacked cities. It looked like the great hall at the central plaza of the Outer Sect, but smaller and humbler.
+
+It was as good a place to start as any.

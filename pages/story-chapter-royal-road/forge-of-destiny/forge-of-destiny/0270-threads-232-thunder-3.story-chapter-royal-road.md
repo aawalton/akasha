@@ -1,0 +1,153 @@
+---
+id: 0495e072-dc09-5b11-81c9-4bf9c14f5898
+page-type-slug: story-chapter-royal-road
+title: "Threads 232-Thunder 3"
+slug: 0270-threads-232-thunder-3
+partOf: forge-of-destiny
+position: 270
+ownLength: 1905
+unit: words
+publishedAt: 2022-07-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/956412/threads-232-thunder-3"
+royalRoadId: "956412"
+---
+
+“Haha, well it is good to know that we can impress a revelry of the dream,” Leigong said cheerfully, the clacking of his beak punctuating the words. “But! Your arrival is sudden. I will rouse these fellows to listen later, but you have arrived just as we were arranging some games. Perhaps you and your guest would care to join us?”
+
+Yu Nuan looked worried, but Ling Qi just tilted her head curiously.
+
+“What sort of games, honored lord?” Yu Nuan asked.
+
+“Well, I will be arranging a game of chase and capture with many of my sons and retainers. It will be a great bit of fun in flying through the halls, a test of speed, endurance, and wit,” the Leigong said, puffing out his chest. “The winner will be the one who gathers the most jade tokens that will be given to the participants!”
+
+The little god continued, “The other game will be overseen by my sharp-eyed wife. It will be a grand scavenger hunt for things hidden among the palace. It seems a little fiddly to me, but it is her game after all!”
+
+“Please give us a moment to decide.”
+
+“Of course! But don’t take too long, thundercaller.” Leigong laughed, and a beat of his wings carried him back to the crowds.
+
+Yu Nuan took a deep breath.
+
+Ling Qi grinned. “It sounds like fun, but I’m guessing there’s a catch.”
+
+“They’re still friendly games,. But what a spirit considers friendly…”
+
+“Yeah. We don’t really get how fragile you guys are most of the time. I’m guessing it’ll get pretty violent with all the lightning qi here,” Sixiang said.
+
+“The Leigong here isn’t totally wild. He’d not have invited us if any fourth realm spirits were participating, and I don’t think anyone would go for deliberate kills, but it’d also be rude to refuse.”
+
+“I don’t think I’d want to refuse anyway,” Ling Qi said. “Either option seems like a fun training exercise for what we’re working on.”
+
+Yu Nuan blew out a breath. ”Guess so. Got a preference?”
+
+“What is his wife like?” Ling Qi asked, considering.
+
+“The Dianmu? She’s…sharp, a lot more critical than the Leigong. She still likes me, I think,” Yu Nuan said, trailing off into mild uncertainty. “You thinking the scavenger hunt then?”
+
+“Maybe. The chase sounds fun, but I feel like it’ll probably devolve into a big, moving brawl. The hunt sounds more considered.”
+
+“There’s still gonna be some brawling,” Yu Nuan warned, glancing down to where numerous fights had broken out among the revelers to the laughter and cheers of the other spirits
+
+“Not afraid of that. Just thinking of which game would be better for cultivation,” Ling Qi said seriously. “These kinds of games are opportunities. Technique insights come a lot easier in a place like this.”
+
+“You’re not wrong,” Yu Nuan admitted.
+
+“Did you prefer the chase?” Ling Qi asked.
+
+“No, I just—” Yu Nuan shifted from foot to foot. “Ah, well, she intimidates me.”
+
+“All the more reason,” Ling Qi said piously. “Intimidating spirits have the best loot and arts.”
+
+Yu Nuan squinted at her. “You’re joking, right?”
+
+“Of course.” Mostly. “Can you still control this thing?” Ling Qi asked, not leaving herself open for interrogation. She gestured down to the cloud of soot under their feet.
+
+“Oh, yeah,” Yu Nuan replied, resuming her strumming. It was a calmer but still energetic meter. “The big banquet table is usually up in the storm clouds.”
+
+Ling Qi nodded, glancing out to the revel. ‘Any thoughts, Sixiang?’
+
+“Oh, I’m good either way. I think this is gonna be fun!” Sixiang’s tone reminded Ling Qi of the muse’s earlier days.
+
+They rose, carried upward toward the rumbling belly of the clouds. The air was warm and damp, charged with a buzzing static that made strands of her hair jump and the hems of her gown dance, and there, in the center, was a great banquet table. It was a slab of solid rock, roughly hewn flat, and all around it were more spirits, people with the features of birds and bats, bulls and horses, and not a one missing a pair of wings in some shape.
+
+At the center of the table was the Leigong, seated on a cloud, laughing uproariously at something that had just been said by one of the many lesser spirits that shared his features. At his side was a woman. Like Zeqing, she could have been mistaken for a human at a distance and at a glance. But she did not sit much lower than the Leigong on her cloud, towering some four meters high. Her hair snapped and frizzed and sparked, living lightning bound through a diadem of copper wire and sparkling jewels. Her face had an artificial feel like a theater mask placed over a bonfire, and when she turned to speak to the Leigong, heat and sparks washed out. In her hands, she cradled a wide mirror of polished silver with an ornate rim, and her gown was resplendent in white and blue.
+
+“Hoh, made your decision then?” the Leigong crowed as they came close.
+
+“We have,” Yu Nuan said. “And we thank you for your invitation.”
+
+Ling Qi quietly scanned the rest of the rowdy table. They’d quieted with the Leigong’s words, but there were still tussles and arguments and japes going on. These were their children most likely, Ling Qi thought, the little gods of clouds and rain.
+
+“Don’t keep us in suspense then!” the Leigong boomed cheerfully.
+
+“My companion and I would like to join the scavenger hunt,” Yu Nuan said. “If it wouldn’t bother the Lady Dianmu.”
+
+“Never. My games are ever the less popular,” spoke the Dianmu, raising a hand to cover her mouth as she laughed. The sound crackled with electricity. “Perhaps the pair of you might give my sons some actual challenge in this round.”
+
+Two of the nearest spirits puffed out their chests. One resembled a smaller, leaner variation of the Leigong, and the other took more after the mother with a hook-nosed human face but wings that were arcs of snapping lightning. His whole body seemed to be made of hollow glass filled with churning clouds.
+
+“This Yun Long welcomes the challenge,” said the lightning winged one, surveying them with crimson eyes.
+
+“Mmm. It gets dull, brother,” the birdlike one said with a nod, crossing his arms over his slim chest. “Yun Sho also welcomes you, if you can keep up.”
+
+“That won’t be a problem,” Ling Qi said confidently. Neither spirit seemed much above them in cultivation. Yun Sho matched her, and Yun Long matched Yu Nuan.
+
+“Ha, jolly competition, as is proper,” said the Leigong. “Well, why don’t you go along with my wife then? You were about to announce the list, weren’t you, dear?”
+
+“So I was,” said the Dianmu. ”Let all participants meet upon the floor of the great hall.”
+
+The mirror held in her hands flashed, and the greater spirit vanished in a bolt of lightning. The lesser spirits shot them a smirk before their wings began to beat, and they dove down through the belly of the cloud.
+
+Ling Qi allowed herself a small smile at her companion’s frown and bowed to the Leigong as the strumming picked up and their little soot cloud descended.
+
+What awaited below in the main hall was a riot on pause. The drum beating of the ogres had risen to a new crescendo, playing a pulsing, rhythmic beat, but the other sounds had died down. The winged spirits flocked in a great black ring above, and the ground-bound ones stood still, some in mid-dance step or thrown punch. In the center was the Dianmu standing at her full height, a crackling light that cast long shadows throughout the room
+
+“Friends and guests! The time for the day’s games has come. My husband will be down shortly for the merry chase, but for those who might like a different game, I offer a hunt!” the Dianmu announced to raucous approval. “The rules are simple. The game shall be played in pairs, and betrayal of your partner is verboten. I shall make a list of hints toward items to be found and collected. The pair which brings me the items that match most closely to what I had in mind in the greatest quantity shall earn of me one favor. The time limit shall be an hour!”
+
+Even as she spoke, her hand rose, and from it, sparks and lines of lightning rained, shaping themselves into characters and sentences.
+
+“These shall be your targets, hunters. Stand now with your partner, if you wish to play, that my eyes may mark you,” the Dianmu continued as the list resolved in burning form, remaining unmoving in the air.
+
+Ling Qi scanned the list and thought on what they could mean. “Any immediate ideas?” she asked quietly.
+
+Yu Nuan sucked a breath through her teeth, brow furrowed. “I think I know what she means by the flower and the breath.”
+
+“That’s good,” Ling Qi said. “You know this cloud is too slow, right?”
+
+“What do you—” Yu Nuan began, turning her frown toward Ling Qi.
+
+“I have seen you, hunters. Begin!” the Dianmu called out brightly.
+
+And then, they were in the air as Ling Qi grasped Yu Nuan’s hand and flew. The girl let out a startled yelp as they left even a hint of the firmament behind and flew from the great hall.
+
+“What the hells!" Yu Nuan shouted, holding tight to the neck of her lute with her free hand. "Where are we going?!”
+
+“Don’t know yet!” Sixiang laughed. “But look, half a dozen teams zoomed right after, thinking we do. Give my girl some quick directions, and let those zoom off the wrong way.”
+
+Yu Nuan muttered a string of curses, glancing around wildly at the palatial hall Ling Qi had flown down.
+
+<She says right, then left, then down and down again through a red arch carved like a flame,> Sixiang whispered.
+
+Ling Qi immediately darted down the passage to the right, the air shimmering as the image of their party shot off down the left passage, an illusion made by Sixiang’s twisting of the air, imbued with a hint of reality by dream qi.
+
+It was enough to split their pursuers at the very least.
+
+“There’s gonna be a locked door at the second stair,” Yu Nuan shouted. “I don’t have an escort this time.”
+
+“Got it!” Ling Qi replied. “Can you picture it really clearly for a second?”
+
+“I…guess?” Yu Nuan shouted back uncertainly.
+
+Sixiang conveyed to her the image, a marble door inlaid with intricate scrollwork and carvings of the Leigong and other spirits in court.
+
+Another image of them shot off ahead, and they stepped ever so briefly into dream. It was a technicolor kaleidoscope of energy, blindingly bright and screaming with tearing wind. Then they emerged on the other side of the door.
+
+“Neat trick, eh?”
+
+“Something like that,” Yu Nuan grumbled.
+
+“So, what’s our target?” Ling Qi flew down the shadowed stairs as Yu Nuan collected herself. A bolt of lightning struck a stair ahead, and she reappeared there with a crack, soon following Ling Qi under her own power.
+
+“There’s a crystal farm below. Pretty sure that fits the flower hint,” Yu Nuan answered
+
+That would be one down, Ling Qi thought. This was going to be fun.

@@ -1,0 +1,167 @@
+---
+id: 290bb757-9569-519a-a874-ebf3a626e887
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 385"
+slug: 0428-threads-chapter-385
+partOf: forge-of-destiny
+position: 428
+ownLength: 1955
+unit: words
+publishedAt: 2024-06-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1685925/threads-chapter-385"
+royalRoadId: "1685925"
+---
+
+Hanyi was already trotting off for the door, and probably ignoring her on purpose. She looked at Sixiang with concern.
+
+"At the least, Xuan Shi and Zheng Fu want to chat. Meng boy is real busy, but a big supply caravan from the Bao showed up with a couple familiar faces. Pretty sure the only reason your snake bestie isn't here already is because she's sitting on her clan’s response to this mess."
+
+Ling Qi closed her eyes and groaned quietly. Meizhen was going to be furious, wasn't she? She was almost surprised that the girl hadn't assigned Xiao Fen to just stand in the corner and glare at her, but there were more urgent matters afoot. As for the other visitors… She did want to know more about what had happened. She had seen flashes of outside activity, and she remembered that Xuan Shi had been with Meng Dan.
+
+"I wouldn't have come out without his gauntlets, would I?"
+
+"Well, I wouldn't have," Sixiang said, scratching the back of their head. "They're totally trashed too, but they lasted till the bang at the end before they gave it up entirely."
+
+Of course, Xuan Shi really was a skilled crafter. A thought occurred. "Where is my gown?"
+
+Sixiang winced.
+
+"Where is she!"
+
+"The docs had to pick it out of you. The silk kinda melted, you know, and so did you."
+
+"Is it…?"
+
+"Your boss doesn't do anything by half measures. It looked like a pile of ash, skin, and a couple glowing threads holding the bits together, but it was starting to repair already. It's been sent back to Lin Hai to get looked over."
+
+She allowed herself to be cautiously optimistic.
+
+"Ah… Boss lady might’ve wanted to say this herself, but since you look real worried, word is that the duchess is gonna let him use her workshop to do repairs. So, the dress is probably gonna come out fine?"
+
+Oh.
+
+Heavy footfalls were approaching the door. Solid and unyielding qi was matched with a scent she now recognized as sea spray. Beneath it, like an eel darting among the riverweeds, she could feel a sulking presence. That must be Xuan Shi’s bound spirit, the nightmare Kongyou. There was something else as well though, like a little blot of ink reflecting, or perhaps consuming, the very attention that fell on it.
+
+She felt it pause there outside the door. There was doubt there, even now.
+
+"Please come in," Ling Qi said, projecting her voice more with qi than air.
+
+The presence startled, and then the door pushed open.
+
+Xuan Shi stepped into the room. He looked a bit worse for the wear. Without his gauntlets or heavy concealing outer robe, he seemed strange and unfamiliar to her eyes. A thick armored vest stretched across a broad chest, a belt hung with pouches, and sturdy trousers were tucked into thick boots. There was a crack in the wide brim of his hat.
+
+"Xuan Shi, thank you for visiting me… and for your assistance. I don't think I would be even this well without your gift," Ling Qi said gratefully.
+
+He looked at her for a long moment. "Then this one has no regrets."
+
+He sat down in another chair left by her bedside, across from Sixiang. He was staring at her from under the brim of his hat, but for once, she didn't feel discomfited by the attention. She surely looked terrible right now, regardless.
+
+"I did manage to save a, uh, couple fragments." Sixiang reached across the bed and dropped into his hand a number of clay shards, still glowing cherry red with heat. She didn't know where Sixiang had been keeping it… the same place as the idol that anchored them, she supposed. "Reagents, right?"
+
+Xuan Shi looked down at it briefly. Unbothered by the heat, he closed his palm around the slightly smoking ceramic shards before it vanished into the storage ring on his finger. "Reagents. Yes. Miss Ling, this one is astounded by the lengths to which your ambition took you."
+
+No distractions, hm? She appreciated Sixiang's effort.
+
+"I only regret that I could not lessen the harm further. We will not fail here," Ling Qi vowed.
+
+"There will be no failure," Xuan Shi agreed. "Not where you stand."
+
+"Moons, my cousin must be sulking up a storm in there, huh?" Sixiang asked.
+
+"This one is told that the word is ‘brooding’ or perhaps ‘contemplating. But this one would like to report on the matter of the Meng and what occurred there."
+
+"Please do, Xuan Shi." Ling Qi gave as much of a proper nod as she could.
+
+"The details, this one will leave most to Sir Meng, but the elder was indeed propped by juniors in the manner of the Meng, raised from the deathbed through the machinations of others."
+
+So, that was why he had weakened as the other Meng conspirators were taken down and why his death throes had been relatively limited in effect, even on her.
+
+"Meng Deming was an innocent man usurped by this will, and he proved most upset when freed. However, this one's part in the tale requires an introduction."
+
+"An introduction?" Ling Qi wondered, only for the answer to come. "Ah… Did you hatch that egg?"
+
+He reached up under the brim of his hat, and when he opened his hand, there was a tiny, fluffy pale blue chick. She bobbled back and forth, tilting her head to and fro as she chirped.
+
+Hungry hungry happy hungry warm hungry hello! hungry warm hungry happy warm…
+
+"Oh, hello there!" This was the droplet of ink, inscrutable to her senses beyond that, for all that the infant beast’s simple thoughts were like an open letter to her.
+
+The chick jumped in Xuan Shi’s palm before looking at Sixiang and letting out a wary chirp.
+
+"Hey, hey, I'm good," Sixiang said. "Don't you worry about me."
+
+"Though freshly born at the time, this young one proved to have sapping properties on the energies at play." Ling Qi could see in every line of his expression and posture affection for the tiny bird in his hand. "But more than that, in carrying her, the attention of watching crows was drawn. The White Sky remained in the turmoil at the will of the gods, or so they say."
+
+"Right. They did interfere at the end. Joined up with the defense to keep the dream battle contained. The boss lady said so," Sixiang wondered. "So…"
+
+"This one thinks a physical token may have been more convincing than words." Xuan Shi drew his hand back to his chest, stroking the chick's head with one finger. "Lady Ling should be aware. That is all."
+
+"I see," Ling Qi said. That was definitely another factor to consider, although she didn't think she was well suited to thinking about it right now. "Oh! What is her name?"
+
+Xuan Shi blinked. "Apologies. It is Xuanji. After…"
+
+"Anthology." A name about stories, and giving the chick his clan name, too. There was more, but she didn't have the head for it right now.
+
+"Indeed. The meaning of names… Although they form from the hopes of the giver, they also hold meaning to the child."
+
+Ling Qi smiled slightly. "And puns are just fun."
+
+Sixiang snorted.
+
+Xuan Shi lowered his head in acknowledgement, and the little blue chick bobbled in his palm, chirping away.
+
+Hungry hungry hungry SHADE! Hungry hungry!
+
+Xuan Shi raised his hand, letting the chick scamper back under his hat.
+
+"Did you build a nest box under there?" Ling Qi asked, bemused.
+
+Xuan Shi coughed into his hand. "Temporary accommodation."
+
+"She seems to like it, but you're right that it can't last forever. I do miss when I could carry Zhengui around."
+
+"It will be the same, this one believes, although this one doubts she will reach such heights." Xuan Shi paused. "Perhaps it is best not to assume such in these days, however."
+
+Ling Qi briefly imagined a towering chicken standing astride the mountaintops, flaring her wings and summoning a gale upon the land below. It was… definitely an image. "I suppose so."
+
+Silence fell between them then, only a little tense and awkward.
+
+"How bad was it?" Ling Qi asked. "At the Meng compound."
+
+Xuan Shi took a deep, sharp breath. "A worse storm this one has not yet seen. A mutiny was countenanced from the foundations. Yet few had their own will. Sir Meng’s gaze is sharp when forewarned for what to seek and assisted by a grinning ape."
+
+"And a dependable tortoise," Ling Qi added.
+
+"This one merely provided force and analysis of formation arrays," Xuan Shi demurred, but he lowered his head in acknowledgement of her words. An irate chirp emerged from beneath his hat. “There were six. Only two were the aides of Meng Deming, as recorded in the annals of the summit staff."
+
+Ling Qi grimaced. It was not a huge number all told, and yet, it was more than she would have liked. Together with whatever her allies in the Meng had found in their home… It was going to be ugly. People would die. They would be executed if they were not already dead. Husbands and wives, parents and children, brothers and sisters, so many connections were going to be snipped.
+
+It was the best that could be done. Enemies did not stop being enemies because they were people. But even if the faction from which these rebels drew their strength was gutted and discredited, she expected that there would be a great deal of resentment to go around in the wider clan for a long time to come.
+
+"Sir Meng Dan is most troubled. It is not easy to raise hands against kin," Xuan Shi said.
+
+"I would expect no less. Thank you again, Xuan Shi, for all of your assistance. I wish there were more that I could do to pay my debts to you."
+
+"Friends do not keep a coin counter’s ledger. If mine work preserved Lady Ling's life, then it has paid itself in full. All the same, this one wishes to remain. The Argent Peak Sect and the Xuan alike wish eyes here. Will you support this?"
+
+"Of course I will,” Ling Qi promised. “We still have a proper town to build here, don't we?"
+
+Xuan Shi made a sound of agreement. "This one looks forward to walking at your side. Miss Ling is never short on adventure."
+
+"I'll look forward to that too, and not only for walking at all." Ling Qi chuckled weakly. "Xuan Shi…"
+
+He tilted his head as she trailed off.
+
+"I will be glad to have you here in whatever ways you want to walk. I hope we can seek out secrets together again." She chose the words with difficulty. Some acts were harder, despite the far lower stakes.
+
+"A-ah." Xuan Shi blinked slowly. "This one would be honor-… most pleased to tread the winding ways at thy side again."
+
+Sixiang teased, "Maybe you can keep her from blocking more attacks with her face while you're at it."
+
+"I'll catch the next one in my teeth," Ling Qi shot back.
+
+"That would be most ill advised. This one implores that Miss Ling use the hands which the Nameless gave unto her."
+
+"I will take it into consideration." Ling Qi attempted a haughty sniff, but it just made her cough. What a wretched feeling. "Then I look forward to your contributions here."
+
+He nodded, standing slowly. "This one accepts. What has been wrought here will echo far. To be a part of it has been an honor. Be well, Ling Qi. Many remain who wish for thy ear, but let us speak again soon."

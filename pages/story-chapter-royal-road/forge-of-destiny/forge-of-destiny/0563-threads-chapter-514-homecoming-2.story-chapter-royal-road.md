@@ -1,0 +1,141 @@
+---
+id: cc7a25a4-f8c9-5aa3-9a03-75cdf7c6febf
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 514 Homecoming 2"
+slug: 0563-threads-chapter-514-homecoming-2
+partOf: forge-of-destiny
+position: 563
+ownLength: 2652
+unit: words
+publishedAt: 2026-04-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3283507/threads-chapter-514-homecoming-2"
+royalRoadId: "3283507"
+---
+
+It had been like a river of metal and stone.
+
+Glittering, winding along the great north-south road which was the central artery of the province, connecting the mountains that lay at either end, the Celestial Peaks and the Wall, there was a train of countless soldiers and horses marching in shining ranks. It was the muster of the Bao clan, the levy they had raised to march down under the earth. Their banners of gemstone rippled and waved like cloth, threaded through with silver, platinum, and gold.
+
+The combined qi of the many cultivators could be felt even before they reached the base of Xiangmen. Great vehicles trundled along amidst them, too. Supply wagons the size of hilltop forts, grinding along on steel wheels and bristling with siege weapons, were dragged by dozens of horses. Bigger, mobile fortresses, great towers, and walls of stone moved along the roadside. Trees and earth were displaced before them and restored after, as if they were boats cutting through choppy waters.
+
+They were slow, but Ling Qi supposed they had to be, if they did not want to bring riot to the spirits of the earth and soil, let alone the agitated trees. Not that the Bao didn't have their own.
+
+Even a clan as imperial as the Bao walked with their spirits. In the center of formations, she had seen spirits shaped like persons with hides of gemstone and granite and shining cloaks of glittering gold, twice as high and thrice as wide as any of the soldiers around them. Chattering flocks of birds cut from jewels flew overhead, their song sweet and ringing with lively vigor. More mundane beasts also walked at many officers' sides.
+
+Their carriage took a slightly more roundabout route to avoid conflicting with the Bao army's march. They would join the Diao's march soon.
+
+"It's a sobering sight, is it not?" Gan Guangli looked out the window of the carriage as they passed from the eastern rootway entrance. Even at such a distance, the light playing off the jewels shone rays of colored light into the sky.
+
+They were all together, all five of them in the spacious interior of the carriage. Gan Guangli sat with his arm on the sill of the window, just inside the wind-deflecting formations now beginning to hum as the carriage picked up speed. She and Xia Lin sat opposite, close to one another. Meng Dan lounged against one panelled wall on their side, taking absent notes on the open page in his lap. Lastly, Cai Renxiang sat in the center on the same side as Gan Guangli, ramrod straight, eyes closed in light meditation.
+
+"A comforting one. The lords of the Emerald Seas have not returned to crouching behind their walls while their fellows are assaulted," Xia Lin replied.
+
+"There is that," Gan Guangli acknowledged. "All the same, it is weighty to see so much power directed, and know it is only a fraction of the whole."
+
+Xia Lin considered this. "Agreed. I have not seen a deployment of such size. Our White Plumes number one thousand with a single sovereign at its head. I counted three among the Bao."
+
+"Four," Ling Qi corrected. "It was a subtler power, back in the supply train."
+
+"I doubt any comital clan will send less, lest they be seen as weak. Perhaps the Wang and the Jia can get away with it, since they have been specifically assigned to the defense of Emerald Seas, but the Argent Peak Sect’s strength on the border grants them more leeway to be generous," Meng Dan analyzed. "Our clan will have no choice but to match or exceed the other clans, even if it will be a strain on our resources."
+
+If the Meng were to arrest the crumbling of their standing in the court, the actions of their traitors would demand no less than to be seen as the most supportive of the Emerald Seas’ vengeance.
+
+"The mobilization to war will cost the province greatly. In men and material not put to other ends, in the disruption of moving armies, in the inevitable deaths and the counterattacks and reprisals which cannot be fully avoided," Cai Renxiang said, opening her eyes. "And yet, to not pay that cost would incur other, worse ones. The unity my mother has achieved in the Emerald Seas would not survive acting as the Hui once did."
+
+"Or even just being perceived to," Ling Qi mused. "I have heard some quiet words of discontent, just from the length of time it has taken to achieve the mobilization."
+
+These criticisms were never spoken loudly, and mostly among the younger and lower ranking cultivators, for whom a year or two still seemed like a long time.
+
+She was among that number, so she certainly understood. At the same time, she also understood that a mere two years was blistering to men and women who had lived through hundreds.
+
+"Using the main road for the march, despite all of the disruption it makes doing so, must also be addressing that cost.”
+
+"None along the route can deny that their lords are acting when tens of thousands of boots are shaking the road and a star flies south," Xia Lin agreed.
+
+Shenhua's carriage had been taking it fairly slow, Ling Qi thought wryly. She'd felt the ripple passing through them, the world, the air, the grass, the leaves, and the earth. There was a reason Ling Qi could invoke the Throne of Seasons before spirits of a realm her superior, and find them hesitant to move against her backing.
+
+"It is in many ways the backstitch to the seam she has been sewing since taking the throne," Cai Renxiang said. "It is taking my small command of the comital retinues at the summit, and escalating it far, far above my strength. Even now, Mother's shadow is long."
+
+"That one just can't let up on herself, huh?" Sixiang mused, giving the feeling of lounging in her head. The muse’s body was in a trunk on the carriage's roof. "Doesn't help that I still can't really see her most of the time."
+
+Ling Qi could understand better now why Sixiang had been so wary of Renxiang early on. Sixiang's senses were much more attuned to reading surface emotion than visual cues or qi. Even to her senses, Cai Renxiang was, by and large, a mannequin of silvered glass, most of the time. She could read her friend out of sheer familiarity and sense something of Liming's growls, but at her level of sensing, Renxiang was still very opaque.
+
+"That is not a good perspective. Your accomplishments do not need to be compared to hers," Ling Qi said bluntly. "If I understand you correctly, then the scale of your accomplishments doesn't matter compared to your convictions and vision, no?"
+
+"I do not yet have the capacity to be a general, but the foundations I build will be the monuments that support the man I shall become!" Gan Guangli boomed.
+
+Cai Renxiang considered their statements. "That thinking. Considering myself first in the light of how I comply with or defy Mother's plans. I am not free of it yet."
+
+Ling Qi caught a whiff of copper from stitches biting into flesh. Liming snarled.
+
+Xia Lin shifted, foot tapping against the floor of the carriage. She didn't say anything, but Ling Qi could sense her discomfort with the topic of the conversation. It wasn't just the low level discomfort she always showed when out of her armor either.
+
+"Benchmarks are important," Meng Dan interjected. "Looking too far ahead, though, invites paralysis. We call this the Diviner's Dilemma."
+
+"Indeed,” Cai Renxiang acknowledged. “The matter at hand is the war. I would have your thoughts on the goals of the offensive we are to participate in."
+
+"If the location of two city centers has been roughly divined, then putting one to siege, or in the face of obstinance, razing or occupation, seems a clear and coherent goal," Xia Lin answered immediately. "Assuming a good force composition and the deployment of the Duchess herself, this should be achievable."
+
+Ling Qi grimaced. "Forcing the hand of the Ya is the absolute bottom line. The Emerald Seas will not accept any deal in which it does not see itself as the victor, after the provocations. However, the ith will not respond well to the threat of annihilation. If they truly feel that consequence is unavoidable, it will empower them."
+
+"You have spoken of their strange methods, yes. Disrupting their leadership's ability to control their internal narrative would be a powerful strategic move, but Patriarch Jia is to remain behind, while General Xia Ren is to be with the offensive," Meng Dan said. "The enemy, as always, gets a say in matters."
+
+"If the Emerald Seas were theoretically to suffer a bad defeat," Cai Renxiang said slowly, "it would demand an imperial response."
+
+And that would be undoubtedly worse in every regard.
+
+"Our foes will have their lines, as Miss Ling has described. I do not think razing would have good results. The most optimal outcome is that when put to siege, they surrender and take terms, such as reparations for their attacks, severance of alliances with the tribes, and observers, perhaps," Gan Guangli thought aloud.
+
+"Their surrender and the stripping of any material which can be turned to war would be the minimum, I think," Xia Lin said. "Who would trust the word of such treacherous creatures? I admit, from my understanding, occupation and vassalage is likely beyond our resources, given their size."
+
+"That is the rub. I do not think a durable peace is in the cards, if annihilation is off the table, for reasons both strategic and spiritual," Meng Dan said. "In all likelihood, we will force some surrender from them, and then, they will take the opportunity to strike our backs when the Twelve Stars Confederation makes its move. Any deal should thus be made with that outcome in mind."
+
+"Assuming the Twelve Stars do not strike during the offensive themselves," Xia Lin commented.
+
+"Oh, yes. In that case, more total war becomes something of a necessity. There will be no more time to be playing with surrender and policing occupied lands at that point," Meng Dan said. His expression didn't change, but he sounded melancholic. "The escalation of warfare becoming truly existential applies in both directions. If one finds themselves in a two-front war, then the best solution becomes to smash one front with all available force, if such can be done."
+
+"That eventuality is beyond our control. In truth, the final outcome is also beyond us. We will, whatever my status, only be one more speartip in the thicket," Cai Renxiang said. "You have been quiet, Ling Qi. You know more of the ith than most. What is the ideal outcome in your view?"
+
+She did, but her trip down to the ith city beneath Xianmen and the guesses she had been forced to give to the ministers for her ad-hoc reading of Tcho-Ri had shown her how shallow her knowledge of the ith truly was.
+
+"I think the ideal outcome leaves room for reconciliation. Even if they have lost, they must not hate us so deeply that words become impossible," Ling Qi replied.
+
+"That is no easy task. Hate blooms easily on the battlefield," Meng Dan observed.
+
+"You did well not to voice such thoughts in Xiangmen itself," Xia Lin said dryly. "Amidst the soldiers of the central valley, especially, the anger is already a raging fire."
+
+"So, that's where you spent your free time. The new Horned Legion's mustering grounds?" Ling Qi shook her head. "I would have said it differently in front of them. I would have used words that the grieving and angry might have accepted, but Lady Cai asked me for my ideal outcome."
+
+She glanced out the window at the banners flying high, disappearing behind the trees as their carriage rounded a curve in the road.
+
+"That is why I say what I do. A soldier's grandson dies miserably from diseased air, and the man feels helpless and enraged. His fellows, whom he has drilled and fought with for fifty years, respond with sympathy, and their own anger is ignited, even if they have lost nothing themselves. Their commander is a leader of his men, and promises that the enemy will pay for this; his anger must be performed or the unit's cohesion is damaged, even if it isn't real. And as he performs it enough, it will become real. Most people are not very good at separating a mask from their face, no matter what they think."
+
+Ling Qi leaned back into her seat as she spoke.
+
+"The anger ripples out, compounds, and settles, becoming the norm. This is how the relationship with the cloud tribes formed. This is how enmity transits generations. I won't accept that this is inevitable. If it comes to be so, it will be because I failed, not because I accepted that it is simply inevitable."
+
+"A good sentiment. How do you propose it be made so? From all observed information, the Ya-lith-Kai are an ambitious, expansionist force. There may be genuine sympathy for the cloud tribes with whom they have allied. I would suspect there must be some for this 'consensus' to work among their larger population, if their reasoning for war is accepted. There is no great king to behead, though, no separate sovereign who may be replaced with another of milder disposition." Meng Dan said. "This, honestly, is my fear. An endless war, broken only by short periods of rearmament."
+
+Ling Qi responded, "I agree, but I must stress that I am only slightly more knowledgeable on this. Much of what I say is still guesswork. Perfect consensus is not something they can easily achieve, from what I understand. What we have now, a general public anger and will to war, is probably closer to what it was. Our sovereigns do not draw strength from this…”
+
+"Mostly," Sixiang murmured. "There's something to be said for the end of that play."
+
+In the Shadow of Xiangmen. Ling Qi couldn't know how much of what was depicted in it was a dramatization of the final battle, but she remembered the scene of Diao Linqin rising to aid the Duchess in the end, and the blaze of light rising from the rest of the rebel armies, focused through her. Ling Qi would probably have seats to the next act, though, at this rate.
+
+"We can still observe its effects. I do not think total destruction is necessary to break their consensus. It might even strengthen it," Ling Qi said.
+
+"Ogodei was the seed from which my mother's rebellion and the current unity of the Emerald Seas were grown," Cai Renxiang said. "I see the point you are making. Unfortunately, it is largely in the hands of the Ya, then, is it not? We cannot command them, save in their submission."
+
+"Until the fighting stops, it is so," Gan Guangli said. "Miss Ling is thinking of the pause that comes after, is she not?"
+
+"Our strength is not great enough to truly change the war, but we have already proved it enough in other ways," Cai Renxiang considered.
+
+"I have been receiving many lessons on how one goes about making a story real," Ling Qi agreed.
+
+"You walk with your head too far in the clouds." Xia Lin sighed. "But perhaps that resolve is needed, too."
+
+"I hope Lady Ling shall accept my editing services. I have some experience with narrative," Meng Dan offered.
+
+"Please," Ling Qi said with a small smile. "That said, I can hardly be the only author."
+
+Cai Renxiang met her eyes and gave a small nod. The tale they would need to write, their chapter of the long, long story of the Emerald Seas, was still at its beginning.

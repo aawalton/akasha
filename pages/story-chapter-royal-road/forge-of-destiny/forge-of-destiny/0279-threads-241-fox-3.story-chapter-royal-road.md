@@ -1,0 +1,145 @@
+---
+id: a5e5e339-8f1f-5108-bc53-a20f1ffa490a
+page-type-slug: story-chapter-royal-road
+title: "Threads 241-Fox 3"
+slug: 0279-threads-241-fox-3
+partOf: forge-of-destiny
+position: 279
+ownLength: 2255
+unit: words
+publishedAt: 2022-08-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/979472/threads-241-fox-3"
+royalRoadId: "979472"
+---
+
+Su Ling’s eyes flew open, and her ears and tail were standing on end. “We need to go.” The only hesitation was a faint grimace as she glanced toward the beatifically smiling child.
+
+Ling Qi met Su Ling’s eyes. For that single moment, it was as if she could see the thoughts turning in her friend's mind.
+
+“Like—” Ling Qi began.
+
+“—Hells,” Su Ling growled.
+
+“Eh?” The ghost’s expression twisted in confusion, flickering between a half dozen faces of cruelty and death as Su Ling’s arms wrapped around them. She was promptly tossed over Su Ling’s shoulders like an unruly sack of rice.
+
+“Bitch is fat enough already. Ling Qi, what do we do?”
+
+Sixiang shimmered and vanished. Not a mote of attention could be spared for frivolous manifestation as they both gazed out of Ling Qi’s eyes, observing the flow of the dream. Wooden walls groaned as if under the force of a gale, and the mists weeped with the grief and pain of the forsaken.
+
+<This should remind you of another escape,> Sixiang whispered.
+
+Ling Qi swallowed, and her hand knifed forward, splitting apart rotted wood like soft clay. She was not the same girl that had fled blind through the house of her mentor, the belly of a hungry, high realm spirit. “Take my hand, and don’t let go!”
+
+Su Ling grasped the hand she threw out in a crushing grip, and Linq Qi leapt through the gash in the shrine and through the veil of scintillating color and unshaped dream. The rush of motion came like the wind screaming past her ears, and the ground blurred away beneath her feet. She was both one with the chaos of shifting colors and stubbornly separate from it, anchored by will and love for a friend who would not take submergence in the formless chaos of the liminal realm half as well.
+
+But there was something wrong. A chain, a binding, terrible weight, came with them. It was grudges and pain and sadness, the terrible aching loneliness of children born and dying without the most meager scrap of love, more hollow than the belly of a street rat who’d not eaten in a week.
+
+The realm of dream made these chains as real as any steel. And the beast they were bound to felt their tug.
+
+Ling Qi stumbled as her feet touched grass.
+
+<No, no, no,> Sixiang murmured frantically in her head.
+
+Ling Qi did not need the reminder to flee as fast as her feet could carry her. She tried for her wings, but they did not answer; her dress was still.
+
+Little children couldn’t fly. Little beggars did not have fine dresses. What fairy tale did she dream?
+
+Ling Qi’s heart thundered in her chest. The trees seemed so tall now, and their shadows so deep. Her lungs burned, her breaths rasped, and tears filled her eyes because she was alone, save for the one who hunted behind. She was just a ragged beggar girl who had wandered too far, never to be missed, never to be found.
+
+Except. Except. Wasn’t there a hand in hers?
+
+At Ling Qi’s core was darkness, a want so deep that she knew, in her heart of hearts, would never be filled. It was desperation and hunger and privation, the desolation of the soul, the death of higher thought and all the things that made a person more than a thing. If a single, petty human word could be applied, it was “Isolation.”
+
+But she had wrapped herself in so many other things. Most of all, she had clung onto the grasping, yearning wind. Hers was not the open blue sky of limitless freedom, the emptiness that accepted no chains. Hers was the blizzard howl, tugging at shutters, begging to be let in.
+
+Her wind was the wind of Want. A greedy, grasping wind for a greedy, grasping girl.
+
+Desire was the desire for more, the desire for the aching to stop, and the desire to be warm by the fire for just a little while. Want was the soul reaching out, the impetus of connection, the abrogation of Isolation, and the seed of Community and Home.
+
+Ling Qi was not the little beggar girl. She held her friend's hand in hers. She did not die alone in the snow, cherishing a warmth she could never hold. Her dream asserted itself.
+
+A blizzard erupted, and a lightless fire burned at the core, rejecting the dream of desolation.
+
+And still, she ran, grasping that calloused hand in hers even tighter, because though she had thrown off those chains, she knew it was only the edge of the beast’s awareness, not its true strength. But the beast was a languid animal, slow to wake, slow to rouse.
+
+Behind her, she heard Su Ling murmuring between breaths.
+
+“... no truth but what you carve. No justice but what you hold. No meaning but what you make. Reject oneness. Reject enlightenment. Be one of many. Accept the world’s bounty.”
+
+A heavy and coarse and solid qi sparked in her meridians, and Ling Qi felt its conflict with the realm they were in. The qi she was trying to cycle struggled to even maintain form.
+
+“What happened?” Su Ling rasped as they soared, leaving the rough ground to dart among the trees of the grim fairytale forest as an old, awful, and hollow beast stirred in its heart.
+
+Ling Qi understood at that moment why those shadows frightened her when she has long been their kin. This darkness did not want to be filled. It was a hunger without end, a stomach with no bottom. It was something beyond her greed, a cruel, wasting rot in its soul. “Something dragged us back like a chain. I couldn’t jump us out of this little dream realm.”
+
+She doesn’t need to say what it is. Su Ling’s eyes narrowed. “Can you—”
+
+“She can’t. I belong here, silly sister, and now, you do too. You shoulda just been happy to get away,” said the child sadly. “You really are gonna be eaten.”
+
+“You don’t belong here. You don’t belong to her, or them, or anyone else who hurt you. None of you ever did!” Su Ling shouted over the rushing wind. “Fuck, I miss my Gran.”
+
+Ling Qi grimaced, pretending she hadn’t heard the hoarse whisper her friend’s voice had dropped into. “I don’t know if I—” she mumbled, thoughts racing. Some application of the Opened Vault technique might work? They were stealing a precious thing, no matter the vault. The concept was there, but she had only just begun to master the technique. To attempt a theft so far beyond her current understanding was—-
+
+<Not likely to work,> Sixiang finished in a whisper tinged with fear. <Maybe I can help. I could try to dig my hands in to fray the connection, but—>
+
+Time, time, precious time. Did they have time to play and experiment and try?
+
+“Set us down a second,” Su Ling said grimly.
+
+She glanced back at her friend, a frantic question in her eyes.
+
+“I may not be good for much, but I know how to Cut,” Su Ling said, the last word spat like a curse that splits a branch from a passing tree. “Sometimes, that’s all you need to solve a problem.”
+
+An echo of an echo screamed to leave the broken ghost. It would be easy and simple to leave behind the dream of a person and save them both.
+
+Her heartbeat thundered in her ears, and Ling Qi’s feet touched down on the grass.
+
+“Please hurry, Su Ling,” Ling Qi said tersely, releasing her hand to scan the darkness.
+
+“Don’t need to tell me,” Su Ling muttered, swiftly setting down the ghost girl, who looked up in confusion.
+
+Su Ling’s saber appeared in her hand, unsheathed. The crimson cloth tassel that hung from its hilt fluttered in the wind. ”Look… Xisheng, just hold still, alright? We’ll get going again in a second.”
+
+The ghost’s head tilted, blood welling up around her neck to stain dirty clothes. “Oh. I don’t like this part. But I like you better than Momma, so it’s okay!”
+
+Su Ling grit her teeth so hard that Ling Qi swore she heard something crack, but there was no time for a back-and-forth and she knew it. Su Ling moved into a stance, one even Ling Qi recognized as one for overhead strikes, having had Renxiang’s saber crash down on her head enough times.
+
+“You don’t belong here or to her,” Su Ling repeated, and her qi surged, sharp-edged and metallic. Ling Qi saw her eyes mist over, becoming pools of liquid steel. “My blade is Truth.”
+
+Air parted around the edge with a soft sigh, and Ling Qi felt an invisible chain sever with an angry shriek. Xisheng blinked, looking down at themselves in curious wonder, their features a blur of a dozen faces.
+
+Far away, eyes opened in the darkness, and it pained Ling Qi to say they were strikingly similar to Su Ling’s.
+
+A lonely wind blew through the nocturnal forest, playing a song of leaves and branches. Ling Qi could sense the writhing of the threads of the liminal, the reshaping of the reality that lay beneath the skein that was visible to the eyes.
+
+Su Ling stiffened, sensing Ling Qi’s distress and quickly followed her gaze. She went still when she saw those eyes.
+
+The trees bent away from the shadows, twisting and moaning like mourners as the forest began to melt and run like watercolor paints splashed by rain. Yet what emerged from the darkness didn’t seem monstrous. There was no padding fox and whipping tails and frothy hungry maw nor no sumptuous temptress of dark silks and painted beauty. None of the images that this creature's legend had conjured in her mind appeared.
+
+A gnarled cane tapped the ground. The shuffle and drag of elderly feet made uneven by age and injury came to her ears. Fraying sandals, a shapeless roughspun dress, and a slightly hunched back was covered by a pale gray shawl. Her face was a mass of wrinkles, and her skin was as rough as old boot leather Thin white hair clung to her head, wispy and dry, pulled back in a tight bun.
+
+She had the air of a woman who life had chewed up over and over until naught but sinew, gristle, and spite remained, a woman whose age had robbed her of fear and propriety alike.
+
+“Don’t you fucking dare,” Su Ling whispered. It was a strangled, hateful voice, shaky with rage.
+
+Gimlet eyes squinted in the melting darkness, firelight growing as a hearth was painted from nothing. Dirt and grass molded into rough wooden planks and woven straw mats, and the night sky began to bleed into rafters and straw. But on the wall forming behind the old woman, the twisting shadows of tails appeared. They weaved through and among each other, too swiftly and chaotically to count.
+
+“Damn rude way to greet your grandmother, isn’t it? Coming unannounced, and stealing the gristle from the trash. Fool girl, I always told you, if you’re hungry, just ask.”
+
+“Don’t even try it.” Su Ling pointed her saber. Ling Qi winced, knowing this wasn’t something that could be opposed by force. “Think I’m supposed to fall for this shit? Are you gonna say you were Gran all along?”
+
+“If’n I was,” considered the thing wearing the face of an old woman, “how do you figure you’d know, girl? Think a blind kit's eyes can pierce past her mother’s arts?”
+
+Please, please let the spirit’s attention be focused, Ling Qi thought. She reached out with her thoughts, seeking out any imperfection in the weave of dream they were caught in. She looked for a seam, an unstable whirl, or anything at all that she could use to slide them out of here.
+
+“You’re just pulling things out of my head,” Su Ling breathed out, rage grinding out into cold discipline. “You think I haven’t researched you? This isn’t how you operate. You smash and grab and run back to the woods. You’d never stick around in one place long enough for a big pair of boots to notice.”
+
+Tap, tap went the cane. The little house had finished forming. Strings of drying herbs hung from the ceiling, and haphazard shelving sagged with the weight of clay jars filled with roots and reagents.
+
+“Why’d you think I ‘died’? Or did you really think a woman could love the child of the woman who took her last grandson? She’d have dashed your head on the hearthstones if I’d not taken her too.”
+
+The fox smiled, and the teeth were black and rotten. “I taught you, didn’t I, how humans are? Keep ‘em scared, else they run out on the bill. You can’t let ‘em push you around, think they can dictate terms. If you can’t make yourself too big a bone to swallow, you hide and you wait. Heh, you didn’t turn out bad, ‘till that Sect filled your head with nonsense.”
+
+The face of the old woman turned dark, darkness pooling in the deep crevices of her wrinkles. The world that followed echoed in a half dozen voices, high and low, bouncing from the walls “What’s the world coming to? Can’t even raise your children as you like anymore.”
+
+“Take off her face!” Su Ling demanded, not lowering her saber. “I told you, I’m not falling for it. You’re wasting your time!”

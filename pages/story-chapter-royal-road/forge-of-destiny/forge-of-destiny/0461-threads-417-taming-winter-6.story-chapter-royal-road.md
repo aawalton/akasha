@@ -1,0 +1,149 @@
+---
+id: a059f01e-86ca-5427-9066-8874294f2aa7
+page-type-slug: story-chapter-royal-road
+title: "Threads 417-Taming Winter 6"
+slug: 0461-threads-417-taming-winter-6
+partOf: forge-of-destiny
+position: 461
+ownLength: 1670
+unit: words
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1948700/threads-417-taming-winter-6"
+royalRoadId: "1948700"
+---
+
+"Bao Qian!" the voice of flesh called, heard despite all impediments. "Release your defense, but only for a five count!"
+
+The reply took a moment. Ling Qi could feel his consternation, and she also felt the moment he realized her plan.
+
+It was dizzying, the rush of it. Heat and life and feeling flooded out, torn away by the hungry wind. Joyous silence, settling quiet, full and heavy and…
+
+The fist of gold clenched then, and not a single wisp more escaped, only the fraying cold of Not-Her.
+
+The wind cried, grinding away at the stone. The crumbling was inevitable! Such was the nature of life. But now, it wasn't.
+
+She was so hungry, wasn't she? The emptiness yawned. Her and Not-Her feeding, drinking deep of snows that could not hold what they wanted. Silence could not draw sustenance from silence.
+
+Quiet. Quiet. Wherefore do you hide?
+
+Sleep. Sleep. Under crooning stars. Dreams of warmth. Dreams of white.
+
+Ling Qi spread her arms wide, sleeves billowing like banners in the whirling wind, and answered.
+
+Warm. Warm.
+
+Why? Why? Why?
+
+Silence. Silence. Rolling on forever.
+
+Gone. Gone. The fire never comes again.
+
+Distress. A spasm within the infinite white. A concept introduced, just a little turning of what was already there. Loss. To consume something completely was to lose it. To devour without limit could only end in the throes of starvation.
+
+She signaled Bao Qian, and for a precious moment, the heat came again. It was savory, the flame, the ambition, the want. And then, again, it was gone.
+
+The snowstorm shook violently. The winds hurled themselves at walls of stone and qi, clawing, and received nothing for it.
+
+Frustration, roiling into intent. In this moment, there was a danger rising.
+
+Ling Qi had awoken the spirit from crushing, passive hunger and inflamed in its icy heart a desire to truly feed. But she had also planted other seeds. She raised her voice, and Her and Not-Her sang together.
+
+Silence. Silence. Laying over a misty hill.
+
+Rattle. Rattle. Shutters tight. Work done well.
+
+Quiet moans the wind through streets swept white with snow.
+
+Warm burns the fires, smoke rising bright.
+
+Softly. Softly. Lay it all to rest.
+
+Year passes. Year passes. Always and forever.
+
+Tithe the white. Tithe the white. Fires burning bright.
+
+Given freely, given first, to whiteout wraith of frozen night.
+
+Once more, the golden fist grudgingly creaked open, and this time, the rush of heat blew away the expanse of white. Ling Qi was left standing under the clear sky and glittering stars, the hanging crescent of the moon blazing silver in the sky.
+
+She flexed her fingers, watching frost flake off. Droplets of ice and water filled the cracks in her skin, restoring flesh in its wake as she drew her qi back in.
+
+Her shoulders slumped. She was really spent, wasn't she? Her dantian felt gutted and empty, only just enough qi left to keep the embers of flame properly suppressed. That had been closer than she liked.
+
+But it was worth it. As she had planted Want deep in the core of the spirit, she, too, had come away with something new. A song, a refinement of her melody. A Frozen Night’s Refrain. It was the song of billowing, biting white that wiped away the world.
+
+The pillar under her feet jerked and began descending down, crumbling at a steady pace that soon brought her back to the earth.
+
+Bao Qian stood, looking up at her with a raised eyebrow. "Did you do what I think you just did?"
+
+"That depends on what you thought I did." Ling Qi slumped back to her chair. Hanyi yelped and dashed to insert herself under Ling Qi's arm, helping her cross the camp. "I shall have to organize a proper winter festival for Snowblossom now though. I'm glad I still have some time to do so."
+
+“You make it look so easy, forming a fresh contract and bending a spirit into something you can properly contract with."
+
+"I could only do it because of how close we were in nature," Ling Qi admitted. "And because the spirit was still somewhat unformed." She couldn't share her exact method, of course. "That, and because you were so effective at shutting the flow on and off."
+
+Bao Qian snorted. "If there is one thing we have in common, it is a bullish refusal to let go. What sort of festival?"
+
+Ling Qi glanced at their fire, dense with qi-rich charcoal. "A bonfire festival for the mortals. Probably done on the outskirts of the settlement. Are those nuts native to the south?"
+
+"They can be, given a bit of effort from Sir Zhengui," Bao Qian replied, sitting back down across from her. "Chestnuts. They tend to like humid weather, but there are some projects for cold weather breeds."
+
+"I'll have to look into it… or convince the spirit to accept different offerings."
+
+Ling Qi rubbed her forehead. Her head was throbbing now. She reached out for the pan, picking out some of the chestnuts. They were a little charred now, but the rich burst of wood qi still lessened the ache in her dantian as she chewed on the treat.
+
+"Can we import these in bulk?"
+
+"It might be expensive for a normal new baron, but given your finances, I think you can manage. Shall I draw up the contract?"
+
+"Please do."
+
+"So, does that mean we have to cut this lady in directly?" Hanyi asked. She held a chestnut in her hand and inhaled. It withered and shrank in her grasp as the qi was ripped from the meat of the nut directly. Her junior sister didn't sound too pleased.
+
+"For now, I'm afraid so. When you mature more, we can think about renegotiating."
+
+Her junior sister huffed and kicked the frozen dirt. "... 'Kay."
+
+Ling Qi leaned back in the camp chair, looking at the high walls he had raised. "Is there a reason anyone bothers with regular construction when such arts are around? Is it just a lack of cultivators?"
+
+Bao Qian looked at the walls himself. "Earth does not take easily to change or dynamic motion. It's against its nature. If I do not take it down, given a few days, this fortification will start to crumble, and given a week, the stone and earth will revert to its natural state."
+
+"Is that so?" With a brief moment of focus, Ling Qi could feel the strain in the qi embedded in the stone and earthworks. "That might be interesting to watch."
+
+"Watching it happen is a foundational lesson in the arts of earth, at least as my tutors taught it. You can imagine how entertaining a ten-year-old might find such a lesson."
+
+"Preparing you for tribulation early,” Ling Qi joked. “How forward thinking."
+
+"You can construct with earth shaping arts, but it takes time, investment, and sustained vision. It is faster than mortal construction and capable of many features they cannot manage, but in the end, mundane methods are simply more cost-effective for most structures," Bao Qian continued.
+
+"A thing which is too expensive will never see wide use, no matter how superior it is?"
+
+"Just so. It’s not quite a law of wealth, but definitely a law of craft. But then, formations fight against being widely spread. It takes a true genius to wrestle them into a shape that near anyone can use. True change takes ages."
+
+"In the context of a mortal life, anyway," Ling Qi said. "In the perspective you spoke of, things can change quite fast."
+
+"Hah! True. Our duchess proves that."
+
+"Bao Qian, I have an answer to the question you asked on our first date. About what I need the power of ascension for."
+
+"Ah, do you now? I had suspected."
+
+"I am going to improve the way we in the Emerald Seas communicate. Within and without. There are so many squabbling factions in clans and between clans. There are a million, petty disputes and borders that snarl and tangle every project, causing battles and discord that need not happen. This is what I am going to contribute to the future Cai Renxiang sees."
+
+"There are a thousand arguments one could make that there are countless problems that cannot be simply solved with better communication. But that isn't an argument against a would-be sovereign's goals, would it? This path… I wonder if I could follow it."
+
+"Do you want to?" Ling Qi asked.
+
+Out of the corner of her eye, she noticed how quiet Hanyi was. Her junior sister was rocking back and forth on her heels, looking away. Cheeky girl.
+
+"I do not intend to reach ascension, or even try for it," Bao Qian said. "The priests would have all sorts of colorful names for me if they could see inside my head. There are opportunities I see and projects I want to undertake, but none of them require ascension. In my mind, I can see myself aiming for sovereignty."
+
+"For what purpose?"
+
+"How good would it be if anyone could hear songs as those just sung, to feel the chill and the horror or the beauty and triumph, all in the safety of their home?" Bao Qian asked rhetorically. "My recording talismans are not good enough. As they are, they cannot change the market. They’re just artisanal toys that can only be turned out by my own hand. Were I to aim for anything so high, I’d aim for grandmastership by making an advancement in recording formations, perhaps making ones that do not require precious jade. I do not know if that goal is enough to keep our paths parallel. You are intriguing, like a muse on the edge of vision, but…"
+
+"But we are very different people," Ling Qi mused. "Come with us into the mountains tomorrow to see to the last of the spirits, Bao Qian. I'm still not at my best."
+
+"An adventure then, to see where we stand?"
+
+"My friends might call it a tribulation."

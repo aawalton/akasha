@@ -1,0 +1,173 @@
+---
+id: e6e2733d-f09f-5998-bb33-f40ef7cad75d
+page-type-slug: story-chapter-royal-road
+title: "54. Becoming Trash"
+slug: 0054-54-becoming-trash
+partOf: god-of-trash
+position: 54
+ownLength: 2035
+unit: words
+publishedAt: 2025-04-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2210238/54-becoming-trash"
+royalRoadId: "2210238"
+---
+
+Activating Trash Manipulation, Rhys pulled the trash toward himself. Rather than staving it off, trying to push the trash away and reject it like any sane person would do when beset by deadly toxic garbage, he dragged it forcibly into himself. This was his last breath of life, the last spark of mana. The trash, the goo, actively extinguished his life with every passing moment, and rather than pushing it away, he pulled it in. It was the ultimate in counterintuitive. He was staking his life on being able to conquer this trash.
+
+But it was trash, and therefore, it was his. If he didn’t stake his all on trash, what was he? It was a mage’s job to discover their path, then risk everything they had to pursue that path to the end. He’d found his calling. The one thing that allowed him to overcome his trash start. He wasn’t going to give it up for anything. If he turned away now and pushed the trash away, it would all be lost. He’d lose his path, and lose everything.
+
+Trash poured into him. He pulled it deeper and deeper, directly into his core. There, he dragged it all together, pulling it into the very heart of his core. With his sluggish, curse-power-tainted mana, he compressed it down, adding pressure from all sides. Down, down, down. As the trash compressed, he added more. The ball of trash trembled, trying to break free of his hold and shoot off in a direction, any direction.
+
+Rhys refused to let it go. He clamped down on it with Trash Manipulation and held tight.
+
+Trash Manipulation 2
+
+Trash Manipulation 3
+
+Trash Manipulation 4
+
+Message after message popped up in the corner of his eye. He had no attention to pay them. All his focus was concentrated on the ball, on holding on, on compressing it tighter still. Trash continued to flow into him, impurities, toxic goo, everything. He kept pushing it together. Compressing. Tighter. Tighter.
+
+The ball grew hot. It began to glow. Rhys grinned, and he shoved a tiny bit of mana into the trash ball. It ignited, burning with a ferocity unlike everything he’d ever experienced.
+
+Like a star.
+
+The compressed star burst, propelled outward by the forces within it. The fire rushed through him like a wave. All the impurities, the trash, the toxins, everything in the pit that had soaked into him, it all burned away. In the wake of the flame, his body remained, but stronger. Far stronger than anything he’d done before.
+
+He’d survived. He’d cleared all the impurities and trash from his body, and now, his body was strong enough to survive in the toxins. He could swim out, escape, with no downsides. He’d succeeded!
+
+Rhys narrowed his eyes. Again.
+
+He pulled the trash in again. Once more, his body darkened with impurities and was riddled with toxins. Once more, his life flickered, on the verge of burning out. Once more, he pulled trash into his core. It ignited, and his body was strengthened. Immediately, he drew in more trash.
+
+No hesitation. This was his path, his purpose. This trash, every last scrap of it, belonged to him. He wasn’t going to give it, or anything in it, up to anyone. Even if he could survive, what was the point if he didn’t make the most of this once-in-a-lifetime opportunity? Even if he did escape, what was the point if Ernesto stole his trash, his demonic beast that had been thrown to the bottom of the pit in an obvious effort to throw it away, out of his hands? He refused. No. He wouldn’t let Ernesto. And if he was too weak right now, then he’d just get strong enough that he could overpower Ernesto, right here, right now.
+
+This whole time, he kept drawing in trash, compressing it, and igniting it. The intervals between the bursts of flame grew faster.
+
+On the surface, the toxic gunk grew lower, and Ernesto frowned. “What…?”
+
+“Daring to look away?” The stars in the sky shimmered and took on the shape of a giant bear of pitch black sky and starlight. It lunged at Ernesto, trying to bowl him into the pit.
+
+Ernesto dodged and gritted his teeth. “Give up already! You know this is hopeless.”
+
+“I will never give up on my school,” Aquari snapped, and lunged at him once again.
+
+Deep under the gunk, Rhys knew nothing of what happened on the surface. His life was nothing but the process of drawing in gunk and igniting it. Nothing else existed in his life. Just the trash, and the ignition. Even the process of empowering himself left his mind, and the power from the burned trash and impurities was left to freely strengthen him as it roiled through his body. Everything was the tiny dark star in his core, and the gunk that poured in to refuel it.
+
+More and more of the second-stage, more powerful impurities built up in the bottom of his core through this process. Rhys watched them, even as he focused on continuing to burn down the gunk. They were the key to the next Tier. He knew it instinctively, just looking at them. But they were what remained when everything burned down. They couldn’t be burned.
+
+Not by ordinary processes, anyways. Rhys reached out and called to them, pulling them into the next star. They had laid motionless all this time, inert and dead, but when he brought them into the star, it was as though they realized what they were meant for all this time. They came to life and burrowed into the heart of the star, and the star grew denser than ever before.
+
+Denser, and more stable. He poured trash into the star, and it held it without breaking apart. More, more, until his Trash Manipulation trembled, until his mana struggled to hold it tight. The star was still completely dark. Not a single glimmer of light nor heat appeared in its depths. The second-tier impurities made it more stable, but that was as much a problem as it was a solution. If the star wouldn’t ignite, he couldn’t begin the refresh process. Rhys gritted his teeth and kept going. He couldn’t stop now.
+
+More and more trash poured into him. If this was the him of before, the him who’d jumped into the toxic pit, he would have died, but the repeated refreshes had made him more durable and stronger, not to mention that his resist skills had leveled up, too. He could take more toxins, more punishment, before he died.
+
+His body blackened. He spat blood as his heart slowed and his blood ran backward. His limit approached, but at the same time, he saw the end of it. It was almost there. It just needed a little more!
+
+He trembled. Pain split every cell. His vision darkened, his limbs numbed. He was at his absolute limit. Any more, and he’d die for certain.
+
+The star still refused to ignite.
+
+Rhys gritted his teeth. He tensed, then, with a ferocious shout, pulled with more strength than he’d ever pulled before. The gunk sank into him, rushing into his core. His body shuddered. He felt himself dying, felt his organs shut down, one after another.
+
+And still, he refused to give up. He shouted into the gunk and pulled even stronger than before, putting his all into it, every scrap of mana, curse power, anything he had.
+
+The gunk became a vortex and poured into him. He compressed it and pulled in more. His consciousness thinned, barely holding on. Nonetheless, even as his awareness dimmed, he continued to pull more trash into his core to feed the star. The star was his everything. It was his present, his past, his future. This was the culmination of everything it meant to be a mage for him, everything he’d put into Tier 1 and everything he’d learned since he’d arrived in this world. If it wouldn’t burn, then his path was incorrect, and there was no future for him.
+
+As his consciousness flickered, on the verge of winking out, and his heartbeat slowed; with the last iota of self-awareness, Rhys saw it. A light. A single ember, glowing in the very depths of the star.
+
+He poured mana into it, feeding the ember. It surged, burning through the star, through the second-tier impurities, through everything. Power rushed out once more, but this power was fundamentally different from anything he’d experienced so far. Stronger. Purer. More transcendental. It had a shimmer of his path in it, for the very first time. Simply breathing in mana fundamentally changed it to match his path. It was to a tiny extent, to the point that Rhys wouldn’t have sensed it if he didn’t know exactly what to look for, but nonetheless—it had changed.
+
+His body transformed under the power of this new energy. Impurities rushed into his every pore, soaking into him without requiring any conscious effort on his part. Simply being submerged in trash was enough to call it to him now, without anything further. They flowed into him, and he shaped them into another star, letting it once more refine his body. Compared to the overwhelming difference between the star with the second-tier impurities, it was a fractional improvement, but it was still something. Everything counted.
+
+His core, too, transformed under the power of the second-tier impurities’ burning. The walls grew stronger, if less flexible. Where before, the second-tier impurities had bent the walls of his core, pushing it to its limits, the walls now easily held the second tier impurities that his continued burning of the impurities in the trash pit generated.
+
+Rhys couldn’t see it, but on the surface, the toxic gunk had retreated to the extent that it couldn’t be seen from the surface anymore. Almost all of the gunk had vanished. Only the dregs remained at the very bottom of the well.
+
+“What the hell,” Ernesto said, but had no time to examine it as a snake made of stars pressured him on one side, and Aquari pressured him on the other. He clicked his tongue and fought on.
+
+Rhys’ feet found solid ground. Startled, he stood up. The last of the impurities rushed into him, igniting one last star. He breathed in and breathed out. Everything felt different, now. It was as though he could sense more, feel more, perceive more.
+
+Just to confirm, he pulled up his status.
+
+Rhys Foundling | 15 | Core Formation (Tier 2)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 15
+
+Survivalist 30
+
+Pain Resist 47
+
+Scavenging 40
+
+Less is More 42
+
+Sewing 12
+
+Blow Mitigation 27
+
+Self-Regeneration 31
+
+Mana Manipulation 18
+
+Improvised Weapon Proficiency 11
+
+Heat Resist 10
+
+Acid Resist 22
+
+Impurity Resist 25
+
+Poison Resist 26
+
+Cold Resist 12
+
+Alchemy 7
+
+Herbalism 8
+
+Speed Reading 11
+
+Bluff 4
+
+Enlightenment 2
+
+Speed Picking 3
+
+Path:
+
+Trash Intent 9
+
+Trash Body 8
+
+Trash Aura 1
+
+Trash Step 2
+
+Trash Manipulation 7
+
+Trash Enchanting 2
+
+Trash Talk 5
+
+Rhys pumped his fist, barely biting back a shout of excitement. Tier 2! He was Tier 2 now!
+
+A cold snort cut through his excitement. Rhys jumped and drew his sword, holding the broken thing in front of him.
+
+Before him stood a skeletal horse. It stood twice as tall as him, its enormous skull looming high above him. It strode forward, hooves the size of dinner plates thundering against the muddy earth.
+
+A huge horned skeleton sat on its back. Its barrel chest held a black gem where its heart should have been. It raised a massive arm and slashed down, a huge black cleaver of a blade tight in its grasp. Glowing red eyes locked onto Rhys.
+
+Rhys laughed awkwardly. “I don’t suppose we can talk this out?”
+
+The demon roared. It kicked its horse, and the two charged Rhys.
+
+Rhys raised his blade. His eyes went cold. Internally, though, he squirmed in excitement. These two were trash, and therefore, his. They just didn’t know it yet.
+
+That was fine. He just had to beat that knowledge into them.
+
+Letting out a war cry of his own, he leaped toward the demon.

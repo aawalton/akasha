@@ -1,0 +1,105 @@
+---
+id: 1590642f-c677-5d76-8bd1-fa61adf1bfdb
+page-type-slug: story-chapter-royal-road
+title: "Threads 91-Dinner 2"
+slug: 0112-threads-91-dinner-2
+partOf: forge-of-destiny
+position: 112
+ownLength: 1799
+unit: words
+publishedAt: 2021-05-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/690388/threads-91-dinner-2"
+royalRoadId: "690388"
+---
+
+Ling Qi had a feeling that Bao Qian was out of his depth in some ways as well, though not as badly as her.
+
+“I shall explain from the basics,” Bao Qian began. “Please inform me if I am saying something you already know, Miss Ling.”
+
+An out. An unsaid assurance that he wasn’t trying to insult her intelligence. That was fine. She nodded and gestured for him to continue.
+
+“In the Emerald Seas, there are considered to be three primary schools of musical style. Only two, if you ask some,” he explained with a harrumph. “I do not truck with it, but certain types do not consider Grandmaster Fu’s style a school of the Emerald Seas because he achieved his greatest works in the imperial capital.”
+
+“The more traditional clans then?” Ling Qi queried.
+
+“Not just the clans. You would be amazed at the snobbery found among the small circle of those who follow musical trends,” Bao Qian said. “But regardless, I will begin with Grandmistress Lei. She was a musician of the mid Weilu period. Her original home lay in the west of the province. The name and location are no longer known, lost in the chaos. She was a lone cultivator, preferring hermitage to society. Her style was raw, and some say uncivilized, emphasizing the elements in their more primal form and often carried themes of the inevitability of natural processes and the fundamental beauty and ugliness of the world. Her preferred instruments were woodwind.”
+
+Ling Qi supposed that she could understand the comparison. Someone from so long ago… Well, Zeqing or some incarnation of her had been around for a very long time too. She wondered if this GrandMistress Lei had learned her early songs from some spirit of a remote and lonely fen. “You said she was a hermit cultivator. How does anyone even know about her then?”
+
+“Oh, she married into the Meng clan eventually,” he said. “It is hard to call tales from that period history, but it is said that Patriarch Meng Hao heard her songs while on a journey to the south and wooed her for thirty days and nights, offering gift after gift until he was left in naught but rags. It was only his final gift, a poem written from his own lifeblood and shen, that she acquiesced.”
+
+Ling Qi smiled politely. That sounded a little ridiculous, and she quashed the part of her that wanted to think it was merely a cover for a less pleasant story. The patriarch of a clan would have a great deal of power over a mere hermit musician.
+
+<Dunno if it’s all true, but Grandmother still has that poem,> Sixiang whispered.
+
+Maybe she was letting her own cynicism put blinders on her. Still, it was difficult to match the recalcitrant and xenophobic Meng she had read of with that kind of passion. “I suppose I won’t be able to find any recordings of her songs lying around.”
+
+“Not unless you intend to marry into the Meng,” he joked. “And even then, it seems unlikely. But many arts descend from the teaching of her disciples. Your song, the Forgotten Vale Melody, was it? I have heard others say that there are strong elements of her teachings in that. It was created a dozen odd generations removed, but still.”
+
+“And the others?” Ling Qi asked curiously. It was easier to talk with Bao Qian when it was something like this. Keeping the lessons of her rhetorical art in mind helped, blunting the edge of her anxiety, but it wouldn’t have mattered if the subject were less comfortable.
+
+Bao Qian drummed his fingers on the table, the flashy rings adorning them glittering in the lantern light. “There is Grandmaster Fu, who was born in Xiangmen during the second dynasty. He was able to sign on with a sect in the Celestial Peaks and grew to prominence there, being called upon to perform for the emperor more than once. He pioneered the combination of multiple, disparate regional instruments and developed some of the earliest orchestral scores. The last was the somewhat unfortunate Grandmaster Jiang.”
+
+“Unfortunate? What happened to him?” Ling Qi asked. She felt like she had an idea.
+
+“He ran afoul of Hui internal politics. A member of a branch clan, his music, which focused on passionate string and percussion performances and tended to emphasize the human element over nature or grand scores, was considered too radical. He had an unfortunate overdose of cultivation elixirs that led to his early death,” Bao Qian replied gravely.
+
+Ling Qi read his expression. “He was killed, wasn’t he?”
+
+“It seems highly likely, considering the efforts to quash his disciples in the aftermath,” Bao Qian agreed. “Alas, there is no proof, but happily, our benevolent duchess lifted the ban on his music shortly after her ascension to the provincial throne. A good thing, too, as I quite like his tenet of spreading music to as many listeners as possible.”
+
+Well, he was certainly persistent in trying to subtly sell her on the recording idea. She supposed she would be happy that he wasn’t going to be pushy about it. Over the next several minutes, she listened in attentive silence as Bao Qian went on about interactions between styles and the emerging divides between more modern musicians, filing away a few names into memory. She even caught some hints of the influences that arose from other provinces, though they were never the focus.
+
+Their meal arrived partway through Bao Qian’s lesson. It was a roast duck dish, slathered in sauce and stuffed with fragrant herbs. It seemed a terrible indulgence to her, but she had to admit that it was good, the rich flavor burned on her tongue and the wind and water qi in her channels danced, making her feel almost as if she were drifting along on a gentle river current with a clear sky overhead.
+
+It was only as they were finishing their meal that she finally decided on her answer to Bao Qian’s original question.
+
+“I think the comparison to Grandmistress Lei was not entirely wrong,” Ling Qi said, picking at a spot of leftover herb in the sauce that marked her plate. “My mentor, Zeqing, embodied inevitability. She was not kind, nor human, though she could act like it pretty well, sometimes.”
+
+“She sounds formidable,” Bao Qian said. He was studying her again.
+
+“That might be putting it too simply. She was more like a force, an aspect of nature with a woman inexpertly perched atop it,” Ling Qi said. “She was her music. She was the howl of a blizzard through cold mountain peaks, the sound of wind blowing across snow drifts, and the warmth that calls a man freezing to death to his rest.” Zeqing was, after all, a spirit.
+
+Bao Qian didn’t reply, listening intently. Even when she paused, he didn’t interrupt.
+
+“Her songs were harsh and stark,” Ling Qi mused. “But they could also be gentle in their own way like the peace of a well kept graveyard. I originally took her up on her offer of teaching because I didn’t have anyone else, but… it spoke to me. The winter is cruel, but it's just the world at its most honest.”
+
+The cold of winter would kill a person, but it didn’t deceive them and didn’t pretend to be safe. There were no pretensions to kindness or charity in the winds of winter, only the death of a year and all those without the luck or ability to stay warm, preparing the world to be born again in spring. She wanted the warmth, but in the end, she knew she belonged in the cold.
+
+That was Zeqing’s voice and song, the ice, cold and final, that would consume all things in the end, that said that nothing was forever, so she must cherish what was hers.
+
+She blinked as she realized that she had said that part aloud. That was the Carefree Mantle at work, loosening her lips as she mused on philosophy.
+
+“I cannot say I wholly agree,” Bao Qian said slowly. “But it is interesting to hear your view all the same.”
+
+Ling Qi smiled sheepishly, and for once, it wasn’t particularly forced. “My apologies. You must think I’m a little mad.”
+
+He chuckled. “Miss Ling, we are both practitioners of the third realm. If we were not a little mad, we would not have gotten this far.”
+
+She raised the cup of cider she had been served in a mock toast. “At least you’re honest about it,” she said wryly. “What madness is yours then?”
+
+“The gold madness, Bao-sickness,” he confessed. “No matter how masterful our works or how great our success, it will never be enough. This, I know, but I will chase the elation of success regardless.”
+
+Well, she could hardly chastise him for that.
+
+***
+
+The rest of dinner had gone well enough. They had parted amicably only a quarter hour later.
+
+It had been… not terrible. Once she had managed to stop flailing, it had even been educational. She still had no desire to even think of matters regarding marriage, but she could see herself working with that young man for business, maybe even becoming friends.
+
+She could always use more people to talk music with. She had been so busy that it slipped her mind, but she could probably do something about that. She couldn’t just coast along doing the bare minimum to interact with her peers anymore.
+
+“Big Sis?” Hanyi looked up as Ling Qi approached her under the moon. The young spirit leaned against Zhengui’s shell. Her little brother was asleep, rumbling like a steelworker’s forge. “What are you doing here so late?”
+
+“Just thinking,” Ling Qi said. “You don’t mind if I cultivate here tonight, do you?”
+
+Hanyi grinned. “No way! I was just thinking about what kind of song I wanna compose first, but this big doof fell asleep while I was thinking!”
+
+“He does that,” Ling Qi said, smiling. She sat down on the hard packed dirt, leaning against Zhengui’s shell. He was warm, not like Hanyi and not like her. She supposed he had to make up for the two of them. “Hanyi, do you want to try one or two of Zeqing’s songs? You shouldn’t copy your mother, but you should still learn from her.”
+
+Hanyi nodded eagerly. “Yeah! Will you sing too, Big Sis?”
+
+“Of course,” she replied, reaching over to tousle the young spirit's hair. She might not really be ready for the games of nobles or courting, but she could take care of her family.
+
+She stayed with Hanyi until morning, and that night, snow and fog gathered around the little hilltop, save for the circle of warmth at its center.

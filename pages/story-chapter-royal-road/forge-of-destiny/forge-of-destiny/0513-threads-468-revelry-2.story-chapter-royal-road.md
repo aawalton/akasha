@@ -1,0 +1,121 @@
+---
+id: 510a1773-3b42-5d63-bb47-059beefd8269
+page-type-slug: story-chapter-royal-road
+title: "Threads 468 Revelry 2"
+slug: 0513-threads-468-revelry-2
+partOf: forge-of-destiny
+position: 513
+ownLength: 1641
+unit: words
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2529589/threads-468-revelry-2"
+royalRoadId: "2529589"
+---
+
+Sixiang snorted into their cup, shoulders shaking.
+
+"What?" Ling Qi demanded.
+
+"Nothing," Sixiang said innocently.
+
+Her eyes narrowed. "This is some dirty thing you won't explain again, isn't it?"
+
+"Definitely not," Sixiang said solemnly, placing their hand over their heart. "Unless you want me to?"
+
+"No. Come on, I can smell some wine from this direction. I'm not going to drink whatever that is, but I should still get into the spirit of the festivities."
+
+"It's not bad, but the fire qi probably wouldn't play nice with your guts."
+
+Ling Qi made a face as they hopped down from the awning. "I'd rather not have to spend an hour cultivating my way through indigestion, no."
+
+"You could always let it pass the mortal way," Sixiang teased.
+
+"Absolutely not," Ling Qi snapped. Moons, she hadn't had to do that in over a year, and she never would again, if she had her way. "I'm not going to let you drink any more if it makes you so vulgar."
+
+"I'll be good!"
+
+She would believe that never.
+
+Tugging on the muse's hand, they wove their way into the crowd. Not long ago, she would have found the intense pressure and heat of the crowd anxiety-inducing, every brush against her arm a potential attack, keeping her back up and her shoulders stiff. It was no wonder she had been awful at parties, except for standing up on the stage and playing music. Part of her wanted to spin up into the air, materialize a flute from frost and shadow, and set herself to the same role even now, but she wasn't out here tonight to be the center of any kind of attention. Tonight, she was a shadow again, if not a fearful one.
+
+"We'll just ignore the little dive through the foam, eh?" Sixiang asked cheekily.
+
+"Everyone has already forgotten that, and so should you."
+
+"Down the memory hole! But I getcha. You're people watchin' today, and that's no good if the people are watchin' you. Sides, no offense, but the talent already up there is a better fit for this kind of party."
+
+Grudgingly, Ling Qi admitted, "You're not wrong."
+
+The energetic beat of drums thudded in her ears, and the heavy cry of bass-tuned strings sang in the air. It was of a family with Ling Nuan's style, if diverged. Her clan member’s music was angry and forceful, whereas this was more rolling and bombastic, yet both contained a hot energy. The bars were constructive and repetitive. It was music meant to be danced to, to be clapped with, to be shouted over, or sung by drunken voices without losing its potency.
+
+Even she could feel the urge to bob her head to the beat.
+
+It was far from the icy refinement and faux friendliness of her very first imperial parties that Cai Renxiang had hosted in the inner sect. She wasn't so childish as to pretend those didn't have their purposes, but…
+
+"I'd rather be here any day," Sixiang finished.
+
+She nodded.
+
+Restraint was crucial to keeping the world turning amidst the clashing egos of the cultivator world. Strict lines and boundaries on what was acceptable kept intractable Ways out of conflict and prevented words from spilling over into raised fists and unsheathed swords. At the same time, a release was necessary. People were not made to be controlled all the time. Most of them weren't able to, not until they were much further along their Way.
+
+That was what this music was. It was like the vent at the top of a furnace, releasing steam, heat, and power in a controlled explosion. She wondered if this was closer to the originating grandmaster's vision, or if Ling Nuan's heartfelt rage captured the spirit better.
+
+Bao Qian was right. She really did need to study her musical history. It was embarrassing not to be able to answer that question.
+
+"Neither's exactly on the dot,” Sixiang commented. “The conditions of the composition have changed, ya know?" Sixiang peered up at the burly, red-faced man bringing his sticks down in a hammering rhythm across the stretched hide of his drums. The pressure wave of each beat ruffled hair and tugged at robes and gowns in the nearby crowd.
+
+"That guy… He was angry. His music was an accusing finger jabbed at the heavens, but the anger and energy of your new sis is different. Comes from something humbler, yeah?"
+
+She cocked her head to the side, giving Sixiang a curious look.
+
+"Hey, past me's not all solid up here, but I got some impressions. Xiangmen's always been thick with muses. I can't count how many of my dreams began and ended here." Sixiang shrugged.
+
+They finally reached the edge of the thronging square where less flashy purveyors of good cheer had set up shop. She found her way to a woman hawking jars of a bubbly, deep red wine, whose scent and qi were both clear and rich with a touch of tangy sweetness. A few stones bought her both a jar and a pair of cups, helpful since Sixiang had lost their mug somewhere along the way.
+
+The taste had something of cherry to it, and the bubbles left her nose and head tingling. She cycled her qi experimentally as she felt the effects of the drink coursing through her blood, feeling the incremental slowing of her thoughts and reactions as it took hold.
+
+"C'mon, you're missing the fun!” Sixiang cajoled. “Analyzing isn’t the point of this trip. Loosening up is. The thing about keeping up a face all the time… you can't just put it down at will, you know? You humans aren't so malleable as that. You ossify, you become ever more solid, and someday, the mask won't come off anymore.
+
+"And so, the solvent comes in handy," Ling Qi mused, peering down into her cup.
+
+Their footsteps clattered as they mounted an arching wooden bridge that had been built between the branch it occupied and its neighbor, bringing them to a higher view. She tugged on Sixiang's hand, and the muse sucked in a breath, their weight decreasing. She pulled them up into the air, among other drifting cultivators who flitted around the bridge like fireflies in various states of repose. They came to sit atop the high peak of the pale green painted arch of the bridge support, looking down on it all.
+
+For the mortals in the roots, those times were already stories rather than experiences. Generations had passed since the day the Duchess had torn down the previous dukes. Her reforms and ruthless purges of the city administrations for corruption were more recent, but still, the tales of grandparents. But for the cultivators of Xiangmen, one hundred and fifty years was lived experience, or the days of one's parents.
+
+The Hui had been a vice on the spirit of the city, and the Duchess' rebellion had been the release of that pressure. It was no wonder that the festivities were so much more spirited here, even beyond the spectacle that cultivators could so much more easily bring to bear.
+
+The Want of Xiangmen was Expression. It was the roar of a million voices no longer forced to repeat the lie passed down from the heavens.
+
+It was a strange juxtaposition, that pitiless burning truth could free ten thousand voices to say what they pleased, whereas a cloud of insidious and conflicting lies could be a blanket of smothering silence.
+
+"There's something to what she did, yeah," Sixiang sipped their cup and kicked their feet, looking down at the whirling dance of lights below. "Grandmother's power got too thick here. You're not all meant to live in the liminal. If humans can't tell what's what for long enough, they just shut down and plod along, repeating whatever story the next bully up top wants them to say."
+
+"The same way we break if we're denied any shade or if we burn too long under the harshness of unbending truth," Ling Qi pondered.
+
+Humans were the meeting between form and formlessness, thought and material, the children of the Nameless Mother and Father. They could not withstand being only one thing, not without cultivation to shear away the mixture of impurities which made one human in the first place.
+
+"A state many question the value of, now and in the past, back to the oldest scrawlings cut into clay and stone."
+
+Ling Qi stiffened reflexively. Even now, it was impossible to truly be comfortable with the guttural echoes and layered whispers of that voice. It scratched at the ears and spirit alike.
+
+"Aw, c'mon, couldn't you have left off for another few hours?" Sixiang complained, tilting their head back to glower at the one joining them.
+
+Shu Yue stood in their shadows, still looking far more human than usual. The black silk of their robe hung off a body that had the correct number of joints with bones that pointed the right ways and limbs that only flexed in the proper directions. Where their eyes should be, though, there was still only pooling blackness.
+
+"Teacher." Ling Qi inclinedher head.
+
+"I suppose I have no right to deny that title at this point." The towering shadow cupped their chin thoughtfully. "However, these contemplations of yours are a useful preamble to our lesson."
+
+"I chose to delve into the roots," Ling Qi said.
+
+"You did, and to the roots, we will go. Eventually."
+
+"A dip into desire," Sixiang huffed. "I am getting you to party without any philosophizing before we leave!"
+
+Ling Qi chuckled, rising to her feet. "I promise, on my way and cultivation."
+
+She could do that much for her friend.
+
+Sixiang peered at her and nodded once, hopping to their feet as well.
+
+Shu Yue's thin smile widened. "An oath to bear seriously. But now, walk with me."

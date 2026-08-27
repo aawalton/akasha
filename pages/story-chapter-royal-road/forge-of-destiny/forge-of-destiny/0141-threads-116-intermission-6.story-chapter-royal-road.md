@@ -1,0 +1,191 @@
+---
+id: baf878aa-c909-5a2b-bf10-6f6ead513cd1
+page-type-slug: story-chapter-royal-road
+title: "Threads 116-Intermission 6"
+slug: 0141-threads-116-intermission-6
+partOf: forge-of-destiny
+position: 141
+ownLength: 2238
+unit: words
+publishedAt: 2021-08-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/730047/threads-116-intermission-6"
+royalRoadId: "730047"
+---
+
+Later that evening, Ling Qi was silent as she sat astride Zhengui’s shell, returning with him to the hill given to him by the Sect. Zhengui was quiet as well.
+
+It was only as they began to mount the steam-pitted hilltop that Ling Qi spoke up. “Are you okay Zhengui? I saw that you had a little conflict.”
+
+“Dumb Rockhead did not hurt Gui,” he huffed.
+
+“I, Zhen, could have beaten him, but since he was Sir Avalanche’s friend, I was kind,” Zhen said irritably.
+
+Ling Qi wasn’t entirely sure of that. Fensui was, like his partner, at the fifth step of the third realm. “Why did he confront you anyway?”
+
+“Gui thinks… he said something about the strongest getting the first pick of treats?” Gui said. “Gui thinks that is dumb. There was enough for everyone.”
+
+“Greedy Rockhead,” Zhen grumbled.
+
+Ling Qi sighed as she leaped down from Zhengui’s shell, having reached the top of the hill. “I’m sorry that you didn’t get a chance to meet anyone nice.”
+
+“Um, Little Singer was nice,” Gui said, pawing the ground. “But I did not talk to her much.”
+
+Ling Qi thought and then realized, “Ah, that sparrow, right?”
+
+“Yes,” Zhen agreed. “At least there, I, Zhen, was given proper respect.”
+
+There, conversation petered out. Ling Qi looked down. She hated this awkwardness, this distance that had started to grow between her and Zhengui. Yet she did not know how to check that growth.
+
+<Should I help? I don’t know if it’s really my place to try and untangle this,> Sixiang muttered.
+
+“Big Sister, is something wrong?” Zhengui asked.
+
+“I think there might be quite a few things wrong,” Ling Qi said wryly.
+
+<No, let me handle this. It’s something I need to do,> she simultaneously thought to Sixiang.
+
+<Understood. Hang in there,> Sixiang murmured, receding from her thoughts.
+
+“Gui does not understand,” her little brother said, oblivious to the interplay. He gave the impression of frowning.
+
+Ling Qi closed her eyes. Even now, she really had no idea how to articulate the problem. She would just have to speak and hope for the best.
+
+“Little Brother, you know that I love you, right?” Ling Qi asked. It was uncomfortable to say something like that so bluntly, but they were alone right now. “I want you to be strong and happy and…”
+
+She trailed off, not sure what else to say. Distance had come between them, but Ling Qi wasn’t sure of the source.
+
+Two pairs of eyes stared down at her. “Gui wants to be strong too. Big Sister should not worry…”
+
+“But I do,” Ling Qi insisted. “Is it the damage from that fungus? Do you still hurt? I do not mind taking you to the medicine hall.”
+
+“I, Zhen, would like Big Sister to stop that,” Zhen said sulkily.
+
+“Big Sister always acts like Gui is still tiny. It is not fair. Big Sister does not treat Hanyi like this. Hanyi is allowed to go off on her own, and fall off cliffs, and get in fights, and Big Sister does not treat her like this! Even when Gui helps, Big Sister just gets angry and sad!”
+
+It was Gui’s vehemence that really brought her up short.
+
+“Big Sister treats us like Grandmother treats littlest sister,” Zhen hissed. “Zhen is not little anymore, even if Big Sister is stronger.”
+
+“I know that,” Ling Qi said. “Zhengui, I know you’ve gotten strong, but you can’t expect me to not worry. It’s not like I don’t worry about Hanyi as well, but...”
+
+“Big Sister shouldn’t lie!” he insisted in a twinned voice. He stamped one of his forefeet in frustration, and the hill shook.
+
+“It’s…” Ling Qi began, only to trail off. It’s different, she wanted to say. Hanyi was a bit of a troublemaker, but the troubles she got into were minor things, and in a fight, Hanyi was always close to someone who could defend her whereas Zhengui was the defense. He was the one that took hits from the enemy. The one who got hurt. It was different, she wanted to insist.
+
+But why was it different?
+
+“If Big Sister wants to be a sister, then she should let Zhengui be a brother,” Gui rumbled. He seemed to have lost the energy to shout, as he had previously.
+
+Ling Qi flinched. Those words stung because her own treacherous mind wouldn’t let her ignore the implication. It hurt to try, a deep ache that emanated from her core. Balling her hands into fists, Ling Qi had to look away.
+
+“I never meant it that way,” she said quietly. “It.. It would just be strange for anyone to call me ‘mother,’ you know?”
+
+“Zhengui does not want to hurt Big Sister, so she is Big Sister,” Zhengui agreed, scuffing at the ground with his foot. “Even if Big Sister cannot trust him to be the brother.”
+
+“I trust you, “ Ling Qi said.
+
+“It is easy to say words,” Zhen said glumly.
+
+Ling Qi closed her eyes. It really was different, she had to admit to herself. She simply didn’t see Hanyi the same way she did Zhengui. Her first impression of that girl was a brat, messing with her on a high mountain pass. Her first impression of Zhengui was… She remembered seeing his shell split open. He had been tiny and weak and utterly dependent on her in a way that no one had ever been before or since.
+
+That had changed, and she had changed with it. She had cultivated his strength, made him practice, made him strong. But she could never really shake that initial first impression. The thought of Hanyi getting hurt filled her with cold anger; the thought of Zhengui getting hurt made her feel frighteningly empty in a way that caused the meridians aligned to the Frozen Soul Serenade to thrum with resonance.
+
+But just as he was no longer tiny and vulnerable, Ling Qi was not the same person she had been last year. “I haven’t always treated you the way you would want, but I do trust you,” Ling Qi insisted. “I could have chosen to help you fight back in the Dream.”
+
+<Tried to help,> Sixiang corrected grumpily. Ling Qi ignored them.
+
+“Big Sister was sleeping,” Zhen said dubiously.
+
+“I wasn’t,” Ling Qi replied, stepping forward. “Zhengui, I trusted you and Hanyi to protect me.”
+
+“It was not Zhengui that did most of the protecting,” Zhengui muttered.
+
+“You didn’t do it by yourself, but I was relying on you all the same,” Ling Qi insisted. “Zhengui, please understand. I am not a very good Big Sister, or… anything else. I have no idea what I’m doing. I’m just… always afraid of losing things.”
+
+“Zhen understands that Big Sister is like Miss Zeqing,” the serpent hissed.
+
+“But Gui will not leave or disappear, no matter how fast Big Sister goes,” Gui finished. “Big Sister should not always act like we will.”
+
+She knew that, but it was hard to accept. The world was unkind. It didn’t care what she wanted. Sometimes, she lost things and people regardless.
+
+But that was a lonely thought, and she was tired of loneliness.
+
+She squeezed her eyes shut for a moment before responding. “I’ll try to remember. In turn, can you be patient with me, too?”
+
+“Gui can try, if Big Sister tries too.”
+
+“I, Zhen, can agree to this.”
+
+It hurt that he seemed unsure if she would keep her word, but she couldn’t blame him too much. Her thoughts drifted back to the words that had shaken her, back at the training camp. She just wasn’t sure how to close the gap with Zhengui in a way that respected him as he wished.
+
+With Hanyi, they could compose together or cultivate their similar arts. It was the same with Sixiang. For Zhengui, there was really only cultivation and combat training. When he had been smaller, they had played hunting games to help supplement his voracious diet, but wasn’t that training also?
+
+It wasn’t just about what she wanted, was it? If something was going to change, if she was going to keep calling him ‘little brother,’ then they needed to decide on something together.
+
+“Big Sister is thinking hard,” Gui said, peering down at her. “Gui hopes that she is not planning something silly.”
+
+She frowned at him. “I was just thinking that it’s a shame that we have not done much together outside of training since your breakthrough.”
+
+Zhengui was quiet in the wake of her response.
+
+“I, Zhen, am too big to play hide and bite anymore,” the serpent said. “Training is fine.”
+
+“I bet we could still manage,” Ling Qi said wistfully. “It would take some doing though.”
+
+“Gui does not want to give up on making pretty things grow,” the tortoise put in quietly.
+
+“But if Big Sister wants to play, it should be a game she wants to play too,” they said together.
+
+Ling Qi closed her eyes, considering. “...You said before that you wanted a garden. Even if the original idea is gone, I’d like to make something of our own, I think.”
+
+Gui looked unsure. “But Big Sister doesn’t do growing things.”
+
+“Maybe not, but I do know how to compose.” Ling Qi proposed, “If I can give you ideas, maybe you can make them real?”
+
+Her little brother hesitated a moment more, and when he answered, it was as one. “Let’s try.”
+
+***
+
+It was morning, and the sparring field had been restored to a pristine state. The weather was good, and the sun shone brightly on the waving grass.
+
+“Hoh, the two of you seem to be in good spirits this morn,” said Wang Chao as he met them on the training field.
+
+Ling Qi smiled politely and offered a shallow bow of greeting. “I had a restful and productive evening,” she replied.
+
+She and Zhengui had talked for some time about his gardening project. To be frank, while Zhengui had skill at making plants grow, and Ling Qi had some basic theories on composition and color palettes from incidental contact with Sixiang, neither of them had any particular skill in artistic endeavors.
+
+But that was fine. It was something they could learn together.
+
+And if after Zhengui went to sleep, Ling Qi began some preparatory cultivation of the social art she was working through this month, then that harmed no one.
+
+<You wouldn’t be you if you actually stopped,> Sixiang . <I’ll be happy to teach you and the little big guy though.>
+
+“Gui is ready to fight Mister Avalanche.” Gui was enthusiastic, but he still sounded a little drained.
+
+“Do not think it will be so easy this time!” Zhen announced haughtily.
+
+“I would not expect it to be!” Wang Chao laughed. “I hope Miss Ling will not be offended if I do not hold back.”
+
+“Naturally not,” Ling Qi replied, straightening up.
+
+He was two stages above her. There was a fine line to tread on how to behave. If he held back too much and seemed to struggle, he would look bad, but if he crushed her immediately, then it would seem like bullying. Thankfully, Ling Qi was confident that she could avoid the latter. It was somewhat arrogant to think, but she was quite difficult to put down.
+
+Even more so with Zhengui bolstering her vitality.
+
+“Let’s not keep our audience waiting then!” Wang Chao boomed cheerfully, pausing to wave at the watching disciples. “I’ll warn you all to stay well back. I expect this to be quite destructive!”
+
+Ling Qi glanced detachedly at the other disciples. They were watching eagerly, and it did not even seem malicious for the most part. She was sure that one or two would take some glee in seeing her beaten, but most were simply anticipating a good match.
+
+“What will be the terms of our match, Sir Wang?” Ling Qi asked.
+
+“The same as the previous day, I think. You will have your structure to defend, and I will attack it,” Wang Chao proposed. “Does that appeal, Miss Ling?”
+
+“I think that sounds fair,” Ling Qi said. Practice in getting into that kind of mindset was helpful for the future, even disregarding her need to learn to coordinate with Zhengui.
+
+“Very well then! Miss Nie, please reinforce the dummy tower while I take up my starting position,” Wang Chao called out to one of the disciples on the sideline before he jogged out to the attacker’s starting position.
+
+A year ago, she would have figured a one kilometer starting distance absurd for any kind of spar. Now, she knew it would only buy her precious seconds to begin setting up her defense. Ling Qi kept half an eye on the dummy tower as Nie Ai laid hands on it, channeling qi into the piled rock to reinforce its foundations and construction.
+
+It wouldn’t be able to handle a direct hit, but at least it wouldn’t fall over from the quakes and aftershocks likely to ensue in the spar. The girl doing the work shot her an uneasy smile, and Ling Qi blinked before smiling back. She put the girl out of her mind as she hurried off, and she focused her eyes on the sky where the starting signal would come.
+
+She didn’t have to wait long. There was a bang, and a shower of sparks lit the sky.

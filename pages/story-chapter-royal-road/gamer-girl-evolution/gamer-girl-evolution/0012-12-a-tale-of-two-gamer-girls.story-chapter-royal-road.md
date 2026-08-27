@@ -1,0 +1,137 @@
+---
+id: 6a4c4dbc-1835-524d-8a0d-5bb155649416
+page-type-slug: story-chapter-royal-road
+title: "12 - A Tale of Two Gamer Girls"
+slug: 0012-12-a-tale-of-two-gamer-girls
+partOf: gamer-girl-evolution
+position: 12
+ownLength: 1969
+unit: words
+ownProgress: 1969
+publishedAt: 2025-09-28
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2634487/12-a-tale-of-two-gamer-girls"
+royalRoadId: "2634487"
+markedReadAt: "2026-06-29T20:05:58.351Z"
+---
+
+She froze.
+
+Standing in the dim light of the hallway, was Celica's younger sister Milia. Her small frame seemed even smaller in the doorway. Her shoulders were hunched, eyes red-rimmed with tears streaking down her pale cheeks.
+
+Her hand clutched something tightly. A necklace. The one Celica had given her for her twelfth birthday. For a moment, neither of them moved. The silence between them stretched, thick. Milia’s bottom lip trembled, and Celica’s heart twisted in her chest.
+
+Milia was supposed to be safe at home, just a few streets away with Ingrid. She wasn’t supposed to be standing here, looking so lost. Looking so... hurt.
+
+Without thinking, Celica reached out and pulled her into her arms. Milia collapsed against her, the weight of her sobs shaking them both. Milia's scent, the weight of her head on Celica’s chest, the way her tiny hands gripped at Celica’s shirt. It all reminded Celica of a harder time in their lives.
+
+“I’m here,” Celica whispered, smoothing Milia’s hair, trying to steady her own breath. Milia’s fingers dug into Celica’s sleeve, holding on as though letting go meant everything she feared would come true.
+
+“Celica…” Milia’s voice cracked, broken. “I’m scared. Where is everyone? Where’s Ingrid?”
+
+Celica swallowed, pressing her sister tighter to her chest. All she could do was hold her, and shelter her from whatever storm was outside. Milia was her world.
+
+Milia’s tears were still flowing, but now they felt less like panic and more like relief. Celica was back. But even still, she couldn’t keep the words from spilling out. The pain, fear, and loneliness all rushed out in a way she couldn't control.
+
+“I didn’t know where to go,” Milia said, her voice trembling. “I couldn’t find anyone. The streets were empty. Everyone just... disappeared. I thought it was some kind of... of trick, or a mistake.” She wiped her eyes, trying to calm down. But she couldn't. Not when the memory was still this fresh.
+
+Celica kept holding her, listening.
+
+“I woke up the day after it happened, and everyone was gone. It was just me. The neighbours were... gone. All my friends just vanished in front of me. Like they never existed.” Milia bit her lip, her chest tightening. “And Ingrid... Ingrid wasn’t there either. I thought maybe she was just out, you know? But she didn't return. No matter how long I waited.”
+
+Celica stayed quiet, her hand gently running up and down Milia’s back. She knew it was best for her to just listen. Milia could feel the weight of everything she was saying in the air between them, but she couldn’t stop. She needed Celica to understand.
+
+“For the first few days, I... I didn’t know what to do. I was just so scared. I kept thinking you were gonna show up. I kept coming here, knocking on the door, but...” Milia paused, biting her lip as a fresh wave of tears filled her eyes. “You weren’t here.”
+
+Celica swallowed, and Milia could feel her sister’s grip tightening.
+
+“I know you were scared. I can’t even imagine how it must have felt,” Celica said softly, her voice low and soothing.
+
+Milia sniffled, wiping her nose on her sleeve. "I thought maybe I was just being stupid. But I kept telling myself, I couldn’t give up. You taught me that... that you can’t just wait for things to get better. You have to keep going, even if it doesn’t make sense.”
+
+Celica shifted, pulling back just a little, but her hands stayed on Milia’s shoulders, keeping her steady. “I’m here now and everything's going to be okay, alright? You didn’t give up, Milia. You kept going and I'm very proud of you.”
+
+Milia nodded, trying to blink away the tears. She smiled weakly, though it was more for Celica than herself. “I kept going, but it was hard. I’ve been stopping by every day for the past week. I didn’t know where else to go. I was hoping, praying that you were going to show up.” She bit her lip again, choking back more emotion. “But I didn’t even know if you were still... if you were even alive.”
+
+Celica’s face softened. “I’m here now. I’m here, so don't worry.”
+
+Milia nodded slowly, her heart still racing in her chest. She couldn’t stop shaking, even though the worst of her fear had passed. “When I couldn’t find you... I just kept thinking of how it used to be. When Mom and Dad... when they were still here, and you promised me we’d always have each other. I thought if I didn’t find you... if I didn’t make it to you... I was gonna lose everything.”
+
+Celica hugged her tighter. “I’m sorry, Milia. I’m so sorry you had to go through this alone. But I’m here now. You’re not alone anymore.”
+
+Milia clung to her sister, the tears still falling. They were tears of relief. Celica was here. Her big sister. She wasn’t going to be left alone. Not again.
+
+Celica held Milia tightly, rocking her gently as the sobs gradually subsided. The cold weight of fear had started to lift, replaced by a fragile sense of hope as the two sisters sat together. The world outside seemed far away in the quiet of the apartment.
+
+Milia’s trembling had slowed, but Celica could feel the residual tension in her small frame. Her sister was physically and emotionally exhausted but still clung to Celica as if she were her anchor. Because she was.
+
+“It’s okay,” Celica whispered softly, her voice steady despite the whirlwind of emotions she was feeling. Milia didn’t respond immediately, but she nodded against Celica’s shoulder. For a long, long moment, they embraced each other in silence. Something they did often as close sisters.
+
+"Do you know what happened? And where... everyone went?" Milia asked, her voice frail.
+
+"We..." Celica hesitated, as if she couldn't believe what she was going to say next. "We were all transported to a game world. Everyone in the country—no, the world—was transported to a game. A game world where we had to complete a main quest and clear the floor or we all died. Sounds ridiculous, right? But it really... happened."
+
+Milia pulled back slightly, wiping her eyes with the back of her hand. “I don’t get it... this whole game world thing. I mean... I get that it’s real, but it’s also really... not real, right?”
+
+Celica hesitated, trying to put the right words together. She knew how hard it was to process and accept. Reality had splintered for both of them, and nothing felt truly real anymore.
+
+“I know,” Celica said, her voice a little tight. “It’s strange, but it’s real in its own way. I’m still trying to figure it out, too.” She let out a breath, still grappling with the gravity of it all. “The truth is, I don’t know how long we have before we get called back. I don’t know what’s going to happen next.”
+
+Milia’s brow furrowed as she processed her sister’s words. “So... we just have to wait? Until you're all summoned again?”
+
+“I guess,” Celica replied softly, not wanting to make any promises she couldn’t keep. “But we have some time to figure things out. And more importantly, we have each other.”
+
+There was a long silence between them as Milia leaned against Celica, lost in thought. After a few moments, Milia broke the silence, her voice hesitant but with a spark of something more playful. “You know, now that I think about it, being in a game world sounds kinda cool.”
+
+Celica’s lips twitched upward in an amused smile. She’d expected this sort of reaction. Milia was just like her in many ways, especially when it came to gaming and anime. An onlooker could probably tell that much by the Dark Magician Girl shirt Milia was wearing. Or perhaps from her Victini necklace.
+
+There was a reason that, in the future, Milia was the vice guild leader of Celica's top guild SADG. And that reason wasn't nepotism.
+
+“I thought you might say that.” Celica raised an eyebrow and tilted her head slightly. “So, with everything going on... you must've played some games, right? I mean, I’m curious, what’s your must-play list when the world’s about to end?”
+
+Milia froze, her gaze snapping to Celica, her face hardening. Then, without warning, she let out an exaggerated groan, swinging a light-hearted punch toward her sister’s arm.
+
+“Seriously?” Milia scoffed, her voice tinged with a mix of frustration and disbelief. “You’re talking about games right now? In the middle of all this crazy stuff, you wanna talk about games?”
+
+Celica laughed, raising her hands in mock surrender, but her smile remained. “I’m just trying to lighten the mood. You know, like always.”
+
+Milia narrowed her eyes playfully, then, as if the thought had only just occurred to her, a mischievous smile spread across her face. “Alright, you wanna know what I’ve been playing?”
+
+Celica raised an eyebrow, intrigued.
+
+“I played Pokémon Brilliant Diamond and Sword. Again. Caught a few shiny's for Pokémon Home too. I even beat The Walking Dead all over again, but honestly it felt a little too real this time.” She tapped her chin thoughtfully. “Oh, and I finished Dragon Quest XI. Twice.”
+
+"The Pokémon games, of course, I should've known. And you finally played Dragon Quest! I told you you'd love it!" Celica chuckled and rubbed a hand through her hair. “You really went full-on gamer mode while the world was falling apart, huh?”
+
+Milia shrugged nonchalantly. For a moment, the worries of the world outside seemed to fade away, leaving just the two of them, sisters who shared a moment of normalcy in the midst of chaos. It was fleeting, but it was enough to make both their hearts swell with affection.
+
+“Well, playing games when things get hard is... all I know how to do...” Milia muttered, her gaze softening. “Guess it wasn’t all bad. I just wish... everything would go back to the way it was.”
+
+“I know,” Celica murmured, her voice quiet. “One day, it will.”
+
+For a long moment, they simply stood there. Present.
+
+"What's your must-play list?" Milia blurted randomly, breaking the silence.
+
+"And you were mad at me for asking?" Celica laughed but then stopped laughing noticing Milia's death stare. "If it's just three games... it's gotta be Dragon Quest XI, Hollow Knight and Mario Kart 8 Deluxe."
+
+Milia's eyes widened in shock. "I kinda expected Dragon Quest and Hollow Knight, you never shut up about them. Still, no souls games? Are you really Celica?"
+
+"Put a sock in it. I've speedran those games to death already, why would I want to play those if the world was ending?" Celica said slowly, her mind already shifting through the memories of all her failed runs.
+
+"Fair point... Mario Kart though? That's a kids party game?" Milia's eyebrows twitched.
+
+"And?" Celica said, doubling down. Milia shrugged as if to say, suit yourself.
+
+Celica spoke again, addressing the elephant in the room. “Alright. We should go see Ingrid. I’m hoping she’s back home, and we can at least start to piece some things together with her.”
+
+Milia nodded, but her worry was palpable. “What if... she’s not back? What if... something happened?”
+
+Celica smiled reassuringly. “She's okay. I just know it.”
+
+The two of them stood up, Milia held onto Celica’s hand as they left the apartment. They walked together in silence, the world outside feeling dream-like.
+
+They arrived at Ingrid’s house, the place where Milia and Celica had spent countless hours and where the memories of their parents lingered in every corner. The house, now felt oddly foreign.
+
+Celica knocked on the door, the sound echoing far too loudly in the quiet. She held her breath.
+
+No one was home.

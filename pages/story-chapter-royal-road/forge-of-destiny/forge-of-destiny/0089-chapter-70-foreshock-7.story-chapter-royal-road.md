@@ -1,0 +1,131 @@
+---
+id: 7fee04d7-d137-5dc8-a840-50d18804ebd9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Foreshock 7"
+slug: 0089-chapter-70-foreshock-7
+partOf: forge-of-destiny
+position: 89
+ownLength: 3003
+unit: words
+publishedAt: 2021-04-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/658911/chapter-70-foreshock-7"
+royalRoadId: "658911"
+---
+
+Ling Qi jerked her head back, buying herself bare millimeters of space, and the knife sparked where it met the threads of her gown. Uncaring for the expense, she flooded her spine with vital wood qi, and her aura flared violently as it rippled out over everyone nearby. Ancient strength seeped into her skin and flesh, the strength of One Thousand Rings Unbroken.
+
+But it would not be enough to just survive this strike; she had to make sure that this assassin would not be able to strike like this again. Her hand closed around her enemy’s thin, clammy wrist. Hot pain bloomed as the knife penetrated her gown and cut into flesh, but she dragged her assailant’s hand down with all of her strength, and combined with her reactive defensive techniques, it was enough.
+
+Cold metal cut deep into her resisting flesh, but it met her collarbone, and although she felt a deep uncomfortable grinding as the serrated edge struck bone, it went no deeper. Ling Qi refused to scream and mentally batted aside Sixiang’s intent to cleanse the poison. As ice cold qi froze the blood seeping from her wound, the muse understood her unbroken will to live even in the face of insurmountable odds
+
+With her expression contorted into a snarl of pain and effort, Ling Qi tightened her grip on the assassin’s wrist, fingers digging into disgustingly rubbery flesh. Sixiang’s qi, scented with moonlight and celestial wine, burst from her every pore, washing over the assassin in a wave of confusion and momentary madness. With the roar of Xiulan’s flames in her ears, Ling Qi held her grip on the assassin and turned, dragging her enemy with the motion.
+
+She could already feel the assassin attempting to slip free, their wrist growing soft, almost boneless, in her grip, but it was too late. A high-pitched, almost canine, wail of pain came out as Xiulan cast a blinding white lance from her fingertips. Barely more than a finger wide, it was not just flame nor lightning but a lance of sunlight, devastating in its purity.
+
+Then the assassin was free of her grip, and she spun back to face it, the mantle of Winter’s Aria already around her shoulders. Ling Qi tried her best to ignore the faint edge of raggedness in her voice; she could still feel the ragged hole in her flesh where her throat had been pierced just above the collarbone, now sealed with a pack of crimson ice. She felt the fetid heat of poison in her veins bringing sweat to her brow and making her hands shake. Despite that, her attention did not waver from the one who had caused all of this.
+
+Something in the sight of the hunched figure triggered an instinctive and visceral disgust, even beyond what she felt toward a foe who had nearly taken her head. Wrapped in a spiderweb of leather straps through which its pale, rubbery hide was visible, the thing seemed to fall just short of seeming human in shape. Its apelike arms were too long, and the contours of its skull held a touch of beastliness. Its face was concealed behind a strange leather mask with protruding sacs hanging from it that grew and shrunk with each breath, all stretched over a vaguely canine muzzle. A single whip-like cable of dull grey hair hung from the back of the thing’s skull, and were it able to straighten its hunched spine, it would stand almost two and a half meters high. Certain features gave the impression that it might be female, but Ling Qi felt revulsion toward giving it even that much identity.
+
+The creature was staggering, its blanket of twisted darkness qi receded like a rippling oil slick from where Xiulan’s fires had struck it. Ling Qi could smell the scent of burned leather and meat. It had no time to throw up another defense as she sang the Hoarfrost Refrain, the cold washing over it, biting and hungry. Her singing mist blade emerged, slicing through the air at it, yet the assassin moved with preternatural quickness to avoid the full thrust of her onrushing song of winter and darting mist blade. Its flesh blackened and froze as it flipped through the air, her qi punching through the creature’s paper thin defenses.
+
+<Ling Qi, I can’t remove the poison,> Sixiang hissed, frustration and fear coloring their voice.
+
+A worry for later. Ling Qi kept her attention fixed on the assassin as it landed further down the wall, startling soldiers who were just now beginning to react to its presence. She heard Zhengui bellow in rage, but a single harsh thought stopped him from barreling back. She needed him to hold the line against the disease spirits. For the first time, she felt him balk at obeying her. She shot her little brother a startled glance through a single mirror-eye and met Zhen’s frustrated gaze.
+
+“Please, little brother. I can’t afford distraction. I need you to stop them,” she pleaded. She knew he wanted to help her more directly, but if the swarm and the titan centipede were able to press down on them while they were still fighting the assassin, it’d spell disaster. Ling Qi felt Zhengui turn his attention back to the disease spirit, a massive surge of vital qi flooding into the increasingly barren earth. A veritable spear wall of roots erupted across hundreds of meters of ground, impaling countless lesser spirits. The titanic centipede charged forward and crashed down on Zhengui, legs and mandibles skittering off of his shell.
+
+She felt Hanyi try to leave her dantian to help her against the assassin, but she directed the young spirit to aid Zhengui instead; she did not want Hanyi to be a target for the assassin.
+
+The assassin dashed toward Xiulan with its knife raised in a low guard, weaving through the crossbow bolts being shot at its back by the soldiers with contemptuous ease. In one smooth motion, the creature reached into a pouch at its belt and flung something toward them. Ling Qi glimpsed a dark purple crystal tumbling through the air before it exploded, a rippling wave of black smoke engulfing both her and her friend. She felt the smoke seeping into her channels,eating away at the qi enhancing her senses like acid.
+
+She snarled, and her left hand rose to the sound of tiny bells chiming. The jeweled symbols of the moons hanging across the back of her hand flashed and grew hot, ruby inlay blazing, and drank in the smoke. The air howled as the foulness was sucked in, vanishing into the delicate Three Moons Chime talisman as if it had never been.
+
+Somehow, even with its face wholly covered, she read startlement in the assassin’s frame as it was abruptly revealed. Xiulan’s lash struck out, and tongues of flame curled around its limbs and slammed it into the rough green wood of Zhengui’s rampart. The column of flames and distorted air around her friend hissed with the fury of an uncontrolled wildfire as lightning roared out to scourge the trapped assassin’s pale hide.
+
+With an effort of will, Ling Qi ignored the throbbing of the wound carved across her shoulder. The tips of her fingers felt numb, and an unpleasant tingling feeling was spreading through her chest, but the assassin was not down yet. Even now, she could see movement where it struggled to rise against Xiulan’s lash. Black miasma rose from its flesh, absorbing jagged trails of electricity.
+
+Again, she sang the song the Hoarfrost Refrain, even as her qi guttered low, lower than she had felt it in a long time. Was it the poison draining her qi so badly? She powered through the weaving of the qi for the technique regardless, ignoring the leadenness in her limbs.
+
+The assassin shuddered, more flesh freezing under the harsh melody. A crossbow bolt, whistling with steam, thudded into its hunched back, punching through leather and flesh. The creature’s foul qi surged as it finally slipped the bonds of Xiulan’s lash, and it lunged, dark qi bulging under its skin, filling channels to the point of bursting. Startled, Xiulan began to jerk back, but she could see that it would not be fast enough. Viridian energy rippled across Ling Qi’s gown as she activated Deepwood Vitality, gleaming shells of bright green qi shimmering across herself, Xiulan, and all the soldiers within range.
+
+It was just in time. The assassin’s flesh tore apart under the strain of the growing qi, and a wave of utter foulness washed over them. It was the essence of filth, foul beyond words, and Ling Qi gagged and held back tears from watering eyes. She felt her technique shatter under the weight of it, but it had held long enough. A vast scoop of the rampart was gone, eaten away, rotted into sludge.
+
+“Vile thing,” Xiulan spat as she dragged herself out of the pitted crater with a flick of her wrist, her flame lash having caught onto a protruding branch of the surviving rampart. Across the way, men scrambled to climb back up the broken wall, but Ling Qi was glad to see them unharmed too. “Thank you, Ling Qi.”
+
+“You’re welcome,” Ling Qi said dizzily, and a moment later, she fell to her knees. How silly. That wasn’t the sort of thing that was supposed to happen any more.
+
+“Ling Qi?!” Xiulan cried out from somewhere nearby.
+
+“Get her down into the ash,” Sixiang’s voice snapped from empty air. “I can’t cleanse the poison, but Zhengui should at least be able to heal the symptoms.”
+
+Ling Qi felt warmth. Tongues of flame licked her skin, hot enough to melt flesh and boil blood, but they were comfortably warm to her. She felt Xiulan tugging on her arm, pulling it around her shoulder. “That’s not gonna work. You’re too short,” she murmured.
+
+“Do be silent,” Xiulan snapped, and Ling Qi felt the rush of wind as she leaped down from the rampart. “Idiot girl, why did you take the beast’s knife? I know you could have dodged it.”
+
+“Wouldn’t have been able to set it up for a good enough counter,” Ling Qi slurred out. “Mighta let it take a shot at you too.”
+
+“Fool,” Xiulan repeated harshly. “Zhengui!”
+
+Ling Qi sucked in a breath of air as Zhengui roared in response. The ash around them flared green, and she felt the haze recede from her thoughts. Her qi was still down to dregs, but she no longer teetered on the edge of unconsciousness.  The frozen blood sealed her wound, kept more of her life from spilling out, but the poison still pulsed, hot and painful through her veins. The ash flashed again, still more disappearing, and she felt the wound struggle to close, pushing the damage back but only barely.
+
+She looked up and saw Zhengui bracing himself against the centipede coiled around him. Zhen struck, biting deep into its chitin again and again. On his back, Hanyi stood, singing, surrounded by the shattered chunks of lesser spirits as they tried to swarm over Zhengui and burrow into the wound in his shell. Even so, the swarm was still oncoming, and they now stood level with it as spirits crept, crawled, and flew through the distracted Zhengui’s defenses.
+
+“Sorry. It seemed like the best choice at the time,” Ling Qi said to Xiulan.
+
+“I am sure it did,” her friend said disdainfully. “You madwoman.”
+
+“Says the one who went out to let herself get struck by lightning on purpose,” Ling Qi snorted. She looked across the oncoming enemies with an unwelcome trepidation. Perhaps if she fell back into her mist, she could drain enough qi from them to overtake the loss from the poison? Zhengui would need to keep healing her though…
+
+At that moment, she heard trees splintering and the earth cracking open. From the now ruined copse to the south, a second and then a third titanic insectoid form reared.
+
+“Bullshit,” Ling Qi breathed.
+
+“Language,” Xiulan said beside her, staring up at the enemies with a blank expression. “Can you run?”
+
+“I think so,” Ling Qi said uncertainly. Xiulan’s qi was dangerously low after raining down so many powerful attacks on the assassin, and she herself had almost nothing left, the poison eating away at whatever sparks of qi tried to refill her dantian.
+
+Just as she began to consider that they might have to abandon the village, a second sun bloomed in the sky. The two titanic centipedes, already scuttling forward toward them, let out ear-piercing screams as a crescent of liquid gold crashed down on them. Rotted and splintered wood was vaporized instantly, and segments of the beast’s bodies blackened and swelled, exploding from the heat before the molten metal even touched them. When it did, they were gone.
+
+Ling Qi looked up at the descending light and saw the source. Gu Yanmei descended from the sky on wings of molten gold. In her hand was a sword that seemed like a shard of the sun, and her mere presence brought death to the swarm. Lesser spirits were vaporized, and toxic pools evaporated, both purified by the light. Below, Zhengui let out a below of triumph as Zhen dug his fangs into a section of shattered exoskeleton, and the beast coiling around him began to spasm in its death throes.
+
+“Sister?” Xiulan asked in bafflement as the fourth realm descended.
+
+“It is good that you are well, Xiulan,” Gu Yanmei said evenly. Droplets hissed as they flew with each beat of her wings, and wherever they landed, the foulness seeping into the earth began to burn away, leaving crisp and barren soil. “We will speak later. With this matter taken care of, I must be off to assist -”
+
+“Sister,” Gu Xiulan interrupted, and the older girl’s eyebrows shot up. “Sister, please, my friend... Ling Qi has been badly poisoned.”
+
+“If there is anything you can do, Senior Sister, it would be appreciated,” Ling Qi said weakly.
+
+The earth shook beneath her feet again, almost making her lose her balance. She saw the Core disciple above her hesitate. “I am no medic, but there is a reason I was deployed against this foulness.” Ling Qi’s eyes widened as Gu Yanmei leveled her sword, the blinding blade pointing directly at Ling Qi. “This will hurt,” the stoic girl said curtly, if not unkindly.
+
+Ling Qi braced herself as a beam of sunlight, raw and pure, struck her. Her shoulder and neck lit up with renewed pain, and the frozen blood shutting her wound boiled off into so much mist. Ling Qi felt something like liquid fire injected directly into her body and spirit, scouring veins, physical and spiritual, of corruption and toxin.
+
+As her consciousness faded, Gu Yanmei’s head whipped around in alarm as the earth rocked, no mere minor tremor like before but a violent quaking that threw her from her feet. Far, far to the south in the great mountains of the Wall, Ling Qi saw the sky split asunder. She saw a mountaintop disintegrate into powder and saw the storm-wracked clouds rip apart in an expanding cone leaving behind a bare blue sky. Gu Yanmei’s molten wings flared out into an aegis that stretched beyond sight, and she felt the fourth realm’s energies slam into place over the rampart and village, shielding everyone from the terrible gale that ripped through in its wake.
+
+Her back hit the dry, burnt ground, and she knew no more.
+
+***
+
+Ling Qi’s eyes snapped open, and she sat up with a gasp, her expression wild. It was dark. How long had she been-?!
+
+“Easy.” A familiar voice reached her ears, soothing and calm. “You are in a medical wagon. You are safe. The attacks are over, for now,” Liao Zhu said quietly.
+
+Though her heart still thundered in her ears, Ling Qi saw that he was right. She was seated on a soft bed, and she could feel the faint tremor of the wagon moving under her. The cramped space was packed with medical talismans and pill cupboards, the scent of medicine stung her nose, but it was a safe scent. Tension left her shoulders as she looked down at herself. She was dressed in a silver patient’s gown, and she glimpsed a thick layer of poultice packed into her wounded shoulder and neck. “Senior Brother, what happened after I…?”
+
+She trailed off as she turned to look at him. He, too, was seated on a bed in a patient’s gown. His mask remained in place, but the right sleeve of his gown was empty.
+
+He chuckled. “My apologies, Junior Sister. It looks as if this Senior was not wholly invincible after all. He is sorry for disappointing.”
+
+“Will the Medicine Hall be able to fix it?” she asked with faint horror.
+
+“Perhaps if it were merely severed,” he said, shaking his head. “But no, it is gone, devoured flesh and spirit. Even the channels are gone. I will simply have to adjust.”
+
+“I’m sorry,” Ling Qi said, ducking her head. She didn’t know what to say. “What happened?” she asked plaintively. That had been no normal attack, and Xiulan had said that a messenger told her that there were attacks all over the Sect. “That earthquake at the end and the sky…”
+
+“You were awake for that then,” Liao Zhu said, leaning back against the wall of the wagon. “I will not say that our whole theatre was a distraction, but it was a side objective. Our theatre was one of many struck across the Sect lands. The Sect will be shifting its footing after this.”
+
+“If this was just a -” Ling Qi swallowed down bitter words at the idea of everything she had seen being a mere sideshow. “What was the main objective then?” she asked, taking a steadying breath.
+
+Liao Zhu was silent, staring up at the ceiling of the medical wagon.
+
+“Elder Zhou has been slain.”

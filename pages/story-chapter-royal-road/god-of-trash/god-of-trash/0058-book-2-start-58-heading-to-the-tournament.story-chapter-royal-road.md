@@ -1,0 +1,87 @@
+---
+id: e7c8b233-8c6e-59e6-9104-b7fca8a81ce1
+page-type-slug: story-chapter-royal-road
+title: "Book 2 Start! 58. Heading to the Tournament"
+slug: 0058-book-2-start-58-heading-to-the-tournament
+partOf: god-of-trash
+position: 58
+ownLength: 2242
+unit: words
+publishedAt: 2025-04-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2235935/book-2-start-58-heading-to-the-tournament"
+royalRoadId: "2235935"
+---
+
+Rhys sat on a bench, a book in his hands and a cat purring on his lap. The cat rolled over, exposing its belly to the sun pouring in the window. Across from him, a short-haired woman rested her head on her hand, watching the scenery pass by. She glanced at Rhys, and Rhys quickly averted his eyes, pretending not to notice.
+
+The last four months had been hell. Every second had been full of beatings, battle, then more beatings. The second Ev had learned he’d climbed up a Tier, she hadn’t let him go. He was tougher, now, more durable, and able to fight harder, and as a result, Ev had pushed him even further than before. They’d sparred until Rhys was bloody and bruised, and then battled some more, and then kept battling. They’d fought with bare fists, with magic, with swords, with polearms and with every conceivable weapon, even improvised weapons pulled from Rhys’s storage ring. He’d learned a lot, but he’d also spent his entire four months bloody and bruised, beaten an inch from death.
+
+There wasn’t much trash to work with anymore. The pit was gone, and so was all the upper and lower peak trash. He’d still done his daily rounds, but at the end of it, he’d only managed to brew one low-tier impurity potion. Given that the final impurity potion from the upper peak was now nothing to him, that potion was even less to him, so he simply carried the potions with him in case he needed a hit of impurities so he could feed curse power into the curses in his core. His progress had been purely conventional, and as a result, embarrassingly slow. Thanks to Ev, his martial and magical battle prowess had advanced significantly, but his Tier remained locked at the low end of Tier 2 with no trash to feed its progress.
+
+The entire time he’d been in the school, training with Ev, he’d experienced no side effects from the curses. She’d pushed him to the limits, and he’d still had no downsides from the curses. He’d visited the library, of course, and researched everything Az would give him on curses, but all the side effects—heavy impurities, sluggish mana, blackening of the flesh, weakening in the body, deadly pain—simply hadn’t happened to him. In the end, he’d decided that it had to be his mounting the curses on impurities, rather than allowing them to infect his core as Walter had done, that meant he faced no side effects.
+
+Rhys finished the book with Speed Reading and tucked it back in his storage ring. Az batted his hand, so he pet the cat as he thought. Heading to a new Academy. A fresh start. Fresh trash… but also a fresh reputation, and in a place where he didn’t care much for the occupants.
+
+It was true that he only had the most limited experience of Purple Dawn Academy, and extrapolating an entire academy from one rogue professor was a bit of a stretch. At the same time, Purple Dawn allowed Ernesto to exist, thrive, and grow, while openly researching curse power and infiltrating smaller sects, likely with the academy’s implicit permission. The kind of atmosphere that nurtured someone like Ernesto, wasn’t the kind of atmosphere he looked for in a workplace… or school, for that matter.
+
+Hell, I could condemn the school for allowing Ernesto to exist, alone. He wasn’t quite that trashy, as tempting as it was. He’d give the school its due. But if he found it lacking… then he wouldn’t hold back. It had been a while since he’d tried any money-making, and he had a few good ideas from his world that he desperately wanted to try out in this one. Ideas related to his path, things he was sure would not only give him enlightenment, but which would also put gold in his pocket at the same time. In other words, the best kind of ideas.
+
+Running his hand through Az’s thick fur, he sighed to himself. If only he had Bast around. He was stronger now, but compared to mages, he was still pitifully weak, and despite his best efforts and Tarais’s advice, his backer, the potions teacher, Sorden, was weak, or rather, she had no influence outside Infinite Constellation School. Even if he considered Aquari his backer—a stretch of the imagination, at best—she had little influence in the face of Purple Dawn, when Ernesto, doubtless a weaker teacher with little influence in his academy, if his eccentric choice to pursue curse power was any indication, could drop by and openly cause chaos at her school.
+
+As for the cat in his lap, though Az was a mysterious beast capable of overcoming Aquari’s barriers with ease, whose Tier Rhys still couldn’t determine, the cat man had little interest in acting as anyone’s backer. His immense power was reserved solely for himself and his library pursuits, and honestly, Rhys understood and respected it. One day, when he was strong enough to count as an expert, it would be a total drag if every young mage around him expected him to act as their backer. He’d be running out day and night to save a bunch of braindead children who weren’t yet fully mentally developed if he let that happen, and that sounded like the opposite of fun to him. He’d chosen not to have kids in his first life for a reason, and it was definitely a choice, not because no women would talk to him. He had a female friend, damn it! A female friend! She even wore the costumes he made for her, and that wasn’t just because he gave her thousand-dollar costumes for free, okay? They were friends. Friends!
+
+His pathetic past aside, he didn’t think it was ridiculous to want to be powerful and left alone, and therefore respected that Az wouldn’t be doing much to help him. That the cat let him into the library when he needed to retreat was already more than he expected from the man.
+
+“How much longer until we get there?” Ev asked, restless. Her foot drummed the floor, and her fingers rapped on the edge of the window.
+
+“I dunno,” Rhys said, glancing outside.
+
+They rode inside a small flying skiff. It was just big enough inside for the two of them to sit and walk around, and the deck up top was really meant for driving, or maybe standing at the railing, but not much more. In the face of the majestic three-deck monster ship that had appeared in the skies above Infinite Constellation from the Alliance’s armada, it was nothing. Less than a worm, less than a tick. It barely qualified as a flea in comparison with that enormous ship. Still, it was the biggest vessel Infinite Constellation School had, so he couldn’t count it as trash. It was precious to Aquari and her school, so it was impossible to take under his path.
+
+Outside, the world passed by. Rolling hills wound over the earth, softly covered in a thick carpet of trees. In the distance, he saw fields and a small mortal town, sitting along a trade route, but it was mostly uninhabited out here. Their skiff floated over endless deep forest, down the foothills and across a vast valley.
+
+Rhys had no idea where they were in relation to Infinite Constellation, Purple Dawn, or anything else for that matter. His grasp on geography was limited to what little his mortal schooling had taught him and the few books he’d read in Az’s library. He struggled to translate what he’d read in texts and seen on hand-drawn maps into real world hills and valleys, and to be given a glimpse of a random piece of scenery and expected to know where he was without ever having visited the place before was simply unreasonable, in his opinion. His path wasn’t maps. If it was, he was sure things would be different, but his path was trash, so this was no more than another set of pretty hills to him.
+
+Ev harrumphed. She leaned on her hand again and returned to gazing out the window.
+
+In his lap, Az batted his hand, reminding him that he was remiss in his petting duties. Rhys chuckled and went back to petting the cat. “Yes, yes. Why’d you come, anyways?”
+
+“Me?” Ev asked, looking over.
+
+“No, I know why you’re here. I’m asking Az.”
+
+“The cat?” she asked with a frown.
+
+Rhys opened his mouth, then glanced at Az and shut it. Did Az want him to reveal that he was a cat that could transform into a man, or not? He didn’t know, and it wasn’t his place to declare such a thing, so he just shrugged. “Yeah? What of it?”
+
+She snorted. “Sorry. I didn’t realize I hit your head that hard during training.”
+
+“Yeah, yeah. Laugh it up,” Rhys muttered playfully.
+
+Az stretched, then curled up to nap. Rhys yawned and followed his example, folding his legs to meditate. He’d never really understood the point of meditation. It wasn’t like sitting still and just thinking had ever done him much good, in this life or the last one. Still, it was the closest thing he could get to taking a nap, as a mage, so he went ahead and indulged.
+
+He and Ev were the only ones on the skiff with the exception of the driver, a man who apparently served as a kind of all-purpose fixer-upper around the school, not that Rhys had ever seen him do much, and of course Az. The two of them were the only ones who’d either qualified for the tournament, in the case of Ev, or been obligated to attend the tournament, in the case of Rhys.
+
+During their spars, he’d brought up the inevitable—that he had no chance of winning against her, or anyone else at Tier 3. At that, Ev had laughed.
+
+“Don’t be an idiot. The tournament is split up into brackets. You’re separated by your Tier. You won’t fight anyone but other Tier 2s, so don’t worry about it.”
+
+He’d felt that the admonishment was unnecessary, but he appreciated the reassurance. It made sense, in any case. It was difficult to fight up a Tier. He could barely manage it in favorable cases, such as when he’d fought a disenchanted and low-spirited Tarais, but if he was fighting someone at the absolute peak of their skill, as they ought to be during a tournament? He had little to no chance.
+
+He was still trash in the end, after all. Unless he was running hot, burning impurities, he wasn’t able to fight up a Tier. And after the toxic trash pit, the impurities he could find on the peak were just… lacking. Sure, he could burn them, but he didn’t get the explosive power boost he used to. His own power had increased too much with the jump to Tier 2, so that the explosive power from the impurities was just a small percentage increase in his strength. That, and he was better at absorbing and more resistant to them than ever. Impurity Resist kept him from dying to the impurities, but it also meant he got less oomph out of them as a result, because his body resisted the good and the bad alike.
+
+In any case, he understood why he, Ev, and the driver were here on the skiff, but he had no idea why Az had chosen to join them. Az hadn’t brought up any interest in the tournament during any of Rhys’s visits to the library, even when Rhys himself brought it up, but this morning, when he was waiting for the skiff to arrive, he’d felt a small, soft body winding around his ankles and glanced down to find a familiar cat meowing to be picked up. He hadn’t had time to ask Az why he had chosen to come before Ev arrived, and on the skiff, well, he’d tried, but Ev was right there, and even if he asked Az, the cat had stubbornly remained in animal form and mute, besides.
+
+Then again, Az had apparently just sauntered into Aquari’s library and taken over at some point. Maybe he’d decided to move on and up, to Purple Dawn’s library. It was very catlike of him, to arrive at a time of his choosing and leave when he pleased, with no notice. Still, the idea that he wouldn’t be there, in Infinite Constellation’s library, sent a ping of sadness through Rhys’s chest. He’d miss the cat. Back in his first life, he’d always loved cats. He didn’t own Az, by any stretch of the imagination, but he’d enjoyed the cat’s company. The library would feel empty without him.
+
+Az arched his back, shifting to give Rhys a better angle. Rhys chuckled under his breath and kept petting, as per Az’s command. “Yeah, yeah.”
+
+Who knew, after all. Maybe Az just wanted a change of scenery for a little while.
+
+Rhys entered a meditative trance. Az purred on his lap, and the ship soared along, carrying them over the lands below. At last, the ship slowed. Rhys blinked awake, startled out of his meditation.
+
+The driver’s voice echoed down from above. “We’re arriving.”
+
+Ev stared out the window, her jaw dropped. Rhys turned, then leaned forward, his own jaw dropping.
+
+They had arrived. And what a place they’d reached.

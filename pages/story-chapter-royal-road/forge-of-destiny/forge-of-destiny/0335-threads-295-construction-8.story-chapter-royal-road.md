@@ -1,0 +1,99 @@
+---
+id: 2a4dae74-572d-5344-8290-0a6a159246b6
+page-type-slug: story-chapter-royal-road
+title: "Threads 295 Construction 8"
+slug: 0335-threads-295-construction-8
+partOf: forge-of-destiny
+position: 335
+ownLength: 1496
+unit: words
+publishedAt: 2023-04-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1160879/threads-295-construction-8"
+royalRoadId: "1160879"
+---
+
+“And that is what I was able to get from our countrymen today,” Ling Qi said, bowing at the waist as she finished her recitation and returned to her seat. Together with Cai Renxiang and Gan Guangli, she was in a large warm tent set out near to the partially built embassy.
+
+“A Zheng,” Cai Renxiang said tiredly, rubbing her fingers against her temples. “That is troublesome.”
+
+“I don’t think his intent is malicious,” Ling Qi said slowly. The whole conversation was strange. He jumped from playful flirtation to mockery to blunt seriousness and back. It felt vaguely like a duelist throwing out a flurry of feints to test defenses. It put her on edge. “I wasn’t able to accurately gauge him. My apologies, Lady Renxiang.”
+
+“He likely isn’t a foe, but he may cause problems regardless,” Cai Renxiang said sourly.
+
+Gan Guangli coughed into his hand. “I have told you of the news I have heard about Ebon Rivers, Lady Cai.”
+
+“Mm, I had expected them to install some in Xiangmen, perhaps to join our army as allied auxiliaries, not this.” Cai Renxiang sighed. “Let us not overfocus. The Meng’s desires are not something we can accomplish at the summit, past the level of making promises.”
+
+“Promises do have weight. If the border can be further secured, the cloud tribes may be convinced to go south and accept the White Sky in protection from our forces. Is that not just as good as marching ourselves?” Gan Guangli asked.
+
+“The choices of dozens or hundreds of individual khans are an uncontrollable variable, but yes, some agreement which at least addresses their concern will have to be reached,” Cai Renxiang said.
+
+“Reaching an agreement with the tribes ourselves would be good.” Ling Qi grimaced. “But probably impossible. Neither the Empire nor the cloud tribes would desire one.”
+
+Gan Guangli looked pained. “I agree that in a perfect world, that would be true. But if I must choose, I must reach to protect our own people.”
+
+“Any such agreement will be an immense undertaking,” Cai Renxiang said. “Gan Guangli, your own report?”
+
+“The Jia family is riven with argumentation on this,” Gan Guangli admitted. “Since the retirement of the Patriarch, they have sought closer ties with the Diao to gain an influence among the counts. I believe that there is still a strong vein of what you might call ‘Cai loyalists.’ They are distinct from the usual imperial-leaning folk of the province. In the Jia, they are strong enough to form a block of their own.”
+
+“My mother’s most devoted supporters.” Cai Renxiang considered. “I have met such individuals. They will support anything which grants more power to the ducal seat. They follow the footsteps of my mother’s companion most closely. However, that loyalty does not transfer to me.”
+
+“I am afraid it does not,” Gan Guangli agreed. “My tutor has said that they do not know what to think of this endeavor. On the one hand, such negotiations can be seen as a weakness. On the other, in doing this, your mother is asserting provincial authority, both against the empress and the comital clans. I believe as long as our negotiations do not make a show of ceding any authority or making unrewarded concessions, they will not be too upset.”
+
+“And the rest of the Jia, what is it they seek?” Cai Renxiang asked.
+
+“The Jia lands are not as heavily raided, not bordering the mountains directly, but it is also the center of the former Chu lands, which suffered the most under their lord's abandonment during Ogodei’s invasion.” Gan Guangli rested his chin on his hand. The firelight of the hearth that they had placed their chairs around cast his features in sharp relief. “They are difficult to separate from the Rushing Cloud Sect. The whole region is highly militarized.”
+
+Ling Qi knew Gan Guangli was speaking from experience. That region was his original home. Given that she knew that his first meeting with Cai Renxiang had been the result of the young heiress exercising authority over some matter of corruption, she knew that the region's reputation for discipline obviously had its cracks.
+
+“What the Jia will want, I think, is a chance for prominence,” Gan Guangli continued. “They will want a place of honor among whatever forces we place to patrol the new borders that are set. Even a piece of land, perhaps, for an outpost.”
+
+“That is not something I can grant without my mother’s approval,” Cai Renxiang said. “Of course, some force will have to defend the taken lands. Do you think they will be able to interact with foreigners positively?”
+
+“Perhaps,” Gan Guangli replied. “Not cloud tribe members, but the regular soldiers of White Sky I have seen fit their conception of good order.”
+
+“Perhaps we could arrange a role similar to the road wardens for them. I will look into this,” Cai Renxiang said. “Your other targets?”
+
+“The Blue Mountain Sect’s desires are simple. If there can be any exchange of historical documentation arranged, they will be pleased. As for our own Argent Peak Sect… I am not sure they can be satisfied for less than the head of the man who slew Elder Zhou.”
+
+“As expected,” Ling Qi put in.
+
+“Yes,” Cai Renxiang said. “Nothing said here will stop that war. It is out of our responsibility for the moment.”
+
+Gan Guangli nodded. “As long as the security of the border and war effort is not undermined, I don’t foresee trouble from them. As to the Luo, Miss Ling witnessed a bit. Their primary desire is that any agreement be backed by material collateral whether that be an exchange of highborne hostages, a marriage, or spiritually binding oaths. They will not give their support to an agreement which is only ink and paper. Lord Luo was willing to consider the idea of a small population under joint authority…”
+
+“The foreign quarter idea,” Ling Qi realized.
+
+“Just so,” Gan Guangli agreed. “Obviously, he will need a more concrete presentation to give a real answer.”
+
+“That is much more in line with expectations,” Cai Renxiang noted. “I doubt marriages are on the negotiation table. There are none high ranking enough who can afford to destroy their own respectability among the Empire in that way. And while they clearly have prominent families who control the apparatus of government, I have suspicions about the foreigner’s organization in that regard.”
+
+Ling Qi nodded.
+
+“But the rest are viable options.” Cai Renxiang steepled her fingers. “As to my own findings, the Diao are frustratingly vague. They desire to appear above this, and so, only a few low ranking observers have come. Luckily, some are my father’s relatives. They clearly wish to be close to me based upon that, and so long as they do not expect considerations beyond the bounds of law, I can accept that. The Diao will be satisfied as long as we do not bring down too much imperial scrutiny on the province. This summit does not otherwise affect their interest.”
+
+“Two in one. That’s something. I’d like to avoid angering the Ministry too,” Ling Qi said dryly.
+
+Gan Guangli chuckled. “Indeed.”
+
+“As to the Bao, as always, the Lord Bao looks far into the future. They will clearly angle for special rights for their traders, the expansion of travel infrastructure, and access to new goods. In the immediate term, they will most want an agreement that such infrastructure will be built.”
+
+“The devils will be in the details,” Gan Guangli said.
+
+Ling Qi said thoughtfully, “But it won’t be hard to reach the minimum of buy-in, I think.”
+
+“Yes, large land surveys will be needed for maps regardless. Working in an agreement for the construction of a road seems possible.” Cai Renxiang considered. “Our harshest opposition will likely be the general and the Ministry of Integrity.”
+
+“A single road in such rough terrain is an easily defendable choke point against a ground bound force,” Gan Guangli pointed out.
+
+“And it will have no effect on the nomads, independent or auxiliary,” Ling Qi said. “We can argue practicality all day though.”
+
+“It is only the beginning, yes.” Cai Renxiang leaned forward. “It seems that our best interests align around performing a great survey of the Wall and the establishment of a semi-permanent meeting location.”
+
+“That would satisfy the most people,” Ling Qi agreed. “But in some ways, it will be the most difficult for our people to accept. The White Sky is not without isolationist elements itself either.”
+
+“It is what must be accomplished though,” Gan Guangli said.
+
+“Without regular contact, it will only be like past attempts to make deals with the region's tribes,” Cai Renxiang said. “To call this a success and be able to hold it up for the province. There must be a sturdy foundation which can be built upon.”
+
+“It will be a lot of work, but what’s new?” Ling Qi asked rhetorically. “Let’s get down to details.”

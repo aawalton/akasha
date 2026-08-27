@@ -1,0 +1,147 @@
+---
+id: 985b8431-3a06-5661-b1e7-9c6226628156
+page-type-slug: story-chapter-royal-road
+title: "Threads 486-Rehearsal"
+slug: 0531-threads-486-rehearsal
+partOf: forge-of-destiny
+position: 531
+ownLength: 1729
+unit: words
+publishedAt: 2025-12-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2810919/threads-486-rehearsal"
+royalRoadId: "2810919"
+---
+
+"I understand that well. It would be unconscionable for the Duchess to do anything but inflict a great and terrible punishment for this insult," Ling Qi said.
+
+The Ya-lith-kai had been skirmishing with the Emerald Seas. Elder Zhou had been slain, and Elder Jiao wounded in clashes with their champions, but the Emerald Seas was, for all their advances in the Wall, still mostly mustering. A provincial muster occurred ponderously. So far as the rulers of the Emerald Seas were concerned, the war had barely just begun.
+
+The only terms that might have been acceptable to throw out at this point would be a return to the status quo. Two imperial lords might do that if the point of the conflict was merely posturing, wanting to underline the seriousness of their grievances against each other.
+
+Demanding concessions before the armies had even reached the fields though?
+
+That could only be seen as contempt. It was an assertion that the Emerald Seas was too feeble to even offer a challenge worth facing. The only possible answer that any self-respecting lord, let alone the ruler of a whole province, could give would be crushing violence.
+
+She had already known the offensive would be extensive, but Ling Qi was sure what the acceptable terms for ending it would be now. Maybe something like the Ha-lith-kai's subjugation?
+
+She didn't know that something like that could even be enforced, given the relative sizes of the ith groupings. She was going to have many questions to ask the Ha-lith-kai representative.
+
+"It may very well be an attempt to bait us into hasty action," Xia Lin analyzed. Her foot tapped on the ground irritably. "They must know…"
+
+"One should not assume what a foreigner 'must know,'" Ling Qi warned.
+
+"That has been considered," Diao Hualing replied, her voice still clipped. “While we cannot assume, it is the most obvious conclusion. The anti-Hui security measures will remain in place in the Central Valley throughout the campaign. I, myself, have been taken under the tutelage of my aunt, who was one of the original sleeper cell hunters after their fall. If they think to repeat their attacks, they will not find us unguarded."
+
+"If," Xia Lin repeated, glancing at Ling Qi. "It is bait. It is fine bait. We cannot fail to respond to it."
+
+"We cannot, so we must all attempt to discern the shape of their scheme, so that it may be burned in radiance, as the webs and nets of the Hui were," Diao Hualing said.
+
+"If it would not violate your oaths to the ministry, when the ministry discerns it, I would appreciate learning how their techniques manipulated their mortal agents in the recent attack, " Ling Qi requested. "It may help in my questioning of the Ha."
+
+Diao Hualing considered her words, drumming fingernails against the polished stone table beside her seat. "I will be able to do this, given your assistance and closeness to the matter, Baroness. Given the initial findings thus far, I will likely have to take your oath not to spread the information. If you can accept the restriction, that will be enough."
+
+That statement made her both wonder and dread what was being discovered.
+
+"That will be fine," Ling Qi said. "I only hope the Ha are able to give satisfactory answers. I don't doubt that there are some elements who could become frustrated, otherwise."
+
+The Ha-lith-kai’s position, living beneath Xiangmen under the Duchess' power, was precarious.
+
+"We should not ignore that this city is not an ally, but a subjugated foe. While I hope they would not be foolish, you should not ignore that they may very much wish for our fall," Xia Lin advised.
+
+Ling Qi grimaced. That was true, and she could not deny it. Although…
+
+"I am told the Duchess confirmed that the source of the letter was, in fact, a Ya-lith-kai emissary, and that it had not been tampered with before reaching her hands," Diao Hualing offered. "Intrigue is difficult against Her Grace."
+
+There was that.
+
+"I do not speak of anything so obvious, only that Ling Qi should not assign them overly friendly intentions in her questioning."
+
+She nodded reluctantly. Xia Lin's point was well taken. She knew well that truths could be colored or twisted by intention.
+
+"I will not approach them without that in mind. I promise, Xia Lin."
+
+"That is all I ask.”
+
+She turned her attention back to Diao Hualing. "Is there anything else amiss, Lady Diao?"
+
+Diao Hualing stood, shaking her head. "There is not, but I will be in contact where the ceremony allows. Thank you for your assistance on this matter, Baroness."
+
+Ling Qi stood and bowed herself, Xia Lin following suit before Diao Hualing took her leave.
+
+"Do you think I am naive, Xia Lin?" Ling Qi asked.
+
+A breeze kicked up, carrying the scent of the park’s flowers on it. It was strange how serene the space could feel with the thronging streets and bright lights of the market so close. The vastness of the cloud district shone like constellations woven through the branches.
+
+Xia Lin did not immediately reply. "No. I think you appear to be, but having fought beside you, and felt the shape of your domain, this is a gross misunderstanding, which will serve you well or hinder you greatly, depending on the ground you find yourself standing on."
+
+She chuckled. "I shall take that as a compliment. Underestimation is a two-edged sword in courtly combat."
+
+People, even intelligent people, could fool themselves like that. The finest deceptions were the ones people wanted to believe, after all. However, reputation was itself a weapon, and one that could be dulled badly, if she were perceived the wrong way.
+
+"You are hopeful in the same way Lady Cai is hopeful. This is not a weakness, but I do think you may sometimes fail to see some of the obstacles in our path, because your eyes are fixed too far above the earth."
+
+Xia Lin spoke absently and thoughtfully. She was clearly not just speaking of Cai Renxiang.
+
+Ling Qi didn't fully agree with Xia Lin’s assessment, but it was probably a fair one, from Xia Lin's point of view. "You will have to keep riding out ahead of us then, and ensure we know the pitfalls before they come."
+
+"I was somewhat unsure of my position beneath the lady, but it seems I will be in a scouting role for some time," Xia Lin allowed "Do you wish to return to the manor?"
+
+Ling Qi hummed. "Not yet. Wasn't there another restaurant you were going to show me?"
+
+"Oh? Very well. We should be off then. I believe the chefs will serve their final courses not long from now."
+
+Ling Qi glanced once again at the lights of Xiangmen and the green canopy extending in every direction as she followed Xia Lin from the pavilion. The lights of the palace were still growing, a star on the horizon, overtaking all the lesser lights.
+
+Soon, the time for wandering like this would be at an end, and the ceremonies for the Duchess’ nuptials would start.
+
+***​
+
+Fun, fun, fun. More walks! Try new sleeves next time?
+
+She could try the wider sleeves next time, Ling Qi thought to Qiyi as she flopped gracelessly down on the bed of her room at the guest manor.
+
+"Oh! You should try a little more silver weave in with the black, too. You'll rock that shimmery look," Sixiang advised.
+
+Feeling them withdraw from her head, coalescing into a thick rainbow mist around the puppet body propped up in the desk chair, felt odd, but not unpleasant. It was more like someone letting go of her hand than a severing.
+
+Wooden gear teeth clunked, and the puppet’s limbs twitched as the mist was sucked in along the joinings of its shell. Sixiang's face formed over the blank plate of its head a moment later, and she met their eyes.
+
+"You think so? I don't know if that would be overdone," Ling Qi mused.
+
+Sparkles! Sparkles… Falling Snow!
+
+Hm, not embroidered snowflakes, but just the glint of silver in motion mimicking snow falling against a night sky? That might work…
+
+"Well, we'll workshop that tomorrow," Ling Qi decided before turning her head toward the shadow cast by the bed's headboard. "You wished for a chat, teacher?"
+
+Sixiang twisted to look where she was looking, a bit further than a human neck should bend. Qiyi went silent, the weave of the silk briefly turning stiff and metallic.
+
+"Your identification skills grow at a good pace. You would not have detected me at that level half a year back," Shu Yue praised.
+
+Her teacher was two dimensional, looking down at her from the wall where they hanged. Then, they stepped out smoothly, flowing with the shadows cast by the light of the lantern on the ceiling.
+
+"I would hope so. I'm going to need sharp eyes where I've chosen to tread," Ling Qi said. "Do you intend to continue the lessons now?"
+
+"Not yet. This is… review. You have seen how stressful wearing another face is."
+
+"I stepped back from it."
+
+"As you should have. You are the skulking master thief, not the faceless monster of fulfilled grudges."
+
+Ling Qi pulled her eyes away from Shu Yue. "Did the child who called on you at the end live?"
+
+Shu Yue stared down at her silently, hands clasped in front of their chest. "Calling the faceless did not take his life."
+
+That was a very specific statement.
+
+Ling Qi inhaled deeply, and sat up. "You wonder what I've taken from the assignment?"
+
+"I do,” Shu Yue replied. “The ceremony comes on. I do not wish to burden you with the fullness of my lessons going into the first day. You will need your wits and charisma about you in the halls of the palace."
+
+Ling Qi nodded. Meanwhile, Sixiang shot Shu Yue a scowl as they hopped up from the chair and flopped down beside her, leaning into her shoulder. "And it couldn't have waited till morning?"
+
+"No," Shu Yue said, amused. "This is the proper time."
+
+So it was, Ling Qi supposed, glancing at the darkness outside.
+
+Best to get these thoughts spinning in the back of her head out in the open where they could be examined and lessons extracted.

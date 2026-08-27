@@ -1,0 +1,123 @@
+---
+id: 18bbde8f-c96c-5f08-abb2-0dce2e5f3702
+page-type-slug: story-chapter-royal-road
+title: "93. Small Chats with a Small Cat"
+slug: 0093-93-small-chats-with-a-small-cat
+partOf: god-of-trash
+position: 93
+ownLength: 2688
+unit: words
+publishedAt: 2025-06-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2322752/93-small-chats-with-a-small-cat"
+royalRoadId: "2322752"
+---
+
+Rhys awoke to sunlight and the chattering of birdsong. He jumped to his feet, startled. Two days in a row of sleeping? That was… that was…
+
+Absolutely luxurious! He laid back on the floor and stretched, feeling the warmth of the sunshine on his face. True, the mattress was still wet, so he couldn’t enjoy the incredible luxury of sleeping on a bed, but for his mage body, the floor might as well be equivalent.
+
+He hadn’t only slept last night, of course, but since he’d focused on absorbing as much of the trash pit as he could and refining his body with trash stars, he hadn’t had to spend the rest of it awake making potato chips. It was a waste not to sell them at the finals, but to be honest? He hadn’t expected to make it to the finals. Now that he was here, he wanted to give them as good a showing as he could manage, and that meant focusing his all on his current strength and raising it as high as he could, rather than focusing on making money. Oh, sure, he wanted to make money, don’t get him wrong, but he had enough money right now that it would be irresponsible to try to make more, vice shore up his strength with the hardest battle so far dead ahead of him.
+
+He'd also brewed up replacement filth potions and taken care to fill his body almost full of impurities, so that he could ignite them in the middle of battle without having to scramble over the field. He’d done the right thing day one, but forgotten day two, and paid the price against Florian. True, he’d been able to bear that price, but now that it was semifinals? His opponents wouldn’t give him the opening to mess around with gathering garbage. Especially not if he faced Bast in the finals… not that he expected to. At the end of the day, he was still trash, and it would be a sad tournament if trash made it all the way to the end.
+
+As for the other tiers, they were progressing well. Ev had made it to the semifinals of the Tier 3 tournament, as had Anabel, his costuming sugar mama, and Rhys didn’t know who to root on more. On one hand, he’d learned so much from Ev, but at the same time, she’d beaten the crap out of him repeatedly. On the other hand, Anabel was soft and sweet and gave him things for free… but she was the enemy, from a different school. He compromised and decided he would cheer on Ev, and Rina would cheer on Anabel.
+
+He didn’t recognize anyone in the Tier 1 battles, not that he’d expected to; that is, except for Ernesto’s students. Hono got pushed out early when she was unable, or unwilling, to use her curse powers in a sanctioned duel, Victor had apparently not made the qualifiers—which didn’t startle Rhys—and Mia put up a good fight, but dropped out before the semifinals. Only Walter remained, and from the confused looks he shot Rhys’s battles every now and again, he didn’t quite understand why he wasn’t facing Rhys in the semifinals.
+
+Guess I’d be confused too, if I was on the brink of reaching Tier 2, and yet some trash-tier talent ascended to Tier 2 before me, Rhys thought with a shrug. That wasn’t his problem. Walter had to cope with that, not him. He could just laugh at Walter from over here in the Tier 2 battles, and there was nothing Walter could do about it.
+
+He’d gotten up early enough this morning, and hopped out the window of his own volition. He scanned the ground to make sure no back-watching was required, but it seemed Florian and Cassian really had given up on their petty revenge. To be fair, he had almost ruined Cassian’s magehood altogether, so he got it, but he really hadn’t expected the impurity potion to frighten them to that extent. It was just a little bit of impurities. He could drink that much for fun. Hell, it was barely enough to be worth burning, nowadays. Were his impurity potions really that potent, that a Tier 3 mage would call him a poison master?
+
+He thought back to Infinite Constellation School, where Sorden had warned him not to use his buffing impurity potion against another student. She’d mentioned something about being a potion master… no, a poison master in a low-level school with the kind of impurity potion he’d brewed. True, this was a lesser potion, one that didn’t threaten to eat the glass of the container that held it (too much, anyways), but it was still a lot of impurities for an ordinary mage, it seemed.
+
+He glanced at the potions in his storage ring, then shook his head. He’d only use them if he had a good reason to, if his life or the life of someone dear to him was in danger. They were too dangerous to use randomly, not just because of their horrific effectiveness, but also because of the threat of random backers popping up to demand to know why their bloodline’s talent had been ruined. Cassian was a great example of this, showing up to attack Rhys after Rhys bullied his son a little. If Cassian had had someone behind him yet more powerful, and Rhys had left Cassian and Florian crippled, then how would he fare against someone at the Tier 4 or 5 level? Putting aside whether the potions would work on them, he was pretty sure he couldn’t possibly move fast enough to strike a Tier 4 or 5 with a stick, which meant he’d never be able to apply the potion in the first place.
+
+It was a sobering thought. He should treat the potions like guns. Unless he wanted his opponent dead, and he was a hundred percent sure his opponent didn’t have a buddy with a sedan with stolen plates and the willingness to swing a driveby on Rhys, then the potions should only be used as a last resort, and swiftly removed from his opponent afterward. In the semifinals, he wouldn’t use them. And in the finals, well, there was absolutely no way Bast wasn’t in the finals, and he had absolutely no interest in harming his friend, so the potions were right out.
+
+But that was fine. He wasn’t a potion master, and he had plenty else in his arsenal.
+
+After the last few days, the stadium felt familiar, almost friendly. To his surprise, he felt a soft brush at his ankles, and looked down to find Az there. The cat purred and reared, landing his paws on Rhys’s knee.
+
+Rhys picked him up. “Didn’t want to miss the finals, did you?”
+
+“No.”
+
+Rhys startled. “Wait, you can talk as a cat?”
+
+“You can talk as a human?” Az yawned. “I’ve spoken to you like this before.”
+
+Rhys opened his mouth, then closed it. That was right, Az had. How had he forgotten? Right after he’d hidden in the library from Cynog, right before… shameful memories welled up, and he pushed them down. Honestly, if he’d known then that Az was strong enough to pressure both Aquari and Purple Dawn’s Schoolmaster into looking the other way, he wouldn’t have dared asked him to ‘nyaa-pose.’
+
+Then again, it wasn’t like he’d seen a second cat-person since he’d gotten here. A man had to shoot his shots.
+
+Az suddenly smacked him. Rhys jumped. “Ow! What?”
+
+“I suddenly thought that you’re a man who should regret things more,” Az said.
+
+Rhys glanced at him. “You know about the Empire, don’t you?”
+
+Az was generally a happy cat, and typically spent his time in Rhys’s hold purring, but at that, the purr cut off. He turned, giving Rhys a look.
+
+“Of course you do. What am I talking about?” Rhys quickly corrected himself.
+
+The purring resumed. Come to think of it, Az could somehow talk and purr at the same time. Rhys looked at him, then decided not to ask about it. It was a happy miracle!
+
+“They’re bad news. I’ve already gathered all the books I can, and I’ll leave soon,” Az said.
+
+“What, they’re book burners?” Rhys asked. He wasn’t really surprised; it was usually part of the opening salvo of any repressive regime to wipe out evidence that anything better than the regime could possibly exist.
+
+“Worse. They take them and lock them up where no one can get to them. When a book is burned, at least its knowledge returns to nature. A locked book rots, with no one and nothing to see it.” Az rolled over, tempting Rhys to pet his belly, though Rhys knew better than that. “I’ve known the Empire was coming for far longer than you, boy. I’ve invaded all the libraries they’re likely to crush and taken the most important works from them. My preparations are almost complete. What about yours?”
+
+“Preparations? I don’t even have a way to flee,” Rhys said, laughing. Even if he bought some kind of flying ship or object, which would take all the money he’d made, if he could even afford any of them… the slowest, poorest of them wouldn’t move fast enough to outrin the Empire’s ships. He was committed to this, to whatever happened.
+
+“There are preparations. But you’re too lowly to be included in any of them. Your friend, though, he should be fine.”
+
+“Bast?”
+
+Az said nothing, which Rhys took as a confirmation. He breathed out. “Thank goodness. I was most worried about him. He’s too heroic for his own good.”
+
+“Heroic? To you, maybe,” Az scoffed.
+
+Rhys frowned, looking down at the cat in his arms. “What’s that supposed to mean?”
+
+Az rolled back upright. He clambered up Rhys’s arm to perch on his shoulders instead, and whispered directly into his ear, “The boy has a cruelty in him. Have you ever wondered why he has no friends at Purple Dawn?”
+
+“His status isolates him,” Rhys said. That was obvious.
+
+“And do you think he’s the only young master, sole inheritor of a powerful technique, to attend the Alliance’s premier school? There are other students here of equal, or even greater status than him. He could have befriended them, but instead, they all avoid him. Do you know why?”
+
+Rhys thought back to his first experience with Bast. Lying in the trash heap, with three boys standing over him. One of them had pushed him in. Compared to the other two children, it could only be Bast. Bast hadn’t held anything against the Rhys who had been before him, but he’d pushed him in anyways, callously, without thinking about whether it would harm this child he didn’t know. It hadn’t been Bast’s idea, no; it had been Tam’s, the fat one’s idea. But was that better or worse, that Bast had thoughtlessly executed cruelty on another’s behalf, without a single consideration as to the outcome?
+
+Az nodded. “You know his cruelty. You’ve been at the receiving end, haven’t you? He isn’t as good a friend as you think. He’s dangerous, and if you push him too far, he might end up lashing out at you.”
+
+“No,” Rhys said, without hesitation, utter conviction in his voice.
+
+Az purred, giving him a silent look.
+
+“It’s not that I’m unaware of Bast’s cruel streak. He’s agreed to run con after con, careless of the fact that we’re effectively scamming people out of their money. I’ve been using his cruel streak for myself. If it doesn’t backlash against me one day, I’ll be lucky… or rather, that’s what I’d say, if I didn’t know what I was doing.”
+
+Az flicked an ear, curious.
+
+“Have you ever heard of serial killers, Az? People who kill victim after victim, usually with little or no connection to the people they kill. There’s a common psychological profile among pair serial killers—that is, two people who work together to commit this kind of violence. One is the ‘commander,’ and the other is the ‘follower.’ One gives the orders and commands the violence, while the other is the impressionable one, who follows the other’s orders because they are compelled to follow orders. The follower gets a rush every time they make a kill, while the commander builds up the follower’s guilt, so that they doubly can’t break free; they are the criminal, and they love being the criminal. If they ever decide to stop being the criminal, the commander merely has to remind them of their criminal history to pull them back in, and the dopamine of the kill will deliver the delight to get the positive loop rolling again. These kinds of bonds are formed by violence and mutual guilt; they’re the same kind of bonds that bind criminals into gangs… well, that’s a little more complicated, but I digress.
+
+“I was his victim, once, but now I’m his commander. I come up with the plans. I deliver the value, the dopamine, the rush that he’s after, just so long as he follows my every command. At the same time, we build up a log of mild crimes, growing slowly in severity, which I know of. I would never bring it up, but I don’t need to. He knows that I know of his crimes, and he has status in this world that I could threaten. This gives me power over him, and at the same time, the joy drags him back. As long as I maintain this dominance over him, he will never be able to break free of me.”
+
+Az gave Rhys a long look. “I didn’t expect you to be so calculating.”
+
+Rhys laughed lightly, the sound a counterpoint to his serious words. “Truth be told, I’m not. It’s natural for me to come up with scams, just like it’s natural for serial killers to kill. For me, he’s a convenient and useful tool; for him, I’m the operation’s brains, the one who thinks up these brilliant plans that give him the rush he craves. And for this to evolve into something like friendship… I don’t think that’s so unusual. We have mutual interests in common, and our personalities click together. Is that not what forms a friendship anywhere? It’s as normal as two people becoming friends over a mutual interest in books or cats. The fact that I recognize our relationship for what it is doesn’t make it any less genuine.”
+
+Az snorted. “Well, when the two of you found this region’s first demonic cult, remember to let a small and innocent tuxedo cat into your library, will you? The demonic cults produce the most interesting manuals.”
+
+“Manuals, or ‘manuals?’” Rhys asked, remembering Az’s personal taste in books.
+
+“Need there be a distinction?” Az asked.
+
+Rhys called to mind a few of the techniques in some of the trashiest books he’d read back home, and chuckled. “No, I guess not.” He gazed down at the field, then shook his head. “I guess I’m just saying, I don’t think you need to worry about his cruel streak. I have it well in hand.”
+
+“You’re a strange child. At times, you talk like a man, or maybe someone who is watching this all from the outside. As if you don’t belong.”
+
+“Ah…yeah. Maybe that’s because that’s how I feel,” Rhys admitted openly. He was an adult, and he didn’t belong. Oh, he was sure the sensation would go away with time. He already considered this world superior to his old one, and he was starting to feel as though it were home. He had friends here, a pet, maybe, a house, even if it was a crag in the rock… this was more his home than his ‘homeworld’ had ever been. He hugged Az tighter, hiding his face in the soft fur. “But it’s getting better.”
+
+“Hmm.” Az flicked his tail a few times, tolerating Rhys’s hug, then hopped free. “It’s nearly time for the fights to begin. You should get down to the field.”
+
+“Right.” Rhys stood, following the cat down to the arena.

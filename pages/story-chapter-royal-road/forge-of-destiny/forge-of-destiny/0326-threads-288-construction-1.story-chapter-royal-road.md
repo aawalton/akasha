@@ -1,0 +1,115 @@
+---
+id: 23f51489-8989-5224-ad06-020b5482500c
+page-type-slug: story-chapter-royal-road
+title: "Threads 288-Construction 1"
+slug: 0326-threads-288-construction-1
+partOf: forge-of-destiny
+position: 326
+ownLength: 1955
+unit: words
+publishedAt: 2023-02-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1124812/threads-288-construction-1"
+royalRoadId: "1124812"
+---
+
+“The Bountiful Earth must smile upon us!” Gan Guangli laughed. He leaned against the side of the carriage, his bulky arm resting upon the window frame.
+
+“That is definitely the implication that I wove into the cover letter of my report on the find,” Ling Qi said. “It is very lucky.”
+
+“Improbably so, but such is the nature of spirits,” Cai Renxiang said. She tapped her fingers on the sheathed saber laid across her lap. Her expression was slightly pinched.
+
+“I have already said my piece on my haste,” Ling Qi said.
+
+“That is not the trouble. Now, before there is a large civilian presence, is the time for haste and chances taken,” Cai Renxiang dismissed. “No, it means there are even more eyes upon us, and more importantly, it will increase the pressure on us to demand a wide claim in the region during negotiations.”
+
+Ling Qi grimaced and scratched the back of her neck. She hadn’t thought about that. Of course people would believe that where there was one, there might be more veins to be found in the region. How troublesome.
+
+Gan Guangli rubbed his chin. “True. There will be more lords eager to make claims now. Thankfully, the immediate gains are all under your mother’s oversight.”
+
+“It mitigates the issue,” Cai Renxiang said grudgingly. “Regardless, it does not change our immediate goals. It has taken me some effort to make arrangements for our early visit to the summit location to meet the other stakeholders, and we must take advantage.”
+
+“We need to determine the minimum acceptable terms for our negotiations,” Ling Qi agreed. “It’s difficult that it took until now to manage.”
+
+“We knew we would not be taken entirely seriously,” Cai Renxiang reminded. “But there are representatives of all the major players here now. We will split them between us and determine their desires, and when we are finished, we will compile the information into the beginnings of a plan.”
+
+“Yes, Lady Cai,” they agreed.
+
+“I will handle matters of the Bao, the Peaks delegation, and the Diao,” Cai Renxiang continued crisply. “Gan Guangli, you will handle the matter of the Jia, the Luo, and the sects. Ling Qi, you will focus on the Wang, the Meng, and our foreign guests. If crossover occurs, you will handle the matter as needed.”
+
+Ling Qi nodded at the same time as Gan Guangli. They had their respective mission and area of focus, but these were unlikely to stay perfectly delineated. “We’ll handle it. We won’t be able to fulfill every expectation, but I am confident we can reach an acceptable conclusion here.”
+
+“Agreed. I trust in the both of you,” Cai Renxiang said, giving a sharp nod. “Now, prepare yourselves. We are nearly there and will be greeting the General first.”
+
+Ling Qi couldn’t help but grimace. General Xia Ren was definitely not the best person to be assigned to a diplomatic mission, even if her presence made the security all but unassailable.
+
+When the carriage passed around the next turn in the newly laid road, the valley came into view. When they had passed through here on their journey to the south, it had been a dark and tangled mass of closely packed trees around a shallow, winding waterway flanked by mountains on both sides. It was barely recognizable now.
+
+The trees had been carved back from the stream and thinned out in general near the road. Great warding stones, plinths carved with formations which set down dense legal contracts in both stone and spirit, dotted the landscape. On the east side where the valley bent around a protruding peak, the entire upper third of that mountain was gone. Stopping at a razor straight line, it was now an artificial plateau. Construction could be seen going on atop it.
+
+But there were not only signs of imperial presence. In the far south, Ling Qi saw a towering gray barked tree, which had, even at this distance, the faint contours of a woman with her hands over her face in its trunk. It might have been tiny in comparison to Xiangmen, but Ling Qi thought it must still be over a hundred meters tall. Its pale green-gray leaves rustled and teemed with what must have been thousands of birds from bright little songbirds to bulky black crows and fierce eagles. Their crying was a cacophony over the much trimmed forest.
+
+Passing under the reduced canopy, their carriage silently flew along the well paved road that followed the river, and swiftly, they came to where the ruins of the Hui bunker had been.
+
+Work crews teemed here. The filth and muck had been cleaned from the structure, and the half-drowned island it had been built into was now the site of rising pillars of stone and polished wood, the beginnings of a fine noble manse. The foundations for bridges had been laid across the river, and even now, sweating laborers dragged blocks of stone and other materials to complete them. On either side of the river, buildings were going up as well, homes for emissaries of the clans and officials that would come.
+
+“It is amazing to see this all built so fast. I wish we could manage that.” Ling Qi eyed the pillar of gleaming white steel that awaited them at the end of the road. Even so distant, she could feel the sword intent pass over her, the whisper of a silk wrapped blade across her skin.
+
+“This expansion comes with the full backing of my house and all the wealth of Xiangmen and its people. The expense of this undertaking is immense.”
+
+“And that is why I am still confident. There may be doubts, but this summit is receiving a great investment.” Gan Guangli crossed his arms. “This is so even if, to many, it is being sold as a logistics center for a true wave of expansion into the Wall.”
+
+The carriage came to a stop in front of the general, who waited for them by one of the completed bridges that crossed the river's span. She felt Sixiang, who had been quietly observing, withdraw further into her head as she followed Cai Renxiang out.
+
+“Welcome, young Lady Cai,” Xia Ren said crisply. Her voice echoed metallically from inside of her helm, which was unbroken by any seam or gap. “Construction of this base is continuing at an acceptable rate. There have not yet been any signs of sabotage or foreign action from above or below ground, outside the region designated for your targets.”
+
+Cai Renxiang stood straight with her arms folded behind her back. Ling Qi peered over her shoulder at the general. Did this woman have any inclination of the task they had been set? Her instincts told her no. Maybe it was naive of her, but Xia Ren felt different than many of the Duchess’ other direct servants.
+
+“That is good. The large construct in the south is theirs then?” Cai Renxiang asked.
+
+“Yes. Going by your reports, it appears to be a cultivator of some power in their method. I have detected two others of similar might prowling. They appear in more mortal scales however.” The general nodded toward the massive tree, visible in gaps through the canopy. “That arrived after I prepared the ground for the observatory. I believe it is meant as a show of force, that these barbarians are not easily cowed.”
+
+Ling Qi glanced up to the sundered mountain. Their guests did not want to appear weak in comparison.
+
+“Regardless, the location is secure. The clans are arriving and putting into order their own positions and guards. If you require my attention, speak to my adjutant in the field office I have established in the ruins.”
+
+“General, thank you for your efforts. Can I trust that you will leave matters of contact in our hands?”
+
+The eyeless helm turned towards Cai Renxiang, and Ling Qi had to hold herself very still to avoid flinching as it passed over her.
+
+“Your mother was very clear. This matter is yours to succeed or fail at. My sword will not be drawn first. It will, however, be sheathed last. The Emerald Seas will not suffer a single loss while I am here.”
+
+“Then I will work hard to ensure you are not inconvenienced by needing to act,” Cai Renxiang said calmly.
+
+The response was a short, sharp nod, and the general turned away. Her silhouette thinned to an impossible edge, and then, she was gone. There was a faint crack of thunder as the sundered air where she had stood crashed back together.
+
+Cai Renxiang took a deep breath. “To your duties then. Ling Qi, Gan Guangli, we will meet back here in the diplomatic apartments this evening.”
+
+Ling Qi nodded, turning away with Gan Guangli. Gan Guangli bent his knees, and her slippered foot slipped into shadow. He leapt in a plume of dust, and she vanished into the wind.
+
+Only Cai Renxiang remained behind, outlined in a faint halo of light, watching the great tree to the south.
+
+There was work to do.
+
+***
+
+She found Wang Lian at the center of a work site. One of three copies of the woman was directing the laborers and architects in the construction of a manor site. The copy of Wang Lian she directed her attention toward stood with her hands on her hips, shouting orders as a team of workers raised a warding stone, sweating and straining with ropes and pulleys to raise the multi-ton tablet of qi-charged stone.
+
+Ling Qi fluttered to the ground like a leaf beside the thickly built woman, her gown billowing in her own personal wind as she settled on the churned up earth. She waited politely, smoothing the silk as the warding stone thudded into place, rocked, and settled.
+
+“Baroness,” Wang Lian greeted curtly as she waved the laborers off to take a moment's rest.
+
+“Lady Wang,” Ling Qi returned. “It is my pleasure to greet you in person again.”
+
+“I might be a bit annoyed with the spectacle you roped Chao into, but between your actions in the north and how energetic he is about it, I can’t find much temper in me.” The older woman wasn’t wearing a gown today, but a thick workman’s smock over a shirt and trousers and large, heavy boots streaked with earth and mud.
+
+“I wasn’t aware you moved in such circles as to be bothered by my play.”
+
+“I don’t, but it has kicked up some annoying arguments again,” Wang Lian grumped.
+
+“Do you have an opinion on the matter, Lady Wang?”
+
+“I don’t think men should trust in spirits and beasts so deeply. It worked in the old days because we were weak and had no other choices. The world was made for us. You see it in the way spirits change just by being around us. Shaping the world is our birthright as the children of the Nameless. Tsu understood that. Unity of men and the strength of our backs and arms is what ended the rule of beasts and freed us from that terror. That much, I agree with you on. We need to come together more as the people of the Emerald Seas.”
+
+Ling Qi nodded her head. That was a fairly common line of thought among the more moderate imperials. “Many spirits are dangerous, alien, but as you said, they change by being near us and bonding with us. I will make no apologies for treating my spirits as kin.”
+
+“It’s good that you’re not spineless about it, dancing around me with words. Come. Let’s get a cup of wine. I don’t disapprove of your method; I just don’t think it works at scale.”

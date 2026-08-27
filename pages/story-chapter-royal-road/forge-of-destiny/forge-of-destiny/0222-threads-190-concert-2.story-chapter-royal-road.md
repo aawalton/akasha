@@ -1,0 +1,145 @@
+---
+id: fa8bcfbc-1c49-52c4-b2c0-b62f0449a5cf
+page-type-slug: story-chapter-royal-road
+title: "Threads 190 Concert 2"
+slug: 0222-threads-190-concert-2
+partOf: forge-of-destiny
+position: 222
+ownLength: 2242
+unit: words
+publishedAt: 2022-02-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/854106/threads-190-concert-2"
+royalRoadId: "854106"
+---
+
+The old manor lay deeper in the forested hills, whatever ground which may have once surrounded it long reclaimed by nature. Her first glimpse of the building itself had come through one of the winking wisps which she had sent out to survey as they entered the woods.Through it, she had spotted a crumbling stone wall at the top of the ridge.
+
+They had left the wagon behind and followed the patchy gravel path up toward the manor. Given its age and abandonment, the manor was in surprisingly good condition. The garden wall stood mostly intact, and inside, although the grounds had been overgrown by leaves and vines, the building itself formed an arch shape with two wings built out from the central structure. One of those wings had wholly collapsed under the weight of a massive fallen tree, but the rest was still recognizable.
+
+Burnt, sagging, and rotted, but recognizable.
+
+Ling Qi grimaced as she peered down into the scum covered pool that had once been the garden pond. Zhengui, still shrunken, stood at her side, peering around in curiosity. She took his lack of agitation as a good sign. There probably wasn’t anything truly nasty here.
+
+“Ugh, what a dump,” Hanyi said, kicking a stone into the goopy pond.
+
+“But it’s a dump that might have some treasure,” Sixiang said cheerfully.
+
+“I guess so,” Hanyi said dubiously.
+
+“We do have the right of salvage, but I wouldn’t expect too much.” Bao Qian bustled through the crumbling gates to stand beside them. On his back was a bundle of wood stakes roughly the size of fence posts, each carved with identical formation arrays.
+
+She had been recently studying formations, so she could easily divine their purpose. The stakes helped mark and contain an area in order to prevent any spiritual pollution from escaping. They would have to be placed at various geomantically significant points. Normally, the process to divine such positions was quite lengthy and tedious, but her own knowledge of the liminal realm made it much easier to divine such points.
+
+Ling Qi shaded her eyes as she looked up, squinting into the shadows that lay beyond the second floor window. The fact that she couldn’t immediately see through them told her the darkness was unnatural.
+
+“I’m surprised the barbarians left the place standing at all,” she mused.
+
+“The fragmentary tribal alliances left in the Great Khan’s wake did not have the might to raze all in their path to the ground,” Bao Qian said, starting down the path toward the front doors. “They were dangerous and deadly, but not so overwhelming that they could act with impunity.”
+
+Nudging Zhengui with her foot, Ling Qi took Hanyi’s hand and began to follow after him. Wisps carrying her vision darted out among the weeds, spooking the muddy crawling things that lurked there. “I’m still surprised that things remained so bad. Even really neglectful rulers should have been woken up by Ogodei, shouldn’t they?”
+
+“I can only speculate,” Bao Qian warned, testing his weight on the sagging wooden steps. Ling Qi mounted them without a single squeak or groan. “But the destruction of the southern counts left the region unadministered, and the sects aside, the Hui refused to parcel out the land they had gained to the remaining counts.”
+
+Ling Qi wrinkled her nose as the scent of mildew and wood rot reached her. A wave of her hand kicked up a breeze, pushing the scent away as she peered through the broken doors. Insects and other scuttling things scattered before her searching eyes. “If they had time to absorb it, that much land would give them an advantage over the counts who were left.”
+
+“Just so. Those old villains feared and despised their own vassals more than any foreigner,” Bao Qian agreed. “I can put myself in the mind to understand it, but all the same, I find them a contemptible lot.”
+
+Ling Qi considered Hui Peng and his overweening arrogance, maintained even when nearly all else had rotted away. She doubted every Hui had been the same, but if he had been of average sort…
+
+“I suppose so,” Ling Qi mused as they stepped inside. Haunting noises echoed in her ears: soft sobs, the crackle of flames, and the clash of flesh and metal. At her side, Zhen hissed and snapped forward to devour a squirming worm spirit that had been caught between bent floorboards and Hanyi peered in the direction of the ghostly sounds, looking vaguely hungry.
+
+<A little hauntings are not really much of a spook for us, huh?> Sixiang thought.
+
+It wasn’t.
+
+“If you would, Miss Ling, the ritual song I provided?” Bao Qian shifted the weight of the stakes on his back. “We’d best start in the basements, I think.”
+
+Ling Qi nodded absently and gestured, materializing her flute from storage. Bao Qian had given her a simple piece to memorize. It was meant to pacify the unquiet dead until their remains could be dealt with. Ina ruin this old, such spirits could no longer simply be put to rest but, this would keep them from interfering with their work.
+
+The melancholy strains of the funeral song echoed through the halls, and they set off.
+
+“Sad though it is, I do like this song,” Bao Qian said. “There is a polished elegance to works so old.”
+
+Ling Qi nodded faintly, not needing to actually physically play the flute for something so simple.
+
+“It is a curious thing. It feels almost like a lullaby in construction,” Ling Qi analyzed, listening to the sounds merging from the flute in her hands and the rhythm in her spirit as she flexed her qi to create the sounds.
+
+“I’m surprised you weren’t already familiar with it, to be honest.” The rotted floorboards creaked under Bao Qian’s weight as they traveled down the ruined hall. “It's rather common among the funerary cults in the south of the province.”
+
+“I’ve never attended a funeral, aside from the ceremony for the war dead at the Sect,” Ling Qi replied. “My musical education is really just what my mother taught me in the time she could spare, Master Zeqing’s teachings, and self experimentation.”
+
+They paused at a crossing in the halls. Bao Qian tapped his foot against the floor and nodded toward the left. She followed after, stepping around a patch of wet black mold. “Mm, that is a shame. The Emerald Seas has very rich musical traditions, more so than any other province.”
+
+<Well, you’ve got good taste,> Sixiang appeared, affecting a haughty sniff.
+
+“There is a reason spirits of your kind are more common in these parts!” Bao Qian laughed. The cheerful sound seemed muted by the soft music and chilled atmosphere, but not by much.
+
+“That’s quite a claim,” Ling Qi said curiously. “Why do you say so?”
+
+They stopped, having reached the broken frame which had once held the door blocking the steps of the basement from sight. The steps were carved from stone and shone in the light of her wisps as they darted downward to explore the space. Shadows, insects, and minor faeries scattered in their wake.
+
+“It is a legacy of the Weilu and our scattered nature like most things,” Bao Qian said, starting down the steps. Ling Qi glanced down and restrained the urge to reach for Zhengui as he struggled with the steps. His pride wouldn’t appreciate her interference. “It comes down to the cults and their use of music in their rites. Unlike the central state cults of the Bai, which inspired the structures built by the Sage and his descendants, the temples of the Emerald Seas have always been more scattered and independent.”
+
+“So they developed more music for rituals independently, and that spread to regular life too,” Ling Qi realized. Tiny flies and other insects swirled in the air around her attracted by the light of her hair.
+
+“You people have changed, but there’s still a lot of little gatherings for me and mine all over,” Sixiang said. “We don’t get the big ticket venues as much anymore, but there’s plenty of people out there who remember.”
+
+Bao Qian was smiling now as they descended to the basement floor. All that remained were the scraps of shelving and storage. Ling Qi wrinkled her nose at the faint scent of vinegar, still strong in the air. Those wine bottles she had spotted intact along the right wall certainly weren’t salvageable then.
+
+“The division of the Emerald Seas has always had its strengths. Competition breeds conflict, but also innovation,” he said, sliding the first of the stakes from the bundle on his back. “Miss Ling, could you implant this in the far left corner?”
+
+“Is it okay if Gui and Zhen go hunting a little?” her little brother asked as she set him down, eyeing the cringing shadows and insects hiding from their light.
+
+“I think that’s fine?” Ling Qi asked, glancing at Bao Qian as she accepted the stake.
+
+“It won’t harm anything, so long as the stakes aren’t disturbed after placement,” Bao Qian agreed.
+
+“Go ahead then,” she said, smiling faintly. “Hanyi, do you want to go with him?”
+
+“Cultured young ladies don’t go pawing around in the dirt,” Hanyi said haughtily.
+
+“I think Zhengui would have more fun with you though, wouldn’t you, Zhengui?” she said, trying not to be too obvious in her prodding.
+
+“Huh? Yes, Gui would like that. Hanyi has been missed,” he chirped.
+
+“I guess I can,” Hanyi said with much dignity. “C’mon, Zhengui. I bet there’s some actual juicy bits hiding around here.”
+
+As Ling Qi watched them go off, she became aware of Bao Qian watching her with a considering frown. She arched an eyebrow back at him.
+
+“It’s a curious thing. You truly do regard those spirits as family,” Bao Qian replied to her wordless question. “I cannot say I understand it well.”
+
+“What’s there to understand? I raised Zhengui from an egg, and Hanyi is the daughter of my mentor,” Ling Qi said with a shrug.
+
+“What am I, scraps?” Sixiang muttered good-naturedly.
+
+Ling Qi rolled her eyes. “You’re the pushy cousin with boundary issues.”
+
+“I’m not sure if I should feel complimented or insulted.” The muse laughed. “Mm, I’ll go with compliments, I think.”
+
+Ling Qi looked back to Bao Qian. “I know it's not the norm, but I can’t really feel differently about the people I spend so much of my life with. Isn’t it stranger to be distant?”
+
+He frowned. “For me, Yinshi is a friend and associate, but it would feel strange to call them family. I suppose it is foolish to try and apply one template to all situations though.”
+
+He sounded a little like he was trying to convince himself.
+
+“We were talking about music, weren’t we?” Ling Qi diverted, turning away toward the corner he had indicated.
+
+“Yes, we were,” Bao Qian said, recovering his aplomb as he moved off to place his own marker. “Really, as important as the work of grandmasters and their followings are important, it's a must to listen to the trends among mortals and common cultivators too. Few will admit it, but even high art arises from the milieu of wider culture, and the diversity of that is one of Emerald Seas’ strengths.”
+
+Ling Qi smiled faintly, imagining for a moment the screech of rage that would have been emitted by a certain twice-dead man at that statement. Approaching the left corner of the room, she paused as hissing smoke emerged from a crack in the wall. A low keening sound along with a stretched, screaming visage and phantom claws burst from the wall. Shei let out a single sharp whistle, and the phantom scattered, torn apart by her qi.
+
+”Hidden room over here,” she called back. “Anyway, that’s an interesting point of view. I can't imagine it's too popular.”
+
+“Hm? That would explain some of the energy flow down here,” Bao Qian was already on his second marker, the first glowing faintly and humming where it had been planted in the hardened dirt. “I think you would be surprised. It has become fashionable to offer patronage to talented artists. This business I agreed to with your junior sister would not have been possible a hundred years ago.”
+
+Ling Qi brought the side of her hand down on the top of the formation stake, and the light chop drove the solid wooden post a quarter meter into the earth. Energy snapped and hissed as the warding formations came to life, tendrils of light briefly flashing in the ground under her feet.
+
+“Ah, that makes sense.” People liked having new signs of status to promote themselves with. At least this practice gave some benefit to other people as well.
+
+“It is a fine thing indeed. It is a shame for any talent to go unfulfilled, and it gives us something to pride ourselves in,” Bao Qian agreed. “Let us resume talking after we’ve finished the sealing of the basement. If you’d like to step aside, I can crack our hidden chamber.”
+
+“You needn’t spare my feelings,'' Ling Qi replied with a shrug. “I’ve already glanced inside. There’s no sign of bodies.”
+
+“I don’t mean to call you fragile,” Bao Qian said, looking pained as he turned to look at her. ”But you are my guest. It’s polite to spare you any unpleasantness.”
+
+“Don’t worry about it,” Ling Qi said. “So, the sealing?”

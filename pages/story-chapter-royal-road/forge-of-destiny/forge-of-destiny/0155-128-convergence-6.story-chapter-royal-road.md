@@ -1,0 +1,123 @@
+---
+id: 95be91ca-b4c8-5d12-ae94-8a37b8fc4766
+page-type-slug: story-chapter-royal-road
+title: "128-Convergence 6"
+slug: 0155-128-convergence-6
+partOf: forge-of-destiny
+position: 155
+ownLength: 2500
+unit: words
+publishedAt: 2021-09-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/747899/128-convergence-6"
+royalRoadId: "747899"
+---
+
+There was only one reason that Ling Qi could think of for why the barbarian had approached her like this. The proof was in the rime spreading across the bleached stone at their feet and the cold howl of the wind under the pressure of their respective domains. Standing so close, meeting the woman’s eyes, it was impossible not to feel something familiar.
+
+But it only made the differences starker. The foreigner’s cold was not hers. It was not merely a matter of potency between their cultivation. The woman before her felt stark and bleak in a way that even Zeqing had never been. She was not a winter storm falling upon a temperate vale, part of a greater cycle, but something endless, a cold which knew no summer and knew even the sun as only a periodic visitor.
+
+She didn’t know what the woman wanted. She knew, though, that the sect forces didn’t need more enemies right now, much less a peak green, but she also knew that she couldn’t just stay in this dome. She had to help in the fighting outside. So she would answer the one question that had come through to her.
+
+Ling Qi ghosted backward, ephemeral afterimages spun from moonlight flickering around her limbs as she opened up space, lowered her flute, and sang. She sang her mentor’s Name, as well as she could. She had never comprehended the fullness of Zeqing’s true name, but she could approximate well enough. She sang her apprenticeship and stewardship of Zeqing’s daughter. Last of all, as she began to spool up the qi to transport herself and her spirits back into the battle, she sang, not quite a challenge, but a query and an offer.
+
+If this woman wanted to join Ling Qi on the stage, it was up to her, but Ling Qi wouldn’t start the fight.
+
+For the first time, the barbarian’s severe expression changed. First, her face showed confusion, then it changed to disbelief and at last, confusion. Ling Qi’s eyebrows rose as she read the break in the foreigner’s decorum. The woman spat out a few words, which only confused Ling Qi further. There was that word for lineage again and something about loss. Ling Qi had no idea what excrement had to do with the situation though. It was obviously another word whose meaning had changed. When the woman repeated that word twice more under her breath, it only confused her further.
+
+The woman cast a glance at the starstone, and Ling Qi tensed up. But the woman didn’t go for the stone. Instead, she pressed the thumbnail of her right hand into the sceptre's head, digging into the ugly metal. Ling Qi belatedly noticed that the woman’s fingernails were iron as well.
+
+She very nearly dodged the sliver of wrought iron flicked her way, stymied only by the lack of hostility in the air and a nudge from the so far silent Sixiang. She caught it instead, stifling a wince. The iron sliver was painfully cold, even for her.
+
+The woman spoke again, and this time, it was slow and careful, similar to how she would talk to a young child. It rankled a little that it did make the woman’s words more comprehensible. Something, something, offering sanctuary?
+
+It was at that moment that the dome of ice over them began to shake and crack. Ling Qi didn’t take her eyes off the woman, but she did feel several familiar auras perched atop, their qi rising as techniques tore into the ice construct.
+
+The woman cast an irritated look up as a section of the ice shattered to the tune of a strumming lute. She vanished in a swirl of frost as the construct began to crumble.
+
+Above, Ruan Shen descended on a platform of flowers, a vibrant ramp that bloomed in front of him and withered behind him, leaving a rain of falling petals. With him came three disciples, an appraisal and two early greens, armored in flowering vines.
+
+“Junior Sister!” he called as he reached the floor. “You were cut off from communications!”
+
+Ling Qi blinked. So she had. Everything had happened so quickly that she hadn’t noticed.
+
+<Was trying to break through that jamming,> Sixiang murmured.
+
+“I’m fine,” she called back. Outside the crumbling ice dome, she saw the woman, now mounted behind her barbarian partner on the winged horse, her arms wrapped around his chest. He was circling upward, and the handful of lower realm barbarians with the same mount were following him, dodging incoming disciples. “I convinced the White Sky Confederation to retreat, I think,” Ling Qi said uncertainly.
+
+Ruan Shen raised his eyebrows but shrugged. “Well enough. Let them get caught up in our reinforcements. We have enough on our plate here.”
+
+Overhead, the battle between Guan Zhi and the barbarian commander was escalating. Guan Zhi was in midair, the floating rubble behind her taking on a more coherent form, pressure compressed stone shaping into a curling black mandala that hovered about her back and shoulders. She blurred through the sky, fighting a brewing storm with her fists alone. Under the weight and pressure of her blows, thrown so quickly that Ling Qi could only see her in those brief moments when she clashed, the whole mountain was beginning to rattle and shake.
+
+Ling Qi nodded, relaying the message through the restored communications. The response was much the same as Ruan Shen’s.
+
+... She wasn’t sure if she hoped that the White Sky group got away or not.
+
+Those thoughts vanished as she felt nauseous qi flare up and blinding radiance burst from the other side of the caldera. Ling Qi spun on her heel in time to see Cai Renxiang slam into the ground in a plume of dust, the shishigui envoy’s hand around her throat. Zhengui was looking around in confusion, Hanyi crouching warily under him. The shishigui-allied barbarians and their musician had stopped fighting her spirits and were circling around to support the envoy.
+
+Beside her, Ruan Shen was already turning to face the other battle as well, but there was no time to talk. Ling Qi felt the presence of her allies through the revel. As beastly dancers cheered and stomped, Linq Qi took a step and felt her feet brush the shallows of dream, but she could feel a strain. She couldn’t move everyone. She stepped again, and two of the disciples Ruan Shen had brought with him were pulled along by laughing dancers, leaving one behind.
+
+Then they were in front of the shishigui envoy. One hand pinned her liege beneath him, and in the other, a marble of impurity gathered, the stench from the hideous boil making her eyes water and her stomach churn. His armor was scoured and bleached by Cai Renxiang’s own attempts to escape.
+
+The revel roared, and when her flute sang, it was the sound of a glacier grinding down a mountain. The force of her song struck the envoy full in the chest, rocking him back, and his attack fizzled away as he raised his hand to shield himself.
+
+A second song joined hers as Ruan Shen stepped up beside her. Like spring after winter, soft strumming flowed like water, and in the chinks of the creature's armor, colorful flowers bloomed, and roots and vines sprouted, entangling limbs. As the other two disciples did their part, a pair of metallic fans, heated white with flame, scoured across chitin with a metallic shriek, and Ling Qi felt resilience flowing into her through her feet.
+
+Hanyi joined her song, and scouring frost rippled across bleached armor. Bit by bit, the shishigui was forced back, his grip on Cai Renxiang’s throat slowly coming loose. Spearing roots as thick as tree trunks erupted from the crumbling stone to slam into his breastplate as Zhengui bellowed, and another finger was pried free.
+
+Cifeng’s point touched his chest, her liege given just a single breath to maneuver, and erupted in light.
+
+Cai Renxiang shot to her feet as the creature flew back, a smear of blackness hidden within the inferno of radiance she had unleashed. Where the shishigui had touched her, her skin was red and raw, covered in blackened blisters. As she rose into the air, a grimace of pain on her lips, the light of her technique faded.
+
+The shishigui envoy was still on his feet. Another scorch marked his breastplate and a few flowers clung to his armor, but he was only a little worse for wear.
+
+Twin bolts of lightning crashed down. Ruan Shen’s song rose to a screaming riff, and the bolts aimed for their weakest members shattered apart into sparking petals. A booming melody answered, and Ling Qi grimaced as she felt their foes’ already potent aura just that little bit more bolstered. Overhead, the musician and his two remaining companions joined the fight.
+
+More disciples were coming, even if most were swarming to surround and batter the Twelve skies warriors. There was no time for regrets though.
+
+Her revelers spat and catcalled as the air thickened with the stench of impurity and viscous black droplets swarmed the air. The shishigui envoy exploded into motion, twin whips of filthy fluid emerging from his gauntlets to snap through the air with a thunderous crack. Ling Qi blinked away, materializing atop Zhengui’s shell as an afterimage was torn apart by one lash, and Cai Renxiang parried the other in a shower of disgusting steam with the edge of Cifeng.
+
+Ling Qi felt her lungs burning and her eyes watering despite that though. The field of impurity around the creature was nearly as potent as the underground itself. Every flex of her qi felt just that little bit more sluggish.
+
+Above her, Cai Renxiang raised her blade in front of her face and let out a wordless shout. Celestial light bloomed, burning away impurity. Ling Qi straightened up, and she felt Zhengui do the same. Liquid light painted his shell a pearlescent white, and the fires of Zhen’s venom burned with new radiance. Ling Qi herself felt stronger and faster, her gown outlined in radiance, and the noise of the revelry around her rose to a cacophony.
+
+A dozen beastly revelers hurled themselves at the shishigui envoy and burned away before they could even touch him. A dozen more followed, and claw and fang scrabbled for purchase at his armor. Overhead, a laughing phantom woman with the eyes and wings of a moth seized one of the barbarian archers and dragged him into a patch of thick and cloying mist.
+
+Atop Zhengui’s shell, Ling Qi took a deep breath of briefly clean air and felt for the warmth she had tended in her heart this past month. A new song rang out as Ling Qi played the song of the Winter Hearth Resounding. Chill wind screamed out, lashing their foes, but for her allies, there was only warmth. Surrounded by her spirits and allies, Ling Qi felt her own qi begin to recover, drip by drip.
+
+Even as she sang, Zhen arched over her, Hanyi perched on his head, and his throat bulged as he disgorged a mass of molten glass and stone, forcing another barbarian to dart away, only to flinch as Hanyi’s Hoarfrost Refrain flash froze his mount’s mane. He barely raised his bow in time to deflect cutting crescents of hot metallic qi and failed entirely to block the meter-long spear of stone that crashed into his chest, nearly knocking him from his mount.
+
+And still, overhead, the storm grew darker.
+
+***
+
+Bei Yongrui was not a warrior.
+
+He did not wish for war the way many of his comrades did. He did not glory in battle or death. Building things, building people, and helping others rise, those were his talents.
+
+Yet, with the single mote of attention which was on the caldera below rather than the sky around, he could admit to some satisfaction as he saw his disciples descend upon the barbarians. He saw the barbarians wheel to defend that odious stone. He saw them die, frantic and confused.
+
+Lightning-struck fires burned, and in their wake, only the victorious scream of horses and the rushing of wind could overtake the hungry crackling. The walls were broken, the warriors dead, and his younger siblings gone, screaming into the sky.
+
+And in the morning, the beasts had come.
+
+Oh yes, satisfaction was the right word, he thought, resting his hands on his belly, sitting meditatively above the churning clouds. Those, he watched more closely. The heathen shamans were clearly up to something. He was not about to allow his growing disciples to be drowned under a downpour of lightning or suchlike.
+
+Things were going well at the moment with the main operation. The southern group had ended up entangled, intercepting reinforcements, but the group was holding up well, and the battle was tilting in their favor. Detachments of the larger forces in the east and west were approaching and would soon be here to reinforce both groups since the force concentration had been a bit higher than expected.
+
+He was quite proud of that girl, Ling Qi, for holding up so well. He was less proud of her odd action in regard to that strange woman, but he did not condemn her for it. It was only good sense to scatter her foes, however she did it.
+
+That group was not actually fleeing though. They had withdrawn and vanished from lesser sight, but they circled the caldera still.
+
+My, that was a potent artifact the woman wielded though. He would want a closer look at it after this. And she was certainly not a cloud tribe member with a soul like that. They would have to capture this group if possible.
+
+Bei Yongrui frowned then. There had been a frisson there, a change in the sea of probability. He would have to consult his coins when he returned. It had felt like something of great import. It was almost enough to distract him from his vigil.
+
+Not enough though.
+
+Bei Yongrui raised his head, cracking open his right eye to gaze upon the stars, so suddenly mobile. Subtle, but not subtle enough. He and the other elders of the Sect had learned that qi well. Oh yes, they had. That wretched verminous thing might have died on the battlefield, but the barbarian who had struck Senior Brother Zhou down in his weakened state? No, that one was still alive.
+
+And here he was, just as the Sect had suspected. This meeting was too important to the embattled, shishigui-allied tribes of the northern wall for him not to be.
+
+Bei Yongrui rose, shaking out his sleeves as ten thousand new stars were born in the sky overhead, falling fast, each a miniature sun. Silently, he pulsed his qi, sending the signal to his sect brother and sister in the east and west.
+
+If the stars were falling, he would just have to catch them.

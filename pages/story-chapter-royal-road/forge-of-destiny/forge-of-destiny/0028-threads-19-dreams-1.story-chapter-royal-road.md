@@ -1,0 +1,149 @@
+---
+id: a7717bac-fc00-59f1-a588-bcf8c51bc62a
+page-type-slug: story-chapter-royal-road
+title: "Threads 19-Dreams 1"
+slug: 0028-threads-19-dreams-1
+partOf: forge-of-destiny
+position: 28
+ownLength: 2565
+unit: words
+publishedAt: 2020-12-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/595746/threads-19-dreams-1"
+royalRoadId: "595746"
+---
+
+As they fled the cavern at Suyin’s top speed, the roar of explosions and collapsing stone at their back, Ling Qi could not help but laugh. No, she really couldn’t let fear control her because this is what being alive felt like. As they reached the top of the dead beetle’s tunnel that they had originally followed and Li Suyin stopped to gasp for breath, she saw a little bit of a grin in the other girl’s expression as well.
+
+If she had followed her knee-jerk instinct and simply focused on keeping her friend out of danger, could Suyin smile like that? If she had treated Suyin like a fragile vase that needed to be kept on a shelf, wasn’t that insulting?
+
+Perhaps she had been thinking of things the wrong way.
+
+“Ling Qi, are you alright?” Li Suyin asked as she straightened up, her face still red from exertion. “You’re staring.”
+
+“I’m fine,” Ling Qi said. “Are you satisfied with your take, Suyin?”
+
+The girl nodded happily. “Yes! I’ve acquired so much more than I could have hoped for! And it was amazing seeing you fight like that. I’m sure that once I break through, we’ll be able to go even deeper!”
+
+Yeah, Ling Qi decided. She had to think about what it meant to protect her friends.
+
+***
+
+In the days that followed their expedition, Li Suyin vanished into her workshop, and Ling Qi did not begrudge her for it. She hadn’t missed the way that Li Suyin’s eyes had lit up when she handed over the bandoleer she had torn from the beast's corpse. She expected her friend would be doing the equivalent of closed door cultivation for most of the month's remainder.
+
+Ling Qi’s plans were not so far from that. She had been given one of Suyin’s meridian cleansing wands, and it would definitely be helpful for her efforts. Between the expensive pills purchased from the Sect market at the cost of most of her points and her newly improved cultivation, Ling Qi planned to make this a very productive month. However, the days when Ling Qi would thoughtlessly retreat into meditation without consideration for anyone else were well past, so Ling Qi was sure to take care of her obligations first.
+
+Her friends were all settling into their own routines in the Inner Sect. Meizhen was getting comfortable in her new home, which wasn’t much larger than her own but was definitely better appointed. Xiulan was in the midst of heavy cultivation, catching up on arts which advancement had been stymied by her partial breakthrough.
+
+Everyone was quite busy. Ling Qi found herself drifting to the archive when she was not making preparations for her upcoming cultivation binge or attending to Cai Renxiang. It was a center of activity, and Ling Qi still needed to keep an eye on her peers. While she wasn't sure if she intended to challenge this month, she could be challenged by another.
+
+She hadn’t expected it to be so dull. Sitting in a corner, a tome on Imperial history open in her hands, Ling Qi tried to keep her mind from wandering. Listening to the murmur of small conversations throughout the archive, she thought she might go a little stir crazy. While she knew that she wouldn’t get anything really interesting with this method, the mundanity of a cultivator’s day-to-day lives still surprised her sometimes.
+
+Remembering the cavern expedition and the nightmare before it, it seemed so incongruous that cultivators could still be interested in petty concerns when they were, one and all, people with real power at their fingertips in a world filled with tribulations and challenges. She was being unfair she knew, and she supposed she wasn’t any better. Hadn’t she spent yesterday morning just chatting with Meizhen about nothing in particular?
+
+But it didn’t help that even Sixiang was silent again, leaving her alone in her own head to try and focus on other people when the siren call of cultivation was singing in the back of her mind. Sighing, Ling Qi refocused her eyes on the text in front of her, listening carefully to the snippets of conversation that reached her ears.
+
+Then she found herself distracted again. This time, she was distracted by the feel of a familiar aura moving through her senses. A bolt of lightning stalked the archives, tense and crackling, tiny arcs of electricity snapping and coiling at any that dared approach it. There was only one person Ling Qi knew who cultivated heavenly qi to such an extent and singular purpose. At his side moved a frolicking wind that danced around the lightning, poking, prodding, and floating away laughing when the lightning snapped and crackled in turn.
+
+“Junior Brother Rong, to make an enemy of the archivists so early in the year. You truly do excel.” She heard the second of the pair’s voices first, and it conjured to her the image of a rather pompous fellow.
+
+“Yeah, yeah, laugh it up. This is all the books, right?” the living lightning snapped testily. Ji Rong was as taciturn as ever, but it looked like he had made a new friend.
+
+“Just the one more,” the other voice replied lightly, and Ling Qi heard the sound of leather striking flesh. He had presumably tossed Ji Rong another book.
+
+“Fu Fan’s Guide to Administration for the Simple… Are you making fun of me, you windbag?” She could practically hear the twitch of Ji Rong’s eyebrow.
+
+“Hmph. To show so little respect for your kind senior, Junior Brother Rong. Where did I go wrong in raising you?” The stranger laughed. “Off to the reading room, you. This Senior Brother has his own tasks to attend to.”
+
+Ling Qi caught sight of the second speaker then, moving swiftly between the aisles in front of the reading area she occupied. His mustache was rather ridiculous looking, but he seemed pretty unassuming otherwise. That set her on edge; she couldn’t clearly read his aura. He was gone as fast as he appeared.
+
+“Jackass,” Ji Rong muttered to himself as he slouched around the corner, cradling an armful of books. “What I get for askin’ that guy for help.”
+
+He looked up then as he trod on the plush carpeting that marked out one of the reading areas in the archive.
+
+Ling Qi restrained herself from matching his grimace with her own. “You never struck me as the type, Baron Ji,” she said dryly, eyeing the titles of the books he held. Treatises on leadership, logistics, and yes, administration, filled out most of the stack.
+
+“What’s it to you?” he asked, meeting her eyes defiantly. “You think I’m too stupid to learn anything but punching or something?”
+
+Ling Qi debated just leaving, but curiosity drove her to ask. “Why these books? Did my phantoms jar something loose when they were spinning you around?”
+
+Ji Rong looked like he wanted to spit blood at the reminder of his loss. She found it funnier than she probably should have. “Dunno. Why do you care about the past all of a sudden?” he spat in return.
+
+Ling Qi glanced down at the book in her hands that she had been casually perusing. “Even if it doesn’t matter, seeing the patterns is important, I think,” she replied, thinking back to her encounter in the dream and Senior Brother Liao’s own words on the futility of it. “I’ll leave you to your study,” Ling Qi said, closing her book and standing. There wasn’t much point in antagonizing him, aside from petty satisfaction.
+
+And she had already indulged in that. Doing more would just be gluttonous.
+
+As she moved to pass him by, Ji Rong spoke. “They aren’t any different,” he said. “But that doesn’t change the fact that I’ve been a shit Boss in the Sect so far.”
+
+Ling Qi paused, eyeing the scarred boy without turning her head. “Are you making the comparison that I think you’re making?” she asked, vaguely incredulous.
+
+He let out a bitter laugh. “Yeah, guess I am. Gang Boss, Baron, Viscount, Count, Duke, Emperor. It’s all a matter of scale, innit.” He shook his head. “I’m never gonna be leading packs in a fight like that Cai or her pet giant, but if a Boss is what I am, I’m not gonna be a shit one.”
+
+“That’s not the kind of thing you should say, Sect Brother,” Ling Qi said dryly. “Please consider your words more before you tarnish the Sect’s reputation.”
+
+“Whatever,” he snorted. “I’m outta here in a couple years anyway. Not gonna run off and leave her alone like the rest of those parasites.” He turned away from her then, resuming his path toward the reading desk in the far corner.
+
+Ling Qi shook her head as she began to move toward the archive's exit. She supposed that statement at least answered clearly what was going on between Sun Liling and Ji Rong.
+
+<Ling Qi, are you busy?> She paused as Sixiang spoke. Something about the spirit's voice felt insubstantial, or even fragile. It didn’t sound right.
+
+<I’m not,> Ling Qi thought back immediately. <What’s wrong?>
+
+<Nothing, nothing,> Sixiang laughed. “It’s just, uh, I might’ve put a little too much into my project. I’m almost done. I just need a little more… Could you find somewhere with a better background, Qi? Please?> Sixiang’s voice seemed to fade and waver in and out with every word.
+
+What in the world had they done? Ling Qi thought with alarm, picking up her pace. Why would they do something dangerous without even telling her? Ling Qi had a sudden sinking feeling that she now knew how Meizhen felt sometimes about Ling Qi’s adventures.
+
+Ling Qi made a beeline for the archive's exit, barely pausing to turn her book in. The moment she stepped outside, her feet left the ground, her gown snapping and rustling in the wind as she soared away from the archive.
+
+She landed in front of her door in a flutter of silk and swept inside without pause, her steps taking her unerringly toward her meditation room. Between one step and the next, her silhouette flickered, skipping entire stretches of distance. In only moments, she was before the heavy door that marked the vent chamber.
+
+Ling Qi opened the door with a shove, striding through uncaring as the stone slab reverberated with the force of its rebound from the wall. The silvery mist let off by the vent washed over her, tingling on her skin.
+
+“Did you need anything else, Sixiang?” she asked aloud, brows furrowed. “This is good enough, right? I can find somewhere more potent…”
+
+<It’s… f… worrywort,> Sixiang whispered. <S… down and relax… Want… show you.>
+
+Ling Qi frowned mightily. The way her friend’s voice faded in and out seemed like ample reason to worry. However, she had already done what the spirit had asked, and as the door behind her closed and sealed, the clinging silver mist only grew thicker. She felt a trickle of the room's energies being drawn inward, the way it did when she cultivated here, so presumably Sixiang was already working to restore themselves.
+
+She forced herself to take a deep breath and moved to seat herself. Sixiang wanted to show her something, and she would have to remain here until the spirit was done with whatever they were doing, so she might as well indulge them. Besides, even if it was only in her own head, seeing Sixiang would ease her nerves.
+
+So, as she settled into a meditative position before the vent, Ling Qi closed her eyes and cut the flow of qi that served to salve her body's mortal needs for rest. It took only a brief moment of concentration after that to send her mind drifting off to sleep.
+
+Ling Qi found herself once again seated atop a mound of cushions and blankets. Sixiang’s dreamscape had not changed much since the last time she had visited. The endless mounds of pillows and cushions were arranged more neatly with lanes between for easy movement. Stepping off of the mound she had awoken on, Ling Qi found the off-white ground to have the texture of fine cloth and the springiness of a high quality mattress.
+
+“Sixiang?” she called, walking between the pillow mounds toward the sound of lapping water. “Sixiang, where are you?”
+
+“Everywhere and Nowhere.” Ling Qi twitched as Sixiang’s voice emanated from the air around her, sounding floaty.
+
+“That’s not very helpful,” Ling Qi replied dryly, crossing her arms and looking up at the rainbow mist that comprised the sky. “Seriously, are you alright?”
+
+“Mmm, I think so,” Sixiang whispered. “I guess I gave you a scare, huh?”
+
+“Just a little,” Ling Qi said. “Why were you fading out?”
+
+“It’s like being a butterfly, you know? The caterpillar can’t reach the world outside its cocoon,” Sixiang mused.
+
+“But now I’m inside the cocoon too,” Ling Qi said, shaking her head. “Why did you need me to come to a site then?”
+
+“I didn’t want to nap for a month like that sleepy boy of yours,” Sixiang laughed. “And, hm, I think it will be better this way. I want to show you something.”
+
+Ling Qi felt a tug at her right hand, and she had the impression of phantom fingers grasping hers, urging her along the path. Not needing any more prompting, Ling Qi resumed walking along the path. “Alright, that’s fine. I wish you would have warned me,” she said grumpily.
+
+“It’s not like I know what I’m doing,” Sixiang replied, amused.
+
+Ling Qi did not find that comforting. Still, she kept walking, and as she walked around a particularly large pillow mountain, she saw again the sea of color. Last time, it had felt unfinished and unreal, but now, bright blue waves crashed upon rocks of garish orange and yellow, the ripples in the water perfectly realistic. The fluid shifted in color, bright blue to shimmering jade to darkest indigo with more colors in between. It was oddly beautiful.
+
+“Is this what you wanted to show me?” Ling Qi asked. It was a pretty sight, but it seemed like an awfully trivial thing.
+
+“That mindset…” Sixiang sighed. “But no, what I want to show you is here though.”
+
+In response to Sixiang’s words, Ling Qi just raised her eyebrows, giving the misty sky an expectant look.
+
+“I’ve seen your memories. Experienced the clearer ones, and read the wisps of the rest,” Sixiang said thoughtfully. “It’s just… we’re friends, right? So it seems kind of unfair.”
+
+Ling Qi continued walking, reaching the damp shore of the sea of color. She looked out thoughtfully over the churning waves. “I don’t really mind. I knew I was inviting you into my head.”
+
+“Maybe so, but… I want to share anyway. I put a lot of work into making sure you could see and comprehend safely.” For once, the muse's voice held a note of trepidation. “... So, want to take a swim?”
+
+Ling Qi thought back to the last time she had gone out with a friend on the water and felt Sixiang’s wry shrug of apology at the similarity. Still, Ling Qi rather doubted that this time would end like that had. The circumstances were a bit different. Ling Qi let out a sigh. “Sure thing, Sixiang.”
+
+Diving into the waters, she dissolved into seafoam.

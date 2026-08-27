@@ -1,0 +1,35 @@
+---
+id: 761fb179-6b68-58bd-80c4-dc0c4f2328da
+page-type-slug: story-chapter-royal-road
+title: "In the Shadow of Xiangmen I"
+slug: 0245-in-the-shadow-of-xiangmen-i
+partOf: forge-of-destiny
+position: 245
+ownLength: 506
+unit: words
+publishedAt: 2022-05-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/901297/in-the-shadow-of-xiangmen-i"
+royalRoadId: "901297"
+---
+
+Ancient Xiangmen stretched into the sky, its branches and leaves spreading to the horizon, its trunk a pillar of the world, dwarfing all but the mightiest mountain. Silent were the townships of the root hills and the plains. The farms stood empty, the workshops silent. Manors and hovels alike were empty.
+
+They came. After years of gathering wrath, they came.
+
+From the east came the hound lords, a great mass of riders with no bits or bridles, a mass of beasts, a mass of restlessness and dissatisfaction. At their head was a silver hound of three tails, its fur burning with the light of the moon, its eyes as suns. His tread shook the earth, splintered trees, and flattened hills. His howl shook the sky and was joined by ten thousand of his kin.
+
+From the south came the widows and widowers, orphans and grieving parents, the broken, the forgotten, the disdained. They came from the ruined land, and their ruin gave them strength. Soldiers and craftsmen, philosophers and clerks, priests and merchants all marched, their song a primal howl, achingly human. They called the masters of the world to account, and for the very first time, their cries did not vanish into the uncaring void for with them walked titans, wrought of the fury which was born ‘neath the cruel master’s boot.
+
+From the west came no host, only a darkness, a mist, a shadow. It coiled among the ancient trees, cloying and gray. The strains of zithers and the piping of flutes were the only sign of the wayward scions of the Labyrinth.
+
+From the north came the glittering host of underearth, each soldier girded with a prince’s ransom. Tattered it was with great holes in its formations Stone and soil came at their call, siegeworks sprouting from raw earth like weeds, and their soldiers stood atop ramparts that should have taken a century to erect. At their head was the youngest Prince of Earth bearing a helm set with three gems of heartbreaking beauty that gleamed like the tears of the sun. Their glow was still darkened by their elder’s blood.
+
+O Heavenly King of the East, the Builder! Whose hands mold the land and whose plans reshape the people, O crushing hammer which bends the world toward the future!
+
+O Heavenly King of the South, the Crucible! Whose fires scourge the old, whose sword severs tradition, O furnace of war, devourer of lives and dreams alike!
+
+O Heavenly King of the West, the Orator! Whose rhetoric inflames the heart and instills the dream of the world yet to come, O harbinger of strife and breaker of kinship!
+
+O Heavenly King of the North, most precious of all, The Lover! Whose tears brought a nation to its knees, who lives in every heart and cries out for every loss, O lady of vengeance and wrath who will break all the world for the vision of her One!
+
+And lo, at their center, is the Ideal, the Truth which will light the future aflame!

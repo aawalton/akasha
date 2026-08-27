@@ -1,0 +1,115 @@
+---
+id: 0ae7fc13-ce43-52d1-81c0-cd08f89dfe20
+page-type-slug: story-chapter-royal-road
+title: "Threads 369-Depths 4"
+slug: 0409-threads-369-depths-4
+partOf: forge-of-destiny
+position: 409
+ownLength: 1630
+unit: words
+publishedAt: 2024-03-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1559560/threads-369-depths-4"
+royalRoadId: "1559560"
+---
+
+Ling Qi found open space a moment later, drifting out of the cracks in the cold stones of the palace's basement. Quickly, she scattered herself and her senses through the dim hall, ignoring the pounding tromp of boots overhead. B-1. B-2… A-5!
+
+And there! A-4.
+
+She darted down the hall and re-collected herself in one place, regaining form and cohesion. She felt another spike of pain in her temple as the palace complex overhead groaned. Arcs of venomous qi crackled through the stone, earth, and air. Furious, yellow eyes opened on the walls, and hands reached for her, guard-forms stepping right out of the stone.
+
+She had to… She had to endure. Lashing out would do no good; it would only hurt them both.
+
+She pulled upon the tranquil qi of lake and darkness as a guard-form’s baton smashed down. Her shoulder rippled where it was struck. Pain shot through her as the mental construct rattled her self-cohesion with manifested urge to violence.
+
+Stillness was not her. She couldn't be the unruffled lake, but… Was that metaphor even really true in the first place? Perhaps Lake Hei itself could be so untouched, but she was more familiar with the lake of Snowblossom. The surface of that lake always rippled. When an ice floe crashed over the cliffs and fell, the lake wasn't still. Neither was it still under falling waters. The surface changed, but the lake was still the lake, and the lake was whole.
+
+Ling Qi jerked her arm from a thoughtform’s grasp, feeling her imagined sleeve tear, but her arm flowed through its fingers like so much rippling water. The memory of having her arm seized, twisted, and broken remained, echoes of childhood seized upon in the realm of dream. She felt her qi dropping, and moved on.
+
+The door to the storeroom was just ahead. She was sorry, but there was no more time for subtlety. Sliding around a spike of stone that erupted from the floor, she rushed forward, laying her hand against the door. She focused her will and need to succeed down to a single point of focus and pushed. Metal screamed, and formation arrays sparked as the hinges were ripped out of the stone. The door crashed against the far wall.
+
+A crossbow bolt sizzling with acidic panic thunked between her shoulder blades and sunk in. It burned and clawed at her thoughts. Ignoring it, Ling Qi stepped inside the storeroom, her senses scanning the shelves and crates which represented Xia Anxi's long-term memory.
+
+She could smell the sickly, marshy rot.
+
+The ceiling crashed down on her head. A hundred, hundred memories of being struck erupted in her mind, jagged pain flashing through her skull with the new memory of impact. The whole basement rocked as her mental image of this place quivered, and she struggled to maintain her technique in the face of Xia Anxi's mental effort to crush and expel her.
+
+Ling Qi oozed from beneath the fallen stone as a puddle, hands and head and body reforming. Her hands plunged through the side of a crate marked with reeds and grasped something chitinous and squirming. It wriggled out of her grasp and leapt, trying to dart away.
+
+She wasn't done yet.
+
+She swept out her hand, and strands of diamond spun out, a net that enfolded the parasite before it could get far. She yanked her hand back and stared down into the parasite’s beady, glittering eyes, following the tenuous thread which connected it to Still Waters Deeping and the power of a sovereign that could crush her like a bug. She dared it to make a move, knowing that her own shadow—her own sovereign—was here. The thread snapped, but not before she felt the hate on the other side.
+
+Too long fingers brushed hers, and the jerking parasite froze and stilled.
+
+"Ling Qi, you need to get out now! You're gonna break!" Sixiang shouted at her.
+
+She knew that, and so, she let go. She let go of Xia Anxi's mind, and pushed all she had left into shifting out, escaping the crushing force of Xia Anxi's will. The underground basement vanished in a riot of colors and overwhelming, incomprehensible data, wracking her with what felt like shocks. But all the same, she tumbled free into the liminal and then back into reality with all the grace of a child falling down a flight of steps.
+
+"Ling Qi?!"
+
+"Gahhh! Serpents’ boiling spit!"
+
+Ling Qi climbed painfully to her feet, as the echo of Xia Anxi’s shocked shout fading. Forced to rely fully on physical movement and muscle to do so. Her legs wobbled, and her head throbbed. She swayed, and reaching up, she patted her temple. Her fingers came away sticky with blood running down from under her hair.
+
+Ah, Meizhen looked murderous. Openly murderous. It had been a while.
+
+"The operation was a success," Ling Qi reported. Her voice sounded odd to her own ears.
+
+"What operation?!" Xia Anxi demanded. He was on his feet, staring at her with wide eyes. Blood dripped from his palms where his fingernails had dug in, burning sizzling holes in the carpet. "You… I saw you behind my eyes! How dare—"
+
+"I gave her dispensation to do so," Bai Meizhen interrupted coldly. She was the only one still in her seat, looking up at them both with an icy, flat expression. "You were compromised, Bai Xia Anxi, and there were no experts from the clan available."
+
+"My… deepest apologies, Sir Bai."  Bending at the waist made something in her back pop, but she did it anyway before presenting her prize, the frozen, many legged thing in her hand. "There is a saboteur, and he has been implanting these parasites in the minds of individuals at the summit. To retrieve it before it could erase itself, you could not be made aware of my intrusion at the beginning."
+
+Xia Anxi stared at her blankly. He turned his gaze to Meizhen and back. His eyes were still wide, his breathing strained. He flexed his bloodied fingers, met Bai Meizhen's eyes, and… For just a moment, Ling Qi felt like he was going to snap. She saw the shadow of the training hall pass over him then, and he deflated, shoulders slumping, the fight going out of him.
+
+"I am most displeased that this was necessary,” Bai Meizhen said. “Bai Xia Anxi, as a member of my Bai clan, it is unacceptable for you to have been targeted thus. Our allies will see that we receive recompense."
+
+The sheer acid in her friend's words reminded her for all that Bai Meizhen was her best friend, she was still Bai. A teacup cracked, and many of the plants decorating the room withered, flowers shriveling under the bone-chilling terror radiating from Bai Meizhen's every pore.
+
+"It will be so," Ling Qi promised. "Lady Bai, Sir Bai, the court of the Emerald Seas will see the individual responsible for this brought to justice."
+
+Xia Anxi looked at her dully.
+
+Ling Qi suppressed a grimace and bowed a little deeper.
+
+"I swear upon my cultivation and my Lady Cai's honor that nothing which I perceived in my pursuit of this parasite will be shared with anyone else," Ling Qi added. "And for what it is worth, my current state is down to your will. In the end, your mind found and expelled me."
+
+"But not that thing," Xia Anxi said. His eyes bored into her. The burning question of what she had seen was obvious to her eyes and other senses.
+
+She glanced at Meizhen, who was still glowering, before responding. "It is believed that these objects are the work of a sovereign cultivator. However, I need to deliver this parasite, so that it can be examined while the trapping technique remains."
+
+"You may go, baroness. Xia Anxi, you are relieved of all duties for today. You may go as well."
+
+He rose and bowed silently. Ling Qi swayed, briefly dizzy, and then did the same. It was just too awkward. Her steps felt heavy, almost clumsy with so little qi, but all the same, she hurried out.
+
+She was near the entrance hall, empty now at this time, when she felt something like seaspray wash over her. Xia Anxi was at her back.
+
+"Sir Bai," she acknowledged. She considered the scent of salt in the air. A social screen, and no more. In her current state, he could probably hurt her badly. However, a glance over her shoulder at his face told her he wouldn't.
+
+<Like I'd let him anyway,> Sixiang grumbled privately.
+
+"What did you see, Baroness Ling?"
+
+She closed her eyes, trying to clear the pounding in her head. It was a fair question.
+
+"The discipline and childrearing of the Bai," she said, choosing her words carefully. "The ocean, and the bustling docks. … A gray-scaled child and a bar musician."
+
+She heard his breath hitch.
+
+"I see. The ocean is truly grand, is it not? I told you of its majesty." There was no further sign of distress in his voice. He was good at that, just not good enough for her senses.
+
+"You did. I am thankful to have seen it, although I wish it had been in a better way."
+
+He was silent for a beat.
+
+"Indeed. Know that neither urchins nor ragged old men have anything to do with Xia Anxi of the violet coral caste. It will avail you nothing to use them, whatever you might have seen."
+
+"I have no intentions to do so. They are your memories alone."
+
+He stared at her, suspicion and an edge of fear buried under an imperious front.
+
+"... Good. Be on your way then, baroness."
+
+She inclined her head and left the embassy.

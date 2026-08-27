@@ -1,0 +1,129 @@
+---
+id: b03aa6ae-d147-5391-9f05-e044af984ab8
+page-type-slug: story-chapter-royal-road
+title: "Threads 432-Green 1"
+slug: 0476-threads-432-green-1
+partOf: forge-of-destiny
+position: 476
+ownLength: 1447
+unit: words
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2087903/threads-432-green-1"
+royalRoadId: "2087903"
+---
+
+She found Zhengui in the midst of one of his patrols through the farmlands of Shenglu. His routes through these lands had become roads just by the natural effects of his tread, a wide path of packed earth, cleared of boulders and trees for his own convenience, and where he walked, even the grass had shifted to grow verdant and green along its edges rather than the clumpy patches that might catch a foot or wagon wheel. The earth itself was dark and baked by the heat of his shell to give firmer footing.
+
+Out here, her little brother did not restrain himself. He loomed over the land, a walking hill whose footsteps sent small tremors through the earth, some nearly eight meters from the front of his shell to the back. On his back was the mobile shrine he had described to her, much larger than the one which he had worn in their little family garden. Racks on racks of ceramic planters were set into metal piping affixed to his spiky shell, and they were filled with a menagerie of plants from the farms and town given in offering. He was a steep tiered field unto himself, and the rattling of the planters was matched only by the buzzing of the bees which flitted among the flowering plants, each one like a drop of liquid gold.
+
+She floated, Qiyi’s silk rippling around her, toward him through the hazy, light flow of ash wafting off of him. The ash scattered on the breeze, carried out to the surrounding fields to fertilize the soil. since she was flying today, she'd let the dress grow out the train of her gown into a long fluttering thing that waved a good half meter behind her, little wisps of mist rising from it.
+
+"Big Sister!"
+
+"Come to see this young king's walk today, Elder Sister?"
+
+My, Zhen's haughtiness was reaching critical levels. She would have to tease him over it later, and gently deflate it, but now was not the time
+
+"I did. Do you mind if I join you, little brother?"
+
+"If sister comes around the front, Zhengui had his friends build a seat into the new model!"
+
+She circled lazily above him. Indeed, among all the flowers, there was a hollow set with a chair made of thin metal tubing and sturdy linen padding. She didn't miss that it was surrounded by darker colored and more cold resistant plants, too.
+
+… Zhengui really did love her.
+
+Ling Qi drifted down. "Don't mind if I do then."
+
+Pretty, pretty, blooming bright, cold and white, sleeping blue!
+
+Her dress hummed as she settled into the seat. The embroidery on her gown crawled and shifted from wintry whorls to the outlines of petals and stylized white lines like sprouting shoots. Her sleeves expanded, sprouting lace and covering her hands.
+
+Ling Qi sighed, but let it go. She supposed the fanciness lent Zhengui more gravitas, too.
+
+"Everything fine since the ceremony?" Ling Qi asked.
+
+"Mhm! Miss Snowblossom and I have been chatting a lot. She likes hearing about the fields and hills, and even if swimming is no fun, Gui likes hearing about the fishes and the water plants down in the muck."
+
+"I, Zhen, have been carefully adjusting the release of my qi to better match and mingle with the water coming up from below."
+
+Zhengui’s qi was certainly mingling with Snowblossom’s, Ling Qi thought sardonically. Joking aside, the relationship between two symbiotic spirit lords wasn't necessarily intimate in the way that a human would think of it. It could be, but right now, she was just giving herself weird feelings for no reason. Or more honestly, she was using this silliness to distract her from the more serious topic she had come to discuss.
+
+"I'm glad. You've really been prospering out here, haven't you, little brother?" Ling Qi watched the land around them roll by. Even with his slow gait, the sheer length of his stride ate up ground.
+
+"Yes!"
+
+"Of course!"
+
+"Zhengui, can I ask… Have you ever felt any concern over where you came from?"
+
+Zhen's body arced up over his shell, looking down at her from above. His tongue flicked out, white hot, trailing a wisp of ash. It was a confused expression for the serpent.
+
+"I, Zhen, do not understand."
+
+"You're maturing and growing into your own. I just wonder if you have ever been curious about your actual parents."
+
+"Gui has wondered if he is doing things right, sometimes."
+
+"I, Zhen, have only one family. Big Sister is kind, but she should not worry about this topic."
+
+"I have never doubted that we are true family, Zhengui, but it’s also fine to want to know more.”
+
+"I…" Zhen trailed off, smoke puffing out with each flick of his tongue.
+
+"Gui does not like being ignorant. Big Sister wants to talk about this?"
+
+It was strange how maturity could seesaw back and forth between his two personalities. "You remember the trip we took with Xuan Shi in the dream?"
+
+Gui craned his neck up, looking back at her over his shell.
+
+"You may be able to speak with the shade of the one whose core became your egg there. I've known for some time, but I am only now confident in my ability to approach a spirit like that. And… there is information I want to know as well."
+
+Zhen hissed. "So, Big Sister wants to go on a dream adventure with this young king. You should have just said so."
+
+When she looked at Zhen, he turned up his snout haughtily.
+
+"I suppose we haven't gone on a trip with just the two of us in a long time," Ling Qi said fondly. "Although…"
+
+Would it be alright, to bring Qiyi on such a personal journey for Zhengui?
+
+Quiet. Quiet. Silent silk fluttering.
+
+Of course. Qiyi was a good girl, wasn't she?
+
+Try veils and high boots after?
+
+Or at least a patient one. She supposed she could manage that.
+
+But Gui's thoughtful silence belied no knowledge of that little aside.
+
+"Yes, Gui remembers. Diggy digging is not quite right, but it did not feel wrong either. Being a hidden stone was fun."
+
+"Tasty, juicy rabbits. They are never big enough anymore," Zhen lamented. "It is not the same being fake-small."
+
+"No, I suppose it isn't."
+
+Ling Qi looked out toward the curve of the road ahead where it turned to pass around the row of farmland on their left to return toward Shenglu.
+
+The past was gone. Zhengui's days of being small and near helpless were far behind him, but even that change came with good and bad. Time was. Change was. There was nothing more certain than the progress of time in the world.
+
+"Let's see if we can't make a new memory or two. Will you be free tomorrow, little brother?"
+
+"Yes, Big Sister!"
+
+***​
+
+Ling Qi inhaled deeply, smelling the heavy, history laden air on the other side of the rings. The weight of material reality dripped from her fingers and heels like droplets of water as she surfaced from the water, and beside her, Zhengui boiled from the earth, grass and stone flowing cherry red with heat.
+
+Her little brother groaned. "Gui's tummy feels funny." If he had a less stable gait, he might have wobbled drunkenly. "It feels even weirder than it used to…"
+
+"I, Zhen, can hardly feel my home. Hmph! I shall have to meditate a hundred times to improve my connection!"
+
+Ling Qi smiled faintly, but it faded as she looked around. This locus point, the reflection of the lunar shrine and her entrance into the realm of dream, floated as an island upon a vast, serene lake. Surrounded by mountains which scratched at the far distant sky, it was like a bowl, or perhaps a cradle. Here and there, the symbols of human life flickered like ghosts, fitful impressions on a sleepy, little touched landscape.
+
+To the south, dark clouds churned, and she also spotted columns of sickly sweet, rotten fog. A tower of dark iron shrouded in cawing crows and limned with rosy sunlight faced off against a many tiered pagoda with roof tiles of dragon scale and wreathed in crackling lightning. From where she stood, Ling Qi could hear the rumble of voices, unintelligible even to her ears, radiating from the confrontation.
+
+But she was not here for that battle. Nor was she here for the dark wood door frame which stood on her little island, the door to a gaol meant to be locked in circular time.
+
+"Not yet," she answered the scratchy question in the back of her mind.
+
+But soon.

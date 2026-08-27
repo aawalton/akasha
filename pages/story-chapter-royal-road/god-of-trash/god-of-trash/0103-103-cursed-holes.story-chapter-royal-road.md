@@ -1,0 +1,93 @@
+---
+id: 7e60a7ab-b158-5067-bc9a-454a2a6e6c2c
+page-type-slug: story-chapter-royal-road
+title: "103. Cursed Holes"
+slug: 0103-103-cursed-holes
+partOf: god-of-trash
+position: 103
+ownLength: 2393
+unit: words
+publishedAt: 2025-06-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2349126/103-cursed-holes"
+royalRoadId: "2349126"
+---
+
+Rhys plunged into the curse power. The curse power was dense enough to become a liquid, but it didn’t support him at all. He sunk straight down into the depths of the well. Curse power poured directly into his body, soaking into every pore and sliding through every vein, coiling into his core. It would have been insidious, but Rhys drank it up like a gamer sucking down toxic energy drinks. More, more. Give me more!
+
+His technique was the same. Compress, compress, compress, ignite. He drew out the potato plants and pulled out a new handful of tomato seeds to continue growing his crops whenever the vitality grew overwhelming, but his body was different now, and it took far more to overwhelm it. Down, down, down. The black liquid swirled around him, translucent enough that the sun could be seen overhead, but too murky to see the bottom. Rhys gazed straight down, as he condensed another golden orb in his core. There was something at the bottom of this well. The first bone he’d captured from the first rider trembled, as if it sensed its compatriot. Another piece of the same curse was at the bottom of this well.
+
+As he plunged, a thought wiggled at the back of Rhys’s mind. What if this curse was pieces of Straw? Immediately, he dismissed it. The timeline didn’t add up. Infinite Constellation School had been tossing garbage in the hole for far longer than Straw had been imprisoned, and that skeleton at the bottom, the one who had held the sunshine sword, he still possessed right now, too afraid to use it in fear it would shatter, had died a long, long time ago, presumably fighting the very same rider Rhys had vanquished. Plus, Straw wasn’t a rider, nor did the rider look anything like Straw or emit anything like the kind of pressure Straw let off.
+
+Still, he felt like the thought wasn’t far off. Maybe it wasn’t Straw, but a different Remnant Weapon. Some other cursed being built by the former demon king, torn apart and scattered over the lands.
+
+Was that Straw’s fate, then? Rhys frowned, worry creeping up from the back of his mind, but pushed it down. Straw was a Strawman, at the end of the day. Even if he was torn apart, he’d still survive the experience. Not only that, but the sensation he got from Straw, and the sensation he got from a fragment of this cursed being, were incomparable. Straw was… a weirdo, and sometimes he’d felt stranger danger around the guy, but ultimately, he was just a guy trying to live his life, who’d had an unfortunate history the Alliance couldn’t overlook. This curse felt actively malicious, as though, were it reformed, it would tear the Alliance down with its own two hands (and four hooves). Comparing the two, the relatively harmless Straw was probably just imprisoned somewhere—somewhere Ernesto could access, at that—whereas this one had been ripped to shreds and sealed away with extreme prejudice. To put it simply, Straw is like a red-colored numbered dog who’s valuable experimental material, and this rider is more like the dangerous silver-haired man who picked length over girth. Both could be considered ‘evil,’ from a certain perspective, or at least, ‘nonhuman,’ but one of them was actually a nice guy deep down, and the other one wanted to hijack the Planet for Jenova… or whatever.
+
+No, wherever Straw is, I bet he’s in one piece, Rhys decided, nodding. If he was wrong, at least now he knew to also look for a dismembered or pieced apart Straw. Damn, if they really did tear him apart… talk about a straw in a haybale. He shook his head. Hopefully they hadn’t torn Straw apart to, well, straw. Even if he spent the rest of his life looking, he wasn’t sure he could find all the bits of straw that went into a Strawman as large as Straw had become, when provoked. That thing had been massive. Bigger than the town they’d been in. He had to believe in Ernesto’s greed and desire to have the whole Straw here to study… that, and he wasn’t sure whether tearing Straw apart to absolute shreds would kill the man or not. Probably, right? Otherwise, what would constitute death for the construct? Burning and nothing else? It was the kind of hardiness that would let Straw survive the destruction of all the former demon king’s weapons, he supposed, but damn, what an impressive hardiness if so.
+
+I kind of doubt you have to go that far to kill him, but who knows? He already had vitality embedded in his cells and a body with high Self-Regeneration. If his skills kept scaling like this, he could very well see a distant future where someone had to crush his every cell to kill him. It was a distant future, to be sure, and he wasn’t sure Straw was that powerful… but it was possible.
+
+Guess I won’t discount that possibility, then.
+
+As he thought, he continued to suck in curse power and condense gold orbs in his core. He had the distant feeling that he was doing this whole magehood and levelling up thing wrong; he could recall a few novels that had this kind of power style, and he was pretty sure the protagonists had only made one gold orb, not lots of them, but it seemed to be working, so who was he to tell this world that its cultivation system was a little wonky? Besides, this was reality, and that was novels, so between the two, wasn’t this one the more likely one to be the ‘true’ answer?
+
+Or maybe this world’s just weird. All things were possible, after all. It wasn’t like he understood the basic mechanics that made magic tick. In the terms of his homeworld, he was doing chemistry, not physics, bashing together chemicals to see how they’d react without understanding the basic mechanics of how electrons moved from chemical to chemical during the reactions to form the new materials that came out the other side. And he certainly wasn’t doing mathematics, or figuring out the theoretical basis from which physics could be derived, though honestly, sometimes he kind of got close, like when he pondered the basis of trashiness or considered the deep implications of a new skill. One way or another, though, he definitely wasn’t doing physics.
+
+Rhys hit the bottom of the well. He stood there, sucking in curse power. From here, he could already see bones shivering up from the floor of the ground, taking the shape of the horse and rider once more. He lifted his hand, and the rider paused, taken aback.
+
+“Give me a moment, okay?” Rhys asked.
+
+The rider froze. Whether it was obeying him or not, Rhys didn’t hesitate. He sucked in powerfully. Curse power rushed into him from all directions. He compressed, then ignited it, compressed, then ignited. Another two balls took form in his core, and the last of the curse power drained away. He dusted off his hands, then drew his familiar broken sword and assumed a defensive stance. Lifting his free hand, he egged the rider on with a simple beckoning gesture.
+
+“Come on, big boy. I’ve got a hankering for bones, and only yours will do.” He paused. “No, that didn’t come out right. Let me try again.”
+
+The rider reared and charged, lifting a spear in one hand.
+
+Rhys sighed. He lifted his sword to meet the rider’s charge. “Fair enough.”
+
+The rider closed in. The horse’s hooves pounded the muddy earth, splashing up gunk as it ran. Rhys spread his legs and narrowed his eyes, holding his sword up, full of resolve. He’d meet this rider’s charge, or die trying!
+
+The second before the rider’s spear and his sword met, Rhys tossed a chunk of heavy metal at the rider and jumped to the side. The rider whiffed, racing on toward the wall, and the metal landed in its lap. Rhys stuck his tongue out at its back. Only idiots would try to meet a rider from the ground. He’d get thrown around like a chew toy if he tried to hold his ground.
+
+The rider grabbed the metal and held it up, meaning to throw it away. Rhys pointed. The chunk of metal became a heavy cauldron, and the rider slid to the side, almost falling off its horse.
+
+Yes! Rhys dashed in, running toward the side opposite the side the rider was falling off the horse. He jumped up and kicked the rider from this side, pushing it further off the horse. The rider fell sideways, thumping to the ground beside its horse. Rhys pinned it down and hammered it, just like he had on the stage with Bast, but this time, he hit harder, hammering the skeleton’s head. He didn’t use any tricks or traps, just his raw strength at his newly-gained Tier 3. The skeleton clawed at him, but it could only scrape his skin, and his empowered regeneration healed such shallow wounds in a few moments. Rhys kept hammering, until his knuckles started to ache and bleed. Those wounds didn’t heal immediately, too large and deep to close in a moment. The skeleton cracked, but didn’t break.
+
+The horse paced nearby, worried for its rider. It half-reared as if to kick or stop Rhys, but fell back, afraid it would also hit the rider.
+
+Rhys summoned the heaviest item from his storage ring, a block of stone that had been chipped off a cornerstone, and lifted it over his head. Activating Trash Intent, he slammed it down on the rider’s head, letting the weight of the cornerstone hammer into its skull.
+
+The skull cracked open. The light left the rider’s eyes, and it died.
+
+“Oh. Well, that was easy,” Rhys commented, deactivating Trash Intent. He frowned. The skeleton was dead, but it wasn’t melting away yet. Why not? Wasn’t that all it had taken to kill it last time?
+
+A rush of white from the corner of his eye. Rhys collapsed, falling flat, and barely dodged the horse’s hoof as it rushed by his head. The horse pounded over him, racing away over the muddy earth. It turned about, snorting in displeasure. Smoke coiled up from its nostrils as bright flames glowed in its eye sockets.
+
+“You too, huh?” Rhys asked, pushing himself to his feet. He strode forward, pulling out his sword again to point it toward the horse.
+
+The horse lowered its head. Snorting again, it charged. Mud flew, splattering its bony legs. It closed in on Rhys.
+
+Rhys threw out a dozen small objects from his storage ring, activating them at the last second. Stiff, sharp metal and sharp rocky implements materialized over the ground. It was remarkably easy to activate his Trash Intent over the group of objects, where previously he’d struggled to activate it on two; a clear mark of his progression in power.
+
+The horse dug in its hooves, struggling to stop before it collided with the objects. While it was still fighting to stop, Rhys dashed in, racing over the dropped objects with Trash Step. The horse jerked back, but it was too late. Rhys slashed, severing its relatively thin spine with his Trash Intent sword. The horse’s long neck and heavy skull crashed to the ground.
+
+This time, the rider and the horse both melted away. A single bone remained, half-sunken into the mud. He stepped forward, picking up the bone, and it instantly melted into his hand and reappeared in his core, next to the first bone he’d found. Rhys grinned. One step closer to whatever curse this was. A mount, probably, or maybe the ability to summon the horse and rider both? Either way, he was excited to see what came next.
+
+He looked around, hopeful. There’d been a secret room at the back of the previous well, hiding a skeletal warrior and his sunshine blade. Was this one the same?
+
+No cracks in the wall jumped out to him. Rhys frowned, furrowing his brows. He walked around the entire space, running his hand over the wall of the chamber. Like the first, the bottom of this well was larger than the top, with an elliptical chamber easily as large as a high school’s lunch room. Unlike the first, he found no break in the wall, no hidden chamber housing secret skeletons or awesome but fragile swords.
+
+Huh. Guess that wasn’t a common point across all wells? Rhys shrugged to himself. He’d only seen two wells so far, so it wasn’t a surprise that some things would be different between them. It wasn’t like he knew everything about the wells, after all.
+
+Abruptly, the ground lurched under his feet. Rhys swayed where he stood, then looked up. An earthquake?
+
+A clump of earth dropped toward him. He jumped back and barely dodged it before it slammed into the ground in front of him. The ground kept shaking, and more lumps fell off the walls overhead, crashing down toward Rhys.
+
+Rhys widened his eyes. Pushing off the ground, he jumped up, hopping from wall to wall. The well continued to shake, and more and more earth fell down toward him. Three jumps up, and he couldn’t jump any more. There was too much earth. He could only crawl up, jabbing his hand into the earthen wall to make a hold, then pull himself up again, as clods of earth and stone crashed against his head and shoulders. At last, sunlight loomed, flickering through the muddy lumps. He hauled himself out, only to find himself staring at a dark sky and a cold silver moon. Fire burned bright in the forest all around him, and beyond it, Purple Dawn was immolated, soaked in intense flame.
+
+A fleet of white warships, counter to the moon, followed one as black as the night overhead. A barked order echoed over the crackling flames, and fire as bright as the sun burst from their thousands of cannons. Lead, lit with brilliant magic, pounded into the walls of the fortress, sparking off blasts of blue as they hammered into the barriers around the academy.
+
+Rhys stared, still half sunk in the well as it fell apart all around him.
+
+It had begun.
+
+END BOOK 2

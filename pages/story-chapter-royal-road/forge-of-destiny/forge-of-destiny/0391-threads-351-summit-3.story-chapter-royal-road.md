@@ -1,0 +1,107 @@
+---
+id: 57333024-215f-5548-a250-3378a87db879
+page-type-slug: story-chapter-royal-road
+title: "Threads 351-Summit 3"
+slug: 0391-threads-351-summit-3
+partOf: forge-of-destiny
+position: 391
+ownLength: 2155
+unit: words
+publishedAt: 2023-12-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1440377/threads-351-summit-3"
+royalRoadId: "1440377"
+---
+
+Both titles, “Baroness” and “emissary,” had been ordered deliberately. Every word was a step in a dance. Gestures, expressions, tone, so many vectors communicating so much information. Ling Qi smiled and stepped forward as Cai Renxiang sat down.
+
+“It has been a pleasure growing to know the representatives here, short though our time may have been, and difficult as arrangements have been. When I first met Emissary Jaromila, the conditions were harsh indeed. One could not have blamed either of us for coming to blows then.” Ling Qi briefly lowered her chin toward Jaromila, but did not pause. “And yet, we did not. With chaos all around, with missiles and power flying, instead, we spoke, in however halting a manner. Now we are here, having spoken much more and with greater clarity. I am confident that we can continue this trend.”
+
+Ling Qi let her gaze pan around the table not focusing on any one person but allowing the impression of meeting everyone's eyes as she spoke. It was a bit bold of her given the age and cultivation of many on her side, but her position heading this negotiation allowed it, if barely.
+
+“There have been difficulties and disagreements in our short time together so far. But we have proven that Jaromila and I are not the only ones capable of reconciliation. No dispute has risen above what words can solve. Even when blows have been thrown, both peoples have been able to back down and cool our heads. We can do this. We can achieve a lasting point of contact between our peoples and continue to resolve our disputes thusly without the shedding of blood. It is my pleasure and honor to oversee this great undertaking and to bring all of you here. Let us speak candidly with one another and establish a peace which will see to the prosperity of both of our peoples.”
+
+Ling Qi stepped back, and Jaromila rose, the glittering threads of her mantle winking under the light of the runes and characters from above.
+
+“My counterpart’s words are both true and encouraging. The people of the White Sky have long been a land of crossroads. We finish the work of the harvesters in the west, we engineer the caravan trains which cross the western bogs, and we furnish the runed arms which gird the armies of the south. I do not yet know what we might do for you in the north, or what you might offer us in turn, but I do know that we will only benefit from finding out. Wherever humans gather, we quarrel and bicker, but civilized men and women, like us, rise above their baser natures and accomplish much.”
+
+A pillar of iron girded in fractal frost, seeking to hold up the sky. An unbreakable face presented to the howling wind. An iron spike driven into the cold earth to seal away the demons clawing up from beneath.
+
+There were a half dozen fuzzy images that she could not parse around the face Jaromila presented.
+
+“What has been done thus far shows me that there is much potential to be tapped and much to be built on the foundations we will lay here. I and the White Sky look forward to creating that together.”
+
+Jaromila curtseyed and retook her seat.
+
+It was Cao Chun who rose next, faceless, masked, barely a silhouette in his black robes. Even his voice was distorted by the formations in the mask, rendering it unidentifiable and cold.
+
+“This endeavor is is mostly without precedent. It attempts something only managed in far distant isles where leagues upon leagues of the sea presents an unsurpassable barrier to ill intentions. The Wall is wide, but not that wide. However, the south has ever been in turmoil. Its people cry for peace from burning fields and the sad ruins of family homes and freedom from the slaving, rapacious tribes of the high peaks. Let it not be said that the throne is deaf to these cries. So let us speak then, and see if there is a solution to be found.”
+
+Cao Chun was shrouded to her, all but invisible to her senses, and yet…
+
+Horror. A river filled with horrors. Broken bodies, broken minds, broken souls, the uncared for detritus of those who claimed to have a better way and who promised they were different. And yet, the river was contained, held in the high banks of the weathered old levy so painstakingly built on its shore.
+
+Well, he was hardly hiding that.
+
+He tilted his head stiffly in a tiny bow and took his seat. It was Inzha who rose next, her tall hat swaying and her veils fluttering with her breath.
+
+“All well spoken. We are the caretakers of the land, custodians of the world given unto us by our makers. It seems to me that any blood we may shed between each other would only see the demons and starspawn laugh. Our people are far from one another, yet this might not always be so. We must establish the tools of peace here and now before they are more sorely needed. I have seen the works of our peoples, and both have mastered the principles which underlie the world in much different ways. There is much to learn, if we may but find common ground.”
+
+Inzha was a cipher to her, a smiling woman speaking stridently for her people and cause and nothing more, only the slight impression of dancing numbers at the edge of her vision. Ling Qi’s gaze strayed to her husband, stocky Rostam with his guileless smile and weird furry hat. He was no different from his wife. There may have been the faint roll of drums if she listened very closely.
+
+Luo Jie stood next, the final speaker for the opening moments.
+
+“The Lady Emissary has the right of it. Some complain, saying that this is unnecessary and that we can ignore one another in splendid isolation.” The old man in his wolfskin cloak was hunched, leaning upon his stick. “I say this, it is better to make your preparations in spring and summer and resist the urge to play than to scramble for solutions when winter is biting at your heels. We are human. There will always be things to squabble over. Let us settle the matter now, and see that the other may keep their deals. The clans of the Emerald Seas stand with the south now. If there is a solution to their woes, a real one, then let us pursue it to the very end. If. This one will be pleased to be convinced.”
+
+Ancient hunter, canny and scarred, long lamed and slow in body for it. Nightmares killing venom flowing deep. Belief in a distant light, not yet fully faded.
+
+“But words alone are not the solution here. Words are needed, so, too, are oaths, but it is deeds and fulfilled contracts which make a foundation worth building on. If words alone are what comes of this, it will not be enough. So say the clans of the Emerald Seas.”
+
+Ling Qi waited until the old man had completely settled in his seat again before stepping forward again to speak.
+
+“I thank everyone for their words. We will now bring the first day of talks to session. The first item on the agenda is the establishment of a court of arbitration which might solve disputes between our peoples. I cede speakership to Lady Cai now, who will put forth our proposals on the matter. We will proceed as we have begun, alternating speakers to allow all the full time to express their positions.”
+
+Cai Renxiang spoke up from her seat, allowing Ling Qi to step back. “A matter of grave importance like the foundations of the law that will govern our interactions must be examined from every angle, and every party's concerns must be heard and addressed.”
+
+Ling Qi kept an ear open, listening to the technical words of her liege. This was Cai Renxiang’s battlefield, paper and ink, advocates and magistrates. Her specialty lay in a much more personal field. Everyone would take their turns here, but when a break was called for discussions, she would choose who she would seek to influence.
+
+“The first task necessary to establish a fair arbitration system will be educating one another on the intricacies of our respective legal codes, particularly those statutes and decrees regarding property and land. To do this, I propose that the Emerald Seas and the White Sky agree to assemble a panel of expert magistrates in the wake of this summit to refine what is agreed upon here…”
+
+Ling Qi listened absently to Cai Renxiang. She understood the gist of what Renxiang was going to angle for. The first proposal was for a mixed panel of judges from both polities, likely three due to how limited in number the legal scholars who would take such a position might be. The judges would have to agree unanimously on the outcome of a dispute. Another idea being floated was that one judge would oversee each case, but imperial and polar judges would be alternated between or chosen by blind lottery.
+
+“It seems to me that under the individual system, a judge will naturally favor their own people. How is this to be protected from?”
+
+“The panel system will merely deadlock and drag things out…”
+
+“Devotees of law who are of sufficient quality and advancement on their way will not be so intractable…”
+
+“It is their way that I am concerned over. This is different than adjudicating between provinces.”
+
+“Is it?”
+
+She let the conversations wash over her. Most of the talk was actually coming from the lesser functionaries arrayed around the table, the aides and assistants of the actual representatives, with those chiming in more rarely.
+
+Cao Chun was not silent, unlike many.
+
+“And what is to be done when an ‘affiliated’ tribe elects to exercise their nature and pillage our lands regardless of our treaties? Or being more generous, when even less controlled nomads use our laxity in allowing their cousins passage as cover to do so? How long must the victims wait for their restitution from this arbitration?”
+
+It was Inzha who answered him. “There are methods, identifications which can and will be distributed. While it is true that these methods are not foolproof and we will not impose truly invasive means that might be, but some system should be possible.”
+
+“Invasive, indeed. Do not think I do not understand the implication. I proposed nothing of the sort,” Cao Chun replied. “Nonetheless, it must be acknowledged that our security will be compromised and that there must be a faster response system for military means.”
+
+“It seems to me that your soldiers should talk to our soldiers for that.” Rostam peered out from under the heavy fur brim of his hat. “Ah, maybe we make a special guard to go with our special judges, no?”
+
+“We are wandering from the subject,” Cai Renxiang interjected. “The proposal to assign a policing arm to investigate claims in disputed regions is noted and tabled. The matter of affiliated tribes must be discussed however. Going forward…”
+
+The White Sky’s assimilation practices were very loose by imperial standards, but from what Ling Qi understood, tribes which agreed to come under the White Sky’s aegis did have their movements curtailed, or at least had to report their intended routes. She didn’t have the close details of that arrangement.
+
+Her own people viewed this suspiciously, of course. Dealing with what the Emerald Seas saw as the inevitable result of a White Sky-affiliated tribe preying on an Emerald Seas fief was thus another sticking point. Harsh penalties were wanted with minimal room to bypass or delay. In watching the speakers go back and forth, she had a feeling that the White Sky felt nettled by the implication to their word and honor. There was also concern that the Emerald Seas might abuse this and try to charge them for every cloud tribe raid.
+
+Neither was a truly unfair concern. Despite being more sympathetic than most to kinder border policy, Ling Qi did know that the cloud tribes had been raiding and attacking the Emerald Seas since before recorded history. She could no more convince her people that this was going to stop peacefully than she could convince them that the sun would fail to rise tomorrow. Similarly, the White Sky was right to worry about false claims and expedited judgements on the matter.
+
+Unfortunately, this meant that any successful resolution came down to being able to assuage feelings as much as any proposed solutions.
+
+“... We will call a thirty minute recess here to discuss the proposals and solutions made and to allow the delegates time to consider matters.”
+
+There were murmurs of assent from all around, and Ling Qi nodded.
+
+It was her turn now.

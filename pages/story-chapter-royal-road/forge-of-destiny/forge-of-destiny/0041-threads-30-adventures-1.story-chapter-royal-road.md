@@ -1,0 +1,125 @@
+---
+id: c692e98e-8389-57ab-8dbe-10694155eda0
+page-type-slug: story-chapter-royal-road
+title: "Threads 30 Adventures 1"
+slug: 0041-threads-30-adventures-1
+partOf: forge-of-destiny
+position: 41
+ownLength: 2065
+unit: words
+publishedAt: 2020-12-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607771/threads-30-adventures-1"
+royalRoadId: "607771"
+---
+
+It was a little unsettling, Ling Qi found, to be looking at herself from multiple angles. To study and analyze her own appearance and aura with supernatural precision. To see the hairs that were out of place, the imperfections in the subtle applications of her cosmetics, and the unsteadiness and minute errors in the flows of her qi.
+
+Yet turning those lines of visions outward, she couldn’t help but feel that it - and the work she had put in to clear some meridians for the art - was worth it. The silent broken stones of the dream grove stood all around, and she knew them perfectly. If she had to fight here, she was certain that she could navigate it exactly and could read the way the flow of natural qi here would affect her techniques or allow her to hide her own aura in plain sight, completely without thought.
+
+She understood Xin’s words to her better now. This was the basest root of personal divination, a perfect analysis of her immediate surroundings, such that it became obvious what would occur in the moments to come. Of course, she was alone, and so it was easy to feel like she had mastered the techniques of the Curious Diviner’s Eye art, but despite her prodigious progress in nearly mastering the art in a single week, she knew that the art was only the introduction to divination.
+
+She could know which leaf would fall next from the tree to her right with decent accuracy, but if she tried to predict the next action of the sparrow perched in its branches… Well, her success rate was still abysmal.
+
+“Big Sister, are you done sitting around playing with lights yet?” One of her points of vision swiveled to see Hanyi sitting atop a crumbling stump of a wall, kicking her legs in irritation. Ling Qi could not help but notice the snarls in her qi, clogging the meridians in her body related to motion and movement. “I’m pretty sure you’re supposed to be going to meet that weird guy now.”
+
+Ling Qi blinked, and the ‘eye’ constructs of her new art vanished in glittering light, collapsing her vision back to a single perspective. “Is it that late already?” she asked, squinting up at the cloudy sky.
+
+“It’s been hours,” Hanyi said with the sort of put-upon exasperation that only the young could manage.
+
+Ling Qi grimaced. She had only shifted her cultivation plans to prioritize the Curious Diviner’s Eye art because of Xuan Shi’s invitation in the first place; it would be embarrassing to miss her appointment because of her cultivation. She had been quite surprised a few nights ago to find the odd boy on her doorstep with a request, but he had helped her enough in the last year that she wasn’t going to refuse, even if the thing he wanted assistance with wasn’t an apparent trial site.
+
+“We should get moving then,” Ling Qi said. “Thank you, Hanyi.”
+
+“Of course,” the young girl preened at her thanks. “You’re gonna have to wake up that big doofus though.”
+
+“What happened to Zhengui?” Ling Qi asked curiously.
+
+“He ate and fell asleep,” Hanyi huffed. “See if I sing a bunch of deer to him again,” she grumbled darkly as she hopped off the wall to lead the way.
+
+Ling Qi chuckled. Of course it was something like that. With a thought, she gave Sixiang a mental nudge to stir them from their own cultivation. She got a blurry sort of response, something like “five more minutes” if translated into words. Ling Qi let out a huff. There were some things she would rather Sixiang not pick up from her.
+
+***
+
+With her spirits gathered up, she soon reached the place where Xuan Shi had asked her to meet him, near a ruined old road that wound a ways into the mountains. When she arrived, she found Xuan Shi leaning against one of the weathered distance markers, paging through a thin volume.
+
+“I hope I did not make you wait long,” Ling Qi said as she approached. She had chosen to travel on the ground to preserve qi and to make it easier for Hanyi to skip off and follow her for a while when she got tired of bantering with Zhengui in her head.
+
+The book snapped shut in his hands, and Xuan Shi straightened up, giving her a nod of greeting. “The baroness did not delay unduly,” he replied. “This one thanks you for your agreement.”
+
+“There is no need to call me that,” Ling Qi chided. “And I would hardly refuse a request like this. How did you find this place anyway?”
+
+Xuan Shi glanced to the side, tugging his hat down to cover his eyes. “... Study of a text may reveal many hidden things.”
+
+<How evasive,> Sixiang mused.
+
+Ling Qi narrowed her eyes, thinking back to the many times she had seen Xuan Shi in the Outer Sect archives. “Just what sort of text?” Ling Qi asked. “I might need to start reading more.”
+
+“This one discovered a cipher within a certain series of novels. The final volume was filed among the shelves of the Inner Sect,” Xuan Shi answered after a moment.
+
+“Huh. I never would have guessed,” she said, bemused. “Do you mean those books I saw you reading in the archive last year? Why would they have a cipher leading to a place here?”
+
+“In the days before the Great Sects, the author resided here when not voyaging himself.” She could detect a hint of excitement in the boy’s tone as he began to speak on the subject. “This one sought out placement in this Sect for that purpose.”
+
+“So you figured out the cipher before you ever came here?” she asked. She supposed that Xuan Shi really was a smart guy.
+
+“Yes. Though the goal remained shrouded, the path, of course, intrigued this one,” Xuan Shi agreed, perhaps a bit too quickly.
+
+“You’re a bad liar, mister,” Hanyi said, emerging from the trees behind Ling Qi. She then shot Ling Qi a dirty look. “Big Sister is mean, walking so fast on her stupid long legs.”
+
+Ling Qi shot her a cheeky grin, which earned her a frustrated huff, but in her head, Zhengui said suspiciously, <Yeah, why is he lying? Big Sister, you should be careful.>
+
+Ling Qi rather doubted it was a dangerous lie, and she really did need to look into why Zhengui always seemed so snappish around Xuan Shi. However, Hanyi wasn’t wrong. She gave Xuan Shi an expectant look all the same.
+
+He sighed. “This one merely wished to read the final two volumes, which were archived within the Sect alone.”
+
+That was kind of a silly reason, but it was hardly the worst reason ever. Even if it was weird to imagine caring so much about a book as to travel all the way across the Empire to get at it.
+
+“We had better get going then,” she said instead of voicing her thoughts
+
+“Indeed,” he said, seeming relieved. “Adventure awaits.”
+
+The odd boy’s barely concealed eagerness was kind of infectious.
+
+***
+
+The path was not a long one.
+
+Ling Qi followed Xuan Shi down the winding remains of the ruined road into a tiny vale between two large peaks. The road soon came to run beside a tiny stream which bore the signs of having been a greater flow in the past. At the bottom of the vale, the road reached its end in a crumbling structure of stone.
+
+At a first glance, Ling Qi had been unimpressed, thinking the old ruin to be their destination, but it quickly became clear that it wasn’t. Old but well maintained flows of qi radiated through earth and stone, forming the shapes of a complex array that once she noticed, she could not fail to see running through the entire vale.
+
+“So, what’s the trick?” Ling Qi asked as they strode into a crumbling hall, the faint light of afternoon streaming through the holes in the rooftop. Xuan Shi still seemed confident and showed no sign of needing aid, so she restrained herself from using techniques for now, but she was curious as to what this huge array could be for.
+
+“The appearance of destitution deflects avarice, but the ruin is merely the door,” Xuan Shi explained, words punctuated by the tapping of his staff on stone.
+
+As they reached the end of the hall, he swept the staff out and tapped a handful of stones in sequence, and the wall faded away before her eyes, the thick qi of earth and stone dispersing and transforming into the qi of air and wind. Beyond lay a flight of stairs that, if the building was as it appeared, would have led up into open air.
+
+Mounting the stairs, they came instead to a high ceilinged room, although a great skylight in its center allowed light to enter. Here, the floor was paved with incongruously well maintained tiling, the jade gleaming as if it had been newly placed. For all their polish though, the tiles were arranged chaotically without any thought for aesthetics. Ling Qi narrowed her eyes, reading the lingering qi in the stone.
+
+“It’s a big puzzle,” Ling Qi said, bemused. The floor was grooved such that the tiles could be slid around into new positions using two empty tiles, but what was the goal?
+
+“One which this one knows the solution to and has completed before,” Xuan Shi agreed. “The colors present are those of the voyaging hero’s ship. The way does not remain open however. Miss Ling, this one will have to ask that you follow instruction.”
+
+<I think I like whoever built this place,> Sixiang said, amused.
+
+“Ling Qi is fine,” she said absently. “Alright, just tell me what to do.” It would take much longer with only one person sliding tiles.
+
+With Xuan Shi already knowing the solution, it didn’t take too long to move the tiles, making them form, instead of a chaotic mess, a striped pattern with an eight-pointed white star at its center. The moment the last tile clicked into place, a flash of qi ran through the puzzle and mist boiled up from the star in a roiling column only to quickly slow and flow into a coherent shape. Stairs formed of cloud and mist now rose in the center of the room, rising up to the skylight.
+
+“Is there any reason why we couldn’t have just flown up there?” Ling Qi asked.
+
+Xuan Shi gave her a mildly aggrieved look. “Without the stair, you would only exit the ruin.”
+
+<Tch, how annoying,> Hanyi grumbled in her head.
+
+<Big Sister, we won’t be able to help you in the sky,> Zhengui added worriedly.
+
+If need be, she could always ride Zhengui back to earth, she thought, which seemed to mollify him as she began to mount the stairs beside Xuan Shi. The cloud felt odd. It was as solid as stone but also slightly springy and smooth as silk. As they passed through the skylight, Ling Qi found herself in a brightly lit room seemingly carved from clouds as well. Before them was a stone gate, and in its center, rather than a latch or a lock, was the symbol of Yin and Yang with circular arrays the size of a hand where the small circles of color would normally be.
+
+“This is why you invited me, huh?” Ling Qi asked.
+
+“The way will open only for a man and a woman together,” Xuan Shi agreed, stepping toward the gate. “This one does not understand the purpose of such a lock, but perhaps it will be explained beyond.”
+
+Ling Qi eyed the symbol, briefly scanning it for any hostile-seeming characters, but it seemed like a fairly standard locking formation, just with a weird key condition. She saw no connecting characters that might set off some other effect, and she was fairly sure Xuan Shi would have already checked more carefully than she could.
+
+Stepping forward, Ling Qi raised her hand and placed it in the array on the Yin side of the formation, while Xuan Shi did the same with the Yang side. The arrays lit up as they both laid their palms flat against the gate, and then, with a grinding groan, the gates opened inward.

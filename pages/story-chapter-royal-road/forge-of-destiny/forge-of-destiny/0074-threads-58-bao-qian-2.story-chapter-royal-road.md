@@ -1,0 +1,149 @@
+---
+id: 8c647635-f858-5050-8ef3-0af83e484e7f
+page-type-slug: story-chapter-royal-road
+title: "Threads 58-Bao Qian 2"
+slug: 0074-threads-58-bao-qian-2
+partOf: forge-of-destiny
+position: 74
+ownLength: 2262
+unit: words
+publishedAt: 2021-03-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/642641/threads-58-bao-qian-2"
+royalRoadId: "642641"
+---
+
+The days passed quickly with Ling Qi splitting her time between home, cultivation, and time with her spirits. She spoke with her mother about the trip, and the lessening of the older woman’s worry when she spoke of going along with her friend as well as the Bao scion made her feel better about her somewhat selfish choice. Zhengui was happy to come along anywhere she went, and Hanyi was just glad to get the opportunity to get away from the mountain.
+
+As a result, when the day of the meeting came, she was actually the first to reach their departure point since it was not far from the hill set aside for Zhengui. Of course, while she was glad that her spirits were eager, there were definitely some downsides to this.
+
+“So, how cute is this Bao guy anyway, Big Sis?” Hanyi chirped cheerfully. She sat on the outer ridge of Zhengui’s shell, idly kicking her bare feet.
+
+“It isn’t really appropriate to talk about that kind of thing when we’re in company, Hanyi,” Ling Qi replied tiredly, deflecting the question as she had numerous other inquiries of similar quality.
+
+“Which is why I’m asking before they get here,” Hanyi complained, giving her a pout. “C’mooooon, just tell me.”
+
+“Hanyi should stop pestering Big Sister,” Gui said gamely, his voice rumbling up from beneath them.
+
+“Who asked you?” Hanyi retorted, thumping her fist on the back of his shell. “Zhen, you’re curious too, right?”
+
+“I, Zhen, am only concerned over whether the Bao man needs biting or not,” her little brother’s serpentine hissed imperiously.
+
+“Please don’t,” Ling Qi said flatly, tilting her head to give him a reproving look. “Hanyi, we’re just doing business. There’s no reason to worry about things like that.”
+
+“If you’re gonna think like that, there won’t be,” Hanyi huffed, crossing her arms. “Big Sis lets opportunities pass too easily! You’re gonna end up like Miss Qingshe with just this big doofy son to keep you company.”
+
+“Where in the world did that girl learn such sass from?” Sixiang chuckled.
+
+Ling Qi thought that she would be doing quite well to end up like Qingshe, the powerful sixth realm and mother to the river dragon Heizui she had challenged last year. “Just be good, Hanyi. I can sense him approaching, so you can judge for yourself in a moment.”
+
+Hanyi swatted away her hand as Ling Qi tousled her hair and stuck out her tongue one last time before putting on a more dignified expression. Let it not be said that Hanyi had not grown up at least a little. She could be serious if she knew it was important to Ling Qi.
+
+Bao Qian emerged into the artificial clearing that Zhengui had made for them only a few minutes later. His eyes were on the ground, examining the churned soil and fragments of wood, charcoal, and ash left behind from Zhengui’s little snack. He looked much the same as he had at their previous meeting, save for the rather massive pack hefted onto his broad shoulders. He was also not alone. At his side trundled a spirit beast with a rather potent aura.
+
+It, or rather she from the feel of things, took the shape of a badger and stood about a meter and a half high at the shoulder. The spirit beast’s thick fur had a shimmering, metallic look to it, silver and black gleaming in the early morning light. Its claws, a sharp black diamond, looked much like the ones Shen Hu generated in a fight. The beast regarded her steadily with bright red eyes, and she felt the tingle of assessing qi pass over her as it did. The badger let out a low whuffing sound and nudged its shoulder against Bao Qian’s side, causing his gaze to snap up from the ground.
+
+“Ah, Miss Ling! Ready bright and early, I see,” he greeted cheerfully, rolling his shoulders to adjust his pack. “And these must be your spirit companions.”
+
+“This is Zhengui, and next to me is Hanyi,” Ling Qi introduced, gesturing to each of them in turn. “You brought a companion as well.”
+
+“So I did,” Bao Qian said agreeably. “Say hello, Yinshi.”
+
+“‘Lo,” the beast said disinterestedly, pawing at the soil. Her diamond claws sliced through broken fragments of wood and plant matter as if they weren’t there, stirring the soil.
+
+“Hiya!” Hanyi greeted cutely, giving Bao Qian an obvious assessing look.
+
+“Hello!” Gui greeted with some cheer, poking his head out of his shell to look down at them. “I’m sorry if you were hungry too! I already finished eating.”
+
+The badger looked from the soil and snorted. “Not a problem, kid.”
+
+“We are not a ‘kid.’ We are Zhengui,” Zhen hissed proudly.
+
+The smaller spirit beast met Zhen’s imperious gaze and pawed casually at her snout, brushing a streak of ash from her gleaming fur. “You sure are,” she said blandly.
+
+Zhen narrowed his eyes, trying to work out if he had been insulted, and Ling Qi rested a quieting hand on his scales. “Is there something interesting about the ground around these parts?” she asked, steering the conversation away from the potential disagreement.
+
+“It’s because Gui is such a messy eater,” Hanyi sniffed daintily. “He should clean up better.”
+
+“I simply noticed a change in soil quality when we neared this place,” Bao Qian cut in. “I was distracted in my approach, so I will apologize.”
+
+“It’s nothing. I was just curious about what had drawn your attention,” Ling Qi replied.
+
+“Your companion seems to have a highly vitalizing effect on the earth. It is one of the things I suspected could be turned to a profit about you, and it seems I was correct. If the effect can be distilled, we will have a tidy seed business on our hands,” Bao Qian explained.
+
+“Is that so,” Ling Qi said, not quite sure she liked how he had put that.
+
+<Don’t jump to conclusions now,> Sixiang warned.
+
+“Oh yes,” Bao Qian continued. He didn’t miss a beat, but she could tell that he had noticed the cooling of her tone. “One way or another, I shall be staying in the south, and I hope that we can establish a mutually profitable friendship.”
+
+Ling Qi could read between the lines of his words well enough. She allowed herself to relax fractionally. It was remarkably blunt for how such things went, but if that was how he wished to approach things, she wouldn’t complain. As she opened her mouth to respond, she sensed Li Suyin approaching. Peering through the trees, she spied her friend, and her expression turned dull.
+
+Li Suyin sat in the shade of a covered sedan chair. Carved from deep red wood, it was open in the front with an awning of white silk jutting out of the front. The whole thing was born upon the shoulders of her skeletal guardians. Bear and boar had both received a serious overhaul since she had seen them last. The spider silk wrapping them was now stretched over something, giving them the impression of moving musculature, and their empty eye sockets had been fitted with fiery rubies that glowed with inner light. Their metal armor had been replaced with plates of thick spiky black chitin inlaid with etchings of powdered jade that glowed with qi.
+
+“Li Suyin,” Ling Qi sighed aloud despite herself. That girl. She had to know what she looked like, right?
+
+“I see cousin Qingling has had quite an influence,” Bao Qian said a touch blandly as he followed her gaze.
+
+She almost missed Du Feng floating at Suyin’s side, seated upon a colorfully woven carpet that hovered about a meter above the ground. Ling Qi vaguely recalled seeing a flying carpet at the crafting competition last year; so Du Feng was that crafter. He was seemingly unbothered by the macabre trappings of Suyin’s conveyance or at least he was very good at hiding it if he was.
+
+“What are you two talking about?” Hanyi asked, clearly displeased to be left out of the conversation.
+
+“Big Sister’s friend is almost here. Hanyi would know if she paid attention,” Gui said smugly as he stood up, dust and ash raining down from the bottom of his shell as he lifted himself from the ground.
+
+Hanyi shot him a dirty look but didn’t reply. Ling Qi let herself glance at her spirits in amusement before returning her attention to Bao Qian. “How did she end up so different from the rest of you anyway?”
+
+“I’ll not air my cousin’s secrets,” he replied. The debris raised by Zhengui’s movement flowed around him and his spirit as if they were surrounded by an invisible barrier. “Rough mien or no, cousin Qingling is still a Bao in heart and spirit.”
+
+Ling Qi hummed to herself and dipped her head. “That was a rude question. My apologies.” It had been too off the cuff; she was still working on balancing formality and casualness.
+
+“I’ll not take offense if you forgive me for the slight I gave earlier,” he said cheerfully. “Do we have a bargain?”
+
+“I suppose so,” Ling Qi replied, bemused.
+
+Their conversation went no further as Li Suyin and Du Feng arrived on their conveyances.
+
+“Good day, Miss Li, Sir Du!” Bao Qian called, raising his hand to wave as they entered the clearing. Ling Qi smiled and raised a hand to wave to her friend.
+
+“Hello, Sir Bao, Ling Qi,” Li Suyin greeted, leaning forward in the padded chair held aloft by her guardians. “I hope my preparations will be sufficient to keep up on the journey ahead.”
+
+“You should not underestimate your designs so, Li Suyin,” Du Feng said.
+
+“Don’t worry. We’re hardly in a hurry here,” Ling Qi reassured her, even as Hanyi nudged her in the side with her elbow.
+
+“How come we don’t have comfy seats?” Hanyi asked quietly.
+
+“Zhengui’s shell is good enough for both of us,” Ling Qi chided, turning her attention back to the others.
+
+“... the porters you have here. I hope you are not going through too much expense to keep them powered during the trip,” Bao Qian addressed Li Suyin.
+
+“Oh no, please do not concern yourself,” Li Suyin reassured him. “I am powering these two through my own qi right now. Unless we have to fight, it will be fine.”
+
+“Well, if that’s so, there is no problem,” Bao Qian chuckled. “Still, these are impressive constructs. Do you still work with such things, Miss Ling? I seem to recall hearing that you made use of something similar in your tournament matches.”
+
+“Ling Qi is quite skilled at formations when she applies herself,” Li Suyin said, giving her an encouraging smile. “She picks up the principles very easily compared to myself.”
+
+<So much for using her to deflect attention, huh?> Sixiang mused.
+
+“It is nothing so great,” Ling Qi said hastily. “It was only Li Suyin’s help that allowed me to make something so useful. Formation crafting is something I am only an amateur in. I have not had the time to tinker with it at all since the tournament.”
+
+“Even so, it is quite a skill to develop such a thing after only a year of work. It would be a shame to let such a talent wither on the vine,” Bao Qian said.
+
+“You praise me too much,” Ling Qi demurred. “Perhaps when I have settled other matters. Ah, actually, what you have is pretty impressive as well, Du Feng. Flight is very difficult below the fourth realm, is it not?”
+
+Du Feng looked surprised at her swift change of subject and compliment. “No, I cannot claim such a feat, Miss Ling,” he replied. “While I am proud of my work, it is not a true flight. The carpet can only hover and move in relation to the ground. It cannot rise any higher than this or maneuver in three dimensions as your dress can.”
+
+“You are too hard on yourself, Sir Du,” Bao Qian said. “As you mentioned to Li Suyin, you should not downplay your talents so easily as well.”
+
+“Are we going to go soon?” Zhen asked, a bit of childish boredom audible in his tone. “Lazy Gui will fall asleep soon, I think.”
+
+“I am not sleepy. Do not use me as an excuse,” Gui complained.
+
+“I agree with the kid. Too much word grooming going on,” Bao Qian’s own beast grumbled. “Walk and talk.”
+
+She almost missed the grimace and look of long suffering Bao Qian shot at his spirit beast in the moment before he clapped his hands. “A fair point. Shall we be off then?”
+
+Despite the awkward moment, they were soon off.
+
+Unlike Bao Qian and herself, Li Suyin and Du Feng did not have any spirit beasts along. Suyin’s Zhenli was staying at her workshop to oversee projects and Du Feng had not bound one. Ling Qi remained atop Zhengui’s shell, seated just behind his head while Bao Qian joined the others in using a talisman for conveyance, a conical platform a meter across at its base seemingly carved from a single piece of dark forest green jade. His spirit beast Linshi slipped into the earth like a fish into water and remained visible only through occasional ripples in the dirt as they travelled.
+
+Conversation continued as they went. For her part, Ling Qi tried to steer the conversation toward Zhengui and matters of profit. She wanted to learn more about Bao Qian’s intentions and plans in the south.

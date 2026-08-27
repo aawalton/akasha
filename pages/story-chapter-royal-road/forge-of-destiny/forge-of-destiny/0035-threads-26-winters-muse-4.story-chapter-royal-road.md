@@ -1,0 +1,191 @@
+---
+id: 39fb81a3-8106-5507-b114-0b4e0386de92
+page-type-slug: story-chapter-royal-road
+title: "Threads 26 Winters Muse 4"
+slug: 0035-threads-26-winters-muse-4
+partOf: forge-of-destiny
+position: 35
+ownLength: 3661
+unit: words
+publishedAt: 2020-12-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/603295/threads-26-winters-muse-4"
+royalRoadId: "603295"
+---
+
+“Well, you’ve had quite an ordeal, haven’t you?” Xin asked rhetorically with a sigh, withdrawing her faintly glowing hand from Ling Qi’s forehead. “The entropic qi still left in your channels is assimilating nicely.”
+
+Ling Qi wasn’t entirely sure what “entropic” meant, but it seemed to resonate oddly in her ears. Given context, it was some form of toxic qi. She was just glad for the examination to be over. Xin stood over Ling Qi, who sat upon a treatment table in one of the Medicine Hall’s many rooms. Xin wore the same oddly patterned red and blue gown she had been wearing when they met long ago in Elder Zhou’s test. The spirit's silver hair hung loose at her shoulders this time, giving a slight impression of dishevelment.
+
+Ling Qi nodded shallowly, glancing down at Hanyi, who had fallen asleep half-lying across her lap. Given everything that had happened, she couldn’t blame the girl. It made her wonder just how many human-like quirks the young spirit might have. “I hope I didn’t cause the Sect too much trouble,” Ling Qi said in a small voice.
+
+It was only after she had descended that she had seen the effects of her tribulation on the surroundings. White Cloud Mountain was buried in snow, and even with the storm dying down, trees had been torn from the earth by howling winds. Things in the Outer Sect were, in general, a bit of a mess. She had not missed the vein pulsing in Elder Jiao’s temple when he had appeared to whisk her and Hanyi off to the Medicine Hall.
+
+“We had expected something of the sort to be occurring soon,” Xin soothed, glancing down at the tablet of jade in her hands. The recording device vanished with a flick of her wrist. “Elder Ying made preparations, so the damage was limited to the mountain.”
+
+Ling Qi let out a sigh of relief. She had worried that she might have endangered the mortals in the town at the base of the mountain and by extension, her mother and her little sister. “Will the Outer Sect be…?”
+
+“We are treating it as a bit of an impromptu trial, and we have rewarded a few disciples for their decisive actions during the storm,” Xin replied with a thread of amusement, turning to pace away.
+
+Ling Qi felt her fists clench, her knuckles growing white. “How can you be cheerful? Wasn’t Zeqing your friend too?”
+
+Silence answered her, and Ling Qi swallowed faintly as she raised her eyes. She really needed to stop forgetting herself in front of elders and powerful spirits.
+
+Xin’s expression was not angry though; there was only a touch of sorrow in her red eyes.”This was the best path available for my friend. Why should I not be cheerful?” she asked, crossing her arms under her chest as she met Ling Qi’s gaze challengingly.
+
+“I’m sorry. It’s just - you can read the future, right? I’ve been studying some divination, so I know that’s the New Moon’s purview, and…” Ling Qi hunched her shoulders. “Was there really no better way to do this?”
+
+Xin sighed, leaning back against one of the cupboards full of medicinal supplies that lined the room. “There is divination, and there is divination, Ling Qi. Clairvoyance and its related disciplines are both the simplest and most reliable. Object reading and postcognition are relatively simple as well given a reasonable proximity to the present. Future sight, or even prediction, is not so easy nor so simple.”
+
+Ling Qi nodded, taking the gentle rebuke for what it was. “But you did say this was the best outcome.”
+
+Xin cracked a wan smile. “Peering into the future stretches a human-compatible mind to its limits. It’s true enough that battle precognition can be reliable, presuming the enemy does not counter or obfuscate your sight. Peering forward a second or two into your immediate surroundings involves a mere few million relevant factors after all. I might manage as much as a minute, barring interference. Beyond that, however… That is the realm of my greater self. For those of us in the material realm, we must be content with clearsightedly seeking our objectives.”
+
+“There wasn’t any way for Zeqing and Hanyi to continue the way they had forever then,” Ling Qi said, brushing her fingers through Hanyi’s hair.
+
+“Yes,” Xin replied sadly. “Your appearance is what gave me the opportunity to help my friend. It worked as well as could be expected for everyone involved.”
+
+Ling Qi wondered if she should feel resentful at the manipulation, but she quickly dismissed the notion. That Xin could more clearly see the outcomes of her actions did not change her character.
+
+“If it makes you feel any better, as I understand it, predicting the future is just a matter of gambling with the odds visible,” Sixiang murmured.
+
+“As my nibling said. Though a wise diviner knows how to weight the die, as it were,” Xin said with a slight smile. “But in the end, the world is not a xiangqi board. The pieces move themselves, and there are no players. No diviner can have full certainty in their predictions, and the belief that one can has led many to ruin.”
+
+***
+
+Ling Qi thought on those words many times in the days that followed. The implications of divination were not something she had thought deeply on before, but with her plans to cultivate the Curious Diviner’s Eye art, it seemed relevant.
+
+<Big Sister, that scary girl is still following us. Are you sure we shouldn’t try to get rid of her?> Hanyi asked in her head.
+
+<I gotta agree with the squirt,> Sixiang agreed. <Uh, if we mean losing her, anyway. I don’t think we wanna pick that fight yet.>
+
+Ling Qi grimaced. Ever since she had departed Elder Heng’s lessons, Sun Liling had been trailing after her at the edges of her senses. The hostility and bloodlust leaking from the girl was just enough to put her on edge and keep her there, something she couldn’t help but feel the girl was doing on purpose. It confused her though. They had not interacted since the tournament. She had seen neither hide nor hair of the girl in months, so why start stalking her now?
+
+Ling Qi strongly considered taking her spirit's advice and simply flying off the path and vanishing from the Sect’s beaten paths. However, something in her rebelled at that. She had every right to walk the Sect’s paths. She should be able to go and visit her friends without having to duck and hide and skulk.
+
+With that thought in mind, Ling Qi turned on her heel and put on a polite smile as she began to walk toward the place she could feel the other girl lurking. For a moment, the faint feeling of Sun Liling’s qi wavered, but it rapidly stilled. The other girl could hardly give the impression of running away.
+
+Very soon, she turned down the mountain path and brought the other girl into sight. Sun Liling sat cross-legged atop one of the trail markers, looking out over the sheer cliff below and looking for all the world like she wasn’t paying her any attention at all.
+
+“Princess Sun,” Ling Qi greeted politely, coming to a stop a distance away. “I couldn’t help but notice that you seemed to be seeking me. May I help you with something?”
+
+Sun Liling glanced at her without bothering to turn her head. “Hmm. Paranoia’s not a good look. No reason to get worked up about someone walkin’ the same direction as you. I was just lookin’ for a good meditation spot.”
+
+Ling Qi restrained a scowl, but there was no point in arguing with the other girl.
+
+<How come? She’s obviously lying,> Hanyi said guilelessly in her thoughts. <Does she think you’re dumb? Big Sister should beat her up.>
+
+Ling Qi sent a silent thanks to Sixiang as the spirit pulled Hanyi deeper into her dantian to explain. “My apologies then,” she said sweetly. “If I might be a little rude, princess, you might wish to talk to someone about your troubles if they’ve affected your restraint so badly.”
+
+Sun Liling shot her a withering look. “Well, thanks much,” she said in a voice as dry as a desert. “Let me give ya a little advice in return, little doggie. Your mistress is gonna have some real trouble in the future. You both made some real bad choices last year.”
+
+“Is that so,” Ling Qi said blandly. “I’m sorry, Princess Sun. I must be misunderstanding because that almost sounded like a threat.”
+
+“You’re forgiven,” the redhead replied with a smirk. “Just informing ya, opening borders with the Bai… It’s just asking for trouble, you know? They’re pretty bad at policing their domain. It just hurts my poor heart to think of those Emerald Seas folks living near the border.”
+
+Ling Qi narrowed her eyes. “Are you certain you weren’t seeking me out, Princess Sun? That seems oddly specific.”
+
+“Hm, maybe I was? You know how it is. Little stuff can slip the mind.” Sun Liling shrugged. “Go ahead and run along then.”
+
+Ling Qi restrained the urge to grind her teeth at the flippant dismissal. Instead, she simply turned away. If Sun Liling had so openly stated something, then the information wasn’t valuable. She supposed it wasn’t exactly a secret that the Sun family would not be taking their humiliation at the New Year’s Tournament lying down.
+
+Aside from informing Cai Renxiang, there was nothing to do about it for the moment. While things remained peaceful, she could only keep pursuing her goals.
+
+***
+
+Ling Qi restrained the urge to sigh as she strolled down the street that led to her mother’s - no, their family's - temporary home. She was still unused to the way visiting the mortal town at the base of the mountain felt now. It did not help that the uncomfortable things about it were only growing more so. The part of the town she walked through now was near the wealthy center of the town. The governor's manor and the main temple were only a turn or two away, and she had just passed the town’s office of the Ministry of Law. The homes here were owned by wealthy business owners, noble visitors, Sect members, and the town’s highest officials.
+
+A bit over a year ago, she would have received a beating just for walking down a street like this on the assumption that she was there with ill intentions. Now, patrol officers and house guards alike straightened up at her passage, straining to appear at the peak of attention and dutifulness. People in the streets discreetly made way for her or offered murmured greetings of respect. It still felt surreal.
+
+Her discomfort was only made worse by how fragile everything around her felt. She spent almost all of her time with her peers in cultivation, so these trips into town always felt almost disorienting. She had come to rely on the senses afforded by her cultivation. To see the people around her so lifeless and dark with barely a spark of active qi and aura to differentiate them from stones and pots... It felt like she had walked into a world where all the color and sound had drained away.
+
+<It’s not like they’re not really there though,> Sixiang said quietly. <If you bother to look closer, you can still see the things that make them people. They’re just not as loud as you cultivators.>
+
+Ling Qi accepted the light chiding. Sixiang was right, of course. If she actually paid attention, she could still easily read the little stories told by mortal auras. For all of their low magnitude, they were actually much clearer than her peers’ auras, whose intentions and thoughts were much more well cloaked, presenting only broad themes to casual inspection.
+
+<Are you sure I can’t walk next to you, Big Sister?> Hanyi interjected, complaining.
+
+<You can come out when we reach the house,> Ling Qi thought calmly. Being here in public amongst mortals was an exercise in self-restraint, of shutting down the passive effects of her qi as much as possible. It felt like shoving herself into a dress that was three sizes too small. She didn’t understand how elders, who had so very much more to repress, could manage it. She wasn’t even doing it perfectly at the moment. She saw the minute twitches in the postures of passersby as they heard the faint sound of music and the faint shivers of those who passed nearby. She could probably suppress the feeling entirely if she chose to exercise her stealth skills, but then she would have to deal with people literally not noticing her physical presence and avoiding the security formations meant to look out for that kind of thing.
+
+Ling Qi let out an internal sigh of relief as the gates of the house came into view. She swept past the Sect guard at the gate without a word, a brief press of her hand momentarily disabling the lock on the door.
+
+She could feel many unfamiliar presences inside, moving about. Usually, she visited in the evening after the household had mostly been dismissed or gone to sleep. This time, though, as she stepped inside, she found herself briefly coming face-to-face with a young mortal woman a few years her elder in drab but clean and well-kempt clothing. Ling Qi saw almost in slow motion as the young woman’s eyes widened in first surprise then alarm. She saw the way that the mortal’s grip on the bamboo broom in her hands grew tight enough to whiten her knuckles and the way her eyes darted to and fro, noting with alarm the parts of the path which were still unswept.
+
+Of course, that all happened in a split second. By the time the gate had clicked shut behind her, the young woman had stepped out of her path and bowed low, murmuring a quiet “Lady Ling.” Ling Qi was just as glad that the young woman had not gone for a full kowtow. She had seen the consideration pass through the woman’s body language.
+
+“You may raise your head,” Ling Qi said. It would probably be less alarming to the mortal if she just kept to a polite distance. She glanced toward the house, pinpointing the presences of her mother and sister as she stepped past the young woman, eager to put the awkwardness behind her.
+
+She ignored the sigh of relief she heard from behind her as she stepped up to the door. The scene repeated itself with another housekeeper, busy with polishing floors in a side hall, but the awkwardness vanished from Ling Qi’s thoughts a moment later. She felt her little sister’s qi move first, and the little girl ran around the corner, almost taking a spill on the polished floors. Almost, because Ling Qi had moved without thought, flickering down the length of the hall to catch her younger sister in her arms before Biyu could faceplant on the floor.
+
+“Hey, careful now,” she chided, scooping the girl up in her arms as she stood. “You shouldn’t run in the house.”
+
+Biyu squirmed in her grasp until she could look up at Ling Qi with a bright smile. “Wanted to see Sis-y.”
+
+“Oh? How did you know I was coming?” Ling Qi asked absently, feeling another presence coming from around the corner Biyu had come from.
+
+“Heard the song!” her little sister declared enthusiastically.
+
+<Sheesh, she’s all little and squishy. Are you sure that she’s your sister, Big Sister?> Hanyi asked.
+
+<She is, and you need to be nice to her,> Ling Qi thought to Hanyi. Out loud, she grinned down at her little sister. “That’s no excuse. Walk next time.”
+
+As Biyu agreed in that reluctant way children had, the presence approaching arrived. A woman her mother’s age but a fair bit more stout in build came puffing around the corner. “Ling Biyu, what have your mother and I said about…”
+
+Ling Qi felt the awkwardness return as the woman met Ling Qi’s eyes, and her lined face almost went slack. “Lady Ling, my deepest apologies. Young Biyu slipped my grasp for but a moment, and…”
+
+Ling Qi held back a grimace as the older woman bowed deeply once and then again as she apologized. “There is nothing to apologize for,” she said, doing her best to sound calm and soothing. “You can take a break though. I will take care of Biyu for the moment.”
+
+She read the relief in the woman’s expression as she straightened up, but she also noticed the hesitation in her body language. It occurred to her that she was probably disrupting her mother’s scheduling and orders. She would have to talk about that with her mother later. For now though, it was best to keep rolling with it. She met the woman’s gaze patiently, and the older woman bowed again and backed away, leaving her to keep seeking her mother.
+
+“Nanny was weird,” Biyu said, a frown on her little face.
+
+“I’m sure it was nothing,” Ling Qi replied absently as she began to mount the stairs.
+
+<You scared her out of her skin,> Sixiang said drolly.
+
+Probably, Ling Qi admitted in her head. There was little she could do about that though. “What does Nanny do, Biyu?”
+
+“She plays with Biyu when Momma is busy,” her little sister explained authoritatively.
+
+“Is Mother busy a lot?” Ling Qi asked, wondering whether she had given her mother too much work.
+
+“Nuh uh,” the little girl replied, shaking her head.
+
+<Trust the lady a bit,> Sixiang said bluntly.
+
+Ling Qi dipped her head. She really did need to work on that. It was part of why she was here.
+
+They reached the second floor then, and Ling Qi stepped out into the hall. Ling Qingge was in her room at the moment. Letting out a breath, Ling Qi loosened her hold on her qi by just a fraction as she approached the door. Biyu laughed and clapped in her arms, and a moment later, her mother’s door opened.
+
+“It looks like you’re making some progress,” she said brightly, smiling as her mother peered out of the room. The light of her qi was still a wan, near transparent thing, but it had a bit more life in it than those of other mortals.
+
+“Ling Qi,” her mother greeted with a sigh, opening the door further. “My apologies. I was not expecting you today.”
+
+“It’s fine. I didn’t send ahead,” Ling Qi dismissed, easily stepping past her mother. The room was much like her own on the mountain, a combination of bedroom and study, though in soft warm colors and wood rather than stark grey stone. “Might I ask what you have been up to?”
+
+Closing the door behind her, Ling Qingge turned to face her. Ling Qi took a moment to study her mother. The lines on her face were still there, but she had changed. There was some fractional lightening of the burden she always seemed to carry, a touch less meekness in her stance. Having control of something in her life seemed to be agreeing with her.
+
+“I have been studying trends in presentation and dining for the nobility. I know it is unlikely, but I should like the household to be acceptable if you ever entertain guests,” Ling Qingge replied quietly.
+
+Ling Qi hadn’t even really considered that as an option, although she really should have. Well, maybe she could invite Xiulan as a test sometime? She bent down, letting Biyu loose, only for the little girl to clamber up onto their mother’s bed. She shot an apologetic look to the older woman. “I’ve been focused on other things, but it looks like you’re keeping things in good order.”
+
+‘Thank you,” her mother said with a slight smile. “I admit, things have been somewhat hectic recently with the terrible storms up on the mountain. The Sect kept us all safe, of course, but it was very unnerving.”
+
+“The wind was really scary,” Biyu announced solemnly as Ling Qingge scooped her up, seating the younger girl on her lap as she sat down next to a small table which still held an open book.
+
+Ling Qi laughed sheepishly. “Yeah, I guess that would have been pretty rough, huh?”
+
+Ling Qingge narrowed her eyes, and just for a second, Ling Qi felt like she was seeing the woman she had known when she was still Biyu’s size. “Ling Qi… were you involved with the matter?”
+
+Ling Qi considered deflecting, but that wasn’t what she was here for. “More like I was the cause,” she admitted. “That’s part of why I came here today. I owe you an apology.”
+
+Her mother looked at her in confusion, but she quickly shook her head. “Ling Qi, you do not owe me any such thing. You-”
+
+“No,” Ling Qi interrupted forcefully. “Mother, I did something that could have gotten me badly hurt or killed. I did it on purpose, knowing what I was getting into. I should have at least told you first. I do owe you that much.”
+
+Her mother fell silent, and her little sister looked back and forth between them, worried but not quite comprehending the conversation.
+
+“Why?” her mother asked after a moment of silence.
+
+Ling Qi looked down. “I was trying to shield you from worry, but… I guess while I was up there, it occured to me how disrespectful that was. Even if you can’t always do anything, you deserve to know what is going on.”
+
+She had invited her Mother back into her life. She didn’t just want to treat her like an obligation. She had to do more to include her family in her life because things ended, and once they did, it was too late for regrets.

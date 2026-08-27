@@ -1,0 +1,143 @@
+---
+id: 67f97f39-57f6-554c-ab67-df8e2bbc0d8a
+page-type-slug: story-chapter-royal-road
+title: "Threads 216-Friend and Foe 5"
+slug: 0250-threads-216-friend-and-foe-5
+partOf: forge-of-destiny
+position: 250
+ownLength: 1959
+unit: words
+publishedAt: 2022-05-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/910176/threads-216-friend-and-foe-5"
+royalRoadId: "910176"
+---
+
+Ling Qi had an idea, and Sixiang was amenable to helping. “You make the sea sound beautiful, but I think the sky is a greater inspiration for artists.”
+
+“As you have never seen it, that is unsurprising,” Xia Anxi replied. “The majesty and romance of the ocean is the pinnacle of the world’s beauty.”
+
+“I don’t know,” Ling Qi said dubiously, keeping half an eye on the arena. It wasn’t something she was invested in, but it seemed to be working at getting him talking. “The sky is the vault of heaven, the closest the material world comes to the Father’s essence. It is the open canvas of the world, free for inspiration to strike like lightning and for creativity to blow in on the wind. Since it represents the world’s creative forces, it seems obvious that it would be superior.”
+
+“I suppose one who followed modern orthodoxy would think so,” Xia Anxi allowed with some distaste. “The eight elements model is an artificial imposition on the world. It is the five elements model that better represents the world. The ocean, being the tears of the Nameless Father for his slain wife, is the ultimate representation of emotion, which is ultimately the source of art.”
+
+Well, this was working, albeit with some condescension, but he was taking her seriously. She would have to thank Sixiang later for feeding her information.
+
+<You can thank me by actually remembering this stuff and learning on your own,> Sixiang grumbled.
+
+“I think water as a representation of persistence and stubborn advancement is more accurate,” Ling Qi debated. “Emotion is better represented by spontaneity. Is that not how passions work?”
+
+“It is not spontaneity which makes art,” Xia Anxi disagreed, turning fully in his seat to face her. “Any dabbler may have inspiration. A true artist of song or pigment or any other type must have in them a persistence, a refusal to leave a work unfinished. This is the passion of the sea, deep and abiding, shaping the beauty of islands and beaches over eons with the wear of the waves.”
+
+Ling Qi smiled faintly. “True, although I’d argue the wind does the same with the mountains and hills. But all the same, without inspiration and innovation, you will only endlessly repeat the styles of your ancestors.”
+
+“And what is wrong with that?” he asked rhetorically. “To iterate again and again, this is how the world advances. So, too, with art. I study the work of my ancestors. There is no need to reject the past in order to create new things. They have given us tools. Only fools refuse to use them.”
+
+“I suppose I have been told that I follow in the style of Grandmistress Lei, but my only teacher was the spirit Zeqing,” Ling Qi said, loosening her grip on her qi enough that her mentor’s name vibrated with the meaning underneath the base sound.
+
+“A testament to the Grandmistress’ skill is that her style became so much a part of the world,” Xia Anxi said, a note of fervency in his voice. “That is what I mean. Even one with no learning uses the tools left behind by those such as her. The works of the Coral Serpent, first of our line, are much the same. Even the urchins and toughs of the docks sing her songs, crude as the rendition might be.”
+
+Ling Qi tilted her head to the side. “How would you know what songs street urchins and laborers sing?”
+
+Xia Anxi’s golden eyes widened marginally before his expression smoothed over. “I speak in metaphor, of course, to express how deeply a true grandmaster affects the world.”
+
+“Right.” Ling Qi hid her suspicion. Something to file away for later. “To get back to the original point, I think the nature of the heavens is more expansive. Within it, you have the seasons from which my winter is drawn, and you have weather, which shapes both the people and the land. Crucially, it is omnipresent. Any person anywhere may look to it.
+
+“It may be true that the majesty of the sea is exclusive to those who live on its shores and above or below the waves, but the rest of that is nonsense,” Xia Anxi dismissed, leaning upon the arm of his seat. “Weather arises from the cycle of rains, and even the winds arise from the interaction of sun and sea, fire and water, which is why it is absurd to class them as their own element. I shall grant you the seasons on technicality as the celestial movements may be considered a part of the heavens, but the depth of the seas are as infinite as the skies, the waves a match for any procession of clouds.”
+
+He hummed a bar, and Ling Qi felt the change in the area’s qi.
+
+Push and pull, everlasting. Pressure. Sunlight glinting on rippling wavers, the infinite colors glittering beneath clear blue water. Near weightless suspension, floating on the current of the world.
+
+Life, blooming with vitality. Living clouds of fish, gleaming in the dappled light that extended beneath the surface, wonders and horrors on a scale greater than the dry lands above.
+
+Mystery, deep and infinite. The black abyss where the sloping sands dropped off. The infinite expanse where not a single island remained in sight.
+
+Drumming her fingers on the arm of her seat, Ling Qi hummed back.
+
+Wide as the world, stretching beyond comprehension, wisps of white the only stains in an infinite expanse. The feeling of soaring, freedom from the bonds of the earth, able to travel whatever direction one wished.
+
+Colors, hues beyond counting splashed across the world, casting it in their light. The shadows of mountains and hills and cities silhouetted against the setting and rising sun. The white cloak of winter, setting all the world a-glitter. The stormy ides of spring, awakening chaos and bringing life to the world.
+
+Noise and life. The howl of the wind through the mountaintops. The cries of birds migrating to and from far lands. The whisper of the breeze in the streets carrying all the scents of life.
+
+“Ling Qi.” Cai Renxiang’s stern voice cut her off, and Ling Qi realized just how spiritually “loud” they had gotten.
+
+“Xia Anxi.” Meizhen joined her, sounding more amused than stern.
+
+“My apologies, Lady Cai,” Ling Qi said.
+
+“It seems we became too enmeshed in our conversation,” Xia Anxi apologized as well, bowing his head.
+
+Ling Qi privately had to admit that the discussion had been interesting. She hadn’t directly contested with another musician since that sect challenge against Yu Nuan early in the year. Maybe she should do it more often in the future. She had felt her music was stagnating lately.
+
+<Oh, Moons. is it time to actually wrangle some musical theory into this head of yours? Besides me, I mean,> Sixiang teased.
+
+“It is no concern,” Meizhen dismissed. “But the matches are beginning.”
+
+“It would be rude to ignore them,” Cai Renxiang backed her up.
+
+“Less entertaining though,” Lao Keung drawled from the railing. “The fifth match is already over.”
+
+“Already?” Ling Qi asked, blinking in surprise.
+
+“I suppose after last year, the Han wished to show their virtue of speed,” Bai Meizhen mused.
+
+Ling Qi peered down at the arena where a lazily smiling Han Jian raised his hands to the stands.
+
+“I understand that the Sect’s inability to give them face at last year’s tournament was problematic,” Cai Renxiang said.
+
+“The Han? Those would be the Marquis of the East?” Xia Anxi asked, catching up. “I hope the Guo know what they are doing with them.”
+
+“I rather doubt that the Han will choose to march like fools into the empty desert to declare themselves Kings of the Grave,” Bai Meizhen said dryly. “But yes, I imagine the Guo Lords are wary of the Han’s rise.”
+
+“It is a delicate situation,” Cai Renxiang agreed. “The Han are not so belligerent however. I have heard that the Han heir has secured a marriage for his son with a less valued Guo scion.”
+
+Ling Qi looked down at Han Jian. She wondered how Gu Xiulan would react to that. She knew, despite everything, that girl was still smarting from Han Jian’s rejection, no matter how impossible his reciprocation would have been.
+
+“It is good that they are being proactive,” Lao Keung said neutrally. “The Guo are wise.”
+
+Ling Qi hoped so. Perhaps she should ask Xiulan about inter-clan relations in the Golden Fields when she wrote her next letter. At home, surrounded by her family and their soldiers, she doubted the other girl was in any danger even if there was some turmoil. Still, she worried for her friend.
+
+Below, the sixth match was beginning. The two participants were Ma Jun, her former bodyguard, and Fan Yu, who she had mixed feelings about.
+
+“Didn’t you say that girl was one of yours?” Xia Anxi asked.
+
+“She followed Lady Cai,” Ling Qi corrected as the arena shimmered, bringing the combatants to a storm-wracked mountain top. “She guarded me for a time with her sister. It seems she will be a peer though.”
+
+“Too modest,” Xia Anxi jested.
+
+“Odd. I do not recall seeing any Fan on the guest list,” Bai Meizhen mused.
+
+“There is one. An older brother, I believe,” Cai Renxiang said, watching the opening movements.
+
+Fan Yu armored himself, pulling up stone and soil. Meanwhile, Ma Jun began to summon shimmering flower petals around herself.
+
+“The Fan would be… Ah, the remaining agricultural clan in the east,” Xia Anxi remembered, peering down. “Quite potent, as things go over there. I am not certain about this one though.”
+
+“Some tribulation of the heart. No certainty in his movements. Cultivation is unstable,” Lao Keung analyzed shortly.
+
+The two clashed below, stubborn stone against flashing petals and wind. Neither came away marked.
+
+“Whatever you say, it seems you instilled some pride in that girl,” Xia Anxi said to her, watching Ma Jun circle the arena, feinting, dodging, and chipping away at her opponent. “The colors, the meter, they both scream of drive.”
+
+Ling Qi added, “Frustration, too.” She wondered what that was about. She would have to ask Gan Guangli.
+
+Below, the shape of the match was becoming clear. Ma Jun was having difficulty hurting Fan Yu, but he was only weathering her. Twice, she saw openings where he could have struck out at her, and twice, Fan Yu failed to take them. It was…
+
+“Pfah, the match is already over,” Lao Keung said disdainfully. “Even if it goes on for a while yet.”
+
+“I agree,” Bai Meizhen said. “He is frightened, and that fear does not drive. It commands. Unfortunate for him.”
+
+Ling Qi was silent. She thought of the boy who had mocked her on her first day at the Sect and who had been loudly against her throughout those early days. There had been, if she were honest with herself, some satisfaction in surpassing him, even if she chose not to be obvious about it. Then, there was pity by year's end.
+
+Now, there was not even that. He simply wasn’t relevant to her life.
+
+She would have to congratulate Ma Jun.
+
+As the match ended some time later, she continued to chat with the others in the box.
+
+The final two matches went as expected. Xiao Fen’s opponent fought hard, but was simply outmatched by her speed, brutality, and martial skill. Han Fang’s opponent managed to not be beaten in the initial ambush, but fell shortly thereafter.
+
+And like that, the first round of the tournament ended. It had been predictable. The next one would begin to show some real clashes.
+
+But for now, they would descend to congratulate the winners from their side.

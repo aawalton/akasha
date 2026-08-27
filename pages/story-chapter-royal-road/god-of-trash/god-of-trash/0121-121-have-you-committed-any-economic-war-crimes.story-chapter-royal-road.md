@@ -1,0 +1,81 @@
+---
+id: 09eec111-3b46-5a26-9483-419f57a529d0
+page-type-slug: story-chapter-royal-road
+title: "121. Have You Committed Any Economic War Crimes Today?"
+slug: 0121-121-have-you-committed-any-economic-war-crimes
+partOf: god-of-trash
+position: 121
+ownLength: 2050
+unit: words
+publishedAt: 2025-07-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2411974/121-have-you-committed-any-economic-war-crimes"
+royalRoadId: "2411974"
+---
+
+The three soldiers landed, dismounting their swords with well-drilled motions. They turned toward Rhys and the others, looking them up and down.
+
+Rhys harrumphed and stepped forward. Before they had the chance to speak, he crossed his arms aggressively and glared at them. “You’re late!”
+
+The leader, a man with a red sash across his chest, stepped forward. “What happened here?”
+
+“We were beset by some bandits! Luckily, we dealt with them, but can you imagine? If they were more competent, we’d be dead before you showed up! Rapid response force, my ass!” Rhys snapped, annoyed.
+
+The leader crossed his arms back at Rhys. “The amulets are only to be used in dire straits. If you are not on the brink of utter destruction—”
+
+“We could have been! No—we were! It’s fortunate that I was able to turn the tides, or else these brutal bandits would have had our heads. I can’t believe it took you so long. But fortunately, I was stronger than my underlings feared, and able to defeat the bandit leader,” Rhys said. He uncrossed his arms, putting his hands on his hips instead, and shook his head, letting out a breath as though he’d just now gotten his anger under control. “Still… we lost good men today. Merchants who didn’t have to die, who died because of your incompetency. Your barracks will be hearing from me.”
+
+“You can file a formal complaint with the barracks captain,” the leader intoned, clearly used to hearing this kind of diatribe. He flicked his wrist, and his travelling sword left its sheath and hovered before him.
+
+The other soldiers turned to go. One glanced back, rolling his eyes, then leaned toward the other. At a whisper, but one that he knew full well Rhys could hear, he asked, “Why do we let merchants have cores at all? They’re just a bunch of weak cowards.”
+
+“Shut up, or are you volunteering for caravan duty?” the other muttered back.
+
+The first one shot his friend a narrow-eyed look, but said nothing. The two of them mounted their swords as well, and all three vanished into the sky.
+
+The three of them stood there for a few more beats, watching the mages retreat into the sky. When they were so far Rhys could no longer sense their auras, he let out a sigh of relief and crumpled, exhausted. He ran his hair back and looked at the others. “Thank goodness.”
+
+Korii nodded, too relieved to speak. Blake walked over to the mage who’d been hit by the merchant’s attack, the one whose name Rhys couldn’t remember. He knelt, then shook his head.
+
+Rhys grimaced. That was unfortunate. They didn’t have much manpower, and they couldn’t afford to lose any of it. Looking at the man’s body, something tickled at the back of his mind, something he hadn’t done in a long time: trashomancy.
+
+He pursed his lips, thinking. It probably wouldn’t work on anyone here, since none of them had been thrown away, but it was something worth thinking about. Something to consider for later.
+
+For now, though, it was time to rob this caravan. He clapped, summoning Lira and Mouse out from the bushes. “Everyone load up. We strip this thing down, break it down to nothing, and take the whole thing with us. Boards, wheels, and all. The horses… we’ll send them back home. We don’t need them.”
+
+“Won’t that be suspicious, that we ‘survived’ the ambush, only to immediately vanish?” Korii asked.
+
+Rhys shook his head. “Only if the soldiers ever check up on us, or someone comes looking for this specific caravan. The soldiers aren’t going to look for us unless we do something to remind them, and if someone comes looking for us, they’d have to find those specific soldiers to find out that we fended off an ambush… and even then, it’s not as if it’s impossible that the bandits came back and finished off our ‘weakened caravan.’ As long as we vanish the whole thing, no one should look into it too hard.”
+
+Korii nodded, and all of them got to work unloading the caravan, then breaking it down. Rhys checked the bodies for good gear, but aside from the lead merchant’s Nine Glitters Armor, or whatever it was called, there wasn’t anything particularly standout. He stripped that off the lead merchant and handed it to Korii, who was about the deceased merchant’s size. A different merchant had a storage ring packed full of charcoal, which Rhys added to his new collection of rings. He finished checking the merchants and joined the rest of his party in stripping down the caravans. They removed the foodstuffs, then broke down the wagons themselves, down to the boards and nails. Those they tied into bundles, and loaded onto Blake’s back. The horses ran off the second Lira cut their traces, speeding back to their home stables.
+
+When everyone was loaded up and everything was ready to go, Rhys did the final, macabre task of carrying the merchants off the road and into the woods, where they would rot away out of sight, out of mind. It was a wasteful end for them, but there was nothing Rhys could do about that. They’d chosen to become merchants for the Empire. They knew the consequences.
+
+He held his hand out, trying to absorb them, but he already knew it wouldn’t work. They weren’t trash. He was the only one who’d cast them away, and as a result, they didn’t qualify. He lowered his hand and pushed leaves over them instead, not only hiding them, but kick-starting the decay process, too. He added the man they’d lost, then pushed more leaves on top, not wanting to separate out their man too much, but wanting to separate him a little; he deserved better than the merchants, but this was all the more they could give him right now.
+
+Maybe later, when everything’s said and done, I’ll come back and give him a real burial, alongside everyone else who died in the mines.
+
+He lowered his head for a moment, then turned and rejoined the others, adjusting the heavy barrels lashed to his back. They all looked outlandish, loaded with barrels and boxes beyond what any human could carry, only able to hoist them thanks to their mana-enhanced physiques.
+
+“Let’s get out of here before the soldiers come back,” Rhys said, and ran off into the woods.
+
+They didn’t head directly back. Instead, they made a pit stop in a cave on the way back, spending the night there so Rhys could investigate the merchant’s pins and so that any tail or investigation had a chance to catch up with them, and consequently, they had a chance to detect and deal with any investigation or tail. Mouse took to the forest to watch, and Rhys extended his aura as far as he could, but neither of them detected anything.
+
+As for the badges, they were enchanted to make it hard to forge them, if not completely impossible, but as far as he could tell, there was nothing to link them to a particular merchant, trace the merchants, or call home to their original manufacturer if they were tampered with. Then again, he considered, investigating the badge further, those were all things he considered common because he was used to an age of constant surveillance and electronic devices that tracked everyone’s every move, if only to sell them more products. This world probably hadn’t come up with half the concepts he was looking for yet, or if it had, they were only in high value, very specific products, not in the chaff one handed out to merchants for a small fee as the price of doing business. Hell, even in his world, it wasn’t as though every child’s toy was going to be tracking the kid’s movements, so maybe he was being paranoid to expect something like that.
+
+Nonetheless, the badges lacked tracking features, so that was one less thing to worry about. He shared the good news with the others, and mostly got confused looks as they tried to understand why he was looking for such specific and rare enchantments.
+
+In the morning, they set off once more. The goods they ultimately stashed at a few hiding spots out in the woods, in case someone had a method to track the goods, with Rhys only bringing the bare essentials for the first batch of potato chips and ketchup… and a tub full of sugar, and the storage ring full of raw meat and herbs, and the storage ring full of charcoal.
+
+Okay, so maybe I brought a little more than the bare essentials…
+
+He had assembled a decent kitchen out of trash, with the help of the other mages from the mines. Tossing some charcoal under the kettle, he got the tomatoes boiling down, while he started heating the oil for the potato chips in another. By now, the potato chips were almost an afterthought; he called a few of the other mages over to watch him make them, then handed off the chip-making to them, only stepping through at the end to imbue them with the hint of a path that made them so addictive to mages and mortals alike. The cut he and the others could do wasn’t quite as fine or regular as Bast could, but then again, he couldn’t expect ordinary mages to measure up to the Sword Saint’s Apprentice.
+
+With the chips under control, he turned his attention to the tomatoes. These were just normal tomatoes, not the vitality ones he’d grown earlier using his own mana and body, but nonetheless, he could develop that same sense of vitality into ordinary tomatoes… by feeding it in manually. Taking a deep breath, Rhys hovered his hand over the boiling tomatoes, then burned his trash star hotter than usual, feeding the excess mana into his body, where it naturally converted to vitality, then pulling it back out before his cells could overgrow and forcing it into the tomatoes instead. If he’d done it to raw tomatoes, they would have burst into seed and transformed into brand new tomato plants in his hands, but feeding it into the cooking tomatoes just meant he pushed it into something where all it could do was store the vitality, rather than use it itself. It was the same principle as feeding vitality into a potion or healing pill; feeding it in too early would simply grow more herb, but feed it in later, and it would absorb and hold on to the vitality.
+
+“What are you making? A health potion?” Korii asked, peering over his shoulder. She frowned. “Tomatoes as the base? They aren’t particularly imbued with vitality…”
+
+“No, no. Watch and learn,” Rhys said. He poured in the vinegar, then added a sprinkling of salt and sugar. He sniffed a few of the herbs until he found some that matched his memory of ketchup’s flavor profile, then tossed them in as well. Just like how the chips didn’t actually imbue anyone with a path or enlightenment, the ketchup he wanted to create wouldn’t restore anyone’s vitality, but only give them the illusion of refreshment and restoration, without actually granting it in any meaningful quantity. After all, he didn’t aim to help the enemy, but hinder them.
+
+For that purpose, he deliberately didn’t absorb any impurities from the potatoes or the tomatoes, or even the kettles he cooked them in. The more impurities the better—though he said that, it wasn’t true; he had to keep the impurities low enough that mages couldn’t sense them, or else all was lost. He wanted the absolute maximum percentage of impurities that mages could ignore, enough that they’d think, ‘oh, a bag or five isn’t bad,’ and only realize they’d harmed themselves ten bags in, when they could no longer break free of their addiction.
+
+Of course, potato chips didn’t go with ketchup, so, after he showed some of the mages how to construct bags and found them a good enough source of trash to get them started, he went back to the potatoes and started cutting them differently, into rectangles instead of chips. It was time to craft the true backbone of his new soon-to-be franchises: french fries.

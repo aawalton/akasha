@@ -1,0 +1,145 @@
+---
+id: 66311e99-6882-5c20-8d7c-952e3f8b044f
+page-type-slug: story-chapter-royal-road
+title: "Thread 412- Taming Winter 1"
+slug: 0456-thread-412-taming-winter-1
+partOf: forge-of-destiny
+position: 456
+ownLength: 1888
+unit: words
+publishedAt: 2024-11-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1898412/thread-412--taming-winter-1"
+royalRoadId: "1898412"
+---
+
+Where cold wind blows
+
+On the traveler’s road
+
+Where falling snows
+
+All warmth erode
+
+We sing of light, through winter long
+
+'Till the floods ring spring's gong
+
+The last verse of the amusing little folk song drifted out through the open slats in the workshop wagon, stirring the lightly falling snow outside into swirling flurries. It was a simple piece, the sort of song even a child could sing. But Hanyi's voice, the piping of her flute, and the rattle of the wind tugging at the shutters made something homely of it, even out here, bumping over stones and dirt and roots.
+
+Hanyi’s hands came together in a clap, punctuating the final word as she grinned. "See! I told you that I learned some fun songs while I was away."
+
+"You did." Ling Qi smiled. "These folk songs have a fun rhythm to them. Perfect for a long trip."
+
+"It does certainly make the path roll on faster," Bao Qian agreed. He sat up front, his wide brimmed hat shading him from the snow. "But we are here. If you want to speak with the spirits of lowland snows, they are having their frolic."
+
+"Probably the best place to start." Ling Qi accepted Hanyi's hand to help her up.
+
+She had at last left her trusty chair behind in the newly christened hamlet of Shenglu. She still swayed a little, but she could at least walk as a mortal did without tiring too quickly now. Embers still smoldered in her dantian and in the ashen impurity clogging many of her meridians, but some proper exercise would be just the thing to kickstart this stage of her recovery.
+
+"Let's show these rowdy fairies who’s the boss!" Hanyi declared. "Mister Bao, you make sure the camp is comfy, so Big Sis can come back and rest, okay?"
+
+"Such a grave task. I am much honored," Bao Qian said dryly. "Do try not to stay out too late, ladies. I recall Lady Cai instructed me that you still require medications."
+
+"I would never be so reckless," Ling Qi claimed. She carefully descended from the wagon. "We'll be back by midnight."
+
+"Like it'll even take that long!" Hanyi trotted out ahead of Ling Qi over the sparse, coarse grass that clung to the gravelly dirt of the foothills. "C'moooon, Big Sis. I'm so tired of sitting around."
+
+"I'm coming, Junior Sister."
+
+Standing up straight, Ling Qi rolled her shoulders, feeling the faint burn in her legs as qi circulated through atrophied tissues, cycling and restoring the lingering damage. Yes, a good long hike, and perhaps a game of tag, was just what she needed.
+
+***​
+
+The hills were truly beautiful. The mountains rising to their north were a gray rampart reaching up to a clear blue sky, and the rolling brown and green landscape grew ever more dusted with snow. Small streams ran down from the peaks to burble through the gullies and in broad shallow streams through the limited flatland between.
+
+And all around them, light, crisp wind blew, sending the drifting flakes aswirl. Atop a hill, Ling Qi inhaled deeply. Snow crusted her hair, and settled lightly on her gown.
+
+Her winter, her cold, was only a smaller piece of a greater whole.
+
+Her time at the summit had left little room for personal contemplation between the agreements and personal debates, but she had come to realize this truth near the end. It was a concept that had been brewing in her mind since her conversation with Elder Jiao and Xin. At that time, she had told him that he and the former emperor had been too ambitious in their plans to clean up the rot of the Celestial Peaks, and she still thought she was right in her assessment. Two men, even men at the height of cultivation, could only change the world so much.
+
+However, she also understood that this thought was too simple. Elder Jiao had been right to scoff at her because there hadn’t only been two men. Cao Chun was proof of that. The Ministry of Integrity ticked on. If she could speak to him again, she might say that his mistake was thinking that he would see the end of their plans.
+
+"My mother intends for me to overthrow her."
+
+Even Cai Shenhua, she suspected, understood that. An ascension was only a single step on a greater Way, if a greatly impactful one.
+
+It was daunting to consider. She could understand why contemplating it could crush the soul and snuff out ambition like an errant ember. To cultivate was to have a grand ambition, a will to overturn some element of the world's order or write a new law into the cosmos, and to confront one’s smallness in the face of the heavens was not trivially done.
+
+The general, Xia Ren, had ceded the thought on where her future was going to Cai Shenhua, the legend and ideal. Ling Qi could not, and would not cede that to Cai Renxiang, who was only another part in their orchestra. Renxiang would perhaps be the conductor, but not its animating force. She supposed her friend would liken it more to the gears in a wound up clock, where one’s turning meant nothing without its neighbors.
+
+And yet, she did not not have any illusions that their work would ever be done. They could never truly inarguably fix society, for whatever value one assigned to that. There was a whole world which would also have a say. That was where Huisheng's path of multitude lived. And there, lay a seed of what she was missing still in developing her own song.
+
+"So, Hanyi, what was that about just needing to give the snow fairies a talking to?"
+
+High-pitched laughter filtered down from half a dozen directions in the cloudy sky. The snows danced all around. She could almost see the outlines of faces in it, twisted up in childish mockery.
+
+"I wanted to be generous," Hanyi said haughtily. Her arms were crossed, and she'd drawn herself up to her full height, every inch the affronted aristocrat if not for the pouty tilt of her lips.
+
+… Her junior sister was up to Ling Qi's shoulder now, wasn't she? Master Zeqing had been very tall.
+
+"It is good to do your best to solve disputes with words first," Ling Qi agreed. A loosely packed snowball burst into fragments a few inches from her face, the puff of wet snow swiftly carried away in the wind. "So, what comes next?"
+
+Hanyi gave her an uncertain look. "Big Sis is the expert, and this is her valley, so…"
+
+"They can't hurt us, so I'd like to know what you think."
+
+A frozen gust roared, whipping at Hanyi's braided hair and making her eye twitch. She growled. "I wanna beat them up."
+
+Ling Qi cocked an eyebrow. "And will you beat them up?"
+
+"A little." Hanyi’s qi flared, and the wind roared, snow engulfing them both in a whirlwind of white, making the circling fairies shriek and scatter. "But that’s not enough to make you their boss. They'll just break up into snowflakes and be back again later."
+
+Ling Qi chuckled. "So, it's not just you."
+
+"That's a technique!" Hanyi whined. "You know what I mean."
+
+She did. Minor weather spirits weren't really discrete individuals. They were just manifestations of the patterns wrought by the greater spirits. A cultivator could influence them though, and with enough effort, they could influence the greater spirit.
+
+"You have to give them something. You beat them up till they stay still, but then, you have to give them something."
+
+"A plan, a future, and a role," Ling Qi said.
+
+A half dozen balls of snow and a single craggy chunk of ice whipped through Hanyi's settling whirlwind. This time, Ling Qi merely bent the wind and sent them flying off around them.
+
+"I was gonna say a job, but yeah, Big Sis is right. To make it stick, there needs to be a piece of you, too, or there won’t be enough of them to last. That's why order is so messed up where I go on tour. The big spirits are just doing what they've always done, following patterns, but all the sorta big spirits like me are gone, so the little spirits just run wild except where the priest guys make them bounce off with temporary stuff. They can't make contracts with them 'cause they're too dumb to remember what they agreed from season to season."
+
+"Is it the same here?" Ling Qi wondered.
+
+"Kinda, but not totally. There's at least some other sorta big spirits around. We'll have to make them—" Hanyi paused. "I mean, make friends with them."
+
+“... Sure.”
+
+Ling Qi considered the snowstorm around them. The clouds stretched for many kilometers out over the hills, but there was no guiding mind behind it. No mighty spirit was embodied in the clouds except in the most distant way.
+
+"Show me, Hanyi. Show me what you've been doing all those months."
+
+"There's no stage, though! And no audience but these dumb fairies."
+
+"I'm here. Today, I'll follow your instructions, but remember, I'm still going to be a little slow.”
+
+"Okay." Hanyi furrowed her brow. "Well, I guess, um… Will you lend me your authority, Big Sis?"
+
+"I'm not sure what you mean."
+
+"I mean, Boss Lady is the one in charge at the top, and she goes right up to the Duchess. The temple priests kinda do this on tour. That's why we work with them, cause they can make me… legitimate?"
+
+Hanyi clearly wasn't fully used to thinking this way, but Ling Qi saw what she meant. This wasn't properly imperial land yet, and going by the disorganized spiritual ecosystem, it hadn't been properly anyone's land in a long time.
+
+"I can work that out," Ling Qi said thoughtfully.
+
+This was how imperial spiritualism worked. Even the old Weilu methods were like that to an extent, forming contracts with amenable spirits, who would, in turn, pressure and alter their ecosystem and bring human voices to the Great Spirits above.
+
+Yes, she could do that.
+
+The wind shifted, the clouds parted, and Ling Qi's shadow stretched long over the hills and streams behind them, and over the distant flatlands lost in the flurries of snow. It stretched backward, and radiance coursed through it like glittering stars, running back up to her feet. She breathed out, and the flurries of snow around her thickened and clumped, falling heavier and faster.
+
+Without any conscious thought to it, the snow crusting her gown and hair flowed and limned the hems of her gown like a lace trim, and she felt cool ice forming across her forehead. In it was sealed a mote of colorless radiance, drawn from very far away, but even that small fragment gleamed like a gemstone on her brow.
+
+It wasn't a technique. It was a song, woven through the Art of the Spirit Seeker. It was an announcement of her authority, expressed into the world.
+
+"You speak for me, Sister. Go ahead and make your stage."
+
+Hanyi puffed out her chest and stepped forward. The fairies' laughter now was edged not with fear—for spirits that did not understand death had none—but uncertainty.
+
+Hanyi spread her hands and began to sing.

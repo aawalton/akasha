@@ -1,0 +1,153 @@
+---
+id: cea270df-5f44-565d-aa85-237150fa4783
+page-type-slug: story-chapter-royal-road
+title: "Threads 38 Three Moons 3"
+slug: 0050-threads-38-three-moons-3
+partOf: forge-of-destiny
+position: 50
+ownLength: 2381
+unit: words
+publishedAt: 2021-01-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/616863/threads-38-three-moons-3"
+royalRoadId: "616863"
+---
+
+Ling Qi smiled despite herself as Hanyi let out a last excited woop from her perch on Ling Qi’s back. She landed, her legs bending to absorb the impact as she came to a stop on the roof of one of the little mansions that lined the quiet avenues of the inner city. With how busy she had been, Ling Qi had forgotten some of the simple joy that could come from just moving. Her muscles and qi channels burned as she dashed at full speed, trying her best just to keep the flitting silk-shrouded figure of the Grinning Moon in sight as they raced atop rooftops and walls.
+
+Sixiang landed beside her with a thump, pitching face forward onto the roof tiles. “Changed my mind,” Sixiang gasped out, voice muffled by the tiles. “Dun’ want a body anymore.”
+
+“Ah, what a lax grandchild. How shameful,” sighed the Dreaming Moon as she alighted on the roof’s edge, the parasol which had carried her floating along behind them dissolving in her hands.
+
+Ling Qi nudged Sixiang with her foot, eliciting a groan. “It wasn’t that bad. We were only running for an hour or two,” she said. In reality, the passage of time seemed incongruous; the sun had barely moved, but surely her game of tag with the Grinning Moon had taken more than a few minutes.
+
+“I, Zhen, am getting tired of being small again,” the little serpent grumbled petulantly, still tucked under Hanyi’s arm.
+
+“Gui agrees for once,” said his other half, sounding cross.
+
+“Pfft, even if you were big, you’d be too slow,” Hanyi scoffed.
+
+“So are you!” they both cried out in affront
+
+“I don’t need to be,” Hanyi replied smugly. “Since Big Sis can give me rides like this.”
+
+Ling Qi glanced back at them, and Hanyi smiled angelically.
+
+Xin emerged from her shadow then, rising like a bubble of ink before resolving the details of her body. “Athletics aside, is your head clear now, Ling Qi?”
+
+“I think so,”Ling Qi replied. The tension had flowed out of her during the chase, and she found herself feeling serene and clear-headed once more.
+
+“Good, because it’s time to make a choice,” said the Grinning Moon, who perched on one foot atop the peak of the roof. “We’re going to do something fun, but the nature of the game is up to you.”
+
+“We have deliberated amongst each other and come to an agreement on three games,” said the Dreaming Moon.
+
+“And the final choice is yours,” Xin finished.
+
+Ling Qi said flatly, “You’re going to have me choose between cryptic metaphors for whatever we’re actually going to do, aren’t you.”
+
+“Hazard of the company,” Sixiang grumbled, sitting up with a grimace.
+
+“Now you’ve gone and taken the fun out of it,” the Grinning Moon pouted. “Fine. We can be direct too. In my choice, we’ll be going to a place where the dullards at the top of this heap would much rather we not go.”
+
+“In mine, we will see to the spread of an art too long forgotten and suppressed,” said the Dreaming Moon, her smile catlike and predatory.
+
+“And in mine, we will see that a certain secret makes its way to the appropriate ears,” the Hidden Moon said somberly, speaking once again through Xin.
+
+Ling Qi glanced between them. She sensed a certain crossover in portfolios for these games. Also, they were still being annoyingly vague.
+
+Ling Qi considered the choices before her. The more she thought on it, the more she began to see the places where the phases began to overlap and blend into one another. She felt like she was beginning to better understand the nature of the moon. She looked to the Dreaming Moon, balanced with inimitable poise on the edge of the roof.
+
+Ling Qi closed her eyes, shutting out the world to think more clearly. Though, here, in Emerald Seas, she was the sponsor of wild spirit bacchanals and impropriety, the Dreaming Moon itself was more than that. The Dreaming Moon was the unrepressed expression of self with all the good and bad that implied.
+
+The Grinning Moon, too, was not just the thief and the flighty fairy. If the Dreaming Moon looked to the future and the Hidden Moon looked to the past, the Grinning Moon exulted in the now. She was the joy in motion and the rush of triumph over long odds. She was the satisfaction in drawing a startled yelp from a stoic junior or in bringing down an organization in a single night of frenzied thieving.
+
+The Hidden Moon was the desire for knowledge, and through it, power. It was knowing all of the things that could be threatening and how to counter each and every one. It was looking back on her past and not letting her bile overwhelm her when she examined those memories to see how they had shaped her and how that related to material reality.
+
+In sum, the Grinning Moon was her desire for agency in her own life, of being in control of the world within the reach of her arms. The Hidden Moon was her caution, the desire to build a place of safety, either within or without. The Dreaming Moon was her desire to grasp for more, seeking always the lights beyond her reach. This was not the whole of them, of course, but Ling Qi was far from being able to embody even one phase. It was what they were to her.
+
+So, when she opened her eyes, she smiled helplessly and dipped her head in apology toward the Grinning and Hidden Moons. “I think I would like to see what art you think is so important that it needs reviving,” she said to the Dreaming Moon.
+
+“You will find, Ling Qi, that an idea need not be a grand thing to shake the world,” the Dreaming Moon replied with a smile. “Much more often, the dreams that invoke change are simple things at the core.”
+
+“You are too quick to spread your secrets, sister,” said the Hidden Moon, wearing Xin’s face. “But one known by none is useless as well, I suppose.”
+
+“We’ll be tweaking noses regardless, so I don’t mind,” said the Grinning Moon. “Shall we resume our stroll?”
+
+“Let’s,” Ling Qi agreed, reaching down to help Sixiang up. “Do you need a piggy back ride too?”
+
+The spirit rolled their eyes as they stood and gave her a gentle jab in the shoulder. “Just ‘cause I don’t have horse legs like you or auntie doesn’t mean I’m a child.”
+
+“Sure you’re not,” Ling Qi smirked.
+
+“Getting a ride doesn’t make me a child,” Hanyi huffed.
+
+“Yeah, it’s not my fault we shrank!” Gui grumbled.
+
+Ling Qi smiled absently as they leaped down into the streets. Maybe that was part of why being in this city hurt less now. Not only was she stronger, but even now, she had family here, all around her and a place to go back to.
+
+As the Dreaming Moon led them to their destination, her thoughts wandered to her surroundings. They were in the inner city now, a place she had only glimpsed once or twice on festival days when temples were opened to the public. The streets were cleaner, and the buildings in better repair. There wasn’t a single trash heap or beggar to disturb the scenery.
+
+Yet as she watched first realm cultivators labor and wealthy mortals walk along, full of puffed-up pride, she saw a shade of the same pall that hung over the rest of the city. She wondered if what she sensed was the spirit of the city itself, giving off that inescapable aura of fading and decay.
+
+“Can I only feel this because of you?” she wondered aloud as they went deeper into the city where the buildings grew more elaborate with each block, terminating in the sprawling estate at the city’s center. “If other cultivators could, then…”
+
+“They would wonder what was wrong?” the Hidden Moon finished.
+
+“You feel it far more sharply, thanks to where we are, but it is noticeable to those with the senses to look when they have not grown up steeped in it,” the Dreaming Moon replied from ahead of them.
+
+“Then why hasn’t anyone done anything about it?” Ling Qi asked.
+
+“They’re probably just lazy,” Hanyi said primly, walking beside her, still holding Zhengui.
+
+“That’s not wrong, but it’s too simple,” replied the Grinning Moon. She walked along the manor walls that lined the street, arms behind her back as she balanced on the narrow construction. “They’re comfortable, is all.”
+
+“How can that cause this?” LIng Qi asked, giving the spirit a confused look.
+
+“Well,” said the Grinning Moon, drawing out the word. “Think of it like this. An ambitious person might cause damage in their reaching out, and a cautious person might cause harm in missing opportunities. A comfortable person, someone who is content with how things are - they’ll cause harm by rejecting anything that might impugn their comfort, good or bad.”
+
+Ling Qi looked ahead to where cleanliness and luxury began to give way to outright opulence. Although she could not understand people who chose to simply stop advancing, she also knew that she was unusual in her refusal to rest on her laurels. “Is that really all there is to it? I mean, isn't reaching a point of contentment why most people do what they do?”
+
+“My sister simplifies too much,” the Hidden Moon smoothly interjected. “Just as cowardice is caution in the excess, stagnation is the true vice, not mere contentment."
+
+“When you cease to dream of better tomorrows and seek only an endless string of todays, things have gone too far,” the Dreaming Moon commented absently. “We are here.”
+
+Here, as it turned out, was a small but well appointed building, two stories high and with a tall, peaked roof. Planters and hanging baskets filled with flowers set around the walkway that surrounded the main building filled the air with a sweet scent, but as the Dreaming Moon led them on, they passed the building’s open doors and the shelf upon shelf of books that lay inside.
+
+Instead, they slipped around into the rock garden behind the building where the air’s sweet scent failed to mask the scent of burning paper and leather. Here, a bored looking young man in a scholar’s robes sat upon a stool before a furnace. As she watched, he tossed an old and moldering scroll into it. He either ignored or was unable to hear the faint spiritual wail that echoed in Ling Qi’s ears as he did so. He prodded the crackling paper with an iron poker, stirring the smoldering remains into the ashes.
+
+“Ugh, what a waste,” Sixiang grumbled, giving the man a dirty look as he rummaged through the half-empty crate at his side for another book.
+
+“What’s the point of this?” Ling Qi asked. It didn’t bother her the way it seemed to bother Sixiang, but something in her still twinged at the waste.
+
+“Your Imperial throne has made an initiative of improving libraries in the Empire,” the Hidden Moon explained, watching the rising smoke with keen eyes.
+
+“‘Course, there’s some strings on that.” The Grinning Moon’s smile grew thin. “Gotta get rid of the stuff they don’t like if you want the new hotness.”
+
+“It is not something to concern yourself over just yet,” the Dreaming Moon said. Ling Qi followed her as the spirit approached the furnace, glancing only briefly at the man; he showed no sign of noticing their presence. Her attention returned to the Dreaming Moon as the spirit reached into the fire, swirling her fingers through the rising smoke. A few weak and sparkling lights winked into being, rising from the ashes at the bottom of the furnace to twine around her hand like a cloud of sickly fireflies.
+
+The fire flickered, and the man burning the books shivered, glancing around in concern. He glanced suspiciously at the remaining books in the crate and hurried to shove a new stick of tinder into the furnace, making the flames burn higher and hotter. The Dreaming Moon withdrew her hand and looked on sadly as the lights faded one by one.
+
+All around them, the world seemed to slow down again. The movements of the man, the flickering of the flames, even the wind all slowed and then stopped, color bleeding from the world until only Ling Qi and the spirits remained in motion.
+
+“Is this what we’re doing then? Stealing these books?” she asked.
+
+“No, one way or another, they will burn today,” the Hidden Moon said somberly.
+
+“So, since you picked up my two scholarly sisters, you’re gonna have to do some studying!” the Grinning Moon exclaimed.
+
+“We can only advise and give opportunities. What is passed on is your choice,” the Dreaming Moon said.
+
+Letting go of Hanyi’s hand, Ling Qi reached down to pick up the book on the top of the pile but found it immovable, stuck in place like everything else.
+
+“No, no, it’s not as simple as that,” the Grinning Moon laughed.
+
+The Dreaming Moon spread her arms, and the furnace sprang to life, the flames roaring into an inferno.
+
+“This is not the first burning of knowledge witnessed by this city, and it will not be the last,” the Hidden Moon said. She raised Xin’s hands, and the flames shifted and flowed, dripping downward like water to form steps even as they billowed out, hollowing out until she could see a facsimile of the Sect’s archive shelves forged entirely from flame. Drifting sparks and ash twisted into the shape of words and pages, flickering to the surface only to sink back in a moment later.
+
+“Best get reading, little sister,” the Grinning Moon said brightly, clapping her on the back. Ling Qi had not even seen her move, but she managed not to jump.
+
+Ling Qi cast a wary look on the fiery archive and then to her spirits. “So! Who's ready to help their Big Sister?”
+
+Sixiang laughed, and Hanyi groaned. Zhengui chirped an affirmative of course, but - wait, she had never taught him to read.
+
+... She was going to be here for a while.

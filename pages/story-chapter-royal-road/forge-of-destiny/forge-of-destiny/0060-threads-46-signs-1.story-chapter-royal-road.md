@@ -1,0 +1,159 @@
+---
+id: fa3261ea-9048-5125-b4a7-0f0fb3f02116
+page-type-slug: story-chapter-royal-road
+title: "Threads 46 Signs 1"
+slug: 0060-threads-46-signs-1
+partOf: forge-of-destiny
+position: 60
+ownLength: 3423
+unit: words
+publishedAt: 2021-02-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/627084/threads-46-signs-1"
+royalRoadId: "627084"
+---
+
+Ling Qi stood at attention in line with the rest of her classmates in the scouting division as they waited for their respective tutors to return from conferring with the other officers for this Sect exercise. On the plateau below where they stood, the disciples of the other divisions milled and formed up. This exercise was a gigantic operation, a full-scale patrol passing through forts at the edge of the Sect’s control.
+
+She was able to look over the other disciples, even standing straight and looking ahead. All it took to see around her was humming under her breath and allowing Sixiang to carry the melody on the wind. There were many familiar faces down there. Cai Renxiang was there, standing at perfect attention, immaculate in every way as always. While Ling Qi could see the furtive looks shot Cai Renxiang’s way, she was unsurprised. The Duchess would obviously not exempt her daughter from military exercises.
+
+Less welcome, she saw Ji Rong off to one side, golden coils looped around his neck like a scarf. His spirit was smaller than she had expected, barely second realm. It surprised her that the taciturn boy would bother with something so much weaker than him, rare or no. It made her wonder at the veracity of the rumor Xiulan had passed along.
+
+Shen Hu slouched sleepily in the line to Ji Rong’s right, and the older boy’s eyes flicked in her direction as her awareness passed over him.
+
+There was Xiulan, standing proudly in another new gown, a yellow piece that left her shoulders scandalously bare, with her arms crossed under her chest among the archers and other ranged combatants.
+
+And though she was too far away to sense her, Ling Qi knew that Li Suyin was back among the auxiliaries and medics as well. So was Yan Renshu for that matter. She had felt the boy’s slimy qi passing by her earlier in the morning.
+
+More amusing was Kang Zihao’s presence, out front in the forming vanguard. His sour expression told her everything she needed to know about what he thought of being here. Even as she watched, a nervous twitch went up his spine as someone walked behind him. The last year had done its damage to the boy’s nerves.
+
+Before Ling Qi could ponder the other disciples further, she felt the pressure of powerful and familiar qi approaching. Their commanding officer and mentors landed in front of them, descending from the command tents above. Guan Zhi was the first, rising smoothly from her landing crouch to glance across the assembled line, seeking imperfections in their attention. She looked much the same as she had on the first day of training with a countenance as stone-faced as that of her older and more famous relative, her uncle Sect Elder Guan Zhou. Liao Zhu and the other mentors landed a moment later with barely a thump or a rustle of cloth.
+
+“Our orders have been finalized,” the athletic girl began, folding her arms behind her back in a familiar lecturing pose. “You have all been judged at least adequate in drills and training, some more than others…”
+
+Ling Qi restrained the urge to squirm as the young woman’s gaze fell on her. She had been so close to reaching her evacuation point with her mock unit in the last drill. She had left the pass behind them filled with mist, phantoms, and Zhengui, stymying their pursuers… or so she had thought. It would be hard to forget the sight of Guan Zhi silhouetted against the evening sun, Zhengui’s bulk lifted over her head in the instant before her not-so-little brother had been hurled at her like a screaming meteor and collapsed the passage they were going to use to escape.
+
+<I chipped my fangs,> Zhen sulked in her head.
+
+<Cheating lady,> Gui grumped.
+
+<I think you might be rubbing off on me. I like her,> Sixiang chuckled.
+
+It was only later that she had learned that the exercise was meant to test their reactions in a seemingly futile situation. She took some pride in that she had been the only one to make their instructor escalate. Still, she couldn’t say whether the near invisible upward quirk of Guan Zhi’s lips in the moment where their eyes met was just imagination or not.
+
+“This operation is more than just watching for barbarian hunters straying into our territory,” Guan Zhi continued as if the second-long exchange had not happened. “Patrols such as these are a regular requirement at the edge of civilized lands. It is a cultivator’s duty to track, monitor, and if necessary, deal with the spirits of the land in territory they control. As the scouting division, in addition to checking for signs of barbarians, it will be your duty to update maps of spirit territory, as well as altered terrain within your assigned area and to pass that information back to the main group so that it may be dealt with as necessary.”
+
+In the lull of silence that followed her words, Liao Zhu spoke up. “Of course, it is also the duty of our division to smooth out troubles before the main force arrives whenever we are able to. Whether a problem is one that you can deal with or one which requires the main force is a matter of personal judgement. However, there are dangers to the latitude which our division is given.”
+
+Guan Zhi nodded sharply. “You will be expected to have completed your surveys and reports at the assigned times in the patrol schedule. Wasting time seeking glory with challenges that are beyond you will be a black mark on your record. This is not a trial hunt where you are seeking treasures. You are here to better the land and the Sect, not to seek personal power. Your mentors will be watching, but they will not interfere in your choices. Now go, and familiarize yourselves with your assignments.”
+
+Ling Qi clapped her fists together and bowed her head in time with the others. Then it was time to split up. As she joined Liao Zhu and began moving toward the tents where she would pick up her subordinates for the task, she glanced at her mentor. “How much help are you actually allowed to give?” she asked.
+
+“I can answer questions regarding normal operating procedures and share information regarding the previous state of the assigned area,” he said, clearly smirking behind his toothy mask. “Alas, I may not use my superior abilities to aid your survey efforts nor share my wisdom in the best path forward.”
+
+“Good to know,” Ling Qi replied, breathing out as she leafed through the maps and documents he had handed her, scanning words and lines of ink, committing them to memory so that she wouldn’t have to consult them later. Moons above, it was just sinking in that she was going to be responsible for other people here.
+
+“I will interfere if a fatality seems likely,” Laio Zhu said with much less of his usual bombast. “However, this will reflect very poorly on your assessment unless the circumstance is truly unusual.”
+
+“What even counts as unusual anymore?” Ling Qi laughed, feeling a bit better from his assurance anyway.
+
+He tapped a finger against the teeth of his mask thoughtfully. “Hmm… A sudden attack by a tribal war party? A rampaging fourth grade beast, hungry for the rare flesh of a xuan wu? Perhaps an ogre king descending from the high peaks to seek to charm a faerie bride with his superlative musculature?”
+
+“That’s not funny,” Ling Qi said blandly, giving her mentor a flat look.
+
+<Zhengui is not edible,> her little brother grumbled.
+
+<I dunno. You were pretty snack-like still last year,> Hanyi teased. Ling Qi was pretty sure she wasn’t serious.
+
+“Ah, but you asked, Junior Sister,” Liao Zhu said airily. “But rest well. Your Senior Brother shall ward off such threats with his peerless charm and skill. So keep your mind upon more grounded threats.”
+
+Ling Qi huffed, turning her eyes back to the map for a moment, eyeing the area marked in red. She sent the whole stack to her ring then as they passed the outer ring of tents. She needed to pick up her subordinates. There were three people who had been assigned to her, and Ling Qi felt more awkward than she had in a long time. She had read swiftly through their dossiers on the way over, but it had not quite prepared her for the reality of the situation.
+
+“Ma’am,” their voices echoed out simultaneously, three backs straightening and three gazes snapping forward as she approached. The first of them, Mo Lian, was the youngest, twenty-five years old and mid second realm in both forms of cultivation. He was almost as tall as her with dark hair and eyes, as well as a small, well cared for beard and mustache. According to the dossier, he was a cultivator of water and earth arts, who specialized in personal concealment and short-range sensory arts.
+
+Chun Yan, the second, was also in the mid second realm, but she was nearly fifty years old, for all that she looked younger than Ling Qi’s mother. With her short hair pulled back and severe features, Ling Qi might have thought the woman a rather feminine man if her senses were less sharp. She specialized in wind arts and dabbled with heavenly ones. Her skills lay in her mobility and offensive arts
+
+Chang He was the oldest, as well as the strongest, being nearly seventy years old and at the peak of the second realm. Despite his age, Ling Qi thought there might be decent odds that he could make the next step at some point going by the feel of his aura. Unlike the younger Mo Lian, he was clean shaven with a dark complexion similar to hers. Grey hair marked his temples and speckled the hair pulled back into a soldier’s topknot, and his weathered face showed his age more than one would expect for a cultivator in their first century. His specialties were in earth and wood arts with a lean toward defensive and social arts.
+
+They were all dressed in the same Argent Peak Sect uniforms, armor of boiled leather over padded cloth with shimmering gray cloaks over their shoulders that seemed to blur and blend with the background at the edges. The cloaks, along with their boots, enhanced for sturdiness, comfort, and silence, made up the allocation of non-armament talismans for normal soldiers of the Sect’s scout division. In addition to their personal specialization, they all had a solid grounding in arts and skills useful for scouting and wilderness survival.
+
+Ling Qi tried to keep her thoughts on such materially important matters, instead of how weird it felt to be commanding three people, the youngest of which was a decade her elder and the oldest of which could easily be her grandfather. The same had probably been true for the Cai troops, but those had been Cai Renxiang’s troops, not hers. She supposed these people were ultimately the Sect’s though. It would be better if she continued to see this as a training exercise.
+
+“Be at ease,” she said with only slight hesitation. She could feel Liao Zhu smirking at her back and hear Sixiang snickering in her head. She ignored them as best she could.
+
+It was time to decide on how to split up the first day’s workload. They had quite a lot of ground to cover, but at the same time, the area she had been assigned was noted to be fairly dangerous as border regions went with a heavy spirit presence.
+
+To that end, Ling Qi decided to travel as a group for the initial scouting. This would slow them down, but it would also allow her to get a better feel for her team and a more comprehensive feel for the region before taking care of individual issues.
+
+***
+
+Ling Qi sped along a narrow ledge no wider than her arm. Shimmering silver lights winked and glowed from within the folds of her gown, peering out like eyes in every direction, and the quiet hum of the Spring Breeze Canto gave her brief flashes of imagery from both the birds overhead and the beasts in the valley below. Each time a cloud passed over the sun, Ling Qi skipped forward, flickering a meter or two ahead without taking a step or missing a beat.
+
+Crossing distances without moving had never been easier and more instinctive. She had been using the Sable Crescent Step technique since almost the beginning of her path of cultivation, and the movements and qi flows came to her as naturally as breathing. She had come so very far since those first stumbling practice steps, and Ling Qi would never allow herself to stop here. She had seen the heights to which she still had to ascend, and she could not be satisfied with herself as she was now.
+
+She knew there was no peace in emptiness, no content in stillness. With her mastering the eighth and final step of the Sable Crescent Step art, she had internalized the lesson taught to her by it, which had been reinforced by the moon phases during her spirit journey to Tonghou. Stagnation was death. She knew that to follow her Path, she had to act, change, move, think, and grow until the very End.
+
+So although she felt lighter on her feet than ever, Ling Qi still felt troubled. Over the past months, Liao Zhu had taught her much about how to scout and track, as well as procedures and etiquette, but she had not really learned too much about commanding yet. She let her perceptions drift to her “subordinates” running along a wider path below. She had decided that they should stay together until she had a better idea of what they were facing, but now she had no idea how to interact with them properly.
+
+<You could just talk to them, you know?> Sixiang pointed out. <Like maintain the formalities, I guess, but just jump down and have a chat?>
+
+Ling Qi worried that letting on just how out of depth she was would undermine her supposed authority though. While that did not bother her much, wasn’t that sort of thing supposed to be important for soldiers?
+
+<Ling Qi.> She winced, feeling as if Sixiang was giving her a flat stare. <You’re making excuses.>
+
+<Dunno why you’re so worried, Big Sister. It’s just a bunch of weaklings, and they’re not even family either. Who cares what they think?> Hanyi drawled, sounding bored.
+
+<Hanyi is really proud for someone who hides under Gui all the time,> her little brother grumbled.
+
+Ling Qi frowned as they descended to bickering again. She was making excuses. Why though? Even as she leaped across a gap in the path ahead, the answer came to her. She had no idea how to interact with them. Was it even worth spending extra time on them? As long as they stayed together, she could take care of any difficult parts herself and just let them take care of the easy issues.
+
+In her own mind, Ling Qi could not ignore the conclusion that arose. She wasn’t really thinking of them like subordinates. She was thinking of them like charges to care for or obstacles to be worked around. Ling Qi closed her eyes and sighed, ignoring Sixiang’s knowing chuckle.
+
+A moment later, she flickered, and her feet touched the ground beside the eldest soldier, Chang He. To his credit, he didn’t so much as flinch as she materialized beside him, keeping pace with his run effortlessly. “Trouble nearby, ma’am?” he asked crisply.
+
+“No,” Ling Qi replied, maintaining a stoic tone. “We are approaching the destination. I wanted to know if you were familiar with the area already and if you had any recommendations on how we should proceed.”
+
+<Very dignified. Nine out of ten on the effortless poise,> Sixiang murmured.
+
+His eyes flicked in her direction as his boots continued to pound the ground, and though his expression remained even, she felt a fluctuation in his spirit that seemed to be a wary surprise. “I have not made this run myself in some time, ma’am. I believe Mo Lian and Chun Yan are more familiar.”
+
+She glanced back, and a moment later, she was beside the younger man, who stiffened in surprise but didn’t stumble. “You heard the conversation?” she asked, knowing perfectly well that he had. They were all running in a loose formation only a few meters apart.
+
+“I did,” Mo Lian replied stiffly. “I had some hand in writing the reports you were furnished with, ma’am.”
+
+She gave him a sidelong look. There was the faintest hint of something accusatory there, well hidden behind discipline. “I am not asking you to repeat the report. I have read it. I wanted to know if you had any recommendations for how to proceed based on your experience with previous runs.”
+
+She felt a faint ripple of qi from her left and glanced toward Chun Yan, knowing that the woman had restrained herself from laughing. “I may be more powerful, but I should not waste your experience. I would like to hear anything the three of you have to say before we begin.”
+
+Seeing them from all angles, it was impossible to miss the faint shifts in body language and expression that passed between the three scouts. It looked like she had managed to avoid embarrassing herself
+
+The man beside her dipped his head slightly, despite not slowing his run in the slightest as she flickered and floated beside him. “The most consistent danger is the river spirit that inhabits the main waterway. It is a volatile creature that is often difficult to predict. However, if it is calmed first, its calm passes to the lesser water spirits as well and makes the scouting simpler.”
+
+“The fat fish is bad-tempered and proud. Killing it will just make things worse though. It’ll have reformed by next season, and the fight always floods the valleys making it harder for the ones coming behind. Puts it in a worse mood for the next run too,” the woman, Chun Yun, added.
+
+“... The last one to come through definitely killed it, didn’t they?” Ling Qi sighed knowingly.
+
+<Amazing prediction,> Sixiang chuckled.
+
+The two soldiers shared a glance. “Yes, ma’am,” Mo Lian replied, sounding mildly chagrined. “I was asked to leave the matter out of the report so…”
+
+“Well, don’t stop there,” Ling Qi said. “Any other surprises?”
+
+She spent the rest of the trip to their assigned area listening to details and anecdotes about past runs, both here and elsewhere. It took some time for the soldiers to begin speaking more freely. Conversation died down as they reached their destination.
+
+The region Ling Qi had been assigned to survey was a network of river valleys that lay between high cliffs, rivers flowing down from glacial headwaters deeper in the Wall. It was much greener than most landscapes that lay this far south, rich with vegetation and beasts alike. Soon, they arrived at a cliff overlooking the main span of the river that ran through their assigned region.
+
+The scouts perched atop the cliff, crouching with their qi suppressed and their shimmering cloaks wrapped around them. Ling Qi might have mistaken her subordinates for large stones, if her senses had been less sharp. She herself stood in the shadow of an old and gnarled tree, clinging to the cliff’s edge, her aura muted and her outline wavering into the shadows.
+
+“Will you be proceeding with the plan you outlined then, ma’am?” Chang He asked in a low voice. She had a feeling he was not confident that her plan was wise.
+
+Ling Qi considered, gazing down at the river and getting a sense for its qi. “The disciple who slew it - were they above the foundation stage?”
+
+“He was not,” the old man replied.
+
+“And he was not the scion of a great house?” Ling Qi asked evenly.
+
+“No, ma’am,” Chang He said, lowering his eyes.
+
+“Then I am confident,” Ling Qi replied. “Hold position, and keep yourselves hidden. I do not want the spirit to think it is being ambushed.”
+
+They did not salute or shout an agreement for obvious reasons. Hopefully, when this was over, the doubt she sensed in their postures and words would be curbed, if not silenced.

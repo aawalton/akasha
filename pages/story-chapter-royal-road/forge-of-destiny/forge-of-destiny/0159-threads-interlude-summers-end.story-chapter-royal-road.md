@@ -1,0 +1,147 @@
+---
+id: 7733a9da-592c-5f88-9047-f7b8090ca7e7
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude: Summer's End"
+slug: 0159-threads-interlude-summers-end
+partOf: forge-of-destiny
+position: 159
+ownLength: 2359
+unit: words
+publishedAt: 2021-09-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/753064/threads-interlude-summers-end"
+royalRoadId: "753064"
+---
+
+“Junior Brother Yan, you are in charge of completing the stabilization arrays,” the core disciple said distractedly. “I have been called to assist the front line.”
+
+“Yes, Senior Brother,” Yan Renshu grunted, keeping his eyes fixed on the smoothed stone in front of him. Already, tens of thousands of characters had been carved, inked, and etched into it. The formation arrays being established here were of staggering complexity. Even his own intellect could only begin to truly decipher them.
+
+Resentment stewed in his gut. He would have understood them better, been able to complete this working already, if he had received the instruction he deserved.
+
+“Very good, Junior Brother. I will trust in your abilities,” the core disciple said, wearing an infuriatingly patronizing smile as he clapped Yan Renshu on his good shoulder and vanished in a rainbow streak through the floor. How hasty.
+
+Not that Yan Renshu did not understand. The clash was escalating.
+
+Tens of kilometers of flesh rose through the tunnels, marching feet and scrabbling claws beyond counting. The World-Corpse spasmed and vomited forth power from her wound womb into the waiting hands of the Weavers. Those Who Crawled rallied to the call of the Incarnate Assembly, and their Corpse Champion, the Prince of Millions, crawled forth to make war upon the intruding sky.
+
+Cruel Virtue met his advance, and ten thousand eyes of judgement slashed away one hundred thousand hands with their gaze, even as the breath of the World-Corpse ate his flesh. Yet from each hand rose a warrior, bearers of the word Pain, and the prince spoke from countless mouths…
+
+Yan Renshu grimaced as he took a tighter hold of his senses, feeling the trickle of wetness on his upper lip. Yes, escalating indeed.
+
+“Sect Brother Yan?” a voice spoke up to his side.
+
+The chamber he was in was one of five like it laid out exactly around the central array of this sector. Each sector was, in turn, a point on the larger pentagon surrounding the central camp. Shaped from the surrounding stone, each chamber was an exact cylinder, three meters in height, connected to the others by narrow passages, intersecting and punching through the many natural caverns and tunnels.
+
+“Continue your task,” he replied, barely looking at the speaker. The three others with him in this chamber were disciples in the nine hundreds, and he felt little but contempt for them. Each was many times his age but a fraction of his cultivation. Ambitionless creatures, they were broken to the boot, happy to wag their tails for their masters.
+
+Yan Renshu held in the sneer that wanted to form as he carved a new stroke with each movement of his chisel, rapidly forming the next character in the chain that would stabilize the arrays in this sector.
+
+This situation was a microcosm of everything wrong with the Sect and the Empire it was a part of. He, an unparalleled genius, was reduced to scutwork on the front lines of a petty battle, his education and cultivation stunted, all because those above him had decided that he offended them.
+
+His chisel struck the stone fiercely. That was not entirely true. His final ruin had come at that girl’s hands. A genius as well, he might have considered her a peer. Sadly, his effort to separate her from the fat noble leeches had ended in failure. She certainly would not have understood it as a favor. He would give the Cai and the Bai that; they were quite good at taming their pets.
+
+Even the elders, whose approval he had assumed when his operations had been allowed to run for a full year unchecked, had turned against him in the end. He had been used. Left alone to serve as an obstacle, when it all came down around his ears, he had been the one admonished and chided like a child. Only his value as a crafter had given him this “second chance.”
+
+A new character carved, Yan Renshu took to the left to begin the next. It carried him within arm’s reach of the central array, already glowing fiercely with the energies of the vast formation flowing through it.
+
+Yes, the Sect had only been another oppressor, a pet of the Duchess and her nobles, Yan Renshu thought scornfully, their vaunted independence from petty local politics a lie.
+
+His sleeve slid down as he reached high to begin chiseling the next character, revealing a bangle of bone on his wrist. To any other senses, it was just a talisman, but in truth, it was a welcome gift from the being he had met in the deep caverns where he had been forced to go harvesting with his own hands. The bone talisman shielded his thoughts from prying elders and senior disciples alike.
+
+The Empire was not the only polity in this region, whatever it claimed. How arrogant the Empire was, never considering those who dwelled below, those who had watched their squabbles and their infighting for millenia, those whose lands the Sect callously poisoned with their vents.
+
+Yes, Yan Renshu could understand how that would feel. His contact, too, understood his situation. Understood how he had been wronged. Gutou, as the being called himself for ease of communication, had been watching the Sect for a very long time, and he, inhuman as he was, had been the one to notice Yan Renshu’s talent.
+
+Yan Renshu eyed the central array as he shuffled further to the left and felt in his bones the spiritual rumble of a battle far beyond his ability below. He could feel the elder and the core disciples, their power burning in his mind’s eye and all of it focused on the spirit wrought by the Deep Dwellers.
+
+Yes, this array was beyond his ability to construct, but as that insolent girl had shown last year, one did not need to fully understand something to break it, especially when it was only half finished.
+
+When his chisel came down, severing the seventh stroke of the eighth power storing character, the stone began to crumble, spewing toxic underground air.
+
+When portions of the array throughout the room began to erupt, unable to contain unrouted power, he relished the screams.
+
+He would get the recognition he deserved one way or another.
+
+***
+
+Shen Hu’s knee struck the ground, the quiet thump echoing like thunder in the empty tunnel. His robe hung heavy and wet from his shoulders, tattered and soaked with foulness. Around him lay a charnel house. The narrow, round tunnel was studded with spikes of stone and crystal, stained with black blood and adorned with limp bodies.
+
+Ahead lay a barricade, but he had been retreating. Ever since the perimeter camp’s defenses had broken, everyone had been falling back from post to post, tunnel to tunnel. The enemy had come in a black tide, endless warbeasts ridden and herded by pallid drivers, the rat men, the corpse eaters and twice born.
+
+The twice born had earned the name. In death, they rose again, eyes and mouths and tongues grasping in the dark, a nightmare of faces and limbs mashed together. Twice, Shen Hu had seen disciples fall and jerk back up, black ooze leaking from their wounds, corpse pieces flowing toward them on rivers of filth, dead meridians churning qi back to action. Twice, he’d cut them back down with his own claws.
+
+Shen Hu’s arms had never felt so heavy.
+
+A piece of the iron barricade before him groaned and fell backwards with an echoing clatter, acid-eaten metal giving up in the face of the tide. He dragged in a raspy breath as he straightened, focusing on the tunnel ahead. If he focused, he could still feel them in the deeps.
+
+Ten thousand eyes burning with Virtue, greyed with the cataracts Falsity and Failure, met in the dark ten thousand eyes below bright with Faith, and Virtue of Thrones did falter. Ten thousand limbs dripping with rot spread in the offer of embrace, sympathetic to the pain. And Virtue was so very tired.
+
+The world of pallid flesh and faith below quaked, its blood pouring in rivers from exacting wounds. A sharp-edged quill forged of theorem and logic cut deep into quivering iron bound flesh, and the grasping hands of the dark met a weave of equations presenting irrefutable proofs that the Archivist of Vice, daughter of Hidden Moon, was untouchable.
+
+Shen Hu tasted bile in his throat, hacking painfully as he cut off his spiritual sense. He didn’t let himself think about the fact that even Elder Jiao was being pushed. It was funny, he thought. He’d always imagined so much more noise when he thought of an elder’s battles. But the tunnel was still and silent but for his breathing.
+
+He was so tired.
+
+Warmth bloomed in his chest, and for just a second, he smelled not gore and rot but the fresh scent of the harvest and the feeling of sun on his back. For just a second, he remembered home.
+
+The warm sun chilled in his chest, and a quiet, sleepy voice counseled retreat.
+
+All around him, the armor of clay pressed like a second skin to his chest rumbled in agreement. He couldn’t retreat though. The others had fallen, and the work site behind him was still cut off. This was the last place to hold.
+
+Lanhua, compressed against him, groaned more strenuously.
+
+Shen Hu frowned as he caught movement in the shadows of the tunnel, skittering things, halfway between rat and insect. They were always first, preparing the ground, laying down corpses to be absorbed by the others.
+
+... He was going to die if he stayed here.
+
+The realization didn't hit as hard as it had all the months ago in the dream.
+
+He swept forward, and his claws carved apart a leaping rat thing. Across the ground, clay and murky water rippled, sucking still more down. The scent of summer filled his nose even as he gutted a second, and a flung stone pulped the head of a third. Wriggling entrails clung to his arm like worms, spilling acid across his crystal clad arms. Sprouting mineral thorns tore them apart in time for him to catch another beast, leaping for his face.
+
+He thought of the faces of the production disciples behind him, working so hard to reconnect the arrays. If he fell back now, it would be ruined.
+
+Acrid gore splashed across his lips as he tore another rat beast apart. He felt pebbles rattling, heavy motions vibrating the earth. Shen Hu raised his arms as he leapt backward and caught the great jaws of the beast that erupted from the earth, a great slick black worm, its open jaws spewing corruption. Lanhua caught him, and he ceased to fly back. The worm’s jaws broke, and soft flesh split like wet paper where it met arms of stone.
+
+Beasts erupted from within the carrier.
+
+He didn’t know them well, but the production disciples didn’t deserve to be buried here. All of those craft disciples working furiously in the camp. They needed his protection. His seniors had gone below,to assist the Elder.
+
+Lanhua’s plea rumbled in his ears, but his other spirit was silent.
+
+A tentacled thing with vertical jaws that split its asymmetric ‘face’ seized his neck in slick coils. He snapped his head forward and felt teeth shatter on his forehead. His claws lashed out, blurs of black diamond, and a half dozen abominations fell. He stamped his feet, and the earth rose to swallow a half dozen more, rising in a cresting wave of mud that pushed the mass of bodies back.
+
+He saw the end of the tunnel and saw the face of his foe. Armored in blue black chitin, the shishigui crouched atop the back of a hulking thing that was more hound than rat. Despite its eyeless face, he could feel it watching him. He took a step back.
+
+There were more coming. Armored and mounted, beasts teemed at its feet and squirmed in the walls.
+
+Even collapsing the tunnel wouldn’t stop them long, Shen Hu thought absently. Not without a cultivator here to contest command of the earth. Something had gone wrong with the sealing arrays, and now he alone held this path to the camp.
+
+Lanhua rumbled again, and he felt the plea in her tone. She was tired and drained; it was everything she could do to armor him.
+
+“I’m sorry, girl,” he murmured. There was no need to explain what he was apologizing for.
+
+He would not run while people were relying on him.
+
+He could no more retreat than he could fly.
+
+The corpse beasts came on, writhing and flopping and crawling.
+
+Shen Hu remembered the little stream where the thrushes grew thick. He remembered being an odd quiet little boy with a bucket, playing in the mud where he’d met his best friend.
+
+<You should go,> he thought gently. <It’d make me happy if you made it.>
+
+He caught the point of a lance made of bone between his palms and turned it aside before driving his talons into the rubbery flesh of the broken corpse that wielded it.
+
+She refused. He insisted, falling back, step by step.
+
+A gash opened on his arm as crystal shattered, acid burned on his cheek, and he felt stagnant air in his mouth.
+
+He pleaded, and she refused. It hurt his heart, but… would he have left his best friend behind?
+
+<You should go, Xuxie,> Shen Hu thought to his hidden second spirit, his trump card in many battles. They didn’t need to stay either. His body moved by instinct now, far beyond conscious thought.
+
+His only response was a warmth in his limbs, the fading of exhaustion. In his mind, the summer sun set, and the cool breeze of fall blew on. He sharpened his claws, hardened his hide, for one last stand.
+
+Well, that was true. Summer never really died; it just went away for a while. Shen Hu sharpened his claws, hardened his hide, for one last stand.
+
+He would have liked to see the sun again.

@@ -1,0 +1,139 @@
+---
+id: 801be54e-dee3-526c-819a-7f13c454f0a5
+page-type-slug: story-chapter-royal-road
+title: "Threads 475-Glass 5"
+slug: 0520-threads-475-glass-5
+partOf: forge-of-destiny
+position: 520
+ownLength: 1927
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2629336/threads-475-glass-5"
+royalRoadId: "2629336"
+---
+
+Xia Anxi stilled. She could feel his examination. He was so sure she was mocking him.
+
+She met his eyes steadily, refusing to let him see anything but the simple, plain intent of her words.
+
+A part of her had found this nonsensical. Why would he bring this up? Why would he push and prod her for her thoughts on his past when he insisted that he didn't want to talk about it? The answer came to her. Because she knew. Because he'd not ever been able to speak of any of this to anyone. He still couldn't.
+
+He didn't trust her, and yet, she knew, so his words couldn't reveal anything hidden from her. Without that fear holding him back, he couldn't restrain the need to speak. He snorted."There really isn't any fear in you, is there?"
+
+"I have fear of many things, but not that. That's another difference. Even at your lowest, you knew how high the heavens were and how many tiers there were on that mountain."
+
+"And you did not? I don't see…"
+
+"When I roomed with your lady in the sect, she was the one to tell me who the duchess of my own province was," Ling Qi interrupted, amused by the memory. "It was needed to explain why my lady, Cai Renxiang, was important."
+
+He stared blankly at her. "What."
+
+"Exactly. So no, at the start, I was terrified of everything, because there wasn't a single person who couldn't easily snuff me out. When you are afraid of everything, it can appear as if you’re afraid of nothing. It's certainly what let me approach your lady at the beginning."
+
+He rubbed his forehead, looking as if every word she spoke pained him in a new and interesting way. She wasn't usually the sort to be amused by that, but she couldn't hold back a chuckle.
+
+"If one is too ignorant, I can see how all nuances fade into one distant cloud of terror," he admitted grudgingly.
+
+"I notice you don't deny my other judgement."
+
+He scowled. "What use would there be in that? You've seen enough that no lie could convince you otherwise. So, yes, that is… the point of us, those who occupy the middle of the mountain. We must listen to great spirits and great nobles alike in order to preserve the comfortable ignorance of those below. Or do you let your fishers look directly into the eyes of your lake spirit?"
+
+"It would break them, so obviously not. But I disagree with your framing of it as a preservation of ignorance."
+
+"And what else is it? The world is not perfect, nor are the lives of mortals, but that is the ideal. What possible good could come from having those above us wander through the mortals’ fragile world of glass, shattering everything with an errant step? Mortals may be cruel in their own ways, but reach is no minor trait."
+
+"It is true that spirits and sovereign cultivators are best dealt with through intermediaries, but there are many small rites through which the mortals of Shenglu perform for the lake. This is not a direct interaction, but they are aware of the spirit of Snowblossom, and she, of them."
+
+"At a distance. A man pays his taxes. It does not mean he wishes to look the serpent who tallies the year's total in the eye."
+
+"Maybe not," Ling Qi allowed. "At the same time, for humans, even those who will grow to be sovereigns, not knowing mortals is a mistake, if one intends to rule. People say that higher cultivators are more like spirits at times, but this is not true, at least not for those who haven't reached the final stage."
+
+Even Xia Ren had some humanity to her. It was pride and contempt which fueled those flames, as much as the more spirit-like drive to render all down into the material for the next stage of progress.
+
+"That is not untrue. The greater spirits of sea and current are difficult in ways that even higher realms are not, but that is more a difference of type, rather than kind."
+
+"That could be, but I think we've wandered off the main point. One would think you like talking to me, Xia Anxi."
+
+"Your thoughts are a baffling puzzle. I'm afraid I've always had a weakness for such," he sniffed. Setting his hands on the meditation stone, he levered himself up and stood.
+
+"As you wish. I hope you've at least accepted that I'm not plotting against you." Ling Qi hopped to her feet, a brief breeze kicking up to scatter the few grains of sand that had caught on Qiyi's hem.
+
+"Not in the way I was thinking. I had some concerns that Lady Bai was attempting to play matchmaker, but it seems that is not the intent."
+
+"What."
+
+Now, he was the one walking away without answering. That wasn't right at all!
+
+"I will need you to explain that," Ling Qi said, not bothering to walk the distance he'd opened up, simply materializing in step with him.
+
+"That's what gets you out of sorts?” Xia Anxi asked incredulously. “Incomprehensible. It was only a jest. You made a similar one yourself!"
+
+She glared at him. That was mostly true, but it didn't feel entirely true. Was Meizhen up to something? She would have to interrogate her later, when the opportunity arose. "Fair enough. Do you have an idea of where you want to go next?"
+
+"I would like to see the business of some of your painters. I'm told that Lady Bai may want some new decor for her rooms at the embassy. A reminder of her victories."
+
+Ah, well, it will be difficult to find a painter willing to show the heir of the Sun in humiliating defeat, but she supposed they could give it a try.
+
+"In that case, we should take the east twigward exit from this district. Do you have a specific idea of what Lady Bai might be looking for?
+
+"A number of portraits, as I understand it. I've been given a list…"
+
+"Triumph over the Sun?"
+
+"Oh, no. She's already commissioned that one from an artist in the Lakes. However, she does wish to show support for our allies with some other pieces."
+
+"Oh, good," Ling Qi sighed. "I'm glad Lady Bai is so considerate."
+
+"Naturally," Xia Anxi said airly. The glow of the furnaces was fading behind them, and the faint ash scent in the air cleared up as they reached the outskirts. "It is not as if any but a Bai could give such a scene its proper treatment."
+
+"I don't doubt it." Ling Qi gave him a considering look. "Xia Anxi, you still have a question on your mind."
+
+His lips twitched downward into a frown. "So? Regardless of how I might have seemed after our chat, I need not speak every thought that crosses my mind."
+
+"You don't," Ling Qi agreed. "From here, we should take the second trunkward twig further west, then proceed twigward down the main branch from there. The painters of Xiangmen aren't centralized, but the district at the end is home to several well known painters. I'm told they all have a bit of a rivalry, so they always have new work on display to compete with each other."
+
+"Talent sharpens talent," Xia Anxi recited dubiously. "It seems gauche to flaunt a rivalry so publicly."
+
+"How could one judge the quality of art without an audience?" Ling Qi shrugged. "So far as I understand, the neighborhood is quite fond of it."
+
+Xia Anxi made a noise of assent. He was frowning again though. She didn't say anything this time. Further prodding wouldn't be helpful.
+
+They proceeded out from the industrial district, traveling along the wide branch boulevard. The homes and businesses here bordering the industrial district were among the least ostentatious in Xiangmen, at least compared to the open flaunting of wealth which filled much of the cloud district.
+
+These were the homes of craftsfolk. There, she spied a cast iron bench in a small front garden, its seat arranged as the spread wings of a bird. A few paces ahead, she saw a window of red glass, a fiery tribute to the zenith sun in colored panes, and beyond, an arrangement of garden flowers shaped into a cipher of courtly characters spelling out the lines of a poem.
+
+She blinked and coughed into her hand. Her cheeks flushed. That was… vivid.
+
+She hoped the courting between that person and their neighbor went well…?
+
+"Just what are you staring at?” Xia Anxi demanded. “It's certainly an intricate garden, but I see nothing special."
+
+"I was thinking about how the wealthier parts of the cloud district are more conforming, despite their great shows of wealth. The decor is much more unique here."
+
+"These crafters are well off, but they do not need to keep up with the fashions and trends of court. It is as I said, those under the close scrutiny of rulers must be the most careful."
+
+"One must be careful not to offend when performing a rite, but one's whole life can't be like that," Ling Qi groused.
+
+"You never know when your superior’s eyes will fall upon you. Authority is by necessity a harsh burden."
+
+"Is it by necessity?" Ling Qi wondered. "Most people will have the same routine day after day without needing to be kicked to keep it up, if that day-to-day is comfortable."
+
+"Most will, but assuming all is only asking for challenges and chaos to ensue. This will only make life worse for everyone."
+
+"So, be harsh today so that there need not be worse tomorrow?" Ling Qi asked dubiously. "That reasoning seems circular, or at least self-fulfilling."
+
+"This is where I truly do not understand you. Power is cruel by its nature. Its exercise is violence. Rulers cannot be kind by definition. Presenting such a face only incites the ambitious to take advantage of weakness, and it is a lie to the ones beneath you who must now guess at the line where the silk fan snaps shut and reveals the blade, rather than having certainty in their authority," Xia Anxi said, frustration creeping into his voice.
+
+"I see. You're not really entirely thinking of me here, though I do confuse you."
+
+"I did not think I would need to be so crude in making my point, when your insight is so clear," Xia Anxi complained. "But fine. What is it that my Lady Bai wants from me? You know her mind well. Better than I. What is she trying to instill in me with this… soft touch she uses?"
+
+Ling Qi toyed with a few responses.
+
+This was a perfect example of her dilemma around how best to communicate a truth. Xia Anxi was not primed to believe the baldest version. If she answered so cleanly, he would dismiss her words, no matter how sincerely she spoke. On the other hand, cloaking the truth too much would just give him the wrong idea, leaving him dissatisfied and unanswered, or worse, make him actively misunderstand.
+
+"She wants trust. I spoiled her in some ways, I think. I've seen how she worked on Xiao Fen."
+
+Bare truth, followed by an aside that he could investigate himself to “prove” it. He couldn't avoid interacting with the black viper, and this would put him more in the mind to pay attention.
+
+"It's important for her to know you, so that she can trust you with more important matters."

@@ -1,0 +1,137 @@
+---
+id: 982f8563-ffcd-50ae-a71d-b0dd40a3a7c4
+page-type-slug: story-chapter-royal-road
+title: "Threads 150-South 3"
+slug: 0180-threads-150-south-3
+partOf: forge-of-destiny
+position: 180
+ownLength: 1973
+unit: words
+publishedAt: 2021-11-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/780922/threads-150-south-3"
+royalRoadId: "780922"
+---
+
+The marriage ceremony is past us, fraught as it was, but I find that my misgivings have not faded. Although the High King’s effort to blend our ceremonies with those of the mountain folk seemed to have not roused any spirits of ill fortune, it displeased the people.
+
+Few have kind words to speak of the mountain prince. His shrinking, womanly demeanor earns no respect among the warriors, and his foreign traditions bring much dislike from the mystics. How can a man be a husband if he cannot even provide his wife with the marriage dinner using his own hands?
+
+The dissatisfaction among the lesser kings who had hoped for the princess’ hand is immense.
+
+The High King pays too much mind to foreigners.
+
+~~~
+
+The High King has, I suspect, worsened this matter in his attempt to reach reconciliation. The Mystics of the Five Suns Temple will not be mollified that Prince Erkin’s foreign rites do not conflict with their rituals nor demand participation from outsiders. They say that the spirits will be confused and angered by the disorder foreign rituals will bring.
+
+On this at least, I am ambivalent, having spoken to the Prince and observed his rites. Although the worship of the seasons manifested through the sun and moon is strange and backward, I do not see the point of conflict. This Spring Sun seems like an aspect of Dawn to me. There is no wrong in the propitiation of lesser aspects, so long as the Five maintain primacy in the state rituals.
+
+Despite my misgivings then, I will need to advise the High King that this matter has likely been instigated by less spiritual concerns. Disagreeable as his personage may be, this is simply a pretense to undermine Prince Erkin’s legitimacy. The Conclave of Kings is but a few decades away, and it seems likely to me that he will meet challenge for his seat there.
+
+Despite how helpful the prince’s people have been in curbing the threat of the cloud tribes, I begin to wonder if this alliance has been in error, if it exposes such faults among our people.
+
+***
+
+Ling Qi grimaced, setting down the sheet of paper on which the journal entry had been transcribed. The page was a study in contrast, the elegant script of modern imperial written above the simpler characters of the old Weilu dialect.
+
+“I’m not sure your findings bode all that well for our mission,” Ling Qi grumbled.
+
+“It does seem that relations were quite fraught,” Meng Dan agreed, peering at her over his spectactles. “This was in the period leading up to the Mason’s War, and this was, so far as I have been able to discern, the last time the Weilu would reach out to outsiders before the Sage Emperor brought the Conclave of Kings to heel.”
+
+Ling Qi rubbed her temple with one hand. And wasn’t that a weird idea. She knew that new emperors were chosen among the previous emperor’s children, or if necessary, siblings, by the imperial clan’s elders, but having what were basically the counts all come together to choose who among them would be duke seemed like it could only end in war.
+
+“I’m not sure how this fits with what we were told about the land they live in either,” Ling Qi admitted, reaching out to place the page back atop the others. Meng Dan was still working out the chronology of the entries; the fragments he had found had been scattered out of order. “This prince seemed like he was very soft.”
+
+She had expected an account of a domineering sort of man, a gender-flipped image of the imperious woman she had met in the caldera.
+
+“Not all members of a given society match its archetypes,” Meng Dan pointed out. “Although ‘soft’ is not the word I would use. You recall the seventeenth fragment?”
+
+Ling Qi thought back a moment. That was the one… The one with the duel. Some high ranking warrior had challenged the prince, and he’d just stood there and accepted a beating until the challenger gave up. The journal writer had seemed somewhere between disgusted and impressed.
+
+“Crazy then,” Ling Qi corrected. She genuinely could not fathom a mindset like that. She could see enduring hardship, but just accepting hurt without trying to retaliate or escape?
+
+That was alien.
+
+“As you wish,” Meng Dan replied. “But I believe such appellations are futile when applied to those who cultivate. All of those who are drawn to the peak of power are mentally aberrant.”
+
+“That must be a popular opinion,” Ling Qi said dryly. Meng Dan smiled mysteriously.
+
+She sighed, glancing back down at the sheaf of papers. Should she reread a few and try to glean more from the scraps?
+
+“It’s time to go.” Sixiang’s voice put an end to her thoughts.
+
+“Is it so late already?” Meng Dan asked. He glanced around at the empty carriage, now cleared of all his things. She had originally come here on the pretense of helping him pack and to pick up Hanyi since she had been hanging around Meng Dan to pester Yinhui, but it had turned into a shared study session in the wee hours of the morning.
+
+Well, it had been productive enough, even if she’d gotten sidetracked from getting to know him.
+
+“It seems so,” Ling Qi said. “Thank you for giving me access to your notes.”
+
+“It is always a pleasure to share with someone genuinely interested in the past,” Meng Dan replied as he stood, smoothing his robes. “Hopefully, we might discern more of use as I continue piecing things together.”
+
+“Opportunities might be a little thin, but I agree,” Ling Qi said. “I will see you at the rendezvous.”
+
+***
+
+The main sect force had reached its initial stopping point and had camped on a low mountainside that seemed like a hill among the immense peaks of the Wall. Construction on a new fortress was already underway; dirt and stone were being shaped and foundations were being laid.
+
+From here, they would set out on the second leg of their journey. Joining one of the dozen odd scouting forces that would be ranging out, they would hopefully slip through without significant notice further to the south. Collecting her spirits, Ling Qi met Cai Renxiang and the others at the foot of the mountain.
+
+The heiress looked strange, wearing the presence-damping cloak of the Sect’s scouting forces. Cai Renxiang seemed so small without the radiance reflecting from Liming’s glittering threads. The others wore them too, but even on Gan Guangli, it didn’t seem so odd. The only one going without was herself.
+
+Her skill at stealth had surpassed the cloak’s ability to enhance.
+
+“Lady Cai,” Ling Qi greeted as she touched down on the beaten dirt of the staging ground.
+
+“Ling Qi,” Cai Renxiang acknowledged, glancing up from the unrolled map which Xia Lin was helpfully holding out. “You have acquired the rest of our supplies?”
+
+“I have,” Ling Qi said, holding out her hand. In it was a white jade ring. Inside it were the group’s supplies for the mission: medicines to help with recovery from battles or exhaustion, a short range escape talisman for each of them, the reagents for a temporary emergency shelter, environmental protection talismans, and more. In addition, it contained diplomatic tokens, gifts to provide to envoys, and guidelines for a transport agreement and a treaty of nonaggression.
+
+Cai Renxiang accepted the ring with a simple nod.
+
+“Then, we may move to the main discussion, I think?” Meng Dan proposed, toying idly with his sleeves.
+
+“Indeed,” Gan Guangli rumbled. “We must determine which scouting route best serves our interests.”
+
+“Have you all come to any conclusion on that?” Ling Qi asked.
+
+“Lady Cai has narrowed the choices,” Xia Lin replied.
+
+She glanced at Renxiang, who turned back to the map. “Based on the movements that the Sect has shared with us, I have discerned the paths least likely to lead to discovery by the cloud tribes.”
+
+Ling Qi leaned in as Renxiang traced her finger along a circuitous path leading west and then south.
+
+“This region is known to be at the edge of the territories of conflicting tribes, which are not known to have entered into the Twelve Stars Confederation. With current hostilities, the barbarians are keeping to their camps. Still, while the land is tame, it would present us more risk of discovery.”
+
+“The tribes in that region are quite weak,” Xia Lian said. “It is likely that with our abilities, any hunting parties which happened upon us could be eliminated without difficulty, and our group gone before their disappearance could be investigated.”
+
+“Perhaps,” Cai Renxiang said. Renxiang shifted her finger to the east where a black line indicated a deep pass between two mountains. “This is another. It is the lair of a fifth realm underworld dragon, and the barbarians avoid it. The creature has been amenable to speaking with imperials in the past. We may be able to negotiate passage.”
+
+“The pride of dragons is quite a thing however, and the beasts of the underworld are more prone to whimsy than most,” Meng Dan noted. “The last reports available are two decades out of date as well.”
+
+“That is a deterrent, but new scouting does at least indicate the creature still lives,” Cai Renxiang replied. “The last route which seems viable is this valley here.”
+
+Her finger moved down, tracing a path due south and then west. “This region is heavily forested for the Wall, but the spirits are wild, not well inured to human contact and poorly documented. The terrain is, however, much to our advantage.”
+
+“It seems to me that it would be the shortest route as well,” Gan Guangli thought aloud. “It may behoove us to quickly move out of the region. I doubt the barbarians will leave the Sect uncontested for long.”
+
+“A good point,” Cai Renxiang said. “Speak freely now. What do you believe is the best path?”
+
+Ling Qi frowned and considered the various routes.“I think I am inclined to the forest path. Is there really no other information on it though?”
+
+“The last significant survey of this region took place in the days just after Ogodei,” Cai Renxiang replied. “And that was not truly thorough.”
+
+Xia Lin frowned. “Unfortunate. I still believe dealing with and silencing human foes would be more reliable than dealing with either unknowns or dragons.”
+
+“I do not doubt everyone’s martial prowess, but stirring up the wrath of foes upon our prospective ally’s doorstep strikes me as rude,” Meng Dan said.
+
+“If they become allies, those tribes will be foes regardless,” Xia Lin challenged.
+
+“That may be true, but is it worth risking greater attention?” Ling Qi asked. “I trust in Sect Head Yuan and the General, but we do not know the full extent of our enemies’ forces.”
+
+Xia Lin continued to frown, but eventually nodded. “A fair argument. If we must deal with spirits then, the forest seems the better path. Should the dragon be recalcitrant, we would have no recourse but to retreat. Scouting has shown no sign of such a spirit in the forest.”
+
+“I am sure that there will be a fourth realm or two in such a region,” Meng Dan mused. “If things go poorly, that would still be within the realm of our scout commander to intervene.”
+
+“That is true, but I trust in Miss Ling and Lady Cai to avoid that,” Gan Guangli said confidently. “That is why I believe the forest to be the best path.”
+
+With their arguments made, they fell silent, waiting for Cai Renxiang to give the final decision. The heiress stared at the map in Xia Lin’s hands for a moment later before nodding. “The forest then. Let us prepare to depart.”

@@ -1,0 +1,145 @@
+---
+id: d6bae3d5-0292-5b42-ba01-4a12c0a01a54
+page-type-slug: story-chapter-royal-road
+title: "Threads 377-Finishing...Interrupt"
+slug: 0417-threads-377-finishinginterrupt
+partOf: forge-of-destiny
+position: 417
+ownLength: 1995
+unit: words
+publishedAt: 2024-04-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1616631/threads-377-finishinginterrupt"
+royalRoadId: "1616631"
+---
+
+The hall was silent.
+
+Inspector Cao continued. “I had already suspected such before the specter of this Sky-Palace was raised. I now understand why your people can manage with such low realms in charge. These 'mantles' in your cultivation, the amount of power they can draw is not so small, is it?"
+
+At that, a great deal of murmuring and words whispered back and forth sprung forth. Ling Qi's eyebrows rose as she swiftly scanned others’ reactions. Dzintara's expression was sour, but Inzha's was mildly impressed.
+
+"Inspector, Lady Cai, and other worthies, this is true," Jaromila replied. "We may more fully mantle ourselves when acting in accordance with the gods and our own soldiers’ councils. There was no intention of deception here. The techniques in effect with the sky sledge are normal military arts, common throughout the White Sky. It is only our innovations with flight and powered vehicles that are new."
+
+Luo Jie rapped his cane on the floor for attention. "It seems there should be some amendment to our agreements then, on the movement of such devices."
+
+"Or more immediate study," one of the courtiers murmured.
+
+"We should not let unknown techniques…"
+
+"Shall each and every one of us share our clan cultivation arts then?" Ling Qi asked, raising her voice over the noise. "The formations which empower our soldiers, which we use in the cultivation of armies?"
+
+Cai Renxiang spoke. "Indeed. Let us not be caught up in fear. I am certain our guests have already considered any formation capable of generating a sovereign’s power to be within the remit of our treaties."
+
+"It is so," Dzintara said tightly. "It is our way that the power of the mightiest is best used through the hands of we who stand in the mortal world fully. You clearly do not believe so, but we do."
+
+"The active exercise of what you call sovereignty is taboo outside of dire emergencies, regardless," Inzha said.
+
+"Like, is it really a big deal?" Hanyi wondered aloud. Ling Qi gently tapped her shoulder and shook her head
+
+"And how are we to know that?" Cao Chun demanded. "It took time even for myself to detect this.
+
+"How are we to know that you do not have those who have carved away all but their shadows sneaking and watching through our borders?" Dzintara retorted.
+
+Ling Qi did not glance down at her own shadow. "Some measure of trust is necessary. And have the White Sky not discussed the possibility of allowing inspection of the devices in time?"
+
+"We deal in good faith," Jaromila insisted.
+
+Meng Deming frowned. "This business of theirs does not show the signs of a trick."
+
+Wang Lian stroked her chin. "If it calms my colleagues' hearts, a minor adjustment to the words of the movement treaty may be made. Perhaps we can place a requirement that cultivation-powered vehicles must be registered and announced before crossing."
+
+"Not merely our sky sledges?" Inzha asked, amused.
+
+"Future proofing," Wang Lian maintained.
+
+There were a few titters among the imperials and grumbling among the White Sky.
+
+"What would even count under this proposed provision?” wondered the younger dragon priest. "Not beast-pulled vehicles, I assume. Self-powered devices only? Many common formations in transportation require the active qi upkeep of their drivers."
+
+"It would be hard to define…"
+
+"Can't just let the foreigners do as they please!"
+
+Ling Qi grimaced. Despite her words, many on her side had gotten it into their heads that they had been tricked. Among the White Sky, she saw affront at being treated like they had lied.
+
+"I have no doubts that the White Sky has not acted with any intent to deceive," Ling Qi placated. "However, we must not write our treaties with only ourselves in mind. One day, if we are successful, those who come after will be bound by them as well, and they may not know of intent. Thus, it is best to be very exact in our meanings."
+
+It was a hasty recovery. In the end, it was better to have arguments about red tape rather than simmering tensions arising from misunderstandings.
+
+"To that end,” she continued, “while I would never ask the White Sky to share its cultivation secrets, perhaps some clearer description of the deployment of sovereign energies and law might calm everyone's minds. You have seen ours; there is nothing subtle about it."
+
+Barring those like Shu Yue, who the White Sky was certainly aware of to an extent.
+
+Dzintara glowered at her, and there was still much grumbling among the White Sky delegation, but it felt like she had arrested the escalation of the argument. Her own side had simmered down to let her speak.
+
+"Only the broadest possible strokes," Cai Renxiang agreed. "Like the baroness, I fully trust your intentions."
+
+Jaromila glanced at Inzha.
+
+The tall woman smiled, showing none of the bother of her peers. The faint whirring of gears and clockwork in her aura was loud and quick in Ling Qi's ears though. Her thoughts were certainly flying.
+
+"You have discerned that those who ascend among us are sedentary. Your watchers' unorthodox investigation methods have given you insight. Vehicles like the sledge are mobile forms of the empowering ascended. They allow our soldiers to wield the powers of the runes and your law. I have observed that your military formations use similar methods, save that it is your officers empowering their subordinates rather than artifice or a distant god," Inzha explained.
+
+"The Weeping Sentinel is the most mobile form of what you would call a sovereign, a guardian god, and a local one," Jaromila said. "The greater ones are in the interior of our nation. Their sovereignty and the sharing thereof belong to their priests and then, their people, as the god desires. We cannot lightly call upon them for offense."
+
+The last word held an ice cold pressure that left the room cold and the windows rattling.
+
+"Those who rise so high may be of man or land, but they are above the pettiness of mortal politics," Dzintara said. "Still, fine. If it will set your fears at ease, let it be written into our arms treaties that vehicles which carry a greater god's voice shall be restricted as your sovereigns are."
+
+Ling Qi caught the briefest flicker of exasperation in Jaromila's eyes as she shot the other woman a look before she smoothed her expression into a pleasant smile. "Yes, we are reasonable. Specifying this directly is not a problem."
+
+Dzintara's comment had brought some sour, affronted grumbling from her own side, but thankfully, none of the primary comital representatives seemed too upset. If anything… She stole a glance at Luo Jie. He looked thoughtful and closed off, her senses sliding right off of him, preventing her from gaining any inkling to his thoughts. Wang Lian merely looked impatient, like she wished to return to the original subject, and the rumbling of her aura told the same.
+
+"I am pleased enough with this, though,” Meng Deming weighed in. “I hope we might discuss the sharing of knowledge further. Access to the observatory alone may be insufficient."
+
+"I will be happy to speak of that later," Inzha said.
+
+"Yes, that is more a private negotiation as well," Cai Renxiang said with finality, her tone pointing to the end of line of conversation. "Shall we schedule the negotiation of the wording adjustment to this evening with the provision to be ratified in the morning?"
+
+"That is acceptable," Jaromila said. "The remaining talks must mostly wait until our clergy have time to speak among themselves. Allowing for small hiccups, I am pleased with the progress we have made today. The foundational framework of religious functions in our border zones has been established, though I am sure there is much talking yet to do before we may put ink to paper."
+
+"It is so. Thank you for your cooperation in the face of questions and misunderstanding," Cai Renxiang said.
+
+Ling Qi was happy to step back and let her liege speak. The weight of her authority was greater than Ling Qi's, and her clear intent kept those who still clearly wanted to dig for more information on White Sky cultivation from speaking up over her. Imperial etiquette was truly useful sometimes.
+
+"I look forward to the continuation of talks once our priests have been able to conference with today's agreements in mind," Jaromila returned. "Lady Cai of the Emerald Seas."
+
+"As do I, Emissary Jaromila of the White Sky," Cai Renxiang said. "Let us complete today's talks and allow everyone to digest the contents. We will reconvene here the day after tomorrow, if that time is suitable for your people."
+
+"It is," Jaromila replied.
+
+There was a bit more ceremony and etiquette to get through, especially with so many priests wishing to say their own few words, but soon, the first day of talks was at its end.
+
+***
+
+"Thank you for being so patient, Hanyi," Ling Qi said. It was important to praise her junior sister when she behaved well.
+
+Hanyi crossed her arms. "Ugh. I felt like a stage prop… but I guess if it made all those old people recognize big sis and momma, it’s fine."
+
+They were on the veranda set in the back of the embassy building, overlooking the grounds that would be the garden. A reflecting pool had been dug, tiled, and filled, but the rest was still largely wood and rope posts outlining where beds and paths would be in the cold, rocky dirt. It was rather low priority with everything else going on
+
+"It was very helpful, and it got you a new venue for your tours, right?" Ling Qi teased, nudging her side.
+
+"Ah, Bao Qian's gonna be all annoyed. Well, not really. I think this is pretty big?"
+
+"I certainly hope so. I'll talk to him after this, if you do end up summering here."
+
+"Did I do bad, agreeing without asking you?" Hanyi asked. She sounded tentative and nervous.
+
+"No. You're my junior sister and Zeqing's daughter. You have the right to decide. Your big sister is just worried."
+
+Even now, there was a large part of her that wanted to deny the White Sky the chance to poke and prod at her sister, verbally or otherwise. She knew it was foolish, but Hanyi was hers. Her sister. Her ward.
+
+But Hanyi also belonged to herself. Ling Qi had long decided that she didn't want to go to the lengths that denied her family’s and friends’ agency.
+
+While Sixiang might needle her about thinking badly of herself, she was a greedy girl. She wanted things. She wanted people. Letting them go hurt her. She hated doing so. She still felt Gu Xiulan's absence as a faint, uncomfortable gnawing when she read the girl’s increasingly sparse letters. She still felt discomfited, leaving Su Ling and Li Suyin behind at the sect. She still wanted Zhengui at the embassy grounds, even knowing that he was doing much better by enmeshing himself in the spiritual court of the fief at Snowblossom Lake.
+
+She was going to have to have a talk with the lake again, too.
+
+She shook her head. That hunger, that greed, was in her, but as Zeqing had shown her, even if that hunger was her, it was still her choice to indulge it. For Ling Qi, the cost of doing so was too high. But she worried sometimes if she had really accepted that.
+
+"Hey, big sis..."
+
+There was a commotion in the embassy behind them. Footsteps beat on the floor followed by the sound of startled clerks and servants. Ling Qi turned before the doors leading inside began to slide open, and she found herself staring at Meng Dan, looking more ruffled than she had seen him since their traversal of the frozen valley in the last leg of their journey south.
+
+"Miss Ling, we need to speak," he said hastily. "In private, please."

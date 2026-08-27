@@ -1,0 +1,139 @@
+---
+id: db62b874-7b54-5ff6-b7f9-42b44fb6f83f
+page-type-slug: story-chapter-royal-road
+title: "38. Condensed"
+slug: 0038-38-condensed
+partOf: god-of-trash
+position: 38
+ownLength: 3107
+unit: words
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2166770/38-condensed"
+royalRoadId: "2166770"
+---
+
+His grip slipped, but only for a moment. Rhys caught the ball and clenched down, tighter than before. It shuddered, tried to slip, but this time, he didn’t let it. The intense pressure from Rhys’ mana, the steam, and the heat all came to bear on the orb, and it finally, at last, melted.
+
+Rhys’ eyes flashed. Now!
+
+He kicked the cauldron. The lid shot off in a jet of steam. A black blob flew out just behind the lid, hurtling up into the air. He grabbed a potion container from his storage ring and held it out, calling the impurities to him with his other hand. The black blob fell, but it retained its shape as it fell. Rhys pulled it into the vial and slammed the lid shut.
+
+Crrk-crrk-crrk. Instantly, hairline cracks shot through the vial. High pitched creaks and shatters filled the air as new cracks formed and existing cracks dug deeper. Startled, Rhys released Trash Intent on the now-empty cauldron and quickly applied it to the vial. The deterioration slowed, but it didn’t stop. The potion was too corrosive, too destructive. It ate away at the mana powering his Intent and corroded it, the same as it corroded the glass.
+
+Rhys poured more mana in, only for it to sink into the impurities. At the absolute top speed he could feed mana into the Intent skill, he could barely keep up with the rate of corrosion inside the glass. He stared at it, shocked. It was a success and a half. On its own, this potion was a training material, to force him to keep Trash Intent up for longer and practice preventing his mana from getting corroded by impurities. If he drank it…
+
+A sensation of terror came over Rhys, his instincts quailing at the idea. If he drank it, he died. He was absolutely sure of that. It was too corrosive. His body, his mana, neither of them were ready for it yet.
+
+He grinned, looking at the potion. Neither of them were ready yet. With the potion he held in his hand right here, though, they’d be ready. He just needed more practice.
+
+Rhys sat by the cauldron and focused his Intent on the bottle. He’d never used it for more than a few minutes at a time, but now, he held it active for hours. At the same time, he paid close attention to where his mana met the potion, watching the corrosive process closely. If he wanted to drink this potion, he needed to be able to handle it without his mana corroding. Whatever it did in the bottle was the same thing it would do inside him, just on an easier-to-handle scale. If he could solve it here, he’d solve it for when he drank the potion, as well.
+
+Fifteen minutes passed. His mana was almost out, and a tiny headache grew at his temples. He had the vague sensation that Trash Intent was drawing an unusual amount of mana, but he couldn’t be sure. He’d never held it this long before. His Intent held strong, though, showing no sign of wavering. He sipped his mana potion to keep his mana high.
+
+Half an hour. The mana loss accelerated the longer he held the technique. He no longer questioned whether it was unusual or not; it was. He needed to sip the mana potion more often now. His temples throbbed, and his skull ached. His Intent wavered at the edges as his focus wobbled, split between the Intent and his studies, distracted by the pain.
+
+Three quarters of an hour. Rhys sipped his mana potion yet again and kept going. His whole head was on fire. His Intent barely held. He would have given up, but there was something about his mana. About the way it corroded. He’d almost understood it. Just a little longer. He only had to hold on a little longer, and he’d understand!
+
+An hour. The first mana potion was empty, and he was already a quarter through the next one. His vision blurred. His Intent wobbled, on the verge of collapse. But none of that mattered. He stared closely at his mana and the impurities, bloodshot eyes wide. The mana touched the impurities, and the impurities infected it, degraded it, then destroyed it. But where did that energy go? Surely it had to go somewhere.
+
+Inside. Inside the impurities. The impurities absorb it.
+
+His mana wasn’t deteriorating. It was changing. From ordinary mana, it became part of the impurities, an energy source for them that allowed them to grow and change. He’d thought of impurities as garbage, as nothing but solid blocks of refuse that he could burn for energy, and that was true, but it was a limited understanding. Impurities were more than just garbage. They were also a disease, of sort. Something one could get infected with. Something that could build up over time, accumulate, but also taint and ruin mana.
+
+Or, at least, that’s what the average person who only sees them as trash might think, Rhys thought to himself. They ruined mana? No. They simply turned the mana into more impurities. More energy for themselves. That was the energy he unlocked when he burned them. Static, low-level impurities passively drained the mana out of objects. Higher-level impurities could actively seek out and absorb mana—though again at a low, slow rate. These impurities were dangerous to him because of his low Tier. If he were a higher Tier, then, based on the vast disparity between his small mana pool and that of a higher Tier mage, they might seem no more than passive to him. It was only because he’d encountered them so early, when he was so weak, that he was able to have this insight.
+
+Since impurities carry energy the same way mana does, I wonder if I could circulate impurities, instead of mana? Rhys allowed himself the thought, but quickly shut it away. It was impractical, for now. It took far too much effort for him to find and absorb impurities of a sufficient strength and density to be equivalent to his current mana, let alone stronger, and even if he fed all his mana in, the transaction wasn’t 1:1. He’d lost all his mana and then some, trying to keep Intent active, and the impurities hadn’t even increased an appreciable amount within the potion. That didn’t even get into the troubles with circulating impurities—the strange and sometimes damaging shapes of them, keeping them moving without letting them cling to the walls of his mana passages, the difficulty of igniting them to get energy out, let alone the problem that he couldn’t put out an impurity fire, only light one and wait for it to burn out. It was a thought for later, not now.
+
+He snapped back to the moment. His mana corroded when it touched the impurities, because the impurities could infect it. When he touched the impurities, tiny bits of them broke off and went into his mana, which began the downward spiral of his mana deteriorating. But what if he didn’t touch the impurities?
+
+Rhys turned his focus on Trash Intent. It gripped an object and filled it with mana, reforming it or holding its shape according to how it was meant to be, or perhaps how the object itself longed to be. The intent itself touched the object, and consequently, touched everything inside the object.
+
+But what if it didn’t? He could see the impurities and his mana without touching them. Using his aura, he could even watch from inside the potion bottle without risking his mana. What if he projected an aura around the trash when he used his intent on it? That way, the mana would be protected, and not only that, but he’d be able to sense things around the trash, rather than simply reshape it and support it with mana.
+
+Rhys took some of his aura and wrapped it around the potion, but that did nothing. The potion was already within his aura. Intentionally wrapping it just meant he paid more attention to it. It didn’t change anything about the Intent itself.
+
+He frowned. No, that was wrong. That was his aura. He wanted the trash to have an aura. Like how he gave the trash intent, he also wanted to give it aura.
+
+He reached out and felt the Intent, sensed every part of it. The Intent skill was formed from mana. His mana had an aura, so surely the Intent skill had an aura as well. He focused on it, searching it for any sign of an aura. The amount of mana actively in the Intent was so small that he could barely feel it, especially on an object this small, but it was there. It was there, and he could feel it. If he could feel it, did it not have an aura?
+
+Using his aura, he examined the potion closely. He could feel it. Feel its mana. And there—was that it? A fuzzy sensation just over the surface of the mana. Like drifting his hand past a sweater in winter and feeling the static electricity against his palm. Right there! From the outside, he sensed the aura.
+
+Now, from the inside.
+
+He turned back to his Intent skill and focused on it. He put his all into it, until he wasn’t just observing the Intent, he was the Intent. He surrounded the potion vial and kept it intact. Bits of himself broke off, but that was fine. He was being fed by the great source, the beginning point of all mana. The pieces he lost would be replaced.
+
+His whole world was the glass within him and the great source. There was nothing else. Nothing else mattered.
+
+No, a little voice interrupted. It does matter!
+
+He tried to push it away, but it wouldn’t shut up. With a sigh, he turned his attention inward. Something sludgy churned within the glass. It was this that tried to invade him, destroy him, devour him. This was what took the pieces of him.
+
+It hadn’t bothered him a moment ago, but now, facing it, he was filled with rage. Something took pieces of him? Unacceptable! The great source had limited resources, and mana potions cost money! He couldn’t simply sit back and allow himself to deteriorate.
+
+The thing he’d used to sense the sludge lit up in his mind. It was weak, but it was there, the same as it was present in all things with mana—an aura. For the first time, he forcibly extended it. He used the aura to surround himself, firming it up and intentionally emitting it at a high enough power to keep the sludge from touching him. The sludge tried to eat away at the aura, but found itself facing a far more difficult task. The aura was nothing but energy, rather than pseudo-physical mana, and it couldn’t corrupt energy.
+
+He smiled, pleased at a job well done, and let his awareness slip away.
+
+Rhys jolted back awake. He blinked, startled. Did I… uh, insert my consciousness into the Trash Intent? No, it wasn’t just that. He pulled up his skill sheet, already suspecting what he’d see.
+
+Sure enough, at the very bottom:
+
+Enlightenment 2 > 3
+
+Trash Aura
+
+He laughed aloud, running his hair back. A level in Enlightenment and a new skill? He’d really made great gains here today. He stood and dusted himself off, then drew out a new vial, used Trash Intent and Trash Aura on it—though using two intents at once made black spots appear on his vision, and almost drained his remaining mana in one go—and poured the potion into the new, uncorrupted vial. Better to reinforce a whole, well-shaped vial than try to keep a near-shattered one intact.
+
+He canceled his Trash Intent on the first vial. Without Trash Intent to keep it together, it instantly shattered. Shimmering grains of glass rained down. Rhys saluted the fallen soldier, then turned. For all that this was great training, he couldn’t keep Trash Intent up forever, not to mention that if he got caught off guard right now, he’d immediately be in deadly danger without the ability to call on Trash Intent to defend himself. It was time for another trip to Sorden. Surely the potion master had specialized vials meant to contain highly corrosive materials.
+
+Rhys packed up his cauldron and the ash, separating out a small portion of the ash for himself. He looked at the potion longingly. He wanted nothing more than to take a sip and see what happened, but he knew better. He hadn’t managed to actually shield his mana against the corrosion, he’d only figured out how to use Trash Aura on top of Trash Intent to prevent his Trash Intent from decaying. That probably wasn’t a good route for him to keep his general mana from getting corroded, so he still needed to work that one out. Plus, the danger he sensed from this potion far exceeded the danger he’d felt from any other source of impurities. He wasn’t going to carelessly drink it. He needed to work up to it, which meant he needed a container to store it in until he was ready to use it.
+
+It was a short trip down the mountain despite his roundabout route to prevent anyone from seeing him exit the upper peak. He headed straight to Sorden, not wanting to risk a negative encounter on the way there. Though at this point, he wasn’t sure who would attack him. He’d countered the low-tier Triple J Crew bullies, and the higher-tier bullies of Cynog’s underlings.
+
+Cynog himself was still a serious threat, but he was pretty sure the man wouldn’t come after him in public again, between the potential that Rhys might actually land a good hit in front of everyone, and the opposite potential that Rhys would simply play the victim in front of everyone, and reap everyone’s sympathy while moving Cynog firmly into the position of the worst bully in the school. It was a rock and a hard place for Cynog’s reputation. Either he got badly hit by a low-Tier student and humiliated in front of everyone, or he beat up a defenseless low-Tier student for the second time and became even more of an asshole in everyone’s mind than he already was.
+
+In any case, no one interrupted his journey back down the mountain. He reached Sorden’s room in record time and pushed open the rear door, peeking inside. This one opened near the front of the room where Sorden lectured, so he only poked his head in for a moment before retreating again when he saw she was busy lecturing. It didn’t stop Alum from glaring fiercely at him, not that he cared. Quietly, he wished the boy well at creating yet more toxic potions so that he could still gain by absorbing the scum. Alum’s potions had been great training. If not for them, he probably wouldn’t have survived the fumes from boiling down the more powerful impurities. In fact, if Alum could make something really toxic right now, that’d be a huge help. The potion he’d just brewed was a big step up in impurities. He was pretty sure he could handle it, but it wasn’t going to be easy. It’d be much easier to absorb a few toxic Alum potions, then try the potion again.
+
+He turned to walk away, only for the door to open. Sorden stepped out. “Can I help you?”
+
+“Er, aren’t you in the middle of class?” Rhys asked.
+
+She waved her hand. “Do you have a new batch of herbs?”
+
+“I do, and also… I don’t know if you’ll be interested in this at all, but…” He drew out the purified ash and handed it over.
+
+Sorden squinted at it, examining it. She dipped a finger in the ash and sniffed it, then touched it to her tongue. Her eyes flew open, and she jumped back. “Is that Silver-White Ash?”
+
+“It’s purified ash,” Rhys replied honestly.
+
+“Silver-White Ash is any kind of ash that’s reached a certain threshold of purity,” she replied distractedly. She looked at Rhys. “You’re selling this, then? And herbs?”
+
+“And herbs, yes. They might be a bit dry since it’s been a while since I plucked them, but they should still be usable.” Rhys drew them out as well.
+
+Sorden stored the ash and herbs away. “What do you want? Gold? Something more?”
+
+“Gold is nice, but also… do you have any containers—bottles, vials, whatever, it doesn’t matter—that can hold something highly corrosive?”
+
+“Glass should work,” she replied.
+
+“It corrodes glass,” Rhys said.
+
+Sorden’s brows rose. Intrigue crossed her face. “May I ask what it is you need to store?”
+
+Rhys pressed his lips together. “It would be too much to explain, but just understand that it’s something highly corrosive, destructive and dangerous. I need something that can store it for longer than… say, ten seconds for unprotected glass?”
+
+She put a finger on her chin, thinking, then nodded. “I think I have something. Let me finish class, and I’ll find it for you.”
+
+“Of course. Thank you,” Rhys replied.
+
+“No, thank you. I’ll still owe you a fair bit of gold after this, so don’t go anywhere,” she said, and vanished back into the classroom.
+
+Rhys nodded to her back. With nothing to do, he lounged outside the classroom. A few minutes in, he drew out the potion. He was keeping it in his robes, within easy reaching distance in case he needed to transfer it again. The low-grade headache from keeping Trash Intent up for a prolonged period resurged with nothing to distract him, pounding against his temples. He sipped a mana potion to push the pain and the mana drain back—not from the potion corroding his mana, but from simply keeping Trash Intent active for this long—and lifted the potion to eye level, getting a good look again.
+
+The impurities ate away at his Trash Aura, but the Trash Intent simply replenished its aura. It took far less mana than keeping Trash Intent active, too. He grinned. He’d caught them, and bottled them, and soon, they’d be all his.
+
+Just wait. As soon as he had a permanent bottle that he didn’t need to constantly enhance, he’d try out these impurities.
+
+Sorden must have been almost done with class, because she emerged a bare fifteen minutes later and gestured. “Follow me.”
+
+Rhys nodded. Smiling wide, he followed after the potion instructor, unaware of Alum glaring a hole in him from far behind.

@@ -1,0 +1,109 @@
+---
+id: 85fa2ba8-2fb2-5c0e-9d5b-84d744de9cec
+page-type-slug: story-chapter-royal-road
+title: "Threads 13"
+slug: 0021-threads-13
+partOf: forge-of-destiny
+position: 21
+ownLength: 1909
+unit: words
+publishedAt: 2020-11-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/588559/threads-13"
+royalRoadId: "588559"
+---
+
+Ling Qi let out a slow breath as she ended her meditation in front of the argent vent. Seated cross-legged on the smooth stone floor, Ling Qi could feel, without looking outside, that several hours had passed and night had fallen. Stellar qi tingled at the edges of her senses, even through the width of earth and stone between her and the dim moonlight.
+
+Normally, she would be soaking in the lunar energies on the cliffside, but tonight she had other plan. She had thought long and hard on where she should begin her composition efforts. She had paid a visit to Mother and Biyu and thought of asking her mother for advice. She had briefly considered going to Zeqing. In the end, she had turned away from both choices for the same reason.
+
+For her first challenge against another musician, she wanted a piece that was wholly hers, and there was only one person who could help her in that regard. Sixiang was, for all their flightiness, superb at prodding her toward creativity without unduly influencing the result. At least, they were when they weren’t in a teasing mood. Sixiang had been quiet for weeks now though, barely responding to anything. It concerned her, even if she knew the source. But she needed the spirit’s help, and she couldn’t afford to continue giving her space.
+
+“Sixiang,” she said aloud, turning her thoughts inward at the same time. “I need your help. Don’t you think you’ve kept to yourself long enough?”
+
+Ling Qi stared at the mist slowly seeping from the argent vent in silence as she waited for a response, eyes tracing the faint geometric shapes that formed and dissolved in the mist. As seconds and then a minute ticked by, she began to worry, but then, she felt a stirring of awareness in her thoughts.
+
+<Sorry, just busy. Can it wait a bit longer? I’ll be done soon,> the muse whispered distractedly in her thoughts.
+
+<I need to compose a piece within three days,> Ling Qi thought dryly. <And, you know, it hurts a little that you haven’t even told me what you’re doing. We’re friends, aren’t we?>
+
+<Sorry,> Sixiang repeated, sounding dispirited. <I just - It’ll be easier to show you. Why don’t you go to sleep?>
+
+Ling Qi almost shot back an irritated quip but caught the meaning before the words could leave her lips. <Alright. I suppose I’ll see you soon,> she thought. Speaking to Sixiang in her dreams was something she had suspected that she could do, but it had never come up before.
+
+Heading to her bedroom, Ling Qi was struck by the thought that it would be the first time she had slept in the bed provided. The handful of hours of sleep she had taken in the last two months had been snatched in the meditation room. It felt odd to lie down in an actual bed after so long. The pillow was soft, and the bedding perfect in balance between firmness and give.
+
+Yet, Ling Qi barely noticed as she laid down after changing into nightclothes that she had not worn in months. For her, there was no lying awake trying to fall asleep. It was a matter of will, cutting off the flow of qi that maintained her more mortal functions, and so her consciousness faded. She only hoped that Sixiang could guide her dreams.
+
+A moment of blackness passed. Ling Qi opened her eyes to be assaulted by a riot of color. She sat up, looking around in confusion at the thick sea of pillows, blankets and mats. Her hands sank deep into the soft fabric, and she floundered, almost drowning in the mountain of fluff and fabric. Her limbs were heavy and clumsy, but she managed to regain her balance after a moment.
+
+“It’s still kind of a mess, isn’t it?” Sixiang asked wryly, drawing her attention away from her resting place. Looking up, she had to squint to see through the glittering rainbow mist that shrouded everything, but she could make out a few things. In front of her, the mass of pillows and cushions ended, and a sea of opaque blue-green “water” began. It was disturbing; though it lapped and rippled realistically, the color was wrong, more an illustration than reality. Sixiang sat on the shore, their androgynous back to Ling Qi and their legs bare, dangling lazily into the ‘water’.
+
+“What is this?” Ling Qi asked. She managed to stand up after a few moments and began picking her way across the treacherously soft ‘ground’.
+
+“Um, I guess you could say this is kinda like my Domain?” Sixiang answered, still looking out over the “water.” “Not bad for a first try, huh? I haven’t gotten all the physical bits finished up yet. I wanted to wait until I was done before I invited you in.”
+
+Ling Qi rolled those words around in her head but put off the obvious question for now as she reached the shore. The footing was surer here, and she was able to find a cushion to sit on that didn’t immediately sink or shift uncomfortably. “Sorry for pushing you. I need my muse though,” Ling Qi said.
+
+“Do you really?” Sixiang asked, finally looking her way. “I’m kinda thoughtless, aren’t I? All the good stuff comes from you.”
+
+Ling Qi observed Sixiang as they turned their face back to the mist-shrouded sea. “I don’t blame you for that nightmare. It’s not like you could stand up to the whole Bloody Moon or whatever that was.”
+
+“Maybe not, but I could have warned you that it was gonna be trouble. But I didn’t really get it.”
+
+“Get what?” Ling Qi asked, giving the “water” another dubious look. It looked vaguely like paint.
+
+“Do you remember when we talked about death?” Sixiang asked.
+
+Ling Qi nodded slowly. “That was a weird conversation.”
+
+“I didn’t understand how death was scary,” Sixiang explained. “It might be because of how I am. Fairies - muses - die and are born all the time.”
+
+Ling Qi did not reply at first, trailing a finger through the water. It felt normal at least. “How old are you, Sixiang?”
+
+“How long ago was your debut party?” Sixiang answered her obliquely. “It’s hard to put it in a way you’ll get. I have memories way older than that, but ‘Sixiang’ isn’t even a year old. I didn’t understand how losing yourself would be scary because all the bits that were ‘you’ would end up part of something else, and that’s fine.”
+
+“You’re right. I don’t get it,” Ling Qi acknowledged. “Why did that change though? Did the Bloody Moon threaten you?”
+
+Sixiang grimaced. “No, I could feel you hurting in the dream though, and that made me hurt. And if something happened to you, this dream would end, and I wouldn’t get to tease you anymore, or listen to your songs or watch everyone fumble around trying to express themselves and…” Sixiang reached up, toying with a strand of their drifting misty hair as they babbled. “I didn’t want that. I’m not ready to wake up and rejoin Grandmother yet.” Frustration and confusion bled into Sixiang’s voice.
+
+Was Sixiang’s existence tied that closely to hers? Ling Qi was faintly disturbed by the thought. “I mean, that just makes sense, doesn’t it?” Hesitating a moment, Ling Qi reached over and placed her hand on Sixiang’s shoulder.
+
+“Maybe to you. A dream is only supposed to exist in the moment. The past and the future are for other phases, you know?” Sixiang laughed.
+
+“You’re selling yourself short. What good is a muse that doesn’t stick around?” Ling Qi jibed, hoping to lighten the mood.
+
+“A muse is just a nudge. It’s up to the artist to actually create something,” Sixiang shot back, a grin finding its way back onto their features. “So I guess I should get nudging, huh? What is it you want to compose?”
+
+Ling Qi considered. Unsteadiness still lurked in Sixiang’s tone and voice. “We can wait a bit, if you’d like. I can ask someone else.”
+
+“No, no, no, not gonna fail at the thing that’s actually my job,” Sixiang chided. “There’s some stuff I want to share, but I gotta stress test this domain thing first. Don’t want to do damage by mistake,” they added more quietly.
+
+Ling Qi gave the spirit a sidelong look but shrugged, recognizing that it was the most she was going to get. “Alright. Right now, I need to compose a piece for my sect challenge. We’re going to compete over which composition has the stronger message, and I want something that will resonate well with my opponent and myself…”
+
+Sixiang held up a hand to forestall her. “Hang on a sec. Let me catch up. I haven’t been paying attention.”
+
+Ling Qi blinked as the spirit reached out and brushed their fingers across the opaque water. She saw the surface ripple and glimpsed flashing images: the mountain path, her conversation with Cai Renxiang, Yu Nuan’s face, and others as well.
+
+“You can just do that?” Ling Qi asked, bewildered.
+
+“Once I’m done, you’ll be able to as well. One more sec,” Sixiang muttered distractedly. “Alright, I think I’ve got a handle on her. Where are you stuck?”
+
+“I’m not sure how much I buy my own words,” Ling Qi explained, shaking off the questions for now. “I won’t lie. A big part of my uncertainty is because of that dream. I’m just not sure of myself anymore. If I’m willing to step back on the first thing I decided I wouldn’t do, can I really say I have any convictions at all?”
+
+Sixiang idly kicked their bare legs, sending up splashes of paint-like water. “Is it really so bad to be uncertain? You’re not a construct or an elemental. It’s okay to have some give to your beliefs.”
+
+“That feels like an excuse,” Ling Qi sighed.
+
+“Hm, hm, I see where I imprinted those issues from,” Sixiang said, their voice a little brittle. “But you’re gonna fail, and you’re gonna disappoint yourself. Nobody walks a path without stumbling.”
+
+“You sound like a book of koans,” Ling Qi groaned.
+
+“I remember writing parts of those,” Sixiang replied with a laugh. “But the point is you’re human, and not far enough along to really have any ‘pure’ convictions. Each experience is a brick laid in the foundation of who you are.”
+
+“Now you’re doing it on purpose,” Ling Qi accused. She rolled her eyes, but she could see the spirit’s point. She wasn’t sure she would ever see that dream as anything but a failure on her part, but she couldn’t wallow. She couldn’t afford to, and as much as she felt a sliver of self-loathing for it, she didn’t want to. She had buckled to fear in the face of overwhelming power, but hadn’t she stood with Meizhen when she was alone and ambushed? She had also stood firmly against Huang Da when he tried to turn her against Li Suyin and Su Ling. One false step did not invalidate a path.
+
+“I need a composition that focuses on what I want to do in the future, don’t I? I need to show off what I think I can accomplish,” Ling Qi finally said.
+
+“Ha! See, I told you a muse was just a nudge,” Sixiang crowed. “So, what do you want to do?”
+
+And wasn’t that a question.

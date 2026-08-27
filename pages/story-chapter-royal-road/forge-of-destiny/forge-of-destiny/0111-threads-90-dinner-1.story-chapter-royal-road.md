@@ -1,0 +1,143 @@
+---
+id: 66307c05-e6be-5f07-96a2-fec0c0cd23b9
+page-type-slug: story-chapter-royal-road
+title: "Threads 90-Dinner 1"
+slug: 0111-threads-90-dinner-1
+partOf: forge-of-destiny
+position: 111
+ownLength: 2109
+unit: words
+publishedAt: 2021-05-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/689397/threads-90-dinner-1"
+royalRoadId: "689397"
+---
+
+Ling Qi almost, almost blurted out a denial and a change of subject. “That sounds fine,” she managed instead. “Did you have a place in mind?”
+
+It happened so fast that she could have imagined it, but she thought she saw Bao Qian do a double take. “Nothing ostentatious. Perhaps the Silver Orchid?”
+
+That was a teahouse and eatery in the central part of the village. It mostly served traveling cultivators and sect disciples with loose income. That didn’t sound so bad. It was an open floor place. “Fine,” she replied mechanically.
+
+<You sure about this, Ling Qi? You don’t have to force yourself,> Sixiang murmured.
+
+Bao Qian, too, was eyeing her stiff expression with a critical eye. “Miss Ling, if you are busy, just say so. I am not attempting to call in a favor or anything of the sort.”
+
+Ling Qi gritted her teeth. “I’m sorry if it seemed that way,” she said. “I really don’t mind.”
+
+“As you say,” he said dubiously. “Well, I won’t retract my invitation. I will meet you there in one hour?”
+
+Ling Qi gave a shallow bow. “I will see you there,” she said politely before turning away.
+
+What had she gotten herself into?
+
+***
+
+<So, again, the first thing you need to do is relax,> Sixiang reminded. <You’re just eating dinner and chatting. It doesn’t have to be anything more than that. Treat it like you did the little trip with Suyin and the other guy.>
+
+“I know that,” Ling Qi hissed as she approached the gate of the town. She had settled Zhengui and Hanyi in for the night, and now, there were no more ready delays.
+
+She knew she was being irrational. She wasn’t being coerced into going to some seedy bar. They would be sitting in the open at a restaurant run and staffed by retired disciples of the Sect. Given her appearance, Bao Qian could not, despite his ready compliments, be particularly interested in her physically. Even if she somehow was in danger, she was strong. She was a direct retainer to Duchess Cai’s heir. Her best friend was Bai Meizhen. And she had defeated whole bands of bandits and driven off barbarians by the score.
+
+There was nothing to be scared of. She had power. She had control. She was not selling herself. It was fine.
+
+<Not quite the pep talk I would have gone with, but whatever works for you,> Sixiang muttered awkwardly. <But you're gonna be late if you dawdle anymore.>
+
+Ling Qi stepped through the village gates. No more dithering. She could do this.
+
+She found Bao Qian waiting outside the establishment, his arms clasped behind his back. He had changed into a different robe since she had seen him last. It was a thing of dark greens and blacks with an only mildly ostentatious gold sash wrapped around his waist. More casual than his usual wear, it hung partially open at the top displaying a slice of his broad chest. She kept her expression even.
+
+“Greetings, Miss Ling. I admit I was growing concerned that you had changed your mind,” the older boy greeted her as she approached.
+
+“My apologies. Zhengui was still a little energetic,” she replied. It wasn’t really a lie.
+
+“Partially my fault, I suppose. I know business negotiations can be dull for children. Shall we go in? I sent ahead to reserve us a table.”
+
+Ling Qi glanced inside to the brightly lit interior. Paper lanterns hung from the awning, and inside, faintly glowing lamps hung from the walls, casting the interior in warm colors. “Lead on.”
+
+Bao Qian nodded affably, leading her inside. Thankfully, he made no move to take her hand or arm. The inside of the Silver Orchid was nice. The floor was richly carpeted, the furniture well made, and the scent of the kitchens was enticing enough, too. Ling Qi distracted herself by focusing on these little details as a server led them to their table set against the rear wall of the room.
+
+“I’m surprised that places that only cater to cultivators like this exist,” Ling Qi said a touch nervously as she sat down across from Bao Qian. “It’s not like we need to eat often.”
+
+“Ah, but there are many things that we do not fundamentally need that we want. If needs were all that mattered, we would hardly have empires or cities,” Bao Qian replied, taking his own seat as the server gave them a quiet bow and stepped away.
+
+“I suppose you’re right, but it still feels wasteful,” Ling Qi said, looking at the ostentatious meals being eaten by people who needed little more than a bit of bread and water every month or so.
+
+“If it makes you feel better, most ingredients used in cultivator cooking come from spiritually rich material,” Bao Qian said. “Hardly palatable for mortal bellies.”
+
+“Is that so?” Ling Qi asked, perking up. “Are there any cultivation benefits?”
+
+<Of course you would ask that,> Sixiang sighed.
+
+Bao Qian chuckled. “Not for the fare in a place like this. Culinary cultivators do exist, but it is considered a branch of pill and elixir craft. My great-aunt Qiao is one such, and I must tell you, her meals are an experience.”
+
+Ling Qi raised her eyebrows at the emphasis he put on the last word. “I think I might like to try that sometime,” she said before she could catch herself. Spirits, that was such an obvious opening…
+
+“Not too difficult, I think. While I must be filial, lesser culinary cultivators are not rare. You simply need to go to a proper city.”
+
+“I hope I can find time to travel then,” Ling Qi said carefully.
+
+“Your liege will likely have to tour the province or even the Empire at some point. I am sure you will have the opportunity for sightseeing then.”
+
+Ling Qi hadn’t really considered that.She did have a problem with being so focused on the immediate term that she was forgetting about the more distant future. “I’ll have to ask Lady Cai about that,” she demurred.
+
+“Naturally, naturally,” Bao Qian replied, leaning back in his seat.
+
+A not quite awkward silence fell between them. “So…” Ling Qi trailed off, toying with the tablecloth. “Why do you seem so interested in this music business? Is it just because your clan sent you to me?”
+
+“It is part of the reason I took the opportunity,” Bao Qian explained. “I enjoy music, but I have something of a tin ear, so I never followed that path myself.”
+
+Ling Qi regarded him suspiciously. “I doubt you would have any trouble listening to any musician you wanted to.”
+
+“You would be surprised,” he said. “I think the province could use more music. There is something to be gained in an art being shared more widely. Of course, it is also because I think I could grow quite wealthy and famed for proliferating such a movement.”
+
+Was he throwing in that last part as a self-deprecating dig to make him look better or was he just being honest?
+
+<Think it’s a bit of both. He’s not lying, but he is also trying not to talk himself up too much. He knows that’d make you suspicious,> Sixiang analyzed.
+
+“What about you, Miss Ling? What ambitions do you nurse in your heart?” Bao Qian asked.
+
+Ling Qi didn’t answer at first. Because she didn’t have much, did she? She wanted power, of course, and maybe recognition, but there were few ways to word her lofty ambition that didn’t sound… childish. “I suppose I want to establish a strong foundation for my family and support Lady Cai’s efforts.”
+
+Bao Qian frowned. “It is fine if you do not want to reveal anything private, but surely, you must have some ambition more personal than that. Something you want to do?”
+
+Ling Qi huffed irritably. “Fine, I want to achieve the peak of cultivation. I want to rise to the eighth realm on my own strength.”
+
+She expected polite laughter or perhaps a joke to break the awkward atmosphere. Instead, Bao Qian regarded her curiously, as if waiting for her to continue. When she did not, he frowned. “But what do you want to achieve? Is there some matter of the spirits you wish to change? Some goal you wish to achieve that only the peak of temporal power can allow?”
+
+Ling Qi shrugged uncomfortably. “It’s a private matter,” she said because she didn’t have an answer.
+
+Once again, awkward silence descended before Bao Qian coughed into his hand. “Yes, well, let me call the server over so we can make our order.”
+
+“Yes, let’s.”
+
+Maybe her worst fears were silly, but she still felt like this was going to be a long evening. She remained silent over the next few minutes, speaking up only to indicate that she would have whatever Bao Qian was having. It wasn’t like she had any preferences for a place like this.
+
+“I was half inclined to order the mapo tofu when you said that,” Bao Qian grumbled good-naturedly, drumming his fingers on the table. He was still studying her, and it made her shift uncomfortably.
+
+Ling Qi made a vague sound of acknowledgment. That wasn’t a dish she was familiar with. It also surprised her that a place like this would serve such a dish. In Tonghou, tofu was a poorer food for people who could not afford meat. Maybe cultivator tofu was made from thousand year old blood drinking beans or something.
+
+He shook his head in bemusement. “You had no idea what to order, did you?”
+
+“I’m sure you’ve researched my history. Why are you surprised?” she asked defensively.
+
+Bao Qian leaned back in his chair, looking mildly frustrated. “I did, but your first impression is deceptive, Miss Ling.”
+
+“My apologies,” she replied coolly, and Sixiang sighed.
+
+He clarified, “I mean only that you are surprisingly inexperienced in many things. You make a good show of having integrated with cultivator culture, but it seems that it's rather shallow. I have misjudged you, and I find my failing irritating.”
+
+She eyed him warily, but the recently learned lessons of the arts she had been studying stopped her knee-jerk reaction to the seeming criticism. “I told you, didn’t I? I want to keep climbing. I have to keep up with Cai Renxiang and the Duchess’ expectations if I’m going to keep getting the resources I need, and that’s a full-time job. Lady Cai does her best to nudge me into keeping up with other things, but she’s busy, too.” She didn’t even remember the last time Renxiang had stopped for anything more than a cup of tea.
+
+She remembered Cai Shenhua’s ultimatum. She wouldn’t let herself be discarded, both for herself and her burgeoning family and for Cai Renxiang, who might crack under the weight if left alone.
+
+Bao Qian’s brows drew together in consternation. “You are surprisingly difficult to categorize, Miss Ling. My apologies, but in the future, if you lack understanding in something I ask of you, simply tell me. They do have a menu for first-time customers.”
+
+Ling Qi let out a breath she had been holding in. She knew she was still being a little absurd, and the knowledge that she could have asked for a menu left her feeling sheepish. “Right. Do you mind if we start over, Sir Bao?”
+
+“Deal,” he said with a weak chuckle. “Let us move on to lighter topics! So, what sort of inspirations do you take for your compositions, Miss Ling? From descriptions I have heard, you seem to follow Grandmistress Lei’s style, but that can hardly be the whole story. You mentioned that spirit girl’s mother?”
+
+She stared at him blankly, and his wide grin once again slipped. Things had become awkward enough, and her ignorance was already clear at this point. Ling Qi felt the phantom sensation of Sixiang’s hand on her shoulder and breathed out. With that breath came the Carefree Mantle of the Playful Muse’s Rapport art.
+
+Ling Qi coughed into her hand. How would she go about describing her mentor’s music to someone who had never and could never listen to it? Her own compositions held shades of it, and in the Frozen Soul Serenade, she aped Zeqing’s fury and deadliness, but it wasn’t the same thing. “Sir Bao, while I would be happy to talk about my mentor in the Sect, perhaps you could tell me a little about some famous styles of the Emerald Seas. It might give me a better framework to speak in.”
+
+“Yes, that seems like a fine idea,” Bao Qian agreed, rallying quickly.

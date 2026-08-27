@@ -1,0 +1,133 @@
+---
+id: 9155beb6-28cf-5a15-bf0e-d365ed3c1211
+page-type-slug: story-chapter-royal-road
+title: "Threads 255-Capital 7"
+slug: 0293-threads-255-capital-7
+partOf: forge-of-destiny
+position: 293
+ownLength: 2010
+unit: words
+publishedAt: 2022-10-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1015414/threads-255-capital-7"
+royalRoadId: "1015414"
+---
+
+The revel was noisy and chaotic, but it seemed so different from the clouded gossamer memories of before. There was little elegance here. Even those who bore inhuman frames were somehow both more and less human as they stomped about, singing and carousing with the human shades.
+
+“It’s the other part of me, too. You don’t let me indulge in it much.”
+
+“What’s that supposed to mean?”
+
+It was hard to focus here. There was simply so much going on. People pressed against each other, flush with alcohol and passion, and though Sixiang and she danced in a bubble of open space now, it still filled her with alarm. Ling Qi realized that it wasn’t the other festival goers deliberately giving them space. Instead, they were repelled from them, and Ling Qi knew it was her own doing, her will acting on the dream.
+
+“You seemed perfectly happy for Su Ling. You react when I tease ya, and you look. You’re not like Renxiang; that’s a girl who skips steps entirely and doesn’t feel the lack.”
+
+Ling Qi grimaced. She shifted her grasp on Sixiang’s hand, taking the lead and moving them closer to the dancing square’s edge. “You know why, Sixiang. It’s different. Su Ling is fine. Meizhen is fine. I can see they have control.”
+
+“Control’s the wrong word,” Sixiang disagreed. Sliding closer to her, the muse spun them, and they came to a stop in a whirl of cloth. They stood now in a packed street full of stalls and games, and fairies and the shades of children scampered about. “And I think you know it by now.”
+
+“Is this really the time for this?”
+
+“There’s probably never a good time.” Sixiang shrugged. “But you keep thinking about family and community, and you keep cultivating in that direction. If you keep ignoring such a big part of family and community, your thinking is gonna be flawed.”
+
+Ling Qi frowned, seeing out of the corner of her eye the many, many pairings among the people and shades here. People walked side by side, hand in hand. They were fathers and mothers, parents and children. She thought of branching roses growing entwined with incandescent light.
+
+“... And if I don’t want that to be part of that aspect of family? Hanyi and Zhengui are family. Yu Nuan might get there. You can make a family just fine without having to involve that… muck, even if the Empire makes it hard to do so.”
+
+“That’s fine, but I’d like you to reject it properly and consciously if that’s what you’re gonna do, not cut it out of yourself without consideration. You didn’t let Su Ling do that to herself with the fox bits. Am I supposed to be a worse friend?” Sixiang squeezed her hand. “And I feel like you don’t necessarily want to do that either. You’re just still afraid.”
+
+Ling Qi didn’t reply verbally. She pulled on Sixiang’s hand and took a step, and their next footfall fell on a hardwood floor. Noise immediately struck her ears again. This time, it was the clink of mugs, the drag of wood across the floor, and the singing. Oh, the singing.
+
+Ling Qi settled herself into a rickety chair in the corner just as the chorus rose, dozens of rough voices belting out, “The wine was not strong enough!”
+
+Sixing settled beside her, throwing an arm around her shoulder. “This is what community looks like on the streets. I’m glad you dove, cause you, your boss? I worry you learned to fly so early that you’ll forget that the structures you’re trying to build aren’t just lines and dots on the ground.”
+
+“You think I should try to convince Renxiang to come down to a bar?” Ling Qi joked.
+
+Somehow, she still held the cup of golden cider, and now, she took a sip. It was rich and sweet. She rolled it on her tongue, tasting it even as she cycled her qi, cultivating the chaotic energies in the dream stuff she’d ingested.
+
+“I will totally clap you on the back if you can manage it,” Sixiang said seriously. “But nah, this is for you. ‘Cause you never got this, any of this, did ya? You started outside in the cold and unwelcome, and you jumped right up to be above it all.”
+
+Ling Qi scanned the room. The shades of workers chatted and laughed despite the wear and slump of fatigue in their shoulders. These were the same sort of folk she knew from the streets of Tonghou, trudging miserably through life. Or at least, that’s what she saw, didn’t she? It wasn’t as if she actually knew what happened behind locked doors before warm hearths. Festivals were just the best opportunity to cut purses, but street rats couldn’t linger around the festivities.
+
+Ling Qi took a deep drink from her cup, and as she did, she met someone’s eyes across the room. They were tall, as tall as her, wearing a gray traveler’s cloak and a conical straw hat, but she saw a shock of dark red hair framing a face with a square jaw, looking back at her with equal surprise.
+
+A cultivator! Before she could do more than open her mouth, they raised their cup in a toast and vanished. She felt the way they grasped the skein of dream and pulled, “walking” elsewhere.
+
+“What’s up?” Sixiang asked.
+
+“I saw someone,” Ling Qi said slowly, shaking her head. “Never mind. They weren’t hostile. I shouldn’t be surprised that I’m not the only one here in the dreams of Xiangmen.”
+
+“Probably. Bit of a big place,” Sixiang said. They changed the subject. “You must like that stuff.”
+
+Ling Qi glanced down at her cup. “Oh, yes. It’s sweet.” She supposed that her liking of it was why her cup wasn’t running out.
+
+“Well, then, we don’t need to huddle in here, eh?” Sixiang reached out again for her hand. “C’mon, Ling Qi. Let’s go enjoy the festival.”
+
+Ling Qi regarded their hand for a moment. Then, she reached out to clasp it, standing in time with another rise of the chorus. “Alright, I’ll be in your care.”
+
+They left the raucous pub behind, the noise of crude merriment vanishing like a single drop of water in a lake as they rejoined the generalized chaos outside. Ling Qi hooked her arm through Sixiang’s, and they joined the festival.
+
+The radiating pathways weren’t the same mad scramble like the center. Processions and parades took the center of the street, dancing spirits in the garb of priests, costumes less gaudy than the inhuman forms beneath them. Laughter abounded. Children, adults, it was a great storm of merriment.
+
+Sixiang tugged her along, pointing to new attractions and sights, and Ling Qi let herself be carried along by the muse’s enthusiasm. It felt strange, and often enough, she could feel her attention pulling in different directions, her feet carrying her left and right at once. It was only when she found herself trying to play two festival games on opposite sides of a street at once that the dissonance crashed down, and she found herself standing in front of only one, holding her temples from a pounding headache.
+
+Sixiang laughed. "You lasted quite a while there."
+
+"What did you do?" Ling Qi complained.
+
+"Heh, just showing you how much you can stretch the possibilities of Grandmother’s techniques. You know the steps to dance, but you can do so much more with it."
+
+Ling Qi rubbed her temple one more time, wincing at the subsiding pain. The Phantasmagoria of Lunar Revelry art did have a defensive technique that shrouded her in afterimages generated by her own unchosen actions. "That wasn't just an afterimage of potential. I was really going two different ways and doing two different actions. Multi-presence isn't supposed to be possible until the fourth realm."
+
+"It isn't, not out there in the world of the material, but you can bend things a little in dream, though you just felt the limit," Sixiang said. "I bet you can still do some useful tricks with it here."
+
+"Show me."
+
+"And this,” Sixiang said triumphantly, “is how you get a workaholic to play."
+
+Ling Qi already had some practice with splitting her perceptions and seeing at multiple angles. And yet, it was still hard to take it a step further and walk in opposite directions at the same time. It was invigorating and exciting, a preview of what she would be able to do in the future, constrained to a bare few seconds and meters.
+
+But she could not ignore what her eyes were trained to see. Shadows lurked and sprang in the current of the crowd, snatching sweets and coin purses, and some shades and spirits would disappear in the clinging tar-like darkness in alleys.
+
+Xiangmen and its reflection were, by all measures, a paradise in comparison to Tonhou, but everything she knew of city life remained true, if reduced and forced to hide further back to put on a better mask. The darkness and danger mingled with the joy.
+
+“C’mon, Ling Qi,” Sixiang pleaded. “I know I call you a gloomy girl, but you gotta at least not actively fight me on this.”
+
+Ling Qi winced, ducking her head. “I’m sorry.”
+
+“It’s fine.” Sixiang sighed, pulling her along to a stall full of rough handmade glass beads and carvings. It was manned by a tall spindly spirit with the head of a horse, bent almost in half to fit under the awning. “Look, you know you can’t judge things accurately when you only look at the bad stuff. You know that, right?”
+
+“Of course I do,” Ling Qi replied indignantly.
+
+Sixiang nodded, plucking a necklace made of carved and painted knucklebones from the stall’s table. They reached into their pocket and tossed the spirit a glittering coin made of appreciation and memory, which the bent spirit caught silently and then solemnly stuffed into his mouth. They moved on, Sixiang spinning the necklace on their finger.
+
+“You don't, or at least, you don’t apply them to yourself,” Sixiang corrected. “You still default to focusing on the negative.”
+
+“I can’t be the one who connects to everyone, Sixiang. That isn’t me.”
+
+“I get that, but you’re trying to reach out now. I don’t know what else you want to call this crazy project of yours but an attempt at communication.”
+
+They walked the streets, their footsteps carrying them distances wholly unrelated to their stride as they returned to the center of the festival with its feasting table and gathered townsfolk.
+
+“People need to be able to talk, but being able to talk with each other doesn’t make them kin or even friends.”
+
+“That’s true.” Sixiang sat on an empty stretch of bench and beckoned Ling Qi down to sit beside them. “But it's also disingenuous. How’d you think events like this festival started?”
+
+Ling Qieyed the festival goers. There were families feasting together, neighbors, and traders, and many more. “What did you mean when you said I didn’t let you indulge often?”
+
+Sixiang waggled their eyebrows. Ling Qi made a face.
+
+“Don’t try to deflect by being vulgar,” Ling Qi said crossly.
+
+“Hah, sorry,” Sixiang said with a grin. “But also not really? Joking aside, what you call vulgar is a lot of what I am and what Grandmother is. The Dreaming Moon is passion. We’re the spark of creation that keeps an artist lying awake at night or yearning to capture the visions they saw on the back of their eyelids. We’re spontaneity. If the Dawn is the light that shines down and teaches, the Dream is what bubbles up beneath and inspires.”
+
+“Not like you to compliment the sun.”
+
+“Ugh, I know. It was gross.” Sixiang shuddered. “Don’t make me do it again.”
+
+“Do you think I fit poorly with the Dreaming Moon?” Ling Qi asked.
+
+“Never,” Sixiang replied, grasping her hand. “I’d still be here with Grandmother if you didn’t. You—”
+
+“—are one of mine. You won’t escape that so easily.”

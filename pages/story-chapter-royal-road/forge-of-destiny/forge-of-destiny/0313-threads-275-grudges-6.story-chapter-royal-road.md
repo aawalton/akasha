@@ -1,0 +1,135 @@
+---
+id: 5529e411-7894-5a97-bb98-7829d9dd4cb9
+page-type-slug: story-chapter-royal-road
+title: "Threads 275-Grudges 6"
+slug: 0313-threads-275-grudges-6
+partOf: forge-of-destiny
+position: 313
+ownLength: 1769
+unit: words
+publishedAt: 2023-01-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1079998/threads-275-grudges-6"
+royalRoadId: "1079998"
+---
+
+Ling Qi drew her breath into her lungs and exhaled, beginning the next stanza of her song. Moisture became falling snow, swiftly dirtied to gray by dust and mud. She sang of the girl, little more than an animal, living only to survive. The girl was but one rat, one starving street hound among the packs and swarms that roamed Tonghou’s streets.
+
+They devoured the weakest, the strongest, the kindest and the cruelest alike. It was only those who stayed low who survived, unpunished. The living were those who heeded only the call of empty belly and cold limbs.
+
+They were a multitude. They were alone.
+
+A shadow with a face of bone came to the girl and took her away. She had something the others lacked, the shadow had said, a spark, a fire.
+
+The shadow had been wrong. It was nothing so active. She was only lucky.
+
+It was often said that luck was merely another talent, but so few who said those words understood them. Luck was most often all that separated a pauper from a prince.
+
+At the mountain where the girl had been taken, there were many people and many trials. Forms appeared in the mist, familiar faces and figures caught in moments of action. Bai Meizhen, staring at her like she was some strange animal. Su Ling, squinting and suspicious. Suyin, painfully open and kind. Xiulan, haughty and demanding.
+
+There, freed from privation of the body, the girl was able to contemplate the privation of her spirit. As starvation had been privation of the body, isolation, the girl realized, was privation of the soul, and from this privation was born suffering. On the mountain, she had reached out. And her friends had reached back.
+
+What the girl wanted simply couldn’t be done alone. No power could change that. And so, the girl learned to speak, to act, to express.
+
+And when the time came, she reached out with paper and ink to salvage her first failure in those arts. In the Mist, a woman and girl, the latter so tall now, and the former so small, embraced.
+
+The girl was no saint. She could not love all. She did not even want to try. But she would see that people spoke to one another and that they did not shatter over miscommunication or by silence.
+
+People would speak, and people would hear. Perhaps this communication would change nothing in the end. After all, one could hear without listening and speak without expressing.
+
+But even though she only had two hands, others had hands as well. The threads of connection did not demand that she alone bear their burden.
+
+And so, the lonely streets would be driven back.
+
+Ling Qi’s music faltered, color and darkness flashing in her mist. Her phantoms distorted, her illusions bent, and her dantian cracked, its outer surface flaking away like a clay mold, revealing the denser, more potent core of whirling wind gusting around a core of black ice which shimmered with memories and dreams yet to be. Ling Qi felt her body lighten, mortal flesh becoming just a little more phantasmal, and her awareness expanded past her skin into the air and the mist and snow.
+
+The fifth stage, the framing stage, was hers. Her domain was more real than before. The frame was there now, just waiting to be filled.
+
+The phantoms of her friends and family and acquaintances gathered around her in a half circle, herself at the zenith as the mist cleared, and as one, they bowed to her audience. The ancient horned skeleton bound to the pillar regarded her with sockets full of glittering black petals.
+
+“Interesting.”
+
+***
+
+“Ling Qi.” Cai Renxiang’s voice was deeply exhausted, her nose pinched between her fingers. The tea cup set before her on the fine tabletop was forgotten, the faint trail of steam rising from it drifting unnoticed.
+
+“Lady Cai, I can’t possibly be blamed for this one,” Ling Qi protested. She blew softly on her own cup. The fog that drifted off of the impossibly cold cider parted, leaving her free to drink. Rimefruit extract was very expensive, but frankly, Ling Qi was sure that she had earned a treat at this point.
+
+“I don’t know,” Bai Meizhen said in mock consideration. She cradled her own cup close. “Perhaps if you had followed my advice for that worm.”
+
+Together, the three of them sat in Cai Renxiang’s sitting room, drinks and light snacks arranged neatly across the table. Xiao Fen had insisted on doing the settings, and even now, she lurked in the shadows, ready to dart out and replace anything missing.
+
+Ling Qi thought she should join the other girl, but the idea had seemed to cause Xiao Fen almost physical pain.
+
+Ling Qi rolled her eyes. “And in doing so, I would have gotten myself kicked out of the Sect, and you, almost certainly punished as well. Come on, Meizhen. Even I knew you were overreacting to what ‘that worm’ had done at that time.”
+
+Meizhen turned up her nose haughtily. She didn’t contradict Ling Qi though.
+
+“No, you cannot be blamed. Not in any rational sense anyway,” Cai Renxiang’s eyes squeezed shut.
+
+“Are you saying that you are afflicted by irrational thoughts, my lady?”
+
+Cai Renxiang let a long breath through her nose, but did not rise to her bait.
+
+Not quite there yet, Ling Qi supposed.
+
+“There was no comprehension that such an attack would occur. It is disturbing for everyone to acknowledge that we still do not fully grasp the tactics of these ith-ia,” Cai Renxiang said instead. “I commend you, Ling Qi, on uncovering this plot, even through such circumstances.”
+
+“I am just glad I was able to keep the damage low.” The sweet rimefruit was a balm on her throat after so many hours and days spent in conversation. The way the cider turned to slush on her tongue was pleasantly cool as well. “The attacks that followed…”
+
+“An ugly business, deliberately targeting mortals.” Bai Meizhen sneered. “Barbarian filth.”
+
+“It is unforgivable,” Cai Renxiang agreed. “It is certain at this point that the next great campaign will be against them.”
+
+“Something to prepare for after the summit.” Ling Qi considered the now serious atmosphere in the room. “Honestly, Lady Cai, I did everything as responsibly as I could.”
+
+“I am aware. Please excuse my moment of bewilderment.” Cai Renxiang finally took up her tea, taking a sip.
+
+“It is rather adorable,” Meizhen declared airily.
+
+Cai Renxiang glared at her. Meizhen smirked back.
+
+“Less adorable is that animal you dragged back.” Meizhen glanced toward her.
+
+“Zheng Fu?” Ling Qi tilted her head. “He hardly came with me. He has a message for the Duchess from the Ebon Rivers.”
+
+Meizhen said, “That is why it is most amusing that Her Grace returned to Xiangmen for a short time, even if it is to deal with whatever plots the Butcher is making.”
+
+“It has been circulating that the Zheng are releasing their scions across the Empire in unusual numbers, so this is not too surprising,” Cai Renxiang observed.
+
+“Butting in where they are unneeded. That is the way of the Zheng.”
+
+“Well, he seemed nice enough in the passing, but I suppose we’ll see what he wants.” Ling Qi had been wary due to the wanton reputation the ruling family of the Ebon Rivers had, but the veiled man didn’t seem particularly bad in that regard during their brief acquaintance. The Zheng probably just didn’t want to be left out of something their traditional rivals, the Bai, were involved in.
+
+“Yes, hopefully, he wishes to observe matters at the summit. We can use every scrap of legitimacy in this endeavor,” Cai Renxiang murmured into her teacup.
+
+“I wonder if Jaromila is dealing with the same thing,” Ling Qi mused, draining the rest of her cup. “Maybe members of their other confederations will also want eyes on what the White Sky are doing.”
+
+“If they are half as civilized as you insist they are, I imagine so,” Bai Meizhen interjected. “Such is the way of politics.”
+
+“We shall see soon. I trust you’ve arranged your schedule, Ling Qi?” Cai Renxiang asked.
+
+Ling Qi considered the packed month ahead of her. There were many things on her to-do list, some very serious and personal. The last time she had drank rimefruit cider had been at her master’s home on the mountaintop. A full year had passed since Zeqing’s final lesson for her. “I’ll be ready. On that note, I should be going. I have a lesson scheduled with Shu Yue.”
+
+“Then I will not keep you. Farewell for now, Ling Qi.”
+
+***
+
+The sharp scent of salt in the air of the Saline Grotto at their border fief was becoming familiar, Ling Qi found. She sat upon a flat stone, a boulder Xia Lin had helpfully sheared in half for her comfort. Moss was already beginning to creep up its sides, and dry fungal caps were beginning to grow in the space between the formation lines of the focusing circle.
+
+“You’re suddenly a whole lot more popular in the central valley,” Sixiang mused. They floated upside down before her, glimmering rainbow hair waving and shimmering in the breeze. “Or at least more folks are taking you seriously now.”
+
+Ling Qi snorted. “I would hope so.” She scanned the cover page of the correspondence in her lap.
+
+“But I do have to wonder why we’re doing this now,” Ling Qi added, glancing to her left.
+
+There was the salt lake with the crystals and twisted fungus sprouting on its shores, and on the smooth dark blue surface was Shu Yue. They did not stand or sit, but rather crouched, the voluminous robes not concealing the inhuman bend of their legs. Their spidery fingers traced strange shapes on the rippling surface of the pool, leaving patterned violet shimmers that hurt Ling Qi’s eyes to look at. Their mask-like face was tilted almost at a full right angle, and their dark hair hung down nearly to the water.
+
+When she spoke, the elder cultivator’s eyes lazily opened, blackness oozing away a half second behind their eyelids to leave dark but human eyes. “This place is good for my planned lesson. So is your work in cultivating your ears here.”
+
+“You feel my correspondence will relate to your lessons on perception then?”
+
+“In its own way. Your recent adventure is also useful.”
+
+“I’m not sure I deserve so much credit.” Ling Qi sighed. “You would have solved it if events had gotten truly dire.”
+
+“No. I would not have.”

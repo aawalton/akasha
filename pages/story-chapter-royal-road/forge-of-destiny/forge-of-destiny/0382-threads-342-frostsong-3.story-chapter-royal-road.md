@@ -1,0 +1,123 @@
+---
+id: 24f45645-e9a9-55f1-9848-84f6934d3f6d
+page-type-slug: story-chapter-royal-road
+title: "Threads 342-Frostsong 3"
+slug: 0382-threads-342-frostsong-3
+partOf: forge-of-destiny
+position: 382
+ownLength: 1940
+unit: words
+publishedAt: 2023-10-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1379649/threads-342-frostsong-3"
+royalRoadId: "1379649"
+---
+
+“I am not concerned. You will convey the truth of the Sundering Vale to your compatriots,” Dzintara said plainly.
+
+“I will,” Ling Qi said. Her mind was already racing for the words she would use.
+
+<It’s a sublime ancestor. Don’t poke it,> Sixiang suggested in a murmur, falling silent for a moment as Ling Qi pushed the memory of her recent conversation to them. <Seems like Pappy Sun came to that same conclusion himself, maybe?>
+
+She gave a small nod. That was probably the core of it. She was glad that Dzintara was not showing any real anger or concern. But then again, no one would take seriously a threat to their sublime ancestor.
+
+…Well, there was the business of the Purifying Sun. But barring the apocalyptic, that confidence was probably not wrong.
+
+“And the two-headed, flying beasts which emerge from… her. Are they sacred?” Ling Qi asked, knowing that some had already been hunted by the Sun forces.
+
+“The zmeya? Those with only two heads are nothing, merely the Axemother’s perpetual wrath made manifest. They exist only to gnaw the demon for a time and then cease, denying her cycle,” Dzintara replied. “Even we are not fully safe from them, though they will not approach a proper settlement.”
+
+That was good, although…
+
+“That implies there are those with more heads,” Sixiang commented. “Are those ones sacred?”
+
+“A zmeya with more than two heads is not a mere beast. They are one path of many, of middling stage to ‘ascension in Fryja’s Way,” Dzintara said carefully. “They will avoid humans who do not speak with her Voice unless pursued to their lair. Unless your conquerors do something very foolish, it should not be an issue.”
+
+“Indeed, I believe your current mantle may be advanced on that path, should you choose to make that sacrifice,” Jaromila said. “Though perhaps a warning not to pursue such sightings may be in order?”
+
+“Of course,” Ling Qi said. She almost bowed again, but stopped herself. It was difficult to break habits like that, even if she knew that bowing too often came across as servile to the foreigners.
+
+“Now, answer my question. What sort of-” Dzintara visibly paused, and Ling Qi sensed that the next word to come from her lips would have been an insult to the Western Territory’s sanity. “... people would live within the demon, if not her own worshippers? That creature is not dead. Do not deceive me. We would have felt such a thing.”
+
+“As far as I can discern, the Red Jungle’s mind is still alive, yes,” Ling Qi said. “As for the Sun…”
+
+She was glad to have Sixiang back to help her articulate what she had learned of the Western Territories and to paint the picture of them as devoted warriors and not servants of the jungle.
+
+By the end, Dzintara had not stopped frowning, and though she had crossed her hands over her chest, she wasn’t angry or suspicious either. Ling Qi was beginning to get a read on the cranky woman.She didn’t much like what Ling Qi was saying, but it seemed that their debate had allowed the other woman to accept the sincerity with which she spoke.
+
+“It seems a doomed project to me. You cannot kill the demon in the way they describe. Anything taken from her is tainted. That is why the lesser zmeya do not return to Fryja, but simply become rock and ice and dust when their time expires. They eat without hunger, live without growth, and die without giving nourishment. They are cold manifest. This is the path to defying the Flower Demon.”
+
+Ling Qi frowned…hadn’t Ji Rong said something about a skull? Was that hunter going to be disappointed when his prize crumbled, or was something odd going on?
+
+<You wanna ask?> Sixiang murmured.
+
+She did… but what would they do if the latter was true?
+
+“Is that what cold and winter is to you? It seems to me that winter should be a renewal. It withers and kills and freezes to make room for something new come spring.”
+
+“That is true enough of winter. I speak only of cold. Cold is the shearing, biting blade. It is stillness and endings,” Dzintara replied.
+
+“It is,” Ling Qi agreed, “but I feel it is more transitory than that. Even the frozen mountaintops will wear down and crumble in time, gaining warmth. I do not feel cold can truly be final like you describe.”
+
+“Then you have never been to the depths of the south where the ocean freezes. There, the land has never known a day of spring, let alone summer. It is a place where one could dig down a league and find only more ice. It is where the sun does not see and the moon does not go. That is what Fryja brought with her. Those are the axes she wielded in severing the pass,” said Dzintara.
+
+Ling Qi thought of Grydja and the cold that had chilled even her. In Grydja’s words, she had glimpsed the deeper darkness, the total cessation of all things.
+
+“I suppose I do not associate that with cold completely, but rather Ending alone.”
+
+“As you like. Your mantles are not mine,” said Dzintara.
+
+“Yes,” Jaromila agreed, breaking her silence. “But we are wandering a little, ladies.”
+
+“It’s true. I am sorry for getting sidetracked on personal cultivation, but your perspective is useful for learning about your home.”
+
+Dzintara pursed her lips. “The Twisted Pines is not as martial as our conversation might seem. This is a battle mantle, and my perspectives in it are some steps from what is common.”
+
+“I see. The Twisted Pines seemed like it must be a fierce place from its descriptions,” Ling Qi said.
+
+“It is. No land in the Polar Nations is kind, and the stalking shadows of the Twisted Pines are more active than the dangers of the other regions. We are foresters and hunters, but also farmers. We produce the things that cannot be wrested from frozen tundra or boiling bog.”
+
+“The Emerald Seas is also a place of dense forests and hills, though warmer.” Ling Qi said. “The beasts of the deep forest object to being disturbed, but we have carved out our towns and cities and cut roads between them. It is constant work to keep them clear.”
+
+Dzintara studied her, then gave a short nod. “This is familiar to me. You should know that we are not merely opposed to outsiders. In the far west, our lands connect with the southernmost thrones of the lands of Khusan. We trade and fight as the princes there play their game of thrones. This is one reason I am wary of you. It is my experience that foreigners ruled by waking gods are fickle and quick to break agreements.”
+
+“I cannot speak for other foreigners far away, but I think on the scale of mortal matters and low cultivators, my land is not one to swiftly break an agreement once made. Indeed, that is one reason our conflict with the Cloud Tribes has been so long lasting. Agreements with them are seen as worthless, broken with the turning of a year or season.”
+
+“There are few Cloud Men near us, due to Fryja’s wrath, though it is known that there are kin to their kind who went west and wrested a throne or two in Khusan. These are known to us, and are no worse than other foreigners.”
+
+“I see,” Ling Qi said, looking to Jaromila.
+
+“I do wish my husband were here to speak on this, but it is my understanding that tribes do keep to agreements well, but lacking settlement, which tribe is where and which tribe occupies a stretch of mountain graze often changes swiftly. It is also not in their culture to give new neighbors warning. The tribes driven out do not because they have been driven out, and the winners do not because they expect their neighbors to follow these movements and approach if they wish to make pacts,” Jaromila shrugged.
+
+And it was not in the Imperial mindset to expect rapid changes to land occupation.
+
+That might be the root of it, but in truth, the countless millennia of grudges that laid upon the tribes and the foothills alike probably mattered more.
+
+“I trust the expertise of my comrades in the center and the east on their plans for settlement and integration. The Twisted Pines do not lack for people. Even with the demon’s influence gone, my people are hearty and passionate with no lack of food and abundance.” Dzintara said.
+
+“You gave the impression that you saw those as evil things.”
+
+“They are when taken to the point of a mindless cycle. The Flower Demon is so vile and difficult to slay because its power rests in the fundamentals of living a human life. This is why fighting her must be a sacrifice of utmost discipline, to become a thing of killing, unchanging cold even while you yet breathe. You must be willing to protect your kin while severing yourself from them forever.”
+
+“There is a reason why your land produces almost as many crows as it does mighty weapons,” Jaromila said sadly.
+
+Dzintara’s lips thinned, and she gave a short, sharp nod.
+
+Ling Qi found that thought both alien and deeply unpleasant, like Elder Ying’s melancholic way but many times more severe. Closing her eyes for a moment, she tried to imagine a mindset where she could scoop out her own heart and become nothing more than a weapon.
+
+<Do you really want to imagine something like that?> Sixiang asked.
+
+She could just barely put herself in such a mind. The brief flash of cold rage that had washed over her when she had heard one of the ith-ia’s disgusting beasts had dug into her mother’s basement during their first assault sprang to mind.
+
+Yes, take that moment and stretch it, make it unending, and she might be able to break herself into that mold. But it would be a breaking. She could feel an ache, a twisting, to even consider it.
+
+She put the thought aside. “What concerns do you have, Dzintara? What interests do the Twisted Pines have?”
+
+“You know the material concerns. I am not going to pretend they do not exist,” she replied.
+
+“Kind of ya,” Sixiang said, leaning over her shoulder. Sixiang had made themselves absolutely spindly to be able to loom over her shoulder like that. “Even if things work out, it's not like too much will be moving over the mountains for a while.”
+
+“Yes, but I will want to see our interests represented here regardless. Toll agreements must be reached before any roads are considered,” Dzintara said bluntly. “But also, there must be established limits on settlements in the western wall. There are few Cloud Tribes there, but many sacred places. I will not negotiate away our peoples ‘cultivation.’”
+
+“I understand,” Ling Qi said. As she had guessed, the west really was going to be a sticking point due to her limited power. “I think that establishing trust here and a resolution system would be the best for ensuring any such deals have teeth. If my people become convinced that you are good partners, that opens more roads for us.”
+
+That was going to be the core of the summit. All the trade and cultural ties and exchanges of knowledge were secondary. Establishing this place as something more permanent, and getting both sides to support whatever dispute resolution system was made here was going to be the crux of whether this lasted beyond a ceasefire.

@@ -1,0 +1,219 @@
+---
+id: f690f900-4646-5c6b-84dd-cb01815302fc
+page-type-slug: story-chapter-royal-road
+title: "8 – We do a Little Bit of Trolling"
+slug: 0008-8-we-do-a-little-bit-of-trolling
+partOf: gamer-girl-evolution
+position: 8
+ownLength: 2745
+unit: words
+ownProgress: 2745
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620548/8-we-do-a-little-bit-of-trolling"
+royalRoadId: "2620548"
+markedReadAt: "2026-06-29T20:05:50.915Z"
+---
+
+Celica leaned back against the forest trees outside the dungeon, her arms folded as the faint blue menus blinked shut. Her reflection on the blade's surface caught her little smirk.
+
+Supporter.
+
+She let her mind wander back to those sleepless nights spent on the old forums, scrolling through threads posted by desperate players who swore they had seen something no one else had.
+
+She raked a hand through her hair, eyes narrowing. In her last life, she'd clawed her way up the rankings, yes—but maybe she had only skimmed the surface. Maybe there had always been threads she never pulled, dungeons she never triggered, lore she never uncovered.
+
+That idea made her pulse quicken. What if this version of the game wasn't exactly the one she knew? Every secret she thought she understood might have been rewritten, shuffled like a deck of cards
+
+Because if Supporter existed here—if something this broken, this powerful, this secret could fall into her lap—then who knew what else lurked beyond in the stages she thought she'd already mastered?
+
+The paranoia gnawed at her ribs, but alongside it came a rush of ambition. A hunger she couldn't deny.
+
+Her laugh came again, softer this time. "Maybe I wasn't good enough last time. Maybe I missed all this." But her grin sharpened as she made her way back to town. "But I won’t this time."
+
+***
+
+The return to the first town was like stepping into a pressure cooker. The cobbled streets swarmed with low-level players, most of them still in mismatched rags and cracked leather gear. And of course, it was all for one reason.
+
+[Main Quest: Kill 100 Slimes.]
+
+The problem was simple and devastating: most players (noobs) couldn’t kill them efficiently. Dozens of newbies camped at every spawn point, swinging their rusty longswords at green blobs that blinked back into existence every minute or so.
+
+More often than not, someone would lunge too early, take a hit, and dissolve into light. The death-notices cluttered the air like flies and the town’s overall mood was sour.
+
+—"Respawns are bugged."
+
+—"This game's broken, man. I've been at zero progress for an hour."
+
+—"I lost two levels just trying to finish the damn slime quest!"
+
+The whining buzzed like static. Celica slipped through the crowd, listening intently to their complaints. A part of her wanted to scoff and troll them a bit. But another part… felt bad. The cogs turned in her brain, and from those two feelings of wanting to troll and wanting to help, a crazy idea was birthed.
+
+She stopped at a gear stall. A black cloak, simple but theatrical, hung on the rack. The merchant wanted coppers; Celica paid in silver. She pulled it around her shoulders, savouring the way it pooled at her boots. If you wanted to sell a performance, you needed a stage costume.
+
+Now for the name. Celica stroked her chin pensively, her eyebrows twitching. This persona needed gravitas, something dripping with fake mystique. Wisdom Hands.
+
+A little ridiculous. A little pompous. But exactly the kind of phrase that would stick in the mouths of desperate newbies. The plaza was her debut stage as she climbed the fountain edge, cloak swirling. Voices dropped as she raised her hands.
+
+"Lost children of the slime fields," she intoned, pitching her voice low, cryptic. "You bleed, you suffer, you crawl… but you need not despair. The Hands of Wisdom will guide you."
+
+Half the players blinked, the other half chuckled.
+
+—"Is this chick an NPC?"
+
+—"Wait, I think it's a scripted event."
+
+—"No way, I saw her at the crypt yesterday. She's a player."
+
+Celica ignored them, extending her palm toward a random warrior groaning about his tenth death. A soft golden pulse spread from her fingertips: Basic Agility Buff. His agility stat ticked upward faster than he could react.
+
+He stared, wide-eyed. "My agility, holy crap, I can actually hit a slime now!"
+
+Celica's lips curved. "The blessing of Wisdom is not free. Payment is simple: spread my name."
+
+The crowd rippled. Some laughed others whispered and some... actually nodded.
+
+She dropped buffs like crumbs across the plaza. One on a shortsword user, one on a thief-like character, one on a desperate warrior clutching his broken longsword. Each time, the same words: "Remember Wisdom Hands. Speak it to others."
+
+The effects were immediate. Slimes began melting faster under coordinated parties. People stopped wiping every two minutes. Progress crawled forward, thin but steady, and gratitude buzzed like fireflies.
+
+Theories sparked.
+
+—"She talks like a quest NPC. Maybe she unlocks hidden content?"
+
+—"Nah, she's a high-level player trolling us."
+
+—"Either way, her buffs work. I killed three slimes in five minutes!"
+
+Celica's grin hid beneath her hood. This was too easy. The legend of Wisdom Hands was spreading faster than she could’ve imagined, every whisper cementing her myth.
+
+Hours passed in a blur. Newbies returned from the fields with progress, shouting her name. More arrived, wide-eyed, demanding blessings. She obliged in her exaggerated, cryptic cadence: "The Hands touch those who ask with humility."
+
+At first, it was manageable. A few players here and there. Then a dozen. Then fifty. And then the entire plaza surged toward her fountain.
+
+A suffocating wall of avatars pressed close, voices overlapping:
+
+—"Buff me! Are you recruiting for a guild? I'll join!"
+
+—"What's your questline? Please tell me!"
+
+Trades opened and closed in her interface faster than she could reject them. Coins, scraps of armour, even a random fish someone had caught somewhere. All sorts of weird and wacky items were shoved at her feet in chaotic tribute.
+
+The noise was deafening, and the whispers had become roars. Celica's smirk faltered, is this what it feels like to be an event NPC? For a moment, she froze on the fountain's edge, swaying under the heat of too many eyes.
+
+Cloak heavy, interface blinking with dozens of overlapping requests, she felt her stage collapsing. Her lips parted as a short but dry laugh escaped from them. "…I've bitten off more than I can chew." The words were lost in the frenzy, but the weight of them settled in her chest.
+
+The crowd pressed closer, chatter flooding her ears. "Please! One at a time!" she snapped, holding her hands up. "Form an orderly queue!"
+
+No one listened. Dozens of hands stretched toward her, players shouting over one another.
+
+The system pinged her: [This skill is on cooldown]. Her blue bar also ticked downward far faster than she expected. Every buff she shared, chipped at the reserves she couldn't easily refill.
+
+Her throat tightened. She had created a dependency trap. A crowd of players who now thought they needed her just to survive. But then, through the wall of noise, she caught glimpses that made her falter.
+
+A trio of wide-eyed newbies returned, slime goo still dripping from their gear. "We cleared it!" one shouted, beaming. "We actually cleared it!" They bowed in her direction before dashing back to town.
+
+Another staggered toward her, limping. "If you hadn't buffed me, I'd have lost everything. Thank you. Really." His smile was weary, but real.
+
+For a moment, Celica froze. That wasn't fear in their eyes. It wasn't obligation, or awe, or insincerity. It was gratitude.
+
+She hadn't felt that in… well, ever.
+
+Her chest knotted in a way that was both uncomfortable and strange. She wasn't altruistic. Everything she'd done, every buff she cast and every piece of advice she’d given, was for the thrill of the role, the mischief of trolling, and the satisfaction of pulling strings with a secret identity.
+
+Yet here she was, watching people progress in ways they couldn't have without her. People living because of her. Celica's lips twisted into a bitter laugh, low and humourless. "So this is why some people like to play the hero," she muttered. "Feels good when someone thanks you."
+
+The words tasted foreign in her mouth, but the truth of them gnawed deeper than she wanted to admit.
+
+Her gaze swept the square, mind sharpening. She’d overstayed her welcome, and if she was going to leave, she'd do it on her own terms. With style. With a story they'd whisper about long after she'd slipped into the shadows.
+
+Celica broke from the crowd and scaled the fountain in a single vault, cloak spilling behind her like black smoke. Water sprayed against her boots, the plaza falling into a stunned hush. Hundreds of eyes turned upward.
+
+She spread her arms wide, voice dropping into the deliberate cadence of an NPC cutscene: "Children of slime," she intoned, words booming with the kind of certainty only nonsense could carry, "Rejoice. You have felt the touch of Wisdom. But the Hands will not linger forever."
+
+The crowd stilled, hanging on every syllable.
+
+"When the Second Floor is conquered," she continued, sweeping her cloak dramatically across her shoulders, "The Hands of Wisdom shall descend again."
+
+A pause. Then Celica triggered one of her new skills, not for its buff effect, but for the spectacle. Golden light flared around her in rippling concentric circles, washing the cobblestones in radiant shimmer. At the same instant, she tossed down a smoke orb from her inventory, one of the cheap items she'd bought hours ago for laughs. It exploded at her feet with a hiss.
+
+Light and shadow collided, and for a heartbeat she was nothing more than a silhouette, burning and vanishing all at once.
+
+Gasps erupted, followed by shouts:
+
+—"She's definitely an NPC event!"
+
+—"No, a hidden questline, did you see the glow?!"
+
+—"She’ll be back for floor three!"
+
+The plaza erupted into chaos, theories multiplying faster than the respawning slimes outside the gate. Players pointed, argued, and shouted over each other. Some were already running to the quest boards, convinced they had just triggered something monumental.
+
+Celica was already gone. She slipped through a narrow alley, the echo of their cheers and speculation chasing her steps. Relief flooded her as she removed her cloak, but it tangled with a creeping dread.
+
+She hadn't just helped them. She had set something in motion.
+
+She had created a monster. Not one made of slimes or wolves, but of stories. A legend now wore her mask, and she had no idea how big it would grow. Still, she couldn't help the smirk tugging at her lips.
+
+"We do a little bit of trolling. Not bad for improv," she murmured to herself, vanishing deeper into the town. Her eyes drifted to an inn, one where she met her original guildmates on her first playthrough. Unknowingly, she began moving towards it.
+
+***
+
+The inn's second floor was quiet, mercifully so. Celica sat on the edge of the straw mattress, the muffled chaos of the plaza still echoing in her head. Snapped Sword, the flashy frontliner. Wisdom Hands, the mysterious benefactor. Two masks, two roles, both real. And yet… she rubbed her temples and let out a hollow laugh.
+
+"Underneath it all, I'm just Celica. A boring girl who doesn't know how to talk to people."
+
+She leaned back against the wall. Her heart was still buzzing from the attention, but not in the way it should. In her past life, she used to think crowds were overwhelming; now, she realized, crowds were easy.
+
+You could drown them in spectacle, toss riddles and theatrics at them until they were satisfied. But one-on-one? That was terrifying. You couldn’t just ignore the voices you didn’t like or smoke bomb away when you got tired. It's easier to troll a few dozen people than to sincerely talk to one, she thought bitterly.
+
+The irony gnawed at her. She had "maxed out" the game. Stats, skills, and secrets, so now there wasn't a single monster on this floor that could threaten her. She had the power everyone else dreamed of… and it was useless against the creeping loneliness slithering back in now that the performance was over.
+
+What was left? She had wealth, power, even notoriety. But those things were hollow in the quiet of a rented room. What she wanted, what she was terrified to admit, was something as mundane as friends to fool around with. At least before she inevitably drowned herself in constant grinding for drops when the game got harder.
+
+She closed her eyes, thinking of her old guild from a decade ago. The way they laughed after wipes, the late-night strategy talks that went nowhere. The stupid arguments about loot, followed by apologies and shared jokes.
+
+She hadn't realized until being sent back how many of her happiest memories weren't only about clearing content, but about who she cleared it with. At her stage in the game, she didn’t need party members anymore and she wasn’t particularly lonely when soloing.
+
+There was enough content to grind she didn’t have time to dwell on that. But something about becoming her younger self must’ve transferred the desires of her younger self too. She muttered into the empty room: "How do you even… start? Just walk up to someone and say, 'Hey, wanna be friends?'"
+
+The words sounded childish and absurd. She imagined trying it and cringed so hard she buried her face in the pillow. She could be a wise NPC to a mob, but the idea of holding a normal conversation? That was the true nightmare.
+
+And yet, the desire lingered, quiet but stubborn. Maybe, she thought, it was time to try anyway.
+
+***
+
+Celica woke late the next day, the inn's pure white sheets tangled around her. She stretched, listened to her stomach growl, and decided she deserved a real meal before returning to the grind.
+
+The roasted chicken at the inn downstairs was greasy and over-salted, but it filled the emptiness well enough. Celica knew as she progressed through the game cooking inns and establishments would improve over time.
+
+With a rare sense of calm in her chest, she wandered into the market district, eyes flicking over vendor stalls stacked with potions, scrolls, and low-level gear. Most of it was junk to her, she didn't need any of it. She was browsing for the sake of browsing, like a billionaire at a convenience store. That's when she heard them.
+
+"Guys, if we all pitch in, we can maybe afford, like… two small health pots?"
+
+A second voice groaned. "Two pots split three ways? Great plan. What happens when we all get hit at once?"
+
+"You won't," a third voice cut in, trying and failing to sound confident. "Because I'll tank everything."
+
+Celica's head tilted. She found herself watching a group of three huddled in front of a potion stall. Their gear was mismatched, their coin purses thin. They fumbled with menus, argued about inventory slots, and miscalculated change at least twice.
+
+And yet, despite the obvious incompetence, the way they joked with each other, the way they laughed off mistakes—it stirred something in her chest. Her old guild. Ten years gone, yet the resemblance was undeniable.
+
+They had been just as chaotic, just as hopeless with logistics. Half their dungeon runs had ended in disaster, but somehow those failures had been some of her favourite early memories.
+
+Celica's throat tightened. She should walk away. These newbies weren't her guildmates; they were just kids fumbling through their first real MMO. Interfering would only complicate things. She turned, slowly.
+
+"Hey!" One of them, the leather-wearing "tank," noticed her lingering. "You look competent! You've got gear and everything. You a solo player?"
+
+Celica froze. She opened her mouth and nearly slipped. The Wisdom Hands persona threatened to come out, but she quickly supressed it. “Yeah, I’ve been playing solo but..." she said, forcing casualness. "I'm just another newbie."
+
+The group brightened instantly. "Perfect! You wanna run with us? We're trying to clear the Slime Plains but, uh… potions are kinda eating us alive."
+
+Celica's mind raced. Every instinct screamed to back out before she tangled herself in something messy. But the eagerness in their faces, the way their energy mirrored ghosts from her past, it pinned her in place.
+
+"I… guess I could." The words slipped out before she could stop them.
+
+The girl of the group with purple robes, grinned. "Awesome! I'm Talia. That's Rhys, our so-called tank. The one crying about potions is Kellen."
+
+Celica shifted uncomfortably realising it was time for her to introduce herself, caught between relief and dread. Right now, she wasn't supposed to be Wisdom Hands or Snapped Sword. She was supposed to just be Celica.
+
+But did she even remember how?

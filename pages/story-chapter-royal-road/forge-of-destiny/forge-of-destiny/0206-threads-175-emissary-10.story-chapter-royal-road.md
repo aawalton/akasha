@@ -1,0 +1,161 @@
+---
+id: 641c75cb-e169-560b-ad85-118eae76b0f0
+page-type-slug: story-chapter-royal-road
+title: "Threads 175-Emissary 10"
+slug: 0206-threads-175-emissary-10
+partOf: forge-of-destiny
+position: 206
+ownLength: 2153
+unit: words
+publishedAt: 2022-01-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/826790/threads-175-emissary-10"
+royalRoadId: "826790"
+---
+
+No matter how their Alaniar hosts seemed at this first meeting, Ling Qi could not countenance leaving her sister behind. She could feel Hanyi tensing up under her hands, and the young spirit looked like she was going to say something
+
+Ling Qi kept her mouth shut, sealing back her instinctive denial, and tapped her finger on Hanyi’s shoulder. The young spirit paused, looking up to meet her eyes. Ling Qi gave a small nod of acknowledgement. Hanyi had the right to speak, but Ling Qi wanted her to be polite. The whole exchange only took a few seconds. Then Hanyi was looking back up at the towering tree woman.
+
+“I’m sorry,” Hanyi said sweetly, smiling up at the Voice. “But I have too many responsibilities to just leave for that long.”
+
+Ling Qi kept her expression even. She wasn’t sure what she expected, but that line wasn’t it.
+
+“You are unmoored with no place,” the Voice said dubiously.
+
+“Mhm, I don’t have a place of my own, but that’s okay. I like traveling!” Hanyi said. “And I already promised a whole lot of people I would sing for them. If I don’t give them my blessing, who knows what’ll happen when winter comes? I gotta keep my word.”
+
+For a long moment, the Voice and Hanyi remained still, meeting each other’s gaze. Ling Qi felt the cold whispers of qi in the air as the fifth realm examined her for duplicity.
+
+“You are small to carry word between men and gods,” the Voice retorted.
+
+“I am,” Hanyi agreed. “It’s probably not a lot to you, but I don’t wanna disappoint them.”
+
+Branches creaked, and there was a long, tense moment of silence.
+
+“Oaths must be kept,” the Voice finally rumbled. There was a note of dissatisfaction there.
+
+“Thank you for your understanding,” Ling Qi said politely. “Perhaps in the future, there will be such an opportunity. Your people's hospitality has been exemplary. Thank you very much for judging our case.”
+
+“Your gratitude is noted.” The speck of human emotion she had felt from the Voice was gone now. Only the cold observation of a spirit remained. “Emissary, duty is returned to you. I must return my attention to the Land.”
+
+<Heh, that little stinker can be smooth when she needs to be,> Sixiang chortled. <I think you definitely made the right choice.>
+
+Ling Qi had to acknowledge that. She would not have thought of Hanyi’s performances as a ritual of sorts, but that framing was probably the right way to deal with the Voice. And if the Voice accepted that answer, then it seemed that Hanyi really did think of her performances that way. Ling Qi didn’t give her enough credit.
+
+Ling Qi bowed respectfully as Jaromila made the appropriate genuflections and showed them the way out. The door boomed shut behind them.
+
+“I apologize for that rudeness at the end,” Jaromila said.
+
+Ling Qi gave her a sharp look and glanced back at the door.
+
+“She is not listening,” Jaromila dismissed her unspoken concern.
+
+“I was not offended,” Ling Qi replied, not quite believing her.
+
+Jaromila cocked an eyebrow dubiously. She gestured for Ling Qi to follow her, and she did with Hanyi at her side. “One must be respectful of the gods, great and small, but they are not always respectful back. This is why it is best to avoid involving those on the path of apotheosis in human matters.”
+
+Ling Qi studied her companion as they walked through the halls. “You were the one who said that you needed us to speak with her.”
+
+“It was necessary,” Jaromila said. “Your words… They are disturbing to us. Ice does not make life. At best, new life comes after the slate has been wiped clean. But if it is possible? That is a matter of interest to us.”
+
+“The Voice did not seem to think it was wholly possible.”
+
+“The Voice is on her first step of apotheosis and has enough human left in her to speak deceptively. If she truly believed those words, would she have made that request?” Jaromila asked.
+
+“It had occurred to me,” Ling Qi allowed, “but I did not want to make any accusations.”
+
+“That’s rude,” Hanyi said sourly.
+
+“It was,” Jaromila agreed. “This is why I ask your forgiveness, little singer.” She stopped in front of one of the closed doors that lined the hall. A tap of her fingernail against the blank iron plate that sat where a handle should have been saw the door creak open.
+
+“May I ask where we are going?” Ling Qi asked.
+
+“My rooms. I would like to speak with you, but if you would not care to, then I will simply offer you a drink for your troubles,” Jaromila replied, pausing in the doorway.
+
+It was a little pushy, Ling Qi thought, but she really had no reason to say no. “I would not mind speaking with you, though I hope that you will not imply again that I am a child.”
+
+She still remembered that cut-off statement, and it rankled.
+
+Jaromila looked troubled as she showed them into the room. A bright fire burned in the air behind a grate on one wall, warming the room, and thick rugs covered the iron floor. Ling Qi felt awkward walking on them with her shoes, but Jaromila made no motion to remove her own.
+
+“You are certainly a woman and not a girl. I will not dispute that. I will not lie and say that I am not troubled by your words though. Do all of your people bind themselves to a single way so young?”
+
+“Not all have the talent to reach this level at the age my companions and I have,” Ling Qi replied. She took the offered seat at the small round table in the center of the room. Like most of the furniture in this outpost, it was carved from polished bone, but the thick upholstering made it comfortable regardless. “What of you? I met a young initiate who said she had sacrificed her heart and eyes to reach the third realm. Is that normal?”
+
+“Young Sveta?” Jaromila asked over her shoulder. She was standing in front of an open cupboard which held a great number of covered iron pitchers. “She is precocious, but yes, it is, although normally one does not offer their heart upon ascension.”
+
+“What did you offer?” Ling Qi asked, morbidly curious. Hanyi hopped into a seat beside her, and Jaromila returned with one pitcher and three large clay cups.
+
+The older woman smiled as she placed everything down. “First, my tongue. Then, my hands, followed by my lungs and heart only later. What did you sacrifice to achieve your power?”
+
+Ling Qi said awkwardly, “We don’t do things quite the same way.”
+
+Jaromila studied her for a long moment. “Your sacrifices are wholly of the spirit. Our way is painful and dangerous, but I do not think I should like to try your way.”
+
+“The feeling is mutual,” Ling Qi said. She watched as Jaromila poured out a thick reddish-brown liquid into each of the cups. “What is this?”
+
+“Hmm? It is kvass. We are not speaking as emissaries so there is no need for harder drinks.” Jaromila finally took her own seat. The pale woman looked so different settling into a comfortable seat than she had clad in ice and striding across the caldera.
+
+Ling Qi gave her cup a surreptitious look. The word Jaromila had used translated to something like “black-bread-water.” Still, it wouldn’t do to be rude. Taking a sip, she found it very thick with a rich flavor. She thought she tasted a bit of honey too.
+
+“Why did you want to talk to Big Sis like this?” Hanyi asked as Ling Qi drank.
+
+“I wish to understand her better,” Jaromila answered. “When we gather everyone again, we may speak of ancestors’ coins and trade again, but for now, I would like to speak of Ling Qi.” The woman was much more careful with her enunciation of Ling Qi’s name this time. “What is it which fuels the drive that I see in your spirit?”
+
+Ling Qi considered her answer. “Why would I not be driven?” she returned. “It is only my power that lets me affect events at the caldera, and it is only my power which lets me come to this meeting. Without strength, I would be no one and nothing. You are not so much older than me, I think. Surely you want to step into the fourth realm, right?”
+
+“I am twenty-four so you are not wrong. Certainly, I wish to complete my ascension, but there is no hurry in that. I have centuries to see to that matter, and so do you.”
+
+“Not if I want to reach the highest realms,” Ling Qi rebutted.
+
+“Do you truly want to take the road of apotheosis?” Jaromila asked over the rim of her cup.
+
+“Do you not?” Ling Qi shot back.
+
+“It is a road I could imagine taking,” Jaromila said slowly, “if one day I no longer desire children, if Ilsur passed away, and if I tire of people, but no, I do not particularly want to.”
+
+“You’re happy with remaining in your position forever then? You don’t have any higher ambitions?”
+
+“I might like to become my people’s speaker at the Althing, or perhaps even a Mother of my confederation if I am being ambitious, but what does this have to do with apotheosis?”
+
+Ling Qi frowned at her host, confused, and Jaromila frowned back.
+
+“I had thought it strange, but you do not divide cultivation between ascension and apotheosis, do you?” Jaromila asked.
+
+“I’ve worked out what you mean through context, but no, it's all just steps on the same road to becoming a great spirit,” Ling Qi replied. “It’s the same for cloud tribes, isn’t it?”
+
+“It is, and that is one of the reasons Ilsur and I believe they are so troubled,” Jaromila said. “Those on the higher steps… They have too much power, yes? Too much power to safely interact with humans without intermediaries. They have such power that it is only good for war and intervening with the Land. You saw the ruin wrought by those who walk that road at the caldera. My mother chose that path, though she might have lived a century more as a woman and not a spirit, and while she is mighty, she is no longer my mother.”
+
+“There’s nothing wrong with being a spirit,” Hanyi said, offended.
+
+“Those who walk the way so high can be pretty monstrous,” Ling Qi acknowledged. “But I think our ways are different. You can hold onto who you are if you cultivate properly.”
+
+... For most of the way at least. The elders had their oddities, but they were still people. They weren’t like Cai Shenhua. Probably. Maybe the Duchess was just worse at hiding it.
+
+“Perhaps,” Jaromila said. “Your people, those who are above the fourth ascension, rule, don’t they?”
+
+There was no point in hiding that. Ling Qi nodded.
+
+Whatever Jaromila thought of that, Ling Qi couldn’t discern.
+
+“I still wish to know you better,” Jaromila said after a moment. “I propose an exchange of tales. One tale of the past that you think informs who you are for one of mine. Is that acceptable?”
+
+“Is that a tradition among your people?” Ling Qi asked with a hint of a smile.
+
+“It is, but not a formal one.”
+
+Ling Qi pondered a moment and nodded. She looked down at her reflection in the cloudy liquid that filled her cup, studying the ripples made by her breath. A story of herself to give insight into who she was? A few ideas came to mind. At the same time, some part of her shied away from the idea of sharing something so personal with a stranger.
+
+<It’s hard, but someone has to be the first to share,> Sixiang thought. <I think I like this though. Haven’t you thought before that dancing around things isn’t helpful?>
+
+She had thought that. Ling Qi supposed, like most people, she wasn’t great at applying her complaints to herself.
+
+“I hope you won’t mind a little stylization in the recounting,” Ling Qi said, more to delay than anything else.
+
+“I would hope you are enough of an orator to avoid a dry recounting of events,” Jaromila replied. “Or is storytelling such an obscure tradition among your people?”
+
+Ling Qi let out a self-deprecating laugh. “No, I suppose not.”
+
+She took a small sip from her drink and leaned back in her chair. Her eyes drifted first to Hanyi, who watched her curiously from her slightly too large chair, and then up to the ceiling. The iron was painted and textured like leaves.
+
+“Then let me tell you a tale of a daughter and mothers, of loss and growth.”

@@ -1,0 +1,151 @@
+---
+id: c62f33d1-16c9-56de-9337-b073c7a11959
+page-type-slug: story-chapter-royal-road
+title: "21 - Let's Explore Marshia!"
+slug: 0021-21-let-s-explore-marshia
+partOf: gamer-girl-evolution
+position: 21
+ownLength: 2041
+unit: words
+ownProgress: 2041
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2701563/21-lets-explore-marshia"
+royalRoadId: "2701563"
+markedReadAt: "2026-06-29T20:06:15.489Z"
+---
+
+Celica and Ingrid stood in the centre of Marshia, the second floor's bustling central city. It was still early in the day, and the faint glow of sunlight barely filtered through the thick mist. Celica had been here enough times to feel at home, but for Ingrid, the strange blend of muted colors and the ethereal atmosphere felt overwhelming.
+
+"Alright," Celica said, her voice light with excitement. "First things first. You need to know the layout of this place, especially since you’ll be spending a lot of time here."
+
+Ingrid nodded, her gaze scanning the unfamiliar terrain. Her usual expression of quiet concern had been replaced with a mix of curiosity and uncertainty. "I don't even know where to start..." she admitted, running a hand through her hair. "There’s just so much to take in. It’s not what I expected this floor to be like at all."
+
+Celica smiled, as she inwardly thought to herself, wait until you see the fourth floor. Then, a soft chuckle escaped her lips. "This floor definitely has a strange vibe to it but, you'll get used to it."
+
+"I will?" Ingrid said pensively as she raised an eyebrow. "Are you already used to it?"
+
+"Kinda. I've seen stages and places just like this in other games. Swamps and stuff are fairly common in RPG's." She waved her hand toward a nearby building. "Let’s start with the shops. It’ll be good for you to know where to get the stuff you need."
+
+They walked down a wide street lined with low stone buildings. Celica pointed out a few key landmarks as they passed, her voice filled with warmth as she guided Ingrid through the labyrinth of roads and alleys.
+
+"Here’s the general store," Celica said, gesturing to a building with a wooden sign. "They sell all the simple utility stuff—consumable items, potions, basic materials. Nothing too special, but it's worth knowing about. Any time you see that sign it means they'll sell things along those lines."
+
+Ingrid peeked inside the shop window, her eyes widening at the array of items on display. "I see. I'll keep that in mind."
+
+Celica turned and motioned further down the street. "Next stop, the blacksmith."
+
+As they approached a sturdy stone building, Celica’s steps slowed slightly. The blacksmith’s forge was a familiar place for her and as soon as they stepped inside, the sharp smell of hot metal greeted them.
+
+"This place is quite important," Celica said, her tone shifting slightly. "The blacksmith can upgrade your armour and weapons, as well as craft new ones. It’s also where you'll want to go to repair your gear after a long fight."
+
+Celica paused. "In fact we could repair your gear right now." She opened her user interface and clicked on Ingrid's name. She hadn't chosen to hide anything about her player so all her weapons and armour—and level—was on display.
+
+"How do I repair it?" Ingrid said innocently.
+
+"Just talk with the NPC and a few boxes should crop up. Click on the one that says repair items." Celica said as she grimaced. Her armour needed not only a repair, but an upgrade too.
+
+"Sounds simple enough." Ingrid said as she walked towards the blacksmith. Before long, her armour and weapons had been repaired.
+
+[You have initiated a trade with Ingrid.]
+
+"Accept it." Celica said as she looked straight at Ingrid.
+
+As if she'd seen a ghost, Ingrid's eyes lit up. "A Gold Coin!? This is too much! I can't accept all this!"
+
+"It's not even half all the money you spent on me and Milia growing up." Celica said with a sigh.
+
+"That might be true but still..." Ingrid looked conflicted. "Are you leaving enough for yourself? This amount of money seems like it would've taken you all of floor one to collect. And now you're giving it all to me..."
+
+A slight pause hung in the air before Ingrid continued. "I'd prefer it if you were the one doing well. I'll figure something out somehow, so you don't have to give me so much money."
+
+Celica looked at her inventory which was currently displaying that she had 99 gold coins, 98 silver coins and 92 bronze coins. For some reason, despite the seriousness of Ingrid's concerns, she felt the situation was slightly comical.
+
+"I'll be fine, you don't have to worry. Actually, the truth is... I have 5 gold coins!" Celica said triumphantly.
+
+"Five!? Already?" Ingrid looked at her in shock.
+
+"Yep. So you don't have to worry about me, just accept it." Celica said with a soft smile.
+
+"Well..." Ingrid deliberated for a while before finally accepting the offer. "Alright."
+
+"Since you have some money now, you can buy some better gear for yourself." Celica said with a head tilt.
+
+"Which one should I buy? I want to save a bit of this money just in case." Ingrid said cautiously. Celica almost opened the box to initiate a trade again, to give her even more gold coins. Luckily, she resisted the urge.
+
+"Since you don't want to spend too much money, but still need a good armour set, I'd recommend this one." Celica pointed to a clean but inconspicuous silver armour set. Then her hand swung in the opposite direction. "And this weapon, too."
+
+Ingrid looked at the set closely, analysing it carefully. "10 silver coins for the whole set and five for the weapon. Don't you think it's a bit expensive?"
+
+Celica was crying internally but she didn't let it show. Her thoughts were circular. Should I send her more money? → But then she might question how I got it... → Still, I want to help her to live comfortably... → Should I send her more money?
+
+"No, I think it's the right price, you'll still have a lot of money left over. Enough to last you through this floor and probably the next two or three as well." Celica said calmly.
+
+"Well, I trust you. I'll buy it." Ingrid said with determination. Before long, her armour set had changed from an old dusty set to a cleaner one. It wasn't the type to attract attention in public, but on second glance most people would say it's not bad.
+
+"If you wanted me to buy a new set and a new weapon, why did you make me repair the old one?" Ingrid questioned carefully. "Wasn't that a waste of money?"
+
+"Well, I wanted to make sure you knew how to do it..." And a couple of bronze coins collateral is negligible.
+
+"Right..." Ingrid said quietly, her voice trailing off into the air.
+
+"Anyways, next is the quest board." Celica said as she led Ingrid toward a nearby wooden notice board outside a small tavern. The board was a clutter of parchment, each listing various quests posted by NPCs in and around the city.
+
+"Most of your quests will come from here," Celica said, tapping on one of the notices with her finger. "Some are for gathering materials, others are combat-oriented, and sometimes you'll be asked to help NPCs with their problems. This is a key spot for progressing on the floor."
+
+Ingrid stepped forward and studied the board, her face curious. "These are called sub quests, right?" she asked, pointing at a few.
+
+"Yeah. They give good experience and often better rewards than you might expect. All the towns and villages have different sub quests unique to their area and NPCs, but Marshia has the most."
+
+Celica could see Ingrid's mind racing, processing the wealth of information. She made a mental note to remind Ingrid later about the importance of doing side quests as well.
+
+"Then there's the inns," Celica said, gesturing towards some tall, wooden buildings. "You can rent a room here to rest and reset your spawn point. It's useful if you're doing a lot of quests in the area, and it’s a good place to rest after a hard grind."
+
+Ingrid glanced up at the buildings, now starting to appreciate everything in the city. "Okay, I think I’m starting to get the hang of it," she said, looking back at Celica. "You know so much about this place. It's almost like you're... a local."
+
+Celica paused, stunned. Then she gave Ingrid a teasing glance. "By the end of today, you'll be a local too."
+
+Ingrid chuckled softly. "I’m not so sure about that."
+
+The two of them continued walking, with Celica occasionally pointing out additional spots of interest. It wasn’t a rush. They had time to spare, and Celica wanted Ingrid to feel comfortable, so she could absorb the information at her own pace.
+
+The cold atmosphere of Marshia wasn't quite as intimidating when you had a warm guide showing you around. At least, that's how Ingrid felt. And Celica felt the same way, she was happy to be here sharing some of the knowledge of the world she loved with someone she cared about.
+
+"So," Celica began, her tone casual. "How’s the progression of your skills going?"
+
+Ingrid blinked, her expression blank for a moment, then she looked at Celica with confusion. "Skills?" she echoed, sounding almost surprised. "What skills?"
+
+Celica stopped walking, momentarily stunned by the response. Her mind raced, and then it clicked. Ingrid had been fighting without using any skills at all. No wonder she had been struggling in combat.
+
+A realization struck Celica—she had assumed Ingrid knew about skills, but of course, she had never been told. She hadn't even thought to mention them.
+
+"You’ve... been fighting without skills?" Celica asked carefully, the concern creeping into her voice.
+
+Ingrid’s brow furrowed as she scratched the back of her head, clearly embarrassed. "I just thought... I mean, I’ve been using the basic attacks, and I’ve been okay so far." She shrugged a little sheepishly. "Is that not enough?"
+
+Celica let out a soft sigh. "It's just that skills are a huge part of combat here. They’re more than just basic attacks. They make a world of difference. The sooner you get comfortable using skills, the better."
+
+She shook her head, then turned toward the nearest shop, which was the general store. The shopkeeper, an NPC behind the counter, greeted them as they entered. Celica led Ingrid up to a small section of the store where common skills were sold.
+
+"Buy these," Celica said, pointing to the display of skill books, "Everyone gets access to these on this floor and they're extremely cheap. Slash, Thrust, and Parry."
+
+Ingrid’s eyes followed Celica’s hand. "So, these are the skills I’ve been missing?" Ingrid asked, her voice small, but there was a spark of realization in her eyes.
+
+"Exactly," Celica confirmed. "With these, you’ll have more control in combat. Slash is your basic attack skill, Thrust is for targeting your opponent’s weak spots, and Parry is for defence, letting you block and counterattack. You need these to be effective in battle."
+
+Ingrid was silent for a moment, her gaze flicking from the books to Celica. "I had no idea," she admitted. "I’ve just been kind of... attacking and hoping for the best."
+
+Celica chuckled lightly, understanding how overwhelming the game could be at first. "Don’t worry, you're definitely not the only one who didn't realise. I think a lot of people have probably missed out on acquiring skills because the game doesn't offer much of a tutorial. It just lets players roam free and forces them to figure everything out themselves."
+
+She continued on. "Skills level up as you use them, and they get stronger the more you fight. They'll be a huge help to you in future fights."
+
+"Thanks, Celica," Ingrid said, her voice warm and genuine. "I’ve learned more in the last hour than I could’ve imagined."
+
+Celica grinned. "You're welcome. Spending time together like this reminds me of when I was younger, except this time it's me showing you around."
+
+Ingrid smiled in response. "Time really flies doesn't it?"
+
+"It does." Celica said before pausing. "Now that we've seen all of Marshia and gotten our stuff ready, let’s get started on the Main Quest."
+
+The two of them kept moving forwards, moving past the shops, inns, and monuments in Marshia. Before long, they'd arrived at one of the city's exits and a familiar heavy mist greeted them.
+
+The Great Marshlands.

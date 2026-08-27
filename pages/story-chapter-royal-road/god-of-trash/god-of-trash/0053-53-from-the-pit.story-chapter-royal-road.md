@@ -1,0 +1,103 @@
+---
+id: 16720c3c-565a-5600-996f-fb8c9ea7d0bb
+page-type-slug: story-chapter-royal-road
+title: "53. From the Pit"
+slug: 0053-53-from-the-pit
+partOf: god-of-trash
+position: 53
+ownLength: 2032
+unit: words
+publishedAt: 2025-04-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2207760/53-from-the-pit"
+royalRoadId: "2207760"
+---
+
+The pit glowed brightly, bathing the forest in its sickly glow. The light pulsed like a bad headache, and the pit burbled and spat as if it boiled, but emitted a fierce cold instead.
+
+Caught under the influence of the cursed nail, Rhys could do nothing but watch as Ernesto continued to pour mana into the pit. He narrowed his eyes, reaching out toward the nail with his mana. It had to ‘touch’ him somehow, right? Somehow, this nail was exerting influence on him. If he could find that connection and trace it back, then if he absorbed the curse power, he could break free. The only problem was that he couldn’t sense the curse. Whatever it was, it was extremely subtle, and right now, curse power, horrible scents, impurities, and a thousand other sensations overwhelmed him constantly as the pit boiled away. Identifying one small scrap of curse power in the midst of the sensory storm was like identifying one particular raindrop during a hurricane.
+
+From out of the sky, a slash of starlight imbued with the power of night lashed down on Ernesto. He whirled and drew his sword in the same motion, cutting the slash in two. The two halves of the starlight smashed into the pit and threw up a small wave, but that was it.
+
+“What have you done?” Aquari asked, taken aback.
+
+Ernesto laughed. “Awakened what was sleeping.”
+
+“Awakened…?” Her brows furrowed.
+
+“Did you not know what this well truly was? Don’t tell me, did you honestly take this for nothing but a trash pit?”
+
+Aquari held her sword before her, hovering over him on a different sword. The sword she stood on was no more than ordinary steel, but the sword she held was pitch black, with tiny pinpricks of light embedded in its blade, as though she’d cut out a piece of the night sky and bound it into a sword. She narrowed her eyes at him and said nothing.
+
+Ernesto chuckled darkly. “Then watch, while I awaken what slumbers below, and your sect is obliterated. There’s nothing you can do anymore. I’ve already begun the awakening process. Nothing can stop it now.”
+
+“Why?” Rhys shouted, then blinked, surprised. I can talk? Can’t move, can talk. Good t o know.
+
+“Why? Isn’t it obvious? I’m naught but a lower-tier professor in Purple Dawn Academy, without any land to my name. After this cursed beast ravages your land, and I lead the Alliance here to righteously slaughter the heretics who dared to cultivate such a dangerous curse, they’ll naturally gift this land to the hero who purged the land of such vicious demonic mages. My stature within Purple Dawn will shoot up, and I’ll make tenure in no time.”
+
+Hell of a way to make tenure. “You aren’t doing this on the behalf of Purple Dawn?” Rhys asked, acting shocked.
+
+“I was. But now that I’ve discovered such a valuable… ahem, dangerous curse, why not make a little progress of my own, rather than simply profit the Academy? Besides, it aligns with my own interest. You know, these foul wells dot the lands. No one knows what causes them, but they usually house a demonic beast, and always contain a great mass of impurities.”
+
+Rhys’ ears perked up. A great mass of impurities?
+
+“I’ve always wanted to see one of those demonic beasts, a being begat by curse power and born of impurities. For a long time, I’ve studied curses and curse power. What are curses? What is this dark energy, that seems counter to mana, and collects in the darkest, most corrupt, most stagnant places?”
+
+This guy was bad news. Rhys glanced at Aquari. She stood over them, holding tight to her sword, but she didn’t move. Her eyes flashed to him.
+
+Wait, is she not moving because of me? Surprised, Rhys stared at Aquari. He had no idea that the Schoolmaster actually cared for him, even to the minor extent of him being able to serve as a hostage. Still, this was no good. He couldn’t let himself stop Aquari from fighting Ernesto. If she didn’t stop him, the worst outcome would occur to their school, and Rhys wanted to prevent that as much as anyone.
+
+He glanced to the side, at the pit of impurities, then back at Aquari. Aquari stared back, clearly doing her own calculations. Rhys turned his eyes back to Ernesto. Whatever she was thinking, he refused to be the distraction that lost her this battle. He would resolve things with Ernesto on his own terms, in his own way.
+
+It was a bit risky, but gain never came without risk! Rhys steeled his heart and narrowed his eyes as determination welled up within him.
+
+Ernesto rambled on. “And here I am, before a foul well, one with a demonic beast bound within, at that. I can’t let this opportunity to study curse power pass me by.”
+
+“You won’t get away with this,” Rhys spat.
+
+Ernesto chuckled. He glanced at the nail binding Rhys in place. “What are you going to do about it?”
+
+“I’ll tell everyone. The Alliance, your school, anyone. As long as I live, I won’t let you forget it. Hero? Ha! They’ll know you as the villain you are. The foolish, pathetic villain who had to rely on a demonic beast’s strength to take down a tiny school like this.”
+
+“Are you, now.” Ernesto strode toward him, a dangerous look in his eye.
+
+“I will. There’s nothing you can do about it. When I’m done, the whole world will know,” Rhys pledged.
+
+“You. Shut up!” Aquari barked, charging in.
+
+“No, I don’t think they will.” Ernesto loomed over him and raised his hand. A black shield built of a hideous and mysterious bone materialized between him and Aquari, and her sword bounced off. He gripped Rhys by the shoulder and shoved.
+
+Rhys tipped over. Further, further, further, plummeting toward the sludge. When he was horizontal, the nail snapped, and motion returned to his body, but it was too late. He was already falling, too far gone to recover.
+
+Aquari snarled. She hammered Ernesto’s shield, but the bone was durable, and refused to so easily break. Small notches appeared in the bone, and bone shards flew, but the shield held.
+
+As he tipped over the edge, Rhys smiled. He gave Aquari a thumbs up, and plunged into the gunk.
+
+No one was going to take his trash away from him. Not some fancy professor from another school, not a demonic beast, no one. Before they could destroy it, he’d suck it all up out from under them!
+
+It was a risk, an incredible risk. He’d trained impurities as much as he could within the timeframe he had, save the final impurity potion he held on him now, but even so, he wasn’t confident that he could actually absorb the toxic gunk without dying. If it was up to him, he would have dripped some, then drank some, then slowly built up to jumping in, but there was no time. His trash was under risk. If he didn’t act now, it might disappear forever.
+
+Without risk, he could make no gains. If he wasn’t willing to burn himself down repeatedly, he never would have progressed as a mage. He was trash! He belonged in the pit! Even if the pit damaged him or crippled him, it only returned him to his natural state as trash! And if he died—well. He refused to die. Not to trash, anyways.
+
+This was where he belonged. This was his home. He’d been reborn in a trash pit, and trash pits would forever belong to him. Even one this dangerous and toxic was nothing more than another home for a trashy guy like him.
+
+And so, Rhys plunged into the pit.
+
+If his senses had been assaulted before, it was nothing compared to the barrage he was subjected to now. He was submerged in the trash, dragged into its icy belly. Trash filled his mouth with a horrific taste like nothing he’d ever tasted before and surged up his nose to leave his whole face aching and tingling. His skin smarted, stung, burned, and froze all at once. Impurities burrowed into his body without him actively absorbing them. They invaded every pore and every orifice, blockading his mana flow and turning his blood to sludge. He could feel his mana stagnating, his blood slowing, his heart struggling to beat on. Death loomed, his body growing number by the moment. The pervasive cold from the trash pit sucked into him, freezing him to the bone.
+
+Rhys ignited the impurities. They burned, rejuvenating his mana with fresh mana, but even as they burned, more impurities rushed in. The flames flickered, almost spluttering out from the onrush of impurities.
+
+No. I won’t allow it. Rhys grabbed the mana from the impurities and poured it into the flames that burned the fresh impurities. The fire flared up, devouring impurities faster than ever. The self-feeding loop spread slowly through his body. First, it covered the most essential regions, his heart, core, and brain, keeping him barely alive, but no more. As more impurities poured in, and Rhys fed them to the fires, the clean regions of his body grew larger and larger.
+
+That was all he could manage. Despite the vast amount of power burning impurities this strong released, it was still all he could do to stave off the onrush of impurities into his body. They were so virulent, so ferocious, that to use any less power meant the flames spluttered out, and without the flames to constantly burn off the impurities, even Rhys, with his impurity resist, would die. All his resist skills ticked up, and he gained Cold Resist, but it still wasn’t enough to stave off the damage. His body was burned, poisoned, corroded by acid, and riddled by impurities. He fed what little mana he had into Self-Regeneration and manually rebuilding his body, and it still did nothing. He had staved off immediate death, but he was still losing the battle of attrition. If nothing changed, he would die here, submerged in the toxic trash pile.
+
+He drifted downward. The deeper he sunk into the trash, the stronger the impurities became, and the more the corrosion ate at his body, despite his resistances. Any flashes of light from the battle overhead winked out as the trash swallowed him deeper. Rhys sank into the depths, barely fending off the impurities.
+
+Deeper and deeper. Even feeding all his mana into the flames wasn’t enough. The impurities pushed the flames back. From being able to defend his entire body, Rhys was pushed back, back, back, until he once more defended only the essential parts of his body. The flames that protected him wavered, weakening before the onrush of the impurities. He couldn’t beat them back. He’d trained, trained and trained, and this was the result. He could survive this long, but that was all he could do. The toxic trash pit was stronger than him. It was his death, his grave. He had been defeated.
+
+The flames burned down. Down and down, the impurities pressing deeper and deeper. Rhys’ eyes closed as the flames guttered, then went dark. One final tongue of flame remained. The impurities closed around it, and it, too, went out. Only an ember remained. The last ember of Rhys’ life. Every other part of him was ruined by impurities, so soaked in impurities that his skin, his muscles, even his bones were pitch black. There wasn’t a single inch of him not bogged down and riddled with the impurities. Every organ slowed, on the brink of failure.
+
+No. That’s not right. I’m the god of trash. I can’t be defeated by trash!
+
+Rhys’ eyes snapped open. The flames burst forth. He gestured, activating Trash Manipulation with his last scrap of mana, not to push the trash away, but to draw it in. One final, mad, suicidal maneuver, that came from the very core of his being. He was trash. Trash was his. These things were true, and he refused to allow anyone, anything, to contradict it.
+
+Come here! Get inside me!

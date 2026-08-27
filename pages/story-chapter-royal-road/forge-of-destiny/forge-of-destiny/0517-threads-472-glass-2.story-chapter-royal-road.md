@@ -1,0 +1,183 @@
+---
+id: ac667579-adf6-51d7-aafd-3f0c4b713398
+page-type-slug: story-chapter-royal-road
+title: "Threads 472-Glass 2"
+slug: 0517-threads-472-glass-2
+partOf: forge-of-destiny
+position: 517
+ownLength: 2529
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2603733/threads-472-glass-2"
+royalRoadId: "2603733"
+---
+
+Ling Qi leaned back against the rail lining the branch way, heedless of the potential for a vast fall into the clouds below. A small smile played on her lips as she recalled the night before in her mind. It wasn’t often that she was allowed to have a night of pure informality with her best friend and Cai Renxiang, and it always left her buoyed, energetic for the next day and the challenges ahead.
+
+Not that she would call anything on her agenda today challenging. In the coming days, she had many meetings scheduled, from the Ministry of Law to the Gold Autumn School to various contacts with whom it would be rude not to have a face-to-face meeting now that it was possible.
+
+Today, she was merely playing guide, as a favor to Meizhen.
+
+"Baroness."
+
+"Sir Xia," Ling Qi replied, straightening. "I hope you rested well from your journey."
+
+"The amenities of Xiangmen are… more than acceptable," he said, making it sound like he was giving her a concession by saying that.
+
+She stifled her amused smile at the artificiality of it. Xia Anxi was well skilled at monitoring and controlling his expression. It wasn't his fault that her eyes were like this. Still, it seemed like whatever had happened in the Thousand Lakes visit—and Meizhen was still holding out on some details—had somewhat settled his nerves.
+
+"I'm pleased to hear that. The comfort of our honored guests is our utmost priority. I hope you're acclimating well to the heights?"
+
+He glanced behind her to the yawning void of clouds and glimpses of green many kilometers below, and very quickly tore his eyes away. "It is a unique experience. I might prefer the shores of the north or the waterfront of Lake Hei, but Xiangmen's air is bracing despite the altitude."
+
+The great pillar's vital qi was rich in the air in a way few places outside dedicated cultivation sites were.
+
+"I'm glad it's agreeing with you. Now, I believe Lady Bai wanted me to show you around, but she wasn’t specific as to the goals of doing so, beyond 'reviewing potential investments.’”
+
+"Naturally. The details of such arrangements are beneath a great white serpent's notice." Xia Anxi pushed a hand up through his long hair to brush it behind his shoulder. He was dressed more warmly this time, a heavier set of indigo robes lined with white fur at the neck and sleeves. Points for preparation.
+
+"But well within yours, it appears," Ling Qi quipped. "My congratulations on receiving such trust."
+
+He narrowed his eyes at her. She kept her expression earnest and open. After a moment, he grunted.
+
+"I accept your compliment for what it is, Baroness, but I think you are, as you southerners might say, laying it on too thick."
+
+"Am I?" Ling Qi wondered aloud. "Oh, well. Do you have any preferences for what opportunities you would like to explore?"
+
+"I am of the opinion that if our provinces are to remain close, some propaganda may be useful. The Bai are not friendly, and never will be, but we can be made more familiar."
+
+Ling Qi failed to stifle the chuckle that slipped out, earning her a glare, searching for an affront.
+
+"I would not think you to be one to doubt the effectiveness of theater," Xia Anxi said snippily.
+
+Ling Qi shook her head. "No, no. It’s that I have only just finished going about with Meng Dan, my fellow retainer, to acquire some similar services for ourselves. An accomplishment does no good if people are allowed to forget about it, no?"
+
+For all that the Xia scion was less twitchy now, that hair trigger watchfulness for being made fun of or insulted remained strong.
+
+"I see. Yes, that does make some sense. Your lady must have similar demands. It seems that we might be at cross purposes then, but I am sure there are enough groups in Xiangmen for the both of us."
+
+She considered Xia Anxi. That… wasn't a joke. Just how sparse was the Thousand Lakes theater scene?
+
+"Yes, I think so. Why, it’s not as if some of the larger troupes could not take commissions from the both of us."
+
+"Possible. Doubling on our patronage would also be a show of connection." Xia Anxi beckoned her away from the edge of the branch. He wished to walk and talk, and also get out of eyeshot of the drop. She humored him, falling in at a polite distance beside him.
+
+"What other interests do you believe the Lady Bai might invest in?" Ling Qi asked.
+
+"She has expressed an interest in improving on Thousand Lakes lacking fine glassware. While we have countless skilled glasscutters, their access to the proper reagents is limited."
+
+"I see. I am no expert, but I do have some contacts within Xiangmen's workshops and tradesmen. We should go to the foundries and industrial workshops."
+
+Ling Qi was curious about the more physical side of Xiangmen's arts herself, and it would make good conversation.
+
+"Not the most refined way to spend an afternoon, but work must come first.I am no Yellow Boa, but I do find a certain beauty in creation."
+
+"Those are the Bai clan's sacred bronzesmiths?" Ling Qi set off down the street.
+
+The festivities had ebbed. There were still many banners and decorations up and about, but in the early light of day, the celebrations slept for now, while the vital business of the city ground on, carried on the backs of those who labored despite their aching heads.
+
+"Correct. Their domain is wood and earth, growing and creating works, whereas the higher spirits, those of wind and water, are seen to by my own violet caste and the White Serpents."
+
+She really thought it odd and a little unsettling for entire clans, what she understood as comprising many thousands of cultivators, to be locked into a narrow range of Ways from the moment they drew breath. The downside of spirit blooded was being born with more constraints and settled meridians, but it seemed like a harsh result. Nonetheless, she didn't wish to voice ignorance without looking into it more herself.
+
+"I would enjoy the chance to see their work someday myself," Ling Qi said.
+
+He arched an eyebrow. "And what do you think that stone you wear at your neck is?"
+
+She blinked, raised her hand to the choker. "Oh, I suppose gemstones would also be in that purview."
+
+"As a lesser tradition than the sacred bronze," Xia Anxi allowed.
+
+She studied him out of the corner of her eye. "You are unsettled by it. That Bai Meizhen would deign to seek out a gift for one of my station?"
+
+"It is not my business to inquire about such decisions." Xia Anxi lengthened his stride. It was a novel experience, hurrying to keep up with someone.
+
+"You did not inquire. My offer was implicit."
+
+He shot her an unamused look. "My Lady Bai's business is her own. I do not need whatever… test you are trying to accomplish here, Baroness. And while I will not begrudge you your duties, I would appreciate it if you considered this one concluded."
+
+She tilted her head, falling behind him a step. "How incurious."
+
+"Curiosity is not a trait one should cultivate in my position. Given your role, I understand why yours is more well grown."
+
+"I would certainly be a much poorer cultivator without my curiosity," Ling Qi agreed.
+
+Xia Anxi had a strange mindset to her, sharp with fear, but quick to bite.
+
+"Do you not know Bai Meizhen better than that by now? I do not think the kind of test you imply would be like her."
+
+He looked at her warily. "Good for you."
+
+She inclined her head, recognizing that she would get no further, and could only offend by pressing.
+
+"As you like. Come. This road will take us to the industrial district.”
+
+The industrial district of Xiangmen lay on the north-facing side of the trunk. There was a wedge among the branches where mortar and stone and more had been laid between radiating branches, creating a solid floor which spanned between the space that lay between two major branches, supported by metal struts carefully fitted to the gigantic branches supporting it. On that solid foundation and suspended over the clouds, the great workshops of Xiangmen were laid, belching gray ash and white smoke upward from chimneys and vents. Those streams rose until they reached a wide artificial whorl in the wind. Ling Qi could feel it tugging at her wind qi, even from beyond the edge of the district. In that whirling vortex, it was spewed upward in a single column contained by currents of clean air. It vanished beyond the canopy, vented out beyond the vault of the sky itself.
+
+As they approached, hot wind blew out through the entrance, which was marked by a high arched gate carved from jade, inscribed at the base with many of the formations on display. The heat only grew as they approached, and would have been sweltering and painful for a mortal or a cultivator without an easy method of regulating their own body temperature.
+
+Here, Bai Anxi shuckled off his fur trimmed mantle, sending it into his storage. He breathed a small sigh of relief as they crossed the threshold together.
+
+"An impressive arrangement, I must admit. I had heard of the method, but it is another thing to see it." Xia Anxi peered upward. "It must be an awful mess if the formations ever falter."
+
+"I am told that it was back when the city was taken. A choking ashfall lasted some days. How do the Bai handle their run off?"
+
+"So far as I know, the impurities are collected through filtering formations, and then sunk into Lake Hei in a ritual cask ship. The high priest will offer its toxicity to Grandmother Serpent. The arrangement was made under the third White Serpent Queen, before the coming of the Sage."
+
+Interesting. What might be considered pollution and trash offered up to the proudest of the Sublime Ancestors and yet, it made sense. The White Serpent was the power over not only all running waters, but also all toxic and deadly things.
+
+"Ah, of course the Bai should have an arrangement so long lasting. I do believe this formation was only put in place under the second duke of the Hui."
+
+That duke had demanded that the artisans of the city present to him a solution for the dirty air which hung in the cloud district.
+
+Xia Anxi shrugged. "We will see if it stands the test of time then."
+
+"I still can’t understand the mindset that sees a few millennia as not having already done so."
+
+"Stability is the foundation of civilization. Every time great change comes, it is a calamity on the land," Xia Anxi recited. "The glass works are at the far end then?"
+
+"It is, but how did you know?"
+
+They strode unimpeded down the street. There was only minimal foot traffic, mostly laborers and messengers running to and fro between workshops and the occasional noble like themselves, here to make an order or observe the processes.
+
+"I recognize the scent of the salts used in the process."
+
+"Oh? I freely admit I know little of how it works. Something with ground up quartz? I at least know you can't use the sands from the Golden Fields."
+
+Something about excessive impurity and metal compositions and the intense death qi which tended to cling to the sands. Supposedly, it caused frightful distortions in the glass made from it.
+
+"Neither do I, but my clan does own the distillation arrays used to take salt from the sea," Xia Anxi replied.
+
+Ling Qi nodded, eyes roving over the smithies and grand alchemy houses, and other industries. The thrum of productivity which she felt was not the wild creation of the Dreaming Moon. It didn’t resonate with her qi the way song and story did. There was still something of the joy of creation though in the beat of hammers and bubbles of fluids and the crackle of the fires.
+
+It was like a play. There wasn't one voice but many, a community song of creation.
+
+"Do you truly believe those words earlier, about change and calamity?"
+
+"Oh, do not begin about necessary change. Your Hui were feeble, and the very last thing they created was stability in their latter days. An order which deliberately invites chaos is no order at all." Xia Anxi scoffed. "That their own gu cauldron produced something which devoured them is no surprise at all."
+
+Ling Qi laughed. "I'll skip the obvious retort then. What is a gu cauldron? That's not a term I've heard before."
+
+"A banned pre-imperial practice. One would place some number of entities in a sealed environment and force them to kill and devour each other to distill all of their strengths into one being. It was from such a practice that our ancestor, the Great Yao, was born in the northern fens."
+
+Ling Qi paused. That was grim. "And I suppose…"
+
+"He slew the spirit lord who had created the arrangement when he emerged, yes," Xia Anxi concluded.
+
+"I see. And would you say the emergence of Yao was a calamity?" Ling Qi prodded.
+
+"It was. I can't imagine those subjugated by his spear and Grandmother's venom were pleased by it, even if their descendants become safer and better off than they could have been, ruled by a dozen squabbling authorities in petty patchwork kingdoms. Let me ask you, do you not think your duchess was a calamity when she emerged?"
+
+"I am surprised to hear a Bai say such words."
+
+"I am told it is the local custom. My, do I sense an evasion in your voice?"
+
+"She must have been. Sovereigns cannot clash without great suffering, not without extensive preparations and good luck, and the odds in her favor were not so good as that." Ling Qi thought of the firestorm she had drifted in, and how it would have scoured the world, if not contained. She knew well that the Duchess' light was cruel in its ruthless scouring, that Renxiang could and would be better, but... "Given what she has done, and the evils cast down…"
+
+"It was worth it. So it is with every great ruler who establishes a new foundation," Xia Anxi told her. "Your duchess has established stability. She has made it such that tomorrow will be the same as today. For this, the city rejoices."
+
+"A strange way of putting it, given the upheavals she has caused even now, with her controversial edicts and techniques," Ling Qi observed.
+
+He dismissed her point. "Personal things. People may be moved by those in short bursts of passion and temper, but in the end, they care far more that the prices of reagents are stable and that they may now go to the Ministry of Law to raise a case, and need not pay three different bribes to be heard."
+
+"I take your meaning, but I think her appeal is more than that… Ah. We’re here."

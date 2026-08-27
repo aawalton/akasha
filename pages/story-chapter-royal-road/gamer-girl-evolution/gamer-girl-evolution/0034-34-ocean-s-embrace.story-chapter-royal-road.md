@@ -1,0 +1,187 @@
+---
+id: 3c64ba77-9782-5e53-849a-5192a7937400
+page-type-slug: story-chapter-royal-road
+title: "34 - Ocean's Embrace"
+slug: 0034-34-ocean-s-embrace
+partOf: gamer-girl-evolution
+position: 34
+ownLength: 1559
+unit: words
+ownProgress: 1559
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2809370/34-oceans-embrace"
+royalRoadId: "2809370"
+markedReadAt: "2026-06-29T20:06:40.206Z"
+---
+
++5 Ocean's Embrace [Unique]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +126,000
+
+Defensive: +7200
+
+Physical Attack: +5400 (5000~5800)
+
+HP: +1100
+
+Fixed Effect: Equip to unlock.
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined longsword desired by countless swordsmen across all of Earthonia. After experiencing changes, the dagger's latent potential has almost fully awakened, but a greater power within lays dormant.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+"Are you for real?" Celica looked at the item description incredulously. "A perfect high roll?" she exclaimed as she looked at the increase in stats that the new weapon provided.
+
+In the game, when a weapon transitioned from a Super Rare item to a Unique item, whether it was through a weapon trial stage like here or through using a powerful item to increase its rank, there would always be variations in how much the stats changed.
+
+In the Super Rare to Unique case, stat changes would vary between a 4x and a 5x increase. In other words, not all Unique weapons would have the same stats even if the weapon had the same name.
+
+In this case the stats of the sword had increased by 5x, the best possible increase.
+
+Another reason why unique weapons would largely vary is the fixed effect. At the unique rank, weapons gained an attribute or feature which would be exclusive to that weapon known as the fixed effect.
+
+Celica’s hand moved like a blur, instantly equipping the new weapon. Then, her eyes returned to the item description eagerly awaiting a certain change. Both of her hands clasped together and she closed her eyes.
+
+“Please, please, please be a good effect!” she said loudly, praying to the RNG gods. A clean animation played out in front of her, with several different possible effects spinning past her screen until it finally locked onto one.
+
+Her eyes lit up.
+
+Fixed Effect: While in combat, every attack stacks 1% crit chance cumulatively. Maximum crit chance attainable is 100% at 100 attacks. If no enemies or targets are damaged within 30 seconds, crit chance resets back to 0.
+
+“Ha. Ha ha... thank you gods of luck!” she smiled, looking at the fixed effect. Crit based fixed effects were really good to get early in the game due to the fact that early game bosses generally didn’t have any crit resistance. So this fixed effect was one of the best she could’ve gotten.
+
+“Now where was I?” She looked around the grass filled arena, eager to show off and test her new weapon. As if on cue, a system notification sounded.
+
+[Since you have defeated the Fifth Boss: the Sixth Boss has spawned.]
+
+[Time Remaining: 19 minutes 51 seconds]
+
+Celica’s eyes sounded shifted, drawn to a looming shadow hidden amongst the trees.
+
+[Earthen Golem (Boss) – Lv. 52]
+
+As soon as its figure came into focus, she instinctively zoomed towards it at breakneck speeds. The boss was huge, towering over Celica and standing alongside the trees but Celica didn’t hesitate and slow down. Instead, she sped up.
+
+Her pathing was optimal and her movements clean, vectoring straight towards the boss and covering the distance between them easily. Her aesthetic sword lit up with a pure blue hue before a gush of water burst out from its side.
+
+[Water Strike]
+
+The boss attempted to dodge the attack, but its movements were too stiff and its speed couldn’t matchup to Celica's.
+
+Crit Chance +1%
+
+A low but strangely ancient howl escaped from the golem’s mouth as it slammed the ground reflexively.
+
+Celica leapt backwards, avoiding the range of its sudden AoE ground attack. Then, her eyes widened.
+
+[Earthen Golem HP: 90%]
+
+“You can’t be serious...” she sighed before her sigh turned into a manic laughter. “10% of its HP with a single skill? And I didn’t even crit? Do they need to nerf my weapon already? I haven’t even finished the trial!”
+
+She sounded like she was complaining, but, in actuality, she was overjoyed. If anyone should’ve been complaining it would be the players who didn’t get the chance to experience this unique scenario.
+
+And if anyone else deserved to complain it’d be the Earthen Golem who was currently being destroyed before it could even put up a good fight.
+
+She moved with purpose, dodging each of the boss’ conjured rock blasts with practiced elegance and precision. Then, as she got close the boss slammed down, using the same AoE attack it had used earlier.
+
+This time, however, she was expecting the attack and knew it wouldn’t follow up. She jumped backwards to just outside the range of the boss’ attack before propelling herself forwards like a rocket.
+
+Her sword flashes several times in the air like a pulsing shooting star. The boss howled in agony as Celica retreated, it flailed about helplessly but the damage had already been done.
+
+Critical Hit Chance: +1% +1% +1%....
+
+Cumulative Critical Hit Chance: 10%
+
+Sounds from the system alerting her that her critical strike chance had increased flooded her ears. Celica’s face was solemn as she looked at the boss’ HP.
+
+[Earthen Golem HP: 41%]
+
+“It lost 49% of it’s HP from one combo...?” She sucked in a deep breath before calming herself. “This sort of damage is just unholy.”
+
+[Warning: The boss has entered a state of ancient focus. It has unlocked several powerful magic attacks from its ancestors. Being hit by any attacks will likely be lethal.]
+
+Celica smiled seeing the notification from the system. It wouldn’t matter how many more attacks it unlocked if it was going to die from another combo. Still, she decided to would be best to not underestimate it.
+
+Suddenly, the boss’s core began glowing a bright crimson red. Celica’s eyes narrowed observing it carefully. She didn’t want to make a wrong move at this stage, and with her Glass Canon build, she’d definitely be one shot if she got hit.
+
+Suddenly, a spray of lava shot out from the boss’ core, straight towards Celica. She moved instantly, anticipating the highly telegraphed attack, easily escaping its range.
+
+Crash!
+
+That was close! Celica thought inwardly as she narrowly avoiding the rock projectile the boss had thrown. It was using the obvious build-up of the fire attack to mask the attack animation of the rock blast. Still, Celica had reacted in time, narrowly dodging.
+
+Seeing how the core grew dimmer, Celica advanced, taking advantage of the fact it likely didn’t have its crucial cooldowns since it’d just attacked. The boss flinched backwards in fear and attempted to run away but Celica was much too fast for the immobile golem.
+
+Attack → Thrust → Attack (Crit) → Slash → Attack → [Water Strike] → Attack.
+
+Critical Hit Chance: +1% +1% +1%....
+
+Cumulative Critical Hit Chance: 17%
+
+In the middle of her [Water Strike] skill, Celica paused, her eyes wide beyond belief.
+
+[You have defeated the Sixth Boss: Earthen Golem.]
+
+[Time Remaining: 19 minutes 33 seconds]
+
+Before she realised it, she was beating the boss’ lifeless corpse, its rocky eyes drained of all colour.
+
+The critical hit had instantly drained the rest of the boss’ HP, causing it to die before she’d even finished her combo.
+
+[Congratulations! Your weapon has been upgraded to the Superior Unique Rank.]
+
+Without skipping a beat, Celica opened her item inventory and equipped the new weapon.
+
+***
+
++6 Ocean's Embrace [Superior Unique]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +126,000
+
+Defensive: +7200
+
+Physical Attack: +5400 (5000~5800)
+
+HP: +1100
+
+Fixed Effect (1): While in combat, every attack stacks 1% crit chance cumulatively. Maximum crit chance attainable is 100% at 100 attacks. If no enemies or targets are damaged within 30 seconds, crit chance resets back to 0.
+
+Fixed Effect (2): Critical Hit Damage is Amplified by 25%.
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined longsword desired by countless swordsmen across all of Earthonia. After experiencing changes, the dagger's latent potential has almost fully awakened, but a greater power within lays dormant.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+“Synergistic Fixed Effects!” Celica’s mouth hung open as she looked at the second fixed effect. Upgrading an item from Unique rank to Superior Unique usually provided no stat changes. Instead, it would provide a second fixed effect.
+
+Two effects which worked well together were very uncommon and required some luck or rerolling with items.
+
+“It increases crit damage by 25%...” Celica stroked her chin. Crits amplify normal damage by 150% in PvP and 200% in PvE so a 25% increase would mean a 187.5% damage amplifier in PvP and a 250% damage boost in all PvE content.
+
+That coupled with the culminative crit chance effect... she smiled, clearly satisfied. Simply put, it was perfect. Just then, system notifications interrupted her thoughts.
+
+[Due to the next weapon change being a substantial improvement (Superior Unique → Inferior Epic), the next boss will be much more difficult.]
+
+[Please wait as changes to the arena are being made. Your current time of 19 minutes and 33 seconds will be paused during this period.]
+
+“Finally, it’s here,” Celica said, thinking aloud. Her left fist was clenched, and her other held the new blade tightly, holding it steady. Her eyes were ripe with anticipation. "Only epic weapons can be called real weapons.”

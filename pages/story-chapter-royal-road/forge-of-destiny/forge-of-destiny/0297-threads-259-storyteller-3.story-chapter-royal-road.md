@@ -1,0 +1,143 @@
+---
+id: bd2a2833-c8da-5f35-b8bd-70e73a9533c7
+page-type-slug: story-chapter-royal-road
+title: "Threads 259-Storyteller 3"
+slug: 0297-threads-259-storyteller-3
+partOf: forge-of-destiny
+position: 297
+ownLength: 2036
+unit: words
+publishedAt: 2022-11-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1031008/threads-259-storyteller-3"
+royalRoadId: "1031008"
+---
+
+“The construct,” Ling Qi explained, “along with some other projects, was found in a clanless fourth realm crafter's workshop after he passed. Since he had no living kin, it all went to auction.”
+
+Li Suyin’s eyes lit up, one rather more literally. “Really! How in the world would one end up in such a situation?”
+
+The basic story learned in the Outer Sect wasn’t wrong, but it did have wrinkles. “Technically, he was a baron, who originally came from Blue Mountain but never took land. I hear you crafter types can get away with that if you do enough contract work.”
+
+Li Suyin nodded in understanding. “Yes, some of us are very… isolationist.”
+
+Crafting cultivators could often be a little crazy, and if they were willing to just sit in their workshop and churn out talismans, the rules could be bent.
+
+“This should be fascinating! I won’t be able to use his work directly of course, but getting a good look at another crafter’s methodology on constructs should be very insightful. Ah, I’m so lucky that Senior Sister is here as well.”
+
+“She is?” Ling Qi asked, spooning a generous dollop of honey into her tea. “Well, leaving that aside, do you mind if I watch you take it apart?”
+
+“You make it sound so crude.” Li Suyin took a deep drink from her tea, showing no sign of dislike for its bitterness. “But of course. May I ask why?”
+
+Ling Qi hummed, thinking back to the shadowplay, the phantoms in the gaol, and her own mist. The gauntlet that Huisheng had put forth tickled the back of her mind. Ling Qi had used phantoms since nearly the beginning, first, the shadows in the mist of the Forgotten Vale Melody and then, the revelers of the Phantasmagoria of Lunar Revelry. Now, she worked through the more complex constructs of the Beast King’s Savage Dirge.
+
+“I’m looking for insights on the cultivation of construct arts.”
+
+“It’s not quite the same,” Li Suyin warned. “But I’d love to be able to help you!”
+
+***
+
+Li Suyin had been diligent in expanding her workshop. The complex of chambers and tunnels beneath her little manor were at least as expansive as the grounds above and went down some three floors. The chamber her friend had led her to was dense with tools and furniture. There were multiple workbenches of varying size with every imaginable carving and etching tool, arranged in neat rows. The ceiling was concealed by a dense layer of webbing, and scores of artificial limbs, body parts, and internal components dangled from thin threads.
+
+At the center of the web crouched a spider. Bright pink and covered in a thick layer of fuzz, Li Suyin’s spirit beast had grown large, comparable now to a sizable dog, and that was ignoring the bulbous sack of webbing bound to the arachnid’s plump abdomen. It bobbed and shook with every twitching motion, but also pulsed with something internal.
+
+The tall, gangly figure standing underneath the crouching spider spoke. “Good. The elixirs are having the proper effect, growth is on track, and the feeding frenzy should be curtailed. The survival rate of the offspring should be increased by some fifteen percent.” Bao Qingling’s head twitched in their direction as they entered the room. “Li Suyin. Ling Qi.”
+
+“Senior Sister,” Li Suyin said, bowing her head. “Zhenli is well?”
+
+“Lady Bao is most experienced. Her elixirs will do my first brood good,” Zhenli replied, rubbing her pedipalps together in a way that conveyed satisfaction. Ling Qi met eight glassy black eyes unperturbed. “My apologies for not being available to tend to you and your guest, Mistress.”
+
+“It’s fine. I was able to entertain Ling Qi on my own, wasn’t I, Ling Qi?” Suyin said lightly, approaching an empty workbench.
+
+“Yes,” Ling Qi agreed a little awkwardly. “Ah, congratulations?”
+
+“Mistress’s guest honors Zhenli,” spoke the spirit beast, spreading her forwardmost limbs in a way that dragged at the trailing webbing and made it seem like a curtsey.
+
+Don’t, please, Ling Qi thought to Sixiang.
+
+Sixiang blithely ignored her. “Yeah, no, I’m good. I wonder who the lucky fella was.”
+
+She saw a spark of pride in the spider’s black eyes, and Zhenli preened. “There were many clever and graceful males who tried. Thanks to the Mistress, I was well fed enough that I was able to keep my favorite!”
+
+Ling Qi definitely didn’t feel her expression going a little stiff.
+
+“Why bring her down here?” Bao Qingling asked gruffly. “I was going to come up when the examination was finished.”
+
+Ling Qi was never so grateful to the blunt girl for something to distract herself from Sixiang and the spider’s gossip. Even Li Suyin had the grace to look a little embarrassed.
+
+“It’s my fault,” Ling Qi said. “I brought her a present, a master’s puppet construct from Xiangmen. I wanted to watch her examination.”
+
+Bao Qingling’s head tilted, her gaze going somewhere just past Ling Qi’s head. “It’s not the same.”
+
+“It’s not,” Ling Qi agreed, “but some of the philosophy may be applicable. I have been looking for greater control and versatility in my arts. I will not be able to keep following templates forever.”
+
+“You are near the fifth step,” Bao Qingling assessed. “Understandable.”
+
+“Besides, it’s a good conversation piece. I don’t think either of you have had the chance to speak like this,” Li Suyin chirped cheerfully. “Ling Qi is quite clever in her way, Senior Sister.”
+
+Ling Qi raised an eyebrow. What kind of compliment was that?
+
+“I suppose discussing the mechanics and differences between talismanic automata and pure qi constructs is an interesting subject,” Bao Qingling grudgingly acquiesced.
+
+Li Suyin gestured toward the open workbench, and Ling Qi nodded. Mentally, she reached into her storage ring and pushed. The puppet appeared on the table. A sleekly crafted thing, its shell was all polished slats and panels of wood with joints to give it a full range of motion. Formations were carved and inked across the whole of the thing with great complexity. Its face was a mask of ivory with an articulated jaw and mouth and wide, green eyes made of glass.
+
+“Domestic use primary, minimal combat or labor reinforcement,” Bao Qingling evaluated after little more than a glance.
+
+“Heat resistance, subtle power projection nodes, some concealed components. Bodyguard unit?” Li Suyin ran her fingers along the smooth wooden chest. “Here, here, and here.”
+
+Bao Qingling grunted. “Likely then. Illusion projecting formations?”
+
+Li Suyin tilted the construct’s chin up to expose the jade and ivory components under the shell. “Confirmed.”
+
+Ling Qi felt a little inadequate. The symbols and lines carved into the figure weren’t entirely incomprehensible squiggles, but she would probably need to sit down with some charcoal rubbings and a reference book to get even half of that.
+
+“What is your bottleneck?” Bao Qingling asked abruptly, not looking up from the table.
+
+“Control,” Ling Qi said. “My original technique was the Forgotten Vale Melody. It summoned phantom beasts via the memory and feeling of being hunted in the dark. I didn’t control them, or even think about them. The second was the Phantasmagoria of Lunar Revelry, and the whole point of that art is random chaos.”
+
+Bao Qingling grunted. “Lower realm arts are typically like that. At those levels of cultivation, mortal flesh can’t withstand the level of information processing required for active control of multiple bodies well.”
+
+“It’s not impossible,” Li Suyin noted as she carefully loosened the puppet’s chest plate and set it aside, exposing a nest of gears and framework. “But it requires encoded routines in the construct, minimizing the need for multiple concurrent thought processes.”
+
+Ling Qi nodded, considering her third art, the Beast King’s Savage Dirge. Each of the main techniques generated a construct which performed one particular action without much nuance.
+
+“Why do most automata seem to have their power devices where the heart would be?” she asked, eyeing a cluster of metal ports which would likely hold green stones to power to the automata in the puppet’s chest.
+
+“Sympathetic inertia. A body constructed in the manner of a human should follow its conventions. Reduces spiritual drag on its operation,” Bao Qingling replied. “The world fights less against your work, and this increases efficiency.”
+
+“The rib cage and torso are simply the best for defending internal components. It’s the same reason those organs are where they are in our bodies,” Li Suyin added. “Trying to be clever with a working template often results in merely weakening the product.”
+
+“You’re saying it’s best to stick to nature then? That’s surprising.” Ling Qi’s eyebrow twitched as she caught a bit of Sixiang and Zhenli’s conversation. Nature could be quite the horror on its own.
+
+Bao Qingling pursed her lips. “No.”
+
+“What is best is to change a construct’s internal workings only when there is a deliberate purpose,” Li Suyin clarified. There was a faint grinding sound, unlubricated gears groaning as Li Suyin carefully disassembled the interior.
+
+“Purpose. Patterns. These are the keys to crafting constructs.” Bao Qingling glanced up, and Ling Qi saw a shimmer in the dim workshop, an expanding web of thin threads made of perfect fractal triangles. “We are far from the great spirits. We can’t make a new life entirely through artifice. A construct can’t be intelligent the way a person or a spirit is.”
+
+“Unless I give it a bump,” Sixiang interjected absently.
+
+“Just a shell for a spirit then,” Bao Qingling dismissed. “An automaton must follow a relatively simple list of behaviors, encoded into it during construction. For arts, you encode this pattern into the meridians you have attuned for the technique.”
+
+Ling Qi nodded in comprehension, though she couldn’t help but think of Liming and the works of the Duchess. But the highest realms broke many rules. To become a self-sustained set of physical laws which could contradict the Laws of the world was, after all, the point of climbing the realms toward ascension.
+
+To change the world through creation.
+
+Ling Qi realized, “I need to contemplate the part each piece will play in the overall story of Beast King’s Savage Dirge, how each construct contributes to my story, whether as character, scenery, or event.”
+
+“Not a framing I have heard, but if that is your Way, remain on it,” Bao Qingling said.
+
+“I think of it through the lens of the body,” Li Suyin offered as she studied a removed faceplate before setting it aside. “Our physical forms are composed of many distinct components. Remove any one, and there is cascading failure. At the same time, we do not need to think for our bodies to operate.”
+
+Bao Qingling continued, “I do not know storytelling. But to be able to consciously operate all aspects of the self is a defining trait of the fourth and higher realms, so it is a good analogy.”
+
+“I come to it via song,” Ling Qi admitted. “But you are right. Much of it comes down to what feels right in conjunction with the other elements.”
+
+“Frustratingly inexact, but such is life in the lower realms,” Bao Qingling said sourly, and Ling Qi saw her fiddle with something on her wrist, a band of pale green jade carved like a circling serpent.
+
+Yes, Ling Qi thought, life was often like that.
+
+Songs and stories could only ever approximate life. Life didn’t have to make sense, but stories did. Polish each piece and component to perfection, and the story she wanted to tell would come out in the end.
+
+She remained with Suyin and Bao Qingling for another hour or two, discussing the mechanics of construct function. So many concepts were left swirling around in her head, things she did not consider much with more static formations. The truly monstrous complexity of what Li Suyin was doing had never struck her so hard before, and she came away feeling prouder than ever of her friend.
+
+After a time, they returned aboveground, and the conversation turned toward other topics, such as plans for the future and what each of them intended. Ling Qi found that she was not the only one with a great many tasks looming ahead on her schedule.

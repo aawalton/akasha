@@ -1,0 +1,195 @@
+---
+id: 568f23a2-fdf5-561f-acc1-e50afea73e5c
+page-type-slug: story-chapter-royal-road
+title: "Threads 489 Ceremony 3"
+slug: 0534-threads-489-ceremony-3
+partOf: forge-of-destiny
+position: 534
+ownLength: 2727
+unit: words
+publishedAt: 2025-12-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2859735/threads-489-ceremony-3"
+royalRoadId: "2859735"
+---
+
+The shimmery cloth slipped away, and although from her position, Ling Qi could not see Diao Linqin's face, only a few loose ringlets of wavy chestnut hair, she could see, and feel, the contentment that radiated from the Duchess. The amusement was gone, the languid condescension banished.
+
+Ling Qi thought that the ones arguing for higher realm attendants might have had a point. The partially unrestrained energy of a seventh and eighth realm cultivator made her organs feel like they might catch on fire again.
+
+The two turned and strode from the procession, Diao Linqin's arm interlinked with Cai Shenhua’s. Linqin’s head barely came up to the Duchess' shoulder, but the intimate lean was clear. A single gesture from the Duchess saw Zhu Fan rise to his feet, head still bowed low, and follow respectably behind.
+
+The Cai family altar was almost humble in comparison to everything else. It was a block of white jade carved with imagery from the fall of the Hui, waist high and a meter long. This was expected. However, the cabinet atop it, containing the ancestral tablets of the clan, was not.
+
+In truth, it was only a little fancier than the ones she had looked at herself when considering what to purchase for her Ling clan. Made of fine cut spirit wood chased with a tasteful edge of gleaming gold, it was carved with symbols of good fortune and health.
+
+These had been scarred, burnt, and meticulously repaired.
+
+Zhu Fan stepped ahead of the brides to the attending priests of the Bountiful Earth and took from his attendants a wide chalice of shaped Xiangmen wood, which he would pour the nuptial wine into.
+
+Those who had been in the procession moved carefully, arranging themselves to face the altar in neat rows, while both Diao Linquin and Cai Shenhua knelt before the altar in preparation for their oaths. In the serene silence that filled the vast space, the faint creak of wooden doors opening, and the soft clink of fine porcelain was almost loud. Diao Linqin's hands gracefully took the tea set placed before her and began to brew.
+
+That was the solution that had been chosen for the ceremony. It was a surprisingly mundane one. The simple jade tablets within the battered cabinet hung from their hooks in silence as a prism cultivator, one step from the pinnacle, brewed a mundane pot of tea.
+
+"Honored Mother, Honored Father, and ancestors all, this one humbly requests your approval to reside in your halls, sup at your table, and join hands with thy daughter. Please, partake in this small offering."
+
+Diao Linqin's voice was soft and demure, far from the sharp and uncompromising tone Ling Qi was used to from their few interactions. It was a simple solution, one practiced all across the empire. If one lacked any living elders, an offer would be made to their tablets, and a priest would interpret the omens as approval or disapproval. Sometimes, this involved flipped coins, and sometimes, other methods of divination.
+
+The Duchess, too, bowed her head. It felt almost fundamentally wrong to see. "Mother, Father. This dutiful daughter asks for nothing else."
+
+Her voice sounded wrong, almost mortal. Ling Qi did not even begin to dare to extend her senses to try and look into and understand the strange feeling she got from seeing Cai Shenhua's eyes dim almost imperceptibly.
+
+"I would thump you over the head if you did," Sixiang whispered.
+
+She wasn't sure how that would help.
+
+"It would make me feel better before we both got vaporized."
+
+Still, her attention roamed to Zhu Fan; she supposed he would perform the divination. Of course, the outcome was not in doubt, but there was a certain ceremony to the process. Only, Zhu Fan did not appear to be preparing anything of the sort. He was the one who had opened the ancestral cabinet, he had lit the incense that burned on the altar, and he was now sprinkling a handful of tiny flower petals over the surface of the wedding wine poured into the oath chalice.
+
+Even at this distance, Ling Qi could feel the slight shift in his attention as two cups of tea were placed gracefully down.
+
+She followed the line of it and noted the worried tic in his cheek.
+
+Back at the guest table, the woman who could only be the empress raised a dainty porcelain pale hand.
+
+Power invaded the Throne of Seasons, a flowing torrent from far away, funneling down into the receptacle that occupied a dining chair seat. It was a cold power, a deep power, and it smelled of lilies and fresh grave loam. It was an authority, whose barest taste she had gotten when she had invoked the Celestial Dragon against the Weeping Mother, imperious and unchallenged. It was a set of scales hanging in judgment over every second of every day of her life.
+
+It passed so quickly, and Ling Qi felt what felt like the vibration of impossibly heavy gates being dragged open. A rush of cold wind blew through the throne room as every light in it turned a ghastly pale green.
+
+Something like flickering smoke, barely visible even to her eyes, stood over the Duchess and the Prime Minister, two figures impossibly distant and yet also somehow immediately present.
+
+The tea set out drained from the cups.
+
+Then, that sepulchral qi drained away as lights flickered back to their normal colors.
+
+Ling Qi was stunned, and she was not the only one. That was... What was that? It was obvious on the face of it, but absurd for it. The dead were gone! Shades and echoes could linger on, and they could be communicated with, perhaps in unclear and fuzzy ways, such as the normal divination methods she had thought would be used, but…
+
+Inexorable Justice.
+
+The previous emperor had ascended under that name. He was the patron of the Ministry of Integrity and the Judge of the Dead. She understood that within the orthodox imperial cults, it was accepted that the great spirit he had become was the ultimate arbiter of vice and virtue and of reward and punishment for wicked deeds.
+
+That was the inexorable part.
+
+However, there was a difference between a cult's dogma and the demonstrable reality. The dead were beyond reach. They were supposed to be.
+
+"Rules really is changing fast," Sixiang murmured.
+
+Cai Shenhua and her bride rose, resplendent with not a touch of that grave qi lingering in their presence.
+
+The silence of the guests was deafening. Ling Qi knew without a doubt that very few had been expecting such a display. Bai Suzhen looked as if she had bitten into something deeply sour, but her expression cleared quickly. The older woman among the Guo was frozen in almost lifeless stillness.
+
+This had not just been a display by the Duchess. Whatever the Empress had done, she had certainly done as more than a favor to a friend. It was a display.
+
+Of the power of the priesthood of Inexorable Justice, the Ministry of Integrity? Of the Throne? Ling Qi simply couldn't know.
+
+To his credit, Zhu Fan did not pause in stepping forward and presenting the nuptial chalice held in both of his hands to the brides.
+
+"It is spoken. It is done. Through the Heavenly Pillar and through the Gates of Seasons, the bride has passed, accepted under heaven and above the earth, to the court of the Pillar. The elders of the clan Cai, holders of the Throne, have spoken. Drink deep, and be bound, as heaven and earth are bound."
+
+"This day, I take Diao Linquin, as my own," Cai Shenhua said in a voice of celestial thunder, booming out through the court.
+
+"This day, I accept the oath of Cai Shenhua, and become her own," Diao Linqin replied, a soft voice that filled the silence in the wake of booming command and in a thousand echoed whispers touched by yearning desire.
+
+From the chalice, both drank deep in turns until it lay empty. The wine infused with Xiangmen's qi was emptied to the last drop.
+
+Cai Shenhua's eyes burned bright enough to blind a mortal.
+
+"And now! Let all take their seats. It is time for the toasts!"
+
+***
+
+It was, Ling Qi decided, almost morbidly fascinating, watching a cultivator of the eighth realm, by almost any measure a near-divine being walking upon the earth, very steadily become drunk.
+
+"I mean, I keep trying to get you to go to more of auntie's parties, but you keep saying no. Better get used to it before you go on that trip with Bao boy!"
+
+What was even in those cups being poured? Ling Qi wondered, not acknowledging Sixiang's silliness.
+
+"I'd tell you, but I think I'd melt if I tried to check."
+
+On that, they were stone-dead serious at least.
+
+Intellectually, she knew that the bride and groom were meant to take a moment to drink with each guest at their wedding. The groom was supposed to take a quaff, the bride, a sip at least. She had not really squared that with the hundreds of dignitaries and officials and nobles in attendance.
+
+"It is considered rude for the bride or groom to use simulacra," Meng Dan commented beside her. "It does make this stretch of ceremony drag on."
+
+The cups used for the toast were much smaller than the great chalice used for the vow, but were still exquisitely shaped from scraps of Xiangmen bark. There was an immense keg stored somewhere, as the cup refilled itself again and again. The mere fumes of accessing the liquor, wherever it was, made her head feel fuzzy. Far more than that was the dread of seeing a slight drunken flush beginning to climb the Duchess' cheeks as she attended each of her guests.
+
+They, Cai Renxiang’s retainers, thankfully did not count, being accessories to Renxiang. She didn't know if she could have handled even a thimbleful of whatever was being poured up there at the high tables.
+
+… She hoped Renxiang was going to be okay.
+
+She and the other retainers were seated down among the officials and officers, their special position lapsing down to something more reasonable in the seating arrangements. They were still largely surrounded by men and women centuries their senior and fourth realm besides, but there were at least some people around them at the upper end of the third realm and with the feel of cultivators in their first century.
+
+There was a great deal of quiet chatter going on in whispers and behind sleeves, much less hidden than in the procession. Small refreshments were laid across the table, sumptuous appetizers, and light drinks for the guests as the long, long ceremonial toasting finished.
+
+"Indeed! At one's own wedding, implying that your guests do not merit your full attention! Hah, you would be a poor host indeed. Goodness though, the vintage! I do wonder…"
+
+"Zheng brewed. It was among the wedding gifts brought by the guests," said an official, sitting nearby, plucking at one of the dishes daintily with a pair of chopsticks. "Such a potency though…"
+
+"Personally brewed by our Zheng guest himself. Ah, a Wuneng vineyard blend. What I might do for a sip…" another sighed.
+
+"Pass out on the floor." A third chuckled. "None of us without a fully formed gut pearl has any business with that."
+
+Ling Qi smiled, chuckling politely. "I see…”
+
+She felt Qiyi shift around her shoulders, and glanced down curiously. Her gown had been strangely quiet, first through the gates, and then during the ceremony. Qiyi's attention lay where it had been fixed since they arrived.
+
+On Cai Shenhua.
+
+Awe, curiosity, and for the first time, not a little fear, she felt through her connection to the gown spirit.
+
+"The toasts are winding down, and the first day's feast will come soon enough," Xia Lin said. "Without a doubt, there are less potent blends of Wuneng that will be available to us."
+
+"Oh? Has the heiress shared the menu then? I did not think her the type," one of the officials nearby said
+
+"No, but my fellows were in charge of security for the shipment," Xia Lin replied.
+
+"Ah, the White Plumes are ever reliable…"
+
+Ling Qi tuned out of the conversation, keeping only enough of an ear upon it to be able to jump back in if she was referred to. Her gaze wandered up to the tables where the comital clans were seated. Since she had sat down, she had felt an attention on her. Never overbearing, never pressing, but also not trying to hide.
+
+Her eyes fell on a tall man left of the center of the seating. He was a thin man with a narrow face only accentuated by the oiled point of the beard hanging from his chin. On his head was a dark cloth wrap fixed with a bright clear black jewel set in silver. He gestured, the pale grey silk of his robe glinting metallic under the light as he spoke with a much younger woman who was wearing similar colors.
+
+Jia Hong, patriarch of the Jia clan and one of Cai Shenhua's inner circle of supporters during her rebellion, was an equal to the Heron General Xia Ren. He was not looking at her. And yet, she understood that she had his attention.
+
+She took a deep breath, rejoining the easy conversation as Meng Dan cast her a curious look. She smiled at him. "Just thinking of the appointments I have to keep."
+
+Huisheng had given her an assignment, and it seemed her target was aware to a degree.
+
+"I see," Meng Dan said, swirling the light clear wine in his cup. "Already have the order in your head?"
+
+Pensively, Ling Qi replied, "Perhaps."
+
+"I hope you have a good time of it," Meng Dan said. "I expect I shall be the target of quite a few inquisitive elders today myself."
+
+He was the first member of the high nobility to be accepted into Cai Renxiang's inner circle of retainers. She didn't doubt that there would be hungry eyes looking for insights.
+
+Ling Qi turned her eyes from the Jia delegation. Once the feast was served and the first course done, she would make her approach as soon as she could.
+
+"I wish you luck. You might need that Meng constitution of yours."
+
+He chuckled. "Ah, I might at that, if they decide to come in ones and twos. At least the wine is very good. Perhaps I might ask the baroness' company later, when the party spills out into the lower palace gardens?"
+
+She saw the ears around them perk up at that. In fairness, no one was rudely listening in, but it was impolite to throw up active screening at a feasting table like this. "I might consider it, if Sir Meng is volunteering to guard my virtue," she said, smiling slightly.
+
+"Ah, and here, I was thinking you should guard mine."
+
+They both laughed. The party in the lower gardens was still an exclusive affair, but there would be many more in their own age group from the invited families. So, some degree of matchmaking was probably unavoidable there.
+
+Formally accepting a few suits would at least put an end to that. At least given the status of her potential suitors.
+
+"A good shieldwall requires a companion!" Gan Guangli boomed out cheerfully. "Should we support each other as well, you think, Xia Lin?"
+
+"No," Xia Lin said.
+
+Gan Guangli sagged in comical defeat. Ling Qi sipped from her cup elegantly. She appreciated the cover, making it seem more part of an internal game among the four of them. She was sure rumors would get out eventually, but she didn't want to spend these next few days mired in them.
+
+"Ah, jests aside, I may have some colleagues from Blue Mountain Sect available who would be interested in speaking about the summit," Meng Dan said pleasantly. "While the clans are a little..."
+
+"Ambivalent about our success," Ling Qi politely offered.
+
+"I know several scholarly fellowships are interested in our experiences," Meng Dan agreed.
+
+"Then, I shall be at your side in the lower garden, but look, I think that was the last toast wasn't it?"
+
+"Ah, so it is. Let us tuck into the feast then."

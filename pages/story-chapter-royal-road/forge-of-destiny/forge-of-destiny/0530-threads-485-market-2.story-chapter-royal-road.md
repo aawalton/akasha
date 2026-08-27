@@ -1,0 +1,137 @@
+---
+id: b683c5be-ad0a-5b1f-b59b-90e85a337ff0
+page-type-slug: story-chapter-royal-road
+title: "Threads 485 Market 2"
+slug: 0530-threads-485-market-2
+partOf: forge-of-destiny
+position: 530
+ownLength: 1651
+unit: words
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2790701/threads-485-market-2"
+royalRoadId: "2790701"
+---
+
+“And what of your explorations?" Xia Lin asked.
+
+"Given how much work is going into our shrine infrastructure…" Ling Qi began
+
+Xia Lin gave her a flat look.
+
+"Which is of utmost importance," Ling Qi defended.
+
+"We already have multiple major temple sites planned out for a settlement of only a few hundred people, and more government-funded shrines besides that proposed," Xia Lin protested.
+
+"We are building with an eye to the future," Ling Qi corrected. "If we had more limited funding, I might agree. But we don't, do we?"
+
+"We do not," Xia Lin grumbled. "Go on, then."
+
+"I found a peak yellow carpenter whose work on an ancestral shrine container caught my eye. Her master works on the gates and doors of shrines in Xiangmen. It might be useful to have some in-house work, if only for the upkeep."
+
+"True enough. "A skilled carpenter, even one focused on decor is a good investment."
+
+"I'll toss a stone Miss Lai's way as well. I assume you mean to do so, too?"
+
+"Yes, between us, that should be a comfortable support. I truly believe that the clay deposits will be valuable to us. Storage rings are too expensive for most low-level shipping. And food spoilage is always at issue, particularly when damage to infrastructure is likely."
+
+Ling Qi grimaced. Xia Lin of all people wouldn't have any illusions that the conflict in the south flaring up into full campaigns would go without damage to the empire’s holdings.
+
+"And what of you, Xia Lin? If I'm sharing, you can at least tell me who you found."
+
+"A metalworker," Xia Lin replied. "I noticed the quality of his metals and interrogated him. He crushes and smelts his own ores, as part of his cultivation practices, which seems quite good."
+
+"Oh, looking into an armorer?"
+
+"No. We will get our arms from the capital for some time. However, small objects, such as fittings, hinges, nails, horseshoes…"
+
+"Not going to stop pushing for a cavalry, are you?"
+
+"Riders are invaluable for a settlement so far from the center," Xia Lin insisted. "And so? Was the carpenter the only notable you found?"
+
+"No. I'm sure you'll find it frivolous, but there was also an alchemist who works with dyes and paints. I'm not certain we'll have an immediate use for him, but he did catch my eye. Shenglu can use some more color."
+
+"If we are leaning so hard to geomantic correctness, it cannot hurt to have the right colors. Our construction requires a great deal of sealant, too, given the mist."
+
+"He did mention that as an aside to his talents." Ling Qi chuckled. "I suppose he won't be the first crafter to be tasked with creating something dull and practical in bulk in exchange for funding. One stone should be enough there, too, at least for now."
+
+Of course, she would likely just be receiving samples for some time, if she read the relative wealth right. Two green stones a month would probably entice the carpenter to move, but alchemist Leng Shui struck her as having a wealthier master. Still, it was a foot in the door.
+
+"Shall we move up to the offices then? Get out of the crowd?"
+
+"Please," Xia Lin grumbled, heading for the exit of the trade floor.
+
+Ling Qi followed her out, only to pause just outside the exit. Someone almost bumped into her from behind, but she let them pass through her without a word. It wasn't her fault if doing so left frost on their sleeve.
+
+"Ling Qi?" Xia Lin asked, glancing back.
+
+"It looks like we might have another conversation. I doubt it's a coincidence that she's here."
+
+"Who?"
+
+"My contact in the Diao and the Ministry of Law."
+
+Well, either that or there was something shady about this tradehouse. She'd really prefer the other option though. She didn't need another adventure right now.
+
+***​
+
+"Baroness Ling, enjoying the markets of Xiangmen?"
+
+"I am, though my friend and I might retire to a park for a moment's meditation soon. The crowds are a little overwhelming."
+
+"They can be," Diao Hualing agreed. "I do not think I have been formally introduced?"
+
+"Captain Xia Lin of the White Plumes, signed under the service of the heiress Cai Renxiang." Xia Lin clasped her hands together. It is my honor, Lady Diao."
+
+Diao Hualing was in a pale, rose pink gown today, a simple, three-layer dress worked through with embroidery of falling leaves in complementary colors. Her hair was wound through ornate ornaments that chimed with every movement.
+
+"Captain Xia, Diao Hualing, Investigator of the Ministry of Law, gives you a greeting." The other woman clasped her own hands and gave a short bow.
+
+"I thank you. I am curious what brings Lady Diao here." Xia Lin straightened up as the Diao investigator stepped aside and followed them as they continued down the hall toward the office where patronage offers could be filed.
+
+"I cannot merely enjoy the fruits of the Emerald Seas labor?" Diao Hualing offered, but there was no heat in it.
+
+"I do not doubt that you do, but I suspect Lady Diao would prefer masterworks to the first shows of an apprentice skill," Ling Qi rebutted.
+
+"It is true enough. Sifting for gems is something I have little time for," Diao Hualing said as they reached the office. "I will dispense, I would like to speak with you, Lady Ling, and your companion, if you like. Recent events have affected my proposal to you."
+
+The negotiations with the ith under Xiangmen?
+
+Then, she winced. The plague attack on the Central Valley would affect the politics of any attempted endeavor.
+
+"I understand. Let us file our paperwork here. Then, we can go to the park, if you don't mind, Xia Lin?"
+
+Her friend shook her head. Diao Hualing simply nodded, letting them pass into the office.
+
+It didn't take long to get the paperwork filed, though the tradehouse staff did require a deposit of three months’ worth of the offered patronage, as a sign of good faith. It was amusing, watching the poor clerk sweat as they laid that down. He'd had to call his superior with a lock box for the tidy pile of green stones.
+
+Soon, they were on their way, with Diao Hualing in tow, out of the crowded market streets and into the wide garden that broke up the packed buildings of this branch. It was a wide expanse of vibrant green with splashes of color in the form of flower beds. Only a few austere stone pavilions and benches were scattered along its clean cobbled paths.
+
+They made their way to one of the pavilions in companionable silence. There was no use in letting tensions stew out in the open. After they were ensconced under the roof of a stone pavilion, they laid down the overlapping protections of their auras, ensuring privacy.
+
+Ling Qi could now tell that the soft whisper of falling leaves and scratching quills that was Diao Hualing was very potent. It would be as potent as her own would be when she achieved the fourth realm. A strong screening technique wasn’t surprising for those in their lines of work.
+
+"I saw by the flash in your eyes that you understand what my words meant," Diao Hualing ventured, settling herself on a bench across from them, silk pooling around her feet.
+
+Tasty…
+
+“Nah, nah, Ling Qi's gon’ be mad, if you go getting like that right now.”
+
+She was thankful Sixiang knew when to be serious.
+
+"I did run across the checkpoints on my way here. I assisted as I could with the limited time I had."
+
+"I was informed. We are grateful. The man in question was apprehended on the way to the regional trade hub in that viscounty," Diao Hualing informed her. "Investigation of the method is underway."
+
+"I assume this adds to the information you will wish to demand from the subjugated ith," Xia Lin said. "And it will make many parties upset, if they do not have it."
+
+"There is that, but I must add that there has been a communication from the ya-lith-kai, the beasts we are warring with," Diao Hualing said, her voice clipped.
+
+It was difficult to read behind the mask of the investigator’s face, even for Ling Qi, but she could see the ripple of a predator under the surface of a lake. Diao Hualing was furious. She felt a chill of wariness. She would normally say it could only be good for their enemies to be willing to talk. They had to be for any good outcome to the war, but…
+
+"I take it this news has not spread much?" Ling Qi asked.
+
+"I know only because of connections at court. It was presented in a secret missive to the Duchess. She does not wish to spoil the festivities with her response," Diao Hualing replied clinically. "The missive was a demand for surrender. We are to turn over authority over the Ha, destroy the ritual sites known as ”argent vents,” and retreat all forces past a certain line in the mountains under pain of further attacks."
+
+Ling Qi's eyes widened further with each word. Xia Lin blinked and then scowled. That communication was… incredibly insulting. The ya-lith-kai had done damage and hurt countless people, but there was not really any meaningful military damage. She didn't understand how they could think that those words were anything but an open-handed slap to the face, especially following such an attack on mortals.
+
+"I think Baroness Ling understands. The Duchess' response, even considering the plans for the offensive, cannot be less than clear. Such words, let alone such actions, are unacceptable. It is my hope that you may also seek some insights from the Ha into just what their brethren imagine they are doing because the goals of the war have now been expanded."

@@ -1,0 +1,153 @@
+---
+id: c170555b-b4bb-5e01-a2d7-1e9e5c75c282
+page-type-slug: story-chapter-royal-road
+title: "Threads 368-Depths 3"
+slug: 0408-threads-368-depths-3
+partOf: forge-of-destiny
+position: 408
+ownLength: 2272
+unit: words
+publishedAt: 2024-03-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1554851/threads-368-depths-3"
+royalRoadId: "1554851"
+---
+
+The boy was smiling and chattering with the musician again.
+
+Ling Qi cursed quietly. She wasn't certain what that exchange meant.
+
+"This might be a place for old memories to go, but it's definitely an exclusive joint," Sixiang commented. "And if you look carefully, it’s locked down."
+
+They weren't as obvious as out on the streets, but with Sixiang’s prompting, Ling Qi saw them now, burning yellow eyes on patrons and on a server flashing past the door to the kitchen. Xia Anxi's mind was guarded and more aware here.
+
+This was the location of a precious memory to him.
+
+And the scent of rot had been brought here. Was the parasite hidden here somewhere?
+
+"He's definitely agitated out there, but it might be because he's just sitting there while your buddy and her maid sips tea. He’s not being told what's going on."
+
+Understandable. She was uncertain. This place seemed important, but she thought that maybe this place was too far back. If the serpents and the ocean were part of the face he wore, this was a facet of his background he hid, but she didn't see how it could be twisted to provoke an ill-thought-out action.
+
+Indeed, the crate and its bearer had been outright banished, the moment it had been noticed.
+
+There was still a trail here, but she was not certain this rot was what she was seeking. This smell lingered here, winding up from the kitchens to where the colors of the tavern started to blur together.
+
+But there was a trail outside, too. As she split her attention, peering through the tangled streets, she followed it back nearer to the shore. There was a palace there that she had not seen before, lording over the rundown wharfs. Guards marched its perimeter, and banners bore the character for violet on an ocean blue background. And she saw there, a great wagon full of stacked crates going in and out. Sickly sweetness drifted on the wind, the smell of a warm rotting marsh over cold sea spray.
+
+Was she right that this was a dead end in her search, the wrong vault? But if this was what he kept back, it was the most real thing of him, was it not?
+
+"I don't know about that, but weren't you just thinking about lakes and surfaces? What's up top is just as real in its way, maybe even more real depending on how you treat it. Does this guy strike you as one who isn't really invested in his 'face'?" Sixiang wondered.
+
+She needed to decide. If she were wrong, she might be able to double back, but the longer she stayed, the more likely the parasite would destroy itself to avoid capture.
+
+Ling Qi resolutely turned her eyes away from the tavern and the scent of regret. This was not the source. This bitterness was not rooted in Still Waters Deeping but in something closer to home than that. She should have taken the metaphor her senses presented to her, that of spoiled crates entering the city, at face value.
+
+Sensing a gap in the perception of the guardian forms outside, she darted out of the tavern in a flash, passing through the open streets and back into the jungle of shifting, moving alleyways.
+
+The scent was strong at the palace, but she was not sure it was the source of the rot. It could be one of the ships at dock. Xia Anxi was a peer cultivator, and one still resisting the influence of the parasite to an unknown extent. In the metaphor that this place was, of course the parasite was distributing tainted cargo.
+
+"I think those ships bring things in and out,” Sixiang analyzed. “They're the interface, I guess, or the communication method."
+
+Or perhaps the parasite had arrived on one, but it was not on one now. It was nestled somewhere it could “export” its toxin. If she took too long and it was alerted to her search, it could board one of the ships again to escape her.
+
+She cast one last glance at the tavern behind her as it disappeared behind the crowds and twisted buildings. Despite her curiosity, she was glad that she hadn't had to delve any further into what she had seen back there. The thought of someone looking at her own memories of her childhood, unknown to her, put a squirming feeling in her stomach. She did not know how the cheerful, gray-scaled boy had become a haughty violet coral, but she did not need to for this investigation. That was one of those secrets that should only be shared by choice.
+
+“You're doing good so far. Most who try this are less careful,” Sixiang said.
+
+Were they speaking from experience?
+
+“I'm trying to access old me's better. I got the idea from your spooky teacher. I can't hold onto them, but from what I remember, you're doing good. Your identity is holding; nothing leaking into you so far.”
+
+Ling Qi acknowledged Sixiang’s words even as she spun and dove and slipped through the maddening fractal alleys, feeling something like electricity tingling on her skin. The thoroughfares were clear, conscious memories that existed in the light of day. The alleys and crumbling warehouses, these were the subconscious memories, sounds and sights and feelings unmoored from clearly remembered experiences. It would be easy to dissolve here, to become nothing more than another forgotten scrap of sensation.
+
+But she was Ling Qi, and she was—would be—the Thief of Names. She wouldn't lose herself so easily.
+
+She emerged under the shadow of the palace walls, slipping through the slats just under the roof tiles as a shimmer in the air. Inside, she found a courtyard full of thoughtforms playing at being soldiers. They marched to and fro and drilled in a way that made it clear to her that Xia Anxi had not paid much attention to military drills. Most did not bear the sharp yellow eyes of his attention; those were mostly arrayed about and around the walls. However, a few moved with more purpose inside, including one inspecting the wagon which held the crates that smelled of fetid water to her senses.
+
+Perched there between the slats on the wall, she examined the scene. As she watched, the wagon was waved through, and escorted by yellow-eyed guards, the creaking wheels ground forward, slowly wheeling it outward. The moment there was a gap in the guards’ attention, she skipped down, landing without sound among the jostling crates. Her eyes swept over them, searching for any mark or label that might identify them.
+
+She found each crate to be marked by a symbol of a bundle of swamp reeds burned into the wood. This was the way her mind interpreted getting a closer examination of the taint. Feeling the ridges of the symbol under ghostly fingers now, she was sure that she had been right. Still Waters Deeping had a different scent to his work.
+
+The next step then was to infiltrate the palace and find where the manifests of the ships… She wasn't certain that was a leak into her mind. Caravans had manifests; so, too, would trade ships, right?
+
+“Think you're still holding okay, but you probably don't want to stay in too long," Sixiang cautioned.
+
+She shook her head before leaping up from among the crates to land on the upward curved eaves of the first floor of the palace roof. Finding the manifest would give her a clue as to where the parasite had come from and possibly a clue as to who Xia Anxi associated it with in the waking world. It would also tell her the disposition of any cargo being kept in the palace still.
+
+Carefully, she crept along the roof to where a window lay open and crept inside. Padding down the paneled hall, she passed an open door and heard the sound of metal striking flesh and a boy crying out in pain.
+
+She couldn't help paying attention to the room.
+
+She saw a young boy, now much more obviously Xia Anxi, sprawled across the floor of the training hall, an ugly welt blooming across his cheek. He looked to be maybe ten or eleven years old now. A wooden training spear clattered across the floor as it fell from his hands.
+
+"Shameful. Get up. Resume position, and cease your sniveling."
+
+The shade of Xia Anxi's past curled his hands into fists grasping the loose cloth of his training robe. He struggled to his feet, head down, violet hair hanging loose over eyes wet with tears.
+
+"Boy, control yourself. A Bai does not show their hate until they are ready to strike. You are far from that. Your peers will tear you apart, or worse, your masters will take insult, if you wear your heart so openly."
+
+She could only see the grown man's back. The man wore flowing silk pants, a loose,ruffled tunic not unlike what Xia Anxi wore in the present, and dark violet hair pulled back into a topknot. He felt like an unsheathed blade, dripping venom.
+
+"Yes, 'father.'" The shade of Xia Anxi did not hide it well.
+
+"Hmph. Dry your face before we resume. If I catch tears from you again, there will be additional resistance training."
+
+"You are generous, father."
+
+"I am."
+
+Ling Qi continued moving, leaving the shades behind. She had been aware, for some time, that the ill repute of her best friend’s clan was not unearned. But it was different, seeing some part of it.
+
+It put the lessons of the Starless Night’s Reflection art in context. Whatever hate and bitterness that memory brought to Xia Anxi, there was a solid, immovable certainty that the man he had called father was correct. These walls were built from grudging gratitude for lessons well taught as much as bitterness for having been taught them.
+
+Even if she knew it was false, and she had seen Meizhen have emotional outbursts before, on a cultural level, the appearance of being untouched, of standing above and astride the world, invulnerable to its slings and arrows, was probably the core identity of the Bai clan. No wonder this art was so steeped in stillness and imperturbability.
+
+Nothing flung into Lake Hei could scar its surface, but that did not mean it was never there. It certainly did not mean it was gone. Xia Anxi showed that well enough here, the difference between the surface and the depths.
+
+She stole through the hall, searching, and found her way down, down the stairs to the ground floor following the scent of memory, rendered as that of aging paper and leather. There, she found the palace records room.
+
+Again, she saw Xia Anxi, seemingly fully grown. A pair of spectacles was perched low on his nose, and a clerk’s cap on his head, as he bent over a desk, scribbling sums and markings down. Surrounding him were shelves upon shelves and reams upon reams of records and paper, comically bulging from the nooks in the shelving.
+
+Ah. Cultivators of higher realms retained so much more information, so many more memories, did they not?
+
+Xia Anxi's attention permeated this room thoroughly; there would be no sneaking in to inspect the papers at length.
+
+She could feel the first twinges of a headache coming on, a sign that she was beginning to strain herself. She might have to try something a little reckless here.
+
+"Ling Qi…"
+
+How long had it been, Sixiang?
+
+"... You're going on fifteen minutes. He's definitely getting antsy."
+
+In her route through the palace, she had seen that it was filled with thoughtforms. Guards patrolled the hallways. Servants scurried about. Clerks worked feverishly in offices.
+
+Had she really not done this since her very first trial? Moons be with her, she hoped she was not rusty. At least she only had to fool a fraction of Xia Anxi's consciousness.
+
+Ling Qi rematerialized, wrapped in the garb of a palace clerk, with barely a true face at all, just another figment of thought. Entering the records room with her shoulders hunched and her head meekly down, she was the very picture of a soft spoken subordinate.
+
+"Sir…" she began tentatively, even as she expanded her senses, scanning documents, testing the air, and searching for any sign of the parasite.
+
+"What requires my attention?" the scribe Anxi asked, barely glancing at her.
+
+"It is the matter of the—please excuse my forgetfulness—the five reed company? More of their cargo has returned, rejected."
+
+This was a gamble, but her time was beginning to run low.
+
+He glanced up, scaled brow crinkling. "The Meng's shipments again?"
+
+Ling Qi felt her heart sink. It was good to receive some confirmation, but… Surely, the Meng, even their most rebellious faction, would not so openly act against the duchess. The fate of the Chu had been a blatant warning.
+
+"Yes, sir. We have been asked to reinspect the shipment here. Which storeroom has it in holding?"
+
+"The basement holdings, storeroom A-4," the frazzled scribe-form muttered in response. "Why must everyone always seek a way under my skin?! I should…"
+
+Ling Qi found the mark on a sheet stuffed away at the same time. Dated to last week. Delivered by…
+
+The scribe-form looked up, and his eyes sharpened. "Who are you? Name and rank, clerk."
+
+She cursed under her breath and dissolved into smoke, flowing under the floorboards and down into the cool, damp earth.
+
+"He just jerked in his seat, sat up real straight! You want to hurry the heck up, I think!"
+
+She’d figured that much!

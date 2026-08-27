@@ -1,0 +1,127 @@
+---
+id: 2e2e359f-ac05-5c12-8006-42cd5bcc1b66
+page-type-slug: story-chapter-royal-road
+title: "37 - The Empress of the Night"
+slug: 0037-37-the-empress-of-the-night
+partOf: gamer-girl-evolution
+position: 37
+ownLength: 1558
+unit: words
+ownProgress: 1558
+publishedAt: 2025-12-04
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2818574/37-the-empress-of-the-night"
+royalRoadId: "2818574"
+markedReadAt: "2026-06-29T20:06:46.003Z"
+---
+
+Celica’s eyes hovered over the weapon description as she stretched, a slight yawn escaping her lips. She’d had an intense first day, consisting of clearing the main quest, doing a sub-quest for a blacksmith at Blade Village and saving Milia's friends by defeating the Cyclops.
+
+Then she’d given Ingrid a tour of Marshia, taught her some game mechanics and carried her through the main quest. Not only that, she’d went on to face armies of monsters and a mutant boss in an intense battlefield solo.
+
+Then, by some twist of fate, that boss had cursed her to a special dungeon where she had to fight more monsters, only to finally end up in a boss rush stage. She’d been through a lot all on the first day, and whether she realised it or not, she was getting fatigued.
+
+Still, her eyes remained clear and focused despite the slight tiredness creeping in. She was used to playing for extended periods of time after all.
+
+“Wind, Ice and Water...” she placed her left hand on her chin, the right brandishing the weapon like it was a cat. In her mind she was already theorising about what sort of items, skills and attack patterns she’d prioritise obtaining given the changes to the weapon.
+
+The movement speed is what’s really strong at this second ability. Not only does it mean I can travel even faster with my vectoring, but it also means material and coin grinding will be even quicker. I can travel from the fields to shops much quicker like this.
+
+Plus, with the added attack speed too, I can really nuke bosses. With a weapon like this, all of the main quests clear times will all be practically unbeatable.
+
+Her hand moved, and [WindSong] was toggled on. Suddenly, Celica began waltzing around the arena. Her movements were fast and sharp, perfectly embodying what it meant to be the wind itself.
+
+If any players had been watching, they would have thought a wind fairy had descended onto the arena, and was performing a dance for some sort of special event. In actuality, it was just Celica, whose movements had been blessed by the wind fairies.
+
+“Not bad...” she said to herself with a satisfied smile. “With this I can shave off a couple seconds for floor 3’s main quest.”
+
+She paused, looking around the arena. “The final boss, huh?” she sighed slightly disappointedly. It is only floor 2, so to give out weapons of too high a rank this early didn’t make sense.
+
+It wasn’t like they were going to give new players the opportunity to obtain a Mythic weapon. Still, she couldn’t help but be slightly disappointed.
+
+Then, her face suddenly lit up. If I clear the stage with a lot of time remaining, doesn’t that mean I’ll get--
+
+Boom!
+
+A huge explosion shook the arena, starting directly in the centre of the arena where Celica was stood. She hadn’t reacted in time and was instantly, flung several meters away.
+
+She looked at her HP bar which was surprisingly... full?
+
+Around Celica, the arena transformed. The rocky floor was replaced by an auspicious red carpet and the torches replaced by fine lamps. Pillars of alabaster stone jutted out from the floor one by one, adorning the arena beautifully.
+
+The ceiling loomed dark and before Celica rose a flight of stairs. Crimson steps rose one after the other. Celica watched as the top of the flight of stars formed a platform, with a single yet long, imperial throne waiting atop it.
+
+Two blue flames hung suspended in the air around the throne coldly, like guards looking down on Celica. Suddenly, the golden, crimson throne grew dark, like a shadow had consumed it.
+
+A figure, cloaked in the veil of night sat on the throne from above Celica. Her hair was a smooth white which complimented her eyes but contrasted her dark skin. She sat crossed legged, her deep azure eyes bearing down at Celica as if she asserting that she was unworthy to even be in her presence.
+
+[The Tenth Boss: The Empress of the Night, has spawned.]
+
+[ {Royal} The Empress of the Night (Final Boss) – Lv. 90]
+
+A soft sigh escaped Celica’s lips as she casually brandished her sword, as if nothing of importance had just happened. “This is why I hate you royal bosses. Always have to make some flashy, grand entrance. Only to get...”
+
+Celica’s eyes lifted to meet the Empress’ gaze. She looked at the creature with just as much disdain as it had showed her, before finishing her sentence. “Completely trounced anyways.”
+
+The dark elf’s eyebrows twitched slightly, as if it had perfectly understood what Celica had just said. In an instant, the elf raised her left hand casually. Suddenly, the two blue flames around her multiplied, forming a barrage of fearful flames which shot directly towards Celica.
+
+[Time Remaining: 16 minutes 20 seconds]
+
+Celica sprang into action, rushing towards the top of the throne.
+
+Crash!
+
+Several of the flames burst at Celica’s previous position, but she was already gone. She moved at ridiculous speeds like a wind spirit, flying through the throne room. She vectored around each flame spell, dancing around them with practiced ease as she closed the distance between them.
+
+Seeing her dangerously quick advanced, the empress raised her right hand.
+
+As if a sixth sense had activated, Celica paused her advance. She looked around, knowing something was off, stopping just shy of the flight of stairs. Suddenly, spears of darkness penetrated the ground beneath the flights of stairs.
+
+If she had been on that flight of stairs, her fate would’ve been sealed. An attack from a level 90, royal boss was nothing to scoff at. Celica was 100% sure that getting hit by any of her attacks would result in immediate death.
+
+Any players watching would’ve been convinced she really had a sixth sense, and that’s because, she did. Game sense. Celica had fine-tuned her mechanics and intuition, to a point where she could accurately predict the type and nature of attacks and skills from her intuition alone.
+
+From the throne, the dark elf empress looked down, a slight amused smile tugging at her lips. She was enjoying the little play the human was performing for her.
+
+Once the spears of darkness disappeared, Celica moved to close the gap once more. She vectored precisely, analysing where the spears of darkness shot up from.
+
+As Celica predicted, the spears of darkness shot out once again as soon as she reached the stars, but this time she was ready.
+
+[Water Strike]
+
+The first layer appeared in front of the stairs like a barrier. A wave of water rushed out from Celica’s blade, slicing straight through the pillars of darkness completely, and opening a path for her to advanced.
+
+Good, hitting the pillars refreshes my crit cd.
+
+Just as she passed the first hurdle, more pillars and spears of darkness pierced through the ground in front and below Celica. She weaved, noticing that they had a slight start-up animation which showed where the spears would be.
+
+Abusing this, she flew around the obstacles, weaving elegantly around the darkness like it wasn’t even there at all.
+
+The Empress’ eyes shone and her smirk faded slightly. It wasn’t as amusing for her when her attacks weren't working.
+
+Soon, Celica closed the gap, her sword, Ocean’s Call, slicing straight towards the Empress who was still sat nonchalantly. Celica frowned. Just as her sword approached, a capsule of wind covered the boss.
+
+The Empress watched nonchalantly, her head resting on her fist away from Celica as if she hadn’t noticed her. Celica’s eyebrows twitched slightly, but she stayed calm, layering her attacks one after the other on the wind barrier.
+
+She executed her animation cancel combo, and on the final attack (to the boss’ surprise), the wind shield broke. For the first time in the whole fight, and only for a split second, the Empress lost her composure, her eyes widening.
+
+The recoil of the capsule breaking sent Celica flying backwards, but it was merely cc, and not a damaging attack.
+
+By the looks of it, that shield should have a pretty long cd considering how sturdy it was. Not only that, but from how unsettled the boss was, its definitely not got many other defence mechanisms like that. Now if I attack it should be...
+
+A slight smile tugged at Celica’s lips as the Empress turned slightly serious. Then, she suddenly paused, like she remembered something crucial. Then she regained her playful, larger than life aura. She re-folded her legs and tapped on her throne lightly.
+
+As if on cue, several shadowy figures rose from around the arena one by one. Dark skinned elves with white hair surrounded Celica, their bows tense as they aimed directly at Celica.
+
+[ {Elite} Dark-Elf Archer – Lv. 88]
+
+[ {Elite} Dark-Elf Archer – Lv. 87]
+
+[ {Elite} Dark-Elf Warrior – Lv. 90]
+
+[ {Elite} Dark-Elf Warrior – Lv. 89]
+
+The Empress watched on amused, like she was watching a surprisingly good movie.
+
+[The boss has entered an untargetable state. You must defeat her minions before you can deal damage to her.]
+
+“Fine by me.” Celica sniggered, raising her sword and charging straight towards the summoned enemies. “That stupid arrogant look. I’m gonna enjoy wiping that off your smug face!”

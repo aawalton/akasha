@@ -1,0 +1,131 @@
+---
+id: 1996cb0b-4b95-5d68-b8ec-e7022c77b39f
+page-type-slug: story-chapter-royal-road
+title: "Threads 469-Revelry 3"
+slug: 0514-threads-469-revelry-3
+partOf: forge-of-destiny
+position: 514
+ownLength: 2062
+unit: words
+publishedAt: 2025-08-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2537517/threads-469-revelry-3"
+royalRoadId: "2537517"
+---
+
+"I am surprised you take so well to being in the light."
+
+Shu Yue's head tilted, their ear nearly touching their shoulder as they looked down at her. It earned barely a glance as they wandered down a branch boulevard lined with impromptu stalls, hawking festival goods of all kinds. Her eyes wandered across the crowd. They were not unnoticed. Although she did see passersby giving her mentor enough of a berth that they were not brushed and jostled like she was,  it was much less than her expectations.
+
+"Here, I am known," Shu Yue said simply. There was a wistful wonder in their voice, as they stretched out a long arm and dropped a few glittering stones on a stall counter, plucking a basket full of steaming jam-filled buns.
+
+Ling Qi took one when Shu Yue offered it, inhaling the scent of spice, the fruit jam, and the dough, along with the streamers of light airy qi infused into it. It was no pill or elixir, but potent nonetheless.
+
+Shu Yue's jaw stretched strangely as they tossed a bun into their mouth. They did not chew.
+
+"Do you actually taste what you eat?" Ling Qi asked.
+
+"I bet they do." Sixiang squinted down at their own bun before taking a cautious nibble. "Just they use different mechanics, eh?”
+
+"Mortal foods have little flavor, but this, I enjoy well enough. It is as the muse says," Shu Yue answered.
+
+Ling Qi took a bite of her own bun. Her eyes widened as the sweet jam released a burst of sweet qi over her tongue. Combined with the airy qi in the dough, it left her with a pleasant buzz on her tongue as she savored chewing it. She hadn't felt her mouth water so since the first days of the sect, with its unlimited access to a bounty she couldn't have dreamed of in Tonghou.
+
+When did she decide she couldn't be bothered with eating anymore? She couldn't even remember.
+
+"Want is never static. When we are fulfilled, we only turn to yearning for what else we do not have. Old wants fade into the background," Shu Yue said. "In this, there is the bottomless hunger of those who are naught, but darkness is not wrong."
+
+"Contentment can be fleeting, but to have so little of it… No, those things are incomplete existences. Without the ability to hold anything…"
+
+"A vessel which leaks away all its contents is a useless one. Any potter would be ashamed to sculpt such a piece," Shu Yue finished.
+
+Ling Qi ducked her head and took another bite, allowing the moment to pass in silence. "I did not mean to insult."
+
+"I took none. The nameless wraith is not Shu Yue, or rather, not all of them. Shu Yue lives here, the mind atop the seething thing beneath." They tapped their chin. "But this is not unique, save in its artificiality. You understand?"
+
+Humans were not only their consciousness. Instinct, drive, Want, it all bubbled up from beneath the thoughts and feelings at the fore. They were the dark soil and roots from which the lotus bloomed.
+
+"Hah, yeah. That’s the same stuff we muses are made of. It’s no wonder most of us flit around for a while and then explode like a firework when whatever got enough bits together to make a go at being a person goes away. Moons, I gotta hand it to ya, going 'maskless' is a heck of a lot easier!"
+
+Ling Qi shot her friend an unamused look.
+
+"A face has its benefits," Shu Yue rasped. "You cling to yours tightly, muse."
+
+"I do, yeah." Sixiang glanced toward Ling Qi with a winning smile.
+
+She brushed the crumbs of dough off of her fingers as they entered another square where the paths to other branches converged. This one was far less raucous than the last she’d seen. Rather than a strange device dispensing potent alcohol, there was a great bonfire in the center, burning with some kind of smokeless flame that cycled between the shades of visible color. There were only a thin few motes of fire qi in the whole display, most of it arising from earth qi. How strange. It did appear to be burning some sort of rock for fuel though, so that made sense.
+
+People were making merry around it, as they would any other bonfire. Men and women in fine robes clapped and danced just the same as rustic mortals would at a mundane festival.
+
+"I suspect we aren't here to dance," Ling Qi surmised.
+
+"I would be entertained, but known or not, I would only cast a pall," Shu Yue said amusedly. "You are correct. I will leave you to enjoy the material when the lesson is done. Come. Our venue is this way."
+
+Ling Qi followed them curiously as they skirted the edge of the crowd, parting them with little effort, until she saw ahead a spot of darkness in the bright festival lights. It was a a concert hall, dark and empty inside, and even she could not feel so much as an echo of song from within it.
+
+"I am surprised a building could remain empty for so long here in the cloud district. What was it?"
+
+"The concert hall of one of the apprentices of Grandmaster Jiang," Shu Yue answered as they stepped from the street onto the tiled path which led to the shadowed doors. The sounds of the street, so bright and loud a moment ago, became muted only a few steps down that path.
+
+Ling Qi regarded it curiously. Despite the dust, the cobwebs clinging to the eaves and faded, and the peeling walls, she did not believe this place was abandoned.
+
+"What kinda sticky end did he come to?" Sixiang asked.
+
+"His father was the vice minister of the Ministry of Law. The Hui liaison to the ministry ordered that his father carry out the execution order personally. The son submitted himself to his father's blade when he heard his master had already fallen." Shu Yue’s fingers brushed the heavy wooden doors, and they creaked open, loud and slow.
+
+Ling Qi closed her eyes as the cold interior air washed over them, musty and thick with grief and melancholy. "This is your house then, teacher?"
+
+Shu Yue's lips curled up, almost to their ears. "Yes. One could say this. I would call it a… studio. I have little need for what most do with a house."
+
+"So you've preserved it in this state for a reason." Ling Qi looked into the yawning entry hall. There were shadows within that her eyes could not penetrate, and she could feel the subtle warping of space, the signs of a place half immersed in the liminal.
+
+"The unquiet spirits have been exorcized, but I find the ambience useful to my meditations," Shu Yue agreed. They ducked low, their spine crackling like breaking ice as they stepped inside and half turned, beckoning her with a pale hand. "It is a thin place, as you can feel."
+
+"You got that right." Sixiang steppedin ahead of her and peered around. They waved their hand through the air, and it rippled like a silk curtain that had been disturbed.
+
+Ling Qi followed after, feeling the atmosphere of the place on her skin like a cold wind as the door drifted shut behind them, closing off all light. "And this is where you feel comfortable giving the lighter lesson?"
+
+"Indeed."
+
+Shu Yue said no more than that, leaving them to follow down the hall through the ripples of stretched space.
+
+"What is the foundation of Want?"
+
+Ling Qi paused behind Shu Yue as they came to a larger set of internal doors. They were ornate, painted with a peeling red color. The door frame was lovingly carved into a wreath of flowers and vines, although all of it was dull with dust. The dust stayed in  place as the portal creaked open with agonizing slowness before her mentor's silhouette.
+
+"Hunger. The foundation of Want is hunger, the base needs of the body," Ling Qi replied. "In the absence of food, of drink, of warmth, of company, all other desires fade."
+
+"Oh? Such a prosaic answer," Shu Yue said neutrally as they passed into the ill lit hall beyond.
+
+Even with her senses, it was hard to perceive the full details of the hallway, but Ling Qi could feel the capacity of it, the high ceiling, the distant walls, the thick but faded carpet, and the grooves in the floor where seating benches had once been fixed.
+
+"Anyone who has another one should cease regulating their digestion with qi and go without repast until their limbs are weak and their head spins. They should fast until their stomach feels like a desperate animal howling for release, and the idea of digging through a trash heap for a scrap of sustenance is no longer repulsive."
+
+She spoke lightly, but those memories would never leave her. She had bound them up in her domain blade, so that she would never forget isolation and privation, Her roots would never become something distant and dreamed of.
+
+"Good. You have your answer, and the will to defend it," Shu Yue praised. There was a whisper and rustle of cloth as they turned to face her. In the shadows of the hall, their round face and long hands were almost luminous, points of light in the dark. "My answer is this: the foundation of Want is the avoidance of pain, and retribution for what cannot be avoided."
+
+Ling Qi pondered this. She could see the reflection of her own answer in this, but it was not quite the same.
+
+"Moons, both of ya'll are gloomy. Can't you just say Want is the desire for better things?" Sixiang asked. The muse wandered away from her, their own frame a faint glow in the hall.
+
+"That comes later."
+
+Both she and Shu Yue spoke at the same time, her voice overlapping the elder cultivator's raspy whisper. Sixiang gave a sigh of performative disgust, throwing up their hands helplessly.
+
+Ling Qi chuckled. "It is the pain of lacking that drives hunger. But retribution? It can drive you strongly, but it seems absurd to call such a luxury foundational."
+
+She recalled her friend Bai Meizhen and the girl’s frustration with her lacking drive to punish Yan Renshu, at least in comparison to Meizhen’s drive. It was all well and good to pay back grudges, but that was the privilege of the strong. The foundation of Want lay in weakness.
+
+"Because what harmed you most was negligence and apathy. Malice was only ever a fleeting impression, a raised fist and a shout from a face who would forget you in a matter of hours," Shu Yue said clinically. "Thus, your answer."
+
+Ling Qi looked up into Shu Yue's blank face.
+
+"When you are scoured by malice, when it is not the cold world blurring by which harms you, and when privation and suffering have a face, that is where my answer grows." Shu Yue's rasp echoed deeply, and the building groaned in response. Something sloshed beneath the floorboards, and the scent of copper and the bitter scent of terror sweat reached her nose. "Then. Then, you may know what it is to Want retribution, even if it should starve you, even should it hollow you out and take every meager scrap within. All of that if only the one who hurts you could be made to stop and suffer."
+
+Sounds of children laughing and sobbing mingled together too much to tell which was which.
+
+"Spite and resentment are intrinsic to the hearts of men. Though you may be on the path to carving them away, I would not suggest it. You will not know the hearts of others without them," Shu Yue advised. The skin crawling sounds of children receded back into the depths of the theater. “You should know how much one may harm themselves to fulfill a grudge."
+
+"Yan Renshu is the strange one though," Ling Qi muttered rebelliously. "Others…"
+
+Shu Yue chided. "He is not as strange as you think. It was not merely the casting off of shackles for which the cultivators of Xiangmen roar their joy. It was the fulfillment of their deepest yearning to see the webs of heaven burn."

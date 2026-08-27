@@ -1,0 +1,127 @@
+---
+id: 4fdf3b7f-9681-5bcb-ba01-448d9878b9c7
+page-type-slug: story-chapter-royal-road
+title: "Threads 428-Shenglu 7"
+slug: 0472-threads-428-shenglu-7
+partOf: forge-of-destiny
+position: 472
+ownLength: 1754
+unit: words
+publishedAt: 2025-02-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2060116/threads-428-shenglu-7"
+royalRoadId: "2060116"
+---
+
+"I suspect time for lessons will be limited until the offensive ends,” Meng Duyi mused. “Is it known whom I will teach?"
+
+Ling Qi bowed her head. "My little brother. I ask you to include Cai Renxiang as well. She wishes to learn to ensure that she can understand the infrastructure needs of her more traditional subjects in order to properly administer the settlement."
+
+Meng Duyi stroked his beard. He looked at her, and Ling Qi straightened up as the weight of his gaze grew much heavier. The full attention of a greater cultivator could not be ignored. "She did not order you to say that."
+
+"She indicated interest, but she did not."
+
+"Acceptable. And interesting."
+
+"Ah, Zhengui has a request for Mister Harmony, too! Our scholar-friend, Mister Crinkled Pages, would be good to teach! He is good at helping Zhengui with small and fragile things, and Zhengui wishes to do something nice for him! His human name is, um… Fen Xiang. Is this okay with Big Sister?"
+
+She tilted her head. In truth, she did not have a strong idea of what other students to bring on, so she hardly minded. "If Sir Meng would not be opposed to lower realm students…?"
+
+"What I aim to teach here does not require any great might, though weight of spirit may make the lessons more effective. This is your boon, Lady Ling. Spread it among your household, kin, and fellows as you wish."
+
+Assuming she didn't request him to directly teach a member of another comital clan, she supposed nothing taught by the geomancer would be a truly dire secret of the Meng clan. Perhaps Mother would…? Well, she’d need to speak with her first.
+
+"That gives us three students so far. For now, Sir Meng, let us go to the shore. The reason we requested your presence now is because we are embarking on a major project, the establishment of rites and a temple to the spirit of the lake. I have studied methods and spoken to the spirit previously, but I would like expert advice when proceeding with our project."
+
+"Sensible. Let us walk along the lake's edge, so that I may get a better feel for the nature of these waters."
+
+They crossed the main road and strolled down the grassy slope toward the yet undeveloped section of the lakeside. Meng Duyi did not not hesitate to let his feet squish into the dark mud on the shore, to push through the rushes that grew there, and to let the waters lap over his ankles. She followed him, though her steps were lighter, leaving the mud untouched and the water rippling gently under the soles of her boots. Zhengui remained behind them, respectfully… or bashfully? Either way, the mud steamed under his tread, and he did not follow them further onto the lapping waters.
+
+Meng Duyi only stopped when he was knee deep in the waters, planting his sapling-like stick in the mud. He closed his eyes, and breathed deeply. The lake’s qi responded. Moisture in the air was taken in with his breath, cycled through his meridians, and then exhaled, dense with his own qi, a gift freely given to the lake and a greeting all in one. She felt the water ripple in contentment.
+
+"Fortune favors you to find such a calm and kind lake in these harsh lands," the geomancer said. "Even the spring melt is but a lapping ripple to this one in these lands where the ice never vanishes fully."
+
+"I have been most honored that she has accepted us so kindly on these shores and raised bounty from the depths for our benefit," Ling Qi acknowledged. "And so, I want to ensure that she is properly honored in turn."
+
+"Your sincerity is felt." Meng Duyi reopened his eyes. "I have the shape of this spirit in my mind now. She is content as things are, but there are many acts a settlement could do to change that. This purity and kindness could easily grow tainted. You said you were laying the plans for rituals? A temple?"
+
+"Yep!" Gui chirped from the shore.
+
+"It will be as resplendent as Lady Snowblossom herself," Zhen insisted.
+
+Meng Duyi chuckled. "A harsh bar you set yourself, young master. Come, Miss Ling. There are others who will need to be involved in these talks as well, no?"
+
+"Yes," Ling Qi agreed. "And I may as well show you to the quarters we have prepared for your arrival. This way, Master Meng."
+
+***
+
+"This is not a bad choice, but this”--Meng Duyi tapped his finger against a different blueprint rolled out on the large planning table in the middle of the meeting room—“would be alienating to the spirit."
+
+"I see." Cai Renxiang stood with her arms folded behind her back, leaning forward slightly to observe. "What difference brings about the trouble?"
+
+"If I may?" Gan Guangli questioned. The table creaked with the weight of his frame as he loomed over the drawings, palms pressed to the tabletop. "It is the length and intricacy of the canals in the second that is a problem, is it not?"
+
+"Just so, young baron," the elder geomancer praised. "The pattern woven around the temple structure is pleasing. For a god of wells and reservoirs, it would be excellent. However, while your lake is currently serving those roles…"
+
+"It is not the core of the spirit's identity," Ling Qi finished. "The lake is the lake. Perhaps in time, a child spirit or two of wells and canals might form."
+
+"And so, the designs which place the temple on the dockside itself are best. It should either be open to the lake or have a direct path to an inner pool which can serve for communion," Meng Duyi instructed.
+
+Cai Renxiang nodded. "Very well. The efficiency of the second design in integrating the center's clean water supply appealed, but it is not efficient to force your patterns where they do not work."
+
+Meng Duyi gave the Cai scion a sharp, considering look in the wake of her statement.
+
+Gan Guangli pointed to a third design. "Ah, and what of this option?"
+
+Ling Qi leaned forward. "Oh! I did like that idea."
+
+In her arms, Zhengui, shrunk to the size of a large cat, bobbed his head. "Yes, Gui thinks the boat idea is very cool!"
+
+In it, the temple would be an enclosed dock with limited facilities. In its center would be the shrine proper, a large boat which could be sailed out into the center of the lake for communion.
+
+Meng Duyi's qi rippled slightly, a frisson of sensation across her skin. He was mildly discontent, but not truly disapproving.
+
+"The Bai style is not ineffective," he admitted grudgingly. "I cannot say that we Meng do not use some variations of it in the larger pools and waterways, though we do so by pole barge rather than row or sail. It does, however, require a certain bravery from your priests—some might call it arrogance—to go fully into the center of the lake's power. Should it ever be discontent, it is risky, too."
+
+"Also, our shipbuilding capacity and experience is currently limited. If we chose this design, the first shrine boat we construct would inevitably be somewhat shabby," Cai Renxiang pointed out.
+
+Gan Guangli sighed. "That is a problem."
+
+"Before any such choice is made, there is another you must first make," Meng Duyi said firmly. "I must know what role you intend to nurture the spirit of Snowblossom lake into in order to give proper advice."
+
+"Well… I think she would be the tutelary god of our settlement, Shenglu, wouldn't she?" Ling Qi asked. "Together with Zhengui, the two of them would be the center of the local spirit court, the focus around which our rites revolve."
+
+Zhen hissed, squirming in her grasp. What was agitating him so? Meanwhile, Gui let out an uncharacteristic mocking snort toward his other half.
+
+"A fine choice, but one with side effects. In this focus, the lake itself will grow ever more distinct from the river which she is fed by, the watercourse which runs across the breadth of your land," the geomancer cautioned. "Thus, you will divide the upper and lower river, and you will likely need rites to propitiate both separately."
+
+"Then, a method which treats the whole of the watercourse as one great entity might be better for the stability of transport and movement across the fief," Cai Renxiang said. "Is this possible?"
+
+"The river, neither upper nor lower, has not developed a separate sense of self. So it is. However, there would be a cost to this proposed focus as well. If Snowblossom were to be a central god of Shenglu itself, Lake Snowblossom would grant Shenglu, your city on its shore, many benefits and blessings, assuming devotion and right action remain in good stead. The other method's more impersonal and larger spirit would not be so sensitive to human behavior."
+
+"Relatively speaking," Ling Qi said.
+
+"Relatively," Meng Duyi agreed.
+
+"There would probably be further benefits to river trade, milling, and other activities along the water’s course," Cai Renxiang mused. "In either direction, it is a harsh trade off. I assume it would be ill advised to try and snatch both peaches in this case."
+
+"No good comes from dithering with in-betweens when deciding on matters of this import."
+
+"I, Zhen, think Lady Snowblossom would be best on her own as the guardian of the shores," the snake half said with great dignity.
+
+"Gui thinks either is fine, but letting her sprawl out and get wide is good, too!" This earned his other half a poisonous glare.
+
+Ling Qi pondered her little brother’s behavior before her eyes widened. Oh, what she had suggested… That was… Oh. Spirits! Her little brother was much too young!
+
+No, wait, he wasn't human, and treating him like one was inappropriate… Ugh, she was not equipped to think of these things.
+
+Comfort. No sad! Brother big. Good. Lake big. Good.
+
+At least her dress was warm. And very simple.
+
+No tying self up. Bad sister.
+
+Maybe her dress was getting more articulate already.
+
+Meng Duyi regarded her with a creased brow, a mixture of confusion and befuddled amusement on his face. She let out a huff, turning her eyes to the others. Gan Guangli was oblivious. Cai Rrenxiang merely raised a brow.
+
+Ling Qi put any implications of her little brother’s love life out of her mind. "We should decide our purpose."

@@ -1,0 +1,137 @@
+---
+id: 3736b267-e50d-5ac0-8cd3-bc9266c57eb8
+page-type-slug: story-chapter-royal-road
+title: "Threads 376-Finishing 4"
+slug: 0416-threads-376-finishing-4
+partOf: forge-of-destiny
+position: 416
+ownLength: 2056
+unit: words
+publishedAt: 2024-04-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1601697/threads-376-finishing-4"
+royalRoadId: "1601697"
+---
+
+"This has tugged at my thoughts as well. There is something odd about your bound spirit," Luo Jie said.
+
+Meng Deming disagreed. "Mentorship from the avatars of the world is a venerable practice, for all that it is often ignored these days. It gives this one hope for these sects that they do not crush it from their students."
+
+"The Argent Peak Sect is very good at getting its disciples into the correct sort of trouble," Gan Guangli agreed.
+
+"Enough," Cai Renxiang said evenly. "Ling Qi, this is your clan business. You are not required to explain your secrets."
+
+She would, though. They had already discussed that, but framing her doing so in this way earned some approval among their side.
+
+"Thank you, Lady Cai, but my junior sister—and she is that—as the trueborn daughter of the ice spirit Zeqing, who I acknowledged as my teacher and master," Ling Qi said, laying her hands on Hanyi's shoulders, "is willing to explain how she came to be."
+
+"Yeah, that's right! Elder sister was my mother's first and only disciple, so of course she trusted her with me!" Hanyi turned up her chin, looking and sounding for all purposes like a prim young miss, if one ignored her blank white eyes and corpse-like pallor.
+
+The more imperially-inclined courtiers on her own side gave her some circumspect looks here, but Ling Qi did not acknowledge them. On this point, she would not show any shame or contrition. She was proud of her mentor and the trials she had undergone in learning from her.
+
+It was Zeqing who had taught her the true depths of avarice and desire. It was Zeqing who had shown her the truth of restraint, that no matter how deeply she wanted, in the end, she still had a choice. What else could she call a fourth realm fighting her own nature to the death and allowing Ling Qi's meager self to make off with her greatest treasure, Hanyi?
+
+"Junior sister, please tell your story," Ling Qi said.
+
+"A long time ago, when the mountains were still deep in the ice, my mother lived on the peak of the White Cloud Mountain…"
+
+LingQi observed the table as her sister spoke. Many on her own side were disinterested at first. There were thoughts in many heads of why this subject was being brought up now and why it was being spoken of here. There were, however, those who were listening, including Meng Dan, Luo Jie, and more than a few of the priests. Meng Deming, she noted, looked distracted, his gaze flicking toward the windows. She did not see anything through the glass or sense anything amiss, but his actions did put her on edge.
+
+The White Sky side of the table was listening intently. She had no doubt that they were all aware of the impossibility Hanyi claimed to be, the daughter of a spirit of ice and a death and endings like their own patrons. A creature like that should never have been able to make new life.
+
+"A man from the foot of the mountain climbed it to seek her out. He was brave and charming and very warm…"
+
+Ling Qi dipped her head. This wasn’t a happy story. They'd determined through discussion that the man who became Hanyi's father had probably lived somewhere between the rise of the empire and the time of the Xi dukes, probably a cultivator of the hill tribes or the Sibiar clan. That was about when histories recorded the last glaciers retreating.
+
+The Celestial Empire had no monopoly on arrogance, pride, and desire.
+
+Cao Chun's expression darkened as Hanyi explained what the man did, what he intended, and the ultimate result. He scoffed under his breath. She could almost read the line of his thoughts. That was the result of consorting so deeply with spirits. Well, she didn't read any sympathy toward the man there at least.
+
+She didn't miss the distasteful looks thrown toward her and Hanyi by the priests and clerks though. Hanyi was on the edge of the taboo. If she had been born properly, not locked away and frozen for countless centuries in her mother's soul, Hanyi would have been a spirit-blooded human.
+
+It was their guests that had the stronger reaction, as was becoming the usual for today’s negotiations. Inzha looked at Hanyi with even greater fascination. Jaromila's expression had slowly twisted into a scowl. Blood beaded at the corner of Dzintara's lips, and Ling Qi could hear the high whine of iron grinding across iron, muffled by the woman's gathered qi.
+
+"Such is the way of men who do not discipline themselves, seeking to plunder and take even of the most sacred," muttered a matronly woman. She wore a wreath of leaves and berries on her brow.
+
+"Foolish, bringing about only his own demise," agreed another priest, the man with the mask of leaves and the scent of spring. "Such is the Stormbringer’s want."
+
+"It saddens me that the method is one so distasteful," Inzha said.
+
+Hanyi huffed. "You're all looking at it wrong. Momma ate him because he turned out to be a greedy jerk. It would have been fine if he'd just been happy with her and me like he said." Ling Qi heard the twinge of bitter frustration and sadness in her sister’s voice, and she squeezed her sister’s shoulders.
+
+"It was a profane act to begin with," someone murmured, but Ling Qi couldn’t catch who, too quiet and muffled among the other sounds.
+
+"The courting itself is not objectionable,” Jaromila said. “To project such purity of intent as to change a frost maiden's way… This man must have been a truly masterful liar."
+
+She saw some of the older cultivators among the imperial delegation murmur, and their expressions twisted in their own remembrance. The Emerald Seas had not lacked for those.
+
+"Disgusting,” Dzintara said tightly, “but the child is never at fault for such outcomes. So, we know now.  Shall those discussions be laid to rest?"
+
+"Yes. It is both a far simpler and far more complex matter than I had imagined," Jaromila said.
+
+"I would still like to raise the matter of the young maiden herself. A request to foster her in our lands for a time was already rebuffed, so I will not ask again," Inzha said. "Nonetheless, I think there are many who would wish to speak with your junior sister, Emissary Ling Qi. Would it be possible for her to be available later?"
+
+Ling Qi frowned, but it was Hanyi who answered.
+
+"I could totally make this stop a part of my route," Hanyi said haughtily. "Maybe I could stop here in the summer when the villages don't need me?"
+
+She looked up at Ling Qi for approval.
+
+… Of course. She wasn't the only one who could make decisions.
+
+"Excuse me. This is fascinating, but it seems to me these are clan negotiations, if Baroness Ling's credentials are not under further question."
+
+Ling Qi looked at Cao Chun and bowed her head. "My apologies, esteemed inspector. I allowed myself to drift from the main subject. Emissaries of Sudica, if my junior sister agrees to make this place a part of her circuit, I will not object, so long as I can observe any discussion. Let us leave the details of the matter to a private conversation later."
+
+"Agreed. While it was important to fully establish your line and its nature to enable and encourage further talks, it is true that this is entirely an emissary matter," Jaromila said diplomatically.
+
+"We will continue to be in touch, but for now, let us return to the topic of these talks," Inzha supported.
+
+"Indeed," Cai Renxiang said. "The primary matters have been resolved. Lady Wang, Lord Meng, I believe you have a proposal as well."
+
+"Yes, we do. Lord Meng, may I speak?"
+
+"Please, Lady Wang." Meng Deming lowered his head, allowing Wang Lian the lead.
+
+"Our guests have shown much interest in us. They have shown interest in sharing techniques and common cultivation and in our works at the observatory," Wang Lian said bluntly, leaning forward in her chair. "The Wang clan has an interest as well."
+
+"We are pleased with that," Inzha said lightly. The expressions and feelings swirling about the rest of their delegation did not seem to fully agree. "Did you have a specific point of interest, Voice of the Builder?"
+
+Wang Lian snorted. "Your Sky Palace. But I am not a fool."
+
+Dzintara looked like she wanted to say something, as did several others, but Jaromila quelled them with a flex of her spirit, and instead, she smiled politely at Wang Lian. "It is good that we are all reasonable. Such an important project is very sensitive. May I assume you would like some insights into our sledges?"
+
+"Implying there is more than one," Wang Lian noted. "Yes. There is no beast power supporting it. Nor even a collection of fourth or higher realms giving lift. Nor do I sense anything like the windstones of the east."
+
+"Flight of artificial vehicles has always been a fanciful subject. The spirits of the air currents and the laws of the earth reject them. Sufficient cultivation may allow the matter to be brute forced, but this induces its own instability into the geomantic patterns which regulate the weather and the winds," Meng Deming said. He showed no distraction now. Had he simply been waiting to get to this topic? "Disruptions I have not observed."
+
+"We do have our own profound methods," Inzha said. "I hope you understand that this is a larger matter than common construction and warding techniques.”
+
+"It is, but so is the matter of access to our observatories and astrological knowledge," Meng Deming said. "On this matter, we may be willing to bend, if our guests may also be generous…"
+
+Ling Qi did not turn her head, but she did flick her eyes toward Cai Renxiang, whose brow was furrowed. Gan Guangli was giving their liege a surprised look as well.
+
+When she spoke, it was very soft and under a potent screen. "Apologies. The matter was raised just before the meeting. I did not have a reason to block such a proposal."
+
+Ling Qi understood. It would have been insulting to do so. Still, this line of questioning was more than a little surprising. Maybe not from Wang Lian, though she expected the woman to be more circumspect, but from Meng Deming, this was strange.
+
+By what Meng Dan had previously said, even agreeing to allow some Sibiar scholars into the observatory had taken convincing, and his uncle was not a member of the reformist faction, but merely a relatively neutral conservative.
+
+She glanced at Cao Chun, and his brows were deeply furrowed as well. She wasn't the only one wondering what was going on here.
+
+Combined with everything they knew, she was almost certain Meng Deming had some sort of plot or point he was driving to, but she couldn't bring that up in the middle of the meeting.
+
+"It may be possible to allow some number of scholars to observe samples or maintenance work," Inzha offered.
+
+While she was thinking, the conversation continued. It was somewhat tense, but reasonably so for negotiations. She could tell that her counterparts weren't surprised or offended by this request as imperial engineers might have been, but they were definitely more than a bit cagey.
+
+"However, we feel that we might require some time before allowing this," Jaromila added.
+
+"Raising this subject brings another issue to the fore," Cao Chun said irritably. "We have restricted the movements of sovereign cultivators past the borders. Where then lie devices like these?"
+
+"I am not certain where your objection lies, sir. It is merely a vehicle. Naturally, we would not use one to transport one who has ascended without following the laws laid down," Jaromila said mildly.
+
+"Do not be coy with me!" Cao Chun snapped, and Ling Qi winced.
+
+"Inspector," she began.
+
+"No, baroness, let me finish," he said. "That device is not merely a vehicle. It took observation and study, but your soldiers are tied to it. The binding is sympathetic. The soldiers are not merely powering the device; the connection can be reversed from the internal source of the object, empowering your soldiers.”

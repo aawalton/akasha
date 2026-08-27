@@ -1,0 +1,159 @@
+---
+id: c1800218-9a90-5e31-a498-4960f33ad863
+page-type-slug: story-chapter-royal-road
+title: "Threads 24 Winter's Muse 2"
+slug: 0033-threads-24-winters-muse-2
+partOf: forge-of-destiny
+position: 33
+ownLength: 2756
+unit: words
+publishedAt: 2020-12-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/601518/threads-24-winters-muse-2"
+royalRoadId: "601518"
+---
+
+Ling Qi swiftly reached the end of the hall, flitting from shadow to shadow as she raced for the door that lay at its end. The handle turned easily under her hand, and the door flew open, leaving her face to face with a confused looking Hanyi.
+
+“Ling Qi? What’s wrong?” the little spirit asked, her face screwed up in concern. “Papa said that Mama needed to talk to him. Mama never talks to Papa!” she babbled, her words coming out in a rush. “And - and - the house is shaking, and Mama is angry and hurting. It’s like the whole past month but way worse and…”
+
+Ling Qi crouched and rested her hands on Hanyi’s shoulders. She tried her best to keep her voice calm, but she couldn’t help the note of urgency that crept into her voice. “Hanyi, your mom is just... having some problems right now. She’s not angry at you or me. I promise,” Ling Qi tried to reassure her.
+
+“But, why then…?” Hanyi asked, her eyes bright with unshed tears. “Why has she been so…?”
+
+Ling Qi winced as the room shook violently and an icy wind ripped through the doorway, sending their hair and gowns fluttering. “She’s just very stressed. Your Mama needs a break. That’s why she asked me to take you for awhile,” Ling Qi replied, knowing she needed to hurry. “Zhengui will be waking up soon, I’m sure. Won’t it be fun to visit him?”
+
+Hanyi eyed her suspiciously and sniffed, still keeping her tears back. “I wanna, but Mama…”
+
+GO, HANYI.
+
+Ling Qi flinched as the entire room shuddered under the force of Zeqing’s voice reverberating through the house and the sharp crack that followed the pronouncement. Hanyi jumped as well, her eyes wide with alarm.
+
+“You’re sure she’s not mad?” Hanyi asked in a trembling voice.
+
+“Not at us,” Ling Qi assured her, holding out a hand as she stood up. “Come on. Let’s go, Hanyi.”
+
+“Okay,” the young spirit mumbled, taking her hand. “Are Mama and Papa fighting? Did I mess up?”
+
+That was one way to put it, Ling Qi thought, given the conflict in Zeqing’s nature that she had seen. “You didn’t do anything wrong, Hanyi,” she said as they reached the end of the hall, the wind blowing against them growing stronger by the moment. “Do you know how to get to the door?” she asked as they reached the end of the hall, worry creeping into her thoughts as Sixiang offered the mental equivalent of an apologetic shrug. There was nothing for their wind to trace the layout of.
+
+Hanyi peered out into the empty darkness. “Kinda. I can’t control the house like Mama, but… the door is really far away right now.” She still sounded like she was holding back tears.
+
+Ling Qi restrained a grimace. She had to get moving as quickly as she could, but she also couldn’t afford to panic Hanyi.
+
+“It looks like I’ll need your help then,” Ling Qi said with false cheer, glancing at the empty dark around them. She looked down at Hanyi, unsure how best to handle this. After a moment’s hesitation, she crouched, bringing herself down to the young spirit’s level. “Hey, since I’ll get lost, why don’t you let Big Sister give you a ride? That way we won’t lose each other by accident.”
+
+She didn’t know what to expect, but driving winds and whited out vistas seemed likely. A connection as tenuous as held hands was unreliable.
+
+Hanyi gave her a confused and suspicious look. “You’re acting really weird, Big Sister. So is everyone else. What’s going on?”
+
+Ling Qi shivered as she felt, deep in her bones, the faint beat of a melody building in the darkness around them. For a moment, her thoughts spun in circles as she tried to come up with another excuse, but would that really help?
+
+“Hanyi…” she began, trying to find the words. “Your Mama needs to be alone for a while. You’ve seen how she’s been acting, right?”
+
+Hanyi frowned, scuffing her bare foot against the ground. “Yeah, but being lonely hurts. How will hurting Mama more help?”
+
+“Because she’s afraid that she’ll hurt us by accident,” Ling Qi replied, finally dispensing with excuses. “Hanyi, being lonely hurts, but don’t you think it would hurt her more if one of us got hurt?”
+
+Hanyi’s lips trembled. “I don’t understand. Why would Mama be afraid of that? She loves me. She loves you. She wouldn’t hurt us.”
+
+“Sometimes, you can hurt people you love without meaning to,” Ling Qi said quietly. “Hanyi, please, your mama wants me to take care of you while she’s away. I don’t want you to get hurt either.”
+
+For a moment, she thought Hanyi was going to argue further, but the young girl hung her head, silver bangs shadowing her eyes. “‘Kay,” she sniffled. “I know Mama wants me to go. I felt it, but…”
+
+“I understand,” Ling Qi said, patting Hanyi’s shoulder. “We need to get going now though.”
+
+Hanyi gave a shallow nod, and finally, she did as she asked. Soon, Hanyi was perched on her back, legs tucked under her arms and arms around Ling Qi’s neck. Taking a deep breath, Ling Qi stood, and the moment she did, she nearly staggered. Hanyi’s weight, which had been like a feather a moment ago, seemed to redouble again and again until it felt as if Ling Qi had a boulder tied to her back.
+
+<It’s gonna get worse,> Sixiang warned. <The weight… It’s connected to this place.>
+
+“Big Sister?” Hanyi asked.
+
+“I’m fine, Hanyi,” Ling Qi replied. “Which way do we go?”
+
+With another sniffle of held back tears, Hanyi began to direct her. With Hanyi on her back, she couldn’t flicker from place to place, not that she thought such techniques would avail her in the not-space that Zeqing’s temple had become. Even so, she moved as quickly as her legs and the weight she bore would allow. Only Hanyi’s direction allowed her to avoid crashing headlong into barriers she could neither see nor sense. No matter how hard she concentrated, there was no direction in this place, save for up and down, and even that twisted oddly at times, leaving Ling Qi to quickly find her balance as her floor became a wall or a ceiling from time to time.
+
+Then the wind began to blow.
+
+She felt Sixiang shiver in her mind, tendrils of awareness withdrawing back into her meridians with a snap. She felt the same cold in her extremities as the blackness began to grow gray and then white, and she felt the first pelting daggers of ice. With a single breath, she activated the Hundred Ring Armament, cloaking herself and Hanyi alike in its viridian glow. It proved prescient as the whiteness howled and a gust of wind struck her like a blow from a giant.
+
+Though her technique cushioned the blow, she still spun dizzily as the force of the wind flung her through the air. Hanyi cried out something in her ear, clinging tightly to her neck, and Ling Qi kept her grip on the spirit even as she managed to land on her feet in the knee-deep snow. That itself was a surprise. Ling Qi had grown used to being able to walk lightly across snow and ice, but now, she sunk into the cold, wet morass like a stone. The cloak of her gown flared, and she began to rise, only for the wind to howl, slamming her back to the “ground” with a painful crack. She bent her knees to absorb the impact, but it sent a tingle of pain through her joints.
+
+“Everything alright, Hanyi?” she asked through gritted teeth as she straightened up.
+
+“I’m okay,” Hanyi said, her voice trembling. “But, Big Sister, the door is moving.”
+
+Ling Qi restrained the urge to curse. “It’ll be fine, Hanyi. Just keep me going in the right direction.”
+
+The going proved difficult. The blizzard blew endlessly in her face until her cloak hung heavy, encrusted with ice, and the rest of her was not much better. The cold stung her eyes and froze her fingers, and slashing fragments of frozen rain pattered against her armored form like a rain of daggers. It was only due to the constant renewal of her Armament and various defense techniques that she was not cut to ribbons.
+
+Through it all, the quiet beat that she heard remained subdued, a faint vibration felt in the depths of her soul. She kept herself alert, having no doubt that there would be worse trials than this.
+
+<You’re probably not wrong,> Sixiang muttered. <Something bigger is…!>
+
+***
+
+Ling Qi sniffled as she dropped to the ground, casting one last glance up at the dark window she had climbed out of. She rubbed the back of her hand against her eyes, wiping away her tears. Mama had been right to yell at her. It was her fault that Mama had gotten hurt last night. She was a bad girl. Lots of the other ladies said so when they thought nobody was listening. They were right.
+
+... And she didn’t want to be like Mama or the other ladies. Most of the men that came to them were gross and mean. Even when they weren’t, they were never nice. Even ladies from other places didn’t like them or her. Grannies who would give out sweets to other little girls would turn their noses up at her and say mean things about Mama when her back was turned.
+
+She didn’t want that. She didn’t want to hurt Mama, and she didn’t want to get hurt by the mean men who paid for time with Mama. Ling Qi hunched her shoulders, pulling the bag she had stuffed with her clothes and some food higher. Ling Qi took her first step away from home where she could be free at last.
+
+She shivered then as a cold gust blew, and the world seemed to swim. Ling Qi stopped in confusion and fell to her knees, gasping for breath. It felt like the sky had fallen on her shoulders. Grief welled in her mind, overwriting her thoughts. She felt the mounting panic of a woman who woke to find her daughter gone and the increasing desperation as her search turned up nothing and as pleas for aid in that search fell on indifferent ears. She felt the collapse that followed as hours turned into days and hope guttered out and died.
+
+Ling Qi sobbed, curling up on the ground as the storm of emotions assailed her. Could anything be worth that? She was going to hurt her Mama so much, and she herself was going to hurt so much too. Memories of cold, empty bellies and broken bones assailed her. Memories of fear and brushes with death crushed her. Why was she doing this? Why was she leaving? Mama wasn’t perfect, but she loved Ling Qi. Even if she got mad, she would get hurt if it kept Ling Qi safe.
+
+“No,” Ling Qi muttered into the dirty street, pushing herself back up to her knees. The world flickered dizzyingly, and she felt her limbs stretch and grow. Was she a child or an Immortal? In that moment, she couldn’t say. “I can’t go back.”
+
+Why not? Her own voice seemed to echo back.
+
+Ling Qi struggled for a moment to answer, clenching her hands in the dirt/snow. “Because I don’t want that,” she hissed. “And Mom didn’t want that. Even if it hurt, even if I hated it, didn’t it come to a good end?”
+
+The world shuddered violently and Ling Qi’s vision went black.
+
+***
+
+“Exhausting yourself again, I see. Will you never consider your own health?”
+
+Ling Qi’s eyes fluttered open at the sound of Meizhen’s voice, and she sat up in her chair, sending the blanket that had been laid over her into her lap.A fire burned merrily in the hearth in front of her, and she sighed in comfort at the slow creeping warmth that she could feel sapping the stress from her tired limbs. Still, as she blinked, looking around at the snug wood paneled room, she couldn’t help but think that something was off.
+
+“Where are we?” Ling Qi asked, looking to her friend, who kneeled gracefully before the fire, warming her hands.
+
+Meizhen arched an eyebrow at her. “Did you strike your head? We are at home. You spent so long out hunting that Xiulan had to bring you back.”
+
+Ling Qi furrowed her brow, rubbing her temples to ease the persistent ache there. It was like someone was shouting inside of her skull. Right, she remembered now. She and her friends had left. The sect, the Empire, and all of its baggage was behind them. There was no pursuit. None of them were important enough for that. The house rocked under her feet, and she knew it to be Zhengui’s stride, taking them on a slow route through the far flung boreal valleys deep in the Wall.
+
+“Where is everyone?” Ling Qi asked absently, rubbing her head still. Maybe she had hit her head on something. This ache wouldn’t go away.
+
+“Your hangers-on are tinkering with the formation arrays outside, and your mother and sister are resting,” Meizhen answered smoothly. “Xiulan is warming herself in the bath after retrieving you, and Han Jian is in the mapping chamber.”
+
+“Sorry,” Ling Qi apologized sheepishly. “What about Renxiang though?”
+
+“In the office. You know how she is,” Meizhen replied, turning back to the fire.
+
+“Right,” Ling Qi said, grimacing. She didn’t feel a bruise, but something was bothering her. Had they really just left? Sure, Renxiang’s little sister had ended up becoming heir, and Jian and Xiulan had broken from their families for each other, but… Would they really get to leave so easily? And why had they all come to her? She closed her eyes as the headache redoubled.
+
+“Are you alright, Qi?” Meizhen asked, concern clear in her voice. Ling Qi heard the rustling of cloth and a cool hand pressing against her forehead. “I did not detect any odd fluctuations in your qi, but…”
+
+Ling Qi opened her eyes, looking up to see Meizhen leaning in, her lips pursed. “Meizhen... Why are you here? Don’t you have... responsibilities?” Her words came out with difficulty, and her thoughts felt fuzzy and muddled.
+
+Meizhen gave Ling Qi a patient look as she straightened up, and the other girl let her hand drift down to rest atop Ling Qi’s.” Qi, my clan can do without me. That aside, I love you. Of course I would follow.”
+
+Ling Qi felt her vision blur. Meizhen was her first and best friend, the hand that had given her the first and most important boost into the world of Immortals. What sort of terrible world would it be where Ling Qi couldn’t return her feelings? Yet…. it felt wrong. Meizhen, who idolized her aunt and who was working hard to be useful to her clan, would just drop everything for her? Meizhen, who had herself firmly rejected the idea of being closer than friends in the Outer Sect?
+
+And what about the others? Would Cai Renxiang really so easily abandon the things she talked about? Would Suyin abandon her place in the Sect, her mentor, her projects, or Su Ling her revenge? Xiulan and Han Jian were both dutiful children to their clans. Why would they...?
+
+No, this was wrong. This fantastical scenario... This...
+
+“I need to go,” Ling Qi breathed out. She stood up, and Meizhen stepped back, her eyebrows raised in alarm.
+
+“Qi? What is the meaning of this? You just returned,” Meizhen said. The shorter girl looked up at her with confusion and alarm on her stoic features. “Is something wrong? Please tell me.”
+
+At the edges of her vision, the room began to warp. “This isn’t right,” she said, pushing Meizhen’s hands away. “This… This whole thing isn’t right.”
+
+Her friend looked hurt as if Ling Qi had struck her, and Ling Qi’s resolve wavered. “Why? We are together. Everyone is together, and there is no reason for us to ever part. What could be wrong with that?”
+
+“Life doesn’t work like that,” Ling Qi hissed, the pain in her head redoubling.
+
+When next she looked up, Ling Qi froze as she found herself staring into Meizhen’s eyes. Her empty, white eyes.
+
+Ling Qi reeled as the world shattered.

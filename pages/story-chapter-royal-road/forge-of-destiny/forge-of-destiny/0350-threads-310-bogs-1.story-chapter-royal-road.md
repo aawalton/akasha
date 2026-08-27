@@ -1,0 +1,207 @@
+---
+id: 67cf4aba-5f21-590c-b008-1b12d60b8d59
+page-type-slug: story-chapter-royal-road
+title: "Threads 310-Bogs 1"
+slug: 0350-threads-310-bogs-1
+partOf: forge-of-destiny
+position: 350
+ownLength: 3112
+unit: words
+publishedAt: 2023-06-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1232481/threads-310-bogs-1"
+royalRoadId: "1232481"
+---
+
+They’d decided to begin partitioning some of the farmland next, having the temporary workers prepare lots for incoming settlers. One of the largest draws to new settlements was the easy access to land. There were always second and third children who didn’t stand to inherit. Besides, the sooner they began preparing the relatively poor soil and making use of the veins of fire under the earth, the sooner they would see a return. She’d have to go back for a while next month to work with Zhengui.
+
+The note which he had dictated to her regarding the earth veins was interesting. He seemed really excited about the project. It was good that he had found a project to invest in while she was so busy. She did feel sorry for the frazzled first realm scholar assigned to take down all of his running commentary as notes. She’d think about that when she could speak with Zhengui and give him her full focus though..
+
+“Ling Qi, this one is pleased to see you again.”
+
+She smiled, offering a little bow to Xuan Shi. He stood by one of the newly raised warding stones. He’d been examining it as she approached. “Thank you for taking up this invitation at such short notice.”
+
+“Small assistance, a breeze to give some small wind to thy sails, is all which this one can offer. To fulfill a purpose here would be pleasing,” he said. “The knowledge you have granted me is fully digested.”
+
+She nodded, acknowledging his words and straightened up. She’d sent him a brief dossier on what she had on the White Sky and today’s subject, these “Seared Lands.” “I expected no less. We’re primarily gathering information and giving greetings today.”
+
+“And our arrival together will prompt no misunderstandings?” Xuan Shi asked with a touch of worry.
+
+She’d thought of that given the way these eastern tribes had an emissary, which was a paired couple of husband and wife. “No misunderstandings,” she said gently. “I sent ahead in the missive what we’re doing.”
+
+The idea might have upset her before, but she had gotten less childish, or so she hoped.
+
+He nodded, considering her. “Is thy companion well? I do not sense their presence.”
+
+“Sixiang and I both underwent tribulation. They need some time to think,” Ling Qi said. “We’re standing apart for a little while.”
+
+Ling Qi wondered if he would ask further, but Xuan Shi merely reached up and tipped the brim of his hat. “Convey this one’s well wishes when next Miss Ling meets them.”
+
+“I’ll make sure to do so. Now, let’s be off.”
+
+Walking with Xuan Shi, she followed the road south. Already, it extended further into the twisted trees of the valley, the style of the stone work changing as they moved past the last warding stone and reached the first of what the White Sky called “runestones.” They looked cruder than imperial warding stones at a glance with more naturalistic cuts, but the harsh lines deeply carved in the stone were no less intricate in their way. The sounds of construction could be heard ahead. It didn’t surprise her. The half of the emissary pair she had traded messages with, Inzha, did seem to be their formations expert.
+
+Meeting her at a worksite carried more than one implication. On the one hand, it was something of a power move, implying that there was no need to treat them to the honors of a guest. On the other hand, matched with their recent resolution, it could be taken as a gesture of trust, especially since she had made clear that Xuan Shi, if not herself, was quite skilled in formation craft.
+
+Of course, her read could all be wrong, if their perspectives didn’t match up to imperial ones well enough.
+
+Ling Qi waited for a beat and then frowned at the lack of response. Of course.
+
+Xuan Shi glanced at her. “Ill currents?”
+
+“Just adjusting,” Ling Qi replied.
+
+They came into view of the worksite where the trees had been pushed back, some by ax, some by other means. She saw several men in white robes wearing crowns of leaves upon their heads, shepherding slowly crawling trees with a soft but strident song. An older woman in a mantle of silver fur stood nearby, a crescent ax on her shoulder. As she watched, the woman’s arm and weapon blurred, lopping a tree limb which had suddenly swung clean off.
+
+In the center, the earth had been flattened. A disc of gray stone was being guided into place by workers with rope and a makeshift crane. She could see why the underlying formations on the runestone base would repel any qi that tried to move it.
+
+The emissary pair, Rostam and Inzha, stood by, quietly discussing something as they oversaw the work. Their clothing was a little different in color and cut today but in the same style, except for the short, broad man’s furry, shapeless hat. She was quite sure that absurd piece of headgear was the same.
+
+“Emissary Ling Qi,” the woman, Inzha, greeted, seeing her over her husband’s shoulder. “It is good to see you.”
+
+“I feel the same.” Ling Qi arrested her instinct to bow. Instead, she held out her hand, gloved in navy blue silk, her sleeves tight and bound to her forearms. She’d directed her dress toward something more practical today with mixed results. Her hems were much more drawn in anyway.
+
+It was Rostam who clasped her hand, grinning under his drooping, bushy mustache. “Yes, much talking to do, and we’ve not even begun! Our throats will be dry indeed before this is done.”
+
+“I am sure we will both have a fine drink for the other to sample when discussions begin properly,” Ling Qi said politely. She grasped his forearm tightly and used his own reaction to judge when it was time to let go. “May I introduce Sir Xuan Shi, who is on loan from his land in the north to assist me?”
+
+“It pleases this one to no end to meet guests who have undergone such a long sojourn,” Xuan Shi said. He reached out his own gauntleted hand. It was Inzha this time who reached out and took his hand.
+
+“It is our pleasure as well, far traveler. You carry potent works so easily,” the woman said, sounding a touch curious.
+
+“This one’s own works only,” Xuan Shi demurred.
+
+“Xuan Shi is among the best of our age at the art of talisman crafting,” Ling Qi said easily. “He comes from the far northern ocean where his people are most familiar with meeting foreign guests. While I can’t call him an emissary, it is my hope that he will aid us all in understanding each other.”
+
+“Haha, of course! More eyes see better,” Rostam said cheerfully. “Islands, eh? Any chance you’ve met the sailors of the Land of Sacred Fire in the east?”
+
+“The eastern current cannot be sailed between the boiling and the Great Maelstrom,” Xuan Shi said. “This one has not had the pleasure. You would know the folk of the Thousand Princes, called Khusan, in the West perhaps?”
+
+Ling Qi wasn’t sure what the Great Maelstrom was, but she presumed the boiling referred to the seas still overheated from the echoes of the Cataclysm.
+
+“Ah, that would be our sour friend Dzintara’s expertise, but I have heard of their works,” Inzha said.
+
+“Mm, boiling, you say? I’m a bit familiar. Of course it would be worse farther north!” Rostam exclaimed. “That disaster must have been close to home for all of you, eh?”
+
+Ling Qi didn’t allow her expression to change. Nor did she glance at Xuan Shi. Although the Twilight King and his end was ancient history, the Cataclysm had such far reaching consequences that should it be fully revealed, there could be consequences. This was especially so given that the demonic cultivator known as the Twilight King had come from the line of the second dynasty, and it all had begun over a succession dispute. However, there was no meaningful way to keep something that was common knowledge among all imperial people hidden for any extended length of time.
+
+“It was a terrible cataclysm that scoured the east unto an ashen desert,” Ling Qi explained carefully. “It was the result of one of our ancestors, something like your gods, destroying herself to eliminate a far worse foe.”
+
+“The Unmen,” Inzha said thoughtfully. “They came from the west to the lands of light.”
+
+“King in Twilight, a million, million bodies with only one mind,” Xuan Shi said, bowing his head. “Only in scouring all pure could that mind be destroyed.”
+
+Rostam crossed his arms, blowing out his mustache. “Sad, old histories. I won’t say that I don’t want to hear the full tale, but is that sort of exchange what we want to spend our time on today?”
+
+She was surprised by his nonchalance, but she supposed her opposites were far more experienced with diplomacy than she, able to keep their reactions muted.
+
+Ling Qi considered.
+
+It might be useful in establishing a baseline to hear more history and culture, but speaking of current events might be more relevant. She was curious, for example, what precisely it meant that these folk were “both Seared Land and White Sky.”
+
+“You’re right, sir. As interesting as history can be, it's not quite what we are here for. I actually did have a pressing question, if you do not mind.”
+
+“Go ahead, go ahead,” Rostam said cheerily. “We’ve a few of our own.”
+
+“What does it mean that you are of both the White Sky and the Seared Lands?” Ling Qi asked. “Do you simply have blood from both sides?”
+
+“That is part of it. Regular marriages from the tribes of White Sky and Seared Land into and out of ours maintain the harmony of the confederation,” Inzha answered.
+
+“But it is deeper than that,” Rostam continued, tugging at his mustache. “We are of both lands. We stand on the border, the boundary, and keep to both circles of gods and have both oaths. It is an honorable, but difficult, position.”
+
+“It sounds as if you would be very damaged if your two provinces came into conflict,” Ling Qi said dubiously.
+
+“Keep to both circles of gods?” Xuan Shi asked, repeating the phrasing.
+
+“Rules of three,” Inzha said. “The great gods of the White Sky are six, two triads, opposing and complementing in their own patterns. So, too, in each region. Some gods are lessened. Others are elevated. Only the Crone is universal.”
+
+So, to analogize to her own homeland, every province had great spirits which were more celebrated than others with different holy days and festivals. Only the Celestial Dragon and through her, the imperial seat, was enforced centrally.
+
+“Not Sudica? I was under the Impression that she was the founder of your nation,” Ling Qi asked.
+
+“The Sceptre is respected, but she is only upon the holy triad in the Gates and the White Sky,” Rostam said. “She does not ride the steppe nor walk the bogs. My cousins in the deeper lands only revere her on the days that everyone comes together to scream at each other in the things and kuruldaans.” Rostam chortled. “Naturally, my Inzha and I like her rather better!”
+
+Kuruldaan. Ling Qi turned that word over in her mind. To her understanding, it seemed similar to this “thing,” a political gathering of some sort. It was actually close to the word for a council or gathering of chieftains in the cloud tribe tongue, she knew.
+
+“Apart, yet bound, interlocking,” Xuan Shi mused. “This one finds it strange.”
+
+“Is it not akin to your own gathering? I have seen and felt those who seem as different tribes than yours gathered here, and I do not mean those of your capital,” Inzha observed.
+
+“Friends, allies, and visitors,” Ling Qi said. “Here to observe the proceedings only. They are not part of the Emerald Seas. They are more akin to foreign emissaries themselves.”
+
+“This one has no authority of kin or clan. This one is but a visitor alone on personal business, aiding the Lady Ling,” Xuan Shi clarified.
+
+Rostam chuckled. “Ah, I see, indeed. With your letter, I understand.”
+
+She squinted at him. She was not entirely certain he did.
+
+His wife sighed, rested her hand on his head, and pushed the fuzzy monstrosity down over his eyes. “Excuse him. Answering the core of your question, it is the White Sky you are negotiating with alone. Though we are of the boundary, we are here as the eastern tribes of the White Sky.”
+
+“I understand,” Ling Qi said. “Does the same apply to your western companion?”
+
+Rostam grumbled, pulling his hat back up. “It should.”
+
+“Should lies on the horizon of is,” Xuan Shi noted.
+
+“We are of the boundaries, as are they,” Inzha said. “The White Sky contains many interests and must also sell this business to their neighbors.”
+
+“Understood,” Ling Qi said. It was good to know they were still fundamentally negotiating with one polity, even if it had separate interests within it and other contacts to satisfy.
+
+Not so different from their own situation.
+
+“Many shoals must come together to form a grand one,” Xuan Shi agreed. “Whence does the most difference come in yours?”
+
+“Now isn’t that the question!” Rostam laughed. “Mm, it can be said we are invested in our central cousins' integration of new tribes! We wish to see it continue. The White Sky is a bit sparse, as you probably gathered from the name. Indeed, we were consulted heavily for the project!”
+
+“We wish to see that project continue… And we have some concerns about the northern tribes ourselves,” Inzha said, more calmly. “The gatherings, the rumbles of power in the north, the men who whisper of Twelve Stars and leave with hot-headed young men from our tribes, and the men who whisper of Twelve Stars and shelter with us. These are our concerns.”
+
+Rostam scratched his scruffy cheek, looking more subdued. “Well, that is the core of it.”
+
+“We have had some encounters and conflicts with those who stand under the banner of Twelve Stars ourselves,” Ling Qi admitted.
+
+What they implied was good. That was a way to align interests, a lever for negotiations. They would have to carefully control the way the information came out that the Twelve Stars had conducted some recruitment among the White Sky.
+
+Ling Qi continued. “We would appreciate any information you could give on them. Is there much connection between the tribes in the north?”
+
+“Old bonds, and always some intermingling, among those who wander still,” Rostam said. “Most get it out of their systems eventually and settle among the jewel cities in the east. Indeed, my own kin on that side come from that blood. But there are always hot-headed youngsters who find romance in martial talk.”
+
+“Bog, steppe, and badland,” Inzha said. “Our tribe draws most from cities among the bog and the oasis that lie among the badlands on the eastern route. But the steppe… That is where there is trouble, and those who still revere Father Sky above all others live there.”
+
+That was remarkably open of them. Then again, even if they weren’t at war with the Twelve Stars Confederation, they were still apparently having people poached, and she doubted there was no raiding going on.
+
+“I’ve a question or two of my own,” Rostam said, turning to eye the workers finally settling the base of their runestone into place.
+
+“Of course,” Ling Qi said graciously. She couldn’t be the only one getting answers here.
+
+“What is the business with those masked fellows skulking about? They seem a bit like the crows, but they’re not that.”
+
+“Agents of the throne. Bound and sworn to integrity and to observing the clans for treason, corruption, and ill conduct,” Xuan Shi said after glancing at her. She gave him a nod, giving him the go-ahead. “An emperor, ascended, sworn to his service, bound to his shades. This is the Ministry of Integrity.”
+
+“That thing you all do with your spirits?” Rostam questioned. “Still a holy order then, just one with unfamiliar mysteries.”
+
+Ling QI doubted the ministry would be content with that description, but it was close enough. “That is what your ‘crows’ are? I get the impression that they give up their names for this.”
+
+“I can hardly tell you their secret rites, but aye. When a widower chooses to hang himself from a sacred ash in the name of the Crowfather to learn the secrets of runecraft, you get his crows,” Rostam said.
+
+And that wasn’t the secret part. Ling Qi supposed there were more disturbing cultivation methods. She didn’t like it much, but it also wasn’t hers to judge.
+
+“It is a bit frustrating that so many secrets of the true tongue are hidden in mysteries.” Inzha sighed. “But such is the way of the gods.”
+
+“It is not the same for our ministry, but they do swear oaths on induction which supersede all other loyalties,” Ling Qi said. “And the shades of He who became Inexorable Justice live in their souls and hold those oaths.”
+
+She didn’t know how perfect that system was, but despite her conflicts of interest, she didn’t doubt the power of spiritual oaths to an ascended cultivator, only the human ability to twist the, well, “spirit” of just about anything.
+
+That was a little cynical.
+
+“Inexorable Justice, eh? A stern sounding god.” Rostam rubbed his chin. “Inzha, do you think we are needed further here?”
+
+The tall woman considered, observing the workers carefully moving dirt around the newly placed base and the singers arriving to call forth grass and flowers and moss to grow over stone. It made it seem as if the stone plinth had been there for years or decades. But she could sense the shifts in the natural qi. It wasn’t merely appearance. She felt flows shift and snap into place, accepting the craft as a part of the environment.
+
+“No. The stone itself will not be ready for some hours,” Inzha said.
+
+“Ha, very good then. Will you accept our invitation to our temporary lodge, young sir and miss? I’d rather continue these weighty conversations in comfort,” Rostam invited cheerfully.
+
+She shared a look with Xuan Shi, who tilted his head to her.
+
+“We’ll accept your kind invitation, Emissary Inzha and Rostam,” she said formally. “May we continue speaking as we walk?”
+
+“Certainly, certainly.” Rostam laughed, waving for them to follow him and his wife out of the small clearing and onto the road.

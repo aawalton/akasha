@@ -1,0 +1,113 @@
+---
+id: e9b8d45d-d271-5017-8e82-ad6393cc78b3
+page-type-slug: story-chapter-royal-road
+title: "Threads 161-Always Winter 2"
+slug: 0191-threads-161-always-winter-2
+partOf: forge-of-destiny
+position: 191
+ownLength: 1902
+unit: words
+publishedAt: 2021-12-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/800365/threads-161-always-winter-2"
+royalRoadId: "800365"
+---
+
+Ling Qi smiled to herself as she alighted atop the packed snow in the bottom of the gorge. To mortal eyes, it stretched unbroken in every direction, a solid field of white. If Ling Qi didn’t know better, she would be convinced that she was alone here. Naturally, she did know better.
+
+Focusing on a tiny spark of warmth beneath the snow, only perceptible because she knew it was there, Ling Qi let herself sink into the packed snow as mist.
+
+A moment later, roaring heat struck her face as she stepped through the flaps of the pavilion. Snow spilled in briefly after her, stopping only when the cloth flaps snapped shut again, cutting off the flow.
+
+“Satisfied with your cultivation for the moment, Miss Ling?” Xia Lin asked, her halberd falling back into a rest position.
+
+Ling Qi nodded to the girl, smiling. “No, but my allotted time is up. I believe that means it is your turn?”
+
+Xia Lin smiled thinly. “It is so. Sir Gan?”
+
+“Haha, so that time arrives already,” Gan Guangli boomed from where he sat cross-legged further inside.
+
+The pavilion was quite large on the inside, and its canvas walls gave no indication of being buried deep under the snow. The floor was a polished wooden platform laid out with thick rugs and cushions in dull earth colors. Gan Guangli had been seated on one of the larger examples. When he sprang to his feet, his head nearly brushed the ceiling.
+
+In the center of the pavilion, there was a stone pit which should have held a bonfire. Instead, her little brother lounged there, shrunk to a more reasonable size to fit in the pavilion. The smoldering heat in the room radiated from his shell.
+
+“Where is Hanyi?” Gui asked of her as she approached, passing Gan Guangli as he moved to take Xia Lin’s place.
+
+Out of the corner of her eye, Ling Qi observed as the girl gave him a terse nod. It seemed like that matter at least had a lid on it. Xia Lin’s dislike was tempered for the moment.
+
+Receiving the inventory of items they would be splitting had probably helped Xia Lin’s mood.
+
+“Hanyi is staying outside for now,” Ling Qi explained, resting a hand on his head. “She’ll stay close to the pavilion though.”
+
+Zhen flicked his tongue quickly, a sign of dissatisfaction. “Hmph. Hanyi should stay inside too,” he grumbled.
+
+Ling Qi rubbed her hand across his scaly head and passed him by. She didn’t disagree, but she felt like Hanyi needed this.
+
+The hours she had spent out in the storm, observing it and feeling it, had pushed her understanding of cold. Witnessing the flows of qi in the storm had given her the final inspiration she had needed to fully refine her master’s art. She could call on its full power with only a single pair of meridians now. So if Hanyi wanted a bit more time outside, she would let it go. They were close enough that she could be out there in an instant anyway if needed.
+
+On the other side of Zhengui, she found Cai Renxiang sitting in a meditative pose on a rug of white fur. Her ever-present radiance traced the pale lines of an indecipherable mandala behind her. At her side was Meng Dan, who sat looking down in deep concentration at a set of three large bronze rings laid out on the floor. The rings were each two handspans wide and wrought of bronze and inlaid with formation etchings of glittering green jade. The third of the talismans that Ling Qi had deemed immediately useful, the Practitioner’s Divining Rings were a tool for refining clairvoyance arts like her Roaming Moon’s Eye art.
+
+“Have you figured out how to use them?” Ling Qi asked, sitting down across from Meng Dan.
+
+“Oh yes, the activation was simple enough to decipher,” Meng Dan replied. He traced his fingers along the rim of the closest ring. Light pulsed in the inlaid jade, racing along the curving lines carved in the metal. Ling Qi followed its path, memorizing the pattern of qi. “Useful things. Not as good as a dedicated farseeing chamber, but certainly better than most could afford in the field.”
+
+Following Meng Dan’s example, Ling Qi channeled the qi of her own clairvoyance technique into the third ring. The air within its circumference shimmered as if it were a pool of water, which she would normally need for her techniques. The view within the ring soon zoomed in on Hanyi still perched on the ledge outside. The image was sharp and crisp without any of the usual blurring.
+
+“Huh. That is pretty useful,” Ling Qi said.
+
+“I would hope so,” Cai Renxiang said, cracking open one eye. Radiance bled from her iris, causing Ling Qi to shade her eyes. “I wish for the two of you to search our route ahead and determine the best path for the morrow.”
+
+“I assume you can join in on my vision like before, Sir Meng.”
+
+“I can indeed.” At a gesture, a wide roll of tough parchment appeared in Meng Dan’s hands, along with a writing set. “I am sure the Sect and Her Grace will enjoy a recent topographical and spiritual map of the region as well, if we are to operate here.”
+
+“They will,” Ling Qi said. Normally, her art was not much use unless she was looking for something specific, but using it to map the immediate region would be fine. “There are three separate spirits mingling in this storm by the way. I was able to pick them out from the background.”
+
+“Troublesome,” Cai Renxiang said, closing her eyes once again. “Determine if we will need to propitiate all three, or if it will be possible to merely treat with one for passage, and if so, how the others can be avoided.”
+
+“Yes, Lady Cai,” Ling Qi said obediently. “Are you ready to begin then, Sir Meng?”
+
+“I am.” A spark of pale green wind qi from his fingertips causing the image in the rings to ripple. “And if you will allow, I can show you how to use the other rings to magnify the image or increase the width of the display…”
+
+Ling Qi listened intently as he began to show her how to work the rings. They had quite a bit of work to do before the sun rose beyond the churning clouds.
+
+***​
+
+The region they were in was rough, the last bastion of the highest peaks before the mountains began to grow wider and shorter with gentler slopes worn down by the glaciers that now nestled in the peaks and valleys beyond. Very little physical flora or fauna flourished here in the depths of winter. Together with Meng Dan, she mapped out the contours of the land, and more importantly for them, the ebb and flow of the spiritual realm.
+
+Through the rings, she was able to study the winter storm and determine where the boundary lines between the three spirits lay. By finding the places where her farsight failed, she was even able to determine the general vicinity of where the centers of their power lay.
+
+One spirit was the scream of the wind and the force of the driving ice shards, a thing of wind as much as cold, eroding all before it. Its power, wild and frantic, lay in the sky above and to the south of them where the storm clouds were thickest.
+
+The second spirit lay in the glacier which rested in a high cleft at the end of the gorge they had rested in. Its qi was solid and immovable, ten thousand layers of ice laid down over ten thousand years, compacted again and again until it may as well have been stone. With every passing winter, it carved the stone ahead of it, millimeter by millimeter.
+
+The last spirit reminded her the most of Zeqing. It was the purest cold. It lived in the whiteout and on the high peaks, dancing with the first spirit as they drowned the world in white together. In winter, it descended to blanket the land in life-ending cold as it did now. Its power was centered on a low mountain southeast of them, overlooking the gorge.
+
+Unless they wanted to detour a very long way, the group would need to pass through at least one of the spirits’ territories. To do so, they would need to seek the blessing of one of the spirits, or at least secure their noninterference.
+
+***
+
+“What is our plan of action?” Cai Renxiang asked.
+
+It had been several hours, and now, it was nearly morning. With Meng Dan, Ling Qi had exhaustively gone over their surroundings again and again, and the results lay on the table before them, a highly detailed topographical map with only a few blanks where their combined senses had failed to penetrate.
+
+“I believe the best route is this one.” Ling Qi traced her finger along the more weathered mountains on the east side of the gorge. “There is a narrow path here. Following it will let us avoid directly traversing the glacier, and it’ll be low enough to avoid the worst of the winds.”
+
+“Although it is broken, the gaps should be little obstacle to travelers of our caliber given the climbing gear we have been provided,” Meng Dan said confidently.
+
+“It would be unwise to let our feet leave the ground too often given the fury of the wind spirits outside,” Xia Lin agreed, examining the map. “You have already worked the delay into our schedule?”
+
+“I have,” Ling Qi said, dipping her head. “But the path is not wholly safe. There are three spirits in this gorge, and there is no way to bypass them all.”
+
+“You are more confident in negotiating with the one which presides over the lower mountainside then?” Gan Guangli asked, looming over the table. “Why so?”
+
+Within her dantian, Ling Qi felt Hanyi’s mixed emotions, so closely mirroring her own.
+
+“The spirit of the snow seems to be most human-like. I’m not sure I could even get the glacier’s attention, and the spirit of the winds seems less likely to stick to any deals, even if it might be easy to distract. I feel that the snow spirit is the one I may be able to successfully negotiate with.”
+
+She wasn’t fool enough to think that the potential similarity to her mentor would make it easy, not when she knew, in her bones, what had lay beneath Zeqing’s “civilized” facade. Endless desire was a human trait certainly, but that did not make it any less deadly.
+
+“I will trust that your judgement of the matter is sound.” Cai Renxiang said simply, cutting through her thoughts. “Gan Guangli, you will join me in warding our party from harm during the climb. Xia Lin, you will take point just ahead of Ling Qi and watch for other dangers while Ling Qi focuses her attention on the spirit. Meng Dan, simply remain close and observe as well as you can.”
+
+They all nodded as the heiress spoke. No objections were raised. Shortly thereafter, they began to break down the camp, digging the pavilion free and packing up. The storm had lightened briefly, so it would be good to get started now.
+
+Ling Qi just hoped that her judgement was sound.

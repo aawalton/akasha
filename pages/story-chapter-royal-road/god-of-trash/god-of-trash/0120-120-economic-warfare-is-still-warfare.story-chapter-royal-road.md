@@ -1,0 +1,85 @@
+---
+id: 5054453a-fbac-553a-aa57-003f92e3a41d
+page-type-slug: story-chapter-royal-road
+title: "120. Economic Warfare is Still Warfare"
+slug: 0120-120-economic-warfare-is-still-warfare
+partOf: god-of-trash
+position: 120
+ownLength: 2816
+unit: words
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2409564/120-economic-warfare-is-still-warfare"
+royalRoadId: "2409564"
+---
+
+Rhys crouched in the woods, not far from the road. Not just one week had passed, but two. His kitchen was all but set up, now, cauldrons reforged and ready to go, bowls awaiting chips, tongs and forks waiting to be used. A pile of potatoes and tomatoes sat in the garbage pile, the tomatoes carefully reinforced with mana to keep them from spoiling, while the potatoes were stored in the cool dark to keep them from putting out eyes. Everything was ready to go. All they needed were those final ingredients: vinegar, salt, oil.
+
+And on this road, on this day, in a few short moments, a caravan bearing all three of those vital ingredients would come rolling down.
+
+Remember, take everything. We leave no hints. This caravan was hit by a bunch of random bandits, Rhys had reminded everyone. If they took the oil and salt and vinegar, and left everything else, and a mysterious shop showed up selling salted potatoes fried in oil with a tomato-vinegar sauce the next day, it wouldn’t take a genius to put two and two together; hence, take everything. There were bandits. The Empire was a monolith from the outside, and to the eyes of its believers, but it was rotten within. The Empress could strong-arm the majority of mages into obeying her rule, but not everyone, not even all of the nobles. Bandits were common; not only rogue mages from within the Empire, but from without, foreign mages who knew the Empire was a weak target, with all its mages consolidated to the military, and few on escort duty for low-level caravans. It was why merchants were allowed to have cores and mana, despite her rule; because otherwise no goods would flow through her country at all. Typical idealogue government: all talk, but no thought to the practical implementation. Still, he wasn’t going to complain too loud when it worked to his favor.
+
+Besides, his ambitions were greater than a mere potato chip stand. Who knew what other foodstuffs this caravan would have, that he could transform into transcendent junk food? There was no such thing as useless food. Worst case, they would just have some variety to make their background as foreign food merchants bringing a mysterious new delicacy to town a little more believable.
+
+Of course, it would be safer to transform anything before he sold it, since stealing everything just meant he disguised his true goal, but didn’t mean someone else couldn’t figure out that a caravan had been stolen from, and a bunch of foreign merchants had consequently showed up with everything in that caravan. But Rhys was a master of junk food. He knew it, had tasted it, experienced it, held it like a lover, had been so incredibly intimate with junk food that he was confident there wasn’t another human alive who knew it as well as he did. It wasn’t a tough competition in this world, true, but nonetheless, it was a competition he could win. If there was any way to turn this food into any sort of junk food, he would. There was no one better qualified than him.
+
+Rhys yawned, deeply bored. Ambushing caravans turned out to be a lot of lying around and doing nothing. He could imagine it might be interesting for an ambush hunter, like a cat, but for him, it was a lot of boredom. Lira seemed well-suited to it. She’d been floating silently face-up in a puddle near the road for the last four hours, leaving Rhys to wonder exactly how water sprites went about their man-eating. He hadn’t expected an ambush, but when he thought about it, wasn’t that how alligators and crocodiles operated? And as a water-based predator who preyed on land-mammals, Lira was really just a prettier version of a crocodile, once he thought about it. So, at the end of the day, Lira being an ambush predator made perfect sense.
+
+In the distance, something rattled. Wheels bumped over hard ground, and dust stormed up along the path. The clop of horses’ hooves grew steadily closer. Rhys put his hand on his sword, climbing from a flat lie to a kind of army-crouch. It was an awkward pose, but he had the strength of a mage, and it let him do weird poses like that with little difficulty. He leaned forward, watching the road from within his den of leaves.
+
+Across the road, and all along it on this side, other piles of leaves shifted subtly. Everyone who’d learned a mana-disguising technique was there, who’d wanted to come, at least. Mouse, too, was present against her will, but mostly because Rhys wanted an absolute expert in the art in case things went bad.
+
+He himself had a weak understanding of a mana-disguising technique, which showed up in his skills as Aura Obscuration, and was only level 3 or so. It turned out they were mostly considered useless, except for mages whose entire game was stealth, and as a mage who wasn’t exactly the most stealthy, it qualified as a trash technique for him. It wasn’t the most powerful justification, and as a result, he’d still struggled with it, but through hard work and determination, he’d managed to at least manage a basic version of the technique in time for the ambush. As for why he’d come, it was obvious—he wanted to. It sounded like great fun, and honestly, he wanted to work out some of the rage in his heart. These unsuspecting merchants weren’t the right target, but they weren’t the wrong target, either. Better to attack them than working it out on his allies, or some random citizen, both of which were too trashy a realm of behavior for even Rhys. This was just trashy enough for him.
+
+There was a faint splash as Lira submerged. In the next moment, the caravan rattled into view. One wagon after another, each one laden with goods destined for the Empire’s newest city. It was a relatively small caravan, with three wagons in total, plus a smattering of merchant-bodyguards and the primary merchant, the highest-ranking mage here. Five mages total; the merchant-mage was Tier 3, and the other four were somewhere between 1 and 2.
+
+He didn’t intend to hold back. These people weren’t the Empire’s soldiers, but they were the Empire’s dogs. He wasn’t a good enough person to want to keep everyone alive, because they were all victims of the Empire in the grand scheme of things, or whatever. It was a bad idea to leave witnesses, not least of all because none of the real bandits left witnesses. Leaving the merchants alive would only immediately identify his group as a strange group of definitely-not-bandits, with a strange moral code contrary to actual bandits. If the merchants surrendered, he wasn’t heartless enough to kill them, but if they fought to protect the Empire’s goods, then they were the Empire’s dogs, and they got what was coming to them.
+
+A trashy way of thinking, perhaps, but he was a trashy guy.
+
+The wagons rolled closer and closer. The first of the guards passed the first of the hidden mages, then slowed. He looked around, confused.
+
+“Something wrong?” another guard asked.
+
+The first guard shook his head. “Just… something feels off.”
+
+The second guard looked around, then shrugged her shoulders. “There haven’t been bandits in these parts since the Empress set up her quick-response unit. Don’t worry. Even if someone attacks, the Empire will be here to back us up at a moment’s notice.”
+
+Rhys raised his brows. That’s not great. He’d done all the research he could, but ultimately, he couldn’t have discovered everything. They were still newbies in the area, who had no connections with the criminal elements who’d know such things, nor any connection to the legitimate units who’d know such things, either. He’d avoided contacting the local criminal gangs because it was so blatantly a bad idea to get criminals to keep their secrets. They needed to operate as a legitimate business, and though that meant some underhanded banditry now, it also meant they couldn’t afford to be chummy with criminals, who would, if his mob shows were any indication, hold it over their heads later when they tried to go legitimate, and secondly, would likely give up anything they knew if they got caught—and anything was too much to give up. He’d thought it wasn’t a big deal… but that showed what he knew.
+
+I did say it, didn’t I. We win if we know everything. We lose if we don’t. But they’d missed a crucial detail, and now they risked being in the failure state.
+
+Too late to back out now. He could only fully commit, and hope that whatever amulet the guards had to notify the Empire took time. If nothing else, the Empire’s response would take time, and that should be long enough for him to act, escape or whatever else they needed to do.
+
+Sure, he could back out, but then they wouldn’t have accomplished anything, and no matter what, they’d still face the Empire’s quick-response team, unless they attacked a caravan far further out than Rhys wanted to risk pulling goods in from. After all, they had to get the stolen goods back to base one way or another. They were close enough now to carry them by hand and melt away into the forest, but if they were another few miles out, that wouldn’t be so feasible, with mostly low-Tier mages and, despite Rhys’s requests and dreams, no storage rings. Who knew? After this hit, maybe they’d find storage rings, or the funds to acquire storage rings. Either way, they needed to get this done.
+
+And maybe Rhys was just a tiny bit impatient to get everything rolling. He couldn’t lord over a fast food empire until he had his raw materials, and with no gold, there was only one way to acquire them. The longer he waited to obtain raw materials, the longer it would take to get his fast food empire off the ground. Not only that, but his plan to take down the Empire required the fast food empire running; not just started, not just one sad shop in one small city, but running. Sure, at Tier 3, he had time, but what he wanted wasn’t just to end the Empire. He wanted to end it meaningfully, to restore the cores to all the disempowered mages before their lifespans ran out. They weren’t quite lowered back to mortal lifespans, what with their empowered bodies and what not, but not all mages had cultivated their bodies, and the level to which those who had, had empowered their bodies, differed strongly. For some mages, it wasn’t even a question of lifespan, but instead, how long they could hold out. He’d seen plenty die in the mines, worked to death, crushed in cave-ins, mutilated by falling rocks, beaten to death by sadistic Empire guards. If they turned back here, if they hesitated, if they waited until they knew everything there was to know about every possible convoy, then mages died. Mages died, because they were too cautious. He would rather risk his life—risk it, mind you, put it at stake, not lose it for sure—than stand back and watch powerlessly while others died, all while he had the power to accelerate their freedom even one day.
+
+So, as the caravan rolled into place, Rhys didn’t signal the retreat, but charged instead, instantly closing in on the highest Tier merchant with no hesitation. Leaves flew from his shoulders, and he drew his sword ferociously, striking at the merchant with all his might as though he intended to end this battle in one strike. The merchant barely drew his sword in time. From his clumsiness with it, it was clear the man was no swordsman. Though he was a high Tier mage, he clearly didn’t specialize in combat; rather, it was more likely he was an enchanter, alchemist, or something of that ilk. It was somewhat like leveling blacksmithing in a certain game about the Sky’s Rim, where it was possible to reach high levels with little or no combat experience, and possess a high level, but lack the skills and powers necessary to actually fight at that tier.
+
+As a result, it was simple for Rhys to angle his sword to cut through the other man’s blade, without any real effort on his part.
+
+The merchant scowled and tossed the broken sword away, summoning a second from his storage ring. Before the broken sword hit the ground, Rhys jumped forward and caught it. He activated Trash Intent and slashed upward, cutting through the man’s torso at a diagonal angle. His sword impacted armor, hidden under the robe, and bounced back.
+
+The merchant laughed. “You think that broken sword can overcome my Gleaming Nine Lights armor? I bought this from a—”
+
+Rhys whirled with the bounce, rising to a stand and repeating his blow, but this time, he aimed at the back of the merchant’s neck. The merchant didn’t finish speaking before Rhys’s sword separated his head from his neck.
+
+“That’s what you get for levelling non-combat-skills only,” Rhys informed him, slashing the blood off the broken sword, then dismissing Trash Intent. Technically, he didn’t need to do that except for the broken base, but it was so cool to do that rapid slash at the ground after an attack, and he just couldn’t resist.
+
+Rhys knelt, checking the merchant’s body for important items. He stole the merchant’s badge and pinned it on himself, then checked the man’s rings. One of them was simply expensive, so he palmed it. Another was enchanted, but he had no idea how or with what; it didn’t respond to his mana. He took it anyways, figuring he could sell it if he couldn’t figure it out. The third one was a small-scale storage ring, with the space of maybe a small room inside it. He scanned it, then drew back, revolted. The space was full of raw meat. There was a small segment of precious herbs, but the rest was full of meat.
+
+A second later, he shrugged. Guess they had to transport the refrigerated goods somehow. It wasn’t like this world had refrigeration, and while he was sure mages could whip up ice enchantments to serve the same purpose, a storage ring was a cheap way to accomplish the same. He glanced at the meat again, then shrugged. There were things he could create with meat, so he wasn’t going to complain at the unexpected windfall. Still—perhaps as expected—this storage ring wouldn’t help him transport the goods back to the hideout.
+
+Rhys punted the man’s head into the pile of leaves, then looked around at the rest of the ambush. Things were going well. Lira crouched over a carcass, doing something Rhys didn’t want to look too closely at, but which involved a lot of blood splatter. Mouse hid, not fighting at all; then again, he hadn’t asked her to. She was their get-out-of-jail free card, not a combatant. Korii had already taken down her merchant, and a mage Rhys didn’t remember the name of finished another with a short blow, which left two; one struggled with Blake, and the other reached to his hip, where a small amulet shone in the sun.
+
+Rhys snatched up the sword he’d discarded and threw with all his might. It hurtled across the battlefield, whistling as it cut the wind, and impaled the man in the chest—but it was too late. A pulse of mana emanated from his amulet even as he fell.
+
+Shit. Rhys raced over, chasing his thrown sword. He plucked the man’s pin off his chest and kicked him onto his face, then turned to the rest of the mages as Blake finally felled his merchant. He whistled, demanding everyone’s attention, even Lira’s.
+
+“Grab your merchant’s badge and put it on, now. Destroy the merchants’ faces and surround the caravan. We’re the merchants now, understand?”
+
+Lira turned and fled into the woods instead, and Mouse chased after her. A reasonable decision, Rhys realized a moment later; she was a water sprite, not a human, and he didn’t know if the Empire allowed non-mages to have cores. Blake stared in confusion, completely lost, but luckily Korii caught on. She tossed Blake a pin and grabbed another for herself. The third mage slumped to his knees, bleeding profusely from the stomach, his robes slashed wide open. He hit the ground with a thump.
+
+Rhys frowned, but there was no time to check on the man or anything else. Shadows fell on them from overhead, and a trio of mages in white uniforms, mounted on pure-white military regulation blades, descended toward them.
+
+This was it, live or die. It was time to see if his gambit played out.

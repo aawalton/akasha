@@ -1,0 +1,117 @@
+---
+id: 22a01947-b82b-5da2-af9c-4b8ebede2947
+page-type-slug: story-chapter-royal-road
+title: "45. Cleaning House"
+slug: 0045-45-cleaning-house
+partOf: god-of-trash
+position: 45
+ownLength: 3023
+unit: words
+publishedAt: 2025-04-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2185655/45-cleaning-house"
+royalRoadId: "2185655"
+---
+
+Rhys worked through the night, picking up every last scrap of trash from Aquari’s manor and the grounds around it. When that was done, he lugged the trash up higher into the mountain, around the corner and out of sight in a deep ravine that was somewhat hidden from the main upper peak village. There was still plenty of trash on the mountain and around the village, but Rhys wasn’t done; he was just done with the most important part of the upper peak. Done, and in need of a new potion. He lifted the bottle. Empty, completely empty. Not even a drop left.
+
+So it’s time to brew a new one.
+
+The process wasn’t that more complex for the new potion he wanted to brew. It was the same as the previous method, in fact, except for one small detail; the trash pile he used to obtain the impurities was twice as large. That meant twice the impurities… and twice the ash. Looking at the mountain of purified ash he’d made, Rhys snorted. He’d have to go visit Sorden soon, before he generated more ash than he could possibly handle.
+
+Brewing the double-power potion wasn’t particularly difficult. As he purified the ash, he scooped it out of the cauldron and added more impure ash, until he reached twice the original concentration of impurities. It was a technique that would allow him to continue concentrating the potion up until he could no longer fit it into the reinforced vial.
+
+He called the potion into the vial and stood, wiping his brow. Aquari’s manor was cleared of trash, and all the refuse was here, in this ravine. Once he cleared the rest of the upper village, he’d be most of the way done. At that point, he’d just have to keep up his daily trash duties and brew the potions he needed to keep advancing toward the toxic trash pit.
+
+Rhys raised his brows. He’d thought he’d be struggling to complete it within the two weeks, but here he was, on the end of day one, with success already within his grasp. Guess I overestimated things. He shrugged to himself, not dissatisfied. Better to overestimate the task than underestimate. Though… he glanced back at Aquari’s manor. If it wasn’t for Az’s help, there was no way he would have completed clearing out the papers so quickly. He shouldn’t discount Az’s assistance. It probably would have been a two-week task without the cat-man stepping in.
+
+That means I have two weeks to get stronger. Rhys cracked his knuckles, slowly grinning. Two weeks to work toward the toxic trash pit. Two weeks to absorb as many impurities as he could, and reforge his innards and outards until he was unrecognizable as the trash he’d began as.
+
+That was the nice thing about starting as trash. He didn’t hesitate to burn it all down and rebuild, because he started with nothing to lose.
+
+Taking a big sip of the potion, he stretched. Time was a-wasting, and there was still trash to collect.
+
+It took him longer than he expected to finish clearing the upper peak. The trash wasn’t as concentrated as it was in Aquari’s house, but that was exactly the problem. While he’d spent a whole day in Aquari’s house, just lugging garbage out and running back in, he’d been spending that entire time moving garbage. He had his hands on trash the whole time, and was constantly hefting it around, whether that meant bringing it to Az or taking it out to the ravine.
+
+The rest of the upper peak wasn’t half as concentrated. Not even a quarter. But that was exactly the problem. He spent hours chasing little bits of garbage up and down the mountain, and only came back with a single bagful of trash. He wasn’t exactly complaining, since it was also good training for his stamina and legs, and his nascent skill Trash Step, but it did take far longer than he was expecting to collect far less trash.
+
+As he ran around, chasing trash, he scurried over a patch of screed, loose, smooth dry rock that threatened to slip down the mountain and spawn a landslide. To his surprise, his Trash Step skill activated. His steps grew firmer, and the skill guided his feet to the best places to stand, as if he’d spent years scrabbling over gravel. Rhys was so startled that he paused in the middle of the screed, only to quickly scramble back into motion as stopping so suddenly on loose gravel almost sent him to the ground.
+
+Huh. I guess screed is a trashy form of ground. He made it to the other side of the gravel and turned back, looking at the patch thoughtfully. It was true; screed could be considered trash. It wasn’t useful as a foundation for anything, it was hard to walk on, few animals could live there, and it was dangerous in that it could start a landslide. Most people would see it as something to remove; in other words, trash.
+
+What other land counted as trash, then? Swamp for certain. Back in his world, people were getting rid of swamps left, right, and center in order to build things on the newly-dried land. Sand, maybe? Ice? Snow? Rhys grinned slowly. This skill would help him walk on the most dangerous types of land, the types that were most likely to slow him down. It’s even better than I thought.
+
+Three days passed before he cleaned the upper peak to his satisfaction. When all the trash he could see from the upper peak village was gone, and most of the trash scattered around the less dangerous parts of the peak, the parts where he didn’t see beast tracks or beast scat, was collected, he returned to the lower peak to do his usual trash collection rounds. There wasn’t much use for this trash anymore for him, but he wasn’t going to throw it away, either. He burned what he could and converted the rest into fertilizer to spread on his garden in the lower peak. The garden was doing well, all the plants growing at a normal pace without Rhys forcing their growth with his mana. He had found a few more seeds in the garbage, and planted them alongside the existing plants. He still didn’t know too much about ‘properly’ growing herbs, and though he wanted to fully use the garbage to its greatest extent, he simply didn’t have the herbalism knowledge to identify seeds on sight or know how properly grow them if he did identify them. Nor did he have the time to research growing seeds right now, with the two-week deadline fast approaching.
+
+He still had a little less than a week and a half, but that was time he needed to advance his resistance to impurities toward being able to take on the toxic pit. Ideally, he wanted to be able to absorb the toxic pit before the teacher arrived, but he knew that was only a dream. Even absorbing a tiny percentage of the pit was beyond him, and it’d take a long time before he was able to handle impurities well enough to take it on meaningfully.
+
+Still, it didn’t hurt to get a little more training in. He returned to the upper peak and focused all his energy on brewing more and more dangerous potions, and continuing to absorb the upper peak’s impurities. By the end of the two weeks, he’d completely rebuilt his internal organs, and begun to once again enhance his muscles, bones, and ligaments. He could absorb up to a five-times concentrated version of the upper impurities by sipping the potion, and was working on absorbing a seven-times concentrated version by dripping his way up to sipping. At the end of the two weeks, he was highly empowered and much better at handling impurities than he’d ever been.
+
+Not only that, but the trash pile he’d gathered from the upper peak had greatly diminished. He’d had to take several trips down to Sorden to sell off the purified ash, to keep himself from getting overladen with the material. A seven-times concentrated potion took a great deal of trash to generate, and generated a great deal of ash in its creation. By now, only half of the trash remained, and he was intentionally holding it in reserve to brew a final, even-more-concentrated potion. Unlike the lower peak, the upper peak didn’t generate trash quickly. During his entire two-week stint, he’d only had to go out once to pick up trash, and he’d come back with less than half a pile.
+
+It made sense. Fewer people lived on the upper peak. Based on the state of their houses, too, Aquari was the primary generator of trash, and for the last two weeks, she was nowhere to be seen. He sighed. It was too bad, honestly, but he couldn’t complain. He’d increased his strength by leaps and bounds these last two weeks. Compared to how long martial students or mages had to work to increase their power, this was an incredible increase. Waiting a few weeks, or even months or a year to power up, was nothing. Mages would study a topic for years hoping for a single increase anything like what he’d just accomplished. Martials would train for ages to achieve the same.
+
+Of course, that’s for people of trash talent like myself, Rhys appended. Anyone with real skill or talent could quickly overcome those limitations. Bast, for example, was surely improving his sword skill by leaps and bounds as well, without having to take years to study one skill. In his case, he could only overcome his limitations by relying on his path, and by the free availability of the material he needed to pursue his path. If anyone else realized the value of trash the way he could, he was sure they could progress just as fast—no, probably faster—without a trash-level of talent slowing them down. But, for some strange reason, no one saw any value in trash.
+
+That was their problem. And Rhys was going to exploit it to the greatest extent he could.
+
+A small chime caught his attention as he wandered around the upper peak, looking for trash. Rhys looked around, only to find a tiny sparrow on his shoulder, a round bell tied to its neck.
+
+“Schoolmaster requests your presence,” the bird informed him, then fluttered off.
+
+Rhys watched it go, a little awestruck. Even though he spent his days growing his magic, deep in training his body and mana alike, he sometimes forgot exactly what it meant to be in a world of magic. It was the little moments like this that made him remember, the little things like talking sparrows fluttering over to deliver a message.
+
+Breaking a grin, Rhys ran after the sparrow, leaving his garbage heap ravine behind for the light of day.
+
+Aquari stood in the center of the upper peak’s village, her arms crossed and a grim expression on her face. The sparrow fluttered to her side. She slid a small handscroll open, and the sparrow flew onto the paper and returned to ink. Closing the scroll, she stored it in a parchment-colored ring on her finger, then turned to Rhys. Her scowl deepened at the sight of him. “What have you done?”
+
+“I cleaned up the trash, as we agreed upon,” Rhys said, lowering his head modestly.
+
+“You rifled through my manor and stole all my documents,” she growled. There was a dangerous note in her voice, to match the dangerous glint in her eyes.
+
+“Not at all, Schoolmaster. Azarian—that is, our librarian—volunteered to archive your documents. He’s organized and labeled them neatly for your future perusal. If you wish to consult any particular document, please feel free to visit the library. Ah! Or if you’d rather, I can fetch it for you.”
+
+Aquari’s eyes narrowed, but she let the topic drop. She still looked angry, but she didn’t have a way to properly express it. Rhys could see it in her eyes. She was mad that he’d cleaned up her house, but she knew it was irrational, when she’d not only allowed him to clean the upper peak, but he’d gone ahead and done her a favor by archiving her important papers. She had an attachment to the trash, or the disarray, or something, but knew it was ‘wrong’ to feel that way, so couldn’t openly attack him for it.
+
+Still, he knew he would do well to lie low and keep his mouth shut now. She might know that her anger was irrational, but it didn’t stop her from being angry. She’d still find a way to take it out on him if he gave her the slightest opening.
+
+So he did his best not to.
+
+“When does our guest arrive?” Rhys asked demurely, lowering his head like a good student should.
+
+“Any moment now. Change into your dress robes and return here.”
+
+Rhys smiled at her. Dress robes? If he’d known he needed something like that, he could have made them over the last two weeks out of scraps from the trash, but he hadn’t known, so he hadn’t put the time into building them. He had plenty of fabric in his storage ring, some of it even classy enough to qualify as dress robe material, but having fabric and transforming it into clothing… those were two different things. He didn’t have the skill to instantly sew a robe on the spot. It took time. Effort.
+
+He made a mental note to make robes the next chance he got. Trash robes? He wasn’t sure what bonus he’d get from wearing them, but he wouldn’t know until he tried. Plus, he had the feeling he’d be able to easily empower trash robes and enhance them to be far stronger than any robes he could afford. It was a route worth pursuing.
+
+Aquari put a hand to her forehead. “You don’t have any, do you.”
+
+“No, ma’am. I have plenty of gold, though. I could buy some…?”
+
+“We have no time. Come here.” She gestured him closer.
+
+Confused, Rhys stepped in. A hand landed on his head, and a cool power flowed over him. All the dirt and dust vanished from his body and robes alike, and the faint stench of garbage that he could never quite escape faded away.
+
+Rhys stared, flabbergasted. What a skill! He could use a technique like that. Though… he got the distinct impression that cleaning-related skills weren’t anywhere near his path.
+
+Then again… Lira had called his trash-removal ‘cleaning.’ Maybe ‘cleaning’ wasn’t so far from ‘trash’ after all.
+
+In any case, these were contemplations for a future date. For now, Rhys straightened up his robes, squared his shoulders, and stood slightly behind Aquari, the picture of a good student. His hands hung loose, and he swung them, not quite knowing what to do with them. Aquari put her hands behind her back, cupped, and after a moment, Rhys copied her gesture.
+
+They stood there in the square, waiting. The sun crept over the sky. Rhys occasionally drew out his potion and added a few more drips, figuring he’d use the time to keep growing in his skill of absorbing impurities. Aquari glanced at him, but she didn’t tell him to stop.
+
+At last, as the sun hit its apex, a shadow fell over the sky. Rhys squinted, lifting a hand to block out the sun. Some large object floated overhead, quickly growing closer to the school. Aquari subtly tensed, and Rhys glanced at her, then looked back at the object. Is that our guest teacher? But… what is it?
+
+Closer and closer. Wood gleamed in the bright sunlight. Masts stood tall. Sails caught the wind. Rhys’ eyes widened. No way. No way!
+
+A three-mast ship soared through the sky overhead, bearing down on the Infinite Constellation School. It drew up to the upper peak, and Aquari waved her hand to let it past the barrier. Blue shimmered as it slid through and onto the upper peak. A man stood at its railing, prim and proper, the image of a mage. He wore black academic robes with long, wide sleeves that draped heavily over his shoulders, and a small black cap on his head, tassel and all. White gloves clad his hands, and he bore a book in one arm. A small group of students stood around him, perhaps four of them, all told. At the helm, a rather more raggedy, adventurer-looking mage handled the wheel, and even from this far, Rhys could sense that she was the one who empowered the boat. It wasn’t purely empowered through her strength; there was some secondary source of mana that supported her own power. Nonetheless, it was her power that directed the ship’s advance.
+
+The ship lowered down to just above the highest buildings. On the deck of the ship, the man waved his hand. Blue mana swirled from his hand and surrounded him and the students behind him. He and his students lifted off the surface of the boat and hovered down to the ground. They landed gently, without so much as a bump.
+
+The second they touched down, the woman at the helm spun the wheel, and her mana rushed through the ship. The ship turned about, far nimbler than its huge size would imply, and it flew off, leaving the groups behind.
+
+Flicking an imaginary piece of lint off his robes, the man stepped forward. With a fake smile, he offered Aquari his hand. “Aquari. How good to see you again. I see your school is cleaned up! I’m impressed, truly.”
+
+“Ernesto,” Aquari replied. She took his hand and gripped it tight, murder in her eyes. The two of them clutched hands for a long time, neither releasing, both of them almost clawing into the other’s flesh. Two fake smiles beamed forth.
+
+Rhys swallowed. I’m glad I did my research. If I was getting these vibes from their meeting with no preparation, I might have just hoofed it for the forest directly.

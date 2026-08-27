@@ -1,0 +1,165 @@
+---
+id: 22248ee4-d03f-5342-b09c-c7938e086e8e
+page-type-slug: story-chapter-royal-road
+title: "Threads 366-Depths 1"
+slug: 0406-threads-366-depths-1
+partOf: forge-of-destiny
+position: 406
+ownLength: 2097
+unit: words
+publishedAt: 2024-03-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1537235/threads-366-depths-1"
+royalRoadId: "1537235"
+---
+
+"There is further infiltration than we were aware of." Cao Chun's voice was grim. Seated behind his desk, he folded his hands under his chin.
+
+"How much so?" Jin Tae asked. He stood in the office with them this time. A silver mirror hung on his belt. A weapon, Ling Qi thought. Not his domain weapon, but a potent talisman all the same. His spirit was rippling water and shimmering glass under her new gaze, reflecting back her own distorted face from a hundred angles.
+
+"I have detected traces in over fifty percent of our construction force and twenty percent of embassy staff. It has taken immense effort for me to inspect and uncover further taint nondestructively," Cao Chun replied.
+
+Jin Tae's eyes widened, and he sucked in a breath. So did Ling Qi. Only Zheng Fu's own grim expression stayed fixed behind his headwrap.
+
+The big man beside her crossed his arms. "Huh. That's catastrophic. You ain't talking about them all being infested like those two more guys though, right?"
+
+"I am not," Cao Chun said sourly. "Calm yourselves. The great majority only held traces of being touched by the subject’s qi. It’s either a decoy mechanism or, I think more likely, showing mere signs of being a tool of transmission."
+
+"There are only so many of those thought parasites," Ling Qi concluded. "They are extremely complex. Even a sixth realm master crafter could only produce and stockpile so many. They can move from victim to victim prior to their activation though."
+
+"Yes. I have only discovered three more in my investigation. All are neutralized." Cao Chun then briefly grimaced. "One of those foreign crow creatures has informed me that their own investigation has uncovered two."
+
+Ling Qi smiled at him. Cao Chun narrowed his eyes at her, mustache twitching.
+
+"It seems that we are making good progress then, teacher," Jin Tae said. "What of the culprit?"
+
+"I have refined my understanding of their qi, even though all targets required immediate destruction. It is my opinion that the culprit is mostly likely of the Meng clan, though not of a recognized name. The signs of the underground beasts are mere chaff to throw off our scent."
+
+Ling Qi frowned deeply. Having one of the major clans engaged in such a scandal would be a serious blow to the stability of negotiations. "Are you certain? Wouldn't such a high figure among the Meng be one of their elders? Or at least one with access to truly secret stockpiles?"
+
+"Hah!” Zheng Fu laughed. “We don't show off all our oldsters; I expect your clans ain't any different. Plenty of Ways don't make themselves big and public."
+
+"It is as he says, baroness," Jin Tae said. "The Meng report their number of cultivators as any clan does, but no ruler has been so tyrannical as to demand an exhaustive listing of Way names."
+
+Of course. She should have expected that.
+
+"Regardless, I have tracked further possibilities," Cao Chun said. "Baroness, can your ability be used again?"
+
+"There is a limit. I can only handle such a feat maybe once a day. It is mentally and spiritually strenuous."
+
+"We are limited then," Cao Chun said. "I have three likely hosts: the astronomer from Xiamen, the White Plume Sergeant Xia Lin, and the Bai retainer, Xia Anxi. Infrastructure, military, and diplomatic vectors."
+
+"Astronomer Wu is a realm above me. I am not certain I could use the ability effectively against him," Ling Qi said warily.
+
+"I have procured a talisman which will make up the difference for a time, if your ability is a manner of liminal stealth," Cao Chun replied immediately. "But if you are not confident, take another target. I have observed that these parasite constructs hold varying levels of information. One invested in more important sabotage may be more useful. I will give you the choice of targets."
+
+"And the others?"
+
+"Now that I've gotten a look, I think I might be able to do something. Can't snatch it like you, but I could glean some information if I know what I'm looking at as I dig it out," Zheng Fu said.
+
+"And I will simply eliminate the last parasite," Cao Chun said. "Which target, baroness?"
+
+Ling Qi mulled over it for a time. There were so many considerations that it was really difficult to find what would be the right answer here.
+
+"I think,” Ling Qi decided, “of all these, Bai Xia Anxi is my best choice of target."
+
+"I see. Would you explain your logic?" Cao Chun peered at her past his steepled fingers.
+
+"As far as we have determined, the main effect of the parasite is inducing a state of heightened agitation and paranoia, correct?"
+
+"That is the simplest effect. There is some measure of mental trigger implantation, but it does not seem able to fully override the host, only induce an action they might take in an impaired state of mind."
+
+"So makes 'em act like a rowdy drunk with a persecution complex then?" Zheng Fu asked.
+
+Cao Chun grimaced at him. "Somewhat. However, I am concerned that the parasite may be capable of overcharging itself to induce worse effects, as your target attempted to do in the last operation."
+
+Zheng Fu's expression went flat. "Yeah, s’pose so. That's why I'm probably only gonna get limited information."
+
+Cao Chun gave him a gimlet look. "Indeed."
+
+Jin tae coughed into his hand. "Baroness Ling, your thoughts?"
+
+"Firstly, the politics of this. I am the only one here with a good enough relationship with the Bai clan to receive leeway if my attempt is noticed. In fact, I may simply be able to speak with Bai Meizhen directly about permission to conduct the investigation. Has she been touched by this infiltration?"
+
+"The young White Serpent is clean. There is no taint on her that I have found. I doubt she would be so forgiving as all that. The Bai—"
+
+"She will trust me," Ling Qi interrupted.
+
+She felt sorry for Xia Anxi, and she would do her best to snoop as little as possible when retrieving the target. For the victim themselves, speaking to them personally about the parasite would almost certainly trigger an adverse reaction.
+
+"Very well. Let us say that I believe this,” Cao Chun allowed. “Keeping the Bai from establishing another grudge is… Ah. I see."’
+
+"The Meng are among the most vehement opponents of our alliance with the Bai. From the perspective of a Meng elder of that clan, this is certainly awful and heretical, but a chance to enrage the Bai clan against us via harm to their envoys under our protection would certainly be a coup," Ling Qi explained. "At the same time, given the Bai's isolation from the talks with the White Sky, it seems to me that the perpetrator would have to deliberately seek him out for infection. In contrast, Astronomer Wu interacts with the work crews regularly and is in the Meng's place of power beside. Xia Lin was similarly constantly among the work crews while the hall was being built and continues to interact with the White Sky military."
+
+"It would not be a complex bit of instruction to induce her to start an altercation, an escalation during a friendly sparring moment, or what have you," Jin Tae mused. "Whereas inducing the correct type of damage with the Bai is likely more instruction intensive."
+
+"Are the soldiers sparring?" Ling Qi asked.
+
+"Not officially. However, the martial among us are ever invested in testing themselves. Such is the way of warriors," Cao Chun said sourly. "Nothing with weapons thus far—they are not so foolish—but physical contests have occurred."
+
+On the one hand, such friendliness was what she wanted to encourage, but the thought of some soldier from either side having a serious accident entirely of their own volition made her want to put her face in her hands and scream. She managed to simply let out a breath instead.
+
+"There, there. Cultivators are pretty tough, you know?" Zheng Fu consoled. "Huh. I wonder if I could use my meeting slot to invite anyone from the White Sky who wants to have a wrestle…"
+
+"Please do not," Ling Qi said, sounding slightly strangled.
+
+Jin Tae smiled thinly at her. She narrowed her eyes at him, and he coughed and looked away.
+
+"Ah, fine. But maybe…"
+
+Zheng Fu was lucky she could tell he was just being facetious.
+
+"Let us remain focused," Cao Chun said. The silent addendum of “children” made Ling Qi's ears burn. "I understand your chain of reasoning, baroness. It is sensible. I will leave Bai Xia Anxi to you, including discretion regarding the Lady Bai. I will take the astronomer’s parasite into my hands. Sir Zheng, you will see to Sergeant Xia Lin’s parasite. Baroness, will you bring your Lady Cai into this matter?"
+
+"I will," Ling Qi said.
+
+It looked like there would be another tally on the side of “nice gifts owed to Xia Lin.”
+
+She hoped extraction would proceed smoothly and there would not be too much forgiveness needed.
+
+***
+
+"Honestly,” Bai Meizhen said, exasperated, “if anyone else was making such a request of me, Ling Qi."
+
+They sat together in a meeting room of the embassy in two comfortable chairs around a low round table where a tea set had been laid out.
+
+Xiao Fen had served them and was now standing off to the side. Ling Qi thought she was looking better, less stiff and stressed. Her demeanor wasn't any different, but it came across more as poised and less innately murderous. Progress, of a sort.
+
+Ling Qi bowed her head. "I am aware. I can only offer my deepest apologies that such plots would even happen in our Emerald Seas, and to our esteemed guests at that."
+
+"Do stop that, Ling Qi. There is no one here who requires such obsequiousness."  Bai Meizhen regarded her over the rim of her tea cup.
+
+Xiao Fen looked like she wished to strenuously disagree. Ling Qi shot her a small smile. Ah, there was the Xiao Fen who looked like she would start hissing at any moment. Bai Meizhen turned a quelling look on each of them in turn.
+
+"This… dream parasite. You are sure you can remove it without harming Xia Anxi?" Bai Meizhen asked.
+
+"I am confident in my ability," Ling Qi replied.
+
+And in Shu Yue, who she knew, from a brief passing whisper, would have her back on this. If the parasite bit out at her, that was merely an opportunity for her mentor.
+
+Bai Meizhen closed her eyes for a long moment. "I do not like this. However, I do trust you, Ling Qi. I will have your oath that you will say nothing of Xia Anxi if you do this. Report your parasite’s plans, but the secrets of the Bai are the Bai's. You will swear it to him as well, after, when we explain."
+
+"I understand, and I will swear that gladly," Ling Qi promised. "Although I can't avoid looking to an extent if I am to navigate his mind, I want to pry into his actual thoughts as little as possible."
+
+"Very well. That will have to do. Xiao Fen, inform Xia Anxi that I require his presence."
+
+"Of course, mistress." Xiao Fen bowed low at the waist. "If you are certain…"
+
+"I am."
+
+Ling Qi blinked. She hadn’t expected Xaio Fen to question, even obliquely. She didn't comment on it as Xiao Fen swept out of the room.
+
+Bai Meizhen set down her cup. "Do you require any particular preparation?"
+
+Ling Qi glanced around the room, feeling the wards in place. "The ministry’s formation experts are skilled in their work. The security here would stop me, if I were outside. But if I step through the curtain while I am in here, that will be enough. Is Xia Anxi particularly skilled with spiritual arts?"
+
+"He is focused on the more calculation-based forms of divination over more heavily spiritual arts," Bai Meizhen answered. "Water is his element of choice. Do not take his mind lightly, Ling Qi."
+
+"I will not." Ling Qi rose to her feet. "Sixiang, are you ready?"
+
+<Yes, boss,> her muse whispered in her ear, already dematerialized. <I’ll have your back too in there.>
+
+Ling Qi was thankful to Sixiang for keeping their peace until now.
+
+"Go, then," Bai Meizhen said. "I do not think it will take him long to arrive. Xia Anxi is very prompt."
+
+Ling Qi gave one final nod and stepped sideways out of the waking world.

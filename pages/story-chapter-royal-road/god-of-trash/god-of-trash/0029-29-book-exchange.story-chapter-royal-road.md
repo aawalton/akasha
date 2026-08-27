@@ -1,0 +1,103 @@
+---
+id: ca1b37b3-494b-5afd-b66f-95ba91d41d0b
+page-type-slug: story-chapter-royal-road
+title: "29. Book Exchange"
+slug: 0029-29-book-exchange
+partOf: god-of-trash
+position: 29
+ownLength: 2206
+unit: words
+publishedAt: 2025-03-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2146251/29-book-exchange"
+royalRoadId: "2146251"
+---
+
+Having eliminated Sorden as a good starting point, Rhys headed toward the library, his second idea. It was a good place to start. It wasn’t like Az would leave the library and tell anyone that he’d asked about potions, and Az had shown no inclination toward aggression toward Rhys, even if Rhys told him his techniques; Az was just too lazy to bother. Asking Az for potion books in the library wouldn’t keep him from being able to visit Sorden later, and besides, he could use the books to figure out what he specifically needed to ask Sorden, and that way avoid giving away too many hints as to what he was doing, but still get the knowledge he needed.
+
+Braziers full of smoldering fragrant herbs hung from the buildings in town. Others simply hung bundles of herbs over their hearth. Rhys raised his brows. Wonder what that’s all about? It reminded him of the strange decorations in the woods, somehow, but much less extreme. He sniffed. There was a slightly strange smell on the air, but it wasn’t that bad.
+
+Then again, I do live in a garbage pit. He was used to bad smells. Maybe it was worse than he could tell, because he’d gone nose-blind to bad smells. Shrugging, he headed to the library.
+
+The library was still the same as ever. No herbs hung over its mantle. He stepped into the cool, quiet interior. The smell of old books and slowly decaying leather reigned supreme, as usual. The entire space hung in dusty silence, save for the quiet echoing tap of his shoes.
+
+He turned the corner to Az’s desk, only to find it empty. Books still piled over the desk, and the chair stood ajar behind it, as if its occupant had only just stood up. Rhys frowned and looked around. “Az?”
+
+Soft paws landed on his shoulder. A light weight settled onto him. In a scathing tone, Az murmured, “I see you’ve returned. Did you read the novels I so kindly leant you this time?”
+
+“I did! I did, this time. Do you want your books back? I took good care of them.”
+
+“I do.” Az hopped off Rhys’ shoulder and padded a few steps away, then transformed back to human. He held out his hand.
+
+Rhys pulled the books out of his storage ring and passed them over. “I really enjoyed the one about the coward who’s determined to play dead to survive.”
+
+“Oh? There’s eight books in that series. I can give you the sequels,” Az replied. He stacked the books under one arm and headed out toward the shelves.
+
+“Wait, wait. Do you have any books about potionmaking?”
+
+Az gave him a deadpan stare. He lifted his head, taking in the thousands of books all around them, then slowly lowered his eyes back to Rhys.
+
+Rhys cleared his throat. “Low-level potionmaking books about concentrating potions to make them stronger. I’m interested in general-purpose concentration techniques. You know, like boiling a soup down, but for potions.”
+
+He assumed it was more complicated than just boiling the potion down. In any case, with something as toxic as what he was working with, he wanted to make sure he concentrated it according to best practices. If there was an equivalent of a fume hood or some other protective measure while cooking down something toxic, he should probably use it. After all, he didn’t know how toxic he’d be able to cook it to be. He might be able to cook it up more toxic than he could handle, even by burning impurities. There were still upper limits of toxicity he couldn’t yet absorb. If the cooking process unleased more than he could handle, or if he concentrated it harder than he could bear, then he could always water down the potion afterward, but he’d need something to handle the toxicity while he was cooking.
+
+Az considered for a second, then nodded. “I’ll bring you a few books that touch on the subject. And the novels?”
+
+“Oh, yes please. A few more would be good, as well,” Rhys said.
+
+Az was about to leave, but then turned back. “Do you know Alun?”
+
+“Hmm? Oh, yes. I do.”
+
+“He’s been in here looking for tomes on making the most vile potions possible, the ones that have the most disgusting waste products. Muttering something about ‘that stupid garbage collector’ while he’s at it.”
+
+Rhys nodded. “I’m very grateful for his efforts.”
+
+Az stared at him, then chuckled, just once. “I’m glad you have it under control. I’ve been working on Alun for quite some time, and I would’ve regretted having to give up on my efforts if he happened to pick an argument with a student I far prefer.”
+
+Rhys blinked. He looked at Az. “What do you mean, ‘working on Alun?’ Working on him how?”
+
+“There’s a tome in here that contains the secrets to the Illuminating Fist technique. I’ve been trying to influence Alun to learn it for a long time.”
+
+“Why?”
+
+“Because then it would be the Alunminating Fist,” Az said simply, as if it were obvious.
+
+Rhys’ jaw dropped. He stared at Az for a moment, then laughed. “You really like wordplay, don’t you?”
+
+Az snorted. “How sad it would be, to live in a library and not enjoy playing with words.” He turned away for the final time, striding off into the books. His black-and-white robes fluttered behind him, long sleeves dangling around his elbows while the narrow under-robes clung tight to his wrists.
+
+Rhys watched him go, then shook his head. He couldn’t counter Az. Everything the cat had said made sense. He chuckled to himself and leaned against Az’s desk to wait.
+
+Az returned a short time later, carrying the books. He handed a stack of heavy leatherbound tomes to Rhys. “These are the potion books that have information on potion concentration.”
+
+Rhys accepted them and stored them in his storage ring. “Thank you.”
+
+“And these…” Az lifted a second, larger set of books. Although the stack was larger, the books were smaller, with cheap, thin pages and paper bindings. Thin pages meant more words could be packed into a smaller space, so even though the books were smaller, Rhys knew they were no less full of knowledge and wisdom… or even better, trashy plots, dangling subplots, and crazy characters who barely made sense. With a much more serious expression, he handed them to Rhys. “These are the novels.”
+
+Rhys accepted them with all due respect. “Thank you, sir.”
+
+Az nodded. “In the future, I hope I can discuss them with you.”
+
+“I would certainly hope so,” Rhys replied.
+
+He missed his days on the forums, ranting and raving about all his favorite trashy novels. Since he’d gotten here, not only was there no time, but there was also no one to discuss them with. Bast wasn’t much for reading. He was definitely a man of action, not of nice, slow thinking. Tarais seemed too serious, and he didn’t think Ev was interested in sitting still long enough to read. Until Az, he hadn’t had anyone who shared his hobby, let alone so thoroughly, and who also wanted to discuss the books afterward. He smiled to himself, already excited. Becoming a mage, growing more powerful, and gaining powers beyond his wildest dreams were all nice, but they were a career. A job. Reading was his hobby, and it was one he hadn’t been able to indulge lately. Now he could, and it felt so good.
+
+Az plopped down in his chair and put his feet up on his desk. He yawned and gave Rhys a meaningful look.
+
+Right. Rhys nodded and hurried out before Az got really annoyed. After a quick loop to gather trash and pick up Sorden’s leavings, he headed back to his home base for the first time in a while and settled in under the stone nook on his repaired furniture to read the tomes. The novels were burning a hole in his pocket, but he knew he had to focus. Now wasn’t the time to give in. Besides, he’d have plenty of time to read them while he was recovering from Ev’s beatings.
+
+He sped through the tomes, skimming the bits that weren’t about concentrating potions. At last, he set the book down and took a deep breath, thinking. For the most part, concentrating potions went about how he’d expected. Using better ingredients, then boiling them for longer. The main issue was that the longer a potion boiled, the more concentrated it became, the harder it was to maintain its properties. Some potions were downright dangerous to try to concentrate; they’d directly turn into poison, or destroy themselves and become worthless goo instead. Others required specific reagents to keep them from corrupting under the additional brewing time and extra heat. There was nothing about ventilation or fume hoods, except for the occasional note that potion concentration was best done outside, with a weather eye kept for explosions and the brewer crouched, ready to hoof it if one came knocking.
+
+Rhys closed the last tome and put it into his storage ring, then stood. He usually lugged the old, beat-up cauldron back to Sorden’s place so she could refill it, but right now, the beat-up cauldron was hanging out in Ev’s valley, so he had a slightly less beat up one full of gunk today. It seemed to be in good enough shape to handle a little bit of concentration, at least to his untrained eye. He didn’t have any reagents, but then again, he was concentrating waste. He didn’t need to be precious about it. It was trash. If things went poorly, he’d throw it out, wait for more trash to accumulate, and try again.
+
+He bent and lit a fire under the pot. He still had to use matches like a mortal, but he had enough money now that he didn’t have to worry about running out. He had enough matches piled up in a corner of his storage ring to light the entire state of California on fire.
+
+Once the fire started, he began feeding it mana. The fire grew hotter and hotter. The bottom of the pot began to glow red, and slowly, the thick liquid began to boil. Rhys watched it closely, treating it like a pot of soup. When the liquid got too low, and the gunk began to solidify and threaten to burn, he added some water and stirred. His stirring sticks kept dissolving into the gunk, but luckily, he had plenty of trash around to use as sticks. After the first few melted down, he started using Trash Intent on the rest of them, and that helped them survive the gunk a little longer.
+
+There was no recipe to follow. Shockingly, no one had ever tried to cook the noxious remains from potions gone wrong into a yet more noxious potion before. With no other option, Rhys played it by ear, closely watching the pot and letting the potion tell him what it needed. He’d harvested the herbs from his second round of growing them out and sold the best of them to Sorden, but he still had the trashy leftovers that hadn’t made the cut hanging around in his storage ring. He was pretty used to their properties from using them to make his usual potions, and when the nasty concoction before him needed a little bit of any of those herbs to keep from congealing, he quickly added them. He wasn’t too worried about the extra herbs altering the shape of the potion. It wasn’t like he was trying to keep a delicate potion balanced, after all. He was just trying to keep a vile concoction from exploding in his face. The potion boiled and spat, shaking the cauldron with the force of its boiling. It didn’t like being heated, and it made sure Rhys knew it.
+
+Slowly, the cauldron-full of gunk cooked down. The metal creaked as the potion kicked around inside its belly, but it held. The liquid boiled away, and the gunk grew smaller and smaller, but more potent at the same time, and more vicious, too. The cauldron shook, rattling aloud. Rhys struggled to stand over or too close to the cauldron, or else heavy impurities would clog his mana passages. He gathered the impurities into himself, but at a slower rate than sticking his head in the smoke would do, instead absorbing it as it slowly dissipated in the space around him.
+
+Down, down, down. The cauldron trembled. It rattled, hopping where it stood. Rhys drew out a vial. He tensed, one hand hovering over the mouth of the cauldron, preparing to call it up. Not yet. There was still too much. Just a little more. The cauldron shuddered and groaned. Its whole body glowed red-hot. The single handful of liquid gleamed viciously in its heart, giving off such pressure and volatile gas that the cauldron’s walls bent outward. With a ping, a band of metal snapped off the cauldron’s belly and shot across the valley. Rhys shied away, but refused to run. It was almost there. So close! Just a little more, one second more…!
+
+BANG!

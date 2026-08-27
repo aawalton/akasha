@@ -1,0 +1,145 @@
+---
+id: 2b7cd481-cacb-5baf-bb05-9c8edac86f37
+page-type-slug: story-chapter-royal-road
+title: "41. Small Favors for Wet Women"
+slug: 0041-41-small-favors-for-wet-women
+partOf: god-of-trash
+position: 41
+ownLength: 2619
+unit: words
+publishedAt: 2025-04-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2174917/41-small-favors-for-wet-women"
+royalRoadId: "2174917"
+---
+
+Rhys made his way over to the fountain, gently pushing the other trash out of his way. At the fountain, he surveyed the problem. The large trash was no issue. For the most part, he could fish it out with a few sticks, some shimmying, and a little Trash Intent. It was the smaller trash that was troublesome. He didn’t really know what he was going to do about the leaves and the papers floating around.
+
+The ones nearest the edge weren’t too bad. He scooped them out like how he plucked out the big items. His hands got a little wet, but that wasn’t a big problem. The problem was, not all of them were within arm’s reach. Some of them were up against the central pillars and on the far side of the filthy water that filled the fountain, completely out of his reach. Wade in? He’d rather not. Build a net? A better idea, but it would be clumsy and hard to operate, especially with the sub-par materials he had to start out with. Trash Intent could only go so far. He could, at his most powerful operation, draw out the ideal state of the trash at its strongest possible moment, but if he was working with soft wire to start out with, there was no amount of Trash Intent that would make that wire stiff enough to hold the mounds of heavy, wet leaves that had accumulated in the fountain.
+
+Rhys considered for a moment, then looked at Lira and her constantly-raining umbrella. “Would you mind standing in the fountain?”
+
+“Yes. It’s filthy,” she said.
+
+“How about standing by the edge of the fountain so the water pours into the fountain?” Rhys suggested.
+
+She considered, then nodded. “I’m amenable to this.”
+
+As per his instruction, she stood at the edge of the fountain and held her umbrella on that side, putting as much of it over the edge of the fountain as she could. Rain pattered down into the fountain. Thanks to the water being added, the still water of the fountain began to flow. A gentle current slowly began to push the leaves and papers floating in the water to the far side of the fountain. At the same time, the dirt in the fountain flowed out as fresh water flowed in.
+
+Rhys put his hand in the water, testing it for impurities. There were some, but no more than would be found in average water or earth. By now, impurities at that level were meaningless to him. Didn’t spark any excitement. He called them to him anyways, and they responded, flowing through the water into his hand, where he stored them in his core until the next set of impurities he was going to burn. He could have thrown them into the furnace of currently-burning impurities, but he’d only be able to use them to reinforce his core right now, and they were far too weak to allow them to strengthen his core. Better to use them in a weaker, more delicate part of his body, where he could still use weak impurities.
+
+Lira frowned. She looked at his hand. “Why?”
+
+“Huh?”
+
+“You called the impurities to yourself. Why? You’ll weaken yourself that way,” she said.
+
+“Oh… not for me. Don’t worry about it!” Rhys smiled and gave her a thumbs-up.
+
+She narrowed her eyes in suspicion, but said nothing.
+
+The floating trash finally reached the edge of the fountain. Rhys scooped it out and added it to the pile of drying trash by the fountain. When it was all clean, he hopped up onto the fountain’s rim and jumped to the second tier of the fountain. This one was shallower and smaller, and it was easier to gather the leaves and trash out of it. From there, he simply reached up to the third and tallest tier, quickly clearing it as well. He hopped down. Landing on the ground, he tossed the trash into the pile, then nodded at Lira. “Clean enough?”
+
+She sniffed. “Good enough for now.”
+
+Lira lowered her umbrella and stepped into the fountain. She closed it, and as it squeezed shut, the rain cut off. The umbrella spun, retracting into its handle. For the first time, Rhys got a good look at the handle, and he realized it was a loop, about bracelet-width, if a bit round and wide. She slipped the retracted umbrella around her wrist and lowered herself into the water, relaxing backward with a relieved sigh. Water flowed from her body, clear water that replenished the dark water. Thanks to her producing water, water slopped out of the sides of the fountain continuously, and the water in the fountain slowly grew cleaner. “So nice.”
+
+“I cleaned your fountain, so where’s my information?” Rhys asked.
+
+“Where’s your manners?” she asked, tutting.
+
+“Please,” Rhys added.
+
+Lira rolled over. A lock of hair fell in front of her face, and she pushed it behind her ear. Sliding smoothly to the edge of the fountain, she draped her arms over the edge of the fountain. She lifted her finger and pointed up at the mansion, at the upper right window. Like many of the other windows, paper piled up against the window. “Up there. That’s her office. Anything recent would still be in there.”
+
+Rhys smiled, then sighed. It was a lot of paper. He’d take forever to get through all that.
+
+A second later, he widened his eyes and grinned. Unless…
+
+“What’s that look for?” Lira asked. Without waiting for a reply, she let go of the edge and rolled back over.
+
+“Nothing, nothing.” Rhys wiped the water on his robes and headed over to the piles. He drew out his cauldron. He didn’t need another potion yet, but he could always use more potions. Better to have too many than not enough.
+
+He set the piles with the cloths over them on fire. Without Trash Intent, he couldn’t capture all the impurities, but he could capture enough to make it worth it anyways. The first pile he turned into a potion, only to pause, looking at the black gunk. I have nowhere to put this.
+
+Rhys pulled out his potion bottle. From all the drops he’d been putting on his hand as he worked, he’d managed to absorb a quarter of the potion, but he still had a long way to go. He couldn’t fit an entire second potion into the bottle, nor did he have any other bottles strong enough to put such an extremely caustic substance into. He looked at the potion bottle, then took a deep breath. I’ll never get stronger if I never push myself. With that, he lifted the potion to his lips and took a sip.
+
+Instantly, impurities ravaged him. His throat tore open. His stomach began to melt. Rhys ignited them as quickly as he could and surged all the power to his regeneration skill. That skill struggled, barely able to keep up. His wounds began to heal, but too slowly compared to the rate at which his organs deteriorated. Blood poured through his body internally, bruising his stomach horrific colors. Instinctively, he clutched his throat, resisting the urge to gag. It hurt, burned like acid. Everything inside him ached fiercely.
+
+Poison Resist 3 > 8
+
+Impurity Resist 13 > 15
+
+Acid Resist 8 > 10
+
+Pain Resist 40 > 41
+
+Self-Regeneration 19 > 22
+
+For all that his resist skills had leveled up, it didn’t do him any good if this poison melted his organs. Rhys’ body rapidly failed. He dropped to his knees, his strength leaving him.
+
+I can’t go on like this. I’ll die. But what…
+
+Lira sat up in the water. She watched him from the fountain, her brow creased in mind concern.
+
+Rhys shook his head. He couldn’t give up now. Not yet. He clenched his hand. If he couldn’t regenerate fast enough, he’d die. If his skills didn’t let him regenerate fast enough, then he’d have to manually regenerate himself!
+
+He delved into himself. Impurities flowed all around him, burning up even as they poisoned his body. The burning process unleashed all the energy within them and purified their impurities, leaving only clean energy behind. Clean energy that he could freely shape into anything. Compared to mana or any other source of energy he’d encountered so far in this world, the energy that emerged when impurities burned was far more responsive to his will. So he reached out and clutched that energy, dragging it to him. It was his, now, and he’d do what he wanted with it!
+
+He first turned to his throat. Dragging the energy forth, he forcibly fused it into the remaining undamaged cells there, reinforcing them. They grew stronger, more durable, more able to absorb impurities and more able to resist the impurities’ damaging taint. He pushed them, using the energy from the burning impurities to force these more durable cells to replicate. The more durable cells spread, and he rebuilt his throat, reconstructing it from the inside out. Every time he ran into a new set of cells, he repeated the process, until he reached his stomach.
+
+His stomach was a mess, leaking acid and impurities everywhere. It was riddled with more holes than a sieve, its internal and external structure ravaged by the impurities. All the other organs below it cried out in pain as its acid damaged them.
+
+I was wondering why Acid Resist leveled up. It wasn’t just because the impurities potion was too dangerous; it was because his own organs were damaging themselves.
+
+Rhys dove in. Once more, he reinforced his stomach with the once-impure energy, then schooled those cells to replicate and replace the weak cells that had come before. Rather than simply fix it from the top down, as he had his throat, he patched the holes first, cutting off any new acid from escaping, then pushed the new reinforced cells to replace the weak, old cells.
+
+This whole process took an immense amount of mana. Each cell he created anew required as much mana as one of the initial trash piles could produce, thanks to how incredibly resilient he was forced to make each cell in order to prevent the impurity potions from destroying them. Before he was halfway done with his stomach, the sip of the potion he’d taken was already running dry.
+
+Rhys lifted the potion to his lips without hesitation, his eyes blazing with resolve. Only one way to solve that problem!
+
+“Are you sure about that?” Lira asked from the fountain, now deeply concerned. “That thing’s killing you, you know that, right?”
+
+He didn’t even hear her. The potion flowed down his throat once more. This time, it destroyed little on the way down. Rhys grinned. The little it destroyed only showed him where he hadn’t fully strengthened his cells! He welcomed the trial by fire. If his cells weren’t strong enough to hold up to the potion, then he’d simply have to make them even stronger!
+
+He finished refining his throat and quickly moved on to his stomach. It was leaking once more, but once more, he patched the holes. He worked more quickly here than on his throat, since every moment he didn’t have a complete stomach, all his other organs took damage. As a result, the cells he created were less resilient than his throat’s cells.
+
+But these are only the first batch. As soon as the cells were barely able to hold the burning impurities without dying, he deepened his focus on them. He pushed them full of mana and rebuilt them, then spread the rebuilt cells through his stomach.
+
+The impurities began to burn down. Rhys took stock of his internal state. His stomach had more-or-less finished regenerating, but the rest of his organs still suffered, injured by the impurities and his own stomach acid.
+
+Why stop now? Rhys took another sip of the potion. He shored up the few cells of his stomach and throat that died under the next sip of potion, then drew the rest of the energy forth. He faced his organs and threw the energy at them. It was time to manually regenerate his organs. They’d all be stronger, by the time he was done with this potion!
+
+One sip after another, Rhys drank the potion. One batch of impurities at a time, he strengthened his organs. Intestines, kidneys, liver, bladder, pancreas, every organ he could name and some he couldn’t—he strengthened them all, one at a time, pouring mana into them to reinforce their resilience and enhance their natural properties.
+
+At last, the potion bottle came empty. Rhys gazed within himself, looking over his strengthened organs. He no longer faced any danger from drinking the potion. It should be easier to absorb it now. He still had the problem of only owning a single potion vial strong enough to hold these potions, but that was a topic for future study… if he could even copy the potion bottle in the first place. There was something about it. A hint of someone else’s path. If that path was why this simple bottle was so strong, then he wasn’t sure he could recreate it at all.
+
+But I won’t know until I try.
+
+Rhys called the potion out of the cauldron and into the now-empty bottle. He tied up the ash and sent it into his storage ring, then turned and faced Aquari’s mansion. He was a bit tired from absorbing that potion, a little worn out, his focus frayed. It would be dangerous to keep drinking the potion in this state of exhaustion.
+
+But it wouldn’t be dangerous to go leaf through some papers and level up his Speed Reading, while also searching for information on that teacher—his real goal coming up here.
+
+Or my secondary goal, at least, Rhys admitted to himself. His real goal was to get strong enough that no one could take anything away from him, least of all his precious trash, so the trash was of course his primary goal. Still, he was up here at least partially because of the papers and the ability to know more about his upcoming task, so he figured he might as well.
+
+He turned. “I should go get Az.”
+
+Mew.
+
+A soft body brushed against his ankles. He looked down. A small tuxedo cat with long legs wound around his legs, gazing up at him with unreadable amber eyes. It—or rather, he sat down, still looking at Rhys, then lifted a paw and began grooming himself.
+
+“How’d you get past the barrier if you aren’t even supposed to be here?” Rhys asked.
+
+The cat mewed again and stood on his hind legs, stretching its paws high up his leg and extending its spine as far as it could. Understanding his demand, Rhys picked him up.
+
+“It’s surprisingly easy to evade human barriers, if you know what you’re doing,” Lira offered.
+
+Rhys looked at her, idly petting Az. The tuxedo cat curled up in his arms, purring in contentment. “Are you also not supposed to be here?”
+
+She bared her sharp teeth at him in a sort of grin and rolled back over to float in the fountain once more.
+
+Dammit, why is this mountain crawling with creatures that aren’t supposed to be here? Rhys sighed to himself and shook his head. It wasn’t his problem. Aquari was the one who wasn’t running a tight enough ship. He made a mental note not to admit that he’d cleaned up the fountain for Lira’s sake, and turned toward Aquari’s mansion.
+
+“Let’s go organize some files,” he declared.
+
+The library cat in his arms let out a ferocious purr.

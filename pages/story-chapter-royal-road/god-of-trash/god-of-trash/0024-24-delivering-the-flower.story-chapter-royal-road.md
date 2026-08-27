@@ -1,0 +1,163 @@
+---
+id: ee358eab-0971-58cb-8edf-f095bcf19691
+page-type-slug: story-chapter-royal-road
+title: "24. Delivering the Flower"
+slug: 0024-24-delivering-the-flower
+partOf: god-of-trash
+position: 24
+ownLength: 2562
+unit: words
+publishedAt: 2025-03-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2135332/24-delivering-the-flower"
+royalRoadId: "2135332"
+---
+
+Rhys rushed across the peak, Tarais at his heel. When the students saw him coming, they dismissed him, but they cleared out of the way at the sight of Tarais, a rare Tier 2 student. In such a way, the two of them ran easily across the peak almost entirely unobstructed. Rhys wrapped his arms around the pot, hugging it tight to his chest. He protected the delicate flower with a raised hand, shielding it from the wind that blew around him from running. Coolness brushed against his chest, emanating from the flower’s heart. The mana from the bloom pulsed, nearing a fever pitch. The time to harvest it was now, but he didn’t know how, and didn’t want to risk damaging it.
+
+Tarais patted his shoulder. She pointed. “She’s in class.”
+
+Rhys nodded. Without hesitation, he beelined for the potions class and threw the door open.
+
+It slammed against the wall. Once more, the whole advanced class stared at him. The same boy from before lifted a lip, sneering.
+
+Sorden looked up. “I did invite you to come by anytime, but I hoped you would be more subtle.”
+
+Rhys lowered his protective hands, showing her the bloom. “It blossomed! The Star Ice—”
+
+Before he finished, Sorden stood in front of him. He hadn’t seen her move, so quickly had she flashed from the front of the class to in front of him. She stared, eyes wide, open-mouthed. Her hands hovered around the flower, almost afraid to touch it.
+
+“Professor?” the boy asked.
+
+“Class dismissed.” Sorden dashed back and forth for a second, lost on where to go, then sprinted off. She returned with a set of very specific blades, each one a different width, hardness, and span. Taking the pot delicately from Rhys, she knelt on the floor right in front of him. Holding her breath, she watched the plant closely. The mana beat, pulsing faster and faster. As it reached its top speed, her hand lashed out. A dozen precise cuts filleted the plant where it stood, separating bud, petals, leaves, stalk, even the roots were sectioned up. Another flash of hands, and she quickly, but carefully, stored each individual piece in a separate vial.
+
+Most of the students quietly filed out the other door at the front of the classroom. Most of them. The boy who’d questioned Rhys this whole time stood at his seat, his arms crossed. He narrowed his eyes at Rhys. “Why is he allowed to recklessly interrupt our classes? If I attempted the same, you would—”
+
+“Bring me a perfect Star Ice Flower, and I’ll let you interrupt any class you want,” Sorden interrupted him, distracted. She nodded at Rhys. Lifting the vials, she said, “I need to brew these immediately. Five times your initial reward… it’s not enough, for what you’ve given me. See me tomorrow, and we’ll discuss a more worthy reward.”
+
+The boy’s jaw dropped. “Professor! This blatant favoritism—”
+
+Sorden dashed off, completely dismissing the boy. With the teacher gone, he immediately turned to Rhys instead and marched up to him, pointing directly at his chest. “Why do you get special treatment?”
+
+Rhys smiled. He offered his hand to shake. “Hi, nice to meet you! What’s your name?”
+
+The boy froze. He narrowed his eyes and put his hands behind his back, where Rhys couldn’t possibly touch them. “You can call me Alun.”
+
+“Alun. We got off on the wrong foot, I think. Listen. I know I’m trash. You don’t need to push me down, or anything. I’m quite happy here at the bottom.”
+
+“Why is Sorden letting you act like no one else can, then?” Alun demanded, crossing his arms.
+
+Rhys spread his hands. “Sorden doesn’t care about me. She cares about the herbs I grew. If you grow her some herbs, she’ll treat you the same way! It’s that easy. See? No secret to it at all. I’m just someone who worked in the mud, that’s all.”
+
+Alun scoffed. “As if I could get into her good graces by growing any old herbs. You’re doing something, Inflating your output, so you look better to Sorden. What are you doing? Stealing someone else’s herbs? Reselling another mountain’s herbs at a loss?”
+
+“I’m too weak for the first, and too poor for the second. I work hard. That’s all.”
+
+Alun wrinkled his nose. “I’ll figure it out. Whatever you’re doing, whatever dirty nonsense you’re up to, I’ll search it out and lay it all bare before Sorden!”
+
+With that bold declaration, he marched off.
+
+Rhys watched him go. He sighed. “I’m not the best at making friends, huh.”
+
+“Why’d you say that? You basically told him to be suspicious of your herbs. What if he finds out you can, in fact, grow valuable herbs, and tries to steal them?” Tarais pointed out.
+
+Rhys shrugged. “I had you at my back. You’re a Tier 2. He’s a Tier 1. He isn’t going to fight you. Besides, he knows I have Sorden’s backing. If he’s foolish enough to steal my herbs, he’ll find out that a Professor is quite proficient at identifying how herbs are grown… including the signature signs of my very specific technique. If someone else shows up with herbs that look like mine, she’ll be suspicious. All I need to do is show up and tell her the truth, and it’s curtains for him.”
+
+“What if he outright attacks you instead?” Tarais asked.
+
+“Would you attack someone who showed up to class unannounced with a friend a Tier higher beside them?” Rhys asked her rhetorically.
+
+Tarais snorted. “Fair point.”
+
+“If he does try to attack when you aren’t there, he’ll find out I learned quite well under the Strawman. That, and I’ve got a few new moves I want to try out, courtesy of Cynog.” Rhys grinned, cracking his knuckles. He still wasn’t an earth-shaking martial artist, but compared to some random potion-brewer at the same Tier, he was confident he could hold his own.
+
+“What I don’t understand, is why he’s so broken up about this. Shouldn’t he be happy that his teacher is getting excellent herbs, even if it means class gets canceled a few times?” Silently, he added, and plus, isn’t class getting canceled a bonus?, but he kept that to himself. He got the feeling that student-mages in this world didn’t feel the same way about school that years of obligatory public schooling had inflicted upon him.
+
+“Alun is… well, he’s considered a prodigy in potions. He was Sorden’s favorite student until you came along. He’s probably a bit envious of the attention you’re getting from her, now that she’s paying more attention to you, than him,” Tarais explained.
+
+Rhys nodded slowly. “Jealousy, huh?” Nothing he could do about that. He sighed. “Crazy that he’s jealous of the garbage collector.”
+
+Tarais shook her head. “That’s probably part of it. He thinks you’re not worthy of her attention because you’re the garbage collector, who obviously ranks below him. He doesn’t see you as a fellow student who deserves to compete for Sorden’s attention, but instead, a servant who’s daring to reach above his station.”
+
+“But I’m a fellow student who chose to collect the garbage,” Rhys pointed out.
+
+“True, but does he conceive of you that way? The truth doesn’t matter. What matters, is how Alun feels… to Alun, anyways,” Tarais added.
+
+Rhys sighed. “Oh, whatever. Nothing I can do about that. If he comes after me, I’ll shut him down. If he passively hates me forever, that’s his problem.” He glanced at Tarais. “Unless he has some kind of formidable backing?”
+
+Tarais shook her head. “Not so much. To an ordinary student, I’d warn that he’s one of Sorden’s favorites, but you’re clearly held in higher favor at the moment. As for his family or anything like that, if anyone here had that kind of backing, well… they wouldn’t be here. At best, a student here might have parents who are bigshots in the mortal world. Most of us are from no-name mortal families, who leaped at the chance to give their child any shot at being a mage, no mind if it was from a school they’d never heard of before.”
+
+Rhys nodded. He could relate. It was like predatory for-profit schools back where he was from. People were so desperate to have a degree that they’d do anything to get one, even pay exorbitant rates for what amounted to worthless paper. If the prize was magic, godhood and immortality, he could only imagine how much harder someone might fight to be a part of that.
+
+After a second, he tilted his head. There was one part of that which had been bothering him from the start. Until now, he hadn’t had anyone reliable to ask, but Tarais seemed knowledgeable about this kind of thing. He nodded her way. “If this school is so lowly regarded, then why was Schoolmaster Aquari summoned to the same meeting about the Strawman that the Sword Saint was?”
+
+Tarais laughed. “Oh, that’s easy. It was a coincidence. The city where we captured him is technically within the bounds of the Infinite Constellation School’s territory. Though the city itself hasn’t paid tribute to our school in ages, and treats us with disdain, preferring to pretend it has no relation to us at all, it’s still technically within our bounds. That alone gave Schoolmaster Aquari the right to attend that meeting, if she likely didn’t have much right to speak.”
+
+“Ah… no, that explains a lot,” Rhys murmured. Such as why she’d picked him up. If he was technically found within her boundaries, but was so weak that not even the quasi-independent city wanted to pick him up, then by the same technicality that gave Aquari the right to be there, she was also honor-bound to take him in. Though, given how stinky her peak was, I imagine she might have ducked that responsibility a bit harder if I hadn’t offered to be her janitor.
+
+He glanced at Tarais. “I’m surprised you can speak so frankly about your own school.”
+
+Tarais spread her hands. “Schoolmaster Aquari knows all this, and more. She isn’t the kind of tyrant who refuses to face reality, and she doesn’t mind if we vent about it a bit, as long as it’s not to her face… or blaming her.”
+
+Rhys winced instinctively, flashing back to his lecture to Cynog. He’d really been out of hand back there. He had to remember he wasn’t on the internet, waxing eloquent about trash. He was in the real world. If he didn’t give someone face, they very well might cave his in. “Yeah… I get that. But I meant you, personally. Don’t you have any affection for your school?”
+
+“I do, of course I do. But I think it’s foolish to allow sentimentality to cloud one’s vision. It’s best to face reality and do your best to overcome it, than to flee from it and give up.”
+
+Rhys nodded. “Good, good. So, have you faced the reality that you aren’t trash?”
+
+Tarais opened her mouth, then laughed. “Let’s just say there’s advantages to lying to oneself in the interest of promoting self-growth. Wouldn’t you agree, Rhys?”
+
+Rhys blinked at her, lost. “What’s that supposed to mean?”
+
+“Oh, come on. You don’t actually believe you’re still trash, do you? Everyone knows you’ve been getting one-on-one tutoring with Cynog. You survived actually pissing him off. And just now, when I told you Alun was a potions genius, you told me you would beat his face in without a moment’s hesitation. Is that how trash behaves?”
+
+Rhys shrugged, spreading his hands. “From my perspective, that’s an awful lot of trashy behavior on my part.”
+
+Besides, she just didn’t get it. Trash was a starting point. It was because he was trash, that he was willing to trash his body to advance. If he wasn’t trash, he might treat himself preciously and not trash his body, and instead find another way to advance that didn’t involve mashing himself into garbage. But because he was trash, he lost nothing by becoming even more horrible garbage, and only stood to gain.
+
+It was Tarais’ turn to blink at him. Her jaw worked, words struggling to emerge, and then she threw her hands up. “I give up.”
+
+“Don’t give up yet. I’m just getting started,” Rhys replied on instinct.
+
+Before he was forced to figure out a way to follow up those words, Sorden returned. She nodded to Rhys. “Apologies. I had to store those stably… and directly transmute a few, before I had breathing space to continue our conversation. Now then, where was I?”
+
+“Something about five bags of gold not being enough to repay me,” Rhys replied.
+
+She nodded. “Right. No, and that’s correct. Five bags of gold is nothing. This herb is… it’s beyond my wildest dreams. The purity, the life force… if only I knew your secrets! No, no. I’ll give you the bags of gold. But beyond that… is there anything you want?”
+
+Rhys considered for a moment. He held up two fingers. “Two things.”
+
+“Speak. Whatever they are, I’ll grant them, as long as they are within my power,” Sorden promised.
+
+“One, individual potions tutoring. I can more-or-less read a recipe and follow it, but there’s some advanced techniques that I don’t get yet. I’d love to dive deep on those and learn from the best.”
+
+“Of course. Naturally. I was planning to ask you to study with me, if you hadn’t asked,” Sorden replied, nodding easily.
+
+“Two. Access to the upper half of the mountain.”
+
+At that, Sorden hesitated. She gritted her teeth. “That… is not my decision alone. It will be difficult, especially given your low Tier. Most students are not permitted to enter the upper peak until they are Tier 3, at least. Might I ask why you want to enter the upper peak?”
+
+“I want to gather the garbage up there,” Rhys replied.
+
+Sorden froze. She stared at him. “What?”
+
+“I want to gather the garbage. There’s so much of it! Piles and mounds! I want to clean it all up and take it back to my garbage dump,” Rhys explained.
+
+“Why?”
+
+He shrugged. “I’m obsessed with trash.”
+
+Sorden stared at him for a moment. Emotions flashed over her face, everything from disgust and despair to shock and confusion. Her jaw dropped, then slowly shut. At last, she laughed aloud. “Obsessed with trash! What a thing to be. Well, well, I’ll see what I can do.”
+
+“Thank you. I understand if you can’t. And I don’t need permanent or unsupervised access! I just want to clean up the trash. Whatever caveats you need to enforce, I’ll likely be able to bear them.”
+
+Sorden nodded. “We’ll see if I can’t get you unfettered access. You have done a great deal for me, after all. If it was my decision alone, I’d let you through right now, but you understand, these things cannot be decided by one lowly Adjunct Professor.”
+
+“Of course, of course,” Rhys replied, nodding. He bowed and retreated.
+
+At the door, Sorden’s voice echoed. “Oh, and Rhys?”
+
+He looked back.
+
+“I’ll see you in class tomorrow, six o’clock sharp. I’ll have your gold then… and with any luck, an answer on your request.”
+
+Rhys grinned. He saluted and walked off, Tarais following after him yet again.

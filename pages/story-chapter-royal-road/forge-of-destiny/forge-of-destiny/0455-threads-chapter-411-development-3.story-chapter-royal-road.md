@@ -1,0 +1,149 @@
+---
+id: 968db94e-6ff9-5bdc-a262-5f9a918ca808
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 411-Development 3"
+slug: 0455-threads-chapter-411-development-3
+partOf: forge-of-destiny
+position: 455
+ownLength: 2126
+unit: words
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1877949/threads-chapter-411-development-3"
+royalRoadId: "1877949"
+---
+
+The earth vibrated, a deep rumble rising up from the depths far beneath her feet, growing in intensity as it neared the surface. With it came a tide of flame and heat, flaring the pulse of the veins that ran under the earth. Pebbles rattled. The pressure in the air grew. Then, flame-flecked water erupted, a scalding pillar that rose many meters into the sky.
+
+Ling Qi leaned back into the wicker chair that had been built and bound to Zhengui's shell, watching the boiling droplets rain down. Wherever they crossed into the shell of colder air around her, they burst into puffs of drifting snowflakes, which in turn melted as they touched down on Zhengui's shell. The rapidly alternating temperature kicked up a low, constant whirl of wind around them both, tugging at the hems of her gown and causing his ash to drift in swirling patterns.
+
+"So, the thunderhoof jerk does not act like a proper king, even though he is very big and hogs a whole section of the veins to himself," Gui explained cheerily to her. "Scholar friends think he will only challenge Zhengui if I say I am king of the big clifftop, though!"
+
+"I, Zhen, will thrash this challenger with my big sister and the little star and others, because a king does not fight alone."
+
+That was taking a fourth grade beast too lightly, but Ling Qi didn't feel the need to be too serious when Zhen was puffing himself up. She simply made a mental note to keep him away from the reserved zone around the powerful beast.
+
+"I am sure you will come out on top when the time comes," she said instead, watching the geyser descend as the pressure lessened, the waters burbling back down into the cracks in the earth. "What about the lower vale, here in the north?"
+
+"There are the funny wood-rat friends at the Falling Waters Palace, but the rest is not very organized," Gui replied. "Little courts full of silly fairies and wood spirits and some beasts who are big but much smaller than Gui, but there are a few who hold places in the hills and woods who Gui will have to talk to."
+
+"They will submit to I, Zhen, or be humbled and shown their error." Her little brother tilted his head upward to let her easily scratch his serpentine jaw and throat.
+
+"Gui thinks we should make them understand with words rather than biting, like Big Sister does."
+
+"Obviously, but do you think these old and stubborn beings will accept a new court so easily? Gui should not be foolish!"
+
+His other half twisted his head to look up from where he rested belly, down on the faintly glowing stone. "Gui thinks that Zhen is bored and wants to pick a fight."
+
+"As if Gui knows better. It is not as if you are not making things up, too!"
+
+"I am trying to learn from Big Sister!"
+
+"Big Sister's talking is not the same!"
+
+Ling Qi listened to them bicker with the ease of long practice. As the final remains of the boiling mist faded from the air, deep below, she could feel the pressure building up again.
+
+"Can I ask how it is different?"
+
+They both paused, looking at each other in silence. It was Zhen who finally spoke up with some reluctance.
+
+"Because humans are humans, and beasts are beasts. Human kings are kings because they are strong and because they have many strong people who listen. A spirit king is king because they are king."
+
+Gui snorted. "And Zhen says he is the refined one. A spirit king is the land. They make things happen right because they are the thing which makes all the small things move like they should. Like the little star, if she did not have to write all the papers and say all the words and if the humans listening were the wind and the stones and the trees and stuff."
+
+"It seems to me that you must still convince others to fall in line and do their duties," Ling Qi said.
+
+"That is how Hanyi is, but she is not a king, and won't be, Gui thinks. She is a more human-y thing." Gui’s glowing eyes were slitted and squinting in thought. "What scholar-friend calls an int-er-med-iar-y spirit, one who is like Big Sister, but for spirits and spirits instead of humans and spirits or humans and humans like Big Sister."
+
+Ling Qi furrowed her brows as she parsed what he’d said. She didn't fully understand the difference he was speaking of, but she did understand that as he was coming to the verge of actually acting on his claim, he found himself anxious and without guidance. And unfortunately, it wasn't guidance she could give him because in the end, Ling Qi was not a spirit, whatever jokes others might make about her attitude.
+
+"Do you think there are any you could speak to? Perhaps the Leigong?" Ling Qi asked. She doubted if even now, the dragon patriarch of the sect would give either of them the time of day without expending favor they didn't really have.
+
+"I, Zhen, am not sure. But Big Sister should not worry. Zhen is very mighty and smart, so he will figure it out!"
+
+Ling Qi nodded.
+
+It had been a long time since she had first walked in the dream. B, she had gone down among the stacked ruins and the infinitely high trees around the sect, and seen the scaled behemoth lizard that burrowed there, the dream-shadow of the endlessly regenerating corpse she had met in Elder Ying’s trial during her time in the outer sect. That corpse had been the source of the core that had been used to make Zhengui’s egg.
+
+If Zhengui had questions about his own nature… perhaps there was someone who could answer.
+
+She turned that over in her thoughts. The little stones strewn around them were beginning to rattle.
+
+"If I could find someone who could speak to you and give you insights, would you like me to?"
+
+The light bickering that had resumed while she was thinking died away again, two sets of eyes, verdant green and magmatic orange, falling upon her. "... Zhengui would be happy."
+
+"Well, I have an idea then. However, your big sister will need to recover more first, okay?"
+
+"I, Zhen, must still keep laying down the roots of Zhen's throne, so it is fine."
+
+"Gui has lots to do, so don't worry!"
+
+She reached down and patted Gui on the head, straightening up to do the same for Zhen. "Good. Now, is another geyser coming again soon?"
+
+"Yep!"
+
+"Yes, watch, sister! Zhen shall make the fires bloom better in this one!"
+
+***​
+
+"What is your judgment?"
+
+"Snowblossom is progressing very well, but we probably want to give the town its own name soon, so we don't confuse the spirits," Ling Qi replied.
+
+The central meeting hall of the manor was an airy, spacious room flanked by columns carved, or perhaps grown, in a way that made them seem as much natural tree trunks as artificial supports. Cai Renxiang's seat at the top of the five steps of the lord's dais was carved from red wood, gilt with white silver, and carved with scenes from the Cai's short but busy history. She, Gan Guangli, and Xia Lin were the only occupants kneeling upon the thickly carpeted floor before the dais.
+
+"I admit, you are a better organizer than I, Lady Cai, so I do not know how useful my impressions are." Ling Qi folded her hands atop her thigh. The sensation of pins and needles was minimal today, her practice having done much to restore the use of her legs. She had had to argue to not use her chair for the meeting, and her cane lay beside her.
+
+"I do not ask you to judge the movement of goods or the plans of builders. I ask to hear what you feel from the people," Cai Renxiang replied.
+
+"There are few enough of them yet. The general feeling is hopeful, wary, and excited. At this stage, there is no one who is not engaged in the task of building something, whether for themselves or for the community. They do not fear the wilds, but they do fear the clouds and the darkness under the earth. I would say that we are assuaging their concerns as well as we possibly could."
+
+"We have our watchers, but this remains contested territory, and war is still afoot," Xia Lin said. "It would be good to see to the breach on the plateau."
+
+"You speak of the underground connection in the Cathedral of Winds?" Gan Guangli asked. "I agree that should be addressed as well. An additional cultivation site of such potency will also improve our soldiers’ prospects."
+
+Ling Qi suppressed a smirk. The moniker she had assigned to the site had stuck. Renxiang couldn’t even complain this time.
+
+"We may not have time to fully clear the location, but reinforcing the spirit there to keep the impurity contained and hostile entities from emerging would be helpful."
+
+"There is also the matter of the beast court at the Falling Waters Palace as well. It is even less likely we can solve that problem before the upcoming offensive against the ith kicks off." Gan Guangli grimaced. "I have spoken with the beasts a few times. They call themselves 'beavers.' I have helped them rebuild some defenses, but we do not have the personnel to reinforce it yet."
+
+"We must focus on where we can be effective for now," Cai Renxiang decided. "For now, I agree that the underground taint must be dealt with. It will be a good exercise to perform before the offensive. In addition, we will wish to develop local cultivation sites and spirit patronage. The sooner this place's basic rites and spirit patrons may be settled, the less uncertainty our people will have."
+
+"I will be prepared to entreat Snowblossom Lake for a proper contract soon," Ling Qi advised.
+
+"A road to your cultivation grotto to begin development and preparations for mining will be useful as well," Xia Lin said. "I assume the cathedral reclamation would be a project primarily for ourselves?"
+
+"I may be able to draw on a sect friend for assistance." Ling Qi thought of Li Suyin. "But I do not think it would be a suitable task for our soldiers."
+
+"They are brave and dedicated, but this is not an appropriate foe for them," Gan Guangli agreed gravely.
+
+"Defense will be required at the settlement walls while we are away," Cai Renxiang noted. "Ling Qi, you indicated that you and your junior sister will see to ensuring the weather courts of the region are at least non-hostile?"
+
+"Yes," Ling Qi replied. "We are drafting plans of our tour through the mountains. Bao Qian shall be acting to keep us supplied for any minor shrine construction or offerings which will be needed on the route."
+
+"Very good. Xia Lin, you will be running pacification routes through the wilderness along the routes of the planned site roads?"
+
+"Yes, Lady Cai."
+
+"Then, Gan Guangli and I shall remain in the center, overseeing construction, public order and safety," Cai Renxiang finished.
+
+"Should we turn to the matter of a name for the settlement?" Ling Qi asked. "Unless Lady Cai has already decided and filed the forms."
+
+Cai Renxiang steepled her fingers in front of her face, looking down at Ling Qi balefully. Ling Qi merely smiled back.
+
+"I have not. As this is a project for which we are all investing heavily, it seemed to me that discussion was best."
+
+"It is most appreciated, my lady," Gan Guangli boomed.
+
+Xia Lin was not as interested in this topic, but she still hummed thoughtfully, eyes wandering over the naturalistic carvings in the hall.
+
+Ling Qi was growing increasingly certain that Cai Renxiang's naming sense was very… bland. Her friend was simply not a poetic soul.
+
+"Although we do not wish to give the settlement the same name as the lake and river, I feel that some reference or allusion should be made," Xia Lin proposed. "Or perhaps something which references the heights?"
+
+"It is important to consider the omens of a name as well," Gan Guangli said. "To say what is desired rather than merely what is!"
+
+"Those are both good points," Ling Qi acknowledged, aware of Renxiang's hawklike gaze upon them. Best not to be too silly. Renxiang had been working hard and didn't need the teasing at this moment. So, an aspirational name like overcoming hardship and a name that references snow or blossoms like saintly dew…
+
+"How about Shenglu?"

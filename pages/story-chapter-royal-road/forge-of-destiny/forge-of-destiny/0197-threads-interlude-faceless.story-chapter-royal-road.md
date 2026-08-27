@@ -1,0 +1,63 @@
+---
+id: 46491f2b-387e-5268-be92-2be113170ecc
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude: Faceless"
+slug: 0197-threads-interlude-faceless
+partOf: forge-of-destiny
+position: 197
+ownLength: 1131
+unit: words
+publishedAt: 2021-12-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/814175/threads-interlude-faceless"
+royalRoadId: "814175"
+---
+
+Once, there was a child who lived in the roots of the great World Tree. In the wondrous city of dreams, ruled by the Lord of Heavenly Lies, they lived in base reality, in dirt and muck and blood. They lived in the dark in chains of coin and paper. Owned, they were. Used, they were. In the lowest roots, there was only cruelty and the laughter of petty little gods.
+
+Once, there was a child, but unlike the countless others, they heard the dark, and the dark heard them. They welcomed it, they loved it, and in the dark, there was no more pain. They fed it blood, they fed it memory, they fed it their face, and in return, they were given power.
+
+The first pleasure in their life was the feeling of a brightly colored man’s throat breaking under their fingers. O, how the man’s fists had once hurt. O, how useless the man was, flailing against the child now. They took the color, they took the light, and both the faceless child and the dark hungered for more. This, thought the faceless child, was justice.
+
+There was no time in the dark, no light in the roots to track the days. In the beginning, they were drawn to little flesh peddlers like the colorful man before. They learned to stalk, to skulk, wrapped in the dark. They studied, they searched, and they picked off the men, one by one, drop by drop, feeding on fear and paranoia. The men hid, babbling, crying, and dying. The faceless child's fingers found their throats every time. There was no mercy for the children, the men, or the women in the dark. Why, then, should there be mercy for monsters? This was justice.
+
+The dark grew in them, and its hunger grew too. The faceless child grew tall and strong. They began to take more than the colorful men, the flesh peddlers. They sought their masters, the paper lords, whose ink brushes wove the chains. They sought the alchemists whose hunger for reagents exceeded even the lusts of the peddlers. They sought the lord’s enforcers who made new laws in their minds for each victim of their violence.
+
+They hunted, and they grew. The cruel ones in the rootways began to know fear. People began to leave offerings and signs of thanks. Their whispers told them of those who deserved justice.
+
+Then, the day came when they had drawn the attention of the high ones. The faceless faced a lord of lies, descended from heaven to discover what the commotion among his servants was.
+
+It was the end. They were caged, chained, and bound once more. The faceless wished to scream with a voice they no longer had. They had not been strong. They had only been an amusement for the lord, now kept in bondage.
+
+But one day, after a day of terrible sound and fury, their captor had not returned. The cruel ones were in chaos, and with none maintaining their cage, the faceless slipped free. They were hungry and weak, and so they slipped out to hunt and feed once more
+
+But it was not to be. A star descended into the dark.
+
+The star had many hands, silver metal and plumed in white. The flesh peddlers burned. The alchemists boiled. The paper lords were bound in their own chains or cast down among their victims. The enforcers’ skulls lined the streets. Nightmares of the liar lords melted under the star’s light.
+
+This was justice.
+
+The faceless had gone to the star and knelt. She had thanked them for their hard work and praised them for their devotion to justice. She had chided them for focusing too much on destruction. She had rewarded them with a new face and a new name, woven from moonlight and hope, and made them her disciple.
+
+Shu Yue idly traced the contours of their face with their fingers. Even after two hundred years, it felt strange. They did not know who they had been before they had embraced the dark, and in truth, it did not matter. They had been a child, one of many or perhaps many made one.
+
+What mattered was their justice and their lady’s justice.
+
+They crouched now on the sheer cliff overlooking a snowy plane, observing the advance of Her Grace’s daughter and companions. They disliked this. To be so far from the people, so far from the cities which needed them, rankled on a deep level. Yet this was what was needed of them. To ensure no sabotage occurred. To ensure that Lady Renxiang came home.
+
+They were not like Lin Hai, who loved the young miss, but they did love Lin Hai. It would hurt him if the heiress was lost, so they had not objected to the assignment too much.
+
+So Shu Yue watched from within the mountain’s shadows as they met with the foreigners and advanced toward the mountain of iron.
+
+Embraced by the dark, they could feel the mountain’s gaze, feel his attention and protective instinct. It was not so dissimilar to them. They were the shadow in the night, punishing the wicked already inside. The mountain was the wall which kept the predators from the den.
+
+They were seen. They were acknowledged. In the world beyond the physical spindly, too long fingers met an iron palm, and understanding passed. Their purpose was the same. Guard the children. Guard the future. Acceptance, awareness, and acknowledgement of conflict should their children come to blows was exchanged.
+
+Shu Yue nodded in satisfaction as the contact ended, peering back down at the children again. Their gaze fell on the tall girl who followed in the Young Miss’ steps, the one who had entered Lady Renxiang’s mind and drawn her out of the snow hag’s lies. There were parallels there, they thought. The little shadow used the dark also, but the Young Miss’ shadow did not love it. Their purpose was not so honed, their origin not so dark.
+
+In their mind, this was good. Shu Yue had been born from abomination. If there had been a second like them, their fingers would need to seek many throats. No, in truth, their similarities were few, just as the Young Miss did not truly resemble Her Grace.
+
+The Young Miss and her shadow were born of the world which had come after, and so they were less hard, less violent. Softer. Many called this weakness, that the youth, unknowing of hardship, would bring ruin.
+
+The child born in the dark knew better. That was the secret they had been given at the feet of the star. It was not enough to destroy the wicked for they, too, were wicked in their way.
+
+Their replacements would be better.

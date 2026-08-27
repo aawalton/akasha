@@ -1,0 +1,159 @@
+---
+id: d1bdb688-23df-5293-b192-01d77459926b
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Four: Suspicion"
+slug: 0107-chapter-one-hundred-four-suspicion
+partOf: flesh-eater-demon-evolution-litrpg
+position: 107
+ownLength: 2344
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3674369/chapter-one-hundred-four-suspicion"
+royalRoadId: "3674369"
+---
+
+If Pyre had held any doubts about Lord Alardice’s influence in the city before, they were immediately quelled the moment she saw him step through the crowd.
+
+Everyone seemed to know who he was. Even the most curious, enthusiastic spectators hurried to get out of his way as he strode forward. There was respect there, of course, a bit of awe, and a certain nervous trepidation that hadn’t been present for any of the knights’ arrivals.
+
+“Oh great,” Agnes muttered under her breath. Pyre’s eyebrow rose at that, but the knight captain quickly schooled her expression into one of stoic respect before the demon could confirm what she’d heard.
+
+“Lord Alardice, lovely day,” Agnes greeted with a practiced bow. The man grunted in acknowledgement.
+
+“Yes, lovely day,” he said dismissively. His dark eyes scanned the street with an almost flippant disinterest, as if being here was beneath him.
+
+To Pyre’s side, Callan tensed a little when his gaze passed over their group, but it just kept moving. Only when his eyes landed on the medics did he pause. There, Llyr was still hunched over the injured man, hands glowing blue where he held them above the man’s shoulder.
+
+Well, they wouldn’t be able to hide that connection anymore. Daphne seemed to realize this too, from the way she was frowning.
+
+After a few moments, Lord Alardice tore his eyes away from the healer and faced them again. “You’ve caused quite a mess,” he said. His expression gave away nothing. Callan swallowed, looking more than a little intimidated by the man.
+
+“And we do apologize for that,” Daphne replied before Pyre could. Probably for the best. The demon was certainly no expert in “aristocratic communication.”
+
+The mage smiled sweetly and raised a hand towards the other noble. “My name is Daphne Bellhein,” she greeted. “I don’t believe we’ve been introduced properly.”
+
+Lord Alardice arched an eyebrow at that, but he slowly shook the offered hand. “A Bellhein? If you’d informed me of your arrival to the city, I would’ve greeted you personally.”
+
+“No need,” Daphne said breezily. She let go of his hand. “And we did see each other before, but perhaps you didn’t notice me.”
+
+Callan choked and quickly attempted to hide the sound with a cough. If Lord Alardice was insulted by the not-so-subtle jab at their last brief meeting, he didn’t show it. Instead, he simply gave Daphne a long look before finally nodding.
+
+“Hm. Perhaps.” He turned to Agnes then, and Pyre didn’t miss the way Daphne’s eye twitched at the casual dismissal. She snorted mentally. It looked like Lord Alardice’s general attitude was universal between peasants and nobles alike.
+
+“Your knights are losing their touch, Captain,” he said to Agnes. “Why is the suspect not already behind bars?”
+
+Some of the knights surrounding Pyre tensed, but they held their positions. Agnes frowned. “We were attempting to question her, my lord.” The slightest trace of irritation slipped into her tone, but it was subtle enough to be plausibly deniable. She nodded at where the man still lay unconscious. “They claim this man is responsible for the disappearances these past few months.”
+
+“Yes, of course they would say that,” Lord Alardice said dryly. “It’s a convenient story. It doesn’t erase the attempted murder that everyone here witnessed.”
+
+“You’re making a bold accusation,” Daphne said sharply. “My guard was acting in self-defense.” She turned abruptly to that first knight from before, who jerked back a little in alarm. “After her first swing, did you see Pyre attack again?” she demanded.
+
+The man shifted his weight nervously. “Uh, I don’t think so? She was just kind of… standing over him when we got there.”
+
+Daphne nodded, triumphant. She turned to face Lord Alardice again. “My guard simply acted to prevent this criminal from escaping. Then, once the threat was neutralized, she stopped and waited for the knights to arrive.”
+
+The noble met the taller man’s gaze unflinchingly, head held high. “Unless you can prove definitively that Pyre acted with intent to harm, I will not allow you to throw her in prison for responding as any trained guard would in a situation like this. To do so would be a direct insult to the Bellhein family.”
+
+To the side, Callan’s jaw had fallen open halfway through Daphne’s speech. Pyre had to admit she was impressed. She’d seen Daphne in “noble mode” before, but never against another aristocrat. Considering the Bellheins were the most important family in Magrath, it sounded like they were on a similar level to the Alardices, and both nobles seemed well aware of that.
+
+For a moment, no one spoke. Both nobles simply stared at each other, neither one willing to back down. Even the crowd watching had quieted, the tension practically tangible in the air.
+
+Pyre was starting to think they’d be stuck like that forever when a voice suddenly interrupted the staredown.
+
+“He’s stabilized.”
+
+The demon turned just in time to see Llyr rising back to his feet. Lying on the stretcher, the cloaked man’s shoulder had been completely wrapped in bandages, and the wound no longer appeared to be bleeding. He was still unconscious, but in contrast to the wild thrashing from before, he now looked almost peaceful while he slept.
+
+The other medics’ shoulders slumped in relief, a few of them wiping beads of sweat away from their foreheads. If Llyr hadn’t shown up, the guy probably really would’ve died, and they all seemed to know it.
+
+The murmurs that had quieted at Lord Alardice’s appearance started up again. People were studying the unconscious man curiously, peering past the line of knights to try and get a closer look.
+
+At this point, the crowd of onlookers had grown so large that it filled this entire section of the street. They were drawing way too much attention like this—a fact which the others in their little “gathering” realized, too.
+
+“Close this street off,” Lord Alardice commanded Agnes without even looking in her direction. He flicked his hand back at the crowd. “Get them out of here.”
+
+The knight captain actually did roll her eyes this time, but she nonetheless turned and began ordering the other knights to clear the area. It took a bit of scrambling and some insistent shoves, but in the next several minutes, they managed to push the spectators away. This would undoubtedly be a hot subject of gossip for the next week to come, but for now, at least, there was no longer a crowd actively watching them.
+
+Now, only they, the medics, the unconscious man, the knights, and the driver still waiting by the carriage were left on the road. Without all the eyes on them, Agnes turned towards Llyr.
+
+“Llyr, am I correct in assuming that you know these three?”
+
+Callan winced while Daphne’s face remained carefully blank, but her lips thinned slightly. Yeah, that whole “pretend not to know Llyr” plan was probably doomed from the start.
+
+The healer, at least, seemed to take it in stride. He nodded. “I do. They’re currently staying at my home.”
+
+Agnes’s eyebrows rose at that. Based on their interactions thus far, she seemed to know Llyr fairly well. That wasn’t a surprise. He probably helped out the knights and medics fairly often. “Really? Do you vouch for their characters, then?”
+
+Llyr glanced at them, eyes lingering a bit longer on Pyre. Probably thinking about how she wasn’t human. Well, he wasn’t either, so it wasn’t like he could judge.
+
+“I do,” he said. He gestured to them. “Callan informed me of this man’s attack the night it occurred. We were able to draw a sketch of the tattoo he saw based on his recountings. If you’d like, I can provide you with the drawing. It should match the tattoo on that arm.”
+
+Agnes nodded slowly at that, expression thoughtful. Between Daphne pulling rank and now Llyr, who the knights clearly viewed as trustworthy, backing them up, she seemed pretty convinced.
+
+“That would be helpful, yes. You knowing about the attack does make their story more believable.” She turned to Lord Alardice and raised an eyebrow. “What do you think, my lord? Or do you think Llyr is lying as well?”
+
+A beat passed. Pyre waited, half expecting the man to keep pushing. Based on the way Callan and Daphne’s shoulders had tensed, they were probably preparing for the same thing.
+
+Finally, the man spoke, words slow. “I suppose your story is not impossible,” he began. Callan perked up at that. Before the ghost had a chance to get too excited, though, the noble continued. “However, I still expect you to appear for questioning.” His eyes gleamed. “Don’t think of running off.”
+
+“Of course not,” Daphne said immediately. Lord Alardice hummed.
+
+“The knights will take in this man and interrogate him once he wakes up,” he said. Callan’s head snapped up at that.
+
+“But—”
+
+“If you’re telling the truth,” Lord Alardice continued, “then that shouldn’t be cause for concern.”
+
+The ghost’s brows furrowed, but he didn’t have a response. Because the identity of the man and verifying the attack two nights ago wasn’t the issue. The problem was that they were losing their own opportunity to question him, and it was clear that neither Callan nor Daphne trusted Lord Alardice to be in charge. He’d said “the knights” would take the man in, but it was already clear that he himself would be the one deciding how things proceeded.
+
+Pyre didn’t disagree with their worries. The noble was suspicious as hell, and none of his current actions were helping on that front. If anything, they were just making it worse.
+
+Maybe they’d grab the guy after he woke up. The knights would have to house him somewhere, and if they could nab him, they’d be able to question him themselves and pretend like he’d managed to escape on his own.
+
+“…Alright,” Daphne said slowly, “but I expect you to update us on any information you find.”
+
+“Hm, yes, of course.” The response was as flippant as everything else Lord Alardice said, but it was probably the best they were going to get. The noble turned to Llyr.
+
+“I do hope you’ll keep a closer eye on your guests in the future,” he said. Llyr’s jaw tightened.
+
+“I’ll be sure to do that,” he murmured.
+
+Seemingly satisfied, Lord Alardice nodded. He clapped his hands together, the sound ringing loudly across the mostly-empty street. “Get this man away from the road,” he instructed the knights. He barely raised his voice, but the command still carried to everyone in the vicinity.
+
+With that one order, the knights and medics scrambled into action. Pyre saw Captain Agnes shake her head once before stepping forward to guide the other knights.
+
+The weapons that had been held up to Pyre were slowly pulled away, though not without some trepidation. The demon just gave the guy in front of her a grin and a wave. He shuddered a little, then hurriedly turned away to follow his captain.
+
+Lord Alardice, meanwhile, had pulled a notepad out of his coat pocket. He was scribbling something with a pen that looked way more expensive than any pen needed to be. Once he was finished, he ripped off the paper, folded it a few times, and strode forward.
+
+Daphne tensed as the man approached, but he ignored the three of them entirely. Walking right past their little group, he shoved the note at Llyr.
+
+The healer frowned down at the paper. He opened his mouth, probably to ask what it was, but by then Lord Alardice had already strode over to where his carriage was waiting. He didn’t give them so much as a passing glance before stepping into the carriage and shutting the door without another word.
+
+Figured he wouldn’t bother with a proper “goodbye.”
+
+Daphne scowled at the carriage while Callan eyed the paper in Llyr’s hand nervously. “What does it say?” he asked.
+
+The man didn’t respond right away. He unfolded the note and scanned the page, frown deepening the further he read.
+
+“He’s inviting me over to his mansion for dinner tonight,” the healer said slowly. “He says he wants to discuss my… career choices.” From the way he glanced at the three of them, Pyre suspected the letter had probably included a few choice words about them as well.
+
+“Oh hell no,” Daphne said. “Don’t go. Throw it away.”
+
+“I’m not sure it will be so easy.” Llyr folded the note back up and placed it inside his pocket. “He’s not so subtly threatening to send Pyre to prison after all.”
+
+The demon raised an eyebrow at that while Callan groaned and tugged his hair. “Sorry, we were trying to keep you out of it,” he said miserably. Llyr just gave the ghost a reassuring look.
+
+“Please don’t worry, this was perhaps unavoidable. I’ve dealt with him before; another job pitch will hardly matter at this point. Frankly, I wish I’d stepped in sooner.”
+
+The healer shifted, blue eyes scanning their surroundings. The medics had long carried the man away, and the knights had just about finished cleaning up the area. They’d probably be reopening the street soon.
+
+“For now, there’s nothing more that can be done. We should return while it’s still early.” Llyr nodded at the bag of magic components that Daphne was still carrying. “We do still have a spell to test, after all,” he added with a smile.
+
+The mages nodded slowly, clearly still tense, but the reminder of Daphne’s possible cure did seem to cheer them up a bit.
+
+As they gathered their things and prepared to leave, though, everything that had just happened continued to loom over them. Even discounting Pyre’s upcoming questioning and Lord Alardice’s invitation, there was still a lot to discuss about that tattooed man, the disappearances, and the potential soul fragment in the city.
+
+Pyre wiped the blood off her axe and straightened, eyes once again landing on the angel in the distance. One thing remained clear.
+
+This was just beginning.

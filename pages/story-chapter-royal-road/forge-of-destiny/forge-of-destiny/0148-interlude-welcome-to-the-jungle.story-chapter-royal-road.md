@@ -1,0 +1,227 @@
+---
+id: 42d2c6d0-8891-54e5-a6da-298f104cb798
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Welcome to the Jungle"
+slug: 0148-interlude-welcome-to-the-jungle
+partOf: forge-of-destiny
+position: 148
+ownLength: 3352
+unit: words
+publishedAt: 2021-08-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/738801/interlude-welcome-to-the-jungle"
+royalRoadId: "738801"
+---
+
+“Can’t believe you lost again,” Sun Liling jibed. She leaned back against the wall of the closed carriage, her hands behind her head. “The hells do I even keep you around for?”
+
+“Tch, you’re the one who told me I was probably gonna lose,” Ji Rong scoffed. “You can’t rile me up that easy anymore, Liling.”
+
+She paused a beat, waiting for Dharitri’s bloodthirsty whisper, urging her to punish failure and disrespect. It never came. Sun Liling shifted uncomfortably. “Feh,” she grumbled, peering out the window. The Sect mountain retreated into the distance as their horses picked up speed.
+
+“Sides,” Ji Rong said, “not sure what else I could do.”
+
+“You need to improve your efficiency with the Gates of Shura art,” Liling commented. “You had waste qi spraying all over the place, and the impurity purging effect wasn’t working right.” He hadn’t been able to purge that cold toxin effect. If he had, the girl’s setup would have failed.
+
+“It wouldn’t have been enough,” Ji Rong said stubbornly.
+
+Liling looked at him out of the corner of her eye. Once again, there was no commentary in her head. “She’s a bad matchup,” Sun Liling said bluntly.
+
+Ling Qi, the ridiculous twit, had turned herself into a control cultivator, and she seemed like she was actually doing it on purpose now. Between her and her spirits, she was a mobile hardpoint, the sort of officer battle formations would hinge around. That was a bad matchup for duelists like the two of them.
+
+In a duel, a disruptor type worked best to destabilize a controller’s constructs and setup, slipping the knife in when a gap came up. In war, the best answer was a disruptor keeping the controller busy until strategic range blasters burned down the layers of defense through continuous bombardment.
+
+She didn’t say any of that out loud. If Ji Rong didn’t remember his lessons, that was his problem. She turned back to the window.
+
+The carriage rolled along in silence for a while.
+
+“You know, I lost a duel. What’s your excuse for brooding?” Ji Rong asked, breaking the silence.
+
+Sun Liling shot him an irritated look. “Do you think I won’t boot you out of the carriage and make you run or something?”
+
+He just crossed his arms and glared at her. “Something’s bothering you.”
+
+The bastard had gotten pushy, hadn’t he? She supposed it was her fault. After the tournament, she’d relied on him too much, giving him a big head. Sun Liling glared at Ji Rong, and he glared back defiantly.
+
+“I don’t know why I’m being called back,” Sun Liling finally ground out. “And I can’t think of any good reasons.”
+
+“Aren’t we both getting some one-on-one training time?” Ji Rong asked, furrowing his brows.
+
+Gods and spirits, this thickheaded dunce was going to make her burst a blood vessel, Sun Liling lamented. He was like a big stupid dog, all loyalty and barking and running face first into invisible formation barriers.
+
+“Rong, do you really, really think that we'd be crossing the continent just for some training?” she asked incredulously.
+
+“I mean, it’s not like your gramps can just drop by to visit,” Ji Rong defended.
+
+“Sure,” she said, rubbing her temples. “But he could impress lessons on a jade slip, he could send a few retainers over, he could do a lot of things that aren’t pulling us across the continent.”
+
+“Then why? Is it something to do with that other branch of your family?” Ji Rong asked, scowling. “Or are the Bai trying something?”
+
+“I don’t know,” Sun Liling said irritably. “Grandpa didn’t tell me. He just said I needed to come home for a couple months.”
+
+Once again, silence fell between them.
+
+“You know I have your back, no matter what, right?” Ji Rong asked, not looking at her. “So… relax a little.”
+
+Sun Liling grunted. Rong might be a big dumb hound, but sometimes, that was comforting in its way. Well, assuming he didn’t get his fool self eaten by a Sunflower Child like her last dog. “I’m not sure I should trust you with my back when your eyes end up glued to my ass.” There was no reason to get sappy.
+
+Ji Rong’s face reddened. “Oi, you told me that there’s nothing wrong with looking!”
+
+“There’s looking, and then there’s slavering,” Sun Liling distinguished. “Honestly, half the time I think you let me pin you on purpose. If you want a closer look that bad, then just join me in the baths already.”
+
+He let out a flustered growl, and Sun Liling had to hold back a snicker. Fuckin’ easterners. They couldn’t even handle a little flirting.
+
+She was glad the dumbass was coming with her.
+
+***​
+
+Even with worries weighing on her mind, it was good to be home, Sun Liling reflected.
+
+She’d left Ji Rong behind in the city. He had work with the paper-pushers to do. They’d get him situated. Not like the residency office was ever busy.
+
+As for her, Sun Liling enjoyed the heat and the scent of flowers in the air as she stood alone on the lift that carried personnel and goods from the crater city to the Sun family fortress.
+
+The palace complex of Kailasa was just as she remembered. The first tier was a great garden cut from the jungle around it, surrounded only by a simple two meter-high wall. It was arranged in a vast cross visible from the air. Here were the canals and flowerbeds, and where the structure overlooked the city crater, twin rivers poured over the cliffs to collect in pools below that supplied Kailasa. It was the only place where the jungle was fully tamed.
+
+The next tier followed the contours of the first, a smaller cross inside of the first resting on a four meter-high terrace. Red stone walls with petal-like battlements rose around the perimeter. The upper terrace was accessible only by the great stair in the center with all other approaches fortified by men and formations. Within the walls were the barracks of the city's soldiers and the offices and armories that were its beating heart.
+
+Finally, past that was the palace. It was smaller than some of the more opulent manors of the east. The red stone structure was covered in every inch by bas-relief carvings of the Red Garden’s history from its square base to its conical domed roof a hundred meters above. It had once been the great temple capital of the Red Garden. Now, it was their palace, the surest trophy of their conquest.
+
+But mostly, to Liling, it was home.
+
+Reaching the top, she received the low bows of the guards with a casual nod. Sun Liling strode through the riotous color of the gardens filled with fountains and flowers and felt a tension she had not even noticed ease out of her shoulders. Mounting the great stairs, she felt the comfort of the gates’ bristling defenses, the crackle of refined death in the air showing that her people hadn’t gone soft.
+
+Through the barracks district, she walked with confidence. Even after her humiliation, none of the tens of thousands of soldiers looked upon her with anything but respect. Here, in the palace, there were only her Great-Grandfather’s people and their descendants. The bonds of battle were not so weak as to be severed by petty politics.
+
+Sun Liling felt her customary smirk fade. Last year had been enlightening. She’d started off thinking that the Empire was a bunch of soft lumps but mostly aligned with them. She’d been naive.
+
+Two-faced fuckers, they were suddenly tip-toeing around the Bai like they hadn’t been lining up to kick dirt in their faces just a second ago. Like that would save them from the snakes, even if the Bai were playing nice at the moment.
+
+The gates of the palace stood open and welcome.
+
+Grandpa was waiting for her in the main hall. His embrace was warm and comforting, just like it always was.
+
+“It is good to see you again, granddaughter,” the old man said as he released her. Some part of her felt ashamed. It was likely her imagination, but his face seemed to have new lines, and his wild mane of hair seemed just a little whiter, a little thinner.
+
+It brought the sour taste of failure back to her mouth, mud and blood and a serpent’s venom. “It’s good to be home, Grandpa,” she said, belatedly bowing her head and offering respects. “I’ve missed everyone greatly.”
+
+“Yes, I am sure you have,” Grandpa said, but the twitch of his snowy whiskers showed discontent.
+
+Sun Liling shrank in on herself and kept her head low.
+
+Grandpa’s hand fell on her shoulder, rough and reassuring. “You are not to blame for these matters, Liling. My enemies merely chose to use you in their plots. The fault is mine for not seeing them. I have told you this already.”
+
+“Yes, Grandpa.” Sun Liling just couldn’t convince herself.
+
+He looked down at her sadly, and Grandpa really did seem old in that moment. “Come along, Liling. I must give you news.”
+
+Sun Liling straightened up as Grandpa turned around, hurrying to follow his longer stride without stepping on the trailing train of his red robes. She didn’t speak.
+
+All around them, servants scurried out of their path, and soldiers bowed as they traveled through the halls of the Outer Palace. They passed through the thousand rooms that were designated for housing foreign dignitaries, and Sun Liling could not help but notice the quiet. More than a third were empty. They passed the throne room where another of Grandpa’s simulacra presided over matters of state.
+
+It was only as they descended the stairs to the family’s residences, buried in the bedrock of the cliff, that she finally spoke the question in her thoughts
+
+“Grandpa, why did you call me back?” Sun Liling asked. It was eerily silent down here, but it was the middle of the day. It wasn’t that unusual for everyone to be about their business.
+
+“You recall your Great-Aunt?” Sun Shao asked, melancholy tinging his voice.
+
+Blurry memories of a deeply wrinkled face swam to the surface of Sun Liling’s thoughts. Sun Lin was her great-grandfather's youngest and only living sibling. She had met her once or twice on visits to the Peaks. She was married to the Patriarch of the Kang clan. “Yes, Grandpa.”
+
+“She has discovered degradation within her lower dantian,” he said sorrowfully as they came to the doors of his apartments. “It is unlikely that she will last the decade.”
+
+“I’m sorry, Grandpa,” Sun Liling whispered. It made her feel cold. She had never known her Great-Aunt well, but it was impossible not to remember the day Father’s guard had come home from the coast with a covered palanquin to present Grandpa with his broken spear.
+
+Sun Shao paused before the doors. “Death is the way of this world. It comforts me that she at least lived a full life.”
+
+They slid open, and she followed Grandpa into his rooms. She did wonder where they were going. His personal archive, maybe? Grandpa’s rooms were incredibly spartan, and why not? She knew that they were largely a formality. The only spot of color was a masterfully painted map of the Western Territories, showing each of the ten settlements that had been founded over the centuries since the conquests… and the four failed ones, including the black mark in the north.
+
+“Family is everything,” Sun Shao said as he approached the map. “It is unfortunate that my nieces and nephews, and their children in turn, scorn this. The Sun clan is troubled, Liling.”
+
+Sun Liling held back a grimace. She knew that Kang Zihao was something like a third cousin or something, but that wasn’t really family. She took Grandpa’s meaning though. Their support in the capital was only going to weaken without Great-Aunt Lin to push it.
+
+“I don’t understand. Do they think the Bai are just going to forgive them?” Sun Liling asked. “They were weak. They’ve never been weaker! Stopping now…”
+
+She could wrap her head around Cai's thinking. Emerald Seas had always been something of an undeveloped backwater outside of the northern crescent. Indebting an ancient clan, even a weakened one, sort of made sense, but the throne…
+
+“Empress Xiang prefers to play with her building projects,” Sun Shao said bitterly. “She leaves the greater works of her father to rot while building her walls ever higher, lavishing attention on mortals and artisans. Some days, I suspect that woman is sick of the Empire in its entirety.”
+
+Sun Liling stared at her Grandpa’s back as he reached out to touch the map, his fingers tracing along the western border where the remnants of the Red Sun barbarians still roamed. She… had never heard Grandpa say something so explicitly negative about the empress.
+
+The map in front of him rippled, and both it and the wall it hung on dissolved, revealing a small space big enough for only two or three people. On the stone floor, a transport formation burned with dull crimson light.
+
+Grandpa turned to face her with a face lined by sorrow.
+
+“Come, Liling. There is a family matter we must attend to.”
+
+***​
+
+They emerged among ruins.
+
+All around them was the stink and sizzle of acid and rot. For as far as she could see in every direction was death. The soil was toxic, a mixture of brown and purple that spoke of a festering wound, and the air itself burned and sizzled with toxicity. New growth struggled through the muck, saplings and shoots and vines emerging from the morass, growing and burgeoning only to sicken, wither, and burn in quick succession.
+
+Liling could feel the toxic qi in the air against her skin and knew the only reason her skin wasn’t melting, her every organ failing and rotting, was because Grandpa stood beside her.
+
+The only exception was right in front of them. Growing from the muck, a bare hundred meters wide, was a thick platform of vines supporting a crown of healthy soil and a riot of sunflowers that grew many meters high.
+
+This was where Grandpa had met the reprisal of the Bai clan.
+
+“Do not stray from my side, Liling,” Grandpa said, stepping between the sunflower stalks.
+
+Dharitri, so silent for so long, let out an ecstatic sigh that made Sun Liling’s skin crawl. She hurried after Grandpa, unease worming its way into her thoughts.
+
+“Grandpa, what are we doing here?” Sun Liling asked, unable to keep the worry out of her voice. She couldn’t sense anything here, only Grandpa’s presence; the environment was too overwhelming.
+
+They emerged from the sunflowers at the edge of a glade of grass and flowers. Sun Liling felt a buzzing discomfort as they stepped in, the feeling of warping space. The glade now stretched in every direction, and the toxic swamp of the Bai’s vengeance seemed so very far away.
+
+Beside her, Grandpa looked out over the idyllic field with its sweet fragrance and swaying sunflowers with an inscrutable expression. Sun Liling peered at the field, searching for what he saw, but there was only a narrow trench across the middle of the field as if a farmer had hoed a single furrow.
+
+“Grandpa,” she began, meeting sad green eyes that burned with inner fire. “Why are we here?”
+
+“Because there is someone you must meet, Liling,” he said tiredly.
+
+She felt the ground quake, and the furrow pulled apart, soil and grass and flowers all pulling away in opposite directions.
+
+Before them was an eye. Wider than the palace complex of Kailasa, it burned verdant green.
+
+Sun Liling heard a song.
+
+It rose from the sway of the sunflowers and the rustling of stalks. A warm song, a loving song, it was an invitation and enticement to lie among the flowers and be embraced by the earth. Yet it was also a sad song, the singer wounded and in pain. For a moment, Sun Liling saw, with the eyes of her spirit, not only an eye, but also a whole woman’s face in the contours of the land with green hair that stretched for kilometers and a wide and inviting smile that could swallow a city.
+
+The sunflowers around them turned from the sun to face her, and Sun Liling felt her vision fading, her thoughts unraveling. Why did she need to think when she could stay right here and let her roots drink deep, forever and ever, loved and cared for?
+
+Grandpa’s hand fell upon her shoulder, and the feeling fled as his power roared.
+
+The sky burned crimson, and a titan of bone and blood stood over her. How high he stood, his ten heads crowned by scarlet fire, his fierce faces burning away the clouds. Black pitch drenched the titan’s body, and in it writhed men and women, beasts and spirits. The dead cried out, a hundred thousand, two hundred thousand, and more tattered spirits wrought into being, armament fit to withstand the wrath of the gods.
+
+In his one hundred hands were clenched one hundred weapons, each fit to sunder mountains and ruin countries, but none more so than the terrible spear leveled at the smiling woman with sunflowers in her hair. A haft wrought of bloodstained bone, tasseled by sinew and jungle thorn, its head was a pale shocking white, pure as snow, and beneath the surface of the gleaming blade, a score of golden-eyed faces screamed their hate.
+
+The titan—Grandpa—spoke, and the words were lost to her ears, too loud, too mighty for her to comprehend.
+
+Her vision spun, and the song of the sunflowers became the sigh of a woman in love, and the sunflower petals caressed the ten-faced visage of the titan of war, leaving trails of oozing black blood.
+
+And then, they stood once more in the garden. Beside her, trickles of blood dripped from cuts on Grandpa’s cheek, staining his beard red. From the vast eye before them, something rose. It was a hundred different jungle beasts all at once. It was a tree wrapped in thorny parasitic vines that bloomed with yellow flowers. It was a tall woman with caramel skin and verdant hair, all but nude save for trailing scarves of red.
+
+It was a bared blade, stained with dragon’s blood.
+
+Sun Liling could not even look at it without a spike of pain burning in her head.
+
+“If only the might of Sublime Ancestors is to be respected, then our choices are few,” Grandpa said softly. His voice was sad, defeated even, as he looked upon the blurring form directly. “Liling, give respect to your Great-Grandmother.”
+
+Sun Liling’s mouth went dry at the implication. They used barbarian arts, tamed barbarian spirits, but…
+
+The figure was before her, and Liling felt her heart thundering as the spirit’s disapproval fell upon her. Grandpa’s hand tightened on her shoulder. Whispers of song battered against Grandpa’s power.
+
+“You accepted my proposal,” Sun Shao, King of the Western Territories, ground out, and the earth trembled. “I am yours, but my great-granddaughter is your great-granddaughter. The bargain was struck.”
+
+The figure before her shifted, and Sun Liling shivered as she felt the touch of a bloody scarf, a talon, and a sharp blade all in one.
+
+“Sun Liling,” Grandpa  repeated, “give respect to your Great-Grandmother.”
+
+She could only obey. Sun Liling brought her fists together and bowed her head to the Goddess of the Red Garden. In her head, Dharitri laughed.
+
+<At last, I did not trust myself not to ruin the surprise! Oh, how wonderful it is to be sisters in truth!>
+
+“Your adoption will be painful, as all births are. You will be strong enough to survive it,” Grandpa ordered as something, a vine or a scarf or a jungle serpent, she knew not, wrapped around her. “Family is everything.”
+
+Sun Liling could only scream as thorns erupted from her skin, verdant deific qi overrunning her channels.
+
+Distantly, she heard Grandpa answer himself. “Everything for the family.”

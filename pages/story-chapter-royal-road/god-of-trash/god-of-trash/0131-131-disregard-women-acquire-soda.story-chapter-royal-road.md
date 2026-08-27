@@ -1,0 +1,99 @@
+---
+id: 3011e03d-883a-5926-811c-4d68ddf2cc4d
+page-type-slug: story-chapter-royal-road
+title: "131. Disregard Women, Acquire Soda"
+slug: 0131-131-disregard-women-acquire-soda
+partOf: god-of-trash
+position: 131
+ownLength: 2212
+unit: words
+publishedAt: 2025-07-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2438100/131-disregard-women-acquire-soda"
+royalRoadId: "2438100"
+---
+
+Korii came out to meet them, intercepting Rhys with a hand on her sword and a wary expression on her face. She looked Sable and the skeleton up and down, then, in a forcedly neutral tone, asked, “Who is this?”
+
+Sable hopped free. She stood at a distance, the skeletal limbs on her back shifting subtly to prepare if Korii lunged. Korii noticed, and adjusted her stance, readying an attack. The tension between the two was palpable, both of them on edge, waiting for the other to make the first move.
+
+With great effort, Rhys clambered free of his comfortable perch and landed on the ground, then snapped his fingers, dismissing the skeleton. It vanished back into his core, and Korii stared in surprise. He nodded. “Sable, Korii. Korii, Sable. She’s an old friend. Someone I met out in the forest, who I’ve known for a while. You can trust her.”
+
+Korii narrowed her eyes, but stood upright, lowering her hand from her sword. Sable stood as well, tucking her skeleton arms behind her back.
+
+Korii glanced at Rhys. “Every time you go out into the forest, you come back with another beautiful woman. How mysterious.”
+
+Rhys blinked at her, then realized: he’d gone to town and come back with Lira and Mouse, then headed out to free the other camp and come back with Sable. A line passed through his mind, one he’d read in a few too many trashy novels: My parents raised me as a traditional man…
+
+He waved his hand. He wasn’t building a harem, he really wasn’t! It wasn’t his fault that the powerful mages he kept running into were female. For that matter, wasn’t Korii being sexist for pointing out that all the mages he’d recruited were female? She wouldn’t have pointed out if he’d only recruited men, after all. There was nothing wrong with women fighting and being powerful. In fact, he was all for it. The more, the better! The fact that he’d just happened to recruit all women had nothing to do with his efforts. It was all a big coincidence, a big coincidence!
+
+“Yeah, so? I recruit the mages I find. Do you want me to start turning aside women because they’re female and seek out male mages in particular?” Rhys challenged her.
+
+Korii retreated a step, taken aback. “Not at all, it’s merely that your predilections—”
+
+“What predilections? It’s not as if the fact that I like women means I’m going to run into more women. Women are fifty percent of the population. If you flip a coin six times, you wouldn’t make a point of having flipped heads three times, would you? But because they’re women, and I’m a man, obviously it’s because I’m horny and not because it’s an honest coincidence, huh?”
+
+“I think it’s a bit strange that all your old friends are women,” Korii pointed out, crossing her arms.
+
+“I have male friends! Three male friends, just like I have three female friends! They’re just… busy,” Rhys finished awkwardly. One was a cat, one was the Sword Saint’s apprentice, and one didn’t know he was a boy, but they counted, right?
+
+“Uh huh,” Korii said, giving him a look.
+
+At last, Rhys realized her point. In this world, where mages were just as likely to be male as female, there wasn’t much point in making a big deal out of him mostly recruiting women; it was just as he’d said. Flip a coin six times, and getting heads three times in a row was notable, but not extreme or strange. Instead, it was the fact that they were all his friends, and all women. In Korii’s eyes, he was the girl who only had male friends, the person who could only get along with others because they were the opposite gender and somewhat attracted to him, because otherwise his personality was too obnoxious.
+
+It wasn’t true! He did have male friends, and they really were indisposed right now, busy doing other things and not here to show Korii. Not only that, but in the case of Lira and Sable, they weren’t really friends, per se, but colleagues who shared a common goal, and even Mouse was more like a kid that he doted on despite her weird stalkery habits, rather than a real friend. To be honest, it was a bit embarrassing for him to admit that his only real friend in this world was probably Bast, rather than anyone he’d recruited, that these were all people who he had formed an alliance with, whom he introduced as ‘friends’ to keep himself from having to launch into long explanations every time. Well, maybe Ev counts as a friend, too, he allowed, but he wasn’t really sure where she fit in the male/female split, given her tendencies, and he was pretty sure she hadn’t figured it out, either. But the point was, Korii’s supposition was actually the furthest thing from the truth! His only friend was male, okay? He was a different kind of socially inept, dammit!
+
+From her perspective, though, he was desperately covering up his inability to connect with people of his own gender… in other words, he was an inept loser who needed more socialization, and was too awkward to connect to people who weren’t attracted to him.
+
+Rhys pursed his lips. “Where’s Blake? I’ll show you…”
+
+“Show me what?” Korii asked, taken aback.
+
+“True male bonding,” Rhys said firmly.
+
+Sable rolled her eyes and sauntered past, brushing by Rhys without a word.
+
+“Sable, wait,” he called, but she ignored him, her tail swishing behind her like a cat’s.
+
+He watched her vanish into base, then turned to Korii. “Did I do something?”
+
+Korii laughed. “No, but I did. She likes you.”
+
+“What?” Rhys looked at Sable’s back, then back at Korii again. “We barely know one another. And what do you mean, ‘likes me?’—wait, were you deliberately making me sound like a scumbag to see if she’d react?”
+
+Korii grinned. She shook her head. “A crush is a powerful thing.”
+
+“First off, she doesn’t like me, we’ve barely met. How can she like me if she doesn’t know me? Secondly, don’t sabotage my few chances. I don’t get many, you know,” Rhys admonished Korii.
+
+“Could’ve fooled me,” Korii said, glancing over at Mouse and Sable.
+
+“Oh, shut up. They really are people who share a common goal. They… we, most of us, hardly know one another. Especially Lira. I’m pretty sure she’s just here to do her own thing, whatever that is.”
+
+Korii nodded. “Wise words. Water sprites are notorious for luring young men into watery graves.”
+
+“I’ve picked up on that, believe it or not.”
+
+“Mark my words, though. Sable? She likes you.”
+
+“Yeah, whatever,” Rhys said dismissively. Girls didn’t like him. He liked girls. No, actually, it was more like, he admired them from afar, while they lived full lives without him.
+
+Plus, he couldn’t forget the age issue. True, he didn’t know Sable’s actual age, and it was very possible that she was older than him, including his original life, given how mage lifespans and agelessness worked; once one entered the path of magehood, one’s aging slowed and slowed, until, at Tier 3, it was almost imperceptible, and at Tier 4, it stopped altogether. She could have been Tier 2 for decades, and given that she was close to breaking into Tier 3, if she wasn’t a genius at Bast’s level, she probably had been. But even so, without knowing her actual age, he had to treat her as if she were the age she appeared—nineteen, twenty or so—and not a fully mature adult. To be quite honest, she still looked like a child to him, and he wasn’t sure she ever wouldn’t. It was like entering college, and seeing all the upperclassmen as adults, then leaving college and looking back, and all the seniors looked like babies. But then, he was also frozen at eighteen-or-so years of age, so maybe it was just something he’d have to get over as he continued growing as a mage. True, his physical body was still eighteen-or-so right now, but there was a long, long lifespan ahead of him. At two hundred, his body wouldn’t look much older than it did right now, and that assumed he didn’t progress to Tier 4 and freeze his age altogether.
+
+He'd expected this world to have an entirely different moral system, since geniuses could freeze their ages relatively young, even before ten, in extreme cases, but it turned out that those extremely rare geniuses remained at a child’s maturity in some respects, and usually weren’t interested in adult play, so the morals remained the same, more or less, with a few exceptions. No one would bat an eye at a pair of ‘eighteen-year-olds’ with a family of ten or more, some of them even appearing older than their parents; everyone knew it was simply that the parents were better mages than their children, and probably had existed for hundreds of years at their young appearance, whereas the thirty-looking child was probably actually thirty years old and still struggling with the first steps of magehood. That had been one strange disparity—that mage classes could hold people up to fifty years old in the same room as five year old geniuses. From what he’d heard, at smaller schools even worse than his Infinite Constellation School, the kind of tiny school that wouldn’t get invited to the subjugation of a Remnant Weapon in the first place, it was extremely common for students to be as old as fifty or sixty, and all the Tier 2 or 3 mages would be white-beards and white-buns, old men and women at the limits of their lifespan with wisdom twinkling in their eyes.
+
+Of course, that wasn’t the only way to appear old. Some mages deliberately burned their age away, progressing themselves manually to twenty or thirty in appearance, or even all the way to their white-beard age. Rhys didn’t really get that. He’d been old once, and it had sucked. Who’d get old deliberately?
+
+Then again, maybe later down the line, he’d let it happen. It wasn’t as though he was all that attracted to eighteen-year-olds; they really did look like children to him. If he aged himself up to his mid-twenties, old enough to appear adult but not old enough to start feeling the aches and pains, and convinced whoever fell in love with him to do the same, then maybe he could see it happening. But that aside, he was going to cling to his youth this time around, and really enjoy it, for as many long, long years as he could.
+
+He waved his hand, pushing all these thoughts away. He was flattered that Korii thought Sable was into him, but all it was, was the delusion of a woman who was looking at things too hard. Now wasn’t the time for love, anyways. He had an empire to topple, and more importantly… soda to make!
+
+“She does. It’s very obvious.”
+
+“Yeah, yeah. Go tease someone else,” he said, and brushed by Korii.
+
+The people he’d saved from the mines had made a nice kitchen for him by now. It was a little dented and busted up, but that was fine by Rhys. He found a big, deep pot and trooped over to the stream to fill it. As he knelt, Lira emerged from the water just downstream, and he grinned. “Right on time. Wann help?”
+
+Lira waved her hand. Clean water splashed into the pot. Hefting it onto his shoulder, Rhys trooped it back to the kitchen. There, he added sugar, then muddled herbs, testing the flavor of the sugar-herb water in small quantities until he reached a flavor he liked. It wasn’t cola—cola was far too complicated—but rather a lemon-limey flavor, the kind of simple flavor that was easy to imbue. It would have been easier if he were using citrus fruits rather than herbs, but the merchant they’d raided hadn’t had citrus fruits, so herbs it was. Herbs were dry, anyways, which kept him from having to worry about watering down the sugar water, and he had to use a smaller quantity of them to flavor the water, to boot. Plus, potions were made from herbs, and some of these herbs had healing qualities. He still had to imbue the soda with healing properties, but he’d do that second. Better to start from something that tasted good, then add goodness to it, rather than try to make a nasty potion taste good. How many times had he seen companies marketing ‘delicious’ health food, only to taste it and find it was still disgusting? Whereas, on the other hand, junk food crackers and such would often use fortified flour or boast about containing vitamins, but still taste like delicious junk food. Flavor came first, and benefits second.
+
+He noted which herbs he’d used, and set a few sprigs aside to give to the raccoon and rats when he returned to the farm. Before him sat a pot of sugar water with muddled herbs; an excellent start, but not an ending. He took a deep breath. Now came the hard part: carbonation.
+
+Come on, carbon dioxide! You’re trash, right?

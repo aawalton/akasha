@@ -1,0 +1,149 @@
+---
+id: f5c163f5-c96c-5ed4-9065-84b3206b2227
+page-type-slug: story-chapter-royal-road
+title: "Threads 304 Identity 9"
+slug: 0344-threads-304-identity-9
+partOf: forge-of-destiny
+position: 344
+ownLength: 2344
+unit: words
+publishedAt: 2023-05-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1207090/threads-304-identity-9"
+royalRoadId: "1207090"
+---
+
+Sixiang brushed the surface of her thoughts, tentative, unwilling to reach any deeper as they were now.
+
+“That’s nutty, Qi, not gonna lie. You don’t even know the guy’s whole story. And this, you ain’t got a technique for this.”
+
+“You’re right. You’re completely right,” Ling Qi whispered back in the soundless nothing they occupied, the scattered cloud of being they had made of themselves to hide from the Nightmare. They were, for a moment at least, alone. “This is crazy, but I don’t want to take from you, and you don’t want to take from me. We don’t have to.”
+
+Sixiang laughed quietly, the sound of chiming bells and wind rattling windows. “Like two kids in a coat trying to buy wine, huh?”
+
+“I like to think it’s a little more dignified than that.”
+
+“I bet you do.”
+
+Sixiang’s grandfather stalked them in the white like a rotting sore in the fabric of dream,a mass of drooping flesh and far too many legs. One by one, the Nightmare ruthlessly hunted and unraveled the decoys she had made of her own self, scattered bundles of thoughts, the fragments of forgotten dreams, and idle fancies and anxieties, bundled up around cores of qi, just enough self to fool a searcher's eye. Without any kind of refined technique, the method was terribly taxing. Ling Qi was not sure how much longer she could keep it up.
+
+“Communication, exchange, these things do not negate dominion. They do not negate power. Tools and trinkets, useful but not transformative. To reject the imposition of will is to reject Sovereignty. Fine enough, but if that is your conclusion, then leave ambition behind, child, and seek not the heavens.”
+
+The Brother Darksong’s multitude of voices hammered from every direction, scathing and scornful.
+
+With Sixiang, Ling Qi reached with hands of spirit into her dantian, grasping the dense film of qi that had condensed in its depths she had stolen from a much greater being, wagered and taken in dishonest contest. Even all this time later, she’d not fully assimilated it. A lesson, or maybe a trap, Ling Qi could never be entirely sure. But thieves did not get to deal in certainties. The two them pulled the dense mass of darkness and wind up, swirling it around themselves in a cloak.
+
+And the expanse of white shattered.
+
+Before the Nightmare of the Emerald Seas, a long glittering mantle of green and black borne by a tall shadow blew in a phantom wind. A crescent smile, white teeth in the dark, beneath a half mask of liquid moonlight in the stylized shape of a hart. Twelve-pointed antlers of shadow and mist emerged from a swirling halo of starlit hair. In one hand, the shadow cradled a book of crumbling black leather, its pages split by a trailing crimson marker, and in the other, a jauntily held spear, its gleaming head leaned up upon a shoulder.
+
+“Still a bully of children, O worm of minds,” said the thief. His voice was androgynous and layered, a smooth masculine bass over a young girl’s chime and a muse’s strident shout.
+
+Brother Darksong paused. Tall as the thief was, the Nightmare bore down over him as a giant. The corpses hanging from his antlers let out a deep and keening wail.
+
+“Charlatan. Failure. One whose essence has long passed. Your hanging cord longs yet for a throat. What idiot foolery and ruination do your rotting scraps seek?”
+
+“I deal in only the finest of fools and foolishness, O worm of minds.” The thief chuckled, his fingers twitched and his ringed spear spun through the air, halting in low grip, its deadly tip leveled up at the Nightmare. “And you may only blame my kin for my freedom from the cord. They feared what even my worst singing voice could do. But now, if you’d not mind, I have a heart or two to steal.”
+
+“You would stifle tribulation and stunt this student you cling to even now?”
+
+“I will do nothing of the sort for I am only a mask and a shell of old and rotten memories, just as thee, if much more handsome. The girl has her answer, though she realized it not until this moment. She—I—we needed but a moment's repose to think and a fool’s perspective to see.” The thief’s crescent grin widened, baring too many teeth, and eyes of winter ice burned behind a mask of silver. “False dilemma do you preach, O worm. Wills are imposed, power is wielded, but truth cannot be passed down from the lonely king, the bloodstained general, the austere artist, or the enlightened priest sitting alone. The sundering of Totality was no error to be repaired. Behold! We are multitude in all its hideousness and beauty!”
+
+The jaws of the nightmare lashed out, faster than any eye could follow, and the thief turned on a heel. The screaming hurricane of the abomination’s passage sent his mantle aflutter. The dream churned as for the first time, the Nightmare Lord struck to kill, curdling and rotting thought and dream. The mundanity of the frozen forest shattered, becoming a nightmare of ruination and pain, a vision of hell, all the suffering of the world cast in endless refrain. Rusted chains and bloody lashes sought the thief, but his boots carried him through the nightmare in pirouettes and leaps, transforming bile and terror into clouds and soft white snow in his wake. His spear spun, vanquishing flame, shattering ice, and rending apart shackles.
+
+“What words from failure and ruin. You, whose Way was broken, whose disciples were slaughtered, whose ideas were forgotten, and whose teaching brought about disunity, pain, and loss!”
+
+Brother Darksong stalked the hell of the Emerald Seas’ failures. At his hooves sprouted burning blades, casting lurid light on empty trampled faces. At his head, a halo, a mandala of false hopes and broken dreams and a million, million ruined lives, bloomed. His body was a cloak of black tar, apathy and abandonment, mindless repetition of ritual, the termination of thought. In the eyes of the corpses, a pitiless radiance shone that could not stop.
+
+“And yet, I am here,” said the thief. “I live, not as the Pure One for he, too, was wrong by degrees. My Way is unbroken because it is not mine alone to begin with. Old and dusty it might be, it merely awaits new feet. There is no virtue in stagnation, in fearing the lash, in seeking silence. Choice is pain. Choice is strife. Choice is disunity. Choice is life, the grand dream of the Nameless.”
+
+And from the shadow, the true thief, the one which was not a mocking phantom, leapt over the Nightmare, catching the highest point on his antlers and swinging himself into the air. As he tumbled through the lurid sky, he landed upon the Nightmare’s back, cracking open the pages of his book. He [Spoke] the name written there.
+
+And Ling Qi was falling.
+
+Amidst the shattered pieces of a sundered nightmare, she was falling.
+
+She was hurt. Her dantian throbbed, though frantic cycling showed that it wasn’t cracked at least. A meridian had been seared shut, clogged and closed by the passage of Huisheng’s qi.
+
+Bits and pieces of memory were left behind. She remembered dancing through a hellish landscape. She remembered speaking and being spoken to, her words of choice, totality, and multitude ringing out.
+
+“I feel like I’ve been run over by Zhengui,” Sixiang complained.
+
+Ling Qi’s eyes shot open, and she saw the muse, falling beside her. They looked wrung out, bruises spread all across their body. Their hair had regained its shade, though strands of silvery white now ran through it as well.
+
+“You’re not the only one,” Ling Qi whispered. She tasted blood on her lips, and her voice cracked. Her throat felt terribly strained.
+
+They fell through the sky of a shadowy forest whose roots and canopy alike were out of sight, her entrypoint into the dream. She reached out across the void of air between them. Sixiang clasped her hand.
+
+“I’m sorry,” croaked the muse. “I’m so, so sorry. I understand if you want me out of your head.”
+
+“Maybe for a little while. I think… I think we both need some space.”
+
+“You’re probably right,” Sixiang said. “I love you, Qi.”
+
+Her heart beat more quickly. She couldn’t say she wasn’t afraid. “I’m not sure I understand.”
+
+Sixiang giggled. “Like I do? You’ve been my anchor, the thing that makes me alive. I think you’re beautiful. I want to hold you and dance and laugh under the stars. I… don’t know how to separate those feelings.”
+
+“I think you should live more before you decide.”
+
+“That’s a kinder letdown than most. But… yeah, let me live a little, and I’ll get back to you. Is that okay?”
+
+“Yes,” Ling Qi breathed out. “Can you?”
+
+“Yeah, I think so. How about you? Did you get what you were looking for?”
+
+Ling Qi closed her eyes, reflecting on her feelings, her cultivation, and herself. She had realized that trust arises from choice. Love arises from trust. There can be no perfect safety, save in death. For love or trust to exist, so must the chance of heartbreak and betrayal.
+
+Complete safety was a lie. It felt strange to admit that. She would never be completely safe or untouchable, no matter how strong she got nor how much power she amassed. Not without sacrificing far more than she could stomach. That was true of life… and true of love.
+
+She didn’t know what she would do with this realization going forward, but there it was.
+
+“Yes, I think I did.”
+
+Their fall slowed, and they became as drifting leaves upon the wind, gently, gently coming down on the little floating isle of earth on which there was the dream reflection of the shrine and the gate she’d first entered the liminal properly by. Ling Qi landed on her feet, looking toward the little golden statuette with the black lotus that floated here. She remembered fragments of the Thief’s words on the incompleteness of the Dreaming Way. She wasn’t content, but how could she say if something was wrong or not if she didn’t even yet understand it?
+
+Sixiang came down a moment later. “And here’s what I need. Do you mind if I break this thing down?”
+
+Ling Qi cocked her head to the side as the muse patted the top of the statue. “Go ahead.”
+
+It was an anchor of liminal energies, not particularly strong, but maybe… enough. She watched Sixiang reach out and tap their finger on the carved lotus flower in the statuette’s lap. It bent, facets and petal shifting, and then bloomed. Gold boiled away into the liminal, and the fractal flower of black jade grew and grew. She could feel it absorbing liminal energies.
+
+Sixiang gave her a wry grin, standing in front of it. “Hang on a sec. We’re pretty tangled up, so this is gonna feel weird.”
+
+Ling Qi grimaced and braced herself. Sixiang stepped into the twisting, unfolding facets of jade.
+
+It felt like the air was being sucked from her lungs or like her energy was leaving her body in a rush of exhaustion. Most of all, it felt empty, like there was something missing in her head, a comfortable and long accepted presence gone.
+
+No, not gone, just much further away. Her bond with Sixiang was now more like her bond with Zhengui or Hanyi. She could feel them, speak to them, and call them back, but to do so was to reach out, rather than in.
+
+The expanding gemstone warped in on itself, shrinking, folding, and spiraling. And then there was a loud pop of displaced air, and she saw the muse standing there now, looking uncertain. They looked a lot like they had when she first met them on the dining room table of her and Meizhen’s home in the Outer Sect that first day. They were androgynous and a little alien with dark eyes and drifting, floating hair, but they were solid. There was no trailing mist at the end of their limbs or a feeling of floaty weightlessness.
+
+Sixiang grimaced. “How do you deal with being so heavy and meaty and gross?” Sixiang whined.
+
+“And here I thought I was beautiful,” Ling Qi deadpanned.
+
+Sixiang made a face. “You are, but it's not anything to do with this fleshy stuff.” Their form shifted, shoulders growing wider and putting on a little bit of muscle, and then, they began shifting through body types like a person flicking through dye swatches. Finally, they settled back on their first shape. “It was unique the first time, but now, I’m used to being all spirit.”
+
+“You don’t have to—” Ling Qi began only to pause. Could they rove far from her, bodiless?
+
+“Nah, nah, you gotta do things you’re reluctant to do if you wanna change.” Sixiang dismissed her words with a wave of their hand. “Heh, is it any wonder I stagnated?”
+
+Ling Qi smiled wistfully. “Forward. Stagnation is death.”
+
+“That it is,” Sixiang said, grinning back.
+
+“Can I ask where you’re planning to go?” Ling Qi did think they needed distance, but all the same, the thought of Sixiang actually leaving gave her an unpleasant pang.
+
+“I don’t think I’m going to go that far.” Sixiang hopped from foot to foot, as if testing their balance. “Don’t wanna run into some stranger who’ll grind me up for pills. Think I might hang around the Sect for a bit, and talk to Auntie. That’ll do at first. Besides, I’m not gonna leave you high and dry for this nonsense you’ve gotten into.”
+
+Ling Qi breathed out.
+
+“And you’re right, you know,” Sixiang continued, looking down into the gate.
+
+“Hm?”
+
+“I do like doing the voices for the letters. That part isn't bad.”
+
+She couldn’t help it. She laughed. “We’ll figure things out.”
+
+Sixiang offered their hand, Ling Qi took it, and they stepped back out into the waking world.

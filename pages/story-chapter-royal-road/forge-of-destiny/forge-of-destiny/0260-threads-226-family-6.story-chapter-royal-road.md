@@ -1,0 +1,193 @@
+---
+id: 074cce8f-3430-5ea0-8997-203bf6312339
+page-type-slug: story-chapter-royal-road
+title: "Threads 226: Family 6"
+slug: 0260-threads-226-family-6
+partOf: forge-of-destiny
+position: 260
+ownLength: 2755
+unit: words
+publishedAt: 2022-06-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/934039/threads-226-family-6"
+royalRoadId: "934039"
+---
+
+The light was dim in the preparation room, and Ling Qi let the echoes of her words fall silent as Cai Renxiang gazed into the mirror set on the dresser table.
+
+Renxiang was already immaculate, not a strand of hair or a fold of her gown out of place. Neither of them had really needed to touch up their appearances, but it was convenient to have somewhere private to speak before they entered the pavilion proper.
+
+They had gone over their plans for the gathering, and Ling Qi had just wrapped up her report on Diao Hualing.
+
+“So, some part of the Diao wish to speak with me at least,” Cai Renxiang said finally. “This is good. Not optimal, but better than I feared. I will counsel you to take the offer. We will review the correspondence together before it is sent.”
+
+“I look forward to it, Lady Cai,” Ling Qi said, dipping her head in acknowledgement. “I am aware that this is not the way you prefer to handle business.”
+
+Cai Renxiang’s shoulders tensed. “Despite my earlier outburst, I am not naive, Ling Qi. I would like most parts of government to be open and transparent. But what I would like is immaterial to the current reality.”
+
+“I did not mean that,” Ling Qi said with a touch of reproach.
+
+Cai Renxiang squeezed her eyes shut for a moment. ”I know. That was uncalled for. My apologies.”
+
+A moment of tense silence passed between them.
+
+“Cai Renxiang, what you said earlier about family—”
+
+“I spoke without nuance. Nonetheless, I do not think my conclusion is wrong for me. Know that I meant no attack on yourself.”
+
+Cai Renxiang was familiar enough with her to know at least the outlines of her forming way, and it seemed in the intervening hours, she had seen the clash there.
+
+“I do not think you did,” Ling Qi said consideringly. “Lady Cai, I may not have been educated in philosophy, but I think I can hold my own in debate, if you would care for it.”
+
+Not so different from a spar really.
+
+“Perhaps,” her liege said. “The journey to Xiangmen for the auction will be long even with the arranged shortcuts.”
+
+Ling Qi nodded, accepting that. There would be a number of shorter transport jumps but it would still be several days' travel.
+
+“Renxiang, I—”
+
+“Mother has stated that I am to attend to her in her private quarters tonight,” Cai Renxiang interrupted again. Dread cracked through her usually stoic voice.
+
+“Oh.” Ling Qi remembered the haggard look Renxiang had worn after spending an evening with her mother last year. She searched for words, but found few of any use. “I’m sorry, Renxiang. You are strong though.”
+
+Just a little, she understood Renxiang’s reticence toward her sister beneath the words about family and duty and everything else. Ling Qi supposed that even Cai Renxiang had a limit to the number of impossible responsibilities she could shoulder without buckling.
+
+“Am I?” Cai Renxiang asked, glancing once more to the mirror before continuing without waiting for an answer. “Come. We have a number of individuals to meet tonight.”
+
+“Yes, Lady Cai.” Ling Qi folded her arms in front of her as she followed her liege out, a precise number of steps behind and to the side.
+
+In her mind, she felt a twinge of sadness from Sixiang. She agreed, but there was nothing they could do. For now.
+
+The light from the pavilion proper was dazzling from the faint rainbows cast by the mist of the fountains to the light gleaming from the many reflective surfaces and polished tiles under their feet. The pavillion was filled with the high society of the Emerald Seas, talking, dancing, drinking, and laughing. It was hardly the bacchanal revels of the Dreaming Moon, but neither was it the staid lifeless gatherings that Ling Qi had cut her social teeth on.
+
+<You can’t take Grandmother’s influence out that easily,> Sixiang chuckled quietly. <Besides, no one likes a dull party before the head chopping starts.>
+
+True enough. Today was revelry, and tomorrow, the tournament, but after that, many of these people would be going home to muster their soldiers against the cloud tribes and what she now knew to call the Seven Cities.
+
+Still the mood was good, high with confidence and braggadocio. Those they stopped to speak with treated her with grace and good humor for the most part, and she did her part by simply supporting Cai Renxiang, coming in to explain some detail of direct experience when asked. There was much less needling about her marital intentions this year. She had proven herself enough to scare off the small fry and opportunists.
+
+Soon, they met with their first major contact for the night. She had learned of this meeting earlier via Cai Renxiang, and she was quite wary of it.
+
+Standing near the misting fountain in the center of the pavilion in a small bubble of serene quiet was an older gentleman watching the play of the spray. He wore a finely pressed robe of dark blues and purples embroidered with curling flames at the hems and a black minister’s cap on his head. His features were stern and lined, and his well groomed beard and mustache was speckled with silver. She could only see one his hands, gloved, where it curled around the jade head of the dark cane he subtly leaned on.
+
+He was a fifth realm cultivator. This was Cao Chun, the Imperial Inspector who would be assigned to their expedition. Word had come only shortly before the tournament. The throne had indicated that they would require an observer in this matter.
+
+“Ladies,” Cao Chun said as they approached, accompanied by the faint click of his cane as he turned on his heel to face them. Ling Qi could not read anything but stern examination from his face.
+
+“Senior Secretary Cao,” Cai Renxiang greeted, performing the proper bow. Ling Qi followed her lead, bowing more deeply. Ling Qi had already been informed of his rank and titles.
+
+In full, he was Senior Secretary of the South in the Ministry of Integrity. No longer an active agent, he was now a manager and administrator of them.
+
+“It is good to see that you are prompt,” he said crisply. “Your mother, Her Grace, is skilled in raising the spirits of her subordinates.”
+
+“My honored mother understands well the importance of morale to war efforts,” Cai Renxiang said.
+
+“She is,” Cao Chun agreed. “This is why your situation puzzles me. Such an unorthodox choice must bring some confusion to the spirit of the people.”
+
+Ling Qi squared her shoulders, meeting the assessing gaze of the older man’s gray eyes. The wrinkles around the corners of his mouth deepened. It didn’t seem like dissatisfaction, merely deep thought.
+
+Well over four hundred years old, Cao Chun was a veteran of the final bandit wars of the Celestial Peaks. The conflicts kicked off by the previous emperor’s reforms and drive to clear the Celestial Peaks of malcontents had been the fire in which the Ministry of Integrity was christened. Bandit kingdoms, heretical cults, and other such things had long been able to take root in the many ruins and fortified nooks, but Emperor An’s efforts had finally removed this stain from the Peaks. Empress Xiang’s delving, refurbishment, and settlement programs were the continuation of this.
+
+Cao Chun’s reputation was as a hero who had struck down many villains and saved many people. He was said to be a man of unimpeachable virtue and great devotion toward the great spirits. However, his reputation was also as a merciless foe of those who would cross imperial law.
+
+She felt Sixiang shying back in her mind, and she was struck by an acute certainty that the interests this man represented were probably not on her side.
+
+“Our parlay was unorthodox,” Cai Renxiang agreed. “However, it is also foolish to ignore opportunities that present themselves.”
+
+Cao Chun rested his other hand atop his cane as well. “Perhaps. Regardless, it is my duty to see that imperial values and interests remain observed during these negotiations. I have heard many reports on this matter, but I would now hear from you, the minds driving it. Lay out to me your plans, your reasons, and your observations of the targets that I may judge this course properly.”
+
+Ling Qi and Cai Renxiang shared a look.
+
+"The first step, which is being undertaken now under the auspices of the Argent Peak Sect and my mother's White Plumes, is the construction of a neutral fortification and meeting point," Cai Renxiang began, clasping her hands behind her back. "This will serve as a show of imperial strength and engineering, as well as preventing undue interference from third parties. One of the first items on the agenda will be the establishment of diplomatic credentials with the foreign White Sky and methods of quickly and accurately identifying their agents."
+
+"Historically, one of the many difficulties in dealing with the cloud tribes has been identification," Ling Qi added. "Even where deals have been struck, their nomadic nature means that the more agreeable of them might disappear without a moment's notice."
+
+"It is good to hedge against their inevitable unreliability," Cao Chun conceded.
+
+Cai Renxiang tipped her head, acknowledging the words but not replying. "Most importantly, I and my retainers will be establishing our tentative fiefs nearby to both show our confidence and share the risk this project represents."
+
+"This is important. The people of the Southern Emerald Seas are battered and rightfully wary. I want them to know that we are not merely playing with their livelihoods," Ling Qi said.
+
+"It is vital that we not lose sight of our primary duty, which is toward our people. The folk of the foothills and southern woods deserve a true chance for peace and the time to grow in prosperity and enjoy good health and comfort under the aegis of the Empire, as all of its people deserve," Cai Renxiang finished.
+
+Cao Chun studied them both, but his focus was mostly on Cai Renxiang. Twice, his finger tapped on the jade head of his cane. "It is good that you keep in mind what is important as you move forward with this project. Too often, I find those with grand visions forget what those visions cost."
+
+"To that end, one of the most important parts of early negotiations will be the establishment of clear borders and if possible, checkpoints," Ling Qi said. "If travel between our peoples only occurs at controlled points, then it becomes much easier to ensure that bad actors cannot cause us conflict."
+
+This would, of course, grant advantages to the ones who controlled these checkpoints on both sides. Ling Qi was fine with that.
+
+"Current mobilization will already do much to clear a buffer zone in the normal mountains," Cao Chun allowed. He had not relaxed, but he was at least listening to them with something more like condescension than outright hostility. "If I may, perhaps you should think about expanding this concept. The Xuan, with their special dispensation, have their foreign quarters. If these barbarians could be contained to a limited number of controlled regions, I believe that would assuage many concerns of contamination."
+
+"I thank you for your advice, Secretary Cao," Cai Renxiang said. "I had considered such a concept, but I did not want to presume."
+
+"That is a good trait to have. Cultivate it, young heiress. Now, continue."
+
+They spent the next quarter hour or so detailing the plans for early negotiations. These included seeing the current tentative ceasefire solidified into a mutual agreement of nonaggression and the steps being taken to secure the neutral site. At Cao Chun’s prodding, they made some observations about the White Sky's military readiness and likely tactics, but eventually, they came to the end of their presentation.
+
+Cao Chun was silent for a time as they finished, idly tapping his cane on the marble tiles. His face remained stern as they looked again toward the misty spray of the fountains. Finally, after an interminable pause, he spoke.
+
+"I am convinced that you are approaching this matter thoroughly and thoughtfully at the least. Your intentions are good."
+
+Neither of the two of them replied, sensing that the secretary was not done speaking.
+
+"However, this is still a most unusual action. I will have advice as we proceed. If things go well, the people of the south will have their time to recover. If not, this will still buy some time while other matters are cleaned up. I will observe these barbarians and ensure that none of their savagery takes root."
+
+"Thank you, Secretary Cao," Cai Renxiang said formally. "As an observer, do you have any requirements which need be met?"
+
+"Lodging for my retinue at the site," Cao Chun said crisply, turning back to them. "Two junior agents have been assigned to my command for on site operations. In addition, I am picking up an apprentice following this event. He will require lodging as well."
+
+"Might I ask who?" Cai Renxiang asked.
+
+"Jin Tae. You may know of him," the secretary said. "He will also serve as the eyes of the north in this, seeing that other provinces have begun to show their interest."
+
+"Of course," her liege said with a slight furrow of her brow. "Anything else?"
+
+"Nothing which I will place upon your shoulders. We will speak about my participation in negotiations later when I have made my inspections of the site. Do not let this old gentleman keep you further."
+
+They said their pleasantries, bowed, and took their leave.
+
+"I think that went as well as could be expected," Ling Qi said cautiously as they rejoined the main body of the night's guests.
+
+"I suppose it did. We may have earned enough leeway to begin before active interference starts. Still, we must be prepared to incorporate any demands the throne may make into our negotiating positions."
+
+Undoubtedly, this would make the negotiations more complex and difficult, Ling Qi thought with a sigh.
+
+<For what it's worth, I think you did genuinely sway him a little. That guy does seem concerned about the actual people on our side of the border,> Sixiang volunteered.
+
+Ling Qi nodded, quietly relaying that to her liege.
+
+"It is good to know that my own sources are not wholly without merit," said the heiress. "It is… something, yes. Your plans for the rest of the evening, Ling Qi?"
+
+"I have a meeting with a few members of the Diao clan," Ling Qi repeated. It was worrying that Renxiang needed to ask again.
+
+"Good. Attend to that," Cai Renxiang said. "I must go to my mother."
+
+"Yes. I'll see you in the morning, Lady Cai," Ling Qi said, inclining her head. Anything else she could have said would be rude or a lie.
+
+She turned toward the western part of the pavilion, having spied several people in Diao colors off in that direction. She felt Sixiang shift in her mind, giving her a feeling like an arm wrapped around her shoulder.
+
+<You're feeling antsy,> the muse murmured.
+
+She was feeling more than that, Ling Qi thought. The tournament was nearly over, and the task they had taken up loomed ahead. Negotiations with the Bai, meeting with Cao Chun, everything about Cai Renxiang all combined into a tremendous weight on her shoulders.
+
+What in the world did she think she was doing?
+
+<I think you're pursuing your Way, sideways or not,> Sixiang murmured.
+
+"I don't even know what that is," Ling Qi said under her breath, weaving through the crowd.
+
+<There's a bit more shape to it than you realize. But think of it this way. If you weren't willing to push so hard and take risks like this, would you have any chance to reach that peak?>
+
+Ling Qi considered the pinnacle of power, the powers she had witnessed, and the cultivators she had spoken to. She thought back to that horribly embarrassing evening with Bao Qian when he had asked her what she wanted to do with her power. She hadn't been able to answer him then. She probably still couldn't now. But she did think that she might be ready to seek out an answer.
+
+She just hoped Cai Renxiang could hold out until she had someone who knew what they were doing to support her.
+
+***
+
+*****
+
+*******
+
+*********
+
+You are Cai Renxiang, and Truth scourges your mind.

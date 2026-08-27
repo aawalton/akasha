@@ -1,0 +1,147 @@
+---
+id: 001ed493-fcd0-5713-81a6-5018231f292a
+page-type-slug: story-chapter-royal-road
+title: "48. Two Remain"
+slug: 0048-48-two-remain
+partOf: god-of-trash
+position: 48
+ownLength: 3483
+unit: words
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2193942/48-two-remain"
+royalRoadId: "2193942"
+---
+
+Rhys and Mae charged at one another. At the last second, Mae’s hands blurred, and she drew a sword. Rhys, not to be outdone, drew his broken sword in the same instant.
+
+Mae saw the stub of a blade, and she laughed. “What’s that going to do?” Ignoring it, she swung at his neck.
+
+Rhys activated Trash Intent. Her sword rebounded off his intent, and her eyes widened. In that instant, with her guard blown wide open and both hands flying back, Rhys closed in. He stabbed at her gut, going for the kill just as she had for him.
+
+A blue gem dangling from Mae’s neck flashed. Blue light wrapped around her body, and his sword struck the light, not Mae herself.
+
+Mae staggered back. She caught herself at the edge of the field and immediately ran to the right, circling around him. Rhys watched her go, eyes narrowed. That light was some kind of barrier or shield, and he’d have to break it to do damage to her. A part of him wanted to shout that it was unfair, but then, she hadn’t known about his Trash Intent, either. If he could bring hidden weapons, why couldn’t she bring hidden shields?
+
+Besides, he was treating this match as a simulation of real battle from the start. He wanted to know how his skills would hold up in real combat. Quibbling over whether one equipment was permitted or not was meaningless, when in the real world, someone could wear a dozen shields or carry a hundred invisible blades, and he would simply die, rather than be able to shout to someone that the fight was unfair. Best to find out now what kind of magical items he might face here in the ring, when there was theoretically a referee able to halt the match, rather than in the real world, where there were no guardrails whatsoever.
+
+Still, that didn’t keep him from mocking his opponent.
+
+“One point,” Rhys said quietly, spinning the sword in his hand.
+
+“What is that? An invisible sword? Isn’t that cheating?” Mae said, apparently sharing none of his qualms over treating this as real battle.
+
+He lifted his sword. “Not at all. Can’t you sense what it is?”
+
+At the edge of the battlefield, Ernesto stiffened. Walter stepped forward, his face pale. “Mae, that’s weapon intent. Watch out!”
+
+“Weapon intent? Since when has weapon intent been wasted on manifesting broken weapons?” Mae mocked him.
+
+Rhys smiled. “Jealous?”
+
+There was no point hiding his Trash Intent any longer. He’d already used it, so he might as well use it as part of his mental warfare. Besides, this, too, was mental warfare. As long as she saw it as nothing more than ‘Weapon Intent,’ he still held a significant advantage in this battle.
+
+“Jealous of my shield? What, are you too poor to afford one, in this tiny little school?” Mae returned without missing a beat.
+
+Rhys laughed. It was good to fight someone who wasn’t afraid to trash talk back. He’d missed this, somehow. He hadn’t thought he would, but he had.
+
+The second he laughed, Mae rushed in again, trying to catch him off-guard, but Rhys was ready and waiting. The two of them clashed over and over again, dashing across the battlefield. She pushed him to his limits. Her strength was greater than his, and so was her speed, her technique infinitely more refined. Rhys was on the back foot.
+
+But he was still able to keep up with her. He matched her, blow for blow, and maneuvered deftly around the field, careful to keep himself from getting backed against the boundaries. She could overpower him, but he was used to fighting stronger opponents, and not only that, but her strength was… he had to admit it, closer to his than he was expecting. Compared to fighting Bast or Ev, it felt far more like he battled a true peer in her, someone who had a small advantage, but no more.
+
+The battle continued, and Rhys stayed strong, while Mae began to run out of breath. Her eyes flashed in desperation. She reached to a pouch at her hip and loosed it, and twists of wire covered the field.
+
+“Try that maneuvering now, dipshit,” she snarled.
+
+“Thank you,” Rhys replied, a grin on his face. She’d done him a favor. Who would have thought that his opponent would throw trash on the field for him? Honestly, it was too kind. He activated Trash Step and easily avoided the caltrops to close in on Mae. She whirled, tracking him. He lashed out with his sword, and Mae swung to parry it, but at the last second, Rhys deactivated Trash Intent and stepped to the side instead. Carried by the weight of her blow, Mae stumbled forward into her own caltrops.
+
+Now Mae was the one on the back foot, as Rhys pressed the advantage to force her to fight in her own caltrops. He hammered a flurry of blows at her, attacking with a ferocity and speed that mimicked Ev’s to force her to constantly block and allow her no chance to escape the caltrops. Mae gritted her teeth, and sweat ran down her brow. Rhys kept up the barrage. He had her. One misstep, and the match was over. Just a little more—
+
+Mae roared. A wave of orange energy blasted from her core. Rhys was thrown backward as her cloak, likewise, flew off. Underneath, she wore a skintight orange crop top and black spats, with orange-dyed leather skirt armor covering her hips and thighs. A orange-dyed leather panel was strapped over her heart as well.
+
+Rhys nodded approvingly. She was definitely a sportsgirl, but what a dynamic outfit! He’d love to stitch that up for his friend any day. It’d be a quick make, too, as long as he cut some corners on the armor.
+
+Bits of metal rolled by his feet. He glanced down to find that the caltrops, too, had been thrown away. They once more stood on the solid stone of the arena, with no difficult terrain in sight.
+
+“That’s a pity,” he muttered to himself.
+
+Mae charged, and once more, Rhys rushed to meet her. This time, though, he found himself one-sidedly being pushed back. The orange energy that flowed over Mae’s body empowered her beyond what his reforged body could meet. It was like fighting a wild animal, or battling Ev when she got half-serious. He never won those fights… but then, he respected Ev too much to use some of his more underhanded tricks on her, and besides, on the rare occasion he did start fighting underhandedly, it only led to her getting even more serious, and the fight ending even faster.
+
+That wasn’t the case for Mae.
+
+Rhys empowered his sword once more, this time activating Trash Aura on it. The sword strengthened, growing to its absolute ultimate form. He slashed at Mae, hacking at her body with his full force. Attacking so aggressively meant hits of hers got through, but she was never able to capitalize on them. Instead, she had to fend off Rhys’ attacks, or risk taking a heavy hit herself. Her sword took hits, and steadily weakened, while Rhys’ empowered sword took none, or simply grew more powerful as it became more trashy and he could pump even more energy into it.
+
+Her sword met his, and this time, Rhys unleashed his Trash Aura. A strike of sword energy left his sword and hurtled past her unempowered weapon toward her body. Mae growled. Jumping back, she lifted one hand off her sword to bat the energy away. Her shield, and the orange energy, both surged as she made the gesture. The orange energy held; the shield, with a loud tink!, shattered. The stone on her neck broke, and bits of blue gem rained down.
+
+“Weapon aura? How? He’s only Tier 1,” Walter murmured to himself.
+
+“Was that expensive? Sorry,” Rhys said with a mock-grimace.
+
+Mae said nothing, but her eyes grew more dangerous. “Do that again. Try it.”
+
+Rhys smiled. He would not be trying it, not least because unleashing Trash Aura took a lot of mana. He was already running low, and there was no room mid-battle to sneak a sip of his mana potion, nor did he want to tap into the hyper-pure mana he’d obtained from burning the curse energy. He still needed to study it, and between winning one fight and advancing as a mage, he prioritized advancing as a mage.
+
+Using Trash Aura again or no, his back wasn’t against a wall yet. He still had more techniques to use before he had to tap into any of his desperation moves. And from the looks of Mae, she’d already tapped into hers.
+
+She was making a good show of it, but he could see the sweat dripping down her body, and the way her chest heaved when she had a moment to breathe. This orange energy technique took a lot out of her, and she couldn’t maintain it forever. On the other hand, all he needed to do was use Trash Intent, and he could stave her off—not win, but hold his defensive position for minutes, if he needed to. If he simply stood here and turtled until it dissipated, it was his win.
+
+Not that he wanted such a hollow victory. He was a trashy guy. Sure, if that kind of victory was all he could achieve, he wouldn’t flinch at taking it. But if he could do more, absolutely obliterate his opponent, stunt on their friends, and tea-bag their corpse… well, what kind of basement-dweller could resist?
+
+Turtling was a good griefing strategy too, but Mae didn’t seem like the type to get as bothered by that as she would if he took her down in an embarrassing show of power. Victor, sure, he’d turtle on that brat all day if he needed to. He could already tell the boy was the type to get worked up over being unable to injure an opponent. But Mae? No. She was a warrior. A martial artist who’d been through hours upon hours of training. She had beaten insensate dummies and failed to land a serious hit on true masters for so long that fighting someone who turtled wouldn’t budge her mental state at all. He had something else in mind.
+
+Rhys closed in on Mae. Mae’s eyes flashed. Doubtless she’d been waiting for this, for him to give in to the lure of the fight and meet her brute power with brute power. Brute power that he, of course, didn’t have, something they both knew. His body was empowered and reforged, but against someone at the absolute peak of Tier 1, he was still lacking in strength.
+
+After all, Mae doubtlessly had ways to empower her body and reinforce it, the same as he did. The fact that they could trade blows indicated as much. If he’d seriously fought Victor with the kind of hits he’d been landing on Mae, the boy might not have survived the encounter. Where hers had likely been guided by a martial fighter or a technique that gave her both strength and toughness, his reforges had all been under non-battle conditions, which meant he’d prioritized survival and invulnerability. He was tough, but not as strong as he could have been. It was something to fix in the future, but right now, it was simply something to keep in mind.
+
+Honestly, even discovering that his body could be considered tough was a bit eye opening. Cynog had trashed him, and so had Ev… but in both cases, he’d been fighting up two Tiers, in essence. Fighting up one tier had already made Tarais treat him with respect, despite him being a lower Tier than her and technically the one who ought to show her respect. If he could actually hold his own two tiers up, he would really be a once in a generation talent, and not trash at all.
+
+If only, but alas, his talent was trash.
+
+He put his thoughts to the back of his mind and slashed at Mae. She blocked, a static block in case he yanked the blade away from a parry. This time, Rhys dismissed the blade before he hit hers. It soared through, and on the far side, he activated Trash Intent once more. A deep red line opened up on Mae’s chest.
+
+She snarled in pain and returned the hit. The downside of this attack was that he was on the other side of her guard, yes… but as a consequence, she, too, was on the other side of his. Her blade cut deep into his ribcage, and red blood spilled out.
+
+Rhys activated Trash Body, suppressing the pain and damage alike. He didn’t retreat or retract his blade, but kept attacking. Mae shouted and leaped back, putting distance between them.
+
+Now. Rhys drew out the steel pole he’d found earlier in the cabin’s trash and pointed its end at her. He manifested Trash Intent with all his power.
+
+Resistance. Fierce resistance, as though he were punching through flesh with his bare hands. Rhys pushed past it, fueling the manifestation with all the mana he had left. The trash in his hand trembled, then came to be, brought back at its original form and strength. A steel pole, formed from Rhys’ mana, pierced through Mae’s shoulder.
+
+Mae screamed. She screamed as Rhys had never heard anyone scream before. He deactivated the intent, and bright red blood spurted from the wound, almost comedically bright, if not for how horrific the wound was. He saw bone and muscle, and behind her, the length of where the steel pole had ended away, was a chunk of flesh. His pole had manifested from his hands, toward her, at speeds even Ev couldn’t mimic, piercing through her shoulder on the way out.
+
+He'd tried the technique once, on Ev. The resistance had been far greater, and he’d failed, but Ev’s face had turned stormy, and she’d immediately closed the distance and delivered a punishing blow to his chest.
+
+When he’d woken up, she’d been there, hovering over him, staring into his eyes. “Never use that technique again. Not unless it’s on someone you mean to kill.”
+
+He didn’t mean to kill Mae; that was why he’d aimed for her shoulder. He’d meant to send a message. If you seriously threaten my school, then prepare to be taken seriously in return. This was no friendly spar between two friendly schools. He knew it, they knew it, everyone knew it. When Hono had been openly shouting about crippling him permanently with her curses, he’d confirmed what he’d suspected: that these students knew, and agreed with, what their teacher and academy meant to do—that they wanted to crush Infinite Constellation School, and gods damn the aftermath. No one opened a friendly duel by threatening to permanently cripple their opponent. Likewise, when he’d taken the hit, he’d confirmed it. Her attacks would have permanently crippled anyone but him. The poison she’d used, too, would have killed someone who didn’t have poison resistance, even at the Tier 1 level, maybe even all the way to Tier 2.
+
+These students knew why they were here. They had come here with the intent to cripple any Infinite Constellation students they met in duels. If not for Rhys’ deep battle familiarity, his Trash Step, and his Trash Body, he might have been crippled in his battle with Mae. She’d had a hidden shield that no one had disclosed, and used caltrops which would have seriously injured, if not permanently crippled, a lesser students’ feet. Knowing how they looked down on Infinite Constellation School, he knew that, though Mae’s attempts were sloppier and less direct than Hono’s, she, and all her fellow students, had come here to strike fear into the heart of his school, and cripple, if not outright kill, its most powerful students.
+
+How unfortunate, then, that the one they faced was a piece of trash, who wasn’t afraid to shred his own body to get ahead.
+
+The orange light around Mae’s body faded. She stumbled back, gripping her shoulder. Walter rushed toward her, concern all over his face. Before he could step on the battlefield and taint their duel, Rhys kicked Mae over the line. She could have no complaints, that way. No take-backs or try-agains. This was their duel.
+
+And it was over.
+
+Walter caught Mae before she hit the ground. Baring her teeth at him, she tore free of his hold and stomped away, yanking a potion out of her robes and downing it in one gulp. Rhys stared at the potion, raising his brows. The emanations from that potion were tremendous. If he had one of those, with Less is More…
+
+Now isn’t the time. He was bleeding from a dozen cuts, and his mana guttered in his core. Rhys drew out his potion and his mana potion and sipped from both. Less is More sparked into life and closed his wounds, and the mana smoothly flowed into his core. Naturally, with all the gold he had, he’d purchased his fair share of potions and mana potions, though the potion he sipped today was one he’d made himself, with strong impurities in it. After a moment, he drew out his impure potion and dripped a few drops on his hand. He had one fight left to go, and Mae had truly pushed his limits. If he hadn’t used underhanded techniques and been willing to put his own body on the line, he would have lost. To put it clearly, Mae should have won their duel, and it was only thanks to his troublemaking that he’d won.
+
+On the sidelines, Walter pointed at him. His hand shook with rage, and his voice trembled with it. “You…”
+
+“Me. So afraid that you’re shaking? I guess that’s only fair, since I’ve beaten all three of your underlings with ease. Should I remind you that I’m a mage of no standing within the school? Hmm, maybe it’s Purple Dawn Academy which is lacking,” Rhys said, lightly flicking his sleeve. A drop of blood splattered across the ground. It was his own, but Walter wouldn’t know that.
+
+Walter’s hand shook harder. His lips pressed into a dangerous white line.
+
+“Should we call it here? I’ve already won three of four. Or is Purple Dawn Academy going to force this duel to its bitter end?” Rhys asked. He was playing the villain, but what else was he supposed to do? Purple Dawn had come here to stunt him his school, and here he was, stunting on them. Was he supposed to act all noble in this circumstance? Graciously accept his victory? Quietly stand here and wait for the next duel?
+
+No! He’d never held back in his life! When he had the upper hand, that was exactly the time to taunt! Piss off the other team even more! Ruin their plans by riling them up! Push their mentality to the edge!
+
+Well, if being silent and mysterious would piss off the other team, he’d do it. But good Walter looked like the sheltered type, who hadn’t done any trash talking in his life, who’d had it beat into him by some well-meaning parent to only say things he meant and say nothing at all rather than something rude.
+
+Ha! He shat upon such noble ideas. Shit-talk, trash-talk, and ruin their mentality! Mental warfare was a kind of warfare, and Rhys loved it most of all! How could someone who loved trash not love trash talk? It was a part of his nature, a piece of his very soul. If he didn’t have anything nice to say, he’d make sure he shat so hard upon his opponent that they’d be wiping excrament out of their crevasses for years to come! Oh delicate of heart, oh noble of mind, come before him! Lay your lily-white ears before his mouth, so he could spew the worst excrement he could come up with into them! Yes, yes, he was in his element!
+
+Walter’s mana flared. His aura clashed with Rhys’, and for the first time since the duels had begun, Rhys felt actual fear. Walter was technically Tier 1, yes. Technically. But his mana was so pure, his emanations so powerful, that he was but a blink of the eye from ascending into Tier 2. In fact, fighting too hard might even push him directly into the next Tier.
+
+Whu-oh, Rhys thought, but not a glimmer of regret went through his mind. If he was going to face the beating of his life, then at least he went down after handing out the tounge-lashing of his life. He could be at peace with that.
+
+“I’m going to kill you,” Walter snarled, and stepped onto the field.

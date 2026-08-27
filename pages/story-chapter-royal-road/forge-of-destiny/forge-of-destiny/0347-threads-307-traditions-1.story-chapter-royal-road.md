@@ -1,0 +1,165 @@
+---
+id: ae9bfb7f-67dd-5fd9-9a83-f91fdaa61bfd
+page-type-slug: story-chapter-royal-road
+title: "Threads 307 Traditions 1"
+slug: 0347-threads-307-traditions-1
+partOf: forge-of-destiny
+position: 347
+ownLength: 2339
+unit: words
+publishedAt: 2023-05-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1217548/threads-307-traditions-1"
+royalRoadId: "1217548"
+---
+
+The meeting came early the next day and took place in the neutral land where Ling Qi had held her luncheon with the emissaries. A proper pavilion had been erected with a solid stone foundation and a roof of wood and clay tile. It had a large rounded table with plentiful seating, as requested by Renxiang. There were some perfunctory refreshments, in deferment to custom, though she expected they would remain mostly untouched.
+
+Already there when she had arrived was Wang Lian, who had at least doffed her workers’ smock in favor of plain brown and green robes. She sat at a seat near the far end of the imperial side of the table with her hands on her stomach.
+
+At the far end of the table, she saw Emissary Dzintara. The hawkish looking woman eyed her up as she approached. She was different today. A dark black line had been painted across her lower lip and down her chin, and a number of jangling piercings hung from her ears. Her aura smelled like woodsmoke and ozone, like an ancient tree just split by lightning.
+
+She also caught a glimpse of black feathers before her eyes slid off of a shadowed corner of the pavilion. An impression of a stubble-lined face as lined and weathered as an old cliff face had been flashed to her. The crow was here, and only being politely visible.
+
+“Good Morning, Baroness, or should I say, Emissary?” Jin Tae had been standing outside the pavilion, apparently waiting for her. He wore black robes chased with silver, and the white mask of a Ministry of Integrity inspector was pulled up on the side of his head.
+
+“Good Morning, Apprentice Tae. Probably the latter. It's the more important title here.”
+
+“As you like,” he said. “And this…”
+
+“Is Sergeant Xia Lin, who represents my lady's security.”
+
+“I am pleased to make your acquaintance,” Xia Lin said. With some coaching, she managed to only sound as stiff as one would expect from a member of the White Plumes.
+
+“A pleasure,” Jin Tae replied. Well, with your arrival, we are only missing…”
+
+The air screamed, separating in a vertical slice of glowing blue, and General Xia was there, standing beside the table. Her helm was on, making a fully faceless and featureless form of articulated and gleaming steel
+
+Jin Tae chuckled. “No one at all.”
+
+She saw the general’s head turn toward the shadowed corner. Crows cawed aloud, shadows shifted, and then, there was an old man in a cloak of crow feathers, bent and leaning on a gnarled stick. His dark and sunken eyes looked steadily back. Emissary Dzintara grimaced, a spark of lightning popping between iron teeth.
+
+Nerves. The emissary was anxious here. Ling Qi wasn’t surprised.
+
+“Yes,” she said, stepping past Jin Tae. “Welcome, everyone, and thank you for making time today. It is my hope that together, we can reach a satisfying arrangement on matters of our work groups and patrols. It honors me that all of you chose to attend.”
+
+“It is best if there are no misunderstandings,” Wang Lian said passively. “An hour’s planning saves a day’s repairs.”
+
+“Let there be no gaps in our understanding,” said the general, turning her eyes from the old man. Her glance flicked briefly to Dzintara, who maintained an admirable composure. She took a single step and turned, crossing her arms as she stood behind the seat there.
+
+“Let our sight be shared here in this place of peace,” Emissary Dzintara said stonily.
+
+Jin Tae followed Ling Qi, a step behind her and off to the side, smiling an unreadable little smile.
+
+Xin Lin stood at her heel and gave her the tiniest nod of encouragement.
+
+Ling Qi kept her back and shoulder straight, surveying everyone.
+
+She had her work cut out for her.
+
+“For the purpose of today’s meeting, I think it best if we lay out clearly the goals we hope to accomplish,” Ling Qi began smoothly, betraying none of the nerves fluttering in her stomach, or so she hoped, at least.
+
+She took her seat, and Xia Lin sat down beside her. Jin Tae followed suit, taking a seat nearer to where the general stood. And she did remain standing, making not even a single motion. Across the table, the old crow remained in his corner as well, shifting only far enough to rest both of his gnarled hands on the head of his walking stick.
+
+“To my understanding,” Ling Qi began, acknowledging neither, “that is the synchronization of our construction plans to avoid missteps in spiritual architecture or damage to one another’s security as the first priority. Can we agree on this?”
+
+“That is correct as far as my interest goes.” Wang Lian moved to sit straighter in her seat, casting off the relaxed appearance she had been affecting. “We’ve halted building in a few places already.”
+
+“So have our crews,” Emissary Dzintara said tersely. “The laying of runestone and way anchors in the northern end of our assignment has been halted.”
+
+“Thank you very much for that, and I apologize deeply for the delays to both of you,” Ling Qi said.
+
+“We of the Ministry of Integrity have continued our survey and assessment, of course. I have been given permission to make some of them available.”
+
+Ling Qi paused, glancing at Jin Tae. “Thank you. The second objective is the efficiency of our patrolling. Right now, we guard the valley separately and without coordination. There have been incidents of groups of our soldiers spooking one another or the work crews.” She kept her voice neutral. “This harms us both, not to mention the way it may open opportunities for third parties to incite trouble.”
+
+It was another chip to play, one she hoped would stack with her earlier efforts to shift the general’s position.
+
+“You refer to the cave demons my own advisors have informed me of?” the other emissary asked.
+
+Wang Lian rumbled, “Tricksome and dishonorable bothers, that they are.”
+
+“My accounts agree,” Dzintara said, looking between them.
+
+“Might I ask what you know of our enemies?” Jin Tae asked smoothly. “A small token of good faith perhaps.”
+
+Ling Qi shot him a look, but she couldn’t disagree openly. “We have no place to make demands,” she softened the rhetoric, “but that would be appreciated.”
+
+Dzintara drummed iron nails on the polished tabletop once. “In tales from the cloud tribes and our hinterlands, they are plaguebearers and merchants of death, selling curses and runework to the desperate and foolish. There are older legends from beyond the Gates, home of the new tribes. A great spine of mountains akin to what you call the Wall. Nidavellir, kingdom of the svartalfr, nestled in the roots of a great frozen tree which scrapes the vault of heaven. There are some that match with your descriptions.” She crossed her arms. “More should wait for an appropriate meeting.”
+
+The general's faceless helm turned very slowly toward the emissary. Ling Qi saw sweat on the other woman’s brow, but to her credit, she did not falter.
+
+“We should avoid tangents and arrange intelligence sharing later,” Ling Qi cut in. “It is enough to know that we must watch for intrigue from below.”
+
+Thankfully, thankfully, her side of the table was quelled. She envied Dzinatara a little, who was apparently trusted to speak the full interests of her side on her own.
+
+“Focus. One target at a time,” Wang Lian agreed, giving the others a dour look. “The work crews. I propose we exchange a map of what energy flows in the earth we are attempting to work with. I know those stones and iron spikes of yours tap the valley’s geomancy.”
+
+“And we can determine that your pillars and rune tiles do the same. We do not recognize the patterns you arrange, Voice Lian,” Dzintara said, dragging her eyes away from the general.
+
+“I could understand yours with enough study.” Wang Lian paused and considered. “Perhaps my counterpart on your side could do likewise.”
+
+Even for the more reasonable on the imperial side, such a concession was not one that could be given without conscious consideration.
+
+Ling Qi took the opportunity. “We cannot share all of our secrets, but a meeting between our geomancers and your…”
+
+Dzintara furrowed her brow but answered. “... Geomancer. Land readers? This is a close enough translation.”
+
+“A meeting between our geomancers then, to exchange maps of what we see in the earth and heavens,” Ling Qi concluded. “And to determine how our networks might neighbor or join without errors on either side.”
+
+Jin Tae gave her an apologetic look. “The ministry would have to insist on an observer to such a meeting to ensure too many secrets are not shared.”
+
+“I or my companion would observe as well, as the Eyes of the Crowfather, Master of Runes,” said the shadowed old man.
+
+“Adding mutual observers to this proposal then,” Ling Qi said smoothly. “Can this be agreed upon?”
+
+She listened quietly as Wang Lian, Dzintara, and occasionally, one of the others chimed in, haggling over details, the time and place and the number of crafters and geomancers to be assigned. This was going as smoothly as she could hope for. However, this objective was always going to be the easier part, the part which had some tentative agreement already.
+
+“With that, we can declare this matter finalized. The geomancy meeting will take place here in three days' time,” Ling Qi said when it had finally wound down.
+
+“On that, it is the opinion of the White Sky that a shared meeting place should be constructed for the main talks, a location which both realms have contributed to,” Dzintara said.
+
+“You are our guests,” Jin Tae demurred. “One hardly expects a guest to build a dining hall in their host's garden.”
+
+“I concur,” said Xia Ren, speaking for the first time since the introduction.
+
+Ling Qi shared a look with Xia Lin. She understood the objection. For Xia Ren, it was likely security as the main focus. For Jin Tae and the interests he represented, there was pride and a subtle element of dominance in being the hosts. It made the White Sky the supplicants in the arrangement.
+
+“The White Sky are not beggars. A guest needs not bring their own house, but a peer should not arrive at the house empty-handed either,” Dzintara said firmly, looking at Ling Qi. “Or do your people honor beggars?”
+
+Ling Qi frowned at her. That was just provocative.
+
+“Alternating arrangements might be better. You build a meeting place as well. We can alternate uses,” Wang Lian grunted. She did not seem terribly invested either way.
+
+“A proof of work for cooperation and use of runework,” the old crow supported his emissary’s proposal, rapping his cane on the floor. “But separate houses, so that we may both play host. This may also do.”
+
+“A shared project is quite a bit more than error testing,” Jin Tae noted. “And time already grows short. Is this the time for such an ambitious project?”
+
+“Ambition describes this entire venture,” Xia Lin interjected stiffly but supportively. “And an open meeting hall hardly needs dense security given the guest list. I propose if this is done, both parties agree to the use of structural formations only.”
+
+Ling Qi gave her companion a brief, appreciative look.
+
+Wang Lian agreed. “It’s true that nothing said in such a place will remain secret for long, no matter what wards we layer on.”
+
+“In such a case. I will be directly present for the full duration of construction,” Xia Ren said flatly in a tone which brooked no disagreement.
+
+“That would go far in assuaging any concerns the ministry would have over such matters.” Jin Tae said.
+
+“And what concerns might you have over the alternating meeting places?” Ling Qi asked.
+
+“The ministry is more concerned with contamination of information, so do as you please,” Jin Tae said politely.
+
+The general looked at her. Ling Qi looked back. She felt something in her shadow twitch, and the crow shot a sharp and wary look her way. It seemed Shu Yue was present today.
+
+“If the security of the young miss is assured, I have no objections.”
+
+Ling Qi looked at Dzintara, who had turned her head to look at the crow with furrowed brows. She looked back at Ling Qi. “The White Sky would agree to your stipulation on the runic arrays used.”
+
+Ling Qi considered her options. On the one hand, separate meeting places was very much the sensible, neutral option that would neither please nor upset anyone too much. On the other hand, the combined building effort might allow her to get by what she hadn’t been able to convince the general of, greater coordination and more meetings.
+
+However, then there was the fact that the general insisted on being present. It was hard to imagine any friendliness occurring under her gaze. She wasn’t biased enough to believe the general was a wild animal who would destroy the project entirely at the slightest wrong twitch of the White Sky, but neither did she trust that the woman would not intimidate and antagonize everyone around her. It wouldn’t even be out of malice, but merely her nature.
+
+“I tend to lean toward the shared project, but if so, I have a suggestion I would like the general to consider.”
+
+The sovereign didn’t look at her. She didn’t need to for Ling Qi to feel her attention.
+
+“For propriety, our honor, and our guests’ ease of mind, I would like to suggest that Xia Lin accompany you and act as your go-between as she already has some experience and understanding of our guests. It would benefit us if she were able to hear their words and bring them to you or respond to any non-catastrophic troubles. Perhaps she could teach some of her compatriots as well, so that the frailties of a mere third realm do not leave the site unguarded at any time.”

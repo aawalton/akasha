@@ -1,0 +1,107 @@
+---
+id: ba61a1c3-7feb-5e46-83f2-dac24fa92dda
+page-type-slug: story-chapter-royal-road
+title: "Threads 359-Cornerstone 2"
+slug: 0399-threads-359-cornerstone-2
+partOf: forge-of-destiny
+position: 399
+ownLength: 1932
+unit: words
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1499565/threads-359-cornerstone-2"
+royalRoadId: "1499565"
+---
+
+The meeting hall was in good form today, filled with the low murmur of conversation between the scholars and functionaries. The higher realm cultivators had already begun to bypass the need for translators, learning their foreign colleagues’ tongues as they debated. All sound subsided as Cai Renxiang rose at the head of the table and began to speak, announcing the beginning of a new day of talks.
+
+"I am most pleased with the progress we have made in the first week of talks. We have come together as civilized men and women to discuss that which is the foundation of all civilization: law and its interpretation and intricacies. There have been arguments, debates, and disagreements over precedent and authority, over codes and jurisdiction, but not once have I doubted that the collected wisdom here would bring about a fair and just agreement which may be adhered to by everyone. Today, let us see that agreement finalized and laid out fairly. I cede the table now to our first speakers…"
+
+Ling Qi observed as the extremely bearded White Sky scholar from the second day of negotiations rose and began to speak, joined shortly in debate by an imperial scholar who appeared so old and shrunken that he might get lost in his intricate robes.
+
+For her, her goal was to check in with the Emerald Seas nobility, the clan representatives. She had soothed them well enough to keep support over the last few days, but now that the time of the signing of the initial legal documents was fast approaching, she needed to seek out their concerns and see where she could buy further support. No one was voicing any major complaints yet, but the more difficult border negotiations were upcoming, and it would be imperative to build up good feelings while she had a chance.
+
+As the debates went on, her gaze roamed across her opposites. Jaromila sat at the opposite end of the table, poised still with Ilsur at her side. Her spirit was subtly different, her mantle a sturdy mountain of ice holding up the sky, projecting confidence and authority. Khadne and Inzha were both absent today, leaving Rostam sitting alone, which felt off to her. It must have something to do with their own investigations. She would need to build trust with the White Sky more as well. No doubt everyone would come out of the border negotiations bruised and smarting.
+
+She glanced to her side. Cao Chun was flanked by two of his silent agents today, perturbed but implacable. She could see nothing else of him under his mask. She wondered if it was because he was more aware now of the extent of her senses.
+
+Her time came soon enough. With the opening statements made by everyone and the negotiating positions laid out, recess was called for the more personal negotiations to begin.
+
+Ling Qi considered the room as people moved away from the central table and broke up into smaller groups to talk. Servants bearing refreshments began to move in, filling the hall with the faint susurrus of low voices distorted through various screening effects, footsteps and the swish of robes and gowns across polished wood.
+
+After speaking briefly with a Jia functionary, representing their absent lords, her eyes fell on Gan Guangli. Like her, Gan had been spending his days here talking and smoothing over tempers. He stood with Luo Jie and Wang Lian. A brief look showed there might be some difficulty there, a little tension. She spoke some words to the man she was talking to, deflections for now, and made her excuses. The voices representing that clan were going to be louder in the next leg of negotiations, probably entwined with that of the White Plumes.
+
+She approached at a slow pace, giving time to be recognized or rebuffed. Wang Lian caught her eyes and tilted her chin, so Ling Qi continued to approach, the unintelligible voices coming into focus as she stepped into the bubble of the conversation.
+
+"I do understand your clan’s concerns, Lord Jie, but I am not certain they can be answered at this early stage."
+
+"I do not know that I agree, young man. Allowing a single clan's interests to be prime here may damage your venture in the longer term."
+
+"If I did not know you better, I would take offense. The Wang have made no move to own this endeavor. The pass is where it is, and the best roads are where they are. Or would you have us rip up a mountain or two as General Xia has done?"
+
+"I do not claim your intentions, only what other eyes—some in my kin—will see."
+
+Wang Lian snorted, crossing her thick arms over her chest. "The road goes through Cai lands first regardless. The Wang stand by our refusal to claim more mountains at this time."
+
+Luo Jie's eyes fell on her, and Gan Guangli turned as she stepped forward, moving aside to let her into the circle of the conversation.
+
+"That the Cai grant no one's claims while war is afoot strikes fair," Luo Jie allowed. "But it will not satisfy the far-sighted."
+
+"May I ask what it is we are discussing?" Ling Qi questioned.
+
+"It is Lord Luo's opinion that it would be best to write into the foundational charter the steps needed for expansion and the establishment of additional points of contact now," Gan Guangli explained. "I do not disagree! However, I think setting a specific number on the years until the matter will be visited is premature."
+
+"My kin wish for fifty years. I counsel one hundred, if we must. The young are hasty. I agree with the young hero, but my clan does not. Neither do our friends, the Jia."
+
+"The Luo clan wishes to have a promise to establish an additional court and meeting location within a certain span of years?" Ling Qi asked warily. "I am pleased with the enthusiasm, but…"
+
+"It's nothing of the sort. Expansionists," Wang Lian said bluntly.
+
+"Lady Wang, I do not think the proposal is rooted solely in such desires," Gan Guangli protested, glancing to Luo Jie
+
+"They want their logistics hub for claiming more mountains, young man. Talking to foreigners is an excuse." Wang Lian tilted her chin up at Luo Jie. "Will you call me a liar, Luo Jie?"
+
+The old man frowned deeply, tapping his gnarled cane on the ground. "No. But there are other thoughts in our minds as well. And I speak the truth. There are whispers that the Wang are too favored by the Cai here. Petty or not, resentments cannot be ignored."
+
+"I see," Ling Qi said carefully.
+
+Her mind raced through the possibilities. If the counts felt one clan was favored too much in the deals being established, it could sour the rest of them on this summit. All the same, it was dangerous to take this fragile endeavor and spin off another connection to those with less pure intent than Lady Cai and herself.  To do so might be racing ahead of the cart. And yet, if the Luo and the Jia were invested in this endeavor, then it would buy them much more leeway with the other clans. Going too fast would probably unsettle interests in the White Sky though, who would also need to buy into this.
+
+"Establishing procedures for expansion is reasonable, and I support including it in talks."
+
+"I do not think anyone would object to that!" Gan Guangli boomed.
+
+"So… I think there is some wisdom in Lord Luo's proposal," Ling Qi said, glancing toward Gan Guangli. "A promise to meet again and discuss expansion in, say, a hundred years’ time is workable. In a century, any obvious issues will have been shaken out, and it will be time to consider next steps."
+
+"Ah, to imagine that only a hundred years might reveal all problems." Luo Jie’s wrinkled face showed an amused expression. "But yes, Lady Ling is wise. A promise to see to the matter in good time will quiet some voices. I will warn that one's definition of discussion could return then twice as loud in time."
+
+Ling Qi ducked her head in acknowledgement. There was still a part of her which whispered that they could “discuss” all they liked, but that was not a promise to action. However, while one could get away with such wordplay to an extent, pushing it too far would only infuriate those she had made such promises to. However far away a century seemed now, she would have to be prepared to make a good faith effort at that time, if she did not want to make enemies.
+
+"I do believe such a proposal would be well received by everyone. After all, an oath to meet and talk again inspires confidence," Gan Guangli said. "It means that all of us see a path which can be called success."
+
+"In a way," Wang Lian said bluntly. "Well, I won't object to this. Outlooks can change in a century, however it seems to the oldest among us. Perhaps the Wang Clan might be in a position to support such an endeavor then."
+
+Luo Jie shrugged. "Words are light, but what are such complaints but words? Matching them is enough for now."
+
+"Ah, that is right, Lord Luo. Are you satisfied with the investment into the court project?" Ling Qi asked.
+
+He tapped his stick once against the ground. "Learned lawmakers are not common laborers. That they have made oaths to supply them here as we have—as the capital has—I am pleased with this. It will demand more building and more investment. Yes, if you would ask this old man, then these talks have produced some small fruit."
+
+"I agree. Judges of a realm to be trusted with this are not lightly placed. Having listened to their scholars speak, I am more confident that these foreigners are able to meet us halfway. It is no mere tribal code being recited to us," Wang Lian said. "It is not my field, but my advisor on the matter is impressed by the breadth of their law."
+
+Ling Qi bowed her head. "I am glad that Lady Wang and Lord Luo are satisfied."
+
+"Haha! In the end, only witnessing something yourself can truly convince you at times, no matter how good our travel log may have been!" Gan Guangli exclaimed. "I, too, am glad to know that our esteemed lords and ladies are not shading their eyes."
+
+"We will see. They can be treated with, but then, so could those of the hills long ago," Luo Jie tempered. "Where will they stand when we must speak of lines on the land and spears in hands? Of raiding and war? I wish the youngsters good fortune in settling much more difficult matters."
+
+"Thank you, Lord Luo," Ling Qi said. "However, I will continue to be confident."
+
+"Hah! It is as my companion says," Gan Guangli agreed. "The road may be long and the terrain difficult, but our destination is in sight."
+
+Wang Lian let out an amused huff. "I don't hate that. One should be confident in their projects. Don't let it become arrogance."
+
+"Lady Cai would never allow us to become so unmoored," Ling Qi said. "But please excuse me, Lord Luo, Lady Wang."
+
+"Perhaps," Luo Jie said. "And you are excused. I must speak to my own."
+
+"And one of our scholars is trying not to be too obvious that he wants my assistance fending off the Meng." Wang Lian snorted. "Let's all be on our way."

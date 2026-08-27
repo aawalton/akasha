@@ -1,0 +1,179 @@
+---
+id: dcf903de-0400-579d-9db9-303c5ac6a84d
+page-type-slug: story-chapter-royal-road
+title: "Threads 123-Convergence 1"
+slug: 0150-threads-123-convergence-1
+partOf: forge-of-destiny
+position: 150
+ownLength: 2565
+unit: words
+publishedAt: 2021-08-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/741599/threads-123-convergence-1"
+royalRoadId: "741599"
+---
+
+“Thus, the quality of the water is as important as the provenance of the leaves in achieving the proper flavor,” Cai Renxiang explained. As she spoke, she poured heated water into the teapot over the waiting leaves.
+
+Ling Qi had to admit, the rising fragrance was pretty nice. However, she had to sigh at the knowledge that depending on the blend, she could ruin tea by using the wrong water. “Can I ask why you chose to heat the water manually?” Ling Qi asked. “The pot has adjustable heating formations, doesn’t it?”
+
+They were seated in Cai Renxiang’s dining room. It was as plain and spartan as her own, the heiress not having bothered with much decoration for a temporary home. Between them was laid out an incredibly fine tea set made of white porcelain with patterns of the palest green painted onto the surface. If her senses were correct, the patterns were using what Ling Qi was quite certain was literally powdered green spirit stones as pigment. Ling Qi had to work not to stare when the girl brought it out.
+
+Cai Renxiang did not raise her eyes until she had finished pouring, letting the steaming water overflow into the bowl the teapot rested in. “While commercial quality formations are well enough for casual use, I am showing you the proper method. For truly high quality blends, such formations are insufficient. Instead, you must know and achieve the proper temperature by hand.”
+
+Ling Qi eyed the masterful strokes of the formations worked into the designs on the porcelain. She had to wonder what Cai Renxiang would think of the far more primitive heating formations on her own home’s tea set. “I see, and how do you know the proper temperature?”
+
+“By reading instructive materials on the blend you are brewing,” Cai Renxiang said. She placed the lid on the teapot. “Unless you consider your senses fine enough to pick out the minute fluctuations in the qi of the tea and recognize them for what they imply.”
+
+“I think I will stick with the former,” Ling Qi said.
+
+“A wise choice. I myself have learned to recognize such changes, but it is not necessary for the casual practitioner,” Cai Renxiang said, leaning back in her seat. “Now, Cloud Grotto Ginseng must be allowed to brew for precisely twelve minutes and thirty eight seconds, so we must wait. Tell me, Ling Qi, what have you learned in your time with Wang Chao?”
+
+Ling Qi hummed to herself, drumming her fingers on the polished tabletop. “I am afraid that I only have some small gossip,” Ling Qi apologized. “While I believe I have made a good impression on those attending, they hardly share any deep secrets.”
+
+“That is fine,” Cai Renxiang said serenely. “I do not expect the impossible.”
+
+“Most kind of you,” Ling Qi shot back. “Let’s see… Personal gossip aside, it seems that most disciples have a positive view of you. Your participation in the destruction of the raiding force in the eastern region last month was greatly acclaimed.”
+
+“Because you were listening?” Cai Renxiang asked to clarify, quirking an eyebrow.
+
+Ling Qi smiled. “I thought so too at first, but no, at least among the group I was in, the admiration was sincere. That none of the raiders escaped was credited to you.”
+
+“My arts allowed for those fleeing to be brought down, but I cannot claim credit for baiting them into the position that allowed it in the first place,” Cai Renxiang said slowly. “And it was a small force. I would only call it a victory for morale.”
+
+Ling Qi could only shrug. That was not how the disciples saw it. After months of hit-and-run and skirmishing, a force being pinned down and destroyed was cheered loudly. “That aside, I have made some progress on discerning the Wang clan’s position. It was only a comment from Wang Chao, but…”
+
+Ling Qi recalled the conversation.
+
+“You understand, Miss Ling, those forest dwellers think of the folk of the hills and mountains as upstarts and newcomers as if we were not here, weathering the tribes while they were sitting pretty in their palaces playing court games! Just hold, they say. Don’t expand your holdings. Don’t retaliate! Bah, they wouldn’t be saying that if those brutes did more than pick at their periphery every year,” Wang Chao had groused over a cup of cider.
+
+“They do have something of a point,” Ling Qi had said carefully. “Surely we do not have enough people to hold all the mountains of the Wall.”
+
+“We don’t need to,” Wang Chao had grumbled. “Let us build outposts, and the beasts can take the rest. It would be better than leaving the cloud tribes be. Besides, don’t let the nonsense from the north fool you. The tribes can be brought to heel. They’re men as much as us. Slay their warriors, and the rest fall in line. Half of the villages in our holdings are of cloud tribe blood. There’s the occasional rebellions, of course, but put it down a few times, give them a taste of a proper civilized lifestyle, and make sure the children are taught properly, and they'll be proper citizens in no time. Why, one of Grandfather's favored generals is the grandson of a Khan who surrendered.”
+
+“I will have to defer to your experience,” Ling Qi had replied carefully. Something about his words bothered her, but she couldn’t say exactly what. “Still, doing all of that takes time, doesn’t it?”
+
+“It does,” Wang Chao had allowed grudgingly. “It just seems as if the rest of the province seems to think the blighted raiders aren’t a real problem any longer. Even the Jia have left us to our own devices these days, cozying up with the northerners. And look where it's gotten us! The throne did more for us with the Sects than the rest of the province has ever done before Duchess Cai rose. You would think they would remember that!”
+
+“If his view is at all common, the Wang clan is feeling somewhat isolated and abandoned,” Ling Qi explained. “They still support the Duchess, but they are growing very agitated with the status quo.”
+
+“As expected.” Cai Renxiang sighed. “Continue working with him if you would. It will be a good connection to build.”
+
+“Of course, Lady Renxiang,” Ling Qi said. She didn’t even mind doing so anymore. While it could be a little tedious, there was enough good to make up for it, and she could still cultivate at the gatherings.
+
+“That said, I must congratulate you on recently reaching the green threshold stage,” her liege said. “It is an impressive achievement.”
+
+“Only as impressive as yours,” Ling Qi said. Cai Renxiang was fully threshold and had beaten her to threshold by the better part of a month, but the gap in base cultivation was closing.
+
+Cai Renxiang gave her an unamused look. “Do accept the compliment, Ling Qi. I will see to speaking with Mother about increasing your cultivation stipend come year’s end.”
+
+“Thank you, Lady Renxiang.” Ling Qi was looking forward to keeping her full pace of cultivation. She glanced toward the teapot, inhaling the rising fragrance. Twelve minutes, the heiress had said. It smelled like it was ready to drink now. “What should we do about our sect rankings though? We need to continue rising, but I haven’t gotten any leads on other big missions I could volunteer for.”
+
+“On that matter, I have my own leads. Core Disciple Jia has been grateful for my support in some matters, and I have received some insights into upcoming missions. I believe it is time that we undertook an assignment together to show your ability to support me in a more direct fashion. There are a pair of high profile assignments which I believe would be suitable.”
+
+Ling Qi’s gaze drifting back to Renxiang, curious. “Oh, what is the Sect planning?”
+
+“Firstly, the Sect’s intelligence has discerned where a number of the barbarians’ lower-level leadership is meeting to coordinate. It is believed that the site is also of some ritual importance. A group is needed to assault it,” Cai Renxiang answered. “Alternatively, the Sect is constructing a new forward base underground. Its geomantic properties will be used to allow more powerful cultivators to function in that toxic environment. The Sect expects heavy resistance to its construction.”
+
+“This sounds like there’s going to be higher realm enemies in both cases,” Ling Qi said warily.
+
+“Indeed,” Cai Renxiang said bluntly. “We will have our own allies, but it will be a dangerous matter regardless. Do you have a preference?”
+
+Ling Qi looked down at the table, staring at her faint reflection in the polished surface. She recalled the caverns and the shishigui. She remembered the legion born on silent wings and their mutilated upper realms.
+
+“I’d rather avoid the caves if it’s all the same to you, Lady Renxiang,” Ling Qi said.
+
+“Not your most well thought out reasoning,” Cai Renxiang said. “Although I can empathize with the reasoning.”
+
+Ah, that was right, Cai Renxiang had been incapacitated in the initial assault by the activation of Liming.
+
+“I think from the perspective of earning sect rank, an attack is also better. It is more visible and a more obvious victory,” Ling Qi said after a moment of thought.
+
+The corners of Cai Renxiang’s lips quirked up. “Better, but not yet fit for the public.”
+
+Ling Qi huffed. “Fine. Between the two of us, it is highly unlikely for any barbarians in our assigned zone to escape. We will be more of an asset in such an operation.”
+
+Cai Renxiang looked back at her impassively then gave a small nod. “Very good.”
+
+Ling Qi hummed. “Can I ask what your opinion on the matter is?”
+
+“In truth, I am ambivalent,” Cai Renxiang said after a moment. “I believe our talents to be useful in both situations. However, I lean toward your reasoning. And I also find the under earth unpleasant.”
+
+“How irresponsible of you to base your choices on such a thing,” Ling Qi returned.
+
+Cai Renxiang ignored her, turning back to the tea. “Cloud Grotto Ginseng requires the use of the type three wind-natured strainer to achieve the optimum flavour. To strain the brew properly, you must…”
+
+As the heiress went on, Ling Qi settled in to listen. She could worry about the mission later. After all, it wasn’t like the objective was anything crazy this time.
+
+***
+
+“What a pleasant surprise, Junior Sister!” Liao Zhu said brightly, speaking over the high wind.
+
+<At least you’ll have something nice to look at on this mission.> Sixiang chuckled in her head.
+
+Ling Qi silently hushed the muse and offered a bow. “Senior Brother Liao,” she greeted, glancing to his side where another young man stood. “Senior Brother Ruan?”
+
+Ruan Shen gave her a wan smile. “Indeed. It seems we will be working together, Junior Sister.”
+
+In her head, Hanyi let out a wholly inappropriate giggle. Zhengui just seemed confused.
+
+They were standing within the Sect’s forward encampment. Temporary wooden walls rose around pavilions and tents, and first and second realm soldiers scurried back and forth through the pouring rain taking care of a multitude of tasks.
+
+For the three of them, rain poured around them. It was a simple enough thing for Ling Qi to manipulate the air around her to deflect it. “Do the two of you know each other?” she asked.
+
+“This senior brother may have once tutored a young fellow going through his brooding phase,” Liao Zhu said, eyes crinkled in amusement.
+
+“Is it really necessary to speak of such things?” Ruan Shen made a pained face. “How have you been, Junior Sister? I must express my regret that we were not able to have our meeting this last month.”
+
+“I am doing well. My wounds are healed,” Ling Qi said politely. “How is Senior Sister Bian?”
+
+“She is recovering well from her exhaustion,” Ruan Shen said, scrubbing a hand through his hair.
+
+“You would know, having spent the better part of a week camped at the medicine hall,” Liao Zhu said lightly. “So dedicated.”
+
+Ling Qi smiled. “I am sure that Senior Sister appreciated it.”
+
+Hanyi grumbled in her head. Ling Qi ignored her.
+
+“Why do I feel like a rabbit caught between two snakes?” Ruan Shen grumbled. “In any case, Bian Ya would like to join our discussions. If you have the time this month, Junior Sister, the invitation stands.”
+
+Ling Qi considered her tentative project with Zhengui and Ruan Shen’s musical preferences. “I would be happy to, if you would still have me, Senior Brother.”
+
+“Alas, to be left alone. Such is the fate of the idealist,” Liao Zhu lamented. “Left out in the cold due to my path of justice!”
+
+“It’s more that you have a tin ear and cannot tell an erhu from a guqin,” Ruan Shen said dryly.
+
+“Cruel, Junior Brother, to mock my disability so,” Liao Zhu said, laying a hand over his chest. “Sweet Junior Sister Ling, will you stand for this?”
+
+“Senior Brother Liao should perhaps tone it down just a little,” Ling Qi said flatly.
+
+He staggered as if struck. Ling Qi couldn’t help herself. She chuckled. Some of the tension in her shoulders eased away.
+
+Ling Qi looked back over her shoulder as she felt the air shift, light falling on her back. She turned and bowed. “Lady Cai, you have completed our arrangements?”
+
+“I have,” Cai Renxiang said evenly. “We are recorded among the volunteer officers.”
+
+Ruan Shen and Liao Zhu both bowed low. “Lady Cai.”
+
+Cai Renxiang glanced at them both. “Raise your heads. Liao Zhu, has your father been well?”
+
+Liao Zhu straightened up, his customary good humor twinkling in his eyes. “Father is most honored by his position. But age leeches at his bones. He hopes that my eldest sister might be ready to take up the family's mantle soon.”
+
+“Physician Liao is truly skilled, but if it is Liao Jiu, then I believe his shoes will be well filled,” Cai Renxiang replied diplomatically. Her eyes flicked over to Ruan Shen. “Sir Ruan, it is unlike you to join such operations.”
+
+“Ha, well, Sister Bian made it clear that I should make myself useful,” he said. “It will be an honor to serve with you, Lady Cai.”
+
+“It will please me to attain victory at your sides,” the heiress replied. “May I ask what matters were being discussed in my absence?”
+
+“Only small personal matters, my lady,” Ling Qi said. “Ruan Shen and I sometimes discuss musical matters with a few other disciples.”
+
+“Is that so?” Cai Renxiang inquired.
+
+“Junior Sister Ling can be quite insightful in her way,” Ruan Shen put in.
+
+Cai Renxiang gave Ling Qi a look out of the corner of her eye. “Hmm, quite. In any case, I believe we should be taking our places for the orientation meeting.”
+
+“Ah, is it truly so late already?” Laio Zhu peered up at the iron gray sky. “It is so difficult to tell when the barbarians are about.”
+
+Ling Qi glanced up, considering the storm. The roiling clouds stretched to the horizon in every direction except for the north where they curved unnaturally around the mountains of the Sect, curbed by its wards.
+
+They certainly weren’t going to be interrupting something small, it seemed.

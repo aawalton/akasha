@@ -1,0 +1,101 @@
+---
+id: f7e01d67-2ae8-56db-bf8c-5e42a62aec9f
+page-type-slug: story-chapter-royal-road
+title: "42. Files and Cats"
+slug: 0042-42-files-and-cats
+partOf: god-of-trash
+position: 42
+ownLength: 2454
+unit: words
+publishedAt: 2025-04-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2177468/42-files-and-cats"
+royalRoadId: "2177468"
+---
+
+Rhys drew up to Aquari’s mansion. It stood over him, the entryway’s pillars soaring high over his head. Everything about it was designed to make him feel small. Not that he minded. He was a small lump of trash, best ignored until he wanted someone’s attention. He tried the door.
+
+Locked. A tinge of mana in the handle warned him against trying to break it open.
+
+Rhys scowled. “No good, huh?”
+
+Az reached out a paw from his arms and smacked the handle. A lock clicked, and the door swung open on its own.
+
+“Well, isn’t that convenient,” Rhys muttered. He shrugged, looking at the potion in his robes. He could have dripped a few drops of that on the lock to melt it. If purpose-built potion bottles meant to contain the most virulent of poisons didn’t work, no ordinary metal lock would hold up to it. If it did, he’d just steal the metal to make a second bottle, not that he considered such a scenario very likely. But it was better if he didn’t have to destroy the lock, so he didn’t protest Az’s help. He’d been given permission to gather the trash, not destroy the Schoolmaster’s property.
+
+He gave a slightly guilty look at the lock as he passed. The door was locked, a clear indication she didn’t want help, but she clearly needed help.
+
+The second he stepped past the door, all his hesitation went out the window. The smell slammed him first, an absolute wall of stench. There was no describing it, so Rhys didn’t try. His eyes watered, and his nose ran. He found himself desperately wishing for his pre-mage senses, because experiencing this stench with a mage’s nose was absolute hell. How does Aquari do it? She had to be used to the smell to the point she couldn’t smell it anymore, because as strong as her senses had to be, he couldn’t imagine putting up with this reek for ten seconds, let alone living in it.
+
+In his arms, Az turned away. His ears went flat, and he pressed his muzzle against Rhys’ robes, using them as a makeshift mask. Rhys, too, lifted his robe to cover his nose. It didn’t do much, but it was better than nothing.
+
+Trash piled high in the hallways. It completely filled the floor and piled up to shoulder height. Not just papers and relatively ‘clean’ trash, but everything. Half-eaten food. Rotting plants. A small dead animal that Rhys was pretty sure had been a rat at one point, though it wasn’t anything any longer. Just a puddle of brownish liquid, fur, and mold. Broken items so far gone Rhys couldn’t even identify what they might have been littered the floor and stuck out of the piles at random. He wanted to take his time and go through her trash, collect everything of value that he could either restore and sell or use Trash Intent on in battle… but now wasn’t the time. First, he’d read up on the incoming teacher. Then, once he was done, he could prattle about and do all the bonus things he also wanted to do.
+
+Slipping and sliding, Rhys struggled over the trash. Az left his arms and perched on his shoulder instead, opening Rhys to use his hands. He scrambled around on his hands and feet, barely making forward progress.
+
+As he walked, he paid close attention to how he placed his feet on successful steps forward. Slowly, he went from having to scramble on all fours, his hands touching unsavory items of unknown providence, to moving on three limbs, to only touching the ground occasionally, until at last, he could slip and slide with enough confidence to press forward on two limbs.
+
+Trash Step 1
+
+That counts as a skill? Rhys shook his head. He was never sure what counted or didn’t. He walked on, though it was now relatively easy to scramble over the trash.
+
+Aquari’s mansion was a mess, but at least the layout was simple. Rooms laid out to the left and right of a central grand hallway, with a staircase at the back of the grand hall that led up to the next floor. Trash piled up at the bottom of the stairs, but due to the laws of gravity, the upper half of the stairs were relatively clean. Rhys walked up them with confidence, until he stepped on what looked like a piece of paper, only for the rotten peel underneath to send the whole thing sliding out from under his foot. He activated Trash Step as powerfully as he could and pitched himself forward at the same time. His solid foot remained still, his weight swung forward, and he stomped his sliding foot back down on the same stair, having failed the upward motion but succeeded at surviving.
+
+Claws dug pinpricks of red against his shirt. Az’s tail beat against his back. The cat swayed forward and back, belatedly compensating for Rhys’ motions.
+
+“It’s alright. I got it,” Rhys reassured him.
+
+Az released his claws. His tail kept batting Rhys’ shoulder, though, still dissatisfied.
+
+Rhys took the rest of the stairs with more caution. He couldn’t reach the handrail, since mounds of trash colonized the edge of the stairs near the wall. If he went for the handrail, he’d have to fight against all the trash. Better to walk on the clearer parts of the stairs and take care, than battle whatever unseen gunk awaited him by the handrail.
+
+It smelled a little better upstairs, mostly because paper mostly populated the upper floor. It piled up in snowy drifts, like a winter landscape. Az started purring, his tail smacking Rhys with a different beat. Eager, now.
+
+“Let’s start in her office,” Rhys suggested, hurrying toward the room Lira had pointed out to him. At this rate, Az was going to jump off his shoulder and start archiving before they even got to the right room.
+
+Az’s tail batted his shoulder impatiently. He leaned forward, pitching all his weight ahead. His back legs coiled, preparing to launch.
+
+Rhys sped toward the correct room as fast as possible. If he didn’t get there soon, Az was absolutely going to abandon him. He knew that pose. The cat in Az was distracted and about to run off and do his own thing, unless Rhys provided additional stimulation.
+
+He reached the room just as Az leapt free. The cat bounded across the room, then slowed to a stalk, taking in the papers strewn over the floor with characteristic disdain. He shook his head and sneezed.
+
+“It is dusty in here,” Rhys agreed. He glanced across the way, at the sunlight spilling in from the front of the room. He wanted to open a window, but he didn’t want to risk papers escaping.
+
+“No worse than I’m accustomed to,” Az replied primly.
+
+Rhys whirled. The man towered over him, back in his human form once more. He held a sheaf of papers in his hand and flicked through them with a casually bored look.
+
+Lifting his eyes, he cocked a brow. “So? What are you looking for?”
+
+Rhys quickly explained the situation with the guest teacher, and Az nodded. “If I come across anything like that, I’ll be sure to share it with you. Until then, though… shall we archive these papers? Separating the wheat from the chaff is important in saving historical documentation. What is unnecessary shall be burned, but what is valuable must be saved.”
+
+“Of course,” Rhys agreed. He tipped his head as a thought occurred to him. Was it possible that the trash generated by this process might be a purer form of trash than his usual trash? He separated out the things that were valuable to him as part of his process, but he didn’t have a team of experts there to help him pick out the most valuable items from every part of trash. He was fully aware that he might be burning things that were, in fact, valuable, and it was simply due to his lack of knowledge that he failed to recognize them as valuable. That was fine for now. It wasn’t possible for him to know enough about every type of thing in the trash to pick out all the valuables, and he’d made peace with that. In the future, he intended to be able to perfectly pick treasure from trash, but for now, this was the best he could do.
+
+If he intended to learn how to pick all treasure from trash, why not start with a clearly defined task like archiving? Especially when he had an expert in the form of Az to guide him in separating the two.
+
+Az settled in, and Rhys sat beside him. At first, he quietly watched while Az sorted the papers, taking the papers Az handed him and adding them to the appropriate piles, as Az indicated. After a while, though, he started to get a feel for it. Letters, receipts for large items, charters and agreements—all those were important. Papers that were no more than the detritus of a life lived, such as small receipts for Aquari’s meals or other small items, advertisements, those Az tossed aside. One time, Az handed him an advertisement to save, and Rhys looked at him questioningly.
+
+“I don’t have a copy yet,” Az explained, and that was that.
+
+Even if I understand the shallow truth of archiving, of separating the valuable from the worthless, I still don’t have the deep knowledge to fully understand the difference between what must be archived, and what can go without being saved. Rhys nodded, understanding. Without Az’s knowledge of what existed in the archives already, he couldn’t know what to hold out, and what to toss aside. He had a long way to go to be able to separate all the hidden treasures from the true trash.
+
+The longer he sorted, the better he understood the school’s affairs. And the picture the papers painted drew a poor image of the school. They were in debt. Aquari had to pay mercenaries to secure the school’s boundaries, because the Infinite Constellation School didn’t have enough fighters or members to secure its boundaries itself. But the problem was, their school wasn’t big enough to generate the revenue to pay the mercenaries, either, so she’d had to take out loans and pawn items to ensure the school’s continued safety. In her letters, she discussed wanting to quit paying the mercenaries, but the problem was, a nearby school that was larger and had more influence wanted the Infinite Constellation School’s land.
+
+If she didn’t keep paying the mercenaries, that school, the Purple Dawn Academy, would invade their land and steal vast chunks of it for itself. If she did keep paying them, Infinite Constellation School would go broke sooner rather than later, and the Purple Dawn Academy would scoop up their land as collateral for their debt. It was a damned-if-they-did, damned-if-they-didn’t kind of scenario.
+
+Rhys snorted, already getting a feel for the situation. I bet the Purple Dawn Academy is where this ‘guest teacher’ is coming from, huh? And he’s not a ‘guest’ so much as an ‘overseer and exploiter,’ looking for holes in our defenses so he can take us down even faster and take our land.
+
+He ran a hand through his hair, undoing the ponytail and putting it back up again. This was more trouble than he’d thought. The Infinite Constellation School was in a bad place, up a creek without a paddle, so to speak. The Purple Dawn Academy had them over a barrel. No matter how he looked at it, this problem was beyond his pay grade. He sighed. Maybe it was time to start looking for a new school? He wasn’t quite as weak as he was to begin with, and it wasn’t as if he felt too close to the school that had begrudgingly took him in, disregarded him, and allowed Cynog to bully him despite the power gap. But at the same time, this was his trashy school. It didn’t belong to anyone else. It wasn’t for some outsider to swoop in and snatch it up like some kind of prize.
+
+If I can prevent it, I will. This was way over his pay grade, it was true. Still, he wasn’t going to just up and roll over because some outsider decided they wanted this land. Whatever he could do to prevent the hostile takeover, he would
+
+Besides, he’d been in small businesses when a larger outside business had forcibly taken them over before. Things were always worse afterward, no matter how much the hostile business promised they’d be better. In a certain way, this school was a little start-up company, about to be gobbled up by some big shark of a company that cared more about shareholders and profit margins than it did the little guy, or even putting out a successful and worthwhile product. He couldn’t help but root for the underdog, even if he knew how futile such a struggle was. His current boss—er, Schoolmaster—was kind of a dickbag, but she didn’t get in the way of his studies. She’d even supported him and allowed him to come up to the upper peak to collect more trash. If the Purple Dawn took over, he could say goodbye to anything like that. Regimented classes, useless school-ordered studies, and an enforced hierarchy where he was at the absolute bottom were all that awaited him if that merger—er, takeover attempt—went through.
+
+He knew it was hopeless, and yet, for the first time, he felt true loyalty to the Infinite Constellation School. For the neglect that had allowed a piece of trash like him to grow, for the total disregard that allowed a useless student like him to thrive, he’d do anything. Anything at all!
+
+He didn’t actually know what the Purple Dawn Academy was like. Maybe it was an angelic place, where all the students worked together in total harmony, and it was far superior to the Infinite Constellation School. From the bits he’d put together from the letters and receipts, though, it seemed that Purple Dawn Academy was exactly like the big businesses he was used to back home. In other words, so far up their own asses that they’d come out the other side blinded by shit.
+
+“This school is fucked,” Rhys muttered to himself.
+
+“Mmm,” Az replied neutrally. He passed Rhys a letter. “Here. I believe this is what you’re looking for.”
+
+“I’ve already got most of the picture,” Rhys said, but he took it anyways. Unfolding the paper, he began to read. So, what kind of guy is this ‘guest teacher’ of ours?

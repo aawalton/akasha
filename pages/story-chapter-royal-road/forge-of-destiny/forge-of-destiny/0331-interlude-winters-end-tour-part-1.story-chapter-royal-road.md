@@ -1,0 +1,85 @@
+---
+id: 0e8e1bc2-ce94-55ee-bd1c-3b3a037ea2c3
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Winter's End Tour Part 1"
+slug: 0331-interlude-winters-end-tour-part-1
+partOf: forge-of-destiny
+position: 331
+ownLength: 1365
+unit: words
+publishedAt: 2023-03-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1146575/interlude-winters-end-tour-part-1"
+royalRoadId: "1146575"
+---
+
+The road wound ever on. Through hills and trees, around mountains, across rivers. The cool air rushed by, sharp with the incoming winter. When they had begun, the roads had been smooth, in superb maintenance, but as they had traveled on, away from the Argent Sect, further from the core of Wang lands, they had grown rougher. At first just little signs of wear, but then more. A fallen tree here, a loose paving stone there. Proving there was something to the rumor of the wildness and disrepair of the southwest.
+
+His wagon rattled, a bit of shock traveling up from the axels as the furiously spinning wheels passed over a series of cracked stones, and Bao Qian caught onto his wide brimmed drivers hat before it could fly off into the rapidly whipping wind. Despite the troubles he found himself in good humor. This was the romance of the open road after all! Every journey was a little different, the conditions unpredictable, the land a beauty! To follow an untraveled road as much an adventure as…
+
+“Are we there yet?” A young girl’s voice called from inside the covered wagon, the words drawn out and petulant.
+
+Bao Qian’s smile remained fixed, but he didn’t think anyone would blame him for the way his eyebrow twitched.
+
+“Not just yet,” he replied, keeping a controlled tone. “As I have said the last eight times you have asked.
+
+“Ugh, can’t the wagon go faster,” the girl complained. She appeared in the open window slat that opened onto the drivers bench, elbows leaned on the sill.
+
+He glanced back at the spirit, were it not for her corpse pale skin and milky white eyes, she really would look like a young girl of eleven or twelve years. “We can’t, pushing the horses any harder would just delay us later,” he explained patiently.
+
+As he had four separate times now.
+
+“You’ve finished going through all the materials I provided on the spiritual map of the region we’re touring in?” He asked pleasantly.
+
+“Um, yeah definitely! That stuff is super easy,” she affirmed.
+
+Bao Qian’s eyes narrowed. The spirit of freezing death occupying his workshop put on the most angelic expression of childhood innocence.
+
+Blindfold him, and he wasn’t sure he would be able to tell her from a precocious and slightly spoiled young miss of any clan he cared to name. With spirits such as this, it was no wonder Miss Ling had such odd ideas.
+
+Hanyi coughed into her hand, wilting a little under his stare. “I might take another look though! Since it's taking so long, I should show some diligence and review. That’s what big sis would want.”
+
+“I’m sure she would,” Bao Qian sighed, keeping half an eye on the road ahead, a tug of the reigns adjusted for the turning coming on, ahead, there was a little smoke rising, the border outpost of the Meng. Soon they would be on the final leg…
+
+“Oh do you see that! Are we there yet!”
+
+His eyebrow twitched, and Bao Qian felt a faint ache beginning to throb in his temples.
+
+***
+
+Bao Qian was kind of a stiff guy. No wonder he had such a hard time getting Big Sis’ attention. Hanyi thought. She lay on the softly upholstered bench built into the inside of his wagon, kicking her bare feet in the air as her eyes slid across the characters written on the scroll open in her hands. It was all formal and dry and boring.
+
+It was a good thing Papa had taught her to read even the super complicated characters!
+
+That thought made her frown, her gaze sliding down to the floor. Well, Papa had never been real. It was just Mama putting on a show with his bones. She knew that by now. She was happy that Mama had loved her enough to do it, even though real Papa had apparently been a horrible jerk.
+
+And now she’d made herself sad. Ugh, what was with this trip, it was taking way too long! Hanyi rocked back and forth on the bench, trying and failing to focus on the words in the scroll. It was comfy in here, but she was just so bored. And there wasn’t enough room to move around either! She was going crazy here. Maybe she should ask if they were almost there again. They had to be, right?
+
+She began to set up, letting the scroll crumple in her lap when the wagon jerked in place. Hanyi hopped to her feet, moving up to the window that looked out over the drivers bench. “Are-”
+
+“We’re here,” Bao Qian said dryly. “Take a moment and get yourself in order Young Miss. I’ll speak to the men here, but you’ll have to be ready to meet our guide.””
+
+Hanyi preened at his address. Young Miss? She kinda liked that! It made her sound very elegant. Which she was. “Okay. You better make sure they’re ready for me.”
+
+“Of course,” Bao Qian chuckled, sweeping off the silly wide brimmed hat he donned for the trip. “I wouldn’t be much of a manager otherwise.”
+
+Hanyi nodded imperiously, hopping back down from the bench to leave him too it, instead moving over to the little area that had been set up for her, with a mirror and combs and all that stuff humans needed. It was easier for her, since she knew what she looked like so she could just look like that whenever she wasn’t too tired or hurt.
+
+Still, arranging her hair was fun and her gown did need smoothing out and stuff. She couldn’t imagine what a pain it would be if you actually had to clean yourself by hand, and though cosmetics were fun to play with, it was also kinda annoying when she had to do it herself. Good thing there were people to do it for her probably, going by the last show.
+
+Soon, there was a polite knock on the door, and Hanyi took one last glance in the mirror. She was perfect naturally. Only Big Sis was prettier. She hopped down from the little stool in front of the mirror and moved to the door. A faint pulse of qi through the wood told her the moment when Bao Qian was going to open it, allowing her step out in perfect time.
+
+Hanyi put on a polite smile as she descended the stair, holding her gowns hems up from the wood. “Hello everyone. I am Hanyi of White Cloud Mountain. Thank you very much for your kind welcome.”
+
+You had to talk a little different like this. Big Sis talked like this all the time nowadays, but Hanyi thought that was a little much.
+
+Outside the wagon, she found herself looking at a large and somewhat wild garden, less organized than she was used too, with more natural flowerbeds and blossoming fruit trees growing in odd places. Waiting for them were a pair of guards in polished armor, and a tall man in pale green robes. He was bald, with sun darkened skin, and a staff of white wood, with a bronze ring on the top.
+
+The tall man, she thought he was a monk, blinked very slowly at her appearance. He was probably stunned by how cute she was!
+
+“Greetings, honored spirit of the winter wind. You may refer to this one as Du Xian,” he said after a moment. He glanced to Bao Qian, who gave him a funny little smile and shrugged. Hanyi narrowed her eyes. Why did she feel like she was being left out of something!
+
+“I hope you will accept the hospitality of this temple, and come in peace among your peers, too order the coming of winter, which has been so disrupted by war. Will you accept this one as your guide?”
+
+Well, at least someone was respectful. Hanyi sniffed, giving Bao Qian a haughty look. “This Hanyi is pleased to accept your hospitality, and will enter your temple with no ill will to any who dwell there,” she said, turning up her nose a little.
+
+“Then please, follow me. There is much to arrange for the festival.”

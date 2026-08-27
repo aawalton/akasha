@@ -1,0 +1,109 @@
+---
+id: 4e71239c-62ba-5c0a-a758-3d0fb09c2bf9
+page-type-slug: story-chapter-royal-road
+title: "Threads 102-Descent 4"
+slug: 0125-threads-102-descent-4
+partOf: forge-of-destiny
+position: 125
+ownLength: 2002
+unit: words
+publishedAt: 2021-07-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/709031/threads-102-descent-4"
+royalRoadId: "709031"
+---
+
+Silver lights, the only sign of her activating techniques, winked in the darkness as Ling Qi began to explore. Knowing that Liao Zhu was moving to scout for the enemy, Ling Qi focused her attention on the odd growth that made up the tunnels themselves, feeling the traceries of qi that surrounded her.
+
+Sixiang was right. This growth was very large indeed. It stretched beyond her senses in some directions. Above, she could feel the solid qi of rock and earth only a few dozen meters above, and behind her, she could feel the same not so far away at all. But below, the growth stretched past her knowing. Yet it didn’t feel like one entity. The closest analogue that came to mind was a hive of bees. The fungus was distinct but united, only a single “mind” or spirit shared between them but assembled from smaller pieces like a child’s blocks.
+
+All around her, the fungus breathed, the fleshy walls expanding and contracting imperceptibly. It did not seem aware of her. It did not seem aware of anything, so far as she could tell. However, she could feel things within it that put her on guard. Here and there, dotted throughout the mass, she could feel other creatures, beasts, trapped inside, not struggling, merely asleep.
+
+<And dreaming,> Sixiang pointed out. <Heh, what a glutton. It’s eating their dreams. I guess I better hope I’m not tasty.>
+
+Ling Qi frowned at the muse’s flippancy and came to a stop in a secluded bend of the narrow tunnel. She rested her hand on the slightly warm fungus. It vibrated slightly under her fingers, but she sensed no other reaction. The beasts it held within were all weak things, mostly first realm with a handful of low second grades slumbering deeper within the fleshy mass. A passive feeder then? It was hard to get a handle on the thing’s power, but she didn’t think it was beyond the third realm.
+
+<It’s just good sense not to expend more energy than you need to,> Sixiang judged. <Might be it has no interest in picking a fight with anything that can fight back, or… No, there is something in the air.>
+
+Ling Qi narrowed her eyes, and the silver flecks in them intensified for a moment. It was subtle, so subtle that she had actually missed it before, but miniscule flecks of dream qi were drifting in the air. They were too weak to affect her, which is why they had escaped her notice, but they would put someone from a lower realm asleep given time.
+
+<It can probably only really sense things when they’re asleep and dreaming,> Sixiang murmured. <I suppose I’m safe since I’m hidden in you.>
+
+<What are we gonna do, Sis?> Hanyi asked impatiently. In the back of her mind, Zhengui shifted as well, seeming agitated.
+
+<We need to keep things quiet for this part. If this thing is passive, all the better,> Ling Qi thought, examining the tunnel. She shifted her thoughts, focusing away from her spirits and instead thinking of Bian Ya, and the flickering node of wind qi that Bian Ya had attached to her flared. She relayed what she had found so far in terse and clipped terms as she continued down the passage.
+
+“Relaying Disciple Liao, enemy presence minimal, chart path, keep east. Ten minutes until group arrival.” Bian Ya’s voice echoed quietly in her thoughts.
+
+Ling Qi nodded to herself. No time to waste then.
+
+She breathed out and merged with the darkness of the tunnel.
+
+Over the course of the next ten minutes, Ling Qi carefully catalogued the tunnels she traveled through in her mind, relaying the information back to Bian Ya as she did so and pausing only to listen to relayed reports from Liao Zhu. The passages through the fungus were twisted, often ending in dead ends, turning back on themselves, or otherwise going nowhere, but she did manage to chart out a route that traveled downward, doing her best to keep east, not only to avoid enemies but also to keep the stone she could feel in range. If nothing else, Xuan Shi could probably set up a passage through a wall if she could find another passage that came near the fungal crevice.
+
+However, the further she descended, the more difficult it became to go forward. The dream qi in the air grew thicker and thicker until it clung to her like a fog. It didn’t harm her, but, when she would take a step, she would find herself turned around or in a passage she had already been in. Once, she had even found herself in a wholly unfamiliar tunnel, and only Sixiang’s careful guidance had enabled her to step through the veil in just the right way to return back to her starting point.
+
+So it was that Ling Qi returned to the entrance to report in person without having found a clear path through. Between Elder Jiao’s cloaking talisman and Xuan Shi’s own concealing arrays, she could not even feel her allies until she was directly looking at them. It was an odd and disconcerting feeling. But she didn’t let that show, instead making her report on the phenomena.
+
+“Do you believe you can penetrate the obstacle given further time?” Guan Zhi asked her. The older girl stood before the others, her arms behind her back.
+
+“It is possible that I could brute force matters,” Ling Qi answered, thinking of the technique she had so recently mastered. Ephemeral Dreamlit Dancer would allow her to cross the space unhindered, pulling a few people along at a time, but the cost to her qi would be prohibitive given the distances involved. “I do not know how much use I would be afterwards though.”
+
+Guan Zhi frowned, glancing at Su Ling, who stood stiffly next to Bian Ya and between the two boys.
+
+“The divination was clear. This is a viable path,” Su Ling replied defensively. “Must be something we’re missing.”
+
+“Could burn through,” Ji Rong said, raising a fist. “I got a few things for shredding through shitty dreams.”
+
+He met Ling Qi’s eyes, and she huffed in amusement. Was he thinking of challenging her to a rematch? Some guys were just like that, she supposed.
+
+“And bring down all of our foes upon us, no doubt,” Xuan Shi noted tetchily.
+
+“Your toys not rated for a bit of door busting?” Ji Rong taunted.
+
+“Sect Brother Liao continues to report that the shishigui use only the higher, less infested passages,” Bian Ya relayed. “Messengers, a handful of sentries, and no more. He also reports that the creatures regard this region with suspicion and wariness and move with greater haste and less caution through it.”
+
+Guan Zhi was silent as they spoke, only holding up a hand to quiet their words after a long moment. “Disciple Ling, you are familiar with spirits of darkness and dreams, correct? Do you believe that this entity is capable of negotiation?”
+
+“I am unsure,” Ling Qi admitted. “Its power would make it seem so, but its nature makes me uncertain. Sixiang?”
+
+“I can probably translate, if that’s your meaning. I have weirder cousins. You’ll have to go pretty deep to get its attention properly though,” her muse responded aloud, earning a twitch from Ji Rong.
+
+“That seems the optimal path for the moment. Attempting violence would also alert the entity before us, so attempting speech first is only sensible,” Guan Zhi said crisply. “Disciple Ling, you will attempt negotiations for passage. Should this fail, we will use Disciple Ji’s methods. Disciple Ling, lead us to the furthest stable point first before you try.”
+
+Ling Qi nodded, clasping her fists together and bowing her head. She tried not to let her nerves show. She knew what rumors said of her, but really, it wasn’t like she often negotiated with spirits. But they needed Liao Zhu to focus on keeping track of their enemies, so the duty fell to her. She had to hope that what she had studied of the Melody of the Spirit Seekers would help.
+
+<Don’t worry too much. We have your back,> Sixiang thought encouragingly. Hanyi and Zhengui affirmed the words, and Ling Qi felt her tension bleed away. She wasn’t alone here. She could handle this.
+
+And so, they descended.
+
+***
+
+It was just her and her spirits. She had left the group a short distance behind at the point where the tunnels had just begun to warp. They were only moments away if the need arose.
+
+<Ready to go,> Sixiang murmured, and Ling Qi felt phantom hands on her own. She nodded and glided forward, stepping into the eddy of dream qi that filled the tunnel. She felt the world shift, but this time, she didn’t step through. She flared her qi and stepped in.
+
+Between one eyeblink and the next, the fungal tunnel was gone. Ling Qi stood atop a shimmering rainbow sea, her boots sending out ripples across the “water.” Hanyi stood at her side, holding her hand, and on her other side, Zhengui towered.
+
+All around them was chaos. Where the shimmering rainbow pool ended, a maelstrom began. Blurred images, fragments of creatures and environments, mingled and melted too fast to track. However, the images were not what drew her attention. No, that was the eyes.
+
+Thousands, tens of thousands, of eyes in every shape and size floated, drifted, and spun through the chaos. It reminded her of Elder Jiao but without the laser-like focus or singular will. The eyes gazed upon broken fragments, observing, watching, and longing. As she watched, an eye split open lengthwise along its reptilian pupil and devoured a fragment of hope and longing, another nibbled at an image of a dark and glittering city festooned with bones, and yet another snapped up a simple sliver of animal hunger.
+
+It all stopped, however, as the ripples of her footsteps reached the edge of the pool, and the eyes all turned to look at her. The hairs on her neck rose, and she very nearly expressed her flute then and there.
+
+But the eyes didn’t attack. A susurrus of whispers struck her ears like the scratching of fingernails on wood, and Zhengui let out a low rumble of distress, lines of magmatic light flaring on his shell. She rested a hand on his head.
+
+“I come only to speak,” she said clearly, focusing her attention on the largest eye, a dark green, nearly black, thing with a pupil like a goat.
+
+Beneath her, the pool, Sixiang, rippled, and she felt the muse’s qi travel outward into the maelstrom. Translating, as it were.
+
+The eyes hissed and twitched, spinning and rotating around her. Then the scratchy whispering intensified, and Ling Qi hunched her shoulders as they “spoke.” Even filtered through Sixiang, it was uncomfortable.
+
+[Our Prey. Ours. Go. Go, Silver Dreams. No Sky. No Star. Go. Go. GO. &^%***]
+
+Ling Qi winced at the incomprehensible noise that the eyes’ words turned into, hammering at her thoughts. It was like a hundred thousand voices all screaming at her at once. At her side, Hanyi shuddered, clenching her eyes shut, and the threatening rumble rising from Zhengui intensified. Zhen let out a hiss like steam escaping from a volcanic vent.
+
+<If Dead-Not-Dead-Thing screams at Big Sister and Hanyi again, Zhen will make it regret all things,> her little brother threatened.
+
+The eyes shuddered and spun, shying away. This thing… It really was afraid of them, wasn’t it? Despite the deep, deep well of power she could sense from them—it?—once she forced herself to look past the disturbing imagery, the greatest thing she could sense from it was fear. Her earlier thoughts returned. The creature fed on the weak, passively consuming those who fell asleep within. Why, then, did their enemies fear and avoid the deeper parts of the crevice?
+
+With the Melody of the Spirit Seekers echoing under her breath, Ling Qi considered how to approach this fungus.

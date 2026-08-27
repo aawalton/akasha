@@ -1,0 +1,111 @@
+---
+id: 2a658896-2206-5228-93f9-d7affce0b0c0
+page-type-slug: story-chapter-royal-road
+title: "Threads 423 Shenglu 2"
+slug: 0467-threads-423-shenglu-2
+partOf: forge-of-destiny
+position: 467
+ownLength: 1856
+unit: words
+publishedAt: 2025-01-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2013895/threads-423-shenglu-2"
+royalRoadId: "2013895"
+---
+
+The mist roiled with swirling snows, filling the courtyard with leeching cold. Frost hardened the packed dirt to stone and crawled up the columns supporting the peaked roof over the open viewing deck which overlooked the training field. In the courtyard, nothing could be seen, only the blank white of deepest winter.
+
+Suddenly, it split, and a crescent of wind and metal and light erupted from its depths. The wind screamed, the frozen ground split…
+
+And two immense metal palms caught the arc of light. The ear-splitting whine of a dozen rotating blades grinding against steel drowned out the melancholy piping carried on snowy gusts. The giant whose hands had caught the crescent blade bellowed, his stance low and widely set. Shoulders trembled as sparks of light sprayed from between his palms. Then, a blinding star bloomed above his back, a merciless star of colorless light like a banner raised high over the giant's head.
+
+A sphere of light bloomed, shrank to a pinprick, and lanced out in an all-consuming blaze.
+
+The snows and mist were consumed in radiance, and Ling Qi shifted her qi from emanations of ice to dream, sliding through the skien of realities and dragging Xia Lin with her, just the briefest skim through the kaleidoscope of unformed dream. When she rematerialized on frost slick ground, she was already playing the first notes of her aria. The wind howled the coming of winter, and frozen wind blasted out in a wide circle, catching Gan Guangli as he turned. A surprised shout rang out as his gleaming white armor was caked in frost and rime, sending him reeling back as metal squealed and muscles and qi seized.
+
+Xia Lin was at her side, halberd freed from Gan’s grasp by the jump through the liminal, her legs already bending into a low crouch. Her leap was a detonation. It cratered the earth for two meters around and cracked the dirt for twice that, and it ripped at Ling Qi's hair and gown. Xia Lin split the aria’s snowstorm with a chain of thunderclaps as she aimed her halberd at Cai Renxiang floating high above.
+
+If Ling Qi could not set up, their bid to win this spar was doomed, and so, their roles were clear.
+
+Cai-wrought halberd met Cai-wrought saber with a shockwave and a metallic ring like a grand temple gong.
+
+And as ice groaned and shattered and Gan Guangli's thundering stride approached, Ling Qi finally reached the refrain of her song, reducing the field to a featureless white once more. Gan Guangli raised both fists to shield the slits in his helm as the snow sought to bury him. He still strode forward, but he did so slower, and slower with each passing step.
+
+Ling Qi knew better than to think he was down already even if she could feel his qi leeching away. She pushed her foot against the ground and leapt back just as a golden hand larger than her whole body slapped down palm first where she had stood. The air screamed, and she darted aside, spinning past a second palm of blooming gold, and then shot upward, rushing to the height limits of the match to avoid the grasp of the third.
+
+Light lanced out again, and her world became radiance. She felt the heatless light, shredding the construct of her song and silencing its notes. With an effort, Ling Qi stepped aside again, reappearing on the earth with only a few sizzling hairs. Cai Renxiang spun in midair, reorienting to meet Xia Lin's attack, whose position, too, had been transposed mid-swing. Light pulsed, and the blade of her halberd rang as it sliced a line across Liming's silken surface, hardened with armor of radiance.
+
+Then, Cai Renxiang's free open palm lashed out, seeming to gently brush Xia Lin's breastplate. Metal crumpled inward, and her partner hit the earth with a crack just as thunderous as her leap, faster than even Ling Qi could transpose them again. At the same time, Gan Guangli's near frozen limbs flexed, molten golden and colorless light twining together to clad him in blazing solar armor, and his fist descended like a meteor.
+
+It struck the earth, and snowflakes scattered as Ling Qi reappeared in midair across the field, already grasping the gorget of Xia Lin's armor and flinging the recovering girl away as the crater her body had made in its unceremonious landing was consumed in a column of radiance. To her credit, Xia Lin was already reacting, drawing her legs back into a sprinting stance and gathering wind about her feet as she drew her halberd back into a guard position.
+
+Fists. The sky was filled with golden fists, above, below, around.
+
+Ling Qi was back on the ground, the afterimages left behind by their emergency dodge shattering into so much glittering ice under countless thunderous impacts. Ling Qi sang, and the scattered snow returned, and Xia Lin's feet blurred, impacting platforms of solid air as she blazed a skirmishing circle around Cai Renxiang from the perch in the air where she had reappeared, quick, cutting blades of wind and steel forcing their liege on guard, at least for a moment.
+
+The fading snows renewed as her fingers danced across the ice-wrought flute held to her lips. This time, the delay was enough. A darting crescent blade met an overwhelming saber a dozen and a hundred times, light and fleeting clashes just enough to avoid the saber’s crushing weight.
+
+Ling Qi sang her full refrain as Gan Guangli wheeled to face her, and the whiteout returned in full force, blotting out the field, the walls, and the manor in crushing emptiness. Gan Guangli staggered. The gleaming celestial light that girded his armor flickered out, and his fists crashed to the earth to hold himself up as the rime forming in the chinks of his armor rapidly drained away his qi. Above, her liege, the colorless star, was sheathed in a shell of ice as well.
+
+Down in her belly though, Ling Qi only felt a rising dread.
+
+Ding.
+
+Tiny bells chimed softly, ringing in an ending as potent as any she had seen. Glittering lights. Twinkling stars. A handful, a dozen, a score, a hundred and more. They sparked. They blazed. They bloomed. With resignation in her heart, Ling Qi pulled at the curtain of reality for another skimming step.
+
+The light scattered the echo of potential futures she left behind and struck her in the shallow liminal with a blinding flash that sent her crashing back into the material world, spine spasming as the dream qi she'd drawn on scattered and fled her suddenly leaden and painfully solid limbs.
+
+Xia Lin crouched beside her, armor rent.
+
+Together, they looked up at the second sun in the sky, before which Cai Renxiang was silhouetted.
+
+Ling Qi let out a discontent sigh and met her partner's eyes.
+
+"Yield," they said.
+
+The blinding white sun dispersed. A field of glittering stars drifted away on the breeze.
+
+"A-a g-good match, my companions!" Gan Guangli called out through chattering teeth. He wrenched his fists out of the frozen earth, and he rose to his feet on shaking legs. "M-Miss Ling is as fierce as ever."
+
+She smiled as she sat up. "And you, as sturdy."
+
+Gan Guangli laughed. "I don't know about that. Without Lady Cai, I would certainly have been entombed." With one hand, he reached up to drag the slush off of his faceplate.
+
+Cai Renxiang drifted down from the height limit they had set for the spar, observing their surroundings. "The training yard wards have held up well. I am satisfied with the formation work."
+
+Ling Qi cast her gaze around. Her snow was neatly bounded in a perfect square which followed the fencing demarcating the limits of the field. It wouldn't have held if she had been trying to break them, but training wards did not need to be so potent.
+
+"My strength still lacks." Xia Lin sighed, levering herself up, shaky from the impacts and repeated dreamsteps. "Lady Cai's defense is too potent."
+
+Cai Renxiang glanced her way and simply raised her free hand, the one which had brushed aside Xia Lin’s blade and caved in her breastplate. There was a faint pink mark scored across the shoulder, and a few specks of red fading into Liming’s fabric. "I am no easy opponent, yet you still drew blood. Continue refining your edge. It is nearly awake, I think."
+
+At that, Xia Lin's shoulders straightened. Her damaged armor squealed loudly as steel uncrumpled, returning to its pristine shape.
+
+Ling Qi chuckled and climbed to her feet herself. "I told you I would struggle to get my newly refined art up in a spar with you, Lady Cai."
+
+"And that is well enough. It is a deadly threat, even with my arts keeping it suppressed. I could not let you complete that song."
+
+Ling Qi pursed her lips, letting her temporary flute blow away in a cloud of snowflakes. "I would not wish to use the final technique in a spar."
+
+"I shall thank you for that." Gan Guangli winced.
+
+"The repositioning tactic you suggested was most effective," Xia Lin analyzed, raising her hand to her chin. "If disorienting. I can imagine many uses for all of us. Perhaps we should perform some drills with this technique?"
+
+"That may be a good cooldown exercise. Moving and repositioning all of you will be more draining mentally."
+
+"If it is a tactic you intend to use regularly, I suggest we all acclimate ourselves to it."
+
+"A fine idea," Cai Renxiang replied to Xia Lin. “My own arts should make the information processing less difficult and inure against the disorientation, but better to ensure there are no conflicts in the qi patterns before attempting to combine them."
+
+Cai Renxiang's rigid light and the formless chaos of her dream qi… Oh, yes, that might take some work to get them to function together.
+
+"That's probably for the best," Ling Qi agreed.
+
+"Then, we will adjust the itinerary. From now until year's end, weekly spars will be followed by cooldown mobility exercises using Baroness Ling's movement art in tandem with my command art," Cai Renxiang said crisply, letting her voice carry. "We must all hone ourselves to our utmost."
+
+The eyes on them, some subtle from the manor windows, some more openly gaping from the neighboring drillyard, certainly caught the other girl’s words. It would raise morale to let everyone see what their protectors could do and motivate striving in the more ambitious.
+
+"Ah, perhaps we might allow a small break for meditation to restore our stamina first," Ling Qi said kindly. Both Xia Lin and Gan Guangli were looking haggard still.
+
+Cai Renxiang glanced over them all once. "Very well. A quarter hour rest, and then, we will determine the shape of the mobility drills. It was a fine spar, all of you. I am confident that we will succeed in incorporating this tactic into our strategies and be able to use it in the offensive against the ith."
+
+They’d need every edge they could get.

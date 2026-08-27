@@ -1,0 +1,139 @@
+---
+id: e4e22e86-5eb7-598e-bbb2-5acf3c172bfb
+page-type-slug: story-chapter-royal-road
+title: "Threads 292 Construction 5"
+slug: 0330-threads-292-construction-5
+partOf: forge-of-destiny
+position: 330
+ownLength: 2079
+unit: words
+publishedAt: 2023-03-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1137159/threads-292-construction-5"
+royalRoadId: "1137159"
+---
+
+<Heh, you already getting practice in, huh?> Sixiang laughed.
+
+No reason not to, Ling Qi thought. Qi circulated in the threads of her dress and through the wind, and before her feet could touch the treetops, she was flying.
+
+Her flight took her down into the valley proper again, descending onto the growing web of streets and robes. With the time passed, she should arrive in time for her next stop, introducing Gan Guangli to Luo Jie, the representative from that clan. Gan Guangli himself should have come from finishing his own early meetings and… There.
+
+Gan Guangli stood outside the tangled walls of the Luo compound. They were odd. From above, the layout of the building being constructed was standard imperial design, but the materials were unusual. The walls were a fence of trees, convinced or grown into a tight double row, connected by thick rope like one would see binding the gates of a temple shrine.
+
+Inside, where the garden should have been was instead a kennel full of lounging hounds.
+
+Gan Guangli awaited her a short distance down the path from the gate. His shining white armor stood out heavily among the more natural colors of the valley. He inclined his head as she landed beside him with the sound of rustling cloth.
+
+“Miss Ling, just in time.”
+
+“Am I? I thought I might be a bit late,” Ling Qi admitted.
+
+“My own words with Lady Jia may have run a little long.”
+
+“Good reasons?” Ling Qi asked as they began to walk.
+
+“Positive results, but let us leave that discussion for tonight,” he said as they approached the gate and its guards
+
+Ling Qi nodded once and introduced them at the gate, leaving one of the guards to confirm their appointment. They were soon conveyed inside. The inside of the compound was loud with barks and growls and the pants of beasts. It was surprising how little smell there was. The dogs were all very clean.
+
+Of course, what actually caught her attention was the subtle threads of qi which connected all of them. At first, she thought it was merely a pack connection, but no, all of the threads wound together, reaching into the compound where they were being taken.
+
+She was unsurprised to find that they were swiftly led to the source.
+
+She had met Luo Jie only once at her first year’s tournament when she had offered formal greetings from the Cai. He had not changed much. He was a thin old man with a bald head and drooping gray mustache with many wrinkles around his eyes and mouth. His eyes were the pale amber of a wolf’s, and he was dressed in a belted tunic of gray and green.
+
+He awaited them in the center of the compound out under the sun where he stood with his back to them, running a comb through the fur of an immense hound as large as Zhengui at his biggest. Even lying down and curled up, the beast filled half of the grassy field at the center of the manor. The dog's fur was a dark slate gray like the clouds before a downpour, and as they entered, one giant eye opened to peer at them.
+
+“Be welcome in my home, transient as it might be,” Luo Jie said shortly, not turning from his task. He pulled the comb back and shook it out, and a young servant waiting nearby with a basket caught the shed hairs drifting down. The basket was already half full.
+
+“Sir Luo, it is good to meet you again,” Ling Qi said. “I am pleased to see you in good health and humor.”
+
+Here, he finally half-turned to look back at them. He dropped the comb into the hand of another servant. “A single year’s cycle may change much. It is easy to forget this with age.”
+
+He turned fully to face them, and Ling Qi remained in her bow as did Gan Guangli behind her. “Much changes. Your advice was helpful, Sir Luo.”
+
+Even if reality were more complicated than he had implied to her all that time ago, she had kept an open mind.
+
+He pressed his lips together in a thin line. “Curious, the roads that simple words may inspire. I certainly cannot call you or your lady rigid. Who is your companion?”
+
+“This is Baron Gan Guangli, my peer in Lady Cai’s service. If it pleases you, he will be your immediate liaison to our team,” Ling Qi said, straightening up at the elderly Luo’s gesture.
+
+“It is my pleasure to meet you, honored sir. Please allow me to express my admiration towards your contributions during the barbarian incursions in the last days of the Hui’s rule,” Gan Guangli said, straightening up himself, though his head remained bowed.
+
+“Old stories, old work. But you show diligence in sniffing them out.” Luo Jie snorted. “This arrangement is acceptable.”
+
+Ling Qi began, “Thank you for your understanding—”
+
+“I will get this out of the way. We will want any words on paper guaranteed,” Leo Jie interrupted bluntly. “I know the power of words, ideas, and dreams. My kin are more worldly.”
+
+“Did you have some particular demand?” Gan Guangli asked cautiously.
+
+The old man crossed his arms. “Not yet. I’ve not seen enough. Traditionally, marriages or hostages or other guarantees of blood or people against treachery. I do not know how this would be shaped here.”
+
+Well, that certainly wouldn’t get the imperial faction up in a dander. Not at all. Perhaps something could be arranged with the foreign quarter idea, but…
+
+Ling Qi glanced at Gan Guangli and took a step back. She couldn’t shoulder everything herself. They could pass around ideas tonight when they were all together. She wouldn’t undermine him here.
+
+“Those suggestions might be too much for some of our compatriots, let alone the foreigners!” Gan Guangli said with a smile. “But solving difficult problems is what we are here for.”
+
+As his words fell silent, Ling Qi faded back another step. “Lord Luo, please excuse me then. I must continue to another meeting.”
+
+“Go. I’m sure you have much business waiting,” Luo Jie dismissed. He looked at her only briefly before focusing back on Gan Guangli.
+
+Ling Qi bowed once more and took her leave, following a Luo attendant back out of the partially complete compound past the lounging hounds and the artificially grown treeline.
+
+There, Ling Qi remained on the path, not flying since her destination wasn’t too far. She returned to the center of imperial construction, the housing being built onto the ruins of the Hui bunker. She passed the workers and spoke to the attendant at the steps which led down into the ruin proper, gaining entry.
+
+It was very different than she had saw it last. The shape and structure was there, but the stone had been rendered meticulously clean, and the stone had been sanded or smoothed to remove all signs of its previous owners. She felt the auras of soldiers now bunked in the empty barracks and saw the work of formation carvers adjusting, erasing, and manipulating the arrays already in place to perform the new functions that would be needed.
+
+Further down where the spiders had once laired, there were no longer any corpses, not even the empty shell of the greatest of the spiders, dead before they had arrived. Ling Qi had no doubt that the corpses had been harvested for anything which still retained even a dreg of power.
+
+At the bottom though, she found her destination, the once sealed room of Hui Peng, the mad corpse Immortal she and Xia Lin had slain. And in that emptied room, whose walls were still covered in scribbles and graffiti, she found the man she was meeting with. Cao Chun stood facing away from her, resting his weight on the cane planted on the ground in front of him. He seemed to be examining the interior of the small room.
+
+There was another person as well, a young man she had glimpsed once at the crafting tournament. Jin Tae, she thought. Cao Chun had mentioned that he was taking him on as an apprentice. It showed in his black robes and the featureless white mask he wore on the side of his head where it could be easily slid into place over his face.
+
+“Vileness clings here despite everything,” Cao Chun said as she approached. “Those who refuse to accept the impermanence of men are among the most vile and destructive foes. You did well in destroying this infection, Baroness.”
+
+“I cannot claim the entire credit,” Ling Qi said modestly, stopping and clasping her hands in a respectful gesture. She bowed at a moderate angle.
+
+“The young Xia. Also promising.” Cao Chun turned to face her, his cane tapping upon the ground. “I am satisfied with the security here. Though these barbarians of yours are being allowed to observe from the shadows, they are watched.”
+
+“It is not easy, according to my seniors. These crow men are quite skilled,” Jin Tae said cheerfully. Hearing him speak for the first time, his voice was smooth and clear with a tint of sharp accent.
+
+Cao Chun glanced at him, and the young man tilted his head forward, chastised.
+
+“I have spoken to one of them,” Ling Qi said. “I believe I understand their trepidation. The general is intimidating.”
+
+Cao Chun considered this. “I have not detected any attempt to penetrate any secure location. This is why I only offer you a warning.”
+
+Ling Qi nodded, acknowledging. “On that matter, I intend to speak with them later today to gather some preliminary information. To that end, I intend to ask that our work crews and perhaps our guard detail to speak with theirs, so that neither of our preparations cause either accident or misfortune.”
+
+He gave her an assessing look. “I will review the information shared. We cannot compromise our defenses.”
+
+“I understand, Sir Cao. I think it is better for our security if neither the barbarians nor ourselves surprise each other. And I am confident in the general.”
+
+She had no doubt about that woman's killing power whereas the greater cultivator brought by the White Sky did not feel so fatal.
+
+“There is some sense in that, sir,” Jin Tae offered. “We should only share information equivalent to what we are given, of course.”
+
+Cao Chun furrowed his brows. “I will think about this. Consider information on geomantic plans for the work crews approved. I have observed that these barbarians understand them already, if with less refinement than our own experts.”
+
+“Thank you, sir,” Ling Qi said, bowing again. While the Ministry of Integrity might not technically have legal authority over such changes without sending back to the Empress for a decree, openly flouting their authority would just lead to bad blood, or worse, such a decree actually being made. “With that out of the way, may I ask why you requested this meeting?”
+
+He gave a small nod, rapping his cane once on the ground. “As my impetuous student implied, there are other agents providing less obvious security. I must oversee and coordinate, as well as provide my own expertise. This limits my time.”
+
+“You wish for another avenue of communication than directly seeking you out?” Ling Qi hazarded.
+
+“For large matters, you should still seek me, Baroness,” he said crisply. “But for small matters, yes. Apprentice Jin.”
+
+There was a certain emphasis on “apprentice.” Reminding the young man of his position, regardless of family?
+
+Jin Tae straightened up. “Yes, sir?”
+
+“You will be my direct liaison with the Cai heiress and negotiating team. Baroness, as the liaison of the Cai, I will leave him in your care. Familiarize yourselves. I must continue to examine the formation array core. I have already detected seven information hazards against long term subversion atop those already found by the work teams. I suspect there will be more given the makers.”
+
+Ling Qi glanced at the younger man and bowed. “Sir Cao. Good fortune in your seeking.”
+
+Jin Tae offered his own bows, a deep one to his master and a minimal one to her. “Baroness Ling, I hope that we can speak fruitfully.”
+
+“I as well,” Ling Qi said politely, dipping her head in his direction as they left the old agent to his work, crossing back across the cavern floor to the stairway that had been set up.

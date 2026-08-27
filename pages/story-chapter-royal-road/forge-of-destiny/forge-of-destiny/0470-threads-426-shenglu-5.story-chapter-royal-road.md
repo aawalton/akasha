@@ -1,0 +1,163 @@
+---
+id: 94396caa-d3e2-5486-8b81-8bb15e383e29
+page-type-slug: story-chapter-royal-road
+title: "Threads 426-Shenglu 5"
+slug: 0470-threads-426-shenglu-5
+partOf: forge-of-destiny
+position: 470
+ownLength: 2166
+unit: words
+publishedAt: 2025-01-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2033550/threads-426-shenglu-5"
+royalRoadId: "2033550"
+---
+
+The silk shimmered and took on a metallic tinge. The sweeping lower hem tightened and split along the sides, slits rising to her calf as the slippers beneath transformed into supple boots, plated, shod, and riveted with silvery-steel. The same color bloomed out around the opening of her sleeves. Silvery wire lace as light as clouds curled out like fractally spreading frost to guard her hands and crawled up her arms to thicken fabric with subtly inserted thin and flexible plates of moonsilver alloy. Her mantle flared out behind her in an invisible wind, buoyed on her mist like the dark wings of a moth. And she felt her dress' qi and her mist alike spin and weave together a veil of mist and liquid shadow fluttering over her face, held in place by a circlet of silver around her brow.
+
+The greatest change, perhaps, was to the lowest layer. The shift writhed against her skin into a form-fitting, dense meshed weave of black fabric from the bottom of her chin down to her ankles, and all the way to her wrists as well. It was a snug feeling, but not uncomfortable.
+
+Lin Hai looked pleased. "There is still some room for adjustment. I am sure you will want to decide what to do with your hair. As great as my ability to weave and stitch is, metals are simply better for holding armor formations. The combination of dusk steel, moonsilver, and Xiangmen void silk is excellent, and I’ve rarely had access to such quality."
+
+She was only half listening to him because she could feel her own qi roiling, a vortex of black wind and flashing silver, more potent than it should be. To her own senses, she felt like she was a full stage above what she truly was in cultivation.
+
+But she wasn't. It was a projection, like a beast puffing out its fur to seem bigger than it was.
+
+"It is not like you to craft such an illusion," Shu Yue said clinically. Their head tilted a little too far to be comfortable on a human neck. "Only… Ah, I see."
+
+"Possibility,” Ling Qi murmured. “Potential. That's what it's drawing on, the same as my dreaming steps. She can make it real, briefly, fractionally, can't she?"
+
+Pride!
+
+"Just so!" Lin Hai clapped his hands. “The mode is draining; I'd not expect the dear to be able to do it often or long yet, but it is there, if needed. Now that she’s awake, she should be able to harden her own defense further against a limited number of blows, and her abilities will develop and grow like any child, but I think you will find her most useful even now."
+
+"Far more than that," Ling Qi agreed. "What is her name?"
+
+"She does not have one just yet. I think it would be best for you to decide on it with her," Lin Hai said warmly.
+
+Ling Qi closed her eyes, hand resting against cool smooth silk. She focused on the slow rippling eddies of dark qi from the awakened dress. It was as both air and water, light and flowing, tinged with the taste of metal, like the silver reflection of the moon above. Feeling that and the vibrant excitement that made that qi ripple with the eagerness to not only please Ling Qi, but to show off herself…
+
+"Qiyi," Ling Qi decided, speaking the name aloud.
+
+Lin Hai’s mouth dropped open.
+
+Qiyi! Me! Best!
+
+"She is quite beautiful, but is that name not a little…" Lin Hai trailed off, rubbing his forehead.
+
+There was a rough sandpapery rasping sound, and Shu Yue's shoulders shook.
+
+"Fine Silk, a fitting name for a partial sibling to Precious Turtle. You do hew close to your chosen theme." The unsettling rasping of the gangly shadow’s laughter whispered up from the darkness between floorboards like many voices.
+
+"Shu Yue…" Lin Hai sighed. "Well, it is your choice, and she does seem happy with it."
+
+Ling Qi tilted her chin up, unable to hide a smile. Honestly, it would be a lie to say she didn't somewhat enjoy the reactions to her naming sense at this point. Lin Hai looked at her with a fondly exasperated expression.
+
+"I suppose this master of all people cannot fault you for playing on other's reactions." Lin Hai rested his hand on his cheek. "Regardless, I first suggest—"
+
+All three of them looked up.
+
+Metal, light, and the whisper of the brush over a page. The sound of even footsteps descending the stairs came to her.
+
+"Ah, so the young miss will be joining us," Lin Hai said wistfully.
+
+Ling Qi hummed. "It is time for her luncheon."
+
+She and Gan Guangli had combined their efforts to get Cai Renxiang to take a half hour break sometime in the midday. Ling Qi had thought it was fine if her liege just took tea and got some not immediately work related reading in, but Gan Guangli had insisted on a meal.
+
+A flicker of surprise disturbed Lin Hai’s expression.
+
+"The young miss has done much growing," Shu Yue said evenly.
+
+"I suppose so." Lin Hai shook his head. His qi, the pattern of colors splayed across her senses shifted, taking on cooler, more melancholy hues. "To go back to what I was saying, I would not keep the dear in her battle form for extended periods yet. In addition to that, although she is as self-maintaining as before, you may wish to consider the following for her care. She has few needs, but I think we both know how hazy that word becomes for immortals and spirits…"
+
+Ling Qi nodded, drawing her qi back in and letting Qiyi relax back into her casual form. The feeling of the snug bottom layer of the dress was definitely going to take some getting used to; she much preferred the looser shift. She listened diligently as Lin Hai listed out a number of elixirs and tinctures which she could rub into the fabric or allow Qiyi to soak in, as well as the other materials her dress might enjoy eating from time to time.
+
+By the time he had finished his lecture, Cai Renxiang's footsteps were outside the door, and they fell respectfully silent as her liege opened the door and stepped inside. Cai Renxiang glanced over them all, pausing for a longer moment on Ling Qi and her repaired gown.
+
+Hi! Pretty sister!
+
+Even Ling Qi felt Liming's guttural growling response. The hateful anger still tasted like ash and blood on her tongue.
+
+She felt Qiyi shrink and contract around her uncomfortably, hurt and confusion wafting from the silk.
+
+Liming's staring eyespots felt like they were fixed on her—or perhaps Qiyi. The ugly sensation broke up into something muddled and sullen.
+
+This interaction passed in an eyeblink, and yet, Lin Hai was looking contemplative. She met Cai Renxiang's eyes. The other girl had certainly felt it, too, but she showed no sign of it on her face. "Sir Lin, Shu Yue, Baroness Ling. Thank you for resolving the earlier upset," Cai Renxiang said calmly. She stepped further into the room, the door shutting with a click behind her. "Ling Qi."
+
+"Yes Lady Cai?" she asked.
+
+"We have another guest you should see to. I will take up hosting here."
+
+She blinked. "Who?"
+
+"Meng Duyi, the promised geomancy instructor. I was informed that he had arrived and was inspecting our current construction. Please guide him as he wishes." Cai Renxiang’s gaze turned toward Lin Hai.
+
+"Of course." Ling Qi bowed. She didn’t need it to be said that Cai Renxiang wished to speak with her mother's apprentices privately. "Where might I— Never mind. I believe I know where I shall find him."
+
+***
+
+It likely would have been easy to find Meng Duyi even if she had not suspected where he would be. Although subtle, his qi was not hidden. It did not press down on her, it did not unsettle the people going about their days, nor did it distort the air and project images of awe or terror. It was, instead, a web of flowing waters gently passing through the streets and hills, like a fertile estuary overlaid on the harsh soil and cold air of Shenglu proper and its surrounding environs. It coursed and ran all around her, adjusting minutely in real time to the contours of the land, physical and spiritual. This flow pointed her toward the hills west of the city where the faint wisps of Zhengui's geyser and someday shrine lay.
+
+Ling Qi proceeded without rushing, the wind washing over her as she flew slowly toward the hill of boiling pools and rising water. She could feel the Meng geomancer’s awareness brush over her as she approached, unhurried and serene as well.
+
+Ribbons. Ribbons. Ribbons.
+
+She chuckled under her breath as she felt silk sliding and knotting through her hair. It was still too short for more complex braids after being burned, but Qiyi was weaving fabric like lashing tendrils in the corner of her eye, showing her patterns and colors and tying methods for her inspection and clearly intending to remember the ones which caught Ling Qi's attention.
+
+"You'll need to settle for a bit. I need to speak with our guest, and…" Ling Qi focused her senses. "Zhengui, too. You can keep thinking of potential hairstyles, but let the demonstrations go for now."
+
+Discontent!
+
+"Qiyi…"
+
+Okay…
+
+Children weren't really so bad, she thought.
+
+Ling Qi spiraled down toward the boiling springs. There was little construction here yet beyond the formations carved to channel the geyser, just a rough log structure for scholars and scouts to rest in. The building could open on one side to allow Zhengui to put his front legs and heads inside to discuss plans and theory with them, and it could be closed off when he wasn't present.
+
+Zhengui stood outside on the rocky hill with a handful of older men in the first and second realm and one could only be the geomancer.
+
+Her first impression was that he was very old, but surprisingly spry. He was more broad shouldered than his kin with a thick frame bent by age, and he had long white hair and a beard wrapped by a dark green ribbon. An ornate headband woven with beads and decorated with three point antlers was atop his head. He leaned heavily on a thick crutch of wood that seemed more like a short living sapling than anything carved.
+
+He was already looking up as she descended. Zhengui and his entourage swiftly followed his gaze.
+
+"Big Sister!" Gui exclaimed happily. "Mr. Harmony of Waters said you would be here soon."
+
+Meng Duyi contemplated her. "I did."
+
+"My apologies for not greeting you immediately, Sir Meng. It has been a day of many guests."
+
+"It is nothing. It was interesting to follow this web of flame and water beneath the earth."
+
+"Mm! The boiling veins were already here. Zhengui has just nudged and guided them."
+
+"Hmph. Gui is foolishly humble. This young lord took charge of the chaos with the help of his servants. This great work is but the foundation," Zhen bragged. He tilted his head back proudly as the geyser erupted.
+
+"A vent of the pressure wrought by bringing these closer to the surface." Meng Duyi stroked his beard. "If these men had tried this without a spirit lord, you would have set the land itself alight, or at least sent this hill into the sky."
+
+The men around Zhengui shuffled their feet nervously, and a rather elderly second realm bowed low. "Although this one is classically educated, he was greatly enlightened by the young master. Sir Zhengui's insight is keen."
+
+Zhengui preened under the praise.
+
+Meng Duyi demurred. "This one can hardly be called familiar with constructions of fire qi, so this shall be a time of learning for this one as well."
+
+Humble. Self-deprecatingly so. He was only a step below sovereign. If he did not know every type of qi like the back of her hand, she would be shocked.
+
+Ling Qi? Face hair? More ribbons?
+
+No, Qiyi.
+
+Sad.
+
+They could try some ornamentation around the neckline later.
+
+Her dress hummed happily.
+
+"My lady and myself believe that we are best served by those with open minds. For the empire, this is all new land. Being too tightly married to one paradigm does not serve us," Ling Qi said.
+
+"So I have heard," Meng Duyi agreed. "Will you consent to walk with this elder through these lands, Baroness? I would like to observe and speak about what is to be done here. I would welcome your brother’s presence as well."
+
+He only hesitated for a breath over calling Zhengui her brother, and seemed more curious than anything else.
+
+Ling Qi clasped her hands and bowed. "I would be delighted to show you around our lands and the spaces you will be working with, Master Meng."

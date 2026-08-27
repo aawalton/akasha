@@ -1,0 +1,93 @@
+---
+id: a4e5ea9e-bafa-5cfc-850b-b77577113e4c
+page-type-slug: story-chapter-royal-road
+title: "Threads of Destiny-Prologue"
+slug: 0007-threads-of-destiny-prologue
+partOf: forge-of-destiny
+position: 7
+ownLength: 1258
+unit: words
+publishedAt: 2020-10-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/573030/threads-of-destiny-prologue"
+royalRoadId: "573030"
+---
+
+The ache in his bones and soul was growing worse, Khashin thought.
+
+His armor and harness hung heavy on his shoulders as torrential rain pounded down from the clouds overhead. Not a single droplet touched him or his Soul-Brother.
+
+<We are not so feeble as that,> the deep and ancient voice of his Soul-Brother rumbled in his thoughts. Beneath, his Beast-Self tossed its head, letting out an equine snort, and with his Man-Self’s hand, he patted the beast’s neck. Sparks danced on his hooves as they churned air, and powerful wings beat once, carrying them higher toward the sheared off mountain peak that was their destination.
+
+All around, the shadows of his shamans and warriors danced in the storm, the beat of the drums indistinguishable from the rumble of thunder.
+
+If only he could recognize their faces, the old man thought, narrowing his eyes behind his bone flight mask as he peered ahead. Gone were his brothers and sisters. Even his beloved Dagasai had been laid to rest among the earthbones. Their children, too, had passed, and most of their grandchildren as well. He had difficulty recalling the names of those left.
+
+Yes, they would soon seek the stars together.
+
+Not this day, however. Today, worldly duty beckoned.
+
+Khashin felt the moment that his cadre’s storm met the other’s, clouds crashing against one another with an earthshaking rumble. With a thought, his Beast-Self angled down, mighty wings spread wide, and began to circle the peak.
+
+In the distance, he saw his equal do the same, emerging from the rains to circle once, then twice, and finally a third time as the beat of the drums rose to a crescendo from both sides.
+
+As he made the third pass, Khan Khashin’s Man-Self let out a long breath, and together with his Soul-Brother, he loosened his grip on their oversoul.
+
+The storm shook, and the air rippled under the spreading force, clearing rain and cloud as the full might of a man near the pinnacle of the Sixth Heaven emerged. Across from him, the other Khan’s soul emerged, roiling outward to clash with his at the center. Beast and Man alike let out a grunt of effort, Soul shoving against Soul as the sky above them cleared, leaving a perfect circle of sunlight shining down on the mountain peak.
+
+He grimaced as the other Khan gave way for him, a show of respect for his age and deeds but nothing more. To think that this boy half his age could match him so. He was growing feeble.
+
+His Beast-Self’s hooves clattered, kicking up sparks as it cantered across stone instead of sky, and he came to rest within earshot of his fellow Khan.
+
+“Khan Khashin of the Lightning Drinkers greets you,” he announced as they came to a halt, his voice scratchy with age and wear.
+
+“Khan Galidan of the Behemoth Eaters gives his respect,” the younger man’s voice boomed from where he sat atop his own mount. It was a massive thing, a great eagle with golden feathers that outmassed his own Beast-Self twice over and more.
+
+Khashin peered through narrow eyes at the younger man. Just as he was, the other man was dressed for battle, his face concealed behind a carved mask of bone. “Why did you request this meeting?” the old Khan asked, cantering forward.
+
+Khan Galidan reached up, removing his mask. He had the face of a man in his prime, clean-shaven with sharp eyes that pierced like spears. “I would speak to you of the grand Kurultai and the opening of Skyson’s vault.”
+
+Khan Khashin grunted, removing his own mask and exposing his badly weathered face to the high mountain wind. “You wish our warriors to ally in the Game then?”
+
+“That would be most welcome, mighty Khan,” Galidan agreed. “I had hoped to speak of the other matter however.”
+
+Now, Khashin scowled. “Fool,” he spat. “Do you think yourself mightier than Ogodei?”
+
+“No,” the younger Khan replied, meeting his glare without a flinch, even as the mountain under them began to shake, stones rattling and dust falling as their spirits once again clashed. “Assault is foolish, but the lowlanders’ greed will never be satisfied.”
+
+After a pause, Galidan said, “Besides, Taghai will be seeking the right to name himself Khagan, no matter what words we speak.”
+
+His words brought Khashin up short, his expression twisting in furious incredulity. “I know his ambitions. Who would listen to that ice-addled madman?”
+
+“Many,” Galidan replied, crossing his arms. “These past five winters, his tribe was untouched.”
+
+Khashin’s eyes narrowed. The further south one flew, the harsher the winters grew, carried on icy winds from the dead-plains south of the Mother Mountains. “I assume you do not merely mean that luck favored him.” He had flown all this way, Khashin decided. He would hear what tale this young man wished to spin.
+
+“The Crone ignored him to feast on his neighbors,” the younger man expanded. “And why not? He has married an Ice Witch from the south and offers the beast sacrifice.”
+
+Khan Khashin leaned back in his saddle, his expression cold. The Iron-Toothed Crone, who flew north in a vessel of stone each winter to torment the People in the southern mountains, was an ancient foe of Father Sky. Where she passed, food spoiled, lesser beasts went mad, and children disappeared from their cribs. She could not be fought, only survived. “You make bold accusations. Tribes have gone to war for lesser insults.”
+
+Galidan spread his hands helplessly. “I do not speak falsely. He does little to hide it. Winter’s cold spreads further north with each year, and the lowlanders push us into her embrace. Is it any wonder that the People lose faith in Father Sky’s wisdom? We are free to fly as we will, but do these mountains not hold the bones of our Mother?”
+
+The old man closed both sets of eyes. That, at least, rang true. He heard the sullen whispers among the younger warriors, those who had not seen the horror that followed Ogodei’s failure. They saw only retreat and submission, the cowardice of old men. Yet never had one of his warriors, let alone a Khan, dared to turn to the worship of demons such as the Crone or the Gnawers.
+
+“To cling to a single place is error,” he replied quietly.
+
+“Yet you are still here,” Galidan noted, Beast and Man alike fixing him with a look. “You have not flown west beyond the Red Garden or East beyond the Sun’s Grave, as some did.”
+
+Khan Khashin grunted, his Beast-Self stamping its hooves. “The Mother Mountains are not a single place,” he answered.
+
+“As most of the People would agree,” Galidan said.
+
+“... Make your proposal, Khan Galidan,” the older man said.
+
+“I wish only for you to support me when I make claim to the Skyson’s legacy,” Khan Galidan replied, the great beast beneath him spreading its wings.
+
+“You will die,” Khashin said flatly. “None have survived entering the tomb.”
+
+“Perhaps,” the younger man replied, lifting off. “But I will not die chased from my home, nor corrupted by demons. I ask only to be given the chance.”
+
+“I will investigate your words,” the old man said, his Beast-Self’s wings spreading as well. “If you speak truth about Taghai, I will support you.” Left unsaid was that a lie would see new vendetta declared.
+
+The sky changed always, but Khashin had hoped that his final days might pass without strife.
+
+The spirits laugh at the desires of men.

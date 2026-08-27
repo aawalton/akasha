@@ -1,0 +1,167 @@
+---
+id: 0af89fdf-ba75-5c8d-a7c1-0508186f4b44
+page-type-slug: story-chapter-royal-road
+title: "Threads 35 Peers 3"
+slug: 0046-threads-35-peers-3
+partOf: forge-of-destiny
+position: 46
+ownLength: 3213
+unit: words
+publishedAt: 2021-01-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/613187/threads-35-peers-3"
+royalRoadId: "613187"
+---
+
+Ling Qi darted through a mist-shrouded forest of stone trunks, her skin gleaming with emerald light from the power of the techniques coursing through her channels. The melody of the Forgotten Vale echoed through the cold darkness of the late evening, and red-eyed phantoms stalked at her heels and prowled in the shadows.
+
+Yet, like the night itself, she could only fall back before the rising of the sun. Stone exploded into powder and molten glass as a saber forged of colorless light ripped through the space that had been occupied by the pillars, sending their tops crashing down like falling trees, and Ling Qi ducked the arc of its swing by inches, flyaway strands of her hair dissolving into shadow rather than being burned away.
+
+Even as Ling Qi spun to face her foe, the heiress’ eyes were ablaze with radiance that scorched the very flows of qi that maintained her arts. Yet, even as Cai Renxiang drove her dainty fist in under Ling Qi’s ribs and launched her backward with a muffled boom of displaced air that scattered dust in every direction, the patina of green light that shielded Ling Qi held just long enough.
+
+Ling Qi grimaced as she twisted in the air so that it was her feet that struck the pillar, instead of her back. The impact still splintered rock, sending a spider web of cracks through the pillar and forcing her to bounce away, flickering through the shadows to reemerge as it collapsed atop the space where she had been.
+
+“An interesting technique,” Cai Renxiang’s voice rang out as the heiress turned, raising her saber back into a strong two-handed guard stance while Ling Qi repositioned herself in the shadows. Light radiated from Cai Renxiang at every angle, and the cloth of her gown rippled with hungry motion. Although Ling Qi’s mist surrounded Cai, it could not touch her, burning away as surely as any mist exposed to light. “You do truly enjoy making use of arts which force your opponents to exert themselves to exhaustion if they wish to overpower you.”
+
+Ling Qi allowed herself a grin as Sixiang exerted themself, purging the burning radiance from her meridians and allowing her to renew Deepwood Vitality. While chatting in battle was generally foolish, this was just a spar, so it was fine. Thankfully, she could do so without breaking her song as well. Sixiang was helpful like that. She could imagine some other uses for the ability to fake individual voices as well. For now though, she thought, and the wind vibrated as if she had spoken.
+
+“Lady Cai has been a very good teacher in showing me the need to defend myself from dispelling arts.”
+
+“The strongest shield or sharpest sword is useless if torn from its user’s hands,” Cai Renxiang agreed. Even as she spoke, Ling Qi tensed, layering on another armoring technique as the heiress lunged, crashing through the pillars that stood between them like a meteor.
+
+Ling Qi vanished into shadow, her limbs flickering with stop motion speed as she avoided the thrust of the girl’s saber, but it was only a feint. Three criss-crossing rings of light burned into existence around her and discharged countless beams of burning light only a finger wide from their inner surface.
+
+Deepwood Vitality shattered under the first ring’s fire, and it was only her quick reaction that allowed her to escape the cage of the second and third by slipping into insubstantiality. Despite her shift into the shadows, she emerged from the radiant cage with her qi mildly drained from holding up against the radiance that carved through her shadowy form.
+
+It was only a distraction however. As Ling Qi reoriented herself, she found herself under relentless assault. Cai Renxiang’s saber was a blur of blinding light as it swept and spun through the air, forcing her to retreat, flowing around the blade or deflecting with qi-armored forearms, but never meeting her strikes head-on.
+
+Ling Qi knew from experience that  doing so was futile. Cai Renxiang had already grown much stronger compared to their spars before the tournament. Before, her blows were heavy, but now, they were irresistible.
+
+Even the Thousand Rings Unbreaking could only weather one real hit before Cai’s techniques overpowered its conceptual immovability. Ling Qi wondered briefly what could be said of the Cai family that one of their primary arts was a thing of such unstoppable forward momentum.
+
+<I dunno. It’s not exactly a subtle statement,> Sixiang said sarcastically.
+
+Ling Qi allowed herself a small smile. That was true enough. As she swayed to the side, avoiding a two-handed upward blow, the cry of her flying sword rang out in the mist, and the spiral blade shot out from storage, its tip barely a centimeter from Cai Renxiang’s face by the time it had grown solid.
+
+The red silk splashed in stylized wings across her liege’s chest rippled, and embroidered eyes narrowed. Then the world went white as the light around Cai Renxiang blazed. For the barest instant, she saw a faceless, inhuman visage before Ling Qi snapped her eyes shut, drew in her senses, and hurled herself backward.
+
+That technique, Celestial Revelation, was such a pain. It was similar to Deepwood Vitality, but it blocked even the residual on-touch techniques.
+
+Ling Qi silently thanked Sixiang as a pulse of moon qi washed away the worst of the blindness, but her spiritual senses were still blurred and spotty. She drew her flying mist blade back, and it circled her head, letting out a mournful whistle.
+
+“You are growing better at wielding your domain weapon as a part of you,” Cai Renxiang complimented as her vision cleared, and Ling Qi’s cheeks grew pale as she caught sight of the shimmering ribbon of white silk that now fluttered over the other girl’s head. The six silver bells which hung from it chimed gaily, echoing through the ruined pillar forest.
+
+Ling Qi activated Hundred Ring Armament, renewed the effects of Sable Crescent Dancer, and moved as destruction poured down from the sky. Six scintillating beams of light slammed down on the place where she had last stood. Rubble was reduced to powder and dust, pillars shattered, and deep trenches were carved into the earth as the six beams focused on one point and fanned out, chasing her shadowy form through her increasingly ragged mist.
+
+“And that technique is still unfair!” Sixiang yelled, giving word to her thoughts.
+
+Cai Renxiang had taken her domain weapon to the next level already, imprinting a technique into it to enhance the weapon. Now, she had to avoid the searing light of six searching beams cutting off her maneuvering room while still trying to keep away from Cai Renxiang herself. Gritting her teeth, she sent her Singing Mist Blade spiralling out, dancing through the lines of light. The weakness of Cai’s domain weapon was that it was poorly suited to attacking other domain weapons and was relatively flimsy. If she could at least punch a hole or two in it, it would disrupt the lightshow trying to box her in.
+
+Of course, Cai Renxiang herself chose that moment to emerge from a sweeping beam of light with her saber already moving in a rising slash. Her eyes flashed with colorless light, and this time, the searing light and oppressive weight annihilated the anchoring flows of the Hundred Ring Armament. Her technique was powerful, and she had cast it perfectly, but the raw power and corrosive touch of Cai’s light was too much.
+
+The amount of qi the heiress had to pour out was the only consolation she had when the searing edge of Cai Renxiang’s saber shattered her defensive technique and knocked her back into a sweeping beam of light that carved across her back with a hiss like searing metal dropped into cold water. Her qi protected her, rising like misty smoke from her back and shoulders as Ling Qi flickered and vanished.
+
+“Looks like that art still isn’t good enough to stop you though,” Ling Qi, through Sixiang, grumbled, already working to shore up her battered defenses. She would not be able to use Hundred Ring Armament for a time. Even Sixiang could not dispel the technique Cai had used.
+
+“Its presence forces me to spend qi more freely than I would like,” Cai Renxiang replied from somewhere within the dust and dancing beams of light. “There is value in narrowing an opponent’s options.”
+
+She supposed that was true, and if, with the work she had done and the techniques she had learned, Ling Qi could force Cai Renxiang to break out her stronger techniques, then against peers, she should be well off indeed. Ling Qi rallied herself as the beam that had been cutting its way toward her veered off wildly, and she caught the whistling wail of her sword on the wind.
+
+She might not be ready to win, but neither was she someone the heiress could trivially defeat. There was something to be proud of in that, even if neither of them was exactly pulling out their full bag of tricks.
+
+***​
+
+Ling Qi lay on her back, breathing heavily as she stared up at the night sky. The smoke and dust had faded, and only a few tattered shreds of mist clung to the shadows of rubble and still standing pillars.
+
+Cai Renxiang was seated a short distance away atop the perfectly smooth stump of a fallen pillar. Her saber lay across her lap, and the heiress silently polished the gleaming surface with a square of dark blue cloth. The maintenance was a purely meditative action, Ling Qi knew.
+
+“I wonder how much the field maintenance guys hate us,” Ling Qi mused.
+
+“Not very much, I should imagine. It is their duty,” Cai Renxiang replied absently, not looking up. “I can imagine that few third realm cultivators whose battle would not wreak some degree of destruction on this place.”
+
+“I suppose,” Ling Qi said, not looking away from the sky. “Why do you choose this field so often though? You might be able to bust through, but fighting here has to be annoying for you.”
+
+“There is a certain catharsis in destruction,” Cai Renxiang explained quietly. “And it reminds me of the costs incurred when violence is required.”
+
+Ling Qi looked to one side and then the other. Ruin and rubble was all that met her eyes. If she closed her eyes, she could imagine for a moment that this was a stretch of woodlands, or perhaps a town. She breathed out quietly.
+
+“I can see your point. Even for a couple of third realms like us, it’s pretty ridiculous. I’m not sure I can picture what a real fight between higher cultivators must be like.” Fragments of tattered memory, a black tide of fur, claw, and fang flickered across her mind’s eye, and she shuddered.
+
+“I was taken in my youth to observe the site of Ogodei’s fall,” Cai Renxiang said. “Even with the spirits of nature reclaiming it, the ruin was obvious. The sight of broken mountains, canyons and craters that stretch for kilometers, and localized storms that simply never end is humbling, but also a warning.”
+
+“I guess that’s why even your Mother puts up with unruly vassals, huh?” Ling Qi asked.
+
+“There is no value in ruling a wasteland,” Cai Renxiang agreed.
+
+There was silence between them before Ling Qi spoke up again. “Still… How does the Duchess stand it? I’m only starting to get the picture from talking and listening, but there’s so much chaos in Emerald Seas, just under the surface. I know I only saw your Mother once but I can’t imagine her standing for it, all this petty bickering, the confused chains of loyalty, and conflicting borders.”
+
+Cai Renxiang was quiet, the only sound she made was the swish of cloth across metal. “You must understand that what exists today is already an improvement. Are you aware that Emerald Seas holds the record for the greatest number of times its dukedom has changed hands?”
+
+“I haven’t studied the other provinces much,” Ling Qi said with a frown. “Obviously, the Bai, Zheng, and Xuan have only ever had one ruling family, but is Emerald Seas really…?”
+
+“With my Mother's ascension, that is four ducal families,” Cai Renxiang replied. “The other provinces which have changed hands are on their second.”
+
+Ling Qi looked at the sky, thinking. She wondered where the capital province fit into that. They were on their third dynasty after all. Of course, all of the Imperial dynasties had continuity, so perhaps that was different. “I remember looking at the historical timelines. There were still millenia of peace between the changes.”
+
+“The Xi and Hui were not able administrators,” Cai Renxiang said. “They rarely interfered with their vassals, and the province suffered for it. In the later Hui period, even the Imperial Peace was only sporadically enforced. To the rest of the Empire, the Emerald Seas was somewhat of a backwater.”
+
+<Nothing wrong with a little chaos,> Sixiang grumbled. <But there were a lotta nightmares back then.>
+
+The Imperial Peace was the law which forbade clans from taking open military action against their peers. It was a basic enough bit of law that even Ling Qi remembered it. Yes, if things had gotten that bad, she could see why things were as they were now.
+
+“I guess just cutting the whole tangled knot would run into that wasteland problem, huh?”
+
+“Quite,” Cai Renxiang replied dryly.
+
+Ling Qi sighed, a twitch of her fingers returning the gold-lined envelope Bao Qingling had given her to the material world as she looked up at the broken seal. She had read it before their spar, but she had put it out of her head. The language was flowery, and it had been couched in a lot of language about trade and resources, including mention of Zhengui, but she could read between the lines.
+
+It seemed that Bao Quan had not been commenting idly when he mentioned the idea of a marriage match when she had met him at the Guo’s gathering during the New Year’s Tournament. He was canny enough not to make any direct mention of such a thing though. She supposed that to him, a fourth realm cultivator, she was as easy to read as a mortal.
+
+“Developing a close alliance with the Bao would probably be the most useful thing I could do to help with the whole mess, wouldn’t it?” Ling Qi asked idly.
+
+“It would not be unwelcome,” Cai Renxiang asked, eyeing the letter in her hands. “Have you been officially approached for such?”
+
+“I think so,” Ling Qi said, eyes tracing the broken wax seal. “It’s just… Even if they’re not pushing for a betrothal contract now, that’s the goal, isn’t it? How do you deal with knowing that you’re going to have to sell yourself like that?”
+
+Cai Renxiang looked down at her, pausing in the polishing of her saber. “I do not understand your difficulty,” she admitted.
+
+“It’s kinda childish, isn’t it,” Ling Qi sighed. What a stupid thing to say to her liege.
+
+“That was not my intent,” Cai Renxiang said, considering her words as she raised the blade from her lap, studying the gleaming curve of the metal. “I was speaking bluntly. Marriage and betrothal are simply business contracts like any other, if generally longer in their terms.”
+
+Ling Qi sat up, eyeing the other girl with a dubious look. “You actually believe that, don’t you?”
+
+<Of course she does. Did you forget who you were talking to?> Sixiang snarked.
+
+“If you are concerned about an imbalance of power from your mother’s experiences, you should know that your talent and my backing will put paid to any such abuses. I will extend the Cai family's resources to reviewing your contract,” Cai Renxiang offered, lowering the blade as pale blue threads began to weave together around it, reforming its scabbard.
+
+Ling Qi stared at her. It wasn’t that she didn’t appreciate the offer, but the offer seemed to miss the point. “There is more to it than that. You’re… There’s supposed to be more to this kind of relationship than that.” It definitely wasn’t supposed to just be business. She hadn’t run away from Mother just to dive right back in.
+
+Cai Renxiang frowned at her. “It is not something to be spoken of in public, but the emotional fulfillment you are speaking of is something to be taken care of on the side. Even Mother does so with Minister Linqin. But I suggest you keep such matters better hidden. You do not have the might to ignore convention as Mother does.”
+
+Ling Qi opened her mouth to respond and then closed it again as her thoughts caught up with the words she had just heard. “What?”
+
+<I have to agree,> Sixiang said faintly.
+
+“It is hardly something to be spoken of in polite company, but most…” Cai Renxiang began.
+
+“No, the bit about the Duchess,” Ling Qi said, not even caring that she interrupted her liege.
+
+Cai Renxiang’s frown deepened. “It is one of her more incomprehensible decisions. She treats the Minister as her wife in most every social situation, often with undue public affection despite the damage the scandal does.”
+
+“Is this something you should be telling me?” Ling Qi asked with alarm.
+
+“Normally not, but for whatever reason, it is public knowledge,” Cai Renxiang said. “Obviously, Mother has some plan to which I am not privy which explains the matter. Perhaps it is because Minister Linqin is effectively the Diao Matriarch, and thus, much more valuable and powerful than my father. I would not speculate too much on matters clearly beyond me. The point is, if you seek… romance, there is no need for that to affect your marriage prospects.”
+
+Ling Qi stared at the other girl, attempting to process the idea of the radiant monster she had met at the tournament expressing “undue public affection.” She failed.
+
+<For once, I’m not going to help you on that,> Sixiang said bluntly.
+
+Ling Qi was thankful. She supposed she should be thankful that the surreality of the words had shaken her out of her fugue. “I will take your words under advisement,” she said faintly.
+
+The dimmed light around her liege brightened for a moment, and the other girl nodded, seeming satisfied. “Good. I hope that you can resolve the matter satisfactorily.” Cai Renxiang glanced up at the sky, and her lips thinned. “It is growing late however. I trust that you will look into the other matter as time allows?”
+
+Ling Qi nodded as she stood up, brushing dust and stone powder from her hands. “Yeah, I want to know what Sun Liling is playing at as well. I’ll keep track of who she talks to at the gatherings.”
+
+“Very good,” her liege replied, all business once more. “Thank you for the spar.”
+
+“Thank you for the spar,” Ling Qi repeated, tucking the letter away. She still had a month or two until she had to worry about the letter and its contents. For now, she had to get back to her own plans. She had several matters of cultivation to finish, and the moon was calling.

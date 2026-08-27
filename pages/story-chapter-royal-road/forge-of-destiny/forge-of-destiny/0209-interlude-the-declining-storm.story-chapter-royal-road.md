@@ -1,0 +1,137 @@
+---
+id: 5cfa47b3-c072-59e0-bada-f6ffb05c9834
+page-type-slug: story-chapter-royal-road
+title: "Interlude: The Declining Storm"
+slug: 0209-interlude-the-declining-storm
+partOf: forge-of-destiny
+position: 209
+ownLength: 2595
+unit: words
+publishedAt: 2022-01-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/831333/interlude-the-declining-storm"
+royalRoadId: "831333"
+---
+
+The rain had not stopped for a week now.
+
+The garden had been churned to muck by the pounding rain, and the unpaved paths and roads in the town had become impassable. All industry had shut down as people huddled inside. The immortals were going to war against the barbarians, it was said. The storm was the wrath of the Sect’s lord as he marched against their foes. Fields would be ruined, streets and homes damaged, but that was better than suffering under the hands of the Cloud Tribes.
+
+It was said the Sect’s protection had given them many prosperous years. They could suffer one poor one. Besides, folk of the Sect had ensured the harvest was in before they began their march. What was a little winter flooding, especially when the worst of the water flowed unnaturally out of the town, filling the deep reservoirs that the townsfolk had been frantically digging in place of other labors?
+
+Ling Qingge had to admit, she still did not understand the minds of her neighbors. She almost spilled the tea in her hands as a tremendous boom of thunder shook the window panes, a blinding flash lighting the far silhouettes of the mountains.
+
+“Hoh, that was a big one. I hope Lord Yuan is giving the scum a good drubbing,” the elderly woman across from her said. She smiled a toothless smile, peering out the window at the driving rain.
+
+“I pray it is so,” Ling Qingge said, holding her cup all the tighter. Even in the warmth of their dining room, the moist chill of the air seemed to penetrate. “Please excuse my nerves, Madam Fong.”
+
+The older woman chuckled. “You’re excused, Madam Ling. First time experiencing the Lords at work?”
+
+Ling Qingge nodded shallowly. Since her daughter had given her reign over the household, she had begun tentatively reaching out to other households. A lowly woman such as herself could not show her face to true nobles, but here, in White Cloud Town, there were many households like her own. They were the families of disciples who had reached the third realm, as well as the families of soldiers.
+
+Madam Fong was one of these. The grandmother of an officer in the sect army, her son had first brought her here, and now, his son had taken his father’s place. Unlike Qingge, the old woman had fully achieved her awakening, and others in the district said that she was nearly a hundred years old.
+
+“I’ve experienced some measure of what my daughter is capable of, but it is not the same,” Ling Qingge admitted. It was simply accepted that this terrible storm, spanning the whole region, was the work of one man.
+
+“They feel so far above us, but they’re just striplings themselves,” Madam Fong agreed absently, still watching the rain. “It’ll drive you to distraction if you think too hard about it.”
+
+“I am not certain how one can avoid doing so,” Ling Qingge replied. The wind gusted, and the rafters above their heads shook, creaking ominously. If she did not know that Biyu was napping in the “panic room” her other daughter had commissioned, she was sure that she would not be able to sit still at all. Somehow, the expense did not seem so absurd any more.
+
+“It takes practice,” Madam Fong said. Light flashed in the sky outside again, and the old woman didn’t so much as flinch as the house rattled. “Let me thank you again for letting me in. I told that woman last year that she shouldn’t have put off reinforcing the roof.”
+
+“You’re speaking of your late son’s wife?” Ling Qingge asked cautiously, happy enough to have a distraction. “Will she be fine in these conditions?”
+
+“She’s a realm higher than me, so I’d hope so. That boy didn’t choose so badly, but now and then, her frugality gets us in trouble. I hear your house has a bit of a problem in the other way though,” Madam Fong said thoughtfully, taking up her cup in a trembling hand.
+
+“My daughter is very generous,” Ling Qingge allowed. When a member of a ducal clan was coming to their home so regularly, rumors were bound to fly. In this case, the truth had been the best remedy.
+
+“I don’t envy you, Madam Ling,” the old woman said. “I have enough trouble with my grandson, and the immortal guests he brings about. Your girl, is it true that she’s got the Duchess’ ear?”
+
+“She is sworn to Her Grace’s daughter, no more,” Ling Qingge replied quickly.
+
+“I see why you worry after your nerves then, Madam Ling,” Madam Fong observed.
+
+Ling Qingge sighed, restraining the flinch that tried to come as outside the thunder roared again. “Do you have any wisdom on the matter, Madam Fong?”
+
+“Don’t think about it,” the old woman said pleasantly, savoring her tea. She raised her cup as if to toast as the wind gusted again. She seemed to ignore Ling Qingge’s flat look. “If I’m being less pithy, Madam, do you go about your day worrying about whether you’ve offended the spirits?”
+
+“I suppose not. I know the proper rituals well enough, and the temple is kind enough to instruct new residents on the local ones,” Ling Qingge replied. “I’m not sure your insinuation is correct.”
+
+“Isn’t it though?” Madam Fong asked. “We make offerings and obeisance, and in return, we get protection and prosperity, but sometimes…”
+
+She trailed off, gesturing to the storm.
+
+Ling Qingge was silent as well, listening to the wail of the wind and the pounding of the rain. Once, when she had first arrived here, she had christened her daughter a “little god” in her thoughts. It was a whimsical thing, but sometimes, it seemed she was not wrong. In the tales Ling Qi told her and in the things she left out, Ling Qingge had begun to have an idea of just how high the heavens were.
+
+The Sect’s mobilization had simply made it obvious.
+
+She hoped that Ling Qi was safe. Her daughter had told her that she was not going to fight, but she was going to meet with some strange foreigners. Was that better or worse? At least if she was fighting, she would be under the protection of her Sect’s elders.
+
+“All we can do is pray for safety, triumph, and homecomings,” her guest murmured. “Because even gods can die.”
+
+Ling Qingge silently observed the unrelenting storm as thunder boomed again and lightning tore the sky. In her heart, she prayed that her daughter would find her way home again.
+
+***
+
+He flexes his fingers, and a unit of men splits in two before a scintillating missile from beyond the horizon carves the land in twain where they had just stood. His grip on his cane tightens, and three kilometers in the other direction, three men manning a net launcher adjust their aim just so and catch a particularly skillful raider in their trap. He breathes, and the storm winds howl, ripping free from the grasp of desperate shamans beating their drums.
+
+He is Yuan He, and he is the Storm.
+
+His body, grown so frail and withered, sits in the silent center, surrounded by spiralling golden coils that stretch far above the clouds. It does not escape him how much he has come to resemble his old foe. Where once he stood in defiance under the storm wracked sky, the thunderous stomp of a divine beast’s hooves ringing in his ears, with only a ragged collection of survivors and volunteers at his side, now, he is the bringer of ruin.
+
+His rains flood the valleys, his lightning sets the fields aflame, and his winds scour the mountain peaks and skies. The Argent Peak Sect will never allow the Emerald Seas to be ravaged by the men of cloud again. His awareness is the storm, and within it, he knows every soldier as if they were his own fingers and hands. A squadron led by a young Inner Sect disciple falters under fire from swarming nomads, and he draws the power and layered techniques from five squadrons not engaged. The beleaguered soldiers’ blades and arrows blaze, and the young disciple’s eyes burn with power far beyond his limits as he leaps into the sky and cleaves the heads from horses and horsemen alike. A group circles silently under the rain seeking to flank their supply lines, and with hardly a thought, a task group abruptly changes routes to intercept. Every moment, a dozen, a hundred, obstacles are revealed, and men reorganized in response.
+
+He is the Argent Peak Sect, and yet, he is alone.
+
+He felt the champions of the Sect, the elders whose backs supported it all. He saw Zhuge Ke, standing astride the head of his own dragon companion, fighting a whirling duel in the sky with a barbarian khan, a duel whose outcome was already decided as the fool brute he fought was maneuvered into the dense labyrinth of formation traps that Zhuge Ke’s very thoughts wrote in the air.
+
+There stood a haggard boy before the door of a ruined homestead. His eyes were as dull as his belly was sunken, and his pallid fingers were marked by dozens of scabbing cuts and pricks where blood had been drawn to paint the defenses that had shrouded the building.
+
+He saw Nai Zhu’s cackling flames consuming the the sky along with the sledges and gers of a tribe forced to abandon all to flee, taking her time consuming the poor few who had been left behind to slow her down, for she knew that those fleeing wouldn’t escape the grasp of the White Plumes’ interception.
+
+He heaved off the crumbled shingles which muffled the wailing cries of a child. There lay a girl child in the ashen ruins of a baronial manor, barely more than an infant and already scarred terribly from burns. He scooped the child into his arms, knowing she lived only because of the silken talisman gown she had been wrapped in.
+
+Even the children of Ogodei’s ruin were growing fewer now. Only those handful which had achieved the sixth realm remained. Of his companions who fought beside him that fateful day, only Shi Ying remained.
+
+The prodigal genius of the fallen Shi stood silhouetted in the sky, her smiling face twisted in hate. Her flesh burned with the energies and powers of all sixty-three of their surviving companions, her three dantians and scores of meridians blazing with such light that mere flesh was rendered a phantom. Hair whipped about her face in the wake of the great stone she had torn down from beyond the heavens to strike Ogodei in the dearly bought moment of weakness purchased with the life of Guan Zhong.
+
+And one other, he supposed.
+
+“Pfah! It ill suits you to be maudlin, Yuan He.” The voice rumbled from beyond him, echoing a hundred times over among the golden coils, coming down far above.
+
+“I know you understand it not, Xuelong, but I am old.” Yuan He did not speak through the withered husk sitting in the storm’s eye, but on the wind and the crackle of the lightning. “I have earned the right to be whatever I like.”
+
+There was a rumbling scoff from the sky, and then came the building of radiance. A group of nomads was rallying about a leader, far from the location of any of the elders. Through the eyes of a disciple’s spirit beast, a mere third realm thing hidden away in a scraggly tree’s boughs, he guided his long-time companion’s shot.
+
+A river of lightning tore the sky asunder, liquified three hills, and reduced a score of men to ash in an instant. The little bird whose eyes he had used fluttered away, protected by his will despite the distance.
+
+Yet despite everything, their actions were not without loss. The nomads were canny and knew the land. They fought with the desperation of beasts cornered in their dens. Soldiers and disciples fell in ones and twos, and each was another pinprick on his flesh, a reminder of his failure, that no matter how mighty he was, one man could not protect the world.
+
+Tribes were missing, gone from the routes they had followed since Ogodei’s defeat had settled, and there was little sign of the creatures below. He knew better than to accept it as good fortune or his foes’ weakness. He had the reports. There was a great mustering under their feet, a clarion call that stretched far beyond the vault they had discovered, and a great gathering had been held in the far east in the hot lands south of the Sun’s grave.
+
+Many had wondered if some power had protected those mountains from the Sun’s wrath long ago. Now, he had to entertain the notion that such a power might be a foe. Yet, right now none of that mattered.
+
+In his ancient chest, heat burned, and on his forehead, heavenly light blazed, the power of a storm lashing out against the confines of his upper dantian. Though a nomad’s hands had done the deed, those beasts were what had truly taken his successor from him, the man he had raised in his blood brother’s, Guan Zhong’s, place.
+
+After everything else, he had lost his boy too.
+
+Even across the battlefield, he heard Guan Zhong’s last laugh, his arts giving his body such weight that no light or qi could escape his grasp. Ogodei’s spear punched through his chest, even as his hands grasped the barbarian’s throat, and for one glorious instant, held him still.
+
+The ancient body at the eye of the storm rose to its feet, and its open eyes revealed an infinite plane of crackling electricity barely contained by human flesh. Where its gaze fell, the lightning came.
+
+He saw his wife, withered beyond her years, spirit scarred and ripped full of holes by the terrible, forbidden ritual arts which had enabled them to grasp and shunt their foe to their chosen battlefield and confine the Sky for a battle that would only end when he and every one of his companions was dead.
+
+The scattered tribes fled the advance of his Argent Peak Sect.
+
+Through his Sect’s forces, he hunted them down like dogs. He saw himself through their eyes, the awful figure at the center of an unstoppable storm.
+
+He saw the bubbling magma and melting stone at the center of the kilometers-wide crater move. He saw a bright horn of solid lightning rip from the stone, and lightning fell at the sound of the spine-chilling whinney. He saw the face of a man, cold and hard, his eyes burning with the fury of the righteous. A burned husk fell from the man’s spear into the magma. The man’s armor was cracked, his beast’s scales were scorched, and blood ran from a hundred wounds, yet still, Ogodei stood, and the storm came at his call. He felt despair, knowing that even now, all of their sacrifices had not been enough.
+
+Yes. Yuan He could see that same despair in the eyes of khans great and petty.
+
+Such was war.
+
+A stab of pain echoed through his being, and although he did not falter in his command, he did turn his gaze inward to the hair-thin rupture in his lower dantian.
+
+At least this would be his last one.
+
+His time was ending. Perhaps, if an old man could deign to dream, the youngsters would do better than he.

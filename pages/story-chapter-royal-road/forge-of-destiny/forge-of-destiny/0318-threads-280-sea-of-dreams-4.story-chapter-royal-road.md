@@ -1,0 +1,191 @@
+---
+id: 002f34c8-b6ce-50ad-ac6a-ea7a2611689e
+page-type-slug: story-chapter-royal-road
+title: "Threads 280-Sea of Dreams 4"
+slug: 0318-threads-280-sea-of-dreams-4
+partOf: forge-of-destiny
+position: 318
+ownLength: 3016
+unit: words
+publishedAt: 2023-01-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1101322/threads-280-sea-of-dreams-4"
+royalRoadId: "1101322"
+---
+
+Ling Qi swallowed once. Even she knew there were many ways this story could go from a hundred hundred scraps of folktale and spirit knowledge.
+
+“We would be happy to bring you your firewood, grandmother,” she called back, “if you offer the guarantee of your hospitality.”
+
+Her response was a creaking laugh like wood splintering in extreme cold and the faint jingle of the bracelet wrapped around the wrist of the spirit’s arm as it withdrew. The dangling bangle was made of bones, little skulls and carved ribs.
+
+“How forgetful I am. No harm shall be brought to you or your man, the dream scraps, or even that morsel of a tortoise, so long as you make no violation of guest right. Now, come along. I want to hear what such brave children are doing here.”
+
+Zhengui, both of his heads, looked at her with some alarm, and she patted Gui’s head. The spirit had given her word. She was already more reasonable, if far more terrifying, than Bleak Skies Yearning.
+
+Ling Qi held up an arm then stopping anyone from stepping forward. “This one apologies for the delay honored grandmother, but I am from a far away land. May I ask what things might violate guest right by your understanding?”
+
+There was a sound of scraping wood, and in the darkness, Ling Qi briefly spotted the flash of a large, milky eye, squinting out. “A careful little poppet, aren’t you.”
+
+“You would be the first to say so, Honored Grandmother,” Ling Qi said.
+
+A creaky, rasping laugh, and the clack of metal teeth. “Harming your host. Damaging their property. Refusal to pay the favor owed for hospitality..”
+
+There was the catch.
+
+“What manner be such a favor?” Xuan Shi asked.
+
+“Small things. Small favors. A gift. A service. A quest, perhaps, for young heroes, yes,” cackled the spirit, “but we can discuss things over the fire, can we not? Oh, yes.”
+
+Ling Qi shared a look with Xuan Shi, who very slowly shook his head. She had to agree.
+
+Kongyou harrumphed, alighting fairylike upon Xuan Shi’s shoulder. “Wouldn’t even be a tragedy, walking into that.”
+
+“Grandmother, in this one’s land, it is polite to seal all contracts clear and true. For the warmth of thy hearth, perhaps this one can offer a gift. Mayhaps an art or a curio that might catch Grandmother’s eye?” Xuan Shi proposed.
+
+“Polite lad, so polite, but such stiff youngsters. So stiff,” the giant thing in the hut mused.
+
+Ling Qi stared into the void of ending which resided in that hut. A devouring cold that would snuff life, it was powerful, but there was too much humanity stretched like a skin over the absolute ice. It was a different sort of humanity than her master, but a humanity all the same, something like Xin, rather than the Hidden Moon.
+
+“We only wish to be sure not to give offense,” Ling Qi countered calmly. “We are visitors. We will be speaking much with your people, Honored Grandmother. It is only wise that we learn to speak well.”
+
+There was a deep inhalation of air, pulling at Ling Qi’s hair and dress. “Ah, Children of Jade, Dragonkin, that is what old Grydja smells.”
+
+“You are not the Crone then,” Ling Qi concluded.
+
+Hacking laughter. “Nay, nay, just a shard, a nail, a flake. Poppet, you should know the true End is not so chatty, aye?”
+
+Xuan Shi glanced at her. Ling Qi didn’t quite catch his eye.
+
+Once, while cultivating the Frozen Soul Serenade, she had asked her master about the deeper concept embedded in the art. Ending, the dissolution of all things, was the night which awaited when the sun and moon died and all things faded to dust. It was not a concept she dwelled upon. It was almost meaningless to a human like her, a distraction from the smaller but far more relevant endings which made up life.
+
+“If that is what she is, I suppose not. But, Grandmother, my friend asked if you would accept a gift.”
+
+“I suppose so. I suppose so,” whispered the hag. The milky eye peering through the doorway twitched to Xuan Shi, who grimaced at the pressure and the cold that formed ice on his robes and turned his breath to steam. “What can you offer, little carver? What pretty things can you offer an old woman?”
+
+Xuan Shi considered for a time. Kongyou scratched the side of their nose disinterestedly, but Ling Qi saw that their attention never wandered from Xuan Shi’s face. Eventually, he turned over his hand, and there was a faint pop as something materialized in his palm, displacing air. “This one offers a fine little trinket, a work of the heart. This should satisfy more than any armament or finery. Such is the way of this tale, no?”
+
+It was a jade figurine cut from a block of dark green that was nearly black. It depicted a stone jutting from the carved surf with three figures sitting on the rocks, a man and child in Xuan garb and a third incomplete figure, vaguely feminine with long wavy hair.
+
+“DONE.”
+
+Ling Qi did not get to look any further as the frost bitten claw reached out of the door in an eyeblink, snatching the relatively tiny carving from Xuan Shi’s hand with uncanny dexterity. He staggered as it pulled away, his hand flying to his chest, and Ling Qi felt heat and qi ripped out of him as well.
+
+She caught his shoulder as he stumbled. “Xuan Shi, what was—?”
+
+“My hearth is bought, little ones. On word and bond, you are safe and owe nothing. Now, come. Come and bring the firewood, dearies.”
+
+Ling Qi shot the open door a look. “We should have negotiated more,” she muttered.
+
+“There would be no gain without loss,” Xuan Shi contended. “Ah, it was but an idle fancy, a moon-granted dream. There will be other divinations.”
+
+Kongyou stared at him and didn’t say a word.
+
+“Heh, not so nice from the other side, eh, Qi?” Sixiang bumped her with an elbow.
+
+“If Mr. Carver wants to pay, we should go,” Gui said, crossing the threshold.
+
+Ling Qi took her hand off Xuan Shi’s shoulder where she had caught him. “Alright. It was your choice,” she acknowledged. “Let’s go see what we can learn.”
+
+***
+
+There was power in the words of spirits, power that she herself could emulate just a little. Power that made words mean what they said. She would call it Sincerity. Or perhaps Truth.
+
+If it could be faked, she had never experienced it. That was the only reason she could bring herself to cross the grubby little yard even now because the yawning void of the doorway made the hairs on the back of her neck stand on end.
+
+She stood to the side, matching gazes with the beady chicken still pawing at the yard. The bird’s head bobbed as it scratched at the dirt then rose, twitching round to look at her. Xuan Shi crouched by the woodpile, gathering the promised firewood.
+
+“Heavy,” he grunted, weighing the third stick of wood in his hand, which trembled with the weight. Given that he was a cultivator in the same realm and stage as she, it certainly said something of the wood’s strange properties.
+
+“Petrified,” she corrected, looking at the grayed grain.
+
+“Qi-dense, as deathly the fathomless depths.”
+
+“Not wood at all, but you both know that.” Sixiang glanced nervously at the door.
+
+As Xuan Shi finished gathering the firewood, she kept her qi tightly contained about herself, a mantle of cold wind and pooling shadow. He rose, and she accompanied him inside. Her step, normally silent, made the old, wood paneled floor creak. She didn’t let it bring herself short.
+
+The hut was larger inside and very dark. Shadows pooled like puddles of tar beneath the rough furnishings, tables, a creaking chair, and a rug of some beast’s dirty brown hide. Strings of drying herbs hung from the ceiling, swaying as she brushed past them. And shelves, shelves all around the walls, were filled with carvings of bone and ice and what was perhaps dark stone.
+
+Ling Qi found her eyes skittering off of the carvings, unable to focus on them.
+
+And there, bent over the cold hearth, was an enormous old woman, immense, built like an ancient bear, and wide shoulders and a hunched back. Even bent half over, she was taller than Ling Qi. Her shapeless dress was brown and gray, its dragging hem filthy with dirt. The only differentiating color was the shimmering black shawl worn over the old spirit’s broad shoulders, and sharp little bones dangled all along its edge. At her throat, where it was clasped, there was a milky white gem the size of a child’s fist.
+
+The crone winter, this Grydja, had a face like the side of a broken cliff, craggy, wrinkled, and as broad as the rest of her body. Thin purple-blue lips and glinting milky eyes broke up the frostbitten face. Her loose stringy hair made a glassy tinkling sound as she turned her head, as if the blue white strands were made of ice. She leaned over a cauldron carved from black ice, suspended over a cold and unlit fire pit.
+
+“Dawdling children,” the crone said, sharp-edged iron teeth flashing. “The young are all such dawdlers now. Or perhaps just scared, oh, yes. Old Gryja knows her face is fearsome indeed.” She rose, towering in this hut that was both too small and just right for the giant that lived in it.
+
+“We both know it is not a matter of faces, Honored Grandmother,” Ling Qi said.
+
+The giant let out a creaky laugh, cracked lips stretched in a leering smile. “Isn’t it now? Is the face all that you can see, child? Your eyes are just wide enough to see a bit more, aren’t they?”
+
+She hunched her shoulders, her cloak and scarf thickening from linen to black fur as the chill crept in, numbing her fingers and leaving them tingling. Beside her, Zhengui’s shell flared with heat, a volcanic glow shining from his shell and between his scales, arresting the frost that was spreading there.
+
+“Let’s have the firewood now, children, before you catch your death.” The crone extended a massive cracked hand, palm up and waiting. “And introduce yourselves!”
+
+Beside her, Xuan Shi was quick to move, letting out a grunt of effort as he hauled the small pile of split logs he held in an underarm grip into Grydja’s hands. The old spirit took them without trouble, shuffling over to stack them in the fire pit beneath the cauldron.
+
+“This one is Ling Qi. With me are my companion Sixiang and my little brother Zhengui,” Ling Qi greeted, refusing to shiver despite the cold.
+
+Xuan Shi himself grimaced, crossing his arms and tucking his hands into his sleeves, but no more. “And this one is Xuan Shi, and this is my companion, Kongyou.”
+
+The crone clicked her tongue. “Interesting little wanderers, you are. A ramshackle band.”
+
+There was a spark and a shriek as two iron nails ground together. The light was blinding, and the heat felt like a fire searing the skin. The ancient, petrified wood began to burn, a merry crackle in the icy cold. To Ling Qi’s surprise, it was actually warm, the searing heat passing like a phantom.
+
+“If this one might ask, what is that wood truly?” Xuan Shi asked, looking into the flickering orange flames.
+
+The crone grinned widely, the shadows cast by the fire sending the deep creases in her face into sharp relief. “It’s firewood, of course. It is that which keeps the hearth burning and keeps back the night. Sacrifice, given of the body, keeps spirits lit and the world turning.”
+
+In the crackle of the fire, Ling Qi swore she heard war chants, screams, and whispered prayers, but only for a moment, and when she tried to listen more closely, it was gone.
+
+Kongyou seemed transfixed by the fire.
+
+“Sacrifice, forever in repetition then,” Ling Qi said bitterly.
+
+“Everything dies, poppet, though your truth isn’t wrong. There’s no need for children to worry about events their hundred times grandchildren will never live to see,” chided Grydja. “I find that when you do get it in your heads to bother, it’s just an excuse to sulk.”
+
+“The world that exists is wide, far wider than we might see in one life. To seek even more is folly and a waste of what sits before you,” Xuan Shi said. “But, Honored Grandmother, there is a difference in sacrifice given and sacrifice imposed.”
+
+“Hoh, yes, those are different stories indeed, young man. Though not one any happier than the other in practice,” spoke the crone. She settled back into the rickety chair by the fire, wood groaning like the slow movement of glacier ice. She reached for an iron poker, prodding the fire as the cauldron above began to give off an icy steam. “The world is strewn with the bones of those who walk your path.”
+
+“The world is strewn with the bones of those who have walked every path,” Ling Qi stated.
+
+“And that is fine. Bones are good. They feed what comes after,” Gui said, edging closer to the fire.
+
+“Kah-ha-he!” The spirit laughed, shoulders shaking. It almost sounded like a hacking cough. “Sharp-tongued little poppet. You’re right, you're right, they all die just the same. But that’s not a story many want to hear, now is it?”
+
+“It is a little flat,” Ling Qi said. “If I may make a request, will Honored Grandmother tell us the tale of the storm outside?”
+
+The clash of gods, of great spirits, could tell her much of the people who they ascended from. It was as the moon had hinted to her. All but the oldest spirits were shaped and made by humankind. She slided a glance toward Xuan Shi, who inclined his head. This was what he had paid for.
+
+“That would be interesting to a visitor, wouldn’t it?” The crone hummed, continuing to poke the fire as whatever lay within the cauldron began to bubble. Ling Qi was not quite brave enough to step up and look.
+
+Grydja looked out of her window where the storm howled beyond her fence. “Wrath,” she said. “They are both wrath and ambition. Nine times since the Gate was built have men sought to make themselves kings. Only three times have they succeeded. The last was far and long ago now, but the people remember it in their bones.” She grinned cruelly. “And ambition never dies. Nor does it live alone in the hearts of men. Many claim to serve the Scepter or the Axemother but come by steps to live in the Trampler.”
+
+“Is that why the sun man didn’t want to talk about it?” Gui wondered.
+
+The crone squinted at him. “Mayhap, mayhap. You’ve visited before? Mine old eyes must be going.”
+
+“We seek to avoid war with the people of Ice, or of the Gates, as you would say. That is why I wished to learn more,” Ling Qi cut in smoothly. “That is why we walked so far in this realm.”
+
+Xuan Shi nodded. “This matter is important, though it might seem small to grandmother. It is of import to those of us who must live in human lifetimes.”
+
+“Such bright little eyes you have, wanderers, bound and tied to this realm by the company you keep.” The crone's eyes wandered over Sixiang and Kongyou, who both cringed back. “They struggle, even now. The Thunderer waxes, not in the little bands which rage naked in his name, but in the center. There are always those who dream of being kings, even if they’d not name it that in their hearts. Little brats are making things hard on an old woman.”
+
+The crone smacked her lips, staring into the fire. “Struggle, you will. what with the two of you playing around the edges of old and ponderous things. Things so big are ever hateful of change, of Thieves and Seekers and Changers. Beware the Trampler. Beware whatever guise they wear in the land of dragons. The story they wish to tell will crush your little castle of sand if given half a chance. It is not a tale that can live in peace.”
+
+Ling Qi’s thoughts drifted to the summit and to all who would be there. It was too much to hope for that there would not be those who opposed any understanding with the opposite side.
+
+Xuan Shi surprised her by speaking up. “This one would hope we might gain some understanding of those who might make the matter difficult. Grandmother has said that they trouble her.”
+
+“Aren’t you a sweet little man?” the crone cooed. “A dangerous morsel, I might keep you, but no, smart, smart little children.”
+
+“We will not demand anything, of course,” Ling Qi said swiftly. “The limits of hospitality are yours to decide.”
+
+“Greedy,” Grydja complained. “Your line runs true, whatever foolishness that stray snowflake got up to. You’ve entertained this lonely old woman, so I suppose you can have a tale. But only one, greedy little poppet, else I shall seek a price.”
+
+“You are more than generous.”
+
+The spirit cleared her throat, removing the now red hot poker from the fire. The metal twisted, becoming a long stirring spoon. There was a shrieking hiss all too much like a scream as it plunged into the contents of the cauldron.
+
+“You wish to understand these children, child of winter. I’ll give you the tale of the Gates and their building, the heart and foundation of the nation. Many ‘why’s’ lie there. But,” the crone said slyly, “there’s another tale that might do you better in the now, and that tale is of the Iron King, the last one who was able to call himself Lord of All Winters in this land. Arrogant little popinjay he was, but his spirit burned many, that it did.”

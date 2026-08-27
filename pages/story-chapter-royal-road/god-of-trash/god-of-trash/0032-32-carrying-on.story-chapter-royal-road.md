@@ -1,0 +1,199 @@
+---
+id: 17c55aa2-890b-5837-be81-d49e9486c3ae
+page-type-slug: story-chapter-royal-road
+title: "32. Carrying On"
+slug: 0032-32-carrying-on
+partOf: god-of-trash
+position: 32
+ownLength: 3302
+unit: words
+publishedAt: 2025-03-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2152963/32-carrying-on"
+royalRoadId: "2152963"
+---
+
+Outside, Rhys stretched, relishing the sunlight on his face. After so long in the musty classroom, the scent of fresh air was like ambrosia to him. He yawned and stretched some more, then turned to face Ev’s nook. From here, he couldn’t tell if she’d returned or not, but he figured he might as well stop by.
+
+Meow.
+
+Rhys startled. His whole body tensed, and he leaped back. A long-haired white cat walked by. It looked up at him in mild confusion, then kept walking.
+
+He sighed and rubbed his face. He’d spent too long as a rat, to react that way to cats. It had only been a week or two in real time, but in his dream, it had been years. Almost an entire rat lifetime. To the rat him, it might as well have been an eternity. I’d better get over this before I see Az again.
+
+He jogged off toward Ev’s usual training nook. At the entrance, he sensed her aura, but also two other figures’ auras. Rhys narrowed his eyes. He slowed his speed and pulled his mana in, moving quietly toward the gap. Sliding inside, he drew to a halt at the far end of the entry crawl. He peered out, silently searching through the trees for Ev and the other two.
+
+The familiar field spread before him. Trees scattered around, the bark hammered off their surfaces. Well-beaten earth marked the spots where he and Ev most often sparred. He saw nothing.
+
+No, the signal’s a bit… higher? He looked up.
+
+At the top of the crevasse’s steep wall, Ev faced two muscular men. Her back was to the cliff’s edge. The two brutes loomed over her, both of them almost as muscular as Cynog. So muscular that they seemed to be bulging with it. They were both Tier 2, but low Tier 2. Lower than Ev, for certain… but low enough that she could handle two at once?
+
+Rhys wrinkled his nose. He ran toward the cliff and hopped up it, pushing off narrow nooks in the stone and pulling himself up on small juts. As he climbed, he heard the men talking.
+
+“…took in that kid who disrespected your master?”
+
+Ev scoffed. “Who, Cynog? He’s no master.”
+
+“You disrespect him, too? The one who took you in and taught you everything you know?”
+
+“Ha! There’s a joke. That old sadist can kiss my ass. He never taught me anything but how to take a punch.”
+
+“You dare?”
+
+“Yeah. So? You’re the pussies who need to outnumber me to be brave enough to fight me. I turn that back to you, assholes. You dare?”
+
+Rhys scrambled to the top of the hill. He looked at Ev. “Everything okay?”
+
+“Huh? Oh, there you are.” Ev nodded at him. She turned back to the bigger men. “Ready to piss yourselves now, now I’ve got a fair fight?”
+
+One of the men sneered. “Called for backup, didn’t you?”
+
+“Nah.”
+
+The men waited, expecting more explanation, but Ev offered none. She waggled her brows instead and punched her hand into her fist. “We fighting? Or are you guys scared to fight when you don’t have the numbers advantage?”
+
+One of the men growled and lunged at Ev. She sidestepped, holding out her foot. The man stumbled, lurching out-of-control toward the edge of the cliff. He flailed, reaching toward Ev and Rhys with his wide arms.
+
+Rhys hopped to the side. Ev twisted again. The man’s grabs went short, and he fell over the edge and bounced down into the depths.
+
+The other man looked from Rhys to Ev and backed away. He turned to run.
+
+“Nope.” Ev grabbed him by the back of the collar and the belt, and pulled, yanking him onto her shoulder. Turning, she tossed him into the pit with the other man.
+
+“Damn. I guess you had it handled,” Rhys said. He rubbed the back of his neck, feeling a little stupid. Here he was, rushing over to
+
+“Eh. Could’ve gone bad if they’d both attacked at the same time. I appreciate the distraction,” Ev replied. She dusted off her hands, then nodded at Rhys. “You feel stronger. Learn something?”
+
+“Yeah, actually. A new technique. I—”
+
+His world pivoted. Two strong, calloused hands gripped his collar and belt, and before he knew what was happening, he found himself flying over the edge of the cliff.
+
+“Neat. Show me,” Ev said, watching him from the cliff above.
+
+Oh, gods damn it, Rhys thought. He wasn’t really surprised, just annoyed at himself for not seeing this coming. He pivoted in midair, shifting his weight to adjust his trajectory. He didn’t have perfect control, but he had enough to slam into the back of one of the men as the man was trying to rise.
+
+With a muted grunt, the man hit the ground again. Rhys rolled to the side and jumped to his feet. The second man lunged. A wall of muscle closed in on him. For a moment, he was back in the square, ‘fighting’ Cynog again. In the next, he snapped out of it, but it was too late. The blow was already en route.
+
+Rhys didn’t have time to dodge. All he could do was throw his hand out and call forth his mana. A silvery rat materialized. It lunged to meet the man. The man’s blow landed on Rhys’s chest. Rhys fell backward, bones creaking. Blood welled up, and he coughed up red. Even as Rhys took the hit, the rat darted out and slammed its teeth down on the man’s ankle.
+
+“Ow!” the man exclaimed, hopping backward. The rat clung on, persistently digging its jaws in deeper. The man shook his leg, then stomped down on the mana construct and forcibly yanked his other foot out of its grasp. The rat de-materialized, but that was all the time Rhys had needed. He climbed back to his feet, his stance a little shaky. Trash Body held him together, and Trash Intent gave him the power to fight, but he couldn’t activate his new technique. Not yet. It wasn’t just damage. There was something else. Another condition he hadn’t triggered yet.
+
+The second man climbed to his feet. Both men closed in on Rhys. Rhys backed away, only for the second man to blur. In an instant, he closed in on Rhys, blocking off his escape.
+
+Cornered.
+
+Rhys’ eyes blazed. Mana surged through his body, more than he’d ever felt before. His hands curled into claws of their own volition. He jumped toward the first man and clawed at his face. Red lines bit deep into the man’s face, as though Rhys had claws. The man jerked back at the last second, or else Rhys would have taken his eye.
+
+This was his new technique, Even A Cornered Rat will Fight Back. As long as he was injured and backed into a corner, he could unleash a powerful claw attack on his opponent. His ability to fight recklessly was further empowered, as the skill synergized with Trash Body and Trash Intent to pour power into his failing body.
+
+“You fuck—” the first man growled. He lifted his arms to block, only for Rhys to slice them open with his clawed hands. “Stop!”
+
+Rhys didn’t relent. He hammered blows on the man, forcing him to back up. The other man landed blows on him, but with Trash Body, he was able to shrug them off and keep fighting. Caught between the two men, he was able to land claw attack after claw attack on the first man. The first man was a block of muscle, not unlike Cynog, but unlike Cynog, he didn’t have the Tier and raw power to fight back, instead relying on his bulk and muscle to hammer big blows and absorb the same. Pushed on the back foot by Rhys’ endless attacks, it was all he could do to keep his arms up and hold a block.
+
+Rhys fought on. If not for the impurities he’d just absorbed, he could already tell he wouldn’t be able to launch these claw attacks so thoughtlessly. Each one took an immense amount of mana. If he didn’t have the mana from his impurities, he probably would have only been able to launch two or three of them. But as it was, his whole body still buzzed with mana, and his core was overfull. He drew the mana from his body and from his core, pouring it all into his attack. A few seconds in, he could tell he was starting to run out, but he didn’t let it show on his face. Instead, he hopped back, putting his back to the wall. The two men faced him, but the one he’d clawed did so warily, and the other one limped a bit, injured from where Rhys had landed on him.
+
+Looking from one to the other, Rhys scoffed. Hands curled into claws, he pushed mana into them, threatening another claw strike. “Is that all you have? Come! Fight with all you’ve got, or I’ll take your eyes next!”
+
+The man Rhys had landed on glanced at his slashed companion. “Come on. We didn’t come here to fight this loser. Let’s get out of here.”
+
+Blood dripped down the slashed man. It dribbled down his face and soaked into his robes. He glared at Rhys for a few more seconds, then spat and turned. “Whatever. If Ev wants to train this fuck, that’s her problem.”
+
+They turned and stomped off, shoving their way through the gap in the rocks. Rhys watched them go, his claws bared. Only when they vanished did he lower his hands and call the mana back to his core. Exhaustion washed across his face. In that state, where he forcibly overcame the limits of his body, it was far easier to overdraw his mana than he’d realized. He’d been running on dregs. If he’d launched that claw attack, he wasn’t sure he’d have survived it, that was how low he was on mana. He leaned against the rock wall behind him and wiped his face, taking a moment to collect himself.
+
+Bluff 3
+
+Rhys startled, a bit surprised by the system pop. Bluff? And it was already level three? He’d only just picked up the skill, and it leveled that fast. For the skill to level that fast… His brows knitted. Did that mean bluffing was trashy?
+
+No, wait! Of course it is. It’s part of trash-talking! Rhys stared at his hands, a bolt of enlightenment hitting him from the blue. Trash wasn’t this limited. He’d been treating it only as the physical substance of trash, but that was foolish. Trash had many dimensions—almost infinite dimensions! Limiting himself to the physical substance of trash and its denizens was a mistake. He needed to broaden his mind, open his horizons, and accept the vast expanses of what others considered ‘trash’ as part of his path.
+
+A heavy thump right beside him had him whip around, but it was only Ev. Rhys drew out a potion and took a sip, letting the healing goodness work on his wounds. He put it away and drew out a mana potion, sipping that as well, and put it back in his robes, then nodded at her. “You didn’t have to throw me down there.”
+
+“Nah, but it was funny,” she said, grinning.
+
+Rhys shook his head. “What if I didn’t land on that guy? I could’ve gotten hurt!”
+
+“And activated your ability faster? That’s no punishment. Besides, I’m not crazy. I wouldn’t put you at a disadvantage to start the fight, even if it makes you stronger. I threw you at that guy.”
+
+The phrase I’m not crazy followed by threw you at that guy rattled around in Rhys’ brain. He gave her a deadpan stare and shook his head. “Uh huh.”
+
+“That’s an interesting technique, though. Where’d you learn it?” Ev asked.
+
+Rhys pointed back at the main square. “You know that mustelid class?”
+
+“What, crazy ol’ Bernie taught you that? How?” Ev demanded, startled.
+
+“He didn’t teach it to me, per se. I kind of… got enlightened by his class, and figured it out all at once.”
+
+“Oh.” Disappointed, Ev shook her head.
+
+Rhys glanced at her. “I thought I’d be coming in to save the day, but you had that handled, didn’t you?”
+
+“Yeah. Well, they’re kinda annoying assholes, so I didn’t mind tossing them to you,” she said casually.
+
+Rhys shook his head. He met her eyes. “It isn’t that, is it? The way you threw them, and me, too. You’re hiding your strength.”
+
+He’d thought he was able to spar with Ev, that he was almost at her strength, but he’d only been able to barely fend them off by fighting with all his might and bluffing desperately. Ev, on the other hand, had easily tossed them, like so much garbage. If he and Ev were truly the same strength, he would have been laughing as he crushed those two men, not lying so they’d run off and leave him alone.
+
+He’d always understood that there was a gap in strength between him and Ev, but not to that extent. He’d thought he’d been growing close to her power. But that was all a lie, wasn’t it? Just Ev pretending.
+
+Ev chuckled. She raised her wrists, showing him a pair of dark bands. The same black cloth wrapped around her ankles. Now that she’d drawn attention to it, Rhys sensed mana flowing through the cloth—a suppressive spell that weighed her down as she moved and restricted her mana flow. “Yep. Got it in one.”
+
+Rhys frowned. “Why?”
+
+“Why?” Ev gazed up at the sky. Her gaze seemed to pierce past it, landing on something far, far from here. At last, she sighed and met Rhys’ eyes again. “The hearts of others are not always pure.”
+
+“No…?” Rhys asked, a bit lost. Ev was smarter than she looked, but she rarely spoke like it. In fact, he’d never heard her say this kind of thing before.
+
+“If someone with immense talent were to appear in a small school, do you think a small, desperate school would let go of them and let them grow and flourish? Or do you think that small, desperate school would cling onto them with all their might, in hopes that the school might grow in power commensurate with their talented student?”
+
+Rhys opened his mouth in an O. He nodded, slowly. “I understand.”
+
+To put it simply, Ev knew the state the school was in. She knew it was small, and had little renown. She would struggle to grow, stuck here in this school, but the school could easily grow by clinging to Ev and dragging itself up after her rising star. She hid her strength to escape, so she could find a better school where she could grow, without the baggage of having to haul and entire school up after her. Especially a school like Infinite Constellation, which had done so little for her. Given how little it had done for Rhys, and given Cynog’s tendencies and the status of the martial students on the peak, he couldn’t imagine that Ev had gotten a good education here.
+
+“At the end of the day, this isn’t a martial school. I need to find a true martial school to continue to hone my fists,” Ev stated.
+
+Rhys nodded. “Of course.”
+
+“I’ve been putting out feelers. I have a good chance at getting into a high-quality school. One that’s both good at martial arts and magecraft. It’s just…” She shook her head.
+
+“What?” Rhys asked.
+
+“There’s a tournament that all the schools partake in. It doesn’t happen until early next year, four months from now. For me, everything rides on it. If I perform well in the tournament, I’ll be able to pick my school of choice. If I don’t…” She twisted her lips.
+
+“Stuck here, huh?” Rhys asked.
+
+She nodded. “Yep.” A second later, she waggled her hand. “I could probably still squeeze my way into a medium-sized martial school, so long as I made a good showing in the lower rounds. But my dream is to make it into one of the biggest schools. The most powerful ones on the continent. And for that, I need to win the tournament.”
+
+“Win the whole thing?” Rhys puffed out his cheeks and let out a slow breath. The image of Bast flashed through his head, studying under the Sword Saint, the most powerful martial artist in the continent. Sure, Bast would’ve only had a year or two to study, but he knew how quick a learner his friend was. And that was just who he knew about. Who knew how many powerful martial students attended the big martial schools in the area? Students who could properly train against equally powerful students, instead of beating their heads against the insensate wall that was Cynog?
+
+She laughed. “It’s fine. I’ll be happy starting at a medium-sized martial school. I’ll work my way up to the big ones. But it would be nice if I could get it in one, you know?”
+
+Rhys nodded. “Yeah.”
+
+It was just like in his world. The college you went to, the people you attended it with, could set the level of your success for the rest of your life. Sure, you could always struggle and overcome, but it would all be easier if you started from a powerful position. He understood that better than anyone, and so, he understood what Ev aspired to better than anyone. Rhys patted her back. “Whatever I can do to help, just let me know.”
+
+“You don’t want to take part in the tournament?” she asked.
+
+Rhys hesitated, then shrugged. “I don’t know. Maybe? I’ll see when we get closer.”
+
+For now, after all, he was happy in Infinite Constellation sect. The place was full of wonderful, wonderful trash. What else did he need? And yet, he knew that was only for now. Eventually, he would clean all the trash and absorb all the gunk in that toxic trash pit. After that, well, it was a small school. His objectives were bigger than that. He wanted to become the most powerful mage he could, and that meant finding a school big enough to help him gain his dreams. But would that happen in one year? That was what he wasn’t sure about.
+
+Ev knocked his shoulder. “You should. Even if you’re not aiming for another school, it would be a good experience for you.”
+
+“Yeah, yeah,” Rhys said. There was another angle here: he was trash. Could he prepare enough in a year to handle a tournament? Sure, with all his buffs, he could fight pretty well, but… compared to students who didn’t start as trash, how did he compare?
+
+I’ve been doing pretty well against my fellow students here, a little voice in the back of his head noted. But at the same time, this was a tiny school, full of the refuse that couldn’t make it into any other school. He couldn’t meaningfully track his progress against these students. Even if he outshone all of them, that didn’t make him not trash on an objective scale, rated against students from every sort of academy.
+
+Ev snorted, seeing his consternation. “Don’t make that constipated face. If it hurts that hard, don’t think about it yet. You’ve still got a year to figure things out.”
+
+Rhys nodded. “That… is reassuring.”
+
+“Plus, don’t worry about beating me. They organize students by Tier,” Ev said.
+
+“I would hope so,” Rhys replied, chuckling.
+
+She looked him over. “You healed up?”
+
+“Yeah,” Rhys replied.
+
+Ev grinned, raising her fists. “Come on, then. I want to try out those new techniques of yours for myself.”

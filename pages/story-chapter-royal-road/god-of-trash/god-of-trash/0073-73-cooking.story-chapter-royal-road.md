@@ -1,0 +1,125 @@
+---
+id: 377b4405-3eaa-510e-8207-18ab1dae435c
+page-type-slug: story-chapter-royal-road
+title: "73. Cooking"
+slug: 0073-73-cooking
+partOf: god-of-trash
+position: 73
+ownLength: 3150
+unit: words
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2274674/73-cooking"
+royalRoadId: "2274674"
+---
+
+They shucked their disguises in the forest, storing them in their rings. The stream near the trash heap served as a good enough place to wash their faces, and the usual two gremlins returned to the site of Rhys’s burgeoning potato farm.
+
+On the way, once Bast had assured him no one was listening or following, and his own senses detected no trash or impurities in unexpected places, Rhys explained his plan to find Straw. Bast nodded along, immediately on board. “Whatever you find out, let me know. I agree, we’re too weak to free him yet, but we’ll need his cell well-scouted for the day we are.”
+
+He also confirmed that Bast’s master was aware of the conqueror and her likely ill intentions. When he brought it up, Bast merely waved his hand. “All the powerful mages in the region are aware of it, and preparing for it. If it comes to a fight, the Alliance will likely fold. Her might is simply too great. We’re hoping to scare her off with a show of force at the tournament, along with some kind of tribute or another…”
+
+“That kind of thing rarely works,” Rhys muttered.
+
+“True, but we’re weaker than her. It’s all we have to rely on.”
+
+Rhys nodded, conceding that point. He pressed his lips together. It wasn’t looking good for the Alliance. “If she attacks, we should run. You and me together.”
+
+A reluctant expression crossed Bast’s face. “That’s what Master says.”
+
+“Oh?” He hadn’t expected a man known as the Sword Saint to be so reasonable.
+
+“Yes. He fears, more than anything, our next-generation talent falling into her hands and getting either perverted to her viewpoint, or neutered before it can take off. There are already plans for the rapid evacuation of the top talents in our region to a place more easily held than Purple Dawn Academy, right on the edge of our border with the Empire.”
+
+“That’s a good plan,” Rhys agreed. Better that they train for a while and be able to fight back meaningfully, than lose their top talent on the front lines, lost to the first wave of the Empress’s attack. It boggled the mind to think of a point as fortified as Purple Dawn Academy as somewhere hard to hold, but then, when he thought about it, it made absolute sense. If they were really on the edge of the border with the next region, then Empress or not, they’d need a well-defended place from which to hold their ground.
+
+There was no point building a fortress deep within the heart of one’s lands, where no enemy would ever reach it. Fortresses were built on the borders, where one needed to reinforce a point to have any hope of holding it. Against a force as powerful as the Empress’s, there might be little hope of holding Purple Dawn Academy long-term, but if a smaller raiding force, or a single school, attempted to enter Alliance lands, then a fortified position like Purple Dawn would give the defenders a hand up to protecting the lands.
+
+“But… what’s the point? What’s the point of all this if we don’t fight?” Bast asked, a bit lost. “I’ve tried asking Master, but he just gives me a look like it’s obvious and refuses to answer.”
+
+It was obvious, but it was the kind of obvious that came from living long enough to see another generation of children come in beneath him. Rhys sighed. He nodded at Bast. “What Tier are you?”
+
+“Tier 2.”
+
+“And is that the limit of your potential? Will you only ever reach Tier 2?”
+
+Bast pulled himself to his full height and looked down on Rhys. “Don’t be ridiculous. Do you really think I have such little potential?”
+
+Of course he didn’t—he had infinite belief in Bast’s potential—but that wasn’t the point. He gestured at Bast. “And if you fight here, tomorrow, against the overwhelming power of the Empress’s forces and get cut down as a Tier 2, will you achieve that potential?”
+
+Bast opened his mouth, then closed it. He shook his head, reluctantly. “But how will I grow stronger?”
+
+“When you fall back, you don’t have to give in. Fight. Fight in skirmishes and raids. Fight small battles, battles you can win, battles you might lose, but not battles that you cannot possibly survive. Your Master isn’t telling you to flee, tuck tail and run like a coward. He’s merely trying to keep you alive to fight a great many more battles, rather than dying to the same massive, overpowered attack that kills hundreds of men pointlessly in the Empress’s first barrage.”
+
+Bast nodded slowly, still unwilling, but now a little more understanding. Abruptly, he said, “I hope it doesn’t come to that.”
+
+Rhys laughed. “We all hope so. Wouldn’t it be great if the conqueror really was just trying to befriend her neighbors?”
+
+“Sounds a bit ridiculous, when you say it like that,” Bast agreed, chuckling.
+
+“But who knows? Politics are a strange and fickle beast. I’ll leave them to those far better qualified. All I know, is that no matter what, money talks. The more of it we have, the better off we’ll be, and that’s true regardless of if we get invaded or not.”
+
+“True, true. Tell me more, teacher,” Bast said, mock-respectfully.
+
+“First off, let’s get these potatoes grown. Once I pour enough mana into them to get them going, I’ll leave it to you to cook them—I trust you saw my technique?”
+
+“Yes, and what a mysterious and esoteric thing it was,” Bast said, still playing along.
+
+“Excellent. You’re my finest student. Cook the potatoes up into delicious, addictive, mana-imbued chips. I’ll work on crafting a bag to store them in.”
+
+But first, growing the potatoes through his favorite method: pouring lots of lots of mana into them, so they grew far more rapidly than they should have.
+
+Bast shied away from his strange little operation at first, taken aback by the industrious potato-planting rats and their stern raccoon foreman, but before long, he saw how serious the critters were about their efforts, and accepted their presence. While the two of them were fucking around—ahem, working hard at their all-important disguises so they could sell potato chips despite being competitors in the tournament—the rats were busy. They’d used their prodigious digging capabilities to dig four additional rows in the ground, and each one had a ready-to-grow set of evenly spaced potato sprouts sitting in lush, well-composted earth. The raccoon watched them with a wary eye, and smacked any rats who ate too much of the potatoes, or tried to sneak off with the potatoes without carving out the eyes. Most of the rats were obedient, and the disobedient rats were chased off by the obedient ones, who prized Rhys’s ability to clear their impurities. Some of them scurried over and asked him to take their impurities, and Rhys gladly complied. It wasn’t a lot of impurities, but the fact that they were an ever-refreshing well of the second-tier impurities was highly useful to him.
+
+After he checked in on the rats, Rhys immediately got to work shifting some trash closer to the farm and sorting out the organic material—what little remained in this portion of the trash after his accidental super-charged compost experiment earlier—and the metals and papers, which he’d use to make foil-coated paper bags. Ideally, he’d simply used plastic, but this world hadn’t invented plastic yet. Given how much of a bane plastic was upon the average modern human, he didn’t exactly want to try his hand at inventing it; not to mention, it would simply be a raw material then, and not trash at all, which would make it contrary to his path, and consequently harder to deal with. Foil-coated paper would get the job done well enough, so that was what he’d use.
+
+Unfortunately, he had no way to generate nitrogen to fill the bags with non-oxygenized air, so even the foil packets would allow some spoilage. As long as they sold the chips relatively quickly, it wouldn’t be a problem, and with large numbers of students coming in tomorrow, today was a good day to start cooking, under the parameters where he could only precook a short time ahead of sales.
+
+With the trash sorted, he was free to start absorbing it, generate trash stars, and feed the mana into the potatoes. Even though he pushed most of the mana outward, into the potatoes, he still collected the tiny droplets of mana in his core, and he felt, instinctively, that that was the most important byproduct of the entire process. He made a mental note to swing by the library later and see if there weren’t books on the requirements for the next tier later, but for now, he simply gathered the new, dense mana.
+
+Potatoes grew under the earth, thick, heavy clusters of the delicious tubers, and as they grew, Rhys realized that the rats had not only dug holes for the sprouts, but also loosened and aerated the earth around the plants so the potatoes could freely swell to their full size. He nodded at the rats, an appreciative glint in his eye. The rats nodded back, pleased with their good work being recognized.
+
+“Bast, the first set of potatoes are ready to go,” Rhys announced.
+
+“The first set…”
+
+Rhys pointed. “Start from that corner, up the row, then down to the bottom of the next row, and repeat.”
+
+Bast saluted. Kneeling, he got to work digging the potatoes out of the earth.
+
+Rhys felt a faint pang of guilt at making the Sword Saint’s apprentice farm potatoes, but quickly suppressed it. It would be good practice, or something. Besides, it was going to get him and Bast both rich, so it wasn’t like it was for no reason.
+
+Bast could handle the cooking. Rhys turned his attention to the next phase of his project: the bags. Facing the metal and the paper both, he pinched his chin, thinking. He needed foil. Strictly speaking, he didn’t need to melt the metal down to create foil, just hammer it really thin. With gold, or softer metals, he didn’t even need to heat it to hammer it down. He wasn’t going to use super soft metals, given that lead was one of those metals, and he suspected that mages might sense a little too much impurities entering their systems if he used lead to line his bags, but it was an option. He also wasn’t going to use gold to line the bags, but that went without saying. He wanted to make gold, not give it away.
+
+Ideally, he’d make aluminum foil… but aluminum hadn’t been discovered yet, and he didn’t remember exactly how science extracted aluminum from the earth. Electrolysis? Something funky. The point was, he had no aluminum trash at hand, so it was iron, steel, bronze, copper, or nothing.
+
+Bronze, and particularly copper, was relatively soft, at least compared to iron. He separated out the bronzes and coppers and set them aside. Tin, as well, joined the relatively safe and cheap soft metals pile. There were problems associated with using any sort of soft metal, but as long as they weren’t as evident and severe as the problems associated with lead, he wasn’t going to worry about it. Not far from the metal trash, he found a mostly-intact anvil, and he had a hammer in his storage ring. Taking the metal, he lad it on top of the hammer and pounded it with the hammer.
+
+The metal directly shattered.
+
+Hmm. It was trash. He didn’t know what he’d been expecting, but somehow, he hadn’t expected this. He brushed the shards off the anvil and picked up a new piece of metal, but this time, he drew all the oxidation and other impurities off its surface first. This one beat out pretty well, but it grew fragile at the edges and shattered once more. He paused, pressing his lips together. He’d always known he’d have to heat it, but he’d really hoped he could get away without building a new furnace.
+
+Oh, well. There were no such things as shortcuts for anything worth doing, or something. He’d never really got the point of that saying, but he did understand that he wouldn’t be beating out the metal without heating it. Honestly, it was his bad for thinking he might get away with it.
+
+He’d already built a furnace once, so he had a relatively easy time replicating his work. The wall Bast had chopped up still had plenty of pieces lying around, so it could still serve as his bricks, and it was a short trip down to the riverbank to scoop up some raw clay. Using what he’d done the first time as the framework, he quickly slopped together a second furnace. His practice earlier made it easier, especially when it came to enforcing his intent upon the furnace. It helped that he didn’t have to enforce intent upon the materials, too, or heat the furnace up to such extreme heats. He wasn’t smelting the metal, after all, just softening it enough that he could beat it thin without shattering it. Nor was it a particularly hard or durable metal, but instead, softer, easier to melt metals. Things that didn’t need too much heat.
+
+With the help of the furnace, the metals were much easier to beat into foil. Rhys beat the first sheet down in no time. If he’d been a mortal, it might have been hard work, but as a mage, the harder part was moderating his strength so he didn’t just beat straight through the metal. He grabbed the paper trash and paused. He had paper and foil, but nothing to bond the two.
+
+Rhys turned, staring up at the pile. Plenty of bones in there. Bones he could cook into glue. Come to think of it, he’d need glue to adhere the bags shut, too, so he’d really just stumbled upon an inevitable problem a little sooner than he’d expected to.
+
+“Bast, are you using both cauldrons over there?” he called.
+
+Bast stood before one of the cauldrons, his sword drawn, intense concentration on his face. He thrust his sword once, twice, a thousand times in a span of a second. The potato chips, barely pierced by the very tip of his sword, the hole so small as to be invisible to the naked eye, flew free from the force of his stabs and landed perfectly on the fluffy cloth. He stabbed one final time, then stood and looked at Rhys. “Huh?”
+
+“Neeeeever mind. You’re busy. I’ll, uh, figure something out.” Rhys set the foil aside and headed into the trash. He had to find bones anyways, so he might as well go find a not-too-broken cauldron while he was at it. There were plenty of cauldrons in the trash; as long as he wasn’t looking for a particularly strong one, or one with any special conditions, it wouldn’t take him too long to find one.
+
+He'd gone through the organic trash earlier to make compost, but his efforts had been focused on easily-degradable stuff; half-rotten foods and the ends and bobs of roots and herbs that potion classes didn’t need. Sure, there were some greasy chicken bones mixed in, but those were cooked and broken, relatively easy to decompose. What he was looking for now, were the places mages threw dead horses and dogs, magical beasts they’d hunted and were done with, that kind of thing. He wasn’t going to touch any pet cemetery, but if they’d thrown the animal’s body in the trash, then it was fair game for him. If they didn’t want its bones, he’d take them.
+
+There weren’t as many bones in the trash as he might have expected. The few magical beast remains he found were well picked over, and for the most part, it seemed mages buried their pets and rarely used horses. Even so, there were bones here and there—fish bones, snake bones, discarded goat carcasses and the half-mummified remains of things he couldn’t even recognize. He pulled the ex-flesh off the bones and tossed the bones in a slightly misshapen cauldron that had seen better days. It had been laden with filth, the blackened remains of failed potions sitting in its depths, its sides bulging outward from a near-miss explosion or two, but once he’d absorbed the impurities, it was good enough to cook glue in. Glue didn’t tend to be explosive. As long as the cauldron held up to a reasonable amount of heat, it would be fine, and for all that it was misshapen and blackened, it didn’t look to be any less able to hold a few hundred degrees than before.
+
+The whole time he searched, he kept his intent active on the furnace back at the cooking spot. It was good training; one, because it forced him to hold an intent active for a long span of time, and two, because it forced him to hold an active intent at a distance. He’d thought it would be hard to hold an intent active without touching the object, but when the time came, he’d lifted his hand off the furnace and walked half a dozen meters without realizing it before the mental strain kicked in, and he was forced to face what he’d done. I guess that’s Tier 2 for you, he thought, looking at his hand. Or maybe that was the difference that came from pushing the skill over the level ten threshold? He’d felt the skill change and grow stronger at level ten, unlike his non-path skills, which didn’t appear to pay any attention to level thresholds, except to continue to slow down the pace at which they leveled. He stared at his hand for another few seconds, then shrugged. He could figure it out later.
+
+Now, he returned to a flickering furnace with a cauldron full of bones. He set it down near the furnace, jogged to the nearby stream to get some fresh water, and dumped the impurity-extracted water into the pile of bones. A bit of combustible trash under the cauldron, and the bones started simmering.
+
+Rhys pursed his lips, looking at the bones. It would work—he could eventually cook glue this way—but it would take so long. There were big ships full of students coming tomorrow, who would certainly be eager for a new location and a new experience, and ready to try new things. Plus, they were his enemies (not that they knew it), and if the potato chips got them addicted on junk food and full of potato-chippy impurities, that was their problem, not his. He needed this glue cooked down today. Ideally, right now, so he could start building his bags and bagging the chips Bast was cooking.
+
+I wonder…

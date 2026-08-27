@@ -1,0 +1,89 @@
+---
+id: 140a9c7c-5a52-5a6e-bfe5-c498525a8eb5
+page-type-slug: story-chapter-royal-road
+title: "Threads 429-Snowblossom 1"
+slug: 0473-threads-429-snowblossom-1
+partOf: forge-of-destiny
+position: 473
+ownLength: 1667
+unit: words
+publishedAt: 2025-02-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2065816/threads-429-snowblossom-1"
+royalRoadId: "2065816"
+---
+
+Cai Renxiang laid out the positions. "There are arguments for both foci. If relations between the Celestial Empire and the White Sky develop as we hope, the river route may become very important, but currently, all goods are flowing in and against the stream rather than out, so trade benefits are not urgent. Particularly upriver."
+
+Gan Guangli rubbed his chin. "Yes. Even in the best case, we are some years from making use of it."
+
+"There is also the effect on Snowblossom lake's personality, especially if she takes those wild rivers into her being," Ling Qi analyzed.
+
+Meng Duyi grunted in approval. Had he left that out to test her?
+
+"Mmm. Gui thinks it would be okay if Miss Snowblossom was more energetic. Sister or Gui could calm her down."
+
+"Her serene elegance is fine as it is! So says I, Zhen."
+
+They stared each other down in her arms. An actual spark landed on Qiyi, earning them each the sharp slap of a sprouting ribbon.
+
+Zhen glared at her dress. "Rude!"
+
+"Silk Sister is feisty enough for everyone," Gui grumbled.
+
+Bad. No yell. Be good brother.
+
+"It might not be a huge effect, but I prefer the curiosity and friendliness at the center of the town to a colder and more distant regard, let alone any wildness that may emerge from the river's inclusion." Ling Qi opined. "And even with our fast rate of expansion, Shenglu will be the center of activity for our fief for a long time. Even when it begins to find its own feet, it will be sending resources to the newer and smaller outlying settlements we build."
+
+"A fair point," Gan Guangli said. "It would be more work later perhaps, but said work will have a better foundation behind it."
+
+"Agreed," Cai Renxiang decided. "What are our next steps then?"
+
+Meng Duyi passed his hands over the table. Some papers fluttered away, folding or rolling up on their own, while others were tugged free of piles or laid out without any hand’s touch. Clearing his throat, he began, “If we are to follow the tutelary route, then I would begin thus…”
+
+***​
+
+The lights on the shore of Shenglu glittered in the dusktime mist like a swarm of fireflies, and their reflection danced on the serene surface of the lake. The mist billowed out from the waterfall and the city center alike, shrouding the shore and extending its fingers out over the lake. The sun rested on the horizon, dull and red, and the moon hung in the sky, full and heavy. Its silvery surface was twinned out in the lake’s center.
+
+The waters whispered as the barge Ling Qi stood on slid out from the docks, cutting through the clean blue waters with only a slight ripple. The boat was, naturally, qi-powered, pushed forward from the strength of her spirit alone.
+
+In the end, they had decided to blend the plans. The temple would be a series of docks leading into a shrine surrounding an artificial inlet, but for great ceremonies, there would be a shrine ship, a humble, flat-bottomed barge for now, but something more splendid later.
+
+It was fine. She could add decor and elegance on her own until their crafters had time to catch up. Ice bloomed along the sides of the barge in patterns like rippling water and darting fish.
+
+Behind her, under a pavilion covering, was a pair of altars. One was carved from qi-rich wood, and the other was cut from stone. The wooden altar would remain on the boat, and the other would be sunk to the lake bottom, a mirror on the surface and on the lake bed for great ceremonies such as this.
+
+Today, there were only two others with her, young graduates of the Gold Autumn School, which specialized in spiritual affairs. They were only first realms, but they had endured the longest in the cloying pressure of her mist, and so, they were to be the first dedicated priests of Lake Snowblossom. They would be responsible for the day-to-day duties and upkeep of the shrine, and they were coming to experience the god they would mediate for in person.
+
+She would have to keep them safe. Snowblossom wouldn't mean to hurt them, but like a child with a porcelain doll, she very easily could.
+
+Both were dressed in robes that took on hues of blue, layered and embroidered to resemble gentle ripples and flowing currents. Each bore a treated wooden torch in one hand, held on the side facing the outer edge of the boat. The reagents applied to the burning ends made the torches burn a pale and ghostly blue. Both were young men, which was to say, they were only three or five years her senior. They were putting on brave faces.
+
+Distance began to stretch, and the sight of the swarm of flickering firefly lights began to distort and dance behind them, the shore seeming to grow further away far faster than their boat was moving. The air rippled, and Ling Qi tasted lakewater on her tongue. Her qi flared, and she wrapped their boat in her own spirit as easily as breathing. She did so carefully, a net to filter, not a blade to strike or a shield to defy the powerful spirit.
+
+When the world rippled and they sailed on now through through a copse of water weed whose strands stretched far out of sight above and below, her companions did not drown, though the two of them shivered, no doubt tasting cold moisture in the dense and cloying air that was left inside the thin veil she had made. Their boat sailed on, a tiny marble of pale mist in the depths of the lake. The torches burned brightly, reflecting off the scales of vast schools of fish that drifted cloudlike through their surroundings.
+
+"O great lake, daughter of the distant glacier for whom ice itself blooms, who has accepted the name Snowblossom, as spoken in mortal tongues, and who has generously slaked our thirst and fed our bellies," Ling Qi intoned, pulsing her qi to draw attention, limning herself in silvery radiance. She gazed up into the dark and serene waters around them, and felt something stirring. "We, the people of your shore, come to you now to speak and to know."
+
+Eyes opened in the vastness of the waters that surrounded them. Humanlike ones were shot through with frozen blue light and formed from cloudy silt churned from the lakebottom. Fishlike black ones yawned like voids into the abyss. Then there were the slitted reptilian pupils and fractal crystals of light…
+
+Even this was only her own mind’s conception of Snowblossom's attention. Her own growth in clarity rendered the presence more alien than less, as she was able to see more of the inhuman vastness of the being before her, and it was her effort which wove the terrifying, all-surrounding attention and translated it into something more understandable for her companions.
+
+In the end, the rawest form of truth was not always the best. To her first realm companions, there was but a single pair of great eyes in the darkness, formed from pale blue waters and shot through with fading sunlight. The eyes were human in shape with schools of glittering fish for irises and glowing flames reflecting their torches for pupils. The lines of a feminine face around the eyes was reflected in the currents around them.
+
+Just as she translated the lake’s attention for her companions, so, too, did her spirit whisper back to Snowblossom of the vision and of what humans found fair or foul and awesome or terrifying.
+
+Countless eyes shifted and flowed and merged and split around her, and the two she translated for her companions sparkled with the curiosity that fell on Ling Qi as a prickling, probing weight.
+
+Why come, little swimmers? Fish are plenty, waters cool, and mortal whispers ‘pon the shore. Winter comes. Do not little hands need dig burrows, seal larders, prepare to sleep, or fly, fly away to warmer winds?
+
+Ling Qi felt her temples throb, a vein pulsing under her skin as she worked to translate the crush of information down into something so clear. She saw images of men on flying horses flying away, of people digging little holes and building up huts of turf and grass before wandering away to follow herds in later days, of shining fish and rippling waters, and countless years swimming by at speeds that made her mind ache.
+
+"We come to give our thanks for your benevolence and to deepen our relationship. We offer you gifts and sovereignty, intertwined with that of the young prince of the High Garden. Most of us will not come or go. Your shore will be our home through all the passing years."
+
+She was still uncomfortable with the idea of a spiritual union, but Zhengui wasn't opposed to the idea.
+
+The rates of rainfall and condensation and observed fertility of the soil for the past six thousand years was crammed into her too small mind. It was less than the last deluge of information, but most still had to be flushed away before she could properly comprehend the response, lest she be erased by it.
+
+She snapped her fingers, and the two men behind her stepped forward. Heavy chains clanked as the iron chest held between them was lowered to the lake’s floor and opened. In it were small treasures, the works of the people upon the shore, meticulously gathered from each household, atop a bed of richer reagents brought in by Cai Renxiang herself. Potent qi-charged clay and vials of rich waters from the most fertile regions of the empire served as representations of every component of the lake’s qi.
+
+"These are for your great generosity so far. We would keep our relationship with you in perpetuity. We wish to have your blessings as the great lady and goddess of Shenglu and its surroundings."

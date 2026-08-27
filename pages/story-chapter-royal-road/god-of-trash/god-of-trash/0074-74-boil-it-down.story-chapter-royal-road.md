@@ -1,0 +1,131 @@
+---
+id: 4cf117ac-1b0d-580f-866c-d38edd1355a9
+page-type-slug: story-chapter-royal-road
+title: "74. Boil it Down"
+slug: 0074-74-boil-it-down
+partOf: god-of-trash
+position: 74
+ownLength: 3429
+unit: words
+publishedAt: 2025-05-13
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2277205/74-boil-it-down"
+royalRoadId: "2277205"
+---
+
+Rhys knelt by the glue cauldron. He injected mana into the water and bones, even tried to push the intent to become glue onto the bones, but nothing took. His intent slid right off the bones. They had once been alive, and they were full of such complex intents and emotions that there was no room for his desires, let alone a desire that pushed them toward total deterioration. It was a truth that gave Rhys other ideas, but for now, he put those ideas in the back of his mind. He was already flirting with curses and curse power. He didn’t need to add necromancy—ahem, trashromancy—to the pile before the all-important tournament where he had to fairly beat Ernesto’s champion.
+
+Intent didn’t work. Just adding mana didn’t do much except push the water to boil hotter, which was helpful, but the cost-value-time ratio simply wasn’t there. He needed something else. Something that pushed these bones to transform and melt, rather than just sit here and slowly bubble. Something more intense than either intent or mana.
+
+He skimmed through his trash-related skills. This wasn’t the time for Trash Body. Trash Intent had already failed. Trash Step, likewise, not the time. Trash Manipulation, Enchanting, and Talk all had no place here. The only thing he could think of as working at all was Trash Aura.
+
+Trash Aura was the part of Trash Intent he could project outward. Trash Intent helped him draw out the form of the trash’s intent, or enforce his intent on trash, and Trash Aura was the next step. The skill that allowed him to take that intent and project it outward. It was equivalent to shooting sword light off a sword; essentially, firing a blast of mana and power from the weapon in the form of an immaterial aura that took the form of the thing he was firing it from. Therefore, it was the next step of Trash Intent. Trash Intent let him wrap trash with energy, and even let it resume a new form, and Trash Aura then projected that outward.
+
+Given that he couldn’t use Trash Intent on the bones, Trash Aura seemed to not fit, but on the other hand, wasn’t it ideal in this situation? If he didn’t try to use Trash Intent to enforce his will on the trash, but simply let it assume any form, then fired off that intent into the pot…
+
+Rhys hovered his hand over the bones. The two skills activated in quick succession, Trash Intent, then Trash Aura. The bones all took the forms they wanted to in thin energy projections, whether they longed to be whole limbs, whole bones, or even a whole skeleton, all of them crammed into the tiny pot, then shot that energy into the pot, depleting their own intent to fire the aura. The auras slammed into the bones, and the bones broke. It was like using a hundred mortars and pestles all at once to hammer the bones into pieces, but he let the bones do all the work for him. Again, and again. As the bones broke into smaller pieces, the combination grew more effective, and the bones broke down smaller and smaller, until Rhys couldn’t grip them with intent anymore.
+
+It no longer mattered, at that point. The mana-enhanced boiling water quickly softened the bone shards, and he used the mana, and Trash Manipulation, to crush the shards even smaller and churn the gruel into paste. When the granules got too small for that to work, Rhys stirred the glue with a scrap of wood, using Trash Intent to extend the stick into the sticky mixture so it couldn’t cling to it.
+
+He grabbed the paper, took a bit of the glue, and laminated the foil onto the paper. It was the pages of an old book, with bits of some kind of scripture on it, not that Rhys cared. Taking another page, he repeated the actions, then added a bit of glue to the very edges and glued the two together. Rhys looked up, glancing over at Bast. “The chips ready yet?”
+
+“Got a few,” Bast replied, thumbing over his shoulder. A veritable mountain of chips piled atop the fluffy cloth.
+
+Now that’s mage-worthy efficiency. Gods, if I could bring the Industrial Revolution here… Then again, it wouldn’t do anything, would it? The Industrial Revolution was all about working together and using machines to accomplish what one man could not, but Bast had just done an industrial quantity of chip production in an hour or so, all on his own, as a martial artist and not even a mage. If he added machines, he would probably only slow Bast down, rather than speed him up. At best, he’d unlock a marginal speed-up, some real diminishing returns-level of breakthrough. If he didn’t have Bast, or any helper, it might have been worth it just from a laziness perspective, but as it was, he might as well use this whole scenario as training toward the next Tier, using techniques and skills, exercising his mana, and expanding his speed and dexterity, rather than waste his time building machines that would do nothing to raise his Tier.
+
+Rhys tried one. Tingle of mana, perfectly salted, delicious! He nodded. “Good work.” Holding his bag open, he used Trash Manipulation to put a quantity of chips inside, then sealed it shut with a bit more glue. He handed it to Bast. “Open it with a minimum of strength.”
+
+Bast nodded. He gripped the bag and tore it from the edge. The foil and paper ripped easily enough. “It was easy. Shouldn’t be a problem.”
+
+“Even if it is, I guess everyone carries swords,” Rhys commented, half to himself. Although he’d never been a carry-a-knife-everywhere kind of guy, he could see the utility of it now that he was a carry-a-sword-everywhere kind of guy. He glanced down at his empty hip. Even then, he preferred to keep the broken sword’s hilt in his robes, and he kept the strange sword he’d found at the bottom of the trash pit in his storage ring, unwilling to use it carelessly—though that was more about preserving it than hiding it for strategic advantage, since the thing was more rust than sword. He wasn’t a weapon-carrying person. It just wasn’t his style.
+
+Now, that potion full of impurities he kept close to hand at all times, that was just a training tool that he didn’t use anymore and just happened to carry around with him everywhere he went. Definitely not a glass-covered grenade full of filth and impurities. Yep. Totally reasonable behavior.
+
+He snorted at himself. Whether he wanted to admit it to himself or not, he’d become a weapon-carrying kind of guy. He couldn’t afford not to be, in this cutthroat world.
+
+“Rhys?” Bast asked, frowning at him.
+
+“Ah! Bags,” Rhys said. Right. He’d gotten lost in the sauce, when he needed to get lost in the bags. He saluted to Bast and rushed back to his raw materials, cranking out bag after bag.
+
+Bast stared after him. After a few moments, he shook his head, snorting quietly to himself. He took the finished bags and filled them with chips, sealing the tops shut afterward. Like that, the two of them worked through the night, filling bags, cooking new chips, growing new potatoes, and making new bags, until the sun began to rise. The second the light filtered over the horizon, Rhys pushed Bast into the forest, and the two of them changed into their alternate personas. Carrying a huge net full of bags so large that it extended out a few feet to his left, right, and over his head, Rhys led the way toward the arrival plaza, while Bast followed with a bag full of potatoes, the knives, some oil, some salt, and the repaired cauldron. The two of them quickly constructed a four-post stand with a colorful cloth top, a kind of simple tent-slash-awning, and a table out front, both of them constructed from bits and bobs in the trash. There were a few other stalls set up in the plaza, mostly offering snacks and souvenirs from Purple Dawn. The hoary old merchants eyed up the two of them, cute young (unsuspicious) girls with their enterprising, fresh new wares. They weren’t trendy yet, Rhys knew that. But they would be.
+
+He planted their flag out front. POTATO CHIPS was scrawled down it in the biggest text he could manage. He could only whip up black ink out of the trash on short notice, but he’d found a good length of red cloth, and once he’d removed the impurities from the tablecloth, folded it in half, and stitched a double-row hem for the pole to slide through, it made a passable flag.
+
+“No one even knows what a potato chip is,” Bast muttered, his final protest among many, which Rhys mostly put down to jitters from a first-time crossplayer who hadn’t yet experienced the adrenaline rush of fooling hundreds of passerby and getting envious looks from girls who usually wouldn’t give him the time of day—but at this latest one, he nodded emphatically.
+
+“Precisely. And that’s why we’re gonna cook up a big pile to show everyone exactly what they are.” Rhys hurried to the back and lit the cauldron, adding oil and potatoes. It was time to enchant everyone with the same trash tactics every fast food chain used: smell, advertising, and novelty. And if it worked, they were going to be very, very rich.
+
+--
+
+An enormous pair of ships floated into the dock. One was a quad-tier five-mast ship, hundreds of cannons bristling from its many portholes, its sails and hull enchanted with heavy defensive enchantments and a massive foregun pointed dead ahead along its center line, the gold-sun-in-a-crimson-field flag of the Empire fluttering atop its main mast. The whole ship was whitewashed, as austere and severe as it was pristine, its black cannons a sharp counterpoint to the pure white hull, masts, and sails. A single adornment of a gold sun with scintillating rays beaming from it glimmered on its rear cabin, a nod to the flag overhead.
+
+The other was an enormous pleasure ship nearly as large as the Empire’s warship, laden with draperies, fresh flowers, and delicate carvings. Phoenixes, dragons, and peacocks mingled on its gilded sides, while shining sails in handsome triangular shape cut a bright, almost too-bright figure against the rising sun, save for the parts of the sails painted with cranes, tigers, lions, and unicorns. The two ships clashed in every possible way, glaring one another down as if to convert one another to the other’s preferences. They pulled into the dock in lock step, neither one willing to let the other go first. Likewise, their students poured off at the same time, the Empire’s students all in white military uniforms, the pleasure ship’s students in gorgeous robes in the latest fashion, frilled at every hem and richly adorned with embroidery, with glittering jewelry shining from every wrist, ankle, and neck. They marched down the dock and into the plaza, where every merchant immediately began plying their trades.
+
+The Empire’s students marched straight ahead, following their captain, a boy with pure white hair to match his pure white uniform, tied back into a perfectly-straight white ponytail, perfectly-straight white bangs falling to either side of his face. The pleasure ship’s students, from the Uninhibited Wealth School, were led by a girl with curly brown hair that fell around her shoulders in waves, whose robes were so ostentatious and laden with jewelry that it hurt to look at her, like a rainbow-colored disco ball in a snowfield at midday. She glanced at the boy in white, and he glanced at her, and the two of them shared a mutual hmph as they turned away from one another.
+
+Anabel, the leader of the Uninhibited Wealth School’s students, went to walk away, all her trendy students behind her, but she hesitated. A delicious scent caught her nose, and a flash of gold caught her eye. Slowly, she turned. A somewhat backwoods girl in a dress that hadn’t been trendy for decades stood in a stall at the end of the plaza—but that wasn’t important. What was important was the pile of delicious, coin-like discs beside her, and how fantastic those brilliant things smelled.
+
+Beside her, the boy in white, Laurent, leader of the Empire’s trainees, blinked. His eyes were big, and his mouth watered. It had been a long time since he’d seen snack foods. The Empire prohibited such pathetic, unhelpful foods, that weren’t useful for raising one’s Tier or advancing one’s martial and magical power for martial and mage trainees alike. But this was a special occasion. Surely it was permittable? Besides, he was outside the Empire’s training facilities. He was meant to experience the world. And that girl… he’d never seen a girl so cute before. Girls in his world were austere, uniform-wearing, cold beings, not… warm and friendly like this girl. Her big friend was a little bit scary, but he could overlook that. He had the martial might. He could protect her. Even—
+
+Anabel strode in front of him, taking the first steps toward the stall. Laurent startled, jumping ahead. How dare she! He’d seen that girl… ahem, those chips, first. They belonged to him, and consequently, the Empire, not some tacky goddess in gorgeous robes who was his enemy no matter how feminine and attractive she was!
+
+Laurent had been raised by the Empire in an excessively strict environment, where intersexual relationships were stringently watched over, with adults always present to ensure that nothing untoward happened. In fact, intersexual relationships were banned and dissuaded, with students encouraged to focus all their energy on martial and magical prowess instead. Plenty of trainees found ways to still interact with the opposite sex, but Laurent was the student captain. He obeyed the rules the most stringently of all. Relationships were but a distraction, an earthly temptation to steal his energy from his pursuits of further power. He needed nothing but his strength, his sword, and his magic, and desired nothing but them.
+
+All this to say that despite his handsome face, Laurent had interacted with women even less than Rhys had in his original life, and now that he was face to face with women who weren’t held to the same strict code as he was, who were allowed to express their attractiveness and femininity, he was facing a breakdown of the boundaries he’d lived by his whole life. It had been easy to ignore the women who were little more than faces floating over the same uniform he wore. It was hard to ignore women with… legs, and arms, and that cute way her cheek dimples when she smiles…
+
+His shoulder clashed with Anabel’s. The two fought, struggling to be the first to the stall. At the last second, Laurent jutted ahead, and he all but fell forward, catching himself on the table. The pile of chips shook, but the pretty girl behind the stall reached out her hand and caught them with a mysterious but adorable technique.
+
+“Can I help you?” Rhys asked, making his voice a little breathy. A second later, he rolled his eyes at himself internally. Laying it on a bit thick, aren’t I? He needed to act normal, not like some kind of 1960’s sexy cartoon. He corrected a little, but kept the pose. Hip out, hand on his hip, brows up, touching his chin ever-so-gently. In his original body, he would have worried about emphasizing his unfortunate jawline, but this body had a nicely slender jaw for now, so he was a-okay.
+
+Laurent stared at her like a fly staring at the sun, his jaw agape. All words left his brain. So cute…
+
+Rhys blinked. A tiny bit of sweat trickled down his back. Did he see through me? Is that why he’s staring?
+
+A second later, Anabel pushed Laurent to the side. “One bag, please.”
+
+“Of course! That’ll be five gold,” Rhys said with a beaming smile. It was an insane price from a mortal perspective, but he’d long since learned that mages had no idea what mortals considered normal pricing. One gold was the cheapest anything could possibly be to a mage. Five gold was cheap, but not so cheap that it became suspicious.
+
+Consequently, Anabel handed over her coins without batting an eye. Rhys gave her a bag of chips, and just like that, their first customer sauntered away.
+
+Not wanting to be behind on the trend—because if Anabel did anything, it had to be the ultimate in trendy—the rest of the Uninhibited Wealth School fell in line. Unfortunately, the Empire’s trainees had all filtered in behind Laurent, following their captain, and as a consequence, they were all in line ahead of the Uninhibited Wealth School, whose students hadn’t been following Anabel in a tight line, but instead mobbing generally behind her. They glared at the Empire’s students, hatred growing in their hearts.
+
+The girl behind Laurent cleared her throat. “Captain?”
+
+Laurent shook his head, jumping as he came back to reality. He looked Rhys in the eye. “Yes!”
+
+“One bag…?” Rhys guessed.
+
+Laurent nodded mutely. He fumbled out his coin pouch and handed it over.
+
+Rhys blinked, a bit taken aback to get handed someone’s entire coin pouch. Is this the custom in the Empire? He counted out five coins, then handed back the coin pouch and a bag of chips. “Thank you!”
+
+A part of him wanted to keep the whole coin pouch and sell the weird flunky all their potato chips in one go, but that wasn’t the point. The point was to get as many students as possible hooked on junk food, so that they had no choice but to continue buying potato chips, and to do that, he had to sell the potato chips to as many students as possible, as fast as possible. Now wasn’t the time to let someone buy out the shop, especially not when he hadn’t meant to.
+
+Laurent staggered away, still watching Rhys with wide eyes. How could anyone be so cute? What was this? This girl, this angel. She was too pretty. It couldn’t be legal!
+
+Rhys gave him a forced smile and a small wave. Please leave.
+
+The other trainees glanced amongst themselves. Had they just been given permission to buy snacks? Or had they been given permission to buy this specific snack? One or two of the more adventurous trainees wandered off to the other stalls, but most continued queueing up at Rhys’ stall, purchasing one bag of chips just like their captain, and wandering off. A few cracked open their bags and took a bite, only for their eyes to get wide, and their hands to dip back into the bag over and over again.
+
+Rhys grinned, watching them snap up the chips. I’ve got ‘em. He glanced over his shoulder. “How’re our supplies?”
+
+“Should have more than enough for the whole line,” Bast replied, using his usual voice.
+
+Rhys shot him a look. Bast gave him one back.
+
+“Thank youuu, perfect!” Rhys trilled after a few beats, intentionally waiting until it got awkward.
+
+Bast rolled his eyes at him. “You’re enjoying this too much.”
+
+“A guy’s gotta have hobbies,” Rhys muttered back.
+
+“This is your hobby?”
+
+“What? It’s harmless.”
+
+Bast pursed his lips and bobbed his head. “Guess so.”
+
+Rhys shook his head. Cosplay was so much harder to explain in a world that barely had characters, and dressing up as a person from a play made so much less sense than dressing up as a well-defined character with a well-defined outfit. He’d tried to explain it to Bast a few times earlier, but it was like water off a duck’s back; Bast just had no frame of reference to understand what he was trying to do. Ultimately, it didn’t matter, since Bast had agreed to do it anyways, but he would’ve been happier if his closest friend had understood a little bit.
+
+Ah, well. I’m used to not being understood. If he wanted to be understood by society, he wouldn’t have started cosplaying. He turned to the next customer, beaming. All that mattered, was that the customers saw what made them want to keep buying more chips, and what better to sell chips than a cute girl? If it worked in his homeworld, it’d work here. In fact, it was working here.
+
+“Next customer!” Rhys called, and the line crept forward.

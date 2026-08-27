@@ -1,0 +1,207 @@
+---
+id: f81f977e-aaef-5339-9794-865e2b4bf92e
+page-type-slug: story-chapter-royal-road
+title: "47. Four on One"
+slug: 0047-47-four-on-one
+partOf: god-of-trash
+position: 47
+ownLength: 3632
+unit: words
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2191097/47-four-on-one"
+royalRoadId: "2191097"
+---
+
+Rhys backed away. He laughed. “Me? No, no…”
+
+“You’ve beaten my strongest students, no?” Cynog pointed out.
+
+“I…” With Ev’s assistance, sure.
+
+“Is there anyone here who could defeat you?”
+
+Rhys licked his lips. “That is…”
+
+Cynog gestured to Ernesto. “There he is. Our school’s champion.”
+
+Rhys smiled nervously. Is this bullying? He was just trash. There was no way he was the most powerful student around!
+
+But… he had beat Cynog’s enforcers. Not only that, but he’d reforged his body and grown his skills since then. Maybe… maybe he really was strong, after all his hard work.
+
+Ernesto looked Rhys up and down. He snorted dismissively. “Truly? Is this a joke?”
+
+“No joke at all. Come on, time’s a-wasting. Let’s get the exhibition martial arena set up in the main square.” Cynog nodded, and his students hut-hut-hut-ed away toward the main square.
+
+“In the main square? Couldn’t we do it back here?” Rhys requested, his voice squeaking a little. He was trash and he knew it, but did he have to show it in front of everyone, again? Wasn’t one battle where Cynog trashed him in public enough?
+
+Cynog shook his head. “Nah. We need everyone to see.”
+
+Rhys narrowed his eyes. Was Cynog not happy with publicly beating Rhys? As far as the public was concerned, Cynog had absolutely obliterated Rhys, the last they’d fought. No one but him, Cynog, Cynog’s loyal enforcers, and Ev, had seen the battle in the rift. He’d privately defeated the man—or at least, got his one good hit in—but apparently, Cynog held a grudge even for that secret, minor defeat. He had to see Rhys completely ruined in front of everyone, or else he wasn’t happy at all, and forget what the schools thought of one another. Cynog didn’t care if Infinite Constellation School burned down, as long as he got to watch Rhys get his face beat in.
+
+It didn’t matter. Rhys wasn’t going down that easily. Cynog could set him up to knock him down, but he wasn’t going to fall just like that. He’d grown since Cynog had seen him last. If Cynog was trying to make a fool of him, he’d be disappointed.
+
+He looked at the Purple Dawn students. Victor puffed out his chest. Mae giggled, looking down at him from behind her lashes. Hono read her book, pretending not to care, and Walter gave him an easy smile, his eyes as gentle as ever. He wasn’t confident he could take them down, but he was confident that he wouldn’t go down without a fight.
+
+“You can appoint four champions, if you prefer. I can even tell you what my students’ specialties are,” Ernesto offered.
+
+“That won’t be necessary,” Cynog replied.
+
+Rhys narrowed his eyes. What did he mean, ‘that won’t be necessary?’ It sounded pretty necessary to Rhys! He’d have a massive advantage if he knew what he was up against!
+
+At the same time, he understood. If Cynog accepted the offer of information, then Ernesto could scoff afterwards and claim that any victory the Infinite Constellation School claimed was only because of their foreknowledge.
+
+As for appointing one champion, he was pretty sure that was just Cynog’s naturally bullying nature, but for all that he generally disagreed with Cynog’s bullying, he appreciated it being pointed against their enemies this one time. If he won, as solo champion, that would be a heavy blow against the supposedly superior Purple Dawn Academy, whereas if he lost, as the solo champion, Cynog could rightfully point out that Purple Dawn had one-sidedly beaten up one of Infinite Constellation’s mages, and either appoint a new champion or use the story as an example of how Purple Dawn bullied smaller schools. It was actually a genius maneuver from someone he’d hitherto seen as a blockhead with nothing but muscle in his skull. Rhys looked at Cynog in shock. Was it deliberately a genius move, or some kind of idiot savant, a broken-clock-is-right-twice-a-day accident?
+
+Cynog pulled his pinky finger out of his ear and blew some earwax into the wind.
+
+Rhys shook his head. I have no idea which, but I should definitely be more careful around Cynog in the future.
+
+He still wasn’t happy about his place as the guy who was sacrificed so that the sect wouldn’t lose reputation regardless of whether he lost or not, but neither was he intent on losing. He would win this, whether they realized he was capable of it or not.
+
+As the two teachers had been speaking, a few of Cynog’s musclebound flunkies had been scurrying around, drawing out tiles to set up the battlefield. Now, they dispersed, and a beautiful golden-tone stone grid awaited Rhys and the Purple Dawn students.
+
+Victor mounted it with a harrumph. Puffing out his chest, he thrusted his thumb at himself. “I’m the weakest student of the four of us. Let’s see if you can even beat me, Rhys!”
+
+Rhys stepped onto the stone. He bowed to Victor, as he’d seen the martial students bow to one another before a formal duel. “My apologies, Victor, but I wasn’t aware that being the weakest was something worth bragging about.”
+
+Victor’s cheeks flushed, and a few of the Infinite Constellation students—and Mae—broke out in laughter. “Th-that’s just because when I beat you, it’ll show how weak your whole school is!”
+
+“Then brag about it after your victory,” Rhys advised him. He cupped his hands, proceeding with the formal introduction as if he’d said nothing at all. “Rhys Foundling greets you as a mage with no standing within or without Infinite Constellation Sect. Tier 1, trash talent, no particular bloodline nor rare skills to brag of.”
+
+Victor’s face flushed. His teeth ground, and he hurriedly cupped hands back. “Victor Arneste. Third Rank within Purple Dawn’s Tier 1 students.”
+
+Internally, Rhys grinned. In essence, he was doing to Victor exactly what Victor had hoped to do to him: reveal his own weakness before everyone, so a win on his part would be more embarrassing for Victor. Not only that, but to do it elegantly and formally in front of both teachers, while Victor embarrassed himself and put himself on the back foot attempting the same tactic… well, when it came to bringing the right mentality to the battlefield, it was obvious who had won between Rhys and Victor.
+
+Of course, this gambit was meaningless if he lost, but Rhys didn’t care. By embarrassing Victor so thoroughly, he’d already won.
+
+This kid wouldn’t last ten seconds in a CoD lobby, he thought to himself, barely hiding his smirk.
+
+They rose from their bows, and the battle began.
+
+Victor charged Rhys with a shout, face still flushed, frustration still clear in his every action. Rhys jumped away. He deliberately retreated to the very edge of the battlefield. Victor’s eyes flashed, and the boy launched a dozen powerful blows. “I’ve got you now!”
+
+Standing on the edge of the stone grid, Rhys barely suppressed a yawn. Victor’s punches were straightforward and simple. There was none of the skill and deadly intent Bast expressed, nor the fearsome twists and sudden feints Straw could pull out of nowhere. Nor was there the raw brutality and speed Ev brought to the field, where she rained down a hundred punches so quickly that he couldn’t imagine countering her, and struggled to so much as hold a guard. Not only that, but Victor’s punches seemed to be moving at half speed. He had absolutely no difficulty dodging them, and it was only with his back against the wall, as he was now, that he felt any thrill at all.
+
+He went to throw the boy out of the ring, only to catch Cynog’s eye. Cynog shook his head, just a little. Overkill, he mouthed.
+
+Rhys shrugged to himself. This was a competition to show their skills off in front of Purple Dawn, right? It’d be no show of skill if he simply threw Victor out of the ring. To the uninitiated eye, it might even look like he just got lucky. So instead, Rhys called forth his rat projection. A rat materialized behind his head. It scurried down his arm and perched there, baring its teeth at Victor.
+
+Mid-punch, Victor laughed. “What the hell? What a stupid—”
+
+The rat projection sensed the incoming punch. It leaped from Rhys’ hand onto Victor’s face and tore into it. Blood and gore went flying. Victor screamed, stumbling back. He beat at the projection, but uselessly. His blows bounced off the side of the glowing blue rat, the mana that composed it more solid than his fists.
+
+“Call off the projection! You have won,” Walter shouted, stepping forward.
+
+Rhys snapped his fingers, a little perturbed himself. That rat had been far more savage and dangerous than he remembered. In his memories, the rat barely managed to get a single bite off on Ev before she dismissed it with a kick… Right, but Ev can fight at Tier 3, and this guy is only a Tier 1. He looked at his hands. Am I… strong?
+
+Walter sighed in relief as the rat vanished. He gestured. “Victor, come on—”
+
+“I haven’t lost yet!” Victor roared. He threw himself at Rhys, his arms wide in an attempt to bear hug Rhys off the platform.
+
+Rhys stepped aside and gave Victor a swift kick in the ass as he passed. The boy stumbled forward, carried by his momentum and the force of the kick off the edge of the platform.
+
+Cynog stepped forward. “Rhys has won.”
+
+“No! I refuse to acknowledge it!” Victor growled. He hopped to his feet and marched back toward the stone platform.
+
+There was a blur of motion. Ernesto appeared behind the boy, one hand clamped on his shoulder. “You have lost, Victor. Do us a favor and acknowledge your loss, rather than continue to embarrass your school.”
+
+Victor jerked to a halt. He stared at Rhys in disbelief. “No. I refuse. He hasn’t… he couldn’t…”
+
+Rhys smiled and gave him a little nod and wave. Haha, I did and I could, fuck you! He didn’t say it, though. It was a time when silence was far better than any taunt he could muster.
+
+“Then, it’s my turn.”
+
+Rhys turned. He didn’t know when, but at some point, Hono had stepped onto the platform. She had removed her hood to reveal a bonnet and a bell skirt, all in black and dark crimson, festooned in ribbons and bows. Rhys nodded in appreciation. Goth Lolita was always a high-tier fashion statement, and here she was as the pinnacle of the art! She made a sharp departure from her fellow mages in their prim robes and heavy cloaks, simple and dark, but that only made her choice all the better. It would be boring if he faced off against four copies of the same mook. He far preferred to fight four distinct character designs. Plus, a design like this… it wasn’t quite as good as Sorden’s, but it made him wish his female friend had transmigrated with him. She would go insane to have the chance to wear an outfit like Hono’s.
+
+He nodded in approval and bowed. “Greetings to Hono.”
+
+“I hope you won’t hold back against a small, delicate girl like me,” she said.
+
+Rhys scoffed. What kind of trash did she think he was? He’d seen enough anime to know better than to underestimate the tiny female characters. She was probably the most dangerous of all of them. No way would he hold back. “Not a chance.”
+
+Hono bowed back. As she straightened, she threw her hand out. Black chainlike bolts of energy shot from her hand and rushed toward Rhys. Almost as if alive, they dashed back and forth on the air, zipping this way and that as they closed in.
+
+Rhys dodged, hopping backward one step at a time. The bolts chased after him, unrelenting. When he dodged, they darted. When he retreated, they advanced. Pushing at him from four directions, they sought to pin him down and attack from all angles. He tried to work around them and close in on Hono, but she moved with her bolts, keeping them, and the battlefield, between her and Rhys.
+
+“Let my curses land on you. Let them course through your blood. All I need is one hit, and the battle is over!” Hono mocked him. Her eyes were wide with bloodlust. Compared to her quiet out-of-battle persona, she fought like a completely different person.
+
+Rhys approved heartily.
+
+Behind them, the students mumbled to themselves, taken aback.
+
+“Curses?”
+
+“That dark power?”
+
+“Purple Dawn… what are they doing?”
+
+Rhys had no time to spare them any thought. The black curse energy chased him down relentlessly. It gave him no space to breathe, no room to stop and get his feet under him. The battlefield was too refined and neat for Trash Step to give him an advantage, and when he chucked a random piece of trash at the energy, the trash flew right through it without stopping it in the slightest. When trash couldn’t affect the energy, he didn’t want to risk using Trash Intent here and losing the surprise of using it later for no advantage. It was ‘curse’ energy after all. Who knew? Maybe it could travel directly through any number of solid objects.
+
+Back and forth, Rhys retreating and Hono pushing her advantage. There was no way to get to her without getting through the bolts. But that was fine. Rhys had a skill for that.
+
+Baring his teeth, he charged directly at Hono.
+
+Hono cackled. “I knew it! You have no ranged attacks. Bathe in the ferocity of my curses! I’ll permanently cripple you, pathetic slime!”
+
+It wasn’t that he had no ranged attacks. He could empower something with Trash Intent and huck it at her any day, plus there was all the trash in his storage ring, but this battle didn’t give him the sense of intense danger that would provoke him to use that kind of attack. Besides, there was something about this cursed energy she was using that was incredibly familiar. Something that called to him, just as he called to it.
+
+The beams struck him. Rhys prepared to activate Trash Body, but found himself stopping dead instead. Evil magic permeated his every pore. Filth clogged his arteries and his mana passages alike. The dark energy tore him apart, attempting to turn his strengths against him and attack his weakest parts.
+
+Just like impurities.
+
+Rhys’ eyes flashed. He called to the impurities in his core, the ones he’d been slowly pouring into himself from dripping the seven-times concentrated potion on his hand, and forcibly ignited them. As they ignited, so too did the curse power that had infiltrated his body. Rather than strengthening his body, though, the curse power burned, and burned away his mana directly. In that moment, Rhys’ eyes were opened. It wasn’t just that his body was impure and poorly built. No. The very mana he breathed in, the mana he’d assumed was clean all this time—it, too, was impure, and not just physical impurities, either. There were hints of darkness to its very energy, evil, dark, impure energy that ever so slightly tinged his mana, darkness that naturally existed in the world around him. Darkness that an ordinary mage would try to filter out of their mana.
+
+In other words, trash.
+
+Spurred on by the impurities, the curse power, and his mana, ignited. The darkness burned away, leaving behind a hyper-pure mana of an intensity and concentration Rhys had never seen before. He guided the new hyper-pure mana into his core and collected it there, winding it up into a tiny ball. The new mana thrummed with energy, at least twice as energetic as his ordinary mana. It felt compressed, concentrated, as though he’d burned away the empty space along with the impurities. Instinctively, Rhys sensed that this was a route to greater power. If he could empower all his mana like this, Tier 2, no, Tier 3 wasn’t a dream.
+
+Faint wisps of black smoke rose from his shoulders, but at this point, he was too experienced at burning impurities, and burned too few of them here, so that very little smoke appeared. The curse power produced no smoke when it burned, evaporating cleanly into the atmosphere. Rhys looked up. He walked toward Hono, absorbing the curse power she sent at him and burning it down to concentrate more of his mana.
+
+Hono widened her eyes in shock. “What are you doing? How are you still moving? My curse power should… you should be writhing on the floor in pain!”
+
+“Can you give me more? This isn’t quite enough. It’ll take all day to refine my mana, at this rate,” Rhys requested.
+
+“Wh-what? Refine your mana…?” Hono muttered.
+
+Rhys continued to approach. Hono clicked her tongue and closed her hands, cutting off the beams of curse power. Disappointed, Rhys sighed and let the impurities burn out. It was a pity about Hono, but it was good to learn about curse power. Maybe he should go seek out a powerful curse later, to further refine his mana.
+
+In his mind’s eye, he saw a city street. Bast stood beside him, and they stared at a poster. Beware! The Strawman possesses great curse power!
+
+Rhys raised his brows. I need to find Straw.
+
+Hono’s body blurred, and she vanished. Snapped back to the battle, Rhys barely made out her form flashing by him as she retreated. He reached out, but she was too fast. He raised his brows, actually impressed. It seemed they weren’t all total slackers like Victor.
+
+Something wet and cold splashed on his side. “I’m not just a curse user. Now! Writhe!”
+
+“I prefer the cool and calm goth type, not yanderes,” Rhys informed her. He looked at his arm. Black splotches appeared where the poison had struck him, but they quickly vanished. Not only was his poison resist too high for a low-tier poison to do him any harm at this point, but the potion simply wasn’t virulent enough to get past his impurity limits. Compared to the damage he’d learned to counter from handling impurities, this potion did nothing. He was sure the poison would have been deadly to an ordinary mage or martial artist, but to him? He could have bathed in it, and it wouldn’t even have been particularly good training.
+
+Am I actually… strong? Rhys wondered, then pushed the thought away. There was no point getting a big head on the second fight of four. If he wasn’t a perfect counter for Hono, this would have been a tough battle. As it was, it ended up being a joke, through no fault of Hono’s. After all, she had no idea that she’d face a man who poisoned himself regularly for fun.
+
+Then again, it’s a good lesson for her to learn. I’m surely not the only person with high immunity to poisons and curses. Rhys walked toward Hono. It had been fun, but she couldn’t hurt him, so it was time to end this battle.
+
+Her brows furrowed, and she searched him, eyes darting back and forth over his body. “Why aren’t you in pain? What’s wrong with you?”
+
+“A lot. A lot is wrong with me,” Rhys replied honestly, still approaching her at a slow walk. Abruptly, he slammed his foot down and sprinted toward her from a dead stop. It was a trick Ev had been fond of using against him, and now, he used it against Hono. Hono’s eyes flew wide. She turned to dart away, but Rhys had accelerated from too close, and she had no time to react. Lifting his knee, he hammered her in the chest and sent her flying off the stage. She landed in a pile of fabrics and a fwumpf of skirts.
+
+Rhys dusted off his hands and nodded at Ernesto. “Next.”
+
+Ernesto’s eyes narrowed. He stared venom at Rhys and said nothing.
+
+Walter stepped forward, but Mae threw her hand out. “It’s my turn. Don’t get in my way.”
+
+“If he bested Hono and Victor so easily, then you—”
+
+Mae scowled. She shoved him out of the way and stomped ahead. “Stop underestimating me. Stand back and watch.”
+
+Rhys nodded at her. She looked like a martial artist, muscular and powerful, which meant he was actually a poor match against her, when compared to Hono and Victor. When it came to physical fighters, he’d always been on the losing side, whether his opponent had been Bast, Straw, or Ev. Of everyone here, it was Mae he feared the most. His body was weak and slender; it always had been. No matter how much he practiced and reformed his body, he started from a natural disadvantage, and he’d never been able to overcome it.
+
+A little voice at the back of his head whispered, Yeah, you’ve never been able to overcome it… against the ultimate super weapon multiple schools worked together to defeat, the guy who got picked up by the Sword Saint for his raw talent, and the girl who’s a Tier higher than you and can surge her power up a Tier higher… if she isn’t Tier 3 outright.
+
+Rhys pushed the voice down. Even if his outlook was a little skewed, he still couldn’t take this fight easy. This would be the hardest battle yet.
+
+He bowed. “Rhys Foundling greets fellow martial artist.”
+
+“Shove it. You know my name, you know why we’re here.” Mae stepped onto the other end of the field and raised her fists.
+
+Rhys snorted under his breath. He could respect someone with a one-track mind. He lifted his fists as well, and the two of them leaped at each other.

@@ -1,0 +1,111 @@
+---
+id: 3b3d5c2b-5891-5ea6-b19f-5b71caf1ef53
+page-type-slug: story-chapter-royal-road
+title: "89. Battle of Attrition"
+slug: 0089-89-battle-of-attrition
+partOf: god-of-trash
+position: 89
+ownLength: 2175
+unit: words
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2312577/89-battle-of-attrition"
+royalRoadId: "2312577"
+---
+
+It’s go time.
+
+The needles in Rhys’s legs left a numb, tingling sensation there that he almost hadn’t felt at all through Trash Body. They were poisoned. No, not just poisoned—the entire needle was made of poison.
+
+Or in other words: impurity.
+
+Rhys released his cauldron’s Trash Intent and drew in strongly, and the needles sucked in through the holes in his legs. Florian stared in shock, and a few members of the audience sat forward, not that Rhys noticed. He was too busy dashing—not toward Florian, as the boy had expected, and thrown up his arms to block the surely-oncoming attack—but toward the other needles, scattered over the battlefield and mixed in with the shattered ice. His Trash Step activated, but that wasn’t his purpose. He slapped his hand down on the ice and drew it into his core along with the scattered needles. They’d been discarded in the battle; therefore, they were trash. The needles, too, were impurities, which made them doubly trash.
+
+The debris on the field vanished. A single chain remained behind: the shield necklace Florian had discarded earlier. Rhys snatched it up and tried using Trash Intent to bring back the gem and its function. The gem reappeared, no problem at all, but when he tried activating the shield, mana vanished from his core at a terrifying rate. Startled, Rhys quickly deactivated the Trash Intent. Was it that the shield was too powerful for his Trash Intent to replicate, or was it that replicating magical effects of items through Trash Intent, as opposed to just replicating the item itself, was the prohibitively expensive part?
+
+His mind flashed to the rusted sword in his storage ring, with the sunlight embedded in its blade, but he quickly dismissed the idea. The shield necklace was doubtlessly less powerful than that relic, not to mention that the relic was one of a kind. He wasn’t going to test whether he could reactivate that magical effect through Trash Intent until he was sure he could reactivate magical effects through Trash Intent.
+
+Though, to be fair, the fact that Trash Intent had drawn on his mana at all when he’d tried to reactivate the magical effect suggested that Trash Intent had the capability to replicate magical effects. The real question was whether or not Rhys had the mana pool to support anything but the very weakest of those reactivations. Given how Florian had used the shield necklace without thought or effort, it definitely took a factor more effort to use Trash Intent to use a magical effect vice using the effect outright; on the other hand, it might be that he had to recreate the enchantment via Trash Intent, which cost more mana to start out with compared to activating the necklace, and that might be the bottleneck.
+
+All this speculation takes some time to explain, but it all happened in the blinking of an eye. Rhys gripped the necklace tight, then absorbed it, opting to use it as trash rather than save it to try to reactivate the magical effect later. He wasn’t the poor scum Florian took him as, but instead, the nouveau-riche kind of trash. The price of a shield necklace was nothing to him. He only hadn’t bought one himself because the ones in the market seemed flimsy, unlike Florian’s, which stood up to his powerful attack. But for his current purposes, a flimsy shield necklace was more fitting than a powerful one, since he wanted to find out the mana cost of reactivating a magical effect through Trash Intent, and he simply couldn’t pay the cost at all for Florian’s. It did hurt his heart a little bit to abandon such a rare and useful piece of trash, but then his eyes fixed on Florian’s neck, and his heart hardened. It didn’t matter. Florian would surely discard yet another shield necklace by the time this battle was over.
+
+The needles were full of powerful impurities, ones Rhys was unused to, and he could already sense they’d be interesting to ignite, but they weren’t enough for him to start burning them. He simply didn’t have enough trash, whether it was a trash star or a furnace he wanted. He tossed back his weak impurity potion, but that still wasn’t enough, though it was close. As a cheap person at heart, despite his nouveau-riche status, Rhys turned to Florian again. “Oh no, my legs, they feel so numb!”
+
+Florian squinted at him, who’d just darted across the arena with the greatest of speed.
+
+Rhys staggered across the arena, acting like he’d just stood up off the toilet after a particularly long shit. “Nooo, my legs! I’m so vulnerable!”
+
+Suspicion still clouded Florian’s face, but he lifted the needle again. Another barrage shot Rhys’s way.
+
+Rhys’s ‘numb’ legs suddenly regained feeling, and he jumped into the air, backflipping away from the needles. He landed and dashed in, sucking up the impurities again.
+
+“You are a poison master!” Florian accused him, holding the needle back as though Rhys might go for it.
+
+“No I’m not. You said it yourself!” Rhys responded. He went back to staggering across the field outside of Florian’s melee range. “My legs, my legs…”
+
+“I’m not foolish! I’m not going to fire any more needles at you,” Florian said. He flicked his wrist, and the needle vanished.
+
+Pity, Rhys thought, gazing at his hand where the needle had been with longing.
+
+In its place, a brown-green stone materialized. Florian’s expression turned manic, and he laughed. “I didn’t think you’d make me bring this out, but I have no recourse. Take this! The ultimate beat-down for poor idiots like you!”
+
+“You know, the more you speak, the more I think you’re a real douchenozzle,” Rhys informed him, even as mana swelled around the brown-green stone. He jumped back, waiting to see what attack came out of it so he could respond.
+
+The floor under him trembled. Rhys startled. As the stone broke apart and something shot through the ground under his feet, his Trash Step activated. He jumped away with the power of the boost and only took a glancing blow from the gnarled and spiked tree-hard vine that lunged for his undercarriage.
+
+“Wow, low blow,” Rhys said, patting his butt. The robes had held up to the strike, fortunately, or else his right buttcheek would be on display right now. As it was, his ass smarted, and a few prickles on his leg where the spines had scraped past warned him of poison in the form of delicious fresh impurities. The vine retreated, and he sensed its mana curling around underground, seeking after him to strike again. He looked at Florian. “That thousand-years move is crazy outdated, man. It’s just sexual assault nowadays. Aren’t you afraid you’ll get cancelled?”
+
+Florian only laughed. “What’s wrong with attacking my opponent’s weak points? You’re the fool for not armoring the places you’re vulnerable.”
+
+Rhys scooted over to the broken stones where the vine had shattered through the floor and absorbed the debris—aka trash—they’d left behind. He had enough impurities, now, to burn them, but he didn’t have quite enough for a trash star. He looked at Florian and considered his shield amulet. He didn’t want to just beat the man; he wanted to teach him a lesson. Florian needed to learn what happened when he attacked a man with nothing to lose, and Rhys had a double serving of humiliation right here, ready to serve up.
+
+No, no, no, not humiliation, humility! Yes, yes. I’m doing him a service. He nodded to himself, then drew a filth potion and sucked down another big sip. A trash star was a momentary boost, a big hit that would doubtlessly break Florian’s shield and ring-out the man at the same time, if not outright leave him with a mortal wound. Burning impurities, on the other hand, gave him a sustained boost that would be just enough to trash Florian for a while.
+
+So, as the vine punched through the ground under his feet, Rhys activated the impurities.
+
+The fire surged up, and the impurities hit. Time slowed. The vine moved in slow motion, hurtling toward the crux of his legs. Rhys stepped back, neatly sending the shattering rock into his core to burn with the rest of his impurities. The vine grew, but slowly. Rhys swept his sword at it, casually activating his Trash Intent as he did so. Mana resisted his cut, but he overwhelmed it with his impurity-boosted power. His sword severed the vine, and the top half of it fell away.
+
+Florian’s mouth opened in shock. He stared, startled.
+
+Before Florian could even finish reacting, Rhys slashed twice, three times, then scooped up the pieces of the vine and fed them into the impurity furnace as well. Black smoke billowed up behind him, and he let out a long sigh. He’d been using the trash stars so much recently that he’d forgotten how good this drawn-out boost felt.
+
+The rock in Florian’s hand shattered. Florian’s face twisted in disgust, and he threw it away. Rhys’s body moved without him prompting it to, purely on instinct, and he dashed to Florian’s side and scooped the shattered stone out of the air, instantly sending it to the furnace. Florian startled and hopped to the side in shock, but to Rhys, in his sped-up state, it was as though Florian were moving through water, and he, through air. He hammered a kick into Florian’s hips and sent the boy rolling across the ground. Florian’s shield shattered.
+
+Rhys dashed in. He loomed over Florian. Florian instantly equipped another necklace seconds before Rhys stomped on his head. The shield shattered. Rhys lifted his foot again, and Florian equipped another necklace. Two. Three.
+
+At last, Florian stopped equipping necklaces. He put his hands up. “I can’t bear any more of this. Sto—”
+
+Before he could utter the word ‘stop’ and end the duel, Rhys kicked him in the solar plexus. All the air left him in a wheeze, and he went tumbling toward the edge. He saw the edge, and threw himself toward it, only for Rhys to appear there and kick him back the opposite direction, up into the air.
+
+It wasn’t a match anymore, but a one-sided beating. Rhys was honestly shocked the ref hadn’t stepped in and called it yet, but for all he knew, these were the expected terms of engagement for the tournament. Killing was allowed, after all. An old-fashioned rule like requiring the losing opponent to audibly concede might be on the books, too.
+
+Not like Rhys was complaining. He was happy to give this young master a beating with no sidekicks, bodyguards, or parents able to intervene.
+
+Flying through the air, Florian shouted, “I conce—”
+
+Rhys appeared behind him and clasped his hands together, hammer-blowing Florian into the ground. The stone cracked, and Florian spat up blood.
+
+“Still wanna beat up poor people? Still think shitting on vagrants is a good idea?” Rhys asked, standing over Florian.
+
+Florian spluttered. He started to push himself up. He put on another shield necklace out of desperation. “Please, I beg you…”
+
+Rhys kicked his head like a soccer ball, and Florian went rolling. “I didn’t hear an answer.”
+
+“No, no, no! I don’t think it’s a good idea!” Florian cried.
+
+“But are you just saying that, or do you really mean it? If you really mean it, then kiss my foot.” Rhys extended his filthy, trash-coated boot, the same boot that he’d been wearing to the dump every day.
+
+Florian looked at that boot and hesitated.
+
+“That’s what I thought. Mean it, you filth! Don’t just say it, mean it!” Rhys kicked him again, and he lifted into the air and landed with a meaty thump.
+
+There was a stir in the stands. A man who looked like Florian, but laden in even more finery, ran down the stands toward the arena. The referees moved to block his path, but he shoved them aside.
+
+My time is limited. Rhys chased after Florian and extended his foot again. “Last chance before I beat you black and blue. Kiss my boot, or get the beating your smug ass deserves.”
+
+Florian’s eyes were barely open. He swayed as he pushed himself upright. In the background, behind Florian, where he couldn’t see, the well-dressed man opened his mouth in despair, reaching out toward Florian. Rhys made eye contact and smiled smugly as Florian hauled himself forward, and in front of the crowd and everyone, kissed Rhys’s boot.
+
+The crowd went silent. Even the referees just stared. The only person moving was Florian’s father, who dashed onto the arena and physically ripped Florian away from Rhys’s boot. He cradled his son in his hands and fed him a potion, murmuring reassurances to his son.
+
+Rhys nodded at him, a friendly smile on his face. “Need some child-rearing advice? I’m happy to help.”
+
+The venomous glare the man shot him was almost filthy enough for Rhys to absorb it as an impurity.

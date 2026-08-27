@@ -1,0 +1,147 @@
+---
+id: 0cb13516-4a9a-5132-903c-1776ddc326d3
+page-type-slug: story-chapter-royal-road
+title: "Threads 249-Capital 1"
+slug: 0287-threads-249-capital-1
+partOf: forge-of-destiny
+position: 287
+ownLength: 2738
+unit: words
+publishedAt: 2022-09-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/999886/threads-249-capital-1"
+royalRoadId: "999886"
+---
+
+The approach to Xiangmen was strange and wondrous. For Ling Qi’s entire life, both on the streets of Tonghou and in the Sect, the dark vertical line on the northern horizon was as much a fact of life as the movement of the sun and moon. There was always some faint awareness that it was the distant capital of the province, Xiangmen, the Heavenly Pillar.
+
+The road took them north, and the dark line on the horizon grew. First, it was a hazy shape, then a solid pillar stretching into the sky with a top shrouded by what seemed like permanent clouds. But these were not clouds; they were leaves. Less than halfway to the capital, it seemed to loom higher than the mountains of the Wall where they came from, even though they were still so far away from Xiangmen.
+
+They saw the first of the roots more than two hundred kilometers from the base of the city. The root appeared like a high winding ridge with a gentle slope, covered in greenery, vibrant fields, and clusters of pastoral manors. The road bent to remain in its shadow. The canopy consumed the sky, a vast dome of green with impossibly-high branches measured in sizes used only for cities. They should have been in total darkness, and yet, the sun shone through the waving leaves as if wholly unobstructed. Only the trunk cast a shadow, a visibly moving wall of darkness that passed over the road with the movement of the sun.
+
+The trunk was wider than any mountainside Ling Qi had ever seen. It was so absurdly massive that it seemed flat rather than curved. A city sprawled among the gnarled roots, built into what seemed like mossy hills and low mountains, teeming with more people than the entire city of Tonghou, and she knew it was just one outer district of the metropolis built into the tree itself.
+
+The air was suffused with qi, a dense, thick mix of wood and earth, and Ling Qi did not think it was a coincidence that the people she saw seemed healthier, stood straighter, and walked with more energy than those of Tonghou or even the Argent Peak’s sect town. She could not even describe what she felt from the tree itself. Even kilometers distant, it was a beacon of power unmatched by anything she had ever seen.
+
+“How in the world is anything built into it?” Ling Qi found herself whispering, leaning out the window as the carriage rolled along the well-paved road. She craned her neck to look up and up, eyeing the seemingly tiny “windows” she could see carved into the upper trunk, paths and roads winding around the outside, seemingly cut into the bark. “Could even your mother cut the bark?”
+
+“The Temple of the Pillars intercedes between the citizens and Xiangmen,” Gan Guangli said, peering out the other window. “They know the sacred songs and chants which will coax the tree to shape its bark and wood into streets and buildings or to remove those no longer needed.”
+
+“The sitting duke is the head of the temple and engages when more serious adjustments to infrastructure are needed, such as the construction of new districts,” continued Cai Renxiang. Of them, she alone made no effort to look out at their approach. “It is one of the quirks of Xiangmen that the buildings in lower and middle Xiangmen are largely indestructible, requiring no maintenance.”
+
+“That would make it easier to save resources,” Ling Qi responded absently, still craning her neck up. Even when she channeled qi into her eyes, she could see nothing of the upper city she knew to be built into the branches. “I couldn’t imagine even the worst storm or flood affecting the buildings either. No wonder the city is so huge.”
+
+“Xiangmen is truly blessed. Its abundance is unmatched, and the ills of the world outside are far away. It is a testament to ancestral misconduct that it is anything but a paradise,” said Cai Renxiang.
+
+Ling Qi gave a small nod, still goggling at what she was seeing.
+
+<Big Sister, I feel really small,> Zhengui murmured in her mind. <I don’t like it.>
+
+<Of course, you feel small, dummy. This thing’s humongous!> Hanyi exclaimed. <... It kinda gives me a headache and a tummy ache at the same time.>
+
+<We’re just visiting. Think of it as a learning experience,> she thought comfortingly. <You’ll be growing a lot too, Zhengui.>
+
+Out loud, she said. “So, I’ll be going to the Meng manor first?”
+
+“Yes,” agreed Cai Renxiang. “I will be busy with many greetings, but you should focus on your mercantile business here. I trust you to acquire a good deal.”
+
+“I will have our lady’s side,” said Gan Guangli.
+
+The carriage rolled on, and soon, the trunk consumed the entire horizon. The road rose, twisting along the path of one of the half-buried roots. The gates of the city proper were not the usual metal, stone, or jade, but painted wood from Xiangmen itself. They revealed a yawning road that split in the cavernous interior, one going up and the other going down. The interior was lit by globules of dried amber set regularly in the walls and ceiling, glowing from the inside with vibrant masses of sun qi that lit up the shadowed interior as bright as a fine day.
+
+Even then, despite their favored status in the traffic and the speed of the carriage, it took more than six hours to complete the circuitous journey through the trunk and into the upper city. The lights inside waned with the setting sun that shone through the carved-out windows, which had looked so tiny outside but seemed cavernous up close.
+
+When they emerged at last from the trunk onto a branch as wide as the great highway that led into the city, Ling Qi found she could not see the ground below, only the fluffy white tops of clouds and the gray of immense distance between them. They had come to the Cloudspires.
+
+Here, though their foundations were grown from the tree, the immense extravagance and wealth of the wealthiest peoples of the province were on display. Vast complexes of crystal and jade were either impossibly delicate or loomed with brooding weight depending on their owners’ sensibilities. Every street seemed like a scene from some mad art competition. Each building seemingly competed with the others for attention.
+
+There were no mortals here, only cultivators as the air was too thin for anyone else. It was cold and brisk in her lungs like the air on the highest peaks in the Wall.
+
+Soon, they arrived at the “small” Cai mansion they would be staying in for the duration of the auction. Compared to the other Cloudspire buildings, it was very austere, being a traditional two-story manse with surrounding gardens, but the roof tiles were gleaming white jade, and sections of the interior were built from qi-reactive wood which could change its pigments at command, allowing for spontaneous murals or even moving scenes from a cultivator’s memory. Ling Qi suspected paneling even one small room with it would cost her entire savings.
+
+The mansion had previously been the second home of a former deputy minister of commerce, who had been executed for embezzlement and trafficking of human reagents. His clan had been stripped of their legal status as nobles, and thus, the right to own property in the Upper City. Now, it stood empty with little furnishing and quite a lot of dust, which probably explained why the place still felt vaguely sick to Ling Qi’s senses. She didn’t think she’d be spending much time here, at least until new impressions had some time to set in.
+
+Ling Qi left it behind to walk along the wide boulevard that led to the home for visiting Meng dignitaries. It would have been easy to simply walk and get lost among the vibrant streets filled with chattering cultivators. She saw theaters and concert halls, art galleries and tea houses, and many other strange establishments. Who needed a whole hall just for dancing, or reading poetry? Some of the buildings looked suspiciously vulgar, but no one seemed to pay them any mind and there were no red lanterns up.
+
+Instead, she tried to stay focused, advancing toward the mist-wrapped Meng estates. The streets of the Cloudspires were all a little misty, but it grew thicker as she approached, glittering with the light passing through and shrouding the serene grounds. Ponds filled hollows in the branch around the estate and soft green grass grew under her feet, creating a quiet garden of darkly-colored flowers and softly-running water that encircled the Meng household’s delicate crystal spires.
+
+She suspected that if necessary, it would have been easy to get lost among the ponds, even for her. The air tingled with familiar qi, not so different from her own mist. Thankfully, she was invited.
+
+At an archway made of woven living vines and flowers, Meng Dan met her, his customary smile firmly in place. “Welcome, Lady Ling. Xiangmen is quite a weighty place, isn’t it?”
+
+“It is,” responded Ling Qi. She sympathized with Hanyi. Being here was probably like how she felt at her first year’s tournament all over again, surrounded with so much ambient qi that she felt a headache coming on. “May I come in?”
+
+“Of course. We have much to discuss.”
+
+The grounds of the Meng manor were beautiful with serene reflective ponds full of water lilies and floating wooden shrines lit by pale candles and soft blue ghost-lights. The manor itself was a lovely thing of crystal glass and fine wood with no seams or joins, as if the whole building were grown rather than built.
+
+Meng Dan led Ling Qi along winding paths to an outdoor pavilion just outside the manor's eastern wing, a low porch with a roof overlooking the gardens. There were long tables filling the pavilion and lanterns hanging from the ceiling, and it seemed very much like the kind of place where a party would be held. Now, though, it was quiet, save for the distant strains of music from further inside the mansion.
+
+"Feel free to let your spirits roam," offered Meng Dan, sitting down at one of the tables. The soft orange glow from the lanterns reflected off the polished wood, giving a homey feel, as if the pavilion were an island of warmth drifting on a serene sea of mist. Yinhui appeared across from him with a rustle like pages being flipped, and she settled into a chair. "Though I would ask Sir Zhengui to restrain himself."
+
+Ling Qi gave a small nod of acknowledgement. The mist hissed and swirled as Zhengui materialized just outside the pavilion. Hanyi appeared at Ling Qi's side in a shimmering veil of snowflakes with her hands on her hips.
+
+"Thank you for your accommodation, Sir Meng." Ling Qi found her own seat in one of the woven wicker chairs nearby.
+
+Sixiang manifested their physical body in the chair beside Yinhui at that moment, and they immediately threw an arm around the other moon spirit's childlike shoulders. "Heya, little cuz. And book boy! Did you miss us?"
+
+"Things have been less exciting, yes," acknowledged Meng Dan.
+
+Ling Qi gave Sixiang a look, which the muse responded to with an innocent smile.
+
+"I'm sure you needed the rest," Ling Qi finally said with a sigh. Hanyi climbed onto the arm of her chair and patted her shoulder. At least Hanyi recognized her grievance, even if she probably didn't understand it. That was a kind of progress.
+
+"Most assuredly. I am only a frail scholar after all," Meng Dan said lightly. "Would you care for refreshments, Baroness?"
+
+Ling Qi stared at Meng Dan. Meng Dan's smile widened.
+
+"If it's no trouble," responded Ling Qi. "It is one thing to hear of Xiangmen, but it is another to approach it."
+
+"It is a wonder, isn't it?" Meng Dan snapped his fingers, the sound echoing loudly in the mist, and Ling Qi sensed the movement of servants in the manor halls. "There are only a few other places in the Empire that can match it, I think: Shuilan, the Mountains of Flowers and Fruit, the Imperial City, and the Living Isle. I should like to see them all one day."
+
+"I wouldn't mind doing that myself," mused Ling Qi. Even if she had her duties, she definitely felt at least a little tug of wanderlust. "The journey south had its appeal."
+
+"It is a beautiful land. I am sure you and your lady will do much with it."
+
+"We've located our probable capital."
+
+"The waterfall is huuuuge!" exclaimed Hanyi.
+
+"The lake is really nice, and the fires under the earth are good, not like the nasty poison fires," agreed Zhengui, settling on the ground with a thump.
+
+"Has some real goodies tucked away, too," Sixiang chimed in with a grin.
+
+"Wonderful. I'm pleased for you," said Meng Dan. "For my part, it has been most satisfying to be given access to more of the clan library in my study of the tapestry. I know I am only being indulged by the elders as a treat, but it is truly satisfying to be able to confirm more of my own theories on events."
+
+"I'm glad for you as well, Meng Dan. Out of curiosity, I've been doing my own kind of research. Have you ever heard of a serious heresy in the old Weilu faith?"
+
+"There have been a number of splits and new sects which were called heresies at the time of formation," interjected Yinhui, somehow maintaining her dignity even while Sixiang played with her hair. "More specificity is needed."
+
+"Yinhui is not wrong," Meng Dan agreed. "The largest split occurred under the rule of the Xi, which produced my own family's faith and the Pure Way of the Hui."
+
+"It would be something older than that. Maybe not as far back as pre-imperial, but probably, first dynasty," Ling Qi elaborated.
+
+"Mm, records from then are... less accessible," explained Meng Dan. "I assume you aren't speaking of the Mason War split."
+
+"I don't believe so," Ling Qi said after a moment. "Well, it's something I've only touched the edges of myself. Maybe next time we meet, I'll be the one who can dispense some history."
+
+Meng Dan put a hand over his heart. "Miss Ling, you must not court my heart so brazenly."
+
+Ling Qi chuckled politely, ignoring Sixiang and their waggling eyebrows. "However, Meng Dan, what is the Dreaming Way? What great spirit does it revere?"
+
+Meng Dan's smile faded a touch. "It has none. There are a handful of ascended, thought of as teachers and torchbearers showing the way, but reverence isn't really the point."
+
+"Well, if it’s not interceding for the favor of a god, what's the purpose then?" Ling Qi asked.
+
+"It's…" He trailed off thoughtfully. "Forgive me, Miss Ling, but I am not a monk or a teacher. It is difficult for one of middling devotion to explain properly."
+
+"Ah, I'm sorry for putting you in a difficult position," apologized Ling Qi.
+
+"No, no," he dismissed. "Let us see, I do not want to misrepresent us, but in the eyes of the Dreaming Way, the material world is merely another layer of the liminal, a dream more solid and difficult to awake from. It is flawed and broken, corrupted from the intent of the Nameless. The Dreaming Way is a path to finding a true awakening, or enlightenment, if you prefer. If enough people achieve this, the Nameless may be reinvigorated, and their Great Dream made right."
+
+Ling Qi considered his words. That sounded strange, but not particularly bad, though she supposed that depended on what enlightenment meant.
+
+"Isn't that, like, stupid hard though?" Hanyi asked. "Most humans are super weak. You'll never get enough to ascend."
+
+"The truth of the Way and the truth of an individual cultivator are different things. Supposedly, even a mortal can find enlightenment if they live a proper life under the strain my kin follow, but you are right that it is a distant dream at best," Meng Dan acknowledged. "As I said, I am not personally devout. Perhaps you may request to speak with one more knowledgeable than I?"
+
+"Of course," Ling Qi said, glancing at Sixiang, who looked thoughtful. "Let’s get to business then.”

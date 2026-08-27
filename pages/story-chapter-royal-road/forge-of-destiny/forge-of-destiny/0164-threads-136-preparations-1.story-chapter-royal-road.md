@@ -1,0 +1,181 @@
+---
+id: a2e06cf6-7fd2-5569-92f4-ed4191c21197
+page-type-slug: story-chapter-royal-road
+title: "Threads 136 Preparations 1"
+slug: 0164-threads-136-preparations-1
+partOf: forge-of-destiny
+position: 164
+ownLength: 2520
+unit: words
+publishedAt: 2021-09-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/759309/threads-136-preparations-1"
+royalRoadId: "759309"
+---
+
+There were more pieces of advice, both from Xuan Shi and from loaned books. Avoid assuming their intentions, clarify her own, cut idioms out of her speech where she could, be observant, and try to decipher body language as well as speech. In the end, it mostly boiled down to being mindful and observant, the same sort of skills she had been working to polish for interacting with other nobles.
+
+The stakes were just higher in this case. It helped to shake off her lingering dislike for the subject.
+
+To that end, she continued to cultivate the Playful Muse’s Rapport art. Its lessons on presentation would be helpful for her upcoming mission, and refining her speech couldn’t hurt. Similarly, she had always intended to continue cultivating the Songseeker’s Ceremony cultivation art when her cultivation had advanced, but now, she had even more reason.
+
+Sitting on a high cliff, meditating upon her cultivation art, Ling Qi could not help but feel a tiny bit of dissatisfaction. She had not ventured out on her own in awhile. She wasn’t seeking songs. Her schedule was too rigid, the needs of Sect and duty, friends and family, used what free time she had.
+
+Of course, she had quite a trip planned, didn’t she?  She had plans with both Zhengui and Hanyi coming up. And she had something of an idea, a song that needed writing, for the lost and the hurt and not-quite friends.
+
+One way or another, Ling Qi had a feeling that things were going to be changing. It felt like standing on the precipice of a high tower under the moon without the wind to catch her.
+
+***​
+
+“So, those are the relations between the common visible colors and what they represent. There’s more complicated stuff once you jump off the normal visible spectrum and get into spiritual colors, but you should probably master the easy part first. Any questions?” Sixiang clapped their hands to punctuate the sentence.
+
+Sixiang “sat” on a fallen log, silhouette shimmering under the dappled sunlight. The muse spirit was getting better at projecting images and maintaining them, but a proper manifestation was too tiring still.
+
+Ling Qi leaned back, resting her hands on the warm stone beneath her. She did like this look for the muse. With wider shoulders and a less effeminate face and a little more muscle on their chest, visible through the open robe of shimmering colors, Ling Qi thought that Sixiang was taking quite a few cues from Lin Hai. Sixiang was clearly having fun, going by the number of times the cut and shape of their clothing had changed since the start of the lesson.
+
+Unfortunately, she wasn’t sure if that fun was being shared. Zhengui lay belly down on the grass beside her, shrunk to only a couple meters long. Zhen had been bobbing his head in time with Sixiang’s speech, and Gui’s gaze had only occasionally wandered to the pile of fresh fruit she had ordered delivered for their lunch. However, despite Zhengui listening intently, she got the distinct sense that his heart wasn’t entirely in it.
+
+His words confirmed it. “Is it really okay for Gui to distract Big Sis like this? Gui is not a baby who will get mad if Sister needs to do other things.”
+
+Ling Qi shared a look with Sixiang before looking back to Zhengui. “Zhengui, we planned this out ages ago. I don’t have anything else I need to be doing right now." Well, observing Sixiang’s speaking was technically part of cultivating her Playful Muse’s Rapport art, but that was just being efficient.
+
+“I, Zhen, think that simple Gui is not speaking well,” Zhen hissed. “Should Sister and I not be training? War is at the Sect.”
+
+Zhengui had done well, more than that really, in the last mission. He had done everything that she could have expected of him, and  she had thought he was satisfied with his performance.
+
+“Do you really think being stronger would have helped much back there?” Sixiang asked, resting their chin on their hands. “Realistically stronger, I mean.”
+
+Zhen flicked his tongue irritably but didn’t respond.
+
+“I think focusing wholly on fighting is a mistake,” Ling Qi said, having taken the chance to assemble her thoughts. “I was helping Mother with her cultivation earlier today. She’s not going to be able to fight though. Does that make that a mistake, Zhengui?”
+
+Outside of some extreme circumstances, Ling Qingge was never going to have the temperament for combat. But Ling Qi didn’t resent spending time with her in the garden, working through the simple physical exercises of her chosen cultivation art, even if Ling Qi had mastered the thing in a few days. Mother was advancing slowly, but she was advancing, and Ling Qi thought she might reach gold physique by the end of the year, securing her from the sort of illnesses that could take mortals.
+
+“Gui doesn’t think so,” her little brother said after a moment. “Is playing around really okay?”
+
+“Don’t think of it as playing around. Think of it as taking care of yourself,” Sixiang said. “If all you do is fight, then what are you going to do when the enemies are gone? There has to be more to you than violence.”
+
+“I agree,” Ling Qi said, twisting a strand of her hair between her fingers. She didn’t think she would much care to live that way. Her memory wandered back to the court and the woman she had seen at the foot of Shenhua’s throne with eyes as sharp as a blade. That was what someone who had nothing but violence looked like. She didn’t think she wanted to ever see that in the mirror.
+
+“C’mon, Zhengui, any questions about what Sixiang actually said?” she asked, leaning over to pat him on the shell.
+
+“Um, Gui does not see all of the colors, but Zhen does, so it should be fine,” he responded, leaning into her touch.
+
+“Hmph, I, Zhen have understood the lesson,” he said haughtily. Ling Qi saw the slight hopeful tilt of his head though.
+
+Ling Qi flicked him a beast core. He snapped it out of the air with a happy hiss.
+
+“Well, in that case, we should probably move on.” Sixiang chuckled as Gui gave Ling Qi a pleading look. She flicked him a core too. “Next thing we need to talk about is the theme.”
+
+“Theme?” Zhen asked. “Like Sister’s songs?”
+
+Sixiang nodded. “Right. Song or painting or poem, you gotta think about what you're trying to say with your project. It’s fine to be spontaneous in execution, great even, but you have to have a vision, a goal in mind, or you're just gonna end up with a mess.”
+
+“Ah, Gui was just trying to make something pretty before, but that isn’t right,” Gui muttered.
+
+“You have to be a little more specific than that,” Ling Qi said wryly.
+
+“So, what do you want your art to say?” Sixiang asked, leaning forward.
+
+Ling Qi followed up. “What do you want people who see our garden to feel?”
+
+Surprisingly, it was Zhen who answered her question.
+
+“It should be a bright place where bad things burn away. No one appreciates pretty things when they are afraid,” Zhen said.
+
+“I think we both know some people who would disagree,” Sixiang said, amused, leaning back on the rock.
+
+“Gui thinks Zhen isn’t wrong. Zhen and Gui are not them,” Gui replied. “Even if a garden isn’t safe, it should be bright.”
+
+Ling Qi let out a thoughtful hum. She wasn’t typically one for brightness, but… moonlight reflecting off ice, the first rays of dawn on a late winter morning, these things were not wholly outside of her repertoire.
+
+“Hmph. The work of I, Zhen, should inspire awe, not fear,” his other half hissed.
+
+“Zhen just likes flashy things,” Gui grumbled. “Even if people are a little afraid, they still respect Gui.”
+
+Ling Qi cocked her head to the side as they bickered. What were they talking about? She recalled then a little statuette in the garden shrine and offerings made at a village in the mountains. “Zhengui, have you still been receiving offerings?”
+
+“Only a little,” said Gui.
+
+“I, Zhen, feel their words sometimes,” Zhen agreed. “It tickles.”
+
+Ling Qi just nodded, keeping an even expression. She glanced at Sixiang, who shrugged. It looked like there was another subject she needed to research.
+
+“Leaving that aside, how do you feel about something themed on spring?” Ling Qi asked. “You know, that early time when things are still a little wild, the rains are on, and the sun is out, but there’s still frost on the ground and chill in the air.”
+
+Ling Qi’s fingers twitched, itching for her flute. She had an idea for a song there.
+
+Zhen flicked his tongue thoughtfully, leaving streamers of steam in the moist fall air.
+
+“Not fall and fading?” Gui asked. “The leaves could be pretty…”
+
+“I don’t think fading fits you, little brother,” Ling Qi said. The more she thought about it, the more she liked the idea of the first sun of spring. She didn’t want to be the winter that smothered warmth and growth in this project. She wanted to encourage him, and so it made much more sense for her to play winter’s other role.
+
+“I, Zhen, approve,” Zhen murmured. “The garden should be like the sun’s rays burning on the frosty ground.”
+
+“That’s probably enough to start on,” Sixiang said, clapping their hands. “So, we have a theme, but now, we need to think on how to translate that theme into the medium you’re working with! That can be a really tricky part for any artist, and it’ll probably take you a while. So, let’s start hashing out some ideas!”
+
+Ling Qi leaned back on her seat as first, Gui, and then, Zhen, began speaking,  spitting out ideas one after another. She thought this was going rather well.
+
+Over the course of the next week, they began to put some ideas into practice. Ling Qi took on the task of purchasing and organizing supplies while Zhengui worked on clearing a space for their project on his hill, devouring brush and uprooting scraggly trees to give them a clear canvas. Thankfully, even ordering a few expensive packets of seeds and gardening supplies was easily within her budget.
+
+With everything in place, Ling Qi took to composing her song, a melody of early spring, of rainstorms and warmth and blooming life. Together with Sixiang, she spun her mist into a canvas reflecting the dream of what they hoped to achieve, a garden of blooming flowers and trees touched by frost. Mist would hang in the air, and gentle rain would fall, refracting light into a prism of colors.
+
+There was something nice about working alongside Zhengui on this, digging into the earth with a trowel, working with Zhengui to stimulate the growth of the plants, and designing the layout together. This all combined to put stress and grief and worry out of her head, if only for a few hours each day. And in those few hours, she spoke to Zhengui more than she ever had before.
+
+It wasn’t about anything serious, and there were no great revelations. They just talked and worked, and it felt good. She couldn’t help but feel a touch of the excitement Zhengui felt when they finally broke ground and started to put their plans into practice.
+
+***
+
+Days later, Ling Qi plucked crumbling grains of baked mud from her hair and looked upon what they had wrought.
+
+The whole hill was not on fire at least. The mudslide had extinguished most of it.
+
+“I told dumb Zhen that he was making too much rain!” Gui groaned, stomping his feet.
+
+Between her and Zhen, making localized weather phenomena wasn’t hard. Not a combat useful trick, but Ling Qi filed it away anyway.
+
+“And I, Zhen, told foolish Gui that the Dawn Azaleas and Rimegrass did not have deep enough roots!” Zhen blustered.
+
+“They would not have needed deeper roots if Zhen’s floaty fires had not made Sister’s clouds spit lightning!” Gui shouted, craning his neck to glare up at his other half.
+
+“It was my mistake for drawing in too much of the surrounding moisture,” Ling Qi interjected. There was a puff of air as her gown rippled, expelling mud, dry and otherwise.
+
+“Eh?! No, Gui should have figured out that the dirt was too thin and crumbly,” Gui backpedaled.
+
+“I, Zhen, should have adjusted to match Big Sister,” Zhen concurred.
+
+Ling Qi huffed. “Quit that. We all made mistakes. There’s no need to try and absolve me of blame too.”
+
+“For what it’s worth, I’ve seen worse first drafts,” Sixiang said, their face appearing in the flickering flames. “I think you guys were on to something interesting there!”
+
+“But it still ended in a mess again,” Gui said glumly.
+
+“I had fun though,” Ling Qi said. Composing songs for Cai Renxiang’s parties had always felt perfunctory. Composing her own songs was more enjoyable but ultimately, just idle fancy. This was more like cultivating. They had a concrete goal to work toward, things they could improve on, and visible progress had been made.
+
+Yes, Ling Qi thought, she really had enjoyed this.
+
+“... but it was a waste of time,” Zhen said, deflated of his usual haughtiness.
+
+“You don’t give up on a technique just because you fumbled the first try.” Ling Qi smiled, reaching up to pat his drooping head. “We learned plenty from this attempt, and that means we can do the next one better.”
+
+“It was kind of fun,” Gui mumbled, scraping his foot against the ground. “I liked planting flowers for Sister to sing to.”
+
+“Making rainy clouds with Sister is challenging. A task worthy of I, Zhen,” the serpent huffed.
+
+Ling Qi hummed in agreement. She spent so much time on combat cultivation, but it had been fun to play with effects like this. It had even been fun, in its way, to get her hands dirty with a trowel. She understood why even an elder like Ying could enjoy a hobby like this.
+
+“I’m glad we did this.” Ling Qi had, for a long time, just accepted that she and Zhengui were not going to match. However, rather than stressing over those things, maybe she should have been seeking ways that they could interact all along. “I’ll be looking forward to next time.”
+
+“When will that be?” Gui asked.
+
+Ling Qi grimaced. Since they were going on a journey soon, it was hard to imagine they would have time.
+
+<I might have a partial solution. Will help you two keep the momentum going anyway,> Sixiang whispered in her head. <Give me a bit to work the kinks out.>
+
+“We’ll have to see what we can do. We’ll definitely make a try when we can get back to the Sect,” Ling Qi said.
+
+“Okay!” Zhengui agreed enthusiastically.
+
+Ling Qi nodded in satisfaction, then clapped her hands. “Let’s get this mess cleaned up.”
+
+Zhengui was less enthusiastic about that.

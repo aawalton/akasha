@@ -1,0 +1,113 @@
+---
+id: 6776686a-330c-557d-bf66-aa6dfec2e9aa
+page-type-slug: story-chapter-royal-road
+title: "Threads 500-Roots 4"
+slug: 0548-threads-500-roots-4
+partOf: forge-of-destiny
+position: 548
+ownLength: 1623
+unit: words
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3061770/threads-500-roots-4"
+royalRoadId: "3061770"
+---
+
+Sixiang's voice died down. They turned back to Ling Qi.
+
+"Did I?" Shu Yue asked. "I am the Faceless Killer, the Laughter of the Forgotten, the Weeping Wraith. I am the hands that crush the throats of those whose victims cannot reach them. Do you think these hands are clean of blood that could be called innocent? You go to war soon, student. Do you childishly imagine all of those you slay and hurt will be villains?"
+
+Ling Qi grimaced. Those she fought would be soldiers fighting for a realm that had aided raiders against them, who had sunk whole blocks of a town into poison-choked mist, and who had just weeks ago attempted to spread a plague through the Central Valley. But she knew better than to think that only soldiers suffered where cultivators fought.
+
+"Even if you did not intend for me to refuse you, that is what will happen," Ling Qi said. "I will find phantoms to practice with on my own, such as beasts or hostile nightmares in my expeditions."
+
+"A student who refuses lesson plans is not worth a teacher's time."
+
+"So be it," Ling Qi replied stubbornly. Even if this were not a test, she would refuse, and she knew a cultivator of Shu Yue's caliber could see the honest truth of that.
+
+"Hah! I would have let you do harm."
+
+The words hung in the air.
+
+"A test that is impossible to fail is worthless," Shu Yue ground on. "I would only have stopped you short of permanently maiming a mortal. If you had failed, the victim would have suffered for it. Because these arts are cruel, and if you integrate them without understanding their cruelty, it will taint you in turn."
+
+Sixiang still glowered at them, but half turning, they looked at Ling Qi's expression and sighed.
+
+"I thank you, teacher, for the lesson."
+
+Ling Qi stood up, and she looked at the crouching cultivator in the eye. Shu Yue regarded her with a hard gaze, and Ling Qi felt the elder cultivator's attention piercing through her. It felt like being a gem scrutinized for flaws under a jeweler's glass.
+
+"Such a difficult student. You are not meant to detect the hidden test before it is fully presented." Shu Yue huffed. It was a raspy sound, like dead leaves scraping over each other. "But your resolve was true."
+
+"It deflates some of the drama, but even if it cost me further lessons, I would not deliberately hurt an involved person just for a training exercise. Not purposely."
+
+"And that is why you pass regardless."
+
+"Should I not still practice on actual phantoms?" Ling Qi asked.
+
+"If you wish, but it need not be here. In truth, you shall get as much benefit from the mental exercise of mapping out your manipulations while observing a target. I cannot give you true practice at affecting a peer. Given your resolve, you should seek volunteers from among your companions for that."
+
+The spars with her fellow retainers could serve that purpose. She could also arrange training exercises with the soldiers of Shenglu, green as they were. Was that really volunteering?
+
+She shook her head. Today was not one for meditating on the concept of consent and its relation to choice. That was probably a whole meditation session and dive into the depths of the mind on its own, and she did not have the energy for that now.
+
+Sixiang slung an arm around her shoulder, and gave her a squeeze. It was improper, but she really didn't care for propriety at the moment. She reached up to clasp Sixiang’s shoulder as well while they turned for the exit of this place. Shu Yue rose to follow them.
+
+As the door opened, Ling Qi caught the scent of roses. Out there in the dim, cramped streets, a woman sat by a fountain that had not been there before. It was humble and made of simple stone. A trickle of cloudy grey water fell into the rippling basin below.
+
+Diao Linqin was still clad in her wedding dress, and radiance crawled along its hems, searing even the idea that the filth of this place could touch her.
+
+"You are too light a taskmaster, Shu Yue," Diao Linqin chided.
+
+"I did not think the Lady Diao would have a mote of attention to spare, this night of all nights," Shu Yue deflected.
+
+"Only because we are in the final stages of ceremony." Diao Linqin turned from her contemplation of the twisted nightmare facsimile of the rootways which stretched out before her.
+
+Ling Qi's breath hitched as the sovereign's eyes fell upon her.
+
+"You have continued training those eyes and ears."
+
+"They are vital to me, and what I wish for. I cannot bridge gaps I do not clearly see," Ling Qi replied.
+
+"You have left room for disparity, at least, and cleared yourself a way to dehumanize and dismiss those you wish to make enemies," Diao Linqin observed. "So your errors are not irreparable. Do not sand that away from yourself. Not all points of view deserve equal consideration."
+
+"Prime Minister, I have felt your Way. How can you make such statements? You are couching it wrongly, too. I need to be able to harm my enemies, but I also need to understand them to know why they are my enemies. You would know most of all that enemies are still people."
+
+"I do. It is unfortunate that I must hurt myself as well as my enemy when I kill them. Girl, I am only prodding you to avoid that path. You mistake my chiding for dislike."
+
+Sixiang took half a step forward, as if to say something, only to keep their peace as Diao Linqin fixed them with a look.
+
+"Love must have limitations to have meaning. An all-encompassing understanding understands nothing at all. It is only a lens for others with the ability to be selective to use. Consider how you shape that selection."
+
+Diao Linqin glanced over to Shu Yue. "Are you teaching the three poisons arts suite, or allowing her to reinvent them on her own?"
+
+"Can you not tell by looking?" Ling Qi grumbled.
+
+Diao Linqin arched an eyebrow, communicating, “Would you like me to?” without a word.
+
+"Her own construction. Today, we were focusing on a combat useful technique to the perception art she has been learning from me," Shu Yue answered.
+
+"I see. The name of the technique?" Diao Linqin asked.
+
+Ling Qi pursed her lips. She often came up with whimsical names, even with something as serious as the summit location. Well, a little wordplay was just good sport.
+
+Ling Qi closed her eyes for a long moment, feeling Sixiang coming up beside her. She didn't feel like being playful with this one.
+
+"The Weight of Want."
+
+Simple and without flourish. She'd considered a reference to thievery, like the names of the other techniques in this art of hers, but no, this name was fitting.
+
+Diao Linqin hummed, and Ling Qi was made uncomfortably aware of something under the pressure of the sovereign's presence. It was not something she felt often; she was most familiar with it as the aftereffects of some of Sixiang's techniques, but she had drunk a good bit of wine tonight, too. The curling vines and razor thorns and vibrant petals wavered and hazed across the surface of her perceptions. Diao Linqin was drunk, as much as a high cultivator could be when it was a state that could be dismissed with a bit of concentration.
+
+That didn't make the examination of her eyes any less piercing. It merely rendered the crushing, suffocating pressure a little softer.
+
+"Mn, that conviction. You will find loopholes in it. You will have to. Neighborliness… Not the first time I have seen that conception of enemy and ally. What will you do, I wonder, the first time one you designated 'protected' turns against your will? You rest on easy platitudes about choice, but that is a fragile foundation. You will infringe on the choices of those you value. Best to maintain a frame of justification that will not break you," Diao Linqin advised.
+
+"It is nothing such," Ling Qi rebutted. "If you love someone, then you will respect their decisions, even if you believe them wrong."
+
+"Love…" the elder cultivator mused. "I loved my daughter, even as my thorns splintered her organs. Then again, I loved, too, the three hundred and seventeen mortals and low cultivators who lived in her accursed gallery of flesh and bone and the hundreds who did not. I loved the forty-seven soldiers and rebels who died aiding me in her destruction. Just as I love still each of the others I have slain. Each was a complete being, one with thoughts, wishes, hopes, and dreams, and each was cruelly broken. Do not speak to me of love, child. You are a cultivator. The day that one you love comes to oppose you in a way you cannot tolerate is inevitable, if you dare climb these steps. As you are, that moment will break you, and that girl can ill afford you to crumble."
+
+"I do not like you," Ling Qi confessed, and it stung her that she had no other rebuttal. It was true that to treasure choice did not mean letting others do as they wished, but neither could she deny that she had never let her mind dwell on that exact scenario.
+
+Diao Linqin let out an inelegant snort of laughter. "Regardless, I am certain you will not make the same mistakes that were enacted here.”
+
+And then, she was gone, as if she had never been, leaving only the trickling of the dingy fountain behind.

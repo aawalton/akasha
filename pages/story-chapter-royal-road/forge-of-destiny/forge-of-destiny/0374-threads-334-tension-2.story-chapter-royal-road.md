@@ -1,0 +1,161 @@
+---
+id: 1261702b-235a-5a78-be16-8b813a46db30
+page-type-slug: story-chapter-royal-road
+title: "Threads 334-Tension 2"
+slug: 0374-threads-334-tension-2
+partOf: forge-of-destiny
+position: 374
+ownLength: 2218
+unit: words
+publishedAt: 2023-09-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1343170/threads-334-tension-2"
+royalRoadId: "1343170"
+---
+
+“Will you agree that we should at least hear the matter from the other side?” Ling Qi strode forward, leaving the medical tent behind. Her longer stride carried her a bit faster than Jin Tae, who had to hurry to keep up.
+
+“For the sake of thoroughness, of course,” Jin Tae replied. “But I am curious as to what it is that you think could change our course.”
+
+“While I agree that the White Sky soldier striking her was an escalation, she should not have laid hands on the other worker, no?”
+
+“Overly permissive. I would expect one worker to stop another if the other were doing something dangerous, especially if a verbal warning was ignored.”
+
+“Misunderstood,” Ling Qi corrected. “It was my mistake in not considering that there would be so much trouble in communication.”
+
+It was easy to forget that not everyone was like her, a third realm. Learning new languages was a significantly more difficult endeavor for lower realms.
+
+“As you like,” Jin Tae said dubiously, following her off the dirt path and onto the paved road. “But although I am curious what the foreigners will concoct to explain this situation, it does not change the result.”
+
+“What would change the result for you?” Ling Qi asked. “Would anything?”
+
+He considered her question as they walked, moving south toward the checkpoint where the imperial and White Sky camps met.
+
+“A severe enough geomantic malfunction, I suppose. Something which produced mind-altering malice would change my opinion. I would think the many experts available would have noticed an effect so severe though. And if it was so subtle… That would raise the question of how and put the fault somewhere else entirely.”
+
+Ling Qi dipped her head. In Jin Tae’s proposed case, it would be her and her lady’s fault for greenlighting this project without sufficient study that it could cause such problems. “Thank you for acknowledging such a possibility at least.”
+
+“Geomancy may only amplify and soothe. It channels energies. It does not create them. Frankly, Lady Ling, I do not think workers placed under such pressure and conditions need a spiritual explanation for reaching a breaking point and acting foolishly.”
+
+“You’re dangerously close to the conclusion that everyone involved was in a similar pressure.”
+
+“I have never thought otherwise. You may think that I’m hidebound, but the truth is, I understand which side I am on and who is owed my loyalty and protection.”
+
+Ling Qi read what was unsaid. The ministry was concerned that she was less than clear in her appearances on that.
+
+They soon reached the checkpoint, passing through their own side’s security. Ling Qi stopped before the White Sky guards standing on their side of the gate. This checkpoint was symbolic when both sides could bypass it trivially, but symbols were important.
+
+“Emissary Ling presenting herself. I would like to speak with those involved in today’s altercation. I will speak with any of your authorities involved as well,” Ling Qi announced.
+
+One of the soldiers there stepped forward, raising her fist to her chest and speaking in thickly accented imperial. “Emissary Lingchee, this one will send a message. Please wait here.”
+
+Being made to wait was fine with her, but perhaps not to her own side. It was not as if the White Sky could not know that she had already arrived and begun investigating. In imperial culture, one was expected to preempt such requests like this with superior senses. It was considered rude to prevent yourself from being noticed and rude for the other to not notice.
+
+Ling Qi chose to be silent on the matter. She did not think the White Sky thought that way.
+
+The wait was not too long, a matter of some ten minutes, before a guard came back and asked them to follow. Jin Tae, to his credit, did not speak up while they were waiting, having slid his mask down at their end of the checkpoint.
+
+He remained a shadow to her steps as they were led off to a collection of circular hide structures, like Inzha and Rostam’s home, but much less intricate. The medical tent was not too different from the one on their side, save for the strings of herbs and dried reagents hanging from the ceiling, giving it an earthy sort of smell rather than the sharper alchemic tang of the imperial medical tent.
+
+There, the guard with them spoke to someone she assumed was the physician in charge. The man wore a mantle made of fresh leaves and a rough spun brown robe belted with a wide leather band with a huge iron buckle depicting a beast she didn’t recognize. His bushy beard, wild hair, and protruding eyebrows left little of his face visible. He looked the two of them over with suspicion.
+
+“We cannot allow you close to the initiate. His purity is already damaged, and restoring his balance will take time,” the bushy mass of hair said.
+
+Ling Qi understood the words individually, but translated directly, it sounded odd. If she took apart his intent… Purity was referring to something like cultivation. A method which required the user to remain out of physical contact? There were stranger limitations. Restoring the balance was then referring to repairing some deviation in his qi.
+
+“May we speak with the warrior?” Ling Qi asked.
+
+“She is here, but only to cool her head. You may speak with her. Do not pass the white curtain,” the white sky doctor grumbled, turning and stalking back among the hanging herbs.
+
+“I apologize. His mantle is not one suited for speaking,” their guard explained diplomatically. “But it is the most suited for overseeing a place of healing.”
+
+“I understand,” Ling Qi said. “Please show me to your fellow warrior.”
+
+She glanced back at Jin Tae, and though his mask performed its role, she could feel his disapproval. But that she could sense it was only because of her greater cultivation. He was making a significant effort to merely be her shadow here.
+
+They found the woman in question sitting on a bench against the wall of the pavilion, arms crossed with one leg over the other while she tapped her foot. Without the bulky armor and furs, the woman was only a bit shorter than Ling Qi and perhaps half again as wide. Her head swiftly turned at their approach.
+
+“The emissary of the north will speak with you now,” said their guide. “Speak with wisdom.”
+
+Ling Qi gave the guide credit for making the silent “please” attached to those words so clear without saying them.
+
+“I only wish to ascertain the full picture of the event,” Ling Qi said, switching fluidly to the White Sky language. “First, may I ask why you are here in this place? Did you sustain injuries as well?”
+
+“I did not.” The woman met her gaze without flinching. Like Ling Qi had gleaned, she read as freshly into the third realm. “It was decided by my captain that I needed to immerse myself in Koliada’s calm.”
+
+“I think you disagree,” Ling Qi said mildly.
+
+“I was not wrong!” the guard exploded. “We have endured your condescension since the beginning. I have watched my charges' words be dismissed and sneered at, and then, one of your women would lay hands upon my brother, as if she claimed him, disrupting his purity and ruining his ability to commune with the earth!”
+
+“I was informed that the young man was making a dangerous error,” Ling Qi said, not engaging with the rest of the complaint yet. “That could have done much harm.”
+
+The White Sky woman scowled. “I have spoken to my brother. Stopping mid-construction as he was made to do degrades and destroys the value of the materials, and it curdles the water sleeping in the tile to poison the air. I do not know this, but I trust his judgment.”
+
+Ling Qi nodded, letting nothing show on her face. So, two different interpretations of an action’s result, and both artisans felt that their actions were urgent, but there had been no quick way to verbally resolve the problem. It was a stressful environment with both sides feeling growing grievances against each other.
+
+“I see. Please explain more. How was your charge-brother harmed by our crafter’s action? I do not know your method of cultivation.”
+
+The woman looked at her suspiciously. “Geomancers, the ones who read and shape the earth, give their devotion to the Hooded God, the Changer, Master of the Vaults of the Dead. In standing apart from the living, they may see the ways in which men may rightly shape the world. How do you not know this? Your people there hold each other at such distance.”
+
+Because touching other people publicly was just rude in general, Ling Qi thought but did not say. She had seen that the White Sky was much more inclined to physical interactions, at least between people of the same gender.
+
+“And that is leaving aside that my brother is only a young man. Would you allow your brothers to be handled so crassly by a stranger, emissary?”
+
+And then there was that. The guard who had brought her here glanced her way nervously, as if checking to see if she was taking offense. So at the least, she did perceive her compatriot as acting rudely.
+
+“It is unfortunate that our crafter acted with such rude rashness. But neither can I condone you striking one of ours like that.”
+
+The seated guard looked like she was going to retort, but a raised hand from the other guard made her lapse into silence.
+
+“Emissary, do you require anything else here?” their guide asked.
+
+“Do you believe there is anything else relevant to be said of the situation?” Ling Qi asked the involved guard.
+
+The woman grumbled and shook her head.
+
+“Then we will take our leave. One last question. Where was Emissary Khadne during this confrontation?”
+
+“She had been overseeing some matters aboard the skysledge,” their guide said shortly. Ling Qi easily read the implication that these were not matters which could be discussed loud and clear.
+
+However, as they left the tent, the guide coughed into her hand and continued, “Emissary, though they are only my words, I apologize. I understand her upset, but Agata’s action were too much. Emissary Khadne is also upset by this dispute, and not only for our geomancers' disrupted spirit, which, if I understand, is not more severe than your crafter’s injury.”
+
+Ling Qi raised her brows at the admission. She noted the differences in this woman’s armor now, the faint sheen of silver on her helm, the more intricate knotwork on her breastplate, and finer quality of furs. “I see. I would very much like to meet with Emissary Khadne to discuss how we may both make things right.”
+
+The woman thumped her fist against her chestplate. “I will convey these words.”
+
+Ling Qi nodded and resumed her path, glancing toward Jin Tae.
+
+“Well, it seems you have your context now,” Jin Tae commented.
+
+“I do, and I will not blame the woman who was struck. I will blame our failure to run down basic matters of propriety between our people before the project began. That goes for myself and my equivalents.”
+
+“An oversight for certain. However, the escalation shows more on one end.”
+
+“Cultivation-based disagreements are hardly uncommon.”
+
+“And they were strongly discouraged long ago, else the empire could not be.”
+
+“And yet,” Ling Qi said, “I am very certain that our ancestors did far worse than throw a few punches before they were made to settle down.”
+
+“That is not wrong, but it is beside the point. That woman already conveyed that they would take fault.”
+
+“And if I took it at that, I would be the rude and overbearing one,” Ling Qi rebuked. “Perhaps you saw capitulation there. I saw rapprochement.”
+
+“Why you would take the latter when the former is available is beyond me.”
+
+“As you like,” Ling Qi said. “We stop at the meeting hall next. Sir Xuan should have examined it. This will make this dispute less complex if one side or the other is correct about the engineering.”
+
+“It will make the argument of the correct side stronger for certain,” Jin Tae said unhappily.
+
+“Do you truly think the actual truth of the matter is so unimportant?”
+
+Ahead, the partly constructed meeting hall loomed. The frame was mostly up, a large, long hall with spacious windows and a triangular roof worked with tiles carved with alternating cultural symbols.
+
+“It is, like your context, good to know but beside the point. Though swords have not yet been drawn, this is a conflict. I admit, I find you strange, Lady Ling. If you wish to avoid conflict so, why are you so determined to present a yielding face to the world, guaranteeing that it comes sooner?”
+
+He sounded honestly perplexed. Was it because when she spoke her words, he could know she was being sincere in her intentions?
+
+“I do not believe that I am being yielding, only fair and just. Evenhanded impartiality is my lady’s way. A stable and predictable face is better than either cringing or high-handed aggression.”
+
+“How you are perceived matters more than your intent.”
+
+“We will see.”

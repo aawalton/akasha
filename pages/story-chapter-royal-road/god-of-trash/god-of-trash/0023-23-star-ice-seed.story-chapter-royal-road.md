@@ -1,0 +1,169 @@
+---
+id: c569e835-e855-5c14-99e0-83d97fcb3658
+page-type-slug: story-chapter-royal-road
+title: "23. Star Ice Seed"
+slug: 0023-23-star-ice-seed
+partOf: god-of-trash
+position: 23
+ownLength: 3803
+unit: words
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2132976/23-star-ice-seed"
+royalRoadId: "2132976"
+---
+
+Pausing in the center of the square, Rhys extended his mana. He searched the air, hunting out any sign of Tarais’ signature. For a long moment, there was nothing, and then the color of her materialized, brushing the very limit of his senses. He chased after it, leaving the square behind. Not far behind the main buildings, he came up to a large, blank, boring-looking white building with evenly spaced windows placed at short intervals over its entire three-story height. Instantly, he recognized it. A hive of villainy. A pillar of filth. A den of utter depravity.
+
+A dormitory.
+
+Or at least, it had been that way in his college. It was probably different in a school for mages in the medieval era.
+
+Yeah, it’s probably worse, he thought, laughing to himself.
+
+He stood outside for a moment, contemplating how to get her attention. He was used to the building itself; he could count on it for a good couple armloads of trash every few days. But he’d never been inside, and he didn’t know, either, if he should go inside. What if it was a women’s dormitory? He already had Cynog on his case. He didn’t need all the women of Infinite Constellation School out to murder him, too.
+
+A male student passed by and entered the dormitory, thus ending his moral conundrum. Rhys followed him in. The dorm was a pretty familiar layout to him, with narrow white hallways and doors on either side of each hall. Each room held a single aura… for the most part. He didn’t look too closely at the ones that held two or more. They were probably just wholesome study groups, anyways. Good students, focusing eagerly on practice and study.
+
+He traced Tarais’ aura through the dorm to a boring door on the third floor. There, he paused, scanning her room briefly. When he sensed Tarais and only Tarais’ aura within, he knocked.
+
+“Hello?” Tarais pushed the door open, only to frown when she saw Rhys. “You’re still alive?”
+
+“Yep! Do you have time to help me grow some herbs?”
+
+She considered for a second, then shrugged and nodded. “Lead the way.”
+
+They quickly crossed the peak and reached Rhys’ cave in no time. The furniture he’d found ripped up in the storage ring was patched with fragments of robes from the trash. Bright segments of fine fabrics gave the furniture a boho look…at least in Rhys’ opinion. From the look Tarais shot it, she had a much lower opinion of his efforts. He shook his head. She couldn’t comprehend his modern aesthetic.
+
+Around the corner, he already had the plots set up. In his few moments of downtime the previous week, he’d set the scraps of herbs from the garbage into the plowed earth. There was still enough compost hanging around that he’d been able to renew the rich soil around the herbs. Rhys checked his stocks of compost, then sighed. It wasn’t low, but it wasn’t high, either. If he had extra mana after growing the Star Ice herb and the other herbs, he might as well have the compost ready to go. “I’m going to separate out the compostable garbage, if you want to wait for a minute.”
+
+She looked at the trash, then looked at his somewhat ragged furniture and sighed. “Did you drag that out of the trash?”
+
+“Huh? No, no. I found it in a storage ring,” Rhys replied honestly. The storage ring was in the trash, but she didn’t need to know that.
+
+Tarais nodded. “I’ll wait for a moment, then.”
+
+Rhys darted across the trash. He’d grown stronger and faster after his battles with Cynog, not to mention more agile from all the dodging he’d been doing. Now, he darted over the trash, picking out bits of herbs and organic trash, pushing over large lumps with ease and fleeing from collapsed spots before they damaged him. Before long, he had the organic trash separated into his compost pile. He gave the pile a stir with a broken-off table leg, then stood back to think. He had the compost ready to go. He had herbs ready to grow. He had the Star Ice herb ready, too. The pot of soil set slightly aside from the rest of his gear, with the seed buried just enough in the earth to take root. The jug of water Sorden had given him sat beside it, ready to go.
+
+“I’m ready,” he called out to Tarais.
+
+Tarais walked over. “What do you need me to do?”
+
+Rhys pointed. “I need you to stand by the seed with the water. Give it some water at the start, then keep an eye on it and give it water whenever it looks dry. Understood?”
+
+“I understand.” Tarais lifted the jug and poured a little on the seed to start, then stood at the ready.
+
+Rhys took a deep breath. He closed his eyes and took a minute to settle his mana flows and consolidate the mana in his core, then walked over to the trash. Drawing his matches, he once more lit the trash on fire. Mana began to well up from the trash. Rhys sucked it in, pulling it into his core. The mana whirled inside him. For the first few seconds, he could handle it, but then it began to push his limits once more. Just like the first time, though, he was able to use this mana to expand his core. He pulled it all in, filling up his core to its limits, and then some.
+
+The books he’d read on magehood indicated that a larger core was better; well, to be honest, he’d figured that one out himself. Bigger core, more mana. More mana, bigger spells and more power for longer. It sounded like a good idea all along. The only thing the books had really told him was that a bigger core in Tier 1 would also set him up to be stronger in Tier 2, and, if some of them were right, might even influence his absolute upper limit as a mage. In other words: the bigger, the better.
+
+Quickly, he reached his absolute limit. His core stretched until it began to tear, and his mana passages swelled, on the verge of bursting. The pain was more bearable this time, but he did have a higher Pain Resist than last time. Still, he didn’t rely on Pain Resist. When his mana organs began to break down, he lifted his hand and pointed his palm at the Star Ice seed, and sent all the mana flowing through his body, into his palm, and into the seed.
+
+The seed instantly absorbed all the mana he sent its way. It was like dropping a clay ox into the ocean. Rhys acted as a conduit and nothing else, transferring mana from the trash into the seed, only slowing it enough to strip the impurities as he went, and the seed drank all that up and showed no sign of approaching its upper limits. In fact, it didn’t so much as show signs of life.
+
+Rhys breathed narrowly. His whole body was stiff, every piece of him focused on drawing the impurities into himself and the mana into the seed. Breathing deep hurt his overburdened core. The seed continued to drink down the mana without twitching. It didn’t even show an indication of awakening, but simply swallowed up his mana like a black hole.
+
+His brows furrowed. He couldn’t keep on like this. At this rate, he’d burn down all the trash and then burn down the impurities, and he still wouldn’t have enough mana to awaken the seed, let alone grow it to its full size. Is it that I’m not giving it enough at once? He tried to up the rate of mana pouring through him, but his body proved the limit. His mana passages were only so big. His core was already overburdened. If he pushed any more mana at once, he’d break.
+
+I’ll break. He stared at his hand, then clenched it. His eyes shone with new resolve. So what? If he had to break, he’d break! He was trash. If he let himself get held back by his own limitations, he’d never be anything but trash. The only way to break free and become something more, was to push past them. The limit where his mana passages split open? Let them split! The limit where his core began to burst? Let it burst! Pushing himself only as far as was safe, wasn’t pushing his limits at all!
+
+Rhys pushed the pain to the back of his mind. He shoved all his hesitations back and sucked in mana with abandon. His mana veins tore open. His core cracked. Mana leaked through his whole body, coursing through his muscles and bones. It bit into him like poison, eating into his body. Like acid, it seared through his blood and curled its claws into his organs. Instantly, he felt sick. Every piece of him shuddered, on the absolute limit of breaking down. There was nothing safe about this. He treated his body as a piece of garbage and trampled over it as though it had no value. Without hesitation, he pushed so much mana out of his hand that his fingers burned and a hole opened in his palm. Narrow blue veins twisted through his body, pushing at his skin as mana invaded every blood vessel. His eyes flushed mana-blue, as clear cerulean as the sky above.
+
+Mana exploded from him and blasted into the seed. It laid there, dark and dormant. He could sense it, still sleeping. Waiting.
+
+More? Fine! Even though he was already past his limit, and his body falling apart, Rhys pulled at the mana. All that he could draw down from the trash—only to find out that this was the absolute upper limit of what the trash could give him at once. He was already absorbing all the mana the trash put off.
+
+No!  This wouldn’t be enough. He had to do more. More… but how?
+
+His eyes widened. He reached out through his body, scrabbling together the last of his consciousness, and focused on the impurities inside himself. They already stuck in his body; now, he guided them to his core even as more poured in. One part of his mind began filtering them into his core as the new mana flew in, while another part pulled the impurities that had already escaped into his core. Once most of them were gathered together, Rhys once again grabbed two of them and crudely rubbed them together.
+
+Come on!
+
+The impurities ignited. Black smoke billowed up from Rhys, and even more mana exploded into his overloaded system. The blue veins twisting through him gained a second color, a yet more pure, darker blue, and in his eyes, an inner ring of dark blue formed. He grabbed that mana and poured it, too, into the seed, while at the same time guiding more impurities into the furnace in his core.
+
+Tarais stood opposite him, watching him with fearful eyes. He was killing himself. Right in front of her, killing himself. But if she stepped forward, or told him to stop, she’d interrupt the tenuous grasp he had on whatever technique he was using. Then he’d die for sure, and in all likelihood, his core would explode and take her out as well. So she stood there silently, grasping the water and waiting, while quietly saying a prayer for him in her heart.
+
+Rhys gathered up that ultra-pure mana in the wreckage of his core. He guided it in a circle, building up more and more of it until the very flame of his life began to flicker. This wasn’t a limit of pain, or a limit in his head. If he pushed any further, he would die. He knew that as certain as night followed day.
+
+Now. Narrowing his eyes, Rhys fired the mana at the plant. He released it all at once, in one great blast. This was all or nothing. If this failed, he had nothing. He was truly out of ideas, and he could only tell Sorden that he, too, couldn’t grow it. He watched it fly toward the pot and held his breath, urging the seed to grow with his whole heart. If not now, then when? If not this much mana, then how much?
+
+Within the soil, Rhys watched with his mana-senses as the seed soaked up his ultra-pure mana. It sat completely still. Still sleeping. Still waiting.
+
+Rhys clenched his teeth. Even so, he wouldn’t give up. Not until the last flame of trash burned out—
+
+The seed twitched. It trembled.
+
+He held his breath. His eyes widened.
+
+It burst open. A single white root pushed into the moist earth, and a tiny green bud began to unfurl. Almost immediately, it sucked up all the water, then slowed.
+
+“More water! Now!” Rhys shouted.
+
+Tarais jumped. She lifted the bucket and tipped some water into the earth. The seed began to grow again, and this time, the tiny shoot pushed through the earth. Two round green leaves stretched to the sun. Rhys felt her mana senses brush against his as she joined him in monitoring the seed under the earth, and added water every time the seed’s growth slowed.
+
+The seed began to wither. The two little leaves drooped, and the roots thinned. Rhys stared, confused. He was giving it so much mana. How was it withering?
+
+“Too much!” Tarais snapped. “Cut down on your mana!”
+
+Rhys flinched back. He pulled back the flow of his mana, rescinding the ultra-pure impurities mana and using that to reinforce his failing body instead. The sprout stopped withering and started growing again. Its slender stalk grew taller, and a third leaf appeared, while below the earth, the roots grew deep and strong.
+
+Now that Rhys no longer had to overshoot his limits to push mana into the seed, he could focus on healing his body, as well. He drew out a potion and tossed back a big sip, then guided the healing power that unleashed to his core and mana passages. His body was burned and injured, too, but he first needed to treat the source of the damage. Otherwise, his core and passages would keep pouring mana into his body, and he’d be trapped in a loop of damage.
+
+Deliberate Triage 1
+
+His core closed up. His mana passages knitted back together. As they reformed, Rhys had enough extra mental processing power to optimize them, just a little. He straightened out the kinks in his mana passages, and widened the veins. Reforged his core larger than it had been, even if just a little, and with stronger, more flexible membranes. The potion had also added more impurities, which he pushed into the bottom of his core to burn with the rest.
+
+Once his core and mana passages were no longer a problem, he turned his attention to the real problem: the rest of his body. He was riddled with mana, absolutely addled with it. His Pain Resist pushed back the horrifying pain, but he could tell that if he left things as is, he’d be facing long term consequences. At the minimum, a long sickness until the mana naturally left his body.
+
+But when he thought about it, wasn’t part of the process of strengthening one’s body to push mana into it? To imbue his muscles, bones, and even organs with mana, to empower them permanently? Sure, usually that was a long, slow process, or at least one where a safe amount of mana was pushed into the body, but he wasn’t the kind to treat his body preciously. He had the skill Trash Body for a reason. And now that he’d already made his body trash, why not take advantage of it?
+
+He monitored the seed for a moment, but it seemed happy with a steady stream of mana and the water Tarais supplied. It grew slowly but steadily. As long as he continued to supply it with pure mana, it would continue to grow. Putting that duty on the backburner, he turned his active attention to his body.
+
+Trash Body was a passive boost. As far as he could tell, it basically allowed him to trash his body and maintain some semblance of ability over it, even past the limit he should be able to move. When shock, pain, and broken bones should have stopped him from advancing, Trash Body stepped in to push them back and allow him to push just a little further. But there was more to it than just that. He could sense it. He just hadn’t figured out what it was, yet.
+
+Now, he had a slight suspicion, as he turned his attention to his mana-addled body. He pulled the mana forth and weaved it into his body. Usually, enhancing his body with mana was a difficult process, one that he beat his head against. From the back of his mind, a memory welled up. In his mind’s eye, he sat under a waterfall, shoulders freezing from the pounding water. The air was pure, and overflowed with mana. His legs crossed, cold water pooling around his waist. There were no distractions. Any that remained were washed away by the roar of the waterfall. In that perfect setting, he focused on his legs. With all his might, he pushed mana into them. They grew warmer, but that was it. His muscles refused to hold the mana, or enhance themselves from it.
+
+He glanced beside him, peeking for just a second. Bast sat there, perfectly serene. A faint blue aura hovered over his skin, undulating slightly with the flow of the water. Even from where he sat, Rhys could sense Bast’s whole body growing steadily stronger.
+
+“How?” he muttered, in disbelief. What was he doing wrong?
+
+A piece of reed smacked him on the chest. “Focus,” Straw demanded, arms crossed and brows furrowed.
+
+He shut his eyes again obediently and focused once more. Yet, at the end of the session, Bast had advanced by leaps and bounds, while Rhys remained the same old weak him as ever.
+
+But no longer. Here and now, in the present, torn apart by his own foolish actions, he strengthened his body with ease. His trashed muscles drank up the mana he pushed into them and obeyed his will when he directed them to reform. For the first time, he understood how easy it was for Bast to strengthen himself. It was that easy for him! As long as he trashed his body first, anyways.
+
+He snorted under his breath. From the beginning, he’d been unable to advance except through the trash. Why would his body be any different?
+
+His body came back together, bit by bit. The mana cost was immense, but the supply of ultra-pure mana from the impurities was more than enough to handle the remodeling. The parts of his body he didn’t manually reconstruct, he surged mana to Self-Regeneration to force them to heal. That, too, had immense mana cost, but under his current situation, that was no problem at all. Now that he couldn’t feed the impurities’ mana into the seed without overwhelming it, that power had to go somewhere. It might as well go into improving his body.
+
+At the same time, he kept pouring mana into the plant. The plant grew slowly. The amount of mana he’d poured into it was already more than it had taken to grow all the herbs he’d grown last time, and the seed still had plenty of growth left in it. It had put out two slender, long leaves, and a bud swelled atop its stalk, but it was still far from blooming. Tarais stood beside it, monitoring it alongside Rhys, and fed it water whenever its soils dried. Rhys kept the mana going, but the trash was dwindling. He cut back on reconstructing his body to gather the ultra-pure mana inside him instead, preparing to feed it into the plant later. Ideally, he would have simply stifled the impurities and re-ignited them later, but he didn’t know how to stop the burning once it had begun.
+
+As the trash burned down, he started pushing the ultra-pure mana in alongside the mana. He had to carefully limit the ultra-pure mana; after the initial surge, too much made the plant wilt. But just enough, and it began to grow at a wild rate. The bud swelled up. The two leaves trembled, growing darker green. The stalk thickened, toughening in order to carry the heavy bud.
+
+The trash burned out. Rhys could no longer absorb mana from it. All he had were the impurities, and the ultra-pure mana. He fed that carefully into the plant, urging it to push its limits and finally bloom. The bud grew and grew. Traces of color appeared behind the green leaves that engulfed it.
+
+Come on! Rhys clenched his teeth. The ultra-pure mana ran down. The bud shuddered. One after another, the leaves peeled off, but the bud remained stubbornly furled. The black smoke petered away. The last of the impurities burned out, leaving a few lumps of the harder, darker impurity in the pit of his core. He poured the mana into the flower, willing it to bloom. Just a little more. Just a little more—!
+
+His mana ran dry. Rhys lowered his hand. He and Tarais both stared at the bud. It sucked in the last of the mana and sat there, trembling slightly. The petals strained outward.
+
+“Oh?” Rhys stepped forward.
+
+Tarais stared, holding her breath.
+
+The bud settled in. The trembling stopped, and the petals went still.
+
+Rhys sighed. He shook his head. “Oh well, maybe that’s close enough. Let’s take it to Sorden.”
+
+Tarais shook her head. “After all your hard work…”
+
+“It’s fine. I’m used to failure,” Rhys said. He was used to failing, but he couldn’t help but feel a little bad about failing Sorden. She’d trusted him, and he’d let her down. His failure didn’t just impact himself, it impacted Sorden, too. He turned away, running a hand over his hair. Maybe with a mana potion…? But would the mana be pure enough?
+
+Tarais gasped. “Rhys!”
+
+He turned back around.
+
+The flower unfurled, blooming beautifully in the pot. White petals traced with dark blue spread under the sun. A faint cold wind blew, and Rhys swore he saw ice crystals swirling around the heart of the bloom.
+
+“Holy shit! We did it!” Rhys said, punching the air. He snatched up the pot and ran off. “Before it withers, let’s get it to Sorden!”
+
+Tarais nodded. She set down the water and raced after him, both of them hurrying toward Sorden’s classroom.

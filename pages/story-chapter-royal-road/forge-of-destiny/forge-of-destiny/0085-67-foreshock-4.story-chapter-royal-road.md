@@ -1,0 +1,143 @@
+---
+id: 70d396fb-3eb3-5b40-8486-0bb2e70fa9ba
+page-type-slug: story-chapter-royal-road
+title: "67-Foreshock 4"
+slug: 0085-67-foreshock-4
+partOf: forge-of-destiny
+position: 85
+ownLength: 3413
+unit: words
+publishedAt: 2021-03-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/654823/67-foreshock-4"
+royalRoadId: "654823"
+---
+
+Ling Qi’s eyes snapped upward, a familiar feeling of pure expression grabbing her attention. Rain began to pour, and deep within the darkening clouds, thunder rumbled, indistinguishable from the beat of drums. Above, the cloud-wracked sky tore open, unleashing a torrential downpour.
+
+None of that noise succeeded in muffling her mournful and lethal melody. However, the song that echoed down from those clouds was not drowned out as well, and it clashed with hers. Deep, guttural, and strangely resonant, the foreign words wove a song of storms and violence, determination, and retribution. Against the pouring rain, the ragged leading edge of her mist flowed and deformed as if it had met a mountainside, and Ling Qi felt her qi straining against the will that suffused the rain.
+
+Through the storm, she spied her last opponent. Tall even for a barbarian and with a thick cloak of black and grey fur around his arms and shoulders, the tribesman’s mask was more ornate than the others, and his helm carried a plume of crimson horsehair. He rode a powerful stallion whose black hooves sparked electricity as they struck the air. In his hands was a two-stringed instrument, a primitive erhu. Even as she took it in, he drew the bow across the string, a sharp note ringing out in time with his voice, and lightning flashed. The men fleeing her mist let out a ragged cheer, raising their voices to join his refrain.
+
+This man… Was he a shaman? It did not seem quite right, but this was probably the overall commander of this band of raiders.
+
+She felt Hanyi shift on her back, no words needing to be spoken as her spirit shifted from the enticing melody of the lonely maiden to the cold aria, layering the effects with Ling Qi’s own. Their voices echoed from the depths of winter until the very air itself around her stilled, made lethargic by the cold. The high, cold song of the frozen vale met a song of stolid, unbreakable mountains stretching up into the infinite sky.
+
+There are only endings here. Flee. Flee and live. Winter is here. The warmth of the hearth is not for you.
+
+Unbroken, we ride. Spawn of dragons so filled with pride, you will see that you still bleed. Your peace is a lie and your safety a ruse.
+
+Brigands out in the cold, so far and alone. Ragged breaths and frozen lungs await, a death so lonely and far from home.
+
+Let winter rage and rage, we together and you alone. Ten strike as thunder, and one hundred the storm.
+
+There were no words - she could not speak the tribesman’s tongue and the noise of battle would have drowned them out regardless - but music was speech without speech, without the impurity of words. His song was foreign to her, but some understanding was inevitable, and she was certain that it was the same for him.
+
+Ling Qi dove into the teeth of his rain, downpour and fog mingling and clashing chaotically as their techniques struggled against one another. The twang of so many bowstrings rung in her ears like the thunder above, arrowheads charged with heavenly lightning fell like raindrops.
+
+As lightning flashed and thunder rumbled, she bore down on one of the two raid leaders, and in the space between raindrops, she vanished from sight and memory alike, a forgotten phantom. She had not yet fully mastered the Ephemeral Night’s Memory art, but its technique was enough for this.
+
+The unfortunate third realm war leader she had chosen could not so much as raise his arm in defense before she played the Hoarfrost Refrain, her voice joined with the young spirit on her back. She felt the man’s flesh blacken and freeze, and his mount screamed in pain as veins froze and ruptured. Yet her attack did not go without reply.
+
+The twang of strings was overlaid with a deepthroated song, and Ling Qi found herself buffeted by a tempest, tossed like a leaf on the wind despite her efforts. Emerald light encased Hanyi and Ling Qi both, keeping them from the worst of harm, but they were disoriented by the storm. Men drew back bows and for the first time, the galloping horses of the main force slowed, and the twang of bowstrings echoed with the furious cries of their steeds. Ling Qi did not react in time as half a score of arrows shrouded in shrieking wind and crackling lightning struck as one.
+
+She felt cutting wind slice across her cheek and a bone arrow slice through her gown, cutting through flesh and rebounding off the bone of her ribs, and she threw up a hand, a bolt of lightning striking her palm as she desperately threw her qi into a veil of rippling green that shimmered across her and Hanyi both. The combined force of the tribesmen’s techniques flung her back a hundred meters and more through the pouring rain as they regrouped. She glared up through the storm at the musician, feeling his strength flowing through the rain, resonating from each voice raised to join his chant.
+
+Ling Qi felt the state of the battle overall as well as she could. Far in the distance, she spotted her counterpart bounding through the trees, slumped on the back of a bounding stag. Blood soaked through his pants on one leg, and he clutched his bow tightly in burnt fingers. There were two second realms chasing him and a third realm lagging behind, but even they were half-heartedly doing so.
+
+In the village, she spotted the soldiers fighting. No longer disorganized and desperate, small squads were arranged along the walls and the tunnel mouths, batting away harassing arrows while their own archers returned fire at circling gliders. Shen Hu stood near the center of the conflict, his qi spreading in ripples through the earth and fields and up through soldiers’ feet to stiffen their resolve and endurance. Sharpened shards of rock crystal fired into the sky in endless volleys, preventing the gliders from approaching the village proper, and the few fires that had started within the walls were already being quelled.
+
+The village was safe, but all around, farms burned, unhindered by the rain, and crops withered. The first realms she had scattered were wreaking havoc across the abandoned fields, and the torrential downpour flooded out neatly laid ditches and dikes.
+
+So fragile, the rain seemed to whisper, full of self satisfaction. Ling Qi scowled up at the musician, recognizing the taunt for what it was. The tenor of his song was changing. Gliders spiralled upward on thermals of wind rising from the fires and scattered into the clouds. The raiders were retreating, or so it seemed. It looked like she had succeeded, so why did she feel so frustrated?
+
+Looking north, there was not yet any sign of reinforcements. Unless things were far more dire than they seemed, the Sect should be mobilizing, but they were on their own for a while yet. She glared at the retreating rainstorm, discontent welling in her heart at the inconclusive outcome of the clash. The taunt hung on the wind, stinging her pride. She knew what she wanted to do, but Commander Guan Zhi’s words of warning stayed her pursuit. She turned her eyes away and began to soar in a curving line out and away from the village.
+
+“Eh, Big Sis, where are you going?” Hanyi asked, still clinging tightly to her back. The young spirit was unharmed, Ling Qi’s defensive techniques enough to keep her safe from any collateral.
+
+“They’re retreating. That’s good enough for now,” Ling Qi replied. The wound in her side throbbed, but the blood was already clotting, blood dissipating into black mist. “Talk later, Hanyi.” The words came out more clipped than she had intended.
+
+Hanyi let out an indignant huff, but for once, she didn’t talk back as she dissolved back into Ling Qi’s dantian.
+
+<You’re doing the right thing,> Sixiang whispered in her thoughts.
+
+Ling Qi wasn’t so sure, but she appreciated Sixiang’s vote of confidence. Her eyes fell on her target, the other scout officer. The landscape blurred beneath her as she flew toward his position, and the last of his pursuers peeled off, wheeling away to follow their fellows in retreat.
+
+It took her a second to recall his name, but they had spoken briefly on the way here. “Wei Ping!” she called, and her voice carried through the mist, echoing on the wind and through the lingering melody of her song. As her mist engulfed him, she wove her qi so that it did not hinder his sight, and the young man’s eyes lit up as he saw her outstretched hand.
+
+She swooped low, and he reached up, clasping her forearm as the stag he was riding dissolved mid leap, its qi streaming back into his dantian. “My thanks, Lady Ling!” he called, hanging tightly to her arm as she began to make the turn back toward the village.
+
+“Officer is more appropriate right now,” Ling Qi said dryly. Although her eyes remained on the village, shimmering silver orbs in her robe watched the retreating shadow of the barbarian storm.
+
+“Perhaps,” he grumbled. It was almost comical, seeing him dangling from her arm like a leaf fluttering in the high wind. “I hope you will accept the sentiment regardless. Without your intervention, I do not think my path would have opened. I owe you a debt.”
+
+“It is nothing,” Ling Qi dismissed, burned and ruined farms flashed by beneath them. Ahead, the walls of the village seemed terribly small. “I was only performing my duty.”
+
+“All the same, my words remain,” he said stubbornly. She glanced down, studying him. Wei Ping was an average sort, handsome as most cultivators of the third realm were, but little about him stood out to her. Still, she had just been forcibly reminded that even first realms could be relevant on the field of battle. It seemed foolish to dismiss his gratitude.
+
+“I will accept them then.” She had an odd sense of deja vu, as if she had engaged in a similar exchange before, but she shook it off. It was difficult to think about politics, surrounded by devastation.
+
+By the time she arrived near Shen Hu, her mist was beginning to fade away, mingling and dispersing with the smoke from burning fields. Shen Hu stood upon a patch of bubbling mud some hundred meters outside of the village’s gates, his hands clasped flat together. His hands and forearms gleamed with a shell of black diamond. Ling Qi could sense his qi thrumming through the earth, as well as that of his spirit beast. It suffused even the clay brick wall which surrounded the village proper, flowed through the soldiers who manned the walls and who were withdrawing in wary packs from the fields.
+
+“You’ve gotten even more scary,” Shen Hu commented as she sank down toward the earth in front of him. His half-closed eyelids fluttered like a person in the midst of a dream.
+
+“I will take that as a compliment,” Ling Qi said with a touch of fatigue. As they neared the ground, Wei Ping released his grip on her arm, dropping the last few meters and landing gingerly on one foot. “Your techniques have evolved as well.”
+
+“Decided being a duelist wasn’t as important, Tournament’s over,” he replied. He still sounded distant and distracted. She could see why. Three great rings of stones orbited the perimeter of the village, some the size of a man’s heads while others were the size of a fist or even mere pebbles. She could sense the anticipative energy in them, quivering with the impulse to react and punish attackers.
+
+“An impressive technique.” Wei Ping grimaced, glancing toward the walls. “I feel somewhat inadequate if I must be honest.”
+
+“Wouldn’t have had time to start evacuating without your warning,” Shen Hu disagreed.
+
+“I would not have been here either,” Ling Qi allowed. “Speaking of which, the other village requested aid too. I think I should go and aid them as well.”
+
+“Then go. Everyone is inside now,” Shen Hu said. His slack expression grew dark. “I will not break.”
+
+It was that kind of attitude that worried her, Ling Qi thought irritably. She remembered well the outcome of that awful dream. Her stomach churned with worry. Worry that the barbarians would return here. Worry that Zhengui and Xiulan were in mortal danger. Worry that she could end up leaving another village to die.
+
+“Do not tarry on our account, Officer Ling,” Wei Ping said, moving gingerly toward the gates. “You are among the swiftest of us, and I cannot imagine the barbarians could have slipped very much more around here without alerting the Sect as a whole.”
+
+Ling Qi felt a moment of indecision but then nodded sharply. “I will check the northeastern village first then. Please let any messengers know my position.”
+
+“We’ll do it. Stay safe,” Shen Hu replied.
+
+With no more time to spend on pleasantries, Ling Qi flew.
+
+Swiftly, the walls of the village vanished behind her, and the wind shrieked with her passage. Only the knowledge that more fighting likely lay ahead kept her from pouring on more speed through her techniques.
+
+<Why aren’t we going to check on Zhengui?> Hanyi asked quietly.
+
+Ling Qi paused before answering. “Because he is strong enough. I have to trust him.”
+
+Ling Qi might not care for anyone in this northeastern village personally, but some small part of her, the part that sat up and listened when Cai Renxiang spoke of duty, would not be satisfied with leaving them to potential death. Perhaps it was arrogant, but she knew Zhengui’s strength, and she knew Xiulan’s strength. She did not know the strength of the disciples stationed there.
+
+<I don’t care about them though,> Hanyi sulked.
+
+<Not a whole lot of good options,> Sixiang chuckled weakly. <I hate this though.>
+
+Ling Qi dipped her head in acknowledgement of Sixiang’s words. The muse was not a creature of violence. Even Ling Qi, with her blood no longer pounding in her ears, just felt tired and disgusted.
+
+Ling Qi breathed deeply, taking a hold of her qi and diffusing the dense energy. A moment later, the shrieking wind stopped as she dove into dancing shadows of the canopy below. As she began to approach the village, Ling Qi found her fears and hopes alike unrealized. The village was very much not safe. Smoke rose from the fields and homes scattered throughout the valley, and the silhouettes of gliders and horsemen circled in the sky, raining arrows down upon the village’s defenders. However, the concentration of force was low in comparison to the band of raiders she had faced at the northwestern village. She felt only a single third realm here, high in the clouds, and could sense the web of energies resonating between him and his subordinates.
+
+Of his subordinates, there was only a little over a score of first realms and a half dozen seconds scattered around the perimeter of the village. They hemmed in the soldiers within the village, preventing them from aiding the people she could still feel out in the fields, hounded and harried by barbarian gliders. The soldiers of the Sect fought back with discipline, but they were outnumbered with only two full squads manning the walls and returning fire. She could not feel the qi of her fellow officers anywhere, and that was more than a little worrying.
+
+Hidden in the shadows cast by the dark clouds that churned overhead, drizzling a miserable rain, Ling Qi considered the scene. She could feel the presence of other soldiers and scouts scattered far away. She could imagine her fellow scout officer falling, caught by a sudden concerted attack while on the outskirts, but could the disciple manning the village have really fallen so easily too?
+
+Either way, she needed to even the odds and scatter the barbarians before she could investigate, and she had learned better than to go openly in doing so. There would be no pride here. Ling Qi darted out of the shadows, invisible and intangible, leaping from tree shade to glider shadow. She spiralled up into the sky, using the barbarians themselves as stepping stones to rise higher and higher still until the clouds themselves could swallow her presence.
+
+Swiftly, she closed in on the barbarian raid leader, whose mount cantered impatiently beneath him as he observed the battlefield. The tribesman was flanked by two second realm riders, but these were not so prepared as their fellows in the other raid., As she slipped silently into the leader’s shadow, there was no response. There wouldn’t be one if she had anything to say about it. She had neither the time nor the inclination for mercy.
+
+In her thoughts, Hanyi giggled in anticipation, and Sixiang let out a weary sigh. The masked tribesman, sitting tall on his bloody maned mount, could only flinch as she materialized behind him, already playing the first notes of the Refrain of deepest winter. It was the howl of a blizzard and the crumbling of a glacier wrought into sound, and it struck the three tribesmen with titanic force. Unable to react, the scream of one of the two second realms died in his throat, and he and his frozen mount fell from the sky like a glittering sculpture.
+
+The other second realm clung to the frozen mane of his mount, skin blackened and burned by the cold, but he managed to wheel to face her along with the leader just in time to catch the echo of her song sung by a younger and higher voice. Hanyi’s refrain lacked the raw force of her own, yet they still flinched back, drawing up their qi in panic to defend and ward off the chill from worsening the icy qi already creeping into their veins.
+
+A single sharp note parried the rearing hooves of the second realm’s mount, hurling the second realm and his mount back with the force as her singing blade emerged from the cloud, forcing the raid leader to desperately parry it with the curved blade he drew from his saddle. His horse cantered backward, trying to wheel and gain distance, but Ling Qi now knew better than to allow that to happen. Against her fellow Imperials, distance was her friend; against barbarians, it was the opposite.
+
+She charged, and a brief thought had Hanyi laughing with glee as she leaped off of Ling Qi’s back on a gust of icy wind, her arms outstretched. Ling Qi had only a moment to see the injured second realm let out a horrified scream as Hanyi embraced him and sang of a warm death in the midst of winter snows. Ling Qi blurred back into shadow just as a bolt of heavenly power lit the clouds. The crackling meter-wide bar of actinic light was blinding, but it served only to burn an all too brief gap in the formless shadow that Ling Qi had become mid charge.
+
+For the second time, as she grasped the man’s shoulder with her hand, she sang the silence of the End and watched the man’s wild eyes freeze behind his mask. She tried not to wonder at what difference, if any, there was from the last time. Letting him fall away, she swooped back, scooping Hanyi from the back of the panicking horse whose rider was no more. She did not look at the hollow and mummified features visible behind the second realm’s  half-shattered mask as Hanyi dissolved, returning to her dantian. She was not done yet.
+
+Ling Qi raised her flute back to her lips and once again began to play. It was no technique, merely a flexing of her power. The clouds tore apart, letting in the afternoon sun, and the sharp threatening notes of her song drew every eye to her where she flew above the falling remains of these tribesmen’s leader.
+
+If they had not felt the brief battle before, they could certainly see the results. Beneath the churning in her stomach, Ling QI felt a certain cold sense of satisfaction as she heard the ragged cheers of the Imperial soldiers and heard the cries of alarm from the tribesmen.
+
+With her fur-lined cloak billowing in the winter wind, Ling Qi descended to drive the enemy from the field.

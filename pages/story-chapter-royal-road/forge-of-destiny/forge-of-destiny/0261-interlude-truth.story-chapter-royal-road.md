@@ -1,0 +1,115 @@
+---
+id: 6f351e3c-41a0-53ef-8a6c-f3a4739a6de3
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Truth"
+slug: 0261-interlude-truth
+partOf: forge-of-destiny
+position: 261
+ownLength: 1805
+unit: words
+publishedAt: 2022-06-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/936879/interlude-truth"
+royalRoadId: "936879"
+---
+
+You are Cai Renxiang, and truth scourges your mind.
+
+The white and gold threads of Liming, your minder, your shield, your bones, hang in the air, glittering in the crackling firelight. You sit stiffly upon a plush divan in a light dressing gown, and the sensation of dead, lifeless thread makes your skin crawl. But it is a small pain compared to the agony as fingers wrought of flesh harder and more unyielding than mere steel plunge into Liming’s fabric and emerge with glittering threads of soul clinging to painted nails.
+
+Cai Shenhua, Duchess of the Emerald Seas, sits casually on the divan beside you, wrapped in her own flimsy evening shift. Her hair falls loose and unstyled around her face. She hums a soft tune as her fingers dance, stitching and severing threads of light while Liming twitches and growls. You hold back your own scream with the ease of long practice.
+
+You sit in a room that should be cozy and comfortable. Warm and soft colors adorn the room, rather than stark white and gold or bold crimson of the Cai colors. The fire that burns in the hearth is precisely tuned, neither too hot or too cold nor too bright or too dim. On the table in front of you sit a softly steaming tea kettle and plates of light and sugary treats and snacks, the sorts that a child might be allowed to indulge on a festival day. A weiqi board and other games and entertainments are packed onto the single shelf across the room. So it has always been when Mother called you.
+
+No one has ever touched the refreshments. They have never touched the games.
+
+Once, when you were very young, you had believed that they were there waiting for the day that you were strong enough to tolerate Mother’s presence. Some part of you still wishes to believe that.
+
+Another part, born here at the Sect, wonders if the radiance that clothed itself in a woman’s flesh only knew the shape of maternal affection with nothing of context or reason. She wonders if these actions are from a ghost mindlessly repeating the labors of life.
+
+“The damage is not so bad.” Your mother’s voice, throaty and rich, pounds into your ears like driven nails. Your skin burns. It is better now. You are stronger now. Your own light no longer threatens to gutter out before the firestorm. “An interesting interaction though, this strange qi that clings to your wounds. You think it came from the sky lights, darling?”
+
+“Yes, Mother,” you say, keeping your eyes fixed ahead. You are stronger, but mastering the tremble in your voice still took work. Liming writhes under your mother’s hands. “That matches my observations. The problem occurred only the night after our encounter with the ice spirit.”
+
+“I am not pleased that your retainer was forced to enter your mind in such a way,” Cai Shenhua comments idly. A seam tightens, and Liming shrieks.
+
+“Your humble daughter can only apologize for her failure,” you say, lowering your eyes. “Ling Qi is trustworthy. She has my full confidence.”
+
+“If she were not, the memory of me she encountered would have reduced her to ash.” Your mother laughs as if over a minor jape. “You have chosen well with that one at least.”
+
+Eyes of unblinking radiance look upon the limply hanging Liming with a master craftsman’s eye. The voice of the spirit in your head is silent. These times are the only times Liming is wholly silent.
+
+The eyes turn upon you, a hand brushes your hair, and steel fingers pierce bloodlessly into your flesh in the same way that they plunged into cloth. It is everything you can do to restrain the flinch as radiance and truth invades your thoughts further, light penetrating every crevice of your mind. You feel as Mother observes your memories, flipping through them like a scholar thumbing through a well worn book.
+
+You have no secrets. You never have. Not from Mother. You know in speaking with Ling Qi and with Gan Guangli that the average cultivator retains some sense of privacy in their innermost thoughts. You have heard idle conjecture about how Mother’s truth might be twisted around or bypassed. You have, in rare idle moments, wondered what that would feel like to believe in such a thing. Mother’s light pierces all cloaks, and nothing can be hidden from it. Not in her direct presence. You have changed a great deal in this last year. Your thoughts and choices have shifted little by little.
+
+You await censure.
+
+Mother hums to herself, shears of spirit combing through your spirit. They trace seams and thread, but only a few stray snips send the expected pain burning through your nerves. They withdraw.
+
+“Turn. Give me your back, Renxiang. You really should take better care of your hair. It is your best feature.”
+
+You obey without thinking, drawing your legs up to sit cross-legged upon the divan as a glittering crystal brush materializes in her hands. The tines touch your scalp, and the pain is almost nonexistent compared to the two radiant lights still burning into the back of your head. The reflexive apology does not come to your lips as it should. Instead, something wells up in your chest, hot and helpless and chaotic, an unfamiliar emotion that you almost mistake for Liming’s return.
+
+Your dress hangs silently from the frame.
+
+“What do you want from me?” The voice that speaks, tiny and afraid, is hardly recognizable as your own.
+
+The brush pulling through your hair stills, the teeth like a dozen knives pressed to the back of your neck. The radiance burns, and it is all you can do not to break.
+
+“Hoh, it is not like you to question me, Renxiang.” Your mother’s voice is warm and teasing, but there is a blade in it all the same.
+
+“You have seen me, Mother,” you say quietly, eyes squeezed shut against the blinding light. “You know of my failures and deviance.”
+
+“Do I?” she muses, and the brush pulls again through your hair as if nothing was wrong. As if you could not feel her peeling you apart thread by thread. “Speak of them, daughter. Your poor old mother must be growing forgetful.”
+
+She sounds so amused, and never before has that made you feel such anger. Mother cannot lie. So why does she not speak clearly, instead of toying with you like a cat?
+
+“I have failed to find the lessons in your arts,” you say, clutching your own knees in a white-knuckled grip. “I truck with powers and factions you have given clear disfavor. I—”
+
+The words die in your throat. The certainty that you had found seemed so far away. Even now, you cannot speak them: that Mother was imperfect, that Mother was wrong, and that your own path would differ, however little it would be. Not in Mother’s presence. Not at all.
+
+“A good attempt,” said the empyreal light in a voice of gods, all consuming and stripped of the mask of languid humor. “You are not wholly broken. That is well.”
+
+You do not feel the divan under you any longer nor the crackling hearthfire. Colorless radiance is your world, and her eyes burn you. A mountain, a city, a machine of incomprehensible complexity, adorned by a score, a hundred, a thousand eyes from faces of platinum and white jade carved in expressions of fixed emotion, shifting in an incomprehensible pattern of divine order, look upon you. Two eyes are greatest of all, their light overwhelming, portals to a thing of obliteration and beginnings.
+
+SPEAK THE QUESTION.
+
+You are on your knees, hands pressed to nothing. Memory comes. Terrible, unwelcome memory. The loom, the needles, the shears. Scraps of fabric left on the cutting floor, each a piece of a child who saw the truth of heaven and was broken by it. More recent, fleeting like mist in the morning came another memory: an embrace, cool and dark against the light.
+
+And you, Cai Renxiang, ask the question you had never dared to ask.
+
+“Why?”
+
+I DO NOT DECEIVE. MY DAUGHTERS MUST KNOW MY TRUTH. THEY MUST LOOK UPON ME AND KNOW THAT HEAVEN IS WRONG.
+
+You can taste blood in your mouth, coppery and hot, so like that day. The radiance fades, and you are once again in that little room. Mother’s hand rests upon your head, a terrible weight despite the gentleness of her touch.
+
+Mother’s voice tickles your ear, small and human. “Happiness cannot be yours, darling, nor Tienli’s nor any other of my get. Rage is the soul of progress, contentment its bane. You must look upon heaven and see the ugliness that drips from every throne. I can feel your anger, darling, and I have never been more pleased.”
+
+It takes time to blink the spots from your eyes, to swallow the blood, and to hear over Liming’s shrieks of renewed hate. You feel exhausted and hollow.
+
+“I am still doing as you want. You wanted my doubt.”
+
+Your voice sounds dull to your own ears.
+
+“Yes!” The Duchess laughs, her hand patting your head one more time. It is like an iron spike driven into your skull. “You understand, at last, some part of my children’s role. I am pleased indeed. Tell me, Renxiang, you have seen my truth. You have seen my outer self: The Tyrant Progress, the Builder and the Breaker of Thrones.”
+
+These titles reverberate in the air, far more than simple sounds.
+
+“Do you remember, darling, what word it is I bear at my center?”
+
+You are not a child any longer, but the memories of that day are still painful, renewed by the glimpse you were again given at the heart of her power. You see the outer words. Progress. Renewal. Truth. You shudder as you find the last and most true. It is light and fire, rage and yearning. It falls from your lips and the room quakes with the reality of it.
+
+REVOLUTION.
+
+The Duchess stands and looks upon you as you stare ahead, blood trickling down your chin to stain the shift you wear.
+
+“I will continue to break traditions. I will continue to change the world, even as my favor runs dry and the wrath of the people turns against me. Tomorrow, I will make my next step, no doubt angering many across the Empire. I am not sustainable. Something must replace me,” Cai Shenhua said thoughtfully.
+
+You do not answer.
+
+“The thrones of heaven await, Renxiang. I shall look forward to whether it is your hands which topple them.” She laughs, and then, she is gone.
+
+Somehow, you know you will not come to this room again.
+
+You do not know whether to laugh or to weep.

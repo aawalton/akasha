@@ -1,0 +1,125 @@
+---
+id: 84091c63-2711-5de1-8741-04b358e42254
+page-type-slug: story-chapter-royal-road
+title: "Threads 481-Xia Lin 1"
+slug: 0526-threads-481-xia-lin-1
+partOf: forge-of-destiny
+position: 526
+ownLength: 1596
+unit: words
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2718384/threads-481-xia-lin-1"
+royalRoadId: "2718384"
+---
+
+Out under the sun shining through Xiangmen's canopy, and after a good rest, the shadows left clinging to Ling Qi's mind seemed far lighter.
+
+"Does it really count as resting when we just sat on my shore playing weiqi? I didn't even know you liked weiqi."
+
+She didn't have any particular fondness for it, but Cai Renxiang did. Focusing on the patterns of it was a good way of clearing her mind of anything more tangled and complex.
+
+"So, that's your excuse for why you kept losing?"
+
+It wasn't about winning or losing, Sixiang. Cai Renxiang always beat her, too. It was a meditative exercise.
+
+"That twitch you got in your eye after the third game says otherwise."
+
+"Is there something amiss? Your eye just twitched violently," Xia Lin asked her.
+
+"Just my spirit being cheeky."
+
+"... I see? Well, please direct your attention outward. We are here."
+
+Ling Qi huffed. She was perfectly capable of multitasking. She turned her attention to the interior space before them. A knothole nook opened at the base of one of the main branches of the heavenly pillar, wide enough for a dozen horses to enter side by side, but still minuscule compared to the broad base of the branch.
+
+Within the nook were the grounds of the Gold Autumn School. It had a faerielike, dreaming quality to it. Rays of light shone down through pinprick holes in the bark and dimmer lights glowed from lanterns set along the paved stone paths that wound through the gardens. They were well appointed, full of flowers of soothing hues. The school had a two-tiered, peaked roof and sprawled out through its knothole grotto with wings extending into the interior.
+
+In the distance, down the gently sloping path that led into the grotto, on the porch that wrapped around the central building, Ling Qi could see Mei Lanfen, the administrator they had spoken to on their last trip to Xiangmen, waiting for them at the entrance. She felt a brush and pulse of the woman's light papery qi, and both she and Xia Lin let their own pulse in acknowledgment.
+
+"Let's not keep her waiting then."
+
+Xia Lin let out a sigh, and followed her down the path, matching her stride. They soon reached the bottom of the slope and the steps leading up to the porch of the school, offering Mei Lanfen their bows and receiving her own once they were at the proper distance.
+
+"Welcome to the Gold Autumn School, Baroness Ling, Captain Xia," Mei Lanfen greeted. She wore an austere, earth-toned gown chased with threads of gold embroidery that evoked falling autumn leaves. "I am honored that you accepted my humble invitation."
+
+"Of course, Madam Mei. Your students have been such a boon to Shenglu that we of Lady Cai's court are happy to hear what you might have to say, now that circumstances allow it," Ling Qi said diplomatically.
+
+"And I am interested in why you specifically requested me," Xia Lin said more bluntly. "I appreciate the skills of your students, but quartermaster aside, I have had little interaction. That is Lady Cai and Baroness Ling's role."
+
+"It is, but I have some news and a proposal that may interest you," Mei Lanfen replied. "Will you follow me inside?"
+
+They both nodded, following as the elderly woman swept open the doors to lead them into the school.
+
+They did not tour the facility yet, but merely passing through it gave some impressions. Ling Qi knew the Gold Autumn School had more than one facility. There was one further down the trunk, a school for smaller children that was meant to teach reading, writing, and basic sums and to channel young minds toward the ministries. This, then, was the main campus where those who showed some ability, common cultivators, and the children of minor court clans were educated and given some basic cultivation resources.
+
+The classes were small with twenty or so students to a teacher, from what Ling Qi could see. What she saw being taught was behind her now, but all of it was useful.
+
+"Not that behind. Pretty sure I see at least five people at a glance with better calligraphy than you," Sixiang needled playfully.
+
+Was. Behind. Her.
+
+"Sheeesh. Touchy."
+
+There were smaller classes, too. She could feel them up on the second floor as Mei Lanfen led them past the classrooms toward the administrative offices in the back. The whole building had the air of cleanliness that Ling Qi knew Cai Renxiang loved. It was no wonder that the graduates had fit in so neatly under her hand.
+
+"I hope what you see is to your satisfaction. I will provide a full tour later, should you wish," Mei Lanfen offered.
+
+"I would enjoy that," Ling Qi agreed.
+
+"I am not an academic, but it is pleasant to see a place so dedicated to self-betterment," Xia Lin added. "I commend the inwardly focused atmosphere you have cultivated here."
+
+Ling Qi tilted her head. She could taste the meaning of what Xia Lin meant there on the tip of her tongue, but she wasn't exactly certain what she was referring to.
+
+"Ah? Miss Xia noticed? It is true that we foster a calmer environment than the orthodoxy prescribes."
+
+"Orthodoxy? I was under the impression that schools like these were too rare to have set standards," Ling Qi said.
+
+"In the Emerald Seas, that is true," the older woman replied. They passed from the classrooms to the offices now. These were small but well appointed, and from her studies with Meng Duyi, Ling Qi noticed the quirks of architecture and decor which kept the energies of the school circulating, not letting yin nor yang pool too much in one place. "However, there have been some efforts in other provinces. Her Imperial Highness has been offering support to those who meet her specifications. In turn, her specifications are informed by the more developed system in the Alabaster Sands."
+
+"I had heard something of the sort. The Hundred Schools system?" Xia Lin asked.
+
+"Just so. There are more than a hundred, but only those schools that produce the best results for Duke Jin receive support and accreditation," Mei Lanfen explained.
+
+The administrator led them inside her office. It was a cozy sort of room, with the furnishings feeling close in without seeming cramped.
+
+The two of them found seats in front of the dark wooden desk which Mei Lanfen settled herself behind.
+
+"It is a fiercely competitive system. It produces many driven individuals, but I am afraid I find the mindset it encourages among students a bit too…" The educator trailed off, looking toward the window that faced outward to the gardens. "... Familiar."
+
+Mei Lanfen was a survivor of Cai Shenhua's purge of the Hui-run ministries, following her ascent to the throne of the Emerald Seas.
+
+"I have to say, I'm embarrassed to not be more knowledgeable," Ling Qi deflected with a small laugh.
+
+"You are rising fast, but if you do not mind me saying so, Baroness, you are still young. Seventeen years is only so much time for reading, even as a cultivator."
+
+"Particularly when I did very little of it, before the last few years," she said wryly. "I'm surprised you knew of it though, Xia Lin."
+
+"I spent some time speaking to Jin Tae during the summit. We were required to coordinate on security concerns." Xia Lin shrugged. "Conversation sometimes turned to the principles behind our methods."
+
+"I see. I didn't have the time, unfortunately." Ling Qi had many tasks on her plate, and learning more about domestic interests in the empire was only one of them. "We are wandering far afield, I think, Madam Mei."
+
+"Only a small amount. Education standards in the empire are my interest." The older woman chuckled. "It is true that my mind is more on matters of the Emerald Seas. I am very glad that my students are meeting the young Lady Cai's requirements, even so far from the amenities of the capital."
+
+"Some adjustments to that life have been needed," Ling Qi commented. "Some were quite unprepared for the cold."
+
+"I can only imagine," Mei Lanfen replied, amused.
+
+"Little adjustments aside, Lady Cai is confident in the crop of administrators and clerks you have sent us. She has entrusted them with the running of day-to-day operations in Shenglu while we are away."
+
+"I am certain that her trust is keeping sweat on many brows right now."
+
+"Doubtless," Xia Lin said. "I am curious about your proposals. We cannot support more ministry and bureaucratic work until the population grows, but I have no doubt that Lady Cai will keep you in mind. There are very few institutions such as this unaffiliated with any clan."
+
+"There are not," Mei Lanfen agreed. "A poor situation."
+
+Ling Qi tilted her head curiously.
+
+"Here’s the sales pitch…" Sixiang whispered.
+
+"Knowing our quality, I would like to arrange sponsorship from the young Lady Cai. What currently exists between her and the Gold Autumn School is implicit. I would like to see the relationship become explicit. There will be many expanding towns and fiefs in the south in coming years, thanks to Lady Ling's success."
+
+"You wish us to popularize the idea of expending resources on classically trained administrators rather than just making do with the mortals available locally?" Ling Qi asked.
+
+"Nah,” Sixiang analyzed. “Not just that. What's the word… Subsidize? I think she's tryin' to catch Renren's urge to spread her systems around."
+
+"Or rather, you're hoping she might subsidize such a program."

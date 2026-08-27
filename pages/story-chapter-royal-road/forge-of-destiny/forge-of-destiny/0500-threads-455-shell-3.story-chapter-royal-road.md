@@ -1,0 +1,173 @@
+---
+id: 99f7ef58-01e6-5c0c-9ba2-6e5a5182f1f8
+page-type-slug: story-chapter-royal-road
+title: "Threads 455-Shell 3"
+slug: 0500-threads-455-shell-3
+partOf: forge-of-destiny
+position: 500
+ownLength: 2356
+unit: words
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2380601/threads-455-shell-3"
+royalRoadId: "2380601"
+---
+
+Xuan Shi looked at the lights playing through the distorted air. Despite Kongyou’s attempt to be subtle, she could hear the nightmare whispering indistinctly to him. It was deeply tempting to slip into the channel and rebut whatever was being said, but she held her peace.
+
+"When Xuan Shi was very young, his father came to him in the depths of night, and told him that his father  would be going on a voyage. His father never stated that he would return, and instead, twisted his words in a circle around the notion," Xuan Shi began. "It was enough to convince a child."
+
+Ling Qi saw the shadow of a man not too unlike Xuan Shi, taller, lankier, with an ugly scar dragging up the corner of his lip. His eyes were haunted, deep bags beneath them. Nonetheless, the ghost of the embrace she felt in that memory was strong and warm.
+
+"The docks were in an uproar when day dawned. A patrol ship had been taken from the clan yards without a word. This uproar, Xuan Shi awoke to. No one explained the story to a child, but Father had taken it and sailed away into the night without hesitation."
+
+Memories of Xuan’s voices came to her hearing then, whispered words and accusations. The placid tones she was used to hearing from Xuan Shi himself and his kin became rapid and sharp to a child's uncomprehending ears.
+
+Xuan Shi tugged at his collar. "A child does not understand. He merely knew that he was not wanted. Other children do not understand, but they recognize the subtle distaste or concern of their parents."
+
+"And why did they direct that against a child?"
+
+"I was brought to the Slumbering Isles in swaddling, a sea child returned from the voyage. It was not the strangest origin; some voyages last a decade or more. Unlike others though, rumors followed me. My father had been bewitched, or so they said. Captive and broken by a witch of the sea folk during his last journey, he had been rescued, but obviously not in mind, for he fled back to sea. I do not believe this is true, at least not in the spirit it was spoken."
+
+"Yes, but the truth is irrelevant to this story, isn't it?"
+
+Because if it was believed, it was true, at least in consequence.
+
+"It is. Pity may cut as deep as hate, for it still marks the target as outside."
+
+Ling Qi grimaced. Even those who did not look at a ragged child on a street corner with disgust and suspicion still did not really see them the same way they did the clean child tagging along at their mother’s heel. A pitiable child was still different, an outsider to the community.
+
+"That is Xuan Shi's beginning: a child left behind and a child pitied, one who none in the clan quite knew what they wished to do with. The child was encouraged to puzzles and books, just to make sense of his life, and for the sake of kind company, if only on the page.” Xuan Shi added self-consciously, “It was not a life of privation, nor the closed fist, not as you have lived."
+
+"Do not dilute your story by comparing it to mine. Suffering is not a competition."
+
+They strolled out further under the waterfall and through the thundering mists, the pouring water deflected in the air above their heads and scattered away.
+
+Xuan Shi nodded faintly, toying with his collar, the only external sign she saw of the anxiety she could feel under his facade.
+
+"It is difficult to put into words what it was like to always stand at the edge. No voice rejected, but no gaze welcomed. One was alone even among kin, cold before the hearth, and found nothing where one laid their head, and so, the child yearned to seek what lay beyond the horizon. That… is Xuan Shi, who was accepted but not wanted." He spoke thoughtfully. "A child cannot articulate this. One merely knew that they were happy when immersed in worlds that were not this one. One sought without knowing the emotion which was embedded in a page."
+
+Ling Qi had long realized there were different types of privation. What she had undergone was the most primal and basic one, the privation of the body, which in turn, led to the starvation of mind and soul by circumstance.
+
+Yet, one could easily starve the soul, even if the belly was well fed, and the mind well used. She saw shades of this in many places and many times, in those who isolated themselves or were isolated by the choices of their kin, and in time, they built up walls which they crafted for themselves to keep out that killing, spiritual cold. It wasn’t necessarily the wrong reaction to close off the vector from which the hurt came, but she could not help but find it sad.
+
+"That feeling,” Xuan Shi insisted, “is not false either. Even if it comes by an illusion or inspiration, the striving lit in a soul by words is not false."
+
+"No, it is not," Ling Qi agreed. They emerged from the other side of the waterfall, the deafening thunder behind them. "That was my mistake before. I did not see the stories that people tell themselves to drive them forward in the proper light. Or rather, I did not properly respect storytelling in general, and how vital it is to the identities of people."
+
+"That is not the path this one treads himself," Xuan Shi admitted. "To this one, the power of fiction is in creating a vision of what could be, a place to explore ideas a step separate from reality and inspire to the future."
+
+"Meanwhile, I prefer to think of how stories inform perception of the past, and connect people in the present. Both perspectives are needed. So much of my recent thoughts and journeys have been invested in trying to untangle the how and why of how people see themselves and pull on this to find what will make them accept change."
+
+On the yet undeveloped side of the falls, they walked through the rushes which grew from the mud and strolled along the natural paths formed by wind and rain and beasts, following the curve of the lakeside.
+
+"One must believe in the truth of reasoned debate. It was on this that the Hermit King built his following, the circle, the discussion, the push and pull of merits, but it is true that people are never wholly animated by it. Reason and logic are built on the foundations of want."
+
+"What you want will always find its way to be the most logical path, should you be inclined to that sort of argument," Ling Qi acknowledged. "Look at how the support changed in the course of a month. The clans which hardly cared for my summit saw the profit in it, and suddenly, Lady Cai and I have become wise prodigies, guiding the course of the southern Emerald Seas. And as they construct arguments to convince those that doubt, using them again and again, they will eventually come to believe them."
+
+That was another takeaway she had gained from negotiations. Rhetoric was dangerous. It was difficult to argue a position well and not come to believe it by inches. She wondered how much of what they knew about the Weilu and Tsu came to them that way.
+
+"Sometimes, it frightens me,” she continued. “Once you put your words out there, you have so little control of how they spread, how they're heard, and how they're used."
+
+Xuan Shi chuckled. "It is a good problem to have, to be so widely heard."
+
+They stopped by a bend in shore, looking back on the town rising on the other side of the falls.
+
+Ling Qi shook her head. "I suppose it is. Well, I say it frightens me, but as you say, it’s not a bad problem. A world where everyone's thoughts repeat mine would not be better either."
+
+That was the trouble with an insight based on the concept of multitudes. Admitting that your power was limited, your reach finite, your will never absolute was a contradiction toward the nature of sovereignty.
+
+"A story told is passed on and changed. This is…" Xuan Shi paused, looking down at the lake shore. "What is this?"
+
+Ling Qi blinked, looking down as well, and met the blank eyes of one of those strange, soft-shelled turtles that had turned up after the ceremony. "They showed up after Zhengui and Snowblossom Lake entered into a pact together. They're…"
+
+They were such weird, awkward looking things.
+
+Xuan Shi crouched down and reached out. The turtle raised its pointed snout from the water, peering at him, and then dove back into the muddy rushes with a splash.
+
+He sighed. "As friendly as expected."
+
+Somehow, his forlorn expression made a laugh bubble up in her throat. She covered her mouth with her hand and tried to silence it, but it emerged anyway. "Ah, I'm sorry. It's rude—I know you…"
+
+He'd just shared his fears of rejection!
+
+"It is only a base beast with a base beast's fears." Xuan Shi cracked a smile himself. "It’s fascinating to see a new spiritual ecosystem developing in real time… and at your behest. You walk, and the world ripples. Even now, this one finds it difficult not to be pulled under in your wake."
+
+“I'm only a small part of events, and I'm nearly always flying by the seat of my gown," Ling Qi confided. "You have been around me long enough to know this! … I appreciate the words, though."
+
+That someone other than Renxiang seemed to comprehend the magnitude of consequences she saw, stemming from their actions, was both reassuring and thrilling.
+
+"Improvised or not, it changes nothing."
+
+He looked out over the lake, and she felt his hesitation through his aura as clear as ripples from a thrown stone.
+
+"Lady Ling…"
+
+"Ling Qi is fine," she corrected.
+
+"Lady Ling," he repeated, and the emphasis brought her up short. "This one wishes to present his suit. This place is inappropriate, and the official request will be made at the right time, but you have said that I do not need to be reticent."
+
+Ling Qi listened, her heart in her throat.
+
+"With you, this one feels like the horizon is not so far away. With you, this one feels as if his eyes gaze upon a bright night, one that inspires song and poetry. This one—I—do not wish to be a coward any longer."
+
+She hid her hands in her sleeves to hide their trembling. "Are our clans not too far apart? Even if I am a retainer to Lady Renxiang…"
+
+But she already knew the answer to that.
+
+"Sir Zhengui's existence opens this door."
+
+"I have treated you poorly before. I can't say I know where I am going to go. Is that really fine?"
+
+"I only ask to know if you look at this one with any interest at all. If it be not so, this one would know, so that this feeling can be put to rest," he said firmly. "No good comes from endless pining."
+
+"You are a reliable man, Xuan Shi. That has never been in doubt."
+
+Ling Qi still had so little experience with any of this.
+
+"I would not mind being courted by you so that we may see how this path ahead of us can accommodate our dreams."
+
+She did not draw any attention to the slight sag of relief in his shoulders. "Then, let it be so. It seems this one will need to open a new project."
+
+"Xuan Shi,” she protested, “I would not ask for such gifts, after everything…"
+
+"Ling Qi, this one would not be able to face himself, if a suit were made with no gift for you."
+
+She didn't dislike the conviction in his eyes.
+
+"May this one ask, what would you like?"
+
+She bit her lip.
+
+"I won't constrain your thoughts. This isn't a commission or a trade or even a favor. The shape of it should be something you decide."
+
+She'd have to think as well and decide where the obligations of her own heart lay. Should she try to compose a song that might better discern her feelings?
+
+"I have war gear aplenty." She didn’t feel right in asking him for her missing flute. That was something she had to resolve herself before she participated in the ith offensive. "If you want to make me a gift, then let's not make it one for battle. It should be something that can be used for peace."
+
+Xuan Shi mulled over her words. "This one understands the sentiment. It speaks to the times that items of peace first came to mind." Then, he blinked. "An idea occurs."
+
+"Oh? Already? What’s in your thoughts?"
+
+"This one shall not share."
+
+Ling Qi complained, "What? You can't mention it, and then say that!"
+
+He smiled behind his collar, tipping his hat down. "This one can. Surprise has value."
+
+Ling Qi huffed with faux irritation. "I suppose I shall allow it then."
+
+She didn't know that this feeling was what one could call romantic, but… it was a nice thing. She would have to explore it more fully when there were fewer ominous things on the horizon.
+
+"Lady Ling is generous."
+
+"That is unacceptable," she scolded lightly. "I allowed it earlier for formalities' sake, but you will use my name."
+
+He promised, "This one shall remember, Ling Qi. Shall we walk back? Time marches on, and… This one did not truly expect the outcome of this outing when the journey was planned."
+
+She glanced up at the sky, wincing at the position of the sun. "Ugh… I suppose so. If I don't complete my day's workload, then Lady Cai is going to bury me in fresh correspondence tomorrow."
+
+"An awful fate," Xuan Shi agreed, straight-faced.
+
+"It is. Back through the waterfall, or straight across?"
+
+"... The waterfall. That much time can be spared."

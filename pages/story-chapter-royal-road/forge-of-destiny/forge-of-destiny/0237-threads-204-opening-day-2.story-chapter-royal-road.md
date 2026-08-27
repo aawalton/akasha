@@ -1,0 +1,117 @@
+---
+id: 3b3b5944-50e8-56f5-b7aa-e6c2a59fa73a
+page-type-slug: story-chapter-royal-road
+title: "Threads 204-Opening Day 2"
+slug: 0237-threads-204-opening-day-2
+partOf: forge-of-destiny
+position: 237
+ownLength: 2265
+unit: words
+publishedAt: 2022-04-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/876358/threads-204-opening-day-2"
+royalRoadId: "876358"
+---
+
+The Bai delegation’s arrival point was less attention catching than the grand pavilion being set up by the Cai but no less ostentatious. A coach house worth of carriages and black furred horses tended to by a small army of servants was set out to one side of a literal mansion that had certainly not been there the previous day.
+
+The mansion was three stories high with tiered, elegantly curved roofs tiled in a midnight blue that seemed to ripple like the gentle surface of the lake. The soldiers arrayed outside were not garbed like their Emerald Seas counterparts, favoring instead looser robes worn under a curraise of metal arranged like scales and well fitted armored gloves.
+
+Renxiang and Ling Qi were not left to wait outside for very long. News of their arrival was carried by a blank-faced doorman in robes of deepest black, his face marked by patches of black scale. Passing through the door of that mansion, it was all Ling Qi could do not to visibly shudder. There was death carved into these walls and the doorway itself, thrumming in the very air. Death and unwavering eyes. Ling Qi would not care to enter this place uninvited, even with all the time in the world to prepare.
+
+Inside, the mansion was well appointed despite the low threat in the air that kept the hairs on the back of her neck up. The halls were wide and well lit, the walls grown over with some kind of carefully cultured flowering ivy which gave off a soothing scent. The sound of softly running water filled her ears, and she saw in glimpses of side rooms many small fountains and artificial waterfalls.
+
+The room they were shown to was a spacious chamber lit from above by warm, bright light. The light was cast by a single large stone affixed to the ceiling, glowing like a miniature sun. It put out as much heat as light, and combined with the artificial waterfall built into the rear of the room, it filled the room with a sticky summer heat more intense than what Ling Qi was used to. In front of the churning pool into which the water fell was a long polished table lined with many seats.
+
+Ling Qi’s gaze flicked to Meizhen and Xiao Fen first, the two of them seated to the left side of the table. Well, Meizhen was seated, wearing her Cai gown and the sash that had been gifted to her by Bao Qingling. Xiao Fen stood at attention behind her seat. The younger girl had achieved the third realm since Ling Qi had seen her last.
+
+At the center of the table in a high back seat was a white caste Bai woman she did not recognize. She wore a glimmering pale blue gown that seemed almost liquid in texture, and her white hair was gathered in a series of elaborate looping braids which fell over her shoulders and down her back. Yellow eyes peered down at them from a face rounder than Meizhen’s more angular features.
+
+Ling Qi remembered the advice Meizhen had given her in their planning for this.
+
+“It is important among my kin,” Meizhen had said, “even more than the rest of the Empire to show the proper deference to one's superiors in rank and strength. However, it is just as important to not allow deference to become subservience, at least among nobles. If you act like a servant, you will be treated as a servant.”
+
+So Ling Qi cast her eyes down, fixing her gaze on the Bai ambassador’s thin, unpainted lips. However, she did not bend her neck any further nor shudder at the wave of animal terror that clawed at her subconscious. That, at least, she was well practiced with.
+
+<You’re the only one who would think that,> Sixiang grumbled, sounding rattled.
+
+“Ambassador Bai Xilai,” Cai Renxiang greeted. Ling Qi made her bows alongside her liege. “It is my honor to welcome you to the Argent Peak Sect. I regret only that my mother’s arrival was delayed. I hope you will accept my company in her place until this is rectified.”
+
+Under half-lidded eyes, Ling Qi scanned the others present at the table. Directly to Bai Xilai’s left was a calmly smiling man with deep violet hair, airy gray robes, and a wispy figure. He looked at them with indulgent curiosity, adjusting the small glass lenses that sat on his nose.
+
+Behind him, a tall figure in black silks stood, yellow eyes peering at her from behind an opaque black veil. She could make out no more than that about them. Their features were shrouded in shadow. Just looking at them made Ling Qi feel like a knife’s edge was being run across her skin. They were death wrapped in silk.
+
+“It is unfortunate, but matters of governance must come before the indulgence of outsiders,” Bai Xilai said. “As Her Grace’s heir, you are an acceptable substitute until this evening.”
+
+“Thank you for your indulgence, Lady Bai,” Cai Renxiang said, keeping her head bowed for another beat.
+
+On Bai Xilai's right past several Bai functionaries sat a man Ling Qi struggled for a moment to place. It was only when the man glanced her way did his plain, tired features snap into focus. This was Hou Zhuang, Meizhen’s father, who she had met at last year’s tournament.
+
+“For our good allies, the people of the Emerald Seas, such a small thing does not require thanks, but please, sit. We intend to enjoy a small meal before the day’s activities. You and your second are welcome at my table.”
+
+Ling Qi felt the Bai matron’s gaze briefly flick toward her, and for a moment, she felt as if she were sinking deep into a dark lake, pulled down by the current, water spilling into her lungs. She mastered herself, not allowing a single visible twitch in her stance. The feeling faded. There was no approval or even acknowledgement in the woman’s gaze, but neither was there any disdain.
+
+She chose her seat to the left of Cai Renxiang, who sat down across from the ambassador. Here, too, she remembered Meizhen’s words.
+
+“The seat directly to the left of a lord is the most honored, indicating great trust and admiration for martial ability,” Bai Meizhen had explained. “Sitting to the left in general is a sign of favor. In this, we favor the great Yao, whose left hand was his favored one.”
+
+Ling Qi stole another glance at the man seated to the ambassador’s left, who had turned to quietly speak with Meizhen. The chilling shadow behind him still watched the two of them with unblinking eyes.
+
+Bai Xilai rang the delicate crystal handbell which sat on the table in front of her, subtly signaling hidden side doors in the room to open and begin disgorging servants. “Allow me to make further introductions. To my left is the Master Scholar Xia Lushen, husband to Heiress Bai Suzhen.”
+
+The thin man’s gaze turned back to them, and he smiled good-naturedly. “Young Lady Cai, Baroness, it pleases me to meet you.”
+
+Ling Qi returned the pleasantries. Xia was the Violet Coral caste, sometimes referred to as sea snakes. They were the Bai clan’s scholars and astronomers as well as their shipbuilders and navigators. They were obviously different from the local Xia, who were a hill tribe before General Xia Ren took an imperial name.
+
+“It gladdens me that Lady Bai trusts our province so,” Cai Renxiang said politely.
+
+Ling Qi thought that was silly considering his shadow, but niceties were niceties.
+
+“The Duchess Cai is most reliable,” Xia Lushen replied. “But I am merely pleased at the opportunity to visit my niece. And if I may indulge myself, I am eager for the chance to study the artifacts from these underground creatures.”
+
+Ambassador Xilai waited a beat after he finished speaking to continue, an unusual display of respect from a White Serpent to a lower caste, according to what Meizhen had told her. She supposed that he was Bai Suzhen’s husband though.
+
+“I need not introduce my niece,” Bai Xilai continued, gesturing to Meizhen. “It is known to me that you are good friends.”
+
+For a moment, Ling Qi was confused, but then, she recalled being told that in public settings, all members of a caste referred to each other in direct familial terms. Members of the same generation were brothers and sisters unless married, and the younger generation were all nieces and nephews unless they were the older Bai’s actual children. This was to foster internal unity. Considering the other things Meizhen had implied, Ling Qi thought the practice had failed at that long ago.
+
+“You are correct, Ambassador. Bai Meizhen has been a steadfast ally throughout my time in the Sect,” Cai Renxiang praised. “She has been instrumental to my success.”
+
+“Lady Cai gives too much praise,” Bai Meizhen replied demurely.
+
+“A Bai should always accept praise which is due,” Bai Xilai said, finishing the little verbal dance. “Such is learned from experience however. Experience I am glad she will soon receive.”
+
+“The Bai clan has agreed to participate in my outreach then?” Cai Renxiang asked.
+
+“Lady Suzhen has given it due consideration and agrees that it will be a good experience for her niece,” Bai Xilai clarified. Ling Qi noticed that she said nothing about the viability of the project itself. There were limits to politeness, it seemed.
+
+As servants began to stream in, setting out the dishes, Ling Qi’s gaze turned to the right, studying the other two attendees sitting between Bai Xilai and Hou Zhuang. They were both fairly young. It was hard to know just by looking with cultivators, but Ling Qi judged them no more than eighteen or nineteen.
+
+The one directly to Bai Xilai’s right was a tall, willowy young man. He had an aristocratic, handsome face, and his long black hair that fell to his shoulders was shot through with streaks of deepest violet. His yellow eyes were fairly striking, and she thought he might actually be wearing a touch of eye shadow. He reminded her of Lin Hai in style with closely fitted blue and gray clothes.
+
+She judged him to be of the same caste as Xia Lushen.
+
+The second was probably the biggest Bai she had ever seen. He probably had a centimeter or two on her with a much more solid build than his kin. He wore armor much like the guards outside but with the sleeves absent. This left his heavily muscled arms bare, save for a pair of bronze bands around his upper arms. His skin had a ruddier tinge than the other Bai, and his arms and hands, particularly his knuckles, were covered by dark red scales. His features were more masculine to Ling Qi’s eye, but they still held some of the aristocratic sharpness she expected from a Bai. His dark brownish red hair was shaved near to his scalp.
+
+His caste was obvious. The Red Python, considered the lowest caste besides the Gray, the mortals, were typically laborers and craftsmen in more common fields with a fair number serving as the foot soldiers of the Bai’s armies. However, this one’s cultivation was no less than that of his companions, sitting firmly at the sixth step of the green realm.
+
+“On my right are two of the candidates the clan has selected to be a part of her retinue. Xia Anxi is well recommended among his generation as an expert astrologer, speaker, and singer,” Bai Xilai introduced, gesturing to the young man to her immediate right.
+
+“An interesting choice,” Cai Renxiang said. “I have no reason to doubt your words of praise.”
+
+“It is my understanding that there are interesting things in the far south’s sky,” Xia Anxi said with a thin smile. “And that these foreigners hold some esteem for musical talent.”
+
+“It is more the particulars of my style,” Ling Qi said, speaking up. “However, I am certain your assistance to Lady Meizhen will be invaluable.”
+
+“Is that so?” he mused. “I might like to hear a demonstration of your style then, Baroness, and see for myself.”
+
+“The other,” Bai Xilai said, cutting him off more swiftly, “is Lao Keung. Lady Suzhen has sponsored him specifically as a promising officer, and due to certain circumstances, she judges that he will be best served completing his training for that role leading my niece’s guard detachment.”
+
+Lao Keung did not smile as he dipped his head. Ling Qi thought she saw a glimmer of black humor in his eyes. “It is an honor to so directly serve the great White Serpents. I look forward to adding my own small strength to guarding the expedition's safety. I hope to learn from your experiences with foreign foes and battlefields.”
+
+“And lastly, there is Hou Zhuang, who is here to observe as well,” Bai Xilai finished dismissively.
+
+As she finished speaking, everyone fell silent to allow the servants to lay out the meal, and Ling Qi considered what she should do going forward. Cai Renxiang would continue engaging with the ambassador.
+
+All of them, Meizhen, Renxiang, and Ling Qi, had agreed that she would be better served helping to sound out the lower status members of the delegation. It would be harder for Meizhen to get anything out of them as their boss, so her efforts would not only help their expedition but also her friend.
+
+She glanced between the two Bai and considered what topic to try and open conversation with.

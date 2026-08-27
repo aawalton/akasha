@@ -1,0 +1,285 @@
+---
+id: c5364dde-2b48-5cc4-9512-f093e88be0da
+page-type-slug: story-chapter-royal-road
+title: "6. To Adjourn"
+slug: 0006-6-to-adjourn
+partOf: god-of-trash
+position: 6
+ownLength: 4057
+unit: words
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2095641/6-to-adjourn"
+royalRoadId: "2095641"
+---
+
+The next day, it wasn’t Rhys and Bast who manned the stall. Instead, the smallest, most delicate of the orphans sat behind the cloth, peddling their bags to all passerby for one silver a bag. Two of the oldest orphans stood nearby, just close enough to ward off anyone who might think about snatching a bag, or worse, the orphans’ takings. Rhys and Bast circled in the crowd, watching the orphans to make sure they didn’t undersell the wares or pocket the take, but also, to advertise their wares.
+
+“The finest cloth bags! Perfect for you or your ladyfriend!”
+
+“Unique to this town! Bags crafted from the finest cloth. You won’t find these anywhere else!”
+
+The bags sold one after another. The children they’d put behind the cloth were the most effective salesmen, with sad, liquid eyes and malnourished limbs. The second they locked eyes on a weak-willed, sympathetic passerby, it was over. The sale was made, and silver exchanged hands.
+
+As for the potions, Rhys carried them himself. The children acting as salespeople had been told to redirect people asking after potions to him, so that he could broker the best deal possible. The bags were mostly cheap, and the children were instructed to flag him over if anyone showed untoward interest in one. But the potions were worth gold whether they found the perfect buyer or not, so he handled those deals himself.
+
+As the tournament kicked off, he swung by the kids and relieved them of their spoils. “Keep up the good work!” he cheered, subtly slipping each one a penny.
+
+The kids’ eyes got wide, and they nodded and hid the penny quickly. He walked away, almost laughing to himself. If they’d just fought and kept that money, they would have had so much more than one penny. But then, that was how the world always worked, wasn’t it? The weak were manipulated by the strong. Corporations trampled their workers, then stole the fruit of their hard work and gave them a fraction of the money they made. All he was doing, was introducing them to the way of the world.
+
+Bast nudged him. “How much did we make?”
+
+“More than enough,” Rhys replied, showing him the pot. Bast’s eyes got big, and he stared. Rhys nudged him. He jerked back to reality and straightened up.
+
+“It’s not more than yesterday,” Rhys pointed out.
+
+Bast shook his head. “I can’t believe we made that much twice. It’s insane.”
+
+“Pity it’s the last day of the tournament. Otherwise, we could keep this up for weeks,” Rhys muttered, half to himself. Like anything children did, it would fall apart eventually, even with Rhys in control. With the tournament ending, the out-of-towners would leave, and there was little chance the townsfolk would buy a bag. The townsfolk were too poor to afford that kind of luxury. Still, it would’ve been nice to get a couple more days of sales out of it.
+
+“Pity,” Bast agreed. He paused. “Then… is there a point to catching potions today?”
+
+Rhys gave him a look. “Of course it is! We can still benefit from potions, ourselves. Not to mention, we can still sell them for one gold even after the tournament. We won’t get to take advantage of tournament pricing, but we still benefit from this.”
+
+“True,” Bast agreed.
+
+“Hello, hello. Still at it?” Straw asked, appearing behind them with no warning as usual.
+
+This time, Rhys didn’t even jump, too used to it to react. He glanced back. “Yeah. No reason not to.”
+
+“That’s true, that’s true.” The grungy-looking man bobbed back and forth, an unusual energy to him. A smile spread across his cheeks.
+
+“Something good happen?” Rhys asked.
+
+“Maybe.” Straw tilted his head. “After the tournament, seek me out. I have an offer for you boys.”
+
+Rhys glanced at him. The man was obviously some kind of expert. Was this the offer he hoped it might be?
+
+Straw grinned back.
+
+Rhys smiled. Oh, I think it is. “We’ll do that, for certain.”
+
+They stepped out on the edge of the tournament field. Rhys dropped into the usual crouch, but Bast remained standing. Rhys glanced at him. “Come on! What are you—”
+
+“What are you two doing?”
+
+Rhys tensed. At last, the feared challenge had come. He turned.
+
+One of the contestants loomed over them—Untor, the adventurer. He glowered down at the two of them. “You two. Why didn’t you pick up the bottles on my side of the field? Who paid you to sabotage me?”
+
+“Huh?” Rhys looked around, then pointed at himself. “Me?”
+
+“You and your friend there. Out with it. I noticed your sabotage. Who paid you?”
+
+Rhys gave him baby eyes. “I don’t understand, sir. We’re just two orphans, helping out with the tournament. We—”
+
+Untor swiped for his collar.
+
+Rhys instinctively drew on his mana and jumped back, dodging Untor’s grasp. In the next instant, his stomach clenched. Shit. I shouldn’t have done that.
+
+Untor’s eyes burned. “You know how to use mana?”
+
+“Sir, I, I don’t know what you’re talking about. I’m just a kid, I don’t—”
+
+Bast grabbed his shoulder and jerked him back. A wind coursed by his stomach from a blow he couldn’t even see.
+
+Untor’s eyes burned. “I don’t care. I’ll just beat you two until your momma wouldn’t recognize you.”
+
+Rhys didn’t hesitate. He reached into his pocket, threw a handful of bread crumbs at Untor, and ran for it. Bast followed him instantly, not needing a cue. Both of them sprinted for the arena wall.
+
+Untor roared. He wiped the breadcrumbs out of his eyes and chased after them.
+
+Their lead was nothing. Untor quickly gained on them. He reached for Rhys again, foot slamming down.
+
+A second before Untor’s foot hit down, Rhys tossed a potion vial under his toe. Untor’s foot slipped, and the huge man slammed to the ground.
+
+Bast hopped onto the wall. Rhys jumped after him, but couldn’t mount the wall so easily with his weaker mana control. At the apex of his jump, he reached for Bast.
+
+Bast caught his hand and yanked, pulling him onto the wall. Both of them hopped down and fled, Bast leading the way into the labyrinthine streets ahead.
+
+Untor hopped onto the wall seconds later. His knuckles bulged, white bone showing in his rage. Nothing but empty streets awaited him, no sign of the children left at all.
+
+“I won’t forget this! I’ll find you!” Untor roared at the empty street.
+
+A few intersections down, Bast and Rhys finally stopped running. Rhys backed up until his shoulders hit a wall, then drooped down it, panting so hard he didn’t have time to swallow his spit. Bast recovered faster, leaning around the corner to make sure Untor hadn’t followed them. He stepped away from it, nodding at Rhys. “We’re safe. He didn’t follow us.”
+
+“Thank goodness,” Rhys muttered. He wiped his chin and swallowed, with some difficulty. “Damn. We didn’t even make him lose the match! What was he so mad about?”
+
+“We did make him waste a potion, and take a hit,” Bast pointed out.
+
+“Then he should blame his inability to fight around potion bottles, not us! If we hadn’t been there, none of those bottles would’ve been picked up, and then what? Honestly…”
+
+For all that he was raging, Rhys knew he was angry without any justification. Untor did, in fact, have the right to be angry at them. Whether or not that gave him the right to beat up two unarmed kids was a different argument, though one Rhys feared he wouldn’t like the answer to in this world. He huffed, shaking his head.
+
+“I guess that’s that, then,” Bast said.
+
+Rhys nodded. “That’s that.” He knew when to hold ‘em and when to fold ‘em, and this? This was definitely a cut-and-run kind of situation. The other kids could keep selling bags out front. Untor truly had no justification to attack them, and if he tried, well, they were in public. No way would people just let him attack a bunch of defenseless kids over something they had no relation to. In fact, a few of the experts in the audience had sat up when he’d attacked Rhys and Bast, only hesitating because of Untor’s objections, objections they, too, must have wondered about, somewhere deep in their hearts.
+
+He turned back, looking at the stadium. The stone seats hadn’t been empty, today. Rather, they’d been full of mages from the local school. He and Bast hadn’t made the best impression, but any impression was better than no impression. Plus, they’d both demonstrated the ability to use mana untrained. If his instincts were right, that ought to be impressive to the school.
+
+Rhys drew out the mana potion and quickly topped up, then paused and swallowed a fifth drop. The fifth drop truly pushed him to his limits, but he managed to absorb it without breaking a fever. He sighed and fell against the wall again, taking a moment to adjust to the new quantity of mana, before he slipped the potion away and straightened.
+
+“I can’t believe you’re still sipping on that thing,” Bast commented.
+
+“Yeah, yeah. My mana capacity is low, I get it.”
+
+Bast gave him a look. “It’s not that low. It’s lower than mine, but I’ve been training since I was little. For someone who started last week, it’s incredibly impressive.”
+
+Rhys went to argue, then shook his head and waved his hand instead. If Bast thought he was doing well, who was he to say otherwise? He’d rather have Bast impressed by him than looking down on him. “For now, let’s make scarce. I don’t want Untor to come find us during break.”
+
+Bast nodded. “To the trash pit?”
+
+Rhys shook his head. “Better. The orphanage.”
+
+--
+
+The matron gave them a look as they walked in. “Well, well, well. Look who decided to show up again! I was starting to think I was rid of you troublemakers for good.”
+
+“Not yet,” Rhys replied cheerfully.
+
+“And what does that mean, young man?” she asked, eyes narrowing, but Rhys had already blown past her.
+
+He headed to the back of the orphanage, into one of the unused school rooms. There, he marched up to the front of the room and faced Bast, who gazed at him from the center aisle.
+
+“I need you to teach me something.”
+
+“What?” Bast asked.
+
+Rhys shook his head. “Anything. Whatever you can teach me in the hour-or-so we have until the break in the tournament.”
+
+“You think Untor will find us?”
+
+“I think it’s good to be prepared,” Rhys returned.
+
+But to be honest, the answer was yes. Yes, he did expect it. They’d left too many of their prints behind. The other orphans, the bag shop. He could absolutely find them here. But that was fine. The point wasn’t to hide. An adventurer like Untor doubtlessly had tracking and searching skills that would let him seek them out, wherever they went. The point was to go somewhere public enough, innocent enough, that someone would go for help when they were attacked, and help would come. Somewhere diverged from the tournament, where the ‘heroes’ might connect him and Bast and the bottles on the field. Somewhere that when those experts heard of it, they would immediately and unquestioningly classify Untor as the villain and act in their favor, before any higher-level thinking kicked in.
+
+In other words, the orphanage.
+
+The only problem remaining was, how did he survive until those heroes showed up? And this was his answer… or, at least, the best thing to an answer he could come up with. He was kicking himself for not asking Bast for skills until now, but it was too late for regret. He’d foolishly though he could get by until he found a real teacher, but what foolishness that was! He professed to find value in trash, and yet, he’d overlooked a perfectly good teacher, a boy with skills unlike his who doubtlessly had plenty to teach him. All because of that wretched ego of his. He’d taken the role of boss, and as such, had instinctively looked down on Bast. He knew he shouldn’t. He knew the other boy was objectively stronger than him. But that one motion, that instinctive role-taking, and he’d completely overlooked the option. Oh, he was kicking himself now—but better late than never, he reassured himself, waiting for Bast’s answer.
+
+Bast thought for a while. Longer than Rhys would have liked. At last, he opened his mouth. “I… think I can teach you this in time. It doesn’t use much mana, and it saved my life many times, back in the day.”
+
+“That sounds perfect. What is it?” Rhys asked, excited.
+
+Bast gave him a look. He curled his hands into fists and approached Rhys slowly. A menacing aura came over him. “How do you feel about taking hits?”
+
+“Not great…” Rhys said slowly, eyeing Bast. He backed away.
+
+“That’s the spirit.” A fist flew toward Rhys.
+
+--
+
+Rhys wandered out in the yard in front of the orphanage, kicking a deflated ball around the grass. He’d never been much for soccer, but in this world, with a mana-enhanced body, he was actually getting somewhere. He booted it toward the far end of the field, and it bounced off the lone tree. Rhys threw his hands up. “Score! And the crowd goes wild!”
+
+In the distance, the audience cheered, as if on cue. Rhys looked up. The cheering continued for a while, then faded away, replaced by the low, distant roar of crowd noise. The first round of battles had ended.
+
+A gaggle of kids wandered nearer. Rhys looked over and made eye contact with Bast, who nodded back. A mage or two followed the kids back, discussing something, while the kids kept glancing at Bast and shrugging.
+
+Everything was set. All they needed now was the principal actor.
+
+Thunderous stomps echoed down the street. Rhys retrieved his ball and went back to kicking it around, pretending not to notice. The metal gates flew open, and Untor marched inside. He pointed at Rhys. “You!”
+
+“Me?” Rhys asked innocently, pointing at himself.
+
+“Come here, you little rat.” Untor raised his arm and marched over.
+
+Rhys backed away. He circulated his mana, preparing the technique Bast had taught him. At the same time, he shrieked at the top of his lungs. “Help! Help! There’s a madman attacking the orphanage!”
+
+Untor’s face twisted. “I’m not—”
+
+Across the way, the mages who’d been drawn by the children on the promise of more, different bags looked up sharply. All eyes landed on Rhys, the small, malnourished child, and the huge, muscular Untor, looming over him threateningly.
+
+“Please! He’s going to kill me!” Rhys screamed.
+
+Untor’s eyes darkened. He closed in, instantly reaching Rhys. He could still get one good hit in before the others intervened. There was murder in his eyes, and for a second, Rhys’ stomach went cold. He might actually kill me.
+
+And then the fist slammed into him, and he activated the technique.
+
+It was simple. A self-preservation technique. He jumped away from Untor with all his strength, while blasting his mana out of his body at the exact point Untor punched. The mana resisted Untor’s punch and threw him back even faster at the same time. It mitigated the damage to the extent someone as weak as Rhys could.
+
+He had a few bruises from Bast’s blows, but he had to admit, the boy was right. The fastest way to learn a skill was to experience it. Three punches in, he’d already had a good understanding of the principles, despite being unable to conceive of it when Bast only described it. By the fifth, he’d practiced it enough to gain a new skill entirely:
+
+Blow Mitigation 1
+
+Despite the skill, Rhys still went flying. Bones snapped, and he felt his organs crush. Blood seeped out of his side, instantly soaking his robes. He hit the ground and rolled, striking up against the far wall. He screamed bloody murder, as if he were actively being torn apart. At the same time, he popped open his reserve potion and sipped it. The potion swirled inside him. Less is More grasped it and amplified its power, and the small sip of potion he’d taken quickly healed most of his wounds. Rhys put the potion back away and kept screaming, clutching his side in pain.
+
+Looking pathetic was his strength, after all.
+
+Untor, who’d seen all of this, grimaced. He stomped over and raised his foot. “Fucking filth! You little slime. You’re better off as dirt on my shoe—”
+
+A mage appeared behind him. She wound her arm across Untor’s chest and yanked him backwards. His foot slammed down inches from Rhys’ chest. It splashed mud on his chest, but didn’t harm him. “What are you doing? To a mortal child? Are you insane?”
+
+“He’s no child! He’s a scam artist, a grifter! He’s an agent hired by some sect, intent on sabotaging all adventurers!” Untor raged, fighting against her grasp.
+
+The second mage appeared, a man in white robes. “Hold him tight!”
+
+The female mage tightened her hold, while Untor’s eyes widened. He fought even harder, but to no avail. In the next instant, the man’s fingers flashed out, poking Untor’s chest. Untor stiffened, suddenly no longer thrashing against the woman’s hold. His neck tensed, and his face turned red, but he couldn’t struggle any longer.
+
+The white-robed looked down on Untor, disgust written on his face. “I don’t care what you adventurers do in the wilds. It’s your business whether you murder mortals out in the badlands or not. But in the territory of Snowdrop School, you absolutely will not touch our mortals. Did we not make ourselves clear?”
+
+“He interfered! He interfered first!” Untor snarled.
+
+The mages looked at Rhys. Rhys sobbed on the floor, rolling around in pain as pathetically as possible. A young boy, small for his age, horrifically injured. They looked back at Untor, a grown man in great health, rippling with muscle.
+
+The male mage sighed. He shook his head. “Even if this boy played some kind of joke on you, can’t you overlook it? Or is this child so large of a threat that you felt the need to trample on my School’s laws and murder him, against all conscience and reasoning? Could it be that the great Untor the adventurer is in fact a weak-willed and petty man who can’t even overlook a child’s pranks?”
+
+Untor’s veins bulged. His eyes turned bloodshot. He strained against whatever invisible restraint the man had put on him. Abruptly, he turned his head away. “Fine. I’ll leave this child. But he isn’t to be allowed near the tournament.”
+
+The male mage sighed. He shook his head. “I’m sure we can all agree to that. Isn’t that right, child?”
+
+Squinting against his supposed pain, his teeth gritted, Rhys managed a nod. In truth, he wasn’t in any pain at all. The potion had healed him enough, and what little damage remained was being healed by the residual effect of the potion. Still, it wouldn’t do for the mages to realize that he’d had this whole situation in hand and was only acting, so he kept playing along.
+
+“There we have it. If I release your restraints, will you walk away?” the mage asked Untor.
+
+“He had a sidekick! Another kid. He isn’t allowed near either,” Untor insisted.
+
+Rhys coughed. With effort, he bit his cheek so he could spit some blood. “I—I’ll tell him.”
+
+“Is there anything else you want to demand from this child, Untor?” the mage asked, with the exasperated tone of one mediating the argument of small children.
+
+“That’s all,” Untor grunted.
+
+The male mage stepped forward and tapped Untor’s chest in the same places as he had the first time. Untor’s body unstiffened, and he staggered back. He glared at Rhys. “If I catch you alone in the badlands…”
+
+“If you’re done threatening children?” the male mage insisted. He stepped between Untor and Rhys and crossed his arms, giving Untor a firm look. A tiny bit of his aura brushed against Rhys, and Rhys stiffened. Between Untor and this male mage, he’d rather face a dozen Untors. This man, whoever he was, could kill Rhys in a glance. Forget Blow Mitigation. He could level that up to 100, and it wouldn’t make a difference. He’d still be dead.
+
+Untor grunted. He turned away, marching off. The male mage turned to Rhys and gave him a look as well. “You can stop.”
+
+Rhys laid there for another beat, but when the man’s gaze didn’t move away, he dusted himself off and stood. “He did punch me,” he offered, by way of defense.
+
+“Hmm. And if you attempt this kind of thing again, don’t expect you can rely on me again,” the man warned him.
+
+Rhys lowered his head, duly warned. He understood without being told. The man didn’t care about him, nor did he care about Untor. He was more than happy to let Untor kill a random mortal. He’d acted to enforce rule of law, because letting Untor run wild and ignore his laws meant the power of his school was insufficient to prevent one adventurer from doing what he liked, not because he wanted to save Rhys. With a tournament happening in his town, and all the local schools’ eyes on his school, he needed to project power. If the tournament wasn’t happening, he would have likely let it slide.
+
+But that was fine. Rhys had already exploited the tournament as much as he wanted to. Anything today was just bonus. And he had absolutely no intention of sticking around until next year’s tournament. Time was a-wasting. Now that he’d gathered some gold, it was time to progress toward actual magehood. Go buy a spellbook or something.
+
+The male mage looked Rhys up and down again. A wave of energy passed over Rhys, and he shivered. Something about it had felt… invasive. As if the man had somehow seen into his very soul.
+
+The mage’s gaze lingered for a moment, but after a second, he sighed. “Taking a blow from Untor and surviving is impressive, at your age. If only your talent were better…”
+
+Rhys laughed. The mage frowned at him, and he put his hands up. “No, no. I already know I’m weak. It’s fine if you think I’m trash. I know I’m trash, but I’m not going to let that stop me.”
+
+The mage shook his head. A smile touched his face, and then he broke out into laughter. He patted Rhys’ head. “It’s good to have conviction! Maybe we’ll see you in the tournament one day.”
+
+Rhys smiled, but internally, he rejected it. In this po-dunk tournament, held in a mortal town in the middle of nowhere, where the local mage school didn’t even attend it until its final day? If he ended up that weak, even he’d be disappointed in himself. His ambitions weren’t so low.
+
+The male mage nodded at the female mage, and both of them left. Bast turned the corner, giving Rhys a look-over. His eyes widened at the blood, but Rhys silently shook his head. He was fine.
+
+“Should we go look for Straw?” he asked quietly.
+
+Bast frowned. “After he refused to help us with Untor?”
+
+Rhys shook his head. “He didn’t refuse to help. I knew better than to ask.”
+
+“Why?” Bast asked, lost. He looked at Rhys’ side. “You could have died, so why not?”
+
+Rhys smiled slowly. “Because, if I’m right, he’s so incredibly powerful that him individually intervening might cause all-out war. And if that’s the case, would you rather waste that kind of power on protecting us from a middling-strong adventurer?”
+
+He leaned in, looking Bast in the eye. “Or do you want to learn from that sort of power?”
+
+Bast’s eyes glittered with comprehension. He nodded slowly, then thumped Rhys on the shoulder. “This is why you’re boss.”
+
+“Ow,” Rhys muttered, flinching. His side was mostly healed, but not totally healed.
+
+“Sorry,” Bast replied, flinching back.
+
+Rhys waved it away. Who cared, when faced with the future that awaited them? “Come on. Let’s go meet our destiny.”

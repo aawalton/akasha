@@ -1,0 +1,209 @@
+---
+id: 71dec5ed-15b7-594d-afd4-109271141a49
+page-type-slug: story-chapter-royal-road
+title: "5. Scalping"
+slug: 0005-5-scalping
+partOf: god-of-trash
+position: 5
+ownLength: 4113
+unit: words
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2093534/5-scalping"
+royalRoadId: "2093534"
+---
+
+The two of them arrived at the arena as the first spectators arrived. Rhys threw down the red-and-white robe he’d found earlier, tucking the sleeves underneath so it appeared as nothing more than a backdrop. He and Bast quickly set up their wares atop the sheet, setting their bags to the front. Rhys reached for the potions, then hesitated. He and Bast were stronger and faster than a mortal child, but there wasn’t much else that could be said about them. Bast could probably fight an adult on even footing, maybe even overwhelm an adult, while Rhys figured he could land one good punch and run for it, but if someone seriously snatched their potions, much less a contestant, they’d be shit out of luck. He twisted his lips. Maybe it was best to keep his potions close and only offer them to honest-looking people, no matter how shady that made him look.
+
+“Good morning, boys,” a familiar voice said. Straw wrapped an arm around each of them, grinning left and right. “How goes it?”
+
+Rhys let out a silent sigh of relief and set out the potions close to himself. With Straw here, he didn’t have to worry. Even if Straw wouldn’t actually lift a finger to help them, just his presence would ward off those who might think to rob a couple of kids. And he wasn’t sure that Straw wouldn’t help them, if someone tried to steal from them. The man had his limits, and understood his place in the world, but something like blatant theft would give him an excuse to intervene regardless of any self-imposed limits.
+
+Bast shrugged away from Straw’s arms, and Straw released Rhys a second later. He peered at their wares approvingly. “You’d never know those bags were made from garbage. They look fine, fine indeed!”
+
+“I’ll have to thank the mages for throwing out so many perfectly functional robes,” Rhys replied. If he were a person from this world, from this timeline, he was sure he wouldn’t understand it at all. But having a modern perspective, where he himself wasn’t above tossing out an old, perfectly functional t-shirt for no other reason than he was bored of it and had too many t-shirts, or the t-shirt having a tiny, fixable hole… he understood it completely. Once one became rich enough, fixing clothes wasn’t worth the time and effort. Not to mention that other people of the same socioeconomic class would look down on you for having mended clothes. It was absolutely ridiculous and a waste of good fabric, but he understood the forces behind it, even if he didn’t agree with them.
+
+Straw chuckled. “Mages will throw out the most ridiculous items.”
+
+There were more well-dressed spectators today than yesterday. Not only nobles, but also mages, adventurers, and martial artists milled among the crowd. Yesterday, he hadn’t quite understood it, but today, he did. Many of the battlers in the tournament were unaffiliated with any school, mage, martial, or otherwise. Now that they’d come to the second round of the tournament, all the battlers could be considered minor talents at the very least, with some rising to the level of true talent. The mages and their like were here to recruit those talents, or at least watch for rising power in unfriendly schools. Rhys didn’t need a formal education in this world to understand that one school’s rise meant another school’s fall. If one school showed off a powerful new skill, or displayed the strength of an exceptional prodigy in the tournament, the rest of the regional schools would want to know.
+
+Rhys hadn’t seen anyone that shocking in the tournament so far, but what did he know? He wasn’t a mage. Maybe one of the fighters had fought with unusual skill, and he’d simply been too blind to the ways of battle to understand that.
+
+Of course, none of that mattered to him. Putting on his public service smile, Rhys sat up, folding his legs under him. “Come one, come all! Fine bags, sewn by skilled artisans from the rarest fabrics! Come, buy one of our town’s specialty bags, and return with a souvenir to remember the tournament by!”
+
+“These bags are the town’s specialty?” Bast muttered, confused.
+
+Rhys leaned in. “Of course not. And we aren’t skilled artisans, either. But they don’t know that.”
+
+Bast grinned. He nodded, slowly, as understanding dawned. “I see now.”
+
+The two of them called out to the passerby, until at last a servant wandered over. He crouched and subtly dropped a few coins, swooping up a bag in the same moment. Rhys snatched up the coins and pocketed them, smiling the whole while. It was fine if the nobility didn’t want to be seen purchasing his bags. Of course, he’d rather they were, but any sales were fine. As soon as people saw other people making purchases, his stall would instantly grow in value.
+
+A slightly dingy-looking mage approached the stall. She crouched, going through the bags, and then her eyes widened. Her fingertips rested on one of the bags, this one crafted from fine white cloth that fluttered slightly on its own. “Where did you get this?”
+
+“Ah, I’m sorry, ma’am, but we can’t reveal that. However, I must warn you—that bag is one of our most expensive,” Rhys replied with a quick smile. She thought it was valuable? Then it was valuable! The first rule of negotiating sales was to smile, and the first rule of negotiating purchases was to maintain a firm, disinterested poker face.
+
+“How much?” she asked, a note of urgency in her voice.
+
+Rhys leaned in. Time to try my luck. “Fifty gold.”
+
+She jerked back as if burned. “I don’t—”
+
+“But for a pretty lady like you, I think I can wrangle that down to twenty-five,” Rhys tried, still watching her expression. Her reaction had been extreme, but she hadn’t simply walked away, either.
+
+The woman smiled. She hesitated, then opened her purse and handed over the sum. “Only because you were so sweet.”
+
+“Thank you.” Rhys secreted the coins in his robes with a smile, barely able to hide his trembling hand. He’d hoped to sell the potions for one gold a piece, five gold with the price increase at the mouth of the arena. But he’d just sold a bag for five times that. Was he the fool? Was the true value of the trash pile hidden not in its potion bottles, but instead in the fragments of fabric lost in its depths? Even he hadn’t had such high expectations of the fabric, even with his deep belief in the power of trash.
+
+Bast stared as well, slack-jawed. When the woman walked away, he leaned in. “How did you know it was worth that much?”
+
+“I had no idea,” Rhys replied honestly.
+
+Bast’s jaw dropped even further. Slowly, he shut it, shaking his head at Rhys in open amazement. “I was right to stick by you.”
+
+Straw leaned forward. “In truth, the fabric isn’t worth that much. However, many mages are rich recluses, and have lost track of market value… or need very specific, rare materials. The right buyer will pay thousands for what the market might consider a cheap scrap.”
+
+Rhys nodded. Straw meant to caution them not to expect every bag to sell for such an exorbitant sum. The right person had come by and seen the right item, but most of the passerby would value what they had on offer far less. “If only we could find the right buyer every time.”
+
+Straw spread his hands. “And thus, the eternal popularity of auctions. Though of course, the right buyer in an auction might still have the sense to bid low. It really is a precious combination of conditions that will net you a sale like that. Including, in this case, the fact that you two are youth, and poor, orphaned youth at that. She likely knew she was being oversold, but considered the sale a bit of charity and virtue-gathering on her part.”
+
+“Of course,” Rhys replied, while Bast deflated a little beside him.
+
+“Not to say you shouldn’t take advantage of such qualities while you have them, of course. Far be it from me to stop two enterprising youths from capitalizing on every advantage they possess. It’s merely that you can’t expect it to go so well every time,” Straw clarified.
+
+Rhys elbowed Bast. “You hear that? It’s our job to look cute and pathetic so more people pay us more money.”
+
+“Cute and pathetic…” Bast gave Rhys a look. Despite growing up in the orphanage, Bast was tall and strong, not to mention a little older than Rhys. If not for his patched clothing, he could’ve fit in with the more athletically inclined noble children. In fact, thanks to his skill with mana and its naturally empowering effect on the body, he was bigger and more muscular than some of the athletic noble children.
+
+Rhys cleared his throat. “Right. Not your strong suit. Okay. I’ll look pathetic enough for both of us.” He’d only just started to practice with mana, so his body was still on the small side and visibly malnourished. It was far better than it had been, but he had a long way to go before he looked healthy.
+
+“Someone needs to look threatening, so no one takes our shit,” Bast excused himself.
+
+“Play to our strengths,” Rhys agreed.
+
+Straw chuckled at the two of them and said nothing.
+
+A few more patrons visited their shop. Some left without buying anything, but by the time the tournament began its opening ceremonies, only a few bags remained. All the potions had sold. Rhys had set the price point at five gold, and slowly elevated it from there as the potions kept selling. Ten gold was too much to ask, but seven seemed acceptable to most mages. It was a crazy markup, if an ordinary potion truly sold for one gold, but what did he know? He was just a kid in a small village. Maybe seven gold was normal in a big city.
+
+Most of the bags went for copper or silver. Rhys managed to charm a young nobleman into buying one for a gold coin, on the promise that it would win his beloved’s heart, but that was the extent of it. Mages, martial artists, and adventurers mostly ignored their bags. Either that fabric had been truly incredible, or that woman had really been the exact right buyer in the exact right place. Either way, Rhys wasn’t able to replicate his early success…not that he’d expected to. At least they’d all sold for more than the mere pennies he’d sold the empty bottles for.
+
+A horn blared. The tournament was beginning once more. Rhys quickly wrapped up his wares in his robe-slash-sheet and tossed them over his shoulder. He and Bast quickly made it into the stables, where Rhys stashed the wares in a corner, then hurried out to the same spot they’d crouched in yesterday. Since no one had stopped them yesterday, people were even less likely to consider questioning them today. After all, they’d gone unchallenged all day yesterday. Why challenge them today?
+
+“Are we splitting up today?” Bast suggested.
+
+Rhys considered. They could more easily interfere with matches on this side, including things like rolling out potion bottles mid-fight, but the more he thought about it, the worse idea it was. If they ‘forgot’ to pick up a potion bottle or two between fights, that was nothing. But actively interfering, when there were mages with enhanced senses on the sidelines? That was foolish.
+
+He shook his head. “We’ll act in between fights only. Anything else is too risky. Speaking of, if a bottle looks empty today, let it fall. We can’t ‘leave’ bottles if there are no bottles on the field. It’s safer to interfere by negligence than to interfere outright.”
+
+Bast nodded. “That’s why you’re the boss.”
+
+Rhys chuckled. “Yeah, yeah.”
+
+The first fight began. They had no opportunity to interfere with it, but they didn’t need to. The opponents, Analiis and another swordsman, were evenly matched. They battled back and forth for a long time, occasionally buying enough time to swig a potion. Today, Bast, Rhys, and Straw simply let the potions hit the ground—though to be quite honest with himself, Rhys couldn’t have grabbed them mid-fight if he’d wanted to. The battle was too fierce. There was no space for anyone to step in, not without risking a hit. When the battle finished, Analiis was barely the victor. She downed a potion as she raised her sword in her other hand, then tossed the bottle directly at Rhys.
+
+Rhys caught it, grinning back up at Analiis. She noticed, huh? It was fine, though. Her directly addressing them just made him and Bast appear even more legitimate.
+
+“And next up, Reahan Gribles of the North Star Sect, and on the other side, Untor the Nameless!”
+
+Rhys quickly wracked his brains. Between the two, Reahan was a mage, while Untor was an adventurer. Untor fought with the kind of feral technique one picked up in the wilds, while Reahan rigidly followed the sword strikes of his clan. Between the two of them, Untor held the upper hand in strength and skill. This would be a quick fight.
+
+Glancing at Bast, he quickly signaled for Bast to leave the close side of the field alone. The two of them cleared the far side of potion bottles and dirt, then retreated to their side. One of the potions still had a good quantity in it, so Rhys swept that one up, subtly dropping an already-cleaned one in its place. They barely retreated to their posts before the contestants took their spots. Internally, Rhys cheered. Perfect timing. If there was too much time after they finished their ‘thorough’ cleaning, the spottiness would be suspicious. But barely finishing in time? That was the ideal.
+
+The next battle kicked off. Rhys watched from the sidelines, curious how much of a difference their interference would make. The first half of the fight proceeded as he expected, with Untor easily pressing Reahan back. Untor stepped forward, deliberately kicking a bottle away as he did so.
+
+In that moment, Reahan’s eyes flashed. Untor was only distracted for a moment—no, less than a moment—but it was enough. Reahan dashed in, cutting a slice through Untor’s armored forearms. Untor grunted and kicked him back, but the flow of the battle had changed. The two fought more evenly for a bit, before Untor finally found a moment to swallow a potion, recover, and begin pressing Reahan once more.
+
+As the glass bottle tinked against the floor, Rhys and Bast exchanged an excited look. It was working! Untor shouldn’t have had to drink a single potion to overcome Reahan, but now, they had a free potion bottle thanks to being a little less conscientious about picking up the bottles than usual. Rhys grinned and gave Bast a thumbs-up. Things were going great.
+
+Untor won, and the two of them dashed out to clean the field again. The next battle was evenly matched, by Rhys’ guess, so they cleared out all the bottles. And so it went, with Rhys and Bast clearing the bottles or leaving them, based on the matchups. One at a time, they picked their battles, only to harvest more bottles afterwards. If the match was close, or if their interference risked favoring the losing opponent too much, Rhys held back. Not only did Bast dislike the idea of allowing the lesser warrior to win, but Rhys had absolutely no desire to end up on the bad side of any of these people. Even if they only insulted the weakest adventurer in the tournament, that person could still rip him apart with their bare hands. Their interference would only go to the extent of making the winning side fight harder, not throw the fight in the losing side’s favor.
+
+As the sun set, the tournament wound down again. Only the semifinals and the finals remained. Rhys and Bast’s pockets were stuffed full of potions, their harvest richer today for having meddled in the matches a bit. Straw reappeared, peering over their winnings. “Not bad, not bad!”
+
+“I think we’ll have another two potions for tomorrow,” Rhys replied, pleased with the haul as well.
+
+“Very possible,” Straw agreed.
+
+“We going to build more bags?” Bast asked.
+
+Rhys twisted his lips. The one twenty-five gold bag was tempting, but most of them had barely been worth anything. He knew he didn’t have any more of that fluttery white fabric in the dump, and even if he did, would another perfect buyer come by? And it meant pulling an all-nighter. Even if mana made that less painful, his bed was calling him.
+
+But on the other hand, the sweet, sweet call of a potential twenty-five gold…
+
+“We’re doing it,” he declared boldly.
+
+Bast chuckled. “I knew it.”
+
+As the three of them left, a few kids stepped out from the alley and blocked their way. Rhys recognized most of them. Older children from the orphanage, or the perkier young ones. Straw faded away, and Rhys stepped forward, crossing his arms. “What do you want?”
+
+The biggest of the older kids stepped forward. He was larger than Bast, though Rhys sensed no mana on him. If he was going to leave potions on half of the field of their battle, he’d leave them on Bast’s side. “We want in.”
+
+Rhys glanced at Bast. The muscular boy stepped forward, crossing his arms. Letting that threat stand, Rhys turned back to the other kids. “Do you?”
+
+“Yeah. We do.”
+
+“How do you feel about hard work in the trash pit? I’ll give everyone who joins in two pennies. Two pennies, for a night’s work, how’s that sound?”
+
+The boy narrowed his eyes at Rhys. “We saw you. You got gold.”
+
+Rhys narrowed his eyes back. Lifting his chin, he looked down at the boy as best he could from his modest height. “That’s right. I have gold. And a plan. If you want, go ahead and take on the trash pit on your own. You don’t know it like I do. You don’t know the technique to make bags, either. Work for me. I have knowledge, and I have skill. I can guarantee you all income. Or you can take your chances, work on your own, and see how far your luck gets you.” Not as far as me, was the implied finishing line.
+
+It was the same psychological trick all businesses used. Stability, or risk? Join the business, or strike out on your own? In this case, of course, it wasn’t as good a bet as it would usually be. Rhys had only been in business for two days, and couldn’t promise a steady wage forever. In truth, if they decided to strike out on their own and provide competition, there was little he could do about it, and not only that, they’d probably make more money, provided they found a source of cloth for their bags. It was a bluff. A bluff that he alone had the knowledge and skill necessary to succeed. And he wore that bald-faced lie without hesitation, as firm a set to his face now as there had ever been.
+
+It wasn’t easy to defend trash. Often, he himself knew it was trash, down to his soul. And to defend it anyways, knowing it was low quality anime, with low quality characters, to look someone in the eye and insist that trash was incredible—well, that took face. Thick face. He had a lot of practice with gazing at someone and, with full faith, telling them they’d love an absolutely horrible series that no one, neither him nor the creator, could love. In other words, he had a lot of experience with bluffing. And so, in this moment, not even a hint of a blush showed on his face, nor a single sign of flinching.
+
+The boy hesitated. He glanced back at the other kids. A few of them, especially the younger ones, seriously listened to Rhys. One or two edged toward him already, clearly tempted by his offer.
+
+“Five pennies a day,” the boy insisted at last.
+
+“Five? Do you think I’m a moneybags? That big sale I made today was once-in-a-lifetime. I can’t afford to pay everyone that much. Three.”
+
+“Four.”
+
+“Three and a quarter.”
+
+“Three and a half.”
+
+Rhys stuck his hand out. “Welcome on board.”
+
+At three-and-a-half pennies per person, he could pay for the kids’ labor, collectively, with one potion. In fact, given the ratio of a hundred copper to one silver, ten silver to a gold, he could pay for the kids, all fifteen of them, with one-fifteenth of one properly-priced potion, never mind one of his marked up potions. It was still a great wage for the kids, especially at a daily rate. It was better than some adults’ wages, in fact. It wasn’t a fair cut of his profits, but if he gave them all a fair cut of his profits, he’d be undercutting him and Bast far too much.
+
+Bast cut him a look. Rhys quietly shook his head. Your profits are safe, friend.
+
+They shook on it, and the other kids crowded round. “What do we do?” “Where are we going?” “Is there really gold in the trash heap?” “Where’s my pennies?”
+
+Rhys stepped back, and Bast stood between him and the other kids. He held his hands up. “Pennies will be distributed at the end of a day’s work. Everyone, right now, I need all of you to head back and gather your crafting gear—your needle and thread. Eat dinner, then head to bed as normal. Bast and I will bring you raw materials, and I’ll instruct you on how to construct bags. If you don’t make at least one bag tonight, you won’t receive any money. If you make more than ten bags, I’ll give you another half-penny for each additional five bags.”
+
+In other words, they had to make fifteen bags to get the reward. It was almost impossible, but that was exactly the point. Bonuses weren’t meant to be handed out. Bonuses were meant to inspire workers to impossible feats and push themselves beyond their healthy limits.
+
+The kids muttered amongst themselves. A few nodded, while others shook their heads.
+
+Rhys clapped. “Bast and I will be skipping dinner again tonight, so if someone could save us some food, we’d greatly appreciate it. We will see you tonight, and thank you for joining my bag-making enterprise!”
+
+He walked away, Bast at his heel. The other kids dispersed, as ordered. When they were far enough away that the children wouldn’t hear them, Rhys reached into his pocket and counted out half of his profits for Bast. “Here.”
+
+“What about the kids’ money?” Bast asked, shocked.
+
+“I already took it out mentally before I split it in half. Bonuses will come out of my personal take… not that I expect to hand many out.”
+
+Bast stared at the gold coins in his hand for one more second, then took a deep breath and tucked them away. “I apologize for everything I’ve done to you up until this day. I was a fool.”
+
+“Yeah, yeah. Hey, just remember that you’re on the right side now,” Rhys reminded him with a grin. Without Bast around, that older kid would’ve probably just beaten him up and taken his money. Bast was a threat and a bodyguard alike, someone he could wield both offensively and defensively.
+
+Bast chuckled. He cracked his knuckles. “Ain’t that the truth. I almost wish Aric had tried starting something. My fists are getting itchy.”
+
+“Hair growing in your palms?” Rhys joked off-handedly.
+
+Bast stared at him.
+
+Rhys coughed. Not a thing here, huh. “Anyways. Let’s head out to the trash pit. We’ve got a lot of fabric to cut and deliver. I’ll cut, you deliver?”
+
+“I’m faster than you, after all,” Bast agreed.
+
+“Rub it in, why don’t you.”
+
+Bast chuckled. He followed after Rhys for a few seconds, then spoke again, his voice slow, almost cautious. “If you were strong, would you still use me?”
+
+Rhys glanced back. “Huh? What, you mean, stronger than you? Of course I would. There’s only one me. I can’t be in two places at once. And besides, I don’t like manual labor. I’ll always need someone to do the manual tasks.”
+
+Bast grinned. He strode faster, quickly passing Rhys. “Good.”
+
+“Hey, get back here! Are you making fun of my slowness? I’ll be fast, one day…”

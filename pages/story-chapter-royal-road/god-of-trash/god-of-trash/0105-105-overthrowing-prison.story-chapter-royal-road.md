@@ -1,0 +1,71 @@
+---
+id: 33b1cfbd-9835-52b2-a00e-6445f7806d8c
+page-type-slug: story-chapter-royal-road
+title: "105. Overthrowing Prison"
+slug: 0105-105-overthrowing-prison
+partOf: god-of-trash
+position: 105
+ownLength: 2113
+unit: words
+publishedAt: 2025-06-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2369559/105-overthrowing-prison"
+royalRoadId: "2369559"
+---
+
+Rhys pressed a hand on each body, filling them with mana or whatever filthy energy his trash generated, then sat back to wait. There would be rats for the bodies, he knew it. He’d seen it happen often enough, the rats swarming the bodies of deceased prisoners. They ate no better than the prisoners—no, worse, because they got the scraps the prisoners left behind. The beasts were starving, and fresh meat was fresh meat.
+
+They came. Slowly, quietly. First one rat, darting out of the darkness to nibble at the guard’s ear. Then another, this one bold enough to try the eyes. Then another, and another, and another, until a swarm of gray-brown bodies writhed over the dead guards, tearing them to pieces. As they ate, they ate Rhys’s mana, and with it, they grew more maddened, more desperate. Their eyes began to glow a foggy green-brown, their teeth sharpened, and their chitters grew louder. The mana filled them, consuming them, until it colored every piece of pitiful mana that existed in their tiny bodies, then overwhelmed it, then reforged it, making them more, making them strong.
+
+The rats stopped eating. Only skeletons remained. Rhys snapped his fingers, and they whirled, all facing him. The two of them shared one mana, one thought, one mind. He felt their hunger, and they felt his hatred, his desires, his need for revenge. He’d spent too long here to remain neutral, to see it from the outside, to be ‘walking his path’ and no more. The guards were brutal. They attacked children, women, and men with impunity, forced themselves upon those they favored, played games with the prisoners’ minds and bodies. They had left the path of humanity, and strode upon the path of beasts instead.
+
+So it was fitting that he killed them with beasts.
+
+Rhys strode forth. He was in the deepest part of the mine, where the most toxic stones existed. Magical mines, it turned out, were little different from non-magical mines, save that some of the ores within them possessed magical properties for the better, but also for the worse. He’d seen prisoners die from touching the wrong vein, or lose their minds from seeking after the wrong ore. The guards just laughed and sent more bodies into the depths, careless of the casualties they incurred. Careless, but no longer. He would make them care. Even if it was only in the last heartbeat of their worthless lives, he’d make them regret it.
+
+As he walked, the rats darted out. They rushed off to their homes and hidey-holes, calling forth the other rats, sharing their newfound mana with them. Their eyes, too, changed to a murky green-brown, and they dashed out to join the swarm, following their Rat-King, their savior. They connected to him, and felt the future he promised, the song of a fat meal and fresh meat, and that was all they needed to know. He was their King; he would lead them to glory.
+
+He swept past the other prisoners in Cadre 7E, the rats at his heels. One of them stood at the sight of him and stepped forward to block his path. His eyes flicked at her numbly, registering her face. He recognized her, her once-blonde hair desperately smeared with mud to avoid the guards’ lustful eyes, her pretty face ruined with silt and grease to become unappealing, so she could survive. Her name… he forgot. Names weren’t meaningful down here. The guards beat those who remembered them and dared to use them. He’d kept his name close to his heart, and never spoke it, but he knew there were prisoners down here who no longer had such a treasure, who had been completely, utterly forgotten. She wasn’t one of them, but casting his eyes to the side, he saw a wreck of a man who had, a skin-and-bones figure who even now gazed at the wall with hollow eyes and chipped endlessly at bare stone, unaware he wasn’t mining a vein any longer.
+
+“Where are you going? They’ll beat us all if one of us abandons our post,” she reminded him, with a voice full of fear. The guards’ beatings were worthy of her terror. They held nothing back, seemingly forgetting that the ones they beat no longer had any magic, and if they had imbued no regenerative powers into their bodies during their magehood, they had no ability to heal beyond that of a mortal. Prisoners came back broken, if they were lucky enough to come back at all. He glanced at her arm, at the lump on her forearm where it had healed wrong. It was their reality, but no longer.
+
+“They won’t beat anyone anymore,” he murmured, and gently pushed her aside. When they were both reduced to their bodily powers, their strength had been about equal, but with his renewed power, he could move her aside as easily as he might move a child.
+
+She stumbled aside, then blinked and stared at him, shocked. “You… how?”
+
+“Follow me. I’ll get all of us out of here.”
+
+“I’ll get the others,” she said, and ran off.
+
+Rhys watched her go, then walked on. There was no point in waiting. In fact, it would be better to go ahead. The other prisoners would only be a liability to his first strike. After the first strike, then he would need their help, but at first, it was better if he went alone. They still had their empowered bodies, but no more. No skills, techniques, mana-empowered punches or spells. They could fight, but not meaningfully against the mage guards. Tier 1s could easily overwhelm them, save the few higher-Tier body-focused mages who needed high-Tier guards even without their cores.
+
+Rhys flexed his hand, looking at the back of it as he walked on. If he had to estimate, he was at Tier 3 with this trash star, as long as it kept burning. He had no idea if it connected him to the System, or if he had skills again, and he was kind of afraid to find out, but he had access to his techniques and spells now, one way or another. He would have to keep feeding the trash star to remain a mage, but that was no problem. He absorbed trash as he walked and breathed. He was surrounded by trash, wallowing in it. The other people around him were trash, so he could absorb their exhaled breath, their filth, anything they created. The mines were coated in rock dust, which was nothing but more trash, not to mention the slag, the human effluent, and the discarded scraps of clothes, eating utensils, and even long-abandoned bodies. All of them went into the trash heap in his soul.
+
+And the guards, well, the guards were the worst kind of trash. He lifted his head, gazing ahead. He looked forward to the next ones. He had some ideas he wanted to try out, and they were just the subjects he was looking for.
+
+Up ahead, a guard stood in a nook, separated from the other guards, as he lit a pipe. He looked up to find Rhys approaching and furrowed his brows. “Prisoner! What are you—”
+
+Rhys pushed off the ground. Trash Step sped his feet, and he reached the guard in the space of a breath. His hand landed on the guard’s face and gripped it tight. He could have twisted so easily, snapped the man’s neck, but he didn’t. Instead, he looked the man dead in the eyes and drew inward, pulling on the man’s life force, mana, vitality, everything, the same way he drew in all kinds of trash. Because that was all this man was: a tiny scrap of human refuse that hadn’t discovered he was trash yet. That was okay, though. Rhys knew what he was. And he intended to use this man like the filth he was.
+
+The man didn’t have time to scream. His face paled, his body went limp, and he collapsed to the floor, dead. Rhys chased him down, instantly putting a hand on the man’s core, but he sensed nothing. He frowned. His second experiment would need a living subject, which meant it would have to wait.
+
+“Jones, what was that? You messin’ with that girl again? I told you, wait ‘til after work. I’ve gotta file reports if you do it on the job,” a jovial voice complained from around the corner.
+
+Wait, but not long, it seemed. Rhys gestured. The rats swarmed and devoured the body, bones and all, in a heartbeat. He flicked his wrist, and they melted away, vanishing into a thousand tiny crevices and shadows. Rhys pressed himself up against the nook, turning slightly away and cupping his hand to his face just like Jones had done. They were about the same height, about the same weight. He wouldn’t pass for Jones for longer than a second.
+
+A second was all he needed.
+
+The guard stepped around the corner, out of sight of anyone on the other side, and Rhys yanked him into the nook. The guard struggled, instantly trying to shout, but Rhys pressed his hand over the man’s mouth and smothered his voice before he could get anything out. It was almost comical, the ease with which he pinned this man down and kept him from shouting, when these guards had lorded it over them for years, beating down dozens of them with ease; but now he had mana, or a facsimile of it, and his Tier 3 cultivation had returned. Between a Tier 1 and a mana-less mortal, the winner was obvious; between a Tier 1 and a Tier 3, the winner was equally obvious.
+
+Just like with the previous guard, he drew the man’s energies into himself, but unlike the first one, he paused seconds before he killed the man. He eyed him, engraving into his mind that this man was trash, nothing but filth. It wasn’t a hard task. He only had to bring to mind the horrors he’d seen over the last three years, and the man became a worm before his eyes. In that worm, though, was a bright spot of mana. A core, that the Empress had deigned to give this shitstain of a living being—not ‘of a human,’ because this thing could not be called human. His eyes narrowed. He plunged his hand into the man’s guts and reached for that ephemeral spot of light.
+
+The man pitched against his hold. He felt wet heat press against his palm as the man vomited blood, then began to shudder into death. He dragged out the core, only to find his hand empty. Just like the first, the core had died with the man.
+
+Rhys twisted his lips. It seemed the Empress’s signature technique wouldn’t be replicated so easily. Then again, if it was easy, wouldn’t everyone go around trying to rip out everyone else’s cores? It made sense that it was hard, because otherwise, battles would completely revolve around core-ripping and involve no actual combat. On another day, he might have found the image of mages revolving around one another, hands bared, each trying to pat the other’s stomach amusing, but not today. There was too much darkness in his heart today.
+
+In any case, he’d confirmed one thing: cores weren’t purely physical organs. Or rather, they weren’t physical things at all. They were something else. Some kind of spiritual or energy-form, simplified by the limits of human understanding into an ‘organ,’ when in reality, they seemed to exist on another plane, or exist in a purely intangible format. Ripping out other people’s cores was about more than a quick jab and a deft hand. There was some fundamental comprehension he was missing. Some understanding about cores that he personally lacked, and until he figured out what he was missing, he might as well drain a lake with a sieve or kick a clay ox into the ocean, for all the progress he would make.
+
+He shrugged, turning his gaze upward. There were more vermin ahead. Plenty more chances to refine his technique. And if he couldn’t figure it out, at least he didn’t waste his time. After all, vermin had to be exterminated. Filth had to be expunged. He was the ultimate trash heap, and he needed to confine all the garbage into himself before he’d be happy.
+
+“Samren…?”
+
+Rhys tossed the body to the rats and pressed himself into the nook again. He wasn’t aware of it, but a ghost of a manic smile clung to his face. More twisted lambs to the slaughter. And he was a willing executioner.

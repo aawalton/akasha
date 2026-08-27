@@ -1,0 +1,173 @@
+---
+id: a46ea9d1-4e9c-561a-b9c0-8477b00e2fae
+page-type-slug: story-chapter-royal-road
+title: "92. On The Way Home"
+slug: 0092-92-on-the-way-home
+partOf: god-of-trash
+position: 92
+ownLength: 2688
+unit: words
+publishedAt: 2025-05-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2320333/92-on-the-way-home"
+royalRoadId: "2320333"
+---
+
+Rhys left the stadium with dampened spirits. He’d feared this reality, and now that it had come to pass, he wasn’t any happier for having correctly predicted how horrible a position his region held. If anything, the Schoolmaster’s absence had only confirmed how terrible their standing was. He’d already figured out that this was more-or-less a helpless fight, but seeing their own officials flee before the attack sure confirmed it. He didn’t know the status of general nobility around Purple Dawn to know how high a rank the remaining nobility, like the Coyales, were, but he was pretty sure all the people who could, or who didn’t have a kid in the tournament, had cleared out. Now that he was looking, the stands were pretty empty, save for the Sword Saint and some people whose faces matched contestants’. The Empress had made it very clear she had a plan to remove the Sword Saint from the equation. Once he was gone, did she attack? Did she wait for the final day of the tournament?
+
+Rhys sighed. He rubbed his forehead, frustrated. There was nothing he could do. He saw it coming—it was so obvious—and all he could do was watch the wave roll in. He was powerless to do anything against someone so powerful, and it sucked. I’ll escape. Train up. Come back and destroy her later. But even that was little comfort, knowing that she would march across the region until however-many-years it took for him to get strong enough to overcome her.
+
+After a few seconds, he shrugged to himself. Oh well. At least it was only Purple Dawn! True, she’d probably roll over Infinite Constellation, too, in short order, but his sworn enemy would get taken down! …By another, more powerful enemy, but hey. It was important to remember that there was always a bigger fish. Maybe a yet more powerful enemy would gobble up the Empress!
+
+Rhys paused, then shook his head. “No, I don’t think I want that.” More powerful than the Empress, when the Empress was already unimaginably more powerful than him? He didn’t want to see that at all.
+
+“It doesn’t matter what you want. You thought you could get away with humiliating my son, and sealed your fate in that moment.”
+
+Rhys looked up. Cassian Coyale stood before him, his arms crossed, his son half-cowering, half-smug beside him.
+
+Unhesitatingly, Rhys turned a sharp right and took a different road.
+
+A man stepped out of the shadow, blocking off his path. He checked the other directions, only to see flunkies stepping out of the shadow in all directions.
+
+Turning back to Cassian, Rhys casually strolled back to where he’d begun. He rolled his shoulders back, puffed his chest, and struck a pose. If they were going to do this, might as well do it right. “To what do I owe the honor?” Rhys asked, as if he didn’t know.
+
+“You thought you could humiliate the Coyale family in front of everyone. Regret your poor decision before you die.”
+
+“Incorrect. Your son humiliated your family in front of everyone. I tried to rectify his poor behavior by instilling a little bit of humility in him. Far be it from me to tell you how to raise your child, but if you keep coddling him like this, he’s going to grow into a total brat,” Rhys said, shaking his head at Cassian.
+
+“What?” Cassian asked, his voice dangerously low.
+
+Rhys had already sealed his death warrant, as far as Cassian was concerned, so right now, he was free to mouth off as much as he wanted, and boy did he want to mouth off. “Listen, Cassian, you’ve spoiled the kid rotten. I mean, he just runs around beating up poor kids. Is that good behavior? Is that what the Coyale family considers a well-raised child?”
+
+Cassian snorted. “You lie. You know nothing of my son.”
+
+“I know enough to know that he enjoyed licking my boot. I know enough to know he should do it again, or I’ll beat him up again.” He shook his head at Cassian and let out a long sigh, full of reluctance, as if he didn’t want to reveal these details to Cassian for fear of disappointing him. “You know he offered to buy my strongest technique before battle, then mocked me for not using it? What kind of foolish behavior is that? I understand buying people’s aces from them. That makes sense. But to mock me for not using it, when I’m being graceful and avoiding an insta-kill on him? That’s just foolishness. That’s the kind of behavior that will end up with him dead.”
+
+Cassian narrowed his eyes at Florian. “Is this true?”
+
+“He’s lying! Of course he’s lying,” Florian snarled.
+
+“Uh huh. Twenty-one thousand, Florian. I promise I won’t use it on your dad,” Rhys mocked him.
+
+Florian’s face flushed. He glared at Rhys. “Shut up, peasant! Dad, beat him up. Show him the might of the Coyale family, so he stops mocking us!”
+
+“Daaad, show him the might of the Coyale family,” Rhys mocked in a high pitched facsimile of Florian’s voice.
+
+“Shut up!” Florian snapped.
+
+Cassian stepped forward. He drew his sword. The blade sang, so perfectly forged that it cut the very air around it. His mana swelled, too, at least at the Tier 3 level, though it felt weak, far weaker than Ev’s signature. “Many people look down on us merchants for buying our strength. You’ll see that it’s not a trait worth mockery at all.”
+
+Rhys drew a potion from his storage ring, and a bit of a trash-stick with his other. “Nothing wrong with buying strength. All forms of strength, even trashy ones, are still strength.”
+
+“A surprisingly egalitarian take.”
+
+Rhys shrugged. “I’m just an egalitarian guy.”
+
+A surge of mana from behind him was his only warning. Rhys jumped forward, only for a cold sensation to slice down his back. The men who had blocked off the path were now attacking him, with no care for morality or righteousness.
+
+Activating Trash Body to suppress the pain, Rhys tutted. “What bullying. A higher-Tier mage like you, ganging up on a schoolkid like me? What will the other nobles say when they find out?”
+
+Cassian laughed darkly, approaching, while the other two men closed in on the left and the right. “Nothing, because you’ll be dead.”
+
+“Nah.” Rhys glanced around. The man behind him stood close, about to strike again, while the other two raised their swords. He was literally cornered… but that was exactly where he liked to be.
+
+Whipping around, Rhys attacked the man who’d slashed his back first, hand curled into a claw, the bit of stick clenched in his teeth. The man was only Tier 2, and had enough time to look shocked before Rhys’s clawed hand lashed out, smashing into his temple. His fingers gouged through the man’s face as the claw attack landed with enough power to break bone.
+
+The other two lunged at the same time, trying to pincher him. Rhys drew out a familiar pole from his storage ring and held it out horizontally, then activated it. Mana flowed out of his body, but he pushed more in, willing to pay the price. He needed an instant kill right now, no matter how much mana it took. His core guttered, all but clean of mana, but the Trash Intent activated. Steel hurtled out, piercing through the men’s chests at the same time. He retracted his intent in the next instant, and they both stumbled back, gurgling as they bled. One toppled, but the other stayed on his feet. Rhys closed in, delivering another claw attack, and the man fell.
+
+Only Cassian and Florian remained. Cassian had been advancing, but now he retreated, his eyes wide. “What are you?”
+
+Rhys laughed. He kept his high stance, though he bled and his core ached, so empty of mana it sagged. He sipped a tiny sip of mana potion, then activated Trash Intent on the stick and dipped it into his filth potion. “Me? I’m trash, just like you. Can’t like recognize like?”
+
+He vanished. Cassian stared around, lost.
+
+A shadow passed over the moon. Cassian looked up in time to see Rhys in midair, and then a stick touched his cheek. Rhys landed behind him, delivering a similar cheek touch to Florian.
+
+“Now you’re outwardly trash, too,” Rhys said happily.
+
+Cassian screamed. He battered at his face, staring at his filth-smeared hand in shock. Black veins tore through his flesh, and he dropped to his knees, unable to stay upright. His Tier crumbled. Before Rhys’s eyes, his aura diminished from Tier 3 to 2, the unsteady Tier directly decaying under the weight of Rhys’s impurities.
+
+Florian, too, trembled. Rhys had put less of the potion on him, but he still took serious damage from the impurities. The same black veins colored his suddenly-pale skin, and his mana flow slowed, though his Tier didn’t diminish like Cassian’s did. He blubbered, gripping his father’s arm. “Please! I have so many impurities… father, surely you can fix this?”
+
+“Get off of me, you slime! Useless parasitic child, how dare you sic a demon like this on our family? How dare you aggravate someone so above your strength? Bow down and apologize to him, apologize for our whole family!” Cassian barked.
+
+Florian stared at him, betrayed. “F…father?”
+
+Cassian smacked him on the back of the head, forcing Florian to his knees. “Lick his boots! Do it again! Lick them clean this time. Whatever it takes to get him to forgive us!”
+
+Rhys watched all this with raised brows, taken aback. He hadn’t really expected this strong of a reaction. Honestly, he’d planned to poison them a little, let the impurities knock them out, then retrieve his precious impurities and leave. This whole groveling thing was beyond his calculations.
+
+A moment later, he shrugged internally. Whatever. It wasn’t like he was against getting groveled to. And a little more boot licking would only do Florian good. He extended his foot and planted his hands on his hips. “That’s right. Lick it. And you, too, Cassian.”
+
+Florian wrinkled his nose. “Never again! Isn’t that what you told me, father? …Father?”
+
+Cassian dropped to his knees and licked Rhys’s boot without the slightest hesitation. “Please forgive me and my child, Potion Master. He didn’t know he angered a hidden master like yourself. Can you find it in your great and magnanimous heart to forgive us?”
+
+A hidden master? Rhys’s brows raised a little higher. How did trash like him get mistaken for a hidden master? Then again, if this was how hidden masters got treated, he wasn’t against getting mistaken for a hidden master, especially if it meant Cassian would be too afraid to try revenge a second time.
+
+Florian stared, frozen in disbelief as he watched his father lick Rhys’s boot. His eyes were wide, and he sat absolutely still, afraid to move, afraid to retreat or advance. “No… no,” he whispered softly, almost to himself.
+
+He looked at Florian and pointed at his other boot, waggling his brows expectantly.
+
+Hesitantly, Florian lowered himself. He extended his tongue, then flinched back. “No. I can’t do it. Not again—”
+
+Cassian’s hand wrapped around the back of Florian’s head and pushed him into the boot. “Lick it before I kill you,” he growled.
+
+Florian startled. A betrayed look crossed his face, as though this were the first time his father had ever ordered him to do anything. Very reluctantly, he extended his tongue… and licked Rhys’s boot.
+
+Rhys watched the whole spectacle with a detached kind of horrific cringe. He wasn’t actually into boot-licking or -kissing, and he’d only demanded it in the first place because it was such an obvious deference and a way to decisively humiliate Florian in front of everyone. Having two men now licking his boots… the only thing he felt was self-disgust and a great desire to be anywhere but here. Yeah, this is enough. He kneeled down and put a hand on the back of father and son’s heads, and extracted the impurities he’d imbued into them with his shit stick. “It’s good that you understand my true strength, now. Take care you do not overstep your status a second time.”
+
+“Of course, poison master, of course,” Cassian assured him, as his crumbled Tier 3 status restored itself.
+
+“Well, if that’s the case, then… good night.” Rhys waved and walked away.
+
+Florian started to stand, but Cassian grabbed him and pulled him down into a bow once more. Both father and son remained in the deferential pose until long after Rhys faded from site.
+
+Rhys rubbed the back of his neck. Even after everything, he still hadn’t expected the impurities to be that powerful. He probably could’ve beaten Cassian without them; he’d only used them to prevent the long, drawn-out, gear based battle of attrition he’d had earlier with Florian. When it came to an item-spammer, the best way to take them out was to act decisively and quickly, strike immediately and drive them to their knees before they could start the item spam loop. That was all he’d been thinking when he’d used impurities against them… and here he was, with two shining-clean boots.
+
+Rhys scuffed them in the dirt a little, rubbing away the clean as though he could rub away the memory. That was a rough one. He’d never expected to experience two men licking his boots, and now that he had, he never wanted to experience it again.
+
+A low laugh interrupted his thoughts. “Hello there, poison master.”
+
+Rhys looked up to see bright white robes in the tree over his head. He sighed. “Saw all of that, did you.”
+
+Bast hopped down, a big grin on his face. “Yep. And you didn’t even need to call on your big brother Bast! I’m proud of you, I really am.”
+
+“They were bastards, right?”
+
+Bast looked at him. “Checking after you humiliated them?”
+
+Rhys shrugged. “I mean, better late than never. Let’s not forget that they surrounded me and ambushed me, too. They deserved it, one way or another. But it’d make me happier if they were also bastards in general.”
+
+“Well spoken. In any case, you’re right. They’re well-known bullies around town. They’re from a small, ‘exclusive’ sect nearby where all the wealthy types who aren’t good enough to make it into Purple Dawn send their kids, and pretend it’s better than Purple Dawn, so they’re always flaunting around town. Especially Florian. I’ve been looking for an excuse to beat the brat up for a while, but he’s smart enough to not do anything stupid in front of someone who can fight back,” Bast explained.
+
+“Guess he misjudged, going up against some trash like me. You know, there’s a saying about trash. Don’t ever fight against trash, because you can’t win. They’ll just drag you down to their level and pull you into the mud with them.” He glanced at Bast and grinned. “Guess Florian hadn’t heard that one.”
+
+“It’s a good one to keep in mind, around you.”
+
+“Ain’t that the truth.” Rhys turned serious. “Think the Empress is going to attack tomorrow?”
+
+“Hope not. I’ve got a tournament to win, and an old friend to beat,” Bast said, thumping Rhys on the shoulder.
+
+“Oh, come on. No way I’m up against you in the finals. Plus… don’t we have a couple rounds left?” Rhys pointed out.
+
+“Two to go. Semifinals and finals. Congrats on making it to the semifinals, by the way!” Bast said.
+
+“Wait, what?” Rhys asked, flabbergasted. When did he make it to the semifinals?
+
+Bast laughed aloud at Rhys’s startled face. “You really didn’t notice? Today was the quarterfinals.”
+
+“How the hell was Florian in the quarterfinals?” Rhys asked aloud, shocked.
+
+“Bought his way there.”
+
+“That… makes a lot of sense.”
+
+They walked on in silence for a few beats.
+
+“See you tomorrow?”
+
+“Yeah. I’m bringing my all, so don’t hold back!”
+
+Bast chuckled. “Against you? Never.”
+
+The two parted, taking their separate paths to their dorms.

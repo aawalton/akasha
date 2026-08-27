@@ -1,0 +1,189 @@
+---
+id: 04381152-d201-55c0-9698-562c010db981
+page-type-slug: story-chapter-royal-road
+title: "Threads 63-Dressmaker 3"
+slug: 0080-threads-63-dressmaker-3
+partOf: forge-of-destiny
+position: 80
+ownLength: 4297
+unit: words
+publishedAt: 2021-03-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/650066/threads-63-dressmaker-3"
+royalRoadId: "650066"
+---
+
+Ling Qi looked down at their destination, tucked away at the end of a winding river valley. Trees grew thickly at the riverside, and the branches hung heavy with cocoons. The silken wrappings were a riot of colors and glittered like jewels under the morning sun. Some were tiny, barely the length of a finger, while others were large enough to hold a small child. In the dark shadows of thick canopy, she heard the susurrus of thousands of wings and spied the movement of many fuzzy insect bodies.
+
+Yet even more than the cocoon forest, the building at the end of the valley consumed her attention. She could think of only one thing to say.
+
+“It’s very bright,” Ling Qi said, something between wonder and trepidation in her tone.
+
+“Mother’s apprentices are all somewhat eccentric,” Cai Renxiang agreed, peering down at the sprawling, blazingly bright pagoda complex.
+
+Ling Qi supposed she was being unfair. It wasn’t the sort of eye-searing monstrosity that Elder Jiao presented himself with. The pagoda was like a sunrise rendered into architecture, bands of vibrant color that seemed to shift every time she moved her eyes. Roof tiles shone like mirrors, and burning braziers hung from the eaves, crackling with pinkish white and pale orange flames.
+
+“The Dawn isn’t the worst, so far as sun spirits go, but ugh, that’s a lot of solar qi,” Sixiang grumbled.
+
+“Mm, while it is not for me, there is nothing inherently wrong with brighter colors,” Meizhen mused, standing beside them with her hands tucked into her sleeves. “The Coral Serpent families cultivate their towers and temples in a similar fashion.”
+
+Ling Qi glanced at Meizhen, trying to picture a Bai dressed in bright and gaudy colors. She failed. “Should we head down? We have an appointment.”
+
+“Quite right,” Cai Renxiang said briskly. “Sir Lin is quite busy. Let us not be rude by making him wait.”
+
+They descended the stairs carved into the hillside and found the path leading toward Lin Hai’s workshop. Paved with white stone, it stood out sharply in the darkness beneath the trees. That darkness, Ling Qi noted, was artificial given the dense dark qi infused into the leaves, causing them to cast wider and darker shadows. It seemed to be for the benefit of the multitude of moths that flew and nested above their heads. Like the cocoons, they came in a myriad of colors, sizes, and shapes.
+
+In the end, she put them out of her mind. The spirit beasts were happy to mind their own business, and she was happy enough to mind hers.
+
+<Good thing, too. What a lewd bunch they are. Wouldn’t want your ears catching fire,> Sixiang chuckled. <So this is the lovenest, huh.>
+
+Ling Qi kept her eyebrows from twitching and ignored Sixiang as they left the shadow of the trees and stepped onto the stone path that wound through the colorful gardens that surrounded the main building. As her eyes roamed up the stairs which lead onto the wide veranda surrounding the main building, she almost startled as she met a pair of bright green eyes.
+
+There, lounging on the railing, was a beautiful woman with long golden hair and fair features wearing a scandalous, pale rose gown that left her shoulders bare and displayed a near indecent part of her generous chest. The hem of the gown barely fell past her knees and rode almost halfway up her thigh thanks to the position she was seated in. Ling Qi barely had time to take the sight of her in, along with the unsettling fact that she had not felt her presence at all, before the woman vanished in a flash of light, leaving a fox with pale golden fur and five tails to leap down from the railing and then trot off into the interior of the pagoda.
+
+“That is Sir Lin’s spirit companion,” Cai Renxiang said from beside her. “She is likely going ahead to announce us and rouse him from his labors.”
+
+“Of course,” Ling Qi replied automatically. In retrospect, it was pretty obvious.
+
+“He should teach his spirits to appear more appropriately in their human shapes,” Meizhen said with a sniff.
+
+As they mounted the stairs, Cai Renxiang said, “Worry not. Although Sir Lin has extravagant tastes in his personal appearance, he remains a master of more traditional fashions.”
+
+Ling Qi glanced down at her dress, which was apparently the man’s work. She supposed that he must be given the style of her own dress.
+
+<It’s a good thing you don’t remember most of the guests at Grandmother’s party very well,> Sixiang chuckled.
+
+Ling Qi kept her peace as they entered the pagoda proper and came to a comfortably appointed waiting room lined with lavish couches and hanging planters full of colorful flowers. A closed set of sliding doors awaited on the far side of the room. When she stepped through, a pace behind the others, she glanced back to see the doors swinging silently shut behind them. Yet the room did not grow dark. The paper lantern hanging from the ceiling, painted with images of the dawn on all four sides, managed to cast enough light that it still felt like they were standing outside.
+
+Ling Qi had just turned to look at Cai Renxiang, opening her mouth to ask if they should take their seats when the faint rattle of sliding doors cut off her words. Across the room, the doors slid apart, and dark purple mist billowed out, crawling along the floor and rising in churning strands of fog. Then lights, a beam of solar radiance that shot from the lantern overhead only to split into four smaller beams, carved a channel through the mist for the figure that emerged.
+
+Tall and thin as a willow whip, the man that strutted from the mist had features far more fine and delicate than even most women. His long black hair was like silk, and faded to a dark purple color in the ringlets that reached his bare shoulders. He wore a billowing, open-chested violet top with a thick layer of feathery material around the low cut, partially concealing his shoulders and chest. Ling Qi felt herself flush darkly as her gaze slipped down, and she immediately fixed her eyes on his face rather than the skin-hugging black silk pants he was wearing.
+
+Even then, she couldn’t help but notice further details like the hint of color on his lips or the thickness of his eyelashes. If she had just looked at his face in isolation, she would have been almost sure that it was the face of a woman. As she contemplated that, the lights swung back in to illuminate him then exploded into motes of light, scattering the purple mist and leaving only a few streamers curling around his sleek boots.
+
+“Lady Ren!” greeted Lin Hai. The man stood with one hand on his hip and the other cupping his chin. A golden jeweled claw that encased his pointer finger rose to tap against his cheek. “How was the entrance? I believe I have improved since last time.”
+
+“It was very impressive,” her liege replied. “A very controlled display.”
+
+“Of course that is the part you would compliment,” the man said ruefully. “Still, I was not wholly certain how much your companions would be able to handle.” The strangely dressed man before her rippled then, space seeming to stretch and warp for a bare instant as she glimpsed his unrestrained qi, vast and placid. Sights and sounds and smells crawled along the edge of her senses, a decadent riot, an endless festival of sensation just out of reach. Then it was gone, and only the man remained.
+
+“You are preparing to take the next step then?” Cai Renxiang asked. “Mother will be pleased.”
+
+“I will not boast until my first star has bloomed and my elder’s seal has been received,” the peak fifth realm cultivator replied easily. It was interesting he had not already been chosen to be an elder.  Normally just being a fifth realm was enough.“But enough of myself. I see you have brought two of my children back to see me, and their owners, too, at that. My apologies, young ladies, but might I have your names?”
+
+“I am Bai Meizhen,” her friend greeted first with a shallow bow appropriate to greeting an unrelated senior. “Thank you for the work you have already provided.”
+
+Ling Qi bowed a little deeper as one would to a clear superior. “Sir Lin, it is an honor to meet you. I am Ling Qi. Your work has been invaluable to me.”
+
+“It was a pleasure to do a favor for Lady Ren,” Lin Hai said, abandoning his pose to stroll toward them. “And a wonderful challenge to create something appropriate with such limited materials. That it brought the Young Miss to my doorstep was a welcome bonus.”
+
+Ling Qi glanced toward Cai Renxiang, whose expression was a touch wooden by her judgement. “Your encouragement toward irresponsibility is noted, Sir Lin, and also dismissed, as always,” she said.
+
+“Ah, it seems I have earned a rebuke, although yours are not so sharp as Master’s just yet, Lady Ren,” the odd man chuckled, and filtered through Sixiang’s perceptions, she thought that she caught a fleeting hint of melancholy from him. It was gone before her muse could so much as articulate the feeling, but it left Ling Qi to wonder at the history implied there.
+
+Lin Hai clapped his hands then, and any hint that he was less than boisterous and cheerful vanished. “So, let us inspect how my children have fared over the last year,” he announced brightly. He stepped toward Bai Meizhen, who looked up at him with a staid expression.
+
+“You will find no fault with my maintenance, Sir Lin,” her friend said evenly, managing to look up at the taller man without craning her neck.
+
+“Of course not, Miss Bai,” he dismissed, inspecting her carefully. He flicked his golden clawed finger at the air above her shoulder, and shimmering spectral threads rose, dancing around the man’s fingers. “However, the impression of this child’s experiences will allow me to determine the best way to improve upon the original weave.”
+
+“Are our gowns alive already then?” Ling Qi asked tentatively, thinking back to what her gown had done in the dream and a few other moments of odd reactions from it.
+
+“That is a more difficult question than you might think, young lady,” Lin Hai said, not looking up from the complex weave that had formed over her friend’s shoulder. “There are many degrees of life, you will find, but in the traditional sense, no. I am not my master; such craft is beyond me for the moment. That said, their potential lies closer to the surface than most.” He flicked his fingers again, and the spectral threads dissolved. “You are a redoubtable young woman indeed, Miss Bai. It seems this child is a good match. I know just the materials to use for your improvements and custom pieces.”
+
+He turned to Ling Qi and repeated the motion with his fingers. This time, the threads he drew from her shoulder sparked and snapped like oil from the pan as they wrapped around his fingers. Lin Hai’s eyebrows climbed to his hairline. “I see you have met my master as well,” he said. “Lady Ren?”
+
+“She is a direct retainer of the Cai. Mother granted me certain dispensations,” Cai Renxiang answered carefully. Bai Meizhen glanced at Ling Qi with pursed lips but did not ask the obvious question.
+
+Ling Qi remembered the thread of Liming she had accepted when she pledged to Cai Renxiang and looked down at her gown uncomfortably.
+
+“Well, Master does as Master wills,” Lin Hai said cheerfully, peering down with narrowed eyes at the incomprehensible pattern of sparking and snapping threads that curled around his fingers. “So I am afraid that I will not be able to improve on your gown directly, Miss Ling. This girl has a seed of self, and I will not alter that. But my, what a jealous daughter. I shall have to be careful in fixing your accessories so that she does not take offense.”
+
+“Why do you refer to my gown as a ‘she’ if it is not alive yet?” Ling Qi asked, plucking at her sleeve. She sensed no spirit in the threads, but she wasn’t going to say that the gown’s maker was wrong.
+
+“Because she is a girl, of course,” Lin Hai said in amusement. “Miss Bai’s gown is not quite so far along just yet.”
+
+“I should certainly hope that my gown does not develop into a man,” Bai Meizhen said with a voice as dry as a desert.
+
+“Unlikely as it is, I will not preclude the possibility,” Lin Hai shot back, his painted lips curving slightly up. “It would not do to confuse the poor dear before it is even developed enough for there to be a difference. It is not my way - nor my master’s way - to repeat the mistakes of nature in our work.”
+
+Ling Qi’s eyebrows drew together in confusion. She glanced at Cai Renxiang, who merely shook her head. Some kind of private matter then?
+
+“Very well,” Bai Meizhen said after a moment, though her tone was dubious. “I suppose it is not an important matter for the moment.”
+
+“Indeed. Proud as I am of my work, without my master’s touch, it will still be some decades yet,” Lin Hai said agreeably, stepping away. “Let us away to my boutique then, and we can begin laying out your options.”
+
+The three of them followed Lin Hai back through the doors from which he emerged, entering a long hallway. Many rooms opened off of it, some closed and some open. It reminded her of Zeqing’s home in the way things seemed to move in the corner of her eye and the strangely stretched feeling of the space within. Several times in the side rooms where vast looms and collections of tailor’s tools spun and cut and stitched, she thought she spotted the fox woman again, doing various tasks. Or perhaps there were several similar looking spirits. It was difficult to tell.
+
+<I can’t tell ya. Mature fox spirits are some of the trickiest out there, and I’m not up to seeing through a five tail’s illusions,> Sixiang murmured. The muse did not seem so much wary as deeply curious and a bit on edge. Ling Qi could understand. It felt uncomfortably warm in Lin Hai’s residence, thanks to the solar qi suffusing the air. She supposed the feeling was just her preference; neither Meizhen or Cai Renxiang showed any signs of discomfort.
+
+Soon, they came to a room filled with a riot of color. Gowns and robes and cloaks hung like a glittering jungle from displays all around, and shoes and slippers and boots of every make lined shelves around the show floor.
+
+“And here we are. Let us begin your consultations,” Lin Hai said airily. The odd man snapped his fingers, and his outline wavered like the reflection in a disturbed lake. In the next moment, there were three of him, one facing each of them.
+
+Bai Meizhen glanced her way. “I would prefer to be able to give and receive some advice from my companions,” she said.
+
+“Of course, young miss,” Lin Hai said, speaking from three mouths. “I know how much fun it is for young ladies to critique and advise one another. However, I need to determine your individual tastes before I can present the best options.”
+
+“Very well,” Meizhen acceded after a moment and nodded to Cai Renxiang and Ling Qi. “I will see you in a moment then.”
+
+“Indeed,” Cai Renxiang said gravely, turning toward the section of the display where the more metallically-textured pieces hung.
+
+“See you both,” Ling Qi added, nerves causing her to slip in her diction. However, her concern was swiftly assuaged as one of the Lin Hai led her away. They were not leaving the room. Both of her friends were still in sight, although the sounds of their conversations with their own images were muted to her ears.
+
+“I am glad that Lady Ren’s description of you was so exacting. Darker hues most definitely fit you,” Lin Hai commented as he led her into a forest of dark cloth and silk. “Now, I have heard of your troubles. What sort of image is it that you wish to present?”
+
+“I had thought that you would be the one to tell me that,” Ling Qi replied wryly. “I’ve been told that my taste is somewhat lacking.”
+
+“Nonsense, nonsense.” The core disciple made a dismissive flick of his fingers. “Oh, I can certainly advise you on trends - court fashion is trending toward lighter garb and away from the swimming in silk look popular under His Honored Highness An, and that is in no small part thanks to my master - but my role is ultimately to guide my clients to a destination that they choose. Sometimes, that means guiding my clients to whatever fashion will give them an advantage in the game of court, but…” He paused, meeting her eyes with a thin smile on his painted lips. “You do not seem like the sort for masks and self-deception. The Argent Mirror is a little troublesome like that.”
+
+Ling Qi flicked her eyes away from his. Well, this was someone on the cusp of becoming an elder in the Argent Sect. “I am not sure of what image I wish to present, to be honest. This gown… I love it,” she admitted. “It’s the nicest thing I have ever owned, and it reminds me that I am not weak anymore, that I don’t have to be. I don’t want to cause trouble for Lady Cai though, and wearing the same thing all the time apparently does that.”
+
+Lin Hai gave a wry chuckle. “I cannot say that I am displeased to hear a child of mine so cherished. However, yes, society does not much smile on wearing the same clothes every day.” He let out a curious hum and reached over, plucking at the hem of her cloak. Ling Qi felt it waver and shift. The heavy mantle changed, transforming from a heavy mantle to a light half cloak of deep violet, and then with another pluck, silk writhed like a serpent, transforming into a sky blue ribbon of silk that wound around her shoulders, floating softly in the air.
+
+Her eyes widened. “I didn’t know it could do that.” Ling Qi knew she could make the mantle appear and disappear at will, but she didn’t know it could change like that.
+
+“‘She,’ darling,” Lin Hai corrected absently, brushing the tip of his golden claw across the silk. The pattern on the silk changed, transforming from a plain blue to a complex pattern that looked like moving, falling snowflakes. “The mantle was always made to change, but Master’s enhancement gave her far more versatility. Hm, yes, I think what you need are merely options. Alternate panels and layers, a few more pairs of shoes, perhaps some lace inserts for your sleeves. Your hair would complement gemstones well, so perhaps something could be done with that.”
+
+Ling Qi remained silent as the craftsman spoke to himself. “I do not think I should like anything too bright,” she said, avoiding the use of the word ‘gaudy.’ Across the room, she saw Meizhen inspecting a long and winding cloth, similar to the one her mantle had currently become.
+
+“Of course not. Silver is your color, perhaps with ground onyx or jet, some dark amethyst, or some paler blues if we wanted a bit of brightness.” Lin Hai hummed. “Before I think further on the matter, what sort of talisman do you think you are looking for today?”
+
+Ling Qi was glad to return to something she had more confidence in. She had discussed the matter with Meizhen after the embroidery session, and the girl had sold her on the idea of hand jewelry, the little arrangement of bracelets and rings connected by chains or charms that she had seen some people wearing now and then. It was something that originated in the Thousand Lakes apparently, popular among the more daring sort of Bai ladies. She glanced at Lin Hai’s own golden claw; she didn’t want something that ostentatious though.
+
+“I was thinking of some kind of hand jewelry, maybe with moon imagery. I use many sustained constructs and techniques in combat, so I need something that will help defend me from an enemy’s efforts to dispel them.”
+
+“Been sparring with the Young Miss quite a bit, I see,” Lin Hai chuckled.
+
+“Yes,” Ling Qi admitted.
+
+“I believe it should not be difficult to whip up something of the sort,” Lin Hai said, gesturing idly toward a display case which held a plethora of gleaming jewelry. Rings and bracelets and charms rose into the air like a glittering school of fish and swam through the air toward them. “That does bring me to the other matter. What do you think of Lady Ren, Miss Ling?”
+
+Ling Qi blinked, then blinked again, glancing across the room to where Cai Renxiang stood stiffly, discussing something with another Lin Hai. As she watched, the copy struck another pose as a winding belt of thick gold links slithered off of a display shelf to circle around him. “I am not sure what you mean, Sir Lin,” she replied.
+
+“I mean what I said. Lady Ren is dear to me, but I cannot say that the feeling is mutual,” he said with a sad smile. “I am glad to see that she has finally made a true friend in your other companion, but in the end, you are the one who will be standing by her side.”
+
+Ling Qi restrained herself from looking around nervously. She was reminded that this man was an apprentice of Cai Shenhua. Was this some kind of test? “I am glad to serve Lady Cai. She has been very generous to me.”
+
+“Not precisely what I mean.” Lin Hai struck a thoughtful pose, cupping his chin with his clawed hand. “Let me share a secret then, so that you might share yours.” He leaned in, lowering his voice to a conspiratorial tone. “It was I who was charged with Lady Ren’s safety as an infant, and I who fended off those who sought to extinguish the Cai in the crib. I watched her first steps and her first words, and I watched as my master, great though she is, erred terribly in introducing that bright girl into her presence for the first time at such a young age when she could not hope to withstand her mother’s attention and inspection.”
+
+The man’s cheerful and irreverent tone had faded very quickly, becoming quite grim by the end. Ling Qi only felt her nerves grow; she remembered the terrible radiance of the Duchess’ gaze and the weight of her presence. Something like that wasn’t something she wanted to know.
+
+“Young lady, my master knows my thoughts quite well,” Lin Hai reassured her. “It is not as if I could keep them from her. My master is merciless, but it is not dissent that she punishes. So, understand, when I ask you what you think of Lady Ren, it is as a fond uncle whose niece no longer trusts him for his part in certain events.”
+
+Ling Qi calmed herself, forcing herself to forget the Duchess for the moment. This was not the time for courtly prevarication. “She is someone who I trust, and I believe in the path she wants to walk,” she answered after a long pause. “I don’t know how to approach her any further though.”
+
+“Understandable,” Lin Hai sighed, absently gesturing to the swarm of jewelry swimming overhead. Three silvery reflective discs darted out to circle around his fingers. “Still, I must ask you, please try. Whatever she might say of herself, she remains a girl like any other. The damage is done, but it is not something which Master can fix.”
+
+Ling Qi remembered the fear she had sensed from her liege when her mother had announced that they would be spending the evening together. “You make it sound like she wants to fix it,” Ling Qi said warily.
+
+Lin Hai paused in his inspection of the discs. “Perhaps. Master does not know regret in the way that you or I might. She does not and cannot hold back; her nature does not allow it. And so, a child has the full weight of her expectations carved into her bones before she can even comprehend such concepts fully. But Master does recognize the need for support: Diao Linqin, Wang Jun, Jia Hong. Without them, Master could not have accomplished her coup.”
+
+“Then why the impossible tasks?” Ling Qi asked in frustration, thinking of her own concerns over Sect rank and Gan Guangli’s seemingly untenable task.
+
+“Because mediocrity cannot be abided,” Lin Hai answered. “Master does not seek to hurt, but she will do so without hesitation if she judges it to be beneficial.”
+
+“How do you speak so fondly of her then?” Ling Qi asked, troubled.
+
+“There is no grand reason,” he said self-deprecatingly. “Only that, without her, I would still be a sullen and mediocre lady of the court amounting to nothing. It is quite a selfish reason, but as you said of Lady Ren… I believe in her.”
+
+Ling Qi lapsed into silence as his attention turned back to making her talisman. She glanced over to Cai Renxiang once again and thought on Lin Hai’s request.

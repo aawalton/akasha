@@ -1,0 +1,141 @@
+---
+id: 14947e69-6b45-5a3d-a7d5-1747d13b1433
+page-type-slug: story-chapter-royal-road
+title: "15 - The Cyclops' Marsh (1)"
+slug: 0015-15-the-cyclops-marsh-1
+partOf: gamer-girl-evolution
+position: 15
+ownLength: 1835
+unit: words
+ownProgress: 1835
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2684541/15-the-cyclops-marsh-1"
+royalRoadId: "2684541"
+markedReadAt: "2026-06-29T20:06:04.118Z"
+---
+
+Celica blinked as she arrived on the second floor, the familiar city of Marshia welcoming her back. The air felt thicker here, and the colour of the sky seemed unnaturally dim even compared to Earth’s grey skies. A thick fog swirled around her feet, the rocky ground cradling her boots.
+
+The time difference hit her—Earth was still in the dead of night, but here, it was early morning. She decided to quickly open up her status page to look for any changes.
+
+***
+
+[STATUS]  Celica Travine Crystalis <Slime Nightmare> Level 20 Human (Supporter) EXP: 0% towards the next levelSTR: 52 | AGI: 53 | VIT: 5 DEX: 5 | END: 5
+
+***
+
+So they did change the level cap... she thought to herself. Then she decided to open up her skills list to see if they'd updated that too.
+
+***
+
+[Skills]
+
+Common:
+
+Parry level 10
+
+Slash level 10
+
+Thrust level 10
+
+Common skills can be upgraded to at most level 20.
+
+Foundational Supporter Skills:
+
+Cleanse Aura level 1 — Remove all applied debuffs on a single target.
+
+Cleanse Aura Progression:
+
+Additional Cleanse Aura Effects (Scaling with Levels):
+
+Basic Strength Buff level 1 — Increases the strength stat of up to 3 allies by 10% for 30 minutes.
+
+Basic Agility Buff level 1 — Increases the agility stat of up to 3 allies by 10% for 30 minutes.
+
+Basic Vitality Buff  level 1 — Increases the vitality stat of up to 3 allies by 10% for 30 minutes.
+
+Basic Dexterity Buff level 1 — Increases the dexterity stat of up to 3 allies by 10% for 30 minutes.
+
+Basic Endurance Buff level 1 — Increases the endurance stat of up to 3 allies by 10% for 30 minutes.
+
+Basic Buffs Progression:
+
+The cooldown duration will always match the buff duration.
+
+Growth via Usage:
+
+The skill's levels increase as they're used in combat. Each successful use (i.e., when allies receive the buff and it impacts combat or gameplay) contributes experience towards levelling up. The more often the skill is used in strategic situations where the buff actively benefits allies, the faster it will level up. Additionally, players can enhance the skill with various in-game achievements or by fulfilling specific requirements tied to combat roles (such as supporting a certain number of allies in combat or buffing them under specific conditions).
+
+All foundational skills must be levelled to 50 before the beginner supporter skills can be unlocked.
+
+***
+
+Celica blinked at the changes in her skills, her heart racing as she processed the updates. Vitality, Dexterity, Endurance… Her hands trembled slightly as she scrolled through the buffs. The scaling on them… it was almost absurd. At level 50, she could increase each of her allies’ stats by 100% for 90 minutes. That’s double!
+
+Her eyes narrowed, already calculating how to use this optimally for future fights. If she could maintain the buffs at full power throughout longer, more gruelling battles, she’d have the chance to push the limits of even the toughest dungeons. She could practically hear the gears turning in her mind.
+
+Vitality would keep her party alive in damage-heavy encounters. Endurance would give them the staying power to outlast monsters that otherwise might have wiped them out. Dexterity was the wildcard, boosting accuracy and weapon proficiency, something she could see making a huge difference against faster, more evasive enemies.
+
+Her excitement bubbled over as she considered the implications for higher floors and the tougher realms. Trickier bosses, more difficult mechanics, and stat-based traps… this is exactly what I'll need. And debuff immunity... hehe. That debuff king Slimonius wouldn't know what hit him.
+
+She couldn’t help but grin at the possibilities. With these skills, Celica was beginning to feel unstoppable, and these were just the foundational skills.
+
+Finally she decided to open her inventory, looking for the three rewards that were promised to her last floor.
+
+***
+
+Inventory
+
+Phantom’s Mask (Unique)A mask that allows the wearer to take on the appearance of a single, self-created character. The identity can be entirely customised, but only one specific character can be assumed. You cannot mimic other players, and the transformation is purely visual. Perfect for blending in, creating an alias, or hiding your true identity. The effect lasts until you unequip the mask.
+
+Phantom’s Blade (Unique)This weapon transforms into a similar weapon of your choice. The transformation retains the weapon’s original stats but alters its appearance and hitbox. The effect lasts until you unequip the blade.
+
+Elixir of Gold (x3) (Super Rare)An elixir that, when consumed, boosts gold drop rate by 100% for one hour. Ideal for players looking to quickly amass wealth. It doubles the amount of gold gained from defeating enemies and completing quests. Single-use.
+
+Elixir of Blessings (x3) (Super Rare)A rare elixir that increases item drop rate by 100% for one hour. This item is essential for players looking to farm rare items or materials for crafting and upgrading gear. Single-use.
+
+VIP Ticket for the Grand Eonian Colosseum (Unknown) A ticket granting exclusive access to the VIP seats in the Grand Eonian Colosseum, where the most elite players test their combat skills in the biggest public arena. Win battles to earn valuable rewards, and prestige among other players, warriors and perhaps commanders.
+
+***
+
+Celica stared at the new items in her inventory, a mix of excitement and disbelief flooding her senses as she read through each reward. The Phantom’s Mask and the Phantom’s Blade were both unique, and the fact she’d received them so early in the game left her momentarily speechless. A pair of unique items? This wasn’t the sort of thing most players would see for months, if not years.
+
+She could already see how she was going to use the Phantom's Mask and the Phantom's Blade. That much was obvious. Next, she turned her attention to the consumable items, the Elixir of Gold and the Elixir of Blessings. Three of each.
+
+That’s a lot of potential farming power. The gold elixir would be perfect for when she was coin grinding, especially with the new addition of platinum coins to the UI. She could already tell this was going to require a lot more coin-grinding than before.
+
+And with the Elixir of Blessings, farming rare materials or crafting components would be a breeze, but she wanted to save those for a specific later floor.
+
+Then her eyes landed on the VIP Ticket for the Grand Eonian Colosseum. Celica's jaw dropped. This… this was huge. A VIP ticket? She wasn’t sure if she’d even heard of anyone receiving something this valuable this early on. Most players would need to climb through the ranks, grind for months, or simply get incredibly lucky to gain access. And here it was, handed to her with the rest of her rewards.
+
+A ticket to the most exclusive arena in the early-game, where only the best and most well-prepared players could compete. Her excitement was palpable and she'd inwardly resolved herself to always achieve the first clears for every main quest. She couldn't miss out on more rewards like these.
+
+Now that she had quickly skimmed through all the changes, she decided to pay attention to the Slime King, who was currently rage baiting the majority of the player base.
+
+Slimonius’ voice echoed through the system interface, his tone was both mischievous and slightly apologetic. "Well, well, well, surprised, weren’t you?" he chuckled, knowing full well the shock players had faced with the sudden Earth transition.
+
+His voice softened, acknowledging the disorientation they’d felt. "I’d like to offer a formal apology for the  surprise visit to Earth. The devs were trying to give you an exciting shift in perspective, but it seems it caught a few of you off guard. Also, we’ve been recently made aware of the glitches, and we’ll make sure they’re fixed soon." He gave a little laugh at his own words, teasing the players who had been caught off guard.
+
+— "Wait, we were on Earth?!"— "Ugh, I thought I was hallucinating. This makes way more sense."— "Yeah, this is totally Slimonius' idea of a prank..."
+
+Slimonius continued, his tone taking on a more serious edge. "On a more positive note, we've made a few upgrades to the system. You’ll notice improvements in the UI and the gameplay should feel smoother too. We’ve implemented mechanics that should prevent those accidental deaths some of you have been struggling with. Let’s just say that dying at the hands of the environment will be a lot less... frequent. You're welcome."
+
+— "Wait, are they actually fixing the lag?"— "I hope the devs fix my braindead party members' IQs as well."— "Accidental deaths? Was that happening?"
+
+"Speaking of deaths... since players struggled with the first floor more than expected, the devs have decided to continue to allow players to respawn. Perhaps this trend will continue for all of the first realm. Consider it a tutorial present. Of course, failure to complete the main quest will still result in death."
+
+Celica could almost hear the grin in his voice as he shifted topics.
+
+"Now, for the main event... Floor 2!" Slimonius practically hummed with excitement. "We’re diving into the Cyclops Marsh, a vast swampy region, rife with fog and the constant thrum of danger.
+
+There’s a central city, Marshia, that serves as a hub, but around it are several smaller towns. These towns are connected by marshes, creating a maze of passageways. But don’t be fooled by the tranquillity of the towns, the marshlands are home to dangers far worse than you may think."
+
+His voice lowered slightly, as if he were about to reveal something that would raise the stakes. "In fact, each of these towns has its own set of sub-quests waiting for those daring enough to venture into the swamps. And speaking of danger, we're introducing a new kind of boss."
+
+The system interface flickered for a moment as Slimonius' voice grew more ominous. "Floor 2 has no dungeon, instead it has a wandering boss, the Cyclops. A massive creature that roams the marshlands, a true force of nature. Not a match for me though, naturally. Unlike other bosses, this one is a mutant.
+
+He'll spawn in a random location, and then begin wandering aimlessly. You must defeat him before you can move on to the next floor or return to Earth. Here’s the kicker: the more monsters it kills, the more powerful it becomes. It devours its surroundings—swamps, villages, other mobs, towns... and players, too. If you leave it unchecked, it will eventually destroy every town, NPC, and the central city of Marshia."
+
+— "A mutant? Does that mean it can level up?!"— "It eats villages?! What is this thing, a boss or a natural disaster?"— "No dungeon this floor? Aw man, I wanted to challenge one with my friends this time..."
+
+Slimonius paused for a moment, letting the weight of his words settle. "Oh I forgot to mention something..." he continued, flicking his tentacles devilishly in amusement. "Being killed by the Cyclops results in true death."

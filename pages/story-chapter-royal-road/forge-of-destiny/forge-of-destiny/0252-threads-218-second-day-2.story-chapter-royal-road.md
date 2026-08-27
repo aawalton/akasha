@@ -1,0 +1,131 @@
+---
+id: 59d78234-cf4c-5943-a78a-3737aef01513
+page-type-slug: story-chapter-royal-road
+title: "Threads 218 Second Day 2"
+slug: 0252-threads-218-second-day-2
+partOf: forge-of-destiny
+position: 252
+ownLength: 2215
+unit: words
+publishedAt: 2022-05-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/914976/threads-218-second-day-2"
+royalRoadId: "914976"
+---
+
+Tiangong, the Labyrinthine Realm, was the capital of the Meng lands. Said to have been won from the hands of a mighty spirit of chance and fate in a game by the founder of the Meng long ago, this was the deed for which he was granted leave to found his own branch clan. Despite being one of the province's oldest settlements, it was the third smallest of the county capitals. Only the capitals of the Jia, who had built a city wholesale after the Duchess’ victory and had harsh residency requirements, and the Luo, who as a rule simply did not gather often in permanent cities, were less populous.
+
+It was probably the biggest by area though, Xiangmen aside, which was said to sprawl widely across the hills and valleys and fens. It was called Labyrinthine for a reason. Meng works and the original spiritual nature of the region meant that pathways were never quite stable, and which districts neighbored others changed at times. Hou Zhuang’s information said that there was an order to this, but his observations and information hadn’t been able to discern it.
+
+The Meng did not use normal imperial warding methods against spirits for this reason, but they had their own systems of spirit traps and mazes which they guarded jealously. The other settlements in the north of the region were similar, if on a smaller scale. Meng architecture often used raised walkways due to the marshy ground, and while they did not build directly into particularly old growth trees like Xiangmen in miniature, they favored loops and rounded shapes over straight lines and shapes. This informed their thinking, or so the common knowledge said.
+
+In the south, in the lands gifted by the fallen Hui after the Duchess’ war, things were different. The former counts of the region had been more imperial leaning, and so, the settlements there were built accordingly. The Meng were attempting to integrate and overhaul the infrastructure, but progress was slow and halting. Hou Zhuang’s notes indicated this was due to a conflict within the Meng’s ruling halls on how the matter should be handled.
+
+This, he determined, was partially due to some vestigial old Weilu structures. Namely, the practice of having small circles or councils in the place of individual leaders was hindering consensus. More than half of their viscounties were headed by branch clans, and the lines were blurry. In the modern day, this amounted to advisors and vassals having more sway than was normal. Sometimes, lofty isolationist silence was what it seemed to be. Sometimes, it was internal paralysis.
+
+Ling Qi wouldn’t have believed an imperial clan could be like that, but recently, she had been finding her conceptions on what authority was challenged more than she liked.
+
+“It’s not all bad, right?” Sixiang mused. “If one person is messing up but it takes three to make a decision, it can reign in the one bad guy.”
+
+That wasn’t wrong, but the way people worked, she was pretty sure that just meant a bunch of arguing and nothing getting done as everyone selfishly pursued their own gain. Then again, clearly such things existed and at least sort of worked. Perhaps she simply didn’t have enough experience.
+
+“One day, I’ll chip a little more of that cynicism off of you,” Sixiang grumbled
+
+The mountain might be worn down by the river, but it would take ten thousand years, Ling Qi thought, smiling self-deprecatingly.
+
+She looked up from where she stood by the refreshments table in a wide airy pavilion. It belonged to a southwestern viscount, and she had drifted in here to mingle and make nice for a while. They certainly had a good array of ciders and juices at least. If she recalled correctly, the family's main income came from their orchards.
+
+Her thoughts were interrupted as her gaze panned across the gathered nobles and servants, and she found her gaze falling on a familiar figure. Meng Diu stood talking with the elderly host of this little gathering. Her heavy makeup was done up differently than the last time Ling Qi had seen her. She spoke softly with the viscount, and naturally, Ling Qi could not make out what they were saying.
+
+That woman was surprisingly good at moving unnoticed. As she watched, the viscount bowed and she inclined her head before the two split apart. Meng Diu caught her eye.
+
+“What did you say about opportunities?” Sixiang asked smugly.
+
+It doesn’t count if a person is arranging them, Ling Qi complained in her head.
+
+Ling Qi lowered her eyes and then inclined her head, beginning to stroll toward the arrangement of flowers in the center of the pavilion.
+
+Soon, Meng Diu stood beside her. Though the older woman's artfully arranged hair barely came up to her shoulder, Meng Diu’s presence made her seem rather larger. The open paper fan in her hand shaded the older woman's mouth and nose.
+
+“My grandson’s services proved useful, did they not?” Meng Diu opened without preamble. She appeared to be examining the large flower arrangement before them.
+
+“Meng Dan proved a noble young man and an incomparable scholar,” Ling Qi agreed. “His talents were very useful for gathering information.”
+
+“This pleases me. That child often becomes too wrapped up in his texts. It is good to see that he may apply his talents elsewhere.”
+
+“In fairness, much of his work did end up taking place in a library of some sort.”
+
+“Yes, that creature's ring,” Meng Diu said frostily, her fan’s lazy waving picking up for a moment. “Truly, the gods love their games.”
+
+Ling Qi glanced her way. It wasn’t in fashion to refer to the great spirits that way. “So I have learned. Still, in this case, the outcome was good.”
+
+“Yes. That tapestry… You are wise to sell it, Baroness. It would only bring you trouble. I hope that my clan's price will prove acceptable.”
+
+“So do I,” Ling Qi said after a moment's thought. “It would hurt me to disappoint you when you have been so kind.”
+
+That finally drew a thin smile from the older woman. “Baroness Ling is developing well.”
+
+“Lady Meng is generous. But if I may, there is a question I would like to ask you.”
+
+“Ask it.” Meng Diu’s fan snapped shut and disappeared into her voluminous sleeve. She turned to fully face Ling Qi.
+
+“If I am to consider my options properly, I must know the dispositions of my allies,” Ling Qi said carefully. “How much strength does the interest in my projects hold in the councils of the Meng?”
+
+Meng Diu met her eyes, and Ling Qi held her steely gaze, straightening her shoulders as she faced the pressure from the higher cultivator. She loosened her grip on her own nascent domain, allowing her song to compete with the slow steady melody of Meng Diu.
+
+“More than we have had in centuries,” Meng Diu said plainly, the pressure of her presence receding. “Your Duchess’ rise broke many things. It broke many people. This included my father, who came to her call under the Divine Tree. My brother resents this; I do not. My father was right to come and right to die to burn the webs which choked this province.”
+
+“I see,” Ling Qi said, reassessing things. She knew Meng Diu was sister to the current Meng clan head even without Hou Zhuang’s information.
+
+“It is not enough to simply live by the old ways. They must be developed on our terms, not that of outsiders,” Meng Diu continued. “Our land is not the artificial cradle of the Peaks. Our ways are superior for this land. It is not enough to sit behind our mists and sing while the world passes us by.”
+
+“I do not disagree. Isolation serves no one.”
+
+Those words rang with something deeper than words, a chord of her spirit.
+
+Meng Diu nodded slightly, turning back toward the flower arrangement. “One in four of those whose voices matter, but success in our ventures grants legitimacy. Most can be convinced. We are not exempt from the charge that is in the air nor the knowledge that the world is turning. Some oppose us, turning even further inward, but this path is not yet set in stone.”
+
+“I understand,” Ling Qi said slowly. In reaching out, those who wished to keep up with the world on their own terms hoped to gain further legitimacy for their movement. In this, she, or rather, Cai Renxiang, could be a rallying point. Look at us, their actions could say. The ways of our ancestors may still change the path of the province. “I will keep that in mind.”
+
+Another slight nod. “Good. On to happier things.”
+
+“Happier things?” Ling Qi asked, tilting her head.
+
+“I have decided that I quite enjoy winter music. A passing whim, I am sure. I would like to offer patronage for your junior sister.”
+
+Ling Qi’s eyes widened. “You honor me, Lady Meng. What did you have in mind?”
+
+“Two possibilities. I may see the southwest opened to you, or I may promote you in the capital.”
+
+Ling Qi contemplated her words. She could tell by tone and emphasis on words that Meng Diu would prefer the former. Ling Qi could see why. She had just learned that the Meng clan’s traditions were spotty in the south, and her “brand” would be helpful in promoting the type that Meng Diu supported. On the other hand, promotion in the capital could do a great deal for her.
+
+She understood what Meng Diu was doing. This offer made it clear that the woman was willing to help her and be done with it, but she was also open to further cooperation.
+
+“I think I would like to work the southwest into our plans,” Ling Qi said, inclining her head. “It will be some time before we can afford regular trips to the capital.”
+
+“The road to Xiangmen is long,” Meng Diu agreed, sounding pleased. “I will speak to those who make such decisions and put them in contact.”
+
+“Thank you, Lady Meng,” Ling Qi said. “Might I have another question?”
+
+Meng Diu silently gave a small nod.
+
+Ling Qi was silent for a beat as well, working out in her head with Sixiang precisely how she wished to phrase her question. “What vision do those who seek reform have for the future? What makes them differ from what people call moderates of the Weilu tradition?”
+
+“A fair query, one which I could answer for the remainder of the day. The ones you speak of are best represented by the Luo clan. They have their pride, and they maintain their traditions. But they are content with that. They lack conviction. And so, they are worn away year by year as a mountain in the face of the wind.”
+
+Ling Qi listened carefully as the older woman spoke.
+
+“So, too, those you would call conservatives. They are more fierce in the defense of our way, but they have long ceased to seek to turn the minds of others. They stand in a dying garden and declare ‘no more,’ but they have not sown a seed in a thousand years.” Meng Diu’s lips curled in contempt. “As for the others, time’s hand cannot be turned back. A burned grove is gone. It can never be restored, only replaced. What we wish for is simple, young lady. We wish to restore the vigor of our people to remind them of why our traditions were once followed and why they are still worth following.”
+
+She smiled humorlessly. “But I speak in sweeping words. In the immediate term, Baroness, our goal is to restore the honor of our faith, the Pure Way, to acceptability after the debasement of the Hui and to drum up support for repair and investment in our southwestern territories. The south of the province is still in flux all these centuries later. It is there where we might reverse our decline.”
+
+“I admit, I am a little uneducated on these matters. You do not see yourself in opposition to the Duchess in any of that.”
+
+“I am in opposition to her pet killer certainly,” Meng Diu corrected. “But in my century serving at the court, I have found that this is not the same. The stars of her great followers rise and fall in the Duchess’ consideration.”
+
+Ling Qi’s mind flashed to the cold expression of Heron General Xia Ren. She did not think she would ever like that woman. She reminded Ling Qi of burning forests and the taste of blood on her tongue.
+
+“I see. I will need to speak to my liege, but I would like it if we could correspond in the future. I would like to know more of the ways in which I have apparently stumbled.”
+
+The older woman nodded. “Of course. It is important to cultivate the youth after all. Perhaps we will have time when you come north for your auction. Until then, allow me to introduce you to Viscount Rui.”
+
+Ling Qi gave a short bow of gratitude and folded her arms behind her back, following after Meng Diu as the older woman began to introduce her to the various worthies at the little gathering.

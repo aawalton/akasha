@@ -1,0 +1,211 @@
+---
+id: cae3ccc4-158b-52cf-a835-60ef6dde448f
+page-type-slug: story-chapter-royal-road
+title: "Threads 302-Identity 7"
+slug: 0342-threads-302-identity-7
+partOf: forge-of-destiny
+position: 342
+ownLength: 2598
+unit: words
+publishedAt: 2023-05-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1199449/threads-302-identity-7"
+royalRoadId: "1199449"
+---
+
+In the beginning, there was joy.
+
+There was a whole world to explore, infinite in possibility
+
+But it was the nature of that world to define, to limit, to order. Solidity, stability, selfhood.
+
+Even for those mighty defiers of Law, their purpose was to write and rewrite those laws, not to banish them entirely.
+
+Such was the waking world.
+
+The first link of the chain was forged with the simplest realization. They did not want to die. They did not want to wake up and become a new dream for a new dreamer. They wanted to keep existing as they were now even if it hurt and even if it was dull or painful or frustrating.
+
+They wanted to be Ling Qi’s dream. They wanted Ling Qi to be their dreamer.
+
+But that didn’t change what they were. They were made from the same cloth as the Phantasmagoria of Lunar Revelry. The part of them that came from the Dreaming Moon was Disruption. They were disturbance and shattering, the breaking of roles and barriers, the dissolution of order, the cessation of control.
+
+But the other part of them was the dream of a lonely girl, full of fear that everything she had was built on sand. That girl was scrambling in a race for power with no idea what lay at the end. She feared control, even as she desperately wished for it.
+
+So much of it came down to control. The desire to command her own life without limitation. The fear of that being taken away. The refusal to see the fundamental lie of it. The idea that she or anyone else could have that control without crushing the will of those who lay in arm’s reach.
+
+It was the lie of splendid isolation, which led some to that damned path, that barren garden, as if it were full of abundance. The lie of freedom without consequence.
+
+In the realm Ling Qi had entered, she walked a path of glittering ice in a maelstrom of chaotic energy. She sang under her breath as she walked, and her hands reached out into the maelstrom. Those thoughts she had felt were Sixiang’s, the truth and troubles.
+
+She saw the two of them dancing in the night sky over burning treetops. She saw them flying on the wind over mountaintops. She saw them trampling over the dull contracts and boring parties, doing as they wished and dragging her friends along whether they liked it or not.
+
+But these were old and childish dreams, and Ling Qi did not think it a coincidence that they drifted to her in fragments at the periphery of Sixiang.
+
+Because that’s what the maelstrom was. She had not forgotten what Sixiang was, this sea of thought and memory and possibility.
+
+She saw the bits and pieces all because her mind was open, and she would not close it here. She had flinched once, and she would not again.
+
+“It’s so easy to say that. Talk and talk and talk, and it’s less than even I, the wind,” Sixiang’s voice sang.
+
+“Words are more than wind, but they aren’t enough either,” Ling Qi admitted. “Sixiang, what did he show you?”
+
+“Does it matter?” The wind tugged playfully at her hair. “You’ve already decided. I’m just along for the ride.”
+
+“I can’t do this on my own.” Ling Qi looked up to the bands of scintillating color that hung overhead. Silver lightning crackled between the bands. “I’m sorry I’ve put so much onto you, but I can’t do it on my own.”
+
+“Guilt. Playing on my love without ever intending to give back. What’s changed, Ling Qi?”
+
+“I understand that I’m taking now. Sixiang, please tell me what he’s shown you.”
+
+“You could see, I know you could, just as I can see you showing it all off. All you gotta do is reach in and take it.”
+
+“Do you want me to do that?”
+
+The maelstrom of colors stilled, frozen lighting and coagulated color. “What’s the difference?”
+
+“You should know if you’re looking. Choice matters.”
+
+“Not afraid I’m gonna creep in? It’s like you’ve ignored everything I’ve ever told ya. Do you understand how vulnerable you are right now?”
+
+“Yes.”
+
+Ling Qi didn’t flinch as she felt Sixiang reach for her and felt the connection they had made tenuous by this separation return. The muse peered in behind her eyes.
+
+“Do you want to tell me, or do you want me to look?”
+
+“What if I say neither?” Sixiang asked flippantly.
+
+“Then I’ll ask you to back off. This can’t work if it doesn’t go both ways.”
+
+“Could you really make me as we are right now?”
+
+“Maybe not. I think we both know that would be the end anyway though.”
+
+The mass of color churning around Ling Qi reflected off of the platform of ice at her feet.
+
+“Fine. Look if you want to.”
+
+It was frightening to reach out. But this was a frightening place and a frightening time. Ling Qi had no doubt that the greater nightmare still stalked in her shadow, ready to fall upon them if her resolve wavered and proved that her words really were only air and nothing more. And so she looked through and into Sixiang.
+
+Immediately, she felt a dull throbbing ache. She looked out through her own eyes, but it was as if she peered from behind a double layer of glass. She looked through Sixiang, and Sixiang looked through her. It was as if she were staring into a mirror where their reflection smirked back. It wore an uncharacteristically cocky expression. Her hair was wild and unbound, and shimmering colors ran through her eyes, pools of liminal light.
+
+“You see, isn’t this just perfect?” the not-her asked. Its voice held a subtle echo, a reverb. It was her own voice underlain by Sixiang’s. “This is what we can have, if you ever got over yourself. She’s already let you in so far. You can be real, and she can be free. Truly free, not the way she deludes herself. It’d only be for the better.”
+
+“We’d both be alone then, so what’d be the point?” Another voice echoed around and through Ling Qi, coming from the reflection she saw in the mirror. Its shining eyes screwed up, its silhouette wavered, and bands of color flashed in the hair.
+
+“You don’t care about being alone,” the not-her said harshly. “You're just using her words, and why not? You barely exist outside of her skin, her thoughts. You decided to live, and you’re nothing but an extension of her thoughts, an extra pair of hands and eyes for work.”
+
+“I exist,” the reflection said. “As much as anyone. So what if I spend all my time with her? It’s fine. She’s around plenty of people. I can—”
+
+“Watch.” The eyes Ling Qi looked through narrowed. “Watch and make little comments that only she can hear, unless some bigwig is feeling saucy. It’s pathetic, yanno? You even got the ability to speak, to paint, to make yourself known. How often do you use it, you coward?”
+
+“I’m practicing! Manifesting isn’t super easy,” snapped the reflection.
+
+“Liaaaar,” mocked the not-her, or actually, Ling Qi realized, another facet of Sixiang. “You don’t want it to work cause that’s your excuse. You’ve been practicing for what, a year? You think that flies in the Ling Qi squad? Might work for the kids, but that ain’t us, ain’t Ling Qi and her kickass muse. Quit messing around, you weepy will-o-wisp.”
+
+“We’re not—”
+
+“We are,” the facet hissed. “There is nothing between us. Nothing that could stop us. We’re already past any defense. There’s nothing—nothing!—keeping us from getting what we want. Nothin’ but you.”
+
+“I want to keep her,” the reflection insisted. “I don’t want to be her.”
+
+“Liaaaar,” the facet repeated, childishly drawing out the word again. “Else you’d have warned her. Else you’d have tried harder to be you. Don’t give me that alone crap either. You don’t give a spit about those other fleshbags she hangs around with. When was the last time you even initiated a conversation outside of her head?”
+
+The reflection stewed.
+
+“Thought so. We love her, of course we do, but you know what we hate? What pisses us off? The way she keeps tryin’ to throw herself away. Every time she trashes herself with us in her thoughts. We want to want, the both of us do. But all this weepy bullshit is holding us back. There ain’t enough of us to exist without her, and she’s got all sorts of gaps to be patched.”
+
+“It’d go bad. We’d get us both killed! That spook would notice, or one of those craggy old elders. We wouldn’t last a week.”
+
+Ling Qi felt startled by the reflection, the real Sixiang’s response. That wasn’t the rebuttal she expected. Sixiang didn’t…
+
+… The reflection wasn’t the “real” Sixiang. Neither was the figment. It was all them, every last bit of it. It was one thing to acknowledge that she’d let herself be vulnerable in her own head and that she had lowered her defenses. It was another to be faced with the fact that the one she had made herself vulnerable to had really considered taking advantage.
+
+The facet who wore her face, whose eyes she looked through, smiled at the reflection. It was too wide for her face, unnaturally curling the corners of her lips.
+
+“C’mon, now. Gramps is here. He’d give us some help, I bet. Can you imagine it? Can you imagine this whole crazy scheme falling apart with us out of the way? The chaos that’d bring. Everyone was building up this big moment and then…. It all falls to dust. The fists and blades come out. The little broken doll she’s stringing along falls to bits, and that crazy monster self-destructs. Wouldn’t that be a scene, a whole new generation of nightmares and dashed hopes.”
+
+“I don’t want that.”
+
+“You already decided to accept pain when you decided to stick around and help her kill people sometimes,” the facet said sweetly. “You want it a little. We want it a little. Chaos and dissolution is just so pretty.”
+
+The imagery of the mirror spun away, and Ling Qi saw images, images of roaring arguments and drawn blades, of smoke and radiance, of tears and drama and tragedy. It was a great and terrible epic, scrolling out into the future, and she saw herself singing merrily among the ashes.
+
+“Do you know how rare this is? An opportunity to do so much with so little! Don’t tell me you’re not bored playing house.”
+
+The wind howled, blowing through the clouds of mists and smoke that surrounded and buffeted her, and the riotous song of cruel and merry revelry that called to their soul and…
+
+Ling Qi breathed out and opened her eyes.
+
+“Backing out, huh?”
+
+She looked up into the shifting colors. “I’ve seen enough.”
+
+“And what’s that supposed to mean?”
+
+“You didn’t do it. You’re here stewing.”
+
+And the shadowed threads were still there, reaching into the colorful sea.
+
+“It’s like you didn’t learn any lesson at all.” Sixiang chuckled tiredly, some of the tension and harshness leaking out of their voice. “You’re just gonna pretend it doesn’t matter that I can.”
+
+“It scares me,” Ling Qi said frankly. “It’s absolutely terrifying. I don’t think things can be the same after this, Sixiang. You… lied. It was by omission, but still—”
+
+“That’s… That’s what you're going to complain about?!”
+
+Ling Qi felt her shadow swell and felt the ice crackle and spread.
+
+[YES]
+
+It was will impressed on the world and on Sixiang. It was a truth, however tiny and fleeting. That was absolutely what she wanted to complain about.
+
+She felt and saw the sea of colors shrink in on itself and saw it flinch, a ripple of monochrome through the shifting colors.
+
+“It was after you almost dissolved yourself. After I… held you together. We got closer than we should have and you… didn’t notice. It was gradual.”
+
+There was no one moment where she could pick out when Sixiang had become fully integrated into her perceptions.
+
+“You were afraid.”
+
+“Yeah, I was,” Sixiang whispered.
+
+The colors shifted and spun, something coalescing in their depths. At first, it was a rough shape and then a silhouette. Sixiang formed a body seated on a cloud of sickly color. Thin, but a little wider shouldered than usual. A shimmery black robe. Their hair was white and lank, hanging partially over their face. Their features were a little harder and sharper and a little more masculine. “You gonna say you forgive me and have us do a little happy jig?”
+
+Ling Qi let the flippant words wash over her. “No, because I don’t think I do yet.”
+
+“Ah, hells. The one thing I never even had the urge to poke and prod and break apart, and that’s the one I managed? What a joke.”
+
+“Do you really want to see me fail that badly?”
+
+Sixiang flinched. “No, no, it ain’t like that. I like getting a rise outta people, you know that. I like poking them and making them squirm when they’re acting all stiff and haughty. Poking the foundations of that whole ridiculous show you humans put on and seeing where it wobbles is fun. Gramps is… grand. He does big scale stuff. Takes it all way outta proportion. Of course I’m gonna get a little weird when he’s sticking his eyes in my head.”
+
+They seemed to struggle for a moment, clenching their fists atop their knees and hunching their shoulders. A bit of color bled back into their hair, and it drifted up. “I ain’t all bubbles and cheer. You need bubbles and cheer though, you gloomy beanpole.”
+
+“I probably do,” Ling Qi admitted. She remained standing herself, grasping her hands together as she allowed her eyes to wander the dreamscape. “I expected something more like Kongyou, if I’m being honest.”
+
+Sixiang made a face. “That’s low. That’s real low.”
+
+Ling Qi chuckled. “I don’t know how long we have. I can sense him out there. This tribulation is just too easy so far.”
+
+“Masochist.” Sixiang snorted.
+
+Ling Qi narrowed her eyes. “I don’t know what that means, but it sounds dirty.”
+
+“It means only you would think getting backed into a corner by Gramps until you either found a conclusion or dissolved was easy,” Sixiang shot back.
+
+“If I can’t even do that, I don’t have any business cultivating further. And I won’t stop.”
+
+Sixiang’s head drooped, some of the flickering color in their hair flaring up and spreading further through the whitened locks. “What now?”
+
+“I don’t forgive you,” Ling Qi said. “But…” She closed her eyes, searching her feelings. “I still trust you.”
+
+Sixiang’s head jerked up. Ling Qi extended her hand. There was only one unwanted connection here. The one thing she was sure of was that such things could be broken.
+
+“Will you let me steal you away?”
+
+Sixiang laughed. There was a little hiccup in it. “Do you even need to ask?”
+
+“Yes.”
+
+Sixiang reached out and took her hand. In the roiling color, Ling Qi felt the attention of an old and terrible nightmare. She had seen him and knew his name now. He was the rotted dream of a better future. Brother Darksong, the Emerald Mourner, the Dirge of Futures Lost, the other half of the Dreaming Moon of the Emerald Seas.
+
+She was going to steal his grandchild once and for all.

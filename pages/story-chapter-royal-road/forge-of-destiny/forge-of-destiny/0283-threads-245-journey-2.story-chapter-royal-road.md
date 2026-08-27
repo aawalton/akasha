@@ -1,0 +1,121 @@
+---
+id: 7e190965-f88e-53ca-a1ae-623686bf45b4
+page-type-slug: story-chapter-royal-road
+title: "Threads 245-Journey 2"
+slug: 0283-threads-245-journey-2
+partOf: forge-of-destiny
+position: 283
+ownLength: 1778
+unit: words
+publishedAt: 2022-09-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/989931/threads-245-journey-2"
+royalRoadId: "989931"
+---
+
+Ling Qi frowned at the little golden statue hovering over the labyrinth gate of her hub in the dream. It bothered her. Despite the fact that it was something the old Weilu had followed, that the Hui had claimed as their own, and that the Meng still claimed to follow a form of, books did not directly reference it, referring to it only in oblique metaphor.
+
+“I feel like I need to say it again now that we’re out of there, but you know not to trust that guy right?”” Sixiang stepped into the dream beside her. The muse put a hand on Ling Qi’s shoulder. “Cause that cultivation game you just played?”
+
+“Was incredibly dangerous.” Ling Qi swayed a little on her feet. Exhaustion fuzzed her mind, and her knees wobbled. “But I couldn’t refuse the contest.”
+
+“Course you couldn’t.” Sixiang sighed, wrapping an arm around her, supporting her under the shoulder.
+
+Sixiang was the only one tall enough to do so without hovering, Ling Qi thought absently. It was enough to get a tired laugh.
+
+Sixiang shot her a grin, guiding her over to a flat stone where she could sit and meditate and sort out her qi. “So what’s the plan for that?”
+
+Ling Qi considered the potent drops of qi she had taken in the early parts of the contest. The skeleton called himself a thief in words, and being a thief herself, she knew that a thief was untrustworthy. She didn’t care for the idea of having her body stolen or her personality shifted or whatever else a potent spirit could theoretically do.
+
+“For now? I’m going to ask Shu Yue to check my cultivation when we reach the first stop on the trip north. It won’t be out of place with what Su Ling and I faced.”
+
+Sixiang crouched in an undignified squat before her, eyebrows rising into their hair. “That spook? When are you going to get the chance?”
+
+“They’ll be watching over us on our trip north to Xiangmen. They said they were there to help me at the tournament. I suppose I’ll be testing that.”
+
+“Mmm, someone like that probably would notice any weird presents left behind,” Sixiang considered. “You gonna try and get their backing for your talk with Diao Hualing?”
+
+“I’d really like to not start my negotiation with Diao Hualing with such a threat.” Ling Qi slowly circulated her qi. There were deviations like drops of blood staining a cloth, and she breathed out, working to purify her energy. “I’ll speak with her first and work with the ministry. I’d prefer if the relationship didn’t have to be antagonistic.”
+
+“But you will if you have to, huh?” Sixiang tilted their head to the side. “Why?”
+
+“Because I want to hurt that monster,” Ling Qi said darkly. She reached up, touching her cheek where one of the shards of her flute had been embedded. “Because she took something from me, and she tried to take more.”
+
+The fox had tried to hurt Su Ling, to break someone her friend clearly found precious, and to taint and poison one of the few happy memories the stoic girl held close. She also didn’t want more children to suffer. She would be happy if they didn’t. Only Su Ling herself would be happier with the news that a fox-blooded child or two were plucked away from suffering and brought somewhere to live well.
+
+But the truth was, she wanted the old monster to hurt.
+
+It made her feel a little unworthy that that was her real overriding motivation, above any altruistic impulse, but she hadn’t lied to the fox. Su Ling was righteous. Cai Renxiang was righteous. She was just a girl who was beginning to be convinced that life could be better than the cold nightmare that a creature like the fox represented.
+
+But she knew one person’s hands wouldn’t and couldn’t be enough to change that.
+
+One person couldn’t carry the world on their back, no matter how mighty they were. On that, at least, she agreed with Diao Linqin.
+
+But right now, she just didn’t know enough. Every day, she discovered some new shadowed corner of history or inexplicable relation, and she found herself wondering just how much larger the world could get.
+
+She was beginning to find her ignorance frustrating. There was so much she didn’t know, and it bothered her almost as much as the weakness that still dogged her. Maybe it didn’t gleam like stones or jewels, but knowledge could be a treasure too.
+
+Once she felt settled from her meditation, Ling Qi left the liminal behind, stepping back home. With the labyrinth gate, it was as easy as stepping between rooms, smooth and controlled with barely any effort at all.
+
+When she emerged back into reality, she found herself face-to-face with Hanyi and Zhengui, who had clearly been pacing the clearing.
+
+“Big Sis!”
+
+She almost took a step back as they all cried out at once, blinking in shock. “What’s wrong? Did something happen?” she asked worriedly.
+
+“Yeah, you’re late!” Hanyi said, crossing her arms. She stood on top of Gui’s head. “Lady Cai sent us to look for you since you didn’t show up at the carriage!”
+
+Ling Qi frowned. “But I didn’t spend—” She swallowed as she looked up at the sky, seeing how close the sun was to its zenith. Just how long did she spend in the gaol?
+
+“There’s another danger to watch,” Sixiang murmured.
+
+Ling Qi held back an expletive. “Alright, let’s move. I’m sorry, Hanyi, Zhengui. I didn’t mean to worry you.”
+
+She extended a hand, drawing them back into her dantian and took off from the cliff, soaring down to the base of the mountain.
+
+***
+
+The carriage was absurdly luxurious. It was made of polished white wood with inlaid patterns full of powdered gemstone which glimmered and flashed in a rainbow of colors under the light. Its wheels and axles were some alloy of silver and steel that seemed invulnerable to marking or dirt. It was pulled by a team of four pale gray horses, each of which exceeded Ling Qi’s own cultivation. A White Plume soldier accompanied by two others, all of whom were in the third realm, drove the carriage. And that was ignoring the stark shadow it cast, which did not even try to hide that it held a potent presence.
+
+It felt bizarre to be seen off with such fanfare.
+
+As to the interior, through some bending of space, it was easily the size of the sitting room in her family’s town home. On either side, the curtained and shuttered windows looked out on the blurring landscape. Plush benches richly upholstered were built into the walls, and soft carpet cushioned their feet. A marble topped table was bolted to the floor between the benches and on it were set out cups with tea and small platters of light snacks. A small crystal chandelier hung from the ceiling, tinkling lightly with the hint of motion that made it into the interior and casting bright light throughout the space.
+
+It was a good thing that Ling Qi had become accustomed to luxury, or this would have been horribly uncomfortable. She sat a body length down from her liege on one side, carefully sipping from a cup of an earthy black tea.
+
+Cai Renxiang sat stiffly, her hands folded in her lap. There were only a few signs of the burns she had been said to suffer in the faint patterns of red along her neck and wrists. Cai Renxiang’s hair was held back by a platinum circlet and had been arranged in a coiling braid along the back of her head, leaving her neck bare.
+
+Surprisingly, Liming’s form had changed significantly. She was not a dress at the moment, but a pair of tight white trousers which were tucked into dark red riding boots and a crisp white and gold shirt with loose sleeves, though Liming’s red and gold “eyes’ remained splayed across Renxiang’s chest. A golden cord-like belt affixed with a pin in a butterfly’s shape hung at Renxiang’s waist.
+
+Gan Guangli, sitting across from them, took up much of the bench with his bulk. He wore a finely patterned and embroidered quilted underarmor of his usual garb. He seemed to be trying not to stare at Cai Renxiang as much as she was.
+
+Cai Renxiang’s eyes drifted shut under their not quite stares. Only a few minutes into their journey north, and already, the atmosphere was terribly awkward.
+
+“You have questions,” Cai Renxiang said.
+
+“I would know what you accomplished, if you would share it, Lady Cai,” Gan Guangli rumbled.
+
+Ling Qi inclined her head in agreement.
+
+“I engaged in negotiations with Liming. I wrested from her some small amount of power and insight. It was a most stressful endeavor.” Cai Renxiang calmly reached out to pour herself a cup. The movements remained as precise and controlled as she had come to expect from the girl. “I am told you underwent something similar, Ling Qi?”
+
+“It was less personal. I was assisting someone else, but I still found some insight in the confrontation.”
+
+Gan Guangli let out a deep sigh. “And I had believed that challenging the First Inner Sect Peak to test my strength was reckless. I have many lessons to learn.”
+
+“I’ve had more time to corrupt our lady. I’ll work on you too, Gan Guangli. If only for Su Ling’s sake,” Ling Qi teased.
+
+Gan Guangli let out a single laugh, but his eyes remained serious. “And this change, Lady Renxiang? This is part of your results?”
+
+Cai Renxiang hummed, inhaling the rising steam from her cup. “I have never liked dresses. They do not suit me.”
+
+It was a simple, innocuous statement. Somehow, it held far more weight than it should have.
+
+“And it is far past the time that I choose something so simple as my own garb,” she added.
+
+“I think this style suits you well,” Ling Qi said. “I am sure Lin Hai could help you accessorize a bit more. Maybe some gloves?”
+
+“Perhaps. One must be willing to adjust,” Cai Renxiang replied. “But I do believe I have promised you some explanations for both my recent behavior and the future.
+
+“Take it in your time. We have a long journey,” Ling Qi said.
+
+“But there is much to talk about, much to plan, and much to comprehend. I have put this off too long.” Cai Renxiang pinned them with a serious stare. “My mother, the Duchess of the Emerald Seas, expects and demands that I or one of her future daughters overthrow her.”

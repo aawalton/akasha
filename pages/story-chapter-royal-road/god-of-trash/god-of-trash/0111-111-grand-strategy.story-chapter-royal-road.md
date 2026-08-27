@@ -1,0 +1,69 @@
+---
+id: cfe0d758-ce6d-53d3-a860-97c12ed63b56
+page-type-slug: story-chapter-royal-road
+title: "111. Grand Strategy"
+slug: 0111-111-grand-strategy
+partOf: god-of-trash
+position: 111
+ownLength: 2230
+unit: words
+publishedAt: 2025-06-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2385216/111-grand-strategy"
+royalRoadId: "2385216"
+---
+
+The mages looked amongst one another. At last, Korii stepped forward. “We await your orders, s… Rhys.”
+
+Rhys nodded, deeply pleased. Nothing quite like basking in the real-life playout of a trashy trope, the overly servile underling who struggled not to call the main character ‘sir.’ Not that he had main character energy—no, that was Bast—but even so, what a nice feeling. Trash like him only got to experience this kind of setup once in a blue moon, and if he thought about it, usually it was only when a bit villain set up a gauntlet of foes for the hero to charge through. He pinched his chin, considering, then nodded. Is that was so, then so be it. He’d be the Empress’s bit villain. Every little thing that forced her and her army to focus just a little more energy on keeping the peace, that forced her to expend resources on keeping land she’d already taken, was a little thing in favor of casting her off. He didn’t expect to personally take down the Empress himself, when he was trash, but he was quite happy being one of those people, when the heroes stood up and gave their speech, and said, ‘…and everyone else who contributed—every little thing helped,’ and know that despite the fact that the heroes never knew he existed and would never know, nonetheless, it was him they meant when they said that, that was enough for him.
+
+In other words, he wasn’t mounting an insurgency, or anything like that, though it’d be a sad insurgency with some ten-odd people. No, his goal was to be a thorn in the Empress’s side, to prickle her insistently and irritate her until she could focus on nothing else, to the detriment of her actual goals.
+
+He realized that casting himself as the mosquito meant he was likely to get slapped, but that was fine. What were his other options? To throw himself under somebody? That wasn’t his attitude. He liked his freedom, and though an actual army might be a better effort in the end, he wasn’t suited to regimented military training, or regimented military work. Besides, he was doing this to retain his personal freedom. If he threw away his personal freedom to take on the Empress, all he’d done was give up on his ideals in order to fight someone he disliked, and he could never get behind that kind of thinking. He’d throw away his ideals, sure, but perhaps… perhaps freedom was the one he couldn’t let go. The hope at the bottom of Pandora’s box.
+
+Running, he’d already thrown away. He wasn’t going to run. This was a battle that must be fought, not fled from, because to flee it meant to abandon all hope of a different future. If the Alliance was retreating to fight another day, then that was fine, but there had been three years of another days by now. He couldn’t rely on anyone else to fight his battles for him. If he was going to stand up and hold his ground, then he did it now or never.
+
+Rhys lifted his head at last, his mind made up. He looked at the mages before him. “Just to confirm, but are you all ready to give up your lives in our quest? I can’t guarantee any of you will make it out alive. No… in fact, it’s very likely that, by this time next year, there won’t be two of us left to return to this space.”
+
+Some of the mages glanced at one another at that, murmuring amongst themselves. Rhys steeled himself. They might be less a mosquito, and more a single flea. Still, he pressed on, because this was the difference between him and the Empress: free will.
+
+“If you want to flee, if you would prefer to take your chances and run back to the Alliance, I’ll have to take the core I gave you back, but I won’t hold anything against you. This is your last chance. If you don’t say no here, then consider yourself dead, already given to the cause.”
+
+Korii stepped forward first. “To run is to surrender, and I will never again surrender to the Empire.”
+
+Blake stepped forward next. “No matter what filth we have to crawl through, I’m at your side.”
+
+One after another, the other mages stepped forward, resolve shining on each face, and Rhys realized that he’d been foolish. They already knew what he was asking them, and they had already decided to fight to the death, if need be. It would be rude of him to keep asking—no, even asking this much had already been rude. He bowed, understanding. “Then let me lay forth our strategy.”
+
+His plan was simple. Everyone focused on regaining their strength, whatever shape that strength had taken. Whatever they needed, Rhys would procure for them. He was pretty sure his strength didn’t register to other mages unless he deliberately released his aura, since it was based on trash, and he no longer had a proper core, so he was the most mobile of all of them. They would focus on techniques to disguise and hide their auras. When every one of them had regained as much strength as they could, and could disguise their auras, then they would risk their first attacks—ambushes, as though by bandits.
+
+Not everyone knew aura hide or disguise techniques, although apparently they were relatively common among mages, especially higher Tier ones. Those who were willing to share their techniques would teach the others, but Rhys knew himself how hard it could be to learn a technique that wasn’t suited to you (like fireballs). Still, that amounted to one thing, at the end of the day:
+
+Rhys needed to visit a library.
+
+The rest of the day was spent meditating, for the other mages. As for Rhys, he spent it coercing some old trashed robes into a new piece of clothing. His hair, which had been ragged and filthy in the prison, he combed out with a broken comb and some Trash Intent, then pulled back into a half-up, half-down style popular with men in this region. It wasn’t as good as dyeing or cutting it, or better yet, a wig, but on the other hand, the Empress and her cronies had only seen him with his hair in a ponytail, so hopefully this was enough to slide past… not that he expected anyone to remember him, save a single white-haired soldier apprentice. And what was the chance he’d run into him on his first day back in civilization?
+
+Rather than smearing his face, he headed out to the river they’d passed in the forest to wash off all the gunk from being a prisoner, and get the trash funk out of his new clothes in one—though of course he drew in the impurities first. From the filth, a cleaner him emerged. He stretched, dressed, and as the sun rose over the horizon, set off into the forest, rounding the city to come at it from the opposite side from the prison. He encountered a road after some time and walked along it, joining the merchants, pilgrims, and other wanderers on the road this early.
+
+To his surprise, some of the merchants had mana signatures. Thinking about it, it only made sense; the army needed suppliers, and the suppliers would have to acquire and guard magical supplies, which meant fighting beasts (from his limited readings of Az’s holdings, beasts usually guarded any kind of magical resource, if beasts themselves were not the magical resource) and fending off bandits, and especially out here this far on the border, they couldn’t have squashed every magic-wielding bandit. Plus, the merchants would have to keep up with the front lines to supply logistics support to the army… well, merchants at that level were probably considered part of her military, but nonetheless, someone had to acquire the raw materials, and it seemed the Empress had been forced to acknowledge reality there and realize that she required specialists with mana who knew where and how to harvest magical goods, who didn’t necessarily have the ability or desire to join the military; and besides, forcing every merchant to abide by military regimens would leave big gaps in the army’s logistics, whenever x merchant who was the only one who knew how to find item y had to go participate in the battle and left the entire army without item y. He felt a bit disappointed at the discovery—his group’s attacks would be less laughably easy—but on the other hand, it presented opportunities. It meant that the other members of the resistance could enter town, as long as he figured out what it was that marked merchants as allowed to have mana.
+
+He casually looked over the merchants as he walked, and noticed they all wore a small white badge at the front of their robes, ringed in miniscule gold text. Was that it? Were there any secrets to it? He wasn’t about to hare off and kill a merchant just to find out their badges were attuned to their mana and unusable except by that merchant. Patience was of the utmost importance right now. Move too quickly, and he’d get caught. Better to ride quietly, blend in, and slowly figure out how to acquire what he needed—and what he needed to acquire.
+
+A gate loomed. Rhys joined the line of those seeking entry and braced himself to face scrutiny, but the guard just gave him a cursory glance and waved him in. It seemed they hadn’t heard of the prisoners breaking out of the mine… or perhaps they had, but Rhys in his clean clothes and fresh appearance simply didn’t meet their expectations of a prisoner. Whatever it was, he walked easily inside, and found himself in a massive city.
+
+It was the largest one he’d faced yet. It must have been home to mages at some point, because there was an ancient castle upon a hill that was totally apart from the rest of the city. The castle had recently been expanded, with sparkling fresh white walls sprawling out from the hill and into the city, and parapets and towers that stretched upward, offering long arms into the sky for the many airships to dock. Most of the airships were gleaming white, of the Empire, but some were colorful; perhaps from countries friendly with the Empire, outside of its reach? No matter how big and sprawling a country ways, or how grand its conquest ambitions, there would always be countries it couldn’t conquer, or hadn’t conquered yet. Rhys noted that as well; they could also become ‘foreigners,’ though that was riskier than becoming merchants. Foreigners drew eyes and questions in ways that blending in as a merchant wouldn’t.
+
+Away from the castle and its impressive multi-level airship dock, houses stretched in all directions, some of them grand, others simply large, barracks more than houses, and most of them, the largest quantity, low and squalorous, barely a step above slums, only a step above slums because there were actual slums beyond their borders. The walls separated the low-rank houses from the true slums, with the slums open to whatever lurked beyond the walls. He looked upward, toward the finer houses. If there was a library, it would be up there. He wasn’t sure if a ‘mortal’ like him would be able to enter it, but that was fine. He was fine with a little breaking and entering, if that was what it came to.
+
+Despite Az’s pledge to escape before the Empress’s arrival, Rhys couldn’t help but find himself hoping he found a familiar library cat out on the streets of the city. He kept his eyes open as he closed in on the upper part of the city just in case.
+
+The houses grew nicer around him, until finally, he came to a second wall. This one was taller and nicer than the first, and the guards appeared more attentive. Ahead of him, a woman in fine robes entered, and Rhys followed naturally after her.
+
+Two spears materialized in front of his nose, barring his way. The guards glared. “No entry to mortals,” one rumbled.
+
+“Sorry! I must have gotten lost,” Rhys apologized, and turned back. He walked calmly away until he was out of the guards’ sight, then turned, following the streets alongside the wall until he found a segment of the wall all alone, unattended at the back of a now-dead-end alley. He eyed it, reaching out a hand to sense it. As expected, there was a barrier that would not only prevent his entry, but, if the way it pulsed was any indication, also alert the guards when he tried in the air over the wall.
+
+There’s more than one way past a barrier. Rhys knelt, examining the ground.
+
+As he pressed his hand to the earth, a soft cough sounded out from behind him. Rhys startled and whirled, only to find no one there. On guard, he looked left and right, searching for the source of the sound. He didn’t want to extend his aura here, in the city, so looking was the limit of what he could do, and he found nothing.
+
+Another cough. He looked around again, and finally found the source of it. His eyes widened. “You!”

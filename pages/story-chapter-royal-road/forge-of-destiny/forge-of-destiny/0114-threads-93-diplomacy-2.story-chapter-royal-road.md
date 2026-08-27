@@ -1,0 +1,119 @@
+---
+id: da7aac08-e317-542f-878d-282f282d4783
+page-type-slug: story-chapter-royal-road
+title: "threads 93-Diplomacy 2"
+slug: 0114-threads-93-diplomacy-2
+partOf: forge-of-destiny
+position: 114
+ownLength: 2136
+unit: words
+publishedAt: 2021-06-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/697184/threads-93-diplomacy-2"
+royalRoadId: "697184"
+---
+
+They spent a while longer at the archive, discussing lighter topics of cultivation and music. Ling Qi workshopped the songs she was intending to play at Lady Cai’s next gathering. Ruan Shen shared some details of a composition he was working on as part of his training with an elder which he had won through a trial before the incursion started. Even Yu Nuan had been coaxed to share a few bars of a song she was working on for a visit to the Thunder Palace.
+
+So it was with a light heart that Ling Qi found her way back home to the balcony that overlooked the garden to cultivate the Harmony of Dancing Winds. With the soft strains of that melody drifting through the house, Ling Qi found her awareness drifting. She could feel Biyu valiantly fighting sleep as her mother read to her a story of a brave princess and her animal friends questing against an evil spirit. She was aware of the servants, gathering in the kitchens to have their own meal, full of chatter and laughter and gossip about their lives in the greater town. She felt the shadow of other households, warded by muting formations, and people in the streets returning home with one eye on the sky.
+
+It was, in a way, like a pond where one set of ripples would spread and spread, affecting others, or perhaps, as her liege might say, a loom where each individual was a thread, intersecting and weaving through others’ lives. The lessons of the Harmony of Dancing Winds arts slipped through her thoughts as she played, refining the notes to mastery.
+
+Ling Qi had long decided that she would not stop walking the path forward. She would do so even when obstacles presented themselves and even when things grew difficult. She had decided that on some matters, there could be no compromise or retreat and that small endings were both acceptable and inevitable. But she did not want to be alone again.
+
+The words and emotions of her family at her decision during the three villages sect defense mission stung, and the pain in her dantian, that grinding feeling of something broken, was real.
+
+She needed to race forward without slowing.
+
+She did not want to be alone.
+
+Her melody faltered as her breath hitched, a sharp pain traveling up her spine. The distress arose from her, but its source was elsewhere. It came from the faint strands that stretched back into the house away over the hills where Zhengui rested and Hanyi composed. It came from up in the mountains where her friends resided.
+
+In moving forward blindly, she hurt others. Through others, she hurt herself. By hurting herself, she had slowed down. This thought circled in her mind, chasing its own tail. She half expected Sixiang to comment, but the moon spirit was silent, respecting her need for introspection.
+
+There was something to that thought, Ling Qi mused, even if it did not soothe the pain in her spirit. It wasn’t an answer, just an observation. It was a good one though, she thought. It might not solve her current problem, but if she wished to avoid further wounds in the future, then she could not afford to let her vision be so narrow.
+
+After all, even walking alone, her footfalls echoed beyond her hearing.
+
+***
+
+<Where are we going, Big Sis?> Zhengui asked curiously, his thoughts echoing in her mind as she soared between mountains, heading for the peak that contained many of the Inner Sect training grounds.
+
+“We’re going out to do a little training, hopefully,” Ling Qi said. With no one to hear, she felt no need to keep her dialogue with her little brother silent. Of course, she had some more specific reasons for taking Zhengui along other than just getting him out of Hanyi’s hair while she composed.
+
+<Finally done putting it off, huh?> Sixiang murmured.
+
+She was. With the imminent arrival of what might be Cai Renxiang’s last big gathering in a while, Ling Qi really had no excuse not to act on her liege’s commands.
+
+It wasn’t like she had been slacking off in the interim; she had spent time looking into Wang Chao and the Wang clan in general, searching for a good way to approach them. What she had found surprised her a little. The Wang had been a viscount clan focused on architecture of all things before the rise of their current matriarch to the sixth realm at Cai Shenhua’s side.
+
+Wang Chao was that matriarch's grandson, but he wasn’t particularly high in considerations of succession. One of his aunts was the head of the clan, and one of her adult sons was the heir. His father was one of their generals, and his mother was a courtier from the Celestial Peaks. He wasn’t the least talented of his siblings and cousins, but neither was he the most. He was just middle of the pack. This was something he was prickly about, going by what she had picked up.
+
+She did have an opening gambit, but she would have to be careful not to prick his pride too much. After all, he was eighteen years old, but she was already swiftly catching up to his cultivation.
+
+Ling Qi planned to go with Sixiang’s original suggestion. With the Sect at war, she could use some more pointers on tactics and battlefield planning, particularly in incorporating Zhengui. She had promised to work harder to include him in her plans, and she meant to keep that promise. Because the Wang family’s warriors specialized in tactics centered around fortresses and hardpoints, Wang Chao would be well suited to assisting her in this regard. And as Sixiang had noted, asking Wang Chao for a small favor, one he’d be able to fulfil, making him look good and magnanimous toward her, granting him some social leverage, would make him well inclined toward her. That she really could get practical use out of the instruction was a bonus.
+
+Ling Qi descended onto the mountain, banking toward the lower side she had tracked the young man to. She kept her qi restrained and peered down, her eyes flashing silver as she studied the training grounds. It was a public one, rather than a private one, and there were a handful of disciples about. Most, she didn’t recognize, but a few…
+
+She spotted Wang Chao, the stout young man armed with a heavy pike balanced on his shoulder and armored in a suit that was enameled in dark green. It wasn’t quite the full plate that Gan Guangli liked to thunder around in, but it was relatively heavy by the looks of it. He was laughing about something in one of the training rings, reaching down to help up his downed opponent. She glanced at the other boy, only to furrow her brow. Did she recognize him from somewhere…?
+
+<It’s sword boy. You know, the one I peeked at… under the hood for you?> Sixiang reminded her.
+
+“You did that on your own.”
+
+Ling Qi shook her head as Sixiang chuckled, deliberately ignoring the flash of well exercised pectoral muscles that the spirit flashed in her thoughts. Liang He, that was the name. If Wang Chao knew him, she supposed his grumpiness at the party made more sense.
+
+Her eyes wandered over the rest of the field, and she blinked in surprise as she spotted a third person she recognized. Alingge, the girl from the hunting party hosted by the Luo, was at the other end of the field, squinting down range at the targets, a long bow of white wood in her hands.
+
+Interesting. Maybe she could make the approach more natural if she approached Alingge first… No, she was overthinking things again. It was an unnecessary flourish which didn’t even offer much advantage.
+
+<Hey, she can learn!> Sixiang declared in amusement. <Honestly, just go down and start a conversation, you dork.>
+
+<Big Sis? Are we going down?> Zhengui asked, blissfully unaware of her indecision.
+
+Yes, Ling Qi thought decisively, resuming her descent. She brought her scattered qi back together as well, returning her presence to a more normal level. Several people glanced up, the people she knew among them. Ling Qi offered a polite wave to Alingge, but she headed toward the training pit where Wang Chao and Liang He stood.
+
+She landed gracefully in a flutter of wind, bringing her hands together to offer a polite greeting bow. “My apologies for the disturbance, Sir Wang.” The less involved were already going back to their own business. “I have been looking to speak with you.”
+
+“Is that so?” the stout young man asked dubiously, peering at her from under his helm. He straightened up, resting his pike on the ground and offered a short bow himself. “Does something trouble our Lady Heiress then?”
+
+“No, nothing of the sort. Recent events have led to some troubles that I was hoping for your aid with… It can wait if I am interrupting something.” She glanced at Liang He, who avoided her eyes. “I wasn’t aware that you were acquainted with Sir Liang.”
+
+Wang Chao was still looking at her like she was a snake preparing to strike, but he cracked a slightly forced grin and clapped Liang He on the back regardless. “The Liang family are soldiers in my Wang clan’s capital lands. He has been doing very well! When the barbarians came, he held a village alone until core sect reinforcement arrived.”
+
+“I would not take credit from the brave soldiers who manned the walls with me,” Liang He demurred with a bow. He really seemed to have trouble looking at her. Had she scared him that badly at the end of the duel? Now, she felt a little bad.
+
+<You definitely make him nervous, alright.> Sixiang sighed.
+
+“Congratulations on your achievement anyway. I know it couldn’t have been easy,” she said, smiling. Ah, the relationship was even stronger than she had speculated. It couldn’t hurt to compliment Liang He too.
+
+“Miss Ling’s achievements were more impressive,” Liang He replied sincerely, raising his head and finally meeting her eyes. “You not only held the barbarians back, but also drove them off.”
+
+“Bah, you are too modest, Liang He,” Wang Chao complained. “But yes, I had heard that Miss Ling acquitted herself well against the barbarians as well.”
+
+“I appreciate your words,” Ling Qi replied. She didn’t play down her efforts, because why should she? “It was actually my experiences there which brought me to you, Sir Wang.”
+
+“I assure you,” Wang Chao said stiffly, “the Wang clan did our utmost against the incursion. The Sect was not the only place struck.”
+
+Ling Qi spoke up hastily in reassurance. “I have no doubts about the Wang clan’s defenses. It was actually your experience with such things that I was interested in.”
+
+“Oh,” he said, seeming nonplussed, and his fading grin became genuine. “Hah. My apologies for assuming.”
+
+Beside him, Liang He gave Wang Chao a sidelong look.
+
+“The incursion was my first real experience with a concerted enemy attack,” Ling Qi explained, bowing her head. The bandits didn’t count. “And I found myself at a bit of a loss on how best to utilize my spirit Zhengui in such a battle.”
+
+Wang Chao’s thick eyebrows drew together. “The xuan wu? I would think it obvious.”
+
+Ling Qi restrained the urge to let her eyes twitch in annoyance at his condescension. “My confusion regards how best to cooperate with him given my preferred style. I was hoping for some advice on how to marry high mobility tactics with more stationary ones.”
+
+“Ah, I think I understand your trouble then,” Wang Chao realized. “I do not necessarily mind giving you some pointers, Miss Ling, but…”
+
+“Please do not worry on my account, Lord Wang,” Liang He said with a bow. “I do not mind postponing our spar.”
+
+Wang Chao shot him a frustrated look, but she couldn’t quite figure out why. She didn’t get the feeling that he was trying to blow her off, more like he didn’t want Liang He to excuse himself. Ling Qi hid her puzzlement.
+
+“Well, then,” Wang Chao said grudgingly, tapping the butt of his pike against the packed dirt. “Is the spirit with you? I need to get a look at what we would be working with. You don’t mind if Liang He tags along?”
+
+“Not at all,” Ling Qi replied. It was a small request, and it wasn’t like she disliked the other boy. “Actually, do you mind if I invite Miss Alingge over as well then? I promised to show her Zhengui at Luo’s last party.”
+
+He blinked in surprise and then nodded enthusiastically. “Certainly. Let us make a small gathering of it then!”

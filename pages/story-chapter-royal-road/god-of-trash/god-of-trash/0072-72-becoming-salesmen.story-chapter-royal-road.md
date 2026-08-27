@@ -1,0 +1,169 @@
+---
+id: bac43c9e-7c1a-575d-a400-12aacfeb7b1f
+page-type-slug: story-chapter-royal-road
+title: "72. Becoming Salesmen"
+slug: 0072-72-becoming-salesmen
+partOf: god-of-trash
+position: 72
+ownLength: 2822
+unit: words
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2272138/72-becoming-salesmen"
+royalRoadId: "2272138"
+---
+
+The potatoes were growing. They had plenty of oil and salt. Tonight, at midnight, he was going to head back down to the trash pit and get started on packaging his chips, so that they wouldn’t run out of stock during peak sales time. But the most important part of their sales pitch was still lacking: namely, the face.
+
+Luckily, Rhys had two handsome faces at hand. Unluckily, both of those faces were also the faces of their customers’ opponents. He’d been to sports matches before, however unwillingly, dragged there by his bosses or colleagues before he’d gone full remote work. The opposing team’s fans rarely bought merch with the home team’s face on it; the home team might go rabid for that stuff, but given how small the home team was, in his and Bast’s cases? It wasn’t the greatest selling technique to reach for in this particular moment.
+
+Which meant it was time to put his old skills to work, and transform them both into completely different people.
+
+He couldn’t completely shuck Mouse this time, but Bast solved that problem by quietly approaching her from behind and knocking her out with a swift blow to the back of the head. They’d set her in a nearby tree so it looked like she was watching them. Rhys said a quick, quiet prayer that the long-term side effects of concussions were easily solvable with mana in this world, drew his curtains, and got to work on the task at hand: namely, transforming Bast.
+
+Although he would prefer to make small modifications to the base formula, as it were, put him in a wig, slap some glasses and makeup on him, and call it a day, they were going up against mages, who were far more perceptive than mortals, and not only that, but they would be put in the spotlight, their faces broadcast all over the town, and the center of interest squarely on them. Plus, Bast was the Sword Saint’s apprentice. Even if he wore a mask the whole time, and that was all that anyone saw in the matches, there were still plenty of sycophants who’d memorized his face before he’d thought to hide it. According to him, whether he wore the mask or not, he risked recognition, so he wore the mask in hopes that the worst of them would eventually forget him.
+
+All that to say that merely disguising Bast wouldn’t be enough. His face was too well known. He had to craft a whole new character, give Bast a new look so drastic that no one would be in the same headspace as thinking about the Sword Saint’s apprentice. Bast had to start from something so radically different, that even if they recognized his facial features, they’d be in such a different manner of thinking that they put it down to an odd coincidence, rather than start wondering if they’d seen through a disguise. It had to be a transformation, and not only that, a transformation that completely moved people’s mental paradigms into a different realm.
+
+Fortunately for Bast, Rhys had a lot of experience dressing other people up.
+
+“Are you done yet?”
+
+“Not yet. These things take time.”
+
+“These clothes are itchy, and my back hurts.”
+
+“You’ll get used to it.”
+
+“This is stupid. I can’t believe I’m letting you do this.”
+
+“You’re letting me do this because you know it’s a good idea.”
+
+“I’m not so sure about that—ow!”
+
+Rhys gripped his chin. “Hold still. I’m almost done.”
+
+There was silence. No sound but the soft touch of a brush. At last, Rhys stepped back. “What do you think?”
+
+Bast stared into the mirror in outright shock. “How are you so good at this?”
+
+“Don’t ask questions you don’t want answered.”
+
+Bast turned his head left and right, getting a better look at himself. “Who is that? That’s not me. No way.”
+
+“That’s exactly the reaction I want!” Rhys said enthusiastically, giving him a thumbs up.
+
+“If Master finds out about this, I’m dead,” Bast grumbled.
+
+“But he won’t, so you’re safe.”
+
+Bast looked up at Rhys. Or rather, a blonde-haired beauty looked up at Rhys. He’d played into Bast’s larger frame to give him an amazonian style, with long blonde curls, ‘natural’ makeup, and a rather aggressive dress with a single high thigh slit. He didn’t have the materials to go all out with a latex body suit in this world, so he hadn’t been able to risk hip slits or anything that might show off the padding he’d stuffed into the hips and rear area of Bast’s leggings. A fine stuffed bra filled out the upper half of the dress, which had a high-necked closure and demi-sleeves, just enough to hide the fake tatas from being seen through from all angles. Since they’d be doing sweaty work, and he wasn’t sure how waterproof the makeup was in this world, he hadn’t tried doing cleavage lines or contouring the chest, instead opting for high necklines. The dress itself had dark fabric at the sides down to the hips; it was meant to create the illusion of a waistline on a slightly overweight woman, but it also worked to transform Bast’s muscular torso into something more streamlined and shapely.
+
+He hadn’t always had his female friend to wear some of his more choice costumes. Back when he was still small and delicate, before the massive weight gain as he’d gotten as an adult working a 60-hour workweek, he’d been able to squeeze into a few of them personally. It wasn’t because he wanted to wear women’s clothing, it was because he wanted to emulate his favorite characters, and they all just happened to be women. At the end of the day, who wanted to cosplay the boring main character in his boring black trenchcoat? The female characters always had way better character designs. Not only that, but they were way hotter than the men.
+
+He was the trashy kind of guy who always played as the woman, whenever woman was an option. Why would he want to look at some dry man’s ass for fifty hours of gameplay? Way better to look at a fine female rear for fifty hours. It was the same exact thought process when it came to cosplay for him. Why dress up as some boring-ass dude in boring-ass clothes, when he could become a hot lady? Everyone liked big tatas, so why not put some on himself? He couldn’t imagine anything better.
+
+Some people didn’t understand it, but that was alright. There was always someone who didn’t understand, whenever anyone was passionate about something. Whether it was food, sports, games, or dressing up as women and flaunting around conventions with giant titties, there would always be someone who didn’t understand. He accepted that, even if he disagreed with it. He hadn’t done it for people’s understanding. He’d done it for his own satisfaction.
+
+Of course, when he was finally too big to fit into any of his silicon body suits anymore, he hadn’t stopped working on makeup. He’d helped his female friend with hers. She was good at makeup—he didn’t mean to imply in any way that she was inadequate. When it came to making a character look natural or human, she was unmatched. His special skills laid in making people look like anime characters or game characters, that kind of overblown over-the-top makeup that wasn’t anyone’s every day makeup. It was a whole different set of skills, putting makeup on someone else, and he was glad he’d had the chance to practice it before he tried on Bast. No way would Bast have put up with his trial-and-error efforts that his female friend had.
+
+Once more, Rhys felt immense gratitude toward his female friend, and sorrow that he couldn’t clearly remember her face or name. This world had wiped a lot of the finer details of his homeworld’s memories away from him, and that was one that he regretted deeply.
+
+“What about you?” Bast asked, nodding at Rhys.
+
+Rhys nudged him out of the way. “Give me about half an hour.”
+
+--
+
+“We’re really going out like this?”
+
+“We’re going to sell potato chips like this. Of course we have to go out like this, don’t be ridiculous. Remember, just act confident. You’re a woman. You’ve always been a woman. Exude that energy, and strut.”
+
+Bast took a deep breath. He looked at Rhys. “I still can’t believe that’s you.”
+
+“Huh?” Rhys blinked at him.
+
+“Just… nothing.”
+
+Rhys looked at himself. He hadn’t gone all out, and honestly, he was wondering if he shouldn’t have gone harder… but then, he was trying to look like a normal girl, not some anime babe, so it was probably fine.
+
+He’d had to work far less hard to soften the contours of his face than he had Bast’s. For once, his younger, less mature body had worked in his favor. The effort he’d had to do to give himself a girl’s face once his jawline and jowls fully expressed themselves back in his homeworld… he’d spent way too long fixing his face to look vaguely passable. He was almost embarrassed at how easily he’d transformed into a female with a little makeup in this world. The only downside was that there wasn’t much he could do about his mana-colored, faintly glowing eyes, but Bast had assured him that there were plenty of young mages who made the same mistake of shoving mana into their eyes as he had, and that the color wasn’t uncommon. He wasn’t sure they’d come about their eyes the same way he had his, but at the very least, he didn’t have to worry about having too-distinctive eyes.
+
+He had long hair, but he knew that wigs were the easiest way to transform your looks, so he’d gotten a cute brunette wig with double-buns and bangs, not unlike one of his favorite fighting game characters (even if his thighs didn’t match up to hers). He’d gone with a slinky red silky dress to show off his artificial curves. He hadn’t exaggerated them too much, to match his age, so the silky dress was just enough fabric to make sure he still showed off his new feminine figure. The dress was an A-line, and reached his knees. Once more, he’d have preferred a true thigh-slit dress, but he didn’t have his silicon body suit. Something I’ll have to rectify, eventually. A jangly bunch of cheap bangles finished the look, to hide his too-large wrists and subsequently, draw attention to the potato chips.
+
+“Come on. We’re just going to the market,” Rhys said, gesturing Bast on. He stepped out onto the street.
+
+Bast hesitated, then followed his lead. “To the market?” he hissed.
+
+“Yeah, the market, B…etsy. Betsy. Your friend Rina’s going to show you around.”
+
+“Betsy?” Bast asked, raising his brows incredulously.
+
+“Yeah, did you forget your name? Come on.” Rhys grabbed his hand and led him onto the street, bouncing a little as he walked.
+
+Bast stomped after him, a wary look in his eyes. He glanced left and right, searching the streets around them. For now, they laid dead and empty; no one walked back in this decayed part of the massive castle that was Purple Dawn Academy. He pressed his lips together. “I’m so dead.”
+
+“You are if you don’t fix that walk. Legs closer together. Dainty steps. Swing your hips—not like that, gods, are you a whore? Come on. Just a little. A little sway, something natural. You’re cute, okay? Think cute things and move like you’re cute.”
+
+“Gods, why did I let you talk me into this?” Bast muttered. He tried to adjust his stance, but only half-successfully.
+
+“Okay, so maybe you’ll just stand still in the stall a lot. That’s fine. There’s a lot of swordswomen in this world, so even if you walk like a swordsman, it should be fine,” Rhys encouraged him.
+
+“Oh, thanks.”
+
+“Everything takes practice. Just think of this as a martial stance, and you’ll get there.”
+
+“How come you’ve got so much practice at this, then?”
+
+“What’d I say about questions you don’t want answered?”
+
+They left the alley and rejoined a main road. Rhys walked confidently, assured enough in his skills that he knew no one would see through it. Bast tensed, edging toward the buildings and the shadows, as if to hide.
+
+Rhys nudged him. “Don’t do that. You’re drawing attention to yourself, inviting people to find something off about you. Shoulders back, head high. You belong here. You’re just an ordinary girl out for a stroll. Don’t worry about anything, and walk.
+
+With some effort, Bast relaxed. He straightened up and put his chin high, and walked more normally.
+
+“There you go. Remember, we need to be super cute, adorable girls who are going to sell lots of potato chips because of how cute we are. Cuteness is king!” Rhys did a cute pose and smiled at him.
+
+Bast shoved him. “You’re being ridiculous.”
+
+“I’m not,” Rhys replied, all business. He really wasn’t. Sexiness would attract men and boys. Sexy men would attract women and girls. But cute pulled at the heartstrings of men, women, boys and girls alike. Who didn’t melt a little at the sight of an adorable puppy? When it came to curb appeal, cuteness was the superior aesthetic. As long as they didn’t ramp it up too far and enter female-only territory, but simply kept it at business and a pair of cute salesladies, then they’d gain far more sales than if they tried to appeal to men or women alone.
+
+A passing male mage looked them up and down. A female mage gave them a calculating look. Rhys nodded to himself. They’d passed muster. His skills hadn’t deteriorated.
+
+Disguise 3
+
+And a new skill to boot? Rhys raised his brows. Interesting how it didn’t proc until he was appraised by other people. Did that mean Bast had gotten the skill as well? He glanced over to find Bast similarly gazing at the area where a message would pop up for him. It seemed so. Handy for his intended purpose, where both of them would need to be disguised for this to work.
+
+He nudged Bast. “We’ll just do a quick walkaround today to get you used to looking cute, and then head backto the trash hea…ahem, kitchen. The nice thing about potato chips is that you can make them ahead of time. Of course, we’ll be cooking them right in front of our patrons, too, but that’s just for show, and so the delicious scent of potato chips can capture their hearts and draw them over to us. We’ll be selling the prepackaged ones.”
+
+“Isn’t that devious, to be cooking fresh ones right in front of them, but sell the old ones?” Bast asked.
+
+Rhys waved his hand dismissively. “Sure, but not meaningfully. The old ones will still taste exactly as delicious as the new ones, as long as we seal them in airtight bags. Besides, deviousness is the root of salesmanship. Point me to a sale that wasn’t at least a little tricky, that didn’t use some kind of mental trick to fool you into making it.”
+
+Bast shook his head. “This is all beyond me, so I’ll take your word for it. How are we going to make airtight bags, though?”
+
+Rhys shrugged. He knew how to build a forge, now. It was a trashy forge, but he didn’t need a high quality one. As long as he could melt metal down, he was good to go. “There’s plenty of metals in the trash heap to make foil packages out of.”
+
+“Foil…? Isn’t that difficult to make?” Bast asked.
+
+“Probably not, as long as I make it out of trash,” Rhys replied.
+
+“Right, I forgot. You’re insane, you know that?”
+
+“I do know that. And also, says the guy who can cut brick walls with a sword. That’s not supposed to be possible, just so you know.”
+
+Bast shook his head. “I couldn’t do half the things you can do. Martial might isn’t everything.”
+
+“Ain’t that the truth. But with the upcoming tournament, it might as well be.” Rhys nudged him on the shoulder. “That’s why I’ll still be counting on you to be my muscle, even if you’re all dolled up.”
+
+“Of course,” Bast replied. He cracked his knuckles in a very unladylike fashion, a dark light shining in his eyes. “I look forward to it.”
+
+“Now come on. Time’s a-wastin’, and those potato chips won’t cook themselves. The rats should have got enough potatoes started growing by now. It’s time we head back down and get started.”
+
+“The… what? Rats?”
+
+“Don’t worry about it. Oh, speaking of… there’s something I need to talk to you about. In the garbage pit.”
+
+“Of course.”
+
+The two of them headed out of town once more, out into the forest.

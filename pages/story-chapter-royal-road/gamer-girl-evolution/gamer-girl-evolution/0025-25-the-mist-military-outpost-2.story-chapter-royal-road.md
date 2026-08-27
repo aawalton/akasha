@@ -1,0 +1,165 @@
+---
+id: 1492ce67-4117-59ee-9518-65a3b290931f
+page-type-slug: story-chapter-royal-road
+title: "25 - The Mist Military Outpost (2)"
+slug: 0025-25-the-mist-military-outpost-2
+partOf: gamer-girl-evolution
+position: 25
+ownLength: 2016
+unit: words
+ownProgress: 2016
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2717500/25-the-mist-military-outpost-2"
+royalRoadId: "2717500"
+markedReadAt: "2026-06-29T20:06:23.099Z"
+---
+
+[You have accepted the quest: Defenders of the Mist.]
+
+[You will only have one chance to complete this quest. Failure will not only result in an inability to play this quest again, but it may also lead to devastating consequences for other players on this floor.]
+
+Celica eyed the system notifications carefully. Devastating consequences, huh? A part of her wanted to see just what those devastating consequences would be, just like a part of her had wanted to let the Cyclops grow strong before taking better loot, more exp and higher skill rank ups.
+
+But that wasn't how she wanted to play the game. It wouldn't be right or fair to other players if she played like that.
+
+A steady smile bloomed on Captain Thorne's face as he saw Celica's response. "I knew I could rely on you, Snapped Sword! At a glance anyone could tell how reliable you are. Juno, Balthus, make haste!"
+
+The shorter brown haired one, called Juno, spoke up, a slight tremble present in his voice. "D-do you mean it's our time."
+
+Captain Thorne nodded. Then the taller one with darker hair and a bulky frame spoke up too. "It was bound to happen, Juno. We were going to be called up to the battlefield sooner or later, even as new recruits. This time we have the Troll Killer, so our chances of survival are great. He managed to get even Captain Thorne's approval after all. And we both know how hard it is to get his approval."
+
+Juno nodded after hearing what Balthus had to say.
+
+"You two go on ahead and wait on the decline. I have something I want to say to Snapped Sword," Captain Thorne said, ushering the two away. They followed his lead and went on ahead, leaving the two alone.
+
+"This is just a personal aside," Captain Thorne said, his eyes nostalgic. "I know you're a talented one. I've seen plenty of people just like you who either rise to the top or... don't. I know you have what it takes to clear the monsters, but as a personal request."
+
+He paused, placing a heavy, armoured hand on Celica's shoulder. "Don't let those two die. They're my children. I don't have any other reward to give you. All I'm offering is my eternal gratitude and respect."
+
+Celica almost flinched as she saw his hand coming down but once she met his gaze she chose to not evade it. Those were the eyes of a man who was at his wit's end.
+
+"I know what you're thinking. Why even send them to the battlefield, right?" he read through Celica's thoughts like she was an open book. "To put it plainly, they both want to be great soldiers. Like... like their dad. I've tried to shelter them but I can't any longer. They need to learn the reality of war themselves. Who knows, maybe... they'll truly thrive on the battlefield."
+
+He paused sentimentally, a slight blurriness coating his eyes. "But for now I..." he paused again, like he couldn't quite finish his sentence. But Celica knew what he was about to say.
+
+"I've got it," she said with a smile as she looked him in the eye. "Leave them both to me. They'll come back. Alive."
+
+Captain Thorne raised a hand and wiped his eyes, standing up straight once more. "Good. I entrust the rest to you." Captain Thorne bowed as he faced Celica's leaving figure, he whispered something under his breath. "Definitely reliable."
+
+As Celica walked away, her mind was a mess. Why do they always make these cutscenes and interactions so sentimental... she thought to herself. Even she could feel herself getting emotional hearing Captain Thorne talking.
+
+She took a deep breath in, something she often done in the past before starting a speedrun, and then narrowed her eyes, focusing once more. She approached the two NPCs, her mind clear and focused.
+
+They walked down towards the battlefield, their trek downwards completely silent. The noise of the shouting and the monsters roars grew rampant. Soon enough, Celica and the others had arrived at the cusp of the battlefield. Before her eyes was a sea of military NPCs and monsters.
+
+[Rift-born Mud Golem — Lv. 32]
+
+[Rift-born Ogre — Lv. 31]
+
+[Rift-born Troll — Lv. 30]
+
+[Void Wyrm — Lv. 33]
+
+Hundreds of monsters and NPCs faced off against each other in the midst of the battlefield. On either side, there were two more armies or 'waves' waiting for the right opportunity to strike. And behind the wave of monsters was the amphibious boss, defending the rift at all costs.
+
+[RIFT TOAD — Lv. 36]
+
+Without warning, Celica took off, and as soon as she did, five different coloured lights enveloped her, Juno and Balthus.
+
+The two sons looked at each other perplexed. "Do you feel that?" Juno asked, double checking that his eyes and body weren't just playing tricks on him.
+
+"Yeah, she must've done something to us," Balthus replied. "For some reason I feel so much... stronger."
+
+They moved too, following after Celica.
+
+In the blink of an eye, Celica had already moved past the first two armies, arriving directly at the heart of the clash. Before starting to attack she observed carefully who the armies' strongest members were.
+
+Once she'd spotted warriors who were taking on multiple monsters at once and holding their ground, she activated her supporter skills again. Suddenly, various different coloured lights bathed the strong warriors.
+
+— "What is this feeling? With this I can take all of these monsters on now!"
+
+— "I just surpassed my limits!"
+
+— "You're all finished! Never mess with this outpost again rift demons!"
+
+Although all of their reactions were varied, their resulting actions were by and large the same. They all started dominating the monsters they were fighting, killing them effortlessly after the buffs increased all their stats by 20%. Those three warriors battlefield began taking over their corners of the battlefield and right as they did, Celica got numerous notifications.
+
+— [Basic Strength Buff has ranked up.] X3— [Basic Agility Buff has ranked up.] X3— [Basic Vitality Buff has ranked up.] X3— [Basic Dexterity Buff has ranked up.] X3— [Basic Endurance Buff has ranked up.] X3
+
+Seeing the surge of notifications, Celica lamented inwardly slightly. Since her buff skills were only level 10, she could only use it on six targets. Considering she had to use it on herself, that left five people. She'd promised to keep Juno and Balthus alive so she'd used it on them too, which only left three other people.
+
+Perhaps if she'd used it on two more capable fighters, her skills would've improved quicker. Still, overall, she didn't mind the trade-off very much. A promise was a promise after all.
+
+Additionally, whenever she saw someone affected by debuffs, she cast Cleanse Aura. Each time she did, as a white light would envelop them.
+
+— [Cleanse Aura has ranked up.]
+
+Being able to cleanse debuffs was an OP skill which she needed to level. The only issue was there wasn't a lot of stages where she could level it since in the early floors and realms debuffs were uncommon.
+
+Since this was a rift invasion, however, there were debuffs being inflicted. Just not many. Still, she was on the lookout to find any so she could rank up her Cleanse Aura as soon as possible. Now that she'd used all her skills, there was only one thing left to do.
+
+Grind.
+
+She moved like a whirlwind, darting in and around the battlefield, her blade ruthless. The first enemy she encountered was a level 31 rift-born troll. With all her buffs active and her gear in top notch condition, she launched her standard one shot combo.
+
+First, a well placed attack to the troll's nape into a Slash into another attack followed by a Thrust and another attack to finish, animation cancelling each skill. The result, was a one-shot combo. And a quick one.
+
+[+435 EXP]
+
+Before it could react, the troll fell to the ground. Now it's identity was solely being EXP for Celica. And that troll was the first of many to fall as she rampaged through the battlefield.
+
+[+455 EXP] [+435 EXP] [+495 EXP] [+425 EXP] [+565 EXP] [+410 EXP] [+430 EXP] [+450 EXP] [+605 EXP] [+465 EXP] [+535 EXP] [+400 EXP] [+505 EXP] [+520 EXP] [+485 EXP] [+475 EXP] [+415 EXP] [+420 EXP] [+470 EXP] [+460 EXP] [+420 EXP] [+585 EXP] [+625 EXP] [+520 EXP]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+Notification after notification bombarded Celica as she cleaved through the first wave of enemies but she ignored them all, entirely focused on the battle in front of her. Tens, then hundreds of enemies fell at her blade as the soldiers around her began to realise what was going on.
+
+— "Is that the Captain's secret weapon?"
+
+— "He's killing them all by himself!? Wait, his sword is broken..."
+
+— "Who the hell is that guy!?!? How is he doing that with a cracked weapon!?!?"
+
+Murmurs and shouts blurred together among the soldiers. Soon enough the monsters also began recognising that there was a tornado of damage, storming through them. After a shout from the Rift Toad, all of the monsters around Celica began distancing themselves.
+
+For a moment, the warzone came to a stand still. Snapped Sword stood alone, a sea of corpses surrounding him as EXP showered him from every direction. Five different coloured lights intertwined underneath him, as the soldiers watched on in awe.
+
+Then, the onslaught continued. She began chasing the few monsters that remained, not letting any escape with her ridiculous move speed and vectoring.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[You have cleared the first wave. There are two remaining.]
+
+Before anyone on the battlefield could realise what was happening, Celica had cleared out the entire wave of monsters all by herself. Once again, she stood alone, a mountain of corpses and a plethora of notifications resounding, begging for her attention.
+
+Then she did something no one was expecting. She raised her crimson, cracked sword and pointed it directly at the Rift Toad, her eyes unwavering as she glared at it. The Rift Toad's glare intensified as it bounced up and down in a rage. That was blatant disrespect. And it was also clearly... a threat.
+
+— "Dude, what the fu—"
+
+— "We're saved! We're saved! I'm coming home from war mom!"
+
+— "Are you freaking kidding me? Declaring war on the enemy commander with a damn broken sword? He's my idol!"
+
+— "I'm sorry I ever doubted you Captain Thorne, I'll call you daddy from today onwards."
+
+For a moment both sides just observed Celica from afar, both of them utterly stunned. The human military commanders were smiling from ear to ear, something you'd usually never see in a war this intense. They were just glad Snapped Sword was on their side.
+
+The monsters, on the other hand, looked enraged. The Rift Toad especially seemed like it'd just witnessed the most egregious thing of it's entire career of being a boss.
+
+"RIBBIT!"
+
+The Rift Toad croaked an unknown command and both of the waves of monsters which were on standby instantly flinched reflexively. They all started twitching and growing restless.
+
+[Since you cleared the first wave so easily and heavily disrespected the enemy boss, the difficulty of this quest has increased due to the Rift Toad's extreme rage. The rewards have increased in quality too.]
+
+[The Rift Toad has placed a target on your back.]
+
+Suddenly, the Rift Toad jumped and both waves sprung to action as soon as it landed with a thump. At once, they charged forwards, but strangely enough, they weren't aiming for the army. No, instead, they were all aiming for a single man who stood alone amongst a sea of corpses, with only a broken sword in hand.
+
+He stood imperiously, staring down the two waves of monsters charging towards him. The man didn't even flinch seeing the approaching armies. On the contrary, he smiled mockingly, his broken sword still pointed straight at the Rift Toad.
+
+"Bring it."

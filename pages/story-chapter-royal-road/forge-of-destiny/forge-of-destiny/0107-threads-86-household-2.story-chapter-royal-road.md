@@ -1,0 +1,147 @@
+---
+id: 5e40ec11-8d3f-51ab-a234-ce36cfc0ad3b
+page-type-slug: story-chapter-royal-road
+title: "Threads 86-Household 2"
+slug: 0107-threads-86-household-2
+partOf: forge-of-destiny
+position: 107
+ownLength: 2194
+unit: words
+publishedAt: 2021-05-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/684135/threads-86-household-2"
+royalRoadId: "684135"
+---
+
+It was not a matter of figuring out what exercises her mother could physically handle, Ling Qi thought, but in figuring out what they could do that mother could repeat on her own and not end up getting discouraged.
+
+It made her look back on her time training under Elder Zhou with new eyes. How much thought had he given to their lessons? Although some had dropped out, quite a few even, she didn’t think he was quite as callous toward that result as he had appeared. His lessons seemed to have been carefully calibrated from the beginning to instill good habits in both health and cultivation. Elder Zhou’s lessons were still the bedrock of her physical regime, even now.
+
+Unfortunately, she was not nearly as good a teacher as the late elder.
+
+<Give yourself a little credit. She was able to follow along,> Sixiang whispered. <She’s made some progress, too.>
+
+Ling Qi looked over at her mother out of the corner of her eye and held back a grimace. Mother was red-faced, her breath coming hard as she recovered from the exertion of the last hour. Sixiang was right though. Ling Qi had found a lot of inefficiencies in her mother’s breathing and qi condensation routines. Ling Qingge was still losing a great deal of the qi she attempted to cultivate, but Ling Qi had a feeling that this was unavoidable given the state of her mother’s dantian.
+
+“It gets easier as you go on,” Ling Qi said encouragingly, reaching over to pat her mother on the back. It was only a little awkward. “You did well.”
+
+“Did I?” Ling Qingge asked, her usual composure lost. Her mother’s hair was in disarray, and her forehead was marked by sweat. “I cannot see it.”
+
+“The exercises will strengthen your limbs and more importantly, your heart and lungs. Even if you never awaken to gold physique, these exercises will leave you in better health,” Ling Qi parroted from a lesson long past. “With cultivation, it will do much more.”
+
+<Mm, maybe not the best use of the teacher talk,> Sixiang muttered.
+
+Ling Qi sighed, thinking back to the misery that had followed her lessons the first week she was here. Would she really have been able to push through that without the desperation driving her?
+
+“I know it doesn’t feel like it now, but I promise, you’ll feel better if you keep at it. You’ve already made some progress. If you just do a little more each day, I think you’ll break through by the end of the year.” Having observed her mother’s rate of progress and the improvements she had made through some better practices, she was sure Ling Qingge could do it. So Ling Qi spoke with confidence, willing her mother to take belief from her.
+
+Ling Qingge’s breathing was easing up, and the older woman soon straightened her shoulders. “I suppose I should work to be a good example,” she said.
+
+“Do it for yourself, too,” Ling Qi said. “Mother, I really can’t put into words how even the most meagre cultivation improves your life.”
+
+“Very well,” her mother said with a huff of quiet laughter. “I will see how my schedule might be rearranged. But first, a bath, I think.”
+
+Ling Qi wrinkled her nose and glanced at the patches of sweat on her mother’s exercising gown. That was another problem cultivation would take care of. “Fair enough. Why don’t I go see Biyu while you do that?”
+
+“Please do,” her mother said, standing and grimacing. “She behaves much better at meals with family about.”
+
+Ling Qi laughed, resting a steadying hand on her mother’s shoulder. She could do that much.
+
+***
+
+To their credit, their household did their best, but Biyu was a very restless young girl. It was also probably at least a little bit Ling Qi’s fault, she admitted to herself. Her domain, even in its dormant state, spread all around. It had been helpful for getting Mother through her exercises, but it was also contributing to Biyu’s energy.
+
+“Listen to the nanny, and eat your breakfast. Then you can go play,” Ling Qi explained, calmly crouching in the doorway Biyu had been making an escape for when she had entered.
+
+“Already did,” Biyu huffed unhappily, scuffing her foot against the floor. “Not hungry.”
+
+Ling Qi glanced up at the frustrated older woman standing by the table and the bowl of rice porridge still sitting mostly untouched on the table. “You didn’t eat it all. You’ll just complain about being hungry later if you don’t finish now.” Biyu’s nanny was doing a good job of concealing her frustration and tension, but Ling Qi had a feeling that Biyu had woken up buzzing with energy.
+
+“Sis-y doesn’t eat,” Biyu retorted.
+
+“That’s because Sis-y is magic,” Ling Qi replied, poking her little sister playfully. “Biyu has to eat and grow up before she can be magic too.”
+
+The little girl giggled and swatted her hand away. However, there was still a mutinous gleam in her eyes. So Ling Qi played her trump card.
+
+“If you go back and eat, I’ll stay and eat too.” She was going to do the first part anyway, but she didn’t need to say that.
+
+Biyu’s resistance crumbled. “Kay!” she said brightly, toddling back to the table.
+
+She stood up, and Biyu’s nanny bowed her head. “Thank you, Lady Ling. What should I get you from the kitchens?”
+
+“Just some sliced fruit,” Ling Qi said. She didn’t actually need it since she had eaten a good meal last week, but it was nice to eat just for the flavor. “And thank you for your work. I know Biyu can be a handful.”
+
+The older woman bowed even lower. “Lady Ling’s praise is unnecessary, but I am honored all the same.” She was better at hiding her nerves than the younger girls. She seemed a little more trained in etiquette than they did, too. Briefly, Ling Qi wondered what her story was, but she could ask Mother later when she got the names.
+
+Gliding over to the table, she took a seat beside Biyu with a smile and listened to the young girl babble happily about what she had been up to for the past few days. It was a little melancholic, she had to admit. Biyu was three years old and would be four this winter, and she was just… carefree and happy. Perhaps even more than Mother’s recovering health, it reminded Ling Qi that she had accomplished something beside her own empowerment.
+
+As Biyu described to her with childish awe a big fuzzy dog she had seen at the market the other day, Ling Qi let her senses expand a little. She sensed Biyu’s nanny emerging from the kitchen with a plate of freshly cut apple slices and the girl in the kitchen doing the dishes. She sensed her mother upstairs in the bath, letting the hot water soak away the pain of sore muscles. She sensed the girl sweeping the front path and the girls now filtering out to care for the garden, and the ones upstairs, seeing to the cleaning.
+
+Some were stressed or tired. Some were bored and lost in thought. None of them were starving though, and none of them were miserable or afraid. She couldn’t take all the credit of course, but this was something that was only possible because of her growth and cultivation. It was only possible thanks to the path she had chosen to walk.
+
+“Sis-y?” her attention snapped back fully to Biyu, and she reviewed the last thing her little sister had said.
+
+“Some of the disciples do have dogs. I’ve even seen one big enough for a grown-up to ride. He was really fluffy too,” Ling Qi explained with a smile. While Zhengui was infinitely better, she could understand the appeal.
+
+Biyu’s eyes were wide, and she didn’t seem to notice the smear of rice porridge on cheek where the spoon had missed. “I wanna see!”
+
+“Maybe someday,” Ling Qi hedged. She wasn’t intending to bring her sister to a Luo gathering anytime soon. “Do you really like dogs, Biyu?”
+
+“Mmhmm,” her little sister confirmed through a mouthful of porridge. “Puppies are nice!”
+
+That wasn’t exactly Ling Qi’s experience with dogs considering their prevalence as house guards, but Biyu obviously had a different experience. There was the seed of an idea there. The Luo bred dogs aside from their family line. Perhaps a puppy would make a nice present for a future birthday. She’d have to run it by her mother first.
+
+Absently, she accepted the plate of fruit slices from Biyu’s nanny and took a bite, enjoying the crisp flavor. She nodded a thanks to the woman, who returned it with a bow and retreated to the wall of the room, leaving Biyu to her.
+
+On the matter of birthdays, Biyu’s was coming up soon. While four wasn’t an important birthday, it still warranted a present. It was too soon for a puppy, but surely, there was something she could give.
+
+She thought about it.
+
+She thought about it more.
+
+It turned out, Ling Qi thought, that she was terrible at thinking of presents.
+
+<That’s a little harsh.> Sixiang thought to her. <You’re probably better off with something simple. You’re short on time as it is.>
+
+So something simple and fit for an energetic young girl then…
+
+<You know you wanna. Besides, it’d give an excuse to introduce me to the lil sprout, and we both know how great I am.> Sixiang laughed.
+
+Dance instruction would probably go a long way toward tiring Biyu out, Ling Qi thought. She had seen dancers performing at the noble parties she had attended last year, so something like that wouldn’t even raise too many eyebrows. Besides, Biyu was a much more normal girl than her, and little girls appreciated pretty things, right? A pair of dance shoes would make a nice present. She could even invest a stone or two to make them adjustable, so Biyu wouldn’t outgrow them right away.
+
+Biyu had continued chattering away while she had been thinking, not noticing her distraction. Not that Ling Qi had shown it. It was surprisingly easy to split her attention and answer her little sister’s endless stream of questions about birds and flowers and garden fish while simultaneously debating with Sixiang on the pros and cons of gifts.
+
+It was even possible to do both and still keep track of everyone in the house. So, Ling Qi was not surprised when Ling Qingge entered the dining room, her hair still faintly damp from the bath.
+
+“Momma! Morning! Sis-y is here!” Biyu announced happily, seeing their mother.
+
+“She is,” Ling Qingge agreed, taking in Biyu’s empty bowl, the nanny standing quietly by the wall, and Ling Qi’s own plate with one slice of apple left at a glance. “Good morning, Biyu.”
+
+Ling Qi dipped her head toward her mother, savoring the crisp flavor of the last slice of fruit. “Feeling better, Mother?”
+
+“I am,” Ling Qingge agreed, taking a seat at the table. She gave Biyu’s nanny a thankful nod, and the other woman offered a bow and quietly sidled out of the room. “My recovery was surprisingly quick.”
+
+“And just think, you’re only getting started,” Ling Qi said with a smile. “Ah, what are your plans for today? I have some extra time, but I also don’t want to be a bother.”
+
+Her mother gave her a curious look as she reached out to begin carefully cleaning Biyu up. The little girl squirmed under her attention but didn’t complain aloud. “It is a market day. I had intended to show my face there, along with Biyu.”
+
+“Candy!” Biyu agreed.
+
+“If you behave yourself,” Ling Qingge chided.
+
+Ling Qi nodded in understanding. Becoming a part of the community was important for her mother, who obviously didn’t want to isolate herself in the house. “Why don’t I go along today then?”
+
+Ling Qingge gave her a surprised look. She seemed hesitant but didn’t look like she wanted to voice her concerns. For a moment, Ling Qi didn’t understand.
+
+<I get it.> Sixiang chuckled.
+
+Ling Qi winced. She really did… stand out. “Don’t worry, Mother. I like to relax at home, but I can restrain myself.”
+
+“No, I did not mean to imply—” her mother began, but Ling Qi waved her off.
+
+Ling Qi took a single deep breath and took hold of herself, dispersing the thick, invisible manifestation of her aura. The room immediately grew a touch brighter and a touch warmer. The faint twinkling light in her hair went out, and the music that followed her at the edge of hearing went silent.
+
+Biyu was the first to respond, staring at Ling Qi with wide eyes. “Sis-y is different. Why?”
+
+Ling Qingge merely looked at her in surprise. “Well, if it doesn’t trouble you, that is fine. Just allow me to get a bite to eat before we set out.”
+
+It was uncomfortable, but she could manage. Honestly, having thought about it, she was curious to see her mother interact with the other people of the town.

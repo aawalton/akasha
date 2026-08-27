@@ -1,0 +1,123 @@
+---
+id: 869dbd70-198c-5569-a99b-a717bf254184
+page-type-slug: story-chapter-royal-road
+title: "82. First Match"
+slug: 0082-82-first-match
+partOf: god-of-trash
+position: 82
+ownLength: 3040
+unit: words
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2296030/82-first-match"
+royalRoadId: "2296030"
+---
+
+The crowd was larger than any crowd Rhys had ever seen before. All of Purple Dawn had turned out, along with most of the students from all the other schools. There were big blocks of white, green, and blue in the crowd, according to the schools’ uniforms, while a mishmash of every color of students filled another quarter of the stadium. Not all the schools had only sent their contestants; in fact, most of them had sent more students to watch the matches and gain insights from them. Infinite Constellation was one of the few schools too poor to send anyone but its contestants, so besides Ev and Rhys, there was no one else to cheer them on.
+
+Aside from the schools, there were also lots of high-level mages from higher-tier schools, martial artists, and adventurers, either here to watch the spectacle or here to recruit good prospects to their programs. Rhys eyed that section of the crowd. Although he loved his trash school, he wouldn’t say no to getting recruited by a higher-level school… not that he thought that was likely. Instead, his eyes went to the adventurers. He’d wanted to be an adventurer, from the moment he’d arrived in this world. There were certainly adventurers looking for party members who’d be happy to have a party member with high impurity—ahem, poison—resist, and he was happy to explore the world and discover new and fresh sources of impurities. Hell, something like a cursed tomb would do numbers for him, given how he could safely absorb curses and curse power. Plus, adventuring parties were usually temporary, from his understanding, so he’d be able to adventure for a while, then return to his school with new trash, loot, and experience under his belt.
+
+Of course, that all depended on if he caught the eye of any adventuring teams, and if the ones who were interested in him were worth travelling with. Not to mention that if the Empire attacked, all of that went out the door. There was a lot that had to line up, but nonetheless, he was interested in adventuring, one way or another. He’d keep his eyes open, all throughout the tournament.
+
+The stadium surrounded a series of flat stone platforms, each one surrounded by a band of metal with twisting enchantments glowing in its sides. An exhibition match was going on in the center of the arena, and as Rhys watched, one of the opponents launched a blue, glowing projection of a horse, that rushed at the swordswoman they fought. She sidestepped, dodging the horse, and it rushed off the edge of the platform and slammed into an invisible barrier. The enchantments around the edge lit up, and the horse vanished, swallowed up into the wards around the platform.
+
+Rhys nodded. That was good to know. He could let loose without worrying about hitting the people around him. Of course, most of his direct combat skills were either melee or defensive, so it wasn’t like he was at a real risk of throwing glowing horses into the audience, but in case he needed to use a splash attack, the wards would absorb the overrun damage. Likewise, he wouldn’t have to worry about protecting the audience if his opponent launched a huge attack. Not that he’d been planning on it; he was completely willing to let the higher-tier mages in the crowd handle any splash damage his opponents (or he) threw. But it was good to know that he wouldn’t even have to think about it.
+
+What he did have to think about, was Ernesto’s champion. Rhys lifted his head, scanning the opponents to see if he could spot Ernesto in the crowd.
+
+It wasn’t hard to find Purple Dawn Academy’s students. They grouped into a rough mob, all wearing the same purple-and-black uniforms that Ernesto’s students had noticeably not worn in Infinite Constellation, save the purple-lined black cloak some wore draped over their shoulders. Out of the students in the crowd, about half wore the uniform and half didn’t; either that, or the Purple Dawn students had a lot of guests in their section. Maybe it was like his high school, where kids had been free to wear whatever they wanted, but if they were on the sports team, they had to wear the sports uniform. Of course, his school hadn’t had a uniform except for the sports teams’ uniforms, and they were only the kind of uniforms they wore during sports, but it was the same idea.
+
+There were several teachers mixed in with the students, the teachers usually hovering by groups of students that they seemed to be responsible for; unlike Rhys’s relatively free-flowing school where students were free to show up to any class they pleased, it seemed like Purple Dawn assigned students to classes, and teachers to those classes, so certain teachers were responsible for certain students.
+
+Then again, Rhys reflected, I did kind of dodge any opening-year bureaucracy. Hell, he hadn’t even gotten assigned to a dormitory, and he was a hundred percent sure that one was some kind of oversight, exacerbated by the fact that he, as an adult, hadn’t really wanted to be assigned to anything, and had instead chosen to live in a cave. He was pretty sure he could’ve gotten a dorm if he’d made it known to anyone that he didn’t have one, but his mage body was durable and didn’t really feel the elements, so he preferred the freedom of sleeping where he liked. For all he knew, he had been assigned to a class, he just hadn’t bothered to ask anyone whose or where he as supposed to show up… because he hadn’t cared, and didn’t want to bow to anyone else’s idea of what he should learn. He’d had enough of that. Better to pursue what he wanted and nothing else, for the first time in his life.
+
+He scanned the group until he found Ernesto at last, standing at the edge of the group of students. Ernesto leaned toward a mountain of a man, a teenager whose muscles strained the absolute limits of what his extra-large uniform could manage. He kind of reminded Rhys of a younger Cynog.
+
+Rhys pursed his lips and nodded to himself. He’d dealt with that kind of thing before, so he wasn’t too scared.
+
+A cloaked figure stepped up behind Ernesto and tapped his shoulder. Ernesto turned. The two spoke for a while, Ernesto nodding along. The figure was slim, but their exact figure was too obscured by the cloak for Rhys to see much. Heavy shadow followed them around, darker than the shadows around the other students.
+
+Rhys raised his brows. Ohhh. That made so much more sense. That figure exuded Ernesto’s goth-wannabe aura. They were definitely at least ambiguously evil and probably cursed, to boot. If he had to guess, they were probably the kind of cool dark-haired character who would look over their knitted fingers at the main character, have a dark backstory, be really good at being a ninja and use lightning but ultimately give in to the creepy snake guy who cursed him—ahem, all that to say, the figure had the vibes of the cool guy all the girls loved inexplicably, despite him being a total douchebag from start to finish. Unfortunately, that kind of guy tended to be super strong, way stronger than the musclebound idiots like Cynog.
+
+Not that he knew that the figure was strong, and he knew that basing his guesses of how powerful people were in real life on trashy manga tropes was a poor idea… but the figure had an aura that made his mana twitch in discomfort even at this distance. If that wasn’t a bad sign, it at least wasn’t a good sign.
+
+A board displayed everyone’s names at the far end of the arena. There were different brackets for Tier 1, Tier 2, and Tier 3. As Rhys scanned the board, searching out his name from the Tier 2 board, a hand landed on his head. Rhys startled, reaching for his sword.
+
+“Where’d you go, sparring buddy? I was looking for you.” Ev released his head and crossed her arms at him.
+
+“I… was busy,” Rhys excused himself.
+
+“Busy selling chips with your girlfriend?” Ev asked.
+
+Rhys blinked at her, keeping his poker face. “I have no idea what you’re talking about.”
+
+“Uh huh. You can hide your face, but you can’t hide your aura,” Ev said, laughing.
+
+“Oh—really?” Rhys asked, suddenly concerned. Had he accidentally put Bast on display, without realizing it?
+
+Seeing his shocked face, Ev chuckled. “I knew it was you.”
+
+Rhys froze, then glared at her. “You were bluffing?”
+
+“Eh, only partly. As much as I’ve sparred with you, I was pretty sure it was your aura, but aura-reading is a tough art. If you aren’t super familiar with the person’s aura, it’s hard to pick anyone’s particular aura out, at least at our Tier. Even with you, I wasn’t a hundred percent sure. Maybe seventy percent. Unless your friend spent a lot of time sparring with one of your victims, and that victim specifically studied her aura with her true identity’s aura in mind using either the Aura-Reading skill or some analogue, like a technique that does the same, then her secret is safe with us.”
+
+“That skill isn’t common?”
+
+“Nah. Most people don’t bother. It’s more a martial artist skill than a mage skill, anyways; more useful to study the flow of your enemy’s energy to know where they’re going to attack you from next than know that a mage is going to fire a big spell at you. Shocker, mages do that a lot, and they usually do it from their hands. Martial artists, on the other hand… that skill is the difference between blocking a kick and sidestepping a punch.”
+
+Rhys nodded. “That makes a lot of sense.” It was a useful skill for anyone fighting a martial artist in melee, but if you were fighting a mage, not only did you have more time to respond to a spell coming at you from range, but it also wouldn’t help you much to know whether they were going to fire it from their hand or knee. Either way, it would still be as powerful, and when spells could take a life of their own and fly around in midair, it wasn’t useful to know where the spell would be launched from to block the attack, either. On the other hand, just as Ev said, knowing which limb a martial artist was going to attack with next told you far more about how to move to block or dodge it.
+
+“Not a whole lotta martial artists around here, and if your friend is who I think she is, she was mostly hanging around mages, anyways… her master doesn’t really have a choice, given his impressive title. Plus, he’s already beaten all the martial artists, and has little respect for them, so he wouldn’t make her spar any low-tier losers, who might teach her bad habits. As long as her master didn’t show up, she’s probably fine,” Ev reassured him.
+
+“Wait, you know—”
+
+She squinted at him. “Yes? I know who you are, and I know who you apprenticed under, dipshit. Think for a second.”
+
+Rhys instantly recovered and nodded instead. When she put it that way, it was pretty obvious. Plenty of people knew he’d been Straw’s apprentice, and everyone knew the Sword Saint’s current apprentice had started under the Remnant Weapon. When you put two and two together, the answer was obvious. But as long as they didn’t recognize him—and given how he’d been hidden away at a tiny school, there was no chance anyone knew his aura—then they couldn’t use that as a way to identify Bast. Ev was in the unique situation of knowing him well that allowed her to guess the rest of the information.
+
+She pointed. “Any case, your match is over there.”
+
+Rhys followed her finger, then glanced at the board and looked back at the arena. “Right, you’re right. Thank you.”
+
+She tapped her forehead in a quick salute and jogged off toward a different part of the arena. Rhys watched her go. The wards were thicker over there, the floors made of a more durable material. I guess that’s for Tier 3 fights. Turning back, he followed her direction to find himself before a nameplate bearing his name.
+
+Rhys Foundling
+
+He gazed at it, a little lost in the words. His name in this world. Rhys, because he couldn’t remember anything else. Foundling, because he’d been a found child, abandoned as an infant; or rather, the original Rhys had been, up until he’d been killed by those children.
+
+It already felt like a lifetime ago. In some ways, it had been. He wasn’t the fatass who’d sat behind a computer screen and trashtalked other people’s waifus anymore. Hell, he’d done more walking in his first day in this world than he had in months back home. He knew the original him would have resisted it, but the him that had become Rhys hadn’t spoken a word of protest.
+
+A tiny part of him wondered how much of him had changed between this world and his original. Was it really just that having magic to motivate his effort alleviated that much of the pain of making the effort? Sure, he was infinitely more motivated to work out in this world, where that meant hundreds of years of lifespan and the ability to… not shoot fireballs, but at least summon rat projections from his hands. And that was still pretty cool! It wasn’t fireballs cool, but it was still cool.
+
+I think I’m still the same person. It’s just that my opportunities are so vastly different between this world and my previous one. People adapted to their circumstances. In his first world, he’d been free to be a useless piece of trash with few consequences. As long as he wrote some code, he could be as asocial and homebodied as he liked, and keep a roof over his head and food in his mouth. In this world, that kind of behavior would lead to him getting oppressed, bullied, and killed, in short order. With a fire under his ass, naturally, he’d become the kind of person he needed to in order to survive these new circumstances. He was the same as he’d ever been; it was his situation that had changed. In response to the change in circumstances, he’d changed. It would be stranger if he had not.
+
+A figure stepped up to the other side of the stone slab he stood before. Rhys looked up, locking eyes with his opponent. He’d never seen the boy before… no, that was a lie. The green-robed boy had definitely bought chips from him, and not only that, he was pretty sure he’d seen him on the first day, as one of the kids on the green ship that’d come in at the same time as them. He snorted to himself. I’m starting from the bottom, huh?
+
+At least they’d matched him against someone at his level, rather than treating this as a true bracket and putting a low seed up against a high seed. Or rather, was it that his rank and this boy’s rank were both unknown, and so this battle served as a way to determine their placement in the bracket?
+
+He glanced over his shoulder. Bast was going up against someone he didn’t recognize, but he definitely wasn’t going up against Laurent or Anabel. Having sensed almost every student’s aura during his stint selling potato chips, he knew Laurent was legitimately one of the strongest students, and Anabel, likewise, was powerful in her own right, maybe stronger than Laurent, maybe weaker. Since Bast was fighting neither of them, his second guess was more likely to be correct, that this was a way of measuring the unknown students’ strength, rather than that the bracket wasn’t putting high seeds against low seeds.
+
+The boy in green cleared his throat. Rhys checked the board one last time to learn his name, then stepped onto the stone platform opposite the boy. He bowed.
+
+“Rhys Foundling. Well met.”
+
+Rather than return his bow, the boy harrumphed and tossed his hair. “Archem Lostses. Let’s make this quick. I belong in the top of the bracket, not down here with the trash.”
+
+“I am trash, but it sure is funny to hear someone called ‘arch them lost it’ talk down to me. I’ve at least got a name for a name, not a random nonsense phrase,” Rhys pointed out. “What did you lose, by the way? I can help you find it. I know all about where to find lost trash.”
+
+Trash Talk 5 > 6
+
+Archem’s face flushed. His hand darted to his sword, gripping it so tight his knuckles went white. “You’ll regret those words.”
+
+“Really? A level? That wasn’t even some of my better work,” Rhys muttered to himself. Kid must’ve been sensitive about his name. Well, fair enough; it was a doozy of a name. Still, if he was too weak to take it, he should know better than to dish it. Rhys had been perfectly civil with him until good ol’ arch-‘em-footballs-put-some-spin-on-it-kiddo had decided to get mouthy.
+
+“A level? You got a level… how? What?” Archem stared at him in confusion, utterly lost.
+
+Rhys chuckled. “If that’s too much for you, then I’ve got bad news, buddy. You belong right down here in the trash with me.”
+
+With a shiver, the sword slid from Archem’s sheath. He pointed it at Rhys, his hand shaking. “Take that back.”
+
+“Don’t think I will.”
+
+In the distance, a bored-looking official glanced at a sundial, then drew back her hands. Balling them up together hammer-fist style, she slammed them into a giant bell. It rang out, and Archem leapt, swinging his blade over his head at Rhys’s crown with a savage shout.
+
+Guess that’s the starting gun. Rhys grinned and stepped forward, lifting his hand toward Archem’s bared blade. If arch ‘em cowboys was this easy to antagonize, this was going to be a fun fight.

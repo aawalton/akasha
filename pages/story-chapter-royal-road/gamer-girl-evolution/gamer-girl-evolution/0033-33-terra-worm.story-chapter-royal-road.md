@@ -1,0 +1,151 @@
+---
+id: f947c526-aa54-5aa0-82fc-09df3fcd0982
+page-type-slug: story-chapter-royal-road
+title: "33 - Terra Worm"
+slug: 0033-33-terra-worm
+partOf: gamer-girl-evolution
+position: 33
+ownLength: 1428
+unit: words
+ownProgress: 1428
+publishedAt: 2025-11-28
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2800977/33-terra-worm"
+royalRoadId: "2800977"
+markedReadAt: "2026-06-29T20:06:38.301Z"
+---
+
+Celica paused, her mind wandering as she vacantly looked around the dimly lit arena. Since the last changes were fire-based, the next changes will probably be...
+
+Her eyes lit up, drawn by the subtle shifting atmosphere. The bleak torches around the arena lost their fires. In the background she could hear a faint noise.
+
+A rustling noise.
+
+Just then, the ground rumbled and a wave of green flooded the arena. Now the entire floor was drowned in a  thick vegetation. Trees of various sizes sprung up from the ground.
+
+Celica watched on with a knowing look.
+
+Thought as much... she took a deep breath in, paused, and readied herself, the sword at her side gleaming.
+
+The game often followed up water stages with fire stages and the subsequent stages were often either earth based or wind oriented. Celica knew that well.
+
+In the background, the faint rustling noise grew louder, to the point where Celica could no longer ignore it. At first she thought it was some bugs the game had added to make the arena feel more immersive, but after a short analysis, she realised that wasn't the case.
+
+The noise was something else entirely. Something bigger and more... sinister.
+
+It grew from a low rustle, to an annoying hum and eventually to a cry. It was a sound Celica recognised. How could she not? It was the same sound that various earth element bosses made.
+
+Beyond the veil of foliage emerged a huge venomous worm. It rustled its way through the walls of green, shining with a purple hue which coated its entire slippery body. At its front were two sharp fangs, which gleamed like frozen steel.
+
+[Terra Worm (Boss) — Lv. 50]
+
+As soon as the boss' icon appeared, Celica instantly sprung into action, eyeing the timer which had immediately began ticking down. The boss reacted to Celica's advance as fast as it could, but it was clearly surprised by her speed. It's mouth spread open, and bursts of poisonous blasts shot towards Celica.
+
+But Celica was anticipating its attacks. She moved like the wind, vectoring and dodging in strange patterns so the boss' attacks hit nothing but grass. Before the boss could react, Celica had closed the gap between them.
+
+[Water Strike]
+
+Celica's blade, now a much stronger and refined shortsword, pierced through the worms flesh and as it did, a wave of water surged out from the sword, engulfing its fresh wounds with a torrent of high pressure water.
+
+The boss screeched out in pain.
+
+[Terra Worm HP: 96%]
+
+That damage isn't bad... Celica thought to herself. She had only used a single skill; she hadn't used her main DPS combo yet. Still, considering the level gap between the boss and herself, she was happy with the damage that she'd dealt just then.
+
+As bosses increased in level, they gained more armour and elemental resistances. Often, the game made bosses harder not by introducing harder game mechanics but by increasing a boss' raw stats, like their magic damage or attack speed.
+
+She suspected that the game hadn't made this boss more challenging mechanically, but instead,  it had increased its raw defensive capabilities.
+
+Sensing sudden danger, Celica retreated backwards, the boss' fangs narrowly missing her from behind. She retreated further back noticing the boss' weird configuration. Just then, the boss' tail, whipped to the spot Celica had been previously. She narrowed her eyes.
+
+So from range it prefers poisonous blasts but once you exceed a certain range limit, it'll attack with its fangs. If you're retreating it'll attempt to get a follow-up last hit with its tail. Got it.
+
+She moved again, vectoring back towards the huge boss. Balls of poison flew towards her from the air. She ducked, slid and weaved her way around them, crucially Parrying any that got to close.
+
+She closed the gap and aimed for the boss' mid section, so that she'd have time to react to a tail attack from its behind and from a fang attack from its front.
+
+Attack. Thrust. Attack. Slash. Attack.
+
+Before the boss could even process what had happened, Celica performed her max DPS combo, animation cancelling each attack perfectly. Like a magic trick, the upper quarter of the worm's HP vanished.
+
+[Terra Worm HP: 75%]
+
+The boss squirmed in pain, wrangling around the field desperately.
+
+Suddenly, it coiled inwards, forming a strange protective shell-like formation. Celica retreated, expecting a vicious fang attack or a tail whip of sorts, but neither came.
+
+Just what is this thing doing... Celica thought inwardly to herself, but the boss was about to answer that question for her.
+
+In a burst of movement, the boss forced itself into the air, pushing its huge body off the ground and straight towards her. Celica's eyes narrowed as a faint smile tugged at her lips.
+
+So you've still got more tricks.
+
+She moved like a blur launching herself off the ground with just as much force as the worm had used earlier. However, unlike the boss, Celica used her force to launch herself horizontally instead of vertically.
+
+Boom!
+
+A shockwave shook the entire arena as the Terra Worm collided with the stage, forcing Celica, who had managed to escape the boss' initial drop zone, airborne. Her eyes widened.
+
+I wasn't anywhere near it and I still got CC'd? If I got hit by that directly, it'd probably one shot me... She shuddered inwardly at the thought.
+
+[Terra Worm HP: 73%]
+
+Hm? It hurt itself with that attack? She had noticed after using that drop attack, the boss' HP had decreased very slightly even though she hadn't damaged it.
+
+Without warning, it coiled around itself again.
+
+Noticing this, Celica wracked her brain, inwardly forming a plan to clear the boss as fast as possible, despite its annoying drop attack. The plan she thought up was simple.
+
+She would rush towards it whenever it was entering its 'launch stance' and immediately deal as much damage as she could before it took off. Then, she would stay in the same spot and let it lock onto her location and begin kiting away as soon as it began to fall.
+
+This way she'd get in her maximum DPS and minimise time loss during the period where the boss was locking onto her location. It also made it much simpler to kite.
+
+In the blink of an eye, she was in front of the boss. With every Thrust and Slash, chunks of the boss' HP bar depleted before it rose into the air. Then as it was rising, Celica would send out a final [Water Strike] as it was her only ranged attack/skill.
+
+Boom! Boom! Boom!
+
+The boss repeated this attack three more times as Celica eagerly chipped away at its HP, kiting it and bursting it with flawless precision.
+
+[Terra Worm (Armoured) HP: 30%]
+
+[Warning.]
+
+[The boss has entered an armoured state. It will take 70% reduced damage for the next minute.]
+
+Celica grimaced inwardly. The system was essentially forcing her time to run on for a minute extra.
+
+How about a little damage test?
+
+She moved towards the boss, her eyes glued to its now rougher looking skin.
+
+[Water Strike]
+
+[Terra Worm (Armoured) HP: 28.9%]
+
+It barely even budged... she sighed as she approached it, readying her max damage combo.
+
+Attack → Thrust → Attack → Slash → Attack.
+
+[Terra Worm (Armoured) HP: 24.2%]
+
+Its HP bar didn't deplete as quickly or as satisfyingly as before, however, it was still decreasing at an acceptable rate.
+
+Just five or six more rotations.
+
+She locked in, focusing on making her movement as clean as possible and her damage output as high as possible. The boss squirmed, wriggled and screeched endlessly but it was all to no avail.
+
+No one was coming to save it. Not from Celica's onslaught.
+
+As the Terra Worm wheezed, it attempted one last desperate spray attack. Celica, however, was anticipating some sort of last-ditch attack. She dodged it, and her sword pierced the creature's armoured body, flooding it with water energy.
+
+Celica watched the monster’s body slowly dissipate into the air. Her pulse quickened, and system notifications rang in her ears.
+
+[You have defeated the Fifth Boss: Terra Worm.]
+
+[Time Remaining: 19 minutes 51 seconds]
+
+[Congratulations! Your weapon has been upgraded to Unique Rank.]
+
+Seeing the last notification, Celica's heartrate sped up. The jump from a Super Rare weapon to a Unique one was huge and she couldn't wait to see the crazy changes. As she looked at her inventory in anticipation, her eyes widened and her lips trembled.
+
+"No way..."

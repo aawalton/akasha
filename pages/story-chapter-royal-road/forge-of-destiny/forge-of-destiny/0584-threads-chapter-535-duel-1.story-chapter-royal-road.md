@@ -1,0 +1,157 @@
+---
+id: 9da78353-cce0-5dd6-baf2-d998a1c4433b
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 535-Duel 1"
+slug: 0584-threads-chapter-535-duel-1
+partOf: forge-of-destiny
+position: 584
+ownLength: 2124
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3748880/threads-chapter-535-duel-1"
+royalRoadId: "3748880"
+---
+
+"It is a unique style you are attempting here. I had heard that there was some inspiration taken from the Throne Peaks among the architects in the south, but this fusion is not quite that," Mu Wuye observed.
+
+They had stopped by the lakeshore, looking up at Shenglu's falling waters. Cai Renxiang's retinue had joined Mu Wuye's, flanking their group on opposite sides. The sheer number of soldiers made the tour feel less friendly and personal to Ling Qi, but that was just how excursions had to be with higher nobility.
+
+"Given the water’s course, it seemed wise to take inspiration from our Meng clan as well. It will be vital to the growth of the settlement to be able to build back up, however, hence the elements taken from Wang clan construction."
+
+"I shan't envy the ones who must climb the cliffside stairs up and down every day. You shall make a folk with powerful legs from it, I'm sure," Kang Yuze joked.
+
+"We are inspecting the viability of powered lifts for that purpose, but the exercise will surely be valuable," Cai Renxiang replied in an entirely serious tone.
+
+"I expect the ones who move into the cliffside homes will be cultivators," Ling Qi commented. "They can always jump down a story or two."
+
+"An inner district built into the cliff has its advantages in warding," Mu Wuye replied, ignoring any joking, much like Renxiang. "Mountain stone is among the best of anchors, but the side of a plateau will likely do as well. The land formation has many of the same geomantic elements."
+
+"That is my thought as well. Settlement growth patterns in other locales mean the current center is likely to become a mortal inner district, with common growth spreading around the circumference of the lake," Cai Renxiang agreed. "Farming, then, would expand following a radial pattern, in the ideal case."
+
+"I do not think you shall divert our lady," Gan Guangli whispered conspiratorily.
+
+"Nor my lord," Kang Yuze said sadly.
+
+"Who was joking?” Ling Qi demanded. “Having landings where jumping down is expected would certainly be an effective tool for urban traffic."
+
+"You would have to designate those if you didn’t want people having to avoid their falling neighbors," Kang Yuze thought aloud.
+
+Of course, they all kept their voices down to avoid actually interrupting the conversation of their lieges. The two of them were getting deeper into the weeds of… effective road patterns on mountainous terrain?
+
+Cai Renxiang certainly didn't waste time in approaching her passions.
+
+Such was the chatter as they approached Shenglu proper and passed through the actual gates that protected the homes of the settlement's center and bounded its docks.
+
+"You've chosen a difficult solution for sanitation. It will take quite some expense to keep these surface waterways from turning to midden, especially once the mortal population grows," Mu Wuye spoke as they were looking over the docks.
+
+Their combined entourage’s mere presence was unavoidably disruptive to the city's normal traffic, but close to the shrine dock, traffic was at least lighter anyway.
+
+"Does Sir Mu have a particular interest in architecture and city administration?" Gan Guangli wondered.
+
+The procession began to move again, returning to the road and closing the distance with the center of Shenglu.
+
+"He has certainly been studying them," Kang Yuze replied blithely.
+
+"I had assumed that his interest and yours were more in the sword than anything else," Ling Qi said. "Is there an overlap there? I'm afraid I've little head for swordplay myself."
+
+"Oh? I have heard the lady knows a thing or two about cutting." Kang Yuze peered out at the Snowblossom Shrine. "Our master's Pale Night's Whisper style has its basis in the cutting of order through and from chaos, and in discerning the patterns and lines which exist in even the most jumbled and random aspects of the world to better guide the arc of one’s cut."
+
+Ling Qi tapped her chin. "I admit, I’m curious as to the mechanics of that. I have previously spoken to a diviner of great skill, and they did not seem to believe one could see all futures."
+
+"A true statement, and I am a poor student for giving you the impression that Master might be such a vainglorious fool." Kang Yuze laughed. "Then again, I am only a middling student."
+
+"You merely fail to apply yourself at all times," Mu Wuye interjected into their side conversation. "My master's art of the blade is rooted in our shared blood and in the death that awaits all things. While one cannot know where and how every leaf in the world may blow, one can be assured that they will come to earth and rot, or otherwise end in time. In this, one discovers that even that which seems disordered is not; its pattern merely evades or overwhelms you. In Mastery, there is no single line that cannot be pinpointed and traced in the heat of battle."
+
+"Master is truly a superb teacher that even one such as I might take some insights from him," Kang Yuze confessed.
+
+"It is true that all things are ordered in their way, even if the shape of that order is too large to be held in one mind without abstraction," Cai Renxiang analyzed. "But perhaps this conversation is best left for later; such a conversation could last quite long."
+
+"Indeed, Lady Cai. Would you continue the tour? I would be interested to examine the foundations of the industrial district you mentioned."
+
+Ling Qi really was curious now. She didn't think that Sir Mu’s and Lady Cai’s statements were wrong, but she would have liked to interrogate their details more. Alas, she could not (publicly) disagree with Cai Renxiang, and so, their procession turned from the dockside.
+
+Their arrival at the manor came with much fanfare an hour or so later. The truth was that, for all their effort, Shenglu was still very small. The household and administrative staff all paid their respects to their most honored guests.
+
+Ling Qi was glad she had bought Mother some medicines for the upset stomach. All of the stress of having a member of the imperial house in such close vicinity was going to cause her ulcers. She only hoped it would be enough.
+
+The tour of the gardens and grounds soon brought them to the drilling yards where she and the other retainers had been holding their regular spars, sharpening themselves for the offensive inching closer on the horizon.
+
+"Extensive infrastructure for the size of this holding. You've spared no expense here," Mu Wuye praised, brushing a thumb across one of the sealing ropes which were strung along the fences. That was a new addition after their spars had spilled out and all but annihilated a section of the gardens.
+
+The repairs were advanced, but still visible in the empty beds and scattered scorch marks.
+
+"Full force combat drilling between so many third realms is not something new baronies must concern themselves with," Cai Renxiang replied.
+
+"Most who do need such will pick out a patch of wilderness that they do not mind being flattened, but that would disrupt our spiritual pact strategies," Ling Qi supported.
+
+"Ah, yes, Master does tend to get a bit tetchy when students go out to have a brawl beyond the wardings."
+
+"That is more for their safety than any consideration for the dangers that lurk out in the scarred lands," Mu Wuye corrected.
+
+"There is not much true wilderness in the Celestial Peaks, as I understand it," Gan Guangli said. "How strange that seems to me!"
+
+"As the Emerald Seas seems strange to me. Men and women are confined to huddled pockets and narrowed trails, at the mercy of beasts and cruel wood spirits if a step is taken outside their homes," Mu Wuye returned.
+
+"Our Peaks are beautiful, but they are rather dull for young martial brothers, even with the Empress' programs. The freshness and wildness in the air here is bracing! I can almost see how some clans grew indolent before your Honored Great-Grandfather took the empire's helm," Kang Yuze commented.
+
+"And yet, there is no excuse. The remains of the Strife were always there, for those who were not cowards, even leaving aside the blights allowed to spread by careless stewardship," Mu Wye criticized. "Regardless, might I ask a favor of you, Lady Cai?"
+
+Renxiang raised an eyebrow. "You are welcome to."
+
+"Might we cross blades? The opportunity did not arise at Xiangmen. Now that I am here, I find myself eager to taste your saber arts."
+
+Mu Wuye was not shy about their passions either, Ling Qi thought wryly.
+
+Cai Renxiang blinked slowly, and for a moment, Ling Qi got a sense of slight agitation from Mu Wuye. Perhaps the Mu prince was uncertain whether this was the right time for such a request.
+
+"Of course, Sir Mu. A friendly duel is something I may indulge. To yield, or for points?"
+
+"I would not be so rude as to ask a duel to yield with little notice," Mu Wuye replied swiftly. That was a lie—well, not really. He wasn't that rude. He absolutely wanted that, though. "Would five points be acceptable?"
+
+Points must refer to clean strikes that inflicted some amount of damage through defensive arts, Ling Qi supposed.
+
+Cai Renxiang considered this. "Very well."
+
+Both of them glanced toward their retainers.
+
+"Of course, we shall watch and cheer the lord and lady on, and perhaps chat among ourselves," Kang Yuze said.
+
+"Naturally, we await at our lord and lady's pleasure," Ling Qi agreed.
+
+They had thankfully shed the larger guard detail at the manor's entrance, or the fence might feel crowded.
+
+As their lieges stepped through the fence gate and activated the training yard’s wards around themselves, Ling Qi leaned against the higher post that held up the gate. "So, I take it we will not be making bets."
+
+"That would be uncouth," Kang Yuze replied, amused. "Ah, Sir Mu will be the victor, of course."
+
+Gan Guangli scoffed. "I do not know about that. I must admit, however, you are more gregarious than I had expected, Sir Kang."
+
+"Am I! Dare I wonder what you envisioned?"
+
+"We were both familiar with Kang Zihao in our year, and we’ve had our share of conflicts with him," Ling Qi told him casually.
+
+Kang Yuze scratched his chin. "Ah, yes, cousin Zihao… He can be a bit bullheaded and arrogant. It comes with being the youngest son, I think. With so many achievements hanging over him, he overcompensates. Hopefully, this business in the south will help him mature."
+
+Perspective, she reminded herself. Kang Zihao, to Yuze, was only a somewhat annoying cousin. She pushed down the uncomfortable feeling of remembering Bai Meizhen's intentions for the Kang scion at the sect.
+
+"Would you call yourself more usual for a young master of the Kang clan?" she asked instead, arching an eyebrow.
+
+Their lieges were speaking on the field.
+
+"Hardly! I was sent to Master Mu to learn discipline for a reason," Kang Yuze replied.
+
+Ling Qi nodded, observing Mu Wuye and Cai Renxiang and the stances they took. She had observed Renxiang many times in motion, but Mu Wuye was new, and some aspects of their cultivation resonated with hers. She was curious about the patterns spoken of. She wondered what insights she might find in watching Mu Wuye's steps.
+
+"You must have been quite a wild child before your lessons then," Ling Qi commented.
+
+"More likely to be wrestling in the kennels than attending my lessons," Kang Yuze revealed. "Foolish, for all I miss it. A man has far more responsibilities than even the most dutiful dog."
+
+"Yet it is a weight one can be proud to carry!" Gan Guangli boomed.
+
+Mu Wuye and Cai Renxiang parted from the center of the field, separating to a distance of twenty paces.
+
+Cai Renxiang's sheath unspun itself from her blade, and the broad two-handed saber rose above her head. She had long grown used to it, but Ling Qi still thought it looked slightly ridiculous to see a girl of Renxiang's height wielding such a towering blade. The weight of it suited her, though. She took a wide, steady stance, one foot pushed forward.
+
+Mu Wuye's sword was straight-edged and slender, the metal glittering like glass in the sun, bright and reflective. It was so thin it seemed it might disappear if viewed from the side. The shadow it cast across the ground was stark and black, stretching out longer than it should have. He took a side stance, foot and sword forward, presenting a narrower profile.
+
+The three of them fell silent as their lieges faced each other across the yard.

@@ -1,0 +1,121 @@
+---
+id: cbdbed8d-89ee-5ecd-838f-4de0080cc663
+page-type-slug: story-chapter-royal-road
+title: "Threads 450-Cathedral of Winds 9"
+slug: 0494-threads-450-cathedral-of-winds-9
+partOf: forge-of-destiny
+position: 494
+ownLength: 1480
+unit: words
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2291942/threads-450-cathedral-of-winds-9"
+royalRoadId: "2291942"
+---
+
+Ling Qi poured more and more qi into her constructs. The power of her domain flared out, filling the shadowed passageway with mist and darkness from which more ratscrawled, teeth chattering with endless hunger for the feast.
+
+She strode forward through the water on platforms of ice. Picking a set of eyes in the mass of flesh, she fixed them with a look of challenge. She focused her thoughts. Her domain's mist went black with the force of her intent
+
+This was not their feast. Not their lair. They would lose. They would be driven forth. Go. Crawl in fear. Starve. Die in privation.
+
+The passage rumbled, and Sixiang yelped as their construct was crushed against the wall. Tons of dead flesh surged forward, bubbling from her muse's disruptive qi. It split down the center, and a vast maw full of teeth and barbed cilia greeted her. It slammed shut around her.
+
+Jagged razor edges pressed into fabric and flesh with enough strength to crush stone and crumple metal. Acids and toxins stained Qiyi's fabric. Grasping tendrils clutched at her limbs. Filthy impurity caked her from head to toe, choking off the expression of her arts the moment her qi left her channels.
+
+"I really gotta be more specific when you're making plans with me," Sixiang grumbled.
+
+She was glad Sixiang still trusted her. Could she ask for one more dance?
+
+The muse grumbled again, but she felt hands materialize in her own. Sixiang's phantom flesh was warmer than it had been before.
+
+Ling Qi set her heel against the squirming floor, heel punching through to rock. Then, she began spinning through the first steps of dance she had learned, Sixiang's hands held tight in hers.
+
+The disrupted section of the veil left by Sixiang's rippling qi shimmered and came apart, a hole briefly cut between realms, and the two of them danced through in a vortex of kaleidoscopic qi. Water, impurity, and liquified meat rushed into the gap they had left and spewed out into the formless ocean of color and thought which underlay the fantastical realms of Dream.
+
+Sixiang gave her an unimpressed look as their dance carried them up and out of the gush of oily pollution they had brought with them. "That. Was. Gross."
+
+"But it worked," Ling Qi replied.
+
+Qiyi shook violently all across her body. Ling Qi winced at the gown’s distressed, keening wail in her mind.
+
+"Extra soaps in your wash tonight," Ling Qi promised.
+
+Below, the flow was tapering, and the natural pressure between the material and physical realms closed the brief gap they had made.
+
+She pushed her perception back through the veil and saw the crystal clear water rushing down the suddenly cleared tunnel, scouring the walls of impurity and boiling the fragments of severed tendrils that remained with a vengeance. The parasite itself was retreating, the creature’s panic and hurt palpable as it withdrew.
+
+Ling Qi stepped back into reality, the sensation of Sixiang's hands disappearing as they left the dream. She re-emerged into the icy water as a sizzling cloud of bubbling water, and…
+
+A paper talisman inscribed with impurity wards was slapped across her face.
+
+"So. I may have earned that."
+
+"You definitely earned that. What a ridiculous plan," Li Suyin criticized as the crust of oily gunk was drawn away from Qiyi and into the sealing formation.
+
+Bad wearer. No more gross meat bath. Listen to friends / fellow wearers.
+
+Ling Qi was beset on all sides here.
+
+“Effective. Enemy in retreat. Pursuit must be made."
+
+Ling Qi huffed, letting the talisman do its work. Almost all side. At least someone agreed with her.
+
+"The Piper can feel the parasite withdrawing on all fronts. The size of the loss just now shocked it. We have an opportunity to make for the breach now, if we know where it is."
+
+"Earthblood. Vault of frozen fire, crevice which once fed the soul of heat, now deadened."
+
+Li Suyin looked at her expectantly.
+
+"The original breach came through an old volcanic vent near the site of the deadened fire crystal," Ling Qi relayed.
+
+"Then, we advance down the passage you cleared." Li Suyin gestured to her constructs, who shambled back to her. Wolf and Lion were both cracked and stained. It was odd that her Evergreen Succession art hadn't shrouded them, but something about the mindless automata must have failed to attract the skein of qi she cast out over her allies.
+
+"Should we try to hunt the core of the creature first?" Ling Qi asked. "I worry that it might disrupt your ritual, even with us on the defense. We've surprised it twice now. I don't know if it will retreat again."
+
+And it had already shown it could learn. How far did that capability go?
+
+"I believe in your ability to hold it off, and the sealing arrangement should not take too long," Li Suyin said. "Once the seal is in place and the source of impurity closed, the spirit here should be able to scour its own meridians far more easily than we can."
+
+That was true, Ling Qi supposed. And it was definitely possible that taking more time to try and hunt the creature down would just give it more time to rally with the connection to the ith sphere open. On the other hand, their intention when going for the breach would be obvious. They would not be the ones making a prepared defense, but the ones sieging it.
+
+"I think we need to hunt it down," Ling Qi argued. "Leaving it to recover and learn is just too much of a risk."
+
+"What do you mean by that?" Li Suyin asked.
+
+"The parasite had already adjusted to my first tactic between the time of our encounter with the water spirits and this defense of the crystal. It is only going to return more and better prepared. On top of that, even if we cut the source off, I’m worried that it will escape and go to ground elsewhere. It’s proven to be mainly a liminal beast."
+
+Her friend chewed on her lower lip, glancing over her constructs. "I hadn't considered that. I admit, I have little expertise in the spiritual realms, and my samples have been primarily physical. Can you cooperate with the Piper to improve our odds of hunting it?"
+
+Ling Qi tilted her head up, looking at the pulsing crystal. They couldn't spend too long debating their course of action, at least not if they wanted to stay on the parasite’s tail. She paused a moment to arrange her thoughts, then sang a bar into the rippling waters.
+
+"We seek the fleeing foe to extinguish the mind behind your fall. What aid may you bring my eyes, O Spirit of the Deeping Ways?"
+
+Light flashed through the crystal, and thoughts and calculations pinged back and forth from distant crystals.
+
+"Guidance. Funneling. Narrowing the search. Lighting the gaps. Power forced through channels old and rotted. Exhausting. Worth removing the polluting mind."
+
+"I can,” Ling Qi answered Suyin. "Do you have a way to move quickly? I can't chase it entirely with skips through the liminal, especially if the creature is preparing to counter us."
+
+"I have a way or two," Li Suyin said thoughtfully. "Armor."
+
+Ling Qi blinked at the non sequitur, but it took only a moment to make sense.
+
+Wires snapped out and dug into the damaged lion and wolf constructs. Silk unspooled, bones came apart, and then, they were rapidly pulled in toward Li Suyin. Her friend’s head swiftly rose over her own when  bones and silk melded around the shorter girl’s legs. Rib cages aglow with spirit stones clasped around her hips.
+
+Bear and Boar came apart next, armoring her chest and head. The stone shield they had carried divided into overlapping plates, forming plated armor over gleaming bone. Horse and Ox were last, transforming into lanky, armored arms that held the mancatcher and mirrored shield. The light of Li Suyin's artificial eye shone out from the stylized, feminine faceplate of the three-meter tall golem which her friend now occupied.
+
+"Let us be swift. I can't power this form for long at the highest capacity."
+
+"Of course. O spirit, your eyes?"
+
+“Entering Communion.”
+
+A map bloomed in her mind, fanciful scrollwork tracing out behind her eyes. It was color and music and countless numbers and memories of world states going back for years and decades, all weaving together. It made her head itch and throb, in much the same way it did when Snowblossom had tried to share information with her.
+
+She swayed on her feet.
+
+“Attuned capacity found. Adjusting output."
+
+And then, it stabilized. In her mind’s eye, it swam into the shape of a watercolor map.
+
+"Oof,” Sixiang groaned. “Giving you some extensions, but this is not what I'm made for. Suyin is right. Let’s hurry."

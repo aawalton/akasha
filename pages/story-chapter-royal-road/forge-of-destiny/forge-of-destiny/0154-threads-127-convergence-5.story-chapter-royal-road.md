@@ -1,0 +1,83 @@
+---
+id: cd17d29e-6f65-524e-95b0-e6ca6983c110
+page-type-slug: story-chapter-royal-road
+title: "threads 127-Convergence 5"
+slug: 0154-threads-127-convergence-5
+partOf: forge-of-destiny
+position: 154
+ownLength: 2003
+unit: words
+publishedAt: 2021-09-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/746259/threads-127-convergence-5"
+royalRoadId: "746259"
+---
+
+The most effective thing Ling Qi could do would be to keep the barbarians' attention until the reinforcements arrived while Cai Renxiang duelled the shishigui envoy. Ling Qi’s eyes flicked upward to where the barbarian musician was turning, reorienting on Cai Renxiang as her saber met a fluid whip of impurity with the screaming hiss of a blazing coal being dropped into cold water.
+
+In the cacophony of the ongoing battle, he didn’t react to the scream of one more eagle. It was a mistake.
+
+The notes of the man’s song stumbled over one another as phantasmal talons seized him and his mount and flung him toward Ling Qi and her spirits. Ling Qi was already dancing backward, a wordless pull on her connection to her spirits urging them to retreat with her toward the starstone. All around her, bestial phantoms rose among and from the dancers of the revel, girt in rime and frost. Her gathering host yowled a challenge as they gathered around the stone, although at a distance as those that drew too close broke down into shimmering lights and motes of frost. Above her, the song of her sword rang out, and another barbarian was lost in the depths of the Mist.
+
+For a moment, the challenge rang unopposed in the caldera as Ling Qi landed lightly beside her little brother.
+
+Then the response came.
+
+From above, a renewed song clashed with her Mist, wresting her victims from its grasp. Three bowstrings sounded, and three lightning bolts fell, stakes of snapping electricity slamming into the ground around her, forming a perfect triangle as lightning arced from one to the next. Electrical current roared out, spilling to fill the whole of the area, and Ling Qi raised her hand. Three bells chimed as the lightning arced into her hand, her Three Moons Chime drinking in the field of lightning before it could finish coalescing.
+
+Dozens of screaming and slicing arrows flew wild, striking phantoms and shadows, and Ling Qi wove between dozens more as they fell upon her through sheer chance, a frantic spinning dance made all the more desperate by the gathering power from across the cavern.
+
+There was a crash and muffled boom as the fourth realm barbarian slammed Guan Zhi, grasped in his eagle’s talons, against the caldera wall. Rock cracked and splintered, letting in light as her commander was plowed through meters of volcanic stone.
+
+The cry of her phantom eagle was drowned out by the furious screams of seven real eagles, and at her feet, powdered, sterile stone exploded into a cloud of chalky dust as the echoing noise shattered it into dust. Ling Qi felt a tightness in her ears, as if something was straining, ready to pop. Around her, phantoms wavered on the verge of breaking apart.
+
+But her winter did not recede. A warmth in her chest burned, and phantoms snapped back into solidity. The power of the winter hearth refusing to be extinguished. Her next step carried her on the wind, and Ling Qi dissolved into whispers and shadow, slipping into the silent spaces between echoes to avoid the ear-splitting wall of sound.
+
+But even through the shriek, she could still feel the hum of bowstrings.
+
+Zhengui let out a challenging bellow as he stepped in front of Hanyi and Ling Qi both and bore the brunt of the volley. Two layers of roots and wood sprang up, only to be shattered in moments by screaming, slashing wind. His shell rocked as a dozen arrows and more battered into his side, and centimeter by centimeter, his four stout legs dug furrows in the chalky stone as he was pushed backward. The boxy spikes of his shell shook and crumbled, bits and pieces of bone breaking and scattering, leaving their smooth edges jagged.
+
+The last missile struck the hardest, a spinning drilling missile of wind that howled like a thousand clashing blades fired from the bow of the strongest of the Twelve Stars’ retinue. It struck Zhengui’s shell dead on, and Zhengui skidded backward a full meter.
+
+Zhengui’s shell was cracked on the side that had faced the barbarians, a dozen tiny fractures surrounding a great bleeding wound where the last arrow had struck with cracks radiating around it. Blazing blood like liquid magma dribbled to the floor in hissing, molten drops.
+
+Ling Qi materialized in front of Zhengui, even as veins of green began to glow across his limbs and the ash in the air started to shimmer. The next arrow that flew struck her and vanished without a ripple, and so did the next. Hanyi joined her, her song of cold and winter stealing momentum from incoming attacks as the cracks in Zhengui’s shell healed ever so slowly.
+
+To her right, Cai Renxiang was holding out well, the tendrils of light that formed her wings hissing and sizzling as they beat away droplets of impurity. Several glowing scars marked the shishigui envoy’s armor, but in turn, droplets of corruption stained Renxiang’s luminosity, dimming her light where blackened droplets marked her, each one seeming to vibrate as they struggled to expand against her purifying light.
+
+But they weren’t being cleansed. They were only being contained, and Cai Renxiang was being pushed back.
+
+Ling Qi grit her teeth as she took in the battlefield, and her eyes fell on the barbarian marked by her hoarfrost, already joining the others in drawing back his bow, while the barbarian musician and others were looking toward Cai Renxiang again. She had to keep their attention on herself.
+
+Ling Qi called her sword, and it shot downward like a falcon, its point diving for the barbarian musician’s throat, forcing him to canter back and deflect it with a shout. Ling Qi might not be able to touch him, but she didn’t need to to stop him from defending his shishigui ally.
+
+She raised her flute and felt an arrow slice across her cheek as she looked to the barbarian already marked by her hoarfrost. Her fingers danced, and her flute played silence. She didn’t look away, even as a second and a third arrow struck her gown, feeling like the strike of fists. The barbarian died as he crashed to the caldera floor and shattered.
+
+The barbarians were swift in their reply. Once again, she dodged like the wind through a storm of missiles, but the barbarians were learning. Just as she rematerialized, toes touching the floor, a vortex arrow like the one that had nearly bored through Zhengui came. Gritting her teeth, Ling Qi pulsed her qi, and the Black Mirror technique swallowed it.
+
+There was a sharp report then, a singular, deafening noise of grinding shifting stone from the far side of the caldera. A single crack raced up the caldera wall from where Guan Zhi had been buried. Stones and pebbles burst out as the crack reached the rim. The caldera wall broke apart in a roar of falling rock, uncounted tonnes of stone exploding outward around the flexing limbs of the furious woman. Over her head, a single boulder, perhaps half the size of the starstone, cracked and compressed inward, becoming a perfect black sphere. The remains of the wall shot toward it as if dragged in by the earth. Even Ling Qi felt a harsh tug toward the sphere, and she planted her feet in the chalky dirt as her hair and gown alike whipped around her limbs.
+
+Perhaps she didn’t need all the attention, Ling Qi thought faintly as the man with the starstone mask raised his blade, and the storm answered. A funnel of wind descended from the sky to armor him and his retinue, the churning wind burning with iridescent light.
+
+Ling Qi forced her eyes away and threw out her hands, activating the Rippling Starless Shroud technique, dimming her surroundings under a shroud of liquid darkness that twinkled with faint frosty moonlight. She felt Cai Renxiang’s qi flare in response, and the dark shroud that settled around her and her spirits gained an edge of burning radiance. Zhengui finally straightened up, flesh no longer visible beneath the hole in his shell as howling arrows bounced off his hide and flew wildly into the revel. The next sheet of lightning that erupted through their space sparked off of them, no more harmful than static. Her qi was starting to flag from activating all of these defenses, and once she had no more qi...
+
+Ling Qi saw the phantom of the suited bear that had seized the dancer fading away, its head cleft from its shoulders. She spun immediately and blew a single sharp note that wobbled as it met a descending blade of green stone. The note went silent as it was sundered, and Ling Qi spun away into the revel, blinking meters away to let a laughing phantom made of rose petals and thorny vines be slashed apart in her place. The dancer did not have time to regret her miss before Zhengui’s anger erupted beneath her feet in a column of magma.
+
+Out of the corner of her eye, she saw her own shadow twitch and felt a ripple through her qi and reacted in time to play a Hoarfrost Refrain right into the masked face of the second dancer. The dancer spasmed violently as her flesh blackened and cracked, and she leaped away into the shadows again. Ling Qi began to follow her, only to realize something else.
+
+The ice woman was standing there, barely three meters away.
+
+Ling Qi’s phantoms turned to attack, but it was as if they were moving through molasses. Even so, the press of bodies should have harmed her, but claws struck her armored gown with the force of feathers, and fangs cracked and shattered where they bit down on her limbs. The ice woman looked through the revel as if it was not there, even as the elegy of the mist continued to swallow up barbarians above.
+
+Zhengui saw her, and Zhen hissed out a warcry, striking as a blur. Ling Qi saw the woman’s left hand, holding that ugly iron scepter, twitch, and she knew she wasn’t going to be fast enough. Then, the woman met her eyes, and she saw the swing aborted. The woman's right hand rose instead, and Zhen’s striking fangs hit her palm and glanced off, his entire head and body jerking backwards as if he had been struck by something twice his size.
+
+Air rippled, and Ling Qi felt the moisture in the air flash freeze. A wall of frost rose behind the woman, curving over their heads in a dome that met the caldera wall, cutting them off from Zhengui, Hanyi, and the other barbarians.
+
+Then a second layer sprang up, cutting off her spirits from the barbarians, too.
+
+The woman took another step toward her, ignoring the grasping roots that withered and died around her feet before even touching flesh. The woman stared hard at her and spoke something in a hard, consonant heavy language, gesturing between her and the starstone with her scepter. There was something familiar about the language. It wasn’t quite hill tribe speech, but it was close in a way.
+
+There was something about lineage. A question. Why was she here? And, uh, something about aid, maybe?
+
+Ling Qi sucked in a breath, feeling everything that was going on outside the dome. The reinforcements were arriving at the rim, and the barbarian attention was being forced toward the newcomers and the now unchecked brawl between the cyans. Cai Renxiang was losing ground, and she could feel an ugly corrosion nipping at the edges of the girl’s qi. And in the storm above, there was a charge, something that made her instincts scream danger.
+
+Dome or no, Ling Qi could slip out of this cage. But her mind flew back to the meeting and the words of the White Sky representatives and their actions after the fight started. They didn’t seem to want any part of this fight.

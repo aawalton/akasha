@@ -1,0 +1,113 @@
+---
+id: 834845aa-3af1-5de2-bc03-46748dc3e867
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Snake and Spider 2"
+slug: 0082-bonus-snake-and-spider-2
+partOf: forge-of-destiny
+position: 82
+ownLength: 1818
+unit: words
+publishedAt: 2021-03-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/651081/bonus-snake-and-spider-2"
+royalRoadId: "651081"
+---
+
+The training field was unrecognizable.
+
+It had begun as an artificial cavern with a high ceiling and uneven scalloped floor, full of columns and other stone growths to obstruct combatants. Now, sizzling acid pooled in the pockmarked floor, and glittering crystalline webbing had consumed the ceiling. Hanging prismatic sheets and nets obscured above, and rising clouds of toxic mist mingled with dissolved minerals below.
+
+Bai Meizhen advanced, liquid coils noiselessly parting the acidic pool below. In her hand, the ribbons of her blade shifted restlessly, filling the cavern with their metallic hiss.
+
+She was having fun.
+
+Out of the corner of her eye, she caught the quiver of a crystal thread, and a twitch of her hand had ribbon blades lashing out to intercept the gleaming silver needles which erupted through the pouring acid rain. The high ring of metal on metal sounded, and needles scattered, burning finger-thick holes through already pockmarked stone columns to impact the walls. Her tail lashed out and smashed apart the figure dangling from the threads. Another decoy, already falling apart into shredded webbing. Where…?
+
+Bai Meizhen raised her empty left hand and caught the tines of Bao Qingling’s tigerclaw blades on her forearm. The force of the blow sent a ripple through her mantle, and the sizzling liquid pool beneath exploded backward at the sudden pressure, cracking the stone beneath. For a single moment, she met the girl’s dark eyes as her arm trembled with the effort of holding back the girl’s superior strength.
+
+Bao Qingling parted her lips and spat a glimmering needle of black jade. Bai Meizhen jerked her head to the side as the jet black missile cut through her mantle and scored her cheek. Pain spread from the wound, burning hot.
+
+How fast did her heart beat.
+
+With a skirling cry, ribbons lashed out, and Bao Qingling danced backward, balanced upon a nigh invisible thread, her arms blurring as she batted away the reaching blades of venomous steel. Though Bai Meizhen’s burning rain fell upon her, it affected her no more than mundane water, weighing her heavy clothing and soaking her hair. Yet the envenomed silk drank in the harmful properties of the rain, growing all the stronger for it.
+
+It seemed that her companion's project truly was a success.
+
+Bai Meizhen smiled, and a thunderclap split the air as her flying sword shot from the shadows, trailing rings of broken air. Bao Qingling let out a frustrated hiss through her teeth as she fell to the side, clinging to her thread by the bottom of her feet, wet hair dangling down as she scurried backward. Prismatic light gleamed, and the other girl vanished, reappearing crouched upon a thread further into the cavern.
+
+Meizhen had long since given up on severing them all. The twin needles of carved red jade which were Bao Qingling’s own domain weapon spun them faster than they could be destroyed, and the weapons themselves were indestructible at her current strength.
+
+Bai Meizhen advanced. Threads snapped beneath the bulk of her coils, and a score of arrays spun in thread flared, raining down silvery needles. The air howled as her ribbon blades batted them away by the dozen. More still impacted her mantle in clouds of sizzling spray and steam. Half a score, she caught and flung away, their venom doing little more than making her skin itch.
+
+The rain ended, and she stood tall. Such was the way of a Bai, implacable, unmoved, imperious.
+
+But Bao Qingling was gone again, vanishing back into her nest of webs.
+
+Bai Meizhen advanced. With confirmation that her venomous rain would avail her not, she pulled back on the qi invested, and burning clouds and sizzling liquid alike spiraled down to shroud her ribbon blades. Flicking her wrist, meters-long lashes carved their way through the cavern, ripping trenches in stone and snapping threads.
+
+Bai Meizhen peered into the nest of snapped and ruined webbing. There, a decoy, and there, another, and there… Bai Meizhen shrouded herself in a sphere of black water as crystal spikes erupted from the ground, blooming fractally with hundreds of spikes. Her tail lashed out, shattering them and launching her forward to where Bao Qingling even now crouched, ready against the far wall.
+
+Bai Meizhen’s smile grew. She wanted to clash again, to feel Bao Qingling's breath on her face, to…
+
+She felt a pressure and then a snap. At her waist, the torn ends of a single invisible thread curled away, crumbling into nothing. All around her, explosive arrays woven from crystal thread flared.
+
+... Perhaps she had been a touch arrogant.
+
+***​
+
+The cavern rocked with the roar of the explosion.
+
+Let it not be said that the Bao clan library was useless to her. Millenia of experience in mining had led to a library of some of the most advanced blasting formations in the Empire. Some would call it crude, but to Bao Qingling, transforming the chaotic undirected power of an explosion into something shaped and controlled could only be called art.
+
+She smiled thinly as she felt the ripple of surprise pass through the other girl’s qi. For any other disciple two steps beneath her, Eight Mantle Piercer charges would have been wasteful and excessive.
+
+However, she was facing a Bai. To hold back was to lose.
+
+Bai Qingling clung to her thread as the rush of waste heat flash-dried her clothing and hair and vaporized more than two-thirds of her web. She felt the rush of air rising from the molten stone of the crater, twelve meters square exactly, carved by the blast.
+
+Force gathered in her legs, earthen qi resonating through her remaining threads. Stone splintered and then crumbled to powder as she launched herself down into the cloud of scalding steam. A mass of pale white waited for her there, ragged tatters of water qi, cool even now, clinging to her frame. The Bai was nearly unharmed by the blast itself, as expected given previous observations. The hairs on the back of her neck rose as the ribbons shifted, and crystal threads erupted from her clawed gloves, shielding her with crystal silk. It wouldn’t last more than a single blow, but it didn’t need to.
+
+The points of her claws impacted Bai Meizhen’s throat in a spray of water, and the force of her charge slammed the girl backwards. Into the side of the crater she flew, and molten rock splashed outward, the solid stone behind that cracking as well, and only then did her foe let out a gasp of pain.
+
+Bao Qingling felt her blades prick flesh. She twisted her wrist, letting her hand impart the rest of the force. Her feet finally touched the ground, and she loomed over the other girl, breathing heavily. This close, she could see Bai Meizhen clearly, even with her reduced acuity. Droplets of burning stone clung to Bai Meizhen’s gown and hair, sizzling faintly. She, too, was breathing heavily, her golden eyes wide.
+
+Bao Qingling could feel her heartbeat. It was irregular. For a moment, concern that she had done serious harm skittered across her thoughts. No, she recalled, the oddity was just the three-chambered heart of a true blooded Bai in action. Bai Meizhen was fine. She had mild burns, a constricted and bruised windpipe, low blood toxicity, abrasions, and depleted qi; only light rest would be required.
+
+The pale girl’s lips parted. It was strangely fascinating. “I yield.”
+
+Bao Qingling blinked and then stiffened, pulling her face away from Bai Meizhen’s. Irritating. She was not a child to get lost on the roads of thought. She withdrew her hand from Bai Meizhen’s throat and straightened up, stepping back. “Accepted,” she said crisply.
+
+The girl grimaced, prying herself out of the drying crater of liquid stone with a grimace. “Your project has been a complete success, it seems. My congratulations.”
+
+Bao Qingling fingered the silken sleeve of her tunic. It had held up remarkably well, and the processed threads fed into her domain weapon even more so. Their resilience against toxins and corrosive qi was impressive. “Offensive use still requires testing.”
+
+“Of course, but for that, you shall need other subjects,” Bai Meizhen said, brushing fingers through her own hair. “My own advantages would rather ruin the experiment.”
+
+She would have to test this on beasts, or perhaps, she would have to offer Sect Points to an Outer Sect student. She would decide on that later.
+
+Bao Qingling regarded Bai Meizhen silently, noting the discomfort radiating through her aura. “There are solutions for the removal of dried stone from hair. I have no objections to lending you a vial.”
+
+“Are there? It is not something which has come up before,” Bai Meizhen said. “I would be thankful.”
+
+Bao Qingling nodded sharply, turning to head for the exit. “It is useful. I keep it with my hygiene items, so we will need to return to my workshop. Unless you wish me to bring it to you.”
+
+She still did not understand Bai Meizhen. The Bai scion’s actions remained confusing, and her goals mysterious. Bai’s assistance had shaved months off of her project however, and at this point, Bao Qingling no longer begrudged the girl for the favor she would no doubt ask in the future.
+
+“I do not mind being your guest, if you will have me,” Bai Meizhen said serenely. Her heartbeat was still a touch faster than mere exertion would indicate. It was not in line with her normal pattern either. “Although, perhaps…”
+
+Bao Qingling turned her head to “look” at Bai Meizhen. Uncertainty. That was unusual for her. Was that favor coming more quickly than she had thought? What could she possibly intend to ask that she was uncertain of? Bao Qingling felt cold.
+
+“Would you care to come out with me for a tea after we have cleaned up?” Bai Meizhen asked, cutting off her thoughts at the root.
+
+Bao Qingling nearly missed a step. Nonsensical. Completely nonsensical. She suspected the other girl was deliberately sowing confusion. She could not, even with the most robust of mental contortions, call that a favor. Even then, she was not going to be so rude as to refuse. “... Acceptable.”
+
+Bai Meizhen was pleased at the answer. However, as they stepped through the partially melted entrance of the training ground, Bao Qingling was not. How could she be pleased when the assistance given to her was being valued so lowly?
+
+“After, I would have you look through my project pieces. I will customize one for you,” Bao Qingling said shortly, deliberately looking ahead.
+
+“You need not -” Bai Meizhen began.
+
+“I want to,” she interrupted. Doing less was unacceptable. She did not accept charity.
+
+“... Very well. I am sure it will be lovely,” Bai Meizhen said serenely. She seemed terribly pleased with herself. A deliberate manipulation?
+
+Bao Qingling could not quite bring herself to care.

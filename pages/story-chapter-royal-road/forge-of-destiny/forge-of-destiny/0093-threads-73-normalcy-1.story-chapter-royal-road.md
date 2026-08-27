@@ -1,0 +1,153 @@
+---
+id: c889db55-3d56-5ce0-ad7c-49d66d6d5e3a
+page-type-slug: story-chapter-royal-road
+title: "threads 73-Normalcy 1"
+slug: 0093-threads-73-normalcy-1
+partOf: forge-of-destiny
+position: 93
+ownLength: 2966
+unit: words
+publishedAt: 2021-04-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/665357/threads-73-normalcy-1"
+royalRoadId: "665357"
+---
+
+“Are you sure you want to be doing this now?” Yu Nuan asked.
+
+“Would you prefer that I forget the favor I owe to you for another month?” Ling Qi asked back tiredly as they walked the steep mountain path, ascending toward the peak and the clouds.
+
+“No, just…” the girl began awkwardly before shaking her head, her piercings jingling in the wind. “Y’know what, fine. Not gonna look a gift horse in the mouth. Not like I can afford to stay without a spirit the way things are.”
+
+Ling Qi hummed in agreement. She understood what the girl was getting at.
+
+Zhengui was still in a restorative sleep. The way he had forcibly broken through to the next stage and forced the evolution of his techniques all at once had exhausted him; her poor little brother had not stayed conscious for much longer than her. The sheer quantity of diseased ichor that had stained him didn’t help matters, weakening his regeneration a great deal. The Sect’s physicians had assured her he would wake within two days however.
+
+She had already visited her family, hugged her trembling mother and little sister. No physical danger had come near them, and the soldiers assigned to her home had come at her mother’s call to kill the thing that had tried to crawl out of the basement with things remaining safe otherwise. Biyu’s distress seemed wholly born from sensing their mother’s distress. Mother, being awakened, had been able to sense just enough to know that something was terribly wrong. Ling Qi would return in the evening once the chaos in town had subsided to hear their story in full.
+
+Suyin was busy, dragged off to collaborate with several higher cultivation disciples, including a member of the Core Sect. Xiulan was with her sister still, the battle and her extensive use of qi having agitated her injury. Meizhen was dealing with inquiries from her clan, and her liege was corresponding with the capital. The mountain was a hive of activity.
+
+Her wound still throbbed. Even with Gu Yanmei’s intervention, much of her flesh had been ruined, and the physicians had had to cut it away and induce the growth of new flesh to replace it. Her throat had been saved by the sheer concentration of qi which moved through it, thanks to her specialties. Yanmei’s healing had saved her, but the raw solar qi poured into her veins had also misaligned her cold and dark meridians, leaving techniques that used those meridians difficult to use for a time. It would pass soon, but it left her feeling itchy and intemperate.
+
+“You know, you said we needed to go up the mountain, but what are we looking for? I thought you were looking for something by the waterfalls.”
+
+“I was, but if you’re helping, I might as well get ambitious,” Yu Nuan replied, giving her a curious look. Ling Qi noticed then that she had slipped back into more common modes of speech. She really was tired. “I want to bind a thunder beast,” the other girl said with finality.
+
+“Oh? The things that’ll nest in your navel if you sleep outside too often?” Ling Qi asked.
+
+“That’s just a dumb story,” Yu Nuan scoffed. “They’re powerful, aligned with wind and thunder, and can even grow to cyan now and then. I don’t know if you’ve noticed, but I’m not much of a fighter. I need something that can keep enemies back while I play. It’s not like I’m gonna find a qilin or a dragon so a thunder beast is my best bet.”
+
+“What were you looking for before then?” Ling Qi asked.
+
+“Was trying to attract fairies - wind and sun types,” Yu Nuan admitted as they reached the top of the path. “Thought I had time to experiment, find something compatible. Your little… Hanyi bumbled right through and broke the attraction formation I’d bought.”
+
+Ling Qi grimaced, dipping her head in apology. “Alright, thunder beasts then. Do you have a plan?” She eyed the storm darkened clouds above.
+
+“I composed something, yeah,” Yu Nuan replied, shading her eyes as she peered up. “Figured I would find the highest solid perch I could, and then you could fly around… and, uh…” She paused, looking unsure.
+
+“You want me to play sheepdog?” Ling Qi asked, amused.
+
+“That’s about right,” Yu Nuan answered, chagrined.
+
+Ling Qi wished the girl would stop being so leery of her, but it was to be expected. On the other hand, there might be a better way. <What do you think, Sixiang?>
+
+To her chagrin, silence was her answer. She felt her shoulders droop at that; Sixiang hadn’t spoken since she woke up. She could still feel her muse. They were healthy and hale, just turned inward. Ling Qi shook her head. Sixiang would speak when they were done cultivating. She was sure.
+
+Still, she glanced between Yu Nuan and the clouds. Herding spirits was all well and good, but wouldn’t they respect someone who met them in their own element more?
+
+“That sounds fine,” Ling Qi started, “but wouldn’t you have better odds of a willing binding if you met them on their terms? Thunder is ambitious and proud after all.”
+
+“Maybe, but we can’t all have priceless talismans of flight,” Yu Nuan said irritably. “It’s the best I can do.”
+
+Ling Qi gave her a sidelong look. “It’s not like you’re that heavy. I could just carry you.”
+
+The other girl shot her a suspicious look. “What?”
+
+“I could just carry you,” Ling Qi repeated. She didn’t care for such close physical contact, but it really was the best solution. “It might be a little awkward to do so and leave your hands free to play, but it’s not hard either.”
+
+Yu Nuan stared blankly at her as if Ling Qi had just suggested something absurd. “And you would be fine with that?”
+
+“I would not have suggested it otherwise,” Ling Qi replied archly.
+
+Yu Nuan studied her expression but then finally shrugged. “Alright. How do you want to do this?”
+
+Working out the carry was more difficult than she would have liked. Even if she was taller than Yu Nuan, having the other girl sit on her back was awkward, and lacking Hanyi’s bond and nature, Yu Nuan tended to fall through whenever Ling Qi sped up, maneuvered sharply, or crossed distances without moving. Since her hands had to be free, she couldn’t keep a hold on Ling Qi’s shoulders either. Still, they eventually came to a solution.
+
+“Gods, just make sure you don’t slip,” Yu Nuan muttered as they soared up toward the belly of the clouds, her legs dangling freely toward the ground so far below. Ling Qi had her arms looped under the other girl’s. Her vision was blocked by the other girl’s head and hair, but that was what her mirror motes were for.
+
+“It’ll be fine.” Ling Qi grimaced, pulling her head back to avoid the other girl’s hair from getting into her mouth, and a tiny gust buffeted the longer strands out of her face. “Just tell me where we need to go. You studied their habits, right?”
+
+“Yeah,” Yu Nuan said nervously. “Well, since we can… go up, right above the clouds, I’ll be able to see the storms channels better from above.”
+
+Ling Qi restrained the urge to shrug. If the other girl could handle the altitude, that was fine. Without being able to use her techniques, the flight was painfully slow, especially since she had to remain cautious and careful of her own solidity. “What were things like back here on the mountain?” Ling Qi asked.
+
+Yu Nuan strummed a few basic chords on her lute, more out of nervous habit than anything else. “The tribes didn’t get this far, but things still came outta the earth. A whole lot of them,” she said. “It was pretty chaotic on the first mountain, but a pair of Core disciples came down and put a stop to the squabbling.”
+
+Ling Qi’s eyebrows rose, but she supposed she shouldn’t have been surprised. “How did you fare?”
+
+Yu Nuan grimaced at the sudden damp as they entered the cloud layer. “Nothing heroic like you,” she said, and Ling Qi could not tell if she was being sarcastic or not. “I got rounded up to support the lower nine hundreds, and we drove off the bugs that tried to swarm up the mountain. They were going for the vents, I think. Wasn’t glamorous, but I did my job. Didn’t…” Ling Qi sensed a twinge of bitterness from the other girl. “Didn’t let anyone in my group die.”
+
+“That’s not an accomplishment to spit on,” Ling Qi said as they soared up and up through the rain-bloated belly of the storm clouds, the light from above growing brighter as they neared the surface.
+
+Yu Nuan grunted something noncommittal.
+
+“Anyway,” Ling Qi began as they broke through into the blue morning sky above. “Which way d’you think…”
+
+She trailed off as she looked south over the slow moving field of dark clouds and saw a vast golden arch rising from them, then beyond it, another and another. The arches were tens of meters across and hundreds long, and for a moment, Ling Qi mistook them for some kind of structure, but she had never seen such a thing above Argent Peak, the core of the Sect. Then it dawned on her. The glittering golden scales, the weblike ridges waving lazily from the back of the arches, and there, the contours of a titanic leg…
+
+She knew, intellectually, that there was a reason that their Sect Head Yuan He was so well respected and their Sect so prestigious. But it was a different thing entirely to see his spirit companion, the Celestial Dragon King of the South, in the flesh. She had not felt his presence, but the great beast was not concealing it. No, looking south, seeing the source with her own eyes, she understood. She had felt the dragon’s qi but had not realized it because it was the storm. Sect Head Yuan was not restraining himself.
+
+“Not that way,” Yu Nuan said thickly.
+
+“Not that way,” Ling Qi agreed, veering north and west. There was plenty of storm. No need to pester their elders.
+
+Keeping their backs to the unsettling sight, they flew in silence as Yu Nuan searched.
+
+The storm rolling out from the Wall spread over a vast distance, and dense knots of thunder, lightning, and water qi were prevalent. Ling Qi dove down into the clouds at Yu Nuan’s direction and began to wrangle the thunder beasts they found. Thunder beasts appeared as great canines the size of horses made from dark clouds rather than flesh. Lightning crackled beneath their cloud flesh like veins and bones,and their barks were the boom of thunder.
+
+They were quick beasts and bounded away her approach, but she was faster, even with the constraints she was operating under. With her hands occupied, Ling Qi instead channeled the mercurial qi of the moon as she dove in among the masses of little spirits of wind, water, and thunder that the beasts circled. Phantasmal dancers and musicians burst forth from her frame, already laughing and singing as they enveloped and disoriented the thunder beasts.
+
+Once she had entrapped a pack, with a flex of her qi, she lowered the cacophony of the revel and allowed Yu Nuan to take center stage with her own composition. Yu Nuan’s melody was strident and loud with a strong beat and quick metre like a storm in miniature itself. It was amusing to watch the wild beasts stop tearing around her revel trying to escape and instead come loping in to circle them and howl in time with Yu Nuan’s song, adding their voices to it.
+
+Yet time and time again, when Ling Qi made to approach with Yu Nuan, they darted away. She could have caught them of course, whirled them back to the core of the revel with laughing phantasms, but Yu Nuan wanted to try for a willing binding first.
+
+So they went for much of the morning, hopping between the most concentrated parts of the storm, one after another, a trail of curious thunder beasts following along in their wake. Frankly, Ling Qi wished that if they were so interested, they would just engage properly and let Yu Nuan bind them.
+
+As she swept into the largest concentration of thunder beasts yet, scattering the little spirits of the storm like a school of fish around a thrown stone, and began to move to capture the beasts in her revel, she found herself interrupted. Darting forward, she glimpsed a pale blue palm shaped like a man’s but too large before a gust of wind and boom of thunder threw her tumbling back. In her arms, Yu Nuan let out a shout of alarm, nearly fumbling her lute as Ling Qi seized the winds to right herself and found them unresponsive and reluctant to follow her command.
+
+“Hoh! That will be enough of distracting my herding dogs.” The voice was male and boomed with the rumble of a storm. A flickering mote of silver turned in the folds of her dress, and she got a good look at her assailant. Three meters tall, the spirit had the outline of a man. The red eyes like that of a crow’s were set in a human-like face but stared back at her from above a sharp and pointed beak, and wings like a bat beat against the air. The spirit’s chest was that of a well muscled man and was bare to the waist, but the legs, covered by a rough loincloth of animal hides, ended in the talons of a bird. In one hand, the spirit held a silver mallet, more like a drummer’s tool than a weapon.
+
+Leigong, the thought came to her immediately, the little gods, shepherds of storms, and highly ranked among the spirits of air and heaven. Memories of childhood stories and common legend mixed with memories of study in the archives. Even as she righted her body, she tried to sort out her thoughts. The spirit was fourth realm; she couldn’t afford to give offense.
+
+“My apologies, great one. We did not mean to disturb your work,” Ling Qi said hurriedly, dipping her head.
+
+“Yes, absolutely not.” Yu Nuan was quick to agree, holding very still in her arms. “We only meant to tame a wild beast.”
+
+“My deepest regrets for our error,” Ling Qi continued. “It is my fault entire, so if amends need be made, allow me to do so.” She wasn’t going to repay Yu Nuan’s courtesy by letting her take the blame for this. Leigong were supposed to be honorable sorts anyway. The other girl shot Ling Qi an incredulous look over her shoulder.
+
+The fourth realm spirit looked down upon them, his inhuman face unreadable. “I am not much bothered by your game, and your music is pleasing to mine ears. Few mortals so well capture the clash and clamor of my realm,” the spirit rumbled. “However, the King’s ire threatens to drown the land, and my court must keep order. Now is not the time for revels.”
+
+They both dipped their heads, Ling Qi in chagrined apology and Yu Nuan still mostly in fear. “Let us cease distracting you then, Lord of Storms,” Ling Qi said as eloquently as she was able.
+
+“I thank you for your kind words and forgiveness,” Yu Nuan added in a tight voice.
+
+Ling Qi began to withdraw only to stop dead as the spirit threw out his empty hand. “Nay, children, I will not end your quest in failure. The drums of war beat in mountain and glen, in the sky, and below the earth. Thou desirest a hound, and so thou wilt have one, little storm singer, in the hope that you might live and play in happier days.”
+
+Ling Qi looked on blankly, her eyes wide as the spirit let out a shrill whistle despite lacking the anatomy for it, and a great shaggy thunder beast bounded out of the churning clouds, padding up to them with a booming bark. She only blinked when the spirit beast licked Yu Nuan’s face with a tongue of crackling lightning, making the girl’s hair frizz outwards with static.
+
+Yu Nuan spluttered, not harmed by the electricity but just as stunned as Ling Qi. “Just like that?” she asked incredulously.
+
+“Hoho, call it an old man’s whim,” the spirit chuckled. “When the King no longer hangs in the sky, seek out the Thunder Palace. Too long has it been since new talent warmed my hall.”
+
+Then he was gone, taking the pack and the herd of lesser spirits with him in a single flash of lightning, and they were left floating in the clouds, kept company only by the massive thunder beast. It let out a cheerful wuff that sounded like a gale wind and regarded them with a panting dog-like grin.
+
+“... That’s what people mean when they talk about your luck, huh?” Yu Nuan asked.
+
+“Yes,” Ling Qi admitted uncomfortably.
+
+“I guess I can’t complain,” the older girl huffed, reaching out tentatively to scratch the panting beast under the chin. “Thanks.”
+
+“Any time. Do you want to do the binding here or down on the ground?” Ling Qi asked.
+
+“Best get it done now before the world decides to make sense again.” Yu Nuan laughed.
+
+Ling Qi nodded as Yu Nuan began the binding ritual. She thought the girl was being a bit over dramatic, but she was glad to see someone else having good fortune. Still, with her obligation repaid, she should start checking up on everyone.

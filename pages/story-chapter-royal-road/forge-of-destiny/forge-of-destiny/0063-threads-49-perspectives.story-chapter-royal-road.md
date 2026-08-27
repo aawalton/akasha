@@ -1,0 +1,137 @@
+---
+id: d733389c-f857-53fe-914c-4311af69749a
+page-type-slug: story-chapter-royal-road
+title: "Threads 49-Perspectives"
+slug: 0063-threads-49-perspectives
+partOf: forge-of-destiny
+position: 63
+ownLength: 2604
+unit: words
+publishedAt: 2021-02-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/631163/threads-49-perspectives"
+royalRoadId: "631163"
+---
+
+Li Suyin allowed herself a small smile of satisfaction as she placed the last of the seeds into the jar of preservative and tapped the lip, activating the sealing formation on the container. Humming to herself, she collected the discarded rind of the fruit and brushed it into the bin beside her work table where they would be stored until they could be ground up and converted to feed for higher quality livestock back at the Sect proper.
+
+With that, she was done for the moment. With little medical work to do, she, like the other crafting students in the supply train, had been set to processing reagents collected by the army’s foragers. It was simple, tedious work, but Li Suyin knew it had to be done, and she was happy to do it. Li Suyin glanced out of the back of the wagon at the passing landscape and took a moment to admire the misty valley that spread out below.
+
+Idly, she drummed her fingers on the rough work table, the chitin claws that tipped the fingers of her new glove clicking lightly on the wood. It was strange. Here, working for the betterment of the Sect, she was more idle than she had been since her expedition with Ling Qi. She had been studying, dissecting, building, and crafting almost nonstop for weeks, pausing only to finally make her breakthrough into the third realm.
+
+The time had been fruitful though. The supply bags Ling Qi had taken were full of interesting things, and her glove was one of those innovations. It had been crafted from spider silk and the chitin of that third realm beast which had nearly collapsed the ceiling and treated with certain substances taken from that bag. Between the absorbing and consumptive properties imbued into the silk, Li Suyin was rather proud of the custom-built venom injectors in the claws, which greatly improved the efficacy of the arts she had received from Zhenli’s broodmother.
+
+“All finished then, Li Suyin?” asked a voice from behind her.
+
+Li Suyin turned to look at her work partner, seated at the bench affixed to the opposite wall of the wagon. Du Feng was a tall boy, although shorter than her friend Ling Qi. With handsome aristocratic features and dark blue, almost black, hair worn in a top knot, he was not the sort to stand out among their more colorful peers. The elaborate cut of his dark blue robes did give him a certain refined air though, Li Suyin supposed.
+
+“I am. You are as well then?” Li Suyin asked pleasantly.
+
+“Yes,” Du Feng said, idly cracking his knuckles as he glanced out the back of the wagon as well. “Are you still comfortable in your gown?”
+
+Li Suyin was glad that there was no one else here or she might have been embarrassed. However, the normally inappropriate question was only fair since the gown had been a joint project between her and Du Feng. She glanced down at the flowing silk of her new gown, pale lilac with highlights of darker pink and purple. The glimmering hints of silvery filaments were barely visible in the gown’s resting state. She pulsed her qi, and they twitched, sending a shimmering, hypnotic ripple through the silk.
+
+“Very much so. The wire has not chafed at all. It is truly lovely, Du Feng. I cannot wait until I can use its full functionality.”
+
+“A gown can only be as lovely as the girl wearing it,” he said lightly, looking at her over the narrow lenses of his spectacles. “And it could not have been half as well constructed without your help.”
+
+Li Suyin felt her cheeks color and glanced away. She was aware that Du Feng perhaps fancied her, just a little. However, she was never entirely sure how to react in the face of that. She was hardly a beauty, and her disfigurement had not helped matters. She did not want him to make a mistake when he could do so much better than a petty, stubborn, and mediocre girl like her.
+
+“You are too kind,” she replied evasively. “Really, it is only your work that allowed the whole project to come together.”
+
+“I suppose we will just have to take equal credit then,” he laughed. She thought that he had a rather nice laugh. “What do you make of this expedition so far?” he asked.
+
+“I am sure they have a reason to bring so many auxiliaries,” Li Suyin demurred. Even if it meant that they were left with little to do, having the workload split so many ways.
+
+“Very much so. It would not do for artists such as us to have to risk ourselves. I am glad that the Sect is so cautious,” Du Feng said with a smile.
+
+Li Suyin nodded, maintaining her smile. That… was the other rub. It was unfair of her, but she had grown up with tales of chivalrous warrior poets and brave and clever hero scholars. Though she had been disabused of the notion that the real world allowed for such pure images to exist, some part of her was still the little girl who had sighed over such stories and wanted a hero of her own. It was one reason why she had kept her latest project a secret. It was just too embarrassing…
+
+Before the conversation could continue, Li Suyin heard a noise, and the wagon ground to a halt. “Disciple Li!” called the voice of their driver. “We have an injury ahead. Proceed to the front.”
+
+She shot an apologetic smile to Du Feng. “It seems that duty still calls,” she said.
+
+“Of course,” he agreed. “Do not let me hold you up. Stay safe, Li Suyin.”
+
+***
+
+The crackle of flames mingled with the popping sound of bursting insects was a delightful backdrop, Gu Xiulan decided, observing her work with satisfaction. Before her, the whole of the tainted grove with its twisted and bloated trees, unwholesome growths, and miasmas of sickness and vermin burned. Roaring flames consumed twisted bark, and trees crumbled, bleeding blood-like sap as the jets of flame pouring from her outstretched hands roared forth. Wispy blue with cores of bright white, the purifying flames consumed it all, muddy earth flash boiling and stagnant streams exploding into steam as she poured heat and destruction from her hands.
+
+The disease spirits in the air, taking the form of vermin and sickly miasma, billowed out, threatening to engulf her, only to wilt and die at the sheer shimmering heat of her aura, and strong buffeting winds blew the rest back into the inferno.
+
+She was not the only source of flame; several other disciples surrounded the grove, casting their flames as well. But even if her blood was diluted, she was a daughter of the Purifying Sun, and no other’s flames could cleanse such filth more efficiently.
+
+A groaning tree, its bark licked by flames, uprooted itself, a subsonic groan emerging from its burning leaves and a facsimile of a face twisted in hatred forming on its trunk. As it began to bend its boughs toward her, stones erupted from the ground, impaling scrabbling roots, and heat blackened earth softened, dragging the tree back into the earth. Gu Xiulan smirked, sparing a smile for the grim faced Shen Hu, who stood beside her. The thing howled and thrashed as she let the lightning in her veins free. The pale scars on her face crackled, and a searing bolt of lightning cut through the smoke to strike the thrashing tree, followed by another and another.
+
+Each strike brought a scream and a scattering of sparks as wood split and sap boiled. Above Gu Xiulan, Linhuo laughed, fluttering out on electric wings to circle the smoke. Linhuo’s newborn siblings, sparks birthed by the striking lightning, were called to her in a cloud of cruel fey laughter, and they spread the blaze further.
+
+Most importantly, Gu Xiulan could feel the gazes of the sect soldiers on her back. It was good to be reminded that for all that she was often overshadowed, she was nonetheless a noble, whose power overawed her lessers. Were it not for her, these men and women would be forced to painstakingly cleanse this land with their much weaker techniques. They would fight a bitter battle every step of the way and be hurt and infected by the spirits of disease.
+
+How fortunate for them, then, that she would bend her powers to such a task. Their awe and adulation allowed her to ignore the unending throb of pain from her burned arm for a while longer.
+
+“Thank you for your efforts, Junior Sister. But that is enough.”
+
+Gu Xiulan glanced to the side where her commanding officer stood. Diao Gen was a handsome man and a scion of the second most powerful family in the Emerald Seas.
+
+“I am not exhausted yet, Senior Brother,” Gu Xiulan said, smiling warmly as the flames continued to pour from her hands.
+
+“Of course not,” he chuckled, gazing appreciatively into the flames. “But it is time for phase two. If Junior Sister would join Disciple Shen, you may begin putting down the malevolent spirits in detail while I and the soldiers began reclaiming the soil.”
+
+***
+
+Shen Hu watched the burning grove with an unhappy frown. This was ugly work, and he didn’t much care for it. But the screams of diseased beasts, the popping and cracking of boiling sap weren’t unfamiliar to him. The Shen family wasn’t so fancy that they got to avoid ugly work. Let disease spirits fester, mess around with half measures and laziness, and then, they end up with a plague on their hands.
+
+And these were no meek little spirits of rot sickness borne from meat left out to spoil. His grip on his elbows tightened, fingers growing white as he felt something unwholesome, swollen, and tumorous in the earth try to rip free as the flames scorched its moist hide. He saw a slick, sickly yellow tendril rip free, thrashing until it was consumed by white hot flame.
+
+He listened with half an ear as their commander gave them new orders. He already knew where the first stop was.
+
+“Understood,” he said aloud, acknowledging the order. Lanhua bubbled within his dantian, unhappy with the heat, but her mud began to puddle around his feet anyway, rising up to armor his limbs.
+
+“Understood,” said the girl beside him sweetly, letting the jets of flame erupting from her palms sputter out.
+
+Diao Gen gave them both a cheerful nod, striding off to give commands to the rest of their unit, while they stepped into the flames. The inferno parted around their feet, licking heatlessly at their legs as it closed behind them, leaving the soldiers to begin shrinking the perimeter.
+
+“There was no need to call on your spirit,” Gu Xiulan teased. “I’d have not let the flames touch you regardless.”
+
+“Why have one line of defense when you can have two?” Shen Hu said lazily. “First target is about three meters to the right past the big stone.”
+
+Gu Xiulan sniffed haughtily, stepping daintily over the charred corpse of something four-legged and furry; he couldn’t say what it might have been before. “I suppose. Convenient, then, that I have you,” she said with a dazzling smile.
+
+Shen Hu grunted with acknowledgement. He still didn’t know what to make of her. This wasn’t exactly the place for flirting, and Lanhua burbled an irritated agreement in his ears. It hadn’t taken him that long to figure out what she was doing. He just had no idea what to do about it.
+
+She was probably just playing around to get a rise out of him. That’s what he chose to believe, anyway. He’d have no idea what to do otherwise. If he just acted oblivious, she’d eventually get tired of it and stalk off. “It’s here. Some kind of plague boil. I’ve got it trapped.”
+
+Carefully, he parted the boiling mud between two crumbling trees, revealing the pooled sickness beneath the surface. The smell that billowed out was a mix of long spoiled meat and sickroom stench. Beside him, Gu Xiulan’s face twisted in disgust. “Ugh. Hold it a moment longer. I shall need a few seconds to charge something suitable.”
+
+Shen Hu shied away at the sheer size of the orb of flame that bloomed between her hands, more layers of mud pouring out to shield him from the heat that threatened to ash everything within a good two meters.
+
+Well, at least Gu Xiulan was distracted. Maybe ugly work wasn’t so bad after all.
+
+***
+
+They boiled from the earth like black flame. Eyes and mouths that were like crimson tears in black fabric let out echoing wails fit to freeze the soul as flickering hands reached for her throat, their spiritual being made material by the raw resentment and envy which the wraiths felt for those who still had the temerity to draw breath.
+
+The first collapsed in twain, split in half by a whispering hiss of metal and a flash of white. The second and third burned, spectral flesh boiling away into oily smoke where her radiance fell.
+
+Thwip. Hiss.
+
+Thwip. Hiss.
+
+Where Cifeng passed, the unquiet dead were cloven in twain, and when her stride brought them into her light, even the pieces were no more. It was necessary to take these foes in this inefficient manner. Should she unleash her primary skills, the ruin and the shrine it contained would be damaged, and that would only make the problem worse.
+
+Their wails were unpleasant, scratching at her ears, trying to pull despair to the surface. Where her blade cut them, they tried to show her blood and flesh instead of smoke and dust.
+
+But the dead were the dead. They were echoes and remnants, nothing more. These people had been slain long ago, laid low by arrow and trampling hooves, before her mother had even been born and before her grandfather had even begun to cultivate. It was a sad thing, but at least this blood was not on her hands. The tendrils of lingering malevolence crawling across her thoughts could not change that.
+
+She raised her hand, preparing to signal her compatriots to follow. Diamond formation, the priest they were escorting at the center with herself at the front point—
+
+<Prepare a diamond formation around the subject. Disciple Cai, advance ahead of the group and sweep the premises.>
+
+Cai Renxiang did not allow herself a frown as she lowered her hand, instead moving into position, dispelling another three wraiths which rose to challenge her. Core Disciple Jia Song was a somewhat difficult commander. She did not resent being ordered ahead. These foes were no threat, but they already knew the layout.
+
+If she were uncharitable, when placed alongside similar orders, she might come to the conclusion that the young lady was taking some petty pleasure in being able to command her. However, there was no call to assume such. More likely, there must have been some facet of the situation which she was blind to.
+
+Liming’s cloth rippled, a low growl of leashed bloodlust echoing more loudly in her thoughts than any phantom wails. The reputation of her mother’s work made any truly untoward motive vanishingly unlikely.
+
+Yes, something missed or a touch of petty pride and no more. In either case, she would perform her duty to specification.
+
+Cai Renxiang strode into the cloud of malevolence which rose from the ruined fort, and it parted like the sea before the bow of a ship.

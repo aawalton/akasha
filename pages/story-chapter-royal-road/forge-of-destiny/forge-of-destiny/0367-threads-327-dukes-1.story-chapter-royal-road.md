@@ -1,0 +1,173 @@
+---
+id: 97a95123-da17-51cf-9ffd-ca8533c68495
+page-type-slug: story-chapter-royal-road
+title: "Threads 327-Dukes 1"
+slug: 0367-threads-327-dukes-1
+partOf: forge-of-destiny
+position: 367
+ownLength: 2747
+unit: words
+publishedAt: 2023-08-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1310785/threads-327-dukes-1"
+royalRoadId: "1310785"
+---
+
+Outside, heading down the stairs, Ling Qi glanced at her companion. “So, as one more informed about the celestial spheres, how concerned should I be?”
+
+“You should be quite terrified. It is likely that the sky will fall, clawed to ribbons from below as well as above,” Meng Dan said pleasantly.
+
+Ling Qi gave him an unimpressed look.
+
+“Ah, you doubt I would hold my composure if it were so? Lady Ling wounds me.”
+
+“I would think less of you if I thought you were so detached,” Ling Qi retorted.
+
+“That is also fair,” Meng Dan said, smiling. “In truth, I don’t know enough. There is something terribly dangerous in the south, but if our guests are here for this little talk, they cannot find it too immediately concerning.”
+
+“True. If I am to respect them as peers, I can’t assume they’ve missed an immediate catastrophe brewing overhead,” Ling Qi mused. She still wanted to know more if it could be related to that awful thing the Twelve Skies Confederation had backing them.
+
+“From the context we have sussed out, it is a matter they are long used to, even if the severity is waxing. I am not too troubled that I must talk my uncle around on this. Thankfully, he is enough of an academic himself that I am sure I can prevail with him… Would you care to meet with me over tea and hash out the details of our proposal before month’s end?”
+
+Ling Qi glanced his way as they reached the bottom of the stairs. It was purely work, but she knew some part of her previously would have still backed away from it given her realizations as to Meng Dan’s.
+
+“Yes. Once I have finished with the first ducal meeting, I’ll send you a note with a time.”
+
+“I’ll be quite busy myself, so we may have to haggle on the time.”
+
+“We’ll see how it works out. I’m sure the two of us can find a single hour to shake free somewhere. Good luck, Meng Dan.”
+
+“I am not the one who must keep a meeting between our ducal guests calm and civil,” Meng Dan observed. “Please, Lady Ling, it is you who require all the good fortune here.”
+
+Ling Qi smiled, inclined her head in acknowledgement, and left the observatory behind.
+
+***
+
+Ling Qi was glad to see her best friend again, even if the situation didn’t allow them to be as casual the way she might have liked. “Lady Bai, I am honored by your request to guide you to the meeting.”
+
+“It is nothing, Baroness. You are our ally’s trusted retainer. It is only natural that we allow you to escort us,” Bai Meizhen said coolly, but Ling Qi could detect her amusement.
+
+The Bai delegation had been waiting for her at the small square outside of their ambassador's housing at the foot of the cloven mountain. Xiao Fen was with Meizhen of course, lurking a step back from her mistress and seemingly looking at everyone and everything nearby at once. She was sure it would be menacing, if Ling Qi had not seen the girl’s expression scrunched up in frustration or embarrassment before. Xia Anxi was with her too. It looked like he’d finally given in to the climate, and he was wearing a fine fur-lined jacket instead of flowing robes.
+
+“Nonetheless, I must also thank you for agreeing to the imposition of this meeting and for accepting my role as a mediator speaking in my lady’s name.”
+
+“Of course. It is unfortunate that others have put their noses where they are not needed, but we understand that Lady Cai must make certain… accommodations,” Bai Meizhen said. “Let us walk, Baroness.”
+
+“Yes, your understanding is most helpful,” Ling Qi said, falling in beside them.
+
+She was glad that Meizhen was the one here. The message from the Western Territories delegation, stating that they might be attending the meeting, was rude, but not to the level she could call them out on.
+
+“Has my retainer been of use to you?” Bai Meizhen asked.
+
+“Lao Keung has been a great boon. His presence has freed all of us to focus here on the summit. How have your accommodations been?”
+
+“Acceptable, given the hasty nature of this construction. I heard there was some trouble earlier?”
+
+“A minor construction accident. Only minor injuries.”
+
+“This is why going from hard to soft negotiations is a poor idea. You will only confuse the spirits like that,” Xia Anxi chided.
+
+“Well, I won’t say there is not some confusion in how we mean to go along, but it’s being resolved. I must say, I’m impressed by the observatory and its grounds. I think that will lend some value to this site, no matter the results of this negotiation with the White Sky Confederation.”
+
+“The existence of an observatory is a bold statement of confidence in holding these lands,” Bai Meizhen allowed.
+
+“It's a shame that I haven't had the chance to inspect it myself,” Xia Anxi lamented.
+
+“Mm, you are an astrologer, aren’t you? I have been told they have already made some interesting observations on the night sky, even if the specifics are mostly over my head,” Ling Qi said.
+
+Not that he would be granted access. If the Meng were a bit grumpy about negotiating foreign access, they’d be downright hostile to the Bai.
+
+“A shame,” Xia Anxi repeated. “It really is curious, the emanations from the sky in the far south. So curious.”
+
+“You’ve been studying such phenomena?” Bai Meizhen queried.
+
+Xia Anxi still straightened up perceptibly when addressed by Meizhen, but it seemed like he was a little less jumpy than before.
+
+“Only in private moments, and with personal tools, Lady Bai.”
+
+“I can’t say I find the sky particularly interesting, but I have no objections.”
+
+“Baroness, will the Jin scion be joining us today? I am aware of invitations to the Zheng and the Xuan, as well as the… westerners, but I have not heard of the northerns.”
+
+“He will not since he is acting here only in his capacity as a junior agent of the Ministry.” Ling Qi replied. “I know little about either the Zheng or the Jin.”
+
+“Prideless,” Meizhen judged disapprovingly. “The Jin are the remnants of the Jing clan after the Jing left the empire long ago. They are tightly entangled with the capital.”
+
+“Ah, I see. Those are confusing names. So similar. But if they were a branch clan, the similarity makes sense. Only… how does one leave the empire?”
+
+Xia Anxi interjected, “I am told the names sound more distinct in the north’s dialect. Jeung, or something of the sort? The Jing backed the usurper Shang in the Strife, and their shipbuilding and his artifice allowed them to carve their three great port cities out of the coast and sail them away. An audacious action. They may have backed the wrong claimant, but one does have to admire their pride.”
+
+“Indeed,” Bai Meizhen agreed. “The Jin left behind were organized by the throne and… were given their dukedom.”
+
+Ling Qi did not miss the unsubtle disdain that threaded through the word “given” there. To the Bai, who had once been kings and queens in their own right and had held their place of ruling the Thousand Lakes since before the dawn of written history, being given a dukedom was an indication of weakness and an insult. The Cai were absurdly young to their sensibilities, but Cai Shenhua had not been given much at all.
+
+“And the Zheng, by contrast, are the only remaining direct peers of the Bai clan?” Ling Qi asked in clarification.
+
+Meizhen pursed her lips. “... They are the only ones who can compare to the weight of our history.”
+
+“But you would be wise not to view them through our lens,” Xia Anxi cautioned. “The Bai and the Zheng clans could not be more different.”
+
+“I have picked up that much. I have not even been able to determine who their current duke is,” Ling Qi complained.
+
+“It seems the position is being argued over. Unlike more civilized folk, their duke only holds the position for a span of a few decades before passing the position along to another relative of proper cultivation,” Xia Anxi said. “It is shocking that they don’t have strife over this more often.”
+
+“Yet they do not. I had not heard of the Zheng being so divided over the matter though. I understand their elite view the position as both troublesome and perfunctory, an unwelcome imposition on their time and cultivation. The difficulty is usually in finding a candidate that can be pinned into the position at all by their elders, rather than too many claimants,” Bai Meizhen said.
+
+Ling Qi shook her head. “How strange.”
+
+They were passing alongside the mountain stream that ran through the valley now on a road paved to follow the curves of its banks. It was certainly a different sight from the first time they had been here. The dense foliage and oppressive atmosphere had been replaced with the sun shining down on sparkling, burbling waters, running shallow over smooth river stones and eddying around boulders and little strips of overgrown sand and soil.
+
+They could have been at the meeting site in moments, but it was rude to ask her guests to sprint. And this was a nice walk. Ling Qi observed some flower petals bobbing along the flowing water.
+
+Still, she was curious, and this was a good opportunity to get some perspective on the wider empire, if through a somewhat biased lens. She did love her friend, but she wouldn’t deny that Meizhen was thoroughly loyal to her clan.
+
+“They are very strange, aren’t they?” Ling Qi raised. “The Zheng do not seem to participate in the empire much. They have no kin ties outside of their province. No individual Zheng seems to own any particular land or significant property outside of the Ebon Rivers, and records within are difficult. I think I remember hearing Lady Cai say they don’t recognize marriage at all. How do they…”
+
+“Function?” Meizhen finished lightly.
+
+Ling Qi inclined her head in acknowledgment. “I would never presume.”
+
+“Zheng do not raise their own children or even recognize blood parentage as significant,” Bai Meizhen explained. “I understand that they parcel out children born in the same year into small groups which are given over to a mentoring cultivator to raise as the primary caregiver with communal assistance. This is what they mean when they call another ‘bond-sibling.’ They regard the imperial institution of swearing oneself an oath sibling as a devolution of their practices.”
+
+After a long beat to make sure Meizhen had finished speaking, Xia Anxi offered cautiously, “That is not a completely wrong conception. The practice has its roots in the early first dynasty armies under the Sage Emperor, of which the Zheng were a part. Their claim that the sect system is only copying them is far more dubious.”
+
+“It is not totally unlike the practices of the Viper, although much inferior,” Xiao Fen said grudgingly. “There is no discipline in their method, and they have none of the clarity or guidance we have.”
+
+Ling Qi very deliberately did not react. From the little she understood of the Black Vipers, their methods of childrearing were… Well, to be blunt, they were awful. They were designed with the intent of preventing the young viper from forming any emotional connections before they were assigned to their white serpent. Frankly, Xiao Fen’s complaint could only improve her view of the Zheng’s own practice.
+
+“That does explain the irregularities in the records. IIt also seems like it would make inheritance very difficult. I suppose that is why their elders just choose the duke.”
+
+“Correct. Individual Zheng do not own external property due to some law of theirs, and their inheritance laws do not recognize patrilineal descent at all, which causes some snarls with imperial law. This makes it difficult for them to operate directly in the wider empire since imperial property law does not fully recognize their arrangement. I understand they have some ways around this though. Xia Anxi?”
+
+“Of course, my lady. I am no expert, but the illustrious violet caste has enough duties in production and movement of goods that we must learn a little of such things to manage our subordinates.”
+
+Ling Qi recalled the disdain Meizhen had always shown for mercantilism in prior conversations with her. She felt a bit bad for him having to dress it up so round aboutly.
+
+“External Zheng interests usually operate through trading houses. In theory, these belong to some trusted subordinate, but in practice, they are ‘resold’ to a member of the Zheng clan as a whole upon that person's death. There is room for interference in this, legally speaking, but…”
+
+Of course, even if they presented a kinder face than the Bai, the Zheng were still an ancient clan that had stood since the time of myth. Who would dare?
+
+“So they are still intertwined with the other provinces. One merely has to look deeper.” Ling Qi nodded in understanding.
+
+“They are insular. All of this business is unusual. They are a people very much interested in cultivating their own yard over claiming others since the end of the first dynasty. The last time they moved so strongly was in support of the usurper Shang and in opposition to us, the Bai, as the supporters of the true emperor. They were forgiven in exchange for changing sides in the end when the usurper was revealed to have become a corpse-immortal. For all their bravado in personal conflicts, the Zheng have always proved somewhat timid in larger politics.”
+
+Ling Qi glanced at Meizhen out of the corner of her eye. “I am sure that there would be some objections to that statement, if said to their face.”
+
+“Oh, indeed. Do not worry, baroness. I am not looking to provoke a brawl,” Bai Meizhen reassured.
+
+“Your forbearance is exemplary,” Ling Qi said. She kept her expression perfectly blank.
+
+Meizhen smiled. Xia Anxi narrowed his eyes a bit.
+
+“In any case,” Meizhen said, breaking the silence, “individual Zheng are difficult to predict. It is true that in our history, we remember the grinning brutes who took and conquered and claimed at their will and who trampled and drank and laughed amidst the ashes, filling their great cavern cities with the wealth of wide lands, but the more common modern example is more like our guest, disconnected, rude drifters who are nonetheless bound to their own strange rules of propriety and disdainful of the rules of others. What exactly their aim is here, I cannot know.”
+
+“They have softened greatly in their splendid isolation,” Xiao Fen said haughtily. “But if they had truly forgotten the Way of the Conqueror, the face of their founder, they would not be so mighty still.”
+
+“We are the ones known for our vengefulness, but we are merely being honest. Who may stand at the pinnacle and not crush any who challenge their primacy? You may see it in how totally subservient the Zheng’s vassals are. Not a single organized rebellion in their history,” Xia Anxi pointed out.
+
+“That is to be expected when they send out their younger generation to act as wandering ‘heroes’ quashing villainy, as a part of their education,” Meizhen said dryly. “Given the results and the current situation, we cannot say these methods are totally without merit…”
+
+Considering Sun Shao’s great rebellion, it would be rather absurd. She also understood that her friend was significantly more progressive than the average white serpent to even imply the possibility that they were the ones who had been in error in any way.
+
+Their path had taken them along the winding stream but now diverged, rising over shallow steps that carried them gradually to the top of an idyllic wooded hillock. At the bald crown, there was a stone platform dug into the earth on which a table made of polished stone was set. Round and surrounded by curved benches, it was a place to sit in the sun, take in the view of the mountain stream, and discuss business with a friendly air. Columns stood at the four corners, and Ling Qi knew that there were simple storage arrays in them with everything needed to assemble a pavilion in poor weather.
+
+They were greeted with a crash.

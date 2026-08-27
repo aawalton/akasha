@@ -1,0 +1,207 @@
+---
+id: caf6d424-3c87-573d-8225-04564d055447
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 2"
+slug: 0009-threads-chapter-2
+partOf: forge-of-destiny
+position: 9
+ownLength: 3412
+unit: words
+publishedAt: 2020-10-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/574917/threads-chapter-2"
+royalRoadId: "574917"
+---
+
+Ling Qi carefully blotted the ink on the last string of characters describing the qi circulation exercises they were to practice before the next lecture. Elder Hua’s form was already dissipating into mist, and the low buzz of conversation among the disciples was resuming, even among those nearby. It seemed that the initial reaction to Meizhen’s presence had been one of surprise for the most part.
+
+“Ling Qi,” Bai Meizhen spoke, catching her attention. “What are your plans for this week?”
+
+Ling Qi blew on the drying ink one last time and looked up. “I’m not sure. I’ll be cultivating at night and in the evenings, but I don’t really have my days planned out yet. I was going to be discussing that with Lady Cai later, I think.”
+
+“I see,” Meizhen replied, pursing her lips as she stood, her white gown shimmering like water under the pale light in the grotto. “Will you be visiting the town in the foothills?”
+
+Ling Qi nodded, beginning to pack up her utensils and notes. “I’ll want to visit my mother sometime, sure.”
+
+“Inform me when you intend to do so, and make plans for a further stay before or after your visit,” Meizhen said crisply. “There is someone I should be introducing you to.”
+
+Ling Qi blinked, pausing in her clean-up. Looking up at her friend, she felt a thread of concern. “... This isn’t a marriage thing, right?”
+
+She saw a flicker of horror in Bai Meizhen’s eyes. “No, of course not. It is only one of my lesser branch cousins. Certain things need to be made clear,” she replied hurriedly.
+
+Ling Qi let out a breath of relief. She had thought maybe something had been arranged for Meizhen, but that was fine. Since she knew Meizhen wouldn’t specify any more about this meeting in public, she replied, “I’ll let you know tomorrow then.”
+
+Bai Meizhen gave her a small nod, and they parted ways as Ling Qi finished packing. Weaving through the crowd, Ling Qi soon caught up to Li Suyin in the paved plaza outside the grotto.
+
+“Wait up, Li Suyin,” she called to catch the blue-haired girl’s attention.
+
+“Ling Qi?” Li Suyin replied, sounding befuddled as she stopped and turned around. “Is there something wrong?”
+
+Ling Qi felt a pang at the response. Did they not get together after almost every lesson in the Outer Sect? She supposed they had drifted apart a little in the second half of the past year.
+
+“Nothing, nothing,” she reassured Li Suyin, falling into step beside the shorter girl. “I just thought it might be fun to catch up a little, and you could show me what you’ve been working on. I’m curious, you know?”
+
+“Oh? I don’t mind at all,” Li Suyin said with a smile. “We’ve both been so busy, so…”
+
+“Right?” Ling Qi agreed with relief. “Besides the horror project, we haven’t had much time to talk.”
+
+“It really was a fascinating project, wasn’t it?” Li Suyin replied wistfully. “I’ve managed to repurpose the scout formation a bit since then as well. If you would like, I could show you.”
+
+“Sure,” Ling Qi said as they took one of the paths leading up the mountain, filling the air with chatter about Li Suyin’s work on developing the Ossuary formations away from their roots.
+
+Like Ling Qi, Li Suyin ranked above eight hundred and fifty, and so she too had a single home set into the side of the mountain without immediate neighbors. Their abodes were identical in layout and design, though the scattered notes and formation designs that littered the place gave it a much more lived-in feel than hers.
+
+As the smaller girl led her back toward the workshop, Ling Qi decided to fill the silence. “How did things go at the tournament anyway?”
+
+For a moment, Li Suyin looked puzzled, but then understanding dawned. “Father was distraught and angry at my injury,” she answered with a sad smile. “Mother and I talked him down from attempting to file a legal suit against the girls involved. It would not help given our relative positions.”
+
+Ling Qi grimaced. She wasn’t a legal expert at all, but that was obvious to her. Even if Imperial law technically gave mortals the right to do that kind of thing, it was useless for even a wealthy mortal family to go against a noble clan without an equally ranked backer. “They weren’t too mad at you though?”
+
+Li Suyin shook her head, turning to open the workshop door. “Mother was put out with me for deceiving them, but… she understood, I think. We spoke of it.”
+
+Ling Qi nodded and didn’t press further. Anything further would be private. She moved to follow Li Suyin into the workshop, only to pause on the threshold. The interior had already been much changed compared to her own home. Hammocks of spider silk hung from the web-coated ceiling, and even the walls had been buried under a layer of silken threads. On the unwebbed surfaces, dozens of tiny rodent skeletons scurried about, small objects grasped in their bony jaws, while others stood completely still in neat rows around the room’s perimeter.
+
+“You’ve really spruced the place up,” Ling Qi said dryly, carefully stepping inside to avoid crushing the tiny assistants.
+
+“It is all thanks to Zhenli,” Li Suyin replied cheerfully. “Zhenli, I am back, and we have a guest!”
+
+Ling Qi looked up at the sound of chitin scraping against chitin. In the far left corner of the room, the webbing grew into a bulbous nest as large as a full grown man. From it emerged her friend’s spirit. The last time they had met, the spider had been small enough to fit in her palm. Now, the arachnid was the size of a small cat, and pale pink chitin and the thick fuzz that grew from it shimmered with a rainbow of hues. Li Suyin’s spirit beast had reached the peak of the first realm now.
+
+“Zhenli greets Sister Suyin,” the spider’s voice whispered in the back of Ling Qi’s skull. Her jaws worked and her frontmost limbs wriggled warily as her attention turned to Ling Qi. “Zhenli greets the Ling Qi and the moonchild too.”
+
+“Don’t pay me any mind,” Sixiang said, seemingly awakened from the bored quasi-sleep they had sunk into during the lecture. “Grandmother doesn’t stand on ceremony, and neither do I. Just tell your kin to keep the good stuff coming for the next party!”
+
+“Zhenli will pass the message.” The spider let out a high-pitched physical chitter, turning her attention to a bemused Li Suyin, who was looking curiously at Ling Qi. “Does Sister need Zhenli for anything?”
+
+“No, it’s fine. You can return to your preparations. I wish you luck,” Li Suyin answered, earning another chitter in response as the spider practically dove back into her nest. “Zhenli is going to be breaking through soon,” she said, answering Ling Qi’s unasked question.
+
+“You better watch out, or she’s going to surpass you,” Ling Qi teased.
+
+Li Suyin grimaced. “I have neglected my base cultivation recently, haven’t I?” she lamented. “I intend to fix that soon. I cannot afford to idle away in the second realm now that I have ended up here somehow.”
+
+“Somehow, nothing,” Ling Qi scoffed, taking a seat on one of the benches and scattering the skeletal servitors in her wake. “You earned your place.”
+
+“Perhaps,” Li Suyin replied with a self-deprecating smile as she moved further into the room to examine a tray of familiar, carved bone wands. “Anyway, who was Zhenli speaking to there?”
+
+“Ah, I guess I’ve never introduced you,” Ling Qi said self-consciously. “My second spirit, Sixiang, is a bodiless moon muse. Speak up, will you, Sixiang?”
+
+“Well, if I have permission,” Sixiang huffed. “Hello there! Your little friend’s family produces some interesting stuff for mine is all.”
+
+“I see,” Li Suyin said, still seeming unsure. “In any case, you were interested in my project, right, Ling Qi?”
+
+“Yeah, I’m not an expert, but a whole lot of people who were, seemed really interested in your work,” Ling Qi expanded.
+
+Her friend hesitated before opening a drawer and removing a small glass-covered case. Turning back to face her, Li Suyin brought it over to the table she was seated at. Inside the case were six black spheres, each perhaps two centimeters across. “Su Ling and I discovered a cave several months back. The sinkhole in the forest seemed to have opened it up,” she explained.
+
+“Did it now?” Ling Qi asked with concern. “Wasn’t that closed off by the elders?”
+
+“We did not go in until after it was opened again,” Li Suyin reassured her. “The cave was more of a shaft leading straight down for some distance, but at the bottom, we discovered a cave inhabited by all sorts of strange creatures. We harvested a large number, but we did not explore far. The beasts grew stronger very quickly as we went further down.”
+
+“Those are cores then?” Ling Qi asked, peering down at the black balls. Somehow, they didn’t seem like it.
+
+“That’s just it. They didn’t react like cores at all,” Li Suyin gushed. “They poisoned and ruined every mixture we tried to use them in.”
+
+“So what are they then?” Ling Qi asked. “And how did you find a use for them?”
+
+“Well, I had noticed that their aroma resembled that of the impurities flushed out during a cultivation breakthrough,” Li Suyin continued cheerfully. “As it turned out, that was the key. These cores are saturated with impurity, but it is possible to strain it out with certain processes. The remaining material acts like a magnet or a sponge afterward, drinking in impurities it comes into contact with.”
+
+“What is the rest of the talisman for then?”
+
+Li Suyin glanced to the side, rubbing her arm uncomfortably. “They control the forces inside the core. Without regulating formations and Zhenli’s web straining the impurities going in, contact with an empty core will rupture and poison flesh at and near the point of contact. It is very… messy.”
+
+Ling Qi grimaced. She got the picture. “That explains that. Have you told anyone else?”
+
+“I had a conversation with Elder Su regarding my project,” Li Suyin replied. “She said that the creation was incompatible with her Way but also that it seemed safe to proceed. I have been given dispensation to keep the source and materials secret for a ten year period while I develop my work, after which the Sect will begin letting other disciples experiment. Of course, if they discover it on their own…”
+
+“Good for you, Li Suyin!” It sounded like she was going to have a good foundation built before anyone else in the area could try muscling in on her discovery. “Do you think you could get better materials further in?”
+
+Li Suyin blinked. “I suppose, but…” She trailed off, and understanding lit in her eyes. “Would you?”
+
+“I’m not sure when I’ll have some time, but it sounds like an adventure,” Ling Qi laughed, but internally her mind was racing. The idea of an open cave under that sinkhole set something in her gut ill at ease, and the last words of the barbarian shaman echoed in her memory.‘Let the black spirits and the Gnawing Ones curse your very bones.’It could be nothing - the elders had even intervened, after all! But perhaps it would be a good idea to lend a hand, and get a look at just what was in there. For Suyin’s sake, if nothing else.
+
+“You could probably get a poem or two out of it, maybe even a song,” the spirit chimed in smoothly, covering for her momentary lapse in attention.
+
+Li Suyin bowed her head. “Thank you very much. I still have to wait for my dispensation to process among other things, but I will look forward to your aid.”
+
+“None of that, Li Suyin. We’re friends, aren’t we?” Ling Qi said cheerfully.
+
+Ling Qi remained with her friend for some time after that, their conversation turning to lesser projects like Li Suyin’s work on improving her silk guards. Soon enough, it was time for Ling Qi to go. She had an appointment to keep with Cai Renxiang.
+
+***
+
+Cai Renxiang’s dwelling further up the mountain was not much larger than her own, Ling Qi thought as she approached the door set in the mountainside. At Rank 810, Cai Renxiang lived in the tier above Ling Qi. Stepping up to the wooden portal, she knocked once and settled in to wait.
+
+She was not left for long. The door soon swung open, revealing her liege standing behind it. The passive corona of light which shone behind her head cast her shadow over Ling Qi. “Welcome,” she said crisply, stepping aside to allow Ling Qi entrance.
+
+“Thank you for your invitation,” Ling Qi replied politely, giving the proper bow for a vassal greeting their liege before stepping inside. The front room of Cai Renxiang’s domicile was about the same size as hers but better furnished. She suspected that the girl herself was the source for that though given that the room had been arranged to look rather more like an office than a sitting room.
+
+“I copied the elder’s lecture as you requested, Lady Cai,” she said as the shorter girl closed the door and swept past her, returning to the desk laden with sheaves of paper and scrolls set up against the far wall. “Have you made progress on your own projects?”
+
+“All of our necessities have been arranged for and filed,” Cai Renxiang replied. “And I have reviewed my resources and available intelligence. I will be prepared to attend our honored elder’s lessons on the morrow.”
+
+Ling Qi waited a moment for her lady to take her seat before taking her own. “Thank you for your efforts,” she said. “What intelligence are you referring to?”
+
+Cai Renxiang accepted the writing kit and notes as Ling Qi passed them over the desk before responding. “Information from disciples loyal to Mother, of course,” she said as she absently glanced over the notes. “Your calligraphy is improving. Continue working hard.”
+
+Ling Qi grimaced, getting the real meaning. Her chicken scratch was readable now, but her writing was not at the level expected of a noble. “Thank you. Am I going to be out of a job then?” she asked lightly.
+
+Cai Renxiang glanced up from the notes. “No. The disciples have been instructed to limit their aid,” she answered.
+
+Of course. Ling Qi wanted to sigh. The Duchess would not make anything easy for them.
+
+“That is not to say we are without benefits,” Cai Renxiang continued crisply, setting the papers down. “My allowance has been expanded significantly. I also have a package containing spirit stones and medicines for your use. I will give it to you when you take your leave.”
+
+“I did not expect any less,” Ling Qi said with some relief.
+
+“I promised benefits, and I will not break my word,” the other girl said . “I have also instructed the head of the Cai family’s archive to search out arts which may suit your inclinations. That may take some time to complete, and the results will be limited. I may only take so much of the Head Archivist’s time and resources.”
+
+Now, Ling Qi felt almost embarrassed. “You are too generous,” she said awkwardly. “I… Ah, did you have any tasks in mind for me then, Lady Cai?”
+
+Cai Renxiang leaned back in her seat, the light playing around her shoulders shimmering on the silk of her gown. “I will be holding monthly gatherings to build my influence in the Inner Sect. I will expect you to attend.”
+
+“Of course,” Ling Qi replied. What fun, she thought glumly, but at least she could…
+
+“You will be providing the entertainment,” her liege said bluntly, shattering her fantasies of hiding in a corner. “There is little point in wasting your talents. Your musical ability is a superior tool in the Inner Sect environment. I do expect you to keep your ears open, however, and to continue improving your other abilities.”
+
+<Hmph. She can at least see what good taste looks like,> Sixiang murmured in Ling Qi’s head, almost startling her.
+
+“I will do my best not to disappoint your expectations,” Ling Qi replied.
+
+“I trust you will not,” Cai Renxiang said confidently. “Other than that, do as you do. Make personal connections, and of course, should you overhear anything of interest…”
+
+“So make friends and eavesdrop,” Ling Qi said wryly. “You give me the most difficult tasks.”
+
+Her liege gave her a flat look over her steepled fingers. “You jest, but stripped of its pomp, is that not the task of the spymaster?”
+
+Ling Qi was glad that Cai Renxiang had recovered from dealing with her Mother. She had not liked seeing the other girl shaken and uncertain, and a return to Cai Renxiang’s dry humor was welcome. “I suppose it is,” she agreed lightly. “Is there anyone in particular I should be on the lookout for?”
+
+“Extend a hand to Xuan Shi,” Cai Renxiang said. “He and his clan are both amenable to connection, even if he himself has fallen from my circle.”
+
+Ling Qi’s eyebrows rose. She hadn’t even been aware of that happening. “Was there some dispute?”
+
+“No, not as such.” The light the other girl gave off rippled, sending the shadows in the room dancing as she frowned. “Our paths simply diverged.”
+
+Ling Qi hummed but didn’t press the issue. If Cai Renxiang thought it would impact her task, she would say something. “What do you think of Shen Hu?”
+
+“Your opponent from the preliminaries?” Cai Renxiang asked. “He is a scion of a small baronial clan in Meng territory. No one of great importance, but I suppose his personal skill makes for a useful connection.”
+
+“I’ll follow up on that chat I had with him then,” Ling Qi said. “I don’t really know anyone else though.” She could search out her prior tutors, she supposed. She wondered what rank Ruan Shen or Liao Zhu held.
+
+“That will be your task then. Discern those who you feel you might connect with,” Cai Renxiang ordered.
+
+“Consider it done. When will your first gathering be?” Ling Qi asked.
+
+“I am uncertain,” the other girl admitted. “There are too many factors yet. I shall inform you once a date is set.”
+
+She would just have to learn a few more songs in her free time so that she would actually have a variety of songs to play as entertainment. “I will leave you to it then,” she decided. “Do you think you will have time for a cup of tea soon?” she asked innocently.
+
+Cai Renxiang raised an eyebrow. “Shall I ask now what devilry you have in mind?”
+
+Ling Qi huffed. It had come out mechanically, but that had definitely been a joke. Some niggling part of her sometimes wondered if the other girl was just getting better at imitating the behavior Ling Qi thought of as friendly. “I thought it would be relaxing. Besides, did you not say that you would teach me about tea blends? You made it seem very important.”
+
+“And you expect that I shall serve you tea? How arrogant,” Cai Renxiang said imperiously. For a moment, Ling Qi felt concerned, looking at the girl’s affronted expression, but then, the corner of the stiff girl’s lips quirked up. “I suppose there is only one individual capable of not burning the leaves present. Tasks should be divided by merit.”
+
+Ling Qi narrowed her eyes at the other girl. She wasn’t sure how pleased she was to see Cai Renxiang able to fool her like that. She bowed her head deeply. “This humble vassal apologizes for her inability,” she said aloud, allowing a sarcastic edge to touch her voice.
+
+The shorter girl made a brief sound of amusement before turning her eyes back to her desk. “I shall be sure to remove that inability. You will have to entertain yourself until I have completed these last forms. Confine yourself to this room.”
+
+“That makes me wonder what my Lady is hiding,” Ling Qi mused, but her liege ignored the minor jibe. Sighing, Ling Qi stood and drifted over to one of the bookshelves, flipping through one of the less weighty tomes there as she waited for her liege.

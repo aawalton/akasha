@@ -1,0 +1,121 @@
+---
+id: 2f1488cb-39c3-51f6-91e5-9393a0a3fed8
+page-type-slug: story-chapter-royal-road
+title: "Threads 106-Descent 8"
+slug: 0129-threads-106-descent-8
+partOf: forge-of-destiny
+position: 129
+ownLength: 2473
+unit: words
+publishedAt: 2021-07-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/714382/threads-106-descent-8"
+royalRoadId: "714382"
+---
+
+While she was curious about the purpose of the dome, even if it did have a military purpose, Ling Qi had a feeling that she would get more information on their enemies by infiltrating the actual settlement. Ling Qi cast one last glance back at the fields and then darted off into the tall grass without even a rustle.
+
+The approach to the village was eerily quiet despite the shishigui crowding the streets. The noise that she would have expected to hear in a human settlement of this size was absent. The creatures made sound, but they didn’t seem inclined to shout and chatter, and their bare feet only made a whisper of sound on the paved roads. The clatter of carts and the unsettling sticky-sounding flow of the river were the main sounds that she heard on approach.
+
+The layout, too, was strange. Without a wall, the village splayed out like an organic nest. It was like the worst parts of Tonghou writ large where twisting and meandering paths replaced the clean, straight lines of the inner city. Her first impression, that of artificial stalagmites, proved enduring. Their buildings were round, conical things with fat bases and varying numbers of thin spires which rose to different heights. The tallest buildings had multiple spires over four stories high, many of which emitted a foul, drifting miasma.
+
+Hidden within an irregular “ripple” in the sculpted stone on an outlying building, Ling Qi observed the creatures loping through the street below. Even here in their town, they seemed to spend as much time on all fours as standing upright, only seeming to bother when their hands were otherwise occupied. They scampered in and out of buildings through entrances which resembled the mouths of burrows more than doors, and in the moments when she was able to peer inside, she spied spiraling ramps going down.
+
+Of course a significant part of the town was under the ground. They obviously weren’t deep enough yet, Ling Qi thought irritably. She began to make her way through the chaotic sprawl of the village, a flitting shadow moving from one rippled or scalloped facade to the next.
+
+One thing that struck her as odd when she glanced down into the streets was that she saw no children, no elderly or infirm members. Even barbarians or monsters should have had children and elders, right? But no, every grey-skinned creature was roughly the same size and seemingly in their physical prime. She saw some that were scarred, missing fingers or ears, or suffering other lesser disfigurements, but there was little else to separate them. They were all first realms, too, so far as she could tell.
+
+It wasn’t until she began to get closer to the river that she spotted more powerful enemies. There, on the road that paralleled the river, loped a pack of second realm creatures armored with patches of spiky chitin with a single, emaciated third realm festooned with bandoliers and pouches at their head.
+
+Similar figures perched here and there among watchtowers built into the supports and arch of the great bridge, clutching spears made of fungalwood and black stone. Seeing enemies who could be a threat, Ling Qi paused, observing the river and the groaning, busy bridges.
+
+The first thing she noticed was that the river did not flow under the edge of the cavern as she had suspected, but rather flowed up, frothing and bubbling as it flowed toward the village and wound its way deeper into the cave. In several cases, the river moved uphill, defying common sense.
+
+Peering at the edge of the cavern, she could make out a squat bridge structure huddled right against the cavern’s edge, arching over the river. She could just make out the figures of many shishigui pacing its walls, bristling with arms and armor.
+
+Well, that would be her next target.
+
+For the moment, Ling Qi focused on what was before her, trying to figure out just what they were doing on the many bridges over the river. At first, she had just thought it was some kind of strange, oversized fishing setup, but that wasn’t quite it.
+
+No, she could see large, heavy nets made of some kind of braided wire floating in the water, attached to sturdy ropes and cranks. On one bridge, particularly brawny members of the village growled and yipped and grunted as they worked on heavy cranks to raise nets that were full.
+
+The nets that rose from the water were filled to the brim with wriggling, phosphorescent masses of material. The things in the net thrashed as if alive, but they resembled no kind of fish she had ever seen. The closest thing she could compare them to were eels or hagfish, but even that wasn’t quite right. They had featureless, bulbous heads and dozens of wriggling tendrils lining their sides.
+
+But peering at those nets with eyes tinged silver, their auras didn’t seem like living creatures or even like the shishigui. No, if anything, they felt like… spirit stones.
+
+Once they reached the bridge's platforms, shishigui wrapped in thick leathery garments that covered the whole of their bodies would step forward to manipulate the catch into metal crates arranged on carts, which then crossed to the far side of the river. On the opposite side of the bridge from where the nets were raised, things were reversed.
+
+Carts from the far side of the river trundled toward her and were unloaded by workers, pried open, and emptied into the tar-river below. Corpses, she saw. They were dumping corpses into the river, corpses of their own kind and those of beasts. The corpses they were dumping were badly mutilated, seemingly harvested for some parts.
+
+There were even, she noted, a few crates containing more familiar corpses. Stinking and slick with rot, she watched a badly mangled human body tumble into the river below. It bobbed once, the thick slurry of black liquid seeming to soak into bloodless flesh, infecting and darkening it before the current pulled it under and away.
+
+Ling Qi wrinkled her nose and looked away. She wasn’t going to understand what was happening just from watching. She needed to put Senior Brother Liao’s gift to use. To that end, she flowed downward, one shadow among many, to slip under the feet of the workers.
+
+It was hard to understand at first. Even if they were less noisy than a similar crowd of humans, there were a lot of them, and although she could feel the qi within the ring working to turn their noise into something understandable, so many conflicting inputs were scrambling it.
+
+Ling Qi worked to focus as she slid into the shadow of an empty metal crate. There, she spotted a pair of shishigui crouched beneath one of the bridge supports, conferring quietly. In their paws, each held a long blackened stick on which was impaled what looked like a fried millipede the size of a garden snake.
+
+“Haul is still bad.” The one that spoke first was one of the brawnier ones. It, or he, wore very little, even by their standards, a single belt on which hung a handful of basic and recognizable tools. Thankfully, the creatures seemed to lack… features which would make their nudity even more grotesque.
+
+“It’s picked up.” The other one was a narrow shouldered creature whose rubbery hide was marked by patchy black bristles around its ear and jaw. “Better than last month.”
+
+“Still worse than last year,” the first grunted, biting the head off his snack with a crunch. “Which was worse ’n the year before that, which was worse ’n the year before that, too.”
+
+“It’ll recover,” the scrawny one replied, sullenly nipping legs off of his meal. “Has to. Just needs fertilizing. Might take a while, but there’s been slumps before.”
+
+The bigger of the two let out a raspy growl that was probably the equivalent of a noncommittal grunt. Swallowing the last of his snack, he reached into one of his pouches and pulled out a dented, scratched little tin full of something viscous and brown. Whatever the nasty smelling gunk was, he popped a piece into his toothy maw and began chewing the sticky lump.
+
+“You think they’re still taking volunteers for up top?” the scrawny one asked, grinding his teeth in a way that she couldn’t help but interpret as anxious. “Just a couple meldings like the Caretakers doesn’t seem so bad.”
+
+The brawnier creature remained silent, noisily chewing his sticky tar. He let out a faint whuff, wrinkling his muzzle. “Seems stupid. Hack a hundred years off your life, and for what, a bit of power?”
+
+“My packmates want a pup,” the scrawny thing admitted. “But not many are awakening any more. Waiting list goes on for years. You volunteer, you can skip the line, get a place in the city.”
+
+The brawny one spat his glob of chewy resin into the river. His fangs were stained an ugly brown. “Gonna get your fool self killed fighting those ugly ape things, ‘n then what use are you?”
+
+Ling Qi turned her attention from the pair. The wisps she had scattered through the throng at the base of the bridge allowed her to see many such little moments, and it seemed to confirm what that one implied. There seemed to be a general malaise about, a concern for the haul from the river shrinking, grumbles about lessening rations, and complaints about people in the city.
+
+There was a secondary concern, too, about the population shrinking, which may be related. Maybe that’s why she hadn’t seen any children.
+
+<It definitely paints a picture. Looks like our big bads might have an unsteady foundation,> Sixiang thought.
+
+Ling Qi acknowledged Sixiang’s words as she slipped across the bridge, one shadow at a time, her presence well hidden from the creatures tramping around above. Every so often, she would have to be more careful, circling around a creature that felt like a third realm, but none came close to detecting her.
+
+She did notice something odd about the way the weaker shishigui regarded the ones with higher cultivation. There was respect, of course, but there was also… pity. She remembered the words she had heard a short time ago. Did their cultivation actually shorten their lives? How in the world had they produced an expert who could fight Elder Zhou then?
+
+Pondering that, Ling Qi crossed to the far side of the bridge, which seemed like something of a foundry or crafts district. Silently, she shadowed one of the wagons holding the wriggling river things, hiding in the undercarriage as it rattled its way into a large structure with three smoke-spewing points.
+
+Here, she was carried through winding labyrinthine tunnels which grew hotter by the moment until at last they came to a large chamber that sweltered with heat. On its far side was something like a wood furnace writ large embedded in the wall, and inside of it, sickly green flames roared. For just a moment, Ling Qi stiffened in alarm as she felt a mighty presence within the furnace, whose awareness nearly brushed her, but whatever spirit inhabited the flames was not looking for her. The weight of its focus was on the phosphorescent things that were even now being fed to it.
+
+Covered shishigui hauled crates down from the wagons and dumped the writhing, squealing things into the flame. There, they withered and burned, and from the bottom of the furnace, brownish-black fluid flowed through a metal channel into a grate set in the floor.
+
+Ling Qi tasted vomit in the back of her throat the second she looked at the stuff despite her currently immaterial form. Instinctively, she could feel that it was the same gunk she had cleansed herself of in physical breakthroughs, but somehow, more distilled.
+
+Ling Qi shuddered as she slipped out from under the wagon, flitting into the shadows. Carefully, she planted a tiny spider husk on the wall and left the room behind.
+
+From there, she began to explore their warren. She would plant another spider on the bridge on the way out, but right now, she wanted to see if she could find something like leadership among them, the barbarian equivalent of a governor’s office.
+
+It didn’t really work out.
+
+She found places where overseers seemed to congregate to pass reports and records, and dutifully, she “bugged” them, but she could find no signs of an overall leader. Perhaps because this was a small village, they had their central office elsewhere. Unfortunately, even listening in, no one seemed to refer to a king or a chieftain or even a sub-chief. She did find one grouping of overseers arguing about who was going to represent them at the city this year so maybe that was where their leader lived. She bugged that room, too.
+
+It seemed like it would be unwieldy to have no local leadership.
+
+Once she had carefully mapped out the warren beneath the village, she slipped back out and placed one last spider husk at about the midpoint of one of the bridge’s underside, along the thick beams which supported it.
+
+From there, she took a moment to poke around underground on the near side of the river, but the warrens beneath seemed to be nothing but residences. There were still no children or elders below.
+
+Having explored the village, Ling Qi turned her eyes toward the fort which straddled the “mouth” of the river. It was a squat structure, a thick arch of stone with carved bone battlements and no apparent entrance from the surface except for at the top.
+
+It was also thick with what could only be soldiers and warriors. Second and third realm shishigui patrolled the battlements, and she could feel even more inside, including enemies whose cultivation were difficult to read. She felt sure there was at least one shishigui near, if not slightly superior, to her own. She did not quite dare to fly above to get a view inside just yet. Did she want to risk trying to infiltrate?
+
+It was possible that this was where the real leadership for the region was. It would make sense. This was where all the strong cultivators were. Maybe she could…
+
+<Ling Qi, you are not going to try and slip in through the river grates. Look at that stuff!> Sixiang whispered flatly.
+
+<Zhengui agrees,> Zhengui said immediately.
+
+<Yuck,> agreed Hanyi.
+
+She hadn’t seriously been considering that, Ling Qi thought irritably as she hid in the boughs of a fungal tree, staying solid for the moment to give herself a breather. No, she would have to use her wisps then move through the walls.
+
+This would be so much easier if these things didn’t seem to hate the idea of windows.

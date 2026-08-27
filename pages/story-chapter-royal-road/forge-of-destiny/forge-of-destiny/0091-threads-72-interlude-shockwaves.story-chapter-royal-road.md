@@ -1,0 +1,191 @@
+---
+id: f230edbf-777f-5042-b78e-5c654ec28444
+page-type-slug: story-chapter-royal-road
+title: "Threads 72-Interlude-Shockwaves"
+slug: 0091-threads-72-interlude-shockwaves
+partOf: forge-of-destiny
+position: 91
+ownLength: 3970
+unit: words
+publishedAt: 2021-04-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/662238/threads-72-interlude-shockwaves"
+royalRoadId: "662238"
+---
+
+It was weird how something as grating as stone scraping across metal could seem tranquil. Then again, thought Su Ling, before today, she’d never really thought about what higher cultivation meant.
+
+She breathed in time with the scrape of the whetstone across the blade laid across her lap and glanced up at the tremendous barrier of stone a few meters beyond the border fence she had parked herself on. It curved up and up, a vast dome that contained the whole town and its immediate outskirts. Su Ling had seen Elder Ying reshape the landscape before, dropping a whole section of the forest to create a new valley. But somehow, it hadn’t really clicked until today.
+
+Her ears twitched in agitation as she closed her eyes and echoes of what she’d seen throughout the day. She remembered the miasmic haze of illusory qi twisting whole sections of the forest into inescapable labyrinths. She remembered a whole section of the forest flipping up like a trapdoor and arachnid limbs reaching out to drag centipedes bigger than houses underground. She remembered the ground writhing with gross fungal things boiling up from the valley only to be torn apart by lashing branches and roots or dragged down squealing and screaming to be re-entombed in the earth.
+
+<It is frightening, but you performed beautifully, my master. Through your benevolence, lives were saved, and is that not enough?> Su Ling felt the weight on her head shifting, tiny claws finding purchase in her thick, curly hair.
+
+“That’s one way to look at it, Ci,” she drawled, glancing up to see her spirit’s fuzzy snub-nosed face peering down at her. Mostly, it just reminded her how irrelevant she was.
+
+<Please do not shorten my name, Master. I am proud to be Cibei, the mercy which raises up those trodden upon by injustice!> the little bat said with a frustrated squeak. Though she was early second realm now, the spirit hadn’t grown much larger. She wasn’t the type for that, and that suited Su Ling just fine.
+
+“Just fuckin with ya,” she snorted, looking back down at her sword. With a sigh, she tucked the whetstone away; she was just going to damage her blade if she kept going. “I know we helped people. Don’t need you being my hype girl.”
+
+<On the contrary, Master! Here you sit, morose on the eve of victory. My words are obviously needed!> her mouthy spirit rebutted.
+
+“Yeah, well,” Su Ling began, only for her ears to flick as she heard familiar heavy footsteps.
+
+“So this is where you went to hide, Miss Su!” She grimaced, her ears lying flat against her skull as Gan Guangli’s booming voice reached her.
+
+“It sure is,” she said dryly, not turning around to look at him. Him and his guys might have been the only ones to follow her after the elders had declared the truce reinstated on pain of expulsion.
+
+“And why should the heroine of the hour be alone at a time like this?” Fucking hells. how could anyone pack that much pep into their voice? Gan was like a big dumb puppy. At least he had enough respect for her space to stop a few steps away.
+
+“Your lot are the ones who did most of the work,” she retorted gruffly, prompting Cibei to let out a high-pitched squeak of protest.
+
+“Though it shames me, without your words, I would not have thought to come here,” Gan Guangli replied, dropping the overblown pep for a moment. “In my complacency, I thought to fortify my own with no thought that the Sect might need aid.”
+
+Oh, the Sect didn’t, but the town did. She’d been down in that pit with Suyin enough that she knew earth and rock weren’t much of a barrier to those things. When she’d scented that oily, rotten stink on the air, she’d had a bad feeling that the dome Elder Ying had raised would not be enough. The town never had too many soldiers in it at the best of times. “A messenger ain’t a hero,” she shot back stubbornly.
+
+“I dare you to walk through the outer village, look upon the faces of the people there, celebrating their survival, and say so,” Gan Guangli said calmly. She hunched her shoulders, scowling. Somehow, she liked him better when he was acting like a feckless moron. “While it is true that I and my followers fought the most, your divination guided us. Where would we be without our eyes?”
+
+Her gut had been right. Mighty as an elder’s power was, with everything going on, some things had wormed through the gaps. Those things beneath the notice of the titans clashing outside, but for a bunch of mortals, a few first realm things crawling out of their basements and sewers weren’t so trivial. The town center was safe, guarded by soldiers, but there just weren’t enough to cover the whole town.
+
+“Maybe I just don’t like company.” She refused to argue with him anymore. “They can celebrate better without people like me reminding them of how bad things almost got.”
+
+“Mm, a good point perhaps!” Gan Guangli said cheerfully. Her stomach sank as she heard the thump of his armored behind hitting the ground with a crash like a cart falling off its wheels. “Powerful cultivators are often intimidating even when we do not mean to be!”
+
+“Can you just not take a hint or what?” Su Ling finally asked, glancing over her shoulder.
+
+“I am told that I am obtuse at times,” Gan Guangli agreed. The sturdy fence creaked ominously as he leaned against it a few paces away. “If you wish me to leave, I will do so, Miss Su. You have but to ask.”
+
+“Do what ya want,” Su Ling grumbled. turning her gaze back to the wall of stone. Cibei laughed at her.
+
+There was a long silence. Su Ling had to hand it to Gan. The oaf was stubborn; she’d never heard him be quiet for this long. “Why’d you come? Truce is on, but that just means no violence. Lu Feng’s boys have probably taken a bunch of your shit by now.”
+
+“I think you underestimate Miss Xiao somewhat,” Gan Guangli said. “However, it is irrelevant. Resources can be regained. If we cannot safeguard our people, then what good are we?”
+
+“Bet that’s not how you’ll put it in your report to the boss,” Su Ling replied dryly.
+
+“It is precisely how I will put it, if perhaps in more formal prose,” Gan Guangli laughed. “Lady Cai has no use for sycophants among her direct servants. I follow her because her beliefs mirror mine. No, rather, my beliefs are built from hers.”
+
+She glanced at him out of the corner of her eye. “That so,” she said, making her disinterest clear.
+
+The oversized boy raised his hands in defense. “I am not here to lecture or expound.”
+
+“So you’re not still trying to recruit me?” Su Ling asked sarcastically.
+
+“Of course I am. You are a courageous and virtuous woman. I would be most pleased to have you on my side.” The cheeky fucker grinned at her.
+
+Su Ling tilted her head, letting her long hair cover the dusting of color that rose on her cheeks. Stupid instincts. “Whatever. Not interested in playing soldier.”
+
+“As you wish, Miss Su,” he said, falling silent.
+
+Her insights were vague things at the best of times. She wasn’t going to subordinate herself, Su Ling thought, looking out at the blank expanse of stone, but she couldn’t help but feel that something fundamental had shifted. She didn’t know the details of what had happened, but there was blood in the air, drums in the sky, and howls under the earth. She couldn’t stay the same.
+
+“Enough with the ‘Miss’ garbage. My name is Su Ling. Use it.”
+
+***
+
+“You have not taken my advice,” Gu Yanmei said evenly, seated on the divan beside her. Despite her perfectly composed tone, the words still managed to sound accusing.
+
+Gu Xiulan hunched her shoulders, her lips pressed together in a thin line. Her hair hung in loose ringlets around her shoulders, unstyled and wild. She kept her eyes fixed on the wall ahead. Her sister’s house was richly appointed, its steel walls covered by tapestry and decoration.
+
+She could not say that she was appreciating the decor much at the moment. Xiulan did not flinch as her sister peeled away a portion of burnt and ruined flesh from her arm with a surgical instrument, a pair of silver graspers etched with characters of cleanliness and purity. It was good that she had grown inured to the scent of burning flesh and fat. The piece her sister had removed joined the rest of the irrecoverable pieces of skin and muscle in the bowl.
+
+Even now, her arm was a ruin. With the bandages off, it was revealed as a burned husk. If she looked, Xiulan knew she would see places where bone was visible and burned with pale blue flames. Snapping currents of lightning ran where veins should have been, and sparks popped and snapped through gaps in her blackened skin.
+
+Only as her elder sister set her tool down and began to unroll a new set of aromatic silk bandages did Xiulan finally answer. “I made the attempt. It does not fit my Way.”
+
+“Your Way will lead to an early grave, sister,” Yanmei said, not looking up at her as she began the laborious process of re-wrapping Xiulan’s arm.
+
+On the Sect mission, the world had shook apart, the sky had split open, and the rain had turned into a hail of stone from a broken mountain. Above her, Elder Sister had hovered on burning wings like a phoenix from the family’s tales, wrapping them in heat. Ling Qi had collapsed like a puppet with its strings cut, and she had dived to catch her friend before she struck the ground, ignoring the shriek of agony that the sudden motion sent through her tattered nerves.
+
+Power had washed over her. Even through Elder Sister’s aura, she had felt the crushing weight of it. The earth shook again, and before her eyes, another mountain had crumbled. Icebreaker Peak had tumbled down like a child’s tower of blocks, thousands of tons of stone collapsing as the full breadth of the thing within was revealed. It had been a sea of grey and black flesh, a million hungry maws and agonized eyes rolling in madness, mindless tendrils the size of towers thrashing wildly against everything in reach. She had felt her stomach churn merely from looking at it.
+
+Her sister’s aura had flared like a second sun, and then, she had left, a boom of thunder passing in her wake, but the warmth of her aura remained, cradling her, cradling them, protection from the madness of the world outside. She had seen the faces of the soldiers who had fought with her twisted in desperation and fear. She had heard them praying to the great spirits and their ancestors.
+
+For once, she had felt no disdain for their fear. Beneath a sundered sky and on the rolling earth, she had held her friend close and prayed as well.
+
+“Better that, than the alternative,” Xiulan said bitterly.
+
+For the first time, Yanmei paused, a flicker of some emotion surfacing in her cool gaze, gone too fast to be recognized. “Foolish little sister, you are not some hero from a child’s tale fighting the world alone,” Gu Yanmei said softly. “Consider the effect of your words. I know Mother gave you the same lessons that I endured.”
+
+Xiulan’s lips twisted into a wry smile. “The only reason I am truly valuable to the family is the risks I have taken. Will you gainsay that, Elder Sister?”
+
+Silence answered her question, and Xiulan lowered her eyes, only to jerk to the side as her sister’s metallic fingernails impacted her temple in a perfectly executed flick. “I am not talking of politics, you insufferable girl. Father is young and hale, his position secure. Your actions affect your family. Do you imagine that Mother was not distressed enough to set the servants scurrying? That Father did not pace the throne room and make the great fires dance? That they did not consider withdrawing you immediately, face be damned? That they would rather have a live daughter than a dead hero?”
+
+Xiulan hunched her shoulders further and further as her sister laid into her without once so much as raising her voice or altering her tone. Her sister’s points were driven by cold logic and unshakeable certainty. “You are my sister, Xiulan. Do not trivialize the value of your life.”
+
+“I can’t afford to fall behind,” Xiulan rebutted in a small voice, drawing her knees up to her chest. Her elder sister’s words broke what remained of her reserve. “I can’t… I will not just be some irrelevant wife of a mediocre man.”
+
+“You still imagine yourself to be trailing behind… Do you truly despise that boy so much?” Yanmei inquired. Xiulan sucked in a breath as her sister cinched the bandages tight around her ruined arm, letting the medicine-infused cloth begin doing its work. All that remained was her hand. “Is Fan Yu really so despicable?”
+
+“He has no ambition,” Xiulan hissed. “He tags along on others’ coattails and wallows in his own mediocrity, pitying himself for his own failures. How could I not?”
+
+Yanmei was silent as she went about the delicate task of wrapping Xiulan’s hand and fingers. It would probably have felt strange if she could feel anything beyond faint sensations of pressure and pain from that hand, Xiulan thought bitterly.
+
+“I will speak with Father. The current arrangements are swiftly growing untenable regardless,” Yanemi finally said.
+
+Xiulan started, looking up with wide eyes. “Sister, what…?”
+
+“Do not be obtuse, Xiulan,” Gu Yanmei chided. “You have already set yourself upon the path to surpass most of our siblings. Do you imagine that we can afford to have you marry into another clan now?”
+
+“Sister Xiurong is at the framing stage, and Xiuying nearly at completion,” Xiulan replied incredulously.
+
+“Xiuying has been at completion since before your birth and is nearing her ninetieth year. Xiurong is fifty seven and more interested in raising her new son than further cultivation, Daiyu has no interest. Neither achieved the third realm at the age of fifteen,” Yanmei rebutted steadily.
+
+Xiulan opened her mouth to speak then closed it again. Why was she even protesting? Was this not what she had hoped for, what she had strived for, suffering pain and disfigurement for?
+
+“Do not take this as approval of your methods, little sister.” Gu Yanmei’s voice cut through her swelling feeling of accomplishment like a scalpel. “And given the current situation at the Sect…”
+
+Xiulan’s elation cooled, thoughts of the battle coming back to the forefront of her mind. Elder Zhou dead, unknown assassins creeping about the battlefields, whatever that awful thing that had emerged from the husk of the mountain had been, Ling Qi nearly dead because she had been too slow and weak, too unreliable…
+
+“You will have to begin preparing for the journey home soon,” Yanmei said, standing up from her seat on the divan. The bowl containing the ruined flesh from her arm vanished in a flash of heat.
+
+“Wait - why must I?” Xiulan began, only for the answer to come to her before she could even finish her words.
+
+“The Sect is at war, little sister. The Gu are no cowards, but the family cannot afford to risk the both of us,” her elder sister said, not turning back to look at her as she swept out of the room. “Rest now, Xiulan. Your energies are still unbalanced.”
+
+Xiulan stared after her and then began to laugh. ...Getting what she wanted, indeed.
+
+***
+
+How long had it been, Cai Renxiang thought, since she had been in Mother’s court? Her day of birth would be next week, so nigh on ten years, it seemed, since the day that she had humiliated herself and Mother alike by failing to withstand the Duchess’ scrutiny. She had grown, if not strong, then at least more durable, since that day. She would not bring shame to the Cai name today.
+
+Though her body kneeled in her residence at the Argent Peak Sect, to all of her senses, she kneeled, her head low, on the rich red carpet which led up to Mother’s high throne at the far end of the hall. The Great Hall of Xiangmen was a vast slab of marble far above the clouds, a dozen meters thick and many hundreds around, grasped in the curling branches of the living capital. One hundred meters overhead, the ceiling of woven cloud danced in complex patterns of color, said to be modeled off the skies of the far-off plains of living ice beyond the Wall where the Diviner himself had quested in his youth. The twelve vast pillars that supported it were each carved from the bones of a slain Beast God, the trophies of the Weilu’s conquest.
+
+The throne itself was built from a single branch which breached the stone disk. Ten meters wide at the base, it rose nearly thirty meters through the air, curving up in a hook to shade the throne built halfway up its length with verdant foliage. Mother sat there, reclining in the cushioned throne, her radiance cast across the gathered court. The Prime Minister stood at her side, but she alone occupied the advisor’s platform built just below the throne.
+
+All around her was the gathered court of Emerald Seas. The carefully selected courtiers of the comital houses and their vicontiel subordinates rubbed shoulders with the courtly nobility, those families which occupied the hierarchy of the capital itself and ruled over the day-to-day doings of its million souls. There were less of them now, if Cai Renxiang could judge from her faded memories of this place. Mother had been busy.
+
+“And so, under the command of Core Disciple Jia Song, I led the vanguard against the northeastern outbreak.” Cai Renxiang spoke clearly and concisely. Here, before Mother with the weight of her expectation and power resting on her back like a boulder, she did not dare waste a single breath or syllable. “The enemy spirits were driven back and slain without casualty. The initial movements were a total success.”
+
+“That did not last,” Mother Spoke, and the world listened. Her words were airy and light like a socialite commenting upon the weather but to a cultivator of the highest realm, there were more to words than mere vibration in the air. The Duchess’ statement held a sharp and terrible weight, and the Jia representative, a cyan cultivator, hunched his shoulders as if preparing for a blow, all of his practiced poise and cultivation rendered to naught by the mere inference of Mother’s attention.
+
+“Core Disciple Jia Song ordered us into the breach,” Cai Renxiang continued. The Jia were still allies; they would not suffer much censure for this, nor did she wish them to. To hold a grudge such as that was not only inefficient but also the seed of the thoughts that would lead any ruler to vice. “As this was a military matter, I raised a point of contention but did not disobey commands. We descended and confronted the retreating enemy. It was a slaughter, but our distraction was used to strike at Core Disciple Jia, and further reinforcements waited in the tunnels. There were three casualties among the Inner disciples, one of which later became a fatality. During the battle, an enemy commander emerged. I estimate that he was of roughly framing stage in cultivation. We dueled, and I took his head.”
+
+Cai Renxiang let out a careful breath. The tunnel had been claustrophobic and dark, lit only by her own radiance. The darting figure in the shadows and the envenomed edge of his knives returned to her. It was good that she had sparred so much against an opponent of similar mobility.
+
+“However, the enemy we faced made heavy use of sacrificial techniques. The entity that emerged from their dead was beyond me,” Cai Renxiang admitted bluntly and without shame. “It was only Mother’s grace which allowed us victory.”
+
+She remembered boiling black flesh, eyes beyond counting, and grasping, hungry mouths gnawing at her limbs. She remembered the traces of shen beyond the potency of any third realm technique punching through her defenses. Most of all, she remembered the second time in her life that Liming had truly awoken, the furious spiritual scream wiping her thoughts blank as she lost control of her limbs. The first time was a faded memory, the first and only time an assassin had dared seek her life and slipped past the attention of Lin Hai.
+
+She did not care for it. Even now, Liming seethed beneath her conscious mind, twitching threads seeking to control her nerves. She still felt unclean, the total loss of control worse than any horror of the deep. Despite herself, she tightened her grip on Cifeng’s hilt, and the saber qi flowed through her channels, severing Liming’s angry susurrus from her thoughts.
+
+Cai Renxiang kept her head low in the silence that followed the end of her report. The court was silent. Even the wind seemed silent. That torturous silence persisted before it was finally broken by a tiny sound, the faint click of a lacquered fingernail tapping against wood.
+
+“Raise your head, Renxiang.” Mother’s command was harsh and final, none of her affected humor present.
+
+Cai Renxiang did not hesitate to do so. High on the throne of Xiangmen, Cai Shenhua was no longer reclining. She sat tall and straight upon her throne, and the radiance of her eyes swept across the court. Each tiny click of her finger tapping against the armrest of the throne seemed to echo like thunder, and Cai Renxiang braced herself as that gaze fell upon her. Inhuman, heavy with expectation, it threatened to consume her as Mother’s gaze pierced her mind, seeking, shaping, pitiless.
+
+“You performed acceptably, my daughter. I expect you to continue to do so. In the name of the Cai, you will punish any barbarian which encroaches upon our lands.” The words were like nails driven into her thoughts, and she could only nod in acceptance.
+
+“It will be my honor to punish them in our name, Honored Mother,” Cai Renxiang accepted.
+
+“Jia Shu.” The named man bowed low at the waist, all but kowtowing at the mention of his name from Cai Shenhua. “Inform your uncle that he needs to speak with his grandniece on matters of strategy.” The humor was returning, the languid tone that normally colored Mother’s words, but she was standing, and no one in court dared relax. “Esteemed members of my court, pass word to your clan heads. There is another border in our kingdom which requires reinforcement. Laxity in this matter is unacceptable.”
+
+A flicker of something like an affectionate smile touched the Duchess’ lips. “Linqin, be a dear, and handle court for me today.”
+
+“As you command, my lady,” the Prime Minister replied without batting an eyelash. “May I inquire as to what business will be occupying you?”
+
+Cai Shenhua smiled fully, and there was nothing kind in her expression. “It seems that I have been too merciful. I will be taking a walk beneath the rootways. Arrange for soldiers to secure the route behind me.”
+
+“Of course, my lady. Please be mindful on your stroll,” Diao Linqin said simply.
+
+Cai Renxiang lowered her head, pain still clouding her thoughts where mother’s attention had lingered. She had been given her command. Mother would be busy, and so would she.

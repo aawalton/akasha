@@ -1,0 +1,143 @@
+---
+id: b0c58b06-717e-544b-bbf2-e4255f75e902
+page-type-slug: story-chapter-royal-road
+title: "Threads 427-Shenglu 6"
+slug: 0471-threads-427-shenglu-6
+partOf: forge-of-destiny
+position: 471
+ownLength: 2183
+unit: words
+publishedAt: 2025-01-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2038985/threads-427-shenglu-6"
+royalRoadId: "2038985"
+---
+
+"Gui would like to take a walk. Scholar friends, you can go back to the town if you like."
+
+"None shall dare trespass against those with my blessing," Zhen added haughtily.
+
+The old scholar bowed again. "As you wish, young master Zhengui. We will discuss today's observations and present you with our findings on the morrow."
+
+Meng Duyi looked out over the lands between the Boiling Deeps Hill and the settlement growing on the lakeside, mostly farms and pastures.
+
+"I think a walk through the farmlands first would be a suitable start," Ling Qi proposed.
+
+"Gui has helped Miss Lake find all the right places for the little irr-ig-ation thingies to go," Gui boasted.
+
+She hadn't known that.
+
+"Yes, that will do," Meng Duyi said thoughtfully. "Please lead on, Baroness."
+
+They descended from the higher rocky hills down to the winding dirt roads that wound through the pasture land. With winter beginning to roll in, the wandering flocks of cloudlike sheep were kept to the lower slopes by the shepherds. The farmlands were in a similar state of preparation. The fields had been harvested and were lying fallow, the work of processing and storage underway.
+
+The neat lines the farm plots were originally set up in had softened, small touches of personalization beginning to appear. In some, it was the color of the house. In others, a shed or a barn had been erected out of place, or a smaller field had been set aside for personal use, perhaps meant for herbs or lower output crops. Here and there, she saw animals: a goat, a cow, a handful of chickens, a dog, or a cat sleeping upon a windowsill. They were all the little signs that the people traveling to take up land in their fiefdom had come from somewhere else and had things and lives of their own.
+
+"Do you see the wells? I, Zhen, have already made arrangements with Miss Snowblossom. There is much water under the earth, but much of it is filled with fire and poisonous to the mortals. This wise young lord saw to it that only clean reservoirs were pierced."
+
+"Many forget that not all waters are sweet nor able to be cleansed with only an hour bubbling over a fire," Meng Duyi said agreeably, trailing at Zhengui's side. "Still waters especially are often poisonous in one way or another. It pleases me that this has been watched for. It shall make the mining in the region dangerous though, if there is truly so much fire under the earth."
+
+"The stinky air that goes bang when there is a spark, yes," Gui grumbled.
+
+Ling Qi grimaced despite herself, remembering their early experiments with creating gardens.
+
+Meng Duyi stroked his beard. "It is not only the burning which is dangerous. When air stoked with fire ignites and burns itself out, a hollow is left. Emptiness rushes to be filled, and what once rested around and above will collapse inward. However, this is not as bad as a sustained burning under the earth, which may taint lands for generations. In the same way, land too saturated with water will sink all that rests upon it. One must be careful of the balance of elements beneath their foundations and in their soils. So, too, may opposite elements clash…"
+
+"Miss Snowblossom is nice, even if Gui thinks she is a little clammy."
+
+"Hold your insolent tongue, foolish Gui," Zhen hissed. "She has been most kind in showing us how to weave fire and water. Next, you will say Big Sister is bad because she is cold!"
+
+"Big Sister is brisk! It is different!"
+
+"Less of a problem here, perhaps," Meng Duyi said quietly, turning to her as Zhen and Gui fell to bickering. "Tell me, what is the intention for irrigation through this region?"
+
+"We have held off on more than planning. Lady Cai has spoken of a trunk and branch arrangement. It will probably be a dug channel to divert waters from the lake down along the outer lines of the farmland with smaller branches for each farm."
+
+"Hmm, I do not know that this is well. Waters once poured into the lake have changed their nature," Meng Duyi said. "You would do better to imitate what you have done with the manor of this place. Create a dike above, dividing a section of the river, a dug channel to create another fall, and carefully arrange for a smooth flow of energies in the resulting stream as it wends through these hills and rejoins the river further north."
+
+"I am surprised you would suggest the larger deviation from the natural state of things, Sir Meng."
+
+"The way of our ancestors is not to make no changes,” Meng Duyi corrected. “It is to follow the principles of natural shape and flow. Here, a brief detour of the river's waters is more natural than a stiff canal thrust through the land. It is a shape the land knows and one which it will accept with proper care and speech without the struggle of forcing it to follow an artificial shape. The smaller irrigation channels for individual fields are less disruptive and should not be a problem with…"
+
+"With I, Zhen's, guidance over the earth."
+
+"Gui's guidance."
+
+"... Yes." Meng Duyi gave her junior brother an amused look. "Young lord, this one would ask, in your own words, how far does your realm extend?"
+
+She could practically see Zhengui starting to puff up. If he did it anymore, he might start to float away. She gave him a stern look.
+
+Qiyi giggled as he deflated.
+
+"Gui's place goes from the cliff to where the mountains bite together around the road, to the sobbing mountain in the west, and to the place where gods bicker in the east."
+
+So, his authority extended to the Weeping Mother's mountain and the summit grounds? That was further than Ling Qi had thought.
+
+"But Zhen has not fully tamed the marshlands further from this place," Zhen admitted. "Authority takes time to root."
+
+"So it does," Meng Duyi agreed.
+
+Conversation about the best placement and path for a fresh waterway on the western side side continued as they strolled at a sedate pace toward Lake Snowblossom and Shenglu proper. They stopped atop the final gentle ridge outside the forested copse which had been serving local lumber needs, looking down on the slowly growing footprint of the settlement.
+
+"Was this style chosen because of my impending arrival?" Meng Duyi asked.
+
+"It was considered, but that was not the whole purpose. We do wish to build into the cliffside as well, but it was decided that this provided a better foundation and more convenient living for our people early on. A more traditional imperial grid was considered unsuitable so far from the center."
+
+"It could have been used." Meng Duyi leaned forward on his stick. "I see it. Like vines draping a millennial tree, spires set against stone, paths winding with faces carved into rock, and the city spreading both up and out, a glittering crescent girding the southern shore. This is your intention?"
+
+"Mhm! Gui thinks it will be very pretty. There will be lots of little boats and places on the other shores too, and Big Sister will make sure the town does not become too smelly and cramped."
+
+Meng Duyi hummed. "Too dense, too dense, but you are not here to make the western fens here in the frigid hills."
+
+"We are not," Ling Qi admitted. "I wish to learn from you, Master Meng, but architectural styles will need to adjust for our needs."
+
+"This was known." Meng Duyi said gruffly. "For your efforts, I will teach what I can."
+
+Ling Qi grimaced as they resumed walking, hearing the darker and more melancholy tone in his voice. "May I ask how the Meng are recovering in the wake of the summit’s events?"
+
+"The pollutants’ source was revealed. The dredgers work now without rest," Meng Duyi said flatly, and she knew it would be best to leave this thread lie. "Know with those sharp ears I ken, that this one bears you no grudge."
+
+One of his realm could deceive her, but Meng Duyi did not have the right way for it. She took the sincerity she felt threaded through his words and allowed it to set that anxiety at least to ease.
+
+"Gui is sorry Mister Harmony of Waters has reasons to be sad," her little brother consoled.
+
+"I, Zhen, will provide excellent hosting, so that his mind might be put at ease. Come! We should walk. The shore awaits us."
+
+"I suppose it does. Master Meng, let me show you toward the waterfront as it's where we're focusing our construction efforts on right now. While we walk, would you speak on anything you see as errors in our current layout?"
+
+"The road built by the Wang is contrary to our principles in its depth, straightness, and the way that its builders chose to displace the earth rather than build with it," Meng Duyi replied as they resumed their walk. "However, this one recognizes their expertise, and it is set in the land. The flow of yang energy which pulses down from the north will simply have to be acknowledged and worked into future construction. These frozen lands are heavy in Yin, so balancing it should not be impossible."
+
+Ling Qi paid close attention to the master's words.
+
+"Your forestry is not sustainable. It consumes too much in one region, and the replanting is neither aligned with natural principle nor arranged with sufficient order to become a ‘tree farm,’ as modernists call it." She saw his lip curl, a hint of dislike reaching his face. "The stunted things these practices produce are why the Emerald Seas shall never lack demand for its lumber. Regardless, the small size of the current operation prevents it from being a serious issue. Should you expand it, I will explain the principles and aid you in educating your loggers in proper selection and replanting methods."
+
+"The lands we take timber from now will likely be in the settlement proper within a decade or two as well," Ling Qi replied.
+
+"Yes. I would suggest considering a more permanent operation. Even our cities are endlessly hungry for wood despite a solution for mortal heating."
+
+"What do you burn then?" Gui asked.
+
+"There is a material called peat that burns well, though it sometimes contains fell energies from the Red Jungle when harvested in lands too close to it. You will not find it in lands so dry as these. This comes to the next item at issue. I sense that you have moved from your original quarry site already?"
+
+"The original pit proved less suitable than we hoped, but we are still using it for the making of gravel filler," Ling Qi answered.
+
+"That is well. Abandoned quarry sites are often left to the wind and rain. As open wounds in the earth, the pools that form in them are often toxic. Here, they certainly will be. This poison may then overflow and seep through the earth to infect other water sources. You must take care of this site. There are proper rites for cleansing a quarry one is finished with. It is possible to make natural ponds of them, but this would require more than simply letting the rain do its work if you do not wish to find what pestilence may brew in such stagnant waters."
+
+Ling Qi nodded seriously. They had crossed from the dirt path to the gravel trail which wound down to the paved road which led around the lake now, and the material crunched underneath Meng Duyi's boots.
+
+Ling Qi had to gently swat the creeping ribbons which reached out of her sleeves to probe and explore. Qiyi was getting bored.
+
+"Similar warnings may be said of mines," Meng Duyi finished.
+
+They were nearly at the road now, looking out over the serene surface of Snowblossom lake.
+
+"Gui does not know as much about these things," her brother said. "So Gui will thank Mister Harmony for the lessons."
+
+Meng Duyi nodded. "Now, before we turn our attention to the lake, I would ask the Baroness a question."
+
+"I will answer as I may."
+
+"In these early days as I nudge your workers toward correct action and the lesson plan coalesces, I will have time. Where would you and your lady prefer that I focus my attention? Matters of growth and life, or the yield of stone and metal?"
+
+Ling Qi considered the question. "I think the proper ways of dealing with diggings and delvings in a place where the earth is so lively will help the most. We have done little of it yet, but that just means your preparations and lessons will place us in good stead when we do."
+
+Meng Duyi tapped the twitching root tips at the base of his staff upon the gravel. She felt the subtle ripples of his qi traveling through the earth, mapping, or speaking, in his own way. "As you wish."

@@ -1,0 +1,109 @@
+---
+id: cd7dc283-aeaa-59ef-b555-646805d4a027
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Winter's End Tour Part 2"
+slug: 0332-interlude-winters-end-tour-part-2
+partOf: forge-of-destiny
+position: 332
+ownLength: 1691
+unit: words
+publishedAt: 2023-03-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1150427/interlude-winters-end-tour-part-2"
+royalRoadId: "1150427"
+---
+
+It always annoyed Bao Qian just a little, that mortal coins were so much better designed as currency than the money of cultivators. Coins were good, round and flat, stackable. A hole punched through the center, so that they could be strung on thread or rawhide. Convenient and reasonable. Stones on the other hand, had an odd shape, could not be stacked or stored easily. He knew it didn’t matter, and there were reasons. A coin shape wouldn’t hold its qi reservoir properly, but it was still a little bothersome.
+
+But as he laid his satchel on his workbench and little glittering stones spilled across the surface, he couldn’t say that he felt irritated at all. Aesthetics had its place.
+
+“This new arrangement was received better than anticipated,” said a voice from behind him. Du Xian, the priest assigned to their entourage, stood behind him in the wagon. Bao Qian could feel his slightly disapproving gaze on the satchel full of stones.
+
+It didn’t bother Bao Qian much. The traditions of the Bao and the southern folk had diverged for ages.  He knew his ancestors and the spirits of all the glittering and precious things under the earth smiled upon his efforts. But he was polite, turning halfway on the bench to face the older man. “Everyone loves a festival, and Miss Hanyi’s voice is very beautiful too, don’t you agree, Du Xian.”
+
+The man pursed his lips. “It is true that the people are eager for merriment, when hard times are coming. Warm memories to hold against the dark and the cold.”
+
+“And you ensured that things were kept proper,” Bao Qian said, dipping his head. “We could not have planned this so well without your peoples efforts to dig up the old pre-Ogodei rituals and adjust them.”
+
+A thing not understood by many in the north was that the barbarians rampage had not only slain people and uprooted cities, but cast the spirits into chaos, the endless storms and floods had destroyed much infrastructure and slain many spirit lords which were not so fixed as rivers and mountains.
+
+“It is difficult work but fulfilling. Without a spirit of middling realm to take a central role, and intercede with those who care not for small voices, it would be pointless,” Du Xian acknowledged. “But the honored spirits method and means…”
+
+“It’s jarring isn’t it,” Bao Qian said absently. “But people like it.”
+
+Du Xian frowned deeply. “I feel trepidation. Spirits are not human. Should the people come to think of them so, it will only lead to harm and tears.”
+
+“Hm, I think the distance she maintains while in practice will curb that. Your arrangement and choreography for the performance emphasized the danger in her beauty,” Bao Qian said.
+
+“Hm, I hope it will be enough. I have not seen a spirit so… casual in mien since I last left the library of Blue Mountain, and those were born of objects and buildings,” Duxian said thoughtfully, tapping his staff on the wooden floor. “That aside, I am not sure I fully like your sale of favors.”
+
+“The pennants?” Bao Qian asked, glancing at the crates containing more of the things.”It seems only sensible to me. The regular folk receive plain cloth blessed by Miss Hanyi, while the cultivator folk may purchase my formation writ ones. Given the exchange of stones is a lesser sacrifice, shouldn’t it work out about the same?”
+
+“That is not really the point young sir,” Du Xian said with furrowed brows.
+
+Bao Qian rolled a single red spirit stone between his finger and thumb, frowning himself. “Then we will have to disagree sir. Coin, exchange is a sacrifice. It is the representation of one's labors. It is less personal maybe, but it is meaningful all the same. I know you here in the south might see it as vulgar. But that is my part of this exchange, that you accept my own beliefs on this.”
+
+Du Xian did not look entirely happy, but Bao Qian would not back down on this point. He would freely weave and ink the common pennants, wholly vessels for Hanyi’s power, but to not profit from his works at all would be a terrible insult to both his clan and himself.
+
+“I won’t deny this is doing good. The chaos among the spirits is less than usual.”
+
+It was at that moment that the door of the wagon burst open spilling a frantic looking temple attendant into the room. “Priest Du! There has been an incident!”
+
+***
+
+Being worshiped was really great actually, Hanyi decided, turning over the glass figurine in her hand.
+
+It didn’t taste the same as a man or beasts last breath. It was thinner, it sat less heavily in her stomach. If she had to compare it to something, it was like the difference between meat and the tasty plum pastries that Big Sis’ Momma made sometimes.
+
+Human food wasn’t bad either! Even if she was never full after she ate it!
+
+But her thoughts drifted back toward the little figurine in her hands. The glass was clear, tinted just a little blue in a way that looked like creeping frost. It wasn’t perfect, if she looked real hard, she could see a few little bubbles,seams where the flaring gown’s folds met the center of the figure. But that was fine.
+
+It was so warm. And even when she breathed it in, drank the warmth, it stayed warm. Bao Qian said people knew they were coming so they could prepare gifts.
+
+But this one. This one was so full, even though the skinny mortal man who’d offered it had not a drop of qi.
+
+After the main performance, they put her up on a palanquin to march through the town. She could see the bright lights of torches and lanterns through the curtain, stalls and the people. At every crossroad they would stop and recite parts of her song, as poetry, and set out an altar for people to make offerings and ask for blessings.
+
+It was fun. She’d been really piling up loot in here, and Big Sis would be proud, but as a man reached the front of the line. She found her attention drawn to him. He wasn’t different than the others. Dim, mortal in rough but clean clothes, he wore a bandana over a shaved head and his hands and face were marked by little pockmark burns. But he had a child in the crook of his arm. A little girl, as wrinkly and ugly as any human baby. She seemed kinda weak and dim and she breathed weird.
+
+It wasn’t the man's words, spoken as he knelt before the altar and prayed that moved her. She’d only really half listened to those. He sounded super sad though. Like he’d lost a lot.
+
+So, maybe she’d listened a little.
+
+But he’d brought out this figure, and she was transfixed. Everything people had given her, had a little spark of heat, sometimes more and sometimes less, but this one was like a tiny star. She knew instinctively he had poured blood and sweat and time and what meager things he might call wealth into this. She knew that because she could smell the desperation and hope, like a savory aroma.
+
+So she’d done something she wasn’t supposed too. She reached out from behind the curtain and taken the figure right from his hand, instead of letting the attendant do it. And when she did she plucked out the little mote of frost in the girl’s lungs and traded it for a little bit of the warmth she’d been snacking on.
+
+Hanyi wasn’t sure how she did it, but she did. It just seemed right. The little baby was breathing right now, and after the old guy stopped being scared, he started crying and thanking her. It was kind of a scene, but she liked it.
+
+It would be amazing if she could get more presents like these!
+
+“And that’s why you’re gonna stay on your mountain. Got it,” she said, looking down from her figurine.
+
+Half transparent, made of fog and clouds and glittering snow, a squirming, girlish figure lay belly down on the roof of the temple. Glittering blue eyes, frozen chips of ice in the mass of cloud looked up at her, the warmth causing them to soften and melt a little.
+
+Hanyi pressed her foot down on the side of the other spirits head, grinding it into the roof tiles. “Right.”
+
+The other spirit, whose name was a little squishy. Ice-upon-the-slope, shredding-hail upon-fields, shriek-of-high-winds. All sorts of jumbled. All the same, the other spirit let out a breathy wail of wind that spread frost across the tiles.
+
+“No messing around here! You stay on the mountain, till everybody has their harvest in, then you can come tug at the shutters and drop ice on stuff,'' Hanyi commanded imperiously.
+
+A whisper of wind, the struggling spirit went limp. She stopped pushing back against Hanyi’s foot. Submission.
+
+Like there could be any other result! Hanyi still kept her pinned for a minute just to make sure she knew who was boss. “You won’t get another chance. Next time I’ll just eat you.You overgrown fairy.”
+
+Sad wail, wheedling whisper for mercy.
+
+“Hmph,” Hanyi sniffed, standing up. “You better. Play nice and maybe I’ll cut you in next year, huh?”
+
+That was how you got underlings, Hanyi was pretty sure. She thought having underlings would be cool.
+
+She wasn’t sure though as the spirit shot off toward the mountains in the south. This one was kinda unformed and dumb. Oh well, if it didn’t work, Hanyi would just eat her after all.
+
+“Miss Hanyi!”
+
+She turned seeing Bao Qian land on the rooftop with a shuttering thud that nonetheless didn’t crack a single tile, followed by that nice Du guy, who was perched on a cloud.
+
+“Oh hey, I guess the girls doing my hair up got worried?” Hanyi said. “Don’t worry, I was just showing another spirit who’s the new boss around here!”
+
+Hey! There was no need to look all exasperated like that!

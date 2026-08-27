@@ -1,0 +1,139 @@
+---
+id: e651758d-7806-500b-8b8d-9e62f1ef8daa
+page-type-slug: story-chapter-royal-road
+title: "Threads 64-Foreshock 1"
+slug: 0081-threads-64-foreshock-1
+partOf: forge-of-destiny
+position: 81
+ownLength: 2887
+unit: words
+publishedAt: 2021-03-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/651077/threads-64-foreshock-1"
+royalRoadId: "651077"
+---
+
+“To think, you finally choose to change your style, and I am left out of it,” Xiulan said, aggrieved. “Ling Qi, am I truly so poor a friend that you would not even ask my advice?”
+
+Ling Qi rolled her eyes at Xiulan’s dramatics. “And I told you that it was something that got sprung on me suddenly. Who am I to refuse the advice of an apprentice to the Duchess?”
+
+“You could have at least angled to get me an invitation, you terrible girl,” Xiulan grumbled, looking over to study her. “I suppose I cannot argue with results.”
+
+Ling Qi shifted under her attention. She still felt odd about changing her looks on the regular since she was worried about messing it up. Since they were heading out into the wilderness and the weather was cooling, she had gone for an ‘autumn-winter’ look, not that she had more than a basic understanding of what that meant.
+
+Her winged mantle had been traded for a thicker cloak that covered her shoulders and chest and hung down almost to her feet with a high fur-trimmed collar that brushed her chin. She had switched out the front panel of her gown for one showing falling snowflakes that seemed to move as the cloth shifted. A few of the underlayers of silk had been switched out for thicker cloth, lending the gown a bit more ‘weight,’ and the hems had been drawn in and a trim of dark purple fur had been added. She liked the sleek, black calfskin boots that she had picked out, even if she was less fond of the fact that they were visible beneath the raised hems.
+
+On her left hand, she wore the Three Moon’s Chime talisman that Lin Hai had made. The hand jewelry consisted of a silver ring and a silver wristband with butterflies and songbirds etched into it in powdered ruby. The two were connected by fine chainlinks with three charms carved from colored jade representing the Grinning, Hidden, and Dreaming Moons attached to them. Tiny bells hung from the links between the moons, letting off a pleasing chime if Ling Qi did not want them to be silent. As befit a talisman created by a master, it even had an active technique that would allow her to absorb hostile dispel techniques.
+
+“I assure you, next time that I am going to be poked and prodded and measured for hours, I will be sure that you get an invitation,” Ling Qi replied dryly.
+
+“Be sure that you do,” her friend said imperiously, the gravel of the road crunching under the soles of her own boots. She gave Ling Qi another assessing look. “Really, I do think you chose well though. It is not my style, but that sort of cut suits you.”
+
+LIng Qi reached up, tentatively brushing her fingers through her hair. Lin Hai had convinced her to lighten up on the straightening elixirs. Her increasingly long hair was now bundled at the base of her neck, leaving a tail of wavy locks reaching almost the middle of her back. The whole thing was held together with a silver butterfly pin in deference to her liege. She still wasn’t sure if she liked it or not.
+
+“Thank you,” she said. “I see you’ve been experimenting yourself.” Her friend’s glossy hair had been woven through a complex golden hairpiece made to look like a rising sun with rays that radiated out, supporting the bundle of hair behind it. The girl had also been working some dark red highlights in, but whether that was an effect of cultivation or dye, Ling Qi did not know.
+
+“Ah, do you like it?” Xiulan asked, tilting her head to let the piece catch the sunlight and gleam. “I am considering commissioning a talisman, but I wished to wear a piece of similar make before I invested.”
+
+“It’s very mature,” Ling Qi said with a slight smile.
+
+Xiulan made a face at her. “Ugh, must you put it like that?”
+
+“It does seem like something your mother might wear,” Ling Qi teased. In her thoughts, she felt Sixiang’s amusement.
+
+<Humans are weird. You should just let your hair grow long and pretty without tying it in knots,> Hanyi muttered mutinously. <Can’t believe the big lump fell asleep.>
+
+“And what is wrong with that? Mother is the peak of fashion,” Xiulan boasted. “I can hardly go wrong in emulating her.”
+
+Ling Qi did not think Ai Xiaoli was the sort of woman to be caught outside in less than three dozen layers of silk, let alone something like the mere three-layered light yellow gown Xiulan was wearing with its scandalously bare shoulders and hems that came down only to the calf.
+
+“I hate to interrupt, but I can see the walls.” The third of their number, previously silent as he walked a few paces ahead of them, spoke up. Shen Hu had not changed much over the last half year, except that he had unfortunately taken to wearing a loose shirt of dark green silk.
+
+Ling Qi was gaining on them in cultivation - and noticeably so. Xiulan had just reached the appraisal stage, and even Shen Hu had only recently reached full foundation cultivation despite starting the year a full stage ahead. It couldn’t be helped. “We’re still pretty early. Should we have a look around the town then?” she asked.
+
+“I doubt there is much to see,” Xiulan replied, giving the low stone walls ahead a faintly disdainful look. “But I suppose it is not a bad way to spend an hour or so. Will you escort us then, Sir Shen?” she asked sweetly.
+
+“I suppose,” the older boy said, his hands held together casually behind his head. It seemed that over the course of the last few months, he had become inured to Xiulan.
+
+Ling Qi glanced over as a disgruntled look passed over Xiulan’s expression. She had a feeling that she had missed something. Sparring and shopping was all well and good, but she recognized the signs of mounting frustration in her friend; it looked like they needed another girl’s night sometime in the near future.
+
+“Well, let’s have a look around then,” she said brightly before the silence could grow awkward.
+
+Ling Qi had done her research before this mission. While her Senior Brother Liao Zhu would still be on the mission as well, he would not be there to mind her as he had done in the previous scouting exercise. After completing the last lesson in the previous month, she, now in her seventh month in the Inner Sect, was a provisional officer of the Sect’s scouting division. She did not want to fail or do poorly now.
+
+The region they were deployed to, a hilly scrubland rich in mineral wealth, was a few days east of White Cloud Mountain at a first realm’s pace. The town they were approaching was the region’s center, a township of a little over two thousand people laid out behind neat square walls and sectioned into districts. The smoke and heat of smelters clouded the air here as raw ore was turned into bars to be shipped out to larger settlements, and heavily laden wagons full of blocks of quarried marble, granite, and jade moved slowly through the wide streets.
+
+At the north end of the city was a well kept market district where traders from outside the province came to purchase raw goods in exchange for foodstuffs, worked goods, and luxuries. At the city’s very center lay its Immortal district, kept clear of smoke by formations set into the inner marble walls. It was the luxurious barracks there that she and the others were bound for.
+
+The town had very few cultivator residents. There was a Sect Overseer which the mortal governor and ministers answered to, a man at the fifth stage of the third realm, and a bare handful of early third realm officers in the hundred and fifty strong permanent garrison of first and second realm soldiers.
+
+“How very rustic,” Gu Xiulan said dryly as she strode through the inner gates, paying no mind to the first realm soldiers manning it. She did not acknowledge the bowing men as she strutted past, once again in the full flower of her confidence. “Still, it could be worse.”
+
+Ling Qi favored the guards with an apologetic smile as she swept past, but it didn’t seem to comfort them. “Perhaps for you. I don’t really care for the soot in the air,” she said wryly as they left the gates behind. It wasn’t too bad - a handful of formation markers kept the worst of it from settling in the streets - but Ling Qi had grown used to the clear, crisp air of the Sect’s mountains.
+
+“Breathing in a few sparks now and then is good for your character,” Gu Xiulan jested.
+
+“It reminds me a bit of the charcoal makers at home,” Shen Hu commented. “Smells bad though.”
+
+“Your family makes charcoal? What for?” Ling Qi asked. She would think fuel like that would be unnecessary for most things.
+
+“Something about transferring properties to the metals,” Shen Hu said. “Sorry, my older brother and sister know more about that kind of thing. Don’t really have the head for crafting.”
+
+“It has its uses,” Xiulan said imperiously, not looking over at the boy. “Of course, the deathstone quarried from the outskirts of the Grave is superior.”
+
+“Sure is, probably,” Shen Hu agreed with an uncaring shrug.
+
+Xiulan made an irritated noise in the back of her throat. “In any case, it seems we must part ways here. Good luck, Ling Qi. Perhaps we might find ourselves assigned to the same hamlet sometime during the week.”
+
+“Maybe,” Ling Qi replied, dipping her head first toward Xiulan and then Shen Hu. “Try not to burn down anything we want to keep though.”
+
+“Just try not to frighten any peasants to death, you wraith,” Xiulan shot back with a smirk.
+
+Shen Hu gave them both mildly concerned looks and shook his head. Sometimes, Ling Qi thought, he just didn’t seem to get jokes. “Yeah, it’s raiding season. Keep your eyes open.”
+
+Ling Qi left the two of them to enter the barracks and turned down the street herself, heading toward the smaller office where the scouts would be meeting. Passing swiftly down the mostly empty street of the government quarter, the elegant single story building with a peaked roof soon came into sight. Ling Qi recognized it from the description she had been given.
+
+However, as she approached, she slowed down, first feeling and then sighting an unignorable presence. Slowing and then stopping in the tile-paved courtyard outside of the building, Ling Qi bowed. “Senior Sect Sister Guan.”
+
+The young woman cocked an eyebrow at her, not uncrossing her arms. “Commander is more appropriate when we are on duty, Officer Ling.” The tall young woman dressed lightly, wearing only a sleeveless jacket of grey padded cloth and similarly colored pants tucked into thick mountaineer’s boots. Formation-inscribed bandages covered her hands and forearms, but she wore no other accessories.
+
+“My apologies, Commander Guan.” Ling Qi held in a grimace at her mistake. She had spent so much time dealing with nobility that it had pushed some of her military lessons out of her head.
+
+“We are not on the field just yet, so I will forgive the slip. Seeing that you recently visited Senior Brother Lin, I can forgive some slippage in discipline,” Guan Zhi said evenly.
+
+Ling Qi’s eyes widened. “Is it that obvious?” she asked, glancing down at herself.
+
+“The only thing that flies faster than the barbarians are rumors,” her commander said dryly. “In any case, come along, officer. You are the last to arrive, and I must brief you all and decide upon assignments.”
+
+<Still can’t believe you left me out, Big Sis. I want a pretty dress too,> Hanyi complained.
+
+Ling Qi hurried to follow Guan Zhi as she turned and stepped toward the door, glancing over at the young woman. She assumed she was young anyway. It occurred to her that she had no idea how old Guan Zhi was. “May I ask a question of you, Commander?”
+
+“You may,” the girl replied tersely as she led her inside past rooms populated by first realm cultivators, cartographers and messengers going about their tasks and crafts.
+
+“What should I expect from raiders?” Ling Qi asked with a touch of nerves. “I have read reports and such, but my home city is far into the interior.”
+
+Guan Zhi looked her way, assessing Ling Qi. “Young men out to prove themselves warriors by looting and killing,” she answered. “The typical raid is a quick affair, a half dozen or so low ranking cultivators swooping down to smash homes, destabilize quarries or mines, and steal livestock and metals. It is unusual for them to stand and fight, and a show of force will typically scare them off immediately. However, sometimes this is only a feint to draw glory hungry soldiers into chasing them.”
+
+Ling Qi nodded in understanding.
+
+“However,” Guan Zhi continued sharply. “Recently, things have grown more dangerous, but I will get to that in the briefing.”
+
+Ling Qi dipped her head in acknowledgment as they reached a closed door. She could sense the other presences inside and was a little surprised by what she felt. Stepping into the room behind Guan Zhi, she found not only Liao Zhu, who was seated in a meditative pose against the far wall, but also two other faces she recognized among the handful of other third realm disciples in the room.
+
+Alingge and Sha Feng both nodded amicably to her as she took her seat beside them, and Guan Zhi moved to the front of the room to stand behind the speaker’s podium. Liao Zhu stood smoothly as she took her position, stepping into a deferential position behind her.
+
+“The region you all have been assigned contains three major landmarks and five settlements,” Guan Zhi began without preamble. Her voice was crisp and clear. “For the next week, the safety of its inhabitants will be in the hands of you and your counterparts. While this is normally not a terribly arduous task, a number of factors lead the Sect to believe that trouble may arise. Firstly, tribesmen have been spotted in greater numbers than is normal throughout the year, and this has not tapered off. Secondly, a new mine and its attendant village is currently under construction and development, meaning that there is a gap in our defenses and potential for trouble with the spirits of the mountain. It is suspected that the barbarians may strike there specifically as records indicate that some local tribes once used it as a site for certain rites.”
+
+Ling Qi listened closely as her commander began to lay out the situation. The region to the south of this town contained two major peaks comparable to White Cloud Mountain. The first, Cyan Peak, lay just a half dozen kilometers south and east and was the site of two well established quarrying villages that harvested the rare sky jade which composed much of the mountain. Further out from that was a stretch of hills with a single major river flowing through where two additional villages lay, farming the fertile valley to provide crops for the rest of the region. Furthest south was Icebreaker Peak, a tall and forbidding spike of a mountain that rose high to pierce the clouds.
+
+Icebreaker Peak was the site of the new village on a location discovered to hold iron as well as higher grade metals and seams of diamond. There had already been troubles from the spirits there as the mine shaft had been dug. Liao Zhu would be assigned there to ensure that the completion of the mine went smoothly. Guan Zhi herself intended to range out into the outskirts of the Wall itself to keep a watchful eye on known Cloud Tribe gathering places and sky routes.
+
+“This leaves the matters of the villages themselves. Each region will require a scouting division complement. I will also require a squad to act as rangers and messengers, remaining on the move between all points to maintain communications between myself and the captain here,” Guan Zhi concluded. “I would hear your suggestions now regarding where you believe you will be best deployed.”
+
+Ling Qi thought about the potential posts. The villages on Cyan Peak seemed as if they would be the safest. From the description, they were relatively well fortified already, which meant they might not need her.
+
+No, one of the other positions would suit her better.
+
+The valley villages were more sprawling and less well defended by nature, but she was fast, and her arts could cover a great deal of ground. Plus, it might benefit Zhengui to be in a position to defend something. On the other hand, being in the messenger cadre would make the best use of her mobility, and she could even use the techniques she had studied in the Curious Diviner’s Eye art to help facilitate communication. It might be a better use of her talents.
+
+As others began to speak, Ling Qi decided where she and her spirits would do best.

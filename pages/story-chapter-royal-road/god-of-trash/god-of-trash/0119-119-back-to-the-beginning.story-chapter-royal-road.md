@@ -1,0 +1,107 @@
+---
+id: 177adfcb-5fb8-52a4-9e1e-69aec3c693d1
+page-type-slug: story-chapter-royal-road
+title: "119. Back to the Beginning"
+slug: 0119-119-back-to-the-beginning
+partOf: god-of-trash
+position: 119
+ownLength: 1900
+unit: words
+publishedAt: 2025-07-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2406776/119-back-to-the-beginning"
+royalRoadId: "2406776"
+---
+
+Their trip back was short. Lira descended into the streams, and Rhys and Mouse walked back. They had to pause for an Empire patrol to pass by, but Mouse easily hid their presences, and the patrol passed them without noticing a thing. This time, Rhys paid close attention to her technique. He wasn’t quite sure how she did it, yet, but he was getting closer to understanding. It was something like pulling in all her mana, while at the same time exuding a weak aura that was so regular it simply passed below anyone’s notice. Not ‘no one’s here,’ but instead, ‘there’s nothing here worth paying attention to.’
+
+They returned to the hideout to find Lira already there, and Korii and the others gathered around, waiting for him. Rhys beamed. “I’ve solved all our problems. Are you ready?”
+
+“All of them?” Korii asked.
+
+He waggled his hand. “Alright, I’ll admit, the Empire is still a work in progress, but the rest of them. Listen up. Here’s what we’re going to do…”
+
+Everyone listened. At some points, they smiled; at others, they frowned deeply, but everyone listened. At last, Rhys finished, and they all stared in amazed silence, totally on board with his plan.
+
+As if. Rhys chuckled to himself at the disbelief flickering from one face to the next. That was fine, though. They didn’t have to all understand now. They’d see the light as things progressed, and the money started flowing in.
+
+Korii raised her hand. “We’re wanted men. Won’t the Empire recognize us when we go to sell our goods?”
+
+“That’s what you’re asking about?” Blake muttered.
+
+Rhys snapped, pointing at her. “Don’t worry. I’ve got the Disguise skill and the skills to match. We’ll have to engage in a little thievery to get the makeup, but I can source the clothes from right here. When I’m done with you, the Empire won’t know you from one of their very own citizens.”
+
+“What about our auras?” another mage asked.
+
+“That’s what the tomes are for. If you can’t figure it out, you’ll be in the kitchen instead, or working logistics. We’re starting with potato chips, but I’ve got big money in my sights. Once we lock down a source of sugar, oh boy. You’re printing money, at that point.”
+
+One more mage raised their hand. “And we’re selling food… to mages?”
+
+“Yep.”
+
+“Food imbued with magic?”
+
+“Imported from foreign countries by good law-abiding core-free Imperial citizens, yes.”
+
+The mage squinted at Rhys. “Mages don’t eat.”
+
+Rhys chuckled. “They don’t eat now. Just you wait.”
+
+Another mage stepped forward. “Is this really the best way for us to get back at the Empire? Feeding it?”
+
+“This isn’t how we get back at the Empire. This is how we fund our plan to get back at the Empire,” Rhys explained, shaking his head. “Although it is also part of my plan, but that’s complicated. You’ll have to have a little faith.”
+
+Korii stepped forward. She crossed her arms. “I believe in you. You broke us out of the mines and you gave us back our cores. I thought neither of those things were possible, and here we are. This plan sounds insane, but if you told me you’d break us out and give us magic once more, I would have called you crazy back in the mines. I don’t care what the others say. If you say it’s time for us to sell this ‘junk food,’ then I’ll sell junk food. It’s better than pointlessly dying to some harebrained assassination attempt, or harassing nobles for little gain.”
+
+“That’s true. It’s better than becoming bandits,” another mage agreed.
+
+Blake twisted his lips. “I still think this is crazy, but… we’ll find out. If it doesn’t work, though—”
+
+“If it doesn’t work, I’ll be the first one to change my course,” Rhys said. He looked around at all of them, at the believers and disbelievers. “Three years. Three years we were stuck in those mines, grinding away for no purpose at all. Give me three years. If I can’t get this up and running in three years, if we aren’t swimming in money and laughing as the Empire eats itself to death and drowns in cheap alcohol, we’ll change course.”
+
+Korii nodded. She turned, looking at the others. Slowly, one after another, nods spread across the group.
+
+Rhys clapped. “Then let’s get to work. I need people scavenging the pit, right now. We need cauldrons. The bigger the better. A storage ring, for transporting food. I don’t care if it’s broken or filthy, any kind of storage device will do. We don’t have all the ingredients, either. One team will be harassing merchants, stealing everything on any sort of food-based or alchemical supply cart. We’re looking for three primary things right now: salt, oil, and vinegar. If you find sugar, even better. Aim at low-grade wagons. We don’t need high-level mages taking notice of their powerful alchemical reagents vanishing, we want to irritate weak mages with no real magical or political power. Don’t touch anyone wearing a military uniform. Last thing we need is the Empire taking notice before we’ve got the seed funds to kick off our store legitimately.”
+
+“Anything else?” Blake asked sarcastically.
+
+“Thanks for asking. If you could nab a few of the merchants’ pins—you’ll know ‘em when you see ‘em, real obvious—that would be huge. They identify them as merchants, somehow, allow them to use mana outside the Empire’s military. I’m sure I don’t need to convince anyone of how useful a pin like that would be?”
+
+Nods all around.
+
+Rhys chuckled, then turned serious. “But don’t try to use them yourselves. Bring them back. I suspect they’ve got some kind of trick to them, and if the Empire picks you up… you’re on your own. We can’t afford to mount rescue operations. Assume no one is coming for you, but keep the faith—if you break, we all die. Everyone bears that responsibility. Do you understand?”
+
+Nods again, but solemn this time, and Rhys was struck with the sinking feeling that he was founding the world’s oddest death cult. He pushed the sensation down and kept going.
+
+“If the Empire doesn’t execute you, you’ll be freed when we defeat them. Though, actually, asking to get sent to a mine isn’t a bad idea. Once we get our resources rolling, we’ll start hitting the mines, break as many people out as we can. We’ll need manpower for every part of our plan. Make sense?”
+
+More nods.
+
+Rhys clapped. “Then hop to. The Empire won’t fall on its own.”
+
+Korii cleared her throat. “Who’s doing what?”
+
+Good question. Rhys squinted, then drew a line with his hand. “This half, search the area and the surrounding trash heap for usable materials. Cauldrons, furnaces, cloth, scrap metal, scrap wood, anything that seems vaguely useful, and I do mean vaguely. If it’s fused into our cover, ask me first. This half, you’re researching merchants. Staking them out. Get to know them personally, what they carry, their routes, hell, their character flaws. In a week, we’ll go on the attack, but if we rush this, we lose. If we watch closely and learn everything there is to learn first, then strike, we win.”
+
+“What about us?”
+
+Rhys turned to find Lira raising her hand, Mouse beside her. He nodded. “Learn to hide your aura. You’ll be part of the strike group in a week’s time… along with anyone else who shows particular skill and interest in raiding some merchants. Sound good?”
+
+One last ‘yes.’ Rhys waved his hands, dispersing them. He turned himself, heading out under the trash heap to survey its contents. He hadn’t looked over it closely while he was rapidly procuring them a place to hide from the Empire, and he was sure he’d thrown lots of useful trash into the big heap. Useful things could be removed and replaced with less useful things. After all, he didn’t just need one kettle this time. He needed a whole industrial kitchen, and before long, he’d need a whole industrial test kitchen. Countertops, knives, bowls, the whole nine yards.
+
+He lifted his hand, calling down a dented spoon. That went in his robe. A fork with two tines joined it. Not long after, half a bowl.
+
+The Straw doll hissed. It swung around on the hilt of Rhys’s sword and landed atop it, then climbed up to Rhys’s shoulder. Lifting its crude hand, no more than a knob at the end of an arm, it pointed.
+
+“What? Oh, this?” Rhys lifted his hand again, calling down a scrap of fabric. The Straw doll jumped onto his hand and gobbled it up, stuffing the scrap into its mouth. Its body shifted, growing a tiny bit bigger, and the cloth appeared on its head, formed into the shape of a big floppy hat. The Straw doll touched its hat and smiled, then scrambled back down to dangle from Rhys’s sword again.
+
+Rhys chuckled. He shook his head. “You just aren’t Straw without your hat, huh?”
+
+The doll had nothing to say to that, back to its usual insensate state.
+
+Straw wasn’t much of a talker, either, so he wasn’t too shocked. He went back to drawing down bits of trash to add to his kitchen, a plate here, a strainer here. There was plenty of mortal trash, and thus, plenty of cooking implements. That was the one good thing about the Empire; lots of mortals under its purview, due to its Empress’ tight control on cores. It meant they’d be able to start from a foothold in the mortal world, where it was far easier to convince people to eat delicious things, then grow to the mage world. Of course, the foothold in the mortal world was meaningless, monetarily as well as ideologically, but it was a start, and easy money was easy money. He’d prefer to skip the mortal world entirely, but what kind of foreign traders would bring food into the country for mages only? There was no point. It simply didn’t make sense, and anyone could call it out as highly suspicious. Now, if the foreign mages brought food into the country for mortals that just happened to grow popular among mages as well, that was another thing.
+
+There was a tiny risk in using his potato chip recipe that someone would recognize it and come looking for him, but it was a risk he was willing to take, and besides, he wasn’t going to end with potato chips this time. They were but his starting point. His tried and true, early phase, from which he would grow his true business empire. If everything went well, he’d have the kind of empire enjoyed by the few companies in his world that had fully and truly mastered the world of food, the kind where it seemed to be a dozen disconnected brands with nothing in common, until you peered closely at the back of the box to find that familiar logo hidden away on its rear. At the end of his plan—no, even once he entered the mid-phase, he’d be able to abandon potato chips without losing a thing, if he needed to.
+
+He glanced down at the Straw doll and smiled. “We’re about to get evil. Real evil.”
+
+The Straw doll looked up at him with its tiny button eyes and cheered.

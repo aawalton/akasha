@@ -1,0 +1,209 @@
+---
+id: ba6e37bb-0699-5dc6-b238-4e35074565d3
+page-type-slug: story-chapter-royal-road
+title: "Threads 199-Rite 3"
+slug: 0231-threads-199-rite-3
+partOf: forge-of-destiny
+position: 231
+ownLength: 2749
+unit: words
+publishedAt: 2022-03-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/867871/threads-199-rite-3"
+royalRoadId: "867871"
+---
+
+Ling Qi and the spirit stood there for a moment as the faint strains of music echoed through the dream. She gave a terse nod. The spirit’s liquid avatar spasmed in a way resembling a bow. With a flex of her legs, Ling Qi shot back into the sky, catching a current of wind to drift her way toward a spinning leaf as they fell from the hills and cliffs of Seven Stream’s domain.
+
+Sixiang materialized behind her, a hand on her shoulder. “You did good there. That was probably the least messy way it could have gone.”
+
+Ling Qi breathed out, balancing atop the drifting red leaf. “A few weeks, maybe a month,” she said tersely.
+
+Sixiang grimaced. “That’s what you gave up, huh?”
+
+“It’s not much,” Ling Qi said. “Not when I have so much time ahead of me. Keeping up my reputation so Renxiang and I’s project succeeds is much more valuable. Hanyi’s performances are probably going to be more important than I thought.”
+
+“The temple priests are gonna give you trouble on that. The fact you succeeded is just gonna prick their pride more, even leaving aside other stuff,” Sixiang noted.
+
+“Some will, but I’m not going to assume how many people will be. If the ones who don’t like me are holding all the tiles, then I just have to find the right friends to give a boost to.” Ling Qi wasn’t quite as confident as she portrayed, but she hadn’t chosen an easy path. That was just how it was.
+
+“Hm, I won’t say I mind you being more aggressive.” Sixiang leaned on her shoulder.
+
+Ling Qi let out a huff of laughter. “Let’s get back and see if I can catch the end of the show.”
+
+***​
+
+They weren’t able to catch more than the final procession through the temple gardens in the end. She supposed the transfer of power must have taken longer than she had subjectively perceived. At least she had been able to slip in among the crowd to add her applause to the end as Hanyi took her bows. It seemed as far as the audience had been concerned, it was a splendid festival performance.
+
+She spent some time among them, mingling with her fellow nobles. After her negotiation with the river spirit, it was almost relaxing to field questions about the “unique twists” to the ritual and deflect with a smile and some words about changing conditions.
+
+There was some legitimate unease, but between her confidence and the silence of the clergy, it was no more than that. It seemed that whatever their opinion on her, the priests had no interest in showing weakness either. Eventually, as the guests were called to the holiday feast set for after the ritual, Ling Qi was able to make her way back into the staging area and meet Bao Qian again.
+
+“Of course I knew that there were ten rivers,” Bao Qian said, seeming a bit offended at her question. “I was assured in our correspondence that the priests were planning a special individual ceremony for the Seven Hill’s Stream since its source was in the snow melts and might view this as an intrusion.”
+
+“I hope that you kept every piece of the correspondence then,” Ling Qi said stiffly. Her temper had cooled, but she still felt very irritated by all this.
+
+“As do I, since I wrote of no such thing.” An older woman’s voice reached them, and Ling Qi frowned as she peered through the door to their destination. It was a room filled with tables and benches for the ritual performers to relax in. Right now, it held only the older woman and Hanyi. Her junior sister was looking smug, and the two of them seemed to be studiously ignoring each other.
+
+“High Priestess,” Ling Qi greeted, entering the room with a bow. “I was able to prevent any immediate issues.”
+
+She didn’t let her voice waver toward pride too much.
+
+Chao Yanlin narrowed her eyes. “Yes, though we shall see what a river spirit drunk on darkness might do in the coming year. How did you achieve your negotiations so quickly, Baroness?”
+
+“I must keep my methods to myself,” Ling Qi replied. “As you see here, it is sometimes necessary to have some secrets.”
+
+The older woman’s nostrils flared in irritation.
+
+“Lady Ling's privacy is not up for debate, but I do apologize for any trouble. You can be sure that the temple will receive a donation to aid in covering any lingering trouble,” Bao Qian said diplomatically, stepping in behind her. “Lady Chao, might you want to share the other issue which came up during the procession?”
+
+Chao Yanlin shook out her sleeve, the tiny bells woven into the fabric ringing, and an iron cage appeared on the table between her and Hanyi. In it were a variety of pulsing lights bobbing and bouncing crazily in the confines. They were dark blue black and shimmering white. Winter faeries, if Ling Qi had her guess. “There was further sabotage. An attempt to disrupt the ritual was made using a bound mortal servant.”
+
+“Luckily, my own arts were able to detect something wrong with the man carrying the spirit cages since Lady Ling informed me that high alert was necessary. Unfortunately, there was little to be gained from the poor mortal.”
+
+Ling Qi squinted at the cage. The faeries shrank back under her gaze, huddling at the bottom of the cage. “What would releasing these have accomplished?”
+
+“Important rituals interact with the flow of the world's energies. They are the region’s meridians, if you must compare it to human cultivation. Introducing foreign qi into the midst of a ritual unplanned would confuse and anger the spirits of the land and may even cause them to lash out at the performers, perceiving an insult,” Chao Yanlin said sourly.
+
+“Why isn’t there more security then?” Ling Qi asked.
+
+“Because open sabotage like this is not done,” the woman shot back. “Not since Her Grace’s reforms to the Ministry.”
+
+“It seems really sloppy to me,” Hanyi said absently, watching the fairies dart around their cage. “The Duchess is really scary. You’d have to be pretty dumb to break her rules like that.”
+
+There was a shared moment of silence among the three of them. Truth from the mouths of children indeed.
+
+“It does seem very hasty and ill advised,” Bao Qian agreed. “But before we get too far, the letters?”
+
+Ling Qi was silent as the two of them spread letters across the table.
+
+<Might be someone panicked when you ran off. If you were supposed to be here, maybe these little fellas were meant for something else?> Sixiang mused.
+
+She watched as Bao Qian and the priestess reviewed the letters, stabbing their fingers down at the suspicious ones and politely bickering over their origin. It was clear that someone had altered the mail as well. Most importantly, it was becoming clear that this was more than idle sabotage. Someone was looking to seriously undermine her and her sister.
+
+“Whoever did this was quite a forger,” Bao Qian said sourly. There was no trace of his joviality. “Although, I do believe they have made a mistake.”
+
+“Oh, and what is that?” asked Chao Yanlin, looking as if she had bitten into something sour herself. “By my measure, you were bamboozled completely.”
+
+Ling Qi bit her tongue to keep from pointing out that the priestess had been tricked as well. It wasn’t helpful.
+
+Bao Qian rubbed a finger across the text of one of the offending letters. “I had no reason to find it suspect before, but the ink used in the altered letters is different. The soot in it comes from a specific grove of valley pines.”
+
+“How do you know that?” Ling Qi asked curiously.
+
+“Family trade secrets,” Bao Qian answered.
+
+“How… convenient,” Chao Yanlin said.
+
+“Hey, none of you are going to eat those, right?” Hanyi asked, interrupting them to point at the cage of fairies.
+
+“Hanyi,” Ling Qi sighed.
+
+“Hey, it's not just cause I’m hungry. I bet you I can tell you where they came from if you let me eat a few,” Hanyi said defensively. “When Momma went wandering with her second soul to visit other ice spirits, she’d bring me treats like this from all over the place.”
+
+Ling Qi paused. So did Chao Yanlin and Bao Qian.
+
+“If neither of you object?” Ling Qi asked.
+
+Chao Yanlin pursed her lips. “A more trustworthy method, I suppose. Spirits do not lie half as well as men.”
+
+“By all means,” Bao Qian allowed.
+
+Ling Qi gestured, and Hanyi’s hand shot out, kicking up sparks as it slipped between the bars of the spirit cage to snatch a pale blue fairy. The little thing let out a distressed shriek, its delicate wings fluttering furiously as Hanyi popped it into her mouth and brought her teeth together with a sharp crunch like a sugar candy being chewed.
+
+Hanyi spent several long moments chewing and rolling it around in her mouth before swallowing. She grinned, and the rest of the faeries in the cage cowered. “Oh, this one's easy. It's from the Green Stone Gleaming. It’s tangy.”
+
+Ling Qi frowned in confusion.
+
+“Mount Tong,” Chao Yanlin identified. “That would be…”
+
+“In the same viscounty as the pine groves. It is the great quantities of copper in the soil which lend the pine soot its properties after all,” Bao Qian concluded triumphantly. “Our letters would have passed through the Ministry of Communication’s office in Ganjian, would they not?
+
+“Yes,” said the Priestess.
+
+“Then it seems we have a lead,” Ling Qi said.
+
+"This is a matter for the ministries to pursue," Chao Yanlin said. "Whatever my opinion, this is clearly a crime. Leave this matter to those who know their task.”
+
+“I will cooperate with the Ministry of Law in all ways, but this matter is a personal attack as well,” Ling Qi said frostily. “However, just because I am not acting on my own does not mean I will not be involved."
+
+She was, after all, a direct retainer of the Cai clan. If she could not use that influence now, it was useless. She did not think even Renxiang would see making sure any investigations were not lost or buried was wrong. Indeed, the mere fact that the heiress, through her, was watching should ensure it was not. Renxiang would probably tell her that it wasn’t necessary though.
+
+Chao Yanlin gave her a measuring look, but eventually, she gave a nod. “This is not my business going forward. What is, however, are the plans for the lesser festivals on your circuit. I believe a full review of your plans and ‘my’ advice is in order.”
+
+“On that, we agree.”
+
+***​
+
+Running through the plans for the rest of the tour took the remainder of the evening and well into the morning, but by the end, everyone was satisfied that the plans were correct. It seemed that their saboteur hadn’t seen a reason to mess with them. Ling Qi supposed that if the initial festival had been ruined, there would be no need to sabotage the following rituals.
+
+Priestess Chao had left the moment that the last ritual was reviewed, leaving her alone with Hanyi and Bao Qian.
+
+Bao Qian broke the silence. “Please accept my sincerest apologies. My diligence was lacking.”
+
+“Nah, it’d be totally crazy to expect you to check for something like that,” Hanyi said dismissively.
+
+“Even if you had noticed a difference in the ink sooner, it wouldn’t have necessarily been suspicious,” Ling Qi said. “I don’t think it’s healthy to live in a way that you perform divinations on every little thing.”
+
+“Nonetheless, I will be more careful. This endeavor has turned out more important than I had thought it would be,” Bao Qian grumbled. “Ugh, the licensing and inspections from the Ministry of Spiritual Affairs…”
+
+“Why weren’t they involved?” Ling Qi asked. “That is, once you two had decided to look into this kind of performance.”
+
+“As we were only acting as guests of Viscount Chao, supplementing his own priests, it fell into a gray area of the laws. I had intended to build up a little more and make sure the business was viable before seeking the Ministry’s approval.”
+
+“Plus, it sounded like a big pain,” Hanyi said around another mouthful of crunching fairy.
+
+“Hanyi, finish chewing before you speak,” Ling Qi said repressively, and the young ice spirit wilted and closed her mouth. “Well, what can I expect to need done?”
+
+“Some testing. As a baroness, you technically have a license to act as a priest, but your lack of a fief makes the matter more confused,” Bao Qian answered. “Her Grace has recently granted the Ministry some additional privileges in investigating nobility… They will likely wish to exercise it.”
+
+“But I suppose they won’t want to be unfair to the heiress or her retainers either,” Ling Qi analyzed. “More of a ‘look how fair and effective’ we are kind of thing?”
+
+“Mm, I’m gonna have to study, aren’t I?” Hanyi asked forlornly. “I know that look, Big Sis.”
+
+“We’ll both have to polish up a little,” Ling Qi consoled, patting her head. Her knowledge of spirit kenning was unorthodox, and the Ministry of Spiritual Affairs was a very orthodox organization from her understanding.
+
+“I will cover any fees that might accrue, if only to make up for my error,” Bao Qian offered.
+
+“And what do you intend to do about the perpetrators?” Ling Qi asked.
+
+Bao Qian’s nostrils flared, his own irritation clear. “My father has contacts within the Ministry of Communication. I am certain that they will understand how upset he might be to learn that individuals have trampled upon their hard fought neutrality.”
+
+Ling Qi laughed. That was helpful. “I will focus on the Ministry of Law then. Lady Cai has a good relationship with them.”
+
+“A pleasing plan. But, if I may have your leave, I have another meeting I need attend to,” Bao Qian said, standing.
+
+“Go ahead,” Ling Qi said. She didn’t watch him go. “How are you, Hanyi? it was your show.”
+
+Her junior sister’s smile faded. “I’m mad, but I’m also scared. Somebody tried to use me to hurt Big Sis,” she muttered.
+
+“You can’t blame yourself for that,” Ling Qi said.
+
+“I’m not sure you can say that,” Sixiang interjected.
+
+“I get that. It's why I’m mostly mad,” Hanyi huffed, crossing her arms. “But I’m also really happy cause the show went well.”
+
+“And that makes you feel a little bad too,” Ling Qi said wryly.
+
+“Yeah, it just feels really great to perform, you know? I can feel all those people paying attention to me. Not just all those noble guys, but the workers and the people outside and even the spirits.” Hanyi’s voice sounded a little dreamy. “And they’re all here for me. But now I know doing it is gonna make more people try to hurt you.”
+
+Ling Qi opened her mouth and then closed it. “You shouldn’t think of it that way.”
+
+“How should I think of it then?” Hanyi challenged.
+
+“You shouldn’t give up what makes you happy,” Ling Qi replied. She rolled her shoulders, feeling a bit of tightness there. ”I won’t say you shouldn’t worry, or that you shouldn’t think about how what you’re doing could hurt someone, but you can’t just give up on something because of what an enemy might do.”
+
+“You’re my Big Sis though.” Hanyi fiddled with the locket hanging from her neck.
+
+“And you're my junior sister,” Ling Qi said. “Family can’t…. Family can’t just go one way.”
+
+“But you do everything,” Hanyi complained.
+
+“That’s not true,” Ling Qi said firmly. “Because you know what we learned today?”
+
+“What?” Hanyi asked, cocking her head to the side.
+
+“That someone thinks what you’re doing is important. Maybe they think you're supporting things with the ice people, maybe they think you're influencing the temples in my favor, or maybe they just don’t like my name getting out,” Ling Qi said. “I don’t know about you, but I’m feeling like proving them right.”
+
+Hanyi blinked and then slowly smiled. It was a sly spiteful thing, much like the one she had worn in their first game of tag. “Yeah, I like that idea too, Big Sis.”
+
+In her chest, Ling Qi felt an almost forgotten knot of tension begin to loosen.

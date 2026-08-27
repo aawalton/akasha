@@ -1,0 +1,273 @@
+---
+id: 9df2ea8a-835a-5a7b-b415-e118bd53e471
+page-type-slug: story-chapter-royal-road
+title: "42 - Aqua Rift-Core"
+slug: 0042-42-aqua-rift-core
+partOf: gamer-girl-evolution
+position: 42
+ownLength: 1530
+unit: words
+ownProgress: 1530
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2926923/42-aqua-rift-core"
+royalRoadId: "2926923"
+markedReadAt: "2026-06-29T20:06:55.374Z"
+---
+
+[You have begun forging.]
+
+[Since this is your first time forging, would you like to go through the tutorial?]
+
+Celica's hands moved.
+
+In her head, she was already theorising the optimal crafting method for the armour set she was going to make, not even for a moment considering going through the tutorial.
+
+She resolutely selected the 'no' option.
+
+Since I want the Earth Golem Parts to be the base, I should start with those first. I should aim to use all of the Rift Essence too. Luckily it works out, I can use 6 for each piece.
+
+It's been a while since I've forged, so I'll start with the gloves. Since its the easiest to forge, it should be perfect to get me back into the swing of things.
+
+Celica's hands moved with practiced ease, and the borrowed hammer in her hand fell ruthlessly. Soon enough, she was hammering away relentlessly at the Earth Golem Parts in front of her.
+
+[+85 Forging EXP]
+
+[+90 Forging EXP]
+
+[+80 Forging EXP]
+
+[LEVEL UP!]
+
+[You are now a level two blacksmith apprentice.]
+
+From the side, the NPC blacksmith watched on curiously. He muttered the words not bad under his breath. But Celica didn't notice. She couldn't notice. Not when she was that locked in.
+
+Her breathing and the rhythm of her strikes had synced. In Celica's world, the only things which existed were the materials on her work bench, the forge and her hammer. Countless notifications sounded, but none of them disrupted her focus.
+
+Nice, I'm making good pace. Now that the base is ready, its time I add in the Hydro-serpent scales to reinforce it.
+
+She reached out to the side, grabbing the aqueous serpent scales from the bench adjacent and placing them onto the forge. She continued hammering away, this time slightly adjusting the angle of her strikes.
+
+Apart from adjusting the angle of her strikes, since she added the scales, she also began hitting it a tad softer. The hydro-serpent scales were slightly more delicate than the earth golem parts and so she knew she had to hit differently for the former compared to the latter.
+
+Still, these micro-adjustments she made were completely natural to her. Reflexive, even. She'd done this exact process and countless variations so many times that by now it was completely automatic.
+
+From the side, the blacksmith's brows furrowed. He'd been expecting Celica to only be a top tier fighter, considering the fact she'd accomplished the feat of killing the marsh's greatest nemesis, the Cyclops.
+
+Forging was a skill which took years to pick up and even more to master. He'd suspected Celica might but a bit more talented than the average beginner, but what he was seeing before him left him stun-locked.
+
+Those weren't the movements of a beginner or an apprentice. In his mind, that was either a one star blacksmith in disguise or... an unprecedented genius!
+
+In reality, it wasn't either of his two conjectures. It was a tried and true nine star blacksmith de-rusting. Not that she could show off her real prowess this early into the game.
+
+The starring system worked in conjunction with the realm players were in. For the first realm, players were capped at one star for all lifestyle roles. No matter what Celica or any other player did, they simply couldn't surpass the star rating of the realm they were in.
+
+This was done for progression balancing, as if a player could dedicate all their playtime to a lifestyle role and reach seven, eight or nine star in their craft, during an early realm like the third or fourth, it'd completely break the game.
+
+Whether it was alchemy, forging or cooking, it was capped at one star for Earthonia. It was no wonder, then, that the blacksmith at Blade Village couldn't recognise the full extent of Celica's prowess.
+
+The game simply wasn't allowing her to showcase it fully.
+
+Unaware of the blacksmith's thoughts, Celica stayed focus, keeping her end-goal in sight. One by one, she integrated each and every one of the materials at the opportune time. Furthermore, through her immaculate technique, she drew out the maximum potential of each material.
+
+[You have finished forging an item. Would you like to continue?]
+
+Without missing a beat, Celica pressed 'yes'. On the work bench beside her, a pair of elegant, dark-blue, slick gloves appeared.  She didn't spare them a glance. Her work wasn't done yet.
+
+Struck by a fervent curiosity, the blacksmith NPC almost walked up to appraise the gloves, but stopped himself in the end. He knew how frustrating it was to be interrupted in the middle of your work flow.
+
+And Celica was only just getting started.
+
+[+115 Forging EXP]x5
+
+[+120 Forging EXP]x8
+
+[+130 Forging EXP]x12
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[You are now a level six blacksmith apprentice.]
+
+A minute later, another elegant piece of equipment, magically appeared onto the table. This time it was a pair of gloves.
+
+[You have finished forging an item. Would you like to continue?
+
+She kept going, dozens of notifications flaring in the background. Still, her focus remained steadfast.
+
+[You have finished forging an item. Would you like to continue?]
+
+[You have finished forging an item. Would you like to continue?]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[You are now a level ten blacksmith apprentice.]
+
+[Congratulations, you have met the sufficient criteria. You are now a one star blacksmith.]
+
+[Congratulations, you are the first player to become a one star blacksmith.]
+
+[Congratulations, you are the first player to become one star in a lifestyle role.]
+
+[Awarding the unique title: "The First Blacksmith" - grants a +2% stat bonus to all forged items.]
+
+[Awarding the unique title: "Get Me Away From The Front Lines!" - grants a +2% success rate when cooking/forging/brewing.]
+
+Celica breathed a heavy sigh of relief, beads of sweat dripping from her forehead. She got up and began stretching, the same stretches she'd done earlier in the day.
+
+The noise of footsteps startled her and she looked around for the source, remembering that she wasn't alone.
+
+"Sorry, am I interrupting?" Came the NPC's voice from the forge's entrance.
+
+"No, not at all," Celica replied, a satisfied look on her face. From her posture, anyone could tell she was quite happy with how the armour set turned out.
+
+Celica turned to him, a smug smile on her face. "Want to have a look?"
+
+The NPC was already staring intently at the armour set, his voice shaky. "T-this is... incredible..." he paused gathering his thoughts. "To think you've managed to become a one star blacksmith already. This is something I would—no. You've already... surpassed me.."
+
+His words came out slow and heavy, as if he couldn't believe his eyes. He was right. Celica had already surpassed him long ago.
+
+***
+
++4 Aqua Rift-Core Gloves [Super Rare]
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +0
+
+Defensive: +65,000
+
+Physical Defense: +800 (600~1000)
+
+Magical Defense: +800 (600~1000)
+
+HP: +6,000
+
+[Set Effect]
+
+-2ea +5% physical defense
+
+-3ea +5% physical defense, +5% magical defense
+
+-4ea (max) +5% physical defense, +5% magical defense, +5% elemental resistance
+
+Durability: 100%
+
+Description: A dark blue, elegant looking pair of gloves, crafted from several unique materials.
+
+***
+
++4 Aqua Rift-Core Shoes [Super Rare]
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +0
+
+Defensive: +60,000
+
+Physical Defense: +750 (600~1000)
+
+Magical Defense: +750 (600~1000)
+
+HP: +5,750
+
+[Set Effect]
+
+-2ea +5% physical defense
+
+-3ea +5% physical defense, +5% magical defense
+
+-4ea (max) +5% physical defense, +5% magical defense, +5% elemental resistance
+
+Durability: 100%
+
+Description: A dark blue, elegant looking pair of shoes, crafted from several unique materials.
+
+***
+
++4 Aqua Rift-Core Bottom-Piece [Super Rare]
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +0
+
+Defensive: +90,250
+
+Physical Defense: +1150 (1000~1300)
+
+Magical Defense: +1150 (1000~1300)
+
+HP: +8,550
+
+[Set Effect]
+
+-2ea +5% physical defense
+
+-3ea +5% physical defense, +5% magical defense
+
+-4ea (max) +5% physical defense, +5% magical defense, +5% elemental resistance
+
+Durability: 100%
+
+Description: A dark blue, elegant looking bottom-piece, crafted from several unique materials.
+
+***
+
++4 Aqua Rift-Core Top-Piece [Super Rare]
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +0
+
+Defensive: +105,550
+
+Physical Defense: +1500 (1300~1700)
+
+Magical Defense: +1500 (1300~1700)
+
+HP: +11,200
+
+[Set Effect]
+
+-2ea +5% physical defense
+
+-3ea +5% physical defense, +5% magical defense
+
+-4ea (max) +5% physical defense, +5% magical defense, +5% elemental resistance
+
+Durability: 100%
+
+Description: A dark blue, elegant looking top-piece, crafted from several unique materials.
+
+***
+
+Celica nodded to herself approvingly. As a one-star/apprentice blacksmith, the best gear she could make was of the Super Rare rank. Without becoming a two star blacksmith she couldn't hope to craft anything Unique or above. It was impossible.
+
+However, for the moment, this was enough. The best gear that Marshia sold was only Rare rank, and it had significantly worse stats, since it was designed for players that were level twenty.
+
+The Aqua Rift Core set was perfect for her.
+
+She equipped the armour without waiting any longer, now appearing slightly more eye-catching. Though, the armour held a subtle elegance. It was the type of armour other players would notice only on the second or third look.
+
+"I'll be going now."
+
+Before the blacksmith could reply, Celica had already left for the marshlands.

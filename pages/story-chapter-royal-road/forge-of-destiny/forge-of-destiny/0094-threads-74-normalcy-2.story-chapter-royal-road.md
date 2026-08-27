@@ -1,0 +1,197 @@
+---
+id: beb476c3-3b7f-5a4d-9a7c-aece628764b6
+page-type-slug: story-chapter-royal-road
+title: "Threads 74-Normalcy 2"
+slug: 0094-threads-74-normalcy-2
+partOf: forge-of-destiny
+position: 94
+ownLength: 3644
+unit: words
+publishedAt: 2021-04-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/666489/threads-74-normalcy-2"
+royalRoadId: "666489"
+---
+
+“So that’s the situation,” Ling Qi finished, standing beside her mother near the fireplace. She had told her mother everything important of the battles she had fought, what was happening at the Sect, and why Ling Qi had not come sooner. Ling Qi had brought her here; she deserved to know.
+
+Beside her, Ling Qingge hugged herself tightly, a faint tremble in her shoulders, and Ling Qi looked down. Of course she was afraid given everything that had happened.
+
+“You - you foolish girl.” Ling Qi glanced to her side, eyebrows rising at her mother’s harsh whisper. “Why would you deliberately take a blow like that?” Her eyebrows climbed higher as the older woman rounded on her. “What were you thinking?”
+
+Ling Qi blinked slowly. That was what had bothered her mother? “My techniques meant I could take it, and it ensured the assassin did not get away to strike again. It was the best choice,” she defended. “The potency of the poison was more than I expected, but-”
+
+“Please promise me you will not do such a thing again,” her mother cut her off, giving her a pleading look.
+
+Ling Qi met her eyes, and she hesitated at the look on her mother’s face. However, she couldn’t lie, not to her mother and not about this. “I would do the same for you or Biyu,” she said quietly.
+
+Ling Qingge searched her face, eyes still pleading, and then her shoulders slumped marginally. At that moment, her mother seemed older, just as Sect Head Yuan had seemed older. “Very well,” her mother said, and if not for her cultivation, Ling Qi would not have detected the trace of bitterness in her voice.
+
+Silence, awkward and tense, fell between them. Ling Qi stared into the fire. Her wound itched. Finally, she spoke up tentatively, “You said there was an intrusion in the house. Was anyone hurt?”
+
+Mother didn’t reply immediately, but after a second or two she shook her head. “No. Luckily, I was by the cellar stairs when the thing tried to crawl out, and our guards came quickly.”
+
+“What was it?” Ling Qi asked. Her fingers itched for a knife for the first time in many months. She knew whatever it was had died, but all the same…
+
+Her mother’s features screwed up in disgust. “It is difficult to describe. It was like a great hairless rat with the feet and hands of a man.”
+
+As she suspected then, Ling Qi thought grimly. The things she had encountered on her expedition with Suyin were definitely the source of all this. They would pay for many things, but threats to her home were especially unacceptable.
+
+“I have a friend who specializes in security formations. I will make sure we have something more potent installed soon,” she said tightly. It had been there since she had heard of the attack on her family, but the seed of ice cold fury in her heart that had been born at the news burned in the back of her thoughts. She felt her bond with Hanyi resonate and the sluggish cold qi in her arms pulse.
+
+Ling Qi breathed out, leashing the cold that threatened to spill out until it was only the chill breeze of a cold fall day. “How is Biyu?” she asked, her voice calm again.
+
+“She was frightened by the noise and the tension, but she has already forgotten it, as children often do with things outside their awareness,” Ling Qingge sighed.
+
+Ling Qi couldn’t help but wonder if mother was inserting a little double meaning there. She would not begrudge her that. Her thoughts turned to the other subject she wanted to bring up with her mother. The Sect was not a safe place anymore, not until this was resolved, so…
+
+Her thoughts were interrupted by a tentative knock at the door of the room. It spoke of Ling Qi’s distraction that she had not noticed the mortal presence approaching the door, but it was only one of the servants. She had acclimated enough to their presence that they no longer stood out and were just part of the tapestry of qi that made up the household.
+
+Sixiang would probably chide her for that, Ling Qi thought wryly. She began to answer, but then glanced at her mother as the older woman did the same, briefly meeting her eyes. Ling Qi lowered her head slightly in deference.
+
+“Enter,” her mother said crisply, the lines of worry on her face smoothing away. The etiquette really did come easier to her.
+
+The door opened, and the young woman outside bowed deeply. “My apologies for the interruption, Madam Ling, Lady Ling.” There was still a faint tremble in her voice, but like the others, she was getting better at interacting with Ling Qi. “There are guests at the door, requesting entrance, and they, uh…” She stumbled over her words, wringing her hands.
+
+“Who are the guests?” her mother asked patiently, giving the girl a moment to recover.
+
+“The Ladies Xiao and Su, disciples of the Sect. They say they are here to see Lady Ling,” the girl hurried out.
+
+Ling Qi’s eyebrows rose, and she stretched her qi senses. The auras of her friend and her student waited outside the gate. Su Ling felt irritable like a banked fire crackling with embers, while Xiao Fen felt like a snake hissing fearsomely in its burrow, as usual.
+
+“Please show them in,” her mother said, giving Ling Qi a brief look. As the girl left, she added in a quieter voice, “Let us defer the matter we were speaking of.”
+
+“Yes,” Ling Qi agreed, dipping her head. She suspected that they were thinking of different matters. She turned away from the fire, heading toward the door.
+
+“Is there anything I should know of our guests?” Ling Qingge asked, following her out.
+
+“They are friends,” Ling Qi replied. Xiao Fen was a sort of friend, right? “Su Ling is common born like me but spirit blooded. Xiao Fen is Bai Meizhen’s handmaiden.”
+
+Out of the corner of her eye, she saw her mother pause at the second thing, nervously worrying at her lower lip. “Since the visit is so sudden, I am aware that they must not be expecting full amenities, but should I…?”
+
+“Given the current situation, I doubt they are here for personal matters,” Ling Qi said. “There won’t be trouble.” If there was, she would not let Xiao Fen get off lightly the next time they trained.
+
+Her mother sighed at Ling Qi’s nonchalance but nodded. “I will have the veranda set for tea then.”
+
+Mother gave instruction to the first member of the household staff they passed, and in a few more moments, they had reached the entrance way of the house. Su Ling and Xiao Fen waited there, attended by one very nervous looking girl. Xiao Fen looked much the same as the last time she had seen her, though her cultivation had improved. She was nearing the peak of the second realm and would probably get there by the beginning of next month.
+
+As for Su Ling, Ling Qi had not seen the other girl in half a year. She looked healthy. Her friend had lost the last signs of malnutrition that had clung to her frame, and her dark hair had lost the last of its stringiness. Although her skin was still sun darkened and lacked the softness that most would call beautiful, she had put on a bit of muscle, if Ling Qi was any judge. She wore thick workmanlike clothing and had the same sharp features and familiar, permanently disgruntled expression.
+
+“Su Ling, Xiao Fen,” she greeted, her mother trailing a few steps behind her. “I am surprised but not unhappy. What brings you to our home on such short notice?”
+
+Su Ling let out a snort at her polite words. “Saw you flying over. Got something I have to ask you. Kinda hard to get the chance these days.”
+
+Xiao Fen’s expression was more grudging, eyeing Su Ling irritably. “I am doing a certain individual a favor and providing security since Miss Su’s normal guards were injured in his defense. However, there is a matter it would be prudent for us to speak of, but it is not urgent.”
+
+Ling Qi’s eyebrows rose. Su Ling’s normal guard? Had things… No, looking at Su Ling’s thunderous expression, she realized that Xiao Fen was probably talking about the Ma sisters. They must have been hurt in the invasion. “I hope their injuries were not too bad?” she asked, looking to Su Ling.
+
+“Medical for a week,” Su Ling grunted. “Gan’s covering it.”
+
+Ling Qi took only a moment to digest that but then nodded, remembering her manners. “I am glad. Welcome, then. This is my mother, Ling Qingge; she is the head of the household since I am usually away.” She gestured to her mother, who had managed to smooth away the visible worry on her face brought about by having cultivator guests. Knowing Mother, she had probably hoped for rather more warning the first time.
+
+“You are welcome in my home, honored guests,” the older woman said, bowing her head. “If it pleases you, I have instructed my staff to lay out refreshments on the garden veranda.”
+
+Xiao Fen was the first to respond, clasping her hands in front of her chest and giving a perfunctory but not disrespectful bow. “That will be acceptable, Madam Ling. I will be pleased to accept your hospitality.”
+
+Su Ling, on the other hand, seemed to have been brought up short by the introduction, glancing between Ling Qi and Ling Qingge. Her jaw worked silently for a moment but then she ducked her head before Ling Qi could read the emotion in her eyes. “... Yeah. Thank you for the hospitality,” she replied tersely. By the time she raised her head again, her expression was set in its usual default.
+
+There was a little more polite back and forth as she led her friends inside, passing through the halls of the house until they came out in the gardens where a number of chairs had been set out around the table that occupied part of the veranda. One of their staff was nervously setting up for tea when they arrived. She felt bad for the girl, who made a sound not unlike a squeak of alarm when she saw them exit before she had finished.
+
+“So before we sit down, you said there was something you wanted to discuss, Su Ling?” Ling Qi asked blithely, studiously ignoring the girl and instead proceeding to the waist-high railing that overlooked the garden. It was better to let her staff finish without acknowledging the problem.
+
+Su Ling shot her an unreadable look, prowling up to stand beside her and lean against the rail. Her two tails waved agitatedly behind her. “Yeah. I want to know who you’ve been talking me up to,” she said bluntly. “I know you like to be generous, even when it’s not asked for. I want to know why I’m getting rounded up for a serious fu…” She paused, glancing back at Ling Qingge. “A serious venture down below,” she finished vaguely.
+
+Ling Qi looked at her blankly. “I haven’t done anything of the sort,” she replied. “Su Ling, I was in medical recovery until yesterday evening.”
+
+Su Ling’s brows furrowed. “Then why...?”
+
+“I already told you,” Xiao Fen grumbled, crossing her arms haughtily as she strolled up beside them. “You showed that your divinations were not obscured as the more modern practitioners were. Diviners of the old spirit blooded styles are thin on the ground in these lesser days.” Xiao Fen sniffed. “Be happy that the bureaucrats are being shaken from their complacency that you might shine.”
+
+Su Ling shot her a foul look. “And I told you that it was just a gut feeling, ‘less you think they want me sitting around to cast bones in a fire. ‘Sides, I’m not scummy enough to be happy about what’s going on right now for any reason.”
+
+Ling Qi glanced past them to her mother, who looked lost. She was hiding it well though. “What is this about an expedition?” Ling Qi asked, smoothly cutting in before the two could get back into what was clearly a previous argument. She missed Sixiang’s silent nudging. They were so much better at this.
+
+“There’s some planning going on,” Su Ling explained unhappily. “Don’t know the full picture, but the Sect isn’t gonna take the stuff from the caves coming up lightly.”
+
+“It feels foolish to move so quickly, but my eyes do not see as those above do,” Xiao Fen said. “Well, I do not expect those trusted by Lady Suzhen will be hasty, blood mad fools. I expect punitive measures to be well planned.”
+
+No, Xiao Fen, tell us how you really feel, Ling Qi thought. Still, the fact that the Sect was gearing up for expeditions into the darkness below… Did that mean that Elder Zhou had been felled by something like that assassin, only exponentially more potent? The exact details of his death had still not been revealed. Out of the corner of her eye, she saw that the table was fully set.
+
+“Our refreshments are prepared, Lady Su, Lady Xiao,” Ling Qingge said before she could. The conversation had turned her expression to one of worry.
+
+“Thank you, Madam Ling,” Xiao Fen replied politely
+
+“Don’t call me ‘lady,’” Su Ling grimaced. “Seriously though, you haven’t said anything?” she asked, turning her eyes back to Ling Qi.
+
+“I haven’t,” Ling Qi replied steadily. “I know you don’t want that.” What was with those rolled eyes, Xiao Fen? Bai Meizhen’s handmaiden was developing some bad habits in her presence.
+
+“And what did you want to say, Xiao Fen?” she asked as they moved to take their seats.
+
+“Only that our lessons would have to cease for a time given the situation, Lady Ling,” she replied, perfectly polite. “I, of course, very much look forward to their resumption.”
+
+Ling Qi eyed her for a moment but nodded in agreement. The real purpose of their lessons was defunct for a time given the truce being declared in the Outer Sect. “Is that so? I will miss our lessons,” she said cheerfully. “We will have to find another way to stay in contact.”
+
+“Sect’s not exactly restricting contact hard right now,” Su Ling grunted, fighting a smirk at the sinking of Xiao Fen’s expression.
+
+“... Yes,” Xiao Fen said, her face blank.
+
+Mother studied all three of them with furrowed brows, clearly trying to work out the real flow of the conversation. Ling Qi suspected that her mother might be trying too hard to see beyond the obvious. Still, it was heartening that, even if she kept her peace, her mother could deal with the presence of a pair of cultivators.
+
+As the conversation continued, Ling Qi watched her mother. She saw Ling Qingge’s careful, practiced poise and the stewing concern under the facade as she answered a question of Xiao Fen’s in a polite and demure voice. Though this had been an unexpected and sudden visit, her mother had been preparing herself very rigorously.
+
+Her thoughts turned back to what she had been considering, standing before the fire. Should she send mother, Biyu, and the rest of the household away until things settled down? It would cost her some stones, but she could settle them in a barony a little further north, away from the incursions.
+
+She thought back to her mother’s frustration and bitterness that had briefly surfaced during their conversation in the hearth room. Was she really going to suggest that her mother abandon her again? Whatever she thought she would be arguing, that would be what she was asking.
+
+Ling Qi felt herself relax as she decided to drop the idea, a snarl in her qi flow that she had not even noticed forming smoothing out. Even if it meant they might be in danger, she couldn’t force her decisions on her family. Later, she would talk with her mother, and together, they would determine what precautions that the household would take and how to increase the security of the house. She would give the staff the chance to leave as they had not signed up for this, but family was a different matter.
+
+“Oi, you alright, Ling Qi?” Su Ling spoke, shaking her out of her thoughts. The other girl’s pointed canine ears flicked in a way that she knew denoted concern. “You kinda spaced out.”
+
+“Sorry, I was lost in thought. There is a lot to think about lately,” Ling Qi replied.
+
+The atmosphere at the table darkened, and Su Ling nodded slowly, her natural scowl deepening. “You’re not wrong. Things are going to be rough for awhile.”
+
+“They are barbarian trash, no matter what form they take,” Xiao Fen sniffed. “Even with everything that has happened in recent millenia, the Empire is strong. From what I have seen, your duchess has done much work to straighten out the fractious rabble which has so long dragged the Emerald Seas down.”
+
+“You would think that a Bai would know to be more diplomatic,” Ling Qi said dryly.
+
+Xiao Fen arched a scaly eyebrow. “Oh, I am not speaking of any still extant individuals. How bold of you to presume that I would make such a gaffe,” she retorted coolly.
+
+Ling Qi maintained eye contact with Xiao Fen a moment longer. The girl really was well practiced at that sort of thing, wasn’t she?
+
+“My apologies if my question might seem unknowledgeable,” Ling Qingge interjected tentatively. Ling Qi glanced to the side, surprised to hear her mother take the initiative. “But what do you believe the Empire’s response will be? Will the army come?”
+
+“Hell if I know. Sect is gonna mobilize all the way.” Su Ling shrugged. “Will the folks further away bother? Who knows. They’ll probably just look to their own.”
+
+“How cynical of you,” Xiao Fen said, pouring herself a new cup. “I think you underestimate the scale of this insult, Miss Su.”
+
+“Do I?” Su Ling asked blandly.
+
+Ling Qi thought but then shook her head. “I think you do, Su Ling. It’s not a matter of altruism or selflessness,” Ling Qi said, remembering the studying Cai Renxiang had put her through, the picture of the Emerald Seas she had so painstakingly assembled in her mind. “It is a matter of legitimacy. If the things I have heard since I woke up are correct, this is the largest and boldest incursion since Duchess Cai ascended to the throne, even ignoring the new enemies.”
+
+“Ah. Well, shit,” Su Ling said gruffly, clearly understanding the words she had not said. Considering that the Cai rose to their position partially on the lackluster response of the previous ducal clan, the Hui, to Ogodei’s invasion, the Cai had to respond strongly to barbarian incursions. “This is gonna get bloody, innit?”
+
+“Quite,” Xiao Fen said. “To answer the question I believe Madam Ling was truly asking however, the Sect will likely focus on reconnaissance and defense until the other pieces have moved into place. This town is the gateway to the Sect, the place through which its production flows into the rest of the Empire. It is likely that great effort will be made to make it safe from new threats.”
+
+If only because the Sect couldn’t afford to have their “face” damaged further, Ling Qi mused. She was thankful that the Sect had given her a home in the inner part of the town. It was good to benefit from the structure of the Empire for once, instead of being out in the gutters and fields. “Mmm, I don’t doubt that the elders are unhappy with being caught unawares.” Elder Jiao in particular, for all his lax attitude, struck her as a fundamentally prideful man.
+
+“Feh, at least their pride will do some good,” Su Ling grumbled. “I guess I won’t object to checking things out below. Can’t let people get caught out again.”
+
+“We can discuss improving the house’s security later, mother. My friend Li Suyin has done a lot of development on formations.” She just had to convince mother to put up with skeletons in the basement. Hopefully, Suyin had refined it further; the version of the array Ling Qi knew was not sufficient for a house with a full staff.
+
+“Suyin does good work,” Su Ling agreed, finishing her tea.
+
+“I am reassured,” Ling Qingge said, dipping her head.
+
+Ling Qi spotted a nervous servant signalling her mother from inside the house. Mother glanced over before excusing herself to converse with the woman, but Ling Qi couldn’t help but overhear. Apparently, Biyu was being quarrelsome since this was usually around the time she was allowed out to play in the garden. She glanced over at her friends. She could probably save them some trouble, and it wasn’t like this was some official meeting.
+
+“Would either of you be bothered if my little sister came out to play in the garden while we have our tea?”
+
+“The hell kinda snob do you think I am?” Su Ling snorted. “Just about done anyway. Got stuff to do.”
+
+“Is she teethed?” Xiao Fen asked.
+
+Ling Qi paused, caught short by the bizarre question from Xiao Fen. “... Yes?” Ling Qi answered.
+
+“Then it is no trouble,” Xiao Fen replied as if the question was normal. “Ah, if you would, when you see Lady Meizhen next, inform her that despite my setback, I will join her in the third realm soon. I will be prepared to serve her properly as soon as possible.”
+
+Ling Qi nodded slowly then stood up to go speak with her mother. She was not even going to ask.

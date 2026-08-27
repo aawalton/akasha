@@ -1,0 +1,191 @@
+---
+id: f432cec2-f47e-5e6c-a7ad-75233fac5e86
+page-type-slug: story-chapter-royal-road
+title: "Threads 132: After-Action 1"
+slug: 0160-threads-132-after-action-1
+partOf: forge-of-destiny
+position: 160
+ownLength: 2952
+unit: words
+publishedAt: 2021-09-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/753998/threads-132-after-action-1"
+royalRoadId: "753998"
+---
+
+The medicine hall was a hive of frantic activity. Disciples rushed back and forth with supplies and equipment. Potent medicinal energies suffused the air, filling it with conflicting scents of flowers and spices and blood.
+
+Ling Qi stood in the entrance hall, one among many. On the wall before them was posted a roll of names. There were fifteen of them in total now, but Ling Qi knew that more had been added since the first posting. It was a list of the Inner Sect disciples who had died.
+
+There was a name there that she recognized.
+
+Shen Hu had been assigned to the mission below to defend the construction and formation disciples. Already, there were rumors, a whisper from one of the production disciples he had defended. He’d taken one of the tunnel entrances and held it against all comers until the defensive arrays behind him had finished and Elder Jiao’s project had snapped into place.
+
+It seemed Shen Hu had really taken the Bloody Moon’s Dream to heart.
+
+It was a relief that it hadn’t been someone she knew better. That it had not been Li Suyin or Su Ling, or even Xuan Shi. The thought shamed her, but it was there all the same. She had liked Shen Hu well enough, but there had just never been time to get to know him better. Now, she never would. It was a bitter feeling.
+
+<I don’t think it’s wrong to think that way,> Sixiang whispered. <It’s not wrong to be glad others aren’t gone.>
+
+It was probably a little wrong that she didn’t feel something more though, Ling Qi thought. He was only an acquaintance, but shouldn’t she feel something more than a muted sadness?
+
+<I don’t think there is a right way to feel,> Sixiang thought carefully.
+
+“Ling Qi?”
+
+Ling Qi looked away as someone called her name. There was Li Suyin, looking haggard and exhausted and wearing a physician's smock spattered with blood and other things.
+
+“Li Suyin? Are you alright?” Ling Qi asked, stepping out of the crowd. She scanned her friend for injury, silver gleaming in her eyes. She saw only exhaustion, an echo of burns, and the lingering marks of cleansed shishigui corruption. “Were you one of the ones down there?”
+
+Li Suyin nodded and swayed. Ling Qi was at her side in an instant, catching her before she could fall. At some point, her friend had reached the appraisal stage in her cultivation.
+
+“I was, but I wanted to keep helping. Went to the medical wards after,” Li Suyin muttered as Ling Qi helped her move out of people's way. “The elder just sent me away, ordered rest.”
+
+Ling Qi grimaced. That sounded like Li Suyin alright. “Was Su Ling down there too?” she asked, dreading the answer.
+
+Li Suyin leaned against her, eyes drifting shut. “No.”
+
+That was something. “Li Suyin, what happened down there?”
+
+“They just kept coming,” Suyin whispered, her voice barely audible over the noise of the hall. “They fought, and they died, and it just didn’t stop. Dying only made them stronger.”
+
+Suyin paused and took a shuddering breath. “Elder Jiao was fighting, and it felt like we were the infection, and they, the body fighting back. There was so much pain.”
+
+Ling Qi thought back to the fourth realm she had encountered down there, the nails driven into its flesh, and the self-mortification she had witnessed in their rituals. She tried to imagine what it would feel like to be in the presence of something like that except scaled to fight an elder, one whose cultivation would match the thing that had come from over the southern mountains.
+
+Ling Qi felt a chill.
+
+“C’mon, let me help you get home,” Ling Qi said quietly, turning her friend toward the door. “You should rest.”
+
+She cast one more look at the list, eyes scanning down the names. She paused briefly as her name caught the last name on the list. She hadn’t noticed it before, focusing on Shen Hu.
+
+It seemed Yan Renshu had died down in the dark as well.
+
+At least she didn’t have to feel bad for not mourning him.
+
+***
+
+“It feels a little surreal, doesn’t it?” Ling Qi asked.
+
+They sat together in Renxiang’s study. The furniture had been pushed aside to make room, and yet, even then, Renxiang’s rooms were a study in clockwork precision. Everything was spaced just so. Her liege sat across from her at the center of part of the repeating geometric pattern in the carpet. Ling Qi sat opposite in the center of another. Briefly, she had considered seating herself just a touch to the right, but she didn’t have the energy for jokes.
+
+She kept remembering that list of names. Had she known any of the others on that list? Had she spoken to them before and immediately forgotten their faces?
+
+“We were already at war,” Cai Renxiang replied.
+
+“It didn’t really feel like it before,” Ling Qi said. “The barbarians just got a sucker punch in, using a method we didn’t expect. That was what it felt like, didn’t it? They weren’t a real threat. That’s why we were still worrying about sect ranks and the elders were still taking volunteers instead of giving orders and…”
+
+Cai Renxiang’s fingers tightened on her knees, and Ling Qi fell silent. For anyone else, it would have been nothing, but she could read the frustration and regret in the girl’s posture. Their talk from before the mission felt wrong now.
+
+<You weren’t acting differently from anyone else in the Sect,> Sixiang whispered. <It’s not like anyone else treated it differently until it was.>
+
+“Matters have indeed escalated beyond heightened raiding,” Cai Renxiang agreed blandly. “Tell me, Ling Qi, are your spirits well?”
+
+Ling Qi ducked her head and accepted the deflection from the subject. She tried to focus inward as she organized her thoughts. The cultivation of Playful Muse’s Rapport was not coming easily to her right now.
+
+<Probably not much use where you’re going,> Sixiang muttered, uncharacteristically bitter.
+
+“Zhengui is well. He’s very tough. Even the injuries he took will be better in a couple of days, now that the impurity is out of his system,” Ling Qi replied. She had visited them after their release from the physicians. Zhengui seemed satisfied by his performance for once. “Hanyi… She’ll be fine too in time.”
+
+“I believe you had an event planned for her. Will her wounds allow it to go forward?” Cai Renxiang asked. Faint radiance flickered in the room, casting shadows at perfect right angles.
+
+“She won’t let it stop her, even if it takes awhile to heal. It’s not like she actually needs her throat to sing, any more than I need my flute to play,” Ling Qi responded. She was confident in Hanyi because Hanyi was confident in herself. Half of healing the body came from the mind. Her eyes strayed to Renxiang’s own bandaged throat. “What about you? I saw those stains on your domain weapon.”
+
+Renxiang continued to breathe steadily and rhythmically in her mediation. “The stains will out. It is merely a matter of time. Their resistance is vexing however.”
+
+“Do you think your mother will notice?” Ling Qi asked. It wasn’t the real question. Obviously, the Duchess will notice, but will she react?
+
+“They are not permanent,” Cai Renxiang said. Ling Qi didn’t comment on the faint tremor that entered the girl’s voice. “We performed above any reasonable expectations given the situation.”
+
+Did they perform above the Duchess’ expectations though? She had to hope that they at least met them.
+
+Of course, that left aside the matter she had been avoiding. After the medine hall, she had almost gone back to the elders. But if there was a chance to make those lists shorter in the future, shouldn’t she take it?
+
+<I think it’s the right thing to do,> Sixiang whispered. <I have to wonder if you can really succeed though.>
+
+Thanks for the vote of confidence, Ling Qi thought wryly.
+
+<Hey, I’ll do what I can,> they protested.
+
+“Lady Cai,” Ling Qi said, speaking up carefully. “Before we start preparing, I think there is something I should tell you.”
+
+Maybe it was her tone, but when Renxiang opened her eyes, Ling Qi thought she saw a hint of dread there, even with the radiance shining from her pupils.
+
+... She wasn’t that bad, was she?
+
+***
+
+The court of Xiangmen was overwhelming.
+
+It was not merely the crowd of cultivators standing in, the very weakest of which matched or exceeded her cultivation. She had endured crowds before after all. Last year’s tournament had let her experience that. It was not the baleful radiance shining down from the throne above, the terrible pressure that crushed down on her shoulders. After the attack, she could endure the mere passive attention of the Duchess.
+
+No, it was Xiangmen itself.
+
+This place thrummed with power. Even projected here by the formation’s device, Xiangmen itself threatened to overwhelm her. Each of the twelve bone columns that supported the ceiling hummed with a primal beat. The stamp of hooves, the howl of wolves, and the shrieks of birds resonated in her ears, cacophonous and distracting. It was the last march of beasts at the dawn of the rule of men. The disc of marble which made up the floor of the court, held in tightly curled branches, practically vibrated with uncounted ages of formationwork.
+
+The air was thin here. There was so little wind, but solar and lunar qi were thick here, so thick that even as she watched, motes of it congealed into the fluttering forms of faeries that drifted about providing light to the court.
+
+Then there was the tree itself. Stretching out in the sky beyond the court, immense branches supported a canopy of leaves that stretched for kilometers in every direction, penetrated by dappled beams of sunlight. There was power in the ancient bark that supported the platform, power in the sail-sized leaves that drifted down on the wind, and power in the immense branch which supported the Duchess’ throne. It was a quiet, steady, and patient power. It was power fit to endure the world’s ending.
+
+It was one thing to know that the tree Xiangmen had been here before the Sage, before the Diviner, and before even the meanest of recorded history.
+
+It was another to feel it.
+
+Ling Qi shook out the distractions from her thoughts as she followed Cai Renxiang down the central carpet which led upward to the Duchess’ throne sheltered in the curl of a single branch, so high above. She maintained a perfectly appropriate distance, five paces behind, no more and no less.
+
+She didn’t let herself meet any of the many gazes around her. Instead, she focused on the speech in her head, the one she had rehearsed with Renxiang in those early hours of the morning.
+
+But although she kept her eyes low, she could not help but fix her gaze on the throne. Cai Shenhua sat straight-backed in her throne, and around her burned a colorless sun. It was difficult to make out more than her silhouette.
+
+At her side was Prime Minister Linqin dressed in a resplendent rose pink gown. A circlet of roses adorned her wavy brown hair. Her hands were hidden in voluminous sleeves, and she looked down upon them with a cold and blank expression.
+
+At the base of the throne branch were arrayed warriors in shining and ornate plate armor. Plumes of blinding white rose from their helms, and their faces were hidden behind blank steel masks with only eye holes for features.
+
+One among them stood out, a slender woman as tall as Shenhua herself who stood in the direct center of the path leading up to the Duchess. In her hands, held point down to the floor, was a thin naked blade inscribed with etchings of herons in glittering diamond. Her helm lacked even holes for sight. Renxiang had coached her on the important faces. Heron General Xia Ren was the Duchess’ primary military commander and among her most loyal supporters.
+
+Ling Qi’s eyes strayed briefly to the sides. She marked out the representatives of each of the comital clans, the ambassador from the Empress, and a few other notables.
+
+Cai Renxiang knelt, Liming pooling around her feet, and Ling Qi followed her, lowering her head to almost touch the rich red carpet.
+
+“My daughter, I see that you bear the scars of war. Rumor swirls, and messengers fly, scattering tales of matters in the mountains.” Cai Shenhua spoke, and her voice was light and sensual, almost idle in tone, despite her posture. “I would have you provide me with a clear vision on events.”
+
+“Honored Mother, it pleases this dutiful daughter that I might be your eyes and ears in this matter,” Cai Renxiang said. Her voice rang clearly as she raised her head. She remained kneeling, but no longer in full kowtow. Nonetheless, the faint rasp in her voice was all too audible in the silence of the court.
+
+“On yesterday morn, we set out on a mission from the Sect, a punitive expedition against a barbarian gathering. Thought to be a trap, the Sect spun an ambush to entrap the enemies and slay those that were gathered there,” Cai Renxiang said, speaking with machine-like precision. “My retainer and I chose to join the initial assault in order to bring victory to the name of the Cai. She was chosen for the role of scout and spotter, and I was given to be the tip of the spear.”
+
+“It does not appear to have gone well,” Minister Linqin said evenly.
+
+“Baroness Ling performed most admirably in her role, reaching and observing the meeting without detection,” Cai Renxiang continued. “We discovered that it was a meeting between factions, discussing tribal alliance and attended by those allied with the underground beasts. They revealed a cache of potent material, known as starstone, as a token for alliance.”
+
+Cai Shenhua hummed to herself, and Renxiang immediately fell silent as the faint tap of a fingernail on wood echoed through the court. “How large, precisely, was this cache, Renxiang?”
+
+“Eight meters and thirty seven centimeters in diameter,” her liege answered immediately. Ling Qi wondered how she had been able to measure it so closely. “It was roughly spherical in shape.”
+
+The radiance above pulsed as whispers broke out throughout the court. The jewel-encrusted representative of the Bao stroked his beard, a glint of avarice in his eyes. The Luo representative’s hand tightened on the hilt of his blade, and he looked ready to spit. The Wang representative, who looked like a much older, much hairier Wang Chao, drew together bushy brows that threatened to devour his eyes. The Meng representative, a thin and willowy woman in heavy stylized makeup, merely pursed her lips. The Jia representative tugged nervously at his oiled beard.
+
+“I see. This asset was denied to them?” the Duchess asked.
+
+“The starstone itself was, thanks to the Baroness Ling,” Cai Renxiang said carefully. They had talked about this. In order for her words to have even a little weight with the court, she had to be talked up a bit.
+
+“Continue your recounting of events,” Cai Shenhua said flippantly, waving her hand.
+
+And Renxiang did. In great and precise detail, she described the events of the raid, including her own duel in the caldera, Ling Qi’s stand against the bulk of the barbarian forces, and the clash of elders. She described their escape and the coming of the thing in the south. She described the hatching of the starstone and the spirit within.
+
+By the time she was done, the atmosphere of the court had darkened, and there was much grumbling and whispers among the courtiers. Cai Shenhua raised her hand, silencing them all at a gesture.
+
+“It seems that you became involved in matters significantly above your head, my daughter,” the Duchess said. “It is good that you sustained only minor injuries.”
+
+Ling Qi saw a tiny bit of tension bleed out of her liege.
+
+“But your report is not done, is it?” the Duchess asked rhetorically, and Ling Qi had to work not to swallow nervously. “You have brought your retainer here today. I assume she has some important insight.”
+
+“Baroness Ling was able to observe certain events with far more clarity due to her role and position,” Renxiang said. “I thought it prudent to allow her to describe them herself.”
+
+“I see.” Cai Shenhua did not sound particularly approving or disapproving. Minister Linqin looked as if she was about to speak up, but she fell silent as a radiant hand clasped her own. It was a bizarrely intimate gesture given the setting. “You have not erred in your judgment thus far. Baroness Ling, you may raise your head and speak.”
+
+Ling Qi could hardly breathe as she straightened up. She scanned the crowd. Most seemed indifferent to her. They didn’t really expect anything from her, thinking the Duchess was merely indulging her daughter. A few eyed her with something more like interest or disdain, but it was only a few.
+
+Of the representatives, the Bao gave her an encouraging smile. The Wang representative seemed generally approving, though it was hard to read his face behind his beard and brows. The Luo and the Jia watched with disinterest. The Meng frowned at her but didn’t seem too hostile, actually.
+
+The ambassador from the Peaks, a man who reminded her of an older Kang Zihao, simply continued to observe in silence, his arms crossed over his chest.
+
+Ling Qi prepared herself and began to speak.

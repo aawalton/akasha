@@ -1,0 +1,69 @@
+---
+id: 469868f5-7c92-5e5f-a63d-d89d47f2a0da
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude Rivers and Rain"
+slug: 0092-threads-interlude-rivers-and-rain
+partOf: forge-of-destiny
+position: 92
+ownLength: 989
+unit: words
+publishedAt: 2021-04-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/663540/threads-interlude-rivers-and-rain"
+royalRoadId: "663540"
+---
+
+Enemies surrounded Heizui, thick as water weeds. Pikes came down, and the young dragon roared, his water shadow frothing white as they rebounded from it. Hooked blades snatched at his limbs, and Heizui coiled his body and launched forward. The river roared, and trees toppled as he emerged, snakelike, from the waters.
+
+They were still all around him, moonlight glinting off of scale-patterned armor, unblinking eyes looking pitilessly down as they moved in lockstop, changing formation to bring their pikes to bear. Heizui wasted no time, claws digging into the mud as he charged across the damp earth, the snap of his uncoiling body booming like thunder.
+
+His water shadow struck first, serpentine silhouette cracking against the pikeline. Three soldiers fell, opening a gap, and Heizui slipped through, scales glinting with frost as he armored himself against the incoming blows. His tail lashed out, knocking the knees from under the second rank. His claws flashed, and three pikes snapped in half. Heizui’s throat swelled, and a pressurized jet of water erupted from his mouth, cutting through the bulwark of steel greatshields in the last line.
+
+There, just beyond them, was the exit to the valley. If he could just make it, then…
+
+A gong rang out, and every one of the soldiers stopped. Heizui’s eyes widened, and the young dragon let out a furious growl. It definitely was not a plaintive whine.
+
+“Time is up. Exercise failed.”
+
+Heizui slumped, his bristling whiskers drooping at the disapproval there. He looked up to the immense shadow of his mother’s head.
+
+Mother was all around him. She lounged atop the hills surrounding the valley, encircling the square kilometer of ground that she had put aside for his training. Her scales glistened like sapphires under the light of the Guiding Moon.
+
+“But mother, I …” Heizui began plaintively as mother’s carp soldiers stepped away from him, leaving him alone under the twin lights of her eyes.
+
+Her cold snort tore the leaves from trees all around and nearly sent the closest soldiers to their knees, frost spreading across the grass around him as well as his scales. Heizui cowered under her disapproving gaze.
+
+“Do not take that tone with me, child. Does your shell still cling to your scales? Or have you simply lost all of your pride, lazing about and getting trounced by Outer Sect disciples?” Qingshe’s voice was the roar of a river in its spring flooding. “The time limit was clear.”
+
+“Yes, mother.” Heizui did his best to keep the sulking edge out of his voice.
+
+Starting last year, everything had gone wrong. First, that annoying girl had beaten him, and then, she had gone and vanished, never giving him a chance to right the hierarchy. He had been working hard. Really! He was certain that if that girl and her irritating spirit showed up again, he would put her in her place.
+
+Now, just because some idiot human elder had gotten himself killed, mother had decided that she needed to work him to the bone. It just wasn’t fair.
+
+He could feel the bruises forming under his scales, the claws on his right forefoot were cracked, and he was missing three fangs. Mother’s carp soldiers weren’t going easy at all.
+
+Mother narrowed her eyes, and Heizui drooped further. Qingshe lowered her head closer to the muddy field. Her whiskers alone were longer than his whole body. “Heizui. This is not a game.”
+
+“I know, mother,” Heizui said.
+
+“You do not!” his mother roared, and a tree toppled. Heizui had to dig his talons in the earth, and even then, they dug deep furrows as he was pushed back to the rivers behind. “Do you understand, child, that the cloud men are going to war again?”
+
+“But that’s just a human thing,” Heizui complained. Frustration and soreness boiled over to drown his deference. “They’ll take care of it.”
+
+“Thinking in such a way will leave you to the same fate as your idiot father,” Qingshe said coldly.
+
+Heizui felt a chill, running all the way down to the tip of his tail. He had made a mistake. Mother never mentioned father unless she was furious with him.
+
+“The cloud men are enemies of dragonkind,” Qingshe growled, full of hate. “They are weak and fragmented, but you will not forget that. When they remember themselves, they are a threat. There are not enough of us to face them alone as the gods of old did. That is why I bound myself to a human. That is why the Patriarch of the South made alliance with Yuan He. I had hoped that your humiliation would teach you to cease underestimating humans.”
+
+It had only been a temporary defeat, Heizui wanted to say, but he thought better of it. “We are their betters though,” Heizui muttered.
+
+“We are,” Qingshe rumbled, and she sounded tired, if only for a moment. “It takes many, many thousands of humans to produce an individual who may match our natural might, and hundreds of thousands or more to match the greatest of us.”
+
+Qingshe fixed her gaze upon him. “Yet, Heizui,” she said, “there are more than a million humans for every one of us. Our divinity is tainted, and the power of the gods sealed beyond the Father’s Hearth. The Decrees are heavy upon our necks.”
+
+Heizui cringed, pawing at the river mud. To speak aloud of the great shame, mother had to be serious. He felt small and pathetic. Maybe he really was being childish. “I am sorry, mother. I won’t complain anymore.”
+
+One of Qingshe’s great claws rose, trailing boulders and vegetation, and a single talon longer than a horse stroked his back. Heizui squirmed, embarrassed by the display of affection. “Good. Then you understand that I am not going to let you die and leave your old mother alone. Return to the starting point.”
+
+“Yes, mother,” Heizui sighed. This was going to be terrible.

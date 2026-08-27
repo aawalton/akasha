@@ -1,0 +1,187 @@
+---
+id: 6e0e7760-35a4-5bdf-aa59-32aa257f201c
+page-type-slug: story-chapter-royal-road
+title: "Threads 268-Perception 5"
+slug: 0306-threads-268-perception-5
+partOf: forge-of-destiny
+position: 306
+ownLength: 1811
+unit: words
+publishedAt: 2022-12-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1059019/threads-268-perception-5"
+royalRoadId: "1059019"
+---
+
+“By the way, which of my retainers would you prefer to be my liaison at your settlement since I cannot be on site yet?” Meizhen asked.
+
+Ling Qi considered. She was curious about Bai Anxi’s musical style, but it could wait.
+
+“As much as I am sure Xia Anxi would appreciate the opportunity to face the wilderness of the Emerald Seas, I think Lao Keung might be better suited. Isn’t he supposed to be coordinating your guard though? Won’t it interfere with his duties?”
+
+“Those duties are minimal while I remain at the Sect,” Bai Meizhen dismissed. “And is it not within his duties to go ahead and see that our forces are coordinated and that your construction takes our needs into account?”
+
+Ling Qi chuckled. “Ah, yes, he’ll have to ensure the amenities of the houseboat we build for you all on the lake.”
+
+“That would be amusing. Perhaps the Baroness should rein in her ambitions though,” Bai Meizhen said dryly.
+
+“You’re right,” Ling Qi said mournfully. “We lack the experience or material to build a hull that might withstand the pride of the Bai.”
+
+Bai Meizhen covered her mouth with her sleeve, muffling her laughter. “My goodness, Qi. Please never, ever speak with one of my fellow white serpents alone.”
+
+“Not if I can help it,” Ling Qi said sagely.
+
+Her friend nodded, regaining her composure. “You are well though? I know that Renxiang has been troubled of late.”
+
+“It is internal business,” Ling Qi said apologetically. “I know she is thankful for your concern, and so am I.”
+
+Bai Meizhen pursed her lips but nodded. “Understood. Even among friends, there are matters which cannot be shared.”
+
+And the revelation that Cai Shenhua’s intent and desire was to be overthrown was one of them, Ling Qi thought. The idea still felt unreal, an absurdity or a joke. What right did she, a girl who a few years ago had been hiding from street thugs in empty alleys, have to be involved with that?
+
+<The same right as you have for establishing a connection to a foreign nation, or working with the Ministry of Law, or punching star monsters with your voice,> Sixiang thought. <You aren’t the same person.>
+
+She wasn’t, and neither were her friends. Renxiang was not the brittle porcelain girl she had been, Bai Meizhen no longer the untouchable and imperious serpent, Li Suyin not the naive and shy child who lived in books, and Su Ling not the starved and ragged hunter. She was not so arrogant as to claim credit for these changes in full, but she had changed them, and they, her.
+
+And they weren’t the only ones changing. Province, Empire, Tribes, Mountains. All were in motion.
+
+Because motion was change. Wind could wear away even the tallest mountain.
+
+“I suppose you must be fine, if your mood is so good,” Bai Meizhen said.
+
+“I’m feeling more sure of myself.”
+
+Bao Qianhad asked her before why she wanted to reach the peak of cultivation, and she’d not been able to give a satisfying answer. She didn’t have a definitive answer yet, but she was starting to have some ideas of what she thought needed to be done and needed to be changed. One person’s power alone couldn’t be enough for lasting change.
+
+“I’m looking forward to you coming around, Meizhen. I really am.”
+
+“So am I.” Then she smiled, tipping her head toward the center of the field. “Perhaps you should rescue your brother though. You need him for your performance, don’t you?”
+
+Ling Qi turned her eyes back to the gathered beasts where Zhengui seemed to be struggling in a conversation with Cui, who was staring down a little bird that was hopping up and down on Gui’s head. Zhen looked worried.
+
+“It is about time to start setting up the stage. Will you back me up? Cui is still not my biggest fan.”
+
+“Cui has forgiven you in the way of the Bai.”
+
+Ling Qi raised an eyebrow. “And what way is that?”
+
+“Determining of her own volition that the slight was never worth their attention to begin with,” Meizhen said dryly. “But yes, I will remain and ensure she remembers her manners.”
+
+Ling Qi stepped away from the hedge they had been standing by. Her steps parted the small crowd of spirits and disciples, a single glance her way enough to cause them to shuffle aside.
+
+Change, indeed.
+
+Cui’s hissing voice reached her as she came to them. “Too deficient still. Your pride is lacking.”
+
+“I, Zhen, am merely generous to my court.”
+
+“Being mean all the time is boring,” Gui added helpfully.
+
+“Foolish Gui,” Zhen hissed. “Acting your station is not mean.”
+
+“Gui thinks Zhen—”
+
+“Little brother,” Ling Qi interrupted. “I see you are having a good time.”
+
+It felt odd, having the attention of the strange menagerie of beasts and disciples.
+
+Zhen’s head swung toward her. “Ah, big sister, I was taking lessons from Lady Cui.”
+
+Cui’s cold golden gaze turned to her, forked tongue flickering out. The jade green serpent turned up her snout.
+
+Ling Qi glanced at Gui, who looked disgruntled. “Is that so?”
+
+“Gui enjoys hearing everyone’s words,” he said stonily.
+
+“Well, I am sorry to interrupt, but it will soon be time for the main event.”
+
+“Main event?” Cui asked, affecting disinterest.
+
+Ling Qi answered, “Our final sect performance. Zhengui is vital of course.”
+
+“Hmph, I, Cui, wonder about that…”
+
+“I, Zhen, am very sorry, Lady Cui, but I must attend to my duty.” Zhen’s serpentine body dropped his head in an approximation of a bow.
+
+The jade serpent’s head twitched, and if she were human, she probably would have blinked. Ling Qi saw her glance toward the field edge, presumably toward Meizhen. “Fine. Meditate on my words though! You are too lax.”
+
+Ling Qi watched with amusement as she slithered down, vanishing with a ripple into one of the reflecting ponds. Ling Qi patted Gui’s head once as he stood, shaking off dust and gravel from his underside to follow her.
+
+“What was that about?” she asked once they were away, and she once again had a hold of the wind to interdict eavesdroppers.
+
+“Cui is greedy,” Gui said.
+
+“Lady Cui is not,” Zhen complained. “She is right. We were being too lax and easy.”
+
+Gui huffed. “Gui likes letting everyone be warm and full.”
+
+“It’s fine when we do the festival, but Gui should be more discerning,” Zhen muttered. It had the feeling of an argument they’d had before.
+
+Gui accused, “Zhen is just being silly because of shiny scales.”
+
+“Am not!” Zhen snapped, abandoning any pretension of aristocratic haughtiness.
+
+“Settle down,” Ling Qi chided. “I need you to be focused to provide the stage and effects.”
+
+“Yes, big sister,” they both said.
+
+She considered saying more, but left it at that. How Zhengui chose to present himself to other spirits was his business, unless he asked for her help.
+
+With Zhengui shrinking down to follow her into the narrower passages, it was not too long before they reached the large space that spanned the width of the field in the north. Musical qi drifted and curled in the air, along with the sounds of tuning instruments.
+
+“Sup.” Yu Nuan was the first one to greet her. The older girl was seated to one side of the entrance, eyes half-shut as she plucked the strings of her instrument. “Figured you wouldn’t be late to your own performance.”
+
+“I never said she would be, just that the time was coming,” Ruan Shen said breezily. He was seated cross-legged on the ground, a tuner in one hand and his ruan in the other. “I never thought we’d actually do a big performance.”
+
+“That’s because you’re too lax, Senior Brother. You could have organized an event any time.”
+
+“Nah,” he dismissed. “That’s way too hard.”
+
+Ling Qi rolled her eyes at the familiar phrase. She turned her attention to her little brother. “Zhengui, will you start infusing the earth and the grass? You remember what we discussed about the stage, right?”
+
+“Yes!”
+
+“Are the curtains ready?”
+
+“Of course,” said Bian Ya, who had been standing with a few more junior musician disciples, overseeing some last minute practice. “It was somewhat expensive on short notice, but I was able to get it done.”
+
+“I said I would pay,” Ling Qi said mildly.
+
+Bian Ya smiled behind her veil. “And I refused. Consider it a graduation gift.”
+
+“As you like,” Ling Qi said, smiling back. “Ah, now where is Ma Jun?”
+
+“I’m here!” Ma Jun’s voice echoed from up the east entrance where she came sprinting in, gown hiked up in her hands.
+
+“I was worried you might be too distracted,” Ling Qi teased, remembering the girl’s dance with Gan Guangli’s friend.
+
+She flushed. “Th-that’s…”
+
+Ling Qi laughed. She was really doing this.
+
+<I’m proud of ya,> Sixiang whispered.
+
+You’ve been quiet, Ling Qi noted silently.
+
+<You don’t need me right now. You’ve got this.>
+
+Ling Qi took a deep breath, taking the vote of confidence for what it was. She observed as tendrils of wood, rapidly emerging trunks, and roots began to weave themselves together in a rising stage.
+
+“Still can’t believe you cast me as the villain,” Yu Nuan said from beside her, having stood at some point.
+
+“Don’t be like that. The bombast of the beast gods is exactly your sort of theme.”
+
+The other girl clicked her tongue. “You sure about this? Even someone like me knows you're making trouble, casting yourself as the Diviner.”
+
+“If you’re not making trouble, are you really making art?”
+
+Yu Nuan squinted at her. “That’s a dangerous thought.”
+
+“That’s cultivation. You can’t achieve the peak without dangerous thoughts.” The Monk, the Hunter, the Duchess. She had seen three people, or shadows of them, which had reached the peak now.
+
+It wasn’t enough to want power for its own sake. All of them had wished with all their being to change something they had seen in the world. They had a story to tell, and voices so loud to tell it with that the world had no choice but to listen, and they were so convincing that many, many people listened without coercion.
+
+That was what she would have to do if she wished to walk her path to ascension.
+
+The Dirge of the Beast Gods was a more profound art than she had given it credit for. It was not merely a procession of powerful summons, but also a meditation on the futility of standing alone. She had progressed far enough to see that, and the evolution of the techniques would reflect that as she mastered it.
+
+But as much as this performance would exercise her mastery, it was most prominently a story and a statement. And the art, the story, would change with how she told it.

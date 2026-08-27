@@ -1,0 +1,173 @@
+---
+id: baf54d17-90c8-5b8c-b936-1472ca355933
+page-type-slug: story-chapter-royal-road
+title: "Threads 395 Recovery 3"
+slug: 0439-threads-395-recovery-3
+partOf: forge-of-destiny
+position: 439
+ownLength: 1923
+unit: words
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1765727/threads-395-recovery-3"
+royalRoadId: "1765727"
+---
+
+"Moving on from that, has Miss Hanyi mentioned the plan to expand the talent pool yet?" Bao Qian asked.
+
+The garden was close now.
+
+"I haven't," Hanyi interjected. "Look, getting me minions is fine, but we don't need any other 'talents'!"
+
+"Hanyi, minions is not what you should call your subordinates," Ling Qi chided. "This is the first I am hearing of you having any."
+
+"Oh, it is nothing so concrete. The young miss has merely attracted or subdued a few minor spirits during her tour," Bao Qian said.
+
+"They were gonna mess up my blessings! I made them stop."
+
+"We'll talk about that later," Ling Qi said. "What do you mean, Bao Qian?"
+
+"It's an odd thought of mine, but I am getting very invested in this tour business. My current spirit’s contract is about up, and they are looking for more northern climes. I thought I might do a little roughing it to seek out another seasonal spirit, spring or harvest, maybe, one who could tour in Miss Hanyi's off seasons," Bao Qian replied. "I can hardly recreate Miss Hanyi, but I am interested in trying a new relationship. I wondered if you might be interested in assisting me."
+
+"I might… I do have some limited time away."
+
+Time camping and communing with spirits did sound like a relief. It would have to be after Hanyi’s tour, so she could even bring Hanyi and perhaps Zhengui.
+
+"Big Sister!"
+
+Twin voices called her from the garden as they came out onto the veranda, booming in the night air.
+
+Zhengui towered in the center of their garden, taller than a big warhorse and much more broad. He rose with a rattle of falling stones and spreading dust from the patch of earth he had nestled himself in, the planters fit into the scaffolding on his back rattling and swaying with the motion.
+
+"Zhengui, did you enjoy your dinner too?" she asked.
+
+"Gui did. It was very good." He strode up the path, pushing his head past the railing, and she put out a trembling hand and rested it on his snout.
+
+Zhengui had taken her injuries better than she feared. He had regarded her burned up state with stoic resolve and merely informed her that he was going wherever she went with her. It would probably hold back development back at Snowblossom for him to be here at the sect town instead, but she couldn’t look him in the eye and deny him.
+
+Zhen arched over his shell to peer at her. "Is Hanyi making sure Big Sister takes all her medicines today?"
+
+"Of course!" Hanyi crossed her arms.
+
+"I'm not going to forget myself," Ling Qi grumbled.
+
+"Even the one that makes Sister’s qi fuzzy?" Gui asked.
+
+She grimaced. She knew she wasn't supposed to be cycling her qi, but…
+
+"She took it early,” Hanyi promised. “I made sure."
+
+She would have taken it without prompting.
+
+"You are in good spirits, Sir Zhengui," Bao Qian said.
+
+"Yes. I, Zhen, have been doing well. I see Shiny Man has become even shinier."
+
+She let them trade their greetings, observing Zhengui. He really was growing well. While she had been at the summit, he had been hard at work at Snowblossom with that gaggle of scholars enriching the soil with the heat and fertility of his ash, growing his domain over the earth of the valley.
+
+Over and over again, he had tread the lands around Snowblossom, the hills and fields, the cliffs and snowfields. In doing so, he had been shrouded in a cloud of fallen ash rich with the qi of his stomach from the expensive reagents and cores she had set aside for his cultivation diet. It was the same ash that Bao Qian sold in much smaller amounts for such a high price.
+
+Zhengui had lingered most at the farms they had built and were slowly expanding as settlers moved into the prepared homes. Infused with his will, he had spread his ash across fields after their harvest and over the fallow earth. The initial reports from the fief of the bounty that followed was as much an indication of success as the growing power in her little brother's aura. He had always felt like deep roots warmed by the boiling blood of the earth, but Zhengui, as he stood before her now, had become anchored. He was solid and immovable, even here, so far from where he had laid down roots. Zhengui was growing into his role as Prince of the High Garden and the Earthflame Lord.
+
+Granted, these lofty names were undermined by the racks he had allowed to be mounted on his back and the pots and planters full of flowers and fruiting plants he had let the household place there in an impromptu festival for his arrival. They were all growing very well, but the mishmash of colors and rattling pottery did make him look adorably silly in her opinion. However, the farmers in Snowblossom had begun offering their first buds and blooms like this.
+
+"I will take that compliment, young master Zhengui. Your scales are well polished indeed," Bao Qian said. "Your house certainly has a splendid garden for its size."
+
+Well, the garden was bursting with life, even with autumn fading.
+
+"Of course! Gui does not hold back when it comes to growing things."
+
+"I can tell. Your ash has been making quite a stir after this last harvest. The ones who bought from me are very satisfied." Bao Qian crouched to bring himself closer to Gui's eye level. "How much more do you think you could make available compared to last year?"
+
+"I, Zhen, am pacifying all the little spirits of soil and stone and giving Lady Snowblossom my regards. But one supposes we could allow…"
+
+"It's okay,” Gui interrupted. “Gui has had the nice men collecting and boxing ash up all year. Gui thinks we could manage two or three times more!"
+
+"Foolish Gui! Let Zhen negotiate properly!"
+
+"Silly Zhen, there is no point in lying about how much we have to sell!"
+
+"I'm sure Bao Qian will give you a fair deal,” Ling Qi interrupted the growing squabble. “You are his valued supplier after all. He can hardly replace you."
+
+"Mister Manager isn't gonna gouge us," Hanyi supported. She crossed her arms as she hovered by Ling Qi's side.
+
+"I am pleased to be so well trusted. But Sir Zhengui, an accurate amount will let me determine how many orders I can fill and so, set my prices from there."
+
+"Ah, that is true,” Gui realized. “See, silly Zhen?"
+
+"Hmph. Very well. Three times as many boxes as last time," Zhen hissed sulkily.
+
+"Grand!" Bao Qian exclaimed. "We need not dither over business any more than that for now."
+
+"Oh, hey there. Didn't think you lot would be done with dinner so soon!"
+
+"Sixiang?" Ling Qi craned her neck to peer at the other side of the garden. “Why did no one inform me you were here?"
+
+Their muse rose from where they had been lying down by the garden pond. Ling Qi was ashamed that she hadn't noticed them, but their aura was very restrained. Sixiang appeared much as they always did, slender and androgynous with their shifting hair blowing in a phantom breeze and wrapped in a loose and gauzy open chested robe. Looking directly at them, she noticed that there was an artificial jerkiness to their walk. With another look, Ling Qi noticed polished wood and porcelain under the guise of flesh.
+
+"You're using one of Suyin's dolls?" she asked.
+
+"Yep! Pretty nice framework, really let me rest and recover. Whaddaya think?" Sixiang did a little spin.
+
+"I think my cousin's apprentice is quite a genius… Well, so is Qingling. I see some of her work in that as well," Bao Qian observed.
+
+"Yeah, spider gal's been working hard on this, too," Sixiang agreed, flopping down across Zhengui's broad shell.
+
+Bao Qian stroked his chin. "No wonder she has been running herself ragged. That is some advanced work in a field she'd not touched much."
+
+"They finished this project some time ago. Dunno what she's working on now." Sixiang shrugged. "Sect stuff, maybe?"
+
+Bao Qian made a noise of consideration.
+
+"How is the sect doing?" Ling Qi asked.
+
+"Oh, you know, they're digging in and chewing on their meal," Sixiang replied. "Attitudes are kinda mixed on that. Lotta folks want to keep pushing while the cloud tribes are on the back foot."
+
+"But wiser heads prevail," Ling Qi concluded. "The ith…"
+
+"Yeah, that's the big one. Your girl Suyin has been working her fingers off on purifiers. I'm worried she might try to graft on more."
+
+Ling Qi furrowed her brow. The worst part was that she could not be certain that Sixiang was joking when it came to Suyin these days.
+
+"Please tell her to stick with that skeleton puppet limb rig she was considering," Ling Qi finally said. "Or even better, get out of her lab and cultivate her use of the threads of her mantle."
+
+Suyin stayed inside far too much and did not cultivate her body enough, even now.
+
+Sixiang laughed. "I’ll pass the message. I expect the reply will be a passive aggressive 'The girl who chose to get turned into a log of charcoal doesn't get to lecture me on my health.'"
+
+Ling Qi grumbled, flexing her bandaged fingers. This was this, and that was that.
+
+"I would say I am sure Miss Li would not do anything foolish, but my cousin did have to be stopped from attempting to graft additional limbs to herself at that age, too," Bao Qian worried.
+
+"... I will visit Suyin soon," Ling Qi decided.
+
+"I think she's got an open evening in a few weeks. Want me to ask?" Sixiang offered.
+
+"Please."
+
+"Miss Boneshaper will be fine. Gui thinks Big Sis is a worrywort." Her little brother tilted his head back to fix her with a very huffy look for a giant tortoise. "Big Sis needs to focus on her own health."
+
+Even her sweet little brother was getting sassy with her. What was this world she had made?
+
+"I just want to ensure my friend is not going work crazy," Ling Qi replied with great dignity.
+
+"Well, you would recognize the signs," Sixiang teased. "You can't deny that, right, Little Big Guy?"
+
+"I, Zhen, acknowledge the Sixiang may be right," her brother’s other half betrayed. "Zhen has seen many many mortals who work too hard and need this young lord’s ash for their wounds, but Big Sister is in her own league."
+
+"Oh, direct healing as well?" Bao Qian asked.
+
+"It only works when Zhengui is right there, though some of the nice paper men the Bright One gave to Gui think maybe there could be pills or elixirs made that have a similar effect."
+
+"You've certainly been busy,” Ling Qi said. “They must be missing you there."
+
+"Maybe, but they will be okay. Gui has blessed the earth very well."
+
+"Dumb, slow dirt spirits and worms do not dare ignore I, Zhen, any longer."
+
+"Zhen does not need to be so mean. They are just sleepy and not used to human ways of growing things," Gui scolded. "Gui understands being testy when waking up!"
+
+"That is a privilege for Zhen and Gui," Zhen scoffed back.
+
+"I'm just glad you are finding your place so well," Ling Qi said. "We will get you back there soon.”
+
+"Only when Big Sis is okay," Zhengui said.

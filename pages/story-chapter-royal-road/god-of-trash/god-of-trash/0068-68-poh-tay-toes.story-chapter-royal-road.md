@@ -1,0 +1,151 @@
+---
+id: 2da3b82a-edea-5105-8bd8-30ec301cc72a
+page-type-slug: story-chapter-royal-road
+title: "68. Poh Tay Toes"
+slug: 0068-68-poh-tay-toes
+partOf: god-of-trash
+position: 68
+ownLength: 3611
+unit: words
+publishedAt: 2025-05-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2263089/68-poh-tay-toes"
+royalRoadId: "2263089"
+---
+
+Rhys traveled from one end of the merchants’ district to the other, making a series of large purchases. He knew what would happen if he made these purchases; the prices would go up on everything he needed. The wise thing would be to purchase the materials slowly over a long time period, investing the bare minimum until he was making enough money to start making serious long term investments in mercantile companies, maybe even negotiate a long-term contract with one of the stabler merchants, which he would be able to recognize by then, thanks to his long contact with them.
+
+However, he understood what he was doing. He was going to generate a fad, a flash in the pan. He needed all the potatoes and all the oil RIGHT NOW, and after this, probably not for a long time—or, at least, the fad would die down to the extent that he could handle it through smaller purchases, if he even wanted to bother with the stable sustain period after the initial get-rich-quick maneuver. Plus, with the tournament—the event at hand, where he could expose thousands of mages to his new product all at once in one mass market and sell everything he had in one fell swoop—just around the corner, he had no time to take it slow and do the wise thing.
+
+So instead, he flashed the money he’d gotten selling herbs to Sorden like a trashy young master and bought up everything he needed in large quantities all at once, in the hopes that, at the very least, the merchants wouldn’t have time to raise their prices in the time it took him to move from one end of the plaza to the other side. Bast tailed him, hopping from tree to tree. At some point, perhaps called back to her post by his erratic behavior, Mouse reappeared, a development that Rhys silently mourned, but she did nothing to get in his way or prevent him from going through with his plan. She simply watched, her brows furrowed in silent confusion.
+
+His storage ring was full, so the first thing he bought was another storage ring, this one specialized at holding a few types of bulk goods. It essentially had a few large bins inside of it, each of which he could fill up with a large amount of a single kind of good. As he wandered the plaza, he then filled those bins with his few simple ingredients: potatoes, cooking oil, and salt, plus a few herbs that he either wanted for potions, or wanted for refining his recipes. He also purchased a set of cooking knives and a whetstone for sharpening them, a cutting block, a sturdy table, and a very simple, large cauldron with no finery on it, nor feet, nor decorations around the rim. The rest he could make up with trash.
+
+When he was done, he returned to the trash heap. The heap didn’t smell nearly as bad as it had before, largely due to his efforts at cleaning the air. Mouse looked downright startled at the development. She turned slowly, sniffing the air, her eyes widening as she discovered mostly clean air. It made her look even more mouselike than she usually did, not that Rhys was going to point it out.
+
+“Hey, Mouse. How’d things go with the library?” Rhys asked, as he started setting up his cauldrons.
+
+“Er—er, the, the Schoolmaster uhm, told me not to waste his time, and that he knew what was going on, and had no complaints,” she replied, clearly still baffled by the outcome.
+
+“Oh, okay,” Rhys said, unworried. He’d never been particularly worried about Az, since Az was far stronger than him and usually seemed to know what he was doing, but he was particularly unworried about the man now. He nodded at her. “Are you okay with that?”
+
+Mouse trembled at the question, and Rhys knew he’d hit the nail on the head. She was clearly bothered by it, deeply perturbed. He would be too, if someone had just shown up at his library, vanished Az, and then Aquari had waved her hand and said it was all fine. If he didn’t know Az, he probably would have been bothered in Mouse’s behalf, even knowing nothing about her library. As it was, he wasn’t that worried, since Az was too lazy to seriously harm anyone who hadn’t specifically pissed him off, but given that Mouse didn’t know Az, he understood her being worried.
+
+Setting down the cauldron he’d been manipulating, he sighed and stood, dusting his hands off. “Listen, Mouse. You don’t have to stand around and watch me set this up. It’s fine. I’m going to be here this whole time, doing nothing but working on my cauldrons. You can sit around and watch a fellow student make some boring potions, or you can go investigate the library and figure out what happened with your librarians.”
+
+She stepped toward the exit, then hesitated. “You won’t leave?”
+
+“No, no. I’m busy. Look at this.” He gestured at the cauldrons, the piles of potatoes, the cooking oil, and the trash. “I’ve got my hands full getting all this in working order before the trash taints it. You go do what you have to do, and I’ll be right here, busy on my setup.”
+
+Mouse hesitated one more second, then ducked her head. “Thank you.” With that, she turned tail and ran off, hurrying back to the library.
+
+The second she was out of sight, leaves rustled, and Bast descended from a nearby tree. “My, my. Who’d know Rhys developed a way with women while I was gone?”
+
+“I did not. Come on down and help out, you lazy lout. I’ve got to get these cauldrons going.”
+
+“Sure, but what are—” Bast cut off mid-sentence. His hand flashed out, faster than Rhys could track, and caught Rhys by the wrist. He turned Rhys’s hand over, exposing his blackened fingers and palm. Shocked, he stared, first at the black marks, then at Rhys.
+
+“Oh, I forgot.” No wonder his hand had felt sluggish and a little clumsy. Rhys called the impurities into his core, sticking them to his trash star. The discoloration faded, and his hand returned to normal.
+
+Bast wouldn’t let go of his wrist. He stared at Rhys. “It’s harming you. You shouldn’t spend so long in the trash. You’ll cut off your future.”
+
+“Don’t be ridiculous. I’m fine,” Rhys said. He yanked at Bast’s grip, trying to pull his hand free.
+
+Bast tightened his grip. Between the two of them, he won when it came to grip strength. “You won’t. Impurities impede progress. If you have enough of them inside you to blacken your skin, you’re already—”
+
+Rhys forcibly twisted his hand free and walked over to the trash. Looking Bast in the eye, he slapped his hand down on the pile and pulled trash into his core. Bast lunged, but too slow. Rhys had already reached critical mass. He ignited the trash star, and a wave of growth and mana rushed through him. Another tiny droplet of powerful mana collected in his core.
+
+“What?” Bast muttered, startled. He put a hand on Rhys’s shoulder and scanned him, and his brows furrowed. “The impurities. They’re… gone?”
+
+“It’s my path. It makes sense to me, but I don’t know that anyone else would understand,” Rhys explained.
+
+Bast stared at him. “Can you absorb impurities from people?”
+
+“Huh? I can from rats… I guess I haven’t tried people,” Rhys allowed.
+
+Bast offered his hand. Rhys took it and called out to the impurities inside of Bast. His mana couldn’t enter Bast directly—there was something preventing that, some kind of barrier—but he could extend his influence over impurities inward, as long as he had direct contact with Bast’s skin. Rhys reached out, scanning Bast for impurities.
+
+He raised his brows, shocked. Whoa.
+
+“Bad news?” Bast asked, watching his face.
+
+“No… I’ve never seen a mage’s impurities before. I was just startled,” Rhys replied honestly. He didn’t know if what he saw within Bast was good or bad, since he had no gauge. He himself wasn’t much of a benchmark, since he was constantly loading up on impurities, igniting them, and refreshing himself, and it wasn’t like he made a habit of going around scanning mages, but there were a startling quantity of impurities within Bast. Mostly small deposits, maybe as big as a grain of rice at the largest, and all of them made up of tiny impurities clustered together, but there were hundreds of those deposits, scattered all around Bast’s body. Some of the impurities within the deposits he faintly recognized as coming from their hometown and the garbage pit there, some of them were herbally scented, and some of them simply seemed to exist without a source. All of them stirred, but resisted his call. Bast’s mana instinctively protected them, recognizing them as a part of Bast, rather than foreign objects.
+
+He couldn’t see into Bast’s core. Whatever wall prevented him from entering Bast’s mana in the first place provided a powerful, nigh impenetrable barrier in the deepest part of Bast’s mana, or in other words, his core. It made sense to Rhys; otherwise, any old mage could touch another mage and influence their core, but at the same time, he sensed that Bast didn’t want him to see within; that Bast was deliberately preventing him from entering his core. He twisted his lips.
+
+“You’re resisting me. Stop fighting and give in.”
+
+“I’m not resisting you.”
+
+Rhys opened his eyes and gave him a look. “Your mana is. Try to relax. Breathe deeply. Push them out.”
+
+Bast considered for a moment, then closed his eyes and focused, circulating his breath and mana. The impurities shifted, but still didn’t come to Rhys. “Mmm… it’s harder than I thought.”
+
+As he spoke, he slowed his heart rate and breathing, entering a deeper state of meditation. In this state, his mana slipped away from the impurities as Bast finally recognized them as foreign objects and expelled them. Rhys acted in concert, calling the impurities toward himself as Bast released his grip on them. One surface-level herb-scented impurity lifted up, wiggling free of Bast’s mana. Rhys pulled on it, accelerating its exit, and it flew toward him. Another set of the surface-level impurities began to come free, and Rhys called more powerfully, willing them his way. One at a time, pulling the rice-grain deposits free of Bast’s body.
+
+“Deep breath. I can feel them… they’re coming my way.”
+
+“I’m getting the hang of it. Hold on.”
+
+One after another, the surface-level impurity deposits flew free of Bast and crossed into Rhys’s body. When he had all the surface-level ones, he dove deeper, cutting surgical paths through Bast’s mana to reach the deeper ones and leave minimum damage behind. Bast tightened his grip on Rhys’s hand, his face scrunching in pain, but said nothing, putting up with the pain. Better to be free of impurities and take a little pain now, rather than bear the impurities forever for being unable to take a little pain.
+
+At last, the final set of impurities that Rhys could reach flowed into his body. He turned, gazing at Bast’s core. He could feel impurities within it, but that was all. It didn’t feel dangerous, to him or Bast, at least not immediately, but for a mage that wasn’t himself, impurities were always bad. He gently touched Bast’s core. “There’s impurities in here, but you aren’t letting me in.”
+
+“No.”
+
+“No? You don’t want me to clean them?” Rhys asked.
+
+Bast pulled away. Rhys had just enough time to retreat back into himself before the connection broke. “I don’t want you to see that.”
+
+“See what? Your core?” Rhys asked, clueless. Was there something about the core that he didn’t understand? He looked at his all the time and never saw anything.
+
+“Cores are too delicate. You’re an amateur at doing this. Do you know how much it hurt?” Bast asked, the usual laughter in his voice.
+
+“Uh… not too much?” Rhys guessed hopefully.
+
+“A lot. It hurt a lot. You were damaging my mana passages, too. Not too much for me to heal, but enough that if it wasn’t a huge advancement for me, I would have stopped you. I trust you, Rhys, but I’m not going to let you poke around in my core and risk you mangling it as your first-try guinea pig. You know a core is the center of a mage’s power, right? If it’s broken, or ruined, or pierced, it can either limit your potential… or completely end your future as a mage.”
+
+“I know,” Rhys said. He wasn’t stupid. He’d read enough manuals to figure that out. “Alright, alright, I get it. I won’t play around with your core until I figure out how to safely extract impurities from cores. Agreed?” He offered his hand.
+
+Bast grinned and took it. “Deal.”
+
+Rhys shook his hand and stepped back, but the sensation that Bast had deliberately concealed something from him didn’t fade. There was something about Bast’s core that he didn’t want Rhys to see. It might have been as innocuous as a secret sword technique that left a permanent mark upon one’s core, or a spell technique the Sword Saint had taught him that left his core changed, that he didn’t want Rhys revealing to the world, but somehow, Rhys felt like it wasn’t something so positive. There was something he was concealing from Rhys deliberately, something he was afraid of Rhys seeing.
+
+A curse, maybe? He peered at his own core. Aside from the next trash star already accumulating within it, he had two curses circling his core; one, the frozen hands that dragged the opponent into the earth, and the other, a single bone from the horse and rider he’d fought in the depths of the pit. He’d tried to activate that back on his home peak, but it had refused to answer his call. Whether he didn’t have enough bones, or hadn’t collected enough curse power, he couldn’t say, but now that he was here in the enemy’s territory, he couldn’t even consider collecting curse power to activate either of the curses.
+
+Still, curses had a distinctive chilling, creeping sensation, like fingertips on the back of one’s neck in a dark alley at night. He hadn’t sensed anything like that from Bast. No, instinctively, he felt that it wasn’t a curse that afflicted Bast, but something else. Something he was ashamed of, perhaps…?
+
+Ah, well. If it was a curse, he’d already peeled one off of Walter’s core. When Bast was willing to give him a look, he’d be able to deal with it easily enough. If it was something else, then he’d do his best to help his friend, whenever his friend was ready to show him. He shouldn’t worry about it too much. Everyone had secrets, whether they were shameful or merely embarrassing, and who knew? Maybe Bast was simply too embarrassed, or too wary, to show him his core. It was the innermost part of a mage’s power. Bast was right; if he interfered with the core in any way, he risked permanently harming or even destroying Bast’s magehood. He would never do such a thing—not even risk it—but hell, would he allow a first-time amateur to poke around at his core and try to figure out how to extract the impurities from it? Hell no! Not that he’d want such a thing in the first place, but even assuming he did, it was like letting your neighbor play brain surgeon. There was a reason neurosurgeons practiced for decades before they were set loose upon the populace, and in this world, messing with someone else’s core was just as risky—if not more risky—than brain surgery.
+
+No, Bast’s complaint was completely valid. Honestly, if not for the sticky feeling at the back of his mind that something wasn’t quite right, he wouldn’t have doubted Bast’s excuse at all.
+
+As Rhys considered all this, Bast lowered himself into a stretch, extending his left leg, then his right leg. He jumped in place a few times, then set off at a run, powering back nearly as soon as he’d left. He drew his sword and slashed at the air a few times, marveling at his own speed and precision, then laughed aloud. “Rhys, this is insane.”
+
+“Huh? Is it?” Rhys asked, startled out of his contemplation.
+
+“You have no idea. All these impurities have been subtly holding me back for years. I’ve been working on expelling them, but it’s a long, slow process. You just accelerated decades’ worth of effort into a handful of seconds. I could have spent years and years on trying to expel these! And look!” He struck with his sword, a blaze of robes and shining steel. “I’ve been struggling with that twist for months because my wrist had a subtle weakness in the bones, where impurities made my wrist click and weaken at that particular angle. Now, it’s no problem!”
+
+“Happy to help.” Rhys smiled to see his friend so eager and excited. He hadn’t been able to see the finer points of the sword strike at all, let alone appreciate the mysteries and subtleties to the specific ways the sword twisted, but if Bast thought it was a huge improvement, then he was happy to hear it.
+
+“Forget your plan. You should do this for everyone at the tournament! They’d pay hand-over-fist for this treatment!” Bast enthused, excited.
+
+“Yeah, and then what? I’m fighting in the tournament, in case you forgot,” Rhys pointed out. He didn’t mind collecting everyone’s impurities, but the gains he could make from that were inferior to the gains Bast had made from his actions. True, maybe if he absorbed everyone’s impurities, he could overcome the boost he gave his opponents, but… boosting his opponents before battle sounded like a foolish move to him. He wasn’t in the business of throwing, thank you very much. He needed all the advantages he could get, not to give his opponents additional advantages. ‘I’ll wait here while you recover your strength so I can battle you at your full power!’—sure, he enjoyed those lines, and the overbearing attitudes of the characters that could utter them, but he wasn’t at that level yet. He was still in the scratching-and-clawing for every bit of strength he could muster level, where giving his opponents a moment of rest or recovering their impurities and giving them an advantage might mean he lost not just the battle, but his life.
+
+“Oh,” Bast said, his excitement suddenly subdued. He looked at his sword, then, at Rhys, an apology on his face. “I shouldn’t have asked you to remove my impurities. I—”
+
+“No, no. Don’t worry about it. We’re friends, first off, and secondly, any battle between us is your win, whether you have impurities or not.” Rhys wasn’t willing to fight dirty against Bast the way he was against other opponents; he respected Bast too much. As a result, he didn’t even have to think about who might win the fight between them. When it came to a clean fight, sword against Rhys’s trash skills, Bast won every time. Removing Bast’s impurities had moved the needle from 100% chance of victory to 110% chance of victory—in other words, it had changed nothing.
+
+“Well… that’s true,” Bast said, breaking out into a grin.
+
+Rhys shook his head at him. “Besides, think about it. You won’t let me touch your core. What competitor is going to let me enter their body and play with their mana passages right before the battle? Sure, if you advertise for me as the Sword Saint’s apprentice and vouch for my skills, I’ll probably get a few patrons, but not enough for their gains and my gains to be even.”
+
+Inherently, taking impurities out of other mages gave Rhys little, and the other mages much. True, he got the super-dense impurities he needed to ignite the heart of a trash star, but he could get those from the rats if he needed to. And the amount of impurities he got from Bast was enough to ignite one, maybe two trash stars. That would improve him, he had no doubt about that, but it was a flash-in-the-pan improvement compared to Bast’s vast upgrade. For this to be worth it for him, he’d have to be able to collect the impurities from almost every mage in the tournament. Then he’d almost certainly be able to improve enough to be equal or greater to the improvement each mage got from his clearing their impurities. Any less than that, though, and it was a losing proposition.
+
+“That’s fair,” Bast allowed. He nodded at Rhys. “Still, don’t dismiss this skill. When the tournament is over, it’s still a great way for you to make money. And as long as you choose the right clients, you should have a built-in protective net.”
+
+“It’s true. I won’t forget it, but it isn’t what I need to do now,” Rhys agreed. Bast was right. It was a great moneymaking technique… as long as he chose the right people to target, so that once he cleared their impurities, they saw it as owing him a debt of gratitude rather than something that made him a target of kidnapping.
+
+He clapped his hands and stepped toward his equipment. “Enough with all that nonsense!”
+
+“Nonsense? You just revolutionized expelling impurities,” Bast pointed out.
+
+“It’s time for the real deal. The true money-making goldmine of our era. It’s time… to make potato chips!”

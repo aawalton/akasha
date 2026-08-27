@@ -1,0 +1,135 @@
+---
+id: fffb2932-8375-5072-8f8e-ab99f5dc78cd
+page-type-slug: story-chapter-royal-road
+title: "Threads 397 Recovery 5"
+slug: 0441-threads-397-recovery-5
+partOf: forge-of-destiny
+position: 441
+ownLength: 1420
+unit: words
+publishedAt: 2024-08-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1775559/threads-397-recovery-5"
+royalRoadId: "1775559"
+---
+
+"Sis! Look, I’m finished!" Biyu announced happily, drawing her from her thoughts.
+
+It was bending the physician's orders, but she had taken to conducting the meridian clearing exercises with some more intensity. The light pulses of energy she had been sending through her circulation while she breathed was tinged with a hint of lunar qi. She was being very careful, stopping any time she felt a twinge.
+
+"Are you?" Ling Qi asked, focusing on her little sister.
+
+Biyu held up the cut of rough paper smeared with dark paint proudly. A tall blob of purple and blue and black stretched across the page. There was a pale brown oval at the top of it decorated with two chilly blue circles.
+
+Frankly, it looked frightening.
+
+But the ghostly dark blob was set right in the middle of a smear of green paint and colored splashes that she recognized as Biyu's take on the forest stream she had taken her to play in now and then. It stood under a bright blue sky with a happy yellow sun. It was also hugging a much smaller blob depicted in pink and with a white oval face to stand out.
+
+"When Sis is better, let’s go," Biyu said seriously.
+
+Ling Qi reached out, gingerly taking the painting from her little sister.
+
+She remembered how upset Biyu had been when she saw Ling Qi for the first time after the battle at the summit. It had taken hours to convince her that the current Ling Qi really was her Big Sister. Having to explain that Biyu couldn't sit in her lap while she was recovering wasn't any less pleasant.
+
+"Of course we'll go, little sister. I promise."
+
+She felt a knot cinch down in her still ashen dantian. She would. However busy she became, she'd make the time.
+
+She cast her eyes around the room. Originally, this room had been used for storage, but it had since been rearranged for Biyu to play with her paints in.
+
+"Okay! Does Sis like the painting?" Biyu asked, laying her hands on Ling Qi's knees.
+
+"It's very good, though am I really that big?"
+
+"Yes!"
+
+Well she couldn't say it was wrong.
+
+Biyu huffed, crossing her arms. "I wanted to use the glitter though. Sis should have sparkles,"
+
+"You know Mother said no more glitter." Ling Qi rested her hand on Biyu's head.
+
+She had not known what glitter was, only that it wasn't toxic or dangerous, and that Sixiang had given it to Biyu on a whim. It had taken days to get it out of the walls and carpets. Mother had scolded her, and she had scolded Sixiang.
+
+"... kay," Biyu said.
+
+"May I keep this?" Ling Qi held up the painting. The paint was dry by now.
+
+"Yes! It's for Sis to get better!"
+
+"You're sweet, little sister."
+
+It was an active effort to summon up the qi for it, but the paint-heavy paper shimmered in her hands and vanished, disappearing into the safety of her storage ring.
+
+"Ah, Sis can still do magic!"
+
+"That's right. Once you have your magic, no one can take it away. But… maybe don't tell mother I did that, okay?"
+
+***​
+
+The soft strains of the zither echoed out over the moonlit garden.
+
+Her fingers were regaining some strength. No one complained when she practiced like this. It was strange how fast she could pick up an instrument these days. A few hours of trial and error were enough to let her understand the nature and tenor of every vibration the strings could give, exactly how they would sing from a touch anywhere along their length, and from there, it was all in the composition. It was a small skill, a mortal skill, but it was still an advancement of sorts.
+
+"It's good to see you smiling properly."
+
+Sprawled out over the couch dragged onto the balcony with her chair, Sixiang lay with their hands behind their head, bobbing their chin in time with the music.
+
+“It's good, feeling like I can do anything at all again."
+
+"What were those terrified interviewees then?"
+
+She made a face. "You know what I mean." Ling Qi repeated the last chord of her song, strumming and holding onto it.
+
+"Down a notch, maybe?"
+
+"Maybe." Ling Qi adjusted the tightness of the string. Better, but still misplaced. "Is it wrong to keep trying to reassure everyone? Hanyi noticed that I’m faking some of it, but she's with me all day."
+
+"I don't think so. Course you aren't happy being stuck like that, but nobody is gonna be happier if you're acting miserable. Not even you."
+
+"You could say it's unhealthy. I feel that since everyone is doing their best, I have to as well, even if it means fibbing a little." She felt that twinge again, deep in her chest, as she played. "There's a place for unvarnished, unmerciful truth. You need that at the highest levels where Cai Renxiang focuses, all turning gears and duty and obligation."
+
+"But you gotta fib sometimes to make people comfortable?" Sixiang turned over on the couch. Resting their elbows on the arm of the couch, he looked up at her. "How'd that work for me?"
+
+"Poorly. It was the intent of that lie that let me forgive you."
+
+It was hard to find a single bright line here. All the same…
+
+Sixiang blew out a breath. Their features rippled briefly, showing off the blank wooden plate beneath. "I get what you're saying. The Summit would’ve collapsed if everyone just baldly said what they meant and wanted without any cushion… And most of art is a lie of sorts. There’s music to make you see and feel what isn't there, fiction to paint worlds that don't exist, or poems to stir the soul with nothing but ink on a page…"
+
+"I understand now why the Duchess breaks people who come under her scrutiny for too long. With no lies at all, the world is just too painful."
+
+That awful conquering sword and twisted steel giant burned in her mind, and the cruel heat still smoldered deep in her bones.
+
+Cruel was the wrong word. It would be better if it was cruel. No, those flames were merely horrifying in their utter unswerving certainty that they were burning for a righteous cause.
+
+Sixiang commented, "We're all made with a few lies in the mix."
+
+"Yes," Ling Qi agreed. "I think that truth and lies are neither wholly good nor evil. Clarity of intent is what is important."
+
+"On the other hand, is being understood important if the other person doesn't believe you?" Sixiang wondered.
+
+"It is. For me to speak and those who listen to understand my intent, that, too, is part of my Way. At the same time, there needs to be room to soften words and to hold information back. People can't go through life with every thought on display."
+
+Sixiang sat up as Ling Qi’s zither fell silent. "Moons, you have an exacting definition of truth."
+
+Ling Qi looked out over the gardens lit by the bright light of the nearly full moon. "... Probably. It's hard not to with everything that’s happened in the Emerald Seas in recent history."
+
+"Those Hui jerks sure did a number on this place." Sixiang floated over the arm of the couch and wrapped their arms around Ling Qi's shoulders. Only the faintest ghost of pressure touched her, enough to give weight to their words and no more. "I don't think you need to go as far as they did though."
+
+"Maybe not, but the Way can't be unclear, or I will never reach the highest peaks."
+
+"And you will do that, won't you?"
+
+"I will. I won't settle for anything less. Renxiang needs that much, and so do I."
+
+"Course. I'm glad you got that settled in your mind."
+
+Ling Qi reset her hands back in the starting position on the zither strings. "Alright, now, let me try out this piece. It's based on elements of a piece by a Master Shou, a dedication to the Dreaming Moon and the autumn wind. I want to hear what you think. I promised to help Hanyi with some other seasonal pieces, and I want to get a feel for current styles."
+
+"Yeah? You really want me to be honest? No holding back?" Sixiang teased.
+
+"When it comes to criticism, of course. Leave your kindness at the door."
+
+"Oof. Well, you asked for it!"
+
+Ling Qi snorted and began to play.

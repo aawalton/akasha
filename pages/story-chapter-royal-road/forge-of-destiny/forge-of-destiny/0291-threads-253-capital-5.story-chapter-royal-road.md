@@ -1,0 +1,165 @@
+---
+id: b18efa67-a504-5353-b030-c7c78797e5b7
+page-type-slug: story-chapter-royal-road
+title: "Threads 253-Capital 5"
+slug: 0291-threads-253-capital-5
+partOf: forge-of-destiny
+position: 291
+ownLength: 2293
+unit: words
+publishedAt: 2022-10-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1010242/threads-253-capital-5"
+royalRoadId: "1010242"
+---
+
+Her target spoke first as they approached. “Oh, Lady Ling! I wondered if I would encounter you here."
+
+Mei Lanfen was an old woman with a kindly appearance. Her steel gray hair was drawn back in a bun, and her features bore more creases and wrinkles than usual for a cultivator, making her seem like a mortal in her late fifties or so. She was quite short, no taller than Suyin, and wore a simple but elegantly-cut blue gown.
+
+Her qi felt like aged paper and fresh ink, and Ling Qi judged her cultivation somewhere in the fourth realm.
+
+“When I saw your name on the guest list, I thought it would only be polite to greet you in person.” Ling Qi tipped her head in respect. “Thank you for writing back to me.”
+
+“I’m always pleased to help a young lady learn,” responded Mei Lanfen, inclining her head as well. “And is this the other host?”
+
+“This is Xia Lin of the White Plumes, recently placed under my lady’s command," Ling Qi introduced, gesturing to her companion.
+
+“My pleasure, Madam Mei,” said Xia Lin, bowing a little lower. “Lady Ling is doing me some kindness in introducing me to those present.”
+
+“I am sure a girl of your talent will have little trouble,” said Mei Lanfen. “To be assigned to the heiress, you must be exceptional.”
+
+“Madam Mei is kind,” replied Xia Lin.
+
+“Xia Lin is modest,” added Ling Qi. “But I admit, I am a little overwhelmed here at the capital as well.”
+
+“Xiangmen will do that,” the old woman said knowingly. “Nowhere else in the province do so many people gather. It is a heavy task, attending to their needs.”
+
+“I can only imagine,” acknowledged Ling Qi. “You mentioned your position, but how does it work? Is your school a training facility for one of the ministries?”
+
+“The Gold Autumn School is not so prestigious. We are only a preparatory school without government sanction or funding. We teach young men and women the necessary skills for entry into the ministries. This includes reading, writing, ethics, and some limited cultivation tutorials.”
+
+“Really? That must be expensive,” Ling Qi observed. “Don’t people’s families teach those things?”
+
+“Those that can, do,” said Mei Lanfen. “I will admit, the endeavor is not profitable, but old folks such as myself and my partners must spend our saved stones on something, yes? Spreading education and low cultivation among mortals is an unalloyed good.”
+
+“That is most charitable of you.” Xia Lin studied the woman more closely.
+
+“How do you choose your students?” Ling Qi asked.
+
+“The Gold Autumn has subsidiary institutions among the mortal districts in the trunk. These schools are for younger children, and they allow us to pick out the exceptional and talented for the primary institution. It is a little crude, but we pick up many minor talents this way.”
+
+“Something a bit like the Great Sects?” asked Xia Lin.
+
+“Nothing so grand. Great talents such as Lady Ling and others detected by the Ministry of Integrity are beyond our small means to support, but even awakening at all is a boon to a mortal's health and productivity, isn’t it?”
+
+“It is,” Ling Qi replied, thinking back to those first days at the Sect when even a guttering spark of qi and a few exercises made her feel superhuman.
+
+“Most people cannot accomplish more, and some cannot even accomplish that, but I think it is nonetheless worthwhile. We are all the better for it. However, it does make some of my students restless and adventuresome. There are those that chafe a bit at the provincial ministries.”
+
+Ling Qi met the woman’s eyes. Kind, yes, but not without cunning. “The frontier is dangerous, and it will be some time before we require proper district ministries, but if you have recommendations for individuals who might find that situation agreeable, I will convey them to Lady Cai.”
+
+“I will talk to some of my old students. It is not a common opportunity, even if it requires a harder constitution than most.” The old woman chuckled.
+
+“Of course. Keep in mind that Lady Cai will likely have strict expectations on their character as well,” Ling Qi said carefully. “I won’t impugn the honor of your school, but Lady Cai will need only the most upstanding to set up the seeds of her ministries.”
+
+Mei Lanfen smiled. “I have knelt under Her Grace’s light. I understand the primacy of virtue in building anew. Skills may be taught, and talent shored up with dogged effort and work, but an understanding of virtue is not so easy to instill.”
+
+Xia Lin looked the old woman over in surprise. “You were a member of the ministries when Her Grace took control?”
+
+One of the old woman’s half-closed eyes opened a little wider, a sharp golden glint flashing in the dim interior light. “I was a hard-headed girl. Under the old Directors and Ministers back then, I don’t doubt my stubbornness would have kept me in the lowest rank of the Ministry of Commerce all my life.”
+
+“I see,” Ling Qi said slowly, understanding the implication.
+
+“You worked under the Feng, then?” Xia Lin asked cautiously. “That must have been troubling.”
+
+“It was, and Her Grace was not forgiving.”
+
+“I have been in Her Grace’s presence. It is not easy,” Ling Qi contributed.
+
+“Have you? Have you felt her Law, burning away every rationalization and self-deception, every little lie you have ever told yourself, until there is only raw truth squirming under the examiner's furious light?” Mei Lanfen asked.
+
+Ling Qi blinked. The old woman didn’t seem to be boasting or showing anything but curiosity.
+
+“Her Grace has not subjected me to such close scrutiny,” Ling Qi admitted. “What is that like?”
+
+“It was not so bad when you have only small vices, small lies to expose, but I think it would have driven me mad to stay under it for too long. A person is not meant to see themselves and all they have done so starkly.” Mei Lanfen tapped her cane against the floor thoughtfully. “But… I saw the Minister at the end. After everything, all the crimes and cruelties and corruption exposed, do you know what she asked him?”
+
+“I can’t imagine,” said Xia Lin with a frown.
+
+“What do you regret?” Mei Lanfen relayed.
+
+“And his answer?” Ling Qi asked, morbidly curious.
+
+There was a twinkle of dark humor in the old woman’s half-closed eyes. “He about chewed his tongue bloody trying to give the answers which had seen other men spared. But to him, they were lies, and so, he could not speak them. In the end, he simply said ‘angering you, your grace.’”
+
+“Hmph. A pathetic man,” sneered Xia Lin. “Xiangmen is improved by the absence of such.”
+
+“Oh, yes,” Mei Lanfen agreed cordially. “That is why I work so hard to instill civic duty and empathy among my students and to catch the little lies they may tell themselves and ensure they do not grow into big ones.”
+
+Ling Qi blew out a breath. Stripped of everything and facing the same punishment, a few years ago, she might have given a similar answer. To regret nothing, save that the consequences were upon her… She hoped she was not that person any longer, and did not want to have such regrets in the first place.
+
+A person could twist and shape truth, but it did no good to forget that there were truths. That way lay the degeneration of the Hui. To call all truths subjective could only bring ruin.
+
+“Well, that’s enough of such grim topics. Miss Mei, I’m a little out of my depth here. Would you do us the favor of introducing us to some of the worthies attending?” asked Ling Qi, breaking the contemplative silence.
+
+“Yes... Yes. I can think of a few faces you should be familiar with here in Xiangmen.” The old woman beckoned them on. “This way.”
+
+Ling Qi and Xia Lin followed after, chatting quietly as Mei Lanfen introduced them to other members of the court clans and a few “independent” ministry members in Xiangmen. Speaking to them reinforced Ling Qi’s opinion that the politics of the city were still unsettled and in flux. There was no-one, save the Duchess herself, whose position was so secure that they could afford to be domineering and arrogant about it here among their peers.
+
+It was an interesting juxtaposition to the air of stubborn normalcy she had felt in the wealthiest districts on her stroll. Two sides of one coin.
+
+Soon, the auction itself was underway, and socializing slowed down as Ling Qi observed item after item going up. Even the least of them sold for multiple green stones. It made the part of her that still wished to hoard and scrimp want to scream at so much wealth flowing like water. But all the same, it was wealth flowing to her, so she couldn’t be too distressed.
+
+Between rounds, she and Xia Lin were asked questions about the recovery of the artifacts. They shared anecdotes of the dungeon they had found, the clever reversal of the trap upon the living spiders, and the fight with the Hui corpse immortal.
+
+Ling Qi found that there was little reticence toward her here, if only because everyone was just a little grasping and ambitious, and neither she nor Lady Cai had failed yet. They were on the bleeding edge of something new, and in Xiangmen, that had cachet. She didn’t doubt that it would evaporate like morning mist if their efforts ended in failure though.
+
+Their auction took most of the morning and even with Xia Lin taking the larger share, Ling Qi had to work to keep her expression neutral as she took in just how much wealth she had gained that day. Between this and the payment from the Meng, she would have enough to pursue a great many projects that new settlements couldn’t dream of normally. Even setting aside cultivation funding for herself, Yu Nuan, her mother and any among her staff who could cultivate, it was an immense amount. She could even set aside sect tuition for Biyu right now and not be inconvenienced if she wished.
+
+She could see that Xia Lin looked dazed by the amount as well. She was glad that Cai Renxiang would handle the logistics of storing and maintaining this small fortune until Ling Qi had time to understand it better.
+
+By the time their lots were sold, they were still in conversations with attendees, and Ling Qi was curious to see what else went through the auction houses so they stayed a while. She had just gained so much after all. Perhaps something would catch her eye.
+
+Ling Qi’s attention had been caught by a beautifully illuminated book and a set of recordings recently made in Xiangmen, but she was unsuccessful in her conservative bids. She did eventually send a bid to win an auction for a set of notes and a disassembled puppet of ivory and wood that had been reclaimed from an abandoned workshop after its owner passed away with no next of kin.
+
+Afterward, Xia Lin asked in confusion, “Why in the world did you want such a thing?”
+
+“I have a friend who studies and uses constructs.” Ling Qi laid a hand over the puppet’s meticulously carved ivory face. It was stylized just enough to be somewhat unsettling with colored glass eyes that were too large. “I thought it would make a good souvenir.”
+
+“Expensive for that,” Xia Lin said dubiously.
+
+“We made out well enough for a little indulgence. Besides, what about you and that partially animated go set?”
+
+Xia Lin seemed embarrassed. “My younger brother enjoys games of strategy, a rare place where our interests intersect. You’re right. I can’t speak against indulgence here.”
+
+“I didn’t know you had any siblings. Will you be alright leaving them behind?”
+
+There was a faint pop as the puppet vanished into her storage ring. Thankfully, without a power source, its formations were inactive so it could be stored easily. A second wave took care of the leather bound portfolio full of design documents.
+
+“My visits are already limited. A bit more distance will not change that,” Xia Lin replied. Without her armor and its shielding formations, Ling Qi caught some stiffness in the reply. She cast a glance at her companion and decided not to press further.
+
+“Well, we’ll just keep our mutual indulgences to ourselves then, yes?”
+
+“My word on it,” Xia Lin promised, turning to follow her out. “Your opinion on our sortie into court politics?”
+
+“I think our lady is well supported… for now. She is doing something new, and many see opportunity in that. But I don’t think we have the sort of support we can rely on yet. It could change too quickly.”
+
+“Xiangmen’s nobility can be fickle. I’d not like to campaign on such unsteady support.”
+
+“And we won’t. We can count on the Wang at least. But let’s leave that aside. Anywhere in particular you want to visit tonight?”
+
+Xia Lin tilted her head. “Perhaps a restaurant? I have heard good things of Xiangmen’s food culture.”
+
+Ling Qi gave her a curious look.
+
+Xia Lin huffed irritably. “There is nothing wrong with enjoying good food, even if it is unnecessary.”
+
+“There isn’t. Hmm, how do you feel about street food?”
+
+“I am inexperienced,” Xia Lin admitted, but she looked intrigued.
+
+“We can begin with snacks, and perhaps see a show? We can stop for a proper meal later.”
+
+“Agreeable,” Xia Lin said with a nod.
+
+Sixiang snorted out a laugh in her head, but said nothing as they left the auction house behind.

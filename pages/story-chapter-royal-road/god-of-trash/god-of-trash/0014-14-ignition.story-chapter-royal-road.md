@@ -1,0 +1,205 @@
+---
+id: 5ea9d74e-3839-5a41-9b01-a11cfad4a348
+page-type-slug: story-chapter-royal-road
+title: "14. Ignition"
+slug: 0014-14-ignition
+partOf: god-of-trash
+position: 14
+ownLength: 3716
+unit: words
+publishedAt: 2025-03-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2114181/14-ignition"
+royalRoadId: "2114181"
+---
+
+Tarais turned to go.
+
+Rhys’ power surged. Startled, she whirled.
+
+He pushed himself off the wall. It took him immense effort to do so, blood washing down his chest and back, but he did. He looked up at her and laughed. “Is it inevitable?”
+
+Black smoke billowed from his back and head. A pillar of black poured into the sky. Yet, at the same time, his mana grew stronger and clearer than Tarais had ever felt from a Rank 1 before. It was as if he was refining it inside of him, reforging it within his core the way one forged iron into steel.
+
+“What… how?” Tarais asked, shocked.
+
+He laughed. “Wouldn’t you like to know.”
+
+Within Rhys, the impurities burned. As they burned, they released extremely small amounts of an incredibly pure, powerful mana. About one one-hundredth of the impurities refined to that pure mana, while the rest burned off in the pillar of smoke. The second the pure mana touched his ordinary mana, it mixed together. Although Tarais couldn’t know it, she was very close to the truth. Just like mixing iron and carbon made steel—in other words, by adding an impurity into the iron, one forged it stronger—just like that, the impurity-mana and his ordinary mana mixed together. The result was less powerful than that extremely pure mana, but all of his mana could become that ‘alloy,’ and that ‘alloy’ was far stronger than his Tier 1 mana was on its own.
+
+The super pure mana was stronger than his ordinary mana and the alloy, but he couldn’t generate enough of it for it to matter on its own. Even if he collected all of it, the super-pure mana would fit on the nail on his pinky finger. On top of that, he couldn’t keep the super-pure mana separate from his ordinary mana. From the beginning, the impurities were in his core and his mana passages. The super-pure mana was surrounded by ordinary mana from the moment it was born. He could sense the super-pure mana for that split second when it was created, but by the time he’d gathered himself to do anything about it, it had already merged with his mana.
+
+He wasn’t complaining, though. That tiny, pinky-nail amount of super-pure mana made all his mana vastly more powerful. Most mages could only dream of such an improvement.
+
+He pulled out his potion and took a good sip—a full mouthful, this time. Less is More took control, supercharged by his newly-reforged mana and ignited impurities. The wound closed slowly. He took a deep breath, and felt his lung pop back into shape.
+
+The impurities burning also gave him a boost of power. Unlike the alloy of the super-pure mana and his ordinary mana, though, he could tell it was temporary. Once the impurities burned down, it would be gone.
+
+So he turned his broken sword toward Tarais. His Trash Intent burst into form, and the blade’s full length sprung into shape. He dashed toward her, swinging his blade.
+
+She raised her sword to block his blow. He swung through it. His Trash Intent cleaved through her sword and sliced toward her neck. At the last second, she jumped back. The very tip of his blade barely cut her throat. Red bloomed. She touched her throat, then looked at her hand, shocked.
+
+Before she had time to fully react, Rhys closed in on her. He hammered the butt of his sword into her hand, forcing her to release her sword. She stumbled back. Grabbing her shoulder, he put the blade to her throat.
+
+“You saw nothing here. If you tell anyone about this, I’ll find you, and I’ll end you. The next time you try to intercede in my affairs, I will kill you. Do you understand?” Rhys watched her eyes, waiting for a response.
+
+He didn’t want to kill her, nor did he consider this a killable offense. She was trying to teach him a lesson. A lesson he disagreed with, but a lesson nonetheless. What she wasn’t trying to do, was kill him. Since she wasn’t trying to kill him, he wouldn’t try to kill her, in return. Unless she wouldn’t give up, in which case, he would have no option.
+
+His hand trembled at that thought. He stilled it a moment later, steeling himself. He didn’t want to bow his head to her. If he had to kill to keep his freedom, then so be it.
+
+Tarais stared at him. She glared, unwilling, then took a deep breath. She lowered her head. “I understand.”
+
+Rhys released her. He stepped back, still burning his impurities, his blade at the ready. Honestly, he didn’t intend to release his impurity burning until he’d burned them all, to gain the maximum amount of super-pure mana he could, and remove the maximum amount of impurities he could. Burning impurities gave him a temporary power boost, it was true, but the permanent power boost of the super-pure mana was far more important. After all, if his guess was right, he could gather more impurities, then burn them, on an infinite loop to continue gathering the super-pure mana. The one ingredient he needed for this was trash, and there was no shortage of trash. There was no need to hold back and maintain his stock of impurities, when there was such a rich source of impurities all around him.
+
+She sighed. “I thought I’d warn you off from overreaching your capabilities and attracting too much attention, but I’m the one who overreached. I’m even more trash than the trash collector.”
+
+Rhys frowned at her. “You aren’t trash at all.”
+
+“I failed to—”
+
+“So what? Do you know what I had to do to have this kind of power? You just did the default amount of work, and you were stronger than me. Are you stupid? How are you trash? You’re a perfectly respectable mage with normal clothes and a balanced personality. Don’t belittle yourself. Trash? Honestly. I couldn’t roll my eyes any harder. You don’t even come close to qualifying.” Rhys shook his head at her, absolutely disappointed.
+
+Tarais blinked. Somehow, she had the feeling that he was defending trash, rather than insulting her. As if she was being gatekept out of trash. “But I’m weaker than you. I’m—”
+
+Rhys drew himself to his full height and looked down on her. The sun came out from behind him, peeking through the black smog still flying off his body. “Why am I the boundary point for trash? Why are you trash if you’re weaker than me? True trash isn’t limited by power alone. There are infinite ways to be trash, and you qualify as none of them.”
+
+Tarais stared. From her angle, light seemed to be coming off of Rhys like a halo. She stared, completely lost. “I’m… not trash?”
+
+“No. You might be average, but you’re definitely not trash,” Rhys stated definitively. “So don’t apply the rules you live by to me. Those are rules for normal, average people, not for trash. I know how to live as trash. I’ve done it so far. Your concern is only for yourself, not for me.”
+
+Her brows knitted. “My concern was only for me…? Then, was this all vanity?”
+
+“Huh?” Rhys asked. That wasn’t what he’d meant, but whatever. She seemed to have gained something from it, and who was he to stop her from getting the most out of this?
+
+The smoke faded away. The impurities burned out in his core. Rhys took a deep breath. His whole body felt light and rejuvenated. Black goo clung to his skin where it had been forced out during the burning process, and he wiped it away. His mana ran smoothly through his mana passages, and circulated smoothly in his core. He examined his whole body, and found no impurities. They had burned cleanly, exiting his skin as smoke. There was only one exception. In the very bottom of his core, two small lumps of impurity remained. They were heavier than the original impurities, and didn’t stir even when he circulated his mana as fast as possible. They hadn’t burned, and the sensation he got was that they wouldn’t burn. They, too, had been forged stronger.
+
+But for all that, they didn’t appear to have any impact on his mana, so he wasn’t too worried about them. Plus, they were so tiny. If the super-pure mana was the size of a pinky nail, then this super-impurity was the size of a rhinestone on that nail. He could absorb the same amount of trash a hundred times and forge a hundred super-impurities, and he’d still be fine.
+
+He tucked his scrap of a sword back into his robes. “If you’re not going to stop me, then… I suppose we’re done here?”
+
+Tarais stepped away. She dusted off her robes and picked up her sword, sheathing it as well. “No. We’re not done here.”
+
+Rhys started to reach for his sword again.
+
+Turning, she looked him in the eye. “You’re still weak. You can create a garden and sell your herbs, but only once. As soon as someone stronger realizes what you’re doing, they will muscle in on it. I was trying to stop you, to keep you from dying in the hands of someone more serious about taking over than me. But if you intend to push ahead, no matter what, you need allies. People powerful enough to stave off those who would take what’s yours. Without someone to look out for you, the other students will take everything you acquire. Even if you continue to grow more powerful, without someone to have your back, you’ll have to fight nonstop to keep ahold of what’s yours.”
+
+Rhys dropped his hand again. He pursed his lips, thinking. She wasn’t wrong. In a might-makes-right society like this, he really did have to either fight to survive, or find someone to support him who was strong enough that no one wanted to mess with him. Though, of course, there’s always the Straw problem, where they want to kill him anyways, even though he’s super strong. But then, he’d made it out of that scenario alive, because everyone cared about Straw, but no one cared about him. Plus, it wasn’t as if his problems with holding onto his stuff in the face of the strong vanished when he sold the herbs. If anything, they only got worse, because he’d have gold, then—more valuable to most people than raw herbs. He nodded, slowly. The longer he looked at this, the better having someone have his back sounded.
+
+“Who do you suggest, then?” he asked. Between the two of them, she’d considered this far more than him. It would be foolish of him to not ask her advice. He didn’t have to take it, but compared to reclusive old him, who dragged trash around and had attended one class, Tarais knew the peak infinitely better. She’d lived here for years, and presumably had more knowledge of the other mages, which ones were likely to help him, and which ones were likely to screw him over.
+
+“The same person I suggested from the beginning—the potion master, Sorden Tagg.”
+
+Rhys raised his brows. The same person she’d suggested from the start, huh? Maybe she wasn’t putting any thought into it.
+
+Before he could protest, she lifted a hand. “Hold on. Listen to my reasons first.”
+
+He nodded and gestured for her to go ahead.
+
+“Of all the Master mages on the peak, she’s the only one I can think of who benefits from large quantity of Tier 1 herbs, both directly and indirectly. She always needs more to hold her low-level potion classes. On top of that, she’s not particularly interested in the affairs of students, which means she’s unlikely to poke into your business and try to figure out where the herbs are coming from. She’s also known for fairness and an even hand. She’s a powerful Master, one of the few Tier 3s in the lower half of the school, so she should be able to protect you from everyone but the mages on the upper half of the peak… who wouldn’t care about the pitiful money you’re making or your pathetic Tier 1 herbs, anyways. Those who are more familiar with the school will know that Sorden doesn’t often directly act at all, but the rare times she does, she behaves with such extreme prejudice that her name can be used as an effective threat.”
+
+Rhys raised his brows. He’d thought she’d just put together herbs and potions and told him to go to the potion master, but it seemed she’d actually put effort into it. “Is there anyone else you’d suggest?”
+
+Tarais hesitated. “The librarian is more powerful than Sorden and has a hobbyist’s interest in herbs, but he never leaves the library, so he’s not much of a threat. The battlemage can always use cheap potions, but—”
+
+“Wait, librarian? There’s a library?” Rhys asked, his ears perking up. Library? Books? Dare he hope… fiction?
+
+Tarais grimaced, hesitation once more flashing across her face. “He’s… reticent is the kind way to express it. And he’s incredibly protective of his books. Violently protective.”
+
+Rhys thought of the tattered textbook he’d found in the trash and nodded. If the students did that shit to his books, he’d get violent, too. “I get it. But what kinds of books are in the library?”
+
+Tarais gave him a look, one that told Rhys she’d somehow misunderstood his prodding. “Not dangerous ones, in case that’s what you’re thinking. Any truly valuable books are restricted to the upper floors, and only people on the upper peak can obtain them. All the books on the lower floors that students like us can access are the ordinary textbooks anyone can read for free.”
+
+“What about fiction?” Rhys asked directly. He’d never been great at tact, and she definitely wasn’t catching his drift.
+
+Her brows furrowed. “Fiction…? Why would you want to read those fairy tales for mortals? There’s no truth in them.”
+
+“That’s the point,” Rhys replied. He opened his mouth to keep arguing, then forcibly shoved down the internet troll inside him. Now wasn’t the time to espouse the glories of trash fiction. She was a nonfiction reader, anyways—the kind of person who would never, not in a thousand years, appreciate fiction, let alone trash fiction. He made a quiet note to go see this librarian later. Given the state of the books he’d seen come through the trash, he kind of understood the guy’s position.
+
+In any case, between the reticent librarian who everyone knew wouldn’t defend him, the battlemage, whom he doubted would approve of his financial adventures and who needed him to process the herbs into potions first anyways, and the potions master, who always needed low tier raw herbs in large quantities, he actually agreed with Tarais. Sorden Tagg, potion master, actually sounded like his best bet.
+
+He clapped, dusting off his hands. “Let me harvest these herbs, and then let’s go see Sorden.”
+
+Tarais frowned. “If you carry the herbs with you, you’ll be targeted before you—”
+
+Rhys flashed the golden storage band he’d found in the trash. He wore it on his thumb to prevent any misunderstandings. Plus, at fourteen, his ring finger was too slender for the large ring.
+
+A beat later, he considered the contradictions in his words. He was fourteen, and worried about misunderstandings? No, I live in a medieval world. It’s possible. Though, looking at the mages around him, they didn’t seem eager to marry young, so his initial contradiction still applied.
+
+Her eyes widened. “Where’d you find that?”
+
+“The trash.”
+
+Tarais stared at him. “No way.”
+
+Rhys shrugged. “It’s true.”
+
+She waved her hand. “It’s not important. Go harvest your herbs. I’ll introduce you to Sorden once you’re done.”
+
+“I can do that myself. You don’t need to hang around,” Rhys said.
+
+Tarais gave him a look. “How many classes have you been to?”
+
+“One.”
+
+“Right. One of her classes—”
+
+“One class total. And it was hers! She should be honored,” Rhys said. He picked up his potion textbook and skimmed through it to the part about harvesting herbs, then crouched next to the bushes. One at a time, he deliberately harvested the herbs according to the instructions.
+
+Tarais stared at him in stunned silence while he worked. At last, she sighed and pressed a hand to her forehead. “I don’t know whether to be disappointed or impressed.”
+
+“Hmm? Disappointed, probably.”
+
+“But you bested me in combat without ever attending a battle class.”
+
+“Well, I did spend the last two years fighting against the Strawman,” Rhys pointed out.
+
+“You—what?”
+
+Rhys stood, tucking the last of his herbs into his storage ring. “Don’t worry about it. Let’s go see Sorden.”
+
+“The Strawman? That horrifying Remnant?” she asked.
+
+“Yeah, him. Is he fine, by the way?”
+
+Tarais hesitated, then nodded. “We’re safe, now. He’s been sealed once more by the Celestial Rose Maiden, the leader of the Bramble School.”
+
+Rhys nodded. He hadn’t asked until now, not because he didn’t care, but because he didn’t want to rouse suspicion. For all that no one seemed to care about him, he didn’t want anyone to think he still cared about Straw, either. But he did. He owed the man… weapon, whatever—a serious debt, and he intended to repay it, however he could. It just so happened that he couldn’t do anything about it until he was much, much stronger. In other words, the best thing to do was to keep his head down and get stronger. But Tarais seemed like the quiet sort, so it was worth a little prodding.
+
+“Are we, uh, friends with the Bramble School?” he asked.
+
+Tarais laughed. “You aren’t serious, are you? Our school peaks at the Tier 4 level. Even our Schoolmaster barely brushes the border of Tier 5. The Bramble School’s weakest students are at least Tier 3. Our school can only dream of being spoken of in the same sentence as The Bramble School.”
+
+Rhys pursed his lips. In other words, his dream of rescuing Straw was still far off. He shrugged to himself. He’d already known that from the start. After all, rescuing Straw meant making an enemy of everyone who’d come together to seal him. Until he could overcome all those people, rescuing Straw could only be a dream.
+
+But that just meant Straw was that powerful. And not only that, but he could also be considered trash, which meant he’d synchronize with Rhys’ path. When he eventually unsealed Straw, he’d gain a powerful ally.
+
+They took off walking back toward the rest of the school. As they walked, Rhys glanced at Tarais. “Do you know what school a man in white-and-gold robes might belong to? He’s probably a martial artist, with a battered-looking sword.”
+
+Her brows furrowed as she thought. “Battered sword, white robes…” Her eyes widened. “You’re not talking about Luc Sion, are you? The Sword Saint? The most powerful martial artist on the continent?”
+
+“Maybe…? He would have taken a new disciple recently?” Rhys added.
+
+“That’s right, Luc did recently take on his first disciple. It was big news… I can’t believe you didn’t…” Tarais paused, looking at Rhys. “I can believe you didn’t hear it. It was big news. The noble mage families and Schoolmasters have been pressuring him to take on their children for centuries, and out of nowhere, he picks up some no-name child that the Strawman had kidnapped? The rumor mill went wild. People were guessing everything from him having a secret child to a generational debt to a mortal family. No one’s seen him since, though, so the rumors have died down. Everyone thinks he’s busy training whatever prodigy he must have found.”
+
+Rhys let out a sigh. Just like with Straw, he’d been afraid to show too much interest in Bast’s future, but in this case, not for his sake, but for Bast’s. He didn’t want the boy to hear that Rhys was asking after him and come looking. Better that he pretended not to care and let Bast gain the full benefit of wherever he ended up, rather than waste time asking after Rhys. Now, it sounded like not only was Bast receiving the best possible education, but he was also in a place where Rhys could safely keep tabs on him, without Bast ever hearing about it. He nodded. “Good.”
+
+“Good? Did you know him? Right, you were also kidnapped, weren’t you?”
+
+“Er… yes.” Rhys shut his mouth, not wanting to talk on the topic anymore. The less interest he expressed in Straw, the more likely people were to think he no longer cared about the Strawman, the more likely his eventual, inevitable heist would go off successfully. He had to prepare now, so that people didn’t immediately suspect him later.
+
+Tarais glanced at him. She clearly wanted to keep asking questions, but at his hesitant answer, she simply looked away and respected his wishes not to talk.
+
+Halfway there, Rhys paused. “Tarais, where do they sell herbs here?”
+
+She shook her head. “We don’t have an herbalist.”
+
+“Oh. How much do they buy herbs for, then?”
+
+Again, she shook her head. “I don’t know. I’m not usually involved in the supply side of things.”
+
+Rhys frowned. Not ideal. No, ideally, he’d have a week or two to do market research. But he’d foolishly grown his herbs before doing market research, so now he had to sell them before they went bad. To be fair, he hadn’t known ahead of time that he’d be so successful with his trash conversion art, or that Tarais, and by extension, other senior mages would realize what he was up to so quickly. He was rolling with the punches, but soon he’d be ahead of the game. All he needed to do was get things rolling.
+
+Ultimately, it was fine. If there was one thing he was good at, it was improv. He could pivot. Think on his feet. He wouldn’t lose out, even if he didn’t know exactly what he was doing.
+
+At last, the two of them arrived at a sturdy house at the edge of the lower school. Tarais gestured. “Sorden Tagg lives—”
+
+BOOM!

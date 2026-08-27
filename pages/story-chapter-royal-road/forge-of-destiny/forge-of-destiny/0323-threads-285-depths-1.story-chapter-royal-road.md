@@ -1,0 +1,173 @@
+---
+id: 1a4f06e0-199d-5ece-9b56-024bfd313b34
+page-type-slug: story-chapter-royal-road
+title: "Threads 285-Depths 1"
+slug: 0323-threads-285-depths-1
+partOf: forge-of-destiny
+position: 323
+ownLength: 1787
+unit: words
+publishedAt: 2023-02-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1116096/threads-285-depths-1"
+royalRoadId: "1116096"
+---
+
+Final Frost’s Serenade.
+
+The alliteration appealed, Ling Qi thought, lowering her flute. Around her was a copse of trees, dripping faintly with melted frost. There were a few shattered trunks and stumps where the impurity had run too deep, but it was largely now a clean copse, quiet and serene. She observed the dew on the grass and the faint mist curling around the roots, a product of the swiftly changing temperature.
+
+She was winter in her bones. For a moment, she wished that Zhengui was here to take on the next step, the one she couldn’t perform. Her truth, the truth of isolation, was cold. It was real, and turning her face away from it was an act of deliberate ignorance and cowardice.
+
+And she had been a coward in the beginning. She had tried to turn her back on what she had been and seen and done fully, and that had been cowardice in its way. It was rubbed in her face how brittle and fragile such a path was in a dream.
+
+She exhaled, and the flute of ice in her hands melted away into fog and vapor, leaving only beads of moisture on her fingertips.
+
+“Ah, Big Sis is so cool!” Hanyi squealed, smiling up at her.
+
+“I’m only working off a good foundation. You did quite well yourself,” Ling Qi praised, patting her on the shoulder. She thought her junior sister wouldn’t appreciate Ling Qi making a mess of her hair.
+
+“Well, I gotta be able to move around quickly.” Hanyi crossed her arms. ”It’s like the mean version of what I do for my supplicants.”
+
+“The difference between receiving offerings and taking sacrifices,” Ling Qi mused. She raised an eyebrow. “And that bit at the end where you came back to me?”
+
+“You're my senior sister,” Hanyi protested. “I gotta share.”
+
+Ling Qi grinned. “Oh, does that mean I get my pick from your chest of gifts?”
+
+Hanyi’s eyes went wide, and she pouted furiously, kicking the ground. “I mean… I guess.”
+
+Ling Qi chuckled, and this time, she did ruffle Hanyi’s hair, drawing an irate yelp. ”I don’t need anything, Junior Sister. Maybe get some pretty things for the house next time.”
+
+Hanyi continued to pout up at her from under her hand. “That was mean.”
+
+“It was funny,” Ling Qi corrected wisely, lifting her hand. “Come on. Let's go back up and give her one last song.”
+
+Hanyi nodded quietly. “Yeah, let's. We’re gonna be really busy soon, huh?”
+
+They absolutely were. Ling Qi sighed. The next two months would be full of preparations for the summit.
+
+But for now, they soared back to the mountain peak and the frozen rubble that remained of Master Zeqing’s home. And there until the sun set, they poured their hearts into one final song of mourning.
+
+***​
+
+Given her upcoming schedule, it was necessary to wrap up as many minor duties as possible. Of course, if she was left to wait anyway, it only made sense to use her time constructively.
+
+“You’re a cultivation addict,” Sixiang drawled.
+
+As they liked.
+
+Ling Qi sat cross-legged on a thin shell of ice, floating atop the waters of Snowblossom Lake. Barely a finger width thick, the ice floe she had made bobbed gently with the movement of the waters. The lake was not a cultivation site, but it was rich with life and thus, qi.
+
+Ling Qi was contemplating the Starless Night’s Reflection art. It was a gifted art, collected by the Cai in their trade with the Bai clan, an art of unbreakable defense based on the concept of a still and silent lake, reflecting back the stars and moon like glittering twins.
+
+It was not an art she thought of often. Its themes of stillness and serenity clashed with some of her other insights, but her contemplation of her master’s art had reminded her that silence and stillness did not need to be opposed to music and motion. Codas, punctuation, and the intake of breath were all a part of her works and herself. Winter was a song that wiped the board clean. The silence it made did not last long, but as a transitory moment, it was important.
+
+The lake and the world were large, and her efforts were small, but her little ice floe made ripples all the same. The lesson of the Starless Night’s Reflection was, to her, a meditation on smallness, although she had a sneaking suspicion that this wasn’t the lesson its Bai makers would have intended to teach.
+
+If she asked, would Lao Keung have an answer?
+
+She turned her head to look at the young man approaching her across the lake. He wore a thick coat of fur which increased his bulk considerably, and he wrapped his head in a pair of scarves. She thought he looked faintly ridiculous.
+
+“Solidarity,” he said, stopping near her ice floe. He stood on the lake surface as if it were no different from the ground.
+
+“Solidarity?” Ling Qi questioned, tilting her head.
+
+“My men are not as resilient as I.”
+
+Ling Qi understood. The second realm soldiers and the first realm logistical crew attached to them were both used to the humid heat of the Thousand Lakes, and they were less able to ignore the environment.
+
+“Noble of you.”
+
+He shrugged. “It costs me nothing.”
+
+As you like,” Ling Qi said, rising to her feet. “Well, other than the cold, what do you think of the region?”
+
+“Fertile, despite the chill. It’s a high quality location for a settlement,” Lao Keung replied. “The concentration of forces here is absurd and excessive for the local spiritual dangers.”
+
+“Maybe so, but there’s no reason for us to scatter yet. Better to have a strong center before venturing satellite settlements.”
+
+“And it does not concern you that your overlord denies you your owed land?”
+
+“That’s a strange way to think of it.”
+
+“Is it?” Lao Keung arched an eyebrow. “I rather think you are the strange one.”
+
+“You are very blunt.”
+
+“Lady Bai informed me that I was to offer you assistance to the fullest of my abilities. I asked if that included my words.”
+
+“I begin to understand why a man of your talent is in such a provincial posting. Let me turn your question around. What do I gain beside hardship in demanding my own settlement right now?”
+
+“The fulfillment of your role. The prosperity of your clan.”
+
+Ling Qi considered this, turning her eyes to the lakeshore. The outpost there had expanded. More rough cabins had been thrown up, and the central area had been ringed with a crude palisade. “I can do both of those here.”
+
+“You would trust your lord so?”
+
+“Of course.”
+
+Lao Keung grunted. “What assistance do you require?”
+
+Right to business then.
+
+“There have been people in the outpost reporting minor illnesses. We’ve swept for disease spirits and found nothing. Instead, the source seems to be the water. There were no problems earlier so I have to assume that whatever the problem is, it does not affect higher cultivators. As a member of the Bai clan and one focused on security, I thought you might have some insights into waterborne toxins.”
+
+He frowned behind his scarf. “It is too cold for the type of spirits I am familiar with or the sorts of disease-making vermin, which would be my initial guess. If it is only affecting the mortals, then I would suspect the water is merely too qi-rich.”
+
+“But it doesn’t seem to be. Unless you sense something different?”
+
+“No. The qi potency of the region is within the healthy band for mortals. Perhaps some spirit of the depths, which rises when there are no higher realm watchers?”
+
+“As you said, our force concentration is very high here.”
+
+“It is unlikely,” he admitted. “Something which has drifted in and settled recently then.”
+
+Ling Qi remembered the Cathedral of Winds site and the impurity beasts she had encountered below it with Gan Guangli. Perhaps something had leaked in.
+
+“What would be the best way to confirm?”
+
+“Directly combing the lake bottom, I would think. Do you want my assistance with this?”
+
+“If it wouldn’t be too much trouble. Going alone is pointlessly risky.”
+
+“You are hardly alone.”
+
+“Neither Zhengui or Hanyi will operate well on the bottom of a lake.”
+
+“I am hardly a violet caste myself. But I was instructed to offer you my full cooperation. It is my opinion that we should begin by the outflow. If there are any traces to be found, that will be the best place to find them.
+
+Ling Qi nodded. “I agree.”
+
+She stepped off of her ice floe, hovering above the water, and Lao Keung turned to follow her.
+
+Ling Qi considered the young man beside her as they walked. He was both painfully straightforward and somehow, difficult to get a read on. He was very blunt, but he gave very little indication of what mattered to him.
+
+“What are your thoughts on our project?” Ling Qi asked as they crossed the lake.
+
+“The roads are very fine and make this an important logistical point for further settlement. Acquiring that service from the Wang clan was quite a coup.”
+
+“Not really what I was referring to.”
+
+“Oh, your diplomacy. I don’t foresee long term success, but it is a useful military maneuver to buy time with.”
+
+She frowned at him. “Why is that?”
+
+“Even with all the ages the Empire has stood for, it has not been enough to stifle conflict. Why would you assume that a people wholly foreign can be trusted in the long term?”
+
+“The Empire was once new,” Ling Qi pointed out. “Trust has to begin somewhere.”
+
+“The Empire was born from overwhelming force, just as the three kingdoms before it were. But I do not think you aim for conquest.”
+
+“The Diviner united. He did not conquer,” Ling Qi said as they came to the far shore where the lake water flowed into the river going north.
+
+“Respecting your founding, strength is inherently coercive. It can be important to dress it all up in fine robes of legitimacy, but one shouldn’t forget the truth of the matter.”
+
+“Too cynical. And too reductive. The strong rule, but all rulership is not the same. How a ruler chooses to exercise their power is important.”
+
+“With individuals, it all drifts back to the average in the end.”
+
+“The average as dictated by past actions. Traditions and expectations bind. Even the mightiest cultivator is born a mortal child, learning how things should be from those around them.”
+
+Lao Keung seemed to mull this over. “I accept your point, Lady Ling. Shall we descend?”
+
+“We should.”

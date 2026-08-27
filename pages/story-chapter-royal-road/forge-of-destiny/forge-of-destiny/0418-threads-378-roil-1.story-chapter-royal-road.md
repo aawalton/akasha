@@ -1,0 +1,187 @@
+---
+id: dcbcc5f2-3f30-5764-b06a-be6cfcf458b0
+page-type-slug: story-chapter-royal-road
+title: "Threads 378-Roil 1"
+slug: 0418-threads-378-roil-1
+partOf: forge-of-destiny
+position: 418
+ownLength: 2196
+unit: words
+publishedAt: 2024-05-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1620791/threads-378-roil-1"
+royalRoadId: "1620791"
+---
+
+Hanyi, who had already started to puff her cheeks out in annoyance, looked concerned when Ling Qi rested a hand on her head. "Then let us do so, Sir Meng. Hanyi, I'll come back soon, okay?"
+
+"Okay," Hanyi said seriously. "Should I get Sixiang?"
+
+"That would be very helpful, junior sister. Sir Meng, follow me." Ling Qi inclined her head.
+
+The moment they were inside under the privacy protections, some of the tension left Meng Dan's shoulders.
+
+"There is something amiss in my household."
+
+"How amiss?"
+
+"Something attempted to infiltrate my mind. It attempted to transfer over from the servant bringinging me my mid-study tea," Meng Dan replied. "Combined with my uncle’s strange and undiscussed proposals today…"
+
+"You detected that?"
+
+He blinked, eyes sharpening behind his glasses as he glanced over her. "You were aware…?" He sounded upset.
+
+Ling Qi grimaced. She didn't blame him. "Together with the inspector, we have been investigating incidents like these. We have been keeping the knowledge as quarantined as possible. I am very sorry, Meng Dan. How did you detect it? We suspect the parasites are sovereign work."
+
+He let out a breath, and his frown smoothed away. "I would like to claim all the credit, but my grandmother equipped me with a defensive talisman of her own make. She said she had divined that I might need it and that I was not to speak of it."
+
+Ling Qi leaned back against the desk in the room. It was relieving that others had at least noted the ripples of this plot. "Did you notice any reaction to your rejection?"
+
+"No," Meng Dan replied tightly.
+
+"What did you mean that your uncle's proposal was unexpected?"
+
+"Just that. He did not discuss it with anyone. Nor did he contact the clan through our transmission crystal, as he did when determining our initial response to the observatory offer," Meng Dan explained. "Such spontaneity is unlike uncle—or any of my elders. Moving quickly and without consultation with your generational peers is not encouraged in my clan. I am not even certain the clan head would honor a deal made without consulting him."
+
+"But the clan wouldn't tell any outsiders even if such a breach in protocol was made, would they?"
+
+"No. My elders are not fond of involving outsiders in our business. Is it possible this attack has affected my uncle?"
+
+"I certainly hope so. Do you know if he is planning anything else?"
+
+Meng Dan thought. "He spoke to his attendants about arranging a meeting with the White Sky’s Lady Inzha about our exchange this evening. There was surprisingly little pushback."
+
+Ling Qi let out a long breath. She needed to inform Cao Chun. Whether Meng Deming was the ultimate source of this sabotage or not, if he was diverging from the Meng clan's own internal systems, then that did point to a rogue actor. It also meant Still Waters Deeping was likely to gamble more and more, if he had not cut his losses by this point.
+
+Were they truly going to have to deal with a sovereign willing to die for this plot?
+
+The thought made her stomach churn.
+
+"I need to contact Cao Chun," Ling Qi decided. "Meng Dan, how long can you stay away before your absence is considered suspicious?"
+
+"I do not know. Normally, my movements are not constrained, but if there is some plot afoot, then it may already be too late." Meng Dan was restless. The rippling lake surface of his aura was agitated, and she could hear the rustle of paper like the stirring wings of birds about to take flight.
+
+Then, they couldn't delay for long. However there was one problem. Did she send a message to the White Sky telling them to refuse any meetings?
+
+After a brief moment of hesitation, she realized she couldn't justify not telling her guests when there was a potential threat like this afoot. Ling Qi massaged her temples in frustration. What if this ruined their chances? If it tipped the saboteur off…
+
+"Lady Ling?" Meng Dan asked.
+
+"Let's go. We need to get to Cao Chun, then I have a message to send. Do you know if the request for the meeting has already been sent?"
+
+"Not yet. I believe my uncle was drafting it."
+
+"Good. That still gives us some time." Ling Qi extended her hand to him. "Can you deal with a short liminal hop?"
+
+"I can manage." Meng Dan took her hand courteously.
+
+… Some servants had seen them enter this room, hadn't they? Ugh, she would deal with that later.
+
+She tightened her grasp on Meng Dan's wrist and then stepped sideways through the world. With the tiny distance from here to where the Ministry of Integrity had set up shop, it was barely a glimpse of churning technicolor chaos. They emerged in the front office of the ministry's base, just outside the serious wards.
+
+Meng Dan gave a small grimace, and his shoulders hunched. It was very muted compared to the usual reaction.
+
+The man—not an active ministry agent, she judged—behind the desk startled much more, drawing in a breath, qi surging in alarm. Ling Qi felt the alarms and formations in the building very nearly activate.
+
+"I require a meeting with the inspector," Ling Qi said flatly. "I am speaking in the name of the Cai. Please activate the identifying formations so that I can go in."
+
+The clerk swallowed hard, shrinking under her gaze. She felt apologetic. He was only a second realm, and if she loosened her hold on her qi anymore the mist would start pouring out. Of course, she could feel at least one agent's eyes on her, and she expected there were more hiding themselves better.
+
+"And your companion?" he asked tentatively.
+
+"I will undergo any scanning procedure as well, if only for my own peace of mind. I am Meng Dan. I am sure you all have a register of my qi. Like the baroness, I beg that we get on with this."
+
+Ling Qi glanced toward the far wall where she had felt the empty, faceless presence of an agent. There was a small fluctuation of the qi in the air, and the room filled with static. Ling Qi sucked in a sharp breath as it went through her. Her vision buzzed and blurred, and the crackling sensation swept under her skin, behind her eyes, and through her thoughts. She felt like water flowing through a sieve. And she felt in it the sharp metallic tang of Cao Chun's qi and not a little of the piercing mathematical precision of Xin in the underlying structure. Whatever the opinion the ministry had of Sima Jiao and his wife, they had not ceased making use of their works.
+
+Her shadow didn't writhe though. Was Shu Yue beyond the formation’s power or just not present now?" She had no way of asking.
+
+Beside her, Meng Dan's expression had screwed up tight, his own qi raging under his skin. He coughed violently, doubling over, and wretched, vomiting something like black mud filled with twitching, half-formed insect-like limbs. It stank.
+
+"Hah!” he breathed out weakly. “See. Peace of mind. There was some residue of the attack after all."
+
+The mess vanished, drawn into a small floating trap of glittering glass and diamond that appeared with a pop. With it came the shadow that stepped out of the wall, small and compact, a faceless white mask suspended over shapeless black and silver robes.
+
+The agent bowed as the cage drifted into his gloved hands. "Allow me to show you to the inspector."
+
+***
+
+"So, they are moving soon," Cao Chun said. "Unfortunate. I had hoped for a few more days."
+
+"You had a plan in place already?"
+
+"With the second sample you retrieved, I have been able to devise a formation which can detect and remove the parasites. I have also attuned my own tracking techniques to better triangulate a source. I have not yet been able to manufacture enough for a full sweep of our people. However, I have confirmed that Meng Deming is, at the very least, the most badly infected."
+
+"And you are comfortable saying so to my face?" Meng Dan asked, quirking an eyebrow up.
+
+Cao Chun harrumphed. "Whatever your reasons, you are embroiled now. I commend you, boy. Not many will go against their clan interests even when matters are dire."
+
+"We need to warn the White Sky as well,” Ling Qi said. “We must tell them not to take any meetings until this is resolved."
+
+"Do we? I am certain those crows of theirs are already on alert. Shall we not, as you say, trust them?" Cao Chun shot back.
+
+"Any chance of even one of their delegates being attacked or harmed is too much," Ling Qi replied. "I would like to use the ministry's message infrastructure for discretion's sake, but I will get a message to them regardless."
+
+She stared Inspector Cao down, and he stared right back with a tight, frustrated expression.
+
+After a moment, he relented. "Fine. We will not gainsay the agents of the provincial rulership on their own matter, even if they ignore our advice."
+
+"I'm not ignoring it," Ling Qi disputed. "Can we state that this is a ministry-backed operation, if questioned?"
+
+"You may,” Cao Chun grumbled. “It will minimize chaos and individual attempts to sniff around."
+
+"Inspector Cao, I have completed…"
+
+Ling Qi glanced back as Jin Tae entered the room behind them, stopping short as he glimpsed them. It was disorienting, not being able to feel people coming and going while under the ministry's wards.
+
+"I have completed gathering the agents’ reports. Deployment of the formations has been successful," Jin Tae continued, after only missing a beat. "I take it that circumstances have changed?"
+
+"They have. The infection in the Meng clan has reached a critical point," Cao Chun said. "We will need to advance the timetable."
+
+"May I ask what the ministry is planning?" Ling Qi asked.
+
+"Your liege was to be informed tomorrow morning regardless. At this point, your cooperation will be needed as well," Cao Chun said. "The intent was to activate the disrupting formations in tandem and flush the parasites in a single sweep. The formation energies, attuned to myself, would bounce from the parasites’ connections to their master, revealing a trail and disrupting the target’s qi. With the former minister's 'punch up' protocols, I would damage the target sufficiently to enable the Emerald Seas’ more active assets in the area to solve the problem with minimal collateral, if they chose to emerge."
+
+"So you would need our cooperation regardless," Ling Qi concluded.
+
+"Yes. At the very least, I would like the general to be on alert."
+
+Ling Qi could not hold back a sour expression, despite her efforts.
+
+"That would mean you are expecting collateral," Meng Dan observed.
+
+"There are vanishingly few ways in which that can be avoided, if this villain makes a stand," Cao Chun replied bluntly.
+
+"And do you think that is likely?" Ling Qi asked.
+
+"It cannot be ruled out. The decrepit creature may flee, understanding that their hand has been shown too far already."
+
+"Decrepit?" Ling Qi asked. "You've discerned such a characteristic?"
+
+"Assuming it is not a younger cultivator using an elder's tools," Cao Chun said. "Jin Tae, prepare a Silent Word formation."
+
+"Yes, master. The recipient?"
+
+Cao Chun looked at her.
+
+"The Emissary Jaromila of the White Sky," Ling Qi instructed.
+
+Jin Tae blinked. "Very well."
+
+"That aside, I caught your look, honored inspector. Are you accusing my kin of this?" Meng Dan asked.
+
+Cao Chun snorted. "Frankly, yes, boy. Either your uncle is the source for this, having stolen these tools from your clan's storehouses, or there is a presumably rogue elder about."
+
+"The Meng clan would not approve of going so far against Her Grace," Meng Dan disagreed. "To do so…"
+
+"Would be ruinous," Ling Qi completed. "I understand, Meng Dan, but the qi in these parasites are too similar. I had hoped it was some ith-ia infiltrator attempting to frame the Meng clan and bring us to infighting, but if it is so, they are frighteningly well read on our internal affairs."
+
+"The talisman constructs being embedded in people are clearly descended from observations of Hui cursecraft and mind arts," Cao Chun added. "By my judgment, they are not original works, merely reproductions. Your clan is the Hui’s closest relation."
+
+Meng Dan's expression tightened. "What evidence is this?"
+
+"I do not need…"
+
+"Inspector,” Ling Qi interrupted, “Meng Dan obviously cannot go back to his clan nor can he contact anyone save but under our eyes. He has been cleared by your security as well. Might informing him not allow him to give us further clues?"
+
+"As if someone would simply turn over clan secrets to an outsider!" Jin Tae scoffed. "Whose pride would be so—"
+
+"Whose pride would be so damning," Meng Dan said coldly. "If this suspicion is true, I see with clear eyes what would happen to my kin. It must be a rogue element, you understand? What is pride when ten thousand years of history could burn?"

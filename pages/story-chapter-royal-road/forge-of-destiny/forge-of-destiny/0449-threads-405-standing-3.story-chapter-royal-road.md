@@ -1,0 +1,113 @@
+---
+id: b51cf135-0936-5130-952d-9d0f3a3f002b
+page-type-slug: story-chapter-royal-road
+title: "Threads 405-Standing 3"
+slug: 0449-threads-405-standing-3
+partOf: forge-of-destiny
+position: 449
+ownLength: 1641
+unit: words
+publishedAt: 2024-10-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1833560/threads-405-standing-3"
+royalRoadId: "1833560"
+---
+
+Ling Qi ran her fingers through her little sister's hair, humming softly as the young girl curled up against her. The pressure on her chest and lap was a little uncomfortable, but no more than that, beneath the many layers of medicinal wrapping.
+
+Looking out over the garden, she tugged the blanket up further as streamers of colorful fire rose into the sky, flickering and dancing. There was a small festival today dedicated to the Sect Head’s dragon companion, and the town's priests had not been stingy with the flash paper and the powders which turned the flames of the bonfires set out at the ritual points throughout the town to such beautiful colors.
+
+"The first time I saw this, I spent it fretting over the hazard presented by such high burning fires," Ling Qingge said, cradling a cup of warm tea in her hands.
+
+"I suppose it would be dangerous under less careful management," Ling Qi replied.
+
+The sounds of music and people dancing around those fires drifted over the walls. Most of the household had been given leave to go out and join the festivities if they liked. She hoped they were having fun.
+
+"One can say that of many things. I am glad for the timing. There will be much work in making the household presentable for the heiress' visit."
+
+Ling Qi chuckled. "It is convenient. Knowing Lady Cai, she probably accounted for it in one of her scheduling worksheets."
+
+Mother raised an eyebrow at her.
+
+"Oh, she'll write out these grid squares on a scroll before meditating and cultivating. She fills them in without even opening her eyes. Everything is just so. But she gets this particular tic in her cheek whenever she's forced to alter the timeline more than once or twice. Too many, and her teeth start to grind."
+
+It was, Ling Qi thought, probably one of her liege's more humanizing habits.
+
+"Should you really be speaking of such foibles?" Ling Qingge asked warily.
+
+"Ah, apologies, Mother. You will need to hold this dark secret now," Ling Qi said gravely.
+
+Mother sighed. "Be serious, Ling Qi."
+
+"She isn't the type to be offended by such a minor characteristic being known. Neither her ego nor her position are so fragile," Ling Qi reassured. "I say it mostly to remind you not to overthink this visit. She is my liege and superior, but she is also my friend. Our household is more than capable of performing their roles under such eyes."
+
+"I know this, and yet my heart cannot internalize it."
+
+"Your efforts are not in vain, Mother. There will come times when we host much more prickly visitors, even those looking for an excuse to be insulted or to impugn our less than stellar honor."
+
+Despite her accomplishments, there was still a clinging disdain for who she had chosen to bring on in her household. It was muted now under the weight of her deeds, but it would be a long time before it went away entirely, if it ever did.
+
+It wasn't fair, but the world never was. Recognizing what other people saw, even if she found it false, was also Clarity.
+
+"I know this. I do not fully understand everything you do, but I can see the shape of it," Mother said. "It was inevitable, if you did good work for the heiress… I suspect Lady Cai will not be the only guest we will entertain, even in this year."
+
+"I may delay the onslaught with our household’s move to Snowblossom." Ling Qi brushed her fingers through Biyu's hair. "Will you be well, with the move? It is likely to begin before year’s end."
+
+"So that is why you were speaking with experts on whether Sir Xuan's work could be extracted."
+
+"Indeed,” Ling Qi agreed. “It is very good work, and worth the expense to move it. We're developing quickly, and under an aegis, but the south is still dangerous."
+
+"We will go," Ling Qingge said. "I will trust you when you say the settlement is ready."
+
+Ling Qi closed her eyes, accepting the weight of that statement. She didn't want her family to be some distant thing she visited on occasion. Was that worth endangering them? Was it endangering them? Snowblossom was under sovereign protection, too, and her fellow retainers were an absurd concentration of force for a new barony.
+
+Mother’s chair creaked as she stood. She watched the dancing flames rising into the sky for a moment longer before turning to Ling Qi and holding her arms out. Ling Qi carefully lifted Biyu, allowing Mother to take her. If it weren't for her physical cultivation, she thought Mother might have started to have trouble holding Biyu like this, with how big the girl was getting.
+
+"Shall I send for Hanyi?" Mother asked.
+
+"No, I would like to stay out here a while longer."
+
+Mother searched her face, then nodded. "Very well. I will tell her to retrieve you in an hour. Your bandages still need replacing."
+
+"Yes, Mother," Ling Qi said, dipping her head. She watched Mother go inside, breathed in as she turned back to the garden, and exhaled. Threads of silver mist emerged with her breath, and wisps drifted from under the hems of her gown.
+
+There was a dichotomy, Ling Qi thought, in her foundations. It was not a cultivation-ruining flaw though, or at least, she did not think so. It came down to the way her secondary patrons could appear to clash. Dreaming and Hidden. Art and Secrets. Expression and Mystery.
+
+The Duchess had honed herself into a merciless truth, where no contradiction could exist. She could not and would not hold any of herself back, and she could not allow any shadow of doubt to exist. And so Cai Renxiang was broken, like a child's doll cast down on the stones.
+
+The Hui, the former ducal clan, had been the Duchess’ opposites. They had been masters of lies who thrived in doubts.
+
+The merciless, all-scouring light of Cai Shenhua had been necessary to break them. It had been needed to dig the rot of ages out of Xiangmen's halls and ministries, so that something untainted could begin to grow.
+
+But humans could not endure living under such a light forever, neither would the Duchess last forever. Nor could Renxiang be such a light. Renxiang's light was not as harsh as her mother’s, but it was still not a thing which left people at ease. Her intent was good, humblingly so, but it did nothing to make her light warm.
+
+What Ling Qi could be, though, was the one who stood between the light and the people. There was more to clearly communicating than baldly stating facts. It included softening words, adjusting tones, or speaking in words and metaphors which would not slide off of a person's preconceptions like water from a duck’s feathers. If the truth was that burning, pitiless light, her mists should be that which softened its rays into something which men and women could endure.
+
+Around her, the mist glittered low to the ground, drifting along the polished boards of the porch overlooking the garden. She spread her hands, and the air shimmered. A twisting, hollow blade formed there. It was chipped and charred and cracked, looking as if it might shatter with a single harsh impact. Her domain blade, Isolation, was not ready yet to be renewed.
+
+But she understood now that whatever its origin, the mist had changed and taken on a different aspect. It made sense. Her Way was not one whose core was violence and offense. Thus, the whole of her domain could not remain encapsulated in a concept which she understood as a weapon. That was part of her, but not the whole of her.
+
+Just as the Grinning Moon was not her sole patron. And so, Dreaming and Hidden; Want, Clarity, and Mystery.
+
+This was not a point she would ever find without tension, she thought. The little lies and the privacy that people needed to themselves would conflict with the perfect clarity of communication which allowed no confusion or ambiguity.
+
+This was why those of the highest cultivation often took such broad, harsh views of concepts. It was so much harder to hold in balance something so questionable.
+
+Her thoughts brought the small remnants of Huisheng's qi bubbling in her dantian. There was very little of it left, but it reacted to her thoughts still, adding an echoing whisper.
+
+Choice. That was the agent to bind opposing concepts.
+
+Weighing that in her mind just as she weighed the blade she had carved into her heart in her hands, she wondered if that concept was enough to withstand the pressures of a weightier Way. She thought back on the events of the last few months. At the summit, there were so many people moving, thinking, doing. She thought of Elder Jiao and his despair at the impossibility of fixing the foundations of the Celestial Empire with only a pair of heroes.
+
+In the space between blinding truth and all-consuming lies, there were many questions to answer and lines to define. But even if choice was not good enough, it had the shape of something that could be.
+
+"Big Sis! What did the doctor guy say about pushing on your domain like that! Not for another couple weeks!"
+
+Hanyi's voice snapped her out of her thoughts. She cursed under her breath, the sword shimmering away, the mist vanishing. Some thief she was, getting caught red-handed.
+
+"Light exercise is fine," she deflected instead, tilting her chin up defiantly as Hanyi stomped out onto the porch, hands on her hips.
+
+"Sis is pushing what counts as ‘light’," Hanyi said flatly.
+
+"Am not," Ling Qi replied with great dignity.
+
+It was a little fun to get to be the brat for once.

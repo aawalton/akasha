@@ -1,0 +1,161 @@
+---
+id: 2ae3e268-085c-5945-aa1a-8278fabb5bcf
+page-type-slug: story-chapter-royal-road
+title: "62. Emissary to the Rats"
+slug: 0062-62-emissary-to-the-rats
+partOf: god-of-trash
+position: 62
+ownLength: 2746
+unit: words
+publishedAt: 2025-05-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2247269/62-emissary-to-the-rats"
+royalRoadId: "2247269"
+---
+
+“Can I help you?” Rhys asked warily, reaching for his sword. One of the smugglers…? But no, why would he be worried with me? I’m down in this hole, far away from the stashes…
+
+The figure stood there. The wind blew, catching their robes. Two ribbons danced behind their head, as pure white as the rest of them. They stood stock still, watching Rhys silently.
+
+Rhys grasped the hilt of his sword. He watched the man, waiting for him to move. He still had the element of surprise. The man didn’t know he could fit an entire, full-length sword in his robes. The second the man moved, he’d—
+
+Abruptly, the man looked away, distracted, as if someone had called him.
+
+The second his gaze moved off Rhys, Rhys lunged. He slammed his hand onto the trash under the man and absorbed it greedily. The ground under the man dropped, and he jumped back rather than fall toward Rhys. Rhys kept absorbing, collapsing the ground as he pressed on. The trash rained down on him, but he didn’t mind. Better to be buried than face execution at the hands of that domineering figure.
+
+“Solaire!”
+
+The figure leaped off, responding to the name. Buried in the trash, Rhys watched him go. When he could no longer sense the man’s mana, he pointed his hand upward instead, and started digging himself a ramp out of the trash. He absorbed all the trash around him as he went, too, igniting a few more trash stars on his way up. At the top, Rhys shook the dirt out of his hair and looked around. The man was gone. There was no sign of him at all.
+
+“Phew,” Rhys muttered. He had no idea what the man had wanted from him, or if he’d wanted anything at all, but he was glad he’d gotten out of that situation without having to fight or risking injury. There was nothing wrong with fighting, but the emanations he sensed from that man reminded him of Ev. Not in strength—the man was Tier 2, like him—but in sharpness. Killing intent. He’d never seen Ev’s Intent skill, but he knew she had one, and looking at that man, he’d been instantly sure of the same—that the man possessed at least one Intent, if not multiple. He could fight above his Tier, but that man doubtlessly could as well. If the two of them fought, Rhys wasn’t at all confident that he’d win.
+
+Well, I am here for a tournament. It only made sense that he’d encounter opponents at his strength, no, above his strength. Not everyone was held back by a trashy start they were only able to overcome through their path, after all. Some people even had natural advantages, as impossible as that was for Rhys to imagine.
+
+He looked at his now-filthy robes and groaned. He’d been pretty clean for most of his trash adventure, but burrowing through the trash to evade the man had thrown all that out the window. “I need a bath.”
+
+A hand tugged at his robes. He looked down, expecting a rat, but the raccoon he’d seen earlier stood there instead. It offered him its hand.
+
+“Oh, impurities? Here.” Rhys touched its paw and extracted its impurities.
+
+The raccoon shivered, then shook itself, like a dog coming out of a bath. It ran off on all fours, then looked back expectantly.
+
+“You want me to follow you?”
+
+The raccoon waited. Rhys stepped toward it, and it ran off a few steps again, then paused to look back once more.
+
+“Alright, alright. Message received.” Rhys followed after the raccoon at a jog, letting it lead the way. The trash panda ran on all fours, striped tail hanging behind it. It left the trash pile behind and wound through the woods, checking that Rhys was behind it over and over.
+
+Rhys followed, but warily, scanning the forest for hostile mana signatures. He sensed none, but he still kept his eyes and ears open. He’d helped the animal, but it was still an animal. He didn’t know if it had a sense of fairness or anything like that.
+
+At last, it came to a halt at the side of a rushing river. It scurried to the edge and produced a scrap of food, bending over to wash it in the water. Turning back, it looked at him one last time.
+
+“Oh, were you showing me a bath? Thank you,” Rhys said, laughing to himself. Of course a raccoon would know where a source of water was. He hopped in. The river was deep, deep enough to close over his head, and the water was clear and clean. He broke the surface with a gasp and shook his hair out, then took the ponytail out to make sure his hair got fully clean before retying it and emerging.
+
+Best not to start with a reputation as the stinky kid, after all. His reputation at Infinite Constellation was already shot, but here at Purple Dawn, he had no reputation yet. He knew how bad it could be to be the stinky kid—not that I ever was. At least as a kid, growth had kept him skinny enough, and he’d stayed inside enough to avoid stinking. But the ones who had… yeesh. The bullying seemed harsh to him even today, in retrospect.
+
+The raccoon watched from the bank, an approving glint in its eyes. It stuffed its prize in its mouth and dashed off, task completed.
+
+Rhys kicked his way to the edge of the water and climbed out. A rustle in the leaves caught his ear, and he turned. A rat rushed up to him, holding something shiny in its mouth. It put down a potion vial and stepped back.
+
+“Is this for me?” Rhys asked.
+
+The rat chittered, then bobbed its head, almost like a nod.
+
+“Oh, thanks!” he said, scanning the potion bottle with his mana. It wasn’t as strong as the potion bottle Sorden had given him, but it was still a powerful bottle. It would hold almost any potion he could brew at this level, or he could outright sell it for a decent amount of gold. Nodding, Rhys put it in his storage ring.
+
+He looked up, only to find the rat still there. He blinked, then frowned. “Er… something else I can help you with?”
+
+It chittered again, glancing at the vial, then back at the pile.
+
+“There’s more vials?” Rhys guessed.
+
+The rat bobbed, then shook itself back and forth. It looked at the pile again.
+
+“There’s more… trash that’s valuable?”
+
+A nod.
+
+Rhys’s eyes widened as realization struck. “And you know where it is, because you’ve lived in the trash heap for a long time, so you can find it faster than I could.”
+
+The rat hopped in place, nodding aggressively.
+
+“That would be a huge help.” Then he wouldn’t have to spend all his time in the trash heap, searching for valuables. He did enjoy his time in the trash, but he had other things he wanted to do here, like try reforging the cauldron he’d found, or brewing new potions, or even last-minute practice for the tournament.
+
+Chittering happily, the rat ran in a few circles, then rushed off. Rhys watched it go. He hadn’t told it where to find him, but then, he’d come back to the trash time and time again. As long as they recognized him and brought him valuables, he’d be happy.
+
+Watching it go, Rhys froze. His eyes widened. That’s the key!
+
+He hadn’t forgotten Straw. He wanted to save the man, the same as he always had. The problem was, he had no doubt that Ernesto had set someone to tail him. Not the masked guy—he was his own problem, but Ernesto wouldn’t have sent someone so obvious, who appeared before him and stared at him, without a trace of curse power in his emanations to boot. He had faith that Ernesto was at least a little more subtle. No, there was almost certainly someone watching him, someone he couldn’t sense, who was ready to report him and ruin his future the second he did anything vaguely like search for Straw. If nothing else, openly searching for a being who’d been declared an enemy of the Alliance in the heart of Alliance soil was stupidity upon stupidity. He’d already known such an option wasn’t available to him, but he hadn’t had a backup plan yet, except for to become strong enough to overpower whatever sensory restrictions the Alliance had set up around Straw and directly sense Straw’s emanations—a pipe dream, at best.
+
+But now, he had a plan.
+
+The rats knew the garbage best. They already knew exactly where all the treasure was. Why start from scratch, when he could simply go to the experts?
+
+Of course, these rats were garbage rats. They didn’t know the school. He had to find the right rats, and to do that, he had a few merchants to visit.
+
+Rhys walked back up the hill to the merchants’ districts. He emanated mana the whole way to keep his wet clothes moving and separated from each other, and between that and the warm spring sun, his robes were mostly dry by the time he reached it. The sun was starting to set, but the shops were still open, and so he made a few quick purchases. Some cheese, some summer sausage, a paper roll of crackers. With that, he retreated to his dormitory.
+
+If he’d just bought some cheese, it would be too obvious. Instead, he was a student from a small school, exercising a few of his gold to buy himself the small luxury of a college charcuterie board—in other words, all the delicious parts, and none of the weird dried fruits or olives, or anything else. He personally wouldn’t mind a fig or two, or maybe some pickles, but at the end of the day, this wasn’t for him.
+
+It was tribute.
+
+The dormitories Purple Dawn Academy had set forth for the small schools were… rough. They were run down, with cracked, damp stone walls and windows and doors that leaned away from one another, like they’d been slapped up in wet clay, then allowed to sag for a while before they were fired. Mold blackened the steps and vines bound the exterior walls, twisting into the windows wherever they could find a gap. In summary, they were garbage.
+
+Perfect.
+
+Rhys’s room was in the corner, and it was a strange, triangular shape with listing walls and a floor that was warped in all three dimensions in not just straight lines, but soft, sea-like peaks and valleys, so that it was impossible to draw a straight line between any two points. His bed canted against one wall, and a wood chair and desk as spartan as his freshman dorm’s furniture leaned against another, the chair pitched against the desk. He pulled it away, and it slid right back into place. Rhys nodded, getting the message. It would live there, against the desk. That was its home.
+
+He built himself his charcuterie plate and took a few nibbles, then left the plate on the desk, drew the curtains, extinguished the candle, and sat on the bed to meditate and wait for his guest. For all the world, it looked as though he’d simply been dissatisfied and abandoned his meal, but the truth couldn’t be more different.
+
+He waited, but he didn’t only wait. Not satisfied to waste his time on mere meditation when he knew how little mana that would give him, he extended his Trash Intent around him, and into the room. Through the room, to the next, to the hallway—he tried to encompass the entire dormitory in Trash Intent. The Intent took, but he couldn’t push it far enough to fill the whole dormitory. Reaching out as far as he could before his focus snapped, he could encompass his room and the next, but no more. For the thousandth time, Rhys hissed as Trash Intent broke and the backlash struck him. His body ached, his head furiously pounding, but he pressed on anyways. Again!
+
+If it injured him, so what. If it broke his mana passages and damaged his core, whatever. If his head ached and his body bled, it was no problem. He’d simply return to the trash pit tomorrow, ignite another trash star, and rebuild his body. If it took two, three, even four, that wasn’t a problem. He’d do it over and over until all the damage healed. He was trash to begin with, so there was no problem with injuring himself or breaking himself down. He’d just build it yet again, like he always had.
+
+Squeak. Squeak.
+
+Rhys opened his eyes. Activating Trash Intent, he sealed the room he sat in off, using his intent to wrap the walls and prevent anyone from seeing inside. After all his practice, that much was more than possible, even if he fell far short of being able to use Trash Intent on the whole dormitory. The whole time, he sat completely still, moving nothing save his eyes, and watched the charcuterie plate. The squeaking grew louder, and a pale gray shape appeared on the edge of the table. The rat looked left and right, then scurried over to the food. It lifted its pink paws and dug in, stealing a morsel of cheese, then retreating to the corner of the table to gnaw it down.
+
+Silently, Rhys extended his mana, scanning the rat. Impurities, and the tiniest stir of mana. Just enough to be able to understand his overtures, if the other rats were any indication.
+
+Perfect.
+
+The rat finished its lump of cheese, then dashed in for another handful. The second it moved, Rhys moved as well. In this run-down building, he could freely activate Trash Step whenever he needed it. He crossed the room in record time and snatched up the rat.
+
+The rat squealed in alarm and struggled in his grasp, fighting to break free.
+
+“No, no, listen—”
+
+Squealing, the rat twisted and struggled, pulling itself through his hands.
+
+Rhys sighed. He absorbed the rat’s impurities. “I’m trying to help you.”
+
+The rat stilled. It looked at him, its eyes wide in shock.
+
+“I’ll absorb your impurities, and the impurities of any other rats out there. In return, all you have to do is use your expertise. I bet you know all about this academy, don’t you?”
+
+The rat nodded.
+
+Rhys knelt. He released it onto the side of the desk. The rat curled around. It almost turned and ran off, then eyed the food and hesitated.
+
+Gesturing, Rhys smiled. “Go ahead, eat up. I bought it for you.”
+
+The rat leaped on the food and tore in. Without any worries about him, it ripped directly into the meat and chowed down, ecstasy on its little ratty face.
+
+“Listen. I’m looking for someone. He’ll be hidden in the deepest parts of this mountain, somewhere ordinary people, no, even most students and teachers, can’t go. But you can get into those places, can’t you?” he asked.
+
+The rat licked its lips and nodded before tearing into a cracker.
+
+“He has straw-blond hair, and he smells like hay. Blue eyes like the sky, and ragged… well, I have no idea what he’d be wearing after all this time. He might also look like a scarecrow, you know, a doll made of straw and cloth.”
+
+The rat nodded again.
+
+“You look for him, and tell me whatever you see, one way or another. I’ll handle your impurities. Deal?”
+
+It thought for a moment, then patted the tray.
+
+Rhys snorted. “Sure, I’ll make another tray every now and again.”
+
+The rat hopped in happy agreement. It picked up a big handful of food and scurried off, only to return a second later, carting the food off to somewhere inside the walls. Rhys returned to his meditations as if nothing had happened. He smiled. Everything was going to plan.
+
+Outside his window, in the darkness of the night, a man in a white mask stood in a tree. An unconscious Purple Dawn student dangled from his hand. That student was too weak to sense what had occurred behind the walls, past the Intent skill… but not the white-masked man.
+
+Behind the mask, a smile curled his lips. He tossed the unconscious figure back onto the branch and jumped off into the night.

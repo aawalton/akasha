@@ -1,0 +1,143 @@
+---
+id: d2975d9c-8d6b-5441-91b5-bb95af128a4b
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred One: Recognition"
+slug: 0104-chapter-one-hundred-one-recognition
+partOf: flesh-eater-demon-evolution-litrpg
+position: 104
+ownLength: 2136
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3619118/chapter-one-hundred-one-recognition"
+royalRoadId: "3619118"
+---
+
+They set out bright and early for Serindell the next morning. According to Llyr, the stores they’d need to visit would grow increasingly crowded the longer they waited, so the goal was to get in and out of the city before the daytime rush began. Even now, the streets were already fairly busy, and the sun had only just begun to rise.
+
+Llyr’s presence didn’t help the whole crowding situation. They hadn’t even crossed through the eastern gate when one of the guards called out to them.
+
+“Llyr! You visiting the city today?” he said, his smile visible below his helmet. The healer gave him a polite nod.
+
+“Yes, I have a few errands to run,” he replied.
+
+“Well, if you need help with anything, just let me know. I can’t thank you enough for last time.” The man raised his right arm, his armor clinking with the movement. “My arm’s been working better than ever!”
+
+Llyr smiled. “I’m glad you’re doing well, Thomas. I’ll be sure to keep your offer in mind.” With another nod at the man, he quickly strode through the gate. Callan and Daphne exchanged looks while Pyre raised an eyebrow at the healer.
+
+“Popular, eh?”
+
+“I’m fairly recognizable,” he said simply, gaze remaining focused ahead. Pyre just snorted at that.
+
+When they stepped onto the main street, it became clear how big of an understatement that was. Damn near the whole city knew who Llyr was, apparently. People were constantly waving and asking how he was doing, and even the ones who didn’t approach directly would still smile in their direction. It was kind of weird, to be honest. The demon was used to eyes following her, but it was usually for the opposite reason.
+
+Good to know that shopkeeper hadn’t been exaggerating at all in her not-so-subtle threat. They really would have the whole city after them if something happened to the healer.
+
+After the fifth time someone stopped them (Llyr) to chat, Daphne muttered under her breath, “Maybe we should’ve come by ourselves.”
+
+Callan nodded, the ghost’s eyes darting around the road uneasily. “Probably…”
+
+Despite the constant interruptions, though, they did eventually make it to the store. Pyre peered up at the building.
+
+The shop was situated in the same square the fountain lay in. It was short and squat, walls constructed entirely out of brick. It featured a sign with curling letters that were so loopy that Pyre couldn’t actually tell what they read. That seemed a little counterintuitive to the demon, but hey, what did she know about graphic design.
+
+The curtains were drawn, hiding the interior of the store, which also seemed like an odd choice when every other storefront made it a point to make their front windows as big as possible. Maybe sunlight affected the magic components.
+
+Clearly the weird design choices didn’t matter anyway, because two separate people entered in the minute since they’d been standing there. Based on the brief glance Pyre had gotten when the door swung open, it was packed inside.
+
+“We should be able to find everything we need here,” Llyr explained. He’d pulled out a small slip of paper listing all the materials they needed and was scanning it.
+
+“Okay, great!” Daphne looked relieved to have finally made it through the crowds. “Let’s go before more people get here.”
+
+As if to prove her point, someone else swung the door open and stepped into the shop. Pyre hummed, considering.
+
+“So, do you guys actually need me to go inside? ‘Cause I can wait out here.” It wasn’t like she knew anything about the magic components they needed to buy, and the building was short enough that she’d have to hunch to fit. She’d just add to the congestion.
+
+The three magic-users seemed to come to the same conclusion.
+
+“That should be fine,” Llyr said. He nodded at the fountain, the curtain of water shining in the sunlight. “If you don’t mind waiting, we should be back in fifteen minutes.”
+
+Pyre had a feeling it would take longer than that, but she just shot the healer a lazy salute and turned.
+
+Soon, the demon was leaning against the edge of the stone fountain, eyeing the store from a distance. She could feel the spray of the water on her back, the bustle of the crowd around her a constant source of movement and chatter.
+
+Her eyes shifted to the tall clocktower visible near Serindell’s main gate. It had been over thirty minutes now.
+
+She snorted. Fifteen minutes indeed. Between how popular Llyr was and Callan and Daphne’s tendency to bicker over everything related to magic, she was fully expecting their “quick errand” to take an hour minimum.
+
+Glancing around, the demon idly studied the surroundings. The sun was high in the sky at this point, and the city looked just as crowded as ever. The square was a flurry of people passing through, visiting the various shops lining the area, stopping to chat with friends, or simply enjoying the nice weather.
+
+Over the buzzing crowd, the angel titan corpse loomed in the distance. Pyre found her eyes shifting to it, the chatter around her falling to a dull roar as she once again focused on that towering figure.
+
+She stared hard at the corpse’s face. Even with [Far Sight], it wasn’t the clearest thing in the world, but that weird feeling still stirred in her chest when she looked at it. Her eyes narrowed.
+
+She hadn’t been able to put a name to it before—might’ve even been avoiding it, subconsciously—but after seeing the titan for the third time now, she finally knew what the feeling was.
+
+Recognition.
+
+Pyre settled further back against the fountain, eyes now tracing the luminous wings. Something old and buried within her knew that angel, but she couldn’t pull up any concrete memories to back it up. She suspected that if she hadn’t absorbed the soul fragment in Magrath, she wouldn’t have even felt this much.
+
+The demon hummed to herself, thinking. So, her past self had probably known this angel, or at least she could recognize it. What did that mean for her?
+
+It could mean that her past self had visited Serindell before. Or, that she’d lived during the time of the titans. Considering she’d known Pax—who was old as fuck by her own admission—she was betting on the latter.
+
+Hell, maybe she’d known Fred, too. If she visited that mound again, now with the soul fragment absorbed, she could very well end up feeling the same recognition.
+
+It should probably mean something, that her past self had apparently lived during the time when the so-called “living gods” of this world had roamed the lands. It certainly put her empyrean demon status in further perspective. It might even explain how she was a first generation titan descendent way after that should’ve been possible. Hell, maybe her past self had been responsible for that weird preservation spell on Fred.
+
+Pyre’s mind wandered back to that initial string of notifications she’d woken up to. “The system has assigned you a new species based on your past life experiences and the circumstances surrounding your death,” it had read. With this new revelation in mind, the easiest explanation was that her past self had been a titan demon, and so she was reborn as a demon again.
+
+Her eyes narrowed. Somehow, she didn’t think it was that simple. That message could still be referring to her Earth life, or maybe it was a combination of both past selves.
+
+Either way, she had a feeling it was alluding to a little more than just her literal past species.
+
+That creeping foreboding returned again, the one that seemed to blare in warning whenever she learned a little more about who she’d once been. The one that seemed convinced that staying the fuck away from anything to do with her past self was the best course of action.
+
+Pyre clicked her tongue and tilted her head back, peering up at the clear blue sky. What the hell did I do, she thought.
+
+The chatter in the square filtered back into her awareness, and the demon’s eyes swept over her surroundings again.
+
+Daphne, Callan, and Llyr still hadn’t exited the shop. She considered checking on them or at least glancing in when the door swung open next. Just as she readied to move away from the fountain, however, a flash of movement caught her eye.
+
+Across the square, someone wearing a dark cloak crashed into another man, who yelled annoyedly at him as he hurried away.
+
+Normally, this would be nothing to write home about. There were so many people here that bumping into someone was inevitable, and half the people around were wearing cloaks of some kind.
+
+What caught her attention, though, was the way the man had glanced back at the guards stationed in the square before hurrying away, as if he was trying to avoid attention. Her mind wandered back to Callan’s description of that guy in the alley.
+
+Pyre’s eyes narrowed. The behavior itself had plenty of reasonable explanations, but she figured it didn’t hurt to double check. It wasn’t like she was doing anything else right now anyway.
+
+After a brief glance at the shop to verify that the three magic-users hadn’t exited yet, the demon pushed herself away from the fountain and strode after the man.
+
+He was pretty far ahead at this point, exiting the bounds of the square and instead hurrying down the main road. Pyre’s [Far Sight] kept a close eye on him as he wove between crowds. She kept following at a steady gait.
+
+A few blocks down, the cloaked man turned right into an alleyway. Pyre raised an eyebrow. She was now pretty sure the guy was up to something, at least, but it remained to be seen if that was standard criminal activity or the disappearances.
+
+This alley looked very similar to the other ones running all across the city. The chatter of the street died away, and tall brick buildings stood on either side, enclosing the space. The strip of sky visible above was still bright, but the shadows cast by the walls made the whole area noticeably dimmer than the main roads.
+
+Past a pile of trash, she saw the man’s cloak flutter behind him as he turned around the bend at the end of the alleyway. Pyre strode after him.
+
+Serindell had a whole network of connected narrow passages and alleyways, it seemed. The man kept weaving deeper into the city, putting more and more distance between him and the main street. At this point Pyre wasn’t totally sure what part of the city they were even in anymore.
+
+It was after the next turn that the man finally stopped moving. Pyre halted as well a few feet back, raising an eyebrow as the man spun around to face her.
+
+“Who are you and why are you following me?” he yelled angrily. The buildings around them seemed to be abandoned, and they were far from any roads, so that was probably why he wasn’t concerned about being overheard.
+
+His eyes scanned the demon with obvious wariness, taking in her height, broad shoulders, and the axe she kept strapped to her belt mostly as a cover (according to Daphne, not having a visible weapon would be weird in her case when she was posing as a guard or a mercenary half the time).
+
+Yeah, she maybe hadn’t been as subtle as she should’ve been. In the demon’s defense, she was very much not built for stealth. Pyre hummed.
+
+“To be honest, I didn’t have anything better to do.” She cocked her head. “Saw you in the square and figured I’d see what you were up to.”
+
+The man’s shoulders stiffened, and he looked at the demon again. One of his hands slowly moved to his belt where a small knife was sheathed. “Are you an undercover knight or something?” The suspicion was practically dripping from his voice.
+
+Definitely a criminal of some sort, then. Pyre took a step forward, and the man’s fingers clasped around the dagger at his side.
+
+“Sort of, yeah,” the demon drawled. She studied the man’s cloak, but there were no distinguishing details on it that she could see. It was just plain black.
+
+Her gaze shifted downwards. She couldn’t see his arms right now, but maybe…
+
+In a flash, Pyre lunged forward. The man yelped and leaped back with impressive speed, but she hadn’t actually been trying to grab him.
+
+The heavy cloth of his cloak flared at the sudden movement, only to fall back down when he landed. That brief glance below was all the demon needed, though.
+
+Running up the man’s forearms were a series of familiar dark, twisting tattoos.

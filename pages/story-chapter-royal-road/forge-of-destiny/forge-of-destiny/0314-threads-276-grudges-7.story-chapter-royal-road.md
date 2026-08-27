@@ -1,0 +1,151 @@
+---
+id: 31512d22-6bac-5150-b587-a680f5fac58c
+page-type-slug: story-chapter-royal-road
+title: "Threads 276-Grudges 7"
+slug: 0314-threads-276-grudges-7
+partOf: forge-of-destiny
+position: 314
+ownLength: 2503
+unit: words
+publishedAt: 2023-01-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1083553/threads-276-grudges-7"
+royalRoadId: "1083553"
+---
+
+Ling Qi’s head snapped up, eyes widening in surprise. “But…”
+
+“I was not there. You are important, but you are not my only business,” Shu Yue explained, righting the angle of their head. There was a faint scraping sound like bone on a carapace.
+
+That… made sense. “Of course. I should not let myself come to rely too much on the idea of a safety net.”
+
+“It is a good lesson.” Shu Yue cracked a toothless smile, an inky black crescent on their pale face. “Elders always come to fail their juniors. Rely on those who stand beside you, not behind.”
+
+“Ling Qi’s doing just fine,” Sixiang interrupted dismissively. To Ling Qi, they reminded, “You didn’t even think about spooky here being around till after. Fobbing responsibility off on another never crossed your mind at the time.”
+
+Ling Qi dipped her head, taking the muse’s chiding in mind. It was true that the idea of Shu Yue being available to assist had only come in the uncertainty after the attack when she had time to sit and let her mind spin.
+
+Shu Yue inclined their head. “Regardless, I feel that your encounter will have given you some insights into my lesson.”
+
+Ling Qi turned to fully face her teacher. “And what exactly is your Eye of Grudges art, Shu Yue? You have not explained yet.”
+
+They hummed, their hunched back and their legs straightening until they stood at their full height. Droplets of water clung to their fingertips as they fell to their sides. “The Eye of Grudges is an art of understanding people and the ties that bind them. Its techniques will allow you to insert yourself behind another’s eyes and immerse yourself in their woes.”
+
+“That sounds very intrusive,” Ling Qi said cautiously.
+
+“For you, it would be.” Shu Yue rubbed their chin thoughtfully. “When I was young, I found it easy to become another. You cannot intrude or invade if there is no self to shove theirs aside.”
+
+“Why is everything you say so ominous?” Sixiang asked flatly.
+
+Shu Yue ignored them. “You understand, Ling Qi, the truth of us. Press us, starve us, isolate us, and we become animals, beasts of panic and fear and hate. Even the most virtuous of men, if pressed hard enough, will find their humanity peeling away like a thin skin on a fruit. I do not judge this. It simply is. Perhaps there is one in a million or one in ten million who truly cannot break, but this is not a standard mortals can be held to, nor indeed, most who cultivate.”
+
+“The point of a society—a community—is to keep people out of that state.”
+
+“As you like. My Eyes see the splintered threads of pain and hurt. They see fear and the chains of resentment it forges. Tell me true, are there none who you hate?”
+
+“I don’t have time to hold grudges,” Ling Qi responded automatically. “But…”
+
+“Some remain all the same,” Shu Yue finished. “Humans remember hurts more strongly than help, pain more clearly than pleasure, and failure more starkly than success.”
+
+“People don’t have to be like that though.”
+
+“It is good to strive. Those who wallow can only bring ruin.” Shu Yue tapped their fingers together thoughtfully as they strode onto the shore. “Nonetheless, to understand a person, you must understand their grudges. You cannot judge how a person will act without their baser urges. You have seen an example now of a truly deep grudge.”
+
+Ling Qi grimaced. “You’re talking about the traitor. How in the world can he…?” She gritted her teeth.
+
+That news had its own uproar, a simmering rage that spread with the communication. The Sect was furious. With that knowledge, the failure of the wards in the advance base underground and the many deaths it had caused were laid in a new light.
+
+If Yan Renshu ever stood openly on the surface again, she had no doubt his life was forfeit.
+
+“I have not observed him, only memories of him,” Shu Yue replied clinically. “But there is a type of man for whom pride is more precious than their own heart’s blood. Indeed, they are very common, if not usually so severe in their transgression. It is this that I aim to teach you.”
+
+Ling Qi held back a retort that she didn’t want to understand a mind that would think that way. But she understood that even if she didn’t want to, she had to learn.
+
+“You cannot understand people without understanding their fears, their resentments, and their hates,” Shu Yue said, putting it into bland but undeniable words. “Or succinctly, their grudges.”
+
+The air in the clearing stilled, the soft sounds of nature dying away before a black pressure that pressed down on Ling Qi from all sides. It vanished quickly enough, and Sixiang flipped themselves upright to glare at Shu Yue. The elder cultivator looked back at them without expression.
+
+“It’s fine, Sixiang. I know what being consumed by that looks like. It’s no different from scouting an enemy to learn how they work.”
+
+“It is not only your enemies’ grudges that you will need to look upon,” Shu Yue interjected.
+
+“Okay, yes,” Ling Qi agreed reluctantly. It still felt… bad.
+
+Shu Yue nodded, tilting their head back to observe the crystals glittering on the roof of the cavern. “Good. Let us begin then. Yan Renshu, what is his drive? His grudge?”
+
+Ling Qi nearly said something pithy, but she understood where Shu Yue was going with this. It wasn’t about the obvious surface answer. It was about digging down into the ugly, tangled roots. So she frowned and thought of everything she had ever learned about the vile little toad.
+
+His family were perpetual underachievers, ever just below the mark for gaining nobility. He was hostile to them as well, going by his interaction with his uncle. In his first year at the Sect, he so offended a noble scion that they inflicted an outright crippling injury on him.
+
+He resented the mighty and had contempt for the weak. He had no qualms about tricking and exploiting others into false and ruinous contracts. He always seemed to feel like he was owed. She remembered that once, he had even implied that by trying to frame her and drive her away from her noble friends that he was doing her a favor.
+
+Yan Renshu thought himself very smart, smarter than everything else. He seemed to have very little ability to make uncoerced connections.
+
+Slowly, she worked out an answer. “His grudge is against the community itself. He thinks its contracts and strictures are as false and hollow as his own dealings. He believes he is superior for seeing this where others do not.”
+
+Shu Yue regarded her silently and impassively until she began to squirm, wondering if she had answered poorly. Sixiang vanished and reappeared at her side, a hand on her shoulder.
+
+“Not a terrible answer. Not correct either. Your own perspective is too embedded. Tell me, you have come to regard community as a fundamental good, do you not?”
+
+“Because it is,” Ling Qi insisted. “It harms, and it fails, I know that, but alone, we are nothing.”
+
+“That is your conviction. Grasp it tightly. We shape the world through disseminating our convictions and making them the consensus, but that does not make your answer right.”
+
+“And how do you know?” Ling Qi asked curiously.
+
+“Though the picture is still incomplete, you may see the shape of a puzzle without all its pieces,” Shu Yue said. “Despite his efforts, like all humans, he existed in the lives of many others. And it has become lawful to peer into the minds of those who had the most experience.”
+
+Ling Qi shifted, uncomfortable with the implication. She knew how things worked. One could not just do something as terrible as Yan Renshu and expect no repercussions for their family. She couldn’t feel sorry for that selfish little man she’d saved, but she could imagine there being members of the Yan family who were less disagreeable.
+
+“Worth arises from power. This is a commonality. A core.”
+
+Ling Qi blinked. “Of course. You can’t do anything without power.”
+
+“These are not the same statements.”
+
+Ling Qi glanced at Sixiang, and the muse cocked an eyebrow. Ling Qi ducked her head. “... I understand. My mother is not powerful, and there are many things she cannot do, but…”
+
+Ling Qi did not want to go back to the way their relationship had been at the beginning where she treated her mother like a porcelain doll. It was also why she did not press her mother to cultivate more. Cultivation improved her health, but… her mother’s value was not in being another cultivator for the Ling clan.
+
+Shu Yue hummed to themselves, beginning to slowly circle her position, one uneven step after another. Their shadowy robe whispered across the ground like a serpent’s coils. “Worth arises from power. What we have is deserved and hard worked for. What others have is not. Others who fall behind are failures. Lazy. Others who pull ahead are cheating. Stealing. These are not the words spoken aloud, but it is the meaning which lies beneath their beliefs. Common thoughts from the lowest root to the highest branch.”
+
+“They’re born from the refusal to see the self in others.” Sixiang said.
+
+“Don’t steal my lines,” Ling Qi complained. Sixiang had pulled that thought right out of her head. Jabbing an elbow back, she hit a narrow chest, drawing a whiny grumble from the muse. “But, Shu Yue, I’m not sure how that differs from my words.” .
+
+“It is not resentment of the community nor the bonds and hierarchies it represents. It is resentment of one’s place in those structures,” Shu Yue explained. “Understand, Ling Qi, until you cannot any longer: others do not see the concepts dear to your soul in the same way you do.”
+
+Ling Qi frowned, but took Shu Yue’s point. She knew that most cultivators had not meditated on community as she had. They saw, perhaps, a stair instead of a net, or perhaps they did not see it at all, treating the society that let them live as more than an animal as something like the sky or the earth, a piece of the background requiring no effort or maintenance. “I feel like that’s impossible to do consistently. The mind makes assumptions.”
+
+“It does. It is impossible to fully master when you have an identity. One always sees others through the mirror of the self,” Shu Yue admitted easily, and Ling Qi found herself peering at the black emptiness behind their moving lips, beginning to get an inkling of what her teacher was. “But there are lessons all the same. Let us move on to your correspondence.”
+
+“Wait, what is Yan Renshu’s grudge?”
+
+“It is not important for the lesson. Your answer was,” Shu Yue replied blithely. “And as you will come to find, a person’s grudges does not have simple, single-faceted answers.”
+
+She couldn’t help but feel discontent, but being cryptic was just how teachers were. “Alright. So what are we doing with the letters?”
+
+“You will read, consider, and discuss, as you have done. I will posit questions on the motivations of your correspondents. You will analyze. I will critique.”
+
+Ling Qi nodded. She thought she understood what Shu Yue was doing. If they could not directly teach her the art and technique, they could at least teach the mindset behind it.
+
+It made for much slower reading and replies than usual. Shu Yue’s questions and interruptions were frequent, forcing her to consider everything from the structure of the writer's arguments down to individual word choices. She had to slow down, to think, and to examine how a single innocuous line was meant to steer her into examining a rival or a neighbor of the writer negatively. She learned to look past the words on the page and see what they wanted.
+
+And yes, just a little cultivation, the right way to tweak and strain the flows of qi in her eyes to see the faint shadows of intent embedded in the writing.
+
+She found that her support was strong among the foundations region, the southernmost part of the Emerald Seas consisting of the foothills of the Wall and much of the Wang lands. There was much praise, but she could also see a great deal of opportunism. Young clans were seeking her association to raise their own status against the older clans.
+
+And there was no wrong in that, if they stood with her on the right matters and if they could be brought about to support Renxiang. There was, as Shu Yue would say, a grudge there. There was an undercurrent of being hard put upon, a resentment for the more northerly regions. They saw themselves as injured by the endless raiding, and blame for that spread north.
+
+It was an ugly infection that needed tending, lest it turn into outright rot. She could possibly make inroads both in the south and the west, if the Meng could be won. A distant dream, but something perhaps to work towards. She’d have to talk to Hanyi about what the region was like in person.
+
+On the other hand, the central valley had been upturned. Dozens of letters asked for advice on spotting and combating ith-ia spies and impurity. There was a great deal of panicked alarm there, but also a deep well of anger. The central valley was safe. Not since the Duchess had risen had they faced cloud tribe raids. This was not how things were supposed to be.
+
+This was a grudge in its infancy, coming screaming into the world. It made her wonder about the ith-ia the Duchess had subjugated, and in her replies, she was careful to emphasize the name of those responsible, Ya-lith-kai, as a separate tribe and government. She shared what she knew freely, describing the methods and ways she had experienced.
+
+And she couldn’t help but think of her idle words at Hanyi’s first concert about the old road through the haunted remains of the dead Li clan’s stronghold, currently contested by Wang and Diao. It had seemed insurmountable, but she was growing some cachet with at least one faction of the Diao.
+
+Another project for after the summit.
+
+It was strange how much she was growing used to taking in and churning out dozens, hundreds of pieces of correspondence every month. She was still terrible with names, but Sixiang helped. Shu Yue helped. And truthfully, when she spent so much time analyzing a person’s thoughts as she read through their letters, it was hard for the picture assembled to not become a person. Someone remembered, at least in passing.
+
+She was still a small player in the great expanse of the Emerald Seas, but with her recent actions and her efforts, she was on the board with all that that entailed.

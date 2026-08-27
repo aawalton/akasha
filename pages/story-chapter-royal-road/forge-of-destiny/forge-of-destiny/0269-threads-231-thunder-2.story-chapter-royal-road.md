@@ -1,0 +1,153 @@
+---
+id: 3f9f38fa-0268-50c8-afb8-6a1cc4bfc012
+page-type-slug: story-chapter-royal-road
+title: "Threads 231 Thunder 2"
+slug: 0269-threads-231-thunder-2
+partOf: forge-of-destiny
+position: 269
+ownLength: 2069
+unit: words
+publishedAt: 2022-07-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/953344/threads-231-thunder-2"
+royalRoadId: "953344"
+---
+
+As they left the town behind, Ling Qi smiled. “I think you did pretty well there.”
+
+“Are you sure about that? Pretty sure your mother doesn’t approve of me,” Yu Nuan said.
+
+“I think she’s not entirely sure what to make of this yet,” Ling Qi corrected. “I wouldn’t call it disapproval.”
+
+“She’s your mom.” Yu Nuan shrugged.
+
+Ling Qi hummed an agreement. She liked that Yu Nuan was already growing casual with her. Most of her friends still didn’t really do casual. There was really only Su Ling and to an extent, Li Suyin. “Why did you offer to take me on this trip anyway?”
+
+As they left the town behind, turning toward the western foothills and the dusty road that wound between the outlying farms, Yu Nuan said awkwardly, “It’s part of the deal, isn’t it? Access is one of the resources I bring.”
+
+“I’m looking forward to this trip. I haven't had a chance to explore any odd spirit locales without a lot of pressure on recently.”
+
+“Moons, do I not even rate an odd?” Sixiang complained aloud, voice carrying on the wind.
+
+“Dreamwalking is entirely different,” Ling Qi shot back.
+
+Yu Nuan watched her out of the corner of her eye. To a mortal, Ling Qi probably would have looked crazy, arguing with the thin air. “You really that carefree?”
+
+Ling Qi gave her a sidelong look. “Carefree isn’t how I’d put it. I’ve worked pretty hard to earn some confidence though.”
+
+Her companion let out a breath. “Yeah, that’s fair.”
+
+Ling Qi hummed the first notes of a half-formed melody as they walked on at a swift pace, the pastoral landscape soon vanishing in favor of scrub and thin trees. Her fingers idly twitched as she toyed with the wind blowing around her. “What are you working on in your cultivation right now?”
+
+Yu Nuan looked up from the trail they were on, and ahead, Qiu paused, raising his own head to look back at them. “Movement. I’ve been studying Qiu and looking up similar arts. When one of us summons a storm, I want to be able to move between lightning strikes.”
+
+That made sense. Yu Nuan was also serving a scouting role in the sect forces. To be able to move swiftly and avoid large numbers of enemies would help her in her duties.
+
+“How about you?”
+
+“A technique called the Opened Vault,” Ling Qi answered with a smile. “It allows me to sneak between the barriers of the world and access spaces I shouldn’t be able to. Don’t tell, obviously.”
+
+“I’m surprised. That seems like the kind of activity you’ve tried to leave behind.”
+
+“Do I come off that way?”
+
+“I assumed,” Yu Nuan admitted as they crossed under the shade of the thickening forest that lay between a pair of larger hills. Qiu let out a bark, trotting ahead on the trail.
+
+“I haven’t had much need for those skills lately. But Lady Cai and I, we’re stepping out of this little walled garden. I think you have an idea of what things are really like out there.”
+
+“I get it. I guess I was just distracted by how shiny you lot are.”
+
+“Lady Cai isn’t stupid. The real world… I don’t think it will ever be as clean as she wants it to be, but there’s value in trying.”
+
+“And how does stealing out of people’s purses fit into that?” Yu Nuan asked.
+
+“What I take out, I can put back,” Ling Qi replied. “You’d be amazed at the kind of documents and objects people will carry around. More than that though, I think it’s just a first step. Are you going to stop once you figure out how to jump with the lightning?”
+
+“No, that’s not enough. I gotta be able to move when I need to. It's scary how much difference getting a warning out can make.”
+
+“And I have a lot of barriers I have to learn to navigate,” Ling Qi said wryly. Between the squabbling clans of the province, the province and the capital, and both and the foreigners, it was a labyrinth she really dreaded taking a step into.
+
+She’d already chosen to do it though.
+
+<It’ll be fun to be able to peek into peoples stuff though,>? Sixiang needled.
+
+“Of course,” Ling Qi said without missing a beat. “It’s always somewhat thrilling to be unnoticed.”
+
+“I don’t really get that part,” Yu Nuan drawled. “Being ignored has always pissed me off.”
+
+And wasn’t that as clear a description of their differences as there could be. Isolation approached from two different venues seen in two different ways.
+
+“What are you trying to do with all of this anyway?” Yu Nuan asked as they walked on.
+
+“Isn’t that a big question?” Sixiang drawled aloud. “Could you answer that one?”
+
+Yu Nuan glanced at the empty air as if looking for a face. “You know what I mean. This whole crazy project with the barbarians.”
+
+Ling Qi chuckled. “I did get it.”
+
+She didn’t answer right away. In the end, her reasons were a little unformed. Just following Cai Renxiang’s lead in reducing mortality in the south was enough reason, and that was important. It was better if less people died, and it would be more stable and safer for both her family and her if there was peace between the Emerald Seas and the Confederation of the White Sky. But there was something more to it. There was… an inkling of an idea, a frustration, an itch.
+
+She liked Jaromila, and to a lesser extent, she liked the others she had met down there. Why should they have to be in conflict over misunderstanding and ancient, fossilized grudges?
+
+“Because someone has to be willing to talk.” Her mind went to a bloody dream and a field of bones, violence unending. If she didn’t like what she saw, then do something about it, huh? “Because I don’t like the way I see things going otherwise.”
+
+Sixiang shifted uncomfortably in her mind, nestling closer in a mental embrace.
+
+“That simple, huh?”
+
+“What about you?” Ling Qi asked. “What do you want from all this?”
+
+“I want to keep developing my music. It’s… Before the fighting, it was immature. I thought I was following Grandmaster Jiang’s path, passion and anger, but now, I think his stuff is more than that.”
+
+Grandmaster Jiang was the most recent of the three great musicians acknowledged in the Emerald Seas, a low ranking member of the Hui clan. His raucous and discordant melodies had nonetheless grown immensely popular in a short time before he died and his music was outlawed, only returning under the current Duchess.
+
+“How so?” Ling Qi tilted her head.
+
+“Because being angry isn’t enough. Most people are totally self-absorbed. Nothing that doesn’t directly, obviously hurt them will make them raise their heads, even if it happens right in front of them. It pisses me off.”
+
+Ling Qi listened as they walked on.
+
+“So I think what the Grandmaster was actually going for was a music that could make people shake that apathy off, if only a little. I want to do that too.”
+
+“And here I thought you weren’t that ambitious, but you say you want to match up with a grandmaster!”
+
+Yu Nuan snorted. “It’s way less crazy than what you’re doing.”
+
+“Fair,” Ling Qi agreed. “How much further?”
+
+“Not much.”
+
+Conversation tapered off as they approached their destination. It was a high and sheer cliff face on the side of a stony mountain capped with snow. At the base where they were, the sheer rock face gave way to a grassy slope filled with scrub, its only remarkable feature a rounded stone boulder that protruded from the grass.
+
+Ling Qi shaded her eyes, looking up toward the peak, shrouded even now in dark clouds. In her senses, the air here hummed and sparked with raw, undirected energy. It made the hairs on the back of her neck rise and her teeth itch, as if the very air was vibrating here. The wind felt charged, pulling away from her grasp as she tried to continue the basic exercises of the art she was practicing.
+
+“So, how does this go? Do you need me to fly us to the peak?”
+
+“I’m not sure how that’d go.” Yu Nuan shrugged off the leather strap that held her lute on her back, swinging it around to cradle in her arms as she briefly tested and tuned the strings. “Got the greeting right here. Just stay close.”
+
+Ling Qi nodded in understanding, following the girl up the slope. Different spirits required different greetings, and Yu Nuan knew these ones. They stepped onto the flattened stone, Yu Nuan a step ahead. There was a moment of relative silence with only the sound of the wind blowing through the vale. Then Yu Nuan began to play.
+
+The first note was a low bass strum, a growing rumble like a storm on the horizon, steadily picking up speed and volume. Sparks jumped from the lute strings, and smoke wafted from the body of the instrument as the melody picked up. Hard, forceful, demanding, it was a song that roared for attention and focus on the player, a command and an announcement all at once.
+
+There was a thunderous crack, and a bright line split the mountain face, a spider-webbing fissure filled with sparking, snapping lightning. The sky darkened overhead, and Yu Nuan’s song picked up speed, flames and sparks danced across her blurring fingers as the instrument belted out notes that no mortal lute could have made.
+
+Thunder crashed, and lightning struck around them. A bolt struck stone bare inches to Ling Qi’s left, then another and another, kicking up soot from flash-burned grass around their feet. Stone groaned as it split further, the fissure of lightning growing deeper and wider, splitting apart to reveal a passage formed of rumbling storm clouds.
+
+The soot solidified under them as Yu Nuan played. They began to rise into the air on it, drifting toward the opened portal.
+
+<Heh, bunch of show-offs!> Sixiang laughed in her head. <Maybe these yang types aren’t all bad.>
+
+Ling Qi allowed herself a small smile as the cloud of soot carried them into the storm clouds. If nothing else, this was going to be interesting.
+
+What awaited on the other side of the crackling passage was a wall of noise that struck with physical force. It was a heavy rhythmic pounding and the cry of strings, the stamping of feet, and the roar of voices. Ling Qi saw  a grand cavern of stone and crystal with boiling clouds shrouding the ceiling. Below, there was no sign of the floor, only scores and scores of spirits in uncountable shapes, mountain ogres and winged humans with the heads of birds, living clouds of mist and leaves, bonfires that walked like men, and beasts and birds of every type.
+
+What they bore in common was an exultant energy. They roared, they fought, they drank, they danced, and more. Above, blue-skinned ogres lined the carven paths ringing the cloud ceiling, beating upon drums of beast hide with iron sticks, and tables and fixing floated about in midair on their own clouds of soot, heavy with food and drink. Even the revelry of the Dreaming Moon held an elegance to it in its raucous revelry, but there was none of that here. This felt more like a riot than a revel.
+
+“Welcome to the Thunder Palace,” Yu Nuan announced, and Ling Qi could barely hear her over the din.
+
+“Welcome indeed!” boomed a tremendous voice, louder than Gan Guangli at his best. Leigong the Storm Shepherd, three-meters-tall, blue of skin, and with the wings of a great bat and the beak, talons, and crimson eyes of a crow, descended from the churning clouds. “Come to perform for the court again, thundercaller?”
+
+“Yes, and I’ve brought a guest.” Yu Nuan bowed low before the lord of this palace. “This is Ling Qi, whose family I may be joining.”
+
+Leigong peered at her with a sharp eye. “Oho, the one who flew with this one when we first met! If you will be taking care of my favorite musician, then you are welcome indeed to our revels, disciple of the moon.”
+
+“It is a very impressive gathering,'' Ling Qi complimented. “I have been looking forward to seeing it.”

@@ -1,0 +1,163 @@
+---
+id: f47f7179-4079-560e-985e-9f00cec0726e
+page-type-slug: story-chapter-royal-road
+title: "Threads 383-Perdition 3"
+slug: 0425-threads-383-perdition-3
+partOf: forge-of-destiny
+position: 425
+ownLength: 2253
+unit: words
+publishedAt: 2024-06-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1671863/threads-383-perdition-3"
+royalRoadId: "1671863"
+---
+
+Ling Qi tucked her arms to her sides and darted with all her might into the cloud of burning air around the general as a barrier woven of hatred and stubborn pride shattered, unleashing an ocean of marsh water into the sky to be instantly boiled into rancid searing steam.
+
+The general’s flames threatened to sear her without ever once intending her harm. Because the general believed in bringing people together too. No matter what they wanted. No matter how dear the barriers were. No matter how they screamed as their chains were broken.
+
+What would Ling Qi do if the White Sky recoiled from this day in horror and retreated to their borders? What would she do if conflict between the Celestial Empire and the Polar Nation came to blows?
+
+She would talk until her lips bled and her lungs burned. She would try to solve disputes between the two nations without steel and fire.
+
+But if it all failed, she would fight.
+
+Because the empire was her home. It was where her family lived and where her friends resided. It was the foundation of her community, and she would fight and kill to protect it as she had at the caldera and as soldiers did all across the Wall, fueled by countless centuries of conflict with the nomads of the sky.
+
+That was the searing truth the general’s fires would not let her ignore.
+
+This was power.
+
+In the end, peace was only possible because the Celestial Empire and the Polar Nation alike were wary of one another's power. If one grew weak, or was perceived as weak, that would change.
+
+Her method was fundamentally an ephemeral act of trickery and…
+
+No.
+
+Ling Qi curled herself in as small a shape as she could manage. Painfully hot ceramic hands embraced her, and the shell of cracking hexagons closed into a marble of cold in a sea of fire. Steam buffeted and tossed them about. She was starting to stop feeling pain, her skin simply losing sensation.
+
+<Hang on, Qi,> Sixiang begged.
+
+She circulated her qi desperately into the cracked shell Sixiang had raised. Flakes of ash that had once been skin and flesh flaked away and disintegrated, revealing new flesh. Her body was as much a construct as matter here.
+
+The searing pain renewed. That was fine.
+
+She would not be like the general. She would not lose the ability to feel because the general was wrong. Power was not so simple as that. The world was not simply a game of domination. Power was required for action; it was not required for respect. If people spoke and were bound by the right chains, respect would remain, even if power wavered back and forth, as it always did, as it always must. No one and nothing lasted forever, and no power was excluded from that.
+
+Below, countless tons of stone groaned. Another glittering world of illusion was sundered by a blade of realities.
+
+She had made this, and so she had no right to refuse to witness it.
+
+Because Still Waters Deeping was wrong, too. She could see the roots from which this awful growth had flowered, and she shared this root. Although she disagreed with Cai Renxiang’s belief that family was the root of corruption, Ling Qi also recognized the mote of truth in it. To hold kin above all else, before all else, could lead a cultivator to desperate, nigh-suicidal methods.
+
+Ling Qi remembered that night when the Ling clan had held the banquet in the garden. Her mother and sisters and brother and Sixiang, all of those faces had been lit with cheer, tension disappearing in laughter and good feeling. How much would she wreck to maintain that? What would she do, if that clashed with her duties?
+
+But like the general, there was something hollow too, in Still Waters Deeping. Like her, he had subsumed himself to another. She did not think he remembered such small things, not really.
+
+Not when he would see the people of his own clan slain as traitors merely to derail change.
+
+Was that the truth of sovereignty then? A Law in the shape of a cultivator, entirely devoid of nuance? The Polar Nations thought so certainly, and so guided those who wished for it to give up their desires and become conduits for the land and community.
+
+The earth split, more canyons stretching to the horizon, weeping ichorous blood. A legion of hideous nightmares ripped from the bowels of the dream crawled up the general’s armored body even as they burned and wailed and died, sacrificed in their millions to slow a far greater monster by a hair. Space warped, mist surged, and waters rose to drown the world, and yet, they, too, burned all the same.
+
+It was too much. Her eyes were aching. Her head pounded with the pain. She could feel through Sixiang and her own senses flickering echoes of the real world, so far away from them now. Of a withering, pounding heat and a quaking earth. Of people rushing about in a panic. Of distant cries. Of steam boiling from the Meng compound and waters pouring down the side of the cloven mountain.
+
+… It was so, so easy to forget what lay at her feet.
+
+Just as easy as ceasing to feel pain. The easy way is not the only one.
+
+The whisper from a dead heretic crawled across her thoughts like a cold ripple of water.
+
+Look, then. You are not the only small one making their will known in a battle of little gods.
+
+One of the winding towers of the temple crumbled inward and fell with a scream of sundered stone, untouched by the general's blade.
+
+A flash of red. A grinning ape bound through the thrushes many layers from here. Shrouded and hidden at the center of a formation labyrinth set in the higher Liminal, a woman in Meng colors meditated, veins bulging under her skin with the colors of Still Waters Deeping’s qi. The ape struck her down.
+
+An inspector marched at the head of a delegation of ghosts against a mass of plant matter, a cancerously growing swamp beast of reed and mud. His ghosts fanned out, coordinated through a dozen mirror portals; paper talismans and binding stakes pierced the beast until an ebon cane could pierce its head and a gnarled hand could haul another old man from the beast’s innards.
+
+A young man, terrified for his kin, marched into the flooded ruin that should have been home, a silent shadow with a wide brimmed hat at his side. Behind flashing lenses, thoughts stirred unending as he rallied sickened kinsmen to his side, hunting those who had needed no parasites to guard the keystones of temple towers.
+
+The next blow of that awful sword sheared three temple towers from their bases, and Ling Qi realized.
+
+The world is never still. Power is change. In every soul sleeps that spark. There is power in stoking and enflaming that, power that may move mountains and gods alike.
+
+The bellow which erupted in the wake of the crumbling temple towers was not a sound so much as a distorted ripple which passed through the realm of dreams. Ling Qi felt her vision warp and her body nearly mutate, bones twisting under her skin and veins writhing like snakes, as if to shake her apart from the inside out.
+
+The eggshell-thin sphere of cracked ceramics dented inward, like a lump of clay crushed in a fist. The gauntlets crossed in front of her face cracked, a split forming up the side of the left one, sparking wildly with qi. Sixiang's ghostly form rippled, filling her ears with a rising shriek like a bow being dragged across an instrument's highest pitched string.
+
+There were no further words from the dry whispering voice of what could only be Huisheng.
+
+And the temple, the burning marsh, and the steam-filled sky at once shook as Meng Delun, as Still Waters Deeping, struck back.
+
+Coward.
+
+Coward.
+
+Coward!
+
+You are but a quivering child, a seeker of the path of ease.
+
+The formless nightmares swarming upon the steel titan writhed, opening too many mouths to wail a song of pain and contempt. Twisted constructs of dreamflesh swarmed from the burning canopy. Millions more flew on with burning wings, bursting eyes, and boiling flesh. Like mayflies, they died in their millions. And yet, in their death, they jammed and gummed segmented joints with their corpses, and pale white smoke turned black and acrid.
+
+Faithless coward, fallen scion, too weak to defend, too weak to fight, shattering the preservation of millennia. Kinkiller and traitor, sniveling child daring still to wear the signs of their clan’s graves. Twisted liar, thou who cannot part from thy chains!
+
+Light erupted from every hall and door of the temple. Below, the general's towering frame struggled, stymied by the tide of verminous nightmares and black silt that fell over her in a wave.
+
+The fires in the sky dimmed, the boiling steam thinned, and Ling Qi felt as if she were choking on her own blood as hateful eyes gazed upon her from a thousand, thousand nightmares winging through the sky on translucent wings.
+
+She felt the Meng elder's hate, rage, and seething contempt.
+
+It had been simmering for centuries, she understood, as it pressed down upon her. It had been since the rise of the Cai. That had been the last, best chance for the Meng to truly abandon the fallen, impure edifice that was the Emerald Seas.
+
+Cai Renxiang was a mere straw. She was the final indignity, inflicting a twisted half-truth to turn their very foundations, the truth of Tsu himself, against them.
+
+There were those among the Meng who listened to her and whispered these lies in their very halls. And that was too far.
+
+Better the last children of Tsu die than be reduced still further, dragged into impurity.
+
+Ruining the summit had only been the secondary goal, she realized. He—no, they—wished nothing more than to take the choice from their kin’s hands and force the Meng to stand unified again. Community stripped of choice was awful to witness. It was Meng Delun’s want, that singular desire, that he held above all else. Somehow, he thought to find a victory in this forced unity, even against the duchess.
+
+Even preservation could be twisted into destruction.
+
+Rave. Wail. Die.
+
+Ling Qi shot into the sky on an updraft of heat that made every remaining nerve she had scream. An ocean of brackish water flash-boiled. Two titanic eyes of white fire burned, empty and pure. In them, there was no doubt, no hate, and no regret, only a blazing contempt as deep as Xiangmen was high.
+
+An invisible blade swept the air, kilometers long, and every buzzing nightmare died as the sky was scorched.
+
+No cowardice in abandoning failure, in casting aside weakness. No frail meat lingers in the heart of steel. No feeble sentiment remains in the soul of flame.
+
+The marks remain until the work is done. They remain until the last chain is broken and the graves forgotten.
+
+The great temple complex shook down to its foundation as that ruinous blade came down upon its venerable roof. But the sword was repulsed in a flash of kaleidoscopic light.
+
+Liar sublime, even unto thy self. How. How dost thou stand in the presence of radiance?
+
+The cleaving sword of ruin swept back, and the air screamed as it came down again. This time, the tiles of the temple roof splintered.
+
+There are no lies before the great ideal, no lies in radiance. Neither envy nor hate drives the sword of progress.
+
+The temple roared back.
+
+LIAR!
+
+Ling Qi felt a tug down in her soul, a pull on the thread still anchored around her finger. Ling Qi blinked slowly, painfully, as she drifted head over heels and gazed at the marsh below. She saw the canyons carved in the earth and the black ichor that still wept from deep, deep below.
+
+Ichor? Meng Delun did not cultivate darkness, for all that he wielded nightmares. It was not mud down there. The bleeding shadows under the earth did not boil into steam.
+
+Power gathered in the temple even as more towers crumbled. This was the power of a dying man with nothing left to lose. The Liminal shuddered, and Ling Qi knew that the real world shuddered, too. The vision of the temple wavered in her eyes. She saw a man as gnarled as an ancient tree, bearded, robed, eyes alight with madness. He stood defiantly before the steel titan, and the staff in his hands shuddered with power ready to break.
+
+She felt the thread anchored in her flesh by Shu Yue thrum. It tugged again and pointed directly down toward Meng Delun.
+
+Arms embraced the defiant temple keeper from behind, broad and strong, healthy and vital. They were connected to a barrel chested figure adorned in leaves and living vines with a face of mist and light, a crown of antlers upon his brow. The embracing shadow’s lips moved.
+
+Shall I call another liar when you know in your heart that my voice has always, always merely been your own?
+
+The temple, the man, Meng Delun, staggered.
+
+Chain Breaker drove into his chest, into the heart of the temple.
+
+A pale hand closed around his throat.
+
+And the world of the liminal erupted with the death of a sovereign.

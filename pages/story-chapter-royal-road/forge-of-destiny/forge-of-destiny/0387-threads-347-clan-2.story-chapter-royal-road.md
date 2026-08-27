@@ -1,0 +1,181 @@
+---
+id: 9b5264d4-33e3-5f08-ac0f-0d2e2fe7482e
+page-type-slug: story-chapter-royal-road
+title: "Threads 347-Clan 2"
+slug: 0387-threads-347-clan-2
+partOf: forge-of-destiny
+position: 387
+ownLength: 2412
+unit: words
+publishedAt: 2023-11-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1412077/threads-347-clan-2"
+royalRoadId: "1412077"
+---
+
+The next morning, Ling Qi and her family were relaxing in the garden after Ling Qi had just finished a cultivation session with her mother, guiding her mother through the simple first realm cultivation art that she had chosen. Letters and messages had been sent out the night before, and Ling Qi would be meeting with a sect functionary later in the day to formalize her job submission.
+
+Biyu had definitely been making use of the talisman brush Ling Qi had given her. A great deal of use.
+
+Admittedly, most of them were just random splashes of color strewn across reams of rough paper. If they ever had any meaning, they were lost to a child’s wandering attention span and short memory.
+
+There were ones with recognizable images though. One depicted the garden with the sun high in the sky and a squiggly figure that was Biyu herself. Another showed what was probably the night sky with a big, blobby white moon and speckled blue and white dots that were probably stars. Other paintings were of figures only identifiable due to Biyu’s chatter, including one of a puffy blue and white dog.
+
+“I wanna ride!”
+
+“Oh, do you, little sister?” Ling Qi held Biyu up in her hands, and the little girl kicked her feet, giggling. “Are you suuuuure you’ve been good enough?”
+
+“Yes!”
+
+Ling Qi glanced toward her mother.
+
+“She has behaved herself,” her mother said, looking somewhere between amused and concerned.
+
+“What do you think, Zhengui? Are you up for giving rides today?”
+
+“Hmph. If it is littlest sister, then I, Zhen, will allow it.”
+
+Zhengui stood on the garden path before them, shrunk down to just about a meter and a half long. His scales had a well polished shine to them; it looked like he had been well taken care of on the journey.
+
+“Yeah! Gui will give littlest sister a ride around the garden. Gui wants to see everyone’s work since he was here last,” his other half chirped.
+
+“It looks like you’re in luck today, Biyu,” Ling Qi said. “Now, hold still, okay?”
+
+She lowered her sister down onto Zhengui’s back. He was still hot, even with his fires banked. An unprotected mortal might still have been scalded or at least uncomfortable touching his shell, but Biyu, wrapped in the gentle embrace of her domain and under Zhengui’s protection, was fine. Ling Qi settled her in the crevice between two of the blunt spikes of Zhengui’s shell.
+
+“Littlest sister must hold on,” Zhen hissed. “Do not fall! Noble ladies must ride with dignity.”
+
+“Kay! I won’t fall off, good turtle!”
+
+She was amused to see Zhen’s serpentine head remain hovering near her anyway as Ling Qi herself stood up. “Once around the garden, okay?”
+
+“Yes, big sister!”
+
+Ling Qi and her mother stepped out of the path as Zhengui lumbered into motion. Shrunk to such a small size, his rocking gait did not exactly eat up ground quickly. But Biyu squealed in delight anyway, grasping onto the shell spike as she wobbled back and forth with the motion of his shell. Soon, they were on their way.
+
+“She really took to that brush, huh?” Ling Qi commented.
+
+“It took some time. At first, I think she was only interested in the mess she could make,” Ling Qingge said.
+
+“What changed? It seems she’s enjoying actually trying to make images now,” Ling Qi wondered, eyes wandering down the path where Zhengui had gone. Zhengui had arrived a couple hours ago with the thankful caravaners.
+
+“It was that girl, Yu Nuan. She had stopped by to work out a matter of her contribution to the household. She asked Biyu what she was painting,” Ling Qingge explained. “And when Biyu couldn’t answer, Yu Nuan suggested that she try making an image of something that made her happy.”
+
+“That was the dog, I guess?” Ling Qi wondered. “She knows I haven’t asked for any dues from her, right?”
+
+“She does.”
+
+Ling Qi sighed. “It’s a shame she’s deployed right now. She should be here too.”
+
+She was, after all, technically Ling Yu Nuan now.
+
+Still, she hadn’t thought much about the brush. It was strange to see two of her decisions coming together to influence Biyu. She was still only a child, so there was nothing definite, but her little sister had seemed awfully excited to show her every last clumsy but earnest image.
+
+Ling Qi felt the breeze tug at her hair, and she glanced up at the sky, clear and blue, strung out with strands of wispy white cloud. “I’m sorry if you are uncomfortable with the idea of the larger celebration, mother.”
+
+She sometimes forgot how easily her mother could give way on decisions even now. She forgot her own influence and power here.
+
+“Do not be. I am… I am too pessimistic at times.”
+
+“You have every reason to be.”
+
+“That may be, but there is a line between caution and wallowing. I have not found it yet.”
+
+“Cultivation is good for ordering your thoughts, isn’t it?”
+
+“It is, but if it grows worse, I can see why many falter, even with the boons offered.” Her mother said, brushing her fingers over colorful petals.
+
+“It does get worse. You have to look at yourself with clear eyes… or carve the masks you wear into your own skin. There may be other methods, but I don’t know them.”
+
+“I do not know that I could manage, even if this soiled body of mine could withstand it. There are many regrets I would rather leave behind.”
+
+“I’m not different. But I think it's only with cultivation that you really can leave them behind. Just turning your eyes from the past doesn’t make them disappear. Regrets cling to you, weighing you down, even if you refuse to see them.”
+
+“My daughter has become a philosopher,” Ling Qingge said, looking faintly amused.
+
+“I’m sorry, mother. I fell in with a bad crowd.”
+
+“Such terrible influences. I once thought this was all akin to a dream. I was terrified it would vanish when I opened my eyes. Now, it is what is behind me that feels like a dream. I am not sure what is more frightening. You say I should face my regrets. I don't even know where to begin. I don’t know what the greatest among my regrets should be.”
+
+Ling Qi felt the question in her words. She wasn’t sure what mother was looking for from her. Maybe the older woman simply needed to vocalize something in her thoughts, but needed Ling Qi to offer permission to bring it up.
+
+“I think we both know where your troubles began.”
+
+Her mother stiffened. “And my fortunes, daughter.”
+
+Ling Qi bowed her head. “I guess so. But mother, I know you don’t resent me.”
+
+“I do not. Never that. I truly was a plaything, Ling Qi. Never more than a passing amusement for a man. Even when I thought to assert myself, to run away, I was only a foolish girl, falling for another’s lies, no more valued than before.”
+
+Ling Qi bit her lip, looking out over the garden. Her mother had never shared the details of her own brief bid for freedom. She knew that her mother had met the man who had sired her then, a musician attached to a caravan. She’d been abandoned by him and reclaimed by her family shortly thereafter.
+
+“Mother, is it possible that the Liu, or even your He clan, may have…”
+
+“Done something to your father? Killed him? Imprisoned him?” Ling Qingge asked rhetorically. “I considered that. I agonized that I might have caused that, too. It is a reasonable assumption, but any caravan of significant size is sponsored.”
+
+Ling Qi remained silent, turning her eyes toward Biyu and Zhengui.
+
+“Though it was years later, I did see him again, performing in the market. If he saw me amongst the crowd, he did not recognize me.” Ling Qingge shook her head. “I am sorry, Ling Qi.”
+
+“I have no earthly idea what you are apologizing to me for, mother,” Ling Qi said.
+
+She did have an inkling, but there was no wound to worry at there. Perhaps it was her upbringing in the brothel, but to her, there was no face to the concept of “father.” There was no attachment or curiosity. Even if he had been rotting in a Liu dungeon, any anger would have come from how that would hurt her mother.
+
+… She understood that this feeling was probably not right, perhaps a little twisted and wrong. It was why she could never understand why Su Ling got so worked up and angry by even the idea of her father, a man who had been dead and devoured before Su Ling was even born. Ling Qi couldn’t do that. She couldn’t muster up emotion for someone she had never met. She had what she thought were altruistic ambitions, but she needed suffering to be before her eyes to make it real. She wanted the world to be better because that would be better for the people she did care about.
+
+Despite everything, she did think she had some basis for not thinking of herself as a good person.
+
+Ling Qingge heaved a tired sigh. “You see why I was so worried about the young Sir Xuan. I do not think you are foolish, but…”
+
+“I understand, mother,” LIng Qi said. Crouching down beside the older woman, her gown pooled on the garden path. “Though, I do not think Xuan Shi could take advantage of anyone. He would combust just from thinking of it.”
+
+Ling Qi literally could not picture in her mind a romantically assertive Xuan Shi. It was like trying to imagine Cai Renxiang with Sun Liling’s attitude and bearing.
+
+Imagination failed. It was too bad Sixiang wasn’t here. They could probably conjure an image of it.
+
+Her mother smiled wanly. “I trust your judgment, Ling Qi. And I admit, I take comfort in your position. It was difficult for me to understand exactly where you stand. But… you are more free than I ever could have hoped.”
+
+Ling Qi paused. She had never really thought of it that way. Choosing to take an oath to Cai Renxiang had felt like putting childish thoughts of total unfettered freedom away. It was accepting that to live with other people, you had to accept a place in society and accept the constraints it had.
+
+But to her mother, the position she had gained was in itself freedom. It was the very rules and traditions and expectations that she had accepted which allowed her to loftily wave off suitors and take on matters in her own time without anyone involved taking insult.
+
+There was something in that.
+
+“I have been very fortunate,” Ling Qi agreed. “But, mother, I don’t think it was wrong to leave. It wasn’t wrong to refuse.”
+
+“It was only a result of whim and rumor,” Ling Qingge said. “The young Lord Liu was said to move swiftly through concubines and had a rough manner. I only ever spoke to him once.”
+
+Ling Qi looked at her mother hard, and the older woman hunched her shoulders. “Do you truly believe your judgment was wrong, mother?”
+
+“... He looked at me as one does a thing. It is a look that I have become well acquainted with. And yet, did I not show my judgment was faulty just a little later? Perhaps it was merely nerves and fright. What might your life have been like as a nobleman’s daughter?”
+
+Choices. One girl, younger than her now, decided to run away from home. That was the choice that had made Ling Qi. One could say that everything she had done in her life rippled out from that single point. But that was wrong.
+
+The young lord of the Liu had made choices too. Ling Qingge’s former family had made choices. Her father had made choices. She understood a little now why Xin had told her that even she could only perceive completely a few minutes into the future. The winds blew far too chaotically for every little breeze to be tracked. And every one of them wrought a million little changes that made a million more.
+
+“I think the punishment put on you proves your judgment right. Also, I wouldn’t have been me,” Ling Qi said. There was a distant, cold anger there, and it made her words clinical. “I don’t think a girl like that could have walked the path that I’m on either. That girl could not have befriended a lonely Bai. That girl, I think, could not have attracted Cai Renxiang’s attention. So… I won’t say that I’m happy you suffered or that I suffered. But I am happy with where I am. Are you?”
+
+Ling Qingge looked out in the garden at Biyu and Zhengui. “I am. I do not know that I can take your view on regrets though, Ling Qi.”
+
+“The past is written in stone. You can learn from it, and you can use it as a guide, but you can’t change it. I think it's better to consider the choices you can still make. Maybe the new ones will put the old in a different context, but it's not about the old choices.”
+
+“I wish It could be so easy to dismiss.”
+
+“It’s hardly been easy getting here for myself,” Ling Qi said mildly. She reached up to rub her shoulder, feeling a twinge in her cultivation. A burnt and clogged meridian shifted.
+
+“Ling Qi, are you well?”
+
+So, even she had sensed that.
+
+“Yes, just something like a strained muscle. I’m starting to feel it properly again.”
+
+She could feel a trickle of qi through the meridian again. Almost there but not quite.
+
+Mother looked her over critically. It was funny she was only a little taller like that. Even crouching Ling Qi nearly matched her. “If you say it so… I am sorry for dimming the day, Ling Qi.”
+
+“Mother, please. We still have so much of the day to spend yet. Besides. I am glad you were able to explain a little of what drags at you. I’m only sorry I can’t be more helpful to you.”
+
+“I shall refrain from the duel of apologies. Biyu is almost back.”
+
+She was. Ling Qi turned to face her younger siblings with a smile. “Well, did you have fun?”
+
+“Yes!”

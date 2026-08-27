@@ -1,0 +1,149 @@
+---
+id: f0d98123-1f6e-501e-b37a-fc291682d08f
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 10"
+slug: 0018-threads-chapter-10
+partOf: forge-of-destiny
+position: 18
+ownLength: 2401
+unit: words
+publishedAt: 2020-11-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/584982/threads-chapter-10"
+royalRoadId: "584982"
+---
+
+She scurried through the grass and brush, racing alongside a million of her brethren. Her sleek black fur gleamed under the ruddy moonlight.
+
+In her thoughts, there was only fury. Fury at the Oathbreakers. Fury at the burrow destroyers. Fury at the diggers and the choppers and the despoilers.
+
+They would pay.
+
+They would all pay for the King was hunting this night and all the forest raged at his side. She and her brethren were the vanguard, the first wave, incalculable in number, rushing in, each of them tiny, each of them weak. Yet their fangs were sharp and ready, durable enough to chew through stone and metal while others climbed and swarmed paltry walls or burrowed beneath, sapping crumbling foundations.
+
+They came upon the enemy all at once, their momentum crushing them against the straining barriers of spirit that surrounded the stout block of stone which held their hated foe. The King’s power waxed, and the barriers fell, torn asunder like leaves before a storm. Screams rang out as huts of cut wood and clay brick fell under the hooves and paws and branches of her King’s greater soldiers.
+
+She raced on, ignoring the lesser Oathbreakers. She chittered in delight as she raced up the walls, pressed on all sides by her brethren, and they devoured the first of the Oathbreakers guarding the walls of their doomed keep. She felt nothing but satisfaction as she dug her fangs into the squalling ape’s throat and tasted lifeblood in her mouth.
+
+She snarled in pain then as she felt hundreds of sharp little stones crack against her hide. Her brethren were torn apart, reduced to little more than gore and matted fur, but the gleaming white markings on her hide glowed, and she was protected.
+
+She saw the Oathbreaker who had done it, his hand raised and another cloud of sharpened stones gathering around him. It did not matter how many were slain; they were unending. They were the Hunt.
+
+As she blurred into shadow and chewed out the man’s eyes with her fangs, a fresh wave of her brothers and sisters crested the walls to devour him.
+
+***
+
+Ling Qi remembered blood and death. She remembered men and women screaming, begging for their lives. She remembered killing them.
+
+She retched. Her throat burned, and she tasted bile on her lips as she forced herself to to her hands and knees, scrabbling in the cooling dirt as her eyes stung with tears. She almost threw up in truth when she saw her surroundings.
+
+Wreckage stretched as far as her eyes could see. She saw ruined huts and houses and torn-up streets, and everywhere, she saw bones and meat. Glassy eyes and empty sockets stared at her from all around, full of accusation and mockery. An endless graveyard, a charnel house, is what greeted her here.
+
+“You are not one of mine.”
+
+Ling Qi’s head snapped up at the sound of another voice, cold and dispassionate. In the shadow of a shattered doorway stood a figure shrouded in black. She was unassuming in stature, little more than a scrap of shadow amidst the graveyard. Her long black hair, matted and tangled, hung to her knees and shrouded her face, and yet, when the figure lifted her head, Ling Qi glimpsed only white bone and a burning red light in an empty eye socket.
+
+Ling QI let out a strangled laugh that was more of a sob. It was crazy that she could recognize what this was so easily. The fear that had shackled her when she met the King was worn to tatters now.
+
+“Why? What was this supposed to teach?!” she shouted at the Bloody Moon. “What was the point?!”
+
+“There wasn’t one,” Sixiang muttered bitterly. “Sorry, Ling Qi.” To her surprise, she felt their slender arms wrap around her shoulders. Were they still in a dream then? “I failed. I didn’t see this bitch’s fingerprints all over this memory until it was too late.”
+
+For her part, the Bloody Moon was unperturbed by the rudeness shown by the two of them as she moved closer. “You have been coddled, child, if you imagine that all or even most things hold a native purpose. It is the duty of humankind to forge meaning from the blind mechanics of the world.”
+
+Ling Qi shook in impotent anger. She could still taste blood in her mouth. She could still hear the wails and cries of the dying. She could still see the terrible, viridian light shining forth from the keep as a horned corpse had been flung from the broken battlements while greenery consumed the survivors. Roots and flowers and crawler vines had erupted from everywhere, tearing and…
+
+She took a shuddering breath to control herself, resting a hand on Sixiang’s. “Please. No cryptic speech,” she gritted out. “What do you want?”
+
+The burning red light in the spirit’s eye socket flickered, and the moon avatar raised a hand, wet and red with blood, to cup her jaw. “I wished to inform you that there will be no further offers. You are not one of mine.”
+
+“I’m glad,” Ling Qi spat before she could even think twice, “if this is yours.” The graveyard looked back at her, empty and stinking of rot.
+
+The Bloody Moon stared at her, but Ling Qi was too exhausted and too sick to feel fear at the ominous weight that her gaze held. She could feel Sixiang’s arms tighten around her shoulders.
+
+“Vengeance is blood washed away with blood,” the spirit replied, skull vanishing behind black tresses as she dropped her hand and turned away. “This is its true form, the only ending it can ever bring. Vengeance is the claw lashing out in pain, the bloodied fist crushing a foe’s skull to paste in the throes of grief, before its owner is slain in turn.”
+
+As the avatar of the great spirit stepped into the shadows, she looked back, and beneath her tangled tresses, Ling Qi saw not a skull but the face of a steely-eyed matron of stern and unforgiving countenance. “Justice is something only humans can define. If you disapprove, then do not merely complain. Act - as you did not today. It is such a troublesome mantle your kind has saddled me with.”
+
+Ling Qi closed her eyes. She just… didn’t have the energy to decipher what the spirit was trying to say right now.
+
+“I’m sorry, Ling Qi,” Sixiang said, voice muffled by her hair. “I’m a crappy friend. I shoulda been able to figure out that this was one of her butcher plays. I shoulda paid more attention. I could have asked around, even if she was hiding her mark.”
+
+“And I should have been more careful with the map,” Ling Qi said with a bitter chuckle. “I could have cross-referenced it with the archive or… something. I got cocky, too. I just hope Shen Hu is okay.”
+
+As the graveyard faded away around them and the warmth and weight of Sixiang’s body dissolved away, Ling Qi could only regret.
+
+When she opened her eyes, she winced at the brightness of the early afternoon sun.
+
+“Oh, you’re awake.” Shen Hu’s voice drifted over her, and she immediately turned her head to where he kneeled in the grass beside her.
+
+Her eyes were immediately drawn to the twisting scar across his belly, red and fresh. It looked like he had been gored viciously. It had been a lethal wound by all measures.
+
+He scratched his cheek nervously as he saw the direction of her gaze. “I messed up,” he admitted.
+
+“What happened?” Ling Qi asked faintly, turning her gaze back up to the sky. She still felt dazed.
+
+“Well, we were evacuating,” Shen Hu explained, turning somber. “Lanhua dug out a shelter and started on a tunnel real quick, but all these spirit beasts came bursting through the shelter roof. I couldn’t hold them off long enough, even with the choke.”
+
+“You should have run. They weren’t even real. What if you had actually died?” Ling Qi asked without heat.
+
+Shen Hu frowned. “If I would run now in a test, why wouldn't I run later in real life? Besides, it was a good lesson. I spent all of last year alone, ‘cept for Lanhua. It made me forget a lot of stuff that matters. Today, I saw what it looks like when we fail. People depend on us cultivators. I never want to see that again.”
+
+“At least one of us found a lesson in this,” Ling Qi muttered. She had only been given doubts.
+
+“Yeah, I don’t get it. I messed up, but the spooky lady at the end seemed happy for some reason,” Shen Hu said, scratching his head in confusion.
+
+Ling Qi’s gaze snapped back to him, and his blank stare met her hollow one.
+
+“... Where are we anyway?” Ling Qi asked dully.
+
+“Down in the valley. Looks like we found a site at least,” Shen Hu replied, gesturing to the other side of her.
+
+Ling Qi lolled her head to the other side, and there, she saw a tumbled field of stones overgrown by moss, which seemed to form a vague square. Going by the qi around the stones, it would probably be a useful site for both her and Shen Hu, moon for her and earth for him.
+
+This hadn’t been for nothing. But Ling Qi could still taste the blood on her tongue.
+
+***
+
+“I do not believe your choices were in error.” As Bai Meizhen spoke, Ling Qi looked up from her lap to glance at her friend. "Except for entering the situation to begin with."
+
+Meizhen was seated neatly beside her in the audience box overseeing the challenge arena. She was glad that her friend had reminded her that she needed to be here today. She had lost track of time in cultivating, plagued by doubts and frustrated with the sluggish response of her qi as she tried to build toward the next stage. Meizhen had quickly perceived her distress, and eventually, Ling Qi had disclosed the events of the dream.
+
+“I would have thought you’d agree with the Bloody Moon,” Ling Qi sulked, resting her chin on her hand, only to wince a moment later. Those were ill-thought-out words.
+
+Meizhen frowned at her. “Cease that,” she said. “That creature is a great spirit, and its words hardly condemned you. That is not what is troubling you.”
+
+Ling Qi grimaced but agreed. “Have you see people die like that before? I just… I can’t…”
+
+Her friend turned her eyes to the challenge arena below where the equipment was being set up. Heavy desks and shelves of tomes were being dragged out and arranged in artful symmetry.
+
+“I have,” Bai Meizhen replied. “Observing records of battles is part of a young Bai’s education, and I have seen the aftermath of towns lost. Grandfather did not coddle us in ensuring that we know our duty.”
+
+“Heh. Are the Bai really not so heartless after all?” Ling Qi asked, trying to put the images of the dead out of her head. “Compared to some other old clans,” she muttered darkly.
+
+Meizhen drummed her fingers on her seat’s armrest before answering. “We know our duty, even if most do not do more than pay lip service to certain aspects. Mortals and lesser cultivators are,” Meizhen paused, trying to find the right word. “They are like children. It is an unfit guardian who allows them to be dragged under by lake beasts.”
+
+“What they do to each other is fine though.” Ling Qi laughed harshly. She wasn’t being fair, but she felt burnt out.
+
+“The metaphor breaks down,” Meizhen admitted without pause. “And yet, the sort of deliberate slaughter you spoke of at the end is the purview of barbarians. I can offer you little comfort, save that you will become accustomed to such violence. This world is cruel. If it bothers you, it is your duty as a cultivator to prevent its occurrence in reality, insofar as you are able.”
+
+“And now you sound like her,” Ling Qi sighed, looking toward Meizhen.
+
+Meizhen met her gaze. “The Bai are associated with that moon from time to time,” she said dryly. “More importantly, that is not the core of your trouble.”
+
+“Since when are you so perceptive about this kind of thing?” Ling Qi grumbled good-naturedly.
+
+“One must strive for excellence when carving one’s niche,” Bai Meizhen replied primly. “You regret what you see as cowardice, do you not?”
+
+Ling Qi didn’t answer. She hated what she had been made to do in that memory. She hated the nightmares it had brought her, but those horrible scenes were, as Meizhen and even the spirit had said, something that she could draw determination from. The hunt had been repellent and evil on every level. Whatever justifications had existed for it were nothing in the face of what it had wrought. She would strive to ensure that she would never see something like that again.
+
+No, what she really hated was that she hadn’t even tried to avert it. For all that she claimed to have grown above sacrificing friends and allies for her own wellbeing, when faced with impossible odds, she hadn’t even had the courage to try. It would be one thing if she had at least tried to persuade that monster to spare Shen Hu and been rebuffed; she would have just been angry and determined instead of… this.
+
+“How can you call it anything else?” she asked.
+
+“There is nothing wrong with prioritizing yourself,” Meizhen answered, giving her a cool look. “So long as self-preservation is not your absolute highest consideration. Filial duty must come first, else we be no more than snapping, clawing beasts, but…” She shook her head. “Why do your actions trouble you so?”
+
+“It feels like I’m backsliding,” Ling Qi confessed. “I wonder if I would have stood by and remained silent if it had been you in the dream.”
+
+Meizhen fell silent as the figure of an elder Ling Qi did not know blinked into view below at the overseer’s table. “I trust you would not. Ling Qi, it seems to me that you must make it clear to yourself where your limits lie. Your trouble lies in a lack of surety.”
+
+Ling Qi did not reply. The challenge was starting.

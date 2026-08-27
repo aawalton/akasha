@@ -1,0 +1,165 @@
+---
+id: d7cb3102-6861-550f-adc7-77f74ea961d4
+page-type-slug: story-chapter-royal-road
+title: "Threads 293-Construction 6"
+slug: 0333-threads-293-construction-6
+partOf: forge-of-destiny
+position: 333
+ownLength: 2857
+unit: words
+publishedAt: 2023-03-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1153124/threads-293-construction-6"
+royalRoadId: "1153124"
+---
+
+“May I ask for your understanding of this summit in your own words?”
+
+Ling Qi didn’t know enough about him. If most of her information toward Cao Chun was going to be filtered, that couldn’t stand. The Jin were the ducal clan of the Alabaster Seas. They had minimal relations with the Emerald Seas. She knew they were mercantile, somewhat like the Bao, but much more heavily invested in shipbuilding and shipping. They controlled all ports on the mainland empire, save for a single city in the Thousand Lakes.
+
+He really was very handsome. Though his voice was warm, his manner was sterner and more serious than Meng Dan’s.
+
+“This operation seeks to defuse an additional front of the war against the tribes of these mountains who have fallen roughly into three ‘factions’ or confederations. Your target is aligned with a foreign group much further south in the plains of ice beyond the mountains. These foreigners control their barbarians to such a degree that you are negotiating directly with them.”
+
+Ling Qi observed his face as they climbed the stairs. He laid out his points swiftly and with confidence. She also noted his choice of words. “I would word it differently. The White Sky Confederation and their Polar Nation appear invested in fully integrating the cloud tribes who have joined them. These tribes are mostly those furthest from the empire who reside in the harshest peaks.”
+
+Jin Tae mused, “How ambitious of them.”
+
+“Oh, you don’t believe they are puffing themselves up?” Ling Qi prodded.
+
+“Possibly. I have at least heard credible reports of true civilizations beyond the Empire’s shores though. So I would rather not assume. Regardless, I have studied the maps. These folk are too far distant to mount a credible military campaign against, should they stay in the southern foothills of the Wall.” He looked her in the eye. They reached the top of the stairs, facing each other in the room there. “And it seems their most likely military option against us is unleashing their auxiliary tribes with support in the form of equipment and safe infrastructure.”
+
+Ling Qi hadn’t quite considered it that way, but inferior talismans were generally a weakness of the cloud tribes, and their camps were considered their only real strategic vulnerabilities. “I’m glad that you are considering this effort in such a clearheaded way.”
+
+“It is an interesting little puzzle. It is enjoyable to turn over scenarios in the mind, isn’t it? Regardless, I do believe your approach is correct. There is no profit to be found in war with them at the present.”
+
+She nodded. That was probably the most helpful position she could hope for from the Ministry of Integrity and the capital. If he were more supportive, she would honestly be suspicious. Although perhaps that was a consideration of his? She liked to think no one was actively looking to sabotage the summit, but of all present, the Jin did have the most conflicts with the Bai and the Xuan, the Cai’s allies in the Empire.
+
+“War in the Wall will not be helpful anytime in our lifetimes. That is the reason behind my interest in this negotiation. The longer an association goes, the more sturdy it becomes, no?”
+
+That might be simplistic, but not outright wrong.” Jin Tae crossed his arms. “In the end, kingdoms and empires compete with those next to them, and some must lose so that others can win. It is because they are too far and out of competition with the Empire that I have some confidence in this effort. Should the borders come closer or transport formations advance, this may change.”
+
+That was sincere, she thought. “Not outright wrong.”
+
+He chuckled. “But as you said, that is not the foreseeable future.”
+
+Ling Qi would have to keep Jin Tae “in the know” on some level to satisfy Cao Chun and the ministry presence, but how did she want to handle that?
+
+There was an appeal in reaching out, trying to find if there was some commonalities she could speak to. It was her first impulse even. But she had to consider the practicalities. The Jin were opposed to both the Bai and the Xuan, their closest external allies, who she already had friends in. While she couldn’t say that was an intractable problem, she could not afford to spend the time on solving this problem. It was another way in which she simply wasn’t strong enough yet.
+
+And while Cai Renxiang would ultimately decide on the level of relationship tonight when they gave their reports, she also knew her suggestions would have a great weight. For now, she would recommend that it would be best to treat the Ministry and the throne with the respect they were due, but she couldn’t afford to give them too close an eye on their decisions.
+
+“It is not. Only the Great Spirits can see things so far ahead,” Ling Qi said. “We, who live here on the ground and under the sky, should focus on what we can see.”
+
+He laughed, covering his mouth with his hand. “Well said. Truly, did I not know any better, I would think you a scion of the old blood in these lands. Let me compliment you on your thorough assimilation, Baroness.”
+
+Ling Qi couldn’t pick out his intentions in those words. Sixiang found them ambiguous, too. In her gut, she felt it was a backhanded compliment. “I have been a thorough student.”
+
+“As one should,” he said agreeably. “One’s immediate environment cannot be ignored.”
+
+She nodded. “Regardless, should we proceed to the meeting hall above? We should arrange our reporting schedule, and I will need to hear your requirements, so that Lady Cai may decide if they may be accommodated.”
+
+She spoke very formally, never looking away from his face. Her language was very deliberate. The Ministry had power here, but it was not in charge.
+
+He gave a narrow eyed smile in return and tipped his head to her. “Yes, Baroness. Let us keep everything in order.”
+
+***
+
+She spent the better part of the next hour with Jin Tae in the partially constructed meeting hall above ground, speaking about the procedure for their interaction. She and Jin Tae would be the primary points of contact for their respective factions. He would be present during the arrangement of work team cooperation and any sharing of military planning, and he assured her that he would have latitude to approve decisions within certain limits. They would proceed from there.
+
+On a more personal level, once they had decided it, Lady Cai would have her provide Jin Tae with their diplomatic strategy and what immediate steps they would take, and they would promise to consider any advice which Cao Chun passed through Jin Tae in return.
+
+Advice, consider,  and “items of interest.” These words and phrases were and would be doing a great deal of work, Ling Qi thought grimly.
+
+<If you guys abused words any harder, I might have to call the language guardians,> Sixiang joked as they made their way out of the embassy house.
+
+Ling Qi wondered if spirits attached to the sanctity of language actually existed.
+
+<Not really. Human words change their meaning and character too swiftly. And they’re too closely attached to humans to have their own will. Can’t I make even one joke without you having to be all serious about it?>
+
+“No,” Ling Qi said blandly. She drew a nervous glance from the group of workers on the bridge span as she crossed it, some inches off the partially built structure. As she stepped down from the air onto the ground on the other side, she paused. The wind was blowing strangely.
+
+She tilted her head as a sourceless breeze tugged at her hair, carrying with it the faint cry of a crow. Convenient. She’d begun to worry that she would have to work out how to contact the foreigners without invitation. Being on the edge of troublesome in their timing was a foible of all cultivators of divination.
+
+“Upon your road south beyond its end, and approach the base of the Haven in the circle of five stones.”
+
+Ling Qi closed her eyes, considering the picture she had built in her head by flying above, seeing through eyes of silver that she surrounded herself with. She took a turn to the left where she knew the road would end. She had already seen and noted a gap in the trees there, and she had glimpsed stones similar to the warding stones they used.
+
+It did not take terribly long to leave the imperial road and enter the still unorganized woods. The sounds of life were still muted and distant, hidden under the sounds of movement and construction. That was no different in the south. The road she found there might be more winding, a trench dug and filled with gravel against straight gleaming stone, but it was still a road.
+
+And the circle of stones was no less impressive. Each stone was smaller than an imperial wardstone. Over the road, there was an arch made by three heavy blocks of smoothed rock, and another arch was on the other side. Three other stones were arrayed around, steles carved with meticulous pictographs and murals rather than flowing script.
+
+Waiting for her there were several people. The only one she immediately recognized was the Emissary Khadne, who had arrived at the tail end of their visit to the foreigners’ realm. She was from the White Sky’s Sibiar clan, which was the clan which had once inhabited the northern mountains of the Wall. They were the Ones Tsu had supposedly contacted long ago. As such, Ling Qi was hardly surprised to see her here as her clan would have to be a major player in this summit, regardless of their position in the larger confederation.
+
+Emissary Khadne was a woman of middling height and thick build, dressed in what were, to Ling Qi’s eyes, mannish clothes and heavy furs in the green and white colors of her tribe. Her complexion was similar to Ling Qi’s, and she wore her dark brown hair in thick braids looped and bound at the back of her head.
+
+“Emissary Ling Qi, an old crow carried to me words of your arrival and wish to speak,” the older woman said formally. Much of her thick accent from their previous meeting had been stripped from her speech. Ling Qi had no doubt that she had cultivated understanding of the Imperial language as thoroughly as Ling Qi had cultivated understanding of theirs.
+
+“It is well past time,” said the woman who stood to Khadne’s right. “Not even the most meager offering of bread and water has been given, and only the most perfunctory words of welcome.”
+
+She was as tall as Ling Qi herself with a complexion that was a few shades lighter. She wore a black dress with embroidery in red and gold down the front, which was mostly straight lines but held imagery of stylized vines and leaves between them. Over this, she wore a hip-length mantle of white and gold, and on her head, she wore a wrap of dark red cloth from which emerged long untamed brown hair. She had fierce eyes and a hawkish nose. Ling Qi could feel the tingling of her examination in her senses.
+
+“There must be some acceptance of strangeness,” Khadne said. “I must assume that your people do not consider us guests as of yet with both our houses yet unbuilt.”
+
+“That is so, and I apologize for any offense. For my people, this type of event is unheard of,” Ling Qi said. She had to stop herself from bowing. She’d discovered in looking back on her memories that it was seen as odd or inappropriately submissive. “May I know whom else I speak to?”
+
+She asked in their own language to show some respect.
+
+“The one who has spoken is the Emissary Dzintara,” Khadne said, gesturing to the other woman. Dzintara gave a short, sharp nod.
+
+“And I am Rustam, and this is my wife Inzhu,” said one of the two standing on Khadne’s other side. The man who spoke was short and wide, wearing an odd cloth hat with a bushy fur rim that threatened to consume his head. He had a thin mustache and face pockmarked with scars, burns mostly if she had to guess. He wore robes of brown and black with as much leather as cloth in their construction.
+
+The woman beside him, presumably the wife he had introduced, was different. She was taller than her husband but shorter than Ling Qi, and she wore a very strange conical hat marked with regular geometric symbols. From the caps tip, a white veil spilled down around her back and shoulders. The rest of her dress bore similar markings, and the whole outfit had more color than her husband’s. The layers of the gown were not much less intricate than Ling Qi’s own dress.
+
+“The Gessiar people believe that only a man and woman together may make a complete Emissary,” Khadne explained.
+
+“Of course this would be unfamiliar. This is why you must sometimes let others speak first, husband,” the woman said. She spoke more softly than the other emissaries Ling Qi had met, and if she closed her eyes, she could perhaps imagine that she were speaking to a lady of the Imperial Court.
+
+“Momentary confusion at worst!” Rostam said, chortling. “Hardly a spot on such a wait.”
+
+He was being kinder about it, but Ling Qi recognized that the complaint was not being dismissed. “Many preparations are being made. Our house is not yet ready to receive you. This land, which is no one’s, is merely a camp.”
+
+“It is quite a thing, your camps, that you would carve the mountains like a slain boar to make it,” Dzintara observed dryly.
+
+“The general is passionate about our defense. We do stand near hostile territory,” Ling Qi said calmly. “But it is the lack of communication which I am here to remedy. I offer you my welcome, emissaries, and should you wish it, I am prepared to break bread with you.”
+
+Sharing of food as an initial gesture of good will was common across many groups, and she had decided to put some in her storage ring after speaking to Xuan Shi and reviewing her memories.
+
+“That’s well enough then, isn’t it?” asked Rostam, pushing up the brim of his hat. “Two strangers camping on the same plain, that is more what we are, no? If we’ve seen each other's fires now, that will do.”
+
+“As you like,” said Dzintara, not sounding too convinced.
+
+Khadne clapped her hands. “That will do, Emissary Ling Qi. But let me first complete our introductions here. Here with me, Emissary Rostam and Inzhu and Emissary Dzintara represent our connections with the other confederations of our nation. In the east, the Seared Lands Confederation”—here, Rostam nodded, and Inzhu inclined her head—“and the Tangled Pines Confederation in the west.” Dzintara acknowledged this with a nod as well.
+
+Ling Qi lowered her head a little to both sides. “Will there be a representative from the south as well? I recall that is the direction of your capital.”
+
+There was a beat of silence, and none of the women showed any change of expression. There was only a faint curl at the corners of Rostam’s lips, as if he found her words amusing.
+
+“The Glittering City does not intend to interfere,” Khadne said formally.
+
+Ling Qi considered this. “Then in the spirit of openness, I will inform you that our empress has sent observers. The Emerald Seas, however, remains in authority over these negotiations.”
+
+She watched their faces as she spoke. Although a few glances were shared back and forth and Dzintara’s eyes narrowed in consideration, nothing else was given away.
+
+“What role, these observers?” Emissary Inzhu asked.
+
+“I believe they are similar to your old crows…They will watch for actions and intentions that soldiers might not see,” Ling Qi said carefully.
+
+“Understandable,” Khadne said. “We are yet strangers meeting in unclaimed land.”
+
+“Yes. In addition to representatives of the Emerald Seas’ other clans, there will be representatives of two of what you would call our confederations with a third that is observing.” Meizhen and Xuan Shi. Plus, she had to account for Zheng Fu now. “I do not believe they are as close as what you have implied for yourselves…”
+
+Another glance between them.
+
+“The Gessiar are both White Sky and Seared Land,” Inzhu provided.
+
+“So it is with my Latia, and the Tangled Pine,” Dzintara added.
+
+“I thought as much. The ones I speak of are allies, but not part of us,” Ling Qi said.
+
+“All of this sounds like hungry discussion,” Rostam said, rocking on his heels. “Shall we have it over our bread?”
+
+“I can agree to this,” Dzintara agreed.
+
+“As do I,” said Khadne.
+
+“Very well then,” Ling Qi said. “I believe I observed a large enough clearing some distance north and east of here. Please follow me.”

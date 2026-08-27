@@ -1,0 +1,141 @@
+---
+id: 66f1fcaa-a06f-5294-996b-70792070fec3
+page-type-slug: story-chapter-royal-road
+title: "Threads 163-Dolls 1"
+slug: 0193-threads-163-dolls-1
+partOf: forge-of-destiny
+position: 193
+ownLength: 2480
+unit: words
+publishedAt: 2021-12-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/808737/threads-163-dolls-1"
+royalRoadId: "808737"
+---
+
+In the end, it was hardly a choice. There was only one person who she really knew well out of the four. She doubted Cai Renxiang would be pleased to have her privacy invaded, but she was also pragmatic. Her liege would understand.
+
+Ling Qi nodded tersely to the spirit and stepped up to the other girl, a single stride crossing the gulf of white. She had never taken the step of entering someone else’s dream before, but here, with the world thinned by the power of the ice spirit, she was sure she could do it.
+
+<I’ve got your back,> Sixiang murmured. <It’ll be just like learning the new steps of a dance.>
+
+Ling Qi looked at Cai Renxiang’s frozen expression and the ominous glow under her cloak. She could “see,” if she really focused her senses, the fragments of imagery in Renxiang’s spirit, the pulse of thought traveling through her aura.
+
+“Hanyi, Zhengui, keep an eye out for me while I do this,” she ordered. She didn’t want to bring them in with her. Not only would it be harder, but also there was no reason to expose whatever dream her liege was in to others if not necessary. Her spirits’ grumbling responses were expected, but she wouldn’t budge on this.
+
+Taking a deep breath, Ling Qi reached out, giving herself a focus for contact with the girl’s unyielding spirit. The feeling translated felt like grasping unbending steel with the texture of porcelaine.
+
+With Sixiang’s guiding whisper in her ear, she tugged aside the veil.
+
+***​
+
+Ling Qi gasped, her hand flying to her chest as her heart thundered in her ears. Entering Cai Renxiang’s dream had been incredibly uncomfortable, like being pulled apart, reassembled and then forced through closely spaced metal bars. However, she could feel she was not in the material world anymore. Why, then, was it so dark?
+
+A faint sound drew her attention, and she glanced down to see something strange rolling out of the slowly lightening dark. It was a child’s toy, a carved wooden horse set on a wheeled platform. Richly painted with white fur and a golden bridle, it seemed almost real in its detail. It slowly rolled across the polished wooden floor to her feet, making a quiet squeak with each rotation of its wheels. One of them was worn or damaged.
+
+It bumped up against her foot, and only then did Ling Qi notice the line of dark liquid trailing its path. Raising her head, peering back along the toy’s path, she met yellow and crimson eyes. She flinched without thinking, stepping back from the ominous weight of those eyes before she even had time to take in more than their color. When she did, she wanted to take another step back.
+
+It bore the shape of a young woman sitting haphazardly on the floor, chin resting on one knee. Before it was an array of toy soldiers, their paint shining like real steel. It was a grand collection with many horses like the one by her foot, save that they still had riders, officers with colorful banners upon their backs.
+
+The missing rider was held loosely in the thing’s porcelain white hand. The hand wasn’t flesh though, but white cloth or silk constructed with stitchwork so fine that Ling Qi would not have been able to see it if not for the welling blood which dripped from beneath the seams, staining the toy in its hand.
+
+Ling Qi swallowed hard as she stared into the thing’s eyes. They weren’t natural and looked instead like the painted glass eyes of a doll, glowing beneath a veil of black hair that concealed the rest of its face.
+
+“... Liming?”
+
+The spirit let out a growl so low that Ling Qi could feel in her bones more than hear it in her ears. More details of the room continued to resolve. There was a small but richly upholstered bed and bright wall hangings. An entire wall had been taken up by polished bookshelves stuffed with tomes large and small, their spines smeared with bloody handprints.
+
+She glanced behind her where the dream mist remained and saw Sixiang, looking frustrated as they stood on the other side of bars of polished steel. Their lips moved, but no sound escaped, and the sight of the lips was blurred beyond reading.
+
+Ling Qi looked back to see the spirit, Liming, stand. Its movements were unsettling. The movements weren’t jerky or inhuman in the slightest, but nevertheless, watching them was deeply distressing in a way Ling Qi could not put to words. Its body was a rich gown of white and gold embroidered with dozens of crimson butterflies, each of which glittered wetly in the dim and sourceless light. A bare foot kicked over rows of soldiers as it stepped forward, and Ling Qi could swear she heard screams in the clatter of wood.
+
+Ling Qi took another step back, raising her hands. “Liming,” she placated. “I’m only here to help. I need to wake Cai Renxiang up. That’s all.”
+
+Liming paused, staring at her with burning, glassy eyes. As her senses grew used to this place, Ling Qi could feel the texture of the power that boiled up between Liming’s bleeding seams. It was anger and pain and resentment, so thick that she could nearly taste copper and ash on her tongue.
+
+But little of that feeling seemed focused on her, and she saw the spark of comprehension in its eyes.
+
+Liming was capable of understanding her. That was good. Licking her lips, Ling Qi continued,  “If things go badly here, then the mission the Duchess—”
+
+The room rattled as Liming snarled, its gown rustling as a sourceless wind erupted from the force of the sound, and Ling Qi saw the spirit’s face for the first time. Her eyes widened in shock as she stared at the face of her liege.
+
+Its face was flesh, not like the cloth that formed the rest of the spirit, and its glass eyes were rimmed in red where the artificial met the natural. But Liming’s lips were stitched shut, held closed by a neat cross stitch of steel thread, binding its lips completely shut. Ling Qi was thankful the high collar of its gown hid any further seams.
+
+Ling Qi felt her stomach churn at the implication of the shared face. “I’m sorry,” she apologized quickly, not entirely certain what had set the spirit off. The Duchess? She was the one that had made the spirit!
+
+... She supposed that Cai Shenhua had made Cai Renxiang as well.
+
+“I just want to help,” she continued. “Please let me talk to Renxiang?”
+
+Liming approached, gown and hair settling, and Ling Qi held very still as it looked her over. There was a deep inhaling of air, and Ling Qi felt her hair flutter as the shadows behind Liming deepened into the vague shape of something far larger. It reached toward her with bleeding fingers, fingers she now noticed were marked by rougher stitching at their tips. It was as if they had been chopped off and replaced.
+
+Then a flush of heat emanated from her gown, and Liming’s hand stopped short. The spirit let out a low hiss, less enraged than its other exclamations. Ling Qi felt, for the first time, the pressure of its—her—presence lessen.
+
+Ling Qi kept her peace. She didn’t know enough to say what would convince the spirit and what would anger her.
+
+Liming turned away from her, and there was a click as the bedroom door creaked open, just a little. Ling Qi breathed a sigh of relief as the spirit padded away, crouching down to begin sorting through scattered toy soldiers, reassembling their exacting formation.
+
+Looking over her shoulder, she shot the worried looking Sixiang a smile. Sixiang frowned at her but nodded, giving her a thumbs up.
+
+Ling Qi headed for the door. That was the first obstacle down.
+
+***​
+
+The light that struck her eyes was nearly blinding. Ling Qi shaded her eyes, blinking away the spots born of the sudden change.
+
+She stood on the roof of a large home in the middle of a bustling town. Faintly, she heard the click of a closing door behind her, but glancing back, there was only air. Even feeling at the fabric of the dream, she felt only an impassable wall of unwelcomeness.
+
+That was fine. She had no desire to re-enter that unsettling room.
+
+She turned her gaze back to the town, letting three silver wisps spin out to widen her range of vision. What she found was shockingly mundane. People worked and traded and talked, going about their day on streets laid out in geometrically perfect rectangles. The streets were paved with clean gray stone, marked only by the day’s dust. Even as her wisps rose, peering out past the high curtain walls, she found the town only continued much the same, minus a certain degree of lavishness.
+
+Something about it bothered her, and it took her a moment to realise what it was. People were happy, but it wasn’t some unnatural forced cheer. She watched an official and a merchant dicker over fees. Coin changed hands, but the merchant showed no resentment and the official lacked the smug air she associated with governing officials. Further out, a pair of guards patrolling the dusty but well kept lanes in the farmers market chatted amiably with a man and his wife, their weapons holstered.
+
+There weren’t any beggars. No dirty children looked for marks among the crowded market stalls. No glowering toughs shied like beaten dogs from the guards and raised their hackles to everyone else.
+
+When Ling Qi landed in the street below her rooftop entrance, people startled, and many bowed, but it was in respect rather than fear. It was bizarre enough that she didn’t notice the cracks at first. Individuals she didn’t focus on were subtly artificial in their movement, their faces blurred. There was a repetitiveness to the actions taking place that gave everything in her peripheral vision an uncanny air.
+
+She suspected a vision like this was a strain on a spirit as wild as Black Skies Yearning. The spirit  was, Ling Qi knew too well, a personal sort of desire, a mismatch for the desires of one such as Cai Renxiang. How then was she tricking the girl? Sheer brute power overriding her senses or…?
+
+Ling Qi’s wisp spun toward the innermost ring of the city where a modest manor in the town’s center saw a long line of officials entering and leaving the well kept grounds in a continuous stream. Of course, Renxiang would be buried in work, even in her dream of a perfect world.
+
+Ling Qi cast one more glance at the imperfect illusion around her and then away. Somehow, even when she had resolved to follow Renxiang, some part of her had still failed to even picture the world the girl wanted. She’d thought of immaculate figures dancing in the Duchess’ City of Steel.
+
+This didn’t seem so bad.
+
+No one barred her path as she made her way to the governor's manor. The guards at the gates even ushered her past the line of waiting officials, who bowed their heads when she looked at them.
+
+It took little effort to find Renxiang either. The maze of bureaucracy parted before her like water, leading her eventually to a well lit study. There, she found Renxiang sitting behind a large desk arranged such that it was perfectly centered between a pair of high corner bookshelves. The girl sat in a low backed and austere chair of pale wood. She looked older, Ling Qi realised. It wasn’t the matured lines of her face that made Ling Qi stare though; it was the girl’s clothing. Renxiang wasn’t wearing Liming.
+
+Her gown was still mostly white and gold, but the red was reduced to small butterfly-shaped broach at her throat and the underlayer of the gown was a pale sky blue. Her hair was trimmed short as well, cut just beneath her ears. It was such a small, austere change, and yet for Cai Renxiang, it stood out as sorely as a second head.
+
+“Did something urgent turn up on your inspection, Baroness?” Cai Renxiang asked, not looking up from the document on her desk. The brush in her hand continued to move quickly and precisely, filling in the text, a set of promotion announcements, it looked like.
+
+“Nothing of the sort.” Ling Qi stepped inside the office. “I have my eyes out though.”
+
+“You are early then. Our tea luncheon is scheduled for sixty-five minutes hence. There is still a great deal of work to do yet on the transfer.”
+
+“Transfer?” Ling Qi asked.
+
+Finally, Cai Renxiang looked up, exasperated. “Yes, Ling Qi, the transfer to the capital. Mother sent her announcement that she would be retiring to closed door cultivation just this morning. Do not tell me it somehow slipped your mind.”
+
+“Of course not. It just seems unreal still,” Ling Qi deflected, studying the girl more closely.
+
+Despite Renxiang’s exasperated expression, there was something which felt off about her. Again, it was such a simple thing that it took a moment to process. Renxiang was happy. The habitual closed nature of her body language and expression was lightened in a way that felt bizarre.
+
+Cai Renxiang shook her head slightly, turning her eyes back to her work. “You are qualified for your promotion to viscount, Ling Qi. We have had this conversation before. You have my full trust that the administration of this region will remain in good hands. Now, we have our luncheon scheduled, and we can speak further then. I need to finish these documents before…”
+
+“Lady Ren, it is time for your appointment!” a voice called.
+
+“Before that, yes.” Renxiang sighed.
+
+Ling Qi turned toward the source of the voice. There, behind her, stood Lin Hai in all of his fabulous glory. He leaned languidly against the doorframe, smiling impishly. “Oh, Lady Ren, don’t be like that. I know you have been looking forward to seeing what I have come up with for your coronation gown.”
+
+Ling Qi stifled a frown. Unlike the people outside, the officials, the supplicants, and the citizens, there was no edge of unreality or unfinished air to Lin Hai. The fabric of the dream was so much more solid here in this office and in his person.
+
+Behind her, Renxiang sighed as she carefully blotted the ink on the document before her. “I suppose I have, Uncle.”
+
+Lin Hai glanced toward her. “Something wrong, Miss Ling?”
+
+“Just surprised to see you here,” Ling Qi said quietly.
+
+It looked like the spirit was right. There was at least a little selfishness in her liege. She was beginning to see the shape of this dream.

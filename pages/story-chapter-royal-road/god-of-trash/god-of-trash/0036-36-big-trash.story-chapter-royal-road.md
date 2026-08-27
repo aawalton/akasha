@@ -1,0 +1,87 @@
+---
+id: e0121151-a5eb-558e-91cd-63923da215dd
+page-type-slug: story-chapter-royal-road
+title: "36. Big Trash"
+slug: 0036-36-big-trash
+partOf: god-of-trash
+position: 36
+ownLength: 2797
+unit: words
+publishedAt: 2025-03-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2162014/36-big-trash"
+royalRoadId: "2162014"
+---
+
+Rhys sectioned off a portion of the trash that felt more-or-less equivalent to one of his impure potions, piling the rest to the side to add on later. He wanted to push his limits, but not too much. The first impure potion sip had almost gone too far, and now he was a little more wary of carelessly shoving up the upper limit of impurities he took in at one time. He didn’t want to almost kill himself again. Better to be a little more cautious and approach this one step at a time until he could take on massive amounts of this upper-peak trash.
+
+Looking at his pile of trash, Rhys grinned. Activating stalker mode! He dug into it. One piece at a time, he went through everything he’d gathered so far, searching for any interesting letters or tidbits of paper. The rare organic trash he set aside, for making yet richer fertilizer later. He hadn’t forgotten how much Sorden had paid him for those herbs. If he grew herbs with the fertilizer from the upper peak, would they increase in quality yet again? He wasn’t sure, but he was game to try.
+
+As expected, the trash that had flown this far had been out here for some time. The paper was weathered, the ink all but washed away. What little he gleaned was only what he already knew—that the Infinite Constellation School was a poor, small school, with few connections and little power. It owed large debts to nearby schools, which it slowly paid off, but which were often leveraged to force Aquari or the other teachers into tasks that they had no desire to complete. Rather than a noble mage of great standing, their Schoolmaster, Aquari, was more like the bullied kid who could only bow her head and act as a gofer for the more powerful Schoolmasters. From what he read, she was at the absolute lower limit one could be to qualify as a Schoolmaster, and consequently, she wasn’t able to act freely very often. Instead, she was bossed around and treated like trash.
+
+Well, I knew that.
+
+There was nothing, however, about the upcoming ‘guest teacher,’ or even an indication of what school he’d be from, or what Tier he was. To find out that kind of thing, he’d need much fresher trash than the long-lost dregs that had fluttered through the woods to the edge of the barrier. It wasn’t that surprising, in all honesty, that he didn’t find anything out yet. It was fine, too. He planned to pick up every piece of trash on the upper peak. He’d find out eventually.
+
+He set the trash he wasn’t going to burn to the side, nearby enough that he could reach for it and add it on later. With all his pre-treatment done, it was time to get down to business and burn some trash. Rhys clapped his hands and rubbed them together eagerly. Here we go!
+
+He touched a match to the pile. Fire crackled, quickly growing. The familiar dark smoke leaped up, and Rhys breathed it in.
+
+It was powerful. Mana flowed into him, and with it, impurities. Fewer of them, but with each one individually more powerful than any impurity he’d felt before. He breathed deep, excited.
+
+The smoke poured in. It was powerful, but his limits had expanded from his early days. He had enough mana to send it into the compost, but that was it. His limits weren’t stretched. He was simply able to take in this much mana.
+
+Hold on. That’s no good! Rhys grabbed a hunk of nearby trash and threw it on the pile. The mana flowing into him grew stronger, but the smaller amount of impurities flowing in with the mana meant that only his mana limits were pressed. The impurities, too, were stronger, but they didn’t possess the piercing qualities of the hyper-concentrated impurities from the potions, or even a corrosiveness that exceeded that of ordinary impurities. Or rather, they were more corrosive, far more corrosive, but there were so many fewer of them that Rhys still had a good handle on keeping them in check.
+
+Rhys’ brows furrowed. His impurity limits weren’t pressed by this. That wasn’t good. He needed to raise the quantity and quality of impurity he could absorb, not simply expand his mana capacities.
+
+He was at his very limit, his core stretched like a balloon about to pop even with spewing off mana to make compost, so he couldn’t add any more to the fire, but as he sat there, Rhys thought to himself, his brain working overtime. How could he make these impurities more dangerous, so he could use them as a stepping stone toward the toxic pit?
+
+The first answer that came to his mind was concentration. But how? This wasn’t the leftover scum in a cauldron, this was trash. Cauldron scum had been a potion, at some point—a liquid. By adding a few reagents, he could coax it to re-enter that liquid state, then concentrate it into a potion. How did he concentrate trash? Trash was… things. Anything. A piece of charcoal. A tossed-aside fork. Bent metal, a clump of paper, a rotten apple, a ruined waterlogged book crawling with mold. If he put all that in a cauldron, he didn’t even know how he’d go about melting it down. How did one melt an apple, in the first place? A book? He was sure it was possible, but through complex chemical or magical manipulation that was far beyond his pitiful skills and comprehension.
+
+I could just burn more, he considered, but given that he was at his mana limits now, from this small amount of trash, he’d have to slowly ramp up over a long time to push his core to be large enough for him to absorb a significant amount of impurities. Years, even. It was an option, but not one he relished taking. That impure pit would sit there, waiting, the whole time. At any point, someone else could come along and swoop it up, and then where would he be?
+
+Not that many other people had an interest in trash, of course, but who knew? Maybe there was someone who came along and emptied the pit every century or so. He didn’t know, and it made him profoundly uncomfortable to leave such a valuable source of power sitting there for so long.
+
+Rhys took another deep breath, then widened his eyes. Would that work? He looked at the smoke, then reached into his storage ring. He’d put some tidbits in there that he’d found in the garbage that seemed useful. Bits of string, long straight sticks he could use for bonking, twisted bits of metal that might serve as caltrops or thrown weapons. Now, he pulled out one of the items. A huge, stained bedsheet. He’d washed it thoroughly, but the mysterious stain refused to completely come out. It was clean, though, and it would serve his purposes today.
+
+By now, it was relatively simple for him to disconnect from the trash’s mana stream, at least with a pile at this level, where he was relatively under control. Running around the edge of the burning trash, Rhys tied the sheet into the trees, high over the fire. The smoke now had to pass through the sheet to escape.
+
+Rhys touched the sheet and called forth Trash Intent. His mana flowed through the sheet, strengthening it, and closing the gaps between the fibers. Now, it was a complete thing, a whole, powerful piece of fabric that couldn’t be singed by a passing ember. More importantly, without gaps between the fibers, there was nowhere for the smoke to go. It collected in the sheet, catching all the impurities he might have let escape, even with breathing the smoke.
+
+One hand pressed to the sheet, Rhys returned to absorbing the trash mana, but this time, he deliberately excluded the impurities as well as he could, by forming a dense net of mana strings at the opening of his mouth and nose. It was far denser than his previous net, which had only sought to make the passing impurities smaller. This one strove to keep them all out.
+
+His mind blurred. Between activating Trash Intent to its limits, forcing it to create an impermeable barrier from a cheap old sheet, and creating the mana net at his mouth, he was pushing his mental strength to its limits. He instinctively sensed he couldn’t keep this up for long. It was a good idea, capturing all the impurities and breathing none in, so that he could concentrate the ashes into a potion later, but impractical. He wasn’t powerful enough to maintain both yet. If not for the trash mana pouring in, he wouldn’t have had the mana for it, and as it was, his core was emptying of mana even with the mana he gained every moment. He was losing mana on this exchange.
+
+Rhys held on, wracking what little remained available of his brain for a solution. Abruptly, his eyes widened, and he smacked himself in the forehead at his own stupidity. If Trash Intent could keep the impurities in the smoke in, why couldn’t it also keep the impurities out of his body? He reached into his storage ring and drew out another, smaller scrap of fabric. This one was finer, as well, from one of the nice pieces of clothing he’d found in the trash heap outside his hometown. He wrapped it tightly over his nose and mouth, then deactivated the mana-thread net and, for the first time, activated a second simultaneous Trash Intent.
+
+Instantly, he felt his mind and body reach their utter limits. He no longer lost mana, but two activations of Trash Intent simultaneously were almost more than he could bear. Trash Intent meant understanding the item intimately, every fiber, every crack and hole, every twist and tear. He had to hold the whole item in his mind, or else lose it. In some cases, the item’s own intent would speak to him, like when he used a table leg to resurrect a table, filling in the gaps of what had been; in other cases, like with this scrap of fabric, the item had long forgotten its own shape, and so instead, Rhys was forced to wrap his mind around the item and hold it there, in the shape he desired. The sheet had its own intent, but he wasn’t relying on that. Instead, he was forcing it to take on the shape he desired, which likewise pushed Trash Intent to its limits.
+
+A splitting headache immediately assaulted Rhys’ mind, and his focus wavered, barely holding on. Between the two options, this one he could keep up indefinitely, but it pushed his mind to its absolute capacity. He’d thought he’d been straining before, but then, he’d still had brain to spare on thinking up new solutions. Now, there was no brain to spare. His whole world boiled down to these two objects. He was aware of nothing but the scrap of cloth, the sheet, and the mana that rushed in with every breath. The headache hammered into him like a sledgehammer beating an ice pick into his skull. His head pounded with each beat of his heart. Black dots swam between his vision, and darkness encroached on its edges.
+
+There were still impurities in the mana, but far, far fewer, so few that, were he able to think, he might have suspected that other mages who avoided impurities would have been satisfied with the outcome. The sheet, on the other hand, let no impurities through. He needed mana and air to pass through the cloth over his mouth, and some tiny impurities slipped through along with those two. The sheet was an impervious barrier. He didn’t need to let anything through it, and so he didn’t. The smoke collected there, thick with impurities, then condensed and fell back down into the fire. Through the horrific headache and his utterly split focus, Rhys could barely sense impurities gathering in the ashes with every passing second.
+
+The flames burned down. The mana ran out. Rhys lowered his Trash Intent, and gasped as the pain faded from his head. It felt like a breath of fresh air, like sunlight after a thousand years in the dark. The relief from the pain was profound, utterly lifting all the weight off his body.
+
+He hadn’t made any leaps and bounds in strengthening his body. He only had a few impurities, not enough to burn. His core, on the other hand, was larger. Not hugely larger, but increased in size by enough that he was satisfied with his growth.
+
+Rhys drew out his favorite slightly-beat-up cauldron from his storage ring and, using a broken shovel Trash-Intented back into its true form, shoveled the ashes into it. He delicately brushed off the sheet as well, pushing any of the impurities clinging to its fabric into the cauldron. The result was barely enough to fill a tenth of the cauldron, and even then, he’d shoveled in plenty of ordinary ashes along with the impurities.
+
+He dusted off his hands and grinned. Nine more fires to fill the cauldron? No problem. It was time to get to work.
+
+His first order of business was to cart the compost back to his old hiding spot, where he tested it on his garden. Just adding the new compost, without even adding any of his own mana, the plants instantly bloomed, surging taller, putting out new leaves and fresh stems. Buds unfurled, stubborn sprouts grew taller, and seeds that had lain dormant suddenly sprung up. Still riding high off the tide of his previous absorption of mana, Rhys fed the plants until they were ready to be harvested, then plucked, chopped, and picked the best sprigs, with a note to stop by Sorden later to see if she’d be interested in buying another round from him. It had been long enough by now. She’d probably need more.
+
+He didn’t have enough for a second batch of the same size as the first at the higher quality with the new compost, though, so he returned to the upper peak shortly after. Burn trash, filter out the impurities, fill the cauldron, take the compost down, grow the herbs, return to the peak. Like that, his days took on a familiar loop, as he rushed up and down the mountainside. His legs grew stronger from all the climbing and descending he was doing, and he grew faster as well. The other students, used to seeing him rush around, didn’t comment at all, except to complain when he neglected the lower peak’s trash a bit in favor of focusing on the new, stronger, upper peak trash.
+
+Ten days in, he’d finally cleared the outlying forest around the Schoolmaster and her friends’ dwellings of scraps of trash. He left the far-flung regions of the upper peak alone. His instincts told him nothing but death awaited him, and the piles of horrific-smelling droppings and large clawed paw prints agreed. Some fearsome beast or beasts lived on the peak, and he would be foolish to wander too far from the peak in search of trash, lest he end up in that beast’s belly instead.
+
+Rhys shoveled the last batch of impurities into his cauldron. Ashes filled it to the brim. There wasn’t a single space for anything but impure ashes and impurities. As he finished filling it, and gave it a final pleased tap-down, he suddenly hesitated and looked it over again. A whole cauldron, filled to the brim with impurities. Not just any impurities, but larger and more powerful ones than the ones he’d concentrated from the potion gunk. When he’d made that, the cauldron had exploded with enough force to impale him with metal. What would happen when he tried to brew this cauldron into an impure potion?
+
+Rhys licked his lips. He nodded slowly. I might have fucked up.
+
+A second later, he steeled himself. It was just like when he’d burned the trash on the peak. He wouldn’t get anywhere if he played it safe and cautiously filled the cauldron with only the amount of impurities that he was sure he could handle. Mages grew by pushing their limits. He had to step outside of his boundaries, outside of his comfort, and push himself, or he’d stagnate like the trash he was at heart.
+
+Besides, that potion gunk was deliberately made volatile by Alum. I can’t judge this ash’s explosiveness from that.
+
+So decided, he faced down the slightly beat up cauldron and took a deep breath. It was time to concentrate the impurities, part two.
+
+Hopefully without exploding the cauldron this time.

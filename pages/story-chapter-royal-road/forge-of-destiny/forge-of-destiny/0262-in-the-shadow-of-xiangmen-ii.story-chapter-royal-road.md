@@ -1,0 +1,43 @@
+---
+id: 52e1bd5b-6be8-51f8-ac50-0ef0a249dfe0
+page-type-slug: story-chapter-royal-road
+title: "In the Shadow of Xiangmen II"
+slug: 0262-in-the-shadow-of-xiangmen-ii
+partOf: forge-of-destiny
+position: 262
+ownLength: 541
+unit: words
+publishedAt: 2022-06-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/938963/in-the-shadow-of-xiangmen-ii"
+royalRoadId: "938963"
+---
+
+The turmoil of the earth sends the branches of heaven swaying, the leaves rustling as has not been seen since beasts last ruled the earth. Among the clouds and palaces, the thrones of the gods shake. At last, the Lords of Heaven, those liars most sublime, stir in their webs.
+
+Even now, they suspect. They pluck the threads of their plots, seeking out which one of them has brought this, whose scheme had escaped their control. In heaven, the gods bicker as the world burns.
+
+But on the highest throne, the Dreaming King, Lord of Heaven, Master of Realities, One Whose Words Create the Truth, Bearer of the Word Dream, and Patriarch of Liars, awakens from his cultivation. He brings his kin to heel with a word. Their worlds become his world.
+
+If the earth rejects the dream sublime, it shall have a nightmare instead. The artifacts of the Diviner, the fortifications of mighty Xiangmen, ignite with power not seen in ten thousand years.
+
+On earth where the future marches, the world twists and breaks. The sky becomes the color of bruised flesh, and the earth tilts beneath their feet. Heaven grows dark with wrath.
+
+The veil between flesh and spirit rips like long rotted flesh, and Nightmare descends on the earth. From the rips in the veil, cruel dreams pour like rivers of tar, consuming the earth in their wake. Madness distorts the air, with visions of hell, of kinstrife, and of betrayal fill every mind. The web spreads, and each man and woman stands alone, surrounded by a sea of foes, smirking devils with familiar faces, but avarice in their eyes.
+
+Nightmares whisper on the wind of failure and of punishment. They speak of assassins in the dark, already punishing the kin of those who would dare to shake god’s throne.
+
+A web, vast and glittering, consumes the bruised sky, and at its center, atop the crown of Xiangmen, is the shadow of a vast spider. Its blade-like legs stretch across the sky, its immense and bloated body titanic beyond all reason, and its eight glittering eyes see all that is worth sight. They look upon the dirtied hosts and the beasts of the earth without understanding.
+
+Futile. It declares this.
+
+Worthless bloodshed. It accuses. They would cast down god, and for what? To bring chaos? To scrabble, betray, and be betrayed in the rubble of his throne?
+
+Impudence. The beasts of the earth cannot master themselves, only be mastered by heaven. What madness to think that the order of the world might be defied!
+
+What petulance to reject the sublime dream of their masters, to interrupt their communion, to stain their canvas and ruin their songs, to drag them from the halls of enlightenment to deal with this tantrum!
+
+Mercy! To the first who would see this madness put to right!
+
+The war songs die under the weight of the marchers’ sins. The rebels tremble, the fire which had burned in their hearts now so distant, wondering if the one beside them will be the first to turn or if they themselves should take the first step.
+
+A rose blooms: a throne, a pedestal, a stage. Light, colorless and radiant, shines. An ideal answers the challenge of god.

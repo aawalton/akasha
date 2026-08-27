@@ -1,0 +1,165 @@
+---
+id: d65e9441-a7b4-51fc-87b5-f0678e4b21ed
+page-type-slug: story-chapter-royal-road
+title: "Threads 459-Roadtrip 1"
+slug: 0504-threads-459-roadtrip-1
+partOf: forge-of-destiny
+position: 504
+ownLength: 2334
+unit: words
+publishedAt: 2025-07-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2417703/threads-459-roadtrip-1"
+royalRoadId: "2417703"
+---
+
+Ling Qi glanced out the window as they rounded a bend in the road. The dense growth was thinner here, allowing a glimpse of the northern sky through the window.
+
+"Biyu, look, you can see Xiangmen." She defused the impending sulk by drawing the younger girl's attention to the shadow which rose on the horizon, strangely still compared to the blurring speed of the rest of the landscape. At this distance, it was only a dark pillar rising into the sky with a haze of green, like a cloud around it. Since Xiangmen's leaves blocked no light, they looked strange.
+
+"Oh, big tree. Sis-y is going?"
+
+"All the way to the top."
+
+Biyu squinted at the silhouette rising from the horizon. "Doesn’t look big."
+
+"It is, though," Ling Qi corrected. "It's just very far away. "It's even taller than the mountains back home."
+
+"No! Trees aren't mountains!"
+
+"This one is, and people live on and in it, like beasts and birds do in normal trees. Xiangmen holds them all. More people live there than Shenglu, or White Cloud, or Tonghou, or even all of them put together."
+
+"Really?" Biyu asked, her suspicions breaking down easily under the cadence of Ling Qi's voice. "Can I go?"
+
+"Not yet." Ling Qi raised her finger to point toward the crown. "Like I said, your sister is going all the way up there to the top. There isn't air for little girls to breathe up there, so Biyu will have to wait for now."
+
+"And your sister is going there on official business. Her work is very important," Mother added. "It would be better to wait until she is able to show us around."
+
+"Yes. I won’t have much time outside the wedding and all the meetings Lady Cai has set up. She had already heard of the guest list, and it was intimidating."
+
+Mother nodded, a nervous tic in her cheek. Ling Qingge still worried over her too much.
+
+Not that there was no basis for it. The empress was attending the wedding, if only in simulacrum form. That was one meeting she was thankful she’d have no part in, being far, far above her head. She felt for Renxiang, who was required to participate in that level of social circles during the official ceremonies.
+
+"Oh, yes, your sister will be talking about lots of boring things," she said, wisely leaving out the glamor and magnificence likely to be on display for the wedding ceremony and the city-wide festivities which would occur in its wake.
+
+Biyu pouted, but snuggled up to her. "Sis-y bring presents?"
+
+She met her mother’s eyes over Biyu's head and smiled. "Of course. Hmm… I remember I visited an apiary last time. There were men being carried in harnesses by the bees, out on the farthest branches. Your sister was so far in the sky she couldn't even see the ground beneath them. Does my sister like honey? I've heard the kind they make is some of the best."
+
+"Umm." Biyu was wide eyed as she turned to look at Mother.
+
+"You do. The 'yellow sauce', remember?" Mother reminded her.
+
+"Oh! Sweet! Yes, Biyu likes honey!"
+
+Ling Qi chuckled indulgently. She'd have to try a little herself while she was at Xiangmen. Cai Renxiang had some in her belongings, but a thief knew which treasures were not to be touched.
+
+"Hey, Sis, tell Biyu more about the mountain tree?"
+
+She gave her sister a curious look.
+
+"Well, Xiangmen is the biggest tree. It was where everyone's greatest ancestor, Tsu, hid his family when he fought the bad beasts which ruled the forests a long time ago."
+
+Her sister's head bobbled. Even a child heard the basics of that story. "Strongest Grandpa!"
+
+"That's right, Strongest Grandpa Tsu." Ling Qi chuckled, though her mother winced at the disrespectful title. "Xiangmen is the heavenly pillar in the story. It holds up the sky and shelters everyone in it. That's why it's so big, and why all of the cultivators like your sister gather there."
+
+"I'll be a pretty faerie and go there, too." Biyu yawned, blinking rapidly and trying to fight off drowsiness.
+
+Ling Qi considered her next words. What would be the best way to draw Biyu’s attention away from that resistance and let nature take its course?
+
+"Its roots go all the way down into the earth, beyond anyone's sight. Its trunk is wider than a mountain. People live in the big halls winding through it, in homes grown and sung from the living wood. And up at the peak, past the clouds, there are palaces in every shape and color."
+
+She let just a mote of qi work its way into her words, enhancing them. Biyu nodded absently, eyes distant, clearly seeing the picture painted with her words on the back of half-closed eyelids.
+
+"And up there in the wide blue sky on branches bigger than roads, you'll see Tsu's great palace, a manor like no other, built around a single branch. It’s made from all living wood, shining marble, and clear glass," Ling Qi murmured, resting a hand on Biyu's head and listening to her breath grow more even and shallow. "There are gardens there as sprawling as forests, countless cultivators, faeries like your sister and greater lights still, with beautiful dresses and magnificent robes, and a thousand years of painting and tapestries. All the gathered beauty of the province has been brought together in one shining place."
+
+She wove the vision of the capital as it could be, as it maybe should be, in soothing whispers. A place of achievement and beauty.
+
+She kept speaking, the low and soothing tone just as important as the words, until at last, she was merely humming, stroking Biyu's hair as the child settled into sleep.
+
+"I shall only hope she is so amenable on the journey back," Mother said quietly.
+
+"If you will allow it, I'll take her out to play in the snow with Hanyi and I in the morning, so that she is tired out before the trip begins," Ling Qi offered.
+
+"Should you really be behaving so informally as a guest in a viscount’s house?"
+
+Ling Qi smirked. "From our discussions, Viscount Shan is permissive toward children. I think I can restrain my wildness enough for it to improve his impression of me."
+
+Ling Qingge sighed. "Then, I won't object. I apologize for still being so on edge."
+
+"It's fine, Mother. I know travel doesn't agree with you, but I did ensure the carriage has superb security, and you and Biyu will be taking a slower route back, one which goes along only the very safest roads," Ling Qi soothed.
+
+"I appreciate that. But the wealth you so easily throw around…"
+
+"I've left Mother in charge of the budget books. You know I've not spent more than we can afford."
+
+"I know this in my head, but my heart feels these numbers differently," Mother confessed. "I was fond of horses when I was young, you know."
+
+"I didn't," Ling Qi admitted. "Did your old…"
+
+She trailed off, not sure if she wanted to finish the sentence.
+
+Ling Qingge watched the dense evergreen trees outside roll by. "A pair of old mares, for use by messengers, and one first grade stallion for our clan head to ride during official processions, or if called to duty.  Perhaps I will observe the groom at duty with Biyu when I have a moment."
+
+"As you like. I am certain you could arrange to ride as well."
+
+Mother rested her chin in her hand but nodded, and Ling Qi leaned back against the bench. They sunk into silence, but it was a comfortable one, here in the cozy interior of the carriage.
+
+The shadows were growing long and the sky growing dim by the time they emerged from the forested tunnel into more open lands. They came out of the densely forested valley where the hills gave way to a flat stretch of land along the bend of one of the many lesser rivers which branched off from the main artery of the Jing river. Farmland stretched over a landscape of rolling plains, now dull in browns and yellows, speckled here and there by the leavings of early snows.
+
+The town of Buzhan was split by the course of the river, bridged by spans in joyful red, which merrily burning paper lanterns hung from. Its walls were wide and low, and the town had begun to outgrow them. Structures were sprouting up along its outside on the far side. She could see the beginnings of foundations being dug for a wider curtain to defend the new growth.
+
+Of course, what really drew the eye was the temple complex set atop the highest hill in the vale, overlooking the village from the north and mirroring the governor's manor on the hill to the south of the village. The temple was brightly lit. Streamers of light cast into the clear evening sky, and the sound of music was already drifting out. The people, too, looked to be in a merry mood. The lights of torches and fires were bright all around the temple hill where crowds were being shepherded by sharp-eyed common soldiers and priests.
+
+'So bright!" Biyu exclaimed.
+
+They were moving slowly now, only at the pace of mortal horses, so Ling Qi allowed her to pull herself up and stick her head out the window.
+
+"It is, isn't it?" Ling Qi asked rhetorically. "We'll see Hanyi soon, but you'll have to be good for Mother, okay? Sister needs to go out and ensure we don't get caught in traffic."
+
+She could already see some outriders racing up the roadside to meet them, likely to escort them along a path dedicated to visiting nobles. There'd be quite a few pleasantries to see to before she could get to the temple herself.
+
+"Okay!"
+
+She ruffled Biyu's hai, and vanished from the carriage seat in a cloud of sparkling shadow, drawing a delighted squeal from the little girl left behind in the carriage.
+
+***​
+
+She had been right. She'd spent a good two hours speaking with Viscount Shan and other worthies once she'd made herself known, discussing affairs in the south, both in the movement of materials for the upcoming offensive and the growing investments that would be flowing down along these roads in the longer term. The river here was one of the branches of the river that flowed out of Shenglu, after all.
+
+Although the discussion had been beneficial and friendly, she still found herself sighing with relief as she leaned onto the balcony which overlooked the garden courtyard of the temple complex.
+
+"You make it sound onerous, but you've made quite a set of converts out of the Shan family," Bao Qian complimented.
+
+"They're hardly unpleasant people. Lady Cai has ensured that I understand enough to not look or sound foolish, but I don't know that I'll ever enjoy talking about projected outputs and what can be considered a fair toll on a given stretch of road."
+
+She sighed, observing the garden below. It was a fairly standard layout for a temple to the Bountiful Earth, with the courtyard divided into four quadrants, which were themselves divided into smaller fours in their arrangement. The number four was considered sacred to the spirit for obvious reasons.
+
+Right now, it was arranged in its autumn-winter configuration, with the neatly planted rows of trees mostly bare of leaves. Instead, the leaves littered the carefully raked mulch in an even carpet of slowly decaying plant matter. The lanterns set along the walls alternated between dull orange and pale ghostly blue, giving the space a solemn transitional feel.
+
+"There is something to be said for turning numbers into the real and material—or at least, that is how I view them. If you can hold in your mind the visualization of what the numbers actually mean—the goods being delivered to once wanting settlements, the food on mortals’ tables, cut lumber and stone for their homes, and fresh reagents stocking the alchemists labs—it makes the task more palatable," Bao Qian advised.
+
+Huh. That wasn't a bad way to look at numbers.
+
+"I'll try that next time. Any complications around Hanyi's performance?"
+
+"Barring sudden sabotage again, no. We already set the shape of the rites last year. There were some adjustments to be made, from the way the rest of the region's ecology settled around the effects."
+
+"What kind of adjustments?"
+
+Ling Qi straightened up. The performance would start soon, so she wanted to get to the viewing balcony where Mother and Biyu waited.
+
+"Interest from the river, a stirring among the ashes of the pre-Ogodei weather court… And there's also some fall entity which will need propiation as well. It’s not fully awake yet, but I gather the priests want to shape that, too."
+
+Ling Qi nodded along as Bao Qian continued to list the adjustments.
+
+Apparently, there were also other spirits of cold and storm that Hanyi had subdued last year, who needed more instruction. It was nothing that had required her intercession, and she was proud of her junior sister for resolving her own problems, even if it made Ling Qi feel unneeded.
+
+It was good that Hanyi didn't have to rely on her for everything, though.
+
+Soon, they arrived on the balcony, moving to the seats set out for them. An attendant stood beside a small table holding refreshments awaiting their pleasure. She had to quietly hush and settle Biyu as the little girl tried to climb out of her seat to greet Ling Qi. Instead, she blinked into her seat in an instant, curling an arm around Biyu's shoulder before she could finish rising, playfully tickling her side.
+
+Mother gave them both a stern look, and she held her finger up to her lips with a smile. Biyu muffled her giggles, kicking her feet. Bao Qian sat down beside her with a muffled laugh.
+
+And then, the music began.

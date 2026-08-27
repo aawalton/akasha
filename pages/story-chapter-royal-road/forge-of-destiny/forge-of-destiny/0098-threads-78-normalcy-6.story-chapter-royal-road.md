@@ -1,0 +1,131 @@
+---
+id: e49e08cd-aec7-5da5-8813-b74908766f0e
+page-type-slug: story-chapter-royal-road
+title: "Threads 78-Normalcy 6"
+slug: 0098-threads-78-normalcy-6
+partOf: forge-of-destiny
+position: 98
+ownLength: 2332
+unit: words
+publishedAt: 2021-04-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/671554/threads-78-normalcy-6"
+royalRoadId: "671554"
+---
+
+Ling Qi’s thoughts whirled, and she began to open her mouth to respond. She felt a sharp pain then, like someone grinding their heel into the top of her foot. She shot Meizhen a sharp look, but the girl merely sipped her tea serenely, eyes down. Ling Qi held back a grimace and sipped from her cup as well. It gave her a moment to organize her thoughts.
+
+“You were always going to diverge at least a little from your mother’s path. We’ve spoken of that, haven’t we?” Ling Qi ventured.
+
+“A divergent insight is different from nothing at all,” Cai Renxiang noted. She took a sip herself, and Ling Qi noticed her wrinkle her nose in disatisfaction. Hopefully, it was just the tea.
+
+“That is true enough,” Meizhen agreed, glancing up. “However, I believe it is not as problematic as you think. I cultivated several of my family’s earth arts before I found one which truly suited me. In the longer term, it is important for the health of a clan for its members to follow a reasonably wide array of Ways. The Cai are young yet.”
+
+Cai Renxiang let out a sound of consideration but still seemed dissatisfied. That unreasonable, illogical response… It actually made Ling Qi feel better somehow.
+
+“And I don’t think it’s really so bad,” Ling Qi added, drawing a sharp look from her liege. “The Duchess Cai is incomparable, of course, but… I did give my oath to follow you. We had a big, dramatic heart-to-heart and everything, if you remember,” she said cheekily.
+
+“Still too shameless, Ling Qi,” Meizhen grumbled. She looked back to Cai Renxiang, her expression softening. “Cai Renxiang, our situations do not compare. However, I attempted to step into the role of my aunt and even… even my mother. This failed. It is only in stepping out of their shadows that I have begun to grow properly again.”
+
+“I’ve been feeling my Way along more by luck than education,” Ling Qi offered gingerly, feeling the ache still resonating in her core. “But I can’t help but feel like Meizhen’s right. One person alone can’t build a clan, no matter how powerful and talented they are.” Ling Qi shifted in her seat with a frown as she felt a knot of tension that she hadn’t noticed fade away.
+
+“The Grandmother Serpent and the Fisher founded the Bai clan, but it was the Eight Daughters who created its foundation,” Bai Meizhen agreed.
+
+Cai Renxiang looked at them both and closed her eyes. The fabric of her gown roiled in discontent, but a sharp flare of her qi put it to rest. “It is true that my view might yet be too narrow. My apologies. It is unlike me to be so melancholy.”
+
+“I am informed that it is appropriate for young ladies to spend their tea time making complaints,” Meizhen said airily. “Think nothing of it.”
+
+Cai Renxiang shook her head, swirling the contents of her cup thoughtfully. “Then allow me to make another one. I miss Gan Guangli,” she sighed, setting the cup down with a clink.
+
+Ling Qi winced. “I’m sorry. I know I’m not as devoted in action, but—”
+
+Her liege waved a hand in dismissal. “I mean no slight toward your service. You are reliable in your way, and I knew your nature when I made my offer. Although it may sometimes be impolitic, your brusqueness has its uses.”
+
+Ling Qi frowned, trying to work out if she had been complimented or not.
+
+“You miss his counsel then?” Meizhen asked to clarify, peering over the rim of her teacup.
+
+Cai Renxiang nodded slightly, the corner of her mouth quirking down in a faint frown. “Indeed. Ling Qi is not one to hold deeper discussions on matters philosophical. You yourself do not hold much interest in the subject either.”
+
+Ling Qi took a deeper sip from her cup. She was not going to object to that; it was entirely correct. Meizhen dipped her head in acknowledgment as well.
+
+“It won’t be long until he’s back with us, I’m sure. Have you heard about what happened in the Outer Sect while the attack was happening?” Ling Qi asked.
+
+Cai Renxiang raised an eyebrow. “I had heard there was fighting, but I have not had time to review matters more closely.”
+
+Ling Qi grinned. “Do I have a story for you then.” She had pulled the events out of Su Ling at her own tea time, and if it would lighten the mood, she would be happy to share.
+
+After all, they would all soon be hard at work.
+
+***​
+
+In the days that followed, Ling Qi spent her time in cultivation and thought. She and Zhengui both required rest, and he needed time to stabilize his sudden breakthrough. While she rested, Ling Qi focused on cultivating the most restful art that she had.
+
+Argent Genesis, the Sect’s cultivation art, was harmonious and serene in its exercises. Over the next week, while her meridians recovered from their scorching, she mastered the remaining exercises of the art. The argent qi that had settled in her dantian grew more robust and flexible, and with every breath she spent cultivating, she felt a little less qi lost to inefficiency and a little more qi flowing into her burgeoning domain. It would never be her primary cultivation art, but she did not regret mastering it. Through settling and congealing argent qi throughout her channels and dantian, she had increased her cultivation efficiency and strengthened and refined the bond with her spirits.
+
+Recovered from her wounds, save for a small white scar across her collarbone, Ling Qi turned her attention to her base cultivation. Here, she spent time with Hanyi. The young ice spirit was glad to return to the high peaks and snow, and Ling Qi refined her physical cultivation by chasing and seeking Hanyi through the snowy shadows and high cliffs without the use of arts, a reminder of the time they had first met.
+
+Ling Qi spent less time cultivating her spiritual cultivation, or rather, just cultivating her spirit. When she played music with her mother in the garden as the sun set, she cultivated. When she sat with Zhengui on his hill and meditated together with her little brother, she cultivated. When she slipped through the shadows to find Hanyi in whatever crevice she had snuck through, she cultivated.
+
+It was only deep in the night when the moon was high in the sky that she perched on a high cliff and consolidated that cultivation, steadily expanding her dantian. Soon, she reached the foundation stage of bronze, qi solidifying in her bones and muscles to strengthen them further for the rigors of greater cultivation.
+
+It struck her again how great the gulf between realms was. Even without arts, her flesh was stronger than steel or stone. She could crumble rock by merely clenching her fist and with some effort, even warp or break mundane steel. She could bound across impassable cliffs as light as a feather and learn at a ferocious rate. The Sect had bumped up their training plans for Inner disciples, and even now, she was learning the most common dialect of the Cloud tribes. It had been less than a week, and already she could understand what her teachers said, more often than not.
+
+Yet in her mind’s eye, she saw a mountain break, and a perfect city clashing with an endless lake of black. She was still so very small, and she had so many people to think of besides herself now. Her own words to Cai Renxiang echoed back to her. She couldn’t be satisfied just strengthening herself.
+
+And so as one week turned to the next, Ling Qi had a quiet word with her family and friends. Xiulan was still curiously absent, squirreled away with her sister on some training ground, but she managed to notify everyone else. With everyone reassured, Ling Qi flitted away in the depth of the night, off to the silent stones that stood in the mountain vale, both gravemarkers for a people long dead and anchor for a nightmare. It was also the site of an important lesson and a place where the veil between the material and spirit realm were thin. The chaotic energies of the moon were strong here, soaked into the very stones.
+
+Ling Qi found her favorite stone and sat down to cultivate the Songseeker’s Ceremony.
+
+She just hoped she could talk Sixiang around.
+
+***
+
+Ling Qi took a seat on a pale grey shore. She breathed in the scent of the colour sea, and it was no one thing. It was the scent of early morning mist in spring, the acrid scent of a painter’s tools, ink and incense, and fresh churned forest loam trod on by a hundred dancing feet. Beside her sat a tall, thin figure, forlorn in expression, their waving rainbow hued hair lying flat and lank against their scalp.
+
+“Sixiang,” Ling Qi greeted, smoothing her gown. It was strange. Her focus was here, but she could still feel her body and the energies churning in her meridians as she took in the shifting tides of the moon and made them hers.
+
+“Ling Qi,” her muse greeted, not looking over at her. The spirit’s voice was hoarse, and their knees were drawn up to their chest. “Didn’t take you as long as I’d thought.”
+
+Ling Qi laughed. “I’m pretty tough. It takes a lot to keep me down.”
+
+“I know,” Sixiang said. They fell silent then.
+
+Ling Qi let the silence stretch. Words danced through her mind. She wanted to plead, to cajole, to deny. She did not want Sixiang to go. She thought to appeal to their connection, to the sadness she and her other spirits would feel, but the words died on her lips. That wasn’t really fair. It did not address Sixiang’s trouble at all. Yet she couldn’t not say it at all.
+
+“We would miss you a lot,” she said quietly. “I promised them, you know? I’ll work hard with you, too.”
+
+“You’ll work yourself to death twice over before you take a break,” Sixiang answered with a weak chuckle. “What if I don’t want that?”
+
+Ling Qi grimaced, the ache in her dantian sharpening, sending a spike of pain up her spine. “I can’t stop, Sixiang. I won’t stop. The world is still so big, and I’m still so very small,” she pleaded.
+
+“It will never stop. The bigger you get, the more of the world you’ll see. It will never get any smaller,” Sixiang replied.
+
+“Even so,” Ling Qi said, unwavering. “I would like it if you stayed by my side. Even if things are hard now, can you really say there is nothing more you want to see of the waking world?”
+
+Sixiang smiled wanly. “Before I spent all of this time with you, none of this would have bothered me. What is the end of a few dreams? A song of war is as good as a song of peace, if the singer is skilled.”
+
+“Sixiang…” Ling Qi said, trailing off.
+
+Sixiang blew an errant strand of lank hair out of their eyes and finally turned their head to look at Ling Qi. “Will you take a stroll with me, Ling Qi? I think I’ve spent too much time awake. You don’t sleep near enough.”
+
+Ling Qi looked down at the muse’s extended hand. She glanced out to the rippling sea as it drew back from the shore and took their hand in her own. “Of course. I’ll find the time if I need to.”
+
+Sixiang smiled as they grasped her hand, a flicker of humor entering their eyes again. “I’m glad.”
+
+And then the wave crashed down upon the shore, and they were both no more.
+
+***
+
+Ling Qi felt her limbs spin back into existence and found herself on a flat and polished wooden floor. All around her, dancers spun and whirled in the flickering shadow of bobbing ghost lights. Merriment and cheer filled the air. She herself now wore a gown of old and strange cut, a billowing cloud of lace and silk almost fit to drown in.
+
+She still grasped Sixiang’s hand, who now stood across from her wearing antiquated gentleman’s robes. Their face had taken on a more masculine cast, and their other arm was around her waist. They had joined the dance midstep, and only her quick reflexes allowed her to avoid trampling on the spirit’s toes. Some part of her wanted to shove them away, but it was just Sixiang. Masculine shape or no, they were the same person.
+
+“Good recovery,” Sixiang chuckled as they spun through the steps.
+
+Ling Qi’s gaze flicked across the room and down at their feet, swiftly analyzing the steps. “I know I don’t don’t do it in public, but you, of all people, should know how much I’ve practiced.” Dancing was not so different from any other kind of athletics. Even the simple stretching exercises of her mother’s cultivation art had a certain dance-like quality. It was all a matter of practiced, memorized motion.
+
+Above, or perhaps below them, Ling Qi saw the dance floor mirrored, and a second Ling Qi danced with a second Sixiang. Which was the reflection, she wondered? For a moment, she felt as if she was looking through two sets of eyes, both staring at one another from the other side of the mirror.
+
+“I suppose so,” Sixiang mused as their dance carried them around other pairs. The other dancers were mostly not human. What could be taken for masks at a glance resolved into bestial features when looked at directly, and the dancers’ features changed from one moment to the next. “You wouldn’t know just by looking though,” Sixiang said with a smile, as if laughing at some private joke.
+
+“You haven’t answered my question,” Ling Qi said as they danced. “Is there really nothing else for you?”

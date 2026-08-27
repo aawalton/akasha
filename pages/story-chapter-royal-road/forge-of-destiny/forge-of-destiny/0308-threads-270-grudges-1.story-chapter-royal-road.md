@@ -1,0 +1,165 @@
+---
+id: 0719e8c1-1c64-58da-b64b-67bcace2732b
+page-type-slug: story-chapter-royal-road
+title: "Threads 270-Grudges 1"
+slug: 0308-threads-270-grudges-1
+partOf: forge-of-destiny
+position: 308
+ownLength: 2295
+unit: words
+publishedAt: 2022-12-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1064300/threads-270-grudges-1"
+royalRoadId: "1064300"
+---
+
+“So, how bad do you think the damage is going to be?” Ling Qi asked, looking out the window of the carriage as it began to get moving. The outlying buildings of the sect town rolled by.
+
+“Hah! I saw a lot of sour faces back there, but you knew what you were getting into,” Sixiang teased. They sat cross-legged on the bench opposite of her, their image clothed in an old weilu costume. Sixiang’s black eyes glittered with amusement under the horned headdress. “You’ve gotten so bold. Every time I start to wonder, you remind me why I stick around.”
+
+“Don’t pretend you ever doubted,” Ling Qi said haughtily, turning up her nose. “I am the great master of ceremonies, left hand of the new Cai! My performances are always beyond compare!”
+
+Sixiang snorted at her, and Ling Qi broke down into laughter.
+
+“Riiight. My apologies, young mistress,” Sixiang drawled. The walls of the town passed them by, replaced by the evenly spaced and trimmed trees which lined the northern road. “But yeah, I’m sure plenty of your fellow kiddies are sending letters flying home. And folks you’ve made nice with will notice.”
+
+Ling Qi composed herself, expression growing more sober. “It’s fine. As you said, I knew I was going to upset some people, but if what we are working toward finds success, we will upset them regardless. Signaling to our allies and making possibilities known to those who have not chosen a side is important.”
+
+“Meng Diu and Meng Dan will be pleased with the support, especially since Hanyi’s tour is going over so well.”
+
+“It’ll take time to see how this works out, but I have no regrets.” There was a faint rocking motion as the carriage hit the straight part of the road and picked up speed. “Let's get to the next bit of business.”
+
+“The weasel who messed with our little sis,” Sixiang said, nodding smartly. The headdress slid down over their eyes.
+
+Ling Qi raised an eyebrow. “Our?”
+
+“Aw, come on. Of course it's ‘our’!” Sixiang nudged their headdress up to reveal an eye. “So, Haishan.”
+
+“That’s the one. Smaller city on the same old trade route Tonghou is, but further south,” Ling Qi recalled. “Who was the ruling viscount?”
+
+“Uh, I wanna say Xu. Yeah, it’s Xu. Middling for viscounts. There is a fifth realm patriarch, and the head looks like he’ll make it in his lifetime, a handful of fourths, and a healthy crop of thirds.”
+
+Ling Qi considered the reports she’d read. “No major problems with the city.”
+
+“No obvious ones,” Sixiang agreed. “The family mostly plays the Diao line for politics. Considered kind of wishy-washy.”
+
+Ling Qi sighed. “Probably not directly involved then, unless they’re hiding a lot of passion.”
+
+“You never know,” Sixiang said with a shrug.
+
+“And the subordinates of Diao Hualing we were meeting up with were…”
+
+***​
+
+The reports had been unfair to the city of Haishan, Ling Qi decided. They had painted a picture of a run-down backwater and put her in the mind of her birth city. However, the gates of Haishan were well maintained. Its outer wall was in good repair, and though there was a shabbiness to its outer districts, she did not feel the same malaise here that she was familiar with from her youth. The streets were clean, the people looked upon the guards with only moderate fear, and there were few beggars, even at the edge of her senses, so they hadn’t simply been driven away from her route into the deeper alleys preceding her visit to the Ministry of Law compound.
+
+The Ministry of Law’s offices were a set of squat, dour buildings inside of a two-meter high curtain wall. The interior courtyard was clean and well swept, and clerks and other low ranking officials moved with purpose along the paths.
+
+She was met at the gate by a pair of guards, and to her amusement and mild discomfort, she was announced as a noble guest. Dozens of people in the middle of their work all stopping to bow and give respect would never stop feeling strange, Ling Qi suspected. She was shown then to the eastern building to a waiting room and offered refreshments, which she refused politely.
+
+“Notice anyone in particular?”
+
+Ling Qi scanned the plain beige walls. Her eyes fell on the scrollwork on the decorative wood which lined the joins between the walls and the floor. Formations. Simple ones for improved airflow, temperature control, and enhancement of the building materials. No listening formations, but there were a few to contain and dampen sound from inside the room.
+
+It was, as the guard had said, a room for meeting with important guests, ones who might be offended at others listening to their words.
+
+“Nobody who seemed particularly fishy. Some curious folks wondering about a relatively bigshot showing up,” Sixiang said, their voice manifesting right in her ear.
+
+“Same. I didn’t detect anything like guilt or fear from anyone present,” Ling Qi said quietly. It was probably as Diao Hualing said. The slowness of the investigation likely came down to simple institutional sloth and inertia. “If there are collaborators, they were either not present or unaware of what my presence means.”
+
+She held up a hand to quiet Sixiang’s response as she felt an approaching aura of a cultivator just barely into the third realm. A dim but even light, it felt like the sweeping cone of light from a lantern, cautious and careful.
+
+She did not stand. At her rank and cultivation, it wouldn’t be right.
+
+There was a quiet knock on the door.
+
+“Come in,” she said.
+
+The door opened, revealing an older man in plain black and gray robes. With strands of silver at his temples and shot through his trimmed and pointed beard, he appeared to be forty or fifty. His face had some lines around his mouth and at the corner of his eyes, but his posture was still strong, and he bowed smoothly to her hands clasped in front of his chest.
+
+“Baroness Ling, my apologies for your wait. I am Pan Xi, district officer of the third rank. I was given your case after Lady Diao’s interest was made known.”
+
+“I see.” Ling Qi gestured for him to enter. As he did, closing the door behind him, she examined the man out of the corner of her eye. “I am curious which of your juniors was responsible beforehand.”
+
+“Please forgive this one,” he replied, turning back to her and bowing lower still. “Our duties are unending, and the young may lack the knowledge to prioritize every case effectively. This one will accept any chastisement Lady Ling may have.”
+
+Smooth, practiced, calming. The attitude of one who very regularly dealt with volatile tempers. He wasn’t just trying to steer her, she thought. He really was accepting responsibility for his subordinates.
+
+<Shielding them too,> whispered Sixiang’s voice.
+
+She couldn’t say she disliked that. “It is nothing. Please raise your head. I understand that my case may not have seemed in need of the most immediate response.”
+
+“Lady Ling is gracious and patient.” Pan Xi raised his head and gestured toward the chair opposite hers. “May I?”
+
+She nodded, allowing him to sit. “Tell me about the suspect.”
+
+“Yan Shenyi,” the older man replied swiftly. A flick of his wrist brought a sheaf of papers to hand, which he spread across the table between them. “Nephew of a well-off mortal merchant, who was able to purchase him a place in a local ministry education program. Talented enough for minimal cultivation, but middling as such candidates go. He rose to the point of being a fourth ranked clerk at the Ministry of Communication over the course of his forty-year career. He reached the third realm at the age of thirty one, but has shown little progress since...”
+
+Ling Qi nodded along, listening, but her eyes fell on the man’s name spelled out at the top of the dossier on top. It seemed familiar.
+
+“Detective, did this man have a relative at the Argent Peak Sect?”
+
+He paused. “Yes, he did, though I understand that the disciple Yan Renshu passed away this last year. That was a narrowing factor in the investigation. Although the Sect is not the most transparent institution…”
+
+“We had conflicts, but they were old well before that. Nor was I involved in the operation where he met his end. I was engaged in the Battle of the Starstone Caldera.”
+
+“Of course,” the man said, bowing low in his seat. “It was merely considered that a grudge may have existed. This act was most impetuous, even considering the likelihood of a more powerful backer.”
+
+“Possible,” Ling Qi allowed. She found it hard to believe anyone could have liked Yan Renshu well enough to hold a grudge over him, but he was family. “Do you have any leads on a backer?”
+
+“I am afraid not. We hope to do so with his interrogation, but that will likely require the case passing to Lady Diao directly,” Pan Xi replied.
+
+So he did expect the ultimate source to be ‘above his pay grade,’ so to speak, Ling Qi thought.
+
+“Very well. So how do you wish for me to involve myself?”
+
+“On that matter, there are some choices. Given your talents, we had hoped that you might aid us in observing him and his movements over the course of the next few days,” Pan Xi said, folding his hands in his lap.
+
+Ling Qi frowned. “Will my arrival not have tipped him off?” She tilted her head then, listening to Sixiang’s whisper. “No, that is the point, isn’t it? He’s already shown himself to be impetuous. You want to see if he reveals anything in his panic.”
+
+“Lady Ling sees. There is some risk in this. He might have some method or preparation or his employer might act to clean up loose ends.”
+
+“Though that in and of itself could be revealing.”
+
+The detective inclined his head. “As you say. That said, on this matter, I will defer to Lady Ling. If you demand it, we will proceed with the procedures for arrest immediately now that we have your presence as a guarantor.”
+
+“I will happily take your suggestion,” Ling Qi decided. “Finding where his connections lie is more important than the man himself.”
+
+“I am glad Lady Ling understands,” Pan Xi replied, and she did think he was honestly relieved.
+
+“Why don’t you explain to me the structure of your plan while I review these reports you have gathered then?” Ling Qi reached down to gather the dossier and reports spread on the table. “It's best to be efficient with our time.”
+
+The older man gave a short nod. “I agree. For this operation, I have gathered a small team…”
+
+***​
+
+It was funny how things tended to connect.
+
+The Yan family, a well-off common clan, was originally from the Celestial Peaks, as she had read in Cai Renxiang’s own reports so long ago in the Outer Sect. Back then, there had been little more than that.
+
+But add a little more detail, a little more digging, and a picture emerged.
+
+A product of the Great Sect system. A founder who had failed to graduate to the Inner Sect of the Imperial Hammer Sect. Never rose above the second realm.
+
+There was wealth enough in that. Wealth, but not recognition, not in the Celestial Peaks. Moved south into the Celestial Hills, the north of the Emerald Seas, a smaller pond to make the fish feel bigger. Five mortal generations passed. Scions grew and cultivated, but they failed time and again to achieve nobility. A few made it into ministries, a few in the army, and a few languished in Outer Sects.
+
+At last, one talented child went to the Argent Peak Sect, renowned for its ability to turn out noble graduates. He achieved rank, but failed to leave the Outer Sect, one and then two years. He made it, and then he died.
+
+His baronial rank vanished into thin air, having not yet been fully established by land ownership.
+
+Intense pressure, ambition, and a feeling of persecution passed down from parent to child and elder to youth. These were the characteristics she read between the lines of the report on the Yan family.
+
+<Makes the way he was more understandable, I guess,> Sixiang murmured.
+
+Maybe. It didn’t change her feelings at all. Even if she were aware of some scraps of sympathetic circumstance, it didn’t change who Yan Renshu had been. A petty, manipulative gangster of a man, tricking others into servitude and bad contracts. A man who had tried to frame her and turn Cai Renxiang’s justice against her, and who had tried to poison Zhengui in retribution for revealing his schemes.
+
+She still didn’t think Meizhen was right in advising her to kill him for that though. He hadn’t deserved to die down in the dark for what he’d done.
+
+<Salty Rock Man was bad. His stomach had a hole in it. He couldn’t be full if he tried,> Zhengui disagreed in her mind.
+
+Ling Qi tipped her head in acknowledgement of her little brother’s belief, peering down at the street from her perch on the peaked roof of the Ministry of Communication building. She’d gotten the permission for him to be in town, but she had been asked to deploy him only in emergencies. Fair because Zhengui was pretty destructive.
+
+<I can be good!>
+
+She knew that, but convincing the local nobles that he wouldn’t burn down half the town was harder.
+
+But right now, she was watching closely through an all but invisible wisp of light as the suspect went about his day.

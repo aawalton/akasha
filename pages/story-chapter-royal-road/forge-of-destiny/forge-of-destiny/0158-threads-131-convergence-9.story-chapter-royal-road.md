@@ -1,0 +1,123 @@
+---
+id: 40e34897-a3a0-526e-bcdb-07cc562d0773
+page-type-slug: story-chapter-royal-road
+title: "Threads 131-Convergence 9"
+slug: 0158-threads-131-convergence-9
+partOf: forge-of-destiny
+position: 158
+ownLength: 2015
+unit: words
+publishedAt: 2021-09-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/751991/threads-131-convergence-9"
+royalRoadId: "751991"
+---
+
+A spiderweb of fractures spread out from the central crack. A sickening unlight radiated out from them, and to Ling Qi’s alarm, she felt a disquieting sensation as if she were dispersing herself to hide, but involuntarily. Ling Qi seized control back of her own qi just as her fingertips began to dematerialize and drift away. The effort brought a sharp pain like a hundred needles had been jammed into her fingers at once.
+
+She was back on her feet by then, and the others were clambering up as well, many fixing wide eyes on the sky. Ling Qi couldn’t pull her eyes away from the stone.
+
+There was another sharp crack, and then a sound like soft stone crumbling and a whole section of the stone caved inward as if it were hollow. She saw fragments scatter, and it became clear that the “stone” was actually a shell. The unlight blazed from within.
+
+$^%^(&&^&%^$ept back, and seven rays of light hewed the sky again. The mountain of gold blazed with all the colors of the dawn and set itself in their path, one hundred hands raised in warding.
+
+Unlight pulsed, and the starstone exploded outward. Ling Qi drew upon darkness and lake qi and summoned the rippling starless shroud even as the Mist descended. She hissed in pain as the shroud tried to absorb the fragments only to violently reject them. Yet, the defensive technique held.
+
+The bleeding clouds fled, carried on the winds of a typhoon, and a thousand wounds wept rain upon the land, drowning it in pain. The Inferno howled in rage, and ten thousand devils rent into a hundred thousand pieces dogged its heels, broken bodies and severed limbs hurling themselves after the fleeing clouds in a frenzy. The beat of the drums broke the earth in their fury.
+
+Ling Qi heard someone shouting something, but the sound of the world was washed out as the dust cleared and revealed a radiant figure standing in the ruin of the stone. Bright as a star, too bright to look at directly without pain spiking in her skull, it was nonetheless small, a bead of starlight no bigger than a small child.
+
+Ling Qi felt her stomach drop as the thing’s attention fell upon her. Sixiang’s qi flared inside of her, and for just a moment, the eye-searing light seemed to dim, and the burning on her skin grew less. She met curious red eyes.
+
+The figure looked superficially like a young boy with dusky skin like her own and long white hair that trailed down to where his feet should have been. At the bottom of his ribs, flesh transformed into prismatic light, and she saw the shadow of a half-formed spine within, but nothing more.
+
+The spirit’s head cocked to the side as it observed her. Curiosity faded, replaced by cold.
+
+Enemy.
+
+An arm rose, and flesh tore apart. Spikes of seven-colored crystal formed a blade.
+
+Ling Qi drew on her depleted reserves and leapt back, even as she struggled to keep herself from scattering, knowing somehow that if she did, she wouldn’t reform. Light, clean and colorless, crashed down.
+
+A mountain crumbled. Gold burned black, and painted caverns were shorn of color. The light of dawn fled, and there was only night. There was a hole in the sky, bright blue replaced by starry black.
+
+Cai Renxiang stood in front of her, expression strained. Hungry crimson light bled into her aura,and Liming rippled. The gown’s hem grew frayed, thread unspooling to reveal the girl’s boots. Ruan Shen was at her side, strumming a tune that eased the strain on her spirit and made her feel less like she was dissolving in her own skin. A half-dozen defensive techniques, earth and fire, wind and mountain, all washed over her, a conflicting multitude of light.
+
+And before them, the spirit paused, bladed arm mid-swing, staring at Cai Renxiang in confusion.
+
+Horns of war called from the north, and in the valley ahead, Ling Qi saw the flash of banners.
+
+The false dawn reversed, and unlight bled away behind the southern peaks. A curtain of stars descended from the hole in the sky left in its wake.
+
+The spirit blinked, and it gazed to the south where the ineffable pressure was receding. Its mouth opened. No sound escaped, but Ling Qi heard the plaintive cry that echoed through the realm of spirit. It shot into the sky, trailing a rainbow.
+
+Ling Qi’s knee hit the dirt as the suffocating presence receded. After the battle, the run, and now, this, her qi was depleted, and she was exhausted. From the valley in the north, she saw the leading edge of a sect force emerge. Three cyan cultivators soared above, and green, yellow, and red realm forces marched below.
+
+Their part was done.
+
+***
+
+Ling Qi held in a groan as she squeezed her eyes shut.
+
+Was this what qi exhaustion felt like? Her head was pounding, her senses felt fuzzy, and her whole body felt like a wrung-out rag. Yet still, they could not rest. Ling Qi stood at attention beside Cai Renxiang among the gathered disciples from the mission. The group was not as large as it had been at the start.
+
+The perimeter group had been savaged. When the event in the south had transpired, they had found themselves the primary target of the shamans commanding the storm, and worse, they had suffered from being caught in the eddies of the event. Three disciples had died outright, their bodies rendered to dust. The rest were suffering from some terrible toxin, and while the Sect was keeping them alive, they were not waking up from their coma. Liao Zhu was among them.
+
+She had seen him in the infirmary, and the memory still felt bizarre. Liao Zhu was not meant for stillness, she felt. Though he looked unharmed, Ling Qi had been able to feel the sickness in his spirit, that awful dissolving sensation that had brushed her when she had met the spirit that emerged from the starstone.
+
+Elder Yongrui was said to be in similar condition, though the facilities for his treatment were far beyond the Sect’s common medicine hall.
+
+Before the gathered disciples stood two of the Sect’s elders. One, she had never seen before. Elder Zhuge Ke was a square-jawed man with salt and pepper hair, his face deeply lined with age, and the human binder of the dragon Qingshe. He was not quite as tall or muscled as Elder Guan Zhou, but he was imposing all the same. Garbed in heavy bronze armor, which was currently quite battered, he scowled deeply. He was, Ling Qi had learned, the Sect army’s commander and Core Disciple Guan Zhi’s father, having been married to Elder Zhou’s younger sister. Zhuge Ke had been divesting himself of duties, preparing for retirement, when news of the Elder Zhou’s death had come.
+
+Elder Nai Zhu, stood beside him. Swathed in heavy robes and not showing an inch of skin, the paneled and articulate ceramic mask and headdress which covered her head and face displayed a frightful expression.
+
+“You are, all of you, to be commended for your performance on this mission,” Zhuge Ke said stiffly. “Matters escalated to a degree which could not have been predicted, but this cannot be blamed on you, the rank and file of the Sect.”
+
+“This is no longer merely a sect matter.” Nai Zhu’s artificial voice was bland and without tone, and Ling Qi could not read a single thing of the woman’s feelings in her body language. “Messages are already en route to the provincial capital.”
+
+“Indeed,” Elder Ke said with a hint of irritation. Whitewater currents and the roar of war machines rumbled in his voice. “As of now, the Sect is entering a defensive stance. We will be fortifying our outposts and villages. You will all be of great assistance in this. Sect Head Yuan was not able to safely pursue the entity which woulded Brother Yongrui, but it will not survive an assault on the Sect.”
+
+“However, certain matters must also be addressed,” Elder Zhu said. “The fortifications beneath the earth were completed, but at cost. Many were slain, and Senior Brother Jiao received a significant wound. He will be recovering for some time.”
+
+Ling Qi’s eyes widened. The idea that Elder Jiao, a seventh realm cultivator, had been seriously wounded was more than a little alarming. The whispers that broke out around her showed that she wasn’t alone in that thought.
+
+“The Sect has suffered setbacks,” Elder Ke said, his sharp voice cutting off the whispers. “This is true. However, we remain strong. This is not the first time, nor the last, that the mountain scum will inflict hurts upon us, but remember always that we are the Empire, and they, merely barbarians. They will be punished for this.”
+
+“They will suffer,” Elder Zhu agreed, a faint whirr behind her voice. A panel in her mask shifted, and for just a second, Ling Qi felt hate wash out, old and deep. “As Zhou’s killer will.”
+
+“Take comfort in that much, disciples. None may recover easily from Sister Zhu’s fires.” That seemed to cheer the older man a little. “Now, disciples, rest and prepare yourselves for what is to come.”
+
+The elders turned away, and the disciples began to disperse, slumping off to take their rest.
+
+Beside her, Cai Renxiang remained still, bandages wrapped her throat. When she spoke, her voice still had an ugly rasp, though the healers had assured the two of them that it was a temporary matter. “Unfortunately, our trials are not done,” Cai Renxiang said quietly. The faint hum of the girl’s social screening art whispered in Ling Qi’s ears.
+
+“What do you mean?” Ling Qi asked warily. She dearly wished to leave. Zhengui and Hanyi should have been cleared by the sect physicians by now, and she very much wanted to be with them.
+
+“I have been given the tools with which to contact Mother, if necessary. I cannot say that this situation does not qualify,” Renxiang said. “As my retainer and a direct witness, you will need to give your account.”
+
+Ling Qi paused. She knew that Cai Renxiang had a certain, very expensive communications array for official business, one that outright projected the user’s presence across the province. “I see.”
+
+She was going to have to get used to public speaking real quick, wasn’t she? Humor was a good balm for nerves.
+
+However, that did bring up another matter in the shard of icy iron stored away in her ring. No one had mentioned it, nor asked her about it. Ling Qi’s gaze turned to Elder Zhu, who was conferring with a core disciple in the far corner of the room.
+
+She was a little hesitant to bring it up to the Sect after feeling their reactions to the barbarians.
+
+“You are distressed by something,” Renxiang observed.
+
+Ling Qi looked away from Elder Zhu. “Yes. This isn’t the place for it. When do we start preparing for the meeting?”
+
+Renxiang considered her for a moment. “The third hour. The communications array requires the light of dawn to activate, and three hours time should be sufficient to prepare. Your time until then is free.”
+
+She had a lot of people to check on, Ling Qi thought, and things to consider as well. “What will you be doing with your time, Lady Cai?”
+
+“Recovering and cultivating,” the heiress replied immediately. “In addition, I will be penning a number of missives and messages.”
+
+Ling Qi glanced at Renxiang out of the corner of her eye. “I’ll be there at the first hour.”
+
+“As you wish. We may cultivate and speak simultaneously if need be,” Renxiang allowed.
+
+Ling Qi smiled faintly as they turned away from each other. That was a sentiment she could get behind at least.
+
+<Of course that’s the thing you’d bond over,> Sixiang thought in exasperation.
+
+Ling Qi felt the humor drain away as she left the debriefing room. She dearly hoped that everyone was alright.

@@ -1,0 +1,203 @@
+---
+id: 1bbca069-1bbd-5fc4-962f-864cd0d130f2
+page-type-slug: story-chapter-royal-road
+title: "Threads 172 Emissary 7"
+slug: 0203-threads-172-emissary-7
+partOf: forge-of-destiny
+position: 203
+ownLength: 3285
+unit: words
+publishedAt: 2022-01-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/822183/threads-172-emissary-7"
+royalRoadId: "822183"
+---
+
+“Big Sister, Zhen and Gui are going to go back now, okay?” Gui spoke up, surprising her. She looked down at him to find Zhen coiled atop their shell, looking pensive, and Gui looking up at her.
+
+“Alright.” Ling Qi reached down to pat each of his heads once. He seemed really deep in thought about something. Zhengui’s form wavered and then dissolved, returning to her dantian.
+
+Hanyi frowned at the space he had been standing in, but just shook her head as Ling Qi straightened back up. “Hmph, just running off to nap again. Guess I could use a break too.” She vanished into her dantian as well.
+
+“Is Sir Zhengui well, Miss Ling?” Gan Guangli asked as they started down the hallway. The startled servant in the hall stared at them with wide eyes as they passed.
+
+“He is.” Ling Qi didn’t think he was hurt or sad, just thoughtful. “Anyway, what did you and Sir Ostrik end up talking about?”
+
+“Mostly the nature of the Sun and its meaning to their people,” Gan Guangli answered. “It seemed strange to me that they would acknowledge the Sun as a fighter, one who banishes the dark, yet thinks of his devotees the way they do.”
+
+“That is odd,” Ling Qi agreed. She hadn’t really thought of that.
+
+“It seems that it was not always so, but those devoted to their Sun’s warrior aspect were the party of some great failure or betrayal,” Gan Guangli said pensively. “Sir Ostrik did not speak of it directly, but it has caused them to see men as being inherently unstable and violent, and only intense self-discipline and pacifism allows them to control their emotions and actions as well as a woman. It is… frustrating.”
+
+Gan Guangli sounded aggrieved. Ling Qi had to wonder about what could have caused such an attitude. “Why, then, is their war aspect still worshipped in their temple?” Ling Qi wondered.
+
+“He is regarded as a bringer of storms and strife, but also fertility. He is… appeased until the great spirit called Fryja can”—Gan Guangli grimaced—“tame him each year. It seems that there are some devoted to him specifically as well, but Sir Ostrik would not discuss them. He seemed to regard it as scandalous.”
+
+“And he wouldn’t want to put any ideas in your poor impressionable head,” Ling Qi said dryly as they rounded a corner. A pair of torches lit the way ahead, warming the icy halls.
+
+Gan Guangli grunted in affirmation. “Their Crowfather seems an oddity. None begin devoting themselves to his path. He is a spirit of fall, wisdom, old age, and widowers. It seems common for men of their land to outlive their wives, and among their priests, this means making oaths to the Crowfather. They, it seems, are trusted to do violence as they leave their communities to wander and carry news and stories between settlements during the deep winter. They are empowered to hunt demons and outlaws. How can one change their way so drastically late in life though?”
+
+“I’m not sure,” Ling Qi admitted. It seemed bizarre. Anyone of the third realm or above would probably be set in their way by the time they reached old age. Anyone less powerful wouldn’t survive outside in the winter, surely?
+
+“Indeed. Sir Ostrik did not seem to understand the question.” Gan Guangli grunted, crossing his arms. “We spoke on it for a time, but I believe we only succeeded at confusing each other. I begin to think their cultivation does not resemble ours nearly so much as our senses indicate.”
+
+Ling Qi thought back to the girl who had removed her own heart and eyes as an act of cultivation and couldn’t help but agree.
+
+<Is it really that surprising? It’s not like I really follow what you guys do either,> Sixiang thought. Ling Qi supposed that was true.
+
+“Still, although I understand them better, I cannot accept what Sir Ostrik says,” Gan Guangli said with a frown. “I cannot accept the idea that a man should be so passive. What use is the strength in my arms if I do not use them?”
+
+“Well, unless our lady decides you’re going to be a permanent ambassador, it shouldn’t be a problem, right?” Ling Qi chuckled.
+
+“I suppose you are right, Miss Ling,” Gan Guangli said. “Now, let us find our companion and hope that he has had a less distressing time.”
+
+***
+
+They found Meng Dan standing before the murals in the dining hall, flanked by a pair of the foreigners. It was two women divested of the thick furs and armor they wore outside; they looked a bit less broad than had been Ling Qi’s initial impression, but they were still rather thickly built and muscular. As they approached, she heard Meng Dan say something masked by the pleasant tune of his screening art, and both of the women seemed to laugh.
+
+The dining hall was otherwise nearly empty, other than the quiet servants doing the cleaning and a handful of other soldiers still nursing cups. It seemed that dinnertime was well past. Ling Qi wondered at that. Did they not lose their appetites as they cultivated? That could be a disadvantage. Then again, perhaps it was simply a cultural more or matter of morale.
+
+As Ling Qi’s wisp fled back to her and she approached the room, one of the women clapped a hand on Meng Dan’s shoulder and leaned in to whisper something in his ear. She couldn’t get a look at Meng Dan’s reaction though. As they entered the room, the women turned to leave through the other exit and Meng Dan turned toward Ling Qi and Gan Guangli.
+
+“Hello, Miss Ling, Sir Gan. You’ve finished your own investigations then?” he asked pleasantly.
+
+“As much as was polite,” Ling Qi said, dipping her head in his direction.
+
+“Yes.” Gan’s voice was regaining a bit of his usual boom. “It seems you’ve managed to find friendly conversation as well, my friend.”
+
+“Oh, yes, these folk are quite friendly and accommodating,” Meng Dan said cheerfully, turning back to face the mural. “They were quite impressed with my capacity for drink.”
+
+“Impressed with your what?” Ling Qi asked.
+
+“That is an amusing face, Miss Ling.” Meng Dan laughed, covering his mouth with his sleeve. “But yes, due to my clan’s cultivation arts, I am quite immune to even very powerful befuddling substances. I certainly appreciated the unique flavor of the liquor though. Some manner of barley derivative at base, I think. I would need some study and time to discern the other ingredients.”
+
+Gan Guangli laughed as well, drawing looks from several of the servants. “Truly not a method I would expect of you, Sir Meng!”
+
+“I didn’t take you for a carouser,” Ling Qi put in.
+
+“I am not, not near as much as my kin at least.” Meng Dan adjusted his spectacles. “But the Meng venerate the Dreaming quite strongly. I could hardly be a teetotaler.”
+
+“What did you find while you were socializing then?” Ling Qi asked, leaning against one of the columns.
+
+“A few useful things, and very many interesting ones,” Meng Dan replied. “For example, I am quite certain that our prince and the mountain folk he came from were largely the members of this Sibiar polity, rather than our hosts, Alaniar.”
+
+Gan Guangli stroked his chin thoughtfully. “That is a misfortune then. Our arguments will be weakened, won’t they?”
+
+“Less than you may think,” Meng Dan disagreed. “Ultimately, full agreement of our desired treaty will require conferring with the other members of their confederation, and the two seem to be close allies, or at least I detected no more than a sense of friendly rivalry toward them when speaking with my companions.”
+
+“It’s not ideal, but I’m sure there’s a fair amount of intermarriage between them,” Ling Qi mused. If tribes were comparable to clans and confederations to provinces, it would be stranger if there weren’t familial relations between them.
+
+“Right you are, Miss Ling,” Meng Dan said. “One of my companions mentioned having a Sibiar grandfather. It seems such a thing is not uncommon. More importantly, I have managed to discern some other matters. It would be better to speak of them with everyone though.”
+
+“Understandable,” Ling Qi said. “What about their history then? I’ve picked up a few things, but they don’t make much sense.”
+
+“Now that is a fascinating topic,” Meng Dan said, a twinkle of excitement in his eyes. “The mural behind us depicts something of a myth history.”
+
+“Like the exploits of the three kings?” Gan Guangli asked, looking up toward the mural.
+
+Zhi the conqueror, Yao the Fisher, and Tsu the Diviner were the three legendary kings who ruled great kingdoms before the Empire formed, Ling Qi knew. Bai Meizhen and her clan claimed direct descent from the Fisher, making them one of the oldest clans in the Empire.
+
+“Quite so. You see here,” Meng Dan said, pointing toward the beginning of the mural. “In their early tales, they speak of a period not unlike our early histories of misery and woe, mankind living in fleeting bands under harsh conditions. There are few references to dragons and beasts however. Instead, their early cultural foes seem to be these giants.”
+
+Ling Qi squinted at the part of the mural he was pointing at. She had taken the dark shapes looming over the ragged wanderers to be hills or mountains in the stylized style, but now that she looked closer, she saw subtle indications of faces and limbs. “I’d say it reminds me of the fortress we stand in.”
+
+“Indeed. I was able to hear a few tales of the theft of power and runes from these giants,” Meng Dan said. “But that is not what is depicted here. Instead, it is the formation of their nation. The inciting event seems to be the arrival of people from ‘beyond the gates.’ It is difficult discerning what they mean by that.”
+
+“The young priestess I spoke to did mention something about the arrival of the ‘new tribes,’” Ling Qi offered, examining the next panel.
+
+“So far as I can tell, there seems to be a place far in the south where the material world breaks down entirely into the liminal,” Meng Dan said, peering up at the white swathed figures depicted in the mural. “Their legends state that the new fair-haired tribes arrived through it, fleeing some calamity. This calamity followed them and sealed the path behind. Then there is more familiar ground. Supposedly, malevolent spirits descended from the stars and emerged from the ‘gates’ to make war on them. They seemed to be wraiths of some sort, twisting and possessing other creatures rather than possessing forms of their own.”
+
+“That would seem to mesh with my own findings,” Gan Guangli said, drumming his fingers on his elbow.
+
+Ling Qi hummed her own agreement. She had wondered why Jaromila seemed so different from her kin in coloration. She had thought it might be a matter of cultivation, but perhaps she just had blood from one of these new tribes.
+
+“I suppose this must be their founding and the building of the gates then,” Gan Guangli said, peering at the scenes of war and turning to follow it across the other wall.
+
+“Yes, that is where the most confusing bit of terminology crops up,” Meng Dan agreed. “The Polar Gates seem to refer specifically to the great fortification built to keep these enemies out, as well as the spatial anomaly that lies beyond it. Or so my translating arts tell me.”
+
+“That’s definitely interesting. I wonder if that thing in the sky is a manifestation of that,” Ling Qi mused.
+
+<I hope not. That thing gave me the willies,> Sixiang grumbled.
+
+“Perhaps,” Meng Dan allowed. “My companions were quiet on the matter and refused to speak of the phenomena in the sky. Some cultural taboo, I suppose.”
+
+“We will have to investigate matters further then,” Gan Guangli rumbled. “Whatever it is, it is a hazard.”
+
+“It is,” Ling Qi said. “But now that we’ve found you, Meng Dan, I think we should head back. We need to see what everyone has found.”
+
+***
+
+Ling Qi stepped back and sat down as she finished delivering the information she had gathered. They were once again gathered in the guest suite they had been assigned, gathered around the round table in the center of the room. Cai Renxiang sat across from Ling Qi with her hands steepled in front of her face.
+
+“The insight you have gained into their cultivation methods is useful,” Cai Renxiang said. “These people are rigid in their cultivation, I think. Their ways do not seem to promote deception. If the history Meng Dan has recounted is true, it seems to have served them well.”
+
+“It does seem so,” Meng Dan agreed, leaning back in his chair. “Though it makes me wonder at the cloud tribes’ part in this alliance. I would expect them to chafe badly under such a restrictive society.”
+
+“It seems likely that it is less a matter of alliance and more one of vassalization. The cloud people can be made to submit,” Xia Lin said. “Perhaps these White Sky folk are simply wise enough to allow them to keep some pride during the assimilation. Their social structure seems to allow such regionalism.”
+
+“It is possible,” Cai Renxiang allowed. “But I do not believe it is so simple. Despite my difficulty in dealing with that tribesman, nothing in his demeanor indicated defeat or submission to me.”
+
+“It is not strange for the loyalty of a subjugated peoples leadership to be bought with status and favor,” Gan Guangli pointed out. “However, that is not the impression I received either.”
+
+“What were you able to learn from Jaromila’s husband, Lady Cai?” Ling Qi asked.
+
+Cai Renxiang furrowed her brow in frustration. “Very little. He remained upon the very edge of politeness during our conversation until he simply left without a further word and retreated up the stairs where we are not permitted. I received the impression that he found my presence unpleasant, but it seemed more disquiet than hate or anger.”
+
+“Odd. He did not seem much bothered during the meeting of our groups,” Meng Dan noted .
+
+“Regardless, I was able to determine that he is the youngest son of his tribe’s khan, and that his father has also married into the Alaniar. There are other tribes than his that have been made part of this as well, though I was not able to learn specifics. There was some mention of a schism after a great meeting of the tribes held far to the east of here. It seems there is a tribal holy site in the lands south of the grave.”
+
+“Strange that he would reveal that,” Xia Lin said. “The cloud people are wary of letting important locations slip given the strategic weakness they have on the defense.”
+
+“It is,” Cai Renxiang acknowledged. “Xia Lin, did your tour offer anything of interest?”
+
+Xia Lin, who stood at attention beside Cai Renxiang, nodded once. It was hard to read her emotions as she seemed to have adopted the shell of near mechanical discipline that she had worn at their first meeting. Ling Qi thought that she must be feeling stressed.
+
+“Our hosts seem to be a boisterous people and open to contests of martial skill from visitors,” Xia Lin reported in a clipped tone. On the other side of Cai Renxiang, Gan Guangli looked briefly disgruntled. “If I might offer some small insight, their warriors seemed very bored.”
+
+“How so?” Cai Renxiang asked.
+
+“It is difficult to put into words,” Xia Lin said slowly. “But their demeanor held a certain... silliness that I have only seen among soldiers too long left on light duty or deployed in a peaceful region.”
+
+“Silliness?” Meng Dan asked, cocking an eyebrow.
+
+For a second, Xia Lin’s eyes darted to the side, and Ling Qi could have sworn she saw the girl’s cheeks darken. Sixiang hummed thoughtfully in her head.
+
+“A coping mechanism. In the lower realms, discipline will inevitably suffer some decay when there is no action, even under the best of drill,” Xia Lin said stiffly. “It is thus my belief that this fortress is likely considered a light duty station.”
+
+“Useful information.” Cai Renxiang nodded toward Xia Lin. “We might assume that any tribes within easy striking distance have been pacified then… one way or another.”
+
+“Their reach is longer than we thought then,” Gan Guangli said. “What I would give for a well made map…”
+
+“We’ll have contributed to the first steps toward getting one,” Ling Qi said thoughtfully. “Meng Dan, you said earlier that you had something you didn’t want to speak of out in the open, didn’t you?”
+
+Cai Renxiang’s gaze flicked from her to Meng Dan, who dipped his head.
+
+“I was able to get a small amount of information on this ‘Sky Palace,’” Meng Dan said, drawing surprised looks from everyone else. “My hosts underestimated their own fortitude.”
+
+Ling Qi thought that Meng Dan’s usual smile looked a little smug for a moment there.
+
+“Firstly, the project seems to be a matter of some pride as they spoke of it as something which would improve their standing within the Confederation significantly,” Meng Dan continued. “It also seems that the cloud tribes are not merely a labor force for the project. Something about their contribution is vital to it.”
+
+Ling Qi frowned. They had assumed the cloud tribes were merely doing labor because their grasp of formation craft was generally primitive by imperial standards, relying on the quality of the material and binding minor spirits to the objects rather than proper enhancement.
+
+“Were you able to get more information than that?” Cai Renxiang asked.
+
+“Alas, my new friends caught themselves. Luckily, the demeanor of oblivious simplicity I had put on kept them from being incensed by my prodding,” Meng Dan replied. “I could not push my luck further though.”
+
+“Still, also useful information. More than we had acquired so far.” Cai Renxiang gave him a nod as well.
+
+They all fell silent then, sensing the approach of a person other than their perfunctory guard at the door. A moment later, there was a quiet knock. Cai Renxiang glanced toward Xia Lin and gestured toward the door. Making her way way over with swift strides, Xia Lin opened the door. On the other side was a meek looking young man with dark brown hair, wearing the plain white clothes of the serving folk.
+
+“What is required of us?” Xia Lin asked simply.
+
+“Guests, Emissary Jaromila wishes to inform you that the Voice will meet with Emissary Lingchee and her sister,” the young man said solemnly, lowering his head in deference. “I am here to give notice so that you may prepare. Someone will be down shortly to escort her to the Voice’s orrery.”
+
+“They are to meet your Voice alone?” Xia Lin asked, voicing the question that flashed through Ling Qi’s thoughts.
+
+“The Voice has only requested her,” the young man said apologetically, withering a little under Xia Lin’s stare.
+
+“That is acceptable,” Cai Renxiang said, not rising from her seat. “Please inform your superiors that we will be ready.”
+
+Ling Qi met Cai Renxiang’s gaze and inclined her head. In the end, it wasn’t something worth arguing. All it would accomplish was potentially offending their host. She wasn’t going to jeopardize negotiations out of fear. Besides, if the Alaniar had ill intentions, there was little they could do except rely on their escape talismans anyway.
+
+She would just have to mentally prepare herself.

@@ -1,0 +1,133 @@
+---
+id: 8b4ba86e-801b-52ed-b4d5-5469936d56c2
+page-type-slug: story-chapter-royal-road
+title: "Threads 289 Construction 2"
+slug: 0327-threads-289-construction-2
+partOf: forge-of-destiny
+position: 327
+ownLength: 2197
+unit: words
+publishedAt: 2023-03-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1127411/threads-289-construction-2"
+royalRoadId: "1127411"
+---
+
+Ling Qi followed Wang Lian away from the work site, chatting about Hanyi and her tour and the work going on at the site. Wang Lian seemed tentatively approving. The woman seemed to approve of innovation as a general principle, so long as precautions were taken for safety.
+
+Wang Lian led her to a small, mundane pavilion of wood and canvas under which there was a a table holding some refreshments. Wang Lian, somewhat against etiquette, poured her a cup of well watered wine as they sat down beside the table in a pair of camp chairs.
+
+“If you don’t mind, Lady Wang, may I ask what you think of this summit?” Ling Qi asked, turning the conversation toward the real subject she had come here for.
+
+“Hugely expensive and of dubious use if this business with the foreigners fails to work out,” Wang Lian replied. “But in the end, we’re getting our expansion without having to bankroll it ourselves. The Wang don’t oppose you, Baroness. Most would even be pleased to see you succeed.”
+
+Ling Qi nodded, though she felt a twinge of discomfort as memories of the nightmare under the mountain came to the fore. She’d not often really thought of what was happening to the cloud nomads in these mountains as they pushed south. At the same time, it was hard even now to muster up sympathy. Even in Tonghou, the cloud tribes were the subject of dark stories told to children at night, and she remembered Elder Jiao’s test in the Sect, the memory of an entire city ripped apart by a vast wind funnel carrying people and stones and earth into the sky.
+
+“Given the Wang clan’s project bringing the nomads into the fold, these peoples and their own project would seem less objectionable,” Ling Qi put forward.
+
+Wang Lian grunted an agreement, swirling her own wine in the cup. “It’s just sensible, bringing the cloud nomads in. The Sect and the Duchess make a right mess of it. Too many children coming in, and not enough older members to care for them. I understand the rage, but they need to be offering surrender much sooner than they have.”
+
+Ling Qi felt an unpleasant twinge at the implication. “Have you raised that objection?”
+
+“I’ve sent it up. Don’t expect much. To most of the province, leaving any alive at all is a great mercy.” Wang Lian shrugged. “It’s hard to disagree. There’s not a person alive, down to the mortals, who have not lost someone to raiders in the south of the province, and the north remembers Ogodei and stories of devils in the sky and slaughtered cities.”
+
+“But you do disagree?”
+
+Wang Lian squinted at her for a moment. “It’s a waste. Most people just want to live. You get rabble rousers, but plant down a tribe and stick them on some pastures, and within a generation or two, they change to fit. They pay their taxes like anyone else. People like their habits. It's just a matter of giving them new ones. Getting them off that awful cultivation of theirs is harder, but you stick with it and give ‘em the alternative, and that gets done too.”
+
+“What is wrong with their cultivation? I’m not familiar.”
+
+“They fuse their souls with beasts. It’s potent, mind you, but it's bad for the young ones. Kills or cripples the talentless. Some would call that a benefit. They say it’s why they have more cultivators born and why they’re strong enough to stand against the Empire even with their low numbers and scattered tribes. Always a strain of that nonsense going around, but I don’t truck with that kind of thinking.”
+
+Ling Qi forced herself to get back on track. “I understand. My apologies for the personal tangent. The primary question I’ve wanted to ask is Wang's opinions on the negotiation itself. What is the most important objective the Wang clan would like established in any treaty?”
+
+Wang Lian took a long drink from her wine. “Maps.”
+
+“Maps?”
+
+“Clear, unambiguous maps and lines of territory. What’s ours, and what’s theirs. No confusion. No uncertainty. Or, at least, attempt to minimize it anyway. The rest is too far off. Pretty words on paper. Hard agreement on what belongs to who without anybody needing to get killed every time a disagreement comes up is what you build civilization on. If these foreigners can be trusted to hold to that, maybe there really is something to this attempt.”
+
+“I understand.” Honestly, Ling Qi thought,  this was probably the most straightforward demand she could expect to hear. It was a little relieving.
+
+Sixiang deflated such thoughts.
+
+<You only say that now, but dickering over which pile of rocks is on which side of the line ain’t simple for you humans from what I understand,> Sixiang thought.
+
+Exacting agreements on territory wouldn’t be easy, but it was at least straightforward.
+
+Sixiang was dubious. <Suuuure it will be.>
+
+Ling Qi coughed into her hand, her mind wandering back to the previous subject. Her thoughts were confused and conflicted. It was only the nightmare she had experienced with Xuan Shi which made her consider it at all. Should she try to do something about it? Could she do something about it?
+
+<Would you be satisfied in not trying?> Sixiang asked her privately.
+
+Ling Qi hummed to herself.
+
+“You look as if you have something else to say, Baroness,” Wang Lian said.
+
+“Lady Wang,” Ling Qi began. “It’s my belief that the White Sky’s methods of integration may have some advantages, which would benefit us and your clan in particular to study.”
+
+“Is that so?”
+
+“From what I have observed, they have gained willing cooperation even in the first generation. They are stronger, and the tribes know this, but they have allowed them some freedom of movement. For example, they allow the integrated tribes to patrol the roads as their migration route and have allowed some intermarriage. Obviously, I won’t ask the latter, but you do have already integrated tribes which could…”
+
+Wang Lian held up a hand. “I understand you mean well, Baroness, but I am not sure how much your advice is worth when you know so little of our methods.”
+
+Ling Qi paused, searching the older woman's face.
+
+<She’s indulging you. Thinks you mean well like she said, but that you lack experience,” Sixiang murmured.
+
+“I wouldn’t object to learning more,'' Ling Qi said. “I merely want as little bloodshed as possible.”
+
+“Admirable, and it is good to seek out and test new methods.”
+
+“Would you consider speaking to the White Sky during the summit then?”
+
+Wang Lian drummed her fingers on the table. “I suppose that isn’t unreasonable. But Baroness, I think it's an idea better broached after this summit of yours.”
+
+Because, Ling Qi realized, no one would even pretend to take seriously the methods of a pack of barbarians until they’d proven able to form and keep a treaty and to be recognized as if not peers, then at least people.
+
+Ling Qi sighed. “Reasonable. There’s also the matter of surrendering. I do agree with you. What you described seems awfully overzealous. Would the Wang clan be willing to put forth more effort on pushing that issue? I truly believe that toning it down and moving closer to your methods would aid the negotiations.”
+
+“And I appreciate that. We are already placing pressure where we can, but being allowed to perform any integration at all requires significant effort. Many demand we end the whole project and purge any who still practice cloud tribe methods.” Wang Lian said thoughtfully, ”I may be able to sway the Luo and perhaps the Blue Mountain Sect, but the General and the Argent Peak Sect? You’ll need Her Grace to do anything about those.”
+
+“Which will also require my success,” Ling Qi said a touch bitterly.
+
+“That’s the way of it. Success breeds success. You’ve earned a little,” Wang Lian said not unkindly. “But you’ll need more if you wish to extend your reach. Why the interest in this matter, Baroness? Is this all about building up our image for your negotiations?”
+
+Ling Qi hesitated. “You know that I practice some Dreaming Moon arts.”
+
+“Dangerous, but that’s ambition for you.” Wang Lian gestured for her to go on.
+
+“You mentioned seeing a great vision when you went before your matriarch. I see such visions in the realm of dreams. And what I saw here in the Wall is an endless nightmare, violence repeating itself back and forth forever.”
+
+“You are aware what most at court would say the solution to that is. It is not what we are doing.”
+
+Ling Qi grimaced. “I know, but cruelty, I think, begets cruelty. And it doesn’t go away.”
+
+Wang Lian made a noncommittal sound, pouring another cup of wine. “I won’t pretend there’s no cruelty in what we do. We crush a tribe in battle, break their warriors, and kill their chiefs, and only when all hope of victory or escape is dead in their eyes do we offer our hand. Anything else invites treachery and fighting the whole bloody battle all over again. It leads to more villages burned and more slaves carried off to live short, miserable lives in the choking sky. Once, my father accepted a peaceful surrender without battle. The tribe which gave it broke their word within the decade, carrying off livestock, material, and other, more settled kinsmen from other tribes. They collapsed a pass behind them, killing hundreds of soldiers. That was probably the plot all along. You understand what a difficult task you're setting yourself?”
+
+“And what do you do with those who surrender? I said I would like to learn.”
+
+“Take the survivors and their stocks, and pick a stretch of mountain out to settle them on. The tribes are pastoral anyway. They have their warbeasts, their ‘beast souls,’ but most of their stock is sheep and goats, adapted for the high mountains. The wool is valuable, the softest you’ll find. It’s half the reason we get away with this project at all, seeing as the imperial herdsmen don’t have the tribe's methods.”
+
+“You could just take the methods though,” Ling Qi pointed out.
+
+“Aye, we could, but that doesn't change the fact you need a herdsman capable of breathing the air above the clouds without trouble,” Wang Lian said. “Regardless, you set up an outpost with enough soldiers to stop them getting ideas, and you tell them they owe a tithe each year. They understand that well enough. You set it high enough that they can’t quite afford to feed themselves on their own. Then you apply the first benefit, food from the lowlands with low qi density. Assign an imperial physician to the outpost, who tempts them with the food and care and makes sure to minimize their access to their own cultivation materials while offering a trickle of imperial ones. More children tie them down harder and makes it harder to run. It’s best if you can set up a mirror settlement down where the air is thicker, but you can’t always get people willing to risk that. Sometimes, it has to be further away.”
+
+Wang Lian spoke with the air of a professional listing off the requirements for completing a work order.
+
+“And I suppose they are restricted to the mountain you place them on under pain of death,” Ling Qi said.
+
+“Those are the terms for the first generation,” Wang Lian agreed. “Some exceptions are made for collaborators. A good reward for someone who has been an informer or had good behavior is to allow them out with a patrol to earn glory. Mostly, the rest of the program is controlled mixing. Children are raised in the lower village once they’re old enough. The parents can come down on a controlled basis with more leeway if they take up a trade or military post or they’re part a mixed family. There’s more to it, but those are the basics.”
+
+“Mixing is allowed? That must upset many.”
+
+“It’s encouraged. And it very much does, so we don’t talk about it much.” She gave Ling Qi a hard look. “It’s still the best way to bring them in and keep them there when you can manage.”
+
+Ling Qi was all but certain it was probably uglier and less clean in reality because that was the way of the world. But practices could not be changed so easily. She’d been rebuffed for now, but not harshly. She’d come back to it later.
+
+“I see. Perhaps I can make a visit to your lands someday to understand further. For now, I should probably turn back to the negotiations. Lady Wang, you speak of establishing clear borders, but we should speak more on where exactly the Wang would like these lines drawn.”
+
+“True enough. We will be pleased to host you someday. As for the maps, we’ll have to arrange more surveys, likely in a collaboration with these foreigners of yours…”
+
+She rang a bell, calling a servant to bring in the maps, and Ling Qi settled in to discuss the Wang clan’s interests further.

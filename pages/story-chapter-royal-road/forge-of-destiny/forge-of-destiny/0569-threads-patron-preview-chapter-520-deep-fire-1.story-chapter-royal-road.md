@@ -1,0 +1,123 @@
+---
+id: d5156d62-f204-5d84-8b7a-a68eb0821e7b
+page-type-slug: story-chapter-royal-road
+title: "Threads Patron preview Chapter 520-Deep Fire 1"
+slug: 0569-threads-patron-preview-chapter-520-deep-fire-1
+partOf: forge-of-destiny
+position: 569
+ownLength: 1869
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3416591/threads-patron-preview-chapter-520-deep-fire-1"
+royalRoadId: "3416591"
+---
+
+They arrived back at the Boiling Deeps Shrine as the sun was beginning to sink, painting the sky in twilight colors. The air was heavy with moisture, still glittering with the mist of the last geyser. Zhengui awaited them there, laid out on the hillside, legs withdrawn into his shell, head half pulled in with Zhen coiled, smoldering atop his shell, deep in his own meditation.
+
+As they approached, Zhen's tongue flicked out, the forked tip trailing ash. "Sister."
+
+"Zhen, are you both ready for our trip?" Ling Qi asked, stepping away from Meng Duyi, who hung back in the fading light in the shadow of the temple. He was only going to observe after all.
+
+Gui slid his head fully out, the bright green of his eyes shining as he blinked. "Yes! Gui is ready and will carry Zhen where he needs to go."
+
+"You had better! Steady Gui will need to support the great Zhen as he makes this stinky gas fire listen to his words!"
+
+Ling Qi snorted."Zhen, please be more polite when we descend."
+
+"Gui thinks he is just getting it out of his system now."
+
+"I, Zhen, only speak the truth, but will be magnanimous in negotiations." His snout tilted back, tongue flicking proudly.
+
+Ling Qi laid a hand on his head as they walked together into the interior of the shrine and to the edge of the geyser where she could hear the bubbling of the waters below.
+
+They took the plunge.
+
+It was strange, skimming the edge of the liminal while guiding her steps down. Roaring bubbles and boiling water sheathed them, and beyond, chips of stone and metal danced like animated mosaics of flame.
+
+Down and down she spiraled, finding herself once again atop Zhengui's shell as he pulled his legs in and let her guide him through the dance. Xuan Shi would have liked this, she thought. In this part of the dream, riding atop Zhengui felt more like steering a boat.
+
+"I, Zhen, feel the veins. This way, Sister." Her little brother’s serpentine body coiled once around her shoulders protectively. She followed the flick of his tongue toward one particular curl of blue white fire, and gently pushed them toward it, entering the spiralling corridor that opened up before them.
+
+"You've spent longer meditating on this, little brother. Can you tell me more about this spirit? Be serious," Ling Qi requested.
+
+They skimmed the writhing metallic flames, bubbles rushing through the boiling water that surrounded them in the liminal imprint of the earthveins. There were numerous wrong paths to avoid, branches and lines that lead nowhere, or out into other spiritual courts from the frozen flames of the Thunderhoof up on the cliff to Snowblossom herself, or the distant crackling of the mountain of the dragon horses.
+
+"Gui thinks he is very sleepy, for a fire thing. But that is because he is also an earth thing."
+
+"A roil of flame, captured when stone stilled and grew restful since. He would dream forever, if the heavens did not disturb him," Zhen expanded, his snout turned downward. "If I did not disturb him."
+
+"We," Ling Qi corrected. "I asked you to oversee and develop the veins, little brother. We both pierced the veil here."
+
+"I, Zhen, do not regret this. The land was cold and harsh. Flame renews. What comes before, goes, and what grows from the ash is new," he proclaimed haughtily. "Still…"
+
+"It's easy to say that, but less so to enact it over a place you value. You want some control of what dies and what is renewed. You are not a wildfire, any more than I am a blizzard," Ling Qi said.
+
+The temperature was rising. She could feel her qi beginning to churn uncomfortably, the core of cold in her rising to the surface, instinctually straining against the hold she kept on her qi in the dream. There was sweat on her brow. That was a novel feeling.
+
+Zhengui's shell scraped across the metal-flames as they grew less granular and liquid and more solid. White hot shards of ore and stone displacing under his weight as Gui carefully climbed to his feet, beneath them the whole of the 'ground' shifting and stretching like soft sand as he began to trundle forward through the ruddily lit passage, bubbles emerging from his mouth as he spoke.
+
+"Gui thinks some things are meant to burn. Some are not. The needle-y trees will not be renewed if they are scorched; they will just die. The funny grasses growing on the hill will scatter if they burn, and grow again, but they will also eat up all the soil goodness and choke out other grass and flowers. When there is life, it is because that which was there before is dead."
+
+"This spirit is a wildfire, disturbed. Heaven drives him mad, he who has slept so long. The air makes his flame burn bright and will make his flame burn out. He is not like Zhen. He will make a field of ash and a sinking pit when his throne caves in, and he will die, and that will be that," Zhen said, returning to answering her question. "He will not be sad for this result, because it is his nature."
+
+Spirits did not always regard their endings with fear, as mortals did. It wouldn't be so simple as offering the spirit a way to burn without dying, although that might be part of taming it. That concept would almost certainly be a part of shaping him into a spirit they could coexist with, if that was what they wanted to do.
+
+At this point, she did not know enough to determine if that would be possible.
+
+"What do you want to do here, little brother?" Ling Qi asked.
+
+Coincidentally, they were coming up to a split in the path. Or rather, seeing as the liminal was reflecting the thoughts and nature of their discussion, it wasn’t as coincidental as it seemed.
+
+"I, Zhen, wish to find a way for this spirit to expend himself, which paves the way for growth, rather than unmaking my kingdom," her little brother answered, boiling bubbles emerging around the flicked forks of his tongue.
+
+Ling Qi grimaced. "I understand. I dislike the feel of it though, destroying a spirit just because our infringement on its domain has caused this reaction."
+
+It felt wrong.
+
+Gui tilted his head. "But he wants to explode? This is what he has whispered to Gui."
+
+"He yearns for and exalts in the wrath of the moment of destruction. Before we came, the earth crushed him, and so, he slept in cold stone, unable to spark. He is awake now, and has fed, and so, he wishes to burn," Zhen explained. "I thought to find a way to bend him to change him and make him my courtier, but I, Zhen, do not think this is good. No. Better to let the spirit of the fires do as he wills, where it cannot harm what is mine. It is not good to chain all destruction, to prevent endings, just because."
+
+Her usually bombastic and haughty little brother was surprisingly thoughtful and somber. The glittery chips of superheated stone and metal crunched and sank beneath their tread as they passed down the hotter of the tunnels, and in the distance, Ling Qi saw dancing light and heard, down in her bones, a pounding beat like a thousand, thousand drums.
+
+"Refusing endings is another form of stagnation, I suppose," Ling Qi acknowledged.
+
+Preservation had been her goal in ways large and small recently. The severing had fallen from her thoughts.
+
+"Like the corpse-scribbler. It should have died and didn’t. will only go rotten," Gui said.
+
+The tunnel rumbled, the stone chips churned, and a roaring tongue of flame erupted. Writhing roots sprang up, blackening into dust in moments, but eating the heat of the flame so that only a few scattered bubbles of heat reached them. The boiling waters sizzled across her skin as they advanced, but her own inner chill meant it was only a slight discomfort.
+
+"I worry about making the decision of when something should end," Ling Qi mused. “It is obvious in the heat of battle, or when it is as obvious as a rotting corpse, still shambling about, but in other circumstances, it is not clear."
+
+It was not a choice that sat happily with her to end another's choices forever.
+
+"I, Zhen, see. Zhen, too, is worried he will break something with too much haste when the recording of our domain is done, but it is impossible to expand without breaking other domains. Without the fire, there would only be old, dead things crushing new shoots forever. So, Zhen must be wise. Big Sister must be wise. Who else will be wise for us?"
+
+"Teacher Far Walker is wise for us," Gui rebutted brightly, referring to Meng Duyi.
+
+"Zhen was making a rhetorical point, foolish Gui!"
+
+She sighed, allowing herself a small smile. Ling Qi joked wryly, "If it's what the fire spirit wants, at least it shouldn't be hard to convince him."
+
+"Gui appreciates Big Sister's positivity," Gui said cheerfully.
+
+Yes, she supposed so. A spirit of raging, explosive fires would likely not take kindly to being told where to burn any more than it would take being told not to burn at all.
+
+But Meng Duyi had given her some pointers and ideas of how to sing, how to feel, how to shape.
+
+"You have the full breadth of the earthveins in mind, little brother?" Ling Qi asked.
+
+"Of course. Zhengui knows them like his own scales."
+
+The fiery tunnel turned, plunging directly downward into the boiling depths of the earth, and they descended again.
+
+It was no longer enough to rely on the ice flowing through her channels by the time they reached a stable place to stand. The soft hymn of the spirit seekers rose in the back of her throat, shielding her from the searing sparks and roaring heat.
+
+The darkness had been banished, leaving only a lurid orange and red. The ground was like dense mud, but was composed of liquid stone. It pulled at her feet with every step.
+
+Zhengui was the worse for it, immersed up to his neck. His short, stubby legs doggedly churned the magma to swim through it, aided by rootlets that rapidly burned up. Islands of solid masses of metal or harder dotted the sea of lava, acting as waypoints. As they grew closer, and the dancing flames licking every surface took on more and more intelligent mien, gleaming eyes following them in tongues of flame.
+
+Ahead, a vast gate of boiling stone, contained in a filigree of gleaming, half-molten metal, loomed. A great crack ran through it, almost splitting one door in half. They were near their destination. Hissing flames rose as they neared the gate, taking on ephemeral shapes. She saw faces, arms, and the suggestion of a body clinging to a skeleton of white hot mica.
+
+"Kiiiindling. Kindling who comes to the court of earthly fires, yet does not burn. It rejects the flame! Who dares, who dares, in this place?"

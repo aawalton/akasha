@@ -1,0 +1,167 @@
+---
+id: a8d1f0c1-7fdb-5627-b187-f60b490df262
+page-type-slug: story-chapter-royal-road
+title: "Threads 316 Parting 2"
+slug: 0356-threads-316-parting-2
+partOf: forge-of-destiny
+position: 356
+ownLength: 2042
+unit: words
+publishedAt: 2023-06-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1255788/threads-316-parting-2"
+royalRoadId: "1255788"
+---
+
+All things come to their end. She knew that better than most.
+
+With the others in the music club needing to return to duties or other appointments, Ling Qi was left to walk the sect in thought. Her steps brought her back to White Cloud Mountain in the Outer Sect. She followed the path she’d taken so long ago up toward the icy peak. She could have simply flown to the top, but walking again and feeling the icy bite of the wind and the slick icy cliffside paths under her feet felt right. It brought back memories, both fond and sad.
+
+“Heya, Big Sis! Wanna play tag? I’ll let ya pass if you do!”
+
+Ling Qi raised an eyebrow, looking up through the falling snow to see a young girl perched on an icy ledge, kicking her bare feet back and forth.
+
+“That depends. Are you going to try and welch on your end of the deal again?”
+
+Her spirit huffed, crossing her arms. “Don’t drag up the past. I was super immature back then. I’m a lady now, and a lady has to keep her word.”
+
+Ling Qi dissolved between steps and materialized beside her junior sister on the ledge, wrapping an arm around her shoulder. “You having fun?”
+
+“Yeah. Wish Zhengui coulda come so we could have gone sledding one last time,” Hanyi said. “Gonna miss this place.”
+
+“It won’t be the same, but we have plenty of mountains for you to explore,” Ling Qi said. “If you go sledding with Zhengui though, please be aware of what’s downslope from you.”
+
+He was so much bigger now. They didn’t need uncontrolled avalanches at the fief.
+
+Hanyi rolled her eyes. “Yes, Big Sis.”
+
+Ling Qi narrowed her eyes at the ice spirit. She didn’t like that tone.
+
+“Is Sixiang okay?”
+
+She blinked at the question, surprised Hanyi would ask. “We just needed a break from each other. Besides, they want to try out having legs.”
+
+Hanyi pouted at her. “I’m not a dumb kid. You two had a fight, right?”
+
+Ling Qi allowed her smile to fade. “We had a talk,” she corrected. “If it was a fight, then it's resolved.”
+
+Hanyi huffed out a sigh that sent the snowfall skirling and twisting around them. “Are they gonna leave?”
+
+She pursed her lips. “I don’t think so. I hope not. But if they want to, they can.”
+
+“Hmph! No wonder they’ve been dodging me. Probably don’t want to hear me tell them how dumb they are for thinking about it!”
+
+“I’m sure that’s it.” Ling Qi ruffled her hair. More likely, Sixiang was trying not to be tempted by sticking to the familiar in their time apart. “You want to finish walking up?”
+
+“Yeah,” Hanyi said, taking her hand
+
+They hopped down from the ledge and resumed walking up to the peak. It didn’t take so long as they were, even sticking to the ground. They were soon in front of the crumbled cairn of rocks that served as Zeqing’s grave, giving their respects. Hanyi blew out a breath, growing blooms of frost from the cracks between the stones, and Ling Qi placed the cold burning sticks of incense into the little burner on the altar of clear blue ice set up before it, letting the soft blue-white smoke be carried away into the storm and the slowly, slowly reforming entity that she could sense within it.
+
+Intellectually, she knew that the spirit which came into existence here would not be Zeqing, not in any meaningful way. But she still hoped that it might remember them at least a little fondly.
+
+They remained at the grave in silence for a while, both contemplating the one laid to rest here. The wind whipped and tore at their gowns, but neither of them were moved by something so paltry.
+
+When she was done, Ling Qi clapped her hands twice and bowed. Straightening up, she looked back over her shoulder. “Senior Brother, you can come out now.”
+
+“I was merely being polite.”
+
+“I know, or I probably wouldn’t have noticed you at all.”
+
+It had been quite a long time since she had seen Liao Zhu. The initial stages of the war had not been kind to her former tutor, leaving him in a coma, but it seemed that he had come out of his encounter with whatever it was that had arrived at the end of the caldera battle intact. He had a few more scars visible on his chest. And for once, he was not wearing the fanged demon mask over his face. The crimson crescent tattoo under his eye had deepened in color though, the red outlined in stark black. It was joined by a matching mark, perfectly symmetrical with the first under his other eye. But most striking…
+
+“That isn’t your spirit filling in anymore, is it?”
+
+He looked down at his hand, the one he’d lost to ith-ia artifice. The muscle and flesh flexed realistically, but the shimmering liquid silver color of it was anything but. He flexed his fingers, and they became barbed knives, flowed into a long, thin blade, and then shifted back to human fingers.
+
+“Elder Jiao was quite bored during his own recovery.” He shrugged. “It is good to feel whole again. To have my magnificence tarnished so could not be good for the morale of the sect.”
+
+“Senior Brother’s recovery is vital, no doubt,” Ling Qi said.
+
+“Who’s this guy?” Hanyi asked, looking him up and down.
+
+“This is Liao Zhu. He accompanied us on our mission underground, remember?”
+
+Her junior sister frowned, putting her hands on her hips. “Oh! You feel different!”
+
+She considered him. His qi was all but undetectable to her, but Hanyi saw the world differently.
+
+“Even one such as I do not emerge from the crucible unforged. But junior sister, I have heard that you have been very busy indeed.”
+
+“I choose not to leash my ambitions,” Ling Qi said. “I cannot seek the peak with small desires.”
+
+“And you will drag the whole of the empire a finger length or two, if you have your way. I am so proud of my junior sister, finally finding her sovereign’s appetite.”
+
+Hanyi gave an imperious nod. “Big Sis is just too shy sometimes. But she’s getting better! You should come hang out at her new place with the big snake guy and the turtle guy she’s got hanging around.”
+
+She dropped a hand onto the top of Hanyi’s head, ruffling her hair a bit harder than necessary. “Please excuse my junior sister. She lets her mouth run sometimes.”
+
+“Siiiiis, you gotta go for it!”
+
+“I have to do no such thing,” Ling Qi snapped. “Hanyi, that’s too much.”
+
+“What a lively girl.” Liao Zhu laughed. “Truly, I fear for your nerves in the future!”
+
+… She was for sure very glad that Hanyi was still childish in some ways.
+
+“I have some appointments to keep, so do you mind if we talk and walk, senior brother?”
+
+Hanyi gave her a rebellious look, but she relented when Ling Qi squeezed her fingers down.
+
+“Of course. Where might you be off to, junior sister?”
+
+“I’m going down to the main square to speak with an old friend,” Ling Qi replied. “There’s some business I want to mention, and it would be nice to talk again before I leave.”
+
+She’d grown apart from Han Jian and he, apart from her, but she did still remember his early kindness. She at least wanted to greet him once while their paths had briefly crossed again in the Inner Sect.
+
+“I see. Then allow your dashing senior brother to escort you on the journey. It has been too long since we spoke.”
+
+“It has. Chaos and war is hardly the best for keeping up with friends. Did you wish to take the slow path?”
+
+“We can descend the mountain quickly, but even I, Liao Zhu, would have difficulty holding a proper conversation while soaring.”
+
+“Yeah, I wanna walk anyway. Let’s just jump down and go!” Hanyi exclaimed.
+
+“Fair enough.” Ling Qi moved to the edge of the icy peak. Hanyi leaped onto her back, scrambling like a monkey to cling onto her shoulders. Another step carried her over the side, plunging down to land soundlessly on the snowy ledge below. Liao Zhu followed her down a moment later, leaving no more print in the powdery snow than she did.
+
+“You have taken on a heavy burden indeed,” Liao Zhu said conversationally as they began to walk, seeking the next location where the drop would only be a few score meters.
+
+She glanced at him, smiling, and repeated, “One must be ambitious to reach the peak.”
+
+“I merely find it terribly amusing that you have taken your disparate patrons and arrived at a place so like one of mine. The twisting paths of the moon are mysterious, no?”
+
+“What’s he talking about, sis?” Hanyi asked, resting her chin on Ling Qi’s shoulder.
+
+“Senior brother follows the Bloody and Reflecting Moons. It’s the latter he’s referring to.”
+
+“Oh, the talky siblings.” Hanyi squinted at him. “Huh, yeah, I guess Big Sis does talk a lot.”
+
+“I’m so honored that my junior sister thinks so highly of my work,” Ling Qi deadpanned.
+
+“It is the long and short of it though, no?” Liao Zhu laughed. “Truly, I am vexed! To be surpassed in my own field by a dabbling junior!”
+
+“I think only I had the right factors to bring about this conclusion.” Ling Qi thought about what Xin had told her about fate and precognition. “The Great Spirits may not control the game, but they are certainly skilled at counting the cards.”
+
+“Mm, they may only give us opportunities. The course of the world remains in our choice,” Liao Zhu said. “It was your will and choices which have brought about your fate.”
+
+“It doesn’t matter how many cheats you used and how much help you got getting into the vault. It’s your hands that have to snatch the treasure,” Ling Qi said wryly.
+
+“Hoh, an irreverent way of looking at it.”
+
+“I have to be irreverent when I get the chance, or I just might spit in someone’s eye during a fancy dinner.”
+
+“As if you would be so openly crass. My junior sister, I think you like the part of the elegant lady more than you admit.”
+
+“Yeah, my big sis is the best and most graceful lady,” Hanyi boasted. Then, in an aside to her, Hanyi hissed, “Sis, you shouldn’t say gross stuff. You’ll scare him away!”
+
+“I don’t want to hear that from you!” Ling Qi exclaimed as they stepped from the ledge, fluttering down to the next, a copse of scraggly trees clinging to dirt and stone. They were a little ways above the old argent vent, Ling Qi thought. How nostalgic.
+
+She rolled her eyes as Hanyi broke down giggling. Then she looked to Liao Zhu as they strode through the barren trees. “I have thought about that. I wondered why the Reflecting never called to me when I have chosen a path that seems to match it so well.”
+
+“Our patrons have only limited patience for sharing, Twin Moons more than most. But I think it comes down to how you arrived at where you are. In the end, though the destination might seem similar, the Way was different,” Liao Zhu said.
+
+She didn’t arrive at Communication through high-minded ideals or rationalism or a devotion to proper order. She arrived there through desire, desperation, and want. “And what is the Reflecting Way?”
+
+Liao Zhu considered. “Mutuality. I feel in your qi that you have touched this. But the Reflecting Moons come from a place of contemplation, of consideration, and of deep sympathy. The desire is not for inner secrets, but the understanding of the interlocking gears of action, reaction, and causality in driving the great engine of fate forward.”
+
+Ling Qi considered as they descended, skipping, sliding, and floating down a slope of loose gravel, only a bit less than completely sheer in angle. “I think I can understand the distinction, but it does seem almost semantic.”
+
+“In the end, though there are eight faces, there is only one moon.”

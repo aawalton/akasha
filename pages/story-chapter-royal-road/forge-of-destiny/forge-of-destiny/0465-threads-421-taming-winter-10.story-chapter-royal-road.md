@@ -1,0 +1,127 @@
+---
+id: 2596d97d-1869-5e3d-afaf-2853eaefeab3
+page-type-slug: story-chapter-royal-road
+title: "Threads 421-Taming Winter 10"
+slug: 0465-threads-421-taming-winter-10
+partOf: forge-of-destiny
+position: 465
+ownLength: 1813
+unit: words
+publishedAt: 2025-01-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1988875/threads-421-taming-winter-10"
+royalRoadId: "1988875"
+---
+
+Ling Qi looked out over the glacier, now stained in the colors of the sunset. Her eyes followed the glittering blue trails of the streams and little rivers that trickled down to disappear beneath trees and between valleys.
+
+The Weeping Mother's cold was not her cold, but there was a point in the spirit’s vision which she had not properly grappled with in her own understanding.
+
+"Stones for your thoughts?"
+
+She glanced at Bao Qian, who had seated himself heavily on a flat stone outside the cave mouth. He was painstakingly wrapping his hands in bandages moist with some medical tincture.
+
+"You said it," Ling Qi said. "What matters is that you did it."
+
+"Haha, I'd not give my little ramble much thought. I was hardly…"
+
+"No. I think I will." She turned back to the sunset. "So much leaves your control, the moment you've acted. Too many other people are making choices. The glacier has no say in which way its child streams flow. The hills and the forests they flow through have no idea the glacier even exists. It waters them all the same. Maybe you'll be forgotten. Maybe you won't. Does it matter?"
+
+Hanyi, she saw, was looking back at the entrance of the cave, her expression troubled. She didn't think her junior sister was ignoring them, just deep in her own thoughts.
+
+"It shouldn't, but it hurts all the same to go unacknowledged, no matter how hard you toil."
+
+"Why did you insist that you weren't hollow?"
+
+He snorted. "Isn't that always the accusation, said in prettier words? One who buys and sells can never be sincere or hold anything dear. No, my pride in my work can only be a salesman's sham."
+
+She continued to observe the streams flowing far below through the lightened clouds.
+
+"... It's not wrong. Many Bao are like that. We set our eyes on the unattainable peak of the Law of Wealth and empty ourselves out as surely as any sword immortal. It is exhausting for every breath and step to be measured and weighed against an investment calculation. Easier to align yourself with it and achieve better efficiency."
+
+"And so, you were sent to me?"
+
+"I am a low enough value asset that I can be invested in a risky scheme, certainly. However, you should know the planners of the Bao are not so myopic or simple as I make them sound with my grumbling. Many factors were considered, and there were many scions of the lower middle rankings that could have been chosen."
+
+His fingers now tightly wrapped in the medical gauze, he began to pick up the rings scattered at his feet like colorful raindrops. He scrutinized each one in turn, buffing away blood and clinging bits of tissue before returning them to storage.
+
+"But I have found something valuable here in the south. There's a certain rush to people’s lives down in the foothills and to the circuits I've made with the young miss. And though we've not been able to speak much, there’s something intriguing to you as well."
+
+She turned her head enough to look at him as he spoke.
+
+"You are propelling something great forward, you and the heiress. And in all the thronging theaters and squabbling music schools of the north, I've never heard a song which tears at the heartstrings quite like yours." Bao Qian looked up from his last ring. "I won't pretend we've begun well for anything but business, but I'd like to keep my chance at your hand, Ling Qi."
+
+Ling Qi hummed thoughtfully. She had never disliked Bao Qian. She had merely been ill suited to the arrangement back when their formal courtship began. However, she wouldn't lie to herself. She wasn't sure she felt the same spark of interest in Bao Qian that Meng Dan had given her, even with a compliment like that, but on the other hand, it had only been a matter of months since she had been able to admit any such feelings at all.
+
+"I will be very busy. Your tour is coming up. There’s also the wedding at the capital, and then the underground offensive," Ling Qi warned.
+
+"I will be in that offensive, if only in the supply lines. As I am here already, my clan has volunteered me for a quartermaster’s service in our contingent." Bao Qian smiled wanly. "Hardly the place for lighter activities."
+
+"No," Ling Qi agreed. "But then, you do have a point. I’ve already begun to feel like a year is less time than it ever was. Let's see where this relationship goes this coming year. If we are still in this place at that point…"
+
+"Then, partners in business we remain," Bao Qian finished, rising from his seat. "Now, we'd best start our climb down if we want any kind of comfort in our camp tonight."
+
+"Where's the drama?" Hanyi complained under her breath, tucking her hands under her arms. She looked put out.
+
+Ling Qi shot her junior sister an amused look. Hanyi really was too transparent. If her little sister had her way, Ling Qi would be surrounded by handsome aristocratic men like some kind of imperial princess. Frankly, that sounded exhausting.
+
+Ling Qi started down the path. "Yes, we should. I do think I could go for a meal tonight. I've not much skill with a campfire though."
+
+"I can give instructions, even if I can't tend it myself. There should still be enough meat for a good stew," Bao Qian pondered.
+
+"Oh, do you still have those prickly tongue things we had at the end of our last trip?" Hanyi asked, recovered in cheer. She bounced up beside them as they descended into the clouds.
+
+"The ground ice pepper powder? I thought you were going to cry last time you tried those, young miss."
+
+"Nuh uh, my eyes were just watering. I'm grown up, so I can handle it!"
+
+"Well, I am grown up too, and I think I might prefer something more mild," Ling Qi said dryly.
+
+The seasons rolled on, and the world turned whether she was there or not.
+
+So, she had to make her presence count.
+
+***
+
+The road to Snowblossom and Shenglu was packed with traffic for their return. The train of guarded wagons, filled with work crews and rattling with the empty space left by unladen supplies, streamed back toward the interior of the empire. There were far more wagons than the sluggish trickle that had been drifting in since they first established a presence at Snowblossom.
+
+It seemed Cai Renxiang was still making full use of her access to something approaching a true ducal heir’s budget, and what she saw before her was the result of the mountains of paperwork, requisitions, permits, orders, and more, that Cai Renxiang had been blazing through. After she left to return to the sect for her recovery, Cai Renxiang had finalized the foundation of their first settlement as an official entity under imperial law.
+
+Ling Qi honestly could have returned faster by walking beside the road, but with the sore ache of all her recent exercise radiating through her limbs, Ling Qi did not mind the longer trip. She leaned against the frame of the window set to look out over the driver’s bench.
+
+The settlement came into view after a time. First came the farms and pastures set in the hills. Beyond them, the geyser could be glimpsed via a rising cloud of steam and mist at the edge of mortal vision. And soon thereafter, she could see the buildings rising in the mist by the base of the cliff and falling waterfall. The elegant shape of the manor had been joined by other rooftops, gleaming blue and pale green shingles on peaked roofs rising through the churning mist. Shapes carved into the base of the cliff itself showed the beginning of construction taking hold there, too. The crude palisade wall with its rough hewn logs lashed together and buried in the earth seemed at odds with the more refined structures within.
+
+Bao Qian whistled. "Lady Cai is certainly not letting up. You all will have quite a town here in not too long."
+
+"We had better. It’s not enough for us to simply muddle along." Ling Qi wondered if she should select one of the homes for her family, or if they would be better housed in a wing of the manor for now while the defenses and wards were being better set up. Either way, she would be sending along the moving order to her household in the sect town soon. She was looking forward to seeing Mother and Biyu again. "Oh! Look. It seems she has gotten the bunks and roadhouses up outside the walls."
+
+"She would have to in order to organize this much traffic and temporary labor." Bao Qian squinted into the distance. A tug on the reins got his horses moving,  leaving the well paved main road for the dirt side path leading toward the hastily assembled stables. "It makes sense not to bother with permanent accommodations when you're still expanding so quickly."
+
+"I suppose even Lady Cai can admit to that in necessity."
+
+Soon, they rolled into an area set aside for them, and a number of haggard looking guards and officials approached to inspect their wagon, only to leap to attention as Ling Qi disembarked. She smiled faintly at the show, but did her best to move them along, telling them she would be along to the manor to report to Lady Cai soon.
+
+"Thank you for your help, Bao Qian. Let's speak again soon," she said when she could finally turn back to him. "I'd like to make sure I understand the tour plans."
+
+"Of course, Lady Ling, Miss Hanyi. It's been a pleasure."
+
+***
+
+"Seasonal chestnut imports."
+
+There was a faint skepticism to the words.
+
+"Indeed, Lady Cai." Ling Qi’s hands were clasped in front of her. Bowed at precisely the correct angle, it allowed her growing hair to hang past her face and give cover to her small smile.
+
+She might enjoy causing Cai Renxiang to wear that particular expression a little too much.
+
+Her liege set her quill down and steepled her fingers in front of her. "Because that is what was being roasted when the winter spirit came upon you."
+
+"Correct, Lady Cai."
+
+Renxiang closed her eyes and breathed out. "Very well. I expect you to have the trade requisition for the specific breed of chestnut used, as well as the yearly cost estimates of the import given route tariffs, filed in full by tomorrow morning."
+
+Ling Qi's smile vanished. "Um…"
+
+"Baroness Ling has surely considered the full needs of her request on the journey home after all," Cai Renxiang said blandly.
+
+… Well, that wasn’t fun at all. Since when did Renxiang hit back?!

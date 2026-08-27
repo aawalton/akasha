@@ -1,0 +1,165 @@
+---
+id: 913be0d3-3bb1-5882-bd7c-28d048fc0f5e
+page-type-slug: story-chapter-royal-road
+title: "Threads 44 Death 1"
+slug: 0057-threads-44-death-1
+partOf: forge-of-destiny
+position: 57
+ownLength: 3023
+unit: words
+publishedAt: 2021-02-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/623843/threads-44-death-1"
+royalRoadId: "623843"
+---
+
+It took four days to make it back to the Sect.
+
+For the first time, Ling Qi got a real sense of just how massive the province and the Empire were. Ling Qi had been a little surprised that they had not simply taken another transport formation, but when she had asked, Cai Renxiang had informed her that it would be an excessive expense.
+
+Ling Qi kept herself busy by beginning to examine the flows of some of her arts and how she could channel them more efficiently, using fewer meridians. Cai Renxiang was not one for small talk, so it helped to keep her from going stir crazy and kept her mind off other things. If she lost herself in weaving new and better qi patterns, she did not have to think about staring eyes and the broken pile of frozen meat that had once been a man.
+
+It did not help that Sixiang had remained dormant for two full days, only awakening after they had been attended to by a physician in a larger city on their way. The restorative elixir Ling Qi had been given to speed the healing of her less physical wounds had rejuvenated the spirit as well. Even then, however, the muse had remained quiet and reticent. Zhengui had been quiet as well. Only Hanyi remained in high spirits, and she had quickly gotten frustrated with everyone else’s mood.
+
+Ling Qi had never been so glad to see the Outer Sect mountain than she had been on the evening of the fourth day. When she had taken leave of her liege, she had gone straight to her mother’s home. Her encounters with the staff had been as awkward as always, especially with memories of the past swimming closer to the surface than usual. However, when she had met again with her mother, the first thing the older woman had done when they were alone was hug her.
+
+It had felt good to discard the pretense of a cold noblewoman. That had been the first night that she had spent at the house in town and the first time that she had slept in some time. She found that she did not mind as much when she could spend those unconscious hours walking the shore of the sea of dreams at Sixiang’s side in contemplation.
+
+She remained at the house the next day, sitting in at breakfast with her mother and sister. She left for a short time to move into her new residence from successfully challenging the disciple ranked 768 and advancing into a new tier the month before and to drop off Zhengui at the hill the Sect had set aside for his use. Her little brother, both halves of him, had been insistent that they wanted to practice some things in a place where they wouldn’t break anything important. Hanyi had elected to go with him to “make sure he didn’t just laze around.”
+
+It left Ling Qi with some time to spend with the human part of her family, something she was glad for. She was glad to have a little moment of quiet out on the veranda with her mother while Biyu played in the garden.
+
+“I am glad that you seem to be recovering from your trip,” her mother said quietly, cradling a cup of tea in her hands. “Are you able to speak about it?” The older woman was still hesitant in her address.
+
+Ling Qi almost demurred. The things troubling her were not something her mother could easily relate to, but she had decided against keeping her mother out of things just because those things might trouble her, had she not?
+
+“We went, and we dealt with the bandits,” Ling Qi replied with a wry smile. “I was just the one who dealt with a lot of them personally.”
+
+Ling Qingge nodded, looking out at Biyu chasing butterflies through the garden. “I had thought it was so,” she admitted.
+
+Ling Qi glanced toward her without turning her head. She supposed it was an obvious assumption to make given her haggard state the night before. “Your family before - were any of them in the guard or the army?”
+
+“A few cousins,” her mother answered. “And though I know you would ill like to hear it, many clients as well. It is not uncommon for young men to come seeking comfort after their first brush with death.”
+
+Ling Qi wrinkled her nose in disgust, but… Yes, she could accept the point. “I think I will find other outlets,” she said dryly.
+
+“Probably for the best,” Sixiang murmured, the wind of their words tussling Ling Qi’s hair.
+
+Ling Qingge did not startle at the spirit’s interjection. “I agree. I was merely pointing out that the look in your eyes was familiar in more than one way.”
+
+Ling Qi sighed but nodded. “And what does one do to get over it?”
+
+Her mother frowned. “Some become cruel, others separate their duties from themselves, and more merely accept it as a grim necessity. There are as many reactions as there are people. I am sorry, my daughter. I have no simple answers for you.”
+
+“I don’t think there is one. You lot aren’t built to just accept this kinda thing, I think,” Sixiang mused. “There’s so much art and song and rhetoric dedicated to making it seem okay after all.”
+
+So she had to find her own path forward. That was hardly new. She thought back to Cai Renxiang’s words. This, too, was part of being a cultivator. It was a responsibility that arose from power in this world. She thought she could understand a bit what motivated those hermits who went into their caves and never emerged.
+
+There are few things more wretched than a human who is truly alone.
+
+Ling Qi blinked as those words came to her, arising from memories of her time with the three moon spirits. They resonated with her, echoing through the twisting channels of qi that wound throughout her being. Even if she understood some possible motivation for those hermits, she couldn’t do that to herself.
+
+“Sis-y!” She blinked, shaken from her thoughts as her little sister ran up to the veranda, a pout on her face. “Sis-y, I can’t catch them! Help, please?” Biyu asked, gesturing imploringly out toward the garden.
+
+Sixiang chuckled in her thoughts, and Ling Qi smiled, reaching out to tousle the little girl’s hair. “Sure thing, little sister. Let’s go catch some butterflies.”
+
+For once, Ling Qi didn’t mind spending an afternoon with no thought for cultivation.
+
+In the days that came after, she began to resume her routines, but her trips home grew in frequency. She took to spending more time composing music in the garden, sometimes with her mother, sometimes with Hanyi, or more rarely, both. Gradually, the household staff began to, if not relax, at least become used to her presence. When night fell and Biyu slept, she spent time inside with her mother, coaxing her through the opening exercises of cultivation arts, seeking one that fit her mother well.
+
+In those first few days back, Ling Qi’s time on the mountain was limited, but even so, it was quickly becoming clear that word of what had happened on the border was spreading. Still, none approached her directly until she was approached on a day when she was out in the market with Bai Meizhen and Gu Xiulan.
+
+***
+
+“... And then we took a carriage back to the Sect,” Ling Qi finished.
+
+She sat in the front room of Meizhen’s lodgings, her hands folded in her lap. They had plans to go out today, but Ling Qi had arrived early. It hadn’t felt right to leave her friend in the dark, so she had come early to explain. Thankfully, Cai Renxiang had agreed when she asked permission to tell Bai Meizhen. Rumors were already spreading, though neither of them could pinpoint the sources. The incident was not going to remain hidden.
+
+Meizhen stood in front of her, facing the fire with her back to Ling Qi. Cui lay coiled around her feet, eyeing Ling Qi with a cold gaze. Ling Qi held back a grimace. Things had never really recovered between her and Meizhen’s cousin. She doubted this would help. She held some hope that Meizhen at least would not be too badly affected.
+
+“I suppose I will apologize,” Ling Qi looked up from Cui’s gaze as Meizhen spoke, looking back over her shoulder at Ling Qi. “It is unfortunate that such a thing would happen.”
+
+“You’re not angry?” Ling Qi asked warily, searching her friend’s face. “I mean, he was family, wasn’t he?” She couldn’t imagine how she would feel if someone she knew admitted to killing a member of her family, but it wasn’t… this.
+
+“Hmph. The Ling presumes too much. The foolish thing went against Aunt and Mother’s plans. If her fangs had not found its throat, I, Cui, would have killed it myself,” Cui replied with a scoff.
+
+“I somehow doubt that we would have been summoned for such a duty,” Meizhen said dryly, glancing down at her cousin. “Ling Qi, I cannot know this man’s intent, but his actions blatantly defied the heir presumptive of the Bai Clan. His fate was sealed regardless of your actions,” she explained gently. “Still… it is troubling. While I am aware that the lesser branches sometimes complain, I had never considered such an act of defiance.”
+
+Ling Qi let out a breath of relief. Sometimes when speaking to other nobles, it was easy to forget that what she thought of as family was something closer to “one’s immediate household” than what they referred to as family. But it unsettled her how little care her friend showed for what she had done. Even Cai Renxiang had been troubled by the battle. “Have you killed someone before, Meizhen?” she blurted out.
+
+“Smooth,” Sixiang murmured. Ling Qi winced.
+
+Meizhen turned a curious look to her. “Of course. Grandfather would not have sent me out into the world unblooded,” she answered. “It was a highwayman who foolishly attempted to prey on the roads between our capital’s satellite villages, if I recall.”
+
+“How he squealed,” Cui laughed, as if they were talking about a humorous anecdote.
+
+Ling Qi stared at her friend for a long moment, and her friend shifted under her gaze, a faint frown touching her lips. Meizhen was the one to look away. “... It was hardly something to glory in, but I cannot be experienced in all fields,” she muttered.
+
+That was not the issue, Ling Qi thought uncomfortably. “Did it bother you? I just - even though I know it was necessary, I can’t…” She trailed off into uncertainty, not sure how to articulate the problem in a way her friend would understand.
+
+However, it seemed that her words were enough as understanding dawned in the girl’s golden eyes. It was still hard to meet them. “It was unsettling in the moment, I will admit. However, Grandfather was there to talk me through it.” She hesitated. “It is a happy memory, all things considered. Grandfather rarely took personal time for me. While it is untoward to glory overmuch in killing, Ling Qi, the world is deadly, and for one to live and grow, others must die. You have slain many spirit beasts, some of which could even think and speak as we do and consume pills and elixirs made from their essence every day. Why be so torn at this death?”
+
+Ling Qi leaned back in her chair with a complicated expression. She wanted to say that it was different, that killing a person wasn’t like killing an animal, no matter how smart, but then… She looked down at Cui and then back up at Meizhen. She thought of Zhengui and Heijin and Zhenli and all the other spirit beasts she knew.
+
+“I don’t know,” Ling Qi admitted aloud. Was it just because the bandits had looked like her? Because seeing their eyes as they died was different than looking down into the eyes of a dying beast?
+
+“And isn’t that a nasty tangle of thoughts brewing,” Sixiang said with a sigh.
+
+“Outsiders always get hung up on weird things, cousin. It is their nature,” Cui said haughtily.
+
+Ling Qi frowned, feeling like she was both being made fun of and missing something important. She didn’t understand how her friend and cousin could be so cavalier about this subject. However, they were snakes, weren’t they? It sounded dumb when thought of like that, but snakes were carnivores. They could only ever eat flesh. From that point of view, it was absolutely true that for one to live, others must die.
+
+“I’m sorry for dragging things off on a tangent,” Ling Qi sighed. She loved her friend, but it was clear that this was one trouble that Meizhen couldn’t help with.
+
+Meizhen gave her a searching look then stepped over Cui’s coils to approach her. Ling Qi looked up in surprise as Meizhen hesitantly reached out to place a hand on her shoulder. “Qi, I cannot fully understand what troubles you here, but… I am glad that you did as you did. Because you fought and lived, you are still here before me. Is that not the most important thing?”
+
+Ling Qi blinked and then smiled. “Well, of course. I wouldn’t want to inconvenience Miss Bai.”
+
+Meizhen huffed and withdrew her hand. “That is not what I meant and you know it,” she accused.
+
+“I know,” Ling Qi replied. “Thanks, Meizhen.”
+
+“Do you wish to cancel our outing today?” Meizhen asked. “If you are not feeling well, we should inform Gu Xiulan beforehand.”
+
+“No, I will be fine,” Ling Qi denied. “I guess I just have one more thing I need to meditate on later.”
+
+Soon enough, they set out to meet her other friend, and Ling Qi did her best to put such contemplative thoughts aside for the moment. Xiulan soon arrived, and the three of them set off for one of the Inner Sect markets. Though Ling Qi’s thoughts continued to chase themselves in the back of her head, she allowed herself to enjoy the simple conversation as they chatted about recent events in the Sect. It swiftly turned into a discussion of their acquaintances from their own year in the Outer Sect.
+
+“That girl has debased herself even more, but it is hardly surprising at this point,” Meizhen scoffed in disgust. “Binding one of those nasty little creatures.” She paused then, glancing at Xiulan. “No offense meant, of course.”
+
+“None was taken,” Xiulan sniffed. “The creatures of the Red Sun are hardly comparable to my Gu family’s sacred sun crows.”
+
+Ling Qi hummed noncommittally. She had not seen the beast in question because she had been absent from the Sect when Sun Liling had engaged in a duel and revealed her new spirit beast. A three-eyed raven with a body half-consumed by parasitic plants certainly sounded gross. “You’re familiar with it, Bai Meizhen?” she asked.
+
+“They are a type of spirit that lurks in the sunflower fields of the jungle, living off carrion. ‘The Eyes of the Goddess,’ they are called,” she named with a sneer. “It is bad fortune to see one and allow it to live.”
+
+“Well, we’ll all just have to suffer our ill fortune,” Ling Qi said wryly. “I think we’d get in trouble otherwise.”
+
+“Quite,” Xiulan said in amusement, eyeing the bolts of cloth hanging on display at a vendor’s stall. “But I find myself more irritated that her little lapdog managed to contract a Heavenly Dragon. Do you know how much time I have spent, how many things I have tried, attempting to entice one?” she grumbled. “It is nonsense, I tell you.”
+
+“Luck is a talent as well,” Meizhen said dryly, giving Ling Qi a long look.
+
+Ling Qi smiled sheepishly. She supposed that she couldn’t comment on the matter, what with accidently stumbling into receiving the egg of a xuanwu.
+
+“Leaving them aside, how are things with Han Jian?” Ling Qi asked, turning to Xiulan as they stopped to inspect the wares on display. Ling Qi’s eyes lingered on an armband that promised to aid in the circulation of qi during physical cultivation. It was not useful for her, but perhaps for Mother…
+
+Xiulan grimaced, but her temper had improved enough that there was no more reaction than that. “He has reached the full third realm. The last I heard, he was solidifying his foundation and seeking aid to help his cousin through. That fiancé of mine is still languishing in the second. He had a very bad failure, or so I heard.”
+
+“My condolences,” Meizhen said, turning over a jade hairpin in her hands with mild interest before putting it down as they moved on. “Ling Qi, how is my cousin?”
+
+“Xiao Fen is doing well. I think she is having fun,” Ling Qi said slowly. It was hard to tell with that girl, but she seemed to be adapting to the Sect well.
+
+“That’s one way to put it,” Sixiang mused.
+
+“Hmph, of course,” her friend replied haughtily.
+
+“More importantly, how are things with your two suitors?” Xiulan asked slyly, bumping her good shoulder against Ling Qi’s. “I never thought you the type to string them along.”
+
+“I’m doing nothing of the sort,” Ling Qi scoffed. “Shen Hu is a good sparring partner, and Xuan Shi is just friendly. Get your mind out of the gutter, Xiulan.”
+
+“Indeed, she is clearly pining for our Senior Brother Liao Zhu,” Meizhen said serenely. “Given the time spent waxing lyrical over his skills.”
+
+“Meizhen,” Ling Qi complained, drawing out the word. “Not you too. He’s just a really good teacher.”
+
+“Oh? How have I not heard of this?” Xiulan asked, her eyes alight with mischief. Ling Qi was swiftly remembering why she didn’t do this often. These two teamed up against her far, far too easily.
+
+“I hate to interrupt. I really, really do,” Sixiang lamented. “But you’ve got somebody approaching from your right. They’re focused on you.”

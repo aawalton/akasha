@@ -1,0 +1,141 @@
+---
+id: 33f783a7-78ad-5712-83c4-45a6320dd0e2
+page-type-slug: story-chapter-royal-road
+title: "Threads 491-Senior Brother 2"
+slug: 0537-threads-491-senior-brother-2
+partOf: forge-of-destiny
+position: 537
+ownLength: 2462
+unit: words
+publishedAt: 2026-01-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2925314/threads-491-senior-brother-2"
+royalRoadId: "2925314"
+---
+
+Ling Qi blinked and rocked back a step, the hold of his words on her mind fading with the sound of his voice. "Thoughtless reaction, fear, and hate then. These emotions, truth cannot dispel. The play was clear enough on that. Is it really that simple?"
+
+"And many other emotions. If it were only fear and hate, those wondrous foundations to forward action, I might also call myself their master!" He laughed, a deep belly laugh as if he had just made a hilarious joke. "That is the easy answer. The 'lies to children,' as you say. How to explain the masterwork of the Patriarch of Lies? The webs he wove! He was the mastery of all that terminates thought and induces the human mind to descend into the squealing, survivalist madness that sleeps in us all when we feel death is scraping its nails across our flesh, even when we sit amidst luxury with full bellies and warm hands behind well-secured doors.”
+
+He recited:
+
+“For surely outside is the Other, and he will take it all away if you do not strike him first.
+
+“For surely the Forever King will roll on over your broken corpse, no matter how you struggle.
+
+“For surely to turn your head, to pause and think will bring the pounce of The One Behind.
+
+“For surely The Emptiness yawns, to consume all in ultimate futility.
+
+“For surely, the differing thoughts of your neighbor are but the marks of the Plagued Man, who shall consume you if not warded off."
+
+He turned to face her, smiling brightly, eyes boring into hers. "But then, junior sister, you do know some of that madness, do you not? I see the furrows it has left in you, as sure as a warrior's battle scars. You come by them honestly, but you should know by now that even men wrapped in silk and jewels may deem themselves to be struggling beggars when they find themselves down a few coins."
+
+Ling Qi pursed her lips. It wasn't something she thought of often, but yes, people often fooled themselves into thinking they were struggling far more than they were. It was probably why her blade worked as well as it did, even on those who had never felt the yawning ache of an empty belly, or stood on the edge of death, or lived days wholly alone, only able to rely on themselves. Because even if they had never felt those things, their minds still instinctively recoiled from the loss. They recognized the empty pit of isolation, even if they had never clawed their way out of it before.
+
+"I do know it. Are you saying such emotions can really undermine Her Grace's truth?" Ling Qi asked. "All it takes to hide from her light is mindless panic and kneejerk reaction, magnified with the power of a sovereign?"
+
+"Is that all?" Jia Hong repeated. "As if it is a small ability, to be able to effectively wield those nightmares without becoming an empty vessel for them. No, it is not enough because Her Grace is not alone. Do you not recall the play? When Truth marries Empathy, when Multitude and Unity harmonize, it becomes the Ideal, and that is as much fearsome and unkillable as any nightmare."
+
+"You're not just speaking of the Prime Minister or yourselves," Ling Qi said with furrowed brows.
+
+"I am not. Hah! The Four Heavenly Kings. What an amusing name. Many others stood with us, but they are left behind, forgotten. There is not enough room in a good tale for so many names." Jia Hong asked rhetorically, "What history will speak of the man who led resistance to the Hui in Xiangmen for a hundred years before us, brutal and uncompromising, and who threw open the defenses of the roots at our approach? None, for he knelt before Her Grace and asked the mercy of annihilation in body and memory for all he had done.
+
+“Who will speak of the countless organizers, the couriers, the spies, the ones who funneled us materials and were caught and tortured to death for their temerity, often handed in by their own families? None. None and None. Not I, for to bring them up name by name would have destroyed our morale and broken our budding defiance, and now, it would remind the clans of how much of their wretched obstruction and betrayals we worked around."
+
+"I can understand that," Ling Qi acknowledged. "It's true. A story can only have so many characters. I've thought about that, and how it twines with the truths of history, but I am not sure how it relates to my question."
+
+"You do not see it?" Jia Hong asked, disappointed.
+
+Ling Qi looked past Jia Hong up at the pillar behind him, the vast curve of the carved spinal column of a Beast King. It still seemed wrong to her that the inchoate feelings represented by the Primal Nightmares were an antithesis of Truth. How did that relate to what Jia Hong said about the many small players in their revolt?
+
+She understood that in the play, there was a display where Cai Shenhua drew on her army for power, but every cultivator general could do that. That was half the point of armies when high realms were present, which was why marching orders and division formations that formed empowering blocs existed.
+
+However, he implied that there was more to it. When Truth married Empathy… That meaning was obvious. Diao Linqin's support was emphasized in the play. Something about them changed the match's calculus beyond simply more force of cultivation.
+
+Ling Qi stared up at the pillar, identical in shape and size as all of the others. Rat, spider, river trout, where did these fit?
+
+They didn't, and it didn't matter because the story's truth wasn't the specific beasts involved. The truth of the rebellion wasn't in the scrabbling and pitiful years of resistance and subjugation that came before it.
+
+"Not going to help here, Sixiang?" she thought to them.
+
+"I don't think helping would be helping ya here," their muse whispered back. "If it's not your answer, I doubt he'll be happy either way."
+
+"Qiyi, not one thread. Qiyi real, true? Scary Mother, many threads. Very real."
+
+She blinked, startled. She was not expecting her dress to interject with how silent the young spirit had been.
+
+"One truth is not enough to overcome the most foundational nightmares. To burn them away, truth must become ideal," Ling Qi said, almost surprising herself. "The Prime Minister's unbounded Empathy…"
+
+"It harmonizes,” Jia Hong completed. “It was intended to bring men's minds together and make them one, forming transcendence through forcible alignment with the will of a sovereign. Instead, we are all still us, but whole. Only in alignment can the lie of primal nightmare be burned away. A revolution cannot exist in only one heart; else, it is mere base tyranny. So, that is your answer. Nightmarish delusion drowns truth, and an ideal sincerely held devastates a nightmare, so long as it remains whole. That is what happened that day. More than that… Well, prying into private matters goes beyond showing some grace to a junior."
+
+"I understand, senior brother. What is Truth then, if it is still so…?"
+
+"Lie to a man, tell him there is no post in front of him, shroud him in a hundred sweet illusions of qi or oratory, and he will still walk into the post unless you move it while he is ensorcelled. For what is moral, what is right, what is cruelty, and what is kindness? It is your responsibility, no, your generation's responsibility, to create the paradigm under which you want to live. We live in a cruel and broken world. Most do not have the power to set their realities so they only have it dictated to them. That is true even now, although…" Jia Hong looked toward the incandescent brightness that still roved the floor, arm in arm with her quiet bride. "Her Truth is the Truth we all fought for."
+
+"The ith I spoke to have said something which your words remind me of. They said that their gods, their high realms, are creations of 'consensus.'"
+
+It had seemed bizarre, almost incomprehensible to her at the time.
+
+"Have they now? How fascinating. I will have to tour the underworld with Her Grace's new subjects one of these days. I suspect I won't have much time to observe in the south," Jia Hong stroked his beard. His voice dropped an octave or two, dull with unhappy emotion. "That story is already half spoken." It vanished like a cloud only a moment later. "Do give my regards to our teacher. Oh, and be wary of him, of course. He will destroy you if you let him."
+
+Ling Qi raised an eyebrow. "Will he? I don't judge him to be the sort of possessing ancestor ghost of a morality tale."
+
+"Your elders do not need to steal your skin or curl up in your skull to possess you, junior sister. We have a thousand ways to do that," Jia Hong joked. "He will not possess you or erase you, but if you align yourself too closely and learn too much from the Master of Multitude, the world will destroy you, as it did the man who formed his spiritual core. Study his path and his words, and find the step you think you may embody. His Way is too long for any one pair of feet to travel, just as no revolution can be carried forward with only one set of hands."
+
+The world would destroy her? There were many ways to take that. She could understand the notion of a Way that could not be accomplished with one ascension. It went against imperial orthodoxy, but Cai Renxiang often spoke of movements or progress beyond the lifetime of even a cultivator.
+
+"I thank you for your advice, senior brother, and will give our teacher your regards."
+
+She looked at the pillar again. Why did it still niggle at her like this? It wasn't quite a heart demon, these thoughts about truth, about the finality and objectivity of it… The very first art she had mastered was the Argent Mirror, an art for defending against illusions and a tool for introspection. Cultivation was about discovering truths in her own self she had thought, and so, she had taken that lesson, that no lies were acceptable and that sincerity came before all else.
+
+But then, day by day, as she lived, she kept finding herself brushing against that lesson and sidestepping it, brushing away the momentary discomfort and giving excuses. It was fine for her to tell Zhengui to call her big sister. It was fine to step lightly with her words and deceive in tone and implication with enemies, potential or otherwise. She didn't need to burden her family with the full weight of bald truth.
+
+It was not permanently damning that Sixiang had deceived them through omission. They had hurt her, but they weren't unworthy. That wasn't unforgivable.
+
+"I'm…" Sixiang began.
+
+No more sorries. We're past that step. We're into the practice that comes after.
+
+"Yeah, yeah, we are. It hurts me when you act like you're terrible for being a little selfish, so I'll quit with the self-flagellation, too."
+
+She had spun these concepts around and around in her head for so long, trying to twist them into something she could fit herself into. Her attempts had never really worked properly, had they? Because in the end, it wasn't truth, or sincerity, or clarity she really valued, or rather, it was not these things in and of themselves, only their part in the greater whole that was…
+
+[Communication].
+
+"Oh? It seems I chanced to witness something interesting. I wonder, would you care to share your thoughts, junior sister.?" Jia Hong asked, one hand combing through his beard.
+
+"I suppose that would only be fair." Ling Qi had been so close to the insight already, but had faltered on the final step trying to split hairs where it was not needed. "The future lies at the intersection between reality and perception. By Communication, perception is changed; by perception, reality is carved, chip by chip."
+
+That was the truth. Reality, the lived experience of people, was fundamentally rooted in material existence. People could change that reality, in small ways and large. It simply took the right message, at the right time, spoken in the right ears.
+
+Jia Hong smiled in satisfaction, like an indulgent teacher. "Ah, now, that is a solid foundation to start from. You shall need to polish your axioms, and interrogate your priors, but that is what the questing for a Name is about. You are a quick sort. I can see why you awoke that old creature's interest."
+
+"I would have hoped my success with the southern summit would have done that," Ling Qi retorted.
+
+"Oh, that did give an inkling that you might be an interesting one. I do approve of most of the decisions made there. I understand why Her Grace left it to you children rather than me. Fascinating cultural hang ups, these foreigners have. I would like to debate their tutelary god sometime."
+
+"I can try to make some arrangements," Ling Qi offered.
+
+"No, no, do not worry yourself.” Jia Hong waved his hand dismissively. “You know as well as I that sovereigns need not use the regular channels. I may make my interest known without ever taking a step toward Xin'an in the material. Worry not, I shall keep to the boundaries of the contracts you and the young miss forged!"
+
+Ling Qi released a small sigh of relief and bowed her head. "Thank you, senior brother, for your restraint, and also your generosity today."
+
+"You are welcome. Ah, I do have a message for our teacher myself, if you will carry it."
+
+"Of course, senior brother."
+
+"Heaven is high, the world is wide, and the stars are right. From every pole, the bells of change ring."
+
+Ling Qi squinted up at him. "You want me to turn that over in my mind, trying to find meaning."
+
+"That would be amusing, but do pass it on. I need to be on my way, junior sister."
+
+It took her a moment to realize the shift in the air. The tension of a sovereign’s power had faded.
+
+That last statement had not been screened at all.
+
+Even with the masterful abilities of high realm courtiers and officials to limit the obviousness of their attention, she could feel a strident itch on the back of her neck.
+
+"I mean, what's one more rumor, yeah?"
+
+She sighed. Of course. One more for the pile.

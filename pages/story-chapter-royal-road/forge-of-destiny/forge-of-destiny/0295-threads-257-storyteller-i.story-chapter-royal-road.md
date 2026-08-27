@@ -1,0 +1,137 @@
+---
+id: fdad7c74-c7f2-5c96-9ef4-03df40b21296
+page-type-slug: story-chapter-royal-road
+title: "Threads 257-Storyteller I"
+slug: 0295-threads-257-storyteller-i
+partOf: forge-of-destiny
+position: 295
+ownLength: 2266
+unit: words
+publishedAt: 2022-10-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1025365/threads-257-storyteller-i"
+royalRoadId: "1025365"
+---
+
+“It spiraled up from unfathomable deeps, up and up, a great vortex without bottom or top, all the dreams of Xiangmen caught in the currents of its wind,” Ling Qi orated. Her words echoed in the dark gaol strangely. As she gestured in time with her words, black bubbles rose in the tarry liquid that surrounded Huisheng’s prison isle, rising into the air to lazily spin around her, shaped by her words and thoughts.
+
+Her audience was silent, showing neither approval nor disapproval.
+
+“The voice of the vortex echoed endlessly, and as I ventured closer, its current lashed and dragged at me,” Ling Qi continued, betraying none of her lacking confidence. “It spoke its dream, a dream of connection, oneness and unity under the vision of One.”
+
+A hiss of air escaped past skeletal jaws, and drifting black petals fell like rain. Lotus flower eyes stared back at her, and the spirit’s interest was a pressure like strong hands pushing down on her shoulders.
+
+“The revelry of the Dreaming Moon lies within the vortex in layers rising from the unsightly deeps. Pandemonium. Reverie. Fantasia. These are the words that whispered in my mind as I braved the tearing vortex, and each one pulled and dragged at me, whispering promises of chaos and secrets. I had promised not to delve the deepest places, and I have long walked the high ones, so I chose the Reverie where the celebrations and dreams of the commons of mortal and cultivator live. Though it might seem base to one such as you, O spirit, there was much to be seen there.”
+
+“Never that. Never base. Trunk and stem are the support on which the world turns.”
+
+The hoarse spiritual whisper scraped her ears like claws, and Ling Qi faltered, the forming shadows of people around her nearly dissipating before she ordered her thoughts and jumped into the next part of her prepared tale despite the interruption. “There, in the center of the vortex, the core of the palace was a great festival. Spirits and the shades of dreamers beyond counting played out an eternal celebration.”
+
+With her will focused on the dream around her, wispy shadows sprawled out from one end of the goal to another. Smoky buildings rose high, and the murky faces and frames of the revelers rushed by both her and the spirit both as if they were soaring down the street just above the festival goers' heads. A creaking, horned skull tipped this way and that, slow and lazy.
+
+“Xiangmen stands and prospers despite its scars. It dreams the dreams of a city provided with everything, the dream of a city still growing used to shattered chains,” Ling Qi said grandly, raising her hands to either side and forcing a bit more color and life into her phantasm. “And the Dreaming Moon sits at the core of it all, watching and laughing still, though her temples in the waking world are gone.”
+
+A grinning figure crouched atop a temple gate, looking down at her with eyes of gleaming silver.
+
+“Good showmanship. Workmanlike prose. Lacking in soul. You fear still to give of yourself to your audience.”
+
+Ling Qi winced as she lowered her arms, letting the phantom imagery fade and puddle back into the black ichor of the gaol’s lake. “Honored Elder, considering my audience, can I be blamed?”
+
+“Gehahaha. Not wrong, but not the meaning, junior.”
+
+Deep hoarse laughter like bone rasping on bone filled her ears.
+
+“You describe scene and vista, but not your experience. There is no piece of yourself invested in your story.”
+
+“I would only dilute the accuracy of my account with such asides. My own small lessons can hardly matter in comparison.”
+
+“Without soul, there is no story, only a report. All stories, all good stories, are built around a kernel of the teller’s soul. Even the most fantastic fiction requires such a fragment, else it be only empty words swiftly flushed as flotsam from the listener’s mind.”
+
+Ling Qi hesitated. The personal experience of her journey was not something she cared to share with a dangerous spirit, and most definitely not in its whole. “Honored Elder…”
+
+“But well enough for a beginner. Xiangmen has changed, though not so much if the Palace stands.”
+
+She blinked in surprise then confusion. “You… You already knew of the Hui. You made it sound like you were whole dynasties out of date!”
+
+“You are not the first disciple these bones have taught, junior. Though it seems that as ever, I only teach undutiful rapscallions who do not visit their teacher once the lessons end.”
+
+Ling Qi sucked in an irritated breath, knowing it would do no good to ask after the skeleton’s previous students when she had nothing to trade.
+
+“Wisdom. Or at least patience. Very good, junior.”
+
+Ling Qi held her tongue, knowing she was being mocked. “Teacher, was my lacking presentation sufficient to earn your story?”
+
+<Ling Qi, the ‘exercise’ is starting up again,> Sixiang warned.
+
+She stiffened slightly. Part of the thieving game was not being blatant about it. She focused her senses on the feel of the potent but oily qi lapping at her bare feet, the cool flow of the air entering her lungs, and the qi that flowed in with it. There. Subtle motes of qi that felt metaphysically barbed like tiny fishhooks were catching and grabbing at motes of her own energy, dragging it free with her exhalation. Ling Qi cycled her own energy, cool and dark and greedy, and the wind’s sanding edge wore away the barbs.
+
+“Enough to begin. My tale today is of the Dreaming Way. Let it be…”
+
+The spirit remained still, bound to the island at the center of the lake. He gave no indication of the conflict Ling Qi now fought with him to keep the very air of this place from stealing her cultivation.
+
+“… a tale of the beginning.
+
+Long ago, afore the grasping Sage reached out his hands to take an Empire, but well after the Great Diviner had made himself the intermediary of the earth, the Horned People were prosperous. But even in prosperity, human ambition does not vanish, and even then, disparity was born among the tribes. Kings vied for the High Crown with deeds and gifts and feats, but that is another tale.”
+
+Ling Qi watched the air begin to dance with phantoms and shadows. Men and women, tall and elegant, with branching horns that sprouted from brows and temples appeared. They had long faces and hard features, just different enough to seem alien. Their hair was black and brown and sometimes pale as straw, and they wore clothing of animal hide worked with carved beads of bone and stone. And there behind them, shimmering overlaying the skeleton, was the great looming shadow of a tree.
+
+“There was one king in the west who ruled the swamp and fen. He was a brave king, a courageous king. He fought the raiding serpents in the north when they slithered down the rivers. He fought the men of the red jungle when they overstepped the hunting lines. He even slew a wild scion of the wolf god in his youth and wore that skull as his crown. He was a strong man, a stubborn man, an inflexible man. No matter that he was strong, that he was mighty, he was never respected. Only feared.”
+
+Ling Qi sucked in a breath as the phantasms merged into a looming shadow of a man as broad shouldered as Elder Zhou had been and taller than the Duchess. His face lay in shadow, half covered by the skull of a great wolf, gleaming pure and white with potent qi. At the base of his antlers was a twelve pointed crown wrapped in crimson velvet. His aura was a boot upon her throat, and it brought with it the scent of spoiling blood.
+
+A few motes of her qi escaped, hooked on the storyteller’s barbs.
+
+“One day, the warrior king found that the tribute from a vassal tribe had failed to arrive. There was no campaign to be had, and so, the bored king elected to ride out himself and bear witness to their excuse.”
+
+Ling Qi regained herself as the phantom stepped through her, and she turned to see his march toward the rising streamers of campfire smoke in the distance. She steadied the cycling of her qi, Sixiang’s mind layering over hers to bring to bear two minds against the machinations of one, and no more of her qi escaped.
+
+“At the village, the king and his guards met none of the expected resistance, nor had the village packed and fled. Instead, in the field outside, they met a single man. Pale like the northern tribes, but dressed in foreign robes, he showed no fear in the face of their spears, though his power was feeble. The brave and wily king feared a trap.”
+
+Ling Qi saw the king arrive at a sun-dappled clearing, surrounded by a thorn hedge of men in treated leather and cloth armor. Before them stood a short, pale skinned man in red robes. His hands were clasped in front of his chest, his expression serene, and his power was barely more than a mortal’s. She bit the inside of her cheek to keep her expression half as serene as she fought back the incursion into her meridians.
+
+“So said the king, marshaling his Law to himself, ‘Who are you, foreigner? Is it you who have made my people fail to deliver what I am owed?’
+
+‘No,’ spoke the man in utter calm. ‘The plague in these lands did that. It made them too weak to harvest your tribute. I merely came upon them. They only asked that I might exercise the pestilence.’
+
+‘Then why do you block my path?’ asked the king.
+
+‘O king,’ said the priest, ‘Because you are the source of the plague.’”
+
+Ling Qi could not hide the wince at the darkening of the scene. The immense waves of pressure erupted from the shadowed figure of the king, swaying the trees and withering the grass. But she knew, as the grasping at her qi abated, now was the time to strike back.
+
+Ling Qi let her eyes drift half-shut as if she were focusing upon the tale, but in truth, she was feeling out the cycling of her qi, the energy entering and exiting her lungs with every breath. Those little grains and their barbs were hooking into her soul to peel away little pieces of herself and her cultivation. But that was wrong, wasn’t it? Her cultivation was herself, and she was her cultivation. That was the truth of it, put into thousands of words in scrolls and lessons and sayings. Cultivation was not something external to herself. It was, as Cai Renxiang had once said, spiritual surgery.
+
+Grains that hooked and grabbed her could be snared in turn. Both the qi of wind and the qi of water wore smooth jagged stones and grains, turning them into smooth silk and fine sand to be added to the riverbed as the watercourse grew wide and strong.
+
+One grain in ten thousand. No more could she manage.
+
+She breathed in time with the words of the tale.
+
+“… So it was that the foreigner was struck down, and though he died easily, he showed no shock, and with his last breath, he spoke the simple words. ‘Ideas cannot be slain.’”
+
+“Elder,” Ling Qi interrupted, “forgive this impertinent youngster, but is this fable not too pat and simple? Even I can see where this is going. Surely this is not the reality?”
+
+Her words echoed in the gaol, distorting the phantoms, and she saw again the grinning skull of Huisheng in the shadows, gleaming in ivory.
+
+“Fables oft convey their meaning better than any study.”
+
+“But they are not the truth,” Ling Qi protested. “Where then does this tale relate to the Mason’s War and the inner strife of the Weilu clans?”
+
+She felt more than saw the looming shadow, the scent of burning trees, and the beautiful, terrible smile of the huntsman whose shadow was the beasts and who had abandoned all human things save violence and hate. Rats skittered over her feet, and beasts prowled in the dark.
+
+Black petals gleamed, and yellow white teeth seemed so terribly sharp.
+
+“Mason’s War… Such a clean name. Cut and carved, as beautiful as any gem on display.”
+
+<Ling Qi, what are you doing?> Sixiang hissed.
+
+Causing a distraction, she thought back faintly.
+
+“And that blood-soaked beast behind, my great-uncle, O Wild Hunter… Perhaps the junior may like the tale that is not lies for children after all.”
+
+“I am not a child,” Ling Qi insisted. “I have not been for a very long time.” With her words came mist, her mist, the cold shadows of Tonghou made larger than life by a child's memory.
+
+“Wrong and right. When all else is peeled away, we are all but children in the dark. The hell you have made yours is that of the forsaken, alone in the multitude, cold inside the walls.”
+
+She shivered, but kept her breathing steady as space warped, and she came to be only a scant meter away from the looming skeleton, entangled on his pillar.
+
+“Hear now, child, the birth of the Dreaming Way. Hear now of the hell we knew in those days, the hell of kinstrife where brother struck down brother, daughter slew mother, and community became a massacre. Listen, child, and know again the Wild Hunt.”

@@ -1,0 +1,143 @@
+---
+id: b54f1cb2-77ba-5bf5-9636-6e42d7ceec8b
+page-type-slug: story-chapter-royal-road
+title: "Threads 149-South 2"
+slug: 0178-threads-149-south-2
+partOf: forge-of-destiny
+position: 178
+ownLength: 1703
+unit: words
+publishedAt: 2021-11-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/777207/threads-149-south-2"
+royalRoadId: "777207"
+---
+
+It had been a relaxing afternoon, negotiating with the spirits of the valley. The Sect’s planners had easily worked her into things. As it turned out, they were quite good at wrangling highly individual volunteers. Who would have thought?
+
+She really didn’t credit Zhengui enough sometimes. She had not had to do much. With spirits closer to his own nature, he was even better than her in some ways. In the not-words used to communicate with inhuman spirits, his own instincts served where she needed the lessons of her art. That wasn’t to say she hadn’t helped, that her songs had not soothed temperamental spirits and given him more leeway to speak, but somehow, in the back of her mind, she had still been expecting to be more necessary. There was something to ponder in that.
+
+Ling Qi opened her eyes, letting the cycling of the qi in her dantian still. She sat atop the cushion-hill of Sixiang’s realm, looking over the spirit’s sea of colors. In the noise and motion of the Sect’s war camps, Sixiang’s realm was quite a useful cultivation aid since she couldn’t stray too far up the looming hills and cliffs to find natural silence and starlight.
+
+“Are you almost ready?” she asked the empty air.
+
+“Getting there,” echoed Sixiang’s voice from everywhere and nowhere. The glittering rainbow stars winked and blinked down at her. “Zhengui’s almost through. You can head down to the shore.”
+
+Ling Qi nodded absently, and with a thought, she was there, standing ankle deep in the cool “water.” As she watched, the rippling waves began to bubble and churn a hundred odd meters out. From the multihued waters, land emerged, black and fertile, bare of life, first a great hill in the center, and then plains spreading around.
+
+Dull spikes erupted from the earth, followed by a fiery hiss, dirt glowed and melted, and a serpentine head punched through. The shell rose, and blunt limbs churned the dirt, dragging Zhengui up and into the realm.
+
+“Welcome, little brother,” Ling Qi said, resting her hand on his head, brushing away stray dirt. The waters around the new island rippled, turning white as the landmass Zhengui and she stood on began to move away from the shore.
+
+“This is kinda weird,” Gui said, peering around.
+
+“Is the Sixiang sure we are not all the way into the Dreamplace?” Zhen asked, flicking his tongue warily.
+
+“We aren’t going in deep,” Ling Qi said soothingly. “This place is just Sixiang.”
+
+Gui’s eyes narrowed in concentration. “But if Gui is in Sixiang, who is in Sister, and Sister and Zhengui are in Sixiang, how does…”
+
+“Don’t think about it too hard, yeah?” Sixiang chuckled, their face shining down from the moon. “Doesn’t do anybody any good.”
+
+“Agreed,” Ling Qi said. There was a time for thinking about the actual mechanics of liminal movement and location, but she wasn’t in the mood for a headache right now. “Are you ready to get to work today?”
+
+“I have had many ideas,” Zhen said. “I, Zhen, think that it has been good to get away from the Sect.”
+
+“Why is that?” Ling Qi asked.
+
+“Gui has not paid much attention at other times, but the Sect is weird,” Gui said thoughtfully as they began to walk toward the sailing island’s shore. “Um, it is…”
+
+“Artificial,” Zhen finished. He looked proud of his vocabulary.
+
+“You really think so? The Sect is definitely more ordered, but it’s still wild enough.”
+
+“Gui does not think it is like the human homes,” her little brother disagreed. “But it is not wild either. Gui thinks…”
+
+“There is no room for I, Zhen, to be,” his other half said. “Outside, there are such places.”
+
+It came back to the little things. Ling Qi had seen the small idol in the family’s shrine, and she had heard him mention hearing prayers from the villages he had protected. Zhengui was really not an average spirit beast.
+
+“Well, we won’t be at the Sect forever.”
+
+“Yes. Then Sister and Gui can make a place for Grandmother and Little Sister and Hanyi too,” Gui agreed. He seemed to hesitate at the end, and Ling Qi shot him a concerned look.
+
+“Is that what Sister wants though?” Zhen asked.
+
+“What do you mean?”
+
+“Gui just wonders why Sister is doing this sometimes. Gui worries that she is just humoring him,” he said, looking out over the water.
+
+Ling Qi frowned, feeling a pang in her chest. She wasn’t humoring him. She wanted to do this.
+
+“This is something that makes you happy, and I want to be part of that,” Ling Qi said firmly. There really didn’t need to be any more to it than that.
+
+It took a second for Zhengui to answer as they walked along the shore. When he did though, it was in two voices. “Okay.”
+
+But despite the fact that she had her answer, Ling Qi still felt dissatisfied. Whatever her intentions were, Ling Qi knew that she had fumbled many times with Zhengui, causing pain where she hadn’t intended. In the end, were good intentions enough?
+
+“You said something earlier about not having a place. Is that why you want to make a garden?”
+
+“Gui wants to make a pretty place for everyone,” he replied, and flowers bloomed in the dark loam around his feet.
+
+It wasn’t a lie exactly, but it wasn’t the whole truth either. “Zhengui, it’s fine to have some selfish motivations,” Ling Qi said gently.
+
+The flowers withered, replaced by creeping vines spreading in a quick mat through the dirt. “The Sect is too small,” Gui muttered.
+
+“I, Zhen, am meant to reign,” Zhen hissed. “But I am also too small. There are many big kings at the Sect and no room for Zhen.”
+
+Ling Qi frowned. Even once she had her fief, she was still going to be subordinate to the Cai. She didn’t see that changing. Even if she fantasized a scenario where she had the power, she would be a terrible duchess, mostly because she didn’t even want to be one.
+
+“We’re never going to be the ones completely in charge of things.”
+
+Zhen shook his head as they turned back toward the core of the island. “No, Sister does not understand. It is not about human things.”
+
+“Gui isn’t renewing anything at the Sect,” he said, his voice tinged with frustration. Yet some part of his words resonated in the Dream, an echo of something more than mere sound.
+
+Ling Qi both regarded the dark soil. From her thoughts, the soil grew slender pines, resilient and green even in the depths of cold. Around their roots bloomed flowers of spring, quick to live and quick to die.
+
+Maybe she had been misunderstanding Zhengui.
+
+“Hey, little brother,” Ling Qi said thoughtfully. “Will you explain what you mean?”
+
+Gui looked up from his flowers in confusion. “What does Big Sister mean?”
+
+“Renewal. What does that mean to you?” Ling Qi asked. She watched silvery ice spread across the branches, making the eaves hang low.
+
+Gui’s eyes scrunched shut in thought. “It’s new things growing from old things.”
+
+“It’s not about recovery and endurance?” Ling Qi asked.
+
+“That is part of it,” Gui said. “But Gui thinks it is more important for things to grow back even after they are ash.”
+
+“Old things choke new things with hungry roots and heavy leaves,” Zhen said. “Without destruction comes stagnation.”
+
+“Without renewal, destruction is stagnation too,” Gui said huffily.
+
+Ling Qi nodded absently as the two of them stared each other down. Zhengui was very hard to hurt, but the real thing that had allowed him to endure enemies so much above him was his regeneration.
+
+Really, had she been thinking too hard all this time? She knew well the nature of the world, a chain of endings, each followed by a beginning. A forest fire cleared old growth and made room for new, and a glacier crushed all beneath in its advance but left behind clear land in its retreat. It was the same concept, expressed through different elements and frames of time.
+
+Ling Qi eyed the trees she had crafted and let them wither away into dream mist.
+
+“Sister?” Gui questioned, looking up at her.
+
+“I was just thinking that I’d like to try something a little different,” Ling Qi replied. “If I mess up, I’ll apologize in advance.”
+
+“No apologies,” Zhen insisted. “We practice now, so we don’t break real things.”
+
+“I suppose we do,” Ling Qi mused.
+
+***​
+
+In the end, they didn’t make much progress that first night. Ling Qi wasn’t sure what she was doing, toying with meltwater and moving ice, but she felt like she was on to something, even if she wasn’t quite sure what yet.
+
+As the days passed, Ling Qi cultivated where she could as the Sect’s forces moved on, stealing moments to meditate on cliff sides and trees under the light of the moon. It felt strange. After so long using her argent vent and other cultivation sites at the Sect, the cycling of her qi felt almost sluggish. Still, with focus and some help from Li Suyin’s meridian wand, she managed to painstakingly clear three more meridians, giving her more avenues to channel the increasingly complex patterns of her arts.
+
+Hanyi often joined her at night, if not to cultivate, then at least to compose. Ling Qi was starting to think that those two things might not be so different.
+
+During the day, she mostly continued assisting Gan Guangli and Zhengui. As the first week of travel passed, here and there, they ran into conflict, hostile spirits, minor groups of barbarians trying to slip around and sabotage their lines, and such, but nothing truly worrying.
+
+Well, unless she counted the continued tension in the roiling clouds overhead. The Sect Head was clearly at full alert, and yet those small problems slipped through. His attention was obviously elsewhere, and that was at least a little worrying.
+
+Still, they had reached the site of the new fort, and in the morning, she would be meeting Cai Renxiang and the others before they split off from the main force.
+
+The easy part was over.

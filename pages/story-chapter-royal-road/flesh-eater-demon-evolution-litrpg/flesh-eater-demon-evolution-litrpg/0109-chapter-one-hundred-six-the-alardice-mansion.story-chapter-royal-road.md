@@ -1,0 +1,119 @@
+---
+id: ed6b9aad-2e06-58aa-96db-25597cfe63f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Six: The Alardice Mansion"
+slug: 0109-chapter-one-hundred-six-the-alardice-mansion
+partOf: flesh-eater-demon-evolution-litrpg
+position: 109
+ownLength: 2029
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3692250/chapter-one-hundred-six-the-alardice-mansion"
+royalRoadId: "3692250"
+---
+
+Serindell was somehow even busier in the evening than it was during the day. Despite this, they made it through the streets in record time.
+
+Mostly because everyone who saw Pyre immediately gave their group a very wide berth.
+
+The demon snorted as yet another family very unsubtly crossed the street to the other sidewalk, their eyes darting in her direction as they whispered among themselves. As expected, word of her little chase with that tattooed guy had spread rapidfire, and no one seemed to want to go anywhere near the weirdo who’d sliced a dude’s arm off. When they’d stopped by the post office to drop off Daphne’s letter to Edmund, damn near the whole room had cleared out.
+
+Hell, even the knights they passed tensed whenever she got close. She even saw that first knight who’d approached the alleyway, and he gave her a stink eye as she passed. She could tell he was itching to do something, but since she’d technically been cleared (until questioning, anyway), they couldn’t arrest her without a valid excuse.
+
+While they’d now thoroughly destroyed any chance they’d had of laying low, this did make it remarkably easy to navigate the city’s winding streets. The wariness towards Pyre was so strong that people didn’t even stop to talk to Llyr, though a few people did look like they were seriously considering pulling the healer away, as if he was a victim or something.
+
+“It’s a lovely evening,” the healer commented idly as they turned the corner. They were entering the Upper Ring of the city, and the buildings became both noticeably taller and fancier. There were also less passersby and more knights, though the staring continued.
+
+“Sure is,” Pyre drawled. “Nice and quiet.”
+
+Callan groaned and buried his face in his hands. He looked like he was seriously considering turning invisible if it meant avoiding all the stares. “I hate this,” he muttered. Pyre gave the ghost a sympathetic pat on the back, which didn’t seem to make him feel any better.
+
+Daphne, on the other hand, was striding confidently forward, head held high as if she didn’t notice the whispers at all. Before leaving the house, she’d insisted on all of them “freshening up” so they wouldn’t look out of place in the Upper Ring. Pyre was pretty sure this was more about her silent competition with Lord Alardice.
+
+As such, the noble had changed into one of the nicer dresses she’d packed, and her wavy red hair had been brushed to a bright shine. She walked in the front, and anyone just glancing at them would probably assume that they were her servants accompanying her on her trip out. Which was sort of true, taking their cover story into account. She and Callan certainly looked nothing like aristocrats, though Llyr could easily pass for one.
+
+“Up ahead,” the healer said. Pyre followed the direction of his gaze.
+
+Sitting in the center of the street was a large mansion fenced in on all sides. Crawling vines and flowers decorated the black metal, which protected a looming home constructed of tall spires, smooth arches, and large windows.
+
+Multiple wings fanned out from the central building, forming its own closed-off little complex. The mansion was a noticeably darker shade than most houses in Serindell, and while its location meant the grounds weren’t nearly as large as the Bellhein estate, its position in the very center of the city made its importance clear.
+
+Pyre whistled as they came to a stop in front of the gates. Yep, that was pretty much what she’d expected. It made sense that Llyr’s home was just an “extra mansion” when Lord Alardice’s main residence looked like this.
+
+Callan eyed the building with no small amount of trepidation while Daphne narrowed her eyes, assessing the property. Llyr stepped over to the side of the gate, where Pyre saw a small glass orb placed atop a stone pillar. The healer placed a hand on it, and it lit up with a rich violet hue.
+
+“Good evening, it’s Llyr,” the healer said simply. “I’ve arrived for dinner.”
+
+The orb flashed once, then dimmed again, the message presumably transported to somewhere inside the mansion. Pyre noted with some amusement that Llyr hadn’t mentioned the three guests tagging along with him. Probably for the better. They might not be let in otherwise.
+
+A few moments later, the gates creaked. That same violet light ran up the dark metal prongs, illuminating their intricate designs before finally coalescing in the center of the gate. The lock opened with a light click, and the doors swung open.
+
+Llyr turned to the three of them, nodding. “We should head inside. They’ll be expecting us.”
+
+With slow, careful steps, Daphne walked past the gates first. Llyr followed, and no ward alarms blared, which seemed promising. Pyre followed suit with Callan trailing behind her, the ghost fidgeting a little with his bracelet. It was a habit he should probably break, if he didn’t want someone to get suspicious of what that bracelet actually was.
+
+The gates slammed shut again the second they crossed the threshold. Pyre personally thought the loud screech was unnecessarily dramatic.
+
+The group walked down the path leading to the mansion, which passed through a  meticulously trimmed rose garden surrounding a large, ornate fountain. The waters looked almost like fire in the evening light. They had to go around to reach the building’s front doors, and when they reached them, they found them already open, two guards flanking the doorway on either side.
+
+Inside the mansion, a familiar noble stood in the entrance frowning at them.
+
+“You brought guests.” Lord Alardice’s voice was blunt, not bothering with any polite greetings before cutting right to the chase. Or with hiding his obvious disdain as his eyes swept over the three uninvited tagalongs.
+
+“I did,” Llyr said easily, the picture of serene calm. He nodded in their direction with a positively saintly smile. “They were worried about my safety after the attack earlier today, so they offered to accompany me.”
+
+Lord Alardice’s lips thinned. “Ah yes, the attack,” he muttered, dark eyes staring directly at Pyre. “The one where a psychotic guard chased a man down over the rooftops and sliced off his arm.”
+
+“I believe we already had this discussion, Lord Alardice,” Daphne said breezily. She flashed the man a charming smile. “It was self defense. And a lovely evening to you, too,” she added. She extended her hand in a graceful motion, eyes challenging. Lord Alardice stared at it for a moment, then slowly bowed down and kissed it. He straightened.
+
+“Lady Daphne, lovely to see you,” Lord Alardice said in the most flat, unenthusiastic voice Pyre had ever heard. She was almost impressed with how little he bothered hiding it. “I see you’ve decided to join us today.”
+
+“Yes, I was worried about Llyr,” Daphne said primly. “And of course, I was eager to see the famed Alardice estate.”
+
+The man’s eyes narrowed slightly. “I see. In that case, I suppose I should welcome you to my home.” He turned to Llyr then, grabbed the healer’s hand, and kissed the back of it like he’d just done with Daphne. Llyr blinked, and Callan made a vaguely strangled sound behind Pyre that he quickly disguised as a cough.
+
+“Dinner should be ready,” Lord Alardice said, pointedly looking only at Llyr as he spoke. He released the healer’s hand and turned around, dark coat flaring behind him with the movement. “Follow me.”
+
+Without another word, the noble strode inside the mansion, leaving the four of them standing in the entryway. Daphne did openly roll her eyes then, but she followed after him with her head held high.
+
+Pyre snorted when she realized the man hadn’t addressed her or Callan at all besides the “psychotic guard” mention, steadfastly ignoring them like they were chopped liver. He probably would’ve done the same with Daphne if not for her title. Callan looked torn between being offended at the blatant disregard and relieved that he didn’t have to interact with the noble more than necessary.
+
+In the end, they all stepped inside (whether they’d been personally greeted or not), and the knights closed the door behind them.
+
+The inside of the mansion was somehow even more ornate than the outside. The furniture was all crafted out of dark mahogany, which complemented the curling, abstract designs sprawling across the burgundy wallpaper.
+
+Elaborate vases of flowers and oil paintings of the stormy seaside decorated the hallway, and a plush carpet lined the floor. The overall aesthetic of the place was completely different from the mansion on the coast. Apparently Lord Alardice just didn’t bother decorating his extra houses.
+
+Pyre had already seen the Bellhein manor’s dining hall multiple times, so it wasn’t much of a shock when they stepped into it. It was huge, as expected, with a single long table covered in a draping tablecloth that already had a wide array of dishes laid out on it. A bright chandelier hung down from the high ceiling, illuminating the space in a bright, warm glow.
+
+Near the end of the table, an older woman with greying hair and weathered features was setting a large ceramic pot down. Based on her uniform and apron, she was probably a worker here. Lord Alardice immediately strode over when he saw her, and to Pyre’s surprise, he actually smiled at the woman.
+
+“Ah, Marge, is that my favorite stew? You shouldn’t have.”
+
+The woman straightened and gave the noble a look that was equally fond and exasperated. “I always make it when you have guests,” she said dryly. She turned to the rest of them then, the corners of her eyes crinkling as she smiled.
+
+“Llyr, it’s wonderful to see you,” she said. The healer smiled back and stepped over for a brief, but warm hug.
+
+“Marge, it’s been a while.” He stepped back, quickly scanning the woman. “You look healthy. Have you been feeling alright?”
+
+She snorted. “Right as rain. I swear, I’ve felt twenty years younger ever since you helped me.” She turned to the three of them then, likely noticing Daphne and Callan’s curious looks.
+
+“Llyr healed me from a bad bout of fever a few months ago,” she explained. “I would’ve died if Lord Alardice hadn’t brought him here.” She laughed. “Though, when you get to my age, dying ain’t as scary as it used to be”
+
+Daphne’s eyes darted between Marge and Lord Alardice. “You asked Llyr to heal her?” She sounded surprised, which Pyre could get. She’d also been operating under the assumption that Llyr had healed Lord Alardice himself this whole time. The demon definitely wouldn’t have thought that the noble would go out of his way to personally fetch a healer for a servant.
+
+The man sniffed, probably sensing their surprise. “None of the doctors in the Upper Ring were sufficient; of course I would seek out someone more competent than those fools. I take care of my own.”
+
+Daphne blinked at that, looking at a loss for words for the first time since they’d stepped onto Alardice grounds. The noble in question turned to Marge with a nod.
+
+“I’ll call you if I need you,” he said. “As always, thank you for your lovely cooking. If only we could find a group of diners worthy of it.”
+
+Callan and Daphne both made affronted noises while Marge snorted and gave the noble a good-natured slap on the arm. “Be nice,” she chided, sounding more like an exasperated mother than a servant. She turned to them.
+
+“Don’t let him bully you,” she said conspiratorially. “He gets mean when he doesn’t get his way.”
+
+“We won’t,” Daphne said solemnly. Marge nodded, pleased. With a final bow, the woman turned and exited the room, leaving only the four of them and Lord Alardice standing by the table.
+
+A silence fell over the dining room, all of them simply studying each other for a moment. Finally, Lord Alardice slowly stepped over to the head of the table and nodded at the other chairs.
+
+“Take a seat,” he said. “We have much to discuss.”

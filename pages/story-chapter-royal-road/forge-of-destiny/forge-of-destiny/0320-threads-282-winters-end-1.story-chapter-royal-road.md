@@ -1,0 +1,153 @@
+---
+id: 540b847a-0848-5ed8-90de-dc24cecb0c72
+page-type-slug: story-chapter-royal-road
+title: "Threads 282-Winters End 1"
+slug: 0320-threads-282-winters-end-1
+partOf: forge-of-destiny
+position: 320
+ownLength: 2097
+unit: words
+publishedAt: 2023-02-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1107556/threads-282-winters-end-1"
+royalRoadId: "1107556"
+---
+
+“Big Sister! I bet you’ve been in all sorts of trouble without me!” Hanyi yelled gleefully, all but jumping into her arms for a hug.
+
+“Maybe a little. “I’d like to hear what you’ve been up to though.” Ling Qi laughed, hugging her back. “Ah, and what’s this?”
+
+She pinched a few strands of Hanyi’s hair between her fingers. On top of getting longer, the tips had darkened to a pale icy blue rather than white.
+
+“It just started to change. I like it though!” Hanyi claimed, stepping back. She was still grinning.
+
+Ling Qi took a moment to look her over. Hanyi’s features were getting sharper, a little more like her mother’s, losing the last shreds of childish softness, and she was taller than Suyin or Meizhen was now.
+
+“Oh! Check it out, big sis. I got a bunch of presents!”
+
+“That she did,” Bao Qian huffed, finally stepping down from inside his wagon. The vehicle was parked here some distance from the Outer Sect town in the clearing he had rented from the Sect. It had been repainted in blues and whites and silvers. “A most successful venture indeed.” He set the heavy trunk in his arms down on the ground with a thump.
+
+“Thank you for taking care of my junior sister, Bao Qian,” Ling Qi said politely as her sister ran over.
+
+Crouching down before the trunk, Hanyi pulled an iron key from her pocket, unlocking and hauling it open.
+
+“It was a bit of a trip,” he said. Lowering his voice, he added. “She is precocious, isn’t she?”
+
+“That’s the word,” Ling Qi agreed. “Was there any real trouble?”
+
+“Some ruffled feathers and offended priests. We weren’t welcomed warmly everywhere, but the impression was better than not. I have some correspondence from Viscount Tian, who mentioned Meng Diu’s name. Come next winter, he may wish to schedule a proper festival,” Bao Qian replied.
+
+Ling Qi nodded, filing away the name for later. There were three, no, was it four—?
+
+<It’s four. Four viscounts on the scheduled route. Small one, farthest south,> Sixiang helpfully provided.
+
+Yes, that. She would worry about that later though.
+
+The trunk lid popped open, revealing a massive pile of trinkets and objects without any organization. Hanyi beamed up at her. “See, see! So many presents, and these are the ones I couldn’t eat!”
+
+Ling Qi glanced at Bao Qian, who shrugged. “Food and libations are common sacrifices.”
+
+“Mhmm, even the really plain stuff tasted so good with the incense burning.” Hanyi dug around in the trunk. Ling Qi saw everything from rough wooden figurines to folded furs and clinking bottles, polished river stones, and pouches of herbs and more.
+
+<Sixiang, what do spirits normally do with offerings to them?> LIng Qi wondered silently.
+
+<Depends. Most just absorb them, but some keep some around in their spaces. I suspect the little gremlin’s gonna be a hoarder.>
+
+“This one’s my favorite!” Hanyi exclaimed, turning to her with a bundle of soft cloth. It fell open, revealing a fine figurine of blue frosted glass shaped like a girl dancing in mid-whirl. She felt like it was probably supposed to be Hanyi. “I was so happy! And the glass guy was so happy when I said so and gave him a blessing cause he had a little baby, and he asked me to help make sure they didn’t get sick this winter and…”
+
+Ling Qi listened as Hanyi went on, a nonstop stream of words describing interactions with people from low commoners up to minor nobles. She’d never seen Hanyi so animated about talking to people, but it seemed the mass of praise was downright intoxicating to the young spirit. It seemed as well that she had taken instinctually to giving blessings and fortune as a worshiped spirit. However unusual her origin, Hanyi seemed to have slid into the role without a thought.
+
+“Anyway, it was great! Lots of people loved me! It's super weird hearing people even when I’m not around, and like, feeling the wind and the clouds and other weather stuff. Nudging it around is kinda tiring, especially when other spirits are being grumpy losers about it and pushing back.”
+
+“Did you actually pick any fights?” Ling Qi asked, concerned.
+
+Bao Qian coughed into his hand, and Hanyi paused, looking abashed. Ling Qi gave her a flat look.
+
+“... It was only one time! There was a hail spirit, and I had to make her go away. I had just promised that those fields would be okay. She can do her thing before the early planting from now on,” Hanyi justified, turning up her nose. “Even that priest guy who followed us around agreed that I’d, uh…”
+
+“Established dominance.” Bao Qian sighed, pinching the bridge of his nose. “While I am not a priest myself, I understand that this isn’t too unusual for spirits to compete and push against one another’s interests. Managing and tracking these relationships is a part of the Ministry of Spiritual Affairs’ duties.”
+
+“But there was no offense given to any greater spiritual courts?” Ling Qi asked.
+
+“Inspiring spirits to coalesce into recognizable organizations are partially brought about by human interaction,” Bao Qian said. “The south of the Meng lands is—”
+
+“Kind of a mess. It felt like a place where everybody only stopped fighting because they were too tired to keep going,” Hanyi said. “And none of the really big spirits there care about people.”
+
+Given that it was among the most heavily raided regions in the south and had suffered back and forth conquest during and before Ogodei, that made sense.
+
+“I’m glad then,” Ling Qi said, stepping up to give Hanyi another hug. “Sounds like you’ve really found something for yourself.”
+
+“Mhm!” Hanyi agreed, hugging her back. “I wanna check out things at home, too. I bet I can see stuff better now.”
+
+“I’ll take you later,” Ling Qi promised, resting a hand on her head.
+
+“Later… Oh.” Hanyi paused. Her features screwed up into a troubled expression. “O-oh, I almost forgot.”
+
+Ling Qi felt Sixiang wince, but she didn’t comment, leaving her hand on Hanyi’s head as she looked over to Bao Qian. “Thank you again. Your help has been invaluable here.”
+
+“It’s been beneficial to me as well, so I ‘m not troubled. Who knew religion could be so profitable?” he joked. “I’d like to speak with you, both of you, and talk about coordination and next steps, but that can come later.”
+
+“Yes,” Ling Qi agreed. “I’d also like to speak with you about negotiations and people. I’d like as many perspectives as I can get on my tactics going forward. So perhaps we can do a little of both.”
+
+“Most agreeable,” Bao Qian replied, stroking his chin. “But please, don’t hold yourself up any further on my account. I know conditions on the road made us a bit late.”
+
+Ling Qi nodded. “Alright. Hanyi, get your things. I bet she’d like to hear about your trip as well.”
+
+Her junior sister nodded once. “Yeah, I wanna tell Momma too.”
+
+***
+
+The mountain peak was not very different than they had left it.
+
+The rime fruit tree had been transplanted elsewhere, but the windswept rocky snowfield where Master Zeqing had dwelled had changed little otherwise. Even the small pile of rubble which had been left in the wake of her passing and the collapse of her domicile remained as it was, cold stone dusted with snow that should have been impossible here above the clouds.
+
+The air was thin and icy, and the wind sharp and insistent. Its sound was a low, melancholy wail that tugged at the fur-trimmed hem of her gown and grasped and tugged at her hair.
+
+The two of them had not set up any kind of shrine nor a place to give offerings. Zeqing was not even the slightest bit human after all. There was no point in using human rituals for her. Instead, they had come, and for the first day, they had spoken and sang before the rubble, offering thanks and memories to the Zeqing that was.
+
+Ling Qi couldn’t see into Hanyi’s heart, but in her own, she hoped that their offering would bring some shape to the new spirit that came. She hoped that the lessons they had taken and given would not be wholly lost.
+
+And as night fell, they turned to learning.
+
+On a table set out in the snow, Ling Qi laid out some of the fruits of her labors: documents, scrolls, neatly bound books, and the studied arts of master musicians acquired from the Meng clan. Spread across the table, they were held in place against the high winds by an absent flex of Ling Qi’s will.
+
+Because of the role Zeqing had taken on at her End, that of a teacher, there was no better way of celebrating what she had been than learning and creating something new.
+
+“If you take it all and eat it all, there’s nothing left for later.”
+
+Ling Qi looked up from her scroll, a set of notes musing on the complexities of light passing through water frozen in the midst of falling. Hanyi sat across from her on a high flat stone, kicking her bare feet freely. She was less interested in the writings in Ling Qi, though she had spent some time reading and singing poems and songs with her, getting a taste and feel of the new music.
+
+Talking, that they had done. But this was new.
+
+“Where is that coming from?” Ling Qi asked.
+
+“I think it’s what I learned.” Hanyi looked down at the churning clouds below over the edge of the cliff they sat by. “People have lots of warmth, lots of life. But if you eat it all, you can only eat it once.”
+
+“That’s true,” Ling Qi agreed. “You really like being praised, huh?”
+
+Hanyi gave her a grin. “Of course! I’m great! People are really generous when you offer something back. I like it. I don’t have to be scary all the time. I can just be pretty and nice, and people will love me!”
+
+That seemed kind of shallow, but Ling Qi chuckled anyway. “I think that’s a little too simple.”
+
+“Well, that’s true,” Hanyi said thoughtfully. “Honestly… I really like it, but it’s not the same as taking everything. It’s not as good or potent. I miss it, but I don’t mind saving it for bad guys and spirit stuff. I think I’ll always be a little scary. It’s part of my appeal!”
+
+“Your appeal? Do I have to start assigning Zhengui to chaperone?” Ling Qi asked. There was a twinge of real worry, tempered by what Hanyi was, but inflamed by what Hanyi’s father had tried to do with Zeqing.
+
+Hanyi stuck out her tongue. “Don’t be weird, Big Sis.”
+
+“What is this sass?” Ling Qi complained. “But that’s a good lesson to take. Winter isn’t just deathly cold or the frozen night.”
+
+“Mm, yeah. I think Momma thought the same thing at the end,” Hanyi said, losing some of her enthusiasm. “She really liked teaching and seeing us grow, but it meant she couldn’t keep us. She couldn’t take everything. Maybe she coulda done what she did with Papa, but that isn’t real. I think she knew.”
+
+“I don’t think she would have accepted my words about endings if she weren’t already thinking it herself on some level,” Ling Qi said slowly. The broken shards of the man Zeqing had devoured, propped up and held together by ice and spite, were not a person, just a disturbing marionette. “But acknowledging that was another crack.”
+
+“I’m kinda glad that nasty old witch in the mountains said I was broken and that Momma messed up. I don’t think I’d like it if something like that approved of me.” Hanyi flopped back to lay out inelegantly on the rock. “She’s boring. Basic.”
+
+Ling Qi frowned at the memory of Black Skies Yearning, the spirit that had accosted them on the journey south. “That’s a little flippant.”
+
+“It’s not like she’s here to punish me.” Hanyi laughed, rolling over onto her side.
+
+“It’s not bad to be a little cocky now and then,” Sixiang said, breaking their silence. Their manifestation hovered over the table, belly down as if lying on a divan. A book of poems was open in their “grip.”
+
+“It’s not. You’ll never get anywhere without confidence,” Ling Qi said.
+
+“Mhm!” Hanyi agreed. “So, what about you, Sis? Tell me what you think you’ve learned since Momma’s been gone.”

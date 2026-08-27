@@ -1,0 +1,209 @@
+---
+id: c65a4637-945c-5aef-b69d-0e37ffc96758
+page-type-slug: story-chapter-royal-road
+title: "33. A Challenge"
+slug: 0033-33-a-challenge
+partOf: god-of-trash
+position: 33
+ownLength: 2618
+unit: words
+publishedAt: 2025-03-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2155271/33-a-challenge"
+royalRoadId: "2155271"
+---
+
+Rhys and Ev sparred once more. This time, Rhys occasionally had to take breaks to absorb and burn impurities, but the more they fought and the more Ev pushed him, the faster he was able to absorb the impurities. He grew used to the pain, and slowly, it became less crippling to him. Eventually, he was able to burn the impurities as he fought Ev, though the pain and the distraction of handling the impurities did impair his fighting until the impurities were fully processed. Compared to fighting while burning the lower-level impurities, he was certainly worse at fighting under these ones. The lower-level ones were a straight buff to his power, while these came with caveats.
+
+On the other hand, these enhanced his body to a higher extent, expanded his core more, and provided him with more power, not to mention allowed him to store that power in both his body and core—if temporarily, in the case of his body. That one was only because they invaded his body so thoroughly, that he was almost always still in the process of expelling the mana or processing it when he was with it enough to fight Ev. These impurities also held more power than ordinary ones, which was in turn further boosted by Less is More, so overall, they were stronger; it was just that he couldn’t quite handle them yet.
+
+As for Less is More, he wasn’t sure if it activated because he wasn’t drinking the whole potion, or because he was drinking a potion. Was it a potion-specific skill, or did it only work when he left most of the expendable behind? With his previous techniques, he’d absorbed impurities from smoke, from burning it. By the very nature of burning, he had to burn the whole thing, whether it was a pile of trash or a clump of potion impurities. True, in the case of the potion impurities, the clumps could be considered portions of a whole, but on the other hand, he was still using handfuls of the stuff. If it was activated by a ‘small portion,’ then maybe the clumps of impurities he used weren’t small enough to trigger ‘less.’
+
+Naturally, breathing smoke also wasn’t a potion. So between his two techniques of obtaining impurities, one of which triggered Less is More, and one of which didn’t, he couldn’t say securely what quality it was that activated Less is More.
+
+Rhys raised his hands. Sweat poured down his face and soaked into his robes. His hair dripped with it, and his back was as wet as if he’d jumped into a pool. “Break, I need a break.”
+
+“Hmph. A real opponent won’t give you any breaks,” Ev opined, raising her fists.
+
+“I know, but please?” Rhys said, still backing away.
+
+She narrowed her eyes, but sighed in the end. “Fine. Get some water and drink that nasty potion of yours, so we can keep going.”
+
+Rhys saluted. He jogged over to the stream that ran through the crevasse and threw himself into it. Water splashed, then coursed over him, cool and comfortable. He let himself sink to the bottom of the shallow water and watched the sky through the clear stream. Nowadays, he could hold his breath for a long time, though not indefinitely, as he could go without food and water. Ev had taught him a turtle-breathing technique to extend his time underwater, but he was still at the lowest levels of it. He waited until his body cooled to the point he wanted to do more than just lie in the shade, then sat up. Water splashed all around him, soaking into his long ponytail. He touched it, lost in thought for a second. Back in his world, long hair was uncommon on men. Here, it was the norm, so much so that Bast stuck out in his mind for preferring a short cut. I wonder if I should get it trimmed? It was starting to get excessive, long enough to tickle his waist when he let it down. He hadn’t seen any hairdressers here, but there was no shortage of blades.
+
+Ev crouched on the edge of the stream and splashed water in her face. Looking up, she laughed at him. “Look at you, sitting in the water and playing with your hair. What are you, a water sprite, luring all the girls into the depths?”
+
+Rhys raised his brows at her. “I don’t know, am I?”
+
+“Maybe in five years,” she scoffed, rolling her eyes at him.
+
+Rhys blinked, then startled. He stared at his small hands again. That’s right. I’m still a child. It was easy to forget just how young his body was. “How old am I?” he muttered aloud, pulling up his sheet to check.
+
+Rhys Foundling | 15 | Foundation Building (Tier 1)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 14
+
+Survivalist 27
+
+Pain Resist 39
+
+Scavenging 28
+
+Less is More 36
+
+Sewing 8
+
+Blow Mitigation 25
+
+Self-Regeneration 19
+
+Mana Manipulation 10
+
+Poison Resist 12
+
+Improvised Weapon Proficiency 7
+
+Heat Resist 7
+
+Acid Resist 8
+
+Impurity Resist 13
+
+Poison Resist 3
+
+Trash Intent 4
+
+Alchemy 2
+
+Herbalism 4
+
+Speed Reading 4
+
+Enlightenment 2
+
+Trash Body 3
+
+Bluff 3
+
+Fifteen. At some point, unknown to him, that fateful day had slipped by, and he’d grown older yet again. He sighed out and stood, wringing the worst of the water out of his robes.
+
+“Forgot your age? You’re a bit young for that,” Ev commented.
+
+Rhys kicked some water at her. “Yeah, yeah. I’m old at heart.”
+
+She laughed aloud. Lowering her hand into the water, she squeezed it shut and squirted a stream of water at him. At her strength and martial prowess, it actually reached Rhys, and not only that, smarted where it hit. “Look at this baby-face, thinking he’s so mature.”
+
+“Give me five years, and I’ll lure all the women to their watery doom,” Rhys replied, sticking out his tongue at her.
+
+“You just gonna sit around in the stream until then, or are we gonna spar?” Ev asked, standing and clapping the water off her hands.
+
+Rhys climbed out. He shook himself all over like a dog. “I’m ready. Let’s go.”
+
+Ev raised her hands, then froze. She lifted a hand to Rhys, her eyes distracted, all her attention on listening to something Rhys couldn’t hear. Rhys stilled as well, trying to hear whatever it was she’d latched onto. All he heard was the drip of water off his robes.
+
+At last, he heard it. The crunch of leaves. Heavy footsteps, softened by the lush forest floor. Rhys whipped around, finally following where Ev was staring.
+
+Cynog stood at the edge of the cliff, where he and Ev had confronted his students a short while ago. He crossed his arms at them, and his eyes narrowed.
+
+“You dare to bully my students?”
+
+“Bully? They’re the ones who were bullying us!” Rhys protested, but quietly, to himself.
+
+Ev snorted. “As if Cynog cares. All he cares about is making sure everyone knows he’s the strongest warrior in the school.”
+
+“Isn’t that always the case with bullies,” Rhys muttered.
+
+On the clifftop, Cynog ignored them and kept going. “I see I’ve let you run rampant for too long. Two students, grouping up together and thinking they can train one another? This is foolishness. It’s time I bring you back into the fold.”
+
+“Like fuck you are,” Ev grumbled.
+
+Cynog hopped down from the cliff. He approached them, one slow stomp at a time. Ev stepped forward.
+
+Rhys held out his arm. He looked at Ev. “Please let me have this.”
+
+She cocked a brow. “Are you sure? He’ll chew you up.”
+
+“That’s fine. If things go bad, carry me to the library afterward, if I’m, uh, you know. Not able to walk,” Rhys replied, growing more nervous the more he said. He swallowed. Shit. I’m really going to do this.
+
+But on the other hand, when would he get a chance like this again? He needed this. It was a definitive step toward his goals. Forcing his fear down, Rhys stepped forward.
+
+Ev gave him an uncertain look, but shrugged to herself and let him go. “I’ll try to save you before he kills you.”
+
+“Yeah. Thanks.” Rhys pulled out his impurities potion and took a sip. Impurities ravaged his body, but only for a moment before he ignited them. He stood in front of Cynog, spreading his arms to block his way forward. Black smoke began to waft off his body.
+
+“What?” Cynog asked.
+
+“You claim that we cannot grow stronger by training one another, and that’s why we need to be brought back into your class. After all, you’re a teacher. You want us to get stronger, don’t you?” Rhys asserted, looking Cynog in the eyes. What he said wasn’t entirely true, but it was close enough.
+
+Cynog thought for a moment. He squinted, but in the end he nodded. “I am a teacher, yes.”
+
+“Then how about this. If I prove that I’ve gotten stronger training with Ev by landing one good hit on you, you leave us alone. If I can’t, then we both go back to your teaching, with no complaints.”
+
+Cynog laughed. “And why don’t I just beat you up right now?”
+
+Rhys spread his hands. “You can. I can’t do anything to stop you from crushing me. But that proves nothing about my strength, or yours. You’re a higher Tier than me. Even if I trained perfectly, I can’t do anything to beat you. But that’s not the point. The point is whether or not I trained at a level equivalent to or better than you could teach me.”
+
+He watched Cynog’s face, waiting. It was similar logic to what Cynog himself had suggested when Rhys had tried to escape his class in the first place. The man was always up to a good trial. By his estimation, this ought to work.
+
+“Why not,” Cynog allowed. He cracked his knuckles. “I’ve been looking for another chance to pound you for a while now. I’ll enjoy this.”
+
+Or… he’s a rampant sadist who enjoys getting down to other people’s level, then beating them on equal footing. Rhys licked his lips, then forced his heart to calm. He couldn’t have it beating like that with impurities burning. There was too much gunk floating around. He might die if anything started moving a little too fast.
+
+Rhys raised a hand, backing away as Cynog approached. “How about a little add-on, to sweeten the pot?”
+
+“Speak quickly.”
+
+“If I draw blood, you have to request that I get access to the upper peak,” Rhys said, as quickly as he could manage.
+
+This was it. His true goal from the beginning. He wouldn’t get another chance to ask Cynog to request his access. It was a slim chance he’d win, a slim chance that Cynog would honor his bet… but if he did, this was it. The only way to get Cynog to advocate for him.
+
+The other teachers wore ordinary robes, studded here and there with gold and gems. Cynog’s was plastered with them, the thick belt around his loins all but solid gold. From wealth alone, Cynog obviously was a teacher worth targeting, someone who would doubtless have influence over the Schoolmaster. If not overtly, then at the least, he was someone who was able of obtaining money for the school, and that made his voice worth listening to.
+
+A dry chuckle emerged from Rhys’ throat at that, unbidden. My stint in grad school is finally worth something, huh. Hadn’t done anything in his first life, but it did mean that he understood academia and power structures like it more than the average person.
+
+Cynog threw his head back and laughed. “Bold. I like it! Then how about this? When I win, when you fail to land a single blow on me, you have to apologize in front of the whole class and forsake all training but mine.”
+
+“If you win,” Rhys returned. He narrowed his eyes. The apology was nothing to him. He’d long since gotten over the childish fear of public speaking and humiliation. The real problem came in with forsaking all training but Cynog’s. He had absolutely no intention of doing that, but if Cynog decided to enforce it, there was little he could do.
+
+Then again, it wouldn’t be a bet if I didn’t ante up. Rhys steeled himself and raised his fists. He pushed mana into the impurities, accelerating their ignition. Black smoke billowed from his shoulders and back, soaring up into the sky.
+
+“What are you doing? Don’t you have to draw blood? Draw your weapon,” Cynog egged him on.
+
+Rhys smiled, just an inch. He drew his sword-stub. Its blade leaped into shape, formed by the pale blue light of Trash Intent. Lifting his hand, he pointed it at Cynog.
+
+Cynog blurred. He leaped at Rhys. Rhys hopped back, and Cynog’s fist slammed into the earth so hard that it formed a crater. Dirt and rocks sprayed up, bouncing off Rhys’s legs.
+
+Rhys raised his brows. That blow was as hard as the attacks Cynog had launched at him after the trash lecture. Cynog didn’t intend to hold anything back from the beginning.
+
+That being said, compared to his current strength, a blow at that level would hurt, but it wouldn’t seriously phase him. In other words, it was the exact kind of blow he needed to take in order to reach his trash modes without dying.
+
+Cynog furrowed his brows. “You’re fast.”
+
+“Ah? Ah!” Rhys shrieked in false surprise, then turned and ran.
+
+“Oh ho? What happened to landing a good blow on me?” Cynog asked, laughing. He slammed his foot down, then vanished. Rhys bounced off a wall of muscle. A fist hammered into his side, and he went flying.
+
+Rolling with the force of the blow, Rhys came back up to a three-point stance, watching Cynog. He was close, but he wasn’t there yet.
+
+“Are you just going to run? Come on,” Cynog mocked him, gesturing him on.
+
+Enraged, Rhys shouted. He charged in, sword raised high. Before he got two steps in, another heavy blow smashed him to the ground again. Cynog chased after him, but Rhys rolled out of his reach and bounced up. Cynog’s eyes narrowed. He lunged, but Rhys darted to the side. Another lunge. Rhys hopped backward, evading his grasp.
+
+“If you keep dodging, you’ll never land a hit,” Cynog informed him, chuckling.
+
+Rhys’ nostrils flared. He rushed in, thrusting his sword in a headlong charge. Cynog blurred and reappeared beside Rhys. With a blackhanded slap, he hammered Rhys into the ground.
+
+Rhys laid there, breathing heavily. The black smoke continued to billow, but his breathing was labored. Blood dripped down from his mouth and nose and a dozen other cuts. His whole body was a mess of bruises and broken bones.
+
+Behind him, Ev narrowed her eyes. She crossed her arms and tilted her head, lost.
+
+“This is foolishness. You need my training,” Cynog declared. He dragged Rhys up by the collar.
+
+Rhys growled and slashed at Cynog. Cynog let the sword hit him. The Trash-Intent enhanced blade stopped dead on his side, without drawing so much as a drop of blood.
+
+Cynog looked down. He laughed. “Now, do you see? It was futile from the start!” Grabbing the sword in one hand, he threw Rhys into the wall of the cliff with the other. He dropped the sword stub, now without its Trash-Intent blade, and vanished again, reappearing over Rhys, his fist raised.
+
+Rhys’ eyes flashed. A vicious grin spread over his face. “Says the fool.”

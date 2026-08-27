@@ -1,0 +1,131 @@
+---
+id: c8d89617-d2bd-55ab-abc6-6f2ab6912b14
+page-type-slug: story-chapter-royal-road
+title: "Threads 495-Reception 4"
+slug: 0542-threads-495-reception-4
+partOf: forge-of-destiny
+position: 542
+ownLength: 1920
+unit: words
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2969953/threads-495-reception-4"
+royalRoadId: "2969953"
+---
+
+"Ah, Baroness Ling. Excellent to finally meet you in person! Such a standout."
+
+Mei Jiayi was the daughter of a viscount under the Jia clan. She was nearly a hundred years Ling Qi's senior, but she was equal in cultivation and in charge of her family's arts patronage. She'd been one of those in Hou Zhuang's lists. Ling Qi found her easy to connect with, asking for details on arranging patronage for common cultivators and providing some details on her project with Hanyi, which the older woman found fascinating.
+
+Sixiang's interpretation of her voice had been eerily prescient. She had a naturally loud and attention-grabbing voice.
+
+"Mah, you can pick up a lot of a person from how they write,” Sixiang dismissed. “Knew she'd be very yang."
+
+It was especially amusing because Mei Jiayi's head only just reached her chest in height, but she was finding that was pretty common. The other woman wore a dress of bright red, contrasted with darker lines of black embroidery, tracing out organic curls like stylized vines or branches. Her hair was cut into a short bob but adorned with pale rose-pink flowers.
+
+"Lady Mei, as bright as I imagined you to be," Ling Qi greeted pleasantly, offering a short bow, which she received in turn. "I apologize that I haven't been able to arrange a meeting sooner."
+
+"Oh, no need for that. You've been so busy! I hope your junior sister's performance circuit has been going well?"
+
+"It has been. She's been quite enamored with it. It’s all she thinks of, for the most part. Has my advice on spirit communion borne any fruit?"
+
+"It got her a dunking come the flood season," another of the ladies nearby tittered.
+
+Perhaps half a dozen others were nearby; she didn't recognize them all, but the cut and colors all indicated Thundering Hills nobility. The Hills were in the southeastern region, named for their many waterfalls along the path the headwaters of the Jing River carved through the mountains and hills.
+
+"Hmph. As if I'm afraid of putting my hands upon the hilt occasionally. I am, in fact, quite satisfied. The Mistress of the Whitecap Whorls has been much more agreeable lately," Mei Jianyi informed her. "What are a few bruises for that?"
+
+"A few more than I would like," the other woman said. She was taller by a little and more slender compared to Mei Jiayi. "I suppose I now know who has put such ideas in your head."
+
+"I shall not apologize for giving good advice," Ling Qi said cordially. "It's gotten me quite far, Miss…"
+
+"Teng Zang, fourth daughter of Viscount Teng," the other lady introduced herself, fluttering a fan in front of her face as she offered the small customary bow. The others introduced themselves as well. They were a collection of young misses, ranging from a decade her elder to more in Mei Jiayi's range, from viscount and baron families in the Hills region. If she had to judge from the dynamics, Mei Jiayi and Teng Zang were the heads of this clique, though there was nothing so formal as an official position.
+
+They were all certainly here on the guest list as attachments to their mothers and fathers, who were, in turn, here as guests of Jia Hong and his clan, giving face to their vassals. It was a stark reminder of how utterly out of place she was at her age and status and how that bent expectations.
+
+They hid it very well, enough so that she would never hold it against them, but there was a slight hesitation in every interaction. These ladies were having to catch themselves from treating her as lower status than she was. Nothing egregious, just hitches on the exact etiquette they should be using with her.
+
+"Honestly, Baroness, I do wonder if you are trying to overawe the field with the rumors you've been generating today. What plots does the heiress have that she needs you to give her such cover?" Mei Jiayi joked as the introductions wound down.
+
+"Ah, that would be telling, wouldn't it, Lady Mei?" Ling Qi joked back.
+
+"At the very least, won't you say something about your encounter with the patriarch? There's been rumor that he might have been involved with your summit,." Teng Zang inquired.
+
+"I'm afraid not. He is hardly my teacher, only a senior brother. I had not met him before this day."
+
+"And who is it who could have mentored you both?" one of the others asked, an edge of hunger for information in her voice.
+
+"I'm afraid our teacher prefers their privacy. My senior brother may be playing a bit of a joke himself." She sighed, resting a hand on her cheek. "I was only to pass a message, to and fro. It was shocking enough that my Senior Brother chose to take a moment to debate certain cultivation matters with me. Patriarch Jia is generous indeed."
+
+"... Yes, our great patriarch is quite jovial," Teng Zang said. However, she could not hide a glimpse of a frown. That was fine with Ling Qi. People would be curious about what she and Patriarch Jia had spent their time under veil speaking about. Cultivation was an obvious, easy answer. It helped that her explanation was true but without detail.
+
+The furor of people digging for what the message was definitely wasn't going to die down. If she had to guess the most likely direction for rumors to spread…
+
+"Elder Jiao and Auntie Xin. In fact, I'd half bet that guy was deliberately tweaking old man Jiao's nose with that."
+
+Disturbingly plausible.
+
+"I found him to be pleasant conversation, but I understand how he could overwhelm others," Ling Qi continued. "I can see without a doubt why he is one of Her Grace's most esteemed allies. The Thundering Hills is fortunate to have such a lord."
+
+She observed the reactions; it was about what she expected, the usual gamut of polite agreements. However, there was a small frisson of discontent in the spirits. Nothing strong.
+
+Judging from where it began, it must have been the mention of the connection to the Duchess. Not disloyalty to the provincial throne, nor even dislike of its policies… Ah, that was it. She knew that the Jia family was perhaps the most openly dedicated to central rule, even to the detriment of their own privileges and power as counts. It was their strongest quirk. Even the Wang, the other new clan elevated after the fall of the Hui, didn't present such zeal toward centralization.
+
+She supposed she couldn't be surprised that not all of the Jia’s own vassals were pleased with this.
+
+"Oh yes, indeed. Our men stream north. Even one of my brothers has gone to sign up for the Horned Legion. A strong spine of Jia armsmen will be the core of the provincial army. You'll see, Baroness, that no one has quite the same eye for discipline as men of the Thundering Hills," Mei Jiayi boasted.
+
+"It is true. There are no finer soldiers in the province," Teng Zang supported. "Well, I hope they aren't kept busy doing drills in the central valley instead of the borderlands for too long. I have looked into the numbers called for in your Summit Treaty. The expansion is tantalizing, but I fear we may become a little overstretched."
+
+"Reasonable, though there is no rush, I am certain by the time the new roads and byways have been carved in the mountains, the Legion will be taking up active duties," Ling Qi said.
+
+She traded pleasantries for a while longer. It gave her a better snapshot of attitudes toward the summit’s results. While the lesser clans of the Foundations, which included the foothills Shenglu could be considered part of, were less enthused, it seemed the pain point of contention was their overlord's centralist policies.
+
+If she wasn't associated with the Foundations before, she certainly was now. Just something to keep in mind when interacting with the eastern end of the province. Their greater security gave them a different point of view from the clans that occupied the Foundations, which, in fairness, was partly due to the overall Meng clan not being the best stewards of imperial-aligned vassals.
+
+"Ah, but I see your suitor is seeking your attention. Go, go, Baroness Ling. You must tell me later about how that came about." Mei Jiayi's words shook her from her thoughts.
+
+"I'm afraid I can't comment on such events today," Ling Qi said, drawing some amused titters from her audience. "Have a good evening, everyone."
+
+Meng Dan hovered in the corner of her vision, far enough away not to be imposing but close enough to get her attention. She turned to him as she left the chattering noblewoman behind, eyes scanning over the person he was with. A Luo, if she judged right, going by the mantle of black fur thrown over broad shoulders, and the bone worked into the jewelry that dangled from the woman's pierced ear and lip.
+
+She was quite tall, only a bit shorter than Ling Qi and Meng Dan, and broader than both of them put together. Her hair was luminous silver, almost looking like strands of metal, but thick and shaggy rather than smooth and straight
+
+The other woman caught her eye and waved, smiling brightly. The ring pierced through her lip glinted.
+
+An upturned crescent.
+
+"Now, there's a troublemaker."
+
+"Meng Dan, welcome back. Did your own conversations go well?" Ling Qi asked.
+
+"Oh, I enjoyed catching up. Many of my colleagues have gotten quite deep in their cups though."
+
+"Not all of us can have a gut of adamant like you!" The Luo woman laughed. "Luo Yaling. Nice to meet the one that's gotten this one's nose out of the tomes."
+
+Meng Dan gave a put-upon sigh. "Baroness Ling, Luo Yaling has been my Senior Sister at the Blue Mountain Sect in the past. She has been a great help in my library expeditions, so please overlook her rougher edges."
+
+"Rude little brat," Luo Yaling accused. The other woman was at the peak of the third realm, and was only a few years older than Meng Dan or herself. "Good to meetcha. You're all kinds of mixed up, aren't you?"
+
+"So I've been told, but the stolen winds run through it all."
+
+Luo Yaling grinned. "So it does. I gotta say, you're a little weighed down for a dancer."
+
+"It's true. I can't walk such a pure path."
+
+The older girl was wind through and through, bright, clear, and tightly contained, a coil of frenetic energy wound tight, like a gale trapped in a bag.
+
+"Well, you've obviously got something our mutual friend likes going." Luo Yaling shrugged. "Heh. And you've certainly stolen this one out from under me."
+
+Meng Dan rolled his eyes. Ling Qi chuckled.
+
+There was no heat or jealousy in the other woman's voice, or even any real claim. She was just prodding Ling Qi to get a rise out of her.
+
+"A grinning dancer shouldn't hesitate to grasp what they desire." Ling Qi bared her teeth in a smile.
+
+"Fair! Junior Brother, this exalted sister will give you her tentative approval."
+
+"I am ever so thankful," Meng Dan said dryly. "Senior Sister, I did not bring you to meet Ling Qi merely to embarrass myself."
+
+"Foolish of you," she said cheerfully.
+
+"Perhaps. I thought the two of you might enjoy discussing the finer points of liminal movement with a peer."

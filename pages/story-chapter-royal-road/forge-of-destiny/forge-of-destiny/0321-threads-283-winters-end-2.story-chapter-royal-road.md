@@ -1,0 +1,143 @@
+---
+id: 09d82596-374f-5fcc-9b20-7cac70a87abb
+page-type-slug: story-chapter-royal-road
+title: "Threads 283-Winters End 2"
+slug: 0321-threads-283-winters-end-2
+partOf: forge-of-destiny
+position: 321
+ownLength: 1615
+unit: words
+publishedAt: 2023-02-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1109987/threads-283-winters-end-2"
+royalRoadId: "1109987"
+---
+
+Ling Qi blew out a breath. “Too much to put in good order, little sister.”
+
+Her eyes scanned the books, the neat scrolls, and journals and collated anthologies before straying to the far messier corner of the table. That corner was filled with stacked worn and tattered pieces, single pages, scrolls with broken batons, and rolls of bamboo slats missing panels or scraped and burned.
+
+Stories. Stories from across the Emerald Sea in both distance and time. These were the gathered scraps she had picked through to keep from the vast wealth found in a corpse immortal’s ring.
+
+It was in a walking corpse’s rotten face that she had first gotten a glimpse of what refusal to end looked like. Hui Peng had refused to change, trying to hold the world in place, and refused to see beyond the end of his nose or beneath his feet. The buzzing of flies and the sight of maggots squirming under papery skin was a potent reminder.
+
+“Self-obsession is the worst poison. Art should be about the world around you, the world that can or should be or the world that is,” Ling Qi said. “Old things must be allowed to die, but that doesn’t mean that you have to discard all that they were. An ending doesn’t have to be a complete desolation.”
+
+Hanyi tilted her head. “I don’t know about that. You're pretty awesome, Big Sis. You're even better than me! What’s wrong with telling everybody how great you are?”
+
+“I think it’s more the obsession bit,” Sixiang said. “You got better over your tour, right?”
+
+“I guess so. Oh, I think I know what you’re talking about. It’d be like if I only ever sang one song cause I’d already decided it was the best one. That would be lame.”
+
+Ling Qi breathed out. “Something like that.”
+
+It was true that maybe she went too far. Hanyi was right in that there was nothing wrong with a little pride.
+
+“Ice can easily be stasis though.”
+
+Hanyi paused, kicking her feet.”Yeah, it can be. Papa was like that. You can freeze stuff and keep it forever. You’ll break it though.”
+
+“You will break it,” Ling Qi agreed.
+
+“Winter blows in, and things die or go to sleep, labor is put to rest, and the world is made pure for the coming of the new year,” Hanyi said.
+
+It was Ling Qi’s turn to tilt her head. “Now where did you copy that from?”
+
+Hanyi pouted at her and crossed her arms. Ling Qi kept her gaze steadily. Finally, Hanyi huffed and turned her head. “From that priest who followed us around. It’s a pretty saying, huh? Very smart.”
+
+“Maybe,” Ling Qi said.
+
+It matched some of her thoughts. Winter wasn’t a grand incomprehensible concept, but it was an end all the same. It was the punctuation of the year, the end of labors and the preparation for new ones. It was cold and without mercy for those who had no warmth to huddle around.
+
+Ling Qi postulated, “Cold creeps in. Always, it comes in the absence of warmth.”
+
+“We want things ‘cause we don’t have them,” Hanyi said with a shrug. “What’s the big deal?”
+
+“It’s easy to only take,” Ling Qi replied.
+
+“Sure, it is a lot easier that way. But it's boring and lonely.”
+
+“No deeper reason than that?”
+
+“Does there need to be?” Sixiang wondered.
+
+“I think there should be,” Ling Qi said thoughtfully. “If only because of how easy taking is.”
+
+“I guess,” Hanyi said.
+
+She looked over the table and reached out, making a grasping motion with her hands. Ling Qi snorted. A small controlled gust sent  an open scroll flapping into Hanyi’s hands.
+
+“It's all well and good to do as you like, but if that’s the only rule, then I think events can only go badly,” Ling Qi mused, looking at the more tattered Hui books. She considered the screaming wind around her, sharp despite the thinness of the air. She had come to more deeply touch the element of wind, the soaring freedom of the sky, but the endless blue she glimpsed in her contemplations remained unappealing.
+
+She couldn’t see that desire, the pull of total freedom, the refusal of any constraints, as anything but childish selfishness or a self-absorbed tantrum. But all the same, she did love to fly, and she was still a thief at heart, even if she stole ideas, traditions, beliefs, and stories these days.
+
+<And the occasional gross bomb or toys,> Sixiang whispered.
+
+<Don’t make me get you with the net,> Ling Qi mock threatened.
+
+Above, Sixiang’s manifestation stuck out their tongue.
+
+“Hey! Are you having a conversation without me? That’s rude!” Hanyi complained, looking up from her scroll.
+
+Ling Qi smiled politely at her junior sister, who pouted as Ling Qi turned back to her book of songs.
+
+Really, she was glad she had cultivated the Laughing Flight of the Wind Thief art so much before this. Meditations on the wind reflected on cold and winter. If she was to make a successor art with the whole of her resources, her component arts would need to come into alignment.
+
+“What would you say the song your mother taught me is about, Hanyi? Say it in your own words.”
+
+Hanyi’s pout faded away into a silent frown. “It was Momma, what she was.”
+
+“And what was that?”
+
+“Death. Momma was death in the cold, the kind that makes you see things in the whiteout and makes you feel warm, even while you freeze. But the warmth is a lie, and the pretty shadow in the snow is a lie. The only thing really there is death. Death and ice.”
+
+“I don’t think the warmth and the shadow were lies though,” Ling Qi disagreed. She contemplated what she had seen in her master’s house at the very end.
+
+“Mhm, that’s why she broke.” Hanyi gazed at the rubble where Zeqing’s domicile had been. “So that song is what she was before people came.”
+
+“Master Zeqing was the deepest depth of winter, cold and unceasing. In a way, she wasn’t winter at all because she was never meant to change or pass into spring.”
+
+“That seems right. I’m not that though.”
+
+“What are you then, squirt?” Sixiang asked.
+
+“I’m the first cold wind that blows in,” Hanyi said confidently. “I’m the end of fall and the first snow. If you prepare for me, everything is pretty and pure, and you can listen to me sing, but if you slack off, I’ll eat you up.”
+
+“I dunno,” Sixiang drawled. “That sounds way too dignified for you.”
+
+“Like you’d know what a lady looks like, you weird dream bug! Anyway, Big Sister, what do you think you want to be?”
+
+Ling Qi smiled at the byplay. She understood that Hanyi was really asking whatshe wanted to make of Master Zeqing’s song. She didn’t think she could make it a song that was not an offensive tool, an art of danger and harm, which were characteristics too intrinsic to remove entirely.
+
+After all, winter and ice were markers of death, at least in part.
+
+“I think I want to create a song of the world’s ending,” Ling Qi mused.
+
+Sixiang cocked an eyebrow.
+
+Ling Qi ignored them. ”It’ll be the ending that happens every year, the cold that puts the old world to rest, buried in the snow. Some will rot and become fuel, and some will continue on into the next year. And when winter itself ends, the blanket of white over the world becomes its new lifeblood to be born anew in the spring’s flooding.”
+
+Because she did believe in Cai Renxiang’s dream. They could build a better world. They could change old truths, and make new truths whole cloth where needed.
+
+Shu Yue’s words came back to her, and Ling Qi wondered if this was something like their own conviction. Someone would come after them, and then, they would be the ones in the way, the old thing to be buried.
+
+That thought lingered, and it did bother her a little, but she couldn’t say it would change her Way.
+
+“My sister doesn’t think small,” Hanyi said. “Are you really gonna be happy like that?”
+
+Ling Qi gave the question some real consideration. “I don’t think I could be happy ignoring the big problems.”
+
+Hanyi sighed. “Kay. Can we do some real practice now though? All this reading is boooring.”
+
+Ling Qi smiled. Hanyi might have changed outwardly, but she was still the same at heart. She caught Sixiang’s eye then, and the muse gave her a concerned look. Ling Qi flicked her eyes away.
+
+“Sure. We can get some practice in,” Ling Qi said.
+
+Studying others' works was helpful to an extent. It jogged forth ideas and gave inspiration, but in the end, she still had to do her own creating. The materials she’d gathered had filled her mind with ideas…
+
+Although most had come from the Meng materials, and their long meditations on natural phenomena. The cold of the Meng marshlands was different from the harsh mountain cold she was more accustomed to, but there was much to consider all the same.
+
+Ling Qi stood, and a wave of her hand returned the table and all of its contents to her storage ring. Cai Renxiang was right, keeping furniture on hand was just plain useful. With it gone, they stood together on the windswept peak as Sixiang vanished in a shower of colorful dissolving butterflies and Hanyi stood up.
+
+“Want to show me what you’ve been working on first, little sister?”
+
+“Yeah!” Hanyi grinned, throwing her shoulders back. “Take a look at this!”

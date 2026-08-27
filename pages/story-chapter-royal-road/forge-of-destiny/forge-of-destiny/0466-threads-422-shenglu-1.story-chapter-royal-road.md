@@ -1,0 +1,121 @@
+---
+id: 7ef859a8-af94-5028-85c1-867b2a332dcf
+page-type-slug: story-chapter-royal-road
+title: "Threads 422 Shenglu 1"
+slug: 0466-threads-422-shenglu-1
+partOf: forge-of-destiny
+position: 466
+ownLength: 1574
+unit: words
+publishedAt: 2025-01-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2008875/threads-422-shenglu-1"
+royalRoadId: "2008875"
+---
+
+Ling Qi was going to have to adjust her strategy in the future.
+
+"But that aside, the mission was successful, and you did not damage your health?"
+
+"I have put some strain on my meridians and body but no more than is required for recovery,," Ling Qi reported, straightening up. "I will need to be on light duty for a day or two."
+
+"All the better, given your tasks. I believe the requisition should only be needed by the week’s end given that Sir Bao has a small supply for our immediate needs."
+
+She wasn't getting out of her assigned paperwork.
+
+"A few days in the manor will do me well. I suppose I can begin organizing a place for my family, too. I have to say, I am impressed with the quality of the construction."
+
+Cai Renxiang leaned back in her chair. "I am pleased with the results myself." Together, they looked out of the window which peered through the mist at the rising town center. "We are growing far more quickly than a normal settlement. It is best to begin this way given the speed of our growth."
+
+Normally, a small hamlet would use much more rustic styles and materials, but they were not going to be a small hamlet for very long. In the end, this was a great investment of the Cai clan, putting a population hub directly on the route to the summit location. They were tied to that success in so many ways.
+
+"Housing is still being allocated. Would you care for something detached, or would you like a manor wing?" Cai Renxiang asked. It was rare to see her smile, but looking out over the town managed to make the stoic girl's lips curve up.
+
+"Is that viable?"
+
+"A baron’s manor is meant to house their clan, as well as settlement administration. I have none to house and will not in the near future. Gan Guangli has already elected to take a plot outside the manor for his needs. Xia Lin is not bringing anyone," Cai Renxiang replied.
+
+"It would save us from having to import more domestic staff," Ling Qi said. She did like the idea. "And integrating the panic room I commissioned from Xuan Shi would be best suited to the manor."
+
+"Then do so. Give the dimensions to the architects, and we will find a place for it in the ongoing digging."
+
+Ling Qi nodded, stepping away from the desk to sink into one of the chairs arranged around the office. "I'll go this evening then. What are our plans, now that the city center is set up?"
+
+Cai Renxiang considered the question. "I will have to convert much of my allowance into usable resources, as the reserves purchased by Xia Lin and yourself have finally run dry. I will see a portion of that replenished to your clan coffers, of course, now that my funds are not so constrained."
+
+"I never had any doubts." Ling Qi shrugged. This was going to be her home; she had never been troubled by investing into it. "That explains all the traffic still coming in though."
+
+"Bulk storage rings would reduce the load, but they are a frivolous expense at this point in our development," Cai Renxiang agreed. "For now, the main task is a proper propitiation of Snowblossom Lake, if you feel you have  recovered enough."
+
+Ling Qi thought of her confrontation with the Weeping Mother, and then the somewhat alien but warm curiosity she had encountered in her first contact with Snowblossom Lake's spirit.
+
+"I see. Yes, I am. I would have thought you would want to develop the administration more first."
+
+"It does pain me to leave it aside, but the cost savings are less valuable than the stability the populace will feel knowing that proper rites have been laid down for something so central to the settlement's future economy."
+
+"Understandable. Although, what is the actual purpose of the central granary and taxation plans? it's not as if we have any need for their grains."
+
+"At this stage, insurance against poor conditions. Each farm household will pay a tithe into the central storage, and this will be used to distribute aid should any one household be struck by a poor harvest. In the future, it will be used to provide a certain baseline of nutrition for the population not working in food production. Something similar can be arranged with the fishers, but more preservation efforts will be needed before then."
+
+"That does not match my experience at all."
+
+"It is one of Mother's innovations. It is easier to fulfill in Xiangmen, but I do not find it credible that mortals will become decadent and unmotivated without such insecurity, as many insist they will," Cai Renxiang said. "I wish to see if it is possible under less optimal circumstances."
+
+Ling Qi did remember Xiao Fen's friend, Liu Xin, saying something about there being places to go in the rootways to receive a meal and sleep safely, even after he had been driven out of his father's house.
+
+How luxurious.
+
+"I see. I think I like that idea," Ling Qi said. "Though…"
+
+"I am not blinded. My mother has many accomplishments. I am not so childish as to ignore them."
+
+Ling Qi inclined her head. Cai Renxiang was speaking more for her own benefit than Ling Qi's there. When a moment or two of considering silence had passed, Ling Qi spoke up again.
+
+"Well, there's much to build on and test. Do you have a plan for letting our people start their own ventures?"
+
+"I do. It will require more administration, but I would like the populace to be able to apply requests to open community projects on their own. We do not have enough capacity or demand for it at the moment." Cai Renxiang stood up from her seat.
+
+"I suppose so. Everyone has their hands full just getting the basics done."
+
+"Indeed. What are you planning for your own time, Ling Qi?"
+
+"My dress should be back in a few weeks, so I'll need to acclimate," Ling Qi said, smiling at the thought. No other cloth felt quit right anymore. It would be so good to get back into her proper gown, and it would do wonders for her peace of mind to have those layers of enhanced silk between her and any danger again, let alone the security of being able to fly if she needed to. " Beyond the ceremonies, I'd like to begin cultivating properly again, and I’d like to look into some personal projects.”
+
+There was the problems at the Cathedral of Winds, the vision of the regenerating behemoth in the liminal, and Zhengui's progenitor, or one of them at least.
+
+"I see. I have you slated for light duty until the year's end, so that is fine enough." Cai Renxiang faced the window with her arms folded behind her back.
+
+Ling Qi hummed. "You know… I was cultivating my offensive arts out on this journey, and while I feel I've refined it conceptually, that's different from practice."
+
+Cai Renxiang turned her head to look at Ling Qi over her shoulder.
+
+"It's been a long time since Gan Guangli, you, and I have sparred, hasn't it? Xia Lin might appreciate some team building, too. Light contact, of course."
+
+"Team building, I see," Cai Renxiang said dryly.
+
+Ling Qi gave her an innocent look.
+
+"Some recreation may be in order,” the other girl allowed. “There is time in the schedule, and it will create confidence among the garrison if allowed to be witnessed."
+
+"Lady Cai is wise."
+
+"I wonder." Cai Renxiang peered over the town center, still filled more with the bustle of construction, rather than populace."You were being facetious. But we will soon need to fight together. We will not be in the van, but we are not going to be far behind. I strongly suspect Mother intends for us to earn more traditional honors in the offensive."
+
+"It will certainly firm up our position in a way no one can challenge," Ling Qi said.
+
+Her thoughts flashed back to the vast underground territory of the ith where they would soon be going to make war. It was going to be a nightmare. She had only seen the edges of war, the ripples and memories and scars it left in its wake. But even this had left her with no illusions.
+
+But it was a nightmare they would have to endure and survive, and no amount of brooding or overthinking would change that. At the end of the day, the Celestial Empire was a martial society, and martial achievement was prized more than diplomatic.
+
+"So, all the more reason. Next week… The sixth day?"
+
+"So, you have been paying attention to my timetables," Cai Renxiang said. "Yes, that will do."
+
+"The question is the format. Pairs, you think? We haven't gotten to fight on the same side since the caldera."
+
+Cai Renxiang turned to fully face her, one eyebrow raised as high as it would go.
+
+"For one round,” Ling Qi said defensively. “We can switch it up after. I'd like to test my arts beyond renewing them when you strip the effects off."
+
+"I didn’t say anything. Rotating pairs will be sufficient. Now, Lady Ling, I believe you should head to the archive and begin researching that import route."
+
+Ling Qi sighed. She REALLY wasn't getting out of that.

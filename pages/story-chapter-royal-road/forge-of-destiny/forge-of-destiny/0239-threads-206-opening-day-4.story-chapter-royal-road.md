@@ -1,0 +1,157 @@
+---
+id: 7a13efad-28ad-57f5-bfcb-355277159aa0
+page-type-slug: story-chapter-royal-road
+title: "Threads 206-Opening Day 4"
+slug: 0239-threads-206-opening-day-4
+partOf: forge-of-destiny
+position: 239
+ownLength: 2916
+unit: words
+publishedAt: 2022-04-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/880343/threads-206-opening-day-4"
+royalRoadId: "880343"
+---
+
+It felt strange to be among the audience rather than down on the field, Ling Qi thought, moving to take her seat in the Duchess’ observation box. It was set high in the stands, overhanging the lower seats. Its thick walls were constructed to dampen sound and qi from the outside as well as contain the power within from flowing out.
+
+The older cultivators took the largest and most comfortable seats, just below the empty throne of living wood and metal reserved for the Duchess, but even the seats at the balcony’s edge left for them were luxurious constructions of polished wood and comfortable silk cushions. Cai Renxiang was seated behind her with the ambassador and Bai Suzhen’s husband. She tried to ignore the deathly presence that accompanied him. Although… should there not have been someone else as well?
+
+She dismissed the idea as a bit of anxiety caused by her company and settled into her seat. Bai Meizhen sat on her left side and the two young men on her right. In this scenario, Meizhen had told her, putting her at the center was something of an intimidation play. Not malicious really, but just… habitual to the Bai. Ling Qi retained her pleasant smile and allowed a bit of her own qi to leak out, adding a real chill to the air to go with the spiritual one.
+
+“The high air in the Wall is bracing, isn’t it?” Ling Qi commented idly, looking down onto the four tournament platforms and the green fields.
+
+“I have found it clears the mind well,” Bai Meizhen replied.
+
+“I am sure it only takes some acclimation.” Xia Anxi,seated beside her, leaned imperceptibly away from her chill.
+
+Ling Qi turned her head just a little and raised her eyebrow a hair.
+
+The young man beside her pursed his lips for the briefest moment and settled into his seat, lazily letting his hand fall on the armrest beside hers. Ling Qi kept her expression neutral, but she allowed herself an internal smirk. Respectful, but never subservient, as Meizhen had said.
+
+<Snakes aren’t the only ones who can play games.> Sixiang snickered.
+
+On his other side, Lao Keung sat down as well, looking uncomfortable as he settled into the thickly cushioned seat. “What standouts can we expect to be worthy of watching, Baroness?” he asked.
+
+“There is your own Xiao Fen of course, but I doubt she will find challenges here in the preliminary,” Ling Qi said politely.
+
+“I should hope not.” Bai Meizhen sniffed haughtily, crossing her hands in her lap.
+
+“It would be terribly rude,” Ling Qi said dryly. Given the Duchess’ machinations, she felt it extremely doubtful that the Sect would arrange for Xiao Fen to find herself in a preliminary with any of the other genuinely troublesome entrants
+
+“Rude, yes,” Lao Keung said neutrally. “Is it expected for all the matches to be so polite?”
+
+“Doubtful,” Ling Qi said. “Between the previous year and new talent rising, there are more third realms than there are Inner Sect slots.”
+
+“How prosperous,” Xia Anxi said. “I am sure the Sect is almost troubled by such overflowing abundance.”
+
+“Most likely,” Ling Qi replied blithely. “I would recommend keeping an eye on Gan Guangli. As my fellow retainer, he is no doubt eager to make up for the errors of last year.”
+
+“It is most unfortunate that he found his footing troubled by unwanted weeds,” Bai Meizhen said coolly. “I wish your fellow good fortune, Baroness Ling.”
+
+“My thanks, Lady Bai,” Ling Qi said.
+
+“Weeds, hm,” Lao Keung said.
+
+“Such troublesome things,” Xia Anxi commiserated.
+
+“As someone who has recently begun to dabble in the art of gardening, I must agree,” Ling Qi said innocently. “But look, Sect Head Yuan is about to begin speaking.”
+
+The speech was not so much different from last year. There was a greater emphasis on unity and looking forward perhaps but not so different. However, Ling Qi could not help but feel that some of the energy and drive had gone from the old man’s voice.
+
+It worried her for if she could notice, surely, most of the audience could.
+
+Soon enough, the Outer Sect entrants were streaming into the arenas. There were even more than last year. She would have thought the number of greens, of which she had counted twelve already, would be discouraging. She recognized Gan Guangli and a young man beside him and one of the twin sisters who had been her bodyguards last year, Han Jian and Han Fang, Lu Feng and two others wearing western colors, Xiao Fen, and a tall, muscular girl who she felt she ought to recognize, and two other older looking disciples. Perhaps the Sect had bolstered their spirits in some way.
+
+She let that thought drift away as she focused on Gan Guangli, standing in the upper right ring as the formations went active and the stage transformed. She could sense its function more clearly now, the way it created a bubble in space by disrupting the qi in the area, weakening and stretching its bonds.
+
+Gan Guangli appeared at the top of a high cliff overlooking a rushing river, running fast and whitecapped through a cleft in two mountains. A part of the Wall? He stood still for only a moment, his white and gold armor gleaming under the sunset. The cloak of fourth realm spidersilk he had acquired on their journey to the south billowed behind him in the wind, and she saw that it was now edged in gold and embroidered with crimson butterflies, the symbol of the Cai.
+
+Then his hand rose to his ear, and Ling Qi saw his lips move. “Report location.”
+
+She wasn’t able to hear whatever response he was undoubtedly hearing as he rapidly scanned the landscape around him. She could feel the communication though and trace the expression through the air like shimmering threads, going out to nearly a half dozen others. A young man in armor similar to Gan’s, though of much lower quality, leapt from river rock to river rock with a spear on his shoulder. There, Ma Lei, one of the pair of sisters who had once “guarded” her in the Outer Sect, was standing in a cave with her hand on the cool stone wall. The threads also went to other faces, who she couldn’t even pretend to recognize.
+
+“So many allies. It is difficult to see him failing,” Xia Anxi noted, his voice echoing from outside the bubble.
+
+“Part of his task was to maintain Lady Cai’s control of the Outer Sect. That his network is extensive is a sign of his success,” Ling Qi explained.
+
+Gan Guangli himself continued to hold his hand to his ear as he turned toward the mountain rising behind him and began to climb in swift, bounding steps. Plumes of dust rose from cracked stone with each leap, carrying him higher and higher up the slope. Moving back until his soldiers could take care of more of the opponents? No, Ling Qi realized as he reached a wide plateau overlooking the whole of the artificial battlefield, that was what she would do.
+
+<My cousins don’t do subtle,> Sixiang drawled.
+
+Gan Guangli turned on his heel, and she saw liquid gold gleam in his eyes as he clapped his hands together, and three further thunderous claps followed. The sun rose over the mountain, and blazing light obliterated every shadow and veil on the upper mountain, drawing startled cries from disciples who had been trying to hide. Her own stealth arts could have resisted that, but it would be hopeless for a second realm.
+
+“He has learned, I think,” Meizhen commented.
+
+In the arena, a figure burning with golden sunlight leapt like a meteor from the riverside, his own third realm cultivation drawing her attention. His spinning spear sent a pair of disciples dogging his heels down to crash into the rushing mountain waters. Stone bubbled and melted, and Ma Lei rose on a pillar of clay, her spirit bearing the signs of several failed breakthrough attempts. The wind whipped, and three more of Gan’s soldiers dropped in formation onto the cliff he had originally stood upon.
+
+“It is not a commanding officer's duty to stand beside his men, but to be the rock upon which their efforts turn,” Meizhen continued. “It is good that our allies understand this.”
+
+Ling Qi understood what Gan Guangli was doing, standing up there like a beacon, his sun shrouded allies arrayed on the mountain a tier below. He had displayed that hiding was impossible, and he had gathered his allies. Now, the remaining disciples could make two choices: join hands to topple him, or be hunted down like dogs one by one. Worse, in this setting, they would look very pathetic if they refused such a blatant challenge.
+
+It might be called foolish, even arrogant, but Gan Guangli couldn’t afford to simply succeed at this tournament. Under the Duchess’ challenge, he needed to excel.
+
+“Too bold a strategy, but this is a tournament. Glory is more important here,” Lao Keung mused.
+
+“Glory is always important,” Xia Anxi disagreed. “If you do not make sure that the extent of your power is known, you will always be challenged by little nits.”
+
+He hadn’t changed entirely though, Ling Qi thought. Gan’s height was still mounting, and his broad shoulders expanding. His domain weapon, three pairs of phantasmal golden hands clapped in prayer behind his back, was still the same, though the hands were more solid and more defined than they had been when last she saw them.
+
+It took a few tense minutes before the thought which had come to her percolated through the other disciples in the arena. Gan and his fellow disciples stood serene on the sunlit mountain waiting for their challenge to be answered. It didn’t take long. Multihued arrows shot from the mouth of a cave across the river toward the other third realm, and a half dozen shadows resolved into figures dashing up the mountain as well, their weapons flashing in the light.
+
+A tasseled spearhead blurred, splitting three arrowheads, and though the energies in them flashed, blasting the stone and earth to send the cliffside crumbling into the river, the spearmen emerged from the smoke running backward up the sheer cliff unharmed. His foes struck, their cries drowned out by crumbling stone, their own weapons blurring. One of the golden hands clasped behind Gan Guangli thrust forward, and the flashing spear became a falling meteor, shattering the weapons with its edge.
+
+Further down the mountain, Ma Lei and other disciples fought against a growing, desperate swarm of their peers. Techniques and weapons burned and blurred through the air, tearing up the weedy flora and scraggly trees that clung to the mountainside. Four against a dozen or more, they fought ferociously, but they were still being pushed back.
+
+A second of the hands behind Gan Guangli thrust out, and flesh became steel. A warhammer struck her former bodyguard’s chest and bounced away with no more impact than a feather. Her own fist, gleaming metallic and white, struck out with a thunderous boom that sent her opponent tumbling down the mountain.
+
+All around the mountain, the scene repeated itself. Small groups of Gan Guangli’s followers fought against many times their number, and each time they were pressed, a golden hand would strike the air with a sound like a temple gong, and they would be shored up, holding and pushing back their foes.
+
+“That is quite good. I wonder how many groups he can keep track of with that art. Six like the hands, or are they only a distraction?” Lao Keung analyzed. ”Theater for enemy scouts.”
+
+“His followers are doing well enough against the rabble. I wonder though, I thought I smelt blood going in. Where are those disgusting little sunflowers hiding?” Xia Anxi scanned the arena.
+
+“They’re coming in swiftly,” Ling Qi answered. It took Sixiang guiding her eyes to see them since her own perception arts didn’t penetrate the tournament ring. Sixiang could feel them through their thoughts, eager and bloodthirsty. They were coming under the earth in burrowing roots. Gan Guangli didn’t seem to have detected them yet.
+
+She felt the qi on the mountaintop shift, a haziness in the air, and a beautiful song on the wind, a restful song, a playful song. She saw soldiers falter, and blows begin to slip through their guard.
+
+Gan Guangli’s fist, his real one, snapped out and struck the air. There was an immense crack, and for an instant, Ling Qi saw spiderwebbing cracks around Gan Guangli’s fist, spreading through empty air, leaking spiritual power into the material world. The song transformed into a garbled screech of random sound, the haze dispersed like mist in a hurricane.
+
+<Yeah, you know that’s how you interact with a song. Just punch the melody till it stops sounding, right?> Sixiang grumbled with dissatisfaction.
+
+And the moment he did, Ling Qi felt wood qi surge under the mountain. Brilliant green lances erupted under his subordinates, thick spires of plant flesh that unfurled as they reached air, opening into sticky fanged maws that snapped shut around nearly half of his followers. Only the spearman struck back, tearing apart the stalk of his attacker in a spray of stinking sap. The spires immediately began to retract, dragging their captives down into the earth. The other disciples who remained, surged forward to take advantage.
+
+For the first time in the match, Gan Guangli let out a familiar bellow as he knelt and punched the ground beneath him. Three golden hands slammed down into the rock as well, and the plateau shook. A moment later, blazing golden radiance showed through the cracks in the stone, and a tremendous golden hand erupted from the earth, dragging with it a mass of green flesh, spasming roots and tendrils.
+
+The hand squeezed, and the knot of flesh at its core split apart like a rotten melon, spilling out two figures. One was a young woman with tanned skin and dark red hair, ringing bells attached to every loose edge of her flowing dress. The other was a lithe young man in formfitting armor of beast hide with pale green bracers of living wood and plant life on his wrists.
+
+From now limp jaws, his followers tore themselves free, plummeting back to earth to join their fellows. Below, Gan Guangli, grown to over four meters in height, leapt upward with an earthshaking boom, golden hands arrayed into fists. Two crossed in front of him, catching a stream of smoking poisonously green liquid. Two clasped in prayer, the ringing of a temple gong dispelling the creeping illusions Ling Qi could feel forming in the air. Two more golden hands and two fists of flesh struck the plant-wielding young man all across his body.
+
+Within two seconds, Ling Qi had lost count of the punches thrown. Within three, Gan Guangli and the westerner had struck the earth in a plume of rockdust, and the sounds of striking fists did not stop.
+
+“Good show,” Xia Anxi said, amused. “It might be a bit crude, but I can appreciate some simple flexing.”
+
+“It is good that he did not allow them even a small victory,” Meizhen said primly. “Trash should remain where it belongs.”
+
+Lower on the mountain, Gan Guangli’s followers had reduced their odds to more even ones, and as sunlight bloomed again, stiffening spines and putting weight behind their blows, it became clear that if the other disciples had an opportunity to bring them down, it had passed. And when they finished and joined their commander, the girl from the western territories had no chance.
+
+“Well, it seems your fellow has overcome his bout of misfortune,” Xia Anxi said, leaning back in his seat.
+
+“I can’t judge his abilities fully from this scenario, but it does seem he knows his followers well,” Lao Keung concluded. Down below in the tournament field, Gan Guangli was speaking and gesticulating to his followers on the broken mountainside. One by one, the second realms bowed and made their forfeits. “They do not resent him at all.”
+
+“He is their better.” Xia Anxi shrugged.
+
+Lao Keung grunted.
+
+“He is heavily involved with their drilling,” Ling Qi elaborated. “He has improved a lot at discerning value.”
+
+Like Zhengui, Gan Guangli had something she lacked. She sincerely hoped that he succeeded in the Duchess’ test. Cai Renxiang needed more than she had to give if she was going to achieve her goals.
+
+Her liege gave no outward sign of her true feelings as she chatted with the ambassador about the matches, but Ling Qi knew that seeing this first hurdle overcome so completely had to be a balm on her mind.
+
+Soon, the matches were over, and only the winners remained. In the first ring, Gan Guangli and Gun Jun, the spearman, stood. Given his friendliness with Gan Guangli, she took a moment to scrutinize his face and remember his name.
+
+In her head, Sixiang snorted.
+
+In the second ring was a boy she didn’t know and Han Jian, her… probably friend from last year. Although with how long it had been, she didn’t know if the word still applied. The third ring held Xiao Fen and an older green realm whose name she didn’t recall, and the last held the muscular girl and another green she didn’t know.
+
+The first round of the preliminaries was completed.

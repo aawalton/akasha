@@ -1,0 +1,139 @@
+---
+id: ce06e97b-c62a-5b2c-a948-4d7fdbc1b312
+page-type-slug: story-chapter-royal-road
+title: "Threads 436-Green 5"
+slug: 0480-threads-436-green-5
+partOf: forge-of-destiny
+position: 480
+ownLength: 1957
+unit: words
+publishedAt: 2025-03-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2133662/threads-436-green-5"
+royalRoadId: "2133662"
+---
+
+"We Liiiived long, so long Horizon Blade learned to wield a sword as a writing stick and elder’s cudgel, no matter how it made his hands bleed. Master learned denied acts, weaving, carving, smithing. Soothed, wrapped his wounds. Day by day. Good days. Cold and sick with biting wind and wan sun. But. Good. Good. Good enOugH."
+
+The repetition was clearly as much for her as them by this point, Ling Qi realized. It was a balm and a talisman against the black rage and hopeless spite which welled up from the beast's verdant core like an ill suppressed blight surging through her veins.
+
+"But war comes, conflict comes, ruin comes. Master put out their own eyes, and so did not see. Horizon Blade had grown dull and crusted with ink. He fought. So many children/students/disciples. So. So. So MAny. Should have left them to storm wind and bOLt, and gone back to sea and sUN."
+
+"But Master, Atamai, would not think such ," Kohatu said lowly. "... No. Kohatu-who-was would not think this. Cloud men came, and war tribe gathered. Dream men ignored the cloud men, gathered no host. Disciples Argent did instead. Joined. Fought. With spear and claw and fire and blade. Fought Fought. When Horizon Blade's student stood, we fOUght. When his curseblooded bride dug the cruel ritual from her ruined mountain, mASter carved out half their heart with the others. Forged their geas in blood and soul, an oath unbreaking to the cause of one hundred and eight and the young storm. Broken bodies, broken souls, so no StrENGth would be lost while one yet fought. Companions, oathsworn."
+
+Ling Qi swallowed. These were dangerous secrets. It was known that under the decadent rule of the Hui, it was Yuan He and his companions who had rallied the broken lands of the south against Ogodei and who had taken in the remnants of the cities hurled into the sky, scoured from the earth or dashed against the uncaring mountainsides.
+
+She had seen the memory of a vast funnel of wind ripping a city full of people out of the earth. Against that backdrop, she understood why the elders of the Argent Peak Sect had no patience for mercy. When that terror had still been hanging overhead, she could see how one might turn to even more forbidden means. And what was being alluded to here, rambled on in Kohatu's broken tones, was certainly that.
+
+"No… Later. Later. When the hopeful sky was crushed, when the reprisals ended, when the clouds came again, and when Master had groWn feeble, they came. Descendants. MaSter’s students, companIOns, oathbearers. Without word, without warning, my master was betrayed and bUTCHerED! I was broken, and Atamai chained!"
+
+Zhengui had already rocketed upward this time, feeling the tremors as she did. Kohatu's limbs thrashed, broken talons digging furrows in the dusty firmament, and lashing tail bringing down the entire vast cliffside of the canyon she had made in the ruined city.
+
+She couldn't comprehend a reason for the elders to do this. Maybe she had misjudged Sect Head Yuan, Elder Ying, and all the rest, but even if Kohatu's master had their ruse discovered, would those people really betray someone they had fought beside like that? Be utterly merciless to the cloud tribes, but this story didn't feel right. This was not a thought she dared voice before the enraged Kohatu.
+
+"Butchers and oathbreakers, ARRRRRGENT!!!!"
+
+Ling Qi grimaced. A few months ago, that yell might have blown out her ears or worse, but she had grown more resilient in many ways. The raging arguments of sovereigns had a way of strengthening a survivor's resilience.
+
+"Kohatu!" Zhengui called out. "Green Caller! Remember Zhengui of your roots and Atamai's fires. There is still much to say!"
+
+Kohatu's thrashing limbs slowed, her scaly chest pumping like a bellows. Smoke and dust rose, kept at bay only by the whirling wind Ling Qi summoned with her will, preventing the layered city from drowning them in choking ignorance and apathy.
+
+"I do not knoW why. I do not understANd, but I feEl it. TheY want to fORget. I wiLL not be forgoTTen. ATaMai will NoT be ForGottEn. Master SwoRdsOng wiLl not be forgottEn! Never forgoTTen. I will gnaw at the rooTs of their drEams until the eNd of tImE!"
+
+Kohatu’s eyes bored into her.
+
+"And. You. You, who the scent of Argent clings too. Who claims kin. Who my chiLd trusTs so. Who says what treachery will grow? When you will. Need. reagents. When he becomes. Obstacle to PoWer. Green child, flame child, son of ruin and renewal, do not. Do nOT ever trust blood of dRaGoN. Watch. WaTch. WATCH!"
+
+Ling Qi's hair felt like it might tear from her scalp in the wash of that last scream, but her scowl didn't waver, and nor did her seating. Those words made the core of frozen cold and lightless dark in her dantian churn, outraged despite the difference in power on display.
+
+"I would never use nor harvest him!" she spat. "I am sorry for your betrayal, but you overstep. Who do you think brought him here in the first place?”
+
+"Kohatu," Gui said uncertainly.
+
+"ArgGGGenNt say pretty words. MeaninGless lies,” Kohatu hissed. only Horizon Blade true, the rest. Student. Brother. Sister. Disciple. Friend. MeaninGless lies," Kohatu hissed. "My mind does not folloW such ploYs. Child. Zhengui. You should leave this."
+
+Ling Qi's fingers cracked the rest of her train with her grip, and she was on her feet a moment later, standing before the wind of the titan lizards breath. "You so easily call him your child, and your core may have made him, but I am the one who kept and cared for him and I am the one who brought him here. Do you not think I could have had wealth a thousand times over if I wanted, if I were so low a person?!"
+
+Sometimes, in her darker dreams, she wondered how she could have afforded her little brother’s appetite without the patronage of the Cai, but never once had she thought of selling him.
+
+"I brought him here to speak and learn, but I will not take such insults. My brother is mine."
+
+"Big Sister," Zhen protested. "Please wait!"
+
+"You protest too much, ArgGent. But I See. You hOlD back. There is a LIE in your voice."
+
+"STOP!" her little brother yelled, an earthy rumble that erupted as if from something far larger than his current frame.
+
+The two of them fell silent.
+
+"Gui understands how deeply Kohatu feels betrayed, but Gui will not distance himself from Big Sister."
+
+"I, Zhen will not live with such suspicion corrupting my heart," Zhen hissed. "Big Sister should not be angry so quick, either. It is strange of you. Why?"
+
+Ling Qi grimaced. "... Her accusations and choice of words frayed my temper. I have no excuse."
+
+Kohatu let out a low, rattling growl, looking up at them where they soared above her head.
+
+"Say it, ArgeNt. Say it in a clear voice. What is my child to you.? Kohatu’s voice was cold and more grounded than her voice had been at any point in the conversation so far.
+
+Ling Qi felt her eyebrow twitch. That word again.
+
+"He is my child, whatever his origins or secrets and whatever his choices," Ling Qi snapped. "I have been there since the day he cracked his shell, kept him fed and in safety when he was weak, and cared for him and helped him cultivate day by day." She took a shuddering breath. "Your absence is not your fault, and I am deeply sorry for it. But I will not take such accusations to my face without complaint, no matter how mighty you be. So I call him my brother for comfort? I'm barely even a grown woman. Don't tell me I am lying just because of that!"
+
+"Gui has always known what you meant. Kohatu is wrong. Gui is glad to learn where his green comes from, and Gui is glad to know Kohatu, but Sister—Mother—is alive and with Zhengui. I will not hear these mean things you say."
+
+"It was not Horizon Blade who turned on your Master Swordsong," Ling Qi said. "And you…"
+
+"Are. Dead," Kohatu said.
+
+The words hung in the air, dull and uncompromising.
+
+"Yes," Ling Qi acknowledged. "I do not need to lie to you, either. I brought my Zhengui here to better know his origin, so that he might connect with and learn what I cannot give him. Just the same, you cannot give him what I do. Even you know that you are only a ghost of spite, clinging on to haunt those who betrayed you."
+
+Zhen's head hung. "It is true. I, Zhen, would like to talk for a long time, but I cannot stay here. Kohatu knows this. I have told you of my home. Miss Snowblossom is waiting, my humans are waiting, and Grandmother and littlest sister and Hanyi will be waiting."
+
+"Gui thinks there is no conflict in this. Gui is your child, too, but Gui’s mother is Big Sister. Gui is very sorry that he could not know Kohatu-who-lived."
+
+"And I, Zhen, would still speak with Atamai-who-is."
+
+Ling Qi's shoulders tensed. That, she did not know how to arrange, or even if she could.
+
+Kohatu's eyes dimmed, cloudy cataracts spreading in black. Ling Qi winced as she felt the burning core of green which labored under the caking dust of this place shrink.
+
+"It. is. TrUe. I am a shade. I am. Kohatu's hate. I. remember. Good things. Only to sharpen pain. ResoLVe. To pErsisT.”
+
+PerSiSt.
+
+PERSIST.
+
+The word echoed in the liminal, a mantra repeated for centuries, and the core of what this beast had been.
+
+"I am. MistaKen. I must be mistakEn. I caN only truSt my child’S judgment." Kohatu's voice was a miserable rumble, sinking low enough to be barely audible, more vibration than sound. "YeS. I coUld only hUrt."
+
+Ling Qi lowered her head as the frantic energy which the old shade had spoken with fading to melancholy.
+
+"Zhengui cannot stay, but he is glad he came. He is glad to meet Kohatu. To hear of Islands under ruin and the Everstorm. To listen to Kohatu's thoughts on the Green, and of life persisting. These words will help Zhengui grow, help him find and seek, help him become more. For this, the young king is thankful to the one who gave his shell form."
+
+It was strange, Zhengui was not one for long speeches, even Zhen in his way was more direct and short spoken, but it seemed that, with everything, he had many things to say.
+
+A pulse of energy rippled under graying verdant scales.
+
+"It. Has. Been. Good. Good. Remembering with liTTle rage. Good thinking of a future. A dream, within a dream."
+
+"For what it is worth, hear these words and hold them. The one who entrusted me with this treasure was the one you call Atamai. I will not break that trust either," Ling Qi vowed.
+
+Kohatu's gaze pressed down on her, and the shade let out a rattling breath. "Clever. Atamai. Yes. I did. Not listen.Master. Did not listen. This time. I. Should."
+
+Eyes drifted shut.
+
+"Human. Not-ArggGent."
+
+Those eyes snapped open, a slice of sizzling emerald green cutting through their blackness
+
+"Fragile. Too fragile. I sEe the fires still scorching. You. Were. almost. Burned away. Where would. That. treasure. Be then?"
+
+Ling Qi tilted her chin up. "I did, and I do not regret it. I cannot live my life as if I were glass."
+
+Kohatu's snort tore at her hair. "No. Fool hUman. Do not live like glass. Be better. Be tougher."
+
+[PERSIST]

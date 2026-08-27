@@ -1,0 +1,139 @@
+---
+id: 136b2649-8d05-5c96-b839-78e3b3ff09d3
+page-type-slug: story-chapter-royal-road
+title: "Threads 234-Thunder 5"
+slug: 0272-threads-234-thunder-5
+partOf: forge-of-destiny
+position: 272
+ownLength: 2188
+unit: words
+publishedAt: 2022-08-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/961510/threads-234-thunder-5"
+royalRoadId: "961510"
+---
+
+“That cocky ass!” Yu Nuan reacted an instant after Ling Qi. Qiu let out a booming bark as she swung back onto his back and took off after the pair of spirit brothers.
+
+<Not even a thought for the easy way,> Sixiang thought.
+
+Of course, Ling Qi thought back. This was a game after all. The easy way would be boring. She grasped the wind and flew like an arrow shot from a bow.
+
+The two spirits had a lead on them, and already, they were barely a receding dot in the mist, trailing a cloud of stray pages and toppling shelves in their wake. But neither Ling Qi nor Yu Nuan were slow. A heavy slam sounded as the sealed shelf fell over behind them, the sound barely catching up to Ling Qi’s ears as she bent the air to clear her path.
+
+Yu Nuan bounded behind, Qiu dashing through the air almost as fast as Ling Qi herself. They erupted from the library in a churning whirlwind, leaving behind chaos and the indignant squawk of the library keeper carrying after them. Ling Qi banked hard, spiraling down the corridor after the thieving brothers.
+
+On the wall beside her, Yu Nuan’s hand struck down across the strings of her lute in a spray of electrical sparks, and the air distorted under a shockwave of raw noise, rushing down the hall, filling the entire passage with its cacophony.
+
+The lightning winged brother, trailing behind with the glittering snare and scroll in his hand, jerked in midair, briefly slowing down. That was enough for Ling Qi to close, halving the distance between. A low, melancholy strand of notes peeled out, and black metal flashed as her domain weapon emerged, spilling mist and fog down the passage like an onrushing flood.
+
+There was a screech of alarm as it engulfed the rearmost brother, and the other spun around, two rustling fans made of long pure white feathers in his hands. He swept them down in a crossed arc, and a gale roared down the passage. Ling Qi went tumbling from the force, but her mist did not.
+
+In the twisted, open air labyrinth of her domain, the clash was on. Qiu’s loud bay rocked the passage, echoing and echoing until it seemed a whole pack of hounds were circling their prey, eyes like glinting sparks in Ling Qi’s mist. A useful combo, Ling Qi thought, if she could control her phantoms better.
+
+Yun Long, the spirit with the scroll in the snare, spun to face her, electric wings snapping and hissing in the dense mist and threw out his free hand. The mist around him thickened as he wrenched a part free of her by its moisture, and Ling Qi found herself assailed by a storm of horizontally falling rain, each droplet striking with great force. Ling Qi fell back at first, driven by the relentless water pressure but then, with intent.
+
+Yu Nuan bounded in on Qiu’s back, already strumming a meter tense and angry, backed by the basso baying of the phantom hounds in the mist.The bolt of lightning that swept down struck Yun Sho, the fan-wielding spirit head-on as he spun, summoning up a whirling miniature tornado with himself in the center to catch the bulk of it.
+
+Chaos.
+
+Mist and wind and lightning churned in the halls of the thunder palace. Ling Qi ghosted close, and Yun Long scattered into sparks, a dozen blinking afterimages in the mist. Yu Nuan played a harsh chord, forging bars and chains of fire and lightning. Yun Sho dissolved into moisture and fled. Thunder crashed, lightning struck, and laughter rang out.
+
+Wind grasped at the edges of the wriggling parchment clasped in the snare, and the spirit holding it laughed aloud, the beat of his electric wings creating shockwaves of disorienting thunder. Ling Qi turned her wild tumble into a graceful swoop midair, coming back around for another pass.
+
+She saw Yun Long grin at her as he twisted his hand and sent the prize, snare and all, somewhere else, vanishing from sight. She felt his brother, Yun Sho, gathering qi and the growing distortion in her mist as he grappled with Yu Nuan and Qiu, weathering the lashing tongues of flame from the inhumanely rapid solo that emerged from the lute in her hands.
+
+Ling Qi’s eyes narrowed. She recognized an escape about to happen. Maybe she could stop it, but…
+
+Why not take a gamble?
+
+Her eyes flashed silver. Ling Qi felt the flows of qi through her own mist, saw the shape of Sixiang’s grasping “hands,” and the rigid razor-thin circles of qi pulsing outward from Yu Nuan’s lute. She saw the gathering energy of Yun Sho, like a wedge, building toward a horizontal thermal which would drive her mist apart and carry them away.
+
+But most importantly, she saw the glowing knot of spatial and dream qi gathered around. She’d already done it partially once. Why not give it a try for real and Open the Vault?
+
+The wind started to scream, her mist being channeled away in a narrow passage, and Ling Qi reached out a hand. Her fingers peeled away, and her hand dissolved into smoke and shadow and wind and mischievous dreams. The brothers laughed as they began to be carried away. And Ling Qi reached out not into the realm of dreams, but between the physical and the spiritual, and felt her fingers brush over a jumble of items.
+
+And then the brothers were gone, just an echo on the wind.
+
+Yu Nuan cursed, her hair and sleeves dangling awkwardly where she grasped onto Qiu, while the hound stood panting on the ceiling. “Ugh, hold on a sec. I managed to knock some feathers loose. We can track them and—”
+
+“We don’t need to.” Ling Qi drifted back to the center of the hall, her mist dispersing.
+
+“I don’t think we’re getting back into the library.” Yu Nuan gave her a surprised look.
+
+“We don’t need to do that either.” Ling Qi shook her head. With a wave of her hand, she revealed a struggling scroll and a snare of diamond thread.
+
+“Oh, Moons, that guy’s gonna be embarrassed.” Sixiang snickered.
+
+“I saw him dismiss it though,” Yu Nuan said, bewildered as Qiu leapt down, righting her in midair with a happy bark. “When did you…?”
+
+Ling Qi allowed herself a swell of pride as the girl’s eyebrows rose in realization. “I did say these games were good practice.”
+
+“Congrats then,” Yu Nuan said. “Did you grab just that or…?” She trailed off, perhaps not wanting to imply that Ling Qi would shamelessly steal more than what was hers.
+
+“Naturally, I snatched everything I could in the moment I had.”
+
+It wasn't a lot, just a bunch of odds and ends, leaves and twigs and stones with varying levels of qi. Reagents, perhaps.
+
+“Anything like a hollow tube of rough stone full of really pure water?” Yu Nuan asked, leaning forward.
+
+Ling Qi’s eyes flicked to the side as she sorted through the items.
+
+“Yeah, I see something like that,” Sixiang said. “Oh, wait!”
+
+“That’s our dragon breath,” Yu Nuan said confidently. “The lightning on the peak makes those rock formations, and then they fill up with water. The lightning qi in the stone forms a cage and keeps the rainwater’s qi pure and untainted.”
+
+“That’s another one down then,” Ling Qi said. “Now, let's get out of here before they notice they’ve been counter-robbed.”
+
+***
+
+The fourth item had taken a little while to puzzle out as they dodged the other hunter teams and clashed again twice with the lord’s sons, but they had figured it out in the end. Flowers. Ling Qi had learned from observing Zhengui and his cultivation that plants subsisted on earth and water qi drawn through their roots and sun qi drawn through leaves and petals.
+
+Thus, they had gone on the hunt for the brightest, yellowest flower they could find on the mountain. The state of the garden afterwards was, well…
+
+Best not to worry too much about it. The games had been proposed by the lord and lady of the palace.
+
+The last item had stumped them until they had arrived back at the great hall, at which point it swiftly became obvious.
+
+The Lady Dianmu was very amused by the game.
+
+Now, Ling Qi hung back amidst the somewhat tired but still raucous crowd in the great hall, letting Yu Nuan speak for them in accepting the rewards for their first place showing. This was, after all, her event.
+
+Watching Yu Nuan nervously speaking with the fourth realm spirit did make her nostalgic though. Yu Nuan had asked for lessons, an art, a song, whatever it might turn out to be. Ling Qi missed Zeqing. She missed sitting on the high, cold mountaintops, learning from a teacher eager for a student.
+
+“Well, you can’t replace someone who has gone away,” Sixiang said. “But hey, I’m fun to learn from, aren’t I?”
+
+“Mature wisdom’s not really your thing.” Ling Qi chuckled.
+
+“Auntie botherer, that’s what you are,” Sixiang joked, giving her the sensation of fingers poking into her sides.
+
+Ling Qi glanced to the side then, sensing attention on her. There, working through the crowd of spirits, was Yun Long. He fell against the wall beside her arms crossed. “That was a nasty trick.”
+
+“Want to make something of it?” Ling Qi asked, tilting her head.
+
+“I never said it wasn’t a good trick,” the spirit clarified, the clouds under his glassy skin white and calm. “You’re one of the ones going south, yes? And you are that one’s lord?”
+
+“I am,” Ling Qi said. “And I will be taking her into my clan.”
+
+“Good enough. It’s about time I left my father’s court,” Yun Long said. Standing up straight, he nodded toward Yu Nuan. “I’m going to follow that one for a while if you’ll give permission.”
+
+“It’s her choice,” Ling Qi said with a shrug.
+
+She gave the spirit a nod as he moved away to find Yu Nuan. With the presentation ending, she allowed herself to get pulled into the revel, playing a tune for clapping bird men and stamping ogres.
+
+It was a good time. A fun time. She felt a little rejuvenated, and just in time because on the morrow, she had more serious business to attend to. Cai Renxiang had finalized their claim of first pick on a region of the newly conquered lands in the south, and they had prospecting to oversee. Though many patches had been available, Cai Renxiang, Gan Guangli, and she had eventually settled on a region with a river and caves.
+
+***
+
+From high above, it seemed like a ribbon of blue silk with fraying threads winding amongst the mountains and hills. The as yet unnamed river flowed down from the sky-piercing rampart of peaks at the south of their claim, wending north and down until it joined the river systems of the greater Emerald Seas. It was a rough river, full of rapids and thundering falls. It plunged through canyons at a breakneck current, but here and there, it slithered slowly between rounded hills, and in many places, its tributaries would disappear for kilometers beneath the earth, only to come bubbling back up in geysers of heat and steam.
+
+Under the falling curtain of winter, the land it flowed through was painted gray and white. Dense pine groves clustered at the river’s edges, growing thicker toward the south and petering out into a flatter vale in the north.
+
+The high cliffs and round little hills were home to wild goats in great breed and number, their herds checked only by the many wolves, bears, and mountain cats. Larger beasts, elk and massively antlered and muscular beasts she had seen the White Sky use, wandered the southernmost lands on the stretches of flat taiga that lay between immense peaks.
+
+The wind whipped through Ling Qi’s hair as she came down to land at the meeting point where the main course of the river flowed into an immense cavern in the side of a mountain and on the other side, emerged to thunder down some two hundred meters into a great lake below before flowing on. Ice floes gathered on the river surface at the top, but below, the churning waters were clear and a bit warmer than the rest. Trees grew in great abundance there on the lake shore.
+
+<Water eats the mountain and makes it earth. Fire feeds the earth and makes it grow,> Gui thought. <Mm, this is a good place too!>
+
+Ling Qi nodded absently as she landed beside Cai Renxiang and Gan Guangli. This place, she still wasn’t entirely sure of it. She had preferred the valleys in the east where the river flowed much more calmly, winding through the densely wooded cleft between mountains that lay like a single strike of a great spirit’s ax through the mountainside, to this more chaotic river.
+
+But she had not been the only one making the decision for their fiefs’ location.

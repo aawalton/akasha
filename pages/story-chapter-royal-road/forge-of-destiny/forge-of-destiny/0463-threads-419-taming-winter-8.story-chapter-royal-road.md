@@ -1,0 +1,117 @@
+---
+id: 9b1775ad-0a5b-51c2-81be-bad4e9f40bb7
+page-type-slug: story-chapter-royal-road
+title: "Threads 419-Taming Winter 8"
+slug: 0463-threads-419-taming-winter-8
+partOf: forge-of-destiny
+position: 463
+ownLength: 1890
+unit: words
+publishedAt: 2024-12-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1960379/threads-419-taming-winter-8"
+royalRoadId: "1960379"
+---
+
+The very first steps were cloying and slow. It felt like walking face first into a pool of mud. The darkness of the stairwell did not just cling, it dragged and it pulled and it suffocated, threatening to choke and flood her lungs. It was cold in a way that transcended anything physical, a want so dense it had congealed into something near solid.
+
+But it was not directed at them. It was not a hunger for light and warmth, seeking to devour the spark of their lives. It was a yearning for something much further away than that, and so, although it was difficult, Ling Qi was able to put one foot in front of the other and advance. She could feel Hanyi doing the same, her shoulders hunched, and through her, she could get a sense of Bao Qian's qi.
+
+His art was of gold. Gold was something near worthless to cultivators, save for its neutrality and inability to hold qi. Neither the cloying cold nor the sobbing underlying it could reach him, she thought. He was closed off to it, inviolate and numb under the mantle of his art. It was not a technique she would have expected from someone so gregarious.
+
+But then, he was almost always smiling a professional’s smile rather than his own.
+
+Through the murk, they descended, step by step, and as they did, the low susurrus of sound beneath the darkness grew in volume. It was an unending weeping, the ugly, wet, wracking sobs of a person in the depths of grief. The sound bounced and echoed in the dark, a distorted cacophony of melancholy echoes that seeped into her mind and threatened to sand away everything that was bright in her by mere proximity. The lack of intent in its effect was the only thing which made the sound bearable.
+
+She squeezed Hanyi's hand tightly.
+
+They emerged from the stairs in pitch blackness. As they took that final step, the gloom parted. The reflective ice of the floor was as much a gray monotone as the pillars of ice which surrounded the surprisingly small cavern chamber, just a few meters across. The sobs were much louder here and mingled with the burbling of the cavern spring which took up the center of the chamber and the figure which hunched over atop it.
+
+White robes, as pure as the fresh driven snow but rumpled and unkempt, hung low around near skeletal shoulders. The figure’s hands clutched the edge of the pool, pallid skin fading into black frostbitten talons as sharp as razors. Matted, long black hair tumbled down past a hidden face to float atop the spring waters. The figure’s head tilted toward them, revealing a single, red-rimmed white eye. A black tear trail ran down a sunken gray cheek.
+
+[ABANDONMENT]
+
+This was she who could never be content. Her expectations flogged them all, kin and friend and acquaintance. And so, she became she who would be alone. Alone alone. Alone. Alone. Alone alone alone alone alone alone alone alone ALoNE aLONe ALOnE.
+
+Ling Qi reeled backwards. It was as if the very walls were rushing away, fleeing the spirit’s repulsive presence. It was pulling on her in every direction, and her arms felt as if they would be wrenched out of their sockets, but the hand in hers remained, as did the steady pulse of the lodestone rings. Ling Qi's foot slid a single step back and stopped.
+
+The spirit's avatar rose from the side of the spring, limbs unfolding like that of a human spider, too long, too gaunt. Shoulders shaking, the spirit’s tears continued to pour into the pool of bubbling black waters.
+
+The Weeping Mother of Lonesome Streams cried.
+
+All children leave home. The ice recedes. She is abandoned. The waters flow away. She is abandoned. The winds take her children. She is abandoned.
+
+Mother is always forgotten. They flee. They flee. They flee. Ever eager to leave her. Ever eager to leave you. Little winter, little cold, motherhood is loss. From you, too, they will flee, flee, flee.
+
+Abandoned. Empty. Alone.
+
+LIng Q’s eyes flickered to Hanyi. Her junior sister looked like she was about to cry. She understood implicitly that Hanyi's mind did not translate the raw pressure and concept of the spirit as she did. Instead, Hanyi was almost certainly experiencing it as an accusation, as Ling Qi might have done a few years ago. The spirit had not even truly spoken yet.
+
+Ling Qi clasped her single free hand to her chest and bowed her head. "Spirit of the frozen peak and the lonely glacier, we offer our respect."
+
+"You're wrong. I go back to Mama whenever I can, and she told me not to stay," Hanyi whispered.
+
+Ling Qi squeezed her sister’s hand. She needed Hanyi to remain calm. While she was sure now that there would be no easy resolution with the spirit, the three of them… Were there supposed to be three of them? Where did that idea come from? She shook it off as dissonance from the spirit.
+
+Hanyi shook her head violently. "Nuh uh. I don't care how big you are. You don't get to say that to me, just because your daughters are jerks! I didn't tell anyone they couldn't come back to see their Mama!"
+
+The weeping spirit craned her neck forward. Something moved under the hair, a ripple through the strands, blowing out, and Ling Qi caught a glimpse of a distended jaw and fangs of black ice in frozen blue gums. The spirit wailed, and her frozen breath battered Ling Qi, chapping her lips and spreading frost through her hair.
+
+Little ice, little ice, twinkling bright 'neath distant stars and over far off vales. Excuse, excuse, the hearth is cold. The shutters are dark. . Daughters far, daughters free, scattered, scattered, yet a mother's heart weeps. All things go. All winters end. Flow, flow, little tears, little springs, far away and gone.
+
+And still we weep. And still we weep. And still you weep.
+
+You weep. You weep. Sister, mother, husband, brother, father, friend, comrade, child disappear. It all disappears. Winter takes it, takes it, takes it all, one by one plucked from eaves and beds and arms. Who dares bar the toll, dares whisper price else but what is taken.
+
+Ling Qi stepped forward, drawing her qi around herself as she had done at the mountain’s base. The star of authority bloomed on her brow, her mantle deepening to glittering black, a field of stars on a clear winter day.
+
+She met the spirit’s eye without flinching as Hanyi shook beside her. "I am a singer of snows and a guardian of my kin and the people of Shenglu and Snowblossom alike. I am Ling Qi, retainer to the Cai, who speaks for the Throne of Seasons, and I dare."
+
+The world tried to tear it all away from her. It struggled to rip Hanyi out of her grasp. It nipped at her memories of warmth. It tugged at her authority.
+
+Ling Qi let out a hissing breath. The formal rites were less familiar to her, but here and now, they had a power she could not refuse. "I invoke the Bountiful Earth, the Master of Turnings."
+
+The resulting wail made her ears bleed, wetness trickling down her neck. Even so, she scented wood smoke . She had not been wasting these past months researching spiritual rites. There was a reason she had come up here where the ice was at its coldest and most concentrated. It was only here, before the season’s authority, that such words held meaning.
+
+"I invoke Steel Words Binding, the Magistrate of Heaven."
+
+Fresh ink. The whisper of a brush over a page.
+
+The spirit's hair whipped about her head in fury.
+
+"I invoke the Celestial Dragon, the Spark of Civilization and the font of all authority."
+
+Sparks jumped between her teeth and stung her tongue.
+
+"I say again: I am Ling Qi, baroness of the Celestial Empire and steward of Shenglu and the Snowblossom Vale."
+
+A sullen predator watched her, the pressure pressing down on all sides, the grasping emptiness clawing at her spirit to hollow her out.
+
+"I would speak with you fairly. I do not deny your truth."
+
+The spirit hissed at her.
+
+All things pass and vanish. Fleeting authority shall slip your fingers and flow away. One mistake. One mistake.
+
+"All things disappear and go away. But not until their appointed times," Ling Qi replied. "And so, we shall strike a bargain of what is taken and what is not."
+
+In the black depths of the cavern, Ling Qi felt a true Law of Isolation press down on her and her own understanding of it.
+
+Ling Qi drew in on herself from the pressure, her free arm curling around her chest. Even her shadow was shrinking in on itself, the regal wraith she cast behind her flickering like a candle. She knew this truth too well, and the resonation of it with her domain made her thoughts fuzzy and sluggish.
+
+She couldn't call the Weeping Mother’s viewpoint wrong. Even with the authority she had gathered around herself, the spirit’s Law found purchase. Her words were ephemeral and would pass, as those of Shenglu and Snowblossom Vale would pass and as her household and family and friends would pass, one by one by one.
+
+It was so easy for a face to fade from memory. Names always did. How many had she forgotten already? How easy was it then to forget her in turn?
+
+A groan of strained stone and a squeal of stressed metal sounded in the cavern. The ink-like shadows of the cavern were pierced by a ray of molten gold.
+
+"I. Am. Not. Hollow!"
+
+Bao Qian’s face was ruddy and red. The skin of his hands had split open, and his fingertips were black with frost under the metallic gleam of his rings. His eyes were wild, darting around the room before fixing on the spirit. His free hand curled into a fist.
+
+His other hand had never let go of Hanyi's.
+
+"Blasted cold," he wheezed. "You think that I do not know my value comes from what I do, what I make, the coin and honor I bring in? I'll be forgotten, my name sanded out of history, my works, if I have any at all, appropriated by more ambitious men? Pah, I'll still have done those things!"
+
+Ling Qi grimaced as her vision wavered, the simple truth that had been pushed to the back of her mind surging forward. His ring had never gone anywhere. Bao Qian had been standing there the entire time.
+
+"As if I have not known all my life that my every breath is weighted, measured, and recorded for the metrics of success. As if I have not been told in more words that I'm not a silly, sentimental fool that the clan can afford to offload as an asset because I've not the right mindset for 'real' business. Good work, you wretch, you've broken my 'face.' Now what? Think I'll just give up and weep like a lonely child?” Bao Qian bared his teeth. “I'll bring this hole down on us both first! The price of a Bao's life is more than you can ever afford."

@@ -1,0 +1,111 @@
+---
+id: e04f66ee-4c90-5f31-a799-38b8a31c403a
+page-type-slug: story-chapter-royal-road
+title: "Threads 139-Concert 2"
+slug: 0167-threads-139-concert-2
+partOf: forge-of-destiny
+position: 167
+ownLength: 1497
+unit: words
+publishedAt: 2021-10-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/763209/threads-139-concert-2"
+royalRoadId: "763209"
+---
+
+Thankfully, it hadn’t come to that. Hanyi was pretty quick when she was trying, and Sixiang was naturally good at teaching. Ling Qi was looking forward to seeing the finalized performance tonight.
+
+<Ah, you’re too kind. Hanyi put in most of the work. I just had to poke her in the right direction,> Sixiang thought.
+
+<Nonetheless, you’re good at it,> Ling Qi thought back.
+
+The venue Bao Qian had secured was in a town a few hours to the north of the Sect. She had taken a carriage, separately from Bao Qian, of course. Bao Qian hadn’t been so bold as to suggest that she join him in his carriage unchaperoned.
+
+The performance hall lay in the center of the town past the innermost walls. The hall mostly hosted performances from journeyman musicians, common cultivators seeking patronage, and minor nobility seeking to make a name for themselves outside of their parents’ courts.
+
+The baron of this town was an eighth generation cultivator with an ear for the arts. Due to Bao Qian being friends with said baron’s son, he had pulled a string or two, calling in a favor to allow Hanyi to perform at the location.
+
+The hall itself was a brightly painted building that, including its surrounding grounds, took up half of a city block on its own. Brightly lit paper lanterns hung from the eaves, lighting the street as the sun continued to sink below the horizon. Its peaked roof rose three stories into the sky.
+
+Ling Qi stood inside, gazing out of a window on the second floor. Hanyi was in the room behind her, probably making trouble for the young ladies who had been assigned to help her get ready for the stage. Ling Qi didn’t particularly envy them. Zhengui was napping, and she didn’t plan to wake him up before the actual performance.
+
+The door at the end of the hall opened.
+
+“Sir Bao.” Ling Qi turned, offering a bow.
+
+Bao Qian was dressed in more formal robes today, colored in dark greens and earth tones, with only a glittering belt of jewels to show off his clan allegiance.
+
+She had opted to follow his lead. Her gown was black with the innermost layer a dark purple. The only ornaments were a few embroidered flower petals around the hems. Rather than a cloak, a gauzy, pale blue pibo scarf floated around her shoulders, supported by the wind. She’d even resigned herself to doing up her hair a little, showing off the silvery glint of her new ear studs.
+
+“Miss Ling,” he greeted back with a bow of his own. “How is our performer?”
+
+“Excited,” Ling Qi said absently, listening with half an ear to the sounds coming from the room. “Although she doesn’t much like applying cosmetics, it seems.”
+
+“Understandable.” Bao Qian stopped a few respectful paces away. “Still, I hope she has prepared well. We have a surprising number of guests.”
+
+Ling Qi knew Bai Meizhen and Bao Qingling were going to be here, and she had extended an invitation to Suyin and Renxiang too, even if both girls had turned out to be too busy to attend. She had even wheedled Wang Chao and a few others from the sparring gatherings into coming just to boost the event.
+
+“I am a little surprised we even managed to still have the event,” Ling Qi commented.
+
+“With the events in the south, you mean?” Bao Qian asked, leaning against the wall a few steps away from her. “People of the Empire cannot be so easily spooked.”
+
+Ling Qi noted the wryness in his tone. She knew what he actually meant. It was a matter of face. Everything was fine. It was handled. Just a little scuffle in the mountains. Yet, for all that, Ling Qi had not missed how many soldiers were on the walls of the town nor the new bolt and net throwers being installed on the towers. Even the hum of qi under the paving stones spoke of furious maintenance and readiness. Despite the face being put forward, Emerald Seas hadn’t forgotten the lessons from the last incursion.
+
+“And what do you think of news from the capital?” Ling Qi asked.
+
+“I think that it is good that our wise Duchess sought an end to conflict that would not harm our prosperity,” Bao Qian said formally. “Why, it’s almost as if she didn’t have to battle the barbarians under Xiangmen at all. Merely—how did she put it?—go for a stroll. Perhaps have a chat.”
+
+Ling Qi gave him a sharp look, noting the humming of qi in the air, sealing their conversation. “Yes, I was surprised. With what I saw under the earth, it did not seem like it should have been so easy, or at least, Xiangmen should have felt more of the Duchess’ wrath.”
+
+“Well,” Bao Qian said, “some people are more reasonable than others.”
+
+Ling Qi looked at him, and he met her gaze evenly. Bao Qian was being remarkably candid in so openly implying what he was. Cai Renxiang suspected that the Bao knew something, but…
+
+Perhaps they knew someone.
+
+It was a bitter pill to swallow, and it stirred memories of misty graves, stoking an ember of anger. However, could she really say anything given her own mission?
+
+“I certainly hope that you are right.”
+
+“I certainly hope I am as well,” Bao Qian said. “It can only take a few unreasonable people in the wrong places to ruin things for everyone.”
+
+“I will have to hope I can speak to... reasonable people then,” Ling Qi said.
+
+“Did you ever investigate that matter we spoke of regarding the Bao and the Luo?” Bao Qian asked.
+
+Ling Qi blinked at the change in subject. “I haven’t had much time,” she admitted. “It was some kind of land swap that went sour, right?”
+
+“Something like that. During the conflict with Ogodei, we sold them an iron mine and its surrounding infrastructure. The Luo needed it for armaments, and all we asked in return was a small payment and a swap of a defunct barony nearby. Of course, shortly thereafter, there was a fortuitous find in the swapped land. There was a vein of spirit stones deep in the earth in the defunct barony’s land, and as for the iron mine, well, without Bao techniques, the vein would swiftly go dry. Terrible, but we could provide service—for a fee.”
+
+The Bao had tricked the Luo, Ling Qi thought, although she wasn’t so rude as to say it. “How unfortunate.”
+
+Bao Qian nodded along. “Isn’t it? Seeking the Law of Wealth in such a destructive way is so very tempting, but the costs always outweigh it in the end, or so I believe, even if it is your descendants that pay them. Much better to be a reasonable man and accept a little less now for far more later.”
+
+It seemed the Bao had their own internal conflicts and buried skeletons. “I don’t disagree.”
+
+“That is enough philosophy though,” Bao Qian said cheerfully. “I wanted to speak with you about our guests.”
+
+“Oh?” Ling Qi asked. “Is there a problem?”
+
+“Not a problem per se,” Bao Qian said evasively. “Rather, do you know what Lady Meng Diu is doing here?”
+
+Ling Qi frowned. Who was that? It came to her a moment later, one face among many in that opulent court at Xiangmen. She had simply thought of her as ‘the Meng representative,’ although Cai Renxiang had drilled her on names. “Perhaps she is just here for the performance.”
+
+Bao Qian shot her a dubious look. “Ling Qi, below is an audience composed entirely of young men and women not beyond the third realm, drawn by our invitations and the novelty of the event, and in the rearmost seating, there is a fifth realm who is the younger sister of a sitting count.”
+
+Well, when he put it like that.
+
+Sixiang snorted in her head. <For what it’s worth, looking below, it seems like she’s deliberately avoiding spooking people. A lot of them haven’t even noticed who she is.>
+
+That was… probably good?
+
+“I’m not sure why she would be here,” Ling Qi said slowly. “She did seem to approve of my arguments at court, but…”
+
+Bao Qian nodded thoughtfully. “Regardless, as the hosts, we should be mingling with the guests.”
+
+Ling Qi grimaced. Of course. She had been quietly hoping Bao Qian would take care of that, and she could just chat with Meizhen until the performance started. Then after that, Hanyi would hopefully be the center of attention.
+
+“If you would like, I can speak with Meng Diu,” Bao Qian offered. “I do have more experience with such individuals.”“No, she’s likely here for me. I’ll meet her,” Ling Qi said.
+
+“As you wish,” Bao Qian said, stroking his chin. “I will put my time toward mingling with the guests who require less individual attention then.”
+
+“Yes, please.” Ling Qi hoped that this meeting went well.

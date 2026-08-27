@@ -1,0 +1,133 @@
+---
+id: 6176696b-559e-5791-a4f5-55317b23ba2d
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 401-Recovery 9"
+slug: 0445-threads-chapter-401-recovery-9
+partOf: forge-of-destiny
+position: 445
+ownLength: 2200
+unit: words
+publishedAt: 2024-09-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1810896/threads-chapter-401-recovery-9"
+royalRoadId: "1810896"
+---
+
+Ling Qi dipped her head in acknowledgment. "What are you thinking?" she asked Yu Nuan.
+
+"I have my Savage Storms Sonata. It would let someone get started on a path like mine. I've integrated it already, like I think you did with that mist art of yours. It calls the lightning and the thunder to your strings. Mostly for battering people around, but you can empower yourself a bit too. Or, I could gift the Lightning God's Ladder, my cultivation art. Lady Dianmu's showed me the higher class version, but the one I cultivated before also lets you use natural thunderstorms to cultivate. You don't want to get struck directly like a crazy person, at least not till you've completed the one I'm on now, but…"
+
+Ling Qi shifted in her seat, thinking of Gu Xiulan.
+
+"... it really let me get by on not as many stones. I'm sure that's not a problem for you…"
+
+"Being able to save on spirit stones is always a benefit," Ling Qi replied, considering.
+
+Of course, Yu Nuan could teach as she liked, but entering a person's art into the general clan archive was more of a commitment. It was essentially making it a part of the clan's overall identity, rather than something personal to Yu Nuan.
+
+"The cultivation art is more important to have in the general archive," Ling Qi decided. "I'm sure you'll find people you want to pass your music down to individually."
+
+Yu Nuan gave a firm nod. "Got it."
+
+"Although, if Biyu decides she wants to stab bits of metal through her nose and lips for power, I am referring Mother to you." Ling Qi laughed behind her hand.
+
+Yu Nuan's expression screwed up in a scowl, and Yun Long bit down on his own laughter when her glare turned on him, pointedly becoming very interested in the clouded gray sky.
+
+"Kid doesn't have the temperament for it. I kinda doubt she has the temperament for yours either," Yu Nuan shot back.
+
+Ling Qi's smile faded. "Obviously. There's no need to be so serious about the possibility. Mother might be put out, but I had to be lit on fire from my dantian out to get her truly angry with me."
+
+Yu Nuan snorted. "That’s ‘cause you're her actual daughter. She's always keeping me on my toes when I'm here."
+
+"Yu Nuan, are you saying you feel bullied by my first realm mother?"
+
+Hanyi desperately covered her mouth with her hands. Ling Qi shot her an unimpressed look, and she straightened up, looking innocent.
+
+"I didn't say that," Yu Nuan complained. "She just… I dunno… makes me feel weird. It's that disappointed look she makes when I try to blow something off, you know? It makes me feel like I’m the worst."
+
+"Ah, I can understand that," Ling Qi replied.
+
+That was probably worse than being shouted at. Mother was very reticent with her, still so reserved with her feelings. Her injury had cracked that shell, but still, she felt some envy for Yu Nuan.
+
+"Mother is not too different from me in some ways. She won't accept you simply being a business attachment. You'll just have to endure her efforts."
+
+"When you say it like that, you make me feel like I'm an asshole," Yu Nuan griped. "Guess you are kinda similar. Hey, Yun Long, not gonna support me here?"
+
+"No. I feel like I might be inviting my own Lady Mother’s wrath if I did. You know her eyes see very far and clear," he replied candidly.
+
+A borf from nearby interrupted the conversation.
+
+“Treat-giver should take pets and treats too!”
+
+"Even you, huh?" Yu Nuan asked sourly. "Fine. Suppose I should go get my fitting done."
+
+***
+
+There was no clear sky when the day of the ceremony came. The fading sunlight was masked behind a dense layer of clouds that hung heavy in the sky. The bellies of the clouds were black with thunder, and they poured down rain in sheets. Throughout White Cloud Town, streets were empty and windows bright, as all who had a choice chose to spend the day and night warm before their fires.
+
+But at their manor, things were a little different. Fires burned, bright and merry, collected in braziers set throughout the gardens, radiating warm, dry heat. A wide, dark blue pavilion had been set out over one side of the garden, and the great tables had been pulled out and lined with seats. Flower arrangements serving as the centerpiece of the tables had been placed to catch the light between the braziers.
+
+Between Yu Nuan, Yun Long, and Qiu, it wasn't difficult to maintain and arrange for the garden to remain dry throughout the ceremony. Only the faintest patter of rain fell at the edges of the garden as if the garden had been enclosed in glass. Rain that spattered on the air above the garden ran down to drip into the gutters that lined the garden walls. Ling Qi refused to let Mother’s hard work go to waste.
+
+As before, the tables were arranged with one horizontally placed at the head for her and her family and two others set out for the household, groaning with the dishes laid out. They had not hired chefs from outside this time, but Ling Qi had opened her coffers to purchase a great deal of ingredients and had added a bonus to the pay of their kitchen staff. It made sense to her to keep matters in-house for a ceremony like this.
+
+The difference from last time lay behind the family table. Over a section of the garden, Zhengui had grown roots from the earth, intertwining them in a light, raised stage. The flowers beneath were intact, but for tonight, at least, this would be a place of performance too.
+
+Her dress for tonight was black and trimmed with silver, the silk glittering with interwoven threads that made it glimmer like the night sky. She wore a dark blue shawl around her shoulders, and her bandaged hands were covered by thin evening gloves. She had put her hair up with help from Mother and woven it through a crescent moon ornament, placed to catch the light behind her head.
+
+Hanyi was at her side, looking quite the young miss in her matching gown, though her hair was instead woven through with glittering beads of dark polished jade.
+
+She had made sure Mother had treated herself just as well. The older woman's gown was exactly the same quality as hers, though Mother had gone for a more matte black look than her glittering starfield. Her hair had been washed in the same sort of tinctures Ling Qi used in the Outer Sect to add life and shine, and she wore a simple string of white gemstone beads like a circlet on her head.
+
+Ling Qi felt that they all looked very regal.
+
+…If only she was not still trapped in this blasted chair.
+
+<Hey, you can move your toes a bit now. You'll be up in no time,> Sixiang said brightly in her mind. <Looks like everyone is ready. Thanks for letting me in to coordinate. Just signal me, and I'll keep things rolling along.>
+
+Ling Qi tipped her head forward slightly, and Hanyi rolled her toward the front of the stage. "Welcome, all who serve the Ling clan. I call you here today for a great moment of the clan, for today, we welcome a new sister as kin! Inner disciple of the Argent Peak Sect, master musician, skirmisher captain of the army of the Argent Peak, the one who is called Yu Nuan of the Thunder Court!"
+
+It was a bit theatrical for a crackle of lightning to flash bright in the sky in time with the completion of her words, but she couldn't ignore the potency of the effect. To people already impressed by the small manipulation of the rain, it was very exciting. Among the adults of the household, more than personal thankfulness to her mother, there was also an undercurrent of pride in being part of something rising.
+
+To her credit, Yu Nuan managed to not look any more disgruntled than her resting expression suggested as she stepped onto the stage from the right. Her wild blue hair sparked with static, but true to her word, Mother had gotten the girl into a gown. It was dark blue with cloudy gray hems and lining, and Mother had evidently leaned into the metal affectations. Little bells were sewn into the wide sleeves and the lower hem, and silver bands clasped her upper arms and neck.
+
+"Head of the Ling clan, this humble supplicant thanks you for your praise." The girl's lips twitched, and to Ling Qi's eyes, Yu Nuan was tense and uncomfortable, but to everyone else, she just looked stony faced and fierce. "This Yu Nuan presents herself here tonight to gain entry into your honorable clan."
+
+"A request I am pleased to answer positively," Ling Qi replied imperiously. Hanyi turned her, and Yu Nuan approached, lowering herself into a bow. "You swear then to bring honor to my Ling clan, to be filial in all of your days, and to bring us success and great merits?"
+
+The whole formal speech was still tedious in her opinion, but she was well past grumbling about necessary social theater.
+
+"I do so swear to repay your kindness with duty and your welcome with meritorious deeds," Yu Nuan pledged. "So it shall be for myself and all of my descendants, who shall know no name but Ling."
+
+"Then let it be so." Ling Qi clapped her hands once, and the earth rumbled.
+
+She mentally thanked Zhengui for the effect. A part of the stage opened, coming apart, and roots crawled out, bearing on them a small but well painted cabinet, worked and etched with silver and painted blue and black.
+
+Ling Qingge, who had been silent until now, stepped forward, and pulled open the cabinet doors. Inside were velvet lined shelves and a small number of wooden tablets, each intricately carved with artistic patterns and a single name in bold characters extending from top to bottom.
+
+There were five such tablets, each bearing a name: Ling Qi, Ling Qingge, Ling Biyu, Ling Zhengui, and Ling Hanyi. One other had been added, its face yet blank.
+
+Ling Qi didn't know when her mother had commissioned a set of ancestral tablets, but she had been pleased to see them. There was something good and solid about them that left her qi feeling settled.
+
+A humbler, plainer tablet—bearing the name He Qingge—burned, taking a life up in smoke with it.
+
+She supposed Mother had her own reasons to be so focused on making their Ling family right.
+
+Mother took the blank tablet from the cabinet and presented it to Yu Nuan, who took it and looked down at the polished wood with an unreadable expression.
+
+"Carve, paint, and mark your name then, you who will be kin to us." Mother's voice was far quieter than hers, and Ling Qi signaled Sixiang to provide some amplification of the sound. "And I will place it alongside those to which it belongs."
+
+For a cultivator, it was not difficult to perform small acts of physical art, and Yu Nuan was prepared. She cradled the tablet in one arm and reached out to take the carving blade Mother had held out in the other hand. The scratch of metal on wood could not be heard over the rain and thunder, but curls of cut material accompanied by wood dust drifted to the stage.
+
+Ling Qi held her peace, as did everyone else, leaving only the cry of the wind and the patter of the rain and the occasional rumble of thunder to pass over the silent gathering. When wood chips ceased to fall, her mother, given Ling Qi's storage ring for the ceremony, produced a brush and inks and took back the carving knife.
+
+Soon, the other girl straightened up, though her head remained bowed. She held out a tablet with her new name, Ling Nuan, carved deep into the tablet. It was inked artfully in dark blue, framed with lighter carvings to match those on the other tablets, characters for good fortune and aesthetic lines, though Ling Nuan’s were more jagged like falling lightning.
+
+Mother accepted the tablet, making a show of looking over it and nodding with satisfaction. "I see before me a daughter of Ling, as true as blood. What say you, Honored Clan Head?"
+
+Ling Qi craned her neck as her mother turned toward her, doing her part to examine the tablet. "I, too, see before me a daughter of Ling, a sibling true and loyal. Place her among her kin."
+
+The tablet was set on the bottom row, beside Hanyi's. There was a great crack then, and a number of gasps and cries arose as lightning struck the dome of air over the garden before scattering in a thousand glittering trails down its sides.
+
+That had been well timed. She silently thanked Sixiang for handling the signaling to Yun Long.
+
+"Rise, Sister. Rise, Ling Nuan. Be welcome among your family."

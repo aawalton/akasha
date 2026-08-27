@@ -1,0 +1,121 @@
+---
+id: 8ff0c202-4b66-5a47-9ebe-371a7888c1d5
+page-type-slug: story-chapter-royal-road
+title: "Threads 303 Identity 8"
+slug: 0343-threads-303-identity-8
+partOf: forge-of-destiny
+position: 343
+ownLength: 1788
+unit: words
+publishedAt: 2023-05-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1202434/threads-303-identity-8"
+royalRoadId: "1202434"
+---
+
+It was impossible to know someone perfectly without being them. Shu Yue had asserted that. And on further thought, Ling Qi felt she understood that more clearly now. People hid or held thoughts back. They remained silent when they shouldn’t have. And that was the people she was closest to, let alone acquaintances and strangers.
+
+But the right solution wasn’t to cut everything off from herself and accept no strings at all. She was also sure of that. She could neither blindly trust nor could she rip the truth from other minds. Neither path was acceptable.
+
+She had to be able to seek. She had to be able to hide. Choosing whom she shared such treasures like her secrets with was necessary to the path she was beginning to see. Choice, that vital thing, was at the heart of her resolution. Her Communication. Mutuality was needed for the sharing of secrets. And when there were things that could not be shared, she needed to be able to keep them.
+
+She felt a stirring in the cool, dark qi that ran through her meridians with that realization. The Hidden Moon was not only a seeker of secrets. It was also their keeper. Like the Dreaming and the Nightmare, it, too, was divided against itself.
+
+And she was just as much its disciple as the Dreaming.
+
+This was not the time for pride or for stubbornness. As the antlered shadow loomed closer in the mist that was Sixiang, Ling Qi squeezed her eyes shut and called out for help in hiding something most precious.
+
+And she felt someone respond like a single, sleepy, languid eye cracking open in the darkness. It was familiar and unfamiliar. It was not Xin, but the being that had heard her was certainly a follower of the hidden moon.
+
+“I know he’s obligated to loom ominously and build tension, but I hope you have a plan,” Sixiang fretted.
+
+Ling Qi grasped his hand a little more tightly. She slowly opened her eyes, feeling the germination of an idea, just a tiny tidbit of knowledge. “Don’t I always have a plan?”
+
+“No, you definitely don’t,” Sixiang refuted, looking even more concerned.
+
+“I can only ask you to trust me.”
+
+“Now, that’s just unfair. But you know what? I think this’d be a fun thing to break.”
+
+“That’s the spirit.” With her free hand, Ling Qi grasped the cloth of her cloak and flung it out, and her shadow expanded a hundredfold to follow it, engulfing them both in lightless silence.
+
+“To flee, to hide, to avoid. It seems for all your bluster, naught has changed. You speak of choice and knowing, but only to deny what is. You choose delusion. Disappointing.”
+
+In shadow, as shadow, the voice of the nightmare reverberated through every particle of her being and through Sixiang’s being. Dissolved into her shadow, they were close now, as close as they had ever been outside.
+
+And in that moment, something clicked into place in Ling Qi’s mind. The stealing games with Huisheng. Shu Yue’s meditations. The nature of the dream and her own realization.
+
+Strings were tied at both ends.
+
+Sixiang was terribly vulnerable. Open, defenseless, their connection was too strong. Ling Qi could do at any moment to Sixiang what she had realized Sixiang could do to  her. With their qi so closely aligned, it would be an immense benefit to her cultivation, perhaps even enough to press her to the threshold of the next stage or even past it. She could feel that Sixiang saw her realization, open to each other as they were.
+
+There was nothing that could stop her.
+
+Save for herself.
+
+They dispersed onto the currents of the dream, a dozen fleeing packets of self, tightly embraced.
+
+The sound of a hundred hooves skittering like the legs of a titanic spider across stone bore down upon them.
+
+“It is futile. There is naught—”
+
+The voice paused, the all-consuming presence of the nightmare seeming to still.
+
+“Interference. O seeker, trickster, and thief, where do you come to the notion that obscurement, hidden intentions, might strengthen your self who proudly demands to speak?”
+
+For communication to mean anything, for two minds to remain themselves, the choice of silence had to exist, Ling Qi thought, scattered fragments of thought pinging between her deliberately scattered self. She flew and skittered and flowed through the dream and the shadows under snowy boughs, the frozen forest reforming again as the Nightmare Lord reasserted himself.
+
+If she wanted friends, family… and even closer love, there would always be some unknown left in them. There would always be some need for faith and trust in the other, lest she be surrounded by mirrors and puppets in truth. She could have kept watching. She could have peered into that last little bit Sixiang had held back from her and interrogated just what the word “love” meant to the muse, but she wouldn’t force that. It all came back to her assertion. The difference between what she feared and what she wanted was choice.
+
+She pulled on her qi, and her scattered presence expanded. A trampling hoof crushed through a cloud of her qi, but it was only scattered chaff, idle thoughts and daydreams and choices not taken. Sixiang clung to her in spirit and joined her in the occlusion, chaotic qi turning the scattered field into a dancing chaos of cold and dark memories, wildly flickering shadows and groaning winds and warped trees glittering with frozen ice.
+
+She met the shadow of Control, and scattered it on the shield of Communication, invoking mutuality in the face of the demand of domination. In what passed for the material in the liminal realm, the clash of her will against Brother Darksong’s demand manifested as a blizzard howling in the frozen forest, an all-consuming whiteout of snow and ice, obscuring all senses, ungraspable by thorny branches nor skeletal limbs.
+
+But the Nightmare of the Emerald Seas was not so easily evaded. His misshapen form creaked and cracked as it bent, slithered, and skittered through the blinding blizzard. Rime formed on his rearing skull and melted under the fetid heat that emerged from his opened maw and the weeping faces at the back of his gullet. His empty sockets burned with pale green fire, lights that cut through her occluding storm. The corpses of the failed sovereigns hanging from his antlers swung on creaking sinew and cord, singing a dirge of kinstrife, betrayal, and false hope.
+
+“And what will you do, seeker, when you are betrayed by their secrets?”
+
+His voice was the clatter of hooves and the voices of her pains and failures. It was a simple question, but it yanked at the fear embedded deep in her self. Bound up with her as they were right now, she felt Sixiang mouth “I’m sorry.”
+
+Rotted teeth nipped at her proverbial heels, peeling away qi and self and breaking a packet of her existence apart. Ling Qi jumped her consciousness to the next, feeling hollow with the precipitous drop in her qi.
+
+She was afraid even now. They weren’t disentangled. Either of them could consume the other and be done with it at a moment's notice. After a certain point though, risk could only be accepted as a part of life. The answer to the question of betrayal was simple.
+
+The only perfect armor against betrayal was isolation. But she had carved isolation into her sword well and long ago now. She would not be the starving creature who could only ever sup from the embers of life like Su Ling’s mother. And in accepting that, she had also accepted that she was vulnerable, that there would ever be a gap in her armor. She would be struck there, undoubtedly. She would be wounded.
+
+She would endure.
+
+Her will came as a ripple in the storm, a snowstorm of such density that there was nothing to see or hear but the absolute sensory deprivation of infinite white. The Nightmare churned through it like a spreading blot of ink on untouched paper.
+
+“Promises, oaths, much of the future, naught of now. It will not be enough, even with this interference, seeker. You accept me, the specter of failure, in your heart of hearts. You overreach in your theft.”
+
+“I’m sorry, Sixiang,” she whispered. “I thought... I don’t know. I thought that I'd find a hidden path, a hole, or an exit.”
+
+“You got auntie to jerk him around a bit,” Sixiang rebutted. “Made him work to catch a couple of small fry in his own parlor. It’s not like I ain’t been looking too. But… I think he’s being real obstinate. He wants to push you or me, one of us to…”
+
+Their voice carried away as they scattered apart before trampling hooves, disappearing into a dozen streams of liminal energy in the snow.
+
+“... take control.”
+
+Ling Qi understood. The skeins holding this place together were too strong, just a little too tightly woven for either she or Sixiang to pry apart. If only either of them were a bit more powerful…
+
+Ling Qi let the tension flow out of her. In her experience, when someone tried to force her down to a single hard choice where every option was awful, it was a false dilemma. Sometimes, she simply had to refuse to follow along.
+
+“Sixiang, I think I’ll be fine if you take a meridian or two. I know you’ll—”
+
+“No, no,” Sixiang rejected. “I’m not gonna do that. If anything, we’re doing this the other way around.”
+
+Ling Qi was always admonished by others for sacrificing herself. She found it annoying, but she couldn’t argue against their reasoning, not when she felt the same revulsion for them sacrificing for her.
+
+Maybe there was another option. She had seen that the cultivators of the southern ice lands pulled on mantles for various purposes. Thief of Names was a play on a certain skeleton’s recitation of titles. From her meditations in his gaol, much of his qi still sat heavy in her dantian.
+
+Thief of Minds. Thief of Hearts. Arch Heretic. Mighty names, and perhaps here, in the depths of dream, Sixiang and her might clad themselves in his mantle.
+
+What would it be like to steal a name, if only for a moment?
+
+If she didn’t use the secrets she acquired, could she call herself a disciple of the Hidden Moon?
+
+If she didn’t wield every trick and tool in her hands, could she call herself a disciple of the Grinning Moon?
+
+If she gave in to orthodoxy without even trying a different way, could she call herself a disciple of the Dreaming Moon?
+
+“Sixiang, I’m going to need your help.”

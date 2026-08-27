@@ -1,0 +1,163 @@
+---
+id: 07ba3542-0669-5417-9fce-0356e9d7937e
+page-type-slug: story-chapter-royal-road
+title: "Threads 447-Cathedral of Winds 6"
+slug: 0491-threads-447-cathedral-of-winds-6
+partOf: forge-of-destiny
+position: 491
+ownLength: 2008
+unit: words
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2247953/threads-447-cathedral-of-winds-6"
+royalRoadId: "2247953"
+---
+
+The antlion soldier's jaws came together with an echoing crash too loud for mere physical sound as fists crashed together water screamed to a boil.
+
+Ling Qi grimaced and returned her eyes to her own fight. She had to trust Li Suyin's judgment.
+
+Could Sixiang disrupt the parasite spirit's control?
+
+"I can give it a go! Nobody's actually home in there, so I shouldn't have too much trouble," Sixiang whispered. "Just gimme an opening."
+
+Ling Qi spun lazily on a swirl of bubbles, avoiding an open palm hand that slammed past her and crashed into a wall. It shook the cavern, spreading cracks through the stone. It was only a distraction.
+
+The eerily preserved face of the corpse opened its mouth and screamed. The water rippled from the pressure of the thunderous sound, but the physical force was nothing to the disruptive vibration.
+
+Her hungry rats had dug in under the corpse’s skin, and even as they burst with their gluttony, they dulled the emanations that would have driven the other spirits into a greater frenzy. As the thunderous force and spiritual reverberations impacted  into her gown, Qiyi's threads dulled to a solid matte black, and the ornaments woven into her hair jingled. Ribbons curled about her ears.The force that would have rattled her bones and shaken up her organs dispersed through the fabric, harmless.
+
+Ling Qi regarded it calmly as she drifted away on the current, still singing her warsong. The corpse was ignoring the rats in its flesh, save where they chewed close to its tendrils. Good to know. There was an opening.
+
+She threw out her hand, and a quartet of snarling wolves emerged out of the silt and mist as if darting from high grass, running through the water as if it were air.
+
+The corpse bellowed, tearing at the wolves as they pounced on it and began to savage it.
+
+"Right-o, think I got a lock on where to hit!"
+
+Sixiang's presence drained from her thoughts and dantian and moved through liminal space, a curving streak of rainbow color on the back of her eyes. One rat in particular jerked, kaleidoscopic color rippling through its fur. Sporting a manic grin on its lips, it suddenly clawed with more purpose at the corpse, then leapt directly into its mouth when it bellowed.
+
+Sheer mechanical reflex made even a corpse gag, and Ling Qi grimaced as bits of flesh and gore streamed past its open lips. She was glad it was already dead.
+
+Rainbow qi shone out from every orifice in the puppet’s preserved face, and suddenly, its limbs snapped taut, muscles straining against the panicked thrashing of the tendrils under its skin. The tendrils ripped free in a cloud of gore, but the corpse, whose eyes now displayed rapidly shifting colors, snapped up a hand to grasp a bundle of them as they tried to retreat into the liminal.
+
+Ling Qi released her concentration on her phantoms and brushed her hand through the water, parting the veil between material and imagination. She stepped through to face the squirming mass of eyes and flesh now trapped close to the surface of the liminal.
+
+Here, on the other side, she sang a song of frigid death and shattering cold freely without worry. Putrid flesh recoiled, broken apart into drifting chunks that dissolved into the churning chaos of unformed dream, and something tiny and black shot off, too fast for even her to catch. It disappeared into the liminal depths.
+
+She narrowed her eyes but didn't chase. She'd had a look. That was enough for now. Ling Qi stepped back through the veil, not gone long enough for her silhouette to even flicker.
+
+Somewhere ahead, beyond the cavern, a pale cyan light brightened as the mass of filthy pollution caking the crystal broke apart.
+
+"Ew. Ewewewewewewewewew. That felt so gross," Sixiang whined, disgusted.
+
+The now badly torn corpse bobbed limply before coming apart in the churning waters.
+
+"Corpses are the absolute worst," they gagged.
+
+She was sorry Sixiang had to do that, but thankful. Their efforts had ended the battle much more quickly and exposed some of the parasite creature’s mass to actual damage. It had also left the parasitized sirens confused, bodies twitching as they fought the residual will leftover in the flesh embedded in their bodies.
+
+Not that there were a huge number of the sirens left.
+
+As she watched, Xinghong emitted a warbling shriek as he pinned a struggling siren with his upper arms against the wall, lower arms beginning to blur and pummel the spirit roughly where a human's kidney's would be. Given the condition of the others around him, bruised, battered, and scorched, it wasn’t the first to receive this treatment.
+
+"Xinghong, desist," Li Suyin orders, eye examining those still struggling to regain control of their own nerves. "You drove it away, Ling Qi?"
+
+"And dislodged some of the impurity. I expect…"
+
+The crystals glowing along the mouth of the tunnel above flared before beginning to pulse gently. Something like a massive eye rolled her way, twitching awake from sleep.
+
+"It seems I should have a conversation with our true host." Ling Qi let out a note, communicating to the freed spirits. Reassurance. Aid. An end to what had ailed them. "Can you please heal the sirens? Excise the foreign matter. Make sure they can't be taken again.”
+
+"I can,” Suyin agreed. “Best not to strain the place spirit any more than it already has been."
+
+Winding a thread around the poor spirit Xinghong had just been pummelling, Suyin began reeling him in.
+
+She sang another note, soothing and reassuring, as the others stirred.
+
+Time to learn what was going on properly.
+
+Ling Qi spiraled up, away from the foul waters below, clogged with the gore of the broken giant’s corpse. Up among the blue crystals growing from the cavern walls, she kept her pace sedate, hands to her sides and no flicker of qi running through her more offense-related meridians. She was being watched, and the spirit was rightfully wary of any new visitors.
+
+"Are you certain you're well after getting into that giant?" Ling Qi asked.
+
+"I mean, I need like a dozen hot baths, but I'm good. I'm not gonna get polluted by a lil corpse juice and puppet strings," Sixiang replied.
+
+"How would a bath even help you?"
+
+"It'd have to be like a purification bath, with some pretty girls and boys waving incense sticks over it. I guess I would just kinda dissolve into the water and let the bad filter out and sink to the bottom?"
+
+Sixiang would have to settle for a song and an ice bath. Heating water wasn't in her skillset.
+
+"I'll take it!"
+
+She rolled her eyes, but her expression swiftly became troubled. It was easy to look over in the chaos, but Sixiang's injury wasn’t completely healed.
+
+"Neither is yours."
+
+She bowed her head. That was fair, but…
+
+"Worried I'll hurt myself?" Sixiang huffed. "It's shrunk enough. I'm digesting it."
+
+She pursed her lips. That was even more worrying.
+
+"Hey, hey, dissolution and smelting ain't too far apart on the first step. Don't tell me you haven't understood those flames, too."
+
+She had, in a small way. She’d rejected the totality of what Xia Ren was, but there were elements whose resonation couldn't be ignored. The two sovereigns had shown  her two paths that a community could take to butchery. She worried that there was no path to changing the world that was not a bloody one. Was the Emerald Mourner right? Could a sovereign that did not impose their will on others even exist?
+
+"I think it's going to depend on your definition of impose," Sixiang advised.
+
+Perhaps, Ling Qi allowed.
+
+Qiyi hummed in her mind, flexing and weaving threads, casting off the filth that had found its way onto the fabric. The dress had heard them, and even understood a little of their talk, but found the conversation wholly uninteresting. Dresses were only concerned with their wearer after all.
+
+They rose into the crystal chamber on a slow column of bubbles. The cyan crystal was dim again, a large part of its right side dark gray from tendrils of discolouration reaching deep into its core.
+
+Ling Qi bowed, arms spread wide, sleeves billowing the water. "Master of Lighted Stone and Song in the Deeps, this one humbly greets you. Should you wish for another title, please inform this ignorant guest."
+
+She didn't speak those words though. Instead, she sang in the spirit’s own tongue, the low piping moans of winds through air gaps in deep tunnels and the higher song of rushing zephyrs though the fluted passages of the upper mountain.
+
+“Cold song, frozen song, mountains high and skies white. Not of here, not of deep, in lightless dark to creep. In tepid water ne'er hot nor cold, in ruin, in rot. WHY?”
+
+The final word was a demand, the spirit’s irritable perceptions still run through with shades of pain, like a man with broken bones jutting from his flesh.
+
+"In claim, in livelihood, from peaks far and high. Land stamped for men to live, by dragon's spark and the High Throne of Seasons, I, their watcher, beheld the rot, the fingers of the enemy. The trees and peaks war with rotting deeps. What good a foe, looming over the homestead, when one might have a neighbor instead."
+
+She chose her pitch and tone carefully. Driven by such pain, she could not expect the spirit to be reasonable, even if she understood its nature.
+
+"You don't got that understanding, though,” Sixiang whispered. “I can't get a proper read on this thing either. There’s too much junk in the tunnels. I think it’s not really a spirit lord, like lil Zhengui, but it is kinda like your old teacher. Master of this place alone… Something about balance?"
+
+Ling Qi thought that was a foundation, but not the purpose. …Fusion? Combination? The making of things from disparate parts. That was the echo she could glean from the spirit’s name.
+
+The churning waters had stilled with her response.
+
+“Long, long, the lords of sky and river are gone. The builders hunted. Ignorant.”
+
+Implying it was a work related to the great peaks of the capital? That was the most oft spoken theory of the creation of the argent vents.
+
+"Gone, gone, gone. No claim do I make to heritage. Only life lived now."
+
+“Deeps. Deeping does not belong above. Above. Beneath. Apart. Not to meet.”
+
+"We would make that so. My companion bears a seal, if we may but know where to go," Ling Qi replied, maintaining her bow even amidst the roiling of the waters in the chamber. "Unless there is more, good neighbor, which might aid the quest?"
+
+My blood spilled, my children broken, not all by impurity’s touch. I bleed, the ichor on your blade.
+
+"I won't deny," Ling Qi sang back. "Cruel parasite's doing, cold comfort. Yet who dares demand that one does not defend what is theirs?"
+
+Ling Qi looked directly into the crystal. Though the spirit was mightier than her, she was not here as a supplicant. There was a limit to respect.
+
+“Water washes, purifies, second only to flame, extinguished first. Broken, weak still, much strength is lost, and so, the tunnels are polluted.”
+
+Ling Qi paused, parsing what had been requested.
+
+"Ling Qi, even you ain't gonna be able to restore a spirit this big without tiring yourself out," Sixiang warned.
+
+Ling Qi understood that. However, Li Suyin had built a siphon for lunar qi that the others were guarding on the surface. She did not know if it could handle the throughput, but if it could...
+
+"My song does not reverberate so loud. Yet the moon above shines, and artifice drinks so very deep. My companion, though, I would need to speak."
+
+There was a long pause, a churning frustration like a fish trapped in an unbreaking net.
+
+“I accept. Bring thy kin.”
+
+She bowed again and descended through the tunnel with haste.

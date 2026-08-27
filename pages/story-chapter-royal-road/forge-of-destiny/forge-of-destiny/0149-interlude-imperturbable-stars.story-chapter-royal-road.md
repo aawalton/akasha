@@ -1,0 +1,103 @@
+---
+id: a93682f0-9eca-57ff-a5f2-2f36ed99253f
+page-type-slug: story-chapter-royal-road
+title: "Interlude:  Imperturbable Stars"
+slug: 0149-interlude-imperturbable-stars
+partOf: forge-of-destiny
+position: 149
+ownLength: 2274
+unit: words
+publishedAt: 2021-08-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/740407/interlude-imperturbable-stars"
+royalRoadId: "740407"
+---
+
+When the world was young, we feared the stars.
+
+The battle of the Unnamed was fierce, and the Mother weathered many blows defending her children. Their poison coursed deep in her veins and so when the world was wrought, the Sun blazed bright in defiance against the mocking stars, but his sister, the Moon, was born weak, her light pale and pallid. So it was that we feared the stars and the night.
+
+We lived beneath the earth, digging burrows like beasts, so that the Mother’s cooling flesh could shield our bodies from the poison in the sky. This was a time of woe and fear when things unnamed, the children of those laughing stars, stalked forest and glen to hunt beast and human alike. Under the sun’s light, they quailed, but during the night, they rose again to hunt. So it was that we slept only fitfully, full of fear, and rose to exhaustion in the day. All was bleak.
+
+Among the people was a young woman. Born under the moon, she was given to the Eldest Sister to serve, offering her meager strength to the Moon through prayer and offering. Swiftly, she rose among the priests of the moon for her wit was quick and her eyes sharp.
+
+Where others struggled, she found the best herbs and flowers for the incense with ease and spoke the words of offering more clearly than others. She was a brave girl as well, and in her wandering, she spoke with the beasts of the wood and learned their tongues. From the birds, she learned the secret language of wind and branch, and from the beasts of the earth, she learned the secret song of hill and mountain.
+
+All feared the power of the stars, the enemies of life. The Father and the Mother had slain many foes, but many more remained, uncounted and uncountable, and they, the stars, circled creation, forever eager to destroy what the Unnamed had wrought. The stars were not of the world, and so could not be defended against nor understood.
+
+This offended the girl with the sharp eyes. For her, all things could be counted and named, and no thing was without description. Yet she could not deny the truth of her senses. To look upon the stars long enough to count them, one would surely die. To name the stars, one would surely be cut down by their children.
+
+This frustrated the girl, and for a time, she lived life in a state of irritation. The girl became a woman, then a mother, and in time, a grandmother. It came to pass that the People’s Speaker passed, and among them, none was deemed more worthy to replace him than the sharp-eyed woman. For though her shoulders were stooped with age and her bones ached, her mind and her eyes had never dulled.
+
+However, though years and years had passed, the woman’s frustration had never faded, and so when she immersed herself in the pool of the moon and spoke to the spirit, she asked the question that had burned in her heart.
+
+“Are the enemy truly unnameable and uncountable? Can they never be defeated, O Eldest Sister?”
+
+The Moon was taken aback, for the Speakers of the People had never spoken to her before with such demand. They pleaded for her blessings and protection and asked after the health of their young and the whims of the seasons. Such a question had never occurred to the Moon, who existed only to protect and guide her younger siblings to safety. Even her brother, the Sun, did not speak of such things and thought only to fight and fight and fight until all was dust.
+
+“This is not known to me, child. Without my attention upon the land, all would perish in the nightly hours. Mine eyes do not look at the stars.” And though the Moon answered true, for the very first time, the thing called dissatisfaction was born in the Moon’s mind, for never before had one of her siblings asked a question that could not be answered.
+
+The sharp-eyed woman was distressed to know that even the great Sister Moon did not know the answer to her question and left the pool with her eyes low. Yet, even knowing that the answer was forever beyond her reach, her frustration still burned like a hot coal pressed against her back. Each day that passed only hardened her resolve. Thus, when the next Speaking Day came, she had a new question.
+
+“O Eldest, will thou allow this one to be your eyes upon the stars? I will count them, and name them, and see thy burden lightened if thou but offer the means.”
+
+The Moon had not forgotten the woman’s previous question, and it had vexed her greatly. Her brother, the Sun, had not known the answer either. To him, the number and name of the enemy did not matter, only that they were anathema and so would be fought. So it was that the Moon looked upon her young sibling and did not reject her proposal out of hand.
+
+“My power is feeble, child. Mother’s wounds lie heavily upon me. My scars were with me since birth. Should thou perform this task, I will not be able to shield thee from pain. Thou will not die, but thou wilt suffer. To give more to one would endanger all. Can thou truly say that this is thy wish?”
+
+The sharp-eyed woman thought of the People and her sons, daughters, and grandchildren, few of which had lived to see even their tenth year, pale and sickly in the burrows and caves. The sharp-eyed woman thought of her husband and siblings long since passed, taken by illness and exhaustion. Most of all, the sharp-eyed woman thought of the twinkling and mocking stars hurling their hate down upon the land. In her heart, frustration and resolve curdled into something else.
+
+“This is my wish, O Eldest.”
+
+“Then go from my pool one last time and say thy farewells. Thou will not see thy people again,” commanded the Moon.
+
+So the woman went, and among the People, there was much grief. The sharp-eyed woman named her eldest daughter the successor of her title, and taking the gifts of her People, left.
+
+In the woman’s heart, knowledge was born, and her path was sure. Beasts of field and wood did not bar her path, for she knew their secret words, and for the most recalcitrant, the terrible silver that burned in her eyes bowed their heads.
+
+The sharp-eyed woman marched through day and night, untiring, and when the stars twinkled overhead, though her skin burned and she wept in pain, she did not stop. When the star children barred her path, the silver light of her eyes flashed and drove them back, and she spoke the secret words of wind and water with the might of the Moon on her tongue to call up a storm to wash them away.
+
+Soon enough, the sharp-eyed woman reached the towering mountain which the Moon had guided her to. It rose high into the sky, parting the wispy clouds. The pale disc of the Moon seemed to rest upon its craggy peak. So it was that with aching bones and burning skin, the sharp-eyed woman began to climb.
+
+Many trials awaited her on the mountain, for the star beasts had begun to come in force, and by the time she reached the peak, the sharp-eyed woman was in a terrible state indeed. Her skin was scarred, and her limbs were broken. She leaned heavily upon a stick of ebony soaked in her own blood. Only the Moon’s power and the feeling in her heart drove her on.
+
+At last, the sharp-eyed woman reached her destination. On the high and windswept peak, she found a shallow depression and sat down. Settling her stick across her knees, the woman looked up and with trembling hands, she removed the last items from her bags, a thick tome bound in black leather and a single quill.
+
+With the book open in her lap, the sharp-eyed woman fixed her gaze on the night sky and stilled.
+
+Hours passed, and then days, and with each passing day, the malice of the stars grew as they felt the mortal gaze that dared look upon them. At night, their hissing voices began to echo, and the woman’s ears bled at the sound, even as her eyes smoked in their sockets.
+
+“Little doll of mud, so full of pride, do you imagine thou that thou might succeed where the mighty failed?” crooned the stars, and under their light, the woman’s skin blackened and bled.
+
+“Feeble thing, fleeting thing, flawed thing, die as thou should have so long ago. Thy Parents crumbled before us and wove this porous shell. Already, it weakens. Already, it crumbles as they did, and the flawed ones will be no more,” mocked the stars.
+
+“Beyond thee, we are. We are the unnamed and unnameable, uncounted in our legions. We are all things that cannot be known. Lie down and die, mud doll, and spare thyself the suffering,” jeered the stars.
+
+Ten thousand curses, mockeries, and imprecations rained down on the woman each night, lashing her skin until it barely clung to her bones. Yet her gaze never turned away. Even when the sharp-eyed woman’s eyes burned away entirely, leaving behind only liquid moonlight, her gaze never wavered.
+
+Days became years, and years became decades, and decades became centuries, and then at last a millenia and the anger of the stars grew. Across the lands, their poison lessened in potency as their ire fell upon a single point, yet in doing so, their own defeat was wrought as the Moon, too, could focus her power upon that single point.
+
+At last, one thousand years after the day the sharp-eyed woman had first sat down, something changed. The dust of a millennium rained down as the woman’s head turned down to look upon the blank pages of her book. Above, the stars jeered and mocked her, certain that their victory had at last come, and yet, as the sharp eyed woman’s withered arm creaked and put quill to paper at last, she spoke. Puffs of dust and dirt fell from her lips with each word.
+
+“Be silent, O charlatans, thou mocking vermin. I have had enough of thy venom, and so have we all.”
+
+The words echoed through the night and beyond the sky, and for just a moment, some among the stars trembled. Yet most were merely enraged.
+
+“Thou dare,” they hissed, and the few hairs still clinging to the sharp-eyed woman’s scalp withered and crumbled to dust. “When thy bones barely cling to their neighbors and thy organs fail, held together only by moonlight and will, thou think to speak such to the pure ones, thy betters?”
+
+“I am the daughter of your conquerors,” the sharp-eyed woman said, her voice as a dry fall wind. Her quill began to scratch the page, leaving trails of moonlight in the shape of letters never before seen by mortal eyes. “And I name you cowards all.”
+
+“We laid thy parents low,” hissed the stars. “Speak not of conquerors, little doll of mud.”
+
+“I have gazed upon thy light for one thousand years and learned thy tongue in the same, O feeble vermin. I know the lie of thy words. The blood of warriors boils in fen and ocean deep; it churns deep in Mother’s veins and clings to Father’s heights. Thou art laggards and cowards all, as sneaking vermin and scavenger birds. Thou feared Mother, and thou feared Father, and thou fear their children most of all. Know this, O malicious ones: Thou art counted, and thou art named.”
+
+The woman’s quill completed the first character, and the world shook as the great northern star, brightest of the stellar host, howled. The star’s light dimmed and softened, and a drifting thread of silver filtered down from the sky to coil around the sharp-eyed woman.
+
+“To the Moon do I offer thy names and thy light,” the woman said, a thousand years and a lifetime of spite in her words. “Peer through the curtains as thou wilt, but never again shall thy malice reach any but the highest of peaks. To the Moon I offer thy light and thy hunger. Though the dark might remain full of terrors, never again will the night sky bring fear of its own.”
+
+With each character that was written, a star dimmed, and the world shook. With each dimmed star, the woman’s flesh was restored. At last, when the last star dimmed, the woman stood, and she was cloaked in glittering starlight. No more withered bones with a skull-like visage, the sharp-eyed woman looked upon the stars with eyes of moonlight as an elder hale and hearty. Clothed in the glittering finery of the subdued night sky, she nodded in satisfaction, and her book snapped shut, shaking the world one final time. Above, the stars no longer winked and mocked but hung still, silent and unperturbed.
+
+“I am ready, O Eldest. These bones are weary, and this life has passed. Might I be with thee and keep an eye upon these miscreants forevermore?”
+
+There was no answer in the tongues of men, only a soft sigh as the sharp-eyed woman dissolved into a beam of moonlight and left the world forever. And above, the pale light of the moon grew bright with reflected starlight.
+
+For the first time, the Moon turned her bright face from the earth, and the stars quailed.

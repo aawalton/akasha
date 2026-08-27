@@ -1,0 +1,161 @@
+---
+id: 7d0c8edd-1396-57e2-8293-fe3f5cd116ca
+page-type-slug: story-chapter-royal-road
+title: "Threads 212-Second Day 1"
+slug: 0246-threads-212-second-day-1
+partOf: forge-of-destiny
+position: 246
+ownLength: 3085
+unit: words
+publishedAt: 2022-05-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/901299/threads-212-second-day-1"
+royalRoadId: "901299"
+---
+
+It was nerve-wracking, Ling Qi found, to stand up on the great stage erected at the rear of the pavilion.
+
+Cai Renxiang’s father had certainly made a spectacle of the place. The high ephemeral walls of cloth and silk seemed to float without support, descending in elegant curves like arches here and there to expose a slice of the glittering night sky and moon. Below, guests walked, lounged, and spoke amidst the sprawling but orderly garden he had arranged, lit by orbs which glowed with soft dusk sunlight. The marble tiles of the floor gleamed like diamonds, and the rainbows cast by the mist of the fountain were beautiful beyond compare between the greenery and flowers. It made her own efforts with Zhengui seem rustic and childish.
+
+She stood with the White Plumes and other supporting individuals at the back of the stage, soldiers and courtiers all, but she still felt as if the gaze of the world was upon her. It must have been worse for Cai Renxiang standing directly under the gaze of the guests, at attention with her arms folded behind her back, the young heiress’ halo of radiance providing a steady light.
+
+Then, the Duchess came, and her presence obliterated all others. She appeared at the center of the stage in a beam of light, her silhouette and that of the Prime Minister blooming like flowers within the radiance.
+
+Cai Shenhua remained, as ever, unmistakeable. Her dark hair was cut short this day at sharp angles that framed her face, black and unornamented. Her gown was relatively modest. Ling Qi thought the style was called a qipao, its hems and seams forming intricate crimson knotwork that contrasted with the white. Still, it hugged her frame far too tightly and left her athletic arms bare.
+
+Comparatively, the Prime Minister, Diao Linqin, seemed tiny and overshadowed. Her wavy brown hair was arranged in a single braid that fell across the chest of her rose pink, conservative gown.
+
+“Worthies of the Empire, Lords of the Emerald Seas, let me offer my belated welcome to the lands of the Argent Peak Sect.” The Duchess’ voice was warm and welcoming, the light of the burning radiance in her eyes brightening the whole interior of the pavilion. Her presence crushed down like the weight of a mountain. “My late arrival was intended as no insult. It was merely a matter of safety. The health of a child is nothing to risk casually.”
+
+Cai Shenhua paused for a beat, allowing her words to finish echoing. “Yes, such is my confidence in the Lords of the South and the Argent Peak Sect that it was decided that my second daughter, Cai Tienli, will be safe here for the duration of this tournament. She is healthy and unblemished and deserves a chance to know her sibling.”
+
+She allowed a moment of agreeable murmuring from the crowd. Ling Qi did her best not to stare at her liege’s back too much, wondering what she was thinking. It felt unsettling to hear the usually languid Cai Shenhua speaking with formality and fervor.
+
+“It pleases me to know that my loyal lords and the elders of the Great Sect have taken to this newest campaign with such vigor that this is possible. Already, foundations are being laid in the lands where the barbarians have been pushed back. Sect Head Yuan has made superb use of my White Plumes along with his own forces. Soon, new baronies and villages will fill the hills, bringing further civilization to the Wall. I myself will join this campaign in the coming year. The cloud tribes will never be allowed to threaten the people of the Emerald Seas again as Ogodei did. Long have I set about putting my own house in order. Now, the time comes to deal with the vandals upon the lawn.”
+
+Ling Qi shivered slightly at the sound of her words. Fire and marching boots, warsongs, and the clash of gauntleted fists to breastplates in the thousands echoed in their intent. Perhaps she had spent too long in the liminal, but she could almost hear the screams as well. Yet even so, she felt memories of names carved on an epitaph and a field of mist-shrouded graves welling up, her own blood feeling hot.
+
+<Nothing like war to stir up the nightmares,> Sixiang muttered.
+
+Yet in the world of the real, those fierce words were met by a low cheer from the gathered nobility of the Emerald Seas. It was not just greed and lust for battle, but the real pain of wounds and grudges left bleeding in the past. It was the impugned honor of failed guardians, the grief of widows and widowers, orphans, and parents who had buried children. It swirled around the Duchess, as much a throne as the great seat in Xiangamen.
+
+The response from those not of the province was far more muted. Bai Xilai wore an expression of approval, adding a few polite claps to the sound in the pavilion. A massive red-haired Zheng woman lounging on a bench in the garden chortled and clapped. Those in the colors of the Guo and the Jin were more quiet, and the representatives of the imperial clans were impassive.
+
+“Yet, the campaign of spring is not the only momentous undertaking which is coming. My daughter has had her own achievements in the previous year,” Cai Shenhua said, voice cutting through the guttering sound in the pavilion. “Beyond the Wall, we find long migrated kin of our ancestors, who also suffer the presence of the clouds. They are in the midst of their own campaigns to end this threat. My daughter has established contact with these ice clans and found them civilized. The frozen lands, buried in eternal snow so unwelcome to us, the people of forests and valleys, are welcome to our contact. Negotiations will go forward. The nomad threat will be crushed between hammer and anvil.”
+
+That certainly wasn’t how Ling Qi would describe the situation. She understood though. By wrapping peace with these foreigners in the blanket of defeat for foes, it was made more palatable to even the most isolationist of them. Even then, there was less approval in response, but spirits were still high.
+
+“But my daughter is young yet, despite her talent,” the Duchess continued, a smile gracing her lips. “I will not send her alone to deal with foreigners without support. To that end, my eldest apprentice, Shu Yue, will be present to offer support, advice, and guidance.”
+
+Another figure stood on the stage now, as if they had peeled out of the deafening shadow left by Cai Shenhua’s presence. They were immensely tall, towering over even Shenhua’s amazonian frame by half a head, and incredibly thin. By all rights, someone stretched so far beyond the normal human frame should have looked awkward and gangly, but somehow, they held to a beautiful and ephemeral symmetry. Shrouded in robes of deep, nearly black, purple, their only visible feature was their face. A pale and androgynous circle powdered white was framed by unbound waist-length hair that shimmered like liquid darkness. The only spots of color were their darkly painted lips and brows and their glittering green eyes. It almost looked like a theater mask.
+
+“It will be my honor to guide the young miss and her companions, Master. The safety of this embassy is assured.” Their voice was soft and quiet. Ling Qi still couldn’t tell if they were a man or a woman, even in her spiritual senses, so resolved to think of them like Sixiang until otherwise corrected.
+
+<I’m not sure if I should be flattered or frustrated,> her muse commented.
+
+“I have no doubts that you will fulfill your duty,” the Duchess said with a throaty chuckle before turning her eyes back to the crowd. “Last of all, it pleases me to announce that tribute, the treasures of the Deep Lands, has already begun to flow up through the roots of Xiangmen. This has offered our crafters unparalleled opportunity to experiment, as is their wont. The first fruits of victory have already begun to arrive on our plate.”
+
+More approval resulted, revving back up the weakened high of the first announcement. Cai Shenhua gestured toward the back of the stage, and Ling Qi’s eyes widened as another figure rose from the marbled tiles in the small space left between two groups of three White Plumes.
+
+Shishigui!
+
+The bent frame and elongated head spoke of nothing else. Like the one in the crater, this one was clad head to toe in armor of blue black chitin. She could hear the faint wheeze of its breath as the two sacs attached to the muzzle of its helm expanded and contracted. The armor it wore was softer, no spikes, less chitin, leaving more of the flexible underlayer visible. Most noticeable though were the streaks of white visible at the edges of the chitin, shimmering with a familiar radiance.
+
+“This ‘Tcho-Ri’ has been sent to us by the surrendered Ha-yith-kai. It is here both to provide a speaker for our demands and to advise on what tactics those of its kind who foolishly still stand against us might use,” Cai Shenhua continued as if no one was surprised by this appearance. “Another acquired resource. Feel free to ask of it what you will of our foes. Know that it stands in my light and will answer true.”
+
+Cai Shenhua clapped her hands once. “But now, my guests, eat, drink, speak, and be merry! Tomorrow, we shall enjoy the striving and accomplishments of the youth.” Cai Shenhua took up Diao Linqin’s hand as she moved to descend the stage and gestured for Renxiang to follow.
+
+Distance helped, lowering the crushing weight upon her shoulders, and Ling Qi allowed herself a quiet sigh of relief, earning a small, commiserating nod from the young White Plume soldier beside her in line. She offered a small smile in return and turned toward the steps descending from the stage. Now was the time to do a little mingling. First—
+
+“Baroness Ling.”
+
+She nearly jumped out of her skin at those words, soft and ephemeral as they were. She hadn’t noticed a single movement or flicker of presence. She looked to the side and saw Shu Yue standing there, looking down at her impassively.
+
+... Was this what it felt like when she snuck up on people?
+
+“My apologies, L—” Ling Qi frowned, realizing she had no idea how to refer to them.
+
+“My name will do. I do not need titles,” Shu Yue said. “Walk with me.”
+
+“Yes, Shu Yue,” Ling Qi said hurriedly, moving after the strange person. It felt strange to be the one with the shorter stride for once, Ling Qi thought. Studying the apprentice, Ling Qi was unsettled to notice that they cast no shadow. “What may I assist the elder with?”
+
+They descended the steps of the stage, and Ling Qi found herself in a more secluded part of the garden. She hadn’t walked there nor willed herself to this shadowed corner, but suddenly, they were there. Shu Yue turned to face her, that theater mask face seeming to shine slightly in the dim light. She met their gaze and held it. The corner of the older cultivator’s mouth twitched upward. It was a strangely awkward expression, as if smiles were not something they were used to making.
+
+“I will be your advisor. Do not think the Duchess’ omission of your name in official speech a slight or undermining of your accomplishments,” they said. “Therefore, I wish to speak. Tell me: what is the primary goal of your project?”
+
+As Shenhua’s apprentice, surely they already knew, likely having seen or been told of her presentation. Perhaps they just wanted to hear Ling Qi’s own words in person.
+
+“Peace and stability. The south has suffered enough war,” Ling Qi said. Her home would be in the south. Her family would be in the south. Even if she thought of things from the most callous possible point of view, a reprieve from the endless raiding and violence which issued forth from the Wall was something she wished for fiercely.
+
+And she was not so callous. She might not care for every life, but more death, more fields filled with gravemarkers and lingering regret, could only be a bad thing.
+
+Shu Yue regarded her impassively. “Different than your public statements, but neither are lies. Your explanation?”
+
+Their voice was not accusatory, remaining perfectly calm and even.
+
+“You said it. Neither are lies,” Ling Qi said briskly, not breaking eye contact. “However, the stability of what is and will be my home is the most important to me.”
+
+She thought of Jaromila, Ilsur, and the other foreigners she had met. It would pain her if negotiations came to a fight. She liked them. They were not family though, nor could she truly call them friends yet.
+
+“I do believe that the people of the south deserve consideration as people. But I also think that bringing such an understanding about is beyond me.”
+
+She would speak and bring peace and try to convince those around her, but shifting such a fundamental attitude of the Empire was…
+
+“It is good to have dreams which lie beyond the reach of your lifetime,” Shu Yue said. “All the same, it is not good to be unambitious either.”
+
+They showed no sign of being either impressed or disappointed in her words. The older cultivator raised their hands, tapping their fingertips together in thought. Ling Qi struggled not to stare. Like the rest of them, Shu Yue’s hands were thin and stretched, almost like the legs of a spider, and their nails were painted a poisonous purple.
+
+She still couldn’t feel a single thing. No aura, no whisper of domain, just a quiet and serene emptiness.
+
+“The young miss is a woman of measured means. The ticking hands of a clock move little, but their advance remains inexorable,” Shu Yue mused, seemingly to themself. “Good. The first step in the success of an operation is a clear vision of its goal. No amount of force can bring victory if you cannot envision your end.”
+
+Ling Qi smiled nervously. That wasn’t as comforting as they probably thought. “I might know what I wish, but I am still uncertain of the steps which will take me there. I suppose your advice is meant to guide me in that?”
+
+“No,” Shu Yue answered.
+
+“No?” Ling Qi repeated, dumbfounded.
+
+“My role is to defend your operation from violence above the young miss’ capacity. What you are doing is without precedent. I cannot guide you.” The tapping of their fingers stopped. Their gaze remained impassive, but not unkind.
+
+Ling Qi stared for a moment in the wake of those blunt words.She was not sure what to say.
+
+The too tall cultivator’s head tilted to the side, studying her. “Do you regret your choice?”
+
+“No.” The word arrived without a thought. However troublesome it might be, she did not feel regret for the choice to choose connection.
+
+Again, that awkward, crooked semblance of a smile appeared. “I will provide you tools. This operation is without precedent, but nothing is wholly new. I cannot guide you, but I can prepare you. The Duchess has instructed that I am to provide you tutelage in what subjects you wish, so long as it does not interfere with my primary objective.”
+
+“Directly?” Ling Qi blurted out. She had not expected Her Grace to assign her a tutor, let alone a tutor that was one of her own apprentices. “I—That is—”
+
+“As I said, the omission of your name from proceedings was not a punishment,” Shu Yue repeated. “I see in you that you understand omission. It is a dangerous path on the blade’s edge between truth and lie, so close to deception. Yet there is power in silence, the gap between words.”
+
+Ling Qi nodded slowly, working out their words in her mind. If Her Grace had troubled herself to the extent of being late, there were more things than she could discern at work. Perhaps there was good reason not to place any spotlight on her. “If you are to tutor me, may I ask what it is you do?”
+
+“I am a sculptor,” Shu Yue said, “who makes art of hollows and empty things, which wait to be filled. This is what I do.”
+
+Ling Qi mulled over those words. “And what are you?”
+
+Shu Yue leaned forward, their immense height seeming all the more looming as the twilight corner they stood in bent and warped, the light and laughter so awfully distant now. “I am a solver of problems.”
+
+Ling Qi took a calming breath, but refused to let her gaze waver. “Funny. I aspire to the same.”
+
+“Yes,” said Shu Yue, seeming to recede into themselves. “I look forward to our assignment, Baroness Ling.”
+
+“Do you have any immediate advice?” Ling Qi asked.
+
+They hummed to themselves as they turned away and began to walk back toward the more populated part of the pavilion, which seemed so much closer now. “You have plans. Stick to them. For tonight, I suggest you make use of presented opportunities.”
+
+Ling Qi followed her gaze to where the shishigui stood with its guards. An older man in Luo colors was speaking to it, his nose wrinkled.
+
+“Information is always valuable. Without it, one may only guess at shadows,” Shu Yue said. “Now, excuse me. We will speak again in the coming days, but I have to fulfill other duties this evening.”
+
+“Thank you for your words. Do not let me keep you,” Ling Qi said.
+
+The older cultivator nodded once, and then was gone. No beam of light or swirling shadow, just ceasing to exist. The air did not even move to fill the space their body had left. It felt as if it had never been disturbed in the first place.
+
+She wondered what Sixiang made of them.
+
+<They make me itch. That person might not be like that Kongyou, but I think they’re still a nightmare of a sort… Someone’s nightmare, anyway,> Sixiang responded.
+
+They weren’t human? Ling Qi wondered. Knowing imperial law, she doubted even Shenhua could have a spirit treated like a human.
+
+<You know that’s not really a line, Ling Qi,> Sixiang chided. <But let me put it this way. I don’t think that person has ever cultivated with a spirit stone.>

@@ -1,0 +1,155 @@
+---
+id: 3ccc89cf-1bfd-517d-acff-9eab5dcbf9d5
+page-type-slug: story-chapter-royal-road
+title: "Threads 264-Perceptions 1"
+slug: 0302-threads-264-perceptions-1
+partOf: forge-of-destiny
+position: 302
+ownLength: 2207
+unit: words
+publishedAt: 2022-11-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1046064/threads-264-perceptions-1"
+royalRoadId: "1046064"
+---
+
+They took it a little slower in returning, but as they came near the great manor nest, they found the old spirit beast and his grandson awaiting them. Both of those beasts kept up appearances, but Ling Qi could feel the shock and surprise practically emanating from the old beast’s litter bearers.
+
+“We have exterminated the beast, though I assume it is only one of many,” Ling Qi said as she landed on the grass. Gan Guangli still trundled along behind, carrying a hollowed out, small boulder with the dust and ash inside, and although the dust did still seem mildly corrosive, the boulder would probably be enough until they got back to the outpost.
+
+“It was. So long as the demon light infects the ice and the shrines within, they will continue to come,” the elder beast said, stroking his whiskers.
+
+“Your works are potent,” the younger one said, eyeing them. Ling Qi’s gown was finished repairing, but the plates of Gan Guangli’s bracers were still slowly regenerating.
+
+“Our lady has access to many potent talismans,” Ling Qi said blandly. “Of course, we would be willing to aid you, as good neighbors should.”
+
+“We know the ways of the Great Work and could repair the Starlight Labyrinth if protected. Ending such poisonous infestations would be most neighborly for us both,” the old beast proposed opportunistically, dipping his head.
+
+“I see. You won’t object if we visit for further talks then?” Ling Qi asked.
+
+They didn’t.
+
+All things considered, it had been a very successful trip in Ling Qi’s view. While she wasn’t looking forward to telling Renxiang that there was yet another infected tumor of alien qi in their land, such was the life of a new baroness.
+
+Probably. It wasn’t just her, right?
+
+***
+
+The sharp bitter tang of salt in the air was viscerally unpleasant, but at the same time, the scent served as a harsh focus to the mind. The dry, dark qi of the little saltwater pool and the subtle rustle of the fungal blooms made for a fine background to her meditations.
+
+Since neither her liege nor Gan Guangli and Xia Lin had any use for the Saline Grotto, she had begun to make the site hers. The lessons learned with Zhengui on gardening were only of partial use, especially since this place was so out of sync with his way, but she’d begun to toy with some geomancing arrangements.
+
+Moist rotting wood had been carefully buried in a two layered circle, inducing the growth of blooming caps of darkness saturated fungus marked by growing, jagged salt crystals at its cardinal points. That was the limit of her experimentation for the moment, but it did focus the qi a little. She’d want to speak with an expert geomancer before she meddled further.
+
+But it was a nice, relaxing way to wind down while getting work done.
+
+“You mean while I get work done,” Sixiang groused. Their image sat in midair before her, one leg crossed under the other while one bare foot dangled down. The moon spirit glared at her over an open letter.
+
+“Don’t give me that.” Ling Qi cracked open one eye. “I know you enjoy doing voices for each letter.”
+
+“Hardly the point. This isn’t supposed to be how this bond works!”
+
+Ling Qi snorted. “Are you still so flustered by that solar spirit’s compliment?”
+
+“I oughta dunk your head in the pool,” Sixiang said flatly.
+
+“You’re welcome to try. I didn’t know you were being so diligent about training your physical manifestations,” Ling Qi taunted.
+
+Sixiang grumbled, and the wind kicked up, sending the letter in their hands to smack Ling Qi across the face.
+
+She laughed as she peeled the paper off, scanning the bottom half of the letter again. “It’s good that the tour is going so well for Hanyi.”
+
+“Yeah, it seems the squirt’s been well received. Though the letters that work out to ‘where can I get one’ kinda suck.”
+
+Ling Qi grimaced. It was to be expected. No one was as impolite as Sixiang implied, but there were a lot of probes for the origins of her spirit. In a way, such interest was good. As the southern Empire had been suffering increasingly cold winters, an interest in Hanyi could drive support for their project, but it was also probably easy to twist the narrative around and blame the foreigners too.
+
+“Lucky for me, leaning on ‘clan secrets’ will work out in my favor for once,” Ling Qi said dryly. “Still, reception from the noble and professional contacts in the Foundations region have been very warm.”
+
+The southwestern part of the province which the Wang called home and the foothills that rose from the Meng swamps were the least developed part of the province. Only the capital of the Wang lands and few minor cities were significant on the provincial scale.
+
+“Suppose they’re just glad to have the raiding pushed further back. Some of the letters are a little condescending, but there’s a lot of well meaning advice too.”
+
+Ling Qi hummed an agreement. Many, many of the cultivators in the foundations only had cultivator ancestors going back four or five generations at most. That could drive even more stubborn elitism, but it could also breed camaraderie. Hou Zhuang certainly knew how to judge character.
+
+“Wang Lian’s advice on management of subordinates was quite insightful. I admit, I’ve spent so much time thinking about how to work with other nobles that I’ve neglected to learn how to work with subordinates.”
+
+Ling Qi had some immediate experience from drills with the sect military, but Wang Lian’s advice lay in how to build up a longer term rapport with civilians. Also, she was more proud of that correspondence, considering she’d earned it herself rather than relying on Hou Zhuang’s insight and curation.
+
+“And in even better news, looks like the guy in the Ministry of Commerce that you’ve been talking to hasn’t noticed too much said against you in the more capital-leaning places. Just the usual grumbling about newbies,” Sixiang said, examining the next letter.
+
+It was too soon to say for certain, but Ling Qi felt that despite the presentation, political support for mainstream imperial thought was fairly… squishy on the border. If there was anywhere vulnerable to her allies’ efforts toward change, it was probably in the foothills of the Wall.
+
+“People are definitely more open in the Foundations. If Meng Diu makes her push for investment in the south of the Meng lands and if I can make a good case to the Wang family, it should have good results. … Eventually.” She sighed.
+
+There was a rustle of cloth behind her.
+
+“It’s very polite of you to not startle me again,” Ling Qi observed.
+
+“It is wise of you to maintain your perceptions even at rest.”
+
+Ling Qi shivered as she felt a spindly hand close around the wisp of light left hovering near the ceiling of the grotto, pulling it down. Through the wisp, she saw a pale and androgynous face.
+
+Sixiang looked back and forth worriedly, apparently blind to what she saw. “Who are you…?”
+
+Ling Qi turned her head to peer at the thin, gangly figure crouched like a great insect over the saltwater pool at the same time that her view from the wisp turned this way and that under Shu Yue’s examination. “It’s Shu Yue, Sixiang. Don’t worry… too much.”
+
+“You have mastered formlessness, but there are steps beyond even that. Each person is a world unto themselves. One skilled in the silent art needs only to decide which worlds they exist within,” Shu Yue explained softly, a whisper spoken into her wisp, before too thin fingers loosened, and Ling Qi jerked the sensory node back up to the ceiling out of reflex.
+
+Sixiang twitched, their eyes widening as they spun around in midair, focusing on the older cultivator as they processed Ling Qi’s senses. “... You’re a creep. You know that?”
+
+“Yes,” agreed Shu Yue blandly. “Interesting. Most do not let their spirits so deeply share their mind. A source of vulnerability, but a good defense as well. That will not be expected.”
+
+Ling Qi glanced at Sixiang, who was still squinting, their qi feeling around the room in pulses and passing through Shu Yue as if they were not there, even as they stood, pacing around the pool toward Ling Qi. Sixiang’s effort to detect them adjusted a fraction of a second after each step.
+
+Ling Qi stood as well, offering a bow of respect. “There is no need for me to be alone anymore.”
+
+Shu Yue stopped, head tilting at an angle that should have strained or even broken their neck. “No, I suppose there is not. I have inspected this ‘prison.’”
+
+“Is it an immediate danger?” Ling Qi asked.
+
+“Given another century or further interference from the cloud tribes? Yes,” said the spirit-like cultivator, straightening into a more human posture. Their dark eyes remained fixed on her face. “But barring that, I have determined that it is a problem within your abilities to resolve.”
+
+“Then we will do so,” Ling Qi said shortly, trying not to show how unsettled she felt by Shu Yue’s inspection.
+
+“You will,” Shu Yue confirmed. Ling Qi saw Sixiang twitch, though she saw not a single ripple of qi. It seemed Shu Yue had stopped playing their game. “What is it you are doing here?”
+
+Ling Qi almost asked if they did not already know, but she understood the intent of the question. “I am cultivating my senses, elder.”
+
+“So you are,” they said thoughtfully. “You trust eyes gifted to you from the land of poisons and lakes? Trust enough to take them into your body?”
+
+Ling QI dipped her head, acknowledging the continuation of the metaphor. “No, I trust these eyes, freely given by a father. I am not yet… free enough to cultivate my own.”
+
+“Curious formulation,” said Shu Yue. A similar flicker step movement as Ling Qi’s, as if the world were blinking and missing steps, carried them to stand over Ling Qi. “You think you're unfree?”
+
+Ling Qi frowned, crafting her response, even as Sixiang’s manifestation rippled and vanished, reappearing over her shoulders. “Only in that my abilities don’t match my responsibilities. I can still only be in one place at a time. I can still only move so fast. It’s not enough.”
+
+“It will never be enough,” Shu Yue cautioned.
+
+Ling Qi frowned, rubbing her arm where it had been broken. “If I can’t break at least a few rules, I don’t think I can be said to walk the path of cultivation.”
+
+The thin lips of that pale face curled up into a too wide grin with nothing but darkness behind them. “A good conviction. What rule are you breaking?”
+
+“I am not sure yet,” Ling Qi admitted. “I am not alone, but I can’t care for everyone. Maybe I can listen though, and pass words along to those who can.”
+
+It was a concept she had been thinking about in her meditations on community, her place in it, and the cold that lived inside of it. Would it have made a difference if outside eyes fell on Tonghou? Once, she would have said no, but now, she would say that it depended on which eyes.
+
+“And what do these words say?” Shu Yue asked.
+
+“That the south is neglected. They form a community among themselves because Xiangmen and the Labyrinth City are both far away. The Wang clan works tirelessly, but in the end, the future dreamt by the Builder is far away. Eyes are looking to my lady and I because we stand to make the province care.”
+
+Wariness and dismissal were still thick on the ground. They were too young, and their accomplishments too few. But they dangled a tantalizing promise that the raiding could not just be pushed away, but that it could stop. And so, there were those who reached out, the hopeful, the ambitious, and the grasping alike.
+
+Shu Yue bowed their head, black hair spilling over their shoulders. “Good. All who seek change, who seek rule, must…”
+
+“Build the Foundations,” Ling Qi finished lightly.
+
+Sixiang groaned.
+
+The older cultivator paused, staring at them. Ling Qi felt the faint tickle of sweat springing up on her forehead. But Shu Yue only gave a dry, rasping cough of laughter. “Yes. Ling Qi, know that I have established myself. In the future, I will be available to make good on my words. You walk a different path than I, but I still have insights to offer you.”
+
+Ling Qi bowed deeply, any hint of her slightly cheeky smile disappearing. “Honored Elder.”
+
+They were silent for a moment, tapping their fingers together. “We may explore the depths of the lonely street, the darkness of faces turned away. These are the silent arts. There are also the mysteries of separation, of space and motion, the shadow and the breeze. And… there are the mysteries of sight, the eye of grudges. These are what I deem you ready for.”
+
+“You will only teach one?” Ling Qi asked carefully.
+
+“When the lesson is finished, I will evaluate where you stand.”

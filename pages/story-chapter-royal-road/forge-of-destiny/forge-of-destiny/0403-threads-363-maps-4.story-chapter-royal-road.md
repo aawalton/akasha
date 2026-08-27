@@ -1,0 +1,123 @@
+---
+id: b1a3217b-c2da-5e60-860a-b0c6a7e1348d
+page-type-slug: story-chapter-royal-road
+title: "Threads 363-Maps 4"
+slug: 0403-threads-363-maps-4
+partOf: forge-of-destiny
+position: 403
+ownLength: 2326
+unit: words
+publishedAt: 2024-02-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1524983/threads-363-maps-4"
+royalRoadId: "1524983"
+---
+
+"Perhaps!" Ling Qi raised her voice in a gap where she could manage without overriding anyone else. "I was misunderstood. Might it be possible for White Sky-affiliated tribes specifically to make use of peaks along the edge of our region? I feel this would be beneficial. It provides the Polar Nation another benefit to offer tribes. It provides us security. Guaranteed tribes would be incentivized to keep their less trustworthy fellows out of this territory. We might even provide a mechanism by which they might report hostile movements to us."
+
+"We come back to the issue of identification then," Cao Chun said. "How do we discern which barbarian is a vassal and which is a raider before it is too late?"
+
+"Something for our experts to discern. Surely the craftsmen of your empire and our own nation may come up with a satisfactory arrangement?" Jaromila asked.
+
+"There are ways to mark things and people which are not easily falsified." The gravely accented voice of one of the White Sky experts spoke up. "But the more sure, the more invasive."
+
+"There is a limit to what my people will accept," Ilsur said flatly.
+
+Cao Chun opened his mouth, closed it, and then opened it again, looking as if he had bitten into something sour. "There is a limit to the methods the empire will employ on this."
+
+Wang Lian considered Ling Qi across the table as people bickered back and forth. Ling Qi bowed her head a little, silently asking for support.
+
+"It seems to me,” Wang Lian mused, “that we have a good opportunity to test this. It will be many years before there are civilians at the border, or even near it. The ones residing in these valleys and along these roads will be soldiers, professional work crews, and those unfortunates sentenced to hard labor for their crimes. A small band of peaks may be used then. I know that the mountains from this vale over to this pass are considered good lands among the cloud tribes as they can support many herds."
+
+Several noble representatives shot Wang Lian surprised looks as she traced a region on the map, the area where the headwaters of the river Jing flowed. It was the primary water way of the Emerald Seas.
+
+Ilsur looked her up and down, wariness on his features. "It is. You propose a… trial then. Testing our ability to keep our word?"
+
+"Easy to promise what lies across the province from you," Luo Jie said.
+
+"The Wang will accept moving the western claim line north in exchange for moving the eastern line south, filling out the headwaters. Would this be acceptable?"
+
+"It may be," Khadne said slowly. "The eastern peoples have little interest in the mountains, but the west…"
+
+"The Twisted Pines would be amenable to this," Dzintara said. "However, if we speak of neutral areas and divisions, the White Sky would be more comfortable if there were to be a band leading this embassy which is not fully administered by either of us. Shared fortifications or none, as a sign of trust, that we may both come to this place in safety."
+
+"Implying that you would not be safe under our security," Cao Chun scoffed.
+
+"Shall you walk along a road guarded by our runestones alone?" Dzintara retorted. "Do not lie. You would, as you people say, 'spit blood' at the notion."
+
+"An arrangement such as is had here with your stones guarding the south and our formations engineering guarding the north is more than sufficient."
+
+"This is straying. Return to this notion of allowing a region where tribes may operate," Xia Ren said harshly.
+
+Dzintara glanced back at the gnarled tree-woman standing behind them and grimaced. "Yes. This matter should be handled first. If we are guaranteed that we will be responsible for only sworn tribes, I do not object. it is not dissimilar from our own oaths, so the infrastructure should be applicable here…"
+
+"No. Not you. Explain your thinking."
+
+Ah, Ling Qi really did not like being the center of the general's attention again.
+
+"Establishing infrastructure and methods for communication greatly benefits our people. The complaint is that tribes move too much to keep their deals, no? I have been told that the cloud tribes compete just as fiercely with each other as they do us. Establishing that certain privileged tribes may access good grazing territory unmolested if they are willing to abide peaceably with us incentivizes cooperation. We have tried simple conquest and colonization for countless centuries to little effect. A new approach must be attempted."
+
+She hated to lay it out so baldly like that—it was impolitic, to say the least—but there was no squirming under the general's eyes. The woman would merely call out any half-truths out of politeness. There was also the matter that the Twelve Stars Confederation, so far as she knew, operated out of the east. She was sure Wang Lian knew, and that was why Luo Jie had not objected too much.
+
+"That is the reason I am here at all. You treat us as one, but we are not." Ilsur raised his chin up defiantly as the general's gaze fell on him, even as sweat broke out on his brow. "I am not so foolish as to think you lowlanders are being kind. You wish to drive us out or browbeat the tribes that will cling to every tenet of old ways unto death? That is the way of life. Leaders fall. Tribes merge and split."
+
+"If I may, the river Jing’s headwaters will be a highly patrolled region regardless, given its spiritual and material importance. It is suitable for a trial attempt," Xia Lin supported. "It will also serve to stress test the dispute resolution panel. And it is not impossible for tribes to come together, as our own history shows."
+
+The Xia had been a hill tribe once until they, and two other surviving tribes, had turned on their neighbors during the Xi's conquest in exchange for leniency. It was a risky point to bring up to the woman who had purged those old practices and turned the tribe into a fully integrated imperial clan.
+
+"A trial then. I will accept this, in light of other negotiations," Xia Ren said after a long moment.
+
+"If we allow that there will be a significant buffer between us, your claims of the lower elevations are more palatable," Khadne said. "This is especially so if there is an armistice zone leading here… However, that does bring up technique integration. It is a miracle that this hall turned out as well as it did. If we are to work together on further projects, more substantial sharing of knowledge will be necessary."
+
+"I do not see why it must," Cao Chun said irritably. "Sharing geomantic principles, enough to avoid interference when using the same leylines, is enough. What we have here is crude but sufficient for what it is."
+
+"I dislike being satisfied with crude. Better fortification is always desirable," Wang Lian disagreed. "It saves us time if we share public knowledge fully. I speak only of the basics in every sect and clan's lowest archives, the information that even the meanest servant clan can acquire."
+
+"That may be palatable," Cao Chun grumbled.
+
+"I might propose that individual experts could receive dispensation to share more advanced work when collaborating under strict oaths of secrecy between each other," Jaromila cut in smoothly. "After all, from what I understand of your laws, the disposal of such knowledge is 'clan' business, is it not?"
+
+"This is true," Luo Jie said. "There is something to be said for allowing the discretion of the lords who will govern on these matters."
+
+"It is the right of the honorable and noble clans of the Celestial Empire to dispose of their secrets as they please," Cao Chun allowed grudgingly. "I advise against hastiness."
+
+It was probably about time for Ling Qi to weigh in again. She glanced at Cai Renxiang, who sat silently with her hands folded in her lap, allowing the discussion to go on unhindered. Renxiang gave her a small nod. Discretion, then, within the bounds they had discussed. Using the clans’ desire to have degrees of independence, as was their traditional right, was the best chance of achieving an information exchange more than the minimum here. It was still a risky play. While Cao Chun seemed to be growing less hostile to the summit, that thawing could easily reverse if she didn't handle this well.
+
+"It is my belief, and the Cai's belief, that granting discretion to the clans in the matters of infrastructure is for the best. Though the authority of Xiangmen covers places such as this, the Cai clan does not intend to hold much of the territory in this region in perpetuity," Ling Qi raised.
+
+"It is ever the sign of the tyrant that one must command every vagary and minutiae of local affairs, and neither my mother nor I wish to do so here, beyond the necessary foundation building. Furthermore, I believe that the showing of our skills and experts can only bring our nations to a better understanding and friendship," Cai Reniang continued right off of her. "And the Cai trust the opinions of our esteemed experts in fortification and settlement building, the Wang clan, if they believe further sharing is necessary and good."
+
+Wang Lian harrumphed. "Do not mistake me too much, Lady Cai, Baroness Ling. I am interested to see where this goes and merely choose not to underestimate our guests. Nor do they choose to underestimate me."
+
+"I would not put it as a matter of estimation, merely acknowledging that there are great experts on these fields on every side," Jaromila said smoothly. "If we speak clearly to one another instead of hiding behind our hands, our projects can only improve."
+
+It was amusing to watch everyone dance around the fact that merely by working in close proximity, secrets would come out. Even the provinces had their spies with each other.
+
+"Let it be known that I and the throne alike advise against this," Cao Chun said evenly.
+
+He met her eyes with a narrowed gaze, and she lowered her head, but did not break gaze with him. Allow me to explain later, she tried to convey. Do not press here right now. Despite how thick the air was with clashing intents, she thought he understood. The older man pursed his lips and said nothing further, instead drumming his fingers irritably on the desk. She thanked her patrons that she had built enough trust for him to accept that.
+
+The Ministry of Integrity did not have any hard power to stop this exchange, but they could certainly make her life difficult if they chose. She hoped her explanation during the recess would mollify Cao Chun.
+
+"The White Plumes do not fully approve of this initiative," Xia Ren intoned. "However, I defer to the Wang in this regard, and I expect their continued, utmost dedication to security."
+
+"Individual military hardpoints should be left to one polity or the other at this moment," Jaromila said diplomatically, but Ling Qi could not help but notice the way she spoke toward the general as one would a snarling, foam-flecked wolf. Her aura had been drawn around her like a suit of armor. "Perhaps we might plan the construction of at least a pair of gates along the primary passes. Here and here? One can be built by the Celestial Empire, and one by the White Sky on either side of neutral ground between."
+
+"Useful. I approve. Such construction serves administration, even in peace," Luo Jie agreed, and as talk turned to similar, smaller matters.
+
+Some of the tension that had been built in the room drained.
+
+"And what of your claims? You have spoken little of what your White Sky desires in these mountains," one of the others on their side—Ling Qi thought he was a representative of the Jia and the Rushing Cloud Sect—said.
+
+"We in the west will not accept anything further back than this line of peaks here where the iron blood glacier rests." Dzintara flicked her pointed finger, the iron nail sparking as a line of metallic light was swiped across the map.
+
+"I have been informed by my comrades in the east that they wish for this valley here as a location for an outpost," Khadne said.
+
+"And in the center,” Jaromila finished, “perhaps a wider zone around the center of the peaks. I do, of course, propose that neither party move significant military elements into the neutral zone."
+
+Ling Qi glanced at the map. The White Sky was being a little aggressive, most likely in response to their initial proposal. She understood that. Like the Wang, they needed people more than land, but all the same, they couldn’t be too retiring in the face of imperial claims.
+
+Ilsur's expression was stony, and she could tell he was restraining himself. No matter how committed he was to this union with the White Sky, it wasn't easy being in a conversation like this. She allowed herself to fade into the background, letting Gan Guangli and Cai Renxiang speak more as technical discussions of fortifications and paths for road networks were debated. This was premature in her opinion, but it was a conversation that needed to happen, and reaching some preliminary agreement would satisfy several of the parties involved.
+
+There was some argument, and the lines on the map moved, shifting up and down, a rippling, uneven line following chains of valleys and waterways on either side. A portion of land, wide in the middle and tapering in the west, was claimed by no one as a buffer region. It was wider in the east, simply because that way lay the Golden Fields and the Grave and the land of the Twelve Stars.
+
+Finally, recess came, and she caught Cao Chun's eye.

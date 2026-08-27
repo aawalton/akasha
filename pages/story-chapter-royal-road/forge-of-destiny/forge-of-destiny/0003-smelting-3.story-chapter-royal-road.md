@@ -1,0 +1,93 @@
+---
+id: 2c45c99d-da21-5874-9c85-aa6e589bdf88
+page-type-slug: story-chapter-royal-road
+title: "Smelting 3"
+slug: 0003-smelting-3
+partOf: forge-of-destiny
+position: 3
+ownLength: 3226
+unit: words
+publishedAt: 2018-10-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/302256/smelting-3"
+royalRoadId: "302256"
+---
+
+The glittering red stones were almost entrancing to look at, Ling Qi thought. Each one was the size of her thumb and had an odd warmth that was very pleasant. She stowed them away almost immediately.
+
+Having what felt like such valuable precious stones on her person made her nervous. She really wished the gown she had been given had hidden pockets to it. Still, the Elder had forbidden all violence for the next three months, and while that normally wouldn’t be enough to make her relax, in this case, she had a feeling that it would actually be enforced.Filing outside, their group was quickly joined by the disciples from the other two lecture halls. The disciples moved toward the two mountain paths that lay behind the main hall. Each path was flanked by a pair of large stone pillars carved with many symbols centered around a single large character. The right hand set had the character for man; the left hand set had the character for woman. The meaning was rather obvious, and it seemed that no one had a desire to test the elders’ words today.Walking between the pillars gave Ling Qi an odd tingling sensation, making the hairs on the back of her neck stand up. It was unpleasantly like being watched, but thankfully faded as they moved further from the pillars. For now, she walked silently somewhere in the middle of the crowd of quietly chattering girls, clutching the strap of her satchel tightly and feeling terribly out of place. There were a bit over a hundred people in the group here. That meant that she had quite a few people to compete with if the implications of Elder Jiao’s statements were true.
+
+She recognized a handful of the girls from her own lecture hall, mostly the two she had considered sitting with. The red haired girl strolled along at the head of the group, hands behind her head and looking for all the world like she was leading them despite simply walking in the same direction. The white haired girl was noticeable simply because of the ‘bubble’ of clear space around her as she walked with her head down toward the rear of the group. Many of the other girls had grouped into little chattering cliques already.
+
+Reaching the crest of the hill, Ling Qi caught her first glimpse of the residences. Built at the bottom of a small ravine in the mountainside, the homes were set out in a neat grid with wide clean streets between them. At the far end was a veritable mansion, like something she would glimpse over the wall that separated the inner city from the outer back home. Smaller, but still nearly palatial homes with flowering gardens came next. Then came the stone homes that lacked gardens but looked like something a successful craftsman might own. Past that, there were tiny round hovels with straw roofs, barely big enough for two people.Ling Qi peered over the residences with a determined look. To be frank, having a home at all was a luxury beyond her means so the quality didn’t necessarily concern her. However, given Elder Jiao’s words that she would likely end up rooming with someone, it meant there simply weren’t enough free homes.
+
+Ling Qi took a calming breath as they began to make their way down the steep path that led to the residences. She was going to be in danger here once the brief period of enforced nonviolence ended. She would need to make an effort to keep herself safe.
+
+One way was to gain strength herself, which was strange to think of as it had never really been an option before. A second method was following her driver’s advice and finding ‘someone to watch her back’. Han Jian… well, while she hoped he would turn out to be genuine, even if he was only pitying her, he couldn’t help her here on the girl’s side.She really wasn’t good at this sort of thing. She had never joined any of the street gangs at home; she had no illusions about what her ‘role’ in such a group would have been. If she wanted that, she would have just stayed with Mother and at least made a living out of it.
+
+At the same time, she didn’t really have anything to offer at the moment though. Casting a surreptitious glance around at the other girls, she found it doubtful that she would be able to involve herself in any of their cliques. There were a few who seemed like they came from less wealthy backgrounds, including a strange girl with dirty smudges on her and wearing some kind of odd fluffy belt of fur around her waist. They wouldn’t be able to help keep her safe though because they had the same problem of having nothing to offer yet.So her gaze went back to the two girls she had shared a lecture hall with. The white haired girl was a better choice to approach first she thought. A look around at the others showed that she was ostracized for some reason whereas the distance kept by the others around the red headed girl seemed more… respectful? Fearful might be a better word.
+
+Another glance at the white haired girl solidified her resolve to approach. She had no real position so any approach was a gamble. She may as well try for someone who clearly had some kind of power but who wouldn’t have other options.... And honestly she felt a little bad watching the girl trudge along with her head down. She could recognize the defensiveness in the set of her shoulders.
+
+Ling Qi began to drift closer to the girl, sidling through the gaps until she reached the empty space around the other girl. As she ‘broke’ the bubble, she noticed several of the girls nearby go quiet and one or two look her way.Ignoring the nervous feeling in the pit of her stomach, she pressed on until the girl she was approaching noticed her presence and looked up. She got a better look at the other girl’s face then.
+
+She was unnaturally pale and had the fine features of a porcelain doll framed by silky white hair that fell down to the middle of her back. However, her thin lips were unpainted and bloodless, barely standing out from the rest of her skin, nor did she appear to be wearing any other cosmetics.Mostly, it was her eyes that drew Ling Qi’s attention. The slit pupils and wide golden irises were unnerving, but despite the thrill of terror when their eyes met, Ling Qi did not look away or retreat as the fear made her want to do. It helped that the top of the girl’s head didn’t even reach Ling’s Qi’s shoulder. Instead, she nodded to the other girl and fell in beside her a few polite steps away.
+
+“Hello, I am Ling Qi.” Her voice was stiffer than she would have liked. Several beats of awkward silence followed as the white-haired girl stared at her expressionlessly without blinking. It was very off putting.
+
+When the girl didn’t respond, she asked, “May I have your name?”That seemed to prompt the other girl to blink thankfully, though her expression was unchanged. It was difficult to read her, but she didn’t think the other girl was wary of her so much as… nonplussed at her presence.
+
+“Bai Meizhen of the Thousand Lakes province,” the girl responded by rotely. “Why did you not finish introducing yourself?”Ling Qi glanced to the side, aware that she and the other girl were being surreptitiously watched. “I did,” she responded awkwardly. “I mean, I suppose I am from the Emerald Seas province,” she added hastily.
+
+It seemed like trying to maintain formal speech patterns really was a lost cause. She doubted she could deceive the girl for any length of time anyway given her lack of knowledge about noble families. Was there a noble Ling clan?Her response ended in another painfully awkward silence, and Ling Qi shifted from foot to foot as the other girl stared at her. She really wished the other girl would blink more often.
+
+Finally, Bai Meizhen spoke again, a hint of confusion coloring her mostly toneless voice. “I… see. What is it you require then? I am afraid I have not been granted allowance to hire a maidservant.”Ling Qi could not help but grit her teeth at the dismissal and the soft titter she caught from one of the closer girls… but she managed to calm herself. She had been insulted before and after the initial wave of irritation, she could see that there was no malice in the other girl’s words. It was more like she was just… completely lost on why else Ling Qi would be talking to her. So she pushed down her anger and put on a smile. She would just be blunt then.
+
+“I was actually thinking we could be friends. We’re both cultivators, right?” Cultivation was supposed to supersede bloodline and such, even if it seemed that might not be how it worked in practice. “You seem like you could use a friend, and we have to pair off for housing anyway.”The odd girl tilted her head to the side slightly, her pace slowing as she observed Ling Qi with an odd intensity. Then her eyes shifted to the side as she frowned, pursing her lips as if listening to something. No one was talking to them as far as Ling Qi could tell.
+
+“I suppose that is acceptable,” Bai Meizhen responded after a moment longer. She didn’t seem particularly pleased or displeased with Ling Qi’s assertion of friendship, but that might have been the unsettling lack of emotional cues the girl gave.
+
+“I will warn you however. Do not approach me while I sleep. It is likely that you would die.” The white haired girl delivered that line in the same cold, even tone as the rest of her speech.
+
+Ling Qi stared at Bai Meizhen trying to work out if that was meant as a threat, a warning, both or something else entirely. After a moment’s consideration, she forced herself to laugh. “I’ll keep that in mind. That would be pretty unfortunate, wouldn’t it?”The other girl just dipped her head very slightly in acknowledgement. “It would be unpleasant to lose my first friend to something so avoidable,” she responded agreeably.Ling Qi narrowed her eyes at the other girl, trying to work out if she was mocking her, but quickly gave up. Turning her eyes ahead as they resumed walking, she saw that they were a bit over halfway down the path.
+
+“I was thinking we might talk someone else into joining us. Safety in numbers, you know? Would you have a problem with that?”Bai Meizhen seemed to consider that before briefly glancing down at her left arm. “It would likely be difficult to convince another to share a space with me. I do not object in principle though. Did you have someone in mind?”
+
+Ling Qi glanced at the nearby girls, noting with a somewhat heavy heart, the disdainful looks she received in return. Cozying up to Bai Meizhen had earned her some residual dislike. Keeping her voice low so as not to carry, she nodded toward the front of the group. “That girl, the one with red hair, She’s alone too.”For the first time, she saw something like actual emotion surface on Bai Meizhen’s face as her perfect eyebrows drew together in a look of bafflement. “You… wish to share a roof with her?” she asked, sounding somewhat incredulous.
+
+She looked back and forth between Ling Qi and the redhead before something seemed to occur to her and make her consternation disappear. “That is the eldest great-granddaughter of Sun Shao, Sun Liling” she explained patiently, as if to a child.Ling Qi bristled at the condescension, but she was fairly certain that Bai Meizhen meant well by it. She was hardly going to jeopardize her success at this juncture.
+
+“...Who?” she asked as politely as she could.The other girl frowned at her, irritation flashing in her eyes. “The Butcher of the West.” Her frown only deepened at Ling Qi’s lack of recognition. “The Scarlet General. King of the Western Territories.”Well, that wasn’t ominous at all. She was at least aware of the Western Territories. It was a swathe of land on the western border of the Celestial Empire that had been conquered under the reign of the previous Emperor. As far as she knew, it was barely civilized and constantly under siege by barbarians.
+
+“What is someone like that doing here?” Ling Qi asked cautiously. Han Jian was from a far flung province as well, but he wasn’t a direct relation of the province’s ruler either....He wasn’t, right? She might have to start learning more about this kind of thing.
+
+“I do not know. Her presence here is bizarre,” Meizhen replied simply.Ling Qi felt oddly gratified to know her first thought on the matter was not entirely off base. “Still, is there a particular reason not to approach her?” If she were to approach her, she would need to do so soon as the group was nearing the entrance to the residential area.Bai Meizhen shook her head. “Yes,” she replied flatly. “However, I will not stop you if you wish to go to her.” The pale girl gave her a measuring look, and something she couldn’t quite manage to read flashed through Bai Meizhen’s eyes. “You may have a chance, I suppose,” Bai Meizhen added impassively before turning her attention back to the path ahead. “Well, I’m at least going to try and talk her into it,” Ling Qi said stubbornly. She stole another look at her companion, but the girl just nodded, her expression blank again. Ling Qi dipped her head to the other girl and strode forward, picking up her pace to move through the crowd.It was a bit harder than before as she found herself blocked by seemingly oblivious girls, even jostled once or twice ‘accidentally’. She refused to rise to such bait for the moment. More uncomfortable was the way she could feel Bai Meizhen’s unwavering gaze on her back. Still, they weren’t walking particularly fast so even with such distractions, it didn’t take more than a minute to get up to the front of the group. She soon broke through the crowd, and after a moment’s hesitation, she continued forward toward the red haired girl.“You can stop right there.” Sun Liling’s voice brought her up short several steps away. The tanned girl had a pronounced rough accent, though thankfully, it didn’t make her words too difficult to understand.
+
+“Whaddaya want?” The other girl hadn’t even looked at her yet.Up close, Ling Qi could see the corded muscle in the other girl’s bare arms and the torn cloth where the redhead had ripped off the sleeves of her uniform. The girl was taller than most, only a few centimeters shorter than Ling Qi.
+
+More importantly, Ling Qi got a better look at the way the girl moved, and it reminded her of the most dangerous people on the streets back home, the murderers and gang enforcers. Sun Liling had a grace that even they lacked however.
+
+“I was going to ask if you had decided who you were pairing up with for housing,” Ling Qi responded tentatively.Finally, Sun Liling deigned to turn her head slightly, not lowering the arms held behind her head. The pose made it difficult to ignore the fabric strained to near breaking across across her chest. Ling Qi managed it with only a minor spike of irritation, returning her attention to the other girl’s face.
+
+It was disturbing to note that the other girl’s eyes were the color of freshly spilt blood. The most attention grabbing feature was the three, thin white lines that traced down across her nose and lips. It looked like something had raked it’s claws down her face.
+
+“The snake blow you off then?” She asked abruptly.The other girl was making no effort to keep her voice down, and Ling Qi just managed not to squirm at the silence from the girls closest to them.
+
+“I… no.” She still stumbled over the words though. “How did you…”“I wanted to see what had the geese back there squawking,” Sun Liling drawled lazily. “I guess I gotta give you points for ambition if nothing else.” Ling Qi felt uncomfortable at the other girl’s intent study of her.
+
+“You don’t look completely soft. You might be worth something if you work at it.”Indignant, Ling Qi’s next words slipped out before she could think about it. “Don’t say that as if it’s praise,” she snapped.
+
+“I was...” Ling Qi’s eyes flew wide open wide as a scar nicked fist suddenly stopped a hair’s breadth from her nose, the blowback enough to make Ling Qi’s flyaway strands flutter from her face. The others behind them stopped dead in their tracks as well. She hadn’t even seen Sun Liling move into position. Sun Liling’s crimson eyes were hard and cold.
+
+Then, Sun Liling withdrew her fist and chuckled. “Made ya flinch,” she said in a voice laced with amusement. “But seriously, if you survive the inevitable backstab from the snake, I’ll still be around.”As the girl turned away and kept walking, Ling Qi glared at her back, hating the flush of embarrassment that she knew was rising on her face. This time, she managed to control herself. Her heart was still pounding in her ears from the fear she had felt in that bare second when she had thought the other girl was going to strike her. She wasn’t an experienced fighter, but… she was quite certain she would be in no condition to walk anywhere if the girl had followed through.Ling Qi fell back through the crowd, ignoring the looks she was getting and returned to Bai Meizhen’s side. There was a trace of… concern, maybe, on the pale girl’s face before vanishing.
+
+“Are you well?” the other girl asked evenly.“Fine,” Ling Qi responded tersely. With an effort, she fought down the indignation and anger she felt and let out a long breath. There was no point in it right now.
+
+“So,” she began with false cheer, “what kind of residence do you want to take?”Bai Meizhen stared at her unblinking before dipping her head slightly, apparently acknowledging Ling Qi’s desire not to talk about it.
+
+“I do not feel the need to enter conflict over the more luxurious housing. However, the outer hovels are unacceptable.”
+
+At least that was one thing she didn’t have to worry about. Ling Qi would have been happy enough to take one of the smallest homes if she were alone, but given the other girl’s words regarding the consequences of disturbing her rest, Ling Qi wouldn’t want to risk being in such close proximity when sleeping.
+
+“Somewhere in the second block then? That’s more than enough for me,” she replied, keeping her voice cheerful.
+
+Ling Qi had suffered far worse than a threatened fist, and she had been foolish to let her emotions get the better of her. She couldn’t allow herself to forget the caution that had kept her alive for the past four years, no matter where she was now.

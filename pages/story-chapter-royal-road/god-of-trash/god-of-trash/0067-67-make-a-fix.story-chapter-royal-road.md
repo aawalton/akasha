@@ -1,0 +1,113 @@
+---
+id: ee41c758-2044-5253-a3df-87325fa51d69
+page-type-slug: story-chapter-royal-road
+title: "67. Make a Fix"
+slug: 0067-67-make-a-fix
+partOf: god-of-trash
+position: 67
+ownLength: 2479
+unit: words
+publishedAt: 2025-05-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2260712/67-make-a-fix"
+royalRoadId: "2260712"
+---
+
+Without a good place to put the bowl inside the furnace, he simply placed it into the ashes directly. The metal slowly melted down. With the help of Trash Intent, Rhys kept the furnace from cracking, or the pot within it from breaking down under the immense heat. It stretched the limits of his skill, but he welcomed the training. The more skilled he became with Trash Intent, the more he could use it for, and consequently, the more powerful it became. He squinted his eyes against the headache and pressed on. A little more. A little more…
+
+“Dug the pit, Boss, what next?”
+
+“Fill it with sand, then press the cauldron into it,” Rhys said, distractedly. “The non-broken side first, then lift it up and press the broken side into the impression, perfectly lining it up.”
+
+“’Kay,” Bast said.
+
+The metal glowed red-hot, but it wasn’t melting. The flames weren’t hot enough. Rhys rubbed his forehead, struggling to think against the pain of maintaining two Trash Intents at the same time. What… what was it? I thought of this problem earlier, I know I did, but—
+
+His eyes flashed. Rhys raised his hand and called a specific piece of trash to him. The additional activation of another skill, this time Trash Manipulation, spiked his headache, but he managed to hold all three skills, thanks to having reached Tier 2 and having the correspondingly upgraded mental and magical capacities. The trash tore out of the pile and landed in his hand.
+
+Bast looked up, still in the middle of setting the cauldron into the sand, and squinted. “You about to play us some music?”
+
+“Gods, I hope not,” Rhys muttered. He looked at the accordion in his hand, turning it over to get a better feel for how badly damaged it was. It was mostly intact, save a gaping hole on one side of the bellows, and gunk had accumulated over the keys and the internal mechanisms. It meant that air gushed out, and some of the keys would produce no sound at all, but that worked for him. In fact, better if none of the keys produced sound.
+
+Bracing one side of the accordion against his hip, he pointed the gaping hole at the furnace and gave the instrument a good squeeze. Air gushed out, and the flames burned brighter, even if the metal momentarily darkened. Since Rhys wasn’t using Trash Manipulation any more, he used that small amount of mental and magical space to call out to the impurities in the trash and pull them into himself, cleaning the resulting materials so they burned hotter and more efficiently. He worked the bellows again, and to his surprise, the flames dimmed slightly. Rhys blinked. Huh? It was just as dark as it had been before he cleansed the impurities, almost as if new impurities had appeared. Once more, he called out to the impurities in the trash, and to his surprise, there were new impurities to be found. Not in the trash, but on it.
+
+His eyes widened. The air! Of course the air was impure. Bast was just commenting about the scent. What was scent, but thousands of microscopic impure particles floating on the air? He’d been blind until now, blind to the impurities floating all around him all the time! But now that his eyes had been opened, how could he be so remiss as to go without absorbing them? Rhys took a deep breath, operating his mana and pulling in toward his core as furiously as he could. It was the standard method to absorb mana, but today, his focus wasn’t on mana, but on the air itself. The breathing was usually secondary to the mana absorption, merely a method to focus the mind and direct mana in the right direction, but in this moment, it was primary. He put all his effort into breathing, into sucking in as much air as possible. His lungs inflated. He drew the air deep, into his stomach, filling with air from the lowest part of his abdomen upward. As he sucked the air in, he called impurities as well, pulling the stench in with as much power as he could. The air tasted horrible, absolutely putrid, but that was a good sign. That meant he was successful.
+
+Within his body, he aimed impurities into his core, marshalling them into the next trash star. While the impurities rushed toward him, he worked his makeshift bellows and pushed the newly-cleaned air into the fire. He breathed out, letting out clean air in the bellows’ direction at the same time.
+
+He hadn’t cleaned all the air. Not even close. There was a small bubble of clean air around him, and that air, he sent into the fire when the flames needed more oxygen, but it quickly ran out. Nature abhorred a vacuum, and it was true for this as for anything else. The lack of impurities in the air around Rhys simply meant that the impure, denser air spread out, encroaching into the clean air and shoving it away.
+
+Not a problem. Rhys breathed deep again. One breath at a time, over and over, drawing the trash air into himself, cleansing the impurities, then expelling clean air for the fire. The fire burned hot. The furnace and the bowl both shuddered, trying to break free of his intent and crack open. Rhys clenched down on them, refusing. They couldn’t break now. He was so close. The metal was melting, slowly softening into itself like butter in the microwave.
+
+“Do you want me to do anything with the cauldron?” Bast asked, thumbing over his shoulder at it.
+
+“Is the hole face-down in the impression?” Rhys returned.
+
+“Yep.”
+
+“Then we’re good.” Rhys took another deep breath, drawing the impurities into him.
+
+Bast watched him, quirking a brow in mild concern. “You know, I appreciate the stink going down, but you don’t have to do that. I might complain, but I’m used to the stench of garbage. You know how I grew up.”
+
+Rhys shook his head, still breathing in. He purified all the air, then breathed it out again. “No, no, this isn’t for you. It’s for the metal. I’m cleaning it so the metal doesn’t get impurities in it.”
+
+“Got it. I’m not that important, huh,” Bast said, sitting back and nodding.
+
+“You want me to clean the air for you or not?” Rhys shot back.
+
+He chuckled and waved his hand. “Nah. It’s refreshing, having someone not give a shit about me for once.”
+
+“I can not give a lot of shits. In fact, there’s an infinite number of things I can give no shits about.”
+
+“That’s what I love about you, Rhys. All the shits you don’t give.”
+
+Rhys frowned. He looked at Bast. “When you say it like that, it sounds like I have constipation.”
+
+“Oh, you finally figured it out,” Bast replied, chuckling under his breath.
+
+Rhys shook his head. A pang of pain jolted into his skull, and he turned back to the task at hand rather than trade banter with Bast. As much as he enjoyed the chat, he was going to lose the furnace and the pot all at once if he kept distracting himself.
+
+The metal melted at last. He abandoned the accordion and picked up a pair of tongs he’d found somewhere in the trash, snatching up the bowl out of the heat. He released his intent from the furnace, and the structure instantly collapsed, falling into the ashes. Carrying the bowl, he shooed Bast out of the way and rushed to the cauldron—only to stop himself at the last second. The cauldron’s broken edges, the sand, everything had impurities. If he poured it in now, it would always have impurities in the bond, rather than a perfect connection.
+
+There was no time. Still holding the metal, he slapped a hand on the cauldron and pulled all its surface impurities into him. The impurities resisted him, but he simply didn’t let them get away with it. They were impure, trash, and therefore they belonged to him. The black patina lifted off the surface. The gunk in the nooks and crannies of the crack rushed into his skin. His hand blackened, and he simply let it stay black rather than order them into his core; for this split second, it was better to leave them, finish the task at hand, then handle to impurities.
+
+The impurities were gone. The damaged cauldron was cleaner than it had been in years. The time was now. He poured the molten metal into the hole in the cauldron, into the impression of the cauldron’s other side in the sand. The metal cooled rapidly, settling into the gap in quick order. Rhys released his intent on the bowl, and it, too, shattered, raining down tiny bits of molten metal and shards of pottery onto the ground. He instead gripped the still-soft metal and enforced his will onto it. This metal was no longer several different cauldrons; it was now the wall of this cauldron, and it would merge into it.
+
+To his surprise, the metal didn’t resist him at all. The heat had washed away much of its intent, and what little remained was ambivalent to its final form. When it had been metal, it had been reminded of the other times it had been forged. Some pieces remembered being other things before they were a cauldron, while others had only ever been a cauldron, but remembered their time in the deep dark places of the earth, before they had been given form. Their intent had softened with their physical form, and the molten metal was ready to take on new form, new intent.
+
+Interesting. Was this something true of all materials? If he personally worked them the traditional way as well as enforcing his intent onto them, did they become easier to enforce his intent upon? It was something to ponder for later. For now, Rhys simply impressed his vision onto the metal: a sturdy, solid wall, merged so smoothly into the existing cauldron that it was impossible to pick out, a single piece of metal with no gaps or weak points. No, even better: A patch stronger than the original, a fierce shield that repaired the cauldron so ferociously that the cauldron became the weak spot in comparison to the perfectly merged, perfectly forged patch.
+
+The metals shifted according to his will. He wasn’t a master blacksmith, but he didn’t have to be. The metal itself knew what it needed to be. The different metals mingled together, sharing their strength freely amongst themselves. They merged into the cauldron’s broken walls, warming the edges of the cauldron so they could melt it slightly and bond with it. Rhys reached out to the cauldron as well, calling upon its intent. The cauldron wanted to be whole, and he enhanced that intent, reaching out to the metal and connecting it to the cauldron’s intent. The cauldron knew it had been weak there, and it was glad for the reinforcement, for something to finally plug the gaping hole where its weakness had been exploited by some long-forgotten potionmaking. The cauldron’s intent wrapped the metal and told it what to become, how to merge with the cauldron, how to bend and shape to become a piece of the whole rather than a piece in of itself. The molten metal, all-but-intentless and given a vague intent from Rhys, willingly took on the cauldron’s intent and adopted it as its own.
+
+Trash Intent 9 > 10
+
+Moreso than with the skills outside of his path, where levels merely ticked up, Rhys felt as though he’d overcome a barrier in breaking through from level 9 to level 10 of Trash Intent, as if this single level were a more significant advancement than levels 1 to 9 combined. He let out a slow breath, surprised. Was his new comprehension of Trash Intent that significant? But then, this had doubtlessly been a totally new technique of using intent, a complete departure from any previous use of his intent that had opened up new avenues to him. Interesting. Something to keep in mind.
+
+The metal cooled. The inside of the cauldron was as smooth as the day it had been forged, not even a hint of a lip where the hole had been. Rhys stood the cauldron upright. It didn’t look so neat on the other side. His sloppy sand-forging technique meant that the metal on the outside of the cauldron bulged a bit, and had a few scraggly trailings, but it was all visual deficits. He scanned the cauldron with his mana, and found it solid, as solid as any cauldron he’d ever encountered.
+
+Rhys nodded to Bast. “Try it. What do you think?”
+
+Bast laid his hand on the cauldron. His mana spread over it, and his brows shot up. “Wow. I didn’t know you were so good at smithing.”
+
+“I’m not. This was my first attempt.”
+
+Bast stared at him in open shock.
+
+Rhys waved his hand. “Don’t be like that. It’s a shit job I slapped together out of trash. Come on, this is only the start of the grand plan.” He went to put the cauldron in his storage ring, only to get a refusal from the ring. It was too full.
+
+He grimaced. Oh, come on. The storage ring was too small. If he had enough money, he should buy a bigger one. This one was precious, and he wasn’t going to give it up; after all, it was trash. But trash being his path didn’t mean he couldn’t go buy himself a second, better storage ring for convenience.
+
+“Where are we going next, then?”
+
+Rhys pulled the remnants of the beam he’d used in the battle against Ernesto’s students and set it gently to the side. A pile of thin sticks joined it, and then the left half of a woven chair, neatly sliced in two from top to bottom. He tried again, and this time, the cauldron vanished.
+
+Bast stared at him, wide-eyed. He eyed the pile of mysterious objects, then slowly raised his brows at Rhys.
+
+All business, Rhys totally ignored Bast’s reaction. “We’re headed to the merchants. We’ve got ingredients to buy.”
+
+“Back to potion-making? Alchemy is a valuable art, and there’s lots of people who’d pay a killing for a healing potion at the right moment,” Bast guessed.
+
+“You’re right, but no. My plans aren’t so simple. We can fall back to that, but no… my real plans are greater.”
+
+“So what are we going to buy, then? Complicated alchemical ingredients are out, in that case.”
+
+“No. We need complicated alchemical ingredients, too. But most of all, we need something simpler. Baser. Something overlooked until this moment.” Rhys’s eyes glimmered. He smiled. “We’re going to buy potatoes.”

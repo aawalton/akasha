@@ -1,0 +1,183 @@
+---
+id: 464aaccb-2751-51ae-9750-818de0e0a452
+page-type-slug: story-chapter-royal-road
+title: "Threads 100 Descent 2"
+slug: 0123-threads-100-descent-2
+partOf: forge-of-destiny
+position: 123
+ownLength: 2859
+unit: words
+publishedAt: 2021-06-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/706310/threads-100-descent-2"
+royalRoadId: "706310"
+---
+
+Ling Qi considered the room for a moment. There were definitely fault lines in this group. She could have seen that even without her more advanced arts. However, the problems that existed… weren’t really things that could be easily dealt with. Certainly not by her. Rather, by trying to fix them, it was possible that she would just make them worse.
+
+<You should be more confident, but you might be right in this situation. There are still things you can do though,> Sixiang whispered.
+
+They weren’t wrong. Ling Qi’s eyes slid over to Su Ling, whose body language was still closed off and wary. She could be there for her friend, but that alone wasn’t going to help Su Ling get more comfortable with the group.
+
+Ling Qi looked up and caught Liao Zhu’s eye. That could work. She tilted her head toward Su Ling, and Liao Zhu’s eyes crinkled in what she knew to be a smile.
+
+“Congratulations on your breakthrough to bronze,” Ling Qi said, turning to Su Ling.
+
+Around them, people in the room were beginning to move or talk. Bian Ya had turned back to Xuan Shi and looked to be trying a different tack with drawing the boy into conversation. Ji Rong stood up to pace, turning his back to them all.
+
+“Feh, that hardly feels good coming from you,” Su Ling grumbled.
+
+Ling Qi rolled her eyes, recognizing the words for what they were. “Oh, just take the compliment. You don’t have to always be difficult about it.” She peered at Su Ling. Curiously, the girl still only had two tails. She had half-expected her to have grown another one as she did when reaching the second realm.
+
+<Pretty sure the third one only comes later on in the third. That’s how it works for the fox spirits anyway,> Sixiang commented.
+
+Su Ling grumbled. “How can you be so calm about this?”
+
+Ling Qi hummed to herself. “How will being worked up and nervous help?”
+
+Su Ling shot Ling Qi a sour look, and Ling Qi held her hands up defensively.
+
+“I’m just saying, all of this tension isn’t going to help you. It’s definitely dangerous, but we’re cultivators. This is our duty.”
+
+The word felt odd to Ling Qi’s lips. Odder still was that she didn’t feel like she was being facetious. Her mother and sister couldn’t deal with problems like this. She didn’t want to have to look at Mother and tell her that one of her friends was dead or have to look at Biyu and explain that her nanny was gone because the Sect wasn’t doing its job.
+
+To protect what was hers, the people and things around them had to be protected too.
+
+Su Ling gave her a hard look but seemed nonplussed at what she saw. Silence fell between them.
+
+Naturally, this was when Liao Zhu chose to approach. He stood over them, leaning casually on the back of one of the camp chairs. “Junior Sister Ling, it has been too long! You’ve recovered nicely, I hope.”
+
+“I have. Hardly a mark at all,” Ling Qi replied blithely. She was well used to Liao Zhu by now, and his partially open vest was only a little distracting. “It looks as if you are doing better than expected too, Senior Brother Liao.”
+
+“Only an appearance, I am afraid,” he said, his normally bombastic tone a touch more somber. “While my friend is filling in for my arm, they cannot fight. I shall be looking forward to your support, Junior Sister. But I am being rude. I have not met your friend, our esteemed diviner!”
+
+Su Ling regarded the boy warily and glanced at Ling Qi.
+
+“This is Su Ling,” Ling Qi introduced, giving the girl a subtle nudge with her elbow. “Su Ling, this is Senior Brother Liao Zhu. He was my tutor once and my trainer in the Sect’s scout force.”
+
+“I would like to say that I have heard much about you, but my Junior Sister is surprisingly focused on her tasks,” Liao Zhu teased. “She tends to forget about things that are out of her sight.”
+
+Ling Qi scoffed. She was getting better about that.
+
+She felt Sixiang’s hand on her shoulder. <You are.> The spirit left unsaid that she had needed the improvement in the first place.
+
+“That does sound like Ling Qi,” Su Ling replied grudgingly.
+
+“I admit, I am curious as to your methods,” Liao Zhu continued. “I smell a touch of the Bloody Moon about you. My own talents with the lady lie more toward investigation and elimination than precognition. What do you practice? I had thought lunar divination was somewhat hobbled by our current enemies.”
+
+“You’re just noticing my partner,” Su Ling replied reluctantly. “I’m not the type to get fancy spirit attention. It’s just a blood thing. I get hunches about things now and then.”
+
+“Oh, I think you undersell yourself, Junior Sister. A disciple with a mere underdeveloped spirit quirk would not have been selected for a mission such as this,” Liao Zhu said. “Your talent must be at least somewhat impressive.”
+
+“Pyromancy,” Su Ling finally answered. “I have a knack for pyromancy, reading fires, alright?”
+
+Ling Qi gave her friend a surprised look. Su Ling had never bothered to explain the method of her divination to her. “So that’s what you do. How’d you even discover a talent like that?”
+
+Su Ling grimaced. “I started noticing stuff outta the corner of my eye after I…” She glanced over her shoulder at the tails curled tightly around her chair. “... broke through to the second. Images in torches and fires ‘n shit.”
+
+“Hoh, not a common talent these days,” Liao Zhu said. “If I recall my history, is it not more effective when used to read queries carved into bones or shells than the fires itself?”
+
+“Yeah, been getting a crash course on that,” Su Ling grumbled, her ears lying flat against the back of her head. “The Sect dug out a bunch of old tomes that were more dust than paper and sent a Core Sect guy to tutor me on bone carving and calligraphy.”.
+
+“So that is what you’ve been up to,” Ling Qi mused.
+
+“Feh, it wasn’t pleasant. I thought Li Suyin was a hardass about handwriting. Barely got an ‘acceptable’ out of him in the end,” Su Ling huffed.
+
+“I suspect I might know the man in question. ‘Acceptable’ is indeed high praise,” Liao Zhu said. “I shall look forward to relying upon your abilities, Junior Sister.”
+
+“I’m barely in the third realm. Cut that out,” Su Ling said bluntly.
+
+“Perhaps so, yet you are the only one here with such capabilities,” Liao Zhu said lightly, pushing himself up to stand straight. “And so rely upon you, we will.”
+
+“I trust you to have my back, Su Ling,” Ling Qi added. She gave her friend a grin and another nudge. “Just like old times, right?”
+
+Su Ling’s lips twisted downward, and she looked down at the table. “Yeah, yeah, I’ll try to keep you both from getting eaten by bugs. What about you two, huh? What can I expect out of you?”
+
+<Obvious deflection is obvious.> Sixiang chuckled. <Looks like that Bian girl has pried open turtle boy’s shells a tad too. Ji Rong and the Boss Lady traded a couple words too. I’ll fill you in when you're done here.>
+
+Ling Qi glanced briefly at the others. Ji Rong was standing a few steps to the side of Guan Zhi, staring down at the maps with a furrowed brow, and Bian Ya and Xuan Shi were quietly chatting while he traced glittering characters in the air demonstratively. She gave a silent thanks to Sixiang, then grinned at Su Ling. “Well, for starters, I’ve gotten a lot faster…”
+
+Su Ling was still tense when their time had run its course, but it did feel like a healthier kind of tense by that time.
+
+Of the others, Sixiang whispered what they had heard as Liao Zhu returned to his seat. Bian Ya had finally found success with Xuan Shi by asking after his work and prodding him for knowledge on amplification and communication arrays. Once the subject matter turned that way, she had an easy time keeping him talking, even if she was definitely still toying with him a little.
+
+There was less to say about Ji Rong and Guan Zhi. He had asked her a few terse questions about the map and gotten polite clipped answers in reply. Guan Zhi had taken a single step to the side to give him room to scowl down at the tabletop with her. It was good that Ji Rong was taking this seriously, she supposed.
+
+Sixiang fell silent as the last of them took their seats and Guan Zhi strode to the head of the table.
+
+“Elder Jiao has already spoken of our objectives,” she said crisply. “I will inform you of our equipment and methods. Each of you will be supplied with a purifying mask to mitigate the negative effects of the environmental impurities. You will wear this mask at all times, without exception. If your mask is damaged or corrupted, I have a limited supply of replacements. Do not be reckless with this. They are vital to our mission.”
+
+Ling Qi inclined her head, as did everyone else. Before, she and Suyin had not gone down far enough to really be in danger, but in the depths they were descending to, it would be different. “May I ask what provisions there are for our spirits?”
+
+“Custom pieces have been made for the spirit beasts of participating disciples,” Guan Zhi replied. “You will apply them to your spirit beasts before we descend. I do not have replacements for those.”
+
+She would have to warn Zhengui to be careful then. He might be resilient enough to do without for a time, but she would rather not test it.
+
+“There are two additional pieces of equipment which we have been provided,” Guan Zhi continued. “First, a portable hearth for Disciple Su to use for her divinations, and second, a clouding beacon constructed by Elder Jiao himself. So long as we do not directly encounter foes, we will not be detected until I begin fighting.”
+
+Ling Qi supposed the beacon must be like a massively improved version of the clairvoyance blocking talismans she had used during her conflict with Yan Renshu. They really would be relying on Su Ling though. She gave her friend a look out of the corner of her eye. Su Ling had her arms crossed, but her expression was one of determination.
+
+“As for our methods, the initial plan is simple. Disciple Ling and Disciple Liao will take point, and I will be the rearguard. Disciples Ji and Xuan will take the center and protect Disciple Bian and Disciple Su.” Neither Ji Rong nor Xuan Shi looked particularly happy about this. “Disciple Bian’s attention will be consumed by her use of cartographic arts to keep our position updated and current within the region of distorted space.”
+
+Guan Zhi’s expression turned severe. “This is vital. If Disciple Bian is unable to perform her duties, it will exacerbate the delay of our retreat talisman and may even cause it to fail altogether. If Disciple Su is rendered unable to make her divinations, avoiding enemy movements may become nigh impossible. If I am forced to step in for any reason before the final action, the mission will be a failure.”
+
+Xuan Shi gave a sharp nod. Ji Rong looked like he had bitten into a lemon. Guan Zhi surveyed them for a moment longer. “Am I understood?”
+
+Ling Qi joined the chorus of “Yes, Ma’am” that followed.
+
+“Good. Disciple Su, let us begin the initial divination for our path then,” Guan Zhi said, seemingly satisfied with their assent.
+
+Ling Qi leaned back in her seat and closed her eyes. It was time to start rousing her spirits.
+
+The portable hearth was a stone cube about a meter wide on a side inscribed with precise formations. It was open on one side, revealing the merrily burning fire held within. However, no smoke escaped, nor the scent of burning fuel, only the flickering light of the flames. She watched with some interest as Su Ling sat down in front of it and pulled a bag and a satchel full of carving tools from her storage ring.
+
+It was… very slow. The bag was full of smoothed chitin plates from the beasts down in the caverns, and Su Ling had to painstakingly carve questions and potential answers along the pieces’ fracture points. Only then could the chitin be cast into the fire. Su Ling then observed the crackling green-tinted flames intently to study the way the chitin cracked and the flame danced to divine her answers.
+
+Frankly, Ling Qi could see why this method had fallen out of favor. Compared to even her own simple divination art, the process was slow and laborious and reliant upon the cultivator’s exact wording and placement of questions and answers on the pieces. It was hard not to feel impatient.
+
+Eventually, they charted their route down to the bottom of the mapped part of the cave system. Su Ling projected that it would take between thirty-two and thirty-six hours to navigate due to the circuitous route, but she would conduct another divinition after the first day.
+
+With that done, all that was left was to outfit themselves and their spirit beasts. The silk mask Ling Qi was provided fit snugly over her mouth and nose, its edges adhering to her skin without need for any kind of strap or attachment. The air she breathed through it was as fresh and clean as if from an untouched mountain vale.
+
+Getting the masks on her spirits was a little more bothersome.
+
+“I, Zhen, deserve better than this,” the serpent grumbled as Ling Qi fiddled with the straps of his mask. Unlike her, his was made of metal, a curved plate that was affixed to his snout and rose to a point in the center like a horn. A faint floral scent drifted from it.
+
+“Zhen should not complain. At least he can open his mouth,” Gui grumbled, his voice muffled by the boxy construction of leather and wicker that covered the front half of his face.
+
+Hanyi merely crossed her arms, looking like she was struggling not to mess with the mask affixed to her own face.
+
+“No complaints,” Ling Qi said sharply. “You want to come with me, you need to wear these.”
+
+“Yes, Big Sister,” they chorused, chastised.
+
+Around her, similar scenes were playing out, so at least Zhengui wasn’t the only one looking a little odd with the masks on.
+
+“Could you not have designed something more resplendent?” The young dragon Ji Rong had released looked positively mutinous as Ji Rong finished affixing the muzzle-like tube of wood and leather to his snout. The dragon had grown since she last saw it, now being about two and half meters long.
+
+Ji Rong scoffed. “You’re lucky I’m even bringing you, breaking through at the last damn minute.”
+
+“We shared blood,” the dragon protested stiffly. “I will not be left behind.”
+
+“Then hold still, and quit bitching,” Ji Rong groused.
+
+Su Ling’s companion, Cibei, clung to her thick hair, peering suspiciously at everyone around them. She was still only about two handspans wide and in the second realm, but the little wicker basket on her nose was kind of cute.
+
+Meanwhile, Su Ling was standing away from the rest of them, and her mood had fouled again as she glared across the staging area at Bian Ya. The older disciple was humming a soft melody as she brushed the fur of the horse-sized three-tailed fox which she had released. The fox, for his or her part, merely looked back at Su Ling with impassive disinterest.
+
+She didn’t even know how to describe the spirit beast Liao Zhu had revealed. It was a weird chimera of a beast. It had the wings of a bird, the body of a lion, and the scaly reptilian head of a dragon but with only a single horn. It accepted its mask with stoic dignity.
+
+“You should still be recovering, you clown,” the chimera grumbled in a deep voice, padding over to the tunnel entrance to lower his nose to the ground.
+
+Liao Zhu ambled after him with a light step. “Neither duty nor glory wait, my friend.”
+
+“Neither does death,” the beast grumbled.
+
+Xuan Shi stood off to the side, his hat pulled low over his eyes, tapping the butt of his ring staff against the ground as he waited. Beside him, Guan Zhi stood still, studying them all.
+
+It was strange that she didn’t have a spirit, Ling Qi thought.
+
+<She does. I can sense it. Must not need a mask though,> Sixiang murmured.
+
+Ah, something more like Sixiang then? She supposed that made sense for such a physically focused cultivator. She finished adjusting the last buckle on Zhen’s mask and patted his head.
+
+They were ready to go.

@@ -1,0 +1,137 @@
+---
+id: 31e7c205-1328-523f-a485-e3b4b550f382
+page-type-slug: story-chapter-royal-road
+title: "Threads 120 Wind Thief 2"
+slug: 0145-threads-120-wind-thief-2
+partOf: forge-of-destiny
+position: 145
+ownLength: 2294
+unit: words
+publishedAt: 2021-08-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/735004/threads-120-wind-thief-2"
+royalRoadId: "735004"
+---
+
+The wind screamed in her ears as she plunged downward, and Ling Qi’s heart pounded with it. The walls of the ravine blurred by, and the cold stone below beckoned. This was a dream, but dreams were real enough in their own way.
+
+The Grinning Moon was many things. It rejected constraints, all constraints, and this, she refused. It loved cleverness and tricks, and this, she accepted. She recalled vaguely a text she had read last year, claiming that the Grinning Moon was the patron of clever investigators. She had found it odd at the time, but she now knew it was not wrong.
+
+The Grinning Moon did not care about goals. It did not care about motivations. Perhaps its various local manifestations and avatars did, but the moon itself did not. The Grinning Moon was a thing of action and movement. Call it a heist or a sting, a casing or an investigation, the moon cared not. It only cared that she acted, that she sought to live and run and fly, to match her mind against others and come out on top.
+
+As the ground approached, solid and inviolate, Ling Qi came to understand the core virtue of the Grinning Moon. That which underlaid all the rest.
+
+Self-assurance.
+
+Ling Qi looked at the approaching ground and felt dormant meridians churn to life. The howl of the wind transformed into her laughter, and the shadows of the ravine closed in as a welcoming embrace.
+
+She looked at the ground and decided that she wasn’t falling anymore.
+
+Yes, she could not defy the Law of Earth, any more than any infant could defy the Law of their mother. But what parent did not know the mischief which a child could get up to before the Law could be enforced?
+
+Ling Qi became the wind and the shadow, and her momentum changed. She shot through the air, parallel to the ground, at a speed fit to strip a mortal's flesh from their bones. As the wind, she cared not. Feet and toes grew solid for one moment as her slowed descent carried her down into the depths of the ravine. There, her feet skipped across stone, and muscles filled with the force of a hurricane flexed, granting her flight for a few more glorious moments.
+
+She passed into the winding tunnels of the gods’ vaults, a mere whisper and laughing breeze. She passed the halls of the gods where they lounged in great coiled masses of muscle and umber scales, lying redolent before the great and never-ending feast of meat and wine laid out at their feet. Power and luxury beyond comprehension, treated with lax contempt.
+
+But their own might was their undoing, and Ling Qi became one of the numberless and faceless slaves who served the meal, a mere mote of dust under the notice of the mighty. So vast was their excess that none noted the disappearance of even the most potent wine nor the fleeting shadow that had once been a servant.
+
+In the halls were innumerable defenses, mighty runes carved into stone to bar the entrance of foes and thieves alike. Alas for pride that none deigned notice the movements of a mouse, designed as they were to fend off the machinations of gods. Beyond them lay the vault of winds.
+
+How mighty the door, how glittering the gems, all the riches of the deep earth on display. How impenetrable and secure, ten thousand locks bound by ten thousand spirits!
+
+How neglected the beauty, dust dimming the fire of the earth's riches. How lax the care, locks rusted and spirits disquieted by disuse. How foolish the gatekeeper, who accepted a bowl of most potent wine from a humble servant, a gift from his masters!
+
+Within lay a simple bag of golden hide, bulging with the pressure of the winds, and her deft fingers undid the ties. Ling Qi laughed as a warm wind ruffled her hair. The west wind was the first to emerge, warm and inviting, herald of spring and summer in its coming and herald of fall and winter in its going. The wind enwrapped her, and Ling Qi knew that whatever artifice had captured it in the first place would never come again.
+
+The wind was stolen, and things would never be the same.
+
+Carried on rising warm winds, Ling Qi spiraled upward as the other winds howled free. The wind of the northern storm howled, fierce and unrestrained, shaking the vault. The south wind screamed the song of a blizzard and lashed with mighty gales, making hinges groan and indolent gods raise their heads in alarm. The east wind whispered softly, and locks and bindings came loose.
+
+Borne on the four winds, the thief burst forth, and the long neglected gates boomed open and shattered upon the walls, scattering the gods’ riches back into the earth.
+
+How the gods howled, enraged by the theft of riches unremembered and unused!
+
+But in the face of wrath fit to break the world, Ling Qi could only grin. Flying on the winds, the halls became blurs, and the flabby talons and claws of the gods and their creatures could not touch her. In the face of fury, she laughed, and the mighty raged!
+
+The winds cackled along with her, and so the final blow was struck. Stolen were not only their riches but their pride, and that was a trespass the mighty could never forgive.
+
+From the halls of the gods, the wind thief flew, and behind her, stone trembled and broke as the gods tore their own home asunder in fury and haste to chase her. Into the bright sky, Father’s embrace, she flew with all the gods of the earth at her back.
+
+But it was futile. Their claws and fangs and paws, she flitted and spun through, their artifice, she escaped, their sovereignty, she flouted.
+
+For she was not the girl any longer. She was the Thief of Winds, and she had changed the Law of Skies forevermore.
+
+The cool night air struck Ling Qi like a flung glass of water, and she blinked as she looked up at the clear night sky and the twinkling stars. The wind tugged at her gown and hair as she fell from the apex of her leap, some thirty meters in the air.
+
+She fell, and Ling Qi smiled as she took hold of the wind and shot off to the east, sending the canopy of the trees rustling in her wake. She spun, she flew, and she danced in midair. She could not restrain her laughter at the sheer joy of her movement. A second and a third time she guided the wind until at last she had to allow her foot to lightly touch the top of a hill and grant her new momentum.
+
+Through forest and glade she flew, and one by one, she restored function to her other arts. Through a maze of webs in which she had once carefully snuck, she flew freely, scattering and startling the dreamweaving spiders in her wake, untouched by their threads. Around an old forest shrine, she circled and danced, and an old and hoary stag raised his head to watch her flight in bemusement.
+
+And somewhere, far under the earth behind a maze of broken space, an ancient corpse’s horned skull shifted, and black flower petals drifted to the carpet of bones at its feet.
+
+***
+
+Ling Qi was humming cheerfully as she returned to her sect housing. The mundane gown she had worn was ragged now, worn threadbare by twigs and leaves and the rush of wind. But it was fine. None of her peers had noted her passage, only the faint blowing of the wind. Through the cracks in her window slats she flowed, only rematerializing as her feet touched the smooth stone of the interior.
+
+Lately, she had been feeling pressured, tasks and worries and goals clouding her mind and distorting her focus. Her chest still ached with the crack in her nascent way, and the Duchess' task still loomed. Thoughts of courtship and cultivation and social activities crowded the edges of her thoughts. They were not gone, but she just felt so refreshed now.
+
+Ling Qi blew out a breath and smiled as she strode down the hall to her bedroom. She would handle them all. Even those tasks which had been imposed on her,… it was her choices that had led to those impositions. And if she had decided she was going to do something, it was going to be done. It was only a matter of finding the how. She was going to succeed. She would not accept any other outcome.
+
+Her confident smile vanished as she opened her bedroom door.
+
+Her dress was gone.
+
+It had been laid out on her bed, and now, it wasn’t there. Her bedding was gone too, the bed stripped down to the frame.
+
+Ling Qi stood there and stared and wondered if the low sound of distress she heard was coming from her own throat.
+
+But then, out of the corner of her eye, she caught motion. The door to her wardrobe was partially open and beginning to swing in the breeze kicking up around her. Dangling from the wardrobe, she saw a corner of one of her sheets.
+
+Ling Qi cautiously approached the wardrobe and opened the door the rest of the way. There, she could only stare blankly at what she saw.
+
+Her dress was pooled in the corner of the wardrobe, its layers in disarray, sleeves wrapped around a bundle of fabric that she recognized as the tatters of her bedspread. She reached down, picking up her dress, and the ragged cloth dropped away, but a few threads still dangled from her gown, slowly being drawn into its fabric.
+
+Had her dress been stress eating? The silky garment hung between her hands, inert and inanimate, save for the rapidly disappearing stray threads. She had thought that her dress was not yet conscious, but…
+
+Ling Qi peered down at the wrinkled fabric and reached out with her thoughts.
+
+She could not feel anything to contact, just the flows of qi that made up the arrays worked into the gown. Just a simple animal reaction? She knew that the talisman drew on her qi to function, but it was supposed to go dormant when not in use. Maybe the Cai thread made it different?
+
+“Let’s get you cleaned up. You’re all wrinkled now,” Ling Qi murmured, turning away from the wardrobe and the scraps. She felt a little odd, talking to her dress, but she supposed she should probably get used to the idea.
+
+***
+
+Sixiang snorted out an inelegant laugh as they spun through the steps of a new dance. “You’re so cruel, Ling Qi,” they chuckled.
+
+Ling Qi made an irritated sound, her gown swaying around her feet as they separated, reaching the end of the set. “I’ll just have to remember to leave a few spirit stones out for the dress the next time I’m out like that.”
+
+“I’m surprised you plan on there being a next time,” Sixiang said, resting their hands on their hips. Here, among the standing stones, it was easier for them to remain manifested.
+
+“It’s always possible,” Ling Qi hedged. She certainly hadn’t intended her little cultivation trip to take three days. She had thought that she was gone for only a single evening. Thankfully, this sort of thing was not uncommon with third realm cultivators, so no one had raised a fuss. What few people didn’t think she had just been on a cultivation trip seemed to figure that Cai Renxiang had set her some secret task.
+
+“If you say so,” Sixiang said in amusement. “Anyway, I think you’re fully healed. I didn’t sense any leakage.”
+
+“Do you have to say it like that?” Ling Qi complained. It made her sound like she was incontinent or something.
+
+“Not my fault you’re still a bag of meat and fluids,” Sixiang teased, sticking out their tongue. “Don’t worry. You’re solving that, too.”
+
+Ling Qi rolled her eyes, and Sixiang yelped as a gust of wind sent them scattering into multihued particulates.
+
+“Hey! My projection is still fragile!” they complained, voice echoing from near her ear.
+
+“Not my fault that you're a bag of bad humor and dream gunk,” Ling Qi replied dryly.
+
+“Hmph, you’ve gotten mean,” Sixiang grumbled, spinning a new face from moonlight and wind. “I’m funny.”
+
+“Sure you are,” Ling Qi said with amused condescension.
+
+Sixiang stuck out their tongue again as they took a seat on a flat stone. For a moment, there was silence between them as Ling Qi arranged herself on her own favorite rock.
+
+“So what happened?” Ling Qi asked quietly. She still couldn’t easily step back and forth between dream and material without a technique, but in cultivating the Phantasmagoria of Lunar Revelry, she could feel that something had changed.
+
+“You flooded yourself with way too much dream qi,” Sixiang explained. “Even if you held onto yourself, you’re less material than than you were before. I don’t think it’ll be too much of a problem for you, but…”
+
+“It’ll be something to keep an eye on,” Ling Qi finished. It was something she had checked after her sojourn without her arts. She really was physically lighter now, as if she had lost a dozen kilograms without changing her appearance one bit.
+
+“I’m pretty sure you aren’t going to drift away. You’re too stubborn for that,” Sixiang joked. “So, what do you say? Wanna try another dance?”
+
+“Sure,” Ling Qi agreed. She would be more cautious with the liminal realm in the future, but for now, there was no need to worry.

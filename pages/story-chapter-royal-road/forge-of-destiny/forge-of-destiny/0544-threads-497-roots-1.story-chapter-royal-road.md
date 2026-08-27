@@ -1,0 +1,107 @@
+---
+id: 2e135b5f-8454-58f7-b123-6cd2dd385092
+page-type-slug: story-chapter-royal-road
+title: "Threads 497 Roots 1"
+slug: 0544-threads-497-roots-1
+partOf: forge-of-destiny
+position: 544
+ownLength: 1843
+unit: words
+publishedAt: 2026-01-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2993348/threads-497-roots-1"
+royalRoadId: "2993348"
+---
+
+They descended.
+
+There was nothing more to say as the curtains of the material world parted before them, and they stepped fully into the Dream of Xiangmen. One moment, they stood by the entrance to the trunk district; the next, they were descending, drifting downward on a crinkled, curled leaf the size of a sailboat.
+
+Sixiang rippled into physicality at her side, arm looped through hers. Their glittering black eyes fixed on the lights and shadows below.
+
+And there were many of those. The trunk of Xiangmen manifested under her gaze like a swarm of fireflies in a swirling column that engulfed them and stretched in every direction. Shifting patches of solidity flitted and flowed between clusters of lights, and far, far out at the furthest edges of her vision, the shifting color and chaos of the deep dream was shaped into the texture of bark.
+
+Darkness yawned beneath, a pit in the firmament that could swallow a city with kilometers-long limbs composed of blotchy, inky flesh. The hands at the ends of the limbs were spindly and spiderlike, and where they waved, clasped, and touched, the whirling lights flickered, scattered, or died down to a sickly gray.
+
+Shu Yue gestured, and their leaf spun, floating on a breeze away from the ponderous swipe of one of those hands.
+
+Had she not spoken with Patriarch Jia Hong before, she might have wondered how these manifestations of nightmares could still exist under the blazing light that emanated down from far beyond sight.
+
+"They are not lies. The light does not burn them. Raw power could do what concept could not, but you understand why this is undesirable."
+
+Ling Qi gave a small nod. Even if they were illogical, they were not untrue. If she had been cut open, her fears around relations would have been seared out, like severed limbs being cauterized.
+
+Yes, she understood that the traumas of a whole population could not be burned out like that. And in any case, without changing the conditions that birthed them, these fears would only creep back in.
+
+Across the ground, numerous nightmare limbs lay dead, showing rotting flesh and splintered bone. The freshest of them were withered in a way she understood viscerally.
+
+Starvation.
+
+"It can only be a long, grinding battle," Shu Yue lectured. "In the beginning, the Hui understood well how to build structures that lasted. That was the mastery of their matriarch and her descendants. That was what brought down the Mighty Xi, even in their weakness. The Hui way, the Pure Way, was always fascinated by manipulation far beyond the interpersonal. Their fascination was with ideas whose correct cultivation could shape entire generations. Inculcate the correct action in five generations of mortals, and the cultivators who rise from them shall be the crop they sought. Cultivate them in a clan, and create a weapon which would wield itself, unaware of any master's hand.”
+
+Shu Yue continued, “The image of the Hui is the guileful courtier, the spy, and the assassin. They are the honeyed words spoken in the right ear at the right time to spark chaos and kinstrife. All of these, that clan was master of. All of these were true. And all of these, the Hui produced in great numbers, raised to sovereignty in their Ways. But the innermost arts, the methods of their matriarch, and the Ways which brought them to the peak of cultivation required a patience and mindset that so few of those raised among their halls could grasp."
+
+Shu Yue spoke quietly but with great precision. Each word marched after the next clearly despite the low rasp of their voice and the sound of wind passing by their falling leaf.
+
+"And Xiangmen was the center of their power," Ling Qi concluded. "Where the people were most open to their shaping."
+
+"Yes. And the place where Her Grace has had the freest hand in uprooting the countless seeds they sewed."
+
+"Whiplashing between uncertainty, not knowing what the rules on any given day will be, rudderless, getting jerked back and forth for generations… I really didn't get it before you made me more solid. I didn't have the right foundations to understand what a miserable lil pile of cages the Hui made," Sixiang mused.
+
+"It is here that the Hui made their cauldron to test how they might dissolve the foundations of clan unity, first in fear of precarious rule, then out of habit and inertia, and then at last, in malicious fascination," Shu Yue explained. "Prepare yourself. Sinking into the next strata will be stressful."
+
+Ling Qi felt her breath hitch at that plain statement. For Shu Yue to say that… She braced her qi, and cycled it. Sixiang’s arm tightened around hers. She was Ling Qi. Her name was Ling Qi, and she was born to Ling Qingge in crumbling Tonghou. Thief, spy, diplomat, and student of Zeqing, of Huisheng, and of Shu Yue. Friend to Bai Meizhen, Cai Renxiang, Gu Xiulan, Li…
+
+It was like being caught out in the open when the clouds split open and dumped pounding, freezing rain upon swiftly mud-choked streets. Cold in a way beyond the physical, and chokingly dark, as if the lack of light were the pressure of a million, million tons of water. It was a void of warmth that reminded her of the very worst days out in those streets, a lonesome, starving child surrounded by eyes of flint.
+
+She threaded her fingers through Sixiang's and focused on the warmth there, the warmth she had in memory, and breathed out. The engulfing darkness groaned and retreated like a thousand whispering paper-like wings, a swarm of moths forced back from the light they sought to smother. The leaf they had been standing on crumbled to dust. They stood now on a narrow, choking street, more like one of the underworld crevices she had squeezed through on that expedition long ago.
+
+In the distance, someone or something screamed. The bark under her feet squished, coated in unidentifiable muck. It stank. It was a familiar and unwelcome stink of unwashed bodies, fear, sweat, and worse. It was the scent of humans living huddled close together in privation and fear.
+
+And yet, the smell was the least awful characteristic of this place.
+
+Sixiang let out a rattling breath and squeezed their eyes shut. The black and white strands in their hair swallowed up the color surrounding them, briefly painting their shimmering hair in monochrome. "So much scratching away, wanting in."
+
+Whispers, hundred, thousands of whispering voices, the miserable echoes of thought and broken nightmares, clawing at the integrity of her mind. It—they—wanted to pour themselves into her skin, hollow her out, and escape, wearing her face.
+
+The whispering demons and nightmares who had taught a woman how to parasitize her victims' flesh were gathered here like swarming, scavenger flies.
+
+"They're not even that,” Ling Qi said. “They don't even rise to being your kin. It's nothing so coherent as that."
+
+Sixiang made a grimacing smile and cracked open an eye. The facetting black of it glittered. "I won't say that this place didn't birth plenty of cousins in its time, but yeah, you've got the eyes to see. They're just shreds and echoes of unformed malice."
+
+"There are no individuals here,” Shu Yue informed them. “Those flee from me. I am a greater predator than they could hope to be."
+
+Shu Yue’s form was still mostly human. They towered, and their back was bent at an odd angle. Their hair fluttered in an unseen wind, wet and liquid, like dark blood.
+
+"Down in the dark where the least and most uncared for of their subjects dwelled, the Hui sought their perfection,” Shu Yue continued. “This was the mud from which the lotus would bloom. Here, they sought to dissect the hearts of men, and find how they could be made both more and less."
+
+Her teacher began to walk, and she followed the trailing hem of their gown.
+
+"I can almost understand the chain of thought. To understand and categorize was probably the point of the Pure Way of the Hui. They wanted to find how people could be made to detach from the dream of life."
+
+"I am no practitioner of that Way, but it seems possible, even likely. That was at least the professed purpose of the clan," Shu Yue analyzed.
+
+Finally, they emerged into something like a plaza. It was still cramped and tight with twisted buildings looming over it in the dark. In the plaza, those awful gray hands pressed and slithered on limbs like snakes, pawing at every shutter and door.
+
+There were lights inside the buildings, warm lights, bright even, visible through tainted and frosted glass.
+
+"Is the imagery I see something drawn from you or I?" Ling Qi wondered. "I understand that when I'm carrying someone, what they see is what I see. Is it the same when we walk together?"
+
+"What you perceive together with another walker will always be more similar than not. There are differences, and I could enforce my vision upon yours in total, but perceptions are fluid. You should keep this in mind should you ever battle a peer dreamwalker in this realm."
+
+Ling Qi nodded slowly. "Where do we begin then? What methods do you intend for me to study?"
+
+Shu Yue turned their head with the faint sound of grinding bone. "You have looked into the Dreaming Way and spoken of its details in passing. What are the three states which poison men's souls and bind them to suffering?"
+
+Ling Qi shared a look with Sixiang. "The first state that poisons the soul is greed, best understood as desire and want. I don't know if I agree with this idea. Many of the emotions placed under the banner of want are the emotions which give life meaning."
+
+"That's the catch, isn't it?" Sixiang asked. "Under a certain kind of thinking, there's not supposed to be that type of state. The second is hatred, coming up from the anger and resentment that arises from perceived hurts. That'd be the one you showed us in that vase."
+
+Yes, that one she had not understood as well as she should. She was not too happy for the lesson, even if it was needed.
+
+"The last of the three is ignorance. This, I understand better. In not fully knowing the world around you, you must by definition make errors in judgement that you would not, if you knew everything," Ling Qi said. "That might just be my interpretation. As you say, I have only spoken in passing and studied these philosophies as an outsider reading into the idle speech from my letters and companions."
+
+"Very good," Shu Yue said simply. "These three states are the three disciplines of the lower Hui arts. So, I will ask you, which is the blade you wish to wield?"
+
+Ling Qi looked around at the shadowy homes and the pawing nightmare hands, and let the scratching whispers of malice slide over her.

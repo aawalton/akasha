@@ -1,0 +1,105 @@
+---
+id: cbaff259-bc23-5fc3-81e3-043b1bc399d0
+page-type-slug: story-chapter-royal-road
+title: "Threads 191-Concert 3"
+slug: 0223-threads-191-concert-3
+partOf: forge-of-destiny
+position: 223
+ownLength: 1416
+unit: words
+publishedAt: 2022-03-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/855393/threads-191-concert-3"
+royalRoadId: "855393"
+---
+
+The hidden doorway led into a crumbling escape tunnel supported by wooden beams. Formation arrays designed to hide the space from outside search marked the tunnel’s arches. Sending her wisps flitting down the shadowed narrow path, Ling Qi felt the echoes of fear and anger that had long soaked into the dirt and wood, staining the passage. Here and there, she saw signs of flight: a golden hairpin trampled into the dirt; a scrap of rotten cloth clinging to a splintered beam; and the shattered remains of a child’s doll.
+
+The path ended at a tunnel collapse a bare hundred meters along, rotten wood giving out under the weight of the earth. There was no sign that those who had fled this place long ago had failed to escape. All the same, the fact that the manor was here, empty and abandoned, told her that they must have met an unpleasant fate later.
+
+“How does it look?” Bao Qian asked, peering down the passage.
+
+“Short, only a hundred and twenty odd meters. Uniform dimensions all the way down. Not especially haunted.” Ling Qi’s physical eyes were half-lidded as she peered through the wisps.
+
+“That shouldn’t require too much adjustment,” Bao Qian said thoughtfully.
+
+“Any idea what happened to the people here?” Ling Qi asked, letting the lights wink out, returning her vision to one viewpoint. “I had made assumptions, but it does seem like they escaped.”
+
+Bao Qian paused at her sudden question. “I do not know. Records from the era are spotty at best, and there has always been motivation for obfuscation of those records in the name of land claims. It isn’t unknown for some courtier clans in the cities to claim descent from border barons and viscounts.”
+
+“I suppose that’s part of Emerald Seas heritage too?”
+
+“Our borders were never as hard as those of other provinces. Maps are often nasty liars after all. The same conflict that bred our traditions also preceded this. Perhaps that is why Her Grace found her ascension so smooth.”
+
+“Not hard to see why,” Sixiang sighed in melancholy. “You lot are more fragile than we are.”
+
+Ling Qi nodded. “I’ve studied a little. I know that the province has always been in conflict: conflict with beasts; conflict between the tribes that would become the modern Weilu; conflict with the hill tribes; conflict with the barbarians. It’s a wonder anyone had time to build anything between all that.”
+
+“Humans are industrious creatures,” Bao Qian said. “It is hard to keep us down for long.”
+
+“That is, of course, part of why the fighting never ends,” Ling Qi said wryly.
+
+“Such a bleak outlook.” Bao Qian chuckled.
+
+“That’s my gloomy girl,” Sixiang huffed.
+
+“Just something to keep in mind,” Ling Qi said. “It’s not like people don’t still recognize many of those old divisions even now.”
+
+Imperial, Weilu, Old Tribe. Bao, Diao, Meng, Luo, Wang, and Jia. Even these were only the beginning. She was sure that there were a thousand little rivalries and conflicts below the level she understood.
+
+Bao Qian was quiet at that, leaving them to walk along the narrow passage in silence. “That is true, but is the solution to that not to give us all something to see as common amongst ourselves?”
+
+“People are stubborn, but yes, that’s probably the only way to solve it,” Ling Qi said. “Though I wonder if that just moves the problem around.”
+
+“Perhaps, but one has to take little steps where we can.” Bao Qian squinted into the dark. He raised a hand to stop her as he studied the ground. “Here. A stake here should include this part of the manor in the greater formation.
+
+Ling Qi nodded, taking a half step back as he made the placements. Their conversation had wandered a little far afield.
+
+<Not such a bad thing. I think you’ll be having to deal with this stuff soon,> Sixiang murmured.
+
+She supposed so. Ling Qi just hoped she was up to the challenge.
+
+***​
+
+Once they were done with the basement, setting up the sealing field on the first floor didn’t take long. Ling Qi understood why this was a low priority job for the landowner. The haunting here was born from sudden fear and the long melancholy of abandonment, rather than stronger, more dangerous emotions, and the manor had not been inhabited long enough to develop a true coherent spirit which could oppose their efforts. The only inhabitants were sad little phantoms and scraps of echoed memory, spirits of decay, and primitive faeries born of the mild malice that had soaked into every board and stone of the place.
+
+As they worked, they continued to chat about the music of the Emerald Seas. Hanyi occasionally joined them, but she quickly became bored and returned to following Zhengui in his hunt for decay spirits to burn and eat.
+
+While the Emerald Seas had always had many traditions in the arts, many artistic scenes had only truly exploded in the last two hundred years, and the reason for such was not only from the growing prosperity of a rebuilding province.
+
+“I had no idea the Duchess made such a decree,” Ling Qi commented as they mounted the stairs to the second floor of the manor.
+
+“It was among the early ones and oft forgotten among later, more obvious changes.” Bao Qian toyed with a red spirit stone as he climbed ahead of her. “But in the Emerald Seas, only an Imperial Decree or the word of Her Grace can ban a performance or work.”
+
+“I doubt that lower rulers fail to make things unpleasant for artists they don’t like though,” Ling Qi said. She blurred and materialized at the top of the stairs.
+
+“No enforcement is perfect, save under Her Grace’s eyes,” Bao Qian agreed, giving her a look of consternation.”Was that not a bit petty as a use for your powers?”
+
+“Stairs are for plebians,” Ling Qi sniffed, affecting her best noblewoman’s voice. “Are you truly so slow, Bao Qian?”
+
+“Some of us need to worry about breaking fragile rotten wood if we choose to flex,” Bao Qian replied dryly. “I hope your ladyship will forgive this humble craftsman.”
+
+“I will consider it,” Ling Qi said with a small smile.
+
+<Moons, you are confusing the heck out of this guy. Is it really such a difference to be working instead of dating?> Sixiang muttered.
+
+Ling Qi ignored Sixiang’s byplay as she moved to the door at the top of the stairs and slid it open, only to pause as she peered inside. “Huh.”
+
+“Find something of interest?” Bao Qian asked, and Ling Qi leaned to the side to allow him to better peer past her shoulder.
+
+The room was better preserved than the rest of the house. Mold had only just begun to spread across the rich red carpet which covered the floor. It was not a particularly big room, large enough for one or two people to meditate in, and across from them was a small shrine covered in old toppled candlesticks and incense burners.
+
+At its center was a golden idol. The figure it depicted was androgynous and seated cross-legged, garbed in robes painted red with lacquer. One hand lay palm up in the figure's lap, holding a lotus flower carved from a black jewel. Their other hand was held flat palm outward.
+
+Qi gathered thickly in the idol, drawn to something in its core. Ling Qi breathed deeply as she focused her senses. The veil of the waking world was thinner here.
+
+“A dream shrine,” Bao Qian identified. “I have not seen these often.”
+
+“Didn’t Her Grace outlaw the dream cults?” Ling Qi asked, not entering the room.
+
+“Not precisely,” Bao Qian clarified. “They’re no longer sanctioned. That is, they no longer receive support from the government, and their temples were removed from Xiangmen, but they are not actually proscribed like the twilight and eclipse cults.”
+
+“Hey, Ling Qi, do you think you can grab that fella for me?” Sixiang asked. “With the help of the other goodies we picked up recently, I think I might be able to do something interesting with it.”
+
+The dream tools from the Hui’s ring? Ling Qi wondered, receiving a feeling of agreement from Sixiang.
+
+“I would advise some caution, Miss Ling. The dream cults are not proscribed, but they are not popular either among most of the province,” Bao Qian warned. “Being seen with it in your possession would probably damage your standing.”

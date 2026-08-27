@@ -1,0 +1,159 @@
+---
+id: 163d5d58-b458-55a8-b398-2acb73bb4c9a
+page-type-slug: story-chapter-royal-road
+title: "Threads 47 Signs 2"
+slug: 0061-threads-47-signs-2
+partOf: forge-of-destiny
+position: 61
+ownLength: 2763
+unit: words
+publishedAt: 2021-02-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/628424/threads-47-signs-2"
+royalRoadId: "628424"
+---
+
+<You’ve got this,> Sixiang encouraged.
+
+Ling Qi appreciated the sentiment as she leaped lightly down from the cliff, floating like a leaf on the breeze. As her feet touched the damp grass on the river’s shore, she stopped restraining her qi, and her flute materialized in her hand. The moment she did, the lazy ripples of the slow flowing river churned and thrashed. She glimpsed a piscine silhouette forming beneath the surface before a jet of extremely dense pressurized water shot out and cut straight through her chest, carving a gouge in the rock behind her. Ling Qi raised her flute to her lips as her form wavered back into solidity, unperturbed by the attack.
+
+The shape in the water thrashed to the surface, and she heard the spirit speak in a warbling, bubbling voice that trembled with indignant rage. “You impudent savages! You dare return to challenge this river again! Do not think that this resplendent one will fall for your underhanded tricks again!”
+
+The spirit was very large. At six meters long, it was the largest fish she had ever seen. Its scales gleamed like sapphires in the morning sunlight. It had a wide flat head with thick fleshy whiskers that trembled like a rotund man’s jowls as it spoke.
+
+“O master of the valley,” Ling Qi spoke formally, even as she sidestepped another cutting jet of water. “Please be calm. This humble supplicant wishes only to offer apologies for the indignities laid upon you.”
+
+“Yoooooou,” the river spirit rumbled in its quivering voice. “Do you really think this mighty one is so easily tricked? Fool! Trickster! Charlatan!”
+
+<Man, this guy is making a mess of the scenery in more ways than one,> Sixiang said drolly as Ling Qi jumped and dashed along the rising top of the wave that emerged from the river, circling to pull its attention away from her subordinates’ hiding place.
+
+<Right? Are you sure we can’t just ice this big dumb fish over?> Hanyi huffed. <Like some lazy carp deserves one of Big Sister’s songs.>
+
+Ling Qi continued speaking, maintaining her formal and respectful tone even as she danced atop churning waters that sucked at the soles of her shoes.
+
+“A thousand apologies, O resplendent master,” she began, careful to keep the grin out of her voice. “Please allow this humble one to make an offering. Long have I contemplated your flowing waters and rich depths, and I have composed a song in your honor!” She was lying. She had been composing a song about a different river, but it was not so hard to switch out some details in the piece on the spot. “I beg of you to allow me to make an offering and begin making amends!”
+
+All the while as she spoke, she continued to avoid the spirit’s efforts, landing back on the far shore as she spoke her last words. The massive carp regarded her balefully, whiskers shaking and gills fluttering with exertion. It reminded her of a fat, red-faced merchant giving up on catching a fleet-footed thief. “This magnanimous one will give you one chance, savage. But if this is treachery…!”
+
+“Of course not,” she said with a smile. “Thank you so much for your understanding. I call this piece ‘Shimmering Vale.’”
+
+Ling Qi raised her flute to her lips and began to play, and soon, the valley was filled with music. The world seemed to grow still as her notes painted a melody that spoke of a rich and vibrant river, carrying life across the land. It was, Ling Qi thought, not one of her best pieces given the hasty alterations, but the spirit was swiftly entranced anyway. It looked like her subordinates’ reports of the creature’s pride were not inaccurate.
+
+Later, after the waters had receded and the spirit dispersed back to its resting state, Ling Qi was joined on the shore by her subordinates.
+
+“I think that went well,” Ling Qi commented lightly.
+
+“It did indeed. I was not aware that you were so prodigious a musician, ma’am,” Chang He replied, dipping his head respectfully. “Spirits of the land often desire devotion and respect. The purity of your expression will serve you in good stead in such dealings.”
+
+Mo Lian nodded, nervously tugging at his beard as he glanced at the waters. “Still, without more material offerings, it is a stopgap. We should proceed.”
+
+“Yes,” Ling Qi agreed, her feet lifting off the ground. “Chun Yan, take point as we fan out.”
+
+“Yes, ma’am,” the older woman replied immediately. Ling Qi was gratified to see that there was little doubt left in her voice.
+
+From there, using Liao Zhu’s advice, they fanned out, not separating far but enough to cover ground more efficiently. Ling Qi took on an overwatch role, soaring overhead as the three of them combed the paths and trails in the region. Many had been washed out by flooding, but the damage was not too bad.
+
+As the sun began to descend from its zenith, they came back together atop a high cliff overlooking the river to compile what they had found over the course of the morning and early afternoon.
+
+“It looks like we’ll have to update the maps quite a bit,” Ling Qi mused, seated in a tree branch. “Is that normal out here?”
+
+“It is not natural for rock spirits to move so much in a single year,” Cheng He said from his position by their small fire. “One or perhaps two passes shifting is normal enough, but we have already discovered four that have closed. The earth spirits are agitated.”
+
+There had been a certain majesty to watching whole cliffs and hills groan and crawl, shifting visibly before her eyes. However, Cheng He was right. It was an unusual and worrying phenomenon, one not so easily solved as a single rowdy and vengeful river spirit.
+
+“New paths open when old ones close. It’s annoying but not real trouble,” said Chun Yan. “The desolation in the southeastern valley is more worrying. Last time I saw withering like that, my village lost its whole harvest to the black earthworms. Something has been letting them grow beyond their normal numbers and size.”
+
+The valley Chun Yan spoke of was a withered place, trees bare of leaves and even the grass and weeds withered and shrunken. She had seen all-too-familiar worms poking their eyeless heads out of the earth, the actinic scent of lightning drifting from their maws. She had only glimpsed Yan Renshu’s real spirit beast once, but the worms that she had seen in the valley dwarfed it in size.
+
+“The tunnels I sensed were worryingly large,” Mo Lian said, tugging nervously at his beard. “But I am more concerned about the Old Watch. The ruin has been silent for as long as I can remember, but you all saw the dancing bones and heard the cries in the air.”
+
+“The dead should not walk,” Cheng He said darkly. “It shames those who still live.”
+
+The Old Watch was a fortification which had belonged to the clan that had owned this land before Ogodei. It had been the site of one of the early battles in the war. The people there had been slaughtered, and later, a second group sent to recapture the site had been ambushed and killed by barbarians as well. According to the report, the site had previously been thoroughly exorcised and was now quiescent, if still uninhabitable due to the malice infecting the air.
+
+Ling Qi hummed to herself. They would no doubt find more trouble in the days to come as they filled in the holes left by their general exploration today. However, none of them needed rest just yet, so it occurred to Ling Qi that before they were forced to begin splitting up to address smaller problems, perhaps they could solve one of these larger issues.
+
+Idly, she glanced toward the setting sun and wondered where Liao Zhu was. She supposed it didn’t matter.
+
+“The matter of the moving mountains is the most important one for us to investigate,” Ling Qi announced as authoritatively as she could manage. “As long as we mark down the other two as problem areas, the main group should be better suited to handle those.”
+
+She glanced between her subordinates while they chorused “Yes, ma’am,” but she did not notice any discontent. That was good, she thought.
+
+“I am more experienced with spirit beasts and moon spirits than earth spirits,” she continued. “Do you have any advice on how to approach the task?”
+
+There was a brief pause, but then Chang He spoke up. “The trouble with earth spirits is getting them to notice you. That goes double for wild spirits of mountain and vale.”
+
+“He is right,” Mo Lian agreed. “To a mountain, we are all flickering, ephemeral things. It is difficult for them to hear our words as more than the buzzing of flies.”
+
+Their third member gave a grunt of agreement. “I mostly hit things, but that sounds about right.”
+
+Ling Qi hummed in thought. She just might have the seed of an idea.
+
+<Yeah that’s a ‘you’ idea all right,> Sixiang laughed.
+
+<Big Sister can count on me!> Gui agreed happily.
+
+“Assuming that I can get one’s attention, do you believe you can make contact?” Ling Qi asked aloud.
+
+The three soldiers shared a glance, marked with unease. “Yes, I believe so, ma’am,” Chang He agreed.
+
+Ling Qi slid off of her branch, floating lightly to the ground. “Let’s be off then.”
+
+***
+
+It did not take too long to reach the edge of the troubled area.
+
+Little hills and peaks rose from the vale, and branches of the river threaded between like ribbons of silver. The afternoon sunlight gleamed beautifully off rocks and water. However, despite the appearance of serene majesty, it was clear that something was wrong. No birdsong rang in the air, and the river’s paths were distorted, water flooding through trees and plants rather than flowing through the proper channels.
+
+At a glance, there seemed to be no source to this, but if she watched very carefully, she could see that the mountains were moving. It was so slow as to be near imperceptible to the eye, noticeable only after minutes of watching. It would take many hours for one of the peaks to move even a meter, but when the thing involved was so large… Ling Qi could feel the vibrations of their migration in her bones when she stood upon the ground.
+
+It took some time to find what they were looking for among the moving peaks, and in that time, Ling Qi explained her plan. Soon enough, they found their target, the smallest of the peaks, more of a large hill than a mountain, moving positively quickly compared to its larger kin.
+
+Stopping on the shore of the river that wound around its base, Ling Qi released Zhengui. Her little brother stamped his feet in happiness as he materialized, pleased that he could be of help. Ling Qi smiled and pretended not to notice the expressions on her subordinates’ faces at the appearance of Zhengui.
+
+“Are you ready to begin?” she asked instead, patting Gui on the head as he bumped his blunt snout against her affectionately.
+
+“Y-yes, ma’am,” Chang He replied, tearing his eyes away from Zhengui. He stood at her side. The others were fanned out through the area, watching in case things became troubled. “Whenever you are ready.”
+
+“Alright then,” Ling Qi said, slipping out of her authoritative tone as she grinned. “Zhengui, make this fellow stop for a moment.”
+
+“Yes!” he announced cheerfully, turning toward the hill so very slowly moving toward them. He stomped forward, and qi flooded into the earth. Grass and shrubs gleamed with emerald light as unnatural roots churned the soil, growing downward and anchoring the earth as Zhengui rammed his head into the stony hillside.
+
+“My Big Sister wants to talk, so you had better listen!” Zhen announced, eyeing the great pile of earth and stone imperiously. Behind him, Ling Qi silently breathed out and activated the Thousand Rings Unbreaking technique, enhancing the roots laid down and making her little brother truly immovable.
+
+For a time, there was no sound save for the growl of effort made by her little brother as the stone he had pressed his head against pushed harder and harder against him. Ling Qi grimaced at the expense of activating the expensive technique a second time, but she was soon rewarded as stone splintered with an audible crack and the hill shook, a noise like a subsonic groan rattling her bones. For the first time, she felt the weight of the hill's qi shift, changing from a dissipated awareness to a focused attention on the obstacle in its path.
+
+She glanced at Chang He, who nodded sharply and kneeled down, digging his hands into the soil. He spoke slowly and deliberatively, clearly enunciating each syllable. “Old One, what ails you? Why do your kind move with such speed and in such numbers?” She felt the pulse of qi in his words, conveying more than spoken words. An art then. To more clearly communicate with spirits?
+
+It took a long moment before there was any response, but eventually with much groaning and grinding, the hill's eyes, two great clefts in the earth, black as pitch save for the flickering of pale blue flame in their depths, opened. The whole hill rumbled, a long string of noise and jumbled expression that Ling Qi was nonetheless able to decipher, thanks to her skill at music.
+
+Chang He relayed the words even as she mulled them over in her thoughts. “The fallen star stirs. Destruction burns below,” the old man said slowly, sounding troubled.
+
+“It is afraid,” Ling Qi confirmed what she could sense Chang He thinking. Wasn’t that a worrying thought? “Ask it where the ‘star’ is.”
+
+Chang He repeated his question, but the reply was only marginally helpful. “South. Always south, and deep below.” Chang He grimaced as the rumbling ceased.
+
+Further questioning proved mostly useless, and they received only fragmented answers and vague references. There was “poison rising from the deepest depths” and “the winter winds would awaken the crumbling titan.” All very ominous, but none of it very clear or helpful. The longer they forced the hill to remain still, the more agitated it was becoming too.
+
+Eventually, they withdrew, and as they others rejoined them, she asked the first question that came to mind. “Did any of that make sense to you? I’ve never heard of a real falling star.” While the term was used fairly often as a poetic descriptor for different celestial phenomena, actual stars didn’t move. They were just hidden while the sun moved overhead.
+
+<Right? I don’t get it,> Sixiang said, sounding frustrated. <Still, I feel like I almost remember something.>
+
+Chang He and Mo Lian remained silent, the younger of the two tugging nervously at his beard. However, it was Chun Yan who spoke up, a frown on her hard features. “I remember my gran telling a story ‘bout the gods sending down a star to punish a wicked dragon king. Just an old folk tale though.”
+
+They all fell silent for a moment. “It is probably just a flowery metaphor for something,” Ling Qi said. Even reading the expression directly, a falling star was just a burning radiance descending from the sky. It almost reminded her of the Duchess, but the Cai’s light techniques lacked the rippling veils of color expressed by the hills “words.” “Perhaps a powerful spirit beast died in the south, and its blood is poisoning the earth.”
+
+“Seems more likely,” Chun Yan agreed.
+
+“Yes, that seems more likely. Should we search for the source then, ma’am?” Mo Lian asked.
+
+“That would probably be for the best,” she agreed. “You’ll lead us then. Focus on the ground, and look for unusual traces. The rest of us will keep watch while you search.”
+
+The clear order seemed to snap them out of their thoughts, and once again Ling Qi was treated to three simultaneous “Yes, ma’am.”
+
+<I dunno. Something gives me a bad feeling,> Sixiang murmured in her thoughts as they set off.
+
+<I don’t like it either,> Hanyi said, speaking up for the first time in awhile. <The mountain was being creepy.>
+
+<Do not worry. I, Zhen, will frighten away the scary lights for Hanyi,> Zhen hissed teasingly.
+
+Ling Qi sighed as the noise in her head returned to normal levels. She was probably overthinking things.

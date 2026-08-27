@@ -1,0 +1,107 @@
+---
+id: c45d31ce-e03d-5921-857f-82e69a00ecf3
+page-type-slug: story-chapter-royal-road
+title: "Threads 42-Justice 3"
+slug: 0055-threads-42-justice-3
+partOf: forge-of-destiny
+position: 55
+ownLength: 3373
+unit: words
+publishedAt: 2021-01-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/621810/threads-42-justice-3"
+royalRoadId: "621810"
+---
+
+Ling Qi found her thoughts drifting back to the old story which she had read when looking into Bai Xiao Fen and the Bai clan in general.
+
+“But the Red Python and the Green Asp scorned their ascended father’s will, and they rose in rebellion against the first White Serpent Queen. Only the Black Viper stood steadfast at her side.”
+
+If this wasn’t a trick, it looked like she was going to have to talk to Meizhen about her extended family and their resistance to the new alliance with Emerald Seas.
+
+Ling Qi felt Sixiang’s qi pulse and the pain in her side faded. Ling Qi bent her knees and lunged. The wind screamed past her ears and the mist flowed forward like a living sea, following her movement. The very moment the mists rolled over the probable Bai, she did something that she had never done on the practice field.
+
+Ling Qi played the final measure of the Forgotten Vale Melody. At once, the echoing refrain which carried on the melody cut out, and the mist seemed to tremble in anticipation. It collapsed. Hundreds of meters worth of mist collapsed in on itself, condensing and withdrawing as the weight of the technique smashed down on the bandits and the Bai as well.
+
+Even as she felt a desperate pulse of metallic qi ripple out, she felt the flickering pale auras of many of her first realm foes’ spirits simply snuff out like a candle doused in a bucket. Ling Qi had no time to focus on the cold, unpleasant feeling that welled in her stomach at the realization of what had happened because the very earth lashed out at her in response to her assault. It was not a physical retaliation, but tendrils of powerful qi, snapping out at her like the tails of a whip, erupted from the mud beneath her feet.
+
+The emerald mantle of a hastily activated Deepwood Vitality caught one, but three others lashed her as it shattered, and Ling Qi had to hold back a scream as they carved lines of burning pain across her spirit. The Bai was no longer sneering however as the shimmering veil of deep brown qi that had shrouded him crumbled, and she could feel the mark her attack had left on his own spirit. He had hurt her more than she had hurt him, but she could see the rage in his eyes at having been hurt at all.
+
+All around her, she saw that her technique had been more effective elsewhere. Many of the bandits lay upon the ground. Although some still moved weakly and showed a spark of life, most of them lay empty, their spirits extinguished. The ones which had fallen on their backs stared up with blank eyes at the sky, and though their chests still rose and fell, there was no life there. Those who still stood huddled around the stocky, armored woman with trembling limbs, staring at her in terror. Their leader stood in the center, depleted qi only slowly returning to her aura. The illusionist was among those on the ground, breathing feebly and clutching the stump of his arm where Cai Renxiang’s light had burned it off. Her domain weapon winged back toward her, drops of crimson blood marking its edge.
+
+And Ling Qi felt in the tremble of her breath the depletion of her reserves the massive attack had wrought.
+
+Of the camouflaged archers, she saw only two. The one Zhen had mangled lay on the ground, and another knelt in the dirt, having barely withstood her attack. But Ling Qi could feel seven channels beneath the earth terminating where the Bai archer stood. He had protected the remaining archers with whatever that technique had been.
+
+There was a moment then where the only sound was the faint echo of her Spring Breeze Canto and the noise of the phantom revel that still surrounded her. The laughter and song contrasted sharply with their surroundings, and brightly dressed fairy dancers cavorted atop churned mud and corpses. Silently, she sent a command to Zhengui, telling him to fall back and draw closer to her.
+
+As Zhengui took his first step back, everything exploded back into motion. A pulse of her qi through the revel sent a gangly, goat-like spirit in a shimmering nobleman’s robe to seize the arms of the remaining bandit leader and dragged her, struggling, out of formation. Two of the bandit leader’s crossbow-wielding subordinates swiftly joined her.
+
+The air above the Bai shimmered, and a green blur shot toward her, crossing hundreds of meters in an instant. It resolved into a sphere of deep green jade carved with scores of formation characters. It rotated swiftly in the air above her, releasing a cloud of foul green vapor that spread near as swiftly and as far as her mist.
+
+The throat of the Bai’s serpent companion bulged, and the massive snake spat out a man-sized glob of mud which swiftly expanded as it left the beast’s mouth before crumbling to reveal four disoriented archers. The archers stumbled about in confusion, but they were otherwise unharmed.
+
+At the same time, Ling Qi activated her Graceful Crescent Dancer technique and blinked out of corporeal existence as a second spear-like arrow thundered through the space where she had been and detonated in the muck. A second, a third, and fourth followed, and she zigged and zagged desperately, throwing herself into the cover generated by the expanding ash cloud Zhengui unleashed.
+
+As her Singing Blade shot toward the Jade Orb in the air and glanced off in a shower of sparks, individual bandits continued to break formation, running and stumbling with blank eyes toward Zhengui and the little snow girl crouched mischievously beneath his bulk. Only a handful of the shots sent her way from the bandits’ crumbling formation even fell in her general vicinity, most shot wildly into the revel instead.
+
+Ling Qi was no longer fighting wholly alone however. The advancing dawn-like light of Cai Renxiang’s formation grew brighter and closer, and a white-fletched arrow picked off one of the bandits Hanyi had drawn out of formation, taking the confused woman in the throat. Ling Qi heard a familiar chime and caught a glimpse of a white ribbon and the tinkling bells dangling from it. She felt her confidence rise as narrow beams of light from Cai Renxiang’s domain weapon cut through the sky to smash against the spinning surface of the poison spewing orb that had thus far resisted her Singing Blade’s efforts to push it back.
+
+Despite the churning in her stomach and the worry in her heart, Ling Qi did not hide herself behind Zhengui, even as the poison mist raining down upon them made her skin tingle and itch. Instead, she gave the Bai a challenging smirk as the shimmering viridian light that shrouded her darkened and grew thick and gnarled, taking on the texture of bark. She needed to make sure that the Bai didn’t just run away with the package toward the border, and to do that, she wanted to prick his pride.
+
+Her challenge was answered fiercely. Without giving any visible command, the archers the Bai had saved fell back into formation and fired a volley of arrows that sizzled with poison as they arced unerring through the sky toward her. She did not even have to move as Zhengui lumbered in front of her. Arrows shattered on his shell, hissing and bubbling as the poison boiled off from his heat. Others struck home, sinking into Zhen’s scales or Gui’s stout legs, but her little brother merely let out an enraged hiss and a trailing section of the ash clouds shrouding them flared green and vanished. Arrows were pushed out of his wounds and boiling poison was ejected from his flesh in hissing spurts as his wounds closed.
+
+Ling Qi felt her minor wounds and some of the spiritual ache from the Bai’s counter fading as well, but she could not let her guard down yet. She felt the ripples in the wind as not one but three supersonic projectiles left her enemy’s bow. She spun out of the path of the first as the arrow twisted midair to avoid Zhengui’s bulk and crashed into the mud behind her with a thunderous crack, the resulting wave of mud passing through her ghostlike form to splatter and harden on Zhengui’s flank. The second crashed down not even a moment later, and Ling Qi leaped to the side, only for it to explode into a half-dozen smaller, seeking missiles. Three of them struck home. Two shattered upon her gown, reinforced as it was by her defensive techniques, but the third piece cut a burning line across her cheek. Ling Qi stumbled as pain exploded through her veins, making her vision swim even as she held back a cry of pain.
+
+She barely had the presence of mind to draw upon her Deepwood Vitality technique again, throwing up a barrier in time to catch the third spear-arrow with a crack of thunder. The scent of rot reached her nose as the missile rapidly corroded the barrier and itself. This time, she was not fast enough to dodge as a shard of wood the length of her forearm punched through and dug into her side, thankfully glancing off of her ribs before it could penetrate deeper.
+
+Sixiang was saying something, but Ling Qi could not quite understand their words through the haze of pain in her thoughts. She grit her teeth, forcing herself to see through the pain and prepare herself as her enemy nocked another arrow. Distantly, she felt a pulse of qi as the remaining bandit leader tore her hands free of the phantom dancer’s grip, but it seemed so far away compared to the sickly warmth spreading from the gash across her side. She felt the ground beneath her feet try to turn into a sucking pit of mud, but a web of rootlets spread through it faster than it could change, forcing the ground to stay solid, and more ash vanished, crumbling flakes sticking to her wounds and rebuilding flesh. It dulled the pain and allowed her to think more clearly.
+
+Then a star fell from the sky, and the haze of toxic mist raining down upon them evaporated before its purifying light. A solid bar of liquid light smashed into the spinning orb, and despite the resilience of domain weapons, Ling Qi saw a spider web of cracks spread across its surface before it was flung away.
+
+Cai Renxiang floated above her in a corona of light that would have been blinding to a lesser cultivator. Ling Qi could see the girl at the center of it, suspended on wings formed by curling threads of light. Her arms were bare, and the hem of her gown had risen to almost above her knees. The saber in her right hand looked like little more than an incandescent bar, impossible for even Ling Qi to look directly at.
+
+She met her liege’s eyes then, and the girl gave her tiny nod of acknowledgement. “Ling Qi, with me.”
+
+It was a command, crisp and brief, the voice of one who had no doubts that they would be obeyed. Ling Qi found in this instance that it didn’t rankle her at all. In an instant, she conveyed her thoughts to her spirits. She sent Hanyi to help the soldiers with the remaining bandits and urged Zhengui to catch up with her and Cai Renxiang as quickly as he could.
+
+Then she rose from the ground on wings of starry shadows, and the light of Cai Renxiang’s wings washed over her, liquid light threading through her shadows, wrapping her limbs in threads of inviolate light. In turn, the vital qi pulsing through the meridians in her heart and spine flared as she expended a great flood of qi to activate the Thousand Rings Unbreaking technique, shrouding her spirits and Cai Renxiang alike in the unbreakable vitality of the Emerald Seas’ forests.
+
+Together with Cai Renxiang, she shot forward, the sun and the shadow that chased it. Arrows rained down on them. The lesser missiles shattered on contact or burned up in the purifying light before they could do even that much.
+
+Behind them, Ling Qi could hear and feel the clash as the soldiers made contact with the remaining bandits. Battered and disorganized as they now were, the soldiers cut into the bandits’ broken formation without mercy. With the echoes of her Canto still ringing in the air, she saw luminous spears punching through patchwork armor. A stocky, armored woman, her limbs trembling with exertion and exhaustion, swung her heavy axe desperately to drive back the gleaming celestial-armored soldiers.
+
+She and Cai Renxiang had their own troubles. Ahead of them, a toxic smoke rose steaming from the ground to shroud their enemy, and the two of them spun apart to avoid the thunderous passage of another spear arrow. A second came, and Cai Renxiang swung her saber. The shockwave that erupted from the meeting of missile and blade flattened grass and tore the leaves from nearby trees. When a third and a fourth arrow struck in the wake of the second, Cai’s light flared, bleaching the color from bark and grass. Ling Qi glimpsed the faceless visage of liquid light that replaced her liege’s face as the two arrows disintegrated, leaving only a cloud of shrapnel to cut across her bare limbs and face. It failed to do harm through layers of white and emerald qi.
+
+Their enemy, along with his soldiers, retreated before them, shrouded in a vast cloud of toxic qi. But Ling Qi knew that they could not afford to let him get away. She might not know politics as well as some, but if he were to escape, even she could see the mess that would result. So, despite memories of exploding flesh and the blank-eyed stares of still living corpses, she began her mentor’s song, singing the Aria of Spring’s End, enhanced by the Echoes of Absolute Winter. The mud and water froze in her passage, and the moisture in the air turned cold, raining down as a soft snow on the now frozen marsh.
+
+Above her, she saw Cai Renxiang’s lips thin with the same resolve and the spray of crimson droplets as Cai drew her free hand across the edge of her new blade. She saw the heiress’ lips move, and though she could not hear the words over the howl of the wind and her own song, she could read them well enough.
+
+“Cifeng, Liming, kill.”
+
+Ling Qi felt the pulse of radiant qi from Cai Renxiang’s dantian, and it was quickly absorbed into Cai’s gown. There was no physical sound, but attuned as she was to the expressions of the soul, the howl from Cai’s dress spirit struck Ling Qi like a wave. The pulse redoubled as it flowed out from Liming and into the hilt of Cifeng, the saber in Cai’s hand. The blazing sword cackled in a silent voice of pure bloodlust as a star was born at its burning tip, and the technique Cai had channeled was redoubled yet again.
+
+Then Cai Renxiang brought her blade down, and the world in front of them vanished in light. The light thundered down from the sky, consuming a perfect circle a quarter kilometer in radius. When it faded, trees and plants were gone and the earth was bleached white, but as the blinding light faded, a violet missile roared out, forcing Cai Renxiang to twist to the side as it roared through where she had been.
+
+The dodge was not enough however as the whole of it exploded outward into a cloud of dense, noxious mist. Even Ling Qi had to flit away, so far did it spread. Cai Renxiang emerged from the mist, sickly black poison clinging and bubbling to her left arm, a grimace of pain on her face.
+
+Standing before them, his mist stripped away, was their opponent. Only two of his men still remained alive. Of the others, only ashen shadows on the bleached earth remained. The Bai stared up at them with hatred in his golden eyes. Bloodless gouges marked the scales of his companion, and the man himself was scorched and ruffled, parts of his armor disintegrated, leaving bare his slightly scorched flesh.
+
+For a moment, they stared daggers at one another. Then a glob of boiling venom splattered across the ground with a bubbling hiss, launched by a frustrated Zhengui far behind them, and they exploded back into motion.
+
+Sped by the enhancing power of her liege’s techniques, Ling Qi shot forward through the sky in a cloud of rapidly forming snowfall and played the Hoarfrost Refrain. The melody rang out, freezing solid the bleached and scorched earth, and it washed over her enemies, stopped from reaching their flesh only by a pulse of ochre qi that erupted from the Bai, cloaking them against her wintery power. Arrows rose to punish her for her assault, but she spun and danced through the air like a flitting butterfly of starlight. She avoided what she could and simply took what she couldn’t, letting shards of rot-infused arrows bounce off of her enhanced gown.
+
+Her enemies’ main focus remained on Cai Renxiang. Earthen qi spread from the Bai’s companion, and she saw the snake begin to move as if to dive underground, but its spade-like head merely crashed into the hard packed earth, sending up a spray of dirt but nothing more. Whatever Cai Renxiang had done, it had rendered the very earth inert.
+
+The Bai cursed as he leaped off his confused companion’s head and unleashed another volley of arrows toward the heiress in the sky, his hand and the string of his bow blurring with inhuman speed as he fired off a half- dozen spear-like arrows in the time that most would take to fire one.
+
+But Cai Renxiang was not alone. Her gown, so often inert and peaceful, seemed alive and eager for battle now. Tendrils of light from her gown snatched arrows from the air and crushed them, devouring the qi infused into them like a hungry beast. Her sword seemed to sing with bloodthirsty delight with every swing as Cai batted away projectiles. Her liege blurred then, her corona of light brightening until even Ling Qi could not see through it as she smashed down upon the bleached earth like a falling star.
+
+The Bai, his spirit, and his men were all flung away. As Cai Renxiang emerged from the crater she had left in the earth, her blazing sword marked by the black smoke of evaporating blood, the Bai landed on his feet, a deep groove carved in the front of the Bai’s massive bow and a cut across his chest.
+
+Roots speared up out of the inert earth then, entangling the thrashing, brown-scaled snake, and Ling Qi sang her refrain again as she soared over the man, lashing him with her icy melody. He threw back most of her assault with a flare of earth qi, but this time, a single note speared through, and she felt her icy qi take hold in his blood.
+
+Behind them, the bandits were falling, broken up and defeated by Cai’s soldiers. Many were dead, but some had merely been beaten unconscious. Cai Renxiang fell upon their opponent again in a masterful combination, her living saber darting and twirling through the air, releasing pulses of scourging light at every point of contact while hungry threads from Liming sought the Bai’s flesh. Over her head, she heard the crack of stone as her Singing Blade and Cai’s ribbon shattered an orb of jade.
+
+As she sped through the air, Ling Qi saw the panic growing in the Bai’s spirit, an insidious thread spreading ever so slowly and weakening his resolve. She saw his free hand inching toward a loop of beads hanging from his belt, marked with formation characters that she knew to be those of an escape talisman.
+
+Most of all, she saw that his back was open as he fended off her liege.

@@ -1,0 +1,131 @@
+---
+id: bf62c80a-2baf-5023-9daf-b76d7239b176
+page-type-slug: story-chapter-royal-road
+title: "Threads 350 Summit 2"
+slug: 0390-threads-350-summit-2
+partOf: forge-of-destiny
+position: 390
+ownLength: 1937
+unit: words
+publishedAt: 2023-11-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1427958/threads-350-summit-2"
+royalRoadId: "1427958"
+---
+
+“So there is truly something amiss,” Cai Renxiang said from behind steepled fingers, her brow crinkled with a frustration that reflected Ling Qi’s own feelings.
+
+The room itself was small without being cramped, plain like the rest of the meeting hall. The floor was bare but polished wood, and there was only a single hanging, a watercolor depicting Tsu the Diviner smiting the Wolf God over a backdrop of Xiangmen.
+
+“Shu Yue has confirmed that they agree with the assessment of Meng Dan and myself,” Ling Qi said.
+
+Ling Qi had spent her time in between meeting Shu Yue and this meeting by collating information and reports from among the staff. There were many little accidents, but nothing that showed real evidence of tampering or being outside the result of natural geomantic shifts in an unstable region.
+
+Not for the first time, she wished that the general could have been less disruptive.
+
+Gan Guangli stroked his chin. “Troubling, if they cannot find the source immediately.”
+
+“I would ask that all of us keep our eyes well open here, especially…”
+
+"We cannot make any public statements regarding it," Cai Renxiang said, her expression pinched. "Not without destroying this moment and the chance for either side to buy in. Not when it is already so tenuous."
+
+Ling Qi sighed. “Yes.”
+
+“The Ministry of Integrity must be apprised of this matter, if they are not already aware,” Cai Renxiang stated bluntly.
+
+“Although I do not wish to speak ill of them, they may already be aware of it and are choosing to remain silent, much as we intend to do,” Gan Guangli pointed out.
+
+Ling Qi had to grudgingly admit that this was a possibility. While the Ministry had not been friendly to her, she had done little to endear herself to them either.
+
+"Regardless, we must focus on the opening ceremony. This sabotage appears to be slow-acting," Cai Renxiang said. "Do we agree on the broad interest groups we must satisfy here?"
+
+"The nobility of the Emerald Seas is favorably disposed towards us, albeit with a touch of condescension, given the duchess's clear investment and our work thus far. However, we will need to be careful about the concessions we make to keep them that way," Gan Guangli summarized.
+
+“Jaromila is heading the main White Sky group and has a personal interest in this,” Ling Qi offered. “I trust that she is at least as invested in this as we.”
+
+“But they have their larger national interest, much like we do,” Cai Renxiang agreed. “The crows…”
+
+“I believe Emissary Dzintara can be used to gauge that group's interest. It is as much spiritual as political,” Ling Qi said. She had put that much together.
+
+“This leaves our own watchers, the Ministry of Integrity and General Xia.” Gan Guangli said thoughtfully. “Miss Ling has somehow gained the general’s patience.”
+
+“I was merely able to determine the right words to convince her that there is some value in this effort.”
+
+Cai Renxiang glanced at Ling Qi, making a considering sound. Ling Qi smiled.
+
+In truth, she found the general pretty terrifying. She was comprehensible though, if one understood her intent.
+
+“But the ministry is barely on board,” Gan Guangli finished.
+
+“We will need all of these to, at the minimum, not oppose us by the time the summit is complete,” Cai Renxiang said. “At the same time, we must also accomplish our central goal of negotiating a binding ceasefire. If we cannot manage that much, this effort will have been for naught.”
+
+And their position—Cai Renxiang’s position—would be cripplingly weakened. It would take years, if not decades, merely to be taken seriously again.
+
+“But even that is not enough,” Ling Qi said. “Rather, achieving only the bare minimum can only be seen as a failure. We need to establish this ‘foreign quarter’ concept here and foster closer relations.”
+
+“I am more inclined to ‘embassy town’ for our situation,” Gan Guangli said. “But I agree. If we do not accomplish something surpassing the minimum, Lady Cai’s star will not rise.”
+
+“And even beyond our ambitions, if we cannot establish a framework for peaceful relations, failure to accomplish more will only ensure that the south remains unstable” Ling Qi said.
+
+“And there is only so much time,” Cai Renxiang said. “Ling Qi, you will be taking the lead in this. I will speak, especially to our own side, but your knowledge of the foreigners must guide my interactions.”
+
+“You will have them. What is the speech schedule for the opening ceremony?”
+
+“Thankfully, the general declined a slot. Luo Jie will speak for the nobles.”
+
+Ling Qi raised her eyebrows, but she could see it. Wang Lian was too blunt, and her clan’s assimilation programs might be divisive. Meng Dan’s uncle was clearly not the sort to give speeches given that she’d not even managed to see the man yet.
+
+“Cao Chun has also demanded the right to speak. I expect him to be less than accommodating but not directly offensive,” Cai Renxiang continued. “After, your Jaromila will speak, followed by the eastern woman. Inzha, was it?”
+
+“It feels so strange to refer to everyone by their given names,” Gan Guangli murmured.
+
+Inzha was taking the second speaking slot? She would have expected Dzintara, or perhaps Khadne. Ling Qi furrowed her brow. Perhaps it was a matter of seniority. She would need to better suss out the foreigners' decision making still.
+
+“Yes, that is her name. And we are speaking first?”
+
+“I will give the introduction and then cede the floor to you. What direction do you intend to take this?”
+
+Ling Qi’s eyes wandered to the ceiling. She had been thinking to emphasize what they could accomplish together with the meeting hall, but that would ring a little dull with the unfinished decor.
+
+“The results of the meeting hall collaboration could still be spun favorably. Look at this around you: complete and secure, if a little rough. See what we may do with only a bare month of time and the teething pains of new cooperation. We could emphasize the quality of everyone’s work and play up the difficulty.”
+
+“That will risk some doubling down on the offense taken,” Cai Renxiang pointed out. “And it may make others question why you chose an impossible task.”
+
+“It wasn’t impossible,” Ling Qi grumbled. “But it was a reach.”
+
+“That was not a rebuke, merely putting forth the likely challenge.”
+
+“I understand.”
+
+Gan Guangli suggested, “Perhaps, you should instead take an acknowledging tone and use your success in cooling tempers. What about a speech emphasizing that we may peacefully solve our disagreements?”
+
+“It still acknowledges that there is a problem, which will be enough to put off some. But it's not a bad approach either.”
+
+Ling Qi sighed. She really was stubborn, trying to find a way to stick with her original plan even when it was no longer the best idea. It was just so frustrating to be thwarted by just the length of a fingernail.
+
+“I think you are right, Gan Guangli,” Ling Qi relented. “Trying to hang onto the project itself when it has clearly fallen short is arrogant on my part. Maybe I could manage with more experience, but it’s just as likely to make the representatives see me as a stubborn child right now.”
+
+“I do not think your idea was poor,” Gan Guangli placated. “I am confident you could have pulled it off.”
+
+“It would be a risky ploy, a gamble coming on the tail of another,” Cai Renxiang said. “If you truly thought it best…”
+
+“I don’t. I merely needed a nudge to adjust my thinking. No, focusing on the success of resolving the working dispute and the cooperative patrols and such is a much better idea. So, let me run a few approaches by you two, and you can tell me what you think…”
+
+***
+
+The meeting hall, Ling Qi thought, was at least the best work in the building. The fusion of styles was a little rough in places but largely worked to a mutual understanding of aesthetics. Carved wooden pillars lined the great hall, rising toward the peaked roof to join the rafters. The columns themselves were carved with draconic imagery with rising coils and grasping claws wrapped around each pillar, finished and varnished in yellow and gold. The rafters bore the blocky geometric art of the Polar Nation, aglow with soft light from the formations worked into the wood. The high windows set in the hall’s walls were open, but they were filled with colored glass, each one depicting a historical scene alternating between the polities.
+
+Unfortunately, the two furthest to the rear had only plain glass, and the floor was bare wood, albeit polished to a mirror shine.
+
+The hall was furnished with a single long table, heavy and solid, but the seating was split. On their end, there were individual chairs and seats; on the White Sky’s end, there were long padded benches they seemed to prefer, with an exception for the larger seat at the head of the table.
+
+That seat was occupied by Jaromila, arrayed in a pale, sky blue dress lined with white fur and a circlet of iron on her brow. Her husband stood behind her to the right, and on her left, one of the old crows stood, leaning on his stick. The other emissaries were arrayed around her, Khadne and Dzintara on one side, and Inzha and Rostam on the other. Dzintara was back in more formal robes, heavy furs about her shoulders and a dress that clacked with woven beads. The others had not changed their garb much.
+
+At the imperial side of the table, she and Gan Guangli flanked Lady Cai at her seat at the head. Meng Dan and his uncle, Deming, occupied the left side of the table. The older Meng looked like a sage out of a storybook with a wrinkled face, gray hair tied in a topknot, and a long silvery beard that fell to his waist. He and Meng Dan wore loose robes in earthen tones. Luo Jie and Wang Lian were seated across from the Meng, and down the table from them was Cao Chun in his ministry black robes. A white porcelain mask over his face was marked only by the painted third eye over his brow, the sign of his rank. Another masked agent stood at his back.
+
+The rest of the seats at the table were filled with aides and functionaries from both sides.
+
+Well back from the main table was seating for their ducal observers. The Bai and the Sun were kept apart with Xuan Shi and Zheng Fu in between them.
+
+Cai Renxiang stood. Even the order of these opening words had required furious, if brief, negotiation. Ling Qi was glad she had spoken to Jaromila beforehand, letting them cooperate a little. The imperial side saw the right to speak first as important, but the White Sky typically decided that by lottery in their ‘things’ when the point was in contention. This difference meant that Jaromila was able to “concede” without losing face, and Ling Qi was able to “win” the preliminary debate and satisfy some grumbling at no cost. That had made it easier to negotiate alternating speakers after that too.
+
+“Welcome, guests of the empire, guests of the Emerald Seas. I thank you all for coming here, staying here, and joining these talks. The clan of Cai looks forward to the success of these negotiations and the coming peace between our peoples. I cede the floor now to Baroness Ling, my emissary.”

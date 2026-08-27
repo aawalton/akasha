@@ -1,0 +1,131 @@
+---
+id: 545e0db3-5b9a-5908-8f2d-3f368982b623
+page-type-slug: story-chapter-royal-road
+title: "Threads 456-Geomancy 1"
+slug: 0501-threads-456-geomancy-1
+partOf: forge-of-destiny
+position: 501
+ownLength: 2484
+unit: words
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2388509/threads-456-geomancy-1"
+royalRoadId: "2388509"
+---
+
+The days that followed were far more routine. She reviewed travel plans, double-checked the town planning that was within her responsibility, spent time with her family, and oversaw the burgeoning religious rites of their town of Shenglu.
+
+She had to admit, gathering up a score of burly quarrymen to ensure that their work songs were not straying from the desired format of the spirits under their feet was not an experience she had ever thought to have. Thankfully, at least one of them did know how to properly carry a tune and remember the right rhythm, so he ended the day with a promotion. She could have some comfort that the observation of religious rites should remain well at Shenglu for a month or two without her intervention. She could also see how it was that so many cultivators might slow their cultivation down so badly as they took up more and more worldly responsibility.
+
+That would not be her. She would find the time to cultivate and to keep advancing down the next steps on her path.
+
+"It is not often that my lessons are regarded as the break in one’s work day." Meng Duyi leaned heavily on his stick as they climbed the graded path on the cliffside that backed Shenglu. "You are truly ill suited to stillness, for one so steeped in yin."
+
+"My need to move is one of the balancing factors in my cultivation," Ling Qi said. "I'm still often reactive, but…"
+
+"You feel you must seek out new things to react to. A strange, but not unheard of, twist upon your character," Meng Duyi agreed. "Being well anchored to duty is a good trait for one who will lead and rule."
+
+Ling Qi grimaced. She still wasn't enthusiastic about that part of being a baron, but the administrative duty, at least, the responsibility over many lives, was a burden she had accepted at this point. "Perhaps. I can only hope it's enough. May I ask why you've chosen this place for our conversation?"
+
+"The vista is demonstrative. The cliff is yet a border and barrier, a useful lecture aid, and this old man simply enjoys a good climb," Meng Duyi replied. "You have asked after the foundations, the thoughts which underlie the forest ways, and what the fundamental difference between it and the imperial ways are."
+
+"Not the old and new ways?"
+
+"No. Neither is older than the other. That is a false comparison. We do not practice what the earliest Weilu did. How could we? In ten thousand years, the landscape has changed beneath us."
+
+They mounted the clifftop and turned to look over the vast expanse of the lake and the vale surrounding it, stretching out into the rolling rocky hills that gradually rose into more mountains.
+
+"Look upon this. The majesty of nature, to a mortal, and even to a young cultivator, evokes a primal awe. This is the world untouched by man, eternal and magnificent. But it is not so. These stones travel, these woods die and grow anew, and even that great lake which you have contracted is a young spirit by the standard of the world. It was not here when the Horned Lord walked the world nor when the glacial ice still crouched atop this cliff. The ground changes. A wise man must be ready to change with it."
+
+Meng Duyi continued his lecture.
+
+"One could call this the difference, the power of pacts and negotiation that a geomancer of the Weilu tradition must commit to. Spirits change, if differently than men do. Their long existences may be broken up into sharp divides, or they may evolve with the changing patterns of wind and water. The River Jing has shifted its southern course from east to west and back again a dozen times in our recordings alone."
+
+Meng Duyi concluded, "We cannot bind the world in place. We can only bend it to our needs. Adjust, react, and negotiate. In many ways, our methods are deeply yin."
+
+"And the imperial ones are the opposite," Ling Qi realized. "They are forceful, domineering, and yang."
+
+"It is so. I will not pretend they have no points. Their origin was not ours. Even before Tsu set the course of seasons, the lands of the south were rich with the bounty of the forest. In the crumbling citadels and pollution left by the fallen gods in the north, our accommodations would have been foolish."
+
+"That is surprising to hear you say, teacher. Why so?"
+
+"Because there are spirits which men must deal with using a closed fist." Meng Duyi rapped the point of his staff against the stone. "There are the foul winds which blow from the eastern wastes, the Rasping Wind and its millions of vile children, the Twelve Poxes. Many of the spirits of the Celestial Peaks were akin to them, the broken and malicious leavings of the Dragon Gods. To understand a philosophy or approach, one must comprehend how it arose. To the first geomancers of the Celestial Peaks, to do anything but cut and carve and tame through force and guile was foolish."
+
+"Were the Peaks truly so unnatural?" Ling Qi wondered.
+
+"An incorrect construction," Meng Duyi corrected. "Natural. A meaningless term. Is a wasp’s nest 'unnatural' because it is constructed? No. Rather, the Celestial Peaks are the Celestial Peaks, and the Emerald Seas are the Emerald Seas. Different foundations give rise to different houses. This is where the imperial method errs. It sees all lands as the same malicious ruin on which it was built, and so seeks to 'tame' them all in the same way. One can quibble over which spirits are best treated with as neighbors and which are best exorcised and driven forth, but the base assumption that all must be locked into their current shape and only allowed change when it suits their engineering is where we must butt heads with those northerners."
+
+"Is that the difference then? That the Weilu method sees spirits as people to be negotiated with and lived with or fought and potentially slain, and the imperial method sees them more as obstacles to be broken down, repurposed, or removed?"
+
+"That is how most understand it. The imperial method is suspicious of spirits. Down to its core, it is built to protect men, no matter the cost to spirits. This has its own costs to those men in the future."
+
+Ling Qi looked over the vista. She imagined it as it might be in the future, roads winding through it like veins, and the lights of little settlements springing up, nestled amidst the hills and spreading along the curve of the lake. She could understand that urge. Nature could be beautiful, but so, too, were the works of people, and if it came down to it, she was human, and she valued human lives.
+
+Zhengui, Hanyi, and Sixiang were her family. It was not the same as imagining their settlements and human presence intruding on random spirits of wood and hill.
+
+"What is the downside of the Weilu method then?"
+
+For a moment, she worried she had offended him. Then, the old man rolled his shoulders, bones cracking and popping. "Danger. Where two tribes of men meet, squabbles will come, and men and spirits are more different than that. Men will give offense, and spirits will take where the words of a contract are loose. The flexibility of our method is its own weakness. Diversity is strength. It is also a promise of conflict."
+
+Ling Qi didn't know if she liked that particular construction of words, but she did feel some resonation there.
+
+"The cost of multitude is multitude. The benefit of multitude is multitude. Folly to dream of ending one without ending the other."
+
+She stilled, finding herself pinned by Meng Duyi's gaze. It was a sharp and searching stare, a pressure which made her shoulders shake. And then it was gone, as ephemeral as the passing wind. "Where did you hear that phrasing, Baroness?"
+
+Ling Qi did not want to answer that. Not when her words had bubbled up from the dissolved qi of one who called himself the Arch Heretic.
+
+One she was going to have to speak with soon at that.
+
+After a long, tense moment, Meng Duyi relented. "No matter. Those kinds of words broke free under the Radiant Tyrant. One should consider this: want is the root of life, and want is the root of suffering. It is not wrong to seek what lies beyond this petty and broken world, to seek the peace in oneness and in the completion of the soul. The error of the Hui was not in seeking that unity, but in the mad dream that transcendence could be forced on others. Pfah, deeper than that, the error was the idea that one who dreamed of such mastery of other men could ever call themselves enlightened."
+
+She felt a stirring in the scraps of that qi, a response that wanted to bubble up, but she clamped down on it, lest she further arouse the older man's suspicion.
+
+"I am too inexperienced to say. I was only repeating a saying that I had heard. Forgive my ignorance, Sir Meng."
+
+"It is nothing, just a turn of phrase that reminded me of an obnoxious, peacock of a man." Meng Duyi snorted. "Leaving that aside, you have spoken of borders and doors as your interests, but in geomancy, these are different subjects. Which do you intend to pursue first?"
+
+"The nature and theory of borders in geomantic terms. As a practitioner of dreamwalking, I have some instinctive understanding, but it would help me improve my insights to dig deep into division."
+
+"Your qi is one of attraction and acceptance. To me, it seems you have already decided that boundaries are to be trampled over."
+
+"Community is, at the basest level, defined by division. There are many other factors, but if I cannot come to understand and decide how that stands with my Way, then my foundation will be made of mud."
+
+Meng Duyi’s silence was not an agreeable silence. There was tension in the air lingering from her earlier gaffe with Huisheng's words.
+
+"My uncle was that sort of man, wasn't he?"
+
+She bowed her head apologetically in response. Meng Delun's battle with the General and the wild venting of his power he had displayed during it had lodged this thought in her head like a weed, and she could not dispute it. For there to be an ”us,” there must in turn be a “them.”
+
+"Is it truly impossible to reach sovereignty without trampling others?"
+
+Ling Qi asked the question that had lingered since her tribulation with the Nightmare of the Emerald Seas. There, she had found a workaround to the challenge and forced a third option where only two had been presented. But was a hidden third option always an option? It was a solution in the moment, but it left the root question unanswered.
+
+"It is. I find it strange a girl your age would ask, even more so one who would speak the words you have. Every moment a human lives, they impose their will on the world. You may, and should try to, be kind and take minimally, but strife and conflict are intrinsic to the imperfect world the Mother and Father created. Beasts hunt and compete for space, grasses and trees strangle out competition with their roots and shade, and men disagree over who shall stand where and have what. You have no issue enforcing your will and your sister’s will upon the spirits of winter here."
+
+"They can't be allowed to rampage and blow in as they wish across Shenglu. Arranging beneficial rites is the most peaceful solution."
+
+"It is, and yet the empty, hungry Whiteout and the Weeping Matron of the glacier would, given their will, rampage and devour," Meng Duyi said. "If you reject the notion of achieving oneness and of abandoning desire to reach a better state—and you do; you are no follower of the Dreaming Way—then why even ask this? So long as people are people, you will always trample the will and want of some in favor of others. As you said, the cost of multitude is multitude."
+
+Ling Qi squeezed her eyes shut. She did not want to be tyrannical. She wanted to achieve her goals through the word rather than the sword. And yet, it would be pointless folly to pretend that she could live without the sword, if she ever wished to actually hold, defend, or advance her interests.
+
+"It was a foolish musing," Ling Qi admitted. "I have been grappling with thoughts on where the line is."
+
+"Those are fine thoughts to grapple with; they are quarrelsome things after all. However, you are falling into a false dilemma and treating the question as absolute. Consider, rather, what it is you would consider worth defying and defeating other wills in favor of."
+
+"Does that not clash with the Dreaming Way?'
+
+"I will not achieve enlightenment in this life,” Meng Duyi confided. “My pride is too much. I work to winnow my desires every day in order to achieve more harmonious projects with which more people can take the time to contemplate their spirits rather than suffering in privation. And for that, I will not grasp that crown. My way is unsuited for it. This old man has foolishly pursued two hares, and for that hubris, he will capture neither. To teach is an elder's prerogative, though, whatever mistakes they have made."
+
+Was sovereignty not doing the impossible though? If one was told “you cannot,” it was the prerogative of the ascended to say, “I can.”. Then again, to do that would defy and trample the desire of the one who said “you cannot.”
+
+Frustrating. She’d get a second opinion to quell and focus these thoughts, but the Meng geomancer was probably right.
+
+"Thank you, teacher, for indulging my foolish questions." Ling Qi clasped her hands and bowed her head.
+
+"It is not onerous," Meng Duyi dismissed. "To learn borders ,then, is to dwell on the nature of that which divides, of categorization and multitude. I will prepare lessons on this topic, and we can resume when you return from your journey as we have only a few short months before you march to war."
+
+She grimaced. "Is it even worth it to begin the lessons when we will be interrupted so soon?"
+
+Meng Duying rapped his cane on the ground. "It is the observation of my ancestors that focusing wholly on war twists the spirit. It was the madness of the Strife which made the Xi what they were, and it was the Xi’s bloodthirst which saw the rise of the Hui. Contemplations of other concepts will not dull the blades you are sharpening."
+
+She bowed once again. “Yes, teacher.”

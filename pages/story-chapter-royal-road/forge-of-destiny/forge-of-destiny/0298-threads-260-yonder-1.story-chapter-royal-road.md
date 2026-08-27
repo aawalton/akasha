@@ -1,0 +1,149 @@
+---
+id: 3d2d71ac-3537-5692-ace5-1723ee40f376
+page-type-slug: story-chapter-royal-road
+title: "Threads 260-Yonder 1"
+slug: 0298-threads-260-yonder-1
+partOf: forge-of-destiny
+position: 298
+ownLength: 1711
+unit: words
+publishedAt: 2022-11-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1034589/threads-260-yonder-1"
+royalRoadId: "1034589"
+---
+
+As they moved out into the gardens to take a small lunch, conversation turned to the recipe she had provided Suyin, an elixir that would aid in the fourth realm breakthrough coming in their future.
+
+“Have you made anything of it?” Ling Qi asked as she took her seat at the polished marble topped outdoor table, allowing the serving constructs to pull out and push in her seat. Beside her, Bao Qingling did the same, crossing her arms over her chest.
+
+“The writer certainly had a twisty mind.” Li Suyin gestured for her attendants to bring forth the plates stacked with sweets and dumplings and snacks. “I’ve found three places where the recipe is ciphered. Following the openly listed instructions at those steps would result in a terrible poison instead.”
+
+It was a good thing that Suyin was a cultivator, or she might really end up round, Ling Qi thought wryly as she observed the spread. “I trust you’ll get it all figured out. Is there anything I can do?”
+
+“Well,” Suyin said tentatively, “I will need some funding once I have everything worked out.”
+
+“Enough ingredients for two elixirs,” Ling Qi said in a tone that brooked no argument.
+
+Bao Qingling snorted into her teacup.
+
+Li Suyin grimaced under their combined stares. “... Yes.”
+
+Ling Qi gave a satisfied nod.
+
+“What you can do now though,” Li Suyin continued more firmly, “is look for a core of the proper type, one that resonates with you.”
+
+“Resonates?” Ling Qi asked.
+
+“I think I see where she’s going,” Sixiang offered from thin air. “She means something that reflects your domain. You need a matching beast or spirit core.”
+
+“Yes,” Suyin agreed. “Elixirs like this… They have recipes, but they require personalization for each user. It will need to be from a beast that is at least on the cusp of the fourth realm itself, if not in that realm itself for proper potency.”
+
+That was a tall order, but for an elixir so important, Ling Qi would have to begin keeping an eye out.
+
+“Also…” Li Suyin trailed off, fiddling with a tea stirrer.
+
+“Also?” Ling Qi echoed.
+
+“I wanted to know if I could help…” Suyin began.
+
+Bao Qingling leveled a flat look at her.
+
+Suyin pouted at the older girl but corrected herself. “... if I could offer my services at a reasonable price.”
+
+Bao Qingling grunted somewhat approvingly, chewing on a bun.
+
+“For what?” Ling Qi asked.
+
+“Surveying your lands for impurity, places with easy passage to the underworld,” Li Suyin said. “Um, that is, I’ve developed a device for it. Although it requires some training to use, I could offer that as well as the device to your surveyors.”
+
+“Of course. I’ll recommend you to Lady Cai. I know your work is good.”
+
+“Thank you. The Sect has recommended that we offer our services to the new nobles moving into the acquired territories, and I wanted to be sure you were getting the best.”
+
+“Is that pride I hear?” Ling Qi wondered, popping a sweet into her mouth.
+
+Li Suyin flushed, but smiled. “I didn’t say anything untrue.”
+
+“Hmph, what a junior I raised,” Bao Qingling said without expression or inflection. “But it is true that no one among the disciples has reproduced your impurity detection devices yet.”
+
+Suyin said primly, “I know not to rest on my laurels. But I can also offer good rates on security formations as well until you can develop your own in-house solutions.”
+
+“I’ll keep that in mind,” Ling Qi said. She did have some ideas for a personal variation on the typical wardstone formation and the ways she could pluck at the lines of the liminal to disincentivize wandering spirits, but she’d need to put aside more time to study formations than the dabbling she had done so far. Quite frankly, she wouldn’t have time to do so until after the summit at the least. “But I was wondering about something actually.”
+
+“Yes?” Suyin asked curiously.
+
+Ling Qi looked to Bao Qingling. “I know you’ve been preparing your supply routes. How are things looking at the summit location?”
+
+“The work of motivated high realms is, as always without peer,” Bao Qingling said flatly. “The road is carved, if rough, the forest and valley scoured, residences thrown up, and the ruins repurposed and their formations either restored or removed.”
+
+“So quickly,” Ling Qi muttered.
+
+Bao Qingling shrugged. “It is still a wild place, but it is being swiftly ordered. A similar group of foreigners have shown up to arrange their own matters. There have been no violent conflicts so far.”
+
+Ling Qi grimaced. “That explains that then.”
+
+“Explains what?” Bao Qingling asked with a frown.
+
+Ling Qi sighed. “Explains why Lady Cai has booked us an appointment to make preliminary arrangements there next month.”
+
+***
+
+“A survey for potential underworld access points is indeed valuable. Good work, Ling Qi,” her liege praised. Despite the deafening thunder of the waterfall, Ling Qi had no trouble hearing her words.
+
+They stood on a narrow cliff overlooking the lake that the Snowblossom River poured down many hundreds of meters into. From so high up, the lake seemed like an oblong patch of deep blue silk, troubled only by the white froth of the waterfall. In the north, the far calmer length of the river wound down into the foothills.
+
+Ling Qi’s gaze panned down the lakeshore where the dense pine treeline had been pushed back. Now, there was a patch of cleared land, wooden watchtowers surrounding a handful of rough log buildings.
+
+Incongruous was the expertly cut and paved roads which reached it from the east and north. The roads shone in the afternoon sun. Fitted with gutters to channel runoff and carved from qi-reinforced stone, these two roads carved by the Wang builders looked like they belonged in a capital city, not a wilderness outpost. One ran north to the Argent Peak Sect, and the other ran east and south to the valley set aside for the diplomatic summit.
+
+“Such fine roads will aid us greatly in bringing both people and material,” Cai Renxiang observed.
+
+“They’ll have to do for a while,” Ling Qi said wryly. “Even with a discount, I don’t think we’ll be expanding more of them soon.” Such roads, built so quickly, were the province of high realm cultivators. It was only her own favor with the Wang family and their own enthusiasm for expansion that got them even two routes of such quality without cost.
+
+“Perhaps not, but it is more than enough to begin with. Your Mei contact with the Gold Autumn school has been useful as well. I have been reviewing dossiers.”
+
+“I appreciate it, Lady Cai, but something is wrong. It is not like you to be so free with praise.”
+
+Cai Renxiang grimaced, turning away from the table set out before them, covered in oiled scrolls containing building plans and blueprints. “I have had much time to think and cultivate, and my rebukes to you during the tournament were both harsh and overemotional.”
+
+Ling Qi blinked, taking a moment to recall, and grimaced herself, remembering the stressed and overwhelmed expression of her liege standing over that crib. “Lady Cai, I took no offense. I disagree with your points, but…”
+
+“But it was unprofessional all the same,” Cai Renxiang finished firmly.
+
+“I have worked hard to get you to be unprofessional in private on occasion.” Ling Qi crossed her arms stubbornly. “I can take the good with the bad.”
+
+Cai Renxiang narrowed her eyes, lips thinning. Ling Qi maintained a respectful downward tilt of her head, but she did not uncross her arms.
+
+“You are deeply vexing at times,” Cai Renxiang said at last.
+
+“This one accepts Lady Cai’s praise.”
+
+Cai Renxiang pinched the bridge of her nose between her fingers and let out a sigh.
+
+“Do you still stand by your words, or were you only apologizing for tone?” Ling Qi asked.
+
+“I am correct about the source of corruption,” her liege maintained, moving to stand at the cliffside, overlooking the lake.
+
+“I sense an addendum,” Ling Qi said cheekily, moving up to stand beside her.
+
+Cai Renxiang gave her a look out of the corner of her eye. “But I recognize that such fundamental connections cannot be kept out of the structures built on top of them. Even the most pristine and meticulously designed organization cannot stand against the actors within it subverting its mechanisms. Perfection is impossible, but improvement is not.”
+
+“I would be disappointed if you said otherwise.”
+
+“That is why I praised your acquisition of contacts within the Gold Autumn School. They understand that the most important part of an organization is its culture.”
+
+“Not the written laws, but the ones left unsaid,” Ling Qi agreed. Living as she had, she was quite familiar with the difference between the law in writing and the law in practice. “It’s impossible to police that entirely, isn’t it?”
+
+“Unless you are a Sovereign devoted to it,” Cai Renxiang said, and it was almost a whisper. “But that is not needed. What we build here is not entirely from scratch. It draws from the wider province. It is possible to establish a working culture which is hostile to the sort of actions which blossom into higher forms of graft and the misery which spreads from it like mold.”
+
+Ling Qi glanced down at the little cluster of shelter buildings that comprised their outpost. “Seems a little early for that.”
+
+“On the contrary, this is the perfect time for beginnings,” her liege replied, and it was a promise.
+
+“Take care of the roots if you wish for the flower, huh? How long do you think it will be before we have people living here for real?”
+
+Cai Renxiang considered the movement below of the scouts, surveyors, and builders going about their business. “With the influx of wealth from the auction granting greater leeway? No more than a month or two.”
+
+Ling Qi took a deep breath. That was honestly a little frightening. Although her liege would be taking the lead, soon, too soon for her liking, a growing number of people would be reliant upon her.
+
+“And that is why I will require you to travel south.”

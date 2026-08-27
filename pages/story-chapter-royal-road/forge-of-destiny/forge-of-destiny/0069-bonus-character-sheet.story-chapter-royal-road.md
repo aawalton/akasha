@@ -1,0 +1,273 @@
+---
+id: 8d86add6-79c4-5548-8f81-daeb3226da66
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Character Sheet"
+slug: 0069-bonus-character-sheet
+partOf: forge-of-destiny
+position: 69
+ownLength: 3754
+unit: words
+publishedAt: 2021-02-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/637027/bonus-character-sheet"
+royalRoadId: "637027"
+---
+
+Ling Qi
+
+Age:15
+
+Spiritual Cultivation Level: Green Foundation Soul (3)
+
+Physical Cultivation Level: Bronze Appraisal Physique (2)
+
+Bound Spirits: Zhengui, Sixiang, Hanyi
+
+Domain Weapon: Singing Mist Blade
+
+Weapon: Ebony Heartswood Flute
+
+Armor: Swaying Twilight Gown
+
+Special Skills:
+
+Insights:
+
+Advanced Insights:
+
+Current Arts:
+
+Eight Phase Ceremony
+
+(Near Mastery) (Main Cultivation Art)
+
+A mystic art based upon consumption of celestial qi to improve and refine body and mind granted to those smiled upon by some aspect of the moon in order to bring them closer to their patron. The Phase the Grinning Crescent Moon emphasizes the mystery and hidden nature of acts performed in the night. The Phase of the Hidden Moon emphasizes the search for secrets, hidden by the darkness of ignorance.
+
+Argent Genesis
+
+(Near Mastery) (Secondary Cultivation Art)
+
+Created by the ancestors of Sect Head Yuan He and polished to perfection under his eye, this art is the successor to the Argent Soul cultivation art. This art offers many insights into building a strong foundation for a young cultivator's future growth. The neutral balanced qi cultivated by this art mingles easily with almost every form of Imperial cultivation, making for a fine secondary art for any young scion.
+
+Forgotten Vale Melody
+
+(Mastered)
+
+There are many forgotten places in the world where human kind does not tread easily. This technique is a part of the chronicle of a long dead wanderer, composed into music and offered to the smiling moon. It speaks of mist covered valleys hidden deep in the mountains and the mischievous and hungry spirits that wait in the dark, and the loneliness of the wanderer’s path.
+
+Mist of the Vale
+
+Playing the first notes of the melancholy melody, the musician causes a light dark mist to roll forth from their instrument. The mist is filled with deceptive shadows and sounds, casting a pall darkness over all within. The mist spreads can cover further and further distances, but as the distance increases so too does the cost. The user may extend immunity to the mists effects to up to ten allies.
+
+Within the mist, foes find their senses confused, attacks against the musician or their allies often strike at phantoms, and seeking to escape the mist or advance upon the musician often result in meandering travelers reminiscent of the composer's own wandering. In their confused state, they become vulnerable to the terrors which can reside in Vales far from civilization.
+
+Dissonance of Night’s Terror
+
+The melody grows low and eerie, punctuated by high, sharp notes, while the mists darken with indistinct and predatory shapes. Claws and fangs of mist and shadow tear at the musician’s foes, rending armor and leaving wounds that bleed freely to feed the hunger of the mist.
+
+Starlight Elegy
+
+The mournful and despairing tune saps the energy of those not insulated from the mist, making their limbs heavy and their thoughts clouded with exhaustion and longing for home. The cloying mist drags at their limbs like the weight of a life spent alone and drains away their qi rapidly, making it difficult to move, let alone attack. Alternatively, the power of the Elegy may be focused on a single target, drowning them in the endless mist, leaving them to wander as if alone and far from from home. So long as they remain lost, their allies aid cannot reach them, and they will wander alone in their perception, aware only of the haunting notes of the melody and its musician.
+
+Traveler’s End
+
+(This technique is only usable when all the other techniques of this art are active)
+
+In a distant, misty valley, far from the works of mankind, a traveler completed a melody and offered it to the moon, the final notes echoing long after his last breath. This melody is but a shadow of that… but even shadows hold power.
+
+The mist grows darker and more cloying still, blotting out almost all external light, and draining the warmth from those trapped within. The mist grows potent with dark qi, fogging the senses still further to bring them the lonely despair of the traveler’s final days. While active all other Forgotten Vale techniques are much harder to dispel, and the Travelers End must be dispelled first.
+
+The user may choose to end the melody at any time after Travelers End has been used. If they do so, the song reaches its finale, and all other techniques of the Forgotten Vale are ended as well. All who were still lost within the mist suffer an immediate spiritual attack of great magnitude, an echo of the travelers death in that far away vale. Those damaged by this attack may be paralyzed utterly by the assault, if their composure is too weak.
+
+Frozen Soul Serenade
+
+(Mastered)
+
+Winter’s Muse sings from its heart, the place of true cold, where even fire freezes and light dies. The truth of cold is the absolution of endings, and in this melody lies some small part of that truth. Its notes freeze blood and qi alike, its notes often the last thing its listeners hear in this world.
+
+Spring’s End Aria
+
+The first notes of the users song herald the end of warmth, draining the heat from the area and around them and crystalizing the moisture in the air into snow and ice. Enemies close to the user find their qi growing sluggish, sapping their spiritual defenses and bolstering the singer's own. Qi expended in the failed assault of the singer drains away, flowing into the singularity of cold created by the singer’s voice. Those whose dantians have been fully drained find their flesh frosting over and their blood running cold as they are lulled into the final sleep.
+
+Hoarfrost Refrain
+
+The user’s song rises into the howl of a blizzard in the depths of winter as they focus the expression of their will upon a single enemy. The song tears and freezes the flesh of the singer's enemy, and spreads through their blood and meridians, carrying the chill deeper still, like a frigid poison seeking the heart of its victims warmth. The chill clings long after the technique ends, sapping the targets vitality and will the insidious cold crawling ever closer to the victim’s heart until at last it stills or the technique is dispelled.
+
+Echoes of Absolute Winter
+
+A technique used in tandem with Aria of Springs End, if activated at the same time, the Aria carries an echo of true winter, stilling the very air around the singer with its freezing chill until blood grows sluggish and flesh cracks.
+
+Call to Ending
+
+The final verse of the Serenade is a quiet, sad thing, lacking the furor of earlier verses. Upon Singing it, a single target which suffers from Hoarfrost Refrains cold feels a terrible pain as the chill infecting them grows to a terrible potency, and every last shred of heat flees their body. Should the singer lay hands upon the target when activating the technique, the damage is greatly increased.
+
+Sable Crescent Step
+
+(Mastered)
+
+Darkness has no form nor presence, and so those who master it learn to cast these things aside, and embrace the absence and silence of the empty night. This movement art focuses on understanding of this rare element allowing the user to move from place to place with little regard for what lies between their present position and their goal.
+
+Grinning Crescent Dancer
+
+Calling upon the favor of the Grinning Moon, and using their skill at manipulating dark qi, the user becomes an indistinct phantom, a flicker of shadow dancing between lights. Greatly enhances the dancers ability to avoid attacks and stay ahead of foes. The deeper the darkness grows the quicker their reactions and movement become. In darkness the dancer's immaterial form may ignore some of the impact of even those attacks which strike its flitting form. No mundane obstacle may block the movement of the Dancer, so long as they can perceive their destination, and entrapping them through wholly physical means becomes impossible.
+
+One with Shadow
+
+The user merges with the shadows and dark, dematerializing entirely. In this form they may slip from shadow to shadow, without crossing the space between so long as the destination shadow is at least moderately sized. In this form the user’s presence is muted, even to spiritual senses. If the user slips successfully into the shadow of an opponent, their connection grants their first attack against that enemy a great potency, ignoring the effects of any damage reduction the target may have. However, an attack on the shadow the user inhabits can harm the user, and damage will break this technique.
+
+Sable Crescent Step
+
+A master of this art may bring its lessons together in a single movement, an impeccable step of matchless grace. The cunning master may find several uses for this movement. Any normal attack may be avoided, no matter how unerring the aim, as the user simply ceases to exist in the material world for a moment, rematerializing within a large range of their current position. If more offensively inclined, the user may instead make a single physical attack utterly bypassing normal defenses.
+
+Thousand Ring Fortress
+
+(Mastered)
+
+An old and well polished art developed by a once powerful but defunct family within the Emerald Sea province. The user joins themselves to the qi of the land, and becomes as one of the mighty trees which stand in the deepest forests of the province, vital and sturdy. Yet one tree is not a forest, and so the user may extend their vitality to their allies.
+
+Deepwood Vitality
+
+The user channels their qi into the earth, spreading like a great tangle of roots to link with up to twenty allies. The vital qi armors each fortifies each cultivator affected against negative effects, as well as a single attack, shattering if it is great enough but leaving the person beneath unharmed.
+
+Ten Ring Defense
+
+This user fills themselves with the vital qi of the great forests to protect themselves and their allies from harm. Glowing verdant qi enshrouds their form, bright as the leaves of the Emerald Seas canopy. The shroud drinks in the qi of the battlefield and grants qi regeneration for each enemy just as the leaves of spring and summer are restored from winter’s clutches. So long as battle is joined, this technique will never fade unless forcibly dispelled
+
+Hundred Ring Armament
+
+Diffusing heavy wood qi through flesh and muscle the user armors themselves and their allies with the iron bark of primeval forests. Granting the user the resilience of a centennial tree, they may shrug off lesser attacks from bladed or piercing weapons, and endure even powerful ones.
+
+Thousand Rings Unbreaking
+
+The eldest trees of the Emerald Seas are mighty things, ancient and nigh invulnerable, akin to living mountains. By calling upon the image of their power, the user gains some measure of their primeval resilience, ignoring minor wounds entirely, and lessening the effect of greater ones. Under this effect, the user becomes utterly immovable to enemy action, and cannot be grappled, unless the enemy’s cultivation exceeds theirs by two levels or one realm. This effect may be extended to up to ten allies. So long as this effect is active, the user cannot be incapacitated, any blow that would reduce their health to such a point instead reduces it to the merely low health. On activation of this aspect, Thousand Rings Unbreaking is automatically dispelled.
+
+Phantasmagoria of Lunar Revelry
+
+An art born from the nature of the dreaming moon, patron of artists and innovators, granted as a favor to one who impressed at her moonlit gala. This art calls upon the memories of that chaotic spiritual revel, allowing the user to use their qi to impress them upon the waking world, and move with the grace of a trueborn maiden of moonlight
+
+Illustrious Phantasmal Festival
+
+The foundational technique from which all others in the art arise. The user gathers their qi and the memories of their night of revelry and expels them through every available channel in a rush of power and gleaming many colored mist. Within a close range centered on the user, ghostly dancers ever shifting in form coalesce from the midst in a riot of color, laughter, music and movement. Amidst the revel the user is but one figure among many, and in its ever shifting tides, only those of sharp eye can even attempt to reach or strike the user directly. Within it’s confines the senses of enemies are confused.
+
+Lunatic Whirl
+
+The ghostly dancers gather around an intruder in the festival, laughing, singing and demanding a dance, forcing them to join the revelry. The dancers seize their arms and hands, dragging them through the chaotic revelry. Though the dancers will do no harm to their captive, the frenetic pace of the revelry is highly draining, and victims find their qi dribbling away, siphoned to the user while the sights and sounds of the revel cloud their minds and steal the strength from their limbs. So long as their hands lie in the grasp of the dancers, they will also find the meridians in their arms blocked and unusable.
+
+Joyous Toast
+
+The guests of the festival raise their voices and cups and stamp their feet in joy, roaring encouragement for the user and their allies and jeering at their foes. The next music, dance or art based technique used by those affected is empowered thanks to the encouragement of the guests.
+
+Curious Diviners Eye
+
+(Mastered)
+
+Inquisitive Study
+
+The user's eyes gleam briefly with a silver sheen as they study the object of their curiosity. The user’s perception increases greatly, allowing them to discern many details that they might otherwise miss.
+
+Seeking Moon’s Eyes
+
+Conjures three reflective silver wisps the size of a coin. Expressions of the Diviner's curiosity, these wisps seek their parents' interest eagerly. The wisps ignore wholly physical obstacles but cannot travel further than too far from their creator. The creator may see from the wisp's position as if they stood there themselves, though only in one direction at a time. This greatly increases their combat perception in the areas within which this sight overlaps.
+
+Watchful Moon Analysis
+
+Used in tandem with an damaging art, this allows the users thoughts to far outspeed their limbs, greatly slowing their perception of the world, and allowing the user to pick out minute details that might otherwise be missed in the flows of an enemy or obstacles qi, and adjust the course of their blow.
+
+Initiate’s Viewing Pool
+
+Requiring a surface of calm water at least two handspans wide, the user concentrates on a familiar person or place within five kilometers of their current position. The user is able to view the person or location in clear detail with both sight and hearing with slightly penalized perception.
+
+Harmony of the Dancing Wind
+
+(Near Mastery)
+
+Spring Breeze Canto
+
+This ephemeral melody rings out with the vital curiosity of youth, The melody carries the musician’s perception among her listeners out far, allowing her to clearly hear and see any one of them, regardless of distractions, so long as the songs echoes last. Once played, the canto lingers as an echo for several minutes with its full effect.
+
+Summer’s Day Rising
+
+This piece, embodying optimism and hope, speaks to the musician's bond with her listeners. Even the tenuous bond of casual acquaintance thrums with new vitality, bolstering allies significantly against spiritual attacks and deceptions. Those of stronger bond are bolstered still further, buoyed by their connection with the musician.
+
+Industrious Labors of Fall
+
+The third piece, which speaks of the labors made in preparation for the long winter, steadies the musicians audience and fills them with determination for the trials ahead. This bolsters the defenses of one’s allies, with the effects being more potent for ones closer to you.
+
+Former Arts:
+
+Argent Mirror
+
+(Mastered)
+
+The early form of the Sects defensive and perceptive arts. Through inner tranquility and surety of self, allows the user to defend against and dispel enemy illusions and crippling techniques as well. Through clarity of mind it allows the user to judge the world with sharp and clear eyes.
+
+Argent Storm
+
+The early form of the Sects physical enhancement and movement arts, combining the flexibility of wind with the sudden force of thunder. Fills the user with the strength of the great seasonal squalls which beat down upon the Wall year after year.
+
+Argent Current
+
+The first form of the Argent Sects melee combat arts. Combines the devouring nature of fire with the persistence of water to break through enemy defenses and bolster allied assault into an unstoppable flow. Together, no defense may stand against the Argent Sect.
+
+Abyssal Exhalation
+
+An art designed by a wanderer of the deep paths under the earth, where things best not seen gnaw at the foundations of the world. Yet in the darkness, he found truth. That earth and darkness are as one, devouring all things in the end. This art allows its user to surround themselves with that power; consume the energy of their foes, and call upon the things that lie in the dark. This art was stolen from Yan Renshu.
+
+Falling Star Art
+
+(Mastered)
+
+An archery art based upon the meditations of an Imperial General on the nature of shooting stars and meteor showers, and observations on certain spirits. Foundational art for several more advanced archery styles. Wraps the users projectiles in wind and infuses them with the wrathful light of the heavens allowing the user to strike down far away foes with powerful shots, piercing through armor and disrupting movement.
+
+Fleeting Zephyr
+
+(Mastered)
+
+The evolution of the emerald seas wind arts focusing on the fleetness and encompassing nature of wind. Grants the user and their followers fleetness of foot and quickness of action.
+
+Potential Future Arts:
+
+Songseeker's Ceremony
+
+A cultivation art unique to Ling Qi, developed with the aid of three phases of the moon. Dreaming, Grinning, and Hidden combine to form the nascent steps of Ling Qi’s own path. The cultivation art rewards feats of daring, self expression, and dealings with the spirits of the world. It is the art of one who seeks the powers hidden in the world, and the beauty of songs old and new.
+
+Laughing Flight of the Wind Thief
+
+(Gifted to Ling Qi from the Grinning Moon)
+
+In this world there are a million tales long forgotten, great and small. In a time before the rule of men, before the arrogance of dragons, there were only beasts that called themselves gods. Yet strength breeds arrogance, and arrogance breeds complacency, and so long ago a cunning young girl plotted and planned and stole the Sovereignty of Wind from the gods. She flew beyond their reach, and mocked them with every league, the wind carrying her laughter across the land. In this art are the seeds of the way she forged, refined for the modern day, to inspire a disciples own flight. In mastering the dual powers of darkness and wind, that they might never be caught unwillingly again.
+
+Beast King's Savage Dirge
+
+(Cai Library Gifted Art)
+
+It is said in legend that as the power of the Horned Lord and the Diviner waxed, the eight Beast Kings who remained came together in council of war and united to bring down the conqueror once and for all. Their footfalls shook the earth and their savagery shook the skies, and though they were defeated in the end, echoes of that terrible march remained etched in the folklore of the Emerald Seas forever more. This art is part of a ballad said to have been composed for the last Weilu dukes, and though its origin is suspect, its power is not.
+
+Bewitching Silver Maiden
+
+(Cai Library Gifted Art) (Domain Incompatible)
+
+An art of the Emerald Seas developed by the old ducal courts. Though their time has passed lessons can still be taken from their ways. This art teaches the user the ways of the fairy maidens who serve as handmaidens to the primeval spirits of the old forests. In crafting an alluring and mysterious mask, the user may mask their true self and intentions from unwelcome eyes.
+
+Coldstar Blade Foundations
+
+(Cai Library Gifted Art)
+
+A Martial Art originating from the Heavenly Peaks province, the Coldstar Blade Foundations are a simplified version of the core martial techniques of the Frozen Sun Sect, who dwell upon the higher peaks of the province and meditate on the dichotomy of being closer to the sun--and yet colder than those who dwell in less rarefied heights. As a Minor Sect who failed to gain Imperial Patronage, they have found themselves outcompeted by the Great Sects who now monopolize the young and talented of the Celestial Empire, and have distributed these teachings in an attempt to keep their methods alive. Experts in the Coldstar Blade Arts are known for their graceful movements and precision--sequestering the life and vitality of their foes before detonating it in all-powerful finishing strikes.
+
+Vengeful River King's Grasp
+
+(Cai Library Gifted Art)
+
+In the Thousand Lakes, the spirits of the rivers are often savage and mercurial beings, as swift to drag an unwary petitioner beneath the waters as they are to grant boons. Though the rivers have long been pacified by fear of the White Serpent Kings and Queens, there are still those who learn their lessons. This art seeks to master the sudden and savage movements of a river flooding in the spring, and drag under any unwary fools who might approach.
+
+Starless Night's Reflection
+
+(Cai Library Gifted Art)
+
+In the Thousand Lakes, the infinite depth of the night sky is reflected from one thousand mirrors, displaying infinite emptiness extending beyond the heavens and into the depths of the earth. In meditating upon this conceptual void, the user seeks to become such a mirror, combining the formlessness and absorption of darkness with the rippling serenity and infinite depth of the lakes. Enemies striking the user and their allies find their weapons and techniques sinking into the shadows, to vanish, doing no more harm than they would if they slashed the waters of mighty Lake Hei, or aimed their malice at the starless sky.
+
+Unstoppable Glacier's March
+
+(Cai Library Gifted Art)
+
+The rivers which wind through and water the Emerald Seas have their origin in the high mountain ice of the Wall. This melody seeks to capture the crushing inevitably of the eons long migrations of these great entities of ice, which in turn birth the great rivers and their unstoppable flow.

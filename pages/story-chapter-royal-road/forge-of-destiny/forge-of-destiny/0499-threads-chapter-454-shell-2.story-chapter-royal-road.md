@@ -1,0 +1,147 @@
+---
+id: 02efdb88-7a6e-5c62-8441-0100e7a51b0c
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 454-Shell 2"
+slug: 0499-threads-chapter-454-shell-2
+partOf: forge-of-destiny
+position: 499
+ownLength: 1702
+unit: words
+publishedAt: 2025-06-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2362576/threads-chapter-454-shell-2"
+royalRoadId: "2362576"
+---
+
+"I was hoping that we could go for a walk on the lakefront, out toward the falls."
+
+Xuan Shi froze, hand in the midst of tracing the connecting line which bound the entry arrays to those embedded in the inner walls. "Miss Ling…"
+
+"I've said Ling Qi is fine many times. I meant what I said back in the hospital."
+
+"Too forward! You dare!" squawked the chicken.
+
+"Peace, Xuanji," Xuan Shi said. "This one would be pleased to accompany thee."
+
+"I am glad. There are some insights that have been on my mind, and I can think of no one better to debate them with."
+
+He tilted his head. "A practical matter?"
+
+"Between the two of us, can you think of a better method for bettering our understanding of each other?"
+
+He returned to his examination. "Miss Ling is not a woman who cherishes frippery and ceremony."
+
+"I would have invited you to the library, if ours had anything but Lady Cai's legal texts and copies of the great classics in it."
+
+He snorted. "Indeed."
+
+"Father, you cannot be entertaining this."
+
+"This one has no hounds upon his tail. Neither do thee. Child, thy wishes were to see the lord of the garden as well, no?"
+
+Xuanji puffed out her feathers but did not argue.
+
+Sixiang put their hands on their hips. "I can't decide if you dorks are cute or awkward, dancing around like there's spiders on the floor."
+
+Ling Qi glowered at them. She was seriously trying here. Sixiang smirked back.
+
+"Zhengui should be walking his route through the farms today," Ling Qi offered.
+
+"This one is warmed by the rays of thy concern, but limits of propriety lie but a claw’s breadth from thy feet," Xuan Shi chided.
+
+The hen fixed a gimlet eye on Ling Qi. "I apologize for my rude words." To the spirit’s credit, she kept most of the reluctance out of her voice.
+
+"I’m gonna bully that Kongyou for messing around," Sixiang whispered to her.
+
+"Be nice, Sixiang, or at least be civil about it."
+
+"Hah! I've been learning. Definitely gonna be reaaaaaal civil."
+
+Ling Qi should probably be concerned about Sixiang’s plan, but Kongyou was literally a manifestation of joy found in the tragedy of others. It was hard to feel sympathetic.
+
+"Well, that’s settled then. I accept the apology. What are your initial thoughts on the installation, Xuan Shi?"
+
+"Primary inefficiencies lie deep within qi recycling arrays, siphoning moving air over thrumming stone. For this…"
+
+Ling Qi settled in to listen and watch him work.
+
+***​
+
+"She’s certainly turned out interesting, hasn’t she?"
+
+Ling Qi smiled as they walked through the developing streets of Shenglu. The scent of fish in the air by the docks was a smell that had taken some getting used to, but now, it was just part of the background tapestry. She kept their path from the main work areas, because their presence would disrupt others. They strolled along a street frequented mainly by messengers to and from the manor.
+
+"This one attempted to instill the virtues of cultivation in his charge. The roots have taken, but the spread is more virulent than the gardener might hope," Xuan Shi acknowledged.
+
+"She's a good girl," Ling Qi praised, as they passed by the last of the completed buildings.
+
+Out here, there were mainly the foundations for further construction of the drainage and the canals. The sound dampening arrays had not yet been fully placed, and were they not cultivators, the thunder of the falls would have rendered this conversation difficult to hear.
+
+"This one's curiosity spreads as the rising reflection upon the shore. What cultivation would be so well suited to mine ears?"
+
+"Stories. Of all cultivators I know, you are the only one with a deep fascination for narrative. I've been finding my contemplations falling that way lately."
+
+Xuan Shi considered her words, hands clasped behind his back as they reached the lakeside.
+
+"If it's not presumptuous, and if you feel you could express yourself better, we could have this conversation in your own tongue. Language isn't a barrier for me anymore."
+
+The Xuan, as one of the oldest clans in the Celestial Empire, had their own language and dialect. It was the reason they spoke with such a cadence in the main imperial tongue. Most of the provinces had had their own dialects in the past as well, but the isolation of the Xuan's islands had left their language far more intact.
+
+When Xuan Shi spoke next, the sounds were foreign, flatter, and sharper than the flow of the imperial language. "One is rarely called to speak/sing in the way of the waves beyond the slumbering isles. But it is tiring to use imperial. The southern tongue is too flowing/quick for one's thoughts to keep up well."
+
+"The blood of the Living Isle seems to presuppose one to pondering and thoughtfulness," Ling Qi commented.
+
+"True. It is the lack of spacing between sounds. Less unique shapes means less exactness in the form of phrase and conjugation. Emphasis on tone, when one's voice comes flat by instinct. Ling Qi, you ask after stories. This one accepts that you have recanted your prior words, but whence this? Fiction is not your love, still."
+
+"It is not, but I have come to see that the lines are not so sharp. To me, fiction is fundamentally a message that conveys the author's thoughts, the same as a courtly poem, striving to tell the reader of the beauty or tragedy or other feeling which lies in the writer's heart."
+
+"One sees a truth in this. Ling Qi has chosen the path of a speaker. This is also the path of a storyteller. Fact is important, but if one cannot convince those who listen to the truth of it, then it is but dross, sinking into the abyssal black. The archives of the deep speak of this in our histories, and  the Hermit King was oft troubled by this, the light hold which cold and dry fact has upon the human mind."
+
+"Isn't that disheartening,” Ling Qi said wryly, “Knowing my trial has been gnawed on for ten thousand years and counting by better scholars than I."
+
+"Great strides may seem to come in fitful bursts, but they are the work of ages. Countless laborers construct the stairs until one may finally make the leap unto heavens unreachable by the ancestors."
+
+"I can see that. Even when you reject the past, you are still reacting to it?"
+
+"One exists in connection to what is and what was before. This is inescapable. How this relates to fiction lies in examination. Storytelling is the way of passing knowledge, before ink and page and jade."
+
+"So, fiction is an offshoot or rather, an outgrowth of rendering events and values into narratives for expression," Ling Qi pondered.
+
+They continued along the lakeside. The waves made by the pounding impact of the falls lapped at their feet, and though it touched neither of them, the mist was thick around them now as well, cool and shadowy despite the sun high in the sky.
+
+She could see it. There was only a subtle difference between memorializing a desired virtue or cultural affect through the lens of past events, and crafting those events from the ground up. Meaning and lesson could even attenuate, becoming secondary to merely telling a story, the way some legends grew to be more about the legend itself than any meaning their ancestors might have meant in it.
+
+It was such a tangled way to think about truth and stories.
+
+"You're still too practical. It amuses/provokes thought. Lady Cai and Ling Qi are very similar, except in aesthetics."
+
+She shot him an affronted look. "I respect my lady deeply, of course, but I am not so dour as all of that."
+
+He raised an eyebrow. The thunder of the falls was deafening now. "You seek a reason, a hard and fast purpose in all things. And yet, in creation, a writer does not always think of such meanings. To one who dreams, is it not enough to want to capture the distant, unknown shore, the tale dreamt of in late hours?"
+
+She pursed her lips. She couldn't deny that her first instinct was to search for purpose and meaning in a story. And there was always purpose, even if the writer did not think of it.
+
+Not all purposes needed to be grand.
+
+She gestured, and a slice of the mist cleared away. Through the hole,  distant sky could be glimpsed, distorted by the shadow left by the Clearwater Mist at the center of the falls.
+
+"Fascinating." Xuan Shi eyed the whorls in the qi, which thinned the material in just the right way that the cycling water vapor transformed at dawn and dusk.
+
+"I thought you might like this place. It is an awful pain trying to arrange any collection of the mist though. Mortal boats can't come so far under the falls."
+
+"It is not a bad thing, what I say. The drive that seeks purpose and forward motion in all things captivates. It is heard in every song you compose of yourself."
+
+Ling Qi hummed appreciatively. "I take your point. Like Lady Cai, I can be very results-oriented."
+
+"And this, I suspect, is part of the wind which carries your wings so high. To my eyes, you soar unshackled by doubts."
+
+"Hardly," Ling Qi denied. "I question and doubt quite a lot. I just don't let that stop me… When you're scrabbling at the bottom, you can’t. Choose now. Do now. Tomorrow may not come."
+
+It wasn't how she liked to live anymore, but that sense of urgency still informed her choices.
+
+"It is not only that. I look on you and see certainty of purpose and bravery unending. That is what marks the cover of the tale of Ling Qi."
+
+She stifled a blush. "If it's a tale, I hope you know the shape of me behind that cover; I've not hidden it. You, although we've talked many times now, the cover remains firmly shut."
+
+He cocked his head, listening.
+
+"If you please, I would like to hear the story of Xuan Shi."

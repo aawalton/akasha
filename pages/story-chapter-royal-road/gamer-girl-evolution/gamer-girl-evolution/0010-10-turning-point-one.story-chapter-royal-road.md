@@ -1,0 +1,203 @@
+---
+id: cbc26050-6596-507e-89cf-0783aa80a36e
+page-type-slug: story-chapter-royal-road
+title: "10 – Turning Point One"
+slug: 0010-10-turning-point-one
+partOf: gamer-girl-evolution
+position: 10
+ownLength: 2511
+unit: words
+ownProgress: 2511
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620558/10-turning-point-one"
+royalRoadId: "2620558"
+markedReadAt: "2026-06-29T20:05:54.525Z"
+---
+
+“Cheers!”
+
+The bar was alive with the clamour of victory. Cups clanged against each other as the smell of roasted meat and sweet pastries hung in the air. Players of all shapes and sizes crowded every corner, exchanging stories of near-death experiences and close calls.
+
+Most had just finished the Slime Plains main quest, and the entire beginner town felt like it was teetering on a sugar-high celebration.
+
+Celica sat at a small table near the back, a quiet cream robe pulled snug around her shoulders. She nursed a steaming cup of tea, letting the warmth seep into her fingers. She observed, everyone with a careful eye.
+
+Some players were boasting about minor achievements, a lucky crit here or rare item drop there, while others recounted entire fights as if narrating epic poetry. Every tale was exaggerated, every laugh a little too loud, and she found herself suppressing a smirk.
+
+Across from her, Kellen leaned back in his chair, grinning at Talia. "You know, I keep wondering… what is Snapped Sword up to right now? How do they even spend their time?"
+
+Talia rolled her eyes, tucking a stray strand of hair behind her ear. "Kellen, this is the eighth time you’ve asked this question."
+
+Kellen shrugged, unbothered. "Can you blame me?"
+
+Celica's lips twitched ever so slightly. She took a quiet sip of her tea, calmly testing the temperature, though in truth her mind was in disarray. She tried not to make eye contact with Kellen, instead looking around the table.
+
+She watched Rhys gesture wildly, practically slamming his hands on the table as he recounted a narrowly avoided slime ambush. Talia leaned forward, laughing at one of Kellen's exaggerated facial expressions about how a crit nearly took him down. Celica's eyes drifted back to her tea, still steaming.
+
+She was a shadow in the corner of the room, a silent observer of a celebration she both belonged to and didn't. Her mind was cursed in a way others wouldn’t understand. Even now she was thinking over strategies, buff timings, and hypothetical party dynamics. She could never really detach herself from the game—constantly living it was all she knew.
+
+Still, she was content with how things were. She was content to just blend in and soak in a world that, for all its noise and clamour, felt oddly like a home she had never quite had. The bar's laughter faltered, replaced by a low hum of tension. A voice, sharp and accusatory, cut across the bar.
+
+"If Snapped Sword is really that good, then why didn’t they help us, huh? We could've died, you know!" The speaker, a burly swordsman with a crooked scar over his eye, jabbed a finger at Kellen's chest. "If it wasn’t for the event NPC Wisdom Hands I’d be dead! It took an NPC to help me! All those top players are just selfish!"
+
+Kellen's jaw tightened. "He could've died too… he's just a regular player like us! Why does he have to carry everyone? Did you help anyone?"
+
+"Well, uh… no, but—" the accuser stammered, cheeks reddening.
+
+"And how do you know he didn't help anyone?" Kellen snapped, leaning in, voice rising. "Maybe he's been saving people subtly, maybe you just weren't paying attention!"
+
+A ripple of murmurs spread through the surrounding tables. Patrons paused mid-drink, turning to watch the confrontation escalate.
+
+Celica sat back, raising her cup deliberately, the warmth of the tea matching the tension’s heat. She considered standing up and interjecting, but the thought of revealing herself, even subtly, made her hesitate. A bystander's role suited her perfectly.
+
+Her eyes skimmed the arguing players, noting body language, tone shifts, and when the accuser's volume peaked. Each movement, each overreaction, was data. She sipped again, deliberate, letting the argument play out without interference.
+
+The burly swordsman stomped a foot. "I swear, if someone that powerful is in this game and doesn't use their skills to help, they're part of the problem!"
+
+Kellen shook his head, exasperated. "You think you're entitled to someone else's time and life? He's not a charity case. Snapped Sword isn't obligated to babysit every newbie. Grow up."
+
+Talia, seated beside Kellen, tilted her head and sipped her drink. Her expression was amused, almost serene. "Gamers are always this hot-headed," she murmured, not loud enough for the accuser to hear, but just enough for Celica to catch the comment.
+
+If there’s one thing gamers are good at it’s raging, Celica echoed internally, a very faint smile tugging at her lips. She appreciated Talia's detached humour.
+
+The argument bounced back and forth, accusations like daggers, retorts like shields. Celica noticed the subtle social dynamics: who dominated the conversation, who followed along without speaking, and who tried to interject but lacked authority.
+
+Every gesture, every flinch, and every raised voice painted a portrait of inexperienced players grappling with admiration, envy, and frustration all at once.
+
+She imagined herself in their shoes before, desperate for guidance, staring at elites she couldn't hope to reach. She felt a flicker of something strange—a mix of empathy and amusement. She wasn't here to teach them a lesson or to defend herself.
+
+Finally, the accuser's voice cracked, and he leaned back, breathing heavily. Kellen exhaled, running a hand down his face. "Just… stop whining and play the game. Snapped Sword's actions don't affect you personally, so quit acting like it does."
+
+Celica's attention returned to her tea, the cup now lukewarm. She marvelled quietly at the human tendency to argue over reputations and legends, especially when they hadn't seen the full picture. Or even half the picture.
+
+Talia smiled faintly at Celica, as if sensing her amusement and perspective. "See? Nothing exploded." she whispered, barely audible. Celica nodded ever so slightly, inwardly agreeing.
+
+Just then, the sky warped with a sudden ripple, a shimmering green haze appearing over the beginner town. Players froze mid-motion: a blacksmith mid-swing, a merchant counting coins, a warrior mid-step.
+
+Celica was brushing crumbs from her sleeve, preparing to leave the bar, when the world around her shuddered. Her first thought was the system was glitching, but the ripple solidified into a glowing portal above the town square. Players everywhere were yanked toward it like magnets, some screaming, others howling in surprise.
+
+Celica barely had time to grip her cup before she felt the familiar tug of the VR system override her will. Her body lifted, pixelating briefly, and then she landed lightly on the soft grass of the beginner area.
+
+Around her, a scattered assortment of players arrived. Some had been mid-meal, bread loaves and mugs of ale still in hand. Some had been asleep in inns, waking abruptly to disorientation and panic. Others had been duelling monsters, only to vanish mid-animation, leaving weapons still mid-swing as their avatars appeared.
+
+Celica noted the chaos with detached interest. She adjusted her robe, smoothed her hair, and scanned the area.
+
+From the ground rose a semi-transparent figure, its gelatinous mass glimmering. Its tentacles undulated around him, dripping with slime that sloshed wherever it met the grass. His voice boomed across the beginner area, resonating.
+
+["Congratulations, all of you!"]
+
+Slimonius The Slime King’s tone was grand, almost theatrical.
+
+["You have all completed the main quest. You have survived the slimes, but now…”]
+
+A pause.
+
+[“You shall pay for the deaths of my kin!"]
+
+The slime king slammed the ground. A shimmering green dome spread outward from him, warping the grass and stone into a viscous, poisonous marsh. The air turned thick and acrid; faint, poisonous tendrils snaked along the ground.
+
+Players staggered, coughing, seeing debuff icons flashing above their heads: Poisoned, Slow, Confusion.
+
+"Debuffs?" someone shrieked. "What the hell is happening?"
+
+The players scattered, some slipping in the sludge, others screaming as stats plummeted. Panic spread like wildfire. Celica's instincts kicked in as she activated Cleanse Aura, her unique Supporter skill. Green waves rippled outward, washing over the nearby players.
+
+Celica wasn’t feeling the effects of any type of skill but kept her face and body language as though she were struggling under the slime king's pressure. Every twitch, every stagger, every small gasp reinforced her façade of shock.
+
+Internally, she ran calculations. Could I kill him? she asked herself. The Slime King's the fifth realm’s first boss, but his mechanics are quite solo friendly since most of his kit is aoe.
+
+With her supporter kit, vectoring glitches, and full knowledge of meta mechanics… it would take her entire arsenal. Exhaustion, miscalculations, or a single mis-timed skill could mean death. She licked her lips. Maybe I could… but it's impossible to guarantee. I’d have to get lucky. Not worth the risk right now. But if this goes on any longer, he’s really going to kill everyone, and something tells me they wouldn’t respawn...
+
+Meanwhile, players around her flailed, trying to spam skills, dodging tentacles, panicking. The visual chaos was intense. One rogue dove headfirst into the slime's blob-arm, narrowly escaping being knocked into the poisonous water. Celica quietly guided a few people to avoid the especially dangerous looking stage hazards.
+
+Then, the slime king laughed a deep, wet, bubbling sound.
+
+["Just kidding!"]
+
+The poisonous domain collapsed, the grass returned to normal, and the air cleared of toxins. Green light shimmered around each player as Slimonius cast an area-wide heal, restoring HP, mana, and removing debuffs entirely. Players staggered upright, breathing hard but all alive.
+
+["Don't look so down, everyone."]
+
+He said, tentacles waving in a theatrical flourish.
+
+[“It was merely a test of your reflexes! Now, rejoice! Everyone in Area 11 survived! Not only that, all your countrymen have survived also! It seems… killing slimes when your lives depend on it works! Marvelous!"]
+
+He paused, allowing the tension to settle, before continuing.
+
+["The news gets better. Player Snapped Sword has achieved not only the fastest main quest clear time in your area, but also the fastest in your country. And would you believe it… they’ve also achieved the fastest clear in the entire world! Here are the times:"]
+
+Top 3 Individual Clear Times — Main Quest (World-wide)
+
+Snapped Sword — 4 minutes, 55 seconds
+
+SADG_LunarShroud — 3 hours, 7 minutes
+
+Mistveil_Rogue — 5 hours, 21 minutes
+
+Players around Celica erupted. Many stared at the leaderboard, shaking their heads in disbelief. Celica's eyes flicked over the names. SADG. Her old guild tag, slapped onto the second-place time.
+
+A surge of memories hit her—late-night raids, guild arguments, the exhaustion of competing for tiny advantages. And now, here was a guildmate broadcasting the name for all the world to see… and with such a mediocre clear.
+
+She felt a pang of disappointment, not pride, not envy. Other names she recognized—some old friends who had vanished from the community years ago—floated on the list.
+
+Could it be that some of them had been reincarnated or regressed just like her? Were there others out there, playing with the knowledge of a past life? Her chest tightened with anticipation. Finally, some real competition.
+
+["Not only that, the Dungeon Party by the alias Snapped Sword has achieved the fastest clear time not only in your area but also in your country—and the entire world!"]
+
+Top 3 Dungeon Party Clear Times — World-wide:
+
+Snapped Sword / ??? / ??? — 3 minutes 22 seconds
+
+SADG_LunarShroud / SADG_Emberclaw / SADG_Frostbite — 4 hours, 5 minutes
+
+RogueClown / Nightfall_Wraith / Veilstrike — 4 hours, 18 minutes
+
+Hundreds of players gasped, many pointing and others whispering.
+
+“He’s insane...” Kellen muttered from a few paces away, his eyes glowing in admiration.
+
+Talia nodded, for once she agreed with Kellen. Celica's lips pressed into a thin line. She opened her mouth briefly and then promptly closed it.
+
+[“There seems to be an error with displaying Snapped Sword’s party members... For those party members in the crowd, I do apologise we’re looking into it right away. Don’t worry, your rewards will be distributed even if your names aren’t showing up.”]
+
+Slimonius said nervously, his body twitching as if he was genuinely uncomfortable.
+
+Celica leaned back slightly, crossing her arms, a subtle sigh escaping her lips. She glanced around at the pandemonium: some players were cheering, some whispering conspiratorially, and a few tried to calculate how to match the top times.
+
+The slime king's gelatinous form pulsed as he spoke, tentacles curling theatrically.
+
+["Rewards for all relevant players shall be distributed on the next floor. Prepare yourselves, for Floor Two will not be nearly as forgiving as this one. This was the tutorial, after all. Also, there are… surprises waiting for those who think they know what to expect."]
+
+A bright green light erupted from his core, washing over the gathered players. Gasps and shouts filled the air as the world blurred, the grassy terrain of floor 1 melting into shimmering energy. Some screamed in panic, others laughed in exhilaration, and a few simply froze, eyes wide.
+
+Celica felt the familiar tug of VR mechanics—the weightless sensation, the familiar hum of data streaming through her consciousness—but there was a subtle tension in the back of her mind. Players jabbered nervously:
+
+—"Next floor? Are we ready?"
+
+—"What kind of surprise?"
+
+—"Do you think we'll all survive again?"
+
+Celica remained quiet, waiting. What Slimonius said earlier  piqued her curiosity. The light intensified, and the sensation of being transported enveloped everyone.
+
+When the light faded, Celica expected to see Floor Two’s iconic grey marsh. Instead, she blinked against pale morning sunlight filtering through grimy curtains. Peeling paint, stacks of books and empty mugs cluttering the table, the faint smell of last night's tea lingering in the air.
+
+Her old shabby apartment.
+
+Her heart stuttered, a strange mix of panic and fascination. She flexed her fingers, and her body responded—but differently. Each movement mirrored her VR avatar's precision: she could feel her stats in motion, the skills and abilities of her in-game character overlaid atop her real limbs. Health, mana, cooldowns, active buffs—all visible in the corner of her vision.
+
+Celica leaned forward, touching the floor cautiously, observing how her physical body moved in tandem with the avatar mechanics. "What in the nine realms is..." She flexed her arms experimentally, testing the interface she now controlled in the real world.
+
+Celica flexed her fingers again, lightly testing a minor skill. A small aura radiated outward, causing her hand to move at superhuman speeds. Her eyes widened.
+
+The world isn't just different. It's… blended. Real and virtual have fused.
+
+Her pulse quickened. The apartment, the morning light, the mundane clutter—all were familiar. Yet overlaid on it were her stats, her abilities, and the rules of a VR game.
+
+She stepped toward the window, peering out at the city. Everything seemed normal, but something was definitely wrong. But she couldn’t quite prove it.
+
+Am I still dreaming, she thought to herself. But it wasn’t a dream. Her eyes shifted over to her monitor which had been left on.
+
+Out of instinct, or perhaps out of fear, she searched up ‘news’. The first website’s headline instantly grabbed her attention:
+
+'Death Game Turned Real: The arrival of the 'players'. Is this the beginning of a new era?'

@@ -1,0 +1,153 @@
+---
+id: 35719520-968a-5977-863f-ce62e15d349e
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Thirteen: Deadlock"
+slug: 0116-chapter-one-hundred-thirteen-deadlock
+partOf: flesh-eater-demon-evolution-litrpg
+position: 116
+ownLength: 2395
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3765470/chapter-one-hundred-thirteen-deadlock"
+royalRoadId: "3765470"
+---
+
+Llyr’s eyes traced the line of the bone axe currently resting against his throat, assessing. His whole body was still tense, jaw tight and muscles coiled. Pyre kept her axe calmly in place, ready to strike if he tried anything. Neither one moved.
+
+Finally, after a long silence had passed, the healer opened his mouth to speak.
+
+“I’m surprised you didn’t devour me right away.”
+
+The demon raised an eyebrow at that. Llyr’s voice was flat and carefully measured. It was a fairly obvious diversion from her question, but it was better than complete silence. Her extra appendages flexed a little, pressing the healer’s wrists flatter against the ground.
+
+“Well, I’d certainly get some nice subtraits and a fuck ton of experience,” Pyre drawled. She jerked her head over to where Callan and Daphne waited nervously outside the fire circle. “That being said, even though you’ve obviously been lying about a lot of shit, your healing abilities are real, and you clearly know more about what’s going on. You’re more useful alive right now.”
+
+Llyr’s lips thinned, blue eyes flashing. Pyre ignored the obvious resentment painting his expression and leaned closer. “Which brings me back to my question,” she continued, tone easy and casual. “Why were you attacking your patient?”
+
+The man narrowed his eyes. “As I said before, Daphne fired the first spell.”
+
+“Only because you were going to cast something at me,” the mage in question snapped. “And you threatened Pyre!” By now, the circle of fire had dwindled enough that the flames only reached about waist-height, so Pyre was better able to see Callan and Daphne waiting outside. The latter, in particular, looked furious.
+
+She took a step closer, some of the fire flaring a bit with the movement. “I found the bodies of the kidnapping victims in his storage room,” she continued. “He’s been keeping them there this whole fucking time!”
+
+Pyre’s eyebrows rose. Based on Callan’s lack of a reaction, she suspected Daphne had already filled the ghost in while she and Llyr had been fighting.
+
+“I also explained that I wasn’t the one responsible for kidnapping them,” Llyr countered evenly. “I found their bodies on the shore drained and preserved with stasis spells. I only killed them to put them out of their misery.”
+
+Daphne laughed darkly. “Right, and I guess we’re just supposed to believe you. Turns out people aren’t as gullible when you’re not throwing charm effects around.”
+
+Callan’s head snapped over to the other mage at that. This part, it seemed, was new to him. Pyre turned to Llyr, who didn’t react at all to the accusation. “That true?” she said, but it was more rhetorical than a genuine question. His lack of a denial was already confirmation enough, and it was only strengthened when he remained silent.
+
+“How long?” Callan’s voice came from the other side of the fire, sounding small. The genuine hurt on his face made the demon pause. She’d seen a lot of different emotions on him since their first meeting, but this specific one—betrayal—was new.
+
+Slowly, Llyr turned his head just enough to face the ghost, the movement causing the axe blade to cut into his neck again.
+
+“From the very beginning.” His voice was flat, expression giving nothing away. “If it makes you feel better, I use it on all my visitors. It’s a precaution.”
+
+“Bet it also stops people from questioning you,” Daphne retorted. “I should’ve known something was wrong the second I saw that locked room.”
+
+“You make it sound far more malicious than it is,” the healer murmured. He shifted to face Pyre again, blue eyes peering up to meet the demon’s steel grey ones. He smiled, but his gaze remained cold.
+
+“But then, I suppose it didn’t matter with you. You’re a sloth demon.”
+
+Pyre raised an eyebrow at that. After their fight, it would be pretty obvious that she was a demon of some kind, and her resistance to charm and other psychic effects had probably led him to this specific conclusion. Considering everything that had just happened, she didn’t see much point in denying it now.
+
+“Congratulations,” she drawled, holding her axe-arm steady. “Cat’s out of the bag. Now what about you?” She had a few guesses, but it would be nice to get some confirmation, especially when she didn’t have a working memory to help her theorizing.
+
+Llyr’s eyes narrowed. His lips parted, but before he could respond, Callan blurted out:
+
+“You’re a mer, aren’t you?”
+
+Every pair of eyes in the room turned towards the ghost. He shifted nervously. “It would make the most sense,” he continued slowly. “The—the charm effects, your looks, the water-based regeneration.” He swallowed. “You’re some kind of merfolk.”
+
+Pyre was half expecting the healer to deny it, but instead, a low chuckle escaped his throat.
+
+“Close,” he said, smiling. He cocked his head. “That was my previous evolution. I’m a siren.”
+
+The word pinged some of that wealth of knowledge buried in the back of Pyre’s mind. The details were fuzzy, but it seemed to fit. The fact that Llyr had had a previous evolution also confirmed that he was almost certainly [Tier 2] like her, with a merfolk being his [Tier 1] species and [Tier 0] being something below that.
+
+“A siren, of course,” Daphne muttered under her breath. “I shouldn’t be surprised.”
+
+“Awfully strong for a fish,” Pyre said idly. “So, you’ve been using your siren magic to make people trust you, you’re obviously used to fighting, and you’ve got a room full of missing people’s dead bodies that you say you mercy-killed. Anything else?”
+
+“He said something about you, too,” Daphne added. She turned to Pyre, brows furrowed. “When I confronted him, he said your soul felt like ‘them.’ I don’t know who or what he was talking about, but he definitely knows more than he’s letting on.”
+
+The demon felt Llyr tense below her at that. She processed the information, trying to see if it caused a ghost of a memory to rise or otherwise struck a chord, but it was too vague to mean anything concrete right now.
+
+She pressed the axe down again, a line of blood now dripping down from the thin cut forming on the siren’s neck. “Want to elaborate?”
+
+Instead of flinching away, the healer barked a laugh. He tilted his head enough to look up at the demon, seemingly not caring that the action put more pressure on his throat. His eyes gleamed, a sharp, humorless smile stretching across his face.
+
+“I don’t, no.” Despite his relatively neutral expression, his words practically dripped with venom. He cocked his head.
+
+“It’s as you said. You need me alive, unless you want the noble dead within the year and to lose the only lead you have. I’m afraid torture won’t work, either, seeing as I happen to have a rather high pain tolerance,” he added dryly.
+
+Pyre’s gaze moved to the dried blood still smearing half of the healer’s face from when she’d slammed her axe into his skull, then to his severed legs that he seemed completely unbothered by. Yeah, she could believe it.
+
+“Callan, Daphne,” she called, not moving her eyes away from the siren. “Can you two do the portal spell alone?”
+
+The two mages exchanged a look at that. “If we’re both being anchored to the portals, then someone else has to cast it,” Daphne said slowly. “I don’t know if we could switch the anchor for the second portal…” Her voice trailed, eyes darting hopefully to Callan.
+
+The ghost shook his head, shoulders slumped in defeat. “I… even if we moved the anchor, I don’t think I could manage the spell myself,” he whispered. “It’s too complicated.”
+
+“I don’t suppose we could find some other healer to do it?”
+
+“Not with this exact spell,” Daphne said slowly. Her brows were scrunched like she’d swallowed a particularly sour lemon. “Llyr constructed the core parts. I hate to say it, but I don’t know if anyone else could pull it off. Magic that close to the soul is…” Her voice trailed, and she swallowed. “Most people wouldn’t even dare attempt it.”
+
+Llyr smiled. “It would seem, then, that we’re at an impasse.” His arms flexed a little as he tested the demon’s grip on his wrists.
+
+By now, his severed legs had completely stopped bleeding, though Pyre still didn’t see them regrowing yet. The flames had died down enough that they probably should’ve if moisture was the only factor, so she guessed there was some amount of stamina or energy required as well. Repeatedly healing stuff had to get tiring, and the siren had probably gone past his limit during their fight.
+
+Now that they knew what his weakness was, Pyre wasn’t as concerned about him escaping. He was surrounded, and a fire spell from Daphne would be enough to knock him down again if he tried anything. His lack of real struggle since his initial attempts showed that he was fully aware of this, too.
+
+The demon’s eyes narrowed as she thought. It was true that they did need to keep Llyr alive, at least for now—both to get more information out of him and to heal Daphne (though she was becoming increasingly doubtful of the healer ever willingly doing the latter after this). And based on everything she’d seen thus far, she had to agree that torture probably wouldn’t make him budge. What were they supposed to do, then?
+
+Pyre clicked her tongue. This was the kind of shit she wasn’t good at. Devouring things and winning fights was easy. This was much more complicated.
+
+Slowly, the demon retracted her two flesh appendages, releasing their hold on the healer’s wrists. He eyed her with no small amount of wariness, but he didn’t shift from where he still lay on the floor.
+
+He didn’t move when Pyre pulled her axe-arm back, either. Her theory about regeneration requiring energy in addition to water seemed to be true. Llyr hid it well, but there was definitely a wave of exhaustion hanging heavy over him after all the spellcasting he’d done. The blood loss wouldn’t help. He was in no condition to fight right now.
+
+Slowly, Pyre stood and rose to her full height. “Unless you want your arms gone next,” she commented casually, “stay right there.”
+
+Llyr’s jaw tightened, but he did as instructed. His gaze, however, followed the demon as she turned and strode over to the edge of the fire circle, an eye grown on the back of her skull precisely so she could keep watch of the healer the whole time.
+
+At this point, the flames were low enough that she could step over with only minor singes to her pants. Her own severed arm was about half-regenerated at this point, though the flesh from her shoulder down was still tender. She’d need some time to fully recover herself, after that fight.
+
+“Hey, you two got any ideas?” she said to Callan and Daphne as she approached. She jerked her head at the siren still lying in the middle of the circle, emphasizing their current situation.
+
+Daphne turned to him, lips pursed. “If he’s actually involved with the disappearances,” she began slowly, “then he needs to be stopped. I don’t care if my ichor-poisoning never gets fixed.” She laughed darkly. “Who knows if he really would’ve casted the spell right, anyway.”
+
+“He could be telling the truth though,” Callan said hesitantly. Daphne didn’t look too pleased at the idea, but she didn’t immediately discount it, either.
+
+“I don’t suppose you two know any truth spells or something,” Pyre said. It would certainly make things easier. Both mages, however, shook their heads.
+
+“Maybe we could turn him in to the knights?” Callan suggested. He didn’t sound especially enthused, though.
+
+“What if he’s working with them? And even if he’s not, they’re still suspicious. I don’t trust them to investigate properly; we’ll probably get a repeat of the tattooed guy.”
+
+Daphne’s eyes shifted over to Pyre. “And he knows something about Pyre’s soul, or at least it sounds like he might,” she continued. “We’ll probably never learn what he meant if we turn him in now.”
+
+“What did he mean by that, anyway?” Callan’s brows were furrowed. “I mean, do you have any ideas?”
+
+Pyre just shrugged. “Beats me,” she said. In her pocket, the earring she’d picked up earlier shifted slightly as she moved. Her eyes narrowed in consideration. While she had no solid proof of it, she was still fairly certain that it was a similar talisman to the ones she and Callan had, and he’d probably gotten them from a crossroads demon as well. Maybe even from Pax, specifically.
+
+The easiest explanation for his words to Daphne would be that he disliked demons as a whole, but possibly making a deal with a crossroads demon somewhat countered that. More importantly, him saying that her soul felt like “them” made it seem like more than a simple hatred of her species.
+
+“I’m guessing it’s not just the demon thing,” Pyre began. “I didn’t even know souls felt different from each other in the first place.”
+
+“‘The demon with a broken soul that feels exactly the same as them,’” Daphne recited, frowning. “It sounded personal. At least, he seemed really angry when he said it,” she muttered.
+
+“Is it…” Callan’s voice trailed. His eyes darted over to Llyr, then back. He hesitated. “I mean, do you think it has something to do with your past life?” the ghost whispered tentatively.
+
+From the circle, a rustling sounded. Pyre immediately spun around, a long bone spear already sprouting from her back, but she paused when instead of a spell, she was greeted with the sight of Llyr’s wide eyes staring back at her.
+
+Compared to his usual controlled expressions, the healer looked genuinely unguarded in a way she hadn’t seen before. Spooked, almost. Like a wild animal.
+
+Slowly, Llyr struggled to push his torso up off the floor, the action clearly requiring exertion. His legs still hadn’t regrown, so he had to remain seated even as he used his arms for balance. The whole time, that wide gaze never left the demon.
+
+Pyre gave him a long look, her own expression neutral. “Something wrong?”
+
+Llyr opened his mouth, then closed it again. He swallowed.
+
+“…You’re a reincarnator?”

@@ -1,0 +1,101 @@
+---
+id: 3b6d9ff1-b3e0-5458-8d3c-06cdc6d2ab2a
+page-type-slug: story-chapter-royal-road
+title: "132. Byproducts"
+slug: 0132-132-byproducts
+partOf: god-of-trash
+position: 132
+ownLength: 2013
+unit: words
+publishedAt: 2025-07-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2440833/132-byproducts"
+royalRoadId: "2440833"
+---
+
+Rhys lifted his hands over the water and activated Trash Manipulation. He didn’t immediately latch onto any object or pull anything toward him, but simply stretched out Trash Manipulation, searching for everything he could sense around him.
+
+Instantly, his senses lit up. The entire kitchen, the trash still stuck in the earth below, the hood hiding their operation from prying eyes from above—all were trash. Rhys took a deep breath and let it out, resisting the urge to roll his eyes at himself. Right. It was his hideout, his stronghold. There was so much trash here it was blinding. Singling out carbon dioxide in such a cluttered environment was a fool’s errand.
+
+It was a deliberate choice to surround himself with trash, and in most cases, like an ambush or invasion, or even general-purpose training, it was a great idea, but in this moment? He’d have to spend twice the time and twice the effort just to tell if he could sense carbon dioxide, when even the air was laden with trash particles and impurities.
+
+“Hey, Lira! Watch this pot. Don’t get in it, and make sure it stays clean, okay?” Rhys shouted.
+
+“Why me?” Lira asked, looking up from cleaning her long, dangerous nails.
+
+“You’re the most likely one to climb in. We aren’t selling bathwater yet, that’s a future endeavor! Keep the pre-soda safe, I’ll be right back!”
+
+He left the garbage heap behind and jogged into the forest, away from the trash, the sewage entrance, and everything else that made his hideout a great location for a trash mage like himself in particular. When the air grew clear, and he couldn’t see a single scrap of garbage floating around under the trees, he finally slowed. A mossy spot at the foot of a large live oak beckoned him, and he sat down, resting his back against the enormous tree with its wide-ranging branches. He’d always had an affinity for live oaks, the monstrously enormous things with their branches that grew as far out as up. As a child, he’d climbed one in his parents’ front yard, before they got divorced. As an adult, he’d admired them whenever he came across them, particularly enjoying the one in the park nearby, before he’d stopped going outside. They were beautiful, and about the furthest thing from trash that he could imagine.
+
+Clean air flowed around him. A spring ran gently in the background, trickling along the rocks. Soft, lush earth supported vines, undergrowth, and moss, and birds sang in the near distance. Rhys took a deep breath and let it out. This place was clean. This place lacked trash. This place was the ideal place to seek out the human byproduct, aka trash, known as carbon dioxide.
+
+He folded his legs and rested his hands on his knees, feeling the urge to enter a truly meditative stance. It wasn’t strictly necessary, but it felt right. Closing his eyes, he breathed slowly, settling in to meditate.
+
+Mana flowed in, clean and fresh… and flowed right back out as he breathed out, with only the slightest amount of accumulation in his core. Rhys almost laughed, except he didn’t want to lose concentration. He’d spent all his time working on trash cultivation, so he’d forgotten just how trash his talent was when he wasn’t working with trash. Truly, this was a pathetic level of talent. He thought back to his early days, when Bast and he had been getting chosen by schools, and Bast had been fought over, while the teachers didn’t even want to look at him. Now that he knew more about the world, he really understood it. Looking at his raw, normal talent, he was the kind of mage who would waste their entire human lifespan just attempting to gather enough mana, who, when he was an old graybeard, might be able to progress to Tier 2 and prolong his life enough to be a whitebeard by the time he hit Tier 3, his strength at that point meaningless as the end of his life rapidly progressed. Luckily, he’d discovered his true skill with trash, and was able to almost keep up with a once-in-a-century genius like Bast instead of wasting away trying to cultivate by the ordinary routes.
+
+Still, he wasn’t trying to absorb mana. No, to the contrary; his deep breathing was for the purpose of generating as much carbon dioxide as possible, to make it easier to sense it around him. He extended his Trash Manipulation all around him, breathing evenly as he did so. Unlike the cluttered environment of his stronghold, there was little for Trash Manipulation to latch onto here. A discarded skeleton, left behind by a predator; a pile of ash from a long-abandoned campfire. He extended his senses further, deeper into the world around him. Bug carcasses loomed large in his vision, lit up like neon embers in the darkness of the forest. Further. He had to see more. Even smaller trash. Things beyond the limit of his normal vision. He needed Trash Manipulation to be more sensitive, more delicate, to sense further and detect more detail. He focused, focusing on nothing, on sensing, on reaching out. More. More. More.
+
+Everything else fell away. He no longer felt the moss under his legs or the cool breeze on his skin. His entire self was absorbed in sensing deeper and further with Trash Manipulation. Time passed. Hours, then days. Lira stumbled upon him, only to retreat without disturbing him, and tell the others not to disturb him either.
+
+Smaller and smaller. He saw spores, discarded on plants where they could never copulate. Pollen lying on the dust. And still he couldn’t see carbon dioxide.
+
+No… I’m thinking of it wrong. He was trying to see individual items, when he should try to to see masses of things. It would take immense effort to see individual gas atoms, but that was ridiculous. No one saw individual water molecules, for example; they saw puddles of water, and they didn’t need to see the individual molecules to make out the puddles. Rhys refocused. Instead of looking smaller and smaller, he blurred his vision and looked at the air, at the middle distance, at nothing and everything. There’s trash in this space. Trash all around me. Sense it. I can sense it!
+
+A faint glimmer of light appeared, but only for a moment before fading. Rhys exhaled, and the light returned, clouding out from his mouth. Rhys gestured, calling it into his hand, where he held it with Trash Manipulation. For a time, he sat there, just breathing and generating carbon dioxide, until at last he opened his eyes and stood, carrying his ball of gas with him. His eyes shone with effort and excitement. He’d done it. He’d generated carbon dioxide! Now all he had to do was dissolve it into the water and sugar, and hey presto, soda!
+
+Lira looked up as he walked in. “Look who’s back.”
+
+“Was I gone long?” Rhys asked. He’d lost track of time, but it had probably only been a few hours, right?
+
+“Only five days,” she said, shaking her head at him.
+
+Rhys stopped dead, stunned. “Five days?”
+
+“Five days.”
+
+“Really? Wow.” Rhys made a mental note not to fall into meditation while he was on time constraints. “Anything happen?”
+
+Lira gestured.
+
+Rhys turned. A huge pile of bagged potato chips sat on the other side of the space.
+
+“Well. I guess it’s time to open our stores. But first…” Rhys sent the ball of gas forth from his hand and lowered it into the liquid. It was strange to see a bubble of gas sitting at the bottom of the vat, not moving at all. He went to release it, then stopped himself. If he let go right now, it would just escape the water in one big bubble, without dissolving at all. Instead, he shook the bubble back and forth as he slowly released his control on it. Tiny little bubbles escaped from the big bubble and swirled into the liquid, carbonating it just like he wanted.
+
+“Wow… sparkly,” Mouse whispered, her eyes big.
+
+Rhys jumped. “Whoa! Where were you?”
+
+She turned to him. Her round glasses turned completely white as the light shone off them. “I’ve been right here beside you the whole time.”
+
+A shudder ran up Rhys’s spine. He rubbed the back of his neck and laughed lightly. She can be real creepy when she wants to be.
+
+He finished carbonating the soda, then slowly, worshipfully, drew out a cup and a ladle from his storage ring and dipped the ladle into the drink. He lifted it out and ladled it in, then took a sip.
+
+It was… it was okay. Definitely recognizable as a soda, but lukewarm. It did have that fizz, but, well, lukewarm soda was… Rhys made a face, then turned to take in the whole room. “Does anyone have ice magic?”
+
+Lira raised her hand.
+
+“Can you make some ice cubes and put them in the vat?”
+
+Lira nodded. She walked over and held her hand over the vat. Ice materialized in shards and blocks and fell into the soda with a splash.
+
+Rhys waited a few seconds for the ice to cool the surface liquid, then took another dip. This time, he closed his eyes as the sweet, delicious, spritzy taste of soda flowed over his tongue. Perfect.
+
+He turned to the room once more. “Come on over! Take a taste. Let me know your thoughts! I need to improve this to make it utterly delicious, so don’t hold back!”
+
+This round was just a taste-tester, a proof of concept. He couldn’t just throw soda that conformed to his tastes into this world and expect it to take off. It was like when people had taken ice to the tropics, thinking they had a slam dunk—after all, who didn’t like a cold beverage?—only to find out all the people in the tropics were so used to lukewarm drinks that they considered ice, and cooled drinks, disgusting. Sure, they’d won them over in the end… or done other horrifying colonial things to them, he really wasn’t sure, but the intial hesitation was a reminder that every culture had its own preferences, and just because something was an instant win in one culture, didn’t mean it would even succeed in another. His tastes weren’t the be-all end-all of deliciousness, and different places had different senses of taste, let alone different worlds. Once he adjusted soda’s flavor to the tastes of this world, then he could begin to mass market it alongside his already-perfected potato chips, and his potato fries and ketchup. There was nothing better than a cool soda with some hot fries, and he wanted to introduce as many people as possible to that combination.
+
+Korii took a sip, then wrinkled her nose. “Bubbly.”
+
+Blake tossed back his cup, then raised his brows. “Whoa. You aren’t kidding.”
+
+Lira raised her brows. “That’s good.”
+
+“O-oh!” Mouse exclaimed, startled, then nodded happily and gave him a thumbs up.
+
+Silently, Sable stalked up. She held her cup out, and Rhys filled it. Maintaining eye contact, she raised the cup and drank.
+
+Despite himself, Rhys grew nervous. There was no reason to attach any particular importance to Sable’s opinion, but now that Korii had suggested that she might be interested in him, he couldn’t help but be aware of her. It was impossible. Girls couldn’t be interested in him. But even though he knew that, it still made him weirdly nervous around her, just because Korii had suggested it. He rubbed the back of his head and smiled, waiting for her verdict.
+
+She lowered the cup, then nodded, just once. “Passable.” With that, she turned and walked away, still carefully carrying the cup.
+
+Passable? I’ll take it! Rhys turned to the rest of the group. “Alright, everyone! Let’s get this show on the road. Pack up the chips and the fries, and I’ll brew up a big vat of draft one soda. It’s time we open shop.”

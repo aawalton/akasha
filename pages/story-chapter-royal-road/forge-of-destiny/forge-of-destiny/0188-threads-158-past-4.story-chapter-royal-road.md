@@ -1,0 +1,117 @@
+---
+id: ea4d182c-e264-5117-84a3-86d861687c3f
+page-type-slug: story-chapter-royal-road
+title: "Threads 158 Past 4"
+slug: 0188-threads-158-past-4
+partOf: forge-of-destiny
+position: 188
+ownLength: 1895
+unit: words
+publishedAt: 2021-11-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/795759/threads-158-past-4"
+royalRoadId: "795759"
+---
+
+Curiosity was a funny thing, Ling Qi mused, reaching out to touch the shimmering fabric of the tapestry. She’d never cared much for any ancestors further back than her own mother, but she just couldn’t fight back the urge to know.
+
+Beside her, Meng Dan had withdrawn his hand, flipping rapidly through the pages of the tome in his hand, but she saw him glance up as her fingers brushed the tapestry. Ling Qi felt a tingle in her fingertips and a faint pressure as the object tugged at her qi. She didn’t resist, letting the energy flow as if she were activating a formation.
+
+The embroidered names rippled, and the leaves of the great tree shook, whole flocks of birds taking flight from its boughs as names blurred by too fast to read. The tingling grew stronger as the names continued to move, seconds ticking by, five, then ten, then thirty. Ling Qi raised her eyebrows as it went on. It was taking much longer than it had for Meng Dan. She felt the spirit of the tapestry rumble in the spiritual realm, a noise much like the harrumph of an elderly man.
+
+Finally, the names blurred to a stop. Under her fingers was an archaic name, Duosi, connected to the name of a woman, Liangyu. There were many names above and below, so it seemed that he must have been…
+
+Before she could finish the thought or scan other names close by, the fabric under her fingers rippled, and the names jerked to the side. From the man’s name, a single crimson thread tugged itself free, weaving into the fabric to spell out a single word.
+
+“Illegitimate.”
+
+That was about what she should have expected. If there was going to be a tangential connection to her, it would have to be something like that, wouldn’t it? Her great, however many times, grandmother had probably been a handmaiden or a servant who had caught this Duosi’s eye. Ling Qi could feel the tapestry spirit practically glowering at her.
+
+“Wow, jerk.” Sixiang startled her when they leaned over her shoulder to stare at the names. “Ling Qi’s still around. Pretty sure that makes her more legitimate than a bunch of dead people.”
+
+Ling Qi rolled her eyes but smiled, withdrawing her hand. “I’m pretty sure you know that’s not how this kind of thing works,” she said.
+
+The Tapestry let out another spiritual grumble as the names reset, once more showing Tsu and his immediate descendants.
+
+“Indeed not,” Meng Dan agreed. “Still, isn’t it interesting how even the most unassuming lineages have their ties to the original Kings of the Forest?”
+
+“I suppose,” Ling Qi said. “I’m still a little curious. Is there anything about this Duosi in that book?”
+
+“There are several dozen,” Meng Dan replied. “Luckily for you, I was able to note the context to identify which one he was.” He glanced down at the book, briefly thumbing along the pages before flipping open to a section about a third of the way through.
+
+“Just like that?” Ling Qi asked.
+
+“Could you imagine how long it would take to research anything if I could not navigate my sources instantly?” Meng Dan asked rhetorically. “There is some advantage to being able to commune politely with book spirits.”
+
+“That is definitely an advantage,” Ling Qi agreed. “What does it say?”
+
+Meng Dan hummed, scanning a thin finger along the line of neatly inked characters. “Born under the reign of the third Weilu duke. The fifth son of a general. Married to Liangyu, seventh daughter of the petty king Mulu, a favor to his father. Achieved martial success in the central valley campaigns, subjugating dissident tribes. Granted overseership of a small region in the valley in recognition for his deeds and bloodline.”
+
+Here, Meng Dan’s smile became more of a grimace.
+
+“Sixty-five years into his rule, neighboring chieftains presented a suit to their king, and he was reprimanded for agitation and attempts to expand against them, as well as dishonouring his lady wife. Removed from his position and his son was elevated. Died at the age of two hundred and eighty-seven in the fourth realm, slain on a campaign against the cloud tribes.”
+
+He spoke at a rapid but easily understandable clip, and Ling Qi found herself smiling.
+
+It really was nothing, she thought in amusement. Some mediocre warlord who had never stepped beyond the fourth realm, despite the resources of a ducal house. She chuckled, and Meng Dan gave her a curious look.
+
+“Miss Ling?” he asked, studying her face. “It is not the most pleasant reveal, but—”
+
+“No, I’m not distressed. It’s just funny, how little things change,” Ling Qi said, fighting a laugh. “Now, I’m a little curious about the other side of the lineage.”
+
+Meng Dan blinked, his smile becoming awkward.
+
+“The grip of the past is strong,” Yinhui said. The spirit had been silent for quite a while, perched atop a stack of lockboxes that contained a great deal of jewelry and ornaments. Her blindfolded face was turned toward the tapestry, regarding it with a certain hunger that seemed out of place on her youthful seeming face. “Only truly terrible struggle ever sees it broken.”
+
+“You don’t necessarily need to break something right away,” Sixiang said, resting their chin on her shoulder. “Time is the enemy of tradition. Even folks who think they’re keeping to it will change it a little at a time, just as a dreamer will never dream the same dream twice.”
+
+“Aren’t you getting philosophical,” Ling Qi said. “I’m curious though. Sir Meng, you mentioned dissident tribes. What were those, a rebellion of some sort?”
+
+All this talk of petty kings and tribes. It occurred to her that she was still unclear on how the Weilu organized themselves. She’d been assuming it was just the same as now, but with the titles switched out.
+
+“On that matter, I can pontificate with some confidence,” Meng Dan said graciously. He was still looking at her with considering eyes, despite the easy smile back in place on his lips. “The thing you must understand, Miss Ling, is that our ancestors, the Weilu, were not truly one people. Even the name, Weilu, was an imperial moniker, and the conception of them as a single clan is quite modern, only becoming true in the final millenia of their reign.”
+
+Ling Qi eyed the names descending from Tsu on the list. She’d thought it odd that the names didn’t carry a surname for the most part. “They had a high king though.”
+
+“And, great heroes such as the Diviner aside, the position of High King was often more spiritual than secular,” Meng Dan lectured. “He was the head arbiter between man and spirit, the master of rituals, and a settler of disputes between Kings. It is true that he often had significant temporal might, but this was often the cause of achieving the high kingship, rather than the effect of the high kingship.”
+
+That still did not sound so different than how things were now, but the demons were in the details. No doubt Cai Renxiang could give a long lecture, if she liked. “So by dissident tribes, it meant other Weilu, and rather than being a rebellion, it was just the normal shape of things.”
+
+“A loyalist under one high king might be a dissident under the next," he concurred. "We of the Emerald Sea are not like the Bai, who mastered the Thousand Lakes with an iron-fisted Queen ruling by rivership and legions of disciplined spearmen. Nor do our people have the near fanatical community of the Zheng to allow their lazy anarchy to reign for tens of millenia without visible internal dissent. What many choose to ignore is that the people of the Emerald Seas have always been many tribes. Even after the Sage came and demanded a king who could kneel to him, this did not change.”
+
+“What of the Mason’s War then?” Ling Qi asked, shooing Sixiang aside to give her room to sit atop a stack of dusty notebooks. “Why was it so…”
+
+“Because it was a war of belief.” Meng Dan peered down at the pages of the book in his hand. “It was not merely a thing of petty rivalry and resources, of honor against honor, but an open challenge to the shape of the region’s society and structure as a whole. Such challenges only ever end with one side trampled to mud and dust.” As he spoke, Meng Dan’s smile faded by inches, and his voice became grave.
+
+“Either the seekers of change are defeated, and their hopes of a different world are broken, or the holders of tradition break, and their way of life disappears,” Yinhui said, idly kicking her feet. “But even in victory, tradition weakens with every challenge. It breaks eventually, if not always the way the challengers like.” ‘
+
+“Ideals aren’t so easy to break,” Sixiang contended, folding their legs beneath them to sit in midair. “It’s not like it’s ever just one big fight.”
+
+“You are not wrong,” Meng Dan replied. “You can choose to give up bits and pieces, little things to prolong the coming of the ‘big fight.’ But to resist change forever? You can ask the ghosts of the Hui how that went.”
+
+Knowing such things, was it any wonder that the Emerald Seas was a splintered mess?
+
+“I’ve never looked into it, but does anyone know what actually happened to the Weilu?”
+
+“There are many theories, most of them quite fantastical,” Meng Dan answered. “The facts are that the population who bore clear marks of the Horned Lord's blood were shrinking century by century, and the Weilu, in turn, came together more and more in their secret palaces, leaving administration to their vassals. Then, after ten years of complete silence, all realized that they were gone in truth.”
+
+“Then came war, and much knowledge became secrets, sealed in ash and blood,” Yinhui continued.
+
+“Just so,” Meng Dan said. “But, before we go on, might I ask you a question, Miss Ling?”
+
+Ling Qi raised an eyebrow, curious at what he wanted to ask. “You may.”
+
+“Her Grace is unlikely to confiscate such things, as other rulers might,” Meng Dan said, gesturing to the book and tapestry. “And while I cannot speak for the Meng clan as a whole, I do believe I speak for my grandmother in saying that our branch of the family would be most interested in them.”
+
+“Are you seeking to buy treasure from me already?” Ling Qi asked, cheered by the change in topic.
+
+“Right of first refusal at least, on behalf of my family,” Meng Dan said.
+
+“I do have to split this. Xia Lin might end up owning it,” Ling Qi pointed out.
+
+“If that is your prerogative, I will speak with her,” Meng Dan replied.
+
+Ling Qi considered. She had no doubt that she would end up entertaining many offers if she took the item as part of her share, but for that reason, it would take up a lot of her share.
+
+“I think we should review the rest of the contents before I answer that,” Ling Qi said.
+
+“You are certainly practical.” Meng Dan laughed. “Very well. Let us organize, and I will begin searching for information on our erstwhile mountain prince and his lineage.”

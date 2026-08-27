@@ -1,0 +1,121 @@
+---
+id: 6ef022d9-9f83-51d0-8754-79110d5d86e5
+page-type-slug: story-chapter-royal-road
+title: "Threads 192-Liminal 1"
+slug: 0224-threads-192-liminal-1
+partOf: forge-of-destiny
+position: 224
+ownLength: 1630
+unit: words
+publishedAt: 2022-03-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/857378/threads-192-liminal-1"
+royalRoadId: "857378"
+---
+
+“What were the dream cults anyway?” Ling Qi asked, considering the idol. “I keep hearing about them in passing but never any mention of what they actually did.”
+
+“My own education on the subject isn’t exactly extensive. They first appeared a short time after the disappearance of the Horned Lord as a sort of mystery cult among the Weilu.”
+
+“They didn’t directly worship Grandmother or the greater Dreaming Moon, so I dunno what they actually did,” Sixiang said. “Well… I kinda remember them seeking some specific point in the Dream? That’s a really old fragment of experience though.”
+
+“I do know that the original cult was ascetic in nature, but this was corrupted through the ages.” Bao Qian eyed the idol himself. “If my tutors are to be believed in any case.”
+
+Ling Qi stepped into the room, feeling the hum of dream qi on her skin. “If Sixiang thinks they can do something with it, I’ll take it. If someone notices I have it, I’ll just have to talk my way around the accusations they come up with.”
+
+“As you say,” Bao Qian allowed, following after her. “I think you may be underestimating how troublesome such rumors can be, but that is your choice.”
+
+“It—” Ling Qi began as she reached down and picked up the idol. Her words cut off as she spun around, feeling the attention of something on her back.
+
+An ancient, moldering skull shifts, and black petals rain to the ground
+
+But there was no one there, and the feeling was gone, so swiftly that she could have imagined it.
+
+“Miss Ling?” Bao Qian asked, giving her a concerned look.
+
+“We may have the attention of a spirit,” Ling Qi said slowly, extending her senses. She couldn’t feel anything. She glanced down at the idol sitting innocently in her hands, sluggish flows of dream qi still being drawn into a point at its center. She was, if nothing else, certain that the source of the attention had not been a person, a human, that is. The qi was… wrong for that.
+
+“It wouldn’t be unusual to pick up attention from local spirits when moving the core of a site,” Bao Qian said. She felt his own, much heavier qi rippling around as he peered about cautiously. “I wasn’t informed of any fourth realm or higher spirits with territory here, so we will likely be fine.”
+
+“I suppose so.” Ling Qi felt a bit unsettled. She brushed her thumb over the golden features of the carved figure.
+
+“Mighta been somebody on my side,” Sixiang said. “I’ll keep an eye out.”
+
+Ling Qi nodded. Looking back up, she blinked as she saw Bao Qian gathering candelabra from the altar. “... Really?”
+
+“Waste not, want not,” Bao Qian quoted. “I’ve been running short on gold threading lately. So melting these down will serve nicely.”
+
+Ling Qi could hardly say anything against that. She sent the idol into her storage ring, wincing as she felt the conceptual free “space” in the ring drop massively. The dream idol was quite hefty. “Why do you need gold threading anyway? I’ve heard that gold is terrible for conducting qi.”
+
+“In broad terms certainly, but in modern talisman craft, it has niche applications where being mostly inert to external qi is helpful. More importantly, gold is pretty, and people like its look. That does not merely go for mortals,” Bao Qian said.
+
+Ling Qi made a sound of acknowledgment. She had never noticed a lack of gold filigree and other decorations, even if she saw less of it in larger quantities among cultivators. “Let’s finish up here, shall we? Just keep an eye out.”
+
+Once the room had been looted and the sealing stake pounded into the altar, they set out to finish their work. In the rest of the manor’s second story, there was little else of interest. With the scorch marks and open rifts in the roofing, it was clear that most things of value had already been looted or long since rotted away.
+
+Still, there was some fun simply in the search, and Ling Qi did find a few more trinkets, pieces of jewelry forgotten in the cracks under floorboards and such. Once they were cleaned and cleansed, she’d give them to her mother to dispose of how she pleased.
+
+Soon enough, she found herself back outside, walking through the overgrown garden beside Bao Qian, Zhengui, and Hanyi.
+
+“This has been a relaxing outing. Thank you for your invitation, Bao Qian,” Ling Qi said as they exited through the gates. She knew she was odd, feeling less intimidated by the prospect of work than a more traditional outing. But that was where she stood at the moment.
+
+“It was certainly an experience. I can’t say I mind being able to pontificate at length about my interests.”
+
+“I really do need to expand my horizons, so I didn’t mind listening,” Ling Qi replied.
+
+“If you like, I would not mind taking you to see some local theater or concerts in the future,” Bao Qian offered.
+
+“Ah,” Ling Qi said for lack of a better response.
+
+“Of course, I would be fine just giving you some recommendations,” Bao Qian continued casually. “I know we are both busy people, and it may be difficult to align our schedules.”
+
+<Smooth,> Sixiang thought.
+
+“Oh, it might be cool to see a play sometime, Big Sis,” Hanyi said innocently.
+
+“I’ll think about it,” Ling Qi said. “In any case, are we done now, Bao Qian?”
+
+“Just one last step,” he said cheerfully. “If you’d step aside and give me a bit of space, Miss Ling?”
+
+She nodded, doing so. It would be nice to see more of what the Emerald Seas world of art had to offer… Hadn’t she insulted that corpse for being high and mighty, ignoring what lay at his feet? She just wasn’t so sure that she wanted to pair it with other concerns at the same time. Perhaps she could suggest some outings of the sort to Cai Renxiang.
+
+Bao Qian stood at the center of the path in front of the gates. The last of the sealing stakes was planted deeply in the dirt in front of him, its characters slowly lighting up as it activated. In her spiritual senses, she could feel the rigid sealing field coming to life, boxing in the lingering malice in the old manor. Already, she could feel the lingering unpleasantness in the air fading.
+
+Bao Qian set his feet widely as he looked up at the manor and took a deep breath. Ling Qi was silent, not wanting to interrupt his technique. His hands rose into the stance of a defensive style she did not recognize and closed into fists grasping at something that was not quite present. Under her feet, Ling Qi felt a small tremor. He brought his fists together, and the whole hill groaned and shook.
+
+Wood cracked, earth crumbled, and the manor began to cave in on itself, first slowly and then quickly as the tremors grew in intensity. The outer wall collapsed, sections falling haphazardly as the heaving earth shattered the foundations. Dust kicked up, obscuring the falling building from view.
+
+All the while, the sealing energies folded and changed in a way that she found difficult to follow. They flattened and spread, molding themselves to a wholly new geometry.
+
+When the dust settled, there was only a cleared hill and a few shattered fragments of wall here and there to show that there had ever been human construction.
+
+“With the physical anchor gone, the malicious spirits trapped in the sealing will disperse themselves into the natural spirit courts of the area,” Bao Qian said, answering the unasked question. “Now, we are done.Thank you for accompanying me, Miss Ling.”
+
+“Ling Qi is fine. And it was no trouble at all.”
+
+“Of course.” He turned his back to the cleared site. “And if nothing else, Ling Qi, I would like you to keep me in mind should you require a prospector’s services in the future. My prices cannot be beat.”
+
+“Naturally, I will think of a reliable business partner like you first,” Ling Qi agreed. He had earned that much trust at least.
+
+***​
+
+“It’s pretty weird to think that another year is almost past already, huh?” Sixiang asked as they looked out over the Sect, perched on a high cliffside.
+
+“I don’t know about that. Sometimes, it feels like this year has been longer than the rest of my life combined,” Ling Qi joked, letting the stellar qi twist in her grasp as she wove the descending energy into her cultivation. Really, it was not much of a joke. So much had happened; so much had changed. It was sometimes difficult to wrap her head around.
+
+Below, she saw Outer Sect disciples diligently cleaning the arena. In the great open field beyond, colorful flags and ropes demarcated the zones reserved for visiting clans and their pavilions. The New Year’s Tournament was happening again.
+
+“Don’t make me sound like a burden,” Sixiang complained.
+
+Ling Qi rolled her eyes. “Since when did your skin become so thin?”
+
+“Probably when I stopped having it,” Sixiang replied flippantly.
+
+“You’ll be happy to know that I have time before my schedule gets heavy again, so starting tonight, we’re going to be working on the tools we’ve picked up. I better not catch you slacking off.”
+
+“Me? Never,” Sixiang laughingly protested. ”Besides, this isn’t work. It’s an adventure!”
+
+“If you say so,” Ling Qi said with a smile.
+
+“Seriously, though, this won’t go like last time,” her muse reassured. On her shoulder, she felt the pressure of a phantom hand.
+
+“I know,” Ling Qi said, standing up. “Let’s see what lies past the Gate of Sleep.”

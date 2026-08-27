@@ -1,0 +1,127 @@
+---
+id: 31556e67-8cec-5b35-897e-d83cd3ac1c0b
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 536-Duel 2"
+slug: 0585-threads-chapter-536-duel-2
+partOf: forge-of-destiny
+position: 585
+ownLength: 1868
+unit: words
+publishedAt: 2026-08-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3798110/threads-chapter-536-duel-2"
+royalRoadId: "3798110"
+---
+
+No one gave an overt signal to start.
+
+The ground shook imperceptibly. Renxiang advanced one step, then two.
+
+The downward-pointing tip of Mu Wuye's blade rose a hair's breadth.
+
+Renxiang's saber carved down in a diagonal cut. Mu Wuye swayed aside, leaning back and taking a single smooth step to carry them out of its path. His sleeve rustled as the tip of his blade darted out almost invisibly fast, cutting through the air the saber had just swung through.
+
+Cai Renxiang bulled forward, following her own momentum and ducking down. The thrust went over her shoulder and past her head, even as she rushed relentlessly forward, forcing Mu Wuye to hop swiftly backward to avoid the impact of her shoulder against his chest.
+
+The whole exchange had taken a second or two at most, Dust exploded outward from them from their brief applications of force. Renxiang’s saber swung back up into ready position, and that narrow blade darted out, far swifter this time.
+
+"Hoh, going for a slow dance, my lord, escalating from the bottom up? How bold," Kang Yuze complimented, grinning brightly.
+
+Purely mundane swordplay followed. Metal clashed, and cloth rustled and whispered. They were still moving in ways a mortal might, albeit with the force and speed of cultivation amplifying it.
+
+"They are getting to know one another. Best to start with the basics." Ling Qi rested her chin on her hand, leaning against the fence.
+
+"And you say you know little of swordplay."
+
+"She does not, but our Lady Ling is a fiend of cultivation, and the result is much the same," Gan Guangli advised.
+
+"A fiend? What is that to mean?"
+
+"That you learn with your fists, no different than I! You just prefer to bash obstacles with music instead of muscle, and receive your opponents' blows upon the chin."
+
+"I do not,” Ling Qi protested. “I just try to find insights in all conflicts."
+
+"Great Spirit of Flame, I shall take the full force of your wrath!" Gan Guangli mock proclaimed, somehow booming and completely flat at the same time.
+
+Ling Qi let loose an audible sigh, refusing to give his mockery any further attention.
+
+Mu Wuye's steps were light and loose. It was not the absolute precision of one who knew with exactitude what the next step in dance was. Rather, he moved in such a way as to enable him to respond to as many of the possibilities as he was able.
+
+In contrast, Cai Renxiang was disciplined but aggressive. Every step was precise. But she advanced relentlessly. It was a rare motion that grudgingly forced a sidestep, let alone a retreat, and it was always, always followed by resuming an advance in a different way. Parrying her was nigh impossible, so was deflection, at least for a peer. Even Xia Lin's Cai-made armor crumpled like cheap mortal iron before a direct impact from the heiress' fist, let alone her blade.
+
+Mu Wuye was superb to her eye, but in their flurry of martial exchanges, there were very few clashes. Careful, precise deflections used the minimum of contact to divert, sliding her liege’s impacts along the length of his blade in a flurry of sparks, but even those maneuvers sent a tremble of shock through his sword arm. In retaliation, Mu Wuye's blade darted around and through her liege’s guard at a multitude of angles.
+
+Ling Qi saw the moment when the spar would escalate. The tip of the sword cut, wasp quick through the air, heralded a flicking slash that would cut the forehead and spill blood in the eye.
+
+Light sparked, blinding white, and metal screamed off something more solid than it. Radiance glowed, like a framework of wire, outlining Cai Renxiang. Color bled from her eyes.
+
+Mu Wuye lept back, landing with the lightness of a falling leaf, and slightly inclined his head. He raised his sword, and inky blackness dripped like oil along the edge of his blade.
+
+Cai Renxiang advanced, and her shining boot sent a spiderweb of cracks through the ground with the impact of her step.
+
+Then, Mu Wuye moved. It was hard to track, Ling Qi admitted. A year, or even half a year ago, she would have lost him. It wasn't liminal motion; it was too solid for that type of movement. Instead, it was like a blade skating downhill on ice. His passage left a zigzagging furrow in the earth.
+
+She caught the moment he sped past Cai Renxiang, under and around the solid wall of roaring air driven by the horizontal swing of her saber.
+
+A high cut across the throat to force deflection. A mid thrust to drive up under the arm and strike the pit. A low slash, as much pommel strike as slash, driven into the gut. All three, an instant of decision split across possibilities, each as real as the other in the moment.
+
+Renxiang pivoted on her heel, and the strike to her midsection scattered like a trick of the light, the thrust under her arm faded like a ghost as its target pulled out of reach, and the bright darkness-edged blade hissed through the air across her neck. Radiance consumed them both, a blinding flash that forced Ling Qi to look away from the eye-watering light as the sound of impact crashed out.
+
+When Ling Qi looked back, pieces of radiant light were falling from Cai Renxiang like leaves. The two of them wheeled, turning back to face each other from the distance opened by the clash.
+
+"A powerful defense," Mu Wuye praised. A slight flick scattered the glittering sparks still clinging to his blade. "I admit, I was confident I would score a point."
+
+"It has been some time since a peer has been able to disrupt my arts so," Cai Renxiang acknowledged. "The arts of the imperial house are without peer."
+
+"Mn, my execution is the only thing that shall ever lack," Mu Wuye replied. "Shall we consider the warm-up complete?"
+
+"I believe so," Cai Renxiang agreed, saber swinging back upward to her high starting stance.
+
+Mu Wuye mirrored her in resetting to his beginning stance.
+
+"Lady Cai is enjoying herself a little," Ling Qi observed.
+
+"Is that so? I wouldn't have guessed," Kang Yuze confessed. "I do not see it."
+
+"Our lady is not the most expressive," Gan Guangli allowed, peering over them into the thinning dust that still shrouded the two combatants in the training yard. "When you know her well…"
+
+"It’s that look of focus she gets when someone presents her with a logistical snarl," Ling Qi described flippantly. "Lady Cai likes being presented with problems to solve. Usually, the problem is me, but she's tiring of that one."
+
+"I do not know if my lord should be happy about being a 'problem to solve,'" Kang Yuze noted. "Mayhaps it's just a matter of phrasing. Steel sharpens steel, as they might say."
+
+"You'll want to guard your eyes. It's only going to get brighter from here," Ling Qi warned.
+
+"No doubt!" Gan Guangli supported.
+
+"Well, I do have a special love for fireworks."
+
+The roar of impact and the blinding flash were restrained only by the dampening effect of the training yard wards. The arc of radiance that erupted with Renxiang's advance rattled the fence, its barrier flaring to life from the backwash of air left by her swing. Dirt burned to a fine ashy grey, rapidly bleaching to white at the epicenter.
+
+Through the light, Ling Qi, squinting, could glimpse a thread of inky black, splitting, merging, and spiderwebbing through the colorless light of Renxiang's truth. Dozens of smaller metallic impacts shrieked out in succession before being drowned out by a low but quickly revving, thrum of power being channeled through Renxiang's saber.
+
+Cai Renxiang was making it very difficult to actually perceive what was going on, Ling Qi thought, shaking her head with faux exasperation.
+
+Her eyes weren't going to be much good for this spar, but thankfully, she had other senses now. Using them, she could perceive a faceless figure of liquid light who wielded a brand of unstoppable steel, molten with power for all that it was cold, facing off against a slender figure of bottomless black, whose whiplike sword cut narrow crevices through which the shadow could slip from step to step.
+
+Not that the crevices would be of much use. Ling Qi was well familiar with her liege's policy, and it was very hard to dodge an attack that hit the entire battlefield at once. It was good, then, that, like her, Mu Wuye had more esoteric ways of moving.
+
+Cai Renxiang’s movement was like the hand of a clock, snapping relentlessly forward to its next position. The motion that had preceded it—the turning of the gears, the transference of force—made the motion predictable in its inevitability. But even if progress was predictable, that did not mean it could be stopped, avoided, or even exploited. That was the mistake of arrogant diviners, or at least a part of it, as Xin had described.
+
+What happened when inevitability clashed with inevitability? In Ling Qi's experience…
+
+Relentless progress crashed into a definitive ending. The meteoric flash of the white saber struck into the slender shadow, and it shattered apart, a dozen fractal trails of possibility emanated like dark lightning from the impact point.
+
+They cut. Slender blades carved trenches through blazing radiance.
+
+This was akin to Ling Qi's solution: to scatter herself into possibilities, fleeing into the future before the harsh light defined it irrevocably. When Ling Qi fought against Cai Renxiang, the blade of progress met the cold inevitability of the winter. The end would come, but not that day. An end would come, and the march would resume in its wake.
+
+Mu Wuye used possibility more offensively. Each cut started as a single, near invisible black thread that expanded, swallowing up alternatives. Mu Wuye's blade severed possibility. In its own way, the technique similarly countered Renxiang. The advance would not stop; the clock would not cease its forward motion. However, the space and definition of progress narrowed with each cut.
+
+The saber crashed to earth, shaking the training field, and a dozen darting cuts bit at the juggernaut of metal and light that drove it forward. A wing of light was severed, the armor of radiance crumbled, and a splash of swiftly evaporating red glittered in an arc from the wound.
+
+The ground under the combatants’ feet was severed, opening folds in space deeper and further in extent than mortal eyes would perceive.Cai Renxiang’s leading foot stomped across a gulf of severed possibility, hemmed and caged and guided in her motion, while the ringing of metal on metal rose to a catastrophic whine. Something shook and vibrated in a way that set Ling Qi's teeth on edge as Renxiang's boot plowed through folded, severed space.
+
+A bar of liquid light slammed through the shadow spiderwebbing through the air to cut her again. Mu Wuye's silhouette spasmed and scattered like a struck raindrop, tumbling back on the field of light, before regaining his feet.
+
+For a moment, white and black faced each other again across the field.
+
+"One," they counted, almost as one.

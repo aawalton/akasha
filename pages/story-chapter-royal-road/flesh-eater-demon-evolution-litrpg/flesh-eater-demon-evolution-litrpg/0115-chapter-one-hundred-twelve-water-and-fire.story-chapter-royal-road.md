@@ -1,0 +1,147 @@
+---
+id: 097279b8-d62b-5f00-a068-c921a12d2341
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Twelve: Water and Fire"
+slug: 0115-chapter-one-hundred-twelve-water-and-fire
+partOf: flesh-eater-demon-evolution-litrpg
+position: 115
+ownLength: 2292
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3753364/chapter-one-hundred-twelve-water-and-fire"
+royalRoadId: "3753364"
+---
+
+A larger blast of water came barrelling towards Pyre, this one large enough to completely fill the hallway. Compared to the previous more targeted attacks, this one seemed mostly designed to push her further back. She grew a bone shield and activated [Stalwart] just before the wave crashed over her.
+
+The bone cracked under the force of the spell, but her skill did its job and she remained where she was. Pyre attempted to close the distance again, but her next bone spear was blocked by a whirlpool of water.
+
+Cursing, the demon turned and jumped straight down the staircase, landing with a hard thud on the first floor. The floorboards snapped beneath her weight, but she was more focused on Llyr immediately following behind. Soon they were trading blows again.
+
+This wasn’t going to work, Pyre thought as she landed a punch on the healer’s eye that he immediately retaliated with his own hit. With how fast Llyr could regenerate, it didn’t matter how much damage she did, and for perhaps the first time, she was fighting against someone who could arguably last even longer in a fight than she could.
+
+The demon dug her bone axe into the healer’s side, the blood spilling onto the ground below. The cut was already healing by the time she ducked out of the way of another one of those concentrated water spells.
+
+Just as she was dodging away, her gaze briefly landed on the burn marks on Llyr’s hands. They were small—barely noticeable if you weren’t paying attention—but her eyes narrowed in contemplation.
+
+Pyre compressed her torso down to dodge the next blow, then circled around the healer to the stairs again.
+
+Thinking back on it, the injury resulting from that first attack of hers had healed noticeably slower than the wounds that followed. It didn’t make sense for regrowing an arm to be faster than healing a bit of flesh, at least not on its own. Which meant there was something else influencing Llyr’s regeneration speed.
+
+The demon grew an eye on the top of her head, using her thermal vision to peer through the floors above. It was faint, but she could just barely make out a disruption in the heat signatures on the fourth floor. That had to be where Callan and Daphne were.
+
+Her eyes narrowed. She had an idea.
+
+Muscles tensing, she activated [Weight Manipulation]. With a powerful leap, Pyre landed on the second floor, the floorboards creaking below her even at her reduced weight. Here, she could see the hole in the wall where Llyr’s spell had hit earlier, the entire hallway now a mess of debris and puddles.
+
+Pyre turned to the stairs continuing to the floors above. She warped her flesh, extending a long bone-chain upwards that she looped as far up onto the staircase railing as she could reach without the thing becoming too narrow to support her weight.
+
+Muscles tensing, Pyre retracted the chain and shot up just in time to dodge a spell hurling in her direction.
+
+She heard a loud crack as the magic collided with the wall, but by then, she was already coiling her warped arm around the railing. Not missing a beat, she grew a new chain and looped it onto the railing leading to the fourth floor, finally landing with a heavy thud.
+
+Not stopping, the demon bolted down the hall, only stopping when she caught two familiar heat signatures inside one of the rooms.
+
+She promptly ripped the door open and grew a bone shield, which turned out to be the right decision when a blast of fire promptly hurled towards her.
+
+“Pyre?” Inside the room, Callan floated closer while Daphne lowered her still-glowing finger. Both of them looked half-frenzied with tension and worry, eyes darting wildly behind the demon like they were expecting Llyr to show up at any moment. “What happened? Is—”
+
+“No time,” Pyre interrupted. She absorbed the burnt bone shield and jerked her head at the two mages.
+
+“I’ve got a job for you.”
+
+It didn’t take long for Llyr to catch up. Less than a second after Pyre finished explaining her impromptu plan, the vibrations in the floor shifted. She turned to see the healer ascending the steps.
+
+He was covered in dried blood from all his healed wounds, his bright blue eyes standing out starkly against the dark hues. Like this, he bore practically no resemblance to the saintly healer the people of Serindell knew. He looked every bit a monster.
+
+Pyre clicked her tongue and stuck her warped arm out, providing a cover for Callan and Daphne. “Go,” she said. They didn’t need to be told twice.
+
+The two mages scrambled away. They looped around to the other side of the hallway, making a wide path around the two monsters before finally disappearing down the stairs.
+
+The whole time, neither Pyre nor Llyr moved from their positions. Llyr didn’t even give them a passing glance as they escaped, all his attention fixed on the demon.
+
+The sound of Daphne’s footsteps faded. The healer raised his hand.
+
+Following a bright flash of light, a swirling sphere of water shot towards the demon. She raised her axe-arm to block it, straining a bit as the spell kept pushing her back. With a great heave, she knocked the orb back at Llyr, where it promptly dissipated into a harmless puddle of water.
+
+Pyre lunged, axe aimed straight at the healer’s neck. Without flinching, Llyr raised an arm to block the blow. The blade sunk deeply into skin and bone, severing nearly the entire way through, but he didn’t seem the slightest bit bothered. The cut was already stitching itself back together.
+
+Cold ice burst from the healer’s skin, creeping up along the demon’s axe. She yanked it back before the ice could reach further, knocking it against the ground a few times to get the ice off.
+
+A sharp stream of water came barreling towards Pyre next, and she barely reacted fast enough to activate [Slothful Time].
+
+The spell slowed slightly the moment it crossed the skill’s invisible barrier, giving her just enough time to dodge out of the way.
+
+The stream shot past, slicing into her cheek, but otherwise avoiding any major damage. Based on the trajectory of that spell, if she hadn’t dodged, it would’ve pierced straight through one of her eyes. She thought briefly back to Daphne’s warning, then to that simmering hatred she’d seen in the healer’s eyes earlier. It looked like she hadn’t been imagining it.
+
+“You really don’t pull punches, do you?” the demon said as she promptly grew another bone spear. Llyr countered it with his own spell, and the clash of ice and bone sent sharpened shards flying outwards from the point of impact.
+
+“You’re no different,” Llyr replied. He raised his hands, moving them in a rapid series of gestures that Pyre knew by now to associate with serious magic. She considered her options for a moment, then elected to dart out of the way just before the healer spoke a final chant.
+
+That turned out to be a good decision, because a massive tidal wave materialized in front of him, rushing all the way down the fourth floor hallway and crashing into the far wall. The entire surface cracked and collapsed, and Pyre heard a distinct creak below her as the foundations of the building buckled.
+
+She cursed, but the floor below managed to stay intact. If she had the timing right, Daphne and Callan should be about ready now.
+
+“Maybe watch where you’re firing that stuff,” Pyre called back at the healer. She grew an extra eye along the underside of her warped arm, using its thermal vision to assess the floors below. “Wouldn’t want to destroy your own house!”
+
+Llyr raised an eyebrow at that. “It’s not mine,” he said simply. He raised his arm again, but Pyre had already confirmed the two mages’ location.
+
+Before Llyr could utter another spell, the demon raised her arm and slammed it straight into the floor with all her strength.
+
+With a deafening explosion, the entire surface split apart. Pyre felt herself falling down onto the floor below, broken wooden planks and splinters flying all around her.
+
+She landed with a hard thud and immediately straightened again. Now that she was on the floor itself, she could see the open door at the end of the hallway where Callan and Daphne were.
+
+Pyre waited just long enough for Llyr to drop down as well before she bolted for the room.
+
+Another spell shot past her, but she just grew another plate of bone on her back and kept going. Attacking the healer didn’t do shit when he could regenerate in less than a second, but she did send out a few bone spikes to interrupt his casting whenever she could. It did a decent job of keeping Llyr further away, but it couldn’t work forever.
+
+Just as Pyre reached the open doorway, the man caught up. The demon spun around and slammed her axe into Llyr’s head, but he didn’t so much as flinch. Blood spilling down half his face, skull cracked open, he simply raised his hand and shot another stream of water out.
+
+This time, it cut clean through her already-softened flesh. Her severed arm flew backwards, landing somewhere inside the room. Pyre gritted her teeth and ignored the stinging pain.
+
+Yanking her axe out from where it had managed to dig halfway through the healer’s head, she twisted around until she was behind Llyr. Without stopping, she threw her body forward, using her weight to knock him into the room.
+
+“Daphne!” she yelled.
+
+Red light flared. In the center of the room, branches and other flammable plants had been placed in a circle around where Llyr had landed after the blow. Just as he was rising to his feet, that familiar glow flashed in the corner of the room, and with a loud snap, a jet of fire ignited the circle.
+
+Llyr’s eyes widened as he realized what was happening. His palm began to glow as he prepared to douse the flames, but he wasn’t the only thing in the circle. Pyre’s severed arm had landed there, too.
+
+The demon now activated [Flesh Sculpting], urging the detached flesh to rise upwards just enough to tangle around his legs and interrupt his spell.
+
+The blue light flickered. Not missing a beat, Pyre leapt over the wall of crackling flames. In one smooth motion, she severed the healer’s legs at his knees, sending him crashing down onto the floor with a pained yell.
+
+Gritting his teeth, Llyr pushed himself up with one hand and raised the other, but the demon had already been expecting that.
+
+Along her back, two fleshy appendages sprouted forward and coiled around the healer’s wrists, pinning them against the ground at the same time as Pyre brought her axe to Llyr’s throat.
+
+For a moment, no one moved.
+
+Around them, the wall of fire continued to crackle and twist. Pyre could feel the heat radiating off the flames, her skin noticeably drying in their presence. They showed no signs of stopping, the kindling Callan had created providing the perfect fuel.
+
+Through the fire, she could just barely make out the blurry shape of the ghost in question floating beside Daphne. Both of them were waiting by the corner of the room like she’d told them to, still a decent distance away from the circle itself and the two monsters inside. Even with the flames obscuring the view, she could practically feel the tension rolling off them in waves.
+
+Below her, Llyr lay flat on his back, chest heaving with exertion even as his eyes glared daggers at her. Half his face was still smeared with blood from the hit earlier, but it did nothing to lessen the venom in his gaze.
+
+He strained, attempting to push the demon away, but the appendages held strong. Pyre pressed the axe blade close enough to draw a thin line of red from his neck. His lips thinned, but he stopped moving.
+
+Below the healer, a puddle of thick, viscous blood was quickly forming from the stumps where his legs had been. The cuts weren’t healing.
+
+The demon smiled, wide and sharp. “You need some kind of moisture to regenerate, don’t you?” Llyr’s eyebrow twitched and he didn’t respond, but his silence was answer enough.
+
+From the beginning, the healer had always favored water-based magic. He seemed to enjoy using it as a conduit for his healing spells in particular, so it stood to reason that it was a necessary component of his regeneration, too.
+
+The reason Pyre’s first attack had healed so much slower than the wounds throughout the rest of their fight was almost certainly because Llyr had been hit by Daphne’s fire right before that. The mage’s magic was so strong that she could noticeably dry out the air—enough to interrupt the healer’s usual methods.
+
+All they’d had to do was recreate that effect on purpose this time.
+
+Through the fire, Daphne had taken a cautious step closer while Callan floated higher to get a better look at what was happening.
+
+It wasn’t perfect, of course. The circle of fire still let some moisture in, which was to be expected without more thorough planning.
+
+Pyre could see the bleeding of Llyr’s leg wounds slowing down noticeably faster than they ever would on a human, but the limbs themselves weren’t regrowing, which was enough for their purposes. Like this, the healer was effectively immobilized, and he seemed to realize it too.
+
+He was trapped.
+
+“So,” the demon drawled, pressing her axe a little closer, “care to explain what’s going on?”

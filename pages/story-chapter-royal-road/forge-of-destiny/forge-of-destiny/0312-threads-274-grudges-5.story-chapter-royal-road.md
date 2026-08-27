@@ -1,0 +1,131 @@
+---
+id: 2dac1147-188c-5e09-bef5-8a9e02ffd433
+page-type-slug: story-chapter-royal-road
+title: "Threads 274-Grudges 5"
+slug: 0312-threads-274-grudges-5
+partOf: forge-of-destiny
+position: 312
+ownLength: 2280
+unit: words
+publishedAt: 2023-01-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1077449/threads-274-grudges-5"
+royalRoadId: "1077449"
+---
+
+The ith-ia gardener raced toward her.
+
+He leapt, and she vanished, ghosting backward, a dress and the silhouette of a face in the dark without hands or limbs like her teacher once had appeared. The stalking beasts and men and things between that stalked her mist circled and closed in. A burst of red powder incinerated a cloud of screaming birds, a short knife of yellow bone spun into a backward grip slashed the head from a laughing horned spirit whose mirth echoed even as his head splashed into the water around their ankles, and a plume of dark blue shredded the phantoms caught in its arc into less than dust.
+
+But there were too many to stop.
+
+Figures melted into one another and moved without stepping, their hands and claws and teeth reaching for the desperately keening undergrounder, and drew dark blood from a hundred cuts. And out in the billowing mist that had swallowed the world, a howl sounded, deep and resounding, a mournful funeral dirge. A black shadow with crimson eyes larger than a man’s head towered higher than should have been possible in the confines of the cistern, called forth by Ling Qi.
+
+The shade of the wolf god’s howl was a blanket of malice across the mist, and under it, her phantoms grew sharper, bodies settling with a weight of reality that a moment before they had lacked. The gardener’s knife lashed out, and this time, rather than carving through illusion like air, it stuck into the guts of a great black hound as if it truly were two hundred kilograms of muscle, fur, and meat.
+
+The moment of surprise was enough for hands to grasp its strap-covered shoulders and for hungry jaws to close on an ankle with a squelch.
+
+Far back in the Mist, all but touching the damp ceiling of the cistern that only she could see, Ling Qi palmed a glittering bundle of diamond cord. In the tedium of waiting in the Ministry, she had taken the chance to reset her diamond snare, leaving Yan Shenyi to the Ministry’s non-existent mercy. And here, with a foe she could not risk killing, was this not the best place to put it to use?
+
+Below, the phantom of the wolf god leapt into the fray, scattering lesser shades and revelers around his feet, jaws open to catch and trap. Held and grappled by others, the ith-ia gardener let out a cry of pain as teeth like swords dug into his flesh.
+
+But as she was winding back to throw the snare, her eyes caught on the movement of its fingers. Covered in glittering kaleidoscoping dust, the fingers dragged through the dark ichor that wept from its wounds, spinning headache-inducing patterns across its skin. The fabric of space within the cistern buckled, and in the instant she had to react, she turned her Mist outward, shattering their isolation together as she gathered her little brother and allies into a cold embrace of impenetrable mist.
+
+The cistern rocked as weight and direction and distance all warped at once, ripping down columns and turning the water into fractal streams flowing between briefly bent space. It was only in the embrace of her Mist that the world remained right in that single moment of twisting chaos.
+
+It passed, and the Mist dispersed. Two of her allies fell to their knees, blood leaking from the eyes and strange bruises blooming on their skin, but otherwise unharmed.
+
+As Ling Qi grimaced, feeling her twisted senses righting themselves, she saw the wheezing gardener on its knees in the cistern, silhouetted by the last remaining fungal bloom. Its dagger was being raised to its throat.
+
+Suddenly, falling drops of water from the newly cracked ceiling transformed into a man, hooded and cloaked in gray. One fist cocked back, swelling with monstrous and disproportionate muscle and the dark fur of a great ape, before it smashed the gardener into the earth with a shockwave that flung a ring of filthy water in every direction and pulverized the stone beneath.
+
+Ling Qi felt an inkling of memory, a figure briefly seen in the raucous tavern within the Dream of Xiangmen.
+
+The gardener bounced away from the powdered floor, and the man, arm shrinking back to normal proportions, followed, his legs bending strangely as he crouched and launched himself. Chitin rippled down his left arm as it bent and sharpened, a grass green organic blade emerging from his handwraps.
+
+“Don’t kill it!” Sixiiang cried out. “Capture!”
+
+There was a faint twitch of the man’s head, the only acknowledgement. The blade rippled, becoming flesh once more, and his hands grasped the gardener’s shoulders even as flames erupted, setting his cloak alight.
+
+He flung the enemy back toward Ling Qi where she floated near the broken ceiling. Her hand snapped out, and the diamond snare flew, a glittering web in the ruddy light that filled the cistern. The gardener fell into the water with a splash, a squirming and immobile bundle. Itsflesh distorted weirdly as if made of soft clay, pushing and straining against the gaps in the snare, but it merely tightened, changing its size to keep it bound.
+
+“Hah! Was too slow. Hardly needed me at all,” said the man as he hit the water with a splash. He threw his burning cloak aside, revealing a tall, thin man. Bits of red hair peeked out of the wrap over his face. “Zheng Fu, at your service.”
+
+“We’re not done yet,” Ling Qi replied, qi carrying her voice through the Mist as she turned to look at the crumbling fungal tower. It burned, blades and hands carving it into burnable chunks. She wasn’t taking any chances…
+
+A pulse of power, only one step below that of a sovereign, rocked through the cistern and far beyond. It was a sudden gale, wind that screamed through the tunnels and streets.
+
+“Ah, looks like the big man finally woke up his grandad,” said Zheng Fu conversationally. He moved to stand over the prisoner, eyeing the snare and the squirming creature alike. “So, you goin back south after this?”
+
+***
+
+“Some things never change.”
+
+Ling Qi continued to cycle her qi, feeling the flecks of darkness, the motes of want and desire that filled the gaol like so many droplets of dew in the morning. The qi here was so intense, so focused, that even without the thieving games of the old skeleton, her cultivation flowed as smoothly as a stream. In this case, it was a stream flowing into a dam, pressure building in her meridians and in her bones.
+
+She was nearly there, nearly broken through to the fifth stage of the green realm. This long journey was coming to its next step.
+
+“You’re familiar with the Zheng clan then, elder?” Ling Qi asked, pausing her tale.
+
+“Once, I lived in the mountain of flowers and fruit. It was a beautiful decade of youth.”
+
+Wistful. That was new. “He is an envoy. It seems the whole Empire has an interest in the Emerald Seas these days.”
+
+“Dangerous is the attention of the world.”
+
+Ling Qi inclined her head. “With the awakening of the Xu patriarch, clean up became much simpler. The ith-ia were not ready for that level of conflict, and their active elements went into full retreat at that point. All that was left was to dispose of their sacrificial weapons.”
+
+Ling Qi remembered collapsed streets where one of the fungal towers had briefly blossomed into the fourth realm, its poison puncturing a shelter. Light casualties, she had been told.
+
+She supposed this feeling was similar to what Cai Renxiang felt when told that something was “efficient enough.”
+
+“But this, too, was soon done, and I found myself invited to the manor of the Xu. Did you know, I’d actually met members of their family before?” Li Suyin crying in her arms. A bold duel in the center of the Outer Sect. “It feels small though in comparison, and it’s not my grudge to hold.”
+
+“People are not their rulers.”
+
+“They are not,” Ling Qi said. “I was honored. The Patriarch took a moment to meet me, and I have the family’s favor. He was livid, though whether it was because he was awakened or because of what happened to his city, I can’t be sure.” She closed her eyes, remembering the feast and the talks and the thanks. “I had to stay until an agent of the Duchess could collect the prisoner. The Xu were very eager to show their gratitude. Diao Hualing spoke to me on the Ministry’s communication stone. She was honestly a bit flustered.”
+
+Ling Qi smiled slightly at the memory. The older elegant woman had also been very irritated. She had been assured that there would be an audit, and she had Diao Hualing’s promise that there would be no one in position to hold a grudge against her about it after the audit.
+
+It perhaps helped that in the week since that day in the sewer, there had been a spate of reports detailing similar plots in settlements across the south and central Emerald Seas. Some of those incursions had been much more successful for the ith-ia.
+
+“Strange and dangerous foes, these.”
+
+“Their communalist society somehow makes them all the more cruel as foes,” Ling Qi agreed. It wasn’t the sort of war that the Empire knew how to fight.
+
+“Most any concept may be turned to cruelty or kindness. Are you ready then to tell your tale?”
+
+Ling Qi considered, feeling the pulse of qi in her body, the now familiar feeling of being a too small container.
+
+“I think I am.”
+
+Ling Qi breathed out, and Huisheng’s gaol faded away until there was only roiling white and gray mist, a blank canvas and a stage. There was silence as Ling Qi cycled her qi. Dark and wind and ice and dream shot through with flecks of other qi, It was a chaotic Mishmash that should have been unstable, but somehow, it held steady, a balance that only she could keep.
+
+In her hands, a construct formed with the soft crackle of forming ice, moist air freezing into the shape of a flute. The flickering shadow of a blade circled in the dark, the low tone of air whistling through the gaps in her domain blade setting a slow beat.
+
+In the Mist, there bloomed a city, a sad city, a cramped city, a sick city. It was a city that had long since ceased to grow. It was not dead, not yet, but it had begun to die a death of inches. Crumbling roads were aching bones, uncaring lords a fading mind, and the men and women who walked those streets, a strained and sluggish heart.
+
+Here was born a restless, impetuous child.
+
+She had been born of betrayal, of misery, of banishment to a woman barely more than a child herself. Their name, Ling, was itself a brand. It meant zero, a stark reminder of what the girl's mother had been reduced to.
+
+The shadow city born in the Mist was a groaning labyrinth of leaning buildings whose angles conspired to cut off the sky. Smoke and noise turned it gray and ugly, a mirror of the streets below. Figures separated from the Mist, coalescing from the shadows of the buildings into people, the citizens in their multitudes. There were bent laborers, cruel and haughty guards, and citizens determined to lose themselves in what small prosperity they could grasp, every one of them determined not to see anything beyond their own noses.
+
+Among the many, the slight, hunched figure of a woman and child were rendered in glittering black, a hole in the fog.
+
+The girl and her mother were not special or different from the rest. The girl, a child, knew no better than what she saw, and the mother, crushed by her position, was no better.
+
+A looming shadow of great weight fell over the woman and the child, suffusing the air with the stink of cheap wine. It only took one sharp blow to sunder them. A sound like shattering glass cracked through the mist. The child fled, a streak of darkness vanishing into the labyrinth. The woman collapsed in on herself with the sound of sobs.
+
+Fear, miscommunication, anger, and pain severed the fragile threads of their connection.
+
+The girl took the lesson that there was no safety in others. Yet the wound was an aching hole, never healing.
+
+Ling Qi breathed in as her song reached a pause, the viewpoint spiraling away from the individual phantoms and streets. She had always cultivated dark qi easily. Hunger, want, and greed, these emotions came easily to her. They felt natural. Even now, she could feel how deeply the qi had soaked into her bones, her muscles, and her flesh.
+
+It was so easy to become mist and shadow these days.
+
+She didn’t regret it. Desire was not wrong. It was not evil. It was not something to be clipped away for a more perfect mind. Want was the soul of cultivation and the soul of humankind. It was behind every accomplishment, good and bad.
+
+But she had seen how it could become twisted and broken. She had seen a fox who had devoured centuries of victims and eaten deeply of its own children, and yet, she was near skeletal with starvation. Just now in the city of Haishan, she had met a yawning pit of pride which warped proportionality beyond reason and which no respect would ever satisfy.
+
+No, there was nothing evil about wanting. But it could not be all that she was.

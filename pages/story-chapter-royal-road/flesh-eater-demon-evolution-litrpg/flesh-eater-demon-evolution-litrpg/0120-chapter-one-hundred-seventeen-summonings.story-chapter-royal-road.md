@@ -1,0 +1,157 @@
+---
+id: 451c948c-50e9-50c7-906a-4381d96f996f
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Seventeen: Summonings"
+slug: 0120-chapter-one-hundred-seventeen-summonings
+partOf: flesh-eater-demon-evolution-litrpg
+position: 120
+ownLength: 2600
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3828781/chapter-one-hundred-seventeen-summonings"
+royalRoadId: "3828781"
+---
+
+After Callan phased through the door, Pyre and Llyr were left alone in the room. Through the corner of her eye, she could vaguely make out the ghost’s heat signature heading further down the hall where Daphne had gone. She figured they would probably be fine on their own. The noble was strong, and Callan was much better at the whole empathy thing than she was, anyway.
+
+Turning to the room again, the demon assessed the healer, still leaning casually back against the wall. Llyr’s expression hadn’t changed since effectively admitting to planning on holding Daphne hostage, and he now met her gaze evenly. Pyre cocked her head.
+
+“You know, you probably could’ve eased into that a little more. Maybe throw in one of those apologetic saintly looks or something. I thought you were good at that kind of thing.”
+
+The healer’s lips thinned. “I believe our agreement specified complete honesty,” he said lightly.
+
+Pyre raised an eyebrow. “What, so was your whole personality fake? Seems a little excessive, if you ask me,” she drawled.
+
+Llyr laughed without humor. “Is it a crime to strive for a better bedside manner?”
+
+The demon just hummed at that, steel grey eyes studying the other monster. Despite his face remaining a blank mask, she thought she could pick up on a few more things than before.
+
+Subtle muscle twitches, quick eye movements, minor posture adjustments. Either he’d gotten worse at hiding stuff since their fight, or she’d simply become better at noticing those tells after seeing him fully unguarded during their conversation after.
+
+Whatever the case was, she wasn’t completely buying Llyr’s excuse, but it also didn’t fall into the category of a full lie or something necessary to know to find the group, so she let it go.
+
+Instead, the demon shifted back to their original topic, still staring unblinkingly at the healer.
+
+“Those two actually aren’t involved, you know,” she continued conversationally. “I know I’ve got that whole past connection thing going on, and we can fight to the death about it after this is all over or whatever, but those two’re good eggs. They haven’t done shit to you.”
+
+Llyr’s face twitched. His gaze shifted down to stare absently at some of the water that had splashed out of the tub and landed on the floor. The light from the window hit the puddle directly, causing its surface to shine like a solid silver plate.
+
+“…I know,” Llyr finally said, voice quiet. He shifted slightly, the water rippling around him. “Once we’ve removed the group from Serindell, I will heal Daphne properly. That, I swear.”
+
+Pyre gave him a long look. “I don’t suppose I could convince you to do it earlier.”
+
+The siren smiled wryly at that. “And remove the only insurance I have?” He moved, rising on fully regrown legs. Carefully, Llyr stepped out of the tub and back down onto the ground, clothes and hair soaked. Raising one hand, his palm glowed a soft blue.
+
+Thin streams of water rose from the surface of his clothes and hair, any lingering moisture pulled away and now coalescing into a swirling sphere above his open hand. The ball kept increasing in size as more and more water was added before finally, Llyr stood completely dry, a floating sphere of water now containing all the moisture he’d drawn out. He gently tossed it into the tub, where it immediately dissipated and merged with the surrounding water.
+
+Llyr turned to one of the shelves lining the walls of the room. He opened a cabinet and pulled out what looked like a new robe, which he replaced his tattered one with. The clothes underneath were still a torn mess—completely missing, in the case of his pants below the knees—but with the cloak on, the damage was no longer visible. If someone saw him right now, they would never suspect that he’d just been in a fight that had resulted in the destruction of two floors of the manor and the loss of three limbs.
+
+Pyre vaguely thought about using that cloth-patching rune embroidered into her coat. She’d probably be pushing its abilities, considering the amount of tears and the totally missing sleeve, but hey, that was what the magic was for.
+
+On the other hand, the demon was still half-warped and would need to shift back into a full human-shape before patching her clothes. She doubted Llyr was going to try fighting them now, but she figured she might as well wait until after their deal was fully finalized, Callan and Daphne included, before testing those clothing runes.
+
+“I guess our whole agreement to not attack each other isn’t enough security for you,” Pyre commented. “Paranoid, aren’t you?”
+
+Llyr smiled wryly. “Is there any other way to live?” His voice was light, but simultaneously dripping with sarcasm.
+
+Before the demon had a chance to respond, she felt the distinct vibrations of approaching footsteps. Sure enough, Daphne and Callan’s blurry heat signatures soon appeared outside, and in the next moment, the door swung open.
+
+Daphne stepped inside first, sharp eyes immediately landing on Pyre and Llyr. She paused on the latter, noting his appearance, which no longer bore any evidence of the fight. He met her gaze steadily.
+
+Behind Daphne, Callan floated inside as well. The ghost glanced between them, the silent staredown between Daphne and Llyr continuing. Neither one seemed intent on speaking, so Pyre decided to kick things off.
+
+“He agreed to heal you after we’re done destroying the group.” The demon jerked her head at the healer in question for emphasis. “And all the other conditions and stuff are still there.”
+
+Slowly, Daphne nodded. “Okay. I guess it’s settled, then.”
+
+Pyre gave the noble a long look. In the corner of her eye, she could see Callan doing the same. “You’re fine with it?”
+
+Daphne nodded again, the motion slightly stiff. A wry smile stretched across her face. “For the greater good, right?” she said.
+
+It wasn’t exactly enthusiastic, and no one in the room seemed to be jumping to shake hands, but Pyre figured that this sort of uneasy truce was probably the best they were going to get. At the end of the day, they were working together for the sake of a shared goal, and said goal remained at the forefront of everything that followed.
+
+Callan shifted uneasily. “So, what should we do now?” he asked tentatively. Considering how much stuff they’d just learned, it was hard to know where to start.
+
+Before anyone could reply, however, they were interrupted by the distinct sound of knocking.
+
+Every pair of eyes in the room snapped towards the noise. They couldn’t see it from the washroom, but it had come from the front door’s direction.
+
+Daphne cursed. In the next second, she, Llyr, and Callan raced out of the room towards the front door while Pyre trailed behind at a slight distance. Assuming someone was there, it would probably be best to avoid them seeing her warped form first thing.
+
+It didn’t take long to reach the front entrance. There, Pyre could see what looked like a white envelope sitting on the carpet where it had been slid under the door. Through the window, she could make out a figure stepping away from the building. Their back was turned, but based on their clothing, they appeared to be a mail carrier or messenger of some sort.
+
+The question, then, was how much they’d seen.
+
+Without missing a beat, Callan blinked invisible. Daphne jumped slightly while Llyr tensed, but Pyre could see the ghost’s bluish gradient phase through the door and hurry after the leaving figure. She told as much to the other two.
+
+Daphne glanced out the window, brows furrowed. “Should we follow him?”
+
+“Nah, that would be suspicious.” Pyre’s own gaze tracked the movement of the blue gradient, which had reached the messenger and was now hovering nearby. Now that she thought about it, she didn’t think she’d ever seen him float so fast before. His speed must have improved over his past few levels.
+
+From their current position, it didn’t look like Callan was doing anything in particular. The messenger was approaching the top of the hill, where they’d soon disappear from view. The three of them waited, tense, for the ghost to return.
+
+Finally, a few moments after the messenger disappeared down the hill slope, that blue gradient appeared again. Pyre watched Callan float back to the mansion at a quick, but steady pace. In less than a minute, he’d phased through the door and turned solid again. This time, both Daphne and Llyr jumped, but the ghost barely seemed to notice.
+
+“I think we’re okay,” he quickly rushed out. “It was a messenger. I followed him for a bit, but he didn’t seem to be acting strange or hurrying faster than usual. He just dropped off the letter and left. I don’t think he saw anything.”
+
+Daphne’s shoulders slumped in relief. “Oh thank god,” she muttered. “That could’ve been bad.”
+
+“I suppose we’re lucky most of the damage was isolated to the upper floors,” Llyr commented. Even as he spoke, he moved to shut the curtains. One close call was all the siren was willing to risk, it seemed. There was no question that if someone saw the state of the inside of the manor, they’d probably send a hoard of guards their way.
+
+“Nice job, kid,” Pyre said. She strode forward and picked up the letter, turning it around in her hand.
+
+At a glance, it was fairly innocuous. The thing was light and thin, though the paper of the envelope felt fairly thick. It was closed with a wax seal, and she recognized the symbol as the same one she’d seen on all the knights’ uniforms and flying on flags above Serindell. It was probably the official city crest.
+
+When a sniff and a scan with her thermal vision revealed nothing out of the ordinary, the demon ripped open the envelope and pulled out the letter inside. Callan was hovering behind her in an attempt to get a better look as well, so she held the letter out a bit so the others could see. Her eyes quickly scanned the inked cursive words.
+
+To: Pyre, Guard of Lady Daphne Bellhein of Magrath in Austea
+
+You are hereby formally summoned for questioning regarding the chase and subsequent wounding of a Serindell citizen occurring one night prior. The questioning will take place on the Alardice estate tomorrow afternoon an hour after high sun. Arrive fifteen minutes early and wait at the main manor gates for entrance.
+
+You are not to bring any weapons to the questioning. Relevant evidence is permitted. You may also bring witnesses, provided the number is no greater than four and that the witnesses are also unarmed. These witnesses will be questioned separately.
+
+Failure to appear at the specified time and location will be considered a direct violation of Serindell’s laws and dealt with accordingly.
+
+The letter went on for a little longer before it was then signed off with a few different names that were probably all important people in Serindell. The only ones she recognized, however, were Lord Alardice and Agnes.
+
+Pyre flipped the paper over and found a map to the Alardice manor on the back, which wasn’t necessary considering they’d just been there the other night, but it was nonetheless welcome.
+
+“Well,” the demon said, turning the paper back around to the main letter, “looks like they finally figured out a date.”
+
+To be honest, she’d almost forgotten about the questioning entirely. Considering everything that had happened since her little chase with that tattooed guy, she hardly thought she could be blamed for this escaping her mind. Judging by the way the others were reacting, they’d also forgotten.
+
+“Why is the questioning being held on the Alardice estate? Shouldn’t it be with the knights? And only one day advanced notice with no option to reschedule?” Callan sounded more incensed the more he scanned the words. Apparently “legal norms” was on the list of things the ghost was both highly knowledgeable and highly opinionated about.
+
+Now that she thought about it, he had gotten through those garrison entry forms awfully quick.
+
+“He probably pulled some strings,” Daphne muttered with obvious disdain. She frowned, carefully scanning the words again. Her brows furrowed. “This… might be an opportunity, though.”
+
+The noble glanced at Llyr, no small amount of wariness in her eyes as she spoke. Pyre had to wonder if all interactions between the two magic-users were going to be this tense in the future.
+
+“You said the nobility was involved, right?” Daphne said slowly. “I’m guessing you think Lord Alardice is one of them?”
+
+“It’s possible, yes, but I haven’t been able to verify anything.” Llyr tilted his head, unblinking blue eyes assessing the letter. “He’d certainly be one of the first nobles this group would likely wish to recruit, given his sway in this city.”
+
+“But you haven’t found anything concrete, even after getting invited to the estate multiple times.”
+
+The siren’s eyes narrowed slightly at that. “I was not exactly in a position where I could search the manor, considering I was followed at all times. I suppose a noble like you is accustomed to being able to move about more freely.”
+
+Daphne’s eyebrow twitched. Before she could retort, Pyre decided it was probably time to step in before this spiralled into a full blown argument.
+
+“Well, snooping should be pretty easy for us.” The demon nodded at Callan. “Did you notice any anti-ghost wards or anything the last time we were there?”
+
+The ghost in question’s forehead creased. “I think there was a ward on the gates preventing incorporeal beings from passing through, but I didn’t notice anything inside the actual building. I mean, most ghosts aren’t really, uh, stealthy, so it’s usually not a priority.”
+
+By that, Pyre assumed he meant that most mindless vengeful spirits would quickly make their presence known anyway. She hummed.
+
+“Alright, that shouldn’t be too hard, then. If you follow us and stay invisible, you can just slip in when they open the gates for us. I’m guessing you two’re coming as witnesses?” The last question was directed at Daphne and Llyr, successfully pulling their attention away from whatever new staredown they’d started.
+
+“Of course.” Daphne’s voice was firm. “And we’ll bring that sketch of the tattoo Callan saw. If that isn’t enough for them, I’ll speak to them personally. The fact that you were in the manor when the tattooed man was killed should already be proof enough, but of course Lord Alardice would want to give us a hard time,” she added in a mutter.
+
+“I do suspect this is primarily a formality,” Llyr said. He smiled dryly. “I imagine Lord Alardice convinced the letter-writer to be more threatening in the note than usual, but at the actual questioning, Captain Agnes won’t allow him to go too far.”
+
+“Alright, so I go in, take you two as witnesses, and Callan follows us while invisible. Then while we’re getting questioned, Callan can search the manor for any signs of that group. Sounds simple enough.”
+
+“Maybe too simple,” the ghost muttered. It was a sentiment that seemed to be shared among their group, considering everyone was still staring at the letter warily. Still, this was better than nothing, and Pyre was apparently required to go to the manor anyway. If they found something, great. If not, they could try a different method.
+
+“Guess we’d better start preparing, then,” the demon said.

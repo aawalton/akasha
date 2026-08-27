@@ -1,0 +1,173 @@
+---
+id: 9ef50a76-dba6-5940-9a41-05130d45986c
+page-type-slug: story-chapter-royal-road
+title: "41 - Have You Ever Seen A Weapon Like This?"
+slug: 0041-41-have-you-ever-seen-a-weapon-like-this
+partOf: gamer-girl-evolution
+position: 41
+ownLength: 1663
+unit: words
+ownProgress: 1663
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2923795/41-have-you-ever-seen-a-weapon-like-this"
+royalRoadId: "2923795"
+markedReadAt: "2026-06-29T20:06:53.448Z"
+---
+
+"Ahhhh... morning stretches really hit the spot!" Celica moved towards her room's window, flinging the curtains to one side. The sun's morning light greeted her like an old friend. She opened the window slightly, and a light breeze swept into the room as a result.
+
+"Hm? What's this?" Below the window, on the streets of Marshia, she could see some familiar faces. Kellen, Talia and Rhys.
+
+"They do like to get up early. Guess they're motivated to grind after what happened with the Cyclops."
+
+It'd been a close call in which a bad ending had been averted thanks to Celica's timely interference. An event like that was bound to motivate anyone to get stronger.
+
+"Good for them." She smiled. "I should get a move on too."
+
+She changed out of her pyjamas, reequipping her battle gear. She'd already planned out the the rest of her time on floor 2. Coin grinding was going to be the status quo for her. Sleep, coin grind, eat, repeat.
+
+Still, before she could get to her very fun grind, she had a pressing issue to deal with. It was something she'd been thinking about ever since she triumphantly thwarted the mutant Rift Toad.
+
+As she left the inn, her attention drifted to her inventory. She was particularly focused on a certain item.
+
+[Inventory]
+
+...
+
+...
+
+The pressing issue she had to deal with was simple. She had to forge some armour.
+
+Earlier, the Rift Toad's bitterness had turned into a lucky chance for Celica, allowing her to obtain a weapon she had no business having. However, although the special dungeon ended up granting her a strong weapon, it didn't help her at all when it came to armour.
+
+She was still using some random armour she'd quickly bought from Marshia during the tour she'd given Ingrid. After all, there wasn't a better option then buying the best armour from the best blacksmith shop in Marshia.
+
+Until today.
+
+As soon as she left the inn, she marked her mini-map with the location of Blade Village, vectoring towards the faraway settlement at a frightening speed. As she vanished and reappeared at various locations on the streets of Marshia, people started to take notice of her.
+
+— "Hey, is that a player?"
+
+— "Hm, no way. Probably a visual bug."
+
+— "I heard if you catch that teleporting NPC, you get a special item!"
+
+— "Yeah, sure buddy. And if you trade me all your precious items, I can duplicate them."
+
+A cacophony of various player's reactions echoed around Marshia's streets. The story of the  mysterious 'teleporting NPC' became somewhat of a legend among the players on the second floor.
+
+Not long after, a group of players joined up to catch this elusive 'NPC', hoping that the stories regarding it were true.
+
+Unfortunately, they weren't.
+
+Meanwhile, Celica, who was completely unaware of the player's reactions or the disturbance she'd caused by vectoring around, was rapidly approaching Blade Village. Before long, she was there.
+
+As she approached the centre of the village, she could hear the delicate sound of steel being pounded. It was a familiar, almost nostalgic sound. She remembered the days she spent grinding to become a top blacksmith, and looked back on them quite fondly.
+
+Though, Celica looked back on all her grinding with fond memories. That's what she loved, after all. Min-maxing everything, to the very end. No matter the time or effort it took.
+
+"Am I interrupting?" Came Celica's voice from the blacksmith's entrance. Although, she'd said that, she'd noticed the hammering noise had stopped slightly earlier. He'd just finished.
+
+"No, not at all. Champion of the Marsh," the blacksmith replied, a satisfied look on his face. In front of him, lay a weapon. From his posture, anyone could tell he'd managed to produce a work he was quite proud of.
+
+He turned to Celica, a smug smile on his face. "Want to have a look?"
+
+As if she didn't need permission in the first place, Celica was already appraising it, vanishing from her spot at the smithy's door.
+
+***
+
++3 Steel Shadow [Rare]
+
+Required Level: 23
+
+Stats Given:
+
+Combat: +14,000
+
+Physical Attack: +600 (550~650)
+
+Fixed Effect: When equipped, grants the user a 5% chance to strike twice.
+
+Durability: 100%
+
+Description: An illustrious, dark blade forged by Marshia's finest blacksmith. Aptly named Steel Shadow, it exudes an aura of mystery and its sharpness is clear for all to see.
+
+***
+
+"I bet even the marsh's hero hasn't seen a weapon like this before!" The blacksmith said confidently, puffing his chest out.
+
+Celica paused, speechless. For a weapon on floor 2, it was certainly impressive. But for him to claim that she hadn't seen a weapon like this before so confidently... it kind of hurt her pride.
+
+Especially considering she'd seen thousands (if not millions) of better weapons.
+
+One such weapon, was the one she had hanging by her side at that very moment. Not that the blacksmith could tell how impressive it was, since she'd disguised it with her Phantom's Blade before she left town.
+
+She was smart enough to not walk around parading her OP weapon. That was just simply asking to be a target for bored players.
+
+"My weapon's so good its left you speechless, huh?" the blacksmith sighed in melancholic (mis)understanding. "I'll sell it to you if you want. For the right price, of course."
+
+For a moment Celica didn't move, as if she was cc'd. Suddenly, her helpless look was replaced by a confident, all-knowing smile. "So this is about showing off our weapons..."  she said, unsheathing her completely plain looking sword.
+
+She looked, meeting the blacksmith's gaze. Her eyes shone with confidence as she slammed the completely ordinary looking sword onto the table.
+
+"Uhm... Champion? Maybe I took my bragging too far. Apologies, its just been a while since I forged something of such high quality. It wasn't my intention to make you feel like you had to show off your... inferior weapon," The NPC replied, slightly embarrassed about his conduct but still blatantly bragging.
+
+But instead of getting mad, Celica began chuckling to herself and shaking her head slowly.
+
+"Have you ever seen a weapon like this?"
+
+"What do you mean? Of course I have. Isn't this just an ordinary plain swo—"
+
+As if the smithy had swallowed a thousand needles, he paused, stun-locked. His mouth moved but the sounds which left it were all unintelligible. His hands moved to cover his face, as if he was laying eyes on a forbidden treasure.
+
+Because he was.
+
+Converge of the abyss was a weapon which no player or NPC should have at this stage of the game and Celica had removed its disguise suddenly and without prior warning, catching him off guard.
+
+She watched the NPCs reaction with interest. Her persistent chuckling and schadenfreude could only be described as gremlin-like.
+
+The sound of prostration echoed from the wooden floor.
+
+"Hero.. you're truly opened my eyes! Thank you for showing me your great weapon! I think I know what it is I need to become a 2* blacksmith!" As he lifted his face, countless tears of happiness came into view.
+
+Indeed, for a true, passionate blacksmith, seeing Celica's weapon first hand was bound to be a source of endless motivation.
+
+The stark contrast between the +2,500,000 combat stats given by CotA (Convergence of the Abyss) and by the measly +14,000 given by Steel Shadow, was enough to spur anyone to improve. Especially a budding 1* blacksmith, like the one in Blade Village.
+
+"Right, okay okay, I get it. You can stop crying now," Celica said, a little annoyed at his overreaction.
+
+I hope I didn't accidentally start a unique scenario by showing him my weapon. That could be annoying to deal with.
+
+She skipped straight to the point, telling the smithy the main reason for her visit. "Is the forging equipment free?"
+
+The blacksmith nodded from the floor.
+
+"Oh, and one other thing. Which of these materials do you think will work best for making armour?"
+
+[You have shown Blade Village's blacksmith the: Rift Essence.]
+
+[You have shown Blade Village's blacksmith: all of the crafting materials you have obtained so far.]
+
+"Well, well. What do we have here?" as if he was a completely different person, the blacksmith jolted up from the floor. The tears in his eyes were completely gone, and his focus had been drawn to the work table in front of him.
+
+He stoked his chin. "This, that, that, definitely that. Oh, and this."
+
+Several items in her inventory lit up, clearly highlighted by the blacksmith. She looked at her inventory and analysed the items he'd called out.
+
+Hydro-serpent Scales (x18), Aqua Golem Cores (x9), Troll Hides (x87), Rift Essence (x24) and Earth Golem Parts (x41)...
+
+"That should be enough."
+
+Celica nodded, inwardly agreeing with him. She'd came to the same conclusion herself earlier, but wanted to double check to be sure.
+
+It was a little known feature that you could ask blacksmith's for crafting advice. Most people either followed the known crafting recipes or tried to freestyle and learn through trial and error.
+
+While you'd still learn from trial and error (and eventually develop a knack for it like Celica had), asking a knowledgeable enough NPC for help was the quickest and most efficient method to getting the optimal crafting recipe.
+
+But later in the game, it'd get harder and harder to find a suitable blacksmith who could advise you on how to use materials, due to how elusive legendary and epic tier materials became.
+
+Eventually, trial, error and intuition became a necessity. But since the game hadn't quite progressed to that stage yet, there wasn't any need to risk it.
+
+She sat down in front of the anvil. The materials that they'd both decided on laid out in front of her. As the blacksmith watched in interest, she reached out for the Earth Golem Parts, deciding to use those as the armour's foundation.
+
+[You have begun forging.]

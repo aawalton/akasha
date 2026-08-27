@@ -1,0 +1,173 @@
+---
+id: 7da5c55d-ada2-5a66-99c9-eca920c4c877
+page-type-slug: story-chapter-royal-road
+title: "Threads 532-Blast 1"
+slug: 0581-threads-532-blast-1
+partOf: forge-of-destiny
+position: 581
+ownLength: 2280
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3704913/threads-532-blast-1"
+royalRoadId: "3704913"
+---
+
+“The preparations are thorough, if disruptive."
+
+Ling Qi pursed her lips, considering the now desolate little vale. She had told Renxiang that she could guard most, if not all, of the living things present, and they could get by with smaller adjustments to the terrain, but her liege had been adamant. If they were agreeing to this contest with the flame spirit, they were not leaving any risks on the table. There would be nothing for the flames to feed on conceptually or physically, but the air, and she and Zhengui were to focus on defending themselves over anything else.
+
+Zhengui would be able to bring new growth rapidly, especially as the fires' destructiveness supercharged the cyclical concepts that fed Zhengui's growth.
+
+Maybe it had been unserious of her to proudly claim that she would see something new flood from the ruins of the old while cutely sidestepping the need for anything worthwhile to be destroyed. She might still have been a little childish in her thinking there.
+
+"They are. May I ask how all of this is meant to work then?" Ling Qi asked, dismissing her thoughts for now.
+
+Zhengui set off, heads held high. A stream of fur and feathers trailed behind him on the ground and in the sky.
+
+"Without oath and contract, it would not be possible. Thinning the barrier that keeps Earthflame contained would risk leaking too much, but with the spirit quelled for the challenge, a channel may be formed. The final barrier will be brought down with a timed charge," Xuan Shi explained. "This plug, wrought with oath and stone, shall impress the reminder upon earth and air, and keep the flow of air low, such that the flames must be drawn up as a trickle. It will be like how a campfire might spread along a spilled trail of lamp oil."
+
+So, the entire tunnel system and its formations were a fuse, of sorts, a thin channel of air to spark the volatile flame and draw it up to where there was much more air to fuel its eruption.
+
+"This will limit the throughput of the spirit’s channel, too. That is somewhat underhanded of us."
+
+"No word is broken." Xuan Shi shrugged. "All its might shall flow here, and thou shalt stand against it. Such is the agreement."
+
+"Such is the agreement," Ling Qi echoed. "Do you know where Sir Meng is?"
+
+"Below. As this one understands, the channeling tunnel itself is the most fragile, and there, his mastery of the channeling of energies is most needed."
+
+"Yeah. Gramps would want to make sure the whole area is not going to fall into a hole." Sixiang wandered over to peer up at the seal. "Is this plug gonna be the center of Ling Qi's temporary altar for the ceremony, too?"
+
+Xuan Shi nodded, and Ling Qi stepped around him, peering up. There, around the circumference, were the invocations of the cardinal directions, and other inscriptions that would connect to the formations of a general-purpose spiritual altar.
+
+Ling Qi scrutinized the plug. "I believe so. I assume that's the last piece of construction. Once all of the lines are cut and filled, the altar will be aligned in the center over the opening with the plug inset."
+
+"Lady Ling's words are true."
+
+Yes, with that closed circuit, the only things the flames could reach would be herself and Zhengui. Turned back by its edges, the flame spirit would intensify its power even more, not letting anything escape.
+
+It was not going to be an easy defense. She knew Cai Renxiang was probably right to command that they deny the flame spirit any further fuel within this space. Even if she had been the one defending it all, it would still give the spirit more surface with which to burn her and more points of contact with her qi. Despite the jokes and jabs, she wasn't taking this challenge lightly.
+
+Ling Qi clasped her hands and bowed. "Then, please tell me what instructions Sir Meng left, and I will begin my contributions."
+
+***
+
+"How was it, handling this with the beasts of the vale?" Ling Qi asked, examining the array and the many characters etched along its length.
+
+A breath of frigid qi passed her lips, and she slid her finger across the curve of a character, filling it with the same frozen chill. Containment or rather, stasis, was not the core of her understanding of ice, but she could still do this better than any other here.
+
+Zheng's tongue flicked out, trailing a wisp of ash past her ear as he arched down to look past her at the brightly glowing veins of green and magmatic red woven through other marks. The veins were slowly dimming as the qi settled into the framework of the greater array.
+
+"Simple beasts, most, without the mind to protest a king's will much," Zhen hissed haughtily. "I, Zhen, have already sunk my roots deep."
+
+"They were scared. Scared of chopping, scared of men, scared of fire. It was sad, but Gui did his best to keep them calm. Many beasts do not become as attached to one piece of ground. Birds fly away and do not care unless there is a new nest, and little rabbits will dig new burrows. A few are stubborn. They bite and claw, and attack anyway. Gui took care of it."
+
+She nodded, watching frost spiderweb across smoothed stone and carefully controlling the flow to avoid tainting other lines as she empowered the formation. Zhengui didn't think like she did. "I suppose you must have already done this many times, between the farms, the pastures, and the shrine. Each new construction has to displace what was there before."
+
+Zhen regarded her curiously. "Yes, this is so."
+
+Gui turned his head, peering at her in concern. "Is Big Sister sad?"
+
+She frowned, snowflakes swirling around her fingers. "I don't think so, no. Seeing you leading the beasts out of the site just made me think that improvement isn’t costless, and on some level, there's no really 'empty' places."
+
+Neighborliness, or taking into account those outside of a community's borders… She didn't think of the displaced beasts as neighbors treated poorly. Her cultivation didn't twinge or twist as it would if she had encountered a heart demon, but a part of her wondered why, and what that meant. Was it simply because base beasts still didn't feel like people despite her relations with spirits like her little brother?
+
+That was probably part of it.
+
+MHm, maybe that was why the summit had felt so important to her. People couldn't really see someone as a neighbor without first seeing them as a person. Establishing the latter led to the former.
+
+"Gui does not think so. If Big Sister, Zhen, and Gui had talked to the stinky gas more and made it want to stay and burn slowly, there would also be costs."
+
+"How so?" Ling Qi asked.
+
+"Maybe the earth could be warmed more, so the farms could grow better. Maybe more water could be boiled up to make more bubbly springs. Maybe there is something else Gui has not thought of."
+
+"Any such improvements would change the roots, would change what seeds will grow, and where beasts may run. Doing nothing also results in changes, when the earthfire burns free," Zhen finished.
+
+"Making a choice at all guarantees change, hm? I know that well, but sometimes, your big sister gets lost in her own head."
+
+"That is okay. Just lean on Gui, and he will help lead you out!"
+
+***​
+
+"It's proceeding in good order, as you can see."
+
+"It is. I am pleased with your work," Cai Renxiang replied.
+
+They stood side-by-side on one of the temporary observation platforms built along the edge of the vale to allow the less wind-blessed managers to oversee the work. The vast glyph carved into the ground of the cleared vale was well apparent, its stark, grey-white lines sharp against the dull brown and black of the churned-up earth.
+
+"No more veiled chiding?" Ling Qi asked.
+
+"I am well aware that you know your own abilities, even if I sometimes question your calculations," Cai Renxiang rebutted. "My displeasure was expressed; now is the time to check over your formulations."
+
+"For what it is worth, I know my error, and it was in not believing in my ability to convince you of my plan beforehand," Ling Qi apologized. It was the same with her mother. She knew it was a flaw of hers to surge ahead and act without consultation. "We've had this conversation before."
+
+"And will have it at least once more," Renxiang replied. "I am glad to see the preparations are going well, and that Sir Xuan was amenable."
+
+"He has been quite confident in me, but he would have been upset if I refused to let him consult/ Speaking of, Mu Wuye's delegation is arriving soon, aren't they? Will it be before or after the ceremony?"
+
+"I expect they will still be in transit when you ignite the ceremony."
+
+"Ah, well, it will be a fine set of welcoming fireworks, won't it?" Ling Qi asked innocently.
+
+Cai Renxiang gave her a deeply unimpressed look.
+
+She thought it was pretty funny.
+
+***​
+
+"Do you believe this was the best course?" Ling Qi asked.
+
+The tunnel stretched on and on before them. The ceiling was low, and the sides were rounded. Faint formation lights glimmered on every other set of supporting struts.
+
+"Is your resolve so wavering?" Meng Duyi replied. The lantern he held in his hand, a cage of wicker branches surrounding a smokeless bulb of pale green flame, was more for the morale of the workers they passed, focused on shoring up support, than for either of them.
+
+"No. I am certain this was the best choice available, but I would like to hear arguments otherwise that aren't rooted in fear for my personal well-being," Ling Qi replied.
+
+"Fire is impetuous. Passion easily turns to affront and spite. Using these characteristics when negotiating with a spirit of fire is good, but one must be more wary with embers, who are more aware of the workings of men. They will recognize your manipulations and only grow more infuriated, rather than barging into the cage of words you craft," Meng Duyi advised. "However, here, where the lake and the earth are already on your side, your threat was not one that even a cannier flame could ignore. This outcome or something like it could be guaranteed by the nature of what you negotiated with."
+
+"I notice you do not actually voice agreement."
+
+They paused for Meng Duyi to examine the structural formations on a stretch of wall.
+
+"This is not my land, nor do you have the pacts and secrets of the Meng clan. What I would do, you may not do. What you will do, my kin may not. I will say this, you follow old principles well enough."
+
+"By convincing the spirit to a grand suicide?" Ling Qi asked dubiously.
+
+"By following the nature of what is over what you demand. Fire burns. This fire, in particular, longs to erupt. Suicide is a poor term. That thought, in itself, is an imposition of human thought. Elements do not die as men and beasts do."
+
+She thought of Sixiang, and how painful they had found the transition to thinking more like a human.
+
+"No, I suppose they do not."
+
+***​
+
+"Soooo, when are you two goin’ out on the dreamboat again?" Sixiang asked, leaning against the altar frame.
+
+Preparations were nearly finished; constructing the central altar was one of the last steps. With the work in the tunnel complete, the ladder down had been removed, and the plug installed.
+
+Wood from their border with the Golden Fields, where groves still annually caught fire at the height of summer, had been brought in. It was a dark, ashy grey lumber, studded with metallic flecks that sparked in the sunlight.
+
+"At least once more before I need to go," Ling Qi replied. “Maybe the day after the ceremony?"
+
+Xuan Shi blinked owlishly. "If Lady Ling wishes, another voyage may be fine."
+
+"I do very much so wish. I don't doubt that I will need some cooling off after this contest, even if I am fine."
+
+Ling Qi spun the paintbrush she held between her fingers. Control of the water in it prevented any paint from splattering. It was a wide brush, much different than the delicate artist's brush she had given to Biyu.
+
+Infusing her qi into the paint personally would greatly improve the focusing properties of the altar, even if it was work she was unused to. Crouched at the base of the altar, she dragged another layer of the deep blue-green paint in the patterns Meng Duyi had instructed her in.
+
+Xuan Shi stood above her on the altar itself. He was down on one knee, examining the heavy clay urns filled with darker, richer soil from closer to the epicenter of Zhegui's power in the region.
+
+"Lady Ling does not need to feel obliged. The gift is for her use. This one's expertise is…"
+
+"Wanted," Ling Qi completed. "I'm always the one who needs to be steering the steps when I dance in the dream. It's nice to just be able to enjoy the scenery. Of course, if you do not wish—"
+
+"No! That is, there are no objections."
+
+Sixiang made an admirable effort to hide their snicker.
+
+She glanced up, arching a brow and smiling in amusement, at his unusually quick and succinct declaration.
+
+"Then, I will see you after the ceremony, Sir Xuan."

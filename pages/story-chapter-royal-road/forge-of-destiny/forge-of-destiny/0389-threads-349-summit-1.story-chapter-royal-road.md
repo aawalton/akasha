@@ -1,0 +1,113 @@
+---
+id: 9c8d6e96-4e98-5ebc-b168-e37ff08356b6
+page-type-slug: story-chapter-royal-road
+title: "Threads 349 Summit 1"
+slug: 0389-threads-349-summit-1
+partOf: forge-of-destiny
+position: 389
+ownLength: 1687
+unit: words
+publishedAt: 2023-11-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1424681/threads-349-summit-1"
+royalRoadId: "1424681"
+---
+
+She felt like she was beginning to understand the undercurrent in her contacts. Quiet or fervent, subtle or up front, this feeling was something like what they meant when they said “the Emerald Seas.”
+
+Ling Qi crossed the distance to the head of the table without taking a step, a flicker of shadow and a gust of wind. She didn't need a dais or a platform. Standing a little off the ground along with her own height was enough.
+
+"Everyone, diligent members of our household, this is truly a happy day. Among you are four who have been blessed by the heavens with opportunity. Among you are four who have great fortune. All of us have known the opposite. We have known ill luck and closed-off opportunities." Ling Qi loosened her hold on her qi, allowing the mist rolling along the ground to grow thick and her shadow vast and deep. "Not one person here has not known unfairness."
+
+The whispering voices fell silent as she spoke, all of them looking up at her.
+
+"And that is why we must support each other. Fortune shared is fortune spread. To those who have struck luck, I ask that you all give your support, your admiration, and your joy. For those who receive this, I ask that you give your diligence, your ambition, and your best efforts. In this way, we may strike back at unfairness, if only a little. The trials we have undergone have come from our choices and the choices of other men and women. If I have any command for you, let it be this. Choose better than those who have trampled upon you. Be the support which you have wished for."
+
+The wind picked up, making the candles on the table gutter.
+
+In the end, even though the thief of winds had been acting for herself, her adventure had changed the world. She had brought new choices and new horizons to many in her strike against the tyranny of the mightiest, those who sought and had ultimate freedom, the ability to do as they willed without restraint. In humbling them and in breaking their hold, the winds had spread across the world.
+
+"Do this, and the Ling clan will always be a place of welcome and a place of plenty. Do this, and though you might not have the power of cultivation yourself, you will always have its aid. And for those who have had heaven’s fortune, never forget this day and these people around you. They are your foundation who will raise you and carry you as you grow. Now, that is enough from me. Eat, drink, and make merry. Tonight, you have no duty but joy and companionship!"
+
+She lowered her hands, sinking into her own seat. She did not let her nerves show. She had felt so foolish making such a grand speech, but people bowed their heads. They showed her respect. It wasn't the empty smile of those coerced to respect a superior.
+
+<It was good. It was good. This kind of speech is more about the feeling than the words,> Sixiang whispered.
+
+"You did well, Ling Qi," her mother murmured. "There is a great deal of satisfaction in being acknowledged like this."
+
+“I certainly hope so. Let’s enjoy the celebration now. I won't have a chance to relax again for quite a while."
+
+She was going to have to make a lot more speeches in the future to audiences much less invested. It was freeing to know there were so, so many out there, all affecting outcomes just as much with their choices. It was terrifying thinking of the scope her decisions now affected. But that was the way she had chosen.
+
+The summit loomed.
+
+***
+
+Below the balcony, imperial and foreign workers passed by, the last of the departing work crews returning to their respective camps. Even before splitting to go their own ways on the north-south road, they remained two very distinct groups. However, there was some mingling here and there as translators spoke to each other or as workers simply walked shoulder-to-shoulder with their counterparts on the narrow road.
+
+The Grand Embassy Hall, which she stood in as ministry agents and Polar Nations’ crows swept through their final security checks, was less grand than she would have liked. Much of its interior was sparsely decorated or entirely unadorned. The furnishings were without flair, plain wood or a single color of paint. She felt as though she was reaching the limits of her abilities or overstepping more often these days. She hoped this would not be a trend.
+
+“Your mind wanders even if your eyes do not.”
+
+The whispery rasp of her mentor Shu Yue’s voice scratched at her ears. She didn’t bother to turn, feeling the looming shadow above and around her and the air grow cool and dry with the cultivator's presence.
+
+“It does,” Ling Qi said. “I really wish I had been able to begin this last month.”
+
+“Your spirit was not yet settled or ready.” Shu Yue leaned past her shoulder, pale face extending past her on a neck just a little too long as they peered below. “You have opened yourself enough now. Your first fumbling theft has been done.”
+
+Ling Qi had been seeing little flashes of insight since her tribulation. Although they had seemed mostly accidental on her part, she had attempted to deliberately gain insight on Sun Liling recently.
+
+“Does that really count? It’s not an art, just a part of my senses now.”
+
+“Does a martial manual graft new limbs onto its students?” Shu Yue asked. Their head tilted to the side, twisting their neck at an angle that would be deeply uncomfortable, if not fatal, to a mortal. “Your Serenade is part of you, though you might not feel it so yet. It is your voice and breath you are refining. So, too, this, your Thief of Names. It is your eyes and your ears you train. Arts and techniques, these are methods to teach children how to mimic the actions of their elders with more limited and feeble forms. Should you attain higher realms, you will find your every action to be an art or technique.”
+
+Ling Qi considered the way she often moved now, not bothering to walk from place to place unless someone was looking. She recalled the way she instinctively cooled her drinks with a thought or wrapped those close to her in the feeling of her support.
+
+“What would you have done if I had not developed a compatible ability in my domain?”
+
+“I would have adjusted my lesson plan to fit whatever answer you found in your return from your tribulation.”
+
+Ling Qi gave a shallow nod, looking down at the departing workers, and listened.
+
+Elevate my–live on in work–Against the cold–Impress her–Show them all–My theories–better homes— faster communication–enduring warmth-never fear sky again—children’s tuitons—make grandmother proud—a new home—northern sec!tyfghf#hfg(&jkss@!
+
+She winced, holding her hand up to her temple. Too many people, too many drives, the names of those who were still more human than spirit, so ill defined. Sovereigns, like the general, overwhelmed such ambiguity in their presence. The statements they said were very clear, if one knew how to listen, as she was learning now.
+
+She had not known how to listen back at the caldera when the roaring voices of sovereigns at war had made her feel like her head would split open. She had not known at the first New Year’s Tournament at the sect, seeing garbled hallucinations as Duchess Cai and Bai Suzhen, the heir of the Bai clan, had displayed a friendly clash.
+
+“It is a particular skill to listen to one voice in a crowd, especially when they are not speaking to you,” Shu Yue said, amused. “You know this.”
+
+“It’s a skill I have. I just need to train it further. You’re certain that practicing this won’t offend anyone?”
+
+“It is merely seeing and hearing. That you see and hear better is not an intrusion. None will feel your fingers under their skin because they are not there. Perhaps you will do this later.” Shu Yue straightened up. There were a few faint pops like bones shifting in and out of sockets. “Those who also see well may notice that your eyes are sharp and cloak themselves in response.”
+
+Like Elder Jiao had.
+
+“But it’s still rude to stare at and scrutinize someone too closely, no?”
+
+“Indeed. Conduct yourself with politeness.”
+
+Just another bit of etiquette to follow then. Another element of all the social rituals of imperial culture.
+
+“When will I see you next?”
+
+“The night after the opening ceremony, I think. I will observe your progress and provide pointers then.”
+
+“And my concern over the miners and the other little accidents?” Ling Qi asked, turning from the balcony.
+
+“There is something there. Something or someone is moving pieces. It may be internal, it may be ith, or it may even be some faction of our guests,” Shu Yue said, looking down at her. “You will need to look into it, my student.”
+
+“You mean you can’t?” Ling Qi asked, frustrated. “Is the duchess really so happy to treat this summit like a game?”
+
+“You misunderstand.” Shu Yue tapped their fingers together. “I pursue the prime mover of this, likely a peer. You, my student, must seek their pieces and disrupt them in turn. This may provide me with an opportunity without exposing yourself or the young miss while I am distracted.”
+
+“... Oh. And the Ministry of Integrity?”
+
+“Perhaps you may convince them. I am not trustworthy in their eyes. Instead, they view me as an abominable thing of the rotten past, my existence a black mark on my master. My voice will be unhelpful until ironclad evidence is had.”
+
+Ling Qi scowled. “Fine. Fine. What’s one more job?”
+
+“There is no rest for a seeker of thrones.”
+
+“Don’t I know it. I need to meet Cai Renxiang now. The opening speeches will begin in a few hours.”
+
+Shue Yue was gone, leaving her only the first rays of dawn as company.

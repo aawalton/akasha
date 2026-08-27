@@ -1,0 +1,135 @@
+---
+id: d7dcd180-417a-5ae7-963f-81e6fdc11d98
+page-type-slug: story-chapter-royal-road
+title: "21. Asking for a Beating"
+slug: 0021-21-asking-for-a-beating
+partOf: god-of-trash
+position: 21
+ownLength: 2418
+unit: words
+publishedAt: 2025-03-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2128746/21-asking-for-a-beating"
+royalRoadId: "2128746"
+---
+
+Rhys took a deep breath. “No. You’re wrong. I only have average talent, at best. Actually, I’m probably more like absolute trash-tier talent. I struggle to learn any martial skills. In all my battling with you, I still haven’t picked up one tier in Sword Proficiency or Barehanded Combat. My only talent is recognizing my path early, and working hard to bring it to life.”
+
+“You’re young to have already recognized your path,” Cynog flattered him.
+
+Rhys shot him a look. “It’s trash.”
+
+“Eh?”
+
+“My path is trash. The only thing I can reliably learn any skills in, is trash. If a skill isn’t associated with trash, I’m useless.”
+
+Cynog’s brows furrowed. He opened his mouth.
+
+“…Or I would be, if your Schoolmaster, or even you, had evaluated me. But instead, Straw saw value in me. He took me in and trained me, and in doing that, gave me value twice over. Value from his teachings, and value in him taking me in, which made me just interesting to your Schoolmaster for her to take me in.”
+
+“But you’ve comprehended Intent. No matter the Intent, that’s a feat at your age.”
+
+“I only have it because Straw trained me relentlessly toward obtaining an Intent, any Intent. Only because someone else saw value in the trash that was me, and polished me; and only because I then saw the value in myself, and continued to work on it, am I now a ‘talent’ to you. But that’s not talent at all. It’s luck, the dedication of everyone around me, and hard work. Don’t call me a talent. I’m not. I couldn’t be further from a talent. What I am, is a piece of garbage that no one gave up on. Least of all myself.”
+
+Before Cynog could speak, he pointed at the man. “And that includes you. I might have fooled you into seeing me as a talent, but nonetheless, you also chose to polish me and not give up. Think about it, Cynog. If an idiot like me who can only grow stronger by playing with the trash, can be polished to the extent that you mistook me for a talent… how much could you polish all those students under you? I’m still too weak to polish anyone else, but you are an expert. You have that power. With your skill, you could make those students really shine. But because you dismiss them out of hand as ‘not talented,’ you don’t even try.”
+
+Cynog frowned. His brows knitted.
+
+“Thank you, Cynog. I deeply appreciate everything you’ve done to help me. But when you go back to your class, look at your students, and know that they all started with more potential than me. This time, don’t give up on them. Try treating them the same way you did me, and see how much they grow.”
+
+Crrrrk.
+
+Rhys had turned away, but he whirled at that sound.
+
+Cynog cracked his knuckles, a slow, evil grin on his face. “So you think you can tell me how to teach? You, a mere student, who’s barely been at this sect for weeks?”
+
+Rhys swallowed. He backed away. Ah, shit. My knee-jerk reaction to defend trash got the better of me. He’d spent an entire life passionately defending trash in person, on online forums, everywhere he could. In modern society, the worst consequence for his actions was becoming a social pariah and facing the distaste of his coworkers. In a medieval society, the worst consequence for supporting an unpopular opinion was death and torture. In that order, if he was lucky.
+
+Cynog glared at Rhys, slowly frowning deeper. Thoughts whirled within his mind. Not a talent? Impossible. The boy was delusional. After all this time? He wouldn’t accept that the boy wasn’t talented.
+
+His worldview began to crumble. All this time, was it really his fault? Could he really have polished any of his students into obtaining Weapon Intent, if he hadn’t given up on them? He was the one who’d failed? Not his students, but him. Anyone could be powerful, as long as someone believed in them, but he hadn’t believed, and so not only his students, but also he had failed to become powerful.
+
+He was the source of his own failure? Not only that, but the source of his entire school’s failure to produce martial artists? Him? One of the few teachers who actually put in effort? One of the few who actually tried to help students? This boy dared to question him, when he worked the hardest of any of the teachers?
+
+No, it wasn’t that the boy wasn’t talented. He was talented. Cynog was right. He knew he was right. Rhys was talented. He was different from the other students. More powerful, more capable. If the boy refused to see it, then he’d just force him to see it.
+
+It wasn’t that Cynog’s worldview was wrong. It wasn’t that he’d been doing the wrong thing all along. That wasn’t possible. He refused to believe it. It was Rhys who was wrong.
+
+It had to be.
+
+Cynog’s heart hardened, and resolve sparked within him. Resolve to prove Rhys wrong, no matter how far he had to take it.
+
+Rhys saw murder crawl across Cynog’s face, and cleared his throat nervously. “It’s not that you’re wrong, it’s—”
+
+“Someone’s asking for a beating,” Cynog rumbled, and charged at Rhys.
+
+“No no no—” Rhys turned and ran, sprinting off at top speed.
+
+Cynog closed in on him before he got a dozen steps. Rhys threw up Trash Intent, as usual, but Cynog grabbed him bodily by the shoulders, reaching around the end table Rhys had picked for today’s shield, and threw him up against the nearest tree. Rhys put the end table between him and Cynog, but Cynog ripped it out of his hands, tossed it away and went right on hammering Rhys. Caught between a tree and Cynog’s fists, Rhys had little option but to take the blows. He used Blow Mitigation to lessen them to the extent possible, but he was still getting hammered. His only saving grace was that Cynog wasn’t so pissed that he forgot he was fighting a student, and still pulled his blows enough to not kill Rhys.
+
+Not immediately, anyways. Pressed up against the tree, barely protecting his head, Rhys felt his vision begin to fade. He forced himself not to pass out and took a short breath instead, hissing slightly through the pain. If he stayed here, Cynog might pummel him to death without realizing it. The man had a high estimate of Rhys, but Rhys wasn’t actually a talent like Cynog thought. Cynog overestimated him, and that meant that he might accidentally kill Rhys by assuming he could take more than he could. Especially after that lecture. I basically provoked him into forcing me to recognize I’m a talent. The only problem was, Rhys was no talent, and if Cynog pushed too hard, he’d die, just like the trash he was.
+
+Something… anything…
+
+His vision flickered. Caught on the razor’s edge between life and death, things abruptly became very clear to him. He couldn’t sit here and take it. He would die. He had to escape.
+
+But how? His trash had been taken from him. He could use Trash Intent on his sword, but it wouldn’t do any damage, and Cynog would knock it away. Cynog was overwhelmingly powerful. He needed to get out of here, or else he’d die. But to flee, he first had to get away from Cynog’s hold. The man had a firm grip on his shoulder. He couldn’t escape without breaking that hold.
+
+No, that was wrong. He had another option yet. When he thought about it, between breaking a powerful warrior, and breaking trash, one of them was obviously easier to break.
+
+Rhys took a deep breath, forcing himself back to awareness. He steeled his heart, then delivered a decisive blow to his own shoulder. His bones broke, but for just a second, Cynog’s hold on him weakened. He wrenched his shoulder free and ran.
+
+Everything hurt. Every piece of his body was in pain. But he put all that to the back of his mind and ran. Trees lashed past, digging into his wounds. Undergrowth tugged at his ankles, almost toppling him. He swigged his potion to let the healing get started, and desperately pushed his brain to the limit. He was slower than Cynog, weaker than him, and even with all of Straw’s techniques, lacked the raw stats to evade his attacks completely.
+
+Completely. A fist flashed through the air, and Rhys threw himself to the side. Cynog’s fist took a chunk out of his side, but it didn’t kill him. He ran on, pushing himself to the limit. His ears strained. His legs burned, on the verge of overloaded with mana so he could not only run, but also dodge. He threw caution to the wind, pushing his body past its limits just to survive. He was a hare on the run, a pigeon with a bullet lodged in its chest. Even if it meant he died eventually, he’d run on now.
+
+Another punch clipped his shoulder. He flared Blow Mitigation and threw himself into a sideways roll, popped up, and ran on. Air rushed toward the back of his head. A forward roll, and that fist struck his ponytail instead. He grabbed the ground and held himself still. Every wound in his body screamed in pain, gaping wider. Blood spurted over the ground. He held his breath, holding back the scream, and refused to let go.
+
+Trash Body 1
+
+Caught up in momentum, Cynog rushed past him. Just up ahead was a slate field, as Rhys knew better than anyone. The martial artist stepped onto it as he started to backpedal, and instead of instantly reversing, he slid forward, his feet meaninglessly kicking at the loose shale.
+
+Rhys’ eyes flashed. He jumped up and sprinted in the opposite direction, charging back toward the central square. One destination gleamed in his mind, one perfect destination that Cynog couldn’t tear him out of. His legs blurred. Mana pushed his muscles to their limit, then past them. They began to rip, but he pressed on. He needed to push it past its limits so he could escape. He refused to die here. Even if he turned his whole body into trash in the attempt, he’d do whatever it took to survive.
+
+Cynog growled. He found his footing, whirled, and gave chase. Rhys’ hard-earned lead was obliterated in an instant. Still, Rhys ran. He knew nothing but running and dodging. His body accumulated wounds. Before long, no part of him wasn’t bruised or bleeding. He was a tattered mess, barely recognizable as human. With no time to sip his potion, all he could do was keep taking hits and keep running, desperately ensuring not a single hit landed on something vital.
+
+“Get back here, you slippery eel. I’ll show you martial talents!”
+
+Ahead, the central square, at last. A heavy hit landed on Rhys’ lower back, and he let it propel him out of the trees and into the square. He flew through the air, landed on the tiles, and rolled a dozen times, head over heels—at first, on nothing but the momentum of the blow, and then on his own efforts. Just as Cynog was about to reach him, he kicked off the ground and popped back up to all fours. He scrambled off, chasing toward his sanctuary.
+
+“Where do you think you’re going?” A hand closed around his ankle. Cynog instantly tightened his grip. Rhys’ flesh bruised. He pulled, intending to lift Rhys by the foot.
+
+Rhys’ eyes flashed. Determination burned in his soul. He couldn’t let himself be caught. Not now, when he was so close.
+
+And he wouldn’t.
+
+Gritting his teeth, Rhys clamped onto the cobblestones, sinking his fingernails into the cracks. Flaring the very last of his mana, he pulled.
+
+Cynog laughed. He tightened his grip. “You aren’t getting away that easily. There’s still more training left for you.”
+
+“Easily?” Rhys asked.
+
+Their eyes met. For the first time, Cynog looked his victim in the eyes. Madness burned there, with a determination that verged on insanity. Cynog frowned, shifting back, but he didn’t release his grip.
+
+Rhys pulled harder.
+
+With a horrible sucking pop, Rhys’ foot came free at the ankle. Splashing blood after him, he fled the last few steps to the library on all threes and threw himself through the door. He lifted his head and, with the last of his strength, shouted, “Lock it! Lock the door!”
+
+“You fool. Of course I wouldn’t allow that brute near my books,” Az replied lazily. His voice echoed down the hall, the man not so much as rising from his desk.
+
+A heavy weight slammed against the thick wood. Rhys sighed, letting out all the tension in his body. With the tension, his consciousness, too, started to flow away.
+
+Shit… not yet. Fumbling in his robes, he pulled out his potion and downed the rest of it. Rhys set the bottle carefully to the side, then drew a mana potion and slurped down half of it, as well. Less is More and Self-Regeneration both kicked off, and only then, as he felt his wounds closing, did Rhys allow himself to fall into darkness.
+
+“Not coming to greet me? That isn’t very proper of you,” Az’s voice sounded again. It echoed over an insensate Rhys, the boy unconscious as he regenerated his wounds.
+
+There was silence for a few beats. At last, with a heavy sigh and the creak of long-settled furniture, footsteps sounded from around the corner. Az turned the corner, and froze. “You’re just going to bleed all over my library, are you?”
+
+Rhys didn’t reply.
+
+“Hmph.” Az wandered over, then sat down beside him. He reached into his robes and upended a potion on the sleeping Rhys’ face. Rhys spluttered for a moment, but the potion quickly vanished, absorbed into his skin and through his wounds.
+
+Az lifted his head, looking at the door. “What a foolish child, daring to provoke Cynog. He should know none of us ended up in this bottom-tier sect by choice.”
+
+After a moment, he let out a pleased hum. “Except for me.”
+
+Az’s shape shifted. He grew smaller and smaller, landing on four legs, then curled up beside Rhys. A small tuxedo cat in Az’s place settled in to purr the pain away.

@@ -1,0 +1,137 @@
+---
+id: a1cf757a-ff54-5a7e-a7c8-004d8587ad6b
+page-type-slug: story-chapter-royal-road
+title: "Threads 180-Dawn 3"
+slug: 0212-threads-180-dawn-3
+partOf: forge-of-destiny
+position: 212
+ownLength: 1892
+unit: words
+publishedAt: 2022-01-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/835991/threads-180-dawn-3"
+royalRoadId: "835991"
+---
+
+“I’m home,” Ling Qi said.
+
+“Welcome back,” said her mother, bowing her head.
+
+Ling Qi itched to embrace her, but that could come later when they weren’t standing in the front garden. Somehow, every time she saw the Duchess, she found her appreciation for her own mother growing. Following her mother inside, Ling Qi cast one more glance over the house and the town outside.
+
+It wasn’t pretty. There were holes in the roof where shingles had been torn away, and several of the upstairs windows were covered by boards. Around them, the garden, once full of flowers, had been churned to muddy ruin. Her home seemed to have gotten off fairly lightly though, all things considered.
+
+Outside, things were worse. She had seen a handful of buildings which had simply collapsed and were now being rebuilt by workers from the Sect. The dirt roads outside the city center were still ankle-deep muck in places, and outside the town walls, she had seen two miniature lakes full of muddy, stagnant water. She was sure that some Outer Sect disciples would be earning sect points while cleansing and removing those soon.
+
+It seemed that even so far from the front, the effects of a seventh realm cultivator’s power would be felt. The air still tingled with electricity and grief, and she was sure that weight wasn’t helping with the more mundane problems.
+
+“Were you and Biyu well while I was gone?” Ling Qi asked as they entered the front hall.
+
+“We persevered,” Ling Qingge replied. “It was easier for Biyu. Once I understood that the room that the young man installed blocked out what was happening outside, she was able to sleep again. She did become a little agitated with the enclosure as time wore on.”
+
+“I’m glad some value has already come from it.” She relaxed a little. If her mother was talking about such a small problem, then there weren’t any greater ones. “But how were you?”
+
+“I was able to keep myself busy between the neighbors and our household. I invited those who lived outside to stay with us during the storm,” Ling Qingge answered. “I hope you don’t believe that was a misstep.”
+
+Ling Qi shook her head slightly. Anyone who had a problem with that wasn’t going to be someone she could really be friendly with anyway. “That’s fine. How… were they? It was probably frightening.”
+
+They were her mother’s friends and acquaintances, so it was only polite to ask.
+
+“It shook some of them,” her mother admitted. “But it was not so bad for adults, who could understand what was happening.”
+
+Ling Qi hummed in agreement as her mother continued speaking. It was good hearing her talk about others with the implication that she was doing more than just huddling down and focusing on herself. She was a little surprised to learn that her mother suspected that they might be losing one or two of the younger girls brought from Tonghou. It seemed they had found men they were interested in staying with in the town.
+
+Ling Qi made a silent note to herself to send a wisp or two out for a wander while she cultivated tonight.
+
+<Of course that would be your first thought.> Sixiang sighed.
+
+It was only reasonable. She trusted her mother to have done the same, but there were tools only she had.
+
+Before Sixiang could respond further, her mother turned her head to look at her. “Ah, are your spirits present? I do not want to be rude by not greeting them as well.”
+
+“Hanyi decided to visit her mother’s old home, and Zhengui is taking a nap. Being awake for so long at a stretch really tired him out,” Ling Qi explained.
+
+“Don’t worry ‘bout me, Momma Ling. Just focus on this troublesome daughter of yours,” Sixiang said aloud, letting their voice carry on the wind. At the far end of the hall, Ling Qi saw a cleaning girl who had been looking at them out of the corner of her eye startle.
+
+She saw her mother’s shoulders stiffen, but she didn’t jump this time. Progress. “I will try to do so,” she said.
+
+They passed into the dining room then. It was a bit of a mess. Materials for repair were stacked about the edges of the room, but the table was clear, and Ling Qi was able to see the traces of dirt from workman’s boots in the cracks in the floorboards.
+
+“Ling Qi, how did your trip go?” her mother asked, turning to face her as they approached the table.
+
+“Better than could reasonably be expected,” Ling Qi said wryly. “That reminds me. I brought back gifts!”
+
+She gestured, and the air above the table shimmered along with a faint puff of air as objects materialized and settled on the table. They were small things: painting, vases, a folded tapestry, and other bits of decor. She still wasn’t completely sure of Meng Dan’s words, but she had accepted his help in picking out a few pieces to keep anyway.
+
+“Beautiful,” Ling Qingge murmured, leaning over the nearest painting. It was a simple thing, depicting a winding stream that pooled in a pond filled with swimming ducks and sparkling fish. Wispy wind and water spirits gave the piece a more mystical feel, and the water of the pond and stream shimmered like real water. The positions of the animals and fish seemed to change a little when looked at from different angles as well. “Where in the world did you acquire these?”
+
+“We came upon a cache of art and artifacts after defeating a hidden traitor,” Ling Qi replied easily. She might explain more clearly later, but she would rather let her mother enjoy the gifts for now. “I’m selling most of it, but it seemed a shame not to keep a few, and these…”
+
+She paused, long enough for her mother to look up from her examination with a frown. “These what, Ling Qi?”
+
+“Well, one of my companions helped me do a genealogy. Technically, the makers of these works are ancestors, even if it’s really distant and they’re not really acknowledgeable,” Ling Qi said, her eyes wandering over the spread. It was a small thing, but she supposed she understood Meng Dan’s words.
+
+She didn’t put any great stock in ancestry still, but maybe future Lings would find them inspiring. She didn’t think that would be a bad thing. “Not a bad little foundation, right, Mother?”
+
+“I—” her mother began.
+
+Ling Qi’s eyes darted to the side as she heard a high-pitched cry, and she turned in time to catch a small form bounding into the room to embrace her legs. The blanket of the Sect Head’s qi really was intense, Ling Qi thought, if she had missed her sister’s approach.
+
+Ling Qi crouched down and embraced her little sister back. “Missed you, Biyu,” she said, tousling the girl’s hair.
+
+The little girl squealed happily, grabbing at her hand. “Missed Sis-y! Bad air goes away!”
+
+Ling Qi glanced up to see a red-faced older woman huffing and puffing her way up the hall where Biyu had come from. She felt sympathetic to the woman; she had a feeling the power of her domain gave Biyu a certain energy that made her hard to keep up with for a mortal. The staff had probably noticed this too given the lack of surprise on the woman’s face as she stopped near the entrance to the room.
+
+<Ling Qi, bane of nannies,> Sixiang pronounced mock-seriously.
+
+Behind her, Ling Qingge gestured to the other woman, who briefly bowed and took her leave. “Biyu, please don’t run in the house,” she chided gently.
+
+“But Sis-y,” Biyu pouted, peering past Ling Qi.
+
+“Listen to Mother,” Ling Qi said. “I’ll be here for a few days this time.”
+
+The little girl’s eyes went wide, and she babbled happily at the news, but her mother gave her a concerned look. “Is that truly alright?”
+
+“I’ve earned a little break,” Ling Qi said, laying her hand on Biyu’s head. “Unless there’s a real emergency, it’s fine.”
+
+“Dance!” Biyu blurted out before her mother could reply. “Wanna show!”
+
+Ling Qi blinked and shot her mother a questioning look.
+
+“One of the younger girls was once a ritual dancer at the Temple of the Bountiful Earth before her circumstances changed. Lessons helped distract Biyu from confinement,” Ling Qingge explained.
+
+“Lei-Lei is nice,” Biyu affirmed. “Show Sis-y?”
+
+Ling Qi felt a slight pang. She’d intended to be the one who showed Biyu some basics of dance as a bonding thing, but it seemed she’d been beaten to it. She didn’t regret her trip but…
+
+<Hey, not like you don’t still have plenty to show her. Just be happy and let the girl learn,> Sixiang thought.
+
+“Sure, I don’t mind, if it's fine with you, Mother,” Ling Qi said aloud, not letting her thoughts show.
+
+“I discarded the day’s schedule the moment I felt your presence,” Ling Qingge said with a small smile.
+
+***​
+
+Ling Qi leaned back on the soft couch in the panic room. Her mother had seen it furnished since she had been here last with things likely commissioned from the town. Wall hangings concealed the faintly humming formation arrays, still partially active from keeping the atmosphere outside out, and in addition to the couch she sat on, there were a few other chairs and small tables, along with a pair of small but well appointed cots in one corner.
+
+Laying in her lap, Biyu turned over, murmuring in her sleep. They’d spent a few hours letting her show off the first halting steps she’d learned from Lei-Lei and then Ling Qi coaching her further. It was less about deliberate routines at this point and more a matter of instilling balance and rhythm. It was fun though, even if Biyu was too young to really get it yet.
+
+“I am so glad you made it home safely,” her mother murmured from her seat beside Ling Qi.
+
+Carefully, Ling Qi wrapped an arm around her mother’s shoulders. It still struck her sometimes how much taller she was than the older woman and how very frail her mother seemed. “I’ve gotten pretty tough, you know?”
+
+“Maybe,” her mother responded weakly. “But having felt the storm, I could not help but worry.”
+
+Ling Qi let her eyes drift shut. “That’s fair. I try to stay in my own league though. Were you really okay while worrying about everyone else, Mother?”
+
+“I was as well as I could be,” Ling Qingge admitted. “But I am glad that the campaign has halted for the moment.”
+
+“So am I,” Ling Qi said.
+
+There was some trepidation there. The Duchess was coming south. And if what she had felt in the air was the mere distant echo of the Sect Head’s actions, then she dearly hoped that Cai Shenhua never had cause to so much as lift a finger. “I noticed that your cultivation has advanced.”
+
+“Has it?” Ling Qingge asked, looking down at her hands. “I merely found it good for focusing my mind.”
+
+“I think you’re close to reaching gold physique,” Ling Qi said. “Would you like my help tomorrow morning, giving it the last push?”
+
+Her mother closed her eyes, letting out a breath. “I think I should like that.”

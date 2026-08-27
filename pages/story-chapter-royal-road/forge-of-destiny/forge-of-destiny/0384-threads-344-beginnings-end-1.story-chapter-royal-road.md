@@ -1,0 +1,153 @@
+---
+id: a57036bf-770f-57c7-b84f-beb087d11286
+page-type-slug: story-chapter-royal-road
+title: "Threads 344-Beginning's End 1"
+slug: 0384-threads-344-beginnings-end-1
+partOf: forge-of-destiny
+position: 384
+ownLength: 1932
+unit: words
+publishedAt: 2023-10-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1386690/threads-344-beginnings-end-1"
+royalRoadId: "1386690"
+---
+
+“The biggest, most common mistake I find in people’s thinking is equating impermanence with meaninglessness,” Ling Qi said. “I want my works to endure and the good I make to last into the future, but they won’t be forever.”
+
+“And that is fine,” the old man said. “Others will make use of what remains.”
+
+She inclined her head. She had said it to Elder Jiao. Thinking it was your responsibility alone to change the world was folly. It took more than a few people, no matter how mighty they might be.
+
+“If constructing something, that is so. But there are those who seek ruin,” the crow continued. “In our world, this can be done alone.”
+
+Ling Qi agreed. Breaking works was much easier.
+
+“Eh, kinda true, but a lot of people gotta fail for one of those types to make the distance,” Sixiang drawled. “Even the worst nightmares don’t pop outta nowhere.”
+
+The old man examined Sixiang critically with his single eye. “There are patterns to ruin’s rise. Signs. Portents. But the wheel of history does not easily shift from its rut.”
+
+“I am only a novice in the field, but for all that, I see some patterns. In the end, it comes down to the choices of those alive at the time. There is no singular wheel,” Ling Qi said, frowning.
+
+One could say that each calamity leads inexorably to the next. Tsu’s method of using speech instead of the closed fist led to the division of the Weilu, which led to exhaustion and apathy in the Dreaming Way, which led to the neglect of their kingdom and finally, their disappearance. This led to the Xi, a violent spasm in response to disunity, whose failure led to the Hui, who sought to shroud pain in a drug-fuelled dream, to which the Cai were like an open-handed slap to force the dreamer awake.
+
+She didn’t think it was so simple though. There were patterns in the world, but they were a background, not some immovable path through which history flowed.
+
+The only exception, she thought, was that the world went forward. Even those who said they wanted to return to the past couldn’t change that, only make poor facsimiles of what had come before. Autumn went into winter, and winter went into spring, but no turning was alike to the previous.
+
+“Tumultuous. Hmph. I wonder if those who say you can only infect us with your instability are right.”
+
+“Well, I dunno about that, but it's not like things stay the same now. You’re both aware of each other. Ain’t no going back on that,” Sixiang pointed out.
+
+“I didn’t want to comment, Honored Elder, but it is considered rude among us to make plain how easily you skim a lower realm’s thinking,” Ling Qi said.
+
+Not just lower realms. Her insight into others was a skill she was going to have to be careful of utilizing as well.
+
+“Is it?” The old man stopped beside her; they were near the checkpoint now. “Even knowing it is so?”
+
+“It is only polite. I ask that the elder keep this in mind.”
+
+“A small lesson. I will accept it.” The old man tapped his stick upon the road. “Go then. There will be much more speaking soon.”
+
+Ling Qi bowed her head and took her leave, passing through the checkpoint back into imperial-controlled territory.
+
+As she left the security behind and wound her way back to one of the many meditative pavilions sprinkled through the imperial zone, Sixiang shimmered, dissolved, and reformed, walking beside her on light, silent steps.
+
+“Working on your songs even while you chat. Still got your nose glued to that grindstone, huh?”
+
+“Of course. If I can glean insights on cold, these people are the ones to do it with. Speaking with Jaromila already helped me refine my art, my Final Frost Serenade,” Ling Qi said.
+
+“And what’d you get from this?”
+
+“Certainty, I think.”
+
+The stone pavilion set among the clear grove of straighter growing trees was plain but idyllic. Moss and vines were already growing along the pillars. The little fairies of wood and earth clung to the bark and gnarled roots. She took a seat on one of the stone benches.
+
+“I’ve said it before,” Ling Qi continued. “The greater endings are absolute. It mostly doesn’t matter to me since I accept that. But there are many who don’t. It’s a good weapon though, inevitability, and I was right to make it the opening theme of my art. Of the whole song, the opening is the part I’m most confident in.”
+
+She could picture it in her mind's eye, painted stone frosting over leaves withering and moss dying. Ice, killing ice, would spread with the tune, rendering the world sterile and white, frost and ice consuming color, and cold stealing heat, the motion of things, and making the world grow still. Her melody was the oncoming winter. It could be prepared for, but not stopped.
+
+She wanted to refine it, and the ideas of Fryja, that untouchable emptiness of purpose, showed some appeal. But unlike her final piece, she did not think her start needed to change much.
+
+“Chilly,” Sixiang commented, drifting over, literally, seating themselves on the stone go table in the center of the pavilion.
+
+Ling Qi raised an eyebrow, and blew out a puff of air. It crystallized immediately into frost and snowflakes. Beneath her, the stone bench glittered under a layer of clear ice.
+
+Sixiang wrinkled their nose at her, waving away the flakes that began to fall under the pavilion roof. “There’ll definitely never be a too hot summer day with you around.”
+
+“Probably not.” Ling Qi drummed her fingers on the iced-over bench. “Sixiang, are you really alright, joking just the same way as you used to?”
+
+Better to get it done and address the issue.
+
+“... If it doesn’t bother you.” Sixiang rested their chin in their hands, expression downcast. “I really don’t want to change that, you know. I like the dynamic where I point out or imply improper stuff and you scold me or laugh. Does it make you uncomfortable?”
+
+“A little,” Ling Qi admitted. “But I also know it's mostly empty on your end. It’s odd since I know you don’t really care about physical things, but you’re still performing for other people's sensibilities.”
+
+“Yeah, that’s true. I do appreciate aesthetics though. You’re pretty,” Sixiang grimaced. “I still don’t know exactly what I’m doing. I can scale it back?”
+
+“I think it's fine. It’s enough that we’re in our own heads,” Ling Qi said, closing her eyes. “What are you planning to do now? Will you go back and visit Li Suyin?”
+
+“Mmm, nah. Don’t have the hang of going far away from you. Coming back is easier,” Sixiang admitted. They raised their hands as they saw her frown. “Hey, don't blame yourself. I coulda said something. I’ll hang around here. Meng boy and the hidden squirt are here, right?”
+
+“They are. That’s my last meeting actually, Meng Dan and I have a little work to cover over tea.”
+
+“Oho! I’m getting outmaneuvered the second I leave.” Sixiang laughed. It was only the muse’s total lack of any real upset that made her able to smile at the words. “Well, other option. That big guy, the Zheng, I think. He’s got an interesting feel. Might go have a chat with him. Seems like the type to not get huffy with my antics.”
+
+“As long as he doesn’t egg you on into new antics,” Ling Qi said with a performative sigh. “You are coming to visit home with me.”
+
+“Am I?”
+
+“Yes.”
+
+“Okay,” Sixiang agreed. “Want me to swing by when you're doing letters and notes?”
+
+Ling Qi was doubtful. “I don’t want to make you do something you’re not…”
+
+“Yeah, you write the replies. I’ll do the reading.”
+
+“I can’t imagine how many people I’ll offend if someone ever spies on us,” Ling Qi said, laughing quietly.
+
+“Pfft, like you won’t find some new and inventive way to offend folks.”
+
+“I’m not like that.”
+
+“... Really did miss you.”
+
+Ling Qi lowered her head in a nod.
+
+“So, where you going with the Meng boy?” Sixiang asked, waggling their eyebrows.
+
+“It’s for work,” Ling Qi said, indignant.
+
+The waggling did not stop.
+
+***
+
+The gardens around the observatory were certainly impressive, considering how young they were. Water trickled through curving channels carved in the earth, clear burbling streams that fell musically down the organically shaped steps of water-smoothed rocks until they vanished under the earth. She had some notion of the subtle artifice that lay under their feet, pumping the water back to higher elevation to begin again, but it was well hidden and subtle. Between the flowing waters was an expanse of soft, cool colors in the petals of the flowers and the leaves and bark of trees. Greens, blues, soft purples and blacks.
+
+It was a restful place. The drifting mist that rose from the waters rose no higher than the ankles. The air was serene, and even with the sun sinking, casting the shadows long, little pale blue sparks of light drifted, giving light.
+
+She sat with Meng Dan at a polished stone table built in the core of the garden. Surrounded by polished circular benches of wood and soft silk cushion, it was minimalist, but no less rich for it. Such sites were scattered throughout the garden. Even now, she could, if she strained her ears, hear garden workers and others moving through the quiet paths. That was still comforting to her, for all that she didn’t feel the panicked anxiety that she might have but a few months ago.
+
+“Your family does superb work. Zhengui and I have been working on gardens, but our efforts feel crude compared to this.”
+
+“I have no doubt that your xuan wu will surpass many of our artisans in time,” Meng Dan praised. “Given his natural ability.”
+
+She hummed to herself. The flow of energy was so smooth here, almost a minor cultivation site in its own right. And all this was made in a matter of months atop this unnaturally cut mountain. That was the expertise of an ancient clan steeped in the traditions of the old Weilu though.
+
+Set out on the table before them was a dinner set of finely made porcelain chased with silver. The pot containing the tea at the center was steaming and full, but the food set out on the dishes were in minimal portions. Both of them were cultivators. Eating was primarily for the flavor of it or cultivation benefits.
+
+“I’ll convey the praise to him. Hopefully, your geomancer won’t be offended when the time comes to teach.”
+
+“My grandmother has been sure to pick one of our more open-minded experts for the duty. How are things coming along on that front?”
+
+“I think we will be ready for him within the year. We’ll at least be selecting the site for more permanent construction soon.”
+
+“I do hope I can find the time to visit someday. It must be fascinating to observe a new settlement grow from nothing.”
+
+“It’s a slightly unreal feeling,” Ling Qi admitted. “Lady Cai thinks of it more, but it's hard not to get swept up when she starts talking about her plans.”
+
+It was easy to picture, when her liege spoke, of a city sprouting up on the lakeside, growing and filling with people.
+
+Meng Dan raised his cup in a toast. “To prosperity then.”
+
+Ling Qi raised her own. “To prosperity.”

@@ -1,0 +1,131 @@
+---
+id: 6af88ec6-3dc4-56f8-8f21-169621e2936a
+page-type-slug: story-chapter-royal-road
+title: "Threads 117-Intermission 7"
+slug: 0142-threads-117-intermission-7
+partOf: forge-of-destiny
+position: 142
+ownLength: 2149
+unit: words
+publishedAt: 2021-08-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/731186/threads-117-intermission-7"
+royalRoadId: "731186"
+---
+
+By the time the first spark was fading, Ling Qi had raised her flute to her lips and released her grip on her domain.
+
+The Mist flooded out, even as the lonely tones of Spring’s End Aria flowed out, calling the frozen chill of an unending winter to the subsonic background beat of Implacable Advance.
+
+Around her, walls of fresh green wood erupted, twitching roots curling and weaving through one another to form curved barricades. Smaller than the vast rampart which Zhengui had summoned the first time, the bulk of Zhengui’s power manifested in a number of structures, a layered set of fortress walls three layers deep, their tops marked with jagged, spiked roots.
+
+Ling Qi felt the earth tremble beneath her feet in the beat of a mighty tread.
+
+Silver wisps spun out of the folds of her gown, fleeing into the frost-touched grass to give her eyes throughout their fortification. The winged mantle of her gown fluttered, and her gown rustled as stray wisps of hair and the hems of her skirt alike trailed off into smoky shadow, and her whole frame wavered.
+
+The walls groaned as they thickened and expanded, ramparts reaching for the sky as the misty air grew dark with burning ash.
+
+Outside, a wisp of silver glimpsed a growing black silhouette. Wang Chao stood upright on the shaggy back of his black goat, and in his hands was an immense metal club as long as he was tall, the thicker end studded with metal knobs. The goat, Fensui, moved in bounding leaps, which did nothing to inconvenience the young man standing on his back, and each time the beast’s cloven hooves touched the ground, the earth cratered inward as if something many times larger had just landed.
+
+As Fensui kicked off the ground for another leap, Ling Qi played a single sustained high note, and great black wings opened in the sky. An eagle's scream shook the air, and the shadow fell upon the leaping Wang Chao just before he reached the apex of his leap. Phantom talons seized his shoulders…
+
+And Wang Chao crashed through the eagle like a catapult stone, scattering the phantom into mist and shadow.
+
+Ling Qi grimaced. She had expected that, but it was good to have confirmation. She could not know the whole of his domain, but [Momentum] seemed key to it. Trying to reverse his course would be just as futile as a disciple trying to contain her own movements.
+
+Regardless of the eagle’s failure, around her, a bestial regiment rose to man the walls, trailing frost from their maws and talons as they opened icy blue eyes.
+
+Behind her, Zhengui enacted the first part of their plan. More walls rose, low and sturdy, and their inner surface, rather than their ramparts, were jagged with spikes.
+
+There was a tremendous echoing boom of thunder and splintering wood as Wang Chao’s spirit beast hit the ground and launched itself forward. Fensui’s tremendous curling horns struck wood, and the rampart cratered inward for three meters in every direction, splintering as the beast crashed through the first barrier and then the next, barely losing any speed along the way.
+
+As the third wall began to bow inward and splinter, Sixiang bent light and sound, crafting a mirror image of her as she flowed into shadow and through Zhengui’s wall. There, she rematerialized behind Wang Chao just as he crashed through, club raised to swing at the image. Only then, crouched low to the ground, did she dart forward, playing the steady notes of the Grinding Glacial Melody.
+
+Wang Chao could not be pushed or held back, but she was gambling on the idea that he could be steered.
+
+“Woah, there!” Wang Chao exclaimed in surprise as her melody, joined with his own unstoppable momentum, launched him off of Fensui’s back and past the dummy tower and Zhengui, directly into the raised spike walls Zhengui had summoned.
+
+She did not have the time to savor the minor victory though. A pair of hooves kicked backward, and even as she dissolved into wisps of shadow, she still felt the impact of the shockwave that ripped through the earth and shattered walls where she had stood. She rematerialized in front of the beast, ribs aching but intact.
+
+Before the beast could so much as lower his horns again, a glob of molten glass and stone struck him head on, causing the beast to step back, violently shaking its head to scatter the blinding mass. Her beast phantoms closed in, clawing and biting.
+
+Ling Qi was already dancing backward, ghosting through Zhengui and turning to face Wang Chao, who had crashed through all three walls and had the splinters to show for it. He was not hurt much, just scratched and scuffed, and he met her eyes from across the field as he swung his club and dispelled charging phantoms.
+
+He grinned, and she saw his eyes flick over her shoulder to the dummy tower as he raised his foot.
+
+Ling Qi played the Hoarfrost Refrain.
+
+She took some satisfaction as he hastily brought his foot back down and clamped a second hand on the leather-wrapped handle of his club. It was significantly less satisfying when that club swung, and she felt it impact the qi of her technique. The quiet, icy notes of the Hoarfrost Refrain shattered into discordant noise as the qi in the air was smashed as surely as Zhengui’s walls.
+
+She couldn’t say she much liked that even more physically inclined opponents were starting to be able to interact with her music that way.
+
+However, she didn’t let that disgruntlement stop her from ghosting backward, fading into shadow as Zhengui barreled through, his each footfall spreading heat through the earth.
+
+He had improved the focus on that technique as well.
+
+But Ling Qi had to focus on her own opponent as they switched again. The black goat was already barrelling forward, head lowered as he charged toward. Ling Qi came in from his side, flying inches above the ground, and played a glacial stanza. Icy wind screamed, and force struck the beast’s side. For a second, she thought it wouldn’t be enough as Fensui charged steadily forward, but her worry was for naught. The goat let out a bray of frustration as her push shoved him aside just enough for his charge to miss the tower.
+
+She felt the earth tremble again, an explosion of heat on her back, as she saw, through a wisp, a line of magmatic geysers erupting out from Zhengui’s front. Wang Chao took one head-on, the force of the plume of molten rock launching him into the sky.
+
+She realized the problem a moment before his booming laugh rang out. Wang Chao raised his club overhead, and in defiance of his own airborne state, he started to spin, shedding a dark grey glow.
+
+Ling Qi had only a moment to curse and fortify herself. Then, he descended.
+
+***
+
+Ling Qi grimaced as she plucked pebbles and dirt from her hair. The dummy tower lay on its side in the churned-up dirt of the crater where the field had been.
+
+“I am not certain how it was possible to defend such a fragile installation from an attack like that,” Ling Qi said grumpily. The crater they stood in was some four or five meters deep and nearly twenty across.
+
+“One should always take into account anti-fortress attacks,” Wang Chao said in amusement. “Depending on how vital the target is, it may be expected for the commander to take the blow.”
+
+“Zhen is sorry, Big Sister,” her little brother said, tramping over. He was covered in dust and dirt himself.
+
+“No, don’t be sorry, Zhen. I didn’t take that into account in our plan,” she said with a sigh. It had been foolish. She had seen Wang Chao use a jumping attack before, so it should have naturally followed that launching him upward would have poor results. If it had just been a duel, she could have simply dodged the attack, but as it was…
+
+“You did have a clever approach to things. Not many can even manage to divert my path,” Wang Chao consoled. “In any case, will you be ready for another round, Miss Ling?”
+
+“Yes,” she said, glancing at Zhengui, who nodded both of his heads determinedly. “I think we will need time to fix the field though.”
+
+Wang Chao frowned up at the crater’s rim, which Fensui had already climbed, ignoring them all. “I suppose so. You’ll need time to plan as well! I won’t fall for the same tricks twice!”
+
+“I would hope not,” Ling Qi said dryly. “Let us both prepare for the next round then.”
+
+Losing irked her in a way that was hard to describe. She had thought she was prepared for it, but it seemed her feelings were not really so simple. Still, as she floated up and out of the crater, Ling Qi cast a considering eye over the gathering, pushing her irritation aside.
+
+She couldn’t afford to forget that she had other purposes here.
+
+***
+
+Missiles of pale green wood fell upon Ling Qi from every direction. The air sizzled with the virulent venoms infused into the wood. Ling Qi did not open her eyes, nor did she move. The arrows struck her.
+
+They sank in, as if biting deep, and flew further until they should have been spearing out of her back and chest. Instead, the fletching vanished, and the only sign of where she had been struck was a faint distortion in the air.
+
+Ling Qi opened her eyes and reached up to gingerly press her fingers against her shoulder where one arrow had struck. She still wasn’t used to the sensation, the faintest phantom of pressure and then something like the feeling of a clump of thrown sand or dirt scattering on impact.
+
+“The technique is mastered, so far as I can tell,” Alingge, her training partner of the moment, said as she landed with a faint rustle of furs.
+
+“I think you’re right. There’s nothing more to do with this technique right now,” Ling Qi said, lowering her hand. Starless Night’s Reflection was her replacement for the Thousand Ring Fortress, whose potency was beginning to fall behind her level of cultivation.
+
+Starless Night’s Reflection was an art of silence and stillness, modeled on the pure and unruffled reflection of the night sky on a lake during a moonless night. It might have seemed an odd choice for a musician, but Ling Qi knew well enough that the negative space, the silence between notes and bars, was just as necessary to a composition as the sounds themselves.
+
+And in the end, it was not so different from the finale of the Frozen Soul Serenade. The Starless Night’s reflection had come to her so very easily. Compared to the Thousand Ring’s Fortress, which endured attacks, dispersing an attack in the same way that she dispersed herself into shadow when hiding or moving with the Sable Crescent’s Grace technique was far more natural.
+
+“Still, it is a strange choice,” Alingge said as she dismissed the bow of lacquered horn in her hands back into storage. She didn’t need to say any more for Ling Qi to understand.
+
+Through one of the wisps scattered through the grass, Ling Qi watched Zhengui where he stood among the other spirit beasts. Gui was speaking animatedly with a small black bear with dark green markings, and Zhen was staring cross-eyed at a tiny sparrow perched on his snout. Since that night they had discussed Zhengui’s gardening vision, Zhengui had been a little less withdrawn and had at least made some acquaintances. While she wouldn’t call them friends, Zhengui spoke of the other spirit beasts in positive terms.
+
+Things had… settled since that evening. But she could not help but worry that she was making a mistake in dropping her only wood art, the only art seemingly connected in some way to Zhengui.
+
+“Do you think I am acting in error?” Ling Qi asked lightly.
+
+Alingge did not respond immediately, turning to face the spirit beasts with her arms crossed. “A week ago, I might have said so.”
+
+She probably would have too, Ling Qi thought. Alingge could be distressingly blunt. It didn’t bother Ling Qi much, but keeping feathers unruffled among the other participating disciples had certainly given the other art she had been practicing some good use. Moonless Saboteur’s Smile taught many lessons in social awareness, and one of them was how to use a good word and better timing to avoid bad impressions.
+
+“And what changed?” Ling Qi asked.
+
+“I have had more time to observe the two of you,” Alingge said simply. “You are not partners.”
+
+Ling Qi began to open her mouth to reply, but Alingge was not done.
+
+“Rather, he is your child.”

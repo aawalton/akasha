@@ -1,0 +1,55 @@
+---
+id: a2b7fa89-1c2b-50ae-85db-d6138a4028f4
+page-type-slug: story-chapter-royal-road
+title: "Bonus: The Great Diviner"
+slug: 0010-bonus-the-great-diviner
+partOf: forge-of-destiny
+position: 10
+ownLength: 1020
+unit: words
+publishedAt: 2020-10-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/575941/bonus-the-great-diviner"
+royalRoadId: "575941"
+---
+
+So it was that in the year of the White Rush, the mystic Tsu, alongside his companion, the Horned Lord, returned from his long journeys to rejoin the people of his birth. Where he quested, none can say for certain. It is only known that he had traveled beyond the great mountains of the Wall. The mystic brought back with him much knowledge: the secrets of the sun, moon, and stars; the ways of the seasons; and the secret tongues of wood and earth.
+
+Wise beyond measure, the fruits of his knowledge soon became clear. Those who heeded his wisdom found themselves able to raise food from the same ground each year, ending the people’s wandering. Those who submitted themselves to his pacts became not just people of the forest, but kin to it. Freely did the ancient growth grant them abodes among their boughs and branches, so long as the correct ceremonies were conducted. With his wisdom did the people learn the pattern of storm and flood and turn them to their use.
+
+It was thus that Tsu became the Diviner, first King of the Forest People.
+
+Many forces took notice of this. The cruel folk of the northwestern fen came on the rivers to raid and steal, and the Dragontouched of the Celestial Peaks came to bluster and demand tribute. Those who wandered, the men of hill and mountain and cloud, clashed with the forest people, whose new ways obstructed their paths. These, the Diviner dealt with handily, his foreknowledge and wisdom allowing him to gather warriors to their places long before attacks could arrive.
+
+But it was not men which would truly test the Diviner. The great forest was old, and its groves were deep. The forest people were few, and the beasts were many. Nor were all kin of wood and earth of friendly mien. Even in bygone days when dragons ruled from their heavenly cloud cities upon the Wall, Lords and Gods of Beast had risen to clash with them and lay ruin upon the earthly realms.
+
+But the dragons were long dead or driven to hiding, and new gods had risen in the Emerald Seas. They were the twelve gods, who, between them, commanded all the beasts of the world. They were cruel and capricious creatures and proud beyond measure. The twelve gods had warred and fought leisurely since the time of the dragons fell and in their shadow, humans lived their lives escaping notice.
+
+Yet this situation could not continue to be, for it is the nature of humankind, firstborn of Those-Who-Were, to grow and rule. The gods’ notice of humankind came first in small things. The cloud people made pacts with the red-maned horses of the Wall, and the hill folk and the wolves of the southwest made their peace, and this did irk the Wolf God and the Stag God upon whose dominion the humans infringed.
+
+Yet it was Tsu and his people who truly gained their ire for they changed the land upon which they lived, making it strange and alien to beasts. Yet even this was not enough to unite the fractious gods’ ire.
+
+It was the union of the descendants of Tsu and the Horned Lord which did that. The Stag God, already viewing the Horned Lord as a rival, saw in the birth of the first generations of the Weilu a plot for his power. At last stirred to full wrath, he came, and the forest shook with the beat of hooves.
+
+He fled not a week later, trounced and wounded by the wit of Tsu and the Horned Lord.
+
+Wounded and humiliated, the Stag God made suit to his peers, and though they were inclined to mock his failure, the fact of his defeat did raise a deep concern in their hearts that a human would dare to strike a god.
+
+Long did the Stag God appeal, whispering of the rise of man. In the northwest, it was said that the Great White Serpent had accepted a human mate, and in the mountains and rivers, the Stone Ape had begun to teach the humankind the ways of war. In the east, the great phoenix tribe had adopted a human son!
+
+Clearly, the world was in decline, and something needed to be done.
+
+After three cycles of the moon, the council of the gods finally ended, and the beasts of the great forest marshalled for war.
+
+In his kingdom, Wise Tsu knew that war was coming. It showed in the embers of campfires, the entrails of beasts, and the quivering of eager stars. The King and the Horned Lord were mighty and of great wit, but against what was whispered in the stars, no cleverness could prevail. The people of the forest were yet small, not grown to their potential.
+
+So it was that the Diviner left his halls to journey once more. To the tribes of the hills he went and spoke to their quick-tongued lords. To the folk of the frozen peaks he went and took council with their harsh queen. To the people of the clouds he went, soaring to join their councils in the sky.
+
+The time of suffering was coming, he said, and showed them the signs. The gods were enraged, and their jealousy would not stop with him. Though these people were often foes, they, too, had seen the signs of growing wrath. The gods, always cruel and haughty, had grown worse with each passing decade. Rare was it the year that would pass without the loss of camps and tribes.
+
+But the folk of the clouds refused outright to hear of the Diviner’s plan, for they lived in the sky and were blessed by the stars. Let the gods come, said they, and the fate of dragons would be theirs.
+
+The folk of hill and mountain were both less haughty and less mighty, and in the waning days of winter, it was with them that the Diviner made compact with.
+
+Spring was coming, and with it, war.
+
+They would meet it upon the roots of Xiangmen, eldest of the forest.

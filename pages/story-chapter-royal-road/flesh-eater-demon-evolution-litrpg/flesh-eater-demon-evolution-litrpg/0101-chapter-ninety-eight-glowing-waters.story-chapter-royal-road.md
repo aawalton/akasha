@@ -1,0 +1,169 @@
+---
+id: 77aaebb0-a22e-5b30-ab23-0d38021dcbda
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Eight: Glowing Waters"
+slug: 0101-chapter-ninety-eight-glowing-waters
+partOf: flesh-eater-demon-evolution-litrpg
+position: 101
+ownLength: 2394
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3586419/chapter-ninety-eight-glowing-waters"
+royalRoadId: "3586419"
+---
+
+Pyre’s muscles immediately tensed, but she didn’t move just yet. Instead, she remained standing at the water’s edge. Waiting.
+
+Across the ocean surface, bubbles continued to form, breaking up the pattern of the waves. The demon narrowed her eyes, focusing on that spot. It was faint, but she realized a subtle silver light was emanating from below. She’d missed it at first since it blended into the moonlight, but it was now unmistakable.
+
+A feeling of recognition rose in her chest. Ichor, she immediately thought. Some part of her was certain that that was what was causing the silver glow, but she couldn’t really put a finger on why beyond a subconscious feeling.
+
+Her mind went back to the description for empyrean demons. Maybe this was what “heightened attunement to ichor” meant.
+
+“The hell is that?” she said, mostly to verify what she was seeing. Llyr hadn’t moved beside her, and he now frowned at the bubbling waters.
+
+“Ichor,” he confirmed. “Sometimes, the ocean floor will split open and release ichor.” The healer nodded his head at the glowing surface, lips thinning slightly. “It can be quite disruptive to any underwater life in the area.”
+
+Pyre recalled the guy in the store and the other half of the rumors the driver had told them about. Clearly this had been an issue for a while now. “And I’m guessing this isn’t normal?”
+
+Llyr glanced at her at that. “Not at this frequency, no,” he said slowly. “Are you not familiar with ichor releases?”
+
+Ah, right, that would probably be something a regular denizen of this world would know about. Pyre hummed, debating how much to say. Considering that the healer already knew she wasn’t human and had a fucked up soul, mentioning her amnesia probably wouldn’t hurt.
+
+“Turns out missing most of my soul means my memories’re gone, too,” the demon said casually. She cocked her head. “‘Cause of that, there’s a lot of stuff I don’t know about. Like ichor releases.”
+
+She assumed “ichor release” was the general catch-all term for any time something like this happened. She was willing to bet that the ichor quake on the road was also a type of ichor release, which meant there was apparently ichor being dispelled from the ground all around Galen.
+
+Considering everything Callan had said about ichor being the source of life, that probably wasn’t a good thing.
+
+Llyr frowned, brows furrowing as he processed the demon’s words. He opened his mouth, but before he could speak, a loud splash interrupted the conversation. Pyre turned just in time to see a creature rise from the waves. Her eyebrows rose.
+
+Further ahead of the bubbling water, what looked like a jet-black horse burst out of the sea. It was larger than her vague Earth memories of horses, and its mane was a wavy, stringy black substance that resembled seaweed. It opened its mouth, revealing razor-sharp teeth that gleamed in the moonlight.
+
+The creature released a low, guttural sound that rumbled from the back of its throat, then shot forward. It galloped straight through the water as easily as if it were land, charging away from the ichor release and towards the shore.
+
+Beside Pyre, Llyr tensed. The demon glanced between him and the not-horse, considering. Based on what the healer had just said, the creature had probably been nearby, then spooked out of the water when the ichor-release happened.
+
+Regardless of circumstances, it seemed pretty fucking pissed right now. It was rushing straight towards them.
+
+“Hey, you don’t know it or something, do you?”
+
+Sharp blue eyes shifted to her. “What makes you think that?”
+
+“Well I don’t know what species you are, so I figured I might as well check in case it was a friend of yours trying to chat or something.”
+
+Llyr made a huffing sound and stepped further back from the shore, his whole body still tense as he watched the approaching monster.
+
+“It isn’t,” he said flatly. “Most likely it wishes to devour us and spit out our entrails.” He raised a hand, palm beginning to glow, just as the creature burst through the waves and onto the shore. It reeled back, preparing to lunge.
+
+“Okay, good to know.”
+
+Pyre spun around and raised an arm just as the creature snapped at her neck. Those sharp teeth clamped around the demon’s forearm instead, and she saw Llyr freeze in her peripheral vision. She remained standing in place, arm still raised steadily as the water-horse attempted to gnaw through her flesh.
+
+It couldn’t.
+
+She raised an eyebrow. The teeth weren’t penetrating her skin at all—she didn’t even feel them. The creature made that low sound again, the muscles in its hind legs tensing.
+
+Before it could kick out or release its bite, Pyre raised her arm, lifting the creature up with it, then slammed it back down into the ground.
+
+The monster crashed into the shore. Stray sand particles went flying, and it released another one of those guttural moans. Its bite immediately loosened.
+
+Pyre yanked her arm out of its mouth. She paused for just a second, considering, before punching her hand straight into the creature’s chest.
+
+Jet black blood spurted around the wound, and its legs kicked out wildly. One of them hit the demon, but she didn’t feel it. She just kept digging her hand deeper, finally finding the monster’s warm, pulsing heart.
+
+She grew a mouth on her palm and chomped clean through it.
+
+All at once, the creature fell still. Pyre finished devouring the organ, then reabsorbed the mouth before ripping her arm out of the dead monster’s chest. Her hand was black with its blood, the dark substance dripping down her forearm as well.
+
+[You have devoured (1) Ocean Kelpie Lvl 19][Experience earned!]
+
+[You have gained (1) [Scent Tracking] subtrait shard]
+
+[You have gained (1) [Adhesive Skin] subtrait shard]
+
+[You have gained (1) [Aquatic Adaptation] subtrait shard]
+
+Huh, those were some pretty interesting subtrait shards, Pyre thought. A quick scan of her stat sheet showed that [Adhesive Skin] needed 4 total shards while [Aquatic Adaptation] required 7.
+
+The latter subtrait would probably be useful to have. She was acutely aware of the fact that, at least in her current form, she would most likely sink like a rock if she ever ended up in the water. She could float if she shifted her flesh composition to mostly fat and didn’t compress it as much, but then she’d be huge and not very maneuverable. Maybe she’d try and devour a few more aquatic creatures to get more of those shards.
+
+That was something she’d have to think about more when she had time later. When she didn’t have an audience.
+
+Pyre straightened back to her full height and turned around.
+
+A few feet away, Llyr was still standing at the same spot. The healer had lowered his hand and was instead simply watching the demon.
+
+His eyes shifted between the dead kelpie, now no more than a dark lump against the shining sea, and Pyre. His expression was blank and unreadable, but there was a sharpness to his gaze that felt distinctly assessing.
+
+If there’d been any doubts remaining that the healer wasn’t just an overly nice human, then this combined with his “reflexive reaction” in the infirmary would’ve proved that he was hiding a lot more than he let on. Neither the sight of blood nor the kill itself seemed to have fazed him at all.
+
+Pyre had purposefully only shifted her hand when it was out of view of the healer. She didn’t particularly care if Llyr knew she was a demon—they’d already established that neither of them were human, after all—but it would feel a little like losing if she was the first one to reveal her species. Hence the hidden fleshwarping.
+
+Now, the demon raised an eyebrow at the other non-human in silent challenge. She stayed quiet, waiting for him to speak first.
+
+“…You’re fortunate that no one else was around,” Llyr finally said. That serene tone was back, but not entirely. A little bit of the sharpness was still peaking through.
+
+Pyre snorted, gesturing to the vast ocean behind them, then to the lonely mansion sitting on the shore. Some of the black blood on her arm dripped onto the sand with the movement. “Yeah, I figured there probably weren’t a lot of people out for a midnight swim.”
+
+Llyr smiled at that. He stepped forward, coming to a stop in front of the demon. The healer raised a hand, and his palm began to glow.
+
+Behind Pyre, streams of water rose from the ocean. They coalesced above Llyr’s open palm, forming a little swirling sphere of water.
+
+With a light nudge, the orb drifted over to the demon’s arm. It stretched, wrapping itself around the blood-covered areas. The liquid was a bit cold, but she otherwise didn’t feel anything.
+
+Slowly, Llyr pulled his hand back. The water moved away with it, only now, it was carrying all the blood from the kelpie inside it. Pyre’s arm was left completely clean. She whistled.
+
+“Very convenient,” the demon drawled.
+
+Llyr tossed the ball of water back into the ocean, where the blood soon dissipated under the waves. “It is,” he agreed. His eyes landed on the dead kelpie, and he hummed, considering. “We should dispose of the body. It will be high tide soon, so the stains in the sand will wash away, but the corpse itself will need to be moved.”
+
+“Cool.” Pyre bent down to pick the thing up. “Shouldn’t be a problem if I just chuck it back into the ocean, right?”
+
+Llyr’s eyebrows rose slightly as he watched the demon easily heave the creature over her shoulder. “Yes, that should suffice,” he said. Pyre didn’t hesitate to throw the dead kelpie back into the sea with a heave.
+
+It landed with a rather large splash near the spot it had originally surfaced from. The patch of water behind it, the demon noted, was no longer bubbling or glowing. It looked like the ichor on the seafloor was done “releasing” or whatever.
+
+“This happen often?” she said conversationally.
+
+“Not the kelpie attacks, no,” Llyr replied. “This ichor release was fairly close to the shore. Usually the creatures it disrupts do not leave the ocean.”
+
+“And the ichor releases’re happening more now.”
+
+“Yes,” Llyr confirmed. He studied the demon contemplatively. “Do you know something about them?”
+
+“Nah. We just passed an ichor quake on the way here is all.” Pyre cocked her head. “I was gonna ask you the same thing. I’m the amnesiac here.”
+
+The healer smiled a little. “I suppose you are.” He paused for a moment, eyes narrowing as he thought. “You said you passed by an ichor quake? Was this also in Galen?”
+
+“Yep, a day or so out of Serindell. I’m guessing that’s not good.”
+
+“No,” Llyr said slowly, “it isn’t.” He frowned, dark hair billowing behind him as the wind picked up again. “It means the land is destabilizing. I don’t know what the cause is, but it seems ichor everywhere is either fading or breaking away from the land it’s attached to.”
+
+The mere mention of ichor seemed to make her empyrean demon instincts prickle. One of Llyr’s words in particular, however, stuck out to her. “Everywhere,” she repeated. “So it’s not just Galen.” She’d originally assumed that the ichor oddness had to do with the disappearances. If it wasn’t exclusive to this area, then that became less likely.
+
+Llyr shook his head. “I first noticed it when I was in Ilyra. It wasn’t as noticeable back then, but these incidents are only growing in frequency. I imagine that humans will begin to notice it soon as well.”
+
+From the graveness in the healer’s voice, it was clear that this was a serious situation. It didn’t sound like anyone knew what was causing the weird ichor behavior, though, so there also wasn’t anything that could be done about it right now.
+
+Pyre’s mind drifted, once again considering the timeline of recent events. Her eyes narrowed. Could a weird ichor release be the reason Fred’s freezing spell or whatever had stopped working? Could it cause a soul to shatter?
+
+She didn’t know, but she couldn’t shake the growing feeling that all of this was connected to her somehow.
+
+“We should return to the mansion soon,” Llyr murmured, glancing up at the sky. It was still dark out, but Pyre could see the barest traces of daylight peeking over the horizon line. “I suspect Callan and Daphne will wake soon.”
+
+The mention of the two mages brought the demon out of her current thoughts. She eyed the healer appraisingly. “You said you wanted to test a spell out on Daphne, right?” It had almost escaped her mind after all the stuff that had just happened. Llyr had first brought up the test spell back when she hadn’t known for certain that he wasn’t human, after all.
+
+“A preliminary one, yes.” Llyr met her gaze evenly. Quieter, he added, “I may not be human, but I do genuinely wish to help.” He tilted his head. “If you’re traveling with them, then surely you understand.”
+
+The words made Pyre pause. Something stirred in her chest at them, but it was a distant, ghostly feeling.
+
+In truth, she’d never really stopped to consider how unusual their situation probably was. She’d seen Tivona’s memories. She knew what human-demon relations were typically like in this world. It just hadn’t mattered to her—not when she was missing most of her memories and not even entirely from this world to begin with. To someone like Llyr, though, their little traveling group probably looked very odd.
+
+“Something like that,” she finally said. “The threat’s still active, by the way,” she added, but her demeanor was casual.
+
+Llyr smiled. He glanced pointedly at the dark splotch of dried blood where the kelpie’s corpse had been, then back to the demon. “I’m well aware. I don’t plan on breaking our agreement, and I certainly won’t forget it,” he added with a light laugh.
+
+Pyre snorted in amusement. She turned towards the mansion with a casual wave. “We’d better head back, then.” She was pretty curious to see what solution Llyr had cooked up herself. Ichor-poisoning couldn’t be easy to cure.
+
+The healer hummed. “Yes, let’s.”

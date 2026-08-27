@@ -1,0 +1,137 @@
+---
+id: ab2df86f-1c31-5957-9abf-c8163f812809
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Invocation"
+slug: 0424-interlude-invocation
+partOf: forge-of-destiny
+position: 424
+ownLength: 1665
+unit: words
+publishedAt: 2024-05-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1657520/interlude-invocation"
+royalRoadId: "1657520"
+---
+
+She was Cai Renxiang, heiress of the Emerald Seas, and it took everything in her power to not put her face into her hands and scream. This undignified urge had been coming to her with greater regularity over the last year, but rarely had it risen to the intensity that it had now.
+
+"I apologize, Sir Jia. The Cai are resolving this matter with the aid of the Ministry of Integrity. I cannot share any further information at this time for security reasons," Cai Renxiang repeated. Again.
+
+The man who had bustled into her office was Jia Shu. He was a minor member of that clan who had not been involved in a large part of the talks. There was sweat on his brow as he looked at her with ill-concealed frustration.
+
+"Lady Cai, I have been most patient with both your retainer and yourself. The Jia family feels that our interests are well enough represented, but if there is a military matter afoot, then I must demand that we be informed. It is the very bedrock of the new order that the comital clans are able to coordinate and respond to threats!"
+
+She pursed her lips. It was a frustrating argument because it was true. The Cai clan, via its head, the Duchess Cai, had risen to its ducal status in part due to the Hui’s failure to coordinate the comital clans against the cloud tribes’ incursion.
+
+Gan Guangli shot her a concerned look. He had been handling his assigned duties well, but at this point, disputes were rising above what he could soothe.
+
+Cai Renxiang made her decision. At this late hour, there needed to be some communication. The pieces were already moving.
+
+“Sir Jia, I assure you that there is no external threat.”
+
+Jia Shu's thin eyebrows drew together. "No external threat? Lady Cai, the White Plumes are moving!"
+
+"No external threat, my friend," Gan Guangli said heavily.
+
+The man standing in front of her desk stopped, his eyebrows climbing. "Who would dare?"
+
+He sounded genuinely aghast, as if the notion had truly, sincerely never entered his mind. The ones most loyal to her Mother were a difficult bunch, but not in this way.
+
+"The Cai clan and the Ministry of Integrity will be certain to find every name connected with the current business. It is for that reason that I must order you to not raise any further noise on the matter, Sir Jia," Cai Renxiang said gravely. "In this, I do invoke my honored mother's name."
+
+"Of course, Lady Cai! This humble servant of the Cai would not seek to disrupt such an investigation." The man swept an elaborate bow. "While my Jia clan might quibble in the details, this matter was sanctioned by Her Grace, and to act in defiance of it is unconscionable for any patriot of the Emerald Seas."
+
+"I have never doubted that you are such, Sir Jia," Gan Guangli said. "You understand why I could not give a clearer answer when we spoke outside."
+
+"Indeed I do. My apologies for my earlier words, Baron Gan. Know that they came from a place of concern for our great Emerald Seas."
+
+"I do not doubt it," Gan Guangli replied diplomatically.
+
+Cai Renxiang believed that pride was at least an equivalent factor. The Jia were ever on edge about opportunities for contributions since their patriarch had gone into seclusion. However, it would be impolitic to say so.
+
+"Nor do I, Sir Jia. Thank you for your understanding. Given what you now know, I would ask that you remain in the embassy until this matter is resolved."
+
+She glanced to the side as the security formations on the room twinged in her thoughts. A paper messenger bird fluttered at the window. It resonated with the White Plumes' official qi signature. She gestured, and the wards and window alike opened to allow it through.
+
+Jia Shu glanced at it as well and bowed low again as he caught sight of the mark on the messenger. "Of course! Lady Cai, this Jia Shu will be at the ready should the heiress require any further security."
+
+"My thanks."
+
+She let the messenger land in her hand. As their guest left and the security shut behind him, it unfolded. Her eyes scanned Ling Qi's somewhat scrawling handwriting, and she felt as if the world had gone still.
+
+Her retainer was a madwoman.
+
+"Lady Cai?" Gan Guangli questioned, not quite leaning over her in concern.
+
+"Gan Guangli, go retrieve Sir Jia. I have messages to send to the other comital clans."
+
+"What has distressed you so?"
+
+"That girl is trying to die again," Cai Renxiang replied gruffly.
+
+Let this not be the time that she succeeded.
+
+***​
+
+It began in earnest when the sky turned the color of bruised flesh and when the cold, dry mountain air filled with a humid, choking wet.
+
+She stood in the courtyard of the Luo compound looking up at the sky. It was impolite to call a gathering of the comital clans at the home of one of them rather than neutral ground, but of the compounds which were not compromised, the Luo had the finest defenses against mental contamination.
+
+Wang Lian also looked at the sky where clouds churned. "So some rotten fool actually did it, hm? I'd thought they might actually be able to wait out that generation."
+
+"Are you not too calm?" Jia Shu was wringing his hands. "We see treason before our very eyes. Not since the Chu—"
+
+Cai Renxiang interrupted sharply. "Baroness Ling Qi has been working closely with the Ministry of Integrity, our own intelligence assets, and loyal Meng. This is not the treason of a clan, but the last gasp of traitors seeking to tear us down as we ascend to our rightful place among the provinces. Do not give them victory."
+
+"Indeed!" Gan Guangli slammed his fists together with a crash. "Though the hours ahead will be challenging, we have the rat drawn from its burrow now. We need but weather what comes next and not allow our guests to come to harm!"
+
+"The treason of an individual is just as unforgivable, but Lady Cai, Sir Gan, you are right. Just when we have found such unity in conquering the Wall once and for all, we cannot let this falter here!"
+
+Behind them, the earth shaking tread of a great hound and its heavy breath filled the courtyard. The great hound that Luo Jie had brought with him sniffed deeply at the air while the many other hounds further inside the compound barked in agitation.
+
+"Such foolishness from one who should know better." Luo Jie's gravelly voice was somber. "This power… His mind has gone rotten. Shame on his caretakers for allowing this."
+
+"You recognize the traitor?" Jia Shu asked.
+
+"I knew him once. He’s as arrogant as ever, that Meng Delun."
+
+"Sir Luo, I ask that you aid in the defense of the valley. I invoke the oaths of the Luo clan to the Cai," Cai Renxiang said. "Preserve the lives and health of all within the summit grounds to the best of your ability."
+
+It was not lightly done to give commands to one so far her superior in cultivation. Despite his advanced age, Luo Jie was the highest realm cultivator on their side who was unoccupied by other tasks.
+
+"Doubts remain, but the south has not been united in purpose before. It would be disappointing to see that end over an old man’s tantrum."
+
+"Thank you, Sir Luo."
+
+"It is not my way to defend. Fate is so twisted, to reverse roles on us in such a place."
+
+Luo Jie’s fingernails grew, thickening and sharpening. Muscle writhed under the thin man's skin, and veins and tendons bulged unsettlingly as his limbs began to swell with power, sprouting thick hair. Silver fire flickered, rising from his right hand where it clutched the head of his cane, up his shoulder, and across his face, showing the shade of a snarling, beastly muzzle.
+
+The disorganized barking in the compound kennels ceased.
+
+“Lady Wang, I command your aid as well in preparing defenses," Cai Renxiang continued, letting the tension and turmoil in her heart remain buried even under the swell of power in the air.
+
+The bruised sky rippled, and a searing hot line of flame erupted in the dome of heaven. Clouds were blown away, and a wash of withering heat beat down on the valley.
+
+"Sir Jia, I ask you to accompany me as well in mustering the house forces in support of the White Plumes."
+
+"Of course." Jia Shu thumped a hand to his chest. "I put out the rallying call the moment Lady Cai made the request!"
+
+"As did I," Wang Lian grunted. She hunched her shoulders as the pressure in the air increased. A storm of wind erupted from another fractal crack briefly forming in the sky. "Hn. Sir Luo, do you invite me to fortify your walls?"
+
+"I do," Luo Jie answered. He towered over them, nearly three meters even with his hunched shoulders. A growing silver mane only added to his height. His voice was a reverberating snarl from an increasingly inhuman throat.
+
+"Sir Jia? Lady Cai?" Wang Lian asked.
+
+"Take command,” Jia Shu said. “The Emerald Seas stands as one!"
+
+"I give Lady Wang all authority over the defensive works," Cai Renxiang said. "Go."
+
+"Best show these foreigners that my matriarch is not the Builder for no reason." Wang Lian stepped past them, pressing her hand to the courtyard gate before stepping into it without even a ripple.
+
+"Assuming command."
+
+Wang Lian’s voice echoed from the trees, the building stones, the gate, and even the wards and the road outside.
+
+"Guangli, we march," Cai Renxiang said.
+
+With Gan Guangli on one side and Jia Shu on the other, they left the compound behind to meet the soldiers mustering outside. At their backs, a score of howls rose in unison, shaking the boiling sky.

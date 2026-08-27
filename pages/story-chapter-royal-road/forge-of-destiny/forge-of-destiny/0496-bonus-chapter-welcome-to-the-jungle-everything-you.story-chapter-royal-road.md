@@ -1,0 +1,103 @@
+---
+id: 2572ca0d-73e9-5821-b5b9-4ab9b50651d3
+page-type-slug: story-chapter-royal-road
+title: "Bonus Chapter Welcome to the Jungle: Everything you Want"
+slug: 0496-bonus-chapter-welcome-to-the-jungle-everything-you
+partOf: forge-of-destiny
+position: 496
+ownLength: 1238
+unit: words
+publishedAt: 2025-06-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2325988/bonus-chapter-welcome-to-the-jungle-everything"
+royalRoadId: "2325988"
+---
+
+Thunder cracked, wood split and groaned, and the buzzing voices of insects shrieked at such a pitch to make mortal ears bleed.
+
+Ji Rong’s fist burned as it cratered bark-y flesh and powdered bone, snapping the blood-red ape's head to the side with a neck-breaking crack. Muscle tore, but bone held, and the body rocketed off to slam into the side of a tree ten meters off to the side of the road.
+
+“Come on then!” he roared, setting his feet, and resetting his fists, bolts of blinding actinic light scorching the stone under his feet and the leaves overhead.
+
+Behind him, the caravan train he’d been riding with rocked under the rain of stones and boulders hurled from the trees, the bright crimson-painted wood groaning. Its closed shutters rattled, its frame shuddered, but aside from a few flecks of paint scraping off, the structure held. All around, the battle cries of his fellow guards echoed from the jungle.
+
+The Heart Rending Apes barrelling up the road toward him faltered in their loping charge as the crack of thunder from the leading ape's body vacating the area faded.
+
+And Ji Rong stepped right into the press of bodies.
+
+Drive his fist into a belly, hear the sizzle of burning guts as lightning erupted, slam a backfist into a turning beast's face to the sound of crunching teeth. Receive a blow. Endure the groan of straining bones. Hands big enough to palm his head seize his arm, fists hammer down. Burning spit and an eardrum-shattering roar wash over his face. Feel his blood twitch against his will in his veins, feel his heart strain as lifeblood thickens and clogs his veins.
+
+Stare the big fucker hanging back ripping at his blood in the eye.
+
+And become the lightning.
+
+Lightning flows. Lightning pierces. Lightning goes where it wills, without fail.
+
+Burning hair. Charring meat. Apes scream. A young dragon's roar descends.
+
+And Ji Rong’s sparking fist punches through muscle and skin, bashes through ribs, and punctures into what feels like a lung, going by the rush of rancid air that escapes as he rips his fist back out in a shower of gore.
+
+Pfah. His arm was too short to punch out the back.
+
+The massive ape tried to bellow, and it came out as a wet, bloody wheeze. He caught a fist bigger than his torso on his upraised, blood-soaked arm. Behind him, Refeng circled the pack of lesser apes he’d punched through, claws flashing, lightning falling from the churning storm clouds summoned by his circling coils.
+
+“Picked the wrong target, ya fat fuck,” Ji Rong scoffed, tensing his legs, drawing lower as he pushed the apes wildly swung fist out of the way, and leapt upward, flipping backward to slam his foot into the apes jaw with a thunderous crack. His ears ringing from the sound, his foot dug into its cheek as he launched himself back, flipping in midair… and struck downward as a blistering bolt, he struck, and struck and struck, fists battering into the staggering ape’s skull rapidly, cratering divots in flesh and muscle cracking bone.
+
+A massive hand sought to grab him and burned in the lightning he became as he crashed like a comet.
+
+It took three dozen hits after that for the thing to stop twitching and pulling at his blood.
+
+He was soaked up to his elbows in gore and sweating like a pig to boot. Fuck he was looking forward to getting back to the basecamp. Ji Rong glanced over his shoulder; the sounds were fading, the stragglers were scattering.
+
+Ji Rong cracked his neck and hopped down from the corpse before spinning, giving it a final kick and sending the massive lump of steaming meat bouncing off the road to crash into the underbrush.
+
+Felt good to do a day's work. He appreciated that.
+
+“Brother! I see you were victorious!”
+
+“Course I was,” JI Rong scoffed, lifting his arm, letting the young dragon rushing down land along his shoulder, body shrinking down to fit. “See, you cleaned up well, too. None of ‘em got past you?”
+
+“Never, None shall make this Relong a liar, and my oath of protection is inviolate,” the proud little bastard scoffed. The dragon's head did shift to the side, staring down at Ji Rong’s gore-soaked forearm and fist.
+
+“Brother, are you going to eat that?”
+
+“...No.”
+
+Dragon tongues felt a lot like a cat’s. Just another weird fact he knew now.
+
+They made their way back to the caravan, and Ji Rong was happy to set himself down while the foraging staff swarmed out to take what could be quickly harvested from the dead apes before something else came sniffing after the blood and meat.
+
+“Young sir, my appreciation for your prompt action and bold defense.”
+
+“Just doing my job,” Ji Rong replied. “Same as all the other guys.”
+
+The man in front of him, Zeng Cao, was a rugged old man. Dark whiskers shot through with white, his head shaven, and his face looked like it was made from old boot leather. The rich silk of his robe spoke of wealth. The hand-length fangs woven into the ornamentation of it, still pulsing with old, deadly power, spoke of strength.
+
+“And I will be thanking them as well!” Zeng Cao chuckled. Fourth realm. Nothing else would do for a caravan Master in the Red Jungle.
+
+He’d felt a stirring of resentment when he’d first started this, the big guys ‘sitting back’ to let the second and third realms work… But he got it. There was a reason the vehicles had all stayed secure, even under hurled boulders.
+
+It just made sense for the ones who could fight to strengthen themselves rather than having gramps here wipe all their asses for them.
+
+He knew the old man wasn’t afraid to rumble if something too big came along.
+
+“Gimme the pelt off the big one, the knucklebones too,” Ji Rong added, answering the yet unspoken questions.
+
+“Hah! You earned its heart as well, young sir, though I know you don’t care for it. I’ll have the spine preserved for you instead. Better for the lightning, aye?” Zeng Cao said, amused.
+
+“Indeed! The spine holds the channels by which thought flows to the body of the internal lightning; you should not be so modest, brother!” Relong said.
+
+“I know you will enjoy some hearts, young master,” Zeng Cao told the young dragon. “Fifteen minutes, young sir.”
+
+“I’ll be ready,” Ji Rong said lazily. He probably shoulda not pulverized the head. Brains were good for heaven aspected pills he guessed? Felt kinda gross even if it was all dried and powdered first, though.
+
+Zeng Cao nodded cheerfully, striding away to speak with the others on guard duty, collect their requests for materials to pass onto the harvesters.
+
+“You’re taciturn, brother. Does the victory not please you?” Relong asked, leaving off his shoulder to peer at him head on.
+
+“Just got my mind on other stuff. Looking forward to getting back to the base camp,” Ji Rong dismissed. He didn’t like lying to his bro, but some things were bad enough just existing inside his own skull.
+
+Like what Ling Qi had told him about Sun Liling, back at the Summit.
+
+What the hell was he supposed to do about that? It’d been a month now since that whole crazy thing.
+
+He still didn’t have a single damn idea.

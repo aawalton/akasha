@@ -1,0 +1,147 @@
+---
+id: 6272cf49-0c91-54c6-88d7-f38165b080f4
+page-type-slug: story-chapter-royal-road
+title: "Threads 194-Liminal 3"
+slug: 0226-threads-194-liminal-3
+partOf: forge-of-destiny
+position: 226
+ownLength: 2463
+unit: words
+publishedAt: 2022-03-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/860181/threads-194-liminal-3"
+royalRoadId: "860181"
+---
+
+They landed without a sound on the crumbling courtyard in front of it, and Ling Qi found her eyes wandering to the withered trees and gardens. There was a deep melancholy here beyond the association of bare branches and dead flowers. Yet, in the corner of her eye, she could catch the shimmer of dreams, of people and life in what she knew instinctively to be the modern Sect. This was no abandoned ruin like she had went to with Bao Qian.
+
+It was an echo and a reflection.
+
+Somehow, she understood that it was on the edge of fading, and that one day soon, a new layer would appear atop it, and no longer would it rest upon the top of the tottering heap of human construction.
+
+Without a word, she entered the dusty hall, Sixiang tagging along behind. In the smaller, humbler entryway, she pushed through skeins of shadow and mist in the shape of people, letting the whispering thoughts that held them together brush off of her mind. She came to stand before the Sect’s work board at the rear of the hall, looking at curled and yellow paper still clinging here and there.
+
+She brushed her fingers across one, uncurling it and revealing the crumbling wax seal of the Argent Peak Sect.
+
+It was good to be away from the clan. Away from relatives who looked on with disdain and cousins who sneered for his lack of ambition.
+
+Ling Qi shook her head, the scent of ink filling her nose.
+
+Home. This was home, not the cold and stifling manor house. Here in the library, she could study and research without concern for status among her sisters and dull men that she despised.
+
+She pressed a hand to her temple, grimacing as whispers beat against her concentration.
+
+It was good to be irrelevant. To not matter in the games of counts and duke. Here, children could be children for a time, not mere weapons and tools in the sharpening.
+
+He raged at the blank walls of the hovel they called his home, incensed that his family would banish him to this backwater. What use was there in these sleepy scholars and decadent philosophizing? A man wielded the sword against the foes of the Empire!
+
+Ling Qi let out a sharp hiss, banishing the whispers. Around her, the shades who had begun to gather scattered like dust before a gust of wind.
+
+“Yeah, you’ve got it,” Sixiang praised. “But there are a lot more where those came from.”
+
+“I’ll keep that in mind.” Ling Qi knew from studying basic history that the Argent Peak Sect had been a minor institution once, a place for arts and formation research like so many minor sects still were.
+
+“A place to dump people who can’t or won’t get with the rat race,” Sixiang said mirthlessly, pacing around the room and peering at the faded paint upon its walls.
+
+Ling Qi knew that, but she hadn’t really considered what it meant. She remembered that elaborate “temple” Xuan Shi had taken her to, which hadn’t even been an artificial tribulation but just a game for couples. It had seemed so absurd and frivolous that she had put it out of her mind.
+
+She wondered what it must feel like for the handful of elders who remembered to see their home transformed so completely. It was sad that the world didn’t allow kind things to exist for long. You had to be strong to be safe, and to be strong, you couldn’t afford such leisure.
+
+“Not everyone has to be powerful,” Sixiang disagreed. “I don’t think things would be better if they were.”
+
+Ling Qi turned away from the job board. “That’s what Renxiang wants, I think. Maybe the foreigners have the best idea of it. The strongest go off to be spirits and protectors and leave everyone else to their own devices.”
+
+“Of course, it’d be rough to convince anyone of that if they’re not already doing it,” Sixiang noted.
+
+“Let’s keep going.”
+
+At the back of the hall, the floor crumbled away into a twisting maze of broken foundation stones, supporting beams, and pieces of roofing. For the first time in many months, Ling Qi found herself physically picking her way along narrow paths and unstable footing. She couldn’t move here as she could outside.
+
+Descending didn’t change the pressure of whispers on her mind, but they were less clear and less forceful here. Soon, she found her way out onto a wooden span, sticking out of the maze-like pile like a loose rib poking out of an unmarked grave. It gave her a greater view of the ruins that spread out below, built or carved into the side of the titanic tree.
+
+It was a chaotic sprawl, uncounted layers of buildings piled impossibly atop each other. Roofs merged into foundations. The ruins hung like a dry and dead bush over the great platform of wood that supported it, and in the distance, she could hear the thunderous crumbling of material collapsing and falling endlessly into the mist below.
+
+“What are you looking for?” Sixiang asked, standing beside her and looking out over the twisting labyrinth of castle, city, village, and more. Below, in the jumble, the streets thronged with both shades and faeries who lit the mad streets with their silver glow.
+
+“I’m not really sure,” Ling Qi admitted. “I want to see what I can learn from the past, but I don’t quite know where to begin.”
+
+Maybe she was thinking too hard about this. If there was any place to simply follow her impulses, it was here.
+
+She trailed off as she felt a warmth in her hand and glanced down to see the compass. Its face was lit from within, and the crystal shard inside had stopped spinning and instead, vibrated in place, pointing out towards a mountain of jumbled palaces and rickety tree platforms.
+
+The whole city shook, and she saw a wide boulevard below split apart, spilling junk and ruins to either side as something sinuous and scaly surfaced. Its back was iridescent green and shimmered with psychedelic color. She saw a reptilian head surface far in the distance before plunging back into the ruin.
+
+It was burrowing in the same direction the crystal was pointing in.
+
+Ling Qi leapt down. Wind, dust, and whispers rushed past her ears as she twisted in midair, angling her body to land atop the rushing scales of the behemoth below. Wind bent and hardened, and this time, she jumped again off planes of hardened air.
+
+Her feet struck the moving scales with a hard crack, and Ling Qi felt the vibration of impact shooting up her legs, forcing her to bend her knees to absorb the force. She skidded backward, the soft soles of her shoes sliding along the scales as if they were polished marble.The wind from the creature’s movement shoved her backward as well, resisting any attempt to control it. It was only as she neared the downward curve of the creature’s back that she managed to hook her fingers into the seam between two scales.
+
+There, teetering on the edge of a fall into the chaotic ruins below, she finally stopped, wind whipping at her hair and clothes. She laughed.
+
+“You're definitely getting in the spirit of things!” Sixiang laughed as well, and only then did Ling Qi realize the muse had a grip on one of her sleeves. Sixiang was weightless and flapped freely behind her like a wind sock on a festival day. As she glanced back, the muse shimmered and shrunk, scrambling up onto her shoulder, no bigger than any of the infant faeries she had seen.
+
+“Going to make me walk for you?” Ling Qi asked archly, squinting ahead.
+
+“Why not? I’m here for you, and I’ve been told walking is overrated,” Sixiang shot back.
+
+Ling Qi grumbled and straightened up. Now that she had dealt with the initial impact, the tugging wind could no longer push her so long as she was careful of her steps and mindful of the smoothness of the scales under her feet. Moss and dirt clustered between the scales, providing just enough of a grip.
+
+She peered at her surroundings, the near modern construction whizzing past in her periphery, and the beast under her feet. It wasn’t a snake, she realized. The back was too flat and wide, and deep in the detritus, she caught the churning of a stubby limb off to her right.
+
+Ling Qi squeezed her eyes shut for a moment, and after a few seconds of careful consideration, she opened her mind to the dreams in the screaming wind.
+
+My lord duke, the Li family will serve you faithfully always. The honor of being granted the three central passes is more honor than this humble one could possibly deserve.
+
+Miserable, bloated parasites crouching in their web. It is we who should rule the Emerald Seas. If only the other clans could see past their own selfishness, we would be free of their yoke.
+
+Ling Qi shuddered, feeling resentment and murderous intent slither across her mind like dripping tar.
+
+Not only have the barbarians been driven off with few casualties, my lords, but the Li clan’s physicians have further refined our arts, and we freely tribute our newest methods. Even flesh and bone may be a canvas for the incomparable artisans of Hui now. Together, our glory will be everlasting.
+
+These jackals grow fat off the labors of our hands and our minds. When was it last that any Hui walked the battlefield? Faced the barbarians? No, if they had ever deserved it, they are unworthy of Xiangmen’s throne, my bretheren. Contact with the Patriarch Wu has been established, and we are certain that we have evaded the webs. Of the southern lords, only the Chu’s disposition is unknown, but I am wary of contacting a man who so clearly dotes upon his Hui spouse.
+
+Her eyes opened a crack, and she saw out of the corner of her eye the black silhouette of a mountain in the distance rising from a sea of debris. A great tunnel yawned through its center, and for all that it was only stone, she felt like she stared into an open bleeding wound.
+
+She let out a breath, contemplating those surface whispers and their implications. While it didn’t much improve her opinions, it shifted the pieces in her head a little. Assuming the fragments of dream were more than the whispers of madmen and radicals imprinted long after their deaths, the Hui’s intransigence gained a patina of sensibility.
+
+“It’s always been weird to me,” Sixiang commented, jarring her from her thoughts. “Why did you chase after the Hidden Moon before coming to Grandmother? Was it just because of Auntie?”
+
+Ling Qi pursed her lips as she continued to walk along the great behemoth's back. They had passed the churning legs and reached the widest part of the scaly spine, and ridges as tall as she rose, making her weave through the angular forest of scales.
+
+“I think it was at first,” Ling Qi said thoughtfully. “It just seemed ungrateful not to give her some due. Even now, I still just like her.”
+
+“I get it, but you have to admit it’s kinda flimsy to hang a third of your cultivation on.” Sixiang pinched her ear with tiny fingers. Ling Qi swatted at them, causing the muse to cry out and tumble from her shoulder, only to appear on the other.
+
+“You’re not wrong,” Ling Qi admitted. “But I think I’m starting to get it now, and I understand why I didn’t before. The Hidden Moon is the second born of the eight, isn’t she?”
+
+“That depends on who you ask.” Sixiang cocked their head to the side. “What does it matter?”
+
+Ling Qi hummed to herself, listening to the whistling whispers that rushed by. “I never really left Tonghou. Not for the longest time. Even as I got stronger, as I made friends with Meizhen, fought nobles, and learned from spirits… Even when I swore myself to the Cai, I hadn’t left yet. My mind was still back there, spending every moment panicking about how I’d survive the next day. I’m not quite sure when that changed, but once it did, there was room for other things. I think that’s why the Hidden Moon was second. Once you know you can survive, the first question you start to ask is ‘why.’ I started asking that question more, and now, I don’t think I want to stop.”
+
+“Look at you, getting all philosophical. I’m not supposed to do that: ask ‘why,’” Sixiang confided. “I’ve already existed way longer than most muses spend in one identity. It’s weird to have a past and a future. It hurts.”
+
+Ling Qi grimaced. “Sorry—”
+
+“Nah, none of that. I’m the one who decided they’d stick with you,” Sixiang dismissed airily. “You’re my artist now. No take-backsies. Even if you do turn into a nerd like Auntie.”
+
+Ling Qi rolled her eyes. “I think I’d be doing pretty well to end up like Xin.”
+
+“You wanna marry a crotchety fashion disaster?” Sixiang asked, screwing up their face in mock confusion.
+
+“Not like that. But she’s powerful, beautiful, and smart, and she isn’t…”
+
+Ling Qi thought of burning radiance barely hidden by a mask of human flesh and the sound of Renxiang screaming.
+
+“Aunt Xin’s not a bad goal to shoot for,” Sixiang agreed. They brightened up then. “Still, maybe I should start going for a brighter wardrobe?”
+
+“Please don’t.” Ling Qi made a face.
+
+Under their feet, there was a tremendous rumble, and everything shook. Parts of the maze city shook, and untold tonnes of debris and ruins spilled from the branch, raining down into the impenetrable mist below. Meanwhile, the direction of the burrowing beast changed, its path curving away from the dark tangle of manors and buildings where her compass still pointed.
+
+In the distance, she saw a rising shadow, and she glimpsed the silhouette of the behemoth’s head. It was wide with a blunt snout and a thick neck. She remembered the sound of insects crawling over each other, and the sight of regenerating flesh stirring with verminous life in a cave deep under the earth. A flash of bright jade green, the opening of one of the creature’s tremendous eyes, fell upon them for only a moment.
+
+It made her think of her little brother.
+
+She shook her head as she leapt off, drifting like a leaf on the rising wind as she floated toward the mountainous pile of twisted construction. This was not what she was here for right now.
+
+“Seems like this is our stop,” Ling Qi said.

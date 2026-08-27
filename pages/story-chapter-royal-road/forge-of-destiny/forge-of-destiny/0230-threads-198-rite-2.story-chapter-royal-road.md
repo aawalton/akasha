@@ -1,0 +1,127 @@
+---
+id: ae6c6e75-2645-5f43-865d-236f795c51e1
+page-type-slug: story-chapter-royal-road
+title: "Threads 198 Rite 2"
+slug: 0230-threads-198-rite-2
+partOf: forge-of-destiny
+position: 230
+ownLength: 2602
+unit: words
+publishedAt: 2022-03-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/866577/threads-198-rite-2"
+royalRoadId: "866577"
+---
+
+Chao Yanlin stared at her, and Ling Qi squared her shoulders, meeting the older woman’s gaze. Finally, the priestess said, “You cannot be serious. I have heard of your expertise. Surely, you could simply take up the missing part?”
+
+“I am very serious,” Ling Qi said. “While I do not have your support, Priestess, I have experience wrangling upset spirits. I am certain the Seven Hills Stream can be brought to an amicable agreement in overlooking this error. I will not risk my junior sister's success in integrating myself into something so complex on such short notice.”
+
+“The management of a spiritual ecosystem is not something which can simply be… done on the fly!” Chao Yanlin exclaimed incredulously. “Spirits are not merchants which you simply haggle with to arrive at a new agreement. Even this performance is an unnaturally swift change. Now, you wish to disrupt things even further? Even if you succeed, it will disrupt all other agreements!”
+
+“Spirits are more malleable than you imply. Regardless, this is the only way I see for the festivities to go off without disruption,” Ling Qi said. “What can you tell me of the Seven Hills Stream?”
+
+Hanyi smirked smugly behind her, and the priestess looked up at her with much more intense dislike. “Arrogant girl. Why should I have expected otherwise? It is not your people who will suffer for this.”
+
+Ling Qi blinked at the unmasked and blunt hostility of her words. “High Priestess, I have no intention of causing difficulty for the people of the valley.”
+
+Chao Yanlin’s frown smoothed away, leaving her expression studiously blank. When she spoke, her words were short and clipped. “The Seven Hills Stream is wide and shallow. It runs down from the high peaks and weaves between the seven eastern hills. He is patron to prospectors, who he gifts signs of lodes and veins in his sparkling waters. He is as vain as any of his siblings, but suspicious of flattery. Praise him sparingly. Do not speak his name last in any sentence which refers to more than one spirit. He loves the things which mortals make from his spoils, but despises disorder.”
+
+Ling Qi pursed her lips as the woman turned to go, and she offered a stiff bow. “Thank you, High Priestess.”
+
+The woman gave her a dark look over her shoulder. “I am only doing this to begin with because my uncle wishes to play for the favor of the Bao. Know that regardless of his wishes, I am reporting your interference to the Ministry of Spiritual Affairs. If you wish to play at our duties, then you may suffer our responsibilities as well.”
+
+Then she was gone, bustling off, surrounded by attendants.
+
+Ling Qi felt a small tug on her sleeve and looked down to see Hanyi looking up at her with a crestfallen expression. “Thanks, Big Sis. I’m sorry I messed up.”
+
+“You didn’t mess up. Someone is messing with us,” Ling Qi said darkly. Her first instinct to accuse the priestess felt off. “Just perform well, okay? Big Sis will take care of the background stuff.”
+
+“Okay,” Hanyi said, setting her expression in determination.
+
+“Um, Baroness…” The meek voice of an initiate drew her attention away. “Would you like me to show you the way?”
+
+“You don’t need to,” Ling Qi replied flatly. She was going to get to the bottom of this. To Sixiang, she thought, <Send a message to Bao Qian. Someone is trying to sabotage us. Tell him to keep an eye on things.>
+
+<Got it, boss,> Sixiang replied.
+
+She strode away from the initiate, passing through a door and out onto a balcony overlooking the eastern part of the valley. With the name and the knowledge of the spirit's nature and a passing understanding of the geography she had passed through on the way here, it would not be difficult to find.
+
+I don’t need to go there physically, I suppose,” Ling Qi murmured.
+
+“I alerted Bao boy,” Sixiang said. “What’s the plan?”
+
+“We’re going on a little jaunt,” Ling Qi said. She slid a foot forward, feeling at the fabric of the waking world, and stepped through the balcony.
+
+She emerged in a clear blue sky without end filled with countless drifting leaves. Some were tiny, normal curls of autumn color. Others were tremendous leaves the size of ships' sails and every size in between. As she immediately began to fall, Ling Qi felt her foot alight on a palm-sized leaf, spinning soundlessly in the sky. It made a crinkling sound as she pushed off of it, jumping to a leaf nearby, and then another and another.
+
+“I’m glad you’re getting into this quickly, but I gotta ask why.” Sixiang asked. When next her foot fell on empty air, it rippled like the surface of a multihued lake and her next leap carried her much further.
+
+“Two reasons,” Ling Qi replied, catching the edge of a drifting red leaf and using it to swing forward, sending the giant thing spinning. At its core, she saw the stylized ink paintings of people moving through their lives, preparing for the winter. “If I travel physically, I will need to explain myself to more people.”
+
+“And the other?” Sixiang’s voice asked her, coinciding with a gust of wind that carried her across a wide gap in the falling leaves.
+
+“Less people know that I can do this,” Ling Qi said bluntly.
+
+“Ah, that’d make sense,” Sixiang said. They materialized ahead of her, perched on a boat-sized leaf spinning lazily in place, hovering on unseen currents.
+
+The muse reached out, and Linq Qi caught their hand, landing on the leaf to peer at her surroundings. She closed her eyes, letting the words of the spirit's name resonate in her head, not merely the syllables of the imperial tongue that made it up, but the faint resonance they left in the world.
+
+Her senses resolved the feeling as the gurgle of water flowing over stones. Ling Qi turned toward the “sound” and leapt again, dashing through the endless autumn sky. Soon, from the way she came, she began to feel ripples of power, the soft strains of a song, and a cold breeze. Hanyi’s show was beginning.
+
+Ling Qi picked up her pace until at last, solid shapes resolved in the distance. High misty peaks and sheer cliffs, verdant and green below and capped with white above, appeared. The sound of crashing water emanated out from a wide stream that fell gracefully from the higher cliffs to splash down into a wide pool before flowing further down. Here in the dream, there was no bottom, and Ling Qi suspected that should she climb, she would never reach the peak either.
+
+Grasping the points of a falling leaf, Ling Qi drifted down on the breeze to land on a great mossy boulder which sat by the edge of the pooling water. Ling Qi breathed in the mist-filled air and the scent of earth and greenery as she stepped up to the edge of the waters. Opening her eyes, she studied the mist and the way it curled, her eyes tracing the infinitesimally small fractal patterns which shaped it.
+
+She gazed down into her reflection in the water and watched as it stared back and cocked its head. Water rippled, and the patterns rearranged themselves.
+
+<Lay low,> Ling Qi thought to Sixiang as her reflection rose from the water. Composed of clear spring water flecked with a thousand touches of gold and silver that refracted the light, it observed her with luminous blue eyes.
+
+By now, she could feel the ripples of the ritual more clearly and hear the echoing snippets of Hanyi’s song. The cold wind was growing. As she observed the spirit, the first flakes of snow began to fall.
+
+“Honored One, Resplendent Stream of the Seven Hills, I greet you,” Ling Qi said formally. She brought her hands together with a clap and bowed at the waist.
+
+“Whence and wherefore comes Headwater’s Maiden on the day of play? Does it wish to dance under moon and sky? Does it come with glittering toys of cleverness?” The spirit’s burbling voice was difficult to understand. It echoed weirdly, rising not from the reflected avatar, but from the water and mist and stones, a hundred echoes speaking over one another. Its words were confused, seemingly unused to speaking human tongues. “Go and come again. Mine festivities arrive, and I would drink.”
+
+“Honored Seven Hills Stream, I have regretful news,” Ling Qi said, paring down her flattering phrasing. “The singer of winter winds and the little folk were deceived terribly, and your rightful praises will not come today.”
+
+The mist and water grew still, and the watery avatar's luminous eyes flared, a point of darkness appearing as pupils at their center grew into pools. Ling Qi bit her lip as the ground trembled and the thunder of the waters grew louder.
+
+“But,” she continued loudly, letting loose her grip on her own power. The mist around her darkened and cooled, snow falling in a growing circle as she stared down the spirit. “I am here. I will make amends for this error, Spirit of Falling Waters.”
+
+“You come from the high peaks, as the Encroachment’s winds that freeze our waters,” the spirit rumbled. “You are not they. Pacts must be fulfilled by their makers. Overstep? Does the Maiden of Night Skies think she a tyrant?”
+
+Ling Qi let her aura settle down, the circle of snowfall no longer expanding. While showing her power was necessary, force and intimidation were not useful tools here. Power brought with it respect, enough to be heard, but she could not simply be a blunt instrument. “I do not seek to rule you, O river,” she said. “I wish to speak as a peer to a peer. These are not my lands, but the deception which wounds you was a sling aimed for my heart. Does this not grant me the standing to speak on the matter?”
+
+The watery avatar’s head shifted from side to side, and it stepped forward into the circle of her power. Thin skins of ice formed and melted, creating a rustling crackling sound as the face that mirrored her own was pressed close. “Harm, harms, words spoken many of outside harm, of the Sky Children who burn with Father’s lightning, and of wars and wars. You are the cold of high vales and white peaks, not the salt and earth of valley and stream.”
+
+“The lord of this land has granted me leave to speak,” Ling Qi replied, a slight twist on the truth. By Chao Yanlin’s word, she had been given latitude for this event, though she doubted Lord Chao had meant it to go so far. “Again, as thy peer, I ask that you speak to me regarding the injury done to you by my foeman.”
+
+Her own words felt weird and archaic, but they just came out that way as she spoke with the river spirit’s face barely a centimeter from her own. She did not flinch as a glittering tongue of silver water snaked past its parted lips, tracing her features. She did, however, prepare her defenses in case it was more than mere perception.
+
+“Your sound tastes true,” the spirit said grudgingly, drawing back. “What then do you bring to salve this wound?”
+
+Ling Qi breathed in. Her foot was in the door here, but she had to be careful. She couldn’t offer anything that the spirit would take as repeatable. It needed to be a single thing because she could not promise something that would require her to come back here again and again. A sacrifice then, or a service.
+
+Ling Qi knew instinctively that an offering of something trivial would not be enough. Here, ensconced in the river spirit's power, she could feel along the channels that defined him. With the High Priestess’ words in her mind, the pulsing lines of earth and metal made that clear. He loved mortal craft, but it was for the effort which went into its make and the value of the craftsman’s effort. A trinket she had no part in the making wouldn’t do.
+
+No, it would have to be an item of power, and she had few enough of those and none she wished to give up. She considered offering her effort to perform a task, but so many responsibilities—the diplomatic summit, the war, establishing herself and her family’s name—loomed ahead. She didn’t have the time.
+
+All that remained was to offer some of her own power, the energy she had cultivated to empower herself, and something in her balked at that. To surrender even a sliver of her hard earned power made the darkness in her veins twist and pulse.
+
+But it was the right choice. If she satisfied the spirit, Hanyi would be able to continue her performances and grow her reputation. Ling Qi could look at the region's nobles and smile, saying that there was no problem not easily resolved.
+
+Cultivation was key. Without it, she was nothing in the eyes of the Empire, but it was not the only power. It wasn’t enough on its own, not unless she wished to live alone.
+
+“Spirit of misty hills and cold waters, for your forbearance, I offer you a gift of my power, as the melting snows feed your headwaters,” Ling Qi said stiffly. Her words echoed with deeper meaning, a defining of the amount offered for which the human tongue had no sufficient words. “A gift, once and done, not to be repeated. And with this gift, I offer the bonus of knowledge that I will seek the one which inflicted this embarrassment upon the both of us.”
+
+Even if it was the reasonable thing to do, that did not cool the coal of anger burning in her chest. She had not been prepared for unseen enemies to interfere already. Not in something as separated as her junior sister's performances.
+
+The inky black pupils at the center of the river spirit’s luminous eyes expanded and contracted unsettlingly as the river spirit stared her down. Ling Qi did not allow herself to blink or shift her posture. Confidence was key, whether dealing with humans or spirits. She was not here as a supplicant or tyrant, but as a peer.
+
+“Vengeance promised in darkness of old winter satisfies. Waters run cold and shallow with freezing. A slaking of thirst Seven Hills Stream does accept from nameless scion of mists.” The river spirit’s garbled voice echoed in the mist. There was still a note of dissatisfaction in his voice, but she could sense that the river’s temper was cooled for now. No surge of power flowed through his channels which would bring flood and ruin.
+
+Ling Qi let out a breath she had forgotten she was holding and reached out a hand. The river’s avatar rippled, and a sparkling tendril of water shot out, curling about her wrist. Pain shot through her arm like hungry teeth digging into her flesh, and a surge of numbness followed as qi flowed out like draining blood. Ling Qi grit her teeth and held her pose, pulling back on her qi to control the flow.
+
+Ling Qi could not say how long the transaction took in the realm of dreams, but she felt the moment that she had fulfilled her bargain, and she flared her qi, pulling back against the spirit’s thirst. Ice crackled across the surface of the river spirit’s avatar.
+
+She held its gaze before the watery tendril slid away.

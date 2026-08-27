@@ -1,0 +1,147 @@
+---
+id: cae34c8e-0f56-5178-81f6-e7bf4a4d7b6a
+page-type-slug: story-chapter-royal-road
+title: "40 - The Return"
+slug: 0040-40-the-return
+partOf: gamer-girl-evolution
+position: 40
+ownLength: 1642
+unit: words
+ownProgress: 1642
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2920656/40-the-return"
+royalRoadId: "2920656"
+markedReadAt: "2026-06-29T20:06:51.641Z"
+---
+
+Before her eyes, a familiar battlefield reappeared. To the left, she could see the barracks where an army had previously been stationed. To the right, she could see where the Rift Toad's army had been.
+
+A small sigh escaped from her lips as she analysed her surroundings. She got up from the floor, stretching as she did. The smile on her lips and her energetic movements were enough for anyone to tell she was happy to be back.
+
+Suddenly, a voice cut through the silence.
+
+"Hey, is that really the Troll Killer?"
+
+Then, another voice responded. "Seems like it. Didn't think they'd ever make it back."
+
+The first soldier turned and waved into the distance before doing a series of hand signals. "I'll call the Captain over."
+
+I guess they stationed guards here to wait for my return. That's nice of them.
+
+"No need to call him over," Celica said casually, as if it was of no importance.
+
+"Huh? Are you sure? Captain Thorne said you'd be exhausted after fighting your way out of that realm, and he even prepared a horse for you. You don't need it?"
+
+Celica shook her head. "But thanks, anyways." In front of their eyes, Celica got up and began making her way towards the mist military outpost.
+
+"Are you sure you're... well, okay..." The soldier's words were caught in his throat as he watched Snapped Sword seemingly teleport around the battlefield, appearing next to Captain Thorne in a matter of seconds.
+
+"Hey, is it just me or has he gotten faster, despite all the fighting? Aren't people supposed to get more fatigued from fighting?" The soldier said, turning to his companion.
+
+The other soldier shrugged before replying. "Most people."
+
+***
+
+"Oh, you're back so soon!" An elated voice cried out from in front of Celica. It was a tone of voice which usually wouldn't come off as natural when it was coming from such a serious person. Yet, considering the occasion, it didn't feel weird. But, it was still slightly startling.
+
+"To think you made it out of the Rift Toad's evil clutches so easily. I can't imagine how perilous the trials you faced must've been. Filled with traps and hundreds of monsters. My earlier appraisal wasn't wrong, you truly are reliable!"
+
+"Thank you, Captain," she said,  smiling cheerfully in response. Even if it was an NPC, it felt nice to be welcomed back in such high spirits. "I assure you, the Rift Toad's trap wasn't nearly as dangerous as you might've thought. And besides, there's often some opportunities which can be exploited, even in the most unfortunate situations."
+
+And in my case, even the word 'exploit' doesn't do justice to the weapon I came back with. Perhaps, the word 'heist' would be more accurate.
+
+"Trust the brave Champion of the Marsh to not only survive in such a situation, but to even find an opportunity. Truly reliable!" Captain Thorne paused, before bowing his head slightly. "I'd like to thank you for returning my children to me in one piece. Juno and Balthus are plenty grateful, too."
+
+Celica waved it off. "It wasn't anything special."
+
+Hearing Celica's words, the Captain almost fainted but decided to keep his poker face steady. Inwardly, he was thinking, defeating two whole armies, a mutant  and then needing to need to escape from an alternate dimension isn't anything special?
+
+"As I said previously, I don't have any more rewards which I can offer you, but..." his hand moved to his chin, and he began rubbing it pensively. "On floor 3, my name carries weight. Take this emblem."
+
+[You have obtained: Captain Thorne's Emblem.]
+
+"It's an item you can use to get out of a tricky situation, in case you encounter any unfavourable situations with nobility."
+
+Seeing the emblem, Celica froze. No wonder I felt like I recognised the name. So he's an NPC which usually appears on floor three! If it works how I think it will, this emblem will definitely come in handy.
+
+"Thank you, Captain. I'll take good care of this. I wish you and your children well."
+
+Celica nodded, happy with the outcome. Then, before his eyes, she vanished into the mist.
+
+"Farewell, Champion." The man, raised his arm, angling it perfectly. A show of respect in the form of a trained army salute for the departing hero of the outpost.
+
+***
+
+"Ahhh..." a light sigh fizzled out of Celica's lips. "What a wild ride!"
+
+In a single day she'd: helped Ingrid with the main quest; completed the main quest herself; killed the Cyclops; cleared a blacksmith sub-quest; fought off two armies, a mutant and cleared a special dungeon.
+
+It'd be a lie to say she was currently in peak condition. Simply put, she was tired. Exhausted, even.
+
+[Celica: "Hey, you still awake?"]
+
+She waited for several seconds, then she got a reply.
+
+[Ingrid: "Somehow. This game has some interesting cooking recipes. I've been reading some for fun. Did you know once you become a 1* chef, you can cook monster meat? But before then, anytime you cook monster meat it'll be poisonous?"]
+
+[Celica: "Oh, you're getting into the game's lifestyle stuff. I thought you might like that kinda content, it's the closest to real life, after all. Wanna go for some food?"]
+
+[Ingrid: "Sure."]
+
+With a smile, Celica shared her map with Ingrid, pinpointing a specific location. Seeing the location chosen, Ingrid replied with a question mark but Celica ignored it.
+
+She was quite tired, but she hadn't eaten yet. And she thought it'd be a nice time to talk a bit more with Ingrid. Especially since she'd already planned out the remainder of her time on floor 2.
+
+Up next she had some blacksmithing to do, forging armour with some of the materials she obtained from the Rift Toad. Then once she was done forging she'd coin grind. After that, she'd grind for coins. And finally, she'd farm coins.
+
+To put it plainly, she had a lot of coin grinding ahead of her. Floor three was a floor which was completely different to any of the previous floors. On that floor, money in the game showed its real value.
+
+The bright side to coin grinding heavily on this floor was that in the future she wouldn't have to coin grind anymore. At least, not in the same way she had to on floor 1 and 2.
+
+"Hello, earth to Celica?" Ingrid said, waving her hand around Celica's face.
+
+As if she'd been woken up from a trance, Celica's eyes widened. "Ah, sorry about that. I spaced out."
+
+"No worries."
+
+"You certainly seem more energetic."
+
+"Do I?" Ingrid smiled. "I guess you could say that. Do you know much about the lifestyle roles in this game? I want to learn more about them."
+
+"I do. I can tell you more about them as we eat." Celica pointed to the restaurant they were outside of, beckoning Ingrid to enter it with her.
+
+Ingrid paused, both of her arms forming an 'X' symbol. "This is the most expensive restaurant in Marshia..."
+
+"Oh, you actually know about this place?" Celica said, inwardly surprised. Earlier, Ingrid hadn't known almost any locations in Marshia, so she gave her a tour.
+
+"It was in one of the cook books, and anyone can tell from the outside how prestigious this place is. This is one of the only 1* star restaurants where they serve gourmet monster meat, Marshia's Food Treasury!" Ingrid's eyes lit up as she described the restaurant in front of her.
+
+"I knew you liked cooking but this..." Celica paused. "Anyways, it's fine. I'll pay don't worry."
+
+"No, no it's too expensi—"
+
+Without warning Celica grabbed her hand, and started moving towards the entrance.
+
+"With me here, you don't have to worry about money." Celica's eyes drifted to her inventory. Though she knew she definitely needed to do a lot more coin grinding for floor three, that was only because she planned to make huge purchases, which would set her up for the rest of the game.
+
+But in terms of buying power, she was still the number one on the server. Even the most expensive restaurant on floor 2 wasn't a problem for her.
+
+Reluctantly, Ingrid sat down and picked up the menu. As the menu lifted off the table, Ingrid's jaw dropped onto the table. "S-s-silver coins..."
+
+Seeing the exaggerated reaction, Celica almost burst out laughing. Their antics drew gazes and stares from the finely dressed, noble-looking NPCs, but they both didn't pay it any heed.
+
+"Order whatever you like." Celica said with a wide smile. When she saw Ingrid's hesitance, she doubled down. "I insist."
+
+Ingrid's eyes scanned the menu. Nothing immediately jumped out at her, since she hadn't seen half of these dishes before.
+
+Noticing this, Celica spoke up. "How about you try this. It tastes like the lasagne you like."
+
+After some slight consideration, Ingrid decided to go with Celica's recommendation. Celica ordered a different meal, the second most expensive one worth 40 silver coins. Not because she was a vain person, but because cooked monster meat gave special buffs. And the one she'd chosen boosted recovery time, albeit only slightly.
+
+Once the food arrived, they began talking. Enjoying a nice, heart-warming meal in a virtual world. It was a much needed cool off for Celica, and a nice change of pace for her too.
+
+While they were conversing, Celica told her more about the different lifestyle roles, classes and pathways. Ingrid listened to Celica's explanation attentively. She'd seemed to have found what she preferred to do in game, and Celica was happy for her.
+
+Once they'd both finished, Celica paid the bill and they both went off to their inns. When Celica finally reached a nice, warm bed, she instantly passed out.
+
+She needed a nice, comfy rest for the long grind ahead of her tomorrow.

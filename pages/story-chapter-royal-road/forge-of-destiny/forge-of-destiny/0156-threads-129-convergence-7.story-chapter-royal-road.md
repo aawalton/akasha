@@ -1,0 +1,99 @@
+---
+id: da5b2413-64ec-5cfc-b4cb-c98dc36a0752
+page-type-slug: story-chapter-royal-road
+title: "Threads 129-Convergence 7"
+slug: 0156-threads-129-convergence-7
+partOf: forge-of-destiny
+position: 156
+ownLength: 1961
+unit: words
+publishedAt: 2021-09-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/749040/threads-129-convergence-7"
+royalRoadId: "749040"
+---
+
+The roaring of beasts and the sound of song drowned out all else.
+
+Snarling beasts leapt, stalked and crawled over one another to get to the enemy. They were a veritable lake of fur and feathers and claws. Yet the shishigui was like an island in that lake, unmoved by the lapping of the waves.
+
+That was starting to change. Ling Qi could feel it, a burgeoning warmth, the notes of her own melodies growing stronger and more pronounced, their volume rising. Below her, Ruan Shen strummed his instrument, and a second lute whirled wildly around him, playing itself, a one person duet.
+
+From their supporters, twin flying swords, one carved of rock and the other of steel, shot out and were parried by whips of filth, carving sizzling arcs through the air. Yet as the armored creature strode forward, a shadowy beast, eyes aglow with the light of spring, lashed out and scored a line across scorched armor with its claws.
+
+Above her, Cai Renxiang's star blazed, and Ling Qi felt her dantian burn. Power rushed through her meridians, and she felt light surge through her. She knew at this moment that she looked like no more than a wraith of liquid shadow outlined by burning light. She sang the Hoarfrost Refrain, and the creature slid back on the frosted stone, patches of flesh on its crossed arms blackening from the cold.
+
+Roots lit by incandescent green light from within erupted from the caldera wall overhead, and the barbarians nearly crashed headlong as they tried to gain altitude and instead met the same harsh refrain from a younger voice and missiles of stone and steel.
+
+Despite Cai Renxiang’s scouring light, the air darkened and putrefied. Black droplets sizzled and boiled under the radiance but did not evaporate. It burned Ling Qi’s lungs with every breath, it sapped her qi, and it left her skin itching. She heard the fan-wielding girl below her cough, and her breath emerged as a mist of red.
+
+Whips of frothing filth put all other thoughts from her mind. Even as she sang her Hoarfrost Refrain, she was spinning in midair, dodging to avoid their touch. The lashes had split, two becoming four, becoming eight, becoming sixteen. Ling Qi bit back a scream as one carved across her back, its acid touch dissolving every defence to leave a line of blistered skin and tattered silk.
+
+Everyone scattered to avoid the lashing tendrils. Ruan Shen scooped up the coughing girl under one arm and vanished in a burst of flower petals, and the young man wielding twin swords shielded himself beneath a dome of stone that burned with Cai’s light. Zhengui rumbled and endured, volcanic ash already drifting from his shell.
+
+Hanyi fell, her song dissolving into a scream as a whip carved through the mass of snowflakes she had dissolved into. Hanyi rematerialized in an instant, clutching her neck where an ugly black welt stretched across her throat.
+
+The caldera shook with the stamping of paws and hooves, and the air vibrated with roars and brays of reveling beasts, a hundred voices raised not in cheer but demand. Ling Qi’s song rose into the shriek of a blizzard, rising until it became the silence of the End.
+
+The shishigui vanished in an explosion of snow and rime as every droplet of moisture within a dozen meters flash froze. The cloud of snow exploded outward. Steam rose from a rippling armor of liquid filth that wrapped around the creature like a second skin. Chunks flaked off from it into mounds of filthy slush, revealing unharmed armor and flesh.
+
+Cai Renxiang fell upon him even as he raised a hand toward her. Ruan Shen’s melody rose to crescendo, and Cai Renxiang’s colorless radiance blazed like a second sun. Liming’s spiritual shriek reached such volume that Ling Qi felt her ears ring, and as Cifeng’s edge met the beast's upraised bracer, the floor of the caldera shattered, and the ground beneath the creature's feet sank downward three full meters.
+
+Deep in the smoke and dust, Ling Qi heard a thump as a single armored claw fell to the ground.
+
+Another beat of silence ensued as the smoke cleared and revealed the shishigui, his right arm severed halfway to the elbow, black blood pouring from his stump. Cai Renxiang hovered overhead, sword already rising again. Ruan Shen and the others stood at the rim of the crater to her right, and on her left, Zhengui hunkered down surrounded by a writhing rampart of wood, Zhen curled protectively around Hanyi.
+
+Above, only the barbarian musician remained, battling a half-dozen disciples, who leaped and fought from the platforms of wood that Zhengui had summoned from the caldera walls.
+
+It was at that point that the sky tore open.
+
+Despite the danger, despite the anger and adrenaline and everything else, Ling Qi found her attention dragged upward to the clear blue sky above the raggedly torn clouds. The stars were falling. Ten thousand burning lights lit the sky and drowned out the sun. Her senses burned at the raw power born above her, each one fit to shake mountains and obliterate towns. The pressure that fell upon her, seeking to crush them all to the ground, was so much worse than that day in the New Year’s Tournament, the will of a greater cultivator to kill far surpassing the power unleashed in a spar. The stars fell, and in that moment, Ling Qi knew fear.
+
+She could not escape the light that would cleanse the mountain.
+
+She could not endure the burning heat of the sun.
+
+She could not protect even a single thing.
+
+All she could do was die.
+
+A temple gong rang, and a corona of golden light consumed the sky. A tremendous palm shining like liquid gold, large enough to cup White Cloud Mountain in its grip, rose into the sky. The stars fell, and a titan of gold caught them in his hands.
+
+Standing astride two peaks, one foot upon each mountaintop, vast and shining and stretching kilometers into the sky, there was Elder Bei Yongrui. His robes hung open, hundreds of meters of silk trailing from his waist, baring a body that was as thick with muscle as it was with fat. Around his neck, the thick prayer prayer beads he wore had transformed, each one a globe of liquid white flame a dozen meters across. His hands were clasped before him in prayer, and behind him floated one hundred titanic golden hands.
+
+So that was what Gan Guangli was going for, Ling Qi thought absently.
+
+Awareness of her own fight crashed back down as the elder’s presence shielded them from the mind-blanking presence of the enemy's elder. Ling Qi’s attention snapped back to her enemy, and she saw Cai Renxiang sailing backward, carried on a cresting wave of black sludge only slowly parting before Cifeng’s edge.
+
+Even as the world began to shake apart from the clash above, she saw the shishigui kicking his own severed arm up into the air and felt another thrill of dread as she felt the power gather in the twitching severed limb.
+
+Sacrifice. The shishigui’s most powerful arts involved sacrifice.
+
+Atop Zhengui’s shell, Hanyi, still cradling her wounded neck, dissolved, pulled back into her dantian. Around her, she felt the disciples activating their defensive techniques. Cai Renxiang’s radiance bloomed, and her features were lost, leaving only a silhouette of light as she plowed through the sludge and leveled Cifeng, a great bulwark of colorless light blooming between them and the swelling knot of corruption. Ruan Shen’s fingers danced across the strings of his instrument so quickly that they trailed flames, and all the caldera was filled with flowers and revitalizing qi. Ling Qi channeled the stillness of the lakes, and darkness bloomed as she summoned the Black Mirror.
+
+It wasn’t going to be enough.
+
+Ling Qi’s Mist stirred.
+
+Energy drew in. Light curdled, air warped, and the qi of the world screamed. The forward edge of the blast appeared as a roiling miasma of gaseous sludge, rapidly expanding outward. She felt a sharp spike of pain through her dantian as the stillness of the Black Mirror technique first rippled and then shattered, the force of the explosion barely reduced.
+
+She felt her phantoms wail, and even as they threw themselves at the shishigui in fury, their limbs dispersed into mist. She felt Sixiang strain, trying to resist the shredding of her constructs.
+
+Ling Qi saw Cai Renxiang being pushed back, her blade screaming against the edge of the pressure wave. Zhengui pulled his limbs into his shell so quickly that it might have been comical in another situation, but any humor fled at the still deep cracks in his shell oozing magmatic blood. Flowers bloomed in a circle around Ruan Shen. They withered faster than they bloomed, even as his eyes burned green, the sheer vitality of spring cleaning a shrinking sphere of air around him.
+
+She felt the terror rising from the other disciples, turning away from their battles, knowing that their techniques would not be enough. Her hair started to burn, and she felt her hands, exposed to the air, start to blister. She would endure, and her friends would endure, but so many of her allies of lesser cultivation would not.
+
+And even if they weren’t her friends, Ling Qi really didn’t care for that. Her fellow disciples could be obnoxious, but they were people. They didn’t deserve to die out here to this monster's desperation move.
+
+Overhead, a curving ebony blade rang with new vigour, and the Mist grew deep. Ling Qi had read that in some distant vales, the mist never cleared, and the earth never knew the unfiltered light of the sun. Here and now, her Mist had to become like that, a Thousand Year Impenetrable Mist.
+
+Ling Qi felt her awareness spread far beyond her body in the thickening mist. Zhengui, she wrapped in her arms, and he vanished behind a wall of mist. Cai Renxiang fell beneath her sleeve, tendrils of light mingled with a mantle of shadow. Ruan Shen’s bright spring grew cloudy, and petals bloomed under friendly rain. For the others, she had less attention, but the train of her gown shielded them all the same.
+
+Then the impact struck, and Ling Qi found her awareness very much in her own body as she was tossed backward, tumbling end over end. Her layered defenses shredded apart, and she only managed to hold onto the energies of the Laughing Flight of the Wind Thief, dispersing her tangled limbs into wind and reforming with her feet touching the caldera floor.
+
+Pain immediately assaulted her, and Ling Qi let out a hiss as she saw the burns on her hands and forearms and felt her qi gutter low, lower than it had been in a very long time.
+
+Before her was a crater. Twenty meters deep, it looked as if a huge scoop of stone had simply vanished. Her eyes flicked to Zhengui, struggling to his feet, his shell pockmarked and bleeding from a thousand cracks but still intact. Ruan Shen knelt in the midst of his flowers, breathing heavily as smoke rose from his raw fingers. He, too, was covered in ugly burns, and half of his hair was gone, but flesh and hair alike were regenerating in flashes of green. A half dozen other disciples lay scattered about, burned and broken by the shockwave, but they were still breathing.
+
+Above, a sphere of radiance floated, only to split apart into wings of light, revealing a frowning Cai Renxiang. The sleeves of her gown were gone, baring her arms to the shoulders.
+
+Of the shishigui and his barbarian allies, there was no sign.

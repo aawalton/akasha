@@ -1,0 +1,143 @@
+---
+id: 4e1c32ed-35ac-5b17-924f-bd71ed9804f2
+page-type-slug: story-chapter-royal-road
+title: "Threads 418-Taming Winter 7"
+slug: 0462-threads-418-taming-winter-7
+partOf: forge-of-destiny
+position: 462
+ownLength: 2111
+unit: words
+publishedAt: 2024-12-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1953675/threads-418-taming-winter-7"
+royalRoadId: "1953675"
+---
+
+Their journey into the mountains began early the next day. It didn't take long to return to the base of the mountain where they had confronted the faeries of the snowstorm the previous day, but now, it was time to go beyond that, up toward the mountain peak where the most potent concentration of icy qi slept.
+
+This was not going to be like the other confrontations. They were not going to overbear the spirit she could sense sleeping, cradled in a great gorge that cut into the mostly impassable mountains in this corner of the fief. Thankfully, the mountain was not its place of power and they had already tamed or contracted its component spirits, or even she would have turned back to do this when she had properly recovered, but the temporary site formed by the heavy winter clouds would be good enough to Communicate.
+
+The icy mountain was barren, all gray stone and gravel, streaked with frost and snow. Here and there, stone gave way to thin soil, and hardy boreal trees clung to the mountainside.
+
+Throughout the morning, they picked their way toward the peak, following narrow trails or scaling cliffs with Bao Qian's help. He shaped stairs and elevated pillars from the hard mountain rock, which grew more and more icy as they climbed. The rock was shot through with streaks of blue and white, frigid to the touch, even beyond the temperature.
+
+"Strange stuff,” Bao Qian analyzed. “Light and porous rock, but not quite like anything I'd recognize. I wonder how much of it is material property, and how much is just the emanations of the site."
+
+They had stopped for a rest just below the cloudline, a boulder strewn strip of barren clifftop. He crouched before one of those boulders, which looked like a single chunk of jagged, opaque blue ice.
+
+Ling Qi leaned on her junior sister’s shoulder to look at the boulder. "It is not actual ice—I can feel the cold qi in it—but the pattern and arrangement is wrong. Is it actually stone then?"
+
+"It is not certain it would retain its properties away from here though." Bao Qian dusted the snow off his knees as he stood up.
+
+Hanyi rolled her eyes. "You can take a chunk down with you. C'mooooon, I wanna get to the top!"
+
+Ling Qi could tell her little sister was agitated. The ice qi at the top of the mountain was potent. While Hanyi's last meeting with someone like her mother had not been inviting, she wondered at Hanyi's hurry. Was she just trying to get it over with?
+
+"Ruin my fun, will you, young miss? A man doesn't get to prospect for a novel mineral every day," Bao Qian informed her.
+
+"It’s a rock," Hanyi said dully.
+
+"Ah, but so is a spirit stone, and I know you enjoy what you can buy with those."
+
+"That's not the same at all. Big Sis, tell him!"
+
+"Please take a sample back with you. I'm afraid Hanyi or myself carrying it would taint the evidence for whether it's stable without a continuous source of cold qi," LIng Qi said instead.
+
+"Done." A rock chisel appeared mid twirl between his fingers.
+
+"Big Siiiiiiis," Hanyi complained.
+
+Ling Qi ruffled her hair. "No rush, little sister. I suspect we'll be up here a while regardless."
+
+It didn’t take long for them to get moving again, following a winding, natural path upward. They soon entered the cloud layer. The moisture hung thick and cold and heavy. Frost crystallized on their clothes, and the air Ling Qi breathed was so dense with moisture that she had to manipulate the air to strain it before she could breath it comfortably.
+
+The world was thin here. There was barely any barrier between material and spiritual space, up here where this small winter had settled in to begin its season over the valley and hills they now called home.
+
+"We're one step into the shallows," Ling Qi warned. In these clouds, her companions were only vague silhouettes, though Hanyi's hand resting in hers was good and solid.
+
+"I thought I felt a certain itch," Bao Qian commented. "Will it break through entirely you think?"
+
+Ling Qi considered their surroundings. The filmy feeling of the wavering border between real and dream brushed over her skin like a silk curtain flapping in the wind. "No. The mountain is too much of an anchor for that."
+
+"Thank the glittering one for that. I like a good stone under my feet."
+
+"Let’s just keep climbing. These guys are still circling us, waiting to see if we slip," Hanyi said. "Buncha jerks. Gonna need to teach ‘em more lessons."
+
+Ling Qi supposed they were. The Whiteout Wonderland, the faeries, and other spirits were all here. It wasn't a one and done chastisement; Hanyi would have to reinforce her authority again and again until it was as natural as which way the wind blew in spring. She gave her junior sister's hand a squeeze, and the three of them kept climbing. Cowed or curious, the spirits did not block the group's ascent.
+
+It was the better part of another hour before their heads broke through the top of the clouds, and they reached the natural foyer of the palatial cavern which awaited them.
+
+Their reflections gazed back at them from countless angles. There was a gash in the side of the mountain as if some giant had split it open, a cleave that went deep into the mountain rock on the northern side, and in that cave was an array of icy formations. Stalagmites and stalactites of reflective glittering blue ice protruded like jagged fangs. Frozen sheets rippled and cast rainbow light into the depths of the cave, like waterfalls captured in stopped time. All rested atop a cavern floor so mirror smooth that it looked like one could fall into it.
+
+And perhaps one could. It reflected the north after all. It reflected the great mass of ice and stone and dirt that was the little glacier nestled in these mountains. It was far smaller than that which fed Snowblossom, perhaps, but impressive in its own way.
+
+Bao Qian let out a low whistle, shading his eyes. "Now, that's a site if I've ever seen one. It's not fully material, is it?"
+
+"No.” Ling Qi shook her head. “I understand why the surveyors missed this, why I missed this. I might not have been able to navigate us here a few months ago."
+
+"A good find for you then, but not particularly exploitable. Shame, though it is a beautiful sight."
+
+"That depends on how our host ends up feeling about me." Ling Qi peered past her many reflections and into the mirrored floor. There was a strong connection to the glacier, enough so that she was certain the spirit of this place was also its manifestation, or at least one reflection of it. They'd have to tread carefully and politely.
+
+Hanyi stepped ahead of them, crossing her arms and tilting her chin back as she gazed into the depths of the cave. "Not even gonna send anybody out to greet us? Rude."
+
+Ling Qi chuckled awkwardly and placed a hand on Hanyi's head. "I think the spirits we’ve met these last few days have counted as its emissaries. Let’s move in and find a place where the spirit can be communed with. It shouldn’t be too far into the cave. Bao Qian, may I ask you to keep the defenses up? My sensory arts are mostly recovered, but my defensive ones, less so."
+
+"As you like. Are you certain we need to go into the caves? I don't doubt that your voice would carry from here."
+
+"It would, but that would be… less efficient?" Ling Qi tapped her chin. "The spirit of the peak and the glacier will hear us better inside."
+
+"I defer to your expertise." Bao Qian fiddled with a pouch at his belt, and his hand emerged with a single dark green gemstone, polished to a shine and many faceted. “Hold onto this, if you would. It will resonate with my techniques if they are needed."
+
+Ling Qi took the gemstone, weighed it in her palm, and nodded. The solid metallic qi latticed into it was easy to feel.
+
+"And one for the young miss, too."
+
+She observed Hanyi with a smile as the spirit held a similar gem right up to her eyes, looking greedily at its shine.
+
+They moved toward the cave. The air grew ever more frigid as they passed under the gleaming icy fangs, as if they were walking into the mouth of a beast.
+
+Their reflection in the floor was not a natural one. Under her feet, Ling Qi could see herself and the others trekking over the glacier. Their feet leftprints in the snowcap, and their misting breath was carried away on the lonely howling wind. She actually felt dizzied, as if she truly were in two places at once.
+
+They soon came to an open space in the glittering formations of the cave, a wide circle surrounded by pillars of opaque ice, where she could feel a strong thrum of icy qi. Their reflection upon the glacier stood before an icy spire of rock standing out like a spike driven down into the center of the glacier, a black crack in its center leading below.
+
+Ling Qi contemplated the floor before turning her eyes to an arch of stone on the far side of the cavern. Inky darkness which even her eyes could not pierce lay over a shallow natural stairs.
+
+"We'll go further," Ling Qi decided. "Down into the center of the spirit's power here."
+
+"Of course!" Hanyi proclaimed.
+
+Bao Qian sighed. "Of course."
+
+It would be dangerous, but it was important to present herself as a peer rather than a supplicant. Even if she wasn't quite there yet, she would be, and that was what any contract or rites would have to be based on. In the end, they had made Snowblossom theirs, and their neighbors would have to acclimate to that fact.
+
+Bao Qian peered at the stairs. "I assume attempting to light this darkness up would make negotiations worse."
+
+"I'd think so. That would probably be over the line of politeness."
+
+Ling Qi contemplated the inky, impenetrable darkness. It wasn't just a lack of light down there. She could hear what sounded like a woman softly weeping. It was an awful, melancholy grief that left her vision going gray. Distance yawned. All she loved was…
+
+Ling Qi flared her qi and removed herself from the stream of qi flowing out of that unmoving blackness.
+
+"Do you have anything which would help us stay together against spatial tricks?"
+
+Bao Qian stroked his chin thoughtfully. "Something of the sort. Let's see…"
+
+He clenched his fist, and there was a small pop. When he opened it, there were a handful of  rings in it, bands of polished iron, each set with little chips of something slate gray that wasn't quite stone and not quite metal.
+
+"Seven Star Lodestone Rings. I've been marketing them to foresters in some of the more hostile depths. They anchor you relative to their fellows and prevent distances from getting slippery. May not have the potency for the full force of this spirit though."
+
+"I will be able to speak to either of you, no matter the obstruction," Ling Qi offered. Plucking a pair of rings, she slid one onto her finger and passed the other to Hanyi. Circulating a little qi into the ring, she could feel a pressure pulling her hand toward the other rings, solid and reliable. "If attacks go active, we have other problems."
+
+Hanyi regarded the ring with a frown, even after she put it on, then looked up. "Maybe we should hold hands, too."
+
+Ling Qi took Hanyi's hand, remembering the last day in Zeqing's home. Holding her hand might not have been enough then, but they were both stronger now.
+
+Hanyi let out a childish huff and squeezed her hand. "You, too! I'm not getting my driver eaten by some dumb jerk!" She reached out to Bao Qian, making a grasping motion with her free hand.
+
+Ling Qi let out a snort of laughter before she could catch herself. Bao Qian looked aggrieved, sending the remaining bands back into storage. "Really, young miss?"
+
+"I mean, I guess you do other stuff, too," Hanyi said. "C'mon, just take my hand, okay?"
+
+"Please," Ling Qi pleaded, lowering her head.
+
+Bao Qian sighed and took her junior sister's hand. Then, together, the three of them advanced down into the darkness.

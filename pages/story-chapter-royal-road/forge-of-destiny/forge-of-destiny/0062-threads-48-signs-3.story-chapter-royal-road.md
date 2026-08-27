@@ -1,0 +1,183 @@
+---
+id: ad227052-50ab-5094-96ca-c614e052a397
+page-type-slug: story-chapter-royal-road
+title: "Threads 48-Signs 3"
+slug: 0062-threads-48-signs-3
+partOf: forge-of-destiny
+position: 62
+ownLength: 4308
+unit: words
+publishedAt: 2021-02-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/630093/threads-48-signs-3"
+royalRoadId: "630093"
+---
+
+Once again, she took an overwatch position as they began to make their way south, painstakingly searching for unusual qi in the soil.
+
+Below, her subordinates took on a triangle formation with Mo Lian at the head and the other two fanned out behind him. The search was rather dull to begin with. False leads led only to minor parasitic spirits or earth gasses tainting soil. She left the subdual of the former to Chun Yan, who was quick and competent about striking and cutting down spirits with strong thrusts of the spear she carried on her back. The three of them worked well as a team, strengthening her suspicion that the three were quite familiar with each other. Chun Yan was the spear, and Chang He was the shield. Mo Lian was the odd man out, acting to support the other two with a more varied set of skills.
+
+As they traveled further south however, the false leads dried up. There was a winding vein of something strange in the earth. Where it passed, grass and trees showed faint signs of withering sickness, and certain spirit beasts were more aggressive. It seemed that the more closely aligned a spirit was to earth or wood qi, the greater the effect. Even Zhengui reported feeling slightly queasy when he dug his roots into the earth where the strange taint passed. They struck down maddened beasts as necessary and kept pressing south.
+
+Eventually, the trail led them to a grey and withered valley filled with bubbling muck. The grasses and plants within were twisted and grey, save for tumorous patches of color that marked the bark of some trees.
+
+They had not been able to investigate peacefully. Blighted and glowing insects had swarmed out the moment Mo Lian had stepped over a seemingly arbitrary line, and it was only a swift activation of the Forgotten Vale Melody that had driven the bugs back. From there on, Ling Qi stayed with the group, her melody driving back the veritable carpet of chittering, sickly beasts that would have otherwise threatened to overwhelm them with sheer numbers.
+
+The sickness in the soil ran deep here, welling up from a depth far beyond her ability to sense. At the very center of the tainted valley, the mud gleamed with vibrant color from all across the spectrum, glowing and pulsing eerily under the darkening sky.
+
+Ling Qi had little desire to linger once they had found the center of the phenomenon. They dug for a time to see if the source could be unearthed, but it resulted only in a growing nausea among her subordinates. Even Ling Qi found her skin prickling under the strange glow, and perhaps it was only her imagination, but her gown rustled unnaturally, the trailing hems seeming to shy away from the sickly light.
+
+She had ordered the withdrawal after that, setting the three of them to set fire breaks around the valley. Once it was done, she had Zhen spray his venom across everything that was even vaguely flammable. When in doubt, purifying by flame was rarely wrong. That done, she resolved to mark down both the valley and trail of poison in her report and let someone more qualified deal with purging the taint.
+
+Once they had reached a safe distance, she dismissed the scouts to make camp. They would rest for two hours to recover their qi and then begin working on the rest of the region. As Ling Qi seated herself atop a flat rock to meditate however, she saw movement out of the corner of her eye.
+
+“Senior Brother,” she greeted calmly, refusing to rise to his bait.
+
+“Junior Sister,” Liao Zhu greeted in turn, seated on the trunk of a tree that hung crookedly from the cliffside on which she was perched. “I am glad to see your nerves remain in good condition.”
+
+“Of course,” she replied dryly. “Senior Brother, what do you make of what we found today?”
+
+“Ah, but that would be telling, Junior Sister. I am disappointed that you would seek to use your Senior Brother’s unmatched experience to pad your score,” he jested. She turned her head just enough to give him a flat look. He laughed at her, but his gaze sharpened. “It is somewhat concerning. This is not a matter for Inner disciples, I think. You did well.”
+
+“Have you ever heard of a falling star?” she asked, almost whimsically.
+
+Liao Zhu, however, considered her question seriously. “I have, and it is why I am concerned.”
+
+Ling Qi frowned. “Where have you heard of it? An old village tale like Chun Yan?”
+
+“Nay. My family is from the capital, Junior Sister. We have served the Dukes of Emerald Seas since the early days of the Hui.” He laughed. “Though our current Duchess has little use for physicians. Why, my father told me that she performed the operation to deliver your liege herself!”
+
+Ling Qi blinked and then shook her head. “You’re trying to distract me,” she accused.
+
+“Perhaps,” he agreed, the grin fading from his tone. “But I have spent many long hours watching and infiltrating the Cloud Tribes,” he said gravely. “There is an old tale, which they speak of in the same way that we do our Fishers, Diviners, and Conquerors. They say that pitying the plight of the men who toiled under the dragons, Father Sky summoned the brightest star in the sky, his daughter, to free them of their bondage. Before that star, the artifice and mighty works of the dragons crumbled like dust. When the dragons fell, the star elected to remain on Mother Earth and took a husband from among the freed tribes. She bore a son who would be their first leader. However, while the star was the daughter of Father Sky, she was not born of Mother Earth, and so they and their descendants were to be denied the blessings of Earth and live their lives in the Sky and the Mountains.”
+
+Ling Qi shifted uneasily at that abridged legend. “Do you think the Cloud Tribes really have a Sublime Ancestor somewhere in the Wall?”
+
+“There is no proof of such a thing,” Laio Zhu replied. “And you will be laughed at if you suggest it. Imperial scholars have long debunked their primitive myths, and the living dragons scoff at such stories.” She couldn’t help but feel that he was being a bit disingenuous with that statement. “But your Senior Brother is perhaps a touch paranoid.”
+
+“You’re pretty bad at setting the mind at ease,” Ling Qi said.
+
+“I am no such thing,” he denied in a voice full of wounded pride. “For that was not my intent. Be careful on the morrow, Junior Sister.”
+
+Before she could reply, he was gone.
+
+<He’s great to look at and all, but I think he likes that mysterious act a little too much,> Sixiang said flatly.
+
+<You’re not wrong,> Ling Qi sighed, closing her eyes to meditate. She couldn’t let herself get worried over stories. If a horde of barbarians came screaming over the border, she’d worry about it then. For now, she needed to plan the rest of the scouting.
+
+***
+
+“You sure this is what you want to do?” Sixiang asked, the breeze kicked up by their speech sending Ling Qi’s hair fluttering. “You decided yesterday that sticking together was better.”
+
+“It is,” Ling Qi agreed, looking down from the cliffside at the shrinking backs of her subordinates as they descended into the valley. “That’s why they’re staying in a loose formation while they do their tasks. They’ll be able to support each other.”
+
+“That’s not what I mean, and you know it,” Sixiang replied dryly.
+
+“I know,” she sighed, looking toward the south. “I’ll link up with them in the afternoon, but I need to check out the south. I just have a bad feeling.”
+
+“I guess I can’t tell you to ignore that. Adventure ho then, eh?” Sixiang called out.
+
+<You guys are so weird. It’s not like you’re going by yourself,> Hanyi huffed in annoyance.
+
+<Hanyi is right! There’s nothing to worry about!> Zhengui agreed.
+
+Hanyi wasn’t wrong, Ling Qi thought wryly, turning to the south as her feet left the ground. They weren’t far from the area she wanted to search, so she would not have to fly far. Their hunt for the source of the poison in the earth had already taken them to the southeastern quadrant of their assigned area. The edge of the zone was easy to see, little mountains, hills, and vales gave way to ramparts of sheer stone that rose up to pierce the clouds, marked only by occasional straggling patches of vegetation.
+
+As she soared over the land, Ling Qi had to wonder at that. Here, just south of the jutting peaks where the Sect made its home, the wall was green and vibrant, these stretches of verdant valleys and little mountains stretching across the landscape, interrupted by chains of much higher peaks. But go only a short distance further, and the Wall rose in truth. The peaks that rose to the south were massive things. White Cloud Mountain pierced the clouds at its peak, but the mountains of the Wall blocked out almost the whole of the southern sky.
+
+At least those mountains were not moving, Ling Qi thought wryly. They would all be in trouble then. Even still, there was something ominous and humbling about them like being in the presence of a higher cultivator. It brought to mind troubling thoughts about how very small she was.
+
+Now was not the time for philosophical quandaries however, so Ling Qi focused on her destination and flew ever higher. She had learned in her lessons that the Cloud Tribes preferred to make their camps near the cloud line. Camps above the clouds were more common for raiders, who did not have to worry about the survival of younger and less hardy individuals.
+
+With that in mind, Ling Qi flew through the clouds, the dense moisture failing to so much as wet the tips of her hair or the hems of her gown. Soon, she soared above the slowly churning cloudscape and began her search of the bare masses of stone that jutted into the sky through it. Without a spirit like her mentor, no snow could fall here, and yet many were still dotted with thick sheets of ice.
+
+The high mountains were a unique place. Very little lived or grew here, but what did was always strange and a little alien. She searched through fields of pale lichen as thick as the grasses below and soared over strange plants with pale fronds that rustled and seemed to follow her with their upturned leaves. At the very highest peaks where the sky began to grow dark and the faintest twinkle of starlight peaked through, Ling Qi did not linger long. There was no air fit for breath there, and even the world’s qi grew thin, making her skin prickle uncomfortably, similar to being in the presence of the source of that strange sickness she had ordered cordoned off.
+
+However, Ling Qi did not pay too much attention to the region’s natural features, and instead focused on what signs she could find of barbarian activity, any distortions in the natural qi left behind by their passage or old bones and the scorch marks on the ground from old campsites. She did not meet with much success.
+
+There were marks of their passage of course. She knew the tribes did not recognize Imperial borders, viewing the whole of the mountains as their domain. However, what she found were only old hunting camps, months old at best, certainly nothing that she could really follow up on nor anything that would legitimize the niggling ill feeling in her stomach.
+
+As the day wore on and the sun reached its zenith and began to descend without her having found anything, Ling Qi began to think she had just let her nerves from last night’s discovery and her Senior Brother’s little tale get the better of her.
+
+But then, as she began her descent toward the clouds, she caught sight of something out of the corner of her eye. It was far away, little more than a blurry dot, perhaps a bird or a spirit, but it drew her attention all the same. And when she turned her head and focused on it, she saw that it was neither of those things.
+
+Letting qi flood her eyes, Ling Qi saw a giant eagle with golden feathers. It flew in the sky, wings churning the clouds beneath it. More importantly, there was a man on its back.
+
+She recognized his dress from both stories and the simulation from Elder Jiao’s trial the year before. He wore layers of fur and leather, rendering his figure bulky and indistinct, but she recognized the peaked fur hat and bone mask which covered his face. She had only a moment to take in the sight before he dipped back into the clouds.
+
+Ling Qi paused then shot off in the direction that he had gone. Heeding Sixiang’s murmured words of caution in her thoughts, she blurred and faded as she activated technique after technique to cloak both her body and spirit from detection.
+
+By the time she slipped into the clouds after the barbarian, she was little more than a dark blur flitting between thicker concentrations of cloud. Even so, she flew as fast as she could, wanting to find the barbarian’s trail before it faded away into the ambient water and wind qi which made up the clouds.
+
+Soon, she found the trail he had left in the air. It was like the scent of a storm approaching on the breeze. She grew more cautious now that she had his trail, and she even caught a glimpse of the barbarian now and then, far ahead. He was in the third realm, but she couldn’t identify clearly what stage he was, if barbarians even cultivated their realms in the same way. His qi did not feel more or less potent than hers though.
+
+Luckily, the weather had been slowly worsening all morning, clouds bunching up to grow thick and dark, pregnant with rain. Here and there, thunder rumbled, and lightning flashed in their bellies. While it did make hiding her own qi easier, it also made her target harder to follow
+
+The barbarian was moving south still. They were swiftly heading toward the edge of the region she had been assigned to. After spending all morning searching for signs of barbarians, she was loath to give up pursuit. What if he was a scout himself, heading back to camp to give the all clear?
+
+Liao Zhu had surely seen him as well. Perhaps she could assume that he would message the Sect if he truly thought there was peril. If there was danger and she ignored it, that could reflect poorly on her. On the other hand, haring off after him could also be vainglorious like their Commander Guan Zhi had warned them off of, leaving Imperial lands and putting herself in danger for nothing.
+
+<It’s just one guy,> Sixiang voiced her thoughts. <Could just be a hunter.>
+
+She focused her attention on the qi trail she was following. The barbarian’s spirit didn’t taste of urgency or bloodlust, but there was a certain eagerness like an electric tingle on the wind. Through the churning cloud, she caught a glimpse of his flapping cloak in the wind. Ling Qi bit her lip, considering whether to follow him further.
+
+As the man she had been following flew up out of the clouds toward the mountain that loomed like a godly rampart ahead, the air changed. Arriving all too suddenly like a freak summer shower that unleashed a torrential downpour from a formerly clear sky, two other presences flew down from the mountain to meet him. Two more figures in bulky furs riding golden eagles flew down from the cliffs and across the sky to meet the man in mid air, and the power of their spirits was not less than his. Although she still could not clearly sense their level of cultivation, she estimated that these two were significantly stronger, somewhere between threshold and formation.
+
+Even as she thought that, she saw one of them stiffen in his saddle, straightening up as he turned his gaze to the clouds below where Ling Qi hid. Her eyes widening in alarm, Ling Qi immediately sank deeper into the clouds, darting between arcing threads of lightning to hide in the dark belly of the storm. Despite that, she saw the man raise a hand to the others and fly past, the wings of his eagle beating up and down as he flew toward her hiding place.
+
+Gritting her teeth, Ling Qi focused on tightening her hold on her qi and dispersing her presence through the shadows that suffused the stormcloud. She remembered the lessons she had learned in mastering the Sable Crescent Step and the techniques that she had applied to better dodge attacks, and she vanished.
+
+When the man flew through the storm, sparks of electricity dancing around the eye holes of his mask, he found only shadows, lightning, and a rumbling storm. Ling Qi watched him search and fly through where she was, her thoughts feeling as unfocused and detached as the qi that had been her body. It was not a comfortable feeling. It was like holding her breath as a mortal, and every second that passed sent a feeling like the burning of air-starved lungs through her spirit, and her focus threatened to crumble as her thoughts tried to float away like leaves on the wind.
+
+Yet the moment passed, and the man flew back to his companions, departing for the mountain from whence they came. Ling Qi collapsed back into a single shape, her shoulders hunched as she wheezed in a breath of moist, storm-charged air. Despite that, her eyes followed the barbarians toward the mountain. They were definitely out of her bounds, but…
+
+No, it wasn’t worth it. Even if she assumed that her estimation of the barbarians’ cultivation was too high, this was bad terrain. She had already put a significant drain on her reserves just by being in flight for so long, and she couldn’t even bring out Zhengui easily if it came to a fight. Not to mention, even if she did manage to sneak amongst them, she didn’t know any of the tongues of the Cloud Tribes, something she would have to rectify when she could find the time. While she could probably pick up some meaning by leaning on her comprehension of music, it wouldn’t be enough to make up for the risk.
+
+Ling Qi shot down through the clouds, keeping her qi as restrained as she could while moving at such speeds. Better to deliver warning back to her group and the main army left behind.
+
+As she descended, she considered what she had done in her moment of panic when it became clear that one of the barbarians had noticed her. It was not quite the same as her One with Shadow technique nor any other techniques that she knew. Even when she blinked from one place to another in combat, she didn’t quite disperse like that.
+
+Even now, her dantian burned, and her head pounded from the strain, but it really was just an extension of what she had already learned. In dispersing her aura to blend into the background and hide herself, she was already taking the first step. Still, to do the same with her actual body…
+
+<Are you thinking that bodies are more important than spirits? I’m hurt, Ling Qi,> Sixiang laughed, sounding flippant even though she could feel the spirit’s tension and watchful intent as they peered out at the world through her. <Well, I guess it is a big step for a meat-person.>
+
+Ling Qi wrinkled her nose at the gross appellation, even if it wasn’t wrong.
+
+<Obviously, someone who Momma taught would figure out something easy like that,> Hanyi said grumpily. <Big Sister should be more careful though.>
+
+<Sister should stop picking fights where Zhengui can’t help,> her little brother sulked.
+
+Ling Qi shifted uncomfortably even as she maintained her speed, flitting through the air back to the distant ground. <I probably would have been fine if it was just the first one or if he had just met a few first and second realms,> Ling Qi replied silently. <And I backed off, didn’t I?>
+
+<I think it’s fine. That first guy had no idea you were there, so why not tail him?> Sixiang asked, but they seemed less tense as Ling Qi soared down below the clouds.
+
+<I’m still worried,> Ling Qi admitted. <But I don’t think I could have gained anything worth the risk given my capabilities at this time.> Ling Qi knew that the Cloud Tribes could move incredibly quickly, many times faster than any similarly sized Imperial grouping. So escaping from them if she had been caught would have been very difficult. Maybe she could manage once she had begun cultivating the Wind Thief art, but as it was, she would have probably had to rely on using the final technique of Sable Crescent Step art again and again. Combined with the slow drain of flight, she could all too easily picture herself running out of qi, leaving her helpless and needing Liao Zhu to save her.
+
+There was no good in second guessing herself, Ling Qi decided, listening to the chatter in her head. She believed that she had made the right choice. Liao Zhu was no doubt aware of what she had seen as well, so perhaps it was best to leave matters to him.
+
+Moving at her full speed, Ling Qi left the impossibly high mountains far behind her in short order, descending to fly and then to run among the little peaks and valleys that were her primary assignment. Reaching her subordinates did not take long after that.
+
+They had made good progress on their assignment by the time she had returned, being more than halfway through combing the region. Using her superior mobility, it did not take long to signal them all to regroup and meet her at the bend of a stream that lay ahead. With Sixiang keeping a wary eye on the sky, she settled in to wait for them to arrive.
+
+It took only a few minutes for them to begin to arrive. The soldiers did not look like they had suffered much in her absence. Chun Yan was somewhat scuffed with a thin cut on her cheek and a few rips in her armor under the cloak. Chang He’s boots glistened with some kind of slime that smelled faintly of fish oil. Mo Lian was largely untouched, though mud spattered his boots and trousers. Overall, they were in good condition, showing only a minor depletion of their qi.
+
+“I won’t take too much of our time to explain,” Ling Qi announced as they arrived in the clearing. “I spotted three barbarians in the third realm meeting in the high peaks to the south. It was close to the edge of our range, so I was not able to confirm more. As such, we need to maintain a higher level of awareness, and keep an eye out as we work our way south.”
+
+Ling Qi was a little surprised at the reaction her words caused, or rather, the lack of it. She got three sharp nods and the usual verbal acknowledgement, but they seemed surprisingly unworried. She frowned, looking toward Chang He, the oldest of the three.
+
+“I would like to hear your thoughts, as well as any advice you have on defensive measures,” she said politely, triggering some muttering from Hanyi in her thoughts.
+
+Chang He raised his head, meeting her gaze with an even expression. “You have the gist covered, ma’am,” he replied. “We stay aware, but we don’t stop our mission. Likely as not, they’ll stick to their upper peaks, gathering and hunting. There are rare reagents up in the high peaks, and it is not as if we’re the only ones who want them. Even if not, we can’t outrun them. Earthworks and stealth are the best defense.”
+
+“I have an art which may be used for swiftly creating fortifications, ma’am,” Mo Lian added. “Should a group who is beyond us arrive, we can swiftly dig in and wait for the main force.”
+
+<Oh, I can help with that!> Zhengui chirped in excitedly.
+
+“My spirit can help, if it comes to that,” Ling Qi relayed. “I want to inform the main force as well. I know our overseer has the communication equipment, but…”
+
+“Master Liao has already sent off the message.” Ling Qi very deliberately did not jump at the smooth and cultured voice which spoke in her ear. Out of the corner of her eye, she caught a glimpse of silver mist, gleaming like a mirror. “Your situation is known.”
+
+A swift glance showed that her subordinates had not heard the voice nor noticed the mist. In her thoughts, Sixiang muttered something about a show off.
+
+“It seems that that isn’t a problem,” she said after what she hoped was not a noticeable pause. She clapped her hands together. “So! Let’s not waste any further time, and we’ll resume the survey. Mo Lian, show me the map you’ve compiled already, and we will see what I can do to speed things along.”
+
+All they could do now was complete their job and remain aware. Ling Qi held in a sigh. It was going to be a long and tense day. She hoped that her friends were having better ones.

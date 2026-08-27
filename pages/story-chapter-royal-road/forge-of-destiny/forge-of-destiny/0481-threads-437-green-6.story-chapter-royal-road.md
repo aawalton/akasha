@@ -1,0 +1,165 @@
+---
+id: 57d57191-f4c2-58e0-a7d2-67cb280805de
+page-type-slug: story-chapter-royal-road
+title: "Threads 437-Green 6"
+slug: 0481-threads-437-green-6
+partOf: forge-of-destiny
+position: 481
+ownLength: 1910
+unit: words
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2140439/threads-437-green-6"
+royalRoadId: "2140439"
+---
+
+Life coursing through deep black earth, as burning rain falls. Trunks bending and swaying under cataclysmic wind and rain. Splinter. Break. Shatter. Die.
+
+Persist.
+
+Green shoots rise from a splintered stump. Three die: one devoured, one uprooted, and one starving in the shade. The fourth grows, rises, armored in bark and pumped with verdant sap. Breaks again. Dies again.
+
+Persist.
+
+From broken stump, the fifth rises. Then the sixth. Seventh. Eighth. Ninth. A refusal of ruin.
+
+Persist.
+
+Roots grow deep and far. A hundred trunks, ten thousand leaves, a million shoots. Cataclysm roars, the deafening storm at the end of a world. The earth bucks and heaves, spitting the blood of broken continents. Shattered, burned, and broken, but roots remain. Will remains. Trunks, leaves, and shoots rise again.
+
+Persist
+
+Come Wrath. Come Ruin. Though form and body may break a hundred times, as long as will remains, you have not reached the end.
+
+Neither the jungle heat nor the conflagration of the earth or sky were her, but the scenes resonated all the same. She had seen the old iron evergreens clinging to life in the frozen mountains on peaks so cold, the air felt like razors in one’s lungs. They, too, sunk their roots deep, so deep into rock and gravel and ice.
+
+Persist.
+
+Scatter new needles, and come the sun, push new trunk from frozen earth.
+
+A scrawny, starving child, inelegant and ugly, dragged a broken limb into the safe shadows at the alley mouth. She was not the unruffled lake, though she found some value in its depths, the supremacy of formlessness and essence over flesh. She was, in the end, nothing so elegant. She was a stubborn thing who could only…
+
+Persist.
+
+Ling Qi sucked in a sharp breath as her eyelids fluttered, and her senses returned to the present.
+
+"Zhengui sees so much more clearly what Kohatu was saying now," her little brother murmured in wonder beneath her.
+
+Ling Qi rested a hand over her stomach. Since the end of the summit, she had felt the smoldering sparks of a sovereign's fire, and the spiritual ash it left behind had clogged her meridians. Now, she felt as if she could breathe without trouble for the first time in months. Her qi flowed without obstruction, and only a few small twinges of pain remained from a single, ruddy spark of sovereign fire flickering angrily at the bottom of her dantian.
+
+Ling Qi bowed low, even as she cautiously felt at the knot of sensations and memories in the back of her mind, left there by Kohatu's utterance. What she had seen and felt was only the surface of what she had been given. An art. Or at least, that was the shape her mind made of it after peeling apart the many, many layers of meaning embedded in Kohatu's notion of persistence.
+
+"Thank you for bestowing your wisdom."
+
+Kohatu's gaze was hard. "Needed. Sister-mother of my chIld. ToO frAgile. And he must learn, too. KnOw. CaNnot grow alone."
+
+"Gui will never grow alone," he promised. "But Gui’s wishes he could…"
+
+"I. CanNot."
+
+Her voice brought them pause. Ling Qi saw the blackness rising, clouding out the crescent of emerald in Kohatu's eyes.
+
+"AnGgerR rises. hAte rises. I canNot be free. I am sPIte. Thank you for good memory, good talk. I wiLl try not to lose it. BuT you must gO."
+
+Zhengui looked terribly upset. "Is there nothing I, Zhen, can do for Kohatu? You should not have to—"
+
+The beast let out a bitter burst of laughter, but there was fondness in it, too. "PeRhaps. AtaMai might still me. FreE me. No others. Not even yoU, child of rUIn."
+
+"... Okay," Gui acquiesced. "Goodbye, Kohatu. Gui will not forget. Sister will not forget. Please remember. You do not have to fight for this anymore."
+
+Kohatu stilled. Then, the dream shook as she whipped her head around and tore into the side of the canyon, sending them spiralling upward on the plume of dust as she resumed burrowing.
+
+She was all but fleeing.
+
+"She could not afford to believe you,” Ling Qi soothed. “Her rage could not allow her to stay and listen to such words."
+
+"I understand," Zhengui said. The jets of flame emerging from his shell roared, and they began to soar up and away, letting Ling Qi observe the way that the canyon of Kohatu's passage had been closing, layers of buildings crawling and shifting back together as if they had never been parted.
+
+This truly was a place of forgetfulness. It was a place for things buried and lost. Staying here too long would wear away even the living.
+
+"I can bring us back across," Ling Qi offered.
+
+"Gui would like to fly a little while longer."
+
+She didn't offer again. Her mind wandered back to the the imprisoned tortoise in the Argent Peak Sect. The sect had been her first home. It was never a perfect, shining place in her memories, but this apparent betrayal was another layer of tarnish. What could possibly bring such an act about?
+
+Maybe she should talk to Xuan Shi, and he might be able to speak with Elder Lang's sword more.  Was there another reason the elder's grave was like that? Such a sad, out of the way place without honors or recognition was strange for a notable elder.
+
+She sighed. The times just didn't line up, and it didn't help that Kohatu's memories were obviously warped and unclear.
+
+"I'm glad you could learn what you did, but I wish there were more for you. Zhengui, earlier, I did not mean to…"
+
+"Zhengui will not accept anyone saying that he is not Big Sister's child."
+
+"You are, and I am still sorry it took me so long to say it."
+
+"Zhengui has always known, but he is happy saying Little Brother and Big Sister. Changing now would be weird, and Hanyi would be dumb about it."
+
+Ling Qi chuckled, collapsing back into the seat. "I suppose."
+
+The layered city was shrinking behind them, and the infinite trees beckoned.
+
+She felt the Patriarch's attention on her. A crackling electricity tingled on her neck. Should she be worried about the sect?
+
+No, she decided after a moment’s thought. Her own actions had blunted any shame that could come from this story coming out. In the past, the only shame the sect would suffer was for harboring a barbarian at all. Now, even that would be blunted.
+
+The world could move in strange ways.
+
+***
+
+Ling Qi kicked her feet idly as she leaned over the rail of the balcony. The sun shone brightly over Shenglu today. Snowblossom lake was like a vast, deep blue mirror splitting the earth, visible clearly even through the churning mist of the waterfall. It was a wonderful view, but to Ling Qi even that was peripheral.
+
+It was amazing, sitting here without a single flicker of the chronic pain she had suffered for months. Every breath came naturally and without effort, her meridians flowing smooth with her cycling qi without any of burn or ache. Her respect for her friend Xiulan had deepened, knowing the girl had been dealing with such pain for two years now.
+
+"I had wondered if you would not come back with some new and exotic injury when you stated your intentions." Cai Renxiang stood at the rail near her, arms folded behind her back. Her eyes were fixed on the slowly growing township below, the docks spreading on the shores, and the motion of people through streets and buildings.
+
+"An arm melted off, the stump bleeding rainbow mist?"
+
+"If not your feet having permanently caught fire, or you having become a wisp of smoke with pretensions," Cai Renxiang said dryly.
+
+"Oh, either of those would be bad," Ling Qi agreed sagely. "People would be uncomfortable if I was floating all the time. Not to mention the smell! It would also make hugging my little sister very hard."
+
+"Let us avoid finding out," Cai Renxiang said with finality, turning her head to look up at Ling Qi perched on the railing.
+
+Qiyi's ribbons were lazily twisting her slowly regrowing hair into tight braids. She had promised the dress the chance to play after all.
+
+"Yes. I was very certain I could remove us before any serious danger, if need be. My trials and journeys have given me a lot of practice."
+
+"I am certain you were."
+
+She furrowed her brow at her friend. There was no need to sound so doubtful. She wasn't that bad about risk.
+
+Cai Renxiang held her gaze without blinking.
+
+Ling Qi huffed and looked away, toying with one of her temporary braids. She'd forgive Renxiang since she was still flustered by the incident with the general. Instead of furthering a silly argument, she watched as the sleeves of her gown ballooned out, slowly growing into the sort of lace-filled, hand-swallowing monstrosities that the most conservative of court ladies wore.
+
+… She really hoped Qiyi got this fad out of her system quickly.
+
+She decided to politely show interest in her liege’s projects instead.
+
+"So, we're beginning the granary expansion, then?" She could see, if she squinted, roped off, packed earth and foundations being raised at the site for the city granary. "Do we really need an expansion already?"
+
+"It is best to establish proper procedure from the beginning and expand smoothly. The previous arrangements were too informal. It will train the clerks and officials to better process complaints, requests, and orders without my direct intervention. This will improve our capacity for projects."
+
+"And I suppose ironclad certainty that we are immune to famine for now does have a way of boosting people's morale," Ling Qi mused.
+
+What a strange idea to entertain that situations like hers could have been erased by even a slight exertion of effort from the rulers of Tonghou. She'd seen the cost of importing grains to fill the granary for the first year. Even extrapolating out to a much greater population… Well, even her Ling clan could afford that without much difficulty.
+
+"I would like you to oversee the setup of the… What did you wish to call the winter shrine again?"
+
+"The Theater of Frost," Ling Qi answered. "Hanyi's presentation is going to stick. I'm certain of it."
+
+"As you like. Arranging safe locations for bonfire building is well enough, but I want your input and instruction to the workers on the shrine altar proper."
+
+"Done," Ling Qi said, thinking of what the arrangement should look like to best please or propitiate the winter spirits of the region.
+
+"What are your other intentions? Mind, we will need to begin our journey north in six weeks."
+
+"I'll be spending some time with my family as they arrive. I am also considering whether we should make an expedition to seal off the impurity cavern in the Cathedral of Winds. Spending time in lessons and instruction with Meng Duyi could be productive, too, or exploring the boon I received with Zhengui… I may have been a little light on planning for the coming month."
+
+She definitely hadn't been unsure if she would need to spend the month focusing on recovery.
+
+Cai Renxiang gave her an unimpressed look, and even Qiyi gave a rustling sigh.
+
+"Inform me soon. You are on light duty yet, so there is no conflict. I need to know if an expedition is being made."
+
+"Understood, Lady Cai."

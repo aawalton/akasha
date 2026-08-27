@@ -1,0 +1,199 @@
+---
+id: a29eafa8-947e-5b89-a1db-f6d19f4f569b
+page-type-slug: story-chapter-royal-road
+title: "29 - The Ancient Waterway (1)"
+slug: 0029-29-the-ancient-waterway-1
+partOf: gamer-girl-evolution
+position: 29
+ownLength: 1750
+unit: words
+ownProgress: 1750
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2789112/29-the-ancient-waterway-1"
+royalRoadId: "2789112"
+markedReadAt: "2026-06-29T20:06:30.525Z"
+---
+
+Celica paused to take in her surroundings. From the looks of it, she was in an anachronistic temple, which was covered with several illustrious decorations. The walls were a pale blue and the floor had a clean, marble texture. Random inscriptions ran along the walls, like some sort of highly encrypted message from the  designers of the waterway.
+
+She looked down at the system's notifications, scratching her head as she did.
+
+[You have entered: The Ancient Waterway.]
+
+[You have been cursed by the Rift Toad. Due to its extreme vengefulness, it has condemned you to spend eternity with its corpse in a special dungeon known as The Ancient Waterway.
+
+In order to lift the curse, you must defeat all three Ancient Guardians and then escape to this room. Failure to complete this quest will result in devastating consequences.]
+
+She sighed, then took a deep breath in as she looked at the Rift Toad's corpse.
+
+That damn froggy actually got me...
+
+In actuality, this 'curse' could turn out to be a blessing, and Celica knew that. It was a special dungeon—naturally that meant special rewards too.
+
+She re-read over the quest description provided. Defeat all three guardians and then... escape? Escape from what? From who?
+
+Her thoughts swirled as she tried to guess what the system meant, but it was to no avail. She decided for now, the most important thing she could do was calm down and think rationally. It wasn't wise to proceed onwards recklessly when she wasn't in peak condition.
+
+She'd gained a lot during her time at the Mist Military Outpost. So much so that when she checked her status and inventory for herself, she couldn't believe her eyes.
+
+***
+
+[STATUS]  Celica Travine Crystalis <Rift Defender> Level 46 Human (Supporter) {Blacksmith Apprentice}EXP: 6% towards the next levelSTR: 140 | AGI: 75 | VIT: 25DEX: 5 | END: 5
+
+250 Reputation in Earthonia.
+
+450 Reputation in Blade Village.
+
+(500 Reputation is required to apply for lower nobility status.)
+
+[Inventory]
+
+Phantom’s Mask (Unique) Phantom’s Blade (Unique).
+
+Elixir of Gold (x3) (Super Rare) Elixir of Blessings (x3) (Super Rare).
+
+VIP Ticket for the Grand Eonian Colosseum (Unknown)
+
+Rift Essence (x24) (Super Rare) – The most valuable crafting material available on the second floor.
+
+Rift-Corrupted Trophy (x3) (Super Rare) – A collectible item that can be sold for a high value.
+
+Keystone of the Cyclops (Rare) – It is said to hold the key to unlocking a powerful, hidden location within the Marshlands, but its true purpose remains unclear.
+
+Marshlite Ore (Rare)  – A sturdy ore harvested from the Cyclops' club.
+
+Currency Available: 5 Platinum Coins, 99 Gold coins, 99 Silver Coins, 99 Bronze Coins
+
+***
+
+They really removed the level cap... are the devs sure they want to let me grow unimpeded like this?
+
+In Celica's original timeline, the level cap usually increased with each floor by 20. So roughly, each realm would increase the player's level by 100. This pattern only changed in the later realms when the game became more open world oriented. Since Celica was already level 46, the devs had obviously broken this pattern.
+
+Still, although her status page and all the items she'd amassed were shocking, what really jumped out at Celica was her skills page.
+
+***
+
+[Skills]
+
+Common:
+
+Parry level 20 (Max)
+
+Slash level 20 (Max)
+
+Thrust level 20 (Max)
+
+Super Rare:
+
+Water Blade (Max)
+
+Foundational Supporter Skills:
+
+Cleanse Aura level 1 → 10
+
+Cleanse Aura Progression:
+
+Basic Strength Buff level 13 → 20
+
+Basic Agility Buff level 13 → 20
+
+Basic Vitality Buff level 13 → 20
+
+Basic Dexterity Buff level 13 → 20
+
+Basic Endurance Buff level 13 → 20
+
+Basic Buffs Progression:
+
+All foundational skills must be levelled to 50 before the beginner supporter skills can be unlocked.
+
+***
+
+Her basic buffs had all reached level 20, granting a forty percent increase to all stats! For nearly an hour!
+
+A sly smile crept onto Celica's face as she admired all the changes to her skill page. With all these improvements, she was practically unkillable. If one thousand monsters and a mutant couldn't stop her when giving it their all, then there was nothing else that could threaten her. Not on floor 2, at least.
+
+Seeing the message at the bottom of her skills got her curious. What would the beginner supporter skills be like?
+
+Still, she didn't want to dwell on that too long. She was currently trapped in a special dungeon and would have to fight her way out sooner or later. She checked her gear and realised that it'd been messed up quite badly, the durability of all the equipment hovering between 1% and 4%.
+
+One benefit of the Blacksmith class was the ability to repair gear while in the fields. Knowing this, Celica quickly repaired her gear, the durability of all the equipment climbing back to 100% in a satisfying manner as some of her currency drained away.
+
+That should do it, she thought to herself as she got moving, waltzing straight past little froggy's corpse. She opened the door, leaving the Rift Toad alone, quiet in the circular room. What greeted Celica was a familiar view. Monsters. And quite a few of them, at that.
+
+[Aqua Scorpion - Lv. 40]
+
+[Aqua Serpent - Lv. 39]
+
+[Aqua Spirit - Lv. 40]
+
+She smirked, eager to test out her newfound strength. Her blade shimmered as she stepped into the room, the water surrounding her sword making it glow with a faint, blue light.
+
+The Aqua Scorpions scuttled toward her, pincers snapping, while the Aqua Serpents coiled and hissed, ready to strike with their deadly fangs. Meanwhile, the Aqua Spirits floated ominously in the background, ready to unleash a barrage of water magic from a distance.
+
+Celica moved first.
+
+[Water Strike]
+
+She raised her sword, unleashing a slash of water that cut through the first Aqua Scorpion in a single blow. The creature was obliterated before it even had a chance to react, its body disintegrating into particles that rained down like broken glass.
+
+[+1150 EXP]
+
+Before the others could react, she was already on the move again, her Thrust piercing through the Aqua Serpent’s scales with deadly precision. The serpent let out a shrill hiss of agony as it crumpled under the weight of the strike.
+
+[+1260 EXP]
+
+The Aqua Spirit was next. Celica saw the familiar wind-up of its attack—a large sphere of water began to form in the air. It wasn’t fast, and she was already in motion before the spell could fully form.
+
+A quick Parry and a Slash later, the Spirit's magical spell was reduced to nothing but a rain of droplets, and the spirit evaporated as quickly as it appeared.
+
+[+1300 EXP]
+
+Celica didn’t pause to celebrate. The remaining Aqua Serpents made some final, desperate lunges, but Celica was too fast, moving with fluid grace. She twisted mid-air, dodging the serpent’s strikes with perfect vectoring, then came down hard with another attack.
+
+[Water Strike]
+
+The serpent’s body split into two halves as the water blade cleaved through it.
+
+[+3200 EXP]
+
+[All enemies in this room have been defeated.]
+
+Celica took a moment to breathe, her body still thrumming with energy from the battle. The enemies had been a breeze, each one falling without even the slightest challenge. That was to be expected—she was over-levelled for this area, after all.
+
+She surveyed the room, eyes glinting with determination. Ahead of her, three doors awaited—each one leading to a different challenge. The one to her right felt wrong. The middle door seemed like a good choice, but the left door… seemed to call to her in a way the others didn’t.
+
+Her decision was made in an instant.
+
+Celica stepped into the left room and found herself in a large, open space—vast and empty, save for a towering figure in the centre. The stone walls were etched with ancient runes, their faint glow illuminating the area.
+
+In the middle of the room stood a massive creature that resembled a statue. Its body was regal and imposing, with glowing marks etched onto its body like veins. The air around it crackled with energy as it turned its head towards Celica, recognising her as a threat.
+
+[Stone Guardian - Lv. 42]
+
+The Guardian’s eyes glowed with a fierce intensity, and the ground trembled as it let out a low growl. It raised its massive stone arms, a slow but deliberate movement.
+
+Celica didn't hesitate. She readied her blade and engaged.
+
+The Guardian swung its arms in a wide arc, but Celica was already gone, using her exceptional movement to dodge and close the distance. As it swiped again, she activated her Water Blade and Thrust in quick succession, landing a clean hit across its side.
+
+The Guardian stumbled, but it quickly recovered and swung again, faster this time. Celica ducked under the swing, using vectoring to reposition herself behind the Guardian. She wasn’t going to give it any breathing room.
+
+Using a series of animation cancels, she shredded the Guardian’s defense, each hit imbued with the elemental power of her Water Blade. The Guardian’s massive form was tough, but with her speed and agility, Celica was outpacing its attacks.
+
+She ducked under its strikes, each one slower than the last, and continued to deal consistent damage, never giving the Ancient Guardian a chance to retaliate effectively. The Stone Guardian's HP rapidly declined.
+
+Her Water Strike was the perfect tool for this fight, sending a wave of water out from her blade, the slash creating a ripple that dealt massive damage. The Guardian struggled to keep up with her, its movements growing slower as it attempted to regain its balance.
+
+The arena became a blur of water strikes and combat skills, Celica fluidly cancelling animations and chaining together abilities with unmatched precision.
+
+The Guardian tried to land a devastating blow with its bulky arms, but Celica anticipated it. She dodged behind it at the last moment, thrusting her blade into the gap in its armour. The damage was enough to make the Guardian stagger.
+
+With a final, powerful Slash, she severed the Stone Guardian’s last dregs of HP, sending it crashing to the ground with a thundering noise.
+
+[+12,000 EXP]
+
+The Stone Guardian’s enormous body dissolved into stone and rubble, leaving behind a glowing item. Celica knelt to collect the item, curious about its significance. The piece felt heavy in her hands, pulsating with an ancient energy.
+
+[You have obtained the item: Heart of the Ancients (1/3 Fragments Collected)]

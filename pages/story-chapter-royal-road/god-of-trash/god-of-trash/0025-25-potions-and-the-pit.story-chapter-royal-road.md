@@ -1,0 +1,135 @@
+---
+id: 35484d58-370b-5849-b36b-fb286d0bb381
+page-type-slug: story-chapter-royal-road
+title: "25. Potions and the Pit"
+slug: 0025-25-potions-and-the-pit
+partOf: god-of-trash
+position: 25
+ownLength: 2573
+unit: words
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2137488/25-potions-and-the-pit"
+royalRoadId: "2137488"
+---
+
+Rhys spent the rest of the day in the mustelid class, but whatever enlightenment awaited him beyond that train of thought, he couldn’t grasp it yet, nor could he grasp it before six A.M. the next morning. He rose, a little annoyed at himself. He’d freed himself from Cynog, only to throw himself into Sorden’s class! He should’ve had the foresight to see out this enlightenment, first.
+
+Ah, well. Sorden liked him. He was pretty sure he could ask her for a few days off to focus on the mustelid class. Not right away, of course. He was eager to start learning advanced potions techniques. But after a week or two, if he still couldn’t break through on the mustelid enlightenment in his free time, he’d ask her for a week off.
+
+Sorden’s tutoring was a far cry from Cynog’s. There was less getting-beaten-up, and more accidentally scorching or searing himself on superheated caustic materials. His Resistances steadily leveled, but his potion making screeched along at a glacial pace.
+
+It wasn’t that he couldn’t read the recipes, or that Sorden wasn’t a good teacher. He could, and she was. But at higher levels, the recipes became more vague and left more to the potion-maker to decide, which wasn’t ideal for a beginner like Rhys. Sorden pointed out the best ways to go there, which herbs to pick and which ones to generally avoid unless they were specifically called for, but even then, he still made mistakes. Mistakes which generally ended with him gaining a new scar, until his hands, arms, and face were covered in red burns.
+
+Higher-level recipes also called for more and stranger techniques. He had to carefully modulate his mana to give it just enough power now, then pull back to the bare minimum the next second. Or keep his mana swaying at the right pace to keep an herb melding with the liquid.
+
+Now, he hovered over a boiling pot. Blue smoke billowed by, stinging his eyes, but he couldn’t look away. Not now. It was too close.
+
+With his left hand, he stimulated the blue-white grass to swirl clockwise and fed it mana to empower its properties. With his right hand, he gripped the silver bud powder, clenching down on it to keep it from gaining too much mana. Enhancing with the left, suppressing with the right. All his focus poured into the pot, not an inch to spend elsewhere. Slowly, the two materials melded, forming a new, silver-white liquid.
+
+The silver reached the edge of the pot. The entire body of potion turned silver. Sorden stepped forward, expression tense. “Now!”
+
+Rhys dropped his hands and slammed the lid on. He went to grab ahold of the herbs again, but it was too late. The silver bud powder eagerly drank in mana, and the blue-white grass ran rampant. Pressure welled up against the lid. His eyes widened. He pushed down on the lid with both hands, locking his feet under the cauldron to keep the whole thing together.
+
+Sorden flashed away. The cauldron rumbled, and then pressure slammed into the lid. For a split second, Rhys suppressed it, but then he lost his grip on the lid. It flew past his head, narrowly missing his nose. He jerked his head back just in time and only got splashed, rather than getting a face-full of boiling silver liquid. It flew up, then poured back down, threatening to rain all over Rhys.
+
+Sorden stepped forward. She spun her hand, and all the droplets froze in midair. With a calm gesture, she called the silver liquid down into a separate cauldron. She stood over it, focused. Mana flowed from her palms. The potion spun placidly, no longer over-excited. Sorden put the lid on the cauldron and stepped away, and the potion simply simmered, rather than exploding.
+
+She sighed, then looked at Rhys. “You almost had it. If you hadn’t lost focus at the last second…”
+
+Rhys nodded, embarrassed. “I’m sorry.”
+
+“No, no.” But that was all she said. He’d failed too many times for any excuses. Instead, she just stared at him, something between confusion and exhaustion in her eyes. “How are you so good with herbs, and bad with potions?”
+
+Rhys scratched the back of his head. “Er… it’s more like ‘good with trash’ than ‘good with herbs,’ actually.”
+
+“Good with trash?” Sorden frowned, eyes narrowing.
+
+“It’s my path. My obsession. I really love trash. Anything trashlike is easy for me to learn, but if it doesn’t have anything to do with trash, I struggle.”
+
+“How is growing herbs…” Sorden raised her hand. “No. I’d rather not know.”
+
+Rhys nodded. To be honest, he’d rather not tell her, for a variety of reasons. Of course, he wanted to protect his technique, but also, he wasn’t sure she’d have given him his five bags of gold if she knew how her precious Star Ice seed were grown.
+
+Speaking of… “How did it go? Is there any chance I’ll be able to get to the trash up at the top of the mountain?”
+
+Sorden twisted her lips. “I’m trying, but it’s slow going. I’m only one lowly teacher, after all. I’m barely allowed atop the peak. To ask for permission for a student to climb the peak… I just don’t have enough influence to make that happen on my own.”
+
+Rhys thought for a second. “What if I got more teachers to request it?”
+
+“Maybe… it might help,” she said, uncertainly. “But we’re… we have very little influence. I’m not sure any number of teachers from down here could guarantee you access to the peak.”
+
+But from the way she said it, there was a chance. And weren’t the teachers being treated as trash by the lucky few who lived on the peak? If he thought about it, it really was that simple. He just had to gather up all the trash together, and they wouldn’t be able to ignore it. It was like when your garbage bag was half full. Then, it was easy to ignore. But when it was full, then beyond full, when a dozen pizza boxes stacked atop it and trash overflowed onto the floor—then, even the brattiest of college kids would at least have to admit it was a problem, even if they might not do anything about it.
+
+That was when Rhys would step in, and offer to take down two problems with one fell swoop! Give him access to the peak, so he could clear the peak’s garbage, and get the lower, trash-tier teachers to stop pestering those powerful, busy mages atop the peak, who had no time for this kind of foolishness.
+
+He nodded to himself. “So if I gather all the tras…teachers together, I might be able to get in?”
+
+“I… wouldn’t guarantee it, but it’s probably a better bet,” Sorden admitted.
+
+“Better is better than nothing,” Rhys said.
+
+A foul smell emitted from his pot before he could continue the discussion. He leaned over it, peering inside. Black filth coated the insides of the cauldron, caking it completely. Rhys made a face. “I think I burned this one.”
+
+Sorden stepped up beside him. She sighed. “That’s fine. Use your mana like I taught you, like a blade, and scrape the edges, then give the gunk to me.”
+
+Rhys raised his hand. He focused for a moment, and a shaky scraper-like blade appeared from shimmering blue mana. He lowered his hand over the pot and dragged it over the edges. The black gunk clung to the pot stubbornly, refusing to break free.
+
+“What do you do with this stuff?” he asked, a little curious. All he knew was that she always demanded he give it to her without touching it. It seemed precious to her, so he’d always obliged without asking, but now he couldn’t suppress his curiosity any longer.
+
+“Oh—it’s dangerous. Highly toxic, full of impurities. I have a special pit where I throw it all, so it won’t contaminate any students,” Sorden told him.
+
+Rhys froze. From one beat to the next, the flickering scraper-blade strengthened. He swooped his hand around the inside of the pot, and all the black gunk snapped free of the pot’s walls to hover over his hand. He lifted it, letting the clumps spin slowly. His eyes shone. “It’s trash?”
+
+“Yes…” Sorden caught his look, and shook her head. “Dangerous trash. You’d be absolutely riddled with impurities if you touched it. Even if you’re obsessed with trash, it’s too dangerous for you. Hand it over, and I’ll take care of it.”
+
+Rhys retracted his hand, hiding the gunk behind him. He quietly put it into his storage ring for later. “Can I see your trash pit?”
+
+“Why? If someone like you gets too close, you’ll be inflicted with impurities, even without touching it,” Sorden warned him.
+
+“That’s fine. I can handle it. Actually—I can even cleanse that pit of gunk. Please, won’t you let me see it?” Rhys all but begged.
+
+Sorden gave him a look. After a second, she sighed. “Fine. I’ll show you. But you’ll stay back, and don’t touch. I don’t want to injure a student like you.”
+
+“No, no, that’s no trouble! I’m trash. Don’t treat me preciously. It’s fine to injure trash,” Rhys insisted.
+
+She frowned at him. “Even I failed to grow the Star Ice Seed. You can’t—”
+
+“But that was because of trash. Because I treated myself like the trash I am! You’ve seen how skilled I am at potions… or rather, not,” he amended, gesturing at the mess around his station. The stone was melted and deformed from potions gone wrong, and the wreckage of at least one cauldron sat nearby, ready for Rhys to drag it back to his heap. There might have been more than one cauldron mashed into the twisted mess of metal; Rhys really wasn’t sure. “It really is the case that I’m only talented when it comes to trash. So please, won’t you show me the trash pit?”
+
+Sorden hesitated for one more moment. “This won’t interfere with your ability to grow herbs?”
+
+“No—in fact, it might enhance that,” Rhys assured her.
+
+“Well… if you say so.” She still looked a bit uncertain, but nonetheless, led him out the rear door of the classroom and into the woods.
+
+Rhys followed her up the hill. Despite his habit of running all over the mountain, especially when he was being chased by Cynog, there were still parts of it he didn’t know well. The mountain was a vast place. There were even secluded residences he hadn’t yet found, as evidenced by the residences’ inhabitants bringing their trash into town every week or two when they wanted him to pick it up. He hadn’t worried himself too much about that idea, telling himself that whatever secluded residences there were, they’d only contribute one house’s worth of trash. It wasn’t worth it to spend an entire day running out to a distant house to pick up one house’s garbage, when he could simply wait and have it delivered to the central square.
+
+Yet, as Sorden drew out a ladle and gestured for him to mount it, he reflected that the trash must not have started piled up in the town. It must have started somewhere else. Some ancient garbage pit, full of trash. Sure, it would be stale trash, but trash nonetheless. What he was really beating himself over, was that, as Sorden’s trash pit indicated, the truly powerful, dangerous trash would be hidden somewhere far from the students, to prevent accidental access or contamination. In other words, what he’d been dismissing all this time as ‘a house or two worth of ordinary trash,’ was actually ‘the most powerful trash on the mountain, hidden out of sight in incredible quantities where it could rot in peace.’
+
+Rhys shook his head at himself, disappointed from his heart. He needed to broaden his horizons. He couldn’t allow himself to be blinded by the trash right in front of him. People hid their trash! It was human nature! If he was satisfied by such reachable, obvious trash, he’d never find the deeply buried gems of trash piles!
+
+It was like reading the most surface-level LNs and being satisfied that you’d seen the trashiest novels available. Not so! Ah, it was true, they might be trashy, but they were merely mainstream trash. The weak, diluted trash that everyone could appreciate. How simple, how basic. What he sought wasn’t so shallow. He yearned for the depths. The unplumbed depravity, where the true brainrot resided.
+
+Or, in this case, the most toxic, most dangerous, most powerful of trash.
+
+They soared over the forest. The trees flashed past, somehow more magnificent when seen from the sky. Rhys watched them fly by with rapt eyes, far more excited by Sorden’s low flying than he’d been with Aquari’s heights. He was sure Aquari’s flight was more impressive, but, well, he’d been on a plane a thousand times. Sorden flew low and tight over the trees, and the effect was far more akin to riding in a helicopter or swirling through the air as a bird. He laughed aloud, taken with it.
+
+Sorden glanced back at that and smiled. “Looking forward to flying? Once you’re Tier 2, you can start practicing with flying swords—the kind that need to be powered with spirit stones. At your Tier, you’ll struggle to keep a spirit stone activated, but at Tier 2, you should be able to do it easily. It’ll be Tier 3 before you’ll be able to forge your own flying sword… or implement of your choice.”
+
+Rhys glanced down. “You chose a ladle?”
+
+She smiled. “I was more attached to it than to any sword. Besides, it felt a bit pretentious to mount a blade to fly, when my skills with the sword are… less than impressive.”
+
+Rhys nodded. “I get that.”
+
+Sorden looked at him, then laughed. “You can hold your own with Cynog, no? In that case, your sword skills likely outstrip my own.”
+
+“Ah, that’s…” Rhys grimaced a bit. Aside from the sword scrap he kept on him at all times, he usually fought Cynog with whatever he had to hand. Bits of trash, trees, his own hands and fists. When it came to the sword, he had no particular skill… unless it was trash.
+
+Abruptly, Rhys looked at his hands. Fighting with my hands and feet… Trash Intent… Trash Body. Could he use Trash Intent on himself, now that he’d obtained the skill Trash Body, which clearly labeled his body as Trash?
+
+His eyes sparked at the idea. He clenched his fists, eager to try it, but quickly suppressed the urge. Not now. Later. After he’d obtained this fresh, powerful trash… then, then for sure. But he’d wait until he had the trash safely within his grasp to try any exciting new experiments. Better a bird in the hand than two in the bush, after all.
+
+“Here we are,” Sorden said. She began to descend.
+
+Rhys quickly spun on the ladle, taking in the world all around them. He marked the distant town and a tall rock near him, fixing the landmarks in his head. They ducked below the tree canopies in a rustling rush of leaves, and Rhys was forced to close his eyes. An acrid scent assaulted his nose, and he tensed in anticipation. Come on! Here we go, powerful trash pit!

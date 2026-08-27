@@ -1,0 +1,67 @@
+---
+id: 26d6fce4-c7b2-5a88-8009-268104370a5a
+page-type-slug: story-chapter-royal-road
+title: "37. Brewing Ash"
+slug: 0037-37-brewing-ash
+partOf: god-of-trash
+position: 37
+ownLength: 2181
+unit: words
+publishedAt: 2025-03-31
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2164185/37-brewing-ash"
+royalRoadId: "2164185"
+---
+
+For all that mages grew by pushing their limits, Rhys also wasn’t stupid. A table leg with a portion of table attached to its top sat within reaching distance to his left, table-side pointed at the cauldron, ready to become a shield via Trash Intent at the first sign of danger. Rhys set up on the side of a cliff. He could kick the cauldron off if it showed signs of fruitlessly exploding, and a stub of what had once been a long board sat on his right, ready to push it off if a kick would be too slow or too dangerous.
+
+Now that he could maintain two Trash Intents at once, he could also activate the stub to jab it off and the table to act as a shield at the same time, and he’d deliberately angled the two so such a thing was possible. Tested them, even, though one at a time. The splitting headache that two activations of Trash Intent, and the prohibitive mana cost, kept him from trying to activate both at once. It was a good activity to do when he had excessive trash mana flowing through him and needed something to get rid of mana, but not when he was about to attempt a difficult round of alchemy that would likely require a fair share of mana.
+
+It really wasn’t something that he could simply ‘maintain at once,’ but rather a life-saving last-ditch technique. Once he practiced it more, he was sure he could maintain two at once without the requisite headache and paralyzingly intense focus, but for now, it was something he’d have to keep as his ace in the hole. If his opponents knew about it, they could easily counter it.
+
+Not only was it hard to activate and maintain, but he also felt instinctively that both Trash Intents were easier to shatter than a single Trash Intent. It made sense. After all, he could truly commune with the trash when he only had one Trash Intent. He could pour all his mana into that one item, and give it every scrap of focus as he dragged it into being. When he had two, and both his mind and mana were split, it was all he could do to hang on, forget about reinforcing the Trash Intent. A good blow would break one, and the subsequent backlash from breaking one might well shatter the second, too, in one fell swoop.
+
+All in all, his new technique was best used as a final ace, to be used as a last surprise to finish an opponent, or for flashy intimidation, but not in equal battle. Right now, though, it was more than enough to save his ass from a cauldron explosion, or so he hoped. His plan was to activate both for a split second, then deactivate the pushing-rod and focus all his attention on the table, so that way the table could absorb the blow. Still, he couldn’t be sure it would work.
+
+Only one way to find out.
+
+He’d fetched some water from a nearby stream. Now he poured it in, wetting the ash to a dark slurry. Most potions called for pure water, but he wasn’t worried about that. The water was clear enough, and besides, he was trying for the maximum concentration of impurities, not attempting to make a proper potion. Once the ashes were fully wetted and ever so slightly slopping around in the cauldron, he lit the fire underneath and began the process of extracting the impurities.
+
+The first time he’d brewed an impure potion, he’d been dealing with potion scraps. They were dense with impurities, and mostly needed to be boiled down. This time, the ash was strewn with a light distribution of very powerful impurities. At a guess, he could probably remove seventy percent of the material in the cauldron, and lose no impurities. No, it’s probably higher than that. The problem was, he needed to remove both the water which he’d just added, as well as the ash, which was a solid, non-melting material.
+
+The pot reached a boil, and Rhys drew out a piece of thin, threadbare fabric from his storage ring. Using a random bit of crooked wire, he fashioned a makeshift net. As the water boiled, the heavy impurities naturally settled down, while the light ashes separated up. He pressed his hands to the side and circulated his mana through the cauldron, encouraging the process to speed up. The impurities he called to the bottom, pulling them down through the ashes. As if sensing their brethren ingrained into Rhys’ every pore, the impurities eagerly followed his mana… or maybe it was the fact that he was pushing out waves of mana into the cauldron, so that the ashes trembled at a high frequency and naturally separated into their impure and pure parts. The ashes constantly welled up, fountaining on the surface, while the impurities sank, sank, sank. It reminded him of those videos online of the rings being cleaned by vibrating them at supersonic speeds. He made a poor replica with his mana, but the end result was more or less the same. The filth sank down, and the ash rose up.
+
+At last, he sensed no more impurities in the surface ash. Rhys skimmed the surface of the water like a poolboy on a summer afternoon, and came up with a shimmering scoopful of pure white ash. He started to dump it on the ground, then hesitated. Pure ash… was that something Sorden might use in her potions? Ash was highly alkaline, so it could be used as a reactant in a basic potion or a neutralizer in an acidic one. Alchemy wasn’t exactly chemistry, he realized that even with his high school chemistry background, but it was close enough that the general rules about acids and bases held true. A highly alkaline base, and one this pure, at that, would likely be valuable to Sorden.
+
+He drew out a fine-knit piece of fabric, large enough to wrap around the cauldron, and dumped the scoop of ash into it. The water instantly soaked through it, but the ash stayed within.
+
+One scoop at a time, he removed the ash from the cauldron, waiting until he was sure he’d extracted every impurity he could from it. The result was highly purified ash, but that was only a byproduct to Rhys. His true intent was the thick sludge of impurities at the very bottom of the cauldron, the dark slime he could already sense the potency of, even in this incomplete and less than completely dense form. The cauldron slowly emptied. At one point, it grew too low for him to easily separate the ash and the slime, so he added more water and returned to the cycle of removing the purified ash.
+
+A heap of ash piled up beside him. Strangely, it had diminished as it had purified. Although the cauldron had been heaped to absolutely full, almost overfull, and most of the cauldron’s worth of ash had been removed, the pile of purified ash that remained was only about enough to fill half the cauldron. He wasn’t sure where the missing ash had gone, because it certainly wasn’t in the small puddle of impurities at the bottom, but he definitely ended up with less than what he’d put into the cauldron on the other side, and Newton be damned. He gave the shimmering white ash a look, then shrugged. Might as well chalk it up to the angel’s share and move on. It was only a byproduct, after all, so it wasn’t like it even upset him. The world had magic, so why would it follow the physics he knew, after all?
+
+He removed the last of the ash, and was left only with the impure sludge on the bottom and the water on top. He fed the fire beneath it more heat, and the pot began to boil. Steam poured out of its mouth. Using a stick, he stirred it gently to keep the impurities from sticking to the bottom and becoming cauldron gunk, all the while boiling it down.
+
+Up until this point, the process had been largely non-volatile. The ash wasn’t particularly reactive, and since he’d focused his efforts on the ash and not the impurities, the impurities were free to lounge at the bottom of the pot, largely undisturbed. As the pot boiled down, though, the impurities were brought to bear. At last, the energies he remembered from his last attempt began trembling within the pot, beating against its walls.
+
+Rhys put his hands against the cauldron and pushed his mana into it. Trash Intent surrounded the cauldron. His Intent couldn’t fix the dents and dings in the cauldron. If he allowed the Intent to take on the cauldron’s ideal form, it would only stand there, outside of the dents, and do nothing to strengthen the actual cauldron. Instead, he held the Intent within the walls of the cauldron, using it to reinforce the trashed cauldron. The impurities’ energy hammered against the walls, but with the reinforcement, the energy bounced harmlessly back.
+
+He focused, pushing his mana through the wall. He massaged the impurities, pulling them inward. He needed them fully concentrated. As dense as they could get.
+
+The denser they got, the more they bumped into one another, and the wilder the energy got. The impurities were separated in the ash, and hadn’t interacted to one another. Now that he was concentrating them, they reacted strongly with one another. The pot bubbled and spat. The cauldron trembled. Mana twisted in the air around the cauldron as the impurities corrupted the air around them. Dark smoke settled around the ground near the cauldron. Rhys probed the smoke with his mana, a little worried that the impurities were escaping, but it seemed to only be an effect cast by the brewing or an illusion of some sort.
+
+These were the strongest impurities he’d ever handled. Before, they’d been less dense, and they hadn’t been hard to deal with. Now that they were closer together, they fought against one another. They didn’t want to be close. The glob of impurities trembled in his mana grasp, struggling to break apart. They resisted existing in their current concentration, and anything further was absolutely against their nature. Each impurity on its own was a significant source of power. A handful, ten or so, was enough to equal an old trash pile. If they hadn’t been so dispersed, or rather, if they’d been as dense as the lower level impurities were in the low level trash piles, they would’ve absolutely overwhelmed him when he’d burned the first trash pile up here. Not a single one of them wanted to anywhere near another impurity.
+
+Not that it mattered. He was going to concentrate them, whether they wanted to be concentrated or not. The benefits from Less is More alone were enough to decide it for him, not to mention the total waste of absorbing them at their dispersed rate.
+
+He pressed the impurities together with his mana, refusing to let them apart. As he did, he carefully lifted one hand off the pot and drew forth a few strands of herbs from his storage ring. Those he added into the pot, then slammed the lid down. The herbs had concentrative properties, but more importantly, they were purifying herbs. They pushed impurities out of things. There was no such thing as completely ridding a potion of impurities, but adding one of these could strip out at least a little of the unwanted materials.
+
+Now, he brewed those purifying herbs into the liquid that surrounded the dense glob of impurities on the bottom. The water became the antithesis to impurities, and forced the impurities tighter together.
+
+Tighter and tighter. Between his direct mana manipulation, the pressure gathering under the closed lid, and the purifying herbs, he condensed the impurities down to an orb, then tighter. The cauldron rocked under his hands. Its metal creaked. One of the dents abruptly popped back out, resuming its original shape. Even under the full force of Trash Intent, he couldn’t completely preserve the cauldron’s integrity any more. This was the critical moment. If the cauldron burst now, he’d lose everything.
+
+Sweat dripped down his forehead. He focused intently on the ball of impurities in his hands, slowly massaging it down, down, down, to something smaller and smaller. Pressure built. The cauldron groaned, bulging out at the middle. The lid shuddered, struggling to break free. All the water boiled down to steam, which pressed on the impurities and likewise on the sides of the cauldron, seeking freedom.
+
+A little longer. Hold on a little longer!
+
+The impurities trembled. Rhys’ focus narrowed, down to nothing but the impurities. This was it. The moment. They either exploded, or he succeeded. His everything was the tiny, dense glob; his world was contained within the cauldron. His hands pressed down, and the orb pushed back. It slipped in his hands, and his grip loosened.
+
+No!

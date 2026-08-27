@@ -1,0 +1,155 @@
+---
+id: 6da1f635-cd93-549f-9f03-e538e2f32443
+page-type-slug: story-chapter-royal-road
+title: "79. Belly of the Beast"
+slug: 0079-79-belly-of-the-beast
+partOf: god-of-trash
+position: 79
+ownLength: 2407
+unit: words
+publishedAt: 2025-05-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2289041/79-belly-of-the-beast"
+royalRoadId: "2289041"
+---
+
+Laurent glanced around, checking that there was no one around. He gestured the two of them on. This was totally out of character for him, breaking the rules like this, and yet, it was so exhilarating. His heart raced with excitement that he hadn’t felt since he’d gotten his Tier 2 core. Sure, all of the other students were out using their newfound freedom to get absolutely hammered, some of them were off pursuing new loves, and the rest were desperate to be anywhere but on their stale old boat, but it still made his stomach lurch. He was breaking the rules. Him! Breaking the rules! He couldn’t believe it. He wasn’t that kind of rebel.
+
+But it was worth it. He got to bask in Rina’s light for just a little longer. Even if that annoying clod Betsy was along for the ride, it didn’t detract from the fact that Rina was here, right next to him, so close he could almost touch—
+
+Something invisible smacked his hand down again. He narrowed his eyes at Betsy. She glared back and turned away, pretending not to know what happened.
+
+Laurent shook out his hand. Rina glanced back, and he quickly smiled, hiding his sour glare. Eventually, he’d get through Betsy. He was the top-ranked sword talent at his academy, one considered worthy of fighting the strongest swordsman of his generation. He could defeat any swordsman or woman of his age in the Empire, and he was confident in taking on the Alliance, with the exception of one person… but it wasn’t like Betsy was the Sword Saint’s apprentice. He chuckled at the very thought. The Sword Saint’s apprentice might have been a mysterious masked man, but he was definitely a man, not a woman. Besides, why on earth would the Sword Saint’s apprentice be selling potato chips? The very thought was absurd. The Alliance’s greatest sword talent had better things to accomplish. In fact, he was probably studying the sword right now, honing his abilities in preparation for their oncoming clash. Laurent smiled, a little smug. In fact, he wouldn’t be shocked if that Solaire fellow wasn’t as afraid of him, as he was of Solaire.
+
+The man in question sneezed, then glanced around. “I feel like someone was talking behind my back just now.”
+
+“Huh? Weird,” Rhys replied. He shrugged to himself a moment later. Bast was the Sword Saint’s apprentice, after all. It wouldn’t be shocking if someone was talking about him.
+
+Laurent cozied up beside them, coincidentally brushing shoulders with Rina as he squeezed by. Bast’s eyes narrowed, and Laurent gave him a smug look back.
+
+Rhys rolled his eyes. Grow up, he thought, but he didn’t say it. They were still kids, after all. A little childishness was to be expected.
+
+“Move quietly. Technically, I’m not supposed to let you on here,” Laurent whispered.
+
+Rhys nodded and gave him a thumbs up. “We can do quiet.”
+
+“As long as no one gets any funny ideas about quietude,” Bast rumbled threateningly, with a glare Laurent’s way.
+
+Rhys nudged him yet again. Now wasn’t the time to scare off Laurent. They still had to see the boat! Ship, whatever.
+
+He stepped onto white-washed boards. A vast expanse of ship spread before him, so vast that he barely felt like he was on a ship. It stood steady in the air, not really a surprise; it wasn’t as if it were displacing air to stay afloat, but merely hovering on some magical technique completely unrelated to air. Then again, for all I know, it is displacing air, and it’s simply the fact that the air is wildly insufficient to move this monster ship that leaves it so steady. The masts stretched high overhead, as wide around at their bases as Rhys was tall. Cannons lined the deck on either side, but they were fastened down, well and truly bound to the deck, their mouths plugged and their wheels chocked. They wouldn’t be fired any time soon. Not that Rhys would expect the Empire to strike before the tournament. Better to impress upon everyone their utter dominance in all arts before destroying them in battle, and if they failed in the tournament, they could quietly withdraw without ever admitting they were going to attack.
+
+Not that he believed in the fairy-tale world where that was possible, but who knew? Wilder things had happened when a country was controlled by one megalomaniac. He’d stayed awake through enough European History to learn that much.
+
+He put his thoughts to the back of his mind and stared around in wide-eyed wonder. It was so beautiful. This ship was everything he’d ever dreamed of. So big, so beautiful, so… devoid of trash. Rhys peered over the edge, curious where they were dumping their garbage, but saw nothing. Maybe they hadn’t dumped any yet? Surely they weren’t storing it.
+
+Laurent glanced around, clearly excited to be here and breaking the rules. He waved them on, toward a porthole in the deck. “Come on, this way.”
+
+Rhys looked up. If there was anywhere they were hiding their garbage, it certainly wasn’t on this pristine deck. There was only one answer: to go deeper. Yes, that was his only motivation: to find the garbage, and also gather information. Two only motivations. But it definitely wasn’t his desire to see more about the giant magic ship that drew him downward, after Laurent.
+
+“How many people can fit in this thing?” Rhys asked, stepping down the ladder.
+
+“Upward of five hundred, comfortably,” Laurent said. He followed Rhys down. “It’s not at capacity right now, but if it’s packed full, I think it can hold over a thousand.”
+
+“That’s a lotta people,” Rhys commented. He looked around. The immediate exterior of the porthole wasn’t super exciting, but there were more cannons down here. Like the cannons topside, these glimmered with mana, full of enchantments and empowerments. He didn’t want to see these cannons fire. Given the lack of black powder or cannonballs around, he really doubted that the cannons fired conventional shot. More likely, they fired some kind of terrifying spell. Fireballs, or explosions, or who knew? Giant projections of huge ships that fired cannons of their own? The sky was the limit when magic was involved.
+
+Still, this particular section of ship could be a little more interesting.
+
+Laurent noticed his slightly disinterested look and quickly scrambled into motion. “This way. There’s so much more ship to see!”
+
+They got the full tour of the ship. By the time Laurent was done, they’d seen everything from the brigs to the crow’s nest. There wasn’t a single square foot of the ship that he didn’t show to Rhys and Bast. They saw the kitchen, they saw the mess, they saw the sleeping quarters and the officer’s quarters— “no one but the teachers in those right now, so they’re mostly empty,” Laurent added.
+
+The whole ship was incredibly orderly. Not a single chair out of place. Barely a scratch on the white paint. Rhys looked everywhere he could, but he couldn’t find a scrap of garbage. There was no such thing as a few hundred kids with no garbage, though, and he knew he’d given them plenty of chip bags to throw out somewhere. I’ll have to look more closely under the ship.
+
+Laurent spent a lot of time peeking around corners and checking for the other students. Rhys had already scanned the ship with his mana and sensed no one, save for a few powerful presences in the officer’s quarters that were all installed in place, and didn’t seem too interested in a few kids breaking the petty rules. As much as this was a military academy, it seemed like the teachers were still willing to look aside when a few young students decided to make some harmless decisions. It ran counter to the Empress’s entire tightly-ran ship and her complete control, but there were always levels to control, and layers to obedience.
+
+I wonder how many of the teachers deeply believe in the Empress’ philosophy? Rhys found himself wondering. As much as she claimed she ran a meritocracy, she still had a nobility. Not only that, but, well, who would be the best at magic, know the most spells, and be the most deserving of merit when the Empress took over? Some random mortal trash who’d never touched magic, or a mage who’d trained for hundreds of years, delving deep on their chosen topic and knowledge area? It would also be far easier for the Empress to win the approval of the existing mages if she, well, didn’t change much of the status quo.
+
+Besides, Laurent seemed to be having such a great time with it that he didn’t feel the need to break the boy’s illusion.
+
+At last, they returned to the top of the deck. Laurent walked ahead, slowly spinning, his arms out to take in the whole ship. “What do you think?”
+
+“I’m thinking a lot, that’s for sure,” Rhys replied. Thinking about how he didn’t want to be under the Empress’s rule, anyways.
+
+Laurent paused, then. He fidgeted, nervous. “Er, there’s one… one last thing.”
+
+Bast’s hand dropped to his sword.
+
+Laurent walked to a cloth-covered box, then whipped the cloth off. Underneath it, a steaming hot meal awaited them… or had, several hours ago. By now, it was cold and congealed. Not only that, but there were only two servings. Not enough for Bast.
+
+“Oh, let me—” Laurent rushed over to fix things, but before he could, there was a thump as Bast sat down at one of the two plates.
+
+Laurent froze, his hands hovered in the midst of lighting a candle. “I didn’t—”
+
+Rhys sat opposite Bast and beamed at Laurent. “You didn’t?”
+
+“…bring the third plate over. I’ll be right back.”
+
+Laurent vanished, and Bast started chuckling, then laughed out loud. He thumped the table.
+
+“What?” Rhys asked.
+
+“He was so deeply lost, watching you, and you were just…” He mimed peeking under the table. “Ooh, is there trash over here? How about over here?”
+
+“Oh, come on. I wasn’t that obvious.”
+
+“You were pretty obvious.”
+
+“Laurent didn’t notice.”
+
+“Laurent doesn’t qualify as someone who can notice.”
+
+“What does that mean?”
+
+“You know what that means.” Bast stood. “We should go.”
+
+Rhys stood as well. “Yeah.” He didn’t sense any dangerous impurities in the food Laurent had prepared, which was honestly a bit of a letdown. As much as Bast had talked it up, he thought he was going to get to try his hand battling some poison impurities, instead of just impurities that happened to also be highly toxic. If there were no new and fresh impurities in the food, then he wasn’t interested.
+
+No reason to stick around and get Laurent’s hopes up too much, either. He was fine with playing with the enemy’s heart, or whatever the hell this qualified as, but there were limits to it, and he figured it was about time to dip. Any more, and it would just become rude.
+
+He followed Bast off the ship. The two of them sprinted down the docks and off toward the forest, quickly vanishing amidst the woods. They’d learned enough, but they had quotas to meet, and those potato chips wouldn’t cook themselves.
+
+“Hey! Sorry it took me a minute. I was out of alfredo so I had to twist open a can of red, but—” Laurent stared at an empty ship. The plate drooped in his hand, spilling pasta over the whitewashed deck. The sauce splattered like blood. “—I’m back, now…”
+
+Two empty seats, neatly replaced to where they’d been to start. Two untouched plates. It was as if this were all a dream, and he hadn’t met the two girls at all.
+
+Laurent’s heart trembled. Did this mean… did this mean…
+
+He grinned. Yes, that was it! She was playing hard to get. Ha! He’d heard all about this from the girls who read romance books. Girls played hard to get when they were really interested in the handsome, powerful, mysterious man who had a lot of money and also loved them. Or something. He didn’t really get the finer points of romance, but he understood the broad strokes. He was handsome, powerful, dare he say, mysterious, and he had money. In other words, irresistible. Surely Rina was only playing hard to get, and not totally disinterested in him.
+
+Still, he felt a little empty inside as he mopped up pasta sauce from the deck. Red, tomato marinara soaked into his rag.
+
+Somewhere down near the garbage pit, Rhys stopped dead in his tracks and sneezed.
+
+“What?” Bast asked, glancing back.
+
+“I don’t know. I just got this… feeling. A feeling like I missed something important. Or maybe… missed out on something.”
+
+“What, getting railed by Laurent?”
+
+Rhys rolled his eyes. “Oh, real funny. Hey, how are those potatoes coming? Remember to let me know before you fry them. I want to try imbuing them with enlightenment.”
+
+“So you can eat them?”
+
+“No, so everyone can eat them. Come on.”
+
+“You enlightening the enemy over there?”
+
+Rhys grinned evilly. “If everything goes right? Not even a little bit.”
+
+Bast paused. “You know, you scare me sometimes.”
+
+“What, me? Why?”
+
+He gestured, giving the potato slices another toss in the cold water. “You’ve got the Sword Saint’s apprentice washing potatoes, the Empire’s student captain is at your beck and call, and the young mistress of the Unlimited Wealth School is making you a dress.”
+
+“Uninhibited Wealth. And they’re robes, thanks.”
+
+“Isn’t that a little bit ridiculous?” Bast asked, turning to face Rhys.
+
+Rhys spread his hands. “Don’t blame me, blame it on my pure animal magnetism. Or, you know, the potato chips. If you want to capture someone’s heart, you start from the stomach, hasn’t that always been the case?”
+
+“If that’s the case, then potato chips are terrifying.”
+
+“You’re just realizing that now?” Rhys gave the vat of paste a final stir and walked over to Bast’s side. The fire that set the oil boiling lit his face from below, casting it in a hideous light. He grinned and patted Bast’s shoulder. “Now, come on. Show me those chips.”
+
+Bast shook his head. Sometimes he wondered if he was on the right side, but he never wondered if he was on the winning side. He stepped aside, handing it off to Rhys.

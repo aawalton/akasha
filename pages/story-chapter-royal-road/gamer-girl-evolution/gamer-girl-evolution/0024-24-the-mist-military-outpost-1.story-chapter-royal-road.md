@@ -1,0 +1,163 @@
+---
+id: 741089e3-eb97-5026-9e38-a3fb44f85695
+page-type-slug: story-chapter-royal-road
+title: "24 - The Mist Military Outpost (1)"
+slug: 0024-24-the-mist-military-outpost-1
+partOf: gamer-girl-evolution
+position: 24
+ownLength: 2128
+unit: words
+ownProgress: 2128
+publishedAt: 2025-10-29
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2714640/24-the-mist-military-outpost-1"
+royalRoadId: "2714640"
+markedReadAt: "2026-06-29T20:06:21.182Z"
+---
+
+As Celica departed from Marshia, she turned her attention to the place which had been on her mind since she first discovered it. She'd decided to make that her immediate priority, disregarding anything else she could be doing like forging or coin grinding.
+
+She didn't have any great materials to forge with currently anyways, and coin grinding, while useful in the long run, was really only something she needed to do once everything else was out the way.
+
+Since it was on the way to the outpost, she decided to stop at Blade Village and top-up her current equipment with repairs (not that she needed to repair much of it since she'd been boosting Ingrid mainly empty handed).
+
+In truth, repairing her armour and weapon was her secondary purpose for visiting Blade Village. Her first and primary objective was to change her outfit.
+
+[You have equipped The Phantom's Mask.]
+
+[You have equipped The Phantom's Blade.]
+
+Once she'd entered the blacksmith's forge, she decided to change into her Snapped Sword disguise. Without warning, the blonde haired girl transformed into a tall black haired male with sharp features. Her outfit drastically changed to a darker fit with red accents. Her blade had also transformed to become a gleaming crimson sword.
+
+If she was going to a special area or a place she wasn't familiar with, she'd prefer to be in disguise. This was because if it was an area only special players could access, she didn't want people to know she was a high level player.
+
+Once she'd changed into her outfit a small smile crept onto her face. She was starting to enjoy the feeling of having two—or rather, three—identities.
+
+Now that she'd achieved her objective, she jolted towards the outpost rapidly, glitching strangely as she did. With every step she teleported a few meters until she was covering distance so fast that even those with the surname 'Bolt' could only look on in admiration.
+
+Before long she'd traversed the entire distance and was staring at the foreign location in front of her. As she did, her eyes went wide with disbelief.  This is... crazy, she thought inwardly as she carefully eyed the entire structure before her.
+
+In front of her was a colossal military outpost so large that the map icon hadn't done it justice even slightly. A huge wall stood in front of her with soldiers stood on top of it, bows and arrows drawn and ready to fire.
+
+They all seemed anxious, as if they were on edge for some reason. Celica could see them whispering to each other once they saw her before readying their bows, aiming directly at her.
+
+Was this a trap...? she thought to herself as she analysed her surroundings. In the later realms, it was rare but, sometimes the system wasn't always on your side. Sometimes it'd feed you false information as a result of an NPCs actions or meddling. For example, Slimonius saying he'd send them all to the second floor but instead he sent them to Earth.
+
+It was uncommon but not entirely unlikely. But the question was... why? Why would they be out for me...? Her mind raced as she considered all the possibilities before she came to a striking realisation.
+
+Is it because I've been glitch abusing so the game wants to give me a penalty...?
+
+Suddenly, her body felt cold. She wasn't about to let herself die just like this though. Usually, when the system had it out for you, they didn't let you off with a simple loss of exp after dying. She'd probably lose a lot of money and levels too. Maybe even a random item.
+
+There was only one thing left to do, she thought to herself as she drew her blade.
+
+Run.
+
+She immediately placed her sword back into her inventory and turned tail, running for the hills. Or rather, for the swamps.
+
+Before she could react, however, she heard a commanding voice.
+
+"Halt!"
+
+Without noticing it, she'd stopped dead in her tracks. But she wasn't the only one. All of the soldiers on the wall halted too, and for some reason, they looked even more nervous than when they saw Celica earlier. The owner of the voice quickly showed himself.
+
+It was a tall, broad-shouldered man with a weathered, battle-hardened appearance. His skin was tanned and rough from years of exposure to the harsh conditions of the marshlands, and his face was covered in a short, grizzled beard that matched his dark brown hair, which was now streaked with grey.
+
+His eyes were piercing and sharp, and they always scanned his surroundings, as if he was anticipating a threat. Those eyes held the weariness of someone who had fought too many battles but refused to back down.
+
+He raised a hand and scratched his hair slowly. "This is why I hate new recruits. Juno! What were the instructions I gave you?"
+
+A recruit slightly shorter than him stood at attention before replying. "Sir, I forgot sir!"
+
+"......."
+
+The man looked around, utterly disappointed. "Balthus?"
+
+"Sir, I forgot too, sir!" The other young man, seemingly called Balthus, replied.
+
+With disgust, the man scanned all of the other recruits with his eyes hoping someone, at least one person had remembered the instructions. To his dismay, none of them had. His insults came swift.
+
+"Incompetent dimwits. Once this is all over give me 100 laps of the entire Marsh," the man said casually, as if it was of no consequence.
+
+The recruits all looked aggrieved but not even one of them offered a word of complaint. The man wasn't the type to tolerate complaints.
+
+Celica watched the scene in awe, dumbfounded. What sort of useless recruits... where did they find these people... floor one?
+
+Still a certain phrase stuck out to Celica. The man had said, 'when all of this is over'. What did he mean by that?
+
+"Since you've all forgotten let me remind you. I said be poised and ready. You all accomplished that. Good job. However, I also said, that either the Cyclops or the Troll Killer would come. If the Cyclops arrived, you were ordered to kill it without mercy. If the Troll Killer arrived, you were ordered to welcome them with open arms." The man explained.
+
+"But Captain, you said the Troll Killer was a girl with blonde hair? You didn't tell us what to do if it wasn't the Cyclops or the Troll Killer." One of the recruits spoke up in their defence.
+
+"I did say that didn't I," the captain said as he rubbed his chin.
+
+Instantly, Celica realised what was going on. Her heart started beating faster. This was a unique storyline only available to the person who finished the main quest of kill 50 trolls first. She was the Troll Killer.
+
+She theorised that she might be the only one to have this icon on her map. The conditions to activate this storyline could've been be the first to complete the main quest in your area, zone or maybe it was in the entire world. If it was the latter, then it meant this whole storyline was completely unique to her. She had no way to tell which one it was just yet.
+
+What confused the NPCs, ironically, was her disguise. Their captain had told them that she'd be a blonde haired girl when in reality she'd showed up as a black haired man so that comical misunderstanding played out instead.
+
+"I can't blame you newbies for not figuring it out, but that is the Troll Killer. She's just in disguise," The captain said, his eyes narrow. Hearing his initial words, one of the recruits looked up at him hopefully only to be shutdown. "You're all still running so don't even try it. Juno, Balthus, open the gates!"
+
+In a flash, the two beside him rushed to the bottom of the wall where large iron gates stood. Finally, the captain addressed Celica from above.
+
+"Welcome, nemesis of the trolls. We've been expecting you. My apologies for the not so warm welcome."
+
+[You have entered the Mist Military Outpost.]
+
+Inwardly, Celica breathed in a sigh of relief. She was glad she was overthinking the whole thing when they drew their bows earlier. It wasn't a trap. In the contrary, it was a fortuitous opportunity. One she'd definitely make the most of.
+
+As she walked through the gates, ushered in by Juno and Balthus, the captian came to greet Celica. "Greetings, I'm Captain Thorne, the commander here at this outpost. How may I refer to you?"
+
+"Snapped Sword." Her response was quick and pre-planned.
+
+"Right, Snapped Sword.  A fine name indeed!" Captain Thorne laughed jovially. "Sorry to be direct but the truth is, we need you." His tone shifted completely in a matter of milliseconds. He looked Celica in the eye before continuing.
+
+"Follow me," he said as they made their way into the heart of the outpost. As they moved through the outpost, army barracks smothered them from either side. But the place was strangely... empty.
+
+And although it was empty, the deeper they moved into the outpost, the louder it got. Like a shouting sound. Like the sound of something rumbling. Like something was... coming.
+
+Captain Thorne began climbing onto the wall on the opposite side of the gate and Celica followed suit. Her eyes widened as she looked at the scene in front of her with horror. "What the hell is going on down there..."
+
+"Isn't it obvious?" Captain Thorne paused. "War."
+
+Beneath them was a battlefield. On one side was the military outpost's force battling harshly against monsters from the marsh, though the monsters had been altered slightly.
+
+The monsters below weren't normal trolls, and they weren't normal mud golems or ogres eithers. Instead they were bigger, stronger and had strange purple markings all over their bodies.
+
+Celica recognised that phenomenon anywhere, she'd seen it plenty of times in the later realms but happening already on floor two was unheard of. Her head swivelled as she looked around.
+
+"So you've noticed it as well," Captain Thorne said slowly. Then, he raised a hand and pointed to an obscure corner. "What you're searching for is over there."
+
+Celica's eyes followed his hand and just like he said, what she was looking for was over there. There was a mystical distortion in the air, which foreign creatures were coming out of one by one.
+
+Stranger than that, however, was that there were creatures native to the Marsh walking through it on the opposite side and as they did they transformed. Their levels increased, they grew strange purple markings and they grew stronger.
+
+"A rift..." Celica said to herself out loud. Now this will be troublesome. Usually, an invasion from a rift was something tied into the game's main storyline. If she didn't deal with this properly, it could affect more than just this floor.
+
+"So you understand the gravity of the situation," Captain Thorne said approvingly. "You catch on quickly. I can see why you were able to become the troll's mortal enemy."
+
+Honestly, mortal enemy was an understatement considering how Celica had disrespected them earlier by leaving them on one HP with the lightest unarmed attacks she could manage.
+
+"All of my capable men have died, save for a few new recruits with potential. I have no one else to rely on. I can't leave this place, I must defend it with my life and give hope to the men here. I need you, Snapped Sword, to clear the monsters from the rift and save the rest of my men who are still fighting.
+
+There's a strong purple frog down there which I believe is the source of all the monster's strength. I believe if you dispose of that enemy, the rift should close. Should you succeed, the rewards will be plenty, I guarantee it. Are you willing to help?"
+
+Quest Title: Defender of the Mist
+
+Quest Giver: Captain Thorne
+
+Location: The Mist Military OutpostLevel Range: 30-36
+
+Nature of the Quest: One-time (this quest cannot be replayed or retried).
+
+Quest Description:
+
+The strange rift in the marshlands is growing rapidly, and its influence is distorting the environment and creatures around the outpost. The rift’s power is mutating the local wildlife into terrifying, unpredictable monsters. Captain Thorne needs your help to defend the Mist Outpost and investigate the source of this chaos.
+
+Strange rift-corrupted creatures are attacking the outpost in waves, and the soldiers are on edge. These creatures are stronger and more dangerous than normal, with the ability to use water magic and launch powerful attacks. It’s up to you to hold the line and protect the outpost while striking down the enemy's main boss.
+
+Quest Objectives:
+
+Quest Rewards:
+
+[Will you accept this quest?]

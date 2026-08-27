@@ -1,0 +1,153 @@
+---
+id: caf78e5e-6a41-50bc-bd54-8820cb8f3d48
+page-type-slug: story-chapter-royal-road
+title: "49 - The Ancient Dragon Sovereign of Curses (2)"
+slug: 0049-49-the-ancient-dragon-sovereign-of-curses-2
+partOf: gamer-girl-evolution
+position: 49
+ownLength: 1663
+unit: words
+ownProgress: 1663
+publishedAt: 2026-01-20
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2961586/49-the-ancient-dragon-sovereign-of-curses-2"
+royalRoadId: "2961586"
+markedReadAt: "2026-06-29T20:07:08.753Z"
+---
+
+[Ancient Dragon Sovereign of Curses is entering its second phase.]
+
+[Fifteen seconds remain before it reinitiates combat.]
+
+The party stood in a withdrawn silence, their eyes locked onto the beast as it prepared to enter its next phase.
+
+Doran’s gaze flicked over to his team. The intensity of the dragon's aura was only increasing and the entire colosseum felt like it was shaking. The tension in the air was palpable.
+
+“Alright.” Doran’s voice cut through the silence, firm and commanding. “We need to finish this quickly. Anyone got any status ailment mitigators?”
+
+Triton, already bracing for the next phase, shook his head, his heavy armour clanking. “None, Commander. Just low tier potions and antidotes. Nothing that’ll work quick enough against that thing's poison.”
+
+Semmia grimaced. “Same here.”
+
+Ophel and Thorne shook their heads too.
+
+Ulza looked down at her summoning tome, her fingers tapping the cover absentmindedly. “Not a single thing. I'm a summoner...”
+
+Doran nodded, his expression hardening. “In that case, we have to end this quickly. The longer this fight drags on, the worse it’ll get with all its curses. If we don’t finish it quickly, more of us will be affected.” He glanced at his team, eyes narrowing. “We can’t afford to let this drag out. Understood?”
+
+Everyone nodded in agreement, their faces grim but resolute. The weight of the situation was clear. If they didn’t push forward, they would all fall to the poison, one by one.
+
+“I’ve got a powerful skill I recently obtained from a dungeon,” Doran continued, his voice steady. “I'll need time to channel it. I’m planning to use it on the final phase to nuke the dragon. But I can’t do it alone. I’ll need you all to protect me, to stall for time.”
+
+Semmia stepped forward, her staff crackling with arcane energy. “We’ll make sure no one interrupts you, Commander. You have our backs, and we’ve got yours.”
+
+“Agreed,” Thorne adjusted his bow and gave a slight nod. “We’ll hold the line.”
+
+[Ancient Dragon Sovereign of Curses has entered its second phase.]
+
+The dragon’s massive wings unfurled with a deafening crack, sending gusts of wind whipping through the colosseum. A deep, guttural roar split the air, and the creature took to the sky with terrifying speed.
+
+Its massive form eclipsed the sunlight as it hovered above them ominously. Its tail lashed, and its wings flapped with the force of a storm.
+
+“Move out!” Doran shouted, his hand reaching for his sword, but it was clear that the ground-based fighters would be left on the defensive. Especially since Berserkers like him didn't have any long-range attacks.
+
+As the dragon hovered above, it opened its mouth, unleashing a torrent of poisonous breath that rained down on the colosseum floor. The ground beneath them began to blacken, as patches of poison spread across the arena.
+
+"Don't walk on or touch those black patches! I've seen a monster like this before! Just going near that area will inflict a deadly status effect which none of us will be able to cleanse!" Thorne shouted, noticing the similarities between the current boss' attack and one he'd seen before from a different boss.
+
+“[Thunder Spear]!” Semmia cried out, her staff raised high. Lightning crackled through the air, coalescing into a powerful spear of energy that shot straight for the dragon. It struck true, unleashing a surging current through the dragon’s scales as it let out an enraged screech.
+
+Ulza’s eyes glowed with fierce determination as she raised her hands to the sky, her voice low. “[Swarm of the Fallen]!”
+
+With a surge of dark magic, a cloud of black, winged creatures materialized around her.
+
+[Dark Bat - Lv. 544]
+
+[Dark Bat - Lv. 545]
+
+[Dark Bat - Lv. 544]
+
+The air crackled with energy as hundreds of bats swarmed into the air. Their leathery wings beat in unison, creating a sharp, eerie whine as they converged on the dragon.
+
+The dragon shrieked in irritation as the bats dove at it, their sharp claws tearing into its scales.
+
+Though the dragon lashed out in retaliation, the swarm was relentless, biting and scratching constantly. Ulza watched with satisfaction as the bats pounded the dragon with rapid, piercing strikes, each hit causing the beast to falter mid-flight.
+
+Thorne steadied his breath, his eyes narrowing as he took aim. He didn’t hesitate. With a swift, fluid motion, he drew an arrow from his quiver, the magic-infused shaft humming with energy.
+
+“[Piercing Shot],” he said, muttering under his breath as his fingers pulled the bowstring back with practiced precision. His focus narrowed to a single point—the exact spot Ophel had struck earlier. He’d seen the crazy damage she'd inflicted. Now, it was his turn.
+
+The arrow flew, cutting through the air like a streak of light. Time seemed to slow as it soared, threading the gap between the dragon’s massive claw and its skull.
+
+With a sickening crunch, the arrow struck exactly where Ophel’s daggers had pierced moments before, cutting deep into its right eye. The dragon howled in agony, its wings flapping erratically as it reeled from the penetrating blow.
+
+Its body twisted mid-air as it dive-bombed toward the party. It seemed to fixate on the party member who had dealt the most damage, and Thorne’s hit seemed to have had drawn its ire. With terrifying speed, the dragon aimed its claws at him, descending like a living missile.
+
+The dragon unleashed a volley of toxic blobs, each one splattering into the colosseum floor. The air turned foul as they burst, creating small poison zones that lingered, threatening to weaken anyone caught in them.
+
+“Thorne, move!” Doran shouted, his voice harsh as he saw the dragon’s dive coming. But it was too late.
+
+Thorne darted to the side, narrowly avoiding the dragon’s claws as the poisonous blobs landed in the space he'd just vacated.
+
+“Triton!” Doran yelled.
+
+Triton, understanding the order without it being stated explicitly, rushed to intercept the dragon’s next dive. He took up a defensive stance between Thorne and the dragon, his shield raised and glowing with defensive energy.
+
+The dragon veered off course as Triton became the focus of its aggression, its claws crashing down on him with crushing force. “[Immovable Fortress]!” Triton roared, his defensive skill activating as the dragon slammed into him.
+
+The force of the blow pushed Triton back several feet, but his shield held, his aura absorbing the brunt of the impact.
+
+Thorne took his chance. With the dragon distracted by Triton, he drew an enchanted arrow, its tip crackling with energy. “Eat this!” he shouted, loosing the arrow in a swift motion. “[Magic Arrow]!”
+
+It sailed through the air, striking the dragon directly in the underbelly with a burst of magical energy. The dragon shrieked in pain as the arrow exploded on impact, forcing it to recoil.
+
+The dragon, furious and more erratic now, began to circle higher. It began to drop poisonous blobs again, but this time, the areas it aimed for seemed entirely random.
+
+Semmia, stayed focused and conjured a spell calmly.
+
+"[Rain of Ice]."
+
+Shortly after she activated the skill, a barrage of large icicles rained down on the dragon’s wings. The cold emanating from the icicles froze part of the dragon’s scales and it let out another roar of pain.
+
+The dragon hissed, its eyes glowing brighter as it prepared another aerial dive. This time, it targeted Ulza, whose summoned creatures were still wreaking havoc on its body.
+
+Triton, seeing the dive coming, leapt forward. He slammed his shield into the ground, creating a defensive barrier around Ulza just in time. The dragon’s claws missed her by inches and instead Triton took the full brunt of the blow.
+
+But he endured.
+
+With a few more close calls and well-timed saves from Doran, Triton and Ophel, the ranged attackers in the party managed to get off their spells and abilities. Over time, the dragon's HP steadily decreased as they kited it with growing efficiency.
+
+[Ancient Dragon Sovereign of Curses| HP: 40.0%]
+
+[Ancient Dragon Sovereign of Curses has entered its third phase.]
+
+With a sudden flash of purple magic, the dragon’s roar echoed throughout the colosseum, causing the floor to crack open in multiple places.
+
+From these cracks, a wave of slithering, venomous creatures began to emerge.
+
+[Venomous Slime - Lv. 550]
+
+[Poisonous Draconic Spider - Lv. 550]
+
+[Ancient Cursed Python - Lv. 550]
+
+“More enemies?” Ophel snarled, brandishing her daggers as she darted straight for them.
+
+Doran’s eyes narrowed as he assessed the situation. “We’ll split up. Triton, Thorne—take the spiders. Ulza, Semmia, I need you on the slimes—take them out with your AoE before they overwhelm us. Ophel, you’re with me. We’ll deal with those pythons and whatever gets past them.”
+
+The party sprang into action, their movements synchronized from years of teamwork. Triton moved first, his massive shield raised, and Ulza moved next, flicking her tome to a different page.
+
+[Water Golem - Lv. 548]
+
+[Water Golem - Lv. 548]
+
+The golems slammed their fists down, crushing the slimes around them in a huge tidal wave. The slimes attempted to retaliate with an acidic spray, but Semmia's [Meteor Barrage] had already incinerated them.
+
+Thorne drew his bow and fired a barrage of arrows at the same time. His first [Magic Arrow] pierced one of the Poisonous Spiders, causing it to explode in a sickly splash. The rest of the arrows moved in random directions, before locking onto other mobs and piercing through them directly.
+
+Doran moved through the crowd of pythons, his blade a blur. His eyes flicked to his rear, where a blackened patch of ground had formed.
+
+Ophel had been so focused on the monster's movement patterns, that as she spun to attack a python, her foot mistakenly landed on the edge of the poisoned area.
+
+She staggered back, her face contorting in pain as the poison began to take hold. A dark, venomous glow spread up her leg, and her health began to rapidly drop.
+
+Not good.

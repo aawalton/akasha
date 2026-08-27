@@ -1,0 +1,99 @@
+---
+id: 3a737201-55da-5dd6-8a84-aa42a009dda9
+page-type-slug: story-chapter-royal-road
+title: "125. Killing Farm"
+slug: 0125-125-killing-farm
+partOf: god-of-trash
+position: 125
+ownLength: 2211
+unit: words
+publishedAt: 2025-07-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2422390/125-killing-farm"
+royalRoadId: "2422390"
+---
+
+The few remaining guards who hadn’t been thinned by Rhys and Lira’s attacks charged. Rhys charged to meet them. He struck with his sword, knocking the first guard’s weapon aside, then gripped the guard’s face and pulled, drawing the man’s energy and body into his trash star. Lira struck. Her sword swirled, dancing like a whip. It swirled past the guard’s sword and slashed deep cuts into his arm. He released his sword and stumbled back, directly into Rhys’s waiting hand. Rhys gripped his skull tight and pulled, drawing out his energy, then his body.
+
+The guards here were all Tier 1 and 2, or else he wouldn’t be able to absorb them so freely. He struggled to absorb people at his Tier unless they were severely injured or dead, on top of the basic path limitation. If they were a lower Tier than him, though, it was ridiculously simple to absorb them. They barely even made a dent in the massive storage space around his core. Of course, there was also that void in his core, that hole to somewhere that he didn’t understand anything about, but that… was something he was better off not thinking about. At least not in the middle of battle.
+
+The last of the guards fell under his and Lira’s combined onslaught, with the newly-reinstated mage barely getting to combat before the fight was over. He stood around awkwardly, looking a little out-of-place. Rhys quickly absorbed the remaining guards, then turned to the ones who were following them and pointed out another two former prisoners. “You two, step forward.”
+
+“There’s more guards coming. You, come with me. We’ll keep them off him,” Lira ordered, gesturing at the other mage. He nodded and jogged over to her side, and the two of them ran to meet the next set of guards.
+
+Rhys smiled at the two he’d chosen. “This won’t take long. It might hurt, but it should be over quickly.” He lifted his hand.
+
+The first one stepped forward, placing her shoulder under her hand. The resolve in her eyes told him she wasn’t going to give up no matter what. He closed his eyes and poured power into her, forming a core as quickly and robustly as he could. She clenched her teeth in pain and sweat rolled down her brow, but she refused to make a noise, until at last he released her shoulder, and she stepped back and gasped in shock, then raised her hand. A fireball whooshed into being in her palm.
+
+Rhys gave her palm a longing look. “Treasure it,” he said quietly.
+
+“I will, of course I will. I’ll treasure this core until the end of my days,” she promised.
+
+I meant the fireball… oh, well. Rhys put his hand on the next man’s shoulder and pushed power into him, reforming his core.
+
+As he reformed the man’s core, he turned his attention to the bundle of bugs in his core. He’d absorbed hundreds, no, thousands as he’d walked through the fields, all of them pests. There were beetles, flashy, petal-eating things with nothing but their carapaces and wings to help them survive. There were centipedes with their long, slinky bodies and venomous fangs, and millipedes with their rounded tops and hundreds of tiny legs moving in sync. Grubs, too, joined the mix, caterpillars and pupae of all descriptions. There was a bundle in his core of just ants, some of them fiery, with a powerful venom in their bite, or simply large fangs. Flies, undesirable worms, silverfish, roaches, wasps and hornets, every kind of bug except for spiders, which weren’t pests and didn’t threaten the plants in any way.
+
+For the most part, he could separate their attacks into two types: venomous and non-venomous. The venomous ones had stings and irritants, for the most part, not deadly poisons, though a few of the centipedes, especially the ones with a hint of mana to them from gnawing on the herbs, had truly dangerous venoms, but they were rare among the garden pests he’d absorbed. Some of the venomous ones stung, others bit, but they all delivered their venom through puncturing the skin.
+
+Of the non-venomous ones, they primarily attacked via biting, and had powerful jaws and a bad temper as their defenses. Since he didn’t want to go around biting people, he rejected that as something to take on himself, but instead used it to inspire the spell he was cooking up in his head.
+
+Biting. Stinging. Venom. Not a real attack, not meant to kill, but meant to harm, irritate, dissuade, annoy. An attack he could use as a warning, or to distract from a real attack. A completely and totally trashy attack that would never kill anyone, but one that could be more essential to his battle power than any killing attack would be. After all, why dodge a weak attack? And yet, an irritation could cause a critical distraction exactly when he needed to strike hard, and end the battle.
+
+He finished building the man’s core and stepped back, still lost in thought. The man fell to his knees, thanking Rhys, but Rhys didn’t register it at all. Instead, he raised his hand and called forth the bugs, summoning them back from his core; or rather, not summoning the actual bugs, who had long since bit it, but instead, their essence. The bug essence swarmed around his hand, taking form into a swarm of translucent stinging, biting, buzzing, immensely irritating bugs.
+
+A notification popped up in the bottom corner of his vision:
+
+Bug Swarm acquired!
+
+The man he’d given a core to, and all the other ex-mages who were following him, stared in confusion. He’d been repairing the man’s core, then pulled a swarm of bugs out of him? A few of the mages edged away from the man, who awkwardly touched his core. Was it all okay in there? He wasn’t infested, right? Surely that wasn’t where the savior had gotten all those bugs from… right?
+
+Rhys waved his hand, and the swarm of bugs zoomed off, a pale streak of blue light surging through the air toward the other guards that Lira and the re-cored mages fought against. One of the guards swung his sword, about to strike a serious blow against one of the mages. The mage whirled, raising his recovered sword from one of the other guards to block, but too slow. His eyes widened in fear.
+
+The bugs reached the guard and swarmed around his face. They clawed, bit, and stung at his delicate facial skin, wriggling into all his holes, his nose, his ears, his eyes and even his mouth. He screamed and clawed at the bugs, dropping his sword in his shock, and the mage whirled and slashed the guard’s chest open. Blood gushed and the bug-swarmed guard dropped to the ground.
+
+Rhys raised his brows. It was different than the rat swarm, in that it took less energy, activated faster, and was harder for the opponent to shove off, escape, or kick away. Though the damage the bugs did was truly negligible, he could see a future where the bugs could burrow into human orifices and do horrifying things within. It was an irritation technique for now, but it was a technique with potential. In the future, who knew how powerful an insidious technique like that could become?
+
+He turned to the rest of the mages. “I only have enough mana for this many cores right now. We’ll have to press on.”
+
+The other mages nodded. The one man saluted and raced off to join Lira, running as if he couldn’t get away fast enough. The rest of the mages seemed relieved as he ran away. Rhys frowned, confused. Maybe they were annoyed by him getting a core first? That didn’t seem correct. He cleared his throat. “Is he… good? Er, I mean, he wasn’t a bad person to give a core to, right?”
+
+“No, no. He was one of the best of us. Someone who went out of his way to support people who were injured in the fields,” one of the women reassured him quickly.
+
+Then why…? Rhys looked after him one last time, then shrugged. This group surely had complex interrelations the same as the mines had had plenty of drama and interactions, even among the prisoners. He’d kept his head down there and focused on his escape plan, so he didn’t even fully understand that, let alone entering a totally different camp with its own interactions and relationships. He couldn’t understand everything in one go.
+
+Rhys sensed a blast of energy hurtling toward him, too fast for the un-cored mages to escape. He whipped around, looking up, and found a huge fireball hurtling down on them from above, burning so hot he could feel it seconds after he saw it. The other mages noticed and screamed, some scattering, others hunkering. Rhys stepped forward, summoning out a large piece of brick wall from his storage ring, and used Trash Intent to recreate it to its original wall size. The fireball slammed into it and burst it apart, but lost all its energy in the process. Both the fireball and the wall broke into smithereens.
+
+Rhys stumbled back, swallowing blood as the backlash from his Trash Intent breaking hit him. It’d been a long time since he’d felt that pain, but with this fireball, he had to absorb it, or else the mages were in danger; dismissing the Trash Intent as it struck might lessen its power enough for him to survive, but the other mages would die.
+
+A guard with bright red hair chased after the fireball, laughing as he hurtled down toward Rhys. “So, you blocked? I acknowledge you as worthy of fighting me!”
+
+Oh, gods. One of these, Rhys thought, already feeling a headache come on. They were ever-prevalent in his trashy manga, the battle maniacs who craved a good fight more than anything and went out of their way to antagonize others and test their strength. Sure, it could be fun, but more often, they were just obnoxious, and this guy seemed the obnoxious type.
+
+A second later, he paused, looking over the man again. Spiky red hair, male… He raised his brows. “Sir, how do you feel about getting stepped on?”
+
+The red-headed mage gaped. “I… what?”
+
+He glanced over his shoulder at Lira. On one hand, this guy didn’t seem nearly strong enough to earn an audience with the Empress; on the other hand, Laurent had apparently qualified, so who knew? He cleared his throat loudly, hoping that Lira would hear him, but she was busy with the low-ranking guards and keeping the re-cored mages from killing themselves in their urgency.
+
+I guess I’ll have to ask her later. Or… fish for hints. Rhys grinned, amused. One of those sounded like far more fun, so why not?
+
+He drew his sword and pointed it at the man. “There’s nothing shameful with a humiliation kink, you know. Unless you want it to be shameful, I guess. It is a humiliation kink.”
+
+“What… what the hell are you talking about?” the red-headed mage asked. He crossed his arms and struck a pose, summoning a wreath of fire to circulate behind him. “I’m Feran, a bold and powerful fire mage! I’ve been accused of sadism before, but never masochism! Good to meet you!”
+
+And just like that, I’ve learned too much. Rhys struck a counter-pose, not wanting to miss out as long as they were doing poses. “And I am R… Rend, the mysterious and powerful yet indescribable mage!”
+
+As much as he wanted to play along, he really shouldn’t give his real name. But on the other hand, what was better than an edgy name for no reason? He only got to choose so many aliases in his life, and he’d already named one Rina, which was a classy, fantastic alias… but it wasn’t the absolute trash tier over the top edgy name, and what kind of person dragged to another world didn’t give themselves a name like that? Honestly, so far, he’d been so shockingly reserved that he was surprised at himself for doing so well for so long. Now that he looked back at himself, he really had only developed one classy alias. How could it be? Even in the real world, he’d called himself god_of_trash! He’d had myriad email addresses and near infinite online usernames! This… this was insane! He’d gone too long under but two names!
+
+But luckily, he could now be Rend, mysterious, powerful, indescribable. He let out a relieved breath, finally feeling at home, as if a final piece had clicked home after a long, long time without it.
+
+Feran frowned at him, tilting his head. “Are you okay?”
+
+“In the head? No,” Rhys—no, Rend, replied. He beamed.
+
+“And now I know too much,” Feran complained.
+
+Rhys glared at him. How dare he, honestly, when he’d been the first to draw that line? He whirled his sword. “When two men of our caliber meet, there’s only one way this can end.”
+
+“With me grinding you into the dirt under my heel?” Feran asked.
+
+Rhys laughed. “You aren’t a tall, big-breasted woman!” And with that, he charged.

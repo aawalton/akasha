@@ -1,0 +1,139 @@
+---
+id: 1c0e23e9-17d3-5d41-874e-49255fb2ad58
+page-type-slug: story-chapter-royal-road
+title: "Threads 398-Recovery 6"
+slug: 0442-threads-398-recovery-6
+partOf: forge-of-destiny
+position: 442
+ownLength: 1556
+unit: words
+publishedAt: 2024-08-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1780036/threads-398-recovery-6"
+royalRoadId: "1780036"
+---
+
+The comb tugged at the strands of her hair, causing a faint prickle on her scalp.
+
+"You have gained another inch. An immortal body's vitality truly is unmatched," her mother, Ling Qingge, observed.
+
+She was managing to sit up without support today. Though she could feel her focus and energy trickling away from the strain, it was a worthy effort. She sat on her bed beside her mother, hands folded in her lap as Mother tended to her hair. It had been many, many years since they had done this.
+
+"I'm glad. I don't want to think how long it would take to grow my hair back, otherwise," Ling Qi said.
+
+"Ah, there is another spark." Ling Qi winced as she felt her mother pat the flame-resistant damp cloth to her head, extinguishing it.
+
+"You're taking it much better than the first time I was injured."
+
+"My daughter has been teaching me to cultivate my nerves."
+
+She bowed her head in acknowledgment of the mild rebuke. "The sparks are a good sign that the medicine is cleansing the fire qi from my channels."
+
+"Indeed, so long as your head does not catch fire."
+
+"Mother… Thank you."
+
+"I would not deserve to be called even that much, if I could not brush my daughter’s hair."
+
+"You know that's not what I'm talking about," Ling Qi said, taking her turn to admonish. "I understand how I hurt you, coming home like this and when I said I couldn't apologize."
+
+Apologizing for something she might do again was not a lie worth telling.
+
+"It is difficult for me to accept, but I believe that you were certain that the assisting General Xia was the best choice for the province. You are far more dutiful than I."
+
+"No idea how I managed it. Lady Cai said the same thing, but she probably just infected me."
+
+"It is not fair to upset your mother by being too dedicated and loyal. How am I meant to scold you without sounding like an unvirtuous woman?"
+
+"Apologies, Mother. I will never stop being a troublesome daughter, I think."
+
+"I suppose not. On another note, have you spoken with Yu Nuan?"
+
+Ling Qi hummed as her mother dabbed at her scalp with the cloth again and resumed combing. It was soft and soothing, though even with her sitting down, Mother had to reach up to do so.
+
+"I did. I got a message from her earlier today. I intended to tell you over dinner. Her leave will line up with ours, and the paperwork is done. We can have the ceremony in two weeks, like we planned."
+
+"Good. It may be that she does not see it this way, but a clan should be bound by more than a contract." Ling Qingge teased at a tangle.
+
+"I don't think she will hate that. She puts on a hard front, but I suspect she merely did not wish to impose."
+
+"I will trust your judgment. Did you try on your gown?"
+
+"Yes, Mother," Ling Qi said fondly. "Hanyi helped me with it. The fit is good."
+
+"I'm glad. A ceremony like this should not be haphazardly presented." Her mother nodded firmly. "Turn your head to the left, Ling Qi. Your ear is smoking."
+
+"Thank you, Mother."
+
+***​
+
+"The glitter over the pond is really nice. Gui missed Big Sister's mist."
+
+Ling Qi exhaled, leaning against his shell, watching the whorls of chill mist ripple out and the sparkle of forming and melting frost reflected in the pond. Her mist was closer to silver now, wafting and ephemeral, more a shimmering frosty veil than a dark cloud.
+
+Her meridians still itched and throbbed, unusable, but now, nearing a full month after the summit, she could finally feel her nascent domain again. Her soul, having burned down to embers in the summit’s climax, was beginning to burgeon under her skin again.
+
+With how much she had been thinking recently on clarity in communication, it was funny that her expressed soul was an obscuring mist. But in recognizing the value of clarity and in enshrining its importance in her cultivation, she could also see the value in denying it to her enemies. That was an imperfect answer though.
+
+"I missed being able to rest like this." She stretched her bandage-wrapped legs out on the grass. Her chair was behind them on the garden path; Hanyi would be back to help her back in later. "Did you really let them all put planters on you when you were doing your rounds?"
+
+"I, Zhen, began to receive offerings, but did not have the funny space rings," Zhen replied, a little sulky at the teasing in her voice.
+
+"Gui thinks that would be mean to the plants, and no good to put them away in a dark box. It is better like this, although Gui admits he cannot wear the jangly garden everywhere."
+
+"I, Zhen, have told you I refuse that name!"
+
+Ling Qi covered her mouth to hide a laugh. "Well, it is very noisy, but also very pretty."
+
+Zhen’s long body drooped. "Big Sisterrrrrr."
+
+"But that just means you have to use more grand synonyms, Gui."
+
+"Oh, Gui gets it. Like… Um… Oh! Is Ringing Highland Garden good?"
+
+"Noooo," Zhen hissed, defeated. "It is only temporary…"
+
+"Better! But you need more wordplay," Ling Qi said. She bit the inside of her cheek as she forced her hand up above her head to pat Zhen on the snout. "Maybe it can be your regalia when you go around the farmlands each spring?"
+
+"Regalia? Oh, I like fancy hats and dresses. Gui asked if he could have a hat, but the scholars said they had no caps that would fit."
+
+"At least a scholar's cap might be dignified," Zhen grumbled. "If we are keeping a back garden, it must be better fitted! Zhen does not want to jangle! If it must be noisy, it should be like mighty gongs and temple bells, announcing my great presence!"
+
+"Oh, Gui would be okay with a bell," the turtle replied guilelessly and a little too quickly.
+
+… Had Gui been wearing Zhen down? How did that even work when they were two voices of the same mind? Was it like working oneself up to an exotic haircut?
+
+"Zhengui, I want to say it again, but thank you for taking care of our duties in Snowblossom while I and the others were at the summit location. I'm glad I was able to trust you with that."
+
+Their bickering died down. "Zhengui is glad that Big Sister can rely on him. Big Sister did a good job too."
+
+"Not going to scold me more and say I was wrong?"
+
+"No, because Zhengui understands. Big Sister has to follow the star. She will not be happy if she gives up."
+
+His voices blended together, one with two tones.
+
+"You're right." Ling Qi rested her head against the hard surface of his shell, and she put her hand on Gui's head. "I don't begrudge anyone upset that I've been hurt, but I have no regrets. It was the right choice."
+
+"Gui trusts Big Sister when she says that." He nudged his snout against her hand.
+
+"I, Zhen, am proud of my sister."
+
+It was another small lie of hers perhaps to say she was wholly fine with the recriminations. It felt good to have her choice to sacrifice acknowledged. Cai Renxiang has done it too, but they had not spoken since she had returned to the base of White Cloud Mountain.
+
+"Look at me, fishing for compliments." Ling Qi breathed, and the mist roiled and spread, thinning out over the garden and creeping along the ground, shimmering among the dewy grass. Through her mist, she felt the garden, the simple dedication that had made it bloom, and the warm thrum of Zhengui's blessing in the soil, full of vitality.
+
+She spied a shape in her mist, a girl whose hair was awhirl with the winds. The girl’s plain dress flapped with the speed with which she ran, and she wore a fierce and carefree grin and had not one tenth of her problems because her Way was untroubled by questions, for that girl’s choice was always to cut and run.
+
+The phantom of possibility drifted away in the mist. That girl would not have been burned down to the core, but she would not have this garden, this brother, or this clan. She would not have had anyone at all.
+
+Family. It tugged at her, restricted her, and bound her. It freed her, fulfilled her, and kept her grounded. She could not quite imagine what her Way would have been like had she chosen not to reconnect. In the end, her Way was fundamentally about others as much as herself. This left openings, weaknesses that she could have avoided, maybe, but in her humble opinion, it also made her far less brittle.
+
+Ling Qi had no regrets. She was the center of a movement bigger than herself, and she was the supporting pillar of still other, even larger goals.
+
+"So, are we imagining the bell in bronze or iron? Because I think bronze would look better," she said.
+
+"Gui likes copper! It can become green!"
+
+"What have I, Zhen, done to deserve this?"
+
+It was good to be home.

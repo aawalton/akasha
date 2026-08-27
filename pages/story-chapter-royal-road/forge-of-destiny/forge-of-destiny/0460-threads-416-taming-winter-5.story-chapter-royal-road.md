@@ -1,0 +1,127 @@
+---
+id: 66ed6a60-bb92-5c4d-9c47-8fb5ce1f3f00
+page-type-slug: story-chapter-royal-road
+title: "Threads 416-Taming Winter 5"
+slug: 0460-threads-416-taming-winter-5
+partOf: forge-of-destiny
+position: 460
+ownLength: 1413
+unit: words
+publishedAt: 2024-11-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1924384/threads-416-taming-winter-5"
+royalRoadId: "1924384"
+---
+
+"How well do you think you can hold under its pressure?" Ling Qi asked.
+
+To her eyes, their camp, this little bubble of reality in the endless expanse of white, was being maintained well. The crushing pressure did not pierce the walls, only frosting the now fusing stones. Still, she would rather hear the words from the one performing the technique.
+
+Bo Qian knelt by their fire, which had boiled over. Soft smoke poured out of the charcoal and formed a smoky cover over the walls. It should have been choking, but somehow, the air she breathed was fresh and clear.
+
+"It's not a crushing pressure, but a wearing one. I can hold this protection for days, but if we wish to go anywhere, that is another matter." He looked at the top of the stone ramparts he had raised, now settled and solid as if they'd been raised to stand by expert masons. "As the situation stands, I suspect our friend could push harder, but…"
+
+"But that isn't its nature," Ling Qi finished. "It won't press, or even fight, unless we try to escape."
+
+"This smug jerk!" Hanyi complained. "Not even taking us seriously."
+
+Ling Qi shook her head. "You know better than that, Hanyi. Its actions have nothing to do with that."
+
+Her junior sister huffed and crossed her arms. "Yeah, I know. This is just how it normally is, huh?"
+
+"Yes, it is."
+
+Ling Qi peeked out beyond the walls with the help of dancing wisps of silver. She couldn’t perceive any center to the spirit, just a diffuse, featureless whiteness, and snow so solid that she could barely even perceive the gusts and flurries kicking through it.
+
+"I'm going to take this slowly,” Ling Qi decided. “Bao Qian, please…"
+
+"What were we just talking about?"
+
+The other cultivator chuckled and flexed his fingers in the dark earth. The walls of their fortification shuddered and settled, somehow becoming even more solid in her senses. There was a hyper-real density to them that reminded her of the fortified walls of a castle. It was the sort of formation-enhanced stone that even she would have difficulty passing through with her techniques.
+
+Free to study her opponent now, Ling Qi let her perception flood out on a thin ripple of her qi. The snows ate at her qi immediately, albeit far less elegantly than Huisheng's thieving fingers. She didn't pull away, fighting its pressure but letting the leeched motes be carried away into the storm.
+
+The voice of the snow sang.
+
+Quiet. Quiet.
+
+The cold cried out.
+
+Silence!
+
+It wasn't the same as Zeqing’s song.  This was the Whiteout Wonderland, a storm that blurred away the world, letting travelers wander in its depths until exhausted, they sank into the false warmth that preceded death. Still, this was a cousin to Zeqing, a spirit with no mountain of its own, but no less hungry or territorial for it.
+
+The spirit was not hiding in the snow, nor dematerialized like Ling Qi could be when hiding in her mist. The storm was the spirit, and although there was a core to enable it to keep existing from winter to winter, it was still more phenomenon than person. Even if she couldn’t contest the spirit’s raw power as she was right now, she could work with this.
+
+Ling Qi let out a breath and returned to herself.
+
+"Big Sis, are you okay? Your eyes looked like mine!"
+
+"Did they?" Ling Qi reached up. There was some frost on her cheeks. "I have an idea for solving this, but I'm going to need you and Bao Qian to hunker down and try to avoid its attention. I need the spirit’s full attention on me."
+
+Bao Qian was dubious. "I can close the field within my walls to muffle us, but you will have to be outside of the protection to get its attention."
+
+"Can you only do that for the finale?"
+
+He hesitated before nodding. "Just give me the signal, if you're certain."
+
+"I am."
+
+"I can't help?" Hanyi asked, forlorn.
+
+"This spirit really is one that only I can talk to properly. We'll get the rest together, Junior Sister."
+
+"... Okay. Kick their butt, Big Sis!"
+
+She hoped she wouldn't have to try, at least not in the way that Hanyi meant. She pushed her feet against the ground, and…
+
+And nothing happened. They remained on the earth. Ling Qi sighed, frowning at the fine, but still mundane, silk and fur of her gown. Right, her usual dress was still with Lin Hai.
+
+How annoying.
+
+"Bao Qian, could you raise me up?"
+
+"Hah. Of course."
+
+His fingers twitched, and a pillar parted the dirt beneath her feet and sent her up toward and through the smoky ceiling of their redoubt. Immediately, she felt a frigid chill, even as she allowed her mist to flow out into the featureless void of snow. The qi in her mist was whisked away, spinning off into the howling winds. But Ling Qi had witnessed how a thief could hold onto their treasures even when they vanished from a pocket.
+
+Hush. Hush. Hush. Sink into the white.
+
+Ling Qi inhaled, feeling her qi whorling through the vast circuit of winds surrounding her, and sang back.
+
+Quiet. Quiet. Winds rock cold bones to sleep.
+
+Her voice rippled outward. The great diffuse mass of qi around her shook almost imperceptibly.
+
+Silence? Silence? Lay heavy 'cross the land.
+
+The returning verse was a little different than the previous whispers, a curl of questioning in its tone.
+
+Silence. Silence. Glittering in the hills.
+
+Ling Qi sang in the same breathy, cruelly playful tone, her voice brought in sync with the spirit’s by the bleeding of her qi into the whiteout.
+
+Blow, wind. Blow. Wipe it all away. Beyond the fires, beyond the roads, snows quietly sleep.
+
+Even she had a hard time telling her own voice from the spirit’s as she aligned herself to it further and very carefully bent its intent with her own.
+
+The difference between them lay in purpose. This spirit, for all its power, was a directionless, all-consuming hunger. In a way, such simplicity was sad, but at the same time, if this spirit had been more purposeful or intentional, there would have been no choice but to destroy it. Such a spirit could not be allowed to exist near their mortal denizens. If this spirit were to be repurposed, though…
+
+This hunger was purest Want in its primal form. The qi she had fed into the spirit resonated far more strongly than the motes she had stolen from Huisheng resonated with her.
+
+Ling Qi pushed her qi outward and ceased to hold back the icy emptiness that surrounded her, letting her qi flood into the spirit’s channels. After all, she knew Want very well.
+
+To want was to live, to grasp, to strive. It was at the foundation of every bond, in the root of every ambition, and threaded through every movement of the world. To discern the deepest want in a soul was to find the key to understanding, or undoing.
+
+That was her truth, the core of Want as she understood it. It was the root from which self arose. Without want, there was no self. Yet, that all-consuming hunger was deeply entwined with winter. This was the depth of the season. This was what she called on in the middle stanzas of her serenade.
+
+There was a keystone missing from the Whiteout Wonderland, keeping it as this mere diffuse thing, only agitated to active action by a direct challenge.
+
+Ling Qi stood on a pillar of stone over a roof of congealed wood smoke. Ling Qi was everywhere within the whirling snows, a hundred visions of endless white and cloying silence broken only by the low monotone whisper of the wind. In her vision, there was only one imperfection, one blot of impurity protected within high curved walls of stone.
+
+There was so much warmth inside, warmth denied the comfort of her smothering cold. Did it not wish to be put to rest? How could it not? How could it persist when beautiful silence awaited?
+
+The fire was so warm. She WANTED it. It was rich in a way nothing else was, full of desires she had no comprehension of, but coveted dearly.
+
+Ling Qi/The Whiteout Wonderland felt the stir of envy, a sharp edge to its eternal hunger.
+
+The spark, Ling Qi thought, was now there.

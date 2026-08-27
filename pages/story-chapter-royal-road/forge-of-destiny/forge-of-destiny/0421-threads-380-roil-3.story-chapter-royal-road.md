@@ -1,0 +1,145 @@
+---
+id: 2090d3de-ebc6-5623-9621-d1396faf7755
+page-type-slug: story-chapter-royal-road
+title: "Threads 380-Roil 3"
+slug: 0421-threads-380-roil-3
+partOf: forge-of-destiny
+position: 421
+ownLength: 1882
+unit: words
+publishedAt: 2024-05-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1644470/threads-380-roil-3"
+royalRoadId: "1644470"
+---
+
+The direct messaging formation was useful. It projected her words directly to the target along with the signature of her qi. Jaromila had gotten her message, and the woman's response had been swift. The White Sky would delay and put off all meetings for the day, ending them entirely if need be, and they would set their own security even higher.
+
+So that was that.
+
+Outside the ministry’s offices, Ling Qi walked with Meng Dan. He looked very unwell, and she could not blame him.
+
+"We will resolve this," Ling Qi reassured him. She couldn’t speak of details outside, but she wanted to say something.
+
+"I certainly hope so." He brushed a hand nervously through his hair. "Do you know when—"
+
+They passed under the shadow of a pair of leaning trees framing the road, and the colors and sounds of the world muted out. Meng Dan stiffened. Ling Qi bowed.
+
+The tall shadow of Shu Yue stood there, bent half over looking more inhuman than usual with their pale face out on the end of a too long neck poking out from their robes. "Ling Qi."
+
+"Shu Yue,” Ling Qi acknowledged. “The ministry—or Cao Chun at least—has agreed to coordinate with you."
+
+"Is that so?" Shu Yue’s head twisted to a ninety degree angle, a wide crescent black smile blooming. "Fortuitous. I will have to better arrange myself. As you can see, I have been too busy to keep up my appearance well."
+
+Meng Dan let out a brief, strangled sound before his expression smoothed over. "Your entrance could have been less alarming."
+
+"No. It could not. Child of the Labyrinth, you were aware then."
+
+"I became aware," he corrected. "I assume this space is safe to speak in?"
+
+"If it is not, we are already undone."
+
+Ling Qi stepped forward. "Then let me explain the situation."
+
+It did not take long to fill Shu Yue in on the situation.
+
+Their fingers tapped together slowly, a dry clacking rhythm that sounded like the tips were nothing but bone. "I see. I have been hunting, harrying. It seems my efforts may be best combined with the honorable inspector’s."
+
+"What have you seen of the forces being gathered? I assume signs are focused around my family," Meng Dan said.
+
+"They are infested, yes. There was an explosion of activity earlier this morn. Where before it was the slow spread of a disease, it has become a spider casting its webs in fury. I expect this is why you detected the attempt," Shu Yue rasped. "There are others, too, where power gathers. Locations. I will give them to the inspector."
+
+"Are they acting of their own will?"
+
+"I do not know. How could I tell, not knowing this clan technique of yours? It would need close inspection. Perhaps I may have further leads. But I think you should go to the general now. You will want her to be informed clearly and readily. An uninformed reaction to chaos from her could bring ruin."
+
+"I did not wish to ask Cao Chun this, but do you think her action will truly be necessary?"
+
+"Possible. The hunt is disrupted; the prey has its back up. I am certain he is hiding in the shadows, but I may not be able to take their throat and drag them into the deep dream where the harm would be minimized. This was my intent. If it comes to open blows, the sword which rends history will be much better suited to end the conflict decisively."
+
+Meng Dan's pallor didn't improve.
+
+Ling Qi hesitated, looking at him. So much was at stake for him here.
+
+"I will ask that you be the general's guide onto the battlefield," Shu Yue requested, interrupting her thoughts. "It is dangerous, but there are no others aside from myself who can do this here. She will require assistance to keep the battle in the deep dream as her nature is inimical to the liminal."
+
+Shu Yue wanted her to dreamwalk the general if a fight broke out. She felt lightheaded. Could she do that? Could she really set a toe on that battlefield and survive?
+
+She couldn’t ask Shu Yue to do it. Them doing so would distract them when they were already enmeshed in the hunt and working in tandem with the Ministry.
+
+"I will carry the general where she needs to go," Ling Qi said.
+
+She, Renxiang and all of them had been painstakingly building this peace treaty dragging all of these recalcitrant people together and soothing bruised egos, fears, and paranoia. They were finally, finally succeeding at this ridiculous task they had set themselves. She was not going to back down from this path she had chosen now and let all of their work go to ruin. She was not a coward. Not after the Bloody Moon trial.
+
+"Miss Ling, are you quite…" Meng Dan began, only to cut himself off. "How do you imagine you will manage this? If it were only transporting the general and then fleeing, perhaps, but…"
+
+"I am told that I am very difficult to kill," Ling Qi said. "I'll simply have to be even more so. How will I know where to go, Shu Yue?"
+
+Shu Yue’s pallid face twisted into a small grimace. Their fingers tapped against one another with a twitching energy. Then they reached up to the dark hair that flowed down their shoulders and wound a single strand around their pinky. A jerk of their wrist yanked the strand free. It writhed like a serpent, knotting tight around their finger, while the other end of the strand writhed toward her.
+
+Ling Qi didn't need words to understand. She extended her own hand into Shu Yue's palm, and too long fingers closed around her wrist. She let out a small hiss as the hair knotted around her finger and punched through her skin, anchoring in the tissue below.
+
+"Simply follow the thread," Shu Yue said.
+
+"I am familiar with that." Ling Qi wondered just how much Shu Yue knew. "I hope you are not depending on my being able to use a mask like that."
+
+"No. That would be unwise. Although, today may be a day for unwise things. I trust that you will find your way and that you will be vital to the general's combat efficiency on this battlefield. That will afford you more protection than most."
+
+"Ling Qi." Meng Danlooked pained. "... Damn it all. I will not be able to assist in this."
+
+"You won't," Ling Qi agreed. She wouldn’t be able to take anyone but Sixiang. She wasn’t even fully certain of her ability to hold a single, much higher realm in the dream with herself, but she had to do that. "When the inspector activates his formation, there will be a great deal of confusion. Hopefully, your clan will listen to you once they are freed."
+
+He grimaced. "I see. Not the role I might have liked, but the one I am suited for. I see now why so many pursue martial heroism."
+
+She laughed quietly. "I think that would be much less helpful here."
+
+"No, but more satisfying to the spirit." Meng Dan glanced at Shu Yue. "You have some deeper plot here."
+
+"I do."
+
+They admitted it baldly and without hesitation.
+
+"Yet she trusts you."
+
+"I do not sacrifice my juniors, though I do not command all things. No one does. You understand this, historian."
+
+"I do," he replied. "Miss Ling, shall we go? I will likely need to speak with the general for escorts, given the state of my household."
+
+"Of course. Shu Yue needs to speak with the inspector as well, don't you?"
+
+"I do. Farewell, Ling Qi."
+
+And then they were gone.
+
+The air moved again. The color came back to the world.
+
+It was as if Shu Yue had never been there at all. But their strand of hair wound tight around the base of her finger, its end trailing off into nothing.
+
+***​
+
+The general’s camp, or rather the White Plume’s camp, was the summit security’s command post. It lay at the northern end of the valley near its entrance. It did not take them long to arrive there, hurrying as they were.
+
+In that time, a flurry of messages reached her, paper messenger birds all but bombarding her. Only the one requesting information from Cai Renxiang did she give much time to, sending back a message to inquire at the command post and in person. The others, from counts and other parties involved requesting information, she put off with soothing, stalling messages, only stating that there was an ongoing situation and that she was cooperating with the Ministry of Integrity to solve it.
+
+There was one more surprise for them on the path as they were on the final leg, the deliberately winding road that rose up the hill toward the command post where the imperial military took direction. Sixiang, she had expected to meet, but the muse was not alone. On the side of the road, Xuan Shi stood as well, his hat tugged low. His robe was bulkier than usual, the lines indicating armored plates fitted under the fabric. He gave off a grim aura, a grumbling mountain on the side of the road.
+
+"Hey, Ling Qi!” Sixiang waved as they approached. “Heard you were gonna need me from the squirt. I was talking to Shi here, and he seemed to think you'd be coming here."
+
+"Quite perceptive of him. I did not think you were a practitioner of the divination arts of your clan, Sir Xuan," Meng Dan said.
+
+"This one's focus lies elsewhere, and yet, when a fell wind is blowing, even untrained hands may feel its touch."
+
+"Thank you for guiding him, Sixiang. Sir Xuan, I'd hoped our next meeting could be a good one, discussing what you've found in your own meetings," Ling Qi said. "I have to apologize. As you've surmised, something urgent is afoot."
+
+"The way will not be blocked to you. Knowing not what you do, this one cannot tread the path. However, ill feeling remains. I would offer what aid I can."
+
+She blinked as he raised his hands. A solid clunk sounded, along with a hiss, his bulky gauntlets sliding off of his hands. They were the control mechanisms and generators for his masterpiece defensive talismans, the reactive shielding plates.
+
+"Sir Xuan, I am honored, but I do not know that I can make any use of such a complex talisman," Ling Qi said.
+
+"I can." Sixiang looked worried. "Hey, is this really…"
+
+"There is no time for commissions. Perhaps in the future," Xuan Shi said shortly. He pressed the gauntlets into her hands, and she took them, for lack of anything better to do. They weighed heavy in her hands. "Merely keep them on thy person. This one has automated most functions, and thy muse might do the rest if need be."
+
+A thought caused the sash of her gown to shift, loops for the gauntlets to hang on weaving themselves out of thread and cloth. "I am sorry I can't say more. I will return these to you soon."
+
+Xuan Shi merely tipped his hat. "Good winds, Lady Ling. This one will prepare for the storm."

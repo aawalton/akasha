@@ -1,0 +1,165 @@
+---
+id: 0fd8a46c-4ea7-5d04-94e5-32400217dc69
+page-type-slug: story-chapter-royal-road
+title: "Threads 393-Recovery 1"
+slug: 0437-threads-393-recovery-1
+partOf: forge-of-destiny
+position: 437
+ownLength: 2618
+unit: words
+publishedAt: 2024-08-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1756658/threads-393-recovery-1"
+royalRoadId: "1756658"
+---
+
+"I see. And would you say that your experience overseeing infrastructure development in the outer base districts gives you some insights, despite the difference in density and geography at Snowblossom?"
+
+It was difficult not to fall into a rote tone when conducting interviews, but it was important, Ling Qi thought, to present herself as interested and to give her questions some small personal twist. But, by all the eight moon phases was she glad that this was her last one for the day, and nearly done to boot. This applicant had probably passed.
+
+"Indeed. The outermost of Xiangmen’s districts are quite far from Her Grace's light, and in many cases, they were ungoverned or had developed improper parallel structures of government during the old times," spoke the interviewee, a young man of middling first realm and some half a decade her senior. "While it is not the same as virgin earth development, many of the same principles apply due to the need for a complete overhaul in construction and rites."
+
+He was earnest, she would give him that. She shuffled the papers holding his recommendations and history, running her eyes over them without reading. She had already memorized them all, but in the prior interviews, she had found that being too still and focusing her gaze on the interviewee for too long was unsettling and hurt their morale too much.
+
+It probably didn't help that some of her meridians were beginning to function fitfully again, which made it difficult for her to properly contain her qi. Even now, the papers in her hands felt like sheets of lead, and it took a great deal of concentration to keep her arms from trembling as she straightened the papers out and set them on the work desk at her side.
+
+Ling Qi was still wrapped in fabric bandages worked through with paper and silk talismans from the tips of her fingers down to her toes, but she had remained conscious the last time they had been changed, instead of blacking out when the pain suppression failed. She considered that progress.
+
+The short, wavy hair that was just beginning to tickle at her earlobes was also a nice reminder of recovery. She'd spent most of her life with ragged, short shorn hair. But now, it just felt unnatural.
+
+"It’s interesting to know that the ministries of Xiangmen are still performing such work. It speaks well that their vigor for the task has not decreased. Yet, if this is so, what drove you to apply for a position so far from the capital? It is quite a change to uproot yourself and…" She pulled up the memory of his dossier. A young wife, no children yet, and not expecting either.
+
+Shame. He was somewhat handsome; one of her maids had been eyeing him in the waiting room. She'd have to tell her there was no opportunity there. "—Your wife. Is it the offer of property to first comers that interests you?"
+
+"I would be dishonest to say it is not," he said, and she marked that down as a point in his favor. Too many felt the need to tell an obvious and pointless lie. "To establish my family there under the protection of Lady Cai and yourself is a great growth opportunity. At the same time, I am sincerely excited to be given the chance to oversee even a small part of the Heiress Cai's vision for the south."
+
+A little obsequiousness, but that was normal, and his statement had been mostly true.
+
+There was something else troubling him as well. She saw it as a dark pressure on his aura; it rode his back like a malevolent spirit. She tilted her head and focused her eyes on the young man. He paled as the faint blue light washed over his face.
+
+… Ah. She heard the whispers that hissed free from mental scars. Familial fallout, due to disapproval of the match with his wife, who was merely a mortal cook. Obstacles had been placed on his career. There was nothing illegal, but there had been social snubbing, and problems too small and uncertain to be more than squirming suspicions.
+
+She sharply drew down her qi, feeling the ache and burn of it cycling back into her body.
+
+"I see. It is not wrong to seek your own prosperity, but I am sure you recall your teachers' lessons." Ling Qi shuffled the papers one last time and placed them firmly on the desk. "That concludes the interview. I will contact you regarding your position at Snowblossom within the week."
+
+That was one more applicant for the short list. Cai Renxiang would be pleased to have another reliable clerk for the small battalion she was building around herself.
+
+The man rose to his feet, bowing low and thanking her profusely. She nodded back, said the correct things for the dozenth time that day, and dismissed him.
+
+After he left, she let her straight and proper posture slump into the comfortable cushions of her wheelchair and carefully grasped the cup of ice-cold juice set out on the table beside her. Before her injury, she hadn't thought much on the bodily control a cultivator came into as they rose through the realms and stages. Now, every movement had to be deliberate, and she had to focus on individual tendons and muscles, willing them strength so that none failed her. She sipped from the sweet, throat-soothing juice and sighed.
+
+"Big Sis?"
+
+"Yes, Hanyi?" she asked without opening her eyes. She'd felt her junior sister coming.
+
+"Ready for dinner?" Hanyi chirped. It wasn't really a question; she was already crossing the room.
+
+"Of course. Your timing is getting better, Hanyi," Ling Qi praised.
+
+Hanyi fussed with the cushion behind Ling Qi's head and grasped the handles on the chair, getting her ready to wheel out. It was still irksome, being so helpless.
+
+"Hey, just remember that Mister Manager is coming to dinner today, too," Hanyi reminded.
+
+"I remember."
+
+Hanyi was trying so hard to be helpful. Ling Qi just wished she couldn't see the tinge of brittleness in her junior sister’s smile. Hanyi hovered so much these days.
+
+The polished wooden rims of her wheelchair rolled silently across the floor. There were no bumps or jostling, even with the slightly rougher construction.Bao Qian had commissioned good work.
+
+"Did you get any good ones today?" Hanyi asked.
+
+"The last one. I think Renxiang will like him. A few others are acceptable. Assuming all of the applicants I recommended pass Renxiang’s review, this number of staff should be enough until we're ready to expand again. Did you enjoy your recital today?"
+
+"It was boring to repeat it again, but Zhengui liked it!" Hanyi replied brightly.
+
+Her chair was maneuvered through the doorway of the dining room. It was well lit despite the gloomy sky outside, and the table wasn’t exactly groaning with the spread, but that would have been wasteful for only a few people, even if their household would eat all the leftovers.
+
+Hanyi wheeled her up to the head of the table.
+
+"I'm gonna go check on the cooks now. Okay, big sis?"
+
+"No sneaking sweets. I'll know," Ling Qi called after her.
+
+Hanyi pouted, but nodded in resignation.
+
+The first days with Hanyi staying in the house with her had been fraught. Hanyi was intimidating to the mortal staff and not a little mercurial, but between Ling Qi doggedly keeping on her to behave around family and Hanyi's inability to be dignified for long stretches, their reverence and fear had worn down.
+
+Mostly.
+
+She felt her mother and their guest arriving now.
+
+Mother was still so thin and frail in her senses, a slender reed rising from the shore of a pond, swaying dangerously in any wind. Beneath that appearance, though, she was hardier than she seemed, her roots digging deep. Mother was doing well. It had been strangely gratifying to hear her mother raise her voice in private when Ling Qi had first returned to the sect town. The anger there was born of love, and even if she had no regrets about her choice, Ling Qi was sorry to put her mother through worry and anxiety.
+
+Now that her senses were less tangled, she could feel that Bao Qian had changed. He reminded her of the cavern full of piping winds back in Snowblossom, solid construction turned to supporting beauty, both intentional and not.
+
+The door began to open.
+
+"My daughter, please allow me to introduce our honored guest, the young lord Bao Qian." Mother was in fine form, straight backed and impassive. Whatever her reservations about the clan taking her chosen color scheme, mother managed to make the black and pale blues work. The white floral ornament in her tightly bound hair was a nice touch.
+
+"Mother, it pleases me to see you," Ling Qi greeted. "And Sir Bao, please be welcome in my home."
+
+Bao Qian entered the room, looming over her mother. It was not purposeful; he just was not a small man. His clothes were of fine make but sturdy and a little worn, and he wore heavy boots. A drover's gloves was tucked into his belt, and a wide brimmed traveler's cap was on his back, hung from his neck by a rawhide cord. He had started to grow out a bit of beard. Ling Qi wasn't sure how well she liked it.
+
+"And a fine welcome it is. Madam Ling has been an excellent host, but I am pleased to see the lady of the house now that business is done." Clasping his fists together, he gave a short bow to her. "Your recovery continues to be swift as well, I see. I hope I may toast your good health."
+
+Objectively, she knew that she had recovered most of the use of her arms, and some sensation in her meridians in only a single month was beyond any of the physician's expectations, but it didn’t feel that way to her. She thought her recovery to be glacially slow.
+
+"You may." Ling Qi tilted her chin down. "But mother, Sir Bao, please take your seats. The meal will be ready soon. Let us speak, and dispense with some formality."
+
+Moons knew she’d had about enough of it for the day.
+
+Her mother gave a short nod, allowing one of the serving girls to pull out a seat for her beside Ling Qi. Bao Qian was seated by another serving girl at the other end of the table, directly across from her.
+
+"I am pleased with the work the Wang have been putting into the southern roads,” Bao Qian commented. “It seems the road network improves with each trip."
+
+"It was interesting to hear your tales of travel in the region, Sir Bao," Ling Qingge complimented. "You have an eye for detail."
+
+Ling Qi huffed. Mother really was more willful now. It wasn't her fault that the wider vistas are what tended to stick in her mind for her travels. Unlike Bao Qian, who traveled via his cart, Ling Qi mostly flew.
+
+"Ah, the little wonders and treasures you find along the road are what make a journey interesting. I'm glad I could entertain Madam Ling for a while. Work has left me out of contact for some time as Lady Cai has the roads nearly burning from friction with the rate at which she is calling material south!"
+
+"It is hardly her alone," Ling Qi defended. "But things have not changed too much. The Emerald Seas is rather resilient in the face of changes."
+
+"I suppose we would have to be. There's nothing quite like the drive to take advantage of a new development."
+
+"The town has been bustling. I like this energy far more than what was before, even if tension remains," Ling Qingge added.
+
+The first course of the meal was being brought out and served, their plates being filled. Hanyi trotted out to take her place at Ling Qi's side, puffing out her chest proudly.
+
+After the recent offensive led by Sect Head Yuan He, the sect had hunkered down. Defenses were being built up, and any remaining raiding had been swatted down. They were tigers digesting their meal before the next hunt. Ling Qi only hoped she could better blunt the next offensive’s death toll, both inflicted and suffered.
+
+"I have heard some curious rumors from the capital," Ling Qi said, allowing Hanyi to feed her. "Tha Bao clan has been helping to arrange the tributes with the subdued ith? I suppose it makes sense for their eyes to have been mostly drawn north then."
+
+"I had an inkling that might be so. Although I am not involved in those decisions, my father did mention something in his last letter. Paths down have been set up in the deep rootways." Bao Qian said.
+
+"I only hope Her Grace has a strong guard placed over such a thing," Ling Qingge worried. "Her Grace is very thorough, though. I am certain my worries are nothing."
+
+"It is down there, both for their comfort and safety and ours," Ling Qi said.
+
+"For the best, for the best." Bao Qian shrugged broad shoulders. "I should like to take a trip down there one day. What is it like?"
+
+She grimaced. "Difficult, and not a little ugly. Humans are not meant for those climes."
+
+"Humans are not meant for many climes, but it hasn't stopped us yet," Bao Qian rebutted. "Ah, but I should tell you that the construction in Snowblossom is going well. The docks have been thrown up, and the city center is being planned. I believe a quarry has been dug as well."
+
+"Oh, no surprise that Lady Cai is keeping up with the plan. I will need to commune with Lake Snowblossom more properly as soon as I can. Has she decided on a design for the center?"
+
+"The young miss has decided the cliffside is the best location. Natural earth is the strongest defense against the missiles of the nomads," Bao Qian noted. "There is some debate over the design though."
+
+"I suppose Lady Cai would choose a more imperial style. Is she considering the proposal about the vertical fortress, built into and climbing the cliff?"
+
+"Can such a thing truly be built so far from the center?" her mother asked, surprised.
+
+"Only because of the greater funding we can now pull on," Ling Qi replied. With their success at the summit, the greater funding had allowed them to hire more cultivator workers, and higher quality ones at that. The Wang expertise had also helped.
+
+"Xia Lin had a proposal as well actually," Bao Qian said. "She suggested taking advantage of the mists at the base of the waterfall, and using the geomancy of the moving water to wash away impurity and bad fortune."
+
+"The city of mist design,” Ling Qi realized. “We did talk about that briefly. That design is more of a Meng style architecture." The other girl had been enthused by that, hadn't she?
+
+In contrast, her mother was concerned about the impact on mortals. "That sounds as if it would result in a great deal of rotten wood and discomfort for everyone living there."
+
+"It does require more investment to avoid the natural pitfalls," Ling Qi agreed. “However, the Meng style is known for its purifying effects.”
+
+In the Meng lands, it stymied the encroachment of the Red Jungle into their marshes, she mused. Given the corruptive influence of the ith impurities, perhaps that effect would be a good thing here as well.
+
+It would be interesting to see what Cai Renxiang had chosen, when she was able to return.

@@ -1,0 +1,141 @@
+---
+id: 6479407d-9ccd-5cd3-8dab-7994a88e4962
+page-type-slug: story-chapter-royal-road
+title: "Threads 208-Opening Day 6"
+slug: 0241-threads-208-opening-day-6
+partOf: forge-of-destiny
+position: 241
+ownLength: 1811
+unit: words
+publishedAt: 2022-04-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/883489/threads-208-opening-day-6"
+royalRoadId: "883489"
+---
+
+“I would like to know more of the Meng,” Ling Qi decided. “I have made my contacts, and maybe even an ally, but they are just too opaque to me.”
+
+“Unsurprising. They are an old clan by any measure save for that of the Bai,” Hou Zhuang said.
+
+“Naturally,” Ling Qi agreed.
+
+“One key to hold to with the Meng clan is that even those you might perceive as open to change and progress do not accept the imperial way of things,” the older man advised. “Even the Luo hold a significant faction which wishes to modernize in the imperial way. The Meng do not. You will find no significant support for the imperial cult nor its philosophers there. What their more open members wish is to push revival and improvement of old practices on their own terms.”
+
+“You believe this is the group that contacted me,” Ling Qi deduced.
+
+“Most likely. This faction is the one most engaged with the court and outsiders. Most of the Meng fear your Duchess terribly, but this group views her as an opportunity. The Emerald Seas are in flux, the shape of its new order not yet set, and to them, this is a chance to reassert primacy of their practices, rather than hiding away and preserving them,” Hou Zhuang lectured. His words were calm and the diction clear like those from an elder.
+
+“Their more conservative cousins no doubt see this view as a foolish risk,” Ling Qi analyzed. Their support for her made sense then. The arguments she had used to support her endeavor fit with their narrative of the past informing the present.
+
+“Just so,” Hou Zhuang said. “I’ve added the dossier to your ring. Time is up. Perceptions of time may only be stretched so far.”
+
+And like that, the color returned to the world, and the noise in the stadium once again filled her ears, along with the voices of her companions.
+
+“You have grown quiet, Baroness,” Meizhen said, glancing her way.
+
+“Just lost in thought,” Ling Qi deflected. “I was contemplating how the matches might be arranged.”
+
+Her vision flickered, a wisp hidden in her hair glancing back. Hou Zhuang was still there, the picture of an exhausted man in a light doze.
+
+“It is not good to wander so. You nearly missed the actual announcements,” Meizhen said.
+
+“Apologies, Lady Bai,” Ling Qi said with a hint of amusement.
+
+She looked down over the field where the sixteen preliminary winners now stood. Above, the air flickered with illusion, the characters of the contestants’ names spelled out in flashing silver. She blinked as she looked over the names and realized something.
+
+“I hadn’t recognized Chu Song,” Ling Qi said, startled.
+
+“Who?” Xia Anxi asked, raising an eyebrow.
+
+“My first opponent from last year,” Ling Qi said absently, scanning those present. They fell on the muscular girl she had noticed before. Chu Song had changed: her hair was cropped short, and she wore heavy flanged armor rather than the lighter sort she had used last year. She’d picked up a few scars as well. “I hadn’t realized she was participating.”
+
+“Ah, that girl,” Bai Meizhen said with distaste. “I hope she has learned to control her tongue, for her own sake at least.”
+
+Xia Anxi glanced at them with mild interest, but the names in the air were moving to arrange themselves into brackets.
+
+The first match would be Gun Jun facing down a young man Ling Qi did not recognize. The second featured Lu Feng facing one of the three second realms who had squeaked through. The third match had Gan Guangli facing another of them. The fourth was Chu Song and another new face she didn’t recognize.
+
+Han Jian was the first in the fifth match, facing another of the yellows. An apology for his hard match the year before? Shen Hu’s face briefly came to her mind.
+
+Ling Qi continued to scan the brackets. Ma Jun was in the next one, and she would be facing Fan Yu. The seventh match was Xiao Fen and some poor unfortunate, and the eighth held Han Fang and the boy with the boar spirit.
+
+It seemed, even more than last year, that most of the first round of matches were going to be one-sided. She suspected that one way or another, the Sect would be quietly promoting many older disciples after this year, now that the Duchess’ tests were done. They would need to, if they wanted the Outer Sect to maintain any kind of equilibrium.
+
+“Many easy matches there,” Lao Keung concluded.
+
+“True. It is more even than last year though,” Ling Qi said. “Most are at least in the third realm.”
+
+“The Baroness has high standards.” Xia Anxi chuckled. “Not a bad thing.”
+
+Ling Qi coughed into her hand, realizing that she had forgotten how matches usually were for these initial duels. She was right though. Even those whose names she didn’t know were still talented by any measure; they were still people who had attained the right to a barony by their cultivation. It was just… They were facing terrible competition this year.
+
+She would at least keep an ear out for the results of Ma Jun’s match. Ling Qi thought she had the advantage, but Xiulan had shown her what someone desperate enough with only a partial breakthrough could do.
+
+... She had trouble picturing Fan Yu with such passion fueling him though.
+
+“A good showing for the Argent Peak Sect and the Emerald Seas as a whole.” The voice of the Bai ambassador quieted them as she spoke up beyond quiet conversation with Cai Renxiang. “The youth of this province will carry your people well in the future.”
+
+“You are most generous, Ambassador,” Cai Renxiang replied. “I am proud to know that we have impressed the eyes of the mighty Bai clan, if only a little.”
+
+She listened to their back and forth as she and the others rose from their seats. The two were trading the proper pleasantries, all reinforcements of the notion that the Bai and the Cai were dedicated to their support of one another.
+
+Soon, it wound down, and she and the others followed Cai Renxiang and the adults down the stairs that led to the ground floor. She found herself walking a step behind Meizhen as she turned her perceptions inward to the contents of her storage ring. She would have quite a lot of study to do.
+
+For now, they were heading down to collect their winners. The plan was to speak with the Bai a bit longer and then go their separate ways until the Duchess’ arrival in the evening, leaving them with the afternoon free to take care of their own business.
+
+In Ling Qi’s case, she had promised Wang Chao that she would meet him at the crafting competition to introduce him to Xuan Shi.
+
+They soon reached the bottom of the stairwell and exited the stadium. They were given a wide berth by the other guests, who no doubt wished to avoid offending such a party. Outside, they came to a stop overlooking the now fully erected sea of guest pavilions. She and Cai Renxiang stood opposite the Bai delegation there.
+
+“It has been interesting meeting you, Lady Cai, Baroness. I look forward to working with you in the future,” Xia Anxi said lightly. “Hopefully, the next time we meet, there will be time for less martial subjects.”
+
+“It has been good to see something of what your command is like,” Lao Keung said in his turn. “I have confidence in our cooperation.”
+
+“I am honored by your trust,” Ling Qi said. In these sorts of exchanges, it was important to speak in the proper turn with subordinates first and leaders giving the last word. “I am most pleased to have taken your acquaintance.”
+
+“Lady Cai keeps good company,” Meizhen said, her voice almost warm. “It will please me to see you again this evening.”
+
+Ling Qi caught both of the new young Bai’s gazes sliding toward her friend, seemingly discomfited. It really hadn’t sunk in what it meant when Bai Suzhen had called Bai Meizhen “kind” last year.
+
+“I have been glad to show you hospitality in my mother’s absence,” Cai Renxiang said politely. “Ladies Bai, you have honored me and the Emerald Seas with your attendance.”
+
+“It is not an undeserved honor,” said the Ambassador Xilai with a small tilt of her head. “Please excuse us then until this evening.”
+
+Cai Renxiang and Ling Qi both bowe,d and the Bai delegation began to take their leave, the ambassador gesturing for Meizhen to walk beside her with the others trailing behind. Ling Qi was surprised to see Xia Lushen remaining behind, his menacing shadow a step or two behind.
+
+“Sir Xia?” Cai Renxiang asked.
+
+“I am sorry, Lady Cai, but there was a question I had for your subordinate,” the scholarly man said kindly. “If I may?”
+
+“Of course,” Cai Renxiang said immediately.
+
+Ling Qi straightened up attentively.
+
+“It is known to me that you possess a fairly potent relic of these… underground people. While goods will surely flow from the tribute your Duchess has established, I am a man who enjoys remaining ahead,” Xia Lushen said, his smile lending him a pleasant air. “I would like to purchase it from you.”
+
+Ling Qi’s mind raced back to her clash with the shishigui assassin who had almost opened her throat to the faintly glowing dagger of green stone still lying in her house. “Ah, I am not necessarily opposed, Sir Xia...”
+
+“Yes, I do not want to rush you,” he said. “Please consider it and get back to me by the end of this gathering. I may be able to offer more than simple stones.”
+
+With that, he took his leave, taking the nerve-wracking presence that trailed him along, and Ling Qi let out a breath.
+
+Cai Renxiang gave her a sidelong look. “You acquitted yourself well.”
+
+“Thank you for saying so,” Ling Qi said, turning along with her liege to look over the pavilions. “I am glad Gan Guangli succeeded.”
+
+“Yes,” Renxiang agreed.
+
+“Will you join him now?”
+
+“Not now. This is the time for his own subordinates. My presence would be unhelpful.”
+
+Ling Qi didn’t know about that. Her doubt may have colored her words. “I see.”
+
+Renxiang let out a breath through her nose. “I have made the time to give him my encouragement before Mother’s arrival. Duty must come first.”
+
+“That is fine,” Ling Qi said. As long as her liege was taking care of herself.
+
+<The fact that you're the one giving that advice really says a lot about that girl.> Sixiang sighed.
+
+Maybe so, but she was the one who was here, Ling Qi thought wryly. “Tonight then, my lady?”
+
+“Tonight,” Renxiang agreed, and there, they parted ways.

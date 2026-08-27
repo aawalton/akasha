@@ -1,0 +1,135 @@
+---
+id: 5064200a-baab-5f67-99cb-b7c8d2535a53
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 525-Deep Fire 6"
+slug: 0574-threads-chapter-525-deep-fire-6
+partOf: forge-of-destiny
+position: 574
+ownLength: 2037
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3494599/threads-chapter-525-deep-fire-6"
+royalRoadId: "3494599"
+---
+
+"You are deeply obnoxious."
+
+"Lady Xia is too kind," Ling Qi said cheerfully, clasping her friend's armored palm as she levered herself up, spilling dust and stones from the deep crater she had been left in by the end of the spar.
+
+"Your spirit is worse."
+
+"Love you, too!" Sixiang called back. They were unable to project more than a few wisps of color over the wood and metal of their puppet, so burned down was their qi pool. "And you as well, cutie~"
+
+Xia Lin clutched her halberd tightly, half hiding it behind her back. "Do not. Slattern."
+
+Ling Qi's eyebrows almost climbed to her hairline. She was going to need an explanation later.
+
+"Just messing with her head. That reaction was a bit strong, though," Sixiang projected sheepishly to her.
+
+"Haha! It is grand to see everyone still in high spirits after our clash!" Gan Guangli clapped them both on the back, his hands still the size of large hams. "A powerful technique, Miss Ling!"
+
+"Quite. It took Yinhui ages to hollow it out," Meng Dan complimented.
+
+"Yes, thank you for that. Sir Meng is certainly more than a pair of eyes. He even dabbles in thievery. How shameless," Ling Qi teased.
+
+Meng Dan shrugged and confessed, "Many of the locks in the deep library have lost their keys."
+
+"A good exercise," Cai Renxiang interrupted them. "Your coordination continues to improve. Banter as you wish, but rest and prepare for the next spar. We are not done yet today."
+
+"Yes, Lady Cai," they chorused, unified.
+
+Ling Qi smiled wistfully. This was fun. She wished it was only that, play rather than preparation for war. Still, it was an invaluable experience. Already, it had given her some thoughts on the creation of and the shaping of her phantoms.
+
+Creation was not an act of drawing a story whole and pure from the depths of her mind. That was the lesson she was drawing from her study of the Beast Kings' Savage Dirge art. Creation was a messy reflection and combination of all the stories she had previously heard. In taking its almost modular verses and swapping them around on the fly, she was recombining the technique patterns to create fresh horrors to challenge her friends with.
+
+Her experience always stamped her creations, and the shape of the world in turn shaped her. Every story she had ever heard became the components for the stories she would tell. She could see that in the story of the Beast Kings. There were places where the story didn't quite fit together. The Bear God’s story diverged from the overall theme, a clear indication of the story's evolution over the millennia.
+
+"I will have to think hard before deploying that verse in the future. It's a heavy qi investment, and it could be difficult to use it efficiently," Ling Qi mused. "I can only imagine that insights like Gan Guangli's must come often to soldiers."
+
+"Haha! Perhaps not as often as you might think. Many think themselves too smart to believe in such idealism." Gan Guangli thumped a fist against his breastplate. "If I might make a suggestion, you might combine that one with the eagle's charge, which I have seen you use, especially on a less constrained battlefield. Even if you cannot take a commander from the field, ripping him out of his formation may sometimes be just as good!"
+
+"Mm, that's true. I wasn't up to combining the bear with anything else today, but in the future, it would be a waste not to incorporate another aspect," Ling Qi thought aloud as they wandered from the center of the field to take a break before the next round.
+
+"Your version of the play is unorthodox, even without you recomposing its elements," Meng Dan observed. "I am most familiar with a version where the Bear God’s technique is already a pinning effect, typically a giant paw descending from above, rather than a mobile construct."
+
+Now that she thought about it, that was what the Hui corpse immortal had used to pin her when she had fought it on their initial journey to the Polar Nation.
+
+"I concur in pairing it with the eagle. In doing so, you might offer a second prong to my charges," Xia Lin said as they reached the porch surrounding the manor compound. There, one of Ling Qi's household staff stood with a tray of refreshments. She was doing an admirable job of not staring too wide-eyed at the still clearing mist and dust on the training field.
+
+"It would, but I wonder how it might interact with vermin and river, the techniques with nulling and qi draining effects," Ling Qi brainstormed. "I suppose I don't need technique nullification of my own at this point in time."
+
+"I'm good for it!" Sixing chirped. A few wisps of rainbow mist swirled around the blank face of their mannequin body as they hopped up to perch on the banister like an oversized crow.
+
+It was amusing how the woman offering them drinks no longer blinked an eye at Sixiang’s irreverence, but Gan Guangli's beaming, thankful smile as he took a cup of water turned her face crimson. People's reactions and how they adjusted to things were often quite strange.
+
+Ling Qi took a cup as well, and handed another to Meng Dan.
+
+"It might not be a bad idea to look into after. A powerful technique that strips buffs always has its uses," Meng Dan supported, taking the cup. He slid down, taking a seat on the top stair.
+
+He looked out where Lady Cai was giving instructions to a small gaggle of maintenance clerks as they examined the field arrays for any damage done by the spar.
+
+"It's a role already well covered on our team. Best to focus on other niches for the moment, which means I might not want the eagle either. Xia Lin does not take it easy, even in a spar." Ling Qi’s ribs still ached.
+
+Xia Lin, standing by the support post at the side of the stairs, gave her an unimpressed look. "You know well that I did."
+
+"Ohhhh, I like the thought of a big dog. Those alpha wolf constructs are fun, but what if it was even beefier, and had me at the helm?" Sixiang asked excitedly.
+
+"Hoh, I should enjoy such a wrestle!" Gan Guangli boasted.
+
+Ling Qi sipped from her water. It was clear and pure and cold, with just enough impurity to be safe for mortal consumption. Lake Snowblossom's water would be a pretty potent base for the eventual alchemists of Shenglu. That was an idea, too, making the coordinating node for the shadows as strong as possible and concentrating a chassis for Sixiang with lots of useful power.
+
+"Do you think I could recompose it entirely, Meng Dan? I can't say how well any of this innovation holds up outside of battle."
+
+"I don't doubt that you could, although a stage performance must be more rigid than a battle anthem by nature," Meng Dan replied. "That is the Beast Kings' Savage Dirge, isn't it? Your version came from the archives of the Cai?"
+
+"It did." Ling Qi moved to take a seat herself against the wall of the manor. She gave the serving girl a small nod as she bowed to them and went to return inside to other duties. "You implied the Meng have a version of their own."
+
+"There are several, but only one is acknowledged as being the proper one," Meng Dan revealed. "The Luo have their own version, too. It is always fascinating to me how the past becomes a set of stories for us to tell. What I would do to read the correspondence of a simple hunter or a common warrior from those days. Sadly, the Weilu wouldn't create a written script for another fifteen hundred years. And even that was mostly for tallying grains and other administrative work."
+
+"The truth is always messier on the ground," Ling Qi observed. An understatement if there ever was one.
+
+"The role of those like you is to hammer that messiness into something cohesive with which to inspire the future," Xia Lin said gruffly. "I do not think this old story will be suitable for what we are building. Not merely another retelling of it, at least. One cannot simply keep retelling the same stories forever."
+
+"The story of Tsu is important, and maybe I will create my own take for the Ling clan's archives one day. Taking the themes and packaging them in something newer is a good idea."
+
+No one should retell the same stories in perpetuity, else peoples would end up with the impression that everything that mattered, that was good, lay in the past, and nothing new or better was possible. It didn't do to wallow in the past, although forgetting it was just as much a poor idea. That said, Xia Lin was right. The role she had taken on among the Cai retainers was to create something new from the mess they had now.
+
+Light flared, Renxiang's qi pulsing to signal them that the checks were done.
+
+"Haha! Time for the next exercise," Gan Guangli celebrated. "I look forward to clashing again, Miss Ling!"
+
+"If we're on opposite sides this time," Ling Qi said lightly, standing and stretching. "Oh, Meng Dan, do try not to get too scuffed, by the way. You still have to meet my mother later."
+
+Meng Dan laughed. "I should say the same! Either of us showing up rumpled is hardly a good look for a parental interview."
+
+***​
+
+Despite her earlier joking, now that the moment had come, Ling Qi found herself unable to suppress her nerves entirely, sitting at the dining room table with her mother. As another member of her household placed the settings, she couldn't help the urge to squirm under her mother's gaze, especially since there was still some lingering tension about the fire spirit earlier.
+
+"Thank you for taking the time today, Mother. I know it's late in the afternoon."
+
+"I know well that you have many preparations to make, Ling Qi. I don't begrudge you that. Nor is the Ling household so difficult to manage as all that," her mother said. "I admit, the notion of you keeping multiple official suits active is still strange to me. Such a state is more familiar in the stories of high nobility."
+
+"It feels strange to me as well." Ling Qi sighed. "Still, I don't dislike any of them, and the clans involved…"
+
+When her lowest suitor was a scion of a comital clan, her circumstances were well into the realm of high nobility.
+
+"Meng Dan is a good and dependable person,” Ling Qi finished. “Lady Cai would not have accepted him otherwise."
+
+"I will keep that in mind," Mother acknowledged.
+
+At the door, another of the women poked her head in. "Madam, Sir Meng is arriving."
+
+"Show him in." Mother straightened her shoulders and smoothed her expression. Ling Qi could still see the nerves underlying her dignified expression though. Dealing with high nobility still frightened her mother in a way that logic and reason couldn't touch.
+
+Ling Qi could understand that very well.
+
+"Announcing Sir Meng Dan, here to pay his respects to Madam Ling!"
+
+Meng Dan was a very handsome man, and his bearing was a part of it, she knew. Confidence without arrogance, and an ease to his presence, rather than the overbearing pressure that many nobles with similar looks projected.
+
+He was, she could see, trying quite hard to put her poor first realm mother at ease as he strode in, not a hair out of place, formal pale green and light brown robes fitted and hanging perfectly. Meng Dan clasped his hands before his chest, bowing low, the light catching on the lenses of his eyeglasses.
+
+"Meng Dan gives his respects to Madam Ling and her inestimable daughter. Thank you very much for inviting me into your home."
+
+Under her even expression, Ling Qi was quite certain that Mother was no less anxious than she had been when Biyu had tried to hug Li Suyin's spider. This might be a long meeting.

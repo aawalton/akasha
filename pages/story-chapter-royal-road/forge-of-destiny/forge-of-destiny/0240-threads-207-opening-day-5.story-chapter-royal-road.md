@@ -1,0 +1,125 @@
+---
+id: 4a599207-c226-529a-8ae8-a9028a6c5d5b
+page-type-slug: story-chapter-royal-road
+title: "Threads 207-Opening Day 5"
+slug: 0240-threads-207-opening-day-5
+partOf: forge-of-destiny
+position: 240
+ownLength: 2037
+unit: words
+publishedAt: 2022-04-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/881790/threads-207-opening-day-5"
+royalRoadId: "881790"
+---
+
+Ling Qi looked down at the rings filling up for the second round of the preliminaries with mild interest. In this set, there were even fewer people who she knew by name.
+
+Han Fang and Ma Jun were both acquaintances from last year. Looking at Han Fang caused her to pause, staring at the squat young man beside him. Recognition flickered. That was Fan Yu, Xiulan’s former fiancé. She had never much cared for him, but by the end, most of her dislike had guttered out into pity. It looked like he had managed to achieve the bronze physique, if only barely, so perhaps Xiulan’s final exit from their arrangement had helped him focus.
+
+The other person she recognized was Lu Feng, Sun Liling’s subordinate from last year. She had never interacted with him much, but he had been instrumental in defeating Gan Guangli in last year's tournament and had been heading his opposition this year. She wished him the illest luck.
+
+“Anyone of interest in these rounds?” Xia Anxi asked. “I see one of the grandsons of the Butcher’s pet Lu, but none who might oppose him in his ring.”
+
+Lu Feng was, unfortunately, a match for Gan Guangli at the third stage of the third realm. She assumed the Sun family or even just his own family had funnelled resources to him.
+
+“There is the Han scion,” Ling Qi introduced politely. “We were sparring partners once or twice last year, and he has a good tactical mind. I might also suggest the zither girl in the third ring with bells in her hair.”
+
+Ma Jun looked more confident and less shrinking than the last time Ling Qi had seen her, having achieved a full third realm breakthrough. Her gown was more flattering, and Ling Qi had seen her trading flushed smiles with that other fellow, Gun Jun, as they passed one another in the intermission. She supposed that Gan Guangli wouldn’t let anything untoward happen under his watch.
+
+“What marks that one out from the rest of the early green contestants?” Lao Keung asked.
+
+“She was something of a subordinate of mine, and it looks like she has been both hardworking and fortunate in the last year,” Ling Qi answered. “I only mean to wish her luck. Excuse the personal fancy.”
+
+Lao Keung made a grunt of acknowledgment.
+
+“Does the baroness intend to assemble a troupe?” Xia Anxi asked, amused. “I have heard of the efforts you have gone through to promote your bound spirit’s song.”
+
+“That is not my intention, but collaboration with other musicians is enjoyable from time to time,” Ling Qi riposted. “I have a small group. Would you care to join us in the future?”
+
+“Perhaps. It might be entertaining,” Xia Anxi allowed. She wasn’t entirely sure if he meant it or not.
+
+Below, the matches were starting.
+
+Ling Qi looked down, switching her attention from one scene to another in turn. Ma Jun was slipping behind a colonnade of rock formations in a fungi lit cavern, her fingers beginning to pick out the first notes of a song. Han Fang sped through a forest of scrubby trees in a river valley as a large feline shape emerged from his shadow, and Lu Feng stood in a flower filled meadow with his eyes shut and his arms crossed over his chest.
+
+These matches, Ling Qi thought, did not have the same tension. The majority of the third realms seemed to have been in the first set, although, scanning the arenas, she was quite sure that there were still at least two in each. Many of these third realms were only partially in the third, like Fan Yu.
+
+“What a lovely beast,” Xia Anxi commented. “The black tigers of the east are often reluctant partners from what I hear. The Han prefer the more bombastic breeds.”
+
+Ling Qi focused on Han Fang as his hammer bent another disciple over double, and the lithe black tiger at his side licked one of its paws, streamers of dispersing mist the only sign of the unfortunate disciple’s own companion. She then sped past both humans, a blur of crimson eyes and black fur, to shred apart a crooked tree with a swipe of her paw and a hair-raising roar, sending the disciple hiding in it tumbling through the open air.
+
+“Han Fang is unusual. He is more like a Viper for his cousin, the heir’s son,” Meizhen explained calmly.
+
+“Hoh, how sensible,” Xia Anxi said.
+
+“It looks as if you have a follower in more ways than one, Baroness,” Meizhen continued.
+
+“Oh?” Ling Qi wondered, turning her eyes to follow her friend’s gaze.
+
+In another ring, she saw a spear thrust through Ma Jun’s chest, and the sharp head emerged from her back in a burst of pink and crimson. The sound of a zither and the soft ring of bells echoed in the cavern as her whole frame came apart into an expanding cloud of brightly colored petals and blossoms. Her opponent, a girl with dark hair and boyish clothes, spun her spear desperately, wind blasting away the densest cluster of petals, but it was not enough. Where the whirling blossoms touched skin, they left behind thin cuts and a soporific scent.
+
+The girl with the spear whirled around, searching for Ma Jun in the cloud of flowers and shot off, carving a corridor through the mass to strike at the shadowed figure of Ma Jun. Again, she exploded into petals, and this time, the spear-wielding girl was too slow to deflect the descending wave of blossoms.
+
+“She’s really come far,” Ling Qi praised. The aesthetic was certainly different, but she felt flattered anyway.
+
+“You must be a frustrating foe,” Lao Keung mused.
+
+“I try,” Ling Qi said. “If I infuriate the enemy enough, they may forget my lady’s saber.”
+
+“A fatal error indeed,” Meizhen said. The corners of her lips quirked up in a smile.
+
+“Your subordinate is entertaining,” Xia Anxi allowed. “I find it difficult to enjoy while that westerner is mocking his match though.”
+
+Lu Feng still stood in the clearing in the same position. Here and there, beads of blood marked the swaying grass around him, but he was largely unruffled. His strategy, it seemed, was to simply let his opponents fight, striking only those foolish enough to come close. It was certainly valid to not show any of his abilities without need. He didn’t have Gan Guangli’s additional objectives.
+
+It still nettled her, even if she knew it was illogical.
+
+<Look at you acknowledging your biases,> Sixiang jested. <Don’t let your guests know.>
+
+Ling Qi rolled her eyes, and beside her, Xia Anxi chuckled. “Yes, it is quite rude to the Sect, isn’t it?”
+
+“It would be more polite to put on a show,” Ling Qi agreed.
+
+“It would better fulfill his objectives to crush our Xiao and your Gan,” Lao Keung raised.
+
+“A fair point. Sun Liling and her churls have learned from last year’s mistakes,” Bai Meizhen said coldly. “It would be grand for our enemies to all be fools. Alas, the world rarely complies with such wishes.”
+
+“It is true, Lady Bai, but look at what fodder he has been given. Some style would not be amiss,” Xia Anxi offered cautiously. “I should not be surprised that a westerner would be so ungrateful to his hosts.”
+
+Meizhen inclined her head minutely. “My words were no rebuke.”
+
+Ling Qi watched Xia Anxi relax out of the corner of her eye. It was hard to remember that her best friend was very permissive for a White Serpent Bai, and the experiences of those such as Xia Anxi and Lao Keung would reflect that.
+
+Below, the matches were beginning to wrap up. The other green in Lu Feng’s ring, an older young man with a boar spirit, defeated the last second realm. In Ma Jun’s ring, disciples had given up on hunting the swiftly moving storm of flower petals and song and turned to fighting for the other slot, and in Han Fang’s ring, he and his tiger hunted down the second to last disciple. Ling Qi glanced at the fourth ring and was surprised to see Fan Yu standing there, his face still sullen even in victory.
+
+As she turned to focus toward the Sect Head, Ling Qi felt a tap on her shoulder. By the time she had turned her head, she realized that the sound of the stadium was gone and that the world was gray. She met the tired eyes of a middle-aged man with too many lines on his face and gray in his hair. At that moment, she remembered Hou Zhuang, who had been here the entire time.
+
+“Apologies for the interruption, Baroness,” said Bai Meizhen’s father. “But I need your attention for a moment.”
+
+Ling Qi frowned, eyeing the grayed out world. She saw an image of herself still facing forward and speaking with the others and the other young Bai still talking, although it all seemed slow. “Of course, Sir Hou,” she said. “If I may ask…”
+
+“It is something of a personal matter,” he said quietly, and she saw his eyes drift toward Meizhen, who was watching the matches below with an understated disinterest. “We spoke last year, and I found it very helpful.”
+
+Ling Qi fought through foggy memories. If she recalled correctly, their exchange had been brief, just a few words traded on Meizhen’s well-being. “Sir Hou, it is not worth speaking of.”
+
+“Maybe, but allow this old man to be sentimental just this once,” Hou Zhuang said. “She is… happy now. This, I see. You are part of that.”
+
+“Only a small part,” Ling Qi demurred, eyes straying to the sash her friend wore around her waist. “We helped one another in the beginning, but she has found her own way.”
+
+“Nonetheless, my gratitude,” Hou Zhuang said, and once again, he tapped her shoulder. Ling Qi felt a tingle through her storage ring, and swift inspection made her realize that a neat sheaf of papers and letters had appeared within, along with ink pots and containers full of wax. “I have heard that your correspondence has been troubled. There are ways—ciphers and seals—of dealing with such. I have penned you a few primers.”
+
+“My thanks,” Ling Qi said gratefully. Whatever else could be said of him, Hou Zhuang was a fifth realm who she suspected specialized in spycraft. “Thank you very much for your instruction.”
+
+“It is a trifle,” said the old man. “There are some observations on your province and its people as well. Most of them are names of those who are too proud of their homes to treat with foreigners, but who love the Cai more than their own lords and elders. If you reach out to them as the hand of the young miss, they will take it. I hope I am not overstepping in suggesting such dishonorable talk?”
+
+His smile was a wasted thing, bereft of joy.
+
+“No,” Ling Qi said. “And I do not think it is dishonorable to keep an eye on things like this.”
+
+“I once knew a young woman who thought the same,” Hou Zhuang said, scratching at the slightly untidy stubble of his chin. “Open or closed, communication is the bane of conflict. That understanding of others is the key to prosperity. Call us spies or diplomats or ambassadors, the result is the same. If two groups know one another better, slights are avoided and violence unnecessary.” He breathed out a sigh. “Forgive an old man for rambling.”
+
+“I’m not sure if she was wrong,” Ling Qi said.
+
+“Kind of you to say.,” His humorless smile was unchanging. “But there is one last thing. Your project in the south requires support. I have been authorized to share a small part of my own efforts. Which of the great count clans would you care for a dossier on?”
+
+Those words… This wasn’t entirely personal then. As she thought that, she felt a whisper of feeling on the back of her neck, the edge of a blade. She saw golden eyes behind a black veil out of the corner of her eye. Bai Suzhen was offering some small aid.

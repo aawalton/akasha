@@ -1,0 +1,113 @@
+---
+id: ea953aea-f77b-5df0-9b4a-647228b030ac
+page-type-slug: story-chapter-royal-road
+title: "Threads 430-Snowblossom 2"
+slug: 0474-threads-430-snowblossom-2
+partOf: forge-of-destiny
+position: 474
+ownLength: 1876
+unit: words
+publishedAt: 2025-02-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2073634/threads-430-snowblossom-2"
+royalRoadId: "2073634"
+---
+
+The lake gushed forth in response.
+
+Seeking? Health, prosperity, fullness, travel, beauty, reagents, cultivation…?
+
+Ling Qi grimaced, processing the glut of offers while maintaining her concentration on the technique which kept Snowblossom’s curious probing at them all from bruising flesh and breaking meridians.
+
+"Your blessings and power are many," Ling Qi began.
+
+Tendrils of water washed over her feet, and she could feel Qiyi's rapt attention on them as they slithered to grasp at objects and the chest as a whole. The chest rattled as various items were taken one by one down into the depths. After deciding on a temple design, Cai Renxiang, Gan Guangli, and herself had discussed what to ask of the spirit with the Meng geomancer advising them.
+
+"First and most greatly, we beg the blessing of qi to water the guardians of this place and to grow their strength in order to ensure that no strife comes upon the shores of Shenglu. For this, we offer in return that on three festival nights, the chosen shall go out upon your waters and offer you the fruit of their experience, the sharing of memory and triumph and a return of a tithe.”
+
+Qi grew and multiplied in cultivation. Although it would take careful management, it would be possible to ensure that the offering, more complex than her spoken words implied, would ripple and buzz through the waters with the values and amounts promised. The rites and proto-cultivation art exercises would ensure that qi would be ritualistically expelled and returned.
+
+Waters shimmered in eager acceptance.
+
+"Secondly, we ask to set in contract the bounty of your waters, which teem with wealth of scale and bone and flesh, and permission to fish the great schools which flock freely under your waters. We ask bounties fit for all who will ply these waters from mortal shallows to immortal deeps. For this, we will give our prayers upon each casting of net or line or spear, and twice monthly, we will provide incense offerings upon our altar."
+
+Waters swirled in curiosity.
+
+Ling Qi sucked in a sharp breath and adjusted the skien of qi protecting her and her fellow cultivators as she was bombarded with ”body plans.” A deluge of trivia on structures, bones, muscles, and the qi composition of scale and bone and reproductive organs flooded her mind. She shuddered and forced the great majority of the information out of her head, leaving only the vague impression that the variety of marine life to be found under Snowblossom's waters would soon explode.
+
+She had been right in her supposition. The bounty of fish had been what the lake had offered first, and it was what she wanted to offer. Snowblossom was happy that her first gift would be desired further.
+
+Lake Snowblossom certainly would have been wroth had her gift been ignored in these requests.
+
+"And lastly, we would beg for the healthiest and cleanest waters, building upon the blessings you have wrought in the veins of fire with the Prince of the High Garden, so that we may have sturdy bodies and spirits to endure the cold. For this and the rest, the prince offers his roots to drink the waters and draw your powers together. In addition, we offer our art, our hopes for the future, and temperate stewardship of your shores."
+
+Plants bloomed in the waters in delight. The impression of a network of roots spreading all across the land, a whole forest that was not one, but many in communion, was sent to her.
+
+This was the keystone. To make a spirit into a settlement god was not simple. To make it so, the god could not be distant and unknowable. It had to be bound by the same bond which held any member of a community together.
+
+It required that she bring a spirit to care for their flickering sparks. It was the work of mortal generations, if not immortal ones, but it was a task she would happily take up. While imperial rituals were neater and less maintenance-intensive, they resulted in spiritual relationships that were at a remove. For a hostile spirit, that could be fine. But Ling Qi had come to believe that when it came to a neighbor, a more personal relationship was required.
+
+Each bond brings with it new ones, branching, and branching again. Love is the desire to see another prosper. Through these countless small loves, a community blooms and evolves.
+
+Lake Snowblossom accepted.
+
+Ling Qi knelt at the prow of the barge, Qiyi's silk pooled around her legs. She felt a small trickle of wetness on her upper lip and tasted the coppery scent of blood. Yet her mind's eyes were far from the still frail shell of her mortal body. She could see the lights, all the flickering lights reflected on the water, bobbing with the serene rippling of the waters.
+
+By definition, a community required exclusion. It was required that there would be those inside and outside of it for the concept to have any meaning. This, she had seen in the stagnant waters boiling under the general’s blade, and this, she knew that she could not deny. But she refused to accept those terms as primary. Lights could drift away, bonds could thin and snap, and new roots could curl out and bind themselves to others.
+
+Refusing to rely on exclusion made it so much harder to form a strong community, but there were many hard acts which were worth doing. She refused the path of Still Waters Deeping and the All-Consuming Crucible alike. Kinship was not only blood. Community was not tradition alone. It was a continuous act, requiring choices and motion from many minds, in harmony and not, pushing forward something greater than any one person.
+
+And now, a hundred, hundred tenuous links reached out from the lake to the people on the shore. As Snowblossom did right by them, so, too, would they need to do right by her.
+
+She remained kneeling, eyes on the depthless waters around the boat, the countless curious, happy eyes and too dense whispers prodding at her mind.
+
+"Rise," she croaked. “Bring forth the lakebottom altar."
+
+She heard the shifting of cloth and the sharp intake of breath from her trainee priests. Both men scrambled, albeit with dignity, to obey, relieved of the pressure of the lake's generosity and encouragement by Ling Qi’s careful deflection of the spiritual pressure. Stone scraped over wood, and she heard the uptick of their breathing, the grunts of effort that came from first realm cultivations having to haul such a weight up.
+
+"O Snowblossom, I thank you for your generosity, for your understanding, and for your kindness. You are our guardian and our Queen of Waters, and so, we give our next offering, a symbol of our trust and our contract. Etched upon it in the old tongue, the true tongue, are the terms I have proposed and which you have accepted. This one is given for your depths, and the other will remain on the shores, creating a connection so that we may always speak. Will you accept this?"
+
+The altar was a smooth, vertical block of pale blue stone imported from the Thousand Lakes. It was infused with potent lake qi, and the characters laying out the terms of the contract burned with pale green-blue light.
+
+Lake Snowblossom queried. Gifting, speaking, me to you, and you to me, and they to I? Little souls flashing scales, small among the school, hear and listen, give and take?
+
+"I will return to speak with you myself, but on other days, these souls and others will speak and listen to you. Through the altars, your echoed whispers, too quiet to harm, will arrive. Would you like this?"
+
+Yes. Yes. New. Interesting. Little figures, so far, so small, so distorted. I can touch. I can feel. Will you lift your veils?
+
+She could feel her companions tense at that.
+
+"One day, I will, Lady Snowblossom, but they are very small right now. It is better if only you and I speak directly. Through the altar, you may adjust your voice to not deafen fragile ears."
+
+As if mere deafness was the worst that the lake could do without meaning to.
+
+Ling Qi could feel the lake's impatience at that. Snowblossom was curious. She wanted to poke and prod and speak with the little things who supped on her waters.
+
+"I beg Lady Snowblossom for your patience and your trust. I promise that I, or another who is able, will speak to you directly for at least one night every thirteen turns of the moon," Ling Qi placated.
+
+It was a tie, a limitation on her time, until she could train another to commune like this without breaking the contract, but one she would have to take on. Such a good relationship with a spirit could not be costless.
+
+The spirit's presence swirled around them. The last of the offerings disappeared into the depths. Ling Qi felt her acceptance.
+
+Come. Sink Speaking Stone deep. Patience. Patience.
+
+Images of the world in time-lapse appeared. The lake waited, serene and unchanging, as clouds rushed by like comets, as plants sprung up and died, and as animals came and went. But now that the lake had tasted the warmth, its patience was limited. Lady Snowblossom would wait and be content, but not forever.
+
+"Give over the altar," Ling Qi ordered.
+
+Her companions murmured an affirmative and moved to the side of the boat. A pair of delicate feminine hands, slender and dainty, snaked out of the water, visible only where the torchlight met a curve or an angle. Those dainty hands snatched the stone altar and dragged it down into the dark, surrounded by hundreds of bubbles shimmering with the reflections of eyes.
+
+It was getting easier, she realized. The pressure was no less the alien attention of the lake's full mind, but she understood better, by the moment, how to cycle her qi just so to deflect rather than resist the pressure and how to maintain this filmy bubble of identity keeping them from being made one with the lake.
+
+The two men with her were even subconsciously aware of the protection, and there was a loosening of tension in them.
+
+They fell back, and behind her, they knelt, too.
+
+"We give our thanks to Lady Snowblossom, goddess of Shenglu by the lakeside, giver of plenty and health, and sparkling waters of cold beauty." They echoed her as she spoke. "Our offerings are given, the contract is set, and our agreement is made. Under the light of the Moon and by the honor of the Celestial Court, let none shatter this covenant."
+
+The lake responded.
+
+Let none shatter this covenant. Water and earth intertwine. Heat and cold intertwine. Just as hearth and firmament intertwine, since the beginning of all days. Welcome, little ones.
+
+Ling Qi rose and offered her hands up to the vast eyes looking down upon them, and much larger, colder hands pressed down on hers in return. Her qi and the lake’s qi mingled. A faint puff of crimson clouded the glassy hands, and a rush of ice spiked in her own veins.
+
+Her first true contract was complete.

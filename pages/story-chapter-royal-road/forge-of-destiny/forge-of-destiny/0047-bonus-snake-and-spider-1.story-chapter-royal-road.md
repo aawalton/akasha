@@ -1,0 +1,121 @@
+---
+id: 2064c660-6fe4-52fe-9272-8d571493c5d0
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Snake and Spider 1"
+slug: 0047-bonus-snake-and-spider-1
+partOf: forge-of-destiny
+position: 47
+ownLength: 2171
+unit: words
+publishedAt: 2021-01-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/614218/bonus-snake-and-spider-1"
+royalRoadId: "614218"
+---
+
+It was the taste of corrosion in the air which drew Bai Meizhen’s attention. A familiar scent, which reminded her of home. Where she would sometimes lurk about in the alchemy district to avoid her more aggressive cousins' attentions. A glance to her side revealed the source. A young woman a year or two her elder, who it had taken her a moment to recognize.
+
+The odd Bao daughter, the one who did not fit that clans mold. Bai Meizhen knew of her, but only in the sense that she was vaguely aware of the names and positions of every noble member of the Inner Sect. She studied the girl out of the corner of her eye as they joined the little path leading up to Cai Renxiang’s rented pavilion. It was the silk of her rather mannish clothing giving off that scent. What was… ah, that was interesting.
+
+“Venom infused silk? That is hardly a common style in this region,” Bai Meizhen commented idly, a single sliding step carrying her into polite speaking range. Through her parted lips she tasted the composition of the toxin on her tongue. It was odd, one she didn’t recognize.
+
+The reaction to her words was interesting. A sort of full body twitch too minute to notice without close attention, and a sort of rustling motion in the girl’s qi as she jerked her head to the side. Bao Qingling’s eyes came to rest on her face, but it was subtly awkward, not quite natural. Blindness? No, that wasn’t quite right.
+
+“Not anymore,” Bao Qingling agreed curtly, her tone indicating disinterest.
+
+Bai Meizhen shifted her stance slightly, leaning her head to one side as if examining the other disciple. Sure enough, another twitch and a slightly delayed movement from the girl’s eyes. A nonstandard perception art? That was interesting. It was rare outside old spirit blooded clans like her own. “I see,” she replied, and considered ending it there, but with so much posturing awaiting her, speaking on an actual enjoyable subject seemed tempting. “Is it your own work?”
+
+“Yes, spider silk, with my own custom toxin,” she replied, turning her gaze back toward the path. “I am not accepting commissions at this time.”
+
+How difficult, Bai Meizhen mused. “I would not wish to commission incomplete work regardless.”
+
+That drew a sharp look. “And what about it is incomplete?” She asked coolly.
+
+“The corrosion effect is too strong, the silk will decay in a matter of days,” Bai Meizhen replied matter of factly.
+
+“...The shelf life is a month at minimum. I don’t know what you’re getting at,” Bao Qingling was starting to scowl.
+
+“I am Bai, do not question my mastery of venoms,” Meizhen sniffed. Really, she had been hoping to discuss the girl’s mixing process and perhaps give some pointers, there was no need to be… huffy.
+
+This time Bao Qingling stopped, staring hard at her through squinted eyes, and Bai Meizhen raised an eyebrow, stopping as well. “...So you are,” she said after a long second. Her tone was grudging.
+
+“I do not doubt the quality of the work, but the intensity is rather high,” Bai Meizhen replied as they resumed walking. “The quality, texture and toughness of the silk is significantly divergent. How is the retention of toxin potency?”
+
+“Seventy five percent,” she replied gruffly. Her fingers twitched with nervous energy. “Still needs workshopping, but progress has been satisfactory so far.” Or so she thought, her tone seemed to say.
+
+The set of her shoulders was less closed off and hostile now though. It seemed she was not so dull as to not recognize actual expertise when it was given. Still, perhaps she had phrased her own criticism poorly.
+
+“The work reminds me of the crafts of certain family artifacts. The quality is not quite there, obviously, but it is an intriguing project, the use of treated spider webbing rather than traditional silk is an interesting twist however,” that should smooth any ruffled feathers.
+
+Indeed, the slouching girl straightened up in obvious pride. It seemed that she was aware of the shadow she worked under. How nice. “You’re too kind. The works of Bai Xiong are treasured masterworks for a reason.”
+
+They were approaching the entrance now though, and the conversation needed to be on hold. Cai Renxiang and Ling Qi were there, greeting guests.
+
+“Miss Bai, Miss Bao,” Cai Renxiang greeted formally as they stepped inside. “Welcome to my hall. You honor me with your presence.”
+
+“Thank you very much for coming,” Ling Qi echoed. “I hope that you find the afternoon enjoyable.”
+
+“And I am honored by your invitation,” Bai Meizhen replied evenly, she could not help but give Ling Qi an amused look, remembering the sloppy ragamuffin which she had shared her home with a year ago. Some things truly did change. She did her best to ignore the niggling pain in her heart.
+
+“As am I,” Bao Qingling added stiffly, dipping her head with a twitchy jerk. “You’ve outdone yourself, Lady Cai.”
+
+“Thank you for your kind words. Please partake as you will of refreshments while the other guests arrive,” Cai Renxiang replied, gesturing that they were free to pass.
+
+All four of them exchanged the necessary pleasantries and motions as they stepped past. She would have to speak with her friends later, they would be busy for some time, and it would be rude to monopolize the host's time. Which meant…
+
+She could worry about her duties later. She had been having a pleasant conversation.
+
+“I would be interested to see the reaction of your silk to some Bai venoms,” Bai Meizhen resumed as they approached the refreshments. Poison craft was something of a hobby of hers. While all Bai were instructed in the basics of the art in order to make the cultivation of their arts more efficient, it was a little beneath a White Serpent to perform material alchemy past childhood. Although, not unacceptably so if it was for personal use.
+
+“Is that so,” Bao Qingling replied, sounding slightly suspicious. “I don’t mean any insult to your knowledge, but why the sudden interest?”
+
+Because she was lonely, a quiet part of Meizhen’s mind whispered. Because she saw how Ling Qi flitted between groups of friends, and she wanted that too. Why shouldn’t she have someone to discuss her hobby with. “Poison crafting is not a much honored art in Emerald Seas. It is not something which I have had much opportunity to discuss or practise with peers.”
+
+“Well, not going to refuse advice from a Bai,” Bao Qingling said grudgingly, accepting a cup of cider from the server at the table. “If you’re right about the silk anyway.”
+
+“I shall expect your message in three days time then,” Bai Meizhen said, smiling thinly.
+
+“Hmph,” the girl grumbled. “Well, I need to go Miss Bai. I have things to do at this… party.”
+
+“I as well,” Meizhen sighed as they turned away from each other. She did hope that Bao Qingling would contact her.
+
+***
+
+“I believe I have discovered the source of the issue,” the dangerous creature standing over her work table said placidly.
+
+Bao Qingling felt the shift in familiar air currents as the other girl moved, even as she worked on the skein of silk forming on her loom. The fact that her work had been flawed still stuck in her throat like a bitter pill with a flawed casing. “Is that so,” she said flatly. “Well, what is your insight?”
+
+Bao Qingling did not like being off balance. She did not like uncertainty. She did not like mysteries. Usually this was not a problem. Her fellow disciples assumed that her brusque manner implied a lack of understanding, of simplicity.
+
+No, she understood most of them perfectly well. That was why she held them in such contempt. However, Bai Meizhen was refusing to be categorized properly, and it irked her.
+
+“It is a flaw in your approach to the subject as a whole,” The girl said, speaking words which effortlessly and openly insulted her. Yet there was no malice in them. Bao Qingling’s fingers twitched in agitation as she spun on her heel, looking down at the pale white blob occupying her lab. If that were her only sense, then she would have shot back a barb of her own.
+
+But Bao Qingling had stopped relying on her eyes a long time ago. The delicate sense-threads of Qi which radiated from her meridians shuddered and vibrated. The nigh invisible hairs of her body prickled despite the thick clothing she wore. All because she had focused on that girl.
+
+She was an abyssal vortex, descending into the depths, and her current commanded both attention and respect. Bao Qingling was the stronger of them, for now, but she was pragmatic enough to know the power of blood. This was a temporary state of affairs at best.
+
+“Explain,” she said curtly. She did not understand this woman’s purpose. She was not interested in a commission. She was not interested in denigrating Bao Qingling, else she would have voiced the flaw at the party. She did not seem to simply be bored and playing, as some highborn individuals seemed to do.
+
+Everything Bao Qingling understood about social interactions indicated that she was merely seeking to indulge a shared hobby, but that was absurd. There was obviously some factor she was missing. Were the Bai seeking something in regards to the routes which ran through Bao lands? If so, this was an odd way to go about it. What were…
+
+“You began from the basis of a medicinal cultivator. This has resulted in a serious flaw in your mixtures. You treat poisoncraft as an extension of medicinal arts,” Bai Meizhen replied, derailing her thoughts.
+
+Bao Qingling narrowed her eyes, her foot tapping impatiently. Replies tripped over one another in her thoughts as she examined the words for meaning, picking them apart. Discard condescension, habitual affectation. Implication of some insight available to the Bai not available in the public archives which had formed her own foundation. “How is it not?” she asked bluntly. “Poison is merely the principals of medicine turned to harm.”
+
+“Not inaccurate in some ways, and sufficient for most projects. Certainly both crafts require a similar understanding of the anatomy of body and spirit,” Bai Meizhen replied. There was a whisper of moving air, and then Bao Qingling scented the faintly acidic smell of her fourteenth test batch. She must have unsealed a vial. “However, this mindset leads to you having integrated the concept of excess into your mixtures. This batch in particular, your final mix, is merely a heart soothing medication with it’s potency raised to the point where it will cause a fatal slackening and loss of pressure in the veins.”
+
+Bao Qingling’s foot stopped tapping. Bai Meizhen’s voice was pleasant when tinged with excitement. Discard. “...The corrosion is caused by the inclusion of the concept of excess. Despite all of the safeguards.”
+
+“Indeed so,” Bai Meizhen replied. There was a faint sizzling and a fluctuation in qi as the other girl drew the venom from the vial with a flick of her finger, a glittering cord of liquid visible in Bao Qingling’s spirit senses. “So while the quality and potency of the toxin is high, it is unsuitable for the task of envenoming organic fiber. Such a conceptual element is incompatible with materials with lives shorter than stone or metal.”
+
+Such a simple but fundamental error. So much wasted time. “It should be possible to reinforce silk to have a similar lifetime,” she said slowly. “But the conceptual excess will constantly damage such safeguards. It would be possible to counteract this but it would be…”
+
+“Inefficient,” Bai Meizhen said, overlapping her words.
+
+She stared at Bai Meizhen in silence for several seconds. “And what is the secret I am missing, then Lady Bai,” this was likely the end of it. Her curiosity satisfied, Bai Meizhen would take her leave, and Bao Qingling would have to begin reconstructing her projects from the ground up. Again. Perhaps this time Father could be persuaded to make the purchases which he had previously rebuffed, even with her increased allowance she could not afford the texts she wanted without dangerously curtailing her cultivation.
+
+“Oh, the root of it is simple enough. It is hardly a secret. You must develop your venoms from the beginning with only the intent to harm and no thought to any beneficial effects; to inflict suffering and cripple to the exact extent which you desire and no more,” there was a shift in the pale blob, and an odd vibration through her strands. “It will require some shift in mindset, but I am willing to assist you, should you desire.”
+
+That was… self consciousness, at the end there. As if accepting her offer of assistance as a scion of the Bai was Bao Qingling doing her a favor. Nonsensical.
+
+But could she really afford to reject it, no matter what plot lay beyond?

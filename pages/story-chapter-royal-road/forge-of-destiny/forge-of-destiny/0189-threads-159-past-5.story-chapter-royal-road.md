@@ -1,0 +1,121 @@
+---
+id: 8880862a-488b-5b63-bdec-5a771d80fa12
+page-type-slug: story-chapter-royal-road
+title: "Threads 159-Past 5"
+slug: 0189-threads-159-past-5
+partOf: forge-of-destiny
+position: 189
+ownLength: 1774
+unit: words
+publishedAt: 2021-11-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/796937/threads-159-past-5"
+royalRoadId: "796937"
+---
+
+“Oh, this is a shiny one. I like it,” Sixiang said, lying back on the polished surface of an antique table. They held a slip of white jade up to their face as if they could look into it with their eyes.
+
+Ling Qi glanced up from the near empty box in front of her and the jade slips arranged on the cover of a massive atlas of the Emerald Seas that lay on the floor before her. “Oh, what do we have there?” she asked cheerfully.
+
+Sixiang flicked it to her, and Ling Qi caught it out of the air, threading qi into the talisman to read the encoded information. Ling Qi frowned only a moment later. “Sixiang, this is another play.”
+
+“But it’s really intriguing, you know? I want to see how things turn out for the general and the prince. Can’t we watch it?” Sixiang pleaded, letting their head hang off the table to peer at her upside down.
+
+“And I told you we could see about investigating things more closely later. We’re organizing right now.”
+
+Despite her words, Ling Qi did want to look into it further. Many of the jade slips recorded performances, poetry, and songs. While they didn’t seem to contain techniques or arts, she could tell that there were insights to be found. As a musician, she had the itch to study the scores and the meter, but she just didn’t have time right now.
+
+Sixiang booed. “I’m gonna hold you to that later,” they threatened.
+
+“They’re not even full recordings. If anything, you should be bothering me to sell them to a theatre troupe so we can see them performed properly,” Ling Qi shot back. There was no heat in it though. She really had hit the treasure trove here.
+
+There were dozens of arts, mostly minor second realm things, but a few breached the third realm. From her inspection, they did not seem much lower in quality than her old Thousand Ring Fortress art. She was beyond them herself, but she could still see their value. She would have to split the treasures with Xia Lin of course, and she could already see ones the girl might be interested in. Even so, her share would be a great boon for her burgeoning clan library.
+
+More important though were the five jade slips that she had added to a third pile. They contained teachings on the crafting and modification of arts, and even a cursory glance had shown that their lessons were far deeper than the basic instruction offered by her sect lessons. There was musing on the shape of meridians, on insights and tribulations and breakthroughs that she knew she would want to study more closely later.
+
+It took a moment for Ling Qi to tear her eyes away from the remaining jade slips and turn her head to see how Meng Dan was doing. All around him were neat stacks of documents, books, and treasures, and dozens more floated around him, swiftly organizing themselves even as Meng Dan himself remained standing before the tapestry, rapidly going back and forth between it and the book. “Any luck so far?”
+
+“I believe I may have found the trouble,” Meng Dan said sourly. “The reason our prince has been so hard to find.”
+
+Ling Qi glanced from Meng Dan to the tapestry. He was glaring at it, and the tapestry was giving off an air of haughty indifference. “What is the problem then?”
+
+“Whichever miscreant embroidered the earlier names changed those that did not fit the dominant imperial and Weilu naming schema,” Meng Dan said. He sounded as if he had been gravely insulted. “I have enough context that I was able to locate him by the princess and her relations.”
+
+Ling Qi gave the tapestry a long look and considered the ravings of Hui Peng, written and otherwise. “I guess I shouldn’t be surprised. Does he even have an entry in the book?”
+
+“He does,” Meng Dan said primly. “Albeit, he is recorded merely as a ‘southern prince’ with few accomplishments. It seems that the High Kingship moved to a more northerly line after his father-in-law’s passing.”
+
+“The line continues though, right?” Ling Qi asked in concern. It would be problematic for their argument if the line just ended.
+
+“I am determining that. He and the princess certainly had children at least,” Meng Dan replied. “Tracing those lines is proving more difficult however.”
+
+Ling Qi looked back to her own work as she took up another jade slip. Threading qi through the formation, she peered at the information, and this time, she paused.
+
+“Heh, I know that look. Found something you like, huh?” Sixiang asked.
+
+“Maybe,” Ling Qi said. The jade was partially locked, revealing only a few tantalizing bits of information. It was a recipe for a potent breakthrough elixir called Heart’s Dream Elixir meant to aid in achieving the fourth realm and the opening of the middle dantian.  But the information encoded within was clouded from her sight. It was going to take time to puzzle through, and what scraps she could make out told her that its ingredients would not be easy to acquire.
+
+It looked like she might have picked up a new long term project to be done with Suyin.
+
+***​
+
+Ling Qi was not certain how long it was before the last old talisman was placed in a pile. Time was hard to keep track of in this sunless little pocket realm. But it was at last done.
+
+Ling Qi stretched her arms overhead as she surveyed the contents of the ring. Things were still a mess, but they were a catalogued mess. Sort of.
+
+Things were mostly piled with similar things anyway.
+
+“Any luck yet?” Ling Qi asked, turning back to Meng Dan. He had fallen back into a chair at some point with Yinhui perched on its arm. The book lay open in his lap, and a pile of densely written notes had begun to pile up beside his chair.
+
+“I have begun to gain a picture of events,” Meng Dan said with some satisfaction. “The minor civil strife which ended the High King’s rule, the passing of his grandchildren into the care of other tribes… I have traced a few generations. They seem to have been on the winning side of the Mason’s War at least. Signs seem to indicate that their blood was concentrated in the southwest. There may be some connection to the fallen Li.”
+
+“Is that bad?” Ling Qi asked. “That’s still the dead end problem again.”
+
+“Ah, but both my family and the Diao adopted refugees from that clan when absorbing their lands,” Meng Dan noted. “Not to mention intermarriages. If I am correct, our argument remains solid.”
+
+“Good,” Ling Qi said in relief. “Do you need any more help, or should I head out and let Lady Cai know that the organization is mostly done?”
+
+She was feeling significantly better, her qi beginning to recover well. So they must have been in here for a while.
+
+Meng Dan closed the book in his lap and gathering his notes as he stood. “I believe so. Meaning no offense, but the work remaining is rather more in my realm of expertise.”
+
+“I take none,” Ling Qi said. “Are you coming out as well then?”
+
+“I think I shall. This place is rather dreary,” he agreed.
+
+“I will remain unless called,” Yinhui murmured, sliding into his chair with a tome the size of her torso in hand. “It is comfortable here.”
+
+“Only for you,” Sixiang said. “I’ll be glad to get out.”
+
+Ling Qi nodded, preparing to leave the ring, only to pause as Meng Dan extended a hand to her, holding a sheet of paper packed with his dense handwriting.
+
+“A small gift, Miss Ling,” he said, dipping his head. “While I acknowledge your earlier words…”
+
+Ling Qi took the paper as he spoke, glancing down to see names and deeds. A musician in court of the second Weilu duke, a brave general who had been lauded for saving a burgeoning city from an eruption of malignant spirits, and a playwright whose performances were in circulation until their loss in the disappearance were the first to catch her eye. There were more than a half dozen others as well. They were not dukes or provincial heroes or truly notable historical figures, but at a glance, they seemed like good people at least.
+
+“I do not believe it is a good thing to dismiss one’s ancestry wholesale. Many of our predecessors were foul, this is true, but many were admirable as well,” Meng Dan continued. “A single man is not a family tree.”
+
+Ling Qi paused. She had already dismissed thoughts of ancestry from her head. It was a curiosity, and there’d been no reason to give it more thought than that. “There was no need.”
+
+Meng Dan shrugged. “I am being somewhat presumptuous, I know, in putting my own belief upon you. But I think it is a sad thing to have no roots.”
+
+“Thank you,” Ling Qi said after a moment. Some names looked a little familiar. Hadn’t there been a few talismans with that name etched upon them, and a sculpture matched to that one?
+
+It might not be the worst thing to put those in her claims.
+
+“If you wish to track the ‘other side,’ I may have to charge.” Meng Dan smiled. “That cantankerous old talisman does not much like maternal bloodlines.”
+
+Ling Qi blinked. The man had ruled other Weilu, so it made some sense that his dalliance would be somewhere in the Tapestry as well.
+
+“I’ll consider it,” Ling Qi said, folding the parchment. “But let us get out for now.”
+
+***​
+
+Ling Qi had not been certain what she expected to see when she emerged, but this was not it.
+
+Under the dark canopy of the valley, lit by the fey lights and the eyes of the wood spirits lurking among every bough, were spiders in their thousands. They stood in a glistening castle of webbing woven among millenia-old trees. In the center, hovering above the form of a great brown spider the size of a small house, Cai Renxiang burned like a star with wings of radiance on her shoulders.
+
+The spiders bowed, one and all, pressing their bodies to the ground, to the webs, and to the branches. It was a gesture of supplication, obvious despite their inhuman frames.
+
+“Negotiations are complete then. The House of Cai accepts your reparations and your oaths,” Cai Renxiang proclaimed.
+
+Looked like they all had some things to share.

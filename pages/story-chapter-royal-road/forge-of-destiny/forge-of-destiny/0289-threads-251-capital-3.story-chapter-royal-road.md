@@ -1,0 +1,151 @@
+---
+id: a83bf4d6-b29e-533a-803b-ba0d4622e4c4
+page-type-slug: story-chapter-royal-road
+title: "Threads 251-Capital 3"
+slug: 0289-threads-251-capital-3
+partOf: forge-of-destiny
+position: 289
+ownLength: 2731
+unit: words
+publishedAt: 2022-09-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1004933/threads-251-capital-3"
+royalRoadId: "1004933"
+---
+
+<Ah, you’re too hard on yourself,> chided Sixiang.
+
+Maybe, thought Ling Qi, leaving the misty grounds behind. She rejoined the main street that wound along the immense branch of Xiangmen with the leafy green canopy still so unimaginably far above.
+
+It was strange that there wasn’t a single person walking around below the second realm. There was much less of the reflexive obedience she had grown used to from the residents of the sect town. The palanquins and processions of greater nobles still earned that reaction here, but Ling Qi felt mundane. She was someone of status, but not someone of note.
+
+It was a confusing feeling. Her life had gone from one extreme to another, and now, she didn’t know how to feel about balancing in the middle.
+
+Everything was so bright up here with all the lanterns, qi lights, and paints that lit up with inner flame. The upper reaches of Xiangmen were a riot of competing artistry, each building seeming to metaphorically shoulder to the front of the crowd as if to proclaim “Only I deserve attention!”
+
+Tonghou was a hideous little hovel of a city, wasn’t it? But did it have to be? If a few stones spilled down from these branches and into those streets, wouldn’t they be transformed?
+
+Probably not, ruminated Ling Qi, stopping to look through the window of a shop. From the looks of the shop, it sold glass ornaments and statues. Beautiful work, really, even if a little gaudy. If those stones did spill down, they would only vanish into powerful pockets, and the streets would never see them.
+
+<Feeling philosophical, huh?> drawled Sixiang. <I think you know it doesn’t have to be that way.>
+
+Maybe not. Well, not everywhere at least. She didn’t know much about ruling, but she liked to think she could at least do better than Tonghou.
+
+<Nobody should be hungry,> proclaimed Zhengui solemnly.
+
+Ling Qi hid a small smile behind her sleeve and stepped into the shop. She emerged a few minutes later with a small padded package in her storage ring. Her mother would probably appreciate the blown glass flowers. A novelty from a world far away for her.
+
+<What’s the plan?> Sixiang asked. <It’s getting pretty late.>
+
+They would drop off Hanyi and Zhengui and then, she and Sixiang would have a night on the town.
+
+<Hah! That’s more like it! If the mortals are this lively, my side is gonna be great!> Sixiang exclaimed.
+
+<Not fair that I have to stay here,> grumbled Hanyi.
+
+<Big Sis got hurt last time. Shouldn’t Gui come too?> asked her little brother worriedly.
+
+Having more people along would make things harder, not safer, thought Ling Qi. She stepped to the side of the street as a well-dressed nobleman’s procession passed by. The noble was a fourth realm, and he was from a comital clan, though she couldn’t remember which one. She caught him glancing her way, and she could see him trying to place her for a moment before dismissing her.
+
+There was still some value in not being too well-known.
+
+<Yeah, I gotta agree... We need more practice before we can bring you guys along. Give us a little time,> Sixiang supported her.
+
+Her other spirits grumbled and complained a little more, but she knew they understood.
+
+The trip back to their guest home passed in peace. She left Zhengui in the garden and Hanyi in her room with a promise that she’d take her out dress shopping tomorrow morning to mollify her complaints. She stopped by Cai Renxiang’s room and left a note stating that she would be out for cultivation until morning.
+
+Then it was back out into the darkening streets. Xiangmen, unlike many places, didn't seem to fully shut down with the falling of night. There were less people, and some venues were closed, but music and voices and shouts still filled the arboreal street.
+
+“Do you actually know where you’re going to go?” asked Sixiang curiously, materializing a physical form to walk beside her. Slender and pale in a cream-colored dress with shimmering, prismatic embroidery, they looked like an androgynous girl her own age. Even their hair was half-tamed for once, tied back in a braid and only very slowly changing color through the spectrum.
+
+“Not yet,” replied Ling Qi thoughtfully. “I think I need to experience the city a little first, and I wouldn’t mind some more time to think.”
+
+“Well, let’s hit the town then!” said Sixiang cheerfully, bumping her shoulder. “Just follow my lead. Pretty sure I know how this works.”
+
+“Lead me not into vice, you miscreant,” Ling Qi sniffed, imitating Meizhen to her best effort.
+
+“Oh, you don’t even know.” Sixiang laughed, taking her hand as they stepped along the brightly lit street. “Let’s see what weird little corners we can find.”
+
+For all that Ling Qi had been born in a city, this was the first time she had really explored one. Actually, Xiangmen was still so massive that it was hard to think of it as one city. If she looked into the distance, she could see glittering constellations of stars in the distance that were the other settled branches. If she looked down, there was the faint light of the terraces and great city windows shaped in the bark. If she looked up, there was the great green dome of the leaves that reached beyond the limits of the sky.
+
+It was dizzying.
+
+For now, she chose to stick to this one branch for tonight's exploration. She knew it was officially called the “Seventh Cloudspire District,” but from listening as she strolled, Ling Qi learned its colloquial name was the “Cerulean Garden.” She was curious as to the provenance of the name, and a few questions brought her toward the tip of the branch where it narrowed to only a few dozen meters across and the broad, village-sized leaves clustered close.
+
+What she found was a bit mad in her opinion. Built onto the largest of leaves and the branch itself were sprawling apiaries and artificial fields, holding tea plants whose leaves ranged from the deepest indigo to the palest sky blue. They buzzed with bees, mostly normal in size, but there were a handful the size of horses with dark blue carapaces. Human workers and soldiers rode these, dangling from complex slings and harnesses of wood and leather. Once she spotted them, she understood the purpose of the oversized apiary that hung below the branch, suspended on cords of woven metal.
+
+She spent some time wandering the public part of the garden, observing the workers performing their tasks before heading back trunkward. Elsewhere, these gardens would be a wonder fit to build a whole settlement around, but in Xiangmen, it was but the jewel of a single district.
+
+In the more densely-built part of the district, she came across a theater giving late-night performances. By coincidence, she arrived at the start of a show, and after a moment's thought and some goading from Sixiang, she spent stones on a ticket. The theater was neither low-class nor lavish, but comfortably middle-class. There were a handful of boxes for high nobles arrayed about, but Ling Qi chose to merely purchase a seat in the tier above the standing ground.
+
+She hadn’t even looked at the name of the show, so it was with some surprise that she found herself a rather crass kind of comedy. Despite herself, she couldn’t hold in a snort of laughter as she observed an actor, painted up in the most exaggerated fashion of a courtier, wailing in outrage after a pratfall into his own lavish office’s garden pond.
+
+It was a simple little story about a clever clerk and his overbearing and pompous superior with the clerk always finding ways to do his job properly while still finding ways to embarrass his superior when he came to take the credit. It ended with the superior‘s final humiliation as his efforts to take credit for his underling’s work came undone, and the clever clerk was elevated to be the new director.
+
+It was strange that so many resources were poured into a show that was mostly composed of physical humor, quips, and a certain amount of vulgar puns. At the same time, it was fun, and Ling Qi could even see the message of it: the virtuous man rises, and the corrupt fool falls. She still felt like this show would never be put on in the inner ring of Tonghou.
+
+Leaving the theater, she found herself wandering further, walking the streets among towering manors and sprawling gardens where wealth was on its fullest display and no walls were needed to keep the streets clear of the twigward neighborhoods’ less-wealthy residents. Here, she saw palanquins and horses, gardens and courtiers, yards lit with glittering lights, and revels attended by swarms of lavishly dressed and painted courtiers.
+
+With her aura firmly held in, her dress simplified, and her presence masked, she saw upturned noses at her and Sixiang’s presence. Once, she even had to let a little power leak into her eyes when she caught a guard approaching with the air of one who was about to tell someone they didn’t belong.
+
+How much had she really changed? Was it only the surface that saw a cleaning?
+
+She vanished between steps, rematerializing on a leaf hanging from the side of Xiangmen. As interesting as the physical city was, it wasn’t her focus tonight.
+
+“It’s given us some places to start though,” said Sixiang, squatting beside her on the leaf. “The idea you go into the liminal with is important.”
+
+Ling Qi hummed in agreement. Where to begin in the dream?
+
+Ling Qi was acting off instinct as much as anything else. She knew after that encounter with Su Ling’s mother that her current skills were simply not enough. She needed to further master dreamwalking, and yet, it was hard to say how she could do that. It wasn’t like physical cultivation or even a defined art. It was as much a sort of self-hypnosis as anything else. What aspect of the dreaming realm would both grant her practice, and also not risk a catastrophic encounter?
+
+In the end, Ling Qi could only think of one option, and soon, she made her way back into the city. She did not go back to the theater where she had seen a play for the specific location was never important, and there were many. And besides, her compass did not lead there. Instead, it brought her to a narrow building jammed between two larger venues. It was comparatively rickety, its paint a little scuffed.
+
+She and Sixiang entered and found themselves in a cozy little lounge lit by dim lanterns and candlelight. A small number of patrons sat around the tables drinking middling tea. She recognized workers from the apiary, household servants, and even a noble or two of higher class dressing down like she was, but with less skill at concealing their aura.
+
+They were all listening to recited poetry, first from a young man with slicked back hair and a shaky voice, trying too hard but earnest for it, then from a woman with wide and wild eyes and a breathy voice, rambling of sights seen in tea leaves and between eye blinks, and then another and another, each one a bit odd. Unseen by the proprietor and the staff, she and Sixiang settled in the furthest booth in the back corner, letting the amateurish but heartfelt readings wash over them. Ling Qi breathed in the atmosphere of Xiangmen as the City of Art. This place, so tiny and irrelevant, was nonetheless sincere.
+
+When she opened her eyes, Ling Qi found herself suspended on a bed of bubbles. The slick, slightly moist surfaces bent and deformed under her weight but did not pop. She saw them all around her. Single glistening bubbles drifted up and up through the soft green air, and other bubbles came together in congeries, images drifting by on their surfaces as they swam like clouds through this infinite verdant sky. Some were no bigger than marbles while other bubbles were the size of houses gently bobbing and deforming under their own weight.
+
+The air felt thick like she was underwater, but breath came easily, and soon, Ling Qi found the island of bubbles she had appeared on drifting away as she bobbed and swam in the currents themselves.
+
+“Wow, this place is busy!” Sixiang exclaimed, and Ling Qi craned her neck to see them. Sixiang appeared here as a drifting raft of tiny coin-sized bubbles gathered around a core of some three or four larger ones which seemed to merge and split at random.
+
+“Are these all your kind?” Ling Qi called up to them, looking around her with wonder.
+
+“No, not all of them. If you really look, you should be able to tell us from the human dreams,” Sixiang called back. Their form shifted and contracted, and with a wet pop, they became their more usual manifestation, though their gown was made of shiny bubbles.
+
+Ling Qi shot Sixiang a look, and the muse stuck their tongue out. The bubbles shimmered, becoming opaque in their iridescence.
+
+“I thought Xiangmen itself would manifest more clearly no matter how I approached—” Ling Qi blinked, staring out into the distance where a faint shimmer of light caused her to realize the truth. All of this, the emerald colored air and the clouds of rising bubbles, existed inside another bubble of dream too large to really perceive.
+
+“Yeah, that’s the one. I don’t honestly think we’ll get much from that,” Sixiang said. “On the other hand, that.”
+
+Ling Qi followed where Sixiang pointed, and Ling Qi realized it was the source of the faint breeze that seemed to blow, carrying the bubbles in its current. It rose from below, vanishing beyond the limits of her sight, a rising vortex of shimmering spheres whirling and flying, spinning off new clouds that were flung off into the distance and slowly came to float more sedately. And it, too, rose beyond sight, a whirling twister of dreams and ideas.
+
+Ling Qi focused upon it, willing herself to drift closer to feel and hear and see.
+
+Sing and weave and forge, O makers, O breakers. Cast off the brute shackles of Must Be, the blinders of Today, and dream the shape of paradise.
+
+It wasn’t the crushing power of a cultivator’s power, but something all encompassing. It permeated this space and filled it totally. If this whole space was Xiangmen, then it ran through it all as sap or blood. Instinctually, Ling Qi threw up her arms in defense, but it was no attack.
+
+The Wise have abandoned us. The Strong have failed us. No Honor or God or King will save us.
+
+There is only the Dream and the Dreamers.
+
+This was a heartbeat. Or a breath. It simply was, as omnipresent as air or the earth beneath her feet. Yet despite that, it felt new and fragile compared to the immutable greenery which surrounded all.
+
+She saw a cluster of bubbles drifting by and glimpsed a man surrounded by paper covered in scribblings and blueprints, holding his head in his hands. In another, she spied a woman dressed in flashing finery with a strained smile in front of a bored audience. And in yet another, a man deep in his cups, eyes bleary and bloodshot, stunk of alcohol and despair. The wind blew, filmy surfaces trembled, and bubbles popped.
+
+Fragile.
+
+Only the Dream may unite. Only Dream may provide succor.
+
+There will be One who is Many, and it will be beautiful.
+
+Ling Qi looked upon the vortex at the center of it all. She had not moved an inch, but with her focus, she had come near all the same.
+
+Sickness ran through it. A black rot stained at the very edge of her vision below, and bubbles, gray and black, slick like tar and oil, mixed with those still clean as they spiraled upward.
+
+There was a stark light within the vortex, concealed beyond sight. For now, it kept the rot at bay, but it was so wonderfully, terribly bright. So bright it might consume everything unchecked.
+
+Flock now, little dreamers. Fly and sing amongst the pillars of the Palace of One.

@@ -1,0 +1,127 @@
+---
+id: 752abdf3-bc8e-50b4-8056-4bb44eaba8db
+page-type-slug: story-chapter-royal-road
+title: "Threads 205-Opening Day 3"
+slug: 0238-threads-205-opening-day-3
+partOf: forge-of-destiny
+position: 238
+ownLength: 1888
+unit: words
+publishedAt: 2022-04-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/878084/threads-205-opening-day-3"
+royalRoadId: "878084"
+---
+
+Ling Qi listened as Cai Renxiang and the ambassador continued to trade pleasantries and small talk with Xia Lushen and Meizhen sometimes cutting in. She did wish she could just chat with her friend, but that would come later when they weren’t in such a formal situation.
+
+She watched the servers set out the refreshments. They did smell good. Ling Qi only recognized a few of the dishes. Fish had never been common in Tonghou, but now, she saw more types than she could name in as many different styles, steamed, roasted, fried, even raw. She eyed a platter stacked high with some kind of orange shelled bug things that were still twitching. There were a few non-fish dishes as well. She recognized cuts of venison and pork arranged artfully and drizzled with some kind of rich red sauce.
+
+There were, she noticed, no vegetable dishes. Spices, sauces, and garnishes were the only non-meats on the table. The Bai were, after all, half-serpent and predators by nature.
+
+“The Bai are generous,” Ling Qi said, turning her eyes back to the two young men. She pitched her voice low to avoid interrupting the conversation of her superiors. “I admit I am a little spoiled for choice. Do you have any recommendations?”
+
+“The dishes served on the black plates are suitable only for Bai stomachs,” Xia Anxi answered lightly. “While the toxins add a kick I enjoy, you would not, I think.”
+
+Ling Qi eyed the plate in front of him on which sat cubes of fish skewered on what looked awfully like organic spines. She was not inclined to make a fool of herself trying something that would hurt her.
+
+“The abalone,” Lao Keung said shortly, gesturing to a series of small shallow bowls on a nearby platter. Each one was filled with a dark brown sauce in which she saw a type of meat she didn’t recognize.
+
+“Ah, as a Coral, I cannot object to recommending our shellfish. It’s a bit simple though.” Xia Anxi bit through the skewering spine on one of his chosen meals with a snap. Something black and sizzling dripped onto his plate, and Ling Qi was quite certain she saw it etching the porcelain. “I might suggest the prawn.”
+
+“Simple is good at times. But the prawn is good too. I suggest the cooked platter,” Lao Keung said. There was a faint crunch as he twisted the head from one of the orange bug things, which she supposed was a prawn. She watched him pop the still twitching body into his mouth.
+
+“Thank you for your advice,” Ling Qi said. She took one of the little bowls and took a moment to try a piece of the meat. It had a strange texture unlike anything she’d had before, but it was very tender. She eyed the other platter indicated, stacked with what she now supposed were more “prawn” already stripped of their heads and shells and battered. She tentatively took two of those as well.
+
+“So, if I may ask, what do you already know of the enemies here?” Ling Qi ventured politely.
+
+“The nomads have begun coalitioning again. A concern, certainly,” Xia Anxi said. “The Bai do have some minor dealings with such barbarians, but that is more my companion’s field.”
+
+“I do not have experience in the south, nor did my father or mother,” Lao Keung said shortly. “The Asp’s rangers deal with such strays.”
+
+Asps… Those were the green, Ling Qi recalled. A memory surfaced of horrified golden eyes freezing over.
+
+“Ah, yes, I suppose it would be. Forgive my ignorance,” Xia Anxi said. “I have studied what texts we have on the nomads. I am certain our hosts will provide us with more.”
+
+Lao Keung grunted an agreement, twisting the head from another prawn with the faintest crunch. “But there is a more dangerous foe, isn’t there?”
+
+“More dangerous in that our knowledge of them is lacking,” Ling Qi corrected. “It is best not to underestimate the nomads in the center of their power.”
+
+“It is true that a cornered rat fights the most fiercely,” Xia Anxi said. “I imagine the fact that they are so hard to corner must make them that much more vicious when you do.”
+
+“Just so,” Ling Qi said. “But as you’ve said, there are many sources for knowledge on the nomads. Experience with these newer enemies is harder to find.”
+
+“Ah, but it is known that you are among those with such knowledge, is it not, Baroness?” Xia Anxi riposted with a smile, resting his hands on his chin.
+
+Lao Keung merely watched her silently.
+
+“It is true,” Ling Qi said, not humbly but with firm confidence. “I discovered and helped eliminate one of their assassins the day that Elder Zhou passed, and I was among the party which scouted their home ground.”
+
+“Significant accomplishments from what I have heard. How do they fight?” Lao Keung asked.
+
+Ling Qi bought herself a moment by sampling another piece of the abalone. How should she go about describing it?
+
+<Set the narrative you want to tell, and fit your description to support it,> Sixiang murmured.
+
+“Flexibly,” Ling Qi said slowly, allowing Sixiang to help her guide her words and expressions. “They fight flexibly. The assassin I faced first was my equal or better in the arts of stealth. It was only through certain brash action that I was able to leave them open to my fellow disciple’s crippling blow. Some might have called it reckless even, but against such tactical superiority…”
+
+“Victory often comes to the brash,’ Lao Keung agreed.
+
+“Only with much waste,” Xia Anxi noted idly.
+
+“A good general must spend her resources like tokens of rare jade, but spend them, she must,” Lao Keung replied back with a coolness in his expression.
+
+“That explains the budgets of Zhenjian, I suppose,” Xia Anxi jabbed back. “But Baroness, continue. Why then do you describe them as flexible? it sounds as if the foe you faced was anything but, outside of the physical sense.”
+
+“Because such assassins are only one tool in their arsenal,” Ling Qi explained. “From speaking to others who fought and my own experiences under the earth, they are a very adjustable foe. Sometimes, they come with great hordes of beasts guided by a few masters who grow powerful from the deaths around them. At other times, they form disciplined ranks and make use of assassins or powerful cultivators of spiritual pain. I have seen them raise a legion of flying mounts, and I have seen one of their officers track us even in the realm of dream.”
+
+“You make them sound like imperial armies,” Xia Anxi said mildly.
+
+“That isn’t a bad comparison,” Ling Qi agreed. “In kind, if not in quality. That is my point. They are a foe with well varied tactics and tricks, unlike many barbarians.”
+
+“Interesting,” Lao Keung said, looking at her now. “What would you say is their greatest disadvantage then?”
+
+Ling Qi pondered that for a moment. “I would say their inability to operate freely on the surface, but we have that disadvantage as well in their home ground.”
+
+“Yes, rather a wash, isn’t it?” Xia Anxi hummed, drinking from a cup of some kind of clear wine. “I imagine that is why your Duchess chose subjugation. It really wouldn’t be worth the trouble to go further, would it?”
+
+Ling Qi nodded absently. “It’s their organization, I think. I wasn’t able to discern a central leader. I suspect they might not even have one. That will weaken and slow their responses. More than that though, it’s their lack of unity.”
+
+“You did not make that sound like a problem when describing their military,” Lao Keung said curiously.
+
+“I don’t refer to that level. They are, according to Her Grace, a collection of city states. Can a city, or even a few cities, really stand against a province in the long term?” Ling Qi asked rhetorically. “Strength and bravery are important, but I have learned how important resources are.
+
+It was the weight of resources that allowed her to keep up her own cultivation. It was access to endless libraries and resources which put those like Meizhen permanently ahead of her, although such things could only supplement talent.
+
+But if her liege or Meizhen or even Sun Liling had dealt with her situation, would they truly be so far ahead?
+
+“If that is the position of the Cai, I understand why Lady Suzhen chose to ally with your Duchess,” Xia Anxi said.
+
+Lao Keung looked disgruntled for a moment, but it passed as swiftly as an eyeblink. “It is not a bad base on which to build your thinking. Don’t underestimate a foe just because their resources are poor.”
+
+“That was not my intent. These barbarians are still quite dangerous,” Ling Qi replied.
+
+Her chosen main course was gone, and so she was left with these prawn. It seemed weird to her to eat with her hands at a formal dinner, but glances around the table had shown her this seemed appropriate for a few of the dishes. Hiding her disquiet, Ling Qi bit into one and blinked at the savory taste of the meat under the spiced batter.
+
+“You think that they will threaten the diplomatic forces directly?” Lao Keung asked.
+
+Ling Qi took a moment to finish chewing and took a small drink from the cup a servant had poured for her, chilling the watered wine as she took a hold of it. “I think that even a barbarian would understand the threat of an enemy gaining more allies.”
+
+“True,” Lao Keung said, a smile briefly tugging at his lips. “Too often, we forget that our enemies do not want to die.”
+
+“If you are acting properly, their opinion on the matter should be moot, no?” Xia Anxi drawled, but she could tell his attention was wandering back toward the ambassador and her liege.
+
+“As if reality is ever so easy,” Lao Keung scoffed.
+
+“I generally agree,” Ling Qi said carefully. “As one of my elders has said, the world is not a go board. There are no players. Every piece moves itself.”
+
+Xia Anxi nodded noncommittally.
+
+Loa Keung gave an approving grunt. “I would like to hear a bit more, Baroness. Would you give some details of your journey under the earth?”
+
+She did so, not embellishing the tale by too much. She did leave out her observations of the shishigui’s river settlement though. She still wasn’t certain of how she felt about that.
+
+The brief meal was soon winding down. Servants took away the food that remained, and there was quite a lot of it. That bothered her just a little in the corner of her mind. The girl who had lived on scraps and leavings abhorred such waste.
+
+<I think the servants get the leftovers,> Sixiang analyzed. <Least that’s what I get from skimming. Doubt anyone would be that pleased with tossing good food.>
+
+Ling Qi hadn’t thought of that, but it made sense. The Bai were not kind by any measure, but deliberate wastefulness was not one of their vices. She let that idle thought drift away as she turned back to her liege and the Bai ambassador. They would be accompanying them to their box to view the preliminaries.

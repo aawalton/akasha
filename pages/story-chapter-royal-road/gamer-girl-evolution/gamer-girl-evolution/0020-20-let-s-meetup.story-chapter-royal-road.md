@@ -1,0 +1,163 @@
+---
+id: fab9c241-76b3-5298-a8f2-383a0e968284
+page-type-slug: story-chapter-royal-road
+title: "20 - Let's Meetup"
+slug: 0020-20-let-s-meetup
+partOf: gamer-girl-evolution
+position: 20
+ownLength: 1770
+unit: words
+ownProgress: 1770
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2699467/20-lets-meetup"
+royalRoadId: "2699467"
+markedReadAt: "2026-06-29T20:06:13.585Z"
+---
+
+The trio—Kellen, Rhys, and Talia—looked on in silence, staring at the mysterious player who had single-handedly brought down the freakish mutant. Snapped Sword stood over the fallen Cyclops, casually holding the broken blade by his side.
+
+Kellen, still wide-eyed from the battle, took an instinctive step backward, his voice shaky. "What the hell just happened...?"
+
+Talia stood frozen, clearly impressed, though her brows knitted in confusion. Rhys looked equally stunned.
+
+Suddenly, Talia broke the silence. "Uhm, Mr. Snapped Sword... thank you for saving us." She smiled and tried to appear as grateful as possible.
+
+Rhys nodded in agreement too. Kellen, still stunned, just looked at the monster's corpse blankly.
+
+Snapped Sword said nothing. Instead, he just nodded nonchalantly.
+
+Celica, on the other hand, was nervous. So much so that her heart was pounding in her chest like a drum. She couldn’t afford to speak, not now. Her voice could betray her identity, and she couldn’t risk that.
+
+At least, not yet.
+
+Talia, who had perhaps let her curiosity get the better of her, asked in a quiet voice. “How did you get so good? You cleared that thing like it was nothing.” She hesitated, as though considering something before adding, “We've been trying our best but, we're nowhere near as good as you. Did we miss something? Like some trick or—?”
+
+Snapped Sword’s expression faltered for a long half second. A strange feeling passed through Celica—guilt, maybe? But she quickly masked it, shrugging in response and choosing not to offer any explanation.
+
+Kellen, clearly overwhelmed, was still looking at the Cyclops. Celica took note of his strange expression, and suddenly, an internal conflict surged within her.
+
+Part of her wanted to speak, to let Kellen and the others know it was her. But the other part—the part that was far more cautious—understood that revealing her identity could jeopardize everything. It wasn’t the right time yet.
+
+Snapped Sword turned away before they could ask any more questions. He began to walk back into the mist, his figure merging into the fog.
+
+Kellen watched his retreating form, his mouth still open and his eyes wide with disbelief. Rhys chuckled softly, shaking his head. "Didn't you say you'd add him if you could?"
+
+Kellen froze, blinking rapidly, then his eyes widened in horror. "Damn it, I forgot!" he exclaimed, his voice tinged with frustration. "Why didn’t you remind me? Do you think I can still catch up to him if I start running?"
+
+Talia and Rhys exchanged glances.
+
+"With his movement speed?" Rhys raised an eyebrow.
+
+"You’re on your own with that one, he doesn't seem to be the talkative type either," Talia said with a smirk.
+
+Kellen grumbled, throwing his hands up in the air. "I can’t believe I missed my chance." He sighed, the excitement of the moment now tempered with regret. But soon enough the regret changed to determination, his heart set ablaze. "When we meet again, I'll be a much better player... I'll make him acknowledge me." Kellen looked at his two friends who he'd grown up with. "I've got a new goal now."
+
+"Oh?" Talia said softly.
+
+"Here we go again." Rhys said as he scratched his back.
+
+"I want to be a player who can fight alongside Snapped Sword." Kellen said resolutely.
+
+"You've given up your title as Snapped Sword's biggest fan? He's your rival now?" Talia said, her eyes widening.
+
+Kellen raised a hand to his cheek and caressed it gently, his face slightly red. "Ahem, well I... can't quite stop being a fan. Not until I've gotten his autograph or a signed weapon, y'know."
+
+Rhys and Talia both facepalmed their next word said in sync. "Typical."
+
+Meanwhile, in a place far from the earlier battle, Celica breathed a huge sigh. She had been so careful with her silence earlier, but now, in the solitude of the marsh, she felt safe. With a faint, curious smirk, she opened her mouth and let her voice ring out.
+
+The sound that emerged was deep and rough. Undoubtedly, it was a man's voice. She stared at the ground in shock. So my concerns earlier, had been for nothing... she gave a wry smile. Still, she was happy to discover that the disguise changed her voice too.
+
+When she was sure there were no players nearby, Celica quickly tapped into her inventory.
+
+[You have unequipped The Phantom's Mask.] [You have unequipped The Phantom's Blade.]
+
+The notifications popped up in front of her, and she felt an odd sense of relief wash over her. Without the disguise, her avatar had reverted back to her familiar blonde self. For a moment, she just stood there, breathing in the familiar feeling of being herself again.
+
+She had no intention of keeping the mask on for long. Her job was done—Kellen, Rhys, and Talia were safe for now. She would’ve liked to have spent more time with them, and Milia had asked her to keep an eye on them, but honestly, she was sure they’d be fine.
+
+There was nothing on this floor that could threaten them, not after the Cyclops was dealt with. Still, a small voice nagged at her. Milia's voice probably. She decided it was for the best to shoot them a message tomorrow, just to check in on their progress with the main quest.
+
+Although she was definitely nervous, in truth, Celica secretly really enjoyed the whole interaction. The thrill behind the unique persona and the joy of seeing their expressions of sheer amazement was unmatched.
+
+Perhaps once she'd minmaxed everything she could on this floor, she'd put on the mask again. Maybe she'd go around helping random players in her cool outfit. Or maybe she'd do a little bit of trolling again.
+
+That was something she'd decide some other time, for now she had her sights set on a different goal.
+
+Level 30.
+
+She was already level 27 so she wasn't far off and using the knowledge from her regression, she knew 30 was the level cap on this floor. The sooner she hit it, the sooner she could work on other things, like her forging proficiency and coin grinding.
+
+The War Ogres were the perfect enemies for her needs. These brutish creatures ranged from levels 26 to 30. Their spawn rates were low, and they appeared only in select spots around the swampy landscape. Fortunately, Celica knew exactly where to consistently find them.
+
+The swamp didn’t slow her down at all; she was in her element, especially now that she was in high spirits after that showdown with the Cyclops.
+
+[War Ogre – Lv. 28]
+
+[War Ogre – Lv. 29]
+
+[War Ogre – Lv. 26]
+
+With each encounter, Celica moved with calculated precision, exploiting the War Ogres’ slow movements. Her thrusts were sharp, her slashes swift, and her parries flawless. She seamlessly animation-cancelled, stringing together attacks faster than the poor ogres could react.
+
+[+260 EXP]
+
+[+315 EXP]
+
+[+230 EXP]
+
+Their heavy clubs swung through the air, but Celica was always one step ahead, dodging or parrying at just the right moment. Every kill was methodical, efficient, and with no wasted movement.
+
+As the minutes passed and the enemies piled up, Celica could feel the familiar rush of gaining experience.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[STATUS]   Celica Travine Crystalis  <Champion of the Marsh>  Level 30 Human (Supporter)  EXP: 3% towards the next level STR: 102 | AGI: 53 | VIT: 5  DEX: 5 | END: 5
+
+She stared at the screen, a sense of dissatisfaction creeping in. She hadn't hit the level cap even though she was level 30. But how?
+
+Just then, her mind flickered back to the strange icon she had seen earlier. The icon which wasn't originally there. She took a deep breath before sighing. They must've added more content to floor 2... these devs can't ever stick to the script, can they?
+
+Her instinct screamed at her to investigate, to see what was hidden within the mysterious outpost. And yet, as much as the adventurer inside her itched to explore the new area, another thought tugged at her—Ingrid.
+
+She couldn’t put off helping her forever. If she delayed there was no telling how much trouble her carer could run into. Moreover, Celica feared that the new area could present challenges, namely traps designed to keep her in a region until she completed something.
+
+That sort of scenario was common with unique storylines and she didn’t want to risk getting stuck in a situation where she couldn’t help Ingrid.
+
+I’ll help Ingrid first, Celica resolved. She’s the priority. I need to make sure she’s safe before I dive into the new content. The outpost can wait.
+
+Though her heart still yearned to see what was in the outpost, Celica knew she'd made the right decision. She couldn't ignore Ingrid’s progress—or her lack of it. There would be plenty of time to explore later, after all.
+
+Celica’s fingers hovered over the user interface as she opened up her friends list. The moment her eyes landed on Ingrid’s name, a small smile tugged at her lips. Ingrid had added her back.
+
+With a few quick taps, she sent a message to Ingrid:
+
+[Celica]: "Hey! Let’s meet up in Marshia. I’ll be waiting at the Clover Bridge."
+
+She paused, letting the message sit for a moment before sending it. The response came quickly, the notification popping up on her screen.
+
+[Ingrid]: "Clover Bridge? Where is that exactly? I don't think I've unlocked it yet."
+
+Celica chuckled softly. Unlocked? It’s always like this with new players... She quickly typed her reply, trying to keep it simple:
+
+[Celica]: "Don’t worry. It’s the big bridge right in the centre of Marshia. You can’t miss it! And if you do somehow miss it, let your map do all the work."
+
+After a brief delay, the next message came in.
+
+[Ingrid]: "There's a map? Wait... there is. I’ll be there in a few minutes!"
+
+[Celica]: "I'll be there in five."
+
+Celica put the interface down, and raced towards Marshia. A few minutes passed before she arrived at the Clover Bridge. Just then, Ingrid appeared, walking toward her with a wide smile on her face.
+
+Celica’s heart tightened, and she couldn’t help but smile back. For some reason, as they came within a few feet of each other, both of them stopped at the same time. Without exchanging a word, they both stepped forward and hugged each other.
+
+It was a brief, wordless embrace that somehow spoke a thousand words.
+
+Just as the embrace ended, the system’s notifications chimed, pulling their attention away from the warmth of the moment.
+
+[Ingrid has joined your party.]

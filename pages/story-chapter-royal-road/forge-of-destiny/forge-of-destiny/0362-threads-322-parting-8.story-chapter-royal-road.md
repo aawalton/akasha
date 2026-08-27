@@ -1,0 +1,127 @@
+---
+id: 07f39c72-a0f0-54a1-b84a-ec9e2c86dff8
+page-type-slug: story-chapter-royal-road
+title: "Threads 322 Parting 8"
+slug: 0362-threads-322-parting-8
+partOf: forge-of-destiny
+position: 362
+ownLength: 1949
+unit: words
+publishedAt: 2023-07-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1283895/threads-322-parting-8"
+royalRoadId: "1283895"
+---
+
+Back in the Outer Sect, Elder Jiao had implied through Xin that he was considering her for apprenticeship in the Inner Sect. In the end, she had chosen to follow Cai Renxiang. She didn’t regret that choice, but she wished it were possible to grasp both opportunities.
+
+As if sensing her thoughts, Elder Jiao snorted. “You’ve gotten yourself into exactly what I warned you of. Between that woman and these foreigners, you’ve filled your plate to overflowing. And that’s leaving aside your lady’s domestic ambition.”
+
+Ling Qi pursed her lips, searching his expression. She knew that he had once been the Minister of Integrity, a leader and founder of that organization, and the eyes and black hand of the previous emperor. How much did the elder know of the duchess? Of what had passed between Cai Renxiang and her mother?
+
+In truth, sometimes, when she was alone meditating on the future, she wanted to scream at the thought of the mountain she had set herself to climb.
+
+Elder Jiao tapped the bowl of his pipe against his palm, glancing at his wife, who raised an eyebrow at him. “You are plotting,” he accused, jabbing his pipe at Xin.
+
+“Ah, to be accused by my lord husband so cruelly.” Xin sighed, resting her cheek on her hand. “I could weep.”
+
+Ling Qi shivered. The press of their wills as they clashed, the two seventh realm’s eyes meeting over her head, was nearly as bad as being back in the court of Xiangmen.
+
+“I already said it. You were right.” Ling Qi repeated, “You were right, but I don’t regret it, following Renxiang, diving into these politics, because no one else would do it right!”
+
+A hint of the frustration that had been building in her over these last months escaped. Even those most aligned with them were condescending at best. What would have happened if she had left the matter of her meeting with Emissary Jaromilla at the caldera battle to the sect to report? What would have happened if she and Renxiang had simply gone on to the intersect tournament and left this whole horrifyingly complex endeavor to, at best, a well-meaning courtier, and at worst, an outright disinterested bureaucrat?
+
+And this was only the first hurdle to seeing that this beautiful mess of a province, her home, didn’t fall in when the lynchpin at its center cracked.
+
+Elder Jiao’s expression went flat. “Too clever girl, are you really trying to manipulate me?”
+
+He looked like a mannequin. His eyes were blank and dead and glassy. The eyes in the dark were not though. They glared down at her.
+
+Xin scoffed. “You know she’s not, Jiao. As if you can’t read a child’s intentions clearly. Honestly, husband, all humor aside, I am disappointed in you.”
+
+“I know we are not the same,” Ling Qi insisted. “I only have the barest knowledge of what you have done and who you are. I know that even with what little I can…” Her senses wavered.
+
+A knife. A knife that was a man. Cruel Virtue, the blade to carve out the rot that the body might live and breathe healthily again. But each cut revealed a new tumor. The sickness ran so deep, deeper than the foundations themselves. Rot. Rot. RotrotrotrotrotrotROTROTROTROT-
+
+“Feh. What obnoxious eyes you are cultivating. Have you been training her in secret, Xin?”
+
+The awful, crushing despair that Ling Qi felt passed as swiftly as it had come. The flash of vision had been even briefer than the others, but where Xia Ren had left her unsettled and Elder Ying had left her sad, now, she just felt nauseous and drawn, like the victims of the red fever when it had swept through Tonghou. She felt as if her body was tied down with immense weights. Her head pounded, and even her qi felt sluggish and dull.
+
+“Of course not.”
+
+“Hmph, no, this wouldn’t be you. Too unpolished. An undefined domain feature.”
+
+Ling Qi’s vision swam and returned.
+
+Elder Jiao regarded her. His body seemed animate again, the shadows less dark. “You know I was listening, girl. Here is another answer for you. Power is delusion. It is what men fool themselves into believing they have, that they may move the world. The true secret? They can’t. Peasant, lord, and emperor alike, mortal or immortal ascended, all their efforts are worthless. Nothing fundamental changes anymore, not since the end of the age of myths when the great laws were set. The pieces get shuffled around, and the names change, but humans are humans, and the world is the world. It always comes back to the same pattern, the formulation set by cultivation itself.”
+
+He sounded bitter. Incredibly bitter.
+
+Xin sighed.
+
+Ling Qi stared. “We are definitely different.”
+
+“Why? Because you will succeed?” Elder Jiao asked sardonically.
+
+“No. Because I never believed I could change the world in the first place.”
+
+He furrowed his brow.
+
+“Lady Renxiang… I thought she was a fool at the start. I thought her statements were the empty posturing of a noble who didn’t understand anything. I was only partially right. She’s not naive. She won’t look away from inconvenient truths. Neither of us truly understood people back then. I was too low, and she was too high.”
+
+“Yes. Shockingly, a pair of teenagers were not fully versed in human nature.”
+
+Xin flicked Elder Jiao across the temple, and he growled, batting her hand away. She gave him an unimpressed look.
+
+“That’s right.” Ling Qi shrugged. “But I also don’t think human nature can be understood. You don’t understand it either because no one does. Renxiang can be stupid sometimes, stubborn beyond all reason. I call her on it. And she reminds me that unthinking cynicism is just as empty and thoughtless as unthinking optimism. I’m not her shadow or her knife or her voice. I’m just her friend.”
+
+“How wonderful for you. Do you have a point somewhere in this whole ramble?”
+
+“You said power was a delusion, that nothing fundamental changed no matter what anyone does. And I saw a little of yourself before you cut me off. How many of your own eyes have you put out, Elder?”
+
+His jaw worked, and she glanced nervously at Xin, who smiled reassuringly at her.
+
+“I think imagining that one or two people can change the shape of the world is… That is a delusion. Not even the duchess did that or any one emperor.” Ling Qi said hastily, “Uh, except maybe the Sage Emperor.”
+
+Elder Jiao let out a bark of laughter.
+
+“But I don’t think the details you mentioned are irrelevant.”
+
+She felt an echo in her meridians, stirring and whispering in her thoughts.
+
+“It isn’t the pebbles nor the boulders that change the mountainside, but the motion which unites them.”
+
+She rubbed her jaw after she spoke. It itched. These words didn’t quite feel like her words.
+
+“Trite. Hmph, you’ve been toying with dangerous mentors. How many thoughts not your own are swimming around up there?”
+
+Ling Qi considered. She could feel the foreign thread of thought, but she didn’t disagree with it. “Expedited lessons. Teachers put thoughts in their students' heads all the time, no? It is up to us to accept or reject them.”
+
+He snorted. “Too clever indeed. Xin.”
+
+“It’s not malevolent,” Xin answered. “But you and I know well what good intentions mean.”
+
+Elder Jiao scoffed. “So I was delusional because I aimed for something too high and impossible? You are not because your goals are more meager? That is your takeaway, girl?”
+
+“Those are your words. I haven’t studied the past of the Celestial Peaks enough to know what you’ve accomplished. But I do know that Emperor An, the man you served, founded the Great Sect system, and I also know that your ministry was the one who found me in the streets and brought me here. Even if you think it’s irrelevant, too small to matter, that is one life you have changed. But that is our difference, I think. I can’t accept that only the largest and most sweeping changes matter.”
+
+The elders, the general, Bleak Sky’s Yearning, and the many spirits of her fief and the things in the depths of dream were all similar. For them, a moment of unveiled attention or carelessness or simple apathy could crumble the weaker souls around them. It was becoming easier for her to treat with powers currently beyond her. People and spirits were both difficult, and both had to be spoken to in a certain way, if she wanted them to hear her.
+
+“Ancestors save me from naive children.” The words were tired without the sarcastic bite in his earlier statements. “The sect system was made to distribute nodes of imperial influence throughout the provinces and undermine the ducal clans. The business with wild talents was an afterthought. I only suggested it because of how overworked the ministry was in stamping out a million, million fires, from high talent cultivators emerging from nothing and wreaking havoc. How infuriated my clan was when I brought our most advanced and deeply hidden astrological divination arts of the Sima into public use for mere rabble and distributed them in such numbers that no number of petty assassins could drag the knowledge back into shadow. Heh. As if I hadn’t earned their undying hate a hundred times over by then.”
+
+It was definitely strange to hear the bald, unvarnished truth spoken by one of the originators of the system. It also shook her a little, the contempt she could feel bleeding into the name of his clan. It disturbed her in the same way Cai Renxiang’s thoughts on family disturbed her. How could one betray their family?
+
+Well, maybe that was the wrong thought. How did one come to see something so abstract as a province, an empire, or the future as their kin?
+
+“Results matter far more than intentions,” Xin offered. “We planned this path. We charted it. We calculated it. The results were not our expectations. But they stand before us all the same. Let me speak again, Ling Qi. Power lies in the interaction of forces. Power is what moves objects and people and ideas. It is the motivating force of life that humans crave and burn themselves in again and again and again. Observing you all has never ceased to please me, even as I have changed and become something less and more than I was. It is wrong to say that I have no regrets, but—”
+
+Elder Jiao thrust himself up to his feet. “Bah. Enough of this. Honestly, Xin, there is no need for this kind of mush-mouthed philosophizing. Neither of us are yet so old.”
+
+His sleeping robe rippled, and layers of eye-searing pinks and yellows spun themselves out of shadow and nothing, forming a robe that was a formal minister’s garb, twisted by hideous color.
+
+“Ah, I see. So we are not old? It is not too late for you to give me a child then, husband.” Xin laughed, reappearing at his side, arm threaded through his. “I shall not let you dodge your responsibilities forever.”
+
+Elder Jiao pointedly ignored her and looked at Ling Qi. “Come along, girl. I’ll not have you hanging about in my inner workshop. You’ll break something, I’m sure.”
+
+“Thank you, Elder Jiao.” Ling Qi wasn’t quite certain how helpful she had been to whatever it was Xin was up to, but she was happy to have helped an old mentor. “Where are we going?”
+
+“Somewhere to sit and get comfortable. Talking a young fool through the pit of serpents they’ve jumped into will take some time.”

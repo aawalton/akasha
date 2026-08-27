@@ -1,0 +1,145 @@
+---
+id: 30d108bb-f033-5e08-b6e8-9fe548908279
+page-type-slug: story-chapter-royal-road
+title: "Threads 265 Perceptions 2"
+slug: 0303-threads-265-perceptions-2
+partOf: forge-of-destiny
+position: 303
+ownLength: 1727
+unit: words
+publishedAt: 2022-11-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1051184/threads-265-perceptions-2"
+royalRoadId: "1051184"
+---
+
+Eye of Grudges. An art? A technique? Ling Qi wasn’t sure, but it sounded ominous. Nonetheless, she was confident that she could make any lessons her own.
+
+“It’s been some time since I’ve had a chance to cultivate the eyes I was born with,” Ling Qi said, referring to her early words. “If the elder has lessons to teach on eyes and ears, I would like to hear them.”
+
+“A good choice for you,” Shu Yue said thoughtfully. “It is ever the curse of those who align with yin energies to instinctively become reactive, and despite showing impulse in the field, you suffer this in your social life. Other people are still ciphers to you, are they not, child of the streets?”
+
+“I am not ignorant of etiquette and grace,” Ling Qi said defensively.
+
+“You are not. But you do not peer behind the face. Most you meet are still the phantoms in your mist, insubstantial and fleeting. Even those who truly exist in your mind, you do not quite understand their drives, do you? Hence, your misstep with the young miss, or further back, the escalation of the conflict with the disciple Yan Renshu. Their thinking is opaque to you, who has not had the luxury of grudges.”
+
+Ling Qi swallowed her retort. “I suppose.”
+
+“That will be the lesson. Humans are petty creatures. We are dolls constructed from pride and grudges and fears. Understand those, and you will be one step closer to peering into the cipher behind another being’s eyes. That is the first step of glimpsing worlds not your own.”
+
+“There’s more to people than that,” Sixiang interjected, breaking their silence. “I’m not gonna let you make her go back to thinking like that.”
+
+Shu Yue gave another one of those rasping wheezes, laughter from a throat not built for any such thing. “If she comes to see the world as I do, the lesson has failed. I may only teach how to look, not how to see.”
+
+“I will take wisdom where I see it,” Ling Qi placated. “Elder, is there anything else?”
+
+“What were you contemplating here in this place of dryness and preservation?” Shu Yue asked curiously, tracing a lengthy finger along a shelf of fungus growing from the faintly damp wall. It glittered with salt crystals.
+
+She knew the cultivator wasn’t referring to her letters. “Do you know of the play, Last March of the Beast Kings?”
+
+“Ah, that art. You still find it suitable?”
+
+“It is good practice, even if I will need to make it my own. I have begun to contemplate the second half, the ode of the Great Tree. It’s…”
+
+“Where the dirge begins with the march to war, the ode begins in their deaths,” Shu Yue said. “Alone, for kings and gods cannot have equals, nor friends.”
+
+“And so they are broken one by one upon the roots of Xiangmen.”
+
+Shu Yue’s eyes drifted shut, and they seemed contemplative. “Aesthetics, faces, shapes, these things are easy to change. It seems you understand.”
+
+“I’ve started to.”
+
+“Then let me leave you to it. I shall enjoy arranging lessons, I think,” they mused.
+
+And then Shu Yue was gone.
+
+“One after another. You really like your spooky teachers, don’t you?” Sixiang observed.
+
+“Says the one who is going to lead me into the heart of nightmare soon,” Ling Qi retorted, reaching up to wipe a bead of sweat from her brow.
+
+Sixiang grimaced. “Ling Qi…”
+
+“Not a complaint. I don’t have the option of taking it easy.”
+
+“You do,” Sixiang insisted.
+
+Ling Qi thought of what she had seen of the world. She thought of Cai Shenhua and Xia Ren and the sect elders and all that had come before. She thought of a terrible hunter and a little rat whose first thought was to save her own skin.
+
+“Even if the option is there, I don’t want it,” Ling Qi said firmly. “How many more letters?”
+
+“Nah, that was the last one.” Sixiang shrugged. “Probably why tall and spooky decided to arrive then. Which means…”
+
+“Back to preparing for the party,” Ling Qi said.
+
+Sixiang drifted away from her to lounge on empty air. “You usually sigh a bit when you say that.”
+
+“Well, it’s not like I want to leave Wang Chao out to dry. He’s not bad when he isn’t choking on his own foot. I want to make sure he can hold the group together when I leave.”
+
+“Gonna ask some of Gan’s folk for support?”
+
+“Making our support clear and material helps Wang Chao’s position. And it will be good for them too. Without Gan Guangli there, they’ll have less support in the Inner Sect,” Ling Qi replied. “What’s worrying is…”
+
+“The other bigwigs,” Sixiang finished for her.
+
+“Meizhen will be fine. She’s just paying a visit once after all, which will give Wang Chao face. I’ll probably ask him to take care of Xiao Fen’s commoner friend too, which keeps that relationship active and tied in. Luo Zhong though…” Ling Qi frowned. Well, she had her ideas for him. Shu Yue was right that she could do with being more proactive socially. “And really, he’s just one example. I’m sure there will be many others looking to drive wedges into the group or make the Wang lose face.”
+
+“So we want to set up to leave with a bang. What kind of main event did you have in mind? I know you want to do a performance based around your art, but what about the rest?” Sixiang asked. “Whatever you go with is probably gonna characterize how Wang Chao does big shindigs in the future.”
+
+Ling Qi cupped her chin, thinking hard.
+
+***
+
+They came, and they gathered, families, tribes, and nations too. They came, and they gathered, fleeing, marching, and skulking too. There was war in the sky, war in the earth, and war in the glen. So they gathered all ‘mongst the mountainous roots of the Heavenly Pillar.
+
+Ling Qi hummed a bar absently as she glanced out over her—Wang Chao and her—party. It was quite a spectacle. Some tiny trickle of her auction funds had gone toward this, along with Wang Chao’s heightened allowance, and it showed. Vibrant and colorful waist-high hedges divided the rented field into smaller irregular sections and corridors, and four great “trees” marked the corners and boundaries of the grounds with colorful streamers strung between them fluttering in the breeze overhead.
+
+Her little brother sat in the center circle in a ring of flowers. Gui chatted excitedly with a gaggle of disciples and smaller spirit beasts.
+
+And he was not the only one talking. Among the many tables heavy with food and drink, the benches, and the contest grounds, spirit beasts wandered and gathered among the human attendees. So dense was the qi in the air from the gathered cultivation that points of light had begun to sparkle and dance in the air, the nascent forms of gestating fairies.
+
+“We’ve outdone ourselves on this one!” Wang Chao laughed. He stood beside her in the entryway of the field wearing an earthy red sleeveless vest stitched in an older style with intricately shaped and etched steel bracers depicting snarling mountain lions. For once, he’d even tamed his hair a bit, and even Ling Qi had to admit that his beard seemed to be losing its spottiness.
+
+Was it simply advancing time, or because his confidence and bluster had deepened into something more genuine?
+
+“We have. Thank you for your assistance with the hedges and in acquiring the drinks,” Ling Qi complimented, raising her cup. Flanking them at the entryway were two tables, and each held a large barrel and numerous, if dwindling, cups. A pair of red realm servers hired from the sect town stood ready to pour the greeting drinks for guests.
+
+“Haha, it was nothing! Nothing! Getting a few barrels of this year's harvest sent my way was easy,” he boasted. “And it’s not like that glutton of mine needs an excuse to eat anything you put in front of him.”
+
+Filling the barrels was a hard cider made in the Wang family's direct holdings. It was intoxicating to mortals, but certainly not to cultivators.
+
+Ling Qi chuckled. “Getting your spirit to stop at nibbling the hedges into shape was a bit of trouble, but I think Zhengui had fun with it.”
+
+“Ah, don’t let the grump fool you. They both did.”
+
+Ling Qi took a deep breath. “And thank you for agreeing with the rest of the plans.”
+
+“Eh?” Wang Chao squinted at her. “Ah, all that business with our presentation.”
+
+The conversation paused as they welcomed a few more guests.
+
+“You know I’ve never been too invested in that kind of business. Too twisty for me,” he said as the new batch passed into the field behind them. “People should be more straightforward.”
+
+“If everyone was as straightforward as you, the fighting would never stop,” Ling Qi jested.
+
+Wang Chao let out a hearty laugh. “Maybe! All the same, Lady Cai’s doing good work, and you’re a friend. If throwing a gathering that’s a little wilder now and then helps, why not?”
+
+“You’ll pick up some of our enemies,” Ling Qi warned.
+
+“Bah!” He swiped his hand through the air dismissively. “I am Wang Chao, scion of the Builder, the hammer which breaks open the future's gate! Pests in the way of progress need to be swept aside.”
+
+Ling Qi allowed herself a laugh, covering her mouth with her sleeve. “You make it so simple.”
+
+“Everyone else makes it complicated,” he laughed, crossing his arms over his chest.
+
+<You gotta admire the conviction at least,> Sixiang whispered.
+
+She did. Ling Qi closed her eyes for a moment. “I think your sister hoped we might be courting.”
+
+It still felt a little stiff and awkward to even joke about it, but somehow, it was less than it used to be. She was head of her own clan, beholden only to Cai Renxiang. She was as free as one could be in such matters.
+
+“Gah! Meddlesome woman,” Wang Chao grumbled. “A terrible idea. You would be an exhausting wife.”
+
+“And you, an exhausting husband, “ Ling Qi said dryly.
+
+“A terrible idea all around! Much better to be friends, eh, Lady Ling?”
+
+“Agreed.” She smiled and tapped her clay cup against his.

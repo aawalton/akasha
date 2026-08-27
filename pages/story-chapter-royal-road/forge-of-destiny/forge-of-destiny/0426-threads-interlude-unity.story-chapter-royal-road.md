@@ -1,0 +1,123 @@
+---
+id: 78f4d1ef-914a-5437-8dc4-af0774bfd67a
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude:  Unity"
+slug: 0426-threads-interlude-unity
+partOf: forge-of-destiny
+position: 426
+ownLength: 2473
+unit: words
+publishedAt: 2024-06-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1675853/threads-interlude-unity"
+royalRoadId: "1675853"
+---
+
+Their first duty was the coordination of the evacuation orders to keep panic down and movements organized even as the sky began to warp and the hairline fractures in it grew and grew, lingering longer before they were sealed. Steam and fire drifted from the fissures.
+
+At the head of the clans’ forces, Cai Renxiang led her people to the prepared shelters, dug in and warded under the earth. Scouts from the various clans’ forces raced across the valley, seeking out scattered lives where they could. Servants, workers, and crafters gathered and marched in columns to the shelters.
+
+Cai Renxiang felt the energies tapped into by the imperial Geomancers in their construction of the embassy roiling under her feet. Wang Lian's consciousness thrummed under the earth, a thin skein over its meridians, guiding power into the defenses of the shelters. With each one filled, formations flared to life, locking and sealing the shelter and empowering defenses far past normal tolerances.
+
+The sky began to bleed. First, there was a trickling rain of stinking black mud and brackish superheated water. Then, thin torrents fell from the sky.
+
+Through the breaking sky, a pack of hounds raced, two giant hounds at their head. Where they ran, where they howled, the sky rippled, and cool silver flames sealed shut the cracks in the world. They met the gouts of searing hot flames that erupted and kept them from scorching the valley below.
+
+All the same, more and more cracks appeared. Torrents became waterfalls, and more than mud and ichor began to pour through. Scab-like cysts of dried mud crashed to earth, bursting open, revealing a flood of wriggling nightmares, and more and more nightmares erupted directly from the cracks in the sky. Their buzzing cry was a song of torpor and despair.
+
+Dozens of them died squealing in the jaws of the great Luo hounds, but still more crashed to earth and writhed about, seeking destruction. They grasped after any sign of life, drinking the vitality from trees and plants, leaving behind withered husks before battering themselves into her soldiers with suicidal abandon.
+
+It was the scent of battle that she disliked the most. The scent of blood and ichor and fouler things still was nothing but repulsive muck, dogging at her thoughts and distracting other senses. In contrast, the sights and sounds, however superficially chaotic, still painted for her a picture of order. Steps in unison showed an advance. Shields locking and clashing with the charge of a slavering horde of nightmares showed a successful defense.
+
+It was objectively incorrect to feel that way of course, and any Luo would tell her that. Scent was simply another information stream for categorizing the world properly, one she lacked the training to filter for useful data.
+
+She disliked it regardless.
+
+At the road in the center of the valley, the Bao heavy armsmen, armored in thick plate encrusted with precious metals and gems, held the center of their mixed house guard formation. Stolid like the earth with halberds and shields of solid metal, they beat back the gibbering nightmares trying to overrun them. Luo skirmishers, armed with bow and knife, shadowed their path on either side of the road. Jia and Wang regulars formed the bulk of the ranks. Their spears jabbed forth in unison, and their volleyed crossbow fire was like clockwork, driving back shrieking masses of oily flesh. The handful of Diao soldiers scrounged from their token representatives at the summit darted between the heavier Bao contingent, striking out and retreating with matched pairs of curved dueling blades.
+
+Her radiance washed out house colors and limned metal in glowing white. It settled in the creases of armor, clung to the plumes on helms, and filled the rings of mail. It lent mere second realms the strength to withstand the claws and cries and speed of nightmares. Its pulse coordinated men who had never fought together in their lives and brought them to fight as one. She could not give the guards the armaments and drilled coordination of the White Plumes, but, in her presence at least, they shone like a heavenly legion.
+
+Radiance pulsed, scattering shadows, and the center line parted smoothly without a word from her. Her sword Cifeng came down in a textbook perfect overhand chop, and blinding light tore down the road, leaving stone which pulsed with Wang Lian's shen unharmed but scorching nightmare flesh to ash.
+
+"Continue withdrawal to the central embassy," she ordered. Her voice was clipped and strident, cutting through the noise and echoing up and down the battlespace, reaching every set of ears. "Maintain a tortoise shell around civilians. Do not prioritize engagement."
+
+To her own ears, her voice was cold and unaffected, tyrannical in nature. But an officer could only be a tyrant when blades were drawn.
+
+"Hoh! You hear Lady Cai's commands, brave warriors of the forest. Take heart, for we are nearly there!"
+
+Gan Guangli's voice, however, boomed with enthusiasm and passion. She saw shoulders straighten and flagging qi reignite, voices rising in a dull roar of affirmation. He towered over her, a giant of white and gold metal, grinning as fiercely as he ever did behind his helm. He plucked a writhing, locust-like nightmare from the air above their heads and squeezed until it burst, the ichor burning away to acrid ash on his gleaming plate.
+
+As a child, she had been fond of her toy soldiers. She ordered their formations, marched them to and fro, and commanded the advance and retreat while Lin Hai bemusedly nudged his own forces on the painted maps rolled out on the floor of her room. Commanding troops in the real world was not the same. Soldiers were not wood and metal to be pushed about at a whim.
+
+She needed Gan Guangli. She could speak the language of law and academics and unravel and parry twisting words. She could stiffen spines with calm and surety. But she could not inspire normal men and women to courage and passion. She had accepted that some time ago while she was practicing her trade among the parties and shifting social scenes of the sect.
+
+To most eyes, she was odd at best and unsettling at the worst. She thought in systems and, to her distress, had come to the conclusion that the great majority of mortals and immortals alike did not, and no amount of explanation could make them do so. In fact, most saw such efforts as condescension and insult. It was Gan Guangli and Ling Qi who could transform the turning gears of her intentions into that which could take root in others’ hearts.
+
+Cai Renxiang could feel the shade of the house guards’ anxiety and the rush of adrenaline that made hearts pound. It was only a shadow, a squirming unpleasantness resting like a blanket over her mind. But without it, the Heavenly Legion Art would be useless. One could not guide men and women well without knowing them and their limits and where those could be exceeded.
+
+A true imperial hero of the sort immortalized in every tale would rise into the air. They would shout defiance into the teeth of the world and show their unbending courage, fighting the tide by themselves, or perhaps with a few boon companions, while their forces retreated to safety behind them.
+
+That was not Cai Renxiang.
+
+Bells chimed softly, and light surged. Gleaming bolts seared fissures in the squealing shapes of nightmares. Shields clashed and came together in a coordinated block, and her light rippled with a prismatic sheen, her qi dyed in turn by the soldiers that it was gifted to. Halberds braced, metal crunched and the wild charge was smoothly repelled.
+
+The small plaza was behind them, and the quiet garden in the center which her office overlooked was overgrown with overcharged qi. The warding stones paired at the road entrances blazed with intricate formations, the traceries of elegant calligraphy still orderly and beautiful.
+
+"Right flank, open fire. Left flank, back. Center formation, rotate and narrow. Begin evacuation." The words were barely necessary; her intent traveled with the rays of light. "Gan Guangli, rearguard."
+
+The earth shook under his feet as Gan Guangli bounded over the guards’ heads. The wind of his passage whipped her hair and gown alike.
+
+"Go! Form up, my friends. I shall hold them all until you are ready!"
+
+His arm swept out, more akin to a swung tree trunk than an arm, and smashed beasts aside like macabre toys. But even more were scrabbling at his legs, clambering up his stomping boots, and hissing and harrying him from the air above his head as the brilliant light blazing from every joint in his armor increased in intensity. Gan Guangli was like a garden lantern to draw the moths.
+
+She could not blame Ling Qi too much, for all her frustration. If she had been asked to make the decision for her and to give the command, there was no other choice she would make. Ling Qi understood duty far better than Ling Qi thought.
+
+That, too, was who she was. She had relearned concepts this past year: humor, self-care, and deepening empathy. Still, in the end, she was Cai Renxiang, and she was a woman of numbers and steel.
+
+So even with her heart twinging, she turned her back on her friend and gave the orders to speed the retreat. Gan Guangli had his role, and she trusted he would fulfill it. She had the same surety in Ling Qi. She was needed if this endeavor were to have any chance of stabilizing after this fight. She did not have the luxury of self-sacrifice.
+
+Gan Guangli laughed aloud. The troops marching with her surged with his enthusiasm, pouring into the plaza and taking up defensive positions, escorting the last batch of civilians to the shelter under the building. Wang Lian's qi hummed through the stone under their boots, raising firing positions for their archers and walls for their spearmen and swordsmen to man against the tide. Another surge of qi forged wardstones into gates of immovable stone, empowering the spirit wards until they formed an impassable, crackling field against the swarm that buzzed in the air.
+
+And yet, the situation was not improving. The heat baked down on them all like a furnace. Occasional yips of pain came from the circling pack of hounds running the fence of reality in the sky. As she rose into the empty air herself, she could feel the atmosphere changing. The cracks in the sky shook, and strained and widened.
+
+The acrid stink of fear tinged the odorous ichor that spilled down from the gaps. The cloven mountain shook, and they all felt something crumbling, something falling, from the compound of the Meng.
+
+"Hold steady! The White Plumes fight. The ministry fights. Our loyal brethren in the Meng fight. The enemy will fall soon. We must all merely do our part!" Cai Renxiang barely raised her voice as she spoke, as she let the rays of light scintillating in the air behind her grow denser, grow almost solid, the rays blazing against the reddened light of the bruised sky. A bell chimed.
+
+And radiance fell like rain. Outside of the walls, nightmares screamed as they died, and winged toward the fortress they had made in swarming numbers.
+
+Cai Renxiang let her light fade. That was enough to fight for now. Instead, her eyes focused down on the men manning the newly raised walls.
+
+Her hand swept out, a bell chimed, Cifeng thrummed, purring with pleasure, and Liming snarled dully, rippling against her skin. She had rejected some of her Mother's arts. She had made her own.
+
+Heavenly Administrator's Command: Implacable Garrison technique.
+
+Formations tightened across the courtyard, perfection down to the millimeter. The vague awareness of the Heavenly Legion art sharpened, but not only for her. In the square, every man and woman gained awareness, took synchronicity with their fellows.
+
+Qi cycled and bow strings were drawn back, not in perfect tandem, but in rolling continuous motion. Techniques and missiles alike fired in coordinated volleys. A nightmare in the shape of a spider with a man's hands and weeping face leapt the wall at a Bao soldier's back and a Luo soldier had already loosed a blazing missile of green-tinged radiance before it was halfway through its leap.
+
+One man was pushed back, his ankle turning, his stance buckling, and the man next to him was already moving, lashing out and pushing the foe back before it could take advantage.
+
+Cai Renxiang was in motion. The full force of her charge struck a gap in the line in a flare of radiance that cracked the rapidly repairing stone and reduced nightmares to burning paste. In the next instant she was gone, appearing across the courtyard, cleaving something like a heart from the core of a multi-limbed horror made of squirming fingers.
+
+The truth was, an administrator was only as good as the information they received, only as good as the eyes and ears and hands of their subordinates. It was not enough to be a perfect distant figure, high in the sky.
+
+And so she did not blaze high in the sky raining death, but instead stood among the defenders, radiance a rampart for body and spirit. Her light criss-crossed the courtyard a dozen times, lingering in her wake and twisting to lance out where her blade could not be.
+
+And as the sky began to boil, not an inch was given. Every time the swarm looked to spread, a controlled pulse of radiance and power brought them back.
+
+Gan Guangli returned with a crash, planting himself in front of the northern gate like a rampart himself, smeared in ichor, his chest heaving like a bellows, and he, too, fell under her technique. She could feel his exhaustion, his remaining vigor… and his unshakable belief in her.
+
+She raised her eyes briefly to the sky, where she felt a ripple of power. Something on the cloven mountain had fallen, something powerful. She could feel the tremors in the air, like the quiet lowering of waters before a flood.
+
+She did not so much as twitch as a ragged, weathered crow landed on her shoulder, cocking its head curiously.
+
+The White Sky had potent arts to be able to penetrate the screening here.
+
+"Speaker of this pantheon, do your gods accept aid in sealing the sky?" asked the crow in a low, raspy voice.
+
+Common sense said that it would show her weakness to need foreigners’ support. That they could only interfere, that she would be a fool to allow any merging of defenses.
+
+Cai Renxiang thrust Cifeng down, sending a rippling pulse of qi into the courtyard, into Wang Lian's network, giving anew a command.
+
+"Yes."

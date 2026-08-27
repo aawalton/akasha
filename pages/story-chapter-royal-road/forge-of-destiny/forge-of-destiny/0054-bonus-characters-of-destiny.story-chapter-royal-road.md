@@ -1,0 +1,137 @@
+---
+id: 1cee3dd9-aec3-5f12-9539-23b922db8733
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Characters of Destiny"
+slug: 0054-bonus-characters-of-destiny
+partOf: forge-of-destiny
+position: 54
+ownLength: 1363
+unit: words
+publishedAt: 2021-01-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/621226/bonus-characters-of-destiny"
+royalRoadId: "621226"
+---
+
+Current as of: [RR Chapter Threads 39/ Year 44 of Empress Xiang’s reign]
+
+Southern Emerald Seas Ling Clan
+
+Ling Qi: Our main character. Baroness, Head of the Southern Emerald Seas Ling Clan, and retainer to Cai Renxiang. Member of the Argent Peaks Inner Sect.
+
+Ling Qingge: Ling Qi’s mother. Formerly of the He clan before being disowned.
+
+Ling Biyu: Ling Qi’s three year old half-sister. Very adorable.
+
+Argent Peak Inner Sect Members
+
+Bai Meizhen: A member of the ruling White Serpent branch of the ancient Bai ducal clan, rulers of the Thousand Lakes province, and daughter of Bai Meilin and Hou Zhuang. Ling Qi’s best friend.
+
+Cai Renxiang: The current heiress to the Cai, the ruling ducal clan of the Emerald Seas, and daughter of Cai Shenhua. Liege and friend to Ling Qi
+
+Gu Xiulan: A scion of the Gu vicontiel clan of the Golden Fields province. Ling Qi’s friend. Unhappily engaged to Fan Yu.
+
+Xuan Shi: Friend to Ling Qi and a scion of Xuan ducal clan of the Savage Seas province. A powerful craftsman and lover of literature
+
+Li Suyin: Friend to Ling Qi, Craftsman of Creepy things, Apprentice to Bao Qingling
+
+Bao Qingling: A scion of the Bao comital clan and younger sister to Bao Quan. Li Suyin's mentor. Recently seen chatting with Bai Meizhen
+
+Ruan Shen: A scion of the Ruan baronial clan. Former music tutor to Ling Qi. The Ruan are subordinate to the Bao comital clan, but the cultivation stage reached by members of the Ruan means they can potentially take up the vicontiel rank.
+
+Shen Hu: Friendly with Ling Qi. Scion of the very recently created Shen baronial clan.
+
+Sun Liling: Scion of the Sun Ducal Clan and great-granddaughter of Sun Shao, King of the Western Territories. Opposed Cai Renxiang and her faction in the Outer Sect.
+
+Ji Rong: Baron, Former member of a street gang. Joined up with Sun Liling
+
+Kang Zihao: Scion of the Kang comital clan of the Heavenly Peaks province. His father is the current head of the Imperial Guard. Former ally of Sun Liling. Bai Meizhen plans on killing him for his insult regarding her dead mother, Bai Meilin.
+
+Yan Renshu: A craftsman who viciously hates Ling Qi after she ruined multiple of his bases in one night. He attempted to poison Zhengui. He was crippled by Wen Cao in his first year at the Sect. Entered the Sect two years before Ling Qi’s year did.Yu Nuan: A fellow musician who Ling Qi challenged and defeated in a contest of music.
+
+Liang He: A swordsman who Ling Qi challenged and defeated in single combat.
+
+Liao Zhu: Rank 2 member of the Inner Sect. Former tutor to Ling Qi and current mentor in the Scouts
+
+Bian Ya: A scion of the Bian vicontiel clan. Former tutor to Ling Qi in Wind and Wood qi. Seemingly interested in Ruan Shen. The Bian are directly subordinate to the Cai ducal clan, but the cultivation stage reached by members of the Bian means they can potentially take up the comital rank.
+
+Wang Chao: Scion of Wang comital clan.
+
+Meng De: Scion of the Meng comital clan
+
+Luo Zhong: Scion of the Luo comital Clan
+
+Argent Peak Outer Sect Members
+
+Gan Guangli: Retainer of Cai Renxiang
+
+Su Ling: Friend of Ling Qi and Li Suyin, her former roommate. She is the daughter of a powerful Spirit Beast, a cyan level fox who seduced and killed her human father. She is a very capable pill crafter. Very grumpy
+
+Ma Jun and Lei: Former guards of Ling Qi. Friends with Su Ling
+
+Xiao Fen: Bai Meizhen’s handmaiden and member of the Black Viper branch of the Bai ducal clan.
+
+Liu Xin: Talented commoner, and Xiao Fen’s friend
+
+Han Jian: Scion of the Han Marquis clan of the Golden Fields province. Friend of Ling Qi. Rejected Xiulan. Second year Outer Sect member.
+
+Han Fang: Han Jian’s adopted cousin. Mute after taking a knife meant for Han Jian
+
+Fan Yu: A scion of the Fan comital clan of the Golden Fields province. Friend of Han Jian. Xiulan’s fiance. Second year Outer Sect member.
+
+Lu Feng: Vassal and ally of Sun Liling and Scion of the Lu comital clan of the Western Territories. Friend of Ji Rong
+
+Chu Song: Baroness. She is descended from the fallen Chu clan, a comital clan which was purged by the Cai after attempting to oppose the new Ducal clan’s reforms.
+
+Huang Da: Scion of the Huang comital clan of the Ebon Rivers province. Blind. Had a crush on Ling Qi and Li Suyin, which was emphatically not returned
+
+Hong Lin: The unfortunate fiancee of Huang Da
+
+Wen Ai: Scion of the Wen comital clan of the Ebon Rivers province. Lost to Gu Xiulan in the New Year’s tournament. Formerly blackmailed after Ling Qi stole her love letters.
+
+Argent Peak Core Sect Members
+
+Gu Yanmei: Recently Promoted. Xiulan’s Older Sister. Scion of the Gu vicomital clan of the Golden Fields province.
+
+Guan Zhi: Ling Qi’s commander in the Sect military training program. Member of the Scouts. Niece of Elder Zhou
+
+Argent Peak Elders
+
+Elder Sima Jiao: Grumpy occasional mentor to Ling Qi. Head of the Talisman department. Former Minister of Integrity under Emperor An. Married to Xin
+
+Xin: Wife, and bonded spirit to Elder Jiao. She is the Archivist of Vice, a powerful prism Hidden Moon spirit.
+
+Elder Guan Zhou: Commander of the Sect Militaries and initial teacher of Physical Cultivation to Ling Qi
+
+Elder Hua Su: Initial teacher of Spiritual Cultivation to Ling Qi. Head of the Medicinal Department.
+
+Elder Hua Heng: Teacher in the Inner Sect. Father to Hua Su, and very old.
+
+Elder Ying: Helped deal with the Spirits unleashed by the cloud shaman. Taught Ling Qi how to raise Spirit Beasts
+
+Sect Head Yuan He: Slayer of the Great Khan Ogodei. Head of the Sect
+
+Assorted Others
+
+Zeqing: A powerful Ice Spirit who lived at the peak of White Cloud Mountain (The Outer Sect Mountain). Tutored Ling Qi in Music, Cold and Darkness. Mother to Hanyi. Currently DeceasedHidden Moon- It is the Great Spirit representing the new moon. It hoards secrets and knowledge. Xin is an aspect of the Hidden Moon. It is currently a patron of Ling Qi
+
+Dreaming Moon- It is the Great Spirit representing the waning gibbous. It represents Dreams, and creation. Sixiang is an aspect of the Dreaming Moon. It is currently a patron of Ling QiGrinning Moon- It is the Great Spirit representing the Waning Crescent. It represents mischief, thieves and cleverness. It is currently a patron of Ling Qi
+
+Bloody Moon- It is the Great Spirit representing the Waxing Crescent. It represents Vengeance and Justice. It oversaw a Dream Trial in the Inner Sect set during a Weilu Civil War.Reflective Moon- It is the Great Spirit representing the Twin Half Moons. It is linked to self-reflection, contemplation, peace and togetherness. Diplomats often invoke this moon.Guiding Moon- It is the Great Spirit representing the Full Moon. It represents travelers and sailors, and is strongly associated with revealing mystery.
+
+Mother Moon- It is the Great Spirit representing the Waning Gibbous. It represents the family, motherhood and fertility.
+
+Cai Shenhua: Duchess of the Emerald Seas province. She holds the title after overthrowing the previous ducal clan, the Hui.
+
+Diao Linqin: Matriarch of the Diao Count clan. Prime Minister of the Emerald Seas. Cai Shenhua’s lover
+
+Ai Xiaoli: Mother of Gu Xiulan
+
+Bai Suzhen: Heiress to the Bai Ducal clan, Aunt to Bai Meizhen
+
+Bai Meilin: Bai Meizhen’s Deceased mother. Died as a result of being blamed for an Imperial Prince’s Death
+
+Hou Zhuang: Bai Meizhen’s father, and Spymaster for Bai Suzhen
+
+Emperor Mu An: The previous emperor. He was a reformist who created the Ministry of Integrity to clamp down on corruption as well as the Great Sects. He recently ascended to become the death aspected Great Spirit Inexorable Justice.
+
+Empress Mu Xiang: The current empress. Former member of the Ministry of Integrity. Her Mother was an imperial consort to Emperor An and a White Serpent Bai. Her mother was assassinated by the Bai because the ruling faction of the White Serpents opposed closer relations with the Imperial Family

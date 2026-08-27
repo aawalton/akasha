@@ -1,0 +1,103 @@
+---
+id: a0944371-a783-5617-b32c-b9b98eefe61a
+page-type-slug: story-chapter-royal-road
+title: "Threads: Summit Epilogue"
+slug: 0436-threads-summit-epilogue
+partOf: forge-of-destiny
+position: 436
+ownLength: 1124
+unit: words
+publishedAt: 2024-07-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1738186/threads-summit-epilogue"
+royalRoadId: "1738186"
+---
+
+"That concludes my report on the 'White Sky' affair."
+
+Cao Chun shuffled his notes. Despite open danger being invited here, he found himself satisfied. If he did not know better, he might think himself compromised.
+
+"It is good that the internal matter was handled with minimum instability."
+
+The voice of the minister of the south echoed as if from the bottom of a well. The swirling vortex of darkness above his desk pulsed softly. From it, he could hear the sounds of shuffling paper and the indistinct whisper of reports given and orders made, a shadow of the vast reams of information which his superior was sending and receiving at all times.
+
+"The foreign matter is worrying, but no more so than before. A list of judges will be sent for your perusal."
+
+"Her Highness approves then?" Cao Chun asked. He had been persuaded, himself. This Polar Nation was civilized in its way; it understood and adhered to strong laws, if wrong ones. It was also, as the girl had implied, very weak centrally, as admitted by its own representatives.
+
+There was opportunity there, and not merely in the slow witted martial sense.
+
+"The priority of the south is stability. How the duchess achieves this is her business," the reverberating voice replied, distorted by distance and shifting attention. "The eyes of the throne are needed elsewhere. With her highness’ rise to the Eighth realm, the Great Work may proceed to the next stage. You may consider this approval, for now. It will be propagated that the treaty made here is to be respected."
+
+"I understand." Cao Chun brushed his thumb over the head of his cane.
+
+"Will you take up your retirement in Xiangmen, Cao Chun?"
+
+"I have found the southern air agreeable."
+
+Whatever his words, a true agent of integrity never truly retired. That was true whether one was a mere inspector or an empress. It was not a matter of force. He knew that should he ask for it, the Ministry of Integrity would leave him be and never trouble his ears again. But one did not rise in the ranks of the ministry without knowing the virtue of its cause.
+
+Systems rotted with time, even ones created as close to perfection as possible in their flawed world. Cut corners built up and began to crumble, complacency and workarounds set in, and loopholes were found. Meritocracy became a captive, and integrity was strangled by a thousand petty personal wants.
+
+It was a war that could never end, so long as the empire stood. When the first minister had abandoned them over that revelation, it was Her Highness whose words had held the ministry together and whose will had resonated with the shades of Inexorable Justice. He trusted in them, his superiors and the empress as well.
+
+That was why he did not need to know the full plan, only that it remained on track.
+
+"The matter of the Cai’s alliance with the Bai has not been a disruption to the Work then?"
+
+"It has altered many paths, but the empress has decreed the situation acceptable. The duchess continues to advance and perform her primary role. The Bai are moving within desired parameters."
+
+Cao Chun nodded, letting out a breath of relief. Notwithstanding the growing concern of the Sun situation, to his eyes, the ancient rot the Bai represented had not infected the Emerald Seas to his eye. Even justice could err before it was perfected.
+
+"The Zheng remain a concern. Do you have a contact?"
+
+"A small one, extended with purpose," Cao Chun said.
+
+"Monitor closely, and build trust. The ministry’s eyes on the Ebon Rivers are not clear enough."
+
+"Understood."
+
+"Thank you for your work, Inspector Cao. For Integrity."
+
+"For Integrity."
+
+***​
+
+Lub dub.
+
+Vines pulsed like veins in the dark. The acid sizzle of sap and toxic excretions gently pattered across the leaf-strewn floor of the throne room. It was an ugly sight, by the standards he had grown with. Too organic, rough bark and soft green flesh, rich black earth and shimmering, humid and musty air.
+
+Lub dub.
+
+Her heartbeat resonated through his channels and deep in his bones, vibrating in the creeper vines grown under his flesh body's skin.
+
+Sun Shao's hands twitched upon the worn stone armrests of his throne. Fossilized wood, really. It was amusing to think that this had once been the palanquin which had carried the Sage through a conquered city. Stone-chewing insects burrowed through it now, clambered over his hands, and crawled through his beard. He opened his eyes, and bloody light spilled over his chest.
+
+"Report."
+
+"Our contact heroically martyred themselves, long before the resplendent one arrived, in a way which left nothing to interrogate, father," spoke a strong baritone.
+
+Kneeling before him with a head of crimson hair and a handsome confident face was the first of his new family. He could almost ignore the slow writhing of roots, like worms under its skin.
+
+He had forbidden it from making any contact with his Liling. Cruel as he had needed to be, she did not need to see this face with its empty knothole eye sockets and rootwood fangs.
+
+"Unfortunately, the disruption was not so great. The Meng clan is weakened, but the Emerald Seas has only gained cohesion for it."
+
+"It was only ever an opportunistic ploy."
+
+"Father is wise to only ever risk a small root or two, even when seeking all opportunities," his not-son said, thumping a fist against his crimson resin breastplate, sending the wasps in his chest buzzing. "Mother is pleased."
+
+"Of course she is," Sun Shao rumbled. "The business in the south?"
+
+"We have been promised a swathe of mountains and asked to keep away from her. Will we honor this?"
+
+"Yes. We are not ready, and the Deathless Ice is not our great foe. For now. We shall be busy enough below."
+
+"To think that there is a whole strata which Mother has not brought evolution to. A fortuitous find indeed! Through the pits, we find new life to sharpen our fangs and deepen our roots, and your flesh kin will reap many riches to forge your own fangs."
+
+Lub dub.
+
+She was pleased. He could feel it, stretching on and on, the creeper vines and roots burrowing through the bleeding soil, withering and dying as it sought caverns full of bones and toxins. The roots, the insects, and the little vermin beasts died. They died in their hundreds of thousands, withered and eaten, hunted and dispatched. New generations were born, adapting, assimilating, and lasting a little longer each time.
+
+"Leave me. Return to your watch. The Bai will be hatching more plots soon, I am sure."
+
+The south was not his concern. Yet.

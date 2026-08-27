@@ -1,0 +1,163 @@
+---
+id: 7ab08e8d-8fbd-576b-a793-57953df33192
+page-type-slug: story-chapter-royal-road
+title: "Threads 228-Pronouncement 2"
+slug: 0265-threads-228-pronouncement-2
+partOf: forge-of-destiny
+position: 265
+ownLength: 3028
+unit: words
+publishedAt: 2022-07-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/941741/threads-228-pronouncement-2"
+royalRoadId: "941741"
+---
+
+“I am surprised that you would make such allowances before the tournament’s end,” Cai Renxiang said calmly, despite the wary relief Ling Qi could see beginning to set in.
+
+The Duchess offered a languid shrug, leaning back in her seat, sending the shadows dancing throughout the box. “I am satisfied with his resolve, and a place in the finals will grant him the correct rank. It may, in fact, be better that the Han boy wins that battle. They did suffer some loss of face in the previous year.” She sounded like a woman musing on the next day’s weather. “But, Renxiang, recall always that soldiers are dangerous creatures. Do keep him in hand, yes?”
+
+“Of course, Mother.”
+
+Below, the field was cleared, and Gan Guangli stepped down, at last allowing his shoulders to sag a little with fatigue. That had been a risky maneuver he had played there. Ling Qi wasn’t quite sure how the boisterous young man had hidden such a reserve of qi while playing at fatigue. He hardly studied stealth arts.
+
+<I’m thinking it was his buddy,> Sixiang analyzed. <Those lunkheads might be flashy, but they know how to make a dramatic entrance. Maybe some kind of transference art?>
+
+They could always ask later. She decided not to call Sixiang on the mild hypocrisy of calling anyone else flashy. In the arena below, the Sect was announcing the next two combatants.
+
+As Han Jian and Xiao Fen stepped into the ring, Ling Qi felt a twinge of discomfort. It made the hairs on the back of her neck rise, a creeping anxiety that almost had her shifting physically in her seat. It took several long moments before Ling Qi realized what it was. She kept her eyes facing forward on the arena below. She had no desire to turn her head. Diao Linqin’s attention was on her back.
+
+As the battlefield took shape below, rolling hills and scrub-filled fields, Ling Qi felt the whisper of a flower petal blowing across her cheek. The world felt dull and washed out. Even Sixiang’s voice was a muffled whisper. Only the terrible light of the Duchess shone through, and that, too, seemed muted, but it was a faintly indulgent thing like a person turning their head aside so as not to listen in.
+
+Ling Qi took a very deep breath, looking down at her own lap. Vibrant flower petals blew and curled around her. “What have I done to earn the honor of such attention, Prime Minister?”
+
+“Aided in holding together a broken doll until it could begin to become a woman again, it seems.” Diao Linqin’s aristocratic voice was measured and neutral. “Has she spoken to you about last evening yet?”
+
+“Lady Cai Renxiang has not yet had the opportunity.” Despite herself, some irritation at her friend being spoken of in that way bled through. She really wasn’t good enough at this yet.
+
+Slowly, she turned her head to look over her shoulder to see Diao Linqin looking down at her with pursed lips and an expression of vexation. “It is truly irritating when you see some truth in a jest.”
+
+Ling Qi remained silent, recalling last year, when the Duchess had compared her to the Prime Minister and joked of her daughter's taste matching hers.
+
+“Only a shred of it,” Diao Linqin said imperiously. “That girl does not love in that way, and you, though you can, are broken by fear.”
+
+“I do not understand, Prime Minister. This seems inappropriate.”
+
+“Just a musing,” the older woman dismissed. “And recognition of what is forming in the chaos you call cultivation. You have been poking about the edges of the Diao clan. Why?”
+
+Ling Qi’s thoughts rushed by as she assembled an answer in her head, trying to keep calm in this surreal scenario. “I seem to have brought some offense to you and your family, although it was never my intent. I only want to ensure that it does not become true ire and learn more of the Diao, so that I can avoid missteps in the future.”
+
+“You will not abandon that girl, and I know well enough these ideas are yours, as much as hers.” In this strange illusion, Diao Linqin seemed to loom much higher, a queen in waiting herself, on a throne of flowers and thorns. “Your offense was very much intentional.”
+
+Ling Qi corrected herself. “To avoid more offenses beyond the points I will not move from then.”
+
+“Better.” Diao Linqin rested her chin on her hand. “You are not the first to try the game of twisting truth. Learn when it is better to make a straight thrust of the blade rather than aiming for a fanciful feint.”
+
+Ling Qi narrowed her eyes despite the sharp-edged petals in the air and the pressure of the light and wind. “I will take your advice to heart, Elder. If I may, why does our project give you such offense?”
+
+“I am the Matriarch of the Diao. What offends them must offend me in court, at least in these matters. Have you studied our history?”
+
+“The Diao rose as a viscount in the south central valley and were raised to counts under the Hui,” Ling Qi rattled off. “Though your star has only risen in their absence.”
+
+“To hear it so dryly… Such is history,” Diao Linqin said with a strange, half-irritated and half-resigned expression. “But you, child who has never known the old order, do not really understand those words.”
+
+Ling Qi bowed her head, recognizing that no response was expected.
+
+“We were raised, it was true, but the Hui had no friends. They had no love beyond themselves. They wielded apathy, affection, and cruelty alike the way you do your instruments. All who served them were made less than they were in that service. The Diao were at once pampered pets and beaten dogs, ever hungry for the master’s affirmation. The response of most to such abuse is to wrap themselves in the pride of what they are allowed.”
+
+Ling Qi was surprised to hear so much from the woman. She still felt no doubt in Diao Linqin’s dislike for her. “What was allowed was to feel wholly imperial?”
+
+“Good. I dislike students who need things spelled out for them. You understand then, why so many feel disdain for the ‘projects’ such as the Wang’s assimilation and your diplomacy. Even if less remember why with every passing year, elders pass their grudges and hate to their juniors through every lesson.”
+
+“You sound very detached from this.”
+
+“That is an observation you could make.”
+
+Ling Qi mulled that over in silence for a moment before finally coming to her reply. “Why are you telling me these things?”
+
+Diao Linqin looked down at her, flower petals blowing in an unfelt wind. “What do you imagine will happen if Her Grace’s daughters fail to live up to her expectations?”
+
+Ling Qi swallowed. “There will probably be some conflict over the throne.”
+
+“Understatement. An amusing and occasionally useful device. Know that the Diao clan is split. Some see themselves as the natural heirs of Cai. Others look upon our influence and our wealth and our positions in many ministries and wonder what precisely the benefit of losing our shielding light is and why we should fight another war. Diao Hualing is an opportunist. But opportunists have their place.”
+
+“That didn’t answer my question,” Ling Qi said warily.
+
+“Your lady will explain.” Diao Linqin peered down, her lips curled with disdain, but it did not seem wholly directed at Ling Qi. “Tell me, child, when you look upon me, what do you see? Do not bother to lie or speak in circles.”
+
+Ling Qi looked hard at the older woman, or rather, the face she presented. She saw the shifting thorns and flowers that spread around and saw the way they curled toward the radiant light cast toward them from above in longing adulation. She saw the skulls great and small in the dirt below, split and grown over by roots wound in thorny vines and crushed in numbers greater than she could count. She saw shading boughs cast upon tightly grown flowers and shoots, apathetic of their existence but casting life-giving shade from the searing light all the same.
+
+It was a strange realization that came to her, looking at the shifting, overlapping imagery of a seventh realm cultivator's presence. It wasn’t that she didn’t understand the possibility. Meizhen had shown her that. Sixiang had shown her that the definitions of man and woman could blur. Lin Hai had shown her they could be changed outright.
+
+“You’re her wife,” Ling Qi said blankly, staring up into the colorless sun, caged by the embracing weave of vine and leaf and flowers rooted to the earth. If she were honest, she could never have imagined someone so powerful defining themselves that way. To Ling Qi, marriage was… It was a frightening thing. A loss. To be a wife was to be at another’s mercy for the rest of her life, or, she supposed, to dominate someone else in the same way. Someone had to be the one in control, didn’t they?
+
+And the Duchess was greater of the two, but it didn’t feel that way in that instant. It was hard to tell where one ended and the other began.
+
+“That is your view? Unexpected.” Diao Linqin’s voice was the reverberation of the wind through the flowers now. “I see you are no less grasping for another year's cultivation.”
+
+Ling Qi almost ducked her head, a denial on her lips, but… The Prime Minister was right. She wasn’t any less greedy. The lesson she had taken from Zeqing was that she had to take into account more than her own desires. People weren’t dolls to be collected.
+
+“I will not be alone again.”
+
+Ling Qi’s shadow clung to her in the light, tight and guarded. Her own wind, so much smaller, kicked up, carrying the glittering strands of her hair. She looked up, not unafraid, but unflinching.
+
+“Different,” said the Prime Minister. “The poison you drank deep from was isolation. You cannot give yourself to another, and so, they cannot give themselves to you. Instead, ‘Sister.’ Can you even imagine something closer, I wonder? Even now, you hold tightly but always at a distance, a support given unasked. A painful sight. Think more of yourself. Empathy without limits is a terrible burden.”
+
+“I do not see how that can be a burden. I want to be better. I understand that people are connected. Even if I can care for only a few, those few connections branch out in turn. Empathy is how I can understand this, isn’t it?”
+
+“That conclusion is not wrong.” Roses swarmed close, curling around her, examining. “But it is incomplete. You risk giving too much of yourself as you are. Let me show you why you should control your empathy.”
+
+Ling Qi felt a prickling in her mind, then a rush of worry and calculation. Renxiang was beside her, thoughts racing, an aching pain in her thoughts warring with relief and trepidation. For all her poise, Ling Qi’s friend was a mess behind her mask of stoicism, and Ling Qi almost reflexively reached for her.
+
+She felt her other friends: Meizhen’s calculation, her concern, her pride; Li Suyin’s never ending anxiety, the feeling that she was an imposter, undeserving of everything, no matter her accomplishments; Su Ling’s dull anger at the world and far hotter loathing of her own self; Xuan Shi, surrounded by kin but no less lonely for it; And Gan Guangli’s exhaustion and exultation, his iron confidence and belief in Cai Renxiang. More and more, she felt. Flashes of bitter resolve in Han Jian. Desperate pride and yearning to impress in Xiao Fen. The sorrow of the Sect Head, the empty hollow of an old man who had lost everything close to him, living only in their memory. Sect elders defined forever by loss and vengeance.
+
+More, more, more. It jumbled together, individuals blurring into a maddening cacophony of feeling. It bore down on her, a suffocating weight and pressure even greater than the gaze of the Duchess. Anxiety filled Ling Qi, the helpless knowledge that nothing she could do would ever reduce this weight. Even if she ascended in this very instant, nothing could change this awful, dragging weight. It was made even worse, knowing that even this was only the people present at the Argent Peak Sect.
+
+The feelings disappeared. Ling Qi heard her own ragged breathing and felt the prickling of tears in the corners of her eyes.
+
+“That is the conclusion of the insight you have without temperance,” Diao Linqin said, her voice even. Despite that, Ling Qi felt she saw the briefest glimpse of a single tear rolling down a dark cheek. “Be more selfish, child. Take as much as you give. Choose what lines of connection you trace, or be crushed by the weight of the world.”
+
+Ling Qi got her breathing under control, and as she did, she had a flash of thought. Was this why the Prime Minister had never stepped into the eighth realm? What would an existence which could never be separated from that feeling be like?
+
+A second thought, as she wiped her eyes, looking up at the radiance burning above, grasped so tightly. “What will happen when you are gone?”
+
+The Prime Minister, she knew, was much older than the Duchess, by some two centuries if she recalled correctly. Somehow, the idea of that terrible colorless sun, unmoored from anything which grew from the earth, sent a chill down her spine.
+
+The Prime Minister didn’t answer her. “This conversation has been sufficient for my judgment.”
+
+“I still don’t understand why,” Ling Qi said through gritted teeth. Instinctively, she knew she didn’t need to specify. In front of this woman, even speaking was a formality.
+
+“You have made yourself important. This is the result,” Diao Linqin replied, disinterested. “Be honest in your dealings with the Diao.”
+
+And like that, the conversation was over. She was back in her seat, her eyes were dry, and not a single hair was out of place.Her shoulders sagged for a moment before she got a hold of herself.
+
+<Hey, you alright?> Sixiang murmured in her head. <What—Oh. Oh.>
+
+It looked like Sixiang was already catching up. Cai Renxiang glanced in her direction, and Ling Qi gave her a reassuring smile. As Renxiang had said earlier, now was not the time. Her liege looked at her for a long moment before giving a faint nod and turning back to the match below. Ling Qi stared at her own hands, wondering at how small and unready they seemed, then did the same.
+
+It was a whirlwind. Literally. The dunes had been stirred by lashing winds, and wailing walls of grinding sand slashed across the battlefield. Han Jian was a darting blur, and the winds and the flaying sandstorms followed in the wake of his steps and his blade. In a few places, hungry black fires burned on his robe, and his right arm was marked by a single splotch of frozen blood.
+
+But Xiao Fen was by far the worst of the two. The sleeves of her gown were completely gone, her pale skin was abraded by sand, and her veins pulsed black from overuse of her arts. Crimson flowed, soaking her black dress from several precise wounds on her stomach and back. A slash marked her right thigh, making her steps unsteady.
+
+Her usually blank face was locked into a fierce expression as she blasted through the most recently raised sandstorm, hands wreathed in black fire striking with blinding speed. Han Jian leaned back, tilting his shoulders and twisting his body to avoid each strike by the slimmest of margins.
+
+Then, he vanished in a puff of wind and sand, and in his place was a huge golden tiger. The little cub had grown, standing some two and a half meters at the shoulder. Heijin’s roar shattered the air, a shockwave that tore apart the dunes and sandstorms alike. It sent Xiao Fen tumbling through the air, bleeding from her ears and nose. She landed hard despite her best efforts, tumbling and skidding through the sand before she struggled back to her feet.
+
+“Please yield.” Han Jian stepped like a ghost from the whirling winds. Around him unfolded a phalanx of silken soldiers, spinning themselves into existence from the threads of his sleeves and sash.
+
+Xiao Fen let out a low angry hiss, resetting her stance. Her eyes darted about, taking in her position. Han Jian stood ahead, sword down at his side, while Heijin stalked the dunes, his silhouette melting away into a shadow among the yellow sands.
+
+They clashed again, and again, it was Xiao Fen who was left with a new wound, a precise thrust into her upper arm that left the girl's right arm dangling uselessly.
+
+“Do you think your master is happy, watching you break yourself over this?” Han Jian asked lowly. “I did not think Bai Meizhen was that kind of person.”
+
+Xiao Fen’s face twisted, her eyes flicking up into the sky where the stands were behind the false world they fought in. Han Jian took no advantage, just flicking the blood from the end of his blade.
+
+“I represent my mistress’ pride,” she hissed.
+
+“And she’d beat me like a kettle drum.” Han Jian raised an eyebrow. “Is it really her pride we’re talking about here?”
+
+Xiao Fen looked like she had bitten into a lemon, and for a moment, Ling Qi thought she was going to lunge again into combat. Then, her shoulders slumped. “I yield.”
+
+The dunes vanished in a flash, leaving them standing once more in the arena beneath the roar of the crowd. Xiao Fen vanished in a flash of light, taken to the medical ward. Han Jian raised his sword in a salute, smiling wryly as he was announced the winner.
+
+“It was a good match,” said the Duchess, her warm voice reverberating in Ling Qi’s ears. “But now, to business."

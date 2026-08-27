@@ -1,0 +1,189 @@
+---
+id: 3155399f-6f06-5a84-bec1-f254449086c9
+page-type-slug: story-chapter-royal-road
+title: "Threads 346-Clan 1"
+slug: 0386-threads-346-clan-1
+partOf: forge-of-destiny
+position: 386
+ownLength: 2396
+unit: words
+publishedAt: 2023-11-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1408303/threads-346-clan-1"
+royalRoadId: "1408303"
+---
+
+<Ugggggh, I can’t believe I missed that,> Sixiang complained. Their voice was projected directly into her mind again, their rapid descent from the cloud line making physical speech impossible for the moment.
+
+It was surprising, Ling Qi thought. She hadn’t known that she could manage a conversation like that. Not until she’d done it. But she did think she’d done well. Her nerves had been manageable. It helped to think of the words as a bit of a playful game, rather than something serious. And of course, being able to turn to work when they hit an awkward moment also helped.
+
+She was proud of herself.
+
+<I’m proud of you, you dork,> Sixiang huffed playfully. <Pff. ‘You’re fascinating.’ Look at that guy going right for the kill. I didn’t think that guy was so aggressive.>
+
+He had walked it back later, but she wasn’t sure how much of that was Meng Dan avoiding coming on too strong. Either way, it had been an interesting experience.
+
+The wind whipped past her ears, tugging at the hem of her gown. Behind them were the mountains of the sect, and below was the spread of White Cloud Town, the settlement at the sect’s entrance where her family still lived. She spiraled down, descending in a looping curve that took her well outside the walls to avoid any panic or conflict with the town guardians, all dutifully manning the walls with their eyes on the sky.
+
+She landed upon the road outside the front gate, a low realm’s bowshot distant, and the air beside her shimmered as Sixiang manifested. Colorful bubbles boiled out of Ling Qi’s sleeve, bursting into glittering sparks that resolved into Sixiang. Their form was more comported, feminine now, with a glittering gown of shifting colors that was actually proper in its coverage for once.
+
+“Looking to make a good impression on my mother?” Ling Qi asked.
+
+Sixiang smirked. “Don’t wanna spook her at the first real meeting.” Their hair still drifted in a halo around their head.
+
+“Well, if it's what you’re comfortable with.” Ling Qi briefly examined Sixiang’s form. “Are you taller than me?”
+
+“Oh, moons, what’s with that look? I think I’m in danger!” Sixiang laughed, and their frame shrank by a handspan. “And here I thought you didn’t like being the tallest one in every room.”
+
+“It just felt strange,” Ling Qi huffed. “Come on. We have a bit of a walk if we don’t want to disrupt anyone.”
+
+She was still someone the guards recognized, and so, there was no pause for inspection at the gate beyond an examination of Sixiang. Since Ling Qi was not concealing her qi, their bond was obvious. The town looked to be in good spirits, despite the threats still looming. It was reassuring, the feeling that the sect still had security well in hand.
+
+The comfortable manor home was just how she’d left it, the compact walls around the grounds shading the interior from the street outside. The guards at the door greeted her, and she entered without a ward, examining the improved defensive formations. The sect must have funded that. Mother wouldn’t have made a decision to do so without informing her. A glance inside saw the household in the routines of their day. Biyu was upstairs in her mother's study, along with the woman herself. There were four other tiny, flickering signatures of awakened qi now too.
+
+<In the front then?> Sixiang asked as the gates shut behind them.
+
+Ling Qi considered. There was no one sweeping the path right now, and it was still clear. “Let's not disrupt everyone's day yet. I wish I could have given mother a more exact time.”
+
+Sixiang tilted their head. “Ah… Got it.”
+
+She took Sixiang’s hand and stepped into her mother’s office.
+
+To Ling Qingge’s credit, she only barely startled. Ling Qi had been careful to project her presence forward first, letting even her mother's untrained senses feel her coming.
+
+Her mother sat behind the desk of her study, hair pulled back in a tight bun. Her sharp intake of breath was the only sign of her startlement. “Ling Qi, you are earlier than expected.”
+
+“I was able to wrap things up quickly, mother,” Ling Qi said, bowing her head.
+
+“Sis!”
+
+Ling Qi turned and caught Biyu as the little girl threw herself at Ling Qi, hugging her around the back. She’d been at a playtable strewn with paints. She was sure her dress would be stained by her little sister's paint-smudged hands if it were normal.”Biyu! Have you been good?”
+
+“Yes! I’ve been good. I paint a lot,” the little girl chirped, squirming in her grasp. Then she caught sight of Sixiang, and her eyes went wide. “Who is that?”
+
+She saw her mother staring too. “This is my friend Sixiang. They’re visiting too. Mother, I have already introduced them, but…”
+
+“I’m only just trying out this body thing. I did say hi before though,” Sixiang said.
+
+Her mother’s eyes flicked to the side, the older woman searching her memory. “I… see. You are my daughter's spirit then?”
+
+“Mhmm!”
+
+“Your hair is floating,” Biyu said.
+
+“It sure is! Looks cool, huh?” Sixiang asked cheerfully.
+
+Biyu stared at them. “Messy. Good girls comb.”
+
+“Being bad is fun sometimes.”
+
+“Sixiang, no,” Ling Qi scolded.
+
+Her mother still looked concerned as Ling Qi straightened up, a hand still resting on Biyu’s head. “Mother, it's really good to see you again.”
+
+“It is,” Ling Qingge agreed standing up. “Welcome back, Ling Qi. I am glad to see you well. Miss Sixiang, you are welcome too.”
+
+She didn’t bother correcting her mother. Trying to explain Sixiang's nature was outside their scope right now.
+
+“Thanks much,” Sixiang said. “Honestly, Ling Qi’s the one who pulled me along. I was gonna leave this time for you guys.”
+
+“Even if you haven’t seen them, Sixiang has been with me every time we have seen each other. That they can walk around now in the open just means they have no excuse to keep being shy,” Ling Qi said.
+
+“I confess I don’t fully understand,” Ling Qingge said. “But my welcome stands. Ling Qi, how have you been?”
+
+Ling Qi winced. “Busy. Tremendously busy. There is so much work to be done that I can barely describe it.”
+
+“She’s not kidding,” Sixiang said, drifting back behind her, ceding the stage.
+
+“Well, I understand that you have set yourself a very difficult task. Do you regret it?” Ling Qingge asked, coming out from behind her desk. At her knee, Biyu squirmed, clearly getting bored with all the talk.
+
+Ling Qi patted her little sister's head. “No, I don’t. No matter how difficult it gets, it was the right choice.”
+
+“Then you can only complete the work you’ve taken on,” Ling Qingge said. “Things have been well here. There have been no incursions, and the sect has been improving the town's security.”
+
+“I saw,” Ling Qi said. “You told me there was some success with the household cultivation?”
+
+Ling Qingge dipped her head. “Yes, thank you for your generosity there.” She bent down, picking up Biyu and nestling the girl in the crook of her arm. There was no struggle to it despite Biyu’s growth, the benefits of even a little cultivation. “There were four who showed some ability to draw on the spirit stones after the trial period.”
+
+“I see. That’s very good,” Ling Qi said. Even minor talent wasn’t strictly common. Most people simply couldn’t cultivate at all from what she understood, even if showered with spirit stones. “Who are they?”
+
+“Min Leidi is the oldest at fourteen.”
+
+“The shrine girl?” Ling Qi wondered. Zhengui had mentioned the girl who had built his shrine in the garden.
+
+“Lei-lei is nice!” Biyu chirped.
+
+“Her nanny’s granddaughter. She had been attempting to get the girl into the temples before, but…”
+
+Ling Qi nodded, understanding. She understood that Biyu’s nanny was her mother's friend, a woman who had been promoted to their workplace’s administration with age. Even then, the stigma still stuck though. “And the others?”
+
+“Zhang Shu is twelve and the son of one of our more senior maids,” Ling Qingge continued. “I am told he is already pestering some of the sect guards when they take their breaks for refreshment. He is an excitable boy.”
+
+Not unexpected. Many of her mother's friends were older and had their own children.
+
+“The other two are too young to begin properly by my readings and your advice. For now, I have just taken note of them. One is Zhang Shu’s younger sister, Zhang Feng, who is eight years old. Then there is Dong Chyou, who is eleven. Her mother is our cook.”
+
+“Continuing light exercises for the younger ones will probably be fine. Have any of them actually awakened?”
+
+“Only Min Leidi, but I believe Zhang Shu may be close. I do not have your senses,” Ling Qingge said.
+
+“Mama, can I show Sis my pictures yet?” Biyu interrupted.
+
+Her mother gave her a look.
+
+“Soon, little sister. Mama and I just need to talk a little more,” Ling Qi said. “Did you plan something for me to greet and congratulate them?”
+
+“I had some notions, but I had hoped for your input.”
+
+Sixiang suggested, “Should be something fun, huh? Why not make it a big party for everyone? You can hire some outside staff so it's not just making work for them. Garden out back is big enough.”
+
+“That would be difficult and expensive. Could it not also incite jealousy?” Ling Qingge wondered. “My thought was a dinner feast for the four children and their families where you might speak about their duties, Ling Qi. This combines reward with establishing their position and duties”
+
+Sixiang tapped their chin. “Mm, I guess that could work too. Others might be jealous of the attention though. Making it a happy thing for everyone instead of just a few seems good to me. Seems like it would encourage everyone to work hard and try to prepare their sprouts when they get a bit bigger.”
+
+“I can see both points,” Ling Qi said. “Perhaps we could use Zhengui’s garden. There could be some benefit to establishing their cultivation base there. I could make it a basic lesson too.”
+
+“A solemn procession would have value for instilling the importance of their duty,” Ling Qingge advised.
+
+“Party!” Biyu exclaimed.
+
+“See, little sis gets it.” Sixiang chuckled. “I feel like making ‘em traipse out into the woods will take away from the congratulations bit. A big dinner for the family is better than that, I think.”
+
+“I think mother is right that I’ll need to speak to them no matter what as…” Ling Qi grimaced. “A leader.” That still felt weird, but she was the head of the Ling Clan, such as it was. As time went on, they would only grow to be more established and her position more important.
+
+Ling Qi considered the choices before her. In truth, it was more than just choosing the immediate action. What she was doing was setting precedent for this not-quite-a-clan forming under her. Whatever she might think of the idea, she was the example, the one with the wealth and success. The choices she made here, others would follow.
+
+And she did think it was better if the clan's cultivators remained firmly rooted among the mortals who were part of it. Envy and jockeying for position could not be avoided unless she took a route of extreme segregation between the cultivation and mundane sides. That was the route the White Sky as a whole seemed to take, and while she could see some value in it, she also couldn’t say she thought it was completely right.
+
+“I think something more public is better,” Ling Qi decided. “I won’t need to leave until week’s end, so it's fine to take a few days and arrange the event.”
+
+“I suppose so. We do not want to make it a burden upon them though. I am uncertain where I could acquire such services,” Ling Qingge said.
+
+“I’d offer, but I don’t know if you want to throw folks into the deep end by getting catered to by my little cousins,” Sixiang said.
+
+“... Yes. I wouldn’t want anyone to get lost. Maybe if we had more time to arrange a contract,” Ling Qi said absently. Mother looked alarmed. “Well, it’s a little unusual, but I might be able to hire an outer disciple or two for the food. Drinks can be acquired… It’s not caravan season, so maybe the staff of one of the roadhouses could be borrowed.”
+
+Her mother closed her eyes and took a deep breath. Biyu gave her a worried look.
+
+Ling Qi sighed. “Mother. Lady Cai is providing the full spread of cultivation resources for almost a half dozen people of my level as well as the working pay for enough people to build a small village. My friend Xia Lin and I are providing a large portion of the wealth needed to construct that village. It really isn’t a bother.”
+
+“I understand, but the instincts of a lifetime do not easily disappear,” Ling Qingge said, opening her eyes. “If you wish to do this, I won’t object. How can I aid with the arrangement?”
+
+“I will handle hiring with the sect,” Ling Qi said. It felt strange. She’d be coming as an outsider, applying for a job on the outer sect’s board. “If you could handle speaking to the owners of the roadhouses?”
+
+“There are two which act on a skeleton staff during this season. I will see about sending a message… When?”
+
+“Last day of my stay?” Ling Qi wondered. “Zhengui should arrive with the supply caravan tomorrow, and I can fetch Hanyi any time. That gives us five days, not counting today.”
+
+Ling Qingge sighed. “Even that feels rushed for such an event.”
+
+“I live fast,” Ling Qi said cheekily.
+
+Sixiang prodded her shoulder, and Ling Qi glanced back only to follow their gaze.
+
+Ah, Biyu was beginning to puff out her cheeks and squirm.
+
+“But, first, why don’t I look at my little sister’s pictures? We can get started in the morning, mother.”
+
+“I suppose we can. Ling Qi, it is good to see you again. Welcome home.”
+
+She bowed her head. “Thank you, mother. It is good to be back.”

@@ -1,0 +1,131 @@
+---
+id: 6d6e3ff1-40aa-5aaf-ba13-de8116f9c1f8
+page-type-slug: story-chapter-royal-road
+title: "Threads 457-Sincerity 1"
+slug: 0502-threads-457-sincerity-1
+partOf: forge-of-destiny
+position: 502
+ownLength: 1807
+unit: words
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2399080/threads-457-sincerity-1"
+royalRoadId: "2399080"
+---
+
+"You sure about this, Qi?"
+
+"It would feel wrong to put this off any longer. He should at least know what I've chosen to do with his teachings," Ling Qi replied.
+
+She sat atop the waters of the pond in the floating isle she had made her entrypoint into the dream realm, an eerily silent but beautiful lake surrounded by sky-piercing mountains whose peaks burned with angry blood red flame. Golden scales and swarms of crows flashed amidst churning clouds in one stretch of the mountains, which remained coated in falling snow. The shadow of the moon shrine she had found in the sect's peaks drifted above.
+
+"Besides, I won't be getting any healthier. For this last spark, I'll need to smother or process it myself." Ling Qi rested a hand on her stomach. The twinges of pain were well faded from her meridians, but like the dark particles of Huisheng's Qi, that wrathful spark still burned down in the depths of her dantian.
+
+Sixiang's chosen avatar faded into existence, a frown on their lips. Their own hair was more flamelike than misty here, and in patches, their robe smoked, tongues of black and white fire clinging to their robes. "I dunno. Even if he helped us, I can’t help but be uneasy around this guy."
+
+Ling Qi inclined her head. "I understand."
+
+"Not even gonna ask if I don't wanna go?" Sixiang laughed.
+
+Ling Qi smiled. "No point in asking a question I know the answer to."
+
+"Fair, fair. Shall we go then?"
+
+Ling Qi stood up. The water rippled under her feet as she turned to the frameless door, standing to one side of the little garden. That was enough for it to drift open, black petals whispering as they stirred on the cold stone that lay on the other side of the threshold.
+
+Sixiang lay a hand on her shoulder, and they descended down into the shattered gaol of Huisheng, the remnant shade of the Arch Heretic of the Dreaming Way.
+
+Ling Qi scanned his chamber carefully as they reached the bottom of the stairs and felt concerned. The chamber had changed. The dark stone of the ceiling glittered like starlight, the same way her hair did when her qi was active, and the bare, damp rock and mud of the floor was now blooming in patches. The lush black lotus flowers which infested Huisheng's bones were now spread across the whole chamber. Only the pool of liquid darkness and the isle itself were much the same. The bronze spear struck into the moldering loam of the isle burned with eerie green light.
+
+And there was Huisheng himself, a bare skeleton threaded through with thorny vines, bound to a pillar of stone, black flowers blooming from ribs and jaw and eye sockets, the proud rack of bleached white antlers sweeping back from the temples of his skull.
+
+“Student. Long has it been.” His raspy, grandfatherly voice bounced around the inside of her skull.
+
+Ling Qi  responded the same way, impressing meaning onto the world without a word. “My teacher sensed the searing, unless that was only the figment you left from our games.”
+
+A single flower petal broke off from the skeleton, drifting down to settle on the fathomless black pool without a ripple. She felt the impression of an indulgent smile.
+
+“A choice was made. This one felt the flame.”
+
+Ling Qi stopped a few footsteps from the edge of the pool and respectfully knelt, Qiyi's fabric pooling around her in the rustling flowers. Cowling herself in the mantle of Huisheng’s power to escape the Emerald Mourner had been her choice.
+
+Its consequences were hers, too.
+
+“What are your thoughts on the Crucible of Peoples, teacher? This student is curious.”
+
+Sixiang cast her a surprised look, but didn't say anything as they knelt at her side. Their qi was coiled tightly, ready to scatter from this place with all haste.
+
+“When the world groans for change, when traditions become shackles, it births such engines. It names itself the Crucible today. In the past, it bore other names. In the future, it will bear still more. I am beyond fear, but I am not beyond pity for the person who hollowed themselves and filled what was left with the hells’ purging fires. Study your foe, and pray that you need not give rise to its successor to claw your future into being.”
+
+Those words echoed through the gaol and through her head, stirring even her dantian. “You know my next question, teacher.”
+
+“The student has chosen to forget. You have earned the answer; you merely hesitate at its implication.” He intoned, “Choice is pain. Choice is strife. Choice is disunity. Choice is life, the grand dream of the Nameless.”
+
+As they had under his mantle when facing Brother Darksong, Ling Qi, Sixiang, and Huisheng spoke as one. She did know. She did. So why did she hesitate?
+
+“The sword is unkind. Its cruelty is difficult to bear. You have been immersed in the flame of surety, a sovereign's annihilating intent. What child would not shy away from what caused them such pain?”
+
+She grimaced at that observation. In the aftermath of the sovereigns’ clash, Ling Qi had turned her thoughts toward peace and harmonizing peoples and spirits with such abandon, but she had already chosen. Meng Duyi had spoken truly in that she had already rejected the fundamental premise of the Dreaming Way, that the path to transcendence via the sublimation of desire was worth pursuing. Ling Qi had chosen the path of Choice when she defied the Nightmare’s conundrum.
+
+And there were consequences to that. They, too, were hers.
+
+“Thank you for helping me order my thoughts, teacher.”
+
+“This is the least one might do for a student, however sporadic. Peace is a worthy goal. It will be assailed by spear and fire at every turn.”
+
+She understood that. She still thought it was possible to spread the notion of community much further than it stood in the world today. Perhaps one community could not contain everyone, but different circles could overlap. There was a notion there, one she needed to tease at further.
+
+“Hoh, plotting again with so little push. The little thief makes the elder proud. However, you have not come only for this.”
+
+She nodded. "The student wished to update you on her matters, but it seems this was not necessary.”
+
+“The teacher shall have an assignment or two, but now, I would hear your questions.”
+
+The qi of the room swirled and bubbled. She could sense the plucking threads. A new game would be afoot, a game she could lose. Sixiang's grip on her shoulder tightened.
+
+As always, there was a choice. The door was open. She did not rise.
+
+“This student would hear the teacher's thoughts on Truth and Choice, the interaction with sincerity and clarity.”
+
+She had been pondering a conceptual framework for holistically integrating these insights. She had come to an answer, but she wanted to test that answer further to find its limits and where it cracked apart.
+
+“A strange question to ask a storyteller, a thief, and a heretic.”
+
+Ling Qi felt the amused surprise in Huisheng’s words.
+
+"You gotta know the truth to make a convincing lie?" Sixiang ventured.
+
+“Debatable. Very debatable. The target's perceptions are the anchors of a good tale. One must know what will be accepted as true.”
+
+"But there are statements that simply are true."
+
+“Are there?”
+
+She accepted the leading question for what it was. “There are. Simple statements, maybe. 'I am Ling Qi. “You were jailed here. Xiangmen stands.'”
+
+“One could make arguments otherwise, teasing and dancing around your words, but toying with semantics is not useful here.”
+
+All of those statements could be made untrue in theory and twisting of meanings, but she was glad he was not engaging with her words on that petty level.
+
+"I wonder where choice lies when deception flies. How much of a choice is meaningful if the one making it is deceived or ignorant?" Ling Qi asked.
+
+“Choice is choice. Without the eyes of He Who Was, who can truly say all that could affect their thoughts past and future can be known, clear and true? A statement which is untrue when spoken may be made true if it is convincing.”
+
+Ling Qi considered Huisheng’s argument. No one really believed in their goal until it was done. Even their allies treated it like the play of a child, a bit of indulgent training for Cai Renxiang. At most, they saw some chance at a quick material grab. It was a story, until it was not. They had made it advantageous for the nobility of the southern Emerald Seas to make it true, and in doing so,  they had made their story real.
+
+Huisheng was not done.
+
+“Truth… I feel what She Who Walks in Radiance has done. She is an eternal scouring moment. That is the pitiless truth in radiance, which your thoughts skirt around and why you fear and are drawn toward such absolutes. But it is not your battle.”
+
+She glanced up at him in surprise.
+
+“That is for another to confront and break upon the wheel of their own understanding. The little thief chose rightly in breaking that brick to pieces before it was too deeply set. Your eyes are on should and will be, not is. Clarity, that your words are understood. Sincerity, that they are trusted. Abandon the scraps of radiant truth.”
+
+"Well, I ain't gonna argue with you when you're saying what I was thinking," Sixiang said. "But you haven't actually answered the question."
+
+The skull of the remnant spirit shifted, petals falling as it tilted down toward them.
+
+“The Truth of the Radiant is outside the Thief of Hearts. It is a mindless thing of dust and turning gears and forces beyond men. It is the paring blade which trims away all threads which might spoil the tapestry. This is not wrong. For a choice to be made, for one thread to spin on, others must be clipped away, and scattered scraps left on the side of the road. This is Choice, the sacrifice of Sovereignty, the path the Nameless left us to adjust our broken cradle.
+
+“The Truth which matters lives in the eyes and hearts of men. Will, belief, intent, and agency. These make a human from a doll of mud. Sincerity, the disciple wears better. For a storyteller to matter, the audience must not only hear but Listen. This is the foundation to the Way of Speaking, as sure as a swordsman learns how to plant his feet. Truth cuts away choice, and truth arises from choice. What you make real in their hearts when your words steal their doubts will become truth.”
+
+Huisheng concluded, “This is a thief's answer.”

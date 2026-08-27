@@ -1,0 +1,109 @@
+---
+id: 09b55d3f-7148-564e-add6-039ca0dca697
+page-type-slug: story-chapter-royal-road
+title: "Threads 530-Lakeside 5"
+slug: 0579-threads-530-lakeside-5
+partOf: forge-of-destiny
+position: 579
+ownLength: 1516
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3674022/threads-530-lakeside-5"
+royalRoadId: "3674022"
+---
+
+A whole shoal of life bloomed within, brilliantly glowing things that looked like stone but felt like plants, each protrusion teeming with mussels and waterweed, and bright, colorful fish.
+
+"How much of this is your memory? Ling Qi wondered. “I've never seen its like."
+
+"Coral. They do not appear in lake waters, but the reefs formed of their bodies are vast forests in the sea, whose branches scuttle many incautious ships," Xuan Shi answered fondly. He took them on a slow, circular course through the inner skull.
+
+"Will you miss sights like these?" Ling Qi asked.
+
+They sailed the course, making the circle, and then began to cut through the water toward the open socket once again.
+
+"This one thinks all will miss their first home, if they should leave it," he finally replied.
+
+Ling Qi thought of cold alleys and warm crates. "I don't know if that is true for everyone, but I suppose it depends on your definition of home."
+
+The little house she had shared with Meizhen, so vast to her, so small and plain to her friend. The kitchen where she had eaten so ravenously in those early days, she almost got sick, and the first bed she had slept in for years.
+
+Yes, she did miss that.
+
+"May this one have a question of his own?" Xuan Shi asked. One hand passing over the other, he turned the wheel of the ship, and the structure groaned sharply as it curved into a sharper turn, carrying them back out into the open water.
+
+"You do not need to ask permission, but yes," Ling Qi replied. The rigging gently creaked, and they began to sail around a spire of dull red crystal, heading back along the winding trail that was the skeleton's spine.
+
+"You gather people, as a gull gathers shining baubles," Xuan Shi began.
+
+She didn't know what a gull was, but she caught his meaning, letting out an amused huff. She couldn't deny the accusation.
+
+"You cultivate kin and community, the keeping of the circle, but what is it which feeds the roots you have made? What do you seek in it?"
+
+"What am I missing?" Ling Qi finished the trailing unspoken thought for him as they rounded the spire, and the ship tilted downward, smoothly diving in under the ridged spine overhead, carrying them into the vast cave of ribs half-buried in mud and stone.
+
+Xuan Shi inclined his head slightly, not contradicting her.
+
+"I want a place of warmth that is always there to return to," Ling Qi answered. "That seems obvious and cliché. It's both simple and not. Just having the walls and the people within them isn't enough. I know you understand."
+
+They had spoken before, after all. She understood well the privation of strangers, the way people's eyes turned away from unpleasant fates that they could tell themselves had nothing to do with them.
+
+Xuan Shi had more experience with the neglect of the ones who should care, but did not.
+
+"There is an essence of care, of binding and obligation, without which, a ship can only float adrift," Xuan Shi agreed.
+
+Ling Qi laughed. The light rippled, bands of darkness and light passing over them, alternating with their position under titan ribs. "I would have found the description distasteful, but it's true. You cannot hold onto someone without being held in turn. Love is a binding, but chosen bindings need not be an anchor.”
+
+She thought back to Still Waters Deeping and continued. "It can be. That is the focus of my considerations right now: how a community smothers, binds, and excludes, as much as it uplifts, empowers, and includes. Have you thought more about the stories you want?"
+
+Xuan Shi had listened while she was letting her thoughts meander, but he gave a small nod now. "Kongyou."
+
+She wrinkled her nose, but didn't interrupt.
+
+"They say, in their advice, that I must have a chance, that there is only a meager tragedy in the forgotten, pining extra who never even stands at the heroine's side. Yet their advice is genuine, in their way. There is more to them than a feasting crow."
+
+"I am not so shallow," Ling Qi grumbled, remembering the nightmare’s “advice.” "I won't insult you by asking if you are sure. I know you are."
+
+He nodded sedately.
+
+As the ribs descended, sinking deeper into the mud, they descended with them, skimming the muddy ground.
+
+"Tragedy is the ever present companion of striving. In all tales, the pit of failure looms along the Way. Strewn at the roadside are the broken and the stalled, those who walked until they could walk no longer. Tragedy is not…" He paused, searching for the words. "It is important to remember that this one is no chosen hero, and cannot live like one. The stories I wish to tell are of success built brick by brick and nail by nail, of new roads and new ships, of blooming innovation and small victories, and of journeys long that end by the hearth and home."
+
+Then, he posed a question to her. "Difficulties you posit, Ling Qi, with the weaving of community. This one humbly offers this. No ship is built for all seas to sail all waters. What is the purpose of the vessel you would craft?"
+
+Ling Qi frowned, looking up at the light gleaming off the surface far above. What was the purpose of her community, and what did she mean when she said that word? Was it her own little home and family alone?
+
+Once, it had been, but she didn't think so anymore. That definition was too small, too vulnerable, on its own. Was it Shenglu, and what she, her liege, and her fellow retainers would build among the people estranged enough to come out to the farthest cold corner of the province? Was it the project of the Emerald seas, that ragged canvas she was only just getting a proper feel for?
+
+Perhaps.
+
+"Renxiang has infected me," Ling Qi said fondly. "She might prefer the word convinced."
+
+"Little doubt," Xuan Shi said dryly, steering them out through a gap in the winding ribcage and toward the yawning cavemouth that opened up in the lake floor, into which the hind half of the skeleton disappeared.
+
+This time, he didn't ask if it was where she wanted to go. The inner walls glowed with shifting light, the contours of the prisms of elemental crystal that she had seen in the depths beneath the Cathedral of Winds drawn from her mind.
+
+Tentatively, she slid her hand further up his shoulder, brushing the high collar. What was the purpose of her ascent? Bao Qian had asked her that on their first date, and she had been left staring blankly at him like a fool. Power made one safe; that had been the extent of her thought on an ultimate purpose then.
+
+But it didn't. Not in the way she wanted to be safe.
+
+Blazing pits of pitiless radiance staring down. A friend whose greatest association with family was pain.
+
+"At first, it was to be safe and untouchable. That desire expanded, and I added the security of my family to that. It has kept doing so. Each person I care for brings their weave of connections with them," she explained. "I had decided, near the beginning of my ascent, that I would fly, even with all of these burdens that I chose to carry. My eyes were weak, and I could not see the whole of the mountain I had promised to lift." She laughed.
+
+Xuan Shi left her to order her thoughts without interruption. She tilted her head back, observing the rigging and its motions and the way the sail billowed despite the water.
+
+It wasn't her chosen metaphor, but a diplomat needed adaptation and translation. It was a good exercise.
+
+"That's why people make things, isn't it? To expand what a human can do and to make something greater than one person's efforts."
+
+"Cultivation complicates, but a ship sails further than most men will ever swim, and carries more souls than such a champion could or would. They make journeys once impossible come within reach."
+
+She nodded. "I want a vessel that will outlast me, and not need my hands to hold together. Something to carry all the disparate, clashing pieces together, without grinding them all down to uniformity. A point of unity that does not wash out all else. One small clan, or even one small town, cannot be safe on its own. The world is too large."
+
+"Not simple specifications." Xuan Shi turned his head. He looked at her from under the brim of his hat with concern. "Wisdom would be that one path cannot encompass so much. Disparity and sovereignty are at odds."
+
+"They aren't," Ling Qi disagreed. The cave mouth yawned ahead, shining forth in rays of eight colors. "And if you are not challenging common wisdom, then why even seek sovereignty? What else could be worth sacrificing so much?"
+
+"Many things, to many minds," Xuan Shi said wryly.

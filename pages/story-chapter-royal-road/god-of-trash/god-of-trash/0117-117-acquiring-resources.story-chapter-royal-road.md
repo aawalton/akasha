@@ -1,0 +1,125 @@
+---
+id: a990dff1-51ee-569e-abab-5cb6f8cb3dcf
+page-type-slug: story-chapter-royal-road
+title: "117. Acquiring Resources"
+slug: 0117-117-acquiring-resources
+partOf: god-of-trash
+position: 117
+ownLength: 2222
+unit: words
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2401444/117-acquiring-resources"
+royalRoadId: "2401444"
+---
+
+It wasn’t far, as the bird flew, to the ruins of Purple Dawn Academy. As mages who barely needed to stop or rest, it was even quicker, though slowed somewhat due to their inability to use the roads. Neither Rhys nor Mouse were much outdoorsy people, and if not for his second childhood with Straw and Bast in the wilderness, Rhys would have been completely useless. Instead, he could handle the absolute basics of navigation, and kept them pointed in the right direction, even as they detoured around thick tangles of brambles and undergrowth and wound wide around glens full of dangerous bestial auras, threatening to attack anyone who drew near.
+
+Purple Dawn Academy wasn’t far, but it wasn’t near, either, as it turned out. Rhys had forgotten how good his mage eyes were, especially after three years in a cave with nothing more than a hundred feet away to look at. Purple Dawn was visible from the Empire’s new city, but it was actually on the opposing mountain, across an entire valley, over a series of foothills, and up the mountain it stood on. They ran at Mouse’s top speed, as the less physically capable of the two of them—she was still Tier 2, and wasn’t much of a physically-focused mage—and didn’t stop for breaks, and didn’t arrive at Purple Dawn until the first rays of violet light broke over the horizon the following day.
+
+The wall loomed. Rhys and Mouse slowed. Once, there had been a barrier here. Once, this had been the boundaries of one of the most powerful academies in the Alliance.
+
+Now, there was nothing but an old stone wall. No Empire soldiers patrolled it. No one seemed to care at all.
+
+Mouse approached the wall, then flinched back. She stared at it, almost afraid to cross over. Slowly, she reached out, hand hovering just outside the stone, hesitating. She couldn’t. It wasn’t real.
+
+Rhys hopped up to the top of the wall and offered her a hand up. “Come on. We don’t want to wait for someone to come find us, do we?”
+
+At that, Mouse jolted back to life and hopped up. She took a deep breath and nodded. “Let’s go.”
+
+The second they crossed over the wall that had once marked Purple Dawn’s boundaries, Rhys beelined to the once-trash heap. Mouse trailed after him, a little confused. “Why are we coming here? I know you like the trash, but…”
+
+Mouse jolted to a halt. Her jaw dropped.
+
+Rhys gazed over the ravine with misty eyes. He sniffed, deeply proud of what he saw. It was incredible. Truly incredible.
+
+Rats tilled even rows of potato plants. Tall, leafy green tomato vines crawled up sticks, cared to by small raccoons. A small troop of rabbits patrolled the borders, ready to attack anyone who came to steal the goods. And at the head of it all, sitting on a throne crafted from the remains of Rhys’s trashy furnace, sat a large raccoon.
+
+One of the rats scurried by with a potato, and the raccoon jumped to its feet and hissed. The rat jolted and dropped the potato, and the raccoon signaled. One of the other rats scurried over and took the potato, carrying it to a stockpile instead of running off with it.
+
+“I’m so proud,” Rhys whispered, shaking his head. How beautiful. It was better than he could have imagined.
+
+The raccoon’s head snapped around at the sound of his voice. All the rats, too, froze. Some scurried for safety, vanishing into the forest, but the rest, the ones who recognized him or had heard the stories, rushed at Rhys. Mouse yelped and scrambled up into a nearby tree, but Rhys knelt and held his arms out, welcoming them. Like a bunch of squirmy puppies, the rats and raccoons leaped at him, welcoming him in turn with happy squeaks and jumps. Some reached out, offering their paws just as they had before, during the tournament.
+
+“I missed you guys,” Rhys said, patting all the ones he could reach. He drew in, absorbing all their impurities. They weren’t as powerful as he remembered… but then, he was more powerful now. Of course he wouldn’t find their impurities as powerful as he once had.
+
+The woodland creatures let out a collective sigh, deeply relieved. While all the rest of them sagged back, though, one walked forward. The foreman raccoon grabbed Rhys’s hand and pulled, glancing over its shoulder at Rhys expectantly.
+
+“What? You want to show me around?” Rhys guessed.
+
+The raccoon nodded and pulled again.
+
+“I’m coming, I’m coming!” Rhys said. He chuckled, overjoyed to see the garden in such good shape. The potatoes spread their big leaves. The tomatoes flourished. The Empire hadn’t torn down everything. It hadn’t ruined everything. There were still things, still places, its corruptive influence couldn’t reach. Still good things in this world, still pure and beautiful things that were worth protecting.
+
+He turned to the raccoon, as it led him past the rows of neatly-planted tomato plants. He remembered using trash skills to create a few false seeds from the tomato sauce, but as far as he recalled, he’d never actually received tomato seeds. The woodland creatures couldn’t—and besides that, clearly hadn’t—used his weird body horror techniques to grow tomatoes. That meant they had real tomato seeds, but where had they gotten them from? “Where did you get these seeds?”
+
+The raccoon chirped, then warbled a bit, gesturing with its paws. Rhys nodded a few times, then sighed internally. Right. It’s a raccoon. It had heightened intelligence due to its mana absorption and Tier 1 or so magehood, but it still fell far short of whatever Tier Az was at, that granted beasts the ability to speak.
+
+The raccoon fell silent as it realized the same thing Rhys just had. Frustrated, it gestured at the sky, then ran off, grabbed a stick, and ran back. Quickly, it sketched in the dirt next to the garden, then gestured at the image.
+
+Rhys leaned in. A surprisingly accomplished portrait of a young man stared back at him. He blinked, then looked at the raccoon. “Laurent?”
+
+The raccoon nodded.
+
+Rhys frowned. “But why?”
+
+From the depths of his memory, a dusty image crawled forth. Him, as Rina, in the potato chip stall, clutching Laurent’s hand. “I’d do—” stopping just short of saying anything, and a promise. His eyes widened. I asked him for tomato seeds. No way. Did he come back here and give the raccoon seeds after… His expression darkened. After he executed me?
+
+A strange expression crossed over his face, half a smile, half a grimace, and he snorted, unable to laugh or cry, but wanting to do both. Laurent had…? But why? Why honor that promise, when he knew Rhys, and by extension Rina, were no longer of this world? Not dead, but as good as?
+
+He put his face in his hands and took a deep breath. No, wait. I’m thinking rationally. Laurent had… strongly suspected that Rina and Rhys were the same person, not realized for certain that they were. He’d clearly had some attraction to Rina, misplaced though it was. It was possible, entirely possible, that Laurent knew Rhys was Rina and was consequently mourning Rina, and had thus honored their promise as a sort of memorial for what might have been. Leaving rationality further behind, it was also possible that he was deep in denial and searching for Rina to this day, desperately denying that she was Rhys’s alter ego.
+
+Rhys pinched his chin. Did I accidentally create a tragic opera protagonist? Either that, or… maybe he was remembering wrong, but didn’t ‘Much Ado About Nothing’ start a little like this? He couldn’t remember how that one ended, but he was pretty sure the Bard didn’t execute all the players at the end in a bloody melee, given that it was a romantic comedy, so he was probably safe… right?
+
+There was one loose end left, though, so he turned to the raccoon. “That guy… he doesn’t still come around, does he?”
+
+The raccoon tilted its head. It started to shake ‘no,’ then paused, then waggled its hand instead.
+
+“A little? How often, once a year?”
+
+The raccoon nodded, waggling its hand a little at the same time.
+
+“A little more than once a year?”
+
+A nod.
+
+“Twice a year?”
+
+A shake.
+
+Rhys nodded. “So probably once a year, and maybe if he’s in the area. That… kind of tracks. What days does he usually come?”
+
+The raccoon stared at him, and Rhys stared back, then coughed. “Er, right, sorry. I have no idea how you’d convey that. That’s my bad.”
+
+The raccoon waved its hands, putting that behind them. It grabbed Rhys’s robes instead and pointed, first at the storehouse, then at Rhys, then shrugged.
+
+“What should you do with the potatoes? I’m glad you asked,” Rhys said, breaking into a grin. “Listen…”
+
+He didn’t tell the raccoon their hideout. It wasn’t that he didn’t trust the raccoon, but instead, that this was a big operation, with lots of moving woodland creatures in it, and any one of them could be weak-willed and give in to an interrogation… or, more likely, be a little incautious and lead the Empire to the hideout. Instead, with a little hand gesturing, a little drawing, and a lot of talking, he organized a place in the woods where the raccoon would leave the goods, and an agreement to meet at the site once a month to discuss the location of the next one. It wouldn’t be necessary forever, if things went his way, but at least at first, until they got things up and running and got their legs under them, it would be easier to negotiate a ‘safe space’ where the insurgency against the Empire and the raccoon with a potato-growing hobby didn’t obviously intersect. Sure, it was a trashy tactic he’d adapted from drug dealers, but hey! If it worked, it worked. And potato chips were drugs, after a manner of thinking.
+
+At last, everything organized, he turned back to Mouse. “Ready to head into your old stomping ground?”
+
+“I’ve been ready for a while. I hope Lira doesn’t get bored before we arrive,” she muttered.
+
+“Hey, don’t poo-poo potatoes. Those tubers are going to make us rich,” Rhys declared.
+
+“Are you going to dress up again?” she asked.
+
+Rhys blinked. “I have no idea what you mean.”
+
+“I was watching you, remember? I fell asleep the first few times, but eventually, I managed to stay awake past whatever spell you were casting—”
+
+Rhys coughed embarrassedly. Whatever spell we were casting, aka Bast’s fist to the back of your head, haha…
+
+“—and I saw everything.” She paused, blushing. “Well, not—not everything, everything. I mean, the—uh, you know—”
+
+“Your innocence was preserved. I get it,” Rhys said, nodding. “Don’t worry, I won’t tell anyone you might have seen a man’s naked body.” He looked at her. “Is that a big deal…?”
+
+He almost added ‘in this world,’ but managed to bite it back at the last second. It could be a big deal even in his ‘progressive, modern’ world, so he wouldn’t be shocked if the answer was ‘yes,’ but on the other hand, Lira did flaunt about almost naked, so… who knew? In the 1600’s or so, it was fashionable for women to hang a whole titty out of the top of their dress, and that was just a true fact, not to mention the 1500’s trend of male beyond-skintight tights, high heels, and a codpiece. There was even a historic era where women in his world dressed like Lira, sans the wetness, a trend that would shock the modern world if ordinary women simply walked about all but naked. And of course, there was Ancient Greece, which was a real ‘enough said’ argument, to him. On the other hand, there were modern institutions that required a woman to even hide her eyes, and historic institutions that considered seeing a fellow human’s hair as an incredibly sexual experience, so the pendulum could really be swinging in any direction. In summary, not only did he not know what kind of modesty and innocence were expected in this world, but neither did he have a reasonable baseline or expectation of what modest and innocence might look like. There were extremes in all directions in history, after all. As someone who’d been kind-of raised in an orphanage and then absconded into the wild, then absconded a second time into a cave, then absconded a third time into the garbage, then spent three years in a mine, he really had no idea what society expected of anyone, let alone its specific instructions for women’s modesty.
+
+“Er, it’s… not a huge deal, I guess, but um, it’s the kind of thing that’s only meant to be shared between husband and wife…”
+
+Ah. Rhys nodded, instantly forgetting all his arguments about society. She was one of those. An innocent cinnamon roll that must be protected. He patted her head. “Don’t worry. I won’t subject you to anything like that.”
+
+“Uh… thanks?” Mouse said, ducking away from his hand.
+
+“Come on. Let’s go meet up with Lira before she gets bored,” Rhys said, and led the way through the academy toward that very familiar building.

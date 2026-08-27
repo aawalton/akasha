@@ -1,0 +1,159 @@
+---
+id: 1b38e2b8-e2a6-5030-86ae-19168e37305a
+page-type-slug: story-chapter-royal-road
+title: "Threads 95-Diplomacy 4"
+slug: 0117-threads-95-diplomacy-4
+partOf: forge-of-destiny
+position: 117
+ownLength: 1960
+unit: words
+publishedAt: 2021-06-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/699461/threads-95-diplomacy-4"
+royalRoadId: "699461"
+---
+
+Ling Qi had secured an in. Wang Chao seemed to be in a pretty good mood so she suspected he’d be amenable to more weekly training sessions. But Ling Qi thought maybe she could push for more.
+
+“It might be interesting to make something more of it,” Ling Qi mused.
+
+<Oh, you’re going for it? I guess the iron isn’t gonna get any hotter. You go, Ling Qi,> Sixiang silently encouraged her.
+
+“What did you have in mind, Miss Ling?” Wang Chao asked.
+
+Rather than answer directly, Ling Qi asked, “Alingge, do you think you might be interested in training with us sometime?”
+
+Alingge came up short, looking briefly bewildered by the sudden invitation. “I would not be opposed.”
+
+“I assume you wouldn’t be opposed to allowing Liang He along either,” Ling Qi said, turning back to Wang Chao. “And maybe one or two others from time to time?”
+
+“It would be more difficult to pass on the lessons you are looking for like that,” Wang Chao said slowly, but he was not dismissing her suggestions out of hand. She caught him looking briefly at Alingge. “Would your lord truly be fine with that, Miss Alingge?”
+
+The girl twitched. “Lord Luo does not seek to leash his followers.”
+
+Wang Chao held up his hands, speaking quickly. “I meant no offense!”
+
+Her head really was in the gutter. Ling Qi blamed Sixiang.
+
+<Guilty,> they whispered unrepentantly.
+
+That aside, looking at them talk, she didn't get the sense that Wang Chao was interested in Alingge that way. Ah, that was it. Wang Chao was isolated. The Wang were new to their lands and position, so they had few vicontiel vassals, and not even that many baronial vassals. So compared to someone like Luo Zhong, Wang Chao wouldn't have the wide base of vassal acquaintances needed to really play the same game as the other comital scions. But a comital scion was still comital, and together with someone of her position pushing it...
+
+“I’m just not very skilled at setting up gatherings,” Ling Qi hinted heavily. “I was hoping you might assist me with that as well. Of course, I’d be happy to accommodate anyone you wanted to invite as well.”
+
+Wang Chao brightened up considerably, and she was certain that she had hit the mark. “Oho, I see. That is what you mean! An interesting proposition, Miss Ling!”
+
+“Gui doesn't quite get it, but Big Sister wants to fight lots of people?” her little brother questioned. He was resting his forelegs on the lip of the crater, peering up at them.
+
+“Something like that. You could meet other spirit beasts as well, I’m sure,” Ling Qi said, crouching down to rub his dusty head. “I think it’s a good idea.”
+
+“Miss Ling’s ambition has grown since we traded our first words,” Liang He said dryly, only to quail as she shot him a look.
+
+“Do not be like that, Liang He,” Wang Chao said, clapping him on the back. “We can use more sparring partners.” Wang Chao was increasingly taken by the idea of having something like Luo Zhong’s parties to his name. “Hm, hm, I’ll have to look into booking one of the good training grounds. And we would need sparring licenses…”
+
+“I can see to those if you give me a list of names,” Ling Qi offered, standing back up. “I would not want to make you do all of the work.”
+
+“Yes, of course,” Wang Chao said. “We’ll have to speak of things later. Still, that’s going to take some time to arrange, particularly with deployments!”
+
+Ling Qi winced. “Ah, I hadn’t thought of that.”
+
+The stocky boy nodded enthusiastically. “Things slip by all of us. So for now, why don’t we just decide on a time for me to give you some of that advice you sought?”
+
+“Thank you very much,” Ling Qi replied, clapping her hands together and bowing her head. She found her smile was genuine. This… wasn’t so bad.
+
+***
+
+They scheduled their lessons for later that afternoon, and with a bit of wrangling, every third day for an hour in the evening. Wang Chao was not an inspired teacher, but Ling Qi listened carefully to his words anyway as he began to walk her through hardpoint tactics, herding maneuvers, and other such things. There was a surprising amount of social maneuvering and manipulation when it came to battlefield tactics. A cultivator could just blast away with their biggest techniques, overrunning enemies with superior power, but it was wasteful.
+
+Instead, Ling Qi could accomplish so much more with a little cunning and tactical sleight of hand. Perhaps she had been engaging with full battlefields entirely wrong. Rather than thinking of it like a duel with a whole mess of people on either side, she should have been thinking of battles more like… very violent heists.
+
+However, even as she drank in everything that Wang Chao had to say on matters of tactics and war, she found herself frustrated in other ways. Her cultivation still felt sluggish. Each cycling of her qi sent a twinge of pain up her spine, making it difficult to relax and meditate. Thankfully, it wasn’t so bad as to cause her to fail in opening meridians. With the help of Suyin’s meridian clearing tool, all eight of the meridians she needed to open for cultivating techniques next month were open, but…
+
+She still felt slow.
+
+Ling Qi did not need Sixiang’s advice to know not to mention her complaints in Wang Chao’s hearing, not when she was closing in on the fourth stage of the green soul realm despite her sluggishness. Besides, Zhengui was really enjoying himself, as far as she could tell. She wouldn’t want to dampen his spirits.
+
+***
+
+“You have been quite the butterfly recently,” Meizhen said dryly, entering the worn down circle of foundation stones. “Beast, inform me where you have hidden the real Ling Qi.”
+
+“Ha ha,” Ling Qi said, saying the sounds flatly. “I wasn’t that bad.” She didn’t turn from her seat on the round boulder, keeping her eyes on the glittering beam of moonlight ahead of her. Sixiang was working hard, but they couldn’t quite manage to manifest without expending a great deal of qi yet.
+
+“You were,” Meizhen disagreed, her flowing steps carrying her to stand beside Ling Qi. “I was as well.”
+
+“You’ve improved more than I have. I barely managed to stumble through a dinner with Bao Qian without making a total ass of myself. But you...” Ling Qi gave her friend a sidelong look, a mischievous sparkle in her eyes. “You’ve had success.” Tinkling laughter, Sixiang’s laughter, drifted on the wind.
+
+Meizhen’s eyes flew open wide, and her cheeks pinked. “What?! How did you—?!”
+
+“She didn’t. She’s guessing,” Sixiang’s disembodied voice called out. “We just heard that Bao Qingling came to her cousin in a fluster.”
+
+“Gotta work on that reaction,” Ling Qi teased.
+
+“Wicked girl,” Meizhen hissed, turning her face away. “Is that why you invited me out to this ruin?”
+
+“Partially,” Ling Qi said, still grinning widely at her friend's flustered expression. This kind of thing… She was still deeply wary of it in her heart, but Bai Meizhen was strong. No matter what happened, she was sure that Meizhen was in control. “So,” she said eagerly, “tell me what happened.”
+
+“I do not see why I should share such private matters,” Meizhen said huffily, refusing to look at her.
+
+“C’mon, I’m sorry for teasing,” Ling Qi cajoled. “But please, I have to know how you managed to get that girl to notice what you were trying to do.”
+
+“She is not half as dense as you,” Meizhen shot back.
+
+Ling Qi recoiled dramatically as if wounded, and the wind echoed with snickering. “She’s got you there,” Sixiang said.
+
+“Now you’re just being cruel,” Ling Qi complained. “Please tell me?”
+
+Meizhen finally turned to look at her, though her cheeks were still pink. “If you must know, I— That is—” It was bizarre to see the usually perfectly composed Bai Meizhen stumbling on her words.
+
+“If you really don’t want to say, I won’t keep pressing,” Ling Qi backed off.
+
+“No, it’s just—I was aiding her with the cataloguing of factors to the toxins which the medicine hall was studying, and conversation turned to issues of betrothal. She mentioned finding all of her suitors to be blithering irritants, and I concurred,” Meizhen said.
+
+It was weird that Ling Qi could picture that conversation so easily in her head. She remained silent, not wanting to interrupt her friend’s momentum.
+
+“She then lamented that she could not get a match with someone as competent as I, and… I also agreed.” Meizhen coughed. “I may have… complimented her as well, and er… lamented that I was not in position to grow closer to her.”
+
+“And then what happened?” Ling Qi asked, unable to help herself as she leaned forward.
+
+“She told me to stop making fun of her,” Meizhen said. “I... told her I was not.”
+
+Ling Qi almost winced at the high-pitched squeal Sixiang let loose inside of her head before the muse devolved into babbling about how cute the scenario was. “She believed you?”
+
+“... There may have been some convincing involved,” Meizhen replied evasively.
+
+“You kissed her,” Ling Qi accused.
+
+“I asked permission first,” Meizhen defended. “Qingling… may have thought I was still jesting however.”
+
+It was only her familiarity with Meizhen that told her how very tense the girl was. She couldn't imagine how hard that must have been for her after… “Congratulations, Meizhen.”
+
+“I even,” Meizhen said, flushing further, “embraced her briefly at our parting.”
+
+Ling Qi and Meizhen ignored Sixiang’s wolf whistle. “I don’t understand how you can be so forward. You’re so much braver than I am.”
+
+“Have you ever met an individual that you would consider doing such things with?” Meizhen asked, raising an eyebrow.
+
+“No,” Ling Qi admitted. It was a hard thing to even picture without uglier thoughts corrupting it. “But my statement stands.”
+
+“You are braver than you think, Qi,” Meizhen said, briefly resting her hand on Ling Qi’s shoulder. “Now, what is it you are working on out here?”
+
+“Sixiang has been trying to teach me to move more like they do.” Ling Qi sighed. “But I’m having a hard time with it.”
+
+“Sixiang is an immaterial spirit,” Meizhen pointed out.
+
+“Right, right, and I’m not at a level where I can replicate that,” Ling Qi said, frowning at the worn stones. “Not for long anyway. We’re trying to meet each other halfway.”
+
+“Ah, you are trying to step into the liminal realm,” Meizhen said, understanding dawning on her.
+
+“Pretty much! I can pull her in when she’s asleep, but doing it consciously is hard!” Sixiang agreed.
+
+“Wait, what’s that term?” Ling Qi asked.
+
+“It refers to the space where certain spirits dwell, not wholly outside the material realm, yet not wholly part of it either. It is also called the realm of consciousness, or the Father’s Hearth by some,” Meizhen explained academically, elegantly seating herself on another stone. “It is typically accessed through dreams and mirrors. The technique which allows communication with Grandmother Serpent makes use of it as well, or so I have been taught.”
+
+“Huh. I just call it the Dream.” Ling Qi shrugged.
+
+“Not inaccurate,” Meizhen conceded. “I am not sure I can assist much on the matter.”
+
+“That’s fine,” Ling Qi replied. “Despite what you said earlier, I mostly wanted to hang out with my best friend, even if I’m taking dance lessons while I do it. Gotta learn to split that focus, you know?”
+
+Meizhen let out a sigh, rubbing the bridge of her nose. “Well, I cannot say that I object.”

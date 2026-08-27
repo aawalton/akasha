@@ -1,0 +1,169 @@
+---
+id: e3a9366f-386a-5874-962c-291369a95d41
+page-type-slug: story-chapter-royal-road
+title: "Threads 269-Perception 6"
+slug: 0307-threads-269-perception-6
+partOf: forge-of-destiny
+position: 307
+ownLength: 2501
+unit: words
+publishedAt: 2022-12-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1062146/threads-269-perception-6"
+royalRoadId: "1062146"
+---
+
+“I’ll have to hope enough people are enraptured by what could be to counterbalance any disagreements about what was,” Ling Qi mused.
+
+“Guess I’ll just have to hope you're as good at the hustle as you are at the flute,” Yu Nuan quipped.
+
+“Is it a hustle if you believe what you're saying?”
+
+“It's especially a hustle then.”
+
+“Such a cynical junior.” They both looked up to see Bian Ya approaching them again. “But I am glad you took my advice to heart. Positive bonds are far more stable than negative.”
+
+No one wanted to see themselves in failures. It was better to show a model of success and direct people towards it. Those had been the older girl’s words. Ling Qi wasn’t sure it was as definitive as that, but for this project, she agreed.
+
+“Regardless, let’s get to the final preparations,” Ling Qi said. “We have a show to put on.”
+
+***​
+
+The stage rose from tightly woven roots and vines, pale green shading into a rich dark brown as bark grew in, filling the width of the field. Pillars and risers and rafters shot up like new shoots in spring, and they were swiftly covered by glittering curtains of dark purple, casting the area all in shadow and concealing the figures on the stage.
+
+Disciples with drinks and food in hand began to arrive, drawn by the curious sight. They shuffled awkwardly between the many beasts drawn by the concentration of Zhengui’s qi. A show by one of their hosts, the word disseminated. A grand performance of many of the Inner Sect’s musician disciples as a send-off to one of their own.
+
+What kind of performance would it be? What could need such a grand setup? A play? Which one? There were many popular theater troupes and many playwrights these days. Something old, others said, to fit the theme of the party. Something poorly understood and ill thought out, grumbled some, who found the whole business crude or insulting or both.
+
+Yet as time wore on and the sounds behind the curtain began to fade, the guests, enthusiastic, reluctant, or merely interested, began to gather. If nothing else, the field near the stage was where everyone else was going, and it would not do to be left out.
+
+The performance began with a rumble of thunder, the drifting clouds overhead growing dark and swelling with moisture and flashes of heavenly power. Then with the cooling of the air, the wind picked up, and tendrils of mist flowed from beneath the curtains, thin and wispy, but spreading swiftly through the field.
+
+The curtain rose upon a scene in shadow. The ground between a towering grove of titanic and primeval trees was strewn with countless bones. The low bass notes of a playing lute became the rumble of great beasts. Briefly glimpsed figures of costumed disciples could be seen before the strumming music bent their shadows into beastly titans.
+
+The Stag God, depicted with a shaggy head and jagged horns, twisted and broken many times, spoke in a voice of thunder of lowly men who no longer knew their place and of the leader who raised them above their station and filled the minds of the forest people with defiance. He spoke of faraway lands where the gods were falling one by one to the machinations of man.
+
+A chorus rose to match the music, intertwining with the actors’ voices to boom and shriek. The shadow of vast wings wide enough to blot out the sky covered the stage. The prideful call of the Eagle God resounded, and he  laughed off the Stag God’s cowardly fears, declaring that the storm of his wings alone would end this nonsense.
+
+A great and terrible wolf with crimson eyes surrounded by his lessers, the Wolf God snarled of kin stolen by trickery and made weak by luxury, whose submission was an insult to his strength and who would need exterminating alongside the humans for the strength of the pack.
+
+A mountain stirred and rumbled. The Bear God, a being of muscle and fur and power, vowed to end the noise of squabbling human life which disturbed his slumber.
+
+A hissing voice of thousands in the buzzing of insects and the chittering of rats joined the chorus. The Vermin God agreed to lend their might, for man was growing wise and canny in the protection of their stores, and food would grow scarce all too soon.
+
+Food would never be scarce, so long as they existed, declared the next, a lazing shadow that lay across a mountainside like a divan. The Tiger God looked down imperiously upon the others, and when the others turned voices of annoyance upon them, the flick of their tail was a crack of thunder. Let none doubt their resolve, for like the Wolf God, they had wayward kin in need of punishment.
+
+Let it all be washed away like the floods of old, declared a burbling voice, a shadow in the waters, the River God, that degenerate offspring of the fallen old gods, and he received contempt from his fellows as was customary.
+
+The weakest of their number, even the bold and stupid Eagle God, thought him foolish.
+
+And so, none paid mind to the smallest of their number. Cunning and cruel, the Spider God watched his fellows in silence as the march began.
+
+As the music rose, the view upon the stage panned up into the clear blue sky.
+
+***​
+
+“What a founding tale you southerners have.” Bai Meizhen observed the play of illusion and music with some amusement.
+
+“It’s convenient,” Bao Qingling said sourly, her expression neutral. “Their number means the playwright always has enough figures to spread undesirable traits across, though there are commonalities.”
+
+“Who would dare alter a founding tale?” Xiao Fen asked.
+
+“We aren’t the Bai. The original tales are long lost. Your friend merely chose the orthodox Cai version.”
+
+“I wonder about that,” Bai Meizhen mused, a smile playing on her lips.
+
+Ling Qi was rarely orthodox.
+
+***​
+
+Words died down as the glittering blue sky of the stage panned down to a brighter set. As light rain fell upon the stage, a soft background of strings and bells transformed into the patter of rain.
+
+Under the rain, a new voice rose in a strident song. Tall and athletic with dusky skin and androgynous features and garbed in the royal finery of an age long past with hides dyed in dark greens and blacks and wearing a headdress of horns, Tsu sang the first lines of the scene, his hands thrown out wide before an audience of phantoms, the gathered and fearful people of the forest.
+
+And despite the song and illusion, it was clear it was their hostess.
+
+***​
+
+A tall, thin young man frowned up at the stage, brows furrowed, and lips pressed together in a thin line.
+
+“You are displeased, Sir Meng,” said his companion, a young woman with fang-like tattoos on her cheeks and rough hide garb. She leaned against the broad side of a stag.
+
+“How can I not be?” Meng De replied. “There is a reason that the great Diviner is portrayed as a voice offstage in such plays. It shows immense ignorance to do otherwise. It puts all of this shallow imitation in the light it deserves.”
+
+The girl, Alingge, child of the dwindling hill tribes, watched as their host confronted another in similar finery in a riddle game and claimed his victor’s right not as king, but as brother, reaffirming the bond of forest peoples and hill peoples. Her lips twisted in a slightly bitter smile. “And if it is not ignorance?”
+
+Meng De looked as if he had bitten into a lemon. The idea that members of his own clan, that the subversive children of Meng Diu, would fall so far as to support such an untraditional retelling was shocking. “Then that is worse. Tsu was no mere man. It is an insult to even imply that you aspire to take or improve on his labor.”
+
+The girl made a sound of acknowledgement, but she did not take her eyes from the stage.
+
+***​
+
+Unity. Communication.
+
+The gathering strength of an alliance, kin and not, marshaled against the coming of the beasts. The Diviner sang the future and bent the ear of every tribe, a swelling confederation of forest and hill.
+
+At last did he turn his eyes south, to the mountains. There astride his brother, the noble Horned Lord he came to the foothills of a great fiery mountain, where ash rained like snow, and met with the great lord of the skies, Khan of the Clouds. And here he found only stubborn pride, his words and gifts spat back, his warning laughed off. Let the Beasts come, declared the Sky. We are mighty, the hunters of Dragons, and our arrows alone will slay them.
+
+Tsu was assailed by those arrows, those slings, those stinging bolts, and he bore them with strength and dignity as he retreated, raising no hand to his fellow men, for in their pride, they had wrought their downfall, if not this age, then in another. And in his restraint, he sowed the clouds with doubt.
+
+***​
+
+“A token of support. How kind of her.” Luo Zhong wore the faint smile that was as much a part of him as his shoes or his cloak.
+
+“She’s a good ally,” laughed Wang Chao. “But a bit of a show-off! I can’t say I dislike it.”
+
+“Do you actually believe you can tame the clouds when no others could?”
+
+Wang Chao shrugged. “Ah, the details are over my head. But men are men, aren’t they? Let in the ones who are sensible. Crush the rest. No waste, eh?”
+
+“I never can tell if you are profoundly idealistic or profoundly simple,” Luo Zhong said, and for a moment, he showed a real expression on his handsome face. Befuddlement.
+
+“I know what I am, Luo! Someone has to break things down before my kin builds them up!”
+
+***​
+
+It was in the cold mountain peaks that Tsu came to rest and tend to his wounds, and there, he met the aid of the mountain people, the dwellers of icy fields and frozen caves. There again, he spoke, and here, the people listened. The shaking of the earth was the gathering of beasts, the growing ferociousness of a land awakened against all.
+
+Here, too, his words were heeded, and though the mountain folk were few, warriors marched with Tsu all the same.
+
+***​
+
+“Is that part usually in there? It seems kinda convenient.” Ma Lei scratched her head.
+
+She was really glad for her sis, getting to participate like this, but she really wished they’d get on to the fighty bits. The volley of the cloud nomads had been a really cool effect though! She was pretty sure she could recognize Jun’s effects in the rain and wind.
+
+Gun Jun, the guy her sis was so sweet on, watched raptly, his eyes darting around to the figures on the stage. The poor guy was standing at drill attention. He really needed to learn how to relax. “The Diviner was always said to have been healed by mystics in the south, but it’s usually portrayed as far-flung hill tribes. Most scholars tended to say that it represented peoples that were later wiped out by the cloud tribes.”
+
+“Huh.” Ma Lei wondered who was right. Well, she’d side with Lady Ling, if anybody asked. She was just lucky to be here. All of them were. The Sect had quietly added fifty new slots to the Inner Sect and scooped up a bunch of third realms and high seconds stuck in the Outer Sect to fill out these provisional ranks.
+
+She’d not have gotten here without the Cai, Lord Gan, and Lady Ling. If they thought the Empire could talk to these folks, they were probably right.
+
+Oh! The music was getting dark! Things were about to get good!
+
+***​
+
+At last, the great confederation of tribes, the alliance of men, stood among the roots of Xiangmen, the Heavenly Pillar, the great spirit of the wood and dell. Abundance spread with its roots, and here, Tsu made his most fervent plea, for though they had the warriors to fight, their kin would not survive the reckoning unprotected. Only here in all the lands could mortals survive a war of gods.
+
+Tsu stood at the trunk and spoke long and passionately of their peoples’ need and devotion. He promised that he would lead them, protect them, and guide them to care for wood and dell, to preserve always these Emerald Seas, as mighty Xiangmen had done once in the Age of Woe when its canopy had sheltered all life from the falling stars and the wrath of the earth.
+
+Once again, ruin was coming. Once again, he begged for the succor of the Heavenly Pillar, and he pledged that their children and their children’s children would live to give back.
+
+Tsu spoke and prayed and pleaded for seven days and nights as the rumbling of the earth grew harsh, as the world began to darken, as hurricane winds tore the trees, and as titan footfalls crumbled the earth.
+
+And at last, ancient bark flowed like water, a hollow and passage among the roots, and the people streamed in, calling their prayers and thanks to the great tree. Tsu gave voice to his exultation, and he rejoined his warriors, whose fierceness and valor grew beyond words, knowing that their kin were safe so long as they held.
+
+And the beast gods came for them. First of all came the impudent and thoughtless Eagle God, whose wings covered the sky and whose shriek alone struck men dead, the sound enough to pulp flesh and shatter bones. And yet the titan of the air was alone for he had flown ahead of his allies for glory and pride.
+
+Tsu met him in the sky among the rain and the storm, and there, the Eagle God was halted. For though Tsu was no warrior, his mind was sharp and his hide was tough, and he knew the nature of his foes. Ten thousand grapnels and ropes and bindings dragged the Eagle God down to earth, for he had eyes only for the foe and not the insects beneath him.
+
+And when his death was struck, it was not by Tsu nor the Horned Lord, but by the hands of lowly warriors.
+
+Standing atop the corpse of a god, even the least of men ceased to be lowly.
+
+And so it went, a grand finale in more ways than one, noise and thunder to be remembered for months to come.
+
+An announcement of intention that few would forget. A gauntlet laid down. A guarantor of success.
+
+***​
+
+For the first time in a long time, Ling Qi felt sweat on her brow as the curtains closed. She only hoped she wasn’t overestimating herself.

@@ -1,0 +1,87 @@
+---
+id: b6ba7da7-06cd-59d0-b693-d3638a1e6b1b
+page-type-slug: story-chapter-royal-road
+title: "Threads 20"
+slug: 0029-threads-20
+partOf: forge-of-destiny
+position: 29
+ownLength: 2036
+unit: words
+publishedAt: 2020-12-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/596647/threads-20"
+royalRoadId: "596647"
+---
+
+In Dream, Ling Qi was surrounded by kin. Through the currents of thought and great abyss of consciousness, she swam with countless millions of her kin, forming patterns of color and brightness of incomprehensible beauty and complexity. In and out of Dream did her kin swim, breaching briefly into the alien realm of the Real. Each time, they carried a hint of Dream's Spark and returned, enriched by new droplets of thought to add to Dream.
+
+In Dream, Ling Qi was born and died a thousand times. She emerged wriggling from the hide of great leviathan [Grandmother/Emerald Dancer/Sister Brightsong/Dreaming Moon Local Avatar &*^*&%^(&)] to dance and play and sing with her siblings in the churning wake of the leviathan’s passage and  to breach the surface and the Real with dreams and hope and creative sparks. When she had swum and danced and played and gathered the hopes, creativity, and desires of the Real onto herself until her belly bulged and her eyes sagged with exhaustion, she returned, a shed scale resuming its place and dying so that a new dream could take its place.
+
+It was beautiful, a system without loss. Old ideas and abandoned thoughts fell into Dream to be renewed and returned to the Real, subtly different than before. The people of the Real fed the Sea of Dream, and the Sea of Dream buoyed the Real, urging them to new heights of creation.
+
+Here, Ling Qi knew not fear or sadness. Though she touched thoughts of those kinds in every cycle, never did they cling to her. They were often the seeds of creation, but the feelings themselves could not take root in a being without permanence. Without context, such things were meaningless.
+
+She experienced a thousand cycles and never learned a single thing. Each momentary existence, each creative spark, each muse passed and faded like a waking dream. With each passing cycle, Ling Qi felt her own mind diverging from the experience she was following until at last she felt like an observer, rather than a participant.
+
+It repeated until the cycle that came one night in a broken tower under the bright moonlight. It was boring, as such things usually were. The dreams of spirits were bland and lacked humans’ fundamental spark, but Grandmother had obligations, and she had been shed to entertain. What a joy it was then when a human had swept in, sending ripples through Dream with her potential! Sixiang felt it right away; this was the one they had been created from. Grandmother sure liked playing around.
+
+That had been when the real party had begun, in Sixiang’s opinion. The human had performed wonderfully, and Sixiang had gotten swept up in the human’s inebriation, laughing and singing and dancing all the night until at last, feeble flesh failed to keep up with shining spirit, and the human, Ling Qi, fell into a stupor and ceased to be much fun at all.
+
+Ling Qi felt a bit indignant and embarrassed, watching her escapades from the outside, but such thoughts ceased as Sixiang found herself faced with their Grandmother once again. Before, from the perspective of proto-Sixiang, she had perceived the other spirit as a great leviathan from which muses were shed like scales, but with herself separated, she saw more.
+
+The leviathan was herself only a single scale of something greater. Stretching out far beyond her perspective, Ling Qi beheld the Dreaming Moon whole and found herself insignificant in its face. If Cai Shenhua had been a mountain of impossible vastness, the reality of a great spirit dwarfed even that. One could comprehend reaching the top of a mountain, no matter how high, but this… It was if the world had flipped upside down, and the whole of the earth loomed overhead.
+
+And, to her growing incomprehension, she found that this was only the face which looked upon the Empire. A spike of pain shot through her mind, and she saw in the blurry distance: a green skinned man of with beard bound in a stiff coil holding a strange golden scepter in his hand; another with a gleaming silver helm and a shining ruby who soared through the stars; and beyond even that, an androgynous figure with eyes of purest flame that danced in cruel merriment; and...
+
+Ling Qi shuddered as Sixiang tugged at her sleeve, and her attention was dragged away. She felt a sense of sheepish shame as Sixiang chided her for her distraction and looking too closely at things that she was not meant to see. They floated bodiless in the churning Sea that formed Sixiang’s metaphor for Dream, and the memory they had been in dissolved.
+
+Sixiang laughed at her befuddlement as she mentally flailed, suddenly free to move on her own in this space which was not strictly speaking space. Yet despite her lack of body, she found herself comforted by a feeling much like a hand holding her own. Ling Qi calmed herself, and for a moment, she allowed herself to enjoy the beauty of dream, simplified as she knew it was. Yet, even now, the colors were fading away. What was happening?
+
+She had spent longer than she had thought staring at the Dreaming Moon, she understood from Sixiang, understanding without the barrier of words. Sixiang would have to sleep soon to complete their transformation. But first, here, bolstered by argent energy filtered through Ling Qi’s own dantian, Sixiang wanted to know one more thing: which of her elements did Ling Qi feel was most important to what she wanted to be?
+
+Was it wind? It had fallen behind in her arts, and she had rejected the idea of absolute freedom, but did the playful joy of the wind spirit still exemplify what she wanted to be? Would she have done better in recent trials if she found again the thread of cunning and creativity that had kept her alive in earlier days?
+
+Was it darkness? So many of her arts cultivated it, and it went so well with her own covetous nature, of never wanting to let anything go if she could at all help it. Yet perhaps it was only her growing strength, but had it not encouraged a more brute force approach to problems?
+
+Was it water? She did not often think of it, but many of her arts incorporated the element as a secondary. The virtues of persistence in pressing forward that arose from water had been a part of her for some time, even if it was not as visible and prominent as the other elements.
+
+Or perhaps Wood? When she had begun cultivating, boundless growth and vitality were hardly among her virtues, but had it not served her well? Many trials remained in her future. She could not remain still, but that was not all that there was to the element, now was it?
+
+Ling Qi thought hard, floating there in the dissolving dream. It was a difficult question. She knew that elements were simplifications, shorthands to understanding of the world. They could be divided or added together in an endless number of ways, and as such, deciding which one was the best was an exercise in futility. Yet there was still value to the question because despite their differing natures, she and Sixiang were both young and small, and that shorthand was their only way of understanding at this point in their development.
+
+Ling Qi did not miss her past. She had no desire to go back to the way she was. There was nothing of value in the scrabbling, desperate, starved thing she had been, but what had arisen from that state held some meaning. Her experience had taught her the instinct to come at problems from odd angles and to avoid direct clashes. There was nothing wrong with using the strength she had now,, but forgetting that there were and could be other options was a mistake. Sometimes, she might have been better served by less direct approaches.
+
+In this place, her thoughts were open to Sixiang, her muse, and so the spirit understood even as she reached her answer. Wind and its adaptability and cunning, though it had been born of a time she never wished to return to, was a tool that she did not want to let go.
+
+She felt the whisper of Sixiang’s touch, a pat on her metaphysical shoulder. She understood it was time for them to cultivate now. Ling Qi was welcome to remain at the seaside, if she liked.
+
+With a shuddering gasp, Ling Qi’s eyes snapped open, and her senses cleared. She lay on the shore of the sea of colors, her head pillowed on a soft cushion, and her body warm between a thick quilt. Slowly, she sat up, shaking her head as she got her thoughts in order. It was a strange thing to awake inside of a dream. It made her wonder just how many layers there were to consciousness and the human mind. Staring down at her hands, she closed them into fists and opened them again, wondering at the fading sense of foreignness that came from returning to her body or a facsimile thereof.
+
+She could leave the dream now and return to her day. Sixiang was fine, just finishing their cultivation, but she did not want to leave. Not yet. She threw off her quilt, ignoring it as it dissolved into fluttering sparks, and returned to the shore. Colorful waters lapped at her ankles, but her gown remained perfectly dry. She recalled the flashes of experience from the numberless cycles where she had existed as the beings that comprised Sixiang in the past.
+
+She had a rather narrow vision of the world, didn’t she? Ling Qi smiled wryly at the thought; she often focused so hard on what was in front of her that she missed what was happening around her. Going from one thing to the next without pausing to look back wasn’t wind though, was it? As she had learned from her tutor Bian Ya last year, the wind touched and connected all things.
+
+It seemed awfully limiting to ignore all other forms of expression in favor of music. Smiling, Ling Qi crouched, plunged her hands into the multihued waters and submersed herself into the dreams of a millenia worth of creative souls.
+
+***
+
+“You really got into that didn’t you?” Sixiang’s voice buzzed in her ears, and for the second time, Ling Qi’s eyes snapped open. “I haven’t seen you sleep that long in all the time I’ve known you.”
+
+Ling Qi looked around the meditation room, blinking away the now unfamiliar bleariness of a deep sleep. “How long was I asleep?”
+
+“A good six hours, lazybones,” Sixiang teased. Ling Qi followed the sound of their voice but saw nothing at its point of origin.
+
+Ling Qi winced. “Six hours?” she fretted. “What a waste. I’m still going to have to…” She trailed off, furrowing her brows. Sixiang’s voice had made actual sound. “Sixiang, did you…?”
+
+“I’m just manipulating the wind,” the spirit tittered. “This is kinda fun! I wonder if...”
+
+Ling Qi blinked as the argent mist shimmered and writhed, tugged as if by the hands of an invisible figure. She could feel Sixiang’s qi spreading out through her own channels, tugging and plucking at strands of wind. “Mm… visual stuff is still out of reach yet,” the spirit grumbled, sounding disappointed. “It’s just too complicated.”
+
+“It looks like you’ll just have to be diligent then,” Ling Qi replied primly as she moved to stand, washing away the stiffness in her limbs with a minor pulse of qi.
+
+“That sounds way too hard. Shouldn’t I just wait for another inspiration?” Sixiang whined.
+
+“You, of all people, should know perfectly well how that works out,” Ling Qi replied dryly. Suddenly, a horrifying thought dawned. “Sixiang, you’re going to control yourself, right?”
+
+“I don’t know what you mean!” the muse replied in a sing-song voice that gave Ling Qi the shivers. Just what had she gotten herself into?
+
+Ignoring the muse’s laughter, Ling Qi left the mediation room. She had so much to catch up on if she wanted to start her cultivation on time.

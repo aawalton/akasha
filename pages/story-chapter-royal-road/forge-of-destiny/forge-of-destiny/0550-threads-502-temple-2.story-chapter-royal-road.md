@@ -1,0 +1,139 @@
+---
+id: f01ae686-ca7a-5a6d-ac0a-d15b1e7dac5b
+page-type-slug: story-chapter-royal-road
+title: "Threads 502-Temple 2"
+slug: 0550-threads-502-temple-2
+partOf: forge-of-destiny
+position: 550
+ownLength: 2316
+unit: words
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3086365/threads-502-temple-2"
+royalRoadId: "3086365"
+---
+
+The temple of the Bountiful Earth was a vast, verdant pagoda with a massive garden taking up the full breadth of a greater branch of the Heavenly Pillar. It was a riot of color and life, blooming from every tier of the rooftop and all across the sprawling grounds. Unlike most gardens, though, there were few flowers. Instead, there were crops. Every grain known to the empire was here, and every fruit and vegetable represented in rolling fields of green and dense orchards.
+
+The temple's interior was strangely cozy despite its size. The thick pillars were twined with grapevines.
+
+It was here that the first respects of the bridal pair were made, led by the head of Spiritual Affairs. Incense was burnt, sacred wine was poured, and prayers and blessings were made. Then, the long, slow movement of the procession began again when the altar of fertile black soil bloomed with a riot of healthy golden grain.
+
+This, too, was where the other part of this day came into existence. There was a tidal wave of betrothals and marriage offers being exchanged between the many noble clans of the Emerald Seas on this most fortuitous day.
+
+There were no true surprises as to her offers. The Bao had sent her a missive in the morning indicating they would advance their suite, even knowing of the others that would be made.
+
+She wasn't the only woman, or even person, who would be receiving multiple offers today. She understood that it was as much about the advertisement of good relations as the actual contracts for many, that this was a vast web of politics and business dealings in which betrothed individuals were only pieces in.
+
+It still felt deeply strange to her.
+
+All the same, she smiled, bowing deeply to the richly dressed representative of the Bao, beaming down at her with his own practiced affect. With glittering jewels woven into his headscarf and shimmering silver cloths swishing on long hanging sleeves, the Bao representative flourished a scroll to present to her.
+
+"It is my pleasure to extend our hand to the rising and ambitious house of Ling on this joyous day," the tall Bao man pronounced. "The Bao clan is always pleased to see and aid the growth of new ambitions."
+
+"You honor me greatly, Sir Bao." Ling Qi bowed low and respectfully, playing up her deference for the many people around, the whispering observers and rumormongers of the court. "To have so small a house as mine receive the notice of a great clan like yours and have my achievements receive your praise."
+
+"Ah, there is no need to be so humble. You are quite a deal closer, young miss! Be proud of that." The Bao scion stroked his jewel ringed fingers through his beard. "Why, I know you have closed a few more already."
+
+He said the last far more quietly and beneath the sound of clinking coins.
+
+Ling Qi straightened, holding the scroll with the official notice close to her chest. "I have. My accomplishments have attracted many eyes."
+
+"They have, indeed. Were it not for the quality of the three you are to receive, I would imagine you would be fielding a dozen more. Well, to the best negotiator goes the contract, eh?"
+
+What an uncomfortable way to put it, Ling Qi mused, and yet, she understood the good intention. There was no offense from the Bao at her entertaining other options, given the stated quality.
+
+“You're doing good, Qi. I know this stuff is hard for ya.”
+
+Sixiang's reassurance did help. Ling Qi bowed her head more shallowly this time. "To the best, Sir Bao."
+
+Two more to go.
+
+Walking the wedding procession, she and her fellow retainers were still close to the front, gathered among the households close to the Cai but not as close to Cai Renxiang as they were yesterday. Today, her liege walked side by side with her new fiancé at the very forefront of the procession, situated more with the Peaks delegation. It was a show of honor.
+
+The next temple was Xiangmen's itself. It was where the Heavenly Pillar was communed with. The ceremonies here were shorter and a matter of thanks rather than asking for blessings, as those had already been received when the bridal procession passed through the wards.
+
+It helped her nerves, seeing the numerous nuptials announced. The strongest reactions to any offers, even to people she knew had received multiple prospects, was interest and a bit of rumormongering. There was some murmured sniping she could just barely detect through the various screening techniques, but those seemed more a matter of personal grudges and feelings than anything else.
+
+… She wondered if there had been any others with eyes on Meng Dan.
+
+“Not Xuan Shi?”
+
+She huffed at Sixiang's tease. That was unkind and not her intention. Xuan Shi wasn't native here and had hardly made himself known to others.
+
+The next temple in the procession was the House of the Sun. Five pagodas surrounded a central garden, each dedicated to an aspect of the sun. The buildings blazed with color and light. Numerous mirrored surfaces caught the sunlight that fell through the canopy to glow like their patron in miniature. The procession moved through each one in the order of the day.
+
+She was surprised to see Gan Guangli on the receiving end of an offer. Su Ling would have been growling. This offer must have been the ones he couldn't outright refuse to consider without insulting the other party, considering the offer was from the Jia. This was something she'd have to poke her nose into, for her friend's sake.
+
+“Is it though? Is it really, though? She'd probably tell you to mind your business.”
+
+Not if she didn't say anything first!
+
+Hmm. That was probably a potential snarl in her cultivation, if she really thought about it. Was it removing choice if she acted without another's knowledge, but knowing they would object if they knew? She'd not chosen an easy path to walk. She understood why some people preferred to just make themselves into swords and be done with it.
+
+Butterflies were rising in her stomach as the procession neared its next destination. The Cycle of Nights was a far more subdued place, especially with one of its eight shrines, the most colorful and vibrant of them in the past, she assumed, left bare and empty, its entrance boarded up, disallowed to receive all but the most minimal propitiation.
+
+“I still don't like it,” Sixiang grumbled privately. “You're throwing our balance outta wack, scoffing at grandmother like that. I mean, I get it. But it's still not good!”
+
+Ling Qi had to lower her head in agreement there, but she wouldn't be voicing that. She sincerely doubted anyone present would say so either without the Duchess' eyes upon them.
+
+She felt the air tingle on her skin, suffused with familiar lunar energies, as she passed under its midnight blue gates.
+
+The shrine of the full moon, the Guiding Moon, was only marginally dimmer than the great complex dedicated to the sun. Round, perfect mirrors of silvered glass were affixed at every corner, catching filtered light from further up in the pagoda to cast ethereally luminous rays down on the core of the shrine, a raised platform of midnight blue wood.
+
+On the temple's rear wall, a massive slab of solid silver some five meters high was set into it, shaped into a frieze depicting numerous legends, the feats of the many students the Guiding Moon was said to have mentored since times immemorial. The base featured stylized and simple art shaped by the raw strength of cultivators molding metal like clay, followed by the intricate scenes of more modern art, and above that, plenty of blank space in shimmering silver still remained.
+
+The ceremony here had been simple enough. The head priest of the pagoda spoke the blessing of the Guiding Moon over the kneeling bridal duo, a fortuitous custom of the ceremony, as the elderly man certainly would not have been able to reach the Duchess' head to sprinkle moon-blessed dew on her hair if she had been standing. Most of the ceremonies were relatively brief, a necessity given how many there were going to be this day.
+
+Ling Qi had a reason to linger here herself, looking up at the wall of sculpture. Down here at the base of the platform, the light was dim, and the filtering light cast through the beams of the shrine platform was almost like starlight. Down here, she could look at the very earliest carvings.
+
+The imprints of human fingers in the metal were clear, illustrating the relatively crude outlines of both leaping deer and men. Even across the ages, she could read its intent. It was a son of Tsu leading processions of their brethren and kin back out into the devastated province under the moon's guidance, reclaiming the lands in the wake of the defeat of the Beast Gods.
+
+She felt the approach of the ones she was here to meet long before she felt their shadows fall across her back. She felt it not just from their own weighty presences, like the prows of ships parting silent seas in an onrushing rumble of moving waters, but also in the whispers that rippled out as more and more people noticed their intent and direction. The faint tap of a staff against the floor behind her was just the punctuation on it.
+
+She turned politely, clasped her hands, and bowed almost horizontally from her waist. "Admiral Xuan and Admiral Xuan, what can this humble baroness do for our esteemed guests of the far flung north?"
+
+The two men looked much the same as she had seen them last, broad shouldered beneath their heavy, woven robes adorned with geometric embroidery and wide brimmed turtleshell hats shadowing their faces. The twin admirals of the Xuan inclined their heads slightly, and the one on the left gestured for her to raise her head.
+
+"Wraith of the Moon, this one named after the last words were traded. A role taken to with great eagerness."
+
+"Herald, rather, silver singer flying proud before the prow, guiding to calmer waters," his brother corrected. "We are well welcome on emerald shores."
+
+"Your praise humbles me, great lords," Ling Qi said. "Shall I ask if your question is the same one you presented when last we met?"
+
+"Well seen, indeed. Our hatchling far from homely shores…"
+
+"... presents a difficulty. Although the nest stifles the young, those left behind might yearn for news."
+
+"Young Sir Xuan Shi has been in excellent humor and of great aid to me. Though it has taken some time for us to understand each other properly, he is always stalwart," Ling Qi replied. "In our summit and in the times before, he has always been quick to aid me and help me in guarding my kin."
+
+"And so, one sets sail, even among mountains high," one admiral said. It was a testament to their ability and the intertwined nature of their cultivation that even now and so close to them, she had a very difficult time discerning which was which. "From the shell, the hatchling emerges with confidence anew?"
+
+"I would say so." She had her disagreements with him—Kongyou was definitely a bad influence; the worst influence—but she was hardly going to say that here. And even if she disliked it, she did trust Xuan Shi to handle the other spirit. If he felt he needed to be able to change a nightmare to grow, she'd only wish him fortune.
+
+"The words of the Baroness explain and confirm the whispers that have reached these ears…”
+
+"... and the fall of the coins upon the table. A missive was received, a most shocking request."
+
+"One we are inclined to consider, for the sake of many, for shared heritage, for a seeker of shores far from ours."
+
+"To the Lady Ling, the hand of our scion, our nephew, the steady Xuan Shi, who has carved a nest in cold lands far from any sea."
+
+The twin admirals spoke, one voice rising as another fell.
+
+Ling Qi felt a ripple of shock go out through the other attendees, and one or two ongoing conversations and proposals even faltered mid-word. She inhaled deeply, steeling her nerves. The rumor mills really were going to be insufferable after this.
+
+“Can't wait to help you write dozens and dozens of letters deflecting requests for you to spill the tea!” Sixiang chirped in her head.
+
+"I hardly know how to respond to such a great and generous offer." Ling Qi extended her hands out with her head bowed to accept the scroll that the admiral on the right had extracted from his sleeve. "Only that I accept. The young Sir Xuan is already a good friend of mine. With your blessing, we will see if there is yet more to be explored."
+
+"Fewer words are oft stronger than more, this is known. Let root and wave weave together, through generations and more," one said gravely. "And see fresh charts of stone and ice be delivered unto the sleeping sanctum, a saga of the south."
+
+"Compass and fair wind the Xuan clan grants to thy vessel, though the mapping be yours to do," the other admiral said, amused. 'Fortune and calm seas to thee, Wraith of the Moon."
+
+They were definitely entertained by the mild furor they had caused. That much, she could read.
+
+"Good fortune and calm seas. I only hope that the time Xuan Shi and I spend together here ties the isles and the forests together well and long," Ling Qi replied, bowing a final time.
+
+“The big feast at the end of this is gonna be a free for all!” Sixiang chortled.
+
+Ling Qi held in her groan. It was.

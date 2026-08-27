@@ -1,0 +1,161 @@
+---
+id: ec3825b2-787d-5ac7-a39b-9f89e17d4f31
+page-type-slug: story-chapter-royal-road
+title: "4 – Just a Skill Issue"
+slug: 0004-4-just-a-skill-issue
+partOf: gamer-girl-evolution
+position: 4
+ownLength: 1901
+unit: words
+ownProgress: 1901
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620524/4-just-a-skill-issue"
+royalRoadId: "2620524"
+markedReadAt: "2026-06-29T20:05:43.325Z"
+---
+
+The commercial district was alive with chatter, new players swarming every stall like moths around lanterns. Wooden signs creaked above narrow booths, their paint chipped and flaking. A baker yelled about fresh loaves, an armour vendor showed off rusty iron bucklers, and the air shimmered faintly with the heat rising from forge fires.
+
+Celica ignored all of it. Her eyes locked on the blacksmith’s stall, and more importantly, the man behind it. His hammer dangled stiffly in one hand, an idle loop running every few seconds.
+
+She stepped into the dialogue menu, flicked out, then tapped back in just as the text box started populating. The shop stuttered. For a heartbeat, the NPC froze, then resumed like nothing had happened. At the very bottom of the menu, a new option appeared.
+
+Skill: Thrust (common)
+
+Celica’s lips curved. “Still broken, huh.” She bought it for a single copper.
+
+Back out, then back in. Another hiccup echoed as the option shifted.
+
+Skill: Slash (common)
+
+Another copper gone and two skills obtained without ever touching the hidden quests they were tied to. She almost laughed out loud at how easy it was.
+
+Behind her, a handful of players had stopped to watch. One of them muttered, “Did… did the blacksmith just bow?”
+
+To them, the NPC had dipped too far forward in his glitched animation, like he was treating her with some exaggerated respect. Celica didn’t turn. Better to let them wonder.
+
+She moved to the general goods stall next, where an old woman was glaring at her, arms folded. Normally this vendor sold a limited amount of health potions per person. Buy too many and the system threw up a warning about hoarding. Except if you cancelled her lean-in animation mid-motion, the sale went through but didn’t count towards the limit.
+
+Celica tested it and then one stack of potions appeared. She looked at the limit—it hadn’t moved, still saying she could purchase 5 more stacks. Her inventory flickered, the numbers climbing higher.
+
+“Perfect.” She repeated it again, and again.
+
+By the time she stopped, her bag was stuffed with rows of red glass bottles, every slot filled. She could have bought them all legitimately with the mountain of coin she carried, but the gold wasn’t the point.
+
+“It’s not about efficiency,” she murmured, stepping back from the stall. “It’s about sending a message.”
+
+A couple of nearby newbies blinked at her. To them, the vendor had just jerked and frozen several times, almost like it was struggling to keep up. One whispered, “Why is the shopkeeper glitching out for her?”
+
+Celica didn’t even glance their way. She had what she needed: Thrust, Slash, a bottomless well of healing, and enough gold leftover to remind herself she was the richest on the server. Still, skills alone weren’t enough, she needed a weapon that wouldn’t crack in half the second she stopped abusing the durability glitch.
+
+She cut across the market until she reached a blacksmith’s stall. Weapons gleamed on racks, each with a tiny system window hovering just above the blade. Several players clustered near the entrance, arguing over which rusty short sword was the “meta” pick for slime farming.
+
+The top shelf gleamed with status-symbol blades, the kind of overpriced junk whales bought day-one just to flex. Strong, sure, but gold-inefficient and guaranteed to turn heads she didn’t want on her.
+
+Her eyes skimmed past the most expensive two, then past the third. There it was: the fourth-most expensive, a broad, unassuming longsword. Pricey enough to outperform cheap trash, cheap enough to fly under the radar. More importantly, the durability stat was ridiculous value, almost double the next tier down.
+
+The higher the durability, the longer she could be out grinding. Her sword breaking mid-skill chain would be a nightmare. She tapped confirm, watching her silver counter tick down by one, and felt the satisfying heft of new steel materialize into her inventory. It wasn’t flashy or glamorous. But it was efficient, and efficiency always won. At least, until she was fully maxed—then she could do whatever she wanted.
+
+Blade strapped against her back, she started down the row of stalls again, the chatter of haggling players washing around her like white noise. Most players wandered back to the fields to kill slimes. Celica cut straight toward the heart of town, past the noisy stalls, past the fountain where people still crowded and muttered about respawns, to the city hall.
+
+It was a stone building with wide pillars, designed to look impressive but was quite hollow on the inside. No quests or story triggers, only a niche, forgotten feature for gamers like Celica.
+
+She pushed the door open and slipped inside. The chatter of the town dimmed behind her, replaced by the looping OST of the training grounds. Pale blue walls rose around her, geometric and sterile, like the devs hadn’t bothered to texture them. Dummies lined the centre, featureless mannequins with glowing red cores.
+
+Most new players had no idea this practice mode even existed. It was tucked away in random specific buildings, and even when they found it, the utility wasn’t obvious. She drew her blade, menu flickering open.
+
+Thrust.
+
+Her avatar lunged forward, the blade cutting a straight, efficient line. The impact against the dummy core sent a satisfying ripple through the air. Clean, sharp, just like she remembered. No start-up or end lag.
+
+Celica smirked. “Frame data unchanged. Nice.”
+
+She reset the dummy’s position then opened up the menu again.
+
+Slash.
+
+This time the swing carved out a wide horizontal arc, catching two dummies in one sweep. The impact staggered them both, sending faint shimmers across their surfaces before they reset.
+
+She ran it again, this time faster. The animation flowed exactly as her muscle memory expected: reliable hitbox, generous window for chaining.
+
+Exhaling slowly, she let her shoulders drop. “If they had changed this, my favourite strat would’ve been dead in the water.”
+
+The devs had patched dozens of exploits in her time, sometimes with no warning. One wrong tweak to animation length, and entire builds became useless overnight. Seeing these skills untouched was like finding old friends alive and well.
+
+She circled the dummies, testing angles. Thrust locked her into forward momentum, but it punished bad spacing. Slash was safer, but slower. In a real fight, the choice mattered: overcommit and she’d eat damage, but play too cautious and she’d be forced to stay on the defensive.
+
+“Alright,” she murmured, stabbing another core dead-centre. “Time to max these.”
+
+Celica sheathed her blade, the dummies flickering back to neutral. She was already thinking about routes, and where the fastest grind would be. Goblins tempted her, they gave more experience, but they’d take longer to kill. Slimes, boring as they were, would be quicker for skill levelling.
+
+“Guess I’m back to the forest,” she said flatly, turning toward the exit.
+
+The city hall doors creaked open behind her. She stepped through, already thinking about how to minmax her skill grind.
+
+The slime forest welcomed her back with its damp air and faintly glowing puddles. Most players had returned to the town square or scattered toward safer edges of the map. Celica picked the deeper routes, where the spawn rates were higher and no one bothered trying to compete.
+
+She rolled her shoulders, loosened her grip, and went to work.
+
+Slash, thrust, slash, thrust. Her movements blurred into a rhythm, skill windows chaining smoothly. The dummies back at city hall were useful for testing, but here she could feel the skills grow stronger, the system rewarding sheer repetition. Notifications stacked in her peripheral vision.
+
+[Slash skill rank up.]
+
+[Thrust skill rank up.]
+
+Each ding pushed her closer to mastery. “Grinding skills,” she muttered between swings, “is like doing your favourite chore. Still a pain, but it could be worse. Much worse.”
+
+At least slimes offered no resistance, they were predictable and always fragile. With her ridiculous agility, their sluggish bounces may as well have been in slow motion. “System Call—Skills Tab.”
+
+***
+
+[SKILLS]
+
+Parry (common): level 1
+
+Slash (common): level 10
+
+Thrust (common): level 10
+
+***
+
+She dismissed her menu, exhaling through her nose. “That’s that.”
+
+But Parry wouldn’t grow against slimes. They hit too softly, too slowly, too irregularly. For that, she’d need something more aggressive.
+
+So she headed deeper, past the treeline, to where the forest shifted gradually into drier plains. The air sharpened, the soil firmer under her boots. Broken weapons lay scattered here and there, half-buried like forgotten bones. A single crooked signpost leaned in the dirt, its writing weathered but legible: Goblin Territory.
+
+She grinned. The goblins appeared almost immediately, green things, clutching crude spears and daggers. Unlike slimes, they moved with intent. They barked guttural cries, coordinating loosely as they fanned out to surround her.
+
+Their levels hovered between ten and fifteen. Perfect mid-range opponents, obviously designed as Floor One’s second stage—something the average player wouldn’t even see until after clearing the first main quest.
+
+Celica drew her sword and braced herself as the first goblin lunged forwards. Her arm flicked up—Parry. Metal rang against metal, the goblin’s spear shuddering before snapping away. She countered instantly, slashing across its torso.
+
+Another darted in from the side. Parry. The timing window was generous compared to later floors she remembered, but the satisfaction of landing it clean never dulled. They swarmed her, and she welcomed it.
+
+Every blocked strike sharpened the skill, the system dutifully recording her precision. Goblins staggered back from the counterblows, only to charge again. It was a loop she could run forever.
+
+Minutes bled into hours. Her HP didn’t flinch as she parried more and more goblins, her movements a constant dance of blocks and counters. Parry rank up. Over and over, until the message finally shifted: Parry Level 10.
+
+She straightened, wiping non-existent sweat from her forehead. A cluster of goblin corpses dissolved into coins at her feet. That was when another notification blinked open.
+
+Level Cap Reached. Level 20. Further EXP gain locked.
+
+Celica barked a laugh, harsh and amused. “Level cap in less than a day. I bet the devs didn’t think anyone would no-life Floor One this hard.” The goblins didn’t stop attacking, but she cut them down casually now, like swatting flies.
+
+She’d squeezed every drop of progress out of this floor. Max skills, max level—potions stacked to bursting. “System Call—Status.”
+
+***
+
+[STATUS] Celica Travine Crystalis<Slime Nightmare>Level 20 Human (J*bless)EXP: Max / MaxSTR: 52 | AGI: 53 | VIT: 5DEX: 5 | END: 5
+
+***
+
+“Alright, not bad,” she said as the last goblin burst into light, “time for the real show.”
+
+The path wound toward the northern cliffs, half-hidden in shadow. She followed it with steady steps, blade sheathed but hand ready. The forest thinned to reveal a jagged cliff face. At its base, a gaping cavern pulsed with faint red light. The first dungeon.
+
+Celica looked around to make sure no one was watching. And of course, no one was, no one else had even finished the main quest yet. She approached, and as if on cue, a humanoid NPC stepped forward.
+
+Armour dull, expression fixed, he raised a hand to block her way. “I’m afraid you need a party of three or more players to enter.”
+
+Celica blinked once before smirking. “Thought as much.” If the system thought a requirement like that would stop her, it didn’t know who it was dealing with.

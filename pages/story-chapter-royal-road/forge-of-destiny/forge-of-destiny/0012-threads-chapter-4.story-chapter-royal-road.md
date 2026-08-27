@@ -1,0 +1,169 @@
+---
+id: fdb429be-2a8f-5c8f-a744-c9998f89e01b
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 4"
+slug: 0012-threads-chapter-4
+partOf: forge-of-destiny
+position: 12
+ownLength: 2753
+unit: words
+publishedAt: 2020-10-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/577308/threads-chapter-4"
+royalRoadId: "577308"
+---
+
+“Breathe in. Breathe out. Feel the flow of the qi pulsing in time with your heartbeat,” Ling Qi repeated soothingly. She sat with her mother on the veranda overlooking the garden behind the home the Sect had provided. The early light of a new day shone over them.
+
+Her mother sat across from Ling Qi, eyes closed, her lined features scrunched in concentration. Faint red light shone from between her fingers, the only sign of the red spirit stone clasped in her hands.
+
+“You can do this,” Ling Qi murmured. “You are doing it. You just need to keep trying.” She could feel qi, tiny shreds of it, sinking into her mother’s almost non-existent aura, and with each one, her mother felt a little bit more solid, a little bit more real, to Ling Qi. She couldn't lie to herself. Ling Qi was pushing the older woman on this as much for herself as for Ling Qingge’s sake. She knew she didn’t want her mother to disappear again in a mere few decades.
+
+Ling Qi was so focused on encouraging her mother’s efforts that she almost missed the tiny disturbances in the air that indicated that someone else was stirring nearby. Ling Qi glanced to the side as the sliding screen that separated the interior from the veranda slid open a crack.
+
+“Good morning, Biyu,” she said cheerfully, meeting the little girl’s sleepy, curious gaze.
+
+“... Morning, sis-sis,” Biyu mumbled. Her hair was loose, and seeing her in her rumpled sleepwear, it struck Ling Qi again how small and fragile she was, even compared to her mortal mother.
+
+Ling Qi put on a smile and held out her hands. “Come here. It’s still cold, isn’t it? Why are you up so early?” While the temperature was no trouble for her, she could see the goosebumps on the little girl’s arms. The shawl and blankets her mother was wrapped in only made it more obvious.
+
+Biyu nodded and made an agreeing noise, toddling over to plop herself in Ling Qi’s lap. “Lights made the dreams run away,” she said blearily, leaning back against Ling Qi as she wrapped her arms around the little girl.
+
+“Dreams, huh,” Ling Qi said softly. <Sixiang, did you sense anything?> she thought, just a little sharply.
+
+<Just the normal stuff. Nothing malicious,> Sixiang replied in amusement. <Children’s dreams are a nice place for my littlest cousins to get started.>
+
+“It was fun,” Biyu said with a yawn. “It was warm, and there was a river! We were playing…” Her soft features scrunched up in thought. “Um… I don’t remember.”
+
+“That’s fine,” Ling Qi tussled her sister’s hair. “Do you hear dream things when you’re awake, Biyu?”
+
+“Mhm,” the little girl said, nodding her head. “Momma said not to listen to the leafy voices. ‘Cause they’re mean.”
+
+“Mother is right,” Ling Qi agreed. Even if the little spirits of the forest weren’t necessarily malicious, they didn’t have a human’s best interests in mind. “If you ever hear one that’s really mean, even in your dreams, just tell Big Sister, and she’ll beat it up for you.”
+
+<Ling Qi, nightmare puncher,> Sixiang drawled in her head.
+
+Biyu made a cheerful sound of agreement, wiggling a bit in Ling Qi’s lap as she began to wake up more. “Is Momma sleeping?” she asked.
+
+“Mother is practicing,” Ling Qi gently corrected.
+
+“Oh! Can Biyu play with the shiny rocks too?” she asked excitedly, looking up at Ling Qi with a shine in her eyes.
+
+“Not until you’re older,” Ling Qi said with a grin. “Those are grown-up toys.”
+
+The little girl puffed out her cheeks in annoyance, and Ling Qi ruffled her hair. She looked again at her mother. Mother would come out of her fugue soon; the light shining from between her hands was fading.
+
+“You’re doing well,” Ling Qi said as her mother opened her eyes. A brief look at the stone in her mother’s hands showed that it was not yet used up.
+
+Ling Qingge gave her a tired, weak smile. “I am beginning to grow more used to this,” she agreed quietly. She had not objected to being given more stones in some time; Ling Qi was glad that she had worn her down in that regard.
+
+“That’s the spirit,” Ling Qi said cheerfully. “Why don’t we head inside? I asked the housekeeper to put some breakfast on a little bit ago. I bet this one is hungry,” she added, poking her little sister in her pudgy cheek, drawing a giggling protest.
+
+Her mother’s expression was thoughtful, even as she nodded in agreement. Ling Qi stood smoothly and offered her mother a helping hand to do the same as they gathered the blankets and headed inside, preceded by a chattering Biyu.
+
+“Have you settled in well, Ling Qi?” her mother asked as they entered the dining room where three places were set out. It was a simple meal of congee with a sprinkling of rousong and a few strips of fried pastry placed on the side for dipping, along with warmed milk.
+
+It was simple fare, but Ling Qi knew her mother was uncomfortable with the richer sort, and Ling Qi hardly minded. For her, the food was essentially a snack regardless. “Yes, although I don’t intend to stay in one place for long,” she said brightly.
+
+“Ah, that is right. You change homes with your rank. How troublesome that must be,” her mother replied absently as she seated Biyu.
+
+“We only move when we change tiers. It would be too troublesome otherwise,” Ling Qi agreed. “But as I said, I don’t intend to stay in my current tier for long.”
+
+“My daughter is ambitious,” Ling Qingge said, fussing for a moment over Biyu’s disheveled look before silently deciding that it would be better to get her cleaned up and dressed after breakfast.
+
+“I have to keep up after all,” Ling Qi said, thinking of Cai Shenhua’s burning gaze. She held in her shudder, and her family didn’t notice. “How are things in the village?”
+
+“I have made... a few acquaintances at the market,” Ling Qingge replied after a moment of hesitation, smoothing her plain gown as she sat down herself.
+
+“No one to play with,” Biyu grumbled around a mouthful of pastry. “Boys are dumb.”
+
+Ling Qi shot a look of amusement at her little sister. “I’m glad you're settling in. We’ll be here for a couple years yet.”
+
+The next few moments passed in companionable silence.
+
+“Ling Qi, might I ask of you something?” her mother asked, surprising Ling Qi.
+
+“Of course,” Ling Qi replied, perhaps a bit too enthusiastically given the way her little sister looked up from her meal, startled, a spot of congee on her cheek. Even her mother looked taken back. Too enthusiastic indeed.
+
+“I had hoped that you might allow me authority over the household budget. The Argent Peak Sect handles things well, of course, but…”
+
+Ling Qi had left all of that to the Sect staff who had been assigned to the house, wanting her mother to be able to live without worries, but she understood now that having everything taken care of may have been overdoing it. “I will put in notice for it,” she said agreeably. “I didn’t want you to have to work, but I understand.”
+
+“Thank you, Ling Qi,” her mother said tentatively. Biyu returned to her breakfast, losing interest in the conversation again.
+
+<I just don’t understand humans sometimes, volunteering for boring stuff like that,> Sixiang commented absently.
+
+“There’s something else though,” Ling Qi said, eyeing her mother’s expression and ignoring her spirit.
+
+“You are perceptive,” Ling Qingge replied with a self-deprecating smile, her eyes resting on the table. “It is a selfish request, but… do you think it may be possible that I might hire some acquaintances from Tonghou? I assure you, they are all good young ladies whose families merely fell into misfortune. The Sect staff will not follow us after all, and it is important that you have a proper household…”
+
+Ling Qi leaned back in her seat, understanding why her mother called this a selfish request. The people she referred to were obviously ones who had shared her profession. Ling Qi was no expert at noble politics, but even she could see that something like this could be damaging to her reputation.
+
+Ling Qi hesitated. She could do it, she knew. She had enough credit with Cai Renxiang that something like this would hardly cause the heiress to reprimand her, but was it worth making her family's life more difficult?
+
+Ling Qi disliked the idea of bringing even minor harm to her family for the sake of strangers. But while they were strangers to her, they were not to her mother. Could she who clung to her friends so tightly rightly chastise her mother for doing the same? She was hardly in a position to judge their character preemptively. It was pure luck that she herself was not still scrabbling in the streets of Tonghou.
+
+That was the trouble with forming connections with others, Ling Qi thought. Each bond tied her to a wider network still.
+
+<Congratulations. You’ve rediscovered the roots of this whole ‘civilization’ thing,> Sixiang teased.
+
+<Hush, you,> Ling Qi thought, giving her spirit the mental equivalent of an annoyed swat. “You’re going to have to make it clear that this isn’t going to be easy,” she said aloud. “We’ll be heading to the border in a couple years, you know?”
+
+“I am aware,” her mother replied. “Yet, my daughter, can you say that you would not have taken that chance?”
+
+That was fair, Ling Qi thought, glancing at Biyu as the little girl looked back and forth between them, not quite comprehending the serious atmosphere that had descended. “I won’t condescend to you about responsibilities, Mother,” she said finally. “I know you understand.”
+
+She wasn’t concerned about her mother’s management skills. Ling Qingge had always been good at squeezing out the full value of every copper penny in their little household. This was a bigger project, but having learned more of her mother’s background, she was certain that she had education in such matters.
+
+“I’ll make the arrangements,” she said.
+
+“Thank you, Ling Qi,” her mother said, bowing her head.
+
+“None of that,” Ling Qi said uncomfortably. “Are you thinking of anyone I know?” she asked curiously.
+
+“I doubt you would recall names,” Ling Qingge replied with a small smile, raising her head. “That was never your strong suit.”
+
+<She has you there,> Sixiang drawled.
+
+Ling Qi coughed into her hand self-consciously. “... Perhaps. In any case, I will take care of the background work. I will leave the letter writing to you.”
+
+Ling Qi could think of a few ways to spin things and give the move some public respectability. She would run them by Cai Renxiang later as well, but for now, she was just glad to see the content expression on her mother’s face.
+
+She spent the rest of the morning with her family, chatting with her mother, reading to Biyu, and otherwise allowing herself a short time of relaxation. Ling Qi could not afford to do so too often, but she remembered Elder Su’s lessons. It didn’t do to lose oneself entirely in cultivation.
+
+***
+
+As morning turned into afternoon, Ling Qi took her leave. She had another appointment to keep. Her path took her well outside the village to a travelers’ inn that sat a few kilometers down the road that led further into the province.
+
+Meizhen wanted to avoid disturbing the village, Ling Qi thought wryly as she entered. She hoped her friend’s fine control caught up to the raw power she had cultivated into her domain soon. The inside of the inn was homely, but well kept, with polished wooden floors and undamaged furniture.
+
+She paid her respects to the innkeeper, a wizened stick of a man at the peak of the second realm with a full white beard and many, many scars. From there, she received directions up to the room that her friend was currently occupying. It wasn’t hard to find, being one of only two rooms on the third floor. The formation work that wound around the stairwell, absorbing spiritual energy from above, was rather professionally done. She couldn’t so much as sense a hint of her friend’s aura until she reached the third floor.
+
+Taking a deep breath, Ling Qi stepped up to the closed door, loosened her grip on her own aura to ensure that Meizhen could sense her, and knocked. She could feel a second presence inside, but her friend’s aura rather overwhelmed it, preventing her from getting a feel for this “cousin” just yet.
+
+“Ling Qi, you may enter,” she heard Meizhen call from the other side of the door. Ling Qi’s eyebrows rose in surprise. She had expected her friend to be more stiffly formal with one of her family present.
+
+Still, she opened the door and stepped inside the meeting room without hesitation. The room was windowless and lit by a series of fireless lanterns hanging from the ceiling. Its center was dominated by a heavy polished table surrounded by nearly a dozen chairs. Clearly, this was a room meant for larger meetings.
+
+The ones she had come to meet rose from their seats to greet her, and Ling Qi gave Bai Meizhen a polite bow of greeting before turning her gaze to the other person present. This new Bai was… different.
+
+Where Bai Meizhen was a head shorter than her and the very picture of imperial grace and beauty, outside of her odd coloration, this girl was whipcord thin and almost tall enough to look her directly in the eye. Her features were narrow and had a subtly inhuman cast. Her brows were hairless with a ridge of fine black scales taking their place, and her lips had a faint blue tinge. Less obvious signs included the precise shape of her eyes and contours of cheekbones, all of which leant the other Bai an air of inhumanness. Ling Qi was quite sure that she would have found it unsettling a year ago.
+
+Like Meizhen’s, the other Bai wore her hair long, but her hair was a silky black and had been gathered into a number of braids, two hanging in front of her ears and the third making a long tail that reached her lower back. Ling Qi could see the metal glinting among the braided strands. Some kind of weapon, perhaps?
+
+The other Bai’s gown was, unsurprisingly, one of the standard Argent uniforms, although the underlayer of the gown was black. The girl’s expression was studiously neutral, and she was of the early second realm. Ling Qi could tell that the girl was studying her intensely.
+
+She offered the second Bai a somewhat shallower bow and smiled as she shut the door behind her. “Bai Meizhen, thank you very much for your invitation.” She followed her friend’s lead, and sure enough, the younger Bai bristled, a flash of irritation crossing her bright yellow eyes.
+
+“Ling Qi, I am very glad you came,” Bai Meizhen replied evenly. “May I introduce my cousin, Xiao Fen?”
+
+“I am pleased to make your acquaintance,” Xiao Fen said stiffly.
+
+“I am pleased to meet you as well,” Ling Qi said. If she had to compare the two Bai, Bai Meizhen was a towering serpent, hood unfurled, radiating fear and majesty, while this girl was a tightly coiled viper, hissing in furious warning at the human whose foot had just landed in its burrow.
+
+“Have a seat. I have arranged for drinks to be brought shortly,” Bai Meizhen said, paying no mind to their mutual staring contest.
+
+Ling Qi nodded politely as they moved to take their seats. “I am curious. How are you cousins if you do not share a name?” That might have been mean, she supposed, given the way the younger girl nearly twitched.
+
+“We do not follow imperial convention in that regard,” Bai Meizhen answered. “The eight branches of the Bai clan are as one. We do not cast them off as separate clans. Her full name would be Bai Xiao Fen. I consider her my cousin regardless.”
+
+“You do me honor,” the other girl murmured, briefly taking her eyes off of Ling Qi. The look she gave Meizhen was difficult to read, but Ling Qi found herself relaxing a little. Whatever this girl was, she didn’t hold any ill will toward Meizhen.

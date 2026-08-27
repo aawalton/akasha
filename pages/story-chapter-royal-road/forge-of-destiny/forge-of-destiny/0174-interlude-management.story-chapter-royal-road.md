@@ -1,0 +1,107 @@
+---
+id: bb261e61-16f8-5043-8010-ff617490254e
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Management"
+slug: 0174-interlude-management
+partOf: forge-of-destiny
+position: 174
+ownLength: 1778
+unit: words
+publishedAt: 2021-10-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/771812/interlude-management"
+royalRoadId: "771812"
+---
+
+“And that is a deal struck, my friend!” Bao Qian said cheerfully. He extended his hand, and Baron Fu grasped it. Their storage rings flashed, and Bao Qian felt the satisfying clatter of spirit stones spilling into his emptied storage space.
+
+Baron Fu gave a sharp nod as he stood. An older gentleman just getting into his second century with a short, well kept beard and topknot shot through with grey, he was the first customer Bao Qian had on the agenda today. The sale couldn’t have gone better. The crate the baron had been examining lay open, filled with soft gray ash that still smelled faintly of burning wood.
+
+“You were not exaggerating about the potency of the material, young man,” the baron said gruffly, releasing his hand. “This will serve my clan’s fields well in the spring.”
+
+Bao Qian nodded enthusiastically. This would boost business significantly. So far he’d dealt with intermediaries and lesser clan members. Gaining the baron as a customer was quite a coup. The Fu family were among the more prosperous southern farming clans, providing elixir and pill materials for all manner of staple mixtures. More importantly, the Fu clan’s competitors would not leave them with an advantage for long.
+
+“I certainly wish you the greatest prosperity, so that you might be inclined to purchase in higher bulk next time,” Bao Qian said easily. His clan had a reputation, and he found that things worked out better when he leaned into it.
+
+The baron let out a huff of laughter. “Naturally, we will have to see how the testing with our crops proceeds,” he grunted, stroking his beard.
+
+There was a faint rumble of thunder then, and Baron Fu glanced to the south, good humor draining from his gaze. The clouds on the horizon were dark, as they had been for weeks now. Bao Qian had seen the people of the Ganshu valley preparing the floodworks throughout his journey.
+
+“Assuming we have a next year,” Baron Fu said.
+
+“Worry not, my friend,” Bao Qian said. While some might look to emergency as a chance for a quick profit, he was of the mind that customers looking to the future were better for business. “Have you not heard? Her Grace intends to come south herself. The tribes won’t know what hit them!”
+
+The older man slowly shook his head. “Oh, I don’t expect another Ogodei, and my great-grandfather lived through that, too. But that doesn’t mean my fields will be here afterward.”
+
+Bao Qian felt his smile dim and nodded more gravely. “If it comes to that, I will put a word in for you with my father. I am certain a little loan will get things running smoothly again in short order.” He disliked trading on his father’s name, but pride had no place when speaking of the devastation warring high realms could bring.
+
+“I am not so certain my own liege would appreciate the interference,” Baron Fu said dryly.
+
+“I am certain the Wang would be reasonable,” Bao Qian said humbly. “We are all folk of the Emerald Seas.”
+
+The baron gave him the sort of look which only an old man could give to a young man spouting foolishness but nodded. “Perhaps. I’m afraid I have other business to attend to today, young lord, as do you, I am sure. We will meet in three months to discuss the next sale?”
+
+Bao Qian agreed, and they traded a few more customary pleasantries. Unfortunately, the sour subject matter had removed his chance to improve the man’s disposition much. Strolling back toward his wagon, Bao Qian manifested a single red stone in his hand to idly flip between his fingers. It didn’t help that the baron was not wrong. The other counts had many reasons to distrust Bao deals.
+
+His grandfather had seen to that with his predatory practices during the time of Ogodei and after. Although his own father and uncles had ousted the man before he could complete his attempt to join the Celestial Peaks during Duchess Cai’s rise, too many had known of the attempt for it to remain secret.
+
+It was a shame, Bao Qian mused, listening to the sound of the stone clicking against his rings. The seed that the Duchess had planted, and that his uncle, Count Bao, was tending, was such a fragile thing. The idea of an Emerald Seas as a place beyond a location and a collection of squabbling clans was so very fragile.
+
+Reaching his wagon, Bao Qian flipped the stone up and caught it, letting it vanish back into storage. Well, plans were plans, but he had three more meetings before it was time to return to the Sect and indulge in his little… passion project.
+
+***​
+
+“You’re late,” the corpse-child said, tapping her bare foot impatiently.
+
+“I,” Bao Qian said with great dignity, letting his wagon roll to a stop in the yard he had rented, “am exactly on time. You were early, Young Miss.” Meeting the girl’s dead white eyes was no longer unsettling.
+
+She huffed, the very picture of a young girl trying far too hard to be an arrogant young miss. It reminded him of his own younger sister, trailing after his mother like a duckling. Beside her, the snoozing lump of a legendary beast, shrunk to the size of a large boulder, let out a rumbling snore. Because naturally, it would be inappropriate for a young lady to meet an unrelated man alone.
+
+“That’s the same thing. You shouldn’t make ladies wait.”
+
+Bao Qian let out a chuckle as he climbed down from the driver's seat. Dealing with Miss Ling’s siblings was always a touch surreal. It presented an interesting puzzle though, that he could admit.
+
+Yes, an interesting puzzle was the best way to describe Baroness Ling Qi. “Ah, but a polite young lady does not put herself in a situation in which she must wait,” he chided. “Both sides must play their parts.”
+
+She narrowed her eyes at him, clearly wondering if she was being humored, made fun of, or given legitimate advice. The answer was all three, of course. “Whatever,” she said. “You wanted to talk about new songs? Big Sis is busy with her boss.”
+
+“I had wondered why she was not present,” Bao Qian said. He had made the offer to speak with her spirits on their own, but he’d never expected her to take him up on it. It was so difficult to tell where the lines of her trust lay. “The expedition, I suppose.”
+
+“Yeah,” Hanyi said, hopping up onto the shell of the xuan wu to sit down, her chin in her hands. “She’s super busy.”
+
+“Well, no trouble,” Bao Qian said breezily. It was unfortunate; he’d have liked more time to work on her, especially as she would be gone for a month. “I’d wanted to discuss some themes for future performances. I’ve gathered information, and I believe that your appeal could be improved during the winter if you present yourself as a ward against its ills for those places which host you. Do you think that within your sphere?”
+
+The south Emerald Seas was still a deeply religious place. There was a strong benefit to playing into that market.
+
+Hanyi frowned in thought. “I guess. I don’t really understand spirit stuff. I think I could probably bully little spirits into being nice though. Do you think people will like that? Won’t it make bigger spirits mad?”
+
+“I wouldn’t present it as bullying,” Bao Qian said with a straight face. This girl was really not half as elegant as she liked to pretend. It was amusing in its way. “We would be careful not to intrude into larger spirits’ territories, but there are few major spirits of winter in the lowlands. Besides, would their adoration not make you the ‘bigger’ spirit?”
+
+“Huh, that sounds pretty cool,” Hanyi said. “Like this doofus and the village.”
+
+Bao Qian nodded, having little idea of what she was speaking, but the context gave him a guess. He had noticed that Hanyi had little direction to her domain, an oddity for a spirit at her level. He may as well help out. “Because of that, I—”
+
+She held up her hand. “Wait, before I forget, there’s something I wanted to ask since Big Sis isn’t here.”
+
+Bao Qian raised an eyebrow, curious at what made the young girl sound so grave. “And what is that?”
+
+“Are you actually pursuing Sis or not?” Hanyi asked bluntly.
+
+He frowned in consternation. “I would not think of it as a ‘pursuit.’ I am seeking an amicable agreement between us.”
+
+Bao Qian had in some ways been disappointed with the baroness. As a lover of music, he had thought that they would have something in common, but as that dinner had shown, she was not interested in the field as a whole. As an artist, she was very isolated.
+
+However, he did find her playing enchanting on those rare occasions he had caught snippets coming to a meeting. The bleak loneliness spoke to the drive that had seen him leave the halls of the Bao behind, seeking fortune in the margins.
+
+“Yeah, whatever, that’s nice and polite and all, but you're losing your chance being all passive and stuff,” Hanyi said dismissively.
+
+“Excuse me?” Bao Qian asked. “I will be honest, young miss, but I do not think your Senior Sister would appreciate an aggressive approach.”
+
+Hanyi’s expression screwed up. “Okay, you’re not wrong. But like, you’re still not doing enough. Sis is more like Momma than she likes to admit. She’ll totally just leave things as they are forever unless something gives her a kick.”
+
+“A kick?” Bao Qian asked, morbidly curious where she was going with this. He had not planned for this turn of conversation, but that was what happened when dealing with Ling Qi and her spirits.
+
+“I dunno, I’m not a guy, and like you said, Sis doesn’t like aggressive guys. But you need to keep putting yourself in front of her. Sis is kind of a blockhead sometimes. If you let her, she’ll just dismiss you as that guy she talks money with,” Hanyi said authoritatively.
+
+“I… will take that under advisement,” Bao Qian said. “If we might turn the discussion back to your performances?”
+
+Receiving romantic advice from a spirit of winter and desire was not in the itinerary for today, but there might be something in it though. His spirit beast would soon be returning from her scouting. Perhaps when the baroness returned, he could invite her again, this time to a site guaranteed to have something of interest.

@@ -1,0 +1,123 @@
+---
+id: 0f5c5f47-5824-5d9a-94e3-c16722b248c2
+page-type-slug: story-chapter-royal-road
+title: "Threads 41 Justice 2"
+slug: 0053-threads-41-justice-2
+partOf: forge-of-destiny
+position: 53
+ownLength: 3748
+unit: words
+publishedAt: 2021-01-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/620256/threads-41-justice-2"
+royalRoadId: "620256"
+---
+
+For once, Ling Qi did not soar as she took off toward her destination. The expense to her qi, small as it was, was not one she was certain she could afford.
+
+The map that she had memorized showed that the terrain was mostly flat, and while the marshy terrain would have been an obstacle for most, for Ling Qi, it meant little. She dashed through the trees, flickered from branch to branch, and sprung from one muddy islet to another.  Her feet left no impression in mud or grass, and even the thinnest branches barely swayed in her passing.
+
+As she ran, she planned. Cai Renxiang and the soldiers would not be too far behind her. She just had to slow or halt the bandits for long enough that they could catch up. Of course, if there was one thing Ling Qi felt confident that she could do, it was bogging down her enemies in illusions and mist. She knew that she could go all out on the offensive as well, but…
+
+She thought of squealing rat things down in the dark, exploding into bloody snowflakes. Could she do that to a person even if they were a criminal? Ling Qi wasn’t eager to find out. For a moment, she felt a strange stirring of excitement at the thought. The scent of blood and burning wood seemed to fill her nose, and her teeth ached as if in sympathetic memory of that time she had been caught up in a tide of vermin on the hunt. Unsettled, Ling Qi shook the feeling off, focusing on her mission. In the back of her mind, Sixiang stirred in discomfort.
+
+The bandits’ trail was not difficult to follow, but it was less obvious than she might expect for seventy people barging through a marsh. The Cai scouts had already marked the boundaries of the illusion traps which peppered the route, though she could mostly sense them herself if she focused. It still saved her time. Soon enough, she heard boots pounding on mud and voices cursing laggards to keep up.
+
+Catching her first glimpse of their rear guard, men and not a few women in eclectic and poorly repaired armor, she sprang into the air and flew. Curving left to circle around them and catch up, she kept a tight grip on her qi, fading into the shadows of the tree cover. Her eyes flickered silver, and she scanned her surroundings.
+
+Flitting from branch to branch, she began the first step of her plan. Raising her flute, she played the Spring Breeze Canto technique. As the notes of the song spread and echoed, so, too, did her senses. She saw each member of the bandits’ formation. The majority were red souls, as reported, but there were still nearly twenty yellow souls of varying strength in their formation. The bandits mostly carried bows but a miscellany of weapons were also represented; a few of the stronger yellow cultivators had talisman crossbows stowed on their backs.
+
+Of their two leaders, both were early green. One was a tall, spindly man with furtive features and long ill-kempt hair. He clutched a war fan in one hand, and his eyes never stopped moving, darting over the surroundings with a sort of nervous energy. He wore the same sort of mismatched light armor as the rest, but the dark green cloak around his neck glimmered in her qi senses.
+
+His counterpart was almost his opposite, a short, stoutly built woman.  She carried  a heavy war axe. Of the bandits, she was the only one wearing fully metal armor. More importantly, the white cloth-wrapped package and its Cai emblem on her back were just a decoy. She managed to peer beneath the illusion and see the plain wooden box and the paper talisman pinned to its side as her perception technique faded. No matter where she looked, Ling Qi neither saw nor sensed any sign of the actual package. Hidden in a storage ring perhaps?
+
+As the sound of her song washed over the bandits, the tall man stiffened and more than a few other heads snapped up. The bandits’ swift march began to pick up despite the first whorls in the area’s qi beginning to bloom as defensive techniques began to activate within their formation.
+
+Ling Qi felt Sixiang’s readiness and Zhengui and Hanyi’s excitement. She once again felt a strange thrill of excitement. There was no turning back now.
+
+Her qi surged as she shot through the shadows like an arrow. Color and sound exploded outward from her position, raucous phantasms erupting in a wave of mad joviality to engulf the nearest bandits. She felt a pulse of power pushing back against her technique, but in her mind, Sixiang laughed as the dispersal technique met the muse’s power and dissolved away like a fading dream.
+
+Cries to “fall into formation”, “keep moving”, and “find the caster” were drowned out by laughter and song, and men stumbled in confusion, swinging weapons fruitlessly at dancing and laughing phantoms. Even with that promising start, Ling Qi was swiftly reminded that these weren’t her usual opponents, badly organized teenagers with only minimal experience at working in tandem.
+
+The men weren't losing cohesion; they used their closeness to each other to stay oriented amidst the chaos. The second realms raised their voices to shout over the song, and first realms formed up around them. Eyes and ears flared with qi, and light bloomed on drawn weapons and armed crossbow bolts. Qi echoed between the members of the formations, empowering flesh and spirit beyond what a single first or second realm cultivator could achieve.
+
+Arrows and bolts flew out, and a half dozen phantoms burst into butterflies and laughter, but more than a few sizzling bolts hissed through the air where she had been. Ling Qi slipped between revelers without a sound, flowing around a crossbow bolt. It struck the mud behind her, detonating with thunderous force.
+
+The spindly man at the head of the formation waved his fan, and she felt a surge of disorienting lake qi. For a bare instant, she felt strange as if her channels were in the wrong places and her mind had forgotten how to command them, but then Sixiang’s chaotic qi washed out, cleansing the taint and banishing the feeling. But men were already orienting on her at the leaders' shout, peering through the phantoms. She couldn’t just stand and accept their fire; it was too much even for her.
+
+But she only needed to delay them. And she had a new technique to try.
+
+The Joyous Toast technique, the third technique of the Lunar Revelry art, amplified the power of other techniques. So as the melancholy sound of the Forgotten Vale Melody rang out, revelers roared in raucous joy, their stamping feet and hooves providing an accompanying drumbeat, and the world filled with mist. Bandits cried out in alarm as the mist rushed out like a tidal wave, consuming their entire formation and beyond, spreading for hundreds of meters through the swamp and rising hundreds more into the sky, reducing the afternoon sun to a pale memory.
+
+In the dark of the mist, red eyes bloomed, and the laughter of the revelers became cruel mockery. Hands and paws which had grasped at limbs to tug them into a dance became talons that drew crimson lines of blood. In the confusion, Ling Qi shot back into a man’s shadow and vanished from the field, uncaring for the arrows and blades carving uselessly through her phantoms.
+
+The bandits’ leaders shouted something to each other, and the man raised his warfan while the woman struck her fist against her breastplate, making the metal ring like a gong. Ling Qi felt twin pulses of power, stronger together than alone, push back against her mist. Around the leaders, the mist began to lighten, ever so slightly.
+
+Ling Qi focused, and Sixiang wove her power through the breeze, amplifying her song. The mist crashed back down darker than ever, drawing a snarl of frustration from them both.
+
+Ling Qi circled the bandit formation silently as the bandits regrouped themselves. To her frustration, their organization kept them together, and shared defensive techniques shielded them from the worst of her phantom attacks. Orders had rung out, distorted and warbling, to hold fire and press forward. They were near the border.
+
+She was more than happy to let them try. While she couldn’t easily emerge without risking being riddled by the sheer number of arrows, her mist was not such an easy thing to escape. So as the bandits bulled forward, seeking the exit from her techniques, Ling Qi remained in shadow, only briefly diverting to play an Elegy of the Lost, entrapping a straggler or two and draining their qi to restore her own.
+
+For a full fifteen minutes, she held them, nipping at their heels and vanishing before more than a smattering of bolts could fly her way. Slowly, painstakingly, she shifted her mist, lightening it here,thinning it there, letting the confusing qi soak deeply into their senses. And gradually, she turned them around, first until their steps took them perpendicular to their path, and then finally running them backward through the swamp. Perhaps this alone would be enough for Cai Renxiang and the soldiers to catch up.
+
+Naturally, as that thought flitted through her head, she noticed something wrong. She felt ripples in her mist, places where her qi was being pushed aside. In the depths of a gnarled tree’s shadow, Ling Qi scanned the mist and saw them, figures that seemed spun from glass, visible only by the distortion in the mist.
+
+It took a moment, but she counted six of them, their power obscured from her eyes. She saw the spindly man leading the bandits shout something to the closest figure, which replied in a hissing voice, chastising him for uselessness.
+
+Ling Qi felt a sudden surge of power and moved on instinct as six arrows carved through the tree and its shadow, where she had hidden. Sizzling with toxic purple qi, they pierced straight through the trunk and sank into the ground until the fletching vanished under the mud.
+
+But even as Ling Qi materialized among the branches, she felt a sharp sting on her cheek and a hint of wetness. Dozens of men spun to face her, and Ling Qi realized at that moment that the spindly bandit leader had made her silhouette burn with an eerie ghost light.
+
+Phase two then.
+
+In a burst of black smoke, her singing mist blade shot out, screaming through the air where the spindly bandit leader’s head had been and circled back, already seeking his shoulder blades. It was amazing, Ling Qi thought absently, that controlling her domain weapon took no more effort than flicking her fingers these days.
+
+She saw the interlopers now, garbed in matching and clean suits of cloth-shrouded armor, their faces and heads concealed by wrapped scarves. Each one wielded a bow of dark green wood, and already, they were shifting to follow her as she darted to a new tree, moving like a well-drilled unit as empowering arts echoed back and forth between them. They were individually peak second realms, but together, they were pushing themselves to the power of a lower third realm.
+
+But while they had found her, Ling Qi’s mist was not so easy to defeat. The bandits were still lost, and Ling Qi’s desperate dash carried her through the volley that flew her way, many arrows still shooting off into nothing.
+
+Ling Qi landed at the rear of the bandits’ formation. If she couldn’t hide, she would just have to hold. Her allies were coming, and she was not alone. Behind her, there was a heavy thud, and a massive shadow began to form in the mist, towering over her and the bandits alike.
+
+Yet her enemies did not break, run, or scatter. They huddled even closer together, men and women dragging wayward comrades back in line as they struggled to orient themselves and seek an escape. She felt a spreading pulse of heavy metallic qi rippling out from the stocky woman, anchoring and bolstering the spirits of the other bandits against the mist, and she felt the spindly man’s qi branching out like the flows of a river, granting his sight to key members of his group. The next volley of arrows was far more concentrated. The mist and the phantoms took most of them, but Ling Qi still found herself facing down dozens of arrows and bolts, more than a few of which were too potent to allow them to pass through her shadowy form.
+
+Ling Qi was swift though, and her gown was a masterwork talisman. Like a shadow, she slipped through the volley, and the impact of most of the arrows that slipped through were no more than bruises. A single black crossbow bolt brushed her flank and detonated, shoving her to one side and briefly pushing her off-balance. In the moment of her distraction, the spindly man released a spirit beast, a gigantic dragonfly two meters long. It buzzed through the air almost as swiftly as she did, and the thunderous noise of its wings slammed down on her like a hammer, flattening the earth and mud for a dozen meters around. Ling Qi grimaced as she felt her head ring and a droplet of blood fall from her nose.
+
+Amidst the bandits, more shapes began to emerge. Not every one of their yellow souls had a spirit, but there were still more than enough that did.
+
+Of course, Ling Qi’s response to that escalation was already here. The sound that Zhengui made did not resemble his still childish speaking voice. It was the natural bellow of an enraged eight-meter-long tortoise. Zhen snapped out, swift as a shadow, and snatched the dragonfly spirit that had struck her out of the air. The massive insect let out a shriek of agony as burning fangs punched through its exoskeleton. Ash poured out from Zhengui’s maw, further darkening the area around them with burning particulates, and Ling Qi felt roots spreading under the earth.
+
+And beneath all the thunder and noise, a soft, almost shy song began to ring out. Hanyi stood in the shadow of Zhengui’s shell, eyes dancing with delight as she reached out plaintively to the gathering bandits. The first man affected, a mid yellow archer at the edge of the formation, stumbled out of line with his fellows, his eyes glassy and dazed as he shrugged off their attempts to pull him back.
+
+Ling Qi kept her eyes locked on the spindly man, even as viridian light rippled across her body, the Ten Ring Defense technique hardening flesh and bone against further attack and beginning to draw a thin trickle of qi back into her depleted reserves to replace what she had spent. Her flying blade circled him like a hungry wolf, and the dull steel sword he had sent out to contest it groaned and shuddered under the cry of her singing blade, its edge already beginning to crack and flake.
+
+The man was the leader that was allowing the bandits to shoot so accurately. So perhaps it was time to cut him off. Even as she fell back into Zhengui’s ash, she began to play, and the spindly man’s eyes widened in alarm as the mist closed around him. He tried to slip out of the effect, but bolstered by Sixiang, there was no escape. It wouldn’t last forever, but he was out of the fight for a precious few moments.
+
+Attacks still came, but bolts and arrows now pelted Zhengui, although the explosives did no more than make her sturdy little brother shudder, leaving the occasional pockmark on his forelegs and head that bled white hot blood.
+
+But even without the man providing them vision, the bandits and masked archers were adjusting, clumps of men spreading out to surround her. The pale fire burning on her skin prevented her from slipping back into the mist, and although it flickered as Sixiang tried to wash it off, the effect of the arrow held. And those masked archers had far better aim than the bandits. Ling Qi flew upwards to avoid the arrows sizzling through the air. Where the arrows struck, plants rotted and the ground turned dark with poison.
+
+Yet despite their perfect coordination and their reinforcing techniques, her superior cultivation was telling. With inhuman grace she darted through the storm. Twenty four arrows flew from six bows in the blink of an eye, and all but three failed to touch. Of those three, two glanced off, burning sizzling lines into the verdant light of her defensive technique. A third pierced through and drew a deep cut across her shoulder that burned painfully before Sixiang purged the poison.
+
+Zhengui took the archers’ attack poorly. Spearing roots stabbed up through one trio’s formation, forcing them to scatter, and she caught a glimpse of broken wings and twitching legs disappearing down Zhen’s throat before a searing glob of liquid fire threw up a cloud of steam where it landed in the midst of the second trio’s formation, drawing the first cries of pain from them.
+
+Her enemies took advantage of her focus on the archers. Ling Qi’s head whipped around as she felt something powerful echo in the mist, and ahead of the formation, her mist split, not dispelled but forced apart, opening a lane for the bandits to escape through. The bandits’ formation moved with renewed vigour, pushing hard for the exit, save for the illusionist and a dozen lost stragglers unable to keep up.
+
+Ling Qi scowled. She was starting to feel some strain delaying the group. She didn’t know who had done that, but she couldn’t just let them run off… Red-eyed shadows joined her laughing phantoms, clawing and snapping at the heels of the bandits. She ignored the cries of pain as men were swarmed by scores of hungry shadows and pushed on to the finale of the melody. As she poured still more qi into the Traveler’s End technique, the corridor in the mist began to close.
+
+There was someone else here, the suspected hidden third realm. The armored woman had not done that, and the tall man was still trapped in her elegy, fighting off her Singing Mist Blade with his own increasingly battered sword while his qi drained away. But those archers were still piercing her mist, even if their arrows were now stinging Zhengui like a swarm of hornets. One of the masked archers at least had slumped and run into Zhengui’s reach toward a song that called him, only to be snatched up by Zhen, pumped full of venom, and flung away, screaming. She couldn’t sense who or where this last opponent was, and it was beginning to worry her.
+
+A warhorn sounded behind her. Ling Qi felt an intense build up of qi, and then, a lance of light so dense that it seemed almost liquid cut through her mist and carved a line of devastation through the struggling bandits. To Ling Qi’s eyes, it was obvious that it had been a blind shot. It carved through too far to one side, missing the center of the bandits’ formation.
+
+Ling Qi felt her stomach turn as she saw the moment of impact, a pair of straggling reds at the edge of the formation that had been caught in full by the blast. They didn’t burn or explode. No, the light simply passed through, and everything from their waists up ceased to exist. The men behind them were no luckier until the light finally splashed against a hastily pulled up wall of packed mud and earth, boring through and cooking the mud into clay but weakened enough to merely burn the men on the other side.
+
+Ling Qi looked at the source, and she could see Cai Renxiang and the soldiers she had brought with her. Her liege was obvious at the center of the line, flying above the earth on wings of radiance, sword in hand. The men behind her were no less bright. Their armor and weapons glowed a luminous white, and together, they made an artificial dawn. With spears drawn and leveled, they advanced in an implacable line toward the edge of her mist, but they were still far away.
+
+Then Ling Qi’s instincts screamed danger, and she pulled up the power of her Deepwood Vitality technique just in time to meet the head of an arrow barely a centimeter from her head just as the thundercrack of its flight reached her ears. Eyes wide, Ling Qi jerked her head to the side as her defensive technique shattered. The arrow flew by, and through the perspective granted by her canto, she saw the trunk of the tree it struck disintegrate, rotting into a black slurry in a handful of seconds. A second arrow struck her in the stomach almost simultaneously, only the power of her gown deflecting it across her side instead of letting it punch through. Pain flared in her thoughts as black venom began to seep into the wound.
+
+Ahead of her, hundreds of meters away in the direction of the border, she saw a shape rising from the earth just outside of her mist. He stood atop the head of a titanic mud brown serpent, a dozen meters long or more. He himself was dressed much like the hidden archers in clothing of brown and green, and the warbow held in his hands was far more deadly in appearance, recurved and as long as he was tall, the arrow nocked there looking more like a small spear. On his back, she caught sight of a white package stamped with the mark of the red butterfly.
+
+Unlike the other archers, his head was uncovered, leaving his long hair, black and streaked with dark green, to fly free. More importantly, it left the upper half of his face bare, revealing his golden, slit-pupiled eyes.
+
+Ling Qi found herself all too aware of how swiftly the cultivation advantage could change. The Bai was a threshold stage cultivator, the fourth step of the third realm, and his spirit beast at the third step.
+
+As he began to once again draw back that monstrous bow, Ling Qi saw his sneering lips move, “Can’t expect peasants to do a Bai’s work, I suppose.”

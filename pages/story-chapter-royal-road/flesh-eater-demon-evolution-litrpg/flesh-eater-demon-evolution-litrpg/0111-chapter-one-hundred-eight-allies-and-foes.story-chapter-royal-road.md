@@ -1,0 +1,163 @@
+---
+id: 95eb3e7e-279a-5ee8-9437-7f415efd086d
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Eight: Allies and Foes"
+slug: 0111-chapter-one-hundred-eight-allies-and-foes
+partOf: flesh-eater-demon-evolution-litrpg
+position: 111
+ownLength: 2405
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3713316/chapter-one-hundred-eight-allies-and-foes"
+royalRoadId: "3713316"
+---
+
+Almost immediately, Daphne rose from her chair. “He’s dead? How?” she demanded.
+
+Agnes glanced between her and Lord Alardice, but she finally turned to Daphne. “After leaving the street, the medics moved him to an isolated room in the Inner Ring hospital,” she explained. “He was unconscious, but stable, so we left a few knights outside his door to keep watch.” Her lips thinned. “When the medics returned to check on him, he was already dead.”
+
+The magic-users exchanged looks at that. “Did they find a cause?” Llyr asked. “I believe I stopped the bleeding entirely, and there were no infections as far as I could see. I can’t imagine he would’ve passed of his wounds so quickly.”
+
+Agnes shook her head. “The medics are stumped,” she said. “They can’t find any obvious causes, and as you said, his condition was stable. It appears his heart simply stopped. The lead doctor suggested it might’ve been due to shock.”
+
+“Bullshit,” Callan muttered under his breath. No one at the table, not even Agnes herself, seemed particularly inclined to believe the suggestion.
+
+“Who had access to the room?” Lord Alardice asked, eyes sharp.
+
+“Only the knights and medical staff, my lord. They were instructed not to allow anyone they didn’t recognize inside.” She frowned. “I assume you also find the circumstances suspicious.”
+
+Lord Alardice didn’t say anything to that, but from his silence, it was obvious that the answer was yes. Callan shifted uncomfortably in his seat.
+
+“Could you… I mean, have you questioned the knights and medics yet?”
+
+Agnes’s lips thinned. “We did, but there was nothing suspicious we found. Every person was accounted for. I’d like to believe that none of my knights would betray me like this, but you’re not wrong that they would’ve had the easiest access to the room.” She looked a little disturbed at the thought. “I’ve ordered a more thorough interrogation.”
+
+“Has the body already been moved?” Llyr asked. “I could take a look at it. Perhaps I’ll be able to find something that the other healers missed.”
+
+Lord Alardice sent Agnes a pointed look at that, an unspoken conversation passing between them. Finally, the captain turned to the healer and shook her head.
+
+“We’ve completely closed off the hospital while we continue to investigate,” she explained. “The perpetrator could very well still be inside the building. We’d like to avoid allowing anyone inside or outside for now—at least until we’ve had a chance to thoroughly interrogate everyone currently within the hospital.”
+
+She gave Llyr a sympathetic look. “This is also for your own safety. If he was truly killed by another member of his group, the chances of them searching for a new victim are high.”
+
+Pyre raised an eyebrow at that. The logic wasn’t wrong, per se, but combined with all the other weird stuff that had been going on, it just looked like Lord Alardice was doing his damnedest to keep them as far away from the situation as possible. From Daphne and Callan’s frowns, they were clearly thinking the same thing.
+
+“What about the arm?” the demon said. She was still sitting in her chair, sprawled casually back as she observed what was happening. “That still around?”
+
+“It is,” Agnes replied. “We have it preserved behind several layers of wards.”
+
+“Can we look at that, then?” A tiny bit of desperation had seeped into Callan’s voice. Based on his expression and the better-concealed, but matching frustration on Daphne’s face, the two mages probably felt helpless about the whole situation. They’d found a lead only for that lead to die under suspicious circumstances not one day later.
+
+Pyre clicked her tongue. She should’ve grabbed the guy while the knights were transporting him to the hospital earlier. Then again, with the amount of guards they’d had escorting him and the general heightened alert in the city after their little chase, that might not’ve worked, either.
+
+“I think you should all leave.” Lord Alardice’s voice was hard and flat. He rose from his seat, expression unreadable. “It’s getting late, and I wouldn’t want to stress my guests.” The noble stepped out from behind the table while Daphne narrowed her eyes. He didn’t give any of them a passing glance, his body language making it clear that he was done here.
+
+Pyre gave the man a long look. Slowly, she stood as well. It was obvious that Lord Alardice wasn’t going to listen to them or give them more information, so there wasn’t much point in staying any longer. If they kept questioning him, he might actually try and throw them in prison, and she’d rather not deal with that mess.
+
+Daphne and Callan’s eyes both darted to her as she rose. Daphne, in particular, looked like she still had some choice words to say to the noble, but she swallowed them down and visibly forced her shoulders to relax. She nodded at the man, once again all aristocratic grace.
+
+“Thank you for the lovely dinner, Lord Alardice,” she said, only the faintest bit of stiffness seeping into her voice. “I look forward to hearing more from you about these disappearances.”
+
+The man nodded slowly. “Likewise,” he muttered. He turned to Llyr. “Do let me know if you change your mind. The Alardice estate is always open to you.” He waved at the dining room door.
+
+“Captain Agnes, please escort them back to Llyr’s home. It’s quite late, and I’d hate for anything to happen to our guests,” he said pointedly.
+
+The woman raised an eyebrow, but she nodded. It was pretty clear that this was as much for their “safety” as it was to make sure they actually returned to Llyr’s mansion in lieu of, say, heading for the hospital.
+
+The knight turned, and the three magic users stepped forward as well. Pyre was about to follow, but the distinct vibration of footsteps behind her stopped her in her tracks. The demon turned around just as Lord Alardice approached and the others exited the room, leaving only the two of them inside. She raised an eyebrow.
+
+“Can I help you?”
+
+The noble didn’t say anything at first, simply observing the demon with those unreadable eyes. Even under the light of the chandelier, they looked nearly solid black.
+
+Finally, after the silence had stretched long enough to fully fill the space, he opened his mouth to speak.
+
+“You lot seem to enjoy poking your noses into things.” It was spoken as a simple observation, tone flat. Pyre shrugged.
+
+“I’m just a guard,” she said simply, nodding her head at the door where the three magic-users had exited. “If you have a problem with us, you should talk to Lady Daphne about it.”
+
+“Just a guard.” The corners of Lord Alardice’s mouth twitched. “And yet, your companions always look to you first when decisions are being made. Quite curious indeed.”
+
+Pyre met the man’s gaze steadily. “I’ve got a decade on them, and Lady Daphne’s not too stuck up to listen to a commoner’s opinion.”
+
+“Hm, perhaps.” Lord Alardice’s gaze flitted to the door, then back. Pyre couldn’t see any heat signatures in the hallway, so the others were probably waiting at the front of the mansion or at the gate. “You’re all staying with Llyr, correct?”
+
+“That’s what we said, yeah,” the demon drawled. The noble didn’t respond right away, seemingly considering something.
+
+“You should be careful,” he finally said. His voice was so low that she barely heard it. “You wouldn’t want to dig a hole too deep to climb out of. Some things do not concern you.”
+
+Pyre gave the man a long look at that. His face was as stoic as ever, voice and expression giving nothing away. She could see him scanning her as well, but she was every bit as unreadable.
+
+“I’ll keep that in mind,” the demon replied.
+
+Lord Alardice nodded slowly. Without another word, Pyre turned and exited the dining hall.
+
+A number of guards stood outside the door—noticeably more than before. She gave them a lazy salute before turning in the direction of the main entrance. She hadn’t been wrong about the place being well-protected. No doubt the guards had been ready to spring into action the second they were ordered.
+
+When she reached the door, the demon saw Daphne, Callan, and Llyr waiting with Captain Agnes. They immediately turned towards her as she approached.
+
+“Are you okay?” Callan asked right away. “What happened?”
+
+“I was just having a chat with Lord Alardice,” Pyre said casually. Llyr’s brows furrowed at that.
+
+“What did he want?”
+
+The demon shrugged, glancing over at Agnes. She was watching them with mild curiosity, but she didn’t seem particularly hostile or suspicious of them. “Mostly just said to stop poking around things that don’t concern us,” she said. The knight captain snorted lightly at that while Daphne scowled.
+
+“Of course he did,” she muttered darkly. She seemed to remember that Agnes was there and quickly cleared her throat. “Anyway, I suppose we should head back now. It’s already dark out.”
+
+She didn’t sound at all happy about her own suggestion. Pyre suspected that the noble had already tried to convince Agnes to let them walk back on their own. Clearly the knight hadn’t been swayed, because with a nod at the group, she pushed open the doors and led them outside.
+
+In the darkness, the path leading to the mansion glowed softly, illuminated by some mysterious magic. The fountain waters gleamed with silver ichor, and a few glass orbs placed around the rose garden shone like warm candlelight. Serindell, in general, was far more bright at night than Magrath had been, and Pyre would’ve had no trouble seeing anything on the road back even if she hadn’t had darkvision.
+
+The group exited the Alardice property and continued down the street. They were quiet for the most part, Agnes’s presence at the front of the group stopping them from discussing anything too directly. They certainly couldn’t say “Lord Alardice is one suspicious motherfucker” in front of the knight.
+
+In the end, Pyre stayed silent the whole way back, casually observing their surroundings as they walked. Llyr chatted a bit with Agnes, clearly familiar with the knight, and Daphne occasionally made a few comments to keep up the small talk. Callan, meanwhile, seemed even less keen on talking than the demon was.
+
+Finally, they crossed through the eastern gate, and after a few more minutes of walking, the group reached the top of the hill just before Llyr’s house. The mansion was visible at the bottom of the slope, and Agnes nodded to them.
+
+“I trust you’ll be alright from here?” she said, a bit of dry amusement entering her voice. “I need to return to the hospital soon before my knights burn the place down.”
+
+Llyr smiled. “Thank you, Agnes. Good luck with the investigation.”
+
+The knight captain nodded and made to turn away, but she paused at the last second. She glanced back at them, brows furrowed slightly.
+
+“Just so you know,” she began slowly, “I do believe your story. We’ll still need to call you in for questioning, but you’re not wrong to find this entire situation suspicious.”
+
+Their group exchanged looks. I find it suspicious, too, were the knight’s unspoken words.
+
+“I’m limited in what I can do by my position,” the captain continued, “but if there’s anything I can do to help, just let me know.” Her eyes darkened. “There’s something rotten in this city, and I’m afraid it will only spread the more time passes.”
+
+Daphne opened her mouth, then closed it again. Slowly, she nodded.
+
+“Thank you, Captain Agnes.” Her eyes gleamed. “And we’ll definitely take you up on that.”
+
+The woman chuckled. “I’ll look forward to hearing from you, then.”
+
+With that, the knight turned away and left for the city gate, her long braid shining silver in the moonlight. Her armor clanked slightly as she walked, but her footsteps were dulled by the soft grasses. Soon, Agnes disappeared from view, blending into the inky darkness.
+
+Llyr turned to the mansion once the knight was gone. “We should head inside,” he said.
+
+The moment they shut the door behind them, Daphne cursed. “Damn it, I knew we shouldn’t have left him with them!” Pyre didn’t think she’d seen the noble look so frustrated since learning about her uncle working with the Empire.
+
+“Unfortunately, I’m not sure we had a choice,” Llyr said gently. Callan dropped his head into his hands and groaned.
+
+“I guess we’re lucky Pyre got the information she did before they took him away,” he mumbled. He dropped his hands, brows furrowing. “What are we supposed to do now? Wait until the knights are done investigating? You think they’d let us see the body then?”
+
+“Agnes might,” Daphne said. She frowned. “The evidence might already be gone by then, though, if there’s any to begin with. It sounds like it was a clean kill.”
+
+“So what should we do?” Callan sounded miserable. Pyre exchanged looks with Llyr, and the healer turned to the two mages.
+
+“It’s late,” he said in that calm, serene voice of his. “Daphne, you should rest.” Before the noble could open her mouth to protest, he continued. “We’re close to completing the portal spell. If you don’t mind, Callan, we can test if extraneous ichor hurts you while Daphne rests. Tomorrow morning, I’ll cast the final spell, and then we can discuss what to do next.”
+
+The noble blinked at that. In the commotion of the dinner, she’d nearly forgotten about her own ichor poisoning and just how close they were to curing it. Well, not “curing” it per se, but preventing it from getting worse.
+
+“It’s a good plan,” Pyre said, casually leaning against the wall. She nodded towards the infirmary, where the portal runes were still set up. “Do what we came here to do first, then figure out all the other stuff. Sound good?”
+
+Daphne pursed her lips, but she nodded slowly. “Okay,” she finally said. Her fingers tightened, squeezing the cloth of her dress. “But if anything happens, wake me up, okay?”
+
+The demon saluted lazily. “Will do,” she said.
+
+With a final nod at them, Daphne turned and headed up the stairs. The three monsters were left standing by the entryway. Callan glanced nervously at the infirmary down the hall.
+
+“Now then,” Llyr began. “We should prepare for tomorrow.”

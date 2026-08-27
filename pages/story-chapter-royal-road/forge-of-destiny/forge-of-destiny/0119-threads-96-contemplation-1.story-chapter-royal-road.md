@@ -1,0 +1,105 @@
+---
+id: 11a9b5a4-43e9-50b2-83fb-449e24c31aef
+page-type-slug: story-chapter-royal-road
+title: "Threads 96-Contemplation 1"
+slug: 0119-threads-96-contemplation-1
+partOf: forge-of-destiny
+position: 119
+ownLength: 1807
+unit: words
+publishedAt: 2021-06-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/701124/threads-96-contemplation-1"
+royalRoadId: "701124"
+---
+
+Ling Qi centered herself as she viewed the world through the lens of spirit. She saw the whorls and eddies of qi that gathered in this place where the world was thin and the streaming curtains of silver lunar qi that wafted down from the night sky that mingled with the free-flowing streams of wind and water and streamed down to permeate the stolid earth beneath her feet. She hummed the Spring Breeze Canto, and it came into even sharper focus.
+
+She glimpsed the immaterial, fleeting traces of dream that hung over the Silent Stones like a curtain of invisible lace. She traced the dissolving current of one and took the first step of the dance, as Sixiang had instructed her many times.
+
+“Jesting aside, are you truly well, Qi?” Meizhen’s voice reached her ears on subtle rhythms of thunder, emanating from the pillar of black water which occupied her friend's place in the spiritual world. The predatory plate-sized golden eyes which stared out from those depths implied a horror that lay beneath, but Ling Qi knew those slitted eyes held only concern for her, and so the primal fear washed from her mind.
+
+“Of course,” Ling Qi replied, stepping to the unheard rhythm that Sixiang was humming in her head, following the phantom guidance of immaterial fingers tugging at the sleeves of her gown as she tried to match the flow of the dream. “Why do you ask?”
+
+Her friend was silent for a moment, and Ling Qi twirled along with a whirl of energy, feeling her skirts fly out with the motion. “You cannot tell me that Gu Xiulan’s exit from the Sect did not affect you. Nor that the danger to your mortal family from the attack left you unruffled.”
+
+Ling Qi faltered, and the wave of dream qi escaped her. She kept her eyes closed but put on a smile. “Mother actually broke through to red,” she deflected.
+
+“I am pleased for both her and you,” Meizhen said tersely. “But that is not the point.”
+
+Ling Qi took a shuddering breath and reset her stance to the start of the dance. “It hurt to see Xiulan go. It hurt even more to know that my family was in danger and I was nowhere near,” Ling Qi said, forcing herself to resume the exercise. She felt Sixiang’s arms around her shoulders and her friend’s genuine concern, and the cold feeling that had arisen receded. “But what can I do?”
+
+“Little,” Meizhen replied sadly. “But I worry, Ling Qi. What I have heard from you recently… You have always been adaptable for the most part, but it is a large change. Are you certain that you are not haring off with new cultivation and arts to bury other concerns?”
+
+“Maybe a little,” Ling Qi said, the honest words coming easily because it was Meizhen. It was easier to keep advancing, to keep marking off tasks from her mental checklist, to keep going with her day.
+
+“Don’t be unfair to yourself,” Sixiang said, their voice tickling her ear. Their volume increased, clearly addressing Meizhen. “I wasn’t helping. I had my own troubles, and she helped me out, but the realization she had in doing it was genuine.”
+
+Again, Ling Qi stepped, and she spun, riding out the whorl to glide across the ruined stones as her friend replied. “And what realization was that, spirit?”
+
+“That I had been making a lot of mistakes,” Ling Qi cut in wryly. “Out of apathy, out of pride, out of a lot of things. The art I dug out of the archive helped, but I doubt the lessons it's trying to teach would have sunk in without Sixiang.”
+
+The pillar of black, poisonous waters which represented Meizhen in her vision shuddered and swelled as the eyes within cut through her like knives, peering past her words and into her heart. “I am not unhappy that you are no longer emulating my poorer habits,” Meizhen said. “If you feel that what you are doing now is truer to the self you wish to be, than I will merely be happy for you.”
+
+“I chose to walk the path I do now. I’m just going to make myself miserable if I keep thinking that dealing with others is a chore. It’d be doing a disservice to Lady Cai too,” Ling Qi said. She felt the tingling feeling of the dream’s currents curling about her ankles, and for a second, her feet touched polished flagstones rather than yellow grass and crumbling rock. The moment passed, and she lost the eddy which had briefly carried her there. This was surprisingly tricky.
+
+“Then that is good,” her friend agreed. “Yet, I still sense that you are troubled. Please, Qi, I would know what it is that weighs on you. Is it that heart demon which you mentioned at our last tea?”
+
+This time, Ling Qi avoided missing a step and continued to pick up the tempo of her dance, whirling more quickly in the eddies of dream, but Meizhen’s words still struck home hard. She had been avoiding thinking about it. She was working with Zhengui and Hanyi more, but it wasn’t helping. It made her feel like she was missing some insight. “I don’t know what to do about it,” Ling Qi revealed helplessly.
+
+“Is it something you are willing to speak of?” Meizhen asked cautiously.
+
+If anyone else had asked, she would have said no. She wouldn’t have mentioned it at all. Only Sixiang was really properly aware of her trouble, and that was because it was incredibly difficult to hide something from someone living in her head.
+
+<You try though,> Sixiang chuckled silently. <You goof.>
+
+“I can’t stop pushing forward. I can’t slow down. There’s still so much of my path to travel,” Ling Qi said, frustrated. “But I feel like I keep hurting the people I care about in pursuing my goal. Zhengui wants to fight beside me, but I keep leaving him behind. It always seems like the best option in the moment. My mother wants to be part of my life, but she’s only barely a cultivator, and there’s so little she can do. And if it keeps going like this, I’m going to leave others behind. Li Suyin just barely reached the full third realm, and I’m already heading for the fourth step. Xiulan almost killed herself trying to keep up with me!”
+
+The words poured out in an ugly torrent, and she lost the step of her dance, stumbling as reality reasserted itself. She opened her eyes, turning to look at Meizhen seated upon the stone, looking at her with worried eyes.
+
+“I don’t want to be alone again, but I can’t stop growing stronger.”
+
+In a way, Meizhen’s own unceasing growth was a great comfort. As much as it frustrated her in spars, knowing that her friend would always be there, a step or two ahead, was a balm in other ways.
+
+Meizhen stared at her for a long moment, her eyes fractionally wider than usual, an expression that would have been gaping in surprise for anyone else. “Ling Qi, you cannot expect everyone in your life to match your cultivation. That is a path which holds only pain.”
+
+“I know that,” Ling Qi replied. “What would you do, if Cui stalled out in the third realm? How would you deal with that?”
+
+“Do not ever let her hear you posit such a thing,” Meizhen warned. “I would make room in my life for my cousin, no matter her strength. Those who rule must be the strongest, else we would collapse into warlordism and chaos, but there are many roles in this world which are not ruling. You cannot remain connected to others without giving of yourself. To imagine otherwise is utter selfishness, more than even you have displayed at your worst.”
+
+Meizhen’s words cut, but she wasn’t wrong. “I don’t want to hurt them,” she whispered. “I know I can’t be like that, but how do you reconcile that with cultivation?”
+
+Meizhen pursed her lips. “It is impossible to relate to others without hurting and being hurt in turn. We fear, and we are feared.” Her words sounded final, as if to her, it was some absolute truth. “But pains and fears have worth when they bring us the happiness of companionship. There is more to strength than raw might.”
+
+Ling Qi’s hands curled into fists, but slowly, they loosened. “I get it in my head, but I don’t know how to accept it yet in my heart,” she said tiredly.
+
+“You will find your answer. You are not one who will falter long. That, I believe,” Meizhen said sincerely.
+
+Ling Qi sighed, looking ruefully upon the scattered lunar qi, disrupted by her turbulent emotions. “Looks like I might need to resume cultivation tomorrow evening.”
+
+“You got pretty far despite the distraction,” Sixiang said encouragingly. “You probably just need a few more nights of practice.”
+
+“Maybe,” Ling Qi said, flopping down upon her favorite stone. “We’re running out of time though.”
+
+“What do you mean by that?” Meizhen asked sharply.
+
+Ling Qi blinked, and then, she grinned sheepishly. “Ah, that was the other thing I wanted to tell you. It looks like I’ll be joining one of the first expeditions going down.”
+
+“Of course you are,” her friend said, squeezing her eyes shut. “Please, Qi, do not be reckless.”
+
+“I won’t be,” Ling Qi promised. “How about you? What is the Bai’s take on the Sect’s mobilization?”
+
+“I will not be participating in any offensives.” Meizhen looked conflicted about that. If Ling Qi had to guess, Meizhen was pleased at the clear indication that she was valued but displeased at being prevented from raising her clan’s name. “I will fully cooperate with any defensive measures the Sect wishes to take. I will be receiving some training in Argent Peak Sect’s tactics and warfare under a core disciple for the next month.”
+
+“Congratulations,” Ling Qi said. “I hope you do well.”
+
+“You as well. Let your enemies be driven before you,” Meizhen replied, looking up at the sky.
+
+Ling Qi nodded, following her gaze up to the clear night sky. It was as clear as it could be, what with the titanic dragon floating up there. “Ah, are you still up for a little shopping?”
+
+Meizhen gave her a questioning look.
+
+“For Hanyi,” Ling Qi clarified. “She’s going to be performing with me at this weekend’s party, and Lady Cai put together some equipment funds.”
+
+“I do not see why not,” Meizhen said with a touch of amusement. “I suppose someone will have to take the place of your taste with Gu Xiulan absent.”
+
+“I’m not that bad,” Ling Qi scoffed, leaning back in her seat. It was good to spend time with her best friend.

@@ -1,0 +1,145 @@
+---
+id: 1fea67b9-869d-5c55-b45d-4bd7b77ba57b
+page-type-slug: story-chapter-royal-road
+title: "Threads 309 Traditions 3"
+slug: 0349-threads-309-traditions-3
+partOf: forge-of-destiny
+position: 349
+ownLength: 1402
+unit: words
+publishedAt: 2023-05-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1229312/threads-309-traditions-3"
+royalRoadId: "1229312"
+---
+
+Ling Qi let out a breath as a few more small pleasantries were shared, and the White Sky left, along with Wang Lian. Jin Tae said his goodbyes, managing to never once drop his smile, as if she’d not irritated the ministry at all.
+
+It left her and Xia Lin with the general still standing there, stock still. She waited another beat, not wishing to leave first, but that blank mask of a helm remained fixed on some point in the distance.
+
+Finally, Ling Qi nodded to Xia Lin, and they turned to go.
+
+“Baroness. I will speak with you.”
+
+Ling Qi stopped, exchanged a mildly alarmed look with Xia Lin, who glanced over her shoulder at the unmoving general, and then gave her a helpless shrug. Ling Qi hid her grimace with a cough and turned back around. “Of course, General. What can I help you with?”
+
+The metal figure standing by the table was wholly unmoving, save for the faint motion of fingers brushing the hilt of her sheathed blade. “My information on you was incomplete.”
+
+Ling Qi was not entirely sure how to respond.
+
+“Your methods are wrong. Foolish. You lean on rotten scraps and broken foundations,” the general criticized. “The dead build nothing.”
+
+“I must respectfully disagree,” Ling Qi said very carefully. “You can build new from old.”
+
+“And that is why I say my information was incomplete. Your methods are wrong. Your goals are correct.”
+
+Ling Qi blinked, taken back.
+
+That faceless helm turned toward her with only the faint creak of oiled metal, but Ling Qi felt the heat on her face, as if she stood before a roaring forge fire. She felt her eyes water and her nose and lips go dry as the general really looked at her.
+
+“Do not do things for dead men. They cannot appreciate it. Building is for the living and those yet to come. Do not allow sentimental attachment to worthless minutiae and dead men’s words to bind your efforts. Perhaps you have found a worthy use for these materials, this salvage of yours. We will see.”
+
+Ling Qi blinked, not just because of the words spoken, but the echo of something else, something old that burned a stray tongue of flame in her thoughts.
+
+“Pride, traditions, history, faith! Is that all you can say, you miserable old man? What has any of it bought us but humiliation, defeat, and disdain?!
+
+The sound of a fist striking flesh. A young woman’s snarl of pain. Blood spat on the ground.
+
+“We cannot answer even the most blatant insults. Your precious traditions can defend none of us from any abuse. You, half in the ground, chain us to graves even older, longing for a past you’ve never seen, and would strangle any who try to break them. Fine, then! Strike to kill the next time, grandfather, or when I return, I will burn those graves, and sever those chains, all.”
+
+It was a bare moment, leaving her blinking. Her eyes flicked up to the general’s face plate. That… had been the general, younger, angrier, but still…
+
+“I will take your words to heart. Whatever you think of my methods, my eyes look forward.”
+
+“Many who use your methods have believed that,” the General said, finally looking away. “Dismissed.”
+
+The air screamed and split vertically, severed air a pale electric blue, and the general turned, her silhouette narrowing until it was only a single gleaming edge, and then, she was gone.
+
+“What was that?”
+
+“I think my aunt has adjusted her opinion. Slightly.” Xia Lin sounded shocked.
+
+“No—” Ling Qi started to deny and clarify that she meant those strange echoes, but Xia Lin hadn’t heard them, had she? Ling Qi looked down at her hand, flexing the fingers, studying the qi flow beneath her skin.
+
+[Communication]
+
+The word reverberated in her spirit. Had that strange moment come from what she had developed in the nightmare tribulation?
+
+She wished she could ask Sixiang, but she supposed they probably wouldn’t know either.
+
+“Ling Qi?”
+
+“I’m sorry. I was lost in thought.”
+
+“You handled leading that meeting well. A moment of introspection is not untoward.”
+
+“I suppose it isn’t. I apologize for saddling you with a difficult duty without notice.”
+
+“Difficult duties often arrive unannounced,” Xia Lin said dryly as they set off down the path. “Acting as the general’s voice is not the worst duty.”
+
+“Nerve wracking though,” Ling Qi muttered.
+
+Xia Lin made an indeterminate sound, not verbally agreeing or disagreeing.”What is our next appointment?”
+
+“We need to speak with Lady Cai. We’d both like your report on how matters are proceeding at Snowblossom. I am concerned about having none of us regularly on site, though Lao Keung’s presence helps.”
+
+“A foreign retainer being the primary defense is unusual.”
+
+“There would be literally nothing for him to gain from betrayal, and his liege is well known to me.”
+
+“I suppose,” Xia Lin said. “Lady Cai and yourself will be making trips back and forth, too. It is only two days distant as the hawk flies.”
+
+“Yes, let's not get too far into it here. I hate having to repeat reports.”
+
+“On this, we agree.”
+
+***
+
+“Good. It is good that there were no special incidents. I am concerned about the choice of diplomatic venue,” Cai Renxiang said, steepling her fingers.
+
+“It is a gamble, but calculated in our favor, I feel. We cannot get by without taking chances,” Ling Qi replied.
+
+“Not untrue, but vexing all the same,” Cai Renxiang said sourly. “I will keep an eye on matters. Thank you, Xia Lin.”
+
+“It is my duty.”
+
+Xia Lin insisted on giving her the only chair, standing at attention. Ling Qi thought she just wanted to be the tallest one in the room for once.
+
+“Nonetheless, I have high expectations,” Cai Renxiang said.
+
+That earned a sharp nod. Ling Qi thought Xia Lin seemed encouraged. She was kind of a simple girl at heart, wasn’t she?
+
+“There is one matter we should attend to before getting to your report however,” Cai Renxiang said. “I received a missive while you were away. It seems that there were some results from the meeting between King Sun and my mother.”
+
+Ling Qi felt her stomach sink. She had a premonition, but really, what were the chances?
+
+“His great-granddaughter, Sun Liling, will be representing his southern interests at the summit.”
+
+Ling Qi cupped her hands, rested her chin in them, and took a very deep breath.
+
+Was this what Cai Renxiang felt like when she gave her reports?
+
+“I have heard there were some conflicts with the princess…” Xia Lin ventured
+
+“That is true. They were all officially resolved,” Cai Renxiang said coolly. “I am concerned that given what you have told me, there seems to be a faction among our guests which has had contact with the jungle barbarians.”
+
+Ling Qi muttered, “And the Sun practices some of their methods. That’s ignoring how strange Sun Liling was when we last met her at the tournament.”
+
+“We will have to come to an arrangement. I do not believe there will be deliberate sabotage,” Xia Lin said, but she sounded worried.
+
+“I suppose we’ll have to. It’s not like we have a choice,” Ling Qi said irritably.
+
+“We don’t,” Cai Renxiang agreed. “Xia Lin, your report.”
+
+Xia Lin somehow managed to straighten her shoulders even more. “Lady Ling’s pacification of the lake remains in effect. Fishing remains superb for the simple arrangements we have set up, and on-site processing has been established with waste material going into fertilization efforts. There have been some plans drawn up for very small docks and the establishment of boatbuilding infrastructure.”
+
+Ling Qi was confused until she realized that Xia Lin probably meant simple one or two-person fishing boats.
+
+“There has been some spirit activity and beast attacks at the fringes of the encampment, but all were seen off without trouble between my own presence and Lao Keung.”
+
+“Anything dangerous?” Ling Qi asked.
+
+“Nothing. A disturbed bear, fleeing off when confronted, and a few stray wolves, likely driven from their packs. Rats seeking the stores. Forest fairies attempting to lead workers astray. It was a safe month,” Xia Lin said confidently.
+
+“That is good news at least. Shall we see those plans then, Lady Cai?”
+
+“Yes, let us send the orders, and let them work. We need much of our attention here.”

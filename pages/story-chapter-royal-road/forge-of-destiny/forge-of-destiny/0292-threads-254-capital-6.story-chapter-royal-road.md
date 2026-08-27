@@ -1,0 +1,137 @@
+---
+id: 397e5122-5d80-53dd-ab05-7629df23be46
+page-type-slug: story-chapter-royal-road
+title: "Threads 254-Capital 6"
+slug: 0292-threads-254-capital-6
+partOf: forge-of-destiny
+position: 292
+ownLength: 2022
+unit: words
+publishedAt: 2022-10-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1013195/threads-254-capital-6"
+royalRoadId: "1013195"
+---
+
+Unlike when Ling Qi went out on her own, they did have to make a brief stop to get Xia Lin changed into something less ostentatious since her clothes were not self-adjusting, but thankfully, the other girl was just as good at controlling her qi as Ling Qi. That made their stroll through the twigward streets much less awkward than it could have been, though to Ling Qi’s amusement, the intensity of Xia Lin’s expression and gaze was enough to cow a lot of otherwise rude people, even without much qi backing it.
+
+In deference to Xia Lin’s wishes, the first place they stopped at was a corner stall selling skewers of berries in a sweet syrupy covering. This was a Xiangmen specialty since the little berries and the coverings alike occurred in such quantities that no one had ever been able to take control of their harvesting. Or at least, that was the story the seller told anyway. Up here in the clouds, obviously, he had higher quality sources and so on and so on.
+
+Ling Qi stopped listening fairly early on, but Xia Lin was intent on it, and the seller was happy to keep talking as long as Xia Lin kept buying more. The skewers were good though.
+
+They moved on eventually, stopping here and there to listen in to musicians on the street, or to sit in on a tea house for poetry readings or performances. It went hand in hand with more stalls. At each one, they would sample the sweet buns or crepes or stranger concoctions and offerings. And each street chef assured them that their recipes and secrets were the best and passed down through the generations.
+
+It seemed that in Xiangmen, even food had a touch of art to it.
+
+Ling Qi hadn’t had the time or ability to appreciate cooking, but it wasn’t as if the vendors in Tonghou weren’t proud of their work. People wanted to feel like what they were doing mattered. Even if it was something as small as a clumsy poem or a slightly bland meat bun.
+
+“I am not sure what secrets of cultivation you see in the filling of your dumpling, but it is getting cold,” Xia Lin said to her as they stopped under the awning of a theater, falling into line for the ticket seller.
+
+Ling Qi blinked and gave her a dirty look, taking another bite. The plum filling was really good. “If you wanted another, you could have bought one.”
+
+“I’ve had enough. It’s just a shame for good work to go to waste,” Xia Lin replied, folding her arms behind her back. “This is the place then?”
+
+“Yes,” Ling Qi replied, glancing up at the theater’s sign. “I saw a show here yesterday. I wanted another opinion on it.”
+
+Xia Lin hummed in response.
+
+“What do you think of Xiangmen anyway? The place seems so frantic,” Ling Qi said. “You must find the chaos unpleasant.”
+
+Xia Lin pressed her lips together in a thin line. “I do not think it is for me, but that is because I have chosen war as my profession. That does not make it bad.”
+
+“Oh?” Ling Qi asked, moving forward with the line. “That’s not what I would have expected. You don’t look down on all this indiscipline?”
+
+“War is not, and cannot be, a nation's purpose,” Xia Lin said contemplatively. “Although a soldier must separate themself, this is what it means to be victorious, isn’t it?”
+
+Ling Qi looked over the crowd. She could understand Xia Lin’s meaning. There was no fear of invasion or beast incursions here, but there were more dangers than that in the world.
+
+“But I am an unsuited tool for addressing those dangers, so I must trust that those who hone themselves for such battles are up to their tasks,” Xia Lin replied. Ling Qi blinked, realizing she had spoken aloud.
+
+“That is awfully trusting of you,” Ling Qi noted.
+
+“A soldier must trust, or else they will break. I charge into an enemy unit, trusting that my fellows will be swift behind me to take advantage of the break I create. My unit must trust that our higher officers will coordinate our attacks, relieve our defenses, or at least find advantage in our sacrifice. Those officers, in turn, must trust that the General’s plan of operation is sound. The General must trust that we will be supplied and supported in a manner sufficient to complete our orders,” Xia Lin said. “Doubt kills.”
+
+“And if your trust is mistaken?”
+
+“Then we lose, and we die. That was the ultimate lesson of Ogodei,” Xia Lin answered simply.
+
+Ling Qi grimaced. “An ugly choice.”
+
+“It is as it is. Without trust, we can only be squabbling beasts.”
+
+Thinking back to much dirtier streets, Ling Qi could only give a small nod.
+
+“I see my accusations were correct though. You are truly an example to follow, finding such contemplation in plum jam,” Xia Lin said dryly.
+
+Ling Qi stared at her. “D-did you just make fun of me for being too serious?”
+
+“I did no such thing,” Xia Lin replied seriously. “Come. We must purchase our tickets.”
+
+As it turned out, Xia Lin found the show rather absurd, and she seemed rather baffled by the humor involved. After, they stopped at a proper restaurant to enjoy a meal, and then, with it over, they parted ways.
+
+Ling Qi found herself once again walking the streets with only the muse in her head for company, watching the faint outline of bright moonlight twinkling in the gaps between titanic leaves overhead. Ling Qi wasn’t sure she agreed with Xia Lin. Or more specifically, she didn’t think “trust” was the right word.
+
+“It’s a little fiddly. Ain’t language a rough one?” Sixiang drawled.
+
+Ling Qi nodded, tracing her fingers through the air, feeling at seams invisible to even the average cultivator as she passed into the dark between a closed shop and a roaring tavern, stepping into the shadow dappled alley that lay between, strewn with crates and detritus. “I think trust implies something too personal and conscious.”
+
+“Belief then,” Sixiang concluded, fading into view around her shoulders, a fluttering phantom with their arms around her neck. Ling Qi herself was little more than a drifting shadow, a patch of the night sky manifesting in the space between buildings as she plucked at threads, seeking a seam loose enough to dart through.
+
+“People want to matter, but they can’t matter on their own,” Ling Qi said. “Belief works. Everyone, or at least most people, need to believe there’s something bigger than them, or else…”
+
+Frantic scrabbling in the dark, betraying and being betrayed. Cold and hunger and want that can never ever be filled.
+
+Isolation and Endings.
+
+Creation was a defiance of Isolation. It said to the world, “Look, I am here.” It said to others, “See, I have meaning to give.”
+
+It didn’t matter if it was music, or carvings, or poems, or food, or anything else. To create was a denial of meaninglessness.
+
+Abundance begat creation. Creation denied Isolation.
+
+Ling Qi found the seam, and her fingers slid through, splitting the fabric of the dingy alleyway open. Ever so briefly, the kaleidoscopic chaos beyond lit up the dust and dirt and trash and made it gleam. And then Ling Qi was through, and the weight of the world crushed her gate behind her.
+
+She found herself again among the drifting bubbles and winds that she had seen the night before. She looked at the vortex at its core, feeling the pressure and currents flowing around her.
+
+“Ready for the party now?” Sixiang asked, presence wrapped around her like a shawl.
+
+“How do you know it’s on right now?” she asked absently, drifting toward the towering column of whirling dreams.
+
+“The party never ends for long in Xiangmen,” Sixiang said cheerfully. “And I’m pretty sure Grandmother is expecting you.”
+
+“Then I shouldn’t keep her waiting,” Ling Qi said.
+
+The roar of the wind was loud now, countless dreams and images flashed by her as she plunged into the core of the Dreams of Xiangmen. She felt her mind pulled in a hundred directions, a thousand identities overlaying her own, and a million thoughts wriggling in her mind that were not her own.
+
+But she was Ling Qi.
+
+Ling Qi dove, away from the glittering lights and whirling glitzy dreams that rose to the top of the vast whirlwind, and into the denser darker depths. Here, the blaring, garish color darkened and muted. The kaleidoscope of color shrank down into warm reds and browns and greens. The shrieking winds resolved themselves into simple beats and clapping hands, a hundred or a thousand voices singing the same song out of tune, but with no less enthusiasm than a master of voice.
+
+The endless light of the bubble-scape became flickering paper lanterns and bright torches. The liquid air became hot and muggy, and the ground firmed up beneath her feet. Before Ling Qi’s eyes, she saw a sprawling festival.
+
+She stood in what seemed like an overlarge town square, at the center of which was a massive round table of gnarled wood. It was a huge thing, seemingly cut from a single cross section of a huge tree. It must have weighed half a tonne or more on its own. Curved benches surrounded it, and it was piled high with platters of food and drink.
+
+At its center was a rearing statue of a stag. Painted in garish colors, its antlers were as sharp as sword points, and prayer tags of fine spun silk hung in a forest from the tines. It was cracked though, deeply cracked and ancient, and something incandescent shone through at the seams. Ling Qi could not tell if the light was holding it together or breaking it apart.
+
+Streets spun off in eight directions from the center where she found herself, and the festival sprawled out into them as well, filled with people and games and parades. There, a dancing dragon, all paper and silk born on a dozen pairs of legs, and there, waving stag heads born aloft by revelers. Men in shaggy fur cloaks howled at the moon with laughing children on their shoulders, and so many other festival goers, too many to count.
+
+Because there were so many people here. The air smelled of sweat and drink, hot with the press of bodies, and the only sounds Ling Qi could hear was the cacophony of voices raised in joy and revelry.
+
+She knew they were spirits and reflections of humans, asleep and dreaming, and yet, she couldn’t help but be surprised as she was bumped and jostled and pulled along with the almost liquid movement of the celebrating crowd. A cup of some golden cider was shoved into her hands, and a dozen invitations to games or conversations bombarded her at once.
+
+She very nearly fled, old instincts taking hold.
+
+But a familiar hand on her shoulder made the childish panic abate.
+
+“Let yourself unwind a little, Ling Qi!” Sixiang laughed, spinning her into an open square where people were dancing.
+
+The rhythm of the festival music was the beating of a heart, thundering and pounding, and although she fumbled at first, she found that the steps of the dance came as naturally as breathing. It wasn’t complicated after all.
+
+Every person in the world knew this dance, after all. Some forgot it, some skipped or changed a step here and there, but everyone started out with this dance.
+
+“You get it. You get it. Be a shame to bin it before you’ve really tried it!” Sixiang grinned, keeping hold of her hand during the swirls of motion and spinning steps.
+
+Ling Qi blinked and furrowed her brows, working to hold her thoughts as her own against the intrusion of the revel and the certainty of its dance.
+
+“What is this, Sixiang?” she shouted over the music and laughter.
+
+“It’s Grandmother’s revel, of course. A layer up, a layer down, call it as you like! Direction doesn’t matter much here.”

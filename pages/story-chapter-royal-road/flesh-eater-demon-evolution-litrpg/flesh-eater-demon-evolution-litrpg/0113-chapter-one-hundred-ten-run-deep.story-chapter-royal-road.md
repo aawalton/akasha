@@ -1,0 +1,171 @@
+---
+id: 125cd0e3-b571-5798-8194-08bfce38fc43
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Ten: Run Deep"
+slug: 0113-chapter-one-hundred-ten-run-deep
+partOf: flesh-eater-demon-evolution-litrpg
+position: 113
+ownLength: 2883
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3735837/chapter-one-hundred-ten-run-deep"
+royalRoadId: "3735837"
+---
+
+The cold of the room bit into Daphne’s skin, contrasting sharply against the heat exuding from the flame in her palm. The mage gritted her teeth to stop them from chattering, bending her knees slightly in a ready stance as she faced the man standing in the doorway.
+
+Llyr, on the other hand, was the picture of calm. The healer didn’t move an inch, simply watching her with unblinking steady blue eyes. There was no obvious difference to his appearance or demeanor, but in that moment, Daphne was acutely aware, more than ever before, that the man in front of her was not human.
+
+A chill unrelated to the cold crept up her spine, but she ignored it. The noble raised her hand a little higher, brandishing the flame threateningly.
+
+“What the hell is this?” The sharp, forceful anger in her voice surprised even her with its intensity. “It was you? This whole fucking time?”
+
+Llyr’s expression remained infuriatingly unreadable. After the silence had stretched long enough that Daphne could feel the cold biting at her legs, the man finally opened his mouth to respond.
+
+“I believe,” he said, perfectly serene, “that this is a misunderstanding.”
+
+Daphne frowned. Her gaze briefly shifted behind her, then forward again when she caught the same sight of those motionless corpses. They looked even more morbid with the hallway light shining inside, their pale, greyish skin making them look almost like dolls.
+
+They weren’t dolls, though.
+
+“What kind of explanation could you possibly have for keeping the dead bodies of missing people stashed away in your mansion?” Daphne demanded.
+
+Llyr didn’t respond right away. For a moment, his eyes sharpened into something cold. Daphne’s muscles tensed. It was a subtle change, but the healer’s entire image seemed to warp in tandem. In that brief flash, he looked completely alien—nothing like the man who’d sat down and gently assured her that her magic skill was her own.
+
+As quickly as it had appeared, the look vanished again. Llyr’s eyes softened, and Daphne couldn’t help but blink at the abrupt difference.
+
+Slowly, the healer took a step further into the room, his long dark hair streaming behind him like a wave.
+
+“I’m sorry,” he said, sounding so genuinely apologetic that it took the noble off guard. “You’re right to be angry and hurt. This is a… rather shocking scene, to say the least. I should’ve said something sooner.”
+
+A fresh wave of confusion rose above Daphne’s boiling anger. Her brows furrowed. Llyr came to a stop a few feet away, the picture of harmless regret. “…What do you mean?” she said slowly.
+
+Llyr sighed. “It’s a rather complicated situation, I’m afraid.” He glanced around the room, then focused on Daphne again with a nod. “You must be cold. I’ll fix those temperature runes before they worsen. In the meantime, could you please wait for me in the hallway? I promise I’ll explain everything.”
+
+As Daphne’s eyes met those steady blue ones, she felt doubt begin to creep in for the first time since seeing the man in the doorway.
+
+Llyr had been nothing but kind and generous this whole time—wasn’t it right to give him the benefit of the doubt? He’d helped them and invited them to stay in his home without asking for anything in return, and she’d seen him heal that child. Would the man quietly soothing that crying father really be capable of something like this?
+
+Her thoughts became hazy, and her confusion grew. The flame in Daphne’s hand flickered as she continued to study the healer, who watched her, unmoving, still with that serene look. The tension in her muscles loosened the more time passed.
+
+Surely she could hear him out, at least. There was probably more to this than met the eye. Llyr had been in Serindell for far longer than them. Of course he’d know more. Slowly, Daphne felt her initial anger begin to bleed away.
+
+It wouldn’t hurt to let him explain himself first, she thought. She started to lower her hand. Pyre and Callan could be there for the explanation, too. Callan was smart, and Pyre was always good at looking at things objectively. The demon, perhaps because of her nature, was never swayed by anything.
+
+Swayed. The word made something tremble in her muddied mind. The mage furrowed her brows and looked up.
+
+Llyr was still watching her, those blue eyes calm like tranquil pools of water. Churning, rippling softly, almost hypno—
+
+Daphne abruptly shoved her finger into the flames burning above her other palm.
+
+Llyr jolted in surprise, nearly taking a step forward, but the mage barely noticed the movement as sharp, searing pain immediately coursed through her. She cursed and yanked her hand back, waving the finger around in an attempt to cool it. She could feel the skin sizzling, a trail of smoke rising up to the ceiling. It would undoubtedly leave a nasty burn mark later, but she didn’t have time to worry about that right now.
+
+The stinging pain was a constant, acting almost as an anchor in her mind. Daphne gritted her teeth and forced herself to focus, willing away the fog that had slowly crept over her thoughts. In its wake came a sharp, startling clarity.
+
+Daphne curled her hand into a fist, pressing into the burned finger to keep the fog from returning.
+
+“You fucker.” She let out a sharp, humorless laugh. “If you wanted me to believe you, maybe you should’ve stopped with the charm spells.”
+
+It all made sense in retrospect. Daphne never trusted people so quickly, especially not when she started out suspicious of them. And yet, somehow a single conversation with Llyr had assuaged all her doubts. She hadn’t even felt a little wary when learning he wasn’t human.
+
+Some of it was probably her, unconsciously clinging onto her one hope at curing her ichor-poisoning, but there was no question that the man’s magic had played a crucial role in her quick trust of him. Callan, too, had likely fallen for the same enchantment.
+
+Daphne poured more ichor into the flames in her hand, ignoring the slight sting in her chest as she raised her arm higher, brandishing the fire threateningly. “If you don’t want a face full of fire, you’re going to explain, right now, what the fuck you’re up to. And you’re going to do it without any of your magic tricks.”
+
+A bead of sweat formed along the mage’s forehead, the stark contrast between the fire and the cold against her back becoming increasingly unbearable. Daphne remained where she was, though, eyes never leaving the healer standing across from her.
+
+For a moment, Llyr didn’t react. She was mentally preparing herself to launch the flames when a smile slowly spread across the man’s face.
+
+At a glance, it wasn’t completely dissimilar to his usual expressions, but it was the little things that made the difference. The sharpening gaze, the thin curl to the corners of his mouth—all of it added together to form a wholly unfamiliar image.
+
+Llyr cocked his head, and that single action made Daphne tense. His appearance, once captivating in its beauty, now seemed like an icy, acute reminder of his inhumanity.
+
+“Force of habit,” he murmured. The smile remained. “Can you blame me? They make things so much easier.”
+
+Carefully, Daphne began to creep closer to the door even as she kept her arm and the spell pointed at the healer. Llyr simply stayed in place, his own eyes tracing the mage’s movements with eagle-eyed precision.
+
+“Yeah, well, tough luck.” Daphne pressed harder against her burn, biting back an instinctive yell at the sharp pain. She wasn’t taking any chances here. If she fell into that enchantment magic or trait or whatever it was again, she didn’t know if she’d be able to pull herself out a second time.
+
+“Now explain,” she demanded, flaring the fire brighter for emphasis. “Are you the one killing these people?”
+
+Llyr hummed, utterly unperturbed. “I’m not the one kidnapping them, no, but I did kill these particular victims.”
+
+Before Daphne had a chance to process what the hell that could mean, the healer turned and stepped over to the bodies at the back of the room. He didn’t seem to care about showing his back to the mage at all, unhurriedly crouching down beside the closest corpse. He reached a hand out and lightly nudged the body back to its original position, the movement almost gentle.
+
+“I found them washed up on the shore,” he murmured, eyes still on the corpses. “They were in a peculiar state.” He rose back to his feet.
+
+“Their blood was entirely drained, but their bodies were kept alive by a stasis spell. Alive and yet not.” His voice quieted. “Their minds died a long time ago. There’s no returning from this state.” He turned to face Daphne again, blue eyes seeming to glow in the dark of the room. “I put them out of their misery.”
+
+A million thoughts raced through Daphne’s head at once, but she was careful not to let any of them show. She kept her voice steady and confident. “So, what, you decided to just keep them here? Didn’t even bother to tell anyone?”
+
+Llyr laughed at that, the sound cold. “Tell who? The authorities? You and your companions are already suspicious of the nobility, and you’ve only been here for a short amount of time. You saw what happened to that tattooed man. The bodies would disappear long before anything could be discovered.”
+
+He took a step closer. “I’ve been conducting research on my own. The spells placed on the victims are complex and carefully masked, but they’re not impossible to decipher.”
+
+Daphne readied herself to release her spell, but Llyr came to a stop a few feet away from her. By then, they’d swapped positions, with her by the entrance and the healer towards the back of the room.
+
+The mage ran through the man’s words in her head rapid-fire. Bloodless corpses. Some sort of stasis spell. Further confirmation that Serindell’s upper society was involved in shady dealings. The whole situation became more and more complicated with every new piece that they found, and she had a feeling they were still nowhere close to uncovering the bigger picture.
+
+That wasn’t her most pressing concern, though. No, that was the man currently standing in front of her.
+
+On one hand, Llyr’s words weren’t entirely implausible. If Daphne had been in a similar situation and found those bodies, she probably would’ve avoided alerting the authorities for the same reason. Their current placement in this cold room was disturbing, but likely a way of preserving the corpses while Llyr attempted to unravel the spells placed on them.
+
+On the other hand, Daphne felt completely uninclined to trust the healer right now. Not when he’d admitted to using charm effects on them this whole time, not when she was seeing what he was actually like for the first time and facing a whole new person.
+
+She knew the Llyr who’d worked with her and Callan on developing the portal spell, patiently explaining any concepts they didn’t understand while also never undermining their knowledge and abilities. She knew the Llyr who’d listened to her concerns about the spell on the way to the kitchen and gently soothed her fears. She knew the Llyr who’d always, however inexplicably, felt safe.
+
+The man she was facing now was none of those things. He didn’t feel warm or kind or safe at all.
+
+He felt like a monster.
+
+“What about us?” Daphne said. “We’ve been investigating the disappearances too. Why didn’t you tell us about the bodies? We could’ve helped you research them.”
+
+The noble didn’t know what reaction she’d been expecting, but it certainly wasn’t the harsh, bitter laugh that escaped the healer’s throat. The sound echoed around the room, sending a chill up her spine.
+
+“Tell you? A group of strangers who arrived in Serindell at the height of the disappearances? Another noble with as many ties as the Alardices?” Llyr stepped forward. His voice lowered. In the flickering fire, his eyes burned with an unfamiliar intensity.
+
+“Or,” he continued, so quiet that she barely heard him at first, “was I supposed to trust the demon with the broken soul, the one that feels exactly the same as them?”
+
+Daphne’s heart raced, but she stood her ground. “What do you mean?” she demanded. “What them? What the hell are you talking about?”
+
+Llyr came to an abrupt stop. The sudden anger in his eyes cooled, and he now studied the noble assessingly. The silence stretched longer, heavy and tense. Daphne waited with bated breath as the healer seemingly thought through something.
+
+Finally, after the quiet had gone on long enough that she could hardly bear it anymore, the man opened his mouth again.
+
+“…This is a waste of time.” His expression was flat and unreadable. “I invited you all to stay here so I could keep an eye on you, but I see now that that was a pointless effort.” His eyes narrowed. “That demon, especially. I should’ve dealt with her right away.”
+
+Daphne bristled at the implied threat. “You think I’m letting you get out of this?” She pulled more ichor, gritting her teeth as her chest stung. The fire in her hand burst into an even bigger flame, the air around them crackling and sizzling from the spike in heat. She adjusted her position so she was blocking the exit. “I’m not moving until you tell me what the hell you were talking about.”
+
+Llyr gave her a long look, eyes briefly darting to the fire, then back to her. Finally, he sighed.
+
+“I thought you would say something like that,” he murmured. Then he raised his arm.
+
+Daphne acted on pure instinct. The second she caught a flash of that familiar blue light, she thrust her hand forward and let the spell go.
+
+All at once, all the condensed ichor and coiled tension she’d been holding in her body exploded outwards in a violent burst. Blinding flames roared from the ceiling to the floor, completely covering where the healer had once stood.
+
+Daphne scrambled to her feet from where she’d been knocked back from the spell’s recoil. She hadn’t meant for the spell to be that strong. It was only supposed to wound, to keep the man in place.
+
+Before her thoughts could spiral further, the flames died down. In their center, Llyr stood calmly, unscathed, a translucent watery shield around him.
+
+He waved his hand, and the water dropped to the floor with a light splash, dousing the remaining sparks. He took a step forward. Daphne felt cold fear settle heavily in the pit of her stomach.
+
+Coming to a decision, she yelled a chant and snapped her fingers. In a flash, a wall of fire rose from the floor, covering the entryway just before Llyr could step through. She only stayed long enough to make sure the healer was stuck on the other side of the flames, then turned around and sprinted down the hallway with all her strength.
+
+Daphne was strong. There were very few—possibly no—mages that could match her in terms of raw destructive power. But she was also smart enough to know when she was outmatched, and it was abundantly clear to her that she stood no chance alone against the monster currently trapped behind her.
+
+She needed to get Pyre. While she didn’t want to put the demon in danger, especially when Llyr seemed to have some kind of vendetta against her, she was the strongest of them. The thought rang clearly in her mind, a mantra as she pushed herself to run even faster. She and Callan were probably still waiting in the infirmary. She just needed to get down the stairs, then—
+
+Movement flashed in the corner of her eye. Daphne twisted her head back, barely having enough time to process the doused fire in the doorway and the figure just behind her. Llyr raised a hand towards her.
+
+Daphne jerked around and fired another spell at the man just before he reached her. It was small compared to the earlier blasts, but some of the flames managed to singe him.
+
+Llyr winced back a little, but he didn’t slow down. He just lunged again, but this time he was too close. She wouldn’t be able to cast another spell in time. Daphne braced herself for the worst.
+
+A dark shadow suddenly fell over her. The mage’s head snapped up just in time to see a mass of amorphous flesh shooting out from somewhere behind. Llyr’s eyes widened, and he leapt back, but he was too late to completely dodge it.
+
+At the end of that fleshy mass, a gaping maw sunk razor-sharp teeth into his bicep, ripping nearly half the flesh straight off the bone. The bite was followed by the rest of the limb slamming straight into the man, knocking him far away.
+
+The healer landed hard on the ground, skidding backwards along the floor before finally coming to a stop several feet away. Daphne’s attention, however, was focused behind her.
+
+There, standing at the top of the staircase with one arm still warped, was Pyre.

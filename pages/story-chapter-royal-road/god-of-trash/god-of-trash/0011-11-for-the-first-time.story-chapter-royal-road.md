@@ -1,0 +1,171 @@
+---
+id: e862f6d3-8f22-552c-b94d-45b656d5f8ce
+page-type-slug: story-chapter-royal-road
+title: "11. For the First Time"
+slug: 0011-11-for-the-first-time
+partOf: god-of-trash
+position: 11
+ownLength: 4384
+unit: words
+publishedAt: 2025-03-05
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2106395/11-for-the-first-time"
+royalRoadId: "2106395"
+---
+
+Rhys didn’t have a schedule. As far as he was aware, he wasn’t registered for any classes. For that matter, he didn’t even know if there was such a thing as ‘registering for classes’ in this world. Rather than ask for assistance and risk suffering through the slow process of school administrative paperwork, he decided to barge directly into the pillmaking class. What was the worst they could do, after all? Throw him out?
+
+He was already familiar with the location of the classrooms. After all, he had picked up trash outside of every one of these buildings. The teaching classes were easy to identify from their garbage. They always had lots of copies of the same items, whether it was input or output, and the failures usually had an amateurish ring to them. They were some of his favorite places to pick up trash from. Lots of good picking to be had in those heaps. Rhys wandered up the mountain to the classroom, humming under his breath.
+
+Class wasn’t in session when he arrived. Rhys sat down on the stairs to absorb mana and wait, contemplating his intent skill at the same time. According to Straw, quiet contemplation could sometimes unlock skills that couldn’t be unlocked through combat or other common triggers. He hadn’t personally succeeded at it yet, but it cost nothing, and it didn’t hurt to try. Besides, he could always use the time to consolidate his thoughts and consider how to approach triggering Intent next time he tried. He wasn’t sure if that was the point of contemplation, or if there was something magical he was supposed to be doing, too, but either way, it was always useful to take a second to consider his actions.
+
+“Look! A trash heap,” someone said.
+
+Rhys jolted to his feet and looked around. Did he miss one? A second later, he caught sight of three kids, two boys and a girl, pointing at him, and put two and two together. Rolling his eyes, he went to sit down again.
+
+The taller of the two boys, with light brown hair and dark blue eyes, met his gaze and laughed. “What do you think you’re doing, dirtying our stairs? Get back to collecting the garbage, trashman.”
+
+Rhys stood tall. He crossed his arms. “I’ll have you know I was personally brought here by your Schoolmaster. Can you say the same?”
+
+The boy hesitated for a moment, momentarily taken aback. Before he could recover, his friend, a blond boy with a square jaw and small eyes, crossed his arms at Rhys. “Personally picked to be our garbage collector.”
+
+The first boy laughed. “Good one, Jae.”
+
+The two of them grinned at one another. In between them, the girl rolled her eyes. She wasn’t that pretty, but she clearly thought she was. She’d carefully coiffed her hair into ringlets and wore layers of heavy makeup, plus tight robes that showed a good few inches of cleavage and pulled back at the hip to show her left leg in all but its entirety. Rhys considered for a moment, taking her in. It was an easy enough design to build, although the wig would be hell. Still, he’d never been into the young mistress types, and his female friend had a more athletic build rather than the soft and shaped form of this girl. No, in the end, she was trash, but not his kind of trash. Rejected. He wouldn’t be wasting his money on that fabric.
+
+She scowled at him. “What’s that look for? Are you eyeing me up? You dare lay your filthy eyes on me?”
+
+“He looking at you, Janna?” Jae asked, stepping forward. The blond nodded at his friend. “Jaques.”
+
+Jaques approached Rhys from the other side, cracking his knuckles.
+
+“Wait. Janna, Jae, and Jaques? Do they call you the Triple J Trio?” Rhys asked, looking from one to the other. Maybe his initial evaluation had been off. That was just funny enough to qualify as the kind of trash he loved.
+
+Even as he glanced around, he watched Jae, who was approaching faster than Jaques. Each step, each shift, watching for the signs of a coming punch.
+
+“Enough with the jokes. It’s time you learned your place, trash.” Jae drew back his fist.
+
+“Trash?” Rhys stepped back just as Jae punched, swaying away from the blow. Compared to sparring with Bast or Straw, the boy was dead slow. Still faster than Rhys, but Rhys was used to fighting against faster opponents. From the second the boy stepped forward, he’d been watching for a punch, so unless the boy had swapped it up at the last second, their encounter was predestined to end in failure for Jae.
+
+Jae’s face twisted in frustration. “That’s right. Trash!”
+
+Another punch flew at Rhys. Rhys swayed again, casually turning to put his back away from the rapidly approaching school building.
+
+The second he turned, Jaques rushed in, arms wide, intending to sweep Rhys in a bear hug and pin him against the wall.
+
+Rhys stood still until the last second, then stepped toward Jaques and ducked under his arms. He gave the bigger boy a little push toward the wall as he popped up behind him. The boy slammed into it with a meaty thud.
+
+“I’m trash,” Rhys muttered, his brows furrowing. It wasn’t that he couldn’t understand it, but that the comment , plus his recent contemplation of Insight, swirled together in his mind. Trash. Intent. Bast’s Fist Intent. Anything could be the subject of Intent. That was Straw’s whole lesson. But… had he truly learned it?
+
+Frustrated, Jae spun and lunged for Rhys just as Jaques pushed off the wall and closed in on him from the other side. The two made eye contact and adjusted their angles slightly to catch Rhys between them. Their arms spread, they gave him no escape route.
+
+Rhys pushed mana into his legs and hopped up. With the mana, he burst into the air, easily jumping over Jae and Jaques’ heads alike. The two boys had just enough time to stare at each other in horror before they crashed into one another.
+
+Despite wanting to acquire Straw’s universal intent, he’d been too focused on Bast’s success. Bast was better at direct combat skills. Therefore, Bast’s path, of learning smaller, more focused intents in order to eventually figure out universal intent, must be the right way to learn intent. Or so he’d thought. But now, he couldn’t help but wonder if that line of thinking had merely blinded him. He wasn’t Bast. He couldn’t acquire skills the same way Bast could. Rather than trying to copy Bast, he was better off doing this his own way.
+
+And what was his own way? Trash.
+
+He drew his broken sword and swept it, pushing mana into it. As the mana flowed out of his hand, it changed, turning into another fork of energy entirely. Something sharp and dangerous, something that flowed down the path where the sword’s blade would have been and stood in for the steel of the blade.
+
+Trash Intent 1
+
+Rhys grinned. He spun the blade in his grasp and pointed it at the J Trio. “That’s right, I’m trash. That’s right, I collect garbage. Do you want to join the collection? I’d be happy to have you.”
+
+Jae and Jacques glared at him. Jae reached for his sword.
+
+Janna caught his hand before he could draw. “Idiot. That’s weapon intent. He could cut through your blade and you in one easy swing.”
+
+Jae looked at her. “Aren’t you the one who—”
+
+“I just said he looked at me. So what? He can use weapon intent. Someone using weapon intent can look at me like that all day long.” She smiled flirtatiously at Rhys and fluttered her lashes.
+
+Gods. Rhys suppressed the urge to puke. Power was everything in this world, but to this extent? He managed the first level of an intent skill, and Janna went from casually suggesting mugging him to trying to sleep with him?
+
+I feel like this says more about Janna than society. Ah, well. He couldn’t hate the hustle. Janna got it. Sure, she was a bit crude about it right now, but if she kept up that effort, she could be an earth-shattering gold-digger. Those with class and shame could never reach the apex of gold-digging. It was only those who threw away such weak emotions who overcame to marry the richest divorcees.
+
+Rhys nodded at her. “Your obsession… is it gold-digging?”
+
+“Haa? What’s that supposed to mean?” Janna snapped, instantly put off again. She flipped her hair, irritation pouring off her in waves.
+
+“No, no, it’s not an insult. My obsession is trash,” Rhys explained. How could someone like him look down on anyone else’s path? No matter how trashy it was, after all, it would only serve to further compliment his own path.
+
+Janna gave him a look as though she didn’t know whether to look down on him or be afraid. Flipping her hair again, she marched past him into the classroom. Jae and Jaques cast final glares at Rhys, then followed after her.
+
+The other students were starting to arrive, so Rhys followed them in. He chose a seat slightly apart and near the back, aware of the stench that clung to him. He hadn’t yet located the bathing facilities, nor did he feel comfortable stripping naked to bathe in the stream of such a populated mountain, where older disciples could easily fly over at any moment, so unfortunately, he didn’t have any way to clean the stench of trash off himself. The second he walked into the room, though, his fears faded. The whole room was inundated with the smell of a medicinal smoke. It kind of smelled like burning cough syrup, and not in a good way. The smoky stink overwhelmed his own stench, and though he wasn’t exactly happy about that, at least he didn’t have to feel guilty about subjecting everyone else to the smell of trash at close quarters.
+
+Rather than traditional desks, this classroom was equipped with cauldrons. Short stools stood beside each cauldron, just tall enough to see into the metal devices. Lids sat nearby. Cast nearly as heavy as the pots themselves, if not heavier, they also came equipped with metal latches that would grip the lip of the cauldron and hold them in place. It reminded Rhys of a pressure cooker, a little bit. Looking up, he found the telltale signs of pressure-cooker explosions on the ceiling. Deep dents marred the roof directly over the pots, and in one spot near the front, a lid remained lodged in the ceiling, stuck so deep only half of it protruded from the stone.
+
+The classroom itself had been carved from solid stone. Based on the abuse it had taken through the years, between the pressure-cooker damage and the oddly soft, almost wet-looking places where acid of some kind ate through the floor long ago, that was a wise decision. Ashen stains on the walls and the acrid medicinal stench in the air made it clear a lesser building would have burned down long ago. Rhys raised his brows. Pillmaking was a dangerous art. The toxic garbage he’d picked up from the back of the classroom had already warned him of that, but it was one thing to see its outputs, and another to see the forces that went into making that toxic sludge.
+
+Awesome, he thought, grinning to himself. It was like chemistry, but if chemistry was only the cool, dangerous stuff. That was what he was talking about!
+
+While he waited for the students to finish filtering in, he flicked through the textbook. His copy was a bit stained, a few pages were missing, and the covers were in tatters, but that didn’t matter. He’d gotten it for free. Really, it was crazy what people would throw out! College textbooks cost an arm and a leg, and these spoiled brats were acting like they were napkins, to be tossed aside once they were wrinkled and soiled!
+
+He’d always been a fast reader, and this was no exception. He didn’t know if he could read because his body was literate, or because something was translating for him without him noticing, but in any case, the words flowed smoothly from the page to his head. There was no difference between reading this and his native language, nor was his speed impacted in the least. Last night, he’d spent some time browsing it, but it was pretty complicated stuff, so he’d decided to head to class and hear a professional’s explanation, in the hopes it’d clarify some of his questions. Still, there was no harm in getting a little light reading in, so he sped through the pages.
+
+He had to be a speed-reader. There wasn’t any way he could’ve survived without that trait. If he couldn’t turn his brain off and rocket through a hundred pages in an hour, how would he get through his beloved trash to enjoy the gems hidden in its depths? Honestly, he was convinced that if other people could read as fast as him, they’d probably share his appreciation for trash. There was nothing like turning off the brain, putting aside all judgement, and just letting the words flow.
+
+He lived and died on vibes and flashy scenes. Higher thinking, judgement, analysis, all those high-falutin words were for afterwards. Oh, he could break any work down, take it apart and pick through the bones to show you exactly where the flaws were, but where was the fun in doing that in the moment? It was like eating rotisserie chicken. The moment was for eating the good roasted meat. Once all was said and done, then it was time to pick the bones. And it was only once the carcass was naught but bone and sinew and taken to the curb with the trash, that he might let regret sink in.
+
+Not that he’d ever regretted a rotisserie chicken in his life.
+
+That being said, this textbook was exceedingly dry. It was clear from the first page that the whole thing was based on rote memorization, which had never been a strong point of Rhys’. He could do it better now that his mind was enhanced by mana, but he wasn’t so enhanced that he could simply download the data directly into his brain. The idea of memorizing a thousand different formulas sounded incredibly unappetizing to Rhys. He’d rather reverse-engineer them from the pill wrappers he had. Plus, the pill wrappers were trash, so he’d have an easier time comprehending the recipes from them than trying to brute-force memorize the recipes from this book.
+
+In any case, he wasn’t here to learn recipes. Right at the start of the book, it warned that individual pill and potion-makers often tweaked recipes to improve certain parts of the pill’s or potion’s effects. In other words, reverse-engineering the recipes from the wrappers wasn’t just a good way to learn, it was a better way to learn, since he’d be getting specialized formulas, not generic middle-of-the-road recipes. No, he was here to learn the basic technique for pill making. To put it simply, he had a recipe, he had all the ingredients, but he didn’t know how to operate the oven. And in this world, it wasn’t even as easy as twiddling with some knobs or buttons. He faced a big, blank pot that clearly had a propensity to explode, with nothing to operate it but his bare hands. He knew when he was out of his depths, and he wasn’t afraid to admit it.
+
+The last of the students filled in. No one sat near Rhys, but a few of them shot him uncertain looks, as if they weren’t sure if he should be there. Looking around, he was one of the younger disciples, but when he extended his mana, he wasn’t any lower tier than the rest of them. Sure, some of them were high Tier 1, and most of them had more mana than him, but it wasn’t as though he was ridiculously unqualified. They waited for a few minutes, chatting, before a hush abruptly fell over the crowd.
+
+A young-looking lady swept in. Her dark hair was swept back in a stern bun, and her pale blue wide-sleeved robes were cut short, hanging no lower than the elbow. Underneath it, she wore long, skintight dark blue sleeves that covered the back of her hands in a V-shape, but left her palms bare. The hem of her robes reached about as long as a miniskirt would. Beneath it, she wore leggings that likewise came to a point on her feet, almost merging into her sandals. A dark blue fabric belt dripped with gold-and-blue-glass decorations, to match the slender but unnecessarily long gold pin that held her bun in place.
+
+Rhys nodded to himself. That was a design. If he were still a cosplay builder, he’d be calling that female friend of his right now.
+
+She thumped a heavy bag to the ground and approached a podium. The podium declared her name: Snr. Sorden Tagg. The podium stood beside a large cauldron with clear walls, so that the students could see inside. It looked as though it was made of glass, but there was no way something that large subject to explosive levels of pressure could be made of unreinforced glass. It was probably enchanted somehow.
+
+“Get out your supplies. Today, we’ll be making a simple healing potion,” Sorden announced. With a gesture, she pushed mana into the brazier below the cauldron, and the brazier lit. The other students did the same, and Rhys followed along. Sorden drew huge quantities of herbs from her bag, tossing them into the transparent cauldron.
+
+Rhys watched the herbs she threw in, then copied her motions. He didn’t know how to make a potion, and it wasn’t like he could sniff potion bottles to figure it out—or, at least, his senses hadn’t advanced to that level yet. The book’s instructions were less than helpful; they included obtuse references to techniques and equipment that the book itself didn’t explain. Honestly, he’d given up on making potions. It wasn’t a big deal, since Less is More meant he could sip the same potion for years, and he could scrape potions together to get more. Still, the more techniques he knew to create potions, the more likely he was to survive, so he figured, as long as the teacher was showing him the technique right in front of him, he might as well learn.
+
+The other students winced at the quantity of herbs used to create the potion, but Rhys had plenty of herbs from the trash. They’d cost him nothing, so if the students were price-gouged on herbs, that was none of his business. Unless. He grinned to himself. He had lots of high-quality compost back in his heap, and plenty of disciples threw out rootstocks or stalks that he could try and grow herbs from. He only had a small garden right now, but if there was money to be made, he might as well expand that garden and make money.
+
+His herbs were ragged and in much smaller quantities, but the power they exuded when he threw them into the cauldron was just as strong as his neighbors’ cauldrons as Less is More activated. Up front, Sorden chopped, mixed, and ground. All her motions were smooth and polished, with the quick motions of a professional who’d made this a thousand times. Many of the students struggled to keep up, but Rhys, who was used to the fast-paced beat of Straw’s brutal lessons, could keep up just fine. One herb after another joined the pot. Rhys was worried he might not have all the herbs he needed, but it seemed as if she’d taught the same lesson a few times this week, and he had plenty of copies of everything he needed from the trash.
+
+The herbs melted under the mana-powered fire. Rhys felt their energy stirring, and called out to that energy. At the front of the class, Sorden gestured in a circular motion over her cauldron. The energies mixed smoothly together, blending into one energy.
+
+Rhys started to stir the energies, only for them to immediately jolt and try to escape his grasp. Sorden had made it look so easy, but it was anything but. The herbs all wanted to stay with their own like-kind energy, not mix in. Extending his mana, Rhys gripped each bundle of energy and slowly smeared them together, pummeling them from the outside and forcing them to mix into one. It fought against him, but he refused to let it go. He pushed them all together, tightening the cauldron’s space so they couldn’t escape.
+
+Without anywhere else to go, the energies melded slowly but surely. Even with all Rhys’ efforts, though, he couldn’t make them completely mix. He glanced at the front of the classroom.
+
+Sorden gestured. The lid of the massive cauldron jumped into her hand, and she thumped it home. Putting both hands on the lid, she pushed down. The cauldron took the force she applied and pressed inward evenly from all directions. Inside the cauldron, the thick liquid compressed toward the center of the space.
+
+Rhys copied her gestures. He pushed mana into the cauldron, and the cauldron immediately applied pressure inwards. At the same time, the lid pressed against his hands, trying to escape the pressure. Rhys strengthened his arms and pushed down with all his might, refusing to let the cauldron pop. With one hand, he reached out and closed one of the hooks down, then reached out to the other one and hooked it over the edge. The lid still struggled, but it was no longer Rhys alone who pushed it in place.
+
+He wiped his forehead. He’d almost been one of those students with the lids embedded in the ceiling. If he hadn’t noticed the hooks ahead of time, he would have had no chance.
+
+Inside the cauldron, the swirling, superheated, pressurized liquid started to destabilize. Rhys whirled and pressed his hands against the lid, once more carefully swirling the liquid. The potion quieted down, but only so long as he kept his active attention on it.
+
+“At this stage, when the entire potion is melted down, pay close attention for impurities. Expel the impurities through cycling the pressure on the liquid. Remember, higher impurities mean a weaker potion, and more impurities that will build up in the body of the one who drinks your potion, whether that’s you or a friend.”
+
+Impurities? I got Impurity Resist the other day. Rhys raised his hand. “What are impurities?”
+
+Sorden squinted at him. After a second, she shrugged. “Impurities are tiny unnecessary inclusions. They occur naturally in almost all herbs, with the exception of some extremely rare, extremely high-quality herbs. Impurities build up in the body naturally, as one eats, drinks, and exists, and can also build up from excessive reliance on pills or potions. They can build up in your mana passages and impede the flow of mana. If you have too many impurities, it can even prevent you from reaching the next Tier. You can expel some impurities from your body, but it’s better to expel them from the potion before they enter your body.”
+
+It made sense. It was kind of like plaque building up in one’s veins, impeding the flow of blood and ultimately leading to death, but impurities built up in the mana passages and led to magic-death. But at the same time… impurities sounded a lot like trash. If everyone ignored them and tried to expel them, didn’t that mean that everyone was throwing them out without ever looking at them for value? Interesting. Very interesting. Rhys could feel his excitement spiking already.
+
+Trash also seemed to be a great source of impurities, since he’d gotten the Impurity Resist skill from it. He made a mental note to try absorbing some impurities and experiment with them later.
+
+For now, he simply followed Sorden’s orders, cycling the pressure to the liquid. Tiny black dots oozed out of the clear liquid in the clear cauldron at the front of the room. They collected in the bottom of the cauldron, where a crust of black had already gathered. The potion condensed, boiling down. At the very last second before it burned, Sorden grabbed an empty vial from beside her, yanked open the lid, and made a pulling gesture. The blue liquid flew out and coiled into the vial.
+
+Rhys fished an empty bottle from the trash out of his robes. He uncapped it. Following Sorden’s directions, he opened the lid and immediately reached for the liquid.
+
+Too slow. The second he took the lid off, the liquid shot out, bursting into the air. Rhys turned, reaching up instead of down. He managed to grab a small quantity of the liquid and pull it into the vial, but the rest of it rained down on the classroom, bathing them in potion.
+
+The children near Rhys shrieked. A few ran for it, or ducked under their stools. It was a successful potion, though, so aside from getting them wet, it didn’t hurt them at all. Rhys wiped his face down, a little drenched himself. It healed all the little cuts and scrapes on his body, but since he didn’t really need a potion, it didn’t do much.
+
+“Never a dull class,” Sorden deadpanned.
+
+Let the pressure out, then open the lid, Rhys noted for the future. But for all that, he’d achieved his objectives. He’d learned how to operate a cauldron, and he’d obtained some fresh potion for his efforts. Bonus points!
+
+Alchemy 1
+
+Class continued for another while yet, but since it was lecture, it wasn’t the most stimulating class of all time. When the doors finally opened, Rhys rushed out. But for all that he’d spent a lot of time, he’d gained so much for it. Two skills in one day, and a lead for future investigation. Two leads, including the garden. All good things for him!
+
+He returned to his trash heap pleased with himself and set about building his garden.

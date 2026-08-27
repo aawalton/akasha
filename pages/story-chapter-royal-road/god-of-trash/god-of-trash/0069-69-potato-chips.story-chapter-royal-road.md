@@ -1,0 +1,139 @@
+---
+id: f8fb655f-a53b-5ea2-a04b-8c3a596e4f47
+page-type-slug: story-chapter-royal-road
+title: "69. Potato Chips"
+slug: 0069-69-potato-chips
+partOf: god-of-trash
+position: 69
+ownLength: 3369
+unit: words
+publishedAt: 2025-05-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2265322/69-potato-chips"
+royalRoadId: "2265322"
+---
+
+“Make… what?” Bast asked, lost.
+
+Rhys handed him a knife. “Do as I do. You’ll figure it out.”
+
+“Potatoes are going to make us rich?”
+
+“I know, right? I was startled, too,” Rhys said. Startled that they had potatoes, anyways. In his world, those were New World foods, relegated to the far-flung American continent. But why not? Although he’d recognized lots of the foods, there were still lots of roots, herbs, and flowers he didn’t recognize, a great variety more than even what he’d been aware of in his world. It was as if the mountains they lived in were cold-weather rainforests, so diverse were the plants that grew upon them. With such a diversity of plants at their fingertips, why not a potato? Or at least, a starchy root tuber that was roughly equivalent in starch content and flavor to a potato.
+
+Getting rich with potato chips was a bit far-flung, even Rhys knew that. But that was why his ambition didn’t stop at mere potato chips. After all, potato chips were junk food. And what was junk, but another word for trash?
+
+Mages sought many things, but primarily mana, techniques, and a path. With ordinary humans, potato chips in their most processed, most junky form, provided flavor, but, thanks to complicated processing techniques, almost no fullness. What Rhys wanted to replicate wasn’t merely the technique of frying a thin slice of potato in oil. No, anyone could do that. His ambition wasn’t so shallow. What he wanted, was to replicate that addictive quality in ordinary humans—the delicious flavor plus no fullness—but for mages.
+
+For mages, what would be the equivalent to flavor plus no fullness? Well, flavor was the same. He had seen mages eat, and there were enough merchants selling foodstuffs and stall food that he knew they were motivated by good food, just the same as humans. But the fullness was the missing factor. Mages didn’t need to eat, so food didn’t connect to their satisfaction sensors the same as it did for humans. They would either eat unendingly, or eat a small amount for flavor and no more, since they didn’t need to eat for survival. Targeting not feeling full was pointless, because that wasn’t part of the condition for mages.
+
+No. Instead, he had to look at what mages sought. Mana. Techniques. A path. Junk food was trash; he could imbue it with the hints of a path (namely, his path), such that the chips would seem to have depth and mysteries to them, but would not be comprehensible to anyone except for himself, or anyone else who could understand the Path of Trash, which… he doubted existed. Junk food was trash, so it was easy for him to impress mana into them. Just tiny slivers, tiny flickers so small that the mages wouldn’t even be sure where the mana was coming from. He didn’t want them to actually realize that the chips were giving them mana, after all. No, he wanted them to feel good when they ate the chips, but not realize why, and simply associate the chips with feeling good rather than with getting mana. If they knew the chips were giving them mana, they’d be disappointed in the amount of mana, or simply realize that they were wasting their time. Better for it to be a mysterious happy feeling they only got when they ate Rhys’s chips, that was associated with the chips and nothing else.
+
+As for imbuing the chips with techniques… he hadn’t figured that part out yet. But hey, potato chips only fulfilled humans’ desire to eat tasty food, they didn’t fulfill their desire to create or grow as people or enrich their lives. He’d definitely experienced that for himself. If potato chips could have fulfilled his entire life, he would have been the happiest man on his old planet. He didn’t need to fulfill everything that mages wanted in order to craft an addictive treat, he just needed to trigger enough pleasure centers in the mages’ brains to get them to keep buying potato chips.
+
+After all, that was the essence of junk food. Not being delicious, or providing nutrition—ha!—but simply tricking human psychology into bending over backwards to pick up more of it, despite offering no benefits whatsoever. That was what Rhys sought to emulate. That was what was going to make him rich. If he could crack that code for mages, he’d be swimming in gold.
+
+Ultimately, the potato chip itself was immaterial, compared to figuring out how to make junk food for mages. Once he figured out the addictive formula, he could apply it to anything. Pure-sugar candies. Delicious chicken nuggets. Chocolate, pretzels, french fries and hamburgers. Anything he could use to trigger the same fulfilment in mages that junk food did in mortals was valid as a target to him; it was just that potatoes were available, and potato chips relatively easy to make without industrial processing materials. If he nailed this, the cost-to-value ratio would be absolutely insane, and then he could look at upgrading to even better junk food, like candies and chocolates.
+
+Of course, a nice coincidental side effect of this was that he would have potato chips and maybe, eventually, chocolate in this world, but his real objective was gold. Those were merely happy coincidences. Or, in mage terms, as he’d often seen in the manuals he sped-read, the harmonious byproduct of working toward a virtuous goal.
+
+Bast lifted his hand. “Wait, wait, wait. What do you mean, you were shocked? And how are they going to make us rich?”
+
+Rhys opened his mouth to begin, and felt the exact emotion absolutexistance must have felt when it had said, ‘It’s best if I just show you.’ How could he explain potato chips to someone who’d never had any junk food, let alone a potato chip? How could he explain the pure joy that was a potato, sliced thin and quickfried in oil, then sprinkled with salt? The addictive quality of cracking open a fresh bag to find those golden discs staring back at you, sucking down chip after chip, until your fingers were salty and oily and the bag crinkled with empty sadness, only to dip a finger into the bag and lick the last of the chip crumbles and salt off your fingertip?
+
+Rhys turned and found all the raw ingredients lying there, waiting for him. The potatoes. The knives. The oil. The salt. Even the newly-repaired cauldron, ready to be heated and for potatoes to be fried within. So he turned to Bast and said, “It’s best if I just show you.”
+
+“Sure,” Bast said, gesturing.
+
+Rhys searched through the trash until he found a large bowl, only a little dented. Using his Tier 2 strength, he pushed the dent back out, then drew the impurities off the bowl and into his core. Down to the riverside, where he washed the bowl under the approving eye of the local raccoon, then filled it with fresh water, once more drawing the impurities out to ensure it was clean. He retreated to Bast’s side and set the bowl in the shade. “Do you have any ice techniques? It’s cold enough that it should work, but a little ice wouldn’t—”
+
+Bast drew his sword. He took a breath, then slashed out. A thin film of ice formed on the surface of the water, and cold air sent Rhys’s hair into a flurry.
+
+“—go amiss, thank you, Bast.” Rhys punched the ice into the water, then turned to the potatoes. They, too, were covered in impurities and dirt, but that was all trash, as far as Rhys was concerned. He sucked them into his core and pulled a good, strong, flat board from his core. He’d already cleaned it, having planned to use it as a shield, or maybe a weapon, since it had once been a piece of a much larger (but not too large to manifest) wooden wall, but it would do for this. He set the potatoes on the board and drew one of the knives.
+
+Bast delicately plucked the knife from his hand. “How thin do you want it?”
+
+Right. He’s a sword-based martial artist. Why was I bothering? “A little thicker than paper… think parchment.”
+
+Bast nodded. The knife flashed, and perfect potato chips fell to the board.
+
+Rhys picked them up and set them in the cold water. He swirled them a bit, letting the cold water do its thing and lift the surface starch off the potatoes. As soon as the starch lifted away, Rhys called it into his core. It was trash, after all. He was only going to throw it away. And if he drew the starch out of the water, the cold water, not yet saturated with starch, was better at drawing further starch out of the potatoes.
+
+With this accelerated process, the potatoes were soon ready to fry. He laid out a particularly fluffy piece of cloth and set the newly de-starched chips atop it to dry. Turning to the cauldron, he poured the cooking oil in, letting just enough pool at the bottom, and set some trash underneath it. With his usual method, he lit the trash, then stood nearby, constantly pulling the impure smoke into himself rather than let it taint the oil. He lacked a thermometer, but his senses as a mage were far more finely tuned than they had been as a mere mortal, and when the oil began to bubble, he knew it was time. He grabbed the dried chips and tossed them in, then realized: I have nothing to take them out with.
+
+“Uh oh,” Rhys muttered.
+
+“What?” Bast asked.
+
+“I forgot to find something to remove the chips. Any kind of wire basket or strainer or spatula will do, I just—I forgot to find it,” Rhys said, on the verge of panic. The chips didn’t need to fry for long. They were probably already good to go, but he had nothing to remove them with.
+
+Bast gave him a look. “Can’t you remove them with magic?”
+
+“With what spell?”
+
+“Don’t all you mages know a simple manipulation spell for small objects like that?”
+
+“Sure, for trash! But these are—” Rhys stopped himself mid-sentence. Yes, potato chips were delicious enough to qualify as a nationally celebrated food, but were they trash? Everyone agreed—potato chips were junk food. He highly valued them, worshipped them, even, but he loved trash, so of course he did! No, no, that was right. Potato chips—were trash!
+
+“Bast, you’re so right,” he finished. He turned back to the pot and gestured, using Trash Manipulation, and the potato chips rose out of the bubbling oil, gleaming perfect golden brown in the sunlight. Back they went onto the fluffy fabric to dry from the oil. When they dried, Rhys drew up the cauldron he’d bought—the larger one—and put the chips and some salt in the very bottom, where he gently swirled them around until the salt evenly coated the chips. Only then did he finally taste one.
+
+Sublime. Perfection. His eyes closed as ecstasy rushed over him. Oh, they were a bit rustic, and there was still something missing, something that wasn’t quite as he remembered, not to mention that he hadn’t yet managed to fill them with mana or otherwise trigger mage-specific, instead of mortal-specific, pleasure centers—but they were potato chips, and they were delicious.
+
+“Let me have one.” Bast pushed his way in and took a chip. He crunched it down, then raised his brows. “Huh.”
+
+“Right?” Rhys said.
+
+“It’s not pissing-gold good, but it is good. Sell that at the tournament for a markup, and you’re in business,” Bast said, already guessing Rhys’s next steps.
+
+Rhys waggled his finger. “Not yet. This is but the basest, meanest form of the potato chip. I intend to make true junk food—to transform this trashy food into something so delicious, so addictive, that my victims—ahem, customers—can’t help but come back time and time again for more. Are you in?”
+
+Bast shook his head. “If anyone can do it, it’s you. Show me how. What’s our next step?”
+
+“Figuring out how to imbue these potatoes with mana. And I have a pretty good idea of how.” Rhys turned toward the pile of organic trash, sitting there waiting to be turned into mana-rich compost. He grinned.
+
+“How?” Bast asked.
+
+Stepping forward, Rhys knelt and pressed his hand into the trash, absorbing a large chunk of it. Bast watched with a distant kind of concerned alarm. When the trash star was ready to ignite, Rhys walked over to the compost. He took a deep breath. All this time, he’d channeled the trash star’s power inward, to strengthening and refreshing his own body—and why wouldn’t he? He needed a lot of mana to grow to Tier 3, and even the trash stars were but a drop in the bucket. If he didn’t use the trash stars maximally to empower himself, he could only dream of Tier 3.
+
+But this was important. Important enough to divert some of the mana from his precious trash for. So, for the first time, he focused inward as he activated the trash star. Clutching the resulting mana, he pushed it outward and into the compost—the bacteria, worms, and other micro- and macro-organisms that lived in the food and slowly broke it down into rich compost. Just as it had before, his mana sped up the process, but his mana was now far more dense and far stronger than it had been the first time. Before their eyes, the pile of organic trash collapsed in on itself. A bubble of gas belched out of the rapidly decomposing materials, the pile rising, then falling with the enormity of the gas.
+
+Whu-oh. It was decaying too fast, too far. If he did nothing, he’d end up with trash so fully digested that it became nothing but dust on the wind, as the super-charged organisms devoured, and devoured, and devoured. This wasn’t going to end up as rich compost, but sad and empty depleted dirt! Rhys ran into the trash, grabbing all the food and other organic materials he could find. He tossed them directly into the pile, providing fresh fuel for the organisms to break down. The second the trashed food and scraps touched the pile, they instantly decayed, going through weeks’ worth of breakdown in the space of seconds. It was like watching a timelapse video, but in real time. The food landed, fell to pieces, blackened, and became dirt in instants.
+
+“Over there, there’s a big dump from the cafeteria,” Bast called, directing Rhys from below.
+
+“There’s a cafeteria?” Rhys muttered. He scrambled over where Bast directed and dug his hands into wet, cold noodles, tossing them by the handful into the rapidly decomposing pile. That wasn’t fast enough, so he grabbed a whole armload and tossed it into the decaying lump. Armload by armload, he tossed the cold, slowly-rotting food into his rapidly-rotting pile. Bits of sticky and dried food stuck to his robes, but he kept going anyways. If he was going to become the ultimate trash, he had to absorb the trash, dwell in the trash, become the trash, be covered by filth and soaked in trash. He couldn’t hold back because he might get a little bit dirty. If he was going to become ultimate trash, and he held back because he might get trash on him, he wouldn’t get very far.
+
+The cold and squishy texture was horrifying, and the noodles sunk in between his fingers. Mysterious, half-rotten food gave way when he gripped it, his hands breaking through a hard shell to reach a soft, cold but gooey inside, and Rhys barely suppressed a shudder. Don’t think about it don’t think about it—
+
+“Gross,” Bast commented from the ground.
+
+“Oh, shut up.” He tossed the armload onto the pile and kept going.
+
+Even with tossing fresh fuel on the decomposition, he still couldn’t keep pace with the enhanced process. Rhys wrinkled his nose. He extended his hand, activating Trash Manipulation to call trash to him, but only organic trash. Instantly, the skill strained. It shuddered, then broke—or rather, opened up. All the trash appeared before Rhys, all of it ready to be called. He couldn’t see everything about the trash, but he could sense certain things about the trash. Hardness, strength, the mana held within. He closed his eyes, attuning himself to the trash. His awareness expanded, and the difference in the types of trash opened up before him.
+
+“Rhys? It’s gonna eat itself,” Bast warned him.
+
+He reached out to the trash pile and scanned it. The fresh set of rotten food melted away, but he got a sense for it before it went. Volatile, full of organic particles and gas, ready to decay, in fact, already decaying. That was what he had to look for.
+
+Then… everything like that, let’s pull it to me! Rhys reached out and grabbed, yanking the trash with that signature toward him.
+
+A great lump of trash welled up out of the garbage near where he’d been digging out cafeteria food, the food decayed beyond recognizability, but not beyond the stage of compost. Rhys threw that into the decay and reached out further, further. Another pile opened up higher on the trash, deep and old, full of mana and trash potential. Eyes still shut in intense concentration, Rhys gripped it and pulled it, too, toward him. It stuck, moving slowly, so he put more power into it, yanking with all his might.
+
+From below, Bast watched the pile shake. It shuddered. Bits of trash shook off the pile, tumbling down past Rhys. High above Rhys, a broken dresser fell out of the shifting pile, rolling head-over-end toward him. Lost in his technique, Rhys stood in its path, unmoving.
+
+Bast narrowed his eyes. His sword flickered, flashing silver for but a moment before it vanished back into its sheath. The dresser tumbled one more rotation, then split into two, the two halves falling harmlessly on either side of Rhys.
+
+“Did something happen?” Rhys asked, momentarily distracted.
+
+“No. Keep going.”
+
+Rhys turned his attention back to the great lump of organic garbage under the pile. He strained, pulling with all his strength and all his mana. His veins stood out on his face and limbs, and his eyes glowed faintly under his closed lids. From out of the depths of the garbage rose a great lump of half-rotten food, stinking, reeking, and dripping, trailing a length of tangled roots, noodles, and other garbage behind it. His hands trembled. The weight of the garbage pressed against his body as though he himself lifted the trash. He gritted his teeth and pushed, putting all his mana into it—but it wasn’t enough. His mana passages ruptured, unable to bear the load. His control trembled, on the verge of breaking.
+
+No. I refuse! Rhys pushed his foot down and absorbed the garbage around him into his core. Thanks to him absorbing the condensed impurities from Bast, the rats, and everything else, he still had plenty of fuel for the heart of the trash stars. One after another, he ignited them, putting all that power into strengthening his own body and mana passages so that he could keep lifting the organic garbage. It held. Barely, but it held. He rotated, taking the garbage with it, then dropped it into the rotting pile. At last, panting, drenched in his own sweat, Rhys opened his eyes.
+
+The hypercharged compost pile eagerly devoured fresh fuel. The already half-rotten organic waste quickly blackened, transforming into rich compost, and the hypercharged organisms sped upward, devouring the whole lump. When they reached the top, they finally slowed, back down to the speed Rhys was used to, then even slower, until it finally slowed to a halt.
+
+Rhys wiped his brow. “Phew.”
+
+Bast stared at the pile of compost, then chuckled under his breath and glanced at Rhys. “Think we have enough?”
+
+Rhys looked it up and down as well. The compost towered over him, easily ten, no, fifteen feet tall, and about as wide. He laughed. “I think we might.”

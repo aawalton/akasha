@@ -1,0 +1,291 @@
+---
+id: ef386092-eb42-5967-8633-8101e8add05f
+page-type-slug: story-chapter-royal-road
+title: "8. The Passage of Time"
+slug: 0008-8-the-passage-of-time
+partOf: god-of-trash
+position: 8
+ownLength: 3906
+unit: words
+publishedAt: 2025-03-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2099499/8-the-passage-of-time"
+royalRoadId: "2099499"
+---
+
+The years passed. The ‘weapon intent’ Straw spoke of was no easy skill to learn, nor was he in any way an easy person to learn from. He ran the both of them ragged day in and day out. Sometimes with a makeshift weapon, sometimes with his fists, he chased them down and pushed them to their limits.
+
+Training took many forms. Some days, they faced Straw and practiced strikes, repeating them over and over, or held a stance for hours until their muscles ached and sweat poured down their bodies. Some days, he walked around them, offering pointers and adjusting their form. Some days, the days that Rhys both dreaded and eagerly awaited, he and Bast would awaken, or jolt from their meditation, to find themselves alone in their camp, with nothing but the clothes on their backs. Even his precious potions and hard-won gold would be gone. They’d have to pick up whatever they could find, a broken bone, a sturdy stick, even a rock, and hunt Straw, while Straw hunted them.
+
+As for hunting, there were a great many beasts in the forest around them. Some even qualified as monsters, with mana flowing in their veins and spells of their own. At first, the monsters were horrifyingly powerful, unkillable and terrible, that had to be avoided at all costs, but as time wore on, they became less fearful. Bast was the first to strike one down. He dropped from a tree and brained a magic squirrel-beast with gold fur with a stone. The thing squealed and struggled until Rhys ran over and ended its suffering with a quick slash of his broken sword. To his surprise, Rhys felt little. It was only a beast, after all. Seeing its blood flow triggered no emotion in him except for hunger, and distant curiosity about that gold fur.
+
+Its meat was full of mana, and eating it helped both him and Bast advance in a way that absorbing ordinary mana didn’t. After that, the free-for-all on hunting beasts began. Whenever they had a rare moment of free time, they set off into the woods. Bast preferred chasing them down with his own strength, while Rhys favored traps, often built with the scraps of the beasts they’d killed before. However they got it done, they hunted beast after beast, ate them whole, and reaped the benefits.
+
+Straw didn’t stop them from hunting. In fact, he encouraged it… in that it was the one time the two of them would have a break from his brutal training. Every other waking hour was spent getting beaten to the very limits of their endurance, fighting nonstop with Straw and each other.
+
+Their life progressed in this quiet way, slowly growing stronger, gaining skills. They wandered the land, keeping away from towns and other people. Neither Rhys nor Bast brought up going to town, but then, neither of them were too interested in it. Rhys was determined to get stronger, whether he had talent or not, while Bast simply liked keeping the company of few. And so it went, on and on.
+
+Rhys sat in a tree, waiting. He watched the snare down below, holding his breath. A boar wandered ever closer, snuffling in the grass for the source of its favorite berries, placed right ahead of it inside the snare.
+
+One step at a time. Silently, Rhys drew to his feet, raising from a crouch to a sit. His body responded easily. After all this time in the forest, he was built of lithe muscle, a far cry from the skin-and-bones of yesteryear.
+
+The boar hesitated. Inches before the trap, it raised its head and sniffed the air instead of the ground. Its beady eyes snapped up and locked onto Rhys, and its tail raised high in alarm.
+
+Shit! Rhys leaped out of the tree, drawing the stub of a sword he still carried. The boar squealed and ran, but he caught ahold of the bristles on its back. It dragged him, hooves biting into the dirt. A red aura glowed around it, its eyes glowed red, and it sped up, rocketing away, Rhys barely clinging to its back.
+
+Rhys dragged himself closer. He drew back the sword to strike its neck.
+
+The boar threw itself to the side, slamming Rhys into a tree. Rhys let out a huff. For a split second, his grip loosened.
+
+No! He grabbed on tighter. He’d slipped a bit from his original holding spot, but he hadn’t lost the boar yet. He wasn’t giving up. Bacon! Pork chops! Tonight’s dinner was the other white meat, and he was staking his life on it!
+
+The boar grunted in discontent and ran on, hurtling toward the next tree.
+
+His mana had greatly expanded in the last two years. He called on it now and pulled himself up the boar’s body. In his other hand, he gripped the sword-stub tight. This rack of ribs was hitting the ground, right here!
+
+Mana flowed into his sword-hand, then changed. For just a second, as he slashed open the boar’s jugular, something else, some other energy, burst from the blade.
+
+The boar hit the ground and slid, smearing blood behind it. Rhys released it at last and stood, slowly, looking at his hand. What was that? Was it finally an Intent skill?
+
+Before he could pull up his skills and check, someone began slow-clapping behind him.
+
+Rhys whirled, but it was only Bast. The older boy smirked at him. “I’ve never seen a finer pig rider.”
+
+“Someone’s gotta. Come on, grab the other legs. We’re gonna have pork chops tonight,” Rhys replied, taking the boar’s front trotters in one hand.
+
+Bast obeyed, taking on the bulk of the weight without Rhys asking him to. For all that Rhys had advanced by leaps and bounds, Bast had advanced twice as fast… at least when it came to battle skills and strength-based techniques. Despite Bast starting at a great advantage in all areas, their mana pools were now comparable in size, but Bast’s strength still far exceeded Rhys’.
+
+“Why are you out here?” Rhys asked.
+
+“Straw sent me,” Bast replied.
+
+Rhys glanced back. That was odd. Straw usually respected their hunting hours. “Why?”
+
+“Didn’t say. Just said it was urgent.”
+
+That had him furrowing his brows even deeper. Nothing was urgent with Straw. In fact, he usually looked the most relaxed of all of them, whether he was beating them with his birch stick or offering pointers on how to best carry a thousand-pound boulder. “That’s strange.”
+
+“Hmm. We might not be having pork chops tonight,” Bast replied.
+
+“Pity. I’ll dress it just in case,” Rhys replied. They could always come back to it if he drained the blood, but if the blood clotted in the body and the meat began to rot, they’d be up shit’s creek with no paddle. Field dressing meat was but one of the many skills he’d learned to survive in this new world. The survival shows he’d been a fan of back in his original world proved far less helpful than Straw’s extensive practical experience, so he’d turned into an eager student rather than the teacher after his first squirrel had gone horrifically wrong.
+
+He pointed. “Here. Let’s hook it over that branch, and I’ll get it done quick so we won’t leave him waiting.”
+
+Straw was sitting in the corner of their little camp when they returned, Rhys smelling slightly of boar blood and a little filthier than usual. A dark aura surrounded him, and for a second, Rhys thought he saw something looming behind Straw. Something horrific, shaped almost like a man, but not quite. It gave off an ominous aura of black-purple light and the same crawling sensation he felt at night, when he almost glimpsed a shape in the woods, but it faded before he could fully make it up. Dread. Doom.
+
+Rhys stepped back instinctively. He reached for his blade.
+
+Straw looked up. He smiled, and whatever illusion had come over Rhys, it shattered. Quickly, he put away a letter in his robes. “We have to go into town.”
+
+“What’s wrong?” Rhys asked. Two years, and they hadn’t been to town. And that illusion he’d seen. Whether it was real, or just his instincts given form, he didn’t have a good feeling about it.
+
+“There’s nothing wrong. I need some good food, that’s all,” Straw replied.
+
+“Plenty of good eating in the forest,” Rhys pointed out.
+
+Straw didn’t give a response to that. Instead, he stood and walked away.
+
+Rhys glanced at Bast. Bast shook his head and spread his hands. He didn’t know any better than Rhys.
+
+Sighing to himself, Rhys shrugged. It wasn’t like he was against a trip to town. He could use some time in a trash heap, too. His potion needed topping up. Still, he’d rather Straw was honest with them about why they were going there.
+
+He and Bast fell in behind Straw. As they walked, Rhys finally took a moment to check his stats. It’d been a long time since he’d checked them, and he was curious to see how they’d progressed.
+
+Rhys Foundling | 14 | Foundation Building (Tier 1)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 14
+
+Survivalist 27
+
+Pain Resist 39
+
+Scavenging 22
+
+Less is More 27
+
+Sewing 8
+
+Blow Mitigation 16
+
+Self-Regeneration 11
+
+Mana Manipulation 7
+
+Poison Resist 3
+
+Improvised Weapon Proficiency 5
+
+He raised his brows, a little surprised. Foundation Building? Tier 1? He’d progressed from Tier 0. In other words, he was a real mage now. Improvised Weapon Proficiency was lower than he expected, but it leveled slowly. Skills that weren’t related to his ‘path,’ or obsession, leveled more slowly, and even though Improvised Weapons could be considered trash, they didn’t quite qualify. He didn’t understand why, but at the same time, he totally understood why. An improvised weapon could be anything, like a stick, or even a weapon he wasn’t used to using, like a hammer. It could be something highly valued. He still didn’t fully understand the rules of his path, but he understood that something had to be low-value to others in order to qualify as trash. If he picked up a stick in the middle of the woods that had never had any value attached to it, his path didn’t care about it in the least. It was only if it was a stick someone else had thrown away, and attached negative value to, that his path perked up.
+
+Not only that, but some skills seemed to be ‘higher level’ than other skills. Not as in they were literally a higher numeric level, but in that it took more time and effort to level them up. Like Mana Manipulation, and, in all honesty, Improvised Weapon Proficiency. Both of them were slow to level, but they were also more powerful skills than, say, Sewing… which hadn’t leveled up either, but not because it was hard to level. More for lack of trying.
+
+He scanned the list once, then scanned it a second time, but there was no Intent skill on the list. Rhys scowled. Maybe that one usage wasn’t enough to qualify, or maybe he hadn’t quite formed ‘intent’ enough to acquire the skill.
+
+But either way, I’m close.
+
+“I’m so close to intent. I can almost taste it,” Rhys commented.
+
+“I’m still stuck on Fist Intent. I feel like it’s holding me back from figuring out the generalized version, since I can use it all the time,” Bast replied thoughtfully.
+
+Rhys rolled his eyes. “Oh no, one intent skill.”
+
+“Two. I have Knife Intent, too, don’t forget.”
+
+Rhys glared at him. “Yeah, yeah, rub it in, why don’t you.”
+
+“You got Improvised Weapons Proficiency, right? That’s a step in the right direction.”
+
+“And your IWP skill is, what, level twenty?”
+
+Bast spread his hands. “What can I say? Martial skills come easy for me.”
+
+“Yeah, yeah. Must be nice to have a straightforward path, huh,” Rhys returned.
+
+Bast grinned. He patted Rhys on the head. “One day, when you grow up big and strong like me…”
+
+“Not this again,” Rhys grumbled.
+
+Two years. Two years at their age was a gulf of change. Bast, who had been 13, was now 15, and Rhys was 14. Bast had already hit his growth spurt, and he was rocketing off like he was making up for lost time. He’d always been taller, but now he towered over Rhys. Rhys, who was still growing at a stately pace, could only glare at the boy who’d been only a few inches taller than him two precious years ago.
+
+As they approached the gates, Straw looked back at the two of them. “Buy new robes.”
+
+“What’s wrong with ours?” Bast asked.
+
+Rhys looked him up and down, at his tattered and torn clothes that now showed easily six inches of ankle, and his sleeves that barely came to the elbow. “What isn’t wrong?”
+
+“Oh, yeah. I guess I’m getting bigger,” Bast teased.
+
+“I’ll get bigger too, soon enough,” Rhys declared confidently. Probably. He had no idea what genetics held for him, but hopefully it was more than five-foot-nothing.
+
+“Keep telling yourself that,” Bast said, patting his head again.
+
+This time, Rhys dodged. He stuck his tongue out at Bast.
+
+Bast refused to give up. He kept going, his hand darting through the air. Rhys hopped backward, nimbly avoiding Bast’s hand. The two of them sparred, tussling back and forth, Bast trying to touch Rhys’ hair, and Rhys refusing to let his head be touched. Like that, they approached the gate, until at last Straw glanced back.
+
+“Quiet,” he ordered.
+
+Rhys and Bast both went stiff and fell in behind Straw. The three of them fell in with the stream of people entering and leaving the gate from the main road. A strange haze fell over them. By now, Rhys was familiar with the sensation. Straw had used it a few times in the last two years. Whenever a mage flew overhead, mounted on broom or sword, or when a large monster passed too close, he’d gather them up and cast the strange haze around them. Rhys wasn’t completely sure what it did, but he knew it made them harder to sense. And now, the three of them breezed past the gate guards without paying the entry fee or being inspected, while the guards questioned a pair of dark-cloaked mages carrying slender swords.
+
+Wish I had a skill like that, Rhys thought to himself. Maybe one day. He still had many years of training with Straw ahead of him. Once he mastered intent, he’d ask about the haze skill. For now, he’d just stay focused on intent.
+
+When they reached the main street, Straw dropped the haze skill. He nodded at the other two. “Enjoy the town. I’ll be back.”
+
+He walked off, quickly fading into the crowd. Rhys gave Bast a look. “He’s definitely distracted.”
+
+“Agreed.”
+
+Rhys stared after Straw. He couldn’t see the man anymore, but he still gazed in his direction. Something was going on. Straw didn’t want to tell them, and that was fine. He was an adult. He had adult things to do. But it didn’t stop Rhys from burning with curiosity.
+
+If he could’ve followed Straw, he would’ve. As it was, the haze skill meant he had no chance of following Straw anywhere Straw didn’t want him to follow. So instead, Rhys nudged Bast. “Let’s go get you some clothes.”
+
+“I’m wearing clothes.”
+
+“Those don’t qualify. Or rather, they won’t for much longer,” Rhys said, eyeing the threadbare fabric. “You think there’s a trash heap around here?”
+
+“If we leave, we won’t be able to get back in again,” Bast returned.
+
+“Damn,” Rhys muttered. He waved his hand. It was fine. There’d always be trash later. He didn’t need to waste his precious town time on trash.
+
+They wandered the town. Bast stared at the shops with big, sparkly eyes. They sold high-end potions, rare herbs, and special magical components, as well as mages’ robes, gear, accessories, weapons, and everything in between. All the items were brand new, practically sparkling, and beautiful to behold. He walked from display to display, taking it all in, all but dragging his jaw on the floor.
+
+Rhys, on the other hand, watched the passersby. The mages walked by in clumps, color-coded by school, while the adventurers walked alone. The martials walked in groups for the most part, though a few roamed without friends. No… there were a few lone mages, as well, but they always looked scruffier than the mages organized by color. The color-grouped mages walked with straight backs and quiet dignity, while one of the lone mages staggered along in broad daylight, a gourd slung over his hand. He took a long swig from the gourd and sighed happily.
+
+Rhys snorted under his breath. That man was enjoying not being bound by any rules. He was divided. Did he want to go to a school, enjoy a school’s resources, but be restrained by their rules? Or would he rather wander alone, unsupported?
+
+“Rhys, look.” Bast nudged him.
+
+Rhys turned. “What?”
+
+Bast pointed at one of the displays, where a few herbs were displayed in delicate formation. “Those… didn’t Straw tell us to eat them whenever we find them?”
+
+“What, the ones that gave us the runs for three weeks straight?” Rhys asked.
+
+“They’re poison,” Bast said.
+
+“Sure explains a lot,” Rhys replied. Such as his poison resist skill. He’d thought it was just happenstance, but if Straw had deliberately told them to eat poison, it made sense they’d pick up that skill.
+
+“Cheap way for us to pick up the Poison Resist skill,” Bast commented.
+
+Rhys checked the price of the herbs. His brows flew up. Fifty gold an herb? For a poison that gave people the runs? “The hell? Damn, no kidding. We should pick some of those things to sell.”
+
+“Even if we did, wouldn’t Straw just make us eat them again?” Bast replied.
+
+“He sure would,” Rhys agreed. Sighing, he banished that dream for a later date. Now that he knew how much those herbs sold for, he could always pick them and sell them later. He pointed ahead of them. “Down there, there’s cheaper-looking shops. I think I can afford some robes down there.”
+
+Bast nodded. He cast a look at the fine robes shop off the central square, then shook his head and followed Rhys.
+
+“You’ve got a taste for the finer things in life,” Rhys commented, noticing his gaze.
+
+“Can you blame me? I grew up in a brothel, surrounded by the finest of silks and the gauziest of laces. Even my dad dressed in layers of brocade when he came to visit. I thought the whole world dressed like that,” Bast said with a shrug.
+
+“Orphanage must’ve been a hell of a downgrade.”
+
+“Mmm. I don’t miss it. I got hit a lot. And there’s not a whole lot for a kid to do.”
+
+“No, there wouldn’t be.”
+
+They walked on in silence. Rhys tried to enter the cheap robes shop, only for the owner to push him back outside gently, then lock the door. He made a face at Bast. “There’s gotta be a cheaper shop.”
+
+Bast nodded.
+
+A second robes shop simply locked their doors when the two ragged youths approached. At last, Rhys spotted a second-hand robes shop. He gestured for Bast to stand back, then walked by, pretending to have no interest in the shop. At the very last second, he spun on his toe and slipped inside.
+
+The shop clerk’s head popped off her head. She stood behind the desk, tension clear in her body.
+
+The hell happened to these people? Why are they all so scared of two scruffy kids? Even if he and Bast tried to rob the shop, how far would they get? They were at Tier 1, the lowest tier of magehood. From here, he could sense that the shopkeep of this shop was at least a tier above him, and she was the weakest of all the shopowners. Before she could kick him out, he grabbed two sets of adult-sized robes and threw them on the counter.
+
+“How much?” he asked.
+
+She glanced at him nervously. “T-two gold.”
+
+“Look at these! They’re ragged, and the knee needs a patch on these trousers. One gold,” Rhys insisted, pointing at a very small scrape on the knee.
+
+“One gold,” she agreed quickly.
+
+Rhys smiled and passed the coin over. Internally, he narrowed his eyes. Now he was convinced. Something was wrong. And from the distracted way Straw was behaving, the man knew it, too.
+
+He left without another word and rejoined Bast outside. Handing him the clothes, he shook his head at him. “Something’s wrong.”
+
+“Yeah?” Bast asked, instantly on edge.
+
+“Act normal. I don’t know what’s going on, I just know it’s not right. That shopkeeper looked ready to flee her shop at the sight of me, and she was a whole tier higher. They aren’t just afraid we’ll steal. They’re afraid of us,” Rhys confided in him.
+
+“What? Why?” Bast asked.
+
+“No idea. Let’s get the hell out of here before we find out.” Rhys passed him the new robes and nodded toward a dark alley. They slipped inside. On the other side, they emerged in new robes. Rhys had let down his ponytail, and Bast wore his old robes tied into a headscarf. Rhys nodded toward the back of the town. There was a second exit that way. They could escape before things went bad.
+
+“What about Straw?”
+
+“He’s a grown man. He can find us,” Rhys replied.
+
+Bast nodded.
+
+They walked on. The exit loomed, and Rhys sped up. He glanced to his side. “Bast, come on—”
+
+Bast had fallen back. He stared at a job board in silence, his eyes almost as big as when he’d been staring at the shops earlier.
+
+“What?” Rhys asked. He jogged to Bast’s side.
+
+Jobs, requests, and notices were posted on the board, layered over one another until the paper was inches deep. From lost dogs to monster conquest requests to wanted posters, they were all posted on the board. And Bast stared at one of the wanted posters.
+
+Straw’s face was printed clearly on the poster. His sky blue eyes gazed out from under that familiar straw hat. Below it, Rhys and Bast’s faces gazed out at them. Compared to Straw, their faces were roughly sketched and a little more round-cheeked than they were today, but it was still clearly the two of them.
+
+Beneath it, bold text proclaimed:
+
+EXTREME DANGER
+
+The Remnant Weapon known as Strawman has been sighted in this area. Flee if you see him or his disciples. The Strawman wields immense curse power, and his disciples likely share the same power. Avoid at all costs!
+
+“What the fuck,” Rhys muttered. Weapon? Straw? He could be a little distant at times, and sometimes he acted strange when they caught him off-guard, but something like ‘curse power,’ applied to their teacher, sounded insane.
+
+“Damn, why didn’t he teach us that?” Bast asked.
+
+“Right? I wish,” Rhys muttered. He nudged Bast and nodded toward the exit.
+
+Bast nodded. He followed Rhys toward the rear gate.
+
+A hand grasped Rhys’ shoulder. He jerked to a halt. Bast stopped as well, looking over his shoulder without fully turning. Rhys peeked back. Uh oh.

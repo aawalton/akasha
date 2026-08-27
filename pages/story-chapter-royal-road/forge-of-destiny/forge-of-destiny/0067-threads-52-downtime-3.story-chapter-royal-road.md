@@ -1,0 +1,145 @@
+---
+id: c88e7d84-11db-58ae-a853-0e1237d951ad
+page-type-slug: story-chapter-royal-road
+title: "Threads 52-Downtime 3"
+slug: 0067-threads-52-downtime-3
+partOf: forge-of-destiny
+position: 67
+ownLength: 2848
+unit: words
+publishedAt: 2021-02-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/634920/threads-52-downtime-3"
+royalRoadId: "634920"
+---
+
+Ling Qi took one last look around the small music hall, eyeing the handful of other disciples occupying the seats within. Despite her best efforts, word of the matter had gotten out. Not many had bothered to show up, and most were no doubt here out of idle curiosity, but she recognized a few disciples in the orbit of more important Emerald Seas nobles. She smiled thinly as she caught the eyes of one such young man, doing her best to channel Meizhen’s imperious attitude. He looked away first.
+
+What was done was done. There was no use worrying about it now, and she would not spend Hanyi’s performance getting worked up about the rumor mill.
+
+Ling Qi took one last look down at the stage where Hanyi faced a seated Yu Nuan with her hands on her hips and a defiant look on her face. She leaned back, letting her eyes drift shut as Hanyi’s voice rose in song.
+
+A chill wind descended from the mountain. Swift and eager, newly born from the storm, the wind played upon the valleys and foothills. There was so much to see, so much to do. All the land sparkled with snow and ice, a vast and wondrous playground. The winter wind laughed as it rattled window panes and sent bare branches waving to scratch at the eaves and make spooky sounds.
+
+But winter was not forever, and when the warm winds came, the chill would retreat back to the mountain peaks where winter held eternal court. Below, the land changed. Its sparkling blanket faded away, and it became strange - green, warm, vibrant, and alien. In her heart, the chill wind wondered what it would be like to wander green fields.
+
+Thoughtless and eager, when the warm winds came the next year, the chill wind lingered and did not heed the call to come home. She blew through the green fields, and in her wake, there was frost, and the green grass withered. The people cursed her, and the warm winds drove her out. The chill wind fled and sought the comfort of the peaks, but she had wandered far, and her home was nowhere to be found.
+
+Lost, the chill wind defied the warmer winds that chased her. She blew with all her strength and scattered her foes. For a time, the little wind grew aimless and lost, and her heels were always dogged by the warm winds of spring. However, the little wind was strong. If she could not return home, then she would not be driven away. She had given up home, and that sacrifice would not be in vain. She sought the flowing rivers and the green fields that she had longed for. She sought the birds and the beasts who had always hidden away when winter’s cloak had fallen upon the world.
+
+Though she was oft spurned, the little wind blew on regardless into hidden lairs and warm halls. She was here, and she would not go, no matter how much the warm winds buffeted her for her defiance, no matter what curses were cast her way or how harshly the sun glared.
+
+The cold wind had come, and it was here to stay.
+
+Ling Qi hummed to herself as the vision began to fade. Although she had helped Hanyi practice, her inexperience still showed. Ling Qi had felt the full force of the message, being so familiar with Hanyi, but she could tell that others in the audience had found the expression muddled at points. The central theme had been conveyed, but the details were blurred. She was still proud of her junior sister.
+
+Yu Nuan gave her a faint nod as their eyes met before she turned her eyes back to Hanyi. Ling QI was glad to see that thoughtfulness had replaced the suspicion that she had seen in the girl last time. “I can tell you put a lot of passion into that,” Yu Nuan said idly as the last notes faded.
+
+“Obviously. Are you still gonna say I’m bad?” Hanyi asked with a harrumph.
+
+“Nah, but you still have a long way to go,” Yu Nuan replied with a lopsided smirk.
+
+“Quit stalling then if you think you’re so good,” Hanyi said, crossing her arms.
+
+“I won’t insult you by playing around. Let me show you what defiance really sounds like.”
+
+Ling Qi felt the change in the room’s atmosphere as Yu Nuan plucked a hard note on her lute. Sparks lept from her fingers, and the torches lighting the hall flared. The temperature soared, and as Ling Qi opened her mind’s eye to the song, Yu Nuan burned.
+
+In the ashes of broken dreams, the lightning struck. From it was born an ember, nurtured on ruin and ash. The ember burned bright and hot, dreaming of the day when it would rejoin its father in the heavens. When the rains sought to drown it, the ember burned on, hissing and spitting defiance all the way. When the cold sought to sap its energy, it burned low and endured. When the ground sought to bury it, the ember burned deep within the earth, seeking the sky. But eventually, the day came when wicked creatures bound the ember, using it for warmth and craft.
+
+Alone, the ember burned on, sometimes weak and sometimes strong, but never extinguished. Always, it strained toward the sky, toward the heavens. Through bondage, through crushing, through drowning and more, the ember burned on. Its captors shepherded it, and in their arrogance fed it fuel to birth new embers. In time, all the land was aglow with the light of the ember and its many, many children.
+
+At last, the captors grew slothful and incautious. The embers roared their freedom, and the captors burned. All the land was consumed in conflagration, and no force could extinguish them. Finally, the flames reached the heavens and became the lightning, and the world was right once more.
+
+Ling Qi blinked as the last notes faded. That had been rather different from Yu Nuan’s last composition. She listened with half an ear to the other disciples under the sounds of scattered applause. It seemed that the consensus was that Yu Nuan’s song was about the triumph of men over beasts and dragons and the rise of civilization and the Empire. Ling Qi wasn’t so sure.
+
+<Not bad. Gotta give the stodgy types an acceptable message to keep ‘em happy, I guess,> Sixiang snickered.
+
+Ling Qi leaped down to the stage and landed lightly beside Hanyi, who was pouting at Yu Nuan as the other girl stood up, her lute still producing streamers of smoke. “What do you think, Hanyi?” Ling Qi asked.
+
+“... I lost,” Hanyi admitted. “I’m sorry, Big Sister.”
+
+“You did really well. Do not apologize,” Ling Qi said, ruffling Hanyi’s hair.
+
+“It was a good try for a runt,” Sixiang teased.
+
+“Listen to her. She’s right,” Yu Nuan grumbled. “Damn natural talents,” she added under her breath. Ling Qi shot her a look. Yu Nuan met it without contrition. “You’re not half assing someone else’s work. That’s the biggest step.”
+
+“Tch. I’ll be better than you in no time,” Hanyi boasted arrogantly. “Just you watch.”
+
+Yu Nuan rolled her eyes in exasperation, and Ling Qi chose not to comment. “In any case, thank you for helping my spirit with this challenge, Miss Yu. I will help with your own issue when time allows,” Ling Qi said formally.
+
+Yu Nuan glanced toward the seats where a few watchers lingered. “I’ll look forward to it,” she said neutrally. “I need to be going though. I’ll see you sometime soon then… Miss Ling.” The formality sounded a little awkward on her lips, and Yu Nuan seemed aware of it given the brief bow and somewhat hurried exit that followed.
+
+Ling Qi rested a hand on Hanyi’s shoulder as they made for the opposite exit at a more sedate pace. “Are you satisfied, Hanyi?”
+
+“No, I lost,” Hanyi said grumpily, looking up at Ling Qi as if she thought her dim for asking. “But I did promise Momma. I gotta grow up, and I can’t do that if I just run to Big Sister for help.”
+
+“You’ll get better quickly if you try. You’re just lacking in experience,” Ling Qi said, relieved that this trouble had been smoothed over quickly.
+
+“Yup! That’s why I’m gonna run all over the Sect!” Hanyi chirped. “There’s so many spirits here. I need to pester ‘em all!”
+
+Ling Qi’s eyes widened in alarm, and she looked down to see Hanyi sticking out her tongue before the young spirit dissolved into a swirl of cold wind and snowflakes, vanishing from the entry of the music hall.
+
+<You really shoulda seen this coming,> Sixiang commented in amusement.
+
+Ling Qi held in a groan as she blurred into shadow to chase down Hanyi.
+
+***
+
+Ling Qi blurred to the side, and a hand shrouded in ash grey fire speared through the blurred afterimage where her eye had been. The gleaming saber in her right hand swept up to deflect the other girl’s second hand away from her throat, and Ling Qi smoothly transitioned into a thrust, and her opponent glided back, riding her own shadow.
+
+Xiao Fen eyed her warily over her hands, returning to the tight defensive guard of her initial stance as curling streamers of grey fire rose from her hands. Ling Qi smiled faintly, returning back to her own open starting stance, her saber held out to one side at middle height.
+
+Six months into the year, she had finally found something useful to do with her blade training. Now that she was in the Inner Sect and expected to represent Cai Renxiang to others, Ling Qi thought she should pick up some skill in one of the four noble weapons, and with Cai as her liege, the choice of which noble weapon was obvious. To that end, Cai Renxiang had begun to walk her through the basics of learning the blade. Her skill with the blade was purely ceremonial, but with a realm and four stages of advantage over Xiao Fen, using a saber served as a good handicap for their tutoring sessions.
+
+Ling Qi couldn’t directly teach the girl since they used different arts and had different styles, but through some trial and error, they had found that Xiao Fen was able to gain some insights into her Sidewinder’s Step art by observing Ling Qi’s movements in combat.
+
+“Ready for another round?” Ling Qi asked.
+
+“I do not tire yet,” Xiao Fen replied evenly. She seemed much more relaxed when fighting.
+
+<Ironic,> Sixiang said silently, <considering how vicious she is.>
+
+Bai Xiaofen lunged, carried by a shimmering stream of shadow. Bai movement arts, Ling Qi had learned, seemed to treat having legs as a handicap to be overcome. Xiao Fen’s offense was fast and unrelenting. She struck with knees, elbows, fists, and feet without discrimination, getting in close and staying close. Even her defensive moves were geared to flow directly into more offense. Her every strike was aimed at some sensitive portion of the body, and her spearhand strikes were made to stab and tear like a beast’s claws.
+
+Of course, while Xiao Fen undoubtedly exceeded her in melee skill, Ling Qi remained far faster than her. Last month, Ling Qi had refined her ability to move without movement and mastered the Stable Crescent Step art. Now, no longer did she need to expend energy flickering from one position to the next and instead wove through Xiao Fen’s merciless assault with minimal movements, leaving a trail of shadowy echoes in her wake that obscured her true movements. With her cultivation advantage, she flowed through the smooth and sweeping motions of the movements her liege had taught her, transforming the momentum of her twirling dodges into powerful blows.
+
+Weathering a series of rapid jabs and blocking a sneaky upward knee, Ling Qi pulsed her qi, driving back the consuming gray flames that tried to catch on her blocking hand. Xiao Fen’s fire arts were very different from Xiulan’s flashy maneuvers. They were low burning and clung tenaciously to anything they touched. All fire devoured, but the fires Xiao Fen made were hungry and consumptive in a way that exceeded that. Ling Qi could already see the way the girl’s arts would evolve from striking at physical frailty to spiritual. She could see the way Xiaofen’s fires would eventually be thrust into an enemy’s channels the way her fingers would drive into the softer parts of an enemy’s flesh.
+
+“What is the news on the Outer mountain?” Ling Qi asked, catching a foot aimed for her jaw and shoving the other girl back with the raw strength of her cultivation. They had already been sparring for a while, so it was time to begin moving on to other business.
+
+Xiao Fen narrowed her eyes as she fell back into a low guard, her shoulders bobbing back and forth like a serpent looking for an opening to bite. “Gan Guangli is maintaining his grip. He has reached the appraisal stage.” Xiao Fen struck without missing a beat, coming in low, her charge zigging and zagging, but Ling Qi saw through the initial feint and brought her free hand up to deflect the leaping elbow strike aimed at her temple. She retaliated with a spinning slash that struck Xiao Fen across the chest, sending out a ripple of qi.
+
+“You’re getting frustrated. Tone down the recklessness,” Ling Qi critiqued.
+
+Xiao Fen let out a very unladylike grunt of acknowledgement as she landed and rose sinuously back into her starting stance. “His position is poor. His enemies are disunited however, and he makes those who attack him directly hurt. He uses my aid liberally in that area. I would be offended by his presumption, but there is a great deal of trash in this Sect that has forgotten its respect. The other factions fear to strike and weaken their position against the others. It is all very barbaric.”
+
+<Pot, meet kettle,> Sixiang muttered.
+
+“The honored duchess has her reasons,” Ling Qi noted blandly. She was quite sure the Argent Peak Sect would be glad to be rid of the Cai’s direct intervention. They were probably going to spend years sorting this all out properly. “Stand down. We’re done for today,” she said, lowering her blade. “What other news?”
+
+Her “student” looked briefly rebellious before relaxing her stance. “Gan Guangli has found a spirit. Its exact nature is hidden, but it seems the immaterial type. I suspect the details will be in the missive for your liege. As to the rest… The spirit kin you showed an interest in broke through. A number of Lu Feng’s subordinates sought to break into her workshop and found themselves facing an irate partial third realm. That one has a satisfactory attitude toward enemies,” Xiao Fen said with a touch of approval.
+
+“What did she do?” Ling Qi asked in morbid interest, letting her saber vanish back into her ring.
+
+“I do not know the details, but they had to be dug out of the mountainside by their compatriots and spent a week in the Medicine Hall,” Xiao Fen replied with a shrug. “Unfortunately, the Golden Fields group is having some fortune as well. The Han scion has reached the green soul realm, although it is rumored that his effort was long and fraught. However, neither of his subordinates have had similar luck.”
+
+Ling Qi had some mixed feelings about that news. Ling Qi, of course, had already known that Han Jian had fully broken through from Xiulan. On the one hand, she was happy for his success, but on the other hand, Gan Guangli did not need more competition.
+
+“And our enemies?” she asked, leaving those thoughts silent. “You mentioned that Lu Feng has reached the third realm. What about that Jin?”
+
+“He appears to be maintaining neutrality. His interest lies toward the production tournament by all accounts,” Xiao Fen said with a frown. “It is a facade, I am sure. It is the way of the Jin to present a friendly face to all while plotting in their hearts. It is to be expected from a house which was handed their position as they were.”
+
+The Jin scion was still a wild card then. That was troublesome.
+
+“Thank you for your work,” she began, only to pause as she sensed another presence approaching. Strange. She had taken them to an out of the way place on purpose… In front of her, Xiao Fen stiffened in alarm. Ling Qi broke into a grin. Sixiang chortled.
+
+“I should return then,” Xiao Fen said stiffly, making to turn away.
+
+“Why don’t I walk with you?” Ling Qi offered cheerfully, appearing at her side in a swirl of shadow.
+
+“That is not necessary, Senior Sister,” Xiao Fen replied, but there was already a note of defeat in her tone.
+
+“Not at all,” Ling Qi said brightly. “But it looks like we have company.”
+
+“Yes,” Xiao Fen sighed.

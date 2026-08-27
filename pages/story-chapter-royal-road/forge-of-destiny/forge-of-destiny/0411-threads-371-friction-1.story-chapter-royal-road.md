@@ -1,0 +1,131 @@
+---
+id: ba17b296-de18-5362-b1cf-94d0575a6aa2
+page-type-slug: story-chapter-royal-road
+title: "Threads 371-Friction 1"
+slug: 0411-threads-371-friction-1
+partOf: forge-of-destiny
+position: 411
+ownLength: 2063
+unit: words
+publishedAt: 2024-03-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1568397/threads-371-friction-1"
+royalRoadId: "1568397"
+---
+
+The day of the new round of negotiations began with an end to the clear weather which had blessed them so far. The skies were dark with clouds, and only wan streams of sunlight showed through. Thunder rumbled distantly, and icy rain pounded the valley and swelled the streams.
+
+The meeting hall itself was, of course, warm, comfortable, and dry. Lanterns, alternating between cages of wrought iron and the paper preferred by the empire, held within them embers of smokeless fire that cast their light throughout the chamber.
+
+"Delegates of the Emerald Seas and the White Sky, we have persevered through disagreement and talk of borders, and we come to a map which all here are satisfied with." Cai Renxiang extended her hands toward the table, and the new, combined map unrolled across it, the work of feverish efforts by both sides’ cartographers. Jagged, winding lines now carved off great chunks of the mountains, leaving only an oblong unclaimed shape in the center in the deepest core of the Wall.
+
+It would be a stretch to say everyone was satisfied. She could see in the expressions and auras of those gathered a desire for more, for this piece or that. At the same time, there was much less grumbling and antipathy than she had feared would occur.
+
+There was also Ilsur, but his expression toward the map was one of resignation, and his gaze rested primarily on the dotted section in the east near the headwaters of the Jing River where it had been agreed to allow White Sky-aligned tribes to roam. He glanced up, met her eyes, and snorted. She moved her gaze on.
+
+Dzintara still frowned intensely at the western edge of the map, but not much more intensely than she frowned at everything. The gap between Sun’s claims and Twisted Pines’ claims was much narrower than in the east, thanks to the tapering and lowering of the mountains, but Ling Qi thought it would hold for now.
+
+"We have our claims and our agreed-upon territories, but it remains to see them governed, connected, and fortified," Cai Renxiang continued. "The matter of establishing routes through the mountains, of where fortifications shall be allowed, the disposition of forces, and the more permanent defense considerations for this embassy and any other shared regions must also be established before we break to discuss the next week’s resolutions among ourselves. To that end, I open the floor to speakers."
+
+"The primary route between our holdings should be established first," said a man, a Bao courtier sitting with Wang Lian. "That will determine the security concerns, as I am sure we may both agree that doing so will decrease any disruption from bad actors."
+
+"I agree. Let there be a limited number of set routes by which traffic approaching our borders is allowed so that strong defense may occur over the rest," Xia Ren interjected. Even now, she stood, a pillar of a gleaming steel.
+
+"The Wang clan looks forward to the challenge of constructing such a road," Wang Lian supported.
+
+"And the White Sky, the challenge of meeting it," Jaromila said diplomatically. "A single primary road will serve as proof of concept."
+
+"Any more would be a hard sell when we do not yet have benefits to show," Rostam agreed. "Well, I like the route following the river in the east. Waterways are always better than dry roads, even if it only goes halfway."
+
+"It is the opinion of the Twisted Pines that due to security threats in the east and a need to ensure the quality and security of objects moving north to south, the western route is better," Dzintara said. "Right now, it would be an unacceptable risk for our workers to be caught up by conflict with this Twelve Stars Confederation."
+
+"There are more conflicts than those alone," Luo Jie disagreed.
+
+"There are," Ling Qi acknowledged. "In any account, the ith-ia will have to be acknowledged during any construction. They have no shame in their assault of mortals, let alone low cultivators. Were your scholars able to turn up more information, Emissary Dzintara?"
+
+"We have collated the new tribes’ tales of the land beyond the gates, the maggot men of Nidallvar and their human thralls," Dzintara replied. "But this is not the place for such academic discussions. The Twisted Pines is willing to offer this later, however."
+
+"It was my understanding that these gates led into the immaterial. What lands could lay beyond the realms of deep liminal?" one of the imperial scholars present wondered aloud.
+
+"What lies beyond is akin to the ocean. There are other lands on far shores," one of the White Sky scholars answered. "Once, long ago, that ocean was shallow enough to cross, and not so filled with daemons."
+
+Ling Qi cast a quelling glance at the imperial scholar. Jaromila did so at hers.
+
+"I look forward to more such sharing," Ling Qi said. "Please excuse my diversion from the topic."
+
+"It is a subject of strategic interest," Xia Lin said. "But it is beyond the scope of this meeting. Our first matter remains. East or west."
+
+"West to begin with. A route may follow this chain of valleys here, winding out from the embassy. This minimizes passage through unclaimed territory and should avoid highly contentious zones within," Ling Qi proposed.
+
+"As much as any route could," Ilsur grumbled. "There will need to be an allowed flightpath if this shared land experiment is to go forward."
+
+"I agree, for all that I do not trust this experiment. Let there be a simple set of approaches allowed," Luo Jie said. "However, the Jing headwaters will require development."
+
+"Of course," Ling Qi said. "A second road may be discussed at the same time as further expansion."
+
+"Ah, what man who travels does not wish for a more direct path." Rostam sighed. "I suppose our pine-dwelling friends may have the first honor though. I expect it will mostly be crows and soldiers using it for some time yet."
+
+"Best to keep an eye on the future," the Bao courtier said brightly.
+
+"The Jia family would prefer a closer route, but if it threads through this central location, then we will accept this."
+
+"I have no objections to this," Jaromila said. "It is away from the likely vectors of attack from the Twelve Stars."
+
+"Then let the road be in the west. We will begin the land surveys when this summit is done," Wang Lian declared.
+
+"If you would, Lady Wang,” Meng Deming interjected smoothly, “my kin wish to send a few experts to avoid the severe disruptions which have occurred at the present location."
+
+"Our methods work well enough." Wang Lian then allowed, "But we will accept advisors, provided the supply lines can flow through the fens."
+
+"This is an internal matter, which I will be happy to mediate if you wish,” Cai Renxiang concluded. “With the route decided, we move now to the subject of military deployments into the unclaimed region."
+
+Jaromila replied, "It would be preferred by the White Sky if deployments were made only along the agreed-upon routes when not within our claimed territories. This avoids antagonizing neutral tribes which may still be convinced to take up better offers."
+
+"There must be some provision for pursuing those who strike over the border and flee back," Luo Jie retorted. "As is ever the cloud men's way."
+
+"And we would prefer that the lowlanders not decide that every hunter, scouting flight, and child flying their first kite not be considered a target of reprisal!" Ilsur snapped back.
+
+"Ah, have your tribes in the south begun a policy of not burning mortal farms and infrastructure without restraint?" one of the imperial courtiers asked snidely.
+
+“There is no solution to be found there.” Wang Lian snorted. “Not right now. So, let us build our defenses and crush anything that passes them and be done with it. There is no reason to galavant off into adventures in the mountains.”
+
+"I must say, if you all are going to be having, ah, adventures, we would much appreciate not being surprised by them, yes?" Rostam glanced nervously at Xia Ren.
+
+Ling Qi held back a grimace.
+
+"I think it is important that neither of our peoples unduly alarm each other with large troop movements or deployment of sovereign cultivators into the unclaimed zone," Ling Qi stated. She knew her own people were the ones mostly likely to take advantage of this allowance, if only because the imperial high cultivators were far more mobile than the White Sky’s. "While a corridor for the road will need to be established, if we are truly concerned only by seeing off raids, then anything over the company-size and realm allowance is excessive and provocative."
+
+"You would have us risk our men so when a tribe could lure them out and hammer our men with barbarian high realms?" one of the imperial courtiers asked indignantly.
+
+Wang Lian scoffed. "With the land we have claimed, raids will come from inside our own borders for centuries to come. I agree with the baroness. Better that we cut off the excuses of hotheads who want to overextend further."
+
+"Regardless, limiting our strategic options so…"
+
+Bickering erupted across their side of the table.
+
+Xia Ren examined Ling Qi, and Ling Qi maintained her gaze, refusing to flinch even as sweat rolled down the back of her neck.
+
+"Lady Wang is correct. It will be a very long time before any true settlement is in the raiding range of our border. When that changes, this point can be renegotiated," Ling Qi said. "Would the White Sky agree with that notion?"
+
+"On principle,” Jaromila said thoughtfully, “the White Sky supports the notion of some terms being discussed again and at regular intervals with the notion that there should be clear rules regarding troop movements approaching borders. I am certain that your folk would not appreciate a legion or marcher fortress suddenly appearing some hundred kilometers past our own agreed-upon borders. If there is to be trust, it must go both ways. A company is… one hundred women?"
+
+"One hundred to two hundred and fifty," Cao Chu answered. He had remained silent today until now. "Under official imperial regulation. This allows for local strategic customization. A company is to be headed by a cultivator of no more than fourth realm, according to the decrees of Emperor Xian in the military standardization reforms of the second dynasty."
+
+"Insufficient against a true force." Xia Ren said shortly.
+
+"Nomad raids do not typically include high realms. If the tribes are massing for war, I am certain that exceptions will be made," Cai Renxiang said firmly.
+
+Warily, Dzintara said, "We would ask to be informed rapidly of such movements, which we would seek to corroborate.  But of course we know there is a war brewing in the east."
+
+"There is," Ilsur said grudgingly. "The Twelve Sky have hidden themselves, but the man who leads them will not concede the mountains without battle."
+
+"You would be more knowledgeable," Cao Chun allowed. "Here, I raise a concern. We have heard of a great construction, out of character for your kind. A "Sky Palace.' What is this?"
+
+"Sir,” Ling Qi protested. “Is this—?"
+
+"Baroness, if that great sledge they have wrought is any indication, this matter is absolutely one of security. It is of the tribes. Therefore, it is being built in the mountains. Correct?"
+
+Jaromila lowered her head in acknowledgement. "Sky Palace Koliada is likely to remain in our claims on the northern mountains even after the activation. Ilsur, if you would?"
+
+The cloud tribesman's nostrils flared, his mustache fluttering, but he settled himself. "My father, the great khan of the south, has studied the ways of the Polar Nation. He has aligned himself with the way of a great rune witch of the White Sky, who he has married. Sky Palace Koliada shall be the first city of our people, built by our hands, animated and given flight by the twinned spirits of he and his new wife. In it, we will wander as our people do, but no more be wholly dependent on natural graze nor unable to build as others do. For this, my wise father sacrifices his chance to become a Sky, an ascendant of our people."
+
+There was silence in the hall as he finished that pronouncement.

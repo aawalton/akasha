@@ -1,0 +1,193 @@
+---
+id: d20a78f7-d782-5df2-aeaf-f0f65e6c1ebb
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 6"
+slug: 0014-threads-chapter-6
+partOf: forge-of-destiny
+position: 14
+ownLength: 3300
+unit: words
+publishedAt: 2020-11-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/579955/threads-chapter-6"
+royalRoadId: "579955"
+---
+
+Ling Qi played, and Ling Qi listened.
+
+The song was, to her, nothing spectacular. It was one of the many pieces she had composed with Sixiang’s advice over the past month during the idle hours in the early morning when the stellar and moon qi had grown thin but the day’s lessons had not yet begun.
+
+<You’re welcome,> Sixiang whispered.
+
+Ling Qi restrained herself from rolling her eyes as her fingers danced along the length of her flute. She thought the song, which was filled with the feelings of looking out over the mist-drenched mountains and the lowlands of the Sect’s nearby surroundings, had turned out well. Not cheerful, perhaps, but she thought she had managed to work in the faint wonder at the sight fairly well.
+
+<It suits you. A song doesn’t have to be peppy to be cheerful,> Sixiang murmured, humming along in her head.
+
+Ling Qi agreed. This was a nice compromise between her and Sixiang’s styles. It was still a simple piece though, so she did not need her full attention to play its notes. Instead, she fulfilled the second part of her job.
+
+While she was far from a master spy, and most of the guests were too well trained in basic caution to let anything truly important slip, there was still plenty of small talk and gossip to be had. She heard who was closed door cultivating, who was rumored to have had good fortune, and who was working on a new technique. While those nuggets of information on her fellow disciples held some passing interest to her, it was the more social rumors she paid more attention to at Cai Renxiang’s request. She learned who was friends with who, who was feuding, and other such frippery.
+
+She would be glad when this gala was over so that she could write it all down. However, amidst all the idle noise of a noble gathering, there was one thread of information that she found most intriguing.
+
+Sun Liling was no longer the heir of the Sun family.
+
+The position had been given over to one of her great-uncles, or so rumor had it. Word was fuzzy on the new heir’s exact relation. The official word was that this was so Sun Liling could focus upon her cultivation without the weight of the position as heir distracting her. Ling Qi wondered what the actual situation was, but she could hardly follow up on it here nor were the disciples likely to have any insider insight on the matter. Still, the disciples were abuzz discussing the rumor, even if it was all useless speculation.
+
+Soon, her current piece came to an end, and Ling Qi stood, offering a bow to the gathered disciples to the sound of scattered, polite applause. As she raised her head, she met the eyes of the performer who would be taking her turn next, giving Ling Qi a chance to have a breather and mingle a bit.
+
+“Senior Sister Bian,” she greeted the girl who had once tutored her.
+
+“A lovely performance, Junior Sister Ling,” the pretty, older girl replied, her smile hidden behind her veil. The Bian oversaw the rolling fertile hills formed by the capital city’s roots and were a direct vassal clan to the Cai. As such, she had aligned herself firmly with Cai Renxiang. “Will you allow me the stage for a time?”
+
+“Of course, Senior Sister,” Ling Qi replied with a smile that wasn’t wholly false. The girl was nice enough when it came down to it, even if she didn’t know her very well.
+
+Stepping down from the raised stage, Ling Qi wove her way into the crowd as the older girl’s rich voice began to ring out. Bian Ya was doing a series of poetry readings, if Ling Qi remembered the plan for the evening correctly.
+
+<And you aren’t even going to listen,> Sixiang huffed. <Language has its beauty too, you know?>
+
+<Maybe so, but that’s more your thing. Anyway, you can recite it back to me later, right?> Ling Qi thought, earning a jab of playful irritation from the muse in her thoughts before the spirit’s attention shifted away. She turned her attention to the refreshments, interested in getting something to drink before seeking out some company to unwind. She still had another performance to give later in the evening.
+
+As she approached the refreshments table on the far side of the room however, she found her path blocked. Well, perhaps it was inaccurate to say blocked, more like the path was impeded. Ling Qi was growing used to this tactic being used on her when a noble wished to ensure a conversation with her. She would have to rudely brush past to ignore the young man in front of her, which, of course, she could not do. So, she slowed her pace as she approached, just like a proper lady.
+
+“Junior Sister Ling,” the young man greeted with a mild dip of his shaved head. “A fine performance indeed. You shame musicians years your elder.”
+
+Ling Qi searched her memory for his face. Middling height, fairly handsome, expensive green robes embroidered with plant imagery, and eyes that reminded her of… That was it. A peek at his aura, a still lake underlaid with a faint poisonous scent, confirmed it.
+
+“Senior Brother Wen,” she greeted back, bowing her head a bit lower than he had, as was appropriate since Wen was both her senior and a count scion. “You are too kind.”
+
+Ling Qi only vaguely recalled her previous conversation with him. Wen Cao, an older brother of Wen Ai, had been one of the well wishers at the ceremony following the tournament. It had been nothing but pleasantries and hadn’t stood out to her then, except for the fact that he was related to someone she didn’t much care for.
+
+“And you are too modest, Junior Sister,” he said, turning and moving from her path. It allowed them both to proceed toward the refreshments. He had a smooth sort of voice, the kind that old instincts made her instinctively distrust. “How have you found the Inner Sect so far?”
+
+“I will accept Senior Brother’s praise then,” she replied evenly, pulling on her experience with Meizhen’s demeanor. The aloofness was much easier for her to pull off than Gu Xiulan’s style of chatting. “I have enjoyed the Inner Sect so far. It seems a much more stable environment than the Outer Sect.”
+
+“The Outer Sect is somewhat uncivilized, isn’t it?” Wen Cao mused as they reached the table. “Such is tradition though. It does do its job of weeding out the unready.”
+
+Ling Qi nodded agreeably as she accepted a cup from the server, one of the Sect staff made available for this kind of event. She restrained a grimace at the scent; it was some kind of fruity drink. She vaguely recalled Cai Renxiang mentioning that this particular drink was popular in Celestial Peaks. A sip confirmed her thoughts. Too sweet.
+
+“I expect the Inner Sect will grow more exciting once challenges resume,” she said politely. “Does Senior Brother Wen have any advice in that regard?” She still had no idea what he wanted. The Wen’s land sat across a major southern pass in Ebon Rivers, so maybe he was just doing the standard tactic of buttering up Cai Renxiang through her subordinates.
+
+“Challenges are an interesting mechanism,” the Wen scion replied, weighing his own cup in his hand. “Given the unusual talent of your graduating class, you are somewhat more secure than the usual newcomers. I would suggest accepting the first few challenges which come your way. Proving your mettle will reduce frivolous attempts.”
+
+“I will keep your advice in mind, Senior Brother,” she said.
+
+He gave a shallow nod, looking back into the crowd. “Have you kept an eye on Junior Brother Yan, Junior Sister?”
+
+Ling Qi blinked at the seeming non-sequitur. She had taken a glance or two his way over the month, but Yan Renshu seemed like an outright shut-in. She suspected the disciple was still rebuilding that “face” puppet of his that had been destroyed in the raid she had participated in with Cai Renxiang and Gan Guangli.
+
+“I had hoped that the grudge between us was laid to rest. He has not made to cause any trouble with me,” she answered.
+
+Wen Cao hummed. “How merciful of you, Junior Sister. Appropriate for a retainer of the Cai.” Ling Qi controlled her urge to narrow her eyes; she felt like he was subtly taking a jab at her. “I would warn you, however, that Junior Brother Yan is a petty and vindictive man, as I am sure you know. I implore you to keep an eye upon him.”
+
+This conversation was very strange. Why would a count scion, seemingly praised for his genius at cultivation, focus so much on a random incoming disciple? They weren’t even competing in the same arena; Wen was no crafter. A fragment of a memory came to her. Hadn’t Fu Xiang mentioned that Yan Renshu had been ruined his first year for offending a scion of the Wen?
+
+“Senior Brother’s concern is welcome. I will, of course, remain cautious. Bai Meizhen did teach me something of how enemies are to be treated,” she said coolly.
+
+“Is that so?” Wen Cao asked with a charming smile. “Then there is little to worry about. If you require advice on the matter, do seek me out. I would be glad to aid a retainer of the Cai.”
+
+“Junior Sister Ling thanks Senior Brother Wen for the offer,” she replied.
+
+“I am glad,” he said, giving a brief bow. “If you will excuse me then, Junior Sister Ling.” Wen Cao moved off into the crowd after she had murmured the proper pleasantry back
+
+Ling Qi looked into the crowd. Hah, she had gotten through that without coaching from Sixiang. She was learning. Still, she would rather find someone more familiar to talk to before she got roped into another polite back and forth.
+
+Scanning the crowd, she glimpsed Gu Xiulan chatting with a rather cornered-looking Shen Hu near the rear wall of the great cloth pavilion the party was taking place in. The scruffy boy had cleaned up somewhat, Ling Qi noted as she began to weave through the crowd to reach them. His tangled, twig-strewn hair looked like it had recently had a comb pulled through it, and the great majority was tied back behind his head with a ribbon. He also seemed to have acquired a shirt somewhere, unfortunately.
+
+She didn’t pay much more attention to the boy’s simple brown and green clothing because Xiulan drew her attention more. Her friend had another new gown of course, but there was a surprising, notable shift in the gown’s color scheme. Xiulan’s old red and gold favorites remained at the hems and in the embroidery, but she seemed to have chosen a garment with electric blue and white for today’s outing.
+
+From the back, Ling Qi could also see that Xiulan wasn’t wearing her veil. Unsure of what to think, Ling Qi peered beneath the veil of the physical, only to nearly flinch. Xiulan blazed like the noonday sun, a blinding core of blue-white heat beyond any simple fire shining in her senses, but all the same, it seemed less wild and more contained than last she had seen the girl. Ling Qi grinned as she let the vision fade. Her friend had fully broken through into the third realm.
+
+“Xiulan!” Ling Qi called as she approached. “I am so glad you could make it!”
+
+Ling Qi didn’t miss the look of relief Shen Hu gave her as Xiulan turned around. Here, too, was another surprise. The ugly black scars which had lined XIulan’s face had.. changed. The marks had faded to a pale blue shade that only stood out lightly from her pale skin, smoothing out and gaining a patterned look. At a first glance, they were barely visible, but upon a second examination, it seemed almost like the lines of a fearsome war paint.
+
+“Ling Qi,” her friend greeted, preening under the attention. The confident smirk that Xiulan had worn in their early interactions was now back after a long absence. “I see you have finally come to an accord with Lady Cai on your role in this sort of thing.”
+
+“It was my lady’s suggestion,” Ling Qi replied with a grin of her own. It felt good to see Xiulan without the edge of desperation which had colored the last few months before the New Year’s Tournament to enter the Inner Sect. “But I enjoyed the results. What did you think, Shen Hu?” she asked, not wanting to be rude by shutting him out from the conversation.
+
+“It was a pretty song,” the boy said with an agreeable nod. “It really made me want to explore those mountains too.”
+
+Xiulan blinked, glancing back at him with a raised eyebrow. “Oh? What do you mean, Sect Brother?”
+
+He looked back with confusion and a hint of wariness. “... The song. It was about the mountains south of here, wasn’t it?”
+
+“It was,” Ling Qi agreed, surprised. Her music was an expression of thoughts and feelings, but she was still surprised that Shen Hu had been paying enough attention to actually read her intent beneath the trappings of physical sound. “I’m flattered that you were paying such close attention.”
+
+Gu Xiulan let out an amused laugh. “Hmph, is that why you were so distracted from our conversation, Sect Brother Shen?” she asked sweetly. “Entranced by my friend's song?”
+
+Ling Qi’s eyes met Shen Hu’s over the shorter girl’s head, and she saw the recognition there. Good. He knew a trap when he heard it.
+
+“It was good,” Shen Hu said honestly. “I just didn’t know what to say about your match, Sect Sister.”
+
+“What were you two talking about?” Ling Qi asked, deciding to intervene before Xiulan could needle him further. “I didn’t think you two knew each other.”
+
+“Oh, I was only curious,” Xiulan replied, giving her an amused look that told Ling Qi that she was fully aware of the byplay. “We were speaking of the tournament, and I was interested as to his presence at this party. This hardly seems like your kind of venue, Sect Brother.”
+
+Shen Hu glanced away, scratching at his collar uncomfortably. “Well, Grandad was a woodsman before Dad got the title to our village. So, I’m not sure how a lot of this goes. Aren’t I supposed to make nice with the boss’ daughter and show up when I get invited?”
+
+Gu Xiulan let out a musical laugh, and Ling Qi gave her a quelling look. “I mentioned you to Lady Cai,” Ling Qi explained. “You said your family’s land was in Emerald Seas, right?”
+
+“Oh, uh, thank you.” Shen Hu bobbed his head awkwardly but respectfully.
+
+... Ling Qi felt like her expectations for what new baronial clans should be like had been skewed.
+
+“How kind of you, Qi,” Xiulan said slyly. “Why-”
+
+“So, since you’ve broken through, what are your plans going forward, Xiulan?” LIng Qi overrode her before the girl could start teasing, earning an irritated huff.
+
+“My first goal is to challenge for a more appropriate rank as soon as we’re allowed to issue them,” Xiulan announced without shame, earning her more than one look from those nearby. “Without my handicap, my current one is far too low. What of you?”
+
+Ling Qi studiously did not look at the withered arm Gu Xiulan held close to her side, wrapped in crimson linen and smelling faintly of smoke through her perfume. “I am not certain yet. I’ve received my pass to train with my mentor on the Outer Sect Mountain, so I think I’ll spend some time with her,” Ling Qi answered.
+
+Although the cultivation sites which she had trained at during her time in the Outer Sect were, by Sect regulation, unavailable to her, Zeqing had apparently agreed to train Ling Qi at her home on the mountain peak, the Origin Temple of Winter’s Muse.
+
+“You have a mentor in the Outer Sect? How does that work?” Shen Hu asked, sounding befuddled.
+
+“She’s not a disciple. She’s the spirit that lives at the mountain peak,” Ling Qi explained.
+
+Shen Hu blinked. Then, his eyes widened in recognition. “Oh, wow. No wonder that song you used on me in the preliminaries sounded familiar.”
+
+“Yes, Qi certainly knows how to acquire… exotic resources,” Xiulan said, only a tiny edge of jealousy reaching her voice. “What of you, Sect Brother? Your plans?”
+
+“Hmm. I’d like to explore, but I need to find people to fight if I am going to polish my arts,” he answered bluntly. “I got rusty fighting nothing but beasts last year.”
+
+“I wouldn’t mind sparring with you, if you recall my offer,” Ling Qi reminded him, earning a smirk from Xiulan. “But I haven’t filed for permission yet.”
+
+“Ah, right. We have to do that in the Inner Sect.” He grimaced. “It’s a pain, but if we have to.”
+
+“You’ve gotten bold,” Xiulan sighed, looking at Ling Qi. “They grow up so fast.”
+
+Ling Qi rolled her eyes. She hadn’t been that bad.
+
+<Reaaaaaally now?> Sixiang drawled.
+
+<Don’t you have poetry to listen to?> Ling Qi thought irritably, giving the spirit a mental swat. The last thing she needed was to get teased both externally and internally. Not letting her annoyance reach her face, Ling Qi gave Gu Xiulan a challenging look.
+
+“Don’t feel left out, Xiulan. I’ve made sure to ask for permission to spar with you too,” she said sweetly, meeting the other girls gaze head-on.
+
+“How forward!” Xiulan laughed, masking the sound behind her frilly sleeve. Xiulan really could pull off that high class laugh in a way that Ling Qi couldn’t. “I shall look forward to the challenge - if you believe you are up to it. Perhaps I might even join the two of you!”
+
+Shen Hu was looking vaguely worried again, like a hunter observing a pair of dangerous beasts. “... Well, thanks, Sect Sister Ling,” he said awkwardly. “I should probably, uh, go meet more people though. See you later?”
+
+“Yes, later.” Ling Qi sighed, ducking her head respectfully as the boy practically darted away into the crowd. She turned a gimlet eye back to XIulan then. “You went and scared him off,” she accused.
+
+“Oh, I can tell his type, A taciturn warrior, his mind wholly focused upon the tides of battle,” she said with a smirk. “And weak to a mere flutter of eyelashes. Shy even, one could say. Best to break him of it. Quickly.”
+
+“You just like watching people squirm,” Ling Qi said dryly. She took another sip of her all-but-forgotten cup and restrained another grimace at the sweetness of the orange liquid.
+
+“There is nothing wrong in taking enjoyment out of favors done,” Xiulan replied with a sniff.
+
+Ling Qi rolled her eyes, but now that they were left alone, she let her expression grow more serious. “Xiulan, are you doing well?” she asked in a low voice.
+
+Her friend’s eyes flashed with affronted pride, but it faded quickly. “I am,” she replied bluntly. “My path is clear once again.”
+
+“I’m glad,” Ling Qi replied. “Do you-”
+
+<Time to get back to the stage,> Sixiang whispered. <Break’s over.>
+
+Gu Xiulan followed her gaze to the stage and gestured dismissively. “Be off with you then. This is your glory, is it not?”
+
+“I wouldn’t quite put it like that,” Ling Qi said dryly. “Tomorrow, Xiulan?”
+
+“I will look forward to it, Qi,” her friend replied. Ling Qi offered a shallow bow of gratitude and turned away.
+
+There was a performance to finish.

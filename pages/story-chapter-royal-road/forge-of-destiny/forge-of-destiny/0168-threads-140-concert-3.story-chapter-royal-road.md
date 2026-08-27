@@ -1,0 +1,133 @@
+---
+id: 19621e5b-3223-5f80-9308-15c09e2cb030
+page-type-slug: story-chapter-royal-road
+title: "Threads 140 Concert 3"
+slug: 0168-threads-140-concert-3
+partOf: forge-of-destiny
+position: 168
+ownLength: 2341
+unit: words
+publishedAt: 2021-10-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/764294/threads-140-concert-3"
+royalRoadId: "764294"
+---
+
+The area set for guests below the stage was an open floor with a high ceiling surrounded by balconies where more people could stand or sit as they liked. Staff carrying trays with refreshments moved quietly to and fro, providing for the guests. Given the size of the hall, the number of people attending did seem kind of small to Ling Qi. There were, at her count, less than fifty people, not including staff and bodyguards or personal servants.
+
+She saw Bai Meizhen, seated in one of the front rows with her hands held patiently in her lap. A handful of brave, if nervous-looking, young men and women seemed to be trying to engage her in conversation. Bao Qingling stood on one of the balconies above, leaning on the railing, putting off an unapproachable air.
+
+They might have arrived together, but it looked like they were avoiding being too obvious away from the Sect. Ling Qi felt a pang of annoyance on Meizhen’s behalf, but that was just how things were.
+
+Continuing to scan the crowd, Ling Qi heard Wang Chao’s braying laugh. At least he was having fun boasting about his military assignments to a gaggle of lesser nobles. Her lips quirked up when she heard him throwing in a comment praising her as well. Wang Chao was really unsubtle, but he was honest in his intentions at least.
+
+However, Ling Qi soon found what she was searching for. Seated in the rearmost of the seating against the back wall was an older woman whose bearing and aura stood out from the young baronial scions milling about. Meng Diu wore a many layered gown of pale green and blue silk, which left not an inch of skin below her chin uncovered. Wide, billowing sleeves embroidered with falling leaves that danced animatedly across the fabric concealed her hands, and whorls of stylized water currents shifted and flowed across the lower hems.
+
+Meng Diu’s face looked much the same as it had in her visit to the court of Xiangmen. She wore heavy, stylized makeup that left her face nearly ghost white with a spot of crimson color on her lips and darker colors around her eyes. Her honey-brown hair was done up in an elaborate bun and looping braids that framed her face.
+
+Every time one of the other guests looked her way, their attention seemed to slide off of her. She tilted her head, meeting Ling Qi’s eyes.
+
+<See what I mean?> Sixiang remarked.
+
+Ling Qi hummed in agreement, and murmuring a short farewell to Bao Qian as they split up, she began to work her way over toward the rear of the room. She smiled and greeted guests as she went, trying to remain welcoming while still advancing. Thankfully, she had gotten better at this because no one seemed offended when she left them behind.
+
+She had her suspicions about one particularly chatty boy whose eyes had seemed to go a little glassy before he excused himself. As she approached the rear of the room however, the interruptions lessened until at last no one seemed to notice her anymore.
+
+“Lady Meng.” Ling Qi stopped a respectful distance away and offered a formal bow, hands clasped in front of her chest. “I am honored that one such as you would choose to attend this small performance.”
+
+“It is an unusual event,” Meng Diu replied, studying her. It was hard for Ling Qi to make out her eyes or expression. To her consternation, there seemed to be an odd, blurry filter over her eyes. “Not many cultivators would see their honored companions perform for human amusement, even in these days.”
+
+Ah, there was the first thrust.
+
+“I am afraid that Hanyi was insistent,” Ling Qi said, not raising her head. “Due to her lineage, she is more human of mind than most. She wished to earn an allowance without straining this humble baroness’ limited funds.”
+
+“Oh?” asked Meng Diu. Up close, Ling Qi noticed there was a faint melody in the air which spoke of autumn evenings and the song of crickets in the woodlands. “Unusual indeed. Do you intend to allow your spirit their own income? Many would look down upon you for this.”
+
+“While I will check her expenses, which is my duty as her elder sister under my former teacher, Hanyi’s earnings will be her own,” Ling Qi said evenly. On matters of family, she had no intention of bending.
+
+Meng Diu hummed noncommittally. “Sit, young lady. I’ll not strain my neck looking up at you.”
+
+Ling Qi blinked. The older woman’s presence was large, a warm, buzzing hum that seemed to hang oppressively over them, but she only now realized that Meng Diu was not much taller than Li Suyin. “Of course. Thank you, Lady Meng.” Taking her seat beside Meng Diu, Ling Qi considered her next words. “If I may, Lady Meng, what are your thoughts on recent events?”
+
+“Concern,” Meng Diu replied brusquely. Ling Qi couldn’t tell if Lady Meng was turning her head to look at her or not. “Many matters are moving quickly. When matters move quickly, many lives are lost, one way or the other.”
+
+Ling Qi took a moment to digest that, drumming her fingers nervously on the arm rests. “Unfortunately, I believe the pacing may be out of our hands,” she said carefully.
+
+“The wheel turns ever on,” Lady Meng said, and Ling Qi thought that was an agreement. Sixiang agreed with her assessment, which gave her some comfort. “Yet, all the same, I find some agreement with my brother. Certain elements are accelerating that turning.”
+
+This time, Ling Qi was able to follow her gaze across the room to where Meizhen sat, chatting with a girl who seemed to have gotten over her aura.
+
+Ling Qi was quiet for some time, composing a reply in her head with the help of Sixiang. “Bai Meizhen has, in my short time, ever been an ally. While I cannot speak for the past, I believe that the Bai are in their own way seeking to move forward. While there will be troubles, I am sure the alliance is in the interest of Emerald Seas.”
+
+“I am certain you do.” Meng Diu’s gaze remained fixed upon Meizhen. “Yet, individuals aside, you know little of the Bai clan, I suspect.”
+
+“I lack experience,” Ling Qi replied humbly. If nothing else, perhaps she could understand more the source of conflict. “Would Lady Meng care to share an insight?”
+
+“A small anecdote, perhaps,” Meng Diu mused. “During the rampage of Ogodei, my grandfather reached out to the Bai in desperation, seeking to evacuate mortals and common cultivators from the flooding and raids. Our reply was silence.”
+
+Ling Qi waited for Meng Diu to continue.
+
+“Matters grew worse. The flooding from the storms drove the spirits of the fens mad,” Meng Diu said. “My uncle was sent north to beg for aid. There was none. The war worsened further. Our armies were confined to the cities, lest the barbarians slip behind our lines to sack them. People fled north. At the borders of the Thousand Lakes, they were greeted with spear points and bolts. The Bai slew any who dared pass the boundaries, no matter how desperate their plight. After the rampage, they demanded reparations for the trespass.”
+
+Ling Qi nodded faintly. “That is cruel.”
+
+“I am not unobjective,” Meng Diu said contemplatively. “It was at least partly a matter of politics. The Hui were vehement about their sovereignty and would have used their connections to the Imperial Court to cause troubles if the Bai had sent us aid. Yet the Bai are mighty, are they not? Certainly, they were in those days before the rise of Sun Shao, but they were also arrogant and apathetic to our plight. When the situation was reversed and the folk of the Lakes flooded south from undefended settlements after the exodus, the Bai threatened us for the return of their people, and the Hui ordered the border closed.” She sneered. “Ten thousand years of this, and I am to believe that they have changed now?”
+
+<Oh, Moons. Not exactly an easy sell, huh?> Sixiang winced.
+
+Ling Qi took another long moment to organize her thoughts. “I can’t speak for past events, but I think the damage wrought on the Bai clan recently is without precedent. Their eldest and most powerful were slain in one terrible blow, and their power gutted. If there were to be any catalyst for change, would it not be that?”
+
+Ling Qi wasn’t entirely ignorant. She wasn’t privy to the highest level of politics, but even she had picked up that the recent opening of the Thousand Lakes was, if not unprecedented, at least highly unusual.
+
+“A fair point,” Meng Diu allowed, surprising her. “And there is prosperity to be found in trade, even if the Lakes return to form at a later date. But I am not unsympathetic to my kin, who remain wary of any opening. It is not only the Bai whom we fear.”
+
+“Thank you for your explanation, Lady Meng.” Ling Qi wasn’t sure what to do with it yet, but more knowledge was better than none. “I hope you will not take offense if I say that I hope my lady and her mother prove your fears incorrect.”
+
+Meng Diu let out a dry laugh. “Indeed, young lady. There is a reason we are speaking. You are an interesting one. You are small yet, but some few are beginning to notice you.”
+
+“I am flattered,” Ling Qi said warily. Worried. The actual word was “worried.”
+
+Meng Diu let out a harrumph. It was clear what Meng Diu thought of her substitution. “I have an offer to make you.”
+
+“I would be honored to hear it.”
+
+“I wish to have further investment in the young heiress,” Meng Diu said bluntly. “I want to send one of my grandsons along on this expedition the Duchess has mandated. The Duchess has said that it is a matter of the heiress’ choice. So I ask you to convince her. Given the chance, I believe that he will prove himself capable in the circle of retainers she is building.”
+
+Ling Qi’s eyes widened.
+
+If she spoke for it, Ling Qi knew Cai Renxiang would accept the deal. Normally, she might be able to influence her liege’s thoughts one way or the other, but right now, she was in a unique position. She was the one with the invitation. Others might be able to better parley with these foreigners, but she was the only one who could even open a dialogue. If she declined this and spoke to Cai Renxiang about not wanting to endanger the main task, she thought the heiress would listen.
+
+But this was an opportunity. The Meng were notoriously closed off, much like the Bai had been. A chance to begin a good relationship with one of their main family was not to be scoffed at. Perhaps there was some additional motive as well, but Ling Qi did not believe that outright sabotage was on the table.
+
+“I will speak in favor of your offer, Lady Meng, although Lady Cai must have final say.”
+
+“Of course,” Meng Diu agreed, dipping her head in acknowledgement.
+
+“If I may,” Ling Qi began carefully, “may I know something of your grandson, so that I may speak more clearly in my recommendation?”
+
+“Meng Dan is a scholar,” Meng Diu answered, turning her gaze back to the rest of the guests. “He attends the Blue Mountain Sect, and he follows the Way of the Hidden with more singularity than yourself.”
+
+Sixiang chuckled in her head, and Ling Qi coughed uncomfortably. She didn’t think Meng Diu was speaking directly against her scattered focus, but still. “I see. You believe his knowledge will be useful then?”
+
+“That child has always been focused on the past to his detriment at times,” Meng Diu said. “However, his mind is sharp, and his ability to collate and analyze large amounts of information into useful form is exceptional.”
+
+<Given your arguments for doing this, that does seem useful,> Sixiang thought. <You’re probably gonna be asked to go over every word and gesture she made with a fine-toothed comb when you report in.>
+
+“Thank you very much, Lady Meng.”
+
+Again, Meng Diu gave a shallow nod. “Indeed. You may take your leave now, Baroness. The performance will begin soon, and I am certain that you would rather be in the company of your peers.”
+
+“I would not reject Lady Meng’s company,” Ling Qi said, standing and giving a polite bow. “But I will thank you for releasing me to see to my other guests.”
+
+The older woman dismissed her with a wave of her sleeve. “Go. We may have more to speak of in the future.”
+
+One more bow, and then, Ling Qi turned to leave, not letting out the sigh of relief that wanted to escape out into the world. Leaving the range of Meng Diu’s domain, she was soon greeting guests again for a short time before she took a conspicuously empty seat next to Meizhen.
+
+“You are well?” her friend asked evenly. She didn’t turn her head from the stage as the lanterns arrayed around the room began to dim, signalling that the performance was nigh.
+
+“Yes, just some negotiations.” Ling Qi leaned back in her seat as she mentally prodded Zhengui to wakefulness. “I’ll tell you about it later.”
+
+Meizhen glanced her way, raising an eyebrow, but made no more of it.
+
+The curtain on the stage rose. If Ling Qi wasn’t intimately familiar with Hanyi’s aura, she might not have recognized the winter spirit. Hanyi’s hair was done up and threaded through with pale white flowers, and somehow, between the lighting and the cosmetics, her deathly pallor looked ethereal instead. As the curtains rose, Hanyi stepped forward, her hands clasped together, and began to sing.
+
+Ling Qi breathed out, and let the melody wash over her and carry her away.

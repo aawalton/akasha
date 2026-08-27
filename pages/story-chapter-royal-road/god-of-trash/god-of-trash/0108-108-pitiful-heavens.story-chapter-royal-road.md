@@ -1,0 +1,85 @@
+---
+id: a86934d1-da6e-5558-9434-2178f5b31c0e
+page-type-slug: story-chapter-royal-road
+title: "108. Pitiful Heavens"
+slug: 0108-108-pitiful-heavens
+partOf: god-of-trash
+position: 108
+ownLength: 1523
+unit: words
+publishedAt: 2025-06-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2377356/108-pitiful-heavens"
+royalRoadId: "2377356"
+---
+
+Rhys charged directly at the Warden, drawing his sword as he closed in. The Warden whirled his sword. The two of them clashed. The Warden parried his strike and instantly forced him back, his strength overwhelming Rhys’s easily. Rhys hopped back, meaning to get some distance, but the other mages were behind him, and if the Warden got past him, the newly-raised Tier 1s stood no chance, let alone the mages still without cores. The Warden gripped his black blade in both hands and struck down at him, and he had nowhere to go.
+
+His core had been taken, but not the clumps of impurity that circled it. Why would they be taken? They were filth, not worthy of an Empress’s eye. But to Rhys, they were the highest grade of trashure.
+
+In all the energy he’d drawn from the guards, he’d drawn plenty of curse energy. It was something to contemplate for later, but for now, the most important thing was that he had curse energy, and he was far from afraid to use it.
+
+The curse energy met one of the clumps of impurities, and two skeletal hands rose out of the ground to encapsulate Rhys. The Warden’s blade hammered into the bone, cutting a deep mark in the bone, but failing to shatter it. With the strike arrested, Rhys dropped the curse and closed in, darting under the Warden’s raised arms to thrust at his stomach.
+
+The Warden dashed back, almost too fast for Rhys to follow. He raised his brows, lowering his blade to give Rhys a serious look. “Not only have you recovered your magehood somehow, but you also wield spells I’ve never seen before. Tell me, have you ever considered working for the Empress?”
+
+“I considered it, sure, and I considered it right into the trash where it belongs. The Empress can get fucked,” Rhys replied adamantly. His stance on the Empire hadn’t weakened, for being confined in its mines. Rather, he opposed them even more strongly now that he saw the filth the Empress allowed under her reign.
+
+“A pity.” The Warden’s eyes hardened, and he slashed his blade. A hyper-pressurized blade of water leaped out and closed in on Rhys, hurtling through the air with the speed to cut diamond. Rhys had no option but to dodge, but the Warden knew that. He was there before Rhys landed and slashed sideways. Rhys jumped sideways, activating Blow Mitigation with all his might, and the hit still sent him rolling over the ground. Blood spilled over his side, soaking into his robes, and a deep gash cut into his side. With a moment, he could close it forcibly, but not with the Warden breathing down his neck. The man chased after him, closing the gap between them in a heartbeat.
+
+Rhys rolled over, moving with shocking speed and agility even to himself. The Warden’s sword struck into the ground, throwing up dust, but it missed Rhys, who rolled right into the center of the depowered mages. The Warden stared after him, confused, and Rhys stared back, with no answers to give.
+
+Trash Step 9 > 11
+
+Rhys raised his brows. Huh, could it be? Trash Step doesn’t just work on trashy ground conditions, but also on trashy movement techniques like rolling around or… I don’t know, hitting the griddy? So much opportunity! To think, he’d been sleeping on such a deep and mysterious technique for this long. Trash Step still held a myriad of mysteries within it, that he needed to steadily study to unlock!
+
+Not only that, but it seemed the System recognized his trash star as a form of mage power. He wanted to check his status and see what the whole thing looked like, but now wasn’t the time.
+
+All this flashed through his mind in an instant. The Warden blurred again, chasing after him. Before he could reach, Rhys reached out to the nearest prisoners. “Give me your impurities!”
+
+“Huh?”
+
+There was no time to explain. Skin met skin, and Rhys yanked the impurities out of their bodies. They screamed for a moment, then stared in shock and awe at their newly refreshed bodies.
+
+Rhys, on the other hand, held the impurities within his hands. He didn’t absorb them into the trash core, but instead, squeezed them out, into a puddle of impurities in each palm, then pushing some of his most precious impurities into them. From there, he compressed the impurities with mana, forming small black blades, speckled with brown and gray. The blades themselves looked filthy, as though a good scrub might clean them, but Rhys knew there was no amount of scrubbing that would clean them. They were filth themselves, and there was no changing the fundamental property of the blades.
+
+The Warden chuckled, seeing the tiny blades. They each fit within Rhys’s palm, more like real-life shuriken than daggers or even knives. “Is that the best you can do?”
+
+Rhys stood slowly. He held the blades in his palm and stared down the Warden. “I’ve been holding back. Since the beginning—no, since my very first battle, I’ve been holding back. Today, for the first time—” He raised his hand and pointed at the Warden. “I’ll fight with all my strength.”
+
+The Warden gave him an unamused look. He continued advancing.
+
+Damn. That speech always gives them pause in my favorite trashy anime. In any case, it was partially correct. In almost all of his battles, he held back, because the absolute limit of his powers could not only kill, but permanently cripple anyone who survived. Until today, he hadn’t had any desire to injure someone so thoroughly.
+
+But now, thanks to the Empire, that was no longer true.
+
+The Warden loomed over Rhys and the others. He glared down at them with dark eyes. “I’ll give you one final chance. You, and all of you. Your ringleader is injured. He cannot meaningfully fight me any longer. Give up now, and you will be permitted to return to the mines.”
+
+“I would rather die!” Korii snarled.
+
+“Then die.”
+
+“No, you!” Rhys shouted, and lunged at the Warden. To his credit, the Warden jumped back, too battle-hardened to disregard even a foe he considered defeated and near death. Rhys’s stabs went short, but he released the blades and sent them flying with Trash Manipulation. They hurtled after the Warden, buzzing through the air like wasps, and struck him from either side.
+
+The Warden took another step back in shock, then looked down and laughed. The blades clattered to the ground, unable to pierce his skin.
+
+Korii stepped in front of Rhys, resolved. “We almost made it. If the timing had been better, we could have escaped. Thank you for giving us hope in our final moments.”
+
+The Warden approached once more, expression steely.
+
+“It’s too early for that,” Rhys replied. He pointed at the blades, forcing them to levitate with Trash Manipulation. That wasn’t all. Trash Intent shimmered over each blade, then Trash Aura. The blades sharpened, strengthening to their absolute limit. Blood ran from Rhys’s nose at the complexity of the task, but he narrowed his eyes and pushed on, refusing to let it stop him. He flicked his fingers, and the blades darted forth once more, striking the same spot they had the first time. The same spot, where impurities had already ever-so-gently weakened the Warden’s skin. The same spot, where Rhys knew he didn’t guard. This time, the blades pierced home, hurtling into the Warden’s body with a spurt of blood.
+
+The Warden scoffed. “The pitiful last howling of a dying dog.” He lifted his sword.
+
+“Explode,” Rhys said, and released everything. Trash Intent, Trash Aura, Trash Manipulation, and the Trash Manipulation that kept the knives in their knife form. Three years’ worth of impurities from mining work, plus some powerful impurities from Rhys’s personal stash, blasted the Warden’s body from within.
+
+The Warden’s skin blackened. Purple bruises crawled over his body, and his veins turned black one after another. He stumbled, his cheeks bulging as he forced himself not to vomit. His face turned white, then red, then green, and he stumbled, then dropped to his knees.
+
+“What… how…” he muttered, through numbing lips.
+
+“Die without knowing,” Rhys said. He climbed to his feet, moving slowly to not aggravate his wound—Trash Body let him keep moving and suppress the pain, but it did nothing to keep his wounds from worsening—then raised his sword. He brought it down hard, severing the man’s impurity-weakened neck.
+
+The other guards stared. The battle between them and the Tier-1 prisoners had been even, but now, with the Warden dead and Rhys standing over him, triumphant, their morale flagged. The rats leaped out of the shadows and dragged one down, and the rest quickly fell to the prisoners.
+
+Rhys rested his hand on the Warden, absorbing his waning energy and retrieving those impurities. There was no point wasting good poison, after all. The prisoners watched as he went from body to body, absorbing whatever he could manage. When he was done, he turned to them.
+
+“I think it’s time to blow this joint.”

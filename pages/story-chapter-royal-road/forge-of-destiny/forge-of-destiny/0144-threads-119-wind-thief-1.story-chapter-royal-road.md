@@ -1,0 +1,151 @@
+---
+id: dd77d172-1997-569e-ad9e-f564bc37203a
+page-type-slug: story-chapter-royal-road
+title: "Threads 119-Wind Thief 1"
+slug: 0144-threads-119-wind-thief-1
+partOf: forge-of-destiny
+position: 144
+ownLength: 2073
+unit: words
+publishedAt: 2021-08-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/733978/threads-119-wind-thief-1"
+royalRoadId: "733978"
+---
+
+It was nothing extravagant, this celebration. Biyu awoke to her nanny’s smile and the fond expressions of the household. For breakfast, the cook made jianbing, one of Biyu’s favorites, and they ate together as a family. The wheat flour crepes and their simple fillings were certainly not made of any special ingredients, but Ling Qi found herself enjoying the flavor more than she had far more extravagant foods.
+
+After, they had gone out to the garden where Zhengui had been waiting, and there, they had played. Shaping tiny expressions of her Mist, Ling Qi gave her little sister phantom animals to chase and play with while sitting and chatting with her mother and Zhengui, who had shrunk down to the size of a small dog.
+
+When Biyu had tired, Ling Qi and Ling Qingge had taken turns reading to her from a storybook until she fell asleep in Mother’s lap.
+
+The day passed like that in quiet enjoyment of each other’s company, culminating in the evening when they sat together in the hearth room while Ling Qingge played a new composition.
+
+Ling Qi sat at one one end of the long couch which filled the far side of the room, and at her feet on the carpeted floor, Zhengui and Biyu lounged. Part way through the day, her little sister had pleaded with him to let her ride on his shell, and Zhengui had eventually allowed it. Ling Qi had made sure it would be safe, and so throughout the day, the little girl would happily hop on and let Zhengui carry her through the halls.
+
+Biyu was leaning against his shell now, blinking drowsily while their mother played.
+
+Ling Qi couldn’t help but give a small smile as she leaned against the arm of the couch. Her mother really was good. Ling Qi had surpassed her through cultivation, but her mother was genuinely talented, and now, with the rust of disuse gone from her skill, that musical talent was showing again.
+
+The gentle sound of her mother’s flute drifted through the warm room. It was a song of comfort and warm summer days and a faint hope that was growing, slowly but growing all the same.
+
+When the song finished, Ling Qi offered polite applause. “That was lovely, Mother,” she said warmly.
+
+“Happy songs are nice!” Biyu added her own exuberant praise, clapping her own hands.
+
+Sixiang laughed silently. Ling Qi smiled wryly.
+
+“It is nothing so worthy of praise,” Ling Qingge said. “But I am glad that my daughters found it enjoyable.”
+
+“It was a nice song,” Gui said quietly. He had not been the most talkative today, but she thought that he had still enjoyed himself.
+
+“See, even Zhengui agrees that it does deserve praise,” Ling Qi said.
+
+“Precious is a good turtle,” Biyu agreed, patting his shell.
+
+Zhen looked conflicted at the praise.
+
+Ling Qingge smiled, and for once, there was no strain in it. She nodded her head in acknowledgement of Zhengui. Mother had grown comfortable around him, at least when he was in his smaller form.
+
+Biyu yawned then, only to blink and hastily raise her hands to cover her mouth. “Not tired,” the little girl said reflexively.
+
+“Of course not,” Ling Qingge said gently.
+
+“But just in case you get sleepy later, would you like a present from your Big Sister now?” Ling Qi asked. She had been trying to find a good time for it all day, and it was now or never at this point.
+
+Biyu’s expression brightened as she turned her head to look at Ling Qi. “Present?”
+
+“That’s right,” Ling Qi said, earning a curious look from her mother. In her hands, a carved wooden box appeared. “The present has two parts, and this is the first one. Go ahead and open it,” she said, lowering the container.
+
+Biyu turned herself around, looking curiously at the lacquered wooden box. She took the lid in both of her hands and lifted it up. Inside, padded by a soft cushion was a pair of pale blue silk shoes. They weren’t really proper talismans but Ling Qi had invested a little in them. They were stain resistant, durable, and just adjustable enough that they would last a couple years rather than a couple months on a growing girl.
+
+“Pretty shoes?” Biyu asked curiously, picking one up and turning it over in her hands. She peered inside. She didn’t seem too excited yet, but that was fine.
+
+“Like I said, the shoes are only the first part,” Ling Qi said lightly, leaning down to poke Biyu in the nose. The little girl snorted in laughter and swatted her hand away. “They’re dancing shoes. Do you want to be able to move like Big Sis?”
+
+Now, Biyu’s eyes brightened. “Oh! Yes, I wanna be a pretty fairy!”
+
+“Well, with these, we can get started.” Biyu was too young to learn anything complicated, but it would be good enough to just start working on a sense of rhythm and balance. “But you can’t use my lessons to get away from Mother or Nanny, alright?”
+
+Her mother gave her an unimpressed look but smiled nonetheless, giving Biyu a nod of approval.
+
+“I’ll be good,” Biyu chirped eagerly, setting the shoe back in the box.
+
+“I am sure you will,” Ling Qingge said with a touch of doubt. “In any case, I believe dinner should be prepared. Let us go to the garden.”
+
+Ling Qi smiled as she stood up, and scooped the box back up. She would put it in Biyu’s room later. She was looking forward to being able to teach her little sister too.
+
+That would come later though. She had already had quite a full day after all.
+
+And tonight, Ling Qi was going to begin learning to really move.
+
+***
+
+“What brought this on?” Sixiang asked curiously.
+
+Ling Qi was silent as she stared down at her dress, lying spread out on the bed. The silk seemed to ripple under the light, the intricate patterns stitched along the hems shifting and dancing subtly.
+
+Standing here, wearing mundane silks, Ling Qi felt deeply uncomfortable. Contrary to what some rumors said, she did change out of her clothes at times. She still bathed, and she still set the dress aside when going to sleep, though that was rare. Sometimes, on particularly lazy days, she would even wear her sleeping shift into the meditation room.
+
+This would be the first time she had gone out without her Cai robe in a long time.
+
+“I don’t think I can cultivate Wind Thief well while wearing this,” Ling Qi said, still looking down at the dress. “At least… not at first.”
+
+She felt pressure, as if Sixiang was resting their chin on her shoulder and leaning against her back. “I don’t think talismans interfere with cultivation, even ones like that.”
+
+“The dress won’t interfere, but I think my mindset will,” Ling Qi said thoughtfully. “It’s too safe.”
+
+“You don’t think you’ll be able to get the full lessons of the art if you’re feeling safe?”
+
+“No. That’s why I’m going off alone, too,” Ling Qi said. “If you could, I’d like you to stay dormant or cultivate internally while I’m doing this.”
+
+“Ling Qi, are you planning to do something crazy?” Sixiang asked warily.
+
+“I’m not planning to,” Ling Qi said lightly.
+
+They sighed. “Just stay safe, crazy girl. We still have dance lessons to do.”
+
+“Wouldn’t miss it for the world.” Ling Qi laughed.
+
+Sixiang faded, and she was left alone.
+
+Except, that wasn’t really true, was it?
+
+Ling Qi reached down and traced her fingers along the folds of her gown. The silk was cool, and the energies infusing it thrummed at her touch. “I’ll be back soon, okay?”
+
+And then she was gone, a shadow passing through the door.
+
+She had to go before she could change her mind.
+
+***
+
+She left things behind one by one as she traveled north into the depths of the forest which surrounded the Sect. One by one, meridians that thrummed with energy went still and quiescant. For the first time in over a year, she let the layered protection of her arts go silent.
+
+For the first time in many months, Ling Qi felt the faintest thrill of fear at the thought of traversing the woods. Her senses felt dull and muted, and her limbs felt too heavy and too light all at once. The faint sounds of the forest beasts and the rustling of leaves raised the hairs on her neck. She felt small and weak and vulnerable, and it made her stomach clench.
+
+But she wasn’t a mortal anymore.
+
+She leapt and sailed meters through the air to land on a branch which did not bend under her weight. She ran, and rough bark, stones, and thorns tore at her mundane clothing, but her flesh was inviolate. The darkness did not impede her eyes, and the cold chill of the night did not touch her. The mist that curled in the roots rose to her call and trailed after the ragged hem of her dress like a noblewoman's train.
+
+She had changed, and the things she wore and the arts she practiced were only the outermost difference. When she arrived at the moon drenched tower where lunatic revelers sometimes danced, she did not strain as she lifted the boulder which had fallen across the entrance. Ascending the crumbling stairs, she did not need an art to hear the echoes of revelry gone.
+
+The tower was empty tonight. There was no gibbous moon hanging above, only a thin grinning crescent, half-hidden behind the clouds. But even if the dusty stones were quiet, the air was thick with moonlight. A single jump carried her twelve meters into the air to alight upon the splintered end of a long petrified rafter, a second carried her to the highest point of the crumbling tower, and her bare feet came to rest on broken stone.
+
+There, Ling Qi looked out over the darkened canopy of the forest and the twinkling night sky above. She looked down at her hands, flexing her fingers. Gone were the little scars and calluses of a hard life. Her skin was as smooth as the most sheltered of courtesans. She was not a beauty, but there was none save her mother who would connect the ragged and desperate child of Tonghou to the immortal who stood here now.
+
+Ling Qi could not call herself a thief anymore. She was a musician, a sister, and a soldier. She was a burgeoning diplomat, taking the first shaky steps into intrigue. She had abandoned her apathy and chosen to believe that the idea of an improving world was not a childish fantasy.
+
+“I’ve left a lot of your lessons behind,” Ling Qi said to the empty sky. There were many things from those cruel years that she had put behind her, and although she retained some, others, she had rejected one by one. “Total freedom is a lie,” she said softly.
+
+The moon twinkled overhead, silent.
+
+“Living only for yourself is empty and childish, and only the mighty and the foolish can pretend that it offers anything but misery and destruction,” Ling Qi said thoughtfully. “Such a life is the life of a rabid beast.” Ling Qi held out her hand and watched the play of moonlight, filtered by the clouds on her skin. “But it isn’t wrong to do things for yourself. Some chains should be broken. Some rules are wrong. It isn’t wrong to want to fly as long as you remember your landing.”
+
+There was a charge in the air now, an attention that she could feel, beating down on her mind.
+
+“It isn’t wrong to steal the wind from its vault to let it out into the world.”
+
+Beneath her, the ground, the forest, and the Sect dropped away. She stood now on a promontory of crumbling stone over a ravine miles deep, its bottom hidden even to her eyes. It was a fall that even she could not survive. Below were the gods, cruel and greedy, with all the riches and wonders of the world in their vaults.
+
+And she was just one girl, so very small in the end. What madness could possess her, to think that she could defy the gods so?
+
+Ling Qi smiled to herself and stepped out into the open air.

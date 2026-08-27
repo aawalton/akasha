@@ -1,0 +1,213 @@
+---
+id: d862590b-8305-52ac-9dd3-7bcd2fc9a95b
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 384"
+slug: 0427-threads-chapter-384
+partOf: forge-of-destiny
+position: 427
+ownLength: 2629
+unit: words
+publishedAt: 2024-06-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1681110/threads-chapter-384"
+royalRoadId: "1681110"
+---
+
+The crow’s wings fluttered once, a loose feather drifting down and clinging to Liming's fabric even as she accelerated away, crossing the compound to cleave the twitching head from a locust-like nightmare gnawing and ripping at a crack in the barrier of warding energies. She swung Cifeng out in a wide arc, trailing radiance, the light coalescing into glowing spheres of power that ripped outward, raining down on the nightmares outside the walls to the soft chiming of bells, heard even over the din of battle.
+
+But the feather remained. Unthreatening and fragile, nothing more than a conduit for words and intentions. She could feel the cold thrum rippling back up the connection.
+
+"Lady Wang, reinforcement incoming from our guests. Inform Sir Luo." The words were barely even spoken, imprinted mostly on the qi pulsing down into the formations embedded in the fortifications.
+
+The stolid, earthy qi of the Wang noblewoman, spread so thinly over the defenses of the valley, paused for a moment in its motion, the energies of the barriers stilling and then resuming their circulation. Agreement. Wang Lian would not question her here and now.
+
+The sky shuddered, and flame gouted forth, mingling with acrid white smoke and boiling ichor. To her eyes, it almost seemed like the sky was bulging outward. Cracks were spreading, as if the heavens themselves would burst with the pressure on the other side.
+
+She heard a song, low and melancholic, interwoven with another, strident and firm. She could feel the vibration of it deep in her bones.
+
+In the cracked sky, a vast flock of ravens took flight, and the Weeping Sentinel, the woman-shaped tree that had stood over the foreigners’ camp throughout the summit, spread creaking wooden limbs wide. Crimson sap dripped from curling, branchlike fingers.
+
+The face of the creature—the cultivator—was revealed. It was a face of stripped bark, as if it were flayed, with lines and curves of muscle and tendon exposed and wet. Empty knothole eyes wept blood. The Weeping Sentinel’s mouth opened, revealing teeth of dull and rusted iron, and her voice became the song.
+
+Light rippled out, a ring of dancing runes writ in stark and primal crimson light forming in the air. The pulse reached the distending sky and shattered into fragments of light. A second pulse came and shattered, too.
+
+Under this onslaught, the bulging sky shuddered and retreated. Crimson threads stitched shut spreading cracks. They blackened under the burning flames, but held strong.
+
+Crows joined the hounds in their aerial feast of nightmare flesh. Locust-men and writhing, many limbed things fell from the sky, blanketed in clawing, pecking birds. Other cracks in the sky halted expansion and closed by millimeters under the cawing song of circling crows.
+
+As her people fought and pushed the nightmares from the makeshift walls, as Gan Guangli forged an open path, and as her light shone brighter, drawing the reeling nightmares back onto their spears, the sky erupted. The pressure that had been building, the fury and power of something unseen straining against the skein of reality, exploded behind the cracks in the sky.
+
+The treesong grew in force, rings of unbreakable runes lighting the sky. Swarming crows blotted out the burning clouds, and beneath them a dozen mighty white hounds raised their heads and howled, silver fire erupting in a spreading circle to fill the vault of heaven. Below the hounds, the meridians of the earth lit up, a zigzagging network of light.
+
+The ripple of power passed. Windows shattered, and trees were stripped of their leaves and needles, but that was the end of it. The nightmares began to boil away as the cracks in the sky dissolved into ashen smoke. All around her, soldiers let out cheers of relief, led by Gan Guangli's thunderous cry of victory.
+
+Cai Renxiang sunk back down to the earth, not allowing a single hint of fatigue in her posture.
+
+"Emissary Jaromila would speak with you at your earliest convenience."
+
+"She will have it. I must first ask after my subordinates."
+
+"We understand. Shall this feather remain?"
+
+Cai Renxiang considered it. The black feather was graying and crumbling at its edges already.
+
+"It may. I will communicate when a meeting is possible."
+
+She was going to be very cross with Ling Qi if her retainer was conscious.
+
+***
+
+Pain.
+
+A deep, aching pain throbbed outward from her core, fading to a fuzzy numbness. For a long time, there was nothing else, not even a notion of who she was or where she was.
+
+Pressure came next. She was lying on something, and a thin sheet lay over her. Then temperature, in the form of cold and heat. She could feel the pulse of acerbic medicinal energy scrubbing away at her insides, pushing back against the numbness and the pain alike.
+
+"Told you she'd wake up. Ling Qi is tough. Aren't ya?"
+
+Right. She was Ling Qi. She was a cultivator, a baroness, a diplomat, an emissary, and a thief. There were many facets, and all of them were her.
+
+Her eyes cracked open, and she looked up to see Sixiang seated backwards on a chair by her bedside, arms crossed on the backrest.
+
+"Obviously! I was just worried, you old jerk.” Hanyi gave the muse a dirty look. “A lady is entitled to fret."
+
+Ling Qi painstakingly turned her gaze. Nothing felt right. She was so heavy, so stiff. Hanyi was sitting on the foot of her bed, kicking her legs fretfully. She looked at Ling Qi, and her little sister flinched, looking away.
+
+"You were correct. The physician underestimated her resilience."
+
+Cai Renxiang stood with her back to them, looking out the wide window set in the wall of the recovery room.
+
+Ling Qi tried to raise her hand. She sent the command down her nerves, but she felt only the distant, fuzzy sensation of a twitch. She reached inward, cycled her qi, and found it barely flowing, like porridge hardened into the bowl.
+
+"Ling Qi, do not. You will damage yourself further. The physicians have already informed me that you will recover… in time."
+
+The panic starting to flutter in her chest receded. Cai Renxiang's calm was infectious.
+
+"How bad…?"
+
+To her surprise, her words came out clearly. There was no scratchy undertone, no broken or labored breathing. But then, she realized that neither her lips nor throat had moved at all. She had thought, and the words had come, imprinting themselves on the air.
+
+"Well, you're gonna need to grow your hair back out at least," Sixiang observed. "We managed to protect your head mostly, but that was kind of a no go."
+
+"Most of your meridians are too damaged for use, particularly in your extremities. The physical flesh is the same," Cai Renxiang said. "You will require significant assistance until you can recover. The physicians estimate that it will be some months before you are fully mobile again."
+
+"My cultivation?"
+
+Hanyi puffed out her cheeks. "Siiis, is that really the first thing you worry about? You can feel all the bits are still there, right?"
+
+Cai Renxiang looked back over her shoulder. "You have not lost a stage, but most of the qi you were building for your advancement to the next stage has been lost, too tainted by the energies you were immersed in. It had to be flushed from your body."
+
+Ling Qi squeezed her eyes shut. Slowly, she worked her tongue across the back of her teeth, swallowed once, and flexed her jaw. Feeling was coming back, even if most of her body still felt like it was made of stone. This was better than she had any right to expect. But even then…
+
+"I can still feel my dantian… My domain, I'm speaking with it."
+
+"You held onto yourself real well despite the flames, the muck and the forgetting dark alike," Sixiang said. "’Course you can. You looked worse till you popped out. Then your spirit tried to correct your look all at once, but you just didn't have the energy for it."
+
+"The solidity of your cultivation foundation prevented worse complications," Cai Renxiang explained. "It is still suggested that you not strain yourself or cultivate further until the physicians have cleared you."
+
+"Understood."
+
+It itched at her, making her want to squirm and shed her own skin, but she would only hurt herself more if she tried to pick up and resume running on her path right now. She felt something deeper too. Her domain was shifting internally. It felt like it was consolidating. She had a feeling that her new ability to speak with others via her domain had to do with it.
+
+Maybe she would have something to work on, after all.
+
+"How bad was it out here?"
+
+Ling Qi managed to tilt her head slightly to look down at her body. Her arms were resting on top of the blanket, every inch wrapped in silken bandages and formation talismans.
+
+"It got really scary, but nothing important got wrecked." Hanyi shrugged. "They're fixing a bunch of stuff though."
+
+Cai Renxiang shot a neutral look at Hanyi. "There were casualties, but they were light. Cooperation and planning carried the day."
+
+"And the White Sky?" Ling Qi asked.
+
+She dreaded the answer. She had glimpsed some of the battle outside. It had surely confirmed some of their faction’s worst assumptions about the empire.
+
+"Is willing to complete the talks,” Cai Renxiang replied. “We chose to break for two weeks in order to assess the damage and reorganize, of which four days yet remain."
+
+"Miss Cai helped me commission a chair that I can wheel you around in!" Hanyi chirped. "So you can still do your talky stuff!"
+
+Ling Qi rolled her head toward Cai Renxiang. "Is that really alright? Like… this?"
+
+"The Celestial Empire is a martial realm at its core. This is damage you received while taking on a monumental task. I do not know of the White Sky’s response, but who among us will dare look down on your wounds when the Heron General herself deposited you with the physicians?"
+
+"I mean, I think she should rest longer, but I also know you'd have to shackle her to the bed," Sixiang grumbled.
+
+Ling Qi turned her head toward Sixiang. It was easier this time, even if the feeling of the pillow against her bare scalp felt odd. "What about you, Sixiang? I can't feel you right now, but I know you were hurting too, in that liminal battle…"
+
+Sixiang squirmed, evading her eyes. "So, look, I can't be buzzing around for a while. The anchor you gave me is fine to rest in, but if I dematerialize or leave it right now, I'm not coming back." They scratched their cheek. "I'm still a little on fire."
+
+"Renxiang?" Ling Qi asked plaintively.
+
+"There is no one on site qualified to deal with the problem. Those whose expertise is closest have pointed to this situation as the best case."
+
+Sixiang chuckled weakly. "Guess I might need a chat with Grandmother."
+
+"I may be able to ask something of the Meng," Ling Qi offered. A new panic rose. "Unless—"
+
+"A rogue faction, tainted by a faltering and rotted elder. Even the general attests to this," Cai Renxiang said. "I believe this truth will hold up to Mother's scrutiny. However, even I cannot fully predict the repercussions of this assault."
+
+Of course, Ling Qi thought. She felt so tired, even trying to think of all the possibilities. Her head raised very slightly, fell back to the pillows.
+
+Cai Renxiang looked back out the window once again.
+
+"Ling Qi."
+
+"Yes?"
+
+"You have performed beyond all expectations. I am most pleased to have your service." Cai Renxiang’s posture was stiff. "Your loss would do incalculable damage at this juncture. Please consider that in the future."
+
+She laughed, physically even. It hurt her throat. "I understand."
+
+"I will allow you privacy to speak with your spirits now. You also have a number of well wishers. Have your junior sister inform the medical assistants when you are ready for visitors."
+
+And with that, her liege marched out.
+
+It left her alone, looking at Hanyi, whose composure was already crumpling, icy tears forming in her eyes.
+
+Ling Qi understood without words needing to be spoken. She felt a dull churning in her gut. She had made the right choice and taken the correct action. That didn't mean there weren't costs.
+
+"You're not allowed to die."
+
+Hanyi spoke the words in a soft whisper, but they were loud in Ling Qi's ears. Her junior sister hugged her arms around herself.
+
+"Y-you can't just disappear! You promised Momma you would take care of me."
+
+Ling Qi wished deeply that she could sit up right now. She felt her fingertips twitch, but all of her desire to embrace and comfort Hanyi couldn't amount to more than that.
+
+It was an awful feeling.
+
+"I'll keep getting stronger, so I won’t get hurt as easily," Ling Qi promised, unable to even raise her head properly. The most she could do was turn it on the pillow.
+
+"You'll do it again, though," Hanyi accused.
+
+"I will." Ling Qi couldn't lie about this, a fundamental concept of herself. "I was the only one who could do this today, but I promise I won't risk myself without thought."
+
+"But that's all you can promise," Sixiing said wryly.
+
+Hanyi's expression scrunched up, and then a moment later, she was on top of Ling Qi, hugging her and sniffling against her neck. The pressure of her weight and the cold of her hands penetrated the numbness of Ling Qi's body. She winced, glancing at Sixiang for help. The muse reached out, rubbing Hanyi's back.
+
+Want. Somewhere along the way, the success of this project had become something she deeply and truly wanted. Even knowing her actions had hurt the ones closest to her, she couldn't regret taking them.
+
+And that haunted her because Still Waters Deeping, Meng Delun, had been the same.
+
+The consequences and the scale had been more dire, but it was still the same process. She would hurt the ones she loved if she found the cause great enough.
+
+It had to come down to the details. Meng Delun’s cause was a faceless ideal, far, far removed from any single person. The feast in the garden under the moon, Hanyi's frozen tears, Cai Renxiang's stiff shoulders, and the people slowly building a life on the banks of Snowblossom Lake. She might accept the consequences, but she wouldn't forget faces. Not like that. Never like that.
+
+"I'm sorry, Hanyi. I’m sorry you had to see me like this, but I lived. It's hard to get more dangerous than what I just did, and I still lived."
+
+Hanyi squeezed her tighter, and she winced at the throb of pain from the pressure. Her little sister let out a muffled, watery laugh. "My big sis is the toughest, densest one there is."
+
+"Hey, you added something there," Ling Qi complained.
+
+"I dunno,” Sixiang said. “I think she's being pretty accurate."
+
+"I guess you're not wrong all the time," Hanyi said to Sixiang before finally sitting up. She scrubbed the sleeve of her gown back and forth across her face. "I'm totally gonna tell on you to Zhengui. He won't let you out of his sight till you're better."
+
+"I'll be good." Ling Qi sighed. "It's not like I can make much trouble like this."
+
+"What's this quitter talk?" Sixiang wondered.
+
+"No! Don't give her ideas!" Hanyi scolded. She scrubbed her face one more time, "Now, I'm gonna go tell them you can have visitors now! You're gonna lay here and get pined over by all the boys, got it, big sis?"
+
+Ling Qi blinked. "Wait, what?"

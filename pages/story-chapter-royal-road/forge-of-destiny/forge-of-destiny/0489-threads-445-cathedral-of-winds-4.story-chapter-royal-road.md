@@ -1,0 +1,177 @@
+---
+id: 9a511cd1-89ff-51c8-9785-34e753bda131
+page-type-slug: story-chapter-royal-road
+title: "Threads 445-Cathedral of Winds 4"
+slug: 0489-threads-445-cathedral-of-winds-4
+partOf: forge-of-destiny
+position: 489
+ownLength: 2086
+unit: words
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2228895/threads-445-cathedral-of-winds-4"
+royalRoadId: "2228895"
+---
+
+"Oh, good, the moisture sealant is working properly. Rise, Xinghong. You're to focus on protecting my person while I work today."
+
+Ling Qi pursed her lips. "Can you hear his words, Suyin?"
+
+It was definitely a he, now that she felt at the edges of the qi. Low third realm, too. Suyin's experiments had really paid off.
+
+"No, my antlion soldiers aren't so advanced. They can follow complex commands, but they don't show the spiritual activity for human level abstract thinking yet,. Li Suyin blinked. "Is this your sharp ears again?"
+
+The insectoid face turned to her and tilted, assessing, jaws clacking.
+
+"He is extremely pleased to have been chosen from among his brothers and honored to protect you."
+
+It was true that the antlion's thoughts were simple and childish, not even to the complexity Biyu expressed, but Suyin was underestimating their intelligence. Probably not a good time to discuss it here, though.
+
+Li Suyin smiled. "Oh, I could pick that up well enough. Xinghong is a good boy, the most disciplined and obedient of his batch."
+
+Click-clack-clack. The antlion soldier practically vibrated with resolve.
+
+"Ling Qi is to be treated as a level one companion and combatant as well, Xinghong. Defer to her in the absence of my own orders."
+
+Less enthusiastic, but understanding.
+
+“Sixiang,” she thought privately. “How many of these does she have, and how advanced are they?”
+
+"There's five of them, counting him, though she's got a sixth still growing,” Sixiang revealed to her. “The others are only second realm though. They’re the first gen that hasn't exploded, withered or eaten each other! Wait till you see the combo she's set up with the lot. I like 'em!"
+
+Ling Qi wasn't even sure where to guide her thoughts on this. Turning her attention back to Suyin, she asked, "Shall I begin scouting for our green crystals?"
+
+"Please. You said you were intending to use a new technique?"
+
+"Yes. My usual perception extensions suffer some degradation in impure environments, but this refinement of my Beast King's Savage Dirge art should help."
+
+The Beast King art had always been awkward. With so many movements and techniques, there were too many patterns for her to easily keep track of in battle. She understood why. Ultimately, it was a theater art, a form of expression she was only tangentially skilled in.
+
+"You do a pretty good job of it when you try," Sixiang encouraged.
+
+She could. That didn't change the trouble. And as she studied more and more of the movements and arcs, she had begun to realize she was using it inefficiently.
+
+Ling Qi expressed the first low bars of the technique. The song was a twist on the imperial anthems of the second dynasty: regal, but with a pompously bombastic edge that invited mockery. This was the Dirge of the River King, once the River Jing, fallen scion of dragons. The River King was a carp which deemed himself a dragon on the strength of bloodline alone.
+
+Scales shimmered in the surrounding water, and five more points of vision bloomed, expanding her senses.
+
+"I remember this story." Li Suyin watched the gathered school of phantom fish around them. "The River God, the fat and furious carp, was the squanderer of heaven's treasures."
+
+"He was disdained even by Vermin God. He looked upon the glittering heights of his fathers, and only ever descended the falls, sure that his destiny was to be a dragon anyway," Ling Qi finished.
+
+The fish skirled around her, mingled with the wisps, and shot off in every direction, swimming in flashing patterns under the faint luminescence cast by some among the growths on the walls.
+
+Li Suyin's antlion soldier followed their motion with quick snapping turns of his head and clattering mandibles. Apparently, he was inexperienced.
+
+It was a strange technique, and one which demonstrated that in the completed combat form of the Beast King art, each king was more a component of a line in a more complex dance.
+
+The darting carp were not creatures of power but fright. She could send them out in panicking schools, where they would swarm and obscure the motions of others. This phantom of threat could trigger defenses, trip ambushes, and steal attention and blows. This was their basic function, just as the stupid, prideful River God, least descendant of dragons, had been cajoled and flattered into fulfilling the Spider God’s schemes.
+
+The technique was not her usual style, but there was definitely something to be said for “scouting in force.”
+
+In the dark, maws yawned in the fungal flesh overgrowing the underwater tunnels. Tongue tendrils grown through with spiny bone shot out and speared furiously swimming phantoms. Nests of wriggling white worms erupted, tangling and stinging with toxic spurs embedded in slimy flesh. Mutant, eyeless fish with sleek armored skulls and sharp bony jaws snapped and clattered. Even clouds of toxins and impurity belched forth, dissolving the fish and dispelling them, but in turn, the clouds were absorbed by the fish’s dying throes.
+
+Despite these attacks, her “eyes” traveled unmolested, unseen among the swarming school. She caught a glimpse of green, spiking growths of crystal jutting from the walls of a narrow, winding passage.
+
+"We'll want to take this one here." Ling Qi pointed to a tall, narrow passage on the right. “Mind the chamber that will come up after the second turn; it's filled with parasitic worms. They'll attempt to get under our skin or into any opening and nest."
+
+"Understood. Xinghong, stoke your fire," Li Suyin ordered. "And stay close."
+
+Click-clack. Chitin fists crashed together, and steaming bubbles began to rise from the antlion’s joints, water rapidly heating to boiling.
+
+"That’ll work," Ling Qi said with a laugh.
+
+She could step past the chamber, but it was probably best not to alert anything on the deeper layers of reality just yet.
+
+Together with her friend, she descended into the mouth of the cave.
+
+***
+
+The chamber Shu Yue had vaguely described was unmistakable in the end. Through the tunnel was a chamber wreathed in emerald green light, pulsing gently.
+
+Most of the light came from a central stalagmite of the organic crystal, a great fang rising from the floor as tall as Ling Qi herself. The light warmed the water, and where it shone, the corrupted life of the tunnels did not reach. The water was clean and clear. In the central crystal slept a node of power.
+
+Suyin examined it. "This is certainly a qi locus of some kind. Wind aspected?"
+
+"It's connected to the spirit on the surface," Ling Qi said.
+
+"It's a chunk of their body. It’s like the little bit I left back in my puppet, but more deeply grown." Sixiang’s voice emanated from near her ear. "And…"
+
+"There are others." Ling Qi gazed into the crystal’s depths. Though the spirit of the Cathedral remained uncommunicative, she could feel it here, down below the blanket of corruption. "This is wind aspected, but I also sense… Heaven, the touch of lightning on the mountainside. Earth, deep and rich, and the mountain cracked and breaking. There's others, too. Extinguished fire. Silenced thunder. Both are dead and broken. Water… polluted. Flickering."
+
+She shook herself, coming free from the vision.
+
+Suyin rested her clawed fingers against the crystal. "Useful. The spirit is a neutral entity overall, then? Or at least a gestalt of smaller entities?"
+
+"Or the fire and the thunder in the deep was a different spirit. One doesn't rule the other out though," Sixiang said.
+
+Clearly, Shu Yue had sent them here for more than taking the correct turn.
+
+Ling Qi drifted around the crystal. "We could attempt to cleanse one of the damaged nodes. This might get the spirit’s attention, and allow it to help us."
+
+"Or we could go in the direction of the broken nodes. That’s where the taint will be the strongest and where the breach will likely be," Suyin pointed out another option. "The main underworld entity is some sort of puppeteer creature, right?"
+
+Ling Qi nodded. Detouring might mean doing more damage to the guardians and creatures of the natural ecosystem down here, but plunging right ahead could be risky.
+
+"Not like that's ever stopped us," Sixiang whispered.
+
+"We risk doing more damage in breaking through to a node, but in the end, none will know the spirit's own body better than itself."
+
+"Very well," Suyin acquiesced. A few bubbles emerged along with her words. "Being able to secure conscious cooperation from the Place Spirit where the seal will be installed may increase overall efficiency."
+
+"And we did choose the equipment to give us a longer time in the tunnels. May as well use it. Can you fight to subdue?"
+
+"It's not my specialty, but I suppose adjusting some of my toxin dosages should allow for disablement rather than death… Rather than quick death."
+
+Ling Qi stared at her.
+
+Color creeped up Suyin’s cheeks. "I can administer restoratives, if we have the time and ability."
+
+"Aw, she's just being shy. Yinyin can totally just fuse somebody's spinal column together if she wants them to hold still. Or their knees," Sixiang joked.
+
+"I do not think we will encounter many knees down here, and I would really rather not perform alterations to the spine on a subject you wish to recover. The complexity and potential for damage is…"
+
+"I get it," Ling Qi cut her off. "And Xinhong? Can you grapple?"
+
+The red antlion soldier clacked at her.
+
+"Oh, Xinghong, please activate the routine…"
+
+Before Suyin had finished, the carapace along his sides made a sharp click as the shell unhinged, and two additional burly arms emerged from beneath the spiny chitin. These had sharp, three-fingered graspers rather than humanlike hands. As she watched, Xinghong flexed, posed, and bent his limbs as if going through a martial drill. Wait. She recognized those movements from Gan Guangli’s basic drills.
+
+"You can, then," Ling Qi said, relieved.
+
+Li Suyin's brows were drawn together. "Your ability is very useful. He generally only understands a handful of command words, and only with careful tones. But yes, I installed a jade slip containing many basic martial styles into their growth chamber. Absorption is… uneven, but Xinghong has taken to the unarmed drills the best."
+
+Ling Qi wasn’t sure how the antlion was able to make chitin pectorals flex like that, but he was very pleased with the praise.
+
+"Alright. Then, the next question then is which node we should pursue," Ling Qi said.
+
+Water! Murky yuck bad no good clogging silencing stilling.
+
+Ling Qi blinked. "That's not a bad point."
+
+"What isn't?" Suyin asked.
+
+"Qiyi is suggesting the water node, since the flows of the water could be said to correspond to the spirit’s circulation."
+
+"The heaven node would be the closest to its higher thoughts," Li Suyin mused. "But I suppose if we want to ingratiate ourselves by clearing the threat from an embattled one, then water might be our best option. Water is often a purifying element as well, representing cleanliness. It would most likely break up the underworld qi, if restored fully.
+
+"Is that the official word for it now? Underworld?"
+
+"Nah. Suyin's just impatient so she's using the simplest, least controversial one till somebody higher makes a decision," Sixiang drawled.
+
+"I don't know if I agree with how you said that," Li Suyin huffed. "Now, we know which node to aim for, but can you sense where it is?
+
+"It's too attenuated,” Ling Qi said regretfully. “The impurity is too thick in the passages ahead. I can send my eyes ahead quietly, but the impurity would damage the constructs too quickly. I can use my new technique though…"
+
+"It will bring the attention of the impurity spirit or beast that you mentioned had previously attacked Gan Guangli and yourself at the Falling Waters Palace. Normally, this would be fine…"
+
+"But we don't want it to attack here, since it would just make the Piper, the crystal spirit, respond indiscriminately to an attack on one of its undamaged nodes."
+
+It was nice going back and forth with Suyin. Her friend picked up her line of thoughts swiftly.
+
+Suyin gazed down into the darkness of the passage. "We just approach loudly then, and accept the attacks in the tunnels?"
+
+"At least while I get a feel for the spiritual dimensions of the place. Impurity bends space, but so do I. And I have Sixiang here to help me navigate."
+
+Her friend nodded, and that was that.

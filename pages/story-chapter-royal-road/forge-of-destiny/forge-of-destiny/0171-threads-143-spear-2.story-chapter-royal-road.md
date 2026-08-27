@@ -1,0 +1,213 @@
+---
+id: 4f0cd2fd-c0da-56e6-8139-8e96c26d9054
+page-type-slug: story-chapter-royal-road
+title: "Threads 143-Spear 2"
+slug: 0171-threads-143-spear-2
+partOf: forge-of-destiny
+position: 171
+ownLength: 2470
+unit: words
+publishedAt: 2021-10-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/767845/threads-143-spear-2"
+royalRoadId: "767845"
+---
+
+Granting Xia Lin the lead in steering their “tour” took them away from the sect peaks themselves to inspect the terrain and climate and fauna of the surroundings outside the carefully controlled skies above the peaks. Xia Lin seemed to know a surprising amount of wilderness lore given the more urban nature of the White Plumes and the initial impression. She questioned Ling Qi on every detail of the terrain, climate, and ecology of the lands she had encountered thus far, absorbing information at a ferocious rate.
+
+Where conversation broke down a bit was when they crossed ways with spirits that could not simply be waved away. It wasn’t easy to read, but Ling Qi didn’t miss the way Xia Lin’s hand twitched toward the haft of the halberd on her back whenever they had such an encounter. Happily, she seemed willing to let Ling Qi handle the encounters with words, even if violent intent shone through her eyes.
+
+Maybe it was unfair to judge Xia Lin for that. It wasn’t like Meizhen’s method of exuding a primal, predatory threat was much friendlier.
+
+“Are you certain, Miss Bai, that you are not inconvenienced by this?” Xia Lin asked as they passed one by one over a stream in their path. Ling Qi had simply appeared on the other side, Xia Lin had hopped across, and Meizhen strode across the water as if it were solid ground.
+
+That was another thing she had noticed. Xia Lin seemed more interested in Meizhen than her. She wasn’t rude, and she engaged with Ling Qi whenever she spoke, but after the third time it happened, Ling Qi couldn’t help but notice that Xia Lin was taking every opportunity to draw her taciturn friend into the conversation.
+
+“No, this is somewhat refreshing,” Bai Meizhen replied, scanning their surroundings with a relaxed air. “I have not had occasion for an outdoors stroll in some time. My cultivation schedule does not allow it.”
+
+“I would bet Cui has been getting restless,” Ling Qi said.
+
+“She has been somewhat petulant of late. Cui is at that age unfortunately.” Meizhen sighed. “She is growing bored with hunting alone.”
+
+“I could speak to Zhengui. He would be happy to accompany her, I think.” She wasn’t unaware of how her little brother seemed to feel toward Cui; it was cute.
+
+“That might be helpful. My cousin’s pride would never allow her to ask,” Meizhen said, smiling.
+
+“I wonder where she gets that from,” Ling Qi said dryly.
+
+Letting a low hanging branch pass through her dematerialized shoulder, Ling Qi glanced toward Xia Lin, who was observing them with a small frown. She winced internally. She had been forgetting herself, being more familiar with Meizhen than was strictly proper, but in her defense, Meizhen was going along with it.
+
+<I think you might be worrying too much. Last year, you were a nobody. You’re still not a big name, but you're a proven retainer. It’s not totally weird for you two to be friendly,> Sixiang noted.
+
+“It is perfectly normal for a young lady to hold herself aloof from suitors,” Meizhen said primly. “Do you not agree, Miss Xia?”
+
+“I have no relevant experience in the matter,” Xia Lin replied. Ling Qi thought she seemed a little evasive. “You speak of a cousin, but I was not aware of any other Bai present in the Sect aside from the Xiao?”
+
+“I speak of Bai Cui, my cousin who accompanied me,” Meizhen answered, casting a cool look toward Xia Lin.
+
+“I understand,” Xia Lin said, stepping around some brush. “Bai traditions include spirit beasts among your clan rolls, yes?”
+
+“Kin is kin, whatever flesh they wear.”
+
+“That is an admirable thing, I think,” Xia Lin said quietly.
+
+“It certainly is,” Ling Qi agreed. She hardly needed Sixiang’s prod to notice the flash of melancholy there. “Do you have any bound spirits, Miss Xia?”
+
+“My halberd,” Xia Lin replied instantly. “Though she has not yet earned her name.”
+
+Ling Qi glanced up to the golden head of the weapon on the girl’s back. Made by Shenhua herself, that was not too surprising. “Is that why you do not use a storage ring? I had wondered about that.”
+
+“Storage formations do not function well with our armaments,” Xia Lin said. “Her Grace’s work does not take well to being concealed.”
+
+“True masterworks often have issues with common storage formations. It—No, ‘she,’ you said? She is certainly beautiful work,” Meizhen said.
+
+The gleaming blade seemed to hum at that, vibrating in the cool autumn air.
+
+<Wait a second, that’s what’s happening!> Sixiang realized. <Weapon and wielder as one, fitting together like a puzzle box. ‘S why she looks all metal at a glance.>
+
+Ling Qi focused her spiritual senses, following Sixing’s internal nudging. Studying very carefully, she could see that the “joinings” were where one spirit met the other. Despite how mechanical it felt, Ling Qi’s impression was closer to that of two young trees which had grown together, branches and boughs fusing.
+
+A piece of Xia Lin was within the weapon, and a piece of the weapon was within Xia Lin.
+
+“She cannot speak yet, but she enjoys the compliment,” Xia Lin said, reaching back to brush her fingers along the haft.
+
+“She certainly looks well cared for,” Ling Qi said, not letting her conclusions show on her face. “What of your mount?”
+
+“Zaofu is a good fellow,” Xia Lin said with a touch of cheer. “If very vain. I have not yet fully earned his trust; he lost his last rider to a night parade in the eastern wilderness zone. We do not bond our mounts, however.”
+
+Night Parade was the colloquial term for when sufficient spiritual malice gathered in one place to cause whole swarms of spirits to go mad. Such things had been mere stories as a child, and not much more in the Sect.
+
+“I’m sure you’ll manage in time,” Ling Qi said, earning herself a nod. “That’s an idea. My own spirits are going to be a significant part of the expedition. Do you want to meet them after we complete this circuit?”
+
+“That seems sensible. Miss Bai, do you object?” Xia Lin asked.
+
+“No, that seems a fine enough finishing point for our walk.”
+
+***​
+
+“Ugh, Zhengui, you doofus! I can’t believe you!” Hanyi’s voice echoed from the top of the hill, carrying the edge of a cold autumn breeze.
+
+“It was foolish Hanyi who messed up! Do not blame I, the wise Zhen,” her little brother retorted.
+
+Smoke and thick clinging mist was rising from the top of the hill. Something had obviously exploded. Ling Qi closed her eyes and rubbed her temples.
+
+“Perhaps we should return later?” Meizhen asked.
+
+“No, please just give me a moment,” Ling Qi replied. “My apologies, Miss Xia.”
+
+“It is no trouble,” she replied, eyeing the looming shadow of Zhengui at the top of the hill.
+
+Ling Qi appeared between her spirits, startling them from their quarrel. Hanyi had dirt on her gown and bits of mulch in her hair. Gui’s snout was covered in frost and looked to have suffered ice burns. They were already visibly healing. Between them lay a patch of frozen ground and what looked like scattered chunks of hard blue ice from which the fog was rising.
+
+The grass was also on fire, but that was normal.
+
+“What happened?” Ling Qi asked simply, fixing them both with a look. They both started to respond at once, and she held up a hand. She pointed to Zhengui. Hanyi pouted.
+
+“Hanyi saw someone in the Sect with weird ice that made fog, and she wanted to make some,” Gui explained. “Then she wanted to see what other kinds of ice she could make, so she came to Gui to help bring up the weird airs inside the hill to freeze.”
+
+“Hanyi could not do the freezing right, and the ice exploded,” Zhen hissed. “I, Zhen, was stung many times!”
+
+Ling Qi looked to Hanyi who huffed and planted her hands on her hips. “So that’s true, but it was his fault. I told him not to bring up so much stinky air at once, and one of his sparks set it off.”
+
+Ling Qi had a feeling that there was some fault on both sides. “Both of you should be more careful when trying new things like this,” Ling Qi admonished. “But since you’re both okay, we’ll leave that aside. I brought someone here to meet you.”
+
+Hanyi started frantically brushing off her dress.
+
+Gui merely cocked his head curiously. “Who does Big Sister want us to meet?”
+
+“One of the people who is going to be accompanying us on our trip and Bai Meizhen,” Ling Qi answered.
+
+Zhen hissed in alarm and started using Gui’s shell to rub the frost off his scales.
+
+“Please get ready,” Ling Qi instructed before flickering back down to Xia Lin and Meizhen.
+
+“No real problem, just some experimentation with a combination technique,” Ling Qi said lightly, clapping her hands. She probably should have planned ahead more.
+
+Xia Lin was giving her a measuring look. “Initiative is a positive trait. I think I understand Miss Ling’s methods better now.”
+
+“Miss Ling’s initiative has certainly been passed on to her companions,” Meizhen agreed. It was only her familiarity with the girl that let her notice the touch of amused sarcasm.
+
+Ling Qi laughed a little self-consciously. They ascended the hill.
+
+Her spirits waited for them. Zhengui stood atop the patch of broken earth and weird ice. Hanyi sat on the edge of his shell, smiling beatifically and kicking her bare feet.
+
+“Hello! My name is Hanyi. It’s an honor to meet you!” She hopped down and bowed.
+
+“We are Zhengui,” her little brother rumbled in two voices. “It is good to meet Big Sister’s friends.”
+
+“It pleases me to see you both in good health,” Meizhen said with a twinkle of amusement in her eyes.
+
+Xia Lin offered a very small bow of her head. “I am Sergeant Xia Lin of the White Plumes. It seems that we will be cooperating in the future.”
+
+“Oh, wow. You look really strong, and your armor is so cool!” Hanyi said cheerfully, looking Xia Lin up and down.
+
+“Gui is glad to meet more people who will fight with Big Sister,” her little brother added.
+
+Zhen appeared to be surreptitiously looking around Meizhen, as if looking for someone else.
+
+“Hey, now, don’t forget about me,” Sixiang said, appearing in miniature on Ling Qi’s shoulder. “Sorry I didn’t introduce myself earlier. Name’s Sixiang.”
+
+The soldier girl blinked slowly, glancing back and forth between Sixiang and Hanyi. She seemed overwhelmed.
+
+“I have quite a menagerie, as you can see,” Ling Qi said.
+
+“... Yes,” Xia Lin agreed.
+
+She met Meizhen’s eyes over the girl’s shoulder. Her friend tilted her head and nodded. She would help keep things running smoothly.
+
+“So, Miss Xia, do you think you would like to see a demonstration of some of their abilities?” Ling Qi asked politely.
+
+“That seems agreeable, Miss Ling.” Xia Lin’s brief moment of confusion disappeared behind professionalism again.
+
+“I have not had a chance to see your spirits’ growth either,” Meizhen mused. “Excepting Hanyi’s performance, of course, which was impressive.”
+
+Hanyi beamed up at Meizhen.
+
+Xia Lin looked to Meizhen in askance, but it was Ling Qi who answered the unspoken question.
+
+“Hanyi has begun singing at local concert halls. I would be happy to invite you at some point,” Ling Qi said.
+
+“I will consider it,” Xia Lin replied.
+
+“You should definitely come, and buy a recording carving too! The prices are really good,” Hanyi invited cheerfully. Ling Qi supposed she couldn’t expect Hanyi to be subtle yet.
+
+“Perhaps,” Xia Lin said noncommittally before turning back to Ling Qi. “The demonstration?”
+
+“Right. Zhengui might be the best to start with. Am I right in assuming that you prefer the front lines, Miss Xia?”
+
+“I am a vanguard,” Xia Lin replied with a touch of pride. “My role is to charge into enemy formations and disrupt their cohesion and group arts so that the main force’s assault is more effective.”
+
+Something like that did sound useful when fighting the cloud tribes. “Well, how about that. I think Zhengui and you will be a compatible front line. Little brother, what would you say your role is?”
+
+“I, Zhen, am the center of attention who enemies cannot ignore even as Big Sister freezes and breaks them,” Zhen said, arching his body proudly. “I, Zhen, am very tough.”
+
+Ling Qi struggled to keep herself from laughing at his preening.
+
+“Zhen should not forget that Mister Avalanche says that we are”—Gui closed his eyes in intense concentration as he worked to recall the words—“terrain manipulation and hard point generation specialists.”
+
+He looked proud of himself for remembering the whole thing.
+
+Off to the side, Meizhen had begun to ask Hanyi about her plans for future performances and potential wardrobes. Ling Qi was thankful that her friend would keep Hanyi from feeling left out.
+
+“A valuable skill set indeed,” Xia Lin said, glancing Ling Qi’s way. “Although I have heard that Miss Ling is hardly as fragile as her skills might imply.”
+
+“Well, it’s not all her,” Sixiang said. “I am pretty good at making sure nothing nasty sticks to her.”
+
+“But I am proud of my endurance, yes. All the same, every foe who Zhengui occupies is one less diverting my focus from offense and controlling the battlefield.”
+
+“I can see the efficacy,” Xia Lin noted, “particularly with the Young Mistress’ power backing it up.”
+
+“Lady Cai has not often had the opportunity to fight with us,” Ling Qi admitted.
+
+“Gui thinks it would be fun though!”
+
+“With any luck, it will remain so off the training field,” Xia Lin said. Ling Qi could tell that she didn’t believe it, but she couldn’t blame her. Their destination was well off the map, far from lands that any imperial cultivator had even tentatively tamed.
+
+“We can definitely hope for it,” Sixiang said brightly. “Plenty of spirits can be brought down with a quick tongue and a little cajoling. Not every confrontation has to end in blades.”
+
+“Perhaps,” Xia Lin repeated. “Just the same, wild spirits are not the same as those with a close connection to humanity, barbarian or otherwise. Some violence is inevitable.”
+
+“Not untrue,” Ling Qi said, giving Sixiang an internal nudge. “In any case, would you care to test some of Zhengui’s constructs for yourself, Miss Xia?”
+
+Xia Lin gave a small smile as her halberd vanished from her back and appeared in her hand. “If Zhengui is amenable.” She gave the weapon a casual twirl before bringing it to rest on her shoulder.
+
+Zhengui was, of course, always happy to show off.

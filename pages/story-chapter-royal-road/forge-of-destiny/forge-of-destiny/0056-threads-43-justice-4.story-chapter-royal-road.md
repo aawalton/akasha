@@ -1,0 +1,107 @@
+---
+id: 2e7e32b8-faca-582a-9055-9f97070dce55
+page-type-slug: story-chapter-royal-road
+title: "Threads 43 Justice 4"
+slug: 0056-threads-43-justice-4
+partOf: forge-of-destiny
+position: 56
+ownLength: 2748
+unit: words
+publishedAt: 2021-01-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/622930/threads-43-justice-4"
+royalRoadId: "622930"
+---
+
+Ling Qi felt the familiar fluctuation in the radiant qi emanating from Cai Renxiang’s blazing sword, the unstoppable pulse that could tear up even the roots laid down by her Thousand Rings Unbreaking. So as the upward slash launched the Bai up and back, hurtling backward through the air with his guard broken, she was prepared. Almost without thought, she followed up on her liege’s attack.
+
+She flickered through the sky, carrying with her the corona of winter cold and the echoes of the frozen melody passed down to her from Zeqing. Behind them, the fading phantoms of her festival howled a cheer and raised their cups even as they wavered and faded into twinkling light and moonmist. Her enemy felt the chill of her presence first and tried to twist in the air, but the momentum of her liege’s attack was not yet spent, trapping him in its trajectory.
+
+Ling Qi’s hands grasped his shoulders, and for a single moment that seemed to stretch on far longer, she met his golden eyes, so much like those of her best friend, as he half-turned his head. The Call to Ending fell from her lips. It was not so much a note or a melody as its opposite, a deafening, all-consuming silence impressed upon the world.
+
+The insidious chill of the Hoarfrost Refrain in his blood flared up and his skin split open, weeping half-frozen blood. His veins burst and his lungs contracted in the impossible cold. She saw his eyes mist over with crystals of frost. Sharp spikes of stony qi erupted from his back, his last wild retaliation slamming into her chest. It threw her back, and she caught herself as it flung her to earth, skidding backward on her heels and digging furrows in the earth as his frozen, stiff-limbed form flew overhead, no longer resisting the force of her liege’s technique.
+
+The wound in her side throbbed, the burning pain penetrating the veil of adrenaline and enhancing techniques, and Ling Qi felt Sixiang begin to weakly whisper something, but she had no time to listen. She had barely a moment to turn as she heard the sound of tearing roots and a mental roar of hate and anguish. Several tons of furious snake slammed into her raised arms and drove her into the dirt. She tried to flicker away but found herself unable to, shackles of black earth bound her to the physical world as she strained to push back against the blunt reptilian snout plowing her into the bleached dirt. Rock and sediment parted beneath her, sharp edges ground against her back and wore at even the steel-strong threads of her gown. The wound in her side screamed, and something in her right forearm splintered as the world blurred by outside the meters-deep furrow in the earth being plowed by her body.
+
+It ended when a ray of light fell from the sky like the wrath of the heavens and brought her assailant to an immediate halt. As Ling Qi’s movement came to a halt, her fingers digging into hard packed and inert earth to halt her momentum, she saw the light fade, revealing Cai Renxiang kneeling atop the thrashing snake’s head, her blade driven down to the hilt in its skull. Tendrils of light, taut as cables, dug into the earth on either side, the anchors that had halted the beast’s momentum.
+
+Ling Qi rose to her feet, gritting her teeth as she clutched her throbbing forearm. Though the limb remained straight, she could feel the break in the bone, shards digging into the surrounding muscle. The wound in her side burned fiercely as well, but it did not spread further, the poison inert or…
+
+<Sixiang?> Ling Qi hissed in alarm, even as her eyes darted back and forth across the battlefield, searching for signs of threat.
+
+<Still here, boss. Poison jumped to me when I tried to get rid of it. What kind of nonsense is that, huh?> her muse laughed weakly. <Gonna… Gonna take a nap now.>
+
+“Ling Qi, do you require assistance?” Her eyes snapped over to Cai Renxiang as the girl stood. There was a wet sucking sound and a spray of blood as she stood, drawing her saber out of the skull she had sheathed it in. Not a droplet touched her, the liquid boiling off before it could mark Cai’s gown or skin.
+
+As Ling Qi forced herself to return her breathing to a stable pattern, she looked inward in alarm. Sixiang was still there, diminished, reduced in a way that was hard to describe, but the poison seemed to have run its course in both of them. “I’ll keep,” she replied shakily. “I… I got him?”
+
+“You did,” Cai Renxiang said, floating off of the still-twitching corpse under her feet. Her right arm was covered in ugly acid-like burns, the skin darkened and split open in bloodless gashes, but she showed no signs of pain, save for an almost imperceptible tremble in the fingers clenched around her sword’s hilt. Ling Qi followed her gaze back toward the start of the furrow she had made in the earth where a tangle of stiff limbs jutted up at odd angles from a pockmark in the bleached earth.
+
+Ling Qi felt her vision swim, and her stomach contract. She tasted acid in the back of her throat. She’d killed him, and he hadn’t even been the first, had he? It was funny. She knew she had caused many deaths indirectly, and she knew she had done so much harm in the time before. But she’d really outdone herself today, hadn’t she? It had seemed like nothing in the moment, no more than reacting to an advantage in a duel, but how many people’s lives had she ended today?
+
+Ling Qi felt her balance desert her, and for a moment, the dirt beckoned. Something caught her though, and she looked up to see Cai Renxiang as the girl’s unburned arm slipped around her shoulders. Most of her light had faded, and Ling Qi found herself surprised out of her thoughts as she saw the look of unreserved sadness on the heiress’ face.
+
+“Come along then. It is time to carry out the duties of victory,” the other girl said quietly. “Hold yourself together for a time yet. The violence is over, but the battle continues.”
+
+Ling Qi understood distantly what Cai Renxiang meant. They still had to oversee the return to the village. She laughed, and it was a hollow sounding thing.
+
+Hadn’t Xiulan told her all the way back at the beginning? Appearance was strength as well. She nodded and forced her wobbling legs straight and the bile in her throat back down. That could come later.
+
+She could not bring herself to speak much in the aftermath despite that. Instead, she fell back on her old standby, copying her best friend’s aloof and distant manner, clutching to it like a desperate mask even as her emotions churned underneath. She allowed it to crack for Zhengui, wrapping his gigantic head in a hug as he worried over her wounds and stewed in regret that he hadn’t been able to help more. Hanyi needed no reassurances, skipping away from the battlefield like a child coming home from the park.
+
+The soldiers regarded her with a wary respect as they loaded up the surviving bandits onto open wagons which came rolling up sometime later. The armored woman had been stripped of her talismans and bound in chains of clear crystal that glowed with powerful formations in her senses, but the spindly man lay dead in the dirt, his eyes empty. She watched him dragged into a pile with the rest of the dead as she sat stoically under the ministrations of the nervous physician that had accompanied the wagons.
+
+As her arm was splinted and the wound on her side dressed, she watched the dead burn in a pyre of unnaturally hot flame born from talismans carried by the soldiers. She watched as a man with a jangling staff like Xuan Shi’s marched around the pyre, murmuring prayers and planting golden sutra scrolls on the hastily raised posts that marked the boundary of the pyre. Bandits deserved no honor, but the potential danger of angry spirits still needed to be contained.
+
+The Bai was not among those burned. His remains were sealed away until it was decided what needed to be done with them. For once, Ling Qi found that she had no interest in a defeated foe’s gear.
+
+She barely found herself able to care about the tablet of white jade containing her arts. She browsed listlessly through them as the soldiers did their grisly work. There were many arts within, most in the first and second realm, the sort of things necessary to get a family started. Ling thought that she would have to work with her mother to see which cultivation art fit her best. There were a handful of potential arts for her that she would have to study later when she could concentrate. The Cai had truly been generous in putting together such a comprehensive and no doubt expensive art library for her. This alone would probably ensure that her family and descendants, if alive, could maintain a Baroness rank.
+
+It was a relief when an enclosed carriage finally rolled up to take her and Cai Renxiang back, along with the most important of the stolen items.
+
+As the door of the carriage clicked shut and the frame flashed white, activating the privacy arrays laid throughout the structure, Ling Qi finally allowed herself to fall to her side with a thump on the long, padded bench. Zhengui and Hanyi were still outside; she could feel the rumble of his footsteps. Cai Renxiang sat across from Ling Qi, her arm swathed in bandages arrayed as perfectly as the poor army physician could manage.
+
+“What are they going to do with the rest of the bandits?” Ling Qi asked.
+
+“I think you know,” Cai Renxiang said, her hands folded in her lap. The black-sheathed saber lying across her knees purred like a contented cat. “The sentence for banditry is death.”
+
+Ling Qi nodded faintly, not sitting up. The splint on her arm was stiff and uncomfortable. She would be glad to get it off after they got back to a larger settlement with more medical resources. Ling Qi couldn’t help but be bitter at the thought. She really had changed, hadn’t she? No wonder she had been able to act so easily.
+
+“It is always a shame when lives end, but we do not live in so kind a world that it can be avoided,” Cai Renxiang said, as if hearing her thoughts. “You did your duty well.”
+
+“I suppose I did,” Ling Qi said. It was amazing how fast things could change. How long ago the whimsical trip with the moon sisters seemed now. She thought of dirty streets and lives ruined. What difference was there between her and a bandit, save scale?
+
+“Why are you so unbothered? Did your mother have you kill someone already under her watchful eye?” She knew that was cruel and unfair, but she couldn’t find it in herself to care.
+
+“I have watched many executions,” Cai Renxiang admitted, absently running her fingers along the sheath of her saber with her eyes downcast. “And I have seen the deaths wrought by waste and corruption. But today is the first day that I have taken human life with my own hands.”
+
+“Then why? Do they just not matter because of who they were?” Ling Qi shot back.
+
+“They matter, and their victims matter, and the soldiers matter,” Cai Renxiang replied sharply. “I am calm because I know that I have been responsible for uncountable deaths, merely because of who I am. I am the heir to Cai. Every man or woman dead to bandits, every executed criminal, every soldier, and every person who has met their end to privation or carelessness under my family's rule is my responsibility. It does not matter if their end came at the stroke of a pen, a headsman’s axe, or burned away by my light. The blood is on my hands all the same. That is what it means to be a ruler.”
+
+“That’s a little arrogant, isn’t it?” Ling Qi asked. “Even your mother can’t be everywhere. People make their own choices, no matter who is in charge at the top.”
+
+“Of course they do. Yet every choice they make is informed by the society we build. We who rule construct, shape, and execute the systems under which our people live their lives and make their choices. If our people are slain by foes, it is because we did not protect them. If they starve, it is because we have not provided for them. If they turn to crime, it is because we have failed to provide a virtuous path on which they can live.”
+
+“It’s not that simple,” Ling Qi said, finally sitting up. “Even perfectly comfortable people will do evil things.”
+
+“Perhaps that is true of some petty crimes and acts of passion,” Cai Renxiang said steadily. “But near a hundred men and women do not turn bandit without the pressure of a ruler’s failings. The world does not allow us to have mercy for bandits, but the world does not need to be one where bandits exist. The world is far from that state. To protect those who you come to rule, you will be forced to confront your failures and the failures of your neighbors. But you must remember. We can improve. The world is ours to shape, and just as vice arises from vice, virtue arises from virtue.”
+
+Ling Qi clenched her fist, remembering staring eyes and frozen limbs. She remembered a dream and bloodstained fangs. “How can you be so confident? If it’s all down to failure of the ones who rule, do you think that you’re better than all the ones who came before?”
+
+“I think that I may only strive as high as I do because of their successes,” her liege replied, and Ling Qi remembered a veiled spirit, speaking wistfully of packed streets as if they were an accomplishment in and of themselves. “This is not a goal that can be obtained in one person’s lifetime, even a cultivator’s. We must act…” Cai Renxiang paused then, furrowing her brows.
+
+“Cai Renxiang?” Ling Qi asked, forgetting in the moment to use her title.
+
+“I have perhaps realized something,” Cai Renxiang said distractedly. “Regardless, Ling Qi, you acted to defend and avenge our people today. However painful you found it afterward, you did not hesitate when it mattered. I know more surely than ever that I did not choose wrongly in extending my offer to you. The path I have chosen is not one that can be walked alone. No matter how I strive or how strong I grow, the world will not bend to one woman’s will. Not for long.”
+
+“I think I understand,” Ling Qi said quietly. To change things, for better or for worse, one had to be prepared to fight. They had been reactive today, but in the future, that would not always be true.
+
+“If that is so, I will ask you again,” Cai Renxiang said seriously. She met Ling Qi’s eyes unwaveringly. “If your answer has changed, then I will find you another task that is not so onerous. Will you continue to support me, Ling Qi?”
+
+Ling Qi lowered her hand to the wound in her side. She knew that the men she had killed today would not have hesitated to kill her in turn. She thought of a burning pyre consuming the dishonored dead. She thought of the new graves being dug outside the sacked village and the ruined fields that she knew would leave hungry bellies come winter. She thought of Tonghou’s miserable streets and the eyesore of a brothel in which she had once dwelled. She thought of brutal guards and gangs and nights spent in the cold. She hated it all.
+
+She couldn’t forget the sickness that she felt as the results of her actions had caught up with her. She hated that feeling too, just as she had hated the taste of blood in her mouth after the Bloody Moon’s dream. If it was possible to make such things unnecessary…
+
+She would just have to try.
+
+“Yes.”

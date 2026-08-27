@@ -1,0 +1,165 @@
+---
+id: 73453b3e-5136-5ffc-adbc-c7b46157e838
+page-type-slug: story-chapter-royal-road
+title: "Threads 279-Sea of Dreams 3"
+slug: 0317-threads-279-sea-of-dreams-3
+partOf: forge-of-destiny
+position: 317
+ownLength: 2644
+unit: words
+publishedAt: 2023-01-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1098110/threads-279-sea-of-dreams-3"
+royalRoadId: "1098110"
+---
+
+She wasn’t going to be caught again. Not like she had been with the fox.
+
+“Xuan Shi, we’re going to move much faster now,” she warned. The pressure of the voices scratching at her thoughts was growing now, and the mineshaft rumbled and contorted, bending all around them. Ling Qi flickered, appearing on top of Zhengui’s shell, and offered a hand down. “Hop on.”
+
+He looked at her for a moment and then clasped her forearm. His bulky ceramic gauntlets were cold from the chill of her presence. She hauled him up with her.
+
+“Aw, c’mon, chickening out already?” Kongyou taunted. “But my cousins want to play!”
+
+“It isn’t your cousins I’m worried about!” Sixiang shouted back over the noise in the tunnel. It sounded like a wailing wind, but it was so much heavier than that.
+
+Ling Qi let the bickering wash over her without comment as Zhengui began to amble forward. A cold and sparkling mist flowed from her sleeves and the hem of her gown.
+
+It was one of the earliest promises she made in her cultivation, back before she had ever even heard of domains or names or laws. In her breakthrough to the second realm, she had abandoned the dream of the infinite blue sky, unmoored wholly from the base earth. Sometimes she forgot. Sometimes, it troubled her. And sometimes, she failed.
+
+She wasn’t going to today. Her wings were strong. She would carry as many as she wanted to.
+
+Motion, she realized, was life and joy unobstructed by the chains of destiny. Wings beating in tandem could soar through even the most terrible storm.
+
+Wind erupted as the thought crossed her mind, and they shot down the tunnel past shapes and images of suffering in the dark, the death of peoples and the cruelty of tribes and kingdoms and empires. Inevitability crushed down upon them like the pressure of the ocean. This inescapable fate was one that humans built for themselves.
+
+Beside her, Xuan Shi hunkered down, one hand on his hat, but under the wide brim of his hat, she caught a glimpse of his dark, inhuman eyes. There was a resolve there to match her own.
+
+The rings on his staff chimed over the wind, and the slots on his gauntlets glowed with heat and power as ceramic plates began to fly out, two, then four, quickly passing beyond counting. The plates assembled, mathematically perfect edges meeting in a sharp prow that parted the air before them and a hull to protect them from lashing wind and the grasping claws of inchoate nightmares.
+
+Beneath them, Zhengui’s shell vibrated as her little brother ceased flailing in the wind. There, too, was determination: to protect, to never fall behind, and to never be a burden. Trunklike legs and blunt head withdrew into a stony shell, and even the body of the serpent pulled in, retracting until there was only a dull volcanic glow. And then came heat, a blazing heat that turned crystalizing mist into a churning vortex of wind as flames erupted behind them, fiery orange and verdant green.
+
+Ling Qi steered their vessel through the vortex. The ceramic ship that encased them crackled as dark spirits burned away on contact, leaving only three hexagonal holes from which the cones of life-flame could erupt.
+
+In the howling darkness, Ling Qi came to know the true name of the Nightmare on whom they tread for every cry and broken spirit bore its brand. The name of the Nightmare was the Forever King who whispered sweet despair and acceptance into the ears of the weak and mighty alike. It was the brother of the beast called Other, who bound and blinded men with self-forged chains. The past demanded repetition. It required them to walk ever in the grooves carved by feet that were long since dust.
+
+But the vice of such a beast was always sloth. Its grasp relied upon acceptance and isolation.  And freedom grew only when shared because one alone is only ever as free as the strength in their arm allowed.
+
+They erupted from the side of the mountain in a plume of dust and mist and fire, the mountain quaking behind them. It rumbled, it shook, and it cried, a million voices and more rising in accusation that in defiance, they only gave it strength, and that in seeking change, they could only worsen suffering. To deny the inevitability of conquest was only an act of extending its reach.
+
+“And yet, there is no path which does not lie in defiance.”
+
+She glanced at Xuan Shi, who now floated beside her, carried up on the soaring wind that came from the tug of earth’s law. Their ship came apart, a scattering cloud of whirling plates, and all of them were momentarily suspended in the crisp, cold air.
+
+All the world stretched out around them, a cloud-filled sky and mountains without end, stretching like a rumpled blanket of ice and dirt and stone a thousand kilometers below. There, on the far horizon, lay the sun and the rays of the dawn.
+
+“The only thing worse than trying is acceptance,” she agreed, fixing Kongyou with a glare.
+
+The nightmare spirit, tumbling and currently upside down in midair, merely sniffed. “If it were that easy, I wouldn’t exist.”
+
+“If it were impossible, I wouldn’t exist,” Sixiang shot back, clinging to Ling Qi’s back like a cloak.
+
+Behind them and far below, the mountain and the mineshaft shook violently, swelled, and burst apart. A cloud of numberless glittering wings took flight in every direction, and a massive hole, bearing a terrible resemblance to a great mouth, snapped shut and vanished into a rising cloud of dust that quickly concealed the earth behind.
+
+“The horizon is beyond this one's poor words,” Xuan Shi said. He, alone out of all of them, had righted himself, standing upon an assembled platform of plates, his boots locked to the ceramic surface by crackling qi.
+
+Ling Qi considered the view herself, the great rolling line where mountains touched the great blue sky, forming the line between heaven and earth. The infinite, painted colors of dawn washed over the stone. There was a crisp chill in the air, and the wind that blew past her falling frame. She reached out and brushed her hand against Zhengui, and the world twisted, their frames fading into shadow and dissolving until she stood atop his back, her little brother now falling belly down, his heads just poking out of his shell.
+
+“It’s a sight worth a song,” Ling Qi said, her voice easily penetrating the roaring wind. Her eyes picked out shapes in the distance, distinct from the fabric of the mountain. There were towers of iron, towers of ice, and great bonfires, shards of sunlight embedded in the ice and stone. She pointed toward a tiny, distant silhouette. “This way!”
+
+Xuan Shi nodded, squinting into the distance to follow her point. He extended his arm, and the tumbling Kongyou  landed on his arm like a hawk.
+
+And they fell and fell, guided onward by the wind.
+
+***
+
+“That wasn’t just a nightmare of the past, was it?” Ling Qi asked as she stepped down from Zhengui’s shell, her feet lightly brushing the snow on the mountaintop without making any impression.
+
+“Of course it wasn’t,” Kongyou replied. “You don’t seriously think your buddies, those Wang guys and your Sect, are nice to the ones they conquer, do you?”
+
+The trip down had been peaceful and beautiful, but it was impossible to truly put the nightmare of Conquest from her mind. A large part of her wanted to refute Kongyou’s words and argue that the cloud tribes had always, always inflicted horrors on the people of the Emerald Seas. It was even true.
+
+She just wasn’t sure how much that truth weighed.
+
+“Conflict and conquest are horrors to those who lose. That is why one resolves to see other resolutions. This one thinks that can must come before should,” Xuan Shi said. “The road of peace is long.”
+
+The difference between can’t and won’t was a dangerous line to tread, a tightrope above the jaws of a monster. She did not yet have enough hands.
+
+Kongyou gave a throaty, satisfied chuckle. “It doesn’t take long to come back down, eh?”
+
+“It is fine to keep one’s eyes on the road, so long as the horizon remains in the mind,” Xuan Shi said thoughtfully. “Whence do we go now, Lady Ling?”
+
+“Ling Qi,” she corrected, peering down the mountain slope. A number of structures were visible, cradled in the valley between the mountains. A narrow and spindly tower of gray iron leaned precariously over the edge of a crumbling cliff. Crows gathered on its balconies and ledges and circled above, uncaring for the cold. Their croaking voices made for a distant background.
+
+Beyond the crooked tower which stood at the entrance of the valley, the sky was filled with rumbling clouds, bloated and heavy with thunder, from which freezing rain poured. The little river that flowed through the far distant bottom of the valley was already swelling and overflowing its banks, but the storm was not uncontested. Blizzard winds blew, cutting scything paths through storm-blackened clouds, and the unnatural mixing of the weather birthed whirling columns of air that tore and shredded away great chunks of stone and vegetation.
+
+Before the valley, beside the swelling waters, and sitting beneath the crooked tower was a humble little hut with walls of piled stone and a rounded straw roof. A flimsy aging fence lay across the mouth of the valley, and no wind or hurled stone passed its perimeter.
+
+Ling Qi squinted, eyeing the crows. The crows did not pass the line of the fence either. Indeed, their flocking seemed to make a barrier of its own.
+
+Ling Qi’s mind could not help but go to the gods of the southern lands.
+
+“I think we should be cautious and not go beyond the fence,” Ling Qi said slowly. “We haven’t made peace yet after all. Let’s introduce ourselves as good guests should. Seeking hospitality is better than wandering freely here.”
+
+“There are discoveries to be made in both the wilderness and hearth,” Xuan Shi acknowledged.
+
+“Just gonna stick your head in the tiger’s mouth again?” Kongyou asked.
+
+“Hey, if it keeps working, why not?” Sixiang responded flippantly.
+
+“There are paper tigers and actual tigers,” Ling Qi said. She glanced back at Zhengui. “Are you alright, little brother?”
+
+Zhen flicked his tongue, the volcanic heat making the cold air shimmer. “I, Zhen, have no idea how we did that.”
+
+Gui looked disgruntled. “Gui did not think he could make fire like that.”
+
+“I, Zhen, do not think slow Gui can,” his other half said dubiously.
+
+Ling Qi pondered that. “It’s easier to experiment here,” Ling Qi explained. “But if you can do it here, I don’t think it’s out of reach in the waking world.”
+
+“This one might offer some small insights?” Xuan Shi offered.
+
+Zhen looked dubious, but Gui snapped his jaws once. “Gui does not think he could have shaped the flames right without the Carver making his ship. If he wants to talk, Gui will listen.”
+
+Xuan Shi nodded, looking unaffected, but Kongyou sighed in disgust. "When we return then." .
+
+That was the benefit of the liminal. For all its dangers, it was unmatched in allowing one to push their limits. Ling Qi idly took hold of the wind, and it was so easy now to call up the mantle of the wind thief, to speed along on the currents, and to dissolve and become them. At her mastery of breezes and squalls, of shadow and night, few could tell where the wind ended and where she began, and even fewer beneath the wielders of Law could contest her.
+
+They stepped down from the peak onto a fractal platform of ice like a snowflake writ large that bloomed under their feet. They began to descend like that, drifting loosely on the wind. The bottom of the valley was very barren, the rocky soil growing only small tufts of scrub grass and very scraggly trees.
+
+As they floated to the earth, the hut came into greater focus. It was a tiny little thing, only big enough for one or two people. It was made of smoothed stones fitted together without mortar, and it was roofed with a shallow cone of straw, a small hole at the top letting off little wisps of wood smoke. The worn old fence behind it extended out across the entrance to the greater valley and curved forward, surrounding a cluttered yard. There was a little patch of garden growing some strange root plant Ling Qi didn’t recognize and a washing line, over which hung a much patched and nubby blanket. An empty bucket with ice crystals lining its interior lay by the door, and a rusty old ax was buried in a gnarled stump that sat beside the wood pile. A single, highly scrawny chicken with ancient graying feathers pecked and clawed at the ground, clucking aimlessly.
+
+It was, by all appearances, a very humble hovel.
+
+“But we all know what appearances are worth, eh?” Sixiang quipped.
+
+“They hold some value, informing that which one desires others to see,” Xuan Shi noted.
+
+There is that,” Ling Qi agreed.
+
+What was it then that the master of this place wished them to see?
+
+Harmlessness. Almost comical harmlessness. Or perhaps… mundanity.
+
+Ling Qi stepped up to the fencepost which marked the beginning of the property. She recalled some bits of etiquette she had picked up in idle conversation with the foreigners of the southern lands and what she had learned of their tongue.
+
+“We tired travelers have come from far lands through cold and danger. May we rest ourselves beside your fire and partake of your bread?” she asked, stumbling over some of the harsher sounds in the foreign tongue
+
+She asked for common guest right with no aspersions of power or nobility. If this spirit or god wished to play this role, she’d not try to peer behind the stage.
+
+Silence answered her Even the chicken stopped its clucking, looking at them with vacant eyes. Ling Qi kept a wary eye on the little beast.
+
+The silence went on and on until finally, Ling Qi sighed and turned away. “I’m sorry, Xuan Shi. I’ll have to find another place to show you something of the White Sky from.”
+
+“Oh?” Xuan Shi tilted his head.
+
+Kongyou criticized, “You give up so easily.”
+
+“Guests shouldn’t be too pushy,” Ling Qi said simply.
+
+But she caught the faint creak of unoiled hinges and the scrape of wood on stone. Perhaps it had been a test. Perhaps the spirit was simply slow to rouse. Ling Qi wouldn’t question it.
+
+She did, however, pause when she saw Xuan Shi’s wide eyes, looking over her shoulder. It struck her qi senses first. It was a cold stillness, absolute and total, like the deepest darkness within her master Zeqing’s old manor. It was like her call of ending, but it was simply there, looming and present rather than a swiftly passing shadow.
+
+She turned and saw a hand large enough to grasp her full around the waist on the doorframe. Iron nails clacked on the wood. The skin she could see was a black and deep ugly purple, the color of bruises and frostbite, wrinkled and cracked so deeply that she could see flexing muscle and iron bone peeking through. The hand connected to a thick arm wrapped in roughspun linen that reached back into the darkness of the interior.
+
+“Don’t mind my deafness, children.” The voice was a rasping crackle like fast forming frost and the squeal of deforming metal. “If you would like fire, you’ll have to bring in the wood.”

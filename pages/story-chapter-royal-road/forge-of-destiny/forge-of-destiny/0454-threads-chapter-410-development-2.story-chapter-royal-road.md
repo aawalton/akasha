@@ -1,0 +1,167 @@
+---
+id: c4c1e0df-f378-5888-9224-fb7b862b48bb
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 410-Development 2"
+slug: 0454-threads-chapter-410-development-2
+partOf: forge-of-destiny
+position: 454
+ownLength: 2339
+unit: words
+publishedAt: 2024-10-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1873027/threads-chapter-410-development-2"
+royalRoadId: "1873027"
+---
+
+The air was cool, crisp, and dry out away from the lakeside, brisk with the promise of oncoming winter snows. There were many small paths now snaking out into the farmlands and pastures. Closer to the center of the settlement, they were laid with gravel, but most were simply packed earth, cut and leveled, the barest beginnings of drainage paths planned at their edge. The pastures were not a grand sight, merely a series of small outbuildings dotting the hills to hold equipment and supplies within a simple but well warded fencing that followed the rolling elevation of the landscape.
+
+She'd sent a messenger ahead while they toured the gardens of the manor properly, and soon they were off, splitting from Zhengui as he trundled off toward the distant flumes of the geyser he had made. Hanyi was humming behind her as the spirit pushed her chair along the path, and Ling Qi could see her craning her neck and squinting up at the higher hills and low peaks in the distance with a scrunched up expression.
+
+"Everything alright?" Ling Qi asked.
+
+"I'm just getting a feel for this stage," Hanyi explained. "It's a lot like the places north of here, all disordered. There are big spirits, but they're just kinda flopped out, doing what they do. I bet if Big Sis helped show them what a proper winter lady I am, I'll have this place whipped into shape in no time!"
+
+"We haven't gotten to sing together in awhile, have we?" Ling Qi mused. She had wanted to focus on the refinement of her successor art to Master Zeqing’s song, but the summit simply hadn't given her many opportunities to do so. The icy air up there would probably be good for her recovering meridians, too.
+
+"Yeah, that sounds fun! Even if Big Sis is a bit crispy, she still has a voice to listen to. Now… Oh, look at that!" Hanyi's voice rose into a piercing squeal as she pointed past Ling Qi's head up toward the top of the hill that lay beyond the gate of the pasture.
+
+There, staring down at them, was what looked almost like a living cloud. The sheep was about half as tall as a human and nearly twice as wide when accounting for the curling, wobbling fleece projected in every direction. The fleece was all clear and white, only barely marked by dirt and dust on the lower edge where it nearly swept the ground around the beast's hooves. Its pupils regarded them with blank disinterest as it chewed on a tuft of hardy mountain grass, oblivious to the qi pouring off her junior sister from excitement.
+
+"Hanyi," Ling Qi chided gently. "Don't scare her."
+
+She was pretty sure that she'd just stopped her junior sister from leaping the fence.
+
+"Yeah, please don't. I don't wanna have to chase the puffball down."
+
+Hanyi huffed, pushing Ling Qi toward the gate, looking up at the new speaker. "I wasn't gonna."
+
+Ling Nuan had appeared at the top of the hill beside the sheep, one hand sinking deep into the fluff. "’Course you weren't. You gonna be okay out here, uh, clan head?"
+
+"Ling Qi is fine," she corrected, holding up a hand to Hanyi as they approached the gate. She reached into her storage ring and drew out her cane, rising heavily to her feet with only a little sway. Hanyi hurried to grab onto her arm, giving her some steadiness. "I needed exercise, so this is fine."
+
+Ling Nuan eyed her critically but didn't disagree, descending from the hill to open the gate for them.
+
+"You were right. That breed is adorable," Ling Qi said, wobbling briefly as she picked her way through the gate under the creature's impassive gaze.
+
+Ling Nuan nodded. "It's a good breed. Highly sought. Their fleece is wind-imbued and light so they can grow it out a lot more before it starts to tear their skin from the weight. And it makes really breathable cloth."
+
+"Definitely the proper reasons for the choice," Ling Qi said agreeably as they ascended the hill.
+
+She gave Hanyi a nudge and a nod, and the young spirit nearly vibrated as she dashed up the hill to get a closer look.
+
+"They are real huggable. They don't even mind much," Ling Nuan replied reluctantly. "But they have their troubles, too."
+
+"Oh?" Ling Qi asked, watching Hanyi almost disappear into the floof, giggling to herself.
+
+"A strong wind can pick 'em up and blow 'em around like dandelion seeds. They land soft, but they also can't get back up if they land on their sides or backs. Gotta watch 'em close. They can pick up static something fierce, too."
+
+"That would be a problem." Part of her wanted to see it happen. The thought of a dozen odd of these big puffballs drifting overhead was strangely adorable. "Does the whole herd have these properties?"
+
+"More or less. The more mortal sheep won't outright float and don't get as fluffy, but they'll still get dragged and knocked over by the wind sometimes. Even mortals can handle them though. Been training the herders in how to loop a floater and pull them back down."
+
+"H-hey, stop that!" She heard Hanyi yelp as she hobbled up the hill, Ling Nuan hovering nearby. The young girl had been patting the beast's head, only for the sheep to decide she wanted to start chewing on Hanyi's sleeve. Her junior sister could easily pull free, but she could see Hanyi was worried about “damaging Big Sis' stuff.”
+
+"Ah, just a sec, just a sec." Ling Nuan trotted up beside Hanyi to grasp the animal's muzzle and scold it, allowing Hanyi to jump back with her sleeve intact.
+
+Cresting the top of the hill, Ling Qi looked out over the rest of the pasture where she saw men and women guiding little clouds over and through the hills, and there, yes, was one drifting along several feet off the ground, legs kicking lazily. That one was caught by the crook of a shepherd's staff and pulled back to earth.
+
+Hanyi grumbled, looking less enthused as she fingered the hem of her sleeve. The sheep stared unapologetically back, mind empty but for contentment and a mild, lazy hunger.
+
+"How have you been though, Ling Nuan? You left pretty quickly."
+
+Ling Qi looked down at the beast sternly, meeting those barred yellow eyes without blinking. The sheep lowered her head, Ling Qi reached down and patted it, sinking her hand deep into the heavenly-soft fleece. She'd expected a certain scratchiness, but it was smooth as silk. Her dangling sleeve, centimeters from the sheep's muzzle, remained unmolested.
+
+Hanyi puffed out her cheeks in annoyance.
+
+"Nothing on all of you, but I think better when I'm moving, and I have a lot of stuff to think about." Ling Nuan shrugged. "I like this place though. Can see it being home."
+
+"How much longer do you have for your leave?"
+
+"Till the end of the month. Then it's back to sect duty, though I might see you for the big offensive, huh?"
+
+"Maybe." Ling Qi leaned on her cane. "I'm glad you're enjoying this though."
+
+"Am I?"
+
+"You are. You don't usually smile like that," Ling Qi said knowingly.
+
+Amusingly, Hanyi was attempting to stare down the sheep now. Ling Qi wasn't sure her attempt was having the same success.
+
+Ling Nuan grunted. "Even someone like me enjoys some peaceful days… But thank you. I can't say I was expecting the welcome I got. You've got me as long as I last."
+
+Ling Qi gave the sheep one more pat. "I don't call anyone sister too lightly."
+
+"I figured that out a while ago. No escape for me now, huh?"
+
+"None," Ling Qi agreed solemnly.
+
+Ling Nuan shook her head. "What'll you be up to for the rest of the month?"
+
+"Catching up with everything and everyone. Recovering. Touring the fief. Having tea with my sister in the afternoons."
+
+"Gotcha. Well, let’s get this girl back to her group. I can show you the care going on, and we can talk about the rams. We only got a couple, and you have to keep a real close eye…"
+
+Ling Qi nodded and followed Ling Nuan down the hill.
+
+***
+
+"Thank you for all of your hard work while I've been away," Ling Qi said. "I know it must have been even more fraught when Lady Cai left for a few weeks."
+
+Gan Guangli let out a booming laugh from beside her. That the soldiers down on the flattened patch of dirt outside the palisade barely looked up from their drill at the sound showed their familiarity with the other baron. "My friend, Miss Qi, you show how very privileged we are! A single third realm is the only cultivator many fresh baronies can rely on."
+
+Ling Qi let out a chuckle. That was true. An injury like hers… A normal baron might very well be ruined by it, everything they had worked to build consumed by the wilderness in a few short months. Then again, a normal baron would never have injuries like hers either. They would just be dead.
+
+"A fair point, but you have my thanks all the same, and Lady Cai's too, I'm sure. You and Xia Lin are very skilled at running the day-to-day affairs of the settlement."
+
+"I will accept your compliment." Gan Guangli leaned upon the railing of the balcony they were on. The polished wood groaned. The drillyard set on the west side of the manor was temporary and would be replaced with more gardens and outbuildings once a proper barracks had been arranged, but for now, it served their limited personnel well. He looked out over the manor walls into the curling mist and falling waters beyond "It is quite impressive, isn't it?"
+
+"Ah, have I given you a big head?" Gan Guangli grinned back, but Ling Qi knew what he was talking about. "It does feel dreamlike, seeing this all sprouting up at our command, doesn't it?"
+
+"It does. Soon, we shall be responsible for many people, far more directly than ever before."
+
+"We will." Ling Qi peering down. There were perhaps a dozen men all in the lower reaches of red, though two among their number were close to the second realm. It was a fair sized force given how low their actual population was, but given their location the ratio would be higher… and they could afford it, thanks to Lady Cai's advantages.
+
+"Is your family moving out here as well, once the housing is constructed?" Ling Qi asked.
+
+Gan Guangli's smile became strained. "Haha, my aunt, her husband, and my cousins will be enjoying my support, but it is difficult to ask them to uproot themselves. Perhaps in the future!"
+
+Ling Qi ducked her head. "My apologies. I was thinking of my own, and their impending arrival."
+
+"So I have heard. It will be good for the halls to be more lively!"
+
+"I suppose Xia Lin wouldn't be bringing anyone either," Ling Qi wondered aloud. The other girl’s position was still odd. Was the girl intending to found a branch clan here, or just remain a purely military figure?
+
+"I think so as well, but Miss Xia is not the most open. I believe she still finds me stressful!"
+
+"I'll have to ask her then.” Ling Qi chuckled. “My wiles are less overbearing."
+
+"Hah, perhaps. In truth, I have considered bringing my father out here."
+
+"Given what you had previously said, I assumed…" Ling Qi trailed off.
+
+"No. My mother passed away from illness some eight years ago, but I still have my father. Some days. He has problems, ones I wonder if I will exacerbate if I bring him here to live. I cannot even get him to directly accept coins. I pass my aid through my aunt, who ensures that he is taken care of, but dealing with my father strains her as well. Father has been difficult for a very long time."
+
+"I don't know the exact conditions," Ling Qi admitted. "So I won't give you advice, but… if you ever feel comfortable speaking about it, I can offer an ear."
+
+"It is kind of you to offer. I wonder how you ever have time for yourself with all the troubles you take on your shoulders!"
+
+"One should not accuse another of their own flaws," Ling Qi jested. "But it is not as if I will lack time. I still can't leave this blasted chair for too long."
+
+"My condolences." Gan Guangli raised his hand to wave down to the men as they finished their drill, receiving their salute with a grin. "I understand it must be interminable for you. But I think I have felt you attempting to cultivate?"
+
+"It is slow and halting, but I believe I will be able to start soon, even if I cannot fully use my meridians yet. The last fires in my dantian have been extinguished."
+
+At that, Ling Qi pushed her qi through a cleansing cycle. Each time the energy flowed through, it felt cleaner and smoother.
+
+"I am glad to hear that. Just because I can shoulder a burden does not mean I won't share it where I can!"
+
+"Of course, though I expect our duties will be different. There is more than rough work to go around."
+
+"Truer words have never been spoken. I'll be going down now. I need to pass out the new duty roster."
+
+Ling Qi smiled slyly. "You can tell them they'll be receiving spiritual defense training in the coming months."
+
+Gan Guangli clapped his hand over his chest, putting on an aggrieved look. "Ah! I shall inform them of their impending doom!"
+
+Ling Qi snorted as he passed her by, re-entering the manor.
+
+She was going to be capable of properly cultivating soon. She had to think on what ends she wanted to pursue beyond regaining what was burned in the General's flames.

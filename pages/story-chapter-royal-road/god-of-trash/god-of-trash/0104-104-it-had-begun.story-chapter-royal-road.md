@@ -1,0 +1,143 @@
+---
+id: bda0a67b-efb2-52fe-b575-2d235ad617a3
+page-type-slug: story-chapter-royal-road
+title: "104. It Had Begun"
+slug: 0104-104-it-had-begun
+partOf: god-of-trash
+position: 104
+ownLength: 2575
+unit: words
+publishedAt: 2025-06-18
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2367148/104-it-had-begun"
+royalRoadId: "2367148"
+---
+
+The battle was as swift as it was decisive. In a mere night, the Empress overwhelmed the Academy and flattened everything within. Although it sounded as if she bowled over the Academy and showed off her military might, it wasn’t much of a fight, truth be told. The Sword Saint had been summoned to the border, and the rest of the faculty, powerful mages, and even promising apprentices had beaten a measured retreat not long after the banquet, leaving a husk of a city behind. History would mark it as the beginning of the Empire’s invasion, but aside from that, there wasn’t much to say about it. There were no heroes, no bold final stands, no ferocious battles with life and death on the line. The Empire hammered the city from afar, then swept in afterwards to collect the refuse.
+
+And it was refuse that remained. The unprivileged, the weaker mages, those without connections or backing, and the flotsam of a dozen small schools who hadn’t gotten the notice to retreat in time; that was what was left. The sacrificial lambs, too weak to protest their own fate, were swept up by the Empire’s wave and dragged out to sea to die. They would be forgotten, naught but the nameless victims of a faceless war, their names wiped out from history, no more than a footnote’s worth of statistic.
+
+Those who survived, for some did survive, were dragged before the Empress. Forced to their knees. Faces pressed against the battle-stained deck of her warship. And, one at a time, the Empress harvested them, reaping the cores out of their body like ripe fruits from the vine, storing them in the raging heart of her warship, in the depths of her vault, or gifting them to her most loyal soldiers. The remains, now doubly refuse, were thrown into the mines. They no longer had cores, but they still possessed their powerful, resilient mage bodies; compared to true mages with cores, they were nothing, but compared to civilians, they were a powerful labor force, where one mage could perform the work of ten mortal laborers—a hundred, if their Tier had been high enough, and they’d invested enough into reforging their body.
+
+At the Empress’s side stood her trusted lieutenants and one young man, who had only just recently taken third place in the tournament. One after another, he watched as the mages he had battled against days earlier were forced to their knees and divested of their cores. No expression showed on his face. His uniform was neat, and his hair was perfectly tied back. There was no hesitation in his body, not an ounce, and why would there be? This was the way the world should be. Righteousness was being reasserted, the wild savages brought into civilization. There was no reason to hesitate, when there wasn’t a single shadow on his spotless conscience, when he was the force of good, the power of light, fighting back this primitive shadow.
+
+Thump. Another mage, driven to their knees. But for the first time, the young man’s expression shifted. He almost made to take a step forward, then halted, visibly restraining himself.
+
+The Empress paused. She looked at her young protégé, a ghost of interest on her face. “You know this one?”
+
+“Ma’am! He was a worthy contestant in the tournament!” Laurent barked, snapping a salute.
+
+“Is that so? Worthy of becoming one of my soldiers?” the Empress asked. She reached down and gripped the mage’s chin, lifting his head. A passable face stared back, a bland smile on its lips.
+
+“In my unworthy opinion… yes, ma’am.”
+
+She turned to the mage. “What do you say? This is a rare opportunity, and shouldn’t be taken lightly. I won’t give you a second chance.”
+
+Rhys let out a dry laugh. “With all due respect, ma’am… I’m nothing but trash.”
+
+Rhys wasn’t particularly loyal to his school, or the Alliance. What he was loyal to, was his freedom. Looking around him, at the white-coated white-haired soldiers who were given their cores by the Empress, who lived only to serve the Empress, he saw no freedom. He could remain a mage, but he would lose his soul, and that was a price he was unwilling to pay.
+
+There was no fleeing. The Empress’s aura hammered down on him, pinning him in place. She might as well have been a god, and him, an ant. If he twitched, if he breathed, if he thought, he would die. He could defeat Laurent, maybe fight off one or two of her soldiers… and then he would die, meaninglessly, without having accomplished anything.
+
+No. He had a plan. A desperate, insane plan, but a plan nonetheless. His path was trash. If he wanted to walk it, then he had to embody it. If he died here, if he lost everything, then he simply wasn’t worthy of magehood from the beginning, and he would have never made it to the top from the start.
+
+His eyes were resolute. He had chosen his route. He would see it to the end.
+
+Laurent stiffened. “How dare you! The Empress offered you a gift, and you throw it aside? You should be honored! You should—”
+
+The Empress lifted her hand. Laurent instantly fell silent. She stepped back, gesturing for Laurent to step forward. He did without hesitation, hiding his confusion.
+
+“Remove his core,” she ordered.
+
+“Ma’am?” Laurent asked, looking at her.
+
+A bolt of mana passed from the Empress to Laurent, and he stiffened, standing even more bolt upright than he had before.
+
+“Remove it. Do it yourself.”
+
+Laurent froze. Whether it was hesitation or confusion, loss or some internal moral struggle, it was impossible to say. After a single heartbeat—no, not even that—he stepped forward. “It is my honor!”
+
+“I can remove a core painlessly, but it takes some time for those I delegate power to, to accomplish the same finesse.” The Empress crossed her arms. There wasn’t a cruel light in her eyes, like Rhys had hoped to see. Instead, he saw worse. Or rather, he saw nothing. He wasn’t reflected in her eyes at all. He was a bug, an animal. He wasn’t being punished. He was being trained.
+
+Laurent knelt. He put a hand to Rhys’s chest. “This is your last chance. I will still remove your core, but you can throw yourself at the Empress’s feet. Beg forgiveness and pledge your loyalty. You’ll live comfortably, more comfortably than you did at a no-name school, and—”
+
+Ptew. A glob of spit splattered over Laurent’s face. Rhys bared his teeth at him in almost a smile. “Stop barking and get it over with, bitch.”
+
+Laurent’s face turned steely. He lifted his hand and plunged it home.
+
+Screaming echoed over the ship. The mage in his grasp convulsed. And then it was done, and he held the gleaming orb in his hand.
+
+“Oh? Tier 3. How wonderful. Indeed, he was commendable, to reach Tier 3 so soon after the tournament,” the Empress commented, taking the orb from Laurent. Laurent stood there, staring. The lower-ranked soldiers dragged the unconscious body away, and still he stared, not at the figure or at the ground, but at his hands. For the first time, there was a mark on his perfectly-clear conscience.
+
+And that was it. Just another number in a statistic, and that mage vanished into the mines, never to be heard of again. Hard work, like all the others, supported by thin gruel and muddy water, now that they needed to eat and drink again, chipping away at the walls until the vein was mined down, then digging deeper, in the sludge and the grime and the filth. There was no hope. Their cores were gone, their magehood shattered. Not a scrap of mana would enter a single mage’s body—no, they were no longer mages. Not mages, not mortals, but something lesser than both of them. Husks. Husks without hope, their every waking moment policed by the Empire’s soldiers, their short nights without dreams, because dreams were no longer allowed to them.
+
+In this manner, three years passed.
+
+Down in the depths, a husk worked on the stone. Flakes came off the vein and landed on the ground, where they’d need to be collected later. A thousand other anonymous husks moved around them, clad in the same filthy rags, soaked in the same grime that no amount of water could fully remove. They were gray people, dressed in gray, their skin gray from lack of sun and the ever-persistent rock dust, their hair gray, their hearts gray. No one had a name anymore, except for ‘Prisoner!,’ and none of them were happy to hear it. Their fate had been cut off, their future washed away. Nothing remained.
+
+Except for this husk. A smile spread over his lips as he chipped away at the wall, manic, on the verge of breaking, his eyes wide. Every motion hurt, every second of his existence was pain. And yet he worked on, always grinning, even as he sunk deeper in the filth of the mine. Not an inch of skin was visible under the layers of caked-on dirt. Not a single hair retained its original color. Even his eyes were a muddy brown-green, as if they, too, were filthy.
+
+A boot slammed into his shoulder. He fell to the ground, sprawling in the dirt. A guard in a gleaming gray uniform—not gray from the rock dust, but gray by design—stood over the prisoner, arms crossed. He was only Tier 1, the lowest rank of mage possible, and the core he’d been given was tattered and old, on the verge of winking out entirely. This was punishment duty, and his furrowed brows and dark demeanor indicated he knew it. “Prisoner! State your cadre!”
+
+The grimy figure mumbled something, slowly pushing up from the ground.
+
+The guard glared. “Louder!”
+
+“7E!”
+
+The guard kicked him again, lifting him off the ground and throwing him into the wall. “That’s 7E, sir, from you!”
+
+“7E… sir.”
+
+The guard’s gaze darkened. He chased after the prisoner and kicked him again. “With respect. You treat me with respect, prisoner! You don’t—”
+
+Another guard caught the first by the arm. “Stop. You’ll kill him.”
+
+The first guard looked down. The prisoner convulsed. Blood ran from his nose and eyes, and dribbled out of his mouth. He snorted. “So fragile? Pathetic.”
+
+“He has a death wish. Been volunteering for waste duty and the most toxic mines since day one. Don’t give him what he wants,” the second guard warned.
+
+The first guard glared down at the prisoner for one more second, then spat and turned away. “Piece of shit doesn’t deserve the rest. He should keep working here for eternity.”
+
+The second guard laughed. “It’ll feel like it, won’t it? What a pity, to have a mage’s lifespan and durability, but become absolutely powerless. Sometimes I wonder if our Empress is too cruel.”
+
+“No such thing, for these savages.”
+
+The two guards walked away, chatting as their boots faded away. Behind them, the prisoner slowly stopped convulsing, then sat up, wiping the blood off his face. He looked at the pile of slag beside him, then reached out. His hand shook, body deteriorating from all the toxins coursing through it. His palm landed on the detritus, and he pulled inward.
+
+The gunk rushed into him. Through his arm, past heavy buildup of impurities, beyond his shattered mana passages, into the hole where his core should have been. There, they joined a star. A star that was denser, heavier, and more toxic than any star he’d made before. One that loomed in his body, building and building, but never able to ignite. That one spark he needed eluded him, as mana refused his call. His core had been removed, his future cut off. The world of mages was denied to him.
+
+But he didn’t give up. Not for a second had he given up. For the last three years, he’d sought out trash, filth, garbage and refuse, and absorbed all of it. No matter how toxic, how disgusting, he’d pulled it all into him, and without a core to shield him from it, paid the price. Some nights he laid awake with fever. Some days, he spent the whole day convulsing in bed, his hands clawed against his chest, scratching invisible spiders off his skin. Some days, he staggered around with no energy, skin as pale as the grave, vomiting up everything inside of him.
+
+And yet, he persisted. This was his path. This was his lifeline. They could take his core away. They could take mana away. They could even take the System away. But they couldn’t take trash away. He was in a world full of trash, surrounded by it, reveling in it. All the trash belonged to him, even if he couldn’t ignite it or process it anymore… at least, for now.
+
+Every time he’d made a trash star, he’d wondered: what if he made it larger? Denser? Heavier? What if he kept piling trash on and never ignited it, piling up impurity after impurity until it collapsed under its own weight and ignited, the way a true star did?
+
+Now he had no other option. With no mana, he couldn’t ignite the star. With no core, he couldn’t properly contain the trash. So he simply sucked it in, and in, and in, piling it up in the hole in his body the way he always had, more and more and more, no matter how many side effects and ailments he took on. More, more, more, more… and in that way, three years had passed.
+
+Had he doubted? Of course he’d doubted. He’d doubted every second of the entire route to this moment. But what else could he do? What other route was available to him? So he’d pressed on. Just a little trash wouldn’t do it. Just a little harmless toxicity wasn’t enough. Piling and piling, compressing, pounding it down, forcing it inward so he could hammer more on top—all for this moment. All for this day.
+
+Rhys narrowed his eyes after the guards, and pushed, compressing the star down with all his might. The trash trembled, unwilling to compress anymore, and yet, he kept pushing. Pushing and pushing and pushing and pushing, until—
+
+A spark.
+
+FWOOSH!
+
+The second guard looked back. “What was that sound?”
+
+“What sound?” the first guard asked.
+
+“That… boom, or whatever,” the second guard said.
+
+Silence.
+
+“You heard it too, right?” The second guard turned, looking at his compatriot.
+
+Nothing stood there. Nothing but a suddenly dark, suddenly deep shadow.
+
+“Billor…?” the second guard wondered, looking around.
+
+A gray hand wrapped around his mouth. He screamed, but too late. The hand muffled his scream, then pulled him backward, into the shadow. There was a crunch, and then silence.
+
+Rhys loomed out of the shadow. His body crackled with power. Impurities burned away within his entire body, strengthening him, but also casting a bright red glow on the inside of his skin. The trash star burned at a low, steady rate, so that only a translucent, almost invisible smoke rose off of him; except for the stench of burning trash, he might have been an ordinary mage. He cracked his knuckles, and lifted his eyes upward, out of the mine, to the camp where they kept the prisoners.
+
+It was time to overthrow these pitiful heavens.

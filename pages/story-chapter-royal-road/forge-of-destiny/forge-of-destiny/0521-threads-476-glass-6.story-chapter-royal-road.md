@@ -1,0 +1,129 @@
+---
+id: 2c4e0997-149d-5078-8f13-bd322611a689
+page-type-slug: story-chapter-royal-road
+title: "Threads 476 -Glass 6"
+slug: 0521-threads-476-glass-6
+partOf: forge-of-destiny
+position: 521
+ownLength: 1604
+unit: words
+publishedAt: 2025-09-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2639469/threads-476--glass-6"
+royalRoadId: "2639469"
+---
+
+The Bai retainer didn't quite gape at her, or otherwise make a fool of himself, as they crossed the gently swaying rope bridge over the vast drop below. It was a clear day, and the great expanses of the winter fields below were visible through the thin clouds. He did, however, stare at her incredulously out of the corner of his eye.
+
+"And now you are needling me again."
+
+"Only a little. I know you dislike my wording, but the truth is there. Bai Meizhen may delegate to you, but she is not interested in sitting in a closed palanquin, kept pure from the grimy world outside."
+
+Ling Qi would play the part he wouldn't accept as a partial jest. It would be swept aside, but the words would stick in the back of his mind. She considered what could be shared.
+
+"It's frustrating for her to receive only the good news. You have noticed that, surely?"
+
+Bai Meizhen had mentioned her feelings in passing. Her friend was still very prideful, seeing many tasks as beneath her station, but Cai Renxiang had instilled an appreciation for accurate reports in her.
+
+"I have," he replied grudgingly. "There is some value in not having to massage the truth to avoid punishment, I will grant. Heiress Suzhen's harsh views toward that obfuscation is disruptive though. Perfection is impossible, yet less is an insult to their sublime command. Things get done without the rulers being aware of every little stumble and have for ages. Inviting more scrutiny is… unwise. What does a lofty throne understand of production delays and snags in supply lines and other petty minutiae of trade and industry? It is a waste of their time."
+
+"Only what you tell them, unless they are annoyed enough to learn by themselves. So, better that she knows you well enough to see that there's no need to check then?"
+
+"Better that my results speak for themselves,” Xia Anxi corrected. “One of these days, speaking the way she demands in front of another white serpent will get me in trouble."
+
+"That almost sounded like a direct complaint. Aren't you afraid that I will tattle on you?" Ling Qi teased.
+
+"I do not know what game you are playing, but some fragments of your needling line up with my own observations," Xia Anxi said grumpily. “If that Keung can get away with his passive-aggressive routine without any censure, my words won't provoke a reaction either."
+
+He really resented having to learn a whole different system of etiquette, most of all, Ling Qi thought. That was what it was in his worldview. What she saw as friendly openness (for a Bai), he merely saw as a divergent and confusing new ruleset he was scrambling to learn. She could feel around the edges of that perspective. She had felt like that right at the beginning in the sect, having to figure out how the rules were different than those of Tonghou's streets and where they were the same.
+
+"I understand Lady Bai is fully in line with her mother’s policy. If it helps, maybe you should think of it as getting ahead of the etiquette changes."
+
+"Yes, very helpful," Xia Anxi groaned.
+
+Ling Qi cheerfully ignored his sarcasm. "I think so."
+
+"It isn't a matter I control, so I may only ride the waves. I have never met someone who weaponizes optimism quite like you."
+
+"That might be a little much," Ling Qi protested. "I'm not weaponizing anything. If I wanted to hurt you, you would very much know it, Xia Anxi."
+
+She let the cold creep up, and he hunched his shoulders and grimaced. "I suppose I will just have to remain in your good graces then."
+
+"You will."
+
+How strange that he would feel more comfortable with this than anything else she had said today.
+
+It was good to be reminded that even changes she saw as entirely good could be twisted around into malice or burdens in the minds of others. It was no wonder the empire leaned so hard on layers of obscuring formality to keep statements neutral.
+
+Then again, that might have been the wrong comparison. The Bai were probably like that even before the Empire, from what she understood. Those lessons may have even been the ones the Bai ancestors had contributed to the empire’s construction.
+
+"You know,” Ling Qi mused, “I've answered all these questions. Would you be so polite to answer one of mine, Xia Anxi?"
+
+"I would be rude to deny that," Xia Anxi said carefully. "You're canny enough not to ask something I can't answer."
+
+"I wouldn’t want to make things awkward, no. Nothing of the sort. I just wanted to ask you your honest opinion on the Emerald Seas."
+
+"And I suppose you want me to throw propriety to the side, hm? Speak candidly, like a drunk dockworker complaining about his overseer in the tavern?"
+
+"I would appreciate it if you left out the slurring and expletives. I am still a lady of refinement," Ling Qi said with faux haughtiness, giving him an amused look.
+
+"So that is your line? Fascinating."
+
+They began to climb the shallow steps grown into the upward curve of the branch they were ascending. Foot traffic was growing again as they left the industrial district, and in the distance, she could see bright color. That was probably their destination.
+
+"You are a reservoir on the edge of bursting. Or at least, a pack of cats, all chasing different mice. Your duchess is the queen of those cats—for now—but your lady will have a struggle to take that throne. There are no clear expectations or traditions left to hold them together," Xia Anxi analyzed. "That is what you are doing with this whole Weilu revivalist business, is it not? Attempting to cobble together a symbol you can use as a foundation."
+
+"Is it?" Ling Qi wondered.
+
+He snorted. "Being humble doesn’t suit you. It is a good scheme, and one difficult for any one of the 'cats' to raise their backs over. That your lady intends to use her time well is a point in her favor—and yours."
+
+"Any group needs a story it can tell at its center," Ling Qi revealed. "That said, Tsu and the Throne of Seasons are not totally gone from people’s minds, as you implied."
+
+"A fair point, but when every count has their own story of who Tsu is, it makes little difference. That, too, is baffling. Yao is Yao. He is the Fisherman and Inviolate Death. There is no variation in who he is from the northernmost shore to the southern fens. Yet here, I would think there were a half dozen men called Tsu. Stitching him back together again seems to be your project, and it is not one I envy you on. I expect you'll be assassinated long before you manage."
+
+"I've not heard it put that way before, but I can't say it's wrong. As for assassins, I am very good at catching knives."
+
+If not always in a way her friends liked.
+
+"I, on the other hand, am very allergic to knives, and should like to keep them far away from me."
+
+"Oh? You have my sympathy. Such an allergy must be a hellish one to live with in the Thousand Lakes."
+
+"You are not wrong."
+
+***
+
+"Date went well?"
+
+Ling Qi rolled her eyes. "It was hardly that, Sixiang.  He is fun to banter with, at least when he forgets to act like I'm probing him for weakness."
+
+They were back in her rooms at the Cai guesthouse, the light of dusk bleeding through beneath the shuttered window. Steam curled up around her face as she poured from the teapot in her hands. It was a dark, bitter blend that reminded her of black fields and fallen leaves. Not her usual sort of tea, but it felt appropriate tonight.
+
+"Do you want a cup too?"
+
+"Sure." Sixiang was sprawled out in the chair across from her. "Could use a little shock. No worries about me getting back in your head?"
+
+"I'd rather not be alone for this," Ling Qi admitted, raising the pot before pouring in the second cup she'd set out.
+
+"Qi, you know…"
+
+"I know. We haven't really talked about where we left off. Thank you for going out with me the other night anyway," Ling Qi said gratefully.
+
+"... Yeah. Suppose this isn't the best time to have that conversation either."
+
+"Best not to get distracted from my assignment, no." Ling Qi smiled wanly.
+
+On the table between them was the slender, high-necked vase that she had chosen from her mentor’s home. It didn't smoke or vibrate or distort the air with malicious qi, but there was an undeniable feeling of menace.
+
+"Don't want to give the memories in there anything easy to hang off of, eh?" Sixiang picked their cup up. She winced as they slurped down a heavy swig of the bitter tea and made a pinched, pained expression.
+
+"Sip, Sixiang," she chided, doing just that. It hit hard.
+
+"Yep, not my kinda tea. Abandon body!" Sixiang gasped, gagging comically. Porcelain clattered to the table, wood and metal whirred, and where her friend had been was now only the doll-like frame that sagged limp into the seating. Instead,  the empty space at the back of her mind filled with glittering presence.
+
+Welcome back, she thought.
+
+Glad to be back, if just for a bit. Are you ready to do this?
+
+About as ready as you were to gulp down that tea.
+
+She sighed, steeled herself, and reached for the vase.

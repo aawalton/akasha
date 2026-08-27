@@ -1,0 +1,203 @@
+---
+id: fdf5123a-2d4f-539c-80de-17cffbc955d8
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 453-Shell 1"
+slug: 0498-threads-chapter-453-shell-1
+partOf: forge-of-destiny
+position: 498
+ownLength: 2237
+unit: words
+publishedAt: 2025-06-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2352259/threads-chapter-453-shell-1"
+royalRoadId: "2352259"
+---
+
+Regretfully, they did not catch Gan Guangli and Su Ling in any kind of compromising position. When they emerged from the Cathedral, Su Ling's ears were puffed straight up, and her tails flicked rapidly. She was clearly on edge with nerves. In contrast, Gan Guangli sat serenely by the lunar siphon.
+
+"She's been like that since we called in the change to the siphon, hasn't she?" Ling Qi accused.
+
+Su Ling stiffened, and her left ear flicked furiously. "Course I did. I know how things get with you, Ling Qi!"
+
+Suyin, who had climbed down from Xinghong's arms, much to his disappointment, returned him to storage. "Come now, Su Ling. We both know it is only when your luck and hers combine that things go mad."
+
+"She's not wrong." Sixiang drawled.
+
+Yuck. Bathtime now.
+
+Qiyi had been downright sullen after she'd unwound herself and they'd left the muck.
+
+Thankfully, neither of her friends chose that moment to look at her. Instead, it was Gan Guangli who found himself under their twinned gazes.
+
+He coughed into his fist. "I have no experience with the question!"
+
+"You're coming with me next time," Su Ling demanded. "Getcha all the experience you need."
+
+"Who says there's going to be a next time?" Ling Qi wondered.
+
+Su Ling scoffed.
+
+That was fair. It might be a while, but she didn't doubt they'd venture out again as a group.
+
+"I will prepare myself for tribulation," Gan Guangli vowed.
+
+"You’d better," Su Ling said darkly. She scrubbed a hand through her hair. "So, did everything work out down there? Can see you're not hurt, and nothing’s exploded, but…"
+
+"The underworld breach is sealed off."
+
+"And I've reached an accord with the spirit of the site," Ling Qi followed up. "We'll be building a shrine here at the entrance of the cave, but access will be restricted to the inside. Myself and one other person. In exchange for some as yet defined maintenance, we'll be granted some access to the crystal on the upper layers."
+
+"Most excellent!" Gan Guangli praised. "Shall I begin removing the siphon?"
+
+"Please do." Suyin put a hand to her temple. "I would like to return to Shenglu soon. This expedition has been a bit too much exercise for me."
+
+"Oh, I don't know,” Ling Qi demurred. “I think it's just the right amount."
+
+"Hush, you. My physical cultivation is fine."
+
+Su Ling smirked. "Cause I've kept on you about it."
+
+"Thank you, Su Ling," Suyin said dutifully.
+
+"Someone's gotta drag her out into the sun once in a while,” Sixiang teased. “Girl's gonna go translucent."
+
+"I am sure Ms. Li has a fine cultivation regime!" Gan Guangli piled on.
+
+Li Suyin crossed her arms, unamused. "Enough of that. Gather the siphon. I will be getting a footbath before dawn."
+
+Bath. NOW.
+
+***
+
+Ling Qi was sad to see Su Ling and Li Suyin go, but they had their own lives and their homes and projects to get back to, and she wouldn't deny them that. So, she had bid them farewell with a smile as the sun dawned the next day, and turned her attention back to her duties at Shenglu.
+
+After making her report to Cai Renxiang, of course. She had to let her liege know they were sitting on something ancient beyond words. She might have been losing her touch at surprising her liege though. Either that or Renxiang was becoming inoculated against her tales.
+
+Regardless, she now had a writ to cover the cost of a simple barrier over the cave entrance and a minor outpost for long ranging patrols. She'd probably be overseeing that for the rest of the week.
+
+"Haha! Indeed, Miss Biyu, I AM very tall!"
+
+As a result of both of them lingering to report to Renxiang, Gan Guangli had finally met her family. Honestly, Biyu hadn't looked so starry-eyed since she had flown the girl up to the room of their old house.
+
+Her little sister was up against the railing dividing the outer walkway from the training yard, hands on the rail and stretched up onto her tiptoes to peer over, wide-eyed and gleeful. Mother was behind her, still lingering near the doors inside.
+
+Since they had only been lightly sparring, Gan Guangli was only some five meters tall.
+
+"Can I go up?" Biyu pleaded.
+
+What was this? Ling Qi was right here! She hovered at the same height as Guangli's head, and her hair was fanned out and sparkling under the light of the early morning sun in the way that usually made her little sister's eyes sparkle.
+
+"Oh, no,” Sixiang deadpanned. “Little sis is cheating on Big Sis."
+
+"Ah, Biyu, you should not pester Lord Gan and your elder sister,” Mother scolded. “I am certain they are busy."
+
+"Awwww."
+
+"If Madam Ling is not against it, we were just wrapping our spar up," Gan Guangli offered.
+
+Ling Qi nodded grudgingly.
+
+Her mother sighed and rubbed her forehead. Ling Qi could see she wasn't really worried about Biyu; by this point, her mother understood how difficult it was for them to be harmed while Ling Qi was nearby. Biyu crashing head over heels down the stairs while running in the halls had just left her crying in confusion. It hadn't made her mother's scolding any less severe though.
+
+"Very well, if Lord Gan will allow it," Ling Qingge relented.
+
+"Haha, of course!" Gan Guangli crouched down and held out his open palms like a platform.
+
+Biyu leapt on them and giggled with delight as Gan Guangli made a show of slowly standing up, raising her higher and higher into the air. Biyu turned a bright smile to her, waving furiously. "Hi, Sis! I can fly, too! See?"
+
+"Of course you can," Ling Qi agreed.
+
+That was fine then. She swooped down, scooping the little girl out of Gan Guangli's hands to do a loose, slow spin on the way back to the ground, making her sister shriek in delight.
+
+As she set her sister back down on the porch, she caught a flicker of movement out of the corner of her eye. She raised her hand and allowed the paper messenger bird to land in her palm, unfolding into a neatly pressed paper missive.
+
+"Oh, what is that?" her mother asked as Gan Guangli allowed Biyu to leap into his outstretched hands again.
+
+Her eyes flicked across the neat characters painted on the page. "We have a guest. I wasn't expecting him to have a free moment too soon."
+
+"Who?"
+
+"Xuan Shi. I asked if he could check the installation of the panic room formations."
+
+***
+
+Physically, he hadn't changed much. He wore the same heavy robes decorated with geometric patterns, dark green cut through with lighter lines and hemmed in black, and his shell patterned hat had been repaired. That said, the high collar of the outer robe was unclasped in the front, showing more of his broad featured face. He hadn’t replaced the gauntlets she had destroyed.
+
+The hat had acquired a new occupant, or rather, the chick she had previously been introduced to had outgrown the shelf hidden beneath the brim, and had instead claimed the top of it. The chick had rapidly sprouted up into an imperious hen. Xuanji was a fine, sleek specimen with lustrous black feathers, shading to midnight blue at their edges, and a sharp, hooked beak. Her comb was a stark white, a shocking splash of color. But though she was much less plump than the farmyard hens Ling Qi was familiar with, she was still, unmistakably a chicken.
+
+And despite being less than half a year old, Xuanji was also already in the second realm.
+
+"Thank you for coming so swiftly." Ling Qi clasped her hands and bowed. She stood before the door of the manor house, having arrived to greet her guest on the steps.
+
+"This one would not leave thee waiting. A builder’s pride still beats in this chest. A deviation in such vital work is unacceptable."
+
+"And yet, it's only at a deviation because we disturbed it with our move. It could hardly be called an obligation."
+
+Ling Qi considered Xuan Shi. He felt more solid now. He had always been a formidable, if subtle, presence, but now, he was like a castle with foundations of bedrock and unscalable, invulnerable walls, free of any defect. Though standing here, the gates were open.
+
+Xuanji looked down her beak at Ling Qi. "You are fortunate my father is kind."
+
+"I am," Ling Qi replied. Spirit beasts could grow up so fast. She remembered the chick's excitable babble. Her smile conveyed that, and the hen’s feathers puffed up indignantly. "Would you please come in?"
+
+Xuan Shi glanced upward. "Peace, Xuanji. My apologies. She is not usually like this."
+
+Ling Qi nodded agreeably. She didn't voice what she saw in the young beast's demeanor. She was a dutiful daughter, standing between her father and a woman who might prey on his feelings.
+
+"Oh, you can bet that bratty cousin of mine has been giving her ideas," Sixiang whispered to her from further in the manor. "Got the work space cleared out, by the way!"
+
+Ling Qi sent back a feeling of acknowledgement along their bond as she stepped aside, allowing Xuan Shi to enter. The door closed with a pushing wind from her, and she began to lead him down the hall. "I've heard the news of the sect recently, but how have your own projects been proceeding?"
+
+He hummed thoughtfully. "Fire and lake, purgation and preservation, the fragments of the old fascinate. Version two is now well underway. Another two or three months, to be worthy of removal from the workshop’s shade."
+
+Ling Qi bowed her head. "I am still very grateful and hope I may find ways to repay the labor and wealth that you sacrificed for my sake in lending me your gauntlets, but I am glad you've gained some insight from the remains."
+
+"This one gained greatly, without any such thing. Lady Ling has recovered swiftly. Recovered and also grown. Impressive."
+
+She smiled. "Ah, I might go mad if I sat still for too long. Remind me to tell you about the trouble I've gotten into just these last months. Do you intend to march with the sect?"
+
+"One who is sheltered well shames himself should he shirk his duty when war comes calling. The sect has been a second home."
+
+So he would be yet another joining them down in the dark. "And your clan has no objections?"
+
+His smile turned wry. "Nay."
+
+"I suppose that is a foolish question. They would want to show solidarity with their allies."
+
+"To chide Father for his honor would be beneath a great family," Xuanji clucked.
+
+She could feel Kongyou commenting, too. She could have listened in, but their internal rapport was not for her.
+
+They made their way further into the manor, speaking casually of their plans for the coming months, he, mostly in research and craftwork,  and she, in preparing for the expedition. Like Bao Qian, Xuan Shi would, by the nature of his cultivation, probably be stationed in the rear echelon, securing and fortifying ground as they took it, rather than being in the tip of the spear, as Cai Renxiang expected them to be.
+
+Soon, they emerged into the rearmost section of the manor where it abutted the cliffside. Some tentative chambers had been carved into the rock. Little was in them yet, making this area a secure place to install the panic room formations.
+
+"Heya!" Sixiang greeted, waving from near the end of the still rough stone passage where the panic room was installed after being carefully disassembled and transported. They bounded up, the faint whirr and clatter of components under their illusory figure audible in the cramped space. "Oh, wow, you've gotten cute quick, huh? Hats here is raising you right."
+
+"Of course," preened the hen.
+
+"And… cuz, I can feel you in there. Still squirming around, huh? You should prolly try comin’ out more often," Sixiang continued.
+
+"Oh, buzz off, cuz. Most of us aint into jamming ourselves between dead wood and gears," Kongyou's voice oozed from the shadows in the room, distorted and warbling.
+
+"But it pinches so good," Sixiang shot back in a faux breathy voice.
+
+Ling Qi swatted them on the back of the head. "Hey, whatever that was. Too much."
+
+"Aww, fiiine."
+
+Xuan Shi had frozen stock still, dark color rising on his cheeks. She was concerned, but he shook his head violently, causing Xuanji to squawk and flap her wings for balance. "This one would examine the arrays please. Cold stone is no open air and constructed wood. The components will not be efficacious."
+
+He still sounded choked.
+
+What exactly was untoward about pinching?
+
+Xuan Shi strode toward the open door of the room, and she trailed after. Sixiang followed, laughing into their hand.
+
+Ling Qi shook her head. "I'm sorry for them."
+
+"This one understands well how a muse may say unfortunate things," Xuan Shi said, staring ahead at the array he was examining.
+
+"Yes," Ling Qi agreed, peering over his shoulder from a respectful distance. She considered the words she was about to speak uncertainly. "Ah, before you get too deep into your work, I did have a question."
+
+"This one will hear it."
+
+"Once this is done, will you accompany me out for the day?"

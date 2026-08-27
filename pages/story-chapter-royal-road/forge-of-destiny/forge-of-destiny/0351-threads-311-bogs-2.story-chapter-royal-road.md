@@ -1,0 +1,147 @@
+---
+id: 040c1444-f4b0-5b77-93e3-7d1bccda18d6
+page-type-slug: story-chapter-royal-road
+title: "Threads 311-Bogs 2"
+slug: 0351-threads-311-bogs-2
+partOf: forge-of-destiny
+position: 351
+ownLength: 2860
+unit: words
+publishedAt: 2023-06-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1236496/threads-311-bogs-2"
+royalRoadId: "1236496"
+---
+
+“This one questions, honored hosts. It seems to this one that thy words paint a picture of roads and ships and trade in thy lands. Is this truth?”
+
+“Not wrong. Treasures lie deep in the mud, buried in the bog. Yet it is difficult to live there. Near to where these treasures are dredged up is where the bog is at its most hostile,” Inzha answered.
+
+“Carving roads and taming the land is an honored activity, and it keeps us from having to resort to harsher ways,” Rostam added. “The lands are cruel, but we need not be.”
+
+Ling Qi knew the Golden Fields were rich in metals and jewels and cultivation resources. Perhaps it was an after effect in all the lands afflicted by the Cataclysm.
+
+She listened to Xuan Shi and Rostam speak of different goods, some of which she recognized, but many of which she did not. She gave Inzha a considering look, which the woman returned. Although she had to be careful about making too-sweeping assumptions, she was beginning to get an idea where the eastern representatives stood on this endeavor. Their interests were mercantile and geomancy-based.
+
+The Twisted Pine faction seemed more militant and focused on the extraction of resources. She was only unsure where the main interests of the central White Sky faction lay. Maybe infrastructure? Or perhaps agriculture and the working and processing of materials?
+
+Well, she would soon get her chance to hear from the actual representative. Jaromila was arriving soon by all accounts. But she did have to decide where to guide the conversation going forward. They were sticking to business and current events, but that was still a wide space.
+
+They were led to a small clearing a short distance off the main road winding down into White Sky territory. Here, there were a number of soldiers dressed in lighter uniforms than that of the main White Sky force. She could see the similarities to Inzha and Rostam’s clothes in the flowing cut and geometric patterns. The layered scale-patterned armor under their cloaks had a reddish burnish to it that she wasn’t certain came from the metal itself or some kind of enamel. Their primary weapon of choice seemed to be heavy, barbed spears with short, highly curved sabers as a sidearm.
+
+There were no structures of wood and stone here. At the center of the clearing was a huge weatherworn red circular tent. It was a yurt, she thought they were called, though the cloud tribe examples she had glimpsed were much smaller and less ornate. Two of the guards stood at the entrance flap and clapped their fists to their chests as Rostam and Inzha approached.
+
+She and Xuan Shi were welcomed inside right after. The inside of the yurt was not what she expected. It wasn’t the silk and cloth of gold and richness of a noble’s traveling pavilion nor the simple undecorated inside of a nomad’s shelter. Rather, it was a warm, almost hot interior with a scentless and smokeless fire burning on top of some manner of cut red-brown bricks that looked like dirt or clay.
+
+The ground was covered by thick carpets of richly dyed wool covered in geometric patterns. Wool panels on the walls depicted what she assumed were legendary events interspersed with everyday scenes. The supports of the conical ceiling were made of bone and ivory.
+
+The interior was well furnished as well with a round cloth-covered table across from the entrance on the other side of the fire. Around the edges of the table were what looked like long low couches or divans with cabinets and other containers set between them.
+
+“Welcome, welcome. Home is far away, but we bring a little with us. Take any seat you like,” Rostam said generously, turning to face them as Inzha moved further in to tend to the fire. She took an iron poker from beside the hearth pit, carefully nudging a few of the burning bricks. The flames flickered black and green as she did.
+
+She saw Xuan Shi looking intently at the fire, but she herself kept her eyes on Rostam. She wasn’t going to be distracted with technical matters. “Thank you very much, emissary,” she said, subtly tapping Xuan Shi’s hand.
+
+“The hospitality of thy home is most welcome,” he said, only barely missing a beat.
+
+“Ha! It is a very good home. My wife built it herself,” Rostam boasted, turning to follow them as they filed in and took the couch on the right side of the fire, a comfortable and polite space between them.
+
+“Our eldest helped greatly,” Inzha deflected easily, replacing the poker in the rack by the fire. She took a seat by her husband on the couch opposite. The two sat right next to each other, untowardly close by imperial estimation. They were even openly entwining their hands. “But let us not be distracted with personal matters.”
+
+“Yes,” Ling Qi said. “I think the most relevant question is: from your perspective, what is the goal of this summit? What do you wish to take away from it, as members of the White Sky?”
+
+“Hoh, you can hardly expect one to reveal their price before the haggling even begins,” Rostam protested.
+
+“Your opening offer then, if you would like,” Ling Qi said, bowing her head.
+
+Rostam rubbed his thumb across the back of his wife’s hand. He didn’t look at her, nor she, him, but Ling Qi could all but feel the silent communication between them.
+
+“The obvious is an agreement of nonaggression with mechanisms in place to adjudicate disputes between us without immediate escalation,” Inzha said. “This is what we are here to establish before anything else.”
+
+“An institution which both parties respect with words set to paper and bound in blood and oaths. Such a foundation is the bare minimum,” Xuan Shi acknowledged.
+
+She gave a small nod. She’d talked to Xuan Shi, occasionally in person although mostly through letters, on the subject of how the Xuan handled foreigners. They did so with a careful distance. Quarters were set aside in certain cities or on smaller isles and ships that were marked as neutral ground. They had a set of laws and treaties, a compact of behavior which all present at these places were required to follow. Being able to understand and agree to this compact was a requirement for docking. There was some kind of judicial element as well, but they hadn’t fully discussed that.
+
+“Yes, you understand,” Rostam agreed.
+
+“One must trust that their objections will be heard and not simply replied to with force. This is the foundation of any agreement or contract,” Ling Qi said. “We can certainly agree on this goal.”
+
+“It is easy to agree on goals,” Rostam said indulgently. “As for the rest… New goods are always an interest, and new markets for ours, but this is far in the future. Insights into the matters which affect both of our lands would also be a boon. What of your empire? Tell me true, why are you bothering with this summit when we are still so far from you?”
+
+“To a large extent, our involvement is because I and my lady are pushing for relations,” Ling Qi replied. It was best to be somewhat honest here. “We are young, but we feel that reducing the scope of southern conflict is the best course for our province. The mountains have long troubled us, and this war with the Twelve Stars Confederation and the underground folk is enough of a conflict for many generations. We seek peace because we do not see value in further war. If the southern borders can be made free of conflict, our province and people will be relieved of a great burden.”
+
+“We have some experience with neighboring raiding tribes, so I am sympathetic to this,” Inzha said. “I hope you do not expect us to be responsible for all peoples of what you call ‘the Wall.’”
+
+“I do not wish to put that responsibility on you. I have many opinions on the matter, but the official position of the Emerald Seas is that it is time for all raiding and warmaking on our border to stop.”
+
+Ling Qi hoped there could be better, less cruel ways to accomplish that, but she also knew that ultimately, the Emerald Seas was interested in safety, rather than sparing the lives and feelings of its historical enemies. The Emerald Seas, even the tribes that had made it up before there was any such entity, had been under threat from the cloud tribes since before the first written history had been set down. In the exhaustion after Ogodei, the reprisals had only been able to go so far, but the deep bitterness of their people had only worsened. And their waxing strength compared to the scattered tribes gave rise to more strident voices. They would not accept the status quo, not with the Duchess forming a central army. Maybe it was only temporary, but no one was in a mood to tolerate the current state of affairs any longer. She knew dimly that it wasn’t so one-sided as that. The Emerald Seas could be brutal in its reprisals, but that was where her own people were coming from.
+
+Rostam frowned deeply, his mouth almost disappearing under his mustache as he observed her. “That will be quite a project. But it will be better for us all if border tribes do not draw our realms into conflict. A terrible waste all around.”
+
+She studied him. Rostam was doubtful of their ability to accomplish such a goal, she thought, or at the least, he considered its success a difficulty in negotiations.
+
+“You have spoken of thieving neighbors yourselves. How does your land deal with such?” Xuan Shi asked.
+
+“By the foothills being barely populated,” Rostam admitted. “The bogs may be poisoned and treacherous, but they are ours. The things that howl in the hills and stalk the steppes are less friendly than all but the most vicious bog spirits. The clans which wander there are small and insular… and are not attractive raiding targets.”
+
+Ling Qi supposed she hardly heard of the eastern cloud tribes raiding the Golden Fields either, what with the Grave of the Sun in the way.
+
+“Some raid the routes further east anyway, and this is dealt with harshly, but mostly, those who come to us are those tired of a life in wandering, the outcast and exiled and disaffected. There have even been whole tribes that have integrated,” Inzha said. “ In the past, it is said that the cloud men were among those who founded the jewel cities, and their strength and speed is what cleared the roads and made the great trade routes with the Men of Light possible. But this is not… applicable, I think, to your situation.”
+
+Rostam said thoughtfully, “Someone would need to patrol the mountains, if we’re ever to trade back and forth, but aye, it is not a method we can apply to our little talks. The Koliada—” He cut himself off.
+
+“I have heard that name, Sky Palace Koliada, but I will not pry.”
+
+Rostam looked embarrassed. “Not my secret to share, but the mouth runs sometimes.”
+
+“It does,” Inzha said evenly. “Please take no offense. I am sure if the negotiations proceed well, Emissary Jaromila might speak on that matter. It may solve some of our mutual issues.”
+
+Ling Qi glanced at Xuan Shi, who lowered his head and spoke. “It is known to us that thy gods incarnate as cities of your realm. If this one might ask, is it not strange to name a project the same in that?”
+
+Their hosts shared a look of mild surprise.
+
+Inzha replied, “The body of the god Koliada was slain long ago. To name a project after him is prideful, perhaps, but not blasphemous.”
+
+“We will speak no more on it for the moment,” Ling Qi relented graciously. “You have asked after our position. Is there anything else which you seek in negotiations?”
+
+“I think we understand what each other wants here," Rostam said, recovering himself. “We need trust and a method of arbitrating disputes. The rest are merely good to have.”
+
+“I will see what knowledge of the Cataclysm and its effects can be shared,” Ling Qi offered. Knowledge, unlike goods, did not require expensive trade routes. It was a little troubling that the Golden Fields were the only province which had not made any connection yet though.
+
+“If we are receiving such a boon, perhaps we might be able to share our own experience,” Inzha returned.
+
+“We…” Ling Qi cocked her head. She had felt an ordered fluctuation of qi at the door. A signal?
+
+Rostam looked chagrined. “Come in, come in.”
+
+The flap opened, and a soldier stepped inside, standing tall and holding his fist to his chest. “Sir! Emissary Jaromila’s group is on the approach!”
+
+Inzha pursed her lips. “Early.”
+
+“Well, honored guests, shall we delay the rest of this for the moment?” Rostam asked.
+
+Ling Qi stood along with Xuan Shi. “Of course. We have gotten to the most critical matter already.”
+
+***
+
+Ling Qi was grateful for the warning, both from the messenger that had interrupted them and the word the main White Sky delegation had sent ahead to her own people.
+
+She was very glad indeed for the White Sky’s delegation bore far too much resemblance to a cloud tribe warhost. A line of distant figures on winged horses galloped in the sky on a road of churning gray clouds. Banners of shimmering color were painted on the wind currents at their backs.
+
+Ling Qi could see the tension in every imperial soldier's posture from where she waited with Cai Renxiang in a greeting party, along with Xuan Shi and a number of other more minor officials. And even if she could not see her, Ling Qi was quite sure that she could feel the general's attention.
+
+There were differences though. There was a shine to the approaching fliers, a reflected gleam from the sun. Every single one of the riders was clad in frost blue steel that shone with the colors of dawn where the sun struck it. Even the horses themselves were barded so, and lightning crackled about their iron-shod hooves. Where the tribesmen she had seen wore flight masks of painted bone and shaped crystal, these peoples wore masks of opaque ice, carved with furrows filled with precious metals.
+
+It was, Ling Qi realized, quite calculated in its opulence, a show to imperial sensibilities. All the trapping of civilization applied with meticulous uniformity to what the empire would view as “barbarians.”
+
+There was another difference. The tribes had their gliders and flying travois, but she was quite sure she had never heard of cloud tribe towing such a huge structure. It was like an immense sledge on which many small structures were built. The blades of the sledge were green metal suffused with potent wind qi, and it was towed by over a dozen of the winged horses, third realms all. From somewhere within, it radiated a potent heat like a sliver of the sun buried in artifice.
+
+She wondered how much of the extra time needed had been Jaromila arranging for such an impressive entrance.
+
+Most of the procession, including the great sledge and the greater majority of the riders, descended at the far end of the valley, but one group, no more than a half dozen riders in total, remained high in the sky, approaching the location where Ling Qi and her liege awaited.
+
+At their head was Ilsur. She recognized his qi, if not his visage, hidden behind a mask of ice embedded with curving veins of sun bright molten metal, and he wore armor chased with pure white inlay. Behind him, Jaromila perched on the dappled winged stallion, wearing a shimmering dark blue dress hemmed with white fur. A lighter blue cloak was around her shoulders, and a fur-lined hood was drawn up tight, shadowing her face. She looked like an immaterial fairy, save for where her iron nails dug into the leather harness of her husband's shoulder, gripping him tight.
+
+It wasn’t just a physical grip. With her senses more attuned for it, Ling Qi could see the barbs of iron sunken into the twin-souled tribesman, just as she could see the lightning that crackled under the silent ice. The two were bound with potent vows.
+
+The others in the party were three women soldiers of the White Sky in heavy armor of ice and fur and steel, peak third realm, but they also had a binding connection that ran back to the sliver of sunfire buried in the great sledge. The other two were men of Ilsur’s tribe, fourth realm by her measure. Quite an honor guard.
+
+Cai Renxiang stepped forward as the incoming delegation landed upon the cobbles of the little square carved into the forest. “I, Cai Renxiang, heiress of the Emerald Seas, welcome you here, emissary of the White Sky. It is good to see you arrive in good health.”

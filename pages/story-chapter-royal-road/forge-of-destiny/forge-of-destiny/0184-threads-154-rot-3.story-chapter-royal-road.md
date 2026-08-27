@@ -1,0 +1,149 @@
+---
+id: 9be5050e-ffac-5a6c-ac5e-9f5b28b52131
+page-type-slug: story-chapter-royal-road
+title: "Threads 154-Rot 3"
+slug: 0184-threads-154-rot-3
+partOf: forge-of-destiny
+position: 184
+ownLength: 2890
+unit: words
+publishedAt: 2021-11-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/787818/threads-154-rot-3"
+royalRoadId: "787818"
+---
+
+A lacquered black inkbrush drew itself across a page of charred parchment, painting characters in the wild handwriting that filled every wall of the chamber, and a rattling breath emerged from the corpse’s hidden face, emitting another stream of buzzing flies to join the swarm.
+
+Xia Lin fell back to where she stood, a disgusted look on her face. “A corpse immortal,” she spat. “To think that even a Hui would be so debased.”
+
+Ling Qi’s cloak writhed on her shoulders, transforming into a scarf of pale blue silk that wrapped her mouth and nose. “What in the world is that?”
+
+Focusing her spiritual senses, she could feel the thing’s aura, and it was just as rotted as its flesh. She could see the glow of its dantian, sickly and cracked, and see the flows of meridians that had swelled until they drew visible lines under squirming flesh. Half of them had burst open like a dead animal left to rot in the sun, and chaotic qi leaked freely. More worryingly, she felt a knot of energy in its chest, a second dantian, albeit shattered and broken. Not even a memory of more potent energies clung to the fragments.
+
+“When a cultivator reaches the end of their span, they may attempt to cling on regardless. This is the result,” Xia Lin said grimly. “Mind and spirit rots along with the body, leaving an increasingly mad thing focused on whatever task it had obsessed over in life.”
+
+“I want to kill it,” Zhen spoke, startling her. His crimson eyes fixed intently on the fly-shrouded thing. Hanyi looked a little ill, having abruptly swallowed her snack at the sight.
+
+“As well you should,” Xia Lin agreed, scowling. “Is our target visible?”
+
+Ling Qi looked past the disgusting thing in the center to scan the walls. There, under the hanging papers, she saw a soft blue glow, faltering and intermittent.
+
+<Pretty… Pretty sure that’s the power source. I couldn’t stay in there long though.> Even Sixiang seemed disgusted. <I don’t think I ever remember moving through a dream that rotten.>
+
+“Do you think we can kill it?” Ling Qi asked. “And why hasn’t it noticed us?”
+
+“Such things can be unpredictable… but their obsessions consume them and can make them easy to trick if one plays to their delusions,” Xia Lin said, warily eyeing the creature. “It may once have been a higher realm, but the older a corpse is, the more its power has rotted. No corpse immortal lasts more than a century or so. I believe we can eliminate it, particularly with a hard first strike.”
+
+Ling Qi was less sure. Power still burned in its maggot-ridden flesh and lower dantian, even if most of its meridians were in ruins. She could probably slip in and remove the stone, depowering the formation without having to fight it. It might notice her, but if what Xia Lin said was true, if it did, she could probably trick it anyway. They could then return easily with everyone to eliminate it.
+
+On the other hand… Ling Qi’s eyes lingered on the resplendent robe and inkbrush that glowed with powerful qi in her senses. There, too, was a silver ring whose contents were opaque to her eyes. How often did one get the chance at such treasures, divided between only two cultivators?
+
+"What are your thoughts on the spoils of battle?" Ling Qi asked casually.
+
+"They are a soldier’s due," Xia Lin replied evenly, "the reward for high achievement."
+
+Ling Qi smiled. They really weren't that different under the exterior, were they?
+
+“We can do this. Do you think it will react if we prepare ourselves?”
+
+“It may,” Xia Lin allowed, cracking her neck. “We strike the moment it shows awareness?”
+
+Ling Qi hummed in agreement. “My most potent damaging art requires physical contact. Can I trust you to pin its movements when signaled?”
+
+“You can,” Xia Lin said. Traceries of light began to fill the engraved grooves in the head of her weapon again. “My most potent damaging arts require me to shed my own defenses. Can I trust your arts?”
+
+“You can,” Ling Qi parroted back, summoning her flute with a flick of her wrist. Lake qi, dark and still, began to ripple out. “Zhengui, I want you to bring up your lava when we strike. After that, focus on supporting us, okay?”
+
+“Yes!” Zhengui agreed in two voices. His shell began to glow, and beneath their feet, Ling Qi sensed the movement of roots.
+
+The wind began to kick up around her, playfully tugging at her hair and gown, wafting away the stagnant air, and Ling Qi began to play the Spring’s End Aria. Sixiang hummed along, weaving their qi through Ling Qi’s to empower the art, ensuring that it would not end mid battle.
+
+“Duet time!” Hanyi said excitedly, hopping down beside her. She was already beginning to hum the Aria, shrouding herself in glittering snowflakes.
+
+Beside them, white radiance flared through the eye slits of Xia Lin’s mask and the joints of her armor. The girl’s outline sharpened as if her very silhouette was a blade's edge, and Ling Qi felt the wind hiss, parting around her as Xia Lin lowered herself into a crouch, halberd pointed forward.
+
+Pebbles around their feet began to rattle under the gathering power, and soft gray ash began to fill the air. Two weapons, one an intricate singing blade and the other a utilitarian thing of straight lines and humming gears, formed over their shoulders, spilling mist and radiance into the air.
+
+In the fly-shrouded chamber, a rasping breath hitched.
+
+Stone shattered in a deep circle where Xia Lin had stood as she launched forward in a streak of unforgiving light. The soft sound of Ling Qi’s flute rose to a crescendo over the rumbling of the earth. Magma erupted beneath the corpse immortal, and twin voices raised in song lashed it with the icy cold, blackening rotting flesh even as fat and flesh boiled away and flies and maggots burned.
+
+Xia Lin struck the creature’s back with a tremendous boom, sending magma splashing outward, and stone shattered into dust and pebbles.
+
+There was a rumble, and a tremendous roar shook the chamber as a tide of black liquid looking like stylized waves swept out of the chamber, carrying Xia Lin with it. Ling Qi’s eyes widened as she seized Hanyi’s hand and flew straight up over the wave of ink. Below, Zhengui braced himself, and a wedge of roots parted the tide before it could sweep him away.
+
+In the doorway of the now ruined chamber, she saw the corpse-immortal. “Lord Scribbler” stood hunched, almost apelike in posture, its glittering green robe falling open to reveal ribs wrapped in paper-thin flesh. Oozing black taint flowed through a rupture in its sternum, revealing the shattered dantian in its chest. Its legs were burned, down to the bone in some places, and as she watched, strips of frozen flesh sloughed off. A gaping wound had been carved down from its shoulder nearly to its pelvis, leaving a slice of its torso and its right arm hanging oddly. Maggots writhed, trying to stitch flesh back together, but blazing radiance crawled along the wound, searing the vermin.
+
+There was a sickening, crackling sound as the creature turned its head upward, revealing a dried, sunken face wrapped tightly around a skull. Blackened lips pulled back from teeth the color of mud. One eye socket was empty, teeming with tiny spiders, and the other held a blank white orb. As she watched, it rolled in its socket, revealing a sickly yellow iris and a glowing pupil that focused on her.
+
+“Caaiiiiiiii….” hissed the corpse in a voice that echoed as if from the bottom of a well.
+
+A thread of Liming outshone even the arms of the White Plumes, Ling Qi thought faintly.
+
+Xia Lin returned in a clap of thunder, midnight blue ink dripping from her gleaming armor, and the corpse bent backward as the halberd clove through the space where its neck had been. The brush in the corpse’s hand flicked, and ink flowed. Three soldiers clad in black and green appeared, living drawings whose spears locked with Xia Lin’s, forcing her to rebound, her blade trailing boiling ink.
+
+At the same time, the buzzing swarm wreathing the corpse rose into a terrible crescendo, a whirling vortex of buzzing wings and chitinous bodies. But Ling Qi was experienced with vermin by now. Thousands died, frozen in the air, and thousands more fell, choked on ash. Ling Qi’s mist churned into dozens of dark feathered birds as she shifted melodies into the Primal War Calling, and The Mist girded their talons and beaks in winter’s rime.
+
+“Upstart and thief!” the corpse spat. Its one burning eye never left her, even as Xia Lin clashed with its ink soldiers barely a half dozen meters away. The whirl of blades tore gouges in stone with their passage and left stinking clouds of boiling ink where drawing met reality. There were six of them now, new soldiers sprouting up where ink pooled on the ground.
+
+Silently, Sixiang relayed her signal to Zhengui. Ink soldiers stiffened as roots grasped their feet, drawing their dance to a brief pause as Xia Lin lit up like a comet and punched through their line. Her whirling polearm forced the corpse to scream like a steaming kettle as it was driven back by blade and haft, each splitting the air in a continuous stream of thunderclaps that tore chunks of rotting flesh free.
+
+With Ling Qi still clinging to Hanyi’s hand, they moved, dissolving into wind and falling flakes before materializing just behind the creature. She played, Hanyi sang, and both of them reached out to seize a scrap of trailing robe.
+
+Together, they sang the Call to Ending. The air, heated by Zhengui’s magma, exploded into steam.
+
+Hanyi cried out in pain as a rotting foot struck her in the chest, and she rocketed back, impacting the corpse of the giant spider with a resounding crack and punching through its hollow chitin. Ling Qi choked as a skeletal claw seized her around the throat. For just a moment, Ling Qi stared directly into the thing's hideous face, trapped by the echo of higher realm power that remained in its bones. Flies bit and stung her face, and fetid claws left pinprick wounds on her neck..
+
+“You… slave. You dare wield art against me?” the corpse immortal snarled. Entire sections of flesh had frozen and shattered under the power of her and Hanyi’s song, leaving the corpse near skeletal, but still, it stood. Her screaming phantasmal birds tore at its frosted bones, but it seemed not to care. She saw its gaze flick down then, and the creature paused in confusion, staring at its own hand.
+
+Xia Lin’s halberd slammed down upon its back, and Ling Qi whirled away on the wind, reappearing meters back. Zhengui bellowed, his full mass ramming into the expanding crowd of ink soldiers seeking Xia Lin’s back, a wall of roots and branches erupting to cut off their path.
+
+The corpse ducked, twisted, and dodged through the whirling storm of Xia Lin’s assault, shying away from the trailing lines of burning light left in the blade’s wake. With every step,  Xia Lin grew faster, her limbs becoming a blur even to Ling Qi’s eyes, and a cage of radiance was being slowly built.
+
+All the while, the corpse muttered to itself. “No, no, no, not right, not right.” Words tumbled over one another into an unintelligible gibbering.
+
+Narrowing her eyes, Ling Qi flew to follow the trail of their fight, and positioning herself just right, she played a harsh note that pulsed with the power of an avalanche. The corpse screamed in rage as the icy qi struck its back, making it stumble forward, open to Xia Lin’s skull-cleaving blow.
+
+Ling Qi felt Sixiang let out a grunt of discomfort as something in the liminal realm jerked violently. Where Xia Lin’s halberd came down, a rainbow of color erupted, washing away her light. Ling Qi saw the halberd’s blade strike the palm of an outstretched hand, lightly tanned and manicured to perfection.
+
+Smoke, ash, mist, and light all blew away, revealing a man. He was tall and proud in features, his loose open robe displaying a musculature of perfect fitness like a monument to male beauty. His flowing black hair wafted upward on an invisible breeze, crowning his haughty features with a midnight halo.
+
+His free hand lashed out in an open palm strike, and although black qi rippled out around Xia Lin, a featureless mirror to absorb all blows, the man’s hand punched through it like paper. Ling Qi heard metal squeal as Xia Lin’s breastplate dented inward, and she flew backward.
+
+“Toy soldiers and philistines, this is what that woman sends to slay Hui Peng?” the man sneered.
+
+Ling Qi felt a thrill of fear, but then, Sixiang tugged at her attention. The face was a shell of dream, an echo long imprinted on the liminal space within the room. Beneath, there was still only rot. She felt Xia Lin getting back up, and she felt Hanyi limping back around, hidden in the shadows. Zhengui was shrouded in burning ink, tearing apart the last of the soldiers.
+
+If she could get his attention again…
+
+“Not sure what you’re so proud of,” Ling Qi taunted. “Maybe if you didn’t sit around in your own waste, you’d have some worthwhile works to your name.”
+
+“A slave of Cai and her dull art has no right to lecture a Hui on beauty,” the man retorted. “Your performance and presentation are insipid. Do you think I did not hear the mortal mud staining your childish melodies? Like your master, you are mired in the petty mortal nonsense of this world. True art arises from those who are above such concerns.”
+
+Ling Qi cocked her head, thinking fast as the others recovered. “Sounds vapid and empty to me, but I suppose that is all I should expect from a clan who lost to one woman’s vision.”
+
+The man’s handsome face distorted, lips peeling back to show rotten teeth once more as he let out a snarl. “Then let me show you, slave, the transcendent truth.”
+
+Ling Qi felt her stomach drop as the inkbrush in his hand blurred, tracing an intricate pattern in the air, and behind her, an eagle screamed. Ling Qi dissolved into wind, but she still felt a prick of pain as talons passed through her. In the distance, a wolf howled as she tumbled downward, and Ling Qi hit the ground in a roll, rising back into the air as the fangs tore at her dress.
+
+A bear’s paw the size of a house slammed down on her and smashed her back to earth. Ling Qi tasted blood in her mouth as stone turned to powder under the impact, burying her in grit. Gentle birdsong began to waft through the air, drawing her qi out through her meridians.
+
+She felt the barrier between dream and reality bending around the man as his brush whipped back and forth through the air, rainbow light blazing around him. Birds took flight, wolves prowled about his feet, and soldiers took shape from the ink bleeding through the air.
+
+As Ling Qi took to the air once more, air distorting as Sixiang began to push the veil, Zhengui barreled into the fray. Expanded to his full size with ink soldiers clinging to his shell and legs, his bulk slammed into the corpse immortal like a collapsing hill.
+
+He stopped dead, the corpse man holding him back with a single hand pressed to his snout. “Fool. Be—”
+
+Lava erupted, drowning him in liquid rock, and the corpse screamed in rage as his soldiers turned their blades upon Zhengui, inky weapons carving into scaly flesh.
+
+But he was open. The deranged creature had forgotten Xia Lin already. She met the girl’s eyes from across the cavern, and Xia Lin wiped a bloodied hand across her blade, causing qi to flare in a familiar way.
+
+Ling Qi didn’t even have to lie for her taunt. Echoing through the dream, she could feel nothing but self-aggrandizement in this corpse’s art. He painted a world where he was master, not for any reason, but simply because it was his birthright.
+
+“Ugly! The ugliest I’ve ever seen! You call that truth?” she mocked even as the glittering cloud of songbirds around him turned themselves upon her, and she felt her qi weaken precipitously. The eagle was coming back around, a new scream building in its throat, and the titanic bear he had summoned was rising on its hind legs to reach her.
+
+The corpse of Hui Peng leapt into the air, dripping magma and ash, an enraged snarl on his face as something terrible bloomed from his brush.
+
+The spike of a halberd, burning with colorless radiance that scorned all defense, punched through his sternum, and the rest of the blade followed. The blade pulsed, and flesh and gore disintegrated. The illusion shattered, and then, there was only a tattered corpse in truth.
+
+Like soap bubbles, the ink phantoms popped and vanished, and frozen bones clattered to the floor in disarray.

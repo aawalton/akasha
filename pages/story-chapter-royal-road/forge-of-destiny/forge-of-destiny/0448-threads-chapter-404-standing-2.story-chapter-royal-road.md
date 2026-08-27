@@ -1,0 +1,179 @@
+---
+id: 84ca1878-a97b-58b0-ab17-4449cf13ba06
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 404-Standing 2"
+slug: 0448-threads-chapter-404-standing-2
+partOf: forge-of-destiny
+position: 448
+ownLength: 2360
+unit: words
+publishedAt: 2024-10-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1828992/threads-chapter-404-standing-2"
+royalRoadId: "1828992"
+---
+
+"Holy shit, what did you do?"
+
+"Hello to you, too," Ling Qi said over the rim of her wine cup. The guestroom of the traveler’s inn had not changed much from when she had been here last. Last time, Meizhen had invited her out here to meet Xiao Fen. The furnishings were plain but well put together, and the privacy wards were acceptable for light chat. "Now, stop standing there gaping. You look silly."
+
+Su Ling snorted, pulling her eyes back up to Ling Qi's face and stepped inside. Her tails thrashed in agitation behind her before settling back down.
+
+Su Ling had changed. Ling Qi could see the black lines burned into her hands where her meridians had burst through her skin in the Liminal adventure where they had encountered her mother, Madam Grey. Her wrists and forearms were wrapped under a layer of padded bandages and polished wooden bracers carved with angular, geometric shapes, and crescents. She'd gotten a new vest as well, dark brown and worked through with crimson and silver threads.
+
+"No, but seriously, are you telling me that nutty rumor about you and the General is true?"
+
+"It is very true. I’m hurt, Su Ling. I wouldn't think that you would doubt me."
+
+The other girl stared blankly at her and shook her head. "Guess I thought there was still a limit to your craziness. Silly me."
+
+"Baroness Ling is dedicated to her duties. The Cai are fortunate to have such an exemplar of duty."
+
+Ling Qi looked at the door where the other voice had emerged from. "Lady Diao, you are welcome as well."
+
+"Thank you, baroness," Diao Hualing said. The door drifted shut behind the train of her pale pink gown, closing with a soft click. "I am pleased to accept your invitation and speak in person again. I hope your recovery is proceeding well."
+
+"Oh, it is. My condition was much worse immediately after the incident," Ling Qi said, smiling at Su Ling.
+
+Unfortunately, the other girl seemed to have had enough of humoring her and merely huffed as she took a seat beside the table in front of Ling Qi.
+
+"But please, Madam Diao, Su Ling, help yourself to the wine and tea. I hope everything is well in the north?"
+
+"It is. There is nothing urgent, so please go ahead and speak of personal matters before we come to my small requests." Diao Hualing elegantly took her seat and accepted one of the cups of wine on the tray atop the table.
+
+"That does raise a question. I did expect you both, but until your last letter, I was not expecting you to come south together."
+
+"Just made sense. No point in taking separate trips," Su Ling grumbled.
+
+"It was efficient. I have been working with Miss Su on some subjects," Diao Hualing followed up. "She is quite the spirit hunter."
+
+"You got a lotta towns and villages infected with nasty shit," Su Ling muttered. "... At least you're doing something about it, I guess. Anyway, how is Gan Guangli doing?"
+
+"Quite well, last I heard," Ling Qi replied. "Why, with the palisade going up at Snowblossom, he might even be on his way."
+
+She glanced between the two of them as she spoke, and Su Ling sputtered. Despite that, Su Ling was satisfied ; her spirit was serene, a sheathed blade, embers burning low. Diao Hualing was more reserved, but she showed no sign of upset with how casual Su Ling was being.
+
+Prime Minister Diao Linqin had described the woman as an opportunist, Ling Qi remembered. What was she truly gaining here? Cultivating an asset, her instincts whispered. More than one asset, she considered, meeting Diao Hualing's pleasant expression with a smile.
+
+It was too often assumed that self-interested intent could not bend in a virtuous direction. It was all about aligning incentives correctly, as Cai Renxiang had once said.
+
+"Well, let me ask then, how was the meeting with your half-sibling, Su Ling?"
+
+Su Ling's ears twitched violently. "He’s doing okay."
+
+Ling Qi observed Su Ling in silence, giving her the time to speak as she wished.
+
+Su Ling glanced at Diao Hualing, who had suddenly manifested a folder of paperwork into her hand to peruse, and snorted.
+
+"Not like I could just walk in and go, 'Heya, Bro!' We talked. It wasn't great. They found him in a fucking basement. Kid flinches every time someone raises their voice. He's only been let outside before for chores."
+
+Su Ling's tails thrashed loose of the tight bundle gathered at her waist. The shadow she cast on the far wall flickered as if cast from a dancing flame, out of time with her movements.
+
+"First time we met, he looked at me like I was gonna eat him."
+
+"I see," Ling Qi acknowledged quietly.
+
+"But he's being taken care of. Can see it and smell it. He's healthier than he was. He's got some fancy tutor teaching him to read outta picture books. He's got clothes and healthy food and medicine for his fucked up leg."
+
+Su Ling’s eyes wandered back to Diao Hualing. The woman didn't look up from her paperwork. Nor did she dispel the web of qi insulating her from their words. Even if it was largely for show, Ling Qi appreciated it.
+
+Su Ling toyed with her cup, turning the vessel around and around in her hands.
+
+"And that is good. He wouldn't have those things without you," Ling Qi reassured her. "Was he still afraid of you by the end of the visit?"
+
+Su Ling hunched her shoulders. "I read him one of the books, showed him how to make sparks dance, 'n told him it was okay to do it. Didn't flinch when I hugged him on the last day."
+
+Ling Qi reached over and patted Su Ling's hand. That situation wasn't one she could help with, but she was glad Su Ling was finding her feet. It wasn't hers to dig into and clear up. There was only so deep the light of clarity should shine.
+
+"He's not the only one. They picked up another… just a baby this time, though. Not even a few months old," Su Ling continued gruffly. "Guess we can call that a sign the eyes are keeping watch."
+
+Su Ling rapped her knuckles on the table, looking directly at Diao Hualing.
+
+Diao Hualing looked up smoothly as her shrouding qi dispersed. "My people ensure I am not made a liar, and valuable talents will not be ill treated. As I have told you, your own skills would be welcome in the Ministry of Law or in Spiritual Affairs… Even Integrity, perhaps."
+
+Su Ling looked deeply sour. "I heard ya, and I'm sticking with the sect for now."
+
+This was certainly part of a larger conversation she was not fully privy to.
+
+"I'm sure the Argent Peak will be thankful."
+
+Diao Hualing glanced at Ling Qi and smiled. "I am sure, but one should keep their options in mind, no, baroness?"
+
+"Of course. My friend is very talented."
+
+"Lay off," Su Ling sighed, without heat behind it.
+
+"As you wish," Diao Hualing acquiesced. "Baroness?"
+
+"Please go ahead."
+
+"The matter of the ith infiltration has been pursued to its end. The remaining members of the Yan family have been interrogated, and there were only two further connections, that have since been liquidated. All other members of the family have been removed and blacklisted from any ministry-connected positions, and their properties confiscated to repay some of the damages to the Xu."
+
+Ling Qi grimaced. So, there were more collaborators.  If this were any other province, the Yan family would likely have been outright executed instead of just ruined. How even someone like Yan Renshu could use his own family so poorly escaped her. Even if she heard the explanation from his own lips, she did not think she would want to truly understand them. That was a mystery he could keep to himself, in whatever miserable gutter he eventually died in.
+
+"However, attacks and operations from the ith have continued throughout the Central Valley. Normally, this would be outside the remit of Law, but the nature of these attacks are unprecedented, and our expertise is the best fit for hunting these spies.” Diao Hualing pursed her lips. “It is certainly revealing which local ministries have retained their investigative abilities."
+
+"Their weapons fucking stink," Su Ling said darkly.
+
+"I would guess so," Ling Qi said. "Have there been…?"
+
+"There have been a few successful attacks in places where the eyes of Law were not enough. Infrastructure attacks. Assassinations. We have not been able to detect a pattern of any kind behind these attacks beyond mere opportunity. They have largely struck minor holdings, but the attacks are still inflaming negative sentiments in the north. Such losses have not touched them since the days of Ogodei."
+
+Ling Qi grimaced.
+
+"Tha capital lands, at least, have been safe. I do not think it would go well for the ith if Her Grace's tributaries allowed any such plots to happen near them."
+
+"Has the Ministry of Law been cooperating with Her Grace’s subjects to ensure safety or prevention of further attacks?" Ling Qi asked.
+
+"We have not. My superiors will not countenance such a thing. They are, after all, merely subjugated creatures. There is very little communication between their city under the roots and the people of Xiangmen, save for their regular tributes," Diao Hualing said. Her words were without any particular inflection or judgment.
+
+Ling Qi furrowed her brows. "I understand that they cannot be fully trusted, but all the same, there should be many cultivators in Law and elsewhere able to detect any mistruths spoken. At the very least, discussing what the other ith’s common methods of attack should be a priority."
+
+"I mean, if you got 'em on the choke chain, that makes sense," Su Ling said. "Have people really just not bothered?"
+
+"Her Grace is heavily absorbed with the war preparations and other matters. This subject falls to her loyal ministers who might squabble over whose jurisdiction it is and how to approach the matter."
+
+Ling Qi stared at Diao Hualing. Diao Hualing stared back at her.
+
+"A young hero with deeds such as yours and the backing of an ascendant heiress might find some success in breaking this deadlock," Diao Hualing finally said. She lightly sipped at her wine. The Diao scion had apparently decided to simply slap her cards down upon the table. "Perhaps she may even turn her skills into a successful first meeting."
+
+"Oh, so that's your angle," Su Ling said.
+
+"I will be in Xiangmen for Her Grace's wedding at year's end,” Ling Qi began. “In addition, our group will be making a court appearance to report on the summit. I suppose if I were to make a proposal to talk with the ith, I would happen to find sympathetic ears among Law who would back it."
+
+"That seems likely."
+
+"And the Duchess isn't going to refuse if I request more work that nobody else wants," Ling Qi grumbled.
+
+"It would be strange for her to discourage your initiative," Diao Hualing agreed. "Does the baroness believe a trip under the rootways might fit into her schedule? Her Grace has arranged a transportation corridor."
+
+It was another difficult responsibility to take on, even if it was only a matter of getting the right people in the right room and talking. Worse, it was bad enough she would be going back underground for the war, but now for this…
+
+"Are you even gonna be good to stick yourself in the poison pit that soon?" Su Ling asked.
+
+"I will be good as new, or near to it, by the time of the wedding." She refused to countenance the idea that she would be helpless for that long.
+
+Su Ling twitched. "Right… Still kinda bothers me that all your old wisemen and grannies can't be arsed to hash this out themselves."
+
+Diao Hualing merely offered a small shrug. "They will, given time, but I think you will find that as days become decades, your sense of urgency will change, too, young baronesses. And what seems easy now will become intractable against the rivalries of centuries."
+
+Ling Qi dipped her head in recognition of Diao Hualing’s words.
+
+In truth, a part of her was exhausted by the idea. But all the same…
+
+"I will raise the matter when I come to court," Ling Qi said with a sigh. "But I would very much like your support in turn."
+
+"I assumed so." Diao Hualing bowed her head. "My project has not gone unnoticed, and I have picked up a few more tentative allies among my clan. I intend to reach out toward the friendlier factions among the Meng. I believe it would bolster everyone involved if we were to support each other, and I will see about softening the stances of my clan on some cultural matters."
+
+"I will send a letter to Lady Meng Diu regarding your plans," Ling Qi said mildly. This was something Diao Hualing was surely going to do anyway, but phrasing it in this way made it seem more like a favor to her. In practice, they would both be leaning on each other for accomplishments. "I am pleased to hear that. Going forward, I also hope to increase the depth of our discussions on the affairs of Law and the other ministries."
+
+Not everyone in the Ministry of Law was her ally, so she wanted to know if there were any troublesome challenges being cooked up in those halls which might affect Cai Renxiang, their group, or herself.
+
+"Of course. I look forward to our discussions."
+
+Su Ling squinted at both of them with her brows furrowed. They both raised their cups to their lips and sipped, almost in unison. She snorted and shook her head.
+
+"Glad you both got what you wanted out of that, I guess," Su Ling said. "I'll be down here for a couple weeks, so…"
+
+"I'll let Gan Guangli know," Ling Qi finished.
+
+Su Ling grumbled, but didn't contest her.

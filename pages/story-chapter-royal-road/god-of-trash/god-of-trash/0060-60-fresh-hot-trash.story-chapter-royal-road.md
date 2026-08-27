@@ -1,0 +1,133 @@
+---
+id: 34f64d02-b1f0-5292-ab16-a0f62ce5b6cc
+page-type-slug: story-chapter-royal-road
+title: "60. Fresh Hot Trash"
+slug: 0060-60-fresh-hot-trash
+partOf: god-of-trash
+position: 60
+ownLength: 2647
+unit: words
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2241664/60-fresh-hot-trash"
+royalRoadId: "2241664"
+---
+
+Mouse quickly led them around the academy, showing them all the facilities and everything they’d need to know to thrive for their next few weeks during the tournament. From the herb fields, to the merchants and auction houses, to the training grounds and the dormitories, she led them through it all. A few times, she glanced around, then whispered that she was about to deviate from the pre-described tour to show them somewhere useful, and every time, led them somewhere highly valuable afterward. By the end of the tour, Rhys was fully satisfied with his knowledge of the peak. Sure, he didn’t know the location of every possible facility, and something like the potion-making rooms had been completely left out, but he knew enough to get around.
+
+“That’s everything. Er, if anyone wants to see anything else, I can show you there now? Or if not, you’re free to go,” Mouse finished, fidgeting nervously.
+
+Most of the students turned and walked away, but Rhys remained. He waited for the others to clear the area, then smiled and approached her. “Mauve—”
+
+“Oh, Mouse is fine, it’s really fine,” she assured him.
+
+“Mouse, then. Where is the school’s trash pit? Its landfill?” he asked, still smiling.
+
+Behind the thick glasses, her eyes got big and wide. “Th-the… but why?”
+
+Mew. Fur brushed against his ankles.
+
+“And the library,” Rhys added.
+
+Her jaw worked, and then she nodded. Pushing up her glasses, she gestured. “This way.”
+
+“Have fun at the library, trash boy. I’m hitting up the training grounds,” Ev said, walking away with a wave.
+
+Rhys waved back and followed after Mouse. She led him through the castle, past winding, narrow stone walls, to an ivy-clad building with an impressive stone façade. “This is the library.”
+
+“Excellent,” Rhys replied. I’ll check it out after the trash heap.
+
+Az stepped toward the building. He looked back and mewed his thanks to Rhys, then slipped through the doors and vanished.
+
+Mouse waited expectantly, but Rhys just smiled at her. At last, she pushed her glasses up nervously. “Uhm, the library?”
+
+“I’ll go in later. Why don’t we go check out the trash heap?” Rhys asked.
+
+“You—you’re really serious about that? This isn’t a joke?” Mouse requested, her voice squeaking at the end.
+
+“Not at all. I would never treat you with such disrespect,” Rhys assured her. Mouse didn’t deserve any disrespect. That Ethan kid, on the other hand… well, he’d see about him later.
+
+He knew how to polish ordinary trash, but he still needed more work on his human-trash-polishing techniques. Whether the System recognized them as Skills or they remained as ordinary skills, he simply needed more practice with them. He’d started out raising Bast out of the trash, but after Bast left, he’d mostly wandered around the trash pits and focused on gaining more mana to get to the next tier. Reasonable goals, to him, but it did mean that his social skills had largely atrophied. At best, they hadn’t grown.
+
+If he was going to polish the fixable human trash and destroy the irredeemable human trash, he needed to be far more socially capable. Where better to fix that weakness of his, than at a large school like this? They surely had social events, balls and far less formal gatherings, where he could hone his skills.
+
+Of course, before all that, he really did need to continue to grow his own personal strength, so the first place he was heading to, was his favorite trash heap. He had to get a lay of the land and a feel for the garbage before he started worrying about any peripheral techniques.
+
+He touched his core lightly. There was still a bundle of impurities within it, a dense unlit star made of the last dregs of the toxic trash pit. He needed more to be able to ignite it properly, and given how little burning impurities did for him now without the full boost of the intensely compacted star, he really wanted to have at least enough impurities in him to light the star and fight with mana, curse power, and the impurities’ boost altogether, in case he ended up in a pinch in this unfamiliar school.
+
+Mouse nodded mutely, then turned and scurried off. “This way.”
+
+She led the way through the streets. They were currently relatively high on the peak, up in the lofty heights were only a few specialized trees could grow, not that the difference in oxygenation or pressure made much of a difference to mages or magical plants. This section was mostly academic buildings; the library, classrooms, study rooms and other academic facilities. She led him down, lower on the mountain. Below the purely academic facilities were the practical exercise rooms, like the reinforced rooms for testing magical techniques and the potion brewing facilities. Lower than that were the student living facilities, with the nicest ones for the oldest, most powerful students at the top, down to the lowest, youngest, least powerful students at the bottom. Naturally, the dorms they’d shown Rhys and Ev were at the very bottom.
+
+Below that were the markets, and the merchants’ living spaces and warehouses. Even lower lived very old low-rank mages, adults who had no chance of progressing anymore and couldn’t be considered students nor teachers, but helped the academy by growing herbs or doing other management, cleaning, or cooking jobs. Basically, they were janitorial staff, paid a small wage and provided the school’s protection despite their low rank.
+
+They kept descending. A forest stretched all around them, interspersed with the occasional field or planted plot. Out here, it was mostly empty. Except for the occasional field or garden, there was absolutely nothing this low on the mountain, but still behind the wall. In the distance, a group of the staff-level mages worked hard on constructing an arena. For a second, Rhys thought Mouse was going to lead him that way, but instead, she turned sharply away from the road and led him on a narrow path through the woods. Hints of trash appeared on the path. Snagged bits of cloth lurked on jagged thorns, and bits of paper scattered in the leaf mould. Rhys reached out in front of him with his mana, sensing the trash before he got there. A powerful emanation echoed back to him. There was a lot of trash, and some of it was very strong. Stronger than anything he’d sensed so far, with the exception of the toxic trash pit. In particular, he could sense a few places where the power of the emanations spiked, where an absolutely insane cluster of powerful trash conglomerated. His eyes lit up, and his hands shook in excitement. Come to me, my trash-treasure! Trashure, if you will!
+
+The trash pile came into view through the trees. Mouse stopped. She looked back. “There it is, but you shouldn’t approach it.”
+
+“Why not?” Rhys asked, with every intention to approach it.
+
+“Dangerous beasts live on it. Disease-ridden rats, and aggressive raccoons. They’ve grown powerful by eating the scraps of mage food and magical herbs, but they’re riddled with impurities. They have no future, but their bite can steal the future of a promising mage,” Mouse warned him.
+
+“That’s fine. I can handle some beasts.”
+
+“There’s also…” She opened her mouth to continue, then shut it. She shook her head. “Y-you shouldn’t go. It’s dangerous.”
+
+Oh…? Interesting. What happens on this trash heap that’s so frightening, even a mage fears it? Rhys waved his hand. “It’s fine. I can handle it.”
+
+“Why do y-you want the trash so badly?”
+
+Rhys considered. He probably shouldn’t announce his path in enemy territory, in case someone tried to take it away from him. Already, Ernesto had tried to steal his valuable trash once. What if he did it again? After a second, he smiled. “I have my reasons.”
+
+She hesitated one second more, then nodded and rushed off. “Don’t blame me,” she murmured, as she raced by him.
+
+Rhys watched her go, then shrugged to himself. Whatever danger there was, he’d take it as it came. He wasn’t afraid to fight, nor was he afraid to run. He was trashy enough to do whatever it took to preserve his life. He glanced around, checking for anything obvious, then ran ahead, charging into the trash pile.
+
+Glorious, glorious trash! A few rats scurried away as he approached. In the distance, a raccoon sat up on top of a pile of food scraps, munching on an apple core. It eyed him warily, but didn’t make any aggressive moves, except to reach down blindly and secure its next handful of food in case he came its way.
+
+Rhys ignored it. He didn’t need food scraps. He could buy his own if he was hungry. Giving it a wide berth to be respectful to the ones who’d already staked their claims, he skirted toward one of the powerful spots in the trash. Surprisingly, although the rats and raccoons congregated around most of the powerful spots he sensed in the garbage, there were none around this particular point. That alone made him curious. Why avoid this point? What was different about it?
+
+It didn’t take him long to reach it. It was deep in the trash heap, nestled between a few hills of trash. Rhys pushed the surface trash aside, digging down to the powerful emanations. A final board of scrap wood separated him from the emanations. He lifted it up—then froze.
+
+Uh oh. That’s not trash.
+
+Then: I think I found what Mouse was trying to warn me about.
+
+Glittering artifacts laid under the trash, carefully preserved in a cotton cloth. Books, wands, staves, and all kinds of items were mixed up together. They looked as though they had been plucked from random places around the school, as if they’d grabbed artifacts from across the school and hid them here.
+
+Embezzlement. Clear as day. Someone was siphoning artifacts from the school, hiding them here, then doubtless selling them off to some third-party purchaser. If anyone knew he’d found them, he’d be in deep shit.
+
+And yet, a grin spread across Rhys’s face. Embezzlement, huh? Whoever this was probably wouldn’t want their Schoolmaster finding out about this. If he hung out here for a little while, he’d have some valuable dirt he could ply for leverage later.
+
+He poked around at the artifacts. The book was flashy, but not particularly interesting. The wands held powerful spells, but the embezzler would notice if he used or stole them. A few other items he simply couldn’t determine the purpose of, and those he left alone. But at the bottom of the pile, was a mana potion that gave off emanations like nothing he’d ever felt before.
+
+He glanced around, then picked up the potion. All he needed was one drop, with Less is More. No one would even notice. Rhys popped open the lid and dripped a single drop on his tongue.
+
+Instantly, mana flooded his body. He guided it into his core, refreshing his mana and coursing it through his veins. It was more condensed than any mana he’d felt before, and scoured through his body, pulling all the remnant impurities back into his core, where he fed them into the trash star. It wasn’t quite enough to refill his core, but Rhys put the potion back rather than give into temptation. He could take tiny tidbits off the deliveries without anyone picking up on the fact that he was on to them, but too much, and they’d kick off a manhunt. He couldn’t get greedy. Right now, he was a tiny rat, nibbling on their valuables. As long as he remained unnoticed, or at worst, a nuisance, they’d leave him alone.
+
+He put everything back where it had been and set off across the trash pit again, as if he’d seen nothing at all. He circulated the fresh mana as he walked, getting used to the intense sensation. It reminded him of the curse-power-purified mana, but even stronger. It must have been a truly high-Tier mana potion, the kind he couldn’t even dream of making or buying.
+
+One thought caught at the back of his mind and wouldn’t let go. How did Mouse know about this? She’d clearly tried to warn him. Was she in the know? Or maybe she just knew it was a ‘dangerous place,’ or knew that something had happened. Either way, he was curious enough to ask her about it later. There were roundabout ways he could prod her for information.
+
+As he walked, his foot caught a can. The can went flying, and knocked into a rat. The rat whirled and hissed, showing him its teeth. He kept walking, expecting it to rush off, but it stood its ground. Rhys’s brows furrowed. Is it rabid, or something?
+
+When he got closer, he saw the answer. The rat’s tail was pinched under a ruined cauldron. The cauldron must have tipped over as the trash shifted, leaving the rat caught underneath. It was emaciated and exhausted, but still bore its teeth at him.
+
+“Oh, hold on.” Rhys edged around it, staying out of reach, and grabbed the cauldron. He went to lift it, then hesitated. Something about the rat called out to him. Extending his mana, he scanned it.
+
+The rat was full of the super-impurities that he’d been slowly condensing in his core, the super-impurities he needed to start a trash star. The last super impurities he’d gathered were in his current trash star, and otherwise, he’d have to wait and slowly accumulate more. And here, in front of him, was a thick source of those same exact super impurities!
+
+It must have been because the rat lived its whole life in the trash. Magic food, drink, and plants were more pure in general, but they also could contain vastly more powerful impurities than usual food, drink, and plants. That, on top of the failed potions and toxic experiments the rat was doubtlessly exposed to in here, must have created its current condition.
+
+However it had happened, those super-impurities were valuable to Rhys. He snapped out his hand so fast it blurred and tapped the rat on the head. The rat flinched, but it was too late. He’d already drawn out its impurities.
+
+“Thanks, friend.” Rhys lifted the cauldron, freeing the rat. The rat scurried away, as he’d expected. What he didn’t expect, was for it to stop a dozen body-lengths away and turn back. Dark, highly-aware eyes looked him up and down, its pink nose trembling. The rat’s head bobbed up and down, and then it turned tail and ran off.
+
+Rhys blinked. Did it… nod at me? He stared, but the rat had already gone. Shaking his head, he turned back to his precious trash. It was probably just an animal being weird, and him anthropomorphizing its behavior. He shouldn’t take a single coincidental motion as indicating intelligence.
+
+There was more than one powerful spot in the trash. He picked his way across the pile, working toward the next spot. His feet landed sure and silent with the help of Trash Step. He moved as if he walked on flat ground, while the trash beneath him barely stirred with his passing. He couldn’t leave these powerful spots in the trash unexplored. If they were all caches, then he’d just note their locations and leave them alone in the future, but if they weren’t, there was surely trashure to be found.
+
+A soft scurrying sound caught his ear. Rhys jumped, whirling. He reached for his stubby sword, then paused.
+
+A rat stood behind him. It tilted its head, then glanced back, clearly wanting to flee. Another rat, this one with a quirked tail, stood by its side. It gave the first rat a reassuring shoulder nudge and nodded at Rhys.
+
+Rhys blinked. What?

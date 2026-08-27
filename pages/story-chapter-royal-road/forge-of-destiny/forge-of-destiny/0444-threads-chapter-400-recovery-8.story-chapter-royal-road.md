@@ -1,0 +1,175 @@
+---
+id: 51a05fdf-b3bb-5088-986c-3fe493b887cd
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 400-Recovery 8"
+slug: 0444-threads-chapter-400-recovery-8
+partOf: forge-of-destiny
+position: 444
+ownLength: 2406
+unit: words
+publishedAt: 2024-09-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1806678/threads-chapter-400-recovery-8"
+royalRoadId: "1806678"
+---
+
+"Welcome back, Yu Nuan."
+
+The girl's hair was a little longer, falling down loosely over the right side of her head and cropped close on the left. The bright electric blue color was highlighted with streaks of white and darker blue.
+
+The metal piercings seemed to have multiplied, too. The one ear Ling Qi could see was lined with a whole row of spiked studs pierced through the lobe. There were also two through the lower lip, one through the nose, and she spied one through the eyebrow behind the fringe of the girl's bangs. That wasn't even considering all the little nodes of heavenly qi Ling Qi suspected were further piercings beneath the other girl’s heavy winter robes. Perhaps they were something more like the steel and iron rings and on her fingers or the chain links hung heavy around her neck though.
+
+It was a strange cultivation method, but it worked for the girl. Yu Nuan’s foundation was solid, a black, dense cloud filled with thunderous rumbles and spitting sparks.
+
+"Thanks." Yu Nuan looked uncomfortable.
+
+Ling Qi could understand. Even if her hair was growing back in and even if she was swathed in a dark robe hiding how thin she was, she still did not look recovered.
+
+"I mean, I'm honored to be welcomed back into your home, Lady Ling." Yu Nuan bowed low, and sparks crackled and spat.
+
+Inside the gate, Ling Qi smiled from her seat on the wheelchair as Hanyi peered past her shoulder and sniffed haughtily.
+
+"Raise your head, and come in. This is going to be your home, too, for the time it has left. Come out to the gardens with me. I'm sure your companions would like to be let out." Ling Qi gestured for Hanyi to turn her wheelchair around.
+
+"Thanks for that." Yu Nuan straightened  and walked beside Ling Qi's chair as it rolled along the stone path, taking them around the manor and back to the gardens. There was a temporary ramp set over the front step, but there was really no reason to go through the home. She'd leave Yu Nuan to the tender mercies of Mother and the tailor hired to fit her dress later.
+
+"If it wouldn’t bother you, will you tell me about your deployment?" Ling Qi asked. She had heard gossip from Xia Lin and other contacts about the state of the sect’s military ventures, but tales from eyes on the actual ground would be more accurate.
+
+Yu Nuan swallowed, her expression twisting briefly into a sour one.
+
+"It was ugly. I wasn’t part of the big assault units. My group moved ahead of the main force. Our casualties were never the heaviest, but it wears you down."
+
+Ling Qi glanced her way but did not speak, content to let the other girl talk on her own.
+
+"The Sect Head’s domain was really amazing," Yu Nuan continued. "When active, you're hooked up to everyone. I knew where he was, and I knew where my commander was. Hells, I even know where the other scout captains were. When an alert went up from anywhere in the engagement zone, I knew within seconds. When I spotted something relevant, so did everyone else. You didn’t quite see out of each other’s eyes, but in it, you—and everyone else—knew everything that was happening."
+
+They strolled along under the eaves of the manor. The wind blew freely, tugging at the hems of their clothes.
+
+"My parents died from a raid," Yu Nuan said. "Nothing uncommon; it happens all the fucking time. Monsters fight in the sky, and you're lucky if you don't get stepped on. This was the first time I've been the monster though. I know they'd not have any more mercy for us than what we showed. Because I remember."
+
+Thunder. Thunder in the sky. Rain falling through a broken roof. Despite the fires, she can hear crackling outside where screams are still echoing, men who ride the wind laughing, and bowstrings humming.
+
+"But the actual fighting is not satisfying. It's just cold and filthy. I get why so many of the old heads dive into the bottom of a bottle or turn it into a game. Me? I'm exhausted. Anyway, to answer the question you're actually asking, I'm glad we're done pushing for now. The cloud tribes have scattered. Eyes are out, but they've apparently ran and ran far. Consolidation of the new territory is going well, but they're keeping patrols on alert, since it's still pretty easy to slip the net if we don't."
+
+"Thank you."
+
+Ling Qi tilted her head back and glimpsed Hanyi glancing at Yu Nuan in confusion. Her little sister did not understand. So far as her junior sister was concerned, enemies were for killing. There didn't need to be any more meaning ascribed than that. Hanyi was still a spirit of death and cold.
+
+"I was interested in your feelings as well,” Ling Qi said. “There's no need to push me away."
+
+Yu Nuan grimaced. "Yeah, sorry. Not like you've been sitting pretty while I’ve been on duty. You look like you'd be dead without all those talismans holding you together."
+
+"You say the nicest things. You're not wrong, but I'm getting closer to holding myself together every day."
+
+"Hmph. Big Sis will be back on her feet soon. A little fire won't keep her down. Remember that! Big Sis is the toughest."
+
+"I won't forget," Yu Nuan replied dryly.
+
+They came around the corner then, entering the gardens proper.
+
+"Welcome, Big Sister, Hanyi, Spiky Woman!" Gui called out. He was resting in the tilled area carved out for him in the flower beds, surrounded by shoots of new growth.
+
+"Thank you, Zhengui," Ling Qi replied. "Feel free to let your spirits out, Yu Nuan."
+
+The girl beside her exhaled, and the air crackled.
+
+"Borf!"
+
+Paws and stubby claws sparked off the stone tiles as Qiu, the storm-herding hound, materialized on the garden path. A huge, fluffy dog composed of shifting blue and white clouds riddled with crackling arcs of electricity, Qiu was almost as tall as Yu Nuan’s shoulder. The hound seemed to almost vibrate with excitement before a damp cloud burst out in every direction, leaving a much smaller dog trotting in an excited circle before he ran down the path toward Zhengui, yipping.
+
+"Qiu is most pleased to break from our duties."
+
+The other spirit loomed behind Yu Nuan. Ling Qi had only met him once before in her visit to the Thunder Palace alongside Yu Nuan. He looked like a powerfully built man made of clear glass and filled with roiling gray and black clouds with a hooked and birdlike nose and wings of crackling electric feathers that were folded down and clasped around his neck like a traveler's cloak.
+
+"Yun Long, correct?" Ling Qi asked rhetorically. "I do hope you have taken to your new duties well."
+
+"I have! There are many new sights beyond the palace walls and many lands which do not yet have their god of thunder. I am truly thankful for this opportunity. Madam Nuan has been safe under my escort!"
+
+Yu Nuan wrinkled her nose as he spoke. Whether she was disgruntled by being called “madam” or simply at the spirit's bombastic voice, Ling Qi did not know.
+
+"I'm glad, but I hope you have improved your hit and chase tactics," Ling Qi teased.
+
+Sparks crackled, and a flash of wounded pride cracked his shell. "And I hope you have found my diamond snare most useful."
+
+"I have,” Ling Qi said brightly. “It proved a very good tool in the right hands."
+
+"Stop trying to puff up his feathers please," Yu Nuan interjected.
+
+"My apologies," Ling Qi said. "It was only a jest in reminiscence."
+
+Yun Long wilted under Yu Nuan’s pointed look. "I accept it. I was too quick to temper."
+
+"Aw, it's no shame to lose to Big Sis," Hanyi said, probably thinking she was being comforting.
+
+They made their way across the garden as they spoke to Zhengui's rest where Qiu was all but bouncing in a circle around Gui's shell, sparks of electricity leaping off of his pale fur.
+
+"Ugh, slow down," Zhen complained. "You speak too quickly!"
+
+"It is okay. Gui believes he is just happy to see us…" Even Gui sounded bewildered.
+
+Qiu borfed rapidly.
+
+"Qiu-good-boy greets Zhengui-precious-turtle-pack-lord-king-little-sovereign. Treat-giver-mistress says we will be pack. Qiu-good-boy-thunder-herder-cloud-protector promises loyal service in court of lands. Will be very fun-exciting. Qiu-good-boy hears snow lake has many many winged bird things to chase. Is it true, is it true? Funny funny flocks a scatter but not angry honks who will bite and chase back and…"
+
+Ling Qi's eyebrows climbed. She couldn't blame Zhen’s annoyance. Even she felt her head ache as she tried to parse that into something she could comprehend. Like the lightning he was partially composed of, the hound’s thoughts and expressions jolted and jagged at the speed of lightning, splitting and branching and cutting off with little rhyme or reason.
+
+"You alright there?" Yu Nuan asked.
+
+Ling Qi realized that she was rubbing her temple and made a silent apology to Zhengui. Her little brother could handle that part of the conversation. "I am well. Qiu certainly is excitable, isn't he?"
+
+"A good hound should be energetic." Yun Long stroked his chin. "It is a sign of the quality of my father's kennels."
+
+"It's a sign of something alright," Yu Nuan said. "May I sit? Er—I mean…"
+
+"Go ahead.” Ling Qi gestured to the stone bench by the path. "Hanyi, just place me by its side please."
+
+"Got it!" her junior sister chirped.
+
+Yu Nuan dropped onto the bench, stretching her arms in a particularly unladylike sprawl. "So we're actually doing this, huh?"
+
+"You did ask for it, and all of the paperwork has been filed. Only the final agreement and the clan ceremony is left," Ling Qi commented. "Are you regretting it now?"
+
+"No. I don't think so. I'm definitely sure I shouldn't be in charge of a whole clan." Yu Nuan squeezed her eyes shut. "Surprised you want to have some big ceremony though. Or did your mom push that?"
+
+"A little. She's the one who is going to stuff you in a proper gown, at least for the night." Ling Qi chuckled.
+
+Yu Nuan frowned. "I can't even be mad. It'd be ungrateful. Your mother is surprisingly stubborn. I told her she doesn't need to treat me like anyone special."
+
+"Mother understands more about noble ritual and tradition than I do," Ling Qi said thoughtfully. "I have memorized more books and rules and lists maybe, but I do not know it instinctively like she does… But I agree with her that the ceremony is important."
+
+Yu Nuan cracked an eye open. "Yeah?"
+
+"The Ling Clan will not always be me, my mother, and my sister. It's important to start traditions. People need something to bind them together that isn't just personal relations."
+
+"And when those turn into nooses in a few hundred years, ain't you gonna look silly," Yu Nuan retorted. "I get it though. People aren't that different from beasts. We make life more complicated, but everyone wants to know they have a pack that has their back."
+
+"Indeed. To have a place and the knowledge that it is secure is something I think even humans value greatly." Yun Long folded his legs beneath him to sit cross-legged in the air. "Madam Nuan was helpful in allowing me to understand that taking this from me was not my father's intent."
+
+"Yeah. From what you told me, you were going squirrely back there.” Yu Nuan shook her head. “Not enough to do for you and all your brothers."
+
+"I should hope I don't weave anything strong enough to be a noose," Ling Qi said dryly. "But you’re not wrong. I've been thinking about how people are drawn together and pushed apart. You can't create a community without some sort of exclusion."
+
+How did you even define an “us” if there was no “them” to compare it to? Ling Qi suspected that if she tried, people would just make their own smaller and better defined communities that did define a “them.”
+
+Yu Nuan frowned deeply and then shook her head. "Not gonna lie, that just seems obvious to me. You can't be friends with everyone, not least because there's always going to be someone with a chip on their shoulder who wants to have a go at you. Most people want to get along and live untroubled, but some bastards just like being bully boys."
+
+"And so you came to me,” Ling Qi said, laughing, “because it's better to have a pack at your back when that time comes."
+
+Hanyi shrugged. "Seems smart to me. Of course someone would notice how cool you are!"
+
+"I came to you because you and that boss of yours seem like you actually believe in principles, and more than that, you look like you're doing something to make it a reality," Yu Nuan corrected. Then, she snorted. "And cause you're strong. I won't lie about that. I'll be better protected here than I ever could be on my own."
+
+"A task I am more than up to,” Yun Long commented, “but I suppose Madam Nuan is speaking of human court problems."
+
+"That's fine. However, in my clan, you'll have to deal with being family. I don't think I can separate that concept from the clan. That means enduring the dresses and the ceremonies for a start," Ling Qi said. "You seem to be doing just fine though. Biyu has taken your advice well. Thank you for spending time with her when I couldn't. She's looking forward to seeing you again, too."
+
+Yu Nuan shifted uncomfortably. "You should be good to kids. Nothing special about that."
+
+"As you like," Ling Qi said with a knowing smile.
+
+Ling Qi observed Yu Nuan restraining the urge to stick her tongue out at her like a child and restrained her own urge to snicker at her.
+
+"Well, if you're doing this right, so am I,” Yu Nuan declared. “I want to give an adoption gift to the clan. I've got a couple arts that aren't from the sect. You're gonna accept one."
+
+Ling Qi raised her eyebrows. "Is that anyway to speak to your clan head?"
+
+"I think it's the way to speak to MY clan head."

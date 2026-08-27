@@ -1,0 +1,119 @@
+---
+id: 9be75a04-8484-5a0c-a2a0-9ec6272a3045
+page-type-slug: story-chapter-royal-road
+title: "Threads 201 Festival 2"
+slug: 0233-threads-201-festival-2
+partOf: forge-of-destiny
+position: 233
+ownLength: 1948
+unit: words
+publishedAt: 2022-03-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/870817/threads-201-festival-2"
+royalRoadId: "870817"
+---
+
+As she left in the afternoon, she found herself standing outside the gates, looking up at the sky. They’d positioned and inscribed the sculptures Zhengui had already made and twisted the flows of qi to thicken the mist about them, cloaking their simple details, but there was still quite a lot to do, especially since they were planning to accommodate twenty odd mortals instead of only a few.
+
+“Are you really okay with that? It seems like a weird decision for you,” Sixiang commented.
+
+Ling Qi hummed in agreement, strolling down the street toward the town's gate at a mortal speed. It was a strange decision, but it wasn’t for her.
+
+“Ah, I guess the little big guy was really excited about more people,” Sixiang mused.
+
+His eyes, both sets, had lit up when she announced her decision. She didn’t truly understand it, anymore than she understood how Hanyi could be so irritable with crowds and yet so comfortable on stage, drawing energy from her audience to perform more smoothly than she ever did in their practices.
+
+“There’s a lot of power in an audience,” Sixiang said. “In any crowd.”
+
+Ling Qi thought of roads carved in mountains and endless cities built in towering piles, descending beyond sight in the depths of dream. Small pieces, making something greater and greater still.
+
+“I’m not one for the great crowds,” she said, passing down the slowly emptying streets. “But it seems my siblings are. That’s fine, I think.”
+
+... Trying to drag others along her Way was probably futile, wasn’t it?
+
+Yet, Ling Qi found, she couldn’t yet arrive at a conclusion. She had seen a brief window of war. She had walked in the dusty streets of history and taken the tiniest measure. She had witnessed the adulation of people over the course of a week-long tour. What she was doing with Zhengui was another piece, she thought, perhaps the last one to find some satisfaction for the festering itch that had been in the back of her mind for months.
+
+“Come on, Sixiang,” she said. “Zhengui is expecting us.”
+
+***
+
+“Oh, Gui is so excited!” Her little brother practically vibrated with excitement.
+
+“Foolish Gui is too undignified,” Zhen hissed. “At least try to be serious!”
+
+Ling Qi smiled faintly as Zhengui bickered with himself, looking out into the mist-filled paths of the garden. They had finished the last of the wards in good time, leaving the last few days to decide exactly how this festival was going to proceed. She had tried to invite Hanyi to participate as well, but her other spirit had taken one look at the garden and said it wasn’t her place. That hadn’t stopped her from hanging around and critiquing their efforts though.
+
+Now, with evening falling on the last day, Hanyi was guiding her family and household to Zhengui’s hill.
+
+“I think Zhen is right this time,” Ling Qi said. “It’s important to be serious for the first part.”
+
+“Big Sister is right.” Gui stilled himself with an effort. “But it’s gonna be hard. Why do we have to wait at the center?”
+
+There was a bit of childish complaint in his voice.
+
+“Because you’re the king of the garden. Sixiang, Hanyi, and I are the guides,” Ling Qi admonished gently.
+
+“Obviously,” Zhen hissed haughtily. He had been the one to insist most firmly on the idea. “Besides, foolish Gui will be busy controlling the trees! Do not be distracted and ruin Zhen’s first festival.”
+
+“Gui is more worried about snotty Zhen scaring people and being mean,” Gui grumbled. “Gui will do his part!”
+
+“Hmph, do not imply that Zhen would be so careless around Little Sister,” his other half hissed.
+
+Ling Qi closed her eyes, knowing that it was just his nerves that brought out his bickering side.
+
+“They’re almost here,” Sixiang whispered.
+
+“It’s time, Zhengui,” Ling Qi said aloud.
+
+“Okay, Big Sister!” they said together, and she could hardly tell their voices apart.
+
+Ling Qi dispersed herself into the shadows, traveling to the entrance of the garden.
+
+She saw them then, a dark patch on the green grass, snaking its way toward the hill. At the head of the line was Hanyi, walking with her head held high. Just behind her walked her mother, holding Biyu’s hand. Behind them was the rest of the household, escorted by a handful of the Sect’s soldiers whose service she was still renting. Watching them, she saw in their faces and postures a mix of trepidation, wariness, and curiosity. It was likely the first time that most of them had been out beyond the warding stones of a city or road.
+
+She remained silent as they reached the base of the hill and paused, looking at the garden. From the outside, it probably looked a little ominous, a crown of pale trees atop an otherwise scrub free hill, shrouded in a low lying mist, the needles and leaves of the densely planted trees whispering in the wind. At the entrance of the garden where Ling Qi stood were two sculptures, the best Zhengui had managed yet. A pair of stout stone tortoises that rose to the height of Ling Qi’s weight, the sculptures were recessed back into the treeline so that their silhouettes could loom in the mist.
+
+Ling Qi stood still as the group ascended the low incline of the hill until at last, Hanyi and her family stood before her, their household just a little ways behind.
+
+“Senior Sister, I’ve brought everyone,” Hanyi said formally in a sweet voice.
+
+“Good job, Junior Sister,” Ling Qi said politely. “Mother, little sister, welcome to the garden.”
+
+“We are pleased to come, my daughter,” Ling Qingge said. Biyu stayed quiet, looking up at the lights winking in the darkness behind Ling Qi with wide eyes.
+
+Ling Qi turned her gaze to the other women, who had shuffled into loose order, keeping their heads bowed before her. “And to all of you, for easing the lives of my family and all of your work, know that you are safe and welcome here under the protection of Ling. We are here to tour the gardens and honor the one who brings us safety this night. Each of you, take one of the lanterns I have provided, and we will begin the procession.”
+
+She gestured to her right where a finely carved container held around a score of small wooden lanterns formed from naturally grown wood. She presented the first to her mother, and to her credit, Ling Qingge did not startle as a dull red light flickered to life behind the lattice of roots. The lanterns were simple things, inscribed with the character for light on the inside and infused with enough power for even a mortal to light them for a few hours. As the women of the household quietly shuffled forward to take their lanterns, dotting the growing darkness with lights of many colors, Ling Qi crouched down before Biyu and presented the special smaller lantern Zhengui had grown for her.
+
+As warm yellow light bloomed inside it and Ling Qi closed her little sister’s hands around the handle, she smiled. “Hold on to this tight, okay? This first part might be a little spooky, but just remember, nothing will hurt you while Big Sister is here.”
+
+“Kay, Siss-y” the little girl said in a small voice, holding tightly to her lantern.
+
+Ling Qi looked up at her mother and nodded, rising to her feet. She turned, dissolving into shadow and appeared once again on the path between the tortoise statues. She clapped once for attention. “Now, follow and remain on the path, and turn your thoughts to the future.”
+
+As Ling Qi stepped under the eaves, she released her grip on her domain, letting her spirit flow out to fill the space around her as her flute materialized in her hands. The mist thickened and rose, swirling about at around the knee height, but the path remained clear to any following her. The lantern light, fueled by the qi she had infused in the wood, cut through the darkness easily as she began to walk.
+
+Her mother followed a step behind, hand in hand with Biyu, and all the rest trailed behind, silent but for murmurs she was sure they thought were quiet. Ling Qi smiled faintly as she raised her flute to her lips and began to play. The sound of strumming strings joined the first notes of her flute thereafter, played on the wind by Sixiang.
+
+It was a somber song, but to Ling Qi, it felt familiar. It was winter wind in dusty streets, the scent of alleys and crowds. It was exhaustion and long day’s work, lingering hunger and aching muscles. It was hardship, and it was a song everyone here knew save for Biyu.
+
+The women here were not her family. It was unlikely she would ever look at them that way, but if Ling Qi closed her eyes and lost herself in memory, understanding was not so far out of reach. The first path in the garden wound leisurely through the perimeter, lined with pale trees whose eaves came together above. White and black flowers grew amidst their roots, the monochrome colors glittering under the light of the lanterns that cut through the mist.
+
+The song continued all the while as they walked, and a cold winter breeze blew, causing some to shiver. She could feel spirits beginning to lower under the weight of the music.
+
+On the left, a pair of thick dark pines groaned as they pulled apart, and Ling Qi turned into the resulting passage. Beyond was the first of the flowerbeds. Mist reflected off of petals of a dozen colors, lighting the way ahead even before the lanterns followed.
+
+A new part of the song began, and the flute and the strings were joined by a heavy, regular beat that vibrated the earth. It was simple—Zhengui wasn’t much of a musician—but the thump of the earth and the pulse of his qi changed the somber sound to something more upbeat. It was hardship rewarded and the hope of something better, a farewell to what had come before.
+
+It was, Ling Qi thought, not really her song anymore. As she strode into the flower field, following the narrow gravel path that wound through it, she observed her family and the servants. Biyu’s wonder warmed her chest as did the unstressed posture of her mother’s shoulders. The expressions of the rest brought her some satisfaction, but nothing more.
+
+She was a cold person and a selfish one. Her love was only for the ones closest to her.
+
+Her little brother, however, was warm. Both expressions of his being were things of vitality and life. It had started to creep in on her when they interacted with Wang Chao and the others. Zhengui joined the other spirits cheerfully. He interacted willfully. He liked people.
+
+Ling Qi was a cold person, but she coveted warmth, as surely as any wraith or snow spirit. Some part of her wanted to jealously keep his affection for herself.
+
+That was why she had decided to do this. She knew that the mere echoes of the war had been frightening for the mortals at its edge. She knew that there was uncertainty even now and trepidation at the arrival of so many nobles. Raising the spirits of so many, of people with whom she had no deep connection, was beyond her.
+
+It was not beyond Zhengui though. It was something only he could do for them.
+
+As with the spirits of the valley viscounty, power, as she understood it, was not enough.

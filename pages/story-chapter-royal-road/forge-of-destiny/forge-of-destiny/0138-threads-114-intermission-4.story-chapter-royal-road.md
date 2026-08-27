@@ -1,0 +1,161 @@
+---
+id: f60c42c0-09ee-591d-92dd-78a4f4204b0a
+page-type-slug: story-chapter-royal-road
+title: "Threads 114-Intermission 4"
+slug: 0138-threads-114-intermission-4
+partOf: forge-of-destiny
+position: 138
+ownLength: 2317
+unit: words
+publishedAt: 2021-08-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/726424/threads-114-intermission-4"
+royalRoadId: "726424"
+---
+
+There was a dull thunk as Ling Qi’s head struck the surface of the table.
+
+“Quit sprawling over my table,” Su Ling grumbled.
+
+Ling Qi cracked one eye open, peering at the girl sitting across from her. “Aren’t friends supposed to be more sympathetic to this kind of thing?”
+
+“I don’t even know where to start with what you told me,” Su Ling said bluntly. “I don’t get it. from what you said, the guy is the most harmless sort around. Besides, don’t you have other folks you can talk to about this kind of thing?”
+
+Meizhen was currently deep in collusion with Bao Qingling. She had checked. Suyin was busy with the elders, and Cai Renxiang… Ling Qi made a face. She wasn’t going to try and talk about this with Cai Renxiang. “I’d think you of all people would understand where I’m coming from,” she moaned sitting up. Su Ling was, after all, the one whose past was most similar to hers.
+
+Su Ling gave her a hard look, her pointed ears twitching. Then, deliberately, she bared her teeth, the fangs of a predator. “I’ve never worried about that particular thing,” the girl said a moment after, and her sharp black nails clicked as they drummed on the table. “A bunch of assholes with torches and clubs deciding to get rid of the monster once and for all? Sure, but not what you’re talking about. Never really had a thought for my virtue.”
+
+Ling Qi looked at her friend. “I guess you’ve never really been completely helpless,” she said. She hadn’t really thought about the difference in their conditions.
+
+“I wouldn’t say that,” Su Ling said. “Just that I’ve never really had that fear. After all, my mother’s the monster. My dad was the victim.”
+
+“That’s one thing I’ve never understood,” Ling Qi said, leaning back in her chair. “Why do you care about your father? You never met him, obviously.”
+
+Su Ling shrugged. “Maybe he woulda been a drunk or a layabout, maybe he woulda been the best dad ever. I’ll never know, will I? So fuck that bitch for taking him.”
+
+“You really have to watch that language, Baroness Su.”
+
+“Don’t you start,” Su Ling replied darkly, making a disgusted face. “I have no idea how I’m supposed to deal with that.”
+
+“Pretend that you know what you’re doing, and study like mad in the background,” Ling Qi suggested.
+
+“Speaking from experience?” Su Ling asked dryly.
+
+“Yep,” Ling Qi replied with a grin. “Seriously though, congratulations, Su Ling.”
+
+“Yeah, yeah, I never thought I’d make Inner Sect.” Su Ling sighed.
+
+Ling Qi patted the other girl’s hand in commiseration.
+
+***
+
+Ling Qi stretched her arms overhead, enjoying the light of the early morning sun. The twinge in her back had faded, and she was once again approved for cultivation. Sitting atop Zhengui’s back as they trundled down the mountain path, she found that she was actually looking forward to this gathering.
+
+Below, she could see the brightly colored pennants marking out the edges of the grounds Wang Chao had rented out. It seemed like the setup had gone well. Most of the field was left open for cultivation activities and sparring, but a small pavilion had been erected at the far east end, which would contain tables laden with refreshments and a few temporary meditation chambers for those who needed privacy for some cultivation.
+
+She had, on Cai Renxiang’s advice, helped with the planning for that part. She could already see a half dozen odd disciples, including Wang Chao, clustered near a sparring circle, having a discussion. There were a few spirit beasts already present as well, a pair of dogs, a big tawny mountain cat, and a preening eagle. The only one which stood out to her was the horse-sized shaggy black mountain goat that she knew belonged to Wang Chao.
+
+The other beasts gave the creature and its tall curling horns a wide berth.
+
+“Are you excited to get some exercise, Zhengui?” Ling Qi asked.
+
+“Yes!” Gui agreed, but she couldn’t help but notice that his cheer was a little strained.
+
+“I, Zhen, doubt that there will be much to learn here,” Zhen scoffed.
+
+“Don’t be like that. We’re here to work together and meet some new people,” Ling Qi scolded. “Just remember that we’re here to enjoy ourselves, too. You’ve earned some fun, you know?”
+
+“It would be fun if Hanyi was here,” Gui grumbled.
+
+Ling Qi frowned. “I know, but she is very inspired right now.” Hanyi had been withdrawn since their return, and she was hard at work composing something. Ling Qi didn’t want to interrupt her because she recognized that sort of fugue.
+
+<We all take different things from the Dream. For what it’s worth, I think letting her be is the right decision,> Sixiang whispered.
+
+“Please, Zhengui, let’s try to enjoy ourselves, okay?” Ling Qi asked.
+
+“Zhengui will try,” he replied, but he didn’t seem enthusiastic.
+
+She hid her frown, trying to think of what else she could say, but soon, they were no longer alone.
+
+She glanced up as she felt someone approaching from one of the other paths. It only took her a second to recognize Alingge, the girl she had met at Luo Zhong’s party. She was dressed much the same as always in a surprisingly scant combination of tunic and skirt, but she had replaced her white fur cloak with one of darker red. She rode on the back of a tawny female deer fitted with a saddle but lacking a harness.
+
+“Ling Qi,” Alingge greeted as her mount cantered up beside them. “Honored Zhengui, it pleases me that you emerged from your hunts unmarred.”
+
+“It pleases me, too,” Ling Qi said wryly. “It looks like you’ve been busy. Is that a trophy?” she asked, nodding to Alingge’s cloak. It looked to be made from the pelt of one of the cloud barbarian’s horses.
+
+“Yes, my deployment was successful as well,” Alingge agreed. “The raiders did not pass us.”
+
+As they spoke, Zhen had met the eyes of Alingge’s mount, and they appeared to be having a staring contest. Zhen preened, looking proud and fierce, but Alingge’s companion merely looked placid.
+
+“Congratulations,” Ling Qi said. She could listen to what Zhengui was communicating, but there was no need to pry.
+
+“Your praise is welcome, though your deeds are the greater ones. Regardless, let me apologize for my rudeness. This one is called Sembidun,” Alingge introduced, patted the neck of the deer she rode.
+
+The beast turned her eyes to Ling Qi. “I greet you, Singer, and the Young Growth as well.”
+
+“It is good to meet you,” Ling Qi said politely, and she subtly tapped Zhengui’s shell.
+
+“Gui greets Whispering Wind and the Beastkeeper too,” Gui said.
+
+Zhen remained haughty, but at least he lowered his head a little.
+
+“Is Sembidun your only spirit beast?” Ling Qi asked curiously. “Or are your others not coming today?”
+
+The two of them looked briefly at one another. “She is my heart companion,” Alingge explained slowly. “My pact with the others is different. This is not a matter which I may explain.”
+
+Clan secrets, Ling Qi understood.
+
+“I won’t press,” Ling Qi reassured her. “I apologize if I gave offense.”
+
+“I have taken none,” Alingge agreed. “But let us not tarry longer. The field awaits.”
+
+***
+
+“Miss Ling! Welcome. I was just discussing our program with our junior peers,” Wang Chao greeted bombastically as they approached.
+
+A few of those gathered, who were most certainly older than Ling Qi, looked mildly irritated.
+
+“Oh, you’ve decided on that already?” Ling Qi asked. She had ceded planning of the actual training to Wang Chao since that was what she had originally planned to ask for his help with.
+
+“Yes,” he said, just a little pompously. “While we will spar together obviously, I was thinking that between the two of us, we could demonstrate to our peers the two extremes of high level cultivator combat. Singular overwhelming physical force for myself and…”
+
+“Encompassing spiritual field effects for me,” Ling Qi said, finishing in the pause he gave her. “I think that will work nicely with the arts I am intending to cultivate.”
+
+“Hoh, you have something new in mind, Miss Ling?” Wang Chao asked.
+
+“Lady Cai is generous,” Ling Qi explained. “I cannot yet make my own arts, so she elected to see the gap in my capability filled.”
+
+“The Cai are indeed generous to those who earn it,” Wang Chao agreed seriously. “And from what I have heard of your expedition, you have certainly done that.”
+
+“Your own deeds were admirable as well.” Ling Qi knew this dance well enough by now. She had checked up on it. Wang Chao had indeed done well in his assignment to defend one of the inner passes, so she didn’t even have to embellish. Still, she felt Zhengui shifting impatiently beneath her. “But I am sure everyone is looking forward to a little exercise.”
+
+“Yes, yes, of course,” Wang Chao agreed. “So, this is the schedule I have worked out for the morning…”
+
+Such was the beginning of Ling Qi’s cultivation routine for the month. Over the next few days, she began to cultivate two arts she had received in her Cai-gifted arts package, the Unstoppable Glacier’s March and the Beast King’s Savage Dirge, while working on coordinating her tactics with Zhengui.
+
+Each day, she found a few more people trickling in, most of whom were in the appraisal and foundation stages. This was most helpful for the open sparring section of the day. It meant that she always had sparring partners to match with when practicing her developing arts.
+
+***
+
+Ling Qi’s fingers came down on the holes of her flute, sounding the deepest note possible. Before her, the three disciples who had advanced through the tangle of Zhengui’s grasping roots and Paradise Ramparts blanched as a snowstorm screamed around her.
+
+The force of the note rippled out, freezing the moisture from the air as she took a single step forward in time with the next note.
+
+The frontmost attacker, a young man at foundation, planted the butt of his spear in the ground as he was driven backward, heels and spear alike digging furrows through the writhing earth. The young man to his left was less lucky. Forearms shrouded in crackling storm clouds crossed in front of his face to block the worst of the cold, but he was flung backwards to slam into one of Zhengui’s ramparts with a meaty thwack. The girl on the left in her pale green gown at least managed a controlled flight as she was flung away like a leaf in a storm, the twin iron fans in her hand guiding the wind currents enough that she sailed through a gap rather than directly into the thorny wall.
+
+The Unstoppable Glacier’s March art had come to her as naturally as breathing. It was an art that sought to capture the crushing inevitability of the eons long migration of the great entities of ice in the Wall from which the rivers that wind through and water the Emerald Seas were born. She had mastered the first stanza easily, and the refinement of the second had not been much harder.
+
+As the second boy struggled to pull himself away from the wall, Ling Qi felt the earth rumble as Zhengui followed in her footsteps, and grasping roots rose to pin him in place.
+
+The disciple with the spear lunged, the polearm in his hands burning like a brand. She swayed to the side, and it passed her head. Ling Qi took another step and was inside his guard. The chorus of the Grinding Glacial Melody sounded again, and he tumbled backward.
+
+The other boy, trapped against the wall, let out a cry of pain as icy wind and pressure crushed him into his restraints. He fell as molten venom impacted his chest in a burst of sizzling steam.
+
+Out of the corner of her eye, she caught sight of the other girl again, gliding on currents of wind to strike at her back. Ling Qi’s fingers danced, and she played a very different stanza. Pitched high, the wild melody transformed into the piercing shriek of an enraged eagle. The sun overhead, already dimmed by her Mist and Zhengui’s ash, went out, shadowed by vast wings.
+
+The phantom summoned by her song, a mighty raptor with a wingspan twice the height of a man and more with plumage of dark grey and pale blue, beat its wings once and dove. The girl cried out as she was seized in gleaming silver talons and carried away back into the depths of Zhengui’s killing field.
+
+The Beast King’s Savage Dirge was a more difficult and complex piece, one which did not so easily flow for her. Nevertheless, it was potent. An art supposedly composed for the last Weilu dukes, the ballad memorialized the eight Beast Kings who came together in council of war and marched to bring down the Horned Lord and the Diviner’s descendents. The Eagle God’s Defiance technique summoned the aerial phantom, fastest of the Beast Kings and lord of those who flew and preyed on the world below.
+
+She saw the spear-wielding disciple’s expression fall as beasts of black mist began to rise from the ground in thick ranks, their yowls and barks drowning out all sound. Claws and fangs glistened with rime. Primal War Calling was not like the Dissonance technique, summoning scattered nightmares to worry and distract; reminiscent of the muster of beasts across Emerald Seas by the Beast Kings for the final march, the call summoned the shades of long dead beasts from the shadows that would viciously attack enemies within range.
+
+Ling Qi stood surrounded by a howling regiment, and the shadow of her little brother loomed over them all.

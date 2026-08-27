@@ -1,0 +1,107 @@
+---
+id: 72df6ce2-8438-5efd-9c26-4c3ea10c6176
+page-type-slug: story-chapter-royal-road
+title: "Threads 124-Convergence 2"
+slug: 0151-threads-124-convergence-2
+partOf: forge-of-destiny
+position: 151
+ownLength: 2087
+unit: words
+publishedAt: 2021-08-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/742650/threads-124-convergence-2"
+royalRoadId: "742650"
+---
+
+The pavilion where the meeting was to take face was filled with third realms, around two scores of Inner Sect disciples. Most, Ling Qi judged, were from the lower ranks with cultivation in the first or second stage of the green realm and bronze physique. Ling Qi nodded politely to a few who she recognized from Wang Chao’s gatherings, but she remained at Cai Renxiang’s side as they filed in.
+
+Leaving aside herself, her liege, Liao Zhu, and Ruan Shen, there were only three other disciples at or above the foundation stage. Those three stood at the center of the tent.
+
+One was a familiar face. Guan Zhi stood at attention to the left side of the tent, only briefly glancing Ling Qi’s way as she entered. The only change in the girl since last Ling Qi had seen her was a hair thin scar that traveled from the corner of her right eye up beneath her hair. It must be a relic of whatever encounter she had deep in the Dream before finding them.
+
+Across from her stood a young man with brilliant green eyes. He was a handsome sort, putting her in the mind of Han Jian. He had dusky skin and wavy brown hair that framed aristocratic features. He wore pale green and brown clothing with light armor on his arms, chest, and lower legs.
+
+The third was, surprisingly, the short, portly elder who had overseen her duel with Liang He months ago. The soft featured man wore robes of pale yellow, matching the golden sheen of his skin. His expression was that of drowsy contentment, but Ling Qi knew better than to think an elder was inattentive. With him were two other's their was the masked Elder which had overseen her challenges, Elder nai, and an imperious woman in blue, who she had met only once. It was the dragon who had attended her birthday party at Zeqing's home,so long ago.
+
+It was the young man who spoke as the last of the inner disciples filed in. He clapped his hands once, silencing the stray murmurs. “Welcome, my junior siblings. For those that are unaware, I am core disciple Diao Gen. At my side is core disciple Guan Zhi, and with us today is the Honorable Elders Bei Yongrui, Elder Nai Zhu, and representing Elder Zhuge, the river dragon QIngshe.”
+
+The golden elder gave them all a paternal smile, his hands resting on the swell of his belly. The other two merely regarded them impassively.
+
+Daio Gen continued, managing in that way good speakers had to seem like he was looking at everyone at once. “I would firstly thank all who volunteered for this duty today. Your contributions to the Sect will not be forgotten. The matter today is one which the Sect’s leadership has debated fiercely,” he said gravely, “for there is every possibility that it is intended as a trap.”
+
+There was only a little noise at that revelation. Ling Qi shared a look with Cai Renxiang. They had, in the intervening days, spoken further on the mission, and the possibility had come up.
+
+“Divination within the Sect remains troubled and inconclusive,” Diao Gen said, shaking his head sorrowfully. “Such sources as we have indicate both the potential for great fortune as well as great danger, and so, it was decided that we must strike. However, we are not foolish. Elder Yongrui will ensure that we are not overwhelmed by a potential high cultivation foe, and if need be, he will call upon reinforcements, who will be lead by the other two Elders. If the barbarians intend to trap us, then they will find themselves trapped in turn.”
+
+Ling Qi glanced at the smiling elder. He was in the sixth realm, as potent as anything that the barbarians could muster, yet Elder Zhou’s fate worried at her mind.
+
+“The target is thus,” Diao Gen continued, gesturing at the empty stone between the expedition’s three leaders. The flat ground rippled like water, and shapes arose, mountain peaks, valleys, and hills rendered in miniature. The detail of the “sculpture” was exquisite, tiny trees and plants rendered in darker stone and rivers glittering in crystal. Diao Gen’s extended hand pointed to a peak in the center as it finished. It was shorter than the others, as if someone had come along and scooped the top half of the peak away, leaving a cavernous pit. “Earthwound Peak is believed to be a dormant volcano, although it has never erupted in the history of the Empire.”
+
+“The obvious implication is incorrect, however,” Guan Zhi said crisply. “To awaken the mountain would be beyond the abilities of any cloud tribesman yet recorded. There is some possibility of cooperation with their allies, but we do not believe that to be the purpose of the meeting taking place.”
+
+“Regardless, we may investigate after we have broken them, yes?” Diao Gen said lightly. It earned him a smattering of polite laughter. “For our purposes, the assault will be split into two groups. One will strike directly against the foe, and the other will encircle the southern end of the battlespace to catch those who flee. I will lead the perimeter group, and Sect Sister Guan will lead the assault. And should they flee east, west, or north…”
+
+“They will find my brothers and sisters waiting,” Elder Yongrui finished cheerfully.
+
+“Indeed,” Diao Gen said. “Now, who wishes to join which group?”
+
+Ling Qi shared a look with Cai Renxiang.
+
+“Are your thoughts running similar to mine, Lady Cai?” Ling Qi asked quietly.
+
+“I believe so. The main force?” Cai Renxiang murmured. For their purposes, one choice was the clear superior. Remaining on the perimeter to perform captures was all well and good, but if they could prevent tribesmen from escaping the caldera in the first place, that was much better and higher profile.
+
+Ling Qi nodded her assent.
+
+“We will participate in the assault,” Cai Renxiang called out, speaking over the murmurs of the other disciples as they discussed the matter.
+
+Diao Gen smiled. “Of course, Lady Cai.”
+
+“It will please me to have your participation,” Guan Zhi added evenly. Ling Qi met the older girl’s eyes and received a small nod of acknowledgement.
+
+Soon, other disciples followed suit, announcing their decisions. Liao Zhu would join the perimeter, and Ruan Shen, the assault. The other disciples split, mostly in favor of the assault. Of the third realms present, the assault would have twenty-eight, including them, and the perimeter twenty-three.
+
+“Now that these matters are settled, let us move to the next part of the briefing,” Diao Gen continued smoothly as the last disciple made their decision. “While it has not been possible to divine certainties of the enemy composition, certain matters have become clear.”
+
+“This meeting or ritual involves more than just the northernmost tribes,” Guan Zhi said gravely.
+
+Diao Gen crossed his arms, giving his peer an unreadable look. “Quite. Thus far, this conflict has, so far as we have determined, involved only a confederation of the tribes whose traditional routes take them through or near the borders established in the wake of Ogodei.”
+
+“It is a common misconception to imagine the cloud tribes as a homogenous group,” Guan Zhi said bluntly. “This is false. Imperial cartographers have measured that the whole of the Wall spans a region as large as the Emerald Seas itself, larger still if we count the foothills where the mountains give way to the lands of ice.”
+
+“There are, in these mountains, more than a hundred tribes with which we have had very little contact,” Diao Gen said, drumming his fingers on his elbow. “And many dozens more of whom we are aware, but which have so far disdained this conflict. However, we have divined unprecedented movements among these more distant tribes. While the barbarians’ great gathering at Star’s Throne Peak this past year is a known factor, a sort of primitive diplomatic moot which occurs once every decade, sect observers were becoming concerned at the tribes’ strange movements and mergers of more southerly tribes in its wake, even before the current war began.”
+
+“It is known that before this storm bloomed and made reconnaissance difficult, members of uninvolved tribes were beginning to move in this direction, if only in small numbers,” Guan Zhi said.
+
+“You suspect alliance and confederation,” Cai Renxiang observed.
+
+“Just so, Lady Cai,” Diao Gen said. “Given the lack of presence from true chieftains, it is unlikely that matters are so advanced yet.”
+
+So, this was also meant to discredit the efforts of the tribes at war with them then. By crushing it early, the Empire would dissuade other tribes from joining the cause.
+
+Still, something about that logic niggled at her.
+
+<It’s kinda arrogant and high-handed, isn’t it?> Sixiang observed. <What if these other tribes just get mad instead of scared?>
+
+Even if they did, the Empire was the stronger party, Ling Qi thought. In the end, the Emerald Seas wasn’t disorganized in the same way they had been for Ogodei. The Duchess was here, and even if there was some internal conflict, the rest of the Empire would be behind her. She wouldn’t refuse external aid repeatedly the way the Hui had.
+
+A lot more people would die though if it came to that.
+
+However, Ling Qi did not speak. She had learned a lot about etiquette and nobles over the course of the year. In doing so, she had learned more about what was expected by imperial cultivators. She knew that saying such things would only brand her a coward.
+
+She shot a sidelong look at Cai Renxiang and saw the hints of a frown on the girl’s face. Were her thoughts wandering in the same direction?
+
+The rest of the briefing was spent on simpler matters, discussing the terrain and the movements of the units in the field. Ling Qi had a better understanding of such things now than she had just a few months ago. By the very nature of their target, they would not be able to bring large numbers to bear without alerting the tribes. Since she was on the assault team, she, in conjunction with a young man on communications duty and with the aid of layered stealth-empowering techniques from the half-dozen scouting disciples with them, would be taking the lead to get them eyes on the caldera itself.
+
+It would be she who relayed to Guan Zhi and Cai Renxiang the information on where to place their opening strike. It was a dangerous position since it would take time to bring the rest of the forces up, but Ling Qi was confident in herself and her spirits. Even against stronger opponents, she expected that they could hold out for a short time at least.
+
+Once the briefing was done, there was only organizing for the move. The pouring rain outside had not stopped and would not stop for the entire trip. It would slow them down a good deal, not because of the rain itself, but because it was known that cloud tribe shamans could use the falling rain as a medium for perception arts, and so they would have to move slowly and use decoy marchers to confuse them.
+
+Elder Yongrui was not the subtle sort, and Elder Jiao was busy.
+
+The trip took nearly half a day under those conditions. Ling Qi did not have much time to speak with anyone. Together with Liao Zhu, she was assigned to circling the perimeter, observing their surroundings and reporting back so that the decoy marches and such could be adjusted and the main group’s route could be planned to avoid the scattered tribesmen who rode through the storm.
+
+Finally, Earthwound Peak came into view, towering overhead. The mountain was an ugly, lopsided thing of black stone, and the caldera was a deep and shadowed thing as if something tremendous had struck obliquely, shearing off the peak and digging a massive chasm in its side that left one part of the rim looming high and jagged over the smoother lower rim.
+
+Even here at its base, the cloud tribes’ presence was not obvious. Whatever shamans were responsible for the storm, they were not present.
+
+Elder Yongrui had departed their group long before they reached this point to avoid detection, flying high above the clouds, higher even than all but the strongest cloud tribesman could stand. Diao Gen and the perimeter group had also split off, circling wide around the mountain to the south.

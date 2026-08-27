@@ -1,0 +1,141 @@
+---
+id: ecd7b7f1-7a15-5008-b2c1-09d264ffef47
+page-type-slug: story-chapter-royal-road
+title: "10. Trash Heap"
+slug: 0010-10-trash-heap
+partOf: god-of-trash
+position: 10
+ownLength: 2538
+unit: words
+publishedAt: 2025-03-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2104174/10-trash-heap"
+royalRoadId: "2104174"
+---
+
+Rhys rode with the mage, following wherever she took him. After riding a giant flower earlier, the giant sword didn’t shock him too much. He didn’t really know what to do. Straw was a monster, hunted by the mages. It wasn’t practical to stay with him. So in the end, going to learn from some other mage in a proper school wasn’t really a loss for him.
+
+The only real shame was being separated from Bast. He’d grown quite close to the boy since his arrival here, and he didn’t want to be apart. But he couldn’t interfere with Bast’s progression, so they’d have to part here for now.
+
+He looked back. I’ll look forward to seeing how much you grow, friend.
+
+The earth flashed by. It reminded him a bit of flying in an airplane, if the sword was a bit more precarious. Still, his body was far stronger than it had been in his first life, and his sense of balance likewise enhanced, so he didn’t feel the fear he might have if he were a mortal riding a sword. Instead, he stood behind the mage and took in the sights, his hair swirling in the wind.
+
+The mage glanced back. “Your reactions are too boring.”
+
+“Huh?” Rhys asked.
+
+“Usually, young disciples are all agape at seeing the world flash by. But you, it’s like you’ve seen it a thousand times,” she replied.
+
+“It is very impressive. Don’t get me wrong, I’m enjoying the view,” he reassured her.
+
+The mage glanced back. She snorted. Turning back forward, she tossed her hair and declared, “I am Magus Aquari Gibron, Schoolmaster of the Infinite Constellation School. We are a relatively small school with small renown. You should not consider yourself personally selected by the Schoolmaster, but instead, inducted normally. I will inform all the other teachers to treat you normally, so don’t think of taking advantage of this situation.”
+
+“Huh? Er… no, I wouldn’t,” Rhys said, taken aback. Was this something that could be taken advantage of? Hold on. Maybe I should take advantage of it.
+
+She narrowed her eyes. “I know your type. Don’t think you can fool me.”
+
+Rhys hummed to himself. If she was going to treat him the same way either way, he might as well try to take advantage of everything he could. Already, he felt no allegiance to this school. Being stolen from Straw, then treated coldly and with suspicion… why would he care about anyone where he was being sent? Especially when this was so obviously his consolation prize.
+
+They arrived without any more confirmation. The mage dropped him off at the foot of a mountain and flew off to the top. Rhys gazed up it. Fine buildings glittered up at its peak, the sure sign of a mage school, but there was also a strange smell. Somewhere between medicine and rot, but not rotting flesh. More like vegetable rot.
+
+Aquari’s words echoed in his mind. You signed up to be a janitor? You’ll have your work cut out for you.
+
+For a second, Rhys considered walking away. After a moment, he shrugged. He’d been considering joining a school while he was still with Straw. Now that he had the chance, why not try it? If it gave him no benefit, he could always just walk away. He’d only be going back to the same situation he came from.
+
+He walked on, up the mountain. A dirt path wound up it, interrupted every so often with wooden steps laid across to brace the earth and ease the climb. The further he climbed, the more extreme the rot smell grew. He drew out his old shirt and used it to cover his mouth. Weren’t mages supposed to be perfect and beautiful? They certainly weren’t supposed to smell like a pigsty.
+
+At the halfway point, he got his first hint. A pile of rotting herbs and other garbage piled up outside a small hut. Rhys tilted his head, giving it an appraising look. Some of the stuff looked like toxic sludge, but there were definitely components he could use in there. The tips of herbs, their roots and edges. Some of them even smelled familiar. He picked up a piece of leaf and sniffed deeply. His eyes widened. It smelled exactly like one of the dusty pill wrappers. There were missing components, of course, but it definitely smelled like part of it. He paused to pluck all the leaves out of the pile, sniffing the other bits of herbs as well. Any other herbs that reminded him of a pill wrapper joined the leaves in his pockets.
+
+“Hey! What do you think you’re doing?” a mage demanded, bursting out of the hut. His hair was a mess, and his face was blackened, as if something had just exploded in his face.
+
+“Good to meet you. I’m the new janitor,” Rhys introduced himself.
+
+“Janitor?” the boy asked, totally lost. He was only a few years older than Rhys, but his aura was far stronger. Even if he studied nonstop at absorbing mana until he was the kid’s age, Rhys was pretty sure he wouldn’t be able to absorb as much mana as this kid had right now.
+
+“The guy who picks up the trash,” Rhys explained.
+
+“Oh. We have one of those?”
+
+“You do now.”
+
+The boy stared at him for another beat, then shrugged. “There you go. Wait—hold on.” He rushed back inside, then dragged out a cauldron and tipped it into the pile. “There. That’s all my trash.”
+
+“Thanks,” Rhys muttered. The pile hadn’t been too bad. A little dark and filthy, but that was all. Now it oozed with a hot tarlike liquid that smelled like a sewer.
+
+The boy looked at him, then looked at the pile. He gestured.
+
+“I need to wait for it to dry, now,” Rhys informed him. Plus, he didn’t have anywhere to put it… yet. This school didn’t seem to have a trash heap, but he was going to change that.
+
+“You don’t have any heat resistance or acid resistance skills, and you’re meant to be our trashman?” the boy asked haughtily.
+
+Rhys paused. He raised his brows. He hadn’t been thinking of this as a chance to train, but the boy was right. This was a great way to get resistance skills. To think, he’d only seen trash, but this boy had seen it for the treasure it truly was. He nodded to the boy. “Thank you.”
+
+“Huh?” The boy stared at him, puzzled.
+
+Without any further ado, Rhys grabbed the steaming pile of trash and dragged it into the forest. His hands burned and ached, searing from the heat and corroding from the acid, but he kept dragging it. There was a strange numbing sensation, as well, which lessened the pain, though he couldn’t say he appreciated the way it crept up his arms toward his elbows.
+
+The numbing sensation abated as Poison Resist leveled up, and the burning instead came to dominate. Rhys dragged it deeper into the forest, looking for a good spot to start a trash heap, pile, or pit. A pit required a depression, but a heap or a pile both required flat land. On a mountainside, flat land was in precious short supply.
+
+At last, he found a deep cleft in the land. It was disappointingly narrow, but it would do for now. He set the trash clump down and stepped back, checking his arms.
+
+His skin was in tatters. Half burned, half corroded, it bled freely. Self-Regeneration leveled up as he struggled to close the wounds. But it was all worth it.
+
+Heat Resist 1
+
+Acid Resist 1
+
+Rhys grinned. It would have taken him forever to gain those, like it had taken forever to pick up Poison Resist, but instead of using standard techniques, he’d now linked the skills to trash! He needed those three Resistances to carry around trash, and so, his path was more than happy to accelerate his learn rate for them.
+
+He nodded, understanding. He needed to focus on trash. Link everything he could to trash. That was the only way he’d grow fast enough to truly become the most powerful mage.
+
+Dusting off his hands, he headed up the mountain once more. Every time he passed a house, he poked around until he found the mages’ trash pile, then hauled it back to his pit. Some of them smelled like the pill wrappers. Whenever he found one of those, he took a moment to pick the pieces and bits out of the trash before dragging it off, but not all of the piles of trash were full of toxic sludge. Some held more ordinary food scraps, or bits of paper and fragments of ink stones, or even mysterious pieces of wood and metal. Regardless of the content, Rhys took it all. Some of it burned, corroded, or poisoned him, but he didn’t mind. It just helped to level his Resist skills.
+
+And then, abruptly, he gained a skill he hadn’t expected at all.
+
+Impurity Resist 1
+
+Rhys blinked. He tilted his head. Impurity Resist? What was an impurity, in the first place? It made sense he’d get ‘impure’ by picking up garbage—trash was basically the definition of impure. But if he got a resist skill, didn’t that imply that ‘impurity’ was an affliction like poison or acid?
+
+He shrugged to himself. He was resisting it, so whatever. He could always ask someone later.
+
+It took Rhys some time to climb the mountain when he diverted after every house to carry the trash to his freshly-formed pit. By the time he reached the true start of the school, twilight had settled over the forest. The trees shimmered silver in the low light, pale pillars against the encroaching dark. A very bored-looking mage waited at the central plaza. As Rhys crested the stairs, she stood, exhausted, and strode forward. “There you are. What took you so long?”
+
+Rather than answering, Rhys scanned the square. A huge amount of trash piled up at the edges. It collected in mounds by the doors, in heaps under the windows, and danced through the forest like stray ghosts. He dashed out, collecting up the nearest pile of trash, and turned to descend the mountain again.
+
+The mage gritted her teeth. She chased after Rhys and caught him by the shoulder. “Hey! You’re the new disciple, right?”
+
+Rhys glanced at her. “Me? Oh, I guess so.”
+
+“My name is Tarais. I’m supposed to be your guide. But you’re just an ordinary student, right? So you can figure it out on your own. Just read the signs, it’s pretty self-explanatory,” she said.
+
+“I’m already figuring it out pretty well, to be honest. Do you have any trash?” Rhys asked. The smell was awful up here, but he was adapting to it. If there was such a thing, he was going to gain the Smell Resist skill pretty soon.
+
+“Ah… what?” Tarais asked, confused.
+
+“I’m the new janitor. Do you have trash?”
+
+“I do, but…” Tarais frowned, put off her pace. She was meant to be leading this student around, so why did she feel like she was the one being led around? And what did he mean, ‘I’m the new janitor?’ What did that even mean?
+
+“Excellent. If you could bring it to the center square, and tell everyone else to do the same, that would be a huge help for me. I’m happy to wander the whole mountain and figure out the lay of the land right now, but eventually, I’m going to need to collect the trash efficiently. You understand, right?”
+
+I understand nothing! Of course, Tarais couldn’t admit such a thing to a student her Schoolmaster had specifically told her to treat as nothing special. In fact, the Schoolmaster had even specifically brought up how ordinary this disciple’s talent was, and to not waste too much of her time on him. If she failed to understand something he did, wasn’t her comprehension, the very basis of talent, lacking compared to his? So she nodded instead of questioning him.
+
+“Good, good, that’s good.” Rhys went to pat her shoulder, then looked at his smudged hand and lowered it instead. Her robes looked nice and recently-cleaned. He didn’t want to ruin them. “Then, make sure you put the trash out on Sunday night so I can pick it up Monday morning.”
+
+With that, he turned and went back to his trash collection.
+
+Tarais stared after him, absolutely lost. After a second, she snapped back to reality. Somehow, that disciple, the one the Schoolmaster had specifically told her not to mind, and that he wasn’t much of a talent, had ended up giving her orders! The insanity. She shook her head, determined not to follow them.
+
+Time passed. Rhys worked through the night and through the next day and the day after that. Days became a blur, then weeks. He didn’t really need to sleep anymore. He liked sleeping, but in times like these, confronted with a mountain of trash, he didn’t want to. The treasures he’d spotted lingering in the piles of trash had his blood boiling. He wanted to gather up all the trash, collect it all together, so he could finally start going through it properly.
+
+The other disciples saw him working and laughed at him. What a fool, wasting his time with trash when he could be attending classes or studying under one of the masters! But at the same time, clump by clump, the trash in the central square diminished. Fresh air flowed once more on the mountain. No matter how they’d laughed at Rhys to begin with, all the disciples started to see him in a new light as the mountain grew cleaner and fresher.
+
+And none so much as Tarais. At first, she resisted it. He was doing it for some selfish aim, she was sure. But as time passed, and Rhys gained nothing while the school grew steadily cleaner, her resistance toward him lowered. When she saw a student dropping a pile of trash outside of a pillmaking classroom, she grabbed him by the arm.
+
+“Put that at the edge of the square. Rhys will pick it up on Monday.”
+
+From that moment, the rumor began to spread. The students all brought out their trash, making an immense pile at the edge of the square. And yet, when Tuesday morning came around, it was all gone. Within the span of a month, it became a ritual.
+
+While this was going on, Rhys hid out in his trash pit. His resist skills steadily leveled as he worked his way through the trash. There were resources galore to be found here, from scraps of herbs to tiny flecks of precious stones. He refilled his potion bottles, and then some, and set up a small garden in the rich compost he generated from the magical food garbage. Before long, he collected all the necessary herbs to build one of the pills in his wrapper collection, only to find he knew nothing about forging pills, potions, or anything like that.
+
+So, for the first time since he’d arrived at the school, Rhys went to class.

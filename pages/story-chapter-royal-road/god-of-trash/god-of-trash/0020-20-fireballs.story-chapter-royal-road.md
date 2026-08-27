@@ -1,0 +1,161 @@
+---
+id: 394f7df1-73c8-5b18-854c-8bf900f4bf91
+page-type-slug: story-chapter-royal-road
+title: "20. Fireballs"
+slug: 0020-20-fireballs
+partOf: god-of-trash
+position: 20
+ownLength: 3095
+unit: words
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2126754/20-fireballs"
+royalRoadId: "2126754"
+---
+
+Rhys sped through the fire spell manuals, only to find himself completely lost. It was like the words were oil, and his mind was water. He had to read every word a dozen times before it sunk in, and even then, he struggled to comprehend the meaning.
+
+He leaned back, letting out a breath. The problem was obvious. It wasn’t trash, so it was hard for him to understand it. He couldn’t easily comprehend the manuals due to their lack of familiarity with trash.
+
+Even so, he refused to give up. He picked up the manuals and pored over them again, forcibly putting the words into his head. He’d lived an entire lifetime as a trash mage, who was never able to so much as sense mana, but had never given up. He wasn’t going to throw in the towel this easily. The words might be hard to understand, they might not stick in his mind, but he wasn’t going to give in. He was going to learn an ignition spell, whether the ignition spell wanted him to learn it or not!
+
+He studied the manuals deep into the night, poring over the words over and over again. At last, enough of the spell stuck in his mind that he felt he could give it a shot.
+
+Day broke in the distance. Rhys lifted his hand. Carefully, he dragged his mana through the shapes indicated in the manual, pressed it into a form, and then pushed.
+
+Nothing.
+
+Gritting his teeth, he threw himself into the manuals again. Only when Cynog showed up with a roar did he abandon them. The two of them sparred for the allotted three hours, and then Cynog ran off to class, and Rhys limped back to his manuals. Once more, he forced himself to keep reading over the manuals.
+
+Comprehension eluded him. Words flashed past his eyes, but meaning refused to materialize. It was like he was reading in a foreign language, but he recognized the words. The words meant something to him. He just couldn’t put it together past that base level understanding.
+
+No, it’s like reading high level math, he realized. He could ‘understand’ the letters and symbols of e^(i*pi)=-1, but he didn’t actually comprehend anything about what that meant. It was just letters and numbers to him, with a few symbols mixed in. It might mean something to mathematicians, and it had probably meant a whole lot to Euler when he’d written it for the first time, but it was gobbledygook to Rhys. That was exactly what reading these manuals felt like. It didn’t matter how many times he forced himself to read the manual over and over again, it wouldn’t matter.
+
+He lacked some fundamental understanding about the formulas on the page that he would never be able to intuit out of nowhere, because he wasn’t a math genius. If he had a good teacher, he might be able to learn them even though he wasn’t a math genius—or in this case, an ignition spell genius, but where was he going to find a teacher like that in Infinite Constellation School? The only instructors who actually did their jobs had their hands full getting the lowest level mages up to snuff, and from there, mages were expected to figure things out on their own.
+
+Rhys sighed, putting the book down. Was it impossible? No. But for now, he was beating his head against a wall, and as a piece of trash, he didn’t have a head hard enough to beat it down.
+
+But that was fine. He was still young. He still had plenty of time. He could learn these spells later. Putting the ignition manuals safely back in his ring, he returned to his other pursuits. Namely, recovering from Cynog’s beatings, and practicing Trash Intent.
+
+There was more to Trash Intent than just making blades. As long as it had been thrown aside, he could reform its general shape with Trash Intent, given he had a feeling for its general shape. That part mystified him a little. With the nub of wood, he’d tried materializing a table, a staff, even a stool, but only a chair had ever materialized. It was as though the object knew what it had been, and wanted to be that thing once more. Trash Intent gave shape to the object’s desires, not Rhys’.
+
+Trash Intent. It was in the name, he realized, one afternoon when he was sitting there, sifting through the trash for a new weapon-slash-shield. Trash Intent. The trash became what it intended to be, not what Rhys intended it to be. It became what it had been, in its glory days. A thought came to Rhys. He grabbed a broken table and materialized its missing legs, then poked at them. They felt like wood. Even the cracks on its surface had filled in. But it was only wood.
+
+If this is based on the object’s intent… I wonder if I can draw out its full potential? The things it wanted to become, the things it dreamed of, before it became trash.
+
+He laughed at himself a little. Did things dream? Did they have desires? But then, when he could materialize the intent of objects, it wasn’t that far-fetched. Besides, if he could draw out the full potential of an object, or even pull out more than the full potential of an object… Rhys’ eyes shone. If he could use this to polish a sword into the perfect blade, to turn a table into a bulwark, to transform a mirror into a reflective shield, how powerful would that be?
+
+He released Trash Intent on the broken table. Steadying it against his body, he activated Trash Intent again, but this time, he poured everything into it. All his mana, and not only that, but his belief in the table. In what the table could have become, at its utmost potential.
+
+Trash Intent activated and instantly began sucking Rhys’ mana down. His mana dropped at a shocking rate. The table soaked it up, thirsty as a camel in the desert. He gripped it tight, even as he felt his mana draw down to nothing. Uncapping his mana potion in one hand, he sipped it down. One little sip at another, still pouring all his mana into the table. The potion drained. One quarter. One half. Three quarters.
+
+Just as Rhys began to doubt that he had enough potion to finish the technique, Trash Intent keened out, then halted. He took a deep breath and steadied himself against the table, on the verge of pitching over from exertion. Almost afraid of what he’d see, he slowly looked down.
+
+A shining, perfect table stood before him. Not a scratch remained in its surface. Its Intent legs were indistinguishable from its original legs. Its wood glowed, so perfectly polished the surface had a sheen to it. The legs stood firm, ready to stand until the end of time.
+
+This wasn’t the table he had repaired with Trash Intent. This was the table, as it had been at its most perfect. In the glowing moments immediately after it had been made, before anyone had touched it, before a cup rested on its face or a knife scratched its surface, this was the table the carpenter had turned, oiled, and polished with love. He’d drawn out, not its full potential, but its absolute most perfect moment.
+
+But I failed because I didn’t have enough mana. Something like drawing out its full potential, or even polishing it beyond its potential—all that was possible once he got stronger. Rhys looked down at the table, and his heart pounded in anticipation. I can’t wait.
+
+He released the Intent on the table, unable to hold it any longer. The sheen vanished. The scratches returned. The table immediately listed over once more as two of its legs ceased to be. Rhys sagged as well, exhausted, mana all but spent. It was an awesome technique, but not one he could use in battle yet. Not until he had significantly more mana.
+
+Rhys turned, looking at his trash pile. It had been about two weeks of training with Cynog and reading the manuals, and the trash had begun to stack, but it still needed to accumulate before it reached the heights where he’d ignited it last time. He needed at least that much trash to bother igniting it.
+
+Maybe four weeks was a bit premature for that seed, Rhys thought, then shrugged. He could always ask her to push the meeting back if he had to.
+
+He tossed down the last swallow of the mana potion. It put a decent quantity of mana in his core, but he wasn’t anywhere near full of mana. He’d scraped together a second mana potion out of the trash pile, but he hesitated to use it. He’d already drank one mana potion today. He didn’t want to drink too much at once, and lose his Less is More bonuses. Instead, he settled down to absorb mana—then paused.
+
+If I’m going to absorb mana anyways, why don’t I get dinner and a show? Nodding to himself, he stood and jogged into the school’s central square. As always, On the Appreciation of Mustelids was running again today, and as always, no one was in attendance. Rhys poked his head in the room, scanning an empty lecture hall, while the teacher ranted on at the front. Why would anyone attend, anyways? It was a trash class about a trash topic no one would ever use. Clearly nothing but the teacher’s excuse to rant about a topic they cared about, whether it was helpful to anyone else or not. A fluffy elective that would do nothing but pad a student’s credit hours while offering no valuable information.
+
+That’s right. It’s trash! Rhys grinned and sat down in the back of the class. He steadied his breathing and began to meditate, while the teacher’s voice droned on through his head. He didn’t listen attentively, but he didn’t completely ignore the man’s lecture, either. It really was a lecture on mustelids, on ferrets and all the beasts in the ferret family, from otters to ermines, but Rhys had always liked biology. He didn’t mind learning a little bit more about some fluffy little critters. He was just sitting still, wasting his time doing nothing but absorbing mana anyways, so why not pick up a little passive education along the way?
+
+The old man didn’t acknowledge his arrival. He droned on about badger-ferrets and the unique distinctions between them, the polecat, and true badgers. His voice was even and smooth, and if Rhys had been trying to listen instead of passively listening while he gathered mana, he probably would have fallen asleep. As it was, it was the perfect environment to gather mana in. Just enough noise to keep him focused and drown out all the background noise that might have distracted him, but not enough noise to pique his interest. It was the perfect white noise.
+
+Lo-fi old man beats to absorb mana to, he thought to himself, and chuckled.
+
+With the small change in his itinerary, his days drew on again. He battled Cynog in the mornings, and absorbed mana with the mustelid man in the afternoon. Three days into the lecture, he found himself pondering on the man’s topic of choice. Mustelids. They were hardy and adaptable creatures. Tiny little carnivores, fearing nothing. Desired for their fur, and hunted down across all the land.
+
+But they weren’t trash. They were beloved. Adorable in life, and used for their fur in death. Nobility searched for them. Their furs went for high prices at auction, and live ermines, stoats, sables, and ferrets were beloved pets of many high-ranked nobles or mages. In a certain way of thinking, they couldn’t be further from trash.
+
+Tiny furry creatures. Scrabbling around, fearing nothing. Eating everything in sight. His mind left mustelids behind, and wandered to a distinctly trashy creature instead: the humble rat. No one liked rats. They were chased out of cities, chased out of villages, chased out of houses. Their nests were destroyed, and they were even driven out of the trash. But they persisted anyways. They didn’t let that stop them. No matter how little someone might want them around, so long as they wanted to be around, they’d get there.
+
+And not only that, but they were clever. Smart little beasts that could keep their trails clean and get in and out without anyone noticing. Even if they were considered trash, they were quite capable and impressive creatures, with many admirable skills. Stealth, speed, burrowing, rapidly building a house, not letting a wall tell them no—all skills even a human mage found desirable.
+
+He furrowed his brows. There was something about that. Something… it was on the tip of his tongue, but he just couldn’t put it together. When the time came to fight with Cynog, he stood, but reluctantly. I’ll be back. There’s something about this old man’s speech that’s speaking to me. It wasn’t the words exactly, but something about it. The gist of it. The ideas he put forth. It was just that his comprehension wasn’t high enough for it.
+
+He checked his skills, to see where he was on all that.
+
+Rhys Foundling | 14 | Foundation Building (Tier 1)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 15
+
+Survivalist 29
+
+Pain Resist 40
+
+Scavenging 39
+
+Less is More 33
+
+Sewing 8
+
+Blow Mitigation 16
+
+Self-Regeneration 13
+
+Mana Manipulation 8
+
+Poison Resist 14
+
+Improvised Weapon Proficiency 10
+
+Heat Resist 9
+
+Acid Resist 10
+
+Impurity Resist 15
+
+Trash Intent 8
+
+Alchemy 2
+
+Herbalism 7
+
+Speed Reading 6
+
+Comprehension 5
+
+Enlightenment 1
+
+He’d gained a few new skills that he hadn’t expected, like Comprehension, but when he thought about it, what had he been doing, slamming his head against the ignition books? And maybe the lecture had helped it tick up, too. Enlightenment he’d seen pop when he was working on the fake manuals, so that was no surprise. The rest of them had grown as he’d expected, with Improvised Weapon Proficiency, Trash Intent, and Impurity Resist showing good growths from his combat and trash-absorbing experiences, despite being harder skills to level.
+
+Strangely, none of his active skills, spells, or techniques showed up on the skill list, with the notable exception of Trash Intent. The System didn’t list his impurity burning technique, or his trash-absorption technique. Maybe that’s because they’re techniques and not skills? Or maybe they were just too trashy for the System to acknowledge. He considered for a second, then shrugged. As long as they worked, it didn’t matter if they showed up in the System or not.
+
+Rhys eyed his Comprehension and Enlightenment skills. One of those, if not both, needed to be higher if he was going to put together… whatever it was he wanted to figure out from the mustelid lecture. But what was better to level it up, than to keep going to the lecture? Plus, he could keep grinding whatever it was that was tickling at his brain about the mustelid lecture at the same time.
+
+With that decided, he rushed into the battle with Cynog. As he’d fought, he’d discovered more about Trash Intent. Things like too small a piece wouldn’t form intent. Likewise, if he couldn’t visualize the thing associated with the piece of trash, the Intent wouldn’t form. There was also an upper limit to the size of Trash Intent he could create, but that had more to do with the amount of mana he had than the limit of the skill itself. Currently, something like the dinner table was the limit of what he could instantaneously draw out the intent of. If he spent a little longer, he could manifest something one-and-a-half times longer, but that was basically useless in battle.
+
+He kept getting beaten by Cynog, but he rarely took backlash anymore. He’d spawn the intent for an instant, then destroy it a second before Cynog’s blows landed. The trash still created space between him and Cynog, but by retracting it before Cynog smashed it, he prevented himself from taking damage. That, plus Blow Mitigation, meant he took much less damage than he had at the start.
+
+Even so, he knew it was artificial growth, to some extent. He knew how to fight Cynog now, like he’d known how to fight Straw. If he faced a new opponent, he’d still be lost way he’d been the first time he fought Cynog, when Cynog didn’t fight like Straw. But then again, he reasoned, the more fighting styles he learned how to fight against, the better he’d do in the long run. If he eventually learned to fight against all the fighting styles in the world, then he’d be unstoppable.
+
+That was still a long ways away, however. Just like whatever he was trying to comprehend in the lecture hall. The sensation stuck in his head every time he went in there, but he could never get past that starting thought. He left the hall dissatisfied for the thousandth time and pursed his lips, crossing his arms as he faced the square. What was he doing wrong?
+
+Maybe I need to sit there and do nothing but attempt comprehension until it sticks. He nodded. That might be it.
+
+The four weeks had almost passed. Today was the final day before the end of the four weeks. It was an arbitrary timeline he’d set for himself, but, looking at the trash, it had piled up sufficiently to give the seed a try. It felt richer in mana than his first round of trash, and besides, he’d be pouring it all into one big seed, so he was fairly confident in success, but nonetheless, a little anxiety twisted in his gut. This was Sorden’s last seed. If he failed this…
+
+Rhys shook his head. He couldn’t think about that. He needed to focus on success, or else he’d fail for sure.
+
+He nodded at Cynog as the man approached. “Tomorrow, I’m going to be busy, and after that, I might need some time to comprehend something.”
+
+Cynog nodded. “Understood. It’s been a long time since we’ve had a talent like you. I may have been a bit overeager in training.”
+
+“A talent?” Rhys gave him a look. What is this? “I’m no talent.”
+
+“For a sect like this, you’re a world-shaking talent,” Cynog replied.
+
+Rhys pressed his lips together. He tried to keep it in, but he just couldn’t. He took a deep breath.

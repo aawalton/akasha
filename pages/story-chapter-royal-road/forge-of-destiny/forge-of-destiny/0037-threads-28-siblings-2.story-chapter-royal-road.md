@@ -1,0 +1,125 @@
+---
+id: 39789171-8768-545f-898d-af65947c45b1
+page-type-slug: story-chapter-royal-road
+title: "Threads 28 Siblings 2"
+slug: 0037-threads-28-siblings-2
+partOf: forge-of-destiny
+position: 37
+ownLength: 2290
+unit: words
+publishedAt: 2020-12-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/605550/threads-28-siblings-2"
+royalRoadId: "605550"
+---
+
+Ling Qi was not able to cultivate as much as she would have liked that night, even though with her new rank, she had moved to a new residence with a better argent vent than before with the start of the fourth month. She knew it was her own fault for putting off preparations for this though.
+
+By the time the sun had risen the next day, the proper forms had been filled out, permits paid for, and permissions granted to rent out a carriage that could navigate the rough hilly and wooded terrain. Zhengui’s hill was still well within the Sect’s grounds, so there was no need to hire more than a handful of guards to ward off the dimmer sort of spirit beasts without having to flex her own spirit and scare her family.
+
+When they set out the next day, she could tell that her mother was on edge, and the consequences of confining a small child into even a spacious carriage didn’t help matters. Still, as first an hour, and then another, passed without incident, Ling Qingge seemed to find a reserve of nerve and calm herself.
+
+For Ling Qi’s part, the transportation was interminably slow. While the carriage never so much as bounced or jostled them, no matter what terrain was outside the window, it didn’t help Ling Qi from feeling stir crazy as time went on. She could run faster than this thing. But she trusted that this was the best that could be done while keeping mortals in mind. It was worth it, she felt, when they reached their destination, a clearing next to a shallow brook that ran sluggishly around the base of Zhengui’s hill.
+
+Here, the second part of her preparations came into play in the form of a couple of trinkets she had picked up overnight at the Inner Sect market. She had bought a “pocket pavillion,” a block of formation-carved wood that rapidly unfolded into a wide wooden platform with self-adjusting stilted legs to ensure an even surface, and a single use storage talisman meant specifically to hold prepared meals in good order.
+
+Ling Qingge looked on in bemusement from inside the carriage as Ling Qi finished setting up, holding tightly onto the squirming little girl in her lap. Behind Ling Qi, the platform settled, and a faint mist hissed from the thick rug which made up the storage talisman, revealing in its wake baskets full of simple fare.
+
+“Come on out, Mother,” Ling Qi said cheerfully, giving the platform a subtle nudge, causing it to pop out a couple of steps in a puff of sawdust-scented smoke.
+
+Ling Qingge stepped slowly down from the carriage, looking left and right as the guards who had been driving the carriage and riding along on the back spaced themselves out, forming an out-of-sight perimeter for them.
+
+“It really is this easy, is it not?” her mother asked wistfully as she stepped down onto the dry earth.
+
+Ling Qi understood the subtext in her mother’s words and smiled. “Cultivation does make the world a much bigger place,” she agreed. “Come on though. Relax a little, and enjoy the fresh air. It could be a little while until he actually wakes up.”
+
+Hesitating only a moment more, her mother set Biyu down, who immediately scrambled up onto the platform, following the smell of food rising from the baskets and the containers. Ling Qingge followed a moment later, settling herself carefully on the rug. “How long did you spend preparing this?”
+
+“Most of the night,” Ling Qi admitted. “But I rarely sleep anymore.”
+
+“And food is something you need only eat for the flavor,” Ling Qingge mused, looking out over the spread. “... I suppose that explains your lack of concern for nutrition.”
+
+Ling Qi laughed sheepishly, glancing at the copious number of sweets among what she had ordered. “Well, even for you and Biyu, it doesn’t hurt to indulge once in a while, right? Besides, I have other food as well. You still like those lotus seed dumplings, right?”
+
+Ling Qingge shook her head, the last of the tension draining from her frame. “It is so very easy now, isn’t it?” she asked again.
+
+“And there’s nothing wrong with that,” Ling Qi replied bluntly. Neither she nor her mother or anyone else in her family would have to scrimp and save just to have their favorite food once a year. “These little things - everyone should have that. It’s not like there’s any shortage of things to strive for.”
+
+<I don’t see what the big deal is. None of this stuff is even alive,> Hanyi said within her dantian, her qi conveying a pout. <Wake me up when Zhengui starts moving around.>
+
+“I suppose I will just accept my good fortune,” her mother replied with a small smile before glancing to the side, her eyes widening. “Biyu, no! Do not put your hands in that!”
+
+Ling Qi darted over, expertly removing her little sister from the desserts basket, much to the little girl’s protests and the amusement of the muse in her head. This had been the right decision.
+
+Over the course of the next few hours, Ling Qi found herself growing more comfortable and relaxed as she chatted with her mother and drifted over from the platform to the banks of the little brook after the food had been finished. Still, she kept an eye on the slowly thickening stream of smoke rising from Zhengui’s hill and the mostly imperceptible tremors rippling out through both dirt and qi alike.
+
+So, when the ground began to rattle and rumble, she was ready, snatching Biyu from the edge of the brook and placing a steadying hand on her mother’s shoulder. “Looks like the guest of honor is about to get here,” she said lightly to put her mother at ease. “Let me just make things a little easier.”
+
+As she finished speaking, she breathed out, cycling her qi through the forms of the Thousand Ring’s Unbreaking and Deepwood Vitality techniques. Biyu clapped in delight as rippling viridian light spread from Ling Qi’s hands and across her body, and her mother, though startled, merely looked down at herself in consternation, opening and closing her hands as if seeing them for the first time.
+
+Though the earth shook and smoke was belched into the sky, neither of them was so much as knocked off-balance, even as one of the hired guards rushed back to calm the horses. In her arms, Ling Qi felt Biyu begin to grow distressed as the noise coming from the hill grew louder and a stream of superheated ash shot into the air, but it took only a little cajoling to soothe the little girl’s nerves. It was probably only so easy due to both herself and her mother remaining calm.
+
+Finally, though, Ling Qi felt the awakening qi of her little brother Zhengui and knew that the fireworks show was coming to an end. From the top of the hill, a column of orange and blue fire rose, and molten rock and dirt erupted in a wave, only to stop dead at the boundary set by the totems surrounding the hill’s base.
+
+Her first glimpse of Zhengui was the sinuous shape of Zhen rising in the smoke with a body as thick as a small tree trunk and black scales outlined by faintly glowing molten light. Zhen peered left and right, his flicking tongue looking like little more than a wispy jet of fire. The rest of him emerged shortly thereafter, giant stumpy feet pounding down the dirt and making a ramp for Zhengui to pull the rest of his bulk from the pit. The eyes of his other half were still a bright vibrant green, and flecks of the color had spread to his scales and shell, glimmering in the ash-darkened sun.
+
+However, Ling Qi could not help but notice that Zhengui was a bit smaller than she had expected. The length of his shell was closer to five meters than six, which was the lower range Xuan Shi had indicated. For a moment, she worried that something might be wrong, but then his aura washed over her, healthy, vibrant, and vital, and washed the concern away.
+
+She raised a hand to wave, carefully allowing her own aura to rise for his notice. “Zhengui! Get down here! I brought everyone to see you!”
+
+“Big Sister?” two voices echoed out from the Xuan Wu to Ling Qi’s surprise and the widening of her mother’s eyes. The words were not immaterial. Gui’s voice was a deep rumble now, and Zhen’s a smooth and loud hiss. “Big Sister!”
+
+“Lil turtle?” Biyu whispered in her arms, eyes wide in both fear and wonder. The little girl looked up at Ling Qi then and seemed to take comfort in her smile.
+
+She heard her mother's sharp intake of breath as Zhengui began to move toward them at a pace that was no doubt alarming to a mortal. As stubby as his legs were, his sheer size meant that Zhengui ate up ground quickly. She glanced over in time to see her mother steady herself, even as her hands curled into white-knuckled fists.
+
+“I did it, Big Sister!” Gui announced as he approached, looming large over all of them. His rumbling voice rose briefly, cracking back into a chirp.
+
+“Hmph, dull brother, there are guests,” Zhen hissed haughtily, arching his body over Gui’s shell to peer down at them. “Behave properly.”
+
+Gui blinked, seeming to notice that there were other people present. “Oh! Big Sister brought Grandmother and Lil’ Sis too. Hello, Grandmother. Hello, Lil Sis. Can you understand Gui now?”
+
+Ling Qi was rather glad that she had put up Thousand Rings Unbreaking because her mother looked like she could have been blown away by Gui’s breath at that point. Still, after a moment, she rallied, shooting Ling Qi a look of consternation. Ling Qi might not have specified just how big she meant by “bigger” when describing the situation.
+
+“I can. Congratulations on achieving such a… milestone...? And at such a young age.” Her voice rose in question in the middle.
+
+“Lil’ turtle is big turtle now!” Biyu announced helpfully, her eyes still wide.
+
+Zhengui seemed to puff up at the praise, and Zhen practically preened. “That is right. Thanks to I, Zhen, we broke through very quickly.”
+
+Ling Qi shot Zhen an unimpressed look. No matter how big he was, she wasn’t going to put up with him talking like Cui. Before she could say anything to that effect however, she felt a churning in her dantian, and frost spread across the grass beneath her feet as Hanyi launched herself back into the physical world with a mighty warcry.
+
+“YOU DUMMY!” the little spirit yelled, reforming into the world with her hands on her hips atop the platform that Zhengui had stopped in front of. “You were asleep for, like, forever! How can you call that fast!”
+
+“Huh?” Gui replied cluelessly, looking cross-eyed down his own blunt snout. “Who are… Hanyi?”
+
+“That’s right! You disappeared, and I had to change like this cause… cause…” Hanyi faltered in the middle of her tirade, seeming to curl in on herself. Her final words came out in almost a whisper. “It was lonely, you big idiot.”
+
+Zhengui, both of him, looked to her in alarm, and Ling Qi shook her head rapidly. This wasn’t the place to catch him up on events. She had spoken with Hanyi about this earlier, but well, she couldn’t blame her.
+
+“It was dull brother Gui’s fault,” Zhen hissed.
+
+“Hey! You couldn’t figure out the weird dream either!” Gui cried out in betrayal.
+
+<You know, I worry about that boy sometimes,> Sixiang whispered in amusement, breaking their relative silence.
+
+Ling Qi glanced at her mother, who was taking a moment to collect herself, and down at her sister, who was practically vibrating in excitement. “Oh? Just what kind of dream did you have?” she asked curiously.
+
+Zhen shot Gui a look of horror. “Nothing important, Big Sister. It was just a strange, confusing dream.”
+
+“That’s totally suspicious,” Hanyi said bluntly, narrowing her eyes.
+
+“That sounds kind of important,” Ling Qi added slyly, detecting his embarrassment. “Are you sure…?”
+
+“Ling Qi, did you not say that this was akin to a birthday?” her mother chided. “Perhaps it would be better to save such a conversation for later, after the festivities.”
+
+“Yeah, give the little… big guy a break before you start teasing him,” Sixiang agreed in an amused drawl.
+
+Ling Qi huffed but conceded the point. Teasing was all well and good, but Zhengui had done well. He deserved the presents she had gotten him.
+
+She would probably have to give Zhen his present out of sight though. While Mother had shown a high tolerance so far, watching Zhengui dig into a meal might be too much.
+
+They stayed out there for much of the afternoon, and by the time they returned home, Zhengui was once more snugly stored away in her dantian. His presence certainly strained her qi a great deal more now, but it was a comfort to have him back.
+
+That night, however, she did not return to the mountain. After Biyu had been put to bed, as she had been about to leave, her mother had come to her and asked that she stay and instruct her.
+
+By the time the sun rose the next day, Ling Qingge had awakened. Her cultivation was a fragile thing in need of constant reinforcement, but her mother had taken the first step into the red realm. It seemed like Ling Qi wouldn't be losing her mother any time soon after all.

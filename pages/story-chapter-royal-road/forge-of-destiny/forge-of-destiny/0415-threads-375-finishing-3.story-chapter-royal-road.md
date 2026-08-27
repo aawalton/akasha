@@ -1,0 +1,135 @@
+---
+id: 5bd50d78-4250-56cb-94a4-810f7ecbf9a3
+page-type-slug: story-chapter-royal-road
+title: "Threads 375-Finishing 3"
+slug: 0415-threads-375-finishing-3
+partOf: forge-of-destiny
+position: 415
+ownLength: 2041
+unit: words
+publishedAt: 2024-04-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1597482/threads-375-finishing-3"
+royalRoadId: "1597482"
+---
+
+"It has reached my ears that the White Sky wish for a place for your own scholars there," Meng Deming said. "The Meng clan has staked significant investment in the observatory."
+
+"And Her Grace recognizes the efforts of the Meng clan in adding to her own investments," Cai Renxiang rebutted calmly. "We are pleased with your flexibility and outreach."
+
+Meng Deming inclined his head, as if those words were not totally at odds with the Meng attitude. "Yes. In recognition of shared past ties between our peoples, the Meng clan is willing to allow scholars of the Sibiar clan access and placement there to study the secrets of the stars together."
+
+Jaromila's eyebrows drew together, and she glanced at Khadne, who sat next to her. Neither Dzintara nor Inzha showed anything but mild surprise, even as some small grumbling passed through the other members of the priestly delegation.
+
+Jaromila tilted her head toward the other woman as Khadne rose from her seat. "We accept this in the good faith it is offered. Of course, we hope to establish further and stronger ties in the future."
+
+"That remains to be seen," Meng Deming said.
+
+"I am pleased that we could so easily agree on this matter. Her Grace supports her loyal counts in the Meng here," Ling Qi said diplomatically.
+
+She was glad that her estimation had been correct. The White Sky would only be confused and not insulted by the Sibiar stipulation. It let the parties take one crucial step away from the storm that had nearly broken, although the tension in the air was far from gone.
+
+"There is another concern," an old woman spoke up. This one bore little finery or symbols, wearing a dull brown shapeless robe of sackcloth. She had a jutting, pointed jaw with iron teeth and sunken eyes. "Temples and dedications. We agree on shared shrines to make the border between us less chaotic, but what of our halves of this embassy itself? Where men walk, the gods demand dedications. Yours will too, else ours encroach upon them."
+
+"It is true," spoke an imperial priest. He wore robes of yellow and gold patterned with scales and a half mask of white jade carved like a dragon's fearsome visage. His qi felt like a spring thunderstorm rumbling in the early morning. "While it is fine and good to stabilize the borders with pacts, for it was from the gods that men were given the rightful notion of borders, treaties, and property, it is nonetheless a fact that like us, the gods desire the expansion of their dominions. This will see clashes as we civilize and order our lands."
+
+"This is a new problem. Wild spirits and their courts learn to take their place in the celestial order with simple acclimation and proper ritual design granting them the proper duties and stipend, but there has not been a 'rival' court to that of the imperial dragon since the days of chaos before the Sage," a younger but still graying woman in the same colors but less ornate finery said softly. "At least, not one which has not been swiftly submitted."
+
+There was some murmuring and conversation by priests of more local gods, but no real disagreement. Imperial orthodoxy held that the imperial dragon was supreme over the spirit court of the Celestial Empire with the other sublime ancestors as their direct subordinates. Only the greater sun and moon were above this, essentially holding the same position that elders in closed door cultivation held in the typical imperial clan. That was her understanding anyway. Despite her efforts, Ling Qi was still not deeply studied in theology.
+
+One of the old men cloaked in crow feathers leaned forward heavily on his stick. "There is no great althing of the greater gods. They are too few, and they need hold no councils as men do. Little gods may be organized in many ways, but it is true that the greater god's desire to see their ways spread and followed. This can bring conflict."
+
+Wang Lian drummed her fingers on her elbow. "Frankly, the great spirits do not need to be shoved right up to the border. Let men work, and their influence will spread naturally. Shrines and minor dedications for daily ritual are fine, but I suggest that we simply place a blanket ban on major temple and site construction at the embassy and in any place where our people will be in close proximity. No direct pushing of influence one way or the other. Let’s say within fifty kilometers of the border as well since we've made those so expansive."
+
+There was a mild clamor but not much outright outrage on the imperial side. Discussions of what would count as minor and who would decide on the appropriate level of influence arose. Temples and priests had long been subordinate to the nobility, who were themselves a major part of the interface between man and spirit. To them, this was no more divisive than discussing buffer zones of military activity.
+
+Honestly, Ling Qi was surprised by Wang Lian's proposal; it was not one discussed beforehand. Given that even Cao Chun looked less irritable considering it, she thought it sounded rather good…
+
+But the reaction from their counterparts was not nearly so calm.
+
+Harsh whispers abounded, and there were many scowls present among the gathered priests. Many outright glared at Wang Lian or looked at their imperial counterparts with surprise and confusion, as if searching their demeanors for a trick. Dzintara certainly looked like she wanted to spit.
+
+"If I may speak." It was Inzha's voice that rose over the noise as the tall woman rose from her seat. "I believe a better measure would be one of matching, here at the embassy ground and in any shared space. If one side dedicates a site, the other shall as well. Negotiation should come before any construction to avoid perverse incentives. Obviously, there would be no limits within our own borders."
+
+Looking at the banked whispering and the tenor of Inzha's voice and surprise rippling through her aura, Ling Qi suspected that this was intended to be their sides’ moderate offering, but Wang Lian's proposal had surprised them, too.
+
+"That is not unreasonable," some of the imperial clergy murmured.
+
+"Not unreasonable!" Gan Guangli spoke up. "If there is to be any construction of that kind here, it would need balance!"
+
+"Only some spirits are so inclined," Luo Jie said dryly.
+
+"The gods should not be limited by mortal matters," Dzintara grumbled.
+
+"Perhaps the ban on the embassy grounds is good, but there is no need to place limits within our own borders,” the gold-clad priest who had spoken before said. "If this is to be a meeting place, then neither court should command it."
+
+Thank the Moon for the people on their side who had combed the priestly applicants for those more interested in developing their theology than maintaining strict orthodoxy. In fact, Ling Qi considered, given the proposals thus far, maybe she could try to sneak a proposal of her own here.
+
+Out of the corner of her eye, she saw Hanyi starting to squirm in her seat. She set a hand on the girl’s shoulder. Her part would be coming soon.
+
+"Excuse my intrusion into the debate," Ling Qi began, raising her voice. Pushing in just enough qi to be strident and well heard without being overbearing was a fine balance. "It seems to me that we already have the foundations to resolve this debate in a cleaner way."
+
+"And what would that be?" Dzintara asked, brows furrowed. She had stood at some point in the rising debate that had been going around the table.
+
+"We have agreed that our priests will meet and determine shared rites for spaces such as this. It seems sensible to extend their task by having it determined by communion and debate which gods and great spirits are most suitable to diplomacy. Those gods could be allowed temples here and any other shared places, knowing that they are capable of interacting just as we are."
+
+"Petitioning the Celestial Dragon's court for the formation of a new sub-department has been done in the past, most recently with the ascension of Inexorable Justice," one of the dragon priests mused.
+
+She saw Cao Chun's expression scrunch up in distaste.
+
+"All things should be in their place," said another priest in resplendent pink and red robes that reminded her of the dawn. "Sometimes, new places need to be made."
+
+"What authority would it even fall under?"
+
+"The war department has always handled external matters…"
+
+"Obviously unsuitable! Perhaps the Bureau of Divine Infrastructures."
+
+"TheThree Messenger Saints?"
+
+"The Weaver of the South Wind…"
+
+"The Reflecting Moons!”
+
+Ling Qi was pleased with the way her proposal had nudged discussion. She was only a dabbler in imperial theology, but she understood that they loved procedure and organization just as the ministries did.
+
+She found the reaction of their guests to be less than enthused though. The priests of the White Sky were once again looking at their imperial counterparts with utter befuddlement. She supposed they had expressed that they didn't see their gods that way as being neatly ordered like a human court.
+
+She caught Jaromila's eye across the table. The woman was considering her.
+
+"The gods each have their domains. In our land, where the boundaries fall is a well-tread subject. That is not as true here,"Jaromila said, cutting through the murmurs. "I do not think discussions of which of our gods can most effectively communicate with foreign ones is unwarranted."
+
+"Easy for the disciples of Sudica to say," someone muttered. Ling Qi could not quite catch who had said it, so quiet it was among the other words being spoken.
+
+Ah, right, the patron of emissaries would be rather advantaged in that argument. She couldn't say she hadn't been somewhat hoping for that. She didn't like to think of negotiation as divide and conquer, but securing an advantage for her most potent allies in the White Sky camp was a factor Ling Qi had considered.
+
+"I am not certain such a degree of intervention and restriction on the gods is useful or good," Dzintra said, echoed by agreeing murmurs from their priests
+
+"At the same time,” Ling Qi said, “I hope you understand that we cannot allow foreign gods complete latitude in coming into the realms of our gods."
+
+"Property and its rites must be enforced in all realms," agreed an imperial priest, a severe looking man in silver robes. His aura reminded her of Renxiang's father. "Good neighbors are wrought by ironclad and unambiguous contracts."
+
+"There is some precedent…."
+
+"The regional conclaves…"
+
+"... tithing negotiations and jurisdiction."
+
+"Indeed. We have done well in setting down such contracts so far," Jaromila said over the muttering of her priests. "Gods are not human, and ours do not organize themselves like them, but we, their hands in this world, are. Is it not best to promote who is most effective in this region?"
+
+"It may be difficult, but it seems to me that this will reduce strife in the long term, and as our lands grow together, this framework can be further developed," Inzha said.
+
+"I see I am outvoted," Dzintara said gruffly, sitting back down.
+
+"Are there any other objections?" Ling Qi glanced around her own side.
+
+"You will have the spirit speakers arguing a great deal,” Luo Jie observed, “but perhaps it is best to get the arguing done at the beginning."
+
+"Better to debate in a proper environment and venue than to squabble here and there," murmured a priest at his side.
+
+"Indeed. The Luo agree to this."
+
+Others chimed in one after another with varying levels of interest.
+
+There were still many unhappy faces on the White Sky side, but it was only grumbling, rather than fury. Ling Qi was thankful for Jaromila's assistance in selling her idea.
+
+"We do come now to a subject that should have been discussed much earlier," Dzintara said, fixing her with a look. "You have been judged, Emissary of the Emerald Seas, and your inheritance of ice is not up for debate. Nonetheless, we would have you explain it and your sister's condition."

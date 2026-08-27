@@ -1,0 +1,143 @@
+---
+id: d1b1ad71-d48a-5800-99c5-bf749807d057
+page-type-slug: story-chapter-royal-road
+title: "Threads 482-Xia Lin 2"
+slug: 0527-threads-482-xia-lin-2
+partOf: forge-of-destiny
+position: 527
+ownLength: 1974
+unit: words
+publishedAt: 2025-11-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2750532/threads-482-xia-lin-2"
+royalRoadId: "2750532"
+---
+
+"The baroness is insightful. Yes, if the young Miss Cai could normalize this program,  I’m sure this training will have good effects."
+
+Ling Qi considered it, feeling the flickering lights of the many students throughout the building and grotto. "You do not have enough to meet demand, if we are successful. Not without increasing your class sizes greatly."
+
+Doing so would likely hurt the atmosphere of this place.
+
+"I could convince my fellow donors to give more to this school and expand somewhat, but no, we could not. Such a program sponsored by the heir implies a continuing demand though."
+
+She stared at the old woman. That was…
+
+"Huh. Guess that's to be expected of someone who could go under that light and not melt."
+
+"You think it will encourage others to create their own schools."
+
+Xia Lin furrowed her brows. "It is unlikely such competitors would all be in the mold you have cast here."
+
+"Not all, but success breeds imitation," Mei Lanfen replied. "Do you believe this is something Lady Cai would consider?"
+
+"I do not doubt that she would, " Ling Qi said.
+
+She knew Renxiang well enough for that. After their successes, Renxiang had been granted an almost overwhelming allowance. The cultivation budget for an adult ducal heir, someone expected to be in the fifth realm, was more than a third realm could possibly spend on cultivation without blowing their meridians out from all the elixirs and enhancers it could buy. So, investments like this were certainly possible.
+
+Ling Qi had a thought. "Mei Lanfen, you mentioned your other donors. How much is the usual contribution?"
+
+The academic raised an eyebrow. "There is nothing so formal among us old men and women. This school began as something informal, for all that some of us are more dedicated than others. I would say between fifty and one hundred green stones in a year.”
+
+Cai Renxiang had told her she should consider investing in things other than her own cultivation…
+
+"Even should Lady Cai find supporting this program unfeasible, I would be able to match the lower end of that," Ling Qi mused. Fifty green stones in a year was not a trivial amount, but nor was it very onerous.
+
+Xia Lin shot her a bemused look, resting her chin on her hands. Mei Lanfen blinked in surprise.
+
+"That is generous of you, but I did not mean to imply that the Gold Autumn School was pleading for more funding. Lady Cai's assistance is most needed in bringing new barons in the south around to the notion of investing more in their administration early on."
+
+"I understand," Ling Qi said. "However, I have been advised to look for investments while I am here in the capital, and even without an immediate return, this seems like a good one."
+
+"I suppose it is not bad to have younger donors as well," Mei Lanfen said slowly. "Among our number, we do not all have descendants willing to continue this hobby of ours."
+
+"I am more surprised that such funds are required to train first and second-realm scholars and clerks," Xia Lin commented. "Although,the cost of a knothole space such as this is not insignificant itself."
+
+"The bulk of the cost lies in teacher salaries and training materials," Mei Lanfen replied. "We have been making the effort to convert our teaching supplies over to jade slips and slabs. It produces better results."
+
+"You seem to be aiming for third-realm teachers as well. I suppose such teachers can handle more students."
+
+"And are more effective, even with fewer," Mei Lanfen agreed. "I and a few others hold some hope of expanding. A location in the outer boroughs of Xiangmen has been planned."
+
+"It may not be cost-effective, but additional lower schools may be helpful. Xiangmen needs them less than other places, but other cities might do well with them," Ling Qi said.
+
+She didn't normally think about the faceless strangers beyond her reach. Shu Yue's recent training exercise made it hard not to, though.
+
+"I'm glad you're not just wallowing in it. Don't make Momma Ling freak out about spending too much though, yeah? That'll just make you feel worse."
+
+Mei Lanfen considered her for a moment. "With such a generous donation, we could certainly consider doing so. I've no doubt that you know the children's schools are not particularly expensive, but being thorough in the checks and divinations of its staff's background and conduct is a bit more so. I must ask if you are committed to this funding, Baroness. This offer does strike me as impulsive."
+
+"I suppose it is," Ling Qi said. "I really should be investigating other opportunities first before deciding."
+
+"I could offer some advice on this matter, should you wish," Mei Lanfen said. "Certainly before you commit."
+
+Ling Qi studied her, sitting up a little straighter in her chair. She supposed if anything the older woman's reluctance to just take her at her word reaffirmed her resolve. Even knowing her history with the Duchess purges… really looking at her now… this woman was one whose intentions she trusted. She had no idea how to go about helping large numbers of people in the way she could. "No, I might take you up on the advice later, but you will have your fifty stones unless you outright refuse me."
+
+The older woman searched her face. Whatever it was she was looking for, she eventually seemed satisfied.
+
+"As you wish. I will not do that. We may draw up the terms of the transfer later."
+
+"Of course. I am sorry for interrupting your original offer." Ling Qi bowed her head apologetically.
+
+"Then, I will continue, unless Captain Xia has something to add."
+
+"I have my own intentions for expenses in the capital, so I shall not," Xia Lin responded. "Please resume. I am curious about the news you say you have for me specifically."
+
+"Of course. I will get to it soon. As I was saying, some among us have plans for expansion, should it be feasible, but even then, one school will not be able to serve the whole province, nor should it. The older clans are less amenable to institutions like these, preferring their own methods…"
+
+Or lack thereof was left unsaid.
+
+"However, the Wang and Jia clans have made some moves toward establishing education in their lands. They are the most likely to take us up on adding schools outside of those in the Cai lands. Like the rest of the southern lands, the opportunity to establish a new norm is the most open there," Mei Lanfen continued. "There need only be an impetus to the movement."
+
+"This is where Lady Cai's funding is most useful since she can do more than provide raw funding,” Ling Qi concluded. “As the heiress, she can make offers that might be seen as insulting or overly entangling, on top of showing the success in her methods at Shenglu."
+
+That would allow some penetration even in the comital  clans in the south, who would look much more poorly on any other outside force interfering in their territory. The older clans would probably dislike it anyway, but if it encouraged them to make their own institutions, then that was still to everyone's benefit. Perhaps she should inform Meng Dan, so he could speak to his grandmother and let the reformist Meng get out ahead of reflexive reactions.
+
+"Just so. Without the heiress of the Cai, this plan is not possible. Even with Baroness Ling's contribution, we will be limited to merely gaining more locations in Xiangmen and its surroundings," Mei Lanfen said.
+
+"I will bring this matter to Lady Cai as soon as I can. I believe that she will answer in the affirmative, and if so, I will be able to speak with you on the details when the Duchess' wedding has passed," Ling Qi said. "Do you agree, Xia Lin?"
+
+"It seems to be within our lady's interest, and the worst that may occur is that it does not spark as much reaction as you hope. The Gold Autumn School is not foolish enough to attempt to defraud the Cai clan. If you may, this news?"
+
+Ling Qi glanced at her companion. She really was curious.
+
+"Of course. I must apologize if the news I share has already reached you," Mei Lanfen said. "There has been significant upheaval because some of the lands which had been seized from the defunct court clans in the outer Xiangmen boroughs has finally been put to use. The Horned Legion will have its mustering grounds here among the roots."
+
+Xia Lin cocked an eyebrow. "That was expected, but the details are not set. This is hardly news.
+
+"It is not. What may be news, however, is that the Heron General has petitioned for a large plot as well."
+
+Xia Lin frowned.
+
+"It is my understanding that she wishes to officially transfer the Xia clan's living space here," Mei Lanfen said carefully. "As I have said, I mean no insult in giving you your own clan’s news."
+
+"General Xia is not in the practice of consulting her clan before making decisions," Xia Lin said precisely. "No apologies are needed. This is news."
+
+There was a moment of awkward silence between all three of them with only the faint sound of the wind blowing through a chime outside breaking it. She could even feel Sixiang wince in her head.
+
+Xia Lin let out a sharp breath through her nose. "As a reward for leal service, some of the best agricultural land in the province is no small one. The Xia are blessed."
+
+It sounded rather mechanical.
+
+"I suppose your wish is that I raise your school's name among my clan?"
+
+"I know that your clan has been promoting ministry work to a lesser extent than the military, but we would be happy to provide finishing schooling and exam preparation to any who might wish for it. I understand the Xia clan's infrastructure is…"
+
+"Lacking," Xia Lin agreed stonily. "Yes, I understand why you would wish to extend a hand with this. The Xia clan's star is rising, but our leadership is not the sort to hollow out your administration should a few successful graduates pass through. I will speak to some of my relatives who might have an interest."
+
+"That is all I ask," Mei Lanfen said.
+
+There was a beat of silence.
+
+"Would you young ladies care to tour the facility properly then? I may also offer advice on investment if you wish."
+
+"Please," Xia Lin said, rising abruptly to her feet.
+
+"Of course," Ling Qi said, rising as well.
+
+She'd have to ask her friend about it later. She had an inkling of what the problem might be, but speaking of it further here wasn't appropriate.
+
+Observing the school in Mei Lanfen's wake as she showed them through the halls only deepened the impressions that she already had. It was a very rigorous and disciplined place. Ling Qi doubted she would be well suited to its halls. It taught its students literature, handwriting, mathematics, and critical thinking skills, and even had some elective courses on basic formation craft, mostly for the purpose of of encoding information in jade, which was always an in-demand skill and one that didn't demand too much qi from the one doing it. A well sought after clerical skill in many places, she could understand why the school might teach it, despite the expense of the practice materials.
+
+The older woman had many things to say on the matter of where a young noble's investments could do the most work as well, and Ling Qi was thankful for the advice, but she was distracted. She wanted to speak with Xia Lin.
+
+Soon, they left the Gold Autumn School and Mei Lanfen behind.

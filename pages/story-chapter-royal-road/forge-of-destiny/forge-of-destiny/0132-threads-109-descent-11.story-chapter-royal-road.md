@@ -1,0 +1,133 @@
+---
+id: cf2d579b-be09-53bd-a683-03303bfd270c
+page-type-slug: story-chapter-royal-road
+title: "Threads 109-Descent 11"
+slug: 0132-threads-109-descent-11
+partOf: forge-of-destiny
+position: 132
+ownLength: 2418
+unit: words
+publishedAt: 2021-07-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/718207/threads-109-descent-11"
+royalRoadId: "718207"
+---
+
+Ling Qi took in her enemies, blanketed in their leader's power. They were not writhing in pain as she had, as her allies had. If anything, the set of the bodies and the sound of their battle cries had only grown more fervent. She saw, out of the corner of her eye, a shishigui covered in horrible burns hauling himself back to his feet. There was another, caught on the edge of Guan Zhi’s kick, ignoring the blood pouring from his severed arm to raise his spear.
+
+She felt the clash of power in the air above her, the power of two fully formed domains warping the world, and the way that the qi of the world bent and buckled unnaturally under their clashing wills.
+
+She would only be a hindrance here.
+
+Ling Qi leapt away from the dancer spinning to face her and blinked through the shadows, appearing beside Zhengui and Ji Rong. Her dancing phantoms danced inward and flung away the drained enemies they had seized. Ling Qi took a step and left the fortress, dragging her allies along.
+
+The world parted like a curtain, and for just a moment, she stood in an unending field of psychedelic color where thoughts danced and dreams bloomed like a field of flowers. Sixiang stood at her side amidst the revelers, one hand on her shoulder.
+
+Then they were outside, well into the fungal forest.
+
+Ji Rong stumbled, looking around wildly, only to round on her. “The hell?! Why’d you pull us out like that?”
+
+“Because we had no business being involved in that,” Ling Qi shot back. She glanced around nervously. Something was bothering her like a fly buzzing around her ears.
+
+“We could have fought in retreat,” Relong hissed, raising his head. “Our lords remain!”
+
+Ji Rong glanced down at the bloodied dragon and looked as if he had bitten into a lemon.
+
+“You dummies should stop arguing with Big Sis. You’re just wasting time,” Hanyi retorted.
+
+“Brother and I—” Relong began, puffing up the scales around his neck to look bigger.
+
+“Enough,” Ji Rong said gruffly. “Let’s go. Choice has been made. Relong, stay close.”
+
+Ling Qi shot the boy a surprised look as he turned and dashed off into the forest, but she didn’t have time to ponder his actions for now. The qi maintaining the revel quivered as she drew it in, keeping the Mist and her phantoms close as she took off after him.
+
+Behind her, the noise of battle only rose. The booming of air, the thunder of crumbling stone, and the cries of battle echoed after them. Through her wisps, Ling Qi could see smoke and debris rising from the fortress. She could see the twin points of distortion rising above the walls, and she felt the wave of pressure as the two fourth realms clashed, splintering and bowing the trees they ran through.
+
+But there was still something bothering her. She couldn’t quite place it. Were her nerves just rattled?
+
+<No, there’s definitely something,> Sixiang thought. The two of them focused, wisps whirling to face the greater bulk of the cavern.
+
+Drums. There were drums in the dark.
+
+She couldn’t hear them, but she could feel them, a ceaseless beating of drums echoing through the endless twilight of this underworld. Dozens, scores, even hundreds of drums, each beating a pattern that echoed through the dark. It was not merely the wild beating of a tribesman’s drum or the rhythmic pounding of a drill.
+
+They were communicating something. There was an order to the rhythm, urgent but regimented and disciplined. It almost reminded her of Lady Renxiang. Yet no matter how foreign, it was music, and she understood in parts.
+
+[Enemy movement detected—Forces gather—Zone *&^*—Advance units launched.]
+
+“We need to move faster,” Ling Qi said tersely.
+
+Ji Rong barely had time to glance back at her in surprise before she twisted her sprint into a pirouette and carried them back into Dream.
+
+The toe of her slipper touched down on a swell of portent, and Ling Qi peered through the haze of potential, spying three bright stars. Behind , she felt the threads of Other, dreams foreign and incomprehensible, swelling like storm clouds on the edge of her senses.
+
+She stepped again, and they emerged amidst Xuan Shi and the others. She heard Ji Rong curse again. She saw her allies almost raise their weapons at their sudden intrusion.
+
+“Pick up the pace! We have more enemies incoming,” Ling Qi snapped out, hitting the ground and barely slowing her pace. They were already running, but they weren’t sprinting. With a thought, she reached out through her connection to Zhengui and Hanyi and pulled in a way she rarely did. They both dematerialized immediately.
+
+Ji Rong rolled back to his feet and shot her a dirty look. Bian Ya bounded ahead on the back of her mount. Su Ling sat behind her on the three tailed fox, clutching her back and looking mutinous. Xuan Shi flew off to her side, standing atop five linked hexagonal plates which hovered a few inches above the ground.
+
+<Big Sister, I can still help! I’m not even hurt!> Zhengui complained, and Hanyi gave a wordless cry of protest as well.
+
+<You’ll help if we fight. We’re running now,> Ling Qi thought back hastily.
+
+“What are you speaking of?” Bian Ya asked, clutching tightly at the silk wound around her fox’s chest as the horse-sized beast bounded through the dark. “Obviously, there are reinforcements, but we have much distance to cover. We cannot exhaust ourselves—”
+
+“Not from the fortress,” Ling Qi interrupted. “Look behind us, and listen.” If anyone here could sense what she had, it would be Bian Ya.
+
+The girl shot her a dubious look, but Ling Qi felt the thrum of energies flowing to her eyes and ears, the shift in the air as she took hold of the still, underground air. Bian Ya paled behind her veil. “S-such a response to a mere raid,” she murmured.
+
+At least she understood, Ling Qi thought grimly. It was hard for her to put into context what she had felt, the reverberation of the drums carried by hundreds of drummers, echoing to thousands of ears. There was only…
+
+She remembered a vision of a city in the rain consumed by a tornado.
+
+“That’s the mustering of an army,” Sixiang realized, alarm in their voice.
+
+She could see something of it now at the very edge of her vision, backlit by the strange glow of the cavern’s ceiling. They were nothing but tiny dots of blackness, rising into the sky, but they numbered in the thousands.
+
+“Commander Guan Zhi approves of speeding up the timetable,” Bian Ya said grimly, snapping her out of her thoughts. Far behind them, there was a muffled boom as the clashing stars in the sky came together. “Sect forces above are moving to entrench. Brother Xuan, full defenses.”
+
+Ling Qi could see entire chunks of the fortress drifting lazily into the air around the clashing cyans and could feel flashes of stabbing pain, bottomless despair, and shivers of religious ecstasy wafting from their enemy, dripping across her thoughts like stray droplets from a storm. Then, the swirling sphere of warped light that was her commander crashed down, and Ling Qi felt space bend as the stars clashed only to be launched in opposite directions at terrible speed. The enemy priestess flew backward into the underworld twilight, and Guan Zhi’s star crashed home into the cavern wall far ahead.
+
+It was only seconds after her passage that the shockwave hit, sending Ling Qi’s hair and gown whipping and nearly blowing Su Ling from her seat. The cavern filled with noise as tons upon tons of stone crashed down from the crater in the wall.
+
+They didn’t stop running. Su Ling grimaced, and grey qi shimmered as she yanked herself back up against Bian Ya. Foxfire bloomed around their mount’s feet, turning them into a blur. Ji Rong snarled, five lotuses of burning blue on his back, and lightning sparked from his heels as flesh and bone began to fade into snapping lightning. The faint sparkling lights emitted by Xuan Shi’s platform flared into jets of sea green qi, launching him forward through the whipping air.
+
+Ling Qi became one with shadow, and they ran.
+
+The full speed of a group of third realms was a fearsome thing. Wind ripped trees and plants from the soil at their passage, and the ground crumbled beneath the force of pounding feet. The world was a blur, and still, it would take them minutes to cross the distance to the cavern wall.
+
+They were more than halfway there before things began to go wrong.
+
+Xuan Shi was the first to notice. In the midst of their dead run, the stocky boy suddenly turned his head to the side. “Ware!” his voice, normally quiet, boomed. Off to their left side, there was a crack and an agonized shriek as the spindly shape of a dancer bounced off of the flaring shield of interlinked pentagons, green energy crackling from her limbs.
+
+Light flared again on the other side, and the shield rumbled. Both figures bounced back from the wall, flowing like mist back into the shadows, only for Xuan Shi to crack the butt of his ringed staff against the platform under his feet. The creatures let out cries of surprise as vibrant white light bloomed from their silhouettes, ruining their efforts.
+
+Ling Qi began to emerge from shadow, ready to take a shot, and she could see Ji Rong tensing to do the same, but Bian Ya’s voice cut them off, echoing directly in their thoughts.
+
+“Do not engage. Conserve qi. Disciple Xuan is on defense.”
+
+Ling Qi cursed internally, but she knew Bian Ya was right. They couldn’t afford to slow down, not with the force chasing them. She could actually make out their shapes now, those flying things. They were black and oily with thin humanlike bodies, the shimmering wings of moths, and heads like those of men with the features wiped off save for twisting horns that rose from their temples and twitched like an insect's antenna. Each one carried a shishigui warrior clad in armor of chitin and unknown metal in their dangling, large claws. Even from here, Ling Qi could feel a worrying ratio of third realm power among them, one in five or one in eight at least, akin to the Sect’s forces at full muster.
+
+Stripped of the shadows, the dancers did not retreat, weaving a wide circle around Xuan Shi’s shifting barrier of light and ceramic. Their knives carved skittering sparks along the barrier, leaving lines of corruption and rot in their wake, but Xuan Shi merely rang the rings of his staff and new panels rose to replace those that rotted while broken panels whizzed out like throwing knives to impact and explode on contact with the trees and ground, forcing the dancers to dodge and weave through a barrage of returning fire.
+
+As they closed the distance to the wall, matters only grew worse. Ling Qi felt a twinge travel through the darkness, an unfamiliar and unwelcome sensation of something moving through a space that she had long considered hers. Across the blurring landscape, shadows writhed and boiled.
+
+Ribbons of blackness, edged in searing crimson, crashed down all around the perimeter of the barrier. A dozen in all, they stabbed like blades into the interlocking plates of Xuan Shi’s barrier talisman, causing seafoam sparks to shower out along with a horrible grinding sound like nails on glass. Xuan Shi grunted in effort, his shoulders hunching before the qi running through his spine doubled in density and the barrier became nearly opaque in its brilliance.
+
+Through a drifting wisp, Ling Qi saw their newest assailant, a pale white figure floating in the midst of a sphere of black and red ribbons. The shishigui’s pure white hide gleamed, save for the dark hole in his chest where ribs were flayed open to bare his beating heart. On the pulsing organ, a single overlarge eye spun, run through with black veins, and the creature’s spider-like fingers twitched like a wielder of puppets as the strands of shadow and blood respun themselves for another assault. The creature was at the fortification stage.
+
+But as he raised his hands for another assault—Ling Qi felt the shadows bend under her grip, forcing her to leap out before the thing’s vile qi could soak into her—a silver flash engulfed it. The creature let out a warbling cry as a pool of liquid silver opened at its feet, and it dropped as if it stood on the surface of a lake. As it sank into the pool, Liao Zhu emerged, cut, bruised and burned. He somersaulted away from the already rippling and bulging pool to land atop Xuan Shi’s barrier.
+
+“Activate the beacon! There is too much force coming down!” he shouted.
+
+Bian Ya paused, and Ling Qi recognized well enough the look of her listening to silent orders. She flicked her wrist, and Elder Jiao’s totem appeared in her hand. It was a simple thing, a black, many faceted gem, but it pulsed with power.
+
+So they ran, and the beacon charged.
+
+Ling Qi could not help but feel uneasy. Her skin crawled, and bumps rose on the back of her neck. Something was wrong. There was something in the air, something beyond the beat of wings and the incessant sound of drums.
+
+There was a twisting in the air, a subtle unnatural feeling that she could not place. As Guan Zhi crashed down among them, swatting away a dancer like it was a mere child’s toy despite the angry red burns that covered her arms and hands, it clicked.
+
+There was attention upon them. It reminded her of Zeqing’s domicile with its twisting space and endless darkness. The beacon’s qi rippled out as it activated, but it was wrong. It opened a curling hole through space, but there were holes, gaping tears in the path through which a person could fall and never stop.
+
+As the beacon’s qi engulfed them and the others cried out as they began to fall, Ling Qi desperately twisted in the broken space and poured everything she had left into the meridians which channeled the power of the Dreaming Moon’s arts. Her lungs and spine burned as she overloaded it and ripped everyone sideways into the realm of Dream.

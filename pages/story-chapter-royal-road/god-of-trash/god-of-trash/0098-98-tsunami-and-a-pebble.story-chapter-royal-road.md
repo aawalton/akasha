@@ -1,0 +1,69 @@
+---
+id: d0409c1e-f6cd-55d6-ad5a-12c936fa58cd
+page-type-slug: story-chapter-royal-road
+title: "98. Tsunami and a Pebble"
+slug: 0098-98-tsunami-and-a-pebble
+partOf: god-of-trash
+position: 98
+ownLength: 2160
+unit: words
+publishedAt: 2025-06-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2336101/98-tsunami-and-a-pebble"
+royalRoadId: "2336101"
+---
+
+Rhys was a pebble, and the mana he’d unleashed was a tsunami, looming over him. He could sense the wave of power rushing toward him, see it closing in with every passing second. It hadn’t hit yet, but it would, and he knew it would absolutely sweep him away.
+
+He’d known this would unlock a vast wave of mana, but this exceeded all his expectations. Whether it was forging his core or forging his body, building up energy and structures inside his core to reach the next tier or using his most powerful techniques, the mana rushing toward him exceeded all of that. It was beyond his capacity to meaningfully vent. Even if he pushed it all out of his body, it wouldn’t be enough. He couldn’t push enough out fast enough to save his life. He needed something else. All of that, but also something else that would pull it out of him at the same time. Something he could dump it into, that would also yank it out of him. But what?
+
+Time seemed to slow. He searched around him, extending his mana—no cost was too much—desperate to find something, anything, to use it on. At the same time, he instinctively patted himself down, like he was checking for change in his pocket before heading through the x-ray machine at the airport. His hands landed on the tomato seeds in his pocket, and his gut jolted. Would that work? Could he even channel that much mana into them?
+
+The wave hit, and his mind went blank. More mana than he’d ever experienced crashed into him. Almost instantly, his body began to melt from the inside out. His core burned hot, far too hot. His mana passages burned. Rhys let them burn and used the mana to reforge them stronger, but that wasn’t enough. It couldn’t be enough.
+
+Inside his core, he condensed the mana into super-pure droplets, pushing it down until they joined the pool at the bottom of his core. The pool steadily filled, but the rate at which he could condense the droplets was too slow. It wasn’t enough.
+
+His core glowed so brightly it could be seen outside his body. Every single mana passage lit up inside him, burning through his flesh like a flashlight shone through one’s hand. Smoke rose up from his body, and cracks appeared on the surface of his skin.
+
+Rhys tightened his grip on the tomato seeds and shoved mana into them recklessly. He wasn’t high enough Tier to comprehend the concept? Fine. He wouldn’t comprehend the concept! Like a trash student at a math test, he’d just brute force it instead. Stuff it so full of mana that it either took form, or combusted, and nothing in between. It was his outlet, and not only that, he needed it to be his paper towel, his microfiber blanket, his absorbent dumping grounds that would suck up all his mana.
+
+One of the seeds immediately ignited, burning out in a fiery flash. Another exploded, bursting his hand open for a moment. Two of them manifested, growing spectral roots, sprouts, vines and leaves, growing their spectral selves at an accelerated rate, sprouting flowers which withered, then swelled, until ghostly fruits dangled from the vine’s immaterial boughs. But that wasn’t what he wanted. He couldn’t harvest the fruits, or cook them down into ketchup. This intent was worthless to him. He needed more than just intent. He needed true Trashomancy, the ability to force useless trash back to life! A trash skill specifically for things that had once been alive, an Intent that didn’t just bring things back to their shape, or grant them their truest, strongest shape, but instead granted things true life once more. Even if it cost mana, no, especially if it cost mana, he needed to bring it back to life. True life, or at least a semblance of it. Enough life that he could harvest fruits, cook them down, and create ketchup. It didn’t need to be true-true life. It didn’t need to have hopes and dreams. A trashy imitation of life, just passable enough to taste close enough that he could turn it into the delicious, processed red sludge known as ketchup, or sometimes katsup.
+
+His skin crisped, blackening at the edges. Rhys’s forehead grew hot, and his vision blurred. He kept pushing mana into the four remaining seeds. They sucked it up, absorbing it without manifesting or burning. He could feel the hint of desire in them, the same as the bones had possessed desire. These seeds remembered that they had once been alive, and they strived to be alive once more. They didn’t know how to get there, and neither did Rhys, but they were searching for it, all of them together, and Rhys had plenty of mana to shove in.
+
+Abruptly, one of the seeds stopped absorbing mana, and a second later, it burst into flame. Three seeds left.
+
+Rhys’s body creaked. He wavered, barely maintaining consciousness as the extra mana blasted through his body rather than flowing into the seed. In his core, he worked at double speed to condense it into drops of super-pure mana, and managed to take some of the pressure off, but it was too slow, still too slow.
+
+A second seed manifested, giving up on true life to simply express the desire for life. Once more, extra mana hit Rhys, and he fell back, slumping against the wall of the hole he’d dug. Two seeds remained.
+
+His body burned. It wasn’t as bad as the time he’d burned himself down to reforge his body, but it was just as bad in a different way. The mana clashed against his passages, flowing until it could flow no more, then flowing backward, striking against itself and hammering into his body as a result. He felt sick, intensely so. A headache pressed at his forehead, his whole body ached, and his stomach twisted, as if he had ingested poison. Worse than poison, because he could handle poison. This one was just pain.
+
+BAM! A seed popped, bursting like popcorn. Only one seed remained. Rhys poured his all into it. Like a useless teammate in a group project, all he could do was provide raw power. The seed had to comprehend it. The seed had to understand what it wanted. If it could, then he could give it everything, but his comprehension was lacking, so he had to rely on the seed.
+
+You know what you want. Desire it! Call for it! With all your might, scream for it! You provide the understanding, and I’ll provide the power!
+
+The seed trembled. It wanted it, more than any of the other seeds had wanted it. It didn’t think, but there was a desire in it, a shapeless, faceless thing that needed no words to want. Rhys reached out to that, resonated with it, and poured in all the mana he had. Holding nothing back, because he could hold nothing back, because he wished for it to take even more, he poured it all in.
+
+It shuddered. Blue mana jolted back and forth under the surface of the tiny seed. And then—it sprouted.
+
+Just one root. One tiny root. It extended from the seed like a tail, curling in Rhys’s hand. Even that took an immense amount of mana, but that was exactly what Rhys had in surplus. He shoved it all in, encouraging it to grow further, faster. The roots extended. From the top of the seed, a sprout extended as well, stretching two tiny leaves upward. It sucked in mana faster and faster, drinking it down. The roots pierced Rhys’s skin and sunk into his body, seeking mana out on their own. Rhys welcomed them, glad for the help to discard his excess mana. His cracking skin stopped burning, the smoke stopped pouring off of him, and his headache and sickness wound down. At the same time, the plant grew. Slowly, far more slowly than any of the manifestations, it took shape. A long, curling vine that twisted around Rhys’s arms, broad leaves, delicate flowers, and roots that grew deeper and deeper into him. They chased up his mana passages and toward his core, thirstily slurping down mana all the way.
+
+Uh oh. Rhys fended them off at his core, pushing them back at last. Drinking up the excess mana was okay, but he couldn’t have them get into his core. Then they’d eat up his super-pure mana and set back his cultivation significantly. The excess was okay, just not the core! He tried to push that understanding into the roots, but they had no such understanding. They just kept drinking, growing further and further. Rhys stood guard within himself, slicing down the encroaching roots as they reached out from his passages toward his core. What on earth have I created?
+
+He couldn’t stop now. He was so close to tomatoes, and he still had so much excess mana. Standing in his core, he fended off the roots and kept pouring his mana in. The vines grew and grew, twisting around his whole body. Delicate flowers bloomed and withered. The ovaries at the base of the flowers swelled up, bulging into green lumps, then yellow, then red, growing bigger and fatter with every passing second. Immense amounts of mana flowed in with every second, quantities equal to how much mana Rhys’s core could usually hold, pouring into the tomato with every second.
+
+At last, the mana started to fade away. The tomato plant, no longer supported by insane amounts of mana, withered. Rhys reached out, quickly harvesting the tomatoes from the vine. They didn’t wither overly-fast, or appear in any way different than normal tomatoes, but he’d have to examine them closer to make sure there was nothing wrong with them. For now, he put them into his storage ring, then grabbed the tomato vine by its base and grimaced.
+
+This is going to hurt.
+
+He pulled. The vines had spread throughout his whole body, so there wasn’t an inch of him that didn’t scream in pain when he pulled them free. Flesh ruptured all over his body. Bruises darkened his skin, and his mana passages trembled, on the verge of collapse. Grimacing, Rhys continued to pull. He couldn’t stop now.
+
+Inch after inch of bloodied roots emerged from his hand, pale white except for where they were streaked with fresh crimson. He pulled smoothly, refusing to stop, because if he stopped he’d never start again. At first, he only felt disgust, but the longer he pulled, the more a strange sense of satisfaction welled up in him. It was disgusting, no doubt about that, but also somehow refreshing, like popping a pimple and squeezing out all the gross pus inside to leave a clean wound. Like that, but it was a parasitic plant he was slowly pulling out of his body instead.
+
+At last, it came clean. He dropped the withered plant and pulled out his healing potion, taking a big sip to close up the wounds all over his body, then a second sip and a third. Resting against the wall, he took a deep breath and rested for a moment, taking stock of his body.
+
+His body was stronger, but that hadn’t been the focus of his efforts, and anyways, the trash stars had already done so much that there was little he could accomplish anymore at this stage. His core had made the most progress. It had only had a little bit of the super-pure mana in it at the start, but now, it was almost a quarter full of the stuff. It gleamed golden, shining like a burnished ball of metal, and he sensed that if he filled his whole core with that gold, he would reach the next Tier of magehood. The damage the plant had done was healing nicely, and aside from exhaustion and the leftover malaise that came from poisoning himself with mana, he was in great shape.
+
+He looked down at the Impure Well at his feet, if it even was the same thing as what he’d found back on Infinite Constellation School, and rubbed the back of his neck. He couldn’t do any more today. Even this much was pushing it. Besides, he didn’t have any more tomato seeds at the ready, and he had to check the tomatoes he’d grown to see if they were viable yet.
+
+Tomorrow. The sun was low in the sky. Although it felt as though no time had passed due to how focused he’d been, he’d spent a great deal of time dealing with the trash and the Impure Well. He hopped out of the hole and headed back home. There was still time left to burn before the banquet. Better to rest than burn himself out now needlessly. His mind made up, he made haste, not wanting to get caught up in any nonsense today.

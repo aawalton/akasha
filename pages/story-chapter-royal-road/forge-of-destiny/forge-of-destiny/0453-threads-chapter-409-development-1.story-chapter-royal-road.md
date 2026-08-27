@@ -1,0 +1,151 @@
+---
+id: 8edc6fbe-fb03-5b21-82f5-02bce7007cd2
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 409-Development 1"
+slug: 0453-threads-chapter-409-development-1
+partOf: forge-of-destiny
+position: 453
+ownLength: 2216
+unit: words
+publishedAt: 2024-10-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1867040/threads-chapter-409-development-1"
+royalRoadId: "1867040"
+---
+
+The journey south was much longer than she had grown used to. When she soared in the air, she forgot things like the twists and turns roads followed to pass between the mountains. She forgot that when traveling with mortals and low cultivators, she could not feel the wind scream past her. There was a plodding pace to travel on the road that Ling Qi found herself fretting over as the snow capped peaks out beyond the window of her carriage passed at what felt like a glacial pace.
+
+It did, however, give her time to focus on the slow and meticulous repair of her meridians, cleansing them of the last fires, reconnecting channels where they had been blocked, and carefully nursing the spiritual health of the meridians where they had withered under the heat. Every shade of qi she used—ice, darkness, wind, music—had to be carefully realigned with her emptied meridians. But every time she felt her power flowing properly or felt a pattern come back into sync with her spirit, the rush was indescribable.
+
+It was amusing to watch everyone step respectfully around Zhengui. Hanyi often stayed in the carriage with her, but Zhengui stayed steadfastly on the road, trundling along and clearing obstacles where they cropped up. Gui chatted freely with everyone who would speak with him, and as the days passed, that number grew.
+
+Soon enough, the train of wagons and carriages rounded the last of the bends in their path, bringing Snowblossom into view.
+
+The lake was a clear blue mirror reflecting the sky, and the mist and thunder of the falls were visible even from so far away. At the base of the cliff, small plumes of dust and smoke rose from work and habitation. Hugging the hills by the lake, harvested fields lay clear and ready for the next year's planting, and little homes dotted the spaces between. On those same hills, a drifting splotch of white like a cloud on the ground roamed in land closed off by barely visible fences.
+
+The treeline had been trimmed back a good distance from the settlement, and a wall had been raised, closing off a crescent of land by the lakeside behind wood and earth. Behind it and the distant, swarming figures of workers laying foundations and digging into the earth, a small palace with curved, blue tiled roofs and clean white walls was being worked on, flush against the stone of the cliff. It lay shrouded in the mist at the base of the waterfall, glittering colors reflecting from damp tile, but the mist circled outside the manor walls and spilled from the roofs to flow down invisible barriers protecting the streets and inside of the space from the damp.
+
+This was what the funds of the Cai could do when bent to Renxiang's purposes.
+
+She remained there at the window of the carriage, head leaning out as the caravan made its way down the final stretch toward the burgeoning settlement.
+
+***​
+
+"Welcome, Miss Ling!" Gan Guangli's booming voice carried across the open space outside the simple gates of the palisade.
+
+The gravel laid down in the preparations to pave a path from the tentative city gates out to the Wang-built road crunched under his boots as he strode out
+
+"Thank you, Sir Gan. It is good to see you've all been hard at work." Ling Qi was in her chair for now; she was not so far along in her recovery that she was able to forgo its use entirely yet
+
+"Yeah! There's so much stuff now!" Hanyi looked around. She was behind Ling Qi, ready to move her. "Though everything feels kind of empty…"
+
+"We have stretched the population thinly in arranging for all the infrastructure to be ready before the next stage," Gan Guangli answered.
+
+"It is fine. People will come to where the stuff is," Gui said with great certainty, stomping up from where he had been conversing with the caravaneers.
+
+Those were now being ushered toward the manor in the distance. Already, wagons packed with building materials were splitting off, moving toward the many building sites within the walls where the foundations for the first homes and buildings in their city center were being laid out along the gridlike lines of the streets being prepared on the newly flattened and cleared ground.
+
+"Still, I'm impressed with the work," Ling Qi complimented.
+
+"And you have not even seen it all yet! Come, Miss Ling, let me show you around the manor.”
+
+Ling Qi bowed her head. "Please.”
+
+Soon, the wheels of her chair were turning with Hanyi trotting behind, pushing. The cushioning arrays prevented the ride along the gravel path from being too bumpy.
+
+"While we have not yet received our honored guest from the Meng, the promised geomancer whose services you acquired, there has been some correspondence and self study. We are making some effort to incorporate the waters even now, as you can see," Gan Guangli announced, marching on ahead of them.
+
+Indeed, Ling Qi could see that channels had been dug through the planned streets and were steadily being lined with clean stone. The stone of the cliffs had been carved and shaped so that the waters would pour down and fill these channels, stretching off toward the lakeside. Though most of the dug canals were narrow, here and there, she saw places for pools and gardens.
+
+"I am sure we will have adjustments to make, but I can picture this turning out beautifully.”
+
+"It is pleasing. Designs for roof-installed sluices are common in wetter portions of the empire. We will find uses here." Xia Lin's crisp voice joined them as they passed the work crews and came to the outer wall of the central manor itself.
+
+True to her word, Ling Qi could see the places where some of the falling water was channeled to fall in pleasing patterns from the high roof, pouring into pools in the manor’s grounds, which, in turn, flowed out toward the lake. The constant pounding noise of the falls was reduced to a distant comforting rumble, and light shone through the falling waters and curling mist in pleasing patterns.
+
+"You've been here as well then?" Ling Qi asked. “What have you been up to?"
+
+Xia Lin was fully armored, save for her helm, and her halberd swayed behind her back, blade flashing in the filtered light. "Imparting drill and organization as much as possible. Riding the periphery has also been necessary to keep the wilds at bay."
+
+"And a fine job Captain Xia has done! Between the two of us, our small passel of guards is growing quite skilled for their level!" Gan Guangli praised.
+
+"... Yes," Xia Lin agreed reluctantly.
+
+"I, Zhen, will have to test their mettle. It is no good if the ones who will protect home are too weak."
+
+"Where are you getting guard guys anyway? Do you just, like, buy them?" Hanyi asked. "Could I buy one?"
+
+"No," Ling Qi scolded. "They come with the other settler groups, though their lords must give permission. That is one of the requests I have been writing to others for."
+
+"Ooooooh." Hanyi nodded as if she had not just asked something absurd. "So it's okay if I…"
+
+Ling Qi sighed. "Leave staff hiring to myself or Bao Qian."
+
+Gan Guangli and Xia Lin both concealed their amusement. It was Xia Lin who spoke up. "If we may continue, I have a report for you to look over. The results of the diviners and scholars performing a geomantic survey are in."
+
+"Oh! Gui remembers this. He helped by tracking the earth veins!"
+
+"It is good that my retinue has been working hard," Zhen agreed.
+
+Chatting, they entered the manor grounds. There were already gardens growing, and the bubbling pools at the base of the falling water streams were full of colorful fish. Here, the mist warding was more complete. The cool vapor was left to gather and billow among the grass and flowerbeds while rolling along the stone paths cut through the space. Inside the building itself, mist lingered among the rafters without ever descending, keeping the building cool and comfortable but still dry.
+
+They soon came to an expansive meeting room where Xia Lin had a map of the fief spread and weighted down. Ling Qi's eyes roamed over it, noting the polished blue stone representing the settlement by the lakeside and the colored pins stuck in across the map.
+
+Ling Qi helped lift the now dog-sized Zhengui up so he could plant his front legs on the table from her lap and observe.
+
+"It is fortunate timing that this was prepared," Gan Guangli said.
+
+"It would only be sensible to give the report once, and you were out on patrol as well," Xia Lin replied. "What do either of you know about the grading of metals?"
+
+"Very little," Ling Qi admitted freely. "That it is based on spiritual reactivity and suitability for talisman and array crafting?"
+
+"That is correct,” Xia Lin answered. “The imperial standard scales common metals on a grade from one to five. One is rated as suitable for mortal work, two for common cultivation use, three for high quality craftwork… And four and five are capable of conducting shen and sovereign energies respectively."
+
+Ling Qi eyed the pin-struck map. "I suppose I will need that information for the context of these pins."
+
+"Oh, there must be many shinies," Gui chirped.
+
+Even Hanyi leaned over her arm to look, interested by the prospect of wealth.
+
+"Just so." Xia Lin gestured over the map. "Firstly, grade one iron is highly abundant in the hills and southern plateaus. Signs have indicated that most anywhere in the northern area and lakeside could support a degree of mining. There are also lodes of grade two iron embedded within these larger veins in numerous places."
+
+"Oh, that is quite good then!” Gan Guangli exclaimed. “Even with our new friends in the south, common iron is always needed in great abundance. But I suspect you are not done."
+
+The girl nodded curtly. "There is a lode of grade three vein to the west, likely to have some special property, but this will require active effort to discern due to the deepness of the lode. In addition to that, there are a smaller number of silver veins in the hills, some rising to grade two."
+
+Silver was useful in a number of medical formations and purifying talismans, even if it was not the store of wealth mortals thought it was.
+
+“Fortunate,” Ling Qi commented.
+
+"The last metal we have divined lies up here in the site which we have labeled the saline grotto. It is a form of lead which seems to have a heavy alignment to earth and water qi. We are tentatively labeling it as grade three."
+
+Gan Guangli stroked his chin. "More of an alchemical resource then. Powdered leads do form the base for many third realm and higher pills. It has attractive properties to help differing reagents clump and fuse properly."
+
+"There are many cosmetic uses too, though it's toxic to mortals. I think the Bai, the Jin, and the clans of the Peaks use a fair amount of it." Ling Qi vaguely recalled this information coming up in one of her letters, indicating that lead was fetching a good price on the new routes.
+
+"I will note that down." Xia Lin made a mark on the paper of the report before her. "Other than that, we have begun filling in the old quarry. There are much better places for building stone, more accessible and easier harvested. Once moved, it should be much more efficient."
+
+Gan Guangli smiled. "And the men were pleased enough to be on lighter duties for a time!"
+
+"That does remind me, is Ling Nuan still here? I hope the arrival of the first herd went well."
+
+"Your new kinswoman?" Gan Guangli questioned. "She is here, although leaving soon. She took command of the pasture work admirably. The mortals are being instructed of the quirks of the breed we selected."
+
+"I'm glad," Ling Qi said.
+
+"Oh! What about the stuff in the boiling waters?" Gui asked. "My friends were looking at it when I left!"
+
+Xia Lin wrinkled her nose. "... Oh, yes. The material is… pungent. It has been identified as a form of flamesand, which has its uses in alchemy, particularly of the explosive sort. We do not have the equipment to harvest it safely yet."
+
+Her little brother sighed. "Ah, I could probably get some, but Gui does not want to spend all day doing it."
+
+"Our retainers may study what we deign to take," Zhen said imperiously. "But anyway, enough talk of metal things! Is there a report on who I, Zhen, need to inform of the coming vassalage?"
+
+"I think we should be nicer about it," Gui said.
+
+"The matter of the spirit courts, I have left to your scholars," Xia Lin replied. "As it is primarily Baroness Ling's and your business."
+
+"That is fine. Gui wants to talk to everyone anyway!"
+
+"I kinda want to see those sheep things the new sis was talking about…" Hanyi muttered.
+
+"This concludes my initial report. You may now tour the fief as you wish," Xia Lin announced.

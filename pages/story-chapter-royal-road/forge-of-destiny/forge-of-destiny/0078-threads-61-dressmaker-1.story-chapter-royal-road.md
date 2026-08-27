@@ -1,0 +1,139 @@
+---
+id: 4c4faab2-43c2-56b9-8aea-7f276b707a4e
+page-type-slug: story-chapter-royal-road
+title: "Threads 61-Dressmaker 1"
+slug: 0078-threads-61-dressmaker-1
+partOf: forge-of-destiny
+position: 78
+ownLength: 3369
+unit: words
+publishedAt: 2021-03-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/647420/threads-61-dressmaker-1"
+royalRoadId: "647420"
+---
+
+Now that she had settled into her routine, Ling Qi began each morning at her family's home, helping her mother take the first fitful steps with a cultivation art. Following that, she lingered long enough to have breakfast with her mother and sister, though she rarely had more than a few bites. Then it was time for a spot of private cultivation working on her arts, and after, it was either off to the lessons she had earned from the Sect, cultivating her body and spirit under the watch of an elder, or off to do military exercises with Senior Brother Liao Zhu or with her whole scouting cadre under Senior Sister Guan Zhi.
+
+She set aside time in the evenings to keep up with her friends, whether it was taking tea with Meizhen, window shopping with Xiulan, or having a spar with Shen Hu. Then there was some time spent with Zhengui and Hanyi in relaxation and a little cultivation. Once the sun began to dip under the horizon, Ling Qi began her cultivation in earnest.
+
+Having reached the temporary plateau of green foundation, she finally found time to really work on her cultivation arts. Mastering Eight Phase Ceremony was a simple matter. The final phase was simply a refinement of what had come before and a final integration of its exercises into her breathing and circulation habits. With this mastery, she would now be able to begin cultivating Songseeker’s Ceremony, the successor art that had been developed with the aid of the Grinning, Hidden, and Dreaming Moons.
+
+Argent Genesis, the Sect’s cultivation art, took a little more effort. However, it was a very refined art, and she had to marvel at how easy it was to pick up. Cultivating the argent qi of the vent went simply and smoothly, and the lessons on spirit bonds contained in the art allowed her to make her connections with Zhengui, Hanyi, and Sixiang much more efficient. She swiftly mastered level after level, reaching the penultimate stage, the fifth day, of the art in only a week.
+
+Her other goal for the month, cultivating an art she had dug out from the archive some time ago, was helped along by her scouting duties. Given her focus on preparing for the New Year’s Tournament last year and her rank challenges this year, she had neglected her more subtle abilities in favor of combat, but she was determined to change that. Ephemeral Night’s Memory was not an art of incredible potency and so, she swiftly cultivated to third fading in that art, but its techniques, which allowed for the manipulation of short term memory to improve her ability to pass unseen, were a good place to start until she could begin cultivating the wind thief art she had received from the Grinning Moon. It would also help her work on her ability to avoid spiritual attacks.
+
+It helped that Liao Zhu praised her efforts in that direction and freely gave pointers while they were together. Apparently, he had cultivated the art himself when he was her age, though he had long since developed his own personal variant.
+
+As the weeks passed and the time to begin working with Cai Renxiang on planning the next gathering came, Ling Qi entered her Sect lessons only to halt in surprise at the entrance to the lesson hall.
+
+“That will be quite enough gawking, girl. Take your seat. You are nearly late as it is,” Elder Jiao said dismissively, waving toward one of the empty seats in the crowded hall. Elder Jiao was seated on a hovering seat cushion behind the lecturer’s podium, one leg crossed over the other. He wore bright lilac robes patterned with horribly clashing geometric patterns around the hems. He hadn’t bothered with a cap, leaving his bald grey scalp bare. Below him, his shadow pooled like spilled ink.
+
+Ling Qi hurriedly bowed to the old man, even as she restrained the urge to furtively glance around. Her senses had grown greatly since she had seen Elder Jiao last, and now, she felt her hair prickling on the back of her neck as she felt and half-saw the eyes lurking in every shadow and patch of darkness in the chamber, watching and judging. He was doing it on purpose, of course; there was no way a cultivator of his skill couldn’t hide his presence better.
+
+As the last few minutes of the hour ticked away, Ling Qi glanced around at the others in the room, disciples who had earned intermediate lessons all. No one seemed to know what was going on. Elder Heng was the usual teacher for these lessons. Before she could do more than consider the implications however, the door to the hall snapped shut with a bang.
+
+“To answer the obvious question,” Elder Jiao began, “a short time ago, Elder Heng discovered the beginnings of serious degradation in his lower dantian. He will be withdrawing from public life to make his preparations for passing on. As such, I will be handling his lessons for a time. The Sect will make the proper announcements later today.”
+
+Ling Qi stared. It wasn’t like she had known the other elder well, and she was obviously aware that he was very old, but it still felt unsettling to be reminded that whatever they might call themselves, they weren’t really immortal. There was a faint susurrus of sound from the rest of the class, but Elder Jiao cut it off with a flick of his sleeve. Literally. The noise ceased utterly with the motion of his hand.
+
+“The time for paying your respects will come later. For now, we have a lesson. Today’s topic is a rather important one too. Namely, we will cover the path that lies ahead of you all should you continue to walk the road of cultivation. You all stand at the third or fourth stages of the third realm. An impressive feat.” Elder Jiao managed to make the accomplishment sound like it wasn’t impressive at all. “However, you will soon reach the point where the vast majority of even those who have great talent stumble and fail, and the obstacles will only grow higher. Your breakthroughs have thus far risked pain and setbacks, but the higher realms do not exact so lowly a price. The third realm is the last which can be achieved with effort and time alone, but it still has its own tribulations.”
+
+Ling Qi thought back to her harrowing escape from her mentor’s power as it went mad and turned against her will and the insight that had carried her through the trial.
+
+Elder Jiao let out an amused chuckle as he looked out over the sea of worried faces. “Hah, I see my words bring to mind pleasant memories indeed. Whatever tribulations you have faced, they are only the beginning. You will have to learn and master the modification and creation of arts, and in doing so, you will prepare yourself to begin moving on from such crutches. To step beyond the framing stage, you will face the most lethal and difficult trial. You will forge your childish and ill formed ways into a solid core and complete the evolution of your lower dantian, which will serve to anchor your identity as you ascend the highest realms.” He favored them with an amused grin. “And even then, many who claw their way to the peak of the third realm will fail, and in their failure, cripple their cultivation. As I previously mentioned, the higher realms are not so forgiving as the lower ones. To face your fourth realm breakthrough and the opening of your middle dantian without any but the utmost of preparations is to seek death.”
+
+Ling Qi glanced around nervously, an obvious question rising in her mind but hoping someone else would work up the nerve to interrupt. Thankfully, that was unnecessary.
+
+“I see the question in your minds, those of you with lesser backgrounds. For the vast majority of cultivators, only the lower dantian is relevant, and so, in common parlance, the dantian is simply referred to in the singular. You, however, are among those for whom the other dantians may be relevant. The middle dantian,” he said, tapping a spindly finger against his chest, “is opened in the fourth realm and acts as a forge to refine your qi into a purer form known as shen. You will sever your mortal vulnerabilities one by one, and their vital functions will be incorporated into the middle dantian as energy constructs referred to as pearls.” Elder Jiao then raised his hand, tapping once on his own forehead, directly between his eyes. “There is also the upper dantian. This is almost certainly irrelevant to all of you. Only those who rise to the violet realm need concern themselves with that.”
+
+He clapped his hands. “However, even the middle dantian is a distant concern to all of you. Should you rise high enough that it is a concern, you will no doubt have earned enough Sect Points to request private lessons on the matter. Today, we focus on the portion of third realm cultivation which can be taught, the customization and creation of arts. By now, you will have begun to discern the true patterns in the formations of qi which the layman refers to as techniques, and so…”
+
+Ling Qi leaned forward in her seat, taking in the elder’s words. There was a lot she still didn’t know, but that just meant that she needed to work harder. It seemed that she would soon have to start considering which of her arts she wanted to refine.
+
+Elder Jiao’s lessons proved informative, and Ling Qi was determined to push herself as far as she could for her own sake, as well as for the sake of her family and even her liege. But she didn’t want to exhaust herself too much because she was scheduled for another tour with her scouting cadre next month. As the month wound to a close, Ling Qi decided to join Bai Meizhen and Cai Renxiang for a private gathering that she had been invited to.
+
+***
+
+Ling Qi grimaced in concentration as she wove through the storm of twisting, writhing ribbons of steel that sang through the air. Hungry strands of metal stained a deep toxic purple tore through the flickering shadow images left in her wake. With utmost care, she danced through the boiling pools that pitted the ground, bubbling not with heat but toxicity, as they devoured the earth and stone beneath her feet.
+
+Only her masterful skill allowed her melody to be heard over the pounding roar of the venomous rain. Despite the rain, her mist hung stubbornly in the air, thick and dark, swirling in eddies kicked up by the roaring rain. The black phantasms within howled and circled her enemy, ready to descend at her mark.
+
+Her opponent rose high before her, staring down imperiously from the shadows of her liquid mantle, suspended three meters in the air on coils of black water. Ling Qi faced her, flute raised, and she glowed like an emerald beacon, the full suite of techniques from Thousand Rings Fortress enough to allow her to stand tall even under the toxic rain.
+
+Then Meizhen’s right hand twitched, and ribbons of metal screamed as they caught and deflected Ling Qi’s singing blade and flung it away. At the same time, Ling Qi bent low, allowing the silvery edge of Meizhen’s domain weapon to pass through the air above her with a muffled boom, carried on the leading edge of a fan of water that carved a meters-deep cut into the wall of the arena behind her, and exploded into motion, soaring over the lake that churned beneath Meizhen, growing with every drop of rain that fell.
+
+Through her flute, she sang, and falling curtains of rain shattered as she flew through their newly solid forms. Meizhen’s free hand rose in warding as her refrain reached its crescendo, and black water froze and shattered, leaving red ice burns across her friend’s palm. Slashing ribbons carved through her verdant armor in response, but Ling Qi dissolved her form before they could touch flesh, passing through the binding coils like a shadow.
+
+Before she could strike again, Meizhen’s golden eyes flashed, and Ling Qi faltered, her concentration scattered as what felt like a titanic hammer of raw terror smashed into her. Paralyzed for a fraction of a second, she failed to raise a defense as a tail of black water smashed into her chest and sent her flying backward to crater the packed dirt of the arena floor. She grimaced as she stood, still feeling a little shaky as she shook off the pain of the metaphysical bludgeon Meizhen had smashed her over the head with.
+
+<Better you than me. Wasn’t even aimed at me and I felt that,> Sixiang muttered. <Remind me not to piss her off, yeah?>
+
+Ling Qi chuckled as she raised her hands in surrender. There was no point in pushing further than this in a light spar, and they were short on time regardless. Despite the black clouded sky and churning mist, she could still sense the qi of the sun above. It was getting late. “Let’s call it here!” she called through the rain.
+
+The specter of terror and abyssal water that loomed above her paused, and the lashing metal ribbons slowed their dance. “Hm, yes, it seems that we allowed ourselves to be carried away.” Bai Meizhen’s cool voice echoed strangely from under her mantle, but a moment later, the toxic rain began to clear, and her watery coils began to dissolve, letting the pale girl drift slowly down.
+
+Ling Qi cut off the flow of qi to her mist as well, and the training field began to clear, a wide circle of packed earth encircled by sturdy qi-enhanced stone. Pools of sizzling poison pitted the field, and deep gouges and shattered stones marked the walls. “Really, though,” Ling Qi huffed. “Who gave you the idea to cultivate such an unfair art?”
+
+Meizhen gave her a bland look as she alighted on the surface of the largest pool, the one that formed beneath her. Her friend swiftly glided across the surface and stepped soundlessly onto the muddy earth. “I could not imagine,” she replied serenely. “An idle whim, I suppose.”
+
+Ling Qi cracked a grin and laughed. “Seriously, it seems like I really can’t catch up, no matter what I do.”
+
+Bai Meizhen raised her eyebrow. “Ling Qi, fishing for praise does not become you. That you are keeping pace with me is absurd enough given the resources that have been made available to me.”
+
+Ling Qi stretched her arms overhead. She was fine physically, but her whole spirit felt sore after that last hit. “Hah, sorry,” she breathed out. “Should we head on to lady Cai’s then?”
+
+“I believe so,” Meizhen replied, gracefully picking her way through the ruined field. As she passed by, something caught Ling Qi’s eye.
+
+“That reminds me, why’d you decide to change your hair?” Ling Qi asked curiously as she turned to follow her friend out. Meizhen’s hair had always been very long, reaching down to her hips after the girl’s third realm breakthrough, but she had worn it loose before. Now, starting at her shoulders, the girl’s white locks were bound by a pale blue ribbon of silk. It was hardly the most fanciful hairstyle she had seen, but it was a change all the same from her conservative friend.
+
+Bai Meizhen glanced back at her as she caught up. “The ribbon was a gift. It seemed wasteful not to make use of it.”
+
+“Something from your family?” Ling Qi asked. She had noticed the faint white stitching picking out formation characters on the ribbon, so it was obviously a talisman.
+
+The other girl paused, but it was so brief that Ling Qi barely noticed it. “No, it was from Bao Qingling. She wished to express gratitude for my collaboration on her projects.”
+
+“Ah, that silk thing you were talking about,” Ling Qi mused. Out of the corner of her eye, she studied her friend. “What does it do?”
+
+“It soaks in and compresses qi circulated within my poison meridians into a more potent form. By expending the refined qi, I am able to enhance certain techniques significantly,” Bai Meizhen explained. “It is inferior to the family artifacts which she is attempting to replicate, but the effort is impressive all the same.”
+
+“I don’t doubt it,” Ling Qi said. “I’m surprised you got her talking to you in the first place though. How did that happen?”
+
+Meizhen gave her a small frown as they left the training field, even as the air shimmered under the cloak of qi that kept their conversation private. “I found her rather similar to you if I am to be honest. She is not unwilling to speak on technical topics, but she does not bother hiding her disinterest in less material subjects.”
+
+Ling Qi winced, not sure how she should take that. Was she really that bad?
+
+“You’re more subtle, and better at being nice about it,” Sixiang chuckled.
+
+“As the muse said,” Bai Meizhen said with a faint twinkle of amusement in her eyes.
+
+“Yeah, yeah, go ahead and laugh it up. I’ll be the life of the party before you know it,” Ling Qi said with an affronted sniff.
+
+“How horrifying the prospect must be for you,” Bai Meizhen replied blandly. Ling Qi poked her irritably in the side and had her hand swatted away for her trouble.
+
+Ling Qi grumbled good naturedly as they made their way up the mountain toward Cai Renxiang’s current residence. However, she wasn’t done. “So, are you going to keep finding reasons to meet with her?”
+
+Her friend’s graceful stride paused almost imperceptibly again. “If time allows, I suppose. I believe we find each other’s company agreeable. Why do you ask?”
+
+Ling Qi thought about the question, trying to choose her words carefully. “I know you pretty well, I think, and I’m glad you’re making more friends. I guess…” She trailed off, not sure how to say it. Initial incident aside, she had not handled Meizhen’s interest well last year. “I’m just not sure what you’re looking for.”
+
+“I do not know myself,” Meizhen answered lowly. “It is not exactly a subject on which I can seek help.”
+
+“Nothing in the vaunted Bai archives addressing matters of the heart?” Ling Qi joked awkwardly, feeling a little sorry that she had pushed the conversation in this direction.
+
+“Hmph, you joke, but the answers are not pleasing,” Bai Meizhen grumbled. “Looking back on childhood memories with further context, I am quite sure that the most common answer is to make use of one’s Xiao clan companion.”
+
+Ling Qi did her best to keep a blank expression. Things were now veering wildly out of her comfort zone. Why had she done this again?
+
+<Because you’re a hopeless busybody when it comes to your friends?> Sixiang offered wryly.
+
+“Not what you’re looking for, I take it,” Ling Qi finally noted.
+
+“Xiao Fen’s devotion is admirable, but absolutely not,” Meizhen agreed. “I do not know what I want, but it is not that.”
+
+“I’m sorry that I can’t help,” Ling Qi apologized. “So, Bao Qingling? Why her?”
+
+“We share a certain interest in the less medicinal branches of alchemy, and I find her acerbic nature somewhat endearing. And, well…” Meizhen trailed off awkwardly, glancing at Ling Qi.
+
+Right. Apparently, tall and gangly was a type someone could have, Ling Qi thought wryly. “I wish you good luck, that’s for sure.” She just hoped Meizhen didn’t get hurt again. Still, it struck her then that Bai Meizhen was swiftly becoming better at dealing with such feelings than she was. She wasn’t sure how to feel about that.
+
+“Thank you, but I think one has to know the outcome they desire before one can know whether a turn of fortune is good or bad,” Bai Meizhen said dryly. “But we are almost there, so perhaps this conversation is best set aside for now.”

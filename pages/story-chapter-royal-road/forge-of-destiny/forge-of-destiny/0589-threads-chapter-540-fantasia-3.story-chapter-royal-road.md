@@ -1,0 +1,125 @@
+---
+id: 6e176006-61ee-50e5-a234-78a2f3a0827a
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 540-Fantasia 3"
+slug: 0589-threads-chapter-540-fantasia-3
+partOf: forge-of-destiny
+position: 589
+ownLength: 2326
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3861438/threads-chapter-540-fantasia-3"
+royalRoadId: "3861438"
+---
+
+Darkness soon resolved into a winding path. Leaves, orange, warm brown,  yellow, red, and everything in between, softly rained down from the canopy far overhead, drifting on the cool and bracing breeze. Their curled skeletons crunched beneath their feet, both Bao Qian's and her own. It was a novel sensation, feeling and hearing that crisp crunch when it had been so long since she made footprints in even the softest earth or snow.
+
+Light. There was so much light shining through the endlessly falling leaves. It was as if, in every direction, a village stretched under the high, high branches. Round homes built into hills and grown into tree trunks were scattered through the spaces between. Their winking lights and merry hearthfires stretched far past the end of her senses. Yet, it did not have the feel of a city; it was too scattered and diffuse, a feeling that wherever she was not looking, she would find fields of fertile, freshly harvested earth, and the bonfires of burning detritus from those labors.
+
+The gleaming, many colored lights that sparkled through the leaves did not come from bonfires or hearths, or at least, not for the most part. It came from the lanterns. Lanterns that sprouted like ripe fruit from small trees strung all around road posts and dangling from eaves, lanterns that floated in the air, drifting and gently bumped by falling leaves, and lanterns that floated along the lazy rivercourse that separated the vast village of moon spirits and their festivities from the entrance to Fantasia, crossed by a single bridge painted a bright and merry red.
+
+The gate had swiftly faded behind them, disappearing into the autumnal mist, but the ritual rope did not. It was solid in a way nothing else in this realm was, an anchor to reality that stretched off, curving into the depths of the forest.
+
+"Your kin aren't usually the type for villages, are they, Sixiang?" Ling Qi asked. "Not like this anyway."
+
+"We are the type for parties, though, and you can't have a proper harvest festival without a village! That's just not how it works," Sixiang protested.
+
+"Ohhh, what's that smell? It's so tasty," Hanyi trotted ahead, peering toward a building in the distance that seemed to be a giant mushroom of some kind fused with a house.
+
+Ling Qi inhaled deeply, turning her attention to the scents drifting out of the riot of color and music. That was a familiar scent, though a rare and distant one. It was…
+
+"Mooncake, of course." Bao Qian chuckled. "You wouldn't be familiar, would you, Hanyi? It's always past the season when you're out and about."
+
+"It smells different than the ones I'm familiar with. There's a different sort of sweetness," Ling Qi commented.
+
+"Central valley recipes do prefer honey glaze to sugars, but the Meng lands have a fine climate for some kinds of cane. I suppose our spirits are feeling local," Bao Qian said.
+
+"Ah, sugar! That's what it is," Ling Qi realized. She'd had the treat a few times, mostly when she would eat sweets with Xiulan back in the sect.
+
+"Ah, Moons, this one doesn't go out to festivals enough. I haven't even had a mooncake this incarnation! C'mon, squirt, let's you and me go get a treat!" Sixiang clapped their hand on Hanyi's shoulder.
+
+"Huh, shouldn't we stay together?"
+
+"Oh don't worry about it,” Ling Qi dismissed. “Bao Qian and I need to discuss road taxes, so we can optimize your route. Unless you want—"
+
+"Nope! C'mon, c’mon, let’s go get some cake!"
+
+Bao Qian shot her an amused look as the spirits left them. "I didn't know you'd suddenly gained an interest in stone pinching."
+
+She made a face. "Renxiang made me calculate the import costs on those chestnuts I promised the Whiteout spirit last time. We should discuss it at some point, but not now."
+
+"No, I suppose not. Would be a bit of a waste of this trip, wouldn't it?" Bao Qian offered his hand. "Would you join me among the stalls then?"
+
+She nodded, taking it. It was different than Xuan Shi's, a firmer grip with less hesitation. But it was, well, friendly. Bao Qian was always friendly, she supposed, and at one time, that was a comfort.
+
+The bridge creaked underfoot, the pleasant groan of sturdy but well-worn construction. The river babbled underneath them, countless tiny lanterns drifting by on the lapping waters, bobbing and casting sparkling streams of light. Endlessly falling leaves might become annoying, but somehow, they never landed in her hair or smothered her face. They always politely remained just far enough away to be pretty and artful rather than bothersome.
+
+"Welcome, welcome!" belted out a moon spirit who awaited on the other side of the bridge. A towering, lanky, doglike creature, it crouched by the roadside, stretching out spindly fingers strung with flower wreaths. Its toothy, too-long snout was split by uneven fangs. "Feast, and be merry! The stocks boil over with a year well worked and won!"
+
+"Let's all celebrate the bounty then," Ling Qi accepted cheerfully, plucking a string of pale yellow flowers from the spirit’s claws and draping it around Bao Qian's brow as they walked past.
+
+"Shouldn't that have been my cue?" Bao Qian wondered, reaching up to straighten the wreath out.
+
+"Perhaps, but you were a bit too slow," Ling Qi teased.
+
+"I really was!" Bao Qian laughed. "It's easy to plan and plan, but never put chisel to jade."
+
+They moved among the crowd, staying beneath the gentle swing of the ritual rope, far overhead. All around them, moon spirits chattered and danced around high bonfires, great boiling stew cauldrons, and gourds of immense size, whose wriggling leafy roots and vines swayed and danced to the deep beating music just the same.
+
+He gave her hand a tug, and she obliged, turning with him down one of the many winding village streets.
+
+"It is," Ling Qi agreed. "Tying oneself in knots over this note or that… In the end, a song unsung doesn't exist. It's only when you put your thoughts to action that you reach a harvest like this."
+
+"Wealth and bounty… This is the form it should take, or one of them. Coins and stones are just the lubrication that turns the wheels," Bao Qian said thoughtfully. "Is it false or insincere to try and present the face which will best please the one you're dealing with?"
+
+Ling Qi considered this. Some months ago, she might have immediately answered yes. She couldn’t really do that now, after having spent so much time contemplating communication. "I think there are degrees to that."
+
+"Ah,” Bao Qian sighed out. “Lady Ling has truly become a diplomat." Then, he called out, "Sir! Two of those, please."
+
+The creature crouched in the too small space behind the festival stall, a viney thing with a heavy bottle gourd hanging off the stalk that served as his neck, gave them a gap-toothed grin, its painted face rippling with the changes of expression. "Two coming right up, sir!"
+
+Ling Qi accepted the plate with her moon cake gratefully, as they released each other’s hands. Crisp and golden brown around the edges, the scent was much richer and earthier up close. The crumbled sugar sprinkled across it clung to her fingers as she lifted a slice and took a bite.
+
+"I mean what I say. Sir Bao should be more precise with his language," she replied as they walked onward from the stall. "That answer was a little mealy-mouthed of me, though."
+
+"Hah, it's fair enough." Bao Qian paused to contemplate the flavor of his own cake, chewing. "The Way of the Bao, the Way I follow at least, is about wealth."
+
+She nodded along, letting him continue without interruption, savoring the rich flavor and watching the lanterns and leaves drift by overhead.
+
+"Wealth is not a pile of gold or stones; these things are but tokens of it, as pleasing to the eye they might be. This—" He paused. They were at the top of a hill descending down into a valley full of villages sprawling through the colorful trees. "--is wealth. The creations that people make, their labors, and their art are all wealth. In ideal conditions, the role of my family and of commerce is to bring this about. We move materials from where they are plentiful to where they are scarce, and in doing so, drum up desire for new works and crafts."
+
+"Conditions are rarely ideal, but that is what cultivation is for. I see better the shape of your question now."
+
+"That is something I enjoy doing as much as my own personal craft. It is how I approach people, figuring out how to get the best deal or the best benefit for this person and myself. How do I best ensure our dealings are fruitful and bring about wealth for both of us?" Bao Qian expanded.
+
+Ling Qi savored another bite of her cake. "You now worry if that approach makes you only a 'medium of exchange'. If gold is all there is to you, you wonder if that is why we have not been able to really connect."
+
+"Now, there is the bluntness I expected." Bao Qian smiled, but it didn't quite reach his eyes. "Let me bring my question back. I’m not even discussing this in regards to us. Do you think that malleability is something insincere? I am curious."
+
+They resumed walking, descending down the winding path, their steps naturally carrying them onward. There was a temple in the distance, the largest structure by far, and the strains of music coming from within the columned pavilion rang all the way up here to them.
+
+Did she? Ling Qi thought. He was not simply asking her if that trait was good or bad. That word he chose, insincere, had meaning.
+
+"In principle, I don't think so. Of course, I could cite examples of when it is insincere easily. The intrigue Ways and pawns of the Hui, or the infamous example of the spy who unraveled before the Duchess because he could not answer the question 'Who are you?' with any truth," Ling Qi began.
+
+"I should think I have never been so lacking as that. Whatever I am, I am a Bao." The last slice of his mooncake disappeared between his lips, and the plate in his hand dissolved into so much glitter on the breeze.
+
+"That's the trouble, though, isn't it? You don't think your Way is wrong. I never got that impression, and so, it isn't really the question you are asking me. What you do wonder is what makes you you, and not just 'a Bao."
+
+She continued, "I received advice once that many would see the desire to talk, to negotiate, or to use diplomacy rather than the sword as a weakness. This conciliatory attitude would dog at my heels and hurt me, painting me as an insincere schemer of the court."
+
+"Oh? I have heard some grumbling about the need to negotiate with barbarian savages at all," Bao Qian revealed.
+
+She nodded. Of course he had. Even in success, those gripes would not disappear. "That person also told me that holding a core of principle, of having a center around which my words turned, would put paid to that. I think they are right. It is like fighting with a soft, yielding style. Just because one gives ground does not mean one is surrendering."
+
+"That is the framing my tutors at the clan would put it, too," Bao Qian replied, peering out into the festival. "Attenuation is the Bao's preferred style. We use walls, barriers, and fortifications. For the youngest, we teach them how to take blows, absorbing blows on the parts of their body where they do the least harm, training muscle to disperse impact."
+
+Ling Qi cast her eyes about as well. Despite the aesthetic of the endless rural village sprawling out in every direction, the streets were thronging. It was not the press of bodies that made a crowd in Xiangmen, or even Tonghou, but they were never far from a spirit in every direction. Beautiful and hideous spirits were dressed in the brightly dyed but worn clothes that poor villagers might wear on feast days. A titanic spider wearing a woodcutter's headscarf and several pairs of muddy boots stepped delicately across the street to avoid treading on anyone. Its jaws snapped to the tune of the songs coming from the temple.
+
+"I'm deflecting," Bao Qian acknowledged, stepping around a gangly reptilian beast with a long ,snaggle-toothed snout that wore a spun yarn shawl like an elderly matron, and shuffled like one, too, on her hind legs, long tail sweeping the street behind.
+
+"Appropriate," Ling Qi joked.
+
+He snorted. "Perhaps. You are right, though. It does feel empty to only be able to say, ‘I am a Bao’ It certainly didn't impress you. I have to admit, there is some small pricked pride, that I simply could not find a way to present myself in a desirable light. I do not regret taking up the management of your sister's tours, but in hindsight, it was a poor choice for pursuing you. Good business, though. Great business. It is not an activity I would have found the opportunity for otherwise, and it is important for the Emerald Seas. I want that. I have said before that I would very much like to be a patron of music, and that is who I am at the core. Artistry is something that, like wealth, only grows in value when spread. And I wish to be one of those who brings it."
+
+"And that is why it would be wrong to call you insincere," Ling Qi informed him."When you want to speak to and be heard by so many people, it can't only be in one voice. I've had to learn that as well."

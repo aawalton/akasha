@@ -1,0 +1,167 @@
+---
+id: 32c2680f-d5ba-5cc6-8ca5-4f2099329fa9
+page-type-slug: story-chapter-royal-road
+title: "Threads 357-Disruption 3"
+slug: 0397-threads-357-disruption-3
+partOf: forge-of-destiny
+position: 397
+ownLength: 2676
+unit: words
+publishedAt: 2024-01-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1491401/threads-357-disruption-3"
+royalRoadId: "1491401"
+---
+
+She followed in the thought-shade's pale shadow, unremarked and unseen, into a blank hallway that shivered and jittered as if melting continuously, barely coherent even in her perception. She must be following this thought-shade into the man’s subconscious beneath the layer of active self.
+
+For a moment, pain shot through her head like a knife in the eye, sharp and pulsating, and her whole perception of this place almost collapsed, the semi-coherent imagery threatening to warp into a completely alien collection of color and noise and sensory overload. Ling Qi swiftly retook control of her technique, not allowing the qi flow to collapse and eject her from the man's mind.
+
+But this effort had cost her a second. The shade disposing of the short-term memories turned ahead of her down another hallway, and she shot off after it through the twisting space, flying along the ceiling. She caught up to it as it entered a room. This one was even less cohesive than the hall outside, appearing as half a storage room, lined with dripping, melting shelves. A yawning gray void continuously swallowed the shelves even as new ones formed near the door.
+
+A lower realm or mortal mind had a much more limited capacity for information than a higher realm cultivator's. Ultimately, one could not find something that was not there. If there was something here in his mind still and it was forgotten, not even Cao Chun's techniques would be able to find it. That was frightfully devious.
+
+She tracked the shade as it set the box down and left, and she could already hear another coming down the hall. So the moment it was gone, she dropped down, reforming a body balanced precariously on the shifting floor. Qi gathered at her fingertips. Warily preparing her Opening the Vault technique, even if she detected no defenses, Ling Qi reached for the box, clearing away junk. She discarded the smell of grass at the worksite, the grunted greetings to his workmates, and the taste of a dull, uninteresting porridge. And there, beneath it, movement.
+
+She snatched it from the air as it leapt for the void, a squirming, skittering thing. She caught it by the hindmost legs, and they nearly snapped off between her fingers before her other hand caught up, cupping the thing in her grip. She felt fangs nip at her, but they failed to break her skin. It looked like a spider, but its body was a little too long, and there were just too many legs. She narrowed her eyes, focusing on it between the gaps in her fingers.
+
+It went still in her grasp, and then, its oily carapace cracked, and on its abdomen, an eye opened. Deep, empty, and black, featureless and yet looking back at her with malice. She felt power spike from it, something infinitely greater looking back at her through the parasite.
+
+She heard a child laugh. She heard a child sob. The sounds mingled like the most awful sort of music, discordant and miserable. A long spindly hand reached past her shoulder. It touched the not-spider gently, and it froze, eye and all. The unnerving feel of Shu Yue's qi was comforting all the same as she felt the greater presence fleeing. But there was a moment where she was really able to see it.
+
+Still Waters Deeping. Archivist of the Reviled.
+
+"So many layers to the catching." Shu Yue's dry raspy voice whispered in her ear. "Good work. Retreat now. Your control is destabilizing."
+
+Ling Qi gave a jerky nod, shaking off the feeling of a greater power once again looking down on her, of the feeling that she was about to be crushed. Another layer of trap to kill her if she got this far? Well, it had failed, and now, she had a Name.
+
+She was not the greatest fan of this game. The thought parasite in her hand was still and stable. She drew it into her storage ring. If Cao Chun could not do something with this, then she would be disappointed indeed. She took hold of the shuddering qi in the meridian she had bound to her Thief of Names art and pushed it out, dispersing the technique in the proper way.
+
+She felt like she was rising, and the world went white. And she was back in the liminal proper, wrapped in Sixiang's presence. She staggered, having to take hold of herself and still her qi.
+
+"Everything alright there?" Sixiang asked worriedly, their voice echoing and dissolute, seeming to come from all around her.
+
+"Just not used to the technique yet. How long was I in there?"
+
+Ling Qi scanned her surroundings, peeking back through the veil. Men surrounded Chen Gang, who was sitting down, holding his head. Damage? It seemed to just be pain and queasiness. The White Sky workers were a bit further away, glancing at the imperials and whispering in their own tongue. A few of their own were peering back suspiciously.
+
+No immediate conflict likely.
+
+"About a minute? Saw some fluttery spirits. Think they might be your guests noticing something happening and looking in from afar. Nothing else to report, boss."
+
+She nodded and cast her thoughts out for the metallic sensation of Jin Tae's qi. He felt far away and sharp-edged, frustrated.
+
+She had acquired trace evidence of the culprit in the victim. Any luck on the chase?
+
+"Minimal. Decoys and looping trails. Was able to record some traces of composition despite the dissolution of the objects."
+
+Zheng Fu followed up. "Not… the greatest over here. I killed the root-y, worm-y thing that came crawling out of the one guy's thoughts. Pretty sure it was made to dig in and stir up the mountain, but the fella it hatched out of went crazy on the foreign folks, accusing them of cursing him. He's passed out now. Not broken, just hurt. I tried to be precise, but there was some kind of feedback. Not a trace of the gribbly now."
+
+Ling Qi sucked in a breath. Was there further conflict brewing?
+
+"Some shouting. I stepped out and kept folks calm."
+
+"Unfortunate. Will reroute medical personnel. Am told several among the Emerald Seas military guards began to show signs of curse outbreak. Inspector Cao excised the curses before they could become visible or notable to most attendees. Inspector believes the Lord Meng and the Emissary Rostam took notice of his action. Meeting proceeding for the moment."
+
+Something infecting the soldiers? Ling Qi had to take a deep breath. If the inspector’s eyes had been elsewhere, that could have thrown the summit into chaos. It might not have been completely crippling, but it would have made negotiations infinitely more difficult.
+
+"Recess approaching. You are needed back at the hall. Your presence is being missed. Inspector Cao requests you move to reassure the barbarians after delivering your evidence. He will speak with Lord Meng."
+
+No more specifics than that? She supposed Jin Tae must be feeling harried. Ling Qi looked toward the beacon of the hall, a tall and twisted caricature of the building composed of clashing ice and lightning, confused on what it was meant to be but slowly settling.
+
+The benefits of secrecy simply weren't enough to outweigh the negatives, Ling Qi thought. For a while now, she had banked and benefited from the fact that few expected one of her cultivation to have such advanced liminal arts, but that had run its course at this point. Her dreamwalking abilities had already been an increasingly open secret, and trying to hide it further now would be of little benefit. No doubt the White Sky would investigate themselves if she gave them little information, and that merely opened up opportunities for the imperial and White Sky investigators to end up at cross purposes, tripping over each other's efforts.
+
+Organizing her thoughts, she pressed to the front an answer to Jin Tae. She understood. She would be returning to the hall to reassure the emissaries now unless he required further assistance with the aftermath.
+
+"Ministry has matters in hand. Inspector Cao requests a meeting post-judicial debate to discuss event."
+
+Of course. She would be there.
+
+"Man, that guy’s got a spear up his…"
+
+"Sixiang," Ling Qi interrupted mildly, looking at the colors radiating from her. "Thank you for today. I don't see anything wrong with these people. Do you see anything?"
+
+The colors shimmered and pulsed, the impression of Sixiang humming thoughtfully.
+
+"Guy’s head is aching something fierce, but it's not more than a bad hangover or a whack to the head, I think? You got in and out quick and stopped the spooky stuff from happening. You did good."
+
+"Then I need to get back and try to find a way to explain this all to Jaromila without setting off an incident with everyone."
+
+"Haaaaaaaah. Good luck with that, partner. That's a fight I won’t be able to help much with. I think I make the icy folks jittery."
+
+Jaromila had seemed uncomfortable with Sixiang. She hadn't shown it much, but that Ling Qi had noticed it at all was telling.
+
+"You're probably right. What will you do once we split up?"
+
+"Lurk around the groundskeepers by the observatory? The Meng folks aren't too overwhelmed by me, even the low realm ones."
+
+With a nod, Ling Qi let her feet lift from the ground, and shot off, seeking the liminal shadow of the meeting hall.
+
+***
+
+The atmosphere at the meeting hall was good, Ling Qi observed as she strode back in as if nothing at all had happened. The recess had begun, and several of the scholars were still debating with those on their own sides, but while there was tension, it was not a bad one. Spirited debates, rather than violent ones.
+
+She stopped briefly by Cai Renxiang to say a few brief words and promise further explanation. She passed Cao Chun and shared pleasantries, and as she clasped her hands and bowed, she transferred the frozen thought parasite from her storage ring to his. And only as she left him to move off and speak with Meng Deming did she once again catch Jaromila's eye from across the hall. The emissary stood with Rostam, and the cheerful man's face was set in a frown. She met the older woman's gaze and tilted her chin down, looking off the left side of the hall.
+
+Jaromila nodded back.
+
+By the time she arrived by the third window from the hall's front, Dzintara had drifted over to meet them as well.
+
+"Happy days, eh, Emissary Ling Qi?" Rostam’s expression was smoothed back into a bright one. "It is a shame that you had to miss all of the riveting chitchat on the exact fiddly meanings of the little, eh… pre… prop…"
+
+"Prepositions is the word you are searching for, Emissary Rostam," Dzintara said flatly.
+
+"Aha, yes, that is the word," Rostam said sheepishly, reaching up to adjust his fluffy hat. "But yes, you missed it, and I thought I caught a bad smell when you went. Emissary Ling Qi, I hope there was not too awful an accident in the kitchens?"
+
+She met his eyes and saw past the bumbling good humor. The humor wasn't false so much as not the full picture. Like his wife, she found her new art skipping off of him, doing no more than enhancing her vision and hearing for catching tells in tone and posture.
+
+"Worry not, Emissary Rostam, I assure you the luncheon is intact. There was, however, a matter outside I had to attend to. As you will no doubt soon hear, there is a miscreant about seeking to interfere with our workers."
+
+His eyes widened, and his mustache twitched. "Oh? That is much worse. I see why you did not wish to interrupt everyone's very important debates just to deal with a prankster.  But perhaps I am not giving it credit?"
+
+"It is certainly a bit more serious. One of our men is significantly injured, although we prevented anything more serious from being done. I apologize that you were not informed beforehand, but we do not know exactly who our 'prankster' is hiding among."
+
+Dzintara interpreted correctly. "You did not trust us to not leak your plan to them."
+
+"Not with so little time and how vital it was to catch them by surprise. The person behind this is certainly a match for some of our sovereigns."
+
+Dzintara's expression twisted, looking horrified. Rostam blew out a heavy breath, and Jaromila frowned.
+
+"We needed to be as certain as possible that we would be able to catch some trace of the culprit," Ling Qi continued apologetically. "I am now prepared to tell you what we discovered and how we defended against them."
+
+Rostam eyed her. "Well, that is neighborly of you."
+
+"I can understand your hesitance, but I am glad we can share this matter now. Please wait a moment. Dzintara, would you ensure no one is listening?"
+
+"Yes." The woman raised her hand. She gestured, and the crow lurking in the shadows by the doorway looked their way. Ling Qi felt the ripple of shrouding qi fall over them, a more powerful screen than she could have managed herself by far.
+
+She inclined her head, and began to speak. "Our suspicion of the accidents began in the final weeks leading up to the summit…"
+
+Beginning with their suspicions, Ling Qi laid out what the ministry had found. They had determined the threat was spiritual and seemed to seek disruption of the summit. She spoke of the thought parasite she had found and of what had almost hatched. She spoke of the way the man in Zheng Fu's group had begun accusing White Sky workers of cursemaking and as many other details as she could muster. By the time she was done, all of the emissaries were looking somewhere between grave and furious.
+
+"You have been honest with us, so I must be honest with you. It is not… impossible that there is some element in our nation who would seek to destroy this effort. We do not keep sovereigns as you do, but there are methods to direct and use their power," Jaromila said. “However…"
+
+"That name… The taste is not right," Rostam said. "There are those who work in curses and dreams, but those are not their portents."
+
+"If there were any bearing the stench of the deep marsh, you would know them," Dzintara said stiffly.
+
+"Hah, you are not wrong!" Rostam exclaimed.
+
+"I suspect the ith still, the enemies under our feet," Ling Qi said. Her instinct was that the trapping of the Hui was cover, or at least not original, a copy-descending art. After all, this foe had layered trap upon trap. Why not one more? Bringing the duchess here in wrath would also end this summit.
+
+"The ones you asked of? Who sound akin to the maggot men of Nidavellr?" Dzintara grimaced. "I admit, I was skeptical…"
+
+"It would be appreciated if you would collect the lore on the matter," Jaromila requested. The younger woman merely grunted in affirmation. "Emissary Ling Qi, please receive my thanks for sharing this matter. We will begin looking into it immediately."
+
+"Thank you," Ling Qi said, remembering not to bow. "If it pleases you, I would ask that you coordinate major actions through me, and I will inform our ministry so that we do not impede each other."
+
+"Reasonable," Jaromila allowed. "What are your thoughts on immediate danger?"
+
+"After being chased off so thoroughly, I cannot imagine they will return immediately. Such plots are not trivial to arrange even for a sovereign," Ling Qi said, remembering the presence fleeing before Shu Yue's shadow.
+
+"A few days at least then with eyes open and plans afoot," Rostam said. "But I think our time is ending here."
+
+The recess was coming to a close.
+
+"Then we will speak more later."
+
+"Yes," Jaromila said. "Let us put this aside for now and complete the meeting. Discussions have been promising today."

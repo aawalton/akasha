@@ -1,0 +1,115 @@
+---
+id: 8a4674b2-ceb4-5e57-bb88-be720c3b3e7d
+page-type-slug: story-chapter-royal-road
+title: "112. Seeking a Cat and Finding a Mouse"
+slug: 0112-112-seeking-a-cat-and-finding-a-mouse
+partOf: god-of-trash
+position: 112
+ownLength: 2123
+unit: words
+publishedAt: 2025-06-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2387773/112-seeking-a-cat-and-finding-a-mouse"
+royalRoadId: "2387773"
+---
+
+Rhys stared. “Mouse?”
+
+The gray-brown haired girl adjusted her big round glasses and gave him a nervous smile, nodding. He looked her up and down, then realized he sensed mana from her. Instinctively, he jumped back, only to pause and squint. Mouse wasn’t wearing a uniform. Sure, neither had the woman he’d seen enter the upper area, but he was sure the Empire had nobility and everything that came with it, and doubtless an intelligentsia and upper class, which that woman probably fit into somewhere. Mouse, on the other hand, was an enemy. She would have been recruited into the lowest cadre of soldiers, but instead, she stood before him, wearing the same filthy robes she’d worn back in Purple Dawn Academy.
+
+He shook his head, trying to shake off his shock. “How’d you evade the Empire?”
+
+“Er, j-just like how I did to you just now. They, um, overlooked me. It’s like what you said, I just focused on being unseen and drawing power from that, and they never saw me. Everyone else got rounded up, but not me.” She gave him a nervous glance, then looked down. “T-this is the first time I’ve t-talked to someone since.”
+
+Rhys rubbed the back of his head. This was suspicious, insanely suspicious, but on the other hand, he himself had vouched for Mouse’s unseeable attributes, and neither had he seen her, at Tier 3, until she’d chosen to reveal herself. The ones looking for students had been no higher than Tier 3, and he could believe that some of the students had been overlooked in the rush to collect everyone, let alone the girl whose special attribute was being overlooked. Sure, they might have gone back and done a more complete second sweep, but by then, some of the students could have run, or hid, or… whatever Mouse did. He nodded at her, deciding to try her out. “How’d you end up here?”
+
+Without a word, Mouse turned and pointed. Rhys followed her finger. On the mountain looming over the town, from the direction he’d entered from, the remains of Purple Dawn Academy crumbled away. The once-proud castle was shattered, and the walls laid in ruins. Already, the town that had been around it crumbled into the forest, overcome by new growth.
+
+That answers that. He shook his head. “How have you survived so long here, all alone?”
+
+“I just stayed quiet and did nothing.” Mouse glanced down, shuffling her feet. “I felt so powerless, watching everyone else… but if I acted, they would have found me. This was the only way to save myself, hiding among the people, blending in like a nobody…”
+
+Her voice was laden with guilt. No wonder. She was the only survivor of the Academy, the sole escapee. Anyone would feel guilty from that, let alone someone as shy and introverted as Mouse. Rhys sighed deeply and ran his hair back. Trust her? No?
+
+If she’s on our side, she’s too valuable to ignore, he decided. He’d start by extending his trust just enough to test her. He wasn’t leading her back to his hideout, but he’d test things out for a little longer. If she tried to betray him or give him away, he’d kill her and forget about this, but if she helped, if she showed her commitment, then there was no reason to keep her out of the group. In fact, she could be a massive asset, with how easily she could escape detection. As long as she was actually on their side, he couldn’t let her go, but if she wasn’t, the damage she could do was equally immense. Hence why he absolutely had to test her.
+
+“Can you get me to the other side of this wall?” Rhys asked.
+
+Mouse considered. She glanced over at the gate. “I… can get through, but take someone else?”
+
+“It’s fine. Just think of me as an extension of yourself,” Rhys said confidently. He didn’t actually have that much confidence in her, but with her type, the more confidence he exuded, the better she would perform. Sure, he was deliberately pressuring her into high performance, but if he was right, she was the high-tension type-A kind of person who’d respond well to a little pressure.
+
+As for his advice… to put it bluntly, it was bullshit. That wasn’t the important part, though. The important part was to say something, anything, so that she would challenge her understanding of the situation and either take it to heart, or realize that what he was saying was bullshit, and self-criticize enough to figure out what she actually needed to do.
+
+Mouse blinked up at him. “Will that work?”
+
+“Sure!” Rhys said. Who knows? He prepared his very best smile for the guards. Usually, he could make the same mistake twice before anyone really started kicking up the effort to consider him deeply, but he had the feeling he’d really have to turn up the charm for these guards if Mouse did fail.
+
+On the other hand, this was exactly the test he needed. If she turned traitor and tried to turn him in, no harm, no foul, he killed everyone he could and hoofed it back to the hideout to find a new disguise, a new hideout, and a new city to fight from. It was risky, but the only person he risked was himself, and given that he could burst his power and immediately hide without any risk of exposing himself via mana or auras, he was the best person to test this theory. If she didn’t, it didn’t mean he was home free and he could trust her, but it was a big step in the right direction.
+
+Once more, they approached the guards. Mouse gripped Rhys’s arm. The closer they got, the tighter she gripped him, her nails digging into his flesh even through his imbued trash robes. One of the guards stared into the middle distance, his eyes completely glazed over, not paying a single lick of attention to what was before him. The other one looked at the ground, eyes flickering in a pattern, counting the floor tiles or daisies or something. As the two of them approached, the second guard glanced up.
+
+Mouse’s hands tightened. She scooted closer to Rhys, all but hiding behind him. Her heart beat wildly, and as close as she hugged to him, Rhys could feel her heart beat against his arm.
+
+The guard’s eyes locked on to them, and then unlocked. His gaze wandered away, back to the daisies.
+
+Mouse took a deep breath, gulping it down. She stood frozen, but Rhys dragged her onward. Who knew how long her skill would work, when she barely understood it and could only activate it at random anyways?
+
+They passed through the gate. Rhys felt something pass over them, but even that thing found them disinteresting, and let them move on without notifying anything, as far as he could tell. There was no pulse of mana, no change in the gate or barrier’s aura.
+
+Damn. Mouse’s skill is impressive.
+
+“You uh… you notice something?” the daisy-counting guard asked abruptly.
+
+Mouse jolted. She trembled, deeply afraid, but for all that she was even more frightened, her aura only diminished.
+
+“Huh? Nope. You seeing ghosts again?” the other guard replied.
+
+The daisy-counter wrinkled his nose. “Shut up.”
+
+They passed around the corner, and finally, Mouse gasped a relieved breath and released Rhys’s arm. “S-sorry about that. I’ve never done two people before, and I… I wasn’t sure…”
+
+“No, thank you, Mouse. That was amazing,” Rhys said honestly. Erasing her own presence was one thing, but making the two of them almost invisible to the guards? That was incredible. He glanced at her. “You’ve come a long way in the last three years.”
+
+“I, um. It might sound weird, but I thought about what you said a lot. About leaning in to what works for me, even if it doesn’t make sense to anyone else. At first, I had a lot of close calls, but, um, you were right. T-this, I think it’s… it might be, my path. And the more I, um, practice it, the better I get… not just at blending in and being overlooked, but at everything.” Mouse glanced at him, looking for confirmation of some sort.
+
+Rhys nodded, a smile on his face. He patted her shoulder. “That’s what I was talking about. I’m glad to see you’ve come so far.”
+
+The fact that she had a path, no, her path, reassured him almost as much as her successfully getting him past the guards had. Anyone who received a core from the Empress received the Empress’s path as well. If Mouse was secretly on the Empress’s side, then either the Empress had made an exception for one inoffensive, non-stand-out, wallflower of a mage who worked hard to be as unexceptional as possible… or Mouse wasn’t on the Empress’s side.
+
+Her loss. Rhys nodded at Mouse. “Do you know where the library is?”
+
+“Do I know where the library is? Do I know…” Mouse giggled and adjusted her glasses, and for a second, Rhys felt a spark of fear go through him, as someone so much less obsessed in the face of an immense obsession.
+
+Is this what it feels like when I go on about trash? he wondered.
+
+She laughed, a laugh that turned into a high-pitched wheeze, then nodded, turning ‘normal’ again. “Yeah. I know where the library is.”
+
+Mouse did, in fact, know where the library was, but if she hadn’t, Rhys was pretty sure he could have found it himself. It was immense, with a massive marble façade, and it was conveniently labeled at the top: Her Majesty the Empress’ Library. Rhys snorted at the sight. The Empress moved fast… on typical dictator bullshit, anyways. Why did dictators love seeing their names on everything so much? Bunch’a useless narcissists, Rhys thought, shaking his head, and followed Mouse into the library.
+
+There was nothing barring them from entering, no check, no barrier, nothing. The wall and barrier on the exterior seemed to be the filter, and once they were inside, they were presumed to be mages, and therefore permitted into the library. Whatever nobility the Empire had, or maybe military mages out of uniform, or whatever—whatever it was, the fusty old lady librarian barely glanced up as the two of them entered. Rhys peered around, hopeful, but there was no sign of his favorite library cat.
+
+“What are you looking for?” Mouse whispered.
+
+“Techniques to hide one’s aura. Like what you can do, but an inferior version that anyone can use. A skill, ideally, mediated through the System.” If it was a skill, then it was accessible to anyone. Anyone could learn it, with enough effort, as long as their path didn’t prohibit it… like him and fireballs.
+
+Mouse thought to herself, then nodded. She went to scurry off.
+
+“Wait. What about eldritch things?” Rhys asked.
+
+Mouse frowned. “What?”
+
+Rhys coughed. Right. Why would they know that word here? “Unknowable, immensely powerful beings outside the realm of ordinary human understanding or standard reality.”
+
+“Oh… you mean the void. It’s a myth. One theory of what lies beyond this world, beyond Ascension.”
+
+“Ascension?”
+
+Mouse nodded. She laughed a little, then leaned in. “There’s an upper limit to magehood. Tier 1, 2, 3… eventually, you reach Tier 10, and that’s it, officially, but according to the myths, that isn’t it. Once mages get too powerful, they ascend. There’s no record of anyone actually ascending. If ascents have happened, they haven’t happened in the last ten thousand years of recorded history. Some people still believe in it, but it’s mostly considered a myth. Those who believe think there’s something beyond the Immortal stage, a new world. After all, Tier 10, or Immortal, is only Immortal in name. The lifespan of an Immortal is immense, but it is not truly endless. If there is such a thing as true immortality, it lies beyond this world, beyond Ascension.”
+
+Her eyes glittered with excitement, then dulled. She glanced down and shrugged. “But they’re just myths. Fiction. Everyone told me to stop reading those old books and scrolls and focus on my studies.”
+
+If that was the case, then there was a big scary hunk of fiction floating around in the darkness outside his core. Rhys nodded. “You look for those disguise and hiding techniques. Point me toward those myths.”
+
+“Why?” Mouse asked. “I-I mean, I get wanting to hide… of course I do, I’m me—but why do you want to know about a bunch of bedtime stories?”
+
+Against his own will, Rhys broke into a grin. “Nothing better than a good piece of ‘useless’ fiction.”

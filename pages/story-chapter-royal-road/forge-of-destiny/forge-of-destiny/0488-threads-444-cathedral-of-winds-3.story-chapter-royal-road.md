@@ -1,0 +1,147 @@
+---
+id: 3e7af6d4-4d54-5ac4-94fc-79d06bb2693c
+page-type-slug: story-chapter-royal-road
+title: "Threads 444-Cathedral of Winds 3"
+slug: 0488-threads-444-cathedral-of-winds-3
+partOf: forge-of-destiny
+position: 488
+ownLength: 1982
+unit: words
+publishedAt: 2025-04-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2220625/threads-444-cathedral-of-winds-3"
+royalRoadId: "2220625"
+---
+
+They'd spoken through the morning until well after the dishes were cleared away, but eventually, the time came for them to go.
+
+Ling Qi offered to bring everyone up the cliffside, but only Suyin and Sixiang accepted. Gan Guangli had just scooped up Su Ling, whose tails bushed out adorably, and leapt to the top of the cliff.
+
+Gan Guangli really did have a mischievous side. She hoped the gesture had been worth it because Su Ling looked like she could set fires with her eyes for the rest of the trip.
+
+They arrived at the cavern which held the Cathedral of Winds as the sun was sinking toward the horizon, staining the sky red and orange. The scouts assigned to the clifftop hadn't reported any changes, and true to their word, the exterior was no different than they had left it. However, they had not sent scouts into the cavern given the danger, and so, they proceeded inside with caution.
+
+The piping sound of the wind blowing through the naturally perforated stone was much the same as before, an eerie and melancholy tune carried out through the high crevice which led inside. Then came the great chamber itself, lit from within by rose gold light distorted through the great crystal growth which took up the gallery.
+
+The clean water of the spring in the center had changed. It was now gray and polluted, thick like silt. Black fungal growths had crept up onto the shore, extending stringy veins of fleshy material across the stone. None of the predatory water spirits she had encountered last time were there beneath the water, and the surface was opaque and still.
+
+"That looks real welcomin'," Su Ling drawled.
+
+Sixiang grimaced as they peered at the water. "For what it's worth, I think that's a recent change."
+
+"I don't feel echoes of dying or strife, so the natural spirits of the tunnels haven't been destroyed," Ling Qi analyzed.
+
+"The crystal remains pristine!" Gan Guangli declared.
+
+Ling Qi's ears caught nothing from the crystal though. The spirit of the cavern was still alive, but it was unresponsive, closed off, like a tortoise drawn fully into its shell. She could tell there would be no response if she spoke to it, and if she forced it, the spirit would interpret it as an attack.
+
+Li Suyin was already crouching, hands spread wide as the air distorted between them. Ling Qi had never seen an object take so long to withdraw from storage.
+
+The item that emerged looked like a rain collector. A wide silver funnel covered in countless etched characters and filled with some black gemstone dust was set in the mouth of a clear glass container the size of a small barrel. Suyin examined it with a critical eye before nodding and producing a stack of paper talismans in her palm.
+
+"The Four Trigrams Lunar Absorption array is undamaged. Sir Gan, please find a flat place to install it outside. When you place the container, please add four of the anchoring talismans at the prime radials with the talisman edge exactly fifteen centimeters from the funnel's outer edge. If placed properly, they will then activate themselves."
+
+"Understood, Miss Li!" Gan Guangli slammed his closed fist against his chest. "Any further instruction?"
+
+Li Suyin considered. "It should be placed on bare stone if possible, but if not available, please clear away any plant matter from the installation site. It would be a small inefficiency, but we should be diligent."
+
+Su Ling sighed. "Yeah, guess I go out with him. Prolly easier to cut grass than rip it up. You two gonna be good in here?”
+
+"I'll manage, certainly for long enough to call you back if something comes up," Ling Qi replied, amused. If there were something she couldn’t hold off for that long, Gan Guangli and Su Ling weren't going to be much help against it.
+
+"Think you want me to load up to the old digs, Qi?" Sixiang asked.
+
+"Will your body be safe up here?"
+
+"Haha, I can watch over it, Miss Ling," Gan Guangli proposed, the qi-gathering device in his arms.
+
+Ling Qi nodded, and Sixiang smiled brightly. Their form shimmered, silhouette blurring as the light bent and air wavered, and then, they vanished. Beneath the appearance of a body was a life-sized humanoid doll made from polished wood and porcelain, articulated with gears of polished silver in the seams and joints. The face was a panel of soft wood very loosely shaped like a human face, set with eyes of polished crystal glass.
+
+As she felt Sixiang vacate from it, the doll sagged like a puppet with strings cut, and the lingering qi in its limbs guided it down into a slumped over, kneeling position. Gan Guangli scooped it up.
+
+"Tell him to be careful! I don't want my paint job scratched!" Sixiang fretted. Their voice emanated comfortably in her head, as if they had never left.
+
+"You can tell him yourself," Ling Qi retorted. "But take care, Gan Guangli. I wouldn't want Sixiang to need a night under the polish."
+
+Bathtime. Fun!
+
+That was because Qiyi was a good girl. Even if she didn't strictly need washing.
+
+"Just got back and already getting bullied. This is a hostile working environment!"
+
+Renxiang actually had a form for that. She could get Sixiang one later.
+
+"And now, paperwork! Abuse of muse!"
+
+She had missed Sixiang. Truly.
+
+"... missed you, too, Qi."
+
+As Gan Guangli and Su Ling left the cavern, Ling Qi strolled along the perimeter of the cavern while Suyin prepared, chalking lines and characters along the stone and arranging objects from incense burners to tall flat wooden plinths set in stone bases, formations painted down both sides, just so. With each act, Ling Qi could feel the ambience of the qi changing. The air was becoming cleaner. Even the small particulates were being swept away into the purifying formations.
+
+Ling Qi kept a close eye on the fungal scum that were graying and withering, and the silty consistency of the water began to break up, at least at the surface. Li Suyin moved through it all in a storm of glinting wire and thread while holding a tablet of jade. Claw-tipped fingers danced over the smooth surface as incomprehensible markings flashed through the deep green stone.
+
+"Okay." Li Suyin looked up some time later, a complex grid of a formation formed by her efforts on the stone floor. "That will do for the surface. The others will be able to contact us as well when they finish setting up the device outside."
+
+"Does that mean we're ready to go down?" Ling Qi asked, turning from her examination of the great crystal formation. "Aren't you bringing any of your constructs?"
+
+"I am, but I have them stored. I'll deploy them at need; it's more efficient that way. Are you ready to begin?"
+
+Ling Qi nodded, stepping up to the side of the pool, and Suyin passed her a cloth facemask. Hers was dark blue whereas Li Suyin's was a lighter lilac. Hooking the strings around her ears, she felt it snap into place, sealing down vacuum tight against her cheeks and across the bridge of her nose.
+
+Qiyi extended ribbons from her gown, brushing suspiciously over the foreign cloth.
+
+It was only temporary, she assured her.
+
+Qiyi could do better.
+
+Qiyi could experiment with that later.
+
+Sixiang chuckled. "Territorial little thing, isn’t she?"
+
+Ling Qi acknowledged the statement and toed cautiously at the slick edge of the pool. "Me first, or together?"
+
+"Together."
+
+No more needed to be said. The two of them stepped out over the surface. Li Suyin sank like a stone, dragged along by grasping wires propelling her downward by pulling along the walls. Ling Qi dropped more like a billowing leaf, tugging at the flows of air to drive herself downward despite the buoyancy of her supernaturally light body.
+
+Physical vision clouded, the water nearly viscous in consistency as they descended and descended and then descended some more. At her side, a bright light appeared, an orb of polished white jade floating over Li Suyin's palm. Where it shone, the silt was seared away, leaving clear water.
+
+Soon, their feet touched down on muddy stone. At the bottom of the pool, Ling Qi beheld the tunnels beneath the Cathedral for the first time.
+
+Fleshy fronds squirmed in the currents, and dark, slimy fungal flesh encased the stone. In the dark, pale yellow eyes blinked and pulsed, scattering like schools of fish as her gaze turned to the crevices they lurked in. All around her, the tunnels pulsed as if they were breathing.
+
+The chamber at the bottom of the pool was only a couple of meters across, a rounded bowl of a floor covered with silt and mud, from which sprouted the grasping, fleshy fronds. One reached for her, and she didn't even bother to glance its way before it was sliced to pieces.
+
+The voices were distorted. They are not thinking things begin with. The eyes that peered in the dark and the fronds were reactive, impulses tied to primitive instinct.
+
+Her hair swirled around her head like a halo, as she peered through the dark waters. One… Two… Three… Four… The number of twisting cracks and crevices branching off were numerous, though only a few were large enough for a solid human to pass through.
+
+"We'll be looking for a chamber defined by green crystals,” Ling Qi instructed. “From there, we will want the east-facing tunnel.”
+
+She didn't bother moving her lips; no bubbles escaped her mask. Ling Qi simply impressed the sound onto the water with a flex of will.
+
+"Oh, yes, you did say your mentor had given you scouting advice." Li Suyin's responding voice had a faint, distorted warble to it, and a few silvery bubbles emerged through her mask. Unlike Ling Qi, she did seem to be using clean air generated by the seals inside of her mask whereas Ling Qi had chosen to just convert her qi to breathable air inside of her lungs.
+
+"I can't say I'm sad to avoid poking through a few dozen muddy, yuck-filled empty tunnels, but it does take away from the exploratory feeling," Sixiang noted.
+
+"We're hardly outer sect disciples with nothing to do but poke around mysterious caves and vales," Li Suyin said lightly. A wire curled and shot out through the water, punching through the hardened hornlike shell of one of the impurity growths clinging to the walls and dragging her further into the chamber. "Besides, it’s not as if we haven't been left the bulk of the work in the sealing."
+
+The wire spun back, trailing dark purple ichor.
+
+"Hm, hybridized. Corrupted, as others might say. The underworld ecosystem has not fully displaced the surface one yet."
+
+"That is some manner of mutated shellfish, then?" Ling Qi wondered, drifting over.
+
+"Some breed of freshwater mussel," Li Suyin corrected. "Now that I’ve seen the dimensions down here, let me bring out a guardian."
+
+Suyin’s clawed glove flicked, something clicked and whirred, and a disc the size of a weiqi chip shot out into the murky water. Ling Qi sent herself drifting backward, giving more room as she felt the qi swell within it.
+
+Red.
+
+The faint whump of water displacing cleared to reveal a figure a few centimeters taller than her. At first, it seemed like a man, heroically proportioned, clad in spiny, shell-like plate armor.
+
+Only those broad, fierce black domed crescents on the helm with glinting multifaceted eyes, the plumes, feathered antennae. Even as she watched, the stern faceplate split open jaggedly into split and sharp mandibles, which clicked and clacked, tasting the silty water.
+
+The crack of a chitin fist against its breastplate shell was muffled in the water as it bent the knee to Li Suyin.
+
+Mother-creator-great-lady, humbled-protector-chosen-from-brothers presents inspection.

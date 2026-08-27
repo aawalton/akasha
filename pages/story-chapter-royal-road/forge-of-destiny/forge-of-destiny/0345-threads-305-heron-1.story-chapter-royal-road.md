@@ -1,0 +1,147 @@
+---
+id: e1c1a67c-8497-5287-89dc-2771e738aa24
+page-type-slug: story-chapter-royal-road
+title: "Threads 305-Heron 1"
+slug: 0345-threads-305-heron-1
+partOf: forge-of-destiny
+position: 345
+ownLength: 1515
+unit: words
+publishedAt: 2023-05-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1210042/threads-305-heron-1"
+royalRoadId: "1210042"
+---
+
+Cai Renxiang held up a hand. “I do not wish to know the details of your personal tribulation. I would not ask that of you or any other. Simply tell me, are you fit for duty? And will there be effects on our project?”
+
+Ling Qi looked around the little work room Cai Renxiang had set up in the rapidly completing embassy. Though she could sense the reverberations of construction happening, such were the formations built into the room that there was no noise. It was as spartan as she had expected. The only furnishings were her lady’s desk, the chair behind it and in front of it, and a single shelf full of dense, heavy texts.
+
+“I won’t complain, but is that really alright?”
+
+“Intruding on such private matters is the province of those who would seek to shape their subordinates’ cultivation. I will not be such a ruler. Now, my questions.”
+
+“I am fit for duty. I’m not too sure if I could fight well right now, but that’s irrelevant, isn’t it?”
+
+“If combat occurs, then we are already ruined,” Cai Renxiang said frankly. “And I do not expect threats to our lives.”
+
+Yes, considering the presence of the general and other high realm cultivators, it was irrelevant.
+
+“As for effects… I put an ear out, and some people complained of nightmares, but I think I managed not to make anything outside of my trial explode this time.”
+
+“Wonderful,” Renxiang deadpanned.
+
+Ling Qi squinted at her. Was that a joke?
+
+Renxiang met her eyes and very deliberately took a controlled sip of her tea.
+
+“I may have drawn on a source of power which could be disliked by some of our more conservative elements though. If it is recognized,” Ling Qi continued. “I’m… not certain how likely that is.”
+
+Her liege finished her drink and set her cup down. “I see. We will have to keep that in mind. Why exactly may it be disliked?”
+
+“I have been receiving some teachings from an imprisoned spirit which was once a Weilu heretic.”
+
+Cai Renxiang stared at her hard. Her hands were laid flat on her desk, but Ling Qi liked to think she was facepalming in spirit.
+
+“Very well,” Cai Renxiang said finally. “I shall make a note that the Meng representative may be discomfited by you. As might the Luo. Is there anything else?”
+
+Ling Qi frowned, the small humor she had found in the moment fading. She didn’t think it would greatly affect things. She was, given the fragments he remembered, that the Thief’s existence was not something much remembered. If records of him existed at all. She wondered if she should obliquely inquire with Meng Dan. There was something else though.
+
+“You haven’t commented about what Shu Yue said.”
+
+This time, Renxiang pursed her lips. “Information about my mother’s rise may have long term tactical use, but this is not the time for that. I thank you for your efforts at information gathering. Even if it is provided to us, we must not refuse resources.”
+
+“You know that’s not what I mean,” Ling Qi chided.
+
+Cai Renxiang arched an eyebrow. “You have your wisdom, Ling Qi, on occasion, but there was nothing said which changes anything. What my mother was may be of intellectual and strategic interest, but who my mother is and what she has done, good and bad, has not changed. Nor is the young girl who might have clung to such false comforts present now.”
+
+Ling Qi nodded, accepting the rebuke. In the end, that was Renxiang’s way, and it wasn’t as if she found it wrong.
+
+“Now,” Renxiang said, pivoting smoothly to the main subject. “This first meeting of the security and infrastructure forces.”
+
+“Wang Lian agreed to come easily. I can only thank you for convincing the General.”
+
+“She is not unreasonable, if you understand the way of her mind. At least not to the degree which you imply.”
+
+It was hard to say why the general unnerved her so. She knew she wasn’t being entirely fair.
+
+“She is still the likely sticking point of the negotiations.”
+
+“She is. However, the task is not impossible, or this would not be happening at all. You must understand that her first and only priority is the safety and security of the Emerald Seas. The Heron General Xia Ren would render unto dust anything which she regards as a threat to that.”
+
+“To her definition of that,” Ling Qi corrected.
+
+“Yes,” Renxiang agreed, steepling her fingers. “She is a sovereign cultivator, and one not near so well inclined to interaction with lower realms as the elders of our sect, who are, in some part at least, teachers all.”
+
+Ling Qi gave a small nod. She understood that. If one really looked at the sovereign cultivators of the Empire, General Xia Ren’s intensity, and the innate terror of Duchess Cai’s presence were more common than one like the elders or Prime Minister Diao Linqin.
+
+“And yet, we are going to have to convince her of this endeavor, if we want to begin talks with our guests not already suspicious of our intentions.”
+
+“Suspicion will remain regardless.”
+
+“Please do not be pedantic, Lady Renxiang.”
+
+Her liege arched an eyebrow at her.
+
+“A tall ask, I understand.”
+
+“Be more exact in your speech. It is vital for understanding.”
+
+“Who is the diplomat here?” Ling Qi wondered.
+
+“Unclear.”
+
+She glared. Renxiang looked back calmly, then glanced down, tapping her fingers on the report laid before her.
+
+“I believe that is sufficient jesting. Have you prepared plans?”
+
+Ling Qi sighed and sat down.”I have some ideas, but I really do need to gain a better understanding of the general.”
+
+“Her history is public.”
+
+“Isn’t that misleading,” Ling Qi grumbled.
+
+Xia Ren was once a scion of the old hill tribes, but there was none of that left. Even the official documents she had access to didn’t refer to them by her old name. She’d overthrown her tribe's elders early in Shenhua’s rebellion, and then, she marched the tribe to war alongside the duchess. Prior to that, she’d been a student of the Rushing Cloud Sect. After her time as a disciple, she had brought her clan up to modern imperial standard, turning their focus to military discipline and might and abolishing all non-standard traditions.
+
+That sentence was doing a whole lot of nothing while also lifting heavily.
+
+Cai Renxiang acknowledged her with a nod. “Public histories are light on detail. I am somewhat more familiar. Direct students of hers were my tutors in personal dueling and blade arts.”
+
+“And what did that tell you?”
+
+“Her style is like my mother’s in many ways. It relies on the advance and the winning of the clash. It demands a strong center. It is a belligerent, demanding style which demands acute visualization and adherence to forms over improvisation.”
+
+Ling Qi crossed her arms as she thought. “So I need to show her a face which states that my plans are clear and that my steps are considered. I need to show her that I have already seen my victory?”
+
+“And that your victory is for us, and not them. Frankly, it will be a waste of your time to exposit on the mutual benefit of this diplomacy. Present how this advances the interest of the Emerald Seas.”
+
+“Do you think bringing Xia Lin into this to vouch would be helpful?” Ling Qi pondered.
+
+“Unclear. The general does not value family connections. However, Xia Lin is one of her trusted soldiers.”
+
+Ling Qi considered this.
+
+“I think consulting Xia Lin is the best course on this. I’d already intended her to be at the meeting as your advisor on security.”
+
+“Understandable. Be certain to not hint or imply that her heritage has any contribution to your decision though,” Cai Renxiang warned.
+
+“I understand. Military rank over name, professional over personal. This is the simplest part of the job.”
+
+“I know. I also know how much value you place over the opposite,” Cai Renxiang said dryly. “Very well. Xia Lin will be here tomorrow. I will request a brief meeting with the general. I will tell her that you wish to coordinate visions, so that the Emerald Seas may be united and show no divisions in negotiations.”
+
+Ling Qi grimaced at the wording. It wasn’t wrong. It still made her seared meridian throb a little. Some leftover sparks of the Thief’s qi seemed dissatisfied with it.
+
+“Then, if you’ll excuse me, I will pen a message for Xia Lin before I return to meditation and continue settling my qi.”
+
+“Granted.” Cai Renxiang tapped her finger on the desk, and with a faint pop and a flash, a small pill case appeared from her storage ring. “Take these. The medicines proved useful and calming turbulent qi flows while I recovered from my conversation with Liming. Recover quickly.”
+
+Ling Qi dipped her head and reached to take them. “Thank you very much, Lady Ren.”
+
+Renxiang frowned at her. “No.”
+
+Ling Qi grinned. “Maybe?”
+
+“No.”
+
+“Later,” Ling Qi said confidently.
+
+Renxiang sighed.

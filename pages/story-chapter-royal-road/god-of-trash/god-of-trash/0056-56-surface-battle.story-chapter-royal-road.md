@@ -1,0 +1,109 @@
+---
+id: 96e9dfa3-828e-5115-88ed-c4dbedfce3b6
+page-type-slug: story-chapter-royal-road
+title: "56. Surface Battle"
+slug: 0056-56-surface-battle
+partOf: god-of-trash
+position: 56
+ownLength: 2299
+unit: words
+publishedAt: 2025-04-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2215496/56-surface-battle"
+royalRoadId: "2215496"
+---
+
+Rhys bent, extending one leg, then the other, stretching out his limbs. He bounced in place, shaking himself out. When he was good and warmed up, he knelt, then leaped off the ground. From left wall to right, bouncing across the relatively narrow well, Rhys climbed up one jump at a time back to the surface.
+
+The sounds of battle echoed down the well, growing louder as he climbed. He kicked off the wall horizontally and spent one jump just to be sure he’d pop out on the far side from battle, then kicked off the wall and leaped up onto the surface.
+
+Ernesto and Aquari dueled nearby. They were both holding back, but the forest had been flattened for hundreds of feet in all directions, and in some places, deep gashes tore far into the woods, cutting apart the trees and earth alike, even splitting boulders. At his new Tier 2, Rhys could tell that the battle was utterly beyond him. Now that he was a higher Tier, he was more able to sense mana, and from the emanations he sensed from Aquari and Ernesto, they were each at least two tiers above him; in other words, Tier 4 or higher.
+
+Aquari glanced at him, then turned to Ernesto. “Give it up. Your ‘foul well’ is empty, and nothing remains in its depths. It no longer contains whatever you sought within.”
+
+Ernesto paused. He pointed his sword at Aquari. “Then I’ll slaughter the boy and take it from him.”
+
+“In front of the entire Alliance?” Aquari asked.
+
+“Huh?” Rhys said.
+
+She nodded at him. “I apologize for arriving late. I was busy investigating a nearby armada. It turned out to be from the Alliance, and called on Infinite Constellation School by a certain nameless professorial individual.” She cast a dead stare at Ernesto.
+
+“Damn. You work fast,” Rhys commented to Ernesto. He’d mentioned pivoting to blaming Infinite Constellation School for the crime of happening to have a foul well on its property as if he’d only done so today, but the Alliance was already on its way?
+
+“He fired off an emergency beacon shortly before you arrived. I was there when the Alliance received the signal. I asked them to wait, so that I could handle the internal affairs of my school myself. If I hadn’t…” she cast a meaningful look at Rhys.
+
+I wouldn’t have had the time to peacefully absorb all that trash, Rhys realized. He nodded gratefully to Aquari. If not for her intervention, he would have simply been interrupted by the Alliance and likely taken in for questioning at best, or outright killed at worst.
+
+“Still, to have an Alliance armada waiting for your signal? Purple Dawn Academy has expanded its influence more than I was aware,” Aquari commented.
+
+Ernesto harrumphed. “We trained the Alliance’s leader. We nurtured the Sword Saint in his earliest years. We’re the largest, most powerful academy in the Alliance, who funds the majority of the Alliance and contributes the most soldiers to its army. Isn’t it obvious?”
+
+Rhys snorted under his breath. It was just like in his old world. Whoever had the most money to fund the biggest military was the effective leader of the region. It was a pretty simple equation. Money was power, and power was money. A self-feeding loop, empowered by the loyalty of Purple Dawn Academy’s graduates. The most promising mages naturally wanted to study at the school with the most profound experts; the most powerful school had the most money to recruit the most profound experts; the promising students graduated as fresh profound experts, loyal to Purple Dawn, and so the loop continued. Those students who didn’t return to Purple Dawn Academy became soldiers in the Alliance. As the most promising students taught by the best experts, they obviously excelled and quickly climbed the ranks in the Alliance, possessing the most martial power and the most command authority in the Alliance alike. Thus, a structure that was ruled by the consensus of many different schools in name, became nothing more than a vehicle for Purple Dawn Academy to exert its authority.
+
+From the name of it, it might sound like the Alliance was a group of peers working toward a common goal, but under the surface? If Rhys was right, and he suspected he was, it meant that the Alliance was nothing more than the way for the Purple Dawn Academy to keep all the other, smaller schools in line.
+
+Honestly, the real miracle here is that they stopped on Aquari’s request, he realized. Then again, Ernesto was meddling around with curse power. When he messed with something ‘illegal’ as obviously as Ernesto was doing, word would get around. It wouldn’t surprise him if the commander of this armada knew Ernesto, and had a low opinion of him, besides. The Purple Dawn’s power meant that the Alliance was loyal to it, but that loyalty didn’t necessarily extend to every single one of Purple Dawn’s staff members, especially ones who had a bad reputation like Ernesto almost certainly did.
+
+Even if Purple Dawn Academy was willing to look the other way and let Ernesto cause trouble in Infinite Constellation School, hell, even if Purple Dawn had deliberately sent him here to take over Infinite Constellation, that was Purple Dawn, not the Alliance. The personality and goals of the armada leader came into play, and who knew? Maybe this particular armada was run by someone not loyal to Purple Dawn, or a student who had more of a sense of personal righteousness than loyalty to Purple Dawn.
+
+At the end of the day, it’s all speculation. He was pretty confident in his take on Purple Dawn and its dominance over the Alliance, but the specifics of how the armada fit in, he couldn’t be sure of until he met the armada’s commander. All he knew right now was that the armada commander had taken Aquari’s side, whether out of distaste for Ernesto, a personal sense of righteousness, or even a lack of loyalty to Purple Dawn, he couldn’t say for sure.
+
+“So, are you ready to hand over what’s rightfully mine? What that boy stole?” Ernesto asked.
+
+“Rightfully yours,” Rhys and Aquari both scoffed, almost at the same moment. Aquari narrowed her eyes at him, and Rhys smiled and lowered his head, deferring to her. True, it was on her mountain… but it was trash. It was his, of course it was.
+
+Ernesto strode to the side as he talked, trying to get an angle on Rhys, but Aquari rotated with him, keeping her blade between him and Rhys. Rhys stood close behind Aquari, protected, but unafraid. He gazed directly at Ernesto. The man was stronger than him, but he refused to be cowed by him. Ernesto hadn’t earned his fear. He was a pawn in someone’s game, not someone to be feared in his own right.
+
+“You’ll defend the boy, even so?” Ernesto asked.
+
+Aquari narrowed her eyes. “No matter what, he’s still a member of Infinite Constellation School.”
+
+To his surprise, a spark of warmth warmed Rhys’ heart. He smiled for a second, then turned serious. Facing Ernesto, he nodded, and asked something that he’d been wondering about for a long time—or rather, he’d been wondering who’d done it, but now, he had a much better guess than he ever had before. “Capturing Straw was the will of Purple Dawn?”
+
+“Of course. The Alliance was happy to leave such a peaceable and mysterious Remnant alone, on the principle that capturing him would be more dangerous than leaving him alone, but he would be invaluable for my research. I’m the one who requested he be captured.”
+
+“So Straw’s in Purple Dawn Academy,” Rhys commented to himself. He hadn’t expected to get his probe for information directly answered, but he wasn’t mad about it. In fact, he was quite happy.
+
+Ernesto looked down on him. “That’s right. You’re the Strawman’s disciple. Do you long to free your erstwhile master?”
+
+Rhys shrugged. “Eh. I’m a trashy guy, you know? No sense of loyalty.”
+
+He wasn’t going to tell Ernesto the truth: that he was absolutely committed to freeing Straw. Straw had been his first teacher in the ways of magecraft, and he’d taught Rhys the essentials he still relied on to survive. He owed the man more than he owed any teacher he’d had since. But Ernesto was the enemy, so it was better to play it off like he didn’t care.
+
+Once, he might have gotten worked up at the idea that Straw was languishing somewhere. Maybe even fooled into taking urgent action. It still bothered him, yes, but he’d seen enough of the world to know that nothing but power meant anything. If he didn’t have the power to save Straw and keep him from Purple Dawn, then he would accomplish nothing but become the enemy of the world. Instead, he had to bear the reality that Straw was imprisoned, and work steadily toward growing powerful enough to free him and keep him free.
+
+Plus, he wasn’t alone. He was willing to bet that Bast also wanted Straw free, and he couldn’t imagine that his friend was any weaker than him. Together, they could free Straw. It would be a long, laborious process, but they’d make it work in the end. He was sure of it.
+
+“In any case, you’ve lost, Ernesto. The Alliance is on its way, and they will find nothing. No curse, no foul well. Give up. Stop this pointless battle.” Aquari pointed her sword at him as she spoke, and the sky moved with it, as if her sword were twisted up in the fabric of the night itself.
+
+Ernesto put his hands up. “Now you point your blade at an innocent member of the faculty? What a pathetic school this is.”
+
+Aquari harrumphed but said nothing. She turned to Rhys and quickly scanned his body. Her brows furrowed. Curse power? she mouthed.
+
+Rhys startled. He blinked at her, then glanced up. Oh, right. There was an armada on the way, of people who probably didn’t like curse power. Now wasn’t the time to keep some lying around. Better that he wasn’t able to use the curses for a short time, than that he got detected as a user of curse power by some kind of high-powered Alliance loyal to an enemy school. He quickly burned it the old-fashioned way, and reinforced his mana with the curse power’s strength.
+
+A second later, he furrowed his brows. She’d sensed the curse power, but not the curses themselves? He sent his vision inward, inspecting his core. The curses were embedded in balls of impurity. When he wasn’t within his own core, they felt like nothing more than impurity, rather than curses.
+
+Interesting. In other words, as long as he didn’t have curse power in his core, people up to Tier 4, or maybe higher, couldn’t sense his curses. They weren’t infecting his core, after all, the way the curse had on Walter’s body. Was that the difference? Maybe that was also why he felt no ill effects, despite carrying curses in his core… not that he knew what ill effects curses might have.
+
+I really need to spend some time with Az.
+
+Overhead, ships soared through the night, rapidly closing in on the school. Aquari kept her blade leveled at Ernesto as they flew closer and closer. The ships halted in the sky over the school. The largest one lowered itself down, down, down. It was a triple-decker ship, easily five times as large as the ship Ernesto had flown in on. Three layers of cannons bristled from its decks, shining black amongst the perfect white-painted wood. A full squad of mages stood on its decks, not a one of them below Tier 3.  All the mages wore pure white military uniforms with details in gold and red.
+
+In the center of the deck, a broad-shouldered man wore the most ornate uniform of them all, laden with gold braid and shiny gold buttons, a red sash wrapped around his chest. An enormous gleaming golden poleax was strapped to his back, almost comically large, the head of the axe wider than even his broad shoulders, its pole so long he had to wear it at a diagonal. Why doesn’t he just keep it in a spatial ring? Rhys wondered, frowning a bit.
+
+The man’s eyes alighted on the group of three standing in the woods, and he hopped down from the ship. He slammed into the earth and rattled the very ground with his landing. The trees leaped, and a cloud of dust flew up, separating the three of them from the men.
+
+“Hyah!”
+
+A sharp clap sounded out, and a hurricane wind blew the dust away. Rhys stumbled, almost falling, and Aquari extended her hand to rest a fingertip on his arm. Power flowed from her to him, and suddenly, it was easy to stand despite the wind.
+
+The wind dissipated, revealing the uniformed man. He hopped out of the hole his landing had dug and nodded at the assembled group. “Aquari. Ernesto.”
+
+He didn’t acknowledge Rhys, which was fine by Rhys. He was nothing but a trash student… and besides, in this situation? He really didn’t want to be acknowledged. Aquari hadn’t sensed his curses, but she’d only done a cursory examination, and from what he sensed, this man was stronger than her. If Aquari was mid-Tier 4, then this man was at the peak of Tier 4. If he scanned Rhys, Rhys had no confidence his curses would remain hidden.
+
+“Griffin,” Aquari greeted him in return.
+
+Ernesto’s lip lifted. “Of all the commanders…”
+
+Griffin smiled wide and clapped his hands. “So, what’s going on here? Does anyone want to explain?”

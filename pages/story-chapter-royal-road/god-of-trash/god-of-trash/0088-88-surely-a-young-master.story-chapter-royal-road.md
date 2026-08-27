@@ -1,0 +1,93 @@
+---
+id: 9663524e-cafc-51f8-b471-02c903b79720
+page-type-slug: story-chapter-royal-road
+title: "88. Surely a Young Master"
+slug: 0088-88-surely-a-young-master
+partOf: god-of-trash
+position: 88
+ownLength: 2118
+unit: words
+publishedAt: 2025-05-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2310144/88-surely-a-young-master"
+royalRoadId: "2310144"
+---
+
+The boy spluttered again, shocked. “S-such blatant escalation! You shameless extortionist!”
+
+“Fifteen thousand gold, and I promise, I won’t touch a single poison,” Rhys replied. That much would actually make a significant increase in the gold he’d made from the potato chips; at that level, it might actually be worth it. Not that he’d planned to use poisons against this pathetic young master, but he wasn’t going to put away his ace in the hole without receiving something in return.
+
+“What an absurd suggestion! I would never,” the boy insisted. He leaned in. “Are you serious?”
+
+“Do you have sixteen thousand gold?” Rhys replied.
+
+The boy startled. “You—”
+
+“Hurry up. The price is only going to go up. Seventeen thousand…”
+
+Baring his teeth, the boy hesitated, then drew his sword. “You leave me no choice!”
+
+“Aw, too bad.” Rhys shook his head in disappointment. “I really would’ve put down my poisons for the low, low price of twenty thousand gold—”
+
+“You will mock me no longer! I am more than my father’s money!” the boy roared, closing in on Rhys.
+
+“I’m really not mocking you, I just want a lot of money,” Rhys replied, drawing his broken sword.
+
+The boy scoffed. He swung at Rhys with a telegraphed overhand swing, a smug expression on his face. “You think you threaten me, Florian, with a broken sword? I’ll have you know that—”
+
+“Gods, you talk too much,” Rhys muttered. He swung upwards, activating Trash Intent at the last instant. The sword leaped to life as Rhys parried Florian’s strike, then vanished again in the next moment. He raised his brows. It was a heavy blow, but not something he couldn’t handle. Compared to Bast or Ev, it was downright light.
+
+Florian reeled back. He’d put all his strength and weight into the blow, but this Rhys character had countered it easily, with one hand! And somehow with a broken sword, to boot. Florian’s brows furrowed. He looked at the broken sword, then at his. It shouldn’t have touched. The broken sword was too short to have hit his blade, so how had Rhys countered his strike?
+
+Or at least, that’s what I’d guess he was thinking, based on his facial expressions. Rhys lashed out, striking at Florian with the broken sword. Florian flinched back. The broken blade whiffed by his chest without striking. Rhys grinned. He hadn’t activated Trash Intent, on purpose. He could easily beat Florian, but why not play with his food a little bit? The last battle had been so stressful. He could use a little stress relief. And, coincidentally, if he just happened to bully the rich kid into bribing him to stop, well… he was never one to turn down free money.
+
+Sure, it was trashy. It was outright scum behavior, in fact. But Florian was the kind of pompous rich kid that desperately needed to be taught a lesson, and Rhys was the kind of guy who had lots and lots of lessons to give. He liked to think of it as doing the world a favor, by bullying the rich kid a little bit. If he didn’t, no one would, and then he’d end up as the kind of douchey rich-ass scumbag that Rhys hated more than anything. Yes, this was an intervention! An intervention for Florian’s sake, yes, a good-hearted effort on Rhys’s part to give the child a gentle lesson, but also an intervention for the sake of the entire world. Who knew what kind of bullshit the kid would get up to with his daddy’s money in the future if Rhys didn’t put a stop to his rich kid behavior now?
+
+Besides, if Rhys’s guess was right, Florian should be stronger than Sable, if he’d made it to this part of the tournament, but he wasn’t. He was much, much, much weaker than Sable. He’d been willing to buy Rhys’s filth potion from him; Rhys was willing to bet Florian had bought a little more than that, to get here.
+
+Florian sneered. “Too poor to afford a functional blade? You can’t fight with that broken sword!”
+
+“You sure about that?” Rhys darted in, jabbing his sword at Florian’s chest. Florian hopped back and blocked. Their swords clashed.
+
+Florian drew a brilliant blue gem out of his pocket and lifted it high. “Come forth, waves of the depths! Wash this peasant back to the slums where he belongs!”
+
+A cool wind blew. Water splashed out of the gem, hurtling toward Rhys.
+
+Rhys dashed to the side seconds before a tidal wave burst from the gem and slammed into the wall of the square. It rebounded and rushed at him from behind, spilling by his legs. Rhys stumbled.
+
+Florian turned around and lifted another gem, this one pure white. “Freeze, crystal ice! Freeze like the hobos in winter’s grasp!”
+
+White crystals spilled out of the gem. They brushed the water and instantly froze it solid. Rhys jumped, pulling his legs up out of the water milliseconds before it froze beneath him. He expected to immediately drop to his knees, but his hop took him high enough that he had plenty of time to extend his legs and land on his feet.
+
+Huh. He’s not completely incompetent. He was only using items, but if an item could kill, who was to say it was right or wrong to use it in battle? It wasn’t like someone could complain that their opponent had brought a sword when they had bare hands; that was just the nature of battle. Money was an advantage, just like skill, practice, and hard work were advantages. He might complain, but hell, being born rich was luck, just like being born talented. Besides, he came from a world where all battle was determined by purchased items, so the idea of invalidating Florian’s power just because it came from money made very little sense to him. If he could go out and buy a sniper rifle, and he used it against someone with a handgun, no one would complain that he had more money, they’d just mock the handgun user for being stupid enough to charge the sniper.
+
+No, he respected Florian’s right to buy his strength. What he didn’t respect, was Florian’s rich-kid attitude. He summoned a piece of pipe to his hand and grinned. It was time to teach this rich kid just how much trash could do.
+
+Florian flicked his hand, trading the white gem for a shard of metal. “Pierce, needles, like the—”
+
+The needles rained down. Before Florian could finish his doubtlessly insensitive statement, Rhys braced himself in the broken ice and pointed his steel pole at Florian. Florian’s eyes narrowed, and he braced himself in response, having seen the pole used against Sable.
+
+Rhys laughed. “You think you’re so much better, just because you have a little money. But anyone can kill you, you know that? Anyone.”
+
+He activated Trash Intent, putting as much speed and power into the activation as he could. It burst forth and smashed into Florian’s shoulder. Blue light flashed, then shattered as Rhys pierced through some kind of shield he hadn’t even known existed, and a blue stone hanging around Florian’s neck shattered. He’d meant for the pipe to cut into his body like it had with his skirmishes back in Infinite Constellation School, but Florian’s shield slowed it. Instead, it pushed Florian back. He staggered with the hit, tripping toward the edge, then gripped the white stone and slid over the remaining ice sideways, rather than backwards. In his other hand, he held the needle, and pointed his hand at Rhys. A second flurry of needles crowded the air, flying toward Rhys. He dropped, swapping his pipe for a cauldron, and hid behind it. The needles pinged off the Trash Intent, hard enough that Rhys felt every hit through his mana. He tensed, barely resisting their hits. He had no time to fight back, or worry about his next move; every piece of his focus and mana had to be put into the cauldron, or else it would disintegrate against the needles.
+
+It was his first time using Trash Intent against a barrage attack like this with serious mana behind it. Sure, he’d used it before, but usually against martial artists, where they’d hit his item with one serious blow, maybe even crush the Trash Intent, but that was it. He had to worry about the backlash from a broken Intent more than the sustained mana drain of keeping it active under an attack. But now, he had to hold Intent while hundreds of needles slammed into it. It was a totally different mana drain and level of effort compared to the single big hit he usually had to deal with against the likes of Ev or Cynog. He wasn’t used to it, and as a result, had no space to do anything but defend.
+
+While he defended, Florian pulled a fresh shield necklace from his storage ring and slid it over his head. He clicked his tongue at Rhys. “Pathetic. Where’s that attitude from earlier? Asking me to pay you to not use your techniques. But look at you now. Totally tied down!”
+
+Rhys rolled his eyes. Florian was the one to bring up his filth potions first, and besides, if he did use it, he was one hundred percent sure he could win the battle right now. He wasn’t using it for two reasons: one, he wanted to teach Florian a lesson, and two, he didn’t want to grow too reliant on it, to the point where he couldn’t win without using it. It would make him too easy to counter, and there was no point to rely on it overmuch when he had so much else in his arsenal that he’d barely used. Better to treat this battle as a training exercise to test out the limits of his techniques, rather than win it in one hit and learn nothing. After all, he’d already learned new things about how his Trash Intent skill worked when used defensively. If he’d finished Florian in one hit, he would have learned nothing.
+
+And there’s a third reason… if I rely on it too much, people will counter it, and then it won’t be my ace in the hole anymore.
+
+Of course, he was still trashy enough to use his sure-kill technique to secure the victory if he was backed into a corner. But no point doing that until he had to, and he still had plenty up his sleeve.
+
+He narrowed his eyes at Florian’s fresh shield necklace. That was annoying, for sure, Florian having an unknown quantity of shields hidden in his storage ring. Nothing wrong with buying power, and hell, he himself had used the technique of tanking so hard that it drove the enemy insane, dragged their mentality down, and forced them to do something rash that gave him the opening to kill them—he’d done it before in all kinds of games, from card games to hero shooters and everything in between. But it didn’t mean it wasn’t annoying when Florian used that tried and true technique against him.
+
+It'll be easier to ring-out than ‘kill’ him, he thought, but based on how smug Florian was about everything? The boy had already realized that. He was rich, not stupid, even if the two were often synonymous. His smugness indicated that he was at least smart enough that the other young masters at the school weren’t able to beat him down for his lack of academic skill, and if anything, the skills he’d used so far, bought though they might be, were used tactically and with great effect. If he’d been fighting someone other than Rhys, they might have worked.
+
+He glanced down. His legs bled, pierced through with a dozen needles. During Florian’s first barrage, he’d just stood there with the hopes of getting off the steel pipe sneak attack, and paid the price when Florian had a secret defensive shield. If not for Trash Body, this fight would already be Florian’s.
+
+Until my mana runs out, though, I’ve got a physical boost. But Florian, on the other hand, had lots of items to rely on. In the battle of attrition, Rhys was the one on the losing side, given Florian’s bottomless wealth, and his very bottomable mana pool.
+
+Rather than ringing-out Florian, which the boy would expect, what he actually needed to do was land one big hit. Activate all his buffs, go all out, and absolutely hammer Florian with one hit at the peak of his strength.
+
+Florian’s barrage of needles ended, and Rhys took a deep breath. He grinned. It’s go time.

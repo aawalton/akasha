@@ -1,0 +1,141 @@
+---
+id: 462d9e2c-5f21-528d-abb0-f178c175e7ff
+page-type-slug: story-chapter-royal-road
+title: "Threads 373-Finishing 1"
+slug: 0413-threads-373-finishing-1
+partOf: forge-of-destiny
+position: 413
+ownLength: 1821
+unit: words
+publishedAt: 2024-04-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1576952/threads-373-finishing-1"
+royalRoadId: "1576952"
+---
+
+"To success!" Gan Guangli boomed, raising his cup.
+
+Ling Qi smiled wryly and held up her own. "To success."
+
+"It is early for celebration, yet for your efforts, I will allow it," Cai Renxiang said. At the table where they sat, she alone did not yet have her drink because she had insisted on hand brewing her own tea. The pot was bubbling away, but not yet ready.
+
+"We aren't completely done," Ling Qi agreed. "...I'll need Hanyi for this next part, she had better behave."
+
+"I am certain your junior understands the gravity of this situation, or at least your investment in it!" Gan Guangli said brightly.
+
+"The latter, maybe." Ling Qi took a sip from her cup. The drink was from a bottle which Bai Meizhen had given her. It burned all the way down like cold fire, threatening to freeze her blood and organs. It had more kick than rimefruit extract, more like spiced wine. She'd have to ask Meizhen for the name.
+
+"I am certain it will be fine. Sir Xuan will be advising for this next section too, no?"
+
+"Yes, though it's as much for legitimacy to the ministry and the nobles," Ling Qi replied. "No slight to his knowledge, of course. He's given me some ideas for what can work."
+
+"If we succeed on the informational and cultural exchanges, we will be well placed to negotiate the foreign quarter notion properly, both as an expansion to the embassy and for future settlements in the Wall," Cai Renxiang mused. Steam hissed, and she carefully poured her tea, dark, nearly black liquid arcing delicately into her cup.
+
+And that was the crux. After all the preliminary negotiations, being able to convince all parties that a permanent mixed settlement, even a segregated one, here at the embassy was desirable. They were part of the way there with the staff of the magistrates. Getting shared use of the observatory was another piece of that puzzle.
+
+Humans came with webs of need and connection. If they could just set the foundations to make it possible, then they would build this place themselves, never needing to be pushed into place like weiqi pieces.
+
+Ling Qi thought that this might be just a little taste of what Xin's plots were like. She was right to say that life was a game without any clear players. That destiny only existed in hindsight. There was choice and mystery and the secret that those who thought themselves masterminds and seers hid even from themselves. They could not control everything, and they could not plan for every factor. Past a certain point, the future was unknowable, much like the black depths of Lake Hei.
+
+Ling Qi considered her drink, the venomous icy wine within hissing and bubbling faintly, slowly freezing through the lining of the cup.
+
+The Starless Shroud technique was not one she could wear in the long term. There were pieces of it that she could use. The contemplation of mystery in the unseen depths. The notion of supreme wholeness. The ability to take any harm but remain herself and whole. But she was not certain she had much more to gain from the art itself, beyond its value as a building block for an art of her own.
+
+Well, she did have an idea, an idea going all the way back to the Thousand Ring Fortress art and its source of a mystery she had left in the Dream. She remembered seeing the shadow of a reptilian behemoth in the dream and an ever regenerating corpse. That was likely her little brother’s “real” mother.
+
+Discomfited at the thought, she frowned deeply.
+
+"Is the Bai wine so sour?" Gan Guangli asked, and she startled in her seat, the drink in her cup sloshing.
+
+"Oh, no, it's more of a, uh… fizzy taste." Ling Qi took another long drink. Best to drain it before it shattered the cup. She made a note to use a sturdier one next time.
+
+Cai Renxiang sighed. "Please do not refer to a high quality Bai wine as 'fizzy' in good company, Ling Qi."
+
+"Hey, I'm not that bad! I'm just relaxed with you," Ling Qi defended. She was a little tipsy now, maybe; she shouldn't have drunk that so quickly. She furrowed her brow and circulated her qi, kicking her toxin processing organs into quicker and more efficient function.
+
+“What are we going to do after the summit?" Ling Qi wondered. She had been focused on this project for so long, she might have lost track.
+
+"Spend time resolving some of the many issues about our land," Gan Guangli proposed. “It would be good to solve them."
+
+"It may be possible. However, the campaign below the earth is likely to begin soon, barring any sudden move from the Twelve Star Confederation. The ith-ia simply represent too alien a threat, and the province demands that they be brought to heel," Cai Renxiang said. "Expect it to begin within the year."
+
+"How will we even advance a proper campaign? What, is your mother going to burn a borehole big enough for a division and its supply lines down into the earth?"
+
+She chuckled, as did Gan Guangli. Cai Renxiang did not.
+
+Their smiles faded.
+
+Ling Qi remembered the echo of Ji Rong's memory, of the shattered stump of a mountain and a kilometers-wide bleeding pit in the earth.
+
+“Really? The spiritual disruption alone…" Gan Guangli looked horrified.
+
+"Hence why she intends to use the site of Elder Zhou's death, I believe. It will be symbolically pleasing, and the area is already devastated. It is also far enough into the mountains to avoid too much harm. I also believe that is the secondary reason as to why there are so many geomancers in the south now.."
+
+"We'll have to use our time well," Ling Qi said. "It will be good to not be the ones in command for a bit."
+
+Cai Renxiang shook her head. "We will see how long that attitude lasts.” She took a deep drink from her tea and set the cup down with a clack, reaching up to massage her own temples.
+
+"It is tomorrow's challenge. Why not keep our minds on today’s? Especially with our successes!" Gan Guangli exclaimed. "It would not do to never stop and contemplate our victories, else we will no longer see them."
+
+"I agree. The horizon should remain in our minds, but there's nothing wrong with celebrating the end of a day's journey," Ling Qi said. "Do we start inviting Xia Lin and Meng Dan to these meetings soon?"
+
+"When the summit concludes, I intend to apply for Xia Lin's permanent assignment," Cai Renxiang replied. "Meng Dan… Much depends on the outcome of your spycraft."
+
+Ling Qi's cheer faded. "Shu Yue does not believe Meng Deming is the ultimate culprit, but what would happen if it is found to be someone among the Meng? Maybe even an elder?"
+
+Gan Guangli's expression grew troubled. "It depends on too many details."
+
+Her liege’s expression was pinched. "I cannot believe the clan as a whole would approve of this. The Meng's very conservatism precludes it."
+
+"Whether they did or not may not matter, if the issue becomes loud enough," Gan Guangli said. "Using tools of such provenance…"
+
+"Best would be that the matter is blamed on an individual, lost in studying the leftover weapons on the enemy. It would be foolish and a black mark on the clan, but that would have minimal collateral," Cai Renxiang said. "But it cannot be a lie if we claim such."
+
+Because lies could not exist under Cai Shenhua's direct vision, and it would certainly fall on this issue when all was said and done.
+
+"A rogue,” Gan Guangli offered. “An awakened elder gone mad and unable to cope with the world of the present, perhaps even with a touch of soul rot. This has happened on occasion, no?"
+
+"Rarely," Cai Renxiang replied. "Let us hope the blame for this sabotage can be placed on only a few shoulders, or else all the stability of a secure southern border may be for naught."
+
+And wasn't that a sour thought. Even if they succeeded perfectly, if the Meng clan as a whole was implicated… She thought of Meng Dan, and her stomach turned. No, the Meng were too old and established. They might be isolationist, but not to such a virulent, self-destructive level.
+
+If anything, someone this extreme would want to drag everyone down with them. It would be a way of succeeding even in failure. That  was a thought she saw occurring in her glimpses into the mind of Still Waters Deeping.
+
+She would just have to utterly unravel them, together with Shu Yue, Cao Chun, and the others.
+
+She refused any other outcome.
+
+***
+
+"Big Sis, it's fiiiiine," Hanyi complained.
+
+Ling Qi plucked at one of the ornaments in the ice spirit's hair, adjusting it minutely. Better.
+
+"It is now."
+
+Hanyi swatted at her hands. "It was fine before."
+
+If Hanyi was pushing back against her that much, then she probably was hovering too much.
+
+Ling Qi stepped back from the vanity as Hanyi hopped down from the stool, her gown swirling around her bare feet. It matched Ling Qi's dress in style and cut, midnight blue, set with twinkling points of lights like snowflakes descending with the movement of the gown, and pale blue fur trimmings around the neck and hem.
+
+"You will need to be on your best behavior, okay?" Ling Qi reminded. "No fidgeting around. No complaining about being bored. You need to speak the proper way, too. This isn't the place to be casual."
+
+"I understand, Big Sister. I'll be good, I promise! I won't mess up your big project."
+
+Ling Qi winced. "I know you wouldn't do that on purpose. But no matter how rude or annoying you think someone is being, keep it to yourself, okay? This is as much a stage as your concerts, so treat it that way. You have to stay in character for the whole performance."
+
+Hanyi stamped her foot. "I've got it! You’re worse than Bao Qian before a big show today, Big Sis!"
+
+Ling Qi resisted the urge to muss her junior sister's hair. She'd just spent all that time getting it perfect after all.
+
+"Well, this is MY big show, after all."
+
+Hanyi pouted, but her expression smoothed out as she looked up at Ling Qi. The willfulness in the young spirit's gaze faded. Ling Qi let out a breath, relieved. Hanyi really did understand.
+
+"I'll be the best junior sis. To pay you back for everything."
+
+"Thank you, Hanyi. I know you will. You’re a good girl when you want to be." Ling Qi laid a hand on her shoulder. "Let's head to the meeting hall now."
+
+"Yeah! Big Sis is gonna knock 'em… um… do whatever is good for complicated, grown-up talks!"
+
+Showtime.

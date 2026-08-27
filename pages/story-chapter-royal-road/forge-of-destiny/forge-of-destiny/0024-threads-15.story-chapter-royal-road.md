@@ -1,0 +1,135 @@
+---
+id: aa54a47c-abcf-5b06-ae68-aca78c0bfda7
+page-type-slug: story-chapter-royal-road
+title: "Threads 15"
+slug: 0024-threads-15
+partOf: forge-of-destiny
+position: 24
+ownLength: 2857
+unit: words
+publishedAt: 2020-11-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/591333/threads-15"
+royalRoadId: "591333"
+---
+
+“Each art is composed of a number of forms, patterns of qi which are woven into the cycling of your qi to empower spirit and flesh. Techniques then, are the active use of those patterns, projected through carefully attuned channels,” Elder Heng’s reedy but steady voice traveled well, perfectly audible even in the far back corner of the lecture hall Ling Qi had seated herself in.
+
+“However truly mastering arts of the third realm is not merely a matter of techniques and attacks,” Elder Heng continued. “Art’s developed solely for the first and second realm are simple utilitarian things, and where they are not, it is because they are offering training for the use of more advanced arts.”
+
+Ling Qi’s ink brush swept silently across the paper. Cai Renxiang didn’t need her to take notes anymore, but she had found it was a good habit, and it helped her improve her handwriting besides.
+
+“For you, who have reached the third, and who may aspire to the fourth, the true importance of mastering arts is what scholars call the ‘insight’,” Elder Heng said, shaking out his sleeves. Then raising his hands, he drew streamers of silver qi from the pool below him, shaping them into complex patterns. “Qi is the building block of reality, and the patterns of a third realm art are statements about reality. In practicing and meditating upon these patterns, you meditate upon these statements.”
+
+Even as she took her notes, Ling Qi’s thoughts wandered a little. She wasn’t the only one who had won her challenge, Meizhen had risen up to the lower ranks of the seven hundreds, a memorable display by Xiulan carried her into the upper ranks of the eight hundreds, and a less memorable medicine mixing contest left Li Suyin in the mid eight hundreds.
+
+“In mastering an art, you contemplate the thesis of its maker and draw conclusions from it,” The patterns of silver light around the Elder shifted, twining into ever more intricate patterns that whispered of meaning and action. “This is the insight. In mastering an art, and taking insight from it, you carve that belief into your soul, and take another step in building your way.”
+
+Ling Qi frowned a little watching the patterns. She had already done something like that, hadn’t she? When she had mastered the Argent Mirror, she had resolved not to lie to herself. Maybe that was why the events of the dream struck her so hard, where in earlier life she had done questionable things without nearly so much pain.
+
+Even if she wanted to, she wasn’t capable of rationalizing her choice as anything but the naked cowardice it had been. Not any more.
+
+“It is this which makes the third realm the lengthiest stage in your cultivation thus far. At each stage of the realm, you must seek insight into yourself, and in time tribulations to develop your path further,” Elder Heng continued. “The ultimate goal of the third realm is the creation of your Domain Name. First through insight, and then through the development of your own arts, and finally the tribulation that will set the Name of your Way. Most stall on this road, unable to develop a cohesive meaning for their lives. It is no easy process, and you will make sacrifices on the way.”
+
+The air around the Elder shimmered, and for a moment he seemed even more translucent than normal. For just a moment the stern old man’s face flickered, revealing a featureless mask of silver. “Those who walk to the summits of cultivation change themselves, cut things from themselves, and one cannot retrieve what is discarded.”
+
+Ling Qi remembered Elder Jiao’s words, and the genuine fatigue in the normally bombastic man’s voice. Her grip tightened on her brush, blotting the ink. Taking a deep breath, she refocused her thoughts on the lesson, now jumping off into the mechanical minutiae of arts.
+
+She would not be one of those who stalled in the third realm.
+
+***
+
+Of course, not all lessons took place in lecture halls.
+
+The last few hours had been exhausting. Keeping up with a higher realm cultivator setting a deliberately punishing pace through difficult terrain was no easy task, let alone one who was deliberately making some small effort to throw them from her trail and lose them in the twisting, misty vales that lay between the higher peaks. Still, she had made it to the end, along with her ‘classmates’.
+
+Ling Qi stood at attention in line with a half dozen other disciples, none of whom she particularly recognized. Two were only a few years older than her, but the other four were clearly older men and women, all caught in that halfway state between the second and third realms, or in one case, fully second but on the edge of breaking through. She felt awkward being the youngest yet also the highest cultivation.
+
+She was a little surprised at her fellow disciples’ attitudes. The two fully third realm disciples, with ranks in the lower half of the eight hundreds, had eyed her with envy and some resentment. The rest, who Ling Qi estimated to be in their early thirties and who held ranks in the nine hundreds, seemed ambivalent but otherwise nonchalant about her. Perhaps that was simply military discipline, seeing as they had all been promoted from within the Sect’s army. They were probably used to being overshadowed by much younger people.
+
+Of course, no one was looking at anyone else right now. She was pretty sure the fourth realm core disciple currently examining them would put anyone who showed such a lack of attention into the ground.
+
+The young woman standing across from them with her arms folded behind her back had managed to remind Ling Qi of her first physical cultivation instructor before Ling Qi had even heard her name. Guan Zhi resembled her father in other ways as well. Scandalously dressed, wearing only a tight, dark green cloth wrap that covered her chest and little else and form-fitting pants of a lighter shade tucked neatly into sturdy black boots that rose almost to her knees. Cloth bandages wrapped her forearms and hands. Her long hair was tied back in a single, tightly braided tail.
+
+<Not going to ogle this one?> Sixiang asked idly. <Usually, you can’t get enough of muscles, even if this one isn’t as bulgy.>
+
+Ling Qi kept her eyes ahead and her expression studiously straight. <Still not interested in women, Sixiang,> she reminded.
+
+<Right. I keep forgetting how that division works. Is it really only the reproductive bits that->
+
+Thankfully, Sixiang’s musings were cut off as their instructor began to speak. While her voice was feminine, she had her father’s same air of command and brooked no inattention.
+
+“Good. At least you can all stay at attention. The seven of you have been screened for introduction into the officer level of the scouting and skirmishing forces.” Guan Zhi spoke in a quick, clipped tone, unmoving from her starting position. “It is a dangerous duty. We act with less support than our main branch comrades and often undertake missions of greater personal danger. As an officer, your responsibilities will only increase. For the remainder of the year, you will all receive training in small unit tactics, reconnaissance, and various other minor but still crucial skills.”
+
+Ling Qi had known that the Sect would be offering military tutoring, and the start of the third month had brought its start. Even if she was going to be departing in two years, she would gladly take advantage of it. So long as she was in the Sect, she was a member of their forces and entitled to attend the lessons. Giving young nobles a taste of responsibility and discipline was part of the Inner Sect’s purpose after all.
+
+“I will oversee the instruction of those of you promoted from the actual Skirmish Division,” Guan Zhi continued. “You do not require lessons on the basics, only the additional responsibilities that arise from being an officer.” Ling Qi sensed a tiny flicker of pride and a minute straightening of stances from the older and lower ranked disciples. “For the three of you remaining, you will be acting as understudies to current officers. Follow their instructions exactly.”
+
+Ling Qi glanced at the others, seeing them surreptitiously looking around as Guan Zhi gave a sharp gesture to the other disciples and began to lead them away.
+
+“Still so inattentive, Junior Sister Ling?” Ling Qi nearly jumped out of her skin at the smooth male voice that spoke as if directly in her ear.
+
+She spun around on instinct, bringing herself face-to-face with her one time tutor, Liao Zhu. Out of the corner of her eye, she saw the other remaining disciples receiving similar frights from those she assumed to be their own instructors. Liao Zhu looked much the same as he had when she had seen him a few months ago. The tall, muscular boy still wore an open vest of leather, hung with a dozen or more black knives, and a silver-fanged demon mask over his lower face. The only new feature she noticed was a star of scarred flesh on his left shoulder.
+
+<Nothing wrong with this one though, right?> Sixiang needled.
+
+“Senior Brother Liao’s skill is still too great,” Ling Qi replied, ignoring the pest in her head as she offered a small bow. “May I ask what Senior Brother’s lesson plan is?” Despite herself, she found her eyes drawn to the red crescent tattoo around his eye. She felt a knot of worry about going alone with someone who was associated with the Bloody Moon.
+
+“As the lovely and redoubtable Guan Zhi said, you must first learn the basics of a skirmisher’s duty before taking up the duties of an officer,” he answered seriously. “Today, and for much of the rest of the week, this skilled brother will be familiarizing you with terrain and the signs of nomad movements in it, as well as the marks for supply caches and signal language. Come along then, Junior Sister. We have no time to slack off.”
+
+She stared at his back before following him as he leapt up to a higher trail a few meters above the cliffside they had stopped on. They swiftly left it behind, splitting from the other recruits as they and their tutors took different paths into the mountain vales.
+
+“Could you explain what exactly a skirmisher does, Senior Brother?” she asked, voice carrying on threads of music despite the wind whipping by as the ground blurred by below them.
+
+Where Ling Qi supplemented her movement with minor bursts of flight, Liao Zhu simply seemed to blur from one outcropping or scraggly tree to the next. Ling Qi could have done the same she supposed, but doing so would have required that she use an actual art whereas she sensed no such thing from him.
+
+“It is in the name,” he replied, turning around to face her despite continuing his path. He seemed to suffer no loss of grace or coordination for leaping and jogging backward. “The Scout and Skirmish division ranges outward in smaller groups than our more regimented brethren in the proper combat core. We are often tasked to travel in pairs or even alone. Our duties involve tracking and monitoring the movements of our enemies, the Cloud Nomads, as well as less human threats. We are also tasked with checking those movements often enough, if the matter is too small to require a full regimental movement. As an officer, you will be responsible for delegating tasks to lower ranked members in an assigned region and organizing larger operations.”
+
+Ling Qi’s brows crinkled in worry. Could she really do something like that? She supposed she had to learn to be responsible for other people in enemy territory given her likely stint as a baron on the border, but all the same… She found her eyes drawn back to his tattoo. Although she had somewhat come to terms with the dream, could she really be relied upon in danger?
+
+“Has something marred my handsomeness, Junior Sister Ling?” Liao Zhu asked lightly as he landed with a heavy and deliberate thud on a small, scrubby cliff. Ling Qi landed beside him a moment later, and a glance showed her some signs that there had been something here before them. Ash and scorched bones were mixed into the dirt, and a clump of fur clung to a thornbush off to their right. Her tutor seemed uninterested in it at the moment. “Or is it about the blood and regret that stains your spirit?”
+
+Ling Qi stiffened. Of course someone several stages above her would notice. “I had an unpleasant run in with your patron,” she answered, more than a little stiffly. “Shouldn’t we focus on training, Senior Brother?”
+
+“Perhaps, perhaps,” the young man replied, seating himself on a boulder and cupping his masked chin in his hand as he observed her. “But a lesson to a distracted student is a wasted one. Tell me, which side did you fall on in that terrible dream?”
+
+<Maybe not. This guy is pushy,> Sixiang grumbled. <Given his patron, I guess it’s no surprise.>
+
+Ling Qi supposed that it was pretty likely that someone who had earned the Bloody Moon’s favor had gone through a site dedicated to her. “The Hunter King,” she said shortly. “You?”
+
+“Both and none at one time or another,” he said with a chuckle. “I tried so many times for a satisfying outcome, and always, I have failed.”
+
+Ling Qi stared at him. “Why would you do that to yourself?”
+
+“It is my nature. I could no more stop than you could cease collecting your treasures, Songbird,” Laio Zhu shot back, making her flush. Had he been at her challenge or had he just heard about it? “Do you know what would have happened had you sided with the rebels?”
+
+“... They would have lost anyway. It would have been futile against a White cultivator,” Ling Qi said.
+
+“Not so!” he contradicted brightly, leaning forward. “For given enough time, the rebel King would complete the ritual he had been preparing and strike a terrible blow to the Hunter, allowing him to be fought!”
+
+“Oh,” Ling Qi said dumbly, feeling even worse than before.
+
+“Of course, with the Hunter King slain, the rebels would then swarm out, burning and killing with abandon, to clap their former brethren in chains for use as labor to rebuild that which the Hunter King had destroyed and greater projects still,” Liao Zhu explained, meeting her eyes without blinking. “Or indeed, the brethren kings could both die in the clash, and the chaos would spread until at last, the rebels were extinguished at great cost, solidifying the iron grip of the isolationists of the Weilu for all time, as it did in the waking world.”
+
+Ling Qi knew better than to ask what the point of the dream had been then. She knew that there wasn’t one. “It was cruel and pointless to show me that,” Ling Qi asserted. “She stopped my spirit from giving me context and berated me at the end, despite saying that there was no lesson. Why?”
+
+“Vengeance is cruel,” Liao Zhu replied with a lazy shrug.
+
+“She’s not supposed to be just vengeance,” Ling Qi snapped.
+
+Liao Zhu’s eyes wrinkled behind his mask, and she knew he was smiling. “Justice is a wholly artificial thing. It is born of human desire for order. It cannot care about the happiness of the individual, else it be perverted. Justice is cruel.”
+
+“It shouldn’t be,” Ling Qi replied stubbornly.
+
+“Hah, well spoken!” he laughed. “I do not disagree, to a point, but that is the purpose of the dream, despite there being no inherent lesson. Would you even ask yourself these questions without the bloody reality forced into your face? Justice is decided by those with power. If you wish to make it align with your vision, then do so with your own hands, your own words. Convince those around you that your justice is correct. A great spirit cannot change. It can only be changed.”
+
+“You really are arrogant, Senior Brother,” Ling Qi assessed. Perhaps it was the vein of music twisting through her spirit, or perhaps it was the clear sight given her by Argent Mirror, but she could feel his sincerity. Liao Zhu sincerely intended to change the nature of a great spirit.
+
+Then again, maybe cultivators needed that kind of arrogance to reach the peak of cultivation.
+
+“Your compliments will not dissuade me from making your training difficult,” Liao Zhu said, hopping lightly to his feet. “You are too intriguing to be allowed to wallow in mediocrity. Let us move on.”
+
+“Wait, what about this place?” Ling Qi asked, glancing around in confusion.
+
+“This?” he asked with furrowed brows. “Just a disciple's campsite. Worry not. By the end of this week, you shall not make such mistakes.”
+
+Ling Qi sighed and followed after him. She had a feeling it was going to be a long month.

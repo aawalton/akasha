@@ -1,0 +1,177 @@
+---
+id: 1eaa1600-2b17-5266-aadd-81ff5cfcc3a7
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 388-Making Good 1"
+slug: 0431-threads-chapter-388-making-good-1
+partOf: forge-of-destiny
+position: 431
+ownLength: 2650
+unit: words
+publishedAt: 2024-07-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1700988/threads-chapter-388-making-good-1"
+royalRoadId: "1700988"
+---
+
+"That went as well as could be expected," Cai Renxiang said.
+
+"Indeed!” Gan Guangli boomed. “Let us hope the private talks with the Bai and the Meng prove just as fruitful." His smile was forced.
+
+Cai Renxiang rubbed her forehead. "We will be relying on your connection, Ling Qi."
+
+"It is not just my connection," Ling Qi corrected. Bai Meizhen was Renxiang's friend, too.
+
+Hanyi fidgeted at her side. "Like, everybody is friends, right? And we beat the bad guys. I kinda get why the foreign people are upset, but what's the big deal? Big Sis didn't even let anybody die!"
+
+There had been casualties among the work crews. Not many, but some.
+
+"It would be easy like that, would it not?" Cai Renxiang almost sounded wistful.
+
+"Even if Bai Meizhen feels that way, she is representing the Bai clan, not herself," Ling Qi explained. "And any assault on their members will make them upset. They need to be seen demanding apologies and repayment."
+
+"Bai Suzhen could, perhaps, force the Bai to do otherwise, though I do not think even she is so inclined, but it would merely breed resentment. Similarly, the Cai clan's reputation is tarnished if we allow harm to come to a guest without reparation," Cai Renxiang continued.
+
+"So, negotiations.” Ling Qi said. “We must try to find recompense which will satisfy the Bai without further building resentment and rancor among the Meng."
+
+"Ugh. It's a good thing Big Sis understands this stuff," Hanyi huffed.
+
+She tried to imagine Hanyi in charge of negotiations. It was bleakly amusing.
+
+The Meng party were the first to arrive. It was small, with just Meng Deming and Meng Dan.
+
+Meng Deming was resplendent in his fine green robes and with not a hair out of place, groomed like a sagely minister. However, she didn't miss the new white hairs in his beard and peeking out from under his cap, nor the new wrinkles at the corners of his eyes.
+
+Meng Dan looked exhausted, for all he tried to hide it. The skin under his eyes was dark, and his fingers tapped anxiously on his hip. His eyes met hers, and he swiftly looked away after taking her in.
+
+"Lady Cai," Meng Deming greeted stiffly. "I am honored to be received by you."
+
+"You remain the ancient and honored Meng clan," Cai Renxiang reassured. "Please sit."
+
+He nodded once and gestured to Meng Dan, who followed him to the left side of the table. "Though my mind was ensorcelled, my most sincere apologies remain."
+
+"I accept them, but these negotiations are not about that issue. In the end, my mother will determine what is owed."
+
+"... I felt her passage in the wind and the thunder in the mountains, and I saw the streaking star going north," Meng Deming said thickly. Ling Qi felt a pit in her stomach; it did not feel right to see such an old man close to tears. "Our fate hangs upon the efforts of the loyal."
+
+"I am confident," Meng Dan said, although he did not sound so, "that the Duchess' light will undo all deception and that this conspiracy was of limited scope. Every interrogation has indicated such. This was but a small group of radicals hoping to force the greater clan’s hand."
+
+"Blasted young fools! Exacerbating their grandfather into such a state, abusing their sacred stewardship of the dying! What were they thinking?!" Meng Deming's breath blew out his whiskers, and the armrests of his chair exploded into sawdust and powder under his grip, the air wavering like water.
+
+Silence crept back into the room as the old man brought himself under control.
+
+"My apologies for this untoward display."
+
+"It is understandable. I would like to hear the reports of these interrogations, even though you only owe them to my honored mother."
+
+"You will have them," he vowed.
+
+"Let us focus on the Bai for now," Cai Renxiang said. "Fortunately, the harm was small, and Lady Bai Meizhen is calm minded."
+
+Meng Deming shook his head despairingly, but did not reply.
+
+The Bai arrived shortly thereafter. Meizhen was at their head, but with her was Xia Anxi, Xiao Fen, and a pressured sensation, a crawling shadow that Ling Qi suspected was the Senior Bai Ambassador’s viper, acting for Meizhen as Shu Yue had done for Ling Qi, and choosing to be unsubtle about it.
+
+Ling Qi felt that attention on her, and she calmly turned her head, gesturing for Hanyi to help her drink from her water.
+
+Bai Meizhen's gaze flicked over everyone as they rose to greet her. "It pleases me that our allies have extended this invitation to promptly put to rest the concerns of the Bai clan." Her voice was icy and formal. Ling Qi didn't blame her. She was not simply their friend now, but the representative of her clan.
+
+"It pleases me that the Bai clan has accepted our Cai clan’s invitation to lay this matter to rest ere it becomes a grudge."
+
+"For the rebellious fools which harmed your kinsman, I can only offer my deepest apologies and regrets." Meng Deming bowed low, his wide sleeves nearly sweeping the floor.
+
+It hurt him to bow to a Bai, she could tell. But Meng Deming was not a man unwilling to swallow his pride for the sake of his clan.
+
+Bai Meizhen regarded his back coldly, and she gestured for the others with her to sit. "I hear your words, and I acknowledge that these were the actions of rebels."
+
+Ling Qi felt some relief at that statement given the famous intractability of the Bai clan. Meizhen must have worked hard to be able to make that acknowledgement.
+
+"But a price must be paid all the same," Bai Meizhen continued, sitting down, allowing the rest of them to do so as well. "There are living prisoners. Once you have wrung the information from them, the Bai clan would like to receive no less than three to be made examples of in their punishment and execution. We will, of course, give a binding oath to seek no cultivation secrets and to destroy the bodies afterward."
+
+Ling Qi saw a muscle in Meng Dan's cheek jump, and although Meng Deming was not so open, his qi churned. Death at the hands of the Bai clan, likely after much pain and humiliation, was not an easy idea to accept.
+
+Cai Renxiang, Gan Guangli, and she had spoken over the last two days as well, brainstorming other possibilities that the Meng clan could offer in recompense. They had proposed some to Bai Meizhen in the hopes of blunting the Bai clan’s own proposals.
+
+"There is also the matter of trade tolls we spoke of, Lady Bai,” Ling Qi spoke up. “Were your seniors amenable to the idea?"
+
+"It has merit. A lifting of all tolls on the movement of Bai goods purchased and sold through Meng lands would be a proper show of contrition for this unsightly assault," Bai Meizhen allowed. "Ambassador Xilai has suggested a term of no less than fifty years with an additional fifty years at half the current rate."
+
+Meng Deming breathed in, smoothing away the churning in his qi. He glanced briefly at Ling Qi, and she smiled tightly. "The Meng clan will likely accept this. What is coin compared to honor?"
+
+"Indeed," Bai Meizhen said. "There is also the matter of my retainer’s personal desire. As the wronged party, I felt it was proper to allow a demand here as well."
+
+Ling Qi knew that Meizhen had been the one to push for that request; the greater Bai clan would have suggested no such recompense. Thankfully, acquiescence to it could still be used as a bargaining chip to draw down Bai requests elsewhere.
+
+"It is small enough, but I would wish full access to the observatory and the research materials within," Xia Anxi said. "Such a small request really."
+
+"Small, indeed." Meng Dan glanced at his uncle.
+
+"There is also the possibility of a simple lump payment, crass as it is, to assuage the harms done," Bai Meizhen said.
+
+"A matter the Cai clan might defray, given our responsibility in this incident as well," Cai Renxiang interjected. "For that matter, I have been given dispensation to offer the hands of some crafters and geomancers to improve the waterway infrastructure in the underlying region on both sides of the border. What lies on Bai lands will be handed over immediately to the Bai. The Meng clan would be required to accept Cai ownership of this infrastructure and placement of protection for it for a span of decades."
+
+"Our people do prefer their own work." Bai Meizhen was neutral on the idea. "No insult is meant to the Duchess Cai."
+
+There was the bitter part of that bait, Ling Qi thought.
+
+"I see," Meng Deming said. "I see…"
+
+It was time to work out a deal.
+
+Ling Qi broke the silence that had fallen. "I think we can say that the toll and tariff agreement is agreeable to everyone, correct?"
+
+Meng Deming shook himself. The man's back remained bent, and there was a fundamental exhaustion in him. Though she was not so gauche as to pry, Ling Qi strongly suspected that he may have even suffered a true deviation, a heart demon, from this incident. Her own heart ached sympathetically at the notion of being betrayed so terribly by kin.
+
+Meng Deming bowed his head again fervently. "This, the Meng will do. More than that, we will ensure the ways are clear and ready for trade and men alike and that the limitations on merchants are lifted."
+
+Cai Renxiang pursed her lips. "In light of our ally’s reticence for the idea, the Cai will withdraw the offer of infrastructure assistance. While we hope to reach an agreement in the future, this is not the time for it. Still, I was required to at least offer it."
+
+Cai Renxiang had received directives from her mother to that effect.
+
+"The Bai will receive the offer in the spirit it was given, and I am sure that my aunt looks forward to speaking further with the duchess on matters of cooperation," Bai Meizhen said diplomatically. "I trust that the matter of Xia Anxi's request is also not a problem."
+
+Meng Deming’s forehead was still nearly level with the table. "It is not. We will welcome another scholar eager to learn the mysteries of the stars. I will personally assure him full accommodation."
+
+Xia Anxi wore a self-satisfied expression, but looking at him out of the corner of her eye, Ling Qi thought it was somewhat forced. He was happy, but oddly, she judged he wasn't enjoying the sight of a Meng representative debasing himself to him as much as he thought he would.
+
+"That is all well and good." Bai Meizhen steepled her fingers. "We must speak about the prisoners then."
+
+The concession to Xia Anxi was Bai Meizhen’s suggestion and invention. She had said as much in private. It played well with her aunt's faction, who wished to push a more respectful relationship with their lower castes. Taking Xia Anxi's request for his price leaned into that. But the rest of the White Serpent Bai were indifferent to it. For them, the price came down to blood.
+
+"The Cai will ensure that all conspirators are punished within accordance with our laws and oaths," Cai Renxiang promised.
+
+"Of this, we are certain. Duchess Cai's righteousness and honesty is legendary. It is for this reason that we request only three, understanding that this was a small conspiracy as you have stated and that the number of plotters is limited."
+
+Simply put, with the duchess' word on the matter, even the most recalcitrant Bai could not deny the verdict. When a statement was made in Cai Shenhua's voice, it was not a lie. This was a truth as sure as the rise of the sun.
+
+"However, this is not simply a matter of my retainer's injury, but also what was attempted," Bai Meizhen finished.
+
+"Through meditation, I was better able to understand the taint left behind and purge it thoroughly," Xia Anxi said. "It sought to inflame the baser self, seeking conflict. It wished to infest my lady. Although it failed to bring me to allow that, the infestation would have provoked me to violence against the Sun."
+
+Ling Qi closed her eyes for a moment. The Bai and the Sun coming to blows at their summit would have been disastrous. And for Xia Anxi, if he had done harm to Bai Meizhen, unintentionally or not, she suspected his life would have been forfeit.
+
+Yes, it was not a small injury at all.
+
+"We understand the injury done and the depth of this plot," Meng Deming said. "We further understand that it is not easily forgotten."
+
+It was impossible, for her at least, not to feel the ripples in Meng Deming's qi and see the memory churning in his mind. She saw an awful bloody thing that had once been a man. She flinched away from it, even as its lipless mouth worked, pleading for death atop the execution block overlooking the calm waters of Lake Hei.
+
+Her gut churned. She cycled her qi and pushed the taste of bile back down her throat.
+
+The memory was visceral in a way nightmares stretched out to the horizon were not. But, for all that she despised consigning the Meng, traitors or not, to that consequence, she had made crueler choices at this summit alone. When she had claimed a huge swathe of the mountains for the Celestial Empire, she knew what was likely to happen to the nomads who lived there.
+
+Ling Qi could only do the best with what she had. Although she tried to minimize harm and to find the path of most good, sometimes, she was too small to push aside the oncoming glacier. She was not a sovereign yet who could stare directly at the world and tell it to stop. And even being a sovereign wasn’t enough sometimes. That was Elder Jiao's lesson. It was Meng Delun, Still Water Deeping's, lesson, too.
+
+A crown was not enough to fight the world alone. A Way that left her on a road with so few travelers could only end ignobly. Even if written into the laws of the world, it would be chipped away until it was forgotten. The strongest laws were the ones which brought disciples and followers thronging on the road the ascended sovereign had carved.
+
+She shook off the thought, half her own voice and half a raspy skeleton's whisper.
+
+"The one most responsible for the decision to assault our ally and who bears the firmest responsibility, as determined by the duchess' interrogation," Ling Qi counter-proposed. "Would that be amenable to the Bai?"
+
+"It will be dissatisfying to many of us," Bai Meizhen said coolly. "It may be argued, if the duchess vouches for their responsibility."
+
+"A large indemnity would be delivered in addition, of course," Cai Renxiang said. "As well as any research which exists or is brought to light regarding the defense against the techniques and artifice used. Correct, Meng Deming?"
+
+The Meng representative’s face was sallow and pale, as if he were swallowing something awful and sour. But he nodded once, short and sharp. "The fool who gave the order to assault the Bai clan and to begin this vile treason… Yes, that is most fair of you, Lady Cai. We will deliver the research on Hui era talismans used in this attack as a part of our indemnity without complaint."
+
+Meng Dan's eyes were downcast, but there was a hint of relief in his face.
+
+"Very well. We may discuss the exact details of the indemnity, but the larger part of the matter is settled," Bai Meizhen said. "The Bai clan accepts this offer."

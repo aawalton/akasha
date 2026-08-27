@@ -1,0 +1,217 @@
+---
+id: df51b1ad-dc5f-50a6-96a2-cda24214fc9b
+page-type-slug: story-chapter-royal-road
+title: "Threads 471-Glass 1"
+slug: 0516-threads-471-glass-1
+partOf: forge-of-destiny
+position: 516
+ownLength: 2325
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2574976/threads-471-glass-1"
+royalRoadId: "2574976"
+---
+
+The days following were a whirlwind of activity, leading into the year's end, which would mark the beginning of the lengthy ceremonies and preparations for the wedding day. Ling Qi lost count of the theater managers and troupe speakers she met alongside Meng Dan, hearing their proposals for shows written about their triumph at the Southern Summit. At this stage, it was only drafting and putting forward basic sketches for costuming and scene setting, but she could already tell that her correspondence was going to grow an order of magnitude from her time here in Xiangmen.
+
+It wasn't bad, of course. She even enjoyed the little insights she gleaned into others, discovering who was genuine in their desire to portray their success and who was angling for favors in connection to their main patron and where those lines changed throughout an interview, but she was still glad to finish her work the day before the new year when the great procession of scale-armored warriors and attendants climbed the great tree, heralding the arrival of the Bai delegation.
+
+The entourage was extremely ostentatious, but she supposed that was only to be expected, the way the carriages and wagons laden with cultivation reagents and other wending gifts took over the main thoroughfare leading to the palace for hours and hours on end. In the tumult of it all, she hadn't been able to sense Meizhen among the Bai delegation. The aura of the Bai ambassador, the simulacrum of Bai Suzhen, and all of their guards was simply too overwhelming, making the procession seem to her senses as if a vast white serpent was climbing Xiangmen.
+
+Cai Renxiang was in the palace, receiving them, but despite her own accomplishments, Ling Qi was only a baroness. She had no business in a meeting like that. Yet.
+
+She was happy to prepare for a less formal visit.
+
+"Ling Qi, it is excellent to see you in good health again."
+
+She grinned at her friend, stopping just short of embracing the other girl. Even if the other girl might be okay with that now, Bai Meizhen would probably be overwhelmed. Also, Xiao Fen might actually attack her for the breach in propriety, and that would just be awkward for everyone involved.
+
+It was well into the night. The scattered lights of Xiangmen hung above and below. It was quieter tonight, or at least felt like it, here in the garden of the Cai guest house, surrounded by its privacy wardings, They sat together in the stone pavilion beside the center pond, an array of drinks set out before them, from the steaming tea Renxiang was pouring to the faintly bubbling black wine in Meizhen and Xiao Fen's cup, to the softly crackling crystalline blue cider in hers.
+
+"It's excellent to be healthy. I thought I might crawl out of my own skin, those months I was healing."
+
+"That would be quite a feat. I would surely be under suspicion for releasing clan secrets if you had, so let us be glad it did not come to that," Bai Meizhen replied dryly.
+
+"I am told the greater danger was the stoking of the embers in her dantian back to flame after the third time she attempted to ‘do just a bit of cultivation.’ I was sorely tempted to grant her physicians even more authority, but Madam Ling's scolding was sufficient," Cai Renxiang commented, adding a careful few drops of milk to her tea.
+
+"A mother's scolding can be more effective than any number of other voices. Even for one so reckless," Bai Meizhen scolded.
+
+"Foolish, indeed." Xiao Fen agreed haughtily, managing to look down her nose in a way few could manage against Ling Qi.
+
+"I recovered more quickly than any of the doctors anticipated, so who was really wrong here?" Ling Qi tilted her chin defiantly.
+
+"You."
+
+"You."
+
+She sagged under her friends’ withering glares. Why was she under attack here?!
+
+Bad girl gets scolded? Ling Qi bad. Get scolded. Be good! Let Qiyi make more pretty. They will forgive!
+
+Even Qiyi had turned on her!
+
+"And who is this, then?" Bai Meizhen glanced down at her gown, having likely sensed the fluctuation caused by the dress' communication.
+
+"Ah, this is Qiyi. She awoke not too long ago," Ling Qi introduced, brushing her hand over the fabric.
+
+Bai Meizhen's expression scrunched up. Ling Qi snickered. She did love the first time telling people her names for her companions.
+
+"I am told Sir Lin's reaction was similar."
+
+"I would think so." Bai Meizhen pinched her nose. "Honestly, Ling Qi."
+
+"Qiyi likes her name just fine."
+
+"Of course she does. Such a spirit is essentially a child."
+
+"Zhengui likes his name, too," Ling Qi argued. She wouldn't back down on this!
+
+Her friend sighed. "... This is not a battle I am equipped to win."
+
+"My, one of the great Bai clan, refusing battle?" Ling Qi teased.
+
+"My mistress knows when a conflict is beneath her," Xiao Fen retorted.
+
+"Indeed. Regardless, I greet Miss… Qiyi."
+
+Hi! Qiyi hopes other pretty sister wakes up soon!
+
+Bai Meizhen glanced down at her own gown curiously. "I suspect it may be some time, but thank you."
+
+"We'll have to have another reunion when they do." Ling Qi took a long drink. The feeling of frost forming along her throat was pleasant. "You have to tell us how you fared back home. All I’ve heard were some rumors about the heir to the Bai clan."
+
+Bai Meizhen smiled thinly. "I am officially the daughter of Bai Suzhen. My new mother has performed all the adoption rites, and legally, I am now no different than a child of her body. It has been… nice."
+
+Ling Qi grinned happily for her friend. The small smile on Bai Meizhen's lips was practically an expression of giddiness for the taciturn girl.
+
+"I am pleased for you. That is a great honor," Cai Renxiang congratulated her.
+
+"It is." Bai Meizhen fought down her smile. "I will say, despite some of my misgivings, it was good to return home for a time. I greatly enjoy the Emerald Seas, but I think it is important to return to your roots and re-establish some facts from time to time."
+
+"Oh, now you're just being mysterious on purpose," Ling Qi complained. "Just what did you get up to in Zhenjian?"
+
+"That would be telling. I merely spent the time reacquainting myself with my many cousins."
+
+Ling Qi narrowed her eyes. "I know you're just baiting my curiosity on purpose."
+
+"Regardless, it is rude to press a guest too hard, Ling Qi," Cai Renxiang chided before sipping calmly from her cup. She let out a small pleased sigh.
+
+Ling Qi’s eyes narrowed further. "You already know more than me, don’t you? Something that came up during the official ceremonies?"
+
+A long sip. No response.
+
+"I will not be stymied. Your secrets cannot hide from me," Ling Qi crossed her arms irritably. Bullying. This was bullying. Even Xiao Fen looked smug. Unacceptable.
+
+"I'm sure your eyes will pierce the shadows ere long." Bai Meizhen laughed quietly. "Allow me to divert your attention then?"
+
+"Do you think me so easily distracted?"
+
+"I brought you a gift."
+
+Ling Qi paused, raised a finger, and then lowered it. She fought back a smile. Honestly, even if it was only for a little bit, it felt like a carefree day at the sect again. She put on a serious expression. "I shall allow it."
+
+"How kind of you, Baroness," Bai Meizhen said dryly. "I only hope that my small gift does not offend."
+
+Now, Xiao Fen looked properly constipated again.
+
+"I admit, I had some trouble deciding what to get… My first choice…"
+
+"Cultivation drugs," Cai Renxiang said into her teacup.
+
+"Yes, that seemed a bit impersonal. Besides, I know you are well supplied."
+
+"I sense my honor is being called into question somehow, even if I can't imagine why," Ling Qi said primly.
+
+As if one could ever have enough cultivation boosters. … Well, okay, at a certain point, taking more boosters just became inefficient.
+
+"Never." Bai Meizhen gestured and pulled on the contents of her storage ring. "Regardless, I thought I might get something less fleeting."
+
+Ling Qi accepted the small teakwood box that appeared in Bai Meizhen's extended hand. It was a simple, utilitarian case, by her friend’s standards, which meant it was only chased in silver, rather than carved from pure jade. It clicked open with a brush of her finger, and inside, there was a midnight blue band of silk set on the padded lining. It was a choker with a clear, many faceted gem set in a silver bracing, connected to the silk by a delicate hook.
+
+Lifting it from the box, light refracted through the transparent gem, shining little patches of color across Ling Qi’s face.
+
+"Oh, how pretty! The formations set in this…"
+
+"Purification of the best quality," Bai Meizhen answered. "The array drains the potency from venoms and absorbs impurity. I understand that you have certain bad habits around being poisoned."
+
+"That was once!" Ling Qi complained. Then, she corrected herself, "Twice. Actually, I'm not sure that second one counts…"
+
+Her friends both gave her dull, unimpressed looks.
+
+Ignoring Ling Qi, Bai Meizhen continued, "The gem will darken as it absorbs damaging energies. It is high capacity and will self-purify over time, but please keep in mind the limits."
+
+Ling Qi lowered the choker from the light of the lantern overhead and carefully put it on. The purifying gem was a point of sharp cold against her skin, rather like Bai Meizhen's fondly irritated gaze.
+
+"I promise. I have said it before, but I do try to stay within my limits. The world just keeps conspiring to push them."
+
+She was going to war in only a few short months. There could be no real safety there, only caution.
+
+Bai Meizhen sighed. "I understand. Crush your enemies beneath your heel, and return home to all of us, yes? That goes for the both of you."
+
+Ling Qi chuckled. "Oh, does Lady Cai not get a gift? How scandalous."
+
+"Hers was presented at the proper ceremonies," Bai Meizhen corrected.
+
+Her liege turned her head. The threading holding her hair up was subtly different. The white steel wire was very understated, but Ling Qi could feel the faintest sizzle of a toxic, spiteful qi that brought to mind a serpent prepared to strike. "I am pleased with the gift. I am glad you recalled that I do not care for ostentatious decorations."
+
+"You should consider wearing your hair down on occasion." Meizhen advised.
+
+Renxiang looked mildly amused. "Are you the one to give advice on having multiple looks, Bai Meizhen?"
+
+"That is different," Bai Meizhen replied frostily.
+
+"Have you ever managed to get Bao Qingling to let her hair down?" Ling Qi wondered.
+
+Her friend's pale face went bright pink.
+
+"... Taking that as a yes."
+
+"I have been informed that she was seen attending a gathering by Ambassador Xilai in one of Mother's more scandalous designs," Cai Renxiang said.
+
+"How did I miss a rumor like that?" Ling Qi asked, crestfallen.
+
+"In fairness, this was in the lead up to the summit. It only reached me via chatter at the sect," Cai Renxiang informed her.
+
+"You are all far too familiar," Xiao Fen grumped into her cup.
+
+"It is fine, Xiao Fen. Enjoy your wine, and be more familiar, yourself," Bai Meizhen replied.
+
+Xiao Fen looked as if she had just been ordered to shave her own head, or perhaps dance and sing a silly song. Ling Qi snickered, and the younger girl twitched.
+
+"I do not know if the spymaster who overlooked such a common rumor deserves to be laughing," Xiao Fen said venomously.
+
+"I was very busy! There were other pieces of information with serious connotations to pay attention to."
+
+"The rumors swirling around your primary contact with your province's best ally are not important? I see."
+
+Ling Qi eyed Xiao Fen. She was definitely going to have to bully this junior some more. She was pleased to see Xiao Fen begin to flinch before she caught herself. That was better.
+
+"Be kind to my viper, Qi. Or perhaps we ought to spar together, like old times," Meizhen interrupted.
+
+Betrayal!
+
+But Xiao Fen's badly hidden smirk was cute, so it was fine, perhaps.
+
+"Would it not be more proper for it to be my lady versus you and your viper at this point?" Ling Qi proposed.
+
+"I would not oppose this, if a sparring circle in the palace could be secured. I doubt full contact will be approved at this late date."
+
+"It would be awkward to show up at the wedding scuffed," Ling Qi allowed. "Especially for our honored guests. It might be expected of me."
+
+Bai Meizhen snorted inelegantly into her cup, glaring over the rim at Ling Qi.
+
+"Perhaps something for the day after then. We will be lingering at least that long."
+
+"I can probably fit that in," Ling Qi mused. "Will you be staying in the Emerald Seas again, Meizhen?"
+
+"I will, but my time will be more in Xiangmen than not," her friend answered, disgruntled. "Mother would not countenance a return to the south until your offensive against the ith is complete."
+
+Ling Qi gave the girl a sympathetic look. Family did come with its restrictions, too. She had less ties before, but as Bai Suzhen's daughter, Meizhen’s security was a more serious affair.
+
+Bai Meizhen waved her hand dismissively. "Enough of that though. What is this that I have heard of multiple suitors for your hand, Ling Qi?"
+
+She leaned back. The intensity of Meizhen's gaze was almost physical. "And how did you manage to hear about that?" she asked, flustered.
+
+Cai Renxiang took a long, satisfied sip from her cup, and said not a word.
+
+Betrayal. She was sunk in a morass of betrayal.

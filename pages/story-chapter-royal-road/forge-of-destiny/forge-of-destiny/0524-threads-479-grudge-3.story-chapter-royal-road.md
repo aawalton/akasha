@@ -1,0 +1,123 @@
+---
+id: 53e8fd8b-9ce8-57e2-a706-176868205fee
+page-type-slug: story-chapter-royal-road
+title: "Threads 479-Grudge 3"
+slug: 0524-threads-479-grudge-3
+partOf: forge-of-destiny
+position: 524
+ownLength: 1877
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2682362/threads-479-grudge-3"
+royalRoadId: "2682362"
+---
+
+"Wanting to possess someone always looks ugly, doesn't it?"
+
+Ling Qi didn't know about that. She couldn't deny the validity of that clawing feeling which scratched at her thoughts from the mind of the woman she immersed in. Too real, too deep. It felt like it could drown her, just as easily as the void of gray, that yawning depression, nearly had.
+
+Shu Yue was right. Even here, at the start of the birth of a grudge, she'd been unprepared. She had thought she had an inkling of what hate could be from her encounters with Yan Renshu. His poisoning of her little brother, that awful attack he had helped the ith plan on that town…
+
+It wasn't the same at all. Those had been anger, indignation, and perhaps other feelings. What she had never felt before was real, enduring hate.
+
+She had never had the luxury, or so she had told herself. Her tormentors had never really had faces in her mind. She couldn't hate the cold or the feeling of her empty stomach twisting in a knot. Well, she could, but not like this. She had never hated a person like this, not even the man who had driven her away from her mother in fear.
+
+Ling Qi was far too much a frightened and cowering rat at heart to hate so deeply.
+
+"Qi, I will thump you. You do not get to call yourself a coward."
+
+"Then, don't talk about being ugly. That's the last thing you could ever be, Sixiang,"
+
+"It is, though. That I  even thought of doing that, even with gramps juicing up my darker side, was gross. I don't want to lock you up or lock you down. I want to fly with you. But it's not so easy for humans is it? There was no happy ending where Ming Xia gets her guy, and he gets his job, and everyone skips off into the sunset. Feelings aint enough, down in the Real."
+
+Maybe with a better man, a man willing to live in mediocrity to marry a former prostitute, Ming Xia could have found a happy ending, but would the woman Ling Qi was immersed in fall for such a man in the first place? Ling Qi didn't think she would. The same traits that attracted her were the same ones that made this outcome inevitable in the world that was. She didn't believe even the ministries under the Duchess currently were really free of this kind of social maneuvering.
+
+Family was the core. Every person sought advantage for their family, even if their family was just themself. She could see the core of Renxiang's criticism of family being the root of corruption.
+
+If Wei Jun had existed in today’s world, he might be able to rise a little further by himself, but eventually, he'd have to tie himself to someone higher. For Ming Xia, the only happiness she might have obtained was a life alone, growing up to replace the madam she now felt this hideous, all-consuming hate toward.
+
+That was the worst part, being inside of her head, yet retaining perspective. Were the players switched around, she was certain that the same situation would have played out under Ming Xia's authority.
+
+That was the twisted nature of society. It molded every person who lived within it.
+
+The first person Ming Xia killed was an accident. Down in the deep roots, even the plain clothes she had worn out to market were considered rich items, merely for being clean and new. On edge, hungry, tired, and still stewing in the hate that brought her here, she had stopped to rest and push away the feeling of her growling stomach.
+
+A man had tapped on her shoulder. She spun and slapped him out of instinct. He was a mortal man, and she was a cultivator, even if one of only the meanest strength. Something cracked in his jaw, his head bounced off the side of the building, and he collapsed like a puppet with his strings cut. She fled.
+
+It had panicked her in the moment, but after, in the shadowed and sheltered mud of an alleyway where she sat down to rest, it tantalized.
+
+Strength. Power.
+
+Her subconscious wove a leer onto the indistinct blur that was the dead man's face in her memory and cobbled together a menacing intent. She would have been a victim again. This time, she had been able to act.
+
+Ling Qi did not know what the man’s intent had been. Although she could perceive more than Ming Xia, she still could not see what was outside of the woman's senses.
+
+Ling Qi had glimpsed wispy gray and wrinkles. She had heard the clatter and splash of a breaking bowl full of something warm. The building Ming Xia had been leaning against, cradling her stomach, was an eatery. And Ming Xia had not been a paragon of strength in the first realm. She would have been barely stronger than a fit mortal man.
+
+In the end, Ming Xia thought, what had been done to her was done because she was weak. They were going to pay. They were going to pay. Theyweregoingtopay.
+
+All of them would pay.
+
+Blood spilled in the dust. A sacrifice, without intention. She was better than the dust, better than the cruelty done. She was a jewel, not a sow. She only needed to make it so.
+
+You are so much greater. We hear you. We feel you. Your ambitions whisper to us in the dark. So. So. Worthy. Won't you give us just a little blood, just one more drop? One more, O Jewel.
+
+Ming Xia heard voices like buzzing wasps and whispering wings in the dark, the tittering of nightmare faeries.
+
+"Yeah, we were pretty thick in the air here back then. Honestly, it’s amazing that reality held together as well as it did, with us wriggling our fingers in to claw apart every crack."
+
+Ling Qi followed the slow spiral of maddening emotion as Ming Xia worked herself up to follow the whispers in her dreams, for want of any other way to gain strength.
+
+"It is fascinating how people break apart. I like poking, prodding, and seeing what gets 'em unsettled, what gets 'em mad, what makes the face they present to the world come apart. I liked doing so, even back when I was just flitting around the sect." Sixiang said wistfully. "I don't think this lot are half as restrained as I was."
+
+Sixiang was trying to keep their relationship the same as before, weren’t they? But they weren't. They couldn't be.
+
+"I just want to smile and laugh with you again. I'm fine being the fun friend, the party muse. It's not like those are lies."
+
+They weren't all of the truth either.
+
+Ming Xia’s actions were almost predictable. She didn't want to distance herself too much, knowing that doing so went against the point of this exercise.
+
+Being in Ming Xia's head felt like bathing in Meizhen's venom. It was a constant itching and burning on her skin. She almost wanted the gray to come back, if only to wash away this acidic black that inverted even the most innocuous, happy thought into further spite. It was worse than the puppet threads she had dreamed were under her skin in the Emerald Nightmare's trial because no one else was pulling them. There was only herself, and the driving spite that would never let her feel happy again.
+
+She could do this. She had withstood the flames of the Crucible, and also, the gaze of Still Waters Deeping. She had faced spirits and men and the malice that could be held by both. And yet, there was a question posed to her often by her friends, her brother and sisters, and her mother. She was confident that she could withstand almost any trial. But did she need to?
+
+She did not think she needed to, here. The lesson could be taken without immersing herself completely in a dead woman's festering hate.
+
+Given her methods, distance might be more useful. She conceptualized minds as corridors and rooms, a location to be infiltrated, not as a mask for her to wear. She didn't intend to change that perspective.
+
+The nightmares’ whispers resounded in Ming Xia's mind, but they were only echoes of her own thoughts. They reinforced the aching acidic emptiness inside her own self.
+
+"Yeah. We don't take control of people. We never do. There's a reason I can only steer while inside of mindless constructs. Dreams can only show her various paths, or distort her vision."
+
+Ming Xia didn't need an outside distortion, only a promise that there was a way toward her goal.
+
+It would be easy, Ming Xia thought, to get blood, if that was all that was necessary. She had sold and sold and sold herself for another's profit all her life. What difference did it make to sell herself now, save that she was the one collecting the coin?
+
+Ming Xia had her pride, and coins enough from careful sales, never enough to be easily traced.
+
+There were many, many petty fiefdoms down in the dark where the immortals of the city could not be bothered to govern beyond pacifying whatever troubles dared show their heads above a certain line. Even mortals could carve out their little insect kingdoms, so long as they minded the threads of the spider’s web.
+
+And so could she. Her smile had pierced many hearts. The emptiness behind her eyes did not change that. Why would it? Men never cared for what lay behind the flower petals.
+
+The second person Ming Xia killed was a petty gangster, the lord and master of a few dusty streets and a handful of rough men. A mortal. A tiny man in mind and spirit, but at least, he was a leader of something. He could pay her price.
+
+The satisfaction she felt looking down into his bugged-out eyes as she carved a bloody smile in his throat was fascinating.
+
+Six months. Six months, and a man who had spent his life on guard, immersed in violence and brutality, had opened his heart to her, poured out his worries, and looked at her with the eyes Wei Jun once had.
+
+The nightmares cackled, and drank deep of the blood.
+
+Love. Betrayal.
+
+This was her cultivation.
+
+The nightmares whispered secrets in thanks for the meal. A searing agony, like the contortions she underwent in the throes of that poison, carved an open channel in her spirit and winded down her spine, and her spirit swelled in her body, fortified beyond anything she had ever felt from the tiny handful of spirit stones she had been allowed in her life.
+
+She could not stay in one place. She was homeless, and she would always be. The wind tickled her skin as she stole from the roots out into the sprawling shanties which collected outside.
+
+She had always been good at wearing faces, exposing only slivers of herself, the facets that a customer most wanted to admire on their jewel.
+
+Only with Wei Jun had she ever shown her full self.
+
+It was a mistake she would never make again.

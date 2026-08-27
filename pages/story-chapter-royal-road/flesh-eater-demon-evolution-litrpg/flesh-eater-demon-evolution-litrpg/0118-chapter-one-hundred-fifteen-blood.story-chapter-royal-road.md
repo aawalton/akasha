@@ -1,0 +1,137 @@
+---
+id: 6c59c7e7-4187-51bc-b3bd-c71384139ca0
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Fifteen: Blood"
+slug: 0118-chapter-one-hundred-fifteen-blood
+partOf: flesh-eater-demon-evolution-litrpg
+position: 118
+ownLength: 2363
+unit: words
+publishedAt: 2026-08-08
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3785351/chapter-one-hundred-fifteen-blood"
+royalRoadId: "3785351"
+---
+
+Pyre kept her expression neutral, aware that any reaction would probably be perceived as a threat in the siren’s hyper-vigilant state. Through her thermal vision eye, she could see Callan and Daphne leaning closer against the door to listen in.
+
+Llyr’s brows were still furrowed, eyes fixed on the floor as he seemingly sorted through his memories. The demon noted him very deliberately taking a few measured breaths, probably in an attempt to clear his head. They seemed somewhat effective, because after a brief pause, he continued.
+
+“Your theorizing wasn’t entirely wrong,” the siren said slowly. “I’ve encountered the group responsible before, most recently in Ilyra.”
+
+That confirmed that it was indeed a “group,” then. She’d already suspected that to be the case after the tattooed guy’s mention of “others,” but she hadn’t thought the group spanned multiple countries. This whole situation might be a lot bigger than she’d expected.
+
+“Disappearances, drained bodies, lost ichor in the surrounding area,” Llyr murmured half to himself. “It wasn’t to this scale, but the pattern is the same.”
+
+“So? What ended up happening to the group in Ilyra?” Pyre asked.
+
+“I dealt with them.” The healer’s voice was cold. He smiled with no humor. “A few escaped. I imagine they regrouped with others in their ilk.”
+
+Perhaps the blase attitude around violence should’ve felt like a surprise, but at this point it was already clear that Llyr wasn’t exactly a “normal” healer. Their fight had been proof enough of that.
+
+The demon mentally noted this information down. This was increasingly starting to sound like some kind of weird, multi-national cult. The disappearances alone wouldn’t have pointed her in that direction, but blood-draining and, apparently, ichor-draining (of course it was connected) added a new layer to everything. This group had clearly been operating for some time now, and somehow, she—or at least one of her soul pieces—was involved.
+
+“Any idea what they’re trying to do?” A motive of some kind would make it significantly easier both to track them down and to figure out what was going on with her soul piece.
+
+Llyr’s lips thinned, and he shook his head. “I believe it involves the ancient titans, but that’s all.”
+
+Pyre’s eyes narrowed at that. If that was the case, then maybe her past incarnation had been directly involved somehow. Maybe they even had some idea of what her soul fragment actually was, besides a strange magic-amplifier.
+
+“Okay, so you killed the group in Ilyra—or most of them, anyway. Then you moved to Serindell only to find them here, too. But Ilyra wasn’t the first time you ran into them.”
+
+Llyr’s jaw clenched. Pyre waited, half expecting him to go on the defensive again, but the siren closed his eyes and took a deep breath. When he opened them again, they still gleamed with an old, simmering emotion, but it was more controlled than the almost wild look from earlier.
+
+“No,” he said slowly. “I had… encountered them before that, but I didn’t realize they were the same group as the one in Ilyra at first.”
+
+Pyre raised an eyebrow. “Why not?”
+
+“They were much smaller back then,” Llyr muttered. “I hadn’t realized they were part of a larger organized group to begin with, until seeing them in Ilyra.”
+
+The demon hummed, considering this. “How long ago? And where?” The questions were both meant to learn more about this weird cult or whatever and also to see if she could figure out more about Llyr’s past life.
+
+Based on what Callan had told her about reincarnators, she guessed that Llyr’s past life had been from this world and not Earth, unless he had also been reborn multiple times. None of his behavior or reactions thus far had seemed to indicate that, though, so she was operating on the assumption that he remembered one past life in this world.
+
+What she didn’t know was how much of a time gap there was between Llyr’s last incarnation and his current one. It didn’t sound especially long right now, unless this group had been around for longer than she’d thought, which would be yet another point of peculiarity for her own reincarnation. If her hunch was right and her past self had actually lived during the time of the titans, then that was at least a thousand years ago, if not more.
+
+Llyr’s eyes briefly darted to the closed door, where Daphne and Callan were still listening beyond. Now that he’d calmed down a bit from before, he seemed a lot more aware of his surroundings. Pyre could practically hear him mentally debating how much to reveal. His lips thinned.
+
+“It was in Ithren,” the healer finally said. Pyre raised an eyebrow.
+
+“I don’t remember seeing that on the map.”
+
+Llyr’s lips twitched into something that was almost a smile before the weight of the situation pushed it back down. He adjusted his position, and Pyre leaned back to give him more space now that it was clear he had no intention of running or attacking. Beyond the door, she could see Callan and Daphne shifting as they presumably recognized the location.
+
+“It’s part of the Solis Alliance, now. It was a small country located on the peninsula between the Emerald Sea and the Singing Sea,” he explained.
+
+Those names sounded more familiar. That would place Ithren to the west of the Spine, beyond Pereth. The question, then, was how recently it had been absorbed into the alliance.
+
+Llyr seemed to sense the demon’s upcoming inquiry, because he continued. “Ithren was absorbed into Solis a few years ago.” His voice slowed in a way that seemed very deliberately measured, like he was forcing himself to keep it even. “I… died during the change in regime. I awoke a few months after. I’d first encountered the group about a decade before that, but they could’ve existed long before in a smaller state.”
+
+Pyre’s mind latched onto a few different things. One, the group had existed for a while, but apparently in a limited capacity. Assuming she was correct about it being some kind of cult, that meant it had gained followers over time—possibly rapidly in recent years.
+
+Two, assuming Llyr was what a “normal” reincarnator was usually like, this meant the gap between her own incarnations was way beyond the typical timeframe. It sounded like he’d been reincarnated extremely close to the time of his death, which was not at all the case for her, if her titan theory was right.
+
+“Can I ask what the group was doing back then, or are you going to freak out again?” Pyre said.
+
+Llyr huffed, but his brows furrowed in contemplation as his gaze moved back down to the floor and to his severed legs. They weren’t bleeding and Pyre thought she could see the signs of regeneration beginning, but it was noticeably far slower than anything during the fight. A normal human would’ve already died a while ago.
+
+“…I’m not entirely sure,” Llyr finally said, voice slow. One hand moved unconsciously to his other wrist, finger rubbing over hidden veins. “They primarily drew blood and conducted a few other… experiments.” The healer’s fingers tightened around his wrist until the surrounding skin turned white. “I wasn’t exactly in a position to know what their purpose was. Perhaps one of the others who saw them more often would’ve known.”
+
+“Others.” It was a remarkably vague term. Llyr was clearly still dancing around his past, but Pyre wasn’t going to push, lest he get spooked again. The exact details weren’t her business, unless they were directly related to knowing more about this group. It did sound like blood was the uniting factor across all of the possible cult’s appearances, and maybe ichor as well. Were they doing blood rituals or some shit?
+
+“Alright, what about what’s going on now?” Pyre jerked her head out the window, where the Serin Sea continued to ebb and flow peacefully, completely detached from the now half-destroyed mansion. In the distance, Serindell and the angel titan’s silhouette could be seen looming. “You say you’ve been studying those bodies. You figure out those guys’ hideout or something?”
+
+Llyr’s eyes sharpened, the haze from before disappearing now that they’d moved on from talk of the past. He shook his head. “I haven’t found an exact location,” he murmured. “However, I suspect they’re working closely with parts of the nobility. They did so in Ilyra as well.” His voice lowered. “And in Ithren.”
+
+That tied the dead tattooed guy and suspicious nobles in to the situation, then. Well, it was nice to hear their previous suspicions confirmed. Pyre’s mind wandered to Lord Alardice again and their last meeting. Despite occurring the previous night, it felt like ages had passed since then.
+
+The demon was about to continue her questioning when she noticed Llyr slump forward slightly, only to quickly right himself again. She paused. The siren seemed to be actively fighting to keep himself conscious now that the adrenaline from the fight had worn off and he was no longer on as high alert around her—though the wariness never fully vanished.
+
+Outside the door, Pyre could see Callan and Daphne shuffling around, likely growing antsy. It was probably nearing the ten minute mark she’d given them, and while she didn’t think Daphne would actually immediately blow up the room, she also didn’t think she’d get much more out of Llyr right now. Not in his exhausted state, at least.
+
+After some consideration, Pyre rose to her feet, straightening back to her full height. Llyr watched her warily, but he didn’t move from the floor.
+
+“Alright, I think that’s enough for now.” She cocked her head and nodded at the healer’s legs. “You need water to regenerate, right? Or is sleeping it off enough?”
+
+Llyr blinked in surprise. “You’re going to let me heal?”
+
+Pyre raised an eyebrow. “You dying would defeat the purpose of keeping you alive in the first place.” She grinned. “If you want a rematch, I don’t mind.” She already knew what his weakness was, was the unspoken part. Winning again would be far easier than the first time.
+
+Llyr didn’t look too pleased at the reminder that he’d lost their fight, but he also wasn’t as immediately defensive as he would’ve been just minutes before this. He nodded slowly.
+
+“In that case, a bit of sleep will be enough.”
+
+“In a bed? Hate to break it to you, but your room might be destroyed.”
+
+Llyr smiled wryly at that. “I typically sleep in a filled tub or basin. The water will speed up my healing.”
+
+Pyre snorted in amusement. “Damn, you really are a fish.” She had to wonder if it wouldn’t be better for him to just sleep directly in the ocean, but she supposed there was far more risk of being seen by some random passerby that way.
+
+The demon stepped forward and bent down. Llyr immediately stiffened at the movement, but she just raised an eyebrow and looked pointedly down at his current lack of legs. His lips thinned, but he nodded slowly, giving silent agreement. If he wanted to be able to heal, there weren’t a lot of other options.
+
+It required no effort for Pyre to scoop the siren up, though he remained tense the whole time. She turned and strode over to the door, kicking it open with her foot.
+
+Someone yelped, and Callan and Daphne both scrambled away from the doorway as she stepped through. Callan hadn’t actually needed to, considering he was an incorporeal ghost, but it looked like both of them were more preoccupied with appearing like they hadn’t been eavesdropping. They’d definitely heard everything.
+
+Daphne’s eyes immediately landed on Llyr, darting between the tense siren and Pyre’s comparatively casual demeanor. They probably made for a sight—two monsters covered in dried blood, one missing his legs and the other still half fleshwarped.
+
+“Is everything…?” Daphne began, voice trailing off as she tried to think of a more suitable word than “okay.” That wasn’t what she was really asking, anyway.
+
+“I’m dropping the doc off to heal before he dies,” Pyre said simply in lieu of a more thorough explanation. She strode forward, stepping around some rubble remaining from their fight. The whole mansion looked like a storm had passed through, the floor littered with debris and walls cracked and splintered. In some ways, she supposed one had.
+
+Callan and Daphne exchanged looks. Neither one looked particularly happy with the situation, but they ended up hurrying behind Pyre.
+
+After some maneuvering around puddles and rubble, the group made it back down to the first floor washroom, where a large tub sat already filled with water, presumably from the sea. This area hadn’t been touched by their fight, so it was still fully intact.
+
+Pyre was about to ask if she was supposed to just drop Llyr in, but when she looked down, the healer’s eyes were closed. At some point during the descent down the stairs, it seemed he’d fallen unconscious, exhaustion finally winning out.
+
+After some consideration, the demon elected to just lower him straight into the water. If he was a siren, then he shouldn’t have any problem breathing down there anyway.
+
+The lack of immediate struggle or response was probably a good sign. Pyre stepped back. Llyr now lay submerged below the waterline, dark hair strands floating on the surface like kelp or seaweed. Some of the blood from their fight was already washing off and beginning to stain the waters.
+
+The siren looked peaceful like this. Serene, even. Not unlike the saintly image he’d projected before today. Pyre could see a very faint glow around his body, so she assumed the healing was working.
+
+Satisfied, the demon turned around, only to come face to face with Daphne waiting by the doorway. Behind her, Callan floated nervously.
+
+The noble’s eyes were fixed on Llyr’s unconscious form, and they now moved up to meet Pyre’s gaze. The air was tense. Neither she nor Callan needed to say anything, the obvious question lingering over them all now that Llyr was temporarily indisposed.
+
+Where were they supposed to go from here?

@@ -1,0 +1,89 @@
+---
+id: 9f42bac6-a83e-5109-9576-aefa22862a91
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 5"
+slug: 0013-threads-chapter-5
+partOf: forge-of-destiny
+position: 13
+ownLength: 2023
+unit: words
+publishedAt: 2020-11-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/578382/threads-chapter-5"
+royalRoadId: "578382"
+---
+
+“It would be foolish to insult the devotion of the Black Viper with less,” Bai Meizhen said. “Regardless, allow me to make the full introduction. Bai Xiao Fen, this is Ling Qi. She is my best friend. I would like you to treat her with utmost respect.”
+
+Ling Qi froze at that blunt declaration, and across from her, the younger girl did the same. “Ah, Meizhen, are you sure…?”
+
+“Xiao Fen can be trusted,” Bai Meizhen said with finality. “Though we are both younger than usual for this pairing.”
+
+Uncertainty still roiled under the surface of Xiao Fen’s expression, even as she drew herself up. “Of course. I would not reveal my cousin’s… business,” she replied with affront.
+
+“I will trust your judgement,” Ling Qi said slowly. There was a backstory here, but this wasn’t the time for it. “In that case, allow me to repeat myself. I am glad to meet you, Xiao Fen. It’s good that Meizhen has someone else she can trust.”
+
+The girl twitched again when she used Meizhen’s name with such familiarity, but nonetheless, it didn’t reach her voice. “It is good that my cousin has dependable allies,” she said a touch woodenly. “Cousin, the business you mentioned,” she added desperately.
+
+<Man, she’s kinda thrashing to stay above water there, isn’t she?> Sixiang mused. Ling Qi had to agree. The younger Bai was clearly very uncomfortable with the direction the conversation had taken.
+
+“Ah yes,” Bai Meizhen said, giving the younger girl a look that told Ling Qi she was aware of Xiao Fen’s flailing as well. “In the future, once the initial truce has ended, Xiao Fen will be placing tutoring requests. I would like you to answer those, Qi.”
+
+There was that twitch again. She was beginning to worry after Xiao Fen’s health. “I do not mind,” Ling Qi began in confusion, “but I am not certain how helpful I could be to someone of the Bai clans.” She paused. “Ah. This is about Gan Guangli, isn’t it?” Ling Qi asked.
+
+“As a matter of furthering our alliance against the vile Sun,” Xiao Fen replied, seeming to regain a bit of her balance, “my Cousin has asked that I align myself with his block when the time comes.”
+
+“And us meeting during tutoring is a deniable way to pass information around,” Ling Qi thought aloud. She took another look at the dark haired girl. Xiao Fen’s aura was steeped in darkness around a core of cold fire. Yeah, it would be believable on a surface level that the tutoring would be legitimate.
+
+“Among other things. I trust that you will convey my intentions to your lady?” Bai Meizhen asked.
+
+Ling Qi nodded. Sun Liling was a spiteful girl, and she had no doubt that the Outer Sect would continue to see meddling this year. “I look forward to working with you then,” she said, turning her gaze back to Xiao Fen.
+
+“I will be in your care,” Xiao Fen replied. If the younger Bai had been less self-controlled, Ling Qi thought she would have grimaced. “Do you have any advice for success in this… Sect?”
+
+Ling Qi thought back over the previous year and everything that had happened. “Find some people you can trust, and stick with them.”
+
+“Quite,” Bai Meizhen agreed. “Unprecedented situations sometimes call for unprecedented solutions. Heed her, Xiao Fen.”
+
+The younger girl glanced uneasily between them, and they fell silent as they felt the approach of the server, coming with their drinks. It was strange, Ling Qi thought as she accepted the cup of rich cider. She had turned her friend into quite the radical by the standards of the Bai.
+
+<I’m so proud of you,> Sixiang laughed.
+
+Conversation turned to lesser subjects, discussing their cultivation plans in the immediate future and trading commentary on the lessons given thus far. It was she and Bai Meizhen who carried most of the dialogue. Xiao Fen spent most of the rest of the meeting observing them both with a hooded gaze as if she weren’t quite sure what to make of what she was seeing.
+
+They parted ways after another hour or so, and Ling Qi turned her thoughts back to cultivation.
+
+***
+
+Cultivation consumed Ling Qi in the weeks that followed. This first month was peaceful as no rank challenges to the new Inner Sect disciples were allowed, and with the majority of her social obligations settled for the moment, Ling Qi took advantage to steadily work her way towards Appraisal, the second stage in the third realm, and to cultivate her personal cultivation art, Eight Phase Ceremony. Ling Qi achieved the sixth phase of it, consolidating the boons granted by her second moon patron, Hidden Moon.
+
+That was not to say that she forgot her upcoming social obligations. During her spiritual meditations, she brought her mind back to the hazy memories of the moon revel and the feeling of being on stage, performing her music for so many. She had to be ready to fulfill her duties at Cai’s upcoming party, and with Sixiang’s occasional murmurs of advice, she found herself gradually growing more confident in her ability to impress her liege’s guests.
+
+Sadly, she could not spend all of her time cultivating. While she was content with her current contribution points for the moment, the more expendable Sect points in her possession were not something she had in great supply. If she wanted access to the Sect’s best medicines, tutors, and other resources, she would have to pay for them, and so, Ling Qi found herself taking errands, mostly those that involved stealing into a beast’s or spirit’s dwellings and acquiring reagents without doing any harm.
+
+It was relaxing in its own way, and with every carefully arranged acquisition, she felt her understanding of the Grinning Moon’s lessons sharpening. The joy of the acquisition was a goal in and of itself. Freed of the desperation of her youth, Ling Qi could enjoy the simple rush that came from sneaking into places she was not meant to be.
+
+In her free moments, Ling Qi cultivated the Argent Genesis art she had been given, and it came easily to her. Where the first Argent cultivation art had prepared the body for the strain of early breakthroughs, the Argent Genesis cultivation art was focused upon building a foundation for the third realm, including a strong domain. Its first level was a preparatory step in that direction.
+
+For Ling Qi, the thing that felt like the greatest drain on her time was her time searching the archive. The Inner Sect archive, at least the part she had access to, was a sprawling complex with many wings, each one filled to the brim with scrolls, jade slips, and books. There was some arcane method of organization to the thing, fiendishly complex in execution.
+
+In fact, her first day’s task was just to decipher that organization. The Sect officials presiding over the archive had been irritatingly unhelpful; apparently working out how to find anything in that mess was an unofficial test for new disciples. Still, after several hours of searching through whispering mazes and occasionally quelling a rowdy spirit or two, she finally found her way to the books which described the workings of domains and the modification of arts.
+
+The subject was far deeper than she had anticipated. Shelf upon towering shelf was dedicated to the minutiae of art development, and there were entire texts full of dense diagrams and equations regarding qi flows and pulses, half of which didn’t even seem to be written in any Imperial dialect she knew. Eventually, she managed to find more friendly texts, by which she meant books that didn’t try to bite her with fangs made of mathematical symbols.
+
+With those in hand, and the most recalcitrant tomes turned over to archive attendants for quelling, Ling Qi was finally able to begin her study properly. She needed to be at the third step of the green realm to make any progress in art alteration; it simply wasn’t possible to pick out the individual fluctuations in an art’s pattern well enough to make changes before then.
+
+Each element and concept of an art was a component to its function. They were like the tiny gears in a clockmaker’s construction. The trick was to change the pattern and arrangement of the many components without causing the whole thing to break. The first step was to recognize the exact arrangements and movements of qi that represented the different components.
+
+It was a meticulous and time-consuming process, and it had uncertain results at low levels of cultivation, but Ling Qi thought there was merit to doing so. However masterful the moon arts were, they were not a complete art suite. Inevitably, she would still have to rely upon the Sect’s archive arts to fill in any gaps in capability, and it was unlikely that such arts would map directly to her style or needs. Art modification could potentially allow her to mold the archive arts to better suit her.
+
+With that understanding, Ling Qi was able to move on to her secondary objective. Now that the tournament was over, she could clear out arts in her repertoire which were growing outdated or didn’t fit her style. This included the Zephyr’s Breath art, the Argent arts, aside from the cultivation art, and the Abyssal Exhalation art. She was going to seek out arts from the Archive to replace those and to bolster her art suite with capabilities that she now had a need for.
+
+While searching the archive’s library of arts, Ling Qi had come to realize that Imperial cultivators ran arts to socially perceive connections and bonds between others, just as a cultivator would perceive connections between opponents in battle. Arts like Covetous Wraith’s Yearning, which sought insight from spirits of darkness that clung to existence under the rays of the morning sun, enabled a cultivator to understand the desires and bonds between those in their sight in both the battle and social arena and to influence that desire if they wished. It was interesting, but the art appeared too similar to Lonely Winter Maiden, that art Zeqing had warned her off of for fear of contamination. Besides, while Ling Qi would not forget her roots, she had also seen the dangers of acting too greedily in relationships with her friends.
+
+Ling Qi also came across some arts that would help bolster her stealth in combat. Of these, she was most taken by the Ephemeral Night’s Memory art, which was inspired by the passing fancies dreamt of in the late hours of the day. The art appeared to sever memory so that even important details, such as the cultivator’s presence, could slip from the opponent’s mind. Ling Qi had used Sable Crescent Step as her stealth art previously, but more and more, it functioned as her combat dodge art, and moreover, it had no techniques to reestablish stealth once she broke out of it to engage in combat.
+
+Another art that caught her eye was Curious Diviner’s Eye. Apparently intended as a foundation art for divining, it was an art clearly influenced by the seeking nature of the Hidden Moon and a descendant of the arts of the Great Horned Sages. And since the Weilu had fallen, the arts of the Great Diviner had spread far and wide so Curious Diviner’s Eye was likely to have multiple successor arts.
+
+The last of the arts that attracted her attention was Harmony of the Dancing Winds. This musical art, inspired by the complex dance of winds that brought weather and seasons, taught its cultivator how to see and pluck at the lesser patterns and connections in the world, revealing the web which connected all things.
+
+Ling Qi picked up jade slip copies of the Ephemeral Night’s Memory, Curious Diviner’s Eye, and Harmony of the Dancing Winds arts. While she didn’t have time yet to cultivate them, perhaps she could in future months. All in all, Ling Qi was quite happy with the Sect’s archives, coming away with three potential arts to introduce into her repertoire.

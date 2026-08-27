@@ -1,0 +1,83 @@
+---
+id: b4b682f5-9f3f-5c17-98db-f417a9982e8b
+page-type-slug: story-chapter-royal-road
+title: "109. Break Out"
+slug: 0109-109-break-out
+partOf: god-of-trash
+position: 109
+ownLength: 2345
+unit: words
+publishedAt: 2025-06-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2380031/109-break-out"
+royalRoadId: "2380031"
+---
+
+Tall stone walls blocked their path, with mages mounted atop them pointing powerful spells their direction. At the far end of the prison compound, double doors led out into the world beyond. Rhys led the charge, fending off the long-range blasts of magic wherever he could, and dodging them where he couldn’t. The other re-cored mages joined him in defending the coreless, and swords flashed as they parried bright bolts of light. A few more guards reluctantly charged them, uninterested in losing their lives meaninglessly to prevent a few prisoners from escaping, but unable to defy orders. Rhys cut down them down, one and all. All of them had participated in the horrors within the mines. Not a single one of them deserved to live.
+
+A scream split the air behind him as one of the mages fell, dropped by a bolt from on high. There was no saving him; there was a hole where his heart had been. Gesturing for the others to keep running, Rhys doubled back and rested his hand on the man’s body and pulled out the impurities and filth within him, compressing them into a single knife. A bolt of magic closed in on him as his killer loosed another round. Rhys sidestepped, then flung the knife, using Trash Manipulation to send it far further than it should have been able to fly. It whistled through the air and stuck into the mage’s neck. If the blow didn’t kill him, the impurities would. Rhys whirled and ran on.
+
+As much as he would have liked to end every mage in the prison, they were on a timer. The sirens echoed in the clear air, calling for reinforcements, and already, faraway ships in the distant skies turned their noses toward the mines. Rhys rejoined the other prisoners at the door, where they slammed against it with no avail.
+
+“What’s going on?” he asked.
+
+Korii saluted—an unnecessary gesture, but there was no time to correct her now. “Sir, the gate is sealed. We can’t get past.”
+
+“Sealed?” Rhys put his hand on the double doors. A pulse of magic responded to him, the doors absolutely shimmering with energy. The magic was pure, incredibly so, and it allowed nothing within or past it. It was an absolute seal, locking them shut.
+
+Bolts rained down on them. The cored mages formed up, batting them back with sword flourishes and mana blasts of their own. They could hold for now, but they couldn’t hold forever, even without the Empire’s ships ever drawing nearer.
+
+Rhys looked back across the prison yard, at the Warden’s body. If anyone had the key, it would be him. But there was an entire field of mages throwing magic spells between him and the body. Fire sizzled down into the earth, and opposite it, bolt of acid spluttered on the ground where a mage deflected it. With the group, he’d had cover, and the mages had been forced to spread their targets. Alone? Alone, he wasn’t so sure.
+
+“Everyone, give me your impurities,” Rhys requested, holding out his hand. A few mages hesitated, but others reached out immediately. Every time a hand touched his, he absorbed all the impurities in their body. A few people screamed or pulled away, but they always put their hand right back in his.
+
+One after another, he formed black knives formed from impurities. He counted along the wall. Five, ten, fifteen… sixteen dull knives sat in his hand. He stepped forward, breaking through the defensive line, and held his hand aloft.
+
+“Sir—”
+
+The first two knives flew, slamming into the mages on the wall. They stumbled and fell, clutching their throats. He walked forward evenly, sending out the knives as he walked two at a time. Some tried to dodge; he simply waited, using Trash Manipulation to seek them out until his knife finally found their skin. Others tried to parry, only to find that knives were only a convenient form, as the impurities decoagulated into a filthy liquid and reformed on the other side of their blade or shield. One after another, the mages hit the floor, and the bolts flying from the walls decreased one after another until no one fired any more magic.
+
+“Huh. I guess I did have the time,” Rhys muttered to himself. He knelt by the Warden’s body and quickly searched it for a signature matching the wall. A small bejeweled disc dangling from his belt caught his eye, and he yanked it free, taking the man’s belt with him while he was at it. No one had taken his sword, but it looked valuable to Rhys.
+
+He sprinted back across the field and handed the Warden’s belt and sword to a stunned Korii. Smiling, he held up the disc. “Here, let’s see if this works.”
+
+He pressed it against the door, and the seal shimmered away to nothing. The mages pushed, and the doors swung open to reveal two startled, pale door guards. They had enough time to draw their weapons before the prisoners ended their miserable lives.
+
+Rhys glanced backward, sighing. It was a pity about those impurities, but he really had no time to run along the wall and collect them. Instead, he absorbed the door guards’ impurities, then gestured to the group. “Come on. We need to get some distance between us and the prison before reinforcements come.”
+
+Korii and the others nodded, and they walked out of the compound and into the forest. For the first time in ages, they were free. Free, and surrounded by lush greenery, the chirping of birds, the warmth of sunlight, a thousand tiny things Rhys had forgotten he’d missed, down in the mines. He took a deep breath, letting it all wash over him, and felt mana flow into his lungs alongside clean air. He was free.
+
+Free, but not for long if he dawdled here. He led the others away, heading out into the trees. With his mage senses, Rhys could hear civilization nearby, but that was all the more information he had. He’d passed out after they’d removed his core, and come to in the mines. He had no idea where they were; they could be in the Empire, or just outside Purple Dawn Academy, and it would be all the same to him. Ultimately, it didn’t matter. Either way, his goal was the same, and his location only changed his starting gambit, but not his plan.
+
+Once they were far enough from the prison, he turned and addressed the prisoners. “If you want to live a peaceful life, leave now. No one will hold anything against you. I will not give you a core, because giving you a core within the Empire is the same as putting you back into a camp, but when all is said and done, if I still survive, I will make every effort to heal you, but it will have to wait until the Empire is undone.
+
+“If you wish to fight, then come with me. I cannot guarantee you will survive, but I can guarantee that it will not be easy, and that the path ahead of us is painful. Still, no matter what, I intend to overthrow this tyrannical Empire, or at least push it back, out of our lands. I ask that you make your choice now. Either way, I cannot guarantee your safety, but if I let you leave here with no core and knowledge of where we who oppose the Empire intend to go, then that is the same as handing the Empire our location. I’m sure you understand.”
+
+The prisoners looked amongst themselves. They considered, some talking to one another. A few turned and directly walked away, either defeated and dark-eyed, or holding the hand of another mage—those with nothing left to give, or with something left to lose. In the end, about twelve remained, less than half of those who had followed them out. Of the original ten, only eight had survived their escape. Four others had stepped forward from the rest of the prisoners, those who had battlescars and the will to fight burning in their eyes, or a dark, fathomless vengeance reeking from their every move.
+
+Rhys nodded in approval. “Welcome. Our counter-attack begins now. Once we’re somewhere safe, I’ll see to it that everyone I can give a core to, receives a core, but for now, we need to keep moving.”
+
+Based on the number of guards he’d absorbed, he should be able to give cores to most of them, but who knew? Maybe there would be more guards along the way. He led them toward the sounds of civilization, sure of two things: one, that it was easier to hide a needle in a haystack than on bare ground, and two… that civilization always, always, always generated garbage. Human garbage, garbage garbage, wastewater, filth, grunge, and all kinds of worthless shit that Rhys couldn’t wait to get his hands on.
+
+He looked into the space where his core had been. He was able to hold a startling amount of energy, now that he didn’t have a core. He’d absorbed all the energies of several Tier 3 guards and the Tier 4 Warden, and he barely felt half-full. It was as though, without a core, there was no limit to the energy he could hold. As if there was some kind of hole not just in his body or his metaphysical mana system, but deeper, all the way through reality, that gave him access to some kind of near-limitless storage space.
+
+The trash star floated in darkness, in the void where his core had been. At first, it seemed to stand in space about as large as his core had been, but the longer he stared, the more he saw, like gazing up into the starry sky at night. There was a darkness inside him, an emptiness where his core had been, deep and impenetrable. The closer he looked, though, the more he found boundaries. The ragged edges where his core had been. The walls of his body, or at least, the space in which his core rested. He circled the trash star, keeping his back to the burning lump and his eyes on the walls of his old core.
+
+At the very back, there was a place where there was nothing but shadow. He peered into it, and only found more shadow. Darkness stretched in all directions, infinitely deep. It was still within the confines of his core, and yet not, a hole that was a hole and wasn’t a hole. It had limits, and yet, the further he peered inside, the more that opened up before him. It was a limitless space within a limited space. Impossible. Completely trash physics. Nonetheless, here it was, this gaping, endless, non-place.
+
+The longer he stared into it, the darker it grew, until he turned back and could barely see the light of the trash star in the distance. Startled, Rhys turned around and focused on the trash star, flying toward it.
+
+Something moved in the darkness, something hungry, something that had laid in wait for far too long. A shapeless shape reached for him, something he couldn’t define and yet had to define, something close to madness, and he felt the near-brush of it eroding his mind. A world-devouring force closed in around him, so vast that he was naught in its wake, not even a nematode, merely a dust mite, and it was pinching him to death with the tiniest effort it could exert. Faster, faster, with the trash star as his anchor, hurtling toward it, while that thing chased him—was in front of him—wrapped around him—was within him—
+
+The heat and the light of the trash star blossomed before him, and Rhys heaved a sigh. He no longer felt the presence. Once more, there was nothing but his familiar trash star, and the usual wreckage where his core had been, and the darkness nothing more than an odd shadow in the space.
+
+Well, that’s horrifying, Rhys thought, raising his brow. Was that something that happened whenever the Empress removed cores? Or had he just ‘gotten lucky?’ He snorted. With his trash luck, who could tell? He was just the kind of guy to pull the same trash unit from a gacha fifty times in a row, in a feat statistically less probable than pulling the focus unit, the actual desirable one—that was how bad his luck had been back home. Here, things had been looking up… but who knew? Maybe his bad luck had merely been waiting, hanging in the wings for the ideal opportunity.
+
+Still, the thing, whatever it was, seemed to have no interest in the energy he could store out there, so there was no reason not to use it. Sure, he shouldn’t go in there, and he wouldn’t, but he would be a better man than he was if he decided not to use whatever advantage came his way, no matter how garbage that advantage was, or what side effects it inflicted on the world around him. Until he’d extended his consciousness into that hole, nothing had bothered with it, and now that he’d removed his consciousness from it, nothing chased him out of it. It was either uninterested, or couldn’t be bothered.
+
+My intrusion is probably equivalent to when a fly gets in your house, Rhys decided, nodding. If the fly was inside, he’d swat it with all the effort in his body, but if it flew back outside of its own volition, live and let live. As long as it wasn’t annoying him, he was happy to let it be someone else’s problem.
+
+“Sir?” Korii asked, and Rhys startled back to reality. He looked down and found his hands pale and shaking, as if he’d just encountered death.
+
+Probably because I did, he thought, chuckling under his breath. He waved her on. “It’s nothing. Let’s press on. We should be there by evening, at this pace.”
+
+“Sir.” Expression resolute, Korii marched after him.

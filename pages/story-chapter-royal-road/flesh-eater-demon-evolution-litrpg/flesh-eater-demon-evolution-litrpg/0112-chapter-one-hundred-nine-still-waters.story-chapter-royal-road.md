@@ -1,0 +1,173 @@
+---
+id: b3006968-a297-5b11-99f8-92e0e97bb158
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Nine: Still Waters"
+slug: 0112-chapter-one-hundred-nine-still-waters
+partOf: flesh-eater-demon-evolution-litrpg
+position: 112
+ownLength: 2743
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3722864/chapter-one-hundred-nine-still-waters"
+royalRoadId: "3722864"
+---
+
+Testing Callan’s reaction to extraneous ichor ended up being incredibly uneventful compared to all the other stuff that had happened lately. Llyr re-activated the portals, then stepped up to one like Daphne had and cast a few spells while the ghost waited on the other side. They were able to quickly conclude that no, the extra ichor didn’t harm him, and him absorbing it meant there were no explosions to worry about.
+
+“Does draining this stuff feel any different?” Pyre had asked. She was genuinely curious. From what she’d seen, Callan could drain plants, animals, monsters, humans, pure ichor, and now magic-leftover ichor. Obviously it wasn’t quite the same as eating, but those things were different enough that she’d assume they’d feel at least a little distinct.
+
+The ghost, however, had just frowned. “Not really?” he said. He shifted. Now that Llyr knew he was a ghost, he’d started floating around the mansion, but he still made an effort to look solid instead of transparent. The demon couldn’t say why—frankly, this just made him look like an ordinary human who enjoyed hovering everywhere—but she wasn’t going to question the kid’s logic.
+
+“It all just kind of feels the same,” Callan had explained. He frowned. “I mean, I can tell how much energy I’m getting from something, but the energy itself doesn’t feel different, if that makes sense. Draining plants and—and people feels the same to me.” The ghost had looked disturbed at the thought.
+
+Once they’d established that Callan would be fine as the other “anchor point,” Llyr got to work preparing the final spell he would cast. Binding the portals to Daphne and Callan’s respective souls required a bit more preparation than summoning two stationary portals, and Callan was eager to help him prepare the glyph circle. Pyre hung back the whole while, watching the magic-users work while keeping an eye out the window in case anything happened.
+
+In the end, they were just wrapping up when the sun rose and Daphne’s footsteps sounded from above. Soon, the noble descended the stairs and stepped into the infirmary.
+
+Daphne didn’t look like she’d slept particularly well, but at the same time, she was thrumming with energy. Probably a mixture of nerves, anticipation, and excitement. She was practically vibrating in place, and her eyes kept darting everywhere.
+
+“Good morning,” Llyr greeted. He straightened from where he’d been crouched over the sigil to adjust one of the runes that was crooked. Pyre frankly saw no difference, but she figured when you were casting spells so close to the soul, this was the kind of insane precision you needed.
+
+“If you give me a moment, I can prepare some breakfast,” the healer said. Before he could move away, though, Daphne shook her head.
+
+“I appreciate it, but I don’t think I could stomach anything right now.” She smiled wryly. “I’d probably just throw it up during the spellcasting, and I don’t want to destroy your infirmary any more than I already have.”
+
+Llyr gave her a long look at that. Slowly, he nodded. “Alright,” he said. “I just need to look over everything again, then I can begin the spell if you and Callan are alright with it.”
+
+Daphne’s shoulders tensed, but she nodded, determined. In the morning light streaming through the window, her red hair looked like a burning fire. Callan nodded as well, every bit as uneasy, but it seemed more for the noble’s sake than his own.
+
+From what Pyre understood based on the last few hours of discussion, the spell would be much more dangerous for Daphne than for the ghost. Daphne’s portal had to be placed as close to her soul as possible, or the excess ichor wouldn’t be pulled through properly. Callan’s portal, on the other hand, had a lot more leeway since he could drain ichor from a distance. As a result, if the spell went wrong, Daphne would most likely be the one affected.
+
+“You know, it’s kind of funny,” the mage in question said. “I’ve been trying to find a cure my whole life, and it feels like I can’t even focus on it now because I’m too busy thinking about Lord Alardice and that tattooed man.” She shifted her weight, one hand squeezing the cloth of her shirt tightly. “It’s just… a lot to process.”
+
+“Hey, think of it this way,” Pyre drawled. “If the spell fucks up and you die, you won’t have to worry about any weird disappearances anymore.”
+
+Callan groaned and buried his face in his hands. “Not helpful,” he said, voice muffled. Daphne, on the other hand, snorted. She sent the demon a genuine smile.
+
+“I guess that’s true.”
+
+Llyr hummed. “Just so you’re aware,” he began slowly, “if you’ve changed your mind or would prefer we perform the spell later, I—”
+
+“Llyr, seriously, it’s fine,” Daphne interrupted. She exhaled. “I know what I’m getting into, and I’ve made my choice. I trust you. Putting this off won’t help at all.” She deliberately brightened her voice. “Let’s just get this over with. Then we can figure out what to do next.”
+
+The healer didn’t respond right away, simply studying the mage. Whatever he saw, he seemed satisfied with it, because he nodded. “Alright,” he said. “In that case, you and Callan are welcome to look over this sigil with me. Three heads are better than one, after all.”
+
+Before he was even done talking, Callan was already floating higher to get a better view of the glyphs. Daphne stepped forward as well, and the infirmary fell almost entirely silent as the three magic-users looked over the runes with sharp focus. Pyre stayed quiet, watching them from her seat on one of the cots.
+
+“We could perhaps use some more sea glass,” Llyr murmured. He was eyeing one of the many bowls containing spell components that had been laid around the rune circle. “This is probably enough, but it wouldn’t hurt to have extra just in case. I should have more in my storage room.”
+
+“I can get it!” Daphne practically leapt to her feet with far more eagerness than the task seemed to warrant. “I know where it is.”
+
+Pyre raised an eyebrow at that. “Damn, you and Callan really picked this place apart, huh?”
+
+“We had permission,” the noble said with a wave. She didn’t wait for anyone else to comment, instead immediately turning to leave the infirmary. The sound of her footsteps soon faded down the hallway.
+
+Pyre, Callan, and Llyr exchanged looks, the mage’s abrupt exit lingering in the air. In the end, Llyr just shook his head. “Let’s continue with our check,” he said.
+
+The moment Daphne’s shoes touched the second floor, she let out a long exhale. Her shoulders slumped, and she leaned back against the wall for support. Her heart had been racing nonstop all morning—really all night, to be accurate. She gritted her teeth.
+
+“Calm down,” she muttered to herself. The words unfortunately didn’t seem to do much.
+
+Daphne had never thought of herself as someone who was scared to die. Obviously she didn’t want to, and she’d done everything in her power to try and cure her ichor-poisoning, but she’d also viewed it with a sort of resigned inevitability. In hindsight, she might’ve only been able to do that because it was still too intangible to really grasp.
+
+Hearing Callan talk about his own death hadn’t been at all comforting, but she was able to process it with a detached sort of logic. Llyr telling her she had less than a year left to live was maybe the first time it had really, truly hit her just how close death was.
+
+And now, she was about to go back downstairs and participate in a spell that would either give her another decade of life or end everything right then and there.
+
+Daphne’s fingers clenched into a fist. Slowly, she pushed herself away from the wall and continued forward, forcing her steps to be even.
+
+She wasn’t backing out now, not after coming so far. She’d looked over those runes and helped develop the spell; she knew that it was as safe as a spell cast right beside the soul could realistically be.
+
+The mage counted her steps in her head as she made her way towards the magic component storage room she and Callan had found during their exploration of the mansion. It was located at the end of the second floor hallway, which gave her plenty of time to work up a steady rhythm.
+
+…twenty-one, twenty-two, twenty-three…
+
+The annoying thing about fear was that, even when her brain knew better, she couldn’t control the emotion. All she could do was push past it like she had during the empire’s invasion, when she’d been thrown at the sanctum and readying herself to fall. She’d had the adrenaline of battle on her side then, not to mention the comfort that her death would mean something. That her final actions would be important. Dying because of a failed spell operation was nothing by comparison.
+
+None of that, Daphne scolded herself, already feeling herself beginning to spiral again. She couldn’t let her brain go down that particular path.
+
+The mage soon reached the end of the hallway, and after taking another second to compose herself, she opened the door to the storage room.
+
+It was a bit chilly inside, but she was grateful for it now. The cold helped keep her grounded.
+
+She scanned the shelves. Llyr kept all of his magic components meticulously sorted and labeled, so it didn’t take long to find a glass jar with a tag reading “sea glass.”
+
+Daphne attempted to unscrew the lid, then realized her hands were shaking. She gritted her teeth in frustration and decided to just take the entire jar. She’d put it back if—when she came back.
+
+The mage stepped back into the hallway and shut the door behind her. Callan and Llyr were probably almost done checking the sigil downstairs, which meant once she returned to the infirmary, it would be time to begin.
+
+At least the two of them and Pyre would be there, Daphne thought. If the spell failed, at least she would be around people she knew and cared about. Her chest panged when she thought about Edmund and what would happen if he lost yet another family member, but she immediately squashed the fear and forced herself to focus again.
+
+Sea glass jar. Downstairs. Infirmary. You can do this. You blew up a sanctum and almost got run over by a wyvern. This is nothing.
+
+Steeling her shoulders, Daphne stepped forward—only to pause at the last second when a sudden sharp chill hit her.
+
+Frowning, the noble turned around. She stepped to the side slightly, and the blast of cool hit her arm again. It was far stronger than the chill in the storage room had been, and when she opened the door, everything inside looked the same as before. Daphne closed the storage door again and faced the rest of the floor.
+
+At the end of the hall sat a single room. She adjusted her position, and she could definitively confirm that the cold was coming from behind that closed door.
+
+Her brows furrowed. That was one of the locked storage rooms, if she remembered correctly, and it definitely hadn’t been this cold when she and Callan had been exploring. Had the temperature rune inside been messed with?
+
+Quickly thinking over the mansion’s layout, that room should be almost directly above the infirmary on the first floor. Maybe one of her many fire blast tests had affected it. Sudden heat from below could easily cause a chilling rune to malfunction.
+
+Daphne hesitated. Slowly, she reached for the doorknob and found it icy to the touch. She wiggled it a few times, but it was locked.
+
+She could go back downstairs and mention this to Llyr. He would know how to fix the temperature rune, and they could worry about it after the spell was complete. That would be the logical thing to do.
+
+And yet, as Daphne stared at that closed door, an uneasy feeling crawled up her spine. Maybe it was because she was still on high alert from the dinner with Lord Alardice, but her instincts were screaming at her that something was wrong.
+
+She eyed the room again. It was physically locked, and there was also a fairly complex ward placed on the door. It was nothing compared to the ward in the sanctum, though. She could easily burn through it.
+
+Daphne glanced behind her at the empty hallway, then faced the room again. The gut feeling grew worse. Her heart raced faster, but she took a deep breath. Her fingers squeezed tightly around the jar.
+
+Resolving herself, Daphne raised her hand.
+
+“It’s been a long time,” Callan muttered, glancing up at the infirmary clock. “Do you think she’s okay?”
+
+The ghost hadn’t stopped hover-pacing since Daphne had left and he and Llyr had finished looking over the spell. Normally Pyre would tell him to relax, but she figured if there was any time this sort of nervousness was appropriate, it was now.
+
+Llyr frowned. “It has been a while,” he agreed. “Maybe she’s having trouble finding the storage room.” The healer rose. “I can go check on her.”
+
+“You’d better not get lost too,” Pyre joked. The healer smiled.
+
+“I would certainly hope not,” he said.
+
+With a final nod at the two of them, he stepped out of the infirmary and made his way towards the second floor.
+
+It didn’t take long to break through the ward. Daphne was able to use a slow-burning spell that silently disintegrated the magic shielding the place. Once that was done, all she had to do was aim a small blast through the keyhole, and then she was able to turn the doorknob with a light click.
+
+The moment she opened the door, a blast of freezing air hit her full force. She winced and closed her eyes as the gusts whipped past her. Definitely some sort of chilling spell, she thought.
+
+Some of the initial wind died down after a few moments, leaving only the heavy cold. Daphne opened her eyes again and carefully stepped inside.
+
+It was pitch black inside the room. The light from the hallway illuminated only the entrance, the rest of the space cast in dark shadows and murky shapes. It seemed quite large from what Daphne could tell, and there were multiple tables and shelves set up, probably for storage.
+
+Muttering a chant under her breath, the mage snapped her fingers. A ball of fire crackled to life in her hand, and she raised it to illuminate the room.
+
+The moment the firelight lit up the space, she froze.
+
+There, lying on the ground near the back of the room, were bodies.
+
+Daphne immediately hurried forward, dropping the jar of sea glass in her rush. She crouched down beside the closest one, pouring a bit more ichor into the fire to make it brighter.
+
+They were human bodies—about six in total. All of them were laid flat on their backs, pale faces tilted up at the ceiling, eyes closed as though in sleep.
+
+They weren’t asleep, though. When she carefully touched one, the skin was ice-cold. There was no pulse.
+
+All of them were dead.
+
+By now, a hurricane of thoughts and emotions were racing through Daphne’s head, and her heart was beating so loudly that she swore she could hear it ringing in her ears.
+
+It wasn’t just that these dead bodies were lying in this locked room, stashed away and hidden from view. There was something else nagging at her mind. A feeling that she was missing something.
+
+She forced herself to look at the corpses’ faces more carefully, and that was when it hit her.
+
+She recognized them. They looked different in their dead, lifeless states, but they were faces she’d seen in the newspaper article.
+
+These were all people who’d disappeared.
+
+Footsteps sounded from behind, and Daphne immediately leapt to her feet. She spun around and raised her hand defensively, eyes narrowing as they landed on the figure who’d stepped into view.
+
+“You.” The word dripped with pure venom, her growing unease and horror twisting into something sharper and more focused. The flame in her hand grew brighter.
+
+Standing in the doorway, Llyr’s cold blue eyes stared back at her.

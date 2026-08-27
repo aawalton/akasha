@@ -1,0 +1,181 @@
+---
+id: 0f8606a5-b906-56c1-9f82-c3d936f2a428
+page-type-slug: story-chapter-royal-road
+title: "9 – Noob Party Antics"
+slug: 0009-9-noob-party-antics
+partOf: gamer-girl-evolution
+position: 9
+ownLength: 2235
+unit: words
+ownProgress: 2235
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620555/9-noob-party-antics"
+royalRoadId: "2620555"
+markedReadAt: "2026-06-29T20:05:52.743Z"
+---
+
+The plains outside the town were littered with the gelatinous corpses of slimes, which shimmered in the morning light like puddles of melted candles. Celica walked alongside her new… acquaintances? Party? She wasn't sure yet.
+
+Kellen stretched with a groan, sword balanced across his shoulders. "Seventy down, thirty to go. With you along, we'll definitely clear it today. How much do you have left?"
+
+Celica gave him a light smile. Or at least, she tried to. "Uh. Yeah. About that. I'm… already at ninety."
+
+Three heads swivelled toward her. Kellen's brows shot up. "Ninety? How the hell are you that far ahead?"
+
+Celica froze, words clogging her throat. She could practically hear the countdown to her exposure ticking in her skull. Before she could stammer out an excuse, Talia folded her arms and frowned at Kellen. "That's kind of a personal question, don't you think?" she said.
+
+Rhys chuckled, adjusting the dented shield strapped to his arm. "She's right, isn’t it a good thing a really good player joined us? And besides, you never grill me about my progress or level."
+
+"That's because you're always underleveled," Kellen shot back at Rhys. Then, he turned to Celica, "But seriously, ninety?"
+
+Celica scrambled. "I, uh—played a lot of MMOs before this one. Guess I've still got it, haha." Internally, Celica was cringing beyond belief. Still got it? Haha? Who the hell talks like that!?
+
+Talia smiled kindly, diffusing the tension. "See? Nothing weird about that." The conversation shifted, though Celica could feel the suspicion lingering in Kellen's eyes. She took the chance to slip into the fight, joining them against another cluster of slimes.
+
+She held back, swinging with just enough effort to look convincing while letting the others land most of the finishing blows. Still, every time Kellen missed a timing or Rhys's sword slipped, she’d manipulate aggro just enough to keep them alive.
+
+"Man, if Snapped Sword were here, we'd clear this in seconds," Kellen muttered between strikes. Celica's heart skipped a beat.
+
+Rhys groaned. "You never shut up about him."
+
+"Because he's my idol," Kellen said, slamming his blade down on a slime with a squelch. "I wish I was that good."
+
+Celica bit the inside of her cheek to keep from grinning. She could feel her lips tugging upward anyway, and when she looked up, Talia was watching her closely.
+
+"You… agree?" Talia asked gently.
+
+Celica forced herself to nod quickly. "Of course. I uh, admire Snapped Sword too... W-Who wouldn't?" She tried to inject just enough fan-like admiration into her tone.
+
+Kellen brightened. "See? Finally, someone who gets it!"
+
+Celica managed not to choke on her own laughter. Barely.
+
+Then Rhys piped up, lowering his voice like he was sharing forbidden knowledge. "Speaking of legends, I heard a rumour. People are saying there’s this shadow priestess in town. Goes by… Wisdom Hands."
+
+Celica almost choked for real that time. Talia perked up. "Oh, yeah. I heard that too. Supposedly she's been giving out buffs."
+
+Kellen snorted. "Fake. Sounds like one of those groundless rumours noobs pass around to kill time."
+
+Celica coughed into her fist, recovering fast. "What, uh—what kind of buffs?" she asked, forcing her voice to sound casual.
+
+"Hmm, what was it again? Like general agility and strength buffs I think," Talia said, thoughtful. "I heard she's some kind of event NPC. It’s a questline that'll return on the third floor."
+
+"A questline that’ll return in the third floor huh...” Celica murmured, beads of perspiration forming on her cheek. "The second floor… what do you guys think it'll be like?"
+
+That subtle change of subject sparked eager chatter. Kellen imagined dragons and Rhys guessed more goblins while Talia wondered about desert landscapes.
+
+Celica walked with them, a quiet smile tugging at her lips. Not only had she managed to keep her cover, she’d also managed to keep the conversation going naturally. For once, she wasn't the loner on the edge of the party. She was part of it, and inside, she felt strangely warm.
+
+After clearing the last of the slimes, Kellen wiped his blade on the grass and turned to Celica with an awkward grin.
+
+"So… uh, we should probably invite you to our party," he said, scratching the back of his head. "We, uh… should've done it earlier. Totally our bad."
+
+Celica raised an eyebrow. "You should've?" she echoed, feigning mild surprise. I had a feeling, so these noobs don’t even know how to add someone to their party...
+
+Talia tilted her head, smiling. "Sorry about that Celica."
+
+Rhys shrugged. "Better late than never."
+
+Celica's heart skipped when the party prompt flickered before her eyes: a small, semi-transparent window asking her to display her level and gear. Panic surged. The last thing she wanted was to reveal her maxed-out level. A single glance at those stats, and the group would immediately connect her to Snapped Sword.
+
+She clicked "Hide Level and Gear." The system blinked in acknowledgment.
+
+Kellen's mouth fell open. "Wait. What kind of newbie hides their level?"
+
+Before he could launch into a lecture, Talia raised a hand and shot him a playful scolding glance. "Kellen, give her a break. Everyone's got their reasons. Maybe she just isn't ready to share yet."
+
+Celica scrambled for words, her fingers tightening around the straps of her sword. "I—I don't feel secure about it yet… I'd rather not show it." The lie hung in the air, half-truthful, carefully balanced between secrecy and plausibility.
+
+The group exchanged looks, shrugged, and accepted it. Kellen muttered something under his breath, but Talia's eyes met his and he didn't press further.
+
+Celica let out a small breath she didn't realize she'd been holding. Inside, a quiet marvel bloomed. For once, she was trusted without anyone seeing proof. She kept her gaze fixed ahead, walking with them toward the next area, thoughts buzzing.
+
+So this is what it feels like to be accepted with almost no suspicion... A part of her wondered how long trusting people would last. In a world where levels and gear literally dictated survival, sometimes, hiding your cards was the smartest way to survive.
+
+She caught a glimpse of Kellen arguing over which path to take, Rhys complaining about slow potion regeneration, and Talia laughing at both of them. Of course, Celica was laughing with Talia.
+
+For the first time in a long while, Celica felt like she belonged—if only for this small, fragile moment. Before they knew it, they’d completed the main quest together and had begun to venture deeper.
+
+The group entered the Goblin Forest, and the difference hit them instantly. The air was thick with the scent of damp earth. Trees loomed overhead, their shadows perfect for ambushes.
+
+"Careful everyone, I don’t think these are slimes," Kellen muttered, scanning the foliage. "These things move… smarter."
+
+Celica nodded silently, eyes narrowing as she observed goblins leaping around the trees. Unlike the slimes, these were very fast, coordinated.
+
+A trio of goblins dropped from the trees in a well-timed ambush. Panic erupted. Rhys swung his longsword and shouted, trying to taunt them, but one goblin sidestepped and sent him flying straight into a bush.
+
+Kellen took off next, his sword swinging wildly, only to find himself cornered. Celica reacted instinctively, cutting the goblin down before it could land a vital blow on Kellen. "That was a close one." she muttered casually, keeping her tone light.
+
+Talia tried to take command, waving her hands and calling for formations, but her strategies were clumsy and contradictory. "Flank left! No, wait—stay together! Uh…"
+
+Chaos ensued and goblins darted between the party as Rhys untangled himself from the bush. Kellen was panting, and Talia was still clearly flustered. Celica quietly directed minor adjustments, subtle nudges in positioning, exploiting the goblins' attack patterns, without revealing just how much she was carrying the fight.
+
+After a messy, exhausting skirmish, the last goblin fell. The group collapsed to the ground, panting and exhilarated.
+
+"We… we did it?" Rhys asked, blinking. "I don't even know how."
+
+Talia frowned thoughtfully, then turned to Celica. "You… seem like the only one of us who wasn’t overwhelmed. For the next fight, could you… guide us?"
+
+Kellen choked on nothing, "Wait, what? You mean like a leader?"
+
+Rhys shrugged, still catching his breath. "Honestly… she saved me back there. I'd follow her advice."
+
+"Oh… yeah, I guess she did save me too," Kellen muttered, rubbing his jaw in disbelief.
+
+Celica hesitated but ultimately nodded. "Alright. Don't overextend Kellen, we need to play off each other as a team. Try to keep a wide line of sight Talia, and don’t tunnel vision. As a leader you need to see everything. Rhys, remember they’re just code, even though it’s AI there’s attack patterns you can learn. And also... I don’t think you can taunt by shouting..."
+
+You need a taunt skill, she thought to herself, but she wasn’t going to say that. After all, that was only unlocked through job changes on the second floor, something she couldn’t possibly know about right now in normal circumstances.
+
+Talia's eyes widened. "You got all that just from that fight? You're a genius!"
+
+Rhys grinned, slightly embarrassed but happy to hear the advice. "Yeah… she's right. I'll remember that."
+
+Kellen nodded, slightly disappointed but eager to improve. “Got it!”
+
+For the next hour, they cautiously fought through the forest, grinding and testing their tactics. Celica made small adjustments on the fly, always careful not to reveal the true extent of her capabilities. Slowly, the group began to improve.
+
+By the end of the session, they had hit level 11. Friend requests pinged across Celica's screen—Talia, Kellen, and Rhys. Celica paused, seeing the names. Memories of her past life flickered: countless unanswered friend requests, connections which never formed.
+
+A small smile tugged at her lips. She clicked "Accept."
+
+The group set up a small camp at the forest's edge, tossing logs into a crackling fire. The night air was thick with the scent of pine and damp earth, punctuated by the occasional hoot of an owl.
+
+Kellen rubbed his arm where a goblin had grazed him and muttered, "I almost died back there. Who knew goblins could jump like that?"
+
+Rhys snorted. "Yeah, I've got leaves in my hair from three different bushes. I'll be scrubbing them out for an hour."
+
+Talia giggled. "You were lucky we were there to pull you out!"
+
+Celica sat, quietly watching, listening. Their laughter reminded her of long nights spent with her old guild. Guildmates who had been equally flawed, and equally new to the game. She poked at the fire absently. If they ever see what I'm truly capable of…
+
+The group's conversation drifted to goals. "I want to be famous," Kellen said with a grin, tossing a stick into the flames. "To be a legend of Earthfonia! No, of all the realms!"
+
+"I just want to be a top ten tank!" Rhys added proudly, flexing his arms.
+
+"And I just want everyone to survive," Talia said, staring into the fire. Her gaze was earnest, and steady. "That's it."
+
+Celica tilted her head, considering. She gave a vague answer, something noncommittal about exploration and enjoying the game, careful not to reveal too much. But the warmth from the fire, and the warmth from sitting among people who didn't expect perfection, gnawed at her defences. It’s nice to pass time like this every once in a while...
+
+***
+
+Five days passed in a blur, full of goblin fights, tactical missteps, and awkward banter. Celica had spent the days quietly guiding the group, subtly shaping their combat sense without revealing just how much she could do.
+
+By now, all three were level 15, and moved with confidence through the forest. They paused at the edge of a clearing. Beyond the tree line, the Goblin Dungeon loomed—a dark arch of moss-covered stone, its mouth yawning like a challenge.
+
+Kellen's eyes gleamed. "That's it! The dungeon! We have to go!"
+
+Talia's shoulders tensed. "I don't know… it looks dangerous. We're not ready yet."
+
+Rhys shrugged, eager. "I say we peek inside. Just see what it's like."
+
+Talia turned toward Celica, as if silently asking for guidance. She considered the question, weighing the pros and cons.
+
+"The goblins were a huge step up from slimes, right? What if the dungeon is another step up? We could die, lose EXP, even drop some of our items. I don't think it’s worth the risk, and we might be too low level as well..." Celica said, her hesitancy obvious.
+
+The trio nodded reluctantly in agreement. They swore they'd attempt a dungeon once they had levelled more and improved their teamwork, agreeing to wait until Floor 2 or 3. They didn’t have to worry about clearing it to move on, after all, Snapped Sword had already gotten the first clear.
+
+Celica's inner monologue lingered on the dungeon's ominous entrance. I could carry them through it easily… she thought. But that wouldn’t solve anything. The risk, the coordination, the mistakes—they needed to experience it themselves. She wanted them to grow and not rely on her every step. And she didn’t want to expose her true identity.
+
+As the moon hung high, they finished their grind for the day. The forest echoed with the sounds of slaying goblins, and the last rays of light glinted off their weapons.
+
+In a few hours the time limit for the main quest would expire.

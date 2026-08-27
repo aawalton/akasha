@@ -1,0 +1,115 @@
+---
+id: 0d02cc52-fea4-5f4e-9b66-aed278ed1c8b
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 57-Bao Qian 1"
+slug: 0073-threads-chapter-57-bao-qian-1
+partOf: forge-of-destiny
+position: 73
+ownLength: 2238
+unit: words
+publishedAt: 2021-03-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/641489/threads-chapter-57-bao-qian-1"
+royalRoadId: "641489"
+---
+
+Landing outside the town’s walls, Ling Qi took a moment to smooth her gown then entered town, briskly moving through the outermost sections. It was a little ironic, Ling Qi could admit to herself, but she wasn’t doing it out of disdain, but rather because she did not want to hold on to her qi suppression so tightly for long. She soon reached the inner town where cultivators were in greater numbers. She took a moment to recall the location of her meeting and find her way to the right square. In the midst of the town’s bustle, Ling Qi saw them before she felt them.
+
+She spied Li Suyin first, wearing that new gown of hers. The pale lilac and purple silk looked good on her, though the effect was somewhat lessened by the clawed chitin contraption she wore on her right hand. Ling Qi wondered how long it would take Xiulan to pester the other girl into adding some gemstone settings and filigree to the thing to brighten it up.
+
+Beside Suyin, standing a little closer than Ling Qi would call polite, was a tall, thin boy. He had a handsome face and neatly kept hair bound in a top knot. That was probably this ‘Du Feng’ she had heard about from time to time. Another friend of Suyin’s.
+
+Ling Qi found her eyes only briefly touching on him as her attention was drawn to the much louder figure standing nearby. The other young man was quite large, not quite as tall as her but very broad shouldered. He wore a robe of crimson and gold bound at the waist by a thick jeweled sash. His fingers glittered with rings of jade set with precious gems that gleamed mesmerizingly in the sun. Two bands of white jade encircled his upper arms, cinching his flowing robe around thick biceps.
+
+The Bao scion had a broad face with pleasant, jovial features and dark brown hair bound in a simple top knot by another jeweled clasp. Really, he looked quite a lot like a more youthful version of the Bao lord she had met during the tournament at the end of last year, if one who indulged much less in food and drink. She really did wonder what had happened to Bao Qingling to differentiate herself so much from her family.
+
+“Ah, and our last member has arrived. Welcome, Miss Ling, welcome.” LIng Qi was shaken from her thoughts as the young man turned from his conversation with Li Suyin and Du Feng to raise a jeweled hand and greet her. She met his eyes and found them sharp and appraising beneath the cheer. Bao Qian was at the formation stage of the green soul realm and was close to the next stage in spirit.
+
+“My apologies for being late,” Ling Qi said politely as she approached, dipping her head in a small bow of contrition.
+
+“You are nothing of the sort,” the Bao dismissed cheerfully. “I simply arrived early.”
+
+“Yes, I had only happened to be in town, so I was early as well,” Li Suyin added politely. “Ah, Ling Qi, I do not think you have been introduced. This is Du Feng, my work partner.”
+
+The boy sketched a polite bow as one would to a superior. “A pleasure, Miss Ling.”
+
+“And if cousins Quan and Qingling have not deigned to share it, you may have my name as well. I am Bao Qian,” the Bao scion introduced himself with a minor bow as given between equals. “I have already heard much of you, and the tales Miss Li has told have only embellished on them.”
+
+Ling Qi glanced at Li Suyin, who gave her a sheepish smile. “It is a pleasure to meet you both, but I have to admit, you have me at a disadvantage. The letter Bao Qingling gave to me was somewhat light on details.”
+
+“No offense is taken,” Bao Qian replied with a smile. “We Bao are a competitive sort. The matter of who would take up the opportunity was still contested at that time.”
+
+Ling Qi felt disconcerted at the idea that there was any competition for… whatever this was. This was not quite even a betrothal offer but just…
+
+<Of course you’re worth it. Most talented musician in the South, luminous fairy of the winter moon, black left hand of the Cai, Best Big Sis! The name of Ling Qi rings from the mountaintops!> Sixiang announced grandly in her head.
+
+It was a testament to her will and experience with Sixiang that her eyebrow did not so much as twitch nor did her polite smile falter. “I am flattered to be so well thought of among the Bao,” she said instead.
+
+“There is no flattery to it, only honest praise,” he replied.
+
+“Miss Ling is a great talent,” Du Feng agreed. “You often say such, do you not, Li Suyin?”
+
+“She is. I could not have achieved what I have without her,” Li Suyin replied, toying with her sleeve nervously.
+
+“I will have to accept your praise, I suppose,” Ling Qi said reluctantly. “But please, do not let me interrupt your conversation. You were speaking before I arrived, weren’t you?”
+
+“It was only a small matter,” Li Suyin demurred.
+
+“You are too humble, Miss Li. The joint work of you and Sir Du in refining and treating silk is a valuable enterprise. The capital is always eager for new strains. Helps them keep up the churn of fashionable one-upmanship,” Bao Qian said lightly.
+
+“Oh, you’re working on silk now? I had not heard about that, Li Suyin,” Ling Qi said, happy to move herself out of the spotlight of attention.
+
+“It is as much Du Feng’s effort as mine,” Li Suyin deflected. “I only had some small insights to give on influencing the development of the worms. It is he who turned the resulting silk into something of value.”
+
+“You are too kind, Li Suyin,” Du Feng said, “but I have never had the opportunity before to work with silk as naturally impermeable and light. I feel as if I am spinning strands of air at times.”
+
+Li Suyin flushed and fidgeted. “I am sure it is nothing that other silk-making families have not achieved already.”
+
+“Perhaps, but another supplier is always good for the market,” Bao Qian said cheerfully. “I will be happy to do a little sales work for the two of you, if you would permit it.”
+
+Li Suyin and Du Feng shared a brief look, and Li Suyin dipped her head, deferring to him. Ling Qi might have found that bothersome, but she knew her friend well enough to know that she really did consider it more his project than hers. So she did not say anything as Du Feng bowed low and accepted the offer.
+
+With only a small mental nudge from Sixiang, Ling Qi made herself continue the conversation. “Is this what you will be spending your time on in the south, Sir Bao? Seeking out opportunities like this?” She had to start being a more active participant in conversations, and she would never do so if she didn’t start somewhere.
+
+She saw a flicker of appraisal in his warm green eyes as he turned to look at her. “After a fashion. And there is no need for a Sir, Miss Ling. My name will do.” He gave her a thoughtful look. “I am only one of many sons, so I am always on the lookout for opportunity. I shall certainly wish to speak with you at some point about what might be done with that unique xuanwu of yours.”
+
+Her eyebrows rose, but she forced herself not to give his words an uncharitable interpretation. “If you do not object, my name is fine as well,” she mirrored. It was a minor concession and one she didn’t really mind giving. “Zhengui is precious to me,” she continued, “so I have to ask that you clarify your intent, Bao Qian.”
+
+She caught a brief flicker of genuine amusement at her little wordplay. “Nothing invasive, of course. Shed scales, claw clippings, venom, and waste product. A spirit of such potency can produce many useful things. It helps to offset their substantial upkeep.”
+
+Ling Qi thought of the expense documentation Cai Renxiang had been teaching her to make use of and the green stones that Cai was paying out of pocket to feed Zhengui every month. It might be nice to be less reliant on her largesse. If nothing else, it might mean further resources for her to cultivate with. “I see. I have no complaints then,” she acquiesced.
+
+“Perhaps you should seek his services in recording your music, Miss Ling. I have heard that it is incomparable for your age and talent,” Du Feng piped in. “Though you will only improve in the future, I am sure.”
+
+<He’s trying to be helpful,> Sixiang whispered soothingly. <I think he really doesn’t want to be on your bad side. Guy has it bad.>
+
+Ling Qi had certainly noticed the minute changes in expression from the young man. Du Feng really wanted Suyin’s approval. Her friend was all too happy to go along with overpraising her. “Your songs really are lovely. I would not mind being able to play them in my workshop.”
+
+“I would never be so forward as to request something so personal at a first meeting,” Bao Qian said, dipping his head. “I know many musicians mislike such things. On my pride as a jade carver though, I would put my utmost into such a project to ensure quality.”
+
+“Something for the future, perhaps,” Ling Qi said vaguely. She felt deeply uncomfortable with the idea of recording her music. Her understanding of the topic meant that every piece she played reflected some facet of herself. Having such a thing stored in jade to be viewed whenever was a strange concept to her. “You are a jade carver then?” she asked, changing the subject.
+
+“I have some skills in the field. The Bao family’s resources are plentiful in that regard,” Bao Qian agreed. “I will be using my eye for such materials during my stay. I have a few expeditions lined up to prospect unsettled lands for jade, spirit stones, and less valuable minerals. A man must keep busy after all. No good comes from standing still.”
+
+That was a good attitude to take. Though she could not really judge off of one meeting, her initial impression of Bao Qian was good. However, the real purpose of all this still ate at her thoughts. She had been praised and praised, and while she was certain that Li Suyin was sincere, it was wholly possible that he was just using her friend to flatter her without seemingly coming on too strong.
+
+That was one trouble with studying social arts. It put her in the mind to scrutinize things over and over again. How much of this impression was a well arranged mask? Then again, she could drive herself mad nitpicking the meaning behind every action and choice of presentation. “That is an admirable attitude,” she praised. “I wish you luck in your pursuits.”
+
+“In truth,” the young man said cautiously, “I am looking into such a matter nearby. I have made a contract with the Sect to investigate whether the quarries of an abandoned clanhold in the east are worth further prospecting. I have heard that you favor an adventure or two yourself, Ling Qi. Should I request you as my liaison with the Sect for this matter?” He glanced at the others. “You are invited as well, friends.”
+
+“I am afraid I am unsuited for such matters,” Du Feng replied swiftly, only to shoot a worried look to Li Suyin. “Ah, but if you wish to go…”
+
+Li Suyin looked uncertain, looking to Ling Qi.
+
+Ling Qi considered. Between her cultivation, her family, and her other obligations, her time was limited. Had she been asked a week or two ago, she might have considered begging off, but given her recent resolution to improve her interactions with the rest of the nobility, it seemed foolish to refuse. She wouldn’t have accepted if it were just she and him, but since he had offered a group expedition...
+
+“That does sound like a fun distraction. Something a little more peaceful than our usual fare, right, Li Suyin?” Ling Qi gave her friend an encouraging look.
+
+“I would imagine so,” Li Suyin replied with a smile.
+
+“Hoh, I sense a story there,” Bao Qian said with a chuckle. “And you, Sir Du?”
+
+The other boy hesitated but seemed to firm up his resolve as Li Suyin turned to look at him. “Well, I would not want to be so rude as to refuse your invitation Sir Bao, so I will join you as well. I suppose giving my work a little active testing would be helpful.”
+
+Bao Qian nodded, seeming pleased. “I shall make the arrangements with the Sect then. We will be leaving in five days time, and the journey should not be more than a few days depending on our pace.”
+
+Ling Qi rearranged her schedule in her mind. She didn’t have much that she needed to prepare, and it wasn’t like she couldn’t cultivate on the journey as well. So she would only be using a little time out of her budget. “I will look forward to it.”

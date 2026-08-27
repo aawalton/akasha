@@ -1,0 +1,113 @@
+---
+id: 811cd2b4-07a5-59a3-93a1-b1a7670a9544
+page-type-slug: story-chapter-royal-road
+title: "Threads 160 Always Winter 1"
+slug: 0190-threads-160-always-winter-1
+partOf: forge-of-destiny
+position: 190
+ownLength: 2016
+unit: words
+publishedAt: 2021-12-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/799273/threads-160-always-winter-1"
+royalRoadId: "799273"
+---
+
+“So, you are saying that enough generations had passed for these spiders that stories of their exile had been mythologized almost entirely,” Ling Qi said blankly, descending the stony mountain gorge that lay beyond the forested vale.
+
+“That is accurate,” Cai Renxiang agreed.
+
+“Spirit beasts of the chitinous type are generally very short lived until mastery of Shen is achieved,” Meng Dan commented. While the main genealogy had been left inside the ring for safekeeping, he was paging through one of the other treatises found alongside it. “Two or three decades in the third realm is typical among most types.”
+
+“And the Duchess was basically treated as…” Ling Qi continued.
+
+“A wrathful deity,” Xia Lin said, deeply amused. “It seems that those who fled their master sensed his craven fear of justice, despite his ramblings. His own focus on past glory did him a disservice, I think.”
+
+“So the split ended up as a kind of religious schism,” Ling Qi concluded, rubbing her forehead. “When the Hui and his original partner died, the spiders that were left split on whether they should keep following or seek forgiveness and return.”
+
+“Miss Ling observes correctly,” Gan Guangli said. “It was a little odd to hear, but I do believe I like these fellows. I am sure that they can be integrated well!”
+
+“Gui agrees. The spinners were much nicer!” her little brother said, each of his steps sending up puffs of dust and bouncing gravel.
+
+Ling Qi observed the billowing cape of shimmering spidersilk thrown around Gan Guangli’s shoulders. Woven from the silk of the single fourth realm spider present, it was obviously potent even without being a proper talisman yet. There were many more such garments, Ling Qi knew, packed away in Cai Renxiang’s storage ring.
+
+“The spirits were deeply enthusiastic in their attempts to placate their perception of her. I have no doubt that Mother will find a use for them,” Cai Renxiang said as they reached the bottom of the gorge, looking at the long, gravel-filled passage ahead. “For now, let us focus on our progress. We still have a long distance to travel yet.”
+
+They did at that. Even in ideal conditions, they were several days out from the location that the iron sliver was drawn to. She glanced up at the cloudy sky, feeling the churning icy qi in their depths. She suspected they would not have ideal conditions.
+
+Over the course of the next few days, they continued to travel south, and with every step, the air grew colder and the mountains bleaker. Scraggly trees and plant life gave way to tough grasses and lichens, and the caps of white on the cloud-piercing peaks of the Wall crept lower and lower.
+
+By day, they began to face increasing snowfall and encountered valleys filled with many meters-deep white powder. Even what ground was bare to begin with grew slick with ice. It probably did not help that they were traveling in the early months of winter.
+
+Increasingly, they began to run into minor trouble with spirits, who troubled their path until Ling Qi managed to placate or drive them off.
+
+At night, the skies would sometimes clear, showing the sky as a twinkling tapestry of infinite blackness, undimmed by any light of civilization. But in the southern sky, they began to see something new. Ribbons and sheets of twisting color, peeking out between the southernmost mountains, danced in the sky and undulated silently and unnervingly. The first time she had spied the lights, Ling Qi had frozen still, staring blankly. The icy qi in her meridians had flared, sheathing her skin in frost and rime.
+
+She was needed. That was what she had felt. Something terrible was happening, and she was needed.
+
+Only Cai Renxiang’s hand on her shoulder had stopped her flying south then and there. She’d been embarrassed when she had come back to herself, but she hadn’t been the only one affected.
+
+Cai Renxiang had been afflicted with a terrible revulsion. The others had merely been frozen in some kind of blank terror instead. They had been careful to not look directly at the lights after that.
+
+However, as they traveled south, the weather only grew worse. Screaming winds assailed them, icy cold fit to carve a lesser cultivator's flesh, and the falling snow was so thick that all the world became blank white nothingness, even with all of their senses. The air was thick with potent cold qi, and Ling Qi could feel powerful spirits, things comparable to her mentor, lurking in the seemingly infinite expanse.
+
+So it was that on the third day of travel after several hours of meagre progress, they elected to make camp and prepare for negotiating passage on the next day.
+
+***​
+
+Ling Qi hummed softly to herself, and the howl of the blizzard stole the sound from her lips. The snow and ice crusted the hems of her gown and dusted her hair, but no more than that. The endless white expanse had been parted just a little to leave her in a pocket of calm, seated on a shelf of rock halfway up the gorge they had stopped to rest in. Below, she could feel Zhengui, his heat standing out like a beacon in the frost. He was in the center of their little camp, providing extra heat to the space closed off by the formation-inscribed cloth of their pavilion.
+
+The hostile weather shelter provided by the Sect was a powerful thing, shielding those inside from notice and hostile qi, as well as regulating temperature. Cultivators inside could rest and meditate without expending energy protecting themselves.
+
+Ling Qi had elected to stay outside for now. The cold and the wind called to her, and even if she couldn’t see it, she could feel the moon shining brightly above. Even if they weren’t arts, she had so many songs to study now.
+
+“Hah! And you were acting so uninterested before,” Sixiang teased.
+
+“Because we had a job to do,” Ling Qi said. “Now, I can relax.”
+
+Earlier, Ling Qi had discussed the shares of the loot from the ring with Xia Lin and Meng Dan. Xia Lin had been agreeable to a larger share of the auction proceeds in exchange for Ling Qi taking the Tapestry as part of her share, and Ling Qi had agreed to grant the Meng a right of first refusal on the Tapestry while Meng Dan had offered his services for the auction to be held. The remainder of the loot had been quickly split according to interest.
+
+“How’re things with that talisman anyway?” Ling Qi asked.
+
+“I don’t know how you lot do clothes and stuff if just holding a mirror feels this odd,” Sixiang admitted. “I haven’t worked out how to use it yet.”
+
+The Liminal Labyrinth Gate that Sixiang held was a circular mirror set within a silver frame composed of delicate looping threads. The mirror reflected an endless kaleidoscope of color and mist and seemed to waver and fade when Ling Qi didn’t look directly upon it. Sixiang had asked Ling Qi to take it as part of her share. Apparently, it could help move objects and people back and forth between the physical and liminal realms.
+
+“It’s probably meant to be used together with the compass,” Ling Qi analyzed. The Dream Drenched Compass was another talisman that Ling Qi had secured as part of her share. It was an odd round device carved from dark red wood and inked with shifting characters that indicated directions far more complex than a material compass. A glimmering crystal of solidified dream spun lazily under the crystal glass.
+
+“Looks like we’ll have to take our own little field trip later,” Sixiang said.
+
+Later, Ling Qi thought, focusing back on the sheets of musical notation in her hands. The old paper remained crisp and dry, its edges barely fluttering despite the scream of the wind.
+
+It was honestly a little humbling, looking through these. She was proud of her music and proud of her songs, and she thought privately that her own work was a match for the skill of many of these old artists.
+
+There were some, however, that she could barely follow the notation of. They were dense with layers of meaning and intent, utterly beyond her ability even now. They were genuine masterpieces, and she suspected that some of the incomprehensible notation referred to the use of shen in their performance. She wasn’t going to sell these.
+
+But even if she had trouble with them, she found herself drawn to the music of Hui to understand it, and through it, them and the Emerald Seas their reign had wrought. She didn’t have the full picture, but she felt like she was beginning to understand, more than the corpse’s insults had given her. The music of the Hui was about transcendent things. It was about the interplay of the elements of the natural world and high ideals of beauty. It was about dreams and things that ought to be. It was like love as an ideal rather than an experience.
+
+She could understand why that corpse had disliked her so. Ling Qi knew that her own music was always touched by the grime of the ground. If she wrote a song about the beauty of a lotus, a stanza would most certainly touch on its muddy roots. In contrast, the Hui perspective was one that looked down always from above. Perhaps they had just spent too long among Xiangmen’s branches. Still, it couldn’t be said that there wasn’t beauty in that. While it would never be her style, she could still learn from the Hui’s style.
+
+But she couldn’t focus fully on cultivation just yet. While Zhengui was below with everyone, warming their pavilion, Hanyi was out here with her. She glanced up to the higher ledge where her junior sister sat, formally for once, gazing up at the sky where the powerful spirits of blizzard and mountain peak danced unseen.
+
+Hanyi’s expression was a complicated one. Longing, fear, pride, and other emotions warred on her face.
+
+“We’ll be treating with them later,” Ling Qi said as she materialized beside her spirit with a faint rustle of cloth. Ling Qi let her feet dangle from the high ledge as she turned her eyes up as well, tracing the eddies of power she could feel behind the driving wind and the driving snow.
+
+“Yeah,” Hanyi said.
+
+Ling Qi looked at Hanyi out of the corner of her eye, trying to determine the problem. “You want to talk to them yourself?”
+
+“I dunno. They’re like Momma, but they’re not Momma. They definitely aren’t like me. What if they get really mad like Momma was before the End?”
+
+Ling Qi admitted that it was a valid concern. Hanyi was… not natural. What Zeqing had gone through was not natural. How would these wild spirits react to not only Hanyi, but herself?
+
+Or were they wild at all? They were getting close to their destination.
+
+Ling Qi let out a breath and slipped her arm around Hanyi’s shoulder. They listened for a moment to the deep and powerful song that underlaid the blizzard, noting its harmonies and its differences. One way or the other, they were going to have to talk their way through this. She doubted that Cai Renxiang would be able to cow these fourth realms.
+
+“Their song is pretty,” Hanyi said quietly, not lowering her eyes. “I like this place, Big Sis.”
+
+Ling Qi looked around to the frigid gorge so swiftly filling with snow and ice where even she could not see more than a meter from her face.
+
+“It is a nice place,” Ling Qi agreed, especially with those demon lights hidden by the storm. “Do you want me to stay here while I cultivate?”
+
+Hanyi nodded, leaning against her side as Ling Qi returned her focus to the music notes in her lap. She would need to rejoin the others later to plan their next move, but now was her time to cultivate song.

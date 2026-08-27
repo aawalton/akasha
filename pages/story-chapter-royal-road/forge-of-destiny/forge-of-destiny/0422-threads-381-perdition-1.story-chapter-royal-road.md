@@ -1,0 +1,123 @@
+---
+id: c733657c-484f-55aa-aa3f-6998f1d9a9cb
+page-type-slug: story-chapter-royal-road
+title: "Threads 381-Perdition 1"
+slug: 0422-threads-381-perdition-1
+partOf: forge-of-destiny
+position: 422
+ownLength: 1488
+unit: words
+publishedAt: 2024-05-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1648293/threads-381-perdition-1"
+royalRoadId: "1648293"
+---
+
+Meng Dan hummed. "Your offer is appreciated. I may seek you out when my own task comes. Another formations expert will be useful."
+
+"The call shall be awaited," Xuan Shi acknowledged, passing them by. His staff manifested in his now bare hands, the rings jangling. "I hope I can share the good tidings I have on a later day, Miss Ling."
+
+She inclined her head. "I will be happy to receive them. Sixiang, please rejoin. I need your full assistance."
+
+"Gotcha." The figure standing by the road shimmered and disappeared. <Alright, what exactly is going on?>
+
+Ling Qi closed her eyes, her anxiety momentarily distant. It was comfortable, having Sixiang back where they belonged.
+
+<Oh, no. No, no, no. Qi, you're really gonna…>
+
+Please help me, she thought.
+
+<That ain't fair at all,> Sixiang complained. <Of course I'm gonna help.>
+
+"Miss Ling has many good friends, it seems," Meng Dan said.
+
+She opened her eyes. "I do. Let us go see the general."
+
+They were not held up long by formalities, thankfully. The soldiers were expecting her as a missive from Inspector Cao had been sent ahead of her arrival. The general awaited them in a sparring room whose floorboards were polished to a mirror shine and whose walls seemed to be burned black, though the structure was none the weaker for it. There were no aides or adjutants, only the general herself standing in the center of the room, turning to face them, the blank faceplate of her helm smoldering.
+
+"Explain."
+
+It was not a question, that single word, spoken in the tone of a furnace's roar.
+
+So she did. She spilled everything they had discussed with the inspector, and Meng Dan cut in to add his own part, not quailing when the general's gaze had turned to him.
+
+And it did turn upon him.
+
+"So the subversive elements of the Meng have moved. Incredibly foolish to expose themselves over this small matter, a mere test for Her Grace's heir." The general had not moved, save to loosely cross her arms. Her reflection gleamed beneath her.
+
+"The Meng clan is loyal," Meng Dan insisted. "These rogues are even now being hunted down for arrest and censure."
+
+"Your kin have always been the least loyal. The Bao are bought, well and certain. The Diao are united to the Cai. And the Luo know their place and move apace, for all that their progress diverges. Only your clan’s loyalties are divided, among the old comital clans," the general said implacably. "Members of your clan still look toward a foolish and wasteful faith and the dream of a lost past."
+
+"General, please,” Ling Qi pleaded. “Meng Dan is aligned with us. He and his grandmother have already promised to take this matter in hand and deliver any culprits to this conspiracy which remain in their home."
+
+"Indeed. This is a coup. It remains foolish, but those clinging to meaningless tradition often behave irrationally. I will provide escorts so that the young sir may move safely to gather those who are truly victims, and I will cooperate with this operation given that the first apprentice and the inspector alike request it. You believe you can support my presence in the spiritual realm?"
+
+Ling Qi bowed her head. "I believe I must, trying as it might be."
+
+"You have been learning from that shadow, so perhaps you can. I expect they will be subtly bolstering your energy to enable your action. However, it will be impossible for you to support additional units. Troublesome."
+
+Ling Qi did not like how small she felt under that eyeless gaze. Sweat beaded on her neck and forehead from the phantom heat exuded by the general in her senses. Though there was no sign of agitation or reaction in the general's physical appearance, to Ling Qi's enhanced senses, the pressure was incredible. It dug down into her brain, a beat sounding like the trampling, synchronized tread of ten thousand boots, and she smelled the acrid, eye-watering scent of the smoke left behind where armies clashed and lives were lost in countless numbers.
+
+The furnace burns. The fuel is shoveled. Molten metal stirs crimson and white. The rising steam is a million screams of terror.
+
+"Do you have some experience with liminal combat, General Xia? The Hui must have used such arts. Do you believe I will be sufficient?" Ling Qi asked.
+
+"The Hui could not hide where Her Grace's light fell. Her eyes dragged them from the muck they lingered in. Nor were they so subtle in the end, for all their pretensions. They tore the veil asunder, and nightmares poured out like water. Through these open sores, my blade struck easily. However, the collateral of such a strategy is unacceptable in this location. You will have to be sufficient. I trust the first apprentice's tactical judgment."
+
+Ling Qi shuddered, trying not to see the horrors those words tried to show her. There were downsides to the eyes she was cultivating. Like the duchess herself, the general was not restrained at all. Being able to so clearly see and feel in her presence was a double-edged sword.
+
+Meng Dan looked at her with a tight expression and then turned back to the general, bowing his head. "I will take my leave to begin my own preparations then. Lady Ling, be safe."
+
+"I will, as much as I can."
+
+He looked like he wanted to say something else, but left without saying anything more.
+
+The general spoke as the door closed behind him. "Wrong. There is no safety in this action."
+
+"There is no lie in saying I will try."
+
+"There is value in feints and deception," the general allowed. "Sometimes, morale is improved through optimistic estimation. I will endeavor to maintain you. It is not my specialization."
+
+Ling Qi understood the implication. "I will stay out from underfoot as much as possible given my duty."
+
+"You may be targeted to disrupt me," Xia Ren warned.
+
+"Yes."
+
+"As long as you understand. I am prepared. Begin at the first apprentice's signal."
+
+Ling Qi nodded. There was nothing else to say in this dark room, trying not to wilt under the heat of the monster who shared it with her.
+
+<I'll keep you safe,> Sixiang whispered.
+
+Sometimes, lies were comforting even when she knew what they were.
+
+***
+
+Paper messenger birds came and went. Cai Renxiang informed her that she would be taking back the duties that had been given to her for today, rerouting messages to her own office. A brief message from Zheng Fu informed her that he “had a lead” with no further elaboration. More birds were directed to the general, but she was not privy to those. Presumably, the messages were for organizing security outside.
+
+The wait was interminable.Even going through her things, setting aside her storage rings and talismans that would only get destroyed here, did not occupy her long. The dread of what was to come ate at her mind despite her best attempts at meditation. Even the most basic cultivation exercises were beyond her reach.
+
+When it began, she only barely noticed it.
+
+A faint ripple of qi thrummed through the ground and the air, the faintest buzz of something similar to the security scan she had undergone at the Ministry of Integrity's office.
+
+"Interesting. The ministry has refined their formations."
+
+She glanced toward the general, who said no more. She supposed the Heron General would know. The ministry had aided the fledgling Cai government in tracking down the remnants of the Hui in the aftermath of their fall.
+
+Her head jerked up as she felt a pulse. A scent like stagnant water, and a feeling like she was standing in water, rippling from the impact of a thrown stone.
+
+She heard and felt people moving outside. People were shouting, and metal was clattering.
+
+<The Dream is churning,> Sixiang whispered to her.
+
+Ling Qi stood, cycling her qi once, and forced her energies to calm. She gathered the power needed to dreamwalk through the veil and, tentatively, reached for the general with that power, wincing at the searing heat that threatened to char her own qi to ash. It banked very slightly, just enough to feel as if she were merely touching something blistering hot rather than having her flesh melt from her bones.
+
+The general's arms uncrossed, and her hand drifted to the white wrapped hilt of the sword at her waist.
+
+Ling Qi felt the thread embedded in her flesh pull taut, sending a sharp pain up through her middle finger.
+
+"Beginning transport," Ling Qi announced, more for herself than Xia Ren. She felt Sixiang's arms tighten around her as she drew her qi in to walk the Dream. Her back felt like it would break from the weight on her shoulders. She staggered, her foot almost slipping.
+
+And then she stepped through, following the black thread down into chaos.

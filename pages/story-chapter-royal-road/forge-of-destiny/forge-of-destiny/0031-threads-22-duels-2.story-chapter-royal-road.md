@@ -1,0 +1,111 @@
+---
+id: 630846ca-4a54-5d41-97d0-385f2b9eaf91
+page-type-slug: story-chapter-royal-road
+title: "Threads 22-Duels 2"
+slug: 0031-threads-22-duels-2
+partOf: forge-of-destiny
+position: 31
+ownLength: 2932
+unit: words
+publishedAt: 2020-12-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/599185/threads-22-duels-2"
+royalRoadId: "599185"
+---
+
+“We begin now the challenge between Disciple 812, Ling Qi, and Disciple 790, Liang He.” The presiding elder was a short, rotund man with a wide, friendly face, a faint golden sheen to his skin, and drowsy, half-lidded eyes. He spoke in a cheerful drawl.
+
+“In accordance with Sect rules, Disciple Liang He has chosen a challenge of direct combat. Let both competitors be at ease that this humble elder shall not allow either of you to come to permanent harm,” the elder continued, baring his teeth in a smile that stretched just a touch too wide. “This one hopes to see both of your youthful spirits released to their fullest extent.”
+
+Ling Qi offered a respectful bow to the elder, just as her opponent did across the field from her. Liang He was a young man seemingly cut from the same mold as Kang Zihao. Well, that was unfair, Ling Qi supposed as she straightened back up and met her opponent’s steady gaze. She would compare him to Han Jian instead. He was tall and handsome with aquiline features and a serious mien. He had short cropped dark hair and grey eyes, though they were hardly visible at the moment.
+
+Aside from his flowing silver robes, today, Liang He wore a featureless jade mask with dark smoked lenses that prevented her from seeing his eyes. A loose hood attached to the rest of his robes concealed the rest of his head. He hadn’t been wearing that yesterday when she had met him and made her challenge, nor had she heard anything about him wearing such a thing in the past. It must be some sort of talisman, but she couldn’t be sure of its function without a closer examination.
+
+Despite the unwelcome surprise, Ling Qi could not help but feel a thrill of excitement. She was glad that she had made this choice. The urge to test how much she had grown in battle was strong. It would be nice to engage in a match where there was no previous enmity or resentment coloring things. She thought back to the previous day when she had met the boy to make her challenge.
+
+When Ling Qi had straightened up, after having politely delivered her challenge to the young man as he exited the sealed training field she had tracked him to, she had found Liang He smiling earnestly as he bowed in return, clasping his hands in front of his chest. “It would be my honor to test my blade against you, Lady Ling! I am certain you have only grown stronger since your display of prowess in the New Year’s Tournament. I only hope that this humble swordsman does not disappoint.”
+
+Ling Qi tried to ignore the way her cheeks heated at the praise…
+
+<Stop embellishing, Sixiang,> Ling Qi thought sternly, keeping her expression even as she scolded the muse.
+
+<Oh, c’mon, he’s cute, and he’s shaped just the way you like, too,> Sixiang complained.
+
+<How do you even know that? He was wearing those billowy robes yesterday too,> Ling Qi thought in exasperation.
+
+Sixiang scoffed silently. <Like that’ll stop me. The wind gets everywhere, you know?>
+
+Through a great effort of will Ling Qi prevented her eyebrow from twitching. She almost felt her cheeks catch on fire as the elder shot her a knowing look out of the corner of his eye. Thankfully, her opponent was oblivious to her inner turmoil, merely sliding into a strong advancing stance as he drew the long straight sword from his storage ring in a flash of light. There was no sign of his spirit beast yet.
+
+“The rules of this duel shall be simple,” the elder announced. “As requested by the challenged, there shall be no restriction on weapons, techniques, or spirit beasts. However, the duel shall be limited to this field and the space fifty meters above and below. This elder shall enforce the boundary fairly in a manner that shall prevent disruption of the duel. Are both duelists prepared?”
+
+Ling Qi glanced around the wide grassy field and the stone boundary markers which marked its edge. The arena was one hundred fifty meters long and one hundred wide. Plenty of space to work with, even if she couldn’t just soar up out of range with her gown. Their starting positions were eighty meters apart, giving them plenty of room to fall back if they desired. It was as fair a field as any competitor could hope for.
+
+This wasn’t necessarily great for her, but it was expected. With a flick of her wrist, Ling Qi drew her flute from storage. “I am ready, Honored Elder,” she said, echoing her opponent from across the field.
+
+She put Sixiang's teasing out of mind, and recognizing that the time for it was over, the muse desisted. This would be her first duel with her completed arts and new arts alike. She needed to test her abilities and see how far she could go now. Many challenges lay in the coming days, not the least of which was the situation with her mentor, and she needed to keep rising rapidly up the ranks to meet the goals set for her by the Duchess. Though a failure in a rank challenge would not be the end for her, she had too much to lose to stop striving with all her determination toward victory.
+
+“Begin!”
+
+As the elder’s voice rang out and his hand chopped down, the field exploded into motion.
+
+Ling Qi raised her flute to her lips, and the first notes began to ring out, releasing the first strands of thick and cloying mist. Her opponent, Liang He, took a single step and blurred. There was a sharp crack as the field split open like it had been carved through by a giant’s knife, sending an explosion of dirt and rock outward.
+
+Feeling a thrill of alarm and excitement, Ling Qi flooded her limbs with vital qi, activating her Deepwood Vitality technique just in time for the gleaming emerald light to intercept the diagonal slash that would have taken her full across the chest. Even through her defensive qi, she felt the impact and used its momentum to push her leap backward, sparing herself a wound as her defensive technique shattered. A streak of rainbow light caught her eye, and she twisted to the side, mostly avoiding the hiltless blade that carved through the air, glancing off the dark silk of her gown in a shower of sparking qi.
+
+Ling Qi could feel Liang He’s spirit of burning skies resolving above her, thrumming with a heated joy for battle, but he had failed to stop her. Even as she dodged, she had never stopped playing. Her mist spread hungrily, drinking in the warm afternoon sunlight and casting the field in shadow, swiftly engulfing her opponent in the time it took him to bring his sword back up into a guard position. Her flying sword shot out in a spiralling flight, singing a ghostly echo of her melody, and he batted it aside as its blade reached for his heart. Ling Qi could feel the wispy strands of qi that clung to his sword and his hands though, ready to be strummed when the time was right.
+
+Then a shrieking cry rang in her ears, echoing and reverberating as if to shake apart her skull until Sixiang’s comforting qi flooded out to wash it away. A burning white shape carved through her neck, and she burst into shadows, reforming a half meter to her right with no more than a few blisters marking where Liang He’s spirit beast’s wings had brushed her neck.
+
+She caught a brief glimpse of the falcon then. It was tiny for a spirit beast, only a half meter from wing tip to wing tip, but the plumes of its wings burned with blue fire even as its technique faded and it beat its wings to regain height. Liang He did not waste his partner’s opening. She felt his qi, sharp and brilliant, flare outward, and where he moved, her mist parted. It was a bizarre sensation to feel someone cut her mist, not with wind pressure or physical force but on a deeper, conceptual level. For an instant, in a line between where he had stood and her current position, the sun shone into the depths of the mist.
+
+It wasn’t enough. The bare moment of breathing room she had gained from her dodge was enough to weave another technique into existence, and Ling Qi’s limbs faded, her form growing wispy and insubstantial, little more than another wraith in the mist. Yet her instincts screamed for her to move as that gleaming sword of his, its edge blazing white hot cut through qi and air alike. One strike, then a second she flowed around, saved by a hair as her gown once again deflected a cut, the sharpened blade rebounding from the silk with a hiss of heat.
+
+Above their heads, his domain weapon struck hers with a scream of steel on steel, knocking it from its trajectory toward his back, but Ling Qi was hardly done. The air around them went cold and still as her melody changed. First, she played the soft Aria of Spring’s End, spreading frost across the earth and sending wispy flakes of snow drifting through the mist. Then came the howl of the blizzard as she launched into her improved technique, the Hoarfrost Refrain. Like an avalanche, the wave of dark qi released from her flute fell upon her foe.
+
+Liang He’s blade moved, rising in a sharp flicking motion. Ling Qi blinked in confusion as the power of her melody slammed into the earth behind him, freezing a wide circle of the earth solid. She felt the edges of the technique tear at him, freezing and shattering the trailing edges of his robe and hood. But in that instant, all she could do was stare. Had he just parried her song!?
+
+That instant was all the opportunity Liang He needed. With speed like lightning, his blade came back. Even in her surprise, Ling Qi still flung up an arm to block, and she felt the hot sting of pain as his sword carved a painful red across her forearm.
+
+Then that bird of his screeched again, and with a flare of irritation, mostly directed at herself for her pause, her form flickered, vanishing into the mist as the falcon’s burning charge shot through where she had been just a moment ago. She felt the bird’s qi burning brighter and hotter as it wheeled as if to immediately charge again, but then Sixiang’s qi rippled out, a haze of song, merriment, and strong drink. It washed over both Liang He and his beast, and the falcon’s flight stuttered, and its wings dimmed. Liang He himself took a step back, his now tattered hood falling down around his shoulders as he flared his qi, and a storm of invisible blades tore apart Sixiang’s encroaching qi.
+
+She had been a little cocky, too conservative with her qi, Ling Qi lamented even as he blurred toward her again and their swords screamed overhead. It was unfair to Liang He that she hadn’t treated the opening moments seriously enough. She hardened her flesh with the Hundred Ring Armament and wove through his strikes, only a few of the blindingly fast slashes hitting and only one carving through emerald qi to draw blood as the thrust scored across her lower ribs.
+
+The still ringing notes of the Aria redoubled in strength as she resumed the melody, and this time, the sad notes held a terrible echo, the Echo of Absolute Winter. Grass died, earth froze, and from the cloying mist fell a thick and freezing snow. This time, even as he parried the bulk of Hoarfrost Refrain’s power, ice clung to his sword and hung heavy from his robe, and she felt the cold poison take root. With a ringing cry, her flying sword disentangled itself from his and shot down toward Liang He, forcing him to raise his sword to deflect the spiralling missile even as it renewed its echo on him.
+
+With the tinge of true winter in the air, the falcon's charge was guttering before it even reached her, frost forming on burning wings as she slid out of the way with a single graceful step. Ling Qi could almost sense her opponent's concerned frown behind his mask. Freed from its battle with her own flying sword, Liang He’s flying sword shot toward her, but its bright rainbow blur dimmed as the sheer cold in the air sucked the energy from the blade's movement, leaving it to bounce harmlessly off her gown.
+
+Liang He met her eyes then, and she felt from him a certain strange satisfaction. His stance once again shifted to aggressive, sword raised high. She felt Sixiang startle in alarm as the wind was ripped from their grasp, and the sky screamed. Though it was invisible to the eye, Ling Qi felt the screaming winds gathering into numberless blades, all around her, and the storm that gathered on the single blade in his hands, the fury of it sending his robes snapping and snow flying.
+
+There was no time for thought as the storm of wind blades fell upon her. She had no doubt that a lower realm cultivator would have been reduced to little more than a bloody mist by the scores of invisible blades that she danced through with sable grace. It took all of her concentration to flow into the spaces between them, to force her limbs to go immaterial at the right moment, and yet at the end, she stood unharmed, just in time to flare her qi and weave a blazing emerald defense as Liang He’s storm-cloaked blade impacted her chest.
+
+Deepwood Vitality shattered immediately, and the cutting wind slammed into her. Her gown held most of the power back, silken threads holding many times the strength of steel, yet they were still cut. Her flesh, imbued with the strength of a primeval tree, was cut, and she was blown backward in a howling storm like a leaf in a hurricane.
+
+Yet though it burned painfully, the cut was not too deep. She could feel blood trickling sluggishly from the wound. As she landed lightly on her feet and once again met her opponent’s determined gaze, she knew one thing. It wasn’t enough.
+
+Before Liang He could pull his sword back into a guard, Ling Qi played the finale of the Frozen Soul Serenade. She had never channeled the technique fully before, but now the Call to Ending rang out, not as any audible sound, but instead, a silence so deep that all other sound perished in its embrace.
+
+Liang He staggered back as the power of the technique crashed into him, his half-formed guard insufficient to parry the call, even weakened by the distance between them. Grimly, he managed to hold onto his sword, grasping it tightly even as his fingers turned black from the cold. Despite that, the wordless, soundless melody sent him to his knees.
+
+For just a second, Ling Qi worried that she had gone too far, that the potency of her Master’s art would kill her opponent, even though she hadn’t touched him.
+
+“I declare the match finished.”
+
+The moment was broken as a pudgy, golden hand chopped her lightly on the head. Her mist was blown away, the snow melted, and sound and warmth returned to the world. The jolly elder gave her a small nod as he stepped past her. He waved a hand, and a golden mist settled over Liang He’s kneeling form. “The winner is Disciple Ling Qi.”
+
+Liang He forced himself to stand and offered a stiff bow. “A good match, Sect Sister,” he said in a strained voice. Ling Qi felt bad for the clear pain he was in. He still clutched his sword in his blackened fingers, and she had a feeling he couldn’t have let it go even if he wanted to.
+
+“It was a good match, Sect Brother,” Ling Qi agreed, hastily bowing back, feeling incredibly awkward as she began to recall the audience their duel had.
+
+“It pleases me to see such good humor in the wake of a duel,” the elder said with a wide smile. “But I will have to interrupt. My technique may keep anything important from falling off, but the young man does need to see a healer.”
+
+The elder  laid a hand on her opponent's shoulder and vanished, leaving Ling Qi alone on the field under the stares of the audience. She stared at the silent stands and offered another hasty bow to the stands before exiting with full dignity and speed.
+
+<Or so she told herself,> Sixiang whispered, laughing in her head.
+
+Ling Qi sighed. She supposed this was the first time she had displayed such a heavily damaging ability. Her previous victories had all been more drawn out and less… brutal. Still, her opponent didn’t seem to hold any ill will, so she doubted the audience would be able to successfully spin it in the negative.
+
+More importantly, she was now sure that the Frozen Soul Serenade was wholly mastered. Would that be enough to face her mentor?
+
+Ling Qi winced as she felt a twinge from the cut on her chest. She could think about that later.
+
+She had managed to use the Call to Ending. She could not put off visiting Master Zeqing any longer.

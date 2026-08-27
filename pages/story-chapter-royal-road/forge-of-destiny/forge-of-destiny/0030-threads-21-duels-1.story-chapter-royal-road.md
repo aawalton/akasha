@@ -1,0 +1,201 @@
+---
+id: 3c9d044b-a738-5bb8-a029-3cd191fa4d01
+page-type-slug: story-chapter-royal-road
+title: "Threads 21-Duels 1"
+slug: 0030-threads-21-duels-1
+partOf: forge-of-destiny
+position: 30
+ownLength: 3680
+unit: words
+publishedAt: 2020-12-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/598140/threads-21-duels-1"
+royalRoadId: "598140"
+---
+
+Seven days and seven nights.
+
+That was the length of time that Ling Qi spent atop White Cloud Mountain in the Outer Sect, cultivating with Zeqing. She rested in the muse’s home, played with her daughter, and drank sweet chilled wine. She immersed herself in darkness and music. She might have resolved to pay the other parts of her nature more mind, but right now, with the medicines she had taken, it was time to master the element at the core of her combat ability.
+
+Cultivating on a mountaintop above the clouds, the lunar qi she drank in each night was clearer and purer than ever, and she felt another layer settle into place around her dantian, another phase complete. The seventh phase was not wholly complete; she would need to seek out an understanding with her lunar patrons to finish it, but its improvement was enough for now, especially since she could now gather up to a green stone’s worth of stellar energy for use in cultivation. In playing with Hanyi, she improved her body, and in practicing with Zeqing, she came to master her songs.
+
+The eighth and final measure of her Forgotten Vale Melody consolidated the improvements she had learned in previous measures with the mist called darker than ever, the phantasms stronger, and the drain of her elegy all the more potent. She even learned how to bring her capstone technique, Traveler’s End, to a finale. If she wished it, she could end her Melody by triggering Traveler’s End, making all those lost in her mist suffer an echo of the traveler’s death in that far away vale, a massive spiritual attack that could even leave them paralyzed.
+
+But it was Frozen Soul Serenade where Ling Qi gained the greatest insights. In the mountains, under the tutelage of the creator of the art and her teacher, Zeqing, she quickly mastered what remained of the art. The Hoarfrost Caress technique evolved into the Hoarfrost Refrain, a cold that lingered and echoed, spreading through the target’s blood and meridians like a frigid poison seeking the heart of the warmth. The chill would cling long after the technique itself ended until dispelled or the target was lulled into the final sleep. She also learned to infuse her Aria with an echo of true winter, stilling the air around herself with freezing chill, granting her attacks greater penetration and stealing the energy from attacks made against her.
+
+The only thing that remained to master was the finale, the Call to Ending. It would be her first real finisher, a technique to bring about the absolute cold that lay at the end of all things and rip all the warmth from an enemy at once as she laid her hands upon them.
+
+She still had a little trouble getting into the mindset for it.
+
+On the eighth morning, Ling Qi opened her eyes and looked out over the flat mountain top. She was seated beneath the odd fruit tree that stood in Zeqing’s yard, and she was surrounded by flowers of ice.
+
+“Big Sister is such a show off.” Her gaze was drawn to her right as Hanyi spoke. The spirit had changed since that day last year when she had met the little brat in the middle of a blizzard. The changes had begun recently and only accelerated with each passing day, but Hanyi was older in appearance now.
+
+She had the same corpse-like pallor and wore the same threadbare child’s dress, but she resembled a young girl of ten or eleven now. Her dark hair was still worn in a child’s pig-tails, but it was longer now as well. Yet that stance, with her hands on her hips and her cheeks puffed out in frustration, was still purely Hanyi.
+
+“Is it really showing off if I can still do more?” Ling Qi teased back with a smile, gesturing to the field of flowers. “I’m only meditating after all.”
+
+The younger-looking girl glowered at her. “Big Sister is getting too cocky.”
+
+“And you’ve been slacking,” Ling Qi replied pointedly. “Just like someone else.”
+
+“Oh, don’t you start! How am I to cultivate in a place like this?” Sixiang grumbled. “What kind of atmosphere is this for a poet?”
+
+“Our house is great and pretty!” Hanyi retorted. “You’re just a dummy!”
+
+Ling Qi sighed. Sixiang and Hanyi got on like a house on fire, not the least because Hanyi really didn’t like being teased and Sixiang was Sixiang.
+
+The wind was stirring as Sixiang formed a retort, but it suddenly fell still and silent as a cold shadow fell over them. Ling Qi looked up to find her teacher looking down at her with blank white eyes. “No squabbling in the yard, children,” the elder spirit said tonelessly. “You are finished, Ling Qi?”
+
+Ling Qi smoothly stood as Hanyi scuffed her foot in the snow and bowed low to her teacher. “I have mastered both arts, teacher,” she replied. “Thank you very much for your instruction.”
+
+She felt the brush of translucent fingers of ice against her cheek and a faint cold pressure on her meridians. “You have, haven’t you?” Zeqing said, a touch of fondness and something else hard to identify in her voice. “What a gifted student.”
+
+Ling Qi felt herself flush with pride even as she glanced over to see Hanyi looking down, her bangs shadowing her eyes. “Teacher is too kind. I am not the only one who has been working hard though.”
+
+“... Indeed not,” Zeqing said, an uneasy edge to her voice. Ling Qi knew without looking that Zeqing was not looking at Hanyi. She had noticed over the last week that the spirit had seemed to almost be avoiding her daughter. It worried her. “You as well, Hanyi,” she said nonetheless.
+
+Even that brightened the younger spirit up, and for a moment, it looked as if Hanyi was going to rush forward to hug her mother, but Ling Qi saw her hesitate.
+
+“Can I consider this month’s lessons complete, teacher?” Ling Qi asked, breaking the uncomfortable silence.
+
+“Yes,” Zeqing replied after a moment, and with the appropriate time lapsed, Ling Qi raised her head to meet the spirit’s eyes. “Your lessons are, in fact, wholly complete for the moment.”
+
+Ling Qi restrained a frown. “What do you mean, teacher?”
+
+Zeqing met her gaze steadily, and her face was without expression. “I have taught you all that I can as you are. To go further… there would be tribulation. You asked that I warn you, did you not?”
+
+Ling Qi’s eyes widened, and she nodded hastily. Zeqing did not need to spell it out. A tribulation from the icy spirit would be a deadly thing.
+
+“Hmph. Big Sister can do it,” Hanyi huffed, not quite looking at her.
+
+Ling Qi gave the younger spirit a sidelong look. “Would I need to make any preparations, teacher?”
+
+“You are as prepared as you can be. It is only your choice that remains,” Zeqing answered simply. “But… not this day. I tire, and you should spend time with your kin.”
+
+Ling Qi nodded, not willing to gainsay her teacher. “Thank you again,” she said instead.
+
+“Might I ask if you found any insights in your time here, Ling Qi?” Zeqing asked.
+
+Could simple words express the insights she had found in her arts? Mastering music as she was, it was becoming ever more clear how limited and prone to distortion language could be. However, meeting Zeqing’s featureless eyes, she knew that the ice spirit would understand the meaning beneath her words.
+
+“Though a path might be hard and lonely, it has worth if I can present something of beauty to those I care for at the end of it.” She spoke the lesson of the Forgotten Vale Melody first, feeling the words resonate with her spirit. It was the beginning of an ethos for action, the acknowledgement of the purpose toward which power was to be bent.
+
+“I see,” Zeqing acknowledged without emotion. “A worthy lesson, but not the only one.”
+
+Ling Qi nodded before silently closing her eyes. She had to wonder what Zeqing would think of her other insight. “There are endings and Endings. Only the very last one is final. Just as winter ends in spring, small endings are new beginnings.” It sounded trite when said aloud, but the meaning rang clear to Ling Qi. To her, it was the absolute conviction that failures and losses could not and would not end her Path.
+
+When she opened her eyes though, she beheld her tutor’s face looking even more like a blank and lifeless mask than usual. The spirit stared at her with empty white eyes, and in that moment, Ling Qi, who stood atop a mountain peak above the clouds ankle deep in snow without discomfort, felt a chill.
+
+“Acceptable,” her mentor said. Zeqing did not even pretend that the words came from her lips, which remained as still and unmoving as a corpse’s. “You should be on your way then. These days have tired me.”
+
+Before Ling Qi could respond to those terse words, Zeqing dissolved into a flurry of ice and snow, and a howling wind carried her presence away, leaving Ling Qi alone with her muse and Hanyi.
+
+<... And you wonder why I’m on edge up here,> Sixiang whispered.
+
+Ling Qi didn’t respond, turning her eyes to Hanyi, who stood there with her head down.
+
+“I’m making Momma sick,” Hanyi said quietly. “Every time I get bigger or learn a new song, Momma gets sicker. You’re doing it too.”
+
+Ling Qi grimaced, looking away from the ice child. “I know. But she doesn’t want to stop teaching us either.”
+
+“I liked how things were before. I could always play, and Momma would always wait for me. It was like that forever,” Hanyi said, looking up at Ling Qi with sad eyes. “I liked learning Momma’s songs even more though,” she confessed.
+
+“There’s nothing wrong with that,” Ling Qi replied. “Hanyi…” She wanted to say that things would get better, but she couldn’t bring herself to lie to the spirit. She didn’t know what was going to happen.
+
+Hanyi scuffed her bare foot in the snow, looking back down. “You should go, Big Sister. Momma will get better soon if we go.”
+
+She could feel Sixiang’s own discomfort pressing against her thoughts and magnifying her own. “Hanyi, just… don’t do anything hasty, okay? Big Sister will figure something out,” she said with confidence she didn’t feel. “Besides, Zhengui will be awake soon. He’d be sad if you weren’t around to tease him.”
+
+Hanyi puffed out her cheeks. “I don’t care about what that big dumb sled feels, disappearing for so long just to take a nap,” she muttered rebelliously. She didn’t refute Ling Qi though.
+
+Ling Qi hesitated then reached out and placed a hand on the little spirit’s head, ruffling her hair in the way she had seen Zeqing do once or twice. “I’ll see you soon, Hanyi.”
+
+Somehow, flying away from the mountain peak, Ling Qi felt guilty for not doing more than stopping by to say hello to her own mother recently.
+
+But she had a cultivation schedule to keep. The medicinal energies of the pills she had taken wouldn’t sing in her veins forever, but she could make time after the energies had dissolved. For now, she had to take advantage of this opportunity and cultivate.
+
+***
+
+In the days that followed her return to her little stone home on the Inner Sect mountain, Ling Qi focused her energies on learning two new arts procured from the Sect’s archive. Both of them were musical arts, although they were outside her usual fare.
+
+The Harmony of the Dancing Wind was a bright song with a strong seasonal theme, expressing the complex feelings of connection in a small community. After her recent lessons, Ling Qi felt that her rendition of the song was colored somewhat. The image that formed in her mind’s eye was of people pulling together, surviving a harsh winter, and celebrating the warm winds that followed.
+
+The other art, Storm Enduring Seedling, was rather different. The arrangement used alternating verses, one harsh and dissonant and the other light and hopeful, bridged by more somber measures to grant them continuity. It was a song of enduring adversity in the face of impossible odds and the courage to cling to life and live regardless of the trial.
+
+They were both, Ling Qi felt, rather simple arts in comparison to the masterworks she had learned thus far in her two other musical arts. She found herself progressing rapidly with the new arts, reaching the fourth measure and fourth storm respectively, stymied from full mastery only by the current limitations of her cultivation stage.
+
+With the new arts taken as far as she could go currently, she finally retired her old and outdated arts - Abyssal Exhalation, Argent Mirror, Argent Storm, Fleeting Zephyr, and Falling Starts - from her repertoire in order to attune the meridians they had used for her new arts. They had served their purpose in the New Year’s Tournament to reach the Inner Sect, but now, with the luxury of time and free access to the first floor of the Inner Sect archives, she could start tweaking her repertoire to better suit her needs.
+
+However, as Ling Qi meditated and played in solitude in her home and at various cultivation sites, that was not the only progress she made. It came back to the pills she had purchased with her hard earned Sect Points. The Melodic Elixir was responsible for the ease with which she had progressed her musical arts, its humming energy opening her mind and soul in ways that she had not thought possible, but the other, the Unwavering Discipline pill, took the elemental energies she was cultivating and drew threads of them into her body. Notes of music flowed through her veins, vital wood qi fortified her flesh and muscles, and the wind carried away impurity like smoke. As a result, Ling Qi found her physical cultivation soaring, breaching the line between early and appraisal bronze by the end of her meditations.
+
+All the while, she could feel her domain changing as well. Previously, it had been an ephemeral thing, but with her diligent cultivation, it was gradually gaining substance. The faint music that followed her when emotions ran high was growing less phantasmal, and she sometimes tracked glittering frost across the grass in moments of inattention. As her domain grew in strength, so too did Ling Qi find her flying sword to begin functioning differently. The Singing Mist Blade began to sing a more coherent song that echoed her own. Upon testing, she found that her flying sword’s song echoed, enhancing the damage and penetration of her own attacks on a target.
+
+***
+
+Ling Qi eyed the stand she had purchased and reached up to adjust her new bow so that it hung properly on the hook.
+
+“It is unusual for you to engage in vanity,” Meizhen said from behind her, sounding faintly amused.
+
+“I’m not so poor that I have to recycle anything that isn’t immediately useful,” Ling Qi said wryly. She still felt a faint wonder at that. She turned away from the stand to look at her friend. They were in Ling Qi’s bedroom, and Meizhen was seated on her bed, watching her work. Earlier, they, along with Xiulan, had been in town browsing the Inner Sect’s crafts market where disciples’ more mundane works were sold. “I still enjoy archery, but I’m not going to be pulling it out in a fight or a duel any time soon, so it can sit here in case I get invited onto some fancy hunt or something.”
+
+“I suppose your usual methods would rather defeat the point of such games,” Meizhen noted serenely, glancing across the still near empty room. “Have you done any practice with more traditional weapons?”
+
+Ling Qi sighed. “Not really,” she admitted sheepishly. “I had intended to work with Lady Cai on that, but…”
+
+“She is rather busy,” Meizhen said with a frown. “The tasks and pace of cultivation she has set for herself are…”
+
+“Pretty strenuous,” Ling Qi finished. She had started to become slightly concerned when her liege had actually been a full minute late to their first spar after her recent spate of cultivation. Cai Renxiang was usually frighteningly punctual. She knew the girl was spending a great deal of time arranging and holding meetings with a wide array of Inner disciples on top of keeping a cultivation schedule that had even raised Ling Qi’s eyebrows due to its strictness. “Of course, I don’t really have much room to talk.”
+
+“Right. You spent a whole morning engaging in non-essential social activity, you layabout,” Sixiang teased, their voice emanating from inside Ling Qi’s wardrobe. “I still can’t believe you only have two gowns.”
+
+Meizhen glanced toward the sound of the muse’s voice, and the shadow around her feet stirred, churning silently like a pool of ink. “I can hardly speak against such practices myself,” Meizhen agreed.
+
+“At least we’re all making good progress,” Ling Qi said with somewhat forced cheer. Meizhen had reached the foundation level of green, even if her physical cultivation wasn’t quite there yet. From the little she had seen of her liege, Cai Renxiang would likely be finishing her own rise to the third stage by the end of the month. The gap between her and Meizhen and Cai Renxiang was narrowing, but it was still there.
+
+“Quite,” Bai Meizhen said. “That aside, might I ask about the purchases you made at the end of our trip?”
+
+“Ling Qi had an attack of the sentiments. It was good to see!” Sixiang replied for her, now seemingly speaking from just above her shoulder.
+
+Ling Qi shot a sour look at the empty air. “I had been thinking of my family. I thought my mother might like some of the poetry collections the stall was selling. The storybook was for my little sister,” she explained. She had purchased the book more for the beautiful watercolor illustrations than the story itself. Biyu was too young to really start on reading yet. Maybe in another couple of years.
+
+Meizhen looked chagrined. “Of course. My apologies. I sometimes forget your familial situation.”
+
+“No troubles. We should get going though. The party is starting soon,” Ling Qi said, gesturing toward the door. “Wouldn’t do for me to be late to my own liege’s party.”
+
+“No,” Meizhen agreed, standing up smoothly to follow her out. “Nor can I afford such either.”
+
+Ling Qi shot her friend a concerned look as they made their way out of her house. Meizhen sounded oddly sour. “Is something troubling you? I thought you were enjoying Lady Cai’s get-togethers well enough.”
+
+“They are an inoffensive enough way to pass the time,” Meizhen said stiffly. “There is an individual I would rather not engage with, however.”
+
+Ling Qi raised an eyebrow. Someone who Meizhen couldn’t just blow off with her status? “Just who is this?”
+
+“Tao Gong,” Meizhen grumbled. “Not of the traitor branch that followed the Sun, of course,” she added quickly, her expression briefly twisting into a sneer. “Shameful that they had the audacity to take the main branch's name in the aftermath.”
+
+Ling Qi let the vitriol against the Western Territories pass without comment. “So the real Tao family is…?” she asked leadingly.
+
+“One of my clan's two count level subordinates. They have significant ties in Celestial Peaks,” Meizhen answered. She glanced around, and Ling Qi felt a ripple of qi as the girl cast her senses about. “He imagines himself to be charming.”
+
+“Ah, why don’t you just…?” Ling Qi gestured vaguely.
+
+“Give him the old death stare?” Sixiang suggested.
+
+Meizhen gave her, or rather, the air just above her head, a flat look. “I am attempting to learn from my aunt. Aunt Suzhen wishes to strengthen our bonds with other clans. Tao Gong reaches above his station, but it is likely that in a few years, things might be arranged so that he may marry into one of the lesser branches in exchange for other considerations. His overtures remain in the realm of politeness, and so my own behavior must remain in the same.”
+
+Ling Qi grimaced. She had begun to field leading questions regarding her own status in such matters, and she was very much not looking forward to when she would have to start giving such offers serious consideration. Still, a question lingered in her thoughts. “You know, how are things likely to work out for you regarding engagement?” she asked quietly. Sixiang remained thankfully silent.
+
+Given her knowledge of Meizhen’s preferences, she was unsurprised at the unhappy look which crossed Meizhen’s face. “It will be one of my cousins, I suppose, once the clan’s elders have determined which pairings will not result in bloodline sickness. The Imperial family is unlikely to offer an invitation, the Cai have no candidates, the Jin have placed their fortunes in the Sun’s camp, negotiations with the Xuan have fallen through, the Guo are too far for useful alliance, and the Zheng regard the entire concept as a farce. It is the only reasonable choice.”
+
+In the awkward silence that followed, Ling Qi looked down at the path descending the mountain. “Well, that’s something to worry about in the future,” she said, determinedly forging on. “Have you picked out who you intend to challenge this month?”
+
+Meizhen shot her a look of fond amusement, masking her previous thoughts. “So certain that I will challenge another immediately?”
+
+“Yes. I’ve been doing my research. Foundation cultivators mostly start appearing around the 770s.”
+
+“I am hardly a wholly foundation level cultivator yet, and mere cultivation level is not everything,” Meizhen pointed out.
+
+Ling Qi gave her a silent look. The wind stirred, a lone breeze enhancing the moment. Internally, she thanked Sixiang.
+
+“Disciple 772,” Meizhen sighed. “You?”
+
+“I think I’ve narrowed it down to Disciple 790.”

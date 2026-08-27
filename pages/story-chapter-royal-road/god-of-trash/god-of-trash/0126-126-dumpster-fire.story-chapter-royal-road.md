@@ -1,0 +1,101 @@
+---
+id: 881f5a7c-0e4e-5277-b7ad-5b7010d6930d
+page-type-slug: story-chapter-royal-road
+title: "126. Dumpster Fire"
+slug: 0126-126-dumpster-fire
+partOf: god-of-trash
+position: 126
+ownLength: 2302
+unit: words
+publishedAt: 2025-07-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2425029/126-dumpster-fire"
+royalRoadId: "2425029"
+---
+
+Rhys charged at Feran, boarding the flying sword he’d stolen earlier mid-step. Feran’s eyes gleamed with a feral light fitting of his name, and he slashed at the air, sending slices of fiery energy at Rhys as he closed in. Rhys cut them down with slashes of Trash Aura. To his surprise, the Trash Aura ignited when it met the flame, burning both up in a conflagration rather than simply clashing and dissipating. He frowned. Was it because trash was inherently flammable? (Or, at least, flammable garbage was, but it was all the same to Rhys.) It did make sense. If he struck at metal with acid, the metal would melt. If he struck ice with water, the water would freeze. Hit fire with trash, and the trash burned up.
+
+He closed the gap, and the two clashed. Feran was at least Tier 3, and their strength matched, but Feran’s swordwork was inferior to Rhys’s. They exchanged a few blows, and then Feran summoned a fireball in his free hand and threw it at Rhys. Rhys knocked it away with his Trash Intent sword, but the bright light blinded him for a moment, and that was all Feran needed to put some space between them. He dashed into the sky, summoning another fireball and instantly lobbing it at Rhys.
+
+Rhys slashed it down, chasing after Feran, but now that Feran had distance, he kept it. They raced over the sky, all while Rhys’s internal clock ticked on. The Empire would send reinforcements eventually. The longer Feran dragged this fight out, the closer the Empire got.
+
+“I thought you all followed the Emperess’ path. How do you wield fire, then?” Rhys accused Feran, trying to distract him and slow him down. The bugs weren’t a good match; they’d just get burned up en route.
+
+Feran brandished his sword, then went back to throwing fire at Rhys. “I’m of noble blood. Unlike the common folk, we’re allowed to pursue our own paths.”
+
+“What about your cores?” Rhys asked.
+
+Smugly, Feran grinned. “She takes them ceremonially, and they ‘belong’ to her, as do all cores, but it’s only a ceremony. At the end of it, she returns the cores to us. This is the core I was born with. In fact, it’s considered shameful if you need to rely on the Empress to acquire a core with better talent for your child, among the nobility. Your bloodline should possess enough talent on its own, without any intervention.”
+
+“And your noble house is?” Rhys asked. If this Feran wasn’t Lira’s enemy, and he suspected he wasn’t, then it seemed highly likely to him that he belonged to the same noble house as Lira’s enemy did. It was a step in the right direction.
+
+“You must truly be from outside the Empire if you can’t recognize House Infernon.”
+
+“Your family sure loves names that end in ‘n,’ huh.”
+
+“Huh?”
+
+Rhys waved his hand in between cutting down fireballs. “Nothing. What’s a noble like you doing on guard duty, then?”
+
+Feran’s expression turned ugly. “Nobles should be upright and dignified at all times. Drinking in the daylight hours is improper, and certainly flirting with common women is beyond the pale.”
+
+“How unfortunate,” Rhys deadpanned.
+
+“What about you? Where are you from? You have your own path, your own core,” Feran asked.
+
+“Didn’t I say? I’m unknowable, unassailable, an enigma within an enigma. Rend, the unknown,” Rhys boasted.
+
+“That sounds more like a command than a title.”
+
+“Says Mr. Fire Inferno,” Rhys shot back.
+
+Feran barked a laugh. “I like you. Why don’t you join the Empire? The Empress is always willing to overlook a little aggression in return for a powerful foreign fighter like yourself. I could even see to it that you went through the nobility’s ceremonial core-exchange ceremony rather than a true core exchange, if you preferred.”
+
+Rhys drew his hand back, calling forth the power to summon the rat swarm. “I would rather die.”
+
+“An opponent of the empire, then? Then I suppose it’s time I get serious.” Feran’s eyes narrowed, then began to glow. Fire streamed out from his eye sockets and danced in his hair, flowing down his back like a waterfall. His power spiked, surging far higher than its initial level. This whole time, their power had been more or less on par, with Rhys and Feran both somewhere in the lower half of Tier 3, neither of them fighting seriously, but merely probing their opponent. Now, however, Feran’s power surged to the peak of Tier 3, on the verge of breaking into Tier 4. Rhys braced himself, stoking the trash star in his heart to hotter flame. Since he’d escaped the mine, he’d burned it low and slow, moderating its power to keep it from spiking anyone’s attention or burning through the trash too quickly. Now, he pushed it to full flame, preparing to use his full strength.
+
+Feran had been hanging back, but now he closed the distance. Rhys barely had time to prepare as he flashed in, little more than a blur of red-hot flame against the sky. Feran struck at Rhys’s neck, his blade trailing flame. Rhys barely raised his sword in time. Trash Intent met flame, no, Flame Intent, and Rhys’s sword ignited in his face. In the split second he had before it burned away, Rhys pushed Feran back, making just enough room to dismiss the Trash Intent before it broke and hit him with backlash. He recreated his Trash Intent blade, but knew he couldn’t use it against Feran meaningfully, not when Feran could ignite it at any moment.
+
+He threw out his hand, summoning the rats on Feran. They swarmed him, but only for a split second before the fire coursing over Feran burned them away. The stench of fur and cooked meat filled the air, and though Rhys had summoned them, essentially creating them wholesale, he still felt a bit bad for the rats.
+
+Rhys fell back. Fire truly was his weakness. Not only in terms of what he could learn, but also in incinerating trash with no mercy. Trash Intent ignited. Trash Aura, likewise. The rats burned under Feran’s fire cloak. The bugs… he hadn’t tried, but would almost certainly meet the same fate as the rats, being the same attack, but smaller, more flammable, and with different attributes.
+
+He tossed out his impurity daggers. Feran threw out a half-dozen firebolts, which sought through the air and seared the impurity daggers to nothing, burning them up. Rhys grimaced. Not good.
+
+Feran laughed at his retreat and whirled his hand. A horse made of fire materialized beside him, and he mounted it. Fire surrounded his sword, forming the shape of a lance around it. His flying sword sheathed itself, and Feran galloped through the air toward Rhys, refusing to let him retreat. “I don’t know what kind of mage you are, but it’s clear you have no answer to fire. You die here.”
+
+Rhys grimaced. He tightened his grip on his sword and activated Trash Intent again. Resolutely, on the back foot, he shouted, “No! I refuse!”
+
+“You don’t have the right to refuse.” Feran galloped toward him, drawing back the lance. Rhys jumped, but Feran tracked him with his lance. He stabbed him out of the air, long before Rhys’s sword could reach.
+
+Rhys gasped. The pain seared into him, burning and piercing all at once, as he sagged down the lance. He reached out toward Feran, but his arms weren’t long enough to reach.
+
+“Foolish. You should have accepted my offer while you—” Feran coughed. He touched his lips, and his fingertips came away bloody. Confused, he looked at his hand, then up at Rhys.
+
+Rhys laughed, his face contorting as the pain of laughing dug into him. He nodded at Feran. “You burned it. All of it. My impurity daggers. My Trash Intent. My rats. And now my blood. All made of filth and impurities. What do you think is in this air around us? The air you’re breathing and drawing mana from, even as we speak?”
+
+Feran coughed, spitting blood. Disgust flashed over his face. He slashed his lance, throwing Rhys to the ground. Rhys dropped through the sky, trailing blood, only to weakly wave his hand, call the flying sword over to him, and drop onto its flat. He gripped his gut, unable to stand, but able to sit, if he slumped a bit. Circling slowly to the ground, he laughed at Feran on his flaming horse. “Do you feel the impurities in your blood, poisoning you? In your lungs, your bones, your heart? You thought you were winning, but you were signing your own death warrant. The more you fought, the more you poisoned yourself. How does it feel, to have caused your own demise?”
+
+Feran coughed harder. He sagged on his flaming horse, only to widen his eyes as he realized: the burning horse only spread the impurities more. He dismissed it and the lance, but it was too late. He was laden with impurities, the air all around him thick with them. Turning, He went to flee.
+
+Rhys snapped his fingers. The bugs appeared, swarming Feran’s face. He beat them away, still flying off, but slowed to fight them, his attention split. Rhys gestured again, and the impurities in the air around Feran materialized into a knife, then slammed into the sword under his feet. The impurities struck the sword and infiltrated its metal, corrupting it. It shattered under Feran’s weight, and he dropped out of the sky.
+
+Rhys took control of the shards of shattered blade with Trash Manipulation and pulled upward, dragging them through Feran’s body like the fragments from a frag grenade. Feran screamed in pain and summoned his flames to defend himself, only to start coughing profusely again. He hit the ground and tried to climb to his feet, only to sag back to a sit.
+
+Rhys flew down and hovered before Feran, sitting on the sword. He couldn’t stand, so the best he could do was to sit menacingly over Feran, a smug expression on his face. “No counter to fire? Wrong. I’m nothing but a counter to fire.”
+
+Feran glared at him. He opened his mouth to say something, but his eyes dimmed. He sagged to the ground, the life leaving him.
+
+Rhys coughed a few times, badly injured. He drew out a health potion—having used some time to brew one or two in between cooking potato chips and developing the insurgency—and took a small sip, letting Less is More take over. His body healed slowly. He bent feebly off his sword and absorbed Feran, then looked up and took a deep breath, calling all the impurities he’d released into the air back into himself, along with the shattered remnants of Feran’s flying sword and everything else he’d used during the fight, to the extent that he could. He winced as he moved, clutching the hole in his side harder. As much as he’d acted like he was on top of things, and everything was going according to plan, he’d really discovered halfway through the battle that Feran burning his trash didn’t rid it of impurities, then used that to his advantage. True, he already knew that burning trash released impurities into the air, given his cauldrons and burn pits up until this point, but he simply hadn’t known whether this quantity and strength of impurities was enough to stop someone like Feran. Clearly the answer was yes, but was it his plan from the start? No. He’d been honestly losing that fight, grasping at threads.
+
+I wasn’t going to lose. He still had more up his sleeve. As long as he’d touched Feran, for example, he could have directly imbued the man with impurities, and there was always the option of burning the trash star to supernova or simply chucking rats at the man until he got past the fire through sheer mass, and a few other attempts. It hadn’t been going well, but it hadn’t been a guaranteed loss, either.
+
+Still, this was a wakeup call. He took a slow breath, sitting up with some effort, and sipped the potion again. He was stronger than ever before. Tier 3, with a ‘core’ based on his path that empowered his path skills more than his normal core did, but there were still geniuses out there. At the end of the day, he was a trash talent, and he had to work hard to match up with and beat those who were true talents. He hadn’t been working hard on levelling up lately. He hadn’t been slacking; he’d been busy with other pursuits, but he had neglected his own strength. This was a reminder that that wasn’t an option for him. He had to constantly work on getting stronger through some means or another, or else fall behind.
+
+He turned slowly, minding his wound, and searched out Lira. If his guess was right, then being Tier 3 meant Feran was the strongest guard around. Now that he was defeated, it meant they were more or less safe from the guards.
+
+Lira stood in the middle of a circle of dead guards, flanked by the re-cored mages. She looked across the farm and locked eyes with Rhys, then gestured him over. “Come clean up, and let’s get out of here.”
+
+Rhys nodded. He floated over, not willing to trust his legs with his current state of bloodloss. Holding out his hand, he absorbed the guards, then nodded at the mages. “You’re free to go. Do as you wish. Remember, you were never here, and you never saw us.”
+
+The mages nodded. They ran off, scattering to the four winds. Rhys gave Lira a tired smile. “Come on. Let’s get home.”

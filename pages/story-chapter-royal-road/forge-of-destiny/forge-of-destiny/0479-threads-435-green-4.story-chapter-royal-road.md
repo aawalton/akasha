@@ -1,0 +1,105 @@
+---
+id: 56408b04-2903-56de-bddb-f87df2bb8886
+page-type-slug: story-chapter-royal-road
+title: "Threads 435 Green 4"
+slug: 0479-threads-435-green-4
+partOf: forge-of-destiny
+position: 479
+ownLength: 1839
+unit: words
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2125142/threads-435-green-4"
+royalRoadId: "2125142"
+---
+
+"Where did the Kohatu and Atamai come from?" Gui asked. "Gui does not smell lands like these mountains, hills, and woods in your spirit. The mud and roots are wet and hot and scented of salt."
+
+Kohatu blinked slowly. Gray dust flaked off and fell, and Ling Qi observed another stronger pulse of glowing verdant green. She caught the scent of exotic plants and the harsh glare of sunlight off of a beach of glittering black sand.
+
+"Yes. Far, fAr from here, we were born. North. North. North. Beyond the girdling cuRrent in the shadow of the Everstorm," Kohatu began, sounding almost entranced. "Where mountains belch fire, and ravenous green sweeps out in fire’s wake, new shoots growing up before ash has even cooled. Warm. WaRm. Bright Sun. Black Sand. Where men are few and tread most beneath the waves off of shore."
+
+When first taking care of Zhengui's egg, Ling Qi had looked into bestiaries and found some mention of the Volcanic Tyrant Tortoise, inhabitant of islands far out in the northern sea. It was as she suspected, but she did not want to disrupt the shade, which she could see was drawing stability from her recall of times long past.
+
+"I, Zhen, never liked waters until Miss Snowblossom. They are too cold and heavy, drowning fire, but, I scent the warm water, the brightness, the falling ash and blooming shoots in your words. What is the Everstorm, which breathes so hungrily, casting its rains over all?" .
+
+"It is the wound in the world, the fallen piLLar," Kohatu replied. "Raining, ever raining, cracking the firmament to release the blood that makes our isles of fire and green. Child, you should see it, O ruin in purest form. Such is the world that even it blooms new life," Kohatu said reverently.
+
+From her reading and conversations with Xuan Shi, Ling Qi was aware of the permanent storm that churned the oceans north of the boiling seas created by the death of the Sun. But the storm had only been mentioned as a passing detail of geography, a note that voyages to the east of the empire were functionally impossible.
+
+"Oh. Oh. It is the hole Zhengui can feel far, far away when he stretches his roots out as much as they can go and becomes the land," her little brother said, both voices weaving in and out of the words spoken, one going smoothly into the other.
+
+"It is that. A great wound. But few things are one thing alone. Atamai and our master, they would meditate on this."
+
+The strange rising and falling and sudden changes of the spirit’s tone were fading, along with the spasmodic twitches of her claws and flicking of her tail. She was growing more still, and yet the gray blight on her scales was not taking her as it had been when they first approached.
+
+There were many kinds of motion, Ling Qi supposed. Many ways to fight killing stillness. To speak, to teach, and to be reinvigorated through others was a reminder that one’s existence could extend beyond their flesh and spirit.
+
+"Ah, your master. You had a human, too?" Gui wondered
+
+"Yes," Kohatu replied, her scales shook and dust sloughed off… but something dark crackled and popped like rotting static through fields of verdant green. "He was. Master was… He was of the sea, but preferred the shore. He was an outcast of shoal, not hated, but unwanted. I do not understand the ways of humans above or below wave. But Master was good. Devotee of storm and surf, blade of waters…"
+
+Her claws dug into the packed and fossilized ruin.
+
+"Ships came then, the great mistake… No, nO, no. Was nOt mistake. not YEt. Later. Years and years under bright sun and verdant leaf. RemEmBer, reMemEr, emptiness cannot HaVe IT!"
+
+The last word was a bellow that left Ling Qi clinging to Zhengui's shell and him bobbing downward under the force of the wind.
+
+"Ask. AsK. Ask,cHIlD. I must rEmeMbeR…"
+
+Zhen let out a worried hiss, peering at her nervously, but she nodded to him. It was fine. They were fine. She was ready to drop them out of the dream if necessary.
+
+"Will you tell Gui about the green under ash? The leaves that grow from fire? My land is different. My ash makes it strong, but I wonder if I am doing wrong, bringing fire here. Gui worries. He only knows what is in his blood and little things from scholar friends."
+
+Kohatu's immense body shuddered, clouded eyes rolling, and the cataracts that had begun to bloom in them shrank back down.
+
+"GreEn. GReeN. YessSss. Green, cOld lands, stoNe lands. NOT islEs of gRAss and fIre." Kohatu exhaled, and Ling Qi could feel all the clearer now the multitude of cracks running through the shade’s very existence, barely held together by the echo of the once living beast’s will. "Green is rIch, grEEn is hungry, bUT ash, Atamai's fire, destroys with destruction. Watch. Watch the earth. It shoots, it sprouts, life ever blooming. If you are in bAlance with yourself, as he and I were in balance, you will not blight any earth. But. I do not. Know. Interference. Cold Ones. Enemies. I cannot know."
+
+Kohatu’s rapidly changing cadence lent a melancholy to her words. It was liek talking to someone so old that they were beginning to forget themselves.
+
+"Gui understands. He is happy he can make things grow without worry. He will just keep working hard." her little brother said, having taken a moment to parse the rush of tangled words.
+
+Zhengui's jetting fires roared louder as he carried himself higher, out of the gusting wind which blew from Kohatu's erratic breaths.
+
+"Persist. Yes, pErsist. This is the essence of Green. My essence. Your half essence. Not invulnerable, not immortal, enduring invincible, but ever, ever-growing. Grow when you live. Grow when you are dead. NeVer stop. The Isles live in the shadow of catastrophe. Great. Greatest Catastrophe. Heaven falls. Sky falls. GoDs War, but LiFe persists. Seeds torn away from the One Land float for eons on ocean waves, sleeping, but not dead, eking life from razor sand and boiling rOck. Roots stretch, stretching under ashen earth, safe and ready to grow. Stems burn black, but with cORe of blazing GReen." Kohatu rambled on, eyes focused on something distant, but every few words, she twitched, turning back to look at Zhengui. "My roots so farrrrR cannot live, but cannot die. Should. Not. Should not have come. But could not stay behind. Child, not born from the roots but His hope, Atamai, my Atamai. Grow your roots deep, deep, deep, and StaY, and you will never die and never bReaK like I. If your GreEn persists."
+
+"... Ah." Zhen stilled, as if seeming to make a realization. "I, Zhen, understand. I could not grow before, because there was no room."
+
+"Because the land was not mine. Because Gui was not the Garden King. Because there was no room for roots there. The sect trees did not want me, and Sister’s sibling disciples did not grow things, and when they did, they were not in the land.Gui knew this, but…"
+
+"Seed of Green, like first seeds lOng ago, must be your oWn burning. Lonely, but…"
+
+"Gui has never been lonely."
+
+"I, Zhen, have never been lonely."
+
+Kohatu paused and stared at them. And it was them, not just Zhengui this time.
+
+"He is not alone, and never has been,” Ling Qi said evenly, tilting her chin up to meet the massive beast’s gaze. “That much, at least, I have been able to accomplish."
+
+“Not. Lonely." Kohatu's voice rumbled like the falling of a great tree. "Not. Lie. I see. You are whole."
+
+"I, Zhen, am the proud young king of the lands beside Snowblossom lake. Of course I am whole."
+
+"That does not mean Gui cannot strive to be more," her little brother said. "Kohatu, who is the Green Shoot of Boiling Sea? I do not want to make you sad, but you say Gui should set roots and never go. So, why did you go so far from where Kohatu's roots ran deep?"
+
+"Love. I loved my master and curious Atamai. So, I went when the ships came." The same distortion welled up, but the words they had shared bound the other spirit closer to the present, and Zhengui’s presence seemed enough to prevent the near loss of self from before. "Men. Land men, not blood of sea. Hunting. Playing in waves. Killing. Being killed, joining the Green. The Horizon Blade met my master. Their weapons SanG. Found HarmonY. Sword Song bent; the Horizon Blade chipped. Became. Man."
+
+Ling Qi frowned to herself. The chained tortoise in Elder Ying’s trial had said they were betrayed a hundred years ago. But Horizon Blade could only be the elder whose blade she had spoken to at its grave, and he had died to Ogodei far more than a hundred years ago. Was the tortoise, Atamai's, sense of time just twisted by endless solitude and confinement?
+
+"Ships. Lost. Land Men grew bored. Green Hell. Not what they sought. Called back Horizon Blade. Horizon Blade said, taking Master. Master wen. Atamai went. I would not stay behind. Went away to strange white sand. Tricks I do not understand. A guise was made. Went to this land, the land of twisted dreams where all eyes fogged. To be forgotten."
+
+Kohatu paused and then muttered..
+
+"Not. Not. NoooOT Mistake. NoOt Yet. Mistake. Later."
+
+The land of twisted dreams where all eyes were fogged. Ling Qi supposed that was a good summation of the Emerald Seas under the rule of the Hui. The prior ducal clan’s many projects had twisted divination in obscuring ways within the bounds of their land, a byproduct of their arts and formations.
+
+Piecing together Kohatu's rambling story with the bits of information she had learned from the blade, the man who would become Elder Lang was a sword saint of the Jin Treasure Fleets. He had met and clashed with Atami and Kohatu’s master, and somehow, their cultivation had resonated. They had come to an understanding, something that broke or bent their Ways. Then, their master, one of the sea folk, had been taken back to the empire. She could almost see a justification there with the elder-to-be claiming them as a war prize, but that seemed dubious even to her understanding of imperial law. No wonder they had to go through other means, especially as she was sure the Jin would not be pleased to see a sovereign military asset just wander off.
+
+"Kohatu does not have to go on if she does not wish," Gui said gently.
+
+"I, Zhen, do not wish to open wounds. To speak of green and flame is enough."
+
+"No. No. I mUst say this. I remember now. YoU should kNow," the great beast replied, dragging herself forward over fossilized ground, looming even closer. " LiSten. ListeN."
+
+Zhengui paused. "Okay. Zhengui listens."

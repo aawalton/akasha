@@ -1,0 +1,99 @@
+---
+id: dc00670d-8b21-5820-8c54-6794da919d18
+page-type-slug: story-chapter-royal-road
+title: "96. The Tournament is Over"
+slug: 0096-96-the-tournament-is-over
+partOf: god-of-trash
+position: 96
+ownLength: 2240
+unit: words
+publishedAt: 2025-06-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2330879/96-the-tournament-is-over"
+royalRoadId: "2330879"
+---
+
+The tournament was over, but not the festivities. There was a festival in the afternoon and a banquet in the near future. As one of the finalists, Rhys received an invitation to the banquet, but he was more interested in the festival. While the Tier 3 battles went on, Rhys ran down to the trash heap. The rats and raccoon overseer were all busy growing and storing potatoes, and the rest of his setup was still in working order. He quickly fried up a series of chips—his cut was getting better, after several days of practice without Bast’s help—and transformed into Rina. He didn’t need airtight bags, since he was immediately selling them, so he just needed to use a little trash to create big sheets of paper that he could tear into parts, roll into cones, and hand out potato chips in. It was inspired from the cheap method of selling fries, but it worked for chips too.
+
+His last-minute efforts done, he rushed back to the market and opened his stall. Most of the contestants were busy talking to their mentors or watching the Tier 3 matches, but there were still plenty of mages around to either get another hit of their favorites, or sample his wares for the first time. He charged an absolutely exorbitant rate, but today was the last day, and potentially Rina’s last appearance. Either everything went well, and he went home, or the Empire attacked, and he’d have more pressing issues than expanding his potato chip empire.
+
+Bast, of course, had to attend all kinds of boring things alongside his mentor. The man didn’t even have to explain himself; Rhys understood. He was the all-important winner of the tournament who was also the all-important disciple of the Sword Saint. There was no chance whatsoever that Bast would escape from his mentor’s side until at least tomorrow, and maybe even the day after.
+
+Maybe even not until he’s moved out from under the Empress’s nose.
+
+He wouldn’t hold it against Bast if he was spirited away. In fact, he’d even cheer him on. Better Bast got out of here, than to see him ruined at the Empress’s hands.
+
+“Is this it, then?”
+
+Rhys looked up, snapped out of his thoughts. Anabel stood before him, gold outstretched. He took her money and handed her a bag, and tilted his head. “What do you mean?”
+
+“Is this it? You go home, and no more Rina?”
+
+Rhys blinked at her. “Wh…what do you mean?” Had she seen through him?
+
+“It’s such a waste. You’re so beautiful like this.” Anabel sighed. “I’ll miss dressing you. You were my ideal model. That mysterious androgyny, the aloof yet approachable air… if Rina ever makes a return, find me, okay?”
+
+“Er… haha, what do you mean? Rina is a normal person who always exists!” Rhys said awkwardly.
+
+Anabel winked and sauntered off, cracking open her bag of chips as she went.
+
+She knew. She totally knew. Did she know the whole time? Rhys watched her go, then chuckled to himself. Maybe they had more in common than he’d thought. Could it be that she was a fellow crossplayer…?
+
+Thoughts for another time. Customers flowed in, and Rhys fended them off with potato chips while taking their coins in the noble exchange known as capitalism. At last, a figure in a white uniform stood before him. Blood still stained his hair and chest, but he stared at Rina, a complicated expression on his face. “You…”
+
+“Your potato chips, sir!” Rhys said in a slightly-more-high-pitched-than-usual voice, shoving a bag into his hands, carefully not touching him. Who knew what Laurent could tell by touching hands with another human being? He didn’t trust those hands of Laurent’s any more. If he really had recognized Rhys by hand-brush, that talent was just too weird for Rhys.
+
+Laurent stared at his face, searching for something, anything. He hesitated, then turned and reached in his pocket. “I, um. It’s a delicacy of our country, I… wanted you to have it.”
+
+“Oh, that’s alright, don’t worry about it,” Rhys said, waving his hand. There was a long line, and he didn’t want to spend too long around Laurent, in case the guy finally put two and two together.
+
+Laurent grabbed his hand. Rhys instantly started sweating. Laurent kept fiddling, cursing under his breath. At last, he dragged it free: a glass jar, with a chunky red substance inside it.
+
+“We call it marinara—”
+
+Rhys snatched it out of his hand. He twisted the lid open and took a deep whiff. There was no doubt about it. He’d recognize that acidic savory scent anywhere. He looked up. “Tomatoes?”
+
+“Er, yes, it is made of—”
+
+Rhys grabbed his collar and yanked him in. “Do you have seeds?”
+
+Laurent blinked. Rina was suddenly very close to him, and despite everything, it was overwhelming. He looked aside. “Uh, I… I could get some.”
+
+“Please. I’ll do aaaany… I’ll pay you good money,” Rhys said, before he accidentally pledged to do anything for Laurent.
+
+Laurent nodded and stumbled away, stunned. Rhys glanced down, and abruptly realized he’d never handed the chips over. “Laurent! Your…”
+
+Laurent vanished into the crowd.
+
+Rhys looked at the chips Laurent had abandoned, then turned to his next customer with a smile. If Laurent didn’t want them, that was his problem. With a casual gesture, he put the marinara in his storage ring and returned to his salesman mode, selling off the remaining stock to his eager customers. Laurent didn’t return, though whether he was too embarrassed to come back to claim his forgotten chips, or he simply couldn’t find tomato seeds, Rhys couldn’t say. The marinara was better than nothing. In all likelihood, all the seeds were too cooked to grow… under normal circumstances, that was. But seeds in marinara were generally considered undesirable. There was a chance that one of his trash skills might work on them.
+
+Maybe they can be my first target of trashomancy, Rhys thought, then frowned. Did he really want undead tomatoes, though? Undead minions was all fine and dandy, putting aside humanity and common decency, but undead tomatoes? Unlike undead minions, he was going to put the tomatoes in his mouth. He didn’t want them to bite back.
+
+He thought for another few moments, then shrugged. Let’s call it a proof of concept. He wouldn’t necessarily eat the undead tomatoes, but if he could awaken them back to life via some form of trash skill, then he would have evidence that such a thing as trashomancy would be possible in the future, but without any of the moral or legal quandaries associated with necromancy. Even if Purple Dawn and the Alliance frowned on curse power and dark skills like necromancy, would they really object against something as silly and harmless as bringing tomato seeds back to life? He wasn’t going to cause a tomato zombie apocalypse, since living tomatoes couldn’t move, let alone undead tomatoes. It was perfectly safe. Probably. In any case, Purple Dawn was about to have much bigger issues to deal with, when the Empress made her move. They wouldn’t have time to deal with a small-time trashomancer and his undead tomatoes.
+
+Back to the trash pit. Rhys set to absorbing more trash and igniting more trash stars, until about half of the trash pit was emptied. It took him the rest of the afternoon, night, and most of the next day to accomplish that, doing nothing but concentrating on absorbing as much trash as he could. He didn’t know how much mana he’d need to accomplish his first trashomancy, but he figured he ought to have as much as he could, plus a body tuned to the utmost so it wouldn’t collapse under the pressure of the skill.
+
+At last, he fished out a little bit of the marinara, making sure the portion he dragged out had seeds. He reached out to the seeds with trash intent. Marinara wasn’t supposed to have seeds. Obviously, in this pre-industrial society, they couldn’t perfectly strain the sauce and remove the seeds, so some still slipped through. If they were unwanted, didn’t that meant they ought to be discarded, and therefore… were trash?
+
+Rhys extended Trash Intent, checking his hypothesis. It took him a moment. His intent slipped over the marinara sauce, unable to grip it. Rhys narrowed his eyes. Not the sauce, but the seeds. The unwanted part of the sauce. A subcomponent of a desirable item, that was itself undesirable in this particular context, though desirable outside of this context. But because it was undesirable in this context, therefore it was trash.
+
+Trash Intent locked onto the seeds at last, and Rhys grinned. Excellent. He gripped the seeds with his intent and poured his mana inside them. The seeds came to life. They wanted to grow, they wanted to come to life, but they were dead. Cooked. Too heat-treated to ever come to life again. He pushed mana into the seeds, activating their intent. They extended ghostly roots and sprouted ghostly stalks, but nothing actually grew. Rhys released his Trash Intent, and the ghostly parts growing from the seeds vanished.
+
+He pinched his chin. Compared to the bones he’d melted down for glue, the tomato seeds had a far weaker intent to live and ‘become’ again, and on top of that, intent was only a projection of what had been, or at best, what could be. It wasn’t real. It didn’t make form, only the shape of form. He couldn’t create the metal of a broken cauldron, just the image, the shape of the cauldron. It was the same with the seeds. He could create the shape of life, but he could not actually imbue them with life, any more than he could make metal appear just from projecting a cauldron. He could use the projection of a cauldron to fix a cauldron, like the super-strong cauldron currently rotting in his inventory, but he couldn’t do the same with plants. No amount of smelting would give him a living tomato seed.
+
+Was there nothing for it? Maybe if he used bones. The bones had really wanted to come back to life… but then, that wouldn’t achieve what he wanted. Sure, he could use the bones to create a sort of skeleton-undead as long as he kept Trash Intent active to piece it together, but that wasn’t the trashomancy he craved. He wanted the fire-and-forget kind of trashomancy, the kind where he raised the dead and walked away, and there was no cost but the initial cost.
+
+Putting the seeds back in his pocket, he whistled. A couple of rats scrambled up to him, and he showed them a bone. “Could you bring me more like this?”
+
+The rats scattered. One returned with a chicken bone. Another came back, dragging a ham bone with all its might, little feet digging into the trash in its effort to drag the bone to Rhys. The final rat carried a mummified mouse over, the little thing dangling from its jaws.
+
+“Thank you.” Rhys reached out toward the mummified mouse and pushed intent into it. The dried-out body soaked up his intent like a sponge, and took form of its own volition. The two-dimensional mouse stood upright. It tried to squeak, but all that happened was that its jaw moved. Only two of its legs could touch the ground at once, due to the way it had mummified, but it worked hard to stay upright on those legs.
+
+“Go,” Rhys ordered it.
+
+The mouse mummy teetered off. He watched it go, measuring its progress in his head. The whole time, it absorbed mana from him, and a tether of mana connected it back to Rhys. The second it left the range of how far Rhys could push intent into it, the mummy fell over, no more alive than it had been to begin with.
+
+It’s not an undead, or even its own being. It’s nothing but a manifestation of the mummy’s intent. It was interesting that manifesting the mummy’s intent could give it its mobility once more, but that was all there was to it. Even when he’d given it the order aloud, he’d done that for his own sake. The mouse hadn’t understood the order, or heard or comprehended it. He had pushed his intent to influence the mouse’s intent such that it walked away, that was it. Some things were handled by the mummy’s intent, like balancing and its chosen method of locomotion, but other than that, it was all Rhys’s efforts, rather than anything to do with the mouse.
+
+Rhys sighed. It seemed like undead tomatoes would have to remain a dream. Not… that he’d been dreaming of undead tomatoes. It was only a thought experiment that hadn’t worked out. The sensation he’d gotten from trying, though, wasn’t that it would be impossible forever. Instead, he lacked the proper concentration and comprehension to break through the bottleneck and actually create trash zombies. The bones wanted to. Even the tomatoes were willing to try. He was the part of the equation that wasn’t coming together.
+
+Dusting off his hands, he turned back to the remaining trash. Plenty of trash to go, and with the Empire’s impending invasion right around the corner, it was time to power up as much as he could. In other words, it was time to ignite more trash stars.

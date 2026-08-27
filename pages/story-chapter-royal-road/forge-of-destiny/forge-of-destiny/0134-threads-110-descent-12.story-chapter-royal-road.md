@@ -1,0 +1,101 @@
+---
+id: 3eff8dc5-0977-5bef-a260-4fa86c68b926
+page-type-slug: story-chapter-royal-road
+title: "Threads 110-Descent 12"
+slug: 0134-threads-110-descent-12
+partOf: forge-of-destiny
+position: 134
+ownLength: 1584
+unit: words
+publishedAt: 2021-07-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/721132/threads-110-descent-12"
+royalRoadId: "721132"
+---
+
+Inside the cocoon, Ling Qi tried not to scream.
+
+Outside of her confinement, Hanyi sang at the top of her voice and called winter into the Dream. Falling snow mingled with swirling ash in a flurry of steam as Zhengui bellowed a challenge.
+
+A fox pounced and rippled midair, transforming into a woman with blonde hair and a rose pink dress, identical to the face that spirit had worn, save for lacking the cruel and smug cast of the other spirit’s features. The fox seized Su Ling and spun her out of the way of a lashing black ribbon as four points of blue-white fire bloomed in an arc around Su Ling’s shoulders.
+
+Bian Ya rose into the air on a billow of wind, and her fan flared a verdant green as flowers bloomed from the stone under their feet, filling the air with an empowering pollen.
+
+And Ling Qi was trapped.
+
+She had been half-conscious, delirious on arrival, but she could feel the damage she had done to herself. Too much Dream qi, too quickly, flooding meridians not attuned for its use. It had been more painful than anything she had ever experienced. Ling Qi could still recall the feeling of part of her spirit melting like she was stone under Meizhen’s venom, the tangle of color and sound and memory that had threatened to drown her and wash everything away before Sixiang had spun themselves into a barrier between Ling Qi and the sea of Dream.
+
+She could see and hear, but she couldn’t express herself outward. She couldn’t tell Zhengui that she would be alright. She couldn’t tell Hanyi not to worry. She could only watch them bicker and fight, clearly pained by what had happened to her.
+
+Outside, black ribbons spiralled together into a rippling portal big enough to swallow Zhengui, and only a desperate sweep of her fan blew Bian Ya far enough away to avoid its touch. Xuan Shi tore open a belt pouch with a hand that should have been useless, and fourteen ceramic plates spun out, blazing with sea green qi to nail ribbons in place with barriers.
+
+And now, she lay helpless while friends and allies fought an enemy above any of them.
+
+She hated this.
+
+“It’s a pretty bad situation, huh?” a voice whispered in her ear.
+
+If she were able to move, she would have jerked. “Who…?” Ling Qi’s voice echoed back to her, bouncing from the shimmering barrier that Sixiang had formed around her. Then she recognized that voice, not the sound of it, but the feel of it. “Why aren’t you helping them?” Ling Qi hissed.
+
+“Why should I? There’s quite a nice little story going on out there,” the voice replied. It no longer sounded like a woman, the voice of that other spirit, but the unpleasant edge remained. “I’m a sucker for desperate last stands.”
+
+Ling Qi felt her prison shudder as Zhengui pulled back into his shell under the lash of ribbons and felt him tremble as they bit into his shell and drew blood. This thing wasn’t Bian Ya’s spirit, that much was now clear. Bian Ya wouldn't bind an unwilling spirit, and a willing one would help. What was it though? A muse like Sixiang? That didn’t seem quite right. “How are you even talking to me? Who are you?”
+
+“Heh. Good dreams can never keep nightmares at bay. You know that pretty well, I’d think,” the voice whispered. “And wow, I have to give it to you. What have you done to my sappy cousin here? Great stuff. Never would have thought I’d see one of them twisted until they could still themselves like this on purpose. That’s gotta hurt.”
+
+“I didn’t do anything to Sixiang,” Ling Qi snapped. They had done this on their own by their own choice. She couldn’t feel any pain from them. This thing was just messing with her.
+
+She watched Zhengui and Xuan Shi stomp forward, shrouded in ash and snow, weathering the hissing ribbons that slipped through Xuan Shi’s barriers while Hanyi sang her heart out, lashing their surroundings with cold.
+
+Overhead, foxfire wisps whirled and gathered, multiplying by the moment even as they rained down like shooting stars.
+
+“Whatever you say, you greedy little thing.” The wheedling voice bit at her ears like a fly.
+
+The shishigui stalker stood unbowed, shrouded in his ribbons. Only Xuan Shi’s initial counter-attack had wounded it; one of the creature’s hands was bent and broken where it had received the attack, and black blood dripped from the corner of the shishigui’s maw.
+
+Su Ling floated above everyone on a wispy platform of cloud, clutching her saber desperately as her eyes flicked back and forth, trying and failing to fully follow the action.
+
+“Mmph, that’s some good stuff, too. That girl is a feast, but that boy out front… Look at him go. Gonna kill himself for a bunch of people who barely know his name. How tragic.” The open ecstasy in the spirit's voice was deeply unnerving.
+
+“Fuck off,” Ling Qi spat out. It took everything she had not to flex her power against the entrapping cocoon. Even if she was hurt and weakened, she could do something. She could help, but she didn’t know if she could without hurting Sixiang
+
+“Oh, do you want out? I might be able to help with that,” the voice wheedled. “Just cause I like you, you greedy girl. Kongyou’s pretty good at getting where they need to be. Want a hand? They're gonna die anyway if things stay as they are.”
+
+Ling Qi grit her teeth. The spirit just kept talking. The sound of their voice grated on her ears, but could she really say that it was wrong? They were fighting a fortification stage cultivator, and although the enemy had been wounded in the opening exchange, nothing since had so much as phased it.
+
+Hanyi just wasn’t strong enough. Her songs barely spread frost across the growing serpent’s nest of striking ribbons. Zhengui was enduring, but that was all. Xuan Shi was being ground down inch by inch while Bian Ya flitted ineffectually overhead.
+
+If she had just been stronger than this…
+
+“If you hadn’t wasted so much time, maybe you could have been,” the spirit, Kongyou, murmured. “But hey, no judgement. It’s easy to get complacent you know? You thought you could afford to play around with the kiddies. Well, here we are. Look how much difference it’s made.”
+
+Hanyi yelped and dove off the side of Zhengui’s shell in a flurry of snowflakes as a ribbon slashed through where her neck had been, and Zhen’s boiling venom cooled and soaked uselessly into the shell of ribbons it splashed across, giving him only a few bloody slashes across the snout for his trouble.
+
+“But it’s fixable. I could give you a little assist, a lil mid-fight power-up. C’mon, you have to take care of this lot, right? No one else is going to.”
+
+“And what do you get out of this?” She wasn’t stupid. She knew there had to be a catch.
+
+“A story is a story. One person’s victory is another's loss. Confidence and surety crumbling into helpless rage as you die far, far from home or anyone who could save you, knowing that your people, the ones you swore to protect, will be next... That’s a flavor too.”
+
+It took Ling Qi a second to understand. The spirit was talking about the shishigui fighting them. She shoved the thought out of her head. But…
+
+Wait. What was she thinking?
+
+Ling Qi blinked as the thought rose through her increasingly panicked thoughts, cutting through the noise in her head.
+
+“Tch,” Kongyou hissed in annoyance. “That’s a really annoying domain trait.”
+
+Somehow, that was what finally broke it. The battle still raged around her. Everyone was still fighting. Nothing she had seen was wrong, but her perspective had been warped. The fighting was far from one-sided.
+
+Bian Ya circled above, and the flowers that bloomed below rejuvenated flagging spirits, their pollen mingling with Zhengui’s ash to mend wounds. Xuan Shi was battered and wounded but unbowed, and barriers by the dozen bloomed across the battlefield, pinning ribbons, shielding allies, and forming the lines of an increasingly complex pattern around their foe.
+
+Su Ling stood with Bian Ya’s spirit with a white-knuckled grip on her saber, but her qi was being channeled upward into the growing cloud of foxfire hanging over the battlefield. The rippling lines of explosions that rained down from the sky harried the shishigui, keeping it from holding still, hemming in his movements.
+
+And Hanyi and Zhengui were at the front with Xuan Shi. Roiling roots were growing through the stone under their feet, growing and growing, and although Hanyi’s new gown was stained red from wounds, she was still singing, always staying near, hovering over Ling Qi’s cocoon.
+
+Ling Qi looked at herself. She saw a girl who was held together only by the help of her friend. If she got out there, she would only hurt herself more, and she might even distract someone at a crucial moment. Her qi was depleted, and her spirit was wounded. What had she been thinking?
+
+The Dream thrummed with satisfaction, and the fly in the ear feeling of the other spirit faded away with one last irritated grumble. A one-armed shadow bloomed behind their foe, and a knife flashed.
+
+Ling Qi forced herself to close her eyes.
+
+She could trust them.

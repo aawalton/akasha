@@ -1,0 +1,123 @@
+---
+id: 59735a37-a196-5e44-9e3b-6369cbbf3f11
+page-type-slug: story-chapter-royal-road
+title: "Threads 512-ith 6"
+slug: 0561-threads-512-ith-6
+partOf: forge-of-destiny
+position: 561
+ownLength: 2305
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3241695/threads-512-ith-6"
+royalRoadId: "3241695"
+---
+
+There was more to be said, more to be reported, such as questions regarding tactics, capabilities, and more. These, however, did not require the trembling Tcho-Ri to remain interfaced with the physical node of the Mind. Moreover, much of that would be done by Law's representative and his team in the coming days. That would be beyond Ling Qi's ability to participate… for now.
+
+She understood the true appeal of being able to form multiple selves as higher realms could, even if it weakened her and slowed her cultivation. Sometimes, being in multiple places at once was just too enticing. In the end, that was also why those who could do so were regarded so much more highly as administrators and rulers.
+
+Either way, she would have a great deal to discuss with Renxiang on the journey home.
+
+They faced a different trial now.
+
+The raucous parties had come and gone, and much of the city had an air of hazy sluggishness over it. Its people were recovering from a month-long celebration in fits and starts. The court, though, and its many cultivators of the higher realms were far different. To indulge in mortal pleasures was a cultivator's privilege, but ultimately, it was a whim.
+
+The court was shown in resplendence. The Duchess’ throne loomed high above, perched on the gnarled branch that suspended it over the vast slab of marble that made up the floor. The tables, lanterns, and lights had been cleared away.
+
+The courtiers of the many clans of the Emerald Seas and Xiangmen stood divided by the central carpet leading up the base of the branch that held the throne. On that carpet, Ling Qi knelt, forehead pressed to the fabric behind Renxiang and alongside her fellow retainers. Cai Renxiang knelt in front of them, her head higher, hands pressed to the floor, allowed to look straight ahead rather than down.
+
+Above, blinding light, brilliant and shining, silhouetted the figure of the Duchess and the Prime Minister, who rested her hand on the seated Duchess' shoulder affectionately.
+
+"And so, I conclude my report on the events of the diplomatic summit with the Polar Nation to my Honorable Mother. This humble daughter only hopes that her performance has been satisfactory."
+
+"Your actions are pleasing to me, daughter, particularly in the case of the unacceptable interference that occurred at its ending." Cai Shenhua’s words reverberated through the room, sending the backs of the Meng delegation bowing lower still, as well as the backs of a few sections of the court clans, who must provide some of the Duchess' own personal investigators and spies. There were probably quite some shakeups there as well between the recent attack and the summit.
+
+"I comprehend well your accomplishments and the opportunities your retainer has provided us, but I see that there are some among those of my court who are uncertain." Cai Shenhua's tone relaxed, and her hand rose in an errant gesture. "There are questions. Receive them, daughter, and let all be confident that only honest answers and inquiry are had here."
+
+A bit of theater. In previous sessions, the Duchess had not allowed open queries like this, but it was a way of spreading information. Words spoken here were under her radiance, and so, even if she did not quite flex the complete, stripping, searing pressure of her law, there was a trust in the quality of the questions and answers given at her court.
+
+"Your retainers may speak as well, as their expertise is required."
+
+"As you say, Mother. If anything in my words has been left unclear to the lords and ladies of the Emerald Seas, allow us to rectify this," Cai Renxiang vowed.
+
+With that, the rest of them raised their heads, no longer pressed to the floor in full kowtow, but eyes still down in deference.
+
+There was a brief silence, followed by the faint rustle of cloth and low whisper of voices as those observing them decided who among them would raise their voices. As expected, the first to step forward was from among the great comital clans. The man who stepped forward was from the Luo. He wore a thick mantle of silver fur about his shoulders, but his courtly robe beneath was immaculate and cut in modern style.
+
+"Heiress, I have heard much from my uncle and spoken with those among our warriors who have returned. I would hear more regarding your thoughts on the agreements over the watershed of the Jing River, and what we gain by allowing these allied tribes any access at all."
+
+"Of course, Lord Luo," Cai Renxiang said. "In this, there is admittedly a risk. However, if we may show that the Polar Nations' vassal tribes can pass through these unsettled lands in safety for both our people and theirs, this strengthens the hand of the Polar Nation in their integration efforts. We do not have the soldiers to patrol or settle the whole Wall, but the cloud tribes have always fought for grazing and water among themselves. A friendly and vassalized tribe is better than a hostile and unbound one. And should there be indiscretions…"
+
+"There is an authority to be appealed to, and restitution made. This was my thought, but it is good to hear it said in your own words," the Luo man finished. "There are many voices that say that your negotiations are too soft against the tribes."
+
+Ling Qi did not quite see it that way herself; throwing the term vassalized was probably incorrect. It was not a lie, but it did not convey the nuance of their agreements with the Polar Nation. Confederation might be the better term.
+
+Or perhaps she was just playing word games herself. In the end, the southern tribes had committed to following White Sky’s authority, even if the mightiest among their number had some voices in that authority.
+
+Another courtier stepped forward as the Luo representative stepped back. A member of the Jia, she wore a cavalrywoman's dress. "On the matter of the lands claimed and the expansion to patrol routes planned…"
+
+Ling Qi allowed her gaze to wander as the woman spoke of logistical details that, frankly, were beyond Ling Qi. She asked about funding and supply and who would be responsible for supply caches along the new roads being built. Cai Renxiang answered adroitly enough, calling upon Xia Lin to give her expertise on different sections.
+
+Frankly, this was all information their elders knew or could figure out themselves from their own observations. Still, she made sure to listen enough to remember the details. She knew theater was valuable. They were still being tested, as much as being given the opportunity to show their skill and thoroughness before the court.
+
+Despite their triumph, there was an air of distraction, and not just because of the end of the festivities. The muster of forces was more on everyone's mind than diplomacy with a distant power. Even the hardest line appreciated securing the southern flank in the short term.
+
+There would still be so much more work to do in the south. She could only hope to get back there sooner rather than later.
+
+"I can see that the heiress has shown a deep understanding of the strategic needs of the southern Emerald Seas. A balance must be made between securing our people from threats while not overextending with frivolous settlements, but there are more concerns than the material at play. Even if the restrictions on sovereign movement can be justified strategically, does this not hamper the spiritual health of the southern mountains?"
+
+The questioner was probably from a court clan. Was it the Lin? Actually? Lin Hai's family? The woman certainly wore something in his and the Duchess’ style with bright pastel colors, a deep swooping cut of her gown, detached sleeves, and fanciful embroidery.
+
+She was uncomfortable in it. She hid it well, but it was there. Ling Qi thought that Lin Hai would be sad to see that.
+
+"On this, we feel that the Polar Nation’s sovereigns are stabilizing the wild environment as well, even if they might not match all of our preferred geomantic workings. I will allow Baroness Ling Qi to take further questions on spiritual matters."
+
+Ling Qi raised her head.
+
+"The concerns are warranted, but as has been said, the free movement of sovereigns at the border is an intractable issue. There is no method by which it can be considered unthreatening. We would not take it as such, either."
+
+Of course, the Polar Nation’s sovereigns were not so mobile, but she wouldn’t be emphasizing that point.
+
+"In addition, movements may be made if notice is given. Certainly, the upcoming deployment is not obstructed by any such agreement we have made. As for the environmental effects…"
+
+She paused, looking up at the speaker. "The mountains of the Wall are stable enough in the short term. No good comes from pressing our influence too deeply and too quickly."
+
+"And the influence of our neighbors' own high cultivation, and the erecting of temples to foreign gods?"
+
+"Should our agreement endure, the gods and spirits of our civilizations must also find harmony, if only in the limitation of their respective influence. The Celestial Court and its immortal emissaries have my utmost confidence," Ling Qi replied easily. "As the court expanded with the growth of the empire and developed to withstand the death of the Sage, it will also develop to interface with neighbors who are not ceaselessly hostile. I have taken advice from the Xuan on this, who manage their foreign quarters well and ably."
+
+Xuan Shi had brought some reading with him last time, and had given her leave to pass that on to the priests operating in her stead. The Xuan themselves had somewhat divergent practices, but some practices could still be transferred.
+
+Of course, saying that the Celestial Court could develop to take on new tasks and dominions… Well, people heard what they wanted to hear, even when one was stating a fact.
+
+"I am certain it can,” the Lin courtier said. “The Celestial bureaucracy is a well-oiled clock, but the Baroness surely does not believe that these foreign gods will become a part of it."
+
+Ling Qi could hardly contradict that statement under the Duchess' light.
+
+"Some might have designs on bringing these distant relations into closer alignment, but I do not see that occurring in the foreseeable future. I do, however, believe that the time of our empire's isolation, of living as if we are the only civilization, may be waning," Ling Qi replied.
+
+She looked around, letting the ripple of murmurs wash out.
+
+"The Xuan have always spoken of people beyond the wide seas. In the east, it is no longer a rumor that the Guo have encountered living humans on the far side of the Grave and who fight the Ashwalkers as well."
+
+Gu Xiulan's letter had confirmed that, and she was sure it would have been said by their ambassador as well.
+
+"In the South, we have the Polar Nation, and at the summit, they spoke with Princess Sun Liling about providing communication with those who guard the far western border of the red jungle. And beneath us are the Ha-yith-kai, who our subjects, and whose existence as such prove that at least some of the ith can be made to see reason. The age of there being nothing but the Celestial Empire, surrounded by hostile barbarians, is ending."
+
+A low, throaty chuckle rang from the throne above, silencing any immediate response. A moment passed, but no words were spoken.
+
+The Lin woman nodded. She showed no approval or disapproval that Ling Qi could detect.
+
+"I have heard such sentiments, though I do not know that I ascribe them the weight that the Baroness does. How then do you believe the Emerald Seas should act in this new age?"
+
+"The Emerald Seas must wield both the sheathed sword and the open scroll. Great Tsu united by word and wielded his staff in anger only against the rapacious. The Emerald Seas have all they need; we need not take from others. What we might want, we may exchange for a pittance of our bounty," Ling Qi stated confidently.
+
+She had spoken with Cai Renxiang and the others about how best to present their success, and they had agreed on this framing. While the Emerald Seas had some expansionists, it had just as many, if not more, who were tired of such endeavors. These peoples looked at the ruin of the south and the undeveloped interior, the countless villages and towns which had been swallowed back up by the forest under the Hui, and had no eyes for more adventure.
+
+More than that, though, was the need to speak to the province's pride. Talking about the costliness of war or the danger of foes was not going to be effective. The empire exalted martial strength, and the Emerald Seas were no different in that regard. The Weilu had been exalted peacemakers for a very long time, even by the time they vanished. Tsu's traits were not thought of that way.
+
+It was a fairly plain reading of them, just not a favored one. So, rather than imply that trade was better than warfare, which she believed to be true, it was better to imply that warfare was simply beneath them and that the province's wealth was already a ceaseless bounty.
+
+This was also true. Many of the Emerald Seas' resources still lay fallow, even centuries after the Hui were removed.
+
+"In this, we may show our example and allow the empire to judge our successful endeavors, and when the raiding of the south ceases and its bounty is unlocked in the peace that comes, we will be all the better for it."

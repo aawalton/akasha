@@ -1,0 +1,139 @@
+---
+id: 9bb81dba-7f2b-50b1-98ab-f062f2500ad1
+page-type-slug: story-chapter-royal-road
+title: "Threads 168-Emissary 3"
+slug: 0199-threads-168-emissary-3
+partOf: forge-of-destiny
+position: 199
+ownLength: 2016
+unit: words
+publishedAt: 2022-01-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/816759/threads-168-emissary-3"
+royalRoadId: "816759"
+---
+
+Ling Qi’s thoughts raced. She didn’t want to undermine Cai Renxiang, but neither did she want to leave a potentially insulting misunderstanding.
+
+“On that note,” Ling Qi said, “we were given some small gifts to present as part of our suite.”
+
+Reviewing what she had placed in her storage ring, Ling Qi plucked forth a few examples. Jade rings and jewelry, including a torc, carved with potent defensive formations, a steel cavalry saber sheathed in luxurious leather, and a number of art pieces, figurines and carvings of wood, jade, or metal, appeared on the tabletop between them.
+
+Thankfully, their appearance did not seem to surprise their hosts. Jaromila’s eyes flicked down to the tabletop, and her husband merely cocked his head to the side.
+
+“Our people tend to place more value on metals and stones,” Ling Qi explained. “We have many fine artisans.”
+
+Ilsur looked to his wife, and she gestured him forward. The barbarian reached for the handle of the saber and drawing it a centimeter from the sheath, tested his thumb against the edge. Jaromila traced a pointed iron nail across the carved fur of the racing lion dogs carved into the torc.
+
+“It is good metal,” Ilsur said quietly. “It does not sing, but the embers of sun and river ring true, and the blade is sharp.”
+
+“It is good that you recognize our craftsmen’s work,” Cai Renxiang said. “I had some concern that such gifts might seem petty in the face of your mineral wealth.”
+
+Ling Qi was glad that Cai Renxiang could so easily adjust to the flow of the conversation.
+
+“Our lands are blessed with the gifts of the Skyfather,” Jaromila agreed. “Yet skilled smiths are rare, so far in the north as we are. Your gifts are appreciated, but the life price will be more important to my people, I think.”
+
+Ling Qi inclined her head slightly. It seemed they really would prefer the wood, regardless of the differences in their value to Emerald Seas. Still, it was a potential point of contention defused. “I offer them in good faith regardless, and more as well, should negotiations go well. It was my understanding though that the people of the cloud disdain digging in the earth.”
+
+“We do,” Ilsur said with a shrug. “Yet it is easy to keep taboos when your sheep and horses have grazing grounds, and your children have warmth. The tribes of the frozen hills and low peaks do not have these luxuries.”
+
+“To live under the open sky is best, but it is not always possible,” Jaromila agreed. “Crone Winter protects us, but her touch is cruel, even to her true sons and daughters.”
+
+“That is reasonable,” Ling Qi said. She could hardly disagree with such a sentiment. “Do all of your people live in redoubts like this then?”
+
+“No. Many settlements center around great gifts of the sky, but most are not like this. The folk care for the earth and cultivate the grazing grounds, the wanderers protect them, facing the night demons in their travels, and we, the Emissaries, connect the gords and speak to the gods,” Jaromila answered fondly.
+
+Ling Qi mulled over the translation. “Gord” seemed to be a word indicating a walled city, but it was hard to imagine cities existing on the barren plains she had seen beyond the mountains.
+
+“How, then, do your folk live?” Jaromila asked, taking a longer draw from her drink. “I have only the accounts of my husband and their kin.”
+
+“It is said that you live in great hives like ice mites or wood rats,” Ilsur said, drawing some irritated looks from her companions. “But foes often spin fanciful tales.”
+
+Cai Renxiang was the one who answered. “Rivers are typically the focal points of our civic engineering. For transport and for water access, this provides the best results. Our people till and harvest, and we protect them from the dangers and make use of the resources which they provide. As a city grows, new towns are founded further away in a pattern like the spokes radiating from a spinning wheel. Individual towns devote themselves to different specializations, and all prosper.”
+
+There was a brief pause as their cups were all refilled and small refreshments were offered.
+
+“What is a ‘gift from the sky’?” Cai Renxiang asked, accepting her new cup. “Is it a place of unfrozen waters, or some other point of interest?”
+
+Ling Qi cocked her head, thinking about it. That translation did all seem to be one word in their tongue.
+
+Jaromila glanced at Ilsur.
+
+“I have told you before that I have heard of no such thing beyond children’s tales before our wedding upon the walls of the White Sky Citadel,” he grunted. “Of course the lowlanders would not know.”
+
+After a moment, Jaromila spoke. “They are the blood of the Sun, cooled and fallen to earth in great masses of metal. Even cooled, the larger cores change the land for many leagues around.”
+
+Ling Qi blinked, and she wasn’t the only one. Such a thing was difficult to imagine.
+
+“And that finishes my answer, lowlander emissary. To take from the gifts granted by the Sky himself breaks no taboo,” Ilsur finished.
+
+“I have,” Cai Renxiang said slowly, “heard once of such a thing in the imperial vaults. A shard of the sun was found in the days of the first dynasty. I believe the Empress commissioned a number of scholars to begin a study of it just last decade.”
+
+“What is this ‘huang-di’?” Jaromila asked, studying Cai Renxiang’s expression. “You speak of it with great respect, yet you indicated that your clan was sovereign?”
+
+Ling Qi shared a look with Cai Renxiang before Cai Renxiang took the lead.
+
+"The Emerald Seas is a collection of clans, each of which rules many smaller clans, and are ruled by my mother,” Cai Renxiang explained. “She, and the lords of the other five regions, owe fealty then to the Empress, who is sovereign over them all.”
+
+Ilsur wrinkled his nose in seeming dislike. “Rulers and rulers stacked atop one another. It is a wonder that you lowlanders do not walk with your backs bent like mountain apes.”
+
+“Do not be rude, Ilsur,” Jaromila interjected, tapping her knuckles against the table. “To clarify then, you speak only for your confederation, not this huang-di?”
+
+“That is accurate,” Cai Renxiang said, dipping her head. “Though again, I must stress that we call it a province. We have latitude in matters of foreign policies. The Empress concerns herself with internal matters.”
+
+Mainly in that the Empire didn’t actually recognize any kind of equivalent powers. It felt bizarre to even imagine such a thing, Ling Qi admitted to herself.
+
+“If I may ask, Emissary,” Ling Qi ventured, “how do your own people organize themselves? It would be helpful to get a more accurate picture of where we stand.”
+
+Jaromila drummed her fingers on the tabletop, the metallic sound ringing through the hall. “The White Sky Confederation is the union of three great clans in alliance with the cloud peoples. We answer to the White Sky Althing and our Winter Matron. The White Sky Althing and our Matron in turn answer to the Great Althing and the Heirophant.
+
+Ling Qi was the one who responded, processing the implication. “The White Sky belongs to a larger group then?”
+
+“The White Sky is one of four confederations belonging to the Nation of the Polar Gates,” Jaromila replied. “Under the guidance of the two hundred and twelfth Great Althing and the thirty-second Hierophant. But as you say of your huang-di, the Great Althing does not concern itself with such matters.”
+
+Again, Ling Qi looked over to Cai Renxiang. Beyond the surprise that the White Sky was part of a larger network of alliances, one thing stuck out to her. The word “Althing,” which her ring provided no translation for, seemed like an intrusion from another tongue.
+
+<Nothing that unusual. Plenty of bits of Weilu and Bai and Zheng all mixed up in imperial. You just don’t notice it,> Sixiang, quiet so far, murmured in her head. <Picking apart the taste of it and the context, it seems like a group of big folk who come together to argue stuff.>
+
+As Ling Qi pondered this, she found Jaromila’s eyes back on her. “I think before we go on however, you should explain yourself, Emissary Linchee, or I will be troubled by my superiors.”
+
+Ling Qi grimaced. “First, I should tell you that I do not have any proper claim to that title, nor do I know what it really means.”
+
+“I would be willing to explain, but not before you explain the state of your lineage,” Jaromila replied, undeterred.
+
+“In that case, there is only Hanyi and I,” Ling Qi said, gesturing to the girl on the bench behind her, who smiled as angelically as she could manage. “My mentor is no more, and her song lives on in us alone.”
+
+“Unfortunate, and you have my condolences,” Jaromila said unhappily. “Does your godmother no longer answer your prayers then? It may be possible to restore the connection when you have achieved further mastery.”
+
+Ling Qi kept her expression studiously blank as she tried to decipher Jaromila’s meaning. She knew what a “godmother” was but not in this context. “I feel as if I should clarify,” Ling Qi repeated. “I learned my arts directly from the spirit I described to you in our earlier interaction, who called herself Zeqing in our tongue. She was my mentor, and although her essence may return in some form, she is no more.”
+
+Jaromila furrowed her brows in confusion, shooting a look at Hanyi. “You were taught directly by your godmother? Did your mother pass in the… complications then?”
+
+Hanyi’s smile dropped a little.
+
+“Hanyi is Zeqing’s natural daughter,” Ling Qi explained.
+
+“Yes, a godmother must bless a child in conception, and sometimes, this goes wrong,” Jaromila replied patiently but not unkindly. “We are not savages. We understand the dangers of birth. It is good that you keep your sister close despite her injury.”
+
+Ling Qi felt annoyed. “No,” she stressed. “My mother is alive and well. Hanyi is Zeqing’s daughter, born between her and a human man. Zeqing only chose to begin teaching me a short time ago, but she did accept me as a true student before the end. What is this ‘godmother’ business?”
+
+Jaromila stared at her like she had just claimed to be the secret true heir of the Sage Emperor.
+
+Ilsur glanced at his wife, seeming somewhat concerned. Cai Renxiang had her lips pressed together in a thin line, watching Ling Qi out of the corner of her eye. Ling Qi winced; she might have been too short there.
+
+Surprisingly, it was Ilsur who answered her question.
+
+“I do not know all truths of the matter, but I know that when our daughter was conceived, the ‘godmother’ was present as well,” Ilsur said with a grimace and a shiver. “This is how the blessing of winter is propagated, yes?”
+
+“Yes,” Jaromila agreed shortly, now staring at Hanyi, who shifted uncomfortably. “Spirits of winter do not create life on their own. They must take or touch life that already exists.”
+
+“Well, Momma had me, so you’re wrong,” Hanyi muttered.
+
+Ling Qi shot her a quelling look. There was a tension in the room now. The servants who remained looked to be hiding scandalized or frightened looks, and her companions were tensing up in response.
+
+“Will this be a problem between us?” she asked bluntly.
+
+“You are clearly of this Zeqing’s lineage. The marks on your soul are clear. It seems that you are the beginning of a lineage rather than the end of one.” Jaromila rationalized. “But this daughter… I will need to speak to the Voice on this.”
+
+“Will we require a break in our deliberations then?” Cai Renxiang asked politely.
+
+“Yes. This matter cannot be put aside,” Jaromila said. “Your intentions, at least, I believe may be trusted. I will show you to the guest rooms, and we may resume soon.”

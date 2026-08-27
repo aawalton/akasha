@@ -1,0 +1,129 @@
+---
+id: 06dfaafc-828b-53ab-aaa3-4103e6ebc5cf
+page-type-slug: story-chapter-royal-road
+title: "Threads 464-Meng Dan 3"
+slug: 0509-threads-464-meng-dan-3
+partOf: forge-of-destiny
+position: 509
+ownLength: 1479
+unit: words
+publishedAt: 2025-07-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2474745/threads-464-meng-dan-3"
+royalRoadId: "2474745"
+---
+
+A sharp intake of breath, and the word escaped her.
+
+“Oh.”
+
+A brief burst of ice cold qi cleared the cobwebs from her head.
+
+Sixiang was going to make so much fun of her later. She felt very silly as her eyes flicked to the side, not quite able to meet his. Being able to feel and know the depth of sincerity in his words was not helpful to maintaining her composure.
+
+"If you know what you are choosing to get into, then the Ling family will accept the Meng's proposal."
+
+He tilted his head slyly. "Oh? And what is your opinion?"
+
+She wrinkled her nose at him. Honestly, she wasn't some silly little girl. She didn't know how he got her like this.
+
+"I want to see if you can keep this up, Meng Dan. Once you’ve spent some more time around me, we’ll see if you still think I am half so fascinating.”
+
+He studied her. "If I am being honest?” he repeated. “I can't quite say I like this degree of self-deprecation you are putting on. If I have truly made you uncomfortable…"
+
+She grimaced. Qiyi's ribbon hand patted her on the back. Oh, what was she doing, falling back on bad habits like this?
+
+"... Sorry. You've never said anything but kind words that I appreciate. I'm just a little overwhelmed, especially with everything else happening these days. I wonder if I should really be the center of so much attention."
+
+"Consider fewer acts of nigh suicidal heroism in pursuit of your ideals," Meng Dan advised. "Ah, well, I shall have to hold off on the poems written in heart’s blood then."
+
+"Oh? Yes, I imagine it would make rather poor ink, if we're being honest. One shouldn't just repeat tradition."
+
+"One should iterate on it?" Meng Dan asked, stepping away to mount the stairs and join her up on the porch. She straightened up to remain level with his gaze. "I am surprised you know that story to begin with."
+
+"I do actually know a little history,” Ling Qi informed him. “I'm not entirely operating off of skims of books and art meditations."
+
+Ironically, she only knew the story of an early Meng patriarch and his romance with the music grandmistress Lei from Bao Qian, another of her would-be suitors.
+
+"I would never cast such aspersions. Miss Ling has always been surprisingly well informed on odd stories and fringe details."
+
+"I may not be a scholar, but I am very enthusiastic about my walks."
+
+"We shall have to share one sometime. The deep library is a fascinating place. I imagine the rest of the liminal is no less so."
+
+Ling Qi shook her head. "Tantalizing me with locations like 'deep library.' We shall. However, we have some theater reviewing to do, don’t we? Is Yinhui coming?"
+
+"She will. I assume the same of your Sixiang?"
+
+"Yes. I'd feel terrible, leaving them out of a tour like this."
+
+"Oh, yes, my Yinhui would be giving me the cold shoulder for months. You would be surprised by the level of politicking and backroom dealings that go on behind a stage. She adores untangling those sorts of plots."
+
+"Of course she does. Shall we then?"
+
+Just focusing on art wasn’t possible at their level. She thought it was going to be a fun day regardless.
+
+***​
+
+"What interesting effects," Ling Qi mused. Her vision pierced through the descended curtain to view the props as they were hauled away from the stage. The spider puppet wasn’t nearly as large as it seemed without the assistance of the magnifying formation at the stage’s edge, but it still took four red realm stagehands to operate the thing.
+
+"I gotta feel for the lady playing the duchess,” Sixiang commiserated while applauding. “That's gotta be nerve wracking."
+
+At the very least, those heels the actress wore had to be absolutely atrocious on the ankles.
+
+"Even if it weren't for the wedding, I’d imagine they're well practiced on this performance. 'In the Shadow of Xiangmen' is easily the most popular play covering the events of Her Grace's rise," Meng Dan commented. "I enjoyed the use of smoke as a medium for projecting images when depicting the nightmares and dream techniques employed by the Hui. An excellent use of low cultivation resources to achieve a good effect."
+
+"This troupe is known for preferring low cost effects wherever possible. Their current patron, the Zuo patriarch, prefers it, as they perform for the trunk districts often, and even the rootway once a year, at his largesse," Yinhui informed them clinically. "One notes that this is thus cost saving as much as a point of pride and craft."
+
+"Wouldn't it be better to go all out when performing for the cloud districts?" Ling Qi wondered. "Then again, it might throw off their preparations, and I suppose the audience was quite excited…"
+
+"It's novel,” Sixiang concluded.” Up here, everyone can afford to throw around flashy illusion formations. If I’m getting shortstack’s point right, the practical effects are their brand.
+
+"Unnecessary nicknames aside, that is correct." Yinhui peered over the top of her spectacles as she looked up from the open scroll in her lap, full of notes taken during the play.
+
+Qiyi likes the pretty rainbow dress. Can we…?
+
+“In private. No rainbows in public,” Ling Qi thought quickly.
+
+Sixiang shot her an amused look, catching the passing thought.
+
+"I'm surprised that the ending allowed the Duchess to be shown struggling so. And the relationship with the  prime minister to be portrayed so…"
+
+So obvious.
+
+"Her Grace personally approved it. The play isn't shown beyond Xiangmen due to its subversive elements, but as I am sure Lady Ling has picked up, Xiangmen's culture is a bit queer even for the Emerald Seas."
+
+It was, Ling Qi had to admit. Observing the chatter in the low seats and the faces of the troupe members behind the stage curtain, basking in the warmth of a successful performance, she couldn’t say it was bad.
+
+The lanterns were growing brighter, and the show was over. They had arranged for some interviews later, but tonight, they still had other troupes to observe.
+
+Ling Qi raised an eyebrow, looking up at Meng Dan, who stood in front of her with his hand extended. "Bold."
+
+"Not at all. It is Xiangmen after all," he said breezily.
+
+She held his gaze for a long moment. He didn't waver.
+
+She set her hand in his, and allowed him to help her rise smoothly to her feet. She ignored Sixiang's vigorous eyebrow waggling as they leapt to their feet with a whisper of creaking wood and shifting gears from the puppet body beneath their illusory face.
+
+Meng Dan closed his hand around hers, and she let him. It was… warm.
+
+To her. Perhaps not for him.
+
+"Lady Ling will find that I will not crumble before petty trials," Meng Dan said gallantly, the frost spreading over his fingers retreating as she allowed her body heat to rise to something more reasonable.
+
+"Just checking." Ling Qi chuckled. She pulsed her qi in just the right way, and the moisture from the melting frost wicked away, vanishing into the air as a brief puff of mist. "So, next on the itinerary is…?
+
+"The Wandering Way Company, performing in the more prestigious Sapphire Sun Theater," Yinhui answered, hopping from her own seat and tucking her scroll and writing case under her arm with a professional air at odds with her youthful appearance. "We should begin moving. I estimate it will take thirty-seven minutes to navigate there under current traffic, barring the use of exotic methods."
+
+"And we should avoid those." Meng Dan gave her hand a slight pull. She followed along, their spirits following. "I doubt either of us wish to get tangled in the security right now."
+
+Ling Qi glanced to her side as they left the box and began to descend the stairs which led to the theater’s exit. If she slid her gaze a few layers deeper than the surface reality, she could see some of it, the interlocking gears of radiant light and harsh, thrumming constructs of deadly, implacable intent running throughout the city’s structure and winding around the great tree like the scaffolding on a tower.
+
+And that was just what was obvious and visible to even the sharpest third realm senses.
+
+"I have to think no one would be mad enough to cause trouble, criminal, foreigner, ith or no," Ling Qi said quietly.
+
+Her skin crawled with the sensation of being under the gaze of so many arrays and wardings. Truthfully, it was her own fault. If she'd not chosen to look directly at them, she'd have felt nothing at all.
+
+Meng Dan smiled tightly. "One would think, but it is ever a mistake to underestimate the madness of fools."
+
+She couldn't argue with that.

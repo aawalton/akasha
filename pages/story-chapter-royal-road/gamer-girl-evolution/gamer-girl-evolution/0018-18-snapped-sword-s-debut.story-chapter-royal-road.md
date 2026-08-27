@@ -1,0 +1,205 @@
+---
+id: 7d6d6f1c-a685-5960-aecb-319ff882c44e
+page-type-slug: story-chapter-royal-road
+title: "18 - Snapped Sword's Debut"
+slug: 0018-18-snapped-sword-s-debut
+partOf: gamer-girl-evolution
+position: 18
+ownLength: 2408
+unit: words
+ownProgress: 2408
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2696521/18-snapped-swords-debut"
+royalRoadId: "2696521"
+markedReadAt: "2026-06-29T20:06:09.802Z"
+---
+
+The dense fog of the marshlands was unlike anything Kellen, Rhys, or Talia had experienced before. The ground beneath their feet was uneven, and the air felt thick, and damp.
+
+As the trio stood on the edge of Marshia, a vast expanse of marshes stretched out before them. It was an eerie, haunting landscape filled with the distant sound of croaking frogs and the occasional rustle of something in the fog.
+
+“Well... this is different,” Kellen remarked, adjusting his gear as he looked around. “Not exactly the cosy, and calm feel of the first floor.” His voice carried a mix of excitement and curiosity.
+
+Rhys, crossed his arms and eyed the landscape sceptically. “Different isn’t always better,” he muttered, his gaze scanning the thick mist ahead. “The vibe here is off. It feels like something is... watching us, you know?”
+
+Talia tugged at her collar as she glanced at the distant, mist-covered trees. “I don’t know. This feels... unsettling. The first floor had its charm, but this is something else.” She paused and looked at the others. “I don’t know if I’m ready for this.”
+
+Kellen grinned, clearly unfazed. “Come on, Talia. It’s not that bad. We’ve all been through worse, right? Besides, we need to get started on the main quest as soon as possible. For now, let’s focus on what we can do.”
+
+Rhys raised an eyebrow but remained silent. He knew Kellen was making a valid point. Talia, on the other hand, wasn’t so sure. “Can we wait for the boss to die first? Like, what if we run into it?”
+
+Kellen waved a hand dismissively, the grin never leaving his face. “We’ll be fine, this place is huge and I'm sure the boss will spawn somewhere in the middle of the marsh. If we stay around the outskirts we'll be fine.”
+
+Talia hesitated but eventually nodded, still not completely convinced, but willing to follow Kellen’s lead for now. As the trio made their way toward the marshlands, Talia spoke up. “By the way, what do you guys think about messaging Celica?”
+
+Rhys raised an eyebrow. “I don’t know. She might be busy with her own things.”
+
+Kellen shrugged. “I don't think she’s the type that would want us all up in her business right away, you know? When we get the chance, we should catch up with her later.”
+
+“I think you’re right,” Talia agreed reluctantly, pushing a strand of hair behind her ear. “I guess we’ll see her again soon enough. Let’s just focus on levelling up for now.” Just as they stepped into the dense fog, a loud system announcement cut through the air.
+
+[SYSTEM ANNOUNCEMENT]
+
+Snapped Sword is the first player to complete the main quest in your Area!
+
+Snapped Sword is the first player to complete the main quest in your Zone!
+
+Snapped Sword is the first player to complete the main quest in the World!
+
+The words hung in the air for a moment before they fully registered in their minds.
+
+Rhys' expression faltered. “What? Wait, already?”
+
+Talia’s eyes widened in disbelief. “No way. How is that even possible? They're already done?”
+
+"I figured we’d be playing catch-up, but that’s... pretty fast.” Kellen let out a low whistle. "Man, if I ever meet Snapped Sword... I'll definitely get them to add me as a friend!"
+
+Rhys took a deep breath in and half-smiled. “You’ve got a lot of work to do if you want Snapped Sword to add you back.”
+
+Talia smiled jokingly, "Tell them about me too, alright?"
+
+"Sure." Kellen said, smirking as if he'd already been added by his idol.
+
+Rhys' eyes narrowed, his gaze still on the notification. “Let’s keep going, we have to try our best too if we want to catch up to the top players.”
+
+"Right." Talia and Kellen said in unison. The trio wandered deeper into the foggy marshlands. Every few steps, they’d find themselves looking around, unsure of which path to take.
+
+“This is getting disorienting,” Talia muttered as she squinted. “Where are the trolls?”
+
+“We’ll find them. Just takes a little exploring. The fog’s a pain, but it adds to the adventure, right?”
+
+“Adventure’s fine until we get lost and find ourselves fighting something we’re not ready for. Let’s just be careful.” Rhys replied as he adjusted his sword’s hilt.
+
+[Mud Golem – Lv. 11]
+
+[Mud Golem – Lv. 11]
+
+“Perfect,” Kellen said, his sword shaking in anticipation. “Let’s take these down. They’re low-level. Easy exp, and we can practice what Celica taught us.”
+
+The three of them moved into position. Kellen and Rhys took the lead, while Talia hung back, observing the golems’ movements and scanning for weak points. They had faced enough monsters in the past to understand the importance of teamwork. Just like Celica had taught them, they quickly settled into an experienced rhythm.
+
+[+65 EXP]
+
+[+65 EXP]
+
+“Nice job, guys,” Kellen said, grinning after the last golem fell. “We’re getting the hang of this.”
+
+Talia smiled gently, though her unease hadn’t completely faded. “That went better than I thought it would.”
+
+Rhys nodded, sheathing his sword. “Yeah, coordination is key. I don’t know about you two, but it feels good to fight together like this, even against low-level mobs.”
+
+Kellen’s face lit up with enthusiasm. “Right? But we can’t stop here. We need to fight something stronger that can really test us. It's a shame this floor has no dungeon, I'm dying to face a real boss.”
+
+“Careful what you wish for,” Rhys said dryly. “There’s probably a big difference between a mud golem and a boss.”
+
+Kellen sighed dismissively. “I'm sure the difference isn't all that.”
+
+Talia spoke up. “Already getting ahead of yourself, Kellen. Celica would be disappointed. Why don't we finish the main quest before we even think about challenging a boss.”
+
+"Fine, fine." Kellen said, his voice low. The group continued through the marsh as another monster came into view.
+
+[Troll – Lv. 14]
+
+“I’ll take the lead,” Kellen said. “I’ll get its attention, you guys back me up.”
+
+Rhys grinned. “On it.”
+
+The fight began with Kellen charging in, his sword drawn. Rhys followed close behind, attacking from the side, while Talia attacked from the other side. The troll was tough, its club swings powerful, but it was slow.
+
+The three of them worked together, their moves coordinated. They struck at the right moments, and reacted quickly when the troll tried to retaliate. At times their movements were sloppy, and their teamwork certainly wasn't always perfect, but they were performing much better than they did on the first floor.
+
+It didn’t take long before the troll was defeated, its body slumping to the ground. The group stood over the fallen enemy, breathing heavily but grinning.
+
+“Not bad,” Rhys said, wiping his brow. “That was our first troll, and we made it through without a scratch.”
+
+Kellen chuckled. “Told you we were ready. Let’s keep going! We’ll be finishing this quest in no time!"
+
+Even Talia couldn’t help but feel a little more confident. “Everything'll be fine if we just keep working together like this.”
+
+They continued wandering through the fog, the uncertainty of the environment still there, but now they were beginning to feel more at home. With each kill, they grew more and more confident.
+
+Until... something changed.
+
+At some point, a nagging sense of unease had started to creep over them. Suddenly, the marshland felt more oppressive.
+
+"This isn't right," Talia muttered, her eyes scanning the swampy horizon. "Something's coming."
+
+Kellen shrugged. "Nah, we’re good. I get that you're nervous and all but we'll always respawn unless we die to the boss. It'll be more efficient to grind trolls until we die,"
+
+Rhys wasn’t convinced. "Kellen, I think she's right. We have to leave quickly."
+
+"You too, Rhys? So you're saying that... you think what's coming is..." his voice trailed off, swallowed by the mist.
+
+The ground suddenly trembled, a low rumble echoing through the marsh like thunder. They looked around in confusion as the ground cracked underfoot, a monstrous roar shaking the air.
+
+[Cyclops (Mutant) - Lv. 17]
+
+It appeared out of the mist, a nightmare given virtual form. Its single eye glowed like an inferno, and its club dragged ominously along the ground. The Cyclops’ advance was accompanied by the not-so subtle cracking of the earth beneath its weight.
+
+Kellen’s heart raced with excitement. "It’s a bit heavier than I thought it'd be, but it’s only level 17. We can take it."
+
+Talia’s expression hardened, her voice shaky. "No, you’re wrong. We can’t fight this thing. We have to leave!"
+
+Rhys stepped back, his hands trembling slightly as he gripped his sword. "Kellen, run!"
+
+Before Kellen could even react to Rhys' words, the Cyclops roared again, shaking the ground beneath them. And then, it charged. The monstrous beast moved with terrifying speed, its large club swinging in a deadly arc.
+
+Kellen’s sword was already raised, as he instinctively slashed at the Cyclops’s legs with all his might. With that thing's speed, escape was no longer an option.
+
+Rhys followed suit, using his sword to block some of the incoming blows, but the sheer force of the monster’s swing sent him stumbling back. Talia charged in too, unwilling to leave her comrades even though she knew leaving was probably for the best.
+
+The Cyclops didn’t flinch from their attacks. It didn’t seem to be slowed or even stunned by their strikes. Every swing of its club seemed calculated, aimed to create the most chaos possible. Every strike was designed to interrupt the teamwork they'd worked so hard to refine.
+
+Both Kellen and Talia's strikes were parried effortlessly by the Cyclops. In an instant, the Cyclops swatted them aside like flies. The impact knocked them both to the ground with a sickening thud, forcing the air out of their lungs. Rhys was barely holding his ground, dodging the few blows that he could.
+
+"This isn’t working!" Rhys shouted, his voice frantic. "It’s like it’s immune to everything we throw at it!"
+
+The Cyclops let out another roar and slammed its club into the ground with a force that sent shockwaves rippling through the earth. Kellen’s vision blurred as he struggled to get up, his breathing shallow.
+
+He looked over at Rhys, who had now collapsed a few meters away, and Talia, who was immobilised from the earlier blow. In that moment, the crushing reality set in. They were outmatched.
+
+Kellen’s chest tightened. They were too weak. He could feel the threat of true death looming over them. A deep, sinking regret gnawed at him. He’d been overconfident. They should have left when they had the chance.
+
+Kellen grit his teeth, his thoughts a chaotic swirl. If only I wasn't so arrogant. If only I'd listened. If only I was stronger.
+
+Glancing at the raised club which was racing towards him, Kellen had only a single thought left.
+
+If only... Snapped Sword was here.
+
+Before the Cyclops could strike, a black-haired male figure dashed forward from the swirling fog. The player was clad in a dark, sleek outfit, with red highlights that caught the ambient light in the fog. A broken blade gleamed in the player's hand.
+
+With a—Bang—the Cyclops' club jolted backwards, parried by the player. The trio stared in disbelief as the player moved with a level of speed they could barely follow. The Cyclops’ club swung toward him, but in a split second, he sidestepped, letting the club crash into the spot where he had been mere moments ago.
+
+With a flick of his wrist, the broken blade cleaved through the air, cutting deep into the Cyclops’ muscular leg. The creature let out a bellow of pain, but the figure didn’t slow down.
+
+Talia’s voice was soft, her eyes wide with astonishment. "It's... a player. Could that be...?"
+
+The player moved with precision and overwhelming skill, their actions seemingly effortless. Each strike landed with perfect precision, cutting through the Cyclops with brutal efficiency. The beast, despite its size and strength, struggled to keep up with the relentless assault.
+
+Kellen, Rhys, and Talia could only watch in stunned silence as the fight unfolded. The speed at which the player struck was beyond anything they had ever thought possible. He was a whirlwind of damage, striking with multiple blows in rapid succession, before the Cyclops had even reacted to the first strike.
+
+But, something strange was happening in the fight.
+
+Rhys noticed it first among the trio. The Cyclops, battered and bloodied, began to mimic the player's movements. Its enormous arm swung in an identical arc to his blade, and its foot stomped in a way that mirrored his steps, as if learning from each of his strikes.
+
+Despite the beast's quick learning, the player was always one step ahead. He adjusted his tactics mid-fight, outpacing the Cyclops’s adaptation. With every blow, it seemed like the beast’s speed and aggression ramped up, but the player's raw power and skill pushed it back each time, sending it reeling.
+
+The tension in the air was palpable as he continued to dance circles around the Cyclops. His broken blade flashed with precision, carving through its defences like they were paper. Every slash and thrust seemed to hit the monster harder and faster than the last.
+
+Kellen, Rhys, and Talia lay there, speechless. They had been struggling to hold their own against the Cyclops, one versus three. And now, they were watching a single person absolutely dismantle it.
+
+With a broken sword!
+
+“How... how is he so fast?” Rhys whispered under his breath, his voice trembling with awe.
+
+Kellen could barely talk with how shocked he was. “This is... unreal.” His mouth went dry as he watched the player cut through the Cyclops. It felt like he was witnessing a historic event, but he wasn't the only one who felt that way. Talia and Rhys felt the same way.
+
+It wasn’t long before the Cyclops, overwhelmed and utterly outclassed, fell to the ground with a deafening crash. Its body collapsed, lifeless. The trio looked on with incredulous expressions as the dark-haired player stood over the Cyclops' corpse.
+
+[SYSTEM ANNOUNCEMENT]
+
+Snapped Sword has defeated the Cyclops. They are the first player to defeat the boss in your Area!
+
+Snapped Sword has defeated the Cyclops. They are the first player to defeat the boss in your Zone!
+
+Snapped Sword has defeated the Cyclops. They are the first player to defeat the boss in the World!

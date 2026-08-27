@@ -1,0 +1,143 @@
+---
+id: b8216ca9-a24d-5b4d-b712-6ed283cb54aa
+page-type-slug: story-chapter-royal-road
+title: "47 - The Berserker Class"
+slug: 0047-47-the-berserker-class
+partOf: gamer-girl-evolution
+position: 47
+ownLength: 1624
+unit: words
+ownProgress: 1624
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2949219/47-the-berserker-class"
+royalRoadId: "2949219"
+markedReadAt: "2026-06-29T20:07:05.044Z"
+---
+
+The Berserker class.
+
+It was a job class that most new players would opt for, and Celica did the same during her very first playthrough as well. The reason most noobs chose to become the Berserker class - and the reason veterans recommended newer players to choose it too - was that the class wasn't very punishing.
+
+Bolstering relatively high atk and def stats, it was a class which was very versatile. The other classes had much less balanced kits, which would be better for end-game content but overall harder to pilot and harder to master.
+
+But, apart from all those, there was another reason Berserker was an insanely popular job class, even years after the game's initial release in Celica's timeline.
+
+Because it was cool.
+
+The Players in the courtyard watched the screens around them with enlarged eyes, everyone hoping that they wouldn't miss even a single frame. Not just because of how strange and entertaining the whole situation - or because of the King's unusual enthusiasm.
+
+Rather, they were observing the stand-off intently because knowing how to pilot a class and their abilities could be a matter of life and death. And for the more astute, understanding how this level 200 monster fought could provide valuable insight to how to approach stronger monsters.
+
+On the screen, after hearing King Sebius' shout of encouragement, the Grand Commander slowly unsheathed his sword. The other Great Commanders watched the back of the Grand Commander, all of them silent as he assumed his fighting stance.
+
+The other commanders were dressed in a way in which anyone with an RPG background could easily guess their class. As a result, several avid RPG players amongst them were already frothing at the mouth at the sight of their ideal classes.
+
+One was dressed in bulky armour, with a red heavy shield hanging from his right hand. Another was short, dressed in a dark-blueish robe with a staff in her right hand. And another was fairly tall, wearing a long cloak which shrouded them in darkness, coupled with a white mask with strange patterns.
+
+But, although the outfits and auras of the other commanders were very telling, currently the people's attention was focused on a singular entity.
+
+The Grand Commander.
+
+"[Aura of Strength]."
+
+"[Knight's Blessing]."
+
+Red and green lights rose up from around the Berserker as he spoke. As it did, a small, specific niche of players remembered something.
+
+— "Those lights... I think I've seen something like that before, I just can't remember where..?"
+
+— "Actually, I feel like I have too... where was it again... Oh! I remember now! It was an NPC on the first floor! If I remember correctly it was... Wisdom Hands!"
+
+— "Yeah, that's the name! I was one of the people they helped. I guess you were too. They said they'd be back on the third floor right? Could it be that Wisdom Hands is one of the commanders? Isn't it that one in the cloak?"
+
+Celica, who had - unfortunately - heard the commotion and growing murmurs about the floor one NPC Wisdom Hands, involuntarily coughed dryly.
+
+There's still people that remember that?
+
+She shook her head, choosing not to dwell on it too much. But, whether she noticed it or not, the idea of Wisdom Hands making a return had already been firmly planted into her psyche and subconscious.
+
+She wasn't surprised they'd linked the Grand Commander's self-buff skill to her though, since this was likely the only time the general playerbase had seen anyone be buffed - apart from the incident on floor one.
+
+Most classes had a skill or two to buff themselves but, it was nowhere near as potent as the ones Celica had from her supporter class. For first job classes, they would offer at most 5% or 10% status buffs, for just a singular stat, even when maxed.
+
+Self-buff skills for a first job class included things like:
+
+• 5% increase to mana regeneration for thirty seconds
+
+• 3% increase to attack speed for twenty seconds
+
+• 10% increase to tenacity for a minute
+
+Depending on the class, naturally. Meanwhile Celica's Supporter skills offered much stronger buffs capable of improving individual stats by 80% and more, for much longer periods of time. And that was just for the first job class.
+
+Of course, the trade off was that the Supporter class' first job change didn't have any damaging skills, unlike other classes, which had attacking skills like Fireball, Sword Dance and Critical Leap. But, unlike other games, The Nine Realms offered several "neutral" skills, which weren't specific to any class. Celica had already acquired one such skill, namely [Water Blade], from defeating the Rift-Toad.
+
+Not only that, there were other ways to get skills, like through weapons, equipment and accessories such as Celica's Convergence of the Abyss. Apart from that, certain races that players could evolve into had race specific skills. So while the Supporter class had drawbacks, it was easy to nullify with the right neutral skills, race evolution and gear.
+
+Celica watched the beginning of the showdown with the Grand Commander and the dragon. Buffing yourself at the start of the fight, and a standard practice almost every new player would do. So far, nothing on this floor had deviated from her previous timeline.
+
+Thud.
+
+With a loud crunch sound, the Berserker leapt from his position, charging directly at the earth dragon with murderous intent, the ground beneath him cracking slightly as he did.
+
+[System Notification: Danger. The Ferocious Earth Dragon is unleashing a Breath Attack. Dodge.]
+
+Atop all of the visible virtual screens, danger signals appeared simultaneously, indicating that the Berserker should dodge. But, as if he didn't see them, he continued forward, his mouth moving slightly.
+
+"[Sword Dance]."
+
+With a single line, he accelerated drastically, the sword in his hand becoming a flash of light. He instantly closed the distance between himself and the dragon, leaving it zero time to execute its breath attack.
+
+His sword weaved in the air fancifully, as if he was putting on a show. Though, the Grand Commander wasn't the type to show off.
+
+He was going for the kill.
+
+[You have achieved a ten-hit combo.]
+
+[You have achieved a twenty-hit combo.]
+
+[You have achieved a thirty-hit combo.]
+
+The audience watched with eyes wide as plates as the Berserker's [Sword Dance] skill cut through the Earth Dragon mercilessly. It's HP drained in a matter of seconds as countless wounds appeared around its pitiful carcass.
+
+Before the Ferocious Earth Dragon could comprehend what had just occurred, it was already laying helplessly on the floor.
+
+[You have defeated the Ferocious Earth Dragon.]
+
+"Excellent! Magnificent! Can you see it, Players!? This is the strength of Earthonia's strongest! This is the power of the Berserker Class!"
+
+A riled up voice echoed from the balcony, his face ablaze with passion.
+
+The Berserker skill [Sword Dance] which the Grand Commander used became one of the most famous skills in Celica's timeline for how often people used it due to this exact introduction, even when there were stronger and more effective skills.
+
+In the later stages of the game, it became a skill infamous for being used to impress and 'wow' noobs who hadn't job changed yet. Truthfully, it was a magnificent display of strength, and when Celica saw it for the first time too, it had ensnared her enough to choose the same class.
+
+Even now as she looked around, she could tell everyone - even those who were originally planning to become Mages or Tanks - was heavily considering becoming the Berserker class.
+
+"Ahem." King Sebius cleared his throat loudly, regaining his composure once again. "Perhaps the level two hundred earth dragon was... too weak to fully display the strengths of the Berserker class."
+
+Hearing this, Celica inwardly smiled wryly. She knew the truth of the matter. It wasn't necessarily that the earth dragon was too weak, rather it was that they were too weak relative to the Grand Commander. In fact, that was the case for all the Commanders present.
+
+Earthonia was the realm furthest away from the Main Front (the fifth realm where the war between humans and monsters was most intense). Therefore, generally players assumed that its army was the weakest - but it was actually more complex than that.
+
+Earthonia's army wasn't weak.
+
+Although the common foot soldier was weaker in Earthonia compared to other realms, the commanders were strong. Strong enough to demand respect from other commanders and top military officers in the other realms.
+
+Celica knew for a fact that every single one of the commanders present were all above level 500. And all of them had long since passed first job class. So it wasn't that the Ferocious Earth Dragon was too weak.
+
+Instead it was that it was too weak for them.
+
+"In truth, battles like these won't be enough to showcase what each class has to offer. This is because every class is designed to work optimally when in a group or party setting. Therefore a stronger monster - one that would need the cooperation of all the commanders - is required to showcase the true power of specialised job classes."
+
+King Sebius paused as he looked into the distance thoughtfully. As if they'd communicated telepathically, all the commanders simultaneously saluted the screen, towards the king. His reply came swiftly.
+
+"Release it."
+
+All the players in the crowd could feel the tension. The Grand Commanders expression which had been previously completely neutral, turned solemn. Every commander also assumed a battle stance. The reason became clear very quickly.
+
+[ {Royal} |Disaster| Ancient Dragon Sovereign of Curses (Boss) - Lv. 550]
+
+Celica's eyes widened as soon as she saw the awesome creature.
+
+This is bad.

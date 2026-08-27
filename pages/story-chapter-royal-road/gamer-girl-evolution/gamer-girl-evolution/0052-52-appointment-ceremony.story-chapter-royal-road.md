@@ -1,0 +1,151 @@
+---
+id: f211291e-2c5b-58ad-a775-48821a5e06b9
+page-type-slug: story-chapter-royal-road
+title: "52 - Appointment Ceremony"
+slug: 0052-52-appointment-ceremony
+partOf: gamer-girl-evolution
+position: 52
+ownLength: 1916
+unit: words
+ownProgress: 1916
+publishedAt: 2026-01-23
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2971751/52-appointment-ceremony"
+royalRoadId: "2971751"
+markedReadAt: "2026-06-29T20:07:14.446Z"
+---
+
+The player's excited chatter bounced off the courtyard walls, but Celica barely registered it. The King’s words still rang in her ears—Wisdom Hands, the newest great commander.
+
+She stood there with a blank face, stunlocked.
+
+She thought back to something specific the king had said just moments prior.
+
+‘I had planned to invite here them earlier, but I feared they wouldn't have accepted.’
+
+When exactly did you invite me, huh? HUH? You damn bald, lying son of a—
+
+Around her, the other great commanders began to gather, their sound of their footsteps echoing off the arena's floor. They approached one by one, each of their expressions different. She had a faint feeling they were sizing her up in their own weird ways.
+
+Doran stepped forward first. His gaze was firm and authoritative as he spoke. “My name is Doran, and as you may know, I'm the leader of the great commanders. Welcome aboard. The King’s decision holds weight, and we all trust in him and his judgement. Regardless, you’ll still have to prove yourself. I'll be here if you have any questions.” There was no hostility in his voice.
+
+Welcome aboard he said... seriously? I guess I can't really say no this... Celica's mind was a whirlwind she was struggling to stabilise. Perhaps since he thought the King was telling the truth, Doran accepted the idea quite easily. But still...
+
+Even in her countless playthroughs, something like this had never happened before.
+
+There were quests to become commanders in the later realms, but to become a great commander required completing a monumental feat. In the first realm, it was borderline impossible.
+
+But when she thought more deeply about this specific scenario, it made sense to her why things had turned out the way they did.
+
+Without her, the entire Eonian Empire would've been destroyed. Not only that, they would've lost some of the strongest commanders in Earthonia's history. From King Sebius' perspective, recruiting Celica was by far the best move he could make.
+
+He couldn't lose face in front of the Players, and someone with her skills would be quite the asset to the great commanders, as she'd just shown.
+
+While Celica was gathering her thoughts, Triton watched her with steady eyes. His presence was calming. He didn’t say much, but the look in his gaze spoke volumes. They made eye contact and Celica nodded to him. He returned the gesture.
+
+Semmia also approached her, however, her steps were much lighter than Triton's. A mysterious glint shone in her eyes. “Wisdom Hands,” she said, stretching out the name. “A curious title. Nice to meet you. Oh, I forgot to introduce myself. I'm Semmia and that's Triton. Thank you for the save earlier. I was wondering why there was someone hiding in the colosseum. Luckily I didn't blast you away out of reflex.”
+
+As I thought, she could detect me.
+
+"No problem, a reflexive blast wouldn't have done much harm in any case." Celica replied, putting on an amicable smile. Of course, she was lying. A reflexive blast would've instantly killed her with zero counterplay. Still, she didn't want to reveal her cards too early.
+
+Hearing her reply, Semmia smiled slightly. "Interesting. Looks like the King found a fun new commander."
+
+Ophel, standing a little to the side, said nothing for a long moment. Her sharp eyes took in Celica, scanned her up and down, and then, with a soft voice, she said, “Ophel. Welcome.” It was short, to the point, and respectful.
+
+Well, that checks out. She's the type who appears quite cold to people she doesn't know well, but is actually quite a softy. Celica nodded to Ophel in acknowledgement.
+
+Then came Ulza. “I'm Ulza. While I appreciate the help... I’ve never heard of you before,” she said, folding her arms. Her words weren’t exactly hostile, but there was a kick to them. “Is the King really this generous with his decisions? Because I’m having a hard time believing a random newbie just gets handed a great commander’s title without a little... favouritism.” Her eyes narrowed playfully. “Maybe I'm wrong, though.”
+
+Celica sighed inwardly as soon as she saw Ulza open her mouth. She had read all about her in the lore and had fought alongside her in many playthroughs. Her personality's the most troublesome of the bunch, best to avoid her as much as possible.
+
+"Wisdom has no favourites." Celica said, a neutral smile on her face. Ulza merely shrugged and turned away from her in response.
+
+Thorne stood back, watching quietly, his expression unreadable. His voice, when it came, was as neutral as ever. “I'm Thorne. It's a pleasure to make your acquaintance. I owe you one for earlier. When the time comes, I'll repay the favour.” There was no judgment in his tone, just acceptance and respect.
+
+Celica paused trying to stay composed. She hadn't expected to see Captain Thorne from the Mist Military Outpost here. Especially since in her original timeline the Ranger Commander was called Stark and had a completely different appearance. Luckily, no one caught onto her slight surprise.
+
+"The pleasure is all mine, commander."
+
+When she saw Celica had greeted each the commanders in some way, Semmia clapped her hands, breaking the brief silence. “Alright, alright. That's enough of the formalities,” she said, her tone shifting to something more cheerful. She stepped forward, her staff glimmering as she chanted an incantation.
+
+“[Astral Ascension].”
+
+A soft, shimmering light surrounded the commanders, and the ground beneath them hummed with magic. The players in the courtyard continued to murmur excitedly, oblivious to the private conversation happening on the destroyed colosseum floor.
+
+Celica felt the familiar sensation of rising, her feet lifting from the ground, and in an instant, they were soaring back up towards the King’s balcony.
+
+The feeling of weightlessness lasted only a moment, but it was enough to make her feel removed from the scene below. She was no longer just a player in the courtyard—she was above it all, in a space she never thought she could access.
+
+Down below, the sea of players was active. Every player was excited after seeing such a monumental battle unfold in front of them, nevermind those who were RPG addicted maniacs. Not only that, the battle had climaxed with the arrival of an NPC who had been a myth on the first floor.
+
+Whether they liked it or not, they all had something to say about what they just saw.
+
+The light shifted slowly, the late-afternoon sun casting a warm glow over the scene. Celica stood at the front. Not by choice, but because Doran, her new boss, had insisted.
+
+King Sebius stood beside her, his presence larger than life. His flamboyant aura filled the space, drawing every eye. The audience below went silent.
+
+“Players!” The King’s voice rang out, deep and theatrical, carrying far over the gathered crowd. “Today is a day of great significance, a day when we forge our future! Not in battle alone, but in unity, wisdom, and strength! It is with great pride that I announce the appointment of my newest Commander, one who will join the ranks of our greatest warriors—Wisdom Hands!”
+
+The crowd erupted in a mix of stunned murmurs and applause. Celica stiffened, her heart racing.
+
+I really hope this cheap disguise item I bought on floor one is actually working. Otherwise I can never show my face in this place ever again.
+
+The King’s gaze never left her, his eyes gleaming with excitement, as if this moment was the climax of a great performance. Celica couldn’t help but notice the players’ varied reactions. Some were still in shock, others were applauding with exuberance.
+
+The King turned to face her fully, his hands raised in a sweeping motion. He nodded to a soldier standing nearby. With a swift motion, the soldier stepped forward, holding a gleaming sword and a small emblem, a symbol of the Eonian Empire’s authority.
+
+“The ritual of appointment is simple,” the King continued. “A blade for leadership, a symbol for unity.” He motioned for Celica to step forward, the sword held out before her. The emblem was a circular badge bearing the insignia of the King’s authority.
+
+King Sebius smiled, his grin widening. “With this blade, you are bound to us, Wise Commander. A leader, a great commander and a symbol of the Eonian Empire.”
+
+His voice softened slightly, his tone more personal. “You will prove your worth as we all must—through actions, through unity and through sacrifice. Now go, my Commander, and show the world what you are made of.”
+
+[You have gained the title(s): Wise Commander, Great Commander, In The History Books]
+
+The crowd applauded once again, louder this time.
+
+— "Congratulations Wisdom Hands, I've been your biggest fan since floor one!"
+
+— "I'm rooting for you Wise Commander! Show those guys who's boss!"
+
+— "Buff me please Wisdom Hands!"
+
+The players cheered, but Celica stood still for a moment, still processing everything.
+
+Just what is going on today... first the train wreck, and now this?
+
+When the applause finally died down, the King waved his hand, his voice rising again. “And now, Players, you shall be given your Main Quest! Learn from the boldness of our great commanders and adventure through the Eonian Empire! Grow strong in the colosseums so that you may be strong enough to conquer the trials of the floors ahead, and venture with boldness to save the world from the monster realm invasion!”
+
+[Main Quest:
+
+Defeat 10 Unique Players in Player versus Player combat at any colosseum/arena.
+
+Unique Players Defeated: 0/10
+
+Time Remaining: 2 Days 23 hours 59 minutes 59 seconds]
+
+— "Hell yeah, I'm gonna become a berserker class like the Grand Commander!"
+
+— "Mages are better, didn't you see the Mage Commander's AoE spam?"
+
+— "Well, for me the assassin abilities look the most fun..."
+
+Celica watched as the sea of players below scattered into the Eonian Empire like restless ants.
+
+King Sebius turned to her. “Wise Commander, you will accompany me and the rest of the great commanders. There are some matters we must discuss.” He flicked his grand robe and the castle doors creaked upon. He moved towards the door pompously without a regard for what Celica—or anyone else present—thought.
+
+Though she looked composed on the surface, Celica's heart was racing. She knew two things for certain. First, that she couldn't possibly reject a direct request from a Realm King, unless she was ready for major consequences. She had already made that mistake once before and it didn't end well.
+
+Second, that 'discussing matters' wouldn't exactly take a short time. But that meant one thing.
+
+She wouldn't be able to get first in the Main Quest.
+
+A strategy meeting? Now? At this very moment?
+
+Celica blinked several times in rapid succession, like she couldn't believe her eyes. Does the King not realise I'm a player or something? If that's the case, then everything would make sense...
+
+Her eyebrows twitched in frustration as Ulza let out a soft chuckle. She looked as if she was about to say something but Thorne nudged her and they both subsequently made their way towards the door. All the commanders had followed after the king, except Semmia who was staring at her curiously.
+
+"What are you waiting for, rookie?" She said smiling. Celica ignored her, choosing to consider her options first. One idea in particular stuck out to her, but it was risky. Very, very risky.
+
+Should I make a break for it?

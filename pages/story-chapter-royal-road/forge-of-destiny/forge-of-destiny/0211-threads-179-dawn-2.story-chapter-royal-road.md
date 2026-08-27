@@ -1,0 +1,219 @@
+---
+id: 1793d186-700b-5e1b-a6cf-a21e6b6c08dd
+page-type-slug: story-chapter-royal-road
+title: "Threads 179-Dawn 2"
+slug: 0211-threads-179-dawn-2
+partOf: forge-of-destiny
+position: 211
+ownLength: 4615
+unit: words
+publishedAt: 2022-01-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/834417/threads-179-dawn-2"
+royalRoadId: "834417"
+---
+
+The magnificence of the court of Xiangmen had not changed. The faces in the crowd had. The great stone platform held in the curled branches of the great tree was more crowded than it had been the last time Ling Qi had seen this place through the projection array. She could make out the distinctions between the coimital clan contingents, now no longer represented by a single ambassador and their attendants.
+
+The newcomers had the look and feel of soldiers and officers to Ling Qi’s eye. Perhaps they were here to aid coordination of the province’s forces? She didn’t know, only that the remaining courtiers, the ones belonging to the court clans, had a distinctly nervous air. She supposed that the last time that there was so much military presence in the capital, things had been very unpleasant.
+
+She kept her idle thoughts to herself as she knelt in full kowtow beside Xia Lin, Gan Guangli and Meng Dan before the burning radiance that sat upon Xiangmen’s throne. Cai Renxiang knelt in front of them, her head held only marginally higher.
+
+“Welcome, my daughter,” proclaimed the Duchess, lounging upon her throne. As always, Diao Linqin stood quietly at the arm of her throne. “From your disposition, it would seem that you found some success?”
+
+Although she phrased it as a question, it was a statement in tone.
+
+“We achieved all that you directed us to, Your Grace,” Cai Renxiang said, keeping her eyes on the rich carpet. “And more as well.”
+
+That brought a scattering of whispers among the court, silenced as Cai Shenhua leaned forward, the weight of her presence focusing down upon her daughter. The woman wore a surprisingly conservative gown this day, not so dissimilar to the way Liming usually appeared on Renxiang, and wore her hair in a single braid that wound about her shoulders and spilled like a cord of liquid night down the stairs of her throne. “Oh? Do tell. If you are so confident, I will hear as much as you wish to say.”
+
+Ling Qi swallowed, her mouth suddenly feeling dry. She had known what they were getting into, but it didn’t make the feeling of pressure any less oppressive.
+
+Cai Renxiang did not flinch or falter though, despite being the actual focus of the Duchess’ attention. “I feel it would be best to split our report between those of us with the most expertise on each route. To that end, Xia Lin, your report on the Hui corpse immortal.”
+
+Noise, the low susurrus of voices from the court, and the faint shimmering of light as the Duchess tilted her head in curiosity followed Cai Renxiang’s words. Xia Lin raised her head promptly, though no higher than Cai Renxiang’s.
+
+“On the day of departure from the main sect force, we chose to travel south through a heavily forested valley which saw little nomad activity,” Xia Lin began crisply. Only a faint tremble in her hands gave away that she, too, felt the Duchess’ eyes. “In service of this, Baroness Ling and I set out ahead of the party to scout for dangers and obstacles. We found that the forest was under the effect of a large scale illusion that confused passage and that it was heavily infested with spiders. In our search of the valley, I discovered a crumbling imperial formation array which seemed to be the source of the problem. Baroness Ling determined that further breaking the formation would draw too much attention, and we instead sought the power source, and in doing so, we discovered an underground bunker.”
+
+“To think one of those odious little holes could have been missed,” a woman in Jia colors said. “I believe we were informed that all of their communications had been cracked a century ago.”
+
+“I can only accept shame for this.” A thickset man wearing the colors of the Wang clan shook his head
+
+“Honored lords, the bunker was far from imperial lands, even accounting for recent expansion. Who would imagine that even the Hui would run so far? Neither I, nor General Xia, believes that this reflects poorly on the Wang clan,” Xia Lin said politely. She waited a moment, and the man waved her on. “Below, we found a nest of giant spiders who seemed convinced that they were but waiting for a ‘Day of Return.’ Upon dispatching them, we descended below and found the corpse immortal lurking in a sealed chamber writing foul screeds denigrating the rightful lords of the province as traitors. Luckily, though he had once been a higher cultivator, his powers had rotted enough that the Baroness and I were able to slay him. He gave his name as Hui Peng.”
+
+There was silence for a moment, and then, Ling Qi felt the pressure shift away as Cai Shenhua turned her gaze on Diao Linqin. “Darling, remind me, which one of the vermin was that? You have a better memory for these things.”
+
+“There were four living Hui Pengs at the time of your ascension,” Diao Linqin answered demurely. “Three were accounted for, which would make this one… the Duke’s herald. I believe he announced your first petition to the court.”
+
+No one spoke while the minister was speaking, nor in the aftermath, as Shenhua pondered the answer. Then, the Duchess began to chuckle. It was not a happy sound, and it sent a chill down the back of her neck. Going from the faint unease rising from the court, they didn’t care for it either.
+
+Thankfully, the Duchess’ humor faded quickly. “Rotting in a hole for two centuries… How very fitting. I might be cross that you put him out of his misery, young lady.”
+
+“I—That is—” Xia Lin stuttered, undoubtedly pressured by Her Grace’s gaze.
+
+“I am not, of course. You did well in cleansing such a lingering pustule. He was surely too mad to suffer further by this point,” the Duchess said dismissively.
+
+Despite the dismissal, Ling Qi still felt a frisson of discomfort. The tinge of scorn and cruelty in Cai Shenhua’s tone felt foreign compared to her previous experiences with the Duchess. Even with everything she had experienced through Renxiang, such emotion did not suit the Duchess.
+
+“I will be certain to update the lists of those who are accounted for. By your story, he was alone. Was there evidence of others having occupied the redoubt?” Daio Linqin inquired calmly, and Ling Qi saw the woman lay a hand on the Duchess’ shoulder.
+
+“It was constructed to hold somewhere between twenty and fifty individuals,” Xia Lin said, recovering. “If my judgement is correct. As to whether it did, I must defer to Sir Meng, who organized the records and treasures we found.”
+
+Xia Lin had managed to stay on script, despite the hiccup.
+
+The other girl lowered her head, and Meng Dan raised his, the faint sheen of sweat on his forehead the only sign of his nerves. “And quite a fine trove of treasure it was, Your Grace,” he took over smoothly. “The corpse immortal’s particular madness was useful in this regard since it compelled him to write many records among the more incoherent screeds. His writings indicate that his original group consisted of about thirty individuals, six of which were junior members of the clan and the rest of which were servants dragged along with their masters.”
+
+Ling Qi thought that sounded right given the space available in the bunker. She wondered what it must have been like when all of them were there, jammed together in isolation. If Hui Peng were any indication of Hui disposition, it must have been awful.
+
+“The servants suffered attrition first, some dying of old age within the first fifty years, and more still vanished while performing tasks outside for their masters,” Meng Dan continued. “Records indicate that encounters with barbarians dwindled their numbers further until roughly one hundred years ago when only three other Hui remained. The corpse’s scribblings indicate that at this point, two betrayed the third, killing him, and left the bunker of their own volition. Rants about the ‘traitors’ temporarily eclipsed complaints about your own person for some years after that, Your Grace.”
+
+“How predictable,” Cai Shenhua commented. “Even in a crisis, they did not change one bit. Although, we already knew this.”
+
+There was a general rumble of agreement from the court, many of its older members wearing sour expressions of remembrance. The noise fell silent at the Duchess’ raised hand.
+
+“You have records regarding these two Hui.”
+
+“Of course, Your Grace. I have compiled that knowledge in a written report,” Meng Dan replied. “Such matters need not be spoken of publicly.”
+
+“You have been educated well. We will have your report brought here for perusal,” Diao Linqin said coolly. “You may continue with your findings.”
+
+Meng Dan lowered his head in acceptance. “In the creature's storage ring, buried beneath the mountain of mad and seditious scrawling, we discovered a significant fraction of the lost Hui archive.”
+
+That drew some appreciative and dubious noise from the court, and Ling Qi was quite sure that Meng Dan’s grandmother, standing among others of her clan, looked more than a bit pleased.
+
+“Although there were not many arts, I estimate that the volumes within may account for nearly a quarter of their mundane library going by the records of it at its height. In addition, it contained a truly staggering amount of art and artifacts, much of which even date back to the Weilu era. Truly a lucky find for Sergeant Xia and the Baroness.”
+
+“Lucky indeed,” his grandmother, Meng Diu, said, “that so much that was lost may be returned.”
+
+“Yes, I intend to aid the Baroness and the Sergeant in seeing an auction organized so that the artifacts may find worthy owners,” Meng Dan agreed.
+
+Ling Qi was glad for that. Some of the considering looks she had felt falling upon her and Xia Lin were less than friendly. She knew well enough that even if she wanted all the historical junk, it would be a bad idea to try and keep it all.
+
+“But most importantly, I was able to find historical records which confirmed that in the past, the Weilu and the people of the southlands had intermarried at least once in their royal lines and otherwise interacted. This proved most useful in our negotiations,” Meng Dan announced proudly. “Although it is distant, both the Meng and Diao clans have some small measure of blood connection to one of the great clans of the southlands.”
+
+The reactions of the people around them were mixed. Meng Diu looked pleased, but some of the other Meng with her looked ambivalent. So it was with the Diao as well. Some of the more scholarly types in their clique looked intrigued, but there was little interest otherwise. Some of the more imperial-aligned courtiers looked faintly repulsed.
+
+“One of the ‘great clans’? You’re implying some things there, boy,” chided a richly dressed Bao man, stroking his short oiled beard with ring-adorned fingers.
+
+“I should leave such explanations to Lady Cai,” Meng Dan deflected. “But first, I believe Sir Gan must give an accounting of the journey into the unexplored lands.”
+
+There was a brief pause as they waited for the Duchess to gesture for them to continue. Meng Dan lowered his head, and Gan Guangli raised his, though she could see from his whitened knuckles and shaking shoulders that the Duchess was not being particularly kind in her attention as it turned to him. To his credit, he did not stutter as he began to speak.
+
+“With Sir Meng and Baroness Ling occupied with cataloguing our findings, determining the route and pressing forward was left to Sergeant Xia and I. Our first task was navigating the remainder of the forest and dealing with the concentration of spiders remaining above ground. As it happened, these descendants of Hui beasts were those which split from their loyal kin, deciding that if the Cai their wretched master spoke so highly of were so mighty, that it made more sense to offer them obedience instead. Lady Cai naturally took advantage of this, and now, this nest merely awaits orders from the capital.”
+
+“Amusing,” Cai Shenhua said languidly. “Beasts are often wiser than men.”
+
+There was some polite laughter among the courtiers.
+
+“The truth of their loyalty will need review, but it is a boon regardless. I don’t believe silk exports have yet recovered, have they, darling?”
+
+“Bulk output remains under half of the pre-war production, although specialty processing has largely recovered,” Diao Linquin replied briskly. “Young man, can you give me a population estimate?”
+
+Ling Qi had a feeling that Shenhua could probably give them the numbers down to several decimal places. She supposed that the Duchess was just giving the Minister the chance to speak because she could. Or perhaps because it was considered beneath Her Grace to know such things exactly? She was always a little unclear on what level of involvement with trade and coin the nobility was expected to have.
+
+“We detected somewhere in the range of one hundred third realms and a fourth realm leading the nest. Beyond that, I am afraid it was not possible to count,” Gan Guangli answered.
+
+“Significant,” the Prime Minister said. “Continue your report.”
+
+“Yes,” Gan Guangli agreed, gathering himself. He began to give account of the frozen lands that had awaited them to the south and of the spirits and storms that had hindered them and complicated their path. It was not until he got to the point of describing the strange lights of the southern sky that his words drew further comments from the court.
+
+“You say that the lights in the sky affected your minds, despite you never leaving the mountains?” asked a scholarly looking man from among the court clans. He wore an elaborate silvery robe and headdress with a single glass lens over his right eye.
+
+“It did. It had the effect of a paralyzing fear, not unlike a higher realm beast’s ire. Our hosts did not speak much on the subject, but they regarded the lights as a hazard as well. They spoke of a weakness in the sky wrought by the Sun’s and the Moon’s absence for large portions of the year.”
+
+“Is that a plausible theory?” Cai Shenhua asked, her attention leaving Gan Guangli to look upon the man. “Astronomer Wu?”
+
+“According to certain theories, Your Grace, the rotational path of the solar and lunar spheres should leave the furthest north and south poles of the terrestrial sphere without light for around half a year. There have been many thought exercises on the effects this would have,” the astronomer said, bowing his head low. He seemed pleased. Ling Qi supposed that he must have been a believer of said theory.
+
+“Perhaps you shall have a chance to see then if my daughter truly succeeded as well as she implies,” the Duchess said indulgently. “Continue, boy. Your tale is near its end, is it not?”
+
+“It is, Your Grace,” Gan Guangli said. “Following our encounter with the lights, we faced one last obstacle, a glacial valley home to three higher realm spirits of wind and winter. After Baroness Ling and Sir Meng scried the paths, we were able to bypass two of the spirits, and the Baroness successfully used her understanding of such spirits to negotiate a safe path through the territory of the third. In the valley beyond, we found a mountain of iron in the shape of a man and met the scouting force of our hosts.”
+
+Cai Renxiaing raised her head again, and Ling Qi swallowed as the glittering radiance cast by the woman on the throne fell upon them.
+
+“Gan Guangli does not exaggerate when he speaks of a mountain,” Cai Renxiang said. “It was over two kilometers in height, and to all of my senses, composed of a strangely alloyed iron.”
+
+“Later, we would learn that this was a result of their method of cultivation,” Ling Qi said, following off of her liege’s words. “Those who achieve the higher realms become more akin to ancestors providing shelter, protection, and wisdom, rather than interacting directly in temporal matters.”
+
+They had discussed the best way to present the White Sky’s method of government and approach to cultivation, and they had decided on this version to avoid more negative impressions. It wasn’t really a lie or even a misdirection, just a careful choice of words.
+
+“Such a method seems deeply at odds with that of the tribesmen,” said a Jia officer with pinched features. “You have seen proof that it was not merely a strange spirit?”
+
+“I was allowed to meet with the religious leader overseeing the settlement, who was a fifth realm. They were strange but still obviously human,” Ling Qi replied carefully. A flick of Cai Shenhua’s hand silenced further questions for the moment. “I was able, using the shard of iron and the songs taught to me by my mentor, to establish that we had arrived with peaceful intentions, and we were brought into the iron mountain to meet the Emissary in charge of the day-to-day operations of the fortress.”
+
+Ling Qi took a breath here, preparing herself for the more important part of the narration. “The woman in question was the same one who had given me the shard. When I call her ‘emissary,’ it is her actual title. We learned that among them, there is a specific caste of priests and diplomats who bear the blessings of powerful ice spirits. I was given the shard because she believed me to be a junior member of a lost bloodline who was in need of rescue.”
+
+“Fortune can truly be strange,” Cai Shenhua said, her gaze burning on the back of Ling Qi’s neck. Sweat gathered on her brow. “But then again, one needs a certain good fortune to advance as you have.”
+
+“The Baroness is indeed fortunate,” Meng Diu spoke up. “It seems likely that the great spirits have their plans.”
+
+Several of the other Meng gave Meng Diu sidelong looks, but none gainsaid her. Some of the more traditionally garbed among the courtiers and clan attaches were looking at Ling Qi assessingly.
+
+“Plans in line with my efforts, no less.” The Duchess chuckled throatily. “Will wonders never cease. Continue, then. How did the initial negotiations go?”
+
+“We were brought to a hastily prepared meeting room in the entrance hall of their fortress, likely out of security concerns.” Cai Renxiang took up the speech as Ling Qi fell silent and tried to maintain composure under everyone’s scrutiny. “There, we met with the Emissary and her husband, the son of one the allied khans of the south.”
+
+They had to get this part out of the way.
+
+“We learned there that there are a number of cloud tribes who have begun to abandon their old modes of living in the far south as encouraged by the White Sky, who are in the process of integrating them. This marriage was an example of that, and their presence at the caldera event was an effort to convince other tribes to do so as well.”
+
+“Integration is all well and good, but I must wonder at their wisdom in letting new tribesmen hold such prominence. In my experience, it takes generations to beat the banditry out of them,” one of the Wang generals said. “How in the world do they ensure good behavior?”
+
+“If anything, Sir Wang does not go far enough with his suspicions,” a man in Diao colors said with a grimace. “The Wang clan’s methods are experimental. That these people would accept tribesmen on such a level very much undermines the narrative you are trying to construct, young miss.”
+
+There was further back and forth, and on her throne, Shenhua was silent. Ling Qi’s eyes remained on her liege’s back as the volume began to grow.
+
+“Honored lords and ladies of the Court,” Cai Renxiang said loudly and forcefully over the growing noise. “I feel it is necessary to remind you that the Wall is wide and that there are many tribes within it. The tribes of the far south have often never heard more than stories of the Empire. They are as often victims of their fellows, as anything else. Did I not say that they were only being encouraged to abandon their ways rather than being forced to?”
+
+Several individuals looked indignant at being spoken over, but Cai Shenhua’s warm laughter silenced any retort. Ling Qi squeezed her eyes shut as the pounding in her head grew with the light shining from the throne, and she shuddered to remember the half-dreamed glimpse of that radiance unmasked.
+
+“Speak, Cai Renxiang. I would hear your thoughts uninterrupted,” the Duchess said, and despite her earlier laugh, the words were spoken with utmost seriousness, reverberating in the air to silence and embedding themselves like nails in her mind and drowning out even the faintest whisper of other sound.
+
+“I will not speak in defense of the tribes which have brought pain and ruin to the people of the Emerald Seas since time immemorial,” Renxiang said. “But these are not those people. You have heard the breadth of our journey, more than ten thousand miles through mountains, valleys, and spirits. These tribes were not among the hosts of Ogodei. It is as foolish to judge them by their kin as it is to judge any of the great clans by the bonds of blood they share with the hated Hui. I will not say that our host’s methods are perfect, but from what I was able to observe, they have found security, expansion, and profit together from this integration. The tribes have safety and civilization, and the Confederation of White Sky has found a great pool of warriors and hunters with which to tame their hinterlands. We must be watchful, but to dismiss a nation because of this is something I cannot countenance, Your Grace.”
+
+That… had not been wholly planned. Ling Qi could hear bits and pieces of their planned speech in there, but the composition was off the cuff.
+
+“Passionately said, my daughter,” Cai Shenhua said as the last echo of the words faded, the inhuman reverberations gone from her voice. “As a matter of principle, I agree. Hasty judgement in a matter of this magnitude is… unacceptable.”
+
+Those who had most loudly voiced their doubts looked as if they had bitten into something sour, but they did not dare gainsay the Duchess.
+
+Ling Qi found her voice very small as she launched into the next part of their presentation. “It was because of this that we were asked to negotiate a weregild for the warriors lost during the caldera event.”
+
+She was certain had she spoken earlier she would have been interrupted here, but the atmosphere was such that she was able to continue immediately.
+
+“We used this matter to discover something of what materials the White Sky values, and as it happens, what they value most is quality wood. Their request was for ten wagon loads of hardwood and six of soft. You can see why we agreed to this so easily,” Ling Qi finished.
+
+“Interesting,” commented the Bao man who had spoken before, breaking the tense silence of the court. “Did you happen to discern what they have in abundance, Baroness?”
+
+“It was not our focus, but by its sheer prevalence, they have easy access to very large amounts of metal. In fact, the way they described their settlements, it seems that they are generally centered around what they call ‘Blood of the Sun,’ which are masses of metal which fall from the sky with some regularity and burn with a fraction of the sun’s heat…”
+
+The atmosphere of the court eased a little as Ling Qi and Cai Renxiang traded off describing what they had learned of the White Sky’s practices and culture, as well as describing the agreement they had secured, the neutral grounds they had negotiated to take place at the Hui ruins, and the rapport they had gained.
+
+“One matter remains,” a Luo courtier said as they finished their presentation. “You have spoken of this ‘White Sky’ in the terms of a peer polity. Why do you ascribe them such status?”
+
+Ling Qi responded with her head low. “We have no reason to believe their maps are lies or fabrications, and although the territory they claim may be exaggerated, I do not think it is greatly so.”
+
+“In addition to what the Baroness says, it was made clear that the White Sky is a smaller part of a larger polity, just as the Emerald Seas is part of the Empire. While it is impossible to judge their full scale with the information we have, I feel it is wise to assume that they may at least be a peer to an imperial province,” Cai Renxiang supported.
+
+There was some rumbling at that, but it seemed, of those willing to speak up, their explanation was accepted. There was silence as no more questions came, and they lowered their heads, presentation finished. When the silence was broken, it was by the tapping of the Duchess’ fingernail upon the arm of her throne, a small noise made into a sharp report by the acoustics of the chamber.
+
+“As expected of my daughter. It seems that you truly have succeeded at every goal I have given you in this expedition with additional accomplishments beside.” The Duchess’ voice was not quite warm, but it was satisfied, at least. “I will approve the terms you have negotiated and provide the small sum of the weregild from the Cai lumber yards. We will send forth messengers to scout the prospective neutral ground for their delivery as well. Should these White Sky maintain their end of the bargain, the province of Emerald Seas will speak with them.”
+
+A smattering of affirmative sound spread throughout the court, others, whatever their position, bowing to the will of the Duchess.
+
+“Tell me, my daughter, what boon will aid you in continuing to succeed so?” Cai Shenhua asked, sinking back into her throne to resume her more languid pose.
+
+“I wish for myself and my immediate retainers to maintain a central role in the diplomacy to come,” Cai Renxiang requested.
+
+There was silence from the courtiers, and above, Diao Linqin frowned at them while Cai Shenhua simply tilted her head very slowly to the side, making their shadows dance.
+
+“You are young and have other commitments beside, my daughter,” Cai Shenhua said. Her words did not feel like a rebuke, but a simple reminder.
+
+“I know, Your Grace, but it is my heartfelt belief that I will advance the interests of the Cai and the province more effectively by ensuring that this matter ends productively rather than continuing to simply act as a student,” Cai Renxiang replied. She did not raise her head.
+
+The Duchess let out a thoughtful hum that made Ling Qi’s ears ring, letting them stew in silence. “If this is your true desire, I will allow it, although by accepting this responsibility, you must be prepared for greater consequences.”
+
+“I understand,” Cai Renxiang said, pressing her forehead to the rich carpet.
+
+“I will begin making some arrangements then. You will not be without oversight. I will assign an apprentice to oversee you and assemble a pool of advisors for you to recruit from. I will speak with the Sect as well,” Cai Shenhua said thoughtfully. “Your successes are to remain at this level of quality, naturally.”
+
+Ling Qi let out a breath. One way or the other, they were committed now.

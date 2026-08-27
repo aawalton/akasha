@@ -1,0 +1,93 @@
+---
+id: 08510eee-0eb3-5570-aa45-42c6b097cb2f
+page-type-slug: story-chapter-royal-road
+title: "13. Gardening for Fun and Profit"
+slug: 0013-13-gardening-for-fun-and-profit
+partOf: god-of-trash
+position: 13
+ownLength: 1560
+unit: words
+publishedAt: 2025-03-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2112002/13-gardening-for-fun-and-profit"
+royalRoadId: "2112002"
+---
+
+Rhys awoke with a start. He sat up, looking around. Lush bushes awaited him, and the air was clear, with a medicinal scent. His brows furrowed. Something was wrong. Very wrong.
+
+No trash! He jumped to his feet and whirled. The trash pile was gone! Someone had stolen it—
+
+His memories caught up with him, and he reeled. Almost to check as though it wasn’t a dream, he peered inside himself, but just as he recalled, his core was several sizes larger than it had been. Now, it rivaled some of the most powerful Tier 1 students in the pill class, instead of being so small that it ranked among the smallest. Not only that, but it was full to the brim with mana. Overfull, even.
+
+There was only one problem. Impurities raged through him. His body resisted them passively to some extent, thanks to the Impurity Resist skill, but nonetheless, they damaged him and his mana passages. He coughed and tasted copper. Turning his head, he spat a mouthful of black blood on the ground. He was in better shape than he’d been before his impromptu nap, but he wasn’t in great shape. He needed to handle the impurities, and soon.
+
+“Did you do this?”
+
+Rhys startled. He whirled again, in the opposite direction this time.
+
+The girl who’d invited him to the mountain, Tarais, knelt by the plants, taking a closer look at the herbs. Feeling his eyes on her, she looked up. “These plants. Did you grow them?”
+
+“Yeah. They’re mine,” he replied forcefully.
+
+She raised her hands. “Don’t misunderstand me. I’m impressed, but I’m not here to steal them from you. I’m simply shocked that a Tier 1 disciple could accomplish so much.”
+
+Rhys raised a brow. She was Tier 2, and he was Tier 1. Commending it like that already implied she wanted it, but he wasn’t going to hand over his hard work for nothing. He crossed his arms, subtly sliding his hand toward the broken sword in his robes. “I’m honored you see me in such a light.”
+
+Tarais stood. She brushed off her robes. “If you’re so devoted to the school, why don’t you attend classes or find a mentor? I’m sure Sorden would be happy to have such a devoted herbalist under her command.”
+
+“Devoted to the school?” Rhys asked, shocked.
+
+“That’s right. You grew this on school grounds, with the school’s materials. Surely it was for the school?” Tarais stated, as if it were obvious.
+
+He stared at her, jaw dropped. At last, he managed a question. “You—you think I did this all out of the goodness of my heart, for no personal benefit?”
+
+“Did you not?” Her eyes flashed, and she reached for her sword. “Then I’ll have to reclaim the school’s property for the school.”
+
+Rhys narrowed his eyes. He tightened his grip on his sword scrap. What—was the school going to steal everything he’d grown? Absolutely not. They’d thrown it out. The second they didn’t want their trash any more, it became his property. Everything he’d fished out and nourished from the trash was his, from the beginning to the end. For the school? What was this nonsense? He didn’t recall agreeing to anything like this when he was brought here. In fact, he’d been dumped at the foot of the mountain without another word! This school had done nothing for him that it didn’t do for every other student. In fact, it had done less for him. And not only that, but he’d gone out of his way and decided to help out the mountain on his own prerogative, by cleaning up its garbage. What did he get for that? Nothing but the disgust of his fellow students. Not a single piece of money or bit of thanks. The school didn’t want the garbage. It didn’t want him. It didn’t want any of it.
+
+But now that he’d done something with the garbage, now that he’d made something of it—now it belonged to the school? Now she wanted to steal it from him? She didn’t want the mountainside sludge, but once he fished the gold out, that gold was hers… was that how it worked?
+
+He snorted. Maybe in a big corporation, but he didn’t recall being hired.
+
+“I’ll ask you one last time. Are you going to hand these herbs over to the school?” Tarais asked.
+
+“Absolutely not. Fuck off. If the school could do what I did, it would’ve done it without me. These herbs are the product of my hard work. They belong to me. Not the school, and definitely not you.” Rhys drew his sword scrap and pointed it at her.
+
+It was insane. He should have just backed off and given it to her. After all, she was a whole Tier higher than him, at Tier 2. But he had his intent skill, and he was used to fighting Bast and Straw, who were both far stronger than him.
+
+If he didn’t draw the line somewhere, she’d draw it for him, and he already knew he didn’t like where she’d put it. Power ruled in this world, and by the numbers, he didn’t stack up—but he didn’t care. If he didn’t try, he’d never win. No, not trying was equivalent to losing. He might as well put his life on the line, rather than not try, and impotently become someone else’s underling.
+
+He hadn’t done all this to end up as someone’s servant, producing herbs for someone else’s benefit. He’d done it all for him, and dammit, he was going to reap the profits of his trash! If she’d taken up the trash, then she could have done exactly what he’d done. But she hadn’t, so she’d lost out. Those were the laws of life. He refused to bow his head and hand it all over to her. It was the same as a little kid waiting until he built the blocks up, then kicking him out and playing with the castle, and he wasn’t putting up with it.
+
+Tarais stared. After a second, she laughed, more out of shock than anything. “That’s what you bare at me?”
+
+“That’s all I need, for trash like you,” Rhys snarled.
+
+“That’s right, I’m trash. But I’m trash who understands my place!” Tarais shot back. She flew at him in a flurry of robes, her blade whooshing forth.
+
+She was fast, faster than the J Trio on the steps of the classroom. Rhys was instantly pushed to his utter limits, and had to flare mana just to keep her from dissecting him. His mana stuttered and lagged at times, tripping him up when he least needed it to. He managed to avoid any fatal blows, but he could only dream of getting the time to activate Trash Intent or landing a hit on her.
+
+A flurry of blows pushed him back toward the stone wall. Rhys tried to escape, but Tarais had the upper hand in all ways. From the expression on her face, she’d given up on expecting a real fight. She was simply playing around.
+
+Her blade shot forth, hurtling toward his chest. He couldn’t dodge this one. He pushed mana desperately into the sword, trying to activate his intent skill, but it clogged on the impurities.
+
+Rhys grimaced. If not for the impurities, maybe he would have stood a chance—!
+
+No. That’s not right. His eyes narrowed. Time seemed to slow. Tarais’ blade froze in midair, still hurtling toward his chest, but slower, now. Long enough to take a breath. Long enough to think.
+
+He was rejecting the impurities. That was the problem. Just like everyone rejected them, just like everyone rejected trash, so, too, he was rejecting them. Naturally, then, they rejected him back. He couldn’t expect them to be anything but what they were for everyone, if he treated them the same as everyone.
+
+I need to clear them. Make them work for me. But how?
+
+His eyes flitted past Tarais, to the scorched earth behind her. The place where he’d burned the trash. To unlock mana from the trash, he’d burned it. Then… why not ignite the impurities?
+
+He couldn’t literally light them on fire. They were inside him, and they hadn’t burned to normal fire, besides. Instead, he gathered them together and filled them with mana. Inside his core, he desperately rubbed one lump of impurities against another. Friction ignition was crude, trashy, even, but it was all he had. He pressed them together, pushed harder, staking everything on the ignition. Either they lit, and he was correct, there was a hidden power locked away inside them, or he was wrong, and this was all in vain.
+
+But at least I tried, he thought, gritting his teeth and forcing the impurities to take more mana. To their limit, then beyond. They glowed, on the verge of lighting. He saw his chance. He saw his dream come true.
+
+The blade pierced his chest. Went right through his lung, with a harsh huff as it deflated. He staggered back, and Tarais pinned him to the wall. She gritted her teeth, glaring at him.
+
+“Give in. I’m only doing what anyone would do. Consider this kindness, when the other seniors would kill you.”
+
+His head slumped. She drew her blade free and turned to go.
+
+And then Rhys’ power surged.

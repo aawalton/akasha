@@ -1,0 +1,79 @@
+---
+id: faae626f-e615-5450-9634-d5cffe8668ba
+page-type-slug: story-chapter-royal-road
+title: "Threads 69: Foreshock 6"
+slug: 0088-threads-69-foreshock-6
+partOf: forge-of-destiny
+position: 88
+ownLength: 2100
+unit: words
+publishedAt: 2021-04-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/657739/threads-69-foreshock-6"
+royalRoadId: "657739"
+---
+
+Chaos awaited her return.
+
+In the flight south, she had seen the first signs. Great flocks of birds had been rising from the forest, raptors and songbirds flying side by side to escape the growing weight in the air. Beneath the canopy, beasts howled and yowled in fright as the earth shook and the wind gusted, and the pounding of a multitude of paws and hooves against the dirt added to the cacophony. As she flew further, she began to sense the disturbance in the trees themselves. Heavy branches swayed without wind and roots moved with ponderous but unstoppable strength as the tallest and most ancient trees seemed to gird themselves to endure the coming storm while their younger brethren shook and cowered.
+
+It was nothing compared to the scene that awaited her at the village itself. She had left behind a peaceful farming village huddled on the shores of the river with beautiful green fields extending far upstream. What she found on return seemed more like an embattled fortress. The rolling fields had been trampled to ruin, homes, barns and other structures sagging where walls had been blown out in the rampage of some beast. Even now, spirits streamed through the trampled fields, fleeing in all directions.
+
+At the center, things were even more dire. Ling Qi’s eyes watered at the fetid heat that radiated out from the battlefield she saw there, sickly and familiar. She remembered clearing out that nest of disease spirits just a few days ago, but it seemed there had been more pockets further south. Many more pockets. They churned from the southern forest like a moving river of chitin; centipedes, locusts, worms, and crawling and flying things that she could not name all flooded out from the southern hills, their buzzing and chittering seeming to shake the air.
+
+At the top of the ridge that overlooked the river, a massive wall had sprung up. Formed of twisted bulging branches and boughs of vital green wood, it rose over ten meters high and stretched on for hundreds, a shield braced against the ground against the oncoming beasts. The Sect’s soldiers stood atop the twitching, living wall, four first realms to every second. The lesser cultivators rained crossbow bolts that left contrails of boiling steam down upon the advancing tide in a continuous rain, their hands blurring with the speed at which they reloaded the devices. Their captains swept the sky with fire, wind, water, and lightning while the wall itself crushed, impaled, and destroyed the things that crawled upon it with grasping branches and creepers.
+
+She saw Xiulan standing at the center of it all, a burning brand under the darkened sky. Heat radiated from her form, distorting the very air and rendering her a miragelike appearance. Her gown seemed like a thing of liquid fire, and her hair rose, smoking on drafts of superheated air. Heavenly energies crackled near the surface of her skin, shining through the faded scars of her tribulation as if her friend were merely a damaged container for an ocean of living lightning.
+
+Even as Ling Qi poured on further speed, blurring into a bolt of shadow in the sky, she saw Xiulan sweep her bandage-wrapped hand out, and a river of blue-white flame followed, a searing beam that carved through the advancing spirits, hundreds incinerated or boiled in their own exoskeletons until they exploded in a shower of miasma. Where the beam passed, it left a molten trench in the earth, liquid glass and stone snapping and hissing in the suddenly cooling air. With her other hand, Xiulan wielded a many tailed lash of red flames. It snapped and coiled through the air, snatching a locust the size of a large dog from the air and flung it away from the wall.
+
+The tumbling bug was then snatched from the air by a pair of gigantic serpentine jaws, vanishing with a crunch down Zhen’s throat as Gui stomped through the tide, uncaring of the insects that swarmed up his legs, biting and gnashing futilely at his scales. With every rumbling step, roots speared out from the earth, impaling scores of spirits before withdrawing back into the churned earth. Yet Zhengui was not unharmed. Ling Qi’s eyes fell upon the patches of torn scales along Zhen’s body and the glowing crack that spiderwebbed across Gui’s shell.
+
+The one that had inflicted the wounds was obvious. Hanging over the field like a macabre banner, she saw the body of a truly massive insect, a centipede over twenty meters long impaled upon three sharp wooden stakes the size of small trees, its grey-brown shell pitted and burned through by fires and its head a charred ruin. Its legs still twitched and writhed feebly, and fetid gore that stunk of sickness and rot dripped from its perforated body, leaving bubbling pools in the dirt below.
+
+As Ling Qi swept over the village, Zhen opened his jaws, baring his fangs to the sky, and a little spark of fire perched like a crown atop his head flared brighter. A sheet of hissing, bubbling venom shot from his mouth over a far wider range than he was normally able, melting and burning the flying vermin trying to pass him.
+
+However, despite all the firepower, the diseased things streaming from the southern forest were still numerous beyond counting. Ling Qi curved her flight to the side least supported and raised her flute to her lips. The dark Melody of the Forgotten Vale poured forth with an unusual energy, and as mist began to billow out, heavy with hungry phantoms, a ragged cheer rose from the wall. It came first from a handful, presences Ling Qi vaguely recognized from patrols and training runs, only to quickly be taken up by others as her mist engulfed the mass of flying spirits and their shredded remains began to rain down on the earth below. Some were hardier than others, their chitin resisting phantasmal claws, but Hanyi’s song, rising in counterpoint to hers, allowed that to be taken care of while conserving Ling Qi’s own dwindling qi.
+
+With her help, sweeping across the battlefield in a bank of deadly mist, the tide at last receded, leaving a field of twisted, miasmic sludge of insectoid bodies dissolving into diseased pools.
+
+“Arriving at the last moment to steal the glory, I see,” the living conflagration that was Xiulan called to her.
+
+Ling Qi ascended to the top of the wall, heat and cold clashing where their auras met, violent winds rustling the cloaks of the soldiers nearest by. Beyond the base physical interaction, she felt Xiulan’s domain. It was a hungry ambitious thing, lightning stabbing down from the heavens, a wildfire raging through dry brush, but it did not reject hers. If anything, the flames roared higher and the lightning flashed more brightly when Ling Qi’s own melody washed over them.
+
+“I just can’t help myself,” Ling Qi jested, keeping the relief out of her voice as she alighted on the wall beside Xiulan. Shadow still trailed from her limbs and lines of green glimmered in the folds of her gown from her activated techniques, but she had left her mist below, maintained by the echoes of her flute. Here, with Zhengui and Xiulan, Ling Qi felt her fatigue fade and her worries lessen. This was where she was supposed to be.
+
+“I’ll forgive it just this once,” Xiulan said haughtily, her smirk shifting the lines of lightning that burned beneath her scars. “If only because I was growing sick of cooking these rancid creatures.”
+
+“You kept them all out of the village then?” Ling Qi asked. She knew it was only due to their fortitude as cultivators that they could stand the miasma rising from below. Even so, she had felt her skin crawl with sickly heat when making a pass through the worst of it.
+
+“Of course,” Xiulan sniffed. “But it was thanks to that spirit of yours.”
+
+“I protected everyone!” Gui boomed proudly, his voice echoing across the ruined field as he stomped back toward the wall. “It was really hard, but I did it!”
+
+“Even foolish Gui can accomplish something in a pinch, but it was only due to I, Zhen, that things went so well,” Zhen hissed proudly. “It was my fangs that finished the beast!” Atop his head, the tiny flame, which Ling Qi now recognized as Linhuo, let out a crackling laugh.
+
+“I’ve no idea where he learned such bragging,” Xiulan murmured before raising her voice. “Soldiers! You have fought well and with great bravery! It pleases me to have been able to lead such a fine force this day! I am certain we need only hold a short time more.”
+
+Her words brought a tired cheer from the men and women on the wall, though they kept their eyes and their crossbows trained on the south.
+
+More quietly and masked by the crackling heat, her friend’s expression grew more serious as she continued, “It is well that you returned. I am already down a half dozen men; the disease was too much for them. I have ordered a temporary camp set up for the wounded since we cannot bring them into town. I am feeling a bit winded as well.”
+
+Ling Qi’s eyebrows climbed at the frank admission from her proud friend. “I am not at my best either,” she said quietly. “The other villages - they’re holding but there won’t be any help coming from them. Have there been any other messengers?”
+
+Xiulan grimaced, sparks spitting from her fingertips. “Only one, warning us to keep away from the south. Sect forces are inbound, but it seems this was not the only plague brewing in Sect lands nor the only instance of higher raiding.”
+
+Ling Qi breathed deeply, putting the new fears that brought to mind away for now. It just confirmed the thoughts she had earlier. Something was terribly wrong.
+
+The earth suddenly rocked violently beneath her feet, nearly throwing several soldiers from the wall, and her eyes snapped up. From the silhouette of Icebreaker Peak, she saw a long, sinuous limb, a titanic tendril of some unknown thing, rise from the massive dust cloud where it had impacted the earth.
+
+Ling Qi stared, unable to comprehend the sheer size of the thing, which was visible from many kilometers away. Stupefied, she continued staring while something far too small to see smashed the thrashing tendril aside with enough force to tear a chunk of flesh that must have been the size of a house free. She watched the arc it drew through the air toward them, a lumpy, squirming mass of runny black ooze studded with mouths and eyes of innumerable shapes, already rotting in fast motion before it slammed into and flattened a grove of trees out in the killing field before the wall. She raised her arm to shield her eyes from the wind of that impact buffeting her, sending her hair and dress flapping.
+
+“...There is also that,” Xiulan said dully.
+
+“We just have to hope that Commander Guan can win.” The admission tasted bitter in her mouth, but there was nothing that she could do about the two titanic powers in the south. Perhaps in a couple of years, but until then…
+
+Xiulan shot her a sour look, as if detecting the thrust of her thoughts, and then turned away to address the shaken soldiers. At that moment, a great cacophony arose from the diseased grove to the south, and the sound of wood splintering echoed as a massive red and brown form rose from the trees. Meters-wide mandibles snapped and hundreds of legs churned the earth as another grotesque titan of a centipede emerged from the earth. Below her, Zhengui bellowed a challenge, turning with surprising speed to face the new foe and the resurgence of the diseased spirits that came pouring out with it.
+
+“Ling Qi!” Xiulan’s shout drew her attention, even as Sixiang let out a wordless cry of alarm in her head. The girl stared at her with eyes wild with alarm, her bandaged hand outstretched, fires already blooming from her fingertips.
+
+Ling Qi saw the gleam of metal beneath her chin, the curved and serrated blade just a hair’s breadth from her throat, and the slim grey skinned hand, digits just slightly too long and thin for a human’s, holding it. Even now, she felt no presence. There was no qi nor even a breath across the back of her neck despite the shine of deep purple venom practically dripping from the blade’s edge.

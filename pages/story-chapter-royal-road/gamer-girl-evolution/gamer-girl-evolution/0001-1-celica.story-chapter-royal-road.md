@@ -1,0 +1,185 @@
+---
+id: e83b250d-2846-5bc0-8e8d-c30242124a06
+page-type-slug: story-chapter-royal-road
+title: "1 - Celica "
+slug: 0001-1-celica
+partOf: gamer-girl-evolution
+position: 1
+ownLength: 1641
+unit: words
+ownProgress: 1641
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620511/1-celica"
+royalRoadId: "2620511"
+markedReadAt: "2026-06-29T20:05:37.327Z"
+---
+
+“Haah… finally, a solo clear.” Celica raised her sword over the dragon’s corpse, chest heaving. Beneath her lay the final boss of The Nine Realms—the world’s most popular VR game. “No way this stupid dragon king took two hundred reruns.” She kicked its corpse with a snort.
+
+“System Call—Status.” A screen appeared in front of her.
+
+***
+
+[STATUS]
+
+Snapped Sword<Conqueror of all Realms> (Commander)
+
+Level 999 Dragonoid [Ascended]EXP: ??? / ???
+
+STR: 97,572,243 | AGI: 94,566,233 | VIT: 98,231,179 | DEX: 90,984,342 | END: 96,357,684
+
+***
+
+“I went up two whole levels!?” Celica’s eyes widened as she stared at the screen. The devs were known for rewarding challenge runs, but this was pushing it.
+
+“I’m finally max level… how long’s the patch been out again?” She flipped open the patch notes, stretched, and let out a satisfied grin. “Two days to reach the cap. Personal best—and a world record.”
+
+Her triumph lasted all of three seconds. “Now I gotta wait for the next update…” She scratched at her back with a sigh, then froze. “Wait—no drops? You’ve gotta be kidding me!”
+
+She glanced at the clock. Morning already. Most people would be getting ready for work, but she was busy cementing her status as the best VR gamer of all time.
+
+With a few taps, she uploaded the proof of her damage-less run of the game’s hardest boss. The caption: ‘Ez. First try. lol.’
+
+The guild chat erupted:
+
+“Big bro Snapped Sword, can you release a guide for the sixth realm’s event boss?” “No way—that was first try?” “Yeah, I saw it myself!” “Guild leader, please accept my friend request already!”
+
+Celica scrolled through the chaos, smirking at the three thousand unread mails and nearly eight thousand friend requests waiting for her. “Noobs never learn… hehe…” She chuckled, the laugh turning into a smug little cackle as she logged off. Celica limped into bed and was out within seconds.
+
+When she opened her eyes again, Earthfonia’s familiar beginner town stretched out before her—the cobbled streets, rickety wooden stalls, and the dull stone fountain at the center. The game’s very first realm.
+
+“Seriously? I’m playing TNR even in my sleep now?” she mumbled, her words slurring. Her gaze swept over the town square, then she sighed. “Another speedrun, huh?”
+
+She’d speedrun the game more times than she could count, holding the world record clear time in every single realm. Nobody else came close. On top of that, she was a ten-time PvP world champion, undefeated since the game’s release. Ten years in, and Celica was the undisputed GOAT of The Nine Realms.
+
+Her crown jewel? She was the only player to ever reach the Ninth Realm, evolving into a dragonoid. TNR’s unique system let players evolve into higher races with each realm cleared—so long as they met the hidden conditions. Orcs, elves, dwarves, beastfolk, dragonoids… the possibilities kept the game alive for over a decade, even without magic.
+
+Celica rubbed her chin as she looked around the square. The place was unusually packed with fresh characters, the crowd spilling out into the streets.
+
+“That’s strange. It’s rare to see this many newbies—and more keep popping in…”
+
+[SYSTEM ANNOUNCEMENT: Welcome to The Ten Realms!]
+
+Ten? Did the devs make a typo?
+
+[After five years, we can proudly announce the release of this game!]
+
+A cheer rippled through the massive crowd of new players crammed into the square.
+
+Celica frowned. Release? What are you talking about? This game’s been out for ten years.
+
+“System Call—Calendar.” The screen blinked open, and Celica froze.
+
+2020.
+
+Her eyes went wide. You’re kidding me. Ten years ago?
+
+[Don’t worry, gamers, you’re not alone. Soon enough, the entire young adult world will be joining you.]
+
+The system always used a realm boss as its messenger. In Earthfonia, it was supposed to be Zestry, the druid. But the figure standing above them wasn’t Zestry. It was Slimonius—the Slime King, the first boss of the Fifth Realm.
+
+“Ahh, what the hell!” “Where am I!?” “No way… I was just in class…” A teenager clutched his school bag like a lifeline.
+
+What the hell’s going on? This didn’t happen last time… Celica’s eyes narrowed as she scanned the sea of players. There were more bodies than she’d ever seen in one place.
+
+[This is Area 11. Your country has been split into fourteen areas. Every single person between the ages of thirteen and twenty-nine has been transported into this game.]
+
+Everyone? She looked around again, and the truth quickly settled in. With this many people, it had to be true. The crowd, wild with panic, suddenly went silent. Muted as if a GM had flicked a switch.
+
+[Don’t worry. It’s not just your country, but indeed—the entire world!]
+
+Slimonius spread his gelatinous tentacles wide and laughed, his body jiggling grotesquely with each ripple.
+
+Celica clicked her tongue, unimpressed. “Tch. A no-hit run wasn’t enough. I should’ve styled on him blindfolded and unequipped, too.”
+
+[Let me explain the rules of the game. Every floor has a main quest. The first realm, Earthonia, has five floors. You must complete the main quest within the time limit or…]
+
+Or…?
+
+[You die.]
+
+Die? In-game, or…
+
+As if reading her thoughts, the slime king’s voice boomed again.
+
+[You die IRL. This IS IRL!]
+
+The crowd recoiled as Slimonius’s shriek rattled their bones. Someone screamed. A man barely twenty broke down in tears, his voice cracking. “I don’t want to play this… death game…”
+
+“Bullshit!” A muscular guy shouldered forward, pointing at the boss. “You think you can scare us with a cheap trick?”
+
+He was ignored.
+
+Nobody wanted to believe, but terror spread like a wildfire in dry grass. Celica froze. Wait, am I still dreaming? Everything feels so vivid that… I can’t even tell anymore.
+
+“System Call—Status.”
+
+Celica Travine Crystalis <No Title> (J*bless)
+
+Level 1 HumanEXP: 0 / 10
+
+STR: 5 | AGI: 5 | VIT: 5 DEX: 5 | END: 5
+
+“What the hell…? My full name? Not Snapped Sword?” She stared down at herself, unsettled. Doesn’t look like an alt account… no way—this is my real body.
+
+Creepy.
+
+She shivered, not realising how concerned people would be if they knew it was easier for her to recognise her alt characters rather than her real body. Celica had always given her accounts some variation of “Sword” in the name. Seeing her real name there instead made her skin crawl.
+
+Worse, her avatar wasn’t her usual male build. She’d always rolled guys—it just felt better. Now, forced into her real body, she felt awkward and exposed.
+
+Her eyes flicked back to the stat screen. J*bless? Seriously? Which dev coded that?
+
+Her thoughts drifted to the past—ten years ago, when she’d first logged into TNR. Back then she really had been unemployed, gambling everything on making it as a pro gamer. By some miracle, it had worked.
+
+But now, she couldn’t help but smile despite the deadly situation she was in. Man… the look of a fresh account never gets old.
+
+Around her, though, panic rippled through the crowd. People of all ages sat clutching their heads, some crying, some shouting, others quietly breaking down as the weight of the announcement crushed them.
+
+A voice rose above the noise, half-panicked, half-delusional. “It’s fine, right? Just a launch event! A stunt! It’s gotta be!”
+
+“I’m only fifteen… why do I have to… play this crazy game…” The noise swelled as the crowd ballooned in size.
+
+A guy in office clothes dropped to his knees. “Please, I have a wife and kids! Don’t do this!”
+
+Voices cracked and begged at the slime king’s feet. Not that he had feet. And not that he had empathy, either.
+
+[Just relax. There’s good in it for you too—just wait and see. I’m setting the first quest. You’ll have one week to complete it. Failure means death. And one more thing: after seven days, those of you that are still alive can’t leave until you’ve cleared the floor.]
+
+“What? Completed the floor?” Murmurs surged around Celica.
+
+She smiled inwardly. So he means the first dungeon. Usually takes a full party—three to five competent players minimum. But for me? I could solo it. Low diff.
+
+[You will be stuck in this world until you beat it. Say goodbye to Earth—The Ten Realms is your new home.]
+
+The quest announcement dropped, and synchronous sobs rippled across the plaza.
+
+“Kill slimes? With what!?” a girl shrieked, holding up her empty hands.
+
+“We’re dead. We’re all dead…” another muttered, rocking back and forth.
+
+The muscular guy from earlier turned pale, his bravado gone. “N-no way. They wouldn’t actually—”
+
+Celica yawned. Come on already. Is he gonna start the quest or what? This is why I hate speedruns with unskippable cutscenes.
+
+[Earthonia’s First Main Quest: Kill 100 Slimes]
+
+Completion: 0 / 100
+
+Time Remaining: 6 days, 23 hours, 59 minutes, 59 seconds
+
+Celica’s eyes lit up. Finally.
+
+Since this is the release-day patch… A dangerous glint sparked in Celica’s eyes.
+
+Without warning, she broke into a bizarre zigzag sprint, her movements jerky and unnatural.
+
+“I knew it—the vectoring glitch still works!” she cackled, tearing across the plaza before anyone else had even processed what was happening. In seconds, she was moving three times faster than the nearest players, a streak headed straight for the plains.
+
+Confused stares followed her, but Celica didn’t slow down. “With this glitch, a sub–five-minute clear’s doable.”
+
+If anyone from her time had heard that, they’d have been floored. The current glitchless world record (set by her) sat at seven minutes flat. But for the OG players—the ones who remembered how broken vectoring used to be—her words rang with dangerous truth. In the right hands, it was an OP weapon.
+
+Dream or not, it didn’t matter. One thing was certain: Celica was about to show these noobs how it was done.
+
+Gamer girl style.

@@ -1,0 +1,117 @@
+---
+id: ff9bd615-88ee-5949-8bc3-ebdb5f6b3a0d
+page-type-slug: story-chapter-royal-road
+title: "Threads 138-Concert 1"
+slug: 0166-threads-138-concert-1
+partOf: forge-of-destiny
+position: 166
+ownLength: 1544
+unit: words
+publishedAt: 2021-10-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/761571/threads-138-concert-1"
+royalRoadId: "761571"
+---
+
+On a high mountain peak, a soft wind blew, whispering through glittering teeth of hanging ice. Below slept a valley under cover of snow, blanketed in purest white.
+
+Peace, whispered the wind, stirring snow as light as powder. Crystals of ice danced in the air, tracing fanciful shapes to the tune of the groaning ice that capped the valley stream. On worn and weathered bark glittered frost and clear ice, gleaming elegantly under the moon.
+
+And lo, there was winter’s maiden, dark hair stark among the pale snow. Her voice was the tinkling of bells and the song of the winter wind. Amid the swirling snow she danced, her voice raised in song, soft and light as the winter breeze blowing amongst the boughs.
+
+Under the moon, the frozen river was her stage. Delicate feet danced soundlessly upon groaning ice, and the maiden twirled, her soft voicing echoing like the ringing of bells from ice laden boughs. Ice clad trunks swayed in the cold winter wind as the maiden danced among phantoms of blowing snow.
+
+Peace, whispered the wind, and all the land was quiet, save the maiden’s song.
+
+Ling Qi clapped politely as Hanyi’s song wound down, and the phantom of a peaceful winter night faded from her thoughts. With how much time Hanyi had spent practicing in this grove, one could hardly tell that it wasn’t the dead of winter in truth. Frost dusted the withered grass, and gleaming icicles hung from branches which still held leaves, glistening and frozen. Hanyi stood atop a crude stage formed of a frozen tree stump, flowers of pale blue ice blooming around her feet.
+
+“So, what do you think?” Hanyi asked brightly, hopping down from her stump. “I don’t think the last verse is really ready yet, but the rest was good, right?”
+
+“It was beautiful, Hanyi,” Ling Qi said. Hanyi was not quite as good as her on pure technical skill, but she could feel that Hanyi had been putting her all into the song. “I’m surprised at your theme though.”
+
+Something so bright and whimsical seemed an odd thing to make for Hanyi’s main piece.
+
+Hanyi twisted a strand of her hair between her fingers. “Well, there’s no point in just copying. Yours and Momma’s songs are always so…” Hanyi trailed off uncomfortably.
+
+“It’s fine, Hanyi,” Ling Qi said hastily. “I think Zeqing would be happy that you’re branching out. It’s just not the way I’m used to thinking of things. Like I said, your song was very pretty.”
+
+“I get it. But, winter is really pretty. It’s not all gloomy stuff. It’s fields of white, glittering as far as you can see. It’s sledding down the cliffs and listening to the wind and the snow blowing through the ravines,” Hanyi said quietly. “It’s home. I want people to know how nice it is.”
+
+Ling Qi nodded, stepping forward to rest her hand on Hanyi’s shoulder. “That’s a great inspiration even,” she said encouragingly.
+
+“You miss it though, huh?” Sixiang murmured. Their face was reflected in the hanging sheets of ice. “Hopping up to the mountaintops just isn’t the same?”
+
+“It’s not ‘cause Sis’ home is down here. Everything down here is just so noisy with the bugs and the birds and the people. And it’s always so hot. I just miss Momma’s peak sometimes,” Hanyi huffed. “I want to make a song about how nice the cold can be.”
+
+Ling Qi supposed that perspective could really change even the most fundamental meanings. “So that’s what was bothering you,” she mused. “And here I was worrying that you were worried about the battle and your wound.”
+
+“Huh?” Hanyi asked, blinking. “It was scary, but it’s done now. Why would I worry about that?”
+
+Sixiang snickered, and Ling Qi sighed.
+
+Hanyi shifted from foot to foot, not quite meeting her eyes. “I mean, I know I have to help you out, Sis, but fighting kinda sucks. If food can fight back, that’s no fun at all.”
+
+Ling Qi gave Hanyi a searching look and found that there really was no deception in Hanyi’s words. Her thoughts on battle were really that simple. It reminded her that despite her appearance, Hanyi really was a spirit. She really didn’t think anything of battle and death, except that she didn’t like getting hurt.
+
+“I guess not,” Ling Qi said wryly. “You’re not much of a hunter, huh?”
+
+“Well, duh,” Hanyi scoffed. “A real lady shouldn’t have to traipse around and pick fights like that.”
+
+Ling Qi’s lips quivered, and Hanyi’s eyes widened.
+
+“Not that Sis isn’t a lady!” Hanyi defended quickly. “You're super cool and elegant! It’s okay for people to have weird hobbies!”
+
+“I dunno. I think you kind of have a double standard there. And elegant? This dork?” Sixiang mocked.
+
+Ling Qi swatted away the wisp of wind that poked her in the side.
+
+“You take that back,” Hanyi pouted, glaring up at the ice that reflected Sixiang’s visage. “Sis is totally elegant when she tries!”
+
+Somehow, Ling Qi was really feeling attacked here.
+
+“It’s fine, Hanyi,” she repeated before Sixiang could goad her again. “Anyway, you were just worried about your song?”
+
+Hanyi nodded reluctantly. “Yeah, it’s nothing like what Momma or you perform, so I was nervous. And, um…”
+
+“And what?” Ling Qi asked.
+
+“I want to try some stuff other than singing. Not now, obviously. It’s way too late to start something new, but after this, I want to try out some instruments and stuff.”
+
+Ling Qi hummed to herself. “You know that we’re going on a journey soon. There probably won’t be time to shop around for talismans.”
+
+“I know.” Hanyi rolled her eyes. “I’m not dumb. But I’ve been studying! You can get mortal practice stuff super cheap, and I should get at least a little bit of money after this recital, right?”
+
+“I suppose so,” Ling Qi allowed. “But when we’re traveling, we’ll have to be careful, alright? No practicing with noisy things if I’m not around to damp the sound.”
+
+Sixiang fake coughed, concealing a word that sounded like it started with a “M.” Ling Qi ignored them.
+
+“I’ll be good,” Hanyi said. “But, anyway! For the last verse, I wanted your advice, Big Sis, since I’m stuck. I wanna clean up the rest too. Can you and Sixiang help?”
+
+Ling Qi shared a considering look with the muse before flicking her gaze downward, indicating that she would let Sixiang take the lead on assisting Hanyi.  When it came to technical skill, Hanyi wasn’t far behind her, especially when it came to singing, rather than Ling Qi’s preferred instrument.
+
+Besides, Hanyi was trying to differentiate herself from Zeqing. Ling Qi wasn’t sure her advice would be the best way to achieve that. Not that she intended to go anywhere; she had promised Hanyi help with her composition, and she wasn’t going to break a promise to her teacher’s daughter.
+
+“Sure, I’ll help, squirt!” Sixiang announced. “Just want to clear something up first. The girl in the song isn’t meant to be you, right?”
+
+“Tch. Obviously not,” Hanyi scoffed. “She’s supposed to represent, like, the mystique of winter and stuff. You can’t make a song about yourself until you have something to brag about.”
+
+“Naturally,” Ling Qi said, covering her smile with her sleeve. It looked like Hanyi was at least a little self-aware.
+
+“Right, just figured I would make sure.” The rays from the sunset refracting from the hanging icicles shimmered, forming the muse’s silhouette as they took on a lecturing pose. “So, the main problem I see so far is that the song is kind of directionless. It’s pretty and all, but it doesn’t feel like it’s about much.”
+
+“It’s supposed to be about the first deep snow of the season,” Hanyi rebutted. “And how cool and pretty and peaceful it is right after the snow settles.”
+
+Sixiang nodded agreeably. “Mhm, in that case, I think you’re missing something by starting the song after everything is settled. You might want to work on the beginning of the song. A song isn’t like a book, but you still need something of an arc to help keep your listeners’ attention.”
+
+“I guess so,” Hanyi said slowly, looking back and forth between Ling Qi and Sixiang. “What do you think, Sis?”
+
+“I think a good song can’t be the same intensity all the way through,” Ling Qi mused.
+
+“Buildup and payoff,” Sixiang agreed. “Then we can figure out the wrap up. If the song’s about a winter morning, what do you want to try and say with that?”
+
+Hanyi blinked, cocking her head to the side cutely. It made Ling Qi want to ruffle her hair. “Huh? I want to say that the morning is pretty and quiet.”
+
+Sixiang pursed their lips. “That’s… fine. I mean, what feeling are you trying to evoke in the audience?”
+
+Ling Qi laughed under her breath as she found a seat on a fallen trunk. Hanyi swiftly took a seat beside her. They were probably going to be here for a while yet.
+
+But if this was what it took to make sure Hanyi’s first performance was a success, she would stay right up until the day of the concert if she had to.

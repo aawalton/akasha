@@ -1,0 +1,129 @@
+---
+id: 250b8a01-d60a-555b-a147-30e2222a8a69
+page-type-slug: story-chapter-royal-road
+title: "Threads 361 Maps 2"
+slug: 0401-threads-361-maps-2
+partOf: forge-of-destiny
+position: 401
+ownLength: 2324
+unit: words
+publishedAt: 2024-02-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1516021/threads-361-maps-2"
+royalRoadId: "1516021"
+---
+
+They parted ways after that, making their way back to their places at the table, Rostam and Inzha to their side and her to Renxiang.
+
+"Any further complications?" her liege asked. "I have been informed of the Luo promise."
+
+"We will need to push for more sharing of formation and cultivation basics for better infrastructure cooperation next week," Ling Qi whispered. "I believe there are no remaining obstacles to the legal phase though."
+
+Renxiang gave a shallow nod, turning her head back toward the table. "Very good. Then let us proceed, and lay this first stone."
+
+Cai Renxiang spoke up, calling the others to attention. "Lords and ladies of the Emerald Seas, agents of the imperial throne, worthies of the Polar Nation, I hereby call the summit back to order. These deliberations have been most fruitful despite their brevity. The time has come to take what we have discussed and lay down the foundational document which will guide our efforts to establish an equitable system of conflict resolution between our people. I am certain there will be much to add to what we lay down here today in the years that follow, but your wisdom today will inform and guide it. Let us begin the drafting process…"
+
+She was glad that Renxiang could be so passionate about this kind of thing, Ling Qi thought. She cast her gaze over everyone gathered. It wasn't merely her imagination that there was something in the air now, the beginnings of a treaty.
+
+Letting her senses peer over the veil loosely into the liminal realm beyond, Ling Qi could see that the hall and the groaning chaos of the valley had somewhat settled. The twisted caricature of it with its patchwork construction and shifting foundations was a little less ugly. It shook a little less, and it creaked a little less.
+
+And that extended here to the physical realm. The Polar Nation held a united front, the creaking cliff of a glacier grinding down a mountain before it. There were knots of conflict in it, cracks in the ice and clashing wills, but it was steady in its primary purpose.
+
+Her own people were less united, a mixed grove of trees, grasping roots fighting for the most nutritious soil, branches straining to steal the light from their neighbors. They were too busy, too disinterested, or too occupied to strangle the saplings sneakily growing in the light let in by the narrow break in the canopy. Yet for all the knife fighting among themselves, she thought there was a growing notion that this whole endeavor had real value.
+
+For both good and ill.
+
+Even the old watchman, glaring from behind his mask, had settled now, if not in acceptance, then at least grudging resignation.
+
+She looked at all of this, feeling the flow of information and seeing it in a way she could not before, treaties as binding chains and tensions as splinters and thorns and chips of frigid ice. It was not what the prime minister had shown her back at the tournament, that crushing, all-consuming empathy, but instead, it was a vision of egos and grudges that she could perceive and endure.
+
+"Four judges with a majority of three are required to pass a judgment upon a case, ensuring that some consensus must always be found. Three such panels will be rotated in and out of the embassy to ensure that there is always availability," she heard Cai Renxiang say. "Housing will be constructed here, commensurate with what is needed for such worthy experts and their staff."
+
+The first seeds of a joint settlement would be planted here, a reason for both nations to have a fixed presence.
+
+Cai Renxiang continued. “The establishment of an investigatory force with a similarly mixed staff headed by a pair of experts, one of each of our nations, with authority to investigate claims along the borders will be discussed in the following week’s negotiations. These experts will act under the command of my mother's court through our magistrates on site and the polar althing through your magistrates. Their duties shall include…"
+
+Ling Qi's eyes fell on Meng Dan and his uncle. There was discomfort there. Animosity wafted in the air between Cao Chun and the older Meng, and anxiety radiated from Meng Dan, for all that his smile never wavered. She would have to talk to them, too.
+
+Their ducal watchers would become involved next week with the need for the Sun's input on border negotiations. Zheng Fu was diffuse in her vision, as difficult to grasp as a cloud of mist, but he was unhappy or fretful over a failure. Sun Liling and Bai Meizhen were very similar in their aloof boredom, though she would certainly never say that to either. In contrast, Xuan Shi was full of eagerness, scribbling away in his book. He had a meeting scheduled with a member of the White Sky, the first of them, for soon after this day’s conference.
+
+"The decisions of the judicial panels will be backed by the will of the Duchess Cai and the authorities of the White Sky, and its punishments will be enforced with the full extent of their authority. Neither polity will shield its members from justice as decided here. So shall be sworn in the oaths establishing the court…"
+
+Experts began to speak up, pairs of lawmakers and clerks, establishing a handful of foundational legal codes which everyone had agreed on. Land ownership, life, and cultivation were the basic subjects. Codes and categories of offense were laid out. It was still only the beginning with precedent and law to be built on over time, but there were clear mechanisms for addition or removal of items from the foundational document.
+
+Said document took shape as everyone spoke, written in alternating sections, elegant imperial characters beside the harsher strokes of polar runes. Right now, it was only paper, but later, it would be carved into iron and jade tablets in the courthouse when it was constructed. Although densely written, it was perfectly legible, laid down by skilled scribes and scrutinized a dozen times over for any discrepancy as it was passed around the table. Finally, it was done. The text seemingly took up only a single sheet of the finest paper, but the text scrolled through dense contents under a reader's glance.
+
+Everyone stood as it was finished, the arrangements shuffling as Jaromila and Cai Renxiang came together in the center with their entourages. The document was laid out before them with a small blank space at its bottom awaiting them.
+
+"Let this seal mark the beginning of our peoples’ cooperation, the first sign of oaths to be sworn upon the success of this summit," Jaromila proclaimed, straight-backed with metallic flecks glittering in her eyes. Her voice held an authority beyond her cultivation as she was given an iron seal by the priestesses surrounding her. Its press left the impression in dark blue of a rune that Ling Qi recognized as being the symbol of the White Sky as a whole.
+
+"Let this signing mark the truth that law is the foundation of civilization, that in its understanding, the sword may be set aside," Cai Renxiang declared gravely. The brush held in her hand was mundane, but the ink she set it in, the container held by Ling Qi, was more potent, a deep crimson that glittered with wavering lines of other colors and thrummed with the tiniest breath of the power that shone out of the eyes of the duchess. The character of Cai was laid down in neat, perfect strokes beside the seal of the White Sky.
+
+The liminal chaos settled just a little more.
+
+Cai Renxiang and Jaromila turned, first bowing to one another and then clasping arms. A quiet susurrus of noise broke out among the observers, discussing the finalization of the legal agreements.
+
+Ling Qi let out a quiet, relieved breath. The first step had been achieved. The small part of her that worried if this was even possible, if they had far overreached themselves, quieted. They were succeeding. And they would find success here.
+
+She would not accept any other result.
+
+***
+
+The days that followed were spent in small negotiations, arguing over details until it felt like her head was pounding, but in the end, it was still only the beginning of the summit.
+
+They were so far away still. There were so many endless rolling kilometers of ice-capped mountains and dense, hidden valleys and snowfields and glaciers that lay between the northernmost outpost of the Polar Nation and the southernmost ones of the Celestial Empire. She doubted that this land would be adequately claimed this millenia, let alone in a few centuries, and yet, she suspected that she was going to see men and women near come to blows to paint their colors across the map today.
+
+Such a vast distance, but ink on paper made it seem so small.
+
+"Looking kinda gloomy there. I think that map looks real pretty. Love the scrollwork on it."
+
+Ling Qi glanced over to Sixiang, who leaned over her shoulder to view the map of the southern Emerald Seas and the explored portions of the Wall spread across the desk in front of her. It was a beautifully detailed map, of course, done by one of the best cartography experts in the Emerald Seas in collaboration with an artist from Xiangmen. Every detail of the province's land could be seen if one looked closely enough. It almost felt as if she could see the glades and passes and rolling hills.
+
+"It's not the quality of the map I'm gloomy about. I just know, in my bones, that this upcoming negotiation is going to be difficult."
+
+Sixiang snorted. "I'm not surprised. If you didn't have at least that much insight into people, I'd wonder what you thought you were doing here."
+
+"It makes me think just how far one can stretch the idea of defense," Ling Qi said. "I understand why Elder Ying was trying to instill more thought on the concept. Ostensibly, the claims the nobility wishes for Lady Cai and I to commit to are for the purpose of ending the raiding and defending their settlements from further nomad attacks."
+
+It wasn't even a lie. The cloud tribes and the people of the southern Emerald Seas had been killing, fighting, and looting from each other for longer than the written word had existed. In all of that time, the only sure defense against tribal raids had been to shove the border further south, to put their city, town, or village out of the nomads’ easy raiding range.
+
+Distance as defense. But the infrastructure needed to hold land inevitably built up new settlements. She and Lady Cai and Gan Guangli were all doing that right now themselves at Snowblossom after all. And with new settlements came new people in danger of being raided, and so it went on and on for time after time.
+
+It hadn't always been the cloud tribes being pushed back either. From her reading, there were many reversals in the Xi era, partially due to the subjugation of the hill tribes breaking apart the defensive arrangements those people had and partially due to the strife that rose from the Xi's assimilation programs. When the Xi had fallen, the official borders hadn't moved, but many southern settlements and forts had gone dark, not to be reclaimed until the third and fourth generations of the Hui.
+
+However, since the end of the Hui, the border had ceased to move any direction but south.
+
+No, distance could never be sufficient defense.
+
+"Is that why you decided to cultivate that lake art of yours? Since your mind was on it anyway?" Sixiang asked.
+
+Starless Night’s Reflection, her primary defensive art, was not one she had cultivated in a long time. She simply wasn't engaged in battles like the one at the caldera these days.
+
+"It's not just that. I have a bad feeling that it’ll be needed. It’s probably just nerves, but…"
+
+"I mean, a bad feeling's not something to ignore when you're poking around the things you are. Worried someone might go for a boom since the more subtle efforts failed?"
+
+"I shouldn't be. Any obvious effort will run face first into General Xia, but then again…"
+
+"Spook efforts shoulda run into Shu Yue."
+
+"And they did. It doesn't mean that I wasn't still in the blast radius."
+
+Ling Qi sighed. She'd left her defensive arts to the side, simply because the projects that she had been involved in didn't require them. She couldn't shake the feeling that this would change soon.
+
+Starless Night's Reflection had always been an odd art to her. Sourced from the Bai clan, it set out to teach the lesson of imperiously confronting a challenge and remaining unaffected in the face of it. The user of this art drew inspiration from the vast and endlessly deep Lake Hei, which could swallow anything into its depths with nary a ripple.
+
+That was not Ling Qi's way.
+
+But there was something there, she thought, something in the lessons of the art that she could work with. The mirrored lake surface reflected a starless, moonless sky. Perhaps for her, the surface was less important than the mystery of the black depths beneath. But she needed to understand the art fully before she could contemplate twisting its story.
+
+Distance was not defense, but one could not erect an impervious barrier between the province and the mountains either. Whatever solution they found, it would be rooted in words and fantasy and built on promises and paper over stone and mortar. The trick was convincing everyone that the former were just as solid as the latter.
+
+"Ah, you're getting that auntie-look. Should I be worried?"
+
+Ling Qi frowned at her friend. "What’s that supposed to mean?"
+
+"Scheming. You're scheming."
+
+"I'm planning."
+
+"Same thing!"

@@ -1,0 +1,173 @@
+---
+id: 2c441397-ef2b-5ae5-9e8d-a91a8381bb7e
+page-type-slug: story-chapter-royal-road
+title: "19 - Glorious Rewards"
+slug: 0019-19-glorious-rewards
+partOf: gamer-girl-evolution
+position: 19
+ownLength: 2190
+unit: words
+ownProgress: 2190
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2699043/19-glorious-rewards"
+royalRoadId: "2699043"
+markedReadAt: "2026-06-29T20:06:11.665Z"
+---
+
+Celica’s fingers hovered over the character creation screen. She needed to act fast. Kellen, Talia, and Rhys were in danger, and she couldn’t afford to waste any time.
+
+With practiced ease, Celica set about designing her disguise. She chose to become a good-looking male character with jet-black hair. Something simple, yet effective. The face was sharp, the jawline strong, and the eyes held a strange innocence to them.
+
+The costume set was where Celica allowed herself to have a bit of fun. She chose a late-game costume replica—imposing, and highly advanced looking, complete with intricate designs and sharp edges. It would send the right message: this player was ahead of the curve. Way ahead.
+
+For the weapon, Celica couldn’t resist the temptation to add her own twist. She designed a sleek weapon that looked like an end-game sword. The blade was flawless except for one big, glaring issue.
+
+It was broken.
+
+Her fingers hovered over the option. The stats would be the same but the hitbox would be smaller, the true effectiveness compromised. She didn't mind though. She was Snapped Sword, after all.
+
+With a sigh, she clicked the confirmation button. “Good enough.” She knew she didn’t have much time to make this perfect, and there was no point overthinking it. There were more pressing matters ahead.
+
+The fog rolled was thick as usual as the Cyclops’ massive frame loomed like a shadow, its club raised high. Celica, disguised as Snapped Sword, used the cover of the mist to her advantage. Her movements were a blur, all deliberate and calculated.
+
+She closed the distance between herself and the beast with practiced precision, her speed amplified by her use of the vectoring glitch. Her every step was perfectly timed, and at the perfect angle.
+
+As she neared it, Celica’s focus sharpened. The air around her felt electric with tension. She didn’t hesitate. She dashed forward, her sword raised. In one seamless motion, she performed a flawless parry.
+
+Clang!
+
+The monster's club deflected off her blade with a metallic resonance. Crap I almost messed up. Celica’s heart skipped a beat as she felt the unfamiliar weight of her broken weapon. The hitbox was smaller than she was used to, and for a split second, the timing felt off. She quickly adjusted instinctively, brushing off the discomfort.
+
+She stole a brief glance at Kellen, Rhys, and Talia, whose faces were wide with shock. A smile tugged at her lips, but she quickly stifled it. Her friends didn’t know it was her, and that thought felt stranger than she could put to words. To think Milia’s friends would be these three… The thought faltered as another ruthless attack came hurtling towards her.
+
+Parry!
+
+Celica's smile vanished as she refocused, her attention drawn to the bloodthirsty beast in front of her.
+
+The Cyclops roared and swung its massive club, the attack leaving a trail of destruction in its wake. Its movements were slow but powerful, and Celica’s eyes tracked every motion with intense focus.
+
+She kited in and out of range, her feet light as air, using the vectoring glitch to shift her position. The Cyclops swung its club at her again, aiming to crush her beneath its weight, but Celica was already a few meters away. She countered with a quick slash, the broken sword cutting through the air with a loud whish. A clean hit landed on the monster’s side, but it didn’t flinch.
+
+92% HP...
+
+The beast had super armour. It didn’t feel pain the way other monsters did. Celica had dealt with this before; it was the hallmark of a mutant. But she knew its weak spots. As the Cyclops reared back for another swing, she dashed forward, exploiting an opening just below its left shoulder. The blow landed squarely, breaking through its armour and causing the boss to stagger for a brief moment.
+
+78% HP...
+
+Celica took advantage of the stagger, quickly following up with a thrust. The power of the thrust cut deep, leaving a gash that cracked the monster's skin in multiple places. The Cyclops let out a roar of frustration, but Celica wasn’t fazed. She quickly parried its retaliatory swipe, her timing impeccable as she launched into a series of rapid slashes.
+
+She felt the familiar rush of levelling up, the smooth flow of combat sharpening her combat skills. The Cyclops wasn’t letting up, but that only made it easier for her to rank up her abilities. Every attack it threw her way was a chance for her to strengthen her common skills. Countless notifications flooded her screen in quick succession but she ignored them, focusing entirely on the fight.
+
+The Cyclops’ health steadily ticked down, each blow and counter landing with clinical precision. Its HP dropped below 50%. With a mighty roar, the Cyclops staggered, shaking the ground beneath them. Celica's eyes narrowed.
+
+Here it comes.
+
+An earth-shaking roar marked the start of its second adaptive phase. Celica tightened her grip on the broken sword, ready for the real challenge to begin.
+
+The ground shook again, wrapping around the two combatants like a suffocating veil. Having roared in frustration, the monster took a step back and eyed Celica carefully. Celica could feel the tension in the air shift.
+
+It was observing her. Watching her every move.
+
+Then, the Cyclops’ movements grew more deliberate. It darted around rapidly, mimicking Celica’s vectoring earlier. Her eyes narrowed as she saw the beast's footwork change. The beast had entered the “adaptation phase.” And as expected, it began to replicate her fighting style.
+
+She saw it adjust its stance and, with a surprising level of accuracy, it began to use Thrusts and Slashes with its club in a manner that mirrored her own. However, its footwork wasn't perfect by any means. It was mediocre and the attacks lacked the fluidity that Celica's had.
+
+Typical, she thought, smiling. You think it's that easy to replicate my moves, huh?
+
+She immediately dismissed her fleeting amusement, refocusing on the fight. Truthfully, she loved fighting mutants. They were strong, rapidly evolving threats that were always unpredictable. It was thrilling for her seeing the boss shift and grow in response to her actions, even if the end result didn’t always fully measure up.
+
+The Cyclops attempted a wide swing, mimicking Celica’s own slash. It tried to use the same footwork she had perfected for dodging and closing the distance, but its timing was still too slow.
+
+She took advantage of this, closing the gap with swift, calculated steps, launching a series of quick slashes and thrusts to wear it down. The monster's attacks were clumsy by comparison, its huge club now failing to land more frequently as Celica deftly sidestepped and countered.
+
+She could feel the power behind the Cyclops' attacks, but she wasn't worried. The beast was strong, yes, but she was faster and more precise. She danced around the Cyclops’ strikes, her broken sword weaving through the air fearlessly.
+
+The Cyclops, as predicted, wasn’t capable of keeping up with her. Though it tried to adapt, its movements were too slow, its attacks too predictable. With each of its swings, it left itself open to her counters. The longer the fight went on, the more Celica's confidence grew. Every successful strike, every time the Cyclops mirrored her but failed to follow through, only pushed her further into a state of focused exhilaration.
+
+The beast’s health bar was steadily ticking down, now hovering around twelve percent. She could feel the shift in the Cyclops' movements, less frantic, more resigned. As it attempted another wide swing, she stepped in close, her sword flashing in a rapid arc. Her thrust struck its weak point and the Cyclops staggered, its massive frame trembling as if unsure how to fight back.
+
+And that was it.
+
+With a final flourish, Celica took the opening she had created. She delivered a brutal, well-timed slash directly to its chest. The blow cleaved deep, and with a loud, agonizing roar, the Cyclops collapsed.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+The once imposing creature, a fearsome opponent that had dominated Kellen and the others, finally fell. The beast’s massive body crumpled to the ground, its health bar drained to zero, and it let out one last groan as the system announcement rang out.
+
+[SYSTEM ANNOUNCEMENT]
+
+Snapped Sword has defeated the Cyclops. They are the first player to defeat the boss in your Area!
+
+Snapped Sword has defeated the Cyclops. They are the first player to defeat the boss in your Zone!
+
+Snapped Sword has defeated the Cyclops. They are the first player to defeat the boss in the World!
+
+Celica exhaled slowly, the thrill of the battle still coursing through her veins. Her heart raced from the intensity of the fight, but she couldn’t afford to let her guard down yet. Not with Kellen and the others still watching.
+
+She stood above the fallen beast, smiling at all the changes to her status.
+
+[STATUS]   Celica Travine Crystalis  <Slime Nightmare>  Level 27 Human (Supporter)  EXP: 31% towards the next level STR: 87 | AGI: 53 | VIT: 5  DEX: 5 | END: 5
+
+"Two levels? Not bad." Considering the mutant was only level seventeen, it was a lot of exp. However, it made sense since the boss was originally meant to be dealt with by five people. Not only that, the system has always heavily rewarded players for beating mutants due to how deadly they are.
+
+For now, Celica had decided to heavily invest into her strength stat since the later stats would only shine further into the game. For now, she didn't have to allocate any points towards them. Dexterity would only be useful when the game introduced magic, trickier weapons and weapon mastery. Vitality and Endurance were stats that only really shined when players had evolved into a higher race. So she didn't have to worry about those for now.
+
+Next, she opened her skills page, which had been flooded with notifications for a while now.
+
+[Skills]
+
+Common:
+
+Parry level 10 → 20 (Max)
+
+Slash level 14 → 20 (Max)
+
+Thrust level 14 → 20 (Max)
+
+Foundational Supporter Skills:
+
+Cleanse Aura level 1 — Remove all applied debuffs on a single target.
+
+Basic Strength Buff level 2 → 10
+
+Basic Agility Buff level 2 → 10
+
+Basic Vitality Buff level 2 → 10
+
+Basic Dexterity Buff level 2 → 10
+
+Basic Endurance Buff level 2 → 10
+
+Basic Buffs Progression:
+
+All foundational skills must be levelled to 50 before the beginner supporter skills can be unlocked.
+
+"This level of growth is... insane." Celica mumbled to herself, in shock. After opening her skills list, she finally understood why she had received so many notifications earlier. All her skills (except the one she hadn't used) had grown tremendously. Even for fighting a mutant, that many rank ups was otherworldly.
+
+Was it really just because she solo'd it? Or did the supporter class have a hidden passive related to skill growth that she wasn't aware of? She wasn't sure. She opened her inventory, eager to see the spoils of her victory.
+
+Inventory
+
+Keystone of the Cyclops (Rare) A mysterious item obtained from the heart of the Cyclops. This keystone is etched with ancient runes and radiates a faint, otherworldly glow. It is said to hold the key to unlocking powerful, hidden locations within the Marshlands but its true purpose remains unclear.
+
+Marshlite Ore (Rare) A sturdy ore harvested from the Cyclops' club. This ore has an iridescent sheen, shifting colours from deep green to a faint blue, reminiscent of the marshland’s foggy waters. It’s said to carry the strength of the Cyclops within it, making gear forged from Marshlite ore incredibly durable and powerful.
+
+A keystone... that's new. If I'm right it's probably related to... her mind drifted to the strange map icon she saw earlier. Guess I'll have to visit that place sooner rather than later, who knows what I could be missing?
+
+She smiled seeing the Marshlite ore. With her new blacksmithing profession she could take full advantage of it to make the best armour set and weapons possible at this stage. Next, she saw a unique title she hadn't expected.
+
+Champion of the Marsh.
+
+It had a nice ring to it, and when she checked the description, she saw that it granted +100 reputation across all of Earthonia. She raised an eyebrow as she equipped the title, mildly impressed. Reputation was a valuable asset in this game, especially when it came to unlocking unique quests, NPC interactions, and even certain locations. That alone made all the effort worth it.
+
+Just as she was about to close her inventory, a voice broke through her thoughts.
+
+"Mr. Snapped Sword?"
+
+Celica froze, her eyes widening as she turned. Talia was standing there, a few steps away, her cheeks flushed, clearly flustered. Talia’s gaze darted from her broken sword to Celica’s masked face, then back again, clearly struggling with something she couldn't quite say.
+
+Celica’s stomach dropped. She hadn’t used the Phantom’s Mask or the Phantom’s Blade before, so she wasn't sure how convincing her disguise was. Did her voice sound the same? Would they figure it out?
+
+Oh no.

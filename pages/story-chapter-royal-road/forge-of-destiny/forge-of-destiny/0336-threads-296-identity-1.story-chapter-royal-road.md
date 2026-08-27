@@ -1,0 +1,171 @@
+---
+id: c1fc1eb5-98ac-5d3b-8fd7-cc950c977fdd
+page-type-slug: story-chapter-royal-road
+title: "Threads 296-Identity 1"
+slug: 0336-threads-296-identity-1
+partOf: forge-of-destiny
+position: 336
+ownLength: 2074
+unit: words
+publishedAt: 2023-04-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1165330/threads-296-identity-1"
+royalRoadId: "1165330"
+---
+
+Ling Qi crouched by the overgrown pond that sat among the ruins of the old temple, looking down into the murky waters.
+
+The old stones were swept and cleaned. The broken structure had been grown anew from Zhengui’s roots. A new mirror of polished silver was placed inside in a case of polished wood, anointed with the proper oils. The faint scent of incense drifted out to her.
+
+Here was the place where she had first truly entered the Dream, though she’d not understood it then, guided by the chosen faces of the Moon’s spirits. She didn’t need this place to cross over now, but it seemed respectful to clean it up, as she prepared for the next step in her life. Her time in the Sect, of shelter from the wider world, was over.
+
+Ling Qi dipped a finger into the murky pool and whistled softly. A cold breeze blew, and silt and muck fled from her touch, leaving the water cool and clear, and the seeds of the lilies she had planted were strengthened against cold and death.
+
+“An interesting choice.”
+
+Ling Qi gave no reaction as she stood up and turned to face Shu Yue, who loomed over her in the shadow of the scraggly cherry blossom tree that clung to the thin soil up here on the high cliffside.
+
+“Hey, Ling Qi! Got done clearing the last of the spook outta the air. Will get some—” Sixiang’s voice echoed on the wind, a playful gust that ruffled her hair and tugged at her gown, only to die down, whirling around her protectively. “... Well, I guess I got most of the spook.”
+
+“By proportion, you have removed very little,” Shu Yue said mildly.
+
+“Rude,” Sixiang grumbled, a puff of wind gusting behind Ling Qi as her muse settled back in her head.
+
+“I didn’t expect you to respond so promptly, Shu Yue.” Ling Qi bowed her head. She had sent a message earlier today that she would have some brief freedom.
+
+“While my charges are under such an aegis as this, my time is more free,” Shu Yue said, nodding to the cloudy sky.
+
+Ling Qi lowered her head in acknowledgement. “Your timing is impeccable then because I have just finished my task here.”
+
+“Yes. Why this, if I may ask?” Shu Yue scanned the small cliffside temple. “Worship or repayment of patronage?”
+
+Ling Qi turned to look at the restored shrine. Raising the new structure with Zhengui, the simple mortal effort of painting and decoration, and the planting of flowers and trees was cultivation, too, in its own way. As a human who spoke to and translated the will of greater beings, she was, by most measures, a priestess.
+
+But if there was anything she had learned from studying the old ways, it was that there was little difference between a small god and a big human. It was a gradient, rather than a hard division. “It’s appropriate to leave something new here.”
+
+“Will you arrange any care for it?”
+
+“No.”
+
+“No?”
+
+“Others will find it. What they do with it is up to them. So, too, are the consequences.” This place belonged to the Moon. What the moon did with it or with those who might come with good intention or ill was up to it.
+
+“Interesting. Do you object to beginning the lesson then?”
+
+“What is this technique of yours anyway?” Sixiang asked on the wind.
+
+“It is a method for understanding other beings, a tool with which one may come to know others,” Shu Yue answered.
+
+“You made it sound pretty scary, like learning it was dangerous,” Sixiang commented.
+
+“Sixiang,” Ling Qi chided.
+
+“I did.” Shu Yue raised a long, long finger to tap on their chin. “Perhaps a demonstration is in order.”
+
+“That would be appreciated,” Ling Qi said warily.
+
+“Not on you, student. That would be inappropriate.”
+
+Ling Qi bowed her head. Shu Yue panned their gaze around, eyes alighting on something further up the cliff. Ling Qi followed their gaze and saw there a nesting bird, a second realm beast by her measure.
+
+“Yes, a demonstration.” Shu Yue cupped their chin. “I will perform this slowly and without subtlety so that you might comprehend it properly, my student.”
+
+Ling Qi felt the hairs on the back of her neck rise.
+
+Shu Yue grasped their chin and pulled down. There was an awful sucking, ripping sound like tearing flesh as their pale face came away from their head, left connected solely by gristly strands of darkness. At this angle, turned away from her, Ling Qi could not see what lay behind their face.
+
+She heard the sobs and laughter of children, so blended that she couldn’t tell one from the other.
+
+The eagle startled in its nest, wings spreading, and inky strings of darkness shot out from whatever lay behind Shu Yue’s face, and their whole body melted into those strings, even as they plunged into the eagle's eyes and flowed behind them into the beast’s sockets.
+
+Shu Yue was gone.
+
+The eagle let out a confused cry, fluffed its spread wings, and then settled back down into the nest.
+
+Ling Qi stared.
+
+“Interesting. I have not been a beast for some time.”
+
+This time, she did startle.
+
+“Hells, do you have to do that?” Sixiang complained.
+
+Ling Qi turned around, and Shu Yue once again stood behind her. Their face was back in its place.
+
+“Yes.”
+
+Ling Qi wasn't sure if that was supposed to be a joke.
+
+“Hunting in these months has been bad. The storms scare the smaller prey, but the richness of the qi allows subsistence regardless. My mate has been gone since morning. I feel some concern. My eggs are healthy. I have clashed recently with the condor of the higher peaks, and twice in this month, I have detected egg eaters and cuckoos which have sought to violate my nest,” Shu Yue said, their voice toneless. “I most prefer the warm and succulent flesh of the white-flame rabbit. I feel frightened on the nights of the grinning crescent when the winds turn sharp. I fear for my brother, who bound himself to a human, and has become distant. I—”
+
+“Stop, please,” Ling Qi said. “I think I understand.”
+
+“You cannot learn this technique as it is,” Shu Yue continued, not missing a beat. “You did not cultivate your darkness so deeply as I have. Your face is your own, and you bear the name of your birth. You, Ling Qi, are. You cannot become another.”
+
+Ling Qi swallowed. “Do you keep the memories forever?”
+
+“They are consumed and cultivated. Only my Law remains always.” Shu Yue reached up to tap their chin. “That is why my master made me a face, that I might have Shu Yue there and not forget.”
+
+“And you control the target?” Ling Qi asked, disturbed.
+
+“Do you control yourself?” Shu Yue tilted their head. “I understand what is behind your words. This is a method of knowing, not domination. But student, tell me what you observed in my demonstration.”
+
+Ling Qi breathed out through her nose, trying to order her feelings. In truth, while the sight and sound of it had been disturbing, she couldn’t be so easily unsettled. No, what had left her feeling cold was the sensation of qi.
+
+What she had felt could only be compared to a person dying. She had felt Shu Yue’s aura flicker out and disappear, as if ceasing to be entirely. It felt like she had just watched someone commit suicide.
+
+<It was just as freaky on my end,> Sixiang whispered.
+
+“I… felt you suppress yourself,” Ling Qi tried. “Felt you connect to the beast and then… sever something, and then, there was only the beast.”
+
+“Not incorrect.” Shu Yue brought their fingers together in front of their narrow chest. “Look past your initial revulsion. Feel what was done.”
+
+Ling Qi grimaced, glancing up at the eagle on the cliff, unbothered and unaware of what had happened. She closed her eyes and reviewed her memory, pushing past the visceral revulsion.
+
+What Shu Yue had done wasn’t so different from what she did when she vanished, hid in a shadow, or dispersed her physical body. It was more complete and refined and terrifyingly absent of even a tenuous safety of binding between the elder cultivator’s scattered motes of being, but she could see the method to it. Maybe.
+
+<You are never actually doing that,> Sixiang ordered flatly.
+
+“You scatter and disperse so widely and completely that it feels like destruction. I couldn’t sense what you did after. Have you ever done that to me?”
+
+“No, but I have no method of giving you assurances.” Shu Yue shrugged. “What is done after the scattering is simple. Living souls reach out. The darkness of our own mind is a torturous thing, and so even the most closed-off mind sees and hears and feels. We are malleable beings up until the end. And so I become, and in becoming, I know.”
+
+“You were being literal when you said that you are seeing from what is behind another's eyes,” Ling Qi breathed.
+
+“It is useful to cultivate a blurry line between which of your words is metaphor and which is not.” Shu Yue’s empty black eyes crinkling into good humored slits. “This is the most invasive form. Among my techniques are methods of knowing more shallowly, whether out of politeness or fear of notice.”
+
+“So it can be noticed then?” Ling Qi asked, if only to solve the tiny part of her that wanted to scream at the idea of such a technique existing.
+
+Shu Yue paused. “It is possible. Be aware, this method cannot be easily achieved. It is only my master’s artifice which makes me human enough to exist within this role. If I were to name a method effective for detecting one such as I, you already practice it, though the difference in our power is too great.”
+
+She furrowed her brow in consternation.
+
+<It’s me, you dummy,> Sixiang thought. <We’re bound so closely and share too much. I think I could stop someone at our level that tried a technique like that. This space is at capacity. I don’t want or need any more roommates in here.>
+
+Oh, that was what Shu Yue meant.
+
+“But we stray. My purpose here is to aid you in finding a method by which you might come to Know others. I do this by becoming. What method do you believe might allow you to perform a similar feat?”
+
+Ling Qi mulled that over. “I thought this lesson would be more about thinking than spying.”
+
+“To cultivate this method, to effectively Know, you must make your mind one which can understand what you perceive. Otherwise, the information gained will be twisted too much by your own perspective. The efficacy of this method is much less.”
+
+Ling Qi crossed her arms, tucking her hands under her armpits. In truth, she still felt clammy from the demonstration, but she thought she understood. How would she achieve knowledge like that? What is it she would do?
+
+The first method to come to mind, of course, was that she would steal it. But to steal implied that she would deprive someone of the target of her theft. She didn’t want to do that with a person’s innermost secrets and perspective. Or, at least, she didn’t want to do that to most people.
+
+Thief of Names. Thief of Hearts
+
+Ling Qi shivered despite herself. Were there more similarities there?
+
+But there was a truth she had found in her meditations on the dreaming moon. Unless one went out their way to do so, stealing knowledge did not deprive one of, or destroy the original. There was something there she could work with.
+
+Knowing by theft.
+
+But was that the best way? She had in some ways come to terms with her urge to seek and take and to trick and fool. There were outlets where it was not only acceptable, but the right thing to do.
+
+<I can tell what you’re thinking. It seems real unfriendly, but the art you're thinking of transforming is your seeking, spying art, your moon’s eyes. Your art can’t be everything Shu Yue's is to them,> Sixiang murmured.
+
+“So I ask you, what is it that drives you to Know?” Shu Yue asked, regarding her with some interest.
+
+Ling Qi pondered.

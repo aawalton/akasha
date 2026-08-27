@@ -1,0 +1,181 @@
+---
+id: 6dc35f7f-e0a0-5ab5-85d1-3199255711b3
+page-type-slug: story-chapter-royal-road
+title: "Threads 511-Ith 5"
+slug: 0560-threads-511-ith-5
+partOf: forge-of-destiny
+position: 560
+ownLength: 2874
+unit: words
+publishedAt: 2026-04-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3224964/threads-511-ith-5"
+royalRoadId: "3224964"
+---
+
+Lin Mei, Minister Tang’s assistant, straightened up.
+
+Tcho-Ri let out a short, sharp yip, but then caught herself and nodded.
+
+They ascended the narrow staircase, which ran around the circular chamber. It wound around and around, rising up the narrow tower. They passed several floors, increasingly organic, where small numbers of ith were arrayed in a position that seemed prayerful, hands clasped over their heads, bellies down to the floor.
+
+These ith were all aged and withered, their bristles white and crumbling, their features sunken, and their breathing labored. They lacked any of the piercing that the other ith had. Despite the heat and atmosphere, they radiated calm and serenity, peaceful sleepers all. The impurity in the air was thick enough to make her eyes water, even with the protection from her mask. Qiyi rustled in agitation.
+
+They arrived at the top of the stairs.
+
+The air thrummed with vibration and was thick with humid heat. Veins containing brackish black fluid pulsed in the walls. The small room was centered on a singular feature: a rising ridge of flesh growing out of one wall.
+
+It was composed of the fused bodies of ith in varying states. Those nearest the bottom were the most distinct, their outlines fully visible, arms outstretched upward, clasped onto the melting limbs of those above. All tangled together and curled in on each other, silhouettes faded as they rose higher in the mass, becoming fuzzy outlines and then indistinct lumps until at last, they were indistinguishable from the flesh which lined the inside of the tower.
+
+“This is the third mind, the third heart of Ha, who oversees this city. As you can feel, they are near empty now in the off-season. The incarnate assembly is scattered, performing their tasks across fields and mines."
+
+Ling Qi swallowed down the nausea in her stomach that the impurity and the sight stirred and suppressed the revulsion that arose. There was something of a spirit here, but it was hollow, like an empty water vessel, with only a whisper of thought spiraling and sparking through the conduits.
+
+"This entity is your leader?" Minister Tang raised an eyebrow. He looked unperturbed. "A gestalt spirit, fed the memories of your passing elders and ancestors in order to give guidance?"
+
+"To give oneself to the Mind directly as their body grows feeble is a high honor for those whose deeds have brought prosperity to Ha. Tcho-Ri hopes to be among them one day, when her heart fails and her self dies. The Minister Tang's assertion is not fully correct. The dead cannot and should not command the living. It is only with the incarnate assembly that the Minds may be awake. Out of session, only the simple dreams of the people and deposited wisdom of the past are here."
+
+Minister Tang’s eyebrows drew together in perplexity, and he turned to Zhu Fan. Zhu Fan's brows were furrowed as well.
+
+"There are methods of communion between some dozens of cultivators. These Minds are not so different in practice than war formations, wherein an officer empowers their formation while being empowered in turn,” Zhu Fan theorized. “The bleed of spirits and the breakdown of identity, particularly with mere mortals or their equivalents, suggests a scale that is absurd."
+
+"The Mind is singing," Ling Qi said. "I can hear the voices of the ones below, too. Those are still alive?"
+
+Tcho-Ri tilted her head, growling low in her throat. She was surprised that Ling Qi could… What, discern the underlying harmony?
+
+"Those below are in their final days of self-hood," Tcho-Ri revealed. "Honored Guests, this one can offer you witness to the Incarnate Assembly when its next session takes place. Please understand that I am not attempting to deceive when I describe the current matter. Tcho-Ri and her peer voices are those who are able to speak and choose in the interim, and we are chosen anew at each assembly."
+
+Ling Qi considered what she had seen and heard thus far, and a notion came to her. "It is as if the ministries rule here in the day-to-day."
+
+The ith considered this: "Perhaps? My knowledge is limited. Is a ministry a department of experts on a single subject empowered by the god to make decisions within the remit of their expertise?"
+
+"We will need a long discussion on the matter, but there is some merit to the comparison," Minister Tang acknowledged grudgingly. "However, right now, there is the matter of the other city and its demands. This is the matter that needs to be spoken of immediately.
+
+"Tcho-Ri will access the sleeping wisdom of the Mind for this, if her own knowledge is deemed insufficient as promised. It is difficult to make words from this, with only one Voice in communion," the ith warned, bowing low.
+
+She braced herself for pain, like a cultivator preparing for a tribulation. It wasn't only a matter of difficulty.
+
+"Then the Baroness' skill will be useful, if the emanations of this spirit defy traditional translation," Zhu Fan said mildly. "I sense our time for questioning shall be limited."
+
+"One voice alone may only endure so much of the Voice of God," Tcho-Ri agreed.
+
+"I would say for you to work your will, Minister Zhu, but your qi is too pure,” Minister Tang concluded. “It would damage this structure."
+
+"Like a sovereign's qi injected into a mortal's meridians, at my judgement," Minister Tang's assistant said. "The network appears remarkably fragile at this location."
+
+Tcho-Ri's breathing hitched.
+
+"I will not demand this. Baroness, you say you hear this Mind’s singing?"
+
+"I do. It is very subtle, little different from the harmony audible from the city itself."
+
+"I believe we may make several inferences on their intentions, merely with the knowledge we have gained here," Zhu Fan said. "However, we must begin with the intentionality and methods behind this most recent attack and the message that followed."
+
+"None of the mortals apprehended for their participation could be interrogated, even with the Baroness' lead. Studying the residue left behind when they expired has been useful for improving the detection capabilities of security, though," Minister Tang said.
+
+"And Tcho Ri may have answers for this, without needing deep communion. This Mind node, and her specialty, is foreign affairs and… intelligence?"
+
+The last word was a few sharp yips in rapid succession, spoken with hesitation. The more direct translation might be ”self and other knowing.”
+
+"I believe you have used the right word, if you mean diplomacy and spycraft," Ling Qi suggested.
+
+Tcho-Ri nodded after a pause. "This is the correct meaning."
+
+"Then access your archive, and answer the question," Minister Tang demanded.
+
+Tcho-Ri's ears twitched, her teeth grinding slightly. Ling Qi would have taken it for frustration or anger, but it seemed more like agitated nerves. The ith loped forward and took in a panting breath as she laid out her palms against the smooth, faintly pulsing surface of the ridge across what seemed like the back of one of the ith that was lowest in the fused mass.
+
+Her fingers sank inward like soft clay, and thin filaments of flesh rose from the surface to plunge into Tcho-Ri's hands. Their guide stiffened, like she was being shocked, and Ling Qi could feel a strange surge in the previously quiescent harmony of the Mind, like a slow-flowing brook suddenly overflowing its banks in a thunderstorm.
+
+"Honored Guests. Please ask. Questions. Of. Clear and. Limited. Scope."
+
+Tcho Ri spoke haltingly, and Ling Qi understood immediately, remembering how Snowblossom Lake had innocently tried to stuff her head with thousands of years of climate data for a simple question. "Questions with too much room for tangents will cause overload."
+
+Minister Tang glanced at her. "Like that, then. This assembly distributes the load."
+
+He did not phrase it as a question.
+
+"I believe it is more complicated than that, but yes, best to treat this like a spirit oracle," Zhu Fan advised. "What method was used to ensorcel the mortals whose details our missive provided?
+
+The smooth skin that grew over Tcho-Ri's vestigial eye sockets squirmed as the veins beneath the flesh bulged like living worms.
+
+"Minds out of consensus, watch, seek, subvert. Voices howl against God. Always, always, always some voices." The words that flowed from Tcho Ri's mouth were strangely slurred even through the translation. There were reverberations as if many voices were speaking, which came through her translating talisman as a static buzz. "Shaping. Shaping fields to prepare for war. Method cost… Bribe? Swaggering through new consensus. A drip in wealth, petty vengeance, pack against pack. Crumble, break the foundation, a god falls—Evidence… No matches. Dancing fumes show sacrifice. Sacrifice offered? Sacrifice… paid…?"
+
+Ling Qi grimaced, tilting her head to the side. "They were offered cultivation resources?"
+
+Zhu Fan showed a small perturbation. "It seemed more like a wasting curse, from the examination report."
+
+"They died soon enough. The worms within went wild under interrogation," Minister Tang said. "So, lies of power, sold to malcontents. That does match the methodology of the previous spate of attacks. The earlier attacks were targeted at low cultivators, though."
+
+They spoke among themselves, voices pitched down, to ensure there would be no accidental questions. Tcho-Ri gave no complaint and looked to be bracing herself, from Ling Qi's observation.
+
+"I knew my impressions showed they were not under any control, but it seems I did miss that there were dead switches in the spreaders." Ling Qi grimaced. "So, not a technique at all, but only bribes?"
+
+"For mortals? It is unheard of. A mortal cannot trigger anything of power or complexity, and disease spirits of such potency should not be able to be contained by a formation simple enough for a mortal to activate."
+
+Only under the imperial structure though. The ith used devices to a much higher degree than the empire did.
+
+Ling Qi proposed, "There is the possibility that ith cultivation functions to some degree for mortals, whose bodies are yet impure enough that its toxins may not immediately ruin them."
+
+"Tcho-Ri,” Zhu Fan asked, “is it known to the Minds whether ith implantation functions upon mortal humans?"
+
+The ith twitched, tongue loling from her mouth briefly. "... Functions. Heat burns, so. Swift."
+
+She remembered her impression of the man who had delivered the plague that wrought the senses of small spirits. He had been running hot, hadn’t he? Ith cultivation shortened their lifespans with higher cultivators running out more swiftly, though she suspected something more complex was going on with their sovereigns.
+
+"Selling children on a short-lived rush of power. Disgusting," Minister Tang scoffed, voice dripping with contempt. “And not even a relevant one. None showed capabilities beyond the norm. This appears to confirm previous historical contact, though."
+
+"Perhaps it was a matter of skill rather than power being sold, and so, it was imagined they could be missed as mortals still. I have been informed that the ith method involves the granting of skills and knowledge through their materials, which the body must traumatically adjust to."
+
+"No better, but more subtle. It would have been difficult to notice the differences if the Baroness had not picked out these individuals. It is a dangerous tactic. Screening mortals deeply is often destructive, so it is rarely done."
+
+"Difficult to deal with,” Zhu Fan agreed. “Better to find the infiltration points and the agents."
+
+"Many have already been identified, or at least their trails tracked," Minister Tang's assistant advised.
+
+"Better to observe for further use I had thought. One catches smugglers best with open tunnels." Then, to the ith, Minister Tang requested, "Voice Tcho-Ri, I would know all points of connection with the surface known to the Mind of Ha and all routes which stretch from your cities to theirs."
+
+"It will be so. Retrieving information," Tcho-Ri whispered, jaw clenched. "Supplement with physical records acceptable?"
+
+"Well enough."
+
+The influx of spiritual energies representing raw knowledge slowed greatly.
+
+"Before we retrieve such, there is a greater matter. Your fellow city sent us a message after the attack," Minister Tang began.
+
+"Tyrants of the bright lands, we give you our warning. You have seen the feebleness of your foundation and the reach of Ya's sword. From your high palace to your wildest corners, naught is beyond our reach. We offer the hand of mercy on behalf of our friends, those who ride the skies. You will forswear conflict with the people of the clouds and the people of the dark for a time no less than one hundred years, withdraw from their claimed lands, and offer apology and reparation in amounts to be discussed by Ya and Cai. You will destroy the unnatural formations known as 'Argent Vents.' You will release the suffering people of Ha to our protection. For this, you will know peace, and Ya will know peace, and the Cloud will know peace, as mediated by Ya. Refusal to speak and establish a day of divine negotiation will bring about discord and ruin among the people of Cai."
+
+He spoke, reciting what Ling Qi suspected was the actual language of the message rather than the summary Diao Hualing had given her. She understood the woman's anger now. That message was dismissive and high-handed. It was the sort of message one might send to an enemy whose army had just been crushed by your own.
+
+"We see this message as a terrible insult and an invitation to show our strength, such that any errors about it might be corrected. How does the Mind of another ith see this message?" Minister Tang asked, folding his arms behind his back.
+
+Tcho-Ri's somewhat labored breathing answered him, the veins embedded in her hands writhing. This, Ling Qi felt, was not the potential surging tide, threatening to drown the ith as the demand for locations was. This was a thousand voices and perspectives and thoughts clashing. She could almost hear the cacophony of whispers herself, frizzing in and out of audibility.
+
+"S-show strength. Flagging consensus or assurance victory is near." Tcho-ri's fingers spasmed, producing an awful fleshy squelch. "Showing the path to ruin… War is foul, war is ruin, its greatest excesses avoided. Show where the knife strikes, and the body will recoil from the blow. Words spoken… to body in turmoil, whose organs are turned against the self. Low demands… Negotiation expected."
+
+Those were low demands? Ling Qi wondered incredulously. Even if the Ya had expected some demands to be bargained away in negotiation, the Celestial Empire didn't work that way. It just didn't see war that way.
+
+She had been able to negotiate with the White Sky because their interests didn't really infringe on each other, and nothing she had offered them was considered a loss for the empire. Future spoils and gains being divided was one thing, but giving up already inhabited land and formally acknowledging that they had not only been beaten, but were in the wrong, for what they saw as unprovoked attacks in the case of the ith, or simply rightful retaliation to raiding with the cloud?
+
+It was a terrible misunderstanding of their position. Worse, it expected the Duchess Cai to fail to retaliate for harm visited on her citizens, the people she had risen against the Hui for. And the harm had come to mortals, at that, the mortals whose pain in turn brought pain to her wife, Diao Linqin, Sovereign of Empathy.
+
+If you discarded all of those considerations and looked at it from the most cynical view possible,  it was still a stretch. It only made sense if one considered the whole of the empire to be a tottering heap of self-interested nobles only interested in their own games, without any real community or belief between them.
+
+She knew one voice like that. How many among those the Ya had connected to had similar beliefs? Their methods would be predisposed to find such people.
+
+"Our slow movement has been mistaken, it seems," Zhu Fan said. "It is not easy to organize a full provincial muster, even now. Longer still to do so while ensuring there are few gaps against an enemy of such strategic mobility. It is the young men who chase swiftly after clouds."
+
+"And shadows," Minister Tang said sourly. "How likely is it that we are being goaded?"
+
+"Tcho-Ri cannot say. These words do not insult the ith. No whisperings of rage do I hear. The Mind cannot know this."
+
+"Good enough. Cease. I can observe the strain on what passes for your meridians," Minister Tang said.
+
+Tcho-Ri withdrew her hands. Fleshy strands stretched before detaching from her skin, sinking back into the mass of the Mind. "Honored Guests, your temperance is appreciated."
+
+It was only half facetious. Tcho-Ri had expected them to demand deeper communion and to have to hurt herself more. And she would have done it, Ling Qi thought. Tcho-Ri loved her city deeply.
+
+She wondered how many of the ith who followed Ya would be the same. The organization implied and described, demanded that.
+
+"Now that this is past, show us to where your government's physical records are."
+
+Some concepts could not be communicated with words alone. Ling Qi  only hoped the message could be delivered in clear and concise terms.

@@ -1,0 +1,149 @@
+---
+id: adc2e166-f7bc-5300-89f2-88f0f2188afc
+page-type-slug: story-chapter-royal-road
+title: "Threads 517-Borders 1"
+slug: 0566-threads-517-borders-1
+partOf: forge-of-destiny
+position: 566
+ownLength: 2392
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3327398/threads-517-borders-1"
+royalRoadId: "3327398"
+---
+
+"You are refreshed," Cai Renxiang said to her as the office door clicked shut.
+
+"So are you," Ling Qi replied.
+
+Framed in the light of her window, adding to its radiance herself, her liege cast a long shadow over the clean desk and polished floor. The walls were tightly packed with shelves, and the scent of newly bound books lingered in the air. One entire wall went to those legal volumes she'd picked up in the capital, now ordered perfectly on the shelves.
+
+"There is a comfort in being in one's own space, but it is not something to wallow in," Cai Renxiang asserted, hands upon the desk.
+
+"A moment's contentment isn't wallowing. You wished to see me before I went to Meng Duyi?"
+
+"Yes. I will leave the discussion of the projects he took up in our absence to your lesson. The details will be better heard from him, but suffice to say, he does not feel as if he can offer further improvements to our mining infrastructure until our projects are significantly more advanced." Renxiang gestured for her to sit if she wished.
+
+Ling Qi slid into a seat, cupping her chin. "So you wanted to talk about what we should request of him next? Before, he offered to look over our agricultural efforts. Maybe he can be of use there. I know you have been eyeing plans for a central mill soon."
+
+"I have considered it, but I have considered, too, that his involvement in the city center may be a greater boon, while the immediate projects are all underway. I am certain that there are small efficiencies a master of the style we have chosen could give us, along with advice on how not to disrupt it as we transition away from the style with the development of the cliffside."
+
+Ling Qi hummed, rolling Renxiang's words over in her mind.
+
+***
+
+"Hm. The center, is it?"
+
+"Please, Sir Meng. We wish to be sure all of our alignments are as correct as possible before the construction advances any further."
+
+"Your experts are not amateurs, but I will do this and see if there are any matters being overlooked," Meng Duyi accepted. "This is reason enough as any to provide my wisdom to the heiress as well. Her interests in the subject are narrower, and will align well with this project."
+
+They were once again out and walking, as Meng Duyi seemed to prefer when giving lessons. They had climbed the cliffside and were walking along the river as it thundered through its twisting, stony course that terminated at the waterfall which fed Lake Snowblossom. The air was chill and sharp, flakes of white and shards of ice blowing on the wind. A snap storm, it did not look as if it would be burying the town under a blanket of white just yet; warmth lingered for a relatively long time this year.
+
+Ling Qi wondered if she had anything to do with that, or rather, her and her colleague’s actions had drawn the focus of the empire's Celestial Court on the south and the gods of the Polar Nation, wihch may have, in turn, influenced the weather. She'd have to ask a proper priest.
+
+Looking out over the river, she listened to the grind as two ice floes were forced into a narrow bend in the rocks, water spraying out as ice trembled, compacted, and cracked. The dull roar was the pressure of the water forcing the boulder-sized chunks out, and the spray over the rapidly churning waters and the shore was like thunder.
+
+"Do you disapprove?"
+
+"I do not, though I do think it belies the priorities of those who reside in the center of settlement," Meng Duyi said thoughtfully, ascending the steep, gravelly hill dusted with frost and ice ahead of her.
+
+She picked her way up after, consciously keeping herself to a human range of movement, even when it would have been easier to skip past the unstable gravel instead of balancing atop the hundreds of pebbles and grains of rock dust without disturbing them. It was what her teacher was doing after all, rather than actively stabilizing the earth under his feet.
+
+"In truth, your people are well fed, and your lady has stockpiled enough to see them through even the worst of harvest failures. Your abundance is somewhat reliant on outside supply, but then, you all are not entertaining the theatrics of self-reliance. Shenglu is but a piece of the Emerald Seas; it is 'inside' to you, despite being at the farthest flung point. Usually, this pattern of settlement holds only in the center, with a push from an established clan to establish a satellite at some new point of interest in their land."
+
+"There is nothing new to your eyes," Ling Qi realized.
+
+"There are many new things, but not this. You are not scrabbling for survival from the earth. That is neither virtue nor vice; it merely is."
+
+She reached the top of the hill and followed the elder geomancer as they walked along the riverside. Water rushed in rapid whorls through a small chasm of icy rock.
+
+"We spoke last of borders, of the divides between objects, people, and places. Have you had any further thoughts on this since we last spoke?" The butt of Meng Duyi’s staff flicked, catching a stone and sending it spinning wildly out over the gorge. It pinged from the rock face to then skip off the churning waters twice before skimming off an iceflow and falling into the water.
+
+"It was not the focus of my thoughts. In my cultivation, I was seeking a better understanding of want and desire, and the various ways people are driven to what they do. However, there are a few thoughts I have had."
+
+Ling Qi continued, "No border is immutable. Even when it comes to self and other, people can allow this border to bleed through. A treasured possession, a child, an idea, or a place, these can all bleed into a person's concept of themselves.”
+
+They reached a part of the path where the riverbed narrowed. A fallen pine lay across it, splintered from lightning, speckled with frost. It groaned subtly, dead and dying bark slowly splintering as weight and pressure bore down on it.
+
+"How long?" Meng Duyi asked.
+
+"Two days, give or take a few hours?"
+
+"Mm, not long then."
+
+"Was it a false dichotomy, asking me about whether I should study borders or doors?" Ling Qi asked. "Thinking back to that conversation, you kept chiding me about trying to put clear labels on concepts."
+
+"I did so to make you think harder on those labels, not to deny their existence entirely. The world is messy, imprecise in its definitions. What men see is much less so."
+
+"Both are important, though."
+
+They resumed walking. Behind them, the fallen tree lay, its fate already certain.
+
+"They are. Both are vital to understanding how the world moves To talk of crossing borders, one must think of passage through it, which brings to mind a door. However, let me ask this: What is a door?"
+
+Ling Qi frowned at the seemingly obvious question and restrained the equally obvious answer. "It is an entrance, the way in which one chooses to let people in or out, closing or opening one space to another."
+
+"Is passage a choice then? Do people think to open themselves this way?"
+
+"It gets into the definitions of what 'choice' is. But it is not a thinking, conscious choice. Mostly."
+
+"A different example then. You are in the wilderness and construct a hut of grass to keep you dry from the rain. You weave a door of sticks that you might go in and out. It rains, and your walls are poorly woven; your hut is wet. Did you let the rain in?"
+
+"The permeability of a barrier is different than an explicitly designed entrance?" Ling Qi wondered.
+
+"When one is discussing the notion of borders, the properties of what passage it allows cannot be ignored any more than the properties of that which it denies. A wall is different from the line between two fiefs, which is different from a river dividing the land. It is also different from what level of relation one defines as family versus clan.”
+
+"That is not a distinction I hear many others make."
+
+"It is a distinction many make, but not in the terms you have defined." Meng Duyi gestured for her to approach, standing on a jutting spur of rock that stuck out over the wrathful waters below. "Consider the river. You would agree that the river is not the cliffside, that there is a border there between earth and water?"
+
+"I would," Ling Qi said slowly, pondering where he was going with this metaphor.
+
+He did not immediately reply, and so, she examined the churning waters below. A crag of ice spun lazily down the river and was pushed to grind against the side. It carried away flecks of dirt and stone caught in the ice.
+
+"But the river wears away at this. Through its action, it changes the border?"
+
+Meng Duyi nodded easily. "It is an easy concept to infer from looking at the world. And yet, it is one I find students do not come to without prompting. Borders, walls, and separations are not naturally static nor absolute. Changeability and permeability is the norm."
+
+"All things built shall in time crumble," Ling Qi mused.
+
+"It is true, and a fine enough way to think of it. Yet, for all that change is inevitable in this world, the manner of it is not."
+
+"Borders move. We move them. The world moves them. In doing so, this change what they filter in and out." Ling Qi considered the cliffside. Every groove was evidence of where it had been changed, where the line between stone and water or stone and air had been blurred or broken.
+
+"One who would craft barriers and wardings must always first decide what they intend to keep in and out. The more absolute and total one tries to make such a defense or structure, the greater its expense and brittleness will grow."
+
+"And the more porous you make it, the more avenues you leave for thieves such as I to slip through," Ling Qi concluded.
+
+"It is so, though not as easy as you suggest, when dealing with the filters of a master. It is the folly of youth to design a vault which is supposedly impregnable, invulnerable to all passage." Meng Duyi snorted, stroking his beard. "The wastes in efficiency are immense, and the strain on the materials moreso. But we are not discussing the foibles of apprentice warders."
+
+"I should like to test your wards sometime, if it isn't too presumptuous. I recall learning my initial methods from Elder Jiao that way," Ling Qi said. It had been fun.
+
+"Hmph. Some students cannot sit still while learning." Meng Duyi turned from the river to resume their hike. Yes, she supposed he might understand that, if not in the same way. "It may amuse, but the focus on the lesson would remain the properties of the barriers, however you choose to learn them.”
+
+"May I ask why you chose the project improvements you did, teacher? The ones taken while we were away."
+
+"I merely provided legitimacy for the ideas of the mortals who arrived at a method for harvesting the clay for their own uses. The balancing element is useful however The cold qi against the heat running through the veins is a calming measure, and moreso, the potential for the material is high for local use. The rest you may sell far away. This frozen clay will line cellars and make containers used throughout your Shenglu," Meng Duyi explained. "It was also useful to walk among your mortals more. There are sleeping talents to be found. Those who might be able to hear enough may staff the many temples and shrines you build."
+
+LIng Qi nodded, glad to have his reasoning.
+
+"And what do you and your lady intend to do next with this place, I wonder? The farms bustle, making their installations before the snows fall deep, and the woodcutters are eager to work,  ceasing their dependance on wood carried from the Argent Peak. What do your people need, in your eyes?"
+
+"We will be away again soon," Ling Qi said, contemplating the thickening copses of pines they were passing through. She wondered if Meng Duyi had a path in mind, or if he was simply letting his feet carry him. "The first priority is that all the basic infrastructure that has been built for the farms is implementing the anti-corrosion, impurity, and parasite methods the Bai clan provided me."
+
+Meng Duyi let out a low hum and thumped the butt of his staff against the ground a bit harder on his next step. "Mm, from their efforts to peel back the red jungle with less shed blood, I suppose?"
+
+Ling Qi lowered her head in acknowledgement, stepping gingerly through the needle-strewn underbrush. She passed through the clawing brambles like smoke, leaving it undisturbed. She could feel the dense mat of roots under the soil, binding the trees in a network with each other, though their conversations were too slow for her to parse without moving.
+
+Meng Duyi strode through it like a mortal man, crunching and rustling and all, though his passage left no signs or prints.
+
+"Yes. Even if it raises the expense of the fertilizers used, we can cover that from the central coffers, and it should make harvests more resilient against any incidental damage the ith do."
+
+“It is a concern that a lord should oversee. Defense of the whole has always been the duty of the center," Meng Duyi said. "The Bai methods… Be careful and wary, where they interact with your waters. What the Bai regard as acceptable toxicity is not the baseline. Even mortals in the Thousand Lakes have an excessive hardiness for the toxins that metals leech into the waters."
+
+"I believe my relationship is good enough that there would not be such oversights in the package given to me."
+
+"Not intentionally, no. Will you allow me to see these plans?"
+
+"I see no harm in it," Ling Qi conceded.

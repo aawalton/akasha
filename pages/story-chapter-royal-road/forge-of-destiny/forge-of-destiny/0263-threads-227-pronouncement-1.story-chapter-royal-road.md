@@ -1,0 +1,155 @@
+---
+id: 107e2c80-8c7f-5d48-b4ca-2ece614a0136
+page-type-slug: story-chapter-royal-road
+title: "Threads 227-Pronouncement 1"
+slug: 0263-threads-227-pronouncement-1
+partOf: forge-of-destiny
+position: 263
+ownLength: 2892
+unit: words
+publishedAt: 2022-06-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/938965/threads-227-pronouncement-1"
+royalRoadId: "938965"
+---
+
+Ling Qi peered at Cai Renxiang out of the corner of her eye, remaining silent as they ascended the long stairs that led to the box at the top of the stadium. She was haggard. Cai Renxiang hid it well, but Ling Qi recognized the small differences in her posture and the touch of cosmetics around her eyes. The meeting with her mother had definitely been harsh.
+
+“Is there anything I can assist you with today, Lady Cai?” Ling Qi followed precisely two steps behind Cai Renxiang as they ascended.
+
+“Not today, I think.” Cai Renxiang sounded tired, but the steel determination of someone who knew what they had to do which had been missing was back.
+
+Something had changed.
+
+“I will call on you when I need you, Ling Qi,” Cai Renxiang said, her voice quiet in the privacy of the stairwell. “I think we will have much to talk about on our journey north.”
+
+Ling Qi gave a small nod of acknowledgement. Words that they shouldn’t speak, even here at the Sect? That was… worrying. “I am with you,” Ling Qi said. “And soon, Gan Guangli will be too.”
+
+“Yes,” Cai Renxiang agreed. “Understand, Ling Qi, that I require some time in cultivation before I may speak clearly.”
+
+“Of course, Lady Cai.”
+
+Not entirely a matter of danger then, but also one of processing. Well, she could wait. There was certainly enough on her plate for the moment.
+
+She would just be glad that Cai Renxiang had found that part of herself again because today, they were sharing a box with the Duchess, not the Bai.
+
+She could already feel the pressure growing on her shoulders.
+
+All too soon, they emerged into the brilliantly lit interior of the spectators’ balcony that sat above all the rest. The presence of the Duchess nearly overwhelmed all others. She was seated with one leg crossed over the other, as languid in the stadium seat as she had ever been on her throne. She wore an ornate and formal gown of white and gold worked through with imagery of blooming flowers. Only the near hip-length slit in all three layers of the gown showed the Duchess’ unusual fashion sense.
+
+Seated beside her was Diao Linqin, who was arms crossed and expressionless. Her gown was pale rose pink with deeper reds in the underlayer and hems, and her honey brown hair was drawn up and woven between ornate jade ornaments. Her eyes flicked to the two of them, and Ling Qi felt the older woman’s dislike wash over them. It was not powerful, merely a frisson in the air like bramble thorns scraping against one's skin.
+
+The last one, sitting two rows in front of these women, was Diao Luwen. Eyes blank and staring ahead with numbers and characters dancing in them like motes of starlight, the man looked intensely disinterested. He wore a plain green robe.
+
+It struck Ling Qi then, looking upon these people, how truly empty the word “family” must be in Cai Renxiang’s eyes.
+
+“Renxiang, my daughter, it is unlike you to press the edge of lateness.” An indulgent smile played about Cai Shenhua’s lips.
+
+“I must apologize, Honored Mother. I spent much time contemplating the insights you deigned to share with this unworthy daughter.” Cai Renxiang offered a stiff but precise bow.
+
+The Duchess seemed terribly amused. Diao Linqin’s expression was studiously blank.
+
+“So diligent.” Cai Shenhua chuckled. “Take your seat, dear. Your soldier’s match is about to begin.”
+
+Cai Renxiang straightened up and nodded, taking a seat beside her father. He didn’t even glance at her.
+
+Ling Qi sat beside her, trying not to sweat under the terrible radiance that burned on the back of her neck like a high summer sun. She caught Cai Renxiang drumming her fingers on the armrest of her seat, a sure sign of agitation in the stoic girl.
+
+Ling Qi sank into her seat. This was awful. Doing her best to take her mind from the discomfort, she instead focused down on the arena where Gan Guangli and Lu Feng were now facing off.
+
+The arena shimmered with familiar light, and the two combatants disappeared, consumed by an expanding cloud of dark green. In moments, it resolved itself into a deep and dense woodland scene. Old growth trees towered some thirty or forty meters overhead with trunks as wide as small houses. Between them were smaller trees, also towering high. Weeds, brambles, and brush choked the leaf strewn ground, and a thick canopy of leaves overhead allowed only tiny shafts of sunlight through to dapple the browns, greens, and pale yellows of the undergrowth. Between a native of the Emerald Seas and one of the jungles of the West, Ling Qi supposed that this was the closest to neutral ground the Sect could offer.
+
+She spied Lu Feng for but a moment, a flash of silky black hair and red silk vanishing into the shadowed canopy. Meanwhile, Gan Guangli had appeared in a small clearing atop a wide flat stone that blocked the growth of the trees. He stood briefly in the sun, his expression grim as he clapped his hands once in a gesture like a prayer and began to walk into the darkening wood.
+
+With each footfall, Ling Qi felt an echo of qi resonating out through stone, earth, and root, and slowly, a faint golden glow began to crawl along the joints of his armor, casting the dark forest floor in vibrant light.
+
+“How much has this one changed, I wonder? “ The Duchess’ voice cut through Ling Qi’s attention, pressing down on her skull despite the fact that the words were not directed at her.
+
+She pulled her attention back, just a little, to listen to her liege’s reply.
+
+“Gan Guangli did not require much change. He only needed to step from my shadow. That is not his role.”
+
+“Hoh! You say that like it is a small thing, daughter.”
+
+Below, a tree twisted, bark warping into a screaming demonic maw. Root and branch lashed out. Gan Guangli let out a bellow and his metal clad palm shattered a trunk to sawdust. Ling Qi saw a creeper vine curl around his ankle. He twisted his leg and ripped it free. A falling trunk writhed with renewed life, toxic qi coursing through a hundred rings as it detonated into a vile purple cloud. Just barely, Ling Qi could see where threads, uncountable in number, gleamed among the wood.
+
+Gan Guangli’s chest inflated in the moment before the toxin was upon him and his hands came together in time with a great shout. A shockwave erupted, blowing away poison, vines, and trees alike. Ling Qi heard the faint snapping of threads.
+
+“Lu Feng!” Gan Guangli demanded, his voice made metallic by the golden faceplate of the helm he now wore. “Know that I cannot be worn down by such petty tricks!”
+
+Ling Qi smiled faintly at the theatrical shout, sensing the tingling qi in the air that bounced from trunk to trunk, just the same as the vibrations of his massive footfalls. It looked like Gan Guangli had found a way to weaponize his own loud nature. She was glad for him.
+
+There was a faint whine in the air, and Gan Guangli spun round, raising his palm to catch a blur in the palm of his hand. Then another came, and another and another. Thunder cracked in each projectile’s wake, a fusillade of hundreds of what she saw to be pale green thorns. Their direction forced Gan Guangli to shift and turn as he took a close stance, his hands lashing out in metallic blurs as he bashed them all aside.
+
+Gan Guangli’s head brushed the lowest branches, and then pushed through. His light grew with him as he came to tower higher and higher. Three meters, then four, then five, until the thorns bounced from his armor like falling leaves, and he slammed his palms downward, joined by two additional golden hands that shattered smaller trees like matchsticks and send out a rumbling shockwave that ripped up the earth for over a hundred meters in the direction of the thorns.
+
+No more flew, but as Gan Guangli shook his head like an oxen bothered by flies, Ling Qi could still feel countless threads stretched taut in the dark.
+
+This was not going to be a short fight.
+
+Another thunderous crash filled the arena as Gan Guangli’s palm strike demolished a small copse of trees in a rapidly expanding cloud of splintered wood and flying leaves. He pulled his hand back, and it emerged from the cloud wrapped in clinging vines and creeping moss that wriggled between the joints of his armor.
+
+He took a step forward, and there was a wet sucking sound as the ground under his huge boot became a sucking sinkhole filled with crawling roots. Gan Guangli let out a bellow as he tore his now mud-encrusted boot free.
+
+“You never do tire of looking like a clumsy fool, do you?” Lu Feng’s voice whispered through the wood, generated from the rustling of leaves and the creak of branches.
+
+“You never do tire of looking like an underhanded coward, do you?” Gan Guangli retorted, still in good cheer as he straightened. He was head and shoulders above the normal-sized trees now.
+
+They were both playing a different game, so far as Ling Qi could tell. Lu Feng seemed content to let Gan Guangli barge through innumerable traps and altered terrain. Gan Guangli. however, was subtly searching as he strode along, narrowing the search area by devastating the terrain Lu Feng could use to hide in.
+
+This had been going on for several minutes now, and only recently had Lu Feng begun to respond to Gan Guangli’s calls and taunts. She wanted to think that Gan Guangli had the advantage here since he seemed to be using less qi than Lu Feng, but a suspicion niggled at her, and beside her, Cai Renxiang’s brow was faintly creased with concern.
+
+“Tomb-masking vines.” Ling Qi blinked as the sound of a gruff voice drew her back to the box. Diao Luwen’s eyes had cleared, and he was peering down below at the duel.
+
+“What do you refer to, Father?” Cai Renxiang asked.
+
+“What that boy’s cultivation is based on.” Diao Luwen spoke in a swift and clipped tone. “Nasty pests you need to account for in building in the west. They grow up around trees and structures. People, too, if allowed. They kill and devour them, leaving a hollow shell that looks like the victim behind. Damned mimics. What an irritating child. I had hoped this business would be short.”
+
+“I see,” Cai Renxiang said.
+
+“Your man is being infected further by each trap he springs. His plan is not bad, but he seems oblivious.” The older man grunted. “Hmph. Attrition fighters.”
+
+She saw the moment when Diao Luwen’s attention drifted again. Neither the Duchess nor the Prime Minister spoke. Ling Qi refocused her attention on the battle below with renewed concern.
+
+Gan Guangli stood, hand outstretched, having just tossed a boulder ahead. The earth split where it had landed, revealing a meters-deep trench full of toxic sludge. He stepped over it and had to windmill his arms for a moment as his ankle was caught on an invisible thread that Ling Qi had trouble spotting even as it curled around his ankle and yanked.
+
+“You spend so much time playacting a valiant hero, but it just makes you oblivious and clownish, you great fool,” Lu Feng taunted. Ling Qi felt a ripple of qi, and the sludge in the bottom of the ravine bubbled and swelled, exploding into a massive cloud of pinkish red mist that stung her eyes to even look at. “Underhanded, cowardly… That you think these are insults at all only shows how ignorant you are.”
+
+There was a mighty boom, and the toxic mist scattered, multiple golden hands tearing up forest and trees in a chain of booms and snapping threads. Ling Qi glimpsed red silk and long black hair for just a moment, darting from the wake of the devastation.
+
+“You are confident, Lu Feng! I wonder, do you even believe your own words? I feel no shame for any of my choices this past year. Not for braving the great storm to aid new disciples. Not for going out to fight for my people while you plundered storehouses like a bandit.” Gan Guangli rose from the cloud, towering some seven meters in the air. His armor gleamed still, despite swatches of toxin dripping from it. “Let all the villains in the world dog my heels and sharpen their knives for my back. This Gan Guangli will endure them all! And my people will know they are protected.”
+
+The forest erupted. Entire trees writhed and twisted, disintegrating into grasping vines, and flying thorns erupted in their thousands, plumes of toxin blooming around Gan Guangli’s feet. His hands blurred, new ones appearing behind his back to blow them all away.
+
+“I am a winner! And that is the only thing that matters for a leader,” Lu Feng replied flippantly. “Victory quells all complaints and needs no explanation.”
+
+Something black and twisted throbbed within Gan Guangli’s meridians, and Ling Qi watched as gray and black vines erupted from inside his armor. She felt his qi flooding out, being drained to fuel the growth of these parasites. They coiled around him, his legs slammed together, his arms snapped to his side, and he fell to his knees with a shout. Even the golden glow beneath his cape and the ornamental blade that hung there projecting phantom limbs disappeared in a cluster of vines.
+
+Gan Guangli struggled mightily as he glared into the ruined forest, even as vines crawled across his face, puncturing and wriggling under his skin. “I have always despised words such as those. Cowardly and childish things that they are.”
+
+The growth across his body, fueled by his own qi, tightened, stilling his movements and burying his face in the dirt.
+
+Ling Qi glimpsed Lu Feng, standing on the bough of one of the tallest trees, one hand on the trunk. “For you to call anyone else childish is truly absurd.”
+
+“That. Is. What. Villains. Always. Say!” Gan Guangli’s strained voice rang out from within the cocoon of vines. Blooms of golden light appeared beneath them, hands trying to escape and failing. His qi was dimming to her senses, and she saw Renxiang’s grip on the armrests tightening, straining the wood.
+
+Behind them, the Duchess let out a throaty chuckle.
+
+Slowly, the tremendous cocoon began to still and shrink. The flashes of gold came less frequently, and Lu Feng leapt down from his perch, looking very pleased with himself. “Ridiculous right to the end, Guangli. I suppose you have my respect for that. Imagine how strong you could have been if you had not wasted such time with your weaklings.”
+
+“Ridiculous,” Gan repeated weakly. “Charity, compassion, virtue, these things are ridiculous indeed.”
+
+There was a pulse of energy. Lu Feng stopped in his tracks, his smirk freezing on his face. A tongue of golden fire licked out between the vines. Lu Feng’s legs tensed, and he made to dart back, but he went nowhere as two golden arms locked around his shoulders.
+
+There was a a huge and muscular man there behind him, partially phantasmal, body dissolving into tongues of flame and light below the chest. Wearing only a vest of pale blue fire, the figure’s chiseled features displayed a pleased smile as he rose from the ground with Lu Feng in tow, long golden hair billowing in the wind.
+
+The cocoon bent. Gan Guangli forced himself onto his knees, snapping vines like thin twine as more and more tongues of flame began to burn, golden light shining through the tangle. His qi flared, and vines writhed and charred.
+
+Lu Feng thrashed in the grip of the shining giant that held him in a lock. His skin sizzled with flesh-eating acid, and his flicking fingers guided threads that wrapped around half-physical limbs to cut and poison and puncture. The spirit, grim and inviolate, merely titled his head back and then snapped it forward with such force that the shockwave blew the leaves and branches from every standing tree in a hundred meters. The crack of the spirit’s forehead meeting the back of Lu Feng’s skull was sickening even up in the stands.
+
+As Lu Feng hung, stunned for a moment, Gan Guangli, still wrapped from head to toe in parasitic vines, rose to his feet, and with a roar, took a step forward, snapping the bindings around his legs. “Let me be a fool then, Lu Feng! I am a shield, not for my lady, who needs no such thing, but for all below. A leader must be an example and inspiration who shows that virtue… is… its… own… REWARD!”
+
+Bright sunfire blazed from between every joint and gap in Gan Guanli’s gleaming white armor, and the rest of the vines tore apart. A dozen fists and palms of tremendous size, blazing with sunlight, snapped out to shatter the air and strike the dazed Lu Feng.
+
+The arena went white with the light.
+
+Again, the Duchess laughed. “Fine! You may keep that one, Renxiang.”

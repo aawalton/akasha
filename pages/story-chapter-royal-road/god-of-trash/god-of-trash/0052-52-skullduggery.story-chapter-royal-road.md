@@ -1,0 +1,139 @@
+---
+id: 8716953c-9cec-506b-a4bc-8adf7c217429
+page-type-slug: story-chapter-royal-road
+title: "52. Skullduggery"
+slug: 0052-52-skullduggery
+partOf: god-of-trash
+position: 52
+ownLength: 2879
+unit: words
+publishedAt: 2025-04-15
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2205028/52-skullduggery"
+royalRoadId: "2205028"
+---
+
+The light faded away from the robes Rhys had sewn from the piercing-resistant fabric. Once more, it had melded together, but this time, it looked far more handsome. He’d bothered to pick fabrics with complimentary patterns, colors, and textures this time to craft a garment that actually looked passable, since this would be his external clothing, and he quickly put it on. He’d mostly used dark colors—navy, forest green, brown, and black—since there were plenty of dark colors in the pile, and many of them were complimentary. Some highlights of white mixed in as contrast.
+
+The robes were loose. They naturally draped around his body to hide the seams where the fabrics melded together, where the colors got a bit blurred and strange. The central panel was black, with a small white panel just outside, then blue and green in that order, finishing with black again in the center back. The sleeves were made from brown leather, and he’d made a belt to match, with a buckle he’d fished out of a different pile of trash. The shoulders were reinforced with a darker shade of leather, as was the collar. They weren’t the best-looking robes he’d ever seen, but they were passable for his first attempt at making clothes with his new technique.
+
+Trash Enchanting was now level 2, and he was almost out of mana. He’d taken two full potions to enchant the larger robes, but he had plenty of potions, and as long as he took them one sip at a time, Less is More kicked in and provided him with bonus mana, which multiplied the total mana that he could absorb from the potions by several times. He sipped the mana potion again and checked on the ash. It had burned down, and was about ready to brew.
+
+Farewell, giant trash pile from the upper peak. Rhys saluted to the pile of ash, then drew out his cauldron and started piling ash inside to begin the process of concentrating the impurities. He skimmed the purified ash out and added more, over and over, until the pot was absolutely full of impurities. On and on, until at last, he called a blob of impurities out of the cauldron and tucked it away into his robes.
+
+He patted his chest, pleased. Two goals achieved: new robes, and a new, stronger impurities potion that he could absorb slowly while he was leading the Purple Dawn folks around. He’d defeated them soundly, and their attempts to catch the school on the back foot had failed, thanks to his intervention. Everything was going swimmingly.
+
+The hairs on the back of Rhys’ neck prickled, and he grimaced. It was all going well, but that only made him more suspicious. For a group that was supposed to find every fault and not stop until he and his school were embarrassed and subservient to their academy, they sure had been playing by the rules so far.
+
+He hurried down the mountain, through the barrier, and toward the cabin where the students had been given quarters. He’d almost reached the cabin when he heard footsteps, crunching through the undergrowth. From his training with Bast and Straw, Rhys instinctively moved silently through forests, and his Trash Step only enhanced his ability to move silently, given that the ground was carpeted in leaves the trees had thrown away. Before anyone saw him, Rhys reined in his aura and ducked behind a tree, holding his breath.
+
+“…even looking for?” Mae asked, frustrated.
+
+“Anything that can embarrass the school. Split up. We need to cover as much ground as we can,” Walter replied.
+
+“What about Ernesto?” Victor asked.
+
+Hono scoffed. “Do you ever listen? He told us. He’s chasing down the source of that terrifying curse energy I sensed. If this Infinite Constellation School is really brewing a curse that potent, forget conquering this school; he’ll be able to bring down the force of the entire North-Eastern Alliance on their heads. We’ll crack this place open like an egg and suck all the valuables out of it.”
+
+“Yuck. What are you doing to eggs?” Victor asked, disgusted.
+
+Rhys raised his brows. That does raise a good question. The Alliance—I’m assuming the same one that captured Straw—clearly sees curses as evil, but Walter and Hono openly use curse power. Was it the strength of the curse that made it impermissible? Or maybe the origin of it?
+
+“Obviously. If they’re actually brewing a curse strong enough to take out a school, the Alliance will have to move. They won’t overlook it, like they do with our class fooling around with curses,” Walter said, ignoring Victor’s interjection.
+
+The strength of it, then. Rhys nodded. It was like how, in his world, countries were allowed to make bombs day in and day out; it was only when they tried to make an incredibly powerful atomic bomb that other countries would take notice and try to stop them.
+
+Though, from the way he mentioned the Alliance overlooking their class, it seemed like curse power wasn’t widely seen as a good thing.
+
+Then again, these guys are the class Purple Dawn sent to cause trouble for another school. Is that deliberate? After all, if the class that had ‘run wild’ and ‘gone mad’ studying curse power, whether Purple Dawn’s Schoolmaster deliberately overlooked them or not, then it was easier to excuse their bullying another school as ‘the mad actions of a class outside our control.’ It was the corrupt alliance of the government, in this case, the school, and criminals, where the school benefitted from overlooking the criminals, because they could keep their hands clean if it was only the criminals who dared to do evil acts that the school would definitely never support.
+
+Rhys sighed to himself. It was so plausible that it hurt. All these idiots practicing curse power were nothing but the sacrificial scapegoats for the larger school, but like any criminals, they didn’t care as long as they could get away with gaining power at the same time. When push came to shove, they’d find their necks on the chopping block… but then, they probably weren’t the type to look ahead.
+
+“See you guys later, then,” Mae said, breaking Rhys out of his thoughts. The figures split off, wandering through the forest in four different directions. One set of footsteps walked directly toward Rhys. Rhys hunkered, holding completely still. He rested his hand on his sword, ready to pull it free at a moment’s notice.
+
+Victor walked past him, hands behind his head. The boy’s eyes were locked straight forward, and he never so much as glanced Rhys’ way.
+
+Rhys breathed out, relieved. Not that he couldn’t handle Victor if he had to, but better to avoid a fight if he could. All four of them at once would be a bit much, especially after he’d already shown all his moves.
+
+Standing with his back to the tree, he pinched his chin and submersed himself in thought. They were going to find embarrassing things. He couldn’t stop them from finding anything; there was plenty embarrassing on Infinite Constellation School, and he’d known from the start that this was a lost game. He’d done his best, and he was happy to toss them the one-finger salute and wish them the worst as they sought out more dirt on his school.
+
+Massive curse power, though… what on earth would that be? He was completely sure he’d never sensed curse power before Hono. Straw had always hidden all his power, to the point that he’d been flabbergasted to hear that the man was supposedly a cursed straw doll. On the mountain, he’d never sensed curse power, either, and he’d covered most of the peak. Sure, there were points on the far side of the mountain he never went to, and he was actively avoiding the part of the upper peak where he’d seen beast scat, but if Ernesto wanted to wander into the wilds and feed himself to a beast, that was his—
+
+Rhys widened his eyes. He tensed. No. But what else could it be?
+
+The toxic trash pit. He himself had recognized curses as related to trash. Was it possible that the trash pit was giving off curse power? When he’d been there, he hadn’t sensed curse power, but he’d barely been able to breathe or interact with the trash pit at all. It could be giving off any sort of energy, and he’d never know it. Especially since he hadn’t sensed curse power until Hono, or, if he had, he hadn’t known what he was sensing, to recognize it as something other than mana. The toxic trash pit blasted him with so much power, smell, everything, that it was impossible to pick out all the energies that were mixed into the sludge.
+
+The one thing he was sure of, though, was that the sludge was definitely powerful enough that it could hide a curse of significant power. Even a curse powerful enough to destroy another school wasn’t beyond the realm of possible.
+
+Rhys narrowed his eyes. He pushed off the tree and ran, hurtling toward the trash pit. After all the work he’d put in to be able to absorb it, all the pain, the blood, the sweat, the tears, after everything he’d gone through, he wasn’t about to let some upstart teacher from another school scoop those impurities out from under him! He’d been working toward the toxic trash pit for months. That thing was his, by right. And he intended to claim his prize, by hook or by crook.
+
+A part of him was concerned for Tarais, but there was no time. Not with his toxic trash pit on the line. He had to trust in her. Trust in her strength, her physical and magical strength, and believe that she was fine. Right now, the school and everyone within it, his personal future, and worst of all, the toxic trash pit, were in danger. He couldn’t spare a second!
+
+“I thought I smelled a rat.” A hand darted out from behind a tree and grabbed at Rhys’ robes.
+
+Rhys threw himself to the side and ran on.
+
+Mae whirled from behind the tree and gave chase. “Hey! Where do you think you’re going?”
+
+He reached into his storage ring and tossed a hunk of wood behind him. Mae dodged it. The second she shifted her eyes to the wood, Rhys pulled the steel pole out of his storage ring and used Trash Intent on it, jutting it straight out behind him. The pole lengthened, its blunt end hurtling toward Mae’s forehead.
+
+“Attacking a student without warning? Aren’t there rules against that in your school?” she asked accusatorily.
+
+“Nope,” Rhys replied. He reached to the bottom of his storage ring and drew out a handful of tiny glass shards. They rained down behind him, carpeting the earth between the two of them.
+
+Mae scoffed. She leaped over the glass, aiming a kick at Rhys’ back. “Shitty little school.”
+
+“Yeah. But there’s beauty in a shitty little school, don’t you know?” Rhys stopped dead. He thrust his sword between his arm and armpit, bracing it with his whole body, and activated Trash Intent.
+
+Mae widened her eyes, but it was too late. She was already in the air. Her kick landed soundly on Rhys’ blade.
+
+Blood flew. Mae screamed, an ear-splitting sound, and crashed to the ground, her foot bleeding into the leaves. It was split almost to the knee, and from ankle to toe.
+
+Rhys grimaced. He hadn’t known how bad it would be. Looking at it, he almost felt a little bad for her.
+
+From nearby, Walter shouted, “Mae?”
+
+And that’s my cue to get out of here. Rhys put his sword away and sprinted off, using all his mana on Trash Step to speed himself up to the absolute limit of his current strength. He hurtled through the woods, running so fast that the trees became nothing but blurs in the dark. At this speed, he couldn’t fully suppress the sound of his passage, but that was less important now. If he didn’t get to the trash pit in time, it was all over. Not just for him, but for the school, and everyone in it, too. Ev. Tarais. Sorden. Maybe even Az and Lira, though he had the feeling the two monsters would figure their way out of this school’s collapse just fine.
+
+He closed in on the toxic trash pit. This far out, he could already smell the thing, and feel its corruptive influence on the very air around him. Now that he knew what curse power felt like, he could sense it all around him. It was thick on the breeze, as heavy as mana was in the center of the sect. How could I not sense it before? he wondered, but he knew why. He hadn’t known what to look for, and he was overwhelmed by the multisensory experience that was the trash pit. There wasn’t a single sense it didn’t offend in some way or another.
+
+Ahead of him, he sensed a single source of mana, one unfortunately more powerful than him and infinitely familiar. Rhys drew close enough to see the pit before slowing to a halt, some distance from the pit itself.
+
+Ernesto stood at the very edge of the pit, gazing down into it, his eyes wide. Sensing Rhys, he half turned, but didn’t look away, as if the thing down in the depths was so desperately interesting that he couldn’t bear to look away.
+
+“How did a tiny school like yours even end up with something like this in your possession? This thing… this foul well. We’ve been searching for a well like this for ages. And here it is, right under our noses, hidden away in a tiny, shitty little school like yours…” He trailed off, staring into the depths.
+
+“You know it’s no weapon. Step away from the edge, Ernesto. You gain nothing from this and stand to lose much,” Rhys accused him. It wasn’t untrue. If Ernesto’s students were studying curse power, there was no chance the man himself had abstained. And if the Alliance disliked curse power as much as Walter and Rhys’ run-in with them indicated, then he’d be essentially calling the cops on himself to reveal the pit to the Alliance. He, too, would get locked up for a long time as a consequence.
+
+“Ha. As if you would understand! Or maybe… you would…?” Ernesto looked away from the pit at last, locking eyes with Rhys. “I knew I recognized you, and when you absorbed that curse power, it struck me. You’re the Strawman’s disciple, aren’t you?”
+
+“That’s right. I’m Straw’s weakest disciple,” Rhys replied. There was no need to deny it. It was true, and besides, the Alliance itself had cleared him of curse power. Not only that, but Straw had never used curse power around them, nor taught them of it. He truly had no connection to the stuff, except for his ability to burn it, the same as any impurity.
+
+“Straw… is that what you called him? How affectionate a thing to call that monstrous doll, that mass of impurity and ruin. Tell me, child. What was it like, learning curse power directly from the master?”
+
+“I didn’t,” Rhys informed him.
+
+Ernesto scoffed. “I saw what you did to Hono. There’s no need to lie.”
+
+“It’s true. Straw never taught us anything about curses.” The strange man had taught him how to fight, how to use mana, and how to defend himself, but he hadn’t ever brought up curses… or any practical spellcraft, for that matter. Rhys had left his tutelage more martial artist than mage, even for someone of his magely proclivities.
+
+He didn’t mind it. Being capable of both was a useful tool. But it remained true that he hadn’t been at all, in the least, taught about curse power.
+
+Belatedly, Rhys realized that maybe that was why Straw had never taught them spells: the man couldn’t, not without calling on curse power.
+
+“Impossible,” Ernesto snapped.
+
+“Whether you believe me or not, it’s true. Step away from the pit,” Rhys ordered him.
+
+Ignoring him, Ernesto turned back to the pit. “Do you know what sleeps in these depths, child?”
+
+Uh oh. I don’t like that. Rhys backed away, sudden nervousness gnawing at his stomach. “I’ll go get Aquari if you don’t step away right now. No—I’ll get Az!”
+
+“Why don’t I show you?” With a rictus of a grin, Ernesto turned back to the pit. Dark shadows stretched from his body as the pit suddenly glowed a filthy, black-brown-green light, like the color of sick and shadows.
+
+“No—” Rhys went to charge Ernesto, but found himself pinned in place. Mana dragged at him, pulling him down and still. He glanced down. A single nail locked his shadow in place. When he tried to struggle, his shadow writhed, but his body didn’t move an inch.
+
+Rhys’ skin crawled. A curse.
+
+Gazing into the pit, Ernesto made a pulling gesture. Chains rattled, and something viciously cold welled up from the pit. He laughed aloud. “Come forth! I awaken thee!”
+
+From the depths of the pit, a hideous roar answered him.

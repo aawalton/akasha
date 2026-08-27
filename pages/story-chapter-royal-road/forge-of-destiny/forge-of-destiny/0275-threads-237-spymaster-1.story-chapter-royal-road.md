@@ -1,0 +1,121 @@
+---
+id: 4a88341e-da0f-52f2-9f7d-81dae979288f
+page-type-slug: story-chapter-royal-road
+title: "Threads 237-Spymaster 1"
+slug: 0275-threads-237-spymaster-1
+partOf: forge-of-destiny
+position: 275
+ownLength: 1952
+unit: words
+publishedAt: 2022-08-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/969188/threads-237-spymaster-1"
+royalRoadId: "969188"
+---
+
+“Snow Blossom, huh?” Sixiang peered over Ling Qi’s head. Their weightless image appeared to lean on her back, trailing off into nothingness below the shoulders. “That’s kind of fanciful for you lot.”
+
+“Well, Lady Cai nixed anything too humorous from the start.”
+
+“The cabbage pun you proposed right off the bat had nothing to do with that, I’m sure,” Sixiang deadpanned.
+
+Ling Qi gave an offended sniff. Baicai was a perfectly fine name for a river.
+
+“It was forced.” Sixiang huffed.
+
+“They can’t all be winners,” Ling Qi dismissed. “Anyway, Renxiang’s proposal was pretty so I backed hers.”
+
+The name came from the way the ice floes drifting down from the headwaters dotted the clean blue of the river like blossoms floating downstream. They grew steadily smaller and more broken up until at last, those that remained were broken in the great falls that fed the lake.
+
+Having answered Sixiang, Ling Qi’s eyes flicked back to the letter in her hands.
+
+The young Miss Cai’s ambitions show that she has inherited the fire which raised the Duchess to ascension. This humble scribe is more than pleased to provide the small information that you ask on her behalf, Lady Ling. The success of the heiress’ project and the acknowledgement of the old clans truly shows that the Emerald Seas is finally ready to take its rightful place among the peers of the Empire and…
+
+Her eyes drifted from the page toward the neat stack of a dozen more pages that made up this letter alone.
+
+When she had begun sending out missives using some of Hou Zhuang’s neat lists and pieces of advice, she had assumed they would reply, trusting the elder cultivator’s acumen. What she had not expected was the enthusiasm which came with some of them.
+
+“You are a direct line to the province’s heir,” Sixiang said, the point of their chin digging into her scalp. Ling Qi glanced up with a sour look, and Sixiang tumbled off to the side, coming to rest on the arm of her chair with a wholly visible body.
+
+“It’s not just that. I can understand those,” Ling Qi replied. People—minor nobles, ministry members, certain craftsmen—obviously would see benefit in connecting to Renxiang. She could even see why they would pile praise on a foreign project. Saying nice things about one’s superiors regardless of personal thoughts was just good sense.
+
+“But it feels sincere in some of ‘em. It’s like you’ve made this guy’s day. What did you write to him?”
+
+“Hou Zhuang’s notes said to talk about the advancement and pride of Emerald Seas, making reference to the ability of the Jin and Xuan to push interactions with foreigners as they liked,” Ling Qi answered. “This guy, others too, there’s this current of not even being focused on the Cai, or like the Cai are just-”
+
+She struggled for a moment to find the words. It wasn’t really disrespectful, but it felt like the Cai, or even the Duchess, were just symbols. Many of the letters she had gone through, even the less sincere or excited ones, felt strange to her; these people were happy to bypass chains of feudal loyalty and even familial loyalty.
+
+It was as if for them, the Emerald Seas was more than just the name for a chunk of land or the Duchess’ domain, but an entity that existed on its own. This conflict with the cloud nomads and the underground people was their war rather than the Empire’s, the alliance with the Bai showed that the Duchess had raised the Emerald Seas to the respect they deserved, and the project that the younger Cai was undertaking showed that the Emerald Seas could now do what other provinces could.
+
+“This ideal is more the province of the sunny boys, those preachy dawners. But it’s still a dream, isn’t it? It’s a dream that you and your neighbor are both part of some greater movement with historical significance. I think that’s the real scary thing about what the Duchess did here. She stitched together a lot of old things.”
+
+“It’s not unreasonable, I guess,” Ling Qi mused, setting down the letter. Most of it was simple forwarding of Ministry of Commerce reports, documents that someone of Renxiang’s rank was allowed to view anyway. According to Hou Zhuang, it was important to start these kinds of relationships with easy, authorized information. She knew that the provided information could indirectly outline the movement and numbers of soldiers in the Jia lands, but Renxiang was better at this type of analysis. “Family isn’t really about blood. That’s just the way it works out most of the time.”
+
+“The result and not the reason?”
+
+“This type of ideal is still only a small number really. Most of these letters are what you’d expect: favor trading or simple sniffing after gain.”
+
+There wasn’t anything wrong with that more mercantile mindset, though she was sure Renxiang or Gan Guangli would debate her on the degree to which that was acceptable. But people needed things, and it wasn’t until she could look after herself that she could start looking to others. That said, realistically, most cultivators lived far above the point of ‘looking after themselves.’
+
+“Sure, but I wonder if we should focus on and build that type of idealism. Lying too much gets you in trouble, but people need stories and dreams. By embarking on this project, you're telling the start of a story and making sure you have an audience. That’ll go a long way.”
+
+“Maybe so,” Ling Qi allowed, rubbing her eyes. She rarely felt so glad for the constitution of a cultivator. Cultivators loved to write small novellas in their letters. “I let you off from explaining before, but what is the difference between the Dawning Sun and the Dreaming Moon?”
+
+Sixiang pursed their lips, sliding off the arm of her chair to float around to the other side of her desk, one leg crossed over the other as if they were still sitting on something solid. “Ugh, do I really gotta? Isn’t it enough to know that we’re awesome and they’re boring?”
+
+“Sixiang,” Ling Qi said flatly.
+
+“Fiiiine.” Her muse made an exaggerated sigh. “Look, art is about making people feel things. At the root, that’s what we’re both about. Dreams don’t exist without reality, so we’re both into teaching people to take the clay of their experiences and shaping it into something that can convey feeling to others.”
+
+“That makes it sound like language is art,” Ling Qi said.
+
+“It is. The first art you humans came up with.” Sixiang shrugged. “And that rippled out to affect the rest of the world. But don’t ask me any ancient history stuff, ‘cause I don’t know the details.”
+
+“Fair,” Ling Qi dismissed. “So, the difference?”
+
+“The Dreaming Moon, that is, Grandmother and me, we’re about excellence in self, one artist sharing their vision among many, inspiring a hundred, hundred copies that change the original work’s presentation and themes in little ways until eventually something great is born again. And it always is. Folks will complain about trends, but that’s just the cycle art works on. But those great works are what Grandmother likes best, yeah? It’s the opposite with the Dawn. I could be rude about it, and it’s not like they disdain quality… Dawn just cares more about the inspired than the inspiration.”
+
+“That sounds contradictory. The Dawning Sun is supposed to be about inspiration, isn’t it?”
+
+Sixiang pouted. “And that’s why this whole language thing needs refinement. Think of it this way. Spin up a revel, get a hundred of us dreamers together, and it's still gonna be a hundred competing artists, all trying to be the best. Maybe there’ll be some teams in there, pairs and trios. But we’ll each be pursuing our own vision. Get a hundred dawners together, and you might have one or two teachers everyone looks to, standouts that’d fit with us. But they’re happier trying to teach than excel. It’s—-”
+
+“Communal,” Ling Qi realized. “I guess it makes sense that I’ve not heard of as many famous Dawn-inspired artists, or that the Hui favored the Dreaming Moon.”
+
+“You’re not wrong. But I think our way is better. Just cause we don’t hold hands doesn’t mean we don’t teach. The Hui were rotten. They’d picked their style and their theme, and they crushed anyone who tried something different, and that’s not right. It’s funny. I think our fail states look the same.”
+
+Ling Qi considered that and gave a small nod. Enforcing an orthodoxy and simply leaving no room or resources for new ideas to grow could both have the same results. At the same time, wasn’t that what society was built on? A set of central shared ideas which punished too much deviation? It seemed like an impossible balance to hold.
+
+“Ugh, since when did the Dreaming Moon get complicated to think about?” Ling Qi sighed theatrically.
+
+“Since you decided you were gonna be more than just a wandering musician,” Sixiang answered. “Dreams don’t come from nowhere. They’re born here in the mud and the muck. They grow up and out and expand, and then, they wither and die too. In the end, you gotta choose which ones you want to encourage.”
+
+“What if I don’t want that kind of responsibility?” Ling Qi grumbled.
+
+“Then stop cultivating,” Sixiang saud tartly. “If you got power, choosing to do nothing is an action too.”
+
+“I know. I’ve learned that much.” It wasn’t so different from what she had already chosen to do with the foreigners and with her dreamwalking. There was a story to tell, a song to compose. Communication, connection, the crossing of gaps. And this was such a small thing really. It was a matter of a handful of people sprinkled across the south of the province.
+
+“Let’s lean into it, shall we?” Ling Qi mused. “I’ll have to double check with Renxiang, but I think it should be fine.”
+
+“Really?” Sixiang asked, tilting their head. “That seems bold to assume.”
+
+Ling Qi nodded slightly, picking up the remaining pages of the letter and scanning through it. “It’s a little strange, but every other province has their pride, don’t they?”
+
+“I dunno about that. Seems most like the ruling family has their pride,” Sixiang disagreed. “But the line on that and the province is pretty thin.”
+
+Ling Qi paused in breaking the seal on the next, a letter from a courtier in the southern Meng lands. “It's hard to tell, but I’m not sure family is the right word for that.”
+
+Thinking of what she knew of the Bai and had picked up from context with Meizhen calling even the White Serpent branch alone a family seemed comically farcical to her. Maybe that was why she was doing this. Something about people choosing to build a connection this way appealed to her.
+
+“Stone for your thoughts?” Sixiang’s frame shrank and blurred, and Ling Qi found them draped over her shoulders, a thin cat with shimmering, multihued fur and a waving tail that trailed off into smoke.
+
+“That’s a new one,” Ling Qi deflected.
+
+“It’s all just bending light,” said the cat, licking a paw. “Gotta practice. No wiggling out.”
+
+“You could just read them if you’d like.”
+
+“Saying stuff out loud helps though,” said Sixiang, peering down at the letter. “Fashion advice, huh?”
+
+“I’m not familiar with the region, and I need to know in order to prepare Hanyi’s dresses for when she performs there,” Ling Qi said distractedly. “What are you asking about anyway?”
+
+Sixiang gave her the sort of unimpressed look that only a cat could manage. “You’re thinking deep thoughts. Spill ‘em.”

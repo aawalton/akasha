@@ -1,0 +1,81 @@
+---
+id: 7bcbb7f8-5023-599e-bc88-66d2405244b6
+page-type-slug: story-chapter-royal-road
+title: "81. Tournament Time"
+slug: 0081-81-tournament-time
+partOf: god-of-trash
+position: 81
+ownLength: 2402
+unit: words
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2293756/81-tournament-time"
+royalRoadId: "2293756"
+---
+
+If the mana-imbued chips had sold, the enlightenment chips sold like hotcakes, absolutely flying off their shop’s shelves. Although they’d targeted the tournament-visitors, by now, the word-of-mouth about their chips had spread throughout all of Purple Dawn Academy. Teachers, students, staff members, it didn’t matter what their rank or Tier was, they all visited Rhys’s stall to find out what all the fuss was about. Most of the higher-Tier teachers gave Rhys and Bast a knowing look, easily seeing through their physical-only disguises, but none of them called the two of them out on it. Whether they approved, thought it was amusing, or merely didn’t want to bother, Rhys was nonetheless grateful for their discretion.
+
+Gold flowed into his and Bast’s pockets. With the enlightenment chips, Rhys could safely raise the price to ten gold without getting anyone to pause or slow their purchases, they were just that addictive. He quickly made back all the gold he’d spent buying oil and salt, and then some. By the end of the week, he had four times the money than he’d made selling herbs to Sorden, and then some.
+
+Anabel’s new robes were absolutely adorable on him and Bast alike. She’d delivered within days of her offer, and Rhys couldn’t be happier to wear the slinky red number with hip slits that she’d built for him, even if he’d had to start wearing leggings so he could pad his figure to fit the look. Bast, on the other hand, had been less pleased.
+
+“You’re kidding me,” Bast said, holding up the robes.
+
+“What? They’re adorable.”
+
+“Sure. I’d love to see them on a woman.”
+
+“Betsy is a woman.”
+
+“Betsy is me in makeup.”
+
+Rhys clicked his tongue. “You just have to think of it differently. She isn’t you. She’s her own person, and she would love those robes.”
+
+“She doesn’t feel like her own person,” Bast grumbled. He looked at the robes one more time, then sighed. “Fine. I’ll wear them.”
+
+“Good. You’ll look great!” Rhys said, with a thumbs up.
+
+Bast glared at him. “This is the last time I go along with one of your stupid plans.”
+
+“You know that’s not true.”
+
+Bast grumbled wordlessly.
+
+He did look great in the robes, whether he wanted to admit it or not. Anabel had built him a midriff-bearing frilly top with a matching pleated miniskirt and petticoat, along with thigh-high stockings and a pair of Mary-Janes. It was a startlingly risqué outfit, given that mages preferred ankle-length robes, but it wasn’t out of the pale, given that adventurers and martial artists often wore shorter and more practical clothes. There was nothing practical about a miniskirt, but Rhys wasn’t about to point that out. He was too busy selling them as the sexy potato chip ladies to worry about that.
+
+They had left cute somewhat behind to go for sexy instead, but now that they were past the initial advertising phase, it was better to change their clothes every now and again so they looked more ‘real’ as opposed to wearing the same robes day in and day out. It wasn’t unheard of for a mage to only wear one pair of robes, but it was rarer for female mages than male mages. He didn’t want them to get outed for only owning one pair of clothes, so it was better to swap between two sets than to simply keep wearing the first set.
+
+As for alternative forms of potatoes, Bast unlocked the secret of using a sword to get a perfect spiral potato cut, and spent his time in the back of the stand carving potatoes into spirals and selling the tornado potatoes. Since they only had mana, they sold at less volume than the chips, but the alternative was that they were attractive and interesting to prospective buyers, and as a consequence, drew people to their stall out of novelty alone. French fries had fallen by the wayside. They sold well, but not better than chips or the tornadoes, and the fact that they had to make them fresh, while they were of little interest to Bast or Rhys, meant that they were low priority as a consequence. If a customer asked for them, they were happy to oblige, but they didn’t go out of their way to make them.
+
+“Rina, if you would?” Anabel took her chips and offered him a folded set of clothes in response. Rhys accepted them gratefully, the same as he had the previous three times. She looked over the outfit she’d handed him yesterday and nodded approvingly. “As I thought, it fits perfectly.”
+
+Bast chuckled in the background, shaking his head at Rhys. Rhys smiled, not really sure why he was the focus of Anabel’s obsession, but happy to get new clothes for free, anyways. These clothes were worthless to him, except to give Rina an ever-changing costume. They were gifted, not thrown away, and his empowered robes were far more defensive than he could possibly make these, even though they were made out of high-value fabric—no, because of that. It was somewhat useless to have a wardrobe of women’s clothes, but who knew? Maybe Rina would have to make another appearance in the future. It was better to be prepared, though he really wasn’t sure what he was preparing for. Infiltrating a female-only school? Was there even a female-only school?
+
+Like this, Rhys and Bast continued to make money, all while the other students finished last-minute preparations for the tournament. The two of them also finalized their own last-minute preparations. Rhys brewed another few impurity potions for the buff and filth-grenade they could provide him, using the high-quality trash and his best techniques to compress down enough impurities that he could ignite a trash star instantly on the battlefield, essentially giving him a mana refill, or, alternatively, spread impurities through his body and ignite them the old-fashioned way to give him a all-over strength boost. Although he used his best techniques, he carefully calibrated the potion to keep it from being so toxic it corroded the crystal glass of an ordinary potion bottle. It meant he’d have to take a slightly larger sip to accumulate enough impurities he could burn them down or fill a trash star with its essential impurities, but he was willing to take that downside.
+
+Drinking filth potions was less good now, compared to the trash stars, because the trash stars gave him more growth, a drop of the pure mana, and an instantaneous boost, but the long burn of the old-fashioned impurity burning would give him more than a single hit’s worth of boost, so it wasn’t worth abandoning entirely. In most situations, the instantaneous all-the-boost-in-one-hit of the trash star would be what he needed, but he wanted to make sure he still had the flexibility to do either, just in case.
+
+He also bought some potions, mana potions, and strength, speed, and spell-boosting potions. There were no downsides to using potions for him, since the impurities only made him stronger, and on top of that, Less is More gave him more boost per potion than most people could draw out. He made a mental note to try creating different types of trash potion in the future, to see if he could draw out the different types of boosts the way people could in ordinary potions, but now wasn’t the time.
+
+Rhys also absorbed a lot of the trash, using it to ignite the trash stars and steadily improve his body and condense his mana. At this point, he’d picked out a lot of the more interesting trash and stored it in his storage ring, replacing the less-valuable and less-interesting trash he’d been storing in it. He still kept that trash, unwilling to let it go, and used it to build a kind of hut in the woods near his potato chip operation. Bast shook his head at him when he saw Rhys building his trash hut, but he said nothing, so Rhys ignored him.
+
+Bast practiced his sword skills and did lots of body-training exercises in between selling chips, including some he did in the back of the stall whenever he wasn’t doing much in the potato chip stand. Rhys continued to absorb his impurities, and the rats’ impurities, which was a big boost for both Rhys, Bast, and the rats.
+
+The rats in Purple Dawn Academy had largely been recruited to his cause at this point. When he went back to his dorm room, he could always find one or two rats waiting for him to extract their impurities. They brought him interesting tidbits, like who Ernesto contacted, and where the Purple Dawn prisons were, but never any news on Straw. Rhys had known it had been a longshot to start out with, so he wasn’t too disappointed. He was fighting mages, after all. There was every chance that the prison where they kept Straw was highly warded so nothing could get in or out—no, in fact, it was more likely than not.
+
+He told the rats to keep him updated on the places they couldn’t go, but since the academy was so large, and there were relatively few rats within the academy, there were lots of places where they either couldn’t enter, or which they’d never been and simply didn’t know about. Some of those were almost certainly not Straw’s prison—for example, the rats let him know that there were rooms in the library they could never enter, and that they’d recently felt it was outright impossible to enter the library. Given that even Infinite Constellation School had had restricted rooms in their library, and given that it was currently occupied by a cat spirit, he chalked that up to Az’s presence and the normal operation of a library. Some places were more interesting, like the spot in the depths of the prison where they couldn’t enter, but since he’d always expected there to be special prisoners in the prison who were so restricted the rats couldn’t easily enter their vicinity, that wasn’t much news, either. Definitely somewhere worth checking on, but not the smoking gun he was hoping to find.
+
+He shared what he found with Bast, who largely agreed with his assessments. Occasionally, Bast frowned, and he shook his head and told Rhys what was actually in the room; as the Sword Saint’s apprentice, he’d often been in the higher-end, warded rooms the rats couldn’t enter, and so he could fill in the pieces of the map the rats couldn’t. Rhys found a map of the Academy in the library and stole it, with Az’s implicit blessing. He annotated it with symbols to indicate whether he knew about the room or not, and whether he considered it a possible hiding place for Straw or not, though he was careful not to use anything that could be easily decoded by others, and kept the map in his storage ring, where no one could access it unless he was dead or indisposed. Even then, he kept it right next to his toxic potions, so if he needed to destroy it, all he had to do was smash things around in his storage ring real quickly.
+
+The day of the tournament arrived. Both Rhys and Bast had matches on day one, so they shut down the stall for the day. Even if both of them were confident, they didn’t want to be distracted on the first day of the tournament, on their very first match. Rhys spent his morning in the trash heap, absorbing enough impurities that he could ignite them at a moment’s notice, but not yet igniting them. He didn’t see Bast all morning, presumably because the man was doing last minute sword practice.
+
+Looking at his storage ring, Rhys’s eyes lingered on the sword he’d found at the bottom of the toxic trash pit, the one gleaming with sunlight. He still hadn’t tried to reforge it, not least because his skills were still inferior. Repairing the furnace and making chip bags had helped a lot, both in his personal understanding of the art and in levelling his skill, but he still wasn’t confident enough to risk the sword to his skills. The sword was trash, right now, but it could be so much more. Besides, he risked throwing away that sunlight glimmer if he failed in the forge. If he kept the sword and used it later, without repairing it, it could still launch one final powerful attack. If he tried to forge it and failed, he lost that chance forever. For now, especially with the tournament and his future on the line, it was better to keep it as an ace in the hole, versus risk trying to fix it with his weak skills and lose it.
+
+The bell sounded. The tournament was about to begin. He drew out his sword hilt and tucked it into his robes, then straightened. He was ready.
+
+It occurred to Rhys, as he walked to the tournament, that all this time, he hadn’t seen the Sword Saint. Was he not present? Then again, with the Empire looming, he wouldn’t be surprised if there were important things he had to do right now. If anything, the fact that he hadn’t seen the man was reassuring.
+
+This whole time, he’d mimicked the merchants and set his stall up at the docks, where the new students arrived. Now, though, the docks stood empty. Instead, it was the walk leading up to the arena where the merchants gathered, and mages milled about, examining the merchant’s wares as they wasted time before the tournament began. Rhys glanced at the place he’d set up his stall, and the sad closed sign dangling from its front. He sighed quietly. The streets were packed full of customers, and a festival attitude filled the air. Today would be a great day to sell chips. Too bad both he and Bast were busy today.
+
+His mind went to a certain quiet girl who’d been tailing them all this time. He pinched his chin. I bet I could get her to sell chips, if I pressured her the right way.
+
+A thought for later. Today, his mind was only on the tournament, and the first battle that awaited him. The arena’s grand opening gaped before him, leading into a packed stadium. Rhys took a final deep breath and stepped inside.

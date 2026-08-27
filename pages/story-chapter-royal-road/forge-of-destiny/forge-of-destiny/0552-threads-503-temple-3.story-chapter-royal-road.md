@@ -1,0 +1,157 @@
+---
+id: d1355ff0-d2c3-5ae5-9884-f9b72ef0e7e6
+page-type-slug: story-chapter-royal-road
+title: "Threads 503-Temple 3"
+slug: 0552-threads-503-temple-3
+partOf: forge-of-destiny
+position: 552
+ownLength: 2138
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3096905/threads-503-temple-3"
+royalRoadId: "3096905"
+---
+
+The procession paraded around the shrines, from the flower bedecked interior of the Mother Moon's shrine to the perfect symmetry of the hall of gates in the Reflecting Moon's sanctum.
+
+The Grinning Moon's shrine was almost spartan enough for her to think it proscribed as well, but open halls and labyrinthine halls that channeled the winds to howling speeds were really all her patron needed. The Bloody Moon’s shrine was a dark tower of tiled roofs, black on red, where a grim-faced priestess in an iron mask daubed blessed blood on the cheeks of the brides, warding away retributions.
+
+The hall of secrets, the shrine of the Hidden Moon, was filled with a darkness that devoured light and dampened sound, even to senses like hers. To mortals, it would have been utterly impenetrable, although then again, this was the cloud district where a mortal could not even breathe unassisted.
+
+To her, the contours of the temple halls appeared as something like lines of white chalk drawn on a board. Likewise, those who surrounded her were outlined in stark, harsh lines, as if they were all existing within an inverted ink painting.
+
+The procession passed through whispering halls filled with the suggestion of towering shelves of tomes and coyly hidden vault doors, until at last they came to the center of the shrine where four bridges crossed over what sounded like a gently lapping pool of unseen water. At its center, the brides vanished, stepping through the unseen doors with the temple's priest to its innermost sanctum where the rites would be performed.
+
+This left the rest of the procession to proceed with their own business, of course. While she did not know when she would receive the last of her suits, simple logic dictated that it would be here.
+
+If the Dreaming Temple had been open, the Meng would have made their case there, among the trappings of the Pure Way. As it was, the Hidden Moon was where the best connection was laid. She was a patron to both Meng Dan and herself, and the Meng were hardly averse to secrets.
+
+“Grandmother still woulda been way better,” Sixiang asserted. “Gonna be all dour and formal here. You coulda done something cute with us, like sharing a drink from the same cup!
+
+Sixiang! Honestly, her spirit was just too shameless.
+
+She had taken up a station by the edge of the pool to wait. If she listened closely, the unseen waters below seemed to whisper soft and breathily, the promise of knowledge lost, but she knew better than to be tempted. Even if the offer was real, going off on an adventure right now would be very rude.
+
+“You're so jittery, you're thinking of doing so,” Sixiang accused.
+
+She was not—not seriously anyway.
+
+In the strange perception of the Hidden Moon's temple, Meng Diu stood out starkly. The inky lines that differentiated her robes and intricate cosmetics was shifting constantly, painting chaotic patterns across her silhouette. And unlike with the other offers, her actual suitor was here as well, walking behind his grandmother, a jittering outline of white strokes.
+
+"Baroness Ling."
+
+"Lady Meng," Ling Qi greeted respectfully, bowing low once again. Sparks of light dripped from the hems of her gown like fireflies before winking out. "It is pleasing to see you still in good health."
+
+"I am not to be worn down by dealing with miscreants," Meng Diu replied. "Your compliment is appreciated."
+
+Meng Dan’s smile was a flashing crescent of white in the dark. "This humble one is here to make a request of you, Lady Ling."
+
+"I do not think you need to be so self-effacing, Sir Meng. Without your integrity, my accomplishments would not have been possible," Ling Qi replied. “Please, Lady Meng, speak as you will. I will always have time to hear your words."
+
+"The baroness is too humble. Without her investigations, a much worse tragedy may not have been averted. It is clear to the Meng clan that we are in your debt," Meng Diu returned.
+
+That brought Ling Qi up short, and from the rippling fluctuations of qi out in the temple's dark, she was not the only one. A public statement of debt to her was very different from a private one. And Meng Diu would not have been able to say it, if she did not have the approval of her brother, the clan's head. Given the precariousness of their situation with the internal traitors, it wasn't totally unexpected, but Ling Qi hadn't expected that degree of public contrition directed at her. She let those thoughts flow out of her head.
+
+"And it is in that vein that I must propose my suit, Lady Ling."
+
+Meng Dan bowed his head, lower than was strictly necessary. "Your decisiveness, your skill, and your bravery are without match. Your beauty leaves this one breathless; your ambitions stir the soul. If you would have this humble scholar, I would gladly join myself to your clan."
+
+Ling Qi made a small noise in the back of her throat. She did not want to call it a squeak, but that was probably the only thing she could call it.
+
+"My grandson shows the air for the theatric that sleeps in the hearts of our clan," Meng Diu commented dryly. "But yes, it is my belief that the Meng clan would benefit greatly from being bound to the foundation of your Ling clan. There is a way forward, and it does not lie in stillness and fading groves."
+
+"I am honored to accept," Ling Qi said, just a little too quickly for her own taste.
+
+“You sound fine,” Sixiang reassured her. “Relax, Qi.”
+
+"Please raise your head, Sir Meng. There is no need to be so effusive with your praise. I am honored to accept your offer."
+
+There were outright whispers this time. She was never quite so glad for the bodily control that came with cultivation, letting her ensure that heat didn't flood her cheeks the way it wanted to.
+
+"Whatever the outcome, the Meng clan is pleased to continue working with you into the future, Baroness," Meng Diu said. She was just the faintest bit amused.
+
+"I will not pretend that I do not prefer one outcome over the other," Meng Dan pressed lightly, straightening up.
+
+"No doubts there," Ling Qi said too casually, only catching Meng Diu's eye afterward as she looked at the two of them with unimpressed eyes, causing both of them to hunch their shoulders.
+
+The ripple of energy from the center of the shrine, and the parting of the curtain of darkness as the Duchess' light reemerged from the inner sanctum of the temple saved her from any further awkwardness.
+
+"My thanks again, Lady Meng. I, too, hope our clans may remain in good stead for long years to come."
+
+That was the last one, at least.
+
+***
+
+Their paths wound through many more temples, each one slowly decreasing in grandeur from the harmonious precision of Immaculate Angles Everlasting and the Jade Archivist's temple workshop to the sharp, barracks-like atmosphere of the great hall of the Unity of Blades where the officers who would lead the nascent Horned Legion were housed. They continued down to the more minor shrines to still-embodied spirits, such as the Patriarch of the South, who commanded the province’s weather courts, or the Strider of Groves, the ancient deer spirit which still blessed the province’s road networks.
+
+They passed through a dozen temples and more as the sun reached its zenith and began to descend. At last, the procession reached its end, dissolving into yet another feast and revel in the palace gardens as it had the night before.
+
+There, Ling Qi rejoined her companions fully, including the widely smiling Meng Dan, as well as her liege, Cai Renxiang, and her new fiancé.
+
+Ling Qi wondered what it said about her, that she was almost disappointed not to see any traces of awkwardness or discomfort between her liege and her fiancé as they stood next to each other. They were neither very far apart nor very close. There wasn't really any tension there as they spoke quietly about the plans after all the ceremonies were done.
+
+She knew Cai Renxiang just didn't have the same hang-ups as her, but it left her feeling like she was the weird one.
+
+“You’re both weird, Qi. Pretty sure Big G over there is the guy you want to look at for normal.”
+
+She almost snorted aloud. “Big G”?
+
+“Perfectly good nickname!”
+
+"Hello, everyone. I apologize for my lateness. I was caught up in talking with some of my correspondents," Ling Qi greeted.
+
+All around them, the scents of the burgeoning feast being laid out on the massive buffet tables across the gardens was beginning to grow mouthwatering. The sun was setting, and the faint faerie lights were rising, being released by the garden attendants to light the darkening sky.
+
+She wasn't lying either. She'd almost found herself mobbed by her penpal network members all but demanding details about the agreements she'd accepted today. It was amusing and mortifying. That was the life she'd stepped into.
+
+"This is hardly a hard appointment," Gan Guangli excused. "And you have had quite a weighty day."
+
+"To which I contributed," Meng Dan contributed cheekily.
+
+"I set no hard appointment," Cai Renxiang agreed.
+
+"You are only performing your role. If you were not answering to the gossips, they would fall upon us," Xia Lin said.
+
+"And how terrible that would be," Ling Qi returned dryly.
+
+"It is good for one to have a member of their retinue who keeps an ear to the ground," Mu Wuye acknowledged. He, at least, was a little awkward, unlike Cai Renxiang, albeit more due to being out of place in an unfamiliar social group than any nerves around the betrothals. "I admit, I had guessed there was potential between Sir Meng and the Baroness, but the rest was surprising.”
+
+"I am somewhat inexplicably popular," Ling Qi said self-deprecatingly.
+
+"It is not inexplicable at all," Meng Dan rebutted. "I was already aware that the challenge was a harsh one."
+
+Mu Wuye looked mystified by their words.
+
+"Meng Dan and I had conversed on it already. The real surprise is you, Gan Guangli. I had no idea your contacts in the Jia clan had borne such fruit," she probed.
+
+He rubbed the back of his head, his bright smile taking on a more awkward edge. "Aha, there have been some talks, but I had not imagined they would put forward a proposal until a short time ago."
+
+"Is it someone you know?" Ling Qi pressed.
+
+"I am familiar with her," Cai Renxiang answered. "She is a highly placed member of the Argent Peaks core sect. It is quite the honorable offer."
+
+Wasn't there a commander who had been too reckless in ordering Cai Renxiang and other inner disciples forward during a mission in the inner sect? Seemed more like a show of contrition then, but from a comital clan, even those could be forceful.
+
+"A consequence of surrounding yourself with mostly lower ranking individuals, meaning no offense," Mu Wuye analyzed. "The great clans will have their due, though. They will begin at one remove if they cannot be direct in inserting influence."
+
+"They are," Cai Renxiang acknowledged.
+
+"My presence gives them hope they can be direct yet," Meng Dan said.
+
+"Xia Lin, you will need to watch out. Only you remain," Ling Qi teased.
+
+Xia Lin was unbothered. "My aunt fields all such external requests for the Xia clan. It has a way of deflecting most attempts."
+
+There was a moment of awkward silence as they worked out whether Xia Lin was joking. She was not.
+
+"I had heard that your Heron General is known to be a meticulous manager, but truly, all of them? Personally?" Mu Wuye asked incredulously.
+
+"My aunt has a clear vision for the clan's direction." Xia Lin shrugged. "Any marriage in or out must match it."
+
+Cai Renxiang nodded, as if that were entirely reasonable, and Ling Qi supposed, from a purely legal standpoint, it was. The leeway to determine matches was ultimately something that clan heads, matriarchs, and patriarchs usually delegated, but that was just custom.
+
+“I take it back. You're weird. You're all weird,” Sixiang joked.
+
+It was relaxing to spend time with her friends, now that the day was past. Celebrations would continue for the remainder of the week, but the grand ceremonies were all winding down.
+
+They remained together for the night. Going off with just Meng Dan a second time might really give people the wrong idea, and besides, she was worn down on that kind of atmosphere. And so, as the sun sank, they spoke, they feasted, and ultimately, they parted as dark night overtook the palace.

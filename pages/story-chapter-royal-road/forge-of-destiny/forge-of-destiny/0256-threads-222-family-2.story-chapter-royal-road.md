@@ -1,0 +1,195 @@
+---
+id: 9277b9ea-d7d6-51f3-b23b-b226b1a84f0f
+page-type-slug: story-chapter-royal-road
+title: "Threads 222-Family 2"
+slug: 0256-threads-222-family-2
+partOf: forge-of-destiny
+position: 256
+ownLength: 2563
+unit: words
+publishedAt: 2022-06-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/924189/threads-222-family-2"
+royalRoadId: "924189"
+---
+
+Renxiang’s hand moved toward the bell as Cai Tienli cried.
+
+“Cai Renxiang, do you want a sister?”
+
+Her liege didn’t answer, but she also didn’t touch the bell. In the absence of heated voices, the baby’s cries began to die down as well.
+
+“Do you know what the root of corruption is, Ling Qi?”
+
+“Greed, I suppose.” Ling Qi crossed her arms. She had an inkling of what was going to be said.
+
+“Avarice plays its part.” Cai Renxiang lowered her hand into the crib, and the baby grasped at her fingers, the last of her cries trailing off into gurgling curiosity. “But no, family is the root of corruption. A man pays an examiner to grade his son kindly. A woman speaks to her sister in the Ministry of Law and has a child’s indiscretion swept under the rug. A man and his brother look out for one another and quash all competition for their positions. For some, it is pure greed. But for most, it is the desire to put their family ahead.”
+
+Ling Qi frowned, stepping up beside her liege. “Is that truly corruption though? That’s just people working as they do. Of course you want to help people you care about.”
+
+Her breath caught in her throat as she caught a flash of light out of the corner of her eye like a knife blade ghosting against her throat. The ringing chimes turned, innocently glittering in the dim light.
+
+“It is, and that is the reason why corruption can never be truly stamped out. You may cut the branches, fell the trunk, and burn the leaves, but the root remains. It begins with little things, but it grows and grows. This is, I think you are right to say, being human. One who aspires to rule cannot have this. To rule with such personal biases is an abrogation of the responsibilities of my position.”
+
+Ling Qi changed tacks. “The Scholar Kong often compares the ruler to the head of household; their responsibilities and duties are much the same. Reciprocal obligation is the root of good rulership, as much as personal virtue.”
+
+For a moment, her liege actually smiled. It was a thin, brief thing. “Your memorization has improved, Ling Qi. But I do not think the scholar’s words make your point. In your conception, his wisdom is most certainly designed around what you call clan.”
+
+“You can find wisdom in a work even if you don’t agree with the author.” Ling Qi huffed.
+
+“What is the obligation of a sibling, Ling Qi, in your own words?” Cai Renxiang asked.
+
+“You offer them affection, tutelage, and protection,” Ling Qi said, thinking of Biyu. “You help them avoid your own troubles.”
+
+Cai Renxiang watched the baby in the crib. “I am known as cold and impersonal, and my duties will demand distance and travel. What affection can I offer? I am a mere young mistress, whatever my title. What tutelage can I, who can not even fully comprehend Mother’s arts, give which would exceed what my mother will arrange?” She paused, and then continued before Ling Qi could respond. “And of the things which could threaten a daughter of the Cai, what protection can I offer?”
+
+Ling Qi swallowed. Whatever she was going to say was silenced by those whisper quiet words. Her mind filled with a child screaming and eyes of glass in an artificial face, so unsettling like her liege’s. She had no retort. None that would not stick in her own throat as a lie.
+
+“You are not cold. And I do not think distance is truly so great an obstacle.”
+
+Cai Renxiang didn’t answer.
+
+“Renxiang,” Ling Qi continued insistently, “you haven’t answered my question.”
+
+“I do not know, Ling Qi. I do not even know how to evaluate that question. It is irrelevant. What I want cannot be what I do. The Emerald Seas is more important than Cai Renxiang. That is what it means to rule well. I cannot act against that.”
+
+Ling Qi felt a twinge of sadness. “I advised you once before that you do no one any good if you break yourself.”
+
+“And I have heard you, my advisor,” Cai Renxiang said, straightening up. Her fingers escaped the baby's grasp. “But I will not stumble over the line from maintenance into indulgence. I understand and accept your point of view, but the responsibility I have been born to and that Tienli has been born to is heavier than what you bear, even now.”
+
+Renxiang spoke with poise and conviction, but Ling Qi was not fooled. She was hurting herself, even if she was wholly sincere.
+
+Cai Renxiang backed up a step from the crib and formally bowed her head. “Your elder sister greets you, Cai Tienli. May you bring much pride to the Cai clan in the future.”
+
+Cai Tienli let out a wet hiccup, her head turning to follow Cai Renxiang with an infant's incomprehension.
+
+“Come, Ling Qi. I have done my duty.” Cai Renxiang swept past her toward the door.
+
+“Yes, Lady Cai.”
+
+***
+
+The rail under her forearms was warm, heated by the formations. The noise of the tournament grounds was a buffer against her thoughts.
+
+The rest of the previous evening had been spent in a whirlwind of minor meetings and politicking, supporting her liege as they worked to drum up more than lukewarm acceptance of their task. It had felt more tiring than usual, mostly because of the question in the back of her thoughts.
+
+Where did one stand when they knew they couldn’t fulfill their duty to their family?
+
+She winced as a body went sprawling in the tournament grounds below. Gun Jun had been knocked from his feet for the eighth time. Lu Feng tossed him about like a child, and there was little he could do. Even Ling Qi felt some sympathy as the young man rose shakily to his feet despite the obvious tremors. She suspected he had fractured something on that last throw.
+
+“He should yield,” Lao Keung said from beside her. “There is no honor in hurling yourself face first into a wall.”
+
+“I do not know about that. In battle, certainly, but this is a tournament. Showing persistence has its virtues.”
+
+“Showing pride.” The young man beside her snorted.
+
+“Pride is the luxury of the strong. But who is it who wishes to admit being weak?”
+
+“A living man,” Lao Keung retorted.
+
+“I admit some sympathy to both points,” Bai Meizhen interjected from the seating behind them. “It is somewhat distasteful to give the Sun so much opportunity to gloat, but to admit loss is difficult.”
+
+“But unavoidable in the end,” Cai Renxiang concluded.
+
+There was a thunderous crash from the arena. Lu Feng had grown bored and finished the match with a single strike, sending Gan Guangli’s friend crashing through the trunks of the trees they had been battling amidst with a contemptuous flick of his wrist. It made the whole battle more sour that he likely could have done so at any time instead of toying with the younger disciple.
+
+“I, for one, admire his resilience,” Xia Anxi said, casting a careful look at Meizhen. “As the lady says, pride is not something to be so easily cast aside.”
+
+Lao Keung grunted.
+
+Below, the false environment dissolved, and Lu Feng bowed toward the crowds, or rather, the box where Sun Liling and the other visitors from the Western Territories were seated. Leaving the arena, he passed Gan Guangli. There was an exchange, but Ling Qi couldn’t hear it.
+
+“The next match is your peer against the girl from the ruined clan, isn’t it?” Lao Keung asked.
+
+“Yes. Chu Song. I faced her myself last year.”
+
+“If our hosts will forgive the question, what crime did the Chu clan commit?”
+
+“Refusal of a full county census and accounting of military assets,” Cai Renxiang answered. “And assault on a provincial official. The inspector sent to perform the census returned without his tongue or eyes. Later, treason when they refused the second order.”
+
+“Such bold defiance. I cannot imagine how they thought such a thing would end for them.” A subtle sneer curled Meizhen’s lips.
+
+In the arena below, Gan Guangli and Chu Song squared up.
+
+“The consensus is that they believed that Her Grace’s hold on the province was weak despite all her personal might and that the other counts were merely waiting to be rallied against her reforms,” Cai Renxiang said.
+
+“After all, if one duke had been cast down, what protected this one?” Lao Keung asked rhetorically. He earned a sharp look from Xia Anxi.
+
+Meizhen smiled thinly. “It is natural that new strength will be tested. And it is just as natural that those who overestimate themselves will be crushed.”
+
+“That is the way of the world,” Lao Keung agreed. “Still, a shameful waste. The elders of Chu were truly blind fools.”
+
+“Is it a waste? Such weasels would have always been poised to bite the neck of the province if left unmolested,” Xia Anxi said haughtily. “Better that they be fools than wise.”
+
+“True. What of this one then?” Lao Keung asked Ling Qi. “You punished her for defiance the year before, and your fellow retainer is poised to do so now. When do you believe it will be enough?”
+
+“Even now, for all her pain, she lives above all but a few in the province. She has been allowed into the Inner Sect on the back of her talent. I do not think it is fair to say that she is still being punished by anyone but herself.”
+
+“An interesting perspective. Yes, I suppose from the dust, even a hut must seem like a manor.”
+
+Ling Qi glanced his way. He looked pensive.
+
+Below, the match was beginning.
+
+“You seem like you have thought a great deal on this subject,” Ling Qi said.
+
+In the arena, the illusory environment began to take shape. A great rushing river hundreds of meters across flowed through a sharp canyon cleft between two mountains. Islands of stone dotted the rushing waters, and it was there on the slick stone that the combatants appeared.
+
+“When does retribution become enough?”
+
+Lao Keung didn’t answer at first, watching the opening moves below. Chu Song was speaking, her frame tense and angry. Gan Guangli stood in a defensive stance, his expression solemn, listening. It was annoying to not know what they were saying. With a thought, she prodded Sixiang for help. She wouldn’t catch everything this way, but such were the limitations of the third realm.
+
+“Nothing to say, big man? Not gonna proclaim that you’ll crush the villain?” Chu Song scoffed.
+
+“I do not see a villain before me,” Gan Guangli returned calmly.
+
+“I view it as a matter of cost,” Lao Keung said. “All things have a value. So, too, with grudges and crimes, as well as punishment and retribution. Once a cost is paid, it should be paid and done. You call one who keeps demanding payment again and again forever a swindler, do you not?”
+
+Ling Qi thought of Tonghou and the people who had dogged her mother when she started receiving funds from Ling Qi. “Not a bad thought. The trouble comes in determining value.”
+
+“That it does,” he said agreeably.
+
+In the arena, Chu Song’s expression twisted. “I don’t want your damn pity!”
+
+“You have it nonetheless.”
+
+Chu Song’s footsteps kicked up spray as she dashed across the surface of the river, a cyclone of wind screaming around her blade. Gan Guangli shifted his stance, sliding a foot back as he thrust an open palm forward. Water and shattered stone erupted where they met, hiding the combatants from view, if only for a moment.
+
+“I’m surprised to hear so mercantile a thought from a Bai,” Ling Qi commented.
+
+“Mercantile? Perhaps it sounds that way. I think of it as a soldier's outlook,” Lao Keung replied.
+
+“How so?”
+
+“Have you ever heard the saying ‘a wise general spends his soldiers’ lives like precious jade’?” he asked, continuing at her nod. “It is true. We are, all of us, the resources of our superiors. We will be spent as they deem necessary. A good superior is one who spends well.”
+
+“You will destroy yourself trying to bring back a past no one but you longs for!” Gan Guangli’s voice boomed from the debris cloud. “This is the exact mistake that the old Chu made!”
+
+Light flashed, and the cloud of mist and dust blew apart. A greatsword flashed a dozen times, meeting open palms that swelled larger with each passing moment until at last the oar-sized blade met the palm with a ring and Gan Guangli’s gauntleted hand closed around it.
+
+“Not one who spends not at all?” Ling Qi cocked her head to the side. They spoke quietly, and their respective lieges spoke with each other, granting the appearance of privacy with simple screening.
+
+“You can’t live life without advancing and expending effort. This has costs,” Lao Keung said. “I do not wish for a superior who dithers and refuses to progress out of misguided sentiment any more than one who throws away their jade because they do not care for its value.”
+
+“Stagnation is death.”
+
+“Yes, although it is important to remember your own upkeep.”
+
+Chu Song was not swift enough to let go of her sword. Gan Guangli’s immense strength yanked her closer, and an open palm as wide as a wagon's wheel battered her once, twice, and then thrice, sending her crashing into the cliff. Stones rumbled and slid downward, rock and dirt crashing into the river.
+
+“And how does that relate to your thoughts on retribution?” Ling Qi asked, leaning further over the rail.
+
+“I suppose that I have ambitions to be spent on something that matters, rather than vanity. And I cannot call punishment that continues beyond the perpetrators’ generation anything but.”
+
+She saw him casting a glance back, but Meizhen did no more than give him a brief look before continuing her conversation with Cai Renxiang. Xia Anxi looked distinctly nervous at the way her conversation with Lao Keung was going.
+
+Stones shattered, flying up and away as Chu Song stood, armor battered and dented. A long, thin blade of green jade shot out and met a golden palm in a shower of rainbow sparks.
+
+“Who are you to say that? No one! You’re just another dog sniffing around for scraps!” Chu Song howled at Gan Guangli.
+
+“Perhaps I am no one,” Gan Guangli thundered. “But I once lived in the former Chu lands. There is no one who mourns that old clan! There are no grandfathers who tell wistful tales of better days. The Jia are not perfect, but we are better and improving with the passing years. No one wishes to go back!”
+
+Fists and blades of wind broke the air with ringing thunder. A tremendous fist crushed the girl back against the cliff side, and the giant standing knee-deep in the river kneeled. The fist wavered, and Ling Qi glimpsed Chu Song, buried in stone and gravel, weakly holding it back with her hands.
+
+“Look to the dawning sun and future days, Chu Song, and think of building anew, not of criminals dead before you had ever drawn breath. You are not a villain yet.”
+
+The fist crashed down again.

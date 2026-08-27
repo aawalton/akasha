@@ -1,0 +1,155 @@
+---
+id: 93075e44-cf6e-5cc6-a133-41d85f9d4b18
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Three: Suspect"
+slug: 0106-chapter-one-hundred-three-suspect
+partOf: flesh-eater-demon-evolution-litrpg
+position: 106
+ownLength: 2488
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3642491/chapter-one-hundred-three-suspect"
+royalRoadId: "3642491"
+---
+
+“Drop your weapon!” the guard in front yelled. His face was covered by a helmet, but based on his stance and tense shoulders, he looked fully prepared to charge into the alleyway the second the demon so much as twitched.
+
+Pyre took a second to consider her options. There were more and more guards and people alike gathering on the street, forming a dense cluster just outside the alleyway entrance. If she wanted to, she was pretty confident she could fight through them and escape—especially if she used her flesh warping.
+
+What would that accomplish, though? She’d be gone, but the city would definitely put out an alert on her. Doubly so if she revealed that she was a demon.
+
+She could always shapeshift into a different form so no one recognized her, but they’d passed by a ton of people on the way here. People would eventually connect her back to Llyr, Daphne, and Callan.
+
+They’d probably have to flee the city, which wasn’t ideal for multiple reasons. Daphne still hadn’t gotten healed, for one, and now that the tattooed guy had basically confirmed that one of her soul pieces (or at least something similar) was in this city, it’d be a lot harder to search with every guard on the lookout for them.
+
+So, fighting and escaping were probably out. The aftermath would be too messy. The other option, then, was to go along with the guards and try to explain the situation. If she just said that the guy was one of the ones disappearing people, that’d probably grant her a fair bit of leniency.
+
+Of course, she’d need to convince them that that was the case, but she had to start somewhere.
+
+With this in mind, Pyre slowly set her axe down onto the ground and raised her arms placatingly. It didn’t seem to do much to appease the guards, who remained tense.
+
+Too bad she couldn’t pull off Callan’s kicked puppy look. That would probably be pretty helpful right about now. Instead, she settled for a blank, neutral expression.
+
+“Step out of the alley,” the guard commanded. The demon did just that, keeping her steps slow and steady to avoid spooking them.
+
+As she approached the street proper, she could now see that a ring of onlookers had formed around the entrance of the alleyway. Additional guards kept them from getting too close, forming a small open area at the front. Several people whispered amongst themselves, and some of the spectators—probably the ones with perception and advanced sight skills—looked queasy.
+
+All of them watched her with suspicion.
+
+As Pyre stepped forward, the guards followed her every movement. The moment she was out of the alleyway proper, she had six different weapons pointed at her from all sides. She just leveled a steady gaze at the guard in front of her, which only seemed to make them even more wary. Well. At least she tried.
+
+“Medics!” the guard from before called. Off to the side, a group of people who’d been waiting at the ready rushed into the alleyway, a stretcher in tow.
+
+Pyre could see them hurrying to move the now-unconscious man onto the stretcher, one person quickly tying a cord just above the wound while another pressed a towel to the stump where his arm had once been. The cloth was bled through almost immediately.
+
+Another medic whispered a spell, and a faint glowing circle appeared above the stump. The bleeding slowed a little, but it was nothing compared to the kind of healing she’d seen Llyr pull on that kid. Considering how much blood the guy had already lost, this wouldn’t do much.
+
+The medics seemed to realize this too, as they hurried to carry him out of the alleyway. Several people gasped and backed away when the full extent of the injury was revealed, though a cloth had been placed over his shoulder to hide the worst of the wound.
+
+“He’s lost too much blood!” one of the medics was saying. Someone muttered another spell, keeping their palms raised over the man’s shoulder. Another one mentioned calling for more healers. Throughout the medics’ back-and-forth, the guards’ weapons remained trained on Pyre.
+
+“For the record,” the demon said, “that guy’s the one who’s been kidnapping people.” She paused. “One of the ones,” she amended.
+
+The guards shoved their weapons closer, the tip of one of the blades ghosting over her chest. She raised an eyebrow. “I’m serious,” she continued. “He tried to grab a friend of mine a few nights ago.”
+
+She jerked her head at the alleyway, where the severed arm had been wrapped in a cloth by one of the medics and momentarily set aside while the more pressing issues were dealt with. “That arm’s got a spell tattoo on it. He uses it to teleport away after he grabs people.”
+
+“You are to remain silent,” the guard from before barked, the wariness still obvious in his eyes as he took in the demon’s stature and blood-stained clothes. It figured that no one would want to hear her out right now. With the way things were going, she probably wouldn’t be able to avoid being detained for questioning, at the bare minimum.
+
+“Step aside!” a voice to the side suddenly called out. Pyre turned her head just enough to see some of the guards gesturing for the gathered crowd to clear a path.
+
+Down the street, even more guards were arriving on the scene, which seemed a little excessive to the demon. Behind them, she spotted a sleek, ornate carriage that looked awfully familiar.
+
+She raised an eyebrow when the vehicle came to a stop a little ways back. She waited, but no one stepped out. Either she was wrong about who that was and multiple nobles owned the same carriage design (which frankly wouldn’t surprise her), or the person inside was content with watching from afar.
+
+The demon didn’t get a chance to try and peer inside, though, because in that moment, a woman in armor strode forward through the parted crowd.
+
+She was wearing the same general uniform as the other guards, but with a few more details and decorative elements. It was clear from the way the other guards immediately bowed their heads that she was some kind of commanding officer. Her pale, practically white hair was pulled back in a long braid, and she definitely held herself like someone used to being in charge.
+
+Pyre mentally found herself comparing the woman to Edna. She was a bit younger (around Pyre’s physical age), and her demeanor didn’t seem as icy or rigid as the garrison sergeant’s. The assured set of their shoulders was the same, though.
+
+“Report,” the woman said calmly once she came to a stop in front of the alleyway. The guard from before saluted.
+
+“Knight Captain Agnes, we received multiple reports from witnesses spotting two figures who appeared to be mid-chase roaming across the city.” He nodded at Pyre, then at the unconscious man still being tended to by the medics. “We found them confronting each other in the alleyway. As you can see, the suspect severed the victim’s arm off.”
+
+The guard—knight, apparently, Pyre mentally corrected—turned and gave the demon an assessing look. She didn’t look as immediately hostile as the others had been, but that was probably because she hadn’t seen “the incident” herself. She hummed contemplatively and turned back to the guard-knight. Probably a knight. Pyre assumed that that was what they were called in Galen.
+
+“Has a motive been identified yet? What caused the fight?”
+
+The first knight floundered slightly. “He—She,” he corrected after a second glance back at Pyre, “claims that this man is responsible for the disappearances in the Outer Ring.”
+
+Agnes turned questioningly to Pyre at that. The demon jerked her head at the man.
+
+“This guy attacked someone I know a few nights ago,” she explained again. “He managed to get away, and he drew the tattoo he saw on the kidnapper. I happened to see the dude in the square and recognized the tattoo, so I followed him.” She shrugged. “He got aggressive when I tried questioning him, so I fought back,” the demon said smoothly.
+
+Technically, the story was mostly true. It was just edited slightly to minimize her own contributions.
+
+“Why did you not contact the knights?” Agnes asked. She didn’t seem to be immediately discounting her words, which was a good sign.
+
+In response, Pyre risked moving enough to tap her arm. The knights surrounding her tensed at that, but they didn’t attack. Probably held at bay by their captain’s presence. That, and their immediate fight-nerves were probably starting to calm a bit now that the suddenness of the situation was settling.
+
+“When he attacked my buddy, he used that tattoo to escape. It’s got some kind of teleportation spell on it. I figured if I let him go, he’d just teleport away again. He was trying to in the alley, so I stopped him,” she said simply.
+
+Agnes frowned at that, and some of the other knights exchanged looks. They still looked wary, but there was the tiniest trace of hesitance now, too.
+
+“Bring the arm over,” Agnes instructed. One of the other knights hurried to grab it, carefully handing it over to the captain. She didn’t hesitate to pull away the bloody cloth wrapped around it, inspecting the tattoo below critically. Pyre heard someone in the crowd vomit when they saw the severed limb, but the knight ignored them.
+
+“These do seem to be teleportation runes,” she said thoughtfully. She eyed Pyre, expression unreadable. “You’re aware of how suspicious this looks, right?”
+
+The demon figured the knight wasn’t actually looking for an answer, so she stayed silent. Agnes hummed.
+
+“What’s your name? Address? Occupation?” The questions came rapid-fire, and Pyre stopped to consider the best way to answer. She probably wouldn’t be able to get away with lying (not when a cross-check would out her immediately), but being a random traveler certainly wouldn’t help on the suspicion front.
+
+Before she could open her mouth to respond, though, a familiar voice rang out above the buzz of the crowd.
+
+“She’s with me.”
+
+The sea of spectators parted slightly as a familiar mage strode to the front. Daphne looked the picture of noble grace, head held high, fiery red hair flaring behind her. Pyre could see Callan following behind as well, though in contrast to Daphne’s easy confidence, he seemed significantly more uneasy about the amount of eyes on them.
+
+Frankly, the ghost looked like he wanted to tear his hair out. Wide green eyes met Pyre’s, practically screaming, “What the fuck did you do?” He faltered, however, when his gaze landed on the man still unconscious on the stretcher. Recognition flashed across his face.
+
+Daphne, meanwhile, came to a stop in front of Captain Agnes, not the least bit bothered by the attention. She was carrying a new bag, the demon noted, suggesting that they’d finished buying their magic components. Which meant Llyr should also be around.
+
+As if on cue, the healer stepped into view as well. The murmurs that had begun at Daphne’s appearance crescendoed into a roar, damn near the whole crowd recognizing him.
+
+Llyr didn’t give Pyre a second glance, simply striding over to the stretcher. The medics’ shoulders slumped in relief when they saw him. Right away, they began speaking rapid-fire, exchanging information while Llyr stepped up to the unconscious man.
+
+It looked like the healer wasn’t making his connection to them known—at least not immediately. The three magic-users had probably discussed this before bursting onto the scene. Right now, it looked like he’d just happened to be passing by and stopped to help the medics.
+
+The demon decided to trust whatever plan they’d concocted and turned away from Llyr. They were much better at handling this sort of thing than she was, anyway.
+
+“This is Pyre,” Daphne introduced. Her voice was clear and unwavering. “She works as my guard. She’s currently accompanying me while I visit the city.”
+
+Agnes gave Daphne a long look. “And you are…?”
+
+In response, the noble reached into her bag and pulled out a metal badge of some sort. A crest was engraved into it, one Pyre remembered seeing in the Bellhein manor. The metal shone brightly in the sunlight, and a red gem glowed slightly in the center.
+
+The knight captain frowned, studying the emblem closely. “That’s the Bellhein crest, correct? The Bellheins of Auren?”
+
+Daphne nodded, looking relieved that the woman had recognized it. It probably wasn’t a guarantee outside of Auren, though a knight would theoretically know more noble families than the average person.
+
+“It is,” she confirmed. She put the crest away and executed a perfect curtsey. “My name is Daphne Bellhein. I apologize for the trouble my guard has caused. I’m happy to pay for any damages or fines owed.”
+
+Agnes raised an eyebrow. “It’s a little more than just fines, my lady. Your guard was seen attempting to murder a Serindell citizen.”
+
+“I’m aware of how this appears,” Daphne said smoothly, “and we’re happy to participate in any questioning you deem necessary. However, as I believe Pyre told you, I want to stress that my guard was attempting to apprehend a criminal.”
+
+The noble gestured at Callan, who froze at all the eyes suddenly on him. “Callan is my servant and Pyre’s little brother. He’s the one who was attacked by this man two nights ago.”
+
+Pyre’s eyebrows rose slightly at the return of the “little brother” cover, but she realized Daphne was most likely trying to make them look as sympathetic as possible. Going a little too far to protect a family member was probably easier to digest.
+
+Agnes studied Callan, who shifted his weight nervously under the knight’s scrutiny. “Is this true? Did this man attack you?”
+
+The ghost swallowed, but he turned to the unconscious man. His eyes roamed over him, taking in his face, stature, and the tattoos on the severed arm. His eyebrows furrowed like he was seriously wracking his memory, which he probably was. He nodded slowly.
+
+“Yeah,” he finally said, frowning. “Yeah, that’s definitely him.”
+
+Agnes hummed thoughtfully at that. Her eyes moved between the trio, pausing briefly on Llyr still helping the medics, then shifting back to them. She didn’t look completely convinced, but she did seem more inclined to believe them than before. Having the words of a noble backing you up did wonders, it seemed.
+
+“Captain Agnes, are you seriously entertaining this nonsense?”
+
+Pyre turned just in time to see the crowd part as if by magic. Through the new walkway that had formed, a familiar tall figure strode forward. Behind him, someone shut the door of the carriage she’d spotted earlier.
+
+It looked like she hadn’t recognized it wrong, after all.
+
+Lord Alardice soon came to a stop in front of them.

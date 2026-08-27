@@ -1,0 +1,133 @@
+---
+id: 74279c3b-166f-5108-bd12-14344117ae72
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 8"
+slug: 0016-threads-chapter-8
+partOf: forge-of-destiny
+position: 16
+ownLength: 2494
+unit: words
+publishedAt: 2020-11-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/582214/threads-chapter-8"
+royalRoadId: "582214"
+---
+
+Ling Qi’s thoughts raced. Neither of these people were real; that much was obvious. So what mattered more here was what she wanted from the dream. She couldn’t be sure, but the brooding moon overhead made this seem like some kind of test. What would the Bloody Moon be looking for?
+
+It was frustrating, so frustrating that she had so little information to base her decision on. Her first instinct was just to retreat and seek some context, but that didn’t feel right. Hadn’t she learned the need to be decisive?
+
+Ling Qi couldn’t quite put her finger on it, but something about the prince set her on edge. There was a certain desperation and anger in the prince’s demeanor. Going by his swift movements, he wasn’t being held here against his will. He obviously wanted this fight, or he could have escaped by now. That wasn’t really enough for her to side against him; it wasn’t as if she weren’t aware of the stubborn pride cultivators could have.
+
+It was enough to make her hesitate though, and in that moment of hesitation, she saw the prince’s back as he spun to avoid a swing of the tree spirit’s fist. There, embroidered upon the back of his robe, was an image she recognized from the history books. It was the sigil of the Weilu clan, a yin and yang symbol with a sun and moon replacing the usual dots. However, the sigil was defaced with the stitching depicting the moon hurriedly torn out and stitched over with some archaic character that she couldn’t read.
+
+Well, she thought, glancing up at the sullen red crescent in the sky, that made things a little easier. Even if this wasn’t really about the Bloody Moon, she could hardly be expected to side against her patron, right?
+
+Ling Qi sank into the shadow of the tree she was perched on. Becoming a shadow always felt strange. The sense of formlessness and dislocation and her senses fading to a sharp monochrome had been disorienting at first, but she was well used to the technique now. Of course, she was only distracting herself from her next action; there was only one way to signal Shen Hu without sacrificing the advantage of her stealth.
+
+Despite knowing that this scene before her was essentially a historical play told through illusion, albeit one that she and Shen Hu could participate in, Ling Qi couldn’t help but feel uneasy at her plan to actually attack another human - a potential forefather of Imperial citizens... Hopefully, he would be sensible enough to retreat once it became clear he was outnumbered. There was no way someone of such apparent high status would lack an escape talisman.
+
+Yes, Ling Qi thought as she sank into the prince’s shadow, no more substantial than a wraith, they would drive him off, and then she could interrogate the tree spirit to find out what was going on. To that end, she would have to do enough damage to spook him. Ling Qi felt the chill of a frozen winter spread through her insubstantial form.
+
+A chill wind blew, and a circle of frost spread from the shadow where Ling Qi hid. The young man’s eyes widened, but it was too late. The frozen notes of the Hoarfrost Caress rang out as Ling Qi resolved back into her physical form, flute raised. The icy qi crashed down over him. IThe horned prince was immediately sheathed in viridian light, qi like the bark of a millenial tree absorbing the baleful frost of her technique before shattering into shards of dissolving light.
+
+He spun in a blur, the head of his spear blazing like a comet, and struck. Ling Qi barely recognized the attack before the point struck her dead in the center of the chest with a muffled boom of displaced air…
+
+Only to skitter harmlessly to the side with a shriek like a thousand axe blades digging into the core of an ancient tree. The prince’s eyes widened, first in confusion and then in building outrage, but as Ling Qi began to ghost backward, light steps carrying her back out of the range of his spear, a fist the size of his torso slammed into his side and sent him flying to crash against one of the massive trees that lined the clearing.
+
+To his credit, the prince landed on his feet as he fell from the crater in the ancient bark. The right side of his robe was wet with blood where the thorny spikes on the tree spirit’s fist had dug into his side.
+
+“Miserable assassin,” he hissed. “Did your elders pluck that art from the corpses of my brothers?”
+
+Ling Qi hesitated at the look in his eyes, a mix of pain and hate in his gaze even as she let the chill of her Grinning Crescent Dancer technique spread through her meridians. His attention was forced from her as the tree spirit let out a bellow and the ground upon which he stood was engulfed in a gout ofashy flames.
+
+“You!” the prince shouted as he bounded from the branch he had leapt to to avoid the flames. Lanhua’s heavy stride made it clear who he was speaking to. “Hold the assassin-!”
+
+Whatever he was going to say next was interrupted by a volley of jagged black crystals that tore through his robe and drew flares of green qi where they sliced across skin. The prince crashed to the ground heavily, driven back by the barrage, once again thrown off-balance. “Why?!” he cried.
+
+The prince rolled to the side to avoid spearing roots that rose from beneath his feet, but Ling Qi was already waiting for him. Bad feeling or not, they were committed now. She flickered into existence behind the prince, leaving him encircled by the three of them, and the fires burning nearby died as she played her song once again, forcing the prince to expend the power of his own Deepwood Vitality technique.
+
+The roaring tree spirit closed to melee range, Shen Hu joining the assault as he charged from Lanhua, who was sinking into the earth. The prince parried the attacks with unearthly speed, the whole of his spear aglow and leaving afterimages in its wake as he was driven back by pounding fists and flashing claws.
+
+Even against two opponents though, the prince wasn’t helpless. With skill that Ling Qi suspected even Sun Liling would envy, spinning parries became strikes that hit with the force of a heavenly bolt, ripping wide furrows in the tree spirit’s bark and sending up clouds of ashen sawdust. The wounds wept boiling sap, and more than once, Ling Qi had to avoid their spray as she danced around the perimeter of the battle, striking with cold and frost wherever there was an opening.
+
+Why wasn’t he escaping? Ling Qi restrained herself from unleashing her mist; she didn’t want to trap him. But the prince continued to fight, striking out against the tree spirit almost exclusively, despite the venomous glances she caught thrown her way when the tides of battle allowed their eyes to meet.
+
+As the battle dragged on and the ground beneath their feet turned into a slurry of sucking mud, slowing the prince still further, Ling Qi considered whether she should use her mist anyway. Using Hoarfrost Caress so many times was a drain on her qi reserves, and no doubt she would still be required to use more.
+
+However, as she considered changing melodies, she felt something on the edge of her senses approaching at an unhurried pace. It was a presence that had a terrible weight to it, a thing of baying hounds and bloodied silver spears borne under the moon. But for all that the qi she felt was incredibly potent, comparable to Zeqing at least, it still felt truncated, as if the greater part of it were missing somehow.
+
+It was obvious that the others felt it too. The tree spirit let out a guffaw of delight, and the prince went pale under the ash now streaking his face. “No…” he breathed out.
+
+“Ho, not ready to face the King, Oathbreaker? You will suffer the fate of traitors!” the burning tree gloated.
+
+“That murderer is no king!” the prince snarled, slamming the butt of his spear into Shen Hu’s chest, splattering mud in every direction as he skidded back. A patch of burning brambles erupted from the fertile mud beneath his feet, and his blurring spear carved them to pieces. She saw the prince tense, wind qi gathering in his legs, and their eyes met. She could have hit him then, perhaps interrupted his escape technique, but she did not. A windstorm erupted, and Ling Qi shielded her eyes as the gale that burst forth extinguished fires all around them and drove them all back.
+
+When she next opened her eyes, the prince was gone.
+
+“So he fled. Pointless,” the tree spirit rumbled before turning his attention to them. “That was foolish. But Vengeance-of-Burning-Grove thanks you nonetheless.” The tree seemed unbothered by the massive wounds scouring its limbs and torso.
+
+Shen Hu gave her a sidelong look, indicating that he had questions for her, but he bowed respectfully to the tree spirit. “I’m just a humble guard, your lordship,” he said. “Just following Miss Ling’s lead.”
+
+Her eyebrow twitched. That was true, but also, it was kind of unfair to dump all the responsibility on her, wasn’t it?
+
+Ling Qi pasted on a smile as the tree spirit turned to her with a look of thoughtful examination. “I had been on a journey through the southern mountains and returned to find this battle. Sir Vengeance, I could not aid one who would deface his clan’s sigil so. Please tell me what is happening.”
+
+Lying on the spot like this was a skill she had grown rusty in, unneeded as it had been for most of the last year, but thankfully, the tree seemed to believe her. She couldn’t ask Sixiang for help since Sixiang’s voice was now a muffled buzz; it sounded like they were arguing with someone. Also, that presence was still approaching, although at a strangely slow speed as if its source were merely on a casual stroll.
+
+“There is no need to honor this old husk,” the tree rumbled. “Vengeance-of-Burning-Grove was born only days ago and shall be gone before the next cycle of the moon. The traitors sought to destroy these woods and deny them to their foes. My purpose is only to ensure that they pay for that attempt.”
+
+Ling Qi shared a look with Shen Hu as the faint sound of baying hounds reached her ears. “What caused their betrayal?” she asked delicately.
+
+“Human matters,” the tree answered shortly. “The traitor sought to break old ties, and with the old Patriarch’s death, his meddling is no longer tolerated. Too long have we suffered for the Oathbreakers’ gain. They refused to kneel, and so the King will bring them to heel.”
+
+“Right,” Ling Qi said uncomfortably. That seemed simple enough, but…
+
+“You may wish to get hence, little shadow,” Vengeance-of-Burning-Grove said, not unkindly. “Aided me you have, but to meet the King of the Forest under the light of the red moon is a dangerous thing.”
+
+“Thank you for your kind advice,” Ling Qi replied, looking to Shen Hu and gesturing for him to follow her. They retreated a fair distance, and the tree spirit turned away, looking toward the source of the unsettling aura.
+
+“Why were you holding back?” Shen Hu asked once they were out of easy earshot. A thought from Ling Qi kicked up the wind in such a way that their voices would not carry far.
+
+“I was second-guessing myself,” Ling Qi admitted. “I sided with the tree because I saw the defaced sigil and figured we should side against traitors, right?”
+
+“Sounds right,” Shen Hu agreed.
+
+“It’s just - I don’t know when we are, so I don’t know who is right. Maybe the traitors win, and we’re actually fighting the people we should be siding with.” Ling Qi didn’t voice her more emotive concerns, but going by the uneasy look Shen Hu gave to the north where the “King’s” continued approach was snuffing out flames in a widening circle of inky darkness, she didn’t need to.
+
+“This is confusing,” Shen Hu complained, glancing down as the mud at his feet began to bubble. “It’s just a dream, right? Like those illusion formations the elders use for tests.”
+
+“Yeah,” Ling Qi answered. “Problem is, we don’t know what the test wants.”
+
+Shen Hu was silent. “I don’t know if you were wrong to make the choice you did, and I don’t know how to figure it out. Maybe it’s like you said, and we have it backwards. But I think there’s something we can do to keep it simple.”
+
+“Oh? What’s that?” Ling Qi asked.
+
+“We see if there are any settlements around,” Shen Hu replied, gesturing to the battle-torn forest. “All of this fighting - if there are people around, they gotta be scared out of their minds. And besides, anyone attacking civilians is obviously the bad guy, right?”
+
+“... and if there aren’t?” Ling Qi asked, dubious. “No one lives here in the future.”
+
+He frowned. “Then I guess we just ask that King guy what he wants us to do. We already sided with him by helping the tree.”
+
+Ling Qi sighed. They did have pretty limited options. Dropping her screen of wind, she called out to the tree spirit. “Vengeance-of-Burning-Grove! Are there any human settlements nearby?”
+
+Creaking and crackling, the tree spirit turned to look at her. “South of here, there is a stream. Follow it, and you will find a nest.”
+
+She glanced at Shen Hu, who shrugged. “You know where I’m going then. Guys like me don’t have any business with this high up stuff.”
+
+“I’m going to stay here,” Ling Qi decided.
+
+She felt uneasy about her choice, separating from Shen Hu in this dream and staying to meet the frightening presence that approached.
+
+“You sure?” Shen Hu asked without judgement.
+
+“I am. I might not be there yet… but dealing with the ‘high up stuff’ is going to be part of my job some day,” Ling Qi said dryly. “Can I talk you into staying?”
+
+“No,” he replied, shaking his head. “It’d be pointless. I can’t do anything here.”
+
+Ling Qi huffed, feeling put out. “Some bodyguard you are.”
+
+Shen Hu looked at her in confusion. “That was a lie though,” he said, befuddled. “You’re probably stronger than me anyway, and if this meeting turns violent, neither of us can do anything against that.” He gestured in the direction of the advancing darkness.
+
+“That’s fair,” Ling Qi acknowledged. “Good luck.”
+
+“You, too,” Shen Hu said before turning away to begin heading south, quickly sinking into the bubbling mud pool at his feet.

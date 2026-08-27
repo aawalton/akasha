@@ -1,0 +1,139 @@
+---
+id: c533db84-df1b-5f11-bcc6-7e4984106041
+page-type-slug: story-chapter-royal-road
+title: "Threads 278-Sea of Dreams 2"
+slug: 0316-threads-278-sea-of-dreams-2
+partOf: forge-of-destiny
+position: 316
+ownLength: 1784
+unit: words
+publishedAt: 2023-01-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1095083/threads-278-sea-of-dreams-2"
+royalRoadId: "1095083"
+---
+
+“I think going downward through the tunnel will be the safer trip.”
+
+“I wouldn’t call any of this safe,” Sixiang said dubiously.
+
+“I said ‘safer,’ not safe. The storm above is wilder. I worry that we might get lost in it.”
+
+“We party hard,” Kongyou quipped. “Think you’re a match for the shadows, but not the sky?”
+
+“I’m confident I can keep my head around the kind of pain I see below,” Ling Qi shot back. Cold and desolate, the tunnel below oozed a crushing melancholy. It was dark and final, not the burning madness she felt from the other side of the mountain peak.
+
+“The harsh storm and the windless calm both have their dangers.” Xuan Shi gave a slow shrug as he peered into the dark mouth of the tunnel. “This one does not much like the flame.”
+
+“We’re decided then. Unless you have something to say, Zhengui?”
+
+Her little brother peered past her, looking distrustfully at the vista ahead.
+
+“I, Zhen, do not like any of this, but I will protect Big Sister no matter what in the dark or in the sky.”
+
+She acknowledged him by lowering her head. She really did worry the ones closest to her, didn’t she? There were some parts of her character that she could not and would not change though. The open, endless blue sky was not her home—she loved the nest too much—but she would never stop flying.
+
+There were no more words to be said. They advanced.
+
+The bridge of ice she sang into existence arced downward, descending past the ash-choked mountain peak onto the winding switchback road of baked brick and stone which led into the yawning maw of the mine.
+
+And it was a mine.
+
+Abandoned tools lay strewn about in the dusty soil marked with blood. The pale supports of the mineshaft were no wood either, lacking any grain, but fused masses of human bones. The air ached of sorrow and endings and lives spent under uncaring eyes.
+
+“Conquest,” Xuan Shi identified as they entered the darkness. Zhengui was the last one swallowed up by it, his eyes and the smoldering heat between his serpent scales casting the only light within. “A great and terrible spirit’s realm to tread upon the edges of.”
+
+Kongyou sighed happily. “Foundational. One of the first. The great tragedy repeated forever and ever without end. Do you understand what you want to do, Shi? How… futile it is.”
+
+Ling Qi remained silent as they walked, her effort focused on maintaining herself and the cold distance which kept these hungry walls from closing in. She diligently ignored the numberless whispers of misery that clawed at the edges of her mind.
+
+“Oh, come off it,” Sixiang retorted. “This stuff is old, and yeah, we’re half made from it, but it's not all there is. This isn’t inevitable.”
+
+Garbled images bloomed in Ling Qi’s mind. Burning homes from shacks and yurts to great manors and grand traveling pavilions. Death raining from the sky, and death marching on the earth.
+
+“No, you come off it,” Kongyou shot back. “We’re the beginning and the end. We always have been. When two people meet, one subjugates the other until only one dream is left. That’s us. Humanity’s dream.”
+
+“It doesn’t have to be that way,” she found herself speaking in sync with Sixiang.
+
+“Tch, you think you’re the first person who has thought of talking?” Kongyou hissed, contempt dripping off their words. “It doesn’t change the ending. People die. Maybe you remember them a little, living on in a food dish or a funny hat. They’re dead just the same.”
+
+They walked. In the dark, men and women bearing hill tribe tattoos toiled in silence, their hands raw, their backs bent. Down in the dark, song and art and language died.
+
+The Elder Huisheng had said that a cultivator could not kill an idea with a blade. Much crueler weapons were needed than that. Maybe there had been some virtue remaining to the old Weilu, that they had not been able to deploy such weapons.
+
+“Hah! You’ve even got friends, don’tcha, who know better. That chick in the wolfskin robe, Alingge, and the good little soldier, Xia Lin, their cultures are shrinking, withering, and dying just the same. It’s taking longer, sure, but boy, did that metal lady speed up the process!”
+
+Tribes died. Towns died. People died under arrows or blades, under lashes and chains, or under laws and boots. It was so very hard to keep it all out as she grimly kept the mine shaft they traveled down only that. Faces appeared and were pushed back into the walls, and desperate hands scraped at their ankles before the force of her will forced them back into the floor.wanting to live and breathe and be free. She struggled to stop the despairing earth from closing in, crushing them all in darkness.
+
+But she would not give up herself or any of her companions to this nightmare.
+
+“Kongyou,” Xuan Shi interrupted harshly. “There were five shoals once.”
+
+“Aw, c’mon, Shi,” Kongyou whined. “You know that doesn’t change my point. Sure, sure, five peoples united, yadda yadda, but now, there’s one. One lived, and four died and gave the one some pretty bits to decorate themselves with, and that makes you. Well, most of ya anyway. And that’s not even getting into the two who didn’t join the singalong.”
+
+“When many come together, it is not death.The heretic shoals were ended, and the five live, even as we grow beyond.”
+
+“The end comes when you stop growing, Gui thinks. That is this, this breaking and burning until not even the seeds are left. Saying this is the same as something growing until it doesn’t look like the thing it started as is dumb.”
+
+Ling Qi glanced back, surprised to hear Zhengui speak. She thought he was on to the right idea though. When a group focused all their efforts toward preservation, for whatever reasons, good or bad, it was all but an admission that they were dying already.
+
+Endings were constant but not absolute. Change and creation necessitated Ending.
+
+“You’re right that the cycle of conquest keeps repeating,” Ling Qi began. She fixed her eyes on the far distant dot of light that was the exit of the tunnel. Perceived distance meant nothing. Only by fixing the goal in her mind could she keep it true.
+
+The faces of the ones in chains being broken changed with every step. Sometimes, they wore hill tribe tattoos. Sometimes, they wore cloud tribe garb. And sometimes, they wore ragged imperial and Weilu dress.
+
+The hill tribes had been conquered. And when the cloud tribes burnt and raided and enslaved, the Empire had exterminated whole tribes in retaliation. A dozen endings for a dozen tribes, and far more to come.“But it isn’t inevitable,” she concluded. “It’s just people doing as they want, not some Great Law.”
+
+“Not sure what you think the difference is,” Kongyou said, amused.
+
+There were very few Laws that were not made by men that could not be changed. Whatever else she thought of Cai Shenhua, her being was proof of that.
+
+“That’s the trouble with you nightmares,” Sixiang drawled. “You don’t have any imagination. You’re always the same junk on repeat forever.”
+
+“It is natural that fear should stand hand in hand with stagnation,” Xuan Shi mused. “Those who insist that there cannot be change are those who live the most well from the state of affairs. But you do not live well, companion.”
+
+“Ick, you sappy boy,” Kongyou complained. “I’m not gonna be saved by you. ‘Cause there’s nothing wrong with me in the first place!”
+
+Xuan Shi nodded agreeably.
+
+“You still won’t acknowledge it, huh? That this partnership of ours is win-win for me. Either you ruin yourself trying or you give up, and either way, you break yourself. I get my feed either way.”
+
+“As you like,” Xuan Shi said placidly.
+
+Ling Qi furrowed her brow. “Why is this attempt to change Kongyou so important to you?”
+
+“This one must see if words are only words or if the nature of a thing may truly change.” Xuan Shi panned his eyes around them, looking into the nightmarish scenes she was holding back. “This one must know if mine words earlier are but wind. Is this truth? Is this the only outcome which may come from contact between the tribes of men?”
+
+Kongyou chuckled. “And you love me as a confidant and friend for being there at your lowest.”
+
+“Though it was partially a deception, there is value in how our partnership began.”
+
+“It was all deception, you sad man,” Kongyou said fondly.
+
+Irritated at the nightmare spirit putting Xuan Shi down, Ling Qi accused, “Why do you speak like this is your origin? You want tragedy, but that takes more forms than this.”
+
+“It sure does, but why do you think I was born where I was?” Kongyou asked impishly. “I and a million, million of my siblings began to be born the moment you delved deep. Don’t you remember? I got my first feeding that day.”
+
+The jumble of memories from her first uncontrolled visit to dream were fuzzy.
+
+“That ith-ia died in misery and failure, lost in an alien nightmare, knowing that you would carry forth their secrets and bring death to his kin.” Kongyou tittered. “And you did! You have! You will!”
+
+But Ling Qi did remember that the nightmare had said they found just as much sustenance in their enemy’s failure as theirs.
+
+“There’ve been too many attacks. We can’t just let this conflict go at this point. And they wouldn’t let us, by every indication,” Ling Qi said.
+
+“Oh, I know. It’s far too late for anyone to stop this war.” Kongyou laughed. “That’s what makes the inevitable result so… tragic.”
+
+Ling Qi really did not like the nightmare.
+
+“Ling Qi,” Sixiang hissed. “Quit arguing with the jerk! You’re getting distracted. There’s—”
+
+Ling Qi snapped to attention and immediately felt the subtle reverberation in the dream. It was a moment of peace, the endless whispers of despair fading away. It was the waves pulling back from the shore, the calm before the storm. An omen of ruin.
+
+“—something big coming,” Sixiang finished in time with her thoughts.
+
+Ling Qi sucked in a breath, flickering closer to the middle of the group. “Sorry,” she said shortly. “This is about to become uncomfortable.”
+
+Ling Qi took hold of her qi, spinning wind and dream and ice altogether.
+
+They stood in a closing vault, and she would not miss escaping the shutting of the doors because no one could catch her if she tried.

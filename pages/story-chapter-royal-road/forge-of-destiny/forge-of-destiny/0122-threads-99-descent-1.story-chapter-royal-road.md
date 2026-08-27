@@ -1,0 +1,117 @@
+---
+id: 0c7f7c12-f902-5598-a4c1-4a4c46da151c
+page-type-slug: story-chapter-royal-road
+title: "Threads 99-Descent 1"
+slug: 0122-threads-99-descent-1
+partOf: forge-of-destiny
+position: 122
+ownLength: 2336
+unit: words
+publishedAt: 2021-06-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/705052/threads-99-descent-1"
+royalRoadId: "705052"
+---
+
+The caverns had changed.
+
+The crevice which Li Suyin and Ling Qi had descended had been widened into a veritable canyon, cutting through the still recovering wilderness. Around it, a guard post had been raised, which bristled with soldiery and weaponry leveled downward. The path beneath the earth had been widened, flattened, and shaped into a thoroughfare.
+
+And hundreds of meters beneath the earth, a forward base had been carved.
+
+Ling Qi glanced at the fluted pillar of metal and bone which marked the camp’s edge. It was as tall as she and gleamed dully in the light of the lanterns and torches. Holes marking its length let out a faint hissing sound, and she could feel the currents of wind swirling around it as it spewed fresh clean air into the noxious cavern. It was only one of many lining the cavern that had been carved out. So this was the fruit of Li Suyin’s elder-assisted labors.
+
+The cavern thronged with activity, soldiers and disciples moving swiftly about on various tasks, moving supplies, raising barricades, and assembling weapons emplacements and fortifications at the tunnel entrances. Off to one side, Ling Qi saw the hulking corpse of one of the beetles she and Suyin had faced before being butchered and disassembled by disciples in bloody smocks with cleavers and saws.
+
+On the mountain peaks, it was easy to forget, but here, it was made clear. The Sect was planning war. Stepping past the checkpoint which led to the surface, Ling Qi wove her way through the crowd. Although she did her best to avoid disrupting others’ movements, there was no need to hide her nature as she did in the sect town. Each step was a flickering movement, carrying her further than a single human stride could match, moving between spaces too narrow for a human form to pass. The echo of her music caused shoulders to imperceptibly straighten and fatigue to fade.
+
+Even if she didn’t know their faces, these were allies against the enemies that had threatened her family.
+
+It did not take long to cross the cavern like that, and soon, Ling Qi approached the command tent. A veritable pavilion of black and silver silk, she would have thought it ostentatious and out of place if it didn’t burn in her spiritual senses, a blazing star that bristled with the promise of swift, unyielding death. Even as she stepped through those defenses unhindered, it felt like a thousand blades grazed her skin and a thousand eyes scrutinized her form.
+
+Inside, she found the pavilion occupied by a wide round table surrounded by camp chairs. A number of large maps, each seemingly depicting a different elevation, lay across the table. Ink brushes danced across the surface, drawing out new tunnels in real time and detailing the cave system. At the far end of the table lay a map that was still mostly empty.
+
+Naturally, she was not alone.
+
+Su Ling was seated in the chair furthest from the door. Her arms were crossed, her shoulders hunched and her vulpine ears laid straight back against the side of her head. She wasn’t so much broadcasting her discomfort as screaming it. Su Ling had acquired actual armor, a thick padded vest of black stained leather, as well as bracers and greaves lacquered in earthy tones.
+
+A few seats down, Xuan Shi sat straight-backed in his chair, his hands on the table. His high collared robes were dark green, almost black, and seemed even stiffer than last she had seen. If she had to guess, his robes had been inset with armored plates. He had a new hat as well with the usual turtle shell pattern, but little silver bells gleaming with earthen qi hung from the brim.
+
+Beside him was her first surprise. Bian Ya, her one time tutor, leaned casually on the table, dressed in a pale green gown. It was plainer than her usual fare, but the silk rippled like liquid, drawing the eye into hypnotic patterns. Her hair was done up elaborately, woven through golden ornaments. She was smiling at Xuan Shi, who seemed to be all but squirming under her attention, while Su Ling shot dirty looks at her.
+
+“Oh, Ling Qi. I had heard you would be joining us. Welcome,” Bian Ya said to her as the tent flap fell closed behind her.
+
+“Senior Sister Bian,” Ling Qi greeted, offering a short bow. “I had not heard you were coming. You were already deployed last I heard.”
+
+The older girl’s cheerful smile grew brittle. “My skills are in quite high demand. I will be serving as our communications officer to ensure that we all remain in contact.”
+
+“How reassuring,” Ling Qi replied with a smile. She even meant it. Another disciple at the fifth stage of green was very welcome in her mind. “I suppose you’re already familiar with Xuan Shi and my friend Su Ling?”
+
+“Of course, though we have not had a chance to speak much.” Bian Ya tittered. “Such stoic sorts.”
+
+A quiet growl escaped Su Ling’s throat, but she glanced at Ling Qi and forced herself to relax. “I just don’t see the point in small talk. This is a job, not a party.”
+
+“This one has intended no offense,” Xuan Shi said stiffly.
+
+“We’re not here to have fun, but it is important to be familiar with your squadmates,” Ling Qi placated as she circled the table, taking a seat between Su Ling and Xuan Shi. “It doesn’t do any good to be too tense before the mission even starts.”
+
+“Well said, Junior Sister,” Bian Ya said. “If I have come across as too overbearing, please accept my apologies.”
+
+“A divided crew makes for a poorly steered ship,” Xuan Shi acknowledged. “I, as well, hope that we may…”
+
+The tent flap rustled, and Ji Rong stepped through. Ji Rong had not changed much in appearance since she had seen him last. His shaggy hair was maybe a little longer, and he had grown a little taller, his profile a little more filled out. He had picked up a new scar, deep claw marks that ran across his chest from collarbone down to disappear beneath his half-open shirt. His clothing was still simple, a dark brown tunic and trousers with only a bit of gold thread at the sleeves and collar to break it up. The only splash of color was a golden sash cinched around his waist.
+
+Ji Rong glowered at them in the beat of silence that followed. “Sup,” he grunted, giving them a jerky nod. His expression hardened when it fell upon Xuan Shi, and he sneered.
+
+Xuan Shi fell silent, staring back. “Greetings, Sect Brother,” he returned, and Ling Qi didn’t miss the undercurrent of distaste in his voice.
+
+“Feh,” Ji Rong scoffed, ambling over to drop into a chair opposite the rest of them.
+
+For a minute, the room fell into an awkward silence. Su Ling glared at everyone, Xuan Shi and Ji Rong continued to stare at one another, and even Bian Ya seemed moderately taken back. Thankfully, the moment did not last long.
+
+The tent flap fluttered open, and all the tension was crushed under the churning, oppressive presence that fell over the room like a death shroud.
+
+Elder Sima Jiao was, in her experience, an irreverent, lackadaisical man prone to bickering and pettiness. There was no sign of that in the man who had just entered the room. He still wore his loud and gaudy robes, bright and eye-searing magenta this time, but the expression on his face was certainly not humorous. His ash-grey face was cold, and his eyes pinned each of them in place for a moment. Beneath their chairs, Ling Qi could feel their shadows writhing with awareness and eyes that rose and swelled and popped like the bubbles in boiling water.
+
+It was almost enough to make her miss the two that entered behind him. On one side was Guan Zhi, her expression grim and her arms folded behind her back. She wore a form-fitting vest of glittering azure scales that left her muscular arms bare and similarly fitting trousers and armored knee-high boots. On the other side was Liao Zhu, who, despite the situation, gave her a roguish wink. He looked much the same, but as her eye fell upon his right arm, which seemed to have been miraculously regrown, her eyes caught a faint silvery shimmer.
+
+<He’s real close with that cousin of mine, it seems,> Sixiang spoke up quietly. <I dunno if I could be a limb for you, even if I could manifest.>
+
+Ling Qi could only nod faintly, and in her dantian, she felt Zhengui and Hanyi stir. She had driven them hard yesterday, and they were both getting their rest before the expedition started.
+
+Elder Jiao gestured, his sleeve billowing in an unseen wind, and Guan Zhi and Liao Zhu separated, taking seats. He remained standing. Elder Jiao seemed so much taller somehow in the dim interior of the command tent.
+
+“I should hope that I do not need to tell you how serious this matter is,” he began. His voice was cold and clipped, devoid of humor. “Each of you has been carefully considered for a position in this squad. Each of you has abilities which are of great import to this mission, enough so to override other concerns.”
+
+Ling Qi dipped her head as his gaze passed over her, as did everyone else. Even Ji Rong, haughty as he was, didn't try to maintain eye contact with the elder.
+
+“We know unfortunately little about these enemies, only that the deepest parts of the world are difficult, but not impossible, to penetrate for those of us further along the path. But it is difficult enough that it would be foolish and wasteful to place ourselves at such a disadvantage against potential peers.”
+
+That raised Ling Qi’s eyebrows, but it made sense. One of those… things had helped to kill Elder Zhou.
+
+“All is toxic below, and the greater a cultivator’s cultivation, the greater the toxicity to them. When you descend beyond this strata, it will become impossible for even you in the third realm to recover qi naturally. You will be supplied with medicines to maintain your stamina, but you will need to conserve your energies,” Elder Jiao continued bluntly. “Battle techniques which drain an opponent's qi may offer some function, but do not rely upon them.”
+
+“Does our enemy operate under similar limitations, Elder Jiao?” Ling Qi asked.
+
+“Likely. Regardless, the use of higher energies is nigh impossible to hide in the vaults below, else I would do this myself. The first of your objectives is to enable me to do so.” The elder raised his arm and turned over his hand, revealing a handful of what looked like tiny black specks. On closer look, she saw that they were the husks of spiders, jerking with unnatural life. “These constructs are the fruit of the last two months of development. Each one is capable of holding a sliver of my perception for a time without being damaged by ambient energies or revealing myself. You are to descend into the enemy’s settlements and spread them wherever you may.”
+
+“What’re those of us who aren’t sneaks supposed to do then?” Ji Rong asked warily. “We just backup?”
+
+Elder Jiao smiled thinly. “You are back up, yes. You are also required for the second objective. Once you have placed the spy constructs, you are to find an appropriate target among the enemy and test their response to attack. Disciple Guan will be the one to draw the most attention, but you will all be required to make this seem a legitimate attack.”
+
+Ling Qi bit her lip. Starting a fight in the middle of enemy territory seemed…
+
+“You will, naturally, be supplied with an escape talisman.” Elder Jiao’s words cut off her thoughts. “While such things would normally fail due to the twisted space in the deep, I have made this myself. As such, you will only need to wait two minutes from activation for it to calibrate. It will be in Disciple Guan’s possession. Obviously, do not make use of it unless you will be overwhelmed. Retreat normally if possible.”
+
+“I am honored by your confidence, Elder Jiao,” Guan Zhi said. She looked at the rest of them then. “I shall be relying upon you all. I will need to keep my own exertions to the minimum until the first objective is complete.”
+
+“Indeed,” Elder Jiao said sourly. “We suspect that the effects of the toxin will grow worse as you delve deeper. It is possible that the corrosive effect will increase until every technique used drains your energies at twice or more the usual rate. However, we need to test the matter. This is also your responsibility.”
+
+“Elder Jiao, I assume we are only one part of this plan?” Bian Ya asked carefully. “It would not be much of a false attack with only one squad.”
+
+“Yes. You will signal us when you are about to begin. We have several other squads organized to strike at the enemy’s own forward fortifications,” Elder Jiao replied. “We plan to begin harrying them shortly after you take your leave. It will be Disciple Su’s task to provide you with the intelligence to avoid their upward movements. Disciples Guan and Liao will explain further details. I need to put the finishing touches on your equipment.”
+
+With that, the elder swept out, leaving them alone in the tent.
+
+“We will begin the final briefing in half an hour. Take the next thirty minutes to prepare yourselves. If you require a refreshment, there are rations in the next room. We will not be taking any foodstuffs save for water below. Until then,” Guan Zhi said, standing from her seat, “please speak among yourselves. Do not leave the pavilion.”
+
+With a final nod, Guan Zhi turned her attention to the maps laying upon the table.

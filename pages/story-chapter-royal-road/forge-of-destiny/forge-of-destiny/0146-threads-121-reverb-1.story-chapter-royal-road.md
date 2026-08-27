@@ -1,0 +1,119 @@
+---
+id: 6146c4a9-58ff-5a24-a1c0-cae438ef19eb
+page-type-slug: story-chapter-royal-road
+title: "Threads 121-Reverb 1"
+slug: 0146-threads-121-reverb-1
+partOf: forge-of-destiny
+position: 146
+ownLength: 1680
+unit: words
+publishedAt: 2021-08-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/736626/threads-121-reverb-1"
+royalRoadId: "736626"
+---
+
+With the end of the month looming, Ling Qi soon turned her attention to one last art. Ephemeral Night’s Memory was a subtle little art and not something she had made great use of since she had begun cultivating it earlier this year. It was an art for muddling and snatching fragments of memory, enabling the user to more easily sneak around and avoid leaving traces. She had mostly used it as a combat trick to disorient an enemy right before striking by making them forget her position.
+
+Compared to the likes of the Laughing Flight of the Wind Thief, she found its cultivation incredibly simple compared to the other art, mastering its remaining lessons in a very short time. Ling Qi found herself pondering its lessons as she worked out the last flaws in her usage. She knew very well that memory was a tricky thing, something people could rewrite to avoid facing contradictions. She had done it herself, unconsciously, in blowing up her mother’s stress and lessons into something they were not to reinforce her justification for leaving home. No, memory was not always reliable at all, even before considering arts like this. False memory could easily supplant reality.
+
+Ling Qi let out a breath and opened her eyes.
+
+Memory could be tricky, but that simply meant that it needed to be guarded well. That was all. Ephemeral Night’s Memory was a step in that direction.
+
+“Memories degrade and change, and there’s nothing wrong with that,” Sixiang said. The air beside Ling Qi shimmered, and the ghostly outline of the muse, wearing robes of glittering moonlight, appeared.
+
+“You would know,” Ling Qi acknowledged. She had swam in the memories that made up Sixiang. They were fragmented things, wisps of sensation and experience without logic or coherence. Only the most recent memories, those of their most recent incarnation, were anything clear. “I’ve already accepted the truth of impermanence. Something like this isn’t going to bother me.”
+
+“I wonder how much you have. Acknowledging the ending, the big capital E one, is one thing, but it’s so far away.” Sixiang leaned back to look up at the stars. “You certainly didn’t accept my Ending. I’m thankful for that, even if I think you’re silly for looking at it that way.”
+
+Ling Qi didn’t reply. She knew Endings. It was the light going out of a man’s eyes as frost crept over them. It was a bead of colorless radiance on the end of a saber and howling missiles of spiralling wind. It was winter in the streets where the unlucky never saw another spring. It was that glimpse of lightless, heatless nothing which Zeqing had given her.
+
+Her teacher had been right. She was not really ready yet to contemplate the full truth of the End. Even understanding implicitly that it would come, she didn’t want it to. “I couldn’t just let you be lazy and drift off,” Ling Qi said lightly. “You’ve put a lot of work into this incarnation. It’d be a shame to waste it.”
+
+Sixiang gave her an amused look. “I guess. I doubt the next one will be as interesting either.”
+
+For a time, they sat in silence under the moon.
+
+“Time has been flying, huh?” Sixiang mused. “Seems like this month has passed by so quickly. Almost time for another tournament in the Outer Sect.”
+
+Ling Qi nodded. “In a few months. At least this year, I might not come across as completely out of my depth,” Ling Qi said wryly. The practice she had gotten with the sect’s disciples this year would hopefully serve her well with the noble visitors Cai Renxiang would no doubt expect her to mingle with.
+
+“You’ll be fine,” Sixiang encouraged. “Worried about the match you have coming up?”
+
+“Not really,” Ling Qi denied, letting her eyes drift back shut. In the end, it was only an exhibition match. She wanted to win, but faced with the reality of the barbarians under their feet and in the skies and of the politics she was becoming aware of, it seemed so small a thing.
+
+“That’s a little arrogant, isn’t it?” Sixiang questioned, letting their bare legs dangle from the rooftop. “At least take it seriously.”
+
+“I will,” Ling Qi reassured. She would definitely give the fight her all. After all, that was the polite thing to do, and she had come far in terms of politeness. Even if she didn’t like him much, Ji Rong was still a peer, and in the end, they were on the same side, whatever rivalry their patrons had within the Empire.
+
+***​
+
+“I shall be disappointed in you if you lose,” Bai Meizhen said from behind her.
+
+Ling Qi met her friend's eyes in the mirror as the girl finished arranging the pins in her hair. “I’m starting to think that you’re more invested in this duel than I am,” Ling Qi said dryly.
+
+Bai Meizhen gave her a disdainful look as she stepped away. “You are too lackadaisical.”
+
+Ling Qi stuck out her tongue. Bai Meizhen scrunched up her face in disgust.
+
+Ling Qi stood, laughing under her breath, and Bai Meizhen let out an amused huff.
+
+She eyed herself in the mirror. Everything about her image was in place. Her hair was done up with only a few thin streamers hanging down her back. She had adjusted her mantle, going for a lighter, gauzier blue silk than the usual low hanging “wings.” Pale white lace shrouded her hands in voluminous sleeves.
+
+It didn’t look too bad, she thought. And that did matter because in some ways, this was a show. They would be fighting in one of the bigger training fields, and there would be quite an audience given that the two of them were both ducal representatives in a way.
+
+The Sect was at war. Their duel would be overseen by a core disciple on medical leave, rather than an elder. It had occurred to her that the duel might not even get sanctioned in the first place, but it seemed that the Sect still had an interest in maintaining normality.
+
+“Let’s get going. We don’t want to give them any reason to complain,” Ling Qi said, heading for the door. Bai Meizhen nodded her assent.
+
+Outside the preparation room, three people waited. Her spirits, Zhengui and Hanyi, were there, and Bao Qingling as well, although she stood well off to the side.
+
+“You look pretty, Big Sis,” Hanyi said from her seat on Zhengui’s shell. “Can we wreck this jerk now, so I can get back to work?”
+
+“Be polite,” she chided. Hanyi’s drive hadn’t disappeared. It was only stoked by the news that Bao Qian was closing in on a deal for a performance. They had been given a date for next month.
+
+“Hanyi should not be so pushy,” Gui scoffed.
+
+“I, Zhen, am ready to win though,” Zhen insisted.
+
+Bao Qingling only glanced at them as Meizhen paced to her side. There was a subtle awkwardness there, like a clockwork missing a gear.
+
+<I want to follow them,> Sixiang whispered. <Can I follow them?>
+
+No spying, Ling Qi thought back, keeping her expression even.
+
+Sixiang grumbled.
+
+“I will leave you to it, Ling Qi,” Bai Meizhen said. Looking up at Bao Qingling, Meizhen continued, “You secured our seats?”
+
+“Yes,” the taller girl grunted. “Lower seating, east side.”
+
+Ling Qi gave Bai Meizhen and her… friend a nod, and they split up, Ling Qi heading for the field and they, to the audience. Zhengui trundled along behind her with a confident stride.
+
+She emerged onto the field and into a buzz of noise. At the four corners of the combat field were four familiar structures, gem-set pillars like those that marked the tournament arenas. These weren’t as advanced; they would only contain the fight and warp space a little, making the battlefield larger within the perimeter, but the need for their presence still spoke to her recent growth.
+
+And her opponent’s, she supposed.
+
+Ji Rong stood on the far side of the field, his arms crossed. His foot tapped impatiently against the hard packed dirt of the field, but his scarred features were set in concentration. His Spirit, Relong, hovered in midair, his looping coils a miniature of the gargantuan beast that even now loomed over the Sect.
+
+<How come you never ogled at this one?> Sixiang thought curiously. <He’s not bad looking. He even does that open shirt thing that makes you get all fidgety around Ruan Shen.>
+
+<Not my type at all,> Ling Qi thought back silently. She might have taken steps to leave it behind, but in the end, Ji Rong was too close a reminder of unpleasant memories.
+
+“I never got a chance to say thanks for getting us out of there,” Ji Rong said gruffly as she took her place.
+
+“I have had a full schedule,” Ling Qi said neutrally. Zhengui came to a stop behind her, and Hanyi stood up, doing her best to match Ling Qi’s pose.
+
+“Yeah, you have,” Ji Rong said. His lips quirked into a self-deprecating smirk. “You really did beat me last year, didn’t you?”
+
+Ling Qi was silent, knowing that he wasn’t just referring to the tournament. “We both made our choices,” she said carefully. “I just chose to apply myself differently.”
+
+He grunted irritably, rolling his shoulders. “Tch, you knew how to change skins when you needed to and had a lil’ less pride.”
+
+“I would say that my pride was different,” Ling Qi corrected evenly. She wasn’t insulted, not when he said the word pride with that bitter twist.
+
+“That’s fair,” Ji Rong allowed, lowering his arms to his sides. There was a faint static in the air, a crackling just beneath the level of hearing. “I’m lookin’ forward to sharing some pointers, Sect Sister.”
+
+“Yes, let us have a good match, Sect Brother.” Around her, the air was already growing damp and cold, fingers of mist worming through the grass.
+
+Even though there was nothing material at stake, she really didn’t want to lose.

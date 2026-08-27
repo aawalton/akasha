@@ -1,0 +1,73 @@
+---
+id: 788d2c3f-d05a-575f-b18d-34bb5ec1953f
+page-type-slug: story-chapter-royal-road
+title: "57. Please Explain"
+slug: 0057-57-please-explain
+partOf: god-of-trash
+position: 57
+ownLength: 1255
+unit: words
+publishedAt: 2025-04-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2217708/57-please-explain"
+royalRoadId: "2217708"
+---
+
+Griffin, as it turned out, fit none of Rhys’ expectations. As a proud graduate of Purple Dawn, he wasn’t disloyal to his academy, nor did he bear a personal grudge against Ernesto. He had a strong sense of righteousness, but that wasn’t the problem.
+
+The problem was that he was aggressively, excessively, to far too extreme an extent—straightforward and by-the-book.
+
+“Why didn’t you come faster?” Ernesto snarled, annoyed.
+
+Griffin put his hands on his hips and gave him a broad smile. “Pursuant to Alliance Code for Resolving Inter-School Conflicts, the two schools’ representatives should first be given a time to resolve their differences via martial or other means for a period of not less than twelve hours, and not more than seventy-two. In the case of extreme emergency or in the case that one of the academic institutions is not party to the Alliance, the armada can intervene as early as six hours—”
+
+Rhys blanked out. He watched the stars, counted the blades of grass, anything but listen to Griffin quote legal statements. The moon fell, and the sun rose. In the distance, he heard the startled cries of students as they woke up from their nightly meditations to find an armada floating overhead. Rhys studied the ships, mentally memorizing their shapes and forms, and cataloging the emanations that reached him, even down here on the floor.
+
+The three high-Tier mages spoke for a while, their conversations interspersed by long-winded recitals from Griffin, until at last Rhys heard his name and snapped back in.
+
+“—according to the Peace Treaty of Nartois, both parties must send a representative to a formal contest, wherein the contestants’ rank in the contest, or their battle against one another, should the two see one another in battle, determines who is in the right—”
+
+“Yes, thank you, Griffin. What it boils down to, is that we both send representatives to the upcoming tournament in Purple Dawn Academy, and whoever wins, wins. If we win, then Rhys, and the entire Infinite Constellation School, is free to go; if Ernesto wins, then we are party to his wishes, within reason, and up to a limit of value equal to or greater than—sorry, the legalese infected me. Within reason,” Aquari summed up. She turned and looked at Rhys pointedly.
+
+Rhys pointed at himself. “Me? I’m the representative?”
+
+“I’m pretty sure Ernesto would accept no less,” she said, quirking a brow.
+
+“Indeed,” Ernesto confirmed with a nod.
+
+Rhys dropped his jaw, then slowly closed it. He tilted his head, then nodded. “Okay.”
+
+He actually… didn’t mind? Ev had mentioned that tournament, and it had sounded pretty fun to him. Plus, Straw was in Purple Dawn Academy. He realized he couldn’t free the man now, or any time in the near future, but what he could do right now—or at least, in the near future—was scout the premises out, to figure out where Straw was, what his situation was, and how deeply he was kept under guard, so that when the time came to break him out, he was ready.
+
+As for having the outcome of this clash determine his future and the future of the school, it was a lot of pressure, but at the same time, he didn’t want to put that on anyone else. First off, it was his life, his future. It wasn’t someone else’s responsibility, and he was too trash to be worth anyone else staking their life on him. Second off, he was especially suited to battle those who used curses. If he fought, Ernesto was either at a disadvantage, if he chose one of his own students, or he was forced to find a student outside his class, who would likely be less committed to fight to their last. If someone else fought, they’d likely simply be overcome by the curses, without a way to counter them.
+
+That did assume that Ernesto, or rather, his representative, would use curses in a formal battle before god and everyone, as the saying went, but given how bold Ernesto was acting? It wasn’t out of the question. Besides, as Rhys himself had experienced via hiding his own curses, curses could be subtle and used subtly. A hit that appeared to be no more than a touch, but in fact inflicted a curse, would end the battle for anyone at Infinite Constellation but Rhys.
+
+I’m sure the higher-level mages, and the talents like Ev, have a way to deal with curses… but even so, I’d rather take my fate into my own hands.
+
+Griffin nodded in satisfaction. “Then, according to—”
+
+Aquari hit him with a glare.
+
+The burly man cleared his throat and cut the fat. “Ernesto, you must also provide a representative at Tier 2 or lower.”
+
+“Tier 2?” Ernesto looked Rhys up and down, startled, then smiled slowly. He nodded. “Of course.”
+
+It was easy to guess his thoughts. Rhys could almost see them, moving behind the man’s brows. Rhys had only just reached Tier 2. If the man pitched a talent at the absolute upper limit of Tier 2 up against Rhys, Rhys stood no chance.
+
+Or at least, he shouldn’t stand a chance. But Rhys was confident in his trashy fighting. He’d fight dirty if he had to—hell, if he didn’t have to. And the tournament… if it was anything like social events in his homeworld, then it would generate tons of trash. Mounds and mounds of it. Just thinking about it brought a smile to Rhys’ face. So much power… so much potential to advance! A more powerful school, too, meant more powerful trash. Now that he was thinking about it, he was excited to get there and get started!
+
+A tournament, too. Would such a thing, maybe, by chance, bring out someone like, for example, the Sword Saint’s disciple? It was a tournament held by the strongest school in the region. If someone with the lofty title of the Sword Saint was going to show up at any tournament, he’d surely attend the most powerful tournament, right? It didn’t necessitate that the Sword Saint would show up, but if he was going to go anywhere, it would be this tournament.
+
+It was only a chance. A shot. But there was a very real possibility, that he’d see Bast at this tournament.
+
+“If both parties have come to an agreement, then it is my responsibility, as an Alliance commander, to see the offending party off the incipient school,” Griffin stated, gesturing for Ernesto to follow him.
+
+Ernesto nodded. He whistled. A few moments later, his students came running through the trees to his side. Mae ran on bare feet, her shoes ruined by Rhys’ earlier strike, but she ran, her foot fully healed. She shot him a dirty look, and he shrugged back. She’d been the one to attack him. She was here to sabotage his school. She really couldn’t blame him for striking back.
+
+“Four months. Use them wisely,” Ernesto warned Rhys. He turned, following Griffin. Griffin waved, and a red carpet unrolled from the giant ship, making stairs out of thin air as it unfurled. He stood to the side and waved, indicating for Ernesto to climb on.
+
+Rhys saluted, happy to see him go. He had a mountain ahead of him, but he’d climb it, one Trash Step at a time. To Purple Dawn Academy, to the tournament, and beyond. Who knew what hijinks he could get up to in a brand-new school?
+
+And maybe, just maybe, he’d encounter Bast once again.
+
+END BOOK 1

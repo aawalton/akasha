@@ -1,0 +1,87 @@
+---
+id: ecac909c-82a1-5d38-9a6e-0a8a399d3990
+page-type-slug: story-chapter-royal-road
+title: "128. Skelly Boy"
+slug: 0128-128-skelly-boy
+partOf: god-of-trash
+position: 128
+ownLength: 2193
+unit: words
+publishedAt: 2025-07-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2430323/128-skelly-boy"
+royalRoadId: "2430323"
+---
+
+Trash Intent took form around the two bones, forming into a solid shape. It swirled, whirling around the bones, then firmed all at once, and a figure stood before Rhys. He stared, slightly confused. “Huh?”
+
+A skeleton in armor stood before him, head down, shoulders folded in. At his mental prodding, it began to walk, keeping pace with him and Lira.
+
+Lira raised her brows. “You did ask for a skelly boy. That’s a skeleton boy if I’ve ever seen one.”
+
+“I… it was just a figure of speech…” Rhys stared at the figure a little longer, gobsmacked, then shook his head. He wasn’t a bone identifier or a master of bone shapes. He’d thought these were small horse bones, its… knuckles, or knee bones, or something. Apparently they were the rider’s bones, instead? He frowned. That wasn’t what he needed at all! He needed a movement technique, a horse!
+
+“What? What did you want?”
+
+“A horse. I wanted something to move me faster around the area,” Rhys explained.
+
+Lira looked at the skeleton, then at Rhys. “Yeah? What’s the problem?”
+
+“I… wait, you think I should ride him?” Rhys asked, gobsmacked for a second time.
+
+“Why not? He’s a projection. He’d held to the same exact limitations that a horse would be—in other words, the strength of your projection technique and mana. In fact, in a certain way of looking at it, he’s better than a horse. He’s smaller, so he’ll require less mana to maintain,” Lira explained, as if this were all very reasonable.
+
+Rhys ran a hand through his hair, looking at the skeleton. It didn’t look very human… or, at least, he wouldn’t feel like he was riding a person. He was riding a monster, a skeleton monster. And riding skeleton monsters… that was trashy and cool, right? A skeletal horse, skeleton tiger, skeleton wolf… adding skeleton just made them even cooler and more intimidating. It was like the headless horseman riding a horse skeleton, but… But I’m riding the horseman, Rhys thought, still a bit taken aback. He looked the skeleton up and down one last time, then frowned. Then again, any port in a storm, right? If this was the solution to his problems and the only thing holding him back was social mores, then wasn’t he depriving hundreds of mages from freedom because he was afraid he’d look stupid? He couldn’t imagine anything crueler than that.
+
+So, taking a deep breath, he stored the flying sword in his storage ring, gingerly took his weight, and reached out for the skeleton. The skeleton bent, picking him up piggyback style, at his command, but a second later, he shrieked in pain and had it set him back down. He gripped his stomach, in deep pain.
+
+“Don’t be stupid. Piggyback requires too much core. You need another hold, one that keeps your wound from taking stress and weight. Here.” Lira picked Rhys up with shocking ease and set him in the skeleton’s outstretched arms. “That should be better for you.”
+
+“A princess carry?” Rhys spluttered, feeling somewhat like he’d lost something along the way. His dignity, maybe? His pride as a man?
+
+“Yeah? What’s wrong with that? So afraid of being called a princess that you’d rather aggravate your injury?” Lira asked, crossing her arms and giving him a look. “Some people get called princess all the time, and it’s never killed any of us.”
+
+Rhys considered, then nodded. She was right. What was wrong with looking a little silly, if it meant he could rescue mages? Pride as a man? What was that, when the surviving mages looked back on these days, a hundred years from now? Nothing but chaff on the wind. The lives of real people, on the other hand—those were worth worrying about.
+
+Besides, it wasn’t like he’d get locked into princess carry just because he got carried this way once. He relaxed a bit, enjoying the comfort of the carry, then looked at Lira. “Do you mind if I test its speed?”
+
+“Go ahead. Actually, there’s a stream nearby. I meant to abandon you and swim back, so this is quite convenient for me,” Lira said.
+
+“I… I guess this works for everyone, then!” Rhys said, not sure what else to say. A strange mix of feelings were whirling around in his chest. She’d meant to abandon him? But then, he’d meant to abandon her, so… it was all good in the end! Convenience for everyone!
+
+Lira nodded, agreeing.
+
+Rhys waved farewell, and pushed the skeleton to take off. Lira kept pace for a while, testing her speed against the skeleton’s, but before long, Lira began panting, face red, struggling to keep up. At last, she fell back, letting Rhys run on alone. Rhys waved over the skeleton’s shoulder, and Lira waved back, then walked off into the forest toward her stream.
+
+The skeleton ran at speed. He couldn’t keep up with the skeleton if he was running, but it was sure nice to ride along in its arms and put in no effort. He sipped his potion and relaxed, getting a little used to the being-carried experience. All he needed now was a snack, maybe some potato chips, and he was set. The forest rushed by all around him, deep green leaves and huge trunks passing by on all side, the scent of composting leaves and fresh growth filling the air. Air ruffled through Rhys’s hair as the skeleton ran, refreshingly cool. It was like riding a four-wheeler through the woods, but without the danger or effort part, and only the fun parts. Like the world’s smoothest rollercoaster, but Rhys got to decide where it went and what it did. Honestly, it was fantastic.
+
+“Do you mind if I call you Skelly Boy?” Rhys asked conversationally.
+
+The skeleton, being a construct made of cursed energy, bones, and Trash Intent, said nothing.
+
+“I’m going to call you Skelly Boy,” Rhys decided.
+
+As they ran on, Skelly Boy started to slow. Rhys looked up, a little confused. His wound was healed, he was just enjoying being a piece of shit and riding along with no effort at all. He hadn’t given the construct the order to slow, nor had he run out of cursed energy or mana; both the skeleton and the Trash Intent didn’t take much mana to activate, at Tier 3, and since all he was doing was keeping it active, without trying to reinforce, strengthen, or alter the intent in any way, the maintenance cost was low as well. He pushed the skeleton a little, urging it to move on, and it took a few faster steps, then slowed again, turning toward the right.
+
+Groaning and huffing, Rhys put in a little bit of effort for the first time since he’d started his ride and sat up enough to peer to the right. He didn’t see anything, but maybe the skeleton sensed something? He frowned, looking up at Skelly Boy, then back to the right. What would he be sensing? Another—his eyes widened—another Impure Well?
+
+It made sense. The skeleton had come out of an Impure Well, both pieces of it. Like called to like in magic, pieces of the same thing reaching out toward one another, especially with curses. Was the skeleton sensing another piece of itself?
+
+Rhys nodded, deeply approving, and let the skeleton walk in the direction it wanted to, settling back down to ride again himself. What a fantastic mount! Not only did he have to put in absolutely zero effort, but he also got an auto-Impure Well sensor? If it was true, it was almost too good to be true. Powerups, bonus trash, and new pieces of the skeleton in one fell swoop? A mount that sought out its own powerups? He couldn’t imagine anything better.
+
+Well, maybe a skeleton horse, he thought, sighing, but there was nothing he could do about that. The bones were what they were, and Trash Intent wasn’t powerful enough to make a horse from a man.
+
+Besides, the aesthetic of getting carried around by a skeleton warrior was pretty cool. He couldn’t ride it into battle in the extremely comfortable princess carry, no, but he could always clamber up to sit on its shoulder or something and look cool. He ran through a couple poses in his head, trying to come up with the best one, and pursed his lips. There really wasn’t an ideal carried-by-a-human-skeleton mount pose—they all looked silly in some way—but maybe he would just arrive on his mount, then stand in front of it, and then look cool. He nodded. He could live with that. And if someone like Feran brought their own mount, then he’d just have to look silly, and his opponent would have to deal with it. Better than being without a mount and getting railed by his opponent.
+
+The horrific, familiar scent of an Impure Well hit his nose. Rhys perked up, taking a deep breath and extending his mana to confirm it. The skeleton ran on, then came to a halt before a pair of boulders leaning against one another. Somewhat reluctantly, Rhys climbed to his feet and walked over, peering around the boulders, then saw it—the familiar gunk, welling up from under one of the boulders. An Impure Well, just for him, sitting here waiting for him, all alone in the woods. It wasn’t surrounded by trash, the way a lot of them were, but maybe it was just too far from humanity for it. That, and the rock capping it, maybe meant someone had come across it and closed it off, rather than deciding to use it as a trash pit.
+
+Something strange caught his eye. He tilted his head, looking more closely at the leaning rocks. One of them, the one next to the Impure Well, looked normal, if a bit more corroded on its wellward side. The other boulder, the one capping the well, was the strange one. It had lichens all over it, but not on its left side. There was a depression in the earth just beside the Impure Well that was about the size of the boulder’s left side, and scratch marks on its bottom. He frowned. Am I reading this right? It almost looked like the well had been capped recently, within the last few years, and maybe even closed from within the well itself, as if something inside the well had reached out and dragged the boulder in over top of it, tucking itself into the well, so to speak.
+
+Rhys snapped his fingers, dismissing Skelly Boy back to his core. He needed all his mana and focus available if something dangerous had closed itself inside this well. It could be anything: a cursed beast, a Remnant Weapon, anything, but whatever it was, if it could survive the Impure Well, it was definitely dangerous. He could walk away and leave this obvious trap untapped, but his wound was healed, and the Impure Well was right here. Right here! Right in front of him, reeking with delicious impurities. Not only that, but he needed more trash. The farm had given him some trash, but it was lower on garbage than a mine or some other dirty operation would be, especially since this world lacked pesticides. He couldn’t turn down a great source of garbage like this. And, of course, this was a chance to upgrade Skelly Boy, who he desperately needed to be as fast and as capable as possible, so he could continue to strike prison camps without providing too much data for the Empire to triangulate his movements.
+
+No, he couldn’t turn this down. He just had to be ready for a fight. Rolling his sleeves up, Rhys put his broken sword at the edge of his robes, ready to be drawn free, then put both hands on the boulder. Exerting his strength, he pushed, and the boulder slowly rolled, coming free of the well. The end that had been dipped in the well had been corroded right off, and a flat plane was all that remained of it, trailing bits of impure gunk as it rolled over. Rhys threw his hand out and pulled the impurities into him as it passed, taking the built-up gunk off the stone, too, while he was at it.
+
+He jumped back as soon as the boulder came clear, reaching for his sword, and braced himself for battle. The Impure Well sat there, undisturbed. Its surface gently seethed and bubbled, due to the nature of the filth contained within, but nothing burst out from within.
+
+Rhys summoned a long piece of scrap from his storage ring and gently prodded the filth. The end of the stick melted off, but nothing happened. Growing bolder, Rhys stepped forward.
+
+BAM! Skeletal fingers thrust through the surface of the gunk and slammed down on the edge, the sharp tips of the fingers scraping by Rhys’s nose. A terrifying aura emanated from the hand, writhing with filth, impurities, and darkness. He jumped back, startled, and drew his sword, instantly feeling out of his depth. Holy shit! Is this a Remnant Weapon?

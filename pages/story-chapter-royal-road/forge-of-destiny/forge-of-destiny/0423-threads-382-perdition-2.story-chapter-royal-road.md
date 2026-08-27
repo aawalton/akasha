@@ -1,0 +1,137 @@
+---
+id: 283f72c3-2a1a-5c71-bc36-f056ab3323ea
+page-type-slug: story-chapter-royal-road
+title: "Threads 382-Perdition 2"
+slug: 0423-threads-382-perdition-2
+partOf: forge-of-destiny
+position: 423
+ownLength: 2245
+unit: words
+publishedAt: 2024-05-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1653217/threads-382-perdition-2"
+royalRoadId: "1653217"
+---
+
+Ling Qi felt her feet sink into deep, cold mud, and the scent of rot filled her nose.
+
+Those sensations barely lasted a second.
+
+Screams. Crackling flames and hissing steam. Heat seared her, an impossible, cooking heat pressing down in every direction.
+
+She let out a hacking, gagging cough as white smoke engulfed her.
+
+The Heron General stepped past her, hand loosely gripping the hilt of her sword. Ling Qi could barely perceive her silhouette in the smoke. Only,… it was not smoke.
+
+The essence of the Liminal died wherever it touched Xia Ren. Su Ling's arts had shown her a glimpse of this once, a technique that froze and stole the changeability of the Liminal's matter. But Xia Ren's effect was infinitely greater.
+
+The dense mangrove swamp they had stepped into, with its bruise-colored sky and infinite vista of glittering faerie lights in the mist, was a labyrinth; one which Ling Qi instinctively understood could have trapped her for eternity in its peaceful and serene pathways. It all died around the general. Water, mist, and light turned to dust. Where the general walked, the Dream was bleached, burned, and flattened, a spreading blight of still, white dust that devoured the landscape.
+
+Ling Qi bent double, a whimper escaping her lips as the pain crashed down on her. The staggering weight and the burning power vented from the segments in the woman's armor washed back into Ling Qi's channels.
+
+Fssh.
+
+A blade whispered, and Ling Qi was driven to her knees, tears burning in her eyes as she vomited into the dust beneath her. The labyrinth was split asunder, a kilometers-long canyon rent in the earth at the stroke of a blade. No concealment. No tricks. No confusion.
+
+The Sovereign of Steel and Fire had come.
+
+The Liminal howled with the agony of a wounded titan, a noise that threatened to burst the still mortal flesh of her ears. Black ichor welled in the canyon carved before them, mangroves falling and waters hemorrhaging into the abyss.
+
+Through the sundered mist, past the ruined marsh, Ling Qi saw the outline of a grand and ancient temple, resplendent with falling waters, with still and deep reflecting pools, winding in spiraling tiers up its towers. The temple was so overgrown with life that at first, it seemed like a great mountain covered in moss. Water-worn stone painstakingly carved through eons by natural forces rumbled. The temple turned to face them.
+
+And the shadow of a steel heron fell over it.
+
+<Ling Qi. Ling Qi! C'mon, get up. I know it hurts, but you gotta stay moving.>
+
+"Stagnation is death," Ling Qi whispered back to Sixiang as she forced herself to her feet. The intonation of her simple, young truth was enough to churn the qi in her channels and send the wind whipping about the hems of her gown and lift her into the air. She understood implicitly that only its small resonation and the general's protection allowed even that.
+
+Here and now, she did not feel her vision waver or her senses spiral off into desperate metaphor. Instead, she saw Xia Ren in her fullness and wished that she had not.
+
+The general's shadow towered. She was a twisted giant of segmented steel, gaunt and razor-edged and spiked. Blazing light poured from every crevice in her armor, smoke and ash that smelled like burning flesh,the heat of a furnace burning and blackening whatever her mere presence did not bleach into dust.Smoke and Ash that smelled like burning flesh rose in sky-choking columns, rippling with screaming, suffering faces wrought in smoke. Her sword burned with a trailing pale blue light where its edge sundered even the air.
+
+Still tasting bile on her tongue, Ling Qi rose higher as the stone temple groaned, naturalistic spires flexing like the spines of some titanic beast, exuding mist and faerie lights in every color. They whipped around its perimeter, an achingly beautiful shell of dancing and refracting light. From deep inside the temple, a mournful tune played, the sounds of an ancient zither piercing the screams that roared and crackled from the general in her advance.
+
+Preservation. So much had been lost, so much taken. One chop after another felling the Forest People, a thousand insults and changes to the ways of the ancestors. Insidious whispers claiming betterment, superiority, even kindness. Lies all. Lies all! The Stone Builders, the Heavenly Jailors, the Hill Burners, the False Dreamers, the Slayer of Foundations! None had ever been worthy. Each sought merely to crack the shell of the last and chosen people, the final stewards of the Diviner's legacy. Conquerors and heirs to the Beast Kings!
+
+Thieves and despoilers all that would taint the kin, take from them the last vestiges of pride and identity. Still Waters Deep and Cold would drown it all before surrender. Ten thousand years of history sang in the foundations and the depths, and he would not go quiet into the night.
+
+It was unbearably sad. Ling Qi felt like her heart might freeze even as she felt her world go mad. Her senses threatened to rebel, twisting the world into a nonsensical smear of chaotic sensation. Only the sharp pain remained real, the feeling of blood running from her nose and eyes as if her skull was threatening to burst.
+
+Meaningless.
+
+A sword that cut down mountains rose into the sky. No lurid light crawled on its surface, only raw and ineffable heat, rippling in its fury.
+
+Chain Breaker.
+
+Ling Qi gagged as she felt the name sear into her mind, stripped of the niceties of courtly characters and human language. She darted into what remained of the mangrove forest, far from the titan’s tread. Amid the burning, withering canopy and the wails of dying faeries, she hid herself in the boiling waters without a splash, diving deep, deep down into the muck.
+
+Legends shall die. Heroes shall die. History shall die. Songs shall die. Languages shall die. Petty little nations shall end.
+
+The Crucible would devour them all and let there be only one people, one dawn, and one future. Tradition wields no swords, raises no shields, marshals no armies, fills no bellies, fulfills no lives. False comfort, aiding none.
+
+Scream then. Rage then, if you would not go quiet. The result is the same.
+
+She felt the sword strike, and the earth bucked and heaved with the impact as a zither shrieked and stone cracked. A firestorm devoured the sky. The sundered marsh was set alight, and dream veins of pulsing black spread like fractal cracks in the world as all went to dust.
+
+It threatened to devour her. The pressure was in her own veins, straining and throbbing with the pain of supporting such a monstrous existence, even tenuously. She could feel her qi wicking away with frightening speed. It was only the trickle of darkness flowing in from the thread around her finger that offset the drain.
+
+She had long thought about the nature of power, what it meant, and what wielding it was for. She knew now that she had the core of it right in the beginning.
+
+Power was the exertion of her will upon the world. It was making her beliefs reality. The wisest philosopher's wisdom was nothing if it did not reach the ears that could take up its cause. The most diligent ruler's reforms were nothing without the power to enforce them.
+
+That was what she had done. What her songs did. She sang, and sometimes, the world listened. Small as she was, meager as her personal power was… She had brought this about. Without her, a sovereign would not be screaming.
+
+Power did not have to come from within. Winter was not one voice, but the movements of countless forces in unison wrought by the turning of the world, set in motion by voices long gone. How many of those voices, mighty or not, had been forgotten?
+
+Ling Qi escaped from the boiling muck like a flickering star as the firmament exploded under her feet, a thousand, thousand roots and filaments of power reaching to strangle her. Each touch left welts and tears upon her skin before they burned to ash and seared her too, in doing so.
+
+In the distance, the titan pursued, and the temple fled, throwing up walls of warped reality and perception. The twisting labyrinths crumbled as fast as they were made.
+
+Ling Qi closed her eyes, shrouded herself in darkness, and still saw light as bright as day through her eyelids. There was no safety in this battle, only choices of danger.
+
+She could feel the crawling on her skin, of Still Waters Deeping’s pain and terror and hate. He saw her, too, for all that he could not afford to spare even a moment of attention to crush her.
+
+She had shied away from the general’s fires instinctively. The truth here and now, though, was that the shadows and the mist were her enemy in this battle. The sky-searing flames of perdition were not. Not right now, for all that she knew that they would be.
+
+Cai Renxiang was right. The general was not a sword. She was something far more terrible. But even if she was not a sword, she was still a weapon in another's hand. Her Way was hollow, hollow as the crucible she claimed to be, but it was not brittle for it. There was only the endless present full of resistance to crush. The unity she claimed to uphold did not come from within herself because the vision, the ambition, and the drive was embodied in another. Xia Ren was incomplete, but that was because she had subsumed herself totally to Duchess Cai’s ideal.
+
+Right now, that ideal aligned with the dream Cai Renxiang, Gan Guangli, and herself were pursuing. A day would come when that was no longer so.
+
+But today was not that day.
+
+Ling Qi soared upward. The hems of her gown burned, sparks alighting in the fabric, making cloth writhe. She smelled her own burning hair and charring skin, but she flew among the countless sparks that filled the sky regardless.
+
+<Oh, here we go. Guess you had to pick one open maw to jump into,> Sixiang fretted.
+
+She was sorry. She could smell burning dream qi too, like a theater going up in conflagration. She could see the crystalline grains of crumbling Liminal that was her friend, flying away in the smoke billowing from her dress.
+
+The gauntlets dangling from the loops on her sash flared to life. They rose to cross before her, the ghostly limbs of a muse flickering and filling them, and the articulated digits clenched. Hexagonal plates flew from slots in their sides, two and four and eight and more, doubling with each moment, interlocking around her in a solid sphere of mountainous qi.
+
+It was a testament to Xuan Shi's skill that each plate lasted even the handful of seconds they did under the fierce storm raging around her.
+
+And fierce, it was.
+
+Ling Qi flew head over heels, tossed by the apocalyptic force of the wind that roared in the wake of the Heron General’s darting blade and the skull-rattling vibrations of the enemy's roaring song.
+
+Utility. Utility. Utility. All else is distraction, the indulgence of the victorious. All which failed to grant material advantage were chains.
+
+Difference wrought war, domination, and submission. Clinging graveyard ghoul gnawing on ancient bones, chaining generation after generation to the dead. Submit! Break! Burn away! Be subsumed into the victorious march, more boots upon the field of dawn.
+
+The temple sang back defiantly.
+
+Purity! Purity of action, hewing to wisdom. Ten thousand years of small iteration, of wisdom compounded upon wisdom. Difference breaks men from beasts, marks the chosen, defines the People and the lessers. Lo! Break thy blade upon the fortress, the walls raised by ten thousand years of holding true through conquest, storm, and nightmare.
+
+Empty blade, soulless blade, roar of devastation, disappear into the shadows, as all beasts do in the end!
+
+If she had anything at all left in her stomach, she would have wretched again as she drifted like one of the million burning leaves caught up in the general's wake. It was sickening and fascinating, the images and sounds that crashed upon her.
+
+In a lake of boiling steam, a temple complex fought with a giant of fire and steel wielding a blade which carved canyons of ossified ash in the fabric of the dreaming realm. The blade clashed with kaleidoscopic waves of color and lakes worth of water from endless depths.
+
+She could not even perceive the sovereigns’ movements, for all that the roared arguments embodied by their clashes reached her ears with clarity. But she could feel the mountain-carving blade in its wake.
+
+It was sickening. Sickening, because she could feel its resonation.
+
+Barriers. Borders. These impeded communication. People divided themselves in order to quarrel and fight to define who was kin and who was not. That was the ugly root at the core of a community. The exclusion of not-kin was how its boundaries were defined.
+
+She had seen the rusty blades sprouting under the Emerald Mourner’s rot-slick hooves in her Liminal tribulation. She had seen the passage under the mountains lined with dying slaves in her dream journey with Xuan Shi to meet Grydja.
+
+This was the Unity of Blades, the iron Law written into the fabric of the Emerald Seas.

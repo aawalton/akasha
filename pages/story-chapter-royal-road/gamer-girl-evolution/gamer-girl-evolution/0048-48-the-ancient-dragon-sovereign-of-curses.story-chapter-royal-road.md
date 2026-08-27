@@ -1,0 +1,175 @@
+---
+id: ea4b9b21-b0e0-560b-9e6b-aad8c3665ad5
+page-type-slug: story-chapter-royal-road
+title: "48 - The Ancient Dragon Sovereign of Curses"
+slug: 0048-48-the-ancient-dragon-sovereign-of-curses
+partOf: gamer-girl-evolution
+position: 48
+ownLength: 1772
+unit: words
+ownProgress: 1772
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2958400/48-the-ancient-dragon-sovereign-of-curses"
+royalRoadId: "2958400"
+markedReadAt: "2026-06-29T20:07:06.839Z"
+---
+
+"Grand Commander, just how did they seal that thing? And manage to keep it here?" A voice came from behind the decorated military officer. It originated from a short girl with a vibrant purple staff.
+
+He narrowed his eyes, focusing intently on the fearsome creature in front of them. This was the sort of monster which would wreak havoc at the very centre of the Main Front. It would be a tall but manageable task to face it with the aid of commanders of the other realms, but they weren't present.
+
+Here, it was only him and his fellow Earthonians.
+
+He sighed inwardly but didn't let it show. He was the Grand Commander after all, he couldn't show any sort of weakness. He knew better than anyone present the sort of threat that monster was, and if he showed he was demoralised it would spell the end for all of them.
+
+"No idea, Semmia. But, I'm certain we must kill that thing at all costs. Otherwise, it'll completely destroy the Eonian Empire. Reinforcements would take too long, everyone except us would be wiped out before then. Our only option is to kill it."
+
+He spoke with a strong sense of duty and determination. Another voice spoke up, originating from the one in heavy-looking armour. "Commander, it's an Ancient Dragon with a royal bloodline. We can't beat it. We should evacuate the people, I can hold it off for an eternity."
+
+"Triton, enough. We can beat it." Came the Grand Commander's reply, but even he knew that he was lying.
+
+[You have started a party.]
+
+[Party Leader: Doran (Berserker) - Lv. 562]
+
+[You have invited five others to join a party.]
+
+[Five other people have joined your party.]
+
+[Party Leader: Doran (Berserker) - Lv. 562
+
+Party Member: Semmia (Mage) - Lv. 548
+
+Party Member: Triton (Tank) - Lv. 544
+
+Party Member: Ophel (Assassin) - Lv. 545
+
+Party Member: Ulza (Summoner) - Lv. 542
+
+Party Member: Thorne (Ranger) - Lv. 546]
+
+"Does the King know how dangerous this thing is? Wasn't this supposed to be a small exhibition match for the Players to learn more about job classes?" Someone cried out in displeasure.
+
+The assassin replied instantly. "Look, Ulza." His hand pointed to a small screen where they could see the King and a crowd of players beneath him. His expression seemed heavy, worried even as he looked at the holographic screen. It didn't take a genius to tell that...
+
+Something was wrong.
+
+Very wrong.
+
+"He isn't the type of King to destroy his empire on a whim. Nor would it benefit him in any way to destroy his realm's strongest combatants. No - it must be something else..." The ranger spoke up, voicing his valid thoughts about what was going on. If Celica had seen his face, she might've recognised him.
+
+"Thorne, are you suggesting?" Ulza inquired again.
+
+Thorne the ranger nodded with some certainty. "It's likely due to some interference from the monster realms. How else could a creature this deadly appear here?"
+
+A heavy silence hovered over them. They all knew it was likely to be true.
+
+"Our mission hasn't changed. We kill it. This is the perfect chance to destroy one of the monster realm's ploys. We can flip this situation into a positive." Grand Commander Doran subtly made two symbols towards the screen which not many picked up on, but the King certainly did.
+
+The first meant that they had everything under control. And the second... broadcast it to everyone in Earthonia.
+
+As if he'd seen time rewind, King Sebius' mouth hung agape. He could feel all of his hairs stand on end. He turned to some officers around him and made the same subtle symbol that the Grand Commander had.
+
+Within a few seconds, the showdown between the commanders and the horrific creature was on every TV and public square in the Eonian Empire.
+
+Although initially the Grand Commander thought they couldn't beat it, after some thought he realised it was actually possible. He was fifteen levels up on the boss and had recently acquired an insanely powerful nuking skill. Using it, he was certain that he could take down the boss.
+
+Just, it would require a large amount of teamwork with his party because the skill took a long time to channel. But the archaic monster wasn't going to allow him to think it over any longer.
+
+The roar of the Ancient Dragon echoed throughout the colosseum, sending tremors through the ground beneath them. Its massive form loomed over the party like a mountain, its glowing viscous eyes locking onto the group with an unnerving predatory focus. A cloud of sulphurous steam rose from its nostrils as the scent of death and destruction consumed the arena.
+
+Grand Commander Doran stood at the front of the group, his blood pumping as he met the gaze of the creature, his grip tightening over his sword. Every nerve was alight with anticipation.
+
+This is it. This is the moment we either rise or fall.
+
+He turned to his tank, Triton, who stood poised and ready, his towering frame encased in dark, heavy armour. "Triton," Doran commanded, his voice cutting through the air, "start it off. You need to pull its aggro."
+
+Triton’s deep voice rumbled back, tinged with confidence. "Leave it to me." He stepped forward, his shield raised high as he shouted a battle cry.
+
+[Taunt]
+
+The skill erupted in a burst of energy, a surge of magic that forced the dragon's focus to shift.
+
+The dragon’s head snapped towards Triton, its eyes narrowing with malice. With a guttural growl, it swung its massive tail, sending shockwaves through the ground. The force of the impact was so intense that the air vibrated, but Triton stood firm, his enormous shield raised to absorb the brunt of the attack.
+
+"[Shield Wall]!" Triton bellowed, his body glowing as his defensive skill enveloped him in an aura of steel, reinforcing his shield and armour. The dragon’s tail crashed into him, but his skill absorbed the blow, his feet digging into the earth as he held fast.
+
+He didn’t flinch.
+
+Doran’s battle instincts kicked in, and with a battle-hardened yell he charged forward, his sword glinting in the sunlight. “Now! Everyone, attack!”
+
+Semmia, the unparalleled archmage, raised her staff, arcane energy swirling around her. A fierce gust of wind howled, and the sky above the dragon darkened. “Let’s see how you handle this!”
+
+"[Firestorm]!" she cried, and a torrent of fiery meteors rained down upon the dragon. Each impact exploded with intense force, leaving trails of flame in the air. The dragon roared in pain, its scales sizzling as the fiery barrage struck home. The ground trembled as the flames raged around it, but the dragon remained standing, though clearly wounded.
+
+[Ancient Dragon Sovereign of Curses| HP: 96.3%]
+
+Without waiting for the dragon to react, Ophel, the nyx assassin, darted forward with unparalleled speed, her daggers flashing like silver streaks. She used her [Shadow Strike] skill, teleporting from one shadow to another in rapid succession, her strikes landing with pinpoint precision.
+
+[Critical Hit.]
+
+[Critical Hit.]
+
+[Critical Hit.]
+
+The dragon hissed, thrashing to shake her off, but Ophel was already gone, vanishing into the shadows once again to strike from another angle.
+
+Ulza, the mechanical summoner, stood at the ready, her eyes focused on the dragon’s movements.
+
+“[Golem's Fury]!” she shouted, her voice commanding. With a heavy rumble, a heavy stone golem emerged from the ground beside her.
+
+[Mecha Terra Golem - Lv. 545]
+
+The golem leapt towards the dragon, swung its colossal fist and ultimately landed a powerful blow that sent cracks across its scales. The dragon roared in fury and retaliated with a swipe of its claws, but the golem absorbed the impact, standing tall as Ulza commanded it forward again.
+
+The all-seeing ranger, Thorne, stood a few steps back, his bow drawn and his eyes narrowed with focus. He let loose a series of arrows, each imbued with magic.
+
+“[Explosive Shot]!” he called, and the arrows whistled through the air, detonating on impact and causing fiery explosions to rip across the dragon’s body.
+
+The dragon’s wings unfurled, and with a powerful beat, it soared into the air, sending shockwaves through the ground. Doran didn’t hesitate—he followed the beast’s movement, his sword raised high. “Don’t let it get away!” he shouted as he leapt into the air, swinging his blade in a wide arc.
+
+"[Whirlwind Slash]!" he roared, the air around him crackling with explosive energy. His sword cleaved through the air, striking the dragon’s underbelly and drawing blood.
+
+[You have achieved a twenty-hit combo.]
+
+[You have achieved a forty-hit combo.]
+
+[You have achieved a sixty-hit combo.]
+
+The dragon shrieked, its massive wings flapping wildly, but the damage had already been dealt.
+
+[Ancient Dragon Sovereign of Curses| HP: 77.3%]
+
+The dragon was on the defensive now, but it was far from done yet. With a deafening roar, it swung its claws toward Triton, who barely had time to react. The attack slammed into his shield, pushing him back, but his active [Shield Wall] held strong.
+
+Then, the dragon’s eyes flared with a dangerous light.
+
+[Warning: Breath Attack.]
+
+It opened its mouth wide, and a disgusting torrent of poison engulfed the battlefield in a sickly green mist.
+
+[You have been afflicted with: Poisonous residue. As you have only been affected in passing, it will not prove critical.]
+
+Doran's eyes narrowed as he saw the direction of the dragon's breath attack.
+
+Thank goodness Triton has aggro. He should be able to handle this. Unless...
+
+In the distance, Triton staggered back, raising his shield in a desperate effort to block the poison.
+
+“[Immovable Fortress]!” Triton shouted, activating his ultimate defensive skill. A golden aura enveloped him and his shield, creating a barrier that protected the party members who had tactically chosen to hide behind him.
+
+The poisonous gas slammed into the barrier, hissing and sizzling against it. The air thickened with the stench of decay, but those caught in the attack's crosshair were safe, shielded by Triton’s immense defence.
+
+Taking advantage of its slight recovery frames, Ophel zoomed towards the dragon, her twin daggers piercing its right eye with unnatural accuracy. "[Mist Strike]."
+
+[Critical Hit]
+
+[Critical Hit]
+
+The dragon let out a guttural growl, its body shifting strangely. Noticing this immediately, Doran's voice cut through the battered colosseum. "Regroup!"
+
+Like clockwork, all of the other party members, who had scattered around the arena, assembled besides Triton.
+
+Seeing the shared system notification, Thorne the ranger clicked his tongue. "Looks like you were right on the money, commander."
+
+[Ancient Dragon Sovereign of Curses is entering its second phase.]

@@ -1,0 +1,167 @@
+---
+id: 3298fd17-b4a1-5080-9499-b2b3459130b1
+page-type-slug: story-chapter-royal-road
+title: "Theads 176-Emissary 11"
+slug: 0207-theads-176-emissary-11
+partOf: forge-of-destiny
+position: 207
+ownLength: 2909
+unit: words
+publishedAt: 2022-01-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/828788/theads-176-emissary-11"
+royalRoadId: "828788"
+---
+
+“Once, there was a girl and her mother. They lived in a sad and dying city where purpose had long been lost. The girl and mother loved one another, but her mother had a hard and ugly job, respected by no one, least of all herself.”
+
+Storytelling was not really a skill she practiced, but it was not so different from singing. There was a cadence to it, and it had the same effort of condensing complex meaning into more concise lines.
+
+She drummed her fingers on the table as memories came back. Mortal memories were such funny things, soft and fuzzy and unclear compared to memories after cultivation. But she still remembered the contours of their little apartment and the downcast expression her mother wore even then. Sixiang echoed her words in her mind, and together, their voices resonated, and the air shimmered with trace imagery.
+
+“Her mother did her best for the girl, trying to teach the girl the things she would need to be something better, but the girl was impatient and disobedient as children often are.”
+
+How much had it cost them in ink and paper for her mother to teach her literacy and sums when so few in the Outer Tonghou had the time for such things?
+
+“And her mother was young too, so young, and her clients were often cruel. One day, their trust was broken, and things were said that were not meant, and the girl fled her mother. She told herself it was because her mother was a petty tyrant. In truth, she had seen that her mother could not protect her. Foolishly, thought the girl, freedom from responsibility and ties would bring her fulfillment.”
+
+The memories that crept up were ugly things, and Ling Qi did not let them linger in her mind or taint the resonance around her much. They were things not forgotten nor forgiven, but they were less important now.
+
+“It was cold that winter, and the girl nearly died were it not for a kind old man’s blankets,” Ling Qi continued. “But the ‘freedom’ she had gained left no room for kindness, and so she was alone. The world of freedom was cruel and lonely, and so the girl became cruel and lonely too, but the stubborn girl convinced herself that it was better all the same and she missed her mother not.”
+
+Across from her, Jaromila sat silently, nursing her drink. Ling Qi couldn’t read her expression at all. But she had already started the story; she could hardly stop now.
+
+“Eventually, there came a man who knew that the girl could hear spirits and touch the energy of the world. She was taken to a place to learn these things properly, but in the beginning, the girl was not really any different than she had been in the cold streets.”
+
+Snappish, paranoid, and suspicious. That was how she had been at the start, even as she told herself to be better.
+
+“But there came a test, and there, she met a smiling spirit, a face of the moon who saw something in her and thought it good,” Ling Qi said. At the time, it had been buried by other concerns, but that really was the first time in many years that something like an adult had expressed confidence in her. “And there she earned her first gifts: a song, a step, and a way of breathing. It was enough to let her make a path. She succeeded at the test, and when her peers doubted her, she found that she had a friend too.”
+
+That moment, when Fan Yu had been berating her while she had been surrounded by disinterested or amused disciples and then Meizhen had chastised and scattered them, was probably the moment when she had first begun to trust her best friend. But this was not that story.
+
+“But though the girl began to prosper and even change, she was still missing something. Though she knew it not, the face of the moon knew and nudged things in her favor. On the high mountain paths, she met her teacher in music and her precocious daughter.”
+
+Ling Qi looked over to Hanyi, remembering their meeting and the game of tag in the snow. Hanyi smiled sheepishly, and Ling Qi paused to let out a small laugh as well. Her smile faded back into an expression of contemplation as she turned her thoughts back to Zeqing.
+
+“In many ways, her teacher was what the girl wished her mother had been. She was strong and beautiful, seemingly unassailable and unflappable.”
+
+Hanyi’s own good cheer faded away, leaving her looking down at her hands with her hair hanging over her eyes.
+
+“Though her teacher rebuked her for it when the sentiment came out, it did not truly go away.” Ling Qi recalled that day on the mountain, bloodied and harried by Sun Liling, saved from humiliation and ruin only by the chance whim of Fu Xiang. All the strength she had cultivated had been shown to be nothing against the Sun Princess.
+
+“And in time, when guilt drove the girl to use her new power to free her mother from that sad city, despite her best intentions, she did not really respect the bent, subservient woman she met there.”
+
+It was harsh, but it was the truth. In those first months, she had treated her mother like an ornament, precious, yes, but fragile and best kept insulated from the world.
+
+“But the truth was, her teacher was not perfect and invincible either. The Songstress of Endings was never meant to be a teacher or a mother. Zeqing chose to be them all the same. Endings are inevitable, but everything before them can change.”
+
+Ling Qi blew out a harsh breath, remembering the last moments in Zeqing’s domain, where a spirit of Inevitably chose to change her course.
+
+“And that was the final lesson from her teacher. The next morning the girl spoke to her mother without holding back because she knew that there was no time to waste.”
+
+Beside her, Hanyi looked up, a thoughtful expression on her young face. In her dantian, she felt Zhengui stir.
+
+Jaromila’s eyes had drifted shut somewhere during her story, but the woman’s grip on her empty cup showed it wasn’t drowsiness. As the silence stretched on, she opened her eyes. “I suppose the story goes on from there?”
+
+“It hasn’t been written yet,” Ling Qi agreed. Things were better now, but she was still struggling to organize her life and the many things she wanted to and had to do.
+
+“It’s your turn,” Hanyi said, looking at the foreign woman.
+
+“It is,” Jaromila mused. “For that tale… there is only one I can share and call it equal.”
+
+“Please go ahead,” Ling Qi said, settling in her seat and taking up her cup. It was, of course, still cold.
+
+“Once, there was a woman of the oldest of the Polar confederations. She was of an old and storied family whose lands and wealth were among the greatest in the land,” Jaromila began. The tap of her fingernails against the tabletop matching the cadence of her words.
+
+“From her youth, great things were expected of her and all the teachings of the nation were at her fingertips. A great emissary she would be, advancing the family’s interests throughout the confederation.” Jaromila smiled faintly as she spoke as if in remembrance.
+
+Ling Qi listened attentively. It seemed that the regal air the other woman had on the battlefield was not just affectation.
+
+“But as often happens with those who make plans within plans, the great family failed to account for the whims of fate and human feelings. There was a man in the Glittering City, a handsome, hard working and joyful man whose hearty songs brought warmth to the girl’s heart. In time, the girl became a woman, and passing fancy became a deep bond.”
+
+Ling Qi listened intently, but the conviction in Jaromila’s voice didn’t leave any room for niggling doubts. Nonetheless, it seemed her first impression might be wrong if this wasn’t a story of Jaromila herself…
+
+“The woman’s kin were enraged when she made her choice. The man was unacceptable. He was a man of the new tribes with hair of straw and pallid skin, shiftless and untrustworthy by definition.” Jaromila spoke the last words with only a slight bitter twist. “Yet it is law that none may force another to choose their marriage. They could not stop her, but wealth is a law unto itself, and so they could punish her.”
+
+Some things were true, no matter how foreign a land was or how strange its laws and ways, Ling Qi mused. She was beginning to suspect the shape of this story. In the sparkling frost that glittered on the iron leaves of the ceiling, Ling Qi saw the faint images of a woman stout and sturdy, ruddy of skin and hair, hand in hand with a tall, thin man with pale skin and hair like straw.
+
+“They went north, always north, chased by ill rumors and sabotage. Those who gave them shelter found the eyes of the summer traders cold and aid in the winter slow to come. Even the kindest headmen eventually asked them to leave, for the town’s sake if nothing else. Yet in their travels, they were happy, for they had one another, even in the darkest trials.”
+
+Ling Qi saw the shadows of blizzards and beasts in the frost, but always, the man and the woman remained hand in hand. It stirred a complicated feeling in her chest that she couldn’t quite identify. Doubt was a part of it, and yet, so was yearning for such a refutation of loneliness was something close to her heart.
+
+“Eventually, they found their succor in the wild lands of the White Sky, far from the Glittering City and the wealth of the south. Here, it seemed the limits of her family's influence finally ran dry. Among the hardy people of the north, they found home and companionship. There were few who spoke to the spirits that both found their labors needed, and soon, they built a life among their neighbors. Their years were not without sorrow—their firstborn bore the touch of the Crone—but in time, there came a second, and both the man and the woman were overjoyed when a girl was born hale and healthy with the look of her father about her.”
+
+Ling Qi’s eyes flicked up to Jaromila’s golden hair, so different from the other foreigners she had seen here.
+
+Here, at last, Jaromila paused, closing her eyes. “But in a winter scant years later, sorrow came. As he had done often, the man, now a respected priest of the sun, took up the duty to guide a caravan through the fall snows and deepening twilight forming the veins of support between the settlements of the north. He did not return. Tales came of a ragged survivor, speaking of a sun priest who had given in the whispers of the void and ended them all before being slain himself.”
+
+“The demons of Outer Night are weak in the north, so far from the gates,” Jaromila explained. “And the woman knew the man to not be of weak and avaricious temperament. He would not fall so, she thought. Others humored her, thinking it grief until the day she went unto the survivors traveling south to hear their story. The woman had grown strong by then, and mighty in the emissaries’ arts.”
+
+“There had been no void demon,” Jaromila said tightly. “And though the oaths upon the soldiers were strong and left her with no proof, she knew well where to turn her eyes.”
+
+That was… Ling Qi couldn’t call it unthinkable, to kill so many of your own people for such a petty reason. She knew well enough the vicious games that could be played among the nobility of the Empire. She had even seen the scars of it in many of her friends.
+
+“It broke the woman, and her daughter saw every step of her decline. She learned the cruelty wrought of unthinking hate and refusal of understanding,” Jaromila continued. “Through her mother’s eyes and her lessons in the south, she learned the wages wrought by stagnation.”
+
+“And when her mother chose to become part of the Land to end her pain, that girl gave herself over to the temple where she learned the role of emissary to connect and to speak, to foster understanding and strike down hate. She learned, too, how so many failed to live up to the words of the gods.”
+
+“She would not be like them.”
+
+Ling Qi placed down her emptied cup as the other woman’s words faded, feeling the emotions implicit in the words in her mind. Finally, as the silence began to stretch, she said, “Ice is cold and privation. It is the truth that awaits out in the world for those who are alone. Family is what keeps us warm and protects us from the chill.”
+
+Jaromila smiled. “Ice is the solid which is liquid. New layers, change, engenders motion, placing pressure on the old, and even the most stolid glacier must flow in time. This is winter, which ends the old and makes way for the new.”
+
+“Ice is beauty. It gave people time to tell stories and make pretty things, and it makes them appreciate all the work they did when it was warm,” Hanyi muttered.
+
+“Ice is many things, it seems,” Ling Qi concluded quietly.
+
+“It is, isn’t it? I find your interpretations pleasing as well,” Jaromila said. “I cannot speak for your nation, Emissary Lingchee, but you, at least, I think I trust.”
+
+“It’s Ling Qi,” she said, emphasising the pause and tone. “And I think I can say the same. Let’s hope our superiors can be kept in agreement.”
+
+“I believe I will toast to that,” Jaromila chuckled. “Shall we have another drink?”
+
+***​
+
+They had spent a while longer, just drinking kvass, keeping their talk to minor topics because they knew they would be back to negotiating in the morning. Eventually, Ling Qi was escorted back to the guest rooms, and like everyone else, she set to work clearing her head from the day's activities.
+
+Naturally, she decided to cultivate. With Sixiang’s help, she kept her practice of the chords of the Beast King’s Savage Dirge from escaping the confines of her room.
+
+Yet as she played the song, she found her readings of the art mingling with the considerations brought to mind earlier. In her mind’s eye, she saw the impetuous Eagle King die alone for his foolish charge, bound in grapnels and nets, brought to earth by the defenders of Xiangmen. She saw the cunning but imperious King of Wolves, spending his pack’s lives like water, assured of his own superiority.
+
+Isolation, physical, spiritual, and mental, was the root of failure. Raw might could only take her so far, and when she reached that edge, what came after but the plunge?
+
+Ling Qi opened her eyes, looking over her room. Zhengui slept in the hearth, flickering red and green flames burning around his shell, and Hanyi sat in a chair by the single window, looking up at the night sky. Ling Qi placed a hand over her chest, feeling the ache there. But without strength, nothing she accomplished could matter either; it would be easily swept away by those who did have power.
+
+<No matter what, we won’t be around forever. There’s no power that will change that,> Sixiang murmured.
+
+That was true, too.
+
+So what was she to do?
+
+She still didn’t know how to reconcile her thoughts yet.
+
+“Are you okay, Big Sis?” Hanyi asked her, tilting her head.
+
+Ling Qi put on a smile and lowered her hand. “I’m fine, just thinking. What about you, Hanyi? It hasn’t been the easiest day.”
+
+“Yeah,” Hanyi agreed, resting her chin on her hand. “But it helped, I think.”
+
+“Did it?”
+
+“A lot of Momma’s relatives kinda suck. I don’t think I wanna try and be like them either,” Hanyi decided. “I think I just gotta keep singing. That’s the thing that’s most important.”
+
+That was such a… Hanyi thing to say. Ling Qi couldn’t help but laugh, and Hanyi pouted at her for it.
+
+“Hey, don’t laugh,” Hanyi complained, hooping down from her seat to put her hands on her hips. Ling Qi tilted her head. Had Hanyi grown taller?
+
+“I’m sorry,” Ling Qi said, covering her mouth with her sleeve. “I think it’s good that you’ve resolved to do something.”
+
+“Yeah, I have,” Hanyi said before looking at her in silence for a moment. Before Ling Qi could ask her what had brought on her silence though, she spoke. “Hey, Big Sis, you know, even if I can’t always follow you into fights and stuff, I’ll still be helping, right? That’s what a junior’s supposed to do when the senior’s busy with big stuff.”
+
+Ling Qi’s smile fell as Hanyi broached her thoughts. If she left Hanyi behind though, was that really alright?
+
+“I’ll keep that in mind,” she acknowledged.
+
+She should get back to cultivating Beast King’s Sage Dirge. She knew she was on the verge of mastering the next technique, one that would allow her to call on the cunning Wolf God.
+
+She wondered how things were going back home.

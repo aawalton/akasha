@@ -1,0 +1,219 @@
+---
+id: c7b9a02f-b0cb-5663-9c39-ce6e8f52e85a
+page-type-slug: story-chapter-royal-road
+title: "Threads 219-Second Day 3"
+slug: 0253-threads-219-second-day-3
+partOf: forge-of-destiny
+position: 253
+ownLength: 2491
+unit: words
+publishedAt: 2022-05-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/917456/threads-219-second-day-3"
+royalRoadId: "917456"
+---
+
+Ling Qi stretched her arms over her head and let out a sigh of satisfaction.
+
+“Look at you being all uncouth.” Sixiang laughed, the ghostly image of their face appearing over her shoulder. “Tut, tut, what would everyone think?”
+
+“There’s no one around to complain,” Ling Qi said dryly, shaking out her sleeves to make them hang properly again as she lowered her arms. She paused for a moment, considering. “No one who could politely admit it anyway.”
+
+There were probably a lot of perception-focused cultivators around after all. She began to walk again, leaving the pavilions further behind as she headed toward the hills. She had flown this far, but she had felt like strolling the last bit.
+
+“Seriously though, you’ve gotten better,” Sixiang said idly, their phantom weight resting on her shoulder.
+
+Ling Qi let her gaze wander up to the afternoon sky. “So have you. Do you remember that first party?”
+
+Sixiang cringed theatrically. “Ugh, we were both a couple of bumpkins, huh?”
+
+“A bit. It was disrespect on my part though.”
+
+“Yeah,” Sixiang agreed.
+
+There had been a certain contempt, Ling Qi thought, for the idea of nobles. It was still there in the corner of her heart every time she saw a display that could have fed a city if it was sold, if she were honest. But it was just the way things were. The strong do as they will; the weak do as they must. That was life.
+
+“It doesn’t always have to be like that,” Sixiang contended.
+
+“Sure,” Ling Qi said easily. “I believe in Renxiang after all. But it’s always going to be a struggle not to revert to the resting state, even if we succeed at everything. My original point was, all these displays and rituals… They’re not so different from what the priests do with spirits. This stuff is all carefully constructed to discourage us from staving each other’s heads in with rocks.”
+
+“You’d all probably be more flashy about it,” Sixiang accused.
+
+“A fancy rock is still a rock.” And that was what she was doing now in trying to extend those rituals, that acknowledgement, to a whole other people. that they might all avoid painting the mountains crimson.
+
+When in the world had she begun to think that she had any business taking on such a problem?
+
+“When you decided you were gonna reach the peak of cultivation,” Sixiang answered.
+
+Ling Qi didn’t reply. They had arrived.
+
+She saw Xuan Shi and Wang Chao up on the hill, but Luo Zhong stood at the top of the hill with them, smiling easily as he chatted with the animated Wang Chao. Zhengui watched them all with what she recognized as polite befuddlement, which probably meant they were talking politics.
+
+“Hello, honored guests,” Ling Qi greeted politely as Sixiang’s image blew away on the wind. “It looks like we have picked up one more.”
+
+“Sect Brother Luo met us on the way, and I didn’t see the harm in bringing him along,” Wang Chao declared cheerfully. “We already intended to invite him to our gathering after, no?”
+
+“I am sorry for the intrusion, but this sounded quite interesting,” Luo Zhong said in a conciliatory tone. “I will leave if our host wishes.”
+
+It would be rude. Not unacceptably so, but just enough. It reminded her of why Luo Zhong irritated her just a little. “I don’t mind your presence. Sect Brother Xuan?”
+
+“This one has no objections,” Xuan Shi said placidly. “If Sir Wang and Lady Ling believe Brother Luo’s integrity.”
+
+Of course not.
+
+“Do you know what we were intending, Luo Zhong?” Ling Qi asked politely.
+
+“Some casual technique and formation demonstrations,” Luo Zhong said, straightening up from his bow. “Sect Brother Xuan’s innovations are impressive, or so I hear.”
+
+“Sect Brother Luo is too generous,” Xuan Shi said, shrugging his broad shoulders. “And this is merely a casual meeting.”
+
+Ling Qi blinked at the emphasis Xuan Shi put on that word, and she knew Luo Zhong caught it too from the way he straightened up marginally.
+
+<Turtle-boy doesn’t usually stand up for himself like that,> Sixiang thought.
+
+“Yeah, Big Sis said this was just for fun,” Gui intruded haughtily. The tone really didn’t suit him.
+
+“Haha, of course it’s just for fun, Sir Ling,” Wang Chao chuffed. “I think we’ve all had enough of serious concerns for the day. You would not believe how my sister grilled me over my performance in these last months.”
+
+Ling Qi smiled. “I am sure your elder sister is merely showing affection in her own way. She only wishes for you to excel.”
+
+“Bah, she’s gotten to you already!” Wang Chao threw up his hands.
+
+Luo Zhong watched them pensively. Xuan Shi did so with an unreadable air.
+
+Ling Qi watched Luo Zhong out of the corner of her eye, considering. How did she want to handle his presence?
+
+Well, the best thing was just to treat him like any other plus one Wang Chao would have brought along. Maybe she could get him to cough up what he wanted without dragging it out.
+
+<Sixiang,> Ling Qi thought. <Could you let Xuan Shi know my thoughts on this? I’d like to not leave him out.>
+
+She didn’t forget Xuan Shi’s words that she didn’t respect him. She saw no reason to feed Kongyou’s plots on that account.
+
+“So, how did you hear about this meeting, Sect Brother?” Ling Qi asked.
+
+“Ah, Sect Brother Wang was discussing his meeting with some of our peers,” Luo Zhong replied pleasantly. “The chance to see the craft of the venerable Xuan in action was too good to pass up.”
+
+Of course he had, Ling Qi thought. Wang Chao liked attention. If she were being unkind, she would say he liked to brag. It wasn’t the worst flaw to have, but it did have its downsides.
+
+Wang Chao grinned. “Of course I did! I’m proud of my companions! Ah, Lady Ling, you may end up fielding some questions regarding your gardening.”
+
+“It’s not something worthy of attention yet,” Ling Qi demurred. She was certain Wang Chao was overestimating things. Her hobbies weren’t important. At most, a few might be interested in Zhengui.
+
+“Yeah! This one’s just practice, even if it turned out pretty good,” Gui chirped.
+
+“Hmph. Elder Sister and Gui should have more pride,” Zhen hissed.
+
+“Weigh this one’s opinion how you will, but thy design principles are sound, however they came about,” Xuan Shi said thoughtfully, glancing her way.
+
+<He says he’s fine just treating the guy as another guest, as long as he acts the part,> Sixiang whispered.
+
+“I hadn’t heard you were expanding your hobbies, Sister Ling,” Luo Zhong commented.
+
+“I’m simply exploring my little brother's nature more thoroughly. But please, this meeting is not about me. Brother Xuan, I’m interested in seeing what you’ve done with your armors since I last saw them deployed.”
+
+“Yes! I am looking forward to testing my might against your shell!” Wang Chao agreed excitedly.
+
+Xuan Shi looked at her for a moment and nodded once. “As Sister Ling wishes. Let us find a clear space then.”
+
+He turned, and they followed. Zhengui's trundling footsteps drowned out the natural ambience as they climbed the rest of the way to the top of the hill to a wide patch clear of any scrub, brush, or grass.
+
+“Well cleared,” Xuan Shi mused.
+
+“Big Sis said it was okay to eat everything since we would grow it back later,” Gui explained.
+
+“This one is thankful for the consideration,” Xuan Shi said politely. She had spoken to her little brother at length about trying to be polite, and it seemed to be working. “Most key in recent efforts has been the development of these gauntlets. More than armor, they are mobile forges and carvers.”
+
+Xuan Shi extended his arms, shaking out his sleeves to better show off the blocky gauntlets she had seen him wearing for some time now. They were made of some kind of ceramic, glazed in dark brown and green colors that matched his robes, and were meticulously articulated to allow for near full range of motion.
+
+As she watched, they whirred and clicked, and panels on the back of his wrists opened, spitting hexagonal ceramic plates into the air. She felt the qi in his arms pulse, and complex formations flashed across their surface with a sizzling hiss, and the plates began to whirl lazily around him.
+
+“A combination of an art with a talisman?” Ling Qi guessed.
+
+“Ah, I have heard of this! I did not know that you could perform such crafts without the backing of shen,” Wang Chao said, watching the panels fly. “How do you perform the replication?”
+
+Luo Zhong watched silently, but Ling Qi could feel he was paying attention.
+
+“The plates are stored uncarved. The purpose of the gauntlets is to store and impress the formation patterns,” Xuan Shi explained graciously, allowing more and more of the whirling panels to emerge. “This one merely developed upon the work of his ancestors in the art. An old construction art was made useful for this purpose.”
+
+Ling Qi watched the steady pulse of Xuan Shi’s dantian as it sent flows of qi moving through the gauntlets and the panels.
+
+Luo Zhong spoke up. “The panels themselves only have the simplest of receiving, functioning, and energy storage on them. The gauntlets do not merely create and store the physical shells for imprinting, but… Ah, no, you’ve hidden the controlling arrays, haven’t you?”
+
+Xuan Shi blinked and gave a slow nod. “Yes, this one chose a comprehensive approach. The Cai school of thought with its interlocking talismans is most intriguing.”
+
+“Here, here, no one better to take inspiration from than our Duchess,” Wang Chao said, only to blink. “Er, that is, except your own Duke of course, my friend!”
+
+“The Duke Xuan’s eyes are cast upon other seas. There is no offense.” Xuan Shi chuckled. “All wise in talisman craft look hungrily upon the developments of the Emerald Seas.”
+
+“Brother Xuan is generous to us.” Luo Zhong smiled thinly.
+
+“Not without cause,” Ling Qi said lightly. “So, Wang Chao and I planned some games with Sir Xuan to test his work. Do you plan on participating, Brother Luo?”
+
+“I am not much of a warrior, but if you will have me, I might have a few tricks to test the device’s capabilities with. Assuming Sir Xuan approves.”
+
+“Comprehensive testing may only help improve these simple projects,” Xuan Shi said humbly.
+
+“Ah, give me the first go, will you?” Wang Chaorolled his shoulders as he stepped forward.
+
+“I have no objections,” Ling Qi said, dipping her head.
+
+“Nor I,” said Luo Zhong.
+
+“Go get him, Mr. Avalanche!” Gui declared cheerfully from the sidelines. “I’ll make sure you don’t break the hill!”
+
+Her little brother was a good boy really, Ling Qi thought. She felt his roots growing throughout the hill, binding dirt and stone together in a web of living wood.
+
+“Haha, Sir Ling overestimates me!” Wang Chao stepped away from them to follow Xuan Shi further out into the cleared dirt.
+
+Ling Qi glanced toward her unexpected guest, crossing her arms loosely as the other two boys took up places across from each other. Wang Chao crouched, taking a runner's starting stance while Xuan Shi stood with a wide stance, his tiles whirling around him by the dozens.
+
+“Brother Luo certainly involves himself in many projects,” Ling Qi noted.
+
+“It is wise to have a diverse array of investments,” Luo Zhong riposted.
+
+There was a tremendous bang, and the hill shook violently under their feet. The shockwave of impact as Wang Chao’s charging shoulder struck the gathered barrier of hexagonal plates sent her hair fluttering, and Wang Chao became visible again, his feet having dug furrows in the dirt where he had landed after bouncing off.
+
+“It seems that lack of focus could be detrimental though,” Ling Qi said.
+
+“A possibility,” Luo Zhong admitted. “But we cannot all be blessed by fortune. Some endeavors fail, and thus, it is important to have other plans.”
+
+Ling Qi shot him a look out of the corner of her eye as the hill began to quake in rapid succession, light flashing and air rumbling as Wang Chao began to attempt to batter through in earnest.
+
+“And you see opportunity here?” Ling Qi asked.
+
+“The Xuan will be a greater presence going forward. It would be good if I could make connections. The same goes for your matter. It seems I might have made an error though,” Luo Zhong said.
+
+“This is, after all, an informal gathering. I am sure you will have opportunities, if your impression is good,” Ling Qi said.
+
+“This reversal does not escape me. But look, Sect Brother Wang is about to make a breakthrough.”
+
+Ling Qi looked back in time to see the fragments of a broken tile fall to the ground and hear the faint crack of shattering ceramic.
+
+Wang Chao stood, breathing heavily on the cratered hilltop, but a moment later, he grinned. “So there is a limit to how much energy you can redirect!”
+
+“Brother Wang is vigilant,” Xuan Shi said, a touch of pride in his voice. “But can he keep up such speed for long enough?”
+
+“Nay, not like this. But it’s interesting! You aren’t stopping me; that would be much harder! You are stealing my momentum!”
+
+She thought she saw Xuan Shi smiling behind his collar. “Repurposing the enemy's qi allows the technique to maintain itself for longer action. But Brother Wang has seen that the storage may be overwhelmed.”
+
+“Hmph, perhaps with my beast and my spear, I might break through for a few blows,” Wang Chao said, stroking his chin thoughtfully. ”But truly, I am not certain I could defeat you unaided, Sect Brother.”
+
+He did sound a little disgruntled but not much. Xuan Shi’s status as a ducal scion must have salved any wounded ego.
+
+“Unbreakable defense is where the sons of the Savage Seas excel, even one such as me,” Xuan Shi said.
+
+“Does it work as well with spiritual attacks?” Wang Chao asked.
+
+“Perhaps Sister Ling would care to try?” Xuan Shi redirected.
+
+“Of course,” Ling Qi said with a nod. She stepped forward, passing Wang Chao, who was already loudly blustering about his performance and Xuan Shi’s talismans to Luo Zhong.
+
+She came to stop a few meters from Xuan Shi only to pause as a voice spoke in her mind.
+
+“Heya, my guy wanted to know if you’ve figured anything out?” Kongyou’s tone was gratingly cheerful.
+
+“He’s seeking clan connections to the Xuan,” Ling Qi thought back, keeping her expression even.
+
+“I hope my performance isn’t too disappointing. I haven’t been cultivating my direct attacks much recently,” Ling Qi said aloud.
+
+“The type of assault offers more than its potency.” Xuan Shi spread his arms wide. “Please, test me, Sect Sister.”

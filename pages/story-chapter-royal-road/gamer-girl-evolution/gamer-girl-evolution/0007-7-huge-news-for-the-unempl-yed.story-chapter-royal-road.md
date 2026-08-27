@@ -1,0 +1,149 @@
+---
+id: 15473fff-ebe1-54ad-ae29-ddcc7a872141
+page-type-slug: story-chapter-royal-road
+title: "7 – Huge News for the Unempl*yed"
+slug: 0007-7-huge-news-for-the-unempl-yed
+partOf: gamer-girl-evolution
+position: 7
+ownLength: 1776
+unit: words
+ownProgress: 1776
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620543/7-huge-news-for-the-unemplyed"
+royalRoadId: "2620543"
+markedReadAt: "2026-06-29T20:05:49.008Z"
+---
+
+The mist thickened until it blotted out the dungeon transition screen. Then, slowly, it peeled back to reveal rows of crooked tombstones stretching into the gloom. The ground squelched under Celica's boots, damp soil giving way to patches of cracked stone.
+
+[You have entered: The Forgotten Graveyard. Clear all hostiles to proceed.]
+
+Celica whistled high, her breath steaming. "Cheery place," she muttered, as she tugged her blade free.
+
+The first skeleton rose almost immediately, ribs creaking as it pulled a rusted sword from the dirt. Its skull snapped toward her, sockets glowing faint green. More followed, clawing out of graves, their bony hands rattling.
+
+"Classic," Celica said, muttering under her breath. The first skeleton lunged with a surprising burst, sword slashing in an overhead arc. Celica dodged, steel whistling past her ear. She countered with a thrust, her blade punching through bone like paper.
+
+Slash → Thrust → Cancel → Slash again. The animation chain snapped together like it was all one command, as bones scattered across the mossy stones. Three down. Dozens more to go.
+
+A shriek tore through the fog. Not a skeleton this time, but a ghoul—half-rotted flesh, hunched and twitching. Its claws glistened like oil as it bounded toward her on all fours, faster than any level-fifteen mob had a right to be.
+
+"Now that's new."
+
+Celica juked sideways, watching its momentum carry it just far enough for her to step past its flank. One precise slash opened its spine. It twitched once before dissolving into mist.
+
+The banshee’s wail came next, high-pitched and mournful, rattling through her virtual skin as the mist swirled harder. For an instant, her HUD fuzzed, static eating the MP bar.
+
+"Status debuffs? On the first floor?" Celica's brows furrowed. "Even in the forums I never heard about stuff like this in the original timeline." Still, she wasn't fazed. She moved like a blade herself, pivoting between mobs, every swing backed by animation cancels that looked like hacks.
+
+Ghouls fell. Skeletons crumbled. Even when the banshee appeared—transparent, draped in spectral cloth—her Thrust-Slash chain landed clean through its incorporeal chest, the double-register ignoring its usual evasion frames.
+
+The battlefield quieted at last, only mist curling around her ankles. Celica sheathed her sword slowly, her eyes sweeping the environment. This wasn't just filler terrain. She knew the devs had tucked in details, somewhere. They always did.
+
+Maybe that’s it... she thought to herself, her eyes hovering over a specific place in the distance. A shrine sat at the far edge, cracked down the middle. Black vines snaked through it, wrapping around the broken statue of some forgotten guardian.
+
+Once she’d gotten closer, she knelt down, brushing dirt from a fragment of inscription. The letters shimmered faintly, just legible:
+
+"When the gates fell, the dead marched first. The living followed."
+
+Celica frowned. She didn't remember this. Not this area, or the shrine, and definitely not the inscription. In her past life, the undead hadn't been tied to the game's lore until much much later.
+
+"Has the timeline shifted?" she whispered, her eyes narrowing. The mist rolled heavier, as if the stage itself answered her thought.
+
+A low rumble shook the ground as more skeletal hands burst out of the earth, though these were different. They had darker bones and gilded armour fragments which clung to their frames. Higher level, different code. Seeing this, Celica's grin returned. "Alright then. Round two."
+
+She darted forward, frame-perfect cancels already lined up in her head, every swing decisive. Quickly, the new wave of undead had met the same fate as their predecessors. Death.
+
+Once all the mobs were gone, the graveyard mist pulled away like curtains, revealing a narrow passage of black stone. Celica stepped through, sword loose at her side, until the corridor opened into a chamber far larger than it should've been.
+
+The ceiling vanished into darkness. At the centre stretched a shallow pool, perfectly still, perfectly reflective. The water glimmered faintly, like polished marble. Celica stopped at the edge of the pool, her boot creating thin ripples. The reflection looked back at her—the usual faint smirk tugging at her lips.
+
+The water trembled.
+
+Her reflection moved first, smirk widening into a cruel grin before it rose from the pool, water cascading off a body identical to hers. Something stood there—an echo of her in every way, except for the expression. It raised its blade.
+
+[Celica Crystalis Clone level 20]
+
+Celica chuckled, resting her sword across her shoulders. "Ah, the classic mirror match. Always trips up noobs who just button-mash. But me? I actually know how to play this game."
+
+The copy didn't answer. Instead, it lunged. Steel clashed, the chamber ringing with perfect echoes. Sparks flew as the real Celica’s arm jolted. She blinked. "It… parried?"
+
+The clone twisted into a flawless counter, mimicking her own movement cancel chain. It didn't glitch or jitter—no, it flowed like water. Every strike was by the book, textbook perfect, but without the jagged exploits she'd carved into her muscle memory.
+
+The duel was fast. Too fast. Each time she landed a hit, the mirror tightened its parry timing, learning. Her combo starters stopped slipping through as easily.
+
+"Tch. Adaptive AI," Celica muttered, circling the pool. The clone slashed again, forcing her to backstep. She countered with a hop, sliding past its swing to carve into its flank. Her blade sang, cutting HP chunks free.
+
+Celica's grin sharpened. "So you can learn, huh? Cute. But you're still missing one thing."
+
+Her movements blurred, breaking frames and cancelling animations faster than the eye could follow. Thrust → Slash → Double-register overlap.
+
+The clone stumbled. Its AI twitched, trying to mimic—but it couldn't. No dev script accounted for an exploit that wasn't supposed to exist. She pressed the advantage, the double-register glitch poured damage like a waterfall.
+
+The mirror's HP bar shredded in chunks, plunging toward zero faster than the adaptive logic could keep up. It tried one last desperate counter, but the timing faltered, sloppy compared to her precision.
+
+Celica drove her blade straight through its chest. For a heartbeat, both stood locked together, mirrored images frozen at the pool's edge. Then the red glow in the clone's eyes guttered out. Its form broke apart into shards of glass and shadow, scattering into the reflective water below.
+
+The pool stilled again, showing only her reflection.
+
+She exhaled, rolling her shoulder. "Nice try. But you'll never beat the original."
+
+[Congratulations: The Forgotten Graveyard has been cleared.]
+
+The chamber walls rippled, pulling her forward to the final reward. At the centre of the floor, a chest materialized with a dull thunk. Its surface wasn't gold or ornate—just blackened steel, etched with runes that pulsed faintly.
+
+Celica approached, rolling her shoulders. "All that sweat better be worth it."
+
+She placed her hand on the lid. The chest clicked open.
+
+[Congratulations. You have obtained the Hidden Job Class: Supporter.]
+
+[This class is unique. No other players may access it through normal progression.]
+
+Inside lay a scroll wrapped in bone-white silk. It radiated with a low hum, faint motes of light drifting off it.
+
+Celica lifted it, a smirk tugging at her lips. "Supporter, huh? I heard this job was really OP but..."
+
+Her fingers tightened around the scroll. She knew exactly what this represented. In her last life, the Supporter class was a rumour originating from the Chinese server—a myth hidden in datamines, argued about in forums. Half the community thought it was a joke. The other half killed themselves searching for it. And now, it was hers.
+
+Celica pulled open her status page, eyes scanning the new tab that had appeared.
+
+[STATUS]  Celica Travine Crystalis <Slime Nightmare> Level 20 Human (Supporter) EXP: Max / Max STR: 57 | AGI: 53 | VIT: 5 DEX: 5 | END: 5
+
+"…Wait. That means—" she paused, her eyes widening as if she couldn’t believe it. “I’m no longer j*bless! Mom, Mom, look! I’ve got a job!” Not so silent tears of joy rolled down Celica’s cheeks.
+
+Then, the world cut to black. Celica reappeared at the spot just outside the hidden stage. No trumpets. No glowing virtual text across the sky. She exhaled slowly, rolling her shoulders. Good. No public announcement this time.
+
+With a thought, her status menu flickered open, panes of pale blue light unfolding in front of her. She tapped into the skills tab, hungry to see what she'd just earned. Beneath it, four entries glowed softly:
+
+Cleanse Aura (Foundational skill) — Remove all applied debuffs. Cooldown is one minute.
+
+Basic Buff: Strength (Foundational skill) — Increase strength stat of three allies by ten percent. Lasts for thirty minutes. Cooldown is ten minutes for each individual cast.
+
+Basic Buff Agility (Foundational skill) — Increase agility stat of three allies by ten percent. Lasts for thirty minutes. Cooldown is ten minutes for each individual cast.
+
+Celica's lips curled into a grin. "Oh, now this is broken." She scrolled further. At higher levels, the skill list greyed out, locked behind experience she hadn't yet earned. Even so, the previews made her eyes widen.
+
+Item Augment — buffs consumable items, increasing their efficiency.
+
+Aggro Redirect — force enemies to target specific allies or ignore her entirely.
+
+Aura: Infinite Sustain — passive regen stacked per party member. Can be hoarded or shared with players in the party.
+
+Chrono Stack — increases item drop rate by 0.1% for each crit landed on the enemy. (Toggleable Passive)
+
+Her grin stretched sharper. "Of course, they buried the broken stuff under a class nobody would ever find."
+
+She had heard whispers about this. Obscure forum posts back in her first life, half-mocked as hoaxes: 'There's a hidden class that’s way stronger than people know.' 'Some Chinese player found it, but then they quit.' She'd assumed it was all trolling. But it was real.
+
+Celica dismissed the menu and drew her blade. She glanced around: empty trees, rocks, a couple of dumb goblins respawning in the distance. Perfect test ground.
+
+"Alright. Let's see what you can do."
+
+She activated the Basic Agility Buff and darted towards some nearby goblins. In an instant, she closed the distance, her strikes blurring as her sword weaved through several goblins at a ridiculous speed. Her laugh came sharp and delighted. "Oh, that's filthy."
+
+She slid the blade back into its sheath, grin softening into something more cautious. Testing was fun, but showing off would be suicide. She'd need to hide this class, keep the Supporter's true power buried until she could weaponize it fully.
+
+Still, as she flexed her hands and the glow of Supporter buffs pulsed faintly across her HUD, she couldn't stop herself from whispering:
+
+"Feels good to be empl*yed."

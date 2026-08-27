@@ -1,0 +1,171 @@
+---
+id: c375b5cb-9e3e-5ef7-af71-bc4baa48b053
+page-type-slug: story-chapter-royal-road
+title: "35. Upper Peak"
+slug: 0035-35-upper-peak
+partOf: god-of-trash
+position: 35
+ownLength: 2672
+unit: words
+publishedAt: 2025-03-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2160054/35-upper-peak"
+royalRoadId: "2160054"
+---
+
+Aquari stared at him, taken aback. “The trash?”
+
+Rhys nodded. “It’s my path. I can burn it to get stronger.”
+
+She considered for a moment. Her lips twisted. “I have to admit, I have no particular use for the trash, and I wouldn’t mind to see it gone. Someone recommended to me by the majority of the lower-peak teachers is surely trustworthy enough to handle the trash. However, I am the Schoolmaster. I also have to consider the other students. If I give only you access, won’t everyone stronger than you also request access? It’ll be quite annoying for me.”
+
+Rhys nodded. “I can keep it secret.”
+
+As if she hadn’t heard him, she continued. “But if it’s part of your duties, no one would question it.”
+
+Rhys’ eyes widened. He shut his mouth. She didn’t actually care about the other students, she just wanted him to do something for her. Well, that wasn’t a problem for him. Whatever she wanted, he’d do his best to accomplish. It wasn’t as though he had grand plans, other than continuing to study with Ev and absorb the toxins from the cauldrons. He had all the time in the world. As long as she didn’t ask him something he wasn’t capable of, or couldn’t eventually achieve, this was a step in the right direction.
+
+“We have a… guest teacher coming soon,” Aquari murmured, lowering her eyelids and gazing somewhere interminable. She turned her eyes to Rhys once more. “You will be his assistant with everything here on the mountain. His will is your command. But remember to hold your school first and foremost. He is only a guest, and should be treated with respect, but no more.”
+
+I understand. Rhys nodded. This ‘guest teacher’ had some ulterior motives, if he was picking up what she was putting down, with those long pauses and reminders about respect. Aquari wanted him to show the guest teacher around with the utmost respect, but not allow him to see any of the school’s secrets. Not that Rhys knew any of the school’s secrets, but then, didn’t that make him the ideal escort?
+
+“I’ll do it,” Rhys agreed.
+
+“Excellent.” Aquari fished around in her robes and pulled out a small, palm-sized flat gem plate. The hexagonal plate was about a milimeter wide, but only partially translucent; the gem was cloudy, shot through with thin hairlines and a faint glow of mana.
+
+“This is the key to the upper peak. I will not give you a second one. Hold on to it, or lose access to the upper peak.” She handed it to him.
+
+Rhys accepted it in cupped hands and slid it into his storage ring. He wasn’t going to show this to anyone. Not even Ev. This was his ultimate treasure, his key to the next tier of trash, his route to unlock his destiny… but mostly his method of absorbing the toxic trash pit’s gunk.
+
+“The guest teacher will be here in a few weeks. Prepare yourself.” Aquari turned to walk off. At the last second, she turned back. Her eyes locked with Az.
+
+Az lowered his book just a hair. He cocked a brow.
+
+“I don’t recall acquiring a librarian.”
+
+“You wouldn’t,” Az agreed.
+
+They held one another’s gazes. A great surge of mana emanated from Aquari, given form as a shapeless pressure, as if she’d turned up gravity a dozen times, or plunged him into the deep sea. It wasn’t directed at Rhys, but the weight forced him to his knees anyways. He toppled forward, and barely caught himself with his hands before he fell completely flat.
+
+Az, on the other hand, remained completely unbothered. He lowered his gaze from Aquari’s and turned back to his book.
+
+Aquari retracted her pressure. “Who are you? Why are you here?”
+
+“Be a shame if such a magnificent collection went to waste. I simply decided to cat-ch it for myself.”
+
+She narrowed her eyes.
+
+Az lowered his book with great reluctance and spread his hands. “Cat got your tongue? Schoolmaster, pay me no mind. Write me off as one of those eccentrics and leave it be. I go where I please and I do as I like. A free spirit, if you like.”
+
+“How long have you taken root here?”
+
+Az chuckled. “Is that not an indictment of yourself more than me, Schoolmaster? Should you not know the goings-on of your lower peak better than anyone?”
+
+“Can I not be rid of you?”
+
+“When I please. Or would you like to try violence? I warn you, I won’t sheathe my claws.”
+
+Rhys had climbed back to his feet during their exchange. He dusted off his hands, then looked at Aquari. “Why run him off? He’s been very helpful. And you aren’t paying him, so he’s working for free. Isn’t that ideal?”
+
+Aquari frowned, but didn’t have a counterpoint. She pointed at Az. “I’ll see you in the upper peak.”
+
+“No, you won’t.”
+
+“I had better.”
+
+“You’d be better off forgetting about me,” Az murmured. His eyes glowed.
+
+Aquari jumped back. She raised a hand, and a pale shield of light wrapped around her.
+
+Az chuckled. “…or you could leave me be. Besides, I have no key. How could I possibly enter the upper peak without one?”
+
+His voice dripped with a level of derision that suggested he would have no problem entering the upper peak, if he wanted to.
+
+Aquari narrowed her eyes at him, but backed off. “Congratulations, you’re hired. Welcome to your new post, Librarian.”
+
+“Oh my, oh my. Official recognition, how exciting.” He lifted his book and went back to reading.
+
+“I’ll expect you to teach a class and report to yearly meetings.”
+
+“Expectations. I couldn’t imagine letting them down.”
+
+Aquari scoffed. She turned on her heel and marched out. Her eyes landed on Rhys, who had seen all this, and she froze.
+
+Rhys lifted his hands. “I saw nothing. The Schoolmaster’s power is absolute.”
+
+“Of course it is.” With a final harrumph, she walked out. Sunlight spilled in for a moment, and then the door slammed shut.
+
+Having watched her go, Rhys turned to Az. “So… who are you?”
+
+“I told you, didn’t I? A free spirit.”
+
+Rhys pressed his lips together, then sighed. He could already tell that Az wasn’t going to tell him any more.
+
+“But to you, I’m the librarian. Now get out of my library,” Az said, tossing a book at him.
+
+“Wait, wait. I read that series you leant me.” Rhys withdrew it from his storage ring and handed it over.
+
+For the first time since Rhys had arrived, Az sat up to receive the books. “So? What did you think?”
+
+“It was a good time! The last book was a bit eh, but it was pretty good until then. And it had to finish somewhere, I guess.”
+
+Az nodded. He pushed one of the stacks on his desk forward. Looking closer, Rhys saw it was a new stack, one he hadn’t seen before. “Try that one next.”
+
+“Got it. Thank you.”
+
+“Of course.”
+
+He paused. “Er, if you aren’t actually a teacher here… how did you summon Aquari?”
+
+Az laughed. “Isn’t it obvious? What’s more startling than finding out you suddenly have a Librarian you didn’t hire?”
+
+Rhys opened his mouth, then closed it. Az had a good point. He’d go check it out, if someone he’d never heard of suddenly claimed to be his employee. “Why don’t any of the other teachers question you?”
+
+Az smiled, but didn’t say anything.
+
+Rhys snorted to himself. Az wasn’t revealing his mysteries? That was fine. He didn’t really need to know. He already understood the most important part, anyways: Az was stronger than Aquari, to the extent that Aquari couldn’t do anything about him. Rhys got the distinct impression that there were probably schools which would be happy to have someone like Az colonize their library… but, well, the Infinite Constellation School was just trashy enough that Aquari was angry, instead of appreciating her good fortune.
+
+One way or another, Az didn’t seem to mind, and as for Rhys, a trashy school suited him, so he didn’t bring it up.
+
+Rhys nodded. “Thank you for all your help.”
+
+“Mhm. I’ve taken a shine to you, Rhys.” Az stretched luxuriously, resting his book on his chest to tuck his hands behind his head. “I think you and I have a great future ahead of us.”
+
+Is this what it feels like when a stray cat randomly comes up to you and decides it’s your cat, now? Rhys wondered. He didn’t give voice to his thoughts, though. Having a high-Tier expert on his side sounded like a good deal. Though, given how catlike Az was—since he’s literally a cat, after all—he was pretty sure he’d be a fool to rely on Az to help him, except when the man felt like it.
+
+“I hope so as well,” Rhys said, smiling.
+
+“Now get out. It’s naptime.” Az waved him away, vlosing his eyes even as he spoke.
+
+Rhys saluted and scurried out, as Az had indicated. He didn’t want to get on the guy’s bad side. Not right after he’d declared something like appreciation toward Rhys.
+
+Exiting the library, Rhys stood under the sky for a few moments, considering his next move. No matter what he came up with, though, one pressing prerogative kept floating to the top: the trash in the upper peak. He was probably ready for it, at least the weakest parts of it. And not only that, but the mysterious ‘guest teacher’ with unknown ulterior motives would be on his way soon. Getting the trash now meant protecting his path from the teacher… but more importantly, it meant getting information on this guest. If Aquari had thrown out any correspondence with him, any of the paperwork, even an indication of what school he was from, that would be invaluable information that Rhys could either directly capitalize on, or read up on in the library later.
+
+“Nothing for it,” he muttered to himself, and turned his feet toward the upper peak.
+
+He didn’t walk directly there. That would be foolish, when Aquari had just indicated that access to the upper peak was a point of contention among other students. Instead, he ran off into the woods as if he was going to meet up with Ev, then rounded the mountain up toward the upper peak. The barrier that surrounded the upper peak had no visible entryway, so he was willing to bet it was equally accessible from any point on its perimeter. He could be wrong, but better to start sneaky and get pushed back to the front entrance, than to start with the front entrance only to find out he had a sneaky route all along.
+
+He drew up to the barrier and pulled out his pass. Nothing about the barrier changed. He looked at the pass, then at the barrier, then back at the pass. Slowly, he advanced toward the translucent blue wall of the barrier, one hand out.
+
+His fingertips pressed against the blue surface. Ripples spread from where he touched, as though he’d dipped his hand into water. His fingers slipped past the barrier with no more resistance than the surface of water. He passed through, and stood on the other side of the barrier. He’d reached the upper peak.
+
+“Huh,” he muttered. He’d wanted this since he’d arrived. Access to the upper peak, and its precious trash. Now that he was there, he didn’t know what to feel. He was happy, that was sure, but that was about it. He still had lots of work ahead of him.
+
+Rhys tucked the pass back away, then clapped. Lots of work to do, and it was time for him to get down to it. Just like the lower peak when he’d first arrived, the upper peak was strewn with garbage. There was trash absolutely everywhere. Even out here, on the edge of the barrier, little bits of trash were strewn around, wrapped around the trees or tangled in the undergrowth. It reminded him of his home world, honestly.
+
+But unlike back home, this trash would make him far more powerful. He picked up a scrap of paper and instantly felt the thrum of mana in it. One piece of trash, made of more powerful materials, held almost as much mana as a small trash pile.
+
+He collected the trash as he walked, piling it up into a bag. To burn here, or burn back in his cave? It wouldn’t give himself away to burn it up here, at least not now. The students thought he was a god, or cryptid, or something. No one but Ev and Tarais would link the black smoke to him.
+
+But on the other hand, if anyone ever did figure it out, they’d know he was able to access the upper peak immediately. The jig would be up. The other students who cared about such things, who were probably the powerful ones to begin with, would be up his ass.
+
+And on the other, other hand, if he dragged powerful trash down the mountain, he risked losing it. At this power level, even the students who didn’t care about trash might take an interest in his treasure. It emanated powerful mana pressure, enough for other students to notice, and more than enough for them to come after him or investigate it.
+
+He looked at his storage ring, then immediately dismissed it. The storage capacity was big enough for what he needed—some particularly choice pieces of trash for use with Trash Intent later, his herbs, a beat-up cauldron, and a few other do-dads he liked to keep on him—but it wasn’t large enough for all that and a trash pile. He didn’t want to completely empty it out to carry the smallest of trash piles down the mountain, because, after all, he wanted to push his limits and grow. Eventually, he’d be burning huge piles of trash, which wouldn’t be able to fit in the ring at all, even if he emptied it. Taking the trash down in batches had the same problem as toting high-powered trash down the peak. The aura risked luring the students to his little hideout, and the last thing he wanted to do was give away his safe spot, his home base, to a random passing student who got curious about the powerful mana signature coming from a supposedly empty patch of mountain. It wasn’t a viable option.
+
+So either he burned it up here, and when or if they figured out that he was responsible for the smoke, he was in trouble, or he burned it down there, and if any students decided they wanted the powerful stuff he was lugging around, he was in trouble.
+
+Rhys twisted his lips, thinking for a moment, then shrugged. The trash was up here, and there was a barrier between him and the other students. He could always flee back up here or into the library if the other students caught on, though with the rumors going around? He was pretty sure anyone who tried to claim that little weak Rhys was the ‘Impure King’ or whatever they called the black smoke he produced was going to get ridiculed. He smirked at the thought of the strange mythos around him, and what sending smoke up from beyond the barrier of the upper peak was going to do to it.
+
+Only one way to find out. He threw down the cloth, piling up the trash he’d gathered so far. There wasn’t much of it, but already, its mana signature rivaled the pressure of an entire potion of filth. Even this remained but a fraction of the impurity and mana level of the toxic pit, but it was a place to start. A first step, in a long upward climb… or downward fall, into the pit.
+
+Rhys took a deep breath. He clapped his hands together, then approached the pile. “Here we go.”

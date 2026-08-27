@@ -1,0 +1,157 @@
+---
+id: eacf3620-ea1e-5b37-ab0b-d435cc64052f
+page-type-slug: story-chapter-royal-road
+title: "Threads 413-Taming Winter 2"
+slug: 0457-threads-413-taming-winter-2
+partOf: forge-of-destiny
+position: 457
+ownLength: 1927
+unit: words
+publishedAt: 2024-11-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1903934/threads-413-taming-winter-2"
+royalRoadId: "1903934"
+---
+
+Winter comes as the frost maiden's train. The clouds are the billow of silk in her stride. The snow falls upon the land and leaves the glittering beauty of white.
+
+The maiden's voice rises, the soft song which tugs at and shakes loose the last crinkling leaves, beauty ephemeral passing as it may only once in each turning.
+
+On comes the winter. On comes the snow. See its glitter, look in awe upon the hills laid to rest 'neath the blanket of white.
+
+See the mortals, telling their tales round the fires, the nurturing blessing of belief, winding to the skies. Feel the smoke that rises and crackles with the meat of sacrifice. This is the maiden's offering, that all her attendants might partake of.
+
+Faeries shrieked and called out to one another over Hanyi's voice as she built herself up.
+
+The mantle of spiritual power Ling Qi had drawn about herself was spooled into the figure Hanyi was making of herself in the whirling column of snow ahead. Her stage was the hilltop, slick now with ice. She was tall now, taller than Ling Qi, with a white gown as elegant as her mother’s and whipping white braids dissolving into the snow and wind at the tips of her hair. In her hands were fans of transparent ice etched with patterns in blue and black, fluttering before her face and accentuating her dance as she sang.
+
+Hanyi was going to be a dangerous spirit when she grew older.
+
+The shrieking laughter was lesser now. The faeries of the snowstorm were flickering and ephemeral, mostly first realm but some on the verge or peaking into the second. They bobbed and tittered, entranced and hungry. They were small vessels, but they were cold, and the cold was never far from the darkness and hunger. Such a meal as Hanyi sang of was no small offer.
+
+A shard of ice cut through the air and shattered against one of Hanyi's fans. It was the first of many, pelting the hill. Each one carried mockery and derision.
+
+“City-thing, man-thing, soggy witch, these hills already sing, a beauty greater than thy own!”
+
+Up in the clouds, Ling Qi saw the ripple of blue fabric, hands on hips, wings of ice, and an inhuman face, featureless but for eyes of solid blue radiance, descending from the higher peaks in response to her sister’s song. There was more to this one, a core of frozen power rather than a diffuse ball of snow.
+
+Hanyi's song didn’t cease, but her eyes narrowed to white slits of affront.
+
+Ling Qi wouldn't call the line that rang out next discordant, but…
+
+“O, who approaches? Who stands before the maiden? Feckless flake, be on your knees!”
+
+A screech, yes, like nails on glass or the scream of a high wind. There was no way to describe what happened next in elegant terms.
+
+Little faeries scattered and giggled madly, blown end over end by the wind. Ling Qi's hair whipped out behind her, a ragged, fluttering black banner as she raised a hand to shield her eyes from the backwash…
+
+… Of Hanyi's heel striking the ice faerie dead across its featureless face, a picture perfect flying kick.
+
+There was a screech of affront. Ice shattered, jagged, icy blue hair was crinkled and broken, pure white locks were yanked, and fingernails scrabbled, plunging through ice and slush and cloth that reformed immediately in its wake.
+
+… Ling Qi was pretty sure that even if one used fans as weapons, they were not actually supposed to be wielded like clubs.
+
+The two fighters hit the earth in a plume of snow and dust.
+
+Ling Qi sighed. She wished Sixiang was here; they'd probably be rolling down the hill, laughing their head off. Still, this was Hanyi's show, and she did tell her junior sister that she would let her handle it.
+
+The lesser faeries whorled overhead in the eddies of snow, dancing around the scuffle going on below.
+
+"Who’s soggy now, you—"
+
+"Cheater, cheater! Using the ground is not fair!"
+
+"Huuuuuuh? Fair? What, are you stupid? Don't challenge the maiden if you don't wanna eat mud!"
+
+"Iiiiit’s in my eeeeeeeyes!"
+
+Ling Qi found herself pinching the bridge of her nose in a way distressingly similar to what Cai Renxiang did when Ling Qi herself brought the heiress something outlandish.
+
+Hanyi stood triumphantly atop the ice-slick hilltop. One bare foot had been planted between the shoulder blades of the ice faerie, grinding her face down into the mud churned up by their scuffle. The faerie was roughly at the peak of the second realm. Given what Hanyi had said, this type of spirit was probably what Hanyi had meant to draw out in the first place.
+
+Still, her junior sister was being a little… crude.
+
+"Hanyi, she can't listen to your words if you embed her entirely in the hillside," Ling Qi interjected.
+
+Hanyi, whose braids were whipping about her head, cheeks puffed out, stilled like a statue at the sound of her voice.
+
+"Y-yeah! I know, Big Sis. ‘M just making sure she's ready to listen," Hanyi replied quickly.
+
+She did not, Ling Qi noted, let up the pressure on the heel grinding down on the greater faerie’s back.
+
+Her junior sister jabbed her now folded-up fan at the other faeries circling overhead. "You see? Nobody has to eat mud if they listen! I've got way better things for you to eat. And I'm way prettier than this slushy reject, yeah?!"
+
+The clouds overhead churned and boiled, but one current was obviously stronger than the others.
+
+"Look around. See how pretty the hillsides are. Even on your own, you did this." One fan snapped out, trailing glittering flakes. "But it could be better! If you follow me, we can play on the regular every winter and get treats for doing what we’d do anyway."
+
+"Not a pet," whined the greater faerie under her heel.
+
+Hanyi sniffed. "Nah, you're a hooligan! But that’s okay. I can show you how to be a good lady of the snow. Look at you. You came in here like a big windbag and couldn't even tell I was stronger. And what'd you do if you had hit Big Sis with an icicle, huh? She's way stronger than me!"
+
+Ling Qi tilted her head, meeting the watering chunk of ice crystal that served as the faerie’s eyes as she struggled to drag her face out of the mud.
+
+The faerie sulked. "’M not the biggest 'round here. You're both still gonna be in trouble."
+
+Hanyi lifted her foot. "We'll see about that! Why don't you tell us where they're at?"
+
+Ling Qi nodded approvingly. There was only so much to be done when interceding with the least spirits in a completely wild area.
+
+She might have skipped the mud stomping herself, but at the same time, violence was fundamental to winter. Maybe she had been focused so much on diplomatic pursuits, she had been failing to sharpen her blade properly.
+
+Winter killed. It was the season of endings, even if those endings were for the purpose of priming new creation. What came after didn't change the fundamental truth of the now.
+
+"T-the higher slopes! The big faeries hang out closer to the snowcap. You'll be sorry if you go!" The faerie sprang up from the ground, and the wind carried her aloft again. Her simple gown of crackling blue ice was still smeared with clinging mud that seemed to refuse to phase through her. Hanyi's doing, she supposed. One pointed limb jabbed toward the northern sky, and Ling Qi implicitly understood which peak the faerie was thinking of, despite the vagueness of the gesture. "The ice sheets and the whiteout cliffs!"
+
+Ling Qi smiled. "Thank you. I apologize that this meeting got so rough. You really shouldn't come running up to people shouting insults, though."
+
+Hanyi snorted. "You're lucky Big Sis is so nice!"
+
+Her junior sister glanced up at the sky and tilted her chin up. "My sis and I are going up there. And we're gonna have a talk with those 'big' faeries of yours. You can come along if you want, and see who's the best!"
+
+Ling Qi's lips quirked up in amusement.
+
+As Hanyi turned away, the cackling little faeries followed after her, swooping and whirling around each other through the falling snow. Only the second realm faerie remained behind, sullenly scraping mud off of her dress. Still, Ling Qi doubted she would be far behind.
+
+Ling Qi walked beside her sister. "Interesting lessons you've been learning."
+
+"Winter comes. It comes whether some dummy tries to tell it to stop or not. So, I don't let little spirits get in my way. Besides, look at her. She didn't even try to outsing me! I'm not soggy. A lady can't let an insult like that stand!"
+
+Ling Qi chuckled. "No, I suppose she can't."
+
+Inevitability. That was a deep component of endings, big or small. Whether it was a glacier, a snowstorm, or the longest, darkest night, it would come, and one could only endure it. That wasn't quite what she was going for as a central theme, but it would touch anything made with endings in mind.
+
+"So, where do we want to go first?" Hanyi asked her.
+
+"We'll want the upper peaks next. Those should still be faeries of the same kind, those that blow down with the seasons," Ling Qi said thoughtfully. "There's an order to these rituals."
+
+"I just wanna find the biggest one. I don't have the patience for small fry!"
+
+"Ah, Hanyi, you shouldn't overlook the details," Ling Qi chided. "After all, we are the 'small fry' to plenty of people still."
+
+Her junior sister frowned deeply. "I guess. When you put it like that, it feels really bad."
+
+"It does," Ling Qi admitted.
+
+There was definitely still a fear in her mind, the knowledge that everything she had made could be swept away so easily still, but that wasn’t a useful fear. It would remain true, all the way to the top of cultivation.
+
+Tomorrow, maybe the moon would fall from the sky, and all the works of mortals and immortals alike would be dust. There was no use in fretting over events outside of her ability to affect.
+
+"But Hanyi, small fry can still accomplish many things."
+
+She gathered a spark of impure qi broken off from the crumbling blockages in her meridians and pushed it out of her fingertip, flicking the ashy spark at Hanyi, who batted it away with a pout.
+
+"Yeah, I guess they can." Hanyi put her hands behind her head. "Will you sing with me when we get there, Big Sis?"
+
+She was glad Hanyi had taken her meaning. She craned her head back, gazing at the giggling procession that followed them, amused at the way the faeries shrieked and scattered under her gaze, as if they had imagined they were being stealthy.
+
+"I will, if you'll have me," Ling Qi agreed.
+
+"Of course. Sis is the best at this stuff. I guess I've gotten used to people supporting me and doing all the boring work."
+
+Ling Qi laughed under her breath.
+
+"N-not that your singing is boring!"
+
+"I got it, Little Sister." Ling Qi ruffled her hair. "Now, where did I put that messenger paper? I should let Bao Qian know that we're going north."
+
+It would be good to finally test her art against an opponent which could contest her, even if only in this weakened state.

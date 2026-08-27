@@ -1,0 +1,97 @@
+---
+id: 3dde5ef7-29b1-5eb6-91c0-6380c4fe587b
+page-type-slug: story-chapter-royal-road
+title: "Threads 446 Cathedral of Winds 5"
+slug: 0490-threads-446-cathedral-of-winds-5
+partOf: forge-of-destiny
+position: 490
+ownLength: 1753
+unit: words
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2239612/threads-446-cathedral-of-winds-5"
+royalRoadId: "2239612"
+---
+
+They advanced on the crevice, from which tendrils of polluted water drifted. Just a few meters down the winding passage, physical sight became useless; it was like peering into a pool of mud.
+
+But Ling Qi was a cultivator, and there were more senses than sight. Alongside Suyin, she advanced through the viscous water. Xinghong, aglow from within by fiery light, loomed behind them, heavy footfalls and solid body wading through the darkness.
+
+It was not long before they encountered another branching of the tunnel. Again, water churned, silvery scales flashed, and fish darted off, schooling around her eyes. They found winding passages, and stone run through with veins of flesh.
+
+There could be no doubt that this tunnel was respiring.
+
+"It's not just physical, Qi,” Sixiang commented. “This slimy boy is straddling the border, like a predator hiding under the water, and only snapping its jaws when somebody touches the surface.”
+
+Ling Qi inclined her head, feeling her constructs as they rippled out through the passages and were pounced on, speared, and dragged into silty pits. It all gave her information.
+
+"Incoming. Keep left for now. Follow the wall," Ling Qi ordered.
+
+Li Suyin didn't have time to answer before the first attack came.
+
+Tendrils lanced out of the dark. They emerged from rippling vortices in the water, silt, and stone. Sickly pale, like fleshy worms, each one bristled with near invisible, hair-thin barbs which stunk of toxin.
+
+She sang the beat of war drums into the tunnels, and the water teemed with fang and claw. In this narrow space, there was little definition to her phantasmal beasts. It was a hideous display, and the song had a chaotic tempo, but it illustrated where she'd gone wrong before in using this art.
+
+Each Beast King was one part in the play, and there, they came in sequence, one after another. A battle was far too chaotic for that. She had been taking each instrument in an orchestra, and making its part a solo. They could be used apart, but the potential of the art was in its freeform, mix-and-match use.
+
+A bird screamed, and from churning phantom flesh, an eagle's beak punched through a thinned barrier to crash into the pulsing liminal flesh beyond it. The jaws of wolves snapped and tore, and vermin dropped in the wake of her footsteps, devouring the twitching scraps that fell in the bloody water. The song rose to a crescendo, and the rumbling roar of a bear smashed the swarming tendrils to paste before they could reach her.
+
+Ling Qi spared a glance for Suyin.
+
+Wire snapped out, gleaming with pale blue qi. It speared through reaching tendrils, and where it touched, flesh twisted. Flesh bulged and warped in tumorous growth, making muscles snap like overdrawn strings and barbs become ingrown, jabbing deep into the beast's own flesh.
+
+Xinghong's fists and grasping claws drew boiling furrows through the water. He stepped right into the grappling limbs and let the barbs skitter off chitin. Even where the barbs pierced the flesh between his armor, he vented blood and burned off the toxin.
+
+They were doing fine in fending off the beast, but she didn’t want to be bogged down here. If it wouldn’t damage the caverns more, sterilizing them, she’d sing ice into being. As is, her constructs were still the best solution.
+
+“I think I’ve got a lock on a spot closer to the center of the water qi," Sixiang whispered as the veil between material and liminal strained. Dozens of new limbs emerged, some thicker and more muscular, dense with parasitic qi. "The way to it is pretty turbulent though, cause of fatty here."
+
+Ling Qi eyed the echoes of flesh she could feel beyond the veil, walls of pallid meat studded with hungry eyes and sucking mouths. These weren’t even the core of the creature, just fused refuse from its prey. She sang a warning to the beast to withdraw from this place, to flee to preserve its own self.
+
+The next attack was all the more furious. She tugged gently on Qiyi's spirit, and the dress responded with giddy excitement. Qi pulsed through her fabric, threads spun out, and the lowest, metal-threaded layer of the gown turned snug as fabric wrapped her from her neck down to her toes. This, sleek and lethal, was Qiyi’s “battle form.”.
+
+A spiked tendril snaked through her phantoms, and rebounded uselessly off of her dress. The drumbeats of her art repeated her silent warning, and this time, there was a moment of hesitation from her opponent.
+
+She laid a hand on Suyin's shoulder, warning her. "Jumping."
+
+Ling Qi waited just long enough for a wire to snap out and curl around one of Xinghong's many wrists before dreamwalking. Dreamwalking down here felt like sliding through rotten meat, overgrown with slime. It made the mask on her face burn, the formations woven into the cloth flaring. It would have been so easy to get lost in this vortex of decay and sucking depression, but her liminal adventures had given her the experience to navigate even difficult paths.
+
+Besides, another hand was pulling her along. They emerged amidst stone and waving fronds of cave kelp in a wide circular chamber with two tunnels branching off near the ceiling. One was speckled with the faint growth of blue crystal.
+
+"Ahaha, I didn't say it was unoccupied!” Sixiang chortled. “We got this, though, yeah?”
+
+They did, Ling Qi acknowledged, looking at the spirits overhead. So, this was where the luring spirits had gone. The corruption had gotten to them, too; veins writhed under their skin, and she could see some of their bodies featured knots of black impurity and chitinous growth. Their voices echoed in two tones, the toneless predation of the beast they were fighting, and the wild struggles and howls of the trapped.
+
+"Try to subdue where you can."
+
+Something larger moved. A corpse-gray hand studded with coral growth grasped the edge of the crystal tunnel. It was large enough to close around her chest as if she were a doll.
+
+"Except for that one," Ling Qi corrected.
+
+There was only one voice there.
+
+Constructs flowed like mist from beneath the hems of her gown, beasts and shadows, the phantoms of dancers, and the shades of long dead gods. In the end, the central lesson of the Beast Kings was one of power. It was a simple lesson. Some might call it trite or naive.
+
+Each Beast King was a manifestation of pride and authority. Their last march had been made in alliance, but they had not marched together. Together, any three, or even any two, might have broken the Great Tsu. But they could not have done that, no more than a mortal could pluck the sun from the sky. So, they died, and their bones had been used to build the Throne of Seasons.
+
+That was the first lesson of Tsu. Power is the ability to act on or resist the world. It manifests through many forces, the great and the small, and amplify in unity.
+
+Each of the Beast Kings was a demonstration of the failure of a form of power, and their deaths a demonstration of the power Tsu had woven among the united tribes of the Emerald Seas. Wielded properly, this art demonstrated that the beasts’ lonely powers could also be welded together to greater purpose.
+
+Ling Qi drifted up on streamers of bubbling water, pushed by summoned air, and her song clashed with the distorted voices which echoed from the parasitized spirits’ sharp-toothed mouths. As if she would let such a poor, amateur song taint her friend's ears. There was no warm embrace in sinking deep, just cold and pressure and the flash of teeth in the dark.
+
+She focused her attention on the giant hauling itself from the tunnels. It was bloated. Fat and flesh hung off of its bones, growths and cysts had formed under its skin, and worms wriggled like a puppet's strings under its skin. The only thing that remained fair was its face, porcelain pale, and platinum blond locks drifted like long water weed. Its features were ethereal and inhuman, and even now, she felt its dead dantian churning, trying to warp her perception to see a beautiful, chiseled silhouette of masculine beauty.
+
+An eagle screamed, its echo warbling in the water, and a mass of phantom muscle and feathers and talons kicked the corpse puppet in center mass, slamming it against the far wall while the lesser spirits swarmed around Li Suyin.
+
+The puppet let out a groan that Ling Qi felt in her bones, and its massive paw swept down, crushing the eagle phantom's skull. As the eagle faded, its body erupted into a chittering, squealing mass of crimson-eyed rats, each gaunt and mangy in their desperation.
+
+Below, Li Suyin fought. With Ling Qi here, the spirits’ song could reach neither Suyin nor Xinhong, but the spirits weren't helpless without their lure. They darted to and fro, weaving hallucinations with bent light and glittering water. The water churned with their control of the chamber’s qi, weight dragging at her friend, invisible bonds seeking her limbs, and cudgels of liquid pressure forming and bearing down.
+
+Then, two constructs materialized. The driver from before, the horse head, was now clad in polished and ceremonial armor. Its hands clutched a slab of solid mirrored glass in the shape of a towering shield. Flanking Suyin with it was a second skeleton with the low slung head of an ox and gleaming horns of polished black stone. In its hands was a long wooden pole tipped with a pair of curved, grasping hooks. A mancatcher. Ling Qi had seen these once or twice in the hands of the fief guards.
+
+The mirror shield flashed, and the qi invested by the spirits into the water to control and wield it shattered, all the force imparted into it reflecting outward in a buffetting wave that scattered the spirits. The mancatcher darted out, catching the closest one, and the parasitized spirit screamed as the barbs installed on ite dug into its skin, sending a rippling tingle of electricity out through the cavern. The captured siren spirit twitched and went limp, wisps of pink leaking from its lips.
+
+Li Suyin herself was poised and steady, her false eye spinning in its socket, darting around so rapidly that it seemed to blur in Ling Qi's vision.
+
+"Identifying lowest survival odds. Xinghong, receive data. Begin triage."

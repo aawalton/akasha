@@ -1,0 +1,195 @@
+---
+id: 52e8ae5c-c636-5de2-a931-f0779db4c3e4
+page-type-slug: story-chapter-royal-road
+title: "Threads 317 Parting 3"
+slug: 0357-threads-317-parting-3
+partOf: forge-of-destiny
+position: 357
+ownLength: 2202
+unit: words
+publishedAt: 2023-06-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1258947/threads-317-parting-3"
+royalRoadId: "1258947"
+---
+
+Liao Zhu blinked out of existence, rematerializing on the outcropping below. Well, if he wanted to be boring about it. Ling Qi stopped being on the gravel and started being on the cliff. It was as simple as that.
+
+It was funny how flying, or flaunting the law of the earth, had become instinct. There really wasn’t much difference between one location and another, so close together. Greater distance, greater disparity, and the natural lines of qi and human warding were still walls and seas and roads.
+
+Ling Qi observed, “Siblings are close. Bring them together, and you’ll see as many similarities as differences.”
+
+“All division is an illusion, as the dream sects might say,” Laio Zhu replied, eyes twinkling.
+
+On her back, Hanyi huffed in annoyance at the interrupted slide.
+
+“That’s wrong,” Ling Qi replied. “Or at least, that distorts the definition of illusion to meaninglessness.”
+
+“Hoh? I did not know my junior sister was interested in theology.” Liao Zhu raised an eyebrow. There was a faint scar parting it now, skin not so much burned as bleached.
+
+“It’s division that gives meaning to anything at all,” Ling Qi insisted. “If all is one, then one is nothing. The Nameless chose division over Oneness.”
+
+She wasn’t quite sure where those words had come from. She suspected though. These were the words of a crescent smile beneath starry antlers.
+
+Liao Zhu stopped and crossed his arms. “Most would say the opposite, that they chose to combine themselves to reach for one another in their divine solitude.”
+
+“That is not oneness. It is choosing to be a pair of parts, rather than immutable divine wholes, uncomprehending. The mere act of reaching out, of seeking understanding, refutes oneness and promotes multitude.”
+
+Ling Qi frowned, shaking her head. It didn’t feel as if she was being controlled. More like… There were simply foreign memories lodged in somewhere deep in her spirit, perhaps in her fused and broken meridian, mingled with the burned out qi there.
+
+“Junior sister, do you require assistance?”
+
+Ling Qi put a hand to her temple, rubbing a circle there. “No, I don’t think so. Just a lesson lodged in a little too deep. I have someone keeping an eye on me.”
+
+He regarded her gravely for a moment more. “Let it not be said that this champion would ever bear the crime of hypocrisy. I can not speak ill of hurling yourself into danger.”
+
+“That would be downright irresponsible of you,” Ling Qi said dryly. “Your junior sister would be disappointed.”
+
+“And what a terrible curse that would be!”
+
+“I do think it’s wrong though. Nothing good comes from trying to erase division rather than bridging it,” Ling Qi said. She considered the Wang’s policy on the cloud tribes, the visions of the Forever King, and the history of the Emerald Seas. She recalled the dwindling remnants of the old tribes and Xia Ren’s relentless scourging fire.
+
+“On that, I agree. I do not think that everyone could endure being me!”
+
+Ling Qi laughed.
+
+“... You guys are boring. I thought this’d be more exciting.”
+
+“Even if I was thinking such things right now, would I do them with my junior sister on my back like a bag of rice?”
+
+“I’m not a bag of rice!” Hanyi complained. “I barely weigh anything at all!”
+
+“That is not the problem here!”
+
+“Hm, right now?” Liao Zhu wondered. “Does the fierce ogre king need flee the hungry wraith? How complex this tale grows.”
+
+“You, stop encouraging her,” Ling Qi said flatly. “Let’s just get down the mountain.”
+
+She stepped off the cliff and soared, but the words she had spoken still circled in her head. Rejection of oneness… That felt important, somehow. Maybe she should seek the shattered gaol again soon.
+
+***
+
+She parted ways with Senior Brother Liao at the base of the mountain. They had never been the closest of friends, but like Bian Ya and Ruan Shen, she was grateful for all of the tutelage she received. She might see him again in the future when the time came for the war underground, but that was a day far away for now.
+
+Ling Qi came to the second lowest of the Inner Sect mountains soon enough and found its central square where the offices, medicine halls, the forges, and the furnaces lay. It wasn’t so different from the entranceway of the Outer Sect all those years ago. The architecture a little more grand and fantastic and the disciples mightier, more obvious in their growing cultivation.
+
+She found Han Jian under the petal heavy leaves of a cherry blossom tree. He sat with his hands folded over his stomach, his back against a golden tiger the size of a horse. The Cai-made armor, a peer to her own dress before it was made more by a thread of Liming, was striped with Han colors and shone in the sun. He was taller, not as tall as her, but it was much closer than any of her other peers aside from Gan Guangli.
+
+“Yo, long time no see. I didn’t expect that letter, that’s for sure,” he said as she approached. He patted Heijin on the back, who gave a dissatisfied rumble as Han Jian stood.
+
+“I wish there had been more time once you made it in and we were no longer in competition.”
+
+Ling Qi forgoed the bow that would have been respectful for one of his rank. He made a sound of acknowledgment but didn’t comment on it.
+
+She glanced to the side, letting her eyes rest patiently on the shadow of the cherry tree. In the moment of silence, there was an irritable growl, and a night black tiger melted from the shadow, its stripes a shimmering hazy gray that made her hard to look at.
+
+Han Fang was behind the tree, leaning there. She gave the heavyset bald young man a nod. He returned it silently, smiling wryly down at his spirit beast.
+
+“Told you that hiding was silly,” Han Jian said breezily. “You know the rest, though you might not recognize this big lug.” Han Jian nodded to the tiger at his feet.
+
+“My resplendence is unmistakable,” the big cat rumbled.
+
+Hanyi sniffed. “I don’t know about that.”
+
+Heijin raised his head to glare imperiously. Hanyi stared him down with crossed arms.
+
+Han Jian snorted. “Anyhow, the new face is Sidao, Fang’s partner.”
+
+“A pleasure,” Ling Qi said, tipping her head.
+
+The dark tiger regarded her with a wary suspicion as one predator to another, qi running dark under fur. Ling Qi tilted her head, letting a little darkness flow herself.
+
+“Charmed.” Sidao’s voice was throaty and feminine like a mature woman’s. She laid down beside Heijin and began to groom one of her paws, acting for all the world as if the staredown hadn’t happened.
+
+Han Fang gave a raspy sigh and made a sign with his hands.
+
+Ling Qi waved off the apology. “If I could not handle a little ego, I would be in deep trouble with my chosen path.”
+
+“Hah, true,” Han Jian said. He was smiling and scrubbing a hand through his hair. She could almost imagine they were back in the Outer Sect.
+
+… But there was an awkwardness between them now.
+
+“You didn’t say what this meeting was about. I doubt you can afford to just be saying hi, busy woman that you are,” Han Jian said. “I don’t mind some business while we catch up."
+
+Ling Qi sighed. He wasn’t wrong. “It is good to see you again.”
+
+“It’s nice,” he agreed gently. “You’re jumping up the ladder faster, but we’re all grown up here.”
+
+She nodded. The fact was that in speaking with the eastern factions of the White Sky delegation had raised some issues.
+
+“I’ve discovered that our foreign guests have their own troubles in the east. The fires of the sun were not stopped entirely by the Wall,” Ling Qi said. “I’d considered that a meeting between their experts on the damage and ours might be able to facilitate an exchange of information. A benefit that could be negotiated between us?”
+
+Han Jian cupped his chin and let out a thoughtful hum. “I see. Yeah, I suppose that would be in my family’s wheelhouse. Surprised your boss isn’t going through the Guo though.”
+
+“They’ve been silent and not showing much interest in the summit. Would you have any insights?”
+
+Han Jian considered her. “I’ve heard that there’s something in the eastern wastes that has Grandfather Fortress and the Guo Patriarch occupied. Enough so for the ancestor to leave his yearly route.”
+
+“Sands shift, winds shift, but rise and fall, the heart of the waste remain. The ashes are stirring,” the black tigress said, licking her paw.
+
+“That would match what I’ve been hearing,” Ling Qi said slowly. She did still trade letters with XIulan even if they’d been growing more sporadic as her friend got busier as well. Her father had taken her out on a minor campaign, but apparently, the scope of it had been expanded. According to the last letter, her father had been meeting with some other lords to combine their efforts.
+
+“Gu Xiulan, huh?” Han Jian chuckled. “Surprised you even need to ask me.”
+
+Ling Qi smiled wanly. “Xiulan’s perspective is a bit too close to the ground right now, and we both know she gets bored with politics.”
+
+“Yeah.” Han Jian sighed. “Is she…?”
+
+“I think she’s happy,” Ling Qi said simply.
+
+He let out a breath through his nose. “That’ll do. Anyway, I can send a request up through my clan to see if that’s something we might do. I give it decent odds the clan crafters will be interested enough to want a chance to chat.”
+
+“Not every day that one gets to speak with an entirely different lineage of geomantic study,” Ling Qi observed.
+
+Han Fang raised an eyebrow at her. Han Jian was more polite.
+
+“I have been studying some basics,” Ling Qi replied in response to the unasked questions. “I’ll have an experienced teacher arriving at our fief soon after the summit. I don’t want to make him waste time on basics that I can learn myself.” Ling Qi crossed her arms and lifted her chin challengingly.
+
+“Yeah, Big Sis is hitting the books hard!” Hanyi piped up from over her shoulder where she had remained silent while they spoke.
+
+“Sorry, sorry, you’re right.” Han Jian raised his hands as if to ward off her ire. “That’s what I’m thinking. Someone will at least want to have a chat and size up the other guy. Crafters are a lot like roosters that way.”
+
+“Puffing themselves up and strutting in circles, plumage on display? How disrespectful, Han Jian.”
+
+“Aw, c’mon, I’m doing you a favor here. Don’t tell me you’re gonna tattle.”
+
+She smiled, glanced over the rest, and let some of the tension flow out. “Thank you, Han Jian. I really do hope you’ve been well.”
+
+“The slacker has been… acceptable,” Heijin rumbled, his tail lazily thrashing, kicking up little whorls of wind.
+
+Han Jian rolled his eyes. “I’m honored, your majesty. Really.”
+
+Han Fang grinned at him, his hands flashing through a few signs.
+
+… That was bold of him.
+
+“C’mon, Fang, not you too,” Han Jian complained. He looked back at her. “It’s been a good year. I feel like I’m not wandering to nowhere anymore.”
+
+She brushed his cultivation with her senses and felt the wind screaming through the dry grass, whirling in the sands, a cutting blade, though she couldn’t see its aim from a polite glance. She dipped her head. “I’m glad. I’ve found some purpose as well and unsnarled some contradictions in my way. I, too, think I know where I am going now, or at least the direction of it.”
+
+“The direction is the most we can manage at this stage. If you think you know your destination already, you’re probably mistaken.”
+
+Ling Qi tilted her head. “Quoting something, Han Jian?”
+
+“Paraphrasing. Turning a complex text to a mere pithy anecdote. How shameful,” Heijin said, ears flicking. “Cold one, what are you delaying for? Your permission to pet me has never been rescinded.”
+
+“Ah, is that so?” Ling Qi crouched at the tiger’s side. She reached up, scratching behind his ears, and received a rumbling purr in return.
+
+“Sis, you shouldn’t indulge stuffy guys like that. They’re the ones who should coming to you,” Hanyi instructed, finally dropping off her back.
+
+“The young miss is wise,” Sidao said, not looking up from her paw.
+
+Heijin lifted his nose into the air and declined to respond to either.
+
+Han Jian dropped back down into a seated position, his elbows resting against the tiger’s side. “Still can’t really believe all the stories about what you’ve gotten up to.”
+
+“They’re probably only… half-true,” Ling Qi hedged.
+
+“You hesitated there a second.”
+
+“There are some fairly silly rumors around.”
+
+Han Fang gestured to her. She frowned.
+
+“No, that one is true. But it sounds exaggerated.” She’d hardly carried a whole battalion out of the caldera with her mist. “I only parried the enemy’s parting blow.”
+
+Han Fang let out a raspy sigh.

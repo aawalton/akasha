@@ -1,0 +1,127 @@
+---
+id: fd659ba7-1304-5823-9b1c-f19e16086cf2
+page-type-slug: story-chapter-royal-road
+title: "Threads 301 Identity 6"
+slug: 0341-threads-301-identity-6
+partOf: forge-of-destiny
+position: 341
+ownLength: 1726
+unit: words
+publishedAt: 2023-04-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1195060/threads-301-identity-6"
+royalRoadId: "1195060"
+---
+
+The words struck her with physical force, sending her to her knees as her bubble of control collapsed. The wind swept in. Rotten leaves and snow plastered themselves across her, filling her nose with their disgusting moldy scent.
+
+Linq Qi pressed her hands to the ground, refusing still to fully buckle under the pressure. Sixiang’s words in their brief argument came to her.
+
+“He’s making it look all scary and gross because of course he is. And that’s enough for you because you think of it like that!”
+
+How much of this was the nightmare, and how much of it was her?
+
+With effort, she pushed back the storm again, but it wore away at her power, whisking it away into the nightmare. It was not like Huisheng’s playful theft, but a scouring brush, sanding down her qi and will. Her meridians ached, her hands throbbed, and her heart pounded in her ears.
+
+She had come here, so sure of herself. So sure she had the solution and that she could face her fear and reject it, replacing it in her heart with what she wanted to believe. How foolish. Since when had fear ever worked like that? Logic and reason were not weapons with which one fought nightmares. She had decided that she was wrong, but she had never decided how to be right.
+
+She could feel the nightmare eating away at her, getting into the cracks in her resolve, peeling her away bit by bit. This was the liminal, and the only barrier between herself and dissolution was her own surety of self.
+
+So she was wrong. But what did that mean? The puppet strings revolted her, but they existed and were real. She couldn’t deny that.
+
+Relationships. They bound people's actions. She had chosen to take Hanyi. Zeqing had chosen to let her, even if it killed her. She’d thought she had solved the problem. She simply had to keep her distance and not smother those she loved.
+
+But that wasn’t a complete insight. It was a dodge and evasion, an avoidance of truth.
+
+Her first error.
+
+Love did come with restrictions and with chains. These chains were hers as much as any other’s. If she truly loved someone, there were things she would not do. And in turn, there were things they could not do.
+
+There were so many chains in life, but these chains did not have to be evil. They could be, oh, they could be, and they too often were out of malice, out of ignorance, or even out of altruism.
+
+Meizhen had said: We hurt, and we are hurt in turn.
+
+Calling them “chains” was her error.
+
+These strings went everywhere, a web of awful complexity that she could not see in its wholeness. Her bonds connected her to the enigma behind people’s eyes. She had never bothered to see Sixiang’s feelings despite how deep their threads ran.
+
+Was it even possible to know another person without such terrible techniques as Shu Yue’s?
+
+Her second error.
+
+People were not puppets, no matter how many strings tugged at them. They could be forced along with enough strength, enough will, enough cruelty or righteousness. But even she, at her lowest, was Ling Qi. She had her “I.”. She was sometimes a prisoner, but never a puppet.
+
+No one was.
+
+She remembered the tale of the Nameless told to her by Elder Ying, so long ago now. The Nameless Mother’s first wish was a connection with a thing not herself. And for that to happen, she had needed to accept the influence of another being, that of the Nameless Father.
+
+Perhaps she couldn’t know another person fully. But that was no excuse not to try. To do the impossible was the remit of a Sovereign.
+
+Ling Qi inhaled deeply, filling her lungs with cold, clear air untouched by the scent of rot and blood. The strings under her skin extending off into the storm smoked and trembled, writhing like worms. She felt the echo of pain, of anger, and of confusion.
+
+Sixiang was still here.
+
+The wordless bar she sang was a thunderous cry of rejection and frustration. Once again, leaves were flung back, and the earth became crackling ice. Ling Qi got her feet under her. Her dress whipped in the wind as she began to rise trembling to her feet, and its train and her shadow became one, growing into a dark silhouette far larger than her as mist trickled and poured from her hems and sleeves.
+
+“Wrong! My heart, my vision, was wrong!” she sang into the storm, and with trembling knees, she took a step forward. “What you twist against me, I refuse. Because it is wrong!”
+
+Her hair, long freed of any ties or styling, blew wildly around her head, a halo of glittering stars around her head. And in the storm outside, something immense skittered, the click and clatter of far too many hooves.She glimpsed the shadow of thin, bent, insect-like legs in the storm and the burning darkness of misshapen eyes.
+
+“These ties are not strings or chains. They connect us, not bind us.”
+
+“Semantic games. Is that really all you have, seeker?”
+
+Ling Qi looked down at her hand and the smoking strings there, and then back up. She grit her teeth and took another step forward. “There is nothing trivial about words or their choosing.”
+
+She held herself from flinching as something loomed outside her circle. It slumped bonelessly before her, huge and imposing, and she saw the silhouette of a skull with vast branching antlers from which swung hanging, unsettling shapes. A faint phosphorescence lit deep sockets, and the creature's jaw worked out of time with the words that emerged. Its body, she saw only as an oily black shroud, fleshy and heavy, beneath which she saw the faintest glimpse of faces and despairing eyes.
+
+She stood before the nightmare of the Emerald Seas and did not bow.
+
+“Then tell me, seeker. Will you allow yourself to be bound?"
+
+“I am bound.”
+
+“Then whence comes your wrongness?”
+
+“A string is tied at both ends,” Ling Qi said. “To release my grasp was wrong, but to tighten my grip would also have been wrong. You brushed over it, my light hand. But that is love. Choice. That is where binding ends, and connection begins.”
+
+“Choice withers before power and crumbles before ignorance.”
+
+“Power cannot be ignored, but it is an obstacle, not an absolute. As for ignorance, there is…”
+
+The abomination tilted his immense head, sending the bodies which hung from its prongs asway.
+
+COMMUNICATION.
+
+The truth of art was communication. To have one's Way taken up showed the greatest mastery of self.
+
+Ignorance was to the mind what hunger was to the body. Starvation could bring a person to many terrible things. So, too, could ignorance. It was true that some chose malice, even in the midst of plenty, but before she could judge if that were so, she first needed to reach out.
+
+The shadow she cast, a black winged shape upon the ice, stretched further still, and from it emerged the shadow of a multitude of strings like rays of light in negative. Ling Qi felt strange. She was herself and her shadow, the ice below, and the whirling wind that blew away the leaves. She was the word she had spoken, which did not emerge as sound but instead raw will, impressed upon the dream.
+
+The nightmare before her did not retreat, but skittering insectile legs shifted. The broken bodies that hung from his antlers wept black tar and wailed a rasping song of grief through crushed and broken throats.
+
+And Ling Qi’s will touched him. Misery. Unending misery. A people broken apart again and again. Peasants and artists and priests and soldiers and kings. Guardians of order and agents of chaos. Kinslayers all. The boot and the throat it crushed, all in one being. And worst of all, a guttering ember that was the hope never fully extinguished. The weight of it, a millennia of suffering and broken dreams, of false triumphs and crushed hopes, threatened to crush her.
+
+Ling Qi felt hot blood on her cheeks and on her lips. Her eyes and nose bled, but she remained firm.
+
+Until the leaves pressed down, and the vast bulk skittered into the snow and leaves, becoming once more a shadow
+
+“An argument at last. The introduction to my latest composition.”
+
+Maybe it would be. Ling Qi did not think she would be able to hold the fullness of what she had just seen. But here in this instant, she could not say that she was unique. There had been so, so many others who had come before who had striven as she had promised to strive. They had promised to be different.
+
+They hung now, singing the song of the Nightmare.
+
+She would strive regardless. All things ended, even nightmares. It was arrogant to say that she would succeed where all others had failed. It was hubris to look upon their graves and say “I will do better.” But without that arrogance, nothing could change. She understood what Shu Yue had said, and what the nightmare had needled, calling her seeker of thrones. A Sovereign could not exist without such pride.
+
+Abdunace begets Creation. Creation denies Isolation. Through Creation, the wheel turns forward.
+
+Ling Qi erased the blood tracking down her cheeks and over her lips. Her eyes ceased stinging. Her knees ceased hurting. Even her hair fell back into place. She was not ragged anymore, not starving nor broken, and so, she made herself whole. “I am going to speak with my friend and understand what I and they want.”
+
+“You have not yet attained victory. Your argument is barely tested.”
+
+“My victory can’t come from phantoms and corpses,” Ling Qi turned away from the shadow. She reached out her hands. The strings under her skin writhed, but her hands no longer bled. Each string was the shadow of a hand, tiny and grasping. “It will come from us both or not at all.”
+
+And Ling Qi’s fingers dug into the fabric of the dream, the shadow strings plunging into the weft like blades, and pried apart the nightmare, opening to a realm of noise and color. It was pandemonium by any measure.
+
+She stepped through.

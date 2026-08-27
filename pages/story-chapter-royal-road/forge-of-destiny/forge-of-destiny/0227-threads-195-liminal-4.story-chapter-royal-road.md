@@ -1,0 +1,151 @@
+---
+id: 5aa3e9da-e00f-5453-a427-7fc5b92a5c33
+page-type-slug: story-chapter-royal-road
+title: "Threads 195-Liminal 4"
+slug: 0227-threads-195-liminal-4
+partOf: forge-of-destiny
+position: 227
+ownLength: 2330
+unit: words
+publishedAt: 2022-03-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/862071/threads-195-liminal-4"
+royalRoadId: "862071"
+---
+
+In her hands, the compass was aglow, casting light on her face, but Ling Qi didn’t notice at first because there, at the end of an long open hall that descended into the face of the debris mountain, she saw the dream idol floating in the air, casting a faint golden glow in the darkness. Light now glowed in slim crescents from beneath still closed eyelids. Ling Qi felt a sudden urge to begin walking down the hallway.
+
+On her shoulder, Sixiang sucked in a breath. “Oi, get outta here!”
+
+At the muse’s shout, the idol winked out, and Ling Qi felt more than heard the distorted laughter echoing up from the tunnel as if from a thousand voices.
+
+“What was that?” Ling Qi hissed.
+
+“That’s nightmare territory down there. It’s where the dreams have… curdled.” Sixiang seemed unsure of the proper terminology. “I don’t think you want to contend with a whole swarm of those things in their home territory yet.”
+
+Ling Qi pursed her lips and glanced down. The compass was pointing to the right down a vine-lined path made of decaying roofs and awnings.
+
+She took the path downwards instead. It wound down the piled structures which were intermixed with earth and trees and more natural objects. Soon, the path turned inward under an archway of mixed greenery and masonry. The archway looked terribly unstable, but Ling Qi felt no fear of its collapse.
+
+She found more hesitation in the pits that marked the floor, each filled with a darkness her eyes could not see through and whispers of cruel laughter that put her hair on end. She stepped carefully around those, and Sixiang’s glare dispersed the things that tried to crawl into her shadow.
+
+It was hard to track how long she spent walking down the corridor as it bent and twisted inside. There were splits in the path, but at each one, she followed the compass.
+
+Finally, the path opened out into a wide hall. Unlike the rest of the dingy, detritus-ridden labyrinth, it was brightly lit with a roof composed of living branches. Three wide tables were laden with food and drink, and dozens upon dozens of men and women with ruddy skin, black or brown hair, and swept back horns rising from their temples filled their benches and spilled across the floor, laughing and dancing.
+
+The sound of the place, music, laughter, and merriment, struck her like a physical force as she crossed some unseen threshold. In the center of the floor, a pair of athletic men stripped to the waist wrestled, cheered on by those around. On the right, a pair of women alternated in belting out lines of lyrical poetry in clear competition.
+
+The head of the table bore an empty throne of vines and wicker.
+
+No one looked up as she entered. The music wasn’t interrupted, and no guardians stepped forth. As Ling Qi passed by a small knot of revelers on the periphery, they nodded to her as if she belonged.
+
+And for a moment, she felt like she did. After all, this was the grand harvest celebration and the great lord had invited all of the blood to celebrate a successful year in both campaign and harvest in his halls. Where else would she belong? Now was the time to make merry and cast away fear till the morrow!
+
+Ling Qi shuddered and shook herself, casting off the layer of “other” which had almost consumed her thoughts. She became aware of Sixiang shouting in her ear and realized that she had already taken a seat at the nearest table, a half-filled cup of some kind of grain alcohol grasped in her hand.
+
+“That hit me quicker than I expected,” Ling Qi apologized warily. She cast a look at her neighbors, but none seemed to have been alerted by her breaking the spell.
+
+“Don’t worry me like that! You’d already started to grow horns,” Sixiang complained.
+
+Ling Qi’s hand rose to her temple, but she felt nothing. Still, she doubted Sixiang was lying. “I’ll be more careful,” she promised.
+
+She scanned the room, considering her next action. The compass was no further help. It had returned to spinning lazily. She could simply participate in the revel, now that she was on her guard. Who knew what she might be able to learn here? But it did worry her how easily she had fallen under the spell. And the more she looked, the more she was certain that these were not merely echoes, but spirits wearing them like scarves.
+
+The problem was the entrance she had come in by was gone. The only door remaining stood half-open behind the empty throne. It felt familiar, causing her to recall lapping black waters, a skull, and black flowers.
+
+“This isn’t what I’m here for.” Ling Qi looked down at the table full of food and drink. She glanced to her left and right to take in laughing faces.
+
+“I thought you didn’t know what you were here for?” Sixiang asked. “What’s wrong with this place?”
+
+“I don’t think I’ll learn what I’m looking for here,” Ling Qi said. She let out a breath and dispersed. Vanishing from her place on the bench, she reappeared midstep, taking advantage of the movements of the crowd to mask her appearance.
+
+“Oh, did you figure that out?” Sixiang asked, their tiny voice tickling her ear.
+
+“I said it before,” Ling Qi said, weaving between guests. She felt a longing in her heart to stop and observe, to listen to poetry and song, to drink from their cups. To belong here safe and content. She hardened her mind against the creeping intrusion of foreign identities, and when a laughing man grasped at her arm, she spun elegantly to the side, leaving him grasping a stylized phantom in her likeness who led him away in the dance he sought.
+
+“I want to know why,” Ling Qi murmured, her eyes fixed on the door. “This… This is all how and what. That’s important too, but I can’t learn why things are as they are here.”
+
+“Well, I won’t gainsay you on it, even if I wish we could stay.” Sixiang sighed, looking out over the revelry.
+
+“We’ll find our time for fun,” Ling Qi said.
+
+“Liar,” Sixiang accused. ”You're bad at that. How do you intend to get in there?”
+
+Ling Qi moved around a pair of laughing women, their arms thrown over each other's shoulders. Her eyes fell again on the closed door, but now, a man stood in front of it. His expression lacked the merriment of the revelers, and she recognized his scanning gaze and alertness.
+
+It would not normally be a problem to avoid so mundane an obstacle, but she knew somewhere in her gut that trying to pass immaterially through that door would go poorly for her. Instinctively, she understood that she would need to turn the handle and open the portal manually.
+
+“Let me assist. I think I’ve finally found a new twist that works,” Sixiang offered.
+
+On her shoulder, the faerie-sized muse dissolved, and Ling Qi blinked as she felt a rushing feeling like the tide running over her feet and around her ankles. A few meters away where the man stood, she saw him blink and then grow slack for just a moment. Then, the man straightened up and shot her a grin, familiar but made alien by the features that wore it.
+
+Ling Qi covered the remaining distance swiftly, keeping an eye on the other revelers, echoes and spirits that they were.
+
+“Fancy, huh?” asked the man in a voice with a touch too high a pitch as he stepped out of the way. Behind them, people were beginning to turn with furrowed brows, and the music faltered.
+
+Ling Qi twisted the handle and stepped through just as a keening wail began to rise from a hundred throats, dragging “Sixiang” through the darkened portal after her. The door slammed shut behind them, and there was silence.
+
+“Fancy,” Ling Qi echoed, shooting her companion a look. “Explain.”
+
+Already, the form of the man was beginning to waver and dissolve, but he still wore Sixiang’s grin, and Ling Qi saw a faint outline of rainbow flames burning like a crown upon his head. It glowed brightly in the sucking darkness of the cellar-like stone stairwell they found themselves in.
+
+“I figured if I can manifest myself, why not just steal other people's work?” The man’s form collapsed, leaving only a glittering column of light from which Sixiang’s voice emanated. “Those folks were all constructs and spirits like me anyway. I don’t think I could hijack a human or a beast for very long.”
+
+“I’m a bad influence on you.” Ling Qi sighed despite her smile. Whatever else happened, if these dreamwalks encouraged Sixiang to grow too, then it was worth it. Already, she was considering the uses their ability could have. Even if it was only limited to qi constructs and other immaterial spirits…
+
+“How would you feel about being an eagle?” Ling Qi asked, thinking of her phantom summoning art.
+
+“Ugh, that thing’s so drab,” Sixiang muttered, rematerializing on her shoulder. “Not fabulous at all. Besides, I’m not sure it’d offer much advantage over just controlling it yourself. I might be able to ride it away from you to jump into something else…”
+
+“Something to work on,” Ling Qi said absently.
+
+There was no sound nor sign of the revel from the other side of the door, and Ling Qi did not need immortal senses to perceive that the wood of the door had swollen, fusing with its frame. She would leave putting her fist through the thing as a last resort. She gazed down the stone stairway, listening to the faint drip of water far below and eyeing the organic glisten of damp mold and moss on the ceiling and walls.
+
+Sixiang made a face. “We left the party for this?”
+
+“Don’t be a baby, Sixiang,” Ling Qi replied absently, taking the first step down. They were wide and shallow, but surprisingly dry despite the moisture in the air. “Are we descending into a nightmare?”
+
+Sixiang was quiet for a long moment as they descended. “I’m not sure, but…”
+
+“Don’t be a baby, Sixiang,” Ling Qi replied absently, taking the first step down. They were wide and shallow, but surprisingly dry despite the moisture in the air. “Are we descending into a nightmare?”
+
+Sixiang was quiet for a long moment as they descended. “I’m not sure, but…”
+
+“Don’t be a baby, Sixiang,” Ling Qi replied absently, taking the first step down. Something twisted in her gut, and she felt intense nausea. They were wide and shallow, but surprisingly dry despite the moisture in the air.
+
+How many times had she taken the first step?
+
+“Don’t be a baby, Sixiang,” Ling Qi replied absently, taking the first step down.
+
+Ling Qi felt her temples throb, and on her shoulder, Sixiang hissed in pain.
+
+“Don’t—” Ling Qi slammed her mouth shut, nearly biting her tongue as she focused hard and leapt off the first step. On her shoulder, Sixiang’s qi rippled out, chaotic and disruptive.
+
+Ling Qi landed palm first on the third stair and vaulted forward as she felt her thoughts begin to run backward and twisted in midair, forcing herself away from the shimmering bubble of altered time. She landed, pressing herself against the wall, breathing harshly as moon qi flooded the meridians that ran through her head, intensifying her every sense.
+
+Even then, it was barely possible to make out the places where space broke. It was not the usual chaos of the dream realm. It felt jagged like she was standing in the midst of a hall full of glass shrapnel frozen in the moment just after an explosion.
+
+Ling Qi stayed where she was, eyeing her surroundings warily.
+
+“Sorry.” Sixiang winced. “I should have noticed that before you stepped in it.”
+
+“No, I should have noticed it too,” Ling Qi said. She didn’t think she had become incautious. She was just used to the sharpness of her senses doing most of the work. Here, in the Dream, things just didn’t quite work the same, and it left her struggling.
+
+“Alright. Take two.” Ling Qi slowly turned to examine their path down. One foot in front of the other, she resumed her descent. It was difficult, and soon, her head was throbbing as navigating the maze of broken reality forced her to sometimes take steps in directions she couldn’t give a name to or turn at angles which she was quite sure didn’t exist in the material world.
+
+She paused upon a stair, kneeling and holding her head as she tried to shut off the painful feeling of having been thinking her thoughts in reverse while her body moved to signals arriving from somewhere sideways to the present.
+
+This was why time techniques were rare and so limited, she thought. Even cultivators were not meant for such things. Could reality as she knew it even exist without the Law of Causality?
+
+“Oof. Even I feel a little nauseous.” Sixiang groaned, their face green.
+
+Ling Qi let out a weary laugh. “What do you even have to feel nauseous with?”
+
+“I dunno, but I’ve managed it. Ling Qi, do you think keeping up this descent is a good idea?”
+
+She pursed her lips, peering down the stairs. Far, far away in the dark, something pale green glinted. “No, but neither was attending your grandmother’s party.”
+
+Sixiang raised a finger, opening their mouth as if to respond, then closed it. “I have no reply to that. Darn, you really are a bad influence on me.”
+
+“Having a survival instinct isn’t bad,” Ling Qi rebutted, rising back to her feet. Sometimes though, you just had to know when the instinct was wrong.
+
+And right now, she knew in her gut that there was something worthwhile at the bottom of these stairs.

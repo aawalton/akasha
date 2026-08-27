@@ -1,0 +1,169 @@
+---
+id: c2fa8c52-6317-520f-b826-861f35075fce
+page-type-slug: story-chapter-royal-road
+title: "Threads 155-Past 1"
+slug: 0185-threads-155-past-1
+partOf: forge-of-destiny
+position: 185
+ownLength: 2256
+unit: words
+publishedAt: 2021-11-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/789916/threads-155-past-1"
+royalRoadId: "789916"
+---
+
+“Is it actually dead?” Hanyi asked suspiciously as she peeked her head out from behind a fallen chunk of stone.
+
+“It feels dead,” Gui said suspiciously. His scales were stained with blue and black ink, glistening wetly in the faint light cast by the cooling magma.
+
+“I felt its dantian shatter,” Xia Lin said, rising from the crouch she had landed in. One of the frosted bones at her feet shifted as it cracked. Everyone stiffened up for a moment before relaxing when nothing else happened.
+
+“Well, you weren’t wrong. We did handle it, even if I was a little worried at the end there,” Ling Qi said, lowering her flute as her feet touched the floor.
+
+Her back and chest hurt; the raw force which had slammed her into the floor had definitely left some bruises. Carefully, she prodded at her lower ribs and hissed. That was a fracture. Hairline though. She would be fine by tomorrow morning if she didn’t get in another fight.
+
+“You are certainly skilled at seizing attention,” Xia Lin agreed.
+
+“I had some advantages in this case,” Ling Qi said, shooting the bones a look of dislike. Although the thing’s death-addled mind hadn’t let it articulate its points well, she had felt the intent permeating the air. Whatever Hui Peng had been, she did not think he would have been a man she liked, even if he wasn’t a senile corpse. “Please search the body. Hanyi, keep watch. Zhengui, with me. I want you to shield me in case something goes wrong with the formation.”
+
+Xia Lin gave her a professional nod, and Hanyi winced a little as she hopped up onto the rock. Ling Qi bit her lip for a moment but forced herself forward. Hanyi was fine, just a little bruised. There was no need to fuss over her.
+
+<I’ll call that progress,> Sixiang huffed.
+
+Ling Qi restrained herself from rolling her eyes as she stepped forward over the cooling ripples of magma toward the corpse’s chamber. Unsurprisingly, it was ruined. The furniture which had remained was ash, and so, too, were most of the papers and drawings. A few tattered scraps remained on the walls, but it was not enough to block her sight of the formation on the far wall.
+
+Her eyes widened as she saw the source of the glow. There, embedded in the center of intricate overlapping circles of characters etched in silver, was a single cyan-colored stone the size of a baby’s fist. Elation quickly dampened as she saw the many cracks running through it and the gray dust steadily trickling from the bottom of the stone.
+
+With Zhen poking his head through the door to watch over her shoulder, Ling Qi approached and examined the formation and the stone powering it. Thankfully, this was something she could do. In formations, power sources inevitably required changing and so were typically not too difficult to remove. After all, if someone had already reached the center of your power, the security had already failed. For the first time in quite a while, Ling Qi gestured, drawing forth the etching tools she had commissioned last year from her ring, and set to work carefully removing the blood access function from the locks holding the stone in place.
+
+Ten minutes of careful work later, the formation hummed and went silent as the stone tumbled out into her hands. She hadn’t lost her touch after all.
+
+A little more of the stone flaked off as it landed in her palm. While it still held plenty of energy in it, she wasn’t sure if it could even be used for cultivation any more. Still, a cyan stone was a cyan stone. Spirit stones above green quality had no set price because they were effectively strategic resources. She was sure that it would still sell for quite a sum.
+
+“The shiny web didn’t explode, Miss Gust!” she heard Gui call out behind her, presumably to Xia Lin.
+
+“Indeed it did not,” Ling Qi said wryly, materializing outside in a swirl of glittering shadow.
+
+“A good thing indeed,” Xia Lin replied with a straight face. She stood with her arms crossed over her dented chestplate, and the face covering of her helm was off. Ling Qi noted the flecks of blood on her lips.
+
+“Ah, I didn’t ask before, but you are well?”
+
+“I am combat ready,” Xia Lin answered, tapping her fist against the breastplate. Ling Qi heard a tiny pop and squeal as the shining metal straightened out just a tad. “No significant breaks or organ damage. I believe your own condition is similar?”
+
+Xia Lin had sharp eyes.
+
+“Yes, though I have less qi left than I’d like. The formation is down, and I did acquire this.” Ling Qi held out the cracked stone.
+
+Xia Lin’s eyebrows rose marginally as Zhengui trundled over to peer down at what they were doing. “Oh! Is it—”
+
+“It is not suitable for cultivation,” Ling Qi said sadly.
+
+“Ah, of course,” Xia Lin said unhappily as she studied the stone. “Still, a valuable find. Among the enemy’s equipment, his robe was unfortunately damaged.”
+
+Ling Qi gazed in consternation at the scraps of green silk that materialized in Xia Lin’s hands. It was still high quality, and power ran through it, but it was definitely not a whole talisman anymore. But Ling Qi thought back to her ruined bedsheets and glanced down at her dress.
+
+“However, his weapon was intact,” Xia Lin continued, opening her other hand to reveal a slender brush of dark wood, its head a fine tuft of hairs from some unknown beast. It practically glowed in her spiritual senses, so infused with potent powers. Even if she wasn’t a painter or calligrapher, its value was obvious.
+
+Ling Qi hummed to herself. “I’ll swap you the stone for both. My funding is taken care of at the moment, but my clan doesn’t exactly have a lot of treasures yet.”
+
+Xia Lin pondered this for a moment, then nodded. “That seems a fair trade, but I have some ill news about the ring.”
+
+Ling Qi frowned. “Is it sealed?”
+
+“Surprisingly not,” Xia Lin said as they swapped items. Vanishing the stone into her ring, she fished the corpse’s storage ring out of a belt pouch. “I think it’d be better if you see for yourself.”
+
+Ling Qi frowned as she dismissed her own loot and accepted the ring in her hand.
+
+Concentrating, she peered inside and blanched. Her own ring, when she peered into it, manifested in her mind’s eye as a small hollow stone cube, large enough to fit a goodly amount of materials. Peering into this ring, she saw entire rooms and corridors of gray stone that stretched out beyond her sight. She could sense within that the total volume was larger than her mother’s house, though its exact size seemed fuzzy to her.
+
+Worse, from floor to ceiling in every single space she could sense, were the stacks of papers, books, and scrolls. What must have been multiple tonnes of paper flooded the ring, most of it packed with tiny, elegant script.
+
+She frowned as she felt it tug at her, and Ling Qi sensed that she could enter the ring, much like she did Sixiang’s dream space. She supposed that made sense. So far as she knew, storage techniques worked by pinching off a bubble of liminal space.
+
+“I think we’ll need help organizing this.”
+
+“Agreed.” Xia Lin sighed. “Given the source, there is too much chance that there are important documents within.”
+
+That was disappointing. The full extent of looting was going to have to be delayed.
+
+At least a last search before they left revealed quite a number of yellow stones and red stones in a hidden stash. Cheerfully, the two split the stash, and Ling Qi tucked her share away.
+
+***​
+
+“And that, my lady, is what we have discovered of the terrain ahead.” Ling Qi completed her report to Cai Renxiang with her head bowed. They were just under the eaves of the outermost trees of the forest. Renxiang stood in the center, flanked by Meng Dan and Gan Guangli, while Xia Lin stood behind her, bowing as well.
+
+Ling Qi didn’t need to look up to know that her liege was wearing that slightly pinched look that she got when things escalated beyond initial parameters.
+
+“A surviving Hui corpse immortal, Ling Qi? I would ask if you were jesting if I did not know perfectly well that you are not,” Cai Renxiang said flatly.
+
+To her side, Ling Qi saw Gan Guangli blink and give the heiress a surprised look.
+
+“I can confirm Lady Ling’s report, Lady Cai,” Xia Lin said.
+
+“Of course,” Cai Renxiang said without hesitation. “You disposed of the corpse properly?”
+
+“We burned it as well as we could,” Ling Qi answered. Zhengui had been helpful. “It may be a good idea to message the Sect. Neither of us are qualified to perform death rites. I can confirm that the formation is shut down fully though.”
+
+“Very well,” Cai Renxiang said. “However, for the remainder of the trip, I will not have you range so far ahead. Ling Qi, I sense that your energy is significantly depleted.”
+
+She grimaced and dipped her head lower. “The enemy had potent techniques.” She hadn’t noticed it at first, but her qi had continued to slowly dwindle away for a while after the fight. The Hui’s technique had clung to her like her own hoarfrost until it had weakened enough for Sixiang to cleanse.
+
+“Then you will remain with the group even after we reach the halfway point. Xia Lin, you will take point until the baroness’ energy has recovered, but remain within one kilometer of the group.”
+
+“Yes, my lady,” Xia Lin said, thumping her fist against her repaired breastplate.
+
+That didn’t sound too bad, but Ling Qi stiffened as Renxiang’s gaze fell back on her.
+
+“The contents of the ring you spoke of must be catalogued. While our mission is important, so is such an unprecedented find. Ling Qi, while you rest, I expect you to aid Meng Dan in this. Your spirit beast will suffice to carry the two of you while we move,” Renxiang said, clasping her hands behind her back as she stepped past Ling Qi.
+
+There it was. Ling Qi sighed, straightening up. She shot Gan Guangli a wan smile, and he shook his head, stifling a guffaw.
+
+“My, you do not waste any time on keeping things interesting, do you?” Meng Dan asked, smiling faintly as he passed her as well. She fell in beside him.
+
+“I would say that I try, but I really don’t,” Ling Qi said.
+
+“It is the nature of the talented to bend fortune around them,” Meng Dan said pleasantly.
+
+Ling Qi gave him a look out of the corner of her eye. “Is that an actual thing, or just a saying?”
+
+“Just a saying. Although it is true that attention from spirits does correlate strongly with talent.”
+
+“So not just a saying at all.” Ling Qi sighed.
+
+“As you like,” Meng Dan said. “I rather expect the correlation between talent and fortune to be circular myself.”
+
+<I tend to agree. You get into trouble cause you keep surviving trouble,> Sixiang thought.
+
+“So how are we going to do this?” Ling Qi asked.
+
+“I think we should just organize the contents for now. Reading and identifying everything would likely take too long,” Meng Dan suggested. “Where do you think you will be most useful?”
+
+“I think my abilities would be best spent sifting out any arts from the texts or identifying bits of formationwork among the texts,” Ling Qi said after a moment.
+
+“Not a bad idea. I certainly don’t have much of a head for interacting with formations.”
+
+“Really? I would think that dealing with old libraries would require some skill at that kind of thing.”
+
+“I leave those matters to Yinhui,” Meng Dan replied, his habitual smile turning fond. “She does love her maths and puzzles.”
+
+Ling Qi hummed noncommittally. It did make sense to specialize differently from one’s spirits, she supposed.
+
+<Yep. That’s definitely why you nod off when I start talking poetry,> Sixiang teased.
+
+Ling Qi was sure that she didn’t know what Sixiang was talking about.
+
+<Sis, what do you want me to do?> Hanyi asked. <I can definitely help!>
+
+Ling Qi pursed her lips. An image of Hanyi lackadaisically wandering the stacks, plucking out anything interesting, flittered across her mind. Hastily, she thought, <I need you to stay outside and keep an eye on things, okay? Zhengui needs company since he’ll be carrying us.>
+
+Hanyi seemed suspicious in her head, but in the end, she couldn’t deny Ling Qi’s sincerity. <Okay, I’ll keep the big doofus company.>
+
+<We are not doofus,> Zhengui grumbled. <That is not even a word.>
+
+“It must be very noisy in your thoughts,” Meng Dan said, glancing up at the dark canopy overhead. They trailed a short distance behind Cai Renxiang and Gan Guangli. “I am surprised that you can manage without feeling harried at all times.”
+
+Ling Qi smiled, despite Zhengui and Hanyi beginning to bicker in her head. “I find I don’t mind. It’s comforting, not being alone.”
+
+Meng Dan nodded agreeably, but she noted he did not actually reply. Ling Qi focused her eyes forward on a clear patch of ground before drawing Zhengui’s bulk from her dantian.
+
+Time to finally check out the rest of the loot.

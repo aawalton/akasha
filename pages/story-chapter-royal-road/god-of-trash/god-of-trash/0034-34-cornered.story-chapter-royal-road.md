@@ -1,0 +1,173 @@
+---
+id: 3c688455-a747-5249-917b-92294e36e4a2
+page-type-slug: story-chapter-royal-road
+title: "34. Cornered"
+slug: 0034-34-cornered
+partOf: god-of-trash
+position: 34
+ownLength: 2591
+unit: words
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2157727/34-cornered"
+royalRoadId: "2157727"
+---
+
+Backed against the cliff wall, Rhys’ power spiked. His hands curled into claws. Rather than attacking recklessly, he slammed all his mana, all the strength from the impurities, every ounce of power he had, into one hand and struck Cynog’s neck with all his might.
+
+There! What I’ve been waiting for!
+
+Having beaten Rhys one-sidedly for the last few minutes, and in his entire last battle, Cynog wasn’t expecting an attack. He jerked back, but all his momentum was forward, his fist still raised to hammer the final blow home. The laws of physics prevailed. His bulk meant he couldn’t dart away when he’d already committed to a forward movement.
+
+And so, Rhys’ strike hit its mark.
+
+If Cynog’s guard was up, if he’d expected a counterattack, Rhys was sure things would be different. But this entire battle and the last had conditioned Cynog to see him as a helpless idiot, a fool who talked big, but could only run away. The last thing the man expected was for Rhys to actually live up to his words and be able to land a counterattack.
+
+It's like Ev said. Half a battle is in the mind. A dumb jock won’t get far as a martial student.
+
+His claw bit into Cynog’s neck. Blood spurted, and Cynog jerked to the side, almost lifted off his feet for a split second. In the next instant, his fist smashed into the stone cliff face. Pushed by Rhys’ blow, it veered off-target and missed Rhys’ face by millimeters. Rock shattered. Shards slashed past Rhys’ face, reflected with enough force to cut. Rhys swallowed, staring at Cynog with wide eyes. If the man had landed that blow, he would be dead. No ifs, ands, or buts about it. Nothing Blow Mitigation could have done. His head would have been chunky salsa on the cliff.
+
+Cynog roared in frustration. He drew back his fist.
+
+It might still be! Rhys dropped straight down, raising his arms in futile hopes of protecting himself.
+
+Crack.
+
+Rhys blinked. He looked up, and his eyes widened. Cynog stared as well. Both of them gazed in shock at Cynog’s wrist, now broken, and the calloused hand that gripped it tight enough to break it.
+
+“That’s enough, Cynog,” Ev growled, her eyes burning with anger.
+
+Cynog turned. His jaw gaped. “Since when did you—”
+
+“Since I stopped being your training dummy and started working on myself, you dusty old sadist. Get the hell out of here before I get serious.” She released his wrist and stepped back, giving him room to flee.
+
+Huh? Training dummy? Wasn’t that what she’d called him, when she’d kidnapped him? Rhys stared at Ev, suddenly understanding a little more.
+
+His eyes darted to her wrist. For the first time since he’d seen her, the black band was missing from her right wrist. The other three limbs still bore their restrictive bands, but the one with which she’d attacked was free of suppression.
+
+Cynog stepped back, giving Rhys room to stand and slip out of his pin. He frowned. “Why do you waste your potential training this… this coward?”
+
+“I’m not a coward. It’s called ‘strategy,’” Rhys informed him primly, fixing his robes. So what if his fighting style was trashy behavior from the beginning to the end? He was trash! What was he supposed to do, not act like it? Pshaw! He didn’t believe in denying his nature. If he was trash, then so be it. He’d be the trashiest trash there was, down to taunting a superior opponent after he won thanks to a psychological trap, a surprise attack, and carefully preset conditions… as long as there was a yet bigger fish like Ev there to stop that superior opponent from transforming him into so much spaghetti bolognaise.
+
+In fact, from his perspective, he was holding back! These people had never spent time in an internet lobby, trash talking someone who’d just sniped you fifty times for being a virgin loser who was too good at the game. Sure, it wasn’t like he thought he won those arguments, it was just fun to shout at people. That was, when there were no consequences to it, anyways. But what was this, but a rare opportunity to taunt someone in this life with no consequences?
+
+He glanced at Ev. Speaking of, he once again felt a little stupid. Not as stupid as when he’d ‘saved’ her from the bullies, since he’d deliberately asked for this fight so he could win Cynog’s influence, but still a little stupid. She obviously had this whole situation well in hand. Even if he’d needed the fight to win Cynog over, it didn’t mean he didn’t feel foolish for all the bruises and bleeding he’d done to get there.
+
+Cynog ground his teeth, narrowing his eyes at Rhys dangerously.
+
+Ev rolled her eyes at him. “You, shut up. Go play in the stream. The adults are talking.”
+
+Rhys saluted, pressing his hand into his fist and bowing. “Yes!” Without another word, he limped off. He took a sip of potion as he went, then settled by the stream to finish reinforcing his body with impurities and heal all the damage Cynog had done.
+
+From the edge of the stream, he watched Ev and Cynog speak. Ev had a dark, dangerous look in her eyes, but after the show she’d made of snapping his wrist, Cynog was simply polite and respectful to her. They traded a few words, and then Cynog yanked his wrist back into place and walked off. Ev watched him go. Only when he’d hopped up the edge of the cliff and vanished well and truly from sight did she bend, picking up the cloth she’d dropped on the floor. She wound it around her right wrist once more as she walked over to Rhys’ side, tossing him a nod along the way.
+
+“Everything good?” Rhys asked.
+
+“What, between me and Cynog? Fat chance. He’ll honor the promise he made to you, though. I made sure of that,” Ev said.
+
+Rhys looked her up and down. “You really are the strongest person in the school, aren’t you? Even at Tier 2, Cynog can’t beat you.”
+
+“Mmm. It’s not impossible to fight up a Tier. You know that,” Ev replied.
+
+Rhys laughed. He turned, gesturing. “I have a friend. Had… no. Have a friend. Name’s Bast. When we were still together, he was the wall I could never beat. When the Strawman got captured, he was taken in by the Sword Saint. Every time I see you, I can’t help but wonder: between you and him, who would win?”
+
+Ev laughed. “Either way, he sounds like a good fight. I’d like to test my fists against this friend of yours. The Strawman’s other disciple, is he? I heard big things about him, right when you got taken in, but I haven’t heard anything lately.”
+
+“You’ve heard of him? Of Bast?” Rhys asked, surprised. He’d heard nothing, so he’d assumed there was nothing to be heard. But he was the trash. Why would he hear anything?
+
+“Only right at the start, and not much more than that he was an incredible talent. Someone with the potential to be the strongest swordsman in our generation, and maybe even the next Sword Saint. Haven’t heard much since… ah, but that’s not worth worrying about,” she added, as Rhys’ face fell. “The Sword Saint is notoriously private and reclusive. He wouldn’t let anyone learn too much about a disciple of his, especially if your friend is as extreme a talent as they say.”
+
+Rhys nodded. Somehow, he was a little proud to hear that his friend was valued so highly. And to think, he was going to be thrown out with the trash. If he hadn’t stepped in, Bast would still be just another kid at the orphanage, overlooked and of no interest to anyone. But now, his friend’s talent was being recognized, as it had always deserved to be.
+
+There was a bit of bitterness in the pride, though. Now everyone could see the value in the trash; now his find wasn’t his anymore. After a moment, Rhys pushed it away. It was the same as reading a manga before everyone else and trying to share it for years, only for everyone to suddenly be into it when the anime finally came out. He should be happy that the thing he valued was finally being appreciated by everyone, not sad that it didn’t ‘belong to him’ anymore.
+
+Besides, Bast never belonged to me. He chuckled at that thought. He was being a little too possessive, wasn’t he? But Bast was like a sibling to him. And not only that, but the first one to see the value in him, when he, too, had been nothing but trash. They’d both chosen to pick one another out of the garbage, and raise one another up. Naturally, his emotions were complex, to hear that Bast was succeeding long before he could. At the end of the day, though, he was happy to see his friend succeed. That was the one thing he was absolutely sure of.
+
+In any case, Bast wasn’t trash, and he was. Bast had been miscategorized. Between the two of them, Bast was a diamond ring that had fallen down the sink and ended up in the compost, and Rhys was a scrap of potato that belonged in there. Of course Bast would be picked up and treasured, while Rhys had to put down roots and make his own fortune for himself.
+
+“You two were close, weren’t you,” Ev commented.
+
+Rhys startled. “Er… yes.” He’d just sat in silence, lost in thought. How awkward for Ev! “Sorry about that.”
+
+She waved her hand. “No, no. It’s fine. I’m glad that you have a good friend like that. Not everyone has that! You should always treasure that bond you share.”
+
+Rhys nodded. “Of course.”
+
+Ev stretched. “That’s enough training for today. I’ll escort you back to the main plaza.”
+
+“Huh? I know the way back.”
+
+“And I know Cynog. I wouldn’t be shocked if he, or some of his idiot underlings, are out there waiting for you to come by.”
+
+Rhys opened his mouth, then shut it, conceding the point. He only had a few drops left in his potion. He could still use Trash Intent, Trash Body, and even Cornered Rat, but without impurities to actively burn, he couldn’t be confident in his ability to survive Cynog, or fight off his underlings. If Cynog wanted to get revenge, he might just die outright. He was a little more confident when it came to Cynog’s underlings, but he was also healing from the wounds Cynog had inflicted still, and didn’t really want to get beat up again today.
+
+“Thank you,” he said instead.
+
+“Ha, so you do know how to be grateful,” Ev joked. She led the way, and Rhys followed close behind.
+
+No one jumped them on the way home, though whether that was because they hadn’t bothered, or because Ev was there to scare them off, Rhys couldn’t say. Halfway back, they passed a small group of mages, bowing and offering incense to the sky. The incense burned an intense black, and a heavy fragrance filled the air. The mages chanted and swayed in place, moving in sync.
+
+“What’s that all about?” Rhys asked, nudging Ev. Maybe she knew. He hadn’t seen it before, but he hadn’t been here long, either. Ev had been here much longer than him, so she might recognize it.
+
+Ev looked over. She nodded at one of the nearer mages. “What’s all this about, then?”
+
+Rhys opened his mouth, then shut it. Now that I think about it, I could’ve just started there, honestly.
+
+The mage looked up. His eyes were big and worshipful, and his manner, as though she had interrupted him at church. “Quiet! We’re worshipping the Exalted Filth. Don’t interrupt us, or it might punish us all with its earth-shattering wrath!”
+
+“Exalted Filth? It’s the Impure Being!” a female mage interjected.
+
+“Shush, or the Black Smoke Spirit will devour us!” another snapped.
+
+Rhys nodded slowly. Even as he did, his brows furrowed. Hold on. I’m starting to put things together. He pointed back in the direction they’d come from. “Are you… worshipping the, uh, the pillar of black smoke?”
+
+All the mages nodded.
+
+Ev glanced at Rhys. She snorted.
+
+Rhys licked his lips. “I don’t think you need to worry about its wrath. Actually, I’ve heard it’s pretty benevolent.” Yeah, because it’s me! What wrath am I going to visit upon you? I’m not even higher Tier than you!
+
+“With those impacts, that tremble the mountain itself? With that pitch-black smoke? Benevolent?” The male mage shook his head.
+
+“Please leave. You’ve already interrupted us long enough.”
+
+The mages went back to their chanting and swaying. Rhys stared at them for a second, then sighed. What am I supposed to do about that? He shook his head and walked on.
+
+Ev smirked at him. As they walked away, she nudged him. “Well, well, well, your Exaltedness. I didn’t know I was in the presence of a god.”
+
+Rhys rolled his eyes at her. “Somehow, it’s the second time someone’s made that mistake.”
+
+“Oh, really?”
+
+“Wish I was joking. Don’t think there’s anything I can do about it, either.”
+
+“Doesn’t seem like it. It is funny, though,” Ev replied.
+
+Rhys shook his head. “Gods.”
+
+The two of them made it back to the square without any further encounters, whether with worshippers or Cynog and his followers. Ev nodded and walked off, leaving Rhys alone in the square. He looked around for a moment, then headed toward the library.
+
+He now had three teachers advocating for him: Sorden, the potions teacher, Cynog, and the mustelid man, whose name Rhys belatedly realized he still didn’t know. Of the teachers he knew about, that left the astronomy teacher, the extremely low-Tier classes’ teachers, who probably had little influence, and one more teacher he knew well.
+
+Rhys pushed open the door and stepped into the library. The usual cool and calm encompassed him, so utterly familiar. He hurried to Az’s desk. “Az, are you in?”
+
+“Am I ever out?” Az replied, his voice echoing around the corner.
+
+He rounded the corner of the shelves to find Az lounging behind the desk in much the same pose he’d been in the first time, his feet up on the desk and a book in his hand. He didn’t bother to look up as Rhys drew up to the desk, but turned the page in his book instead.
+
+Rhys cleared his throat. “I have a favor to ask.”
+
+Az arched a brow. His eyes continued to track across the page. “You want me to ask if you can gain access to the upper peak?”
+
+“I…” Rhys blinked. “How do you know?”
+
+“I’m lazy, but I’m not deaf or blind,” Az remarked, turning another page. He nodded behind Rhys. “What do you think, then? Upper peak material?”
+
+“Huh? I—”
+
+A voice he hadn’t heard in some time sounded from behind him. “So, you already aspire to such heights?”
+
+Rhys turned, startled. No way.
+
+But it was.  Aquari Gibron, Schoolmaster of the Infinite Constellation School, stood before him. She tapped her fingertips on the butt of her sword and glared down at him. “What do you want so badly from the upper peak, that you’d risk life and death to achieve it?”
+
+Rhys grinned. Without hesitation, he replied, “The trash!”

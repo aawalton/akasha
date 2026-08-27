@@ -1,0 +1,189 @@
+---
+id: c1bdd260-88f0-5745-9021-c7bf7ae63bdf
+page-type-slug: story-chapter-royal-road
+title: "Threads 98-Contemplation 3"
+slug: 0121-threads-98-contemplation-3
+partOf: forge-of-destiny
+position: 121
+ownLength: 2496
+unit: words
+publishedAt: 2021-06-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/703435/threads-98-contemplation-3"
+royalRoadId: "703435"
+---
+
+On the stage, Ling Qi smiled and bowed as her first song with Hanyi came to an end. They began the next song, and Ling Qi pondered what she had heard. The short snippet wasn’t much to go on. It almost seemed like just a personal conflict, but wasn’t this sort of conflict between vassal groups the sort of thing she was supposed to keep an eye on? Also, she was curious about the girl who had attracted Meizhen’s interest.
+
+Ling Qi continued to listen in to the conversations of lesser nobles. She paid special attention to those who seemed to lie on the edges of groups and blocs. Wang Chao could probably use a nudge toward more potential friends. The rest, she just filed away in her head to be reported to Cai Renxiang later.
+
+When the performance was over and Hanyi had danced off to the refreshment tables, Ling Qi descended from the stage, trading polite words with other partygoers. Quite a few seemed to be thrown off by her new attempts at a more friendly demeanor, and she caught more than one wary look at her back as she passed through the crowd. It was like they were waiting for the other shoe to drop.
+
+She found Bao Qingling standing with her back to the pavilion's railing, arms crossed and shoulders hunched. She looked rather unapproachable. Naturally, Ling Qi ignored this. She honestly wasn’t sure what had attracted Meizhen to this girl. The only thought that came to mind was their shared height and general build.
+
+She tried to picture the scowling girl in front of her willingly embracing someone. She failed.
+
+<Your imagination needs some work, if a little thing like that stalls you. I bet she’s really affectionate but super awkward about it, and it’s adorable,> Sixiang murmured.
+
+Bao Qingling’s head jerked in her direction as she approached, and Ling Qi stopped to bow. “Miss Bao, did you enjoy the song?”
+
+“It was highly proficient,” she replied shortly, and Ling Qi suspected that was the best praise she would get from the girl. “I do not have much use for open skies and blooming spring fields however.”
+
+“No song can be for everyone,” Ling Qi said agreeably, moving to lean against the railing beside her. “How is Li Suyin? I haven’t seen her all month.”
+
+“The Sect has her locked away in a workshop,” Bao Qingling said. Her eyes stared ahead, twitching with the movement of the crowd in front of them. Her sleek grey boot tapped the floor impatiently. “Not how I expected her to catch the elders’ attention.”
+
+“Li Suyin is very talented,” Ling Qi said. Working directly with the elders? That was… definitely something.
+
+“Of course,” Bao Qingling sniffed. “I taught her properly.”
+
+Ling Qi gave her a sidelong look. Despite her sour tone, Ling Qi didn’t detect any envy there, just a sort of spiteful pride.
+
+“And what about you?” She was surprised when Bao Qingling spoke up again. “Handling my cousin’s attempts at negotiation well?”
+
+“We have worked out an initial deal,” Ling Qi revealed easily.
+
+“Whatever you’re doing, keep doing it.” Bao Qingling snorted. “You have him puzzled, that’s for sure.”
+
+<I’m gonna call that one an indictment,> Sixiang said dryly in her head.
+
+“I’ll take that under advisement,” Ling Qi replied, keeping a straight face.
+
+“Do so,” Bao Qingling said bluntly.
+
+Finally, she turned her head to look at Ling Qi. Even cleaned up without the goggles or a mask on her face, Bao Qingling definitely wasn’t pretty. Her complexion was more pallid than pale, there were dark circles under her eyes, her lips were thin, and her features were sharp. Compared to the many young women here, she was very plain. But then again, so was Ling Qi. “Tch, it seems that we are entangled, one way or another.”
+
+Ling Qi nodded slowly. On several levels even. “We are. Funny how that works.”
+
+Bao Qingling grunted in agreement. “Don’t expect me to start coming out to shop and braid your hair. You are an associate of an associate.”
+
+“We aren’t friends,” Ling Qi agreed. “But I feel like we should at least be friendly given the growing number of connections we have.”
+
+Bao Qingling gave her a narrow-eyed glare, and a faint touch of color rose in her cheeks. “And what is that supposed to mean?”
+
+“Just that we should talk now and then,” Ling Qi said lightly. “Care to vent about what’s troubling you? Lady Cai might need to know if her vassals are going to be squabbling on the eve of war.”
+
+The other girl huffed, turning back to watch the crowd. “It’s not clan business,” she answered shortly. “Not yet.”
+
+Ling Qi cocked an eyebrow. When Bao Qingling didn’t continue, she cleared her throat. “Now you’re the one being vague.”
+
+“Feh,” the girl spat. “Just echoes of conflict before our time. Luo Zhong wants to have patching things up under his belt and a line of Bao family credit. He started courting me the second I hit the Inner Sect. As if I have time for that.”
+
+“I would have thought your parents would be deciding that kind of thing,” Ling Qi said carefully.
+
+Bao Qingling shrugged. “He seems to have convinced his parents. Mine are content to leave me be. I am a poor asset for the usual business, but I’ve shown enough talent to put that nonsense off. If I can angle for an apprenticeship in the Duchess’ court, that is worth more than a line with a bunch of herders.”
+
+“Why not just go for a different Bao then? I’m sure you’ve got sisters or cousins.” Ling Qi felt gross talking about this topic, but Luo Zhong’s insistence on Bao Qingling in particular seemed strange given how large clans were. Still, she felt like calling a scion of another count clan “a bunch of herders” was more than Qingling’s habitual bluntness. Was there conflict between the Bao and the Luo?
+
+“Not unmarried. He’s just too impatient to wait a decade or two for the younger ones to grow up,” Bao Qingling explained flippantly. She pushed herself up from the railing. “I will give Lady Cai my respects now. This place isn’t good for my nerves.”
+
+Ling Qi nodded as the other girl left, following her path through the crowd.
+
+<Something between a personal spat and political one then,> Sixiang mused silently. <Moons, you humans love to complicate things.>
+
+Ling Qi considered following up on this, but she might be getting ahead of herself. She was more confident in herself now, but there was confidence, and then there was arrogance in trying to weasel out more context from a comital scion who appeared to pride himself on social manipulation. And using her co-project with Wang Chao as a conversation opener might be insulting to Wang Chao.
+
+Ling Qi cast one last glance at Luo Zhong. He stood off to one side, chatting pleasantly with a handful of barons and viscounts she recognized from his party. He seemed fine, but there was still a hint of tension in the air. She mentally appended this disagreement to her to-do list. Once the expedition underground was over, she would ask Bao Qian for more information about this.
+
+Ling Qi caught sight of Hanyi, and she began to head her way. Something about the way Hanyi was grinning at Xuan Shi made her nervous.
+
+<What’s the worst she could do?> Sixiang asked innocently.
+
+Ling Qi picked up her pace. Why did Xuan Shi’s social screen have to be so good!?
+
+***
+
+“Right? Big Sis is just the best, but she won’t admit it, so you should…” Hanyi’s voice suddenly snapped into focus as Ling Qi stepped into range.
+
+“Hello again,” Ling Qi said cheerfully, cutting Hanyi off without remorse. “I hope my little sister hasn’t been troubling you.”
+
+Hanyi shot her a look and huffed, crossing her arms. “Big Sis, I was being good! I didn’t do anything you said not to.”
+
+Ling Qi gave her a suspicious look. Hanyi grinned. Xuan Shi looked uncomfortable.
+
+“Thy sibling offered no offense. Do not be harsh,” Xuan Shi said hastily. Well, hastily for him, anyway.
+
+“Of course,” Ling Qi said evenly. “What were you discussing then?”
+
+“I was just talking about how good you are at composing, Sis, and all the help you’ve been giving me,” Hanyi said sweetly.
+
+Partial lie, her instincts told her. Considering Hanyi…
+
+<She was totally trying to set you up for a date. Or convince Hat Boy to ask,> Sixiang stated bluntly in her thoughts.
+
+Ling Qi sighed. Hanyi was trying to “help.” Thankfully, Xuan Shi did not seem to have taken offense. “There is no need to praise me too much, Hanyi. You will make people think I have a swollen head,” she chided gently.
+
+Hanyi looked defiant but nodded, mumbling under her breath. “Big Sis should be less humble.”
+
+Ling Qi chose to ignore that and smiled at Xuan Shi. “Thank you for being patient with Hanyi.”
+
+He waved his hand dismissively. “Miss Ling’s praise is welcome but unneeded. This one would instead offer thanks for the superb performance.”
+
+“It was hardly something so praiseworthy,” Ling Qi demurred. “And my name is fine.”
+
+“As you say,” he said, tugging his hat low. “How fares thine younger brother?”
+
+“He is growing quite steadily. He reached the appraisal stage just a short time ago,” Ling Qi replied cheerfully. She was always happy for an opportunity to praise Zhengui.
+
+“If anyone has a swollen head, it’s Zhen,” Hanyi said petulantly. The two must have had a little spat recently. Ling Qi did not let herself worry about it. They were friends and squabbled frequently, but their enmity never lasted for more than a day or two.
+
+<Like you didn’t wring your hands over it the first time you noticed,> Sixiang accused.
+
+Ling Qi ignored the muse’s prodding.
+
+“A good omen for growth to come,” Xuan Shi said, oblivious to her internal byplay. “This one has noticed a certain change in thee as well. A successful assimilation?”
+
+Ling Qi took but a moment to understand. Xuan Shi’s speech had become much more comprehensible since last year or perhaps, he was simply becoming more familiar with southern dialects. “I did succeed in integrating my domain weapon recently. Lady Cai was most helpful with her instruction. Given your cultivation, you must have as well.”
+
+He nodded amiably. “This one’s own efforts were somewhat fraught, but success came in the end.”
+
+“I’m not sure I’ve ever seen your domain weapon,” Ling Qi noted. She couldn’t quite recall. It would be rude to ask him to bring it out here though. “I suppose I will have the opportunity soon. Would you mind telling me about your more recent projects since we will be fighting together?”
+
+“Certainly.” Xuan Shi looked pleased. She had a feeling he would enjoy talking about his work, and it would be tactically helpful. She was a little amused at the way Hanyi subtly rolled her eyes. Silly little sister, it wasn’t so easy to make things awkward any more!
+
+***
+
+Ling Qi stood by Cai Renxiang’s side as the last of the guests descended the hill and left their site. The rest of the party had gone by quickly.
+
+Xuan Shi’s projects were interesting. It seemed that his focus was on expanding his project from last year’s crafting competition from personal defense to rapid deployment fortifications. A great deal of his words had gone over her head; she had not kept up with her formation studies. However, the talk of self-reinforcing and resonating defences certainly sounded powerful. She would feel a lot better about scouting ahead knowing that she had such a sturdy foundation behind her.
+
+She may have overstepped herself in inviting him to take a look at her home defenses though. He had been quite eager actually, but now, Ling Qi had to explain to her mother that a member of a ducal family was coming by and prevent her from hyperventilating. A concern for after the expedition.
+
+“You performed well,” Cai Renxiang said, disturbing her thoughts. “I was somewhat ambivalent about adding your spirit to the performance, but it turned out well. A worthy expense.”
+
+Ling Qi could feel Hanyi being smug at her from inside of her dantian. She would need to puncture that ego a little, come training.
+
+“It was amusing,” Ling Qi replied. “I expected some trouble with the more Peaks-inclined nobility, but the consensus seemed to be that I was skilled for taming such a notoriously unruly spirit.”
+
+Hanyi blew a silent rasberry at her.
+
+<Ling Qi’s not wrong. Who are you and what did you do with my bratty Hanyi?> Sixiang chuckled.
+
+<I can be a lady too!> Hanyi complained.
+
+Ling Qi struggled to keep a straight face as her spirits bickered. Cai Renxiang looked at her out of the corner of her eye, and Ling Qi flushed. She was pretty sure that Cai Renxiang knew what was happening. “Well, it wasn’t all good,” she allowed. “Some people still thought having her walk around on her own was boorish.”
+
+“You cannot please everyone with every action,” Cai Renxiang said. “Nonetheless, I am satisfied with your efforts.”
+
+“Thank you,” Ling Qi acknowledged. “Might I ask what matter brought Sun Liling here?”
+
+Cai Renxiang’s lips quirked down. “She was interested in a truce.”
+
+Ling Qi raised her eyebrows. “I didn’t know we were still at war with her.”
+
+“The Princess has focused her competitiveness upon myself and Bai Meizhen,” her liege corrected. “Regardless, it seems that Ji Rong has also been selected as part of the team for your upcoming expedition, and she wished to offer assurances that there would be no ill will during that mission… and request the same.”
+
+Ling Qi blinked. “He will? But why?” she asked.
+
+“His arts proved unusually effective against the beasts of the deep,” Cai Renxiang explained calmly. “The Sect is trusting the members to act professionally.”
+
+That was certainly fine for her and for Xuan Shi. Could Ji Rong really be trusted to do the same? She rubbed her forehead in consternation. “I have no personal grudge.”
+
+“I told the princess such, and I trust your discipline regardless,” Cai Renxiang said, stepping out of the pavilion. “Come. I wish to have one final spar before you set about your last stretch of cultivation.”
+
+“Yes, Lady Cai,” Ling Qi replied immediately, falling in behind her. Ugh. She really didn’t know how to feel about working with Ji Rong.
+
+Over the course of the next few days, Ling Qi made her final preparations. She cultivated the next level of the Roaming Moon’s Eye art. Divination had been a useful tool before, and developing it further would only make it more so.
+
+When she wasn’t cultivating, she was working with Hanyi and Zhengui, spending just a little more time familiarizing herself with their fighting styles.
+
+Soon, the time had come.

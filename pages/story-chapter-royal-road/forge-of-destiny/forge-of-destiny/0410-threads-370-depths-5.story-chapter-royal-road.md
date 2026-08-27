@@ -1,0 +1,149 @@
+---
+id: 27d8bd8e-6891-545c-9661-82e99ad3df87
+page-type-slug: story-chapter-royal-road
+title: "Threads 370-Depths 5"
+slug: 0410-threads-370-depths-5
+partOf: forge-of-destiny
+position: 410
+ownLength: 1816
+unit: words
+publishedAt: 2024-03-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1563319/threads-370-depths-5"
+royalRoadId: "1563319"
+---
+
+She made it twenty whole paces before the world slowed down, its colors bleeding out.
+
+"You performed well, student."
+
+"I would hope so, even if I feel like I have been run over by a wagon." Ling Qi glanced up at the too smooth face of her mentor extended above her on a too long neck. "I nearly saw a name. Did you catch it?"
+
+Shu Yue's face tilted at an angle that would have broken a human spine, their black crescent smile widening. "I did."
+
+"Then the chase is done?"
+
+"It is not. Signs point to Meng Deming as the vector from whom the parasite came to Xia Anxi, by way of the observatory. However, my intuition tells me that there is yet one more mask to peel away. I ask that you seek to forestall the ministry from doing anything short-sighted. Play to their need for procedure, more physical evidence, and court ritual."
+
+"Then the Meng are not…?" She feared for Meng Dan and those of the progressive Meng faction she had worked with, if they were.
+
+"These toys come from their storehouses, I think. I can say nothing, only that Meng Deming is another severed tail, left to satisfy the stalking predator. Let the inspector work. His eyes are sharper than mine in some ways."
+
+And then Ling Qi's footfall reached the ground as the world resumed and the color returned. It took effort not to stumble.
+
+She took a deep breath. It hadn't even occurred to her how bad she looked. Should she…?
+
+"I took care of it, making you look all cleaned up and dandy. Won't hold up against anyone really looking, but you just need to get over to the meeting house."
+
+She would. She was thankful.
+
+"All fine. Just don't cut it so close next time, huh?"
+
+She would try.
+
+***
+
+"You are injured," Cao Chun observed, reaching out to accept the proffered parasite, frozen in its last spasming attempt to escape.
+
+"My method requires me to take personal risks in exchange for its efficacy," Ling Qi replied. "The mind of Xia Anxi was significantly more difficult to infiltrate than a low realm worker's."
+
+"Of course. Yet you succeeded all the same. My own extraction was a total success without incident. Your Zheng companion succeeded as well, but I am told his target was quite upset when she was informed by your liege afterward."
+
+"Mine was hardly pleased either." Ling Qi stepped back from his desk and straightened up. "We will have to offer the Bai their pound of flesh for this assault on their envoys, but that is an Emerald Seas concern."
+
+Inspector Cao eyed the creature on his desk with some disdain and waved his hand over it, vanishing it into his own storage. He then continued to eye her speculatively. "It is. Is there anything you can report before I examine this?"
+
+"Not as much as last time. Meng Deming was the vector through which the parasite was delivered, and the intention seems to have been to cause the Bai to enter into a physical altercation with the Sun. Did Zheng Fu's investigation…?"
+
+"Sure did!" Zheng Fu announced, swirling into existence beside her. She did not give him the satisfaction of jumping, but she did blink when she saw the blood spotting his head scarf and the burned outline of knuckles on the fabric.
+
+"Ya girl's got a mean hook and crazy reflexes," Zheng Fu said in response to her look. "Ehhh, I probably earned it. Coulda been more tactful."
+
+"No." Cao Chun’s tone was so dry that Ling Qi thought she could feel the moisture in the air literally evaporate.
+
+"It was like the little Jin guy said," Zheng Fu rolled on, ignoring him pointedly. "She was going to the after-hours meetups with the other soldiers. Officially, she was just keeping an eye on the event, but she'd also been participating. Think she, uh…" He caught himself, and his eyes darted between them. "She's made a friend. I guess. Someone she talked to down on your trip."
+
+Ling Qi blinked slowly. Xia Lin had spent her time interacting with the White Sky's soldiers down south too.
+
+"Anyway… These things are old. The bugs are from a talisman that dates back… Eh, I wanna say two, three hundred years? Around the time you guys were having your rebellion. I don't think the other ones were that old. Someone’s burning through stocks. Anything else, I’d have to go over with Old Man Cao here to make sense of."
+
+Cao Chun let out a huff of breath. "That is good news at least. If these items could be produced rapidly, even my superiors might feel some stress."
+
+"The question is where those stocks are," Ling Qi said. "I do not believe Meng Deming is the source."
+
+"It is true that his outwardly presented name does not match the names we have found, nor does he have a record of such craftsmanship," Cao Chun said. "However, it is possible to obscure such information. Even if not, these may be the work of a previous master taken and put to use."
+
+She could not say that Shu Yue had experienced their foe as a sovereign themself, not merely using one's tools.
+
+Ling Qi theorized, "It is equally possible that he is being used as a red herring, even by his own clan. He is known as an evenhanded member of the clan head’s faction. If a more extreme elder were to go rogue, they might wish to force the rest of the clan to back them."
+
+"That is true," Cao Chun allowed. "I will examine this parasite, and investigations will continue. It is too early for accusations, and I acknowledge that making them would badly disrupt your operation here and now. Haste would be untoward. I will control any of my subordinates which may think otherwise."
+
+"Thank you inspector," she said, tired but relieved.
+
+Zheng Fu eyed her. "Oof. You look like you need to sit under a waterfall."
+
+"I would prefer a quiet meditation in a garden or by the lakeside," Ling Qi grumbled.
+
+"Boring," Zheng Fu said. "Then again, you don't even get that, do you? Gotta be talking more tomorrow."
+
+Ling Qi sighed. "I do." She might actually sleep a whole night when this summit was over.
+
+***
+
+"I am so sorry, Xia Lin," Ling Qi said, bowing almost horizontal to the ground.
+
+"I understand the operational scenario. It was the best choice you could have made for the mission," Xia Lin said stiffly. "Only you would be capable of not offending the Bai clan out of the agents available."
+
+"Nonetheless," Ling Qi said, remaining where she was.
+
+Cai Renxiang’s office within the embassy was dim, lit only by the lanterns affixed to the walls, the window closed and covered by wooden slats.
+
+"This scenario is deeply trying," Cai Renxiang said from behind her desk, hands folded under her chin. "For all of us."
+
+"It is most irksome to know that there is a foe among us which I cannot touch or see or even acknowledge." Gan Guangli’s arms were crossed over his chest, and his hair brushed the ceiling, a sure sign of his agitation.
+
+"It is very distressing to know that my armor's defenses were bypassed at some point," Xia Lin said. "Again, I do not begrudge your choice, Ling Qi. I am certain the Bai who you infiltrated feels much the same as I."
+
+Ling Qi slowly straightened up. "He was very distressed as well. For what it is worth, I judge that this Zheng Fu has no ill intentions. If he shows any, inform me, and I will aid you in extracting vengeance."
+
+That finally earned a huff of laughter. "Fine."
+
+Cai Renxiang sighed. "Please do not discuss assault on a member of a ducal clan."
+
+"I do not believe the Zheng would object unless the harm is crippling or fatal," Gan Guangli observed.
+
+Cai Renxiang's expression grew pinched. "Regardless."
+
+"We should focus on serious matters," Xia Lin interjected.
+
+Ling Qi wished she could read the other girl better, but the White Plumes armor Xia Lin wore and Xia Lin’s tight hold on her qi meant that even with her advanced technique, Ling Qicould only rely on her eyes.
+
+"The borders are settled for the most part," Gan Guangli said. "The broad strokes have been defined down to individual cliffs and valleys and streams."
+
+"As much as clean, straight lines may please the cartographers, this is for the best," Cai Renxiang said. "I expect minor dickering to continue throughout, but the main talks shall be moving to the next subject."
+
+"Infrastructure," Xia Lin said crisply.
+
+"I understand why it is not, but it feels like it should be a more commercial concern," Ling Qi said.
+
+"Roads, wayforts, and gates will be of primarily military use for some time. Any commerce will be almost incidental for some time to come," Cai Renxiang said. "I am certain, however, that there are parties already planning to build on these foundations."
+
+"Should we be one of them?" Ling Qi wondered. "Snowblossom is well positioned, and we know that we, at least, will operate in good faith."
+
+"Establishing economic viability of their holding is a ruler's duty," Cai Renxiang agreed.
+
+"I think the main points of contention will be the level of investment in a primary road, the exact path it takes, and the nature of its guardianship," Gan Guangli analyzed. "Recall that the Jia wish to organize an outrider organization with their troops at the center."
+
+"The Jia are very loyal to the Cai, but they are very zealous about imperial culture. Is that wise?" Xia Lin asked.
+
+"If they do not receive opportunities for merits and achievements, they will not be pleased." Gan Guangli spread his hands out helplessly. "They will want some leading role."
+
+"There's also the issue of extending the mixed patrols in the embassy, making it a more permanent policy," Ling Qi added, "and whether to allow it beyond this place."
+
+"You will displease the general,” Xia Lin warned. “However, with the lack of incidents, perhaps not too much. Exactly whose troops will be involved needs to be considered."
+
+"Doable,” Cai Renxiang judged. “As to the road question, there are two reasonable routes, skirting around the sacred mountains in the core, in the east and the west. That is the point where our personal interest lies."
+
+"I believe the Wang and by extension, us, are better overall stewards. The Jia and the Luo support us primarily to advance their own ambitions on the Jing headwaters territory," Ling Qi said. "I think we can afford to push a little as long as they feel they will get their own route eventually."
+
+The promises she had made to Luo Jie gave some wiggle room there. Still, the time for speculation was coming to an end.

@@ -1,0 +1,209 @@
+---
+id: 86a4b537-ab26-5803-9135-bb8b946328c0
+page-type-slug: story-chapter-royal-road
+title: "16 - The Cyclops' Marsh (2)"
+slug: 0016-16-the-cyclops-marsh-2
+partOf: gamer-girl-evolution
+position: 16
+ownLength: 1952
+unit: words
+ownProgress: 1952
+publishedAt: 2025-10-20
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2691277/16-the-cyclops-marsh-2"
+royalRoadId: "2691277"
+markedReadAt: "2026-06-29T20:06:05.925Z"
+---
+
+— "Wait, true death? What do you mean, we can’t respawn?"
+
+— "So, it’s just permanent death if we die? You’re not messing with us, right?"
+
+— "Guys, how do we kill that thing?!"
+
+The players in Marshia's central area looked around nervously as if they couldn't believe their ears. Celica didn't react. The second floor's wandering boss was something she had dealt with on several occasions. She wasn't worried about experiencing true death. She'd deal with it way before it got strong enough to kill her or anyone else. She knew what mutants could do if left unchecked.
+
+Slimonius’ voice grew almost sympathetic. "Look, I’m even giving you fair warning. You’ll want to clear it sooner rather than later, but if you’re running out of time, group up and take it down by any means necessary. Only five players can attack it at once but remember that if it kills you, it’s game over."
+
+— "Only five at once? What happens if more attack it?"
+
+— "Why don't we leave this one to Snapped Sword?"
+
+— "I'm done with this trash game, only interesting game lore is Wisdom Hands."
+
+Slimonius' greasy laugh echoed. He seemed to be enjoying seeing the player's shared discomfort to an unsettling degree. "I've set the main quest now. Good luck—you all need it."
+
+***
+
+[Earthonia’s Second Main Quest: Kill 50 Trolls]
+
+Completion: 0 / 50
+
+Time Remaining: 4 days, 23 hours, 59 minutes, 59 seconds
+
+***
+
+As Slimonius' body merged into the ground, Celica turned serious, her eyes locking into focus as soon as she saw the timer. Instantly, she self-cast the basic agility buff and began pathing towards the city's nearest exit. Her movement suddenly turned erratic as she jolted from left to right.
+
+Good, they didn't have time to patch the vectoring glitch... she thought to herself. But from Slimonius' words, it seems like it'll be patched by the next floor. Out of instinct she took the shortest route towards the Great Marshlands, the area which held countless different mobs and areas for grinding.
+
+Since completion of the main quest meant that players would at least be level 10, the mobs in the great marshlands were at the minimum level 10. Although that was the case, mobs ranged from level 10 up to 25 in the Great Marshlands.
+
+The majority of the player base would have to grind to be able to kill a single troll or form parties and attack them like they were dungeon bosses. Celica, however, being level 20 and all, was more than capable of taking on trolls with her current abilities.
+
+On the first floor she was speedrunning for fun but this time she wouldn't hold back. Not when she knew this was real. Not when she knew that the devs were giving OP cheat items as rewards.
+
+The moment Celica stepped into the marshlands, the thick fog greeted her, swirling around her legs as if the swamp itself was trying to pull her into its depths. For some reason... she was smiling.
+
+As she moved deeper into the marsh, the first group of mobs appeared. A pack of three murky creatures, each one a furious mass of dirt.
+
+[Mud Golem – Lv. 11]
+
+[Mud Golem – Lv. 10]
+
+[Mud Golem – Lv. 13]
+
+She ignored them, breezing straight past them but taking note of the amount in the pack. Mud Golems were low-level monsters intended for players to grind with in order to be strong enough to defeat the trolls. Celica could bypass that step at this stage. She kept moving.
+
+In the distance she could see two grey muscular titans and her mouth curled upwards into a grin.
+
+[Troll – Lv. 15]
+
+[Troll – Lv. 14]
+
+She could already feel the adrenaline kick in as she activated all of her buffs simultaneously. In the corner of her eye she could see several small icons indicating that all her stats had improved by ten percent.
+
+She drifted towards them in a blur and with a swift Thrust, her blade connected with the first troll's exposed neck, a single strike that left the creature dead before it even realized what had happened.
+
+[+70 EXP]
+
+She was already moving towards the next one before the first body hit the ground. Animation cancelling allowed her to move at breakneck speeds. She launched another attack—this time a Slash—to take down the second troll. The troll's bodies faded into the ethereal mist of the marsh as if they had never been there at all.
+
+[+80 EXP]
+
+[Thrust skill has ranked up.]
+
+[Slash skill has ranked up.]
+
+"A cluster of three and then two. If the next group is three then...." Celica muttered to herself as she travelled deeper. Just like she'd thought, the next group of mobs she encountered consisted of three trolls. Three mud golems, two trolls, and three more trolls, it's the sixth possibility... she thought inwardly.
+
+Although Slimonius had said that the boss would spawn in a random place, that wasn't actually true. There were seven different possible locations in which the Cyclops could spawn and speedrunners like Celica had figured out each’s spawning pattern. The mobs she'd encountered told her everything she needed to know.
+
+Celica moved like a phantom, clearing the three trolls in front of her with calculated precision. Thrust. Slash. Thrust. As soon as she executed the skills, she adjusted her pathing, so that by the time she'd completed the main quest, she'd be right next to the boss' spawn point.
+
+Celica’s counter flashed 45. The remaining trolls were scattered across the marsh, but she didn’t have time to waste. She moved with purpose, her feet barely touching the ground as she dashed from one troll to the next, the fog swirling around her like a veil.
+
+Every second counted.
+
+She spotted a troll ahead, lumbering through the reeds. Without hesitation, Celica closed the gap, her body a blur as she sliced through the air with her sword. Slash—the blade cut deep into the troll’s chest, cleaving through its midsection in one fluid motion. The troll collapsed with barely a sound. She was already on the move before its body could hit the ground.
+
+In the distance, Celica saw another group of mobs approaching.
+
+[Ogre – Lv. 18]
+
+[Ogre – Lv. 19]
+
+[Ogre – Lv. 20]
+
+For now, she'd avoid them. A quick dodge to the left, and she was back on track. Another troll appeared, this one standing near a cluster of mud golems. She couldn’t waste time on those, either. She took the troll down in a heartbeat, a precise Thrust to the throat, followed by a Slash that sent its head flying.
+
+The marsh was a labyrinth of twisting paths, but Celica knew exactly where to go. She was relentless, never breaking her stride. One troll fell after another, her every strike purposeful. The trolls barely had time to blink before they were reduced to nothing more than twitching corpses.
+
+[Thrust skill has ranked up.]
+
+[Slash skill has ranked up.]
+
+She moved seamlessly, dodging and weaving through the dense fog. The trolls were falling faster now, her sword an extension of her will, her strikes too fast to be tracked. She was a blur, her footsteps light and swift.
+
+Another troll appeared at the edge of her vision. She turned, her body twisting with the grace of a dancer, and with a single thrust, she impaled it through the chest.
+
+[+85 EXP]
+
+She didn’t stop. There was no time for anything but the main quest.
+
+[+75 EXP]
+
+Each troll dropped with a sickening thud as Celica carved her way through the marsh. Just then, multiple system alerts sounded in her ear.
+
+— [Basic Strength Buff has ranked up.]
+
+— [Basic Agility Buff has ranked up.]
+
+— [Basic Vitality Buff has ranked up.]
+
+— [Basic Dexterity Buff has ranked up.]
+
+— [Basic Endurance Buff has ranked up.]
+
+“Five rank ups? At once?" Celica muttered as a surge of power washed over her.
+
+The boost was tangible, as if her body was transforming into finely tuned weapon. She could feel her strength increasing with every swing of her sword, her agility making her faster than ever, her vitality giving her the energy to keep going, and her dexterity allowing her strikes to land with deadly precision.
+
+Holy crap, this supporter job-class is way more busted than I originally thought... Celica laughed to herself internally but instantly focused up again.
+
+Before she realised it, there were only five trolls left. She darted between two large boulders, spotting one standing near a small pond. With a quick step, she launched herself into the air, flipping over its head and landing behind it. Her sword flashed in the dim light, and with a single swipe, it was done.
+
+[Thrust skill has ranked up.]
+
+[Slash skill has ranked up.]
+
+Celica's breath was steady as she moved toward the last four. They were close now, clustered together near a small ridge. She advanced, silent as a shadow. With a rapid combination of thrusts and slashes, she took down the first two before they even had a chance to scream let alone attack.
+
+[+85 EXP]
+
+[+85 EXP]
+
+The last two tried to fight back, but Celica was already two steps ahead. With a triumphant Slash, the last troll fell.
+
+***
+
+[CONGRATULATIONS!]
+
+[Earthonia’s Second Main Quest: Kill 50 Trolls]
+
+Completion: 50 / 50
+
+Time Remaining: 4 days, 23 hours, 56 minutes, 12 seconds
+
+You are the first player to complete the main quest in this Area.
+
+You are the first player to complete the main quest in this Zone.
+
+You are the first player to complete the main quest in the World.
+
+As a reward for your achievement, on the next floor you will receive three unique rewards. Would you like to enter a name to be publicly displayed and tied to your grand achievement?
+
+***
+
+"3 minutes and 47 seconds. It's... a PB." Celica said slowly as she looked down in shock. Either this hidden job-class was much stronger than she anticipated, or she was in the form of her life. This clear was even faster than her clear of the first main quest, granted, she was trying much harder this time around.
+
+She moved her hands towards the option box which had appeared in front of her, opting to type in a familiar name.
+
+***
+
+[SYSTEM ANNOUNCEMENT]
+
+Player Snapped Sword has completed the second main quest in your Area!
+
+Player Snapped Sword has completed the second main quest in your Zone!
+
+Player Snapped Sword has completed the second main quest in the World!
+
+***
+
+"Never gets old." Celica said as she smiled in amusement. Out of curiosity she opened up the world chat to see people's reactions.
+
+"What?! Already? How did they clear it so quickly when I only just left the city!?"
+
+"Can you kill the boss so I don't have to be scared to farm please Snapped Sword?"
+
+"Cheater. I call hacks. Snapped Sword is NOT my GOAT."
+
+Well that seems about right, she thought to herself. Celica was sat waiting next to a fairly large pond. This was where she knew the boss would spawn. Unfortunately, she was early. Very early. The boss would only spawn in about thirty minutes, and she knew that.
+
+Since I have some time to kill... she opened up her map UI, a smile tugging at her lips as she remembered a few different useful questlines she could play through while she was waiting. Just then, she frowned as something unsettling caught her eye.
+
+Was that… new?
+
+She hadn’t seen that before. Not on this floor. A chill ran down her spine as she analysed the strange map icon.
+
+What is that?

@@ -1,0 +1,145 @@
+---
+id: 7ff1fadd-1d54-5083-aee8-5d2ba1728b45
+page-type-slug: story-chapter-royal-road
+title: "Threads 248-Journey 5"
+slug: 0286-threads-248-journey-5
+partOf: forge-of-destiny
+position: 286
+ownLength: 1710
+unit: words
+publishedAt: 2022-09-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/997681/threads-248-journey-5"
+royalRoadId: "997681"
+---
+
+Then, very slowly, the woman cracked a smile. “I see. That is generous.”
+
+“It is my hope that our relations can be friendly in the future, and if I may do an ally a favor while forestalling further tragedy, that can only be good,” Ling Qi replied. It was easier than ever to allow her own thoughts and Sixiang to operate in parallel, shaping her words for maximum effect. Diao Hualing was, in her estimation, a mostly mercenary figure so framing their relationship in terms of favors given and owed was best.
+
+“It is reaching to ask another party to do your work and call it a favor,” said Diao Hualing lightly.
+
+“Lady Diao, my friends are candid with me. I know what you offered to Su Ling. If you have an interest in that bloodline, I have very much given you an excuse to get it. Moreover, it is a rationale that your opponents might be hard pressed to fight. As long as the children are well cared for and not dying in the cold, I am pleased enough.” Ling Qi held her gaze. “Though, I will admit ignorance as to what your goals are.”
+
+Her probe was a bit of a risk, but she felt that Diao Hualing’s mood was good enough to try it.
+
+“Spirit blood is valuable, and though the methods of astrological divination are in vogue, the old methods are not worthless,” offered Diao Hualing. “I will commend you on your words. Your eyes are sharp for one so young. I believe we may have an accord here.”
+
+“Thank you. But you did not answer me.”
+
+“I did not,” said Diao Hualing thoughtfully. “The Diao are strong, and our foundations solid. Are we not the ones others should emulate?”
+
+“Perhaps, but I imagine the other counts would put forth an equal claim,” said Ling Qi cautiously.
+
+“They would. An equal claim,” said Diao Hualing with some satisfaction. “It will take some weeks to assemble trustworthy agents and diviners for this.”
+
+“I only ask that you be thorough and as quick as you are able. And… if possible, could it be left open for Su Ling to have access?”
+
+“To an extent.” Diao Hualing offered an eloquent shrug. “If families are found for these children, then those households would be responsible.”
+
+Ling Qi furrowed her brow. That was a fair point, but…
+
+“But some surveillance can be arranged, as the spirit may escalate if its cultivation is disrupted,” Diao Hualing continued blithely.
+
+“That would be well,” said Ling Qi, understanding the implication clearly enough. “Do we have an accord then?”
+
+“We do. You are wise to allow the Diao to handle this matter, and I believe our partnership will be fruitful.”
+
+“You are very reasonable,” Ling Qi agreed. “To future success then.”
+
+“To future success,” echoed Diao Hualing.
+
+They chatted a few moments longer. Diao Hualing would supply her with an introduction and credentials to the district ministry when it was time for her involvement, and she would remain on correspondence for the other matter. Ling Qi also agreed to speak with Diao Hualing first if her “divination” turned up anything else on the matter of Madam Gray.
+
+She had avoided making the extent of her knowledge obvious, but she was sure the Diao investigator was thinking of what else she might be aware of.
+
+By every measure, she had succeeded at all of her goals coming here. Ling Qi wondered why she felt so relieved as she left the ministry grounds, allowing herself a moment to slump against the side of the carriage. She had rehearsed so long as to what she would say if she had to push. She had thought up oblique threats and practiced statements standing her ground, and yet, Diao Hualing had simply been so reasonable about the whole thing that none of it had been necessary.
+
+“Hey, hey, you had some pretty good one liners-lined up. We’ll save them for another time, yeah?” Sixiang gave her the feeling of being patted on the shoulder.
+
+“You’ll have to remember them all.” She squeezed her eyes shut. After a moment, she straightened. “Okay. Okay. Everything went well. We have until sundown now. So, let’s find Shu Yue, and...”
+
+Ling Qi felt the hairs on her neck rise, and a crawling sensation skittered up her spine.
+
+She kept her gaze straight ahead for a few long seconds, then turned and bowed to the looming figure standing behind her. Shu Yue looked much as they had last time, their androgynous face gazing down impassively from the shadows that gathered about them like a cloak. They were deeply unsettling still, limbs too long, fingers too long, and posture subtly wrong as if their bones were not all in the right places.
+
+But by now, she had dealt with many inhuman figures. Ling Qi bowed her head. “Master Shu is prompt.”
+
+How long had Shu Yue been with her? She didn’t know.
+
+“Whence this title?” they asked curiously.
+
+“You have said you would teach me. I only wished to be polite.”
+
+Tap-tap-tap went too-long fingers, nails a polished black and glinting despite the lack of light.
+
+“No.”
+
+“No?” Ling Qi echoed.
+
+“To be a master… This is an intimate relationship. Neither I nor you have arrived at this,” said Shu Yue.
+
+“As you like.” Ling Qi couldn’t disagree. Zeqing was still her master in her mind. “Just Shu Yue, then?”
+
+“Yes,” they agreed. “You wished to speak with me.”
+
+“I did, but I’m not so sure of that need anymore,” admitted Ling Qi. She knew they would have heard the conversation between Cai Renxiang, Gan Guangli, and her.
+
+“I am here to assist you. My master knows everything you spoke of. Does it matter that I do?”
+
+“It’s hard for me to wrap my head around.”
+
+“Change is violence. That the young miss wishes to be a kinder cut is pleasing,” Shu Yue approved. “The swords that split the throat of the old dead world would always need to be buried, one way or the other. Any other resolution is a failure.”
+
+“So you expect me to kill you in the end?” Ling Qi blurted out, grimacing as the words spilled forth.
+
+Shu Yue’s fingers stopped tapping, and their thin lips curved into a smile. “I am not one of those swords, but perhaps. If you come to the conclusion that I am unjust, that your world cannot tolerate my existence.”
+
+“...Who would I be to judge that?”
+
+“Who are any of us?” asked Shu Yue blandly. “Justice lives in the mind alone. It has no existence but what we give it. But I do not think you came to me for early lessons.”
+
+“No. I recently encountered some dangerous spirits, and I wanted to ask you to check my cultivation for signs of deviation or possession,” explained Ling Qi, not quite able to hold Shu Yue’s gaze.
+
+“Understandable. That would explain what I see.”
+
+“There is something, then?” Ling Qi asked.
+
+“Not possession, but there is a touch of something beyond the ice you welcomed in,” Shu Yue answered. “It does not command, but it may change you. Is what you look to gain worth the risk?”
+
+Ling Qi didn’t reply right away. The old thief wasn’t making any direct moves yet, but she did know that sometimes, a thief had to spend more time putting a mark at ease before the actual heist. “Did you listen to what I spoke with Diao Hualing about?” she asked instead.
+
+“That would be rude. It is not my business to monitor such things,” said Shu Yue. “If I may, do you intend to walk among dreams when we reach the capital?”
+
+“I had planned on it,” Ling Qi admitted.
+
+“Then I would ask that you remain among the eaves. You are not ready for what sleeps in the roots of Xiangmen. I request your promise on this, though I have no authority to force you.”
+
+“You could easily stop me, if you wished,” Ling Qi pointed out.
+
+A pale face tilted to the side. “That is not my role.”
+
+“I think that is an easy promise to make for now.” Ling Qi glanced down at her still-broken arm. It would be usable, if sore, by the time they arrived, and she was not eager to dive into another horror. “Even I need to space out my tribulations a little.”
+
+“You will stick to risking your mind over your body then,” Shu Yue surmised.
+
+Ling Qi gave a tight smile. “The revels of the Dreaming Moon are risky, but it's a different kind of risk.”
+
+“Yes, it is. I told you to be ambitious, but patience is a part of that.”
+
+“It’s hard to think of patience right now,” said Ling Qi dryly.
+
+“It always is,” said Shu Yue, turning away. ”It will be even when you begin to think of years as you do months and decades as as you do years.”
+
+Suddenly, Shu Yue was gone, vanished between eye blinks as if they had never been. Or, at least, they appeared to be gone. And wasn’t that a fun thought? Would she make people think the same someday?
+
+“Pretty sure you already do in certain circles,” drawled Sixiang, their chin resting on her shoulder. It would have been an awkward position if the rest of their body was materialized.
+
+“That doesn’t count,” Ling Qi chided, doing her best to hide her continued unease.
+
+She turned away from the carriage, making her way out from where it was held. In the end, she thought, what had changed from yesterday? Nothing.
+
+She still needed to aim for the top. She still needed to support Renxiang, and she still believed that Renxiang would do good as a duchess. She still needed to make a good impression on the nobles of the capital and make plenty of stones for her clan in the auction. She still needed to ensure the Empire, or at least the province, did not end up fighting any more wars than were absolutely necessary.
+
+None of her immediate problems had changed. The heavens were still far away.
+
+But she would reach them one day. It just should have been obvious that she wouldn’t find peace there.

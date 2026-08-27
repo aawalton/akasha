@@ -1,0 +1,75 @@
+---
+id: 633c3c93-3132-5c17-bfc3-c83b2d08eb16
+page-type-slug: story-chapter-royal-road
+title: "71. Great Tracts of Land"
+slug: 0071-71-great-tracts-of-land
+partOf: god-of-trash
+position: 71
+ownLength: 1938
+unit: words
+publishedAt: 2025-05-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2270052/71-great-tracts-of-land"
+royalRoadId: "2270052"
+---
+
+By the time Mouse returned, Bast was long gone, and Rhys’s potato farm was well under way. It wasn’t yet time to set up the stand, so he was mostly farming the potatoes in preparation. He spent the rest of the day doing that, then, when the rats scurried up with tiny bits of trashure—most of them not particularly useful—reassigned them to guard his potatoes from their unenlightened brethren. The raccoon sauntered over and volunteered to guard as well, in return for a fresh absorption of its impurities. Rhys was happy to comply, and so the raccoon became the commander of his rat troops, ordering them left, right, and center in order to properly farm and guard the potatoes.
+
+When he saw the critters heaping fresh compost on the plants, and even digging holes to plant more potatoes, Rhys nodded and left the farm in their capable hands. If they ate all the potatoes, he’d be slightly set back, but given his ability to generate fresh potatoes as long as he had some eyes, he wasn’t too worried. He gave them all the normal potatoes, indicating that they could eat the rest as long as they buried the eyes, and the rats took too his offer like fish to water.
+
+He hadn’t had the materials to properly transform Bast, which was why he’d let his victim, ahem, friend go for the day, but a quick shop by the merchants’ district quickly remedied that. Seeing him come, the merchants quickly clamored for his attention, showing him fresh deliveries of potatoes, salt, and oil, but Rhys already had all of those that he wanted. Instead, he visited the perfume shops, makeup stores, and clothing stores, gathering all the gear he’d need. He could’ve fished things out of the trash, but this was important, and besides, he wanted to make sure he was up on the latest fashion, not accidentally crafting bumpkin robes from the tossed-out scraps of last year’s robes.
+
+They had to look good. That was essential. A pretty face always sold more, whether it was male or female, and he was determined to sell the most of all. Fashion. Makeup. Jewelry. Perfume. These were their signboards, the posts upon which they staked their business. People ate with the eyes first, after all; therefore, Rhys intended to give them some eye candy before they made their purchases. The salesman who poo-pooed fine attire, a bit of makeup, a good scent, and tasteful jewelry poo-pooed a significant portion of his profits. As someone who previously hadn’t been blessed with an attractive face or a body that didn’t sweat like a pig, Rhys had experienced just how much of a difference a handsome face could make to a sale. Now that he had those things, he was determined to put them to their maximum usage.
+
+Of course, there was a limit to what a handsome face could do, but he was willing to find that limit, rather than have to fight the current with a less-than-handsome face.
+
+“Er, d-do you have a girlfriend?” Mouse guessed, looking at his purchases.
+
+Rhys chuckled. “Not yet.”
+
+She blinked, at a loss, and tilted her head to the side. “Huh?”
+
+“Don’t worry about it. When do the rest of the students arrive for the tournament?”
+
+“S-students are arriving constantly, but the big schools should arrive late today or tomorrow. Er, the Vurix Empire’s envoy arrives tomorrow morning, if that’s what you mean.”
+
+“Vurix Empire?” Rhys glanced over, a bit surprised. A nation-state competing amongst the mages? “Don’t mages, martial artists, and adventurers all ascend to their own world to mingle amongst one another and leave mortals alone?”
+
+Mouse nodded. “Th-that’s right. This is an empire of mages. F-from what I understand, one powerful mage school swept through the neighboring continent, forcing all the continent’s schools under its command. Its leader, the Empress Raelgan, has settled down in the hundred years since she conquered the continent, and she’s looking to expand trade to our continent, so she’s reaching out and seeking more ties to our continent than before.”
+
+Expanding trade? Rhys’s ears perked up at that, but only until the rest of what Mouse said hit his brain. A conqueror who’d quieted down? A conqueror, looking to expand trade? He suddenly felt like their loose conglomeration of infighting mage schools was nothing more than a tasty school of small fish, and the hungry shark was closing in. Conquerors never stopped lusting after power and land. It was what made them conquerors in the first place. If they could stop lusting after power, they would have stopped long before something like unifying a continent or ‘expanding trade to the neighboring continent.’ And in this world, where one’s path drove their growth and dictated their every action, directing their future growth by aiming it toward what drove them as human beings, how, how, how would a conqueror stop conquering? After all, if what he suspected was true, and her path was related to conquering, then she would miss out on potential growth if she stopped rolling over new territories.
+
+I sure hope those in power have a plan, he thought, because, after all, what could he do? He was a Tier 2 trash mage, not some world-shattering hero. He’d do what he could, but this was a mage-school-level, no, Alliance-level problem, not something he could solve.
+
+“I take it your Schoolmaster is fully aware of this?” Rhys asked, meaning the obvious train of thought, rather than the simple fact of the Empire arriving.
+
+“O-oh, yes. Um. He’s rather busy with it, and told me not to bother him with the small librarian problem,” Mouse replied, visibly troubled by this.
+
+“Ah.” Well, that was a good sign, at least, even if Mouse didn’t like the fact that Az was getting away with his semi-hostile takeover of the library. Better for the Schoolmaster to be worried about the conqueror setting her gazes on their continent, rather than worried over the minor internal politics of a well-meaning but very powerful cat taking over his library. Hell, for all he knew, Az was a famous figure amongst high-ranking mages, and the Schoolmaster wasn’t worried at all. He just didn’t know. All he knew, was that he was glad the Schoolmaster was focusing his energies in the right direction. Schoolmaster- and Alliance-level existences were the kind of people who needed to pay attention to that conqueror.
+
+Existences… like the Sword Saint. Rhys made a mental note to bring up Emperor Raelgan, the encroaching conqueror, to Bast later so Bast could bring it up to his master, assuming the Sword Saint didn’t already know. If he were a betting man, Rhys would bet that the Sword Saint already knew, but it never hurt to check.
+
+About the only thing he could think of to do, was absolutely thrash any student from the Empire that he faced in the tournament. That way, if nothing else, Emperess Raelgun would know that their continent posed a serious threat, and the students they sent were equaled, if not bettered, by their equivalents on Rhys’s continent.
+
+This entire time, since he’d discovered impurities and how easy it was to manipulate them, he’d held back. There was an obvious route of attack open to him—pushing impurities into other people, so they faced all the afflictions he’d overcome—but he’d ignored it, one, because he needed the impurities to grow, and two, because he wasn’t in the business of permanently crippling children. He might look childish, but he was an adult inside, and he knew what forcing impurities on a young mage meant for their future. Therefore, he’d held back rather than inflict impurities intentionally on someone else.
+
+But if this group of students from the Empire was really the banner force to lead the inevitable conquest that he thought it was, then there was no longer any reason to hold back. In fact, all the better reason to be absolutely as brutal as possible, so the Empress knew an invasion on their continent would inflict serious and permanent wounds on her conquest.
+
+I have to be absolutely sure before I do that, Rhys decided. If he allowed his biases to color his opinion of the students, he risked permanently crippling children because he alone thought an invasion was forthcoming. Only if he had irrefutable proof that not only was the Empress hellbent on invasion, but also that the specific child he fought was party to and intentionally engaging in the invasion, would he take those actions.
+
+Still, there’s nothing holding me back from inflicting some impurities, then taking them back after the battle. He’d have to be absolutely sure he could retrieve the impurities he inflicted, which was difficult to ensure, but if he could, then he could go ahead and use impurities. Thinking on it, though, he shook his head. It would have to be a last-ditch effort. An absolute life-or-death situation against someone the judges would not stop, who was so completely morally reprehensible that he had no hesitation judging them as an adult. After all, even in his world, exceptions were made for extreme juvenile criminals… but if the combatant didn’t equal or exceed that level, he wouldn’t use offensive impurities.
+
+He shook his head. Those were thoughts for another day. For today, he was going to focus on selling his potato chips and getting as rich as possible. Whether the Empress invaded or not, he’d be better off if he was rich than if he was poor. He wasn’t particularly loyal to his current school or continent. He liked them, yes, liked his freedom, but that was the extent of it. He could be equally free by simply leaving the school, and he never lost sight of that. If this conqueror was merely in it for the land grab, and everything would be more or less the same after she passed through, then he really didn’t matter saluting a new flag.
+
+Of course, the problem was that conquerors were rarely about mere land grabs, and conquest was never bloodless. He didn’t want to see Ev, Bast, Sorden, or even Aquari die fighting a meaningless battle against a power-hungry tyrant. The ninety-nine-percent case was that he’d oppose this conqueror to his dying breath; but he always left the room open for optimism, as stupid and empty-headed as that optimism sounded, even to him. A bloodless conquest? A change of flag? Ha. It would take a real fifteen-year-old to believe that kind of garbage… and even then, he was pretty sure he hadn’t been so blindly optimistic at that age.
+
+But hey, this was a land of mages, where might made right. Maybe this Empress really was so powerful she could pull off such a thing.
+
+Right, and she’s sending feelers to our continent for fun. Rhys rolled his eyes at himself. Treating her as an ultimate threat and preparing to oppose her with all his might was the much more likely route, over some kind of lala-land children’s-show bloodless conquest and flag change.
+
+Just to prove himself wrong, he turned to Mouse. “So, this conqueror… how bad is she?”
+
+Mouse shook her head. “We don’t know anything about her. The continent went dark after she conquered it. Nothing in or out. This will be the first time anyone has been allowed out.”
+
+Rhys’s smile tightened. The lala-land scenario left his head entirely. Yep. That doesn’t sound like there’s a whole lot of freedom in the lands she’s conquered. It was oppose her to his dying breath or nothing, then.
+
+But first, it was time to sell potato chips.

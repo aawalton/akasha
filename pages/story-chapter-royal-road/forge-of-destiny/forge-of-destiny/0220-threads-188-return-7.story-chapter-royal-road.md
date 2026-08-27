@@ -1,0 +1,115 @@
+---
+id: df1f94ec-6ee8-544d-869b-d4a6ef53ae80
+page-type-slug: story-chapter-royal-road
+title: "Threads 188-Return 7"
+slug: 0220-threads-188-return-7
+partOf: forge-of-destiny
+position: 220
+ownLength: 1486
+unit: words
+publishedAt: 2022-02-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/850430/threads-188-return-7"
+royalRoadId: "850430"
+---
+
+Leaning back against Zhengui’s side, Ling Qi listened to the beat of his hearts. It was a strange sound, a subaudible rumble that belied his shrunken mass. If Ling Qi closed her physical senses and listened and felt with spirit alone, the rumble was that of the towering beast he was and was becoming.
+
+Two heartbeats, reverberating over each other, vied for attention. Fire and Destruction. Wood and Growth. A beast like Zhengui was as much spirit as flesh, not like the lesser beasts whose bodies conformed to mortal limits. Zhengui was the bubbling of fire beneath the earth and the rustle of fresh leaves.
+
+She extended her senses to the garden and listened. His qi was in every blade of grass and every swaying branch. It was a glittering web of life and light, growing from the ash and death of their previous attempts, lying thick in the churned soil.
+
+Music was not just sound. It was expression, a message conveyed from musician to listener. Sometimes, it was a truth of spirit, and sometimes, it was simply a tale or a scene like poetry or a painting.
+
+Was it different from what she had crafted here, together with Zhengui? She listened closely, and in the beat of Zhengui’s hearts, she heard the slow pulse of sap in the trees and the faint current of the breath of plants, taking in the last of the fading solar qi from the sky. No, it wasn’t so different. She hummed and felt the qi in the trees stir.
+
+“What is Big Sister thinking about?” Zhengui asked, making her open an eye.
+
+The comparison she had made raised a question. What was it Zhengui was trying to express with this work?
+
+“Sister?” Zhen echoed, peering up from where he had laid his head across her lap.
+
+“I was just thinking about the garden,” Ling Qi replied, tracing the lines of qi radiating out. Even with the darkness and the mist cloaking the woods, wildlife was beginning to creep in. Insects, field mice, and wild faeries, all of them were drifting into or blinking into existence in this newfound environment. With each one that came, each one that alighted on glistening needles or nibbled at the waving grass, the garden was changing subtly, growing away from Zhengui.
+
+For all that, he remained at the core.  Each newcomer flickered with the tiniest mote of her brother’s spirit.
+
+“You’ve been feeling really stifled, huh?” Ling Qi observed.
+
+“Gui is still growing, so this is fine,” he said.
+
+“But you’ll be happy to leave the Sect,” Ling Qi concluded. “This… It’s fun, but it won’t really give you what you need, will it?”
+
+“I, Zhen, am looking forward to going on another adventure with Big Sister to claim a home,” Zhen answered. “This is good practice…”
+
+“So this makes us happy,” they said together.
+
+A xuanwu was not just a beast. They were in a class all their own like dragons. They were an embodiment of environments like the Storm Lord she had met with Yu Nuan, like Zeqing, or even like the ice spirits in the south. The greatest xuanwu of the north were living islands, carrying immense ecosystems around themselves. Feeling every creeping bit of life entering this place begin to take on some hue of his spirit made her realize that.
+
+In the growth around her, embers of fire flickered as well, the catalysts for their Ending and new birth. It wasn’t so different from the death by winter and rebirth by spring intrinsic to some of her insights.
+
+“Gui hopes Big Sister will be patient with Gui. He will definitely start growing better soon!” he said brightly.
+
+“You don’t need to worry about that,” Ling Qi said.
+
+“Yeah, she puts up with me, and I can barely be bothered to cultivate at all,” Sixiang said flippantly.
+
+Ling Qi rolled her eyes at the muse’s joke.
+
+Ling Qi absently touched her chest where the pains of her heart demon occasionally emanated. She had not had the time to think about why that promise to her family had hurt her so much. She knew how valuable her companions were in battle. Against Ji Rong, it was one of the things that had allowed her to overwhelm him. In the caldera, the fire drawn by Zhengui had helped her survive those first few frantic moments without being wounded.
+
+What rankled her wasn’t just a matter of her spirits not being able to keep up. She hadn’t felt any twinges in her cultivation while assisting Zhengui. So what was it?
+
+<Of course this wouldn’t hurt. You're helping him grow and cultivating yourself. Even if you're branching off a bit, you haven’t slowed down at all,> Sixiang said in her thoughts.
+
+Ling Qi frowned a little. <Sixiang?>
+
+<I can’t know your heart completely, but I think you’re barking up the wrong tree here. Like you said, it’s not just cultivation and power here,> the muse said, giving the impression of a mental shrug.
+
+“Big Sister is worrying again,” Zhen said. He had raised his head to look at her dead on, and his flicking tongue tickled her nose.
+
+Ling Qi began to raise her voice in denial but felt a twinge in her chest. “I am.”
+
+“What is wrong, Big Sister?” Gui asked.
+
+Her first urge was to deflect, but looking out over the garden they had begun together… Wasn’t that the same urge that had led her to keep her mother out of the loop even after they reunited?
+
+She had made a promise to her family. Promised to hold back in certain ways. To be careful. To help. To burden herself with their concerns. But she was still reluctant to burden them with hers because she was the strong one now. She had to be so that the world couldn’t hurt them. If she burdened them, then she was failing.
+
+Ling Qi shook herself, feeling her heart beat erratically for a moment. That thought had hurt. It almost felt like the ache of a bone that was setting wrong.
+
+She looked up to see Zhen hovering over her, and she felt Sixiang’s concern in her mind. Both of them stung.
+
+“I’m just worrying about the promise I made you,” she said. “I’m... I’m living up to it, aren’t I?”
+
+“Huh? Yes, Gui is happy. Big Sister talks to us more and lets Gui also do the crazy things.”
+
+“I, Zhen, am glad to be relied on, even a little,” his other half agreed.
+
+“Of course.” Ling Qi raised a hand to stroke his head, but she still felt uncomfortable. Was it really alright?
+
+<Ling Qi... You know we have your back, right? I thought you did, but I’m starting to wonder,> the muse whispered. <Reliance is only healthy if it's mutual.>
+
+<Not always,> Ling Qi thought. <A child can only rely on their parent.>
+
+Wasn’t that why she had to protect Zhengui? In her mind, the one blemish on the surface of the Argent Mirror flaked away.
+
+<Not seeing any little children other than Biyu in the picture,> Sixiang retorted. <And even she’ll grow up in a little while. I’m glad you’re not sidestepping that whole thing anymore, but Zhengui passed that point.>
+
+“Zhen feels as if he is being left out of something here.” The serpent narrowed his eyes.
+
+“Just having a chat with Sixiang.” Ling Qi stood up, brushing off her gown. “Zhengui, has it ever bothered you, calling me ‘Big Sister’?”
+
+He had stood with her, dust and gravel raining from his belly as he shook himself off, but he paused at her question. She found Gui looking pensive.
+
+“When Gui was small, he did not understand the human noises very well. Gui learned from Sister’s thoughts.”
+
+“So we did not understand why Big Sister told us the word we learned was wrong,” Zhen said, his usual pompous tone gone. “But later, we thought it was strange.”
+
+“Gui still doesn’t completely get it. Human sounds are strange and do not always mean what they are supposed to mean. So… Gui is okay with Big Sister because it means what Gui wants to mean and does not make Big Sister unhappy.”
+
+Ling Qi closed her eyes for a moment then reached out and patted his blunt snout. “Thank you.” Perhaps it was just her imagination, but something seemed to loosen a little in her chest like a strained muscle relaxing. “I… I think it might be strange to change what we call each other now. But I’m glad you understand.”
+
+“Gui would like to work more on the garden now. All of the talking hurts his head a little. Does Big Sister have the flower seeds?”
+
+“Yes, I do. I suppose that was a long enough break.
+
+It was still unfair of her, but she was glad, even if she couldn’t quite say the words, to stop lying to herself.

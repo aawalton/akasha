@@ -1,0 +1,115 @@
+---
+id: 6c4b7e1e-5a8e-502d-9a96-60694d9a900b
+page-type-slug: story-chapter-royal-road
+title: "59. Purple Dawn Academy"
+slug: 0059-59-purple-dawn-academy
+partOf: god-of-trash
+position: 59
+ownLength: 2766
+unit: words
+publishedAt: 2025-04-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2238914/59-purple-dawn-academy"
+royalRoadId: "2238914"
+---
+
+They flew toward the side of a mountain. A dark stone castle stood atop the peak, piercing up into the sky. The roof was made of a strange purple metal that reflected the sunlight, giving the impression of the sun constantly rising against a purple backdrop. That roof clad steepled temples, tall towers, and outbuildings alike. A crenelated stone wall ringed the outside of the castle, more a marker than a barrier, since mages flew over the wall left, right, and center. The castle was so large that it sprawled over the entire top half of the mountain, and as a result, the wall ringed the mountain just below the castle. A purple banner with a gold sun blazing in its center snapped atop the tallest tower in the center of the castle, which perched atop the very top of the peak.
+
+A castle large enough to surmount a mountain. A castle that took up the entire upper half of a mountain. It was immense. Larger than any building Rhys had ever seen, in this world or his own. The castle was the size of a large city, and equally vertical to match. Squinting, Rhys made out markets, shops, sports fields and even farming fields mingling in with the stone buildings of the castle. It was a castle and a city; a bastion, and a mountain. Mana emanated from the castle in waves, and Rhys sensed layers of barriers and dozens of hostile intents locking onto the skiff as they approached. Sensing two low-tier mages and their driver, the intents moved away, allowing the skiff to approach.
+
+In Rhys’s lap, Az yawned. Rhys glanced at him. Either the mages scanning them hadn’t noticed Az, or they’d let him by. Based on how easily Az had evaded Aquari, Rhys couldn’t be sure at all that they’d sensed him. True, Purple Dawn Academy was huge. Its physical size was several dozens of times larger than Infinite Constellation… maybe even hundreds of times. He could only see the front of the mountain, so he couldn’t be sure.
+
+Commensurate with its size, it was surely also home to more powerful mages than Aquari, or at least housed more powerful mages than a single Tier 4 mage (also known as Aquari), in terms of both having multiple Tier 4 and up mages, and also in terms of having mages above Tier 4. But the ease with which Az evaded Aquari meant he simply couldn’t be sure that Az couldn’t also evade them. For all he knew, Az was an evasion specialist who could hide from mages on his own tier. Hell, for all he knew, Az was some insanely high tier, and even evading Tier 5, or, dare he guess, Tier 6 mages, was as easy as batting a paw. He knew very little about the cat, except that he wanted him on his side.
+
+Rhys turned back to the window, gazing at his enemy. No wonder Ernesto had thought he could bully Infinite Constellation School. Compared to Purple Dawn Academy, their school was tiny. It was barely as large as one of the massive buildings in the sprawling castle before him.
+
+He chuckled to himself. Ev glanced his way. “What?”
+
+“You know what a big city means?”
+
+“I’m afraid to ask.”
+
+“Big trash pit.”
+
+She shook her head at him. “Is trash all you think about?”
+
+“No. Sometimes I think about costumes,” Rhys informed her.
+
+Gesturing at the massive castle outside, she said, “You see all that stone, all those rooms, the hundreds, no, thousands of mages, and you think, ‘lots of trash,’ and not ‘bet there’s a good fight to be had?’”
+
+Rhys shook his head at her. “I think that’s on you, not me.”
+
+“It’s on both of you,” the driver said, stomping down the stairs. He’d introduced himself as Oscar when they’d arrived, and was a big, burly man with a broad chest and wide shoulders. Not as big as Cynog, but far more hairy, with hair poking out of his shirt and sleeves, bristling muttonchops, and a bandana barely holding back a jutting head of hair. He looked from Ev to Rhys and thumbed over his shoulder. “We’re in their grip now. They’re pulling us into the dock. We’re here a bit early, so I don’t know if the guide will be at the docks or not, but they’re supposed to show us around the school, and then after that, you’ll have the rest of the day to roam. All us little schools are getting in today, while the big schools get in tomorrow. Gives us a little time to adapt before the bigguns get here.”
+
+Rhys nodded. Rather than ‘adapt,’ he really meant ‘blend in and scurry.’ Given the way that Purple Dawn had treated Infinite Constellation, it was obvious that the schools weren’t adverse to crushing one another outright or through underhanded means. Other big schools would likely be just as happy to casually backhand him and Ev off the face of the planet for looking at them wrong, and destroy their whole school for an insult.
+
+Unless, of course, the big schools didn’t know they were from little schools. Unless they blended in with Purple Dawn, and appeared the same as its students, or at least close enough that the big schools thought it was a risk to target them. He was sure Purple Dawn would assure their, and everyone else from a little school’s, safety, but it was better if they didn’t have to test that, especially with Purple Dawn’s attitude toward their school in general. Better they were just a face in the crowd. Of course, eventually, they’d end up realizing he and Ev were from a different school when they fought in the tournament, but that would also allow him and Ev to show off their skills, and with any luck, the other students would have second thoughts about harassing or fighting them after that.
+
+He eyed Ev. Or maybe not. Ev was looking for a good fight already. Who knew? Maybe there were other martial madmen like her who were on the hunt for sparring partners. But still, as long as they were good-natured and just looking to test their fists, rather than maliciously attack him and Ev with the intent to kill, it wasn’t that bad.
+
+The ship cruised smoothly into the dock. The docks stretched off a cliff, reaching out long wooden fingers into the sky, just exactly as docks would reach out into water. When they bumped up against the wood, Oscar hopped out and tied it into place, while Ev and Rhys disembarked. These docks were a little run down. The boards were silvered with age, and a few were outright missing. Birds congregated on the ends of the docks, and the wood there was painted black and white with droppings. One or two other small skiffs were pulled into the docks, most of them workhorses with all the patchwork paint jobs and mismatched hulls that implied. Across the dock, a finely painted green boat with gold trimming a little larger than theirs with a proud mast and a furled sail was tied up against the wood. Rhys made a note of it, tucking its description into the back of his mind. It probably belonged to another small school, so if he saw any students in green, they might belong to that school.
+
+Luckily, for his blend-in plan, neither he nor Ev wore anything that tied them to Infinite Constellation School. His robes were handmade from garbage materials, and her well-worn martial robes were deliberately nondescript. As long as Purple Dawn students didn’t all wear uniforms—and the ones he’d seen so far hadn’t—they had a pretty good leg up on blending in.
+
+Oscar looked around, then nodded at the two of them. “You two can take care of yourself, no?”
+
+Rhys and Ev exchanged a look. Rhys nodded. “Sure.”
+
+“Good. Wait here until your guide shows up. Shouldn’t be more than a few minutes. I’m gonna go get a drink.” Patting Rhys on the shoulder, Oscar shambled off, cracking his neck as he went.
+
+Rhys watched him go and raised his brows at Oscar’s retreating back. I think I know why I never saw him on the peak.
+
+The two of them stood there until Oscar wandered out of sight. The second he was gone, Ev nudged him. “Do we wait?” she muttered.
+
+Rhys glanced at her. “I do want to know where to sleep, where to find resources, where the shops are, where the garbage pit is…”
+
+“Shops? What are you going to do with shops?” Ev scoffed.
+
+Rhys shrugged. He was aware that he didn’t look like he had money. He liked it that way. Made him less likely to be robbed. That was why he’d always worn old sweat stained anime girl t-shirts and baggy old sweatpants back in his world. Definitely. For sure. In any case, the same principle applied in this world. He trusted Ev, but there was no reason to randomly flaunt his wealth, either. “Look at things.”
+
+“Look at things? I guess.” She crossed her arms and tapped one foot, already impatient. “Where’s this guide? Can’t they at least be on time?”
+
+Rhys wanted to remind her that they were the ones who had arrived early, but one look at her knitted brows, and he decided to take the better part of valor. They stood there on the dock, waiting, until at last a figure approached them. A young man, he strode forth with his chest puffed and his chin up high, looking down on them before he even reached them.
+
+“Oh boy. This is gonna be good,” Ev muttered, crossing her arms.
+
+Rhys’s lips pulled upward, but it was more grimace than smile. He put his hands behind his back and waited for the young man to arrive, but his hopes were no higher than Ev’s. It seemed Purple Dawn never was going to treat them with respect, from the beginning until the end. In all honesty, it would have shocked him to discover that it was just Ernesto who was the problem. Yes, Ernesto certainly was a problem, but what he’d learned over his first life was that there were environments that nourished those kinds of people, and environments that suppressed them. Given how blatant Ernesto was about using curse power and attacking Infinite Constellation, he’d had little hope that Purple Dawn was the kind of healthy environment where oppressors and bullies were stopped. Instead, he’d expected it to be highly toxic. Now that he was seeing a Purple Dawn student who wasn’t from Ernesto’s class for the first time, his theory had been confirmed.
+
+The young man reached them and bowed stiffly, barely lowering himself half a degree. “Welcome to Purple Dawn Academy, students of…” He looked at the two of them. “Just you two?”
+
+Mew. A tuxedo cat sat pointedly at Rhys’s feet, giving the young man a judgmental stare.
+
+“And Az,” Rhys added, nodding at the cat.
+
+“Right. If that’s so, then come along. You can join in with the introduction my fellow ambassador is offering Broad Oak School.” He gestured for them to follow and set off without looking back.
+
+Rhys bit back a snort. Student ambassador? It had been too long since he’d heard that officialism. Gods. Even back in his world, he’d found it stuffy and overly pompous. Hearing it from the lips of such a pompous boy… it was almost too much to take. He shook his head. Some things never changed. No matter where he went, academia would always be self-interested and stuck up its own rear end, buffing its ailing reputation with pompous titles.
+
+Well, I don’t think schools’ reputations are ailing here, Rhys noted silently, gazing around at the vast castle crawling over the entire mountaintop. Here, schools truly had power and influence, more than the countries around them. After all, the Alliance had made no mention of what country they were in, but merely referred to the school.
+
+Then again, I remember being taught in the orphanage that mortals and mages stay apart from one another. The schools ignored the countries, but equally didn’t interfere in their dealings; the countries ignored the schools, because they had absolutely no influence over the vastly more powerful mages. There were essentially two societies stacked on top of one another, never mixing, like oil and water.
+
+It made sense. Mortals were so powerless that if any mage interfered in their lives, that mage could absolutely dominate the mortals around them. On the other hand, the mages had little incentive to dabble in mortal dealings when mortals bought goods in copper pennies, and mages traded hundreds of gold on a daily basis. Sure, a mage could go dominate a mortal country, but to what end? The country’s entire stock of gold would be less than they could generate by growing one garden’s worth of magical herbs or brewing a single high value potion.
+
+Well, maybe I’m exaggerating a little bit, but not by much.
+
+On the other hand, mages came from mortals. The birth rate among mages was low, according to Az’s books, and the majority of mages were born from mortal parents. Most mages respected the noninterference with mortals not just on an economic basis, but because mortals were how mages were born. Attacking a random mortal settlement not only gave them little money, but also risked angering some high-Tier mage who happened to be born there, so whether by hook or by crook, righteous or villainous, most mages simply left mortals alone. To sum it up, the juice wasn’t worth the squeeze.
+
+Lost in thought, he quietly followed Ev and the pompous student down the docks and onto solid land. The lack of railings and the broken wood didn’t bother him much; it was a hundred-foot drop to hard earth below, but his body was refined enough that taking a fall of that description would barely scrape his knees. He had already hit the point that terminal velocity might break a bone, but no more.
+
+“Um, um, hello! Er, Ethan, these are…?”
+
+He looked up, broken out of his thoughts by the new voice. A girl in a sweater and a long skirt, long hair and thick glasses, stood at the front of a group of ten or so students in uniform forest-green robes. They looked up at Ev and Rhys’s approach, and the girl spluttered to a halt in the middle of an explanation. She pushed up her glasses, entirely at a loss of what to do with this unexpected interruption.
+
+“Two more students from some piddling school. Take them on the tour with you, will you? I’ll wait for a slightly larger school.”
+
+Rhys glanced at the pompous boy, or Ethan, as the girl had named him. He quirked a brow. He actually agreed with Ethan’s actions; there was no need for the boy to guide him and Ev, when there was another group just starting the tour around the corner. All the same, he didn’t need to treat them with such obvious derision. Even if he understood the toxicity of Purple Dawn Academy, there would always be students who embraced it, or conversely, rejected it. Ethan had decided to completely embrace the toxicity, and wasn’t worth being around, as a result.
+
+“O-oh, okay,” she said, nodding. The gesture pushed her glasses down her nose, and she quickly propped them back up. She met Rhys’s eyes, but only for a second before she stared at the floor again. “I’m, er, Mauve, but everyone calls me Mouse. I—just explained Purple Dawn’s protective clauses to the other students, but if you want—”
+
+“It’s fine,” Rhys interrupted her. Ev nodded as well, totally uninterested.
+
+“Okay then. Um.” She thought for a moment, totally out of her depths, then visibly rallied. “Then, if you’ll all follow me, I’ll lead you on a tour of the facilities.”
+
+Rhys nodded with a neutral smile. He cut his eyes backward at Ethan. So much trash here! On one hand, toxic human refuse, who deserved none of his respect, also known as Ethan. On the other hand, Mouse, so disrespected by her students that they didn’t even use her real name, and dumped their extra work on her. One type deserved to be polished; the other type deserved to be burned.
+
+A grin spread over Rhys’s lips. He had his work cut out for him here. Not just the trash pit, but all kinds of new and exciting types of trash! I can’t wait.

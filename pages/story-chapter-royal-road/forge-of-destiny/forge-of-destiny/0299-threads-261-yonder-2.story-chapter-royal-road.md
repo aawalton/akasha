@@ -1,0 +1,141 @@
+---
+id: 51cdc9e3-c997-5868-af05-868adc521a5f
+page-type-slug: story-chapter-royal-road
+title: "Threads 261-Yonder 2"
+slug: 0299-threads-261-yonder-2
+partOf: forge-of-destiny
+position: 299
+ownLength: 1913
+unit: words
+publishedAt: 2022-11-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1036970/threads-261-yonder-2"
+royalRoadId: "1036970"
+---
+
+Ling Qi blinked.
+
+“The surveyors have discovered a high concentration of spirits, which they are not equipped to engage with. The concentration lies along the southeastern tributary of the river. They believe it to be a local spirit court.”
+
+“And you want me to open talks.”
+
+“You have the greatest success with such negotiations,” Cai Renxiang replied, tilting her head. “But all the same, I would like you to take either Gan Guangli or Xia Lin with you for security and to give them more experience in such matters.”
+
+***
+
+“I must thank you for the opportunity, Miss Ling,” Gan Guangli boomed cheerfully as they set out from the outpost. There was only a dusting of snow, and where she stood atop the blanket of white, Gan Guangli’s stout boots dug a trench without difficulty.
+
+“Ah, it’s not something I think deserves thanks. I just think Xia Lin needs a bit more time to settle.” She smiled innocently. “And I do think I owe you an adventure. Really, I’m still a little mad at you and Su Ling.”
+
+Gan Guangli chuckled awkwardly. “Come now, Miss Ling. There’s no need for that.”
+
+“Oh, I think there is,” Ling Qi said, flitting ahead to perch on a high, narrow branch. “How long?”
+
+He stopped a moment, crossing his arms and raising his chin in defiance. Ling Qi leaned down, her loose bangs casting her eyes in shadow. Flecks of cold blue met gleaming gold, and the land around was cast in twilight by the shine of the dawn and the dark of midnight.
+
+Sixiang snickered. <Heh, that’s my girl. You know what’s serious.>
+
+“Honestly,” Gan Guangli sighed. “Miss Su only acknowledged our relationship after the tournament.”
+
+“But it started earlier,” Ling Qi deduced as they resumed walking, or rather, Gan Guangli did. Ling Qi drifted along the blanket of snow, glinting sparkles of light drifting out to keep watch on their surroundings. With close attention, she could feel the faint reverberation of qi in the sound of Gan Guangli’s crunching footsteps.
+
+“Did you invite me solely to gossip, Miss Ling?” Gan Guangli countered.
+
+Ling Qi came to a stop atop an ice slick log and coughed into her hand. “No.”
+
+That wasn’t the only reason.
+
+“I enjoy her company, and it bothered me to see her alone,” Gan Guangli finally offered thoughtfully.
+
+“Many people enjoy being alone,” Ling Qi pointed out.
+
+“Miss Su does not. It is my belief that she quite dislikes being in only her own company.”
+
+Not wrong, Ling Qi thought. “I’m still surprised.”
+
+“It is what it is. It remains to be seen if it becomes something more,” he replied serenely.
+
+Ling Qi narrowed her eyes at his unflappable expression. “That’s not how you were acting in the Medicine Hall.”
+
+“She told me what you had suggested before you went.” Gan Guangli gave her a flat look.
+
+Ling Qi looked away, flitting past a few trees. Su Ling did need that, blatant affection and drama and all.
+
+“But are you serious?” Ling Qi asked, letting the subject drop. She ignored the whispers in her mind of past experiences with men. She trusted Gan Guangli, and Su Ling had stood before a fourth realm’s projection and drawn its blood with a broken blade.
+
+Gan Guangli frowned deeply. “I want to believe I am, but at the same time, I do not want to burden Lady Cai further.”
+
+There was a rub for both of them. Strengthening their clans with connections and alliances was part of their duty, and in the end, marriage was the strongest bargaining chip a new clan had. “Su Ling is strong.”
+
+“She is,” Gan Guangli agreed.
+
+Ling Qi had a few vague thoughts on this problem. Given her suspicions of the connection between the fox children and the Diao… The offer Diao Hualing had made implied that they wished to take Su Ling in. Adoption was just as viable as marriage, particularly if she got to come right back to them all…
+
+“You are plotting, Miss Ling,” Gan Guangli observed in a voice of deep concern.
+
+“Just considering the future,” Ling Qi said airily. It was just a silly line of thought. Perhaps Su Ling could rise well in one of the ministries or the Sect itself. That would also be fine.
+
+“So, how much have you heard of the reports?” Ling Qi asked, changing the subject.
+
+He gave her a suspicious look, but seemed to decide that it was better not to pursue. “The possible spirit court lies in the dense forested region in the southeast centered on one of the feeding tributaries which merges with the river. Scouts reported a dense concentration of spirit beast qi, as well as a seemingly organized alarm response to their appearance near the area’s edge. Scouts withdrew to avoid causing offense.”
+
+“The qi of the area is mostly water and wood,” Ling Qi added. “Or under the imperial elements, water, earth, and mountain.”
+
+“Probably a stubborn but not too prickly bunch then,” Gan Guangli concluded, his boisterous tone returning. “You left Sir Zhengui behind to avoid an incident, I suppose.”
+
+Her little brother had been a little annoyed, but yes. “Zhengui is the sort of spirit which will definitely gather a court to himself. Bringing him along could easily be seen as a challenge.”
+
+“Most wise,” Gan Guangli agreed. “Spirit lords are only just a bit less territorial than we imperials!”
+
+Ling Qi smiled at the jest. “What is your experience with spirit beasts, Gan Guangli? I’m surprised you didn’t find a bound spirit earlier.”
+
+A shadow passed over his expression. “The spirits and beasts of my home are not friendly. The legacy of Chu was a great deal of banditry and proscribed cultivation out in the hinterlands. It left me with some poor impressions. But I have since learned better!”
+
+Though he remained cheerful, Ling Qi got the sense that it wasn’t the best time to press, and they were approaching the forest anyway. So she simply nodded and flitted ahead.
+
+The pine forest was dense and dark. Ice and snow hung heavily from fragrant branches packed tight together, and the ground was as much gnarled roots as earth and stone. The darkness was natural though, and the air was light and crisp, full of birdsong and the calls of beasts.
+
+They followed the route of the tributary river, which was wide but in many places shallow, running clear over a bed of smooth rocks. It burbled and crashed as it fell down little slopes and cliffs.
+
+The first sign of their destination was the growing density of qi in the air and the wider spacing of the trees. Here and there were clusters of tree stumps, letting in the early afternoon light. Strangely fresh saplings sprouted up from some of the old stumps.
+
+It was still a dense wood, but ordered in a way that it had not been before. And so, Ling Qi raised a hand to stop her companion.
+
+“You sense it as well then,” Gan Guangli said gravely, peering into the woods ahead. “I can feel the thunder of falling waters and the tramping of many feet. How do we proceed?”
+
+Ling Qi hummed to herself thoughtfully. “Have you spoken to a spirit court before?”
+
+“Only the House of Colors, and only in tribulation.” Gan Guangli stroked his chin. He tilted his head, listening to a voice she could not hear.
+
+<Probably the realm of the local avatar of the Rising Sun,> Sixiang murmured.
+
+“In this case, we aren’t coming as supplicants or tribulation seekers. We’re here as neighbors, not quite peers,” Ling Qi said. “But we have to present ourselves as Lady Cai’s hands to set the right tone for speaking.”
+
+“You believe we should show our presence fully?”
+
+“I believe we should be clear with our intentions. I have a song for this.”
+
+“Then I shall follow your lead, Miss Ling.”
+
+She nodded and stepped forward, alighting on a trio of clustered stumps from which a single pale green sapling grew. Her hand twitched to grasp her flute, and she frowned when nothing came from her storage ring. The songs of the spirit seekers could be sung as easily as they were played, but her heart still ached at her flute’s absence.
+
+Her heart still ached in its absence.
+
+Ling Qi straightened her shoulders and began to sing a high aria of arrival and welcome. The winds billowed, causing the hem of her dress and her heavy mantle to flare, filling the air with the rustling of cloth. She sang, and her feet rose from the stumps. Frost spread on the grass beneath her, and the sunlight grew dim.
+
+Mist flowed, and where her dress ended and where it began would be hard to say. It spilled like water, tendrils of cold night mist billowing out. Wisps of silver light spun and danced, emerging from the folds of her gown, and her blowing hair became a halo of star-filled darkness from which the winking faces of the moon peaked now and then. Sixiang’s arms wrapped around her shoulder, the muse’s wispy form materializing as they joined her song and spun winking colors into the monochrome starlight of her aura.
+
+At her side, rising above the horizon she made, was a sun rising from a mountain. Marble and gold, his head towered above the straying treetops, a determined visage carved from stone, and his shoulders the slopes of a great peak, standing straight under the weight of the world. Hands that bore no weapons gleamed with scouring light, and boots were set far apart to withstand the coming storm. He stared ahead and beyond her redoubt, offering no challenge, only a promise. A second figure of liquid gold and burning within overlaid him, a silhouette and visage just slightly offset from his own.
+
+Both of them ceased to hold back their building domains, and just as her song echoed through the air, so, too, did their presence resound in the world.
+
+The response began with the loud crack, and then another and another, dozens and dozens echoing off in the distance like the sound of boat oars striking the water again and again. It echoed in the forest and the mountains beyond, the closest ones fading as those further back took up the sound, making a rolling wave of sound that slowly traveled into the distance.
+
+As it faded away beyond their hearing, Ling Qi finished her song, and with an exhalation of breath, she shrunk back into herself, becoming once more merely a tall girl in a luxurious gown, and so, too, did Gan Guangli become just a young man again.
+
+“I can’t say exactly what those signals meant, but I think we made our impression,” she said, stepping down from the stump. Despite the lingering frost on the grass, the pale green sapling remained untouched.
+
+“If you say so, Miss Ling. I can perceive only a great stirring of motion.”
+
+Ling Qi turned her mind toward the perceptions of the silver wisp released during her song and the reverberations moving through the liminal. Her song had gone up the river, and now, the response spilled back down, not with the violence of a spring flood, but the steadiness of summer swelling. Whatever ruled here was aware and watching, but it was not hostile. Curious? No, waiting. It seems they were expected.
+
+“Come. Let’s not make the greeting committee travel too far now."

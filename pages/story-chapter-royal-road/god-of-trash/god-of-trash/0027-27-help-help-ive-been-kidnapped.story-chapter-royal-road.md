@@ -1,0 +1,179 @@
+---
+id: 6fe1b75b-7cc1-5434-bcab-693248728e10
+page-type-slug: story-chapter-royal-road
+title: "27. Help, Help, I've Been Kidnapped!"
+slug: 0027-27-help-help-ive-been-kidnapped
+partOf: god-of-trash
+position: 27
+ownLength: 3047
+unit: words
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2142259/27-help-help-ive-been-kidnapped"
+royalRoadId: "2142259"
+---
+
+Pain was the first thing Rhys felt. He swayed slightly, a breeze shifting through his hair. Rather than open his eyes, he let himself hang there, his knees wrapped around the wood of a tree and weighed there with some kind of counterweight, reflecting on what had just happened. He’d been fighting some losers and totally dominating them, and then Ev had come around. Taller, more muscular, more powerful, but still only Tier 2, well below Cynog’s strength. She hadn’t tried to kill him, or seriously injure, the way Cynog had, but she had straight knocked him out with a punch. That was some serious power.
+
+Unlike Cynog, I don’t hold back. Was that it? It sure hadn’t felt like Cynog was holding back. And to be fair, he had been in much worse a state afterward. If anything, he felt as if Cynog, the sadist, had deliberately left him awake to experience as much of the beating as possible, while Ev had simply landed the KO when she felt like it.
+
+On the other hand, Cynog definitely could have killed him, and had deliberately held back. On the other hand, Rhys had been using his most powerful enhancement techniques, neither of which he’d used against Cynog, and he’d still lost. He’d landed a good hit, and he’d put up a fight, both of which were remarkable achievements for someone a Tier below, but he’d lost.
+
+No, that’s not quite right. Cynog and Ev… from the beginning, their blows had completely different goals. Cynog hadn’t had to fight him. Rhys might as well have been punching a rock wall, for all the damage the man took from his blows. It wasn’t a fight at all, but a one-sided beating. He’d been free to torture Rhys, and had chosen to do so at his leisure. Ev, on the other hand, had been fighting him seriously. He’d forced a Tier 2 to fight him on even footing, as though he was a Tier 2. He wasn’t, and so he’d lost, but he shouldn’t denigrate his accomplishments. For trash, that was quite an achievement.
+
+“You can go ahead and open your eyes. You aren’t fooling anyone,” a distinctive tenor voice intoned, vaguely amused.
+
+Rhys opened his eyes. Ev lounged in a tree opposite him, one leg dangling, her head propped on a hand. He gasped in shock. “Ahhh! I’ve been kidnapped!”
+
+“Uh huh. Convincing,” she deadpanned. “Come on. Get your ass up, and let’s get started. Forget Cynog’s bullshit and let’s get to training.”
+
+Rhys swung in place, getting a feel for the counterweight on his legs. “I’m stuck.”
+
+“Sure you are. I didn’t tie your arms or take your blade,” she replied.
+
+“Then… why’d you hang me up?” Rhys asked, lost.
+
+She snorted. “Your sleeping face looked too smug. It was annoying me.”
+
+“Oh.” Rhys shrugged, not really understanding. He drew his blade from within his robes and activated Trash Intent. Reaching past his hips, he strained his feet down and slashed the rope that bound him to whatever she’d used as a counterweight. His body instantly fell head-first, but only a foot or so before he hooked his ankles on the branch and caught himself. Rhys dangled there another few seconds, reaching back to free the loop of rope from where it had been tied around his ankles, then swung himself around, flipped off the branch, and landed on his feet.
+
+He looked at Ev. “Why’d you kidnap me?”
+
+“I need a training partner. Cynog… well, it’s like hitting a big sadistic wall, if you get my drift.”
+
+Rhys grimaced. “What a way to describe it.”
+
+“Am I wrong?”
+
+“No, not at all.”
+
+“What I need, is someone about my strength, that I can fight without holding back. You seem to be about that size. And I trust I’m about that size to you, huh?” she asked, crossing her arms.
+
+“If I’m fully buffed, yeah,” Rhys replied.
+
+“Buffed?”
+
+“Er… if I’m using all my techniques,” he quickly recovered.
+
+Ev nodded. “That’s what techniques are for. Alright, it’s settled. From here on out, you’re my training dummy.”
+
+Rhys hesitated, then raised his brows. This actually wasn’t a bad deal. He needed to get stronger. In the absence of Bast, he needed a training partner, too. Plus, like this, he had something to do with all the mana he’d generate from the impurities-burning technique, as he progressed in absorbing stronger and stronger impurities so he could absorb the toxic slime pit. Sure, he could just sit still and strengthen his body, but he’d have a better idea of how to strengthen his body—where he needed to reinforce, and what he needed to empower—if he optimized his body based on real battle, as opposed to while just sitting still.
+
+“Understood. Then… can you give me a moment? One of my techniques requires a, uh, different kind of fuel than mana, and I need to recharge it,” Rhys explained.
+
+She thought for a second, then stepped back, giving him space. “You have a moment.”
+
+Not wasting his time, Rhys immediately drew the impurities he’d rescued from Sorden’s class out of his storage ring. He kicked the bushes and undergrowth aside, then laid the gunk on the ground and lit it. Impurities flowed into his body; not as much as a full load of trash, but more than a third of a usual week’s worth of trash. He grinned to himself. His instincts were right. If he gathered a lot of this gunk, he could quickly scale up his impurity-absorbing tolerance.
+
+Come to think of it, he usually had one or two potions’ worth of gunk in the trash when he burned it. Right from the start, the majority of the impurities had come from potion-gunk.
+
+The gunk burned out. Rhys breathed deeply, sucking down the last of the smoke. He stood back, wiping his face. “I don’t have as much as usual, but I can be your sparring companion for a short while, at least.”
+
+“Is that all you need? I thought I could sense at least three techniques active on you,” Ev commented.
+
+Rhys glanced at her. He didn’t intend to deliberately shatter his body again. Honestly, he probably didn’t need to. The way Ev fought, with no holds barred, he’d end up broken whether he wanted to or not. “Those… I’ll activate later.”
+
+“You holding back?” she asked, eyes narrowing.
+
+“Don’t be ridiculous. I don’t want to die.”
+
+“Then there’s some kind of condition on activating it,” she concluded.
+
+Rhys stared at her. He did give it away a little bit, but he hadn’t expected her to jump on it that quickly. She was sharper than he expected.
+
+She laughed. “What, did you think I was a brainless meathead? Don’t be stupid. Fighting’s all about mind games. One mistake or misunderstanding can overturn an entire battle. Like when you tried to land a dick-shot on me. If I’d had a dick, that might have worked, but I didn’t, and so I had the chance to absolutely hammer you.” She paused. “I mean, I could’ve done it anyways, but you get the point. If we were actually perfectly matched, that might’ve given me the advantage I needed to beat you.”
+
+Rhys nodded. He looked at Ev again, reappraising her. He had taken her for a meathead, she was right. After dealing with Cynog, he’d kind of written off all the school’s martial artists as meatheads. But Ev… she was clearly thinking ahead. He was playing checkers, and she was playing multi-dimensional chess. “Is that why you dress like a boy?”
+
+“Well, I’m also a lazy ass who doesn’t like showers and taking care of my hair and shit, but yeah. Tactical advantage,” she said firmly, nodding.
+
+Rhys snorted. “You can do that dressed as a girl, too.”
+
+“Eh. No one bothers me if I dress like this and do it. They harass me if I dress like a girl and act messy.”
+
+“Fair enough.”
+
+She raised her fists. “Enough talking. You’re all fueled up, so it’s time to fight.”
+
+“I don’t know how long I can stay in this state, so please don’t kill me,” Rhys requested. He still hadn’t tested the limits of his impurity-burning technique. Testing it within the relatively safe limits of a spar was better than discovering its limits in real life-or-death battle.
+
+“If you can’t last long enough to satisfy me, that’s on you,” Ev returned.
+
+Rhys raised his brows. What the—
+
+She flashed in. Rhys barely had time to jump back. She pressed the charge rather than fall back, aggressively chasing after him. He ignited his impurities as he landed and barely managed to block. Her fist slammed into his forearms. His arms trembled, almost giving out. Fierce pain rattled through his bones from the weight of her blow.
+
+Ev laughed. “Oh, caught that one, did you? Good, good. I knew I picked a good training dummy.”
+
+“Sparring partner,” Rhys corrected her.
+
+“Same difference.” She threw a punch at him, and Rhys dodged backward. The fist breezed by his face, fast enough to send his loose hairs into a flurry.
+
+Rhys’ eyes widened. If Ev landed a punch, he wasn’t sure he’d have time to enter Trash Body-Trash Intent form. He might just directly die, even with impurities burning. He gulped, then took a deep breath, settling his energy and focusing on the task before him. If he didn’t give this fight his all, he might not survive it. He lifted his fists to match Ev and stood on his toes, watching her every move.
+
+She grinned. “That’s more like it. Hold in there, partner. You might actually survive.”
+
+With that, the melee began. It wasn’t as one-sided as Cynog’s beating had been. Rhys could dodge most of Ev’s attacks, and the few that landed, he deflected with Blow Mitigation and his usual techniques, leaning away from the blows and turning with the force. He was on the defensive, no question about that, but every so often, Ev made a mistake. Underestimated him and overreached, misstepped, lowered her defenses a little too much. Every time she gave him an opening, Rhys punished her with his heaviest blows.
+
+They barely seemed to smart. She laughed aloud, eyes blazing with the thrill of the fight. The two of them battled for almost ten minutes before Rhys ran out of impurities. By then, though, he was able to use Trash Body, and so he fought on with the help of Trash Intent. He could tell Ev was holding back some to prevent killing him, now.
+
+Time ground on. Rhys desperately held her off. His mana guttered, running low. Sweat dripped down his ragged body, stinging in his wounds. She dashed in, hammering a fist at his forehead. Rhys doggedly raised his arms to take her blow.
+
+Trash Intent flickered, then went dark as his mana petered out. Rhys’ eyes widened. He jumped back, no longer able to take Ev’s hit.
+
+Her fist froze an inch before his forehead. The wind from the blow struck Rhys, but the hit itself went short. She looked at him.
+
+“Out of mana?”
+
+Rhys nodded. And impurities, but she didn’t need to know that part.
+
+“Hmm. That was fun, but it could have lasted longer.” She sighed, running a hand through her hair, then looked at him. “How long will it be before you can recharge?”
+
+“Uh… I need to check something, but I could be back as soon as this afternoon,” Rhys told her. If he was just recharging his mana and reloading on impurities, he could burn some trash and hop back into it, it would just be a matter of gathering the trash and burning it. For the impurities in particular, it would depend on whether Sorden had dropped off the cauldron gunk or not, but since she had class in the morning, it wouldn’t surprise him if she’d swung by while he was out fighting Ev.
+
+“This afternoon? Don’t go crazy pushing yourself just to fight me! I’ll be here. How about you come back tomorrow?” Ev suggested.
+
+“No, as long as I have the right conditions, I can come back this afternoon,” Rhys insisted. Right now, Ev was ideal training for him. Not only did it give him a chance to really spar, but she also forced him to use his buff moves for as long as possible and gave him something to do with the energy he obtained from burning impurities. She’d also push him to burn more impurities faster and rebuild his body properly. He didn’t want to do anything but train with her, at least until he was significantly closer to being able to absorb the toxic pit.
+
+She crossed her arms. “If you’re sure.”
+
+“I’m not sure, but give me a few minutes, and I’ll be sure,” Rhys assured her. He quickly sipped his potion to heal the most grievous of his wounds, and turned to run off.
+
+Rhys paused. He turned back, slowly.
+
+Ev raised a brow. “Yeah?”
+
+“Er… how do I get home?” He’d been kidnapped here while unconscious, and he didn’t recognize this part of the mountain. He legitimately didn’t know how to get back.
+
+Ev snorted. She pointed. “Dead ahead, ‘bout half an hour full speed. Can’t miss it.”
+
+Rhys frowned. If that was the case, he should’ve seen this place during his spars with Cynog. But then, who knew? It wasn’t as if he’d walked every inch of the mountain. Maybe this was a part Cynog didn’t like.
+
+He set off across the mountain, occasionally sipping the potion whenever the previous hit wore off. As he ran, stone walls closed in on either side, until he ran through a narrow crevasse. The land naturally sloped up, until it spat him out through a gap in two rocks barely wide enough to squeeze through.
+
+Rhys glanced back as he fled. If he hadn’t left through that gap, he would have never seen that gap, let alone imagined that a huge valley gaped beyond it. He mentally marked the entrance so he could come back to it, and ran on.
+
+Back to the main square. Rhys did the usual loop to pick up all the trash. Outside of Sorden’s class was a pile of particularly noxious waste, sitting in a beat-up old cauldron. Rhys poked at it with a stick, only for the stick to hiss and melt away. He raised his brows. “Damn.”
+
+For all that, it wasn’t nearly as toxic as the pit. It’d be good training, though, and he would only continue to amass more the longer he had this deal with Sorden. He grinned. Excellent.
+
+Taking the trash and the gunk, Rhys retreated to his usual stomping grounds. He piled the trash up to burn it, then looked at the gunk. It was pretty nasty stuff. Too potent for him to try absorbing it all just yet. He had to adapt. Work up to it.
+
+He gripped the pot by its handles and sloshed a bit of the thick, molasses-like goo on top of the trash. Even that much felt a bit too much, but he rolled up his sleeves and grabbed the matches. If he never pushed his limits, he’d never be able to absorb yet more toxic goo. This was but the stepping stone to the toxic pit.
+
+Black smoke welled up from the trash pit. Before he even stepped into it, Rhys could feel the weight of impurities sinking into him through his lungs and skin. He hissed in pain and shook himself out, working himself up. Come on. I can do this. I can do this!
+
+Rhys stepped into the black smoke and breathed deep.
+
+Mana flowed into him, but so too did impurities. His body instantly grew heavy. They clumped in his mana passages and slowed the flow of his mana. His organs ached, barely continuing to function. Rhys began to burn the impurities just to keep his body from shutting down, and still they poured in, an unending stream of them. He filled up his core, patched up his body, and energized his muscles and organs, and they still came.
+
+Luckily, he had a fresh set of compost and a few nice plots of land just waiting for mana. Rhys turned all the organic waste to compost and encouraged two plots of herbs to grow, and that managed to spill off just enough mana that he could absorb all the impurities as the last of the trash burned away. Since it was only one day’s trash, it didn’t burn long. If it hadn’t been for the splash of goo, it wouldn’t have done much for him at all. He still couldn’t kill the burning impurities before they burned off, so the second the fire burned out, he sprinted off, back to Ev.
+
+She stood just inside the valley, leaning casually against the wall. At the sight of him, she raised her brows. “I saw that black smoke coming… so it really was you.”
+
+Rhys hurtled at her and punched with all his might. She dodged to the side, and his fist hit the wall instead. His knuckles bruised, but now he was sturdy enough that nothing broke. Nothing except the wall. Bits of rock flew away, and a small dent appeared where his fist had landed.
+
+“Oh? You’re raring and ready to go. Damn. Well then! Come at me, kid.” Ev swept a kick at his legs from behind even as she spoke. Rhys hit the ground hard and immediately rolled away from the wall, toward Ev. She’d closed in to leap on him, but now he slammed into her ankles and forced her to hop instead. Rhys used the bare seconds he’d bought himself to climb back to his feet and immediately charge at her back.
+
+She spun around, grinning wide, and swung to meet him. The two of them clashed once more. Blows echoed through the valley. The trees shook, and dust flew. Neither one held back as they both gave it their all.
+
+Rhys grinned. He wiped the blood from his face and charged at Ev again. Until he could absorb infinite impurities, until he was stronger than Ev, he would fight! Anything for his precious trash. Anything!

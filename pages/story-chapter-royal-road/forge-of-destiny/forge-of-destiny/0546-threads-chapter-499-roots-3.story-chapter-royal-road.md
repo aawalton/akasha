@@ -1,0 +1,159 @@
+---
+id: 7e959a75-724b-5066-a347-860c9c545cb5
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 499-Roots 3"
+slug: 0546-threads-chapter-499-roots-3
+partOf: forge-of-destiny
+position: 546
+ownLength: 2522
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3017123/threads-chapter-499-roots-3"
+royalRoadId: "3017123"
+---
+
+This was where Want brushed against Isolation, Ling Qi thought. She squeezed down on Sixiang’s hand, running her thumb in a circle along the back of the muse's hand. It felt real and insubstantial at the same time; it was too light, for all that it was warm.
+
+“More or less, ya think?” Their voice imprinted on her thoughts, not bothering with spoken words.
+
+Both. Too much or too little were both equally poisonous.
+
+She reached for a phantom with her spirit and held it captive. She couldn't help but think of the times when she had seen a spider, mundane or Suyin's, winding up its meals in silk as she felt it struggle to break free from her grip.
+
+Was this really right? Scraps and fragments they might be, but they still felt alive, especially at the higher spiritual frequencies.
+
+And yet, she had to develop her technique, which required practice. Better a fragment of a spirit than something more substantial.
+
+"The first vulnerability in this desire is its lack," Ling Qi analyzed. "If you steal a person's hunger or remove a person's fear, they may be discomfited, but would they even notice in the heat of battle?"
+
+Shu Yue gave no response, merely letting her verbalize her thoughts.
+
+"Steal a person's desire for love, acclaim, community, and would they even remember why they should be fighting?" Ling Qi continued.
+
+“I can think of a few reasons,” Sixiang responded, “but reasons for fights are usually still tied to those.”
+
+Anger and hatred were both strong motivators, as was the first fear, the simple drive for survival… If she could take that from them, there would be no fight to begin with.
+
+And even if it can't be stolen whole, if she could steal away the desire for support between comrades or corrode the desire to bring pride to their clan or nation, how much of an army formation collapses as the first form of desire reasserts itself?
+
+Ling Qi turned over the phantom in her grasp, examining the currents and veins of Want that ran through it, binding it together. She heard the distant weeping of a woman, driven to the point of breaking her body with labor to provide just one more day of shelter for her children.
+
+Just one diverted trail, one pluck of virulent darkness, and despair overcame determination. The memory embodied in the phantom ended long before she sold herself into indenture. The phantom crumbled. She felt the cold churning in her gut worsen.
+
+"It is the most straightforward path, but not easily accomplished. To steal and sever against a peer or any cultivator who has even the foundations of a Name will be a difficult task, until and unless you are already well under their defense," Shu Yue said. "The second method, then."
+
+She could see that. The mind resisted excising desires far more. Dampening was easier, but it was more noticeable.
+
+“Amplification, then” Sixiang suggested, “as you did with the hunger.”
+
+Another phantom fell into her grasp. It writhed around, nearly breaking free. This was the shards of the leader of a small cell of criminals that had stolen from the Hui-run food warehouses and granaries, storing Xiangmen's bounty for export.
+
+The spirit lingered here from its last memories: interrogation. It was not a kind interrogation, for all that only mundane methods had been used, this far in the rootways, for such a minor crime.
+
+She understood well that the keepers of the law were rarely the friends of those who lived at the bottom. He'd broken at the end and sold out his fellows. He'd been released for his troubles and died months later from infections due to the damage taken in interrogation.
+
+This was a spirit of torment, reliving those last days again and again in aching clarity.
+
+Darkness flowed, pulsed, and fortified, black veins running through the spiritual matter realigning. Magnify desire. Magnify want to community and comrade.
+
+The memory changed. He died spitting in the interrogator's face, satisfaction in his heart. The spirit crumbled.
+
+It didn't churn her stomach as severely as the last one, but it was still bittersweet. She couldn't help but feel…
+
+"Inspiring a suicidal stand is useful if the target is your mission goal, but less so otherwise," Shu Yue lectured. "It was not the best practice piece to choose."
+
+“I don't think there's anything wrong with not liking this. I'd dislike it a lot more if you were fine with it.”
+
+Ling Qi let out a low, even breath, recentering herself in the web of churning, lingering phantoms.
+
+"Transforming love into possessive paranoia or manipulating a web of bonds to create envy between its anchor points and disrupt cohesion, and inflating or deflating the importance of different communal loyalties to cause friction within larger circles are all possible within the sphere of this kind of desire," Shu Yue explained.
+
+"There are many ways to manipulate the connections within a group to weaken and disrupt, but this is most useful before an actual fight starts," Ling Qi asserted.
+
+She could see, painfully, how effective arts like these might be. So much of her own Way and Domain was tied to benefits for those she loved and harm for those she hated.
+
+The easiest one to affect with this art would be herself. She knew her own defenses best of all. It wasn't even truly that far from traditional cultivation, more direct, if anything. And once she had come to the notion of cultivating people this way, was it truly unthinkable to use it on herself, her family, or her friends? Would she ever be tempted to snip something if she felt it was causing Biyu trouble in her cultivation, holding her back from ascending in the Way?
+
+She wouldn't. She absolutely would not, but she could see how someone who had not bound the axiom of Choice into their soul would.
+
+"You grasp the thrust of these arts well. These soften and sabotage, rather than striking decisive blows," Shu Yue agreed.
+
+“A sidearm, or well, a knife you stick in when you're already in their head.”
+
+She made a face. Thank you so much for that image, Sixiang.
+
+Even if it was accurate.
+
+"What you're teaching me wasn't meant as a weapon at all, any more than a rake or a set of shears is," Ling Qi realized. "That's the trick in this lesson."
+
+"I would not call it a trick,” Shu Yue rebutted. “A machete is made to chop brush and bamboo, and a saber is meant to chop men. There was a point where the tool developed into a weapon. I am guiding you to do so. I also understand the discomfort in this realization. I thought it better that you come upon it yourself."
+
+Shu Yue continued, "There is another layer of Desire, perhaps the one most would think of first when mediating upon Want. That, the texts speak on forfeiting first before they begin to carefully approach discarding or reducing the two you have brought up first."
+
+"Possession. The desire for things. For wealth, for fulfillment, for comfort," Ling Qi said. "It's not only tied to tangible objects. It can also be the desire for authority, control, and security."
+
+“It's hard to tell apart from the last category in that way, but you gotta make a distinction. There's things that people understand as coming from other people, and things that people understand as being theirs."
+
+Entitlement. Shu Yue's discussion with her on Yan Renshu's mindset drifted to the fore. Everything he had was deserved; what others had was illegitimate, by whatever excuse.
+
+"I'm not sure how to weaponize this. This kind of desire is more complex and finicky. It's what drives a person when one's basic needs are fulfilled. It is still not an evil desire to me, although I can see how the excess can cause so much harm.”
+
+Individual forms were now more apparent. She saw the shades of ministry workers and supplicants, guard officers, magistrates, and notaries.
+
+What was wrong with insisting that their fingers be greased a little to make the gears of the ministry turn a little quicker? What was a “forgotten” petition if it allowed them to go home to their spouse an hour sooner? What was a case decided against all evidence, when doing otherwise would ruin their chance for promotion? What were a few dead beggars when it meant the streets under their authority could be declared free of vagrants? What was a condemnation of a man for fraud when it meant their friend could gain a new business? What were a few alterations to records to show that the homes in the way of the new construction on the roots outside were fraudulently owned? What was the suffering of a few hundred mortals to better refine an art that would change countless lives? What were the nightmares of a city compared to the ascension of a god? What was? What was. What was…
+
+Ling Qi spat a gobbet of blood from her mouth and shuddered, pressing her palms to her currently sightless eyes. She closed her mind like a woman violently slamming the shutters against a storm outside. The desires before her were simple and straightforward, bits of memories and self-narrative. Each of these numerous phantoms scoured the inside of her skull with a lifetime of context.
+
+"These phantoms are, by necessity, more complex," Shu Yue said. Ling Qi thought she heard an odd twinge to their voice. She could have imagined it, something brought on as she purged the foreign whispers from her mind.
+
+"This is part of what the Duchess strips away, isn't it?" Ling Qi croaked out. "It burns away the comforting lies and the distance from indirect consequences, webs we weave ourselves that tell us that fulfilling our greed hurts no one who matters and makes all sins clear and stark. This is the layer where her light burns most stark."
+
+"Not the point of the lesson, but correct. That is why her final question was 'What do you most regret?'. What was felt after someone confronts the full weight of all they had done in its fullness, with all rationalization stripped away, was the most telling test of character."
+
+She remembered what the woman who ran the Gold Autumn School had said when she had described the Duchess' purge of the Ministries. The answer from the head of her ministry office many years ago had been, “Angering you, Your Grace.” He'd been executed by Cai Shenhua immediately after, annihilated in radiance.
+
+"Now, ending the aside, the question is, how do you make this a battlefield weapon?"
+
+Ling Qi let her vision return. Her eyes flicked up. Sixiang knelt in front of her, looking at her with concern.
+
+"I would wield it to put them on the defense, to be miserly with their power and resources, loathe to expend anything that is theirs," Ling Qi replied after a long moment of thought.
+
+Her first idea seemed obvious to her: to drive their desire for victory to greater heights. Desire compounded easily, and greed quickly became bottomless. She remembered, though, the rampage of a higher cultivator pushed them to the point of risking their survival to risk everything to fulfill their dream. The terrible, oppressive might of Still Waters Deeping loomed large in her mind, even through the General's fire.
+
+"My Way benefits from time to build, and I usually choose to not necessarily give it as much threat in its earlier stages. It's not even a matter of putting them on the defense. By inflating their sense of possessiveness, I might make them second guess expending resources even to defensive ends. In other words, I would inspire passivity through greed."
+
+"Not the destructive end, one might think. Then again, we are discussing the methods usable on a peer in the heat of battle. I ask this question, though. Do you choose this because your soul cringes from a worse twisting?"
+
+"Hey, now!" Sixiang complained, their voice snapping back into physicality.
+
+"It's a fair question, Sixiang," Ling Qi said.
+
+She looked at the shadows dancing through the motions of life around her intently. They moved around and through each other, dancing in more dimensions than physical eyes could easily parse. They all felt so solid, though, so complete.
+
+"It is. I've glimpsed something of the Hui clans’ cultivation. It makes me feel ill. Shu Yue, what is this place? You implied that it wasn't a ministry building any longer."
+
+Shu Yue crouched spiderlike a little ways from her, surrounded by the withered, dead remains of nightmare hands that had been reaching toward Ling Qi. "I did. This place remains an office, one related to commerce. It is where the distribution of Xiangmen's bounty is coordinated between the district’s kitchens."
+
+Ling Qi inhaled deeply, pulling in with the air the taste of the spirits and the dream. "Not every shade here is of the past."
+
+Shu Yue did not respond.
+
+Sixiang gave her a curious look before swiftly turning their head to look around them, squinting their eyes as if to sharpen their vision. "What are you talking about, Qi? I don't see any living dreamers here."
+
+"Teacher is disrupting our vision. Maybe she’s disrupting yours more strongly than mine since this is my lesson," Ling Qi replied. "You intended to select the next test phantom."
+
+"The next phase of the lesson is to test your skill against three phantoms of differing dispositions, selected by myself for difficulty, yes." Shu Yue spoke without answering the question.
+
+Ling Qi met their empty black eyes unwaveringly. "Would it have been the second or the third that was an actual person? A sleeping mortal whose dreams are dancing here is ill at ease."
+
+Shu Yue's long, long fingers twitched, drumming on the tiled floor, the sound like raspy leaves rustling. "The first. It would be too easy to tell the difference between the more complex phantoms and a living mortal’s dream otherwise."
+
+"You asshole!" Sixiang snarled. The expletive hung in the air on rippling wine-scented qi.
+
+"You would have let me twist, possibly break an innocent person, just to test a technique?" Ling Qi asked, feeling sick. "You—!"
+
+Sixiang shouted something at Shu Yue, but she didn't quite hear it, sinking into her own thoughts. She remembered the first day she had gone into the sect town as a third realm. She remembered how insubstantial the mortals had seemed even then, gray and predictable, almost painfully slow and transparent in their intent.
+
+It wasn't until she met her mother again that she was forced to confront the spark of realness, the personhood that was undeniable in mortals, if she just bothered to really look. Gods and spirits, how easy would it be for many, if not most, cultivators to fail to notice the distinction? How easy would it be to decide the distinction wasn't really there? To rationalize that her mother and her sister were just a categorically different matter than some random mortal.
+
+"... You wanted me to see the difference and refuse you."

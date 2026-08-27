@@ -1,0 +1,113 @@
+---
+id: ce6aec9c-8e5a-5cb8-b0e3-eea6f306b97a
+page-type-slug: story-chapter-royal-road
+title: "31. See It To The End"
+slug: 0031-31-see-it-to-the-end
+partOf: god-of-trash
+position: 31
+ownLength: 2282
+unit: words
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2150772/31-see-it-to-the-end"
+royalRoadId: "2150772"
+---
+
+Rhys slipped into the back of the class. It had been a while since he’d sat in on it, but it remained the same as ever. The man ranted away about mustelids to an empty room, with no visible acknowledgement of Rhys’ arrival. Rhys settled in to his seat and evened his breathing, letting his mind wander. Thoughts flowed in and out as he sat there, listening idly to the lecture. Today, the man was covering the details of the mustelid sleeping patterns, comparing that of ferrets and weasels.
+
+Time passed. Days flowed by, marked only by the passage of sunlight across the floor. The man ranted on, and Rhys sat there, listening. Quietly, he smoothed the flow of his mana, peeling out the last scraps of impurities and storing them in his core with the rest. The same sense of potential flowed from these, telling him they were the second-level super impurities, rather than the base impurities he was currently able to process.
+
+When he was done with that, there was nothing to do but listen. And so Rhys cleared his mind, and focused all his energy on the lecture. The man ranted on foraging and hunting habits, now, clarifying the differences between martens and stoats.
+
+Foraging. Hunting. Rhys submerged himself in his subconscious. A vision of an enormous trash pile appeared before him. It stretched to infinity, so far that he couldn’t see its end.
+
+No. He turned slowly, taking it in. It wasn’t an infinite trash pile. This was his hometown trash pit, it was just that he was small. Not just small, but tiny. He sniffed, and a blast of aromas met a more sensitive nose than Rhys had ever possessed in real life. It didn’t smell bad, though. It smelled delicious. His dinner was right around the corner. He scurried over the trash.
+
+Scurried? a tiny part of Rhys wondered, but the rest of him pushed it down. This was him. This was his life. He lived in this mountain of trash, and loved every scrap of it.
+
+A chitter caught his ear. He perked up. A friend approached, nose wiggling, black button eyes wide, fur sleek and healthy. The two of them greeted one another with a few sniffs, and then the friend scurried off. Rhys followed. The friend led him to a fresh patch of garbage, one that smelled delicious. Fresh food, still steaming hot, thick with sweet and salty scents. Rhys touched noses to thank the friend before he set upon the pile of tossed food, gobbling it down.
+
+The friend joined him, and another friend, and another friend joined them. Soon dozens of friends all chowed on the delicious food together. When he was full, Rhys scurried off, back to his den. He snuggled up there and slept, curled up in a cozy den of trash.
+
+His days came and went. He darted from shadow to shadow in the sun, and ran freely in the darkness of night. Sometimes he found food, and sometimes it was the others who found food first. They shared and gloried in the scraps, reveled in the garbage. He dragged soft scraps back to his den, along with fascinating tiny objects. As the years passed, he found a mate, and they made more friends, all in the cozy confines of his den. Life was simple, but it was good.
+
+Until that night.
+
+A sharp, acrid scent. His heart trembled instinctively. He chittered, warning anyone else not to come close, then went silent. Ears swept back. Eyes wide, watching.
+
+From out of the dark stepped a shadow. It loomed tall, as ominous as it was large. Spotlight eyes beamed from above a vicious maw, so full of hunger and vicious hatred that he froze where he stood. The beast stepped forward. One step. Two.
+
+A little cry. One of his friends, a coward, burst out of the trash and ran. His heart pounded. He kneaded the earth with his claws. No!
+
+The beast’s eyes flashed. It pounced. His friend let out a terrible squeal, and the scent of blood filled the air.
+
+He turned and ran, making use of his friend’s sacrifice to flee. All the way back to his den, where he burrowed in the deepest depths and cowered. That thing could not be overcome. It was far too powerful.
+
+From that day on, his happy life turned to one of terror. The beast haunted their every step, terrorized their every thought. It lurked around corners and crouched atop cliffs, pouncing from all angles, attacking every chance it got. He fled, and fled, and fled, hiding in nooks and crannies, fleeing into dark corners and narrow squeezes where the beast couldn’t fit. He resigned himself to his new life. What else could he do? The beast was too powerful. Even if he fought back, his claws couldn’t even cut through its thick fur, nor could his teeth find blood. Better to flee and protect his little life.
+
+The sun was high. The shadows, sharp. He dodged from empty vase to pile of wood, dashing across the open spaces. Once-familiar spaces smelled strange, full of the beast’s horrid stench. If not for the scent of food, he would have never left his den. But he was starving. His mouth watered.
+
+A pile of scraps laid ahead, glistening in the sun. Friends surrounded it, already devouring the tasty food. He glanced around, searching the sky for any sign of the beast, then darted forward, closing in on today’s meal.
+
+A flash of orange and white. The beast hurtled down from the heavens. All the friends fled, and he turned to flee as well, only for a sharp row of teeth to clamp down on the back of his neck. He flew into the air, hurtling over the garbage heap. The beast chased after him, golden eyes glowing.
+
+Landing with a thump, he turned and ran. The beast gave chase, amused more than worried. Every time he dashed for a hidey-hole, those teeth caught the back of his neck and threw him once more. He was naught but a plaything for the beast, a tiny ball of fur and bones to toss as it pleased.
+
+Once more, it threw him. He landed amongst the trash again, but this time, he had nowhere to run. His back was up against a wall. His heart thumped in his chest. Adrenaline pounded through his tiny body. As the beast crept up on him, head low, each paw placed silently, a strange resolve came over him.
+
+He was going to die, but he’d take as much of the beast with him as he did. Maybe his mate and pups would live if he did.
+
+The beast lunged, and so did he. Hopping with all the strength in his body, he bit the beast’s nose. Startled, it jerked its head back. He landed, then jumped again, clawing, biting, and hissing like a thing possessed. The beast batted him with its paw, and he whipped around and bit the paw. It yowled. A heavy punch sent him flying. He struck the wall with a thunk, but the second he landed on his paws again, he leaped at the beast again.
+
+The beast hissed back. It lunged. White fangs flashed as it snapped at him. He didn’t retreat, but threw himself at it. Pain lashed over his body as the beast bit down, but he refused to stop. Latching onto its fur, he clawed at its face, scratching his way upward, stretching with every inch of his length. His claws found the beast’s eye, and he pierced it open.
+
+The beast shrieked in pain. It bit down again, once more, powerfully, and his body finally gave out. He went limp. As his vision went dark, he watched the beast back away, its eye leaking down its face. He’d done it. He’d blinded it. Even if he had to trade his life, he’d bought a chance at survival for those he’d left behind.
+
+Rhys didn’t awaken immediately. The dream had ended, but he remained lost in enlightenment. The images from the dream looped over and over, replaying in his head. His quiet life. His desperate last stand. A rat. A being that lived in garbage and was treated as trash, a pest to be killed by pet cats and anything else that cared to kill it. Worthless. And yet, he’d lived a full life. He’d had a mate, and children, and a soft little den. His life had worth. No one else might agree, but it had value to him.
+
+The last moments of his rat life flashed before his eyes. The desperate struggle. Backed up against the wall, nowhere to go, he’d chosen to fight. Fight an overwhelmingly powerful foe, one he knew he’d lose against, but fight with his all nonetheless. That fight replayed over and over, and two things took form in his head. The desperation with which he’d fought, putting his all into it, everything he had—fighting without holding anything back, because he was dead one way or another, and it was better to take his foe down with him than die without accomplishing anything. Fighting with neither honor nor humanity, but instead, mindless savagery.
+
+Even A Cornered Rat Fights Back.
+
+The second was the image of the rat. His life as a rat, burned into his mind. Not only that, but the protectiveness he’d felt, attacking so that his friends might last a little longer.
+
+Rhys opened his eyes. He lifted his hand. His mana surged, flowing out in that image that still lingered in his mind’s eye. A rat materialized, formed from silvery mana. It leaped out from his hand and circled around his ankles, rearing up to hiss ferociously at his enemies. It circled defensively around him a few more times, then faded.
+
+Enlightenment 1 > 2
+
+Gained Enlightenment: Cornered Rat
+
+Rhys chuckled, looking at his hand. He’d gained his first spell! A defensive spell, but a spell was a spell. How interesting, too, that he’d gained two opposing skills, both from the same enlightenment. One, the offensive aspect of a cornered rat, and the second, the defensive aspect. Fighting ruthlessly himself, or summoning a cornered rat to protect him. This Enlightenment thing might be the key to growing as a mage.
+
+The sound of applause broke him out of his thoughts. Rhys looked up, startled. At the front of the classroom, the mage in tattered clothes clapped. Tears streamed down his cheeks.
+
+Taken aback, Rhys stood. “Sorry… did I do something wrong?”
+
+“Not at all! Not at all. I’ve been waiting for this day for so long. The day someone finally gained enlightenment from my speech. I knew I was right. All this time, I knew this was the right track. And now, my young friend, you’ve proven me right!” Crossing to Rhys’ side, the old man patted him heartily on the back.
+
+Rhys smiled, a little lost. Huh? “I might not have gained the right enlightenment, though.”
+
+“Ah, well, it’s fine. To the uninitiated, rattus and mustelid creatures can seem similar. Besides…” The old man looked him up and down. “Am I wrong in sensing a hint of a path in your actions?”
+
+“No, not at all,” Rhys replied.
+
+The old man grinned. “I knew it. Then in that case, I’m honored to have provided enlightenment to one such as yourself. To know your path at such a young age is a gift few share.”
+
+Rhys smiled and rubbed the back of his neck. I wonder if he’d say that if he knew what my path was…
+
+“You’ve granted my long-held wish. Is there anything I can do for you?” the old man asked.
+
+Rhys cleared his throat. “Well, actually… would you mind putting me forward for access to the upper peak? There’s something related to my path up there that I can already sense would allow me to improve greatly, but I’m not allowed to access the upper peak yet.”
+
+The old man nodded. “Absolutely, my friend. Someone as talented to yourself should be an easy pick! Why, if they don’t want someone as skilled as yourself in the upper peak, then I don’t know where the school’s gone wrong!”
+
+Rhys smiled, but he didn’t share the man’s optimism. Compared to Sorden, this man certainly seemed to have a much more tenuous grasp on reality. Besides, how long had he locked himself away in this classroom, lecturing no one? If everything worked out, and all it took was this man’s recommendation, then he wouldn’t complain. But he’d be startled if it did work out that easily.
+
+Nonetheless, he nodded. It was all part of his plan, after all. If one teacher’s recommendation wasn’t enough, what about two? If two wasn’t enough, what about all of them? He wouldn’t stop until he had access to the upper peak’s rich, rich trash piles. “Thank you. I would be very grateful if you did.”
+
+“Of course! It’s a simple enough task. Ah, how wonderful, how wonderful. Hmm, I wonder what I should lecture about next?” The man walked away, mumbling under his breath to himself, Rhys forgotten.
+
+Rhys watched him go, even less confident than before. Will he even remember to recommend me?
+
+He shook his head. It didn’t matter. Two teachers probably wasn’t enough. Once he had more, he’d come back and remind this old man. Until then, it wasn’t too problematic, even if he was forgotten.
+
+Rhys walked away, heading back out into the sunshine for the first time in weeks. A new spell and a new fighting technique… it was time to go test his new skills on Ev!

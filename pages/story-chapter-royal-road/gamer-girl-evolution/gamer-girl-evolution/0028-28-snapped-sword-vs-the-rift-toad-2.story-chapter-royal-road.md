@@ -1,0 +1,111 @@
+---
+id: 15eba2fb-3253-5510-a91e-d5125d1756c3
+page-type-slug: story-chapter-royal-road
+title: "28 - Snapped Sword vs The Rift Toad (2) "
+slug: 0028-28-snapped-sword-vs-the-rift-toad-2
+partOf: gamer-girl-evolution
+position: 28
+ownLength: 1324
+unit: words
+ownProgress: 1324
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2780846/28-snapped-sword-vs-the-rift-toad-2"
+royalRoadId: "2780846"
+markedReadAt: "2026-06-29T20:06:28.737Z"
+---
+
+As the Toad attacked again, she parried the tongue at the last possible moment, her blade scraping against the slick surface of the Toad's tongue. She immediately countered, driving her sword deep into the Toad’s belly as it recoiled.
+
+The Toad let out a guttural croak of pain, but before she could take advantage of the opening, it jumped backwards and launched itself into the air. The shockwave from its landing rippled through the ground, pushing her back a few steps.
+
+She chased after it, hoping to press her advantage but, just then, the Toad began emanating a thick cloud of hot steam from its body. Her vision blurred as the steam rose like a blanket around her.
+
+She moved instantly as she broke into a sprint, moving out of the steam's reach, her eyes watering as she felt the intense heat on her skin. The Toad was attempting to use an AoE (area of effect) attack to its advantage, trying to damage her by attacking a wide area. But she wasn't going to give it the satisfaction of landing a hit on her.
+
+She stayed on the move, darting between the swirls of steam to keep herself in a position where she could strike at any time. The Toad was relentless, though. With a sudden roar, it lashed out again with its tongue. This time, she couldn't dodge it.
+
+She Parried the attack, just as it was about to slam into her. Seeing this, it slammed its massive feet into the ground, sending another shockwave rippling outward. The entire battlefield trembled around her, as the Toad followed up with another tongue strike.
+
+She vectored the side, avoiding the devastating attack easily. Despite the constant pressure, she fought back with her usual precision. Her Thrust skill found its mark, and the Toad let out a sharp hiss as the blade sank into its side. With a powerful Slash, she carved through the creature’s thick hide, blood splattering across the damp marshlands.
+
+The Toad was reeling, its attacks becoming more desperate as it seemed to realize its strength was waning. It continued to bounce, more sluggishly now, the steam clouds lessening.
+
+She saw the opening she’d been waiting for. With one final burst of speed, she darted toward the Toad, her blade aimed directly at its vulnerable underbelly.
+
+But just as she moved in for the kill, the Toad let out one last scream of rage. Its eyes glowed fiercely, and with a final, ear-splitting roar, the Toad took another leap into the air, its massive body crashing down with a force that shook the ground beneath it.
+
+She jumped back pre-emptively to avoid the blast. The Toad’s movements were slowing now, its huge form beginning to falter. Its health had dropped to 25%, and its aggression was fading.
+
+[Weakened Rift Toad (Mutant) - Lv. 36]
+
+The Rift Toad’s once-menacing roars had dwindled into low growls, its massive frame swaying erratically as it attempted to maintain any semblance of dominance. The enraged Toad, in all its former fury, was now nothing more than a shadow of its former self. Its body was battered, and its once-terrifying attacks were now sluggish and clumsy.
+
+[Rift Toad’s HP: 25%]
+
+She watched as it tried to charge her, but it moved slowly, its body dragging behind it like it was wading through thick mud. This was the inevitable consequence of a boss becoming enraged. Dealing more damage came with a cost, and that cost was that eventually they would enter a weakened state, wherein they moved sluggishly and dealt significantly less damage than normal.
+
+The tongue attack that had previously been so deadly now seemed like a lazy swipe. She easily walked away from it, not even needing to parry.
+
+The Toad’s steam attack—once a terrifying cloud that forced her to retreat in haste—now barely produced enough heat to singe the edges of the swamp’s flora, its damage non-existent.
+
+As for the water magic? The spells took longer to cast and came out slower. They'd drift through the air lazily, easily avoidable with a simple sidestep or roll. The Toad no longer had the precision or speed to effectively land its shots.
+
+Celica's mood darkened slightly. She'd been craving more of a challenge, but now the boss felt like little more than a training dummy. In reality, what more could she expect from the early floors? She was just too mechanically gifted to be challenged this early on.
+
+The Toad let out another growl, its massive bulk swaying as it tried once again to smash into her. But its movement was painfully slow, and she simply sidestepped it with ease. Her sword weaved effortlessly, landing solid blows as the Toad struggled to react.
+
+Each hit seemed to knock more life out of the Toad, the once ferocious creature’s resistance slipping with every strike. The Toad tried to bounce again, but it misjudged its landing. Instead, it crashed heavily to the ground, with an almost comical lack of grace.
+
+Celica didn't waste even a single frame. She closed the distance, planting her blade in the creature’s side with a force that sent ripples through the air. The Toad let out one last desperate croak, but alas, it was too late.
+
+With a final flurry of quick, decisive strikes, she cleaved through the creature's remaining HP. Each swing of her blade felt merciless, with the Toad's defences now little more than a paper-thin barrier when compared to her might.
+
+As the Toad's HP hit zero, the creature’s body convulsed and spasmed.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[You have defeated the Rift Toad.]
+
+[You have completed the quest: Defender of the Mist.]
+
+[Since the difficulty and level range required for this quest has increased drastically, the promised rewards have greatly increased in response too.]
+
+[You have received the following rewards:
+
+She eyed the rewards, carefully analysing each one, but her attention immediately shifted to the Super Rare skill as soon as she noticed it.
+
+***
+
+Water Blade (Super Rare):
+
+This skill cannot be levelled under normal circumstances.
+
+***
+
+Celica smiled softly. "Not a bad reward to get this early!" It was a skill that was usually only obtainable in the third realm, so to get it this early was perfect. The Elemental Blade series were 5 Super Rare skills, each unique to a realm.
+
+For example, in Earthonia (specifically the 5th floor) the Earth Blade skill could be unlocked, by completing a special hidden quest. There existed a total of five Primary Elemental Blade skills, each one respective to the first five realms.
+
+Putting aside the skill's passive and natural stats, the active skill could also be animation cancelled so by unlocking this skill early, her overall potential DPS had increased substantially.
+
+Just as she was admiring her accomplishments and relishing in the distant chants of the NPC soldiers praising her, a sudden disturbance under her feet caused her to freeze.
+
+The ground beneath her trembled violently, as if reacting to the Toad’s death. She looked down just to see the Rift Toad’s remains beginning to merge into... the floor?
+
+A rift had formed underneath it.
+
+And this new one was much, much larger than the one that she'd seen in the distance earlier. Suddenly, it expanded at a rapid pace until it had covered the floor beneath her too. A suffocating and oppressive feeling overwhelmed her, gravity drawing her in closer.
+
+[You have been cursed by the Rift Toad.]
+
+"Oh crap, it's this type of boss!" Celica shouted, realising she'd messed up. But it was too late. "Damn it! Bosses with this mechanic shouldn't exist in this realm!"
+
+The space around her warped and twisted as the baffled soldiers looked on as both Celica and the Toad’s body began to dissolve into the rift, as though drawn by an invisible force.
+
+And then, with a violent snap, the rift swallowed both of them whole.
+
+[You have entered: The Ancient Waterway.]

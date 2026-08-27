@@ -1,0 +1,129 @@
+---
+id: 8e94b457-d62f-5104-9a40-b480d0ff8136
+page-type-slug: story-chapter-royal-road
+title: "116. New Recruits"
+slug: 0116-116-new-recruits
+partOf: god-of-trash
+position: 116
+ownLength: 2111
+unit: words
+publishedAt: 2025-06-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2398345/116-new-recruits"
+royalRoadId: "2398345"
+---
+
+The sewers spilled out into a river not far from the garbage heap. A few filthy fish splashed around nearby, eating the filth, and algae and bacteria bred in the bank nearby, soaking up those excessive nutrients. Abruptly, a rush of pure water came racing out of the sewer, washing away the bacteria and splashing the algae and fish with clean, fresh water. The fish jolted, reminded, for a moment, of what had once been, when the river ran clean and their world wasn’t a grimy dark puddle, and then a half-dozen shoes plopped down into the mud, and they fled once more, escaping the big, frightening shadows.
+
+Rhys gestured. “It’s right up the hill there.”
+
+Lira leaned, peering ahead. “Just past the garbage heap?”
+
+“After a manner of speaking, sure,” Rhys allowed. It was inside the garbage heap, but that was a form of ‘just past,’ if you looked at it a certain way and squinted a little.
+
+Lira gave him a distrusting look, but spun the bracelet on her hand, drawing her umbrella, and stepped out of the river.
+
+It was a short walk to the garbage heap, and a quick crawl inside. Rhys went first, only to find a half-dozen mages ringing the entrance, hands out. He lifted his. “Uh… it’s me?”
+
+“Who’s with you?” Korii challenged.
+
+“Oh—oh. Some new recruits. Friends. You can trust them. Mouse, come on,” he added, as the mousy girl shrank back in the tunnels. He turned back to the mages. “One of them is a master of avoiding notice. She can help you guys learn how to hide yourselves.”
+
+“So she hid from the Empire, all this time?” Korii asked doubtfully.
+
+“Yes. I’ll vouch for her. Mouse, come on.” Rhys reached back and dragged her out. She hung limply in his grip until he stood her upright, and then she stood there, frozen, completely out of place as all the rescued mages drilled into her with their eyes. “She helped me hide from the Empire a few times already. She’s good.”
+
+Korii gazed at Mouse with suspicion, but nodded. “If you’ll vouch for her, then I’ll let it pass. And the other?”
+
+“The other spent the last three years at the bottom of a sewer, thanks to the Empress’s dogs,” Lira said, crawling out of the tunnel and stretching to her full height, then unfurling her umbrella once more. Water poured down on her. “If you want to doubt anything, at least do me the favor of not doubting my resolve to destroy the Empire.”
+
+Korii sniffed. Absolute offense flashed over Lira’s face, but Korii nodded. “She smells like it. I believe it.”
+
+“What? She does? I should have absorbed all the impurities from her,” Rhys said. He stepped closer, scanning Lira for impurities, but found nothing. His brows furrowed. Huh? Is Korii hallucinating the smell, then?
+
+Mouse coughed. “I wasn’t going to say something, but… yeah. She stinks.”
+
+“So would you, after three years at the bottom of a sewer,” Lira returned.
+
+“Wait, guys. Wait. You’re telling me absorbing all the impurities from someone, or something, doesn’t necessarily remove the stink?” Rhys asked, his world shattering from around him. How many times did he absorb his own impurities and assume he’d ‘cleaned up?’ How many times had he taken ‘impurities all absorbed’ as ‘clean and scent-free?’ Have I stunk all this time? He lifted his arm and sniffed, but after his time in the sewers, he couldn’t tell at all.
+
+“I mean… you reduced it a lot! I barely noticed it,” Mouse reassured him, adding at a mutter, “In the sewers, anyways.”
+
+“Oh, thank you. I appreciate it,” Lira snarked, rolling her eyes.
+
+“S-sorry,” Mouse mumbled, backing away.
+
+Rhys fell back, then pinched his chin, falling into thought. On one hand, he’d been stinking up the world without realizing it, which was a horrific reality. On the other hand, he was already used to that from his life as a barely-leaves-the-room anime fan, so it wasn’t like he’d never done it before. He was deeply sorry for failing Lira, but he’d at least improved her living situation, so she shouldn’t hold it against him too much. Still, for the scent to remain after the impurities left? He was missing something, clearly. But what?
+
+Korii lowered her weapon. “He trusts them, and they check out.”
+
+The other mages nodded and lowered their weapons as well. Mouse glanced around, then stepped forward and offered Korii the books she’d found. “Er, I, I can help, I don’t know h-how much, but I can try.”
+
+Korii nodded. She took the books and walked away, cold as could be.
+
+Mouse stared after her, then looked at the floor. Her glasses flashed as she retreated into herself.
+
+Rhys broke out of his thoughts. He hurried over and patted Mouse on the shoulder. “Don’t take it personally. They’ve all been through hell together. They don’t know you yet, but they will. Just don’t give up, and keep trying to help.”
+
+Mouse looked at him, then nodded. She took a deep breath, and followed after Korii and the others.
+
+Rhys turned to Lira. “I’m sorry about the smell. I had no idea I was leaving it behind. I could try to take it off of you…?”
+
+She lifted her hand. “Figure it out first, then try on me, I have no intention to be your experimental subject. As for the smell, it will wash out soon enough. Water amplifies scents, so although they might not notice the sewage smell sticking to you, they’ll notice it on me. Yours will fade with time; mine will fade faster, with the help of this.” She raised the umbrella. “For now, though, let’s speak of what’s important.”
+
+“What’s important? Oh! Right.” Rhys gestured her toward a far-flung corner of the hollowed out garbage patch, away from the others. Korii noticed him going, and called out to one of the other mine escapees. The two of them initiated a very loud sparring match, giving Rhys and Lira the privacy to speak alone.
+
+“You mentioned you found something about Straw?” Rhys asked.
+
+Lira nodded. She reached into her robes and drew out a single golden blade of hay. “When everything was falling apart, I charged into the place I thought was most likely to hold him—Ernesto’s lab—and I found this.”
+
+Rhys leaned in, but he didn’t have to. He could sense the powerful, and more importantly, familiar curse power pouring off it from where he stood. He nodded slowly. It was the opposite of surprising that there were scraps of Straw in Ernesto’s lab, but at the same time, the fact that there were scraps of him in there meant that he didn’t just have to assume Ernesto had gotten his filthy hands on Straw anymore, he knew it for certain. Not only that, but it revealed several other things, as well. For example, Straw had to either be in incredibly bad shape or restrained in some severe way, or else he could have easily overpowered Ernesto; he was a Remnant Weapon who’d taken on the full might of the Alliance, not some pusharound weakling that could be easily kept prisoner by someone like Ernesto. The curse power in the straw felt as strong as ever, so it was more likely that he was restrained than severely weakened. He'd expect the curse power in the straw to be weak if Straw was weak; he could be wrong, but it seemed the most reasonable outcome to him.
+
+“Did you get any further?” Rhys asked, looking up at Lira.
+
+She shook her head. “The Empress’ soldiers showed up before I could do much more. But now…”
+
+“Let’s go,” Rhys said instantly. “Mouse, come with us.”
+
+“M-me?” Mouse asked, startled.
+
+“We’ll need you if we run into the Empire,” he explained. He didn’t know an aura-suppression or presence-diminishing technique, and he didn’t have time to learn one. Sure, he could spend a few weeks learning a technique, then head over to Purple Dawn, but one, this was Straw, his former teacher. Before he’d had information, there was nothing he could do but keep looking for information. Now that he did, he wanted to move as quickly as possible to help Straw. If Straw was in a Lira-like situation, where he was in pain or danger every day, or he was so badly injured that it would take time to repair or heal him, then the sooner he could step in and remove him from that situation, the better. Straw would be an immense asset for the anti-Empire team, as a powerful Remnant Weapon with a near-infinite capacity to absorb curse energy, and a higher-Tier mage than anyone else on Rhys’s side, so acting quickly to rescue him was not only what Rhys emotionally wanted to do, but also made a lot of rational sense. Plus, since Mouse could extend her no-notice field to cover at least one other person, there was no reason not to act now. In fact, they could even treat it as training for Mouse.
+
+All that assumed that there were even people guarding the ruins of Purple Dawn Academy. There was really no reason for the Empire to bother, but it could always be treated as penal duty, and they were close enough to the Empire’s new city that it was a reasonable distance from a major settlement to make sense as penal duty. He also had it on excellent authority that a prison breakout had happened just a day or two ago, so the Empire was likely to be on high alert, and more likely to stake people nearby… or maybe pull back their penalized soldiers to base. He didn’t know. He wasn’t a military guy. The closest he’d gotten to the military was listening to the military nerds chat about a certain measuring-based science fiction minifigure game of forty or so thousand, and he was pretty sure that wasn’t an accurate representation of an actual military, not that he’d know.
+
+In conclusion, this was either a terrible or wonderful time to move, but one way or another, Straw was worth moving for, even if it meant taking a small risk. It helped him, it helped Mouse, it helped Straw, and hey, maybe he could even learn how to hide his aura through observing Mouse. Win, win, win.
+
+“I… I can’t hide two other people!” Mouse squeaked.
+
+“I’m sure you can figure it out,” Rhys assured her.
+
+Lira gestured up at Purple Dawn. “There’s a river that runs through the academy. Humans rarely think to pay close attention to what passes underwater. I can swim up to the edge of Ernesto’s lab, then lead you the rest of the way.”
+
+Rhys nodded. “That works. Where will we join back up?”
+
+“There’s a bridge not far past the library. If you don’t know where that is, I know Mouse does. Meet me on the far side of that.”
+
+“Understood. We’ll set off now, and meet you in a moment,” Rhys said.
+
+Lira nodded. She exited the trash heap swiftly, almost as if she’d been looking for an excuse to escape, though Rhys knew that couldn’t be possible, since his base was super cool and everyone loved it. There was a distant splash.
+
+Rhys nodded at Mouse. “Shall we?”
+
+Nervously, Mouse nodded.
+
+Korii cleared her throat. Rhys turned, a big salesman smile on his face. “Can I help you?”
+
+She nodded over her shoulder. “I appreciate what you’ve done for us, the manuals and everything… but… I can’t be gentle about this. It isn’t enough. If we’re going to fight the Empire, we need resources. Serious resources. Right now, we can absorb mana and practice, but… it might take years until we regain our strength. Decades. Centuries. How many of our fellow mages will die before we get stronger? We need to—”
+
+Rhys snapped his fingers. “Commercialize.”
+
+“—rob the Empire’s merchants or—what?”
+
+He nodded. His mind went to the garbage patch in Purple Dawn, and the wonderful, horrible things he’d done there. “We need money, right? Ultimately, that’s what we need.”
+
+Korii nodded cautiously.
+
+“I’ve got just the thing. You guys practice for now—disguising your aura and just… just disguising in general is going to be essential if everything works out. When I get back from Purple Dawn, if I don’t come back with the solution to our resources problem, then we can talk. But if everything is as I suspect it is, then I have a ready solution to put gold in our pockets just waiting for us to fry it up.”
+
+“To… what?” Korii asked, squinting.
+
+Rhys grinned like a bandit. “You’ll see.”

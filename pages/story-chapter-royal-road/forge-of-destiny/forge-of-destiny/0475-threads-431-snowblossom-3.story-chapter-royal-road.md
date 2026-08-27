@@ -1,0 +1,155 @@
+---
+id: 24db031e-9c02-5ced-ad2f-dcdd2d6341fe
+page-type-slug: story-chapter-royal-road
+title: "Threads 431-Snowblossom 3"
+slug: 0475-threads-431-snowblossom-3
+partOf: forge-of-destiny
+position: 475
+ownLength: 2580
+unit: words
+publishedAt: 2025-02-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2080041/threads-431-snowblossom-3"
+royalRoadId: "2080041"
+---
+
+The fluctuation of pressure as their little ship slid out from the depths of the lake made her shake her had slightly, an uncomfortable pop going off in her ears. For her first realm companions, their shaking hands nearly dropped their now guttering torches. She caught their eyes over her shoulder and gave a small nod. They had done well in their small part. She hoped that going forward, they were ready for a larger one.
+
+The two of them straightened up under her gaze, and she returned to facing forward. They would have to hold their dignity for a while longer. After all, they still had to be received upon the shore.
+
+There were many, many more lights there, even now, hours had passed while they sailed in the hazy, half realm of water and mist out in the center of the lake. The sun was gone from the horizon, leaving only the moon overhead. Stolid torchbearers waited for them upon the docks, but far more lights belonged to the semi-impromptu festival that had sprouted up.
+
+The people of Shenglu town were few still, but there was enough. Farmers and their families mingled with fishers. While some hawked or swapped sweets and specialities in the streets, others smoked and grilled fish on impromptu wood stoves. Parades and dances took place in the streets, and everywhere, there were lanterns, held and carried, hung from eaves, or perched atop half-built foundations. It all shimmered through the mist, half a dream itself.
+
+Ling Qi pulled her eyes away from the town towards the manor, where she spied a twinkling star standing on a high balcony. Cai Renxiang was not the type to mingle with such a street festival, and Ling Qi had been forced to agree that her liege would probably only make their people uncomfortable by trying. Gan Guangli was Renxiang’s face in the town, and he stood in the paved square now, belting out courageous tales with a half-dozen children dangling off his arms as he flexed and posed.
+
+But that didn't mean Cai Renxiang couldn't participate in her own way. Light bloomed and cut through the mist. Clear and bright, a single ray scattered the darkness to fall upon her and the ship. It caught on the carvings on the ice and limned them in a halo of radiance that lit their little ship like a pale bonfire on the surface of the lake. It drew everyone's attention and drew them to the shore.
+
+Chaos became order, without losing much of the cheer. People lined up, raising their lanterns to receive them. The beam of light followed their ship, thinning and dimming as they approached the shore.
+
+Ling Qi considered the flows of the lake’s qi still trailing and clinging to them and her own slowly dissipating qi, which had diluted it, preventing the spirit’s presence from becoming a crushing prison or unintentional poison. She understood the purpose of the spirit seekers and their art which she had so slowly practiced. She also understood why it had not been a popular art. In it, there was very little concrete technique and very little direct power or lessons to be found.
+
+It was as much a method of thinking, as cultivation. And the questions it asked were simple ones. What is the worth of your neighbors? Was it what you could take from them? What they could do for you? What you could accomplish together? Was it the safety of numbers? Was it in the danger they could ward off with their strength? What did it cost to be a good neighbor? How much could one ask before becoming a bad neighbor?
+
+But simple did not mean easy.
+
+Spirits were often not kind. They thought in ways sideways to mortals, with foibles that seemed to defy all sense sometimes. It was not always right to give a spirit what it wanted, and humans could not live without taking. No, that wasn't quite right. Nothing lived without taking. Beasts preyed on each other or plants, trees drank greedily from the soil and strangled their rivals for light and water, rivers carved and carried away the land, and wind stole the stone of the mountains, one fleck of gravel at a time.
+
+Sacrifice.
+
+A human who could not hunt or fish or gather or farm would die. Was it good, then, to deny a human’s workings if it meant not imposing on the spirits of the land? Of course not. The goal was not to avoid taking or changing at all, but to do so in a way that left both parties intact and prospering wherever possible. This, she thought, was the path Tsu had taken. And it was one worth emulating, even if deals wouldn’t always go her way, or that others wouldn’t always deal honestly with her.
+
+A good neighbor listens without spying, speaks without demanding, takes without dominating, and gives without submitting. Respect is the foundation of community.
+
+Looking upon the town on the shore and the people and their lights waiting there, she knew that if speaking with a spirit failed, she would fight for what was hers without hesitation. Soon, her mother and sister and household would be among them, and this resolution would only grow.
+
+"People of Shenglu, the goddess of the lake, our Lady Snowblossom, is pleased with your gifts and your devotion," Ling Qi announced as her helper priests took up the ropes thrown to them to begin pulling their ship into the prepared dock for the temple ship.
+
+Their current one was quite small, fit into the channel for its eventual replacement, the earth beat down and packed around the wood and stone docks. Ropes stretched between posts driven into the ground marking out where the temple structure would rise in the future. But for now, there was only the slosh of water and the creak and thump of the boat being dragged to dock under her voice and the whispers and sounds of the crowd.
+
+"Today, she blesses us and takes the mantle of guardian of Shenglu alongside my brother, Zhengui!"
+
+Cheers abounded, the happiness and relief of a people knowing that something was settled and safe. It was the lifting of the pressure that came from uncertainty. There was still much to worry over, living on the frontier, but they could content themselves in knowing they had some small control of their lives through their devotions to the lake they lived beside.
+
+"And now, let all be merry, for the night is yet young. There shall be a day of rest tomorrow, as these gentlemen and I spread to you the proper rites for our Lady Snowblossom, so be free with yourselves, and enjoy the fruits of your works!"
+
+She smiled to herself as the crowd roared and began to break up, going back to the festivities.
+
+Her eyes turned to the junior priests. "You two should rest as well, once the altar is set back on the shore. Your composure held well. I will continue to instruct you going forward."
+
+She would forgive the slight dread in their eyes at her promise.
+
+She could be a difficult teacher after all.
+
+***​
+
+It was several days later when Ling Qi found herself crouched by the garden pool in the manor, scrutinizing what she had found crawling out of the water to sun itself on a rock. Two blank black eyes swiveled up to observe her, but the animal showed no signs of alarm at her presence. Wide and flat, its soft shell shone with moisture slowly curling away into little streamers of steam, and finlike feet splayed across slippery wet stone.
+
+She narrowed her eyes, and reptilian eyes blinked. All of the softshell tortoise's limbs slowly retracted into its shell.
+
+"Hah, be more kind to your nephews, Madam Ling! You will make yourself that frightening auntie!" Gan Guangli chortled as she wrinkled her nose.
+
+"I am no aunt at all," she scoffed.
+
+It was just a coincidence. And even if there did seem to be a small explosion of turtles and tortoises holding a wisp of fire qi despite the cold weather, they weren’t spirit beasts.
+
+"No. I think, by your own definition, you are," Xia Lin said, betraying her most grievously from where she sat at the marble-topped table set by the pond side. "Spirits are not like humans, but that does not change the facts."
+
+"It is most joyous. Smile, Auntie Ling!" Gan Guangli guffawed. "Look upon your nephew's adorable face!"
+
+While she was distracted, the tortoise slid quickly back into the pond, escaping her gaze.
+
+"Su Ling might be right to question your taste," Ling Qi grumbled. The little ones trundling about through the dying leaves and burrowing among the undergrowth were quite cute, but these slimy things… Ugh. "Lady Cai, should we not call the meeting to order?"
+
+"No. You have some minutes remaining before its scheduled start," Cai Renxiang replied blithely over the rim of her teacup.
+
+Even Renxiang? Truly, she was a member of a court of daggers. Her enemies would pay for these slights.
+
+"Please, may we begin?" Ling Qi was definitely not whining.
+
+"For the sake of our young elder's meditation schedule, I will support this," Xia Lin agreed.
+
+Ling Qi met Xia Lin’s eyes, ensuring the other girl knew vengeance was coming. Xia Lin's gaze was steel, welcoming the challenge.
+
+Gan Guangli seated himself on the steel-framed chair set out for him in these meetings. "Haha, I suppose one should be eager to begin their work."
+
+"Very well." Cai Renxiang set her cup down and straightened infinitesimally. Ling Qi took her seat as well. "Let us begin the discussion on the boons granted to us by Snowblossom Lake."
+
+Ling Qi drew a small glass bottle from her storage ring. It was only a finger’s length long, but filled with foggy mist with a small amount of clear and sparkling water at the bottom. "As you suggested, my lady, we looked into the cultivation materials first, in case they represented any unintentional danger toward the citizens. Together with Meng Duyi, I discovered this material. We are calling it Clearwater Mist, and it is generated from the mist created when the main falls strike the surface of the lake. However, the mist only gains special properties at the exact hour surrounding daybreak and sunset."
+
+"Interesting!" Gan Guangli peered at the bottle held in her hands. "It has a bit of the same scent about it as your muse, no?"
+
+"It has some small properties of dreaming qi. Meng Duyi said it would be quite potent as a reagent in crafting cultivator-grade alcohols, in addition to being useful for alchemy in general, as a base for separating and distilling the essence of mixed reagents."
+
+Xia Lin narrowed her eyes. "The reason you used expensive glass cleansed of all residual fire qi instead of ceramic is that, isn't it?"
+
+Ling Qi nodded in acknowledgment. "It is very difficult to bottle. If the container has more than a single qi alignment, the mist will break it down over time. In addition, the material does not like to stay in liquid form and very easily becomes mist at the slightest disturbance, requiring firm sealing methods."
+
+"Noted." The brush and paper that had appeared before Cai Renxiang was already being put to use. "Any danger to our construction?"
+
+"We will need to make a small adjustment to the maintenance wards, but the breakdown effect is most potent when the mist is contained like this. Meng Duyi has already drawn us up some notes for the adjustment."
+
+"Excellent. I will have them copied and distributed to the work crews by evening." Cai Renxiang made a note. "We will consider plans for how to gather the mist at an effective cost. Is it toxic to mortals?"
+
+"It would only be toxic if they remained immersed in it for some time. For the single hour in which it naturally exists? No."
+
+"Good. Xia Lin?"
+
+"My investigation took me near the initial lumbering area, where the workers reported a strange fog in the middle of the day," Xia Lin said crisply, fully professional now. "The source was a patch of dull gray clay which appears to have overtaken the mundane deposit in the area. It is very cold to the touch, painfully so for a mortal, but it is as soft and pliable as regular clay at normal temperatures. It retains these properties even when removed from the deposit."
+
+Ling Qi hummed. "Is it even possible to fire it then?"
+
+"Testing is underway. It seems to require two or three times the length of a normal firing, which is labor-intensive. Several batches were ruined, losing their properties."
+
+"I will see about acquiring expertise. For now, see what can be harvested. Is there only one deposit?"
+
+"No, there are several, arrayed around the lake shore. Most are much further from Shenglu."
+
+"I could see many benefits for cold storage if we can find the proper uses," Gan Guangli posed thoughtfully. “That would have great benefits for the mortal’s food stores, and many other things besides."
+
+"A high priority," Cai Renxiang agreed. "Gan Guangli?"
+
+"Ah! Of course!" He rose from his chair and spread his arms out, as if to embrace them all. Then, there was a faint pop of displaced air.
+
+Ling Qi stared.
+
+"Do I need to rally the guards?" Xia Lin asked blankly.
+
+In Gan Guangli's arms was a massive, fat fish. It must have been over two meters, closing in on three, from head to tail. Its scales were a dull muddy brown shading into a bright verdant green in irregular spots and around its head, which was thick with bony jade green plating, which extended to the rubbery whiskers which dangled from its jaw.
+
+"Catfish! The men are calling them 'jadehelms’!" Gan Guangli enthused. "They are quite meaty fellows!"
+
+"I have no reports of anyone being hurt," Cai Renxiang said. "Docile?""
+
+"Not quite, but the ones in our fishing zone are mostly a meter or less. I did have to go out quite deep to find this fellow, who was actually a red realm spirit beast." Gan Guangli made the fish disappear back into his storage. "Most interestingly, beyond the bounty of meat, the bones of their skulls have proven to take to bone carving quite well. The bone also has some wood qi properties, but the full extent is unclear. The beast's mucus also has some minor medicinal properties, but we will need a proper alchemist to find more than that."
+
+"We do have a handful of junior alchemists amongst our hires from Xiangmen. With all of these findings, it may be best to give them a space to work soon," Cai Renxiang said thoughtfully.
+
+"We do still have that pill furnace of mine," Ling Qi offered, thinking fondly back to the time she robbed Yan Renshu for all he was worth and then some.
+
+"We do. One will likely be enough at this stage," Cai Renxiang agreed. "These are everyone's findings?"
+
+They all gave their assent.
+
+"Then, I will bring these matters to the advisor Baroness Ling has seconded to Shenglu and begin producing plans. Baroness Ling, you are dismissed. I know you spoke of a matter of personal cultivation."
+
+Ling Qi nodded and stood, glancing at the pond and the little tortoise swimming there. All joking aside, there was a conversation she needed to have with Zhengui.

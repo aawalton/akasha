@@ -1,0 +1,133 @@
+---
+id: ac0821c2-e332-5633-9544-a1fcfe977d9d
+page-type-slug: story-chapter-royal-road
+title: "Threads 271-Grudges 2"
+slug: 0309-threads-271-grudges-2
+partOf: forge-of-destiny
+position: 309
+ownLength: 2168
+unit: words
+publishedAt: 2022-12-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1067123/threads-271-grudges-2"
+royalRoadId: "1067123"
+---
+
+They had been watching for two days now.
+
+Yan Shenyi was a young seeming man who bore some resemblance to his cousin. He was short and a bit broad with the rough sort of face that was not usually deemed handsome. His dark brown hair was short and closely cropped, but he had a stringy mustache that hung down around his frowning mouth.
+
+A dour man with few friends or acquaintances. Less now than a year ago. Before his cousin’s death, he’d been more well regarded, particularly in the early half of that year when he’d become generous. That had ended swiftly, and he’d become much more withdrawn and surly than before. He’d received some sympathy when tragedy struck, but it seemed most of his co-workers had simply sunk into a mutual apathy for the man.
+
+Ling Qi observed him walking down the hall of the ministry, a heavy bundle of letters and communications under one arm on his way to the delivery offices. She saw his eye twitch as he passed a cleaning woman in the hall.
+
+The woman was part of her team in this, a seventh ranked officer of the Ministry of Law disguised as a mortal woman.
+
+Well. “Disguised.”
+
+She was one of a few such individuals, seeded around Yan Shenyi’s usual haunts, disguised mundanely but instructed to let themselves “slip” a little in their attention to the man. Today was the final day of observation, and it was time for things to become “interesting.”
+
+The whole point was to ratchet up his paranoia after all while keeping his attention away from her, the main observer.
+
+She had read once that official imperial rolls of spirits classified the Grinning Moon as the patron of investigators, not thieves. She’d scoffed back then, but it made more sense now. A game required more than one player.
+
+<Even if Auntie Grinning’s a bit nicer down here, she’s still the Grinning Moon,> Sixiang cautioned.
+
+The Grinning Moon valued cunning, action, and freedom. But the wind doesn’t care where it blows. It wasn’t bothered by results, whether it turned the sails of a windmill or blew down a house. It went where it went, and so, too, the Grinning Moon. Bound by nothing. Connected to nothing.
+
+That was why she couldn’t serve the Grinning Moon alone, even when she exulted in flight or when her heart pounded in her chest as she raided an enemy’s lair unseen. That was part of her, a part of her she had not been able to indulge often enough, but it wasn’t all of her.
+
+Ling Qi perked up as Yan Shenyi exited the office, having delivered his last bundle of newly notarized documents. She had watched the man scribe missives and organize documents all day, but now, maybe Yan Shenyi would do something different and interesting. The only action of note during the long, boring day of observation thus far had been the man’s frequent coughing fits and gulping down of water.
+
+A quick check in with her contacts, who were themselves in communication with the Ministry of Communication, told her that he had reported a severe failure in opening a lung meridian some time back. Actually, it had been just before the time of the sabotage. Was this an actual coincidence, or had he actually been pressed into this scheme through some kind of curse technique?
+
+She did think his involvement seemed awfully convenient, an attempt to incite action by her via grudge.
+
+What she was certain about as she set out after him, strolling from rooftop to rooftop, barely corporeal, was that the plan was working. She watched Yan Shenyi mop sweat from his brow as he hurried along the main road. Just one glimpse of a hidden agent had him alarmed.
+
+There were a few places he consistently frequented. He was a regular patron at a teahouse in the city center, the city brothel on the south side, much to her disgust, a garden in the north, and a gambling hall on the east side, and of course, his home. Now that she thought about it, his home was in the western district.
+
+He had a wife, but they were rarely seen together and had no children. She’d gone to visit her family a few months ago. The Ministry of Law thought the family was considering how to annul the marriage, now that the Yan family had lost its rank.
+
+She’d not seen him doing anything untoward as he cycled around those locations over the last couple days, but she couldn’t help the niggling feeling that she was missing something.
+
+She peered down from the rooftop of some shop or another at the sweating clerk. She could see the point of damage; the radiating spiritual heat of a ruptured meridian was genuine. His qi was full of resentment and fear.
+
+“Lady Ling, we have completed our trace of the unauthorized delivery network and secured the documents and missives he was attempting to send out. Items are being sent for decoding at base.”
+
+The voice of an officer of the Ministry of Law whispered in her ear, transferred by the simple farspeaking talisman she’d been provided for this operation.
+
+“Noted. Observing subject for attempts to flee,” Sixiang whispered, sending back a response to the officer with her voice.
+
+She narrowed her eyes. He wasn’t going home.
+
+“Deviating from observed paths,” Sixiang reported on her behalf.
+
+Atop the roof, Ling Qi dissolved entirely, dripping like water into the shadows that lay between shingles. The world always felt strange like this, seeing and sensing the world only through qi sense. In the gray sea of mortality, lit by little flickering embers of emotion and candles of common cultivators, she followed the sickly torch of her target’s qi, bending and flowing through shadows until she occupied his.
+
+Where could he be hoping to go? He wasn’t heading for the stables or the gates. Instead, he was traveling toward the city center. In her senses, the city was a complex of light, criss-crossing lines of geometry that formed a cage of spiritual power between the defenses of the ruling clan’s manor and the inner wall. The only transport formation in the city was under the direct control of the viscount’s clan and lay in their manor. Was he meeting someone?
+
+As shadow and breeze, she followed him.
+
+Observing so closely, she actually felt some worry for the man. He was… leaking. Hot, sickly, feverish little droplets of qi were drip drip dripping into the dirt and then dissolving into the air. Was the man dying?
+
+<Nuh uh, Gui doesn’t think so. He’s not that sick, but it probably hurts a lot.>
+
+He entered an upscale traveler’s inn, passed the gurgling fountain in the entryway, and spoke briefly with the clerk at the front desk. She flowed beneath their feet, entering the room he was being guided to before he or the employee did. Her awareness filled the room, seeping into every crack. What was…?
+
+There.
+
+It may be under the rug, sealed and hidden by glittering formation characters, but these protections were not enough, the trapdoor still visible given her sharp senses. She was the wind, and such a paltry vault could not hold her back.
+
+Slinking down a flight of stairs, hearing the faint snap and click of the trapdoor opening behind her, she came to a small chamber, no more than ten paces at a side. It was well hidden, built in such a way that it blended with the greater geomancy and formationwork of the city. In this room, she saw a circle laid out in jade embedded in the floor, stained black by some artifice, and a single softly glowing crystal emanating surprisingly potent qi.
+
+The echoing sound of the trapdoor shutting behind was followed by footfalls coming down the stairs. Yan Shenyi arrived, pausing at the doorway to sag against the wall, breathing heavily. He staggered before the crystal and laid his hand upon it. She felt in his qi a harsh tug, the spiritual sense of copper, blood being spilled, just a drop.
+
+He spoke, and it was raspy and shaky with fear. “D-disciple, reporting. The net is closing. The songbird comes.”
+
+The crystal shimmered in her senses, and the light slowly turned to an oozing gray. A distorted voice emerged.
+
+“Very good. The messages?”
+
+“S-sent,” Yan Shenyi wheezed. “Evidence planted, false leads sent. Discord will be sown. Please, I’ve done as instructed.”
+
+“You have.”
+
+Something about the indulgent, self-important tone tickled Ling Qi’s memory, even as she studied the formation circle. It was a transport array, tuned for sending small amounts of mid-qi density goods. Or, it could send single individuals of no more than a third realm. A smugglers’ array, and a high-end one. It pointed to a location east and down. Remembering the map of the city she’d studied, perhaps the other end of this formation was the sewer outlet which emptied into the river.
+
+She re-focused on the shaking man and the crystal. The crystal was out of place. The formations at its base were newer. She did not think the speaker and the builder of this room were acquainted. No, this room had very much been commandeered.
+
+“You have done well, but with the target in place, your role has come to an end. Your gift will flower and activate the party favors. That girl will be removed from the board, ending the farce in the south, and the wretches of the Emerald Sea will be destabilized. Hail to the Twilight King. Live in death, disciple.”
+
+Her thoughts spun. Removed from the board, her, the Twilight King? Cults did exist, usually small and petty, committing minor terrors, but the sheer sarcasm in that catechism left her with little doubt that it was but a cover.
+
+The cardinal locations Yan Shenyi had visited over the last few days… A map assembled in her mind, lines drawn. This little cubby was the center. She hadn’t sensed any formations at the locations, but if there were, a working of this size, hidden in the lines between the city's wardings…
+
+Yan Shenyi’s eyes bugged out, and he stumbled forward, grasping the crystal. “You-! No, you promised, you unfilial little shit!” he howled.
+
+“Come now, cousin. It's nothing personal.”
+
+It struck Ling Qi then. This tone, this self-assurance, this smug, self-satisfied sleaze. She felt then a pulse of corrupt and impure qi, like the energies of the ith-ia, gathering in the now ranting Yan Shenyi’s chest.
+
+“No.”
+
+Her voice was a cold wind, sending the little candles lighting the room guttering out. It interrupted the frantic man’s ranting, making his red face grow white as the temperature in the room plunged. Frost spread across the slowly pulsing gray crystal.
+
+“… What?” said the voice in the crystal.
+
+“I said, no.” Ling Qi’s hand plunged into Yan Shenyi’s back. She had felt the little knot of corruption, so like that she had experienced down in those tunnels, as it threw off its veil and began to pulse faster and faster. A ribcage wasn’t exactly a vault, but what good was she if she couldn’t improvise?
+
+She reached into the spaces between solid matter, around the gnarl of twisted space, and grasped something segmented and slimy with far too many wriggling legs. The creature was grasping tight around Yan Shenyi’s lungs, its legs dug in like a clamp. Any attempt to physically remove it would no doubt kill the man, and, she suspected, set off these “party favors,”if in reduced form.
+
+So she didn’t remove it physically. With a tight grasp on its writhing body, Ling Qi stepped sideways through the veil and walked for a moment in dream. She saw a gray expanse with a misty city in twilight, quiet streets where nothing ever happened and where the grand troubles and intrigues of the world were far away. It was a place where inspectors and criminals alike had an understanding that nothing was truly worth getting worked up about.
+
+And she saw the black rot beginning to set in at the foundations. Apathy. Stagnation.
+
+A pale and sinuous worm thrashed in her hand, legs wriggling, circular tooth-lined mouth gasping. The worm flailed, and a whiplike tail tipped by a bone hook lashed at her wrist and skittered off her skin as if it had struck steel.
+
+She regarded it with some disgust. It was a tube filled with rot and decay, a living battery.
+
+Ling Qi glanced up at the sky overhead, full of clouds, and just peeking through them was a crescent moon, hanging grinning in the starry sky.
+
+“My offering.” Ling Qi fixed her eyes on the lunar crescent, cocked her arm back, fand hurled the worm skyward. There was no law of earth here, and so it vanished with only a fading squeal and a puff of cloud.
+
+And then she was back in the room, standing behind a slumped-over man and looking into the crystal.

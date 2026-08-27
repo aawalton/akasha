@@ -1,0 +1,177 @@
+---
+id: 446b41d6-57b1-56fb-aa8d-6527cfda9dac
+page-type-slug: story-chapter-royal-road
+title: "Threads 516-Homecoming 4"
+slug: 0565-threads-516-homecoming-4
+partOf: forge-of-destiny
+position: 565
+ownLength: 2595
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3311580/threads-516-homecoming-4"
+royalRoadId: "3311580"
+---
+
+It felt good to walk Shenglu's streets again, and they were streets now, here behind the walls. Beaten dirt gave way to cut stone, adjusted here and there by the touch of a cultivator’s hand to improve them, but between these were canals and greenery, carefully arranged and cultivated. The waterways were tiled, and the understated colors of the ceramic tile at their bottoms shimmered with the occasional flash of purifying formations, cleansing impurities from the water.
+
+This changed at the waterfront, where the earth grew softer, steps descending to streets of lighter brick and a wooden dockside walkway supported by pillars driven deep into the lakeside and bed. Snowblossom Temple loomed high over the other humble structures here. Most of the fisheries and warehouses were still mostly unpainted, but they did share the same cool blue tile that roofed the temple, or at least the more permanent structures did.
+
+The temple was broad rather than tall, only a single story, and opened directly onto the lake. The wooden walkway lining the lakeside wrapped into the dock within, where the temple’s impromptu offering ship was docked, and where the junior priests she had assigned performed their rites and blessings on ships and inspected the day's catches for signs of favor or disfavor.
+
+It meant the temple had a bit of a fishy smell, but Snowblossom Lake probably liked that. The cool morning mist that lingered on the water by the ship was comfortably cool rather than punishing cold, so she was fairly confident in that assessment.
+
+There were more people now, it felt like. That might have been due to the fact that more of the manor staff had moved into the homes in the city center rather than staying in the manor. There was an ease to that she liked, a comfort in their own security.
+
+It wasn't perfect. Nothing ever was. She heard the people talk of a young man who overestimated himself and went out too deep. His ship had been capsized by a particularly large jadehelm. She also heard of a household dispute that had people shaking their heads and clucking their tongues, but not acting. A daughter from one of the outlying farms had wandered too far chasing lost sheep and been lured into the woods by spirits, and another child had come back, but was shaken and scarred from the spirits’ dance.
+
+It prickled at her, but she knew she couldn't stop every single harm. She'd see that the wards were checked again though.
+
+The road toward the outskirts of Shenglu was well cut, if a little winding. The farms were changing, slowly but surely. They had invested in more tools and materials, but Cai Renxiang's staff seemed to have chosen to give the individual farmers some latitude in what they did with the materials and tools. A few had a chicken coop in their yards, others had space for a mountain ox to pull new plows, and most had a hand quern. The identical grid of farmlands was beginning to differentiate.
+
+However, the largest change had to be the structure that lay at the top of the hill. Its bright red shingles glistened with moisture as the geyser jetting into the sky died down, catching the light of the sunset on thousands of droplets. It was a low, wide and arch-shaped building wrapping around the hilltop, open in the rear toward the western mountains. That opening must be for Zhengui's benefit.
+
+Smaller shrines and prayer spaces dotted the easy slope of the hillside. Some were empty of their idols yet, but several held dark green jade sculptures of her little brother set atop a small box of fertile soil from which blooming flowers grew. She was becoming more used to the idea of people worshipping Zhengui, but it still gave her a slightly conflicted feeling.
+
+The springs and the central geyser had been left in a relatively natural state. Only the addition of a few stone meditation benches already overgrown with fuzzy patches of moss as if they had been there for decades broke up the previous arrangement.
+
+"Big Sister!"
+
+Zhengui cried out as he trundled out to meet her, the jangling sounds of the planters set in the harness on his back harmonizing with the little crystal chimes which now hung from them. Zhen had refused to go as far as a tolling bell after all. In the garden behind him, she spotted Meng Duyi as well, facing the geyser, the horns of his headdress wet with fallen droplets.
+
+"Hello, little brother," Ling Qi greeted. She extended her arms, wrapping them around his head as he approached her, Zhen's snout nuzzling into her shoulder. The scent of wood ash and flowers filled her nose, another comforting reminder of home. "How have you been?"
+
+"Gui has been doing much work, but it has all turned out well. The temple-y place has many rooms for Gui's friends to do scholarly things in, and the steps and road wards mean more people have come to see the shrine!"
+
+"Zhen has burned up many nasty little pests who have tried to flock here, and kept the road clean and the fields dark, ready for the planting," Zhen announced proudly. "Nasty parasites shall not prey on the winter crops of Zhen's supplicants!"
+
+"It could have become a significant blight, if not caught in good time," Meng Duyi elaborated, turning from the geyser and strolling toward them.
+
+"I am glad that you were able to take such good care of them," Ling Qi said. "I don't know that I can say I have an accomplishment to match, but Xiangmen was great fun, and had very fortifying qi. I'll have to take you next time, if I can."
+
+"Gui would like that! The pillar sap has been very good for Gui's thoughts and cultivation."
+
+"It is a bit too sweet, but it builds Zhen's foundation well," his other half hissed. "Zhen would like to spend time at the roots, though."
+
+"I'm sure that can be arranged.  Did the raising of the temple go well?"
+
+Zhengui paused, his heads looking at each other, feet shuffling uncertainly and kicking up dust.
+
+"There have been some complications, but not urgent ones. We have paused the final consecration until they can be resolved," Meng Duyi replied calmly.
+
+Ling Qi straightened up but kept one hand on Gui's head. "What sort of problems?"
+
+"There is a belligerent spirit of fire under the earth. The pocket which was struck before you left was a small extension of it. Its pacification falls under your duty," Meng Duyi explained, running fingers through his beard.
+
+“Zhen has spoken with it. Such cheek! This young king should strike the stinky gasbag down for its insolence!"
+
+"Gui thinks that might make all the veins go boom or turn gross and then, very many people would be sad, Miss Snowblossom would get stinky, and Gui would be a bad king," his other half said wisely.
+
+"I, Zhen, am both magnanimous and responsible."
+
+"You are," Ling Qi said indulgently, rubbing his head. "Do we know what the conflict is?"
+
+"It is a matter of borders. The subterranean realms, the pockets of fiery air over which this being reigns, have long been separate from the realm of green and open sky where we reside," Meng Duyi answered. "Small, incidental vents have long been present, but this geyser, and the development of the fiery channels, has pierced what was once a solid barrier many times through."
+
+"And we cannot board up the doorways at this point, can we?"
+
+"Not without a significant restructuring of your settlement infrastructure, no."
+
+Ling Qi nodded. "You said this was not urgent?"
+
+"Gui is watching, but does not think there is anything that will hurt right away. Big Sis does not have to worry."
+
+"I, Zhen, would have sallied forth if the threat was immediate!"
+
+"I will have some advice on your courses of action, when it comes time for you to resume your lessons, as well as reports on what I have done in your absence. For now, enjoy your reunion and homecoming." Meng Duyi turned away to return to the edge of the geyser.
+
+She bowed her head briefly to the geomancer, leaving him to return to his meditation. "Then, will you walk with me back to the village, Zhengui? We can trade stories, little brother."
+
+"Yes!"
+
+Descending the hill with Zhengui at her side, listening to the jangle of chimes on his altar harness and feeling the faint vibration of his tread, Ling Qi, for once, felt no urge to rush into the sky and soar. The earth underneath her feet was good enough.
+
+Her passage, by design, hadn't brought much attention to her. With her qi pulled in, she had hardly any presence at all on the road, and for mortals, she was barely more than a passing shadow, easily dismissed as a bird flying overhead or a shift in the light brought about by the breeze rustling through the leaves.
+
+Zhengui was the exact opposite. Where he passed, mortals couldn't help but notice. Men, women, and children stopped in their tasks to bow at his passage, some where they were, some jogging to the edges of their property to pay their respects to him.
+
+She smiled as she chatted with Zhengui, trading tales of her time in Xiangmen for tales of his time in Shenglu. Bad tidings had stronger wings than good ones, and so, she was happy to hear the better side of events. He told her of the farmer whose wife had born a healthy son and of the outriders who had rescued a young woodcutter before he could suffer worse than bramble scratches and a bit of exhaustion.
+
+He also told her the stories of the land: of the slowly settling spirits of earth coalescing in fields now tilled several times over, of slow and placid negotiations with the trees who lined the roads, turning their roots away in exchange for offerings of fertilizer, and of the farm blessed by a cheerful fairy in their well, who was becoming something of a household spirit.
+
+She didn't go into the town proper with Zhengui. Instead, they walked around the curve of the lake, letting the waves lap at his feet as they talked. She eyed the newly reinforced and widened path leading from the original makeshift lumber camp to one deeper into the sparse woods on this side of the lake. Wagons full of cut wood rolled past them, heading to the town to be processed. With the lumber were also crates full of earthy-smelling herbs, dried and bundled, berries, and other bits of pieces of the forest's natural bounty.
+
+"Thank you for taking care of this place in my absence, Little Brother."
+
+"Gui is happy to take care of his place, while Sis does the human talky things," he said contentedly.
+
+"And I, Zhen, will be with you when you next go away," his other half stated plainly.
+
+They stood by the lakeside for a moment, both of them slowing to a stop, looking out at the waters lit by the setting sun.
+
+"I suppose the Sect and Lady Snowblossom can take care of the fief for a while. I would have no excuse to refuse, even if I wanted to be a hypocrite about it, would I?"
+
+"None."
+
+He spoke together like that more often these days.
+
+"I'll welcome you there then, Little Brother. Watch my back, as I'll watch yours. Let's get home. Everyone is getting together for dinner tonight."
+
+***​
+
+"Haha, those are some good colors, kiddo!" Sixiang laughed, leaning over the table to peer closer.
+
+"Please do not encourage her," Ling Qingge scolded.
+
+Biyu scrunched up her face in stubborn defiance, the bright red, yellow, and pink lines painted across her cheeks standing out sharply. "Pretty kitty!"
+
+Ling Qi did her best not to smile, catching her mother's eye. Apparently, Biyu had recently become fascinated with one of the clerk's bound cats. She had said she was going to paint it.
+
+She didn't say what she was going to paint it on.
+
+"She has a steady hand," Ling Qi observed neutrally. The painted whiskers were made of surprisingly straight lines, and her little sister hadn't even had a mirror to do them in. "Biyu, you can only paint on things other than paper if you ask Mother first. You promised, right?"
+
+"Yeahhh…"
+
+"So, what do we say?" she prompted.
+
+"Sorry, Momma."
+
+Mother sighed, resting her hand on Biyu's head. "You're forgiven, but you will have to wash it off before bed. Now, get to your seat."
+
+"I purchased soaps which will wash it off easily, along with the new paint," she said quietly to her mother, before turning her head and speaking more loudly. "Zhengui, over here. We've set up this side for you."
+
+"Yes, Big Sister!" His voice wasn't the adorable squeak it had once been, even like this, shrunken down to the size of a large dog to fit in the halls. He waddled in where room had been made for him.
+
+"Brother Turtle!" Biyu clapped.
+
+"I, Zhen, greet my littlest sister," he hissed haughtily.
+
+Zhengui's short legs carried him up the ramp installed behind the dinner trough that had been set up to allow him to face the rest of them at the table at roughly the same level. It was stacked deep with mostly fruits and greens, though several heavily charred platters of fish were there for Zhen too.
+
+He had used to hate fish, Ling Qi thought, amused. One's tastes changed over time and with new experiences.
+
+"Ah, do you require anything special? I had forgotten to ask," Ling Qingge asked on the other side of the table, as Sixiang flopped down into a seat on Ling Qi's side.
+
+"Nah, nah, no worries. I can enjoy anything you guys do, taste wise anyway. Won't gum up any gears, promise!" Sixiang chirped cheerfully. "Thanks, though!"
+
+"It's a shame Hanyi and Nuan are on their business, but this is nice." Ling Qi slid into her seat. "You cooked most of this yourself, didn't you, Mother?"
+
+She had seen the vast feast tables in Xiangmen, groaning with delicacies from across the empire. This spread didn't even begin to approach that, but somehow, the simple scents wafting off of it set her stomach growling, where none of that had. Wasn't that a fun quirk of her cultivation? Feeling a ghost of actual hunger was certainly novel.
+
+She'd been glad to banish it forever, or so she'd thought. This wasn't so bad, though, this little edge of eager want.
+
+"Most," Mother replied, glancing over at Zhengui's trough. "I am not the most skilled at these arts, but I thought it might be appropriate for tonight."
+
+"Mother is good enough and free to become as good as she pleases now," Ling Qi teased.
+
+"Mama's dumplings good!" Biyu agreed.
+
+"It's all new to me, but it smells great," Sixiang praised.
+
+"I suppose I will not argue with you all," Mother relented, a small smile on her lips. "Please enjoy, everyone.
+
+Ling Qi began to fill her plate from the platters. There were no servers here, and only minimal etiquette. They spoke, they laughed, they ate; there was no need for any pretenses or long thought on what words to use here.
+
+She treasured this. Missing members aside, this was the innermost circle of what was hers, her family. Beyond it lay her closest friends.
+
+It was everything beyond those circles where categorization grew complicated.

@@ -1,0 +1,103 @@
+---
+id: 04cc032a-098b-597e-816d-f394e8a06b42
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 451 Cathedral of Winds 10"
+slug: 0495-threads-chapter-451-cathedral-of-winds-10
+partOf: forge-of-destiny
+position: 495
+ownLength: 1633
+unit: words
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2299061/threads-chapter-451-cathedral-of-winds-10"
+royalRoadId: "2299061"
+---
+
+Ling Qi opened her eyes. Connected directly to the Piper, she calculated a route in seconds, overcoming the distortions that had stymied any attempt at a long distance jump thus far.
+
+"Opening the dance. We move right when it resolves," she ordered, perception already whipping through tunnels clogged with pollution and creeping fronds and flesh.
+
+"Understood and ready," Li Suyin confirmed. Xinghong, her soldier, thumped his fists against his chest.
+
+With a single twirling step, she tore them sideways from the world. Her hands spread wide, sleeves flaring out, as she caught a strand of the Piper’s thoughts, pulled it taut, and launched them further into the jumbled, warped liminal landscape. She avoided one patch of spatial pollution, leapt over the next, and skimmed along a corrosive river of putrid green terror.
+
+Her feet touched stone, and she blurred to the right, flying down through the winding passage full of silty water and tearing the fronds that reached out to try and grasp at her limbs to slow her down. Suyin's steel-shod skeletal boots beat a pounding rhythm at her side as her friend pushed her energy into keeping up.
+
+In the tunnels ahead, silver wisps darted through the water, guarded by scaly bodies, to map the gaps in the Piper's perception of its body. It made the veins in her forehead throb to feel even partially the wide-spanning spirit's analysis of the information relayed back. She glimpsed fragments of the Piper’s process, matching the streams of information her eyes sent back to countless snippets of memory and analyzing differences in the present, down to every dislodged stone and miniscule difference in water temperature and composition.
+
+"Disturbance. Spiritual fluctuations indicating trail at points…"
+
+She couldn't convert the deluge of information that crashed over her mind into words. Temporal, dimensional, and spatial coordinates dug into her mind with a crushing weight, as if one of Renxiang's densest legal texts had been forcibly implanted into her head.
+
+Warmth trickled down from her nose.
+
+“My thanks, O spirit,” she sang, strained.
+
+"Oh, moons. You let me filter the next one, got it, Ling Qi?" Sixiang demanded as her body shot down the tunnel, wordlessly turning down and to the left along a branching passage. Li Suyin needed no instruction to follow her.
+
+Ling Qi's vision swam as she struggled to translate the Piper's coordinates into something her own senses could properly comprehend. Between her spiritual sight, her sense for dreaming space, and her physical eyes, she needed just a moment or two more to figure it out. She didn’t see the mass of corrupted barnacles nor the frond swelling, the impurity within it all condensing into a bomb.
+
+A mirrored shield slammed down on the stone in front of her. Qi scented like the moon and wine rippled out. The building star of toxic qi died in a cloud of virulent flesh and pollution. Ling Qi could only lower her head, and be thankful for her companions’ alertness.
+
+Her next step dug a furrow in the muck, and she's dancing again through twisted thoughts and space. She hunted. Space twisted, and she drew her will inward, harmonized with the shell of adamant thread which Qiyi has woven around her, maintaining both her own self and that of her companions through the tides and eddies of bent and malicious space.
+
+A mancatcher, a shield, needles of flying bone, burning claws, tearing mandibles, and phantom hands and ripples of chaotic dreamstuf rip apart obstacles in their way. The parasite’s effort grows more desperate with every jump, every catch, and every destroyed defense.
+
+The map in her mind goes wobbled like a reflection broken by a tossed stone. It snapped back into crystal clarity, a model completed. A single coordinate burned like a coal behind her eyes, fueled by the rage of the Piper spirit at the creature that had been wearing it down, corrupting it, and breaking it for years on end.
+
+Together with her friends, she danced out of the curtain into the material once again, and returned upon a bed of squirming flesh. It was an airless pocket in the stone, some flaw or fissure of the earth sealed off from any physical connection unknown ages ago, a refuge immune to any but the most destructive physical entry.
+
+Ling Qi landed, startled by the sudden dryness, legs flexing to absorb the impact. By the time she was straightening her knees, countless wiry tendrils were reaching for her from vortices in the veil. The whole skein of the material world was weak and crumbling here. Her hand slashed out, but there was very little room. The screech of a dozen predatory birds, more falcon than eagle, broke the silence.
+
+"It's already trying to flee again," Ling Qi said, eyes scanning the liminal. The parasite had thrown so much at them that its reach was reduced. She was interrupted by the sound of shattering bone.
+
+She glanced to her side, heart still in her chest. The shield was falling from Li Suyin's hand, and the arm of her construct had been shattered, revealing her bare hand. A tendril was sunk into her skin, squirming its way under her flesh. How had her technique…?
+
+The glowing blue iris visible in one eye socket of her friend's helm flashed to a dark, malicious red. "Analysis complete."
+
+Suyin’s impaled hand clenched around the translucent tendril. The cavern screamed.
+
+The parasite’s wail shook the stone and sent the liminal rippling. It tried to sever its own tendril as it has many times before, but Li Suyin's countermanding qi flooded its nerves, taking over and disabling the nerves which enabled it to control its own flesh.
+
+"This has been such a fascinating delve. I am thankful for all the things I have been shown today," Li Suyin gushed before looking at the squirming tendril under the skin of her hand. "Ah, these organs process and weave liminal energy patterns, allowing you to control dimensional relocation. You don't need this any more. Snip snip."
+
+Ling Qi brushed away the desperate, thrashing limbs and wildly growing organic spines that sought her friend, while Xinghong interposed himself between Suyin and the widening vortex in the liminal.
+
+"Do you want the liminal organs for reagents, Ling Qi? Or should I take the impurity core?” Suyin asked her cheerfully. “I won’t be able to preserve both without it wriggling free while I destroy it. Ah, please provide your answer quickly. Even now, it's surprisingly resistant to my shaping."
+
+"Take the core,” Ling Qi offered. “I have all the reagents I need from Lady Cai's coffers."
+
+"I appreciate it," Suyin said gratefully, as the beast thrashed, trapped in its own cancerous flesh. "Now."
+
+Suyin’s qi flared, and the tendril under her skin spasmed, making her friend's flesh split, beads of blood appearing briefly, only to be sealed again a moment later. The cordlike muscle in the tendril went taut, and then contracted, ripping the beast out of the liminal vortex ahead of them.
+
+It was almost anticlimactic how pathetic the true body looked. A pill-like lump of black flesh no more than two handspans long was host to countless wriggling cilia which formed the base of liminal tendrils. It had no eyes or ears, and its only feature was an open, squealing mouth from which black ichor gushed forth. Ling Qi grimaced at the wet, tearing sound that emerged within it, and the sound of pockets of fluid rupturing.
+
+Finally, it went limp, and a dull black shape, oblong, the size of a chicken egg, squirmed out. It stank so badly that her eyes watered, even through Qiyi's fabric. She kept her eyes on the twitching corpse even as it began to melt into an acidic puddle. Waving her hand through the air, she pushed the veil shut, sealing off the flow of liminal energies into this unstable sealed space.
+
+Li Suyin stepped forward, shaking out her palm as her body expelled the liquifying remains of the tendril through the hole in her palm. "My, such a high content, and with a novel aspect, too! XInghong, store that, please."
+
+Ling Qi stared at the wound in her friend's palm. How had the tendril breached her defensive technique layered on her friend?
+
+"You already decided to preserve choice, didn't you?" Sixiang asked.
+
+Ling Qi hid a grimace. Of course. Hadn't she already accepted that she couldn't let herself become a smothering force? If someone under her protection wanted to face hardship and harm, knowingly so… Of course her technique would be like nothing but mundane mist then.
+
+Xinghong scooped up the sizzling impurity core and swallowed it. Well, why not, at this point?
+
+"That's kinda the vibe she has in the Inner Sect with folks her own age. Meanwhile, the upper ranks are all 'oh, what a precocious junior' and stuff." Sixiang chuckled.
+
+Ling Qi rolled her eyes. She pressed her palms to her temples as she reached out to the spirit.
+
+“The deed is done. I must ask that you withdraw. My humble self cannot continue this level of communion."
+
+Immediately, the throbbing ache in her head receded, leaving her to sigh, shoulders sagging as her head was once again left with only two occupants.
+
+“Pollution flows. Taint remains. Corruption levels passively rising.”
+
+"I know," Ling Qi said aloud. To Suyin, she said, "We shouldn’t dally. Will you still be able to perform the sealing?"
+
+Li SUyin's bone armor was disassembling before her eyes, vanishing back into storage piece by piece. Her face was drawn and wan, but she smiled nonetheless. "I will, but I may need a rest after."
+
+"I'm sure Su Ling can carry you on her back, like she used to when you tired yourself out."
+
+"I'm not that exhausted," Li Suyin complained. "Let’s go then.”

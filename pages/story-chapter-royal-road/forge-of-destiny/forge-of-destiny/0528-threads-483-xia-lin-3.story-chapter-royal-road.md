@@ -1,0 +1,203 @@
+---
+id: 489e7f98-e381-5f8e-ad28-f65161e471af
+page-type-slug: story-chapter-royal-road
+title: "Threads 483-Xia Lin 3"
+slug: 0528-threads-483-xia-lin-3
+partOf: forge-of-destiny
+position: 528
+ownLength: 2095
+unit: words
+publishedAt: 2025-11-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2770745/threads-483-xia-lin-3"
+royalRoadId: "2770745"
+---
+
+The smell of woodsmoke and spicy seasonings was strong, hanging thick in the air even in the back of the restaurant. The clatter and sizzle of the chefs cooking away and the dull crackle of stoked flames mingled with the sounds of idle conversation.
+
+Ling Qi turned the metal skewer in her hands, observing the glistening red sauce that coated the cubes of seared meat. She could feel the embers of flame sleeping into the rich earthy qi of the beef and cut cubes of grilled mushrooms.
+
+"Are you trying to give me qi deviations, Xia Lin?"
+
+Xia Lin was unimpressed with her jibe. "Do not be a coward. Try your skewer. Take a bite of the mushroom cuts after the meat if the spice is too much. It’s absorbent."
+
+Ling Qi could feel some motes of dark qi locked inside the seared cubes. She slid the skewer between her lips and bit off the first strip of meat.
+
+"Danger, danger, the left flank pillow fort just caught fire!" Sixiang cackled.
+
+She very deliberately took a bite of the mushroom as well and glared at Xia Lin. She would not give her the satisfaction of letting her eyes water.
+
+Xia Lin was already halfway through her skewer, and she was dipping it in some kind of dark red sauce that made the hairs in her nose prickle when she inhaled.
+
+"It's not a flavor for every day, but I find it very bracing." Xia Lin dabbed at her lip with a cloth.
+
+"Remind me to have Cai Renxiang bring you to the next dinner with the Bai delegation." Ling Qi took a deep swallow from the cider served with the meal.
+
+"Will you? I've heard there are good imitations of Thousand Lakes cuisine here, but the Emerald Seas’ approximations of the recipes are poor, according to Lao Keung," Xia Lin replied guilelessly.
+
+Ling Qi took another searing bite. The roof of her mouth was on fire. She wasn't even sure that was a metaphor. She'd give Xia Lin this round, but she was learning the art of grudges; this would not be forgotten.
+
+"So, I'm meant to be taking these down, right? Making a list for you to read off from later?"
+
+She wasn't that forgetful anymore.
+
+"So, yeah, I'll keep the list. Jot it in beside Renren's offenses."
+
+She didn't have to put up with this from Sixiang. She would kick them back out.
+
+"Aw, c'mon, who'd keep your list then?"
+
+"Your shadow is bothering the other customers," Xia Lin commented.
+
+Ling Qi glanced down at it to see a black outline miming strangling hands. She huffed and tugged on her qi, forcing it back to normal. Turning her eyes back to Xia Lin, she took another tentative bite.
+
+"You are alright, then?" she asked the other girl. Here, in the corner of the restaurant, voices were muted, and there was no one who could hear them.
+
+Some of the good humor faded from Xia Lin's eyes. "I am. I was merely surprised by my aunt making such a large move at this time. I should not have been though."
+
+Ling Qi let the other girl collect her thoughts.
+
+"It explains the lack of investments in our clan's lands, and the push for the younger generation to find careers in the wider province. As a final step…"
+
+Ling Qi pursed her lips and remembered the searing flames of General Xia, the Crucible, and the Breaker of Chains. Removing the Xia, once called Sadala, from their ancestral homes would certainly shatter a chain. "What will happen to the old lands?"
+
+"I do not know. They were poor lands, never well developed, but there are cultivation sites of some value," Xia Lin replied. "I do not know her mind well enough. Perhaps they will be sold, allowed to rewild and become a beast hunting preserve."
+
+Xia Lin said her suppositions with an uncaring air, but Ling Qi could not miss the upset brewing under the surface.
+
+“Honestly, while your concern is appreciated, I would rather leave the matter aside. I need to speak with some of my family on this."
+
+"They would be welcome in Shenglu," Ling Qi offered. "I understand that this really isn't better."
+
+Xia Lin grunted in reply.
+
+"What are your thoughts on Madam Mei's investing advice?" Ling Qi asked.
+
+"It's well matched and builds on the general advice I have heard. Sponsoring a caravan for inter-settlement trade is safe enough, even if we do not have the production at Shenglu for it to be home grown yet. There are always ambitious mortals and low cultivators looking for sponsorship."
+
+"It seems so." Ling Qi rested her chin on her hands, her elbows somewhat rudely on the table. "I'd think it would mostly be done by local or higher clans, but it is a good way to invite friendship and connections with more distant families. Now I know why so many of my contacts have been implying offers."
+
+Xia Lin snorted. "Of course that would be your response. I can never judge when your head is empty and when it is not."
+
+"What is that supposed to mean?" Ling Qi complained.
+
+Xia Lin stared at her. From the back of her head, Sixiang stared, too.
+
+With great dignity, Ling Qi ignored them. "I liked the advice about gathering artisan cultivators better. That seems more fun."
+
+"I do not think 'fun' is meant to be the point of investments. But yes, investing and indebting crafters is traditionally a route to success. Their cultivation is far more expensive, stage for stage, without a patron."
+
+Ling Qi thought of Li Suyin and the resources the sect was pouring into her. She had to admit that was true. "So, have a particular chef in mind?"
+
+"I would not be so frivolous," Xia Lin scoffed.
+
+Ling Qi raised an eyebrow at her.
+
+Xia Lin tilted her chin up. "I have not even had the chance to review any potential candidates. Unlike you, I am in no hurry to make arrangements on a whim."
+
+"But you are going to invest in, what, a personal chef?"
+
+"I will." Xia Lin shrugged. "An alchemist is a higher priority, but I don't see why I shouldn't."
+
+Ling Qi turned over her skewer in her hand, rolling the thin metal between her thumb and forefinger. She was only halfway through. Her tongue still itched from the last bite. She took another bite, wincing. "The idea of investing still seems strange. We don't need this at all."
+
+"Doing only what is needed…" Xia Lin shook her head. She was already finishing her skewer, savoring the final bite.
+
+The Crucible devoured all, leaving only raw metal burned free of impurity, ore for weapons pure and true.
+
+Ling Qi swallowed her food. She was acclimating to the spice, and there was a certain good feeling to the burn as it passed. It left her head feeling clear.
+
+"Well, you might be more patient than me, but what say we go down and look at some potential options? Madam Mei said the Ministry of Commerce keeps lists of trading houses and individuals applying for sponsorship. You can keep me from jumping the starting horn, and I can give you a nudge to actually do something with your stones."
+
+"I do not know how to predict what you will complain about and shirk and what you will dive on with both hands outstretched."
+
+"The difference is what lets her poke her nose into other people's business directly, and what's just filling out forms and making plans." Sixiang’s voice said from over her shoulder, the muse’s qi creating sound in the still air.
+
+Xia Lin blinked. "I see. Yes, that is a good explanation."
+
+"No, it isn't," Ling Qi disagreed.
+
+“Ling Qi. Are you seriously gonna try and deny that?”
+
+Real people were more interesting than paper and ink, but that didn't mean she was nosy the way Sixiang was implying.
+
+“Nosy? You? Never.”
+
+It wasn't untoward or spying if people just told her information!
+
+Xia Lin was looking at her like she was floating away again.
+
+Ling Qi sighed. "Close enough," she grumbled.
+
+"Close enough," Xia Lin echoed dubiously. "However, should we go anywhere on this trip, a tour through the alchemy district or the artisan market would be better. Trade is important, but those can be invested in later when closer to home. The artisans clamoring for notice in Xiangmen will tend to be less connected to local interests."
+
+"That is a fair point. All the same, there could be a hidden gem or two out there with the experience of the capital, but wanting to stake out their roots in less overgrown gardens."
+
+Bao Qian came to mind.
+
+"Granted,” Xia Lin acknowledged.
+
+"In the end, it's hard to be more excited about numbers and trade routes than it is about objects you can hold in your hands."
+
+***
+
+"You did, indeed, not argue very long." Xia Lin crossed her arms over her chest, looking up at the streamers of fragrant smoke that rose from the chimneys of the alchemical labs and workshops all around them.
+
+Unlike the industrial workshops, the streets here were packed with passersby, and the formations that kept the air clear enough were more subtle, more a mild filter and manipulation of the wind than a grand vortex. The character of the whole place was brighter and more welcoming with advertisements and storefronts clashing to draw the unwary and uninvested eye.
+
+Already, she had almost stopped to sniff the pills and elixirs she'd caught wind of several times, but her will was strong, and that was not why she was here!
+
+Yet.
+
+Yet.
+
+"I'd be surprised that there were several active venues for fairs, but I shouldn't be with so many noble families sending representatives."
+
+"Indeed. We are hardly the only bored young mistresses out to scatter our stones like leaves," Xia Lin said wryly.
+
+There actually were quite a few gaggles of nobles their age around.
+
+"We're not here to frivolously purchase talismans. We're here to invest," Ling Qi corrected.
+
+"After speaking  for a few minutes to starry eyed young apprentices who will surely be embellishing their accomplishments and ambitions."
+
+"Who says I am going to pick someone right then and there?” Ling Qi demanded. “I could very well consider and come back after the ceremony and parties to make my decision."
+
+Xia Lin stopped, turned to face her, and gave her an unimpressed look.
+
+“She's got you there, Qi.”
+
+"I could," Ling Qi insisted. "But I am, in fact, a very good judge of character."
+
+Xia Lin sighed. Ling Qi smirked. Hard to refute her accomplishments!
+
+"Let us go to the trade show. I do not want to be late and have to squeeze through the crowds to view the displays directly."
+
+"Oh, don't worry, it's just ahead over there," Ling Qi dismissed, pointing ahead.
+
+"Oh? Surprisingly plain. I passed over it."
+
+Out of the many oddly built and structured workshops in the district, the tradehouse was a simple two-tiered building. Its curved roof was composed of plain ochre tile, and the lanterns were a splotch of softer color among a riot. There were some benefits to not needing to build to the arcane specifications of different geomantic demands the way the craftworks did.
+
+Even from here, she could sense the chaotic clash of energies from within it, the products of many of those workshops filling the air with mixed and confusing energies.
+
+The fabric of her gown bunched at the shoulders, and she felt Qiyi's attention, so long turned inward, reaching into the market around her.
+
+Friends?
+
+Probably not for a long time, Ling Qi soothed.
+
+Sad… Yummies?
+
+That was more likely. Maybe she should find a bolt of qi-infused silk to buy. She'd feel guilty buying an actual dress, someone's work they had poured effort into, just to feed it to Qiyi.
+
+Entering the trade house, reception directed them to the rearmost showroom for the displays from apprentices, young crafters looking to move up and out and gain their first patrons.
+
+"Shall we part for now then? I believe we are looking for different avenues of investment," Xia Lin said.
+
+“Meet back by the entrance in an hour?"
+
+"Agreed," Xia Lin said, nodding crisply. She set off toward the metalworks displays.
+
+Ling Qi turned away, casting a curious eye over the crowd and the apprentices and their stands. She pulled her qi in, and slid between the press, easily fading from general notice.
+
+Time to see what opportunities were available.

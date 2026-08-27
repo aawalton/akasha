@@ -1,0 +1,99 @@
+---
+id: c796d485-0975-5625-812d-01ddda9651ca
+page-type-slug: story-chapter-royal-road
+title: "Threads 29-Siblings 3"
+slug: 0038-threads-29-siblings-3
+partOf: forge-of-destiny
+position: 38
+ownLength: 2194
+unit: words
+publishedAt: 2020-12-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/606423/threads-29-siblings-3"
+royalRoadId: "606423"
+---
+
+That night wouldn’t be the last time she tarried longer at home, Ling Qi promised herself, but for the moment, it would have to do. She would have to change some of her plans and half-formed schedules, but she believed that she could accomplish her goals and spend more time at tasks aside from cultivation. Her liege certainly managed, even if she was starting to strain under the workload.
+
+This reminded Ling Qi that she had never actually asked just what all that paperwork she so often saw Cai Renxiang going through was for or just what it was that took up so much of her time. When she had realized that on her way back up the mountain, Ling Qi felt briefly uncomfortable. Cai Renxiang had never offered to share the information, but Ling Qi had never really asked either. When she thought about it, their relationship was still pretty distant, wasn’t it?
+
+Unfortunately, Ling Qi would not have time to currently act on that realization. Not only was she moving to more advanced lessons under her senior brother in the Scouting Corps in preparation for live exercises next month, but also she had the first of her “tutoring” sessions with Bai Meizhen’s cousin scheduled for the afternoon after said scouting lessons and the evening was set out for cultivation. Plus, if she recalled correctly, Cai Renxiang was going to be busy herself for some time. Cai had taken up some sort of major sect duty, assisting the Core Disciple that had made Ling Qi’s gown with a project.
+
+It seemed that the slowing of cultivation with age was not just a matter of decaying talent and the nature of qi. Staying engaged with the people and the world around her was quite a time sink. Ling Qi couldn’t afford to just play hermit or space out and cultivate whenever it suited her anymore; she had to consider so many other things.
+
+Ling Qi was still contemplating that problem by the time afternoon had rolled around and the time for her first meeting with Bai Xiao Fen had arrived. In her letter confirming the tutoring, she had picked out a mostly barren spot a good distance from the Sect town. It was the site of a clearcutting; the Sect was overseeing an expansion of the fields around the settlement, it seemed. For the moment though, it remained empty, and so it was still good for her purposes.
+
+Ling Qi sat atop a small, stony hillock as she waited for her “junior sister” to arrive, idly playing a contemplative tune on her flute as her thoughts wandered. Sixiang hummed along in her head, and Hanyi was back at her sect lodgings soaking up argent qi at Ling Qi’s upgraded standard vent. Hanyi was frustrated; apparently, her transformation and breakthrough during the escape from Zeqing’s home had left her unable to use some of her channels properly, and it hadn’t cleared up yet. As for Zhengui…
+
+Ling Qi perked up as she felt Xiao Fen enter the range of her senses. The younger girl’s aura had not changed much since their last meeting three months ago, but she had advanced well into the mid stage of the second realm in both forms of cultivation. It was only a few moments later that she caught sight of Xiao Fen picking her way through the rolling stump-strewn landscape at a dignified pace.
+
+Xiao Fen had switched out the basic argent uniform for a new gown, black in color and simple in cut. The second layer of the gown shimmered silver, as did the trailing sash around her waist and the pins and ties in her hair. Like the threads of sharpened metal woven into her braids, Ling Qi could tell that the sash was a weapon too; she could see the faint gleam of needlepoints on its trailing hem.
+
+It seemed impractical, but then again, Ling Qi hit people with concentrated artistic expression, so who was she to judge?
+
+“Hello, Junior Sister!” she called cheerfully, lowering her flute and raising a hand to wave. Senior Brother Ruan was right; being able to say that was fun. “Come on up, and have a seat.”
+
+She watched as Bai Xiao Fen peered up at her from the bottom of the slope with narrowed eyes and then glanced around, seemingly unsettled by something. Ling Qi hid the grin that tried to surface as she stared down at the other girl.
+
+Xiao Fen gave their surroundings one last distrustful glance and then began to ascend the hill. “Greetings, Senior Sister Ling,” she replied with stiff formality. “Shall I assume this… site is a gift?”
+
+“Something like that,” Ling Qi said, keeping her expression straight. “How have you found the Outer Sect so far?”
+
+“Mildly stifling. This place is both too dry and too cold, and my simpering peers are an irritant,” Xiao Fen said, reaching the top of the hill. The girl glanced around briefly before finding a flat spot to kneel like a retainer at attention. Ling Qi raised an eyebrow, glancing down at her own informal seating on a raised boulder. Well, whatever made the girl comfortable.
+
+There was also that reply. “Are you alright, Junior Sister? I don’t really mind, but that is a little rude, isn’t it?”
+
+“Bai Meizhen has asked that I speak plainly in private with her and said that I should treat you with the same respect I do her.” Xiao Fen seemed to twitch uncomfortably at the admission.
+
+This girl was very literal, Ling Qi thought, bringing a pulse of amusement from Sixiang. “You know, it might not be my business, but what exactly is the relationship between you two?” Ling Qi found herself asking
+
+“I am here to serve her. Members of the Xiao branch are raised to devote themselves to a member of the main Bai house. It has been my honor to be selected so early for that duty,” Xiao Fen answered proudly, but Ling Qi could feel a seething ember of discontent at the core of her words. That was the real root of her problem with the Sect, Ling Qi suspected.
+
+Ling Qi had done a little studying on the Bai before this, so she had known the answer. Of course, the history she had read had couched the relationship in terms of a story about the eldest and youngest of the eight daughters of the Bai’s founder, Yao the Fisher. When the eight daughters of Bai had fallen to feuding and civil war, only the youngest sister had stuck with the eldest and supported her rightful claim to clan headship from the very start, and they had decided that their descendants should always be side by side.
+
+Ling Qi had felt that history didn’t seem like that was enough for the sense of honest devotion she got from Xiao Fen whenever Meizhen’s name came up. She had expected there to be something more between the two like their mothers being friends, or that they were childhood playmates, or… something.
+
+“It might not be my place to say, but if you really want to serve Meizhen well, duty won’t be enough, I think. There’s more to family than that.”
+
+Xiao Fen gave her a singularly unimpressed look. “You are right. It is not your place. Even if my cousin thinks so highly of you, what can you know…?”
+
+“I know Meizhen is a lonely person, and she closes others out easily,” Ling Qi interrupted bluntly, her aura stirring as she spoke. “I know that her mother is gone, and for whatever reason, she doesn’t interact much with her father. When our time in the Sect ends, she’s going to need someone to support her, and I’m not talking about cultivation or combat.”
+
+Xiao Fen stared at her for several long seconds, and Ling QI could practically see the twin motivations of pride in her clan and obedience to Meizhen’s words warring in her head. “I will take your advice into account, Senior Sister,” she finally said, her voice dull.
+
+“I’m not saying that your clan is wrong or mistaken, or even that you’re performing your role badly. I don’t even know you,” Ling Qi continued, hoping that she wasn’t speaking in vain. “Just think about why she asked you to speak plainly to her, you know? Meizhen needs friends more than she needs a servant.”
+
+Xiao Fen regarded her silently again, some of the indignation slipping away. “I understand your intentions, Senior Sister,” she said, briefly dipping her head.
+
+Ling Qi let out a sigh of relief and pressed on. “Any luck on following our advice?”
+
+Bai Xiao Fen looked faintly shamed. “There were several… setbacks. However, my current sparring partner did not crumble under the cultivation regime I set him after I informed him of our friendship. I believe I have acquired an acceptable friend.”
+
+Ling Qi stared at her blanky, but it was Sixiang who gave voice to her thoughts.
+
+“... There are so many things going on between those words, I’m not sure where to start,” the spirit said dryly.
+
+“That is… good,” Ling Qi said, trying to find a polite way to ask her question. “What is your friend like?” she finally settled on asking.
+
+Xiao Fen considered the question “Liu Xin is the son of a mortal cobbler from the Lower Rootways of Xiangmen before his talent was discovered. He is appropriately ruthless in combat, and neither cried when struck in the groin or other pain centers nor hesitated to attempt similar effective techniques on me.” Here, the younger girl paused again. “I find his wit and capacity for cutting retorts in the face of unearned pride amusing. He enjoys a light White Branch Tea.”
+
+Ling Qi took a deep breath in and then let it out. She wasn’t going to judge. Still, a commoner from the capital of Emerald Seas. She had to wonder what it was like in a place that had so much cultivator presence. “Well, I’m glad that’s coming along,” she said with a nod. “How are things with the other matter?”
+
+“My intelligence is somewhat limited given the division between first years and the older years, but it appears that Gan Guangli has organized a successful faction from the remains of your liege’s project. There is a lesser Jin scion among my peers, as well as several -” The younger girl faught down a sneer. “- ‘nobles’ from the Western Territories. The information I have so far is here.”
+
+Ling Qi accepted the tightly rolled scroll that the other girl offered, and upon drawing it into her ring, she drew a storage ring from between the layers of her gown. “Here. Lady Cai has put together dossiers on all the first year disciples from Emerald Seas and the plans to convince them to cooperate or stay on the sidelines. There is also a tidy supply of cultivation resources in here for Gan Guangli, as well as any lower realms he wants to dole them out to. You can tell him that she’ll have some talismans ready for next month too.”
+
+Xiao Fen nodded once sharply, accepting the ring. “I see. And our… tutoring?”
+
+“We can get started now,” Ling Qi said lightly before slapping the stone she was sitting on. “Up you go, little brother. Nap time is over.”
+
+Ling Qi very carefully did not grin or otherwise react to the quickly choked off shriek of surprise that rose from Xiao Fen’s lips as the entire hillock heaved upward, dust and stone falling away to reveal her little brother.
+
+Zhen slithered free of their shell to loom over the both of them. “Big Sister is cruel, making us wait so long, then accusing us of napping. I had to put up with foolish Gui’s humming for an hour.”
+
+“I’m only teasing. Thanks for playing along, little brother,” Ling Qi said lightly, resting her hand on Zhen’s burning hot scales. She glanced over at Xiao Fen, who was doing her best to look wholly unruffled. “Ah, right, Xiao Fen, this is Zhengui. He’s not a cultivation site, but he will be taking us to one.” She had cleared it with Gu Xiulan already, but the site that Gu Yanmei had shared with Xiulan last year was their destination.
+
+Xiao Fen shot her a look of frustrated irritation. “This Xiao Fen greets the honorable… Zhengui.” It looked like saying the name physically hurt her. Ling Qi thought that she really needed to lighten up. “Senior Sister, what are your plans?”
+
+“I thought I would follow Elder Jiao’s example,” Ling Qi mused as they began to move. They would get running soon, but for now, there was no point in returning Zhengui to her dantian. “So we’ll start with some hide and seek in the caves at the site, and then, I’ll assign you some tasks. It might not be my best skill anymore, but I am pretty good at stealth still.”
+
+Yes, inflicting Elder Jiao’s lessons on someone else, insofar as she could, would certainly be appropriate tutoring. After all, she was passing on the wisdom of a Sect elder!

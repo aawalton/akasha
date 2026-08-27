@@ -1,0 +1,175 @@
+---
+id: 0e9e09b5-c16c-5cb3-9919-12e5efa1055e
+page-type-slug: story-chapter-royal-road
+title: "Threads 399-Recovery 7"
+slug: 0443-threads-399-recovery-7
+partOf: forge-of-destiny
+position: 443
+ownLength: 2131
+unit: words
+publishedAt: 2024-09-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1795929/threads-399-recovery-7"
+royalRoadId: "1795929"
+---
+
+"Congratulations to all of you on your acceptance into the ranks of Snowblossom’s administration. The House of Cai has high expectations for your performance, no matter how small your role. To build on the very edge of civilization, each and every pair of hands must put forth their fullest efforts, and together with the efforts of your fellow inductees, work for the common good. This task will not be easy, but its rewards will be rich…"
+
+Once again, Ling Qi sat in her chair at the head of the larger of the two receiving rooms in her home on a raised platform, letting the formal words she had memorized roll out in a well practiced intonation. The last time this room had been used was when she had given out stones to the younger members of the household to test their cultivation. Hanyi stood beside her, looking prim with her chin up and her hands hidden in her wide sleeves.
+
+A rich, dark blue carpet ran from the far end where she was to the door, and on it, the interviewees knelt in four neat rows, arranged by the rank of the position they had been accepted for. Right now, their fief did not have the ability or need to support entire local ministries, so these officials were all relatively low ranks, but as Snowblossom grew, those who had come now at its beginning would be well positioned for opportunity.
+
+The speech she gave ran its course, but Ling Qi was not done. In the beat of silence after, she observed them all. None of those sent to her had been truly malicious or incompetent, but these were the ones she felt had both a drive and a reason to thrive where they were going.
+
+"More than anything else I have said, think of your families and kin and of those you support. It is your efforts together which will make this fief a place for them as well. No one cultivator may perform all duties themselves. It is only through the harmonious efforts of everyone, from Lady Cai down to the lowest ranked clerk, that bureaucracy may be made to run with the precision needed to make this place we are building great. Take pride and be humble both. We build a home which is for all of us."
+
+Heads bowed, and voices rang out in practiced unison. "Yes Baroness Ling!"
+
+At her gesture, they rose to receive their assignment and rank.
+
+"You have three days left in White Cloud Town. At that time, be prepared at the southern gates, so that you may join the caravan south. Dismissed."
+
+Ah, she really wasn't cut out for this sort of thing, was she?
+
+As the ceremony concluded and the last of the officials left the room, Ling Qi allowed her shoulders to slump, reclining in her chair as Hanyi poured her a cup of tea. She didn't even try to reach for the cup herself, simply letting Hanyi raise it to her lips for her to blow on and sip.
+
+She cracked one eye open as she finished, eyeing the open door.
+
+"It is not like you to skulk, Xia Lin."
+
+"I was doing nothing of the sort. It is merely polite to wait until you are invited in."
+
+"Well, consider yourself invited. You came out ahead of the main caravan?"
+
+Xia Lin stepped into view from where she had been waiting beside the doorway. "It is currently traveling through the sect lands. My guardianship is unneeded in this last leg."
+
+The other girl wasn't in her armor, which was unusual, but it was still a boyish get up. She wore a loose silk shirt and snug cloth pants, probably meant to be worn under riding leathers. It was a little too free in Ling Qi’s opinion. The other girl's chest wrap peeked out under the open laces at the shirt’s collar. Metal still gleamed at the girl’s wrists and neck in the form of steel bracelets and a snug choker…
+
+Ah, yes, that made sense. She didn't know that the White Plumes armor could be made to retract like that. Perhaps it was a new function Xia Lin had recently mastered. It did feel like the other girl’s cultivation had grown.
+
+And didn't that relight the hot ember a month's convalescence had left her with, despite her every effort to relax?
+
+"I assume my mother greeted you?"
+
+"Of course. Your hospitality was not flawed at all. I am merely here for you."
+
+"It is about time for tea and a bite to eat. Hanyi, will you get me moving please?"
+
+"Got it, Big Sis! Dining room?"
+
+"Yes please. I don't think you object to that, Xia Lin?"
+
+"No."
+
+***
+
+"My compliments to your cook. Simple flavor, but satisfying," Xia Lin praised. The last of the spiced wheat cakes that had been set out for her had disappeared but a moment ago.
+
+"I'm sure she will be happy you enjoyed such a simple dish. It is better with the ground ice peppers sprinkled on, isn't it?" Ling Qi asked.
+
+Wheat was always cheap, even in Tonghou, but the spices people used to flavor it were less so.
+
+"I might prefer a meat filling. With beef filling, the topping need not be so strong though. In that case, it would interfere with the richness of the meat," Xia Lin replied seriously.
+
+"Agree to disagree. I prefer mine light and crisp with a sharp burst of flavor from the spice."
+
+"That is because you are more air than meat already."
+
+Ling Qi stared, then let out a laugh. "Xia Lin, just how rude do you intend to be to your host?"
+
+"Nah, it's a compliment, Big Sis," Hanyi disagreed. “An elegant lady should hardly weigh anything at all!" The winter spirit was still nibbling at her cake. Since she only ate human food for flavor, Hanyi usually ate very slowly.
+
+"As you like." Xia Lin leaned back in her chair. "Construction and garrisoning are going well."
+
+"Are they?"
+
+"Indeed. The garrisons at the summit grounds are beginning to settle well. The construction at Snowblossom is progressing. All is well."
+
+Ling Qi closed her eyes briefly. "And you?"
+
+"You refer to my infection?"
+
+"Yes."
+
+"I have been screened. There are no lingering effects."
+
+"I'm glad, though you know what I meant."
+
+Xia Lin was silent for a moment. "You made the correct tactical decision. That said, I would have preferred it not be necessary, and I wrung an oath from that… ape."
+
+"For what it is worth, I judge him the kind to keep it."
+
+"That does have value, but I would also prefer to leave this incident in the past. I bear you no grudge."
+
+Another might wonder if Xia Lin was merely saying the correct words. But no, that girl really didn't see it as anything more than a tactical choice. Xia Lin would have chosen the same if presented with the same options. It was a mindset that was at once easy to see, but difficult for her to truly understand.
+
+"Nonetheless, I thank you for your devotion to your duty," Ling Qi said.
+
+"Lady Cai has done the same. Let it be left at that."
+
+Ling Qi dipped her head and changed the subject. "So I heard you were the one who chose to stand for the more naturalistic shape of our town's governing manor?"
+
+"It seemed best to begin with it as the foundation. Building into and beneath the waterfall is inevitable, and the geomancer you intend to bring in is already familiar with that type of construction style. In addition, the raw mountain rock already defends physically from the south side, whereas I have seen the effectiveness of mist formations in dispersing the lightning strikes of cloud tribe shamans."
+
+"Ah, it was purely a practical consideration then?" Ling Qi wondered. She wasn't sure she bought that.
+
+"... I do find it more aesthetically pleasing," Xia Lin admitted with a harrumph after holding Ling Qi's gaze for almost a solid minute. "Honestly, I do understand the value of aesthetics. It has important effects on civilian morale, and long term military morale as well."
+
+"You say it so twisty like,” Hanyi complained. “You can just say you think the mist and waterfalls are pretty."
+
+Xia Lin wrinkled her nose at the spirit. "I am explaining my reasoning. There is nothing 'twisty' about it. Merely calling it pretty would be imprecise."
+
+"I mean, I guess?" Hanyi replied dubiously.
+
+Ling Qi covered her mouth with her hand and rejoined the conversation. "I understand. For what it is worth, I agree with your assessment. The Wang style is solid, but it will be more well suited to expanding into and up along the cliff as we go along. If we are careful with the formations, even mortals will enjoy the spectacle."
+
+"Indeed. I understand that the formations can be controlled. There may be times when we wish the night sky to be blocked, but others when we wish to allow our citizens a proper view of heaven's vault," Xia Lin agreed fervently. "I look forward to seeing it complete."
+
+"Is it not complete?" Ling Qi asked. "Lady Cai's letter indicated she expected work to be done by month’s end."
+
+"This stage is. A well fortified manse has been built under the falling waters, channeling them outward into the lake and cloaking itself in mist. However, we both know that this is only the beginning."
+
+"True. I wonder if the initial manor will be torn down eventually, or perhaps made into a gatehouse once we expand further."
+
+"I cannot say, but I am looking forward to seeing where and how it grows. Before we continue on this topic, I do have an official purpose here as well."
+
+"Oh? Do tell." Ling Qi rapped her knuckles once on the table, and Hanyi moved to pour her a new cup of tea.
+
+Xia Lin’s lips curled up in an amused smirk. "Lady Cai intends a formal visit to your household in two months’ time to present merits and convey her gratitude for your leal service to the Cai clan."
+
+"Ah…" There was a difference between private words of praise and an official presentation. Ling Qi supposed this was only to be expected. "Oh. Mother is going to tear out her hair."
+
+"Lady Cai wished to ensure you had time to properly prepare."
+
+"And I thank her for her consideration. I don't suppose either you or Guangli have the same coming."
+
+"We do.” Xia Lin sipped her tea. “I am unbothered by it, but I know you like to fret." X
+
+"You are surprisingly vindictive."
+
+"I have no idea what you are talking about."
+
+Ling Qi sighed. There was nothing to it. She could hardly refuse her liege’s official commendation. She was simply going to have to find a way to explain this to Mother that did not induce a panic attack in the older woman.
+
+"What's wrong? Your boss is just coming by to say how awesome you are, but like, formal, right?" Hanyi asked guilelessly.
+
+"Yes, I suppose she is," Ling Qi said. "Well, thank you for delivering the news, Xia Lin. Let’s return to the Snowblossom topic. Do you know what the plans are going forward?"
+
+"Designs have been presented for a palisade wall around the manor and the central settlement zone… Of course, we have less need for this  than a normal new settlement might given the number of third realm cultivators we have available for the settlement defense."
+
+"Right, Lady Cai is super scary, and Big Sis and the rest of us will be back soon!" Hanyi puffed her chest out.
+
+"A fair point, but I do like to stay on top of security. I suppose the only other goal is to gain a full settlement charter now that we can point to a town center. I believe we need a certain amount of permanent housing as well as getting the paperwork done?" Ling Qi wondered.
+
+"Correct. The other major projects under consideration are a broad divination effort following the leylines your brother has activated to prospect for ores and stone and improvements around the fishery and the lake."
+
+Ling Qi grimaced. "You need me for the last one. It would be difficult for me to accomplish that right now."
+
+"You are functionally our high priestess of the lake," Xia Lin agreed.
+
+Ling Qi made a distressed face. "Don't call me that. It feels like I should be old and gray with that title. I am just a humble diplomat."
+
+"As you like." Xia Lin shrugged. "Is there another course coming?"
+
+"There can be." Ling Qi reached for the service bell.
+
+Despite her recovery still crawling along, life did not slow down.

@@ -1,0 +1,183 @@
+---
+id: 26ae59f0-4e1a-5cd8-98e0-2653915e940b
+page-type-slug: story-chapter-royal-road
+title: "Threads 134-After Action 3"
+slug: 0162-threads-134-after-action-3
+partOf: forge-of-destiny
+position: 162
+ownLength: 2378
+unit: words
+publishedAt: 2021-09-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/756734/threads-134-after-action-3"
+royalRoadId: "756734"
+---
+
+Ling Qi closed her eyes as she caught her breath. The dirt of the training field was warm under her feet, and the crackle of the small fires and patches of ice throughout the field loud in her ears. She was no Gan Guangli, but there was a certain peace in physical exertion, a comforting simplicity to it.
+
+“Ho, there! That last attack wasn’t too much, right, Miss Ling?” Wang Chao’s voice boomed in her ears.
+
+Ling Qi smiled, idly brushing dust from her gown. She stood at the bottom of a crater with the fading ripples of black lake water fading around her in the air. Zhengui stood beside her, ash streaming from both of his mouths. “Not at all, Sir Wang!” she called to the top.
+
+“The growth of your resilience is nothing short of absurd!” Wang Chao called back down, tapping the butt of his spear against the dirt. “I don’t think any here will doubt tales of your exploits!”
+
+“Hmph. Who would dare call the sister of I, Zhen, a liar?” her little brother scoffed.
+
+Ling Qi chuckled as the smoke and ash rising from the dirt under their feet began to form back into the wispy figures of dancers. The world blurred into a smear of conflicting color, and she stood on level ground once more, Zhengui beside her.
+
+There were more people at the training field than there had been last month. Ling Qi recognized some of the new faces, people who had been in the caldera with them. Others had been brought along by those disciples. Ling Qi smiled politely to those looking their way.
+
+“Hah, few enough,” Wang Chao laughed, resting the haft of his spear on his shoulder.
+
+“Let’s not worry about rats in the corners during fun occasions, Sir Wang,” Ling Qi said dismissively. “I hope you received some insights during our spar.”
+
+Wang Chao nodded agreeably. He was honestly not a complicated guy. Ling Qi wouldn’t call him a friend, but she didn’t dislike him either. “Your growth is a bit daunting, Miss Ling. To think that you have already reached the threshold stage of green.” He shook his head, looking frustrated. “Perhaps I need to seek permission from the family to take on more dangerous sect duties as well!”
+
+“I am sure the Sect would appreciate it,” Ling Qi said, resting her hand on Gui’s blunt snout. She couldn’t bring herself to recommend it though. The image of the list in the medicine hall flashed through her thoughts. “I think you are making good progress toward bronze formation.”
+
+“Sparring you does offer some insights,” Wang Chao said thoughtfully. “How does one break through the surface of a lake when the waters only close behind your strike?”
+
+There were plenty of pithy replies, but Ling Qi could recognize the tinge of internal philosophical dilemma.
+
+“Gui thinks Mister Avalanche is doing good at trying,” Gui said helpfully.
+
+“Ha, perhaps,” Wang Chao said. “In any case, do you care for another round, Miss Ling?”
+
+Ling Qi glanced up at the sun, noting its position, and put on an apologetic smile. “Not today, I’m afraid. I have an appointment with Core Disciple Lin about a talisman commission.”
+
+When she had returned from the court to find that man's seal stamped on her request, she hadn’t been surprised.
+
+Wang Chao’s eyebrows rose. “Well, don’t let me keep you then!”
+
+***
+
+On the path leading up to Lin Hai’s home and workshop, Ling Qi stopped and blinked in surprise.
+
+“Looks like Mr. Tailor double-booked your appointment,” Sixiang said in amusement.
+
+There, on the porch which surrounded the main building, stood Li Suyin and Su Ling, the latter of whom stood with her arms crossed, looking suspiciously at everything around her.
+
+“Ling Qi?” asked Li Suyin. “What are you doing here?”
+
+“I have an appointment,” Ling Qi replied. “What about you? I’m surprised that you would be commissioning a talisman, Li Suyin.”
+
+Her friend liked making her own things.
+
+“She’s getting a reward,” Su Ling grunted, tapping her foot as Ling Qi mounted the stairs to join them on the porch.
+
+“Really, it’s too much taking time from such an esteemed craftsman when I am not even spending my contribution points,” Li Suyin mumbled, plucking nervously at her gown.
+
+“Oh come off it, Suyin,” Su Ling replied, rolling her eyes. “You’re the one that kept the activation ceremony going for the formations in that underground base after the elder and the core disciples got dragged into a fight.”
+
+Ling Qi’s eyebrows rose as she turned to look at Suyin, whose fidgeting only got worse. “Suyin?”
+
+“I was just the one who happened to be there,” Li Suyin protested. “I was only following Elder Jiao’s instructions. Anyone could have done the same.”
+
+She yelped as Ling Qi rapped her knuckles against the top of the girl’s head. “Quit that,” Ling Qi said. “I thought you’d moved past that kind of false modesty, Suyin.”
+
+“That’s what I told her,” Su Ling grumbled, eyeing the doorway.
+
+“It’s just too much,” Li Suyin murmured. “There were so many other stronger, more experienced disciples about. And… so many didn’t make it when someone like me did.”
+
+Ling Qi’s expression softened. She knew that Suyin hadn’t really seen a fight like that before or its consequences. “Even so, saying you don’t deserve a reward at all is too much, Suyin.”
+
+“It’s not just the talisman,” Li Suyin said glumly.
+
+“She’s getting promoted into the upper five hundred,” Su Ling disclosed. “Can’t think of anyone who deserves it more.”
+
+Li Suyin made a face at her. It seemed that they had repeated this conversation several times already.
+
+Before Ling Qi could reply further however, the door of the workshop slid open.
+
+“Master Lin will see you now.” Ling Qi’s eyes fixed on the figure in the doorway as they spoke. She had glimpsed them before last time she had been here. The spirit, who wore the shape of a curvaceous woman, had an air of deliberate dishevelment, her golden hair mussed and one side of her pale pink gown hanging carelessly off of her shoulders, revealing a darker red underlayer. Five fluffy golden tails waved lazily in the air behind her.
+
+Su Ling was glaring again. The spirit didn’t even glance at her.
+
+Ling Qi bowed her head politely to the fox spirit. “Thank you, Miss. Is Sir Lin going to deal with both of us at once, or should I wait?”
+
+“Master Lin will see you both,” the fox spoke over her shoulder. She was already turning to lead them back inside.
+
+Ling Qi shot Su Ling a quelling look, and the girl huffed. Li Suyin gave Su Ling a concerned look but hurried to follow as Ling Qi followed the spirit inside.
+
+“I do not think I received your name at my last visit,” Ling Qi said politely. She glanced around at the darkened halls; it seemed the layout of the building had changed.
+
+“You may call this one Luli,” said the fox, not looking back. “It is as good a name as any for this one to wear.”
+
+“Tch, can’t even give a straight answer to that,” Su Ling grumbled under her breath.
+
+The woman’s gold furred ears flicked irritably. “Do not concern yourself, little nightkin. You are certainly no kin to the children of dawn. It would please this one if we could exist in mutual silence.”
+
+Su Ling almost missed a step, but she just grunted and looked away when Li Suyin rested a hand on her shoulder.
+
+The rest of the trip through the halls passed without words.
+
+Soon, they reached a room that Ling Qi found familiar, the wide chamber with the sliding doors at the rear. Luli vanished in a whirl of sunlight motes as they entered, leaving her friends looking around the room, searching for their host. Ling Qi remained quiet. She wasn’t going to ruin Lin Hai’s fun.
+
+She had her grin behind her hand when the doors at the rear of the room jumped open with a bang and her friends startled. Four beams of prismatic light shot forth from the dark interior, rays of light dancing across the room, and thick and colorful fog poured across the floor. The beams swept back, and they lit upon the figure in the center, casting him in stark relief.
+
+Lin Hai stood there, one hand thrown out, the other splayed open in front of his face. He wore an open-chested tunic of crimson silk split down to his navel to show off his slim chest, and a feathery black pibo wrapped around his shoulders, floating on unseen winds. He was also, fortunately, wearing much less tight pants, instead going for flowing silk that flared widely about his ankles and pointed slippers.
+
+“Greetings to you, O seekers of beauty!” said the flamboyant man, lowering his hand to show his grinning face. He had a bit of color to his lips this time. “Lin Hai, Weaver of the Dawn, welcomes you to his sanctum!”
+
+<I wonder if I could pull off something like that,> Sixiang mused.
+
+Ling Qi brought her hands together, applauding as her friends stared blankly at Lin Hai. “It is good to see you again, Senior Brother Lin.”
+
+Li Suyin managed to bow as her brain caught up. “S-Senior Brother Lin, it is an honor to be allowed to make use of your time.”
+
+Su Ling’s face was still blank. It was the same sort of face she wore when Ling Qi invited her to do things.
+
+Lin Hai chuckled, brushing the blue frosted tips of his hair out of his eyes as the light and fog faded away and more normal lighting filled the room. “No, no, it is always the honor of the craftsman to perform his work,” he reprimanded lightly. “Raise your head, young lady. I’ll have no bowing and scraping here.”
+
+“Ah, as you say, Senior Brother,” Li Suyin said, raising her head. She was trying so hard to retain her composure, but Ling Qi could tell that she was having a hard time categorizing Lin Hai. “Um, how precisely are we going to handle…”
+
+Lin Hai blurred, his silhouette stretching before snapping apart into two separate but identical figures. He raised a carefully manicured eyebrow.
+
+“Try to relax a little.” Ling Qi nudged her friend’s shoulder before starting after the simulacrum on the left.
+
+Su Ling shot her an unamused look as she followed after the still fidgety Li Suyin.
+
+“What a good girl that one is,” Lin Hai mused as she fell in step beside him and they moved into his workshop. Skeins of cloth and tools were arranged on the tables.
+
+“Too good, sometimes.” Ling Qi sighed.
+
+“Hm, hmm, no such thing, I think,” Lin Hai said. “It seems I must congratulate you, Young Miss. You held up quite well under your first experience at court.”
+
+“Did I?” Ling Qi asked. She remembered barely being able to keep her composure under the Duchess’ scrutiny.
+
+“You did, or so I have heard,” Lin Hai reassured her. “It is not easy to deal with Master’s interest, and you certainly gave her an opportunity.”
+
+Ling Qi still wasn’t sure how she felt about the Duchess having entered into a deal with the shishigui. Negotiating with barbarians was one thing, but monsters like that…
+
+“Our clothes and finery are most important, Young Miss. They show the world what we wish to be, but it is not good to forget that more lies beneath,” Lin Hai said.
+
+Ling Qi blinked at the non sequitur.
+
+<He’s reminding you not to get too caught up in appearances,> Sixiang whispered, and Ling Qi found a memory of a disturbingly mundane town deep beneath the earth intruding into her thoughts.
+
+“Still, while your words pleased many, it has not pleased the Sect,” Lin Hai warned. “I understand your reasoning. First impressions are so terribly important, and if these foreigners of yours had been reported by the Sect’s messengers first, things may not have gone so smoothly.”
+
+“Do you think I’m being foolish or naive?” Ling Qi asked. She had been trying not to think about it much yet, but the Duchess had put a great deal on her shoulders with this assignment. If she was wrong…
+
+“I think it costs us little to try, save for pride,” Lin Hai answered. “And the Empire certainly has a surplus of that.”
+
+Ling Qi laughed at that.
+
+“Now, Young Miss, what sort of piece are you looking to commission today?” Lin Hai asked as they arrived at a part of the workshop filled with jeweler’s tools.
+
+“It looks like you already have an idea,” Ling Qi said wryly. “But I was thinking, some earrings, maybe?”
+
+Lin Hai eyed her critically. “Hm, hm, I see some designs. Silver, naturally, or mayhap, platinum. Sapphire for highlights…” The designer trailed off and shook his head, but she could still see his mind working behind his eyes. “And the desired effect?”
+
+“Sense enhancement,” Ling Qi replied immediately. She still remembered those dancers, still so easily able to slip out of her sight. She disliked being on the receiving end of that.
+
+“Simple enough then,” Lin Hai said. Clapping his hands, tools, jewels, and flasks filled with liquid metals began to float off the shelves, and tables started to whirl around the craftsman.
+
+“Take a seat here, if you would.” Lin Hai pointed to a softly padded stool.
+
+Ling Qi took her seat and held still as tools began to take measurements of her ears and around her head. “Senior Brother Lin, do you think there is anything I can do to prepare?” She honestly had no idea how she was going to handle this upcoming expedition.
+
+“You must sew your own success here,” Lin Hai advised, “for it is your project, but… perhaps you should seek out those who have knowledge of dealings with foreigners? They do exist, here and there.”
+
+Ling Qi recalled her conversation with Cai Renxiang when they had been hashing out her speech to the court. Hadn’t she mentioned that the Xuan dealt with foreigners? Xuan Shi certainly seemed like the sort to be interested in that sort of thing.
+
+Well, that was an idea.

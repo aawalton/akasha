@@ -1,0 +1,99 @@
+---
+id: 1d9ebcc5-e061-5810-a279-c2bb2312263c
+page-type-slug: story-chapter-royal-road
+title: "Threads 181-Dawn 4"
+slug: 0213-threads-181-dawn-4
+partOf: forge-of-destiny
+position: 213
+ownLength: 1659
+unit: words
+publishedAt: 2022-02-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/838105/threads-181-dawn-4"
+royalRoadId: "838105"
+---
+
+Points of light winked and sparkled, circling above the garden pond and over the low walls that surrounded their property. The dampness remaining in the air and the qi exhaled from her lungs left a thin mist crawling along the muddy ground of the storm-wracked garden. The gravel paths were still visible though, and the decorative boulders remained in their places, giving Ling Qi a place to sit as she channeled the energies of the Roaming Moon’s Eye art.
+
+Of her arts, it was one which she focused on often. It was useful and not particularly flashy, but she used it whenever she needed to search for something, channeling qi to her eyes and ears in the patterns she had learned from its lessons. The wisps gave her the ability to analyze her surroundings more quickly and effectively, and now and again, when she needed to look for something far away, the Viewing Pool was available wherever she could find a pool of water.
+
+Now, of course, she had a talisman to assist with that. It was one of many reasons she had to further study the art now that she had time.
+
+<There’s more to that thing than just an amplifier,> Sixiang thought. <At least we have plenty of time to tinker with it.>
+
+They did, and Ling Qi was looking forward to it, if only because it would make a fun project to work on with Sixiang.
+
+<Aw, quit it. You’re making me blush,> the muse jested.
+
+Ling Qi breathed out scattering sparks of silver qi across the ruined garden as she cleared her mind and returned to her cultivation. In truth, she had already mastered most of the secrets of this art. What remained were refinements, learning to achieve a higher clarity in her scrying, letting the wisps zip faster and further through air and shadow. With the insights she had gleaned from watching Meng Dan at his work, those things came to her easily enough. She thought it likely that she would complete the art very soon, and then, she could start on modifying the art.
+
+But, that was something to think about later. Ling Qi opened her eyes, pushing the views sent to her mind by the whirling wisps to the back of her mind. Her mother sat on the iron bench below, a warmed mat between her and the cold metal, eyes were closed in concentration.
+
+Over the past year, her mother had persevered with her exercise, helped greatly by the movements taught by the cultivation art she had picked from the archive of lower realm arts gifted to Ling Qi by the Cai. The rough exercises Guan Zhou had designed for young and vigorous mortals was less effective for her mother than the gentler movements that the art had taught.
+
+Her mother’s condition had improved greatly since she had started practicing it in the garden. Now though, she had just one final step to fully awaken, having already awakened spiritually, and that was to begin weaving and layering qi into bone and muscle. Ling Qi remembered finishing this exercise in a short time, swiftly locking into place the foundations which would allow her to continue improving her body beyond mortal limits.
+
+Ling Qingge was far slower. According to her mother, she had been at this for most of the month, and still, Ling Qi could see how slowly and haltingly her mother wove the strands of spiritual energy which irregularly emerged from her tarnished dantian. There was a wavering uncertainty to the efforts even after Ling Qi had tried to give her instruction.
+
+Despite that though, she could tell that her mother was soon to reach the threshold. One wisp and then another drew back in lazily circling the bench where her mother sat, sharpening Ling Qi’s focus on the tentative movement of her mother’s qi. This was the first time she had watched someone else achieve the gold physique. She had thought when she first began to make regular use of her spiritual senses that mortals resembled phantoms. Their spirits were pale shades, and they seemed almost unreal in that sense compared to cultivators who burned so brightly.
+
+She had learned better, and thus, kept herself grounded. Though mortals did not shine brightly, if one bothered to look, they still had all the complexity to their spirit that a cultivator did, just more muddled. But all the same, she couldn’t claim that it wasn’t gratifying to see her frail, mortal mother beginning to shine just a little bit brighter.
+
+Completion came suddenly like a hazy image snapping into focus, and the weave of qi layered into bone and flesh thrummed with what Ling Qi recognized as the satisfaction and mild euphoria that came with awakening. The power her mother had attained was small, but qi now cushioned and supported flesh. It would hold back the wear and tear of time and atrophy, and it would enhance the memory of muscle and mind alike.
+
+Even if mortals were still people and deserved to be thought of as such, that did not change the fact that they were so fragile and fleeting. Now, her mother was a little less so.
+
+Ling Qi was beside her mother in an instant, wrapping her arm around the older woman’s shoulders as Ling Qingge’s eyes shot open and she sucked in a gasping breath.
+
+“It’s a good feeling, isn’t it?” Ling Qi asked lightly, gazing up at the stars above.
+
+“It is,” her mother murmured, staring down at her own hands as if she could hardly recognize them. The lines of stress and hard days still marked her face, but Ling Qi hoped that there would be no new ones for a while now.
+
+<Unless you give her more in the next few minutes.> Sixiang’s jab was playful but also purposeful. Ling Qi ducked her head slightly in acknowledgement. She had put things off for long enough.
+
+“So, now that you have the energy for it. I think I need to tell you about some things,” Ling Qi said.
+
+“I knew that there were more serious issues on your journey,” her mother replied, opening and closing her hands.
+
+“What gave me away?” Ling Qi asked.
+
+“Nothing.” Ling Qingge let her eyes drift shut. “But even one such as I can recognize a pattern when it is repeated often enough.”
+
+Ling Qi stared blankly. Had her mother just …?
+
+Sixiang let out an audible snort of laughter. Ling Qi grimaced. Fair enough.
+
+***​
+
+“You do not commit yourself to half measures, do you, Ling Qi?” Her mother broke the silence that had fallen after she finished explaining the choices she had made and what the Duchess now expected of them.
+
+“I can’t, if I want to keep climbing,” Ling Qi replied, leaning against the back of the bench.
+
+“And you must keep climbing,” Ling Qingge said. Ling Qi wasn’t sure if it was meant to be a question or not.
+
+She chose to treat it as one. “I’m still ignorant about a lot of things, but I do know you need power before you can have anything else. You know where a person stands when they’re powerless, Mother.”
+
+Her mother gazed up at the unclouded stars beside her. When she did reply, it was only a single word. “Yes.”
+
+“None of us, not myself or you or Biyu or anyone else who comes after, should have to deal with that again,” Ling Qi said thoughtfully, entwining her fingers in her lap. Above their heads, the upward facing crescent of the moon shone pale on the town. “I’m still not sure what I’m supposed to do with that power, but Lady Renxiang, even if she stumbles sometimes, she does know. So I want to support her. And… I think less war can only be good. So until I figure out the more complicated stuff, this is what I can do.”
+
+In the end, she had given her support to the decision for personal, selfish reasons. She did not want war in the south of the province for any longer than necessary because she wanted to secure a place of peace and safety for her family. And although they had only spoken for a short time, she didn’t really want to fight Jaromila. Her people were just an extension of that.
+
+The more cynical part of her said that such feelings were probably the point of their little meeting. However, even if that might be the motive, much of it was the simple fact that it was harder to think of someone who had shared warm drinks with her in a comfortable sitting room as a faceless thing to be fought.
+
+“I only worry that you run ahead so quickly that you will inevitably trip,” Ling Qingge said. “But I must trust you. What does this mean for us?”
+
+“In the short term, little,” Ling Qi said. “In the coming year, we will have to survey the lands we are assigned and find a place to settle. I’ll be away more often, but I’ll be back often too. Once we have a site ready to move people too… That’s when things will change for you.”
+
+“You will bankrupt your lady on security measures, I am sure.” Her mother smiled wanly.
+
+“... Maybe not bankrupt,” Ling Qi muttered.
+
+Things kept changing from one day to the next, Ling Qi thought.
+
+“We should head inside. You’re not quite immune to catching the chills yet, Mother,” Ling Qi said. “I think we could both use some warm tea.”
+
+“I suppose, yet I do not feel as if I will be able to sleep either,” Ling Qingge said.
+
+“I will teach you how to control that later.” Ling Qi stood up and offered her mother a hand. “Perhaps we could compose until everyone wakes up.”
+
+She was glad to be home for now. She had so many people to catch up with still though.

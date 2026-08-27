@@ -1,0 +1,103 @@
+---
+id: b7d6275f-593c-5c05-83de-c9614bb9081e
+page-type-slug: story-chapter-royal-road
+title: "Smelting 2"
+slug: 0002-smelting-2
+partOf: forge-of-destiny
+position: 2
+ownLength: 3483
+unit: words
+publishedAt: 2018-10-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/301450/smelting-2"
+royalRoadId: "301450"
+---
+
+As it turned out, Dong Fu was correct. The signs were quite clear. Only a handful of other silver robed youths remained in the wide open entrance hall as she entered, and none of them paid her any more than a passing glance.
+
+The rear wall of the entrance hall was taken up by a massive board of ebony wood. A banner was strung up on the board, clearly delineating directions for new disciples. The spotlessly clean wooden interior of the building was honestly a little unsettling. It was unnatural; the floor was so polished that it was practically a mirror, and she couldn’t see a single scuff or mark anywhere, let alone a speck of dust.
+
+She couldn’t give that too much thought, however, because she was one of the last ones in. As she arrived at the sliding doors marking the entrance to hall one, she could hear the murmur of a large number of people speaking quietly within.
+
+Peering inside, she could see that the large room was built with a series of long desks placed on descending tiers, broken up by shallow steps going down to the pit where the lecturer’s podium stood. The desks were almost completely full, and as she stepped inside, Ling Qi caught more than one curious, dismissive, or assessing look from the crowd of chattering fourteen year olds already present. It made her hackles rise; the feeling of condescending dismissal was an almost physical thing.Giving herself a shake, she forced herself to ignore it and search for empty seats.
+
+The most obvious and first to draw her eye was a whole section which lay empty centered on a pale girl. The girl had snow white hair that fell freely down to the middle of her back and was everything Ling Qi was not: petite and dainty with almost supernaturally pale skin. She was whispering into the sleeve of her uniform, which had been personalized with a scale-like pattern in the embroidery. She seemed to be paying very little attention to her surroundings, yet she sat alone in an otherwise packed room.The girl raised her head then, looking toward Ling Qi. Ling Qi felt her blood run cold for as she saw the other girl’s eyes, golden and slit pupiled. A shudder of animalistic fear rippled up her spine. The moment ended when the other girl broke eye contact and returned her attention to a bright green snake which had just poked its head out of her sleeve.What was that? She had felt like a mouse in front of a serpent, yet the girl’s expression hadn’t even been hostile nor condescending, just indifferent.
+
+Ling Qi quickly turned her attention to the other possible seats. There was another girl who had a seat open next to her. She was leanly muscled with sun-darkened skin and bright red hair woven into a single braid. The splash of color stood out amidst the rest of the room.
+
+Strangely, she was wearing a partial boys uniform: a pair of baggy pants rather than a robe and a silken sleeveless shirt. Ling Qi might have thought her a feminine boy if not for how… stretched the shirt she wore was. Unlike the others, who were seated with meticulous posture, she sat with her feet propped on the desk in front of her and a bored expression on her face. Her gaze briefly flickered Ling Qi's way before the laid back girl seemed to dismiss her as unimportant.Further down, there was an open seat adjacent to the steps next to a tall boy, tall enough that she wouldn’t be looking down at him if they stood face to face. He was… well, a little handsome Ling Qi could admit, in the classical way, with noble features and good proportions. But not girlish, the way some nobles and wealthy sorts could get.
+
+Mainly, her attention was drawn by the gold furred tiger cub curled up on top of his head. She stared for a moment, but no one else seemed to think it odd. When he noticed her look, the boy gave her a friendly smile and a slight nod that made the cub on his head growl unhappily.The last available seat was in the room’s far corner next to a short young man with with shaggy brown hair and a rather nasty burn scar extending across his right cheek, down his neck, and under his shirt. It was quite ugly, and it took a moment to pull her eyes from the scar to look at the rest of him. He was of middling height and compact build. Just from a glance, she would guess him to be one of the few others in this room to be of the same… social class as her. He certainly looked as out of place and uncomfortable as she felt.
+
+When he met her eyes, his gaze was measuring and wary. Her eyes skittered away immediately. He reminded her too much of Tonghou, and wasn’t she going to leave that behind?
+
+Ling Qi glanced between the open seats, but in the end, the choice was obvious. Dong Fu’s advice still echoed in her ears, and… if she was honest with herself, she wanted to follow it.
+
+It came down to loneliness in the end. If there was one thing Ling Qi’s effort to remain unconstrained had failed to give her, it was friends. Given Mother’s occupation, that pool had always been limited to begin with and living as she had for the last four years had not allowed her to spend a long time in anyone’s company.With that in mind, she chose the option that at least seemed friendly. She began to make her way down the stairs toward the handsome boy with the tiger cub at a sedate pace. Even if his friendliness was a facade, it was better than indifference or hostility.
+
+That seemed to trigger most of those who had been looking at her askance to go back to their own conversations. Now that she had the opportunity to study them, Ling Qi could see that there seemed to be several cliques among those seated here. She was no socialialite, but she could see that there was no room for someone like her there.
+
+As she came to a stop next to the desk where the boy was seated, she did her best to put her doubts and worries aside, but it was a difficult thing.
+
+“D’you mind if I sit here?” The words escaped her before she could really think about it, and she clenched her fists under her sleeves. She had been trying to remember to speak formally, but it wasn’t something that came naturally to her anymore. Now he was going to think she was…“Sure thing.” His laid back words cut off her internal panic. The boy shifted in his seat, moving over a bit to give her more room. The easy smile he gave her absolutely did not make her heartbeat speed up.
+
+“You were kinda cutting it close though, weren’t you?” He had a slight accent that she couldn’t place, which combined with his laid back attitude, seemed to draw his words out oddly.Ling Qi hastily seated herself before too much attention could be drawn to her embarrassed flush. Not that most were likely to care, her more reasonable side would point out. She glanced up to find him regarding her with something like amusement.
+
+The tiger cub curled up atop his head seemed to be sleeping again, and she briefly wondered how it hadn’t fallen when he’d turned his head to look at her.
+
+“My carriage only just arrived,” she responded, more defensively than she would have liked. She suddenly remembered that she hadn’t introduced herself yet.
+
+“I am Ling Qi by the way,” she said quickly. “If.. ah, you were wondering, I…” She hated the way her voice trailed off into awkward uncertainty. Let her slip through a busy street dipping her hands into pockets or stand up to a fence trying to swindle her, and she could be confident. Apparently, friendly conversation could make her composure crumble in moments.Worst of all, her damn hair was working its way loose again. She already had a few unruly strands drifting in front of her eyes.
+
+For his part, the boy gave her an odd look out of the corner of his eye as she hunched her shoulders, feeling stupid.
+
+“Han Jian,” he said after a moment. “Nice to meet you. Can’t say I recognize the name. If your carriage just got here, you must be local so that makes sense. My tutors always complained about me not paying enough attention.” He says the last with a self-deprecating smile.His easy acceptance eased the tension Ling Qi felt and allowed her to sit up straighter. Doing so made her notice that aside from Han Jian, she just might be the tallest person in the room. So much for standing out less.
+
+Still, the implied question made her feel awkward. Was he only being polite because he thought she might be someone of noble birth like him? He seemed almost too casual to be a noble though.
+
+“My family isn’t very important,” she decided to hedge. “Where are you from? I’m, I mean, I am not familiar with yours either.” She stumbled over the words more than she would have liked, but she felt that it was still a decent deflection.Royal Road is the home of this novel. Visit there to read the original and support the author.He laughed, and Ling Qi felt the corners of her lips quirk up. It was hard to stay tense around him.
+
+“Guess we’re both a couple of slackers then,” he responded, sounding amused. “The Han family is from the Golden Fields province.” He seemed really amused but also… almost relieved?Golden Fields… the name was vaguely familiar as if she had heard it once a long time ago. It came to her then. Golden Fields was the easternmost province of the empire, and more importantly...
+
+“Oh, the Grave of the Sun. I didn’t think someone would come from so far away.” She trailed off as she noticed that his smile had gone rather stiff.
+
+Did she say something rude? The story of Lu Guanxi and his final stand was famous. He was one of the Empire’s greatest heroes. She couldn’t really think of a reason why mentioning the hero would offend him. Maybe his family had sent him away and he didn’t like being reminded of how far away he was?He gave a slightly forced laugh. “Yeah, that’s the one. I guess most people only remember us for that old story these days.”Ling Qi looked away awkwardly, pursing her lips. What had she said? She cast around for a change of subject to hopefully end the uncomfortable silence. Eventually, her eyes settled back on his pet, which she noticed had now opened its eyes and was staring down at her with the sort of imperious disdain that only a feline could manage.
+
+“So… where did you get your pet? I’ve never seen one like that.” Truly, she was a master of conversation and that wasn’t stilted at all.
+
+Why did it feel like the little tiger cub was glaring at her now?He blinked, but accepted the subject change. “I was introduced to Heijin by my Grandmother a few years back when I managed to awaken my qi. He’s not really a pet though, more like a little cousin.”What was that supposed to mean? Ling Qi had heard of some people treating their animals like family, so maybe he was just one of those. She was about to ask for clarification when a muffled boom cut through the buzz of conversation in the room.Like the others in the room, her attention was drawn to the source of the sound. It came from below where a tall, thin man had appeared at the lecturer’s podium. He was even now lowering his hands back to his side as if he had simply clapped for their attention.
+
+Ling Qi frowned as she studied the man. There was something about him which set her on edge. Perhaps it was his almost unnaturally bland and thin features, clean shaven down to the eyebrows, or the slightly gray tone of his skin. If she didn’t know better, she would think him ill....Or maybe it was the eye searing shades of pink and lilac he was garbed in. It was bizarre seeing what looked like the robes of a high minister in such an undignified shade. How had someone wearing such loud colors gotten past her like that? There was no door down there, so he must have come through the same entrance she had.
+
+She glanced over at Han Jian, but he didn’t seem particularly surprised. She forced herself to relax a bit. It was some form of magic obviously, and not something which anyone else seemed concerned about though a few of the students had been startled out of their seats.“Welcome to the Argent Peak Sect, children,” the strange, bald man said as he clasped his hands behind his back. His expression was one of careful neutrality, but she thought she could see amusement twinkling in his grey… no, green, no… in his eyes, which seemed to rapidly change colors.
+
+“I am Sect Elder Sima Jiao, Head of the Talisman Department, and it seems that it is my turn to greet our new arrivals.” So this man was the one in charge of creating talismans like the spirit repelling totems placed around villages and cities? He must be incredibly wealthy. No wonder he could get away with dressing so outlandishly.Then she remembered the ridiculous hat her driver had worn. Perhaps becoming Immortal compelled one to dress strangely? While Ling Qi pondered the fashion sense of cultivators, Elder Jiao had clasped his hands behind his back and was giving her and the other students an assessing look.
+
+“I am terribly busy on the best of days so I will not ramble on. To be honest, it is likely that the majority of you will never amount to anything beyond the outer sect where you stand now, and are thus... not particularly worthy of my time.” His blithe dismissal drew a grumble from the gathered students, Ling Qi among them. Han Jian’s serene expression didn’t change though. Perhaps he was simply that confident. Seeing that, Ling Qi let out a breath, reigning in her irritation.
+
+“It is simply reality. Nothing to be ashamed of,” the Elder continued, not unkindly. “In any case, your first years here will serve the purpose of separating those with only minor potential from those with true talent. This is why no one will be allowed to leave the sect grounds during the first year, nor will any correspondence be allowed in or out in the first three months.”
+
+That seemed to surprise some of the other disciples, setting off a wave of whispers, though no one dared to openly question the elder. It didn’t bother Ling Qi though. What did she have outside this place? Perhaps she would enjoy a stroll through her original home when she had made something of herself, but until then, why bother?
+
+“Be silent,” Elder Jiao said then, pulling her attention back to him. “You will have time enough for mortal concerns later. Today and in the future, you are disciples of the Argent Peak. The foundation you lay in the first steps of your path will shape the rest of your lives. There is no need for distractions from the outside world.” His odd, color-shifting eyes swept over the room as his stern expression softened back into the same easy amusement he showed at the beginning of his speech.
+
+“The only other rule is that you may not kill or permanently maim your fellow disciples nor may you damage or steal sect property. In addition, there is to be absolutely no violence between you newcomers for the first three months. Conflict is important for your growth, but it would not do to allow potential to be cut off before it can even begin to bloom.”His words, delivered in a light tone still sent a chill down Ling Qi’s spine. It seemed things wouldn’t be so different from home after all. She found herself eyeing her fellows in a new light, as possible enemies and obstacles.
+
+Ling Qi was brought up short only when she saw Han Jian giving her a reassuring smile. Only then did she noticed that her hands resting on the desk in front of her had clenched nervously. She did her best to return her current companion’s smile, but the expression was a little wan.It was unlikely that she could rely on someone whom she had only shared a brief conversation with. She managed to calm herself after another few moments; worrying for her safety was nothing new. Besides, the Elder was speaking again, and she needed to pay attention.
+
+“Each of you will be granted an allowance of five red spirit stones per month and access to the Argent Soul Art,” he continued, confusing her. She had no idea what either of those things were.
+
+“For those of you not aware,” he added, “spirit stones are the currency of the Immortals, more valuable than gold or silver.” Ling Qi was suddenly all too aware of the way his unsettling gaze rested on her before passing to a handful of other students in the room.
+
+“Cultivation requires the consumption of the energy in said stones, at least until one masters certain other arts. I would suggest frugality. As for the Argent Soul Art, it is the beginners form of the Sect’s cultivation art. It is exceptional for early growth, if somewhat less effective for mature cultivators.” The older man rolled his shoulders then and glanced toward the door.
+
+“All of your mortal necessities will be provided in the Sect at no further cost. Behind this building are two paths leading to the residential areas. You will be segregated by gender, of course.” He smiled as if amused by some private joke. “I would not suggest trespassing in the wrong zone. Rooming arrangements will be up to you, but expect to room with at least one other disciple. For the first three months, two Elders will be on the mountain to provide beginner’s training in, the physical and spiritual aspects of our arts respectively. I suggest you seek them out because you will need to earn such elder attention later.
+
+"All else will be up to you, your skill, and your talent.” He unclasped his hands and brought them back up to rest on the podium, but they were no longer empty. Instead, he held a large jewelry box made of dark green jade. “Now, if you would file up in an orderly fashion, I will be handing out your first month’s allowance.”As she stood, preparing to join the forming line below, Han Jian spoke up quietly from beside her. He was now standing as well, and Ling Qi noted that she had been right. He was actually taller than her; it felt strange to look up at someone her own age. Heijin, his tiger cub had migrated from his head to his shoulder, clinging to the fabric with his…? little kitten claws. The tiger cub was still giving the impression of glaring at her.
+
+“Do you need a couple of pointers on getting started?,” he asked, sounding a bit awkward. “I couldn’t help but notice you aren’t actually awakened yet. You just seemed a little on edge, you know?” He followed Ling Qi as she stepped out into the aisle to join the line.“Thank you,” Ling Qi responded after a moment. He had seemed friendly enough, and it wasn’t as if she had anything he could possibly want.
+
+“How would I contact you though?” Ling Qi asked.He hummed thoughtfully as the line shuffled forward. “Hm, I’ll wait out in the front plaza here around noon tomorrow. That sound good? I’d rather not end up with last pick of the housing today.”She supposed she didn’t have much choice in the matter. She nodded her assent and fell silent. Making conversation was more tiring than she thought.
+
+She soon received her allowance of spirit stones and a scroll case containing her new ‘cultivation art’. No one had come out and said it, but she thought it likely that it was necessary for ‘awakening’ since they were giving it out to everyone. She would have to read it later, and practice. Perhaps she could surprise Han Jian come tomorrow? The thought was oddly pleasing.
+
+For now though, Ling Qi thought as the line moved forward, she had to make sure that she would be able to keep these ‘gifts’. The first step to that would be seeing to her housing.

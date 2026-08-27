@@ -1,0 +1,141 @@
+---
+id: 59a99181-6d79-5394-b52d-f8491769e6eb
+page-type-slug: story-chapter-royal-road
+title: "Threads 448 Cathedral of Winds 7"
+slug: 0492-threads-448-cathedral-of-winds-7
+partOf: forge-of-destiny
+position: 492
+ownLength: 2068
+unit: words
+publishedAt: 2025-05-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2275465/threads-448-cathedral-of-winds-7"
+royalRoadId: "2275465"
+---
+
+"It's not impossible," Li Suyin assessed.
+
+Even as she spoke, her wire limbs prodded and examined a wounded water spirit, flesh still charred where her construct’s mancatcher had caught him. The wounded flesh bubbled as the wire sank into it like warm wax. Burned flesh flaked away, and scorched muscle twitched and went taut. Ling Qi grimaced as the spirit shook and cried out. It was clearly not a comfortable procedure.
+
+"But I need the array intact for the installation of the seal, and a wild spirit of such potency… They're not known for their delicacy with human craft," Li Suyin continued. "I am seriously concerned that this Piper will break the siphoning talisman."
+
+"I see. I could cover any cost of damages…"
+
+Li Suyin shook her head. "It's not about the spirit stones or reagents. The array uses nothing I can't get from the sect market with some effort. It’s the time and effort. Building and attuning a replacement to lunar qi will take another two months at least."
+
+The wires released the spirit, who shot away immediately. He clutched his chest and peered at them warily from among the water weeds.
+
+Ling Qi glanced around the cavern, eyes catching on silvery scales. Most had fled, watching them from the darkness of the passages. Thankfully, the flesh of the corpse giant had dissolved into water without the parasite keeping its shell together, so the room was no longer cloudy with gore.
+
+"Could I act as a conductor for the qi to keep the draw controlled? Mediate between the spirit and your craft?"
+
+"That is incredibly risky. Even if the spirit is damaged and weakened, you said it was much more potent than you. You would have no way of compelling it to obey your instructions if it decided to pull more than you and the array could handle."
+
+"I don't need to compel it when I can convince it."
+
+"That's hardly reliable," Li Suyin fretted. "You've just met the spirit.. You can't possibly understand its nature well enough to guarantee that."
+
+"Oh, she definitely has. Whether that's wise or not, I'm less sure, but Qi's pretty sure she's got this," Sixiang spoke up.
+
+"Just consider what allowing the spirit to restore its influence over the waters will do," Ling Qi cajoled. "We may not even need the impurity filter, except in the worst locations at that point."
+
+Li Suyin sighed. "Alright. This is your expedition, after all. I'm only assisting. Let me send a transmission to Su Ling, and tell her she'll need to adjust the array.”
+
+"I have a good feeling about this,” Ling Qi promised. “Just be polite, and let me do most of the talking when we meet the spirit."
+
+Li Suyin gave her a dubious look, but nodded, gesturing for Xinghong to follow them as they took the passage upward to the crystal chamber.
+
+It was a good thing she had gotten so well practiced in negotiating with spirits. Li Suyin's qi did not make the best impression upon the spirit.
+
+The crystal pulsed suspiciously, even as Ling Qi went through the motion of a deep breath beneath her filter mask. "Thank you for your understanding, Spirit of the Song."
+
+The Piper had not yet indicated what it wanted to be called, and so, she was stuck cycling through titles and feeling for approval or disapproval. It was vexing, even if she could understand the spirit’s position.
+
+"One cannot counter a poison without understanding it. I apologize for any offense my methods have brought," Li Suyin said with stiff politeness.
+
+"Twister of bone and flesh, the abyss beckons, its use poisons, but here and now, thy presence is accepted. You offer the bounty of silver, guided by winter's song. To purify, to seal, this bargain is accepted."
+
+"Then, let us begin the arrangements. I am sure our enemy is not standing idle."
+
+"It slinks. It gnaws. It musters its dead flesh against me."
+
+She wondered how a spirit she could frighten away could occupy the attention of something so much more potent than her cultivation. Was it just a matter of nature? Or, perhaps, because its methods befitted a parasite, it was strongest against its own host.
+
+"Very well. I will need to set up three tuning arrays to refocus the flow of lunar qi. Will that be acceptable?" Li Suyin asked.
+
+"Begin."
+
+And so, they did. Suyin arranged three silver tablets on the walls of the chamber, affixing them to places where the stone was bare, and as she did, she released her constructs: Horse Head and Ox Head, Bear and Boar, and Lion and Wolf, with Xinghong as their commander. While Ling Qi and the Piper drew on and controlled the flow of qi, Suyin would have to handle the defense against the parasite.
+
+Ling Qi could feel the chill in the water growing as yin-aligned qi rippled through the water like a blot of spiritual ink. Deep in the crystal, and all across the dark and polluted caverns, she felt the awareness of the Piper stirring, disparate shards of ego reassembling from their dispersed and defensive slumber. All of them were aligned in the desperate hunger only true starvation could bring.
+
+"Peace, peace, Spirit of Deeping Caves. I have promised to guide, to keep the stream flowing. Abide, else the bounty be ruined. Trust that I will abide by my own words," she sang, carrying caution, reassurance, the promise that her words were good.
+
+As she did, she sank back through the veil of the liminal where a torrent of silver whirled down into the hazy, glowing geomantic network that she saw as the Piper on this side of the world. With her song, her hands, and her steps, she took hold of the vortex flooding in and tamed it, making a steady stream of a raging torrent. She was all the more impressed that Li Suyin's formations could make use of and guide these energies into much more complex patterns, when just keeping it steady tore at her grip.
+
+If the spirit pulled hard enough, she would not be able to keep her control over the qi, so she sang her best reassurance and plea for trust.
+
+The strange crystal entity embedded in the material realm connected to the funneled qi and drank deep. Ling Qi felt her hands tremble and her channels pulse, her skin clammy and cold at the overwhelming depth of yin she held. But just as the Piper drank with tense patience, so, too, did her grip hold.
+
+"All good. Just hold on a bit longer. I can see the gray gunk flaking away, and new crystal growing in. Its pattern is getting stronger," Sixiang whispered, able to perceive what she could not when so deep in concentration
+
+Cold. Sinking. Stillness. Peace.
+
+She had never channeled so much lunar qi at once. In her cultivation art, she took in what filtered down naturally from the night sky. It was the difference between sitting under lightly falling rain and sitting in the path of a spring flood.
+
+She cycled her qi through each channel and through her dantian, pushing the clammy cold out of her system until she only felt it on her skin. She had endured worse.
+
+"Trouble stirring up,” Sixiang warned. “The water is being purified, and the impurity gunk is dying or dissolving, but a bunch of it is just getting yanked back. Our big boy is armoring up, I think."
+
+She glimpsed images of fungal flesh, mutated cave life, and filthy silt rushing down tunnels toward the section where the broken crystals lay. A thousand writhing cable-like tendrils shot out and reeled in dying flesh voraciously.
+
+Blue light flared, shining through the roaring strands of channeled silver as the corruption in the crystal ebbed away. The passages filled with a surge of strength.
+
+"Attuner. We recognize a bargain kept. Draw down thy artifice. The enemy comes to war."
+
+LIng Qi grimaced, urging Sixiang to convey the message. She couldn't split her focus.
+
+"Got it. Letting Suyin know she can reduce the draw."
+
+Finally, blessedly, the torrent weakened, leaving Ling Qi free to cycle her own qi through numbed channels. She could feel the impurity parasite’s power gathering distantly in the liminal, beyond the bubble she occupied.
+
+She let herself sink, and the points of her boots pierced the veil of reality, drawing her back down into the liquid embrace of the tunnels.
+
+"Ling Qi? Oh, you look terrible! I knew this was a poor idea." Li Suyin was worrying over her almost before she'd finished materializing, pressing a hand to her forehead.
+
+"Just a little fatigued," Ling Qi said, letting her friend get on with the examination. "I have it on good word that I'm practically a pool of yin qi anyway."
+
+"I suppose you've not done yourself any serious harm," Li Suyin diagnosed, looking at her with the suspicion only a disapproving physician could manage.
+
+Ling Qi knew it well. She worried she might have caused several spiritual doctors to adopt that face permanently during her recovery.
+
+"Please don't use any further yin-aligned arts until your dantian has recovered equilibrium," Li Suyin concluded. "Now, what is this about the enemy? I could only understand a bare impression of what the spirit was trying to convey."
+
+"The parasite is reacting to the purifying flow of the water by concentrating itself. It’s dragging the underworld tainted material deeper into the more polluted parts of the cave, but it's probably doing so in preparation for a hard assault on this place," Ling Qi explained.
+
+"It comes. It cannot tolerate this restoration. It must do its damage again, 'ere I recover."
+
+"It wants to undo what we've just done before the spirit can settle its recovered channels," Ling Qi translated.
+
+"Then, we should blunt the attack, and strike deeper to reach the seal target when it has overextended," Li Suyin said, frowning. "We can't risk this operation being a waste. The siphon won't withstand that amount of channeling again, if it is to be in any shape for the sealing."
+
+"I agree." Ling Qi glanced around the entrances to the crystal cavern. Li Suyin's constructs stood silent sentinel as they spoke, even as the flows of the now clear and crystalline water grew tense with the gathering of the spirit’s power, and the distant taste of rot wafted in on the current."We'll prepare to defend here then."
+
+"I've been preparing this space for defense, setting up resonating wards to empower my guardian constructs," Li Suyin said. "So, I think all should be well. From the way you described it, the creature is being hasty here."
+
+"So it seems." Ling Qi turned her eyes to the crystal. She thought hard for a moment, then raised her voice in a low song. "O Keeper of the Crystal Lattice, eight colors make the whole by tradition, yet I sense only seven, even amongst the dead. The Lake Crystal is missing. Mayhaps it is a sanctuary, a hidden place shrouded from prying eyes?"
+
+She hadn't commented upon the discrepancy earlier. As lake qi was often used for deception and subterfuge, she had assumed it to be hidden. It would be very strange for seven elements to be present, and only one missing, but she wished to be sure she understood correctly.
+
+"Correct. Singer, even thine eyes will not reveal the depths of the lake where my self and kin hide. Those beaten, battered, freed have gone there, and they shall not be found."
+
+She thought it was odd that she couldn't feel the smaller spirits anymore.
+
+"Couldn't even tell ya when or where they poofed," Sixiang said. "So, it's good stuff."
+
+"I understand and seek not your sanctum. I only wished to know if there was somewhere safe to hide the kin of your body who might remain. Your preservation is our priority."
+
+Suspicion crawled across her skin like tingling electricity, but she merely allowed the sincerity of her words to match it. She did not pretend it was selfless altruism, though she did wish to help. When the enemy crawled beneath her feet, any serious gap found in the earth was alarming. If a potent spirit could sit atop their seal as well, one amenable to negotiation, it would only increase their security.
+
+The regard passed.
+
+"That which may move has moved. You will have mine assistance, Attuner."

@@ -1,0 +1,139 @@
+---
+id: e4cce31d-78f3-59d9-a1da-e21cee09341e
+page-type-slug: story-chapter-royal-road
+title: "Threads 537-Duel 3"
+slug: 0586-threads-537-duel-3
+partOf: forge-of-destiny
+position: 586
+ownLength: 2168
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3811352/threads-537-duel-3"
+royalRoadId: "3811352"
+---
+
+"This may go on awhile, won't it?" Ling Qi asked rhetorically.
+
+The two of them  had both scored a point in that exchange. Mu Wuye could wound Renxiang, but his techniques could be broken at some cost. They'd both learn from that and adjust for the following exchange, she was sure.
+
+Small cuts. Small endings. Every step slew the possibility of every other step. Every cut denied every other cut that could have been made, and at the same time, defined the space in which the next could exist.
+
+In a way, it resonated; in a way, it was opposite to her understanding, just like it was opposite to Renxiang. It defined possibility through limitation. And it wasn't wrong. The present and the past did not allow infinite paths. Possibility was not infinite. The choices of people a thousand years dead could define the horizons of what was possible for one to seek today.
+
+If Ling Qi were to translate Mu Wuye’s Way into a metaphor more suitable for her, she’d say that the past sets the tempo and beat. Only in the present is each note chosen, and the shape of the next verse set.
+
+Of course, that didn't mean one couldn't forge ways unexplored.
+
+Wind and impact buffeted the training ground’s barriers again. Renxiang's armor flashed into existence, renewed in an instant.
+
+"It is good my lord has been matched with such an unyielding will and sharp eye," Kang Yuze noted.
+
+"Does Sir Mu have a penchant for trampling over meeker personalities?" Ling Qi wondered. "I wouldn't have guessed."
+
+"Hah! Well, the typical flowers of the court do tend to flutter off from confrontation, rather than, ah…"
+
+Impact. The screech of metal on metal was more of a bonerattling roar from sheer volume.
+
+"But no, it will be good for him to have someone to sharpen his thoughts against and who will challenge him. My liege has a habit of turning inwards more than he should at times," Kang Yuze finished when the noise died down, shading his eyes from the glare.
+
+"Is that not a role you take as well, my friend? Excuse my words if they are unwelcome, but you do not seem like a retiring sort yourself!" Gan Guangli exclaimed, though he didn't turn his head from the field. His attention on the spar was rapt. Ling Qi was not the only one taking some small cultivation from the observance of the clash of Ways happening within.
+
+"I do not think so. A martial brother I might be, but there are limits to what a retainer should pry into. It oversteps one's duty to challenge their liege too much. You don't think so?" Kang Yuze probed.
+
+"In public, maybe, but in private, it is even more important for one's trusted aides to challenge and test a liege’s decisions. Is that not what an advisor's wisdom is for?" Ling Qi returned.
+
+Renxiang was incredibly stubborn in some ways but deeply permissive in others. It made for a strange dance. She still remembered when she had to challenge Renxiang just to get her to take a single tea break in the throes of a stress breakdown.
+
+"If your advice is sought, certainly, and a wise person will seek it," Kang Yuzhe replied. "But not unprompted. Do you truly not see it so? A retainer serves at their master's pleasure; it is one's duty to support them in all endeavors, not undermine and question."
+
+"I think," Gan Guangli said slowly, "That in most cases, these are not the same act. I share Lady Cai's vision. I will work my hardest to help make it a truth. In doing this, I will naturally bring forth my own perspective to sharpen her plans and challenge false paths and dead ends."
+
+"And yet, would you not follow her even if she trod upon what you saw as a 'dead end'?" Kang Yuze asked. His tone wasn't accusatory or disbelieving, merely curious.
+
+Radiance sheared apart, a dozen blinding beams falling with the sound of a chiming bell. Mu Wuye's shadow moved among them like falling rain, parting bleaching light into so many drifting sparks, winking out like the stars before the rising dawn.
+
+In the waning sparks left behind by their lieges circling and seeking another advantage for the next clash, Gan Guangli thought aloud. "A difficult question. If I did, it would be because she had convinced me that my worries were wrong, wouldn't it?"
+
+"That is a fair point," Ling Qi supported. "It's hardly impossible for us to be mistaken, but that is not the thrust of your question, is it, Kang Yuzhe?"
+
+"It is not," Kang Yuze agreed. "Civilization is built on the foundations of our contracts with one another. Layers of hierarchy and duty overlap and tangle, and obligations flow up and down. I agree that one should do their best to advise their lord or lady, but in the end, my obligation is to follow Mu Wuye's decision once it is made, as it is theirs to follow when Her Majesty makes a decree. Similarly, it is your liege's duty to deliver on the wishes and commands of her mother, who in turn executes the empress' will."
+
+Ling Qi did not let any reaction show on her face when her thoughts flew to Cai Renxiang's intentions toward her mother.
+
+"Loyalty to a person, to a title, and to a goal are all different. There is a hierarchy to these duties. The woman Cai Renxiang sits atop this for me, and I will challenge her if I feel she is hurting herself," Ling Qi rebutted.
+
+The barriers shuddered under the clash of their lieges, points scored back and forth.
+
+"They might be separate, but you cannot tell me the woman you serve does not see them as tightly bound. Betraying one would certainly betray all," Kang Yuze argued. "How do you choose when they conflict?"
+
+"If 'hurt herself' sounds flippant, it was not meant to be so. We are cultivators. Before you arrived,I enacted a plan that saw me burned down to the bone. She did not like it, but Lady Cai did not forbid it."
+
+"We, all of us, seek higher cultivation," Gan Guangli said solemnly. "We will become our ideals to a greater or lesser extent."
+
+"Yes, the duties do overlap a great deal," Ling Qi allowed. "I do not speak of petty hurts here when I suggest that there are certain situations where a retainer should challenge their liege."
+
+"That is well enough, but your statements do not give an answer to what I said," Kang Yuze insisted.
+
+"No, they didn't. In the end, it can only come down to personal judgement of what is too far a hurt, or too far a deviation. There is no perfect arbiter to appeal to."
+
+"I cannot say I like that much. People, even cultivators beneath a certain point, are simply too inconsistent. Something outside of your own judgment is needed. Laws or gods or oaths do not bear deviation," Kang Yuze posited.
+
+"I've heard such sentiments often, but I admit, I didn't judge you to be the kind to hold those ideas so firmly," Gan Guangli said.
+
+Kang Yue threw his head back and laughed. "Ah! Sir Gan, it is because I am as I am that I do!"
+
+Ling Qi furrowed her brow, giving him a curious look, but there was no time to interrogate that statement further at that moment. The duel was reaching its crescendo.
+
+The shadow that was Mu Wuye danced through falling rays of annihilating light like rain, and his sword flickered, seeming like a dozen branching thorns present in twice as many places. It whispered, cutting radiance and cleaving the unstoppable.
+
+Cai Renxiang's wings branched far from her shoulders. The core of burning crimson that was Liming bled into the white, more so than Ling Qi had ever observed in any of their spars. Her friend's face was hidden behind a featureless mask of liquid light. Her saber swung with the weight of mountains, or more accurately, the weight of futures.
+
+Black struck, blinding fast at the exact moment that her liege was slowed by the carved fissures in space, and white bled…
+
+Only for black to be captured, fingers, wings, and a prison of light closing around the wraith of a slender wrist. A mountain fell upon the shadow's head.
+
+Ling Qi shielded her eyes as the barriers flared and dust kicked up, and a silty wave crashed against the qi construct in a wave of burning particulates. When it fell, it revealed the two lieges standing amid a pool of bleached and liquified soil.
+
+Mu Wuye's sword arm was trapped in Renxiang's iron grip while the young imperial scion's sword piercing through her shoulder, glittering with crimson. Renxiang’s saber, gripped one-handed, was a hair's breadth from Mu Wuye's neck, frozen in the motion of chopping down.
+
+"Fifth point for you. I had thought to deflect a few centimeters more," Cai Renxiang said.
+
+Almost as if on cue, Mu Wuye's tunic tore in a harsh diagonal line across their chest, and a bloom of blood trickled down their neck where the saber had almost touched it.
+
+"Yours was a far more lethal blow than mine. It seems we both became excited," Mu Wuye said, briefly licking their lips.
+
+"But this was only my fourth point. It is your victory. I can only apologize for the damage," Cai Renxiang released their arm.
+
+There it was again, Ling Qi thought, the feeling that “their” was a better appellation than “he.” While they were fighting, the latter pronoun came more easily to her thoughts.
+
+Mu Wuye smoothly drew their weapon back, a flash of black qi turning the blood upon it to dust. The imperial scion clasped a hand to their chest to push the torn fabric back into place while the thread sluggishly stitched back together. "By the rules of our challenge, yes. You are truly formidable with your saber, Cai Renxiang."
+
+Her friend pressed a hand to her own shoulder thoughtfully as her dress almost violently restitched itself, fabric rustling with Liming's displeasure. "And you are swift with your sword, Mu Wuye."
+
+"Good work, my lord! An impressive figure you cut!" Kang Yuze called out, grinning brightly.
+
+"No less impressive than our lady! The foes of the empire shall tremble before this match!" Gan Guangli boomed as well.
+
+Ling Qi just chuckled quietly.
+
+Mu Wuye glanced away, a bit of color on their cheeks. "Thank you for indulging my curiosity."
+
+"It is a small thing, and a bracing exercise," Renxiang replied. "However, we should continue the tour. Captain Xia has been preparing our soldiers to drill for your viewing and will likely be ready by now, and Sir Meng will have finished preparing the festivities in the east garden. I would not cause them much more delay, if Sir Mu is amenable."
+
+"Of course, let us carry on."
+
+***​
+
+With their guests settled in, Ling Qi turned her attention to other matters. There was a flurry of activity for her. She had to be prepared and all of her work finished and obligations prepared for a short absence in time for her journey to the lands of labyrinthian with Bao Qian and Hanyi. It was not an easy task.
+
+Resettling the spirits upset or driven into a frenzy by the explosion of the fire spirit was something that required much attention from both herself and Zhengui and consultation with Lake Snowblossom.
+
+Reviewing the ruins for lingering qi with ill effects at Meng Duyi's side was another chunk of time. She observed the way the lingering fire qi interacted, merged, or transformed other types of ambient qi. Between the explosion site and the vast cavern that had contained the fiery spirit, fire faeries were going to become more common around Shenglu, and there was little to be done but buckle down and find ways to integrate them with as little harm as possible.
+
+She did have to admit it was beautiful down there. The cavern was strangely smooth, like the inside of an empty eggshell, quiet and warm. The thousands of little faerie sparks drifting about in the dark reminded her of the fireflies buzzing about over a river.
+
+As to what to do with the cavern, there were some ideas she liked the sound of. In the future, they may work to convert the qi in it to a more purifying sort of fire, which would aid with the crafting of some medicines and other health effects. For now, the cavern was carefully isolated and under watch.
+
+It would probably become a second site, along with the burned vale above, for Zhengui's small cult. Already, the waters of the geyser and the pools of the Boiling Deep Shrine had become much purer, with soldiers reporting great benefits to their physical cultivation when allowed to soak there, or meditate under the geyser.
+
+The time for her trip was swiftly approaching.

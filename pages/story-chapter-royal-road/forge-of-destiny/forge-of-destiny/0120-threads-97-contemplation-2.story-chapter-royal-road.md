@@ -1,0 +1,127 @@
+---
+id: 72b5bfad-ecbd-5d55-9f0d-6ccf12fec1d7
+page-type-slug: story-chapter-royal-road
+title: "Threads 97 Contemplation 2"
+slug: 0120-threads-97-contemplation-2
+partOf: forge-of-destiny
+position: 120
+ownLength: 2261
+unit: words
+publishedAt: 2021-06-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/702368/threads-97-contemplation-2"
+royalRoadId: "702368"
+---
+
+With Sixiang’s instruction and her ability to better tap into the flow of the qi at the Silent Stones, her refinements of the Phantasmagoria of Lunar Revelry art came easily to Ling Qi. The ways in which she had been weaving the flows of qi had been subtly wrong in ways that now seemed obvious, and correcting them was merely a matter of practice.
+
+She could, using the techniques of the art as a guide, briefly step completely outside of the physical realm, and sometimes even do so with guests, but for now at least, doing so without the art acting as a crutch remained beyond her. She thought that she might just need to grow more acclimated to using the art.
+
+Ling Qi couldn’t say she minded the practice though. Sixiang was a good teacher, particularly when she was on the cusp of unreality and she could feel their phantom hands on hers, guiding the steps.
+
+She still preferred composing, but dance had its own charms as a relaxation method.
+
+Chaperoning Hanyi through the sect shops was a significantly more stressful measure. The girl wanted to touch everything. Thankfully, with Cai Renxiang’s silent presence to keep the shopkeepers calm and Meizhen’s help, she managed to wrangle the spirit’s excitement without causing any trouble.
+
+The first task was getting Hanyi to hold still for the dressmaker and guide her away from anything too outrageous. That concern, at least, proved unnecessary. Hanyi had a rather conservative taste in dresses. The one she chose in the end was an elegant white dress with a midnight blue underlayer and swirling embroidery patterns that spoke of wind and clouds. It had a full length hem, a closed collar, and wide, flowing sleeves that covered her hands.
+
+Unfortunately, no amount of cajoling could convince Hanyi of the utility of shoes but with the length of the pale nightgown, she wasn’t flashing her feet and ankles about everywhere anymore.
+
+Selecting a talisman was actually harder, not only because they had used most of the funds provided on the gown, but also because Hanyi seemed to actually want Ling Qi’s input there. Without Xiulan, she was a little lost in that realm. In the end, together, they decided on a small teardrop-shaped white jade locket on a silver chain that would hold a portrait in it.
+
+It was embarrassing to sit with Hanyi in her lap while an artist did a miniature portrait to complete the Argent Remembrance Locket, but Hanyi insisted, and Ling Qi would have felt terrible if she refused in the face of that expression. She didn’t miss the way that Meizhen had covered her mouth with her hand and looked at her with laughing eyes afterward either!
+
+All in all, it was practically a relief to start working on the setup for Cai’s party.
+
+***
+
+Or at least it had been.
+
+“Good evening,” Ling Qi said.
+
+“Fair eve to you,” Xuan Shi said somberly. Ling Qi had been taking a moment’s breather from performing when he approached her near the refreshment table. Xuan Shi looked much the same as he had when she had seen him last, although he appeared to have gotten new robes. His dark green, shell-patterned robe was rather bulky, speaking of many layers or perhaps even armored padding. Xuan Shi didn’t quite seem as energetic as he had been at the start of the year.
+
+Ling Qi glanced away, uncomfortable. It wasn’t like she blamed him for taking her to a place that had turned out to be… inappropriate. He had been just as horrified as her, but things remained awkward after. She couldn’t really bring herself to approach the boy again over the course of the last few months. She had told herself it was fine, that they were both giving each other space, and while that was true in some ways, she also knew that she was afraid and that she had been letting that fear guide her.
+
+<Hey, recognition is a good first step,> Sixiang encouraged. <Now say something in return. This guy is stewing in even more awkward anxiety than you.>
+
+Ling Qi took a sip of her drink to break up the staring contest and put on a smile. “It’s been awhile, Sir Xuan. Has your cultivation been going well?” There. A nice safe topic. No need for awkwardness there!
+
+“As the tide advances, so do I,” he said evenly. Xuan Shi was sitting firmly at the threshold stage, as expected of a ducal scion. His physical cultivation felt a little unsteady; he must have just recently broken through. “Miss Ling’s rise belies the advancing storm still, I see.”
+
+She took a second to decipher that and then nodded, smiling. “Sir Xuan is too kind. And your talisman work?”
+
+“Steady,” he said after a moment. “Miss Ling…” he began, trailing off awkwardly.
+
+She stared back, not quite sure what to say either. Sixiang sighed.
+
+“I’m sorry.”
+
+“This one apologizes.”
+
+They spoke in unison over each other, leaving them both blinking in befuddlement. Ling Qi took a deep breath, wrapped herself in the Carefree Mantle, and pushed on.
+
+“I should not have avoided you these past months,” she said, bowing her head in apology. “It was both rude and unkind.”
+
+Xuan Shi looked mildly alarmed under his hat and high collar, raising his hand to hastily wave off her apology. “Nay, Miss Ling’s reluctance is wholly reasonable given past circumstances.”
+
+“Nothing happened which deserved any ire,” Ling Qi disagreed firmly. “You did nothing wrong, even if the situation was somewhat embarrassing.” She was glad for the ducal grade screening technique she could sense around them, as impenetrable as a xuan wu’s shell. This conversation could be taken in such wrong ways.
+
+He looked like he wanted to disagree, but eventually, he shook his head and bowed back, lower than was strictly proper given their respective positions. “This one is relieved by Miss Ling’s forgiveness. This one imagined many paths which might have arisen from that day, but the result has been deeply regrettable.”
+
+“I agree,” Ling Qi replied. “I hope we can be more friendly in the future and put this behind us.”
+
+She couldn’t quite read his expression with his hat in the way and the rock solid polish of his social arts, but he seemed conflicted at hearing that. “Yes,” he finally agreed as he straightened up.
+
+“Good. I hope you have been enjoying the party then?” Ling Qi asked, relieved that this problem at least didn’t require much solving.
+
+“Always,” Xuan Shi agreed. “Lady Cai and Miss Ling’s gatherings are a bright day in the midst of the storm season.”
+
+Was he actually still nursing something for Cai Renxiang? She didn't think so. He was just being a bit over the top with his compliments then.
+
+“This one has greatly enjoyed observing the evolution of Miss Ling’s composition,” he continued, only to shake his head. “But that is not the purpose of my approach.”
+
+“Oh? What is?” Ling Qi asked.
+
+“Given Miss Ling’s forgiveness, it feels as if these words might be mere wasted air, but this one wished to inform you that the expedition below will count him among their number and that Miss Ling could rest her mind at ease that this one would behave appropriately.”
+
+Ling Qi blinked, then blinked again as she parsed his statements. Xuan Shi was going to be going below as well. “I am reassured to have someone so skilled along. Is the Xuan clan truly allowing this though?”
+
+He chuckled. “This one is not nearly as important as Miss Ling assumes. But the Xuan clan requires knowledge, and this one is in position to provide.”
+
+Ling Qi digested that information. If she had to guess, the Xuan clan were probably getting an information sharing deal with the Sect to investigate these creatures. But in the end, that was all above her head. “I suppose I can take it easy then. It’s not like anyone is going to get through your defense.” She felt a lot better about Su Ling’s presence in the group now.
+
+He tugged at his collar, embarrassed by the praise. “This one will endeavor not to disappoint.”
+
+“Big Sis! Big Sis! It’s time to get back on stage!”
+
+Ling Qi looked up as Hanyi ran over, weaving between disciples. Ling Qi had been reluctant to let Hanyi be on her own, but the spirit had promised good behavior yesterday. There hadn’t been any angry shouts yet, so she assumed it was holding.
+
+“Is it that time already?” Ling Qi asked. Looking up, she saw that the poet who had been filling her off time was stepping down. “Please excuse me, Xuan Shi.”
+
+He bowed again, and she stepped past.
+
+Mounting the stage with Hanyi at her side, she rubbed her fingers along the length of her flute in thought, scanning the crowd for potential conversations to pay particular attention to. Smiling politely, she began to play her first piece.
+
+***
+
+Ling Qi’s eyes remained demurely half-closed as she played her latest composition, and beside her, Hanyi sang. Drifting on the sound of song, her senses carried throughout the room, showing her dozens of faces and letting her hear dozens of voices. Some faces and voices were garbled beyond recognition by effects with as much variance as there were people.
+
+Like this, she absorbed the gossip of the Emerald Seas, as understood by the disciples of the Argent Peak Sect. Many spoke of war and battle, bantering about who would win the most glory. In some, it was mere posturing, but in others, she saw and heard a genuine resolve. However, the one thing which all had in common was confidence. While there was a very personal fear of injury or death, not one person showed any fear that the Empire would lose to the barbarians.
+
+Ling Qi heard the Duchess’ name whispered in fearful reverence, whispers of soldiers being organized across the province and clan musters being raised and drilled by men and women with white-plumed helms, as well as harsh punishments levied against those who had been found to have allowed their defenses to grow lax. There was something of a divide in the room between those who spoke of such things with pride and admiration and the ones who seemed disturbed and apprehensive at their peers' easy acceptance of the intrusion of ducal authority on their clan affairs. The former outnumbered the latter, so far as Ling Qi could tell.
+
+But even as she quietly catalogued who was saying what in the back of her head, Ling Qi could not help but focus on more familiar faces. Her liege was speaking with Sun Liling, who had shown up again for the first time in months. Neither girl appeared in any way upset. Meizhen stared up at Meng De with an icy expression, the two of them trading clipped but “polite” barbs in some kind of passive-aggressive standoff. But she didn’t focus her gaze on either of those. There was little she could do regarding Sun Liling, and Bai Meizhen could take care of herself. And if any of it concerned her, Cai Renxiang or Meizhen would just tell her later.
+
+Her attention was drawn to a pair she was less familiar with and the subtly growing space around them. Through the flowing notes of her song, she had felt a distortion growing around the tall, lanky girl that Meizhen had taken such an interest in and the frowning scion of the Luo clan. A big part of the reason it drew her attention was the simple fact that she could actually hear parts of their conversation. When she had first passed her attention over them, she had heard only the baying of hounds, but after an angry vibration, she felt like a curtain had been torn. Considering that Bao Qingling and Luo Zhong were both levels above her in cultivation, that was an oddity in and of itself.
+
+“... are being childish, Bao Qingling.” Luo’s voice was low and harsh, but he had barely finished his sentence before he glanced to the side, seemingly aware that his words could now be overheard.
+
+“I’m not sure why you think your opinion should matter to me,” Bao Qingling replied dully. Her grip on her wine cup was white-knuckled, and she looked like she was contemplating throwing her drink in Luo Zhong’s face. “It is not my fault you are choosing to be naive.”
+
+“It is not naivety! I have tried to explain this,” he said irritably. “I had thought you had decided to be reasonable by making a showing at this gathering, but as usual, you refuse to listen!” There was a sort of tugging at the qi around them, and his voice warbled at the end, distorted.
+
+“I came to show my support for the Cai and the war effort, not to engage in your stupid games, Luo Zhong. It was you who approached me,” she retorted flatly. “I have no interest in you. I have told Father this. Go away.”
+
+He frowned, eyeing her reproachfully. “It is not as if I care for you either. But that is no reason why we…”
+
+Unfortunately, the damage to his technique was repaired, and Ling Qi could hear no more as the sound of baying dogs began to reassert itself. Their conversation only went on for a few more moments before Bao Qingling spun on her heel and marched away while he was in mid word, leaving the Luo scion looking intensely frustrated.

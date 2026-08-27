@@ -1,0 +1,135 @@
+---
+id: 4b74d5ad-a7ab-5d3a-bd0d-16076946be0f
+page-type-slug: story-chapter-royal-road
+title: "Threads 509 Ith 3"
+slug: 0558-threads-509-ith-3
+partOf: forge-of-destiny
+position: 558
+ownLength: 2113
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3198073/threads-509-ith-3"
+royalRoadId: "3198073"
+---
+
+Zhu Fan raised his eyebrows, but did not object.
+
+"That said, I hope that Minister Tang would be willing to ensure that his magistrate accept some number of Spiritual Affairs members into his judicial retinue. While I believe your approach is correct, Spiritual Affairs has invaluable expertise here."
+
+"Not an unreasonable proposal. While it is my opinion, having observed the representative the Duchess procured, that the 'inhuman' nature of the ith is exaggerated, further expertise would be welcomed."
+
+Ling Qi tilted her head. "I am surprised to hear you say this, Minister Tang."
+
+He snorted. "These foreign things… They are not bound hard enough to Law to be spirits. Their minds squirm around it and seek loopholes in it. Their bodies are strange, and their structures stranger, but they think as humans do. This, I see. I am mindful of the possibility that their Law may simply be too unfamiliar to me. Some spirits of the far wilderness are this way to my mind, raised here within the great city."
+
+"Understanding comes from a lot of directions," Sixiang murmured. "You're human cause you see a rule and start looking for how you can twist it in knots, huh?"
+
+Her muse sounded thoughtful.
+
+Ling Qi acknowledged Minister Tang’s point. "That is not a perspective I have considered."
+
+"It is one he has shared with me. While it has some merit, I must disagree." Zhu Fan shook his head. "Spirits may need humans to change themselves deeply, but they evolve in their own ways and bend their Laws to new ends when the environment changes. It is just a far slower evolution than humans undergo."
+
+"A debate for another time,” Minister Tang cut in. “I sense that you still do not fully approve of my proposal, Baroness."
+
+"It is not the one I might have chosen a month ago," Ling Qi agreed. "Recent events change considerations, as they did for you. Coming here, I expected that my difficulty would be on impressing upon the ministries the importance of tackling this task at all."
+
+"Candid of you," Zhu Fan said, mildly amused.
+
+"Rude," Minister Tang grunted. "But accurate, I grant. It was not a priority."
+
+Ling Qi said, "So, in the past, I might have advised a slower and gentler approach, but knowing what I know now, I think the Ha-yith-Kai must be seen to be complying with and under the imperial officials' eyes. Although they may dislike it greatly, public sentiment toward them must be managed."
+
+"The people and the court are in a furor over the attacks, even without the insult delivered made available to the public. I can see some value in managing this," Zhu Fan allowed.
+
+Ling Qi nodded. "It is one factor, which I thank the Minister for acknowledging."
+
+Consensus. That word Tcho-Ri kept using, the way the ith she had observed spoke to one another, and the way they seemed to think these attacks on mortals were a show of strength...
+
+"We may assume the Ha-yith-kai observe us as we observe them. It is my fear that if they see public anger and hate toward them rising from these attacks, they will assume it must mean that the Duchess will reflect this. In speaking to the Ha-yith-kai representative, there seemed to be an embedded notion that a god would act in line with the will of their people, rather than the reverse. This is why their god did not fight even when the Duchess came alone. They feared the clash of two white realm cultivators more than they had the pride to resist the intrusion."
+
+"One should not always take the posturing of the defeated, salving their crushed pride, with utmost seriousness," Minister Tang cautioned. "I have heard these words before. I acknowledge it is strange that they surrendered without their god coming to show their face at least."
+
+"A spirit court's lord cannot always act overtly without great disruption. If the ith are like those in the south, who imply their greatest cultivators are location bound, merely awakening them could be highly disruptive," Zhu Fan theorized.
+
+"That would be akin to the Xuan and their fortress protocols for a major island going to war," Minister Tang mused. "That might explain the reticence even to let us speak to these Minds."
+
+"Or perhaps it is a sacral matter?" Zhu Fan proposed. "A god who does not speak to those beneath them?"
+
+"Then they will need to unstiffen their necks," Minister Tang said flatly. "Even the most ill controlled sovereign can speak without ruin to cultivators of reasonable realm."
+
+"That does tie into my other concerns. Minister Tang, if you could soften your stance on location, I believe this would be beneficial. Even if I agree we must get a proper feel for the thinking of the ith's actual leaders, placing your agent directly in the equivalent of their palace may be..."
+
+"Religiously disruptive," Zhu Fan finished. "For beings who cultivate impurity, the presence of a high realm might be akin to dumping a mass of corpses into the middle of a temple pool and insisting that they remain there."
+
+"It is not rare for corruption or malice or simple nepotism to wear the clothes of religion," Minister Tang contended frostily. "We must observe their process of governance, if any proper comprehension is to be had."
+
+"I am well aware of your opinion on priests and the way that they were allowed to abuse their privileges in the past," Zhu Fan replied, looking disgruntled. "I acknowledge this can be a problem. However, currently, we know too little to tell a misdirection from an honest spiritual concern."
+
+Ling Qi knew in Tonghou, there had been plenty of priests who were self-interested about how they performed their rites.
+
+"I agree that this is a concern, but I think we should give some consideration to the Ha-yith-kai, especially if they are otherwise cooperative. We could allow some flexibility without letting them obscure their power centers."
+
+“I can bend to some degree, but I will not accept a location outside of what passes for a city center," Minister Tang insisted.
+
+"It is a mistake to do so. Our cultivation pains them, as theirs pains us. A slower introduction and more limited contact is superior. Our current plan will be a bothersome splinter to them, and our representatives will be constantly on edge, under threat of the toxins surrounding them if their protections waver for even a moment. Their moods will be sour and anxious. It guarantees tensions." Zhu Fan shook his head. "There is little to be gained in this, not when so much state capacity is dedicated to other military matters."
+
+"And yet, our relationship must be established. We are their lords, and they must give us their obedience. While it is true that a lord should not be overbearing, neither should they be meek," Minister Tang replied. "Refusing to make any demands will only engender contempt and rebellion."
+
+"I do see Minister Zhu's point on the disposition of our people. While your agent is surely of superb discipline, those of lesser cultivation must be considered, too. Perhaps we might negotiate some observance of their governing process without the full basing being right in their midst," Ling Qi proposed.
+
+"Our lack of presence would undermine our understanding, but some distance for actual housing, versus work space, may be acceptable."
+
+She could see that the Minister was not going to stretch much further on this. "I understand, and we need to speak to the Ha-yith-kai before proceeding. It might be that a location in their city center is not unwelcome at all. I only wish to ensure our best chance to maintain a healthy dialogue, especially in a moment of relative invulnerability."
+
+"A welcome goal. Minister Tang, if we are satisfied in principle, let us discuss the details and who we shall be sending."
+
+"Indeed. The operation should be launched as soon as possible," the other man said. "Who do you intend to offer?"
+
+Ling Qi leaned back in her chair. She would be less needed for this part of the negotiations.
+
+***
+
+The upcoming delve remained on her mind even as she caught up with her correspondence, helped Renxiang with hers, and made the other preparations to return south. It felt as if they had been in Xiangmen for ages, but it had only been a month. She was looking forward to seeing Shenglu again.
+
+Soon enough, the time came to descend. She received the letter on the morning of the fourth day, with the location where she would meet them. It was, unsurprisingly, down in the rootways. Walking those streets down in the waking world was different. It was impossible not to see the curling fingers of nightmares clinging on in the darker shadows.
+
+However, though the rootways were unmistakably mortal and unmistakably poor, they were clean and peaceful. Buildings were often shabby; she saw plenty of peeling or stripped paint. Yet, grown from Xianmen’s inviolate wood, there were no sagging and crumbling buildings, and with all but the hastiest establishments—market stalls and the like—every structure was solid and straight.
+
+The alleys had their share of trash and litter, but not of the gaunt and desperate people who she would picture lying among it. And even where guards wearing the white helms of Law marched, eyes did not follow them in fear.
+
+Ling Qi wondered what she would see if she returned to Tonghou one day, with these eyes of hers.
+
+The meeting place was, by necessity, below the livable sections of the rootways, far below. She walked through passages that left the narrowing roots and burrowed into the rich black earth, down into the maintenance and waste processing tunnels where a city's filth was rendered back into soil components.
+
+Ling Qi didn't let her senses linger on what she could feel in the formations outside the clean stone access tunnel she was in. Instead, she focused on the pleasantries offered to the guards at the many checkpoints she passed through.
+
+She could feel the Duchess' passage in the now solidified molten ripples of the stone and in the bleached white soil. In the plunging passage, it looked as if someone had simply thrust a spear down into the bedrock, annihilating all in its path.
+
+Her destination lay at its end, where the new stone construction pierced into a large airy underground cavern. Its roof was grown through with Xiangmen's smaller rootlets, only a meter or two thick, and which burrowed in and out of the stone. In the center of the cavern, there was a lift made of lacquered wood, stone, and cables and worked through with motion-generating formations.
+
+Waiting for her by the lift was the delegation she would be accompanying. It was not the permanent delegation. Instead, the very ministers she had been negotiating with were here, conferring quietly while their staff swarmed about completing the final preparations. For this first initial meeting, they intended to impart the seriousness of these negotiations on Ha-yith-kai.
+
+"Baroness Ling," Zhu Fan greeted. "It's good you're here. The lift is undergoing its final checks."
+
+Ling Qi eyed the platform, sensing the lightning qi in the cables, which would presumably be translated into its motion. "An impressive project, installed very recently."
+
+"It was rushed,” Minister Tang acknowledged. ”It is insecure and prone to failure, but it will do for highly time-sensitive moments. The Ministry of Works will improve it greatly in the coming months, I expect."
+
+"Impressive, though," Zhu Fan said. "My people have checked it over. It should have minimal environmental effects, if not overused.
+
+"Honored Ministers, Lady Ling," a woman said, approaching from the platform. "If it pleases you, we may begin fitting the breathing devices. The lift will be ready shortly."
+
+"Of course," Ling Qi said, glancing at the ministers.
+
+Zhu Fan rapped the butt of his staff against the floor, its rings jangling, calling attention from his subordinates. Minister Tang merely raised a hand gloved in supple leather, and his staff formed up.
+
+"Let us descend then," Minister Tang said tersely.
+
+She followed after him, gingerly stepping up onto the qi-enabled platform as one of the formation engineers began to quietly explain the use of the sealing mask, a piece of fabric that would cover her mouth and nose. Qiyi might be able to perform its functions with her battle mode, but that would probably send the wrong message.
+
+Qiyi grumbled.
+
+The ministers, being of higher cultivation, had somewhat more cumbersome apparatuses. Their masks connected to tubing that wound down to metal canisters containing qi-enriched surface air.
+
+After the fittings, lightning sparked. The platform lurched and began to carry them down.

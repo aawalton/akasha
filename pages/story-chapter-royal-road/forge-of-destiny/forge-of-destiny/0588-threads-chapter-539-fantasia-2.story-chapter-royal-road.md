@@ -1,0 +1,103 @@
+---
+id: ff2167fb-110c-5be5-b262-ce69a003fa24
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 539-Fantasia 2"
+slug: 0588-threads-chapter-539-fantasia-2
+partOf: forge-of-destiny
+position: 588
+ownLength: 1687
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3844041/threads-chapter-539-fantasia-2"
+royalRoadId: "3844041"
+---
+
+Bao Qian was far from jesting. As they left the quiet land of Shenglu behind, passed beyond the sect lands, and entered the depths of Wang territories, their journey was slow. The great highways were packed to capacity with troops on the move.
+
+The soldiers of the Wang clan were similar to those of the Bao, but the differences were stark. There were no gleaming jewels and bright metals, or at least very little. Instead, it was as if rivers of steel flowed through the veins of the province, filling the great roads from side to side.
+
+Soldiers in heavy plated armor held bannered pikes stretching meters into the air and thick shields built to brace. Armored wains were pulled by massive goats with curling horns that stretched meters into the sky, their backs covered by thick tarps that obscured the shape of the siege engines and weapons emplacements beneath. These included ballistae and disassembled net throwers and stone hurlers, and stranger weapons still. Ling Qi spied smooth tubes of brass and steel that burned with inner fire or crackling lightning, small enough for a soldier to carry, and others larger than entire wagons, drills and shovel blades of extravagant size and strange mechanisms that went with them.
+
+Behind the tramping, armored feet and flagstone-crushing wheels came an army of formation crafters, engineers, and masons, who left the battered road as pristine as it had been before the vanguard had ever touched it. There was an entire secondary army with marching ranks of men and women bearing not traditional weapons but crafters’ tools, and immense mechanical crossbows that were more like scaled-down ballistae themselves. Her eyes watered as she looked into the air around them, where the world distorted like a heat haze due to the density of calculations and formulae given off by their combined qi.
+
+And so, their trip was relegated to the backroads, the winding paths that rambled through the hilly wilderness of the Wang lands. They were surrounded by the sea of greenery that gave the Emerald Seas its name.
+
+"If you look sharply, as we crest this hill, you can see the peak of Manaoshan, even this far out," Bao Qian pointed out, arm extended to point toward the cloudy sky.
+
+Ling Qi had chosen to sit on the driver's bench beside him. They were traveling at only a fast mortal speed, due to the roughness of the terrain. "Is the city actually at the peak then? Or at least the Builder’s palace?"
+
+"No, the Wang's capital is built in an echo of Xiangmen and the Throne Peaks of the capital. It is built into the mountain itself, and in contract with its spirit. The palace and defensive works are most of what you will see up at the peaks," Bao Qian replied.
+
+"Living in a cave all the time sounds gross," Hanyi said. Her little sister lay flopped across the window peeking into the interior of the wagon.
+
+"I've been there once on a trip with my father. It truly didn’t feel like being underground. Even the roots of Xiangmen have a stifling air that Manaoshan avoids," Bao Qian said. "Formations create an artificial sky, and there are parks and forests under the earth. They’re wild growth at that, not like the jeweled gardens we Bao cultivate. The air is clearer, fresher than many open-air cities I could name."
+
+"I'll have to visit them sometime." Ling Qi craned her neck as they reached the crest of a small incline in the road. Looking above the treetops, she could indeed see a snowy mountain peak in the distance. Gleaming spires of black and charcoal grey marble rose from beneath the snows. She saw the outline of several of those strange metal tubes that smelled like lightning, fixed to the mountainside. They must have been immense to be visible at this distance.
+
+"I should be pleased to give you a tour of the Bao clan's gardens in the future," Bao Qian offered. A slight tug of the reins sent the horses turning, following the curve of the winding forest road that wound on north toward the Meng lands, steadily taking the main highway and its throng of Wang soldiers out of sight.
+
+"I would like that," Ling Qi agreed. The sounds of the forest were still absent. Birds and buzzing insects had been driven silent by the sound of the road behind them. "I wonder if we will have the time to do so."
+
+Bao Qian didn't answer her at first, driving the wagon on under the canopy of the trees. They entered thicker woods, gnarled branches curving overhead like the roof of the rootways.
+
+"That has always been the trouble, hasn't it?" he mused. "One of them, at least."
+
+"It has, but I can't blame you for backing well off after that disaster of a dinner. I was an awkward one, wasn't I?"
+
+"Lady Ling is not and was not quite like anyone else." Bao Qian snorted. "By the Glittering Depths, I felt like I was trying to read the future in smoke."
+
+"Not exactly a Bao specialty," Ling Qi teased. "I don't think, at that time, there was really anything you could have done right."
+
+"I'm not sure how comforting I should find that," Bao Qian said thoughtfully. "In the end, I didn't innovate; I just fell back on old patterns. We do good business, you and I, with this touring notion. I'm glad I came up with the idea. It’s not a business that could work anywhere else in the Empire, but it has its costs."
+
+"Ugh. You and Big Sis both get so boring together!" Hanyi threw up her hands. "C'moooon, you gotta be more dramatic than that. Big declarations! Bold advances!"
+
+They both paused, the last few birds in the branches overhead fluttering away at Hanyi's explosive exclamation.
+
+They turned to look at each other. Ling Qi snorted. Bao Qian sighed.
+
+"I am going to have a talk with Ling Nuan about the books she lets you borrow," Ling Qi told Hanyi dully.
+
+"I am sorry to say, your junior sister has been acquiring them all on her own. Legitimately, even," Bao Qian confessed.
+
+"Hey! You said you wouldn't tell!" Hanyi squawked.
+
+"Moons, squirt, you coulda just asked me. I guarantee I can find you some good stuff," Sixiang called from inside the wagon.
+
+"Ah, sorry, sorry, young miss. Your poor, boring manager must have forgotten," Bao Qian replied over them.
+
+"I am going to have to look through them all, just to know what kind of trouble my sister is going to cause, aren't I?" Ling Qi lamented.
+
+"I'll do the voices!" Sixiang immediately volunteered.
+
+"Like Big Sis could even handle the spicy parts," Hanyi scoffed under her breath.
+
+"What was that?"
+
+"Nothing!"
+
+Bao Qian listened to them in silence. He did look thoughtful, though.
+
+***​
+
+The main lands of the Meng sat much lower than the hills and mountains occupied by the Wang clan and the Meng’s more southerly holdings. The western fens were a sea of mist broken up by islands of greenery rising from the marshlands below. The air was chill and damp, even with the sky clear overhead. The roads they drove on were harshly artificial, raised tracks of rammed earth infused with a dense mountain qi that resisted the slow intrusion of eroding waters.
+
+They became less so, the further they traveled north. Wide tracks of brick blended with the marshy earth, save for the bright color of the brick, like the warning given by a venomous animal. She could feel that principle infused into the formations: humans tread here; we are deadly—feast at your risk.
+
+The roads bridged the more solid islands of earth that rose from the muck and mangroves below, and the wagons rattled loudly across the fragile-seeming wooden constructions that nonetheless bore their weight easily.
+
+They passed through tollbooths and checkpoints manned by soldiers in armor made more of cloth, hide, and scale than metal, armed with long spears and strange polearms, designed to catch aquatic prey on their prongs. They were a surly sort, if Ling Qi were honest. It was clear that they were not exactly welcome travelers, especially as they neared their destination. It was less unwelcoming when Sixiang deigned to be out and about; the dream muse's presence seemed to give her some respect.
+
+Bao Qian's permits got them through, and soon, the lands of Fantasia loomed out of the fog in shimmering rainbow mists, changing from eyeblink to eyeblink. Trees towered hundreds of meters over everything else.
+
+Fantasia was beyond the last checkpoint, a gatehouse far from even the most farflung village. One would think it an absolute dead end, unimportant and remote, if she couldn't feel the presence of a fourth realm lurking out of sight in the barracks. It was there that they left Bao Qian's wagon in the care of the Meng garrison.
+
+"Here. We. Go!" Sixiang cheered as they left the last manmade structure behind in the mist. The towering trunks of the trees that ringed the Dreaming Moon’s realm in the waking world were a ruddy red in the dim sunlight, and the canopy overhead was a mix of earthy tones and bright oranges and crimson reds.
+
+"I believe that is our destination there, the gates strung between those two trunks." Bao Qian gestured outward. "I was warned quite stringently not to enter anywhere else.
+
+Ling Qi brushed a hand through the mist, peering past into the dream beyond, and winced at the pressure she felt, the all-dissolving and riotous chaos of yang energies. "Probably not a bad idea."
+
+"Grandpa was preeeeetty miffed about the millennium wine incident, yeah. Best to enter through the front door," Sixiang advised sagely.
+
+The front door was a temple gate, grown from the living wood of two towering trees, the growth of it twining together in the intricate arch. Between, at its center, was a plate of irregular, gleaming silver in the shape of the gibbous moon, and two thick ritual ropes were strung from that arch, extending into the darkness beyond.

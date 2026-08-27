@@ -1,0 +1,121 @@
+---
+id: ebd596e1-092d-586c-a21b-634ef4817955
+page-type-slug: story-chapter-royal-road
+title: "Threads 40-Justice 1"
+slug: 0052-threads-40-justice-1
+partOf: forge-of-destiny
+position: 52
+ownLength: 2063
+unit: words
+publishedAt: 2021-01-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/619266/threads-40-justice-1"
+royalRoadId: "619266"
+---
+
+Ling Qi arrived at Cai Renxiang’s door only a quarter hour later, having flown straight there. As she stepped through the door, absently chewing a qi restoration pill, her eyes darted around.
+
+There were no immediate threats that she could see, and she could feel the other girl sitting in her study under no external stress at all. The mountain had seemed peaceful during her flight as well. So what was this about? Her liege didn’t normally send notes as dramatic as that.
+
+<It’s not fair. I wanted a snack and a nap,> Gui grumbled.
+
+<Like you even did anything, you big lazy lump,> Hanyi retorted.
+
+<Keep it civil, kids,> Sixiang scolded. <I got a feeling Qi needs to be paying attention.>
+
+Sending Sixiang a silent thanks, Ling Qi stepped inside of Cai Renxiang’s study and offered a low bow to the girl behind the desk. Cai Renxiang was seated in her usual place, resting her cheek on her fist as she stared down at the desktop. It held no stacks of forms and documents now, just a single, long, hinged box made of fragrant, expensive wood and a single open letter.
+
+“Lady Cai, I apologize for my delay. I arrived as quickly as I could,” she said politely, keeping her head low.
+
+“You are excused,” Cai Renxiang replied. “I was aware of your activities.” This was something they both knew, but acknowledging it was part of the game, even if they were alone. Ling Qi was starting to get the hang of these social niceties. “You may raise your head. My honored Mother has given me a task.”
+
+Ling Qi straightened up, giving the letter on the desk a look of renewed concern. The page was pure white and without decoration, but the calligraphy she could see was exquisite. Ling Qi held back a grimace as she felt the echo of displeasure that emanated from those perfectly inked characters.
+
+“I hope that I can be of assistance,” Ling Qi said carefully. “What task does the Duchess have in mind?”
+
+“You are aware of the opening of relations between our province and the Thousand Lakes,” Cai Renxiang opened, drumming her fingers on the top of her desk. She continued at Ling Qi’s nod. “There has been a disturbance on the border. A town in Meng lands has been sacked by bandits.”
+
+Ling Qi’s eyes widened, but her liege continued speaking.
+
+“In addition, a shipment of goods bearing the Cai seal had been in the settlement’s Ministry of Communication outpost and is among the missing goods. Between the missing items and the complaints of the Meng representative at court, Mother is displeased.”
+
+“That doesn’t make sense,” Ling Qi noted. “Surely something like that would have to be too well guarded for a bunch of thugs to access.” Bandits, bands of deserters mostly, were usually little more than starving gangs crouched out in the woods, quick to get wiped out the first time they made a mistake or crossed into the wrong spirit's territory.
+
+“There are places in the Empire where the law has little reach, and the absence of order invites new organization,” Cai Renxiang said calmly. “However, in this instance, you are correct. There are some… oddities. The town’s baron was away visiting his liege, and the guards meant to guard Mother’s goods, including an old third realm veteran, were found drugged and murdered in their barracks with no sign of conflict.”
+
+“That sounds like something a bit beyond bandits,” Ling Qi said shrewdly.
+
+“Quite,” Cai Renxiang replied in a voice as dry as the desert. “The Meng are… obliquely blaming the attack on the changes to security brought by opening the border. Between that and the theft, Mother requires that a point be made in our clan's name. To make that point herself would be excessive, you understand.”
+
+“Are we ready for something like that? Even with the baron missing, a group that could attack a town and get away with it… That’s not going to be just a band of thugs. How are we even getting there in time?” Ling Qi asked.
+
+Cai Renxiang stood, toying with the clasps on the box resting on her desk. “We will be making use of the Sect’s emergency transport formations. It is a great expense, but one that Mother is willing to cover,” her liege said, staring down at the container.
+
+She flipped the box open, and Ling Qi’s hand twitched, grasping for her flute at the ripple of aggression that emerged from the unsealed case. Resting inside, nestled in a cushion of velvet, was an elegant saber. The metal was pale blue with the edge fading almost to white. Etched into the base of the blade was a thumb-sized butterfly, the grooves in the metal filled with powdered diamond. It glinted up at her, rippling through a rainbow's worth of color, radiating awareness and the promise of violence.
+
+When Cai Renxiang grasped the hilt, Ling Qi could practically hear the blade purr as she raised it to eye level with a stoic expression. The blade gleamed with unnatural brightness, sending the shadows in the room dancing. The force given off by the saber was not inferior to Cai Renxiang’s own recently achieved foundation cultivation. “I recognize Mother’s personal touch. She does not give gifts without expectations. You understand the importance of this, correct?”
+
+Ling Qi let out a breath. It seemed the first real test of the responsibilities she had chosen had come. “I understand.”
+
+“It is likely that we will have watchers ready to step in if we fail,” Cai Renxiang continued, staring at the blade in her hand. “However, if such a thing is required…”
+
+“It will be a great embarrassment,” Ling Qi finished. She could practically feel the resources drying up. Well, assuming that the watchers would step in for her in the first place. She forced herself to cheer up; it wasn’t like she was unfamiliar with danger. “At least I should finally get those arts once we prove ourselves, right?”
+
+Cai Renxiang stared unflinchingly into the etching on her new saber a moment longer before lowering it. “Indeed. They were among the stolen goods.”
+
+Ling Qi blinked, shocked out of her worry. “What? Why?”
+
+Cai Renxiang arched an eyebrow. “Our exchange with the Bai included some access to their library of arts in return for a great deal of infrastructure investment and materials. The negotiations on what was exchanged took quite some time. Why did you imagine that your art package was taking so long?”
+
+Ling Qi had just assumed that the archivist was taking his time, or fighting a library monster, or... something. She hadn’t even considered that some of her arts would be acquired from the Bai’s library. Ling Qi shook her head. “All the more reason not to lose.”
+
+“Well said,” the other girl agreed as dark blue threads spooled out of the sword’s hilt, swiftly weaving a scabbard over the bared blade. “You have one hour to make preparations. Meet me at the Governor's manse in the town below.”
+
+Ling Qi nodded sharply and turned to go. She had to let her Mother know what was happening and where she was going. As she moved to leave though, she heard Cai Renxiang clear her throat and turned back to look at the other girl.
+
+“Ling Qi,” she said quietly. “Be prepared for the eventuality that Mother will be using my presence as a lure as well.”
+
+Ling Qi blinked then grimaced. Given the sudden need to rush, she hadn’t even considered that. “Of course. I won’t be caught unawares,” she said, dipping her head briefly. It was going to be a very long night, Ling Qi suspected.
+
+<You’ll be a long way from alone,> Sixiang whispered.
+
+<I, Zhen, will obviously not let Big Sister be hurt!> Zhen scoffed.
+
+<Yeah!> agreed Gui.
+
+<Let’s go beat up some thieves!> Hanyi cheered.
+
+Ling Qi smiled, but a worm of doubt and worry remained. She just hoped things went so smoothly.
+
+***​
+
+The hour she had to prepare flew by. Between fussing with her medicine stocks, explaining the situation to her mother, and giving her goodbyes, the time came all too quickly.
+
+She met her liege at the center of the Sect town, and they were led by an exceedingly nervous mortal man in rich dress, who appeared one moment of broken discipline from openly wringing his hands, into the building's sub-basement where the Sect kept a number of emergency transport arrays.
+
+It only occurred to her after the formation had yanked them away through the aether that the man had probably been the governor of the town. By the time that she had finished having that thought, the sensation of air rushing over and through her had ended, and the world once again resolved itself around her.
+
+They stood outside of a town still smoking and damaged by violence. To their left were torn-up and damaged fields, looking as if a stampede of beasts had just passed through. To her right, the town’s outer wall was breached, a crumbled cleft two meters wide at the bottom giving her a view of a damaged and bloodstained street.
+
+Of more immediate concern was the ring of armed and armored men and women standing around them. Ling Qi’s alarm barely gripped her before reason reasserted itself. They wore the Cai clan’s mark, a red cloak clasp for most, and a yellow pin for a few. There were twenty five of them total, armed with a mixture of swords and bows. Twenty of them were of the late red stage while four were varying levels yellow. The last, an older man with a white rim on his helmet, was at the peak of yellow soul but with a physique of the bronze stage.
+
+The very moment the flash of the transport formation faded, the soldiers were already on one knee. Cai Renxiang did not waste any time in addressing them as Ling Qi scanned the area. “Captain, report.”
+
+The man with the plume on his helm dipped his head lower. What little Ling Qi could see of his face was greying and marked by wrinkles and scars. “Lady Cai, we received notice and left our outpost two hours ago. The town’s guard is gutted but sufficient for maintaining order in the immediate term. I have set my best scouts on the trail of the criminals. They appear to be making for the border.”
+
+Of course they were, Ling Qi thought sourly. Even someone as inexperienced as Ling Qi could see the seeds of an incident with a capital “I” here. Cai Renxiang’s expression remained stoic. “And their force composition?”
+
+“At least two combatants of the third realm, no more than appraisal stage, with a third being possible. One is a metal-focused melee combatant; the other is an illusion user. My scouts have counted roughly seventy lesser combatants moving together with notable discipline,” the captain answered quickly in a clipped and professional tone. “We cannot confirm the third elite combatant, but something is confounding and misdirecting our scouts' efforts at sabotage.”
+
+“Assume there is a third,” Cai Renxiang ordered, gesturing for them to rise as she began to walk forward, eyes tracing the same trail of disruptive qi that Ling Qi saw leading into the thick woodland marsh to the north. The soldiers rose and fell into step around them without a hitch. “Captain, do you believe your men can outspeed the criminals?”
+
+“It will be difficult given their lead,” the man admitted. “Our mounts would only slow us in the marsh, but the bandits’ larger numbers work against them.”
+
+“Ling Qi,” Cai Renxiang said, glancing at her, “do you believe that you can halt their advance?”
+
+“If that is really all they have, I should be able to misdirect them,” Ling Qi replied with confidence. “However…”
+
+Cai Renxiang nodded sharply. Both of them expected something more dangerous lurking in the bandits’ midst. “Allow me to rephrase: are you confident in advancing ahead to slow them?”
+
+Ling Qi felt some pride, knowing that Cai Renxiang thought well enough of her to believe that she could hold out even with the potential unknowns. “Yes,” she replied simply.
+
+“Then I will leave the details to you. Captain, have your scout liaison provide Baroness Ling with the details of your maps and the enemies' trajectory.”

@@ -1,0 +1,97 @@
+---
+id: 6fc9d1d1-2f2b-58b6-8da8-1b992b64d2b7
+page-type-slug: story-chapter-royal-road
+title: "65. Smelting and Forging"
+slug: 0065-65-smelting-and-forging
+partOf: god-of-trash
+position: 65
+ownLength: 2215
+unit: words
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2255078/65-smelting-and-forging"
+royalRoadId: "2255078"
+---
+
+Rhys returned before long with a scorched earthenware bowl. He held it up. “Here we are. Now we’ve got all the pieces assembled.”
+
+“Except the fuel,” Bast pointed out.
+
+Rhys turned and gestured toward the trash pit.
+
+Bast sighed. “I was afraid you’d say that.”
+
+“Wanna help me sort it?” Rhys asked, rolling up his sleeves.
+
+Sighing again, Bast shook his head. He gestured. “Get a pile over here, and let’s get started.”
+
+Rhys pointed his hand at the trash. He called it to him as though he were going to absorb it, but stopped just before it actually absorbed into his body. The trash gathered behind him and piled up there, waiting to be sorted.
+
+Trash Manipulation 7 > 8
+
+He raised his eyebrows. He hadn’t used the skill that much, but it had leveled anyways. Was that because he hadn’t used Trash Manipulation to move the trash, but instead relied on his trash absorption to find a new way to move it? His mind instantly went to Enlightenment. It leveled up every time he comprehended something new, regardless of if it was related to Enlightenment itself, or maybe even his path. Maybe this was a form of enlightenment, to utilize a different method to achieve the same end.
+
+Interesting. It implied that levels didn’t simply come from using a skill often enough that it leveled up, but also from understanding the skill better, or discovering a new way to use that skill. It made sense, since this System seemed to lag him. He developed a skill, then the System rewarded him by naming it, rather than the System giving him a skill, and then him struggling to understand it. Once he had it, the System would level it with use and empower it, but it made sense, too, that understanding the skill better or discovering a new way to achieve the same effect would also give him levels.
+
+I wonder if the strength boost associated with levels is just… well, the natural boost from learning something better and better. Like how shooting one basketball at the hoop might provide the understanding of how to score a three-pointer, but shooting one hundred balls at the hoop would definitely give the shooter an idea of what it took to score a three-pointer, even if the player never succeeded. After all, a hundred balls in, the player would have a pretty good idea of what they were lacking that they couldn’t throw one, whether it was arm strength, wrist strength, or simply the aim and finesse to send a ball flying through the hoop at that distance. Or, at least, that had been his experience back when he’d been forced to attempt sports as a child. He’d known very well that he wasn’t strong enough to land a three-pointer, even if he couldn’t shoot one.
+
+There wasn’t any point in thinking about it too hard. The System would do what the System did. He appreciated it showing him for certain that he’d gained strength, and as long as it continued to do that, he was satisfied. Whether it was a source of strength, or merely a tracker of his personal strength, was a difference that didn’t matter in the end.
+
+Then again, there are skills like Less is More, he realized, as he pondered it. Some skills definitely gave a boost unto themselves. Maybe it was somewhere between the two, and some of the skills the System tracked were just measures of how well he comprehended and could use them, some were purely System-granted boosts, and most were somewhere in between the two.
+
+Though now that he was thinking about it, most of the measure-of-comprehension skills the System tracked for him were linked to his path. Maybe they didn’t give a boost because the System had never faced someone with a trash path before, and it didn’t know what to do.
+
+You know, that makes a lot of sense. If that was the case, then did everyone who forged their own path essentially break ground on the System, and set the skills for everyone else who followed? It was an interesting idea, and one that Rhys didn’t fully understand the consequences of yet. He tucked it away in the back of his head to think on later, or do a bit of research on in the library. The only consequence he could think of right now, was that it gave the path-maker an advantage in making their skills more flexible—literally whatever they worked toward at the time—as opposed to path followers, who would get whatever their founder had groundbroken on.
+
+Then again, I don’t know that a path-follower couldn’t make their own skills. I don’t know anything about this. At this point, I need to admit that I’m just making things up, running thoughts to their natural conclusion and ending up in the land of pure speculation.
+
+“Thinking about something?” Bast asked, quirking a brow.
+
+“Trash,” Rhys explained.
+
+Bast nodded, understanding without having to be told anything further.
+
+When a good amount of trash was piled up, he began to separate it into burnable and non-burnable. Any items that seemed outright useful, like large sections of cloth, broken weapons, or sturdy wood, he set aside in its own pile, and by force of habit, he also made a pile of organic matter for composing. The ‘useful’ trash was further separated into metal and non-metal, in case he needed to reach for some extra ingots. As he went, he searched the larger objects for something, something that he desperately needed, examining the insides of vases and tipping cups upside down just in case, but he found none of it. Maybe a tiny trickle, but nowhere near enough.
+
+“What’re you looking for?” Bast asked.
+
+“Sand. I need sand, or something like it, and a few bags of it, at that.” Rhys tipped the chest of drawers over and shook it, but nothing but a thin patina of dust came off.
+
+“I could get you sand,” Bast replied.
+
+“That would be hugely helpful. Thank you.”
+
+“No problem. Anything for the plan that makes us rich enough to piss gold.”
+
+Rhys looked at Bast. Bast grinned back at him.
+
+“I did say that, didn’t I.”
+
+“You sure did.”
+
+“I’ll use a better metaphor next time.”
+
+“No, no. This one’s funny.”
+
+Bast put his mask back on and dashed away, leaving Rhys to work alone once more. Rhys stuffed fuel into the bottom of his ramshackle trash furnace and paused, yet again at an impasse. After all this time, he still didn’t have a way to cast a single fire spell.
+
+Is fire incompatible with my path, or something? he wondered, staring at the furnace. But that didn’t feel right. He could ignite the trash in his core just fine, he just had to do it in a roundabout way, and he’d never had a problem with burning the trash to ash first before he processed it into potions. He knelt and began the manual process of igniting the trash, still a bit confused. The other strange thing was, that even though he’d developed several manual, somewhat shitty ways of lighting things, the System hadn’t given him a skill related to ignition. It was as if it refused to acknowledge his efforts.
+
+The trash lit, and he fed it kindling until the flames were strong enough to devour the larger pieces of trash. Standing back, Rhys gazed into the fire, still pondering this mystery. Even if the System hadn’t given him a skill straightaway, it definitely should have by now. Why did he still fail to obtain a fire-related skill?
+
+It came to him suddenly, like a bolt from the blue. Rhys staggered as the enormity of the realization slammed into him. It’s because I see fire as super valuable and worthwhile. I can’t possibly see fire skills as trash, so it’s the hardest kind of skill for me to learn.
+
+He stared into the burgeoning fire, his eyes wide. Was it true? Was that why he struggled so hard to learn fire skills? It couldn’t be. And yet, a creeping sensation rose up within him that yes, this was the truth; this was exactly why he struggled so hard with this one particular type of skill. He valued it highly, not only because it was supremely useful, but also because it was cool, and awesome, and all the main characters of his favorite shows all used fire. Fire skills were the furthest thing from trash, so he couldn’t possibly develop a skill for it… or at least, it wouldn’t be easy. His trash-level talent was in full display when it came to fire skills, and in fact, he wouldn’t be surprised if all his trash buffs meant he had an equal-and-opposite debuff for skills he valued highly. At the very least, he had no buff to learning fire skills, and he was sure about that.
+
+“Well, gods damn it,” Rhys muttered, shaking his head, hands on his hips. Fire might just be out of his reach in this life, or at least, fire mastery. He was sure he’d eventually be able to learn some kind of fire spell, probably, but not quickly, and not without massive effort. It was to the extent that the juice probably wasn’t worth the squeeze, if he hadn’t learned one already. Better to focus on his strengths than try to shore up his weaknesses.
+
+Nothing he could do about that. The fire had already started to harden the clay they’d used for the forge, and the clay already showed signs of cracking. Rhys stepped closer, carefully laying his hand on the coldest part of the furnace and coursing Trash Intent through the whole thing.
+
+Instantly, he was besieged. The trash had no intent of its own; or rather, it had a thousand intents, all of them very different. Some of the bricks longed to be a house once more. Others wanted to be a path. Some had no previous life at all, and barely responded to his intent. It was like melding the cloth together to make his robes, but a thousand times worse, because everything they wanted to be was so large and grand that it risked forcing him to overreach his mana if he accidentally activated even a little of it. That, and the fact that he was trying to school them into being something unlike what they’d been before. With the clothes, he’d asked fabric and clothes to become a different kind of clothes. Either it hadn’t had any intent, or it had previously been clothes, and he could reason it back into being clothes. These bricks, on the other hand, the ones that had been used for something, had been grand mansions or wide roads. They had no concept of a furnace; it was a thing totally alien to them. Not only that, but being in proximity to fire was purely negative to the bricks. They longed to be complete, part of a greater whole, not mixed with a few of their fellows and forced to be some small, dingy construction.
+
+The clay, meanwhile, longed to return to the riverbank from which they’d taken it. It wanted to flow, to be soft and liquid, not baked into a static form. Every piece of its intent fought against what the fire did to it, what Rhys meant to do to it.
+
+Rhys furrowed his brows. Trash Intent could pull out an object’s fullest, greatest potential from its most powerful state, yes, but it was also his intent. It was an intent that belonged to him. His intent, not just the trash’s intent. Often, he wanted to let the trash take control and give bring its own intent to the forefront, but not right now. Right now, he didn’t care what the trash wanted. It was his intent that mattered. His goal. His purpose. In his mind’s eye, he held an image of the furnace he’d built, running at full power, and with all the force he could muster, he impressed that image upon the shittily built, trash furnace sitting before him.
+
+The bricks complained. The clay screamed. Every single piece of it longed to be anything but what it was, to be something greater, not this tiny brick construction built by some amateur. The walls had been laid by master brickmasons, the houses constructed according to master architects’ plans. The clay had laid on the side of that river for years, ever since it had been deposited by the last great flood. This was below them. Every single piece of trash exuded that aura: that this thing, this pathetic first attempt by someone who had never worked with bricks nor clay before (save that one time in first grade where they made tiny clay birds), was far below them, that this was not a greater construct, but a lesser state of being, where they were demeaned and brought low for a lesser purpose.
+
+Rhys narrowed his eyes. “Oh, it’s below you, huh? This furnace I’m trying to build… even you see it as trash, don’t you?” A grin spread over his lips, and his eyes flashed. “That’s right. It’s trash. And you’re trash. Become my trashy furnace, and live in trashy harmony!”

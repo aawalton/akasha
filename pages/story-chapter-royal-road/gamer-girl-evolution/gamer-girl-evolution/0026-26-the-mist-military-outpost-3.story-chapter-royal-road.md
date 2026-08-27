@@ -1,0 +1,173 @@
+---
+id: c3fc567c-d607-5ae4-a67a-35106e700f1e
+page-type-slug: story-chapter-royal-road
+title: "26 - The Mist Military Outpost (3)"
+slug: 0026-26-the-mist-military-outpost-3
+partOf: gamer-girl-evolution
+position: 26
+ownLength: 1944
+unit: words
+ownProgress: 1944
+publishedAt: 2025-10-31
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2720297/26-the-mist-military-outpost-3"
+royalRoadId: "2720297"
+markedReadAt: "2026-06-29T20:06:25.025Z"
+---
+
+— "No way, did he just succeed in ragebaiting the enemy commander? Just like that?"
+
+— "This guy has balls of steel. We have to go for a beer sometime."
+
+— "Does this guy have any regard for his life?"
+
+The soldiers shouted amongst themselves, excited to see the spectacle play out. Although they were in the middle of an extremely intense war, the arrival of this strange swordsman with a broken sword had turned the tides of battle completely.
+
+Now they could relax, if only for a short while. It was clear the army wasn't going to target them at the very least. Not until they'd gotten rid of the arrogant human who'd disrespected their leader.
+
+Compared to everyone else, Celica was calm. He took the bait, she thought to herself. In certain scenarios, particularly when a boss was stupid or below average intelligence, players could enrage the boss to change the quest.
+
+While the change wasn't always positive, the majority of the time, the result would lead to the quest difficulty increasing but the rewards would also increase in quantity and quality.
+
+Now all she had to do was weather the storm and great rewards would be waiting for her. But that was exactly the issue. She had to weather the storm of hundreds of monsters chasing her with no regards for their own lives. And that storm was approaching. Fast.
+
+Suddenly, she dropped her arm, the sword she'd raised so triumphantly earlier now hung next to her waist. Like clockwork the soldiers began speaking up.
+
+— "Hey, he's not giving up... right?"
+
+— "Wait, I have to go home to my beautiful Eonian family. You can't die without a fight!"
+
+—  "Guys look, he's running!"
+
+— "I knew the guy was a no-show. Told you."
+
+The guy who said he was running turned to his friend next to him, his eyes blank. His next words came out slow. "He's running towards them."
+
+"WHAT!" the other soldier shouted in response, his eyes turning back to the battlefield. In front of them, one man was charging headfirst into an army—no, into two armies!
+
+With a smirk on her face, Celica rushed directly towards the army in front of her. She didn't have experience fighting this many enemies at such a low level. The only time she'd come up against a force this large or larger was on the later floors when she had much stronger skills, equipment, weapons and armour. If she charged in as she was, the result was simple. She'd die.
+
+And she knew that. She knew that very well. She quickly opened up her status page.
+
+***
+
+[STATUS]  Celica Travine Crystalis <Champion of the Marsh> Level 34 Human (Supporter) EXP: 1% towards the next levelSTR: 102 | AGI: 53 | VIT: 25DEX: 5 | END: 5
+
+***
+
+While she wanted to delusionally believe that her movement was so good she'd be able to evade getting hit from literally a hundred monsters attacking her at once, she knew realistically that wasn't the case. She took the 20 stat points she hadn't used yet and slammed them all into vitality.
+
+It wouldn't make her the tankiest player ever but it would at least stop her from being bursted after a single hit or two.  While her armour wasn't bad, she couldn't rely on it for a fight of this scale.
+
+Additionally, her buff would increase her vitality too, so she'd have much more survivability at the very least.
+
+If this had just happened on a later floor I'd be able to take them all on at once, but since it happened so early... Celica wracked her brain as she dashed forwards. Suddenly, the answer came to her. The only way to play this fight became clear to her.
+
+As the two armies—rather, as the one-man army and the monster army drew nearer, everyone on the battlefield held their breath.
+
+— "Surely he's not going to take them head on, right?"
+
+— "Shouldn't we be trying to protect him instead of watching? If we keep him safe don't we just win by default?"
+
+— "Please live mister! Save us!"
+
+Just then Celica drew the first blood, slashing through the two creatures in front of her, a void wyrm and a rift-born ogre.
+
+[+600 EXP] [+620 EXP]
+
+Just as she cut through the first, another appeared in front of her. And another. And another. Soon, her entire POV was filled with only various monsters. It was impossible for a normal person to have their bearings in a situation like that. Most people probably wouldn't even be able to tell which way was up and which was down. But not Celica.
+
+[+570 EXP] [+500 EXP] [+620 EXP] [+645 EXP] [+555 EXP] [+660 EXP] [+545 EXP] [+570 EXP] [+490 EXP] [+515 EXP] [+645 EXP] [+455 EXP] [+560 EXP] [+545 EXP] [+570 EXP] [+760 EXP]
+
+Quickly, Celica found herself overwhelmed. Attacks were flying in from directions she couldn't even imagine as she found herself surrounded.
+
+So I can only kill around thirty like this... she thought to herself, slightly disappointed.
+
+In reality, it was extremely impressive to be able to kill this many monsters in a situation like this and no other player at this point would've been able to kill more than five. But Celica always wanted to push her limits. Even in a tense situation like this she was limiting testing.
+
+Still, she'd failed to killed them all. Now it was time for plan B, her real plan.
+
+Run away!
+
+In the midst of all the monsters, Celica slashed through a troll, using it's still standing corpse as a springboard to launch herself into the air.
+
+[You have equipped The Monkey King's Cloud.]
+
+Then, a scene no one was expecting played out. Snapped Sword was gliding above a sea of monsters!
+
+— "No way, he can't be real."
+
+—  "Uhm...."
+
+Celica smirked inwardly as she watched the crowd of monsters chase after her. The item she equipped was a vehicle she got all the way back on the first floor in the first dungeon. Back then she'd been disappointed that she couldn't use the cloud to fly but it turns out it had a different mechanic she found after some testing.
+
+Gliding.
+
+She didn't know if or when it would come in handy, but luckily it had. The downside was, this wouldn't last for. She'd fall to the ground very soon. But the vehicle had already done it's job.
+
+All Celica wanted to do for now was create some distance between the main crowd of mobs and herself.
+
+Once she'd made some distance, she jumped off the cloud and instantly stored it in her inventory, landing next to a few monsters at the very outskirts of the crowd. Then she began shouting mockingly, "Come chase me, come! I've got all day!"
+
+The soldiers watched on with wide eyes as Snapped Sword ran around the battlefield. Behind him was hundreds of monsters, chasing after him like they were all playing a crazy game of tag.
+
+At first, the soldiers thought he'd just gone completely crazy. But then something strange happened, which betrayed all of their expectations. Not only could the monsters not close the distance, instead the distance was increasing.
+
+— "Why does it look like... he's teleporting?"
+
+— "They can't catch him? Seriously?"
+
+As if to mock them, he began stretching on the spot. Then he began yawning like he'd long since grown tired of them and this whole chase. Purple veins bulged from the Rift Toad's face as puffs of steam spread out from around him.
+
+Then, as if to add insult to injury, periodically, Snapped Sword would turn around and dive back into the enraged crowd, taking out all the ones he could manage. Once he was tired, he'd escape into the air and use his vectoring movement to get out as soon as he landed.
+
+At first he could only slay thirty monsters but that quickly changed to fifty then eighty on the next attempt. And one hundred and fifty five after that. He was adapting.
+
+If any players were around, their eyes would widen in shock at how perfectly he was kiting them all. And at the fact that he was killing more and more of them with each time he dove back in.
+
+***
+
+The NPC military commanders looked at each other, both of them seeing an expression of amazement from the other. "I thought we'd have to intervene sooner or later but at this rate..."
+
+"Yeah, he's going to kill them all without us lifting a finger," said the other commander, still surprised.
+
+Initially, they'd wanted to wait for an opportune moment to strike at the enemy boss. They'd sent small flank units to wait and ambush the boss or break the rift while it was distracted by Snapped Sword. The flank units were just waiting for their signal.
+
+But at this rate, they didn't need to give the signal. Snapped Sword would clear them all and the boss.
+
+"This way of fighting and then retreating on his own terms..." the two commanders looked at each other before they spoke in unison. "Guerrilla warfare!"
+
+***
+
+Meanwhile, Celica was in her own world. She had to retain absolute focus while she was diving into the army and when she was trying to escape as the monsters had begun to figure out her strategy after seeing it so many times.
+
+This strategy just wouldn't work if they had a better commander or if they stopped chasing her. But since she kept taunting them, with her yawns and stretching, they just kept chasing her. Now their thousand strong army had dwindled to a hundred, at best and Celica's EXP bar had sky rocketed.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+Seeing how this whole scenario unfolded, white clouds started dripping from the Rift Toad's mouth as he started hopping up and down violently. His purple head was quickly turning black from sheer anger.
+
+Out of sheer annoyance, the Toad left the rift it had been so desperate to protect.
+
+Seeing this, Celica's eyes narrowed and her heart started beating faster. It's finally leaving the rift... her eyes gleamed as she eyed the distortion in space. But before she could congratulate herself, the Rift Toad was already in front of her. It'd moved faster than even Celica did when she used her vectoring glitch.
+
+[FRENZIED RIFT TOAD (Mutant) — Lv. 36]
+
+Celica's mouth hung open as she eyed the natural disaster in front of her. It had entered an enraged state, meaning it'd deal at least 25% more damage until it calmed down. And it didn't seem to be on the verge of calming down anytime soon. Not only that, in its rage, it had even somehow mutated.
+
+I didn't even know that was possible... Celica murmured to herself. Even in all her years of playing the game, she'd never seen a boss mutate into a mutant out of pure anger. The under-levelled Cyclops was already a pain in the rear with two phases.
+
+A mutant this high level and enraged. The likelihood was that it'd have at least three phases, and very varied attack patterns. Attack animations that Celica had never encountered before.
+
+Her best bet was to run away or ask the spectating armies for help. She knew that. Yet, for someone reason, she was brazenly walking towards the mutant.
+
+And, she was also... smiling?
+
+"It's about time you showed up. I was getting bored of your minions." She brandished her cracked crimson sword before pointing it straight at the toad once again. "I prefer boss fights anyways."

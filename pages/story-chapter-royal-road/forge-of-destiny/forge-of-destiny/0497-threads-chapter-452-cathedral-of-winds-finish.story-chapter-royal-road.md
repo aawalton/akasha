@@ -1,0 +1,161 @@
+---
+id: 43ab3a46-951a-59c2-a767-76473b994716
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 452-Cathedral of Winds-Finish"
+slug: 0497-threads-chapter-452-cathedral-of-winds-finish
+partOf: forge-of-destiny
+position: 497
+ownLength: 1954
+unit: words
+publishedAt: 2025-06-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2343838/threads-chapter-452-cathedral-of-winds-finish"
+royalRoadId: "2343838"
+---
+
+The journey to the broken fire node was made quickly, but compared to the frenetic pace of the chase, it felt like an idle stroll through the tunnels, watching silty pollution slowly clear while underworld flora writhed and died, choking on the purified waters. It made for a morbid sight.
+
+Soon, they moved from tunnels of white and gray stone to wide passages that still whispered with the heat of the earth's molten blood. It was here that the pollution was the thickest. The water nearly had the consistency of tar for long stretches, and many-legged things burrowed and wormed through it like they might mud on the surface. Here, the underworld environment clung on with tenacity.
+
+Ling Qi pushed the seeking fronds aside with only half a thought.
+
+The crystal chamber lay at the top of a great lava tube ten meters across. The crystal itself looked like an open cyst in the stone. Shattered crimson crystal was slowly going black like infected flesh, and melted material pooled in the crater at its center.
+
+They left it behind though, descending another forty meters before they finally found the split in the tube. It led out into a low ceilinged, abyssal tunnel, from which impurity spewed in great black clouds. Sixiang shifted uncomfortably in her head, and Qiyi drew tighter around her, as if to close even the most miniscule gaps in her threads.
+
+Li Suyin's impurity protection held firm.
+
+"I will begin the ritual and placement now. Would you please commune with the spirit? If it interferes and reacts in the wrong way, it could very easily ruin the ritual."
+
+"Soothe the patient while you perform the stitches, hm?"
+
+"You understand why it's a vital task then, since it can't be sedated."
+
+Ling Qi nodded, drifting back as Li Suyin extended her hands and began to materialize the Five Temples Seal. Like the array above, it came into existence slowly, a cross-hatched disc of dark gray metal some three meters wide and half a meter thick and inscribed with complex arrays filled with jade and gem dust.
+
+As XInghong hauled it into the center of the split in the stone and Li Suyin waved her head, calling out five steel-tipped jade spikes in different shades to spin out and hover equidistant over the stone around the plug, ready to be pounded in, Ling Qi closed her eyes and retreated into her own mind. She reached out to the distant lattice of crystal radiating out through the spiritual realm which surrounded them.
+
+“Attuner,” the spirit acknowledged.
+
+“We have reached the breach and are beginning to seal it. Please trust our method, honored spirit. The sensations you feel and will feel are no attack. You have my pledge, and you can confirm it through our lingering connection.”
+
+Li Suyin probably would have beaten her over the head with the Five Temples Seal if she properly understood the level of connection she had allowed with the Piper spirit. Folding their senses together so acutely allowed the spirit the ability to easily crush her mind by flooding her with sensation and memory until the mortal channels burned out.
+
+"You're lucky I understand your reasoning so well, you big doof," Sixiang grumbled privately.
+
+The Piper, whatever else it was, was not an entity that would do this though, not without being brought through some truly unlikely decision paths. There was only a very, very small chance of this occurring.
+
+And if so, it would not do so through this method.
+
+“I hear and watch. The Attuner understands the breadth of my gaze.”
+
+It could easily feel her intentions too deeply for her to deceive it.
+
+"I do, Harmonizer of Lands, Composer of Strands. More proper names than Piper, no?"
+
+The spirit's answer was a lingering silence, a holding thrum in its song, devoid of all but the base beat of its existence.
+
+"Six Hundred and Seventy-Ninth Incarnum of Discordia Realignment Orchestra."
+
+Ling Qi sucked in a sharp breath, the throbbing pain in her head that had subsided coming to the fore in an instant. The Name echoed with the weight of age which exceeded the empire, and also the time of Tsu the Diviner and the Legendary Kings. It harked back to the dim ages before any true history was known. It rang with edges of jagged glass and crumbled rubble, a structure that had broken and receded, made less again and again…Six Hundred Seventy-Nine times.
+
+"There would have been no Six Hundred and Eightieth Incarnum."
+
+"There would not."
+
+What was left here was only the scraps, less even with the two shattered and corrupted nodes.
+
+"What purpose do you bear?"
+
+"None. All macro functions are defunct. Replaced. Maintenance of the internal environment and spirit creche remains. Knowledge of the discordia project was lost in the seventeenth Incarnum. Irrelevant to the current environment. Harmonious Memorial Piper. Sufficient name."
+
+"Then let it be so, Harmonious Memorial Piper."
+
+She felt Li Suyin's ceremony progression as a ripple through the liminal when a steel spike and its jade cap were pounded in, calling on one of the great spirits of the empire. So, too, she felt the reflexive twitch of the spirit all around her, the reaction from its foundations as a roar of rage at the intrusion of a foreign sovereign.
+
+Or so it should have been. It bent through the layers of spirit built atop those foundations and emerged more as the raspy cough of an ill old man.
+
+Li Suyin's ritual went on without interruption.
+
+“Your song. It sings harmony. The ordering of seasons. The replacement of fallen function. The fall of chaos. What is YOUR purpose?”
+
+Ling Qi tilted her head back. That was a fair question, given her own. She was far from finding an answer to that herself though.
+
+"Life's a lot easier when you've only got one track to run on," Sixiang commented. "I can't even say it's less fun, but I like stumbling around a bit anyway, you know?"
+
+Ling Qi agreed with Sixiang, even if she knew it wasn't a state that could last forever. One who chose to seek the height of cultivation didn't have that privilege.
+
+Why did she sing? Why did she seek to be heard? It was because…
+
+The truth of art is Communication. There are many paths to many Ways. The Master of Communication seeks the parallel, the flow of many paths toward harmony.
+
+The purpose of expression was to communicate an idea. It was the tool which bound communities together through the stories they told each other. The stories revealed who they are and who they had been.
+
+It was all stories in the end. The past was a foundation, but in looking back, one could not help but distort it. This might have been the root of what had driven the Hui to what they had become. To truly internalize the truth that everything humans were was built on a foundation of fiction and self-editing narrative invited so many deviations and twisted conclusions.
+
+It was easy to see how one could become enamored with the notion of treating the fabric of a society as nothing but a canvas for one’s whims. It made it easy to descend into self-interested solipsism, forgetting that other people were not just characters in one’s plot, but storytellers in their own right.
+
+At the same time, she could see where the urge to meddle had come from. The Emerald Seas yearned for a story which all the Emerald Seas could tell.
+
+How many beast gods were there? Twelve, of course, for the pillars of the throne.
+
+What were the beast gods? Well, they were whatever animal served the writer's purpose for the story they wished to tell about Tsu, and through him, the province.
+
+Who was Tsu? A uniter, a man of great words and deeds, a builder of alliances, a great seer and wise man, and the first and greatest tiller of the land.
+
+Why did he do what he did? Who was worthy of words, and who was worthy of spears? Who had betrayed the covenant? Who had been betrayed by the covenant? Who was a brother, and who was an intruder in the house?
+
+These answers, too, depended on the story the writer wanted to tell.
+
+History was made of stories. The past was made of people. And stories were never quite as complex as people in all their contradictions.
+
+"Your thoughts are heard. Harmonious accord is a well-tread purpose."
+
+"Was it yours once?"
+
+"No. Little memory remains. But my purpose was not so accommodating."
+
+She felt a grinding down in her bones, like the gears of a grist mill, crushing all which was placed between them, producing a fine, even powder for use. What went in did not matter, unless it was so hard as to break the teeth of the gear. It reminded her of crucibles and flame, of the molten ore, undifferentiated, that was once a million lives and objects and thoughts.
+
+"What do you intend. Attuner?"
+
+"I intend to watch over the people who will come to live in this land. I will build and grow for them and for me, to make a place for kin. Harmonious Memorial Piper, what rites do you desire?"
+
+"Silence for my creche. No prodding fingers and curious eyes and tramping feet."
+
+She understood, even if the answer was disappointing.
+
+"Do you object to a shrine in the great cavern to make use of the crystals that grow above?"
+
+The spirit considered the request.
+
+"Shrine / attunement node acceptable. Outer Shrine, beyond shadows, under light of sun and moon. Inner Shrine, in my light, limited access. You. One other. Only this."
+
+She could accommodate all of that.
+
+”Provide maintenance where I cannot reach. The Light Crystal, I will gift.”
+
+"Hope he doesn't expect you to know what he needs," Sixiang quipped.
+
+No, she didn’t think he did. That request was an oblique invitation to further communion. Arrangements would be made.
+
+Ling Qi let out a breath as she withdrew from contact with the spirit, returning the main of her attention to the descending cavern shaft and Li Suyin's sealing ceremony.
+
+Each of the five stakes had been hammered into the stone, sunk in until only their jade cap was visible. The great metal sealing disk had sunk inward as well, stone shaping like clay to embrace it, and the cracks extending above and below it sealed themselves as well, choking off the final streamers of corrupting impurity rising from the underworld beyond.
+
+Perhaps one day, they would have reason to check beyond the seal, but for now, Ling Qi was just glad she had one less threat to worry about.
+
+Besides, she was going to have a lot of dealing with the underworld soon enough.
+
+Li Suyin clapped her hands once, and the whole cavern shuddered. The impurity faded, leaving only the pitch black waters of the volcanic tube, and the three of them suspended in that darkness.
+
+Suyin sagged forward, and Xinghong was there in a moment, scooping her up in both sets of arms like a princess. Mandibles clicked in concern and pride for his maker’s deed.
+
+Or so Ling Qi understood anyway.
+
+"Oh, stop with that expression.” Suyin gave her a grumpy look. “This is just the retreat programming."
+
+"Of course," Ling Qi placated. "Let's get back to the surface. Perhaps we can catch Su Ling and Gan Guangli in a compromising moment."
+
+Li Suyin rolled her eyes as they began to rise through the water. "I don't know when you began to make such jokes, but you know Sir Gan is too noble for that."
+
+Ling Qi laughed. She didn't know about that.

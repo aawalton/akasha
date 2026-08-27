@@ -1,0 +1,129 @@
+---
+id: ad7af009-b243-5291-b992-80f411a9e147
+page-type-slug: story-chapter-royal-road
+title: "84. We've Got to Stop Meeting Like This"
+slug: 0084-84-weve-got-to-stop-meeting-like-this
+partOf: god-of-trash
+position: 84
+ownLength: 2375
+unit: words
+publishedAt: 2025-05-23
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2301027/84-weve-got-to-stop-meeting-like-this"
+royalRoadId: "2301027"
+---
+
+“You know, the first time we met, you mentioned telling me about the background between our schools. Never got around to it, did you,” Rhys said.
+
+She shrugged languorously, something sensual about the motion. “You didn’t press me for answers. I conveniently neglected to bring it back up.”
+
+“Where were you? Why didn’t Ernesto mention you?”
+
+“I was there to keep an eye on Ernesto… or to get me out of the way,” she murmured, vicious light shimmering in her eyes. She yawned, propping her head on her hand. “I didn’t like the thin excuse to push me out of the negotiations, so I decided to lounge instead of try to watch Ernesto.”
+
+“Ah. Do you know about the curses…?” Rhys asked.
+
+She rolled her eyes. “Everyone knows about the curses. The administration is looking the other way for now. I’m simply there to provide testimonial when they do eventually decide to hammer him for breaking the Alliance’s curse embargo… not as if they’ll listen to me, anyways.”
+
+Rhys squinted. “Why not?”
+
+“Have you noticed I’m not human?” she asked dryly.
+
+“I have, but… is that bad?”
+
+“No, no, of course not. No one associates non-human mages like monsters and spirits with the demon lord. Who would do that? It would be insane to group all non-humans under the demon king’s banner when many of us actively fought against him.” She made eye contact the whole time, sarcasm thick in her voice.
+
+“Ah,” Rhys said, nodding. He was familiar with that particular line of thought. “The Alliance is very human-centric, then?”
+
+“You could say that,” she said dryly. A moment passed, and she shrugged again, no less luxurious than the first one. “Not without reason, of course. A good number of non-humans did fight on the demon king’s side. But we didn’t all choose the demon king.”
+
+Is that why Az acts the way he does? Rhys wondered. Wandering from place to place, using his strength to take over libraries without asking… did he do that because he knew the mages would never let him in the library, except if he entered by force?
+
+And then he shook his head. No, I’m pretty sure he does that because he’s a cat, not for any deeper reason.
+
+“Is there a reason your luminous self has decided to visit me?” Rhys asked.
+
+Lira sighed dramatically and flicked her hand. Power rushed over them, and Rhys sensed that they’d been cut off from the world. She flicked her sleeve, and a damp rat skittered out, spooked, tail high and fur as puffed as the water would let it be. It scurried over to Rhys and hid behind his ankles, peering out to hiss at Lira.
+
+Rhys startled. He looked at the rat, then back at Lira. How much does she know?
+
+“They told me to watch you, too. But I know what you’re after, and I’m not too interested in ratting you out. You’re trying to free your master, aren’t you? The Strawman.”
+
+Rhys narrowed his eyes. He said nothing.
+
+“I don’t mind. I think he’s been unjustly captured, simply because he’s inhuman. He was created by the demon king. He didn’t choose to fight under that tyrant’s banner, and he escaped the demon king even during the king’s reign. When they captured him, he was quietly mentoring a few students; nothing illegal. The Alliance’s bias against non-humans is what drove his capture, not his actions.”
+
+Rhys watched Lira closely. Her body posture remained as relaxed as ever, but there was a subtle tension in the lines of her neck and her shoulders that hadn’t been there before. Her lips pursed in distaste. As far as he could tell, she was absolutely telling the truth about her thoughts on Straw and non-humans.
+
+She had come to him, rather than reporting him. Could he trust her? The fewer people he admitted his plans to, the better. He could trust Bast, but Lira… Lira was a total unknown.
+
+At last, he shook his head. “I don’t know what you’re talking about.”
+
+She harrumphed, lips turning upward in an amused grin. “Of course. No, why would you? Let’s put it like this, shall we? I’ll continue to turn a blind eye to your rats. And you… remember what I’ve offered, when the time comes to free the Strawman.”
+
+“Huh? To what?” Rhys asked, pretending to be shocked.
+
+They stared at one another for another few beats. Lira waved her fingers, and the power dissipated. Silence stretched in the room, save the rush and drip of water pouring onto his bed.
+
+At last, Lira said: “Your bed’s wet.”
+
+“I noticed, thanks.”
+
+She rose and walked out without another word, her wet robes and pouring umbrella trailing a puddle behind her. Rhys moved out of her way to let her pass, and she stepped in, close enough his chest grew wet.
+
+“I hope I haven’t mistaken you, Rhys Foundling.”
+
+For a single beat, Rhys stared at her, lost. In the next, he realized what she meant. It was fine that he had denied her guesses, but in doing so, he had put her in a vulnerable spot. If he truly wasn’t interested in rescuing Straw and chose to go to the authorities right now, it would be Lira’s head that rolled.
+
+Of course, that was assuming this wasn’t a setup from the beginning… but honestly, he didn’t think it was. There was fire in Lira’s eyes, the fire of a true conviction. And of everything he’d seen of her so far, he didn’t think she was the kind to take action that disagreed with her fundamental beliefs, even if it was giving the guy who’d cleaned out her fountain information she didn’t want to give him.
+
+He lowered his head. “I don’t think you have.”
+
+Their eyes met. Her blood-red irises burned into his, searching his face. Whatever she found there, it satisfied her. With a quiet huff, she turned and sloshed off.
+
+Rhys watched her go. He’d thought it would be him and Bast against the world, rescuing Straw, that the cursed doll was ‘evil,’ and that was all there was to it. But it seemed there were nuances to this world, subtleties and associations that he hadn’t even considered yet.
+
+This world isn’t trash.
+
+The words rang in his head, some undeniable truth to them. This world wasn’t trash. Something about that was important, desperately so. He tilted his head, brows furrowing as he thought, but whatever it was, it wouldn’t come to him so easily.
+
+His eyes drifted to the window as he thought, and he jerked up. The sky was getting dark. It was potato chip cooking time! If he didn’t get there soon, Bast might think he’d abandoned him! Putting the thought aside for a moment, he raced out of the dormitory and back toward the trash heap.
+
+As he ran there, he reconsidered his train of thought. All things considered, there was every possibility that Bast was going to be spending this afternoon training, or doing something useful, instead of playing around and making potato chips. Gold was everything to Rhys, trashy as he was, but Bast was a real swordsman with a real master. He might not be available to make potato chips, even if he wanted to.
+
+Ah, well. If he was making potato chips alone, so be it. He’d keep the gig running until Bast showed up again.
+
+He therefore wasn’t completely shocked to find the trash heap quiet and empty when he arrived. It didn’t bother him too much. Humming to himself, he got started on growing the potatoes and heating up the oil. He ignited the impurities he’d spread in his body earlier. Even for him, it was dangerous to leave impurities in his bloodstream for too long. He glanced at the big trash pile, a bit of longing in his heart. He’d been putting the trash on back burner to focuson junk food, but now that he had junk food down and gold flowing into his pockets on all-but-autopilot, it was time to turn his attention back to the trash, and his ultimate goal: absorbing ever more and more powerful impurities.
+
+The rats dug up a fresh batch of potatoes, and he accepted them with grace. “Bast, can you—”
+
+He faced an empty kitchen, with nothing on the table.
+
+“Right… right. He’s got better things to do.” Rhys drew out his knife. Then again, it never hurt to develop his knife skills. All blade skills were valuable, even if they weren’t for a weapon he was currently using.
+
+The potato chips came out a little less consistent, but they were still passable, as far as Rhys was concerned. Besides, he had the formula nailed enough, that he didn’t have to worry too much about a few little inconsistencies in chip width. The customers should put up with it, as long as he kept the enlightenment sensation in his snacks.
+
+Using his skills and speed, he powered through enough batches of chips to satisfy two hours of tomorrow’s customers. The sun had set by the time he packaged the last ones, and the moon was approaching its apex. Rhys dusted the salt off his hands and strode out into the trash. Most of the stuff near this edge was fully sorted, with only the most unusable garbage left. In other words, garbage perfectly suited to being burned.
+
+The trash star technique was as much about the mass of the trash as the toxicity of it. In essence, the trash stars meant the quantity of the garbage counted as much as the quality, whereas previously only the quality had counted for anything. This trash was both high quality and quantity; less quality than the toxic trash heap, but the quantity made it almost as good. Still, he wasn’t satisfied with merely igniting more trash stars. He could advance evenly and slowly this way, but that wouldn’t break him out of being trash. It would only mean he remained a trashy Tier 2.
+
+Sure, he’d trounced Arches, or whatever his name was, but that was mostly due to trash talking the man until he couldn’t think straight, drawing him into pressing the attack before he took measure of Rhys’s strength, accidentally triggering a phobia of his, then immediately ring-outing him before he actually used any of his real techniques. It was the equivalent of button-bashing against a pro fighting game player and getting off a single cheese combo to kill their fighter once. It worked once, but that was it: once. One win didn’t win a tournament,
+
+Now, he could have ring-outed Archie without the rat phobia, but that wasn’t the point. The point was, squeaking out a victory like that wasn’t a consistent, reliable strategy. He needed consistence, reliability, and the kind of overwhelming power Bast had, where nobody could question whether he deserved the win or earned it.
+
+The musclehead was one thing. He’d only barely beaten Cynog, and he didn’t relish what was essentially a rematch with one of his closest matches… that he wouldn’t have won, by this tournament’s rules. The cloaked figure was a whole other problem. Based on the speed of their victory, they were at least as strong as Bast, but a mage instead of a swordsman. He’d never fought a mage before. In some ways, the musclehead would’ve been easier to deal with. He knew how muscleheads fought. He didn’t know how mages fought… except how he fought, but he wasn’t sure that was a good measure for mages.
+
+For all I know, the musclehead will be easier to deal with. No one had told him who Ernesto’s champion was yet. It could be the musclehead, for all he knew. What he knew for sure, was that he didn’t want to count on facing the musclehead.
+
+He faced the trash, rubbing his hands together. From the moment he’d first started using the trash stars, he’d identified one obvious way to make them stronger: absorb more trash into the star before he ignited it. He hadn’t done it until now because it pushed two limits. One, how much trash he could hold inside him without his core rupturing or his body getting so impurified that his entire mana infrastructure corrupted apart. And two, how much mana and reconstruction his body could handle when the trash star ignited, before his whole body ignited. It was too dangerous to just casually increase the star’s capacity. But here, alone in the trash heap with a fresh batch of chips all cooked up already, and nothing to do until tomorrow’s battle, not to mention a big pile of trash and a great need to power up before he faced Ernesto’s champion… well, he’d be a fool not to take advantage of it.
+
+Rhys turned, looking at the rats and raccoon manning the potato farm. The potato farm stretched an acre by now, swarming with industrious rat potato farmers. They all looked up as Rhys looked over at them.
+
+“Anyone got impurities?”
+
+Several of the rats scuttled forward. Rhys absorbed their impurities, then stepped back toward the trash. “You might want to back away. It might get a little dangerous over here.”
+
+The rats scurried back, only for the raccoon to clap their ears and drag them even further back, all the way to the tree line. Following the raccoon’s orders, the rats took cover in the trees.
+
+Well, that was a little unnecessary… Rhys shrugged. Better to be safe than sorry, he supposed. He jumped in place, getting his blood and mana circulating. He wanted to be in the perfect shape for this attempt. Anything out of place, and he might not survive it. He scanned his whole body, checking it for leftover lumps of impurities, inefficiencies, chokepoints, anything that would stop him from circulating all the mana he absorbed from this attempt. There were a few small cracks and holes he fixed, a few weak points he quietly shored up. When his condition was perfect, he took a deep breath, steeling himself, and put his hand on the trash.
+
+Trash hurtled into him. Rhys narrowed his eyes, focusing on the trash and only the trash. More. More than ever before!

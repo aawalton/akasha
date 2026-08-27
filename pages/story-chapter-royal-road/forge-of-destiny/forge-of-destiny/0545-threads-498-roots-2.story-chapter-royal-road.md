@@ -1,0 +1,123 @@
+---
+id: 5fe427a2-f516-50da-9ba9-8dfc1b68a15e
+page-type-slug: story-chapter-royal-road
+title: "Threads 498 Roots 2"
+slug: 0545-threads-498-roots-2
+partOf: forge-of-destiny
+position: 545
+ownLength: 1895
+unit: words
+publishedAt: 2026-02-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3007284/threads-498-roots-2"
+royalRoadId: "3007284"
+---
+
+"I've long thought of isolation as my weapon of choice," Ling Qi started. "Through that, sharpening it with a study in ignorance seems the most obvious choice."
+
+"But not the one you're going to make," Sixiang said, looking at her askance.
+
+Ling Qi stepped out past Shu Yue, sliding around the lazy grasp of one of those pallid hands, and peered past the bright light behind a distorted window to the wavering shadows beyond. There were two, maybe three, people there; even her sight was indistinct here. "You've been saying it more. Telling me off when I call myself greedy."
+
+"I just don't like you talking down about yourself. That doesn't mean you gotta try to be better about grasping."
+
+"No, but it does mean I should understand greed, want, and desire better. I'm still more than a bit selfish. Grasping, as you say. But you don't think so. So, obviously, there's a level of want I don't understand well."
+
+"I don't think you're that ignorant, Qi. You know there are people who want more and give less than you. You know well the things you want are little things, except when someone's pissed you off enough that you rob them blind."
+
+"It has been a long time since I've done that, hasn't it?" Ling Qi asked wistfully. "I should see if Ling Nuan will invite me to the Thunder Palace again. That would be a fun game."
+
+Using those skills would soon not be so light-hearted.
+
+Sixiang sighed and scrubbed a hand through the wavering, smoky black stripe that had formed in their hair. "Ahh, I can't even say you're wrong! Attacking people through what they want and need… Yeah, you won't find any purchase with some people, but it's not that many. And it's not like any of these are gonna be fun."
+
+"It won't be. I understand that," Ling Qi said. "Is that a good enough reason, Shu Yue?"
+
+"Your choice is sufficient, whatever your reasoning," her teacher replied. Their silent stride carried them further from the alley they had also emerged from. "However, it is interesting. You understand desire most through the lens of need, of lack."
+
+"I know that this gives me a strange perspective. I have read a few treatises which claim that there is little difference philosophically between what a man needs to not starve and what a man needs to feel fulfilled in mind and spirit. When I read this, I can only think that those writers should take more time to experience the former."
+
+"Some have, over time," Shu Yue said. "Among those early students of the Dreaming Way, some would immiserate themselves to better understand desire. They would starve and scourge their bodies to understand pain. Could you do this?"
+
+"I do not know. The thought frightens me," Ling Qi admitted, resting her hand over her stomach.
+
+She had locked those memories in her soul, bound by the blade she had made a part of her, so that she could never, ever forget them, no matter how mighty or wealthy she grew. Could she bring herself to do that again? To lock away the qi she used daily to support her body in good health, make herself lesser, and make her body more mortal again?
+
+"I respect the resolve it must take to do that to yourself when you may end the experience with a thought," Ling Qi said. Any cultivator could do so. "I wonder if having the option to make it stop at any moment is a flaw in that understanding itself. It is not a state the world is inflicting on you, but a challenge you are setting yourself."
+
+"A fair proposition, and one that has been raised before. Perhaps we should speak of such philosophy at a later time. It is not the thrust of the lesson."
+
+"I would not mind that. But yes, it is probably best to focus for now."
+
+Shu Yue pushed open the door of the nightmare hovel they lingered outside. Ling Qi flinched back as she was confronted by screams, grasping hands, and twisted faces before she realized they were all as smoke to her. They pawed and grasped and sought to tear pieces out of her mind, but they were no more capable of doing so than Biyu was of wrestling Ling Qi to the ground. Feeling Shu Yue's eyes on her back, she stepped through the door.
+
+Within was a deep murk, dark clouds rolling through a dim foyer from which halls with subtly wrong geometry branched in every direction, some of which were not physically possible. It was a fractal hub of place and time.
+
+"These are the memories of a home, aren’t they? Not conceptually, but the actual building itself."
+
+"Xiangmen's structures never rise to what those outside might call full spirits, but they retain memory and experience in their way," Shu Yue lectured. "It is useful for demonstration, if problematic for reclamation. Xiangmen's nature is to preserve, both for good and for ill."
+
+Around them were shades, so many shades that they overlapped. They vibrated and resonated through a web of connections that made her head throb with strain as she examined them, similar to when Lake Snowblossom had tried to show her a thousand years of weather conditions all at once.
+
+"We will begin with older, more fragile shades. I have selected this building for its history. It used to serve as the district office of the Ministry of Commerce in the lower root districts since the late Xi. It has passed through many hands and consumed many lives," Shu Yue explained. "I find it poetic. First, immerse yourself and tune the qi in your channels. I know you have already meditated much on want and desire. Bring that qi to the surface and find resonation, but be mindful of identity bleed. Familiarize yourself. I will guide your shaping of the blade."
+
+Ling Qi squinted into the reverberating mass of shadows and memories. It was so difficult for her eyes and physical senses to render anything intelligible. So, she shut those senses off one by one.
+
+Sight, sound, scent, none were of particular use here. As she closed them off, she opened herself more to the sensations of the spirit and to the vast pool of want.
+
+Scrabbling. Desperation. This was the want she was most familiar with: dusty hands with cracked and broken fingernails scratching in the dirt, pawing for anything, anything at all they could hold onto. The want came in many forms: the body's hunger, the cold hands and feet, and the flinch of a body impacted by pain.
+
+Ling Qi folded her legs beneath her, positioning herself to meditate. She felt Sixiang positioning themself against her back, mirroring her position.
+
+This kind of want boiled down to a single, overriding desire.
+
+I want to live. Just one second longer. Just one minute longer. Just one hour longer. I don't want to disappear.
+
+A million, million voices crowded in her ears, clamoring that sensation.
+
+"This was what I didn't understand when I was made. This feeling… I knew it the way you knew the words in a book," Sixiang revealed. "There was no fear in me then."
+
+"This is the deepest foundation, the most fundamental want a human holds." Shu Yue's voice echoed in her perception like a reverberation reaching her while she was immersed deep underwater. "It is the desire that those who climb to the peaks of cultivation inevitably lose."
+
+Ling Qi stirred at that but didn't rise from her position or restore her physical senses. "What do you mean by that?"
+
+"To seek Sovereignty is to seek something beyond yourself and to devote yourself to a purpose larger than living a mortal life in a mortal perspective with mortal sensations. One whose most fervent wish is more years to live will break themselves upon the gate of wielding Law," Shu Yue intoned.
+
+"Most people don't really have the dedication to seek that," Ling Qi realized. "But there is far more to Want."
+
+"There is. Do not lose sight of this. Although it is chipped away as one climbs to higher realms, it remains of great use to tune your eyes to."
+
+"I thought I was sharpening a blade," Ling Qi said. "Now, I realize this is not something that can be wielded with brute force. This is still an exercise of the eye."
+
+"You already know how Want is used to hurt. Select a shade. Demonstrate."
+
+Scraps. These were only the scraps of people, long dead, long broken. It would be like a swordsman practicing their cut on a carcass. Ling Qi breathed out. She focused and picked a single bundle of emotion and suffering from the sea around her.
+
+Please, please! They took it, my last coins, my last hope… I will lose my home! Honored sir, I beg you, please investigate these thieves. Help me!"
+
+It wasn't like diving into a whole person; it was airy and incomplete, and not just because she could not afford a full dive. It was like looking into a book with seven in ten pages torn out. She did know the core feeling, though. She knew the pain that came after, the starvation, the bite of beatings, the broken fingers that were the fate of caught thieves.
+
+It was as light as a caress, touching on the veins of Want that ran through it. “I don't want to die” so easily became “I am going to die.” Panic, desperation, rashness.
+
+The shade writhed in the grasp of her spirit, like a desperate, cornered animal hurling itself at her, wanting in, wanting to eat, wanting not to die. Its feeble scratchings broke upon her will, and she heard the sobbing of a starving man being beaten to death for his theft by the very guard he had begged aid from but months before.
+
+She felt a curdled coil of sickness in her gut.
+
+"Desire is not only this."
+
+Shu Yue's voice was implacable.
+
+"The next step of greed. My greed is the desire for other people," Ling Qi asserted.
+
+Shu Yue's qi pressed down on hers, but she did not need its guidance yet. This melody was one she knew quite well. The near blackout in her spiritual senses cleared just a little, and the forms of the shades grew more apparent and distinct as she raised the level of her attention above the sea of privation.
+
+"To want to be loved, admired, to have worth in others eyes, to want comfort. These wants demand other people in their fulfillment."
+
+"It's hard for a human to survive on their own, but theoretically, it can be done," Sixiang said. "Not with these. These wants are a vulnerability, built right into their foundation."
+
+"I know how this type of desire becomes cruel, too,” Ling Qi said. “I faced it in Zeqing. A love that consumes and takes."
+
+It was where her fears were rooted. It was what her nightmare had been about. She was afraid of giving; she was afraid of taking, even as she found herself drawn in, needy of the warmth that was other people.
+
+She conceptualized bonds as burdens willingly taken but feared the touch of the chains. She slid her hand back and grasped Sixiang’s in hers.
+
+"Then immerse, and show me," her teacher commanded.

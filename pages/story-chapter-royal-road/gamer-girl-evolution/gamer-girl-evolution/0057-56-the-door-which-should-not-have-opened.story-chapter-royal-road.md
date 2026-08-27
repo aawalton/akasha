@@ -1,0 +1,239 @@
+---
+id: 8ca464f9-0eea-5f07-9868-7216a9b0534f
+page-type-slug: story-chapter-royal-road
+title: "56 - The Door Which Should Not Have Opened "
+slug: 0057-56-the-door-which-should-not-have-opened
+partOf: gamer-girl-evolution
+position: 57
+ownLength: 1879
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3371314/56-the-door-which-should-not-have-opened"
+royalRoadId: "3371314"
+---
+
+The walk to the treasury was quieter than Celica expected.
+
+Semmia walked one step ahead, hands clasped behind her back and humming softly under her breath. They turned a corner before she slowed to a stop.
+
+"You know," she said casually, glancing sideways, "you don't need to put on that façade of wisdom around me."
+
+Celica kept walking.
+
+Semmia continued, unfazed. "From your looks, we seem about the same age. I doubt you're much wiser than me."
+
+Celica didn't respond. She only narrowed her eyes slightly in response.
+
+Semmia watched her for a second longer, then shrugged. "Suit yourself."
+
+Once they walked a little further, Semmia stepped up to a large door with antique inscriptions carved deep into its frame. She then placed her palm against its surface before several runes flared in response, as if recognising her authority.
+
+A low, resonant hum echoed through the corridor as the door began to rumble open.
+
+Light spilled through the widening gap—golden, prismatic and almost blinding.
+
+The system chimed.
+
+[You have entered the Eonian Empire's Treasury.]
+
+The space was enormous.
+
+Not 'large room' enormous, but spatially inconsistent enormous. The ceiling stretched far higher than the palace exterior visually allowed, and rows upon rows of platforms floated in the air, each displaying unique weapons, armour pieces, tomes, crystals, and strange things even Celica didn't have names for.
+
+Her face remained calm as she observed her surroundings with a seemingly controlled curiosity. Internally, however, she was screaming.
+
+No way. Is that the infamous raid reward for the Tower of Trials' phantom floor? The one everyone thought was just a myth? And wasn't that item over there supposed to be locked behind some story event that was planned but never created? Am I even allowed to take these?
+
+The items around her were a blur of shimmering light, each one more outrageous than the last. Her eyes darted from one treasure to the next, cataloguing them mentally, recognising things she never thought she'd see outside of obscure forum posts or data-mines.
+
+She couldn’t stop herself from staring at the Crystal of Sirius, an item that had caused chaos on the forums when it was first leaked by a famous data miner. That thing caused a server-wide panic... I could sell it, or maybe… wait, it’s way too early for it to be anything more than a collector’s item right now.
+
+Her controlled calm was beginning to crack under the weight of the temptation, and it was taking all her focus to not jump at every item in sight.
+
+Semmia, who was watching her intently from the side, coughed slightly. "You're very composed. Most people who visit this place for the first time act like crazed deviants."
+
+"Wisdom has made me disciplined." Celica said, nodding as she observed her surroundings calmly like a monk who had transcended all earthly desires.
+
+They kept walking, their synchronised footsteps echoing softly.
+
+"How many items am I permitted to take?" Celica asked slowly, making sure that the tone of her voice didn't portray too much excitement.
+
+Semmia stopped walking and looked at her.
+
+"Hmm." She tilted her head. "Two to three should be fine."
+
+"Understood." She nodded.
+
+Definitely three.
+
+Semmia smiled faintly. "Given your… situation, I'd recommend something related to experience points. Your said your class makes levelling a pain, doesn't it?"
+
+Celica's eyes flickered for half a second.
+
+"I'll consider it," she replied.
+
+They wandered deeper.
+
+For a gaming lore nerd like Celica, this place was paradise. If she could, she'd want to stay there forever.
+
+Still, she knew that had to focus her attention on obtaining the most useful items for her right now. Not the most interesting ones.
+
+In terms of priorities... since I already have an extremely strong weapon, I shouldn't aim to get another. I just improved my armour, too so there's no need to worry about that either. In that case, it'd be best to get some accessories and auxiliary items.
+
+All of a sudden, Celica stopped in her tracks.
+
+Rather, it'd be more precise to say a specific item had forced her to stop. Her eyes settled on a small, unassuming hourglass which was floating above a pedestal. Pale silver sand flowed upward instead of down. Her heart skipped two frames as she reached out.
+
+Necklace of Accumulated Insight (Superior Epic)
+
+Effect: Increases all EXP gained by 50%. This includes player EXP, skill EXP and lifestyle class EXP. Every player, skill or lifestyle level up increases the effect of this necklace by 1%, stacking additively up to 150%.
+
+Description: Time remembers effort, even when the world does not.
+
+Ahem... don't mind if I do.
+
+She quickly swiped it from the pedestal, earning a wry smile from the adjacent Mage Commander.
+
+"Good choice." Semmia said from the side, nodding in approval. Before she had any time to react, however, Celica had already swerved towards the next item.
+
+Ring of Growth (Inferior Legendary)
+
+Effect: Grants +5 free stat points for every level gained. Stat points may be allocated at any time.
+
+Description: Growth is not merely speed, but direction.
+
+Celica inhaled slowly.
+
+"You should be fine to get one more," Semmia said lightly with a wink. "Choose carefully."
+
+Celica did, debating over several items before finally settling on one. Her final choice was a dark, glossy bracelet etched with shifting runes, which felt warm to the touch.
+
+Bracelet of Deferred Mastery (Superior Epic)
+
+Effect: Skills that reach max proficiency continue to accumulate overflow mastery, resulting in a pool of excess mastery which can be transferred to lower-level skills of the same rarity.
+
+Description: Even mastery can deepen.
+
+She stepped back, inwardly satisfied with her choices.
+
+"That will suffice."
+
+Semmia studied the three items carefully, then laughed softly. "You picked like someone who plans very far into the future."
+
+Celica inclined her head.
+
+You have no idea. It was exactly as she'd said, Celica had went for full-scaling items. They wouldn't be the most useful items immediately, but over time they'd show more and more of their true value.
+
+Even though I missed getting first on the main quest, I guess this wasn't so bad a result.
+
+The walk out of the treasury was quiet. By Semmia's instruction, they stopped near a tall window overlooking the inner city.
+
+"Wait here a moment," Semmia said, already pulling up her interface. "I need to confirm your living quarters."
+
+Celica nodded and gazed out of the nearby window. The Eonian Empire stretched endlessly below, layers of white stone and gold inlaid roads caught the sunlight just right.
+
+This scenery never gets old, Celica thought idly.
+
+Semmia paused for an unnaturally long time, but Celica didn't pry. Eventually, Semmia exhaled, looking mildly exhausted, but largely relieved.
+
+"Alright. Everything's fine," Semmia glanced at her briefly. "You got lucky, we happen to live close by."
+
+Celica's steps faltered for half a second.
+
+"I see..."
+
+"Strange coincidence, isn't it?" Semmia continued, tone light. "The fact that we're neighbours."
+
+Right. Coincidence.
+
+Celica kept walking, expression neutral. They passed through several castle gates before the atmosphere subtly shifted. Guards became fewer and fewer until there were none. The streets widened, becoming quieter but equally as well kept as the king's palace.
+
+They had arrived at the noble's district.
+
+White stone villas lined the streets, accented with gold filigree and crystalline glass that refracted sunlight into soft rainbows. The gardens within were impossibly well-kept, with fountains that flowed with shimmering enchanted waters.
+
+The air itself felt… expensive.
+
+Celica exhaled softly. Even with all the money she'd grinded on the second floor, she couldn't afford a place here. Something more than money was required to buy a house here. Status, influence and connections, for example. She had a feeling they were just passing by.
+
+Semmia slowed, then stopped before a large estate set slightly back from the road. The house had: high walls, ornate gates, a beautiful garden and a lovely fountain.
+
+"This is yours," Semmia said blankly.
+
+Celica blinked.
+
+"Pardon?"
+
+Before she could process the statement, the front gates swung wide open. A perfectly aligned formation of staff stood waiting. At least twenty maids greeted them, dressed immaculately with hands folded in flawless posture.
+
+All at once, they bowed. "Good afternoon, Wise Commander."
+
+The words hit her like a critical strike. Even though she was immune to any and all status aliments, Celica was stunned.
+
+This is too much.
+
+When the king had mentioned free housing, she'd expected comfort. Luxury, even.
+
+But this?
+
+Semmia watched her reaction with open amusement and casually pressed a key into Celica's hand.
+
+"The rest is up to you," she said. "Your allowance should arrive shortly—post system, not physical mail."
+
+Celica stared down at the key like it might grow wings.
+
+"Oh," Semmia added, already turning away, "mine's right there."
+
+She pointed to the adjacent estate. It was just as grand and just as guarded.
+
+Figures.
+
+"I'll see you around," Semmia said lightly. "[Warp]."
+
+Then, in an instant, she was gone. The next moment, she reappeared at her gate.
+
+Did she really have to warp? Her house is literally ten seconds away...
+
+As if still processing everything, Celica stood there blankly, surrounded by silent, perfectly trained staff.
+
+Even though Celica felt uncomfortable, they didn't appear hostile or judgmental. If anything, they were attentive—the kind of focused stillness that came from people whose sole purpose was to anticipate her needs before she even voiced them.
+
+This is annoying, she thought flatly.
+
+In all her previous playthroughs, she'd never bothered with employing staff whenever she bought homes. There'd been no point. She didn't sleep or eat in-game unless it was for buffs, and most of her time was spent grinding, speed-running, or disappearing into obscure questlines. For her, a house was just a respawn point with storage.
+
+Taking the initiative, the head maid stepped forwards with her hands folded neatly at her waist. She was older than the others and her serene expression was oozing with professionalism.
+
+"Wise Commander," she said with a small bow. "Do you have any instructions you would like to give us?"
+
+Celica hesitated, then nodded once.
+
+"Yes. There is one thing," She paused, choosing her words carefully. "I believe I may take on an apprentice. Her name is Celica Crystalis. If she appears here, she is to be allowed entry immediately. No restrictions."
+
+The head maid inclined her head. "Understood. We will treat Lady Celica Crystalis as a guest of the highest priority."
+
+Behind her, the rest of the maids—still lined up perfectly—bowed in unison as the gates responded to Celica's presence, opening slightly before settling again.
+
+"We acknowledge your orders, Wise Commander."
+
+Celica felt her shoulders stiffen, then forced herself to relax. This is going to take a while to get used to.
+
+"I'll be going out now," she added. "I need to look for other potential apprentices. I'll return later."
+
+"Please take care on your journey," the head maid said. "We will await your return."
+
+Celica gave a short nod and stepped away from the estate as the gates closed smoothly behind her.
+
+As she walked, her gaze drifted upward.
+
+[Main Quest
+
+Defeat 10 Unique Players in Player versus Player combat at any colosseum/arena.
+
+Unique Players Defeated: 0/10
+
+Time Remaining: 2 Days 23 hours 23 minutes 33 seconds]
+
+She exhaled.
+
+Time to clear this thing.

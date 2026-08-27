@@ -1,0 +1,129 @@
+---
+id: 147ef96b-14e4-551d-b7f6-beccdb932097
+page-type-slug: story-chapter-royal-road
+title: "Threads 88-Deals 1"
+slug: 0109-threads-88-deals-1
+partOf: forge-of-destiny
+position: 109
+ownLength: 1958
+unit: words
+publishedAt: 2021-05-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/686859/threads-88-deals-1"
+royalRoadId: "686859"
+---
+
+Ling Qi skipped across the roiling ground, trailing a train of flickering images, ephemeral and dreamlike, in her wake. All around her, phantoms in dark and refined garb circled and danced in the mist to an eerie melody. Beneath her feet, the dirt writhed and spearing roots, smoking with superheated sap, erupted from it, grasping and reaching only to catch the trailing hems of phantom gowns.
+
+A great bulk stomped through the mist, scattering phantom revelers around his trunk-like legs. His shell glowed with a dull volcanic heat, leaving a wake of hissing steam in the mist, and a serpentine head wove above, molten eyes tracking her movement through the crowd. A boiling jet of liquid flame jetted from the serpent’s open maw and splattered across the earth, melting dirt into glass.
+
+A voice rose in the mist, a young girl’s voice raised sweetly in song, and in unison, two reptilian heads flinched and turned to the new threat.
+
+<I'll give her a hand. Focus on your steps,> the muse whispered.
+
+Around a slim young girl whose eyes glittered like chips of ice, the mist boiled with potential, dream images emerging, trailing the girl’s limbs, and echoing her motions just a few moments out of step. A root grabbed for the girl’s bare foot and caught only mist and laughing air. The girl’s voice rose, and frozen wind lashed the great beast, cooling and darkening his volcanic shell before a renewed burst of heat returned its glow.
+
+As they clashed, Ling Qi circled and continued her dance, leaping from one grasping rootlet to the next on light feet with only half of her attention. Between her revel and the muse’s illusions, she could feel the thinning in the air, the flows where dream was near the surface, touching on the waking world. It was still difficult. Dream qi was slippery and ephemeral, and its flows resisted her manipulation more than any other qi she had tried, and even now, despite Sixiang’s instruction, she couldn’t quite grasp it.
+
+The earth shook as her toes briefly touched down on a patch of undisturbed dirt. They had been at this all morning now, and she was beginning to wonder if they should be ending the exercise. While Gui was taking the spar in good humor, she could feel Zhen’s frustration, rising and boiling like the venom that dripped from his fangs.
+
+The task she had set for Zhen wasn’t easy. While she was handicapping herself by only using techniques from the Phantasmagoria of Lunar Revelry art, she knew that she was very hard to hit. Since she had renewed her devotion toward helping her spirits improve, Zhen’s accuracy had grown so much better, but it seemed that wasn’t enough to tag her.
+
+As she mulled over calling an early halt to the exercise, her eyes widened. Something had changed. The flow of Zhengui’s qi had shifted, and the heat of his body was growing. It shrank and condensed in a way that she had only felt during his practice of the Rebirth Inferno. She needed to stop him now. That was going way too…!
+
+<Give him a second. It’s not quite the same,> Sixiang cut her off.
+
+She shut her mouth with a click. She had promised to help Zhengui. Stopping him from developing a new technique would hardly help that. She felt the heat condense again. It felt like a white hot sphere, a miniature sun churning with impossible heat. Then, as Zhen glared with affronted dignity at Hanyi past the frost crawling across his scales, the sphere of heat dropped, passing seamlessly into the earth.
+
+Beneath her feet, Ling Qi felt the stone boil. Instantly, shimmering green qi shrouded her and Hanyi both, just before the earth exploded. All around Zhengui, plumes of molten rock erupted in an expanding ring, pockets of boiling stone shooting upward under sudden and intense pressure. A wave of molten stone washed over Hanyi, and she yelped as her dream images shattered, but molten rock slid off of the verdant light that armored her.
+
+The hill rocked with explosions and noise, but Ling Qi’s voice cut through the sound like the howl of a blizzard. “Zhen, stop.”
+
+The young serpent startled as she materialized atop his other half’s shell. Where her hand met his burning scales, the air hissed and steamed, adding to the mist. “Big Sister, why…?”
+
+“Look around you,” she said, and he did. The hill was ruined. For nearly two hundred meters all around, cooling magma lay burning on the ground. It had escaped beyond the protections the Sect had laid down, and even now, she saw several fires smoldering in the underbrush. “Best not to set the forest on fire.”
+
+“Ugh, reckless Zhen should warn Gui,” his other half complained. “Don’t do weird things by yourself!”
+
+Below, Hanyi vanished in a flurry of snowflakes, reappearing on one of the remaining islands of intact soil. “Be more careful,” the snow maiden grumbled, eyeing the cooling droplets of molten stone still clinging to the hems of her gown.
+
+Zhen lowered his head, looking a little shamed. “Zhen apologizes to Big Sister. I just wanted to win.”
+
+“That’s fine. You just need to keep the surroundings in mind,” Ling Qi encouraged. “Congratulations on figuring out a new technique!”
+
+“It was pretty cool,” Hanyi huffed. “Dummy.”
+
+“Still, why don’t we take a break and cool our heads?” Ling Qi cut in. “Hanyi, go put out the fires. Zhengui, can you start reseeding the hill?”
+
+Her spirits answered with a chorus of “Yes, Big Sister,” and got to work. Really, they were good kids when it got down to it.
+
+***
+
+“Sis, when are we gonna do some exercises where I can show off?” Hanyi complained as they sat down for a rest in the aftermath of the cleanup. Zhengui took up much of the hilltop so Ling Qi and Hanyi sat on either side of him on flattened stones.
+
+“Sorry, Hanyi. It’s difficult to think of a group exercise for your techniques. I promise we’ll go out together later,” Ling Qi replied.
+
+She had elected to work with Hanyi on something they had neglected. The effects they were working on, her ability to draw on others with a siren song and drain the life and energy from them, were fundamental to Hanyi’s nature, but Ling Qi had trouble helping her with them. Ling Qi had never learned the Lonely Winter Maiden art from Zeqing.
+
+She had been taking Hanyi on trips up to the mountain peaks to practice though, and it was paying off. Hanyi’s voice and song were more confident and potent, able to ensnare more enemies and more efficiently, and her lethality had risen in accordance. That was what made it hard to train in a group. Like Zhen’s new technique, Hanyi’s techniques were lethal to their targets.
+
+“Mm, actually, you want to come to our dance lessons, snowflake? You might not be able to step into Dream like your Sis and I, but I think you’d benefit from some more grace,” Sixiang said on the wind.
+
+<Is that fine?> Ling Qi thought.
+
+<Yeah, girl’s feeling left out since her lessons are solo. I can share,> Sixiang replied with a mental shrug.
+
+“I’m not clumsy,” Hanyi snapped, unaware of the exchange. “I can move around just fine!”
+
+“Ah, well, if you think you can’t handle it...” Sixiang trailed off, their voice echoing from the empty air.
+
+Ling Qi sighed as Hanyi immediately snapped back and agreed to attend. She really was going to have to work with Hanyi on that; she was way too easy to manipulate. She left her spirits to talk and bicker for a time, letting herself focus on cultivating the little scraps of insight she had accumulated during the spar into dream qi. She was making progress, but it was slow. However, that couldn’t last forever. There was still business to see to today.
+
+“Zhengui, Hanyi, we’re going to have a visitor today,” Ling Qi said, having let them get the bickering out of their systems. “Obviously, I’m going to need you both to behave.”
+
+“Huh? Who did Big Sis invite? Is the bright lady coming again?” Gui asked curiously.
+
+“Not this time,” Ling Qi denied. Cai Renxiang had been sparring with her more often, which included her spirits at times. She was able to press the heiress a lot more with the extra combatants. “I’ve invited Bao Qian. Do you remember him?”
+
+“I, Zhen, recall the shiny man,” Zhen said proudly. “He wanted to buy Zhen’s ash, so that Big Sister could get more cultivation stones.”
+
+“That’s the one,” Ling Qi replied, smiling. “We’re going to be talking about some business like that today.”
+
+“Ah, Gui will be good then, so that Big Sister can have more stones!” Gui agreed cheerfully.
+
+“You don’t have to do this, Zhengui. I am getting by fine regardless,” Ling Qi said. Her stock of green stones was steadily dwindling, but she didn’t want Zhengui to feel forced into it.
+
+“No, Big Sis will let Zhengui help,” they both said stubbornly, their voices emerging as one.
+
+<You’ve got some odd hang ups. Just let the Lil’ Big Guy help,> Sixiang chided.
+
+Ling Qi sighed and nodded her assent before glancing at Hanyi, who had been oddly silent. “Hanyi, something on your mind?”
+
+“Sis, that guy, he said he could sell your songs too, right?” Hanyi asked. “I saw you using that stone thing to record.”
+
+“Yes,” Ling Qi said slowly. “I wasn’t selling that though.”
+
+“Well, I wanna sell some songs! That way I can have stones myself and buy pretty dresses and jewelry without having to get them from Big Sis,” Hanyi said in a rush, leaning forward.
+
+Ling Qi blinked and immediately felt a pang of guilt. “Hanyi, we can go shopping sometime if you like. It’s just been very busy lately.”
+
+“But I wanna get my own stuff! You worry about enough things,” Hanyi said. “C’mon, will you please talk to the guy?”
+
+Ling Qi hesitated, then said, “I’ll speak to him.” Making a request would cost her some in the negotiations, but she doubted it would be too bad. Although she could not say she knew Bao Qian well, taking advantage too much would run counter to his goals. Self-interest was at least something she could trust in.
+
+Hanyi grinned, hopping to her feet to wrap her arms around Ling Qi. “Yeah! Thanks so much, Big Sis.”
+
+Ling Qi patted her awkwardly on the back. She really didn’t know how to handle physical affection.
+
+<Don’t blame yourself too much. You humans are almost all weird like that,> Sixiang commisserated.
+
+Ling Qi wondered if she should be insulted for the sake of her species. Probably not. It wasn’t like Sixiang was wrong. “You’re welcome, Hanyi. Now, let up. We need to get ourselves cleaned up before we go to meet him.” While her gown was fine, her hands and face had gotten smudged with ash and dirt, and her hair could probably use a little touch up. Crinkly strands were starting to escape. Hanyi wasn’t better.
+
+“What should Gui do then, Big Sister?” Gui asked curiously.
+
+Hanyi sprang from her lap as she stood up and glanced over at Zhengui. “A little clean up might not go amiss for you either,” she said. He was covered in dirt, ash, and dried glass.
+
+“Hmph, leave it to slovenly Gui to forget that,” Zhen harrumphed. “We must make our scales shine!”
+
+“But Gui doesn’t like the water,” his other half complained, a childish whine touching his deep, rumbling voice.
+
+Ling Qi chuckled to herself. It was as she had thought. No matter how it seemed, they were still children at heart.

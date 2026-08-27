@@ -1,0 +1,69 @@
+---
+id: 30d67d55-062b-53b8-a470-961d6b5a6ab2
+page-type-slug: story-chapter-royal-road
+title: "Threads 68-Foreshock 5"
+slug: 0087-threads-68-foreshock-5
+partOf: forge-of-destiny
+position: 87
+ownLength: 1509
+unit: words
+publishedAt: 2021-04-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/656527/threads-68-foreshock-5"
+royalRoadId: "656527"
+---
+
+“What happened here?” Ling Qi asked bluntly as her feet touched the ground in the village square in front of the bowing second realm wearing the marks of a lower officer. “Where are my fellow disciples?”
+
+With her qi ebbing a little low from the use of so many powerful techniques in quick succession and the events of the day churning in her thoughts, Ling Qi’s grip on her power was far more frayed than usual. The ground frosted under her boots, and the wind whispered a cold and unfriendly melody.
+
+“My apologies, Officer Ling,” the second realm officer said without raising his head or unclasping his hands. “We do not know the disposition of Officer Song, but Officer Deng was found dead just before the attack.”
+
+Ling Qi’s brows furrowed. “Explain.”
+
+“Officer Deng had been taking tea while preparations for the evacuation of the fields were being made,” the armored man replied stiffly. “When I entered his rooms to inform him that the attack was nigh, I found him dead. His throat was cut. There was no sign of struggle. I have no excuses.”
+
+She watched with a blank expression as the man bowed still lower somehow as if expecting a reprimand. “You did the best that could have been expected of you,” she said mechanically. It seemed that things were only continuing to grow more alarming. She had certainly heard nothing of the Cloud tribesmen fielding assassins of all things.
+
+As she pondered how to proceed, her head whipped around to the south in time to see a star born in the dark and stormy sky. She felt in her bones a clash of raw power near the jutting silhouette of Icebreaker Peak. A powerful wind hit her next, sending her hair fluttering and unsecured shutters and debris moving. There was a second flash then, and the earth shook, a plume of dust rising from Icebreaker Peak, visible even so many kilometers distant.
+
+She recognized that qi from training sessions and briefings. Her commander was fighting something, something strong enough to push her. She felt the earth beneath her feet shake minutely like a gong swaying after being struck.
+
+“O-Officer Ling?” the man beside her asked, his composure finally cracking.
+
+“Continue the evacuation and rescue,” Ling Qi ordered hastily. “I will search for Officer Song.” And then go directly to her village, she added silently. Things were continuing to spiral beyond what she had expected, events happening far too quickly for her taste. She forced herself to calm. Rushing would not help her. “Prepare a basin filled with water,” she said, her voice stiff and clipped. “I am going to have a look at Officer Deng. Has the scene been disturbed?”
+
+“No, ma’am,” the soldier replied, clapping his fists together and bowing his head. “There was no time, nor was the barracks damaged in the fighting.”
+
+“Good,” Ling Qi said, turning on her heel. It was easy enough to discern the direction of the barracks, the people of the village huddled in the shelter beneath a morass of fear and pain to her senses. The earth shook again, and a gust sent her hair fluttering, a few flyaway strands dancing in the wind.
+
+That certainly wasn’t helping, Ling Qi thought darkly.
+
+When she entered the officer’s office in the barracks, Ling Qi did her best to not gag at the stench. She felt her stomach turn over as she saw the body. It reminded her of bad days in alleys and gutters. She forced her mind off of old memories as she stepped over the threshold, silver light flickering in her eyes. From the folds of her gown, flickering wisps of light fluttered out, spreading throughout the room, skimming the ceiling, slipping under and around the furniture, feeding her information on the scene.
+
+The disciple was slumped over his desk. The soldier had, if anything, undersold the death wound - only the young man’s spine kept his head attached to his shoulders. A ragged gash clove the flesh of his neck in twain, but there was very little blood. The crimson fluid that stained the desk was stained black and seeped slowly, heavy and thick with toxic qi. There really was no sign of struggle. A cooling pot of tea still sat undisturbed on the desk and not a single book nor scroll on the shelves was out of place. Of the assailant, she could find no sign…
+
+No, Ling Qi thought, narrowing her eyes as she traced the room through multiple viewpoints. There was something familiar. It was faint. Even with all of her focus, she could only just barely sense the fading remnants. It could best be described as a film like the skin that formed on curdled milk, a scent of rot and impurity that she had only caught thanks to her previous experience underground and time spent in Li Suyin’s workshop.
+
+She would have to order messengers sent out. The other officers needed to know of the threat of a rat-thing assassin, and she would need to make sure this was reported to the Sect.
+
+She turned swiftly from the scene, marching out. There was nothing more she could do here. Even as she proceeded out to the village headman’s house where the basin had been prepared, she felt time ticking by all too quickly. Trust or no, she wanted to get back to Zhengui and Xiulan.
+
+She swiftly set about her task, weaving her qi into the water as she focused on the face of her fellow scout officer. She dearly hoped that he was within range. The water in the basin churned and darkened, shimmering like the night sky, and her hope was rewarded. The image was dim and a bit blurry thanks to her unfamiliarity with the young man, but she saw him huddled among the roots of a massive tree. He was wounded, but not too badly, and breathing shallowly, the corpse of a barbarian lying a few meters away in the mud. Ling Qi could only assume he was exhausted as her qi sense did not extend through the basin. At least for the moment, he seemed, fine.
+
+Tersely, Ling Qi reported her findings to the second realm officer.
+
+“I will discuss the matter with the local members of the garrison. Thank you for your aid, Officer Ling,” the second realm officer said, bowing low. “What will you do now?”
+
+Ling Qi regarded him out of the corner of her eye as she stepped outside of the headman’s home. She sympathized with his stress, and she dearly hoped that the soldiers could weather events until reinforcements could arrive. “I have been away from my command for too long. I need to return.” As if to punctuate her words, the ground shook again, wind gusting down from the south. “Hold on. The Sect must have detected something amiss by now, and if not, the messengers are on their way to them.”
+
+“Of course, officer,” the soldier said. She did not detect any blame in his voice or posture, only a certain fatalistic determination. It seemed the Sect trained their lifetime soldiers well. “We will hold until the last breath if needed.”
+
+“Let’s hope it doesn’t come to that,” Ling Qi said. “Good luck.”
+
+Then the man and the village were gone, shrinking below her as she rose into the sky. The moment she gained enough clearance, she shot forward like an arrow, carving silently through the rushing wind as her depleted qi sent her south.
+
+There was no banter this time. The sight of her fellow disciple lying dead at his desk, the thought of the tribesmen she had killed today, worry for her friends and family, they all combined to drive Ling Qi to silence. The oppressive weight in the air, the clashing of qi so far beyond her, certainly did not help matters. Every time the storm-wracked sky lit up from the raw force of two fourth realm entities clashing, she nearly flinched. The rushing wind was nothing to the unnatural ripples that were spreading through the world in her spiritual senses.
+
+She could sense beasts stirring even here, fear spreading like poison through the woods and hills. In the distance, she could see great flocks of birds rising from the trees, uncaring for species, uncaring for each other as they beat their wings and fled the brewing storm. She heard trees groaning and twisting, leaves raining down on the forest floor as they shied away from the south, and dirt and rock crumbled as roots began to move with ponderous but irresistible strength.
+
+She just hoped that Commander Guan Zhi and Liao Zhu were able to finish their clash with whatever they were fighting soon. The disquiet in the world only grew worse as she flew further south, but she turned her mind from the forest below and kept her eyes ahead on the gleaming blue ribbon of the river leading to where the village she had left behind at the beginning of all this lay.

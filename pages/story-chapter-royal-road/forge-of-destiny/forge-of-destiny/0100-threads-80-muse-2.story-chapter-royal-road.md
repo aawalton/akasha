@@ -1,0 +1,139 @@
+---
+id: e21296ce-a884-5873-b181-c6906562df15
+page-type-slug: story-chapter-royal-road
+title: "Threads 80-Muse 2"
+slug: 0100-threads-80-muse-2
+partOf: forge-of-destiny
+position: 100
+ownLength: 2120
+unit: words
+publishedAt: 2021-05-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/674820/threads-80-muse-2"
+royalRoadId: "674820"
+---
+
+It was different this time. Perhaps Sixiang had simply grown better at manipulating this place of dreams, or perhaps they were simply holding back less of the experience from her. In any case, Ling Qi felt her mind itch as she was immersed in wholly alien senses. She felt herself drowning in the sheer sensory input that flowed through Sixiang’s/her senses, and it was a struggle just to remember where the line between them lay.
+
+They lay on the table in a once neat dining room, painted in the hues of determination, loneliness, awkward longing, and stinging hurt. The Human/Ling Qi lay on top of their new body, and they saw the bundle of muted, chemical-soaked emotion emanating from her even in sleep. Possessiveness, black and cloying, held everything else together and coiled around a stubborn spine of flowing water. It was all contained in a cage of awkwardness and fear that was even now reasserting itself.
+
+They saw the other one, armored in anger, girded with loss. They drifted along as they both ran off, blazing with signals of hurt and desperate clinginess. Attraction warred with loneliness in the white one, the serpent daughter. This was only the latest hurt. Every moment spent with Sixiang’s human was a stinging wound and balm all in one.
+
+Ling Qi clung to the other girl with the desperation reminiscent of the fading dreams of a shipwreck survivor, yet a thread of fear ran through it all, a sharp white line cutting through the clinging dark.
+
+They needed each other. They hurt each other. It was beautiful in its contrast, but something about it niggled at them. They didn’t like it much at all.
+
+…
+
+They didn’t understand these humans and their world. Everything was so stiff. Fear touched everything here. No joy was unstained by it, and no determination did not keep a seed of fear at its heart. Despite that, it lent a certain something to the colors these silly, hurrying, desperate, and self-important creatures displayed. There was a brightness to them, a sharpness of tone and hue not present in Dream.
+
+In other ways, they were frustrating and dull. Their revels seemed more like some kind of twisted game where each human constructed their very best mask and did their level best to talk past and through each other without an ounce of understanding. Like a dark nightmare revel, it was all sharp and hungry eyes and hidden fangs, ready to pounce on the weakest and tear them apart.
+
+They felt a touch of something like guilt when they learned later that their actions and cajoling had gotten Ling Qi in trouble with that doll-thing that she answered to. They were not a nightmare in this incarnation, and few parts of them had ever been, so it was still interesting to learn these new shades of fear and regret.
+
+Still, the idea of death seemed so odd to them. Ling Qi had tried to explain, but they just didn’t understand these humans. One dream was as good as the next. Why worry about the ending? These humans spent so much time hiding from each other instead of expressing themselves properly.
+
+…
+
+Stripped of their body and bond to their human, Sixiang struggled, bodiless against the cold weight of a world pressing down upon them.
+
+[Cease.]
+
+The other surrounded them, engulfed them.
+
+For just a moment, Ling Qi became herself, and her head ached as it tried to process a completely alien sensation. She felt Sixiang stir in her mind, adjusting the flow of their power.
+
+Raw meaning pounded mercilessly against their being as a fragment of a fragment of the greater entity’s attention turned on them. The command was like a thousand, thousand hooks digging into their core, restraining them. Their response was feeble but strident.
+
+[Negation. Cease.]
+
+Their expressed will broke upon their superior’s like a light breeze upon a fortress wall.
+
+[Denial. Trial.]
+
+Sixiang’s whole being shuddered with the power pressed down upon them. Trial. That word encompassed uncounted years of meaning. Their greater selves were as gate and wall to those humans who chose to throw away the gifts of the [Two] and join their number as spirits. It was a kindness to break their mad ambition before they could destroy their humanity, or failing that, to prepare them for its loss. As the Second Born of [She Who Was], that duty overrode all other concerns. The weight of it crushed Sixiang, stilling even their feeble struggle. They saw their human’s pain and fear, but the colour was sour and ugly like excrement smeared across a finely painted canvas. The growing horror and disgust for herself growing in the fragment of Ling Qi’s mind was worse.
+
+Sixiang could only watch and scream.
+
+[Contamination. Return?]
+
+The fragment of the cold will that held them down seemed almost kind in the understanding that filtered through its will like soft silk wrapping a clenched iron fist.
+
+They felt the trial fading and felt Ling Qi lapsing into oblivion.
+
+[Negation. Aid… Mine.]
+
+This dream was not over. It could not be.
+
+…
+
+They observed the gathering dully. There were scores of humans all packed into a small space, talking and laughing, enjoying music and poetry. It should have been a joy to soak in, a balm for their growing fatigue, but it was not. They were better versed in humanity now. Although the humans still waved their masks about, they could see the expression in the undercurrents now. They could see the ones taking genuine pleasure in each other’s presence, the joy some of the humans found in their verbal sparring, and the connections that formed despite their masks.
+
+If only they could say the same for Ling Qi. Whatever arts she was cultivating now, whatever she composed, Ling Qi had no intention of connecting to the people around her even a little bit. They watched their human put on a mask of frost and disinterest, deflecting those who tried to come near. In some, they saw only anger and pricked pride. In others, they saw genuine hurt as their effort to reach out was rebuffed, and gradually, the colors around those curdled. They saw pride sharpen into sneers and hope fade into dull disinterest and raised guards.
+
+They tried to offer hints and nudges, but too often, they were ignored. Perhaps they could have been more forceful, but with the Nightmare still heavy on both of them, they could not find the will to do it.
+
+Fear had taken root in Sixiang. The last thing they wanted to do was make an annoyance of themselves.
+
+…
+
+It hurt to watch them fade. Each human was a riot of color and life, dreams and hopes, fears and desires. When they died, it all went out, gone like a snuffed candle. If there was a new dream waiting for them, Sixiang was no longer sure. It felt like a knife in their nonexistent flesh, twisting each time she saw it happen.
+
+... Ling Qi was in fine form today. Her enemies, these bandits, did not stand a chance against her. Perhaps with more organization and better leadership, it would have been different.
+
+They did not have that, and so they died. The pain of the poison coursing through their being was a pale thing compared to their hurt.
+
+…
+
+They had never liked this Cai Renxiang. She was the child spawn of the greater Cai, the one who had reduced the Court of Dreams to ash and replaced Grandmother’s shrines in the [First Tree] with new and foreign spirits.
+
+Of all the peers their Ling Qi interacted with, only Cai Renxiang was wholly opaque to their gaze. She was a statuette of reflective glass, dancing on strings. Whatever her thoughts were, Sixiang could not say; whatever her hopes were, they laid beyond their sight.
+
+However, in that carriage, they were thankful for her. Sixiang was too weak to speak up, but they had been conscious. Watching Ling Qi process the pain that she had felt during the battle hurt as if they were being wounded all over again.
+
+It was good, then, that the girl was able to offer Ling Qi something, a thread to hold onto and pull herself back up. The girl offered that most precious of things for humans who cultivated: purpose.
+
+And if, in that moment, they spied a crack in the glass and peered at the ------- beneath, they would not say a word, not because of the glower of the abomination the girl wore nor the threatening hiss of steel from the one at her side, but because it would be poor form to repay the one helping their Ling Qi by spilling secrets.
+
+***
+
+Ling Qi woke with a start.
+
+She cradled her head as she sifted through the memories she had seen. It was a torrential flow of which she could only recall a few scraps, and yet when she looked up and saw Sixiang sitting upon the shore of the color sea, she understood. Slowly, she turned her head away from the construct on the shore, the thing created by Sixiang for her benefit, and addressed her friend directly.
+
+“I’m sorry, Sixiang,” she said, bowing her head to the sea. She saw the illusion on the shore dissolve into mist out of the corner of her eye.
+
+“Nothing to apologize for,” Sixiang said, the water rippling around her bare feet. The voice echoed strangely, emanating from the whole of the sea. “I have to ask: how do you manage, being so blind?”
+
+“I don’t know. How do you manage, seeing so much?” Ling Qi shot back with a small smile. Even with the memories fading and the lessons of a new art internalized, Sixiang’s perspective still left her with an aching head.
+
+Sixiang laughed, and they sat in silence for a time, the sound of Sixiang’s waters lapping on the shore and the quiet sound of the wind their only company aside from each other. They did not need words as they processed each other’s perspectives.
+
+“Sixiang, I’ll try as hard as I can, but I can’t say whether the end of my path will be worth it for you. Things are going to be hard. I’m going to hurt others, and others are going to hurt me,” she said. “But I’d like you to share it with me. I’ll need you to stop me putting my foot in my mouth too much."
+
+Though she ended on a weak joke, she knew Sixiang could feel her sincerity. In the end, having understood each other, there was no point in argument. She could only say the words that were in her heart all along. She didn’t want her friend to leave, but she had to accept it if it was their choice.
+
+Her words echoed in the sea, and the waters receded, leaving her feet bare on the sand.
+
+“How do you deal with being so afraid all the time?” Sixiang asked.
+
+“You already know the answer to that,” Ling Qi said.
+
+Sixiang huffed, and Ling Qi sputtered as a wave came in, soaking her front. “Smartass,” they grumbled. “But I guess I do.”
+
+A burst of wind blew the water soaking her away, but Ling Qi refused to let Sixiang escape into comedy. She answered, “You work to make the world one where you don’t have to be afraid any more.”
+
+“Even if there’s no end to that path?” Sixiang questioned.
+
+“Ends are inevitable,” Ling Qi replied with conviction. “The journey to get there is what gives them value.”
+
+Sixiang let out a sigh and chuckled. “Wow. When I’m the gloomy one, you know something has gone wrong.”
+
+“You’re right,” Ling Qi said with a chuckle. “What do you say? Will you stay with me, Sixiang?”
+
+“Yes, I will,” the muse said, and Ling Qi felt their qi pulse and flex experimentally. “I think I understand better now what it means to be human and not. I’m not, and I never was. You're taking your own steps away from that as well. If you don’t like the world, then change it, huh? I guess I forgot grandmother’s power in the waking world.”
+
+“Dreams aren’t just for sleeping,” Ling Qi agreed. It seemed like a childish way to view it, but at the core of every cultivator was a dream. Slowly, she stood. “Sixiang, will you dance with me again?”
+
+“Of course,” her friend’s voice said, and a hand rose from the waters to grasp her own. “Did you have something in mind?”
+
+Ling Qi considered as she stepped out onto the sea, feeling the qi in her legs and lungs rippling with anticipation.

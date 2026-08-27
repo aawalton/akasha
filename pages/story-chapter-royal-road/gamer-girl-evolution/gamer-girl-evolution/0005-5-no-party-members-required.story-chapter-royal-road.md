@@ -1,0 +1,179 @@
+---
+id: cd84ed61-42d0-5459-a0b7-c0720a0ad65e
+page-type-slug: story-chapter-royal-road
+title: "5 – No Party Members Required"
+slug: 0005-5-no-party-members-required
+partOf: gamer-girl-evolution
+position: 5
+ownLength: 2062
+unit: words
+ownProgress: 2062
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620528/5-no-party-members-required"
+royalRoadId: "2620528"
+markedReadAt: "2026-06-29T20:05:45.241Z"
+---
+
+Celica stared at the armoured NPC blocking the entrance. The text box above his head glowed the same as always:
+
+[A party of three or more players is required to enter.]
+
+She tilted her head, then let a smirk creep across her lips. Most players would’ve shrugged, wandered back to town, and wasted time spamming world chat with “LFG”. Celica wasn’t most players.
+
+Her boots scraped stone as she paced around in a circle, her eyes flickering over the terrain. The patch of jagged wall, the scatter of loose rocks, the rickety fence half-collapsed by the trail. She remembered it all vividly.
+
+She crouched, fingertips brushing moss. They fixed this on day three. But here…
+
+First, she gathered rocks. Not too many, not too few. She stacked them in a neat pile by the wall, arranging them like checkpoints in a TAS run.
+
+Next, the grass. She crouched by the edge of the path, pinching strands between her fingers and yanking them out one by one. Each pull came with the tiniest crunch, like tearing paper. She counted them silently, her mouth twitching rhythmically like a metronome: one… two… three…
+
+The fence came last. Weathered wood creaked as she jammed the post against the cave wall, angling it at just the right vector. Each step had to be performed with precision or else the result would be… sloppy, at best. And sloppy got you softlocked.
+
+The collision box glitched, trembling like the world couldn’t decide if the fence was inside or outside the map. Celica grinned. “There it is.”
+
+She backed up, rolled her shoulders, and sprinted forward. Her character model jolted, snagged on the corner of the fence, then jittered violently. The textures smeared like wet paint. For half a second she saw the UI warp, health bar and inventory icons stretching across her vision like rubber bands.
+
+Then, her reality cracked.
+
+The wall wasn’t a wall anymore, instead it was a paper-thin veil her body had slipped through. The soundscape stuttered, wolves howling on loop, then they suddenly cut off mid-note, like a broken record.
+
+Her stomach lurched as the camera clipped sideways, showing her an impossible space—dungeon geometry rendered from angles the devs never wanted anyone to see. Celica forced herself not to blink. The world spasmed once more, then snapped into place. Darkness pressed close, broken only by a system prompt.
+
+[You have entered the first dungeon: Shadow Forest.][To progress you must clear the first stage: The Wolves’ Den.]
+
+Her smile sharpened. “Still works. Thanks goodness for out of bounds clips.” No party members required. Not for Celica.
+
+“Guess the real run starts now.”
+
+The tunnel was narrow at first, walls slick with condensation and moss dripping like melted honey across the stone. Every few steps, water dropped from above, echoing ominously. Then, the cave widened.
+
+The Wolves’ Den.
+
+A cavern with ragged stalagmites jutting up like prison bars, tufts of fur littering the ground and meatless bones gleaming in the torchlight. The first growl rolled out of the dark before she even stepped inside.
+
+Eyes. Dozens—all red. Wolves padded into view, their levels flickered above their heads in neat blue text.
+
+[Black-haired Wolf – Lv. 13][Black-haired Wolf – Lv. 13][Silver-haired Wolf – Lv. 14]
+
+These were the typical beginner mobs. They’d lunge, she’d roll, they’d bite, she’d parry. But then, the first pair didn’t lunge. They fanned out, circling left and right, teeth bared.
+
+Celica stopped dead, blade low. “Wait. That’s not… vanilla AI.”
+
+The pack didn’t charge as one mindless mass. They flanked in tandem, each step mirrored by another. She swore under her breath. “Did they really change their attack patterns? This isn’t supposed to happen until the later floors...”
+
+Her heart skipped a beat, but it wasn’t fear. No—instead, it was a spark of excitement. The devs hadn’t been lazy. Something deeper was going on. And perhaps it was something a little too deep.
+
+She didn’t give them time to complete their pincer. Her body flicked sideways as her character model slid between the wolves like she’d greased the floor. Their jaws snapped at air.
+
+Steel flashed.
+
+Her thrust registered first frame. She cancelled instantly, slamming the Slash input a breath later. The game hesitated. Normally, Slash’s cooldown should’ve frozen her out. Instead, the double register trick overrode it, layering both attacks in a single heartbeat. Her blade cut twice in the span of one frame.
+
+Numbers burst red over the wolves and by the time the third strike landed, their bodies burst into particle dust, dissolving into faint trails of loot.
+
+Celica’s MP bar barely shifted. Level 20 meant she could spam her level 10 common skills all day.
+
+More wolves snarled, rushing towards her. She cut them down, each kill a blur. Even when the higher levelled Silver-haired appeared, it couldn’t get within snapping range. She deleted it with a single combo, its howl silenced before it left its throat.
+
+The den stilled. And then the real howl came. It shook the cavern, reverberating through the stone. Dust fell from the ceiling as the ground trembled under padded paws.
+
+The mini-boss towered into view, silver fur gleaming like moonlight in the torch-shadow. His eyes glowed crimson, mouth dripping molten saliva.
+
+[Fenrir – Lv. 15]
+
+Celica stretched, a smile tugging at her lips. “So the warmup is finally done, huh?”
+
+Fenrir lowered his head. Muscles coiled with tense anticipation. Then, he lunged.
+
+Celica’s body was already moving, sliding sideways. His claws tore stone where she’d stood, missing barely. She grinned. “Pattern’s still clean. Easy read.”
+
+His jaws opened wide as shadows licked his teeth like black lightning. Fenrir bit down, sparks showering the floor as he did.
+
+Celica froze for half a second, eyes narrowing. “Magic? Bosses can’t… use magic. At least they shouldn’t be able to yet.”
+
+Fenrir roared, buffing his non-existent allies. The cavern echoed hollow, no wolves left to respond.
+
+“Bad game design, he should’ve buffed them earlier. Guess I probably killed them too fast.”
+
+She surged forward, her thrust connecting as she did. Cancel. Slash. Cancel. Thrust. Each animation override stacked DPS higher, blade blurring as her avatar blurred. The boss’s health bar plummeted in great chunks.
+
+Fenrir snarled, swiping again. Too slow. She was already dealing the finishing blow. The final thrust carved through his chest. He froze, his body was mid-lunge before he shattered into luminous shards.
+
+[Reward: 10 Silver Coins][Reward: Wolf King’s Necklace – Accessory][Effect: Wolves in the vicinity recognize you as dominant.]
+
+The money was useless. She was already the richest on the server, and that was even true if you pooled everyone else’s money together. The exp also went into the abyss, she was already max level, after all.
+
+This necklace… Celica tilted her head, lips twitching. With this, future wolf tribes would respect her, making it much easier to unlock dog-related races. She chuckled to herself slyly as she slid it into her inventory. “Hehehe, this is definitely worth keeping.”
+
+The cavern grew quiet again, only the sound of her own breathing and the flicker of torchlights remained. She spun her blade once, let it rest against her shoulder, and started toward the next tunnel.
+
+“One down.”
+
+The next tunnel sloped downward, narrowing until it spat her into a chamber that felt less like a cavern and more like a forgotten ruin.
+
+Vines hung thick from the ceiling, dangling over broken stone statues worn faceless by time. Strange, banana-like fruit dangled from above, swaying as though stirred by wind. But no breeze reached down here.
+
+Sounds bounced from wall to wall, high-pitched and mocking. Laughter.
+
+“Cute,” Celica muttered.
+
+A rock whistled down from above. She ducked, the stone shattering against the floor where her head had been. Several shapes leapt among the vines and ledges overhead.
+
+[You have entered the second stage: Monkey Ruins.]
+
+[Cheeky Monkey – Lv. 15][Cheeky Monkey – Lv. 15][Wise Monkey – Lv. 16]
+
+They chattered, hooted, and immediately began pelting her with rocks. From above, their angles made them a nightmare for a normal party. At least for one who didn’t know how to deal with stage hazards yet.
+
+Celica pressed her body against the far wall and jogged along it, sword angled casually at her side. The rocks still fell, but each one clipped the wall’s edge instead of her hitbox. A laugh slipped from her lips. “Good ol’ pathing trick.”
+
+She moved deeper, the monkeys’ laughter growing louder, more boisterous, until the chamber widened into a central arena where he was waiting.
+
+He dropped from the vines in a whirl of motion, staff twirling so fast it hummed. His fur was darker than the others, streaked with silver. A circlet of crude gold gleamed on his brow. His level tag flashed.
+
+[Monkey King – Lv. 17]
+
+Celica raised her blade, ready to delete him just like she deleted Fenrir. She lunged, cancelling into her slash mid-thrust.
+
+Clang.
+
+The staff blocked cleanly. Sparks sprayed as the monkey crowd from above cheered carelessly.
+
+Her eyes narrowed as she raised her eyebrows. “Huhhh? A parry?” That wasn’t in the script. Enemies weren’t supposed to react like players, not in the first dungeon. But the Monkey King just did, and it was a heavy swing that packed a punch no less.
+
+Celica ducked low, rolling past as her eyes shone. “Fine, let’s see what else you can do!”
+
+She baited his staff forward, feinting a sloppy thrust. As expected, he parried. She slid left, cancelling the animation before impact, blade whipping into her full DPS combo instead. Thrust. Cancel. Slash. Cancel. Double register. A frame-perfect combo.
+
+The Monkey King staggered, HP bar chunking down.
+
+“Is that all you got?” Celica said, her genuine disappointment evident.
+
+He didn’t flinch. Instead, he laughed. A shrill, mocking cackle which merged with the noise of the monkey crowd who’d long put down their rocks, watching intently as if it was the most entertaining thing they’d seen since their ancestor Donkey Kong escaped the ruins.
+
+His staff blurred again, striking from odd angles, forcing her to dodge between swings. Celica sidestepped, her blade never stopping. She locked the King in her rhythm — bait the parry, cancel out, punish with layered strikes. His HP bar melted frame by frame, chunks of red vanishing under relentless DPS.
+
+Finally, her blade punched through his chest. His body shuddered, and then exploded into golden light. But surprisingly, the loot window didn’t show up. Instead a synchronous shout echoed from above as all the monkeys dropped down at once.
+
+[Angry Cheeky Monkey – Lv. 15][Enraged Wise Monkey – Lv. 16][Angry Cheeky Monkey – Lv. 15]…
+
+A dozen furry creatures surrounded her, eyes glowing, teeth bared. One even held out a banana like a sword. Celica sighed, “You all should really just stick to throwing rocks… don’t you see what I just did to your king?”
+
+She moved at breakneck speeds. Her sword blurred in wide arcs, every strike cleaving an entire HP bar. The monkeys shrieked, lunged, and fell. Within minutes, the cavern floor was littered with their fading particle dust.
+
+Finally, the loot window popped up.
+
+[Reward: The Monkey King’s Cloud – Mount.][Effect: Mini-vehicle. Faster than running.]
+
+A small, yellow puff of cloud spun lazily in her inventory preview, bright and cartoonish. Her eyebrows formed an arch. She’d never seen this drop before, but from what she could tell, it wasn’t a very fast mount. Certainly slower than her glitchy vectoring movement, but more convenient for appearances.
+
+“Guess I’ll keep the toy,” she muttered, flicking it into her storage, disappointed that even though it was a cloud, she couldn’t use it to fly.
+
+She surveyed the chamber once more. Vines torn, statues shattered, and the echoes of rocks and laughter gone. The tunnel ahead yawned dark, gloomy and waiting. Celica rolled her shoulders, before walking straight into the mist.
+
+The tunnel twisted constantly, until the walls themselves seemed to change. Hairy green moss gave way to purple roots that pulsed faintly, like veins under skin. The stone floor softened into soil, dark and damp.
+
+The cavern was quickly being consumed, by an umbral forest that shouldn’t exist underground. Twisted trees stretched tall, their bark white as snow. A pale grey mist crawled across the ground, curling around her boots. Fireflies hung in the air. The system prompt blinked into view:
+
+[Shadow Forest — Final Stage][Objective: Defeat the Ghost Guardian]

@@ -1,0 +1,143 @@
+---
+id: 79ecf90e-9736-5933-bfe0-7a1c628c5f2c
+page-type-slug: story-chapter-royal-road
+title: "Threads 83-Integration 1"
+slug: 0104-threads-83-integration-1
+partOf: forge-of-destiny
+position: 104
+ownLength: 2816
+unit: words
+publishedAt: 2021-05-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/680088/threads-83-integration-1"
+royalRoadId: "680088"
+---
+
+The Singing Mist Blade hummed in her grasp, its song quiet as she held it in front of her face, studying the curves of the metal and the uncountable characters finely etched into the curves of the twisting blade. A domain weapon was an odd thing, almost extraneous in many situations. Ling Qi’s acted as a pestering wasp, buzzing about enemies and distracting them, infecting her enemies with enfeebling qi through the medium of its song.
+
+But it never quite fit. She had trained until she could move it like she would any other limb, but holding it in her hand, it didn’t really feel like part of her body or spirit. It was just an attachment.
+
+Ling Qi released the polished handle, never meant for a wielder’s touch and let the blade float over her lap, humming softly and trailing mist. She looked up to see Cai Renxiang sitting across from her next to the vent in the heiress’ meditation room. Cai’s domain weapon, a twisting ribbon of silk hung with tiny bells, floated between her hands. The girl’s eyes were half closed, and the silk rippled with prismatic light. Ling Qi looked again at her own weapon with a frown, feeling it through her connection. Even as she wielded the blade with more precision than ever before, recently, her domain weapon had felt incongruous.
+
+“What is our plan, now that the challenges are closed?” Ling Qi asked, feeling the way her qi trickled through the artificial channels carved into her domain blade.
+
+“We need be at the forefront of the Sect’s military efforts,” Cai Renxiang answered calmly. “Our efforts during the incursion have been rewarded, have they not?”
+
+Ling Qi let out a disgruntled sound at the response. With the start of the eighth month, Ling Qi had made a notable jump from her previous rank of 756 to rank 730 based on her performance in defense of the three villages. Cai Renxiang had made a smaller but still respectable climb to rank 708, and most of her friends were steadily climbing as well. She glared at her unresponsive blade. “Is that really satisfactory?”
+
+<Can’t stand being beholden to chance, huh?> Sixiang chuckled silently in her head.
+
+“It is not,” Cai Renxiang replied. She did not open her eyes. “But matters are being decided above our heads for the moment. We must prepare to snatch opportunity as it passes by, but to seek it out at this moment will reflect poorly upon us. I share a degree of your discontent however. We must be aggressive in volunteering for duty. I have signed up for front line operations in the Wall.”
+
+“Will they really let you do that?” Ling Qi asked, giving her liege a dubious look. Testing aside, she was still the heir of the Cai.
+
+“Mother would be displeased if they did not,” Cai Renxiang said with certainty, easily picking up Ling Qi’s real question.
+
+<There’s not coddling your kids, and then there’s that,> Sixiang grumbled. <And that’s not even the thing she’s worked up about.>
+
+Ling Qi could see where Sixiang was coming from, and she didn’t disagree. While she would not claim to know Cai Renxiang’s heart, she was fairly certain that the girl had at least one thing in common with her. She would not be satisfied with less than her best.
+
+“My friend, Su Ling, hinted at something going on with the enemies below. Li Suyin is probably involved, too. I’ll see if I can get my name on the shortlist for that.”
+
+At that, Cai Renxiang cracked an eye open. “Is that so? Very good. I will be relying upon you to keep up. Please do not forget your other tasks.”
+
+Ling Qi pursed her lips. “That Wang guy, right? I’ll look into it.”
+
+<You’re trying to brush up on tactics, right? You should ask him for advice. People always like to feel learned, and it’s easy to feel positively toward someone who asks for your help,> Sixiang whispered.
+
+Ling Qi grunted in response. It wasn’t the first time Sixiang had suggested that strategy since they had “returned,” but it irked her pride. Wang Chao had been dismissive of her at the party. Approaching from a position of weakness didn’t sit right with her.
+
+“Do you believe you have finished forging your connection?” Cai Renxiang asked, interrupting her thoughts.
+
+Ling Qi glanced down at her weapon, feeling her qi soaked into every bit of its spiritual presence. Faintly, she heard the strain of an unclear melody. She cleared her mind, turning her focus fully back to the weapon and then nodded. “Yes. So what does integration entail?”
+
+“There are many texts available on the subject,” Cai Renxiang admonished.
+
+Ling Qi smiled faintly. “I learn better from people. Besides, I would like to know your thoughts on the matter, Lady Renxiang.”
+
+Cai Renxiang let out a dissatisfied hum, but she did not admonish her. Ling Qi took it as a tentatively good sign. Since that day at Zhengui’s hill, her liege had been a little more permissive in private. “At the most base mechanical level, it is an exercise in spiritual surgery, transferring an art and the meridians it occupies to new housing. It is permanent, the first of many such steps we will take on the road to the peak of cultivation. While this one is a small sacrifice, a matter of utility rather than true loss, it is wise to consider the implications well.”
+
+Thoughts of the sacrifices necessary for higher cultivation were troubling, but Ling Qi was well beyond the point of stopping. “And what is the point of that?”
+
+“It trains the mind for the stages which come after,” Cai Renxiang explained, letting her eyes drift shut again. “A cultivator is not merely their body, and a cultivator’s body is not merely flesh. Even if you can speak the words, you do not understand them without experience. These exercises replace much trial and error which our ancestors needed to perform to ascend the realms.”
+
+Ling Qi understood. “You called that explanation base and mechanical. Is there something more to it?”
+
+Cai Renxiang was silent for a time, but eventually, she answered. “It is not possible to excise and transfer a piece of your spirit to a new bodily vessel without affecting yourself. You know that climbing the realms of cultivation requires sacrifices, things cast aside. What you place in your domain weapon is something which will remain with you always.”
+
+“If you do not mind, what did you put in your weapon?”
+
+The silk floating between Cai Renxiang’s hands rippled, and the bells sounded faintly, ephemeral and echoing. The crimson eyes splayed across her chest narrowed in hunger. “My desire for purity. You know well my attitude toward disorder and uncleanliness.”
+
+“I said I was sorry for putting the tea leaves back wrong,” Ling Qi mumbled. Rarely had she seen her liege more blatantly incensed as she had been this morning. “That doesn’t sound like something you would want to be rid of though.”
+
+“It is not. Nor is removal the purpose of the exercise,” Cai Renxiang said. “For as long as I can remember, I took pleasure in ordering my surroundings, even more so after my awakening. Yet the world is untidy. It can be improved, but my plans will never be executed to perfection. This is not because the world cannot be predicted or ordered, but because I have failed to account for all factors. It is important to be able to accept some degree of disorder and uncleanliness in action, but it is more important to not forget the goal I am seeking past that tolerance.”
+
+Ling Qi nodded slowly. “It’s what drives you. By enshrining it in your domain, you make sure you never lose touch with it.”
+
+“Precisely,” Cai Renxiang agreed.
+
+Ling Qi hummed. It was a little peek into the other girl’s head, and for all that Sixiang grumbled, she even understood, just a little. Though she had never been in a position to act on it, wasn’t having things in order, having things under control, something that anyone would want? She had spent many a night out in the cold, wishing she had more control over her life, even if she had not understood that to be the core of her wish.
+
+<I’m not sure I agree, but this isn’t really the time. Besides, it’s not like you’re going to do the same as her,> Sixiang grumbled.
+
+“How does that work with people who have multiple domain weapons or change them later?”
+
+“The weapon is just the physical housing. Although the process is longer and more difficult, it remains possible to transfer the meridians to a new device,” Cai Renxiang explained. “Multiple weapons are a matter of style and arts. It is unusual to have more than one integrated weapon. It would be counter intuitive given that the domain weapon is a practice exercise for the functions of higher cultivation. Perhaps it might be useful if one were certain that they were not going to reach the fourth realm.”
+
+Ling Qi looked at her blade, thinking of which art to enshrine in her domain. Over the previous day and this morning, she had considered integrating her mentor Zeqing’s most potent gift, the Frozen Soul Serenade, and the sometimes clashing, but often decisive, art from Elder Ying, Thousand Ring Fortress. But again and again, she came back to her oldest active art, the one first granted to her by Xin in Elder Zhou’s trial, and the one which had seen her through so many trials, the Forgotten Vale Melody,
+
+“Have you decided?” Cai Renxiang asked.
+
+Ling Qi breathed out and nodded. “My Forgotten Vale Melody. What else?” Ling Qi asked rhetorically, smiling faintly. The Forgotten Vale Melody and the Sable Crescent Step had been the arts that allowed her to begin growing in truth. Sable Crescent Step would be succeeded by the Laughing Flight of the Wind Thief art and so would stay with her, but there was no such continuance for her melody.
+
+Perhaps in time, she could have gone out, questing for the vale where the traveler had composed the melody, but Ling Qi thought that would be missing the point. It was never the actual, physical vale that mattered. And besides, wasn’t it better to make the melody her own, rather than chasing someone else’s insights?
+
+Cai Renxiang merely nodded, not privy to her thoughts. “Very good. I trust I need not review the Sect’s lessons in meridian compression?”
+
+Ling Qi shook her head absently as she closed her eyes, turning her attention inward. Silver light flickered under her eyelids as a single mirror-like wisp manifested in the air, and she examined herself through it. It was not often that she focused so closely on her spiritual self. Between her resources and Suyin’s meridian talisman, the opening of meridians had become a trivial task, something to be done swiftly between more intensive cultivation.
+
+Her dantian blazed like a miniature star. A churning elemental furnace encased in soft, reflective silver, the light within blazed through the argent skin. Her meridians shone in their multitude; lines of the deepest black wound through her legs, a thick bundle of verdant green coiled around shimmering rainbow ran straight up her spine, veins of gleaming ice descended her arms and branched out through her fingertips, and threads of colorless and silver qi wound through her head and curled around her eyes and ears with even more curled in her chest, nesting her heart and lungs.
+
+She had many more meridians than an average cultivator could ever hope to open. Cai Renxiang was much the same. Briefly, she turned her attention to the other girl. Cai’s meridians were a dense web of metal, mountain stone, and blinding light. Where Ling Qi’s channels were an organic tangle, Cai Renxiang’s meridians were all right angles and straight lines.
+
+It would not stay easy forever. Her spirit, already dense with spiritual channels, would require more and more care. She had already used most of the “easy” spaces where veins of impurity ran, leaving space that could be cleared for use with relative ease. Soon, she would have to begin carefully carving new channels where no clear paths lay. The elder in charge of the lessons had been very clear on how painstaking the process was if a cultivator wanted to avoid causing themselves great harm by disrupting or damaging their extant meridians.
+
+Ling Qi let out a breath and quieted her whirling thoughts, feeling the phantom sensation of Sixiang’s hands resting reassuringly on her shoulders. She needed to focus. Right now, she had some compression to do.
+
+***
+
+Forgotten Vale Melody was her most familiar art, but it was still afternoon by the time she had opened her eyes, having finished the task of weaving the patterns of the melody into only three channels. Cai Renxiang still sat across from her, not having moved a single centimeter since she had closed her eyes. Ling Qi rolled her shoulders once out of habit, having long left behind simple aches. “Finished.”
+
+Cai Renxiang’s eyes opened, and the feeling of surging qi that came with spiritual cultivation subsided. “I see. You are prepared to begin the procedure then?”
+
+“Yes,” Ling Qi said. “I don’t want to waste your time. Thank you for offering to show me how this is done.”
+
+“It is no trouble,” Cai Renxiang replied evenly. “I am merely doing my duty.”
+
+“And the invitation to morning tea?” Ling Qi asked lightly. “I didn’t mind the sampling—that Ebon Rivers blend you had was great—but I’d hardly call that ‘duty.’”
+
+Cai Renxiang gave her a hard look and then proceeded to ignore her statement. “Focus upon the meridians that you intend to transfer.”
+
+Ling Qi sighed and turned her attention inward again. What worked on Meizhen did not work for Cai Renxiang; the girl was not exactly reactive to teasing. Their relationship was still kind of awkward, and Ling Qi wasn’t quite sure yet what level of familiarity was acceptable. It made her feel better that Sixiang was pretty sure that the same was true for Cai Renxiang.
+
+<It’s pretty questionable if Meizhen is the one who gets teased these days,> Sixiang teased. Ling Qi ignored them with great dignity, focusing on her task. The three meridians she intended to transfer stood out in her mind’s eye.
+
+“Feel the places where your spirit touches upon the physical world,” Cai Renxiang continued. “It is these that you will need to excise. Do not tamper with the meridian’s connection to your dantian. Doing so will only destroy it.”
+
+“Understood,” Ling Qi murmured. They were bright spots like glimmering pinpricks on her heart and lungs scattered semi-randomly along the channel’s length. “How do I go about severing the connection?”
+
+“Your channels are a part of you. It is simply a matter of will,” Cai Renxiang answered. “I found the visualization of needles and thread useful, imagining it as plucking a single thread from a tapestry. I suspect you will require something of a more musical bent.”
+
+Cai Renxiang wasn’t wrong. She focused upon the channel brimming with music qi. It was easy to shift her understanding of meridians as lines of color to something more musical. The image she held in her mind dissolved, replaced by the thrumming of a song. It had an unsteady and uncertain beat, but Ling Qi liked to imagine there was some beauty in it. Absently, she hummed to herself, feeling out the ways that the channels twitched and reacted to the changing tune. There was a sharp pain whenever she began to pull one away, and she grimaced.
+
+“Is it supposed to hurt?” she asked.
+
+“Yes,” her liege said. “Once you have loosened the meridian from its connections, you must move it into the vessel you have prepared and reestablish its connection in the new housing. As you do so, you will need to focus upon the part of yourself which you wish to integrate into the domain weapon. This is needed to solidify the new connections and prevent their fraying and breaking. Do not rush this. It will likely take you a day or two to complete the process.”
+
+“Understood.” Ling Qi breathed out. “Is it alright if I stay here while I do the exercise then?”
+
+“I have already cleared the matter with the Sect,” Cai Renxiang replied. Ling Qi heard the faint rustle of cloth as the other girl stood up. “I will check on your progress as time allows.”
+
+Ling Qi nodded absently as the other girl left, the door to the meditation room closing with a click behind her. Now, she was alone with her thoughts, and Sixiang, of course.
+
+“Thanks for remembering,” Sixiang whispered on the wind. “I’ll keep quiet and let you concentrate. Be careful, Ling Qi.”

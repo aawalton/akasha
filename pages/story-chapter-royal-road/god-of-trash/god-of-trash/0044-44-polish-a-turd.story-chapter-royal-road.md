@@ -1,0 +1,113 @@
+---
+id: 19653522-5dd1-5994-8ffa-35f01d37f9b7
+page-type-slug: story-chapter-royal-road
+title: "44. Polish a Turd"
+slug: 0044-44-polish-a-turd
+partOf: god-of-trash
+position: 44
+ownLength: 2435
+unit: words
+publishedAt: 2025-04-07
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2182784/44-polish-a-turd"
+royalRoadId: "2182784"
+---
+
+Two weeks until the guest teacher arrived. Rhys took a deep breath. He looked around him. This was the Schoolmaster’s house. It was the obvious place the guest teacher would go when he arrived here. In other words, it was the first place he had to clean.
+
+Rhys looked at Az. “Can you archive faster?”
+
+“I was going slow for your sake,” Az replied. “Do you not wish to know how to archive properly?”
+
+“No, I do, but we’re on a time crunch here. If you can speed it up, I’ll bring you papers as quickly as I can.”
+
+The Schoolmaster’s manor was full of papers. Rhys wanted the trash, but he had no use for the useful papers. On top of that, the last thing he wanted to do was throw away a useful paper that the Schoolmaster needed, when he misunderstood it as useless. If he just burned everything, he risked not only pissing off Aquari and closing off his access to the upper peak, but also potentially completely ruining the school’s chances of surviving regardless of how well he did when the guest teacher came. The fastest way to separate the wheat from the chaff was to rely on Az’s high-tier archiving skills. Az knew far better than him (and, Rhys was willing to bet, Aquari herself) which of these papers were necessary, and which were nothing but burnable garbage.
+
+Az considered for a moment, then nodded. “You’re worried about the guest teacher?”
+
+“Yeah. I know his type. He’s going to tear this school apart if we give him the slightest opening.”
+
+“And you’re that loyal to this school?”
+
+“I’m loyal to my own freedom.”
+
+Az chuckled. “I can appreciate that. I’ll teach you the mysteries of archiving another time, then. Bring me all the papers you can find, as rapidly as you can find them. We’ll archive this manor, whether Aquari wants it or not.”
+
+“That’s right. I’m taking all her trash, no matter what she wants!” Rhys agreed.
+
+The two of them shared a grin. They’d come to the same place via different routes. Their paths might differ, but they converged at the same point in this moment.
+
+Az turned away. Rhys turned to go as well, but paused at the door. Az’s eyes blurred. Papers passed before him so rapidly that Rhys couldn’t imagine comprehending a single letter on their surface, even with his Speed Reading skill. It was like he was a vacuum for information. He breathed it in, absorbing it merely from proximity alone.
+
+At that rate, we really can clear this house in two weeks. No—even doing it today isn’t impossible. Seeing the papers in the room visibly become organized, Rhys rushed away. If he waited any longer, Az might run out of material to archive.
+
+It wasn’t hard to find papers. They were everywhere. In fact, the harder task was staying on his feet as he ran over all the papers and trash piled everywhere. Rhys started with the closest papers, the ones lying here and there in the hallway. He’d never had to grab trash at speed before, and this proved to be excellent training. He dashed around the hall, plucking the papers and leaving the general trash for later. He wouldn’t leave it forever, but while the top-speed archiving machine known as Az was working, he didn’t want to let the cat-man churn without data. He ran back to the room and placed the hallway’s papers in the to-sort pile just as Az finished up the first room’s worth of papers.
+
+Holy shit! He’s faster than I expected. The papers he’d grabbed from the hallway looked wholly insufficient now that he knew how fast Az could work. Rhys rushed into the next room and scooped up armfuls of papers, immediately ferrying them back to Az’s side. A few repeats of that, and he’d bought himself enough time to actually pick the papers, books, and scrolls out from the regular garbage. The more he did it, the faster he got at picking particular trash. It wasn’t necessarily more valuable trash, since Az hadn’t yet archived it and determined whether it was worthwhile or not, but it was a certain type of garbage. He’d had some practice picking out the organic garbage to use as compost, but this was a step beyond that. The speed at which he had to grab papers, and the volume at which he needed to ferry them around, far surpassed anything he’d ever had to do to generate compost.
+
+As he placed yet another stack of papers and books at Az’s side, a notification popped up.
+
+Speed Picking 1
+
+Scavenging 28 > 31
+
+He chuckled. Another skill? He wouldn’t have gained it so quickly if it weren’t trash-related. But… picking? What did that have to do with trash?
+
+Picking… isn’t that a term used by thrifters? He could vaguely remember from his first life that ‘picking’ was a term thrift shop enthusiasts used to refer to picking through shops in order to find the best items. When he thought about it, thrift shops were full of garbage that people had thrown out. Thrifters went to those shops and picked the gold out of the garbage, in a move after Rhys’ own heart. Then, speed picking… was that the skill associated with picking what he wanted out of a pile of trash rapidly?
+
+He looked at his hands, then laughed and made finger guns. In a mock spaghetti-western voice, he growled, “Fastest picker in the West.”
+
+A moment later, he sighed. Spaghetti westerns. What a pure and undiluted source of trash narratives that was near and dear to his heart. Not just the classics, which some people dismissed as trash out of hand due to their unoriginal and inauthentic storylines and settings, but all the lesser-known titles and works as well. The cheesy space westerns and goofy steam westerns. If ‘western’ was slapped in the name, Rhys knew he was in for a good time. Still, in this world, they had no concept of ‘western.’ It wasn’t a narrative or a setting they had any familiarity with. He wouldn’t be able to find any of his beloved westerns here.
+
+No westerns… But no westerns didn’t mean no trash. There were dozens of other trashy genres, some of which he knew this world had, and just because they lacked a setting, didn’t mean they lacked a type of trash. It just meant they’d have their own unique trashy settings that he needed to learn about so he could seek them out and fully enjoy them.
+
+Enheartened, Rhys sped up once more. When one door closed, another one opened! Trash authors, screenwriters, and playwrights wouldn’t stop producing his beloved trash just because they didn’t have access to a genre! They’d just find new genres, or make their own! What a wonderful world he lived in. How boundless and limitless. He needed to fear naught, because he could always count on the creators to keep creating everything he loved so dearly, no matter what circumstances they faced.
+
+One pile of papers after another, Rhys ferried the excessive documentation junking up Aquari’s house to Az for proper archiving. From nowhere, Az bound the loose-leaf papers into folders and filed scrolls away in a cupboard, while setting the valuable books on a shelf he’d plucked from thin air. He piled the useless papers in prim stacks, tied up with twine and whenever those threatened to overwhelm the room, Rhys took a moment to heft them through a nearby window and out into the garden below, where he could cart them over to the piles once he finished with the house.
+
+“What’s all that for?” a feminine voice shouted from the garden.
+
+Rhys paused. He walked back to the window and peered out. Lira had rolled over again and stared up at him from the fountain.
+
+“We’re cleaning the house. Gotta get the garbage out,” Rhys explained.
+
+“Hmph. Don’t throw any in my fountain.” Lira rolled back onto her back to float once more.
+
+“Yeah, yeah, your highness,” Rhys muttered under his breath. He rolled his eyes. Would it kill you to help?
+
+Not that he needed her help. It was just his human instincts kicking in, demanding that everyone nearby help out when he was working. She was a water spirit or something, so of course she wouldn’t understand, nor should he expect her to. Even so, he couldn’t help it. That was just the way humans were built.
+
+He collected the ordinary garbage as he went, when he had the time, piling it up by the door, whether that meant carrying it there in neat piles or chucking it down the stairs from over the balcony. It wasn’t the neatest pile, but it was closer to the exit and at least generally in the right area. It also meant he wouldn’t have to keep sifting out the same non-paper garbage every time, which got tiresome after a while. A part of him wanted to lug the useless papers and the non-paper garbage over to his piles already, but the rest of him refused to let Az down. If he broke Az’s stride, who knew if the man would ever pick it up again? He was a cat, after all. Moody to the core. He was in a productive mood right now, but all it took was one small break for him to reset into a completely different mood, if all the cats he’d owned were any indication.
+
+Carrying a load of papers to Az, a clump of garbage stuck under one arm, Rhys paused, then laughed at himself. Despite everything, his mind went back to his days under Straw, with Bast, out in the forest. I bet Bast isn’t doing any training like this, under the Sword Saint.
+
+Out in the forest. Just him and his friend, and the mysterious Straw. Back then, everything had been so simple. They’d fought, and that was it. He’d been weak, and Bast was strong, and those were the laws of his universe. He’d still been struggling with Intent, and trying to figure out what it meant to be a mage. And now here he was, running around the Schoolmaster’s manor to clean it up before the rival school’s investigator—ahem, guest teacher—came through to tear apart his world.
+
+His world. But it was true. This school had become his world. His world wasn’t Bast and the orphanage, or Straw and the forest. It was all of that, and this school.
+
+Hope you’re doing well, Bast. Then again, how couldn’t he be? Bast wasn’t struggling in some dead-end, doomed school. He was studying under the most powerful martial mage in the continent. With his talent? Rhys could only imagine how powerful he had to be by now.
+
+He wasn’t slacking, either, but he had no illusions about the gap between him and Bast. Hard work was one thing, but honest to god, legitimate talent was another. Starting from trash tier skill and starting from S-tier skill were totally different. Sure, if Bast was lazy and did nothing with his talent, hard work could overcome his starting point, but Rhys knew better. Bast was as hard a worker as they came. For certain, he’d be incredibly more powerful the next time they met.
+
+I’m looking forward to it.
+
+At last, as the sun set, Az finished archiving the last of Aquari’s papers. With a snap of his fingers, he dismissed the shelves and cupboards he’d summoned, banishing the archived materials along with them. “That is all. If Aquari comes looking for her things, please send her my way. I will be holding onto them until she has need of them once more.”
+
+“Thanks, Az. I’m glad I could cat-ount on your help,” Rhys said, trying some wordplay of his own.
+
+Az stared at him. After a long moment, he blinked. “Oh. ‘Count.’ It was weak, but I appreciate the effort. Yes, of course. If you ever run into another vast repository of unarchived materials, please call on me anytime.”
+
+“Naturally. Oh, I was wondering… why didn’t you archive Aquari’s papers until now?” Az was a powerful being. Surely he could overcome the barrier at any time, just as he had overcome it today. If archiving was his path the way trash was Rhys’, then Rhys couldn’t imagine hesitating to run in and get it all done as fast as possible if he had the power to pass by the barrier.
+
+Az shrugged. “Until recently, she wasn’t aware of my presence, and so I had no intention to draw her attention. However, when you went ahead and intruded on her manor regardless of her wishes, I thought to myself, she might reinforce her barrier after this, and so I figured it was best to move now, when stepping through her barrier with a cat’s paw was relatively easy for me, rather than wait to see if she actually added enhancements later.”
+
+“O-oh. Sorry,” Rhys said, suddenly aware of his mistakes. He had intruded on the Schoolmaster’s manor without her permission. He hadn’t been thinking, but there was every possibility she’d add additional defenses afterwards.
+
+Az tilted his head to the side. Rhys could all but see his tail batting the ground in a self-satisfied manner. “No need to apologize. It’s thanks to you that I have this opportunity. Over-caution is as much a weakness as undue bravery.”
+
+Rhys rubbed the back of his head, grinning just a little.
+
+Stepping close, Az rapped his shoulder with a curled hand, almost like a cat’s admonishing smack when their owner overstepped their boundaries. He passed Rhys by. “I’ll be in the library.”
+
+“And I’ll finish gathering the trash over here.” There was still some ordinary trash left to gather. He’d been sipping his potion this whole time, at a safe rate, anyways, since he couldn’t afford to overcharge and bring Az papers at the same time. His stomach and throat were now fully reformed, not a single weak spot left. The places he’d inadvertently missed the first time were completely shored up. All that was to say that he’d almost finished the second potion. His tolerance for impurities was growing, and he needed a fresh potion, a stronger potion, brewed from more trash, if he was going to continue improving.
+
+There was no response. Rhys turned, and wasn’t surprised to find Az already gone. He chuckled to himself and shook his head, turning back to the task at hand. The papers were cleared, but the trash wasn’t. It was time to finish what he’d started.

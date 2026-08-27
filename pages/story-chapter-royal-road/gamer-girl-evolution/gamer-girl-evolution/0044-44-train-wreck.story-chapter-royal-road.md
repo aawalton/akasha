@@ -1,0 +1,201 @@
+---
+id: 2bdac723-afc7-584a-a900-c8a1f1134b76
+page-type-slug: story-chapter-royal-road
+title: "44 - Train Wreck?"
+slug: 0044-44-train-wreck
+partOf: gamer-girl-evolution
+position: 44
+ownLength: 1906
+unit: words
+ownProgress: 1906
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2939429/44-train-wreck"
+royalRoadId: "2939429"
+markedReadAt: "2026-06-29T20:06:59.210Z"
+---
+
+"Because they weren't good enough. Obviously."
+
+Instead of the usual racket, which ensued from the controversial statements Slimonius made, an eerie silence enveloped the area.
+
+"Enough with the complaining. You all had it lucky! Other areas only had more casualties, with several tens of players falling victim to the Cyclops' true death."
+
+It seemed like Slimonius was trying to comfort them, but, none of them found any sort of comfort in his words.
+
+"Well, there's some good news so stop with the sour faces. Player Snapped Sword, from area 11 has achieved not only the fastest main quest clear time in your area, but also the fastest in your country and in the entire world!"
+
+In front of Celica, three separate lists appeared, with each one more decorated than the last. Her eyes naturally shifted from the bronze one on the left, to the golden list on the far right.
+
+***
+
+Top 3 Individual Clear Times — Main Quest (World-wide)
+
+Snapped Sword — 3 minutes, 47 seconds
+
+SADG_LunarShroud — 44 minutes, 18 seconds
+
+SADG_Emberclaw — 56 minutes, 21 seconds
+
+***
+
+Celica inwardly smiled after seeing the leader board.
+
+Not bad.
+
+Continuing on, Slimonius brought up another leader board. "Funnily enough, the party consisting of: Snapped Sword, was also the fastest to defeat the Cyclops."
+
+— "Party? But he only mentioned one player..."
+
+— "He solo'd the boss? Again? Just who is Snapped Sword?"
+
+— "There's no way a mutant boss was cleared by just one person... right?"
+
+***
+
+Top 3 Cyclops Clear Times — World-wide:
+
+Snapped Sword — 2 minutes 39 seconds
+
+SADG_LunarShroud / SADG_Emberclaw / SADG_Frostbite / Veilstrike / RogueClown — 1 hour, 6 minutes 42 seconds
+
+Nightfall_Wraith / MysticFlame / CriminalShock / AFK_Despair / AlphaBloom — 1 hour, 18 minutes 20 seconds
+
+***
+
+This time, a series of gasps rang out from the crowd, as if none of them could believe it. Their reactions were, of course, justified.
+
+Celica had gapped the second place five member party of players by an entire hour, and then some.
+
+Solo.
+
+It was to be expected that everyone would be beyond shocked, even while knowing Snapped Sword was the best player on their server.
+
+The perpetrator in question, however, thought this was only natural. She was a veteran professional player who, admittedly, knew way too much about the game.
+
+Not only that, she had gotten ahead greatly from the first floor rewards and the 'feature' abusing, to the point where she was already freakishly strong even before she encountered the unique military mist outpost scenario.
+
+Now, after she'd cleared a weapon trial stage and obtained what could only be called a cheat weapon at this point in the game, she feared that future bosses and main quests would only be cleared faster and the disparity between her and second place would only grow.
+
+"Hmm..." Slimonius rubbed his strange tentacles together as he eyed the leader boards with as much interest as the players below him. "Even for an extremely talented player, being this far ahead of the others globally is abnormal... it seems Player Snapped Sword will be an issue later..."
+
+His voice trailed off, uncharacteristically quiet, as if he was speaking more so to himself rather than to the poor players he'd gathered. Hearing his words, Celica's eyes narrowed with suspicion.
+
+Later?
+
+She wasn't sure what he meant at all, but she made sure to make a note of it mentally.
+
+"Rewards for all players on the leader boards will be given on the next floor, as usual." Slimonius said mechanically, his gaze still sticking to the leader boards. "Right, enough. Time to send you all back to Earth. Not that I don't enjoy your presences or anything like that, it's just that—nevermind."
+
+After a short pause, Slimonius, the slime king, raised his hand.
+
+Virtual green and purple lights covered the cohort of players gathered in the central city of Marshia, enveloping them all one by one. Around Celica, countless players disappeared one by one, until she was the only one left.
+
+For a brief moment, only she was left in Marshia's centre with Slimonius' large figure opposite her.
+
+Slimonius opened his mouth, as if he wanted to say something, but ultimately decided not to. Before Celica could react to the strange situation, the virtual lights swayed around her too, leaving Slimonius alone in Marshia's centre.
+
+"Something's off about that Player, Snapped Sword. They're too strong." Slimonius spoke into the air. No one was there. "Investigate them. If you discover any misconduct or cheating, report it to me first. I'll decide whether or not to inform the admins, and how to deal with it."
+
+"Understood." A voice replied from the silence, but whose it was or where it was coming from couldn't be ascertained.
+
+***
+
+Meanwhile, Celica was trying to process the strange scenario which had just unfolded. What did that last look Slimonius gave her mean? And what did he mean when he said she was going to be an issue later?
+
+She scratched her head, ultimately deciding not to dwell on it too much. She'd naturally figure it out in due time. There was still countless floors and several realms to go, after all, and Slimonius was a boss belonging to the fifth realm.
+
+"This is strange. Why haven't I returned yet?" Celica muttered out loud as she looked around the strange virtual space she was in. She recognised it.
+
+It was a space she'd seen countless times—the same space the game put you in when you were travelling long distances, like between floors and realms.
+
+It was also the space you were put in temporarily when travelling between Earth and the game world. But normally, the time you spent in this area was never long. Especially not, five minutes long.
+
+Could it have to do with the fact I was the last one to be transported? Did Slimonius do something to me? She paced around the space, curiosity tugging at her fiercely. She wondered if she was the only one going through something like this, but she quickly discarded the thought.
+
+There was no way she was the only one experiencing something like this. But then—just what was going on?
+
+As if the system was answering her qualms directly, she soon obtained her answer.
+
+"Red?" She paused, as she looked at a colour she hadn't seen often in this space, even with her ridiculous playtime. Though, it didn't take thousands of hours of playtime to realise that what was happening wasn't anything to celebrate.
+
+[ERROR.]
+
+[ERROR.]
+
+[ERROR.]
+
+Around her, a strange scrunchy sound echoed. The usually soft, lime green and violet lights were being overpowered by a striking red light, followed by a single word.
+
+Error.
+
+"You've got to be kidding. The game had bugs in the past—I would know. But it... was never this buggy." She shook her head profusely, as if she was refusing to accept what was happening.
+
+Something like this had happened to her before, however. It was during the game's release of the fourth realm. At that time, there'd been a bug caused by too many players travelling between realms at the same time.
+
+It was promptly fixed, but it was one of the more infamous 'events', which almost every active player at the time would still remember. It blew up the forums because every player on the server was forced to log out by the admins for a single reason.
+
+They had all been soft locked.
+
+The active playerbase at the time referred to the incident as '4R's (Fourth Realm's) train wreck'.
+
+But this time, there was no way to log out from the game. Now, the game world wasn't quite VR... instead, it was something else.
+
+Something much stranger. A blend between real life and virtual reality.
+
+There was no longer some head gear they could take off, or some virtual pod they could leave or be disconnected from.
+
+This was reality.
+
+So... how could she leave? How could anyone leave? Did she just have to wait until the admins fixed everything?
+
+Did this place even have admins?
+
+"Just my luck... another train wreck." She looked around, surprisingly calm considering the strange situation. "I can just imagine the faces of the newbies while they're freaking out over this..."
+
+She looked around the space which was slowly becoming a red prison of 'error' messages. Roughly a minute passed before a different message popped up, causing Celica's eyes to flick towards it at breakneck speeds, her whole body turning in one swift motion.
+
+Probably not the best usage of her superhuman reaction speed.
+
+[Attention All Players: Do not be alarmed. We are working to fix this as soon as possible. Stay calm.]
+
+"Do not be alarmed in bold will probably alarm everyone." Celica carefully looked over the message multiple times. "As soon as possible, huh?"
+
+For some strange reason, Celica's mind drifted back to something she'd heard Slimonius say in the past.
+
+This game has no glitches or bugs.
+
+That statement certainly didn't age well. Not that it held any water even before this incident, Celica had already used and abused her fair share of 'features' to know that what he said was complete horse shit.
+
+[Attention All Players: You are being redirected. Please, try to stay still to ensure a smooth path.]
+
+Redirected..?
+
+Soon, error message after error message disappeared, the red lights returning back to a familiar fluorescent green.
+
+Although she didn't know exactly where she was being taken, Celica still made a point to follow the system's guidance, and stood as still as possible. She knew exactly how dangerous it could be to be stuck in a place like this, and she didn't want to increase her odds of being trapped.
+
+In front of her, the green space collapsed, exposing a wide, empty area in front of her.
+
+It was a wide, spacious old-fashioned courtyard, with a remarkably clean floor. There was no buildings on the horizon, instead there were four tall walls blocking her vision.
+
+From her own personal experience, however, she knew there was countless buildings on the outside of those walls. She turned around, and the grand structure she was expecting greeted her.
+
+It was a palace, the size of which could only be seen in animated movies and theorised of in fantasy novels. Its balcony, which hung over the courtyard, housed a king, who currently stood atop it proudly.
+
+Grand, crimson red robes and an elegant golden crown adorned his figure. He displayed a magnanimous smile as he made eye contact with Celica briefly, before turning away.
+
+One by one, players spawned into the courtyard.
+
+At first, it was only Celica, but eventually the previously empty courtyard was bustling with players, all with expressions of fear, shock and annoyance.
+
+Celica empathised with them. First time? she thought to herself. Truthfully, she'd probably also been wearing a similar expression when it happened to her for the first time, she knew full well how jarring it was.
+
+Her line of sight switched from the players around her back to the balcony.
+
+Like a practiced ceremony, several figures walked to the front of the balcony. Crucially, they were visible to the players below, but all made sure to stand at least slightly behind the king.
+
+As I thought, this place is...
+
+Just as she was gathering her thoughts, a system notification cut through the silence.
+
+[You have arrived on Floor Three: The Grand Eonian Empire]

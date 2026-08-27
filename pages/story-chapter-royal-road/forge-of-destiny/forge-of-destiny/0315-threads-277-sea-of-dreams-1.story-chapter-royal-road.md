@@ -1,0 +1,191 @@
+---
+id: fe1b29c4-d532-52a5-9e8f-5c1a3bde6780
+page-type-slug: story-chapter-royal-road
+title: "Threads 277 Sea of Dreams 1"
+slug: 0315-threads-277-sea-of-dreams-1
+partOf: forge-of-destiny
+position: 315
+ownLength: 2246
+unit: words
+publishedAt: 2023-01-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1086133/threads-277-sea-of-dreams-1"
+royalRoadId: "1086133"
+---
+
+“You are an attentive student,” Shu Yue praised as Ling Qi finished her analysis of the last letter, a simple invitation from a baron in the nearby Wang lands to trade some pointers regarding the establishment of agriculture in mountainous lands.
+
+“You are a thorough teacher,” Ling Qi replied, bowing her head.
+
+“Exhausting, more like,” Sixiang drawled, lounging in midair. “We should have finished this batch hoooours ago.”
+
+“Sixiang,” Ling Qi scolded. The muse seemed to not like Shu Yue very much. Ling Qi had an inkling as to why.
+
+“Do not scold. I take it as a compliment.” Shu Yue let out the unsettling, rasping wheeze that Ling Qi had come to recognize as laughter. “My lessons aside, you have established your foundation well. The work to come is without end.”
+
+“But I now have something to build on. There is no one in the south who does not take me at least somewhat seriously.”
+
+“A boon and a bane.” Shu Yue dipped their head in commiseration. “I have a suggestion.”
+
+“I would like to hear it.”
+
+“Focus. Build this strength, this moment. Take the opportunity to expand your reach, and bolster this high before it fades.”
+
+Ling Qi considered. “I do need to focus my effort if I want to grow. I can maintain this all, but…”
+
+“Advancement is more demanding,” Shu Yue agreed.
+
+Sixiang flopped over onto their belly, chin resting on their hands. “And we should probably focus on the south between Wang or Diao. I feel like the Meng need more time to cook. Let that Meng Diu lady do her work.”
+
+Ling Qi nodded her head in agreement. “The Wang,” she decided.
+
+Taking her leave of Shu Yue, Ling Qi flew back toward the Sect.
+
+As she flew, Sixiang asked, “How many are you thinking of inviting?”
+
+“It will depend on what I see at the summit. I should have a chance to talk to Wang Lian there.” The wind whistled past her ears, and the tips of the highest growing pines swayed with her passing.
+
+“Right. She’s overseeing construction of the infrastructure at the meeting point, ain’t she?”
+
+Ling Qi hummed in agreement. The first part of deepening the connections she had made in the foundations was arranging more face-to-face meetings. She’d pick out a few contacts, the ones offering the most sincere advice on operations, and set up a little meeting and tour, accepting well wishes and showing goodwill.
+
+She could even involve her family in this minor project. Maybe she could meet them at the Sect and then travel here? Let Mother cut her teeth on guests less intimidating than comital scions. Plans and plans. So many things to do, so little time.
+
+But right now, she had another small task to complete before Hanyi arrived back at the Sect from her tour of the southwest Emerald Seas. Thankfully, this task would allow her to treat her time as a little bendable.
+
+“Dreams are useful like that, eh?”
+
+They were.
+
+Ling Qi cut into a dive, soaring down like a bird of prey toward the crumbling shrine on the scruffy cliffside where her dream travels had begun.
+
+She landed without a sound, her gown billowing out in a phantom wind. “Hello, Xuan Shi. I apologize if I was late.”
+
+“This one chose to arrive with the dawn.” Xuan Shi tipped his head toward her. He sat beside the overgrown temple pond, seemingly in contemplation of the waters. “The shell of the Nameless Mother is thin here.”
+
+“It’s not a place for cultivation,” Ling Qi agreed. She moved to stand in the center of the grove where she had installed the dreaming gate. A flick of her wrist replaced the old talisman. “The energy is not right for that, but it is a place of the moon nonetheless.”
+
+“All power does not exist to be consumed,” Xuan Shi allowed, rising to his feet. His staff shimmered into existence.
+
+Ling Qi nodded absently. “Just give me a moment to wake up our last companion.”
+
+Zhengui had made her promise that the next time she went across to the Dream in full, she’d take him with her. He’d been sleeping off a foraging session into the hills near the Saline Grotto when she found him this morning, and she had been kind enough to let him nap a little longer.
+
+There did, however, have to be some consequences for sleepyheads.
+
+With a not so gentle mental shove, Ling Qi pushed Zhengui out of his resting place in her dantian, and he materialized above the placid pond. There was a great splash and a hiss of steam as Zhengui, shrunken to the size of a large dog, hit the water. Twin cries of indignation erupted. Ling Qi stood at the edge of the pond with her arms crossed in satisfaction.
+
+Xuan Shi slowly turned his head toward her.
+
+Ling Qi rolled her eyes. “He asked for five more minutes. I granted that, and even a little extra. It’s not my fault he didn’t spend the time on the trip over rousing himself.”
+
+“Biiiiiiig Sister,” Gui complained, looking up at her as he climbed out. Zhen’s scales flared, boiling away the water. “That was mean!”
+
+“It was pretty funny though.” Ling Qi crouched down to pat his two heads. “And you’re awake now, right?”
+
+He grumbled, but didn’t disagree.
+
+“This Xuan Shi greets you and is glad for your company,” her companion said finally, as if choosing to ignore the whole exchange.
+
+Zhen looked up at him, tongue flicking out in a puff of steam. “I, Zhen, greet the… Carver. Let us both keep Big Sister safe.”
+
+Ling Qi huffed. “I’m not made of glass.”
+
+“But Big Sister does like to run her face into scary things,” Gui said impudently.
+
+She narrowed her eyes at the shrunken tortoise. He stared back with wide, guileless eyes.
+
+Sixiang snickered in her head.
+
+Xuan Shi shot her an unreadable look. “This one will keep that in mind. Now, what measures or rituals must be taken?”
+
+At least someone wasn’t a stick in the mud. She could tell that Xuan Shi was excited by this. That was a proper attitude in her opinion. To delve into the realms of thought and dream was dangerous, but if a cultivator wasn’t going to dip their toes into danger, they were not going to get very far in cultivation.
+
+There was such a thing as being too reckless though. After her experience with Madam Grey, she would be a little more cautious.
+
+“The gate talisman will handle the heavy lifting of the transition, and I will take up the rest. For your part, just focus your mind on who you are. It’s easy to lose track of that on the other side, and I can only help so much,” Ling Qi explained, stepping up to the outside of the ring.
+
+Zhengui trundled up beside her.
+
+Xuan Shi gave a small nod, wearing a thoughtful look on the narrow slice of his face she could see between collar and hat. “Intriguing. Very well. This one is prepared.”
+
+“Then step forward.”
+
+And they did.
+
+The dreamside of the abandoned shrine was a disc of stone and gravel, floating silently in the dim air this time. The frameless door of the gaol sat in the shadowed entrance of the crumbling main building, and the small golden Dreaming Way statue hovered overhead, casting off gentle, shimmering rays of light into the darkness around.
+
+The trees which stretched infinitely above and below remained as they ever were, outlined by the faint golden light that shone from above, crackling with heavenly power. There were fires burning in the trees today though, distant and red like glowing coals in the depths of the fireplace.
+
+“Home, sweet home!” a high girlish voice joined them. Ling Qi had to hide a frown as she glanced over at the figure of Kongyou, the nightmare spirit, leaning upon Xuan Shi’s shoulder. They were slim and pale, their hair a mass of floaty white fluff about their neck and shoulders. Their glimmering black and faceted eyes looked back at her impishly over a grin full of needle sharp teeth. “You really don’t do things by half, do ya, buddy?”
+
+Xuan Shi took a deep breath. “There can be no clarity without experience. This one would like to know thy home.”
+
+“Oh, totally,” Kongyou said, bemused. They turned toward Ling Qi and her spirits, and their smile grew wider, cracks forming in the pliable chitin that served as their skin, exposing far more teeth and rasping surfaces. “Heey guys! Don’t look so mad. We’re all friends here.”
+
+“The best,” Sixiang said dryly. “Behave, yeah?”
+
+“Gui is not mad,” her little brother said calmly.
+
+“You’re not?” Kongyou asked, crouching down. “I tried to trick your sis into melting herself, you know?”
+
+“Gui thinks you should only be mad at people, not things,” Gui replied. “And Bad Supper was not a person then.”
+
+Kongyou blinked. “What?” .
+
+“I, Zhen, think you heard us.”
+
+There was an awkward pause before Kongyou let out a huff of laughter. “Cute kid you got there.”
+
+“The cutest,” Ling Qi said blandly, refusing the bait. She turned to Xuan Shi, who looked exasperated. “So, Xuan Shi, do you know what you are looking to see?”
+
+He tapped the butt of his staff on the ground, sending faint ripples through the stone and soil. The chime of the rings seemed much purer in the Dream. “South toward the mountains where the people of cloud and snow wander.”
+
+“You’re sure?” Ling QI asked.
+
+“This one knows your reasons, friend. And you spoke true. There is more to distant seas than water and currents,” Xuan Shi said placidly. “Sights are better than tales.”
+
+“And we can meet plenty of my cousins thataway. Those mountains are a buffet!” Kongyou clapped their hands excitedly.
+
+“I understand,” Ling Qi acknowledged. Tipping her head, she considered and turned her head to the left. A glittering bridge of ice began to form, extending off into the misty distance. “Let’s walk then.”
+
+She shouldn’t have been surprised. Xuan Shi was quite smart in many ways.
+
+They set out, Sixiang floating above her shoulder, and Kongyou spreading wide white moths wings marked by a pattern of black tear drops. Zhengui trundled along behind them, his footsteps leaving hissing pools of water in the ice.
+
+“I never asked why you were even there that first time,” Ling Qi ventured, glancing up at Kongyou. “Did you have some kind of contract with Bian Ya?”
+
+“Not me, specifically. I was born a few minutes ago at that point,” Kongyou said cheerfully, flying upside down overhead. “Buuuuut, dirty little secret, yeah? Those naughty foxwives. Just cause they took on flesh and chose your world back in the day doesn’t mean we’re not still cousins.”
+
+Ling Qi considered that response, thinking of Su Ling.
+
+“Yeah, I wasn’t just trying to make her mad. Even if she is absolutely delicious.” Kongyou giggled. “That’s a girl that’s gonna march off and die alone, her ideals drowned in blood.”
+
+“Much can be accomplished, even in death,” Xuan Shi rumbled. “Take a step on the road of ideals, and if another steps past thy grave, there is still success.”
+
+“Given the way you keep tryin’ ta explain death to me, that seems like a lie,” Kongyou said dubiously.
+
+“There are lies that need to be believed in,” Ling Qi supported.
+
+Xuan Shi observed, “Not a sentiment one thinks to hear from your lips.”
+
+Ahead, the golden sky twisted and roiled, storm clouds of crimson and black in the sky as the infinitely high trees fell away, replaced with vast mountains of rock that drifted serenely even as ash and fire consumed their slopes.
+
+“I’ve been forced to acknowledge the incompleteness of my understanding of art,” Ling Qi said. “If nothing else, I would like you to accept my apology for dismissing the power of stories before.”
+
+Xuan Shi made a considering noise as thunder cracked overhead, and the rain began to fall, hot and black, full of ashes.
+
+Kongyou sighed dreamily. “Can you hear them sing?”
+
+“I can hear them cry,” Sixiang corrected quietly.
+
+“Gui thinks we should move quickly to where it is cold. There aren’t any good things here.”
+
+“There are not, but this one wonders if one can face the world without seeing its nightmares.”
+
+“Maybe not,” Ling Qi said, “but it does no good to drown in them either. I don’t think it would be good to tarry in this storm. I think I can take us through the storm or maybe under it, but we can’t linger long here.”
+
+“This crewman defers to the captain on matters of navigation,” Xuan Shi said humorlessly.
+
+Ling Qi considered the paths ahead of them. They could go high where mountain stone turned white with snow and great whirling winds cast everything in clear white, blotting out the rising ash and terrible sounds which drifted up on the smoke, but they could also attempt the yawning mineshaft in the mountain’s flank, its supports carved of yellowed bone and its darkness so inky that even her eyes could not penetrate it.
+
+Instinctively, she could feel that the way south was barred. This nightmare was both the gate and key to the lands of ice, and to arrive at their destination, they had to brave either the nightmare of war unending above or the nightmare of final conquest below.

@@ -1,0 +1,129 @@
+---
+id: 2b555027-7e75-5cdc-8407-bdb9be93aef9
+page-type-slug: story-chapter-royal-road
+title: "Threads 113-Intermission 3"
+slug: 0137-threads-113-intermission-3
+partOf: forge-of-destiny
+position: 137
+ownLength: 2052
+unit: words
+publishedAt: 2021-07-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/725139/threads-113-intermission-3"
+royalRoadId: "725139"
+---
+
+Ling Qi held the stencil perfectly still and tried not to think about how close Xuan Shi was standing as he carefully marked down the outlines of characters in ink.
+
+It helped that she still didn’t see it. He hardly looked at her, keeping his gaze fixed on his work, but that was probably just professionalism. But even before they had started with her paying much closer attention, she hadn’t seen any sign that she was being looked at in that way. Were his social arts simply that much superior to hers?
+
+<Ling Qi, your first realm mother noticed,> Sixiang chided. <What do you think?>
+
+Ling Qi kept her thoughts from her face, but she was frustrated. Bao Qian was one thing. She didn’t expect him to be rude, she had a handle on him, and he was here first and foremost for business, even if he was trying to build a personal rapport with her. Senior brothers like Ruan Shen and Liao Zhu were just playfully teasing. There was no actual interest there. In fact, she suspected in Liao Zhu’s case that he was simply helping her build composure in a subtle way.
+
+For the life of her, she could not figure out a similar motivation for Xuan Shi. Relations with Zhengui perhaps, but that didn’t explain being interested in her.
+
+She trusted her mother’s words, and Sixiang’s confirmation made her doubt that her mother was being fooled. She just couldn’t see it.
+
+“This section is complete,” Xuan Shi said calmly, withdrawing in a rustle of cloth. He stepped away quickly, giving her space.
+
+Ling Qi removed the stencil and laid it on the table with the others. Today, they were just marking out the necessary characters to allow for examination and adjustment before the etching and carving began. “Which one is next?” Ling Qi asked.
+
+Xuan Shi carefully examined the wall and the already inked characters. “Plates nine and seventeen.” It seemed that even his flowery speech gave way to simplicity when describing business.
+
+Ling Qi nodded to herself, quickly selecting the stencils he had described. They were made of thin and flexible metal, a qi-inert alloy that she had not heard of before. Moving back to the wall, she glanced down at the items. “Where should I place them?”
+
+“Nine, first. Here,” Xuan Shi replied, tapping his finger on the wall. She placed the stencil, and he eyed it critically. “Left three, down two.”
+
+Ling Qi nodded, shifting the stencil left three centimeters and down two. She was silent as he began to carefully ink in the characters. She tried to pay close attention to the way the blocks of characters aligned with the previously done sections, but it was hard to concentrate.
+
+She needed to figure out a way to talk to him.
+
+The trailing hem of his sleeve brushed her arm. Ling Qi kept herself from flinching. His eyes were still focused on the wall. Ling Qi did the same.
+
+Behind them, the door slid open, and almost in unison, they both twitched violently. The stencil shifted, and Xuan Shi’s brush went off course.
+
+Ling Qi hurriedly turned and found herself staring at the pale and wide-eyed face of one of Mother’s girls. She held a tea tray in her hands, trembling.
+
+It was only then that Ling Qi noticed the mist curling around the floorboards and the distorted shadows dancing in the corners. The light was dim, the air heavy, and a faint ghostly tune mingled with the sound of surf on a stony shore.
+
+They were both on edge. Somehow, that helped her somewhat calm her nerves. With an effort of will, she dispersed her own domain manifestation and put on a smile. “Ah, the tea is ready? Thank you. Just set it on the table. We will serve ourselves.”
+
+“Yes, Lady Ling,” the girl squeaked. To her credit, she managed to look like she wasn’t hurrying as she set things out.
+
+Xuan Shi stood stiffly, still facing the wall.
+
+“Why don’t we take a break for a moment, Sir Xuan?” Ling Qi asked.
+
+“A good suggestion, Miss Ling,” he replied. “Better to avoid fatigue of the mind now than correct errors later.”
+
+Was her discomfort the source of his? She thought she had been hiding it well, but she probably shouldn’t doubt the senses of a ducal scion.
+
+She still didn’t know how to approach this.
+
+In the back of her mind, Sixiang stirred, and memories of a temple stirred, along with the whisper of pages flipping. Ling Qi frowned. Certainly, if he had invited her out then, there had to be some intention at the time, but he had been as surprised and horrified as her at the ending. She was certain that his reaction had been genuine. What would…?
+
+It struck her.
+
+As she poured their tea, the servant having scurried out already, she asked, “What were you expecting to find at the end of our last expedition together?”
+
+She could practically feel him grimacing behind his collar. “Miss Ling, this one can only apologise again for the appearance of…”
+
+“I’m not asking for that,” Ling Qi said, keeping her eyes down as she prepared the tea. “I mean, you did know it was supposed to be something from your books, right? You said something about the events, but you were evasive.”
+
+Xuan Shi was silent as he accepted his tea. “This one will require time to establish context.”
+
+“That’s fine,” Ling Qi replied, chilling her own tea with a thought. She did not have time for fiction, but that wasn’t really the point of this.
+
+Xuan Shi awkwardly undid the clasp of his collar with his good hand in silence. “The hero, Yu Long, is the third son of a third son. Born into a clan of carpenters and woodcutters, no wealth or position awaits him. He is less than his siblings and chided for his lack of skill or interest in the family arts and trades. In this home that does not welcome him, Yu Long dreams of the sea.”
+
+Ling Qi gave a hum of acknowledgement, taking a sip of the dark blend. It wasn’t a particularly sympathetic backstory to her.
+
+Xuan Shi stared down into his teacup. “One duty only he is enthusiastic for is accompanying the clan’s caravan north to the shore where his family’s goods is sold to traders. One day, while there, he encounters a group of ruffians troubling an elderly mendicant and intervenes. He is beaten for his trouble, but the tough’s rage is spent. The beggar is thankful and offers him a trinket, a wooden carving of a ship which fits in his pocket. A charm of good fortune, the beggar assures him. If ever he needs aid, he must simply cast it into the sea.”
+
+Ling Qi still couldn’t say she was particularly hooked, but she didn’t say anything. Xuan Shi’s visible expression told her that he was. However trite the tale seemed to her, it was clearly important to him.
+
+“Yu Long thinks little of the matter. He returns home, drudging away at his tasks. Time passes, and it comes to pass that Yu Long’s father makes a contract with another family, an alliance in trade for one of his sons. It is a beneficial bargain for the family, and a good deal for his layabout son as well,” Xuan Shi continued. “But Yu Long is familiar with his wife-to-be, a greedy and elderly woman of a merchant clan known to never allow her young husbands beyond the walls of her house, and finds the match abhorrent.”
+
+That was significantly less amusing. It also felt bizarre to her. If the genders had been flipped. it would be a horrifying story, but as it was, she had trouble taking it seriously. Could an elderly woman truly imprison a man? She chastised herself. Among cultivators, power was not so limited to the physical.
+
+“Despairing, Yu Long remembers the trinket he received from the beggar. Though he expects nothing, he steals down to the docks and casts the carving into the water.” Xuan Shi hadn’t drunk a drop of tea yet. “From the ripples rises a ship, tall and proud. Yu Long steps aboard and never looks back.”
+
+“And then comes the temple?” Ling Qi asked. Xuan Shi startled but nodded.
+
+“Other adventures come between,” Xuan Shi said. “Yu Long discovers a hidden cultivation art among the ship’s stores, and in his voyage, he clashes with the sorceress Hotene, a hermit from the cold and fog-shrouded northern isles who desires his ship, which he comes to find is an artifact of considerable value, capable of sailing the impassable Maelstrom. The climax is the temple however, and cooperation between the rivals is required to escape its confines.”
+
+“Cooperation that ends with them becoming romantically involved,” Ling Qi said, keeping the accusation out of her voice.
+
+“That is the structure of the character's arc,” he admitted, looking pained. “But the book does not end so. Such events develop over many volumes and adventures, and in each one, the ship fills more and more as new crew is taken on and new bonds forged. It is a story of belonging, of the lonely and outcast acquiring home and love through their own efforts. Whatever the first draft’s intent, that is the theme of the passages this one has committed to memory.”
+
+Ling Qi stared at him. With his hat tilted back and his collar open, Xuan Shi seemed strange to her eyes. The uncharacteristic passion in his voice was even stranger, almost as if he were an entirely different person for a moment. “It seems strange to be so invested in a story,” Ling Qi admitted.
+
+For just a second, shame flitted across Xuan Shi’s features, but it was gone by the time he had lowered his head. “It is so, Miss Ling.”
+
+Ling Qi toyed with a strand of her hair, twisting it between her fingers. “It is… not necessarily a bad thing.” In the end, a story and a song were both similar things, vehicles to carry an artist's meaning to their audience. If this tale had spoken to him so strongly… That was simply down to the writer's skill. “You see yourself in Yu Long then?”
+
+“This one is far more fortunate,” Xuan Shi replied swiftly. Perhaps a little too swiftly. She remembered his words yesterday, about not knowing the faces of his parents.
+
+“I see,” Ling Qi sighed. “Xuan Shi, why are you so willing to spend such time and effort helping me?”
+
+She met his eyes, and this time, it was Xuan Shi who looked away. “Those who spend their days in thy presence are fulfilled. Miss Ling seems to have skill for defeating the isolation of others, and thou art always surrounded by friends and companions. This one… had perhaps hoped to capture some of that for himself.”
+
+Ling Qi felt bewildered. Was that how he really saw her? She wasn’t… She had never been… “So it is not really about me?” Ling Qi asked. It seemed that it really was a misunderstanding, after all.
+
+Xuan Shi’s expression flattened, and for a moment, he seemed to be at odds with himself. “This one is not certain if Miss Ling is mocking him.”
+
+Ling Qi’s face fell. “I am sorry.”
+
+Xuan Shi closed his eyes. “This one would be deeply thankful if Miss Ling could forget the matter. Know that this one has no ill intentions. Miss Ling’s friendship is more than enough.”
+
+“I apologize for delving into uncomfortable topics,” Ling Qi said, bowing her head. She paused, unsure of herself. “Xuan Shi, please understand. It is not you at fault. I am simply not comfortable with such things. I—It may be difficult to understand for you, but my experiences with… romantic attention... are all unpleasant. I would be glad to call you friend.”
+
+“Of course,” Xuan Shi said. Swiftly, he finished his tea and turned back to the wall. “Shall we resume then?”
+
+Ling Qi nodded, heading back to the end table where the stencils had been placed. “Yes. Nine and seventeen, right?”
+
+“Yes,” Xuan Shi agreed.
+
+Even if things were still a little awkward, Ling Qi felt like they had really cleared the air.
+
+Somehow, she still felt exhausted though.

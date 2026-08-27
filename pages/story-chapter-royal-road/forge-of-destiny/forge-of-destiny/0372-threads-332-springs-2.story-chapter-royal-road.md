@@ -1,0 +1,135 @@
+---
+id: e686d646-d9a7-528b-8446-3254dab4a926
+page-type-slug: story-chapter-royal-road
+title: "Threads 332 Springs 2"
+slug: 0372-threads-332-springs-2
+partOf: forge-of-destiny
+position: 372
+ownLength: 1593
+unit: words
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1328708/threads-332-springs-2"
+royalRoadId: "1328708"
+---
+
+“Zhengui,” Ling Qi said, raising her voice just enough over his bickering.
+
+“Yes, Big Sister?” both of his heads replied, united in the moment.
+
+“I assume it is not possible to both heat the earth and to purify the underground water?”
+
+“Um, I don’t think so…”
+
+“To attempt both projects would muddle the flow of qi. Indeed, the current state of the veins is like this, too confused to provide anything more than a minor effect,” the older scholar said. “For the veins to provide a notable effect, the fire qi must be aligned toward mountain or water more strongly.”
+
+“Yeah! Gui think’s this is also because of the Blizzard Grump though. He is being greedy.”
+
+“I, Zhen, think it is because of the lightning leaking in from the south.”
+
+It was probably both. So for now, there was no use trying to be greedy and doing both proposals.
+
+“We must choose based on what is most beneficial in the near term then. Our farms are just getting off the ground, but we already have much more capacity to deal with bad weather than illness. A permanent physician onsite is something we do not have yet,” Ling Qi decided. “Tell me how this is supposed to work.”
+
+Zhen hissed unhappily, but Gui stomped his feet happily, shaking the earth. “Oh! The fire will make the good earth stuff in the water better, and when people drink it, the fire will burn bad spirits that try to make people sick, and the earth will make their bodies stronger!”
+
+She glanced over at the scholar, who responded to the cue. “It is not so potent as to sicken a mortal. We have tested this. Only at this site itself is the qi so concentrated.”
+
+“Sister, we should not interfere with the water too much,” Zhen complained. “This is Snowblossom’s place.”
+
+“Does the spirit in the lake connect to the underground waters?” Ling Qi asked. “Maybe it does in the cliff where the falling waters have worn passage, but I do not think it is connected to the valley aquifers.”
+
+Zhen’s head tilted back and forth until at last, he huffed. “I do not know. I, Zhen, assumed. If the spirits of fire and earth are mine, should the water not be theirs?”
+
+Ling Qi pursed her lips. “I’ll have a conversation with the lake about that. It seems like an issue that should be discussed.”
+
+She had no idea how that would go, but she wasn’t going to do it right now, if only because she was pretty sure Xia Lin would spontaneously develop multipresence in the third realm in order to strangle her if she went and conducted such a spontaneous negotiation with the summit nearly underway. Renxiang would probably help her too.
+
+“Fine. Zhen will trust Big Sister,” the serpent hissed, lowering his ash-scaled head.
+
+Beneath, Gui remembered his manners well enough not to speak, but she could practically feel his smugness at winning the argument.
+
+She reached out and rubbed Zhen’s head between the eye ridges. “Very well. That’s decided. All of you, please compile a list of any materials you need to complete your work. I will present it to Lady Cai. I am going to walk with my little brother for now. Have it ready when I return.”
+
+She was sounding a little imperious there, wasn’t she? Well, the scholars seemed reassured by it, if anything, going by the bows and murmurs. Some people found comfort in structure and clear orders.
+
+Letting her hand fall of Zhen’s head, she turned from the now huddling scholars. Zhengui trundled after her, his heavy footfalls beating a cheerful cadence on the rock of the cliff.
+
+They ascended the hill further and Ling Qi admired the shimmering pools that lined the slope below, and she watched the geyser erupt again, crackling with power. “You’ve done a good job, Zhengui. Do you like this place?”
+
+“Mm, Gui thinks this is a good place! There are many sleepy things here that do not remember humans or how to speak to little ones.”
+
+“Hmph. There are many big things, but I, Zhen, will grow bigger still. This is a good place. Zhen can breathe here.”
+
+She let out a breath. “I’m glad. This spot in particular will probably be Renxiang’s, but I think I like the land.”
+
+“Gui and Zhen will be king of the land so what spots Big Sister and her boss put human things is up to them,” Gui declared.
+
+“I, Zhen, know Big Sister will not break anything.”
+
+“I admit, I am a little worried about the summit. While it’s on, it’s only going to be Lao Keung here at Snowblossom taking care of things in our absence,” Ling Qi said, frowning. The Argent Peak Sect’s army would be nearby so they should still be protected from serious incursion, but…
+
+Her little brother’s heads looked at one another. “Big Sister. Gui thinks that we should stay here.”
+
+She blinked in shock.
+
+“I, Zhen, do not have any important things to say to people from far away, and there are many big people there already,” Zhen said, lowering his head.
+
+“Gui thinks that he can protect Big Sister better here. Grandmother and little sister are still under the eyes of the big dragon king. Sisters’ people here only have Mr. Hugs and Zhengui.”
+
+“Mr. Hugs?” Ling Qi asked.
+
+“Mhm, the red snake man. His arms are very strong, Gui bets he could break lots of things in them,” her little brother said guilelessly.
+
+She looked back into his innocent eyes. Why did it feel like he was leaving something out?
+
+“Are you sure? I don’t want to leave you just because you don’t think you’ll be useful.”
+
+“I, Zhen, am sure. There are many things to do here, and very few things there.”
+
+Ling Qi could tell he was reluctant. He still didn’t like being away from her. But she thought that wasn’t it entirely. He did also like it here. “You’re still coming with me when I visit mother.”
+
+“Yes! Gui wants to see grandmother and little sister and the others.”
+
+“And then I, Zhen, will keep this place safe while sister does all of the big talking,” his other half agreed.
+
+“Well, I’ll trust you with that.” Ling Qi hummed. “And when I’m done with the summit, we’ll need to find a place to build a garden here, huh?”
+
+“Yes! Gui has ideas already, but there are still places to see!”
+
+Ling Qi nodded. “Oh, yes, Xuan Shi also gave me a gift for you. He said they were formation diagrams for your project…?”
+
+“Oh! It is done! It’s done!” Zhengui exclaimed, his voices in perfect sync. “I’ll need to get Mister Scholar to unroll and hold them for me!”
+
+“That’s the one who has been writing your letters?” Ling Qi asked, amused.
+
+“That’s right. Mister Scholar is very nervous and fidgety, but he is nice. Gui is glad he made another friend!”
+
+“Foolish Gui is too generous,” Zhen grumbled. “But it is good to have someone who can do hand things. Now, Big Sister, please let us see!”
+
+Ling Qi chuckled and drew the scroll case out of storage.
+
+***​
+
+“Was your time here productive?” Cai Renxiang asked.
+
+“I think so. I’m confident Zhengui and the scholars have the earth veins project in hand. Just remind the builders to consult them when digging new wells.”
+
+Cai Renxiang’s brush swept across the page in front of her, rapidly tracing perfect court characters. “Noted. Protection from illness is a good boon to begin a settlement on.”
+
+“Indeed. Such a foe may not be fought by normal means, yet is just as deadly as any beast,” Gan Guangli said. He sat a short way down from her, the little camp chair groaning under his armored bulk. “On my end, I must say the farms are coming along well. The new settlers are adjusting their dwellings and farms to their liking.”
+
+“That is good. The largest draws of new settlements are always the offers of land given that there are ever more children than inheritance among mortals,” Cai Renxiang said. “Things are coming along well then.”
+
+“They are,” Ling Qi said. “So, what next? People are coming in, and I’ve received notice that the Luo are ready to transport beasts if we want them.”
+
+“I am not so certain we have enough people for that yet,” Gan Guangli cautioned. “And it would spread us out further.”
+
+“I believe we need to decide where the settlement’s manor will be, even if we do not yet begin the project. It is impossible to plan long term without knowing this,” Cai Renxiang said.
+
+Gan Guangli drummed his fingers on the tabletop. “Against the cliff near where the waters fall? Even cloud nomads may not easily shoot through so much rock.”
+
+“I like the idea, but the mist might make the atmosphere uncomfortable for mortal citizens,” Ling Qi said. “I could maybe make it less onerous on them. But perhaps out where the river leaves the lake would be a better location for our administration center.”
+
+“It would leave easier room for expansion later at the cost of defense,” Cai Renxiang allowed. “Of course, this place where we currently are has value as well. The settlement is likely to grow from several places along the lakeside. A central location may improve administration efficiency.”
+
+“True!” Gan Guanli said before returning the discussion to its original topic. “Still, speculation for now. We must decide what settlement projects to focus on next.”

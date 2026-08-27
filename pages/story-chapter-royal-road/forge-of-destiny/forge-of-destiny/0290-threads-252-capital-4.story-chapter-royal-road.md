@@ -1,0 +1,191 @@
+---
+id: 18ad2efd-6306-5c1a-8b98-98fe2b3f1d62
+page-type-slug: story-chapter-royal-road
+title: "Threads 252-Capital 4"
+slug: 0290-threads-252-capital-4
+partOf: forge-of-destiny
+position: 290
+ownLength: 2583
+unit: words
+publishedAt: 2022-10-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1008016/threads-252-capital-4"
+royalRoadId: "1008016"
+---
+
+Ling Qi sucked in a breath. “It’s a wonder that it's still here.”
+
+“The ones who ascend can’t disappear so quickly, especially not right where they ascended.” Sixiang circled her like smoke as if at any moment that hidden light could lance out and destroy her.
+
+When a cultivator reached the peak of the eighth and final realm and then ascended yet again, they ceased to exist in the mortal world, writing the Law they had built in their lives into the fabric of the world. The Palace of One was one such Law. It had once been the first Matriarch of the Hui clan after all, who had overseen their rise to the ducal palace.
+
+It was the last thing that remained of them. It remained when all else was gone. It did not even seem so terrible as an ideal. Where had things gone so wrong?
+
+Ling Qi shook her head and reached out, taking hold of Sixiang’s hand. “Come on.”
+
+“Where are we going? I’d have thought you’d want to poke around more,” they said, letting themselves be pulled along as Ling Qi drifted away from the central vortex.
+
+“Maybe later. I don’t think it’s a good idea to always focus on big issues.”
+
+“Who are you, and what’d you do with my Ling Qi?” Sixiang demanded with a laugh.
+
+Ling Qi rolled her eyes, and they came to the shore of a dense isle of iridescent bubbles on which to stand, drifting in the wider current. “Oh, haha. I do listen to you sometimes.”
+
+“I can’t really say that’s a great idea,” Sixiang riposted before crouching beside her, looking into the curve of a large bubble poking through the packed surface. A balding old man in a workshop was surrounded by half-painted images and landscapes, already muttering to himself as he started anew on a blank canvas.
+
+“I’d say it's a coinflip,” Ling Qi jabbed back.
+
+“Aw, you’re sweet.”
+
+They walked, or rather, floated for a time, drifting along this island made of a thousand, thousand dreams from artists and crafters, both failed and successful. There were more of the former than the latter, and it was both inspiring and dispiriting to see so many people trying and failing again and again.
+
+She really was lucky.
+
+“You shouldn’t pity them. That’s rude,” Sixiang reprimanded. “When people pour their soul into art, even if nobody else notices or cares, there’s some worth just in having the opportunity to do it.”
+
+“I suppose,” Ling Qi said as they drifted away from the first isle. “Just having the opportunity is amazing. We don’t get to dream of accomplishing something great or making something beautiful when we’re  scrambling to survive.”
+
+“And just look at ‘em all, reaching for something new,” Sixiang said, looking off into the distance. “Maybe there’s a million who’ll never make their names known, but hey, there might be one that changes the world.”
+
+Abundance bred creation and innovation. Those left in want might be clever in their own way by striving for survival, but in the end, they could only do the same activities day after day because hunger was never far away. Xiangmen was a place so rich, so abundant, that there could be this many people, this many dreams, all at once, all aching to make themselves real.
+
+Ling Qi thought back to her journey with the moon spirits and the avatar of the Grinning Moon, so impressed with just the existence of the crowds of Tonghou. Even that was an improvement over people scrabbling desperately under the cruel hungers of bloated beasts.
+
+But she still thought Renxiang was right. This state of affairs wasn’t good enough. The rot remained, seeping up from old wounds and new wounds alike.
+
+She followed after Sixiang, the muse darting among the eddies and islands where the bubbles gathered. Together, they watched plays yet unwritten, comedies and tragedies and dramas, life wrought loud on the stage. They listened to poets and singers, masterful and not. They glimpsed new designs in the minds of crafters, of formation craft which might relieve hard labor, refine an art, assist a worker, or replace him whole. They saw in the art of Xiangmen a city still coming to terms with vanished chains, unsure and young, cynical and old all in one.
+
+It was a bubbling cauldron of creation, and Ling Qi wondered if any could know what would emerge from it in the end.
+
+“That’s the wrong way to think of it. Sixiang observed the vortex from the side of the drifting isle they had landed upon. “You think too much about endings, and sure, nothing lasts forever, but until this old tree withers at the end of the world, the dreams won’t stop.”
+
+“I only hope the ugly ones don’t come to dominate. I don’t much like nightmares.”
+
+“You and me both,” Sixiang agreed, sliding an arm around her shoulder. “They’re dull. Drab all the way through.”
+
+Ling Qi laughed under her breath and simply relaxed. The auction would begin tomorrow, and they would have to turn in soon. She would seek the Dreaming Moon’s revel tomorrow night, but for now, this was fine.
+
+***
+
+Xia Lin’s dress was very pretty, but unfortunately, she wore it with the same air as a cat stuffed into a costume. Ling Qi felt for the other girl, and she was very glad that her own gown was also her armor.
+
+“It’s good to see you again,” Ling Qi said, walking with her from the entrance of the auction house’s yard.
+
+The Golden Orchid was a sprawling building some three stories tall, filling a whole block in the trunkward part of the city. It was surrounded by a beautiful garden, and the front of the building was taken up by a roofed porch that was otherwise open to the air, leaving a comfortable space for guests to wait and talk before the actual auction took place. Behind the ostentatious central building were the warehouses for the goods that would be auctioned, guarded by potent security formations that Ling Qi could sense from the front.
+
+Although, the ones she could sense so clearly were probably there to distract and show off with other, more subtle defenses beneath. It was what she would do.
+
+“Yes, I do not think Xiangmen agrees with me,” Xia Lin said, looking harried.
+
+“It’s a little overwhelming, but I thought you would be more used to it.” Ling Qi glanced at Xia Lin. “Don’t the White Plumes train here?”
+
+“Our training camp and prime staging facilities lie in the outer boroughs, not the city proper. Everything is too packed and chaotic inside,” Xia Lin explained, smoothing the trailing white and gold sleeves of her dress for the seventh time since Ling Qi had met her at the gate.
+
+<If this girl got to unwind, would she leap into the air like an unmoored spring?> Sixiang wondered.
+
+“There’s something to be said for spontaneity. I’ve enjoyed touring the city. Maybe I could show you a few places after the auction?” Ling Qi offered.
+
+Xia Lin frowned uncertainly as they mounted the steps of the porch, giving her an odd, measuring look. “If you like, Lady Ling.”
+
+“Ling Qi, please. I think we’re past that.”
+
+“I suppose that kind of distance is inappropriate after smiting a corpse immortal together,” Xia Lin agreed, turning an assessing gaze over the other guests. She looked like she was assessing danger in the wilderness instead of measuring a gala full of civilians.
+
+“It is,” Ling Qi said, nodding wisely as they moved through the loose crowd of attendees. Since they were the sellers for the day’s first lot of auction items, they had been invited to review the items and observe the auction from a raised box for the duration. The man at the door bowed and let them pass.
+
+“Are you intending to participate in the other auctions of the day?” Xia Lin asked.
+
+“I may. Though I’m not certain what I would be looking for.”
+
+“I am similar. I have little need for externally supplied equipment. ... But I suppose if I am accompanying you and Lady Cai after this, I will need some kind of household.”
+
+“Well, I hope the White Plumes will let you stay in their barracks a while longer. It will be some time before there’s anything but temporary construction. Still, it will be good to have you with us. There are quite a few dangerous places in the land that Lady Cai has claimed.”
+
+“Oh? Tell me more,” Xia Lin said, turning a curious eye to her.
+
+They spent some time chatting about the discoveries made during their surveys of their claimed land as they entered the back area of the auction house, guided by guards and attendants to make a final review of their lot. While Ling Qi trusted the appraisers Cai Renxiang had hired about the starting prices, it made her feel better to see that everything she had cataloged with Meng Dan was still there.
+
+With the inspection complete, they were free to rejoin the other attendees now trickling in.
+
+“You’ve been here longer. What can you tell me about who is planning to attend?” Ling Qi asked as they exited the storage areas, strolling along the richly paneled hall.
+
+Xia Lin raised an eyebrow. “Why would you ask me about such things?”
+
+“Because you won’t go into a battlefield without reconnaissance.”
+
+Xia Lin wrinkled her nose irritably. “This is not my favored terrain.”
+
+“I’m sure you didn’t let that stop you.”
+
+“... The court clans of Xiangmen are out in force. I have been dodging luncheons and other fripperies since I arrived,” Xia Lin finally said, looking sour. “But the remaining ones have been fighting for importance since the Duchess reorganized Xiangmen.”
+
+“What exactly do the court clans do, and how do they work?” Ling Qi asked. “I’ve not found the time to ask Lady Cai, and I feel like this is another of those facts that everyone is simply expected to know and forgets that a common girl from a little city does not.”
+
+Xia Lin shot her a curious look. “Lately, little enough. Court clans occur mostly in Xiangmen, the Imperial City, and the Celestial Peaks as a whole, and to some degree, in the Alabaster Sands where there is enough wealth in cities to support a clan even if they own little land and the ruling ducal clan is not numerous enough to fill those roles themselves.”
+
+“I understand that part well enough. But what do they do?”
+
+Xia Lin pursed her lips. “Mercantile and bureaucratic work mostly. They staff the ministries and move goods and such. In Xiangmen, it used to be that each provincial ministry and organizations such as the Xiangmen guard were the fiefdoms of individual clans in function. The Duchess eliminated this practice, and now, those that remain jockey for new ways of making wealth.”
+
+Ling Qi gave a sidelong look to Xia Lin. “Eliminated?”
+
+“The Dai, who once made up over seventy percent of Xiangmen’s guard officers, no longer exist as a legal entity, though the few adults found innocent of any crimes were absorbed into other clans or positions. There is a Dai among the White Plumes,” Xia Lin elaborated. “Three other clans suffered the same. Several others were badly mauled but remain extant, albeit stripped of their special privileges. Those who remain are… a strange mix of caution and ambition.”
+
+Ling Qi’d have to look into these clans more closely on her own at some point. “Where would you place the court clans against more normal clans in influence?”
+
+Xia Lin considered that carefully as they approached the end of the hall. “Comparable to viscounts for the most part. It is hard to say. Their methods and bases of power are too different.
+
+Passing through the doorway, they entered the waiting room together where the attendees were beginning to gather. “Enough of that for now. Other important attendees?” Ling Qi asked, activating her own screening techniques to keep their conversation private.
+
+“As you would expect, the Meng and Luo are the most interested. The Bao have a representative, as do the Diao. Neither the Wang nor the Jia have any open attendees,” Xia Lin answered quietly, scanning the room alertly.
+
+“I do have my own channels for meeting the Meng,” Ling Qi said thoughtfully.
+
+“Yes, Meng Dan does seem fond of you,” Xia Lin agreed.
+
+“I’ve had some success negotiating with his grandmother too. I don’t feel that position needs to be shored up.” While she didn’t have any great rapport with the Meng clan as a whole, she had her foothold, and she didn’t think she could expand that further here at the auction. “I do have some contact with the Luo, but it's much more neutral.”
+
+“It may not be a poor idea to establish more contacts in the capital,” Xia Lin suggested. “A great deal happens in Xiangmen, and I know the Duchess is loath to give Lady Cai unearned resources.”
+
+Not a bad idea. The nascent network she was working on did have contacts in Xiangmen… Sixiang?
+
+<There’s a lady from one of the court clans on your mailing list. I think I saw her name in the sign-in book too. You want me to look for her?>
+
+Ling Qi nodded. Glancing to Xia Lin, she smiled apologetically. “Sorry. Agreeing with something my spirit said.”
+
+“I noticed the signs. Sadly, this is even less of my halberd’s venue than it is mine.”
+
+“Anyway, any out-of-province guests of note that you’ve noticed?”
+
+“A number of nobles from the southern Celestial Peaks are present, and the Luo are hosting some Golden Fields emissaries,” Xia Lin reported crisply. “I believe there is a diplomat from the Western Territories as well, and I heard a rumor about a Zheng wandering around the district.”
+
+“Really?”
+
+“It’s only a rumor.” Xia Lin shrugged uncomfortably, looking back at her expectantly.
+
+Ling Qi blinked slowly as she came to realize that Xia Lin was looking to her for marching orders. In this pairing, she was the more expert at social business.
+
+Stop laughing, Sixiang, she thought sourly.
+
+“Let’s keep a focus on the local field,” said Ling Qi, and Xia Lin nodded crisply.
+
+“Your plan for engagement?”
+
+“I’ve been writing to a few individuals recently. One of them is here. Her name is—”
+
+<Mei Lanfen. She’s a senior administrator for a major school in the trunk districts,> Sixiang helpfully supplied.
+
+“—Mei Lanfen,” Ling Qi finished.
+
+“The Mei,” mused Xia Lin. “I’m not familiar. A minor family?”
+
+Ling Qi nodded smartly, as if she were not being briefed on the family right now with a rapid-fire stream of thought from Sixiang. She turned toward the room proper, scanning the clumps of people for the right set of colors and symbols. Xia Lin followed after her, weaving deeper into the gathering audience of the auction.
+
+“We’ve only just begun to talk. I understand she is the senior administrator at a civil service school in the trunk,” relayed Ling Qi. She didn’t know how other people managed without such a helpful spirit as Sixiang.
+
+<Aw, you’re making me blush.>
+
+“Ah, I recall hearing some news of those,” Xia Lin remembered. “They began to pop up along with the changes made to exam requirements. Clerks need to come from somewhere, I suppose.”
+
+“I guess so,” Ling Qi agreed.
+
+<Five meters and sixty-five degrees left. The granny in blue.>

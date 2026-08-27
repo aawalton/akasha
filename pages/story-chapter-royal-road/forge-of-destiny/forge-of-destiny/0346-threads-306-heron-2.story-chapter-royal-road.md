@@ -1,0 +1,169 @@
+---
+id: 9d75f82e-7c46-536c-9729-7637752e4678
+page-type-slug: story-chapter-royal-road
+title: "Threads 306 Heron 2"
+slug: 0346-threads-306-heron-2
+partOf: forge-of-destiny
+position: 346
+ownLength: 2488
+unit: words
+publishedAt: 2023-05-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1214476/threads-306-heron-2"
+royalRoadId: "1214476"
+---
+
+“I received your paper messenger,” Xia Lin said to her, walking beside her with her arms behind her back.
+
+“Good. Then I don’t have to spend time explaining.”
+
+They walked along the sun-dappled path of a freshly laid Wang road, leaving behind the stables and receiving area at the opening of the valley. She suspected that the slightly winding nature of it swaying around hillocks and old growth was an influence of the Meng and Luo delegations.
+
+“Do you think your presence will help?”
+
+Xia Lin considered her question, the faint clank of her armored boots on stone joining the sound of birds and construction as they walked. “In the capacity as a second voice whose judgment the General is more inclined to trust. In this, I may help you.”
+
+“And do you believe what was laid out in the message, Xia Lin?”
+
+She’d written her intended arguments and her reasoning for Xia Lin to consider. She watched the other girl out of the corner of her eye.
+
+After a long moment, Xia Ling responded, “I believe they are your sincere assessments. I think a number of points are too optimistic, but I trust in your and Lady Cai’s overall vision.”
+
+“Which points are those?”
+
+“I do not believe that much trade will be achieved in a meaningful time frame. A ceasefire and a chance for consolidation and growth, this is good and likely. Peace will last until the cloud tribes are absorbed or slain and our borders meet. Perhaps we may even see proxy conflict, wielding our vassal tribes against each other in the nearer future. The pretext of cultural kinship is too thin to achieve more than that.”
+
+Ling Qi arched an eyebrow. “You talk about a meaningful time frame and then say something like that. Even if you believe it is a thin pretext, a story told well and often enough has its ways of becoming true.”
+
+“Hm, the first is true. My own bias is clear. But the second is dangerous.”
+
+“It is dangerous in the way a sword is dangerous,” Ling Qi rejoined. “It is the wielder who decides where the harm goes.”
+
+“Yes,” Xia Lin said thoughtfully. “Art and history are weapons as well. There were those who had honed them to the finest edge.”
+
+Ling Qi dipped her head in acknowledgement.
+
+“But one does not discard a weapon just because an enemy uses them. There would be many unhappy imperial bowmen if we did. I trust that Lady Cai understands what she is wielding through you. That is my opinion. You asked for it.”
+
+“I did. Can you sincerely vouch for me with the general?”
+
+Xia Ling nodded crisply. “Yes. You have significantly better judgment for interpersonal conflict than I.”
+
+“I will accept that compliment. If I may ask, how would you describe what drives and motivates the general? What lies at her heart?”
+
+Xia Lin furrowed her brow. “The people of the Emerald Seas. Only the people of the Emerald Seas.”
+
+Ling Qi tilted her head.
+
+Xia Lin glanced at her. “The Daigiyya are a tribe, isolated, dying, and irrelevant. The Xia’s members are connected, thriving, and respected.“
+
+As they made their way to the meeting site, Ling Qi considered the careful use of the group for one and the individual for the other.
+
+They found the general waiting for them on the ground floor of the central embassy building. She stood at attention behind the large chair-lined table set in the meeting room, facing the wall. She appeared, superficially at least, to be examining a wall hanging depicting the Siege of Hui-controlled Xiangmen. Ling Qi hardly needed her more than mortal senses to know the woman’s attention was focused on them well before they reached the room. This was a simulacrum, she believed, but the Heron General’s presence was not much less for it.
+
+Xia Ren was bald, her dusky skin marked here and there by scars and faded tattoos. Her features were harsh and stony. Ling Qi wondered what it meant, that she still wore the ghosts of those tattoos, even though as a sovereign, it would be trivial to erase them entirely.
+
+The general turned on her heel as they entered. “Baroness Ling, Sergeant Xia, I have heard your lady’s request.”
+
+It occurred to Ling Qi she had never seen the general at ease. The closest she had ever come to even sitting in Ling Qi’s presence was when she had been mounted on her arrival at the Sect.
+
+“We have, Honored General.” Ling Qi clasped her hands and lowering her head. “Thank you for agreeing to hear us.”
+
+“It behooves me to understand your thinking in this,” the general said shortly. “You are injured. There is something rotten in your channels.”
+
+“I underwent tribulation recently. Although I feel I succeeded, there was a cost. It will take time to cleanse.”
+
+Ling Qi shuddered as she felt the woman’s steel gray eyes on her, sharp and flensing.
+
+“Digging through old trash.”
+
+Ling Qi raised her head. “In my experience, people often discard useful things.”
+
+The general regarded her for a long moment. “This can be true. Sometimes, refuse may make useful fuel or raw material.”
+
+Ling Qi held her gaze, picking over those words. “One must use the tools they have in building forward.”
+
+“One should not forget the full suite of tools they now have at their hands, merely because they are used to scavenging. This is a common failing among those who rise from disadvantage.” The general clicked her tongue. “Enough fencing.”
+
+“As you like. May I ask your opinion on the meeting coming up?”
+
+“That these foreigners already make demands shows they lack understanding of their position. They try to puff themselves up. That creature outside, the tree, would not be able to withstand me, should matters devolve. Perhaps it might be able to hold me while they fled. Regardless, I do not disapprove of the sharing of information regarding the construction work. The information proposed there is simple and public to the extent that it could be obtained easily by any spy. A low value trinket for negotiations.”
+
+“It may be necessary to show some degree of our planning and geomantic layouts as well,” Ling Qi said. “Simply to avoid interference.”
+
+“Lady Wang will be here to speak of this. I trust her understanding. No, my concern is the military matters. Sharing schedules and routes is acceptable. It is near impossible to conceal. Patrolling together, synchronizing, or sharing any degree of our capabilities is much less so. You will explain your reasoning on this.”
+
+The general was blunt, clipped, and matter of fact.
+
+Ling Qi began, “Very well. Let me say first that I believe that success here will greatly improve the prosperity of the Emerald Seas.”
+
+“Allowing one enemy to be faced at a time. I understand, and to a degree, I approve of this. These ith creatures must be our next target. They must be exterminated or subjugated with Her Grace’s method. Such attacks as what you foiled are unacceptable.”
+
+Ling Qi didn’t react, but she was surprised. Could it be that she had earned some sliver of approval from the general with her actions?
+
+“Yes. And I do believe that these peoples are genuinely unlike the barbarians at our borders. Like us, they are settled, civilized, and as we see, capable of peace.”
+
+“That is to be seen.”
+
+Ling Qi nodded, knowing that it was going to be the best that she could get at this juncture. “To that end, I truly believe that it would be best to consider this summit something distantly akin to negotiations between provinces. There must be a degree of trust in this. As you say, sharing schedules and routes officially is merely being polite. Either of us could learn them with some effort. But politeness is valuable.”
+
+The general waved her on.
+
+“So, too, the other options I thought to offer. It enables a degree of trust and flexibility in later negotiations. If we appear reasonable, more can be agreed to. And truly, I do not think we are giving up terribly much, even with the most extreme offer.”
+
+“And your thoughts on this, sergeant? I assume you agree given your presence.”
+
+“I have studied the proposals and think they should all be considered. I do agree with the baroness that something more than the bare minimum would be superior.”
+
+“I see. Know this then, I do not agree. Sharing our routes and schedules is sufficient to quell complaints. Allowing our soldiers to mingle will reduce effectiveness in the case of conflict. Arranging a shared schedule or accepting limitations on our routes leaves unacceptable gaps in our defenses. Sharing actual capabilities is dangerous, even if most is kept back. I disapprove entirely of going further than what you call the minimum.”
+
+Ling Qi took a deep breath. She’d known it would be like this. She glanced at Xia Lin, who inclined her head a little.
+
+The general was watching her, arms crossed, but her silence and continued presence indicated that she was open to arguments.
+
+There were times for gambles, times to push for the absolute maximum. But with Xia Lin, Ling Qi had decided that this was not one of those times. The general was too big an obstacle, and the need to be able to bring something, anything, to the White Sky to show that they could be budged was too great. Now was the time to snatch what she could, and plot for the bigger haul later.
+
+“It’s true that I may have allowed my imagination to run a little too far forward,” Ling Qi conceded. “Some of my initial thoughts were not as well considered as they could be. In speaking with my lady and Xia Lin, I was able to improve on my vision and refine it further. So I will not be asking that you consider the sharing of capabilities or the alteration of routes at this time. These are moving too far, too fast before trust is proven.”
+
+Xia Lin took her cue here, stepping up and raising her fist to her chest in salute. “But, General, I do find the proposal of joint patrols to have merit. You point out that this may affect the efficacy of our soldiers, but if so, this effect is mutual. Nor do I imagine the soldiers of the Emerald Seas being so lax in the case of a true emergency. It is a small request, and if their soldiers prove to be able to earn comradery from our men, does that not bode well in this summit? And if they are too uncivilized, it will be good to be warned beforehand and adjust our expectations appropriately.”
+
+Ling Qi added, “I believe that in the short term at least, these foreigners are capable of civilized cooperation. More than anything else, securing our southern border and squeezing out the hostile cloud tribes, for those who can be called to account at a fixed location for any grievances, is the best future I can see for the people of the south. There is no ability in us to fully settle the Wall. Attempting to keep it clear would drain us terribly and leave the interior unguarded from bandits and beasts alike.”
+
+Xia Ren considered them both, eyes piercing. Ling Qi kept her eyes respectfully low, but she did not bow or turn her face away.
+
+“That can be debated. It is true under present material conditions, but the future of the Emerald Seas will see further claims and further settlement,” Xia Ren replied. “I agree that those are long term considerations, long even for those such as I. It is also true that my White Plumes will not be awfully affected. It is the household troops of the clans here whose discipline I question.”
+
+“I understand,” Ling Qi said. “However, in the case of this devolving, I am confident in our ability. And as you have said, you are more than a match for their own high realm, no?”
+
+“I do not care to take chances with the lives of those I command when unnecessary, but I take your point. You see this grouping as a scouting force then.”
+
+“Victory cannot come without risk,” Ling Qi said.
+
+Xia Ren grunted, examining her. It was deeply uncomfortable, like knives under her skin, searing hot. “Sergeant Xia.”
+
+“Ma’am,” Xia Lin said, somehow managing to straighten up even more.
+
+“These foreigners, how do you rate their discipline?”
+
+“Those encountered at their forward base were roughly equivalent to the border guard orders of a well organized clan. I encountered individuals who were more on the level of household guards as well,” Xia Lin replied immediately.
+
+“Time enough for Wang and Jia to complete their great works,” Xia Ren said thoughtfully, more to herself than them. “Strategic goals are not often glorious or clean. I will allow discussion of this, joint patrols, perhaps some minor adjustment to schedule, so long as no gaps in coverage are created. I believe further details will require all participants to be available.”
+
+Ling Qi bowed low at the waist clasping her hands respectfully. “Thank you very much, General Xia.”
+
+The general turned away and gave a gesture of dismissal. “Continue your preparations. Be efficient with our time.”
+
+Ling Qi rose, bobbed her head in a second bow, and gestured for Xia Lin to follow.
+
+Outside of the building, Ling Qi’s shoulders slumped.
+
+“You truly caught my aunt in a permissive mood, or at least you are better at choosing resonating words than I had imagined.” Xia Lin’s eyebrows were raised. She looked impressed.
+
+“Thank you for helping me work out the script for that. I don’t think it would have worked if you sounded like you were repeating my words, nor would my own have been as effective without your insights.” Ling Qi reached up, wiping away a bit of sweat that had beaded on her brow. The general’s attention was not like the duchess’, but it still made her feel like prey. Like a thief being interrogated by a guard.
+
+And there was still the actual meeting ahead.
+
+“For what it is worth, I believe she will negotiate in…” Xia Lin searched for the right word. “... good faith within the boundaries of what she stated, so this small council should have a proper chance to achieve your objective.”
+
+“I’m glad.” Ling Qi wanted to hope that the hard part was done, but she knew better than to say such a foolish thought aloud. “Come along. I want to talk to you about the other people that will be attending.There’s Wang Lian, of course, and Jin Tae, representing the ministry half of our security. The White sky has also sent ahead and told me who they would be sending.”
+
+Xia Lin gave a sharp nod and followed her down the path.

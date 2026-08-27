@@ -1,0 +1,155 @@
+---
+id: 535ac199-4c85-53b6-93d3-a6c79e6741ff
+page-type-slug: story-chapter-royal-road
+title: "13 - Hey Celica... What's a Noob?"
+slug: 0013-13-hey-celica-what-s-a-noob
+partOf: gamer-girl-evolution
+position: 13
+ownLength: 1678
+unit: words
+ownProgress: 1678
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2643646/13-hey-celica-whats-a-noob"
+royalRoadId: "2643646"
+markedReadAt: "2026-06-29T20:06:00.242Z"
+---
+
+The house was quiet. Celica eyed the drawn curtains and carefully observed the serene front yard.
+
+“She’s probably out or something,” she murmured, turning toward Milia. “We should... come back later.” Milia didn’t answer. Her gaze was fixated on the front door.
+
+Then came the faint creak of hinges as a gate shifted open.
+
+“Ingrid!” Milia cried. She bolted forward, nearly stumbling over her own shoes before crashing into the brown-haired woman who stepped into view.
+
+“Milia?” Ingrid gasped, but her arms came up instinctively, holding the smaller girl close.
+
+“I thought I lost you,” Milia said, burying her face into Ingrid’s chest.
+
+“I came back earlier,” Ingrid explained, as she smoothed a hand down Milia’s back. “But you weren’t home, so I went out to look for you. I checked places like the gaming lounge, and your friends' houses. I came to stop by and check the house again before I visited Celica's place, and thankfully it was the right choice.”
+
+Milia sniffled and tightened her hold. Celica hung back by the path, watching them with a small, unguarded smile. Ingrid’s complexion struck her most of all. Her eyes were bright, and her cheeks were rosy. She wasn't the frail girl coughing in a white hospital bed.
+
+For a moment Celica let herself bask in the relief. Then the vow formed, sharp and unshakable: when the illness finally arrived, she’d find the cure. No matter what it cost, she wouldn’t let Ingrid pass away like that again.
+
+Ingrid started moving towards the door. “Come on, let’s all go sit inside. It's been a long week and I'm sure we all have a lot to talk about.”
+
+Once they settled inside, Milia recounted the experience of her last seven days. Waking up to an empty house, realising her friends were gone, wandering streets that felt too quiet. She described the loneliness, and how she kept coming back to Celica’s apartment.
+
+Ingrid listened in silence, her hand never leaving Milia’s. When Milia finished, Ingrid’s eyes softened with sorrow.
+
+“That must’ve been horrifying,” she said gently. “I’m so sorry things turned out that way… you should never have had to go through that alone.” Milia leaned against her, trembling but comforted.
+
+"On my end, things haven't been easy either," Ingrid leaned back in her chair. “Honestly, it was… overwhelming.” A faint smile tugged at her lips as though she were laughing at her own clumsiness. “The world felt too real. I kept stumbling, falling into the grass. Every time one of those slimes bounced toward me, I thought my heart was going to leap out of my chest.”
+
+Milia leaned forward. “You had to kill slimes?”
+
+Ingrid nodded slowly. “The quest was simple on paper, defeat one hundred slimes within seven days. But they weren’t as harmless as they looked. I kept missing swings, and wasting stamina. More than once, I thought I wouldn’t make it in time.” Her tone dipped, softening. “And yet, there was a strange joy in it too. I know it sounds ridiculous, but once I got used to the controls, I think I... had fun.”
+
+Celica raised a brow. Ingrid? Had fun playing a video game?
+
+As though hearing Celica’s unspoken thought, Ingrid gave a rueful laugh. “I regret never joining the two of you before. You asked me to join your gaming sessions so many times, and I always said no. Too tired, or busy or maybe I was just afraid I’d be bad at it. Turns out I was bad at it. But it was still fun.”
+
+Both Milia and Celica had on expressions of surprise.
+
+Ingrid continued. “There was a moment I nearly gave up. My counter was stuck at thirty, or so and I couldn't motivate myself to keep going. But someone helped me, a priestess NPC. They called themselves Wisdom Hands.”
+
+The name hung in the air.
+
+“Quite a strange name but, they gave me advice I never would’ve thought of and buffs I never would've accessed otherwise.” Ingrid’s expression warmed as she spoke, her voice grateful. “Without them, I don’t think I’d have finished. Wisdom Hands was also the reason I even met the party who carried me through the last stretch.”
+
+Celica’s chest tightened. The room around her blurred, Ingrid’s words striking like a bell. Wisdom Hands. She remembered giving advice to struggling players, tossing out buffs when they faltered. She hadn’t recognised Ingrid back then, and clearly Ingrid hadn't recognised her either.
+
+Across the table, Ingrid’s gaze was distant, remembering that unknown guide with gratitude. “I wish I could thank them properly. They changed everything for me.”
+
+Celica stayed silent, heart pounding. She tried to keep her face neutral while Ingrid and Milia chatted on, but her mind was spinning.
+
+Was this it? Was this the reason I was sent back, to guide people like Ingrid, to keep them from failing? She thought of the buffs, and the words of encouragement she’d given so casually. To Ingrid, they’d been life-saving. And Ingrid probably wasn't the only one who felt that way.
+
+Celica’s fingers drummed against the arm of her chair. The unease she’d been burying clawed its way up, refusing to stay silent. Finally, she exhaled.
+
+“When’s the next full moon?”
+
+Milia blinked, halfway through sipping a glass of water Ingrid had poured for her. “Huh?”
+
+Ingrid tilted her head, curious. “Why do you ask?”
+
+“It’s… DreamCore,” Celica said carefully. “The company behind The Ten Realms. I think the full moon is when we’ll get pulled back to the game world.”
+
+The words lingered heavy as Ingrid frowned. Before Celica could press further, Milia snatched her phone from the coffee table and tapped furiously. After a second, her eyes widened. “It’s today,” she whispered. "The next full moon is today."
+
+All three of them took a breath. The room, warm with lamplight and reunion, suddenly felt colder. Celica closed her eyes. So soon.
+
+The silence stretched until Milia’s small voice rang out. “Do you think everyone made it?”
+
+Ingrid nodded. “The guide NPC told us everyone in our zone survived. If that’s true, then yes, everyone’s still alive.”
+
+Milia turned sharply to Celica. “And everyone heard that?”
+
+Ingrid nodded. Milia’s gaze narrowed, sharp and accusing. “Then why didn’t you tell me Ingrid was fine?”
+
+Celica coughed, tugging at her collar. “Oh… that? I, uh, forgot.”
+
+“Forgot?” Milia’s pout deepened but ultimately she decided to drop it. “Fine, whatever. I have a favour to ask, Celica.”
+
+Celica straightened. “Sure, what is it?.”
+
+“I’ve got friends slightly older than me. I think they all got pulled in. Can you make sure they're all okay next time you're in that world?”
+
+Celica hesitated, considering how she'd have to tweak her plans for the second floor if she had people to help, but Milia’s eyes burned with conviction. “You played the beta and read all the forums. Don’t think I didn’t notice. I know you're more than good enough to boost them.”
+
+Celica opened her mouth, but Milia wasn’t done. She turned to Ingrid. “Was there any exceptional player? Someone who stood out?”
+
+Ingrid frowned in thought. “Not really—” She paused. “Wait. There was this player called Snapped Sword who kept showing up in the announcements. They hold every record and I don't think anyone would argue if someone said Snapped Sword was the world's best player.”
+
+“That’s her,” Milia said instantly, pointing at Celica. “Without a doubt.”
+
+Celica’s eyes widened. “What are you talking about?”
+
+“You’ve used that IGN for years—”
+
+Ingrid blinked. “What’s an IGN?”
+
+“In-game name,” Milia said flatly. “Celica’s used Snapped Sword in other games.”
+
+Celica waved a hand. “Coincidence.”
+
+Ingrid leaned back, laughing softly. “Sorry, I'm with Celica on this one. She's good, but being Snapped Sword? That’s on another level. Whoever Snapped Sword is, they’re playing a completely different game.”
+
+Celica forced a smile, pushing the conversation aside. “Anyway, give me your friends’ names. I’ll help them. And I'll help you too, Ingrid. I might not be Snapped Sword but Milia's right, I am pretty good.”
+
+Ingrid’s brows rose. “Really?”
+
+Celica nodded.
+
+“Then I’ll hold you to that.” Ingrid said, curiosity bathing her eyes. “But if I’m going to survive better next time… I want to learn more about video games. I have some questions actually.”
+
+"Ask away. If they're video game related we should be able to answer them." Celica said with confidence.
+
+“First question: what’s a noob? Everyone kept calling me that for some reason.”
+
+Milia chuckled slightly before Celica shot her a glare. “Don’t laugh. It means beginner or someone new. It’s not always an insult, but it can be.”
+
+“Oh.” Ingrid nodded thoughtfully. “Then they weren’t wrong.”
+
+Celica blinked, caught off guard.
+
+“Next question, what does it mean if someone says I fight like I’m AFK?”
+
+Milia choked on her water. Celica closed her eyes for a few seconds to prevent herself from making eye contact with Milia. “It means… you fight like you’re not there. AFK means away from keyboard.”
+
+Milia wiped her eyes. “How did you react when people said that?”
+
+“I ignored it, after all, I didn’t know what it meant anyway. So all this time it wasn't anything good... I kinda had a feeling.” She chucked self depreciatingly. "Now I'm really fired up! I'll make them take it all back!"
+
+The room softened with laughter and warmth again, the earlier tension fading. "The best thing to do with negative comments is to use it as motivation!" Ingrid winked at Milia as she continued on. “Besides, I can't be sad this week, it's Milia’s birthday soon after all.”
+
+Celica smiled before suddenly stiffening. “She’s turning thirteen.” Her voice had reduced to a whisper.
+
+Milia stayed quiet.
+
+"Wait, you're right," Ingrid’s smile faltered. “If the age range for those summoned was thirteen to twenty-nine… doesn’t that mean next week, she’ll be summoned too?”
+
+Celica’s chest tightened as she looked at Milia, who avoided her gaze, instead choosing to fiddle with the chain of her necklace. No one spoke, but they could all feel it.
+
+The full moon was approaching.

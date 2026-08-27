@@ -1,0 +1,197 @@
+---
+id: 31b0c27e-16a1-58f5-a5c6-fce2d2875a00
+page-type-slug: story-chapter-royal-road
+title: "Threads 443-Cathedral of Winds 2"
+slug: 0487-threads-443-cathedral-of-winds-2
+partOf: forge-of-destiny
+position: 487
+ownLength: 2266
+unit: words
+publishedAt: 2025-04-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2213967/threads-443-cathedral-of-winds-2"
+royalRoadId: "2213967"
+---
+
+"Aha! What a wonderful surprise!" Gan Guangli boomed. His grin was brighter than the lights of the meeting room they were in. "Welcome to Shenglu, Lady Li, Lady Su!"
+
+"Don't ‘Lady Su’ me, Guangli. There ain't anyone here who's gonna be offended."
+
+He laughed. "As you wish, Su Ling."
+
+Ling Qi chuckled herself, stepping around the large central table to find her seat at the head, Sixiang trailing along just beside her. "Take your time, everyone. Refreshments are on the way. The plan is to leave in the afternoon, so we have plenty of time to talk and plan."
+
+"Wouldn't it be better to leave earlier?" Su Ling asked.
+
+"Nah. Grandmother'll be up tonight. We'll have better luck then." Sixiang dropped into a seat beside Ling Qi. It was strange to hear the muffled rattle and clack of ceramic on wood when they did.
+
+"Well, I don't know about luck, but I did design the qi siphon which will power the seal activation, the Cleansing Argent Breeze Filter, for lunar qi since it requires a potent source of yin qi," Li Suyin commented, examining the privacy formations subtly worked into the engravings in the wood of the door frame.
+
+"I'll also be helping with providing yin qi," Ling Qi said. "You said you had a physical sealing talisman, too? We need to stop any pollution, but we also need to cut off any physical passages as well."
+
+"Oh, yes, though I can't take credit for those. My own work is only a small part of the Five Temple Impurity Seal that Elder Jiao designed."
+
+"That'd be that big silver disc thing, right?" Su Ling asked. "I didn't get everything about it, but I think it's meant to lock in with the ambient earth qi and seal it against manipulation."
+
+"Yes. The impurity detection that makes it activate at its higher stage is mine, but Elder Jaio's work on the wide area sealing and repelling effects is much more important for the purposes of this expedition," Suyin explained. "One should be enough for any other undetected passages in the upper plateau region."
+
+"Excellent. What would it take to overwhelm or bypass the seal?" Gan Guangli asked.
+
+"The energies required would render any stealth or subtlety in the attempt impossible," Suyin replied. "And it is designed to be unable to be tampered with from beneath, save by brute force. It's not impossible that a skilled specialist like Ling Qi could bypass it with great effort though."
+
+No security was truly impenetrable or inviolate, Ling Qi knew. That was simply the way of passive defenses. Someone clever could always work around them in time.
+
+"The seal still gives a great benefit. Raising the bar to infiltrate increases the opportunity cost of trying to operate where the seals are installed."
+
+"Yes!" Suyin nodded cheerfully. "Together with the filter, it should mean that you will have no impurity worries, except for active, invested attacks from the ith. In that case…"
+
+"We would need military might to combat no matter what,” Gan Guangli finished. “And with these defenses, we will have more warning even for that. I am curious, though. Five temples?"
+
+"Bountiful Earth, Celestial Dragon, the Heavenly Pillar, the Dusk Sun, and the Hidden Moon," Su Ling rattled off. "Five great spirits invoked and woven into defense."
+
+Ling Qi's eyebrows rose. "Elder Jiao does not hold back. Invoking that many great spirits without offending or miscalling any of them into one formation is not easy. Is it operating off of demesne principles, then?"
+
+"Yes. It’s invoking the sovereignty of the empire and its ancestors over the earth, and reinforcing the division between the depths and the surface. This far out, it will beless potent, but testing has shown it should still function without serious maintenance for at least a decade," Li Suyin declared.
+
+It was at the time that there was a timid knock at the door. They fell silent as Ling Qi gestured, opening the door and allowing the serving staff to enter and bring in the refreshments. Su Ling, she noticed, still looked uncomfortable being served, but Li Suyin cheerfully thanked the servers, even as they eyed the looming skeleton behind her chair with wariness.
+
+It did make Ling Qi pleased that the fear in their postures was tempered and weakened as she let slip a small part of her domain, a few wisps of mist crawling along the floor beneath the table. She was here. These were her guests. They were her staff. Both were under her protection.
+
+Sixiang grinned knowingly at her, and Ling Qi busied herself by filling her plate with some small treats.
+
+"Softy," Sixiang whispered, accepting a cup of aromatic tea and inhaling deeply from the rising steam. "I wonder if you even need me anymore, with how confident and together you are now."
+
+"I will never not need my friend, Sixiang," she replied back, just as quietly. "Qiyi isn't the only one who noticed the silence. I miss your voice."
+
+Sixiang chuckled. "Moons, I've really gotten needy. I've missed you two. These gals are fun, and I wouldn't mind spending one month outta three pestering Suyin to go out more, but I'm really glad to be back."
+
+Ling Qi reached out, resting her hand on top of Sixiang's briefly. Surprisingly, it felt like flesh and blood, not the wood and metal underneath.
+
+"Suyin does good work,” Sixiang answered her unspoken question. “And so do I."
+
+Ling Qi let the subtle screen over their words go, and the sound of the dining room roared back in full force.
+
+"--gonna get yourself thwomped on the head one of these days, you know, Guangli?" Su Ling drawled.
+
+"Then, I shall accept my lumps with honor! It is important that men know their leader is with them and will take the first blow!"
+
+"I want to see one of these beavers," Li Suyin muttered into her cup, eyes sparkling.
+
+"So you can feed them to Zhenli? Why's the fuzzball still in your dantian anyway?"
+
+"I didn't want to frighten the servants…"
+
+All of them looked at the looming bone mannequin behind Suyin.
+
+"I didn't want to alarm them more." Li Suyin pouted. "But, fine. She should stretch her legs."
+
+Ling Qi's eyes widened. "Ah, Suyin—!"
+
+Li Suyin's spirit beast materialized by the base of her chair. Zhenli was still squat and compact for a spider, with thick, fuzzy legs held close to her puffball pink body and huge, glassy, and unblinking eyes.
+
+"This Zhenli thanks the Baroness Ling for having her," Zhenli said, pedipalps spreading apart to match her lowered head.
+
+"You are welcome, but…"
+
+Naturally, then, the door opened, revealing her mother and sister, who she had sensed coming down the hall. She'd invited them to eat with everyone today, wanting her family to grow more used to other cultivators.
+
+"My apologies for being late. We were held up in cleaning my younger daughter's…" Ling Qingge began, her head ducked low, only to freeze and pause.
+
+Li Suyin had chosen a seat right by the door. This meant Zhenli was directly in her mother's line of sight. Her sister’s, too. Biyu's eyes were widening even as she looked, and Ling Qi rose from her seat.
+
+"Fuzzy!" Biyu squealed, high and loud, but it was not in fear as Ling Qi had expected. The little girl darted forward out of her shocked mother’s grasp.
+
+"A-ah! Young miss. Do not. This Zhenli… Baroness. Help!"
+
+Her little sister pounced on the large, dog-sized spider, squeezing her like a pet.
+
+"Biyu, no!" her mother spoke, voice strangled. She rushed forward to pry the little girl away from the spider, despite the fear Ling Qi could still feel from her.
+
+"Woah, there, little one! One must not touch others without permission." Gan Guangli scolded. Rising to his feet, he carefully helped her mother disentangle the spider from Biyu’s grasp. Zhenli rapidly scuttled under the table the moment the beast felt she could avoid harming Biyu in her escape.
+
+"I'm sorry, Mother. I promise there is nothing unsafe in the room. Please meet Zhenli, my friend's spirit beast. She would never harm her hosts," Ling Qi reassured. She rounded the table to approach her mother.
+
+The woman still looked frazzled, her breathing uneven, but she was swiftly composing herself. "O-of course. Please excuse my shameful reaction, honored guests."
+
+"Madam Ling, I am very sorry for my unthinking action. Zhenli is a good friend, but I forgot how she could be perceived," Suyin apologized, rising from her seat and bowing repeatedly.
+
+Ling Qi sighed as her mother and Li Suyin began their dueling, escalating apologies, and accepted her little sister from the grinning Gan Guangli.
+
+"Biyu, why would you do that?"
+
+"Weird dog was very fuzzy." Biyu curled in her arms, unsure of why people were upset.
+
+"You shouldn't grab onto beasts suddenly. They can be dangerous, or you might startle them," Ling Qi explained.
+
+"But… Sis is here."
+
+And anything around her big sister couldn't be dangerous.
+
+"You still need to ask before touching, little sister."
+
+Even if she wouldn't let Biyu be hurt, boundaries should be respected.
+
+"It's very rude to do so, no matter how cute you think they are, okay?"
+
+"... Okay."
+
+Ah, it looked like the duel was over. Suyin emerged victorious in having her apology accepted.
+
+"Let's not dwell. Come sit next to me, Mother. The tea is still warm."
+
+***​
+
+Later, when the refreshments were all cleared away, and the catching up was done, everyone was able to settle in, and Biyu was allowed to carefully pet both the spider and the bat in the room. The little girl was now curled up in her mother’s lap, dozing contentedly. Conversation had since turned to more serious topics.
+
+"So, Li Suyin, you mentioned there was something you needed to establish in person in your last letter. I recall a mention about limited capacity?" Ling Qi asked, pushing her plate aside.
+
+"Oh, yes.I have a limited number of arrays which I can provide upkeep on with my current qi.” Then, Suyin added defensively, “Qi which I cultivate often enough."
+
+Su Ling snorted. Ling Qi kept her expression innocent.
+
+"And I suppose we can't power them for you."
+
+"No. These need to be custom-made to the user, which would take some months. I've made several of them for core disciples, but I have not had the time to spend with any of you on the project."
+
+Ling Qi sighed, and gestured for her to continue.
+
+“The most intensive array is my Mother's Adamant Bones formation. You're familiar with the way distance and space become twisted and bent around in the underworld's tunnels?"
+
+Ling Qi grimaced, and so did Su Ling. "Yes."
+
+"And of course, you’re familiar with the way your own liminal travel was disrupted."
+
+That emergency had led her to her first attempt at a long distance dream step. Their scouting group had almost been lost in the deep liminal as a result.
+
+"That was due to interference from something from the ith though."
+
+"Yes. Elder Jiao has determined from studying the remains of the talisman he gave your group that it was some ith artifice, but it is a technique which comes easily to their impurity methods. And in this upcoming expedition, we will not have a talisman from the elder."
+
+Her mother looked worried, though Ling Qi could tell she only partially understood Suyin’s lecture.
+
+"My array acts to solidify the laws of the surface and the material world in its radius, dampening the distorting effects of the underworld, but it will also disrupt your own movement arts," Li Suyin explained. "In addition, its power issues mean that I would have to weaken the duration of my impurity filtering formations on us, so we would have less time to spend in the tunnels before the toxicity began to affect us."
+
+"I assume you would strengthen the ward against the toxicity, if you didn't activate the other formation," Ling Qi pondered.
+
+"Yep," Sixiang piped up. "You want more time but more potential for spooky twisty stuff, or do you want less spooky twisty stuff but also less time?"
+
+"Succinct!" Gan Guangli praised.
+
+"Yes, thank you, Sixiang," Ling Qi said dryly. To Suyin, she said, “We can do without your array. I've grown much more skilled since then, and we won't be anywhere near the ith-ia's actual territory. And it will be good practice. We will be going much deeper soon in the upcoming offensive."
+
+"That is true." Li Suyin sighed. "Since I am with you, I suppose it will be fine. I'll save on the reagents this way, too."
+
+"Suyin, how much are you going to expend on this expedition?" Ling Qi asked.
+
+"No more than her discretionary budget for the month," Su Ling answered flatly.
+
+Ling Qi stared at Su Ling blankly. " And since when do you use words like discretionary?"
+
+"Lingling's been a real scholar these past few months," Sixiang said, bright and singsong.
+
+"Su Ling is very diligent when she decides it is important," Gan Guangli added serenely.
+
+"Oh, all of you, go to the hells. I just don't use big words just to sound flowery and sh—" Su Ling cut off her curse, glancing at Ling Qi's mother.
+
+"Yes." Li Suyin muffled a giggle. "I am not expending anything I can't afford. So, Ling Qi, it's been some time since we updated each other on our capabilities. What can we expect from you?"
+
+"To begin with, I have been working through my cultivation of my construct arts, the Beast King's Savage Dirge…"

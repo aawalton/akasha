@@ -1,0 +1,135 @@
+---
+id: bfa676ed-614c-5a10-acdf-885e46f627a1
+page-type-slug: story-chapter-royal-road
+title: "Threads 433-Green 2"
+slug: 0477-threads-433-green-2
+partOf: forge-of-destiny
+position: 477
+ownLength: 2276
+unit: words
+publishedAt: 2025-02-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2093712/threads-433-green-2"
+royalRoadId: "2093712"
+---
+
+"Ready to move, little brother? Come with me to the edge."
+
+He trundled up beside her. In the liminal, he was only as high as her shoulder, his spirit not quite caught up to his body.
+
+Ling Qi clapped her hands twice and bowed three times as the lake and circling mountains blurred away. "I offer my respects to the great Patriarch of the South."
+
+"Zhengui offers his respects to the great Patriarch of the South."
+
+The infinitely tall trees stretching beyond sight above and below loomed ahead. The endless forest had been the first sight she had seen in controlled steps into the dream, and down among the leaves and branches, the teetering ruins of a hundred settlements all built atop each other and sinking into dust sprawled in the twilight. Above, winding through clouds and distant leaves from a canopy out of sight, the kilometers-long coils of draconic scales undulated through the unending twilight.
+
+Their words echoed. Ling Qi felt, more than saw, an eye larger than her whole body roll towards them and fall upon their bowed heads.
+
+Towering pride earned a hundred times over was a weight upon their backs, and Ling Qi grimaced as she felt the smoldering flames within her flare, sending spasms of pain through her limbs. Then, it passed. The dragon patriarch bound to Sect Head Yuan He took no offense nor interest in their doings.
+
+Ling Qi took a deep breath, and looked out over the ruins. Far in the distance, she saw a tower of teetering buildings begin to fall, a slow motion calamity of crumbling wood and stone and rising dust. And there, she saw a flash of brilliant, verdant green.
+
+"That is where we are going?" Zhengui peered out beyond the edge of her isle. He sounded nervous.
+
+It was disquieting to hear him like that.
+
+"Yes. Do you want me to carry us there?"
+
+"Zhengui thinks that he should. This young king has been practicing with his fires," her little brother said hesitantly. "But Big Sister is the expert of the spooky, twisty places…"
+
+"You should take us away, little brother. I have a feeling you might be the better navigator on this journey."
+
+It was only a hunch, but when it came to the liminal, one had to be willing to trust their feelings to an extent, and right now, she felt like the labyrinth of layered city would impede him less than her. With the way she had begun to think of history and the past, she felt she might not be much better at navigating it than she was that first day, despite her greater skill.
+
+Poor Meng Dan might just get lost here forever, if she didn't keep a tight hold on his hand.
+
+Ling Qi turned to her little brother and appeared atop his shell without taking a step, Qiyi's silk billowing around her in an unseen wind.
+
+The dress' consciousness was distant. Ling Qi worried, but it was more like the mind of someone deep in cultivation. Qiyi was probably preserving herself against the dissolving tug of the liminal atmosphere.
+
+"Okay! Gui can do this."
+
+"I, Zhen, am the one who can do this," his other half scoffed.
+
+A chair not unlike that of his shrine harness appeared for her to take a seat in. She lowered herself into it as the xuanwu began to back away from the edge of the island. The shadowed, ghostly memory of hexagonal clay plates began to whirl around them, immaterial without Xuan Shi here to support their existence.
+
+He reached the far side of the island and oriented himself toward the layered city. And then, her little brother charged. It was hard to call anything in a tortoise's gait a “run,” but his trunklike legs ate up the liminal ground, rocking the island with his weight. That momentum flung them from the side of the island, carrying them briefly into the misty air of the bottomless forest.
+
+As they began to fall, wind screaming past her ears, his legs withdrew into his shell, and she heard the snapping of sparks and then, a guttural roar like the flame in a kiln forge being flared beyond limits by the pumping of a bellows. Ruddy red and orange flame erupted from where Zhengui's legs had withdrawn into his shell, and together with her little brother, she soared into the crumbling city of buried histories.
+
+The titanic trees whipped past them, and the curling switchback paths which carved through the chaotic tangle of piled buildings blurred by. Countless, whispering secrets all clawed at her ears as they passed, pleading to be heard, to be known, to not sink forever into the ruin and be forgotten.
+
+But neither of them were here for those kinds of secrets today.
+
+"This a sad place," Gui rumbled. "It is like if the dead place in the sect were broken, all the names wiped off."
+
+"Fuel that will never become flame. How unsightly," Zhen hissed. "Are you secure, Big Sister?"
+
+"I am," Ling Qi said. The howling wind and roar of the jetting flame was no impediment to speaking or hearing, not for her, but she did squint into the distance. "And that is a good way to describe this place. It is a crossroads and a graveyard for things forgotten."
+
+"Gui does not like it much. But look, sister, we will need to go through there!"
+
+She looked ahead toward where she had spied green in the distance. There was a vast cloud of dust hanging in the air now between them and it, and they would need to swing very far out to avoid it.
+
+Ling Qi narrowed her eyes, considering. "Keep steady, little brother. We can handle it.”
+
+It was like hitting a soft, dry cushion. The dense dust was so thick and cloying, it felt like she was trying to breathe in a grungy curtain. It was a curtain that swiftly caught fire, a rippling ring of explosion and flame ignited by her brother, the dust of ages going up in renewal. She exhaled, and the wind roared, whipping the flames to lurid orange and bluebell brightness, all well away from her skin. The shroud of obfuscating ignorance, for that was what the dust was beneath the physical, scattered, and they soared on.
+
+Onward, onward, they flew down a canyon carved through the labyrinth of ruin and trash. Further plumes of cloying ignorance roared from the crumbling ruins which formed the walls of the canyon.
+
+"Soaring high won't work, Gui thinks. We will just get lost in the dust and fog."
+
+Zhen was serious and focused. "We must navigate here. Take the burrowing trail, and follow in the path."
+
+"Take us away, little brother. I will keep us stable and intact, wherever we fly."
+
+The flames rumbled, and they shot down the crumbling canyon, weaving through masses of falling tile and foundation, curving around plumes of dust, and darting beneath crumbling temples and pagodas. Far, far ahead, Ling Qi caught sight of an immense, lashing tail cracking against the layered ruins and bringing down enough rotting infrastructure to bury a mountain.
+
+Zhengui's accelerated toward the oncoming avalanche and the vast cloud of dust proceeding it, heat flaring beneath his shell. She braced herself, too, the melancholy song that shrouded her becoming more strident and triumphant as shadows writhed. The circling phantom hexagon plates grew starker and more real for just a moment.
+
+They punched through the avalanche in a spear of flame and determination. Tons upon tons of crushing stagnation and loss fell upon them in the guise of worked stone and carved wood, and where they met it, it disintegrated, charred black and blown away in an instant. Ling Qi found herself losing track of time as they pierced layer after layer of ruin, the sphere of charring ruddy light they formed shrinking infinitesimally by the minute.
+
+And yet, she felt no doubt, even as the blackness shrunk in and as the heat became enough to boil a mortal alive. Neither of them would be stopped by mere, unfocused ignorance and doubt. They emerged from the other side of the avalanche in an expanding ball of fire, casting off the shell of ash which had sought to choke them in a rippling ring.
+
+Their destination loomed ahead.
+
+The beast, Kohatu, was far larger than the corpse in the cave could have ever been. Her body was long and flat with a sinuous, serpentine tail. She had legs splayed out horizontally to her body, short and powerful, akin to a dragon’s, and these were what dragged her with such speed through the monument to buried and forgotten secrets, tearing into stone and wood and bulling her vast form through the mountains of ruin and debris. Unlike a dragon though, the spirit beast’s neck was short and thick, and she had no horns nor whiskers, but a broad, almost shovel-like head.
+
+As close as they were now, the cacophony of her advance through the ruins was deafening, and the grit and dust in the air was a constant. The irritating particles stung her throat and eyes, despite her best efforts to keep it away from her.
+
+Zhengui's eyes were fixed on Kohatu in fascination. Ling Qi hated to admit that something in his expression made her stomach churn with an ugly, envious feeling.
+
+There was an almighty crash as the titanic lizard’s head and forelegs slammed against the foundations of a crumbling palace, and she began to dig down instead of through.
+
+"Ah! We need to catch up!" Gui shouted.
+
+Ling Qi's seat rattled as flames launched them toward Kohatu. For the first time, the burrowing beast seemed to notice them. It was subtle, a nearly imperceptible twitch of reaction in one reptilian claw.
+
+"Zhengui, down!" Ling Qi screamed.
+
+He obeyed without hesitation, and they were able to just barely duck the whipping tip of a titanic tail. It broke the air with a crack of thunder, a detonation that sent them spinning and nearly crashing into a winding path of packed together fossilized wood surrounded by straw-topped huts on one of the canyon walls. Her little brother's flames set the roofs ablaze as he course corrected, dragging them back into the sky.
+
+Kohatu's claws and snout were back in the denser ruins at the bottom of the canyon, digging into the denser, fossilized memories and secrets at the foundations of the layers’ city. Stone and dust and chunks of buildings were sprayed backward like clods of dirt from a burrowing rabbit, leaving them to weave through the dangerous rain as they made their way closer at a warier pace.
+
+"Why would she do that?" Gui wondered. He sounded hurt.
+
+"I don't think she's looking very closely. We probably only register as a pest. She can't really 'see' us yet," Ling Qi comforted. There was no recognition of them as a meaningful presence in the beast’s posture and demeanor; that flick had been no more than a person waving a fly away from their head while they worked.
+
+"So, we will have to make her notice us before we can talk. But I don't want Big Sister to be hurt."
+
+"We'll manage," Ling Qi said as they circled, Zhengui not quite daring to bring them closer again.
+
+"Keep us steady, little brother. Circle around her. You got us here. Now, let me take the next step."
+
+Since the end of the summit, Ling Qi had found herself able to speak, hear, and understand without words. In truth, in the weeks following her recovery, she had found it distracting. There were always voices whispering for her attention, the little voices of sun and wind and grass and stone, the voices of homes and tools, and countless others, too. Most were not even whispers, just faint impressions of proto spirits, less than even the least coherent fairy.
+
+She'd soon learned to push that odd sensation to the back of her mind, although it did leave her with a low awareness of everything and everyone which could possibly hear and understand her. That was how she had chosen their first singing locations with Hanyi, how she had chosen the site for the shrine to winter in Shenglu, and how she had determined the right place to row out to in Lake Snowblossom.
+
+She could feel the presence of the shade of Kohatu. It was like a dense network of roots whose trunks had long since been felled, closed off and buried, operating on only the lowest and most automatic of processes. Her ears were closed, and her voice was withered with silence. She burrowed mindlessly, driven only by the stubborn urge to not allow herself to become another still, forgotten fossil buried under mountains of ignorance.
+
+The core of this shade was bitter, dogged spite, and for a moment, Ling Qi hesitated to speak. Whatever Kohatu had been and whatever she was to Zhengui, did Ling Qi truly wish to expose him to this particular facet of the old beast?
+
+She looked to Zhen and Gui as his flames guttered and reoriented to fly them in a slow circle. She had already asked him. He had told her he wanted to be here to meet his predecessor. He had given her an answer, and she had no right to deny him now, not without twisting herself inside out to weave a justification from her own fear.
+
+Ling Qi drew her strength inward, like a singer preparing to launch into a long aria. She focused all of her power, her qi, and her determination down into her voice.
+
+[AUDIENCE]

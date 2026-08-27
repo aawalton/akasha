@@ -1,0 +1,143 @@
+---
+id: 3d112692-3fe5-5496-96ca-83cb9818ee5d
+page-type-slug: story-chapter-royal-road
+title: "Threads 338 Hunters 3"
+slug: 0378-threads-338-hunters-3
+partOf: forge-of-destiny
+position: 378
+ownLength: 2208
+unit: words
+publishedAt: 2023-09-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1357771/threads-338-hunters-3"
+royalRoadId: "1357771"
+---
+
+“And what is the purpose of this?”
+
+“C’mon, help me out here. Princess gave the okay. The baroness wants to talk to a few of us because…”
+
+Ji Rong glanced toward her, raising his eyebrows as if to say “take it away.”
+
+“Among our guests is a faction which lives south of the Red Jungle. They have knowledge of a creature they call the ‘Flower Demon,’ which they claim to have defeated and driven north,” Ling Qi said patiently. She had her hands clasped respectfully in front of her. “I have some concern that your presence could alarm them.”
+
+“I see.”
+
+The one they were speaking to was the officer in charge of the house guards, a woman in supple black scale armor cut from some reptilian beast’s hide. It was fixed with steel pauldrons and a chestplate, but the rest of the harder points, the vambraces and the greaves, were carved green bone that exuded an ominous and acidic scent. Sheathed at her hips were a pair of curved hand axes, the steel a bloody crimson.
+
+“I had hoped I could hear your own words on the Red Jungle and what the people of the West are accomplishing there so that I might make them understand that you are not all disciples of that barbaric goddess,” Ling Qi continued.
+
+The woman hummed, looking Ji Rong over. To her surprise, he ducked his head and offered respect.
+
+“My grandmother, who marched under King Shao in the beginning, had six brothers and sisters. She had many uncles, many aunts, and even more cousins. The jungle took all of her siblings by the time she had reached my age and realm. This was normal enough. It was expected by our masters that we would give our lives for the Lords of the Lakes. It was not our lot to grow old,” the woman said. “Grandmother was not satisfied with this. We live to kill her, the jungle. To kill her and claim her rather than cowering behind walls and being taken one by one. The West dies on its feet instead of its knees, and we take more than we give. Grandmother passed in her meditation room. I have five brothers and one sister. Only two of them have died. We may still die, but it is better to be predator than prey. Better to go out and hunt than hide in our burrows like worms.”
+
+The woman spoke crisply and matter of factly. Ling Qi paused a moment more to see if she would elaborate further and then lowered her head briefly in thanks.
+
+“Is that a sufficient answer?”
+
+“I would ask if you have any knowledge of the goddess herself.”
+
+“A vile spirit born of strife in the Sage’s final campaign where the barbarians’ Priest Queen feigned submission to slay him. She lives in all the jungle, but especially in the flower fields and creeper vines. King Shao has torn apart the barbarians’ methods and created new arts which we use to take from her as she once took from us.”
+
+“Thank you,” Ling Qi said. “We won’t spend any more of your time.”
+
+As they left the planning room behind and reentering the embassy’s halls, Ji Rong glanced her way.
+
+“Probably can’t expect them ta be friendly. You're friends with the snakes.”
+
+“I knew that going in,” Ling Qi said.
+
+In the end, the Emerald Seas was aligned with the Bai clan, and Meizhen was her friend. Merely being able to be understood and to be sincere could not overcome all obstacles. It could not actually alter this situation where the fact and reality meant they and the Sun were irreconcilably opposed.
+
+That, too, was a lesson in the march of the Beast Kings. Even Tsu the Diviner, gifted in speech as he was, had never attempted to make peace with the Beast Kings. Words were powerful, but for some things, there really was only sword and fang and claw. Pretending otherwise was just as childish as imagining that every problem could be solved with fists.
+
+When one looked into someone’s deepest truth, sometimes, they would see only a bared blade or the heel of a boot. Understanding that was key to understanding communication, its strengths and its limits.
+
+“You said there were a few others who might give useful answers?” Ling Qi asked.
+
+“Yeah. C’mon.”
+
+The next one they spoke to was a much older seeming man with bristling gray whiskers and heavy plated armor carved from bone and crystalized blood. He seemed less stiff than the woman, and he regarded Ji Rong with the look one might give an irritating nephew who one was nonetheless fond of.
+
+It was strange to imagine that Ji Rong did have a crude kind of charisma with certain sorts. She supposed those men and boys who strutted in the streets and claimed to own them would have to have their own ways of holding together.
+
+When posed the question, the old man chewed on his pipe for a time and answered shortly.
+
+The West was carving the jungle into a home. It was the only home they could ever have. Not one of them could ever go back, even if they wished to.
+
+Ling QI could acknowledge that, as much as she might not like to. Bai Meizhen was her friend, but the Bai clan’s reputation was well founded. Even Meizhen would not bat an eye at the idea that the Bai clan would kill everyone who had followed Sun Shao if they could, no matter if they had not even been born at the time of the split.
+
+Another soldier was questioned. This one was closer to their age by her reckoning, a young man in armor that seemed to be made of sharpened razors of volcanic glass affixed to some kind of plant fiber backing. He looked like he felt sorry for Ji Rong, as if her company were some great trial.
+
+For him, the Sun were building the martial might of the Empire. They were proof that the Empire was no spent force content only to gnaw at its own tail, that the barbarians on the border could and would fall, and that might and martial virtue were not tied up and captive to the most ancient traditions alone.
+
+The westerners were people, a little haughty and belligerent, but in the end, not very different.
+
+She considered rats again, the vermin who skittered at the feet of the mighty. Third realm seemed so far from that, and cultivation made it easy to be prideful, but in the end, did they still not live only at the pleasure of those more mighty still?
+
+No, that was a pointlessly cynical thought. The structure of society was never so simple. The mightiest cultivators were ideas made manifest. They relied on the vast resources that only an empire could gather. There were very few useful ideas one could have all on their own.
+
+But that initial thought, that impulse to believe that all and everyone existed only for their own self, and so, it was fine if you did too, that was where the rats lived, wasn’t it?
+
+The common thread that wound through the western soldiers boiled down to something near to that. There was a bone deep certainty that they had no true allies. That they were surrounded on all sides by enemies at worst and scavengers at best. That they would live and die with one another alone.
+
+There was a thread of more with the younger of them. In the younger ones, they believed that others could be made to see their virtue and that while they were alone, they did not have to be.
+
+“You actually been listening?”
+
+“I have. Baron Ji, may I ask you a question?”
+
+“Go for it.”
+
+“How have you convinced these people to accept you so completely? They do not trust outsiders much, I think.”
+
+Ji Rong grunted, crossing his arms. They were heading to the edge of the compound.
+
+They had spoken to several others and gotten little more. Myths and tales of the Red Goddess. She who hungered for the blood of dragons. She who demanded that her worshippers feed her blood, unending blood, and take the flesh and souls of demons into their own bodies and become demons themselves. There were a few other snippets of information that might be useful, but she would think on them later.
+
+He took some time to answer, leaving them to walk in silence. “I signed up. Did what they asked. I’m staying in the jungle. I picked up that they don’t get a lot willing to commit.”
+
+“And that is enough?”
+
+He shrugged. “I’m one of them now. Call me a thug, but I spilled my blood, passed my initiation, and put on their colors. It’s never really that much more complicated than that when you get down to it.”
+
+She grimaced, knowing that he was referring to gang life. “Are you though? One of them. Or are you merely there for the princess?”
+
+He scowled at her, his brow furrowing deeply. He opened his mouth to respond and then closed it again. They reached the edge of the manor grounds.
+
+She turned to face him, and he continued to scowl.
+
+“... I am, yeah. Met more decent folks in a couple of months than I did in a year and half in this shitty sect,” Ji Rong finally said. “Nothin ‘bout that’s changed.”
+
+All the more reason for him to figure out this mystery she had handed him was left unsaid.
+
+“Thank you, Baron Ji. I believe I can construct an image of the west for our guests now. I will be in touch once negotiations over the claims begin properly.”
+
+“Yeah, I got it,” Ji Rong dismissed. “Now get out of here. You look like you’re gonna pop a vein if you don’t cultivate whatever’s going through your head.”
+
+She frowned after him as he left. She knew she wasn’t being that obvious. Even without Sixiang’s help, she was better than that.
+
+… They must have that much in common though.
+
+She left the Sun manor behind and allowed her mind to wander. She was, after the flurry of travel and meetings, finally through the worst of it. Duties remained, but she had a moment now to figuratively catch her breath.
+
+And so her thoughts turned to the concept of power. Its forms and methods. Its meaning and lack. That was really the core of the Beast King’s Savage Dirge, both the play and art derived from it. It was an exploration and satire on the powerful.
+
+The Eagle God was mighty, but his overwhelming, blinding pride saw him laid low by humans much his lesser. He was the king who saw naught but dirt and livestock and prey when he looked down from his high, high throne.
+
+The Wolf God was different. He was the entitlement of power, the indignant outrage of a king whose subjects had their own thoughts and sought their own way. He was power as right or power as inheritance. He represented the throne unquestioned. His death was the death of confusion, incomprehension that his pack could ever do anything but obey.
+
+Though they had once surely been real, each of the Beast Gods represented a facet of power. But the dead were ever the props for story and metaphor, weren’t they?
+
+Ling Qi walked the paths going north, turning off the main stone road to follow a dirt trail that wound into the woods. She thought of the rats.
+
+There were no shortage of the creatures here beneath her feet in hidden burrows amongst undergrowth and roots. Rats were a type of beast as common and widespread as men. They lived where humans did, and they lived where they did not. Vermin stole and ate and multiplied.
+
+There was a reason the word was sometimes used to insult mortals by the haughty sort. But where then the Vermin God? He stood out among the others as a being not of terrible awe and fear, but as a thing to be disgusted by. What did he say about power, when compared to the others?
+
+Ling Qi found herself standing by a high pine tree, and she rested her hand on the rough bark. There was a set of burrows under her feet. Did the pattern break here? Were the vermin a meditation on greed, on want and desire and hunger?
+
+She did not think so. That was a part of it, but only insofar as want was inextricably tied to power. To become powerful, for the fire of cultivation to burn high, fuel was needed. That could be ambition, desperation, love, hate, or a hundred other things. Power for its own sake could not support the highest peak of cultivation.
+
+So what lesson then, the Vermin God? Her thoughts turned back to cynicism and the Western Territory. She observed the tiny lives under her feet and felt the scurrying rats living their lives.
+
+They were no more a vicious devouring horde than a human village was. The same impetus which drove a rat to such lengths would drive humans to do the same.

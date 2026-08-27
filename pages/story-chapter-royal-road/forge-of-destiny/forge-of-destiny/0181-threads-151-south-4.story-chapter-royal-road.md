@@ -1,0 +1,115 @@
+---
+id: b0d3beca-bf51-573b-9ad9-5129e227dae4
+page-type-slug: story-chapter-royal-road
+title: "Threads 151-South 4"
+slug: 0181-threads-151-south-4
+partOf: forge-of-destiny
+position: 181
+ownLength: 1910
+unit: words
+publishedAt: 2021-11-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/782476/threads-151-south-4"
+royalRoadId: "782476"
+---
+
+They left the camp within the hour, joining the outgoing scouting platoon. The platoon was composed of twenty-five soldiers, two in five of which were in the third realm with an accompanying spirit beast, led by a core disciple of the fourth realm. Their task was to survey the region, and as such, they wouldn’t be following them directly into the forest. Instead, they would provide a cover for their presence from any watchers afar and above.
+
+With the scouts, their path led south over the rocky hills and valleys that lay between the greater peaks in the Wall. For two days, they traveled straight south at a swift march, and the climate swiftly cooled. Although it didn’t bother Ling Qi, by the time they reached the forest’s edge, many of the soldiers had begun to don gear for the cooler temperature.
+
+The forest itself was a strange sight. It grew from a steep V-shaped chasm between two cloud-piercing peaks with thick, old growth trees growing at odd angles from sharply angled rock. Thick, knotty roots pierced the stone and dirt, forming a rough ground, and curved trunks sprouted upward to face the sky with a dark canopy of needles. The bottom of the chasm was as dark as night even at midday, lit only by the faint phosphorescent light of fluttering insects that hung over the shallow, sluggish river that ran down the center. Viewed from above, Ling Qi saw it as a curving line of green that ran for many hundreds of kilometers toward the south horizon.
+
+The first task would be one of pathfinding. Xia Lin and Ling Qi were going to go ahead of the group and determine the best path before returning to the others.
+
+Ling Qi materialized on the low hanging branch of a tree at the forest’s edge, sending fragrant needles raining down into the water below, while Xia Lin strode up through the ankle-deep waters. She bounced her halberd on her shoulder as she peered into the darkness that lay ahead.
+
+“What are your orders going forward?” Xia Lin asked. She stepped out of the shallow water and onto the tiny strip of stony shore that lay beneath Ling Qi’s perch.
+
+Ling Qi raised an eyebrow as she peered down. “I don’t think I am in charge like that.”
+
+Xia Lin cocked her head, peering upward at her. “I think we are both aware of who Lady Cai favors, Miss Ling. You are my senior in her service besides.”
+
+“Lady Cai doesn’t think like that. I am sure she means for us to cooperate,” Ling Qi replied. She peered into the forest. The persistent gloom was hardly a bother. Ahead, the shallow river fell over a short cliffside, leading deeper into the valley. The trees were silent save for the occasional twittering birdsong and the rustling of grass.
+
+Under her spiritual senses, the dark branches teemed with spirits. Among the trees, thousands of mismatched knothole eyes peered back at her. Little spirits of wood and growth hid behind every clump of needles and clung to every trunk. The river’s burble was a low-pitched song, echoing from the deep forest deeps. Faeries of cold and wind danced among the frost-dusted canopy, fragile snowflake frames tinkling like bells.
+
+<What do you think, Sixiang?> she thought.
+
+<Sleepy place. River’s not a regular flooder so it shouldn’t be a problem. No signs of anything real spooky yet. The little tree guys are cute. I kinda want one,> Sixiang thought back cheerfully.
+
+<Zhengui does not like this place much,> her little brother grumbled.
+
+<Pfft, it’s fine. You’re just being grumpy,> Hanyi scoffed.
+
+Ling Qi did not allow the byplay in her head to distract her as she moved to the next branch, peering over the short cliff. It was only ten or so meters deep. Unfortunately, down below, the trees grew right down to the waterline, their gnarled roots forming a twisted bed that left not a spot of ground to walk freely on.
+
+Xia Lin followed her, and where the faint light cast by her halberd passed, the tree spirits and faeries retreated, shying away. Things of shadow nesting in the darkness stirred, opening blinking yellow eyes that tracked the passing light with longing.
+
+“Miss Ling, it is not necessary to humor me,” Xia Lin continued, looking down into the dark as well. “Your skillset is the more valuable one here.”
+
+Ling Qi paused, glancing down at the other girl. She wondered what had brought this on.
+
+<She’s gotten it into her head that little Cai doesn’t much like her,> Sixiang analyzed. <...and I suspect she might be feeling kind of extraneous.>
+
+Ling Qi blinked at the odd turn of phrase but understood the intent. On the other hand, Xia Lin wasn’t wrong. They wanted to avoid conflict wherever possible.
+
+“If you insist. I think it would be best for you to stay on the river. The spirit of it seems calm, so you can check down the run and see if there’s any obstruction to just using it. I can scout the periphery.”
+
+Xia Lin nodded sharply. “Understood. Meet here in one hour?”
+
+“Yes,” Ling Qi agreed.
+
+Xia Lin stepped over the edge and fell into the dark, landing in the frothing water below without a splash. Ling Qi watched her stride forward through the now calf-deep water for a moment before turning her attention back to the closely packed trees.
+
+Ling Qi kept a tight leash on her qi as she explored the forest, not letting her power leak out into the surroundings as she made her silent way through the branches. She didn’t even flex her aura when faeries swirled close to toy with her hair or wood spirits clung to her hems with little claws of sap and bark, letting her carry them for a time before dropping onto new trees or rare patches of unoccupied soil.
+
+It made it easier to listen. It made it easier to hear the meaning in the soft song of wind in branches and the rustling of needles. The trees here were old and gnarled things, jealous of their places in the vale. For all the apparent silence and tranquility, the whispers of bark and root were harsh things, a silent competition in which they jostled for soil and sunlight.
+
+Among the trees, she found few beasts, mostly birds and rodents, though she saw signs of wolves and game beasts further from the river where the grade of the valley lessened and fallen trees had cleared trails. But deeper in the valley, she began to find webs. At first, she only found small patches but soon, she found them growing more thickly strewn. In the shadows, many legged silhouettes skittered, both tiny and large.
+
+As she continued to descend on the path through the chasm, it only grew worse. Only near the river did the webs grow thin, though a few delicate structures connected branches on either side. For Ling Qi, the webs did not provide any obstacle, but for her less dextrous companions, she could see it being trouble. There was little room to traverse without ruining the creatures' homes.
+
+Unless Xia Lin found something very troubling, the river would likely be the best path.
+
+Upon meeting back with her and explaining this, Xia Lin’s expression failed to instill confidence.
+
+“The river is clear of hostiles so far as I went. The fish are not carnivorous, and the waters are calm,” Xia Lin reported. They stood back at the forest’s edge where the faint light of the autumn sun was allowed to reach the ground. “However, at the lowest point of the valley, there is a significant anomaly. At first, I believed it to be a grove of petrified trees, but upon closer inspection, I noted the signs of artificiality. Upon further inspection, I noticed signs of energies being conducted into the further portion of the river and valley.”
+
+“Do you have any idea what it is doing?”
+
+“I do not specialize in formation craft, but I suspect some form of large-scale misdirection effect,” Xia Lin replied, tapping the butt of her weapon thoughtfully against the ground. “A number of the northward ‘trees’ have suffered environmental damage, which may explain the lack on this side.”
+
+Ling Qi pinched the bridge of her nose. Cloud nomads didn’t do stonework or formations. Some other unknown group then? She thought that was unlikely. A ruined imperial outpost? Wouldn’t they know about it then?
+
+Ling Qi glanced toward the web-filled forest warily. There was one group associated with spiders, known for their skill at illusion and subterfuge, the Hui, deposed dukes of the Emerald Seas. She met Xia Lin’s eyes and understood the grim set of her features.
+
+“You said the construction was weathered, suffering environmental damage, right?”
+
+“It was,” Xia Lin replied. “It implies a lack of active upkeep and hasty construction.”
+
+So it did, Ling Qi mused. They still had some time. “Then, let’s go and clear the obstacle.”
+
+***
+
+The site was as Xia Lin had described it. Apparently petrified trees, dozens of them, grew from the wide, shallow water. On the northern side, a few had fallen and taken their neighbors with them, scattering rubble throughout the river.
+
+With silver gleaming in her eyes, Ling Qi examined them and confirmed Xia Lin’s suspicions. The pillars were part of a large-scale formation effect, a labyrinthine illusion that should have rendered the forest impassable. Perhaps Cai Renxiang could brute force her way through the decayed illusions, but that would probably be quite noticeable. Exploring the site, Ling Qi considered just asking Xia Lin to knock down a few more pillars to finish disabling it.
+
+However… She was not expert enough in formations to know which could be broken without setting off a feedback explosion like she had so long ago in Elder Ying’s sect trial. And for a formation this size, the blast would not be tiny. To disable it effectively, they needed to find the power source.
+
+Luckily, Ling Qi was skilled enough to trace the lines of energy back and up the western bank to a boulder that was not a boulder at all.
+
+As the two of them peered down into the damp tunnel that descended beneath the ground, Ling Qi glanced at Xia Lin. Ling Qi toyed with the thought of letting Xia Lin take command to help bolster her confidence, but there was no point in confusing things now.
+
+“I’ll go down first. Follow after and hold position at the entrance while I divine the surroundings,” Ling Qi ordered. A small wisp of silver light spun out from her palm, descending into the tunnel. It went down quite far.
+
+Xia Lin nodded, and faint lines of light bloomed along the joints of her armor, barely visible under the scout’s cloak she wore.
+
+Her wisp descended far enough to make out the floor. It was conspicuously damp, another sign of poor repair. There were signs of security formations spiralling down the shaft, but they, too, were worn by water damage and showed no signs of activation.
+
+<Sixiang, can you follow my wisps out and give me another set of eyes on the breeze?> she asked silently.
+
+<Can do,> Sixiang affirmed.
+
+<Zhengui, prepare to stay small if I bring you out. I doubt there’s much space. Hanyi, just stay ready,> Ling Qi ordered.
+
+She descended in silence, her other diving wisps circling her head.

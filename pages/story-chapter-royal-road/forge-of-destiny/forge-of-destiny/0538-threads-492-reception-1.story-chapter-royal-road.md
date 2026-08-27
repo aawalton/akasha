@@ -1,0 +1,189 @@
+---
+id: 42b5e3e5-ed8d-59ae-b52c-cd7fd9c6a115
+page-type-slug: story-chapter-royal-road
+title: "Threads 492-Reception 1"
+slug: 0538-threads-492-reception-1
+partOf: forge-of-destiny
+position: 538
+ownLength: 2397
+unit: words
+publishedAt: 2026-01-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2937832/threads-492-reception-1"
+royalRoadId: "2937832"
+---
+
+"Haha! Lady Ling simply cannot help herself!"
+
+"I've done nothing worthy of note, merely had a small conversation with an esteemed gentleman," Ling Qi retorted in the face of Gan Guangli's booming accusation.
+
+"Indeed. Nothing at all worthy of comment," Meng Dan said from behind the rim of his cup, eyes twinkling with amusement.
+
+"Which elder of the Argent Peak Sect then?" Xia Lin asked, far more bluntly. "I do not doubt you have good relations, but I know none who have such a relationship with the Jia patriarch."
+
+Ling Qi clapped her hands together, bowing apologetically. "I really can't say. Being serious, it is a private matter. I really did not expect the patriarch to publicly acknowledge our relationship like that."
+
+Gan Guangli rubbed his chin thoughtfully. "Whoever it is, they must have passed on the same troublemaking tendencies to both of their students. If I thought your control were any less, I might simply start listing out names to bait a reaction…"
+
+"So rude, Gan Guangli," Ling Qi huffed. "I shall have to tell Su Ling that you are getting out of hand."
+
+"I doubt she would be your ally on this battlefield, friend," Gan Guangli advised.
+
+"Yeah, nah,” Sixiang thought. “Don't want to rely on that one here."
+
+Rude, Ling Qi thought internally.
+
+"Still, I wonder what his intention was, aside from making a minor stir," Meng Dan said thoughtfully, glancing toward the other side of the throne chamber where the patriarch had gone with his entourage. "Goodness, will the Jia be plotting as well?"
+
+She rolled her eyes at his implication. Of course not.
+
+Probably.
+
+Hm.
+
+"Yeah, you might not want to discount that one, Miss Icy Beauty."
+
+Ling Qi made a face. Sixiang had better apologize. She wasn't like that at all! She didn't have the complexion for it, for starters.
+
+"You look like you are trying to cultivate a stone from your guts," Xia Lin said. "Be more mindful."
+
+Ling Qi sighed. It seemed she was besieged most anywhere she went these days.
+
+Time had passed since she had been left behind by Jia Hong, pondering his words and her twists of insight. The party had progressed a great deal. It was interesting to see so many powerful cultivators loosening up.
+
+"Drunk. The word you're looking for is drunk, Qi," Sixiang commented. "And hoo, yeah, I can see it. The atmosphere is getting funky up here."
+
+Ling Qi looked from one face to the next among her companions and noted the faint strain on their brows and in the set of their shoulders.
+
+The air was heavy with sovereign Law. She understood now why the younger and less cultivated guests would be continuing the reception in the palace gardens below. She was looking forward to it herself. Her sharp senses were no boon here. In fact, she could feel her head starting to ache, a vein in her temple throbbing despite her effort to regulate her blood flow.
+
+"The announcements are coming soon," Meng Dan said quietly, earning a nod from the rest of them.
+
+"That is a relief. I hope our lady…" Gan Guangli trailed off, speaking no more.
+
+It would be impolitic to say it, even if the rumors had already surely gotten around. Cai Renxiang's own betrothal would be announced tonight. She had not seen her friend clearly since this reception had started, only glimpsing her with the guests from the Celestial Peaks, members of the imperial family, and palace apparatus. With all the interference from higher realm cultivators, she'd not been able to pick out any details or discern who the chosen fiancée was.
+
+She just hoped her friend would be well. She knew Renxiang did not have her anxieties around marriage, but still…
+
+"She's gonna be fine," Sixiang soothed.
+
+Ling Qi nodded faintly. In the distance up by the throne branch and the high table, there was a bright, clear toll of a bell, rippling out over the sea of noise and quieting thousands of voices.
+
+It was time.
+
+The vast crowd in the throne room milled; they did not form up into clear lines or order as they had for the earlier ceremony, but there was a ripple through the sea of people and fine silks as they all oriented themselves forward, drifting apart from where they had clumped up in conversation. She and her fellow retainers did much the same, drifting apart into a loose semi-circle as they all turned to face the front.
+
+Cai Shenhua stood at the base of the throne, still arm in arm with Diao Linquin. In her hand, a cup was raised high in toast. "As we part, for elders and youth to both enjoy their own cups and counsel with less restraint, I have a final announcement for this joyous day!"
+
+Ling Qi craned her neck. She was taller than most, but she was well toward the back. She glimpsed Cai Renxiang approaching, hands folded behind her back, and step toward the couple. Diao Linqin raised her hand and laid it on her liege's shoulder.
+
+That, too, was signalling. There was no love lost between the prime minister and Cai Renxiang, but it seemed Diao Linqin wanted to show that she was not immediately putting her weight against the heiress simply because Renxiang was not of their union.
+
+"Today, the Cai clan reaches out further. My daughter has proven her will in taking up a task none thought could succeed, and going further still, taking on a weight even I did not intend to place upon her yet! For this, despite her youth, I call her my heir," Cai Shenhua announced without her usual languid grace, but a burning intensity that matched her blinding eyes. "Today, as I take my bride, so, too, does my daughter accept her fiancé."
+
+There was only a smattering of sounds, muffled hastily when the butt of a spear and the base of a shield clanged loudly against the marble as the man who could only be Kang Zihao's father stepped forward, shining like a candle against the vast shadow behind him.
+
+Then, the Empress stepped forward as well, the beads of her headdress clacking gently in front of her veiled face. Standing beside Shenhua, the comparison to a doll was even easier to make. The Empress did not even come up to the Duchess' chest, and yet, her presence loomed just the same, a cloying darkness that drank in Cai Shenhua's blazing light.
+
+"In this year, the forty-sixth of Our reign, We judge Our honorable servants of the Cai clan to have completed the first of the tasks assigned to them when their title was granted: stability; prosperity; and order among the people of Our Emerald Seas."
+
+The Empress's voice was different from Shenhua's. It was soft, elegant, and cultured, and every syllable was spoken in perfect scholarly diction. It also reverberated, deep and clear, reaching every corner of the throne room despite its low volume.
+
+"To this end, we grant the Cai clan the honor of our blood, a grandson of my body, to join their own line. Step forward, Mu Wuye."
+
+"Forward, Cai Renxiang."
+
+As her liege stepped forward, Ling Qi was able to see her new fiancé for the first time, emerging from the crowd of imperial attendants and family. They were tall, about as tall as her, and quite thin with slender limbs and an aristocratic face. Their hair was bone white and long, tied back in a neat martial knot. Their clothes were surprisingly simple, a knee-length dark tunic over white embroidery with spiraling golden draconic coils.
+
+Everything about them screamed of neatness and meticulous discipline. They reminded her of a sheathed sword.
+
+She was also very sure, for just a moment, that they were a woman. Only… No… She didn't think…?
+
+Cai Renxiang lowered her head and offered out her hand. "I, Cai Renxiang, greet my husband-to-be, Mu Wuye. Let this alliance blossom and bring prosperity to the house of Cai."
+
+"I, Mu Wuye, greet my wife-to-be. In the name of my exalted grandmother, I offer my valor, my sword, and my blood to the house of Cai. Let us bring prosperity together," he replied in a deep, smooth voice.
+
+Ling Qi would have to get a better look later.
+
+***
+
+The garden party had a freer atmosphere than the reception in the Throne, or at least, she felt so away from the leviathans of cultivation. Here, there were mostly third and fourth realms, walking amidst the ethereal lights of living faeries drifting about on the wind, between rows of tables filled with drinks and refreshment.
+
+The flowerbeds were a riot of exotic shapes and colors and filled with plants Ling Qi had only seen when scouting the highest mountaintops of the Wall. Alien fronds and motile petals twitched and turned, following potent sources of qi like curious animals.
+
+It was in one of the many scattered pavilions in the inner palace garden that she was able to present herself to her liege and her new betrothed, alongside her fellow retainers.
+
+"Baroness Ling Qi of the South Emerald Seas Ling clan respectfully greets the exalted Mu Wuye." Ling Qi bowed very low, hands clasped before her chest, the long hair hanging off her shoulder very nearly sweeping the ground.
+
+"Mu Wuye greets the loyal retainer of his fiancée."
+
+“His.” Not quite a lie. That was what her senses said.
+
+"Really bothering you, innit?" Sixiang wondered.
+
+It was, if only because of what they now were to Renxiang.
+
+The others rattled off their own greetings in turn as she stepped back.
+
+This whole formal greeting would be lessened in more familiar settings, but for their introductions, maximum formality was simply polite. As a member of the imperial family, even without position or title, Mu Wuye's person demanded an elevated level of respect.
+
+"It pleases me to see that you have such worthies around you, Cai Renxiang," Mu Wuye said, directing their attention to Cai Renxiang. It was a rote statement, spoken with formality.
+
+Awkward, her senses whispered. They were sticking to formulae for guidance in unfamiliar terrain.
+
+Mu Wuye's eyes twitched toward her. She restrained her perception much more firmly.
+
+"Each of them has shown character and loyalty well. I am pleased to have them beside me, Mu Wuye."
+
+In fairness, Cai Renxiang was about the same. There had been an almost perceptible pause before the name was spoken in place of “Sir Mu.”
+
+"I am certain you have your own," her liege continued, after a brief pause. "You were simply not given leave for their attendance. I shall hope to greet them as well."
+
+"Yes. As I am but a humble attendant to my exalted grandmother here, I was not granted leave for such," Mu Wuye said. "I do not have as many retainers as an heiress. My martial brother Kang Yuze follows me in all things. I shall introduce him when my move is complete."
+
+"You will be coming south then?" Cai Renxiang asked.
+
+"That is my exalted grandmother's intent."
+
+Cai Renxiang nodded thoughtfully, turned her eyes toward them, and gestured for them to rise.
+
+"Martial Brother… You are an attendant of one of the great sects then, Sir Mu?" Meng Dan asked politely as he straightened up.
+
+"No, though I understand your error. Kang Yuze and I are both merely disciples in the arts of war under my uncle, Imperial Marshal Mu Yun," they replied. "An honor I am proud of."
+
+"I was told you were a disciple of the sword arts. It is somewhat surprising that your training would be paused at this point in your cultivation," Cai Renxiang commented.
+
+Mu Wuye was at the sixth stage of the green realm, one step before a cultivator would need to establish their Name and finalize the form of their domain before their cyan breakthrough.
+
+"The needs of the Mu clan must come before my own." Mu Wuye gave a small shrug. "And my uncle believes I require a time of sharpening and refinement, out from under his eyes. I trust my instructor’s judgement. I suspect he may have known my exalted grandmother's plans. There is conflict a plenty in the south."
+
+There it was again, that quiet niggling, not quite lie.
+
+"Hoh? Sir Mu shall be involving himself so heroically? I would expect nothing less from the disciple of such a hero," Gan Guangli praised.
+
+"Indeed. Although I am hardly a match for my great grandfather, even at this time, there shall be no scheming vermin blocking the imperial house from showing our valor against the enemies of our people," Mu Wuye proclaimed, shoulders straightening. "I know that you are expected to walk the front line as well, Cai Renxiang. Admirable."
+
+"My mother will never allow her children to rest easy upon their laurels," Cai Renxiang agreed.
+
+Self-deception. There was something bound up in their presentation that Mu Wuye was torn on. They neither fully believed nor disbelieved it. It was both truth and lie, existing at the edge of both, and further, intensely personal. She had a feeling Mu Wuye’s teacher understood they had something to work through before seeking a Name…
+
+Well, that was their business, and… perhaps, Renxiang's?
+
+No, their or his business, if that was the preference. She wasn't poking her nose into that any further without invitation.
+
+"You have a piercing gaze, Baroness."
+
+She smiled. "And you have sharp eyes, Sir Mu. Please forgive me. I am often my lady's eyes and ears. It is my nature to be curious."
+
+Mu Wuye examined her with narrowed eyes.
+
+"It is only an excessive protectiveness." Cai Renxiang gave her a flat look. "A good trait, if sometimes troublesome."
+
+"My junior brother is sometimes the same way. I shall not chide you further, if you restrain yourself, Baroness," Mu Wuye said.
+
+Ling Qi bowed as low as she could, hands sweeping back to clasp in front of her chest. "My deepest apologies, Sir Mu. I shall show more temperance in the future."
+
+Xia Lin dropped a hand on her shoulder and bowed as well. "Yes, Sir Mu , please forgive this nosy woman."
+
+Mu Wuye shook t-his head slowly, stiff expression cracking in amusement. "It is nothing. I reiterate my compliments, Cai Renxiang. You have chosen good followers."
+
+"I like to believe so as well," her liege said. "But sometimes, I wonder.”

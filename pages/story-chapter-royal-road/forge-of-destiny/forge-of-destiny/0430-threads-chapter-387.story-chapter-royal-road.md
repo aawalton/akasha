@@ -1,0 +1,153 @@
+---
+id: 2b16ecc8-7881-5bf5-8a79-34f37f89f102
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 387"
+slug: 0430-threads-chapter-387
+partOf: forge-of-destiny
+position: 430
+ownLength: 2144
+unit: words
+publishedAt: 2024-06-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1695816/threads-chapter-387"
+royalRoadId: "1695816"
+---
+
+The ride was a smooth one. There was not a single jolt even going over the door frame. Only the faint whir of the turning wheels gliding over polished floorboards broke the silence as they traveled. They came to the open door of the building's main meeting room where Cai Renxiang and Gan Guangli were waiting for her outside.
+
+"Lady Ling, it is good to see you about so swiftly," Gan Guangli greeted, his voice echoing in the halls.
+
+"Praiseworthy, given that you received the approval of the physicians."
+
+Cai Renxiang's tone was more neutral. The other girl had offered her another two days before scheduling this meeting, but Ling Qi had insisted. If she stayed in that little medical room for two more days, she might have dreamwalked out of her own skin.
+
+"You are too kind. Are our guests waiting?" Ling Qi asked.
+
+"They are. Let us proceed with this," Cai Renxiang said. "And determine where positions still stand."
+
+They entered the meeting room, Hanyi trotting to keep up with Gan Guangli's longer strides.
+
+The meeting room itself was warmly lit. A long table set with refreshments was laid out between the seating on either side. Waiting for them were Jaromila, Dzintara, Inzha, and Rostam.
+
+"We apologize for your wait, honored guests." Cai Renxiang strode forward, her hand extended.
+
+Jaromila took it, clasping her wrist even as her eyes wandered over to Ling Qi. "It was nothing. I hope that everyone is well."
+
+Ling Qi did not miss the grave expressions all of them wore. Inzha in particular looked her over with pity, and her husband had his hat tugged low, shading his eyes. Dzintara at least met her gaze without flinching. There was a grim respect on the woman's painted face.
+
+"We are as well as we can be," Ling Qi said. "This incident was no minor disruption, and it pleases me that everyone's efforts and intercession were able to prevent truly serious damage."
+
+"It is no small act to take up a god's war mantle," Dzintara said. "We, too, are pleased that the damage has been so well contained."
+
+There was a slightly awkward pause in the air, before Jaromila broke it. "But please, let everyone sit, so that we might discuss how our respective peoples are feeling and how we might close out the negotiations when they open again."
+
+"Of course," Cai Renxiang agreed, taking her own seat first. Hanyi wheeled Ling Qi up to the open space left for her and stepped up to her side with demure and ladylike poise to pour her a cup of water.
+
+It never ceased to be amusing watching Hanyi play at being so well behaved.
+
+"For our part, I will not lie that those we speak for are divided. This event has caused great alarm, and many voices call for us to withdraw entirely," Jaromila said gravely.
+
+"Level heads understand that pretending you are not here will not make you go away, though," Dzintara said. "And the signs are… clear enough."
+
+Ling Qi spoke up then. "I apologize for not speaking of my companion’s own prize from our audience with the spirit who named herself Grydja. I would not have wished to imply anything that was not true."
+
+"Yet it is a sign all the same. That you were allowed an audience at all, let alone given such gifts is telling. If Crone Winter wishes our eyes to be in the north, then in the north they will remain," Inzha said.
+
+Rostram chuckled weakly. "Nothing good comes from ignoring grandmatrons. So, we remain."
+
+But, Ling Qi understood that trust in the Celestial Empire was damaged, even if the worst had been prevented. That such a rebellion had happened at all fed into the White Sky’s fears.
+
+"I do not believe that any previous deals will need revision," Jaromila said. "However, I accept that tensions will inevitably be higher.”
+
+"Understandable." Cai Renxiang inclined her head. "I will be honest as well. Among us, there has been a certain rallying effect."
+
+Gan Guangli expanded on their liege’s statement. "The general and her forces are well pleased at having rooted out a traitor, and any remaining doubts about this summit among them are muted."
+
+He did not say that this was partially due to whispers among some of the soldiers, particularly the Jia, that baiting out such traitors must have been part of the Duchess' plan all along; and so the fight had proved that this summit was more than the heir's pet project. Somewhat depressing, but Ling Qi would take what they could get.
+
+"Other voices have been quieted by your generous and prompt offer of aid and the stabilizing effects that it had," Ling Qi said. "This extension of trust has been good for both of our peoples.”
+
+"Yeah! If you wanted to mess with us, you coulda totally messed up efforts there!" Hanyi chirped.
+
+Ling Qi shot her a look.
+
+"Not inaccurate," Jaromila said with a small smile. "May I ask after your Ministry of Integrity? Forgive me, but they seem the sort to object."
+
+Ling Qi pursed her lips. She had not directly spoken to Cao Chun since before the operation given her recovery and how busy everyone still was, but they had traded brief messenger notes. His tone was sharp even in lettering, but he had not been able to find fault. Even he had not truly expected the culprit to fight to the death. And the intercession of the White Sky had saved imperial lives. Whatever else could be said of him, she understood that this mattered to Cao Chun, deep in the foundations of his Way.
+
+"It is perhaps strange to you, but our people take well to the idea that rebellion is swiftly crushed and with minimal collateral damage." Cai Renxiang rested her chin on her hands. "It does help that among those involved were loud voices against this summit."
+
+"A heretic is far more despised than a heathen," Inzha mused. "Let alone a traitor against a pantheon, who would burn his own people."
+
+"Indeed," Gan Guangli said. "So, Sir and Madam Emissaries, let us speak as to what points would aid you in settling your people’s concerns and keeping negotiations on track."
+
+"More security personnel for our embassy and greater allowance for security rune work within our area of interest," Dzintara said bluntly. "The Weeping Sentinel wishes further support in the form of her full retinue."
+
+"That is one, ya,” Rostam scratched the back of his head. "Four of what you call Indigo and their staff."
+
+Ling Qi glanced at Cai Renxiang, and her liege nodded her head. The high realms were concerning, but they did need more investment into this project from the White Sky. "Some of that may fit our own desires," Ling Qi said.
+
+Jaromila tilted her head. "Is that so?"
+
+"I am certain that you noted our encouragement of the judges bringing staff with them," Ling Qi said. "It is my hope that a small settlement of your people can be established at this embassy town. The only way to combat foreignness is to make it familiar. To that end, we need civilians of both our peoples living in proximity. A greater commitment of people and those attached to them, whether by family or service, fits that goal."
+
+Dzintara snorted. "Of course. You have the same sort of mind as Emissary Jaromila."
+
+"Not often do you give compliments, Emissary Dzintara," Jaromila replied mildly. "I do not know that this could be proposed directly. Nor can it be forced among our people. But the adventurous can always be found."
+
+"I do not expect it to occur immediately, but I would like to see the framework and foundation set down so that it may happen more or less organically in the future," Ling Qi said. "However, allowing so many additional fifth realms may be a harder sell."
+
+"And yet, it must be, if our people are to have any safety here," Dzintara responded. "Will you press on it?"
+
+"I believe we should support this request," Ling Qi said. It was a difficult choice. She understood that Xia Ren would greatly disapprove of strengthening the Weeping Sentinel’s position. As bizarre as it felt to assign the word to something like a sovereign, one without a full support network was still one more vulnerable than not. It would force, through pride alone if nothing else, a greater assignment of force from the Emerald Seas at the embassy town. Whatever favor she had gained with the woman through her actions, she would be spending it here.
+
+Yet between the judges, the researchers at the observatory, and a garrison of this size… Well, a proper settlement here was practically a foregone conclusion.
+
+Cai Renxiang pointed out the obvious. "You understand, of course, that our people will see the need to match your forces here."
+
+"Expected," Jaromila said. "We hope this will not strain your forces overmuch considering that you are still at war."
+
+"If we may convince the comital clans present to assign the forces necessary, it may defray any strain on the White Plumes," Gan Guangli said thoughtfully. "Given their mood, they should be amenable."
+
+There was a strong air of solidarity among the comital clans at this point, Ling Qi had observed. She had felt it while sitting out on the veranda of the medical pavilion, observing the soldiers who were recuperating there as well. Cai Renxiang had led them well by their measure, and dealing with the rebel Meng together had turned hearts toward pride in solidarity. It might be a sentiment only present among the lower realm commoners, but she did not wholly think so.
+
+"That would be helpful. Speak with them when we are finished, Gan Guangli," Cai Renxiang ordered. "As previously mentioned, the White Sky’s prompt help with the incident should smooth tempers as well. Now, it is time to share your information as well."
+
+"My report on your ith—the maggot men—will be ready when the open meeting commences," Dzintara replied. "The scholars have turned up a few runes which are useful against their poison as well. We will add this to the basic sharing agreement in good faith."
+
+It would gain the White Sky good will and cost them little. A formation or two specialized in combating impurity could hardly be used to hurt the White Sky.
+
+"Generous," Cai Renxiang said. "Are there any other requests you wish to make that we should know of beforehand?"
+
+Inzha inclined her head. "The priests will want their temples to be bigger and more fortified, but we may wrap that with their infrastructure requests. The rest, I think, may be handled internally."
+
+"Good. I would like to speak on this settlement then," Ling Qi said. "While it will need to be segregated with your community walled from ours for now, it is important that it be officially recognized. In our land, true settlements receive charters, an official recognition as places of large settlement."
+
+A charter was part and parcel with a baron’s title. With the title came the right to found a town. Smaller villages could be added later, but that required more paperwork to ensure that the imperial tax system functioned smoothly. The area around Lake Snowblossom already had its charter, and it was currently set under Cai Renxiang's direct control.
+
+"We will be seeking to have this embassy town be given one. Is there an equivalent official recognition among your people?"
+
+"There is," Rostam said. "If we are bringing in a whole temple staff, most of the requirements are already fulfilled."
+
+"True," Dzintara said sourly. "I believe this is doable."
+
+"Yes," Jaromila agreed. "With the Sentinel and her temple, it will not be difficult to argue for sanctification."
+
+"Then please warm your people to the idea," Ling Qi said.
+
+"As we will ours," Cai Renxiang added.
+
+"Recent incident aside, this summit has been more profitable than imagined," Dzintara stated gruffly.
+
+"We are looking forward to further exchanges of knowledge," Inzha said.
+
+Rostam chuckled. "Let us try to keep things less exciting though, eh?"
+
+"We are pleased that this untoward incident can be put behind us," Cai Renxiang said. "Thank you, honored guests."
+
+"Indeed. It is my hope that we can wrap up these negotiations well and swiftly." Jaromila rose to her feet. Cai Renxiang and Gan Guangli followed suit. "And it is my hope that we might have more peaceful talks in the future, Emissary Ling Qi. I understand that you were pivotal in the resolution. I wish you a swift recovery."
+
+"As do I," Dzintara said. "I wonder how many like you there are, putting out fires in your province."
+
+Ling Qi inclined her head as well as she was able. "More than a few, I am sure."
+
+With a few more pleasantries, the White Sky emissaries took their leave.

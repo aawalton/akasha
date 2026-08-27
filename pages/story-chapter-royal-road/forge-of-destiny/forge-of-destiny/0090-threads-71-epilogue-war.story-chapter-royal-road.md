@@ -1,0 +1,45 @@
+---
+id: 29967bcd-326a-5457-97ed-83477cda1f69
+page-type-slug: story-chapter-royal-road
+title: "Threads 71- Epilogue-War"
+slug: 0090-threads-71-epilogue-war
+partOf: forge-of-destiny
+position: 90
+ownLength: 1038
+unit: words
+publishedAt: 2021-04-08
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/660830/threads-71--epilogue-war"
+royalRoadId: "660830"
+---
+
+There were no caskets at the funeral service.
+
+Some families had requested the remains be sent back to their estates, but those who remained in the Sect’s care had been given the usual treatment. Their bodies had been destroyed. The foul things that could be done with a cultivator’s corpse were more than enough reason for tradition to reign. For those who could see the spirit, there were no illusions about the value of an empty shell to the fallen.
+
+Instead, deep in a misty valley of pacified spirits between the Inner Sect mountains, there was a series of great monoliths of white jade on which names were carved, each name glittering a color of the rainbow. Elder Guan Zhou’s name blazed violet, dark and brooding, but his had not been the only name carved today. Seventeen names in pale and faded green marked the monolith, fifty eight in ephemeral yellow, and one hundred and sixty four names in dull and somber red. Ling Qi had not heard anyone count the mortal casualties.
+
+Ling Qi still felt awful for the flood of relief that had filled her when she had seen that there were no names which she recognized on the list of the fallen, Disciple Deng aside. Standing among the ranks of the Inner Sect as a long line of people spoke of the fallen and of their deeds and lives only made her feel worse, reminding her with every word that each one of them had been a person whose life was now so much dust. By the end, she almost missed the sound of a wooden cane cracking against the stone dais for the speakers.
+
+Sect Head Yuan He looked old, mounting the steps. It was not the deep wrinkles on his face nor the whiteness of his hair and beard. Those had not changed, but something in his posture had. There was a droop in his still powerful shoulders, and for once, his cane seemed like it was truly an elderly man’s crutch. All the same, the Sect Head’s aura could not be ignored. Ling Qi found her head rising as the tap of his cane on the stone repeated with each step mounted.
+
+The rain was coming from him, Ling Qi realized. Since the start of the ceremony, a fine rain had been falling from the grey sky overhead. Yet now, looking upon Sect Head Yuan, she realized that the clouds and the man were one and the same. Bent and aged as he appeared in this moment, power emanated from his withered frame, a rising column that spread into the sky above.
+
+“Guan Zhou was amongst the finest of men to have ever risen from this Sect.” Yuan He’s voice remained rich and easily heard throughout the valley as he turned to face them atop the memorial dais. “He was the son of Guan Zhong, my blood brother and the man who stood beside me until the last against the wrath of the scourge Ogodei.”
+
+Thunder rumbled, and lightning flashed in the sky. In the afterimage of the flash, she saw, for just a moment, the face of a jolly, barrel chested man with a luxuriant black beard standing behind the Sect Head, the potency of Yuan He’s soul enough to impress images upon the world.
+
+“He was, in many ways, a son to me.” The Sect Head’s eyes drifted shut, even as the grip on the cane in his hand grew white-knuckled. “And I could not have been prouder of his achievements. Over a dozen brewing major incursions were broken by his hands, and countless towns and villages have known over the centuries that the sight of his back meant that their safety was assured.”
+
+In the flash of the lightning, Ling Qi saw the silhouette of her old teacher standing in the sky, his arms folded behind his back. His lessons seemed so long ago now, but Ling Qi felt a tightness in her chest all the same. Taciturn and demanding a teacher as he had been, he had also been among the first to encourage her and offer words of approval for her efforts.
+
+“Guan Zhou was a man of impeccable honor, a soldier who never bent under the weight of duty, and a commander who saw that his men’s every need was seen to and their lives never spent unwisely. It had been my hope that one day, he would bear the duties which now lie upon my back.” Yuan He’s sorrow felt infectious, spreading through the aura that lay across them all.
+
+“But, my disciples, though this is a time of mourning, it must, by needs, also be a time of preparation.” Sect Head Yuan straightened on the raised platform of marble and jade.
+
+“The time for competition and games among yourselves is over.” Sparks erupted from his lips as he spoke, dancing through the air, and thunder rumbled in his every word, tinged with righteous fury. Behind his eyelids, power glowed through the feeble skein of mortal flesh, straining the lie of Yuan He’s body. “As of today, the challenge system is suspended. Sect services will continue, but your rank will be determined by your contributions to the Sect. There is no need for such proxy conflicts at this time.”
+
+Overhead, the clouds stirred and swirled, growing dark. Not a single disciple dared even breathe a murmur of discontent. Ling Qi glanced at the back of her liege’s head. What that meant for them and the Duchess’ challenge, she was not sure, but she could not imagine that Cai Shenhua would let a little thing like a border war alter the parameters.
+
+“You will have time as the Sect prepares and plans for the days ahead. I suggest you use them well. Those of you who were injured, take the time to recover and reflect on your battles. Those of you who were not, gird yourselves for such trials. We must all be ready for the days to come.” Ling Qi felt an electric tingle in her nerves with each word, an infinitely small fraction of the Sect Head’s power straightening her spine and clearing her mind.
+
+“The Sect will not allow this insult to stand.”

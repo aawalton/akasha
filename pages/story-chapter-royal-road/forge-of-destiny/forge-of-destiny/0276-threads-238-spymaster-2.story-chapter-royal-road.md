@@ -1,0 +1,143 @@
+---
+id: 2c8091b0-5b41-54e4-92a9-cfa099d3a31b
+page-type-slug: story-chapter-royal-road
+title: "Threads 238 Spymaster 2"
+slug: 0276-threads-238-spymaster-2
+partOf: forge-of-destiny
+position: 276
+ownLength: 1829
+unit: words
+publishedAt: 2022-08-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/972553/threads-238-spymaster-2"
+royalRoadId: "972553"
+---
+
+Ling Qi reached up and flicked the cat-xiang’s nose, making them recoil. “I’ve just been thinking about what family really means. Everyone treats the connection as important. Even our doubters grudgingly acknowledge that some ancient marriage gives us a veil of legitimacy. That tapestry we found is going to sell for enough to fund the start up of a whole town. But you know from talking to my friends and watching people that not a lot of people seem to value it. A clan, especially a big one, isn’t a family, although it might have families in it.”
+
+“Seems like a harsh view on it. What’s that got to do with this?”
+
+“I feel like it's not really different. We all organize ourselves by family, but family isn’t necessarily blood. It isn’t even really exclusive. I consider Meizhen like a sister, and even if she won’t admit it, she feels the same, but her aunt never would. You can be part of several families, and they can only sort of overlap.”
+
+“Ah, the same as you were thinking about with the folks at your house.”
+
+“Right. Those people are important to my mother. I won’t pretend they mean that much to me, but I care a little anyway because of her.” Ling Qi rapidly read through the letter and set aside the next. This one was a response from Wang Lian now that they had a site in mind for settlement. Soon, a branch would come off the road the Sect was building toward their site to connect them.
+
+“So you're thinking of this as people choosing to connect up to a bigger family?” Sixiang asked. “Most of ‘em will never meet though.”
+
+“Isn’t that fine? I can’t do that. I don’t think like that. But I don’t think it's a bad idea.”
+
+Each person only cared about a small number of others in her experience, but those groups overlapped. When enough did, you got a community. The trouble came with people who didn’t fall into circles or who fell into very few circles, places where there was no overlap, and thus, they had no understanding of others.
+
+Was it really bad for there to be a story that many people could invest in? The Empire was that already in some ways, but…
+
+“I can see why you’d not want to say that out loud,” Sixiang drawled. “But I’m sorry for distracting you. Are you actually going to reply to each of these by hand? There’s a ton of ‘em.”
+
+“I was thinking of involving Mother for responding to some of the merchants and ministry employees. I think she’d like to have more to do.”
+
+“That you don’t want to write them all’s got nothin to do with it, of course.” Sixiang laughed. Their feline form twisted, reshaping back into a fairy-sized Sixiang perched on her shoulder.
+
+“The true sign of a good leader is the ability to trick everyone else into doing the work while taking all the credit,” Ling Qi said primly.
+
+“Don’t let your boss hear that.”
+
+“I know. I already listened to her deconstruct the whole work that line came from.” Ling Qi rolled her eyes. “It was just a book of funny little sketches about the ministries. I had no idea she’d take it so seriously.”
+
+Sixiang gave her a look. Ling Qi looked away first. “... Okay. So I might have been teasing her….”
+
+In the silence that followed, more letters were read, and Ling Qi sketched out further notes of her own in a lazy hand, organizing what information was relevant and what would need to go into the responses.
+
+“This all still feels overwhelming,” Ling Qi said absently, tucking another finished letter into storage. Her ring was beginning to resemble the storage ring of that Hui on the inside. “Building communications with so many people is difficult, no matter how surface level most of it is.”
+
+Sixiang blew out a sigh. “Yeah. I gotta admit, this is not what I picture when I think of being a spymaster.”
+
+“It's a lot like soldiering.” Hou Zhuang’s notes had put it succinctly. Intrigue was ninety percent simple pleasant conversations and correspondence and only ten percent daring escapades.
+
+“Still, I should probably pick a place to focus on building a network first.”
+
+“What’s this? Accepting a limit?” Sixiang asked in mock disbelief. “Have you abandoned your pursuit of the heavens, cultivator?”
+
+Ling Qi huffed. “I have too many things to do. I should start with building contacts in the southern Meng lands. It will help Hanyi’s concerts gain greater penetration, it would help with the Meng reformers’ efforts, which I committed to assist and would want to promote anyway in the Meng clan, and it’s a relatively unestablished area so I shouldn’t be competing with too many other networks there. What do you think?”
+
+“What would I know?” Sixiang asked innocently.
+
+“I know you’ve been paying attention, even if you don’t look like it.”
+
+“Central valley would be my suggestion.” Sixiang shrugged. “It’s in the name. It's central. Almost everything going down in the south goes through there at some point. Might take longer to see results though since you’ll be competing with established networks.”
+
+“You’re not wrong. It might be better in the long term to start there.” Ling Qi sighed. “Ugh, is it tomorrow yet?”
+
+“Looking forward to going out with Su Ling and me that much?” Sixiang grinned.
+
+“Compared to this, definitely.” Ling Qi placed down the newest letter and rubbed her temples. “There’s just… so much there to see.”
+
+“I get you. But business first, yeah?”
+
+Sixiang then paused, dawning horror on their face at the words they had spoken. Ling Qi let out an unladylike snort of laughter. Truly, she had corrupted her spirit with the impurity of this base earth.
+
+“I think you might be right though,” Ling Qi thought aloud.
+
+“No, no, I’m obviously wrong, you evil, evil girl.”
+
+“Not about that,” Ling Qi snickered. “I mean about the Central Valley. Meng Diu and Meng Dan are really good contacts, but at the same time, I can’t look at the province too narrowly.”
+
+“Yeah, you dunno how that business will turn out. Don’t put all the eggs in one basket,”” Sixiang agreed, perking up from their brief depression. “Besides, you might find some interesting folks out that way too.”
+
+“I don’t know about that. We’ll have to see how the meeting with that Diao woman goes on our trip north.” Ling Qi tapped on her desk thoughtfully. “I’ve been looking into information on the ministries, but I’d like to hear what she tells me and compare it to what I’ve read.”
+
+“Probably smart,” Sixiang drawled. “I doubt she’ll lie to you, but you don’t have to be lying to misdirect someone.”
+
+“You don’t even have to be trying to misdirect.” Ling Qi picked up the last of the letters. “Perspective.”
+
+“Perspective,” Sixiang repeated, flopping back to stare up at the ceiling. “You think this trip is actually going to help Su Ling?”
+
+Ling Qi held back a grimace, finishing the letter. “I don’t know. I made the offer on impulse. I wanted to do something to help.”
+
+“That sounds about right. It’ll depend a lot on her. We can be guides and make sure she doesn’t step in any proverbial pits…”
+
+“But she knows what she’s looking for, if anything,” Ling Qi finished. “I hope…”
+
+She trailed off, not sure how to articulate her tangled thoughts.
+
+“You don’t want to stand against what she wants to do with herself, but you can’t shake the feeling she might be making a mistake?” Sixiang offered.
+
+“I can’t make choices for her. I just want her to know as much as she can before she makes any choices she can’t take back,” Ling Qi agreed. “I almost feel like I’m overstepping, doing even this much.”
+
+“If you were overstepping, she’d have said so. Not a girl who’d hold back on telling someone to butt out, that one.”
+
+“I guess so,” Ling Qi said, putting aside the last of the letters. “Either way, we’ll see if this does any good soon.”
+
+***
+
+“Well, isn’t this a cozy little spot?” Su Ling looked over the fallen cliffside shrine where Ling Qi had led her.
+
+“It’s the place where I first spoke clearly to the faces the Moon decided to show me,” Ling Qi said seriously. “I decided that made it the best place to cross over for serious trips.”
+
+Su Ling took a deep breath, and her ears twitched in agitation. “You aren’t wrong. I can feel something in the air here. It feels like I can see the stars in the middle of the day.”
+
+Ling Qi inhaled deeply of the crisp winter air and nodded. It wasn’t a cultivation site full of energies that could be bent to her will and converted to her own power, but there was something subtler than that here. She wondered what site she would use once they left the Sect. Perhaps she wouldn’t need the crutch by then.
+
+“C’mon, quit your dawdling,” Sixiang shouted back to them. They had manifested in the center of the clearing, crouched over the labyrinth gate. Faint, unreadable shapes drifted in the mist which wafted from within the metal ring.
+
+Ling Qi took the cue to approach, materializing the gate’s paired talisman, the compass. Its crystalline surface rippled with a slow shifting of colors throughout the spectrum, indicating a calm in the flows of dream. That was good.
+
+Su Ling followed a step after, her arms crossed over her chest as she peered around Ling Qi’s side at the glimmering compass. “That a good sign?”
+
+“Calm waters ahead,” Ling Qi agreed. “Though this only goes for our immediate surroundings.”
+
+“Right. We’re obviously going to end up chased by a wall of angry ghosts again later,” Su Ling joked semi-seriously.
+
+“Nightmares, more like,” Ling Qi said impishly, nudging the labyrinth gate a centimeter to the right with her foot to better align with the energy of the clearing.
+
+“Nightmares. Of course.” Su Ling sighed. “That shoulda been obvious.”
+
+Ling Qi paused. “Su Ling, I know we joke a lot, but you don’t have to do this.”
+
+“I know that,” she replied grumpily, stepping up to the ring. Su Ling gave Sixiang’s manifestation a glance, and the muse grinned back. “Look, if I didn’t want to be here, I wouldn’t be, alright? I know I’m still ignorant. So if you got a way to scout information out, let's do it.”
+
+Ling Qi nodded once and offered her hand. “I’m still pretty new, so this will go better if you take my hand.”
+
+Su Ling snorted but grasped her hand. The other girl's hand was hard and calloused despite her cultivation. She took pride in that.
+
+Ling Qi readied herself. This was a step further than simply skimming the border the way she had with Yu Nuan.
+
+They stepped through the gate.

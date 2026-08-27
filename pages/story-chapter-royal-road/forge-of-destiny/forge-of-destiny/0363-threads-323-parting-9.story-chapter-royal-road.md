@@ -1,0 +1,143 @@
+---
+id: 5a5ec746-5c5c-5106-b673-5dd80a1ffd3d
+page-type-slug: story-chapter-royal-road
+title: "Threads 323 parting 9"
+slug: 0363-threads-323-parting-9
+partOf: forge-of-destiny
+position: 363
+ownLength: 2309
+unit: words
+publishedAt: 2023-07-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1288153/threads-323-parting-9"
+royalRoadId: "1288153"
+---
+
+Ling Qi blew away the steam rising from the cup in her hand. She sat by a low table on a thick woolen cushion.
+
+This was the least visually offensive room in Elder Jiao’s manor thus far. The table was surrounded by dense shelves, interspersed with little silver and glass tables which each held a lantern lit by a pale blue, ghostly flame. The table she sat by was polished ebony, topped with dark green, nearly black, jade. She could almost see her reflection in the shine.
+
+“Yes, I decorated this room,” Xin answered her unspoken question. She sipped from the cup in her hand.
+
+“If you wish to be boring, that is your business.” Elder Jiao lounged as if seated on a couch set back from the table where Xin and Ling Qi sat with his own cup in his hands.
+
+Ling Qi decided not to comment. “What blend is this? I’ve never drank tea with such a bitter scent.”
+
+“Because it’s not tea. It’s some foreign drink imported by the Xuan. Appropriate for your nonsense, no?” Elder Jiao drawled. “And besides, it has a good bite.”
+
+Ling Qi raised her eyebrows. This tea was probably hellishly expensive then. There was a certain mix of qi in the dark, almost muddy, liquid, too. An earth-heaven mixture. How strange. She raised the cup to her lips, sipped, and immediately blanched, her face scrunching up at the horribly bitter flavor.
+
+Xin sighed. “Do add some milk, dear. The raw flavor isn’t for everyone.”
+
+Ling Qi coughed into her sleeve, set the cup down, and hurried to do so from the chilled silver pot on the table.
+
+Elder Jiao smirked at her from behind his cup. “Foreign goods have always trickled in without notice or high attention. But the unfamiliar is a bitter pill for many to swallow.”
+
+Ling Qi narrowed her eyes at him. “Elder Jiao is wise.”
+
+The elder snorted. “I am no such thing. The word you are looking for is ‘experienced,’ girl. You cultivate that old spirit-speaking art, don’t you?”
+
+She blinked at the non-sequitur, using a little spoon to stir milk into the strange drink. “I do. I’ve been cultivating it whenever I can spare a moment since it seems to me that high cultivators and spirits are not so different.”
+
+“Correct, though it's impolitic and rude to say it.” Elder Jiao tsked. “Going by the fluctuation in your meridians, you’ve been looking into the lessons on harm mitigation. Why?”
+
+Ling Qi considered the question. “A spirit does not need to be malicious or predatory to do harm to lower realms. It seems to me that this is also true of people, high realm or no. I thought it might be useful to meditate on the lessons in dispersing dense qi pressure around the user and her companions.”
+
+She thought of all the high realms involved in the upcoming summit. Not one of them outright wished her harm and failure, but all the same, they threatened her project in many ways simply by being who they were and their inability to view the world outside of their already extant understanding of the world they lived in.
+
+“It is a good lesson to internalize how to recognize harm without malice. There is a difference in mindset needed to deflect and disperse what is not an attack but which may crush others regardless,” Xin said. “While I find results matter most, intent does matter. Without understanding your opponent’s mind, producing the outcome you wish for is more difficult.”
+
+Elder Jiao rolled his eyes. “Tinkering with old and abandoned things for parts will not earn much respect.”
+
+“I think,” Ling Qi said, “the key to that is making your new idea appear to be sourced in older ones. People do it all the time.”
+
+He smirked. “True enough. Cao Chun. What do you know about him?”
+
+“He is a storied inspector and respected hero in the Celestial Peaks, a retired but formerly high ranked member of the Ministry of Integrity. He respects our desire to make the border safe for our people, but little else, I suspect. He seems very invested in inspecting Hui formation craft at the embassy.”
+
+“Of course he is. His last duty was rooting out the sleeper cells left in their wake, as part of the terms in dealing with the new duchess.”
+
+“Sleeper?” Ling Qi wondered.
+
+“Cultivators and mortals left with deeply implanted mental suggestions and formation bindings, unaware of the effect they are under,” Xin answered. “It was an ugly business.”
+
+“There is a reason the throne backed that woman. An and I were already developing plans to collapse the Hui. What we saw in the Ogodei incursion could allow nothing else. Our method, though, would have broken this province as its own entity.”
+
+“I’m not sure I want to know that,” Ling Qi said flatly.
+
+Elder Jiao snorted. “That sounds like a you problem.”
+
+“It is certainly not something you’ll want to blurt out, but it is also not… hm, actionable, dear. He wouldn’t have said it otherwise,” Xin said.
+
+Elder Jiao harumphed and took a deep drink from his cup. “Cao Chun. Not one of my direct students or companions on the path of integrity. Too young. He is from the first generation of apprentices though. He was a boy from a low branch of the Cao clan, rescued from a furnace cult that had grown among their branch clans, though you’ll find no record of that.”
+
+Before Ling Qi could speak it, Xin answered her question.
+
+“Furnace cults were an ideology and method, born in the second dynasty among the Peaks, which professes that human cultivation materials are superior to spirit stones or beast sourced materials.” Xin’s usual faint cheer was replaced with a more clinical tone. “It professes that only those of the most superior talent and skill should cultivate for themselves, and that those below them exist to fuel such cultivation. The world may be set to right and human life carried forward only when all have been made one in the persons of a few exalted individuals.”
+
+“Human spirit stones, pah.” Jiao grunted. “Tainted, filthy nonsense. There are only a handful of paths one could cultivate with those, and not one of them should ever be written into the world. The point, girl, is that Cao Chun is a man who is both unshakably righteous and doggedly cynical. He sees those insisting that the current way of the world is wrong through the lens of the zealous cult he was pulled from. He holds rigidly to imperial orthodoxy because we are the ones who stamped all such nonsense down into the lowest and furthest gutters.”
+
+“You didn’t stamp it out entirely?” Ling Qi asked, horrified. She understood in reading between the lines of recent history that the Celestial Peaks had had serious problems before the establishment of the Ministry of Integrity but…
+
+“We tried.” He fixed her with a gimlet look. “But it is not only good ideas which are difficult to kill.”
+
+“Appeals to individual virtue are unlikely to resonate,” Xin advised. “Sentiment even less so. He sees the world in systems. People are virtuous only through constraint and ritual and tradition. Foreign or questioning elements inherently weaken the system of virtue which separates men from beasts, no matter their intention.”
+
+So, he was similar to Cai Renxiang then? Or… No, that was a disservice to her liege. They approached similar conclusions from different directions. Renxiang saw clearly defined law and systemic solutions as the best means to reach her end. It seemed that Cao Chun saw such a hard system as an end unto itself.
+
+“It seems like it will be impossible to fully sway him then. Our goals are misaligned.”
+
+“Quick. You’re not bothering to waste time agonizing over the idea that you can’t be everyone’s friend. You’ve grown a little, better than I expected with what I can see you cultivating,” Elder Jiao said.
+
+“I am going to be condescended to by a lot of people, aren’t I?” Ling Qi asked, resigned. “I want to understand. I want to be understood. There is nothing about that which precludes me from recognizing an enemy and opposing them, but still, people will think that.”
+
+Elder Jiao met her eyes, and she did not lower her head or look away. Let him see the truth of her conviction.
+
+“You will be. Understanding, as you put it, is a trait which most will see as inherently weak and compromising. It most often is, after all. The domain of mealy-mouthed courtiers seeking to slide between arguments while never once committing to any position is well known in the empire.”
+
+That wasn’t fair. But she already knew the lie of fairness.
+
+“My husband is being too negative again. Show your own convictions. Show that you have positions, and such thrown mud will slide off of you when you speak in person, lingering only in rumor.”
+
+The elder continued as if he had not been interrupted. “He is ultimately an enemy. But there are degrees and his tools are limited. Recognize the parameters of the battle you are in.”
+
+Ling Qi considered this. Even if she could recognize him as, ultimately, an opponent, the man himself would not see it that way. He would not order active sabotage or skullduggery… Maybe he would do so against the White Sky if he thought it justified, but that was a stretch. Similarly, he could not unilaterally strike down her lady’s initiatives and proposals. There were shades of imperial authority.
+
+“Good. You’re starting to think. His weapons will be censure and disapproval when he perceives you as overstepping. It is not you who will be the target, but…”
+
+“The counts,” Ling Qi realized. “And if they are riled enough, the duchess may decide we have overdrawn our political budget.” It was a sour thought, but she knew that despite her certainty of the summit’s importance to her province’s future peace and prosperity, this was ultimately an indulgence given to a successful heir.
+
+“At the same time, the ministry has its own factions,” Xin said. “That was so even when we were there.”
+
+“Oh, I’ve no doubt the little cliques have spread and bloomed.” Elder Jiao sneered. “Be watchful, and if any are too overt, well, that is a different battle, and different battles have different enemies and allies.”
+
+Ling Qi sincerely hoped that would not come to pass. But if at any point she gained evidence of active sabotage, Cao Chun would not be the sort of man to hide or deny clear evidence. He might wish to keep it quiet, but such a perpetrator would be punished.
+
+“I would expect troublesome activities to be espionage on our guests,” Xin said. “This may be offensive to your potential allies.”
+
+Ling Qi was probably overthinking potential disasters. “We have already begun pushing for something like the Xuan’s foreign quarter. We intend to present a working blueprint of that, stripped down to the mechanical aspects. Do you think that would be a goal  Cao Chun could be sold on?”
+
+“If you frame it correctly. Some see the Xuan as barely better than barbarians themselves with the distance they keep to the rest of the empire. Cao Chun is not one of them, but he might be influenced by that rhetoric.”
+
+“Wayward, and not foreign,” Xin finished. “If I might add a suggestion, some implication that imperial ways might spread will help you. That man’s pride does not lie in himself but in institutions, and he truly believes imperial ways and means bring the greatest safety and happiness.”
+
+Ling Qi found that idea slightly distasteful, but if it was an angle to be worked, it was what it was. She could understand it a little. They were enemies in their current aims, but they were both imperial.
+
+No wonder rulers seemed a little mad to her. Renxiang’s obsession with responsibility made sense. There were so many moving parts and conflicting interests the moment she stepped back further than immediate family.
+
+“Ugh, such an annoying topic. Girl, your art. What is it you are seeking from it?” Jiao demanded.
+
+She blinked at the swap of subject again, taking a long sip from the now cooler drink. She had added a lot of milk while they were talking. It was still bitter, but palatable now. “Long term, I want to purchase the art from the sect for use in my fief. I have seen a few methods, but I prefer it for spirit negotiations. And I suspect I will be the head priestess at our Snowblossom for some time. I think it would be good to be able to lead processions and acclimate the spirits there to mortals and vice versa.”
+
+“Terrifying,” the Elder deadpanned. “I feel sorry for the poor fools you are going to lead off to dance in the woods with mad fairies.”
+
+Ling Qi scrunched up her nose and gave him an unimpressed look.
+
+“It’s a bit ambitious, but within your rights as a baron,” Xin said soothingly. “The Ministry of Spiritual Affairs may balk a bit though. Hmm, you children are going to be working close to the ground for some time, aren’t you?”
+
+“There’s too much work to do otherwise,” Ling Qi said. She suddenly realized that she would have to apply these lessons even to herself and her bound spirits. It wasn’t only the beasts of the wild that could be frightening to mortals or other lower realms.
+
+“Jiao.” Xin looked meaningfully at her husband.
+
+“Go ahead,” he grumbled. “I’ve already spent too much time today reflecting on ugly things.”
+
+The moon spirit smiled. “Allow me to offer some advice on the more physical parts of what you are studying. There are a few avenues by which that art is followed.”

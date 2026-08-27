@@ -1,0 +1,155 @@
+---
+id: 33b42ad9-7e3a-56d9-865b-ebedb77e138a
+page-type-slug: story-chapter-royal-road
+title: "Threads 225-Family 5"
+slug: 0259-threads-225-family-5
+partOf: forge-of-destiny
+position: 259
+ownLength: 1983
+unit: words
+publishedAt: 2022-06-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/931874/threads-225-family-5"
+royalRoadId: "931874"
+---
+
+“I get your interest with these two, but I’m not sure what I have to do with this,” Su Ling said warily.
+
+Ling Qi held in a sigh. Even if her friend had gotten better at socializing, Su Ling was still very blunt.
+
+Diao Hualing showed no sign of offense as they descended the steps. “It is true. Your small talents are not my primary purpose here. Nonetheless, it has some value. The Diao, like most clans in the Emerald Seas, have some traditions of divination. Pyromancy, to be exact. It interests us that these old and defunct arts have value in the modern day.”
+
+Su Ling mulled that over. “Alright.”
+
+Ling Qi was surprised at Diao Hualing’s own bluntness, but she supposed the older woman must simply have been able to read Su Ling well. She examined Diao Hualing out of the corner of her eye, wondering what she was after. Ling Qi had intended to try and speak with some of the Diao tonight at the Duchess’ gathering. Had someone gotten wind of that and decided to pre-empt her?
+
+“It is important for us to be able to show the proper support for the war effort. As one of the premier clans of the Emerald Seas, it is unacceptable for others to contribute more than we.”
+
+“No one doubts the integrity and dedication of the Diao clan,” Ling Qi said.
+
+The plaza disappeared into the mist above them, more of the stairs to the base of the mountain revealing themselves as the four of them descended.
+
+“Certainly,” Diao Hualing agreed.
+
+“If you do not mind my question, what is it about my humble crafts which draw such illustrious eyes?” Li Suyin asked nervously. Ling Qi could tell her friend was trying not to wring her hands.
+
+“You are pioneering a new field,” Diao Hualing pointed out. The faint ring of her hair ornaments echoed as they walked. “We may have an interest in some commissions. As of yet, no one else can quite provide the products you do.”
+
+For the rest of the descent, they kept up the careful dance of small talk and pleasantries. Diao Hualing was unfailingly polite, and the discussion mostly centered around Li Suyin’s work. Neither Ling Qi nor Su Ling were much inclined to steer the conversation their way.
+
+When they reached the gathering grounds and the main body of the guests, Ling Qi continued to observe their guest while taking Li Suyin around like she’d intended. Diao Hualing fulfilled her tacit promise without complaint, offering a few small words in Li Suyin’s favor and pointedly deflecting attention from herself toward the one meant to be the focus.
+
+She did notice, however, that in the midst of discussing a commission for Suyin with a middle-aged baron of the central valley, Diao Hualing fell back beside Su Ling and spoke words cloaked by faint birdsong and blowing wind. Their expressions and body language seemed neutral until Su Ling stepped away, looking a little discomfited.
+
+This happened again when Ling Qi and Su Ling were speaking with an officer of a viscount’s household guard on their experiences with the inhabitants of the underground. Birdsong, wind, and concealing qi ended with a thoughtful Li Suyin rejoining them when the conversation was over.
+
+It didn’t seem untoward. Even a closer check by Sixiang revealed only a very potent screening technique. Still, it put Ling Qi on edge.
+
+Eventually, there came a moment when Li Suyin and Su Ling both stopped to observe a performance being put on in a noble’s pavilion. Li Suyin was rather more enthusiastic about it, something about it being a rendition of a classic play, but Su Ling, as was her way, seemed happy enough to humor her.
+
+Ling Qi didn’t turn her head, instead peering out of the corner of her eye as Diao Hualing came to stand beside her.
+
+“My turn then?” Ling Qi asked politely.
+
+“As you like,” Diao Hualing replied with a faint incline of her head. “However good friends you might be, it is more polite for some discussions to be private.”
+
+“And if we choose to discuss things among ourselves anyway?” Ling Qi asked with a hint of challenge.
+
+“Then that is your private choice.”
+
+Ling Qi silently requested Sixiang put their full effort into deciphering the other woman’s intentions. “As you say. I am aware that I have not made the best impression upon the Diao clan.”
+
+Diao Hualing acknowledged this with a nod. “It is not so terrible. Your actions in court mean we must oppose your rhetoric, but we understand the need for Her Grace to demand near impossible tasks of the heiress. That is the nature of the throne.”
+
+“If that is how it must be. I do mean it sincerely when I say that I mean no offense to the Diao clan.”
+
+“Perhaps, but your words and actions, so easily extending kinship to barbarians, cannot be accepted by us. The path to being a son or daughter of the Empire cannot be so easy. It is more than some tenuous tie of blood ten thousand years gone.”
+
+“I understand your position, but that path needs to begin somewhere,” Ling Qi replied evenly. She watched her friends, Suyin enjoying the show on the stage and Su Ling warily eyeing everyone who got too close. “I hope this does not lead to serious conflict.”
+
+“We will see. For now, no one sensible wishes to directly oppose your project. It is my hope that these differences between the heiress and the Diao can be smoothed over. To this end, I have an offer.”
+
+“I am always willing to listen to reasonable words.”
+
+Diao Hualing smiled faintly, taking her words with good humor. Sixiang thought her reaction was genuine. “I am an investigator for the Ministry of Law in the Central Valley. Your case has come to my attention.”
+
+“Has it?” Ling Qi asked warily. ”I am surprised that such a minor issue would reach you.”
+
+“Baroness Ling is inexperienced in some ways. Tampering with the Ministry of Communications is actually a serious matter. To do so for something so petty indicates a culprit who is, let us say, arrogant or inexperienced themselves.”
+
+“I will trust your experience,” Ling Qi said slowly. “What is your proposal?”
+
+“Work with me on this case. I am aware that you have some interest in delving into the matter specifically. I can provide you with my experience in navigating the Ministry of Law and a small introduction to my elders tonight at the Duchess’ gathering.”
+
+Ling Qi eyed the other woman, considering her words. Sixiang didn’t detect any direct deception, but there was certainly more to the offer.
+
+“Your earlier words implied a reciprocal arrangement, but so far it seems as if you are offering a gift,” Ling Qi said, choosing her words carefully to remain polite.
+
+Diao Hualing’s expression did not change, but she did fold her arms behind her back. “You are in a somewhat unique position. It would please me if we were able to become regular correspondents, even after this matter is dealt with. I would not expect you to hide this from your liege, but otherwise, discretion would be appreciated. It would be some comfort to the Diao, or at least, my family, if we are allowed a small window into your lady’s thoughts.”
+
+Ah, Ling Qi thought. So this was how one acquired people like those in Hou Zhuang’s meticulous lists. “I see. That does seem reciprocal. I hope you do not need an answer immediately.”
+
+“No. An answer by tonight, when you have had a chance to review the offer, would be sufficient.” Diao Hualing turned her attention back to Su Ling and Li Suyin. “The show is ending.”
+
+“So it is.”
+
+Ling Qi thought over the conversation as they rejoined Li Suyin and Su Ling.
+
+“It has been an enjoyable time, Baronesses,” Diao Hualing said as they left the noble’s pavilion. “I hope that you will excuse me now.”
+
+They all shared their pleasantries, and Diao Hualing made her exit, leaving them standing off to the side of the main path between pavilions and manses to avoid disrupting the traffic.
+
+Su Ling was the one who spoke up first. “So… That’s the kinda thing you gotta deal with every day, Ling Qi?”
+
+“Some more polite. Some less.”
+
+“I think Lady Diao is well intentioned,” Li Suyin said. “I believe I will take her up on the offered commission.”
+
+“She knew where I was from,” Su Ling revealed.
+
+Ling Qi’s eyebrows rose. “Why did that come up?”
+
+“She offered to introduce me to some people who might know some information I’d be interested in,” Su Ling bit out grudgingly.
+
+Ling QI nodded slowly, not expecting Su Ling to say anything more in this semi-public space. “And what did she want from you?”
+
+“Would you believe she wanted me to meet her younger brother?” Su Ling asked with a barked laugh. “Fuck, I don’t even know what I don’t know. Something is up here.”
+
+Ling Qi grimaced. That was weird. No offense to Su Ling, but she wasn’t that tier of talent. “I don’t know if I could get more information. She seems like the sort to compartmentalize her dealings.”
+
+“No,” Su Ling waved her off. “You’ve got enough on your plate, but—”
+
+“But?” Li Suyin asked worriedly.
+
+“But I’d appreciate it if I could tag along to your next music group meetup. Wanna talk to that Bian girl and her buddy again,” Su Ling said. “I wasn’t listening much last time we talked.”
+
+“Sure,” Ling Qi said reassuringly, giving the other girl a pat on the shoulder.
+
+<We might be able to help her out more than that,> Sixiang offered tentatively. <Sometimes, it’s easier to seek out secrets and other information on the other side. We could take her on a trip.>
+
+Ling Qidoubted Su Ling would accept a “Ling Qi adventure” under normal circumstances, but these weren’t normal circumstances.
+
+“Su Ling, I might be able to help more if you’re willing.”
+
+Su Ling gave her a wary look. “What are you talking about, Ling Qi?”
+
+“I’m a bit better at it than I was underground,” Ling Qi said casually. Her dream walking ability wasn’t  a secret, but she also wasn’t widely advertising it yet.
+
+Su Ling furrowed her brow, trying to discern what she was talking about, and Ling Qi saw the moment when understanding dawned. Li Suyin just looked at them with polite confusion.
+
+“Not sure how that’s gonna help.”
+
+“You can find information there that you can’t find anywhere else. Just think about it, okay? I’ll introduce you to Bian Ya regardless.”
+
+“Um, I’m not completely sure what you’re talking about.” Li Suyin curled a strand of her hair around the pointed claw on her fingertip. “But even if things get a little chaotic around Ling Qi, it always turns out well, doesn’t it?”
+
+Ling Qi felt her cheeks heat. Li Suyin really was way too confident in her.
+
+Su Ling merely pursed her lips, one of her furred ears flicking in agitation. “Thanks. For the offer. I’ll think about it. Guess it might let me test some of my new kit, if nothing else.”
+
+Ling Qi smiled. “No pressure. So we’ve got a couple hours left before I need to go. Want to go see a full show? There’s a small concert being put on in the Wang clan’s pavilion this afternoon.”
+
+“Oh, that sounds lovely!” Li Suyin said brightly.
+
+Su Ling groaned, but there was no real exasperation in it. “Yeah, sure. Guess I could go for some music.”
+
+Ling Qi blew out a breath. This might be good for her as well. A more personal site would probably be less fraught to navigate in the realm of dream. If she could help a neglected friend too, so much the better.

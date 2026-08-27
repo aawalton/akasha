@@ -1,0 +1,159 @@
+---
+id: 08810923-1c48-54b8-bd0b-aa80e0dc1940
+page-type-slug: story-chapter-royal-road
+title: "Threads 148- South 1"
+slug: 0177-threads-148-south-1
+partOf: forge-of-destiny
+position: 177
+ownLength: 1721
+unit: words
+publishedAt: 2021-10-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/775742/threads-148--south-1"
+royalRoadId: "775742"
+---
+
+“ORRRAAA!!” Gan Guangli’s bellow echoed through the valley.
+
+From above, Ling Qi saw him wrap his enlarged arms around the trunk of a squirming pine, ignoring the lashing branches clattering against his armor. He leapt, ripping grasping roots from the earth, and slammed the canopy backward over his shoulder with a thunderous crack, shattering branches and cracking the trunk.
+
+The tree, now buried upside down in the dirt, its roots wriggling like frantic wooden worms, thrashed all the harder as a spray of boiling venom coated it from top to bottom and it began to burn.
+
+Ling Qi reflexively rubbed her ear with her palm, despite the fact that its cries were wholly spiritual.
+
+All around were shattered and burned stumps, and already, disciples were digging them out with tools and techniques.
+
+“Everything going smoothly?” Ling Qi called out, alighting on top of Zhengui’s shell.
+
+“Just a momentary inconvenience, Miss Ling!” Gan Guangli called back, dusting the splinters from his gauntlets. “This copse was quite recalcitrant!”
+
+“Hmph. Stupid trees dared reject the kindness of I, Zhen,” her little brother scoffed from above her. “Now they see their error!”
+
+“It would have been nice if they listened,” Gui said.
+
+“You’ve been talking to the tree spirits?” Ling Qi asked.
+
+“Uh huh. Gui has gotten many to move!” her little brother chirped.
+
+She followed his gaze to the workers around. Here and there, she saw trees that were being carried by teams of disciples, their roots removed rather more carefully from the dirt. Along the road, she saw others that had already been replanted with new loam gathered around the base of their trunks.
+
+“Sir Zhengui has been most helpful,” Gan Guangli praised. “He has grown quite well since last year, hasn’t he?”
+
+“He really has,” Ling Qi said fondly, reaching up to stroke Zhen’s eye ridges.
+
+Zhen preened.
+
+“Gui is having fun. The other road people are very nice. They do not mind answering Gui’s questions,” his other half said cheerfully. “Mister Gan is funny, too.”
+
+“Is he now?” Ling Qi gave Gan Guangli an amused look. Below her, Gui began to trundle forward, making room for workers to come and clear the debris of their brief battle
+
+“I am merely doing my duty in keeping spirits up.” Gan Guangli chuckled, falling in beside Zhengui, and he began to shrink from stride to stride, returning to a human height. “Sir Zhengui has had many stories to tell of the Inner Sect.”
+
+“It has been quite a year.” Ling Qi had spent enough time brooding like an overgrown crow for now.
+
+<But you manage to look so good doing it,> Sixiang teased in her head.
+
+“It has,” Gan Guangli agreed. “Ah, might I ask how Miss Su is fairing?”
+
+Ling Qi tilted her head curiously. She had hoped that Su Ling might make friends with the Cai remnants in the Outer Sect, but this was the first time she had heard of these two knowing each other.
+
+<I’ll put it on the list to needle her over when we get back,> Sixiang whispered.
+
+“She’s adjusting. Last I heard, she was finishing up her calligraphy lessons,” Ling Qi said. “It’s been a bit difficult to find time to talk to her, thanks to our schedules.”
+
+“I see,” Gan Guangli said, stroking his chin. “Unfortunate. Miss Su can forget to take care of herself sometimes, I think.”
+
+“You’re not wrong,” Ling Qi agreed.
+
+“Crescent Lady is a grouch, but she is not mean. Gui hopes that she is doing okay,” Gui said.
+
+“Why the road work, Gan Guangli?” Ling Qi asked.
+
+“I think it is where I am best positioned,” he replied thoughtfully. “And as we are currently auxiliary, that is the best I can do. I may as well act to protect those most likely to need it.”
+
+“I would have expected you to stick to Lady Cai’s side,” Ling Qi admitted. Even if the girl was deep in the center of the camp, receiving instruction from General Xia on her bladework, she would have thought Gan Guangli would take advantage of this opportunity to spend more time with Renxiang.
+
+“There is little I can contribute to the bladework lessons,” he said. “Though I will enjoy taking my evening refreshment at her side. There is much for me to be caught up on.” Gan Guangli shook his head, the shadow of a troubled expression vanishing from his features. “Regardless! Miss Ling, you should be most proud of Sir Zhengui. He has taken to this work with great talent. It seems he has a natural head for geomantic principles.”
+
+“I, Zhen, am naturally talented,” Zhen said proudly.
+
+“Once Gui figured out that all the big words were just talking about making the funny lines look right, it was easy,” Gui said guilessly. Zhen gave him a dirty look.
+
+“Is this something you’re interested in, Zhengui?” Ling Qi asked.
+
+“I, Zhen, think that we could fix the garden if we understood better,” Zhen hissed self-consciously.
+
+“Garden?” Gan Guangli asked.
+
+“Something we’re working on together,” Ling Qi answered. “A little joint cultivation project.”
+
+“Ah, how wonderful!” Gan Guangli boomed. “I am sure it will be a beautiful sight!”
+
+Ling Qi remembered the mud slide and smiled a little stiffly.
+
+“Yes, it will be very pretty,” Gui said determinedly.
+
+Ling Qi immediately felt bad for her doubt.
+
+“I’m sure that our work will bear fruit,” Ling Qi said encouragingly.
+
+<I should have things ready in a day or two. The Little Big Guy isn’t the only one who's been benefiting from observing this stuff,> Sixiang thought confidently.
+
+“How have you been though, Gan Guangli?” Ling Qi asked. Their walk was taking them toward the front of the work crews where a variety of earth cultivators were at work adjusting the ground and sinking the trench that would become the road, following the contour of the small river that ran through the valley. “I’ve heard the reports of the Outer Sect, but after last year…”
+
+Gan Guangli’s expression sobered. “I appreciate the concern, Miss Ling. I will admit I was out of sorts in those first few months, but I have found my motivation and my balance. I see now that I had become complacent. Although the odds were stacked against me, I cannot allow myself to become discouraged. It is only our own selves which we may truly command.”
+
+“That doesn’t sound like you,” Ling Qi said in surprise. “You were all about others before.”
+
+“That has not changed,” Gan Guangli replied confidently. “However, my trials have taught me that mastery of self must come first. Achieve excellence, and others will follow you there. Achieve that excellence and inspire them as well? This is what makes loyalty unbreakable.”
+
+Ling Qi gave him a sidelong look. Around her, she saw people straighten up and begin to walk a little faster, performing their tasks with just a little more zeal. Even she felt a certain stirring of confidence and drive. She looked at Gan Guangli and saw the way his armor gleamed just right, the way the fading sunlight caught his hair and gleamed on his smile, projecting confidence and charisma.
+
+She recognized the feeling of qi coming from within.
+
+<Oh no,> Sixiang muttered. <That’s…>
+
+“I’m glad you found your answers,” Ling Qi said. “Did one of those trials happen to be at a site dedicated to the Sun?”
+
+Gan Guangli grinned. “Just so, Miss Ling.”
+
+Ling Qi had never studied much of the Sun. She knew of the Dawn aspect, which was similar enough to the Dreaming Moon.
+
+<It’s really not,> Sixiang protested. <There are important differences! We are creation and art for its own sake, the artist expressing their inner world into the waking one! Those guys are all about showing off to other people.>
+
+<I’m sure you’re not biased at all,> Ling Qi thought dryly. <What are the other sun aspects?>
+
+Sixiang made a show of grumbling further. <Dawn, Rising, Zenith, Falling, and Dusk. Th—>
+
+“Miss Ling, are you well?” Gan Guangli’s concerned voice interrupted.
+
+Ling Qi blinked, realizing that she had fallen silent for a long moment. “Sorry about that. I was conversing with Sixiang. I don’t usually get lost like that any more.”
+
+“I understand. Though my own companion is a taciturn one! I hope you will not fault my lack of introduction.”
+
+“Not at all,” Ling Qi replied. Gan Gaungli was probably keeping his spirit’s existence quiet for the upcoming New Year’s Tournament. Revealing it in front of so many eyes would pretty much guarantee that secrecy was lost, no malice among the onlookers needed. “May I ask what aspect they are?”
+
+Their conversation at least was screened from eavesdroppers.
+
+“Jinzha is of the Rising Sun,” Gan Guangli said cheerfully, his booming voice lowered somewhat. “I could not ask for a more valorous companion.”
+
+<Could be worse, I guess,> Sixiang muttered. <Least he’s not Zenith. Rising is the patron of soldiers. They’re all about personal excellence and self-improvement. Pushy bunch.>
+
+Ling Qi was glad she didn’t need to ask about the Rising Sun. “That certainly suits you.”
+
+“Big Sister, Gui needs to start talking again,” Zhengui cut in, pointing his head toward a copse of trees standing atop a rocky hill. next to a river that poured down in a burbling spray.
+
+Ling Qi cocked her head to the side, considering the auras of the land ahead. There was already a disciple there, performing placation ceremonies to the river spirit and smoothing the jagged edges of the energies flowing through the valley. In the trees and plant life, she read stubborn defiance.
+
+Part of her wanted to insist on helping, but Zhengui had been successful before, barring a handful of exceptions.
+
+In the end, there was only one reasonable thing to do. “Okay. Do you want me to stay and help? I’m not busy right now.”
+
+“I, Zhen, would be pleased with Sister’s help,” Zhen said eagerly.
+
+“Yes!” Gui agreed cheerfully.
+
+“Alright, you take the lead. Let me see how you handle it,” Ling Qi said. She was glad he hadn’t denied her.
+
+She glanced to the left and saw Gan Guangli watching her with a thoughtful expression. She raised an eyebrow. “Do you have any objections?”
+
+“None at all, Miss Ling,” Gan Guangli denied. “It is a pleasure to work with you again.”

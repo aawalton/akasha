@@ -1,0 +1,145 @@
+---
+id: b05b294d-b476-5f65-8864-056cec16f008
+page-type-slug: story-chapter-royal-road
+title: "22. Library Cat"
+slug: 0022-22-library-cat
+partOf: god-of-trash
+position: 22
+ownLength: 2828
+unit: words
+publishedAt: 2025-03-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2130672/22-library-cat"
+royalRoadId: "2130672"
+---
+
+Rhys jolted awake. For a second, he laid there, aching and staring at the ceiling. The pain was familiar. Nowadays, he was lucky not to wake up with a crick in his back or a pounding headache. He knew he should live better, lose a few pounds, but damn if his chair wasn’t comfortable. No, that part he understood. The confusing part was the ceiling. Vast and immense, old hardwood vaults interrupted lush wood panelling. His brows furrowed. Now that he was looking around, the walls were a bit off, too. He had a pretty big library, but he didn’t recall the books looking so… leather-bound and aged. Where were all his figures?
+
+A cat shifted beside him. It lifted its head. “Awake?”
+
+Rhys startled. He looked around, taking in the library, and reality began to reassert itself. He pointed at the cat. “You?”
+
+“Me?”
+
+His jaw worked. Many words and concepts rushed through his brain, all of them jostling to emerge from his mouth at once, but none of them succeeding. At last, he managed, “Az?”
+
+The cat sat upright and curled its tail meticulously around its paws. “That is my name.”
+
+“You’re a cat?”
+
+“You’re a human?” Az returned, in an equally shocked but doubly sarcastic tone.
+
+Rhys sat up, all his pain forgotten. A catboy? Right in front of him? What god had smiled upon him? What a glorious moment, to have lived long enough to see a real live catboy right in front of him. A catgirl would be even better, of course, but he wasn’t going to question the merciful god who had given him this moment. Catgirls and -boys were the epitome of trashy characters. The absolute peak. There wasn’t a catgirl or -boy he wouldn’t defend to the death. Add cat ears to any character, and they got better. It was just a fact.
+
+Rhys took a deep breath. All at once, he said, “Can you turn back into human form but keep the ears and tail, lift one leg and curl your hands like paws, and say ‘meow’ please?”
+
+Az lifted his paw and smacked Rhys hard in his broken bones. A dozen rapid cat slaps landed right on his wounds. Rhys screeched in pain and curled up, trying not to outright scream.
+
+“After I go out of my way to save you,” Az complained, retracting his paw. He licked it primly, disapproval all over his face.
+
+“Sorry. I let my foolish past get the better of me. Thank you for helping me,” Rhys said, properly lowering his head.
+
+“Mmm. I don’t like Cynog much. Anything that lets me make fun of that fool is a plus in my book.” Az stretched luxuriously and padded around the corner, back toward his desk. At the corner, he turned back. “You can lie there until you’re healed. You’re free to read, but be quiet, and leave when you’re healthy.”
+
+Rhys saluted. He hadn’t had time to read for fun lately, anyways. Using his good arm, he scooted up to the bookshelf and put his back to it. His shoulder still hurt, and nothing felt perfect, but overall, he could feel Self-Regeneration and Less is More continuing to work on his wounds. By now, one sip of potion could give him not only enhanced momentary healing, but also longterm slow healing over more than a day.
+
+This whole time, he’d been avoiding looking at his foot. He took a deep breath and forced himself to look at it.
+
+A stub grew out of his ankle. There was a heel, and a quarter or so of a foot, but definitely not a full foot. Still, there was something. He was healing. Making progress.
+
+Rhys let out a sigh of relief. Under the influence of the skill, he hadn’t hesitated to sacrifice his foot to save his life. He didn’t regret it. If he hadn’t lost the foot, he was pretty sure Cynog would’ve killed him right there, whether he’d meant to or not. It was only afterward that regret had set in.
+
+He wasn’t going to complain. He’d done what he had to in order to survive. Not only that, but he was trash, anyways. It wasn’t as if having a foot would make him a martial artist, or losing one would keep him from being a mage. But still, having all his limbs? Regenerating his foot? A huge relief.
+
+“Why did Cynog react like that?” Rhys asked. Even for medival times, it was a bit extreme. Surely he’d noticed that Rhys was just running for the back half—no, for the entirety of ‘training.’
+
+“Quiet in the library,” Az replied.
+
+Rhys obediently shut his mouth.
+
+“In any case, it’s because you challenged his world view. Inadvertently, you told him that he was the source of his own failure, and not only that, but the sect’s failure to ever produce a successful mage.”
+
+Confused, Rhys blinked. He’d expected to have to explain himself, but Az seemed to know exactly what had happened. A second later, he snapped. “That’s right. Cat ears!”
+
+“All mages at my Tier have enhanced hearing, thank you very much,” Az replied laconically, drawling out his final words into a yawn.
+
+“So basically, I denied his entire existence,” Rhys summarized.
+
+“More or less. I thoroughly enjoyed the verbal beatdown you gave him. Most people are afraid to talk back to Cynog, so it was refreshing to hear him finally get the tongue lashing he deserves.”
+
+“Ah, yeah. I figured out why,” Rhys replied.
+
+“You certainly did. How unfortunate. I would have enjoyed listening to you talk down to others much more powerful than you, had you not immediately punished yourself for it.”
+
+Rhys sighed. “No, I probably will keep doing it. I’m… it’s a lifestyle, not a lone mistake.”
+
+“Is that so?” Az poked his head around the corner. He was back in human form, and didn’t sport cat ears, to Rhys’ disappointment. He hummed to himself. “I could enjoy that.”
+
+“I probably won’t,” Rhys admitted, somewhere between sad and embarrassed. Even so, he had no confidence in his ability to keep his mouth shut. He knew he shouldn’t, but—but in his heart, a fire burned. A fire full of rage for the mistreatment of trash. If he didn’t speak up for it, who would? He might have gotten beaten half to death, but he knew he’d do the same thing all over again if he had the chance.
+
+Az rumbled in his throat, a sound not dissimilar to purring. “Excellent.”
+
+He vanished back around the corner at that, and before long, a soft snore sounded from the vicinity of his desk.
+
+Rhys took a deep breath and adjusted himself, then settled in to gather mana and wait for Self-Regeneration to heal his wounds. After that battle, if you could call the one-sided beating that, he’d been completely wiped of mana. Slowly, his bones set and his muscles knitted back together. Blood cleared from his bruises, and his gashes closed. At the same time, his core slowly refilled with mana. Both his potions were completely empty. He would have to buy new ones once he got out of here.
+
+And avoid Cynog with all my might. He had no idea how long Cynog would hold a grudge. For all he knew, the man was already over it, but it was equally possible that Cynog was still completely pissed off and ready to murder. He thought for a moment, then twisted his lips. He’d have to gamble on Cynog not caring. He couldn’t stay locked in the library forever. There wasn’t much trash here, and he couldn’t burn any of it in here. For one thing, fire wasn’t a good idea around books, and for another, he didn’t want to test Az’s reaction to him burning books right in front of him. Even if Az was done with the books, he wasn’t sure Az had absolutely no emotional attachment, especially if he struggled to let people borrow his books because of the damage they might do.
+
+A few hours in, Rhys remembered he had Az’s novels and pulled one out of the storage ring. He could read and gather mana at the same time. For some people, it might be too much disruption to their meditation, but not for Rhys. Sure, a serious topic or a tough piece of literature might distract him, but trashy novels? He practically entered a state of meditation and-or higher being when he read them, and that was back in his original world. He had plenty of attention span to both read and absorb mana, given how natural reading trash novels came to him.
+
+As far as trash novels went, these were a bit lacking. They had the vibes of Frankenstein, not the true trash heights of a good webnovel. Still, they were lighter reading than the original science fiction literature, and due to this world being high fantasy to begin with, even the novels that were meant to be boring romances or societal commentaries came off as fantasy novels to Rhys. He read on, enjoying his first fantasy novels since he’d come to this world. After a few moments, he was immersed so deeply in the book that he barely felt pain, and in fact, mana absorption came easier as he gained the ability to simply ignore his hurts.
+
+Time passed. He finished all the novels and had to return to merely meditating. A part of him wanted to call out to Az and ask for more books, but Az was still snoozing, and he knew better than to interrupt a catnap. The books he’d finished with sat beside him, neatly stacked. He continued to gather mana until his wounds healed. When his foot returned to normal, or at least mostly normal, he finally stood. He didn’t have a shoe anymore, so he took off the other shoe to match and put his remaining shoe in his robes. It was garbage, now, but that was exactly why he was holding on to it. He could always use more garbage.
+
+Rhys finally approached the exit to the library. He reached the door and extended his mana outside. Closing his eyes, he focused on exploring the area outside with his mana. He sensed students, some of higher Tiers, most of lower, and a lone high-Tier mage wandering outside, but not Cynog. Rhys pushed the door open and peeked outside.
+
+Still no sign of Cynog. He looked left and right, up and down. No burly martial artists in sight. Just to be absolutely sure, he extended his mana once again, without the door in the way. Scans returned negative.
+
+“Go outside already. You’re letting all the hot air in,” Az complained from his desk.
+
+“Right, sorry,” Rhys said, and hurried outside.
+
+There was a distinct reek in the air, a familiar one, yet one he hadn’t smelled in a while. He turned, slowly. Trash had piled up everywhere. At his estimate, at least two weeks of trash laid around the central square.
+
+Damn, I really was out for a while, he realized. Shaking his head at himself, he hopped to, scurrying around the square to collect all the trash. In the span of a few hours, the square, and the areas around it, were once more clear of trash.
+
+With that done, he returned to the central square. Back in the trash pit, he had plenty of herbs between the scraps in the trash and what he’d held in reserve from when he’d grown herbs. What he lacked, was a cauldron. Strangely enough, no cauldrons had turned up in the trash… or if they had, they were in such horrible states that he couldn’t recognize them as cauldrons anymore. As much as he wanted to immediately get started on growing the Star Ice seed, now that he had more than enough trash, he couldn’t go without a potion. Self-Regeneration was nice, but it was an out-of-battle heal for now. It didn’t work fast enough to matter, when he was getting ripped up by a martial artist. That was when he needed his potions, and his Less is More skill to empower them. Right now, with a martial artist potentially after his ass, he couldn’t be without potions.
+
+Sure, he could buy potions, but he had the herbs, so he figured he might as well level up Herbalism and Alchemy while he was at it. Cynog wasn’t going to attack him while he was in Sorden’s class. Or rather, if he tried, Rhys was pretty sure Sorden wouldn’t sit back and let him tear up her high quality low-Tier herb supplier.
+
+As for mana potions, he had the recipe in the book, and by cross-referencing it with the generic potion recipe, he’d figured out what all the instructions meant. He figured he could hack one or two out and figure out the little quibbling things he didn’t understand. After all, worst case, he gave himself some impurities. For Rhys, there were definitely worse fates.
+
+Rhys slipped into the back of Soren’s class. She was in the middle of teaching some kind of speed-boosting potion, and as interesting as that sounded, he didn’t need that right now. Luckily for him, this seemed to be an advanced class. Only a few students were in attendance, and they clustered toward the front, right around Sorden. Rhys settled quietly in a corner and began heating up his cauldron for a healing potion.
+
+One of the students at the front of the class whipped around and narrowed his eyes at Rhys. Rhys gave him a friendly wave, then paused. It was the boy from his very first day! The one who’d dumped his cauldron in the trash, and given him such precious resistance training. He nodded and smiled a little, then turned back to his potion.
+
+The boy turned back forward. Rhys thought that would be the end of it, but instead, he cleared his throat. “Professor Sorden, there’s a student you didn’t invite here. Didn’t you say this class was invite only?”
+
+Back to the class, Professor Sorden hummed. “Did I say that?” Still, she lowered her chalk and turned. Her eyes roamed the room, before snapping to Rhys in the corner.
+
+Rhys waved.
+
+“Ah. He’s fine.” She turned back around and continued to scribble a formula on the blackboard.
+
+The boy’s jaw dropped. He stared at Sorden, then whirled and stared at Rhys. This time, Rhys ignored him in favor of beginning the brewing process. The boy turned to Sorden again. “Why does he get special treatment?”
+
+At this point, the whole class stared at Rhys. He did his best to ignore them, though he felt their gazes prickling on his skin. He’d just struggled to escape Cynog with his life after saying something stupid, and now, he felt as though he’d done the same, somehow, without saying anything. He raised his hands. “Should I leave…?”
+
+Sorden made eye contact with him. “No.” She turned to the students. “The cauldrons are a free resource anyone can use at any time. Do you have a problem with a fellow student using my cauldrons?”
+
+Most of the students either turned thoughtful, then shook their heads, or immediately understood the implicit threat, and shook their heads as hard as they could. Only the boy frowned deeper. “He’s not a part of the advanced class. Why is he allowed to stay?”
+
+A chalk stub flashed across the room and struck him in the forehead. The boy’s head snapped back, and he let out a little oof of pain. “He grew the herbs at a high enough purity that I was able to hold this class. Of everyone here, he’s the most qualified to be in attendance, wouldn’t you say?”
+
+The boy startled. He turned, slowly, and looked at Rhys again—at first, in a new light, but then in growing disbelief. “Him? The garbage collector?”
+
+“Him indeed. Perhaps you should consider collecting garbage?” Sorden replied lightly.
+
+Rhys frowned at that. Perhaps he shouldn’t. The garbage belonged to him. He didn’t need anyone competing over it. He wanted everyone to appreciate garbage, but not muscle in on his business.
+
+The boy looked at Rhys for one more moment, then scoffed and turned back to his potion. Rhys shook his head at the boy’s back and turned to his. Some people couldn’t leave well enough alone. He mentally marked the boy as someone to stay away from, and paid no more attention to Sorden’s class.
+
+In no time, he’d brewed the potions, and made a few mana potions with the bare minimum of bumps and explosions. Rhys nodded at Sorden and slipped out, rushing back to his trash heap.
+
+It was time. He had everything ready. Potions in case he got injured. Enough trash to make a small mountain. And the seed itself, just waiting to bloom.
+
+Let’s get that bread! he cheered to himself, and sped off through the square.

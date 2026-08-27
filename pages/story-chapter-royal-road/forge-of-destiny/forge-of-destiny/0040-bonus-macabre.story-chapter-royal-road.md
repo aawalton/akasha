@@ -1,0 +1,67 @@
+---
+id: 37e13c54-1153-58df-bf7c-6cfef0ac800b
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Macabre"
+slug: 0040-bonus-macabre
+partOf: forge-of-destiny
+position: 40
+ownLength: 1161
+unit: words
+publishedAt: 2020-12-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/607369/bonus-macabre"
+royalRoadId: "607369"
+---
+
+Li Suyin hummed tunelessly as the bone under her fingers shifted like wax. The ribs flattened and widened, shifting from the contours of a quadruped to a biped. The rest of the horse skeleton she was working on lay neatly across her table, carefully organized for transformation and reassembly. Three more like it were stacked in the crates beneath the table, courtesy of the stablemaster of the town. He was such a kind man, Li Suyin thought, providing her with the remains without charge. She would have to see about crafting a gift when her project was done.
+
+She pressed her thumb against the sternum of the ribs, smoothing away the last imperfections, and turned her eyes toward the spinal column. Already molded into bipedal shape, it lay split open vertically across her workbench, its internals now clean and dry, stripped of nerve tissue and emptied of marrow.
+
+Li Suyin snapped her fingers, and the hammocks of webbing which hung overhead twitched. A steel etching stylus descended into her grasp on a narrow thread of webbing. Tucking her hair behind her ear as she bent low to begin carving the first formation symbols into the bone, Li Suyin said, “Prepare extracts seven, twelve, and sixteen please.”
+
+“Yes, Miss Li,” whispered the tinny voice of her companion. A many legged shadow skittered across the table as Zhenli’s body passed in front of the lantern, scurrying for the supply cabinets.
+
+A long moment passed, and Li Suyin glanced up. “Zhenli?”
+
+The cat-sized spider had paused above the cabinet, three smoked glass vials held to her abdomen with two legs. A full body twitch traveled through her legs as the spider ducked her head. “Apologies, Miss Li. Senior Bao is at the door.”
+
+Li Suyin blinked in surprise. Already? She had not been expecting her senior sister for several hours yet. This was highly unusual. Bao Qingling was extremely punctual. “Set the extracts on the work table then, Zhenli. You can begin etching the tertiary formations while I am out.”
+
+Zhenli murmured a quiet agreement as Li Suyin set her tools down. She was glad that her spirit was so dutiful and neat; it made her projects go so much faster to have such a helper.
+
+Leaving her main workshop behind, Li Suyin approached the front door of her sect dwelling and opened the door, peering out curiously. “Welcome to my home, Senior Sister. Did something happen? Our meeting was not scheduled for two hours yet.”
+
+Bao Qingling shook her head briskly. She was still wearing her work clothing with its thick apron and leather gloves. The crystal goggles that covered her eyes in the lab hung loosely around her neck. “Unfortunately, I have a meeting I cannot refuse. It was very sudden,” Bao Qingling said dully. “My apologies for interrupting your own work. It was my assumption that you would prefer this to cancelation.”
+
+“Of course. Come in,” Li Suyin said, stepping aside to give her room. There was no point in asking who had forced a meeting on her. If Senior Sister intended to tell her, she already would have. “Thank you for coming out despite the problem. There is a project I require your advice on before I move to the next step, so a delay would be problematic…”
+
+“Understandable,” Bao Qingling grunted, stepping past her. Her teacher was always difficult to read, but her words lacked that extra cutting edge that indicated her temper. The upcoming meeting must not be bad then. “Which workshop?”
+
+“The basement workshop,” Li Suyin said, easily falling back into old habits. There was no need for extra words with Bao Qingling.
+
+“Lu Wei’s work has held up?” Bao Qingling asked as they began to make their way down the hall.
+
+“Yes, Senior Sister. Thank you for your recommendation.” She was glad that the elders had given her special dispensation to add to her dwelling in light of her projects, even if the funding had come out of her own reserves.
+
+Bao Qingling made an affirmative sound in the back of her throat as they reached the end of the hallway where she had installed the trapdoor. It was a heavy thing cast from blood-wrought iron, much like the lining in the basement’s walls. The sealing effect was really very good. Tapping her foot on the floor, the trapdoor rose of its own accord, revealing the narrow black tunnel that descended into the bedrock of the mountain.
+
+Her mentor cocked her head to the side. “No climbing apparatus?”
+
+“I did not see the point,” Li Suyin said. “The walls are trapped of course, and the landing is keyed to only myself and four others.”
+
+Bao Qingling made a noise of approval and stepped out into the hole, vanishing into darkness. Li Suyin smiled, pleased at her approval, and followed after.
+
+The basement workshop was lit with pale green light and filled with the sound of bubbling liquid. Its walls were damp, approximating the humidity of the fungal forests she had found below. Spread across the far wall was the carefully sketched diagram of the anatomy of the beetle creature Ling Qi had helped her harvest, done from memory and aided by her vivisection of one of the captured embryos. Across the work table set against the right wall were the remains in various states of cataloguing and processing.
+
+Her actual project, however, floated in a bubbling tube roughly one and a half meters wide and tall enough to reach from floor to ceiling. It was one of the beetle beasts, stripped carefully from its egg without harming the partially developed creature. Bubbles periodically emerged from the spiracles on its side, rising through the faintly glowing medical solution and sending the light dancing.
+
+Bao Qingling observed this all without expression as Li Suyin nervously took up a place beside her. “You see…”
+
+“You’re attempting to modify the beast into something more tractable.” Bao Qingling said bluntly.
+
+As expected of her senior sister, Li Suyin thought. “Yes, I want to modify and raise it myself for loyalty, but, um, I’m not entirely certain where this sort of spiritual surgery falls—legally, that is.” Li Suyin wrung her hands, voice shrinking with each word. “I’ve looked such things up, but the laws are vague on the matter of beasts.”
+
+Spiritual modification was a restricted subject outside of certain common procedures necessary for cultivation, and performing such operations on any person other than yourself required approval and the presence of an official of the Ministry of Integrity. “Could you guide me on the matter, Senior Sister?”
+
+The older girl was silent for several long moments. “Show me your plans. I doubt the elders would allow you to have gotten this far if it was a legal problem, but you need to watch out for tripping over ‘polite’—” Bao Qingling pronounced the word with disgust “—sensibilities.”
+
+Li Suyin breathed a sigh of relief. She was very much looking forward to this project.

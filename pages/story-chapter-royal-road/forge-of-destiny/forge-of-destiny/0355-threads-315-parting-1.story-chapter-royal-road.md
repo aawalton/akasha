@@ -1,0 +1,221 @@
+---
+id: e0acd924-e541-5518-beff-0893811eea51
+page-type-slug: story-chapter-royal-road
+title: "Threads 315-Parting 1"
+slug: 0355-threads-315-parting-1
+partOf: forge-of-destiny
+position: 355
+ownLength: 2391
+unit: words
+publishedAt: 2023-06-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1251634/threads-315-parting-1"
+royalRoadId: "1251634"
+---
+
+“You have my approval to focus your efforts there.”
+
+“Thank you, Lady Renxiang. You will not regret it.”
+
+“I won’t,” her liege said. The brush in her hand tapped thoughtfully against the ink pot. “It is your ability to form unlikely connections which has made this possible at all.”
+
+“I accept your compliment.” Ling Qi smiled.
+
+Renxiang considered her from behind the desk. “I do not fully understand your ease, but at this moment, I will be glad for it. The trials of this month have gone as well as could have been expected. I have been able to avoid the upset of the ministry. The general has been calmed.”
+
+“A good position to be in,” Ling Qi agreed.
+
+“We will need some focus on the counts of the Emerald Seas and our extraprovincial guests to ensure there are no misunderstandings, but I am pleased. Will you be ready for the journey back?”
+
+“It feels a little painful, doesn’t it? To leave the Argent Peak Sect?”
+
+Cai Renxiang looked at her curiously.
+
+Ling Qi smiled wryly. “I suppose not. You don’t get attached to places, do you, Lady Ren?”
+
+“No.”
+
+“Lady Renxiang,” Ling Qi corrected herself.
+
+Her liege silently slid a completed form away and pulled a new one from her stack. “I am not heartless. I have some attachment to the sect, but the elements I most value are largely following us.”
+
+Ling Qi grinned. Renxiang met her gaze with a narrowed look. She raised her hands in surrender.
+
+“I do have more I will miss. But this moment was coming from the day I gave you my oath.”
+
+“Life does not wait,” Renxiang said after a moment.
+
+“It doesn’t. What will you be doing?”
+
+“Reviewing our land’s supply contracts and meeting with Sect Head Yuan He to offer our formal withdrawal and thanks for the hospitality of the sect. I have also scheduled tea with both Bai Meizhen and the Bai ambassador. Yourself? Personal meetings, like Gan Guangli?”
+
+“Mostly,” Ling Qi said, considering her friends. She’d still be traveling back and forth. Her family would remain in White Cloud Town for some time yet, but this would be her last visit as a member of the sect rather than as a visiting noble.
+
+***
+
+“Time really does fly,” Ruan Shen said ruefully. “Really can’t call you a cute little junior anymore, can I?”
+
+“I was never particularly little.”
+
+“Details.”
+
+They sat in the archive room they’d always booked for their study sessions, surrounded by books and scrolls filled with music theory, history, arts, and qi composition. Ling Qi could feel the faint strains of music that lived between these pages, the melodies that had long since soaked into the shelves and granted this place a soft background song of learning for those with the ears to hear it.
+
+With her on the padded benches and chairs were Ruan Shen and Bian Ya, seated side-by-side. The older girl was dressed up in lacey, billowing finery, all soft pinks and greens, with a wreath of flowers in her hair. Ruan Shen wore an open chested, wine red tunic with black hemming. His arm curled around Bian Ya’s waist, and her head rested on his shoulder.
+
+She was happy for them. She hoped that their affection would last until the betrothal ran its course in some decades. Maybe she would be invited to the wedding? It was strange to imagine events so far from now when her life up until recently had barely the freedom to think beyond tomorrow.
+
+On the left, sinking into a plush chair, was Yu Nuan with her dog, a ball of fuzzy cloud, peeking out from beneath the chair legs with a panting doggy grin. Her hair was spiked out and stiff with some product, dyed to an actinic blue shot through with white. She rearranged her piercings. Dangling iron spikes etched with the symbols of the thunder court and crackling with lightning hung from her ears, a set of three silver rings were wound through her lip, and a stud of blue-white jade pushed through her brow.
+
+Ling Qi wondered if her mother was the one who had convinced Yu Nuan into the dark navy blue tunic. Mother was still trying to push on clan colors, last Ling Qi had checked.
+
+Another thing she needed to do, She had to get her household in order and see how everyone was settling in with the changes coming.
+
+Ma Jun was here as well today, the newest member of their little troupe, now that she had been brought into the Inner Sect. With her flowing petal-patterned gown and flowers in her hair, she seemed to be taking her cues from Bian Ya, although hers were metal and stone rather than real ornaments of gold and jade.
+
+“I just hope none of you were too troubled by our project,” Ling Qi said.
+
+Bian Ya chuckled, fluttering a silk fan before her face. “Oh, we are always happy to support the heiress. It’s no trouble at all.”
+
+“Got an earful from a couple uncles and aunties, but what’s new? Keeps things where I like ‘em,” Ruan Shen said with a careless grin. “Ha! My old man was pretty amused, actually.”
+
+“My sister and I can only support Lady Cai and her kindness. We follow your wisdom on these issues,” Ma Jun said shyly. “But I thought it was a very good play.”
+
+She glanced at Yu Nuan, who snorted. “Some folks have given me shit, but hey, I know where my bed is made.”
+
+They’d sent the forms in. The adoption of Yu Nuan into the Ling clan would probably be official soon after the summit ended.
+
+“Let’s not worry about the little stuff today. You came by so we could see you off, not chat politics,” Ruan Shen said. “You’re still too serious!”
+
+“If I’m too serious, it’s only because I keep getting up to my neck in serious business,” Ling Qi retorted, but he was right. Today wasn’t the day for that.
+
+Yu Nuan snorted. “I’m pretty sure you seek that shit out.”
+
+Not the point.
+
+“Lady Ling is very responsible,” Ma Jun said demurely.
+
+She gave her former bodyguard a pleading look. She wasn’t helping!
+
+Also, someone looking at her with such admiring eyes for a reason like that… She couldn’t help but feel a bit fraudulent.
+
+Ruan Shen chuckled, looking at her with a knowing smile.
+
+“But really, do tell. What is it like trying to wrangle so many high ranking nobles in one place?” Bian Ya asked.
+
+Ling Qi laughed, rubbing the back of her neck. “Honestly, the ducal representatives have been getting along on their own. Thankfully. I’ve been more focused on our guests, but so far, there haven’t been any major disputes.”
+
+Bian Ya gave her a disappointed look. “Ling Qi, I understand the appeal of the exotic, but you still can’t let these opportunities pass you by.”
+
+“I’m familiar with Bai Meizhen and Xuan Shi already,” Ling Qi protested. “And Meng Dan and I have been taking time to speak on how I can keep the Meng interested.”
+
+“That isn’t how you made it sound,” Bian Ya groused good-naturedly.
+
+“Ah, we all know she’s buddies with the white serpent princess,” Ruan Shen drawled. “However that works.”
+
+“The Bai aren’t actually vengeful spirit beasts.”
+
+They all nodded quickly. Why did she feel like she was being humored?
+
+“Xuan Shi is also helping me as a personal favor, rather than representing his clan,” she added.
+
+“He cannot help but represent them in some ways,” Bian Ya said.
+
+“I’m aware of that. And I’m grateful that it's been allowed.”
+
+If the Xuan clan did not want him there, then he would not be there, regardless of what he personally wanted. She understood that.
+
+“Aaaaand back to politics again,” Ruan Shen said. Bian Ya yelped as he reached up and ruffled her hair, leaving her glaring with a few strands askew.
+
+She huffed, turning back to Ling Qi. “Fine. We shall miss your presence. It has been enjoyable, this little troupe.”
+
+“It can still be. I’m hardly the life of the party.”
+
+“I suppose, but you are the point in common.”
+
+“If the seniors would indulge us still, I would be very grateful,” Ma Jun ventured.
+
+“I was thinking it’d be fun to keep going, maybe grab up another newbie or two,” Ruan Shen said. “Though I get you’re busy, Yaya.”
+
+“Do not,” Bian Ya said severely, jabbing him in the side with her elbow. “If time allows, I might join you.”
+
+“If time allows, duties are going to pick up again soon,” Yu Nuan said ruefully. Qiu gave an unhappy bark.
+
+“That’s just the way it is. We gotta work through it,” Ruan Shen said. “We’ll all come out the other side, yeah?”
+
+“Yeah.” Yu Nuan huffed. “We should do another performance when the sect gets to stand down.”
+
+“A fine suggestion,” Bian Ya approved. “The Argent Peak Sect is not only an institute of war. I shall fund the performance personally.”
+
+“I’ll have to come back and see it,” Ling Qi said wistfully.
+
+By any measure, she did not spend a great deal of time in this group with these people, but she would miss it anyway.
+
+“You will be invited, of course, as well as your lady,” Bian Ya informed her. Then, she smiled impishly. “Perhaps you can bring a plus one. Was it the Bao, the Meng, or perhaps Sir Xuan?”
+
+Ling Qi laughed aloud. “Who knows? I’ve barely had time to think about it.”
+
+Ruan Shen blinked and glanced at Bian Ya, whose startled look passed even faster.
+
+“Well, it's hardly urgent for you,” Bian Ya said. “With talent like yours.”
+
+“It's something I should think about though,” Ling Qi said. “I don’t really know how though.”
+
+Bian Ya considered her and pursed her lips. “Should you need it, you have my ear or writing desk. I will offer whatever small advice I can.”
+
+“And I’m thankful for that.”
+
+“And I’m thankful you got me out of thinking about that.” Then, Yu Nuan groused, “You gonna show her the gift or what?”
+
+“The gift?” Ling Qi tilted her head.
+
+“Bian Ya and I decided to get ya a little graduating gift. Things have really changed fast!” Ruan Shen lamented.
+
+“You keep saying that,” Ling Qi said, amused.
+
+“It keeps being true.”
+
+“That does not mean you need to repeat yourself.” Bian Ya gestured, and on the table between them, a lacquered box appeared.
+
+Curious, Ling Qi traced her fingers over it, feeling the dense qi inside. The little box opened with a click, releasing a soft fog of visible silver qi. Within were four narrow ingots of metal in two rows stacked on top of each other. The metal was luminous, seemingly liquid to the eye despite its solidity, and the inner light of them rippled light dappling like moonlight on a cloudy night.
+
+“Distilled moonsilver. It’s a product of my family lands from the wells that form among the root hills in Xiangmen. I could regale you with the technical details, but I fear it might be lost on you.”
+
+“I’m not much of a crafter,” Ling Qi agreed absently, lifting one bar and turning it over in her hands. It was almost pliable, like she could squeeze and deform it, but there was no indentation where her fingers pressed down. She could feel the potent lunar qi infused into the metal though. This was not inexpensive material, she thought. “Thank you very much.”
+
+“I couldn’t be sure any particular talisman I might buy would be of use to you, so I thought materials would be better,” Bian Ya said, smiling.
+
+“Got a second part for ya too,” Ruan Shen said. “Talked to my old man. Like I said, he found our lil play pretty fun so he offered to send out a shipment of our best lumber, strongly infused with wood and wind qi. Figure you’ll need some material with which to develop shrines or sites, even if building a theater or music hall is not exactly your top priority for a while.”
+
+“I thought you said some of your family was upset?” Ling Qi asked.
+
+“Some are. Some aren’t. And my old man…” Ruan Shen grinned. “He’s a bit of a troublemaker.”
+
+“It runs in the family,” BIan Ya said dryly.
+
+“Hey, now, you can’t just say that. What happened to the prim and proper?” Ruan Shen complained.
+
+“We are not in public,” Bian Ya said with a haughty sniff. “Here, I speak candidly.”
+
+“No respect.” Ruan Shen sighed. “From my juniors or my girl.”
+
+“I respect you when you’re being respectable, senior brother,” Ling Qi teased. She rose from her chair and bowed to both of them. “Seriously though, I am most thankful for everything you have done for me and the advice you have both given me these last two years. Please accept my full gratitude.”
+
+“Of course. I don’t regret it at all,” Ruan Shen said breezily.
+
+“I do wish we could have found more time, but I am glad to know you, junior sister,” Bian Ya said. “And I wish you a happy future.”
+
+“I wish you the same,” Ling Qi said. “Ma Jun, sorry I’ll be leaving right as you get here.”
+
+“You do not owe me any such apology. And we may be following you in Lord Gan’s service eventually.”
+
+“Snowblossom is beautiful. I don’t think you’ll regret it,” Ling Qi said. She turned to Yu Nuan.
+
+“I’m going to see you often enough. Not like you’re not gonna keep visiting your mom’s place,” Yu Nuan said.
+
+“True,” Ling Qi said, letting it stay at that. Yu Nuan was just awkward about this kind of thing.
+
+She gathered the container with the silver and the receipt for the order offered by Ruan Shen and placed them into her storage ring as she sat back down.
+
+Bian Ya clapped her hands. “Well, then, if we’ve said what needs to be said, why not one last session of our little club? I have been working on a piece about fresh fields and the western winds. It should be an improvement upon my recovery arts, and…”
+
+Ling Qi smiled to herself and settled into her seat. She was glad to do this one last time.

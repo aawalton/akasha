@@ -1,0 +1,191 @@
+---
+id: e96a9fed-ebe2-51a8-abfb-fa8d373e6aff
+page-type-slug: story-chapter-royal-road
+title: "28. Burning Impurities"
+slug: 0028-28-burning-impurities
+partOf: god-of-trash
+position: 28
+ownLength: 3086
+unit: words
+publishedAt: 2025-03-22
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2144289/28-burning-impurities"
+royalRoadId: "2144289"
+---
+
+A legend spread among the students of Infinite Constellation School. In a distant part of the mountain, high on the peak, some horrible monster had made its home. It spent all day hammering away at the stone, shaking the trees and rattling the earth itself. Some people claimed it was angry, furious at the school, and that it wanted to burn the whole school down, as evidenced by the black smoke that issued from its den. Others postulated that the beast must be a dragon, and that black smoke no more than the breath pouring out of its nostrils. No matter how hard they searched, no one could find hide nor hair of the beast, and yet, between the horrific din it made and the billowing black smoke, they knew it was real.
+
+“I saw it!” a student claimed. “It was small, but fierce, and moved too quickly to be seen. It shrouded its body in black smoke and reeked like rot and decay!”
+
+Thus the monster took on a definite shape. It was an undead, some kind of ancient, twisted zombie. The thumping was its rage at having been awakened, and the smoke was its curse, so furious as to manifest physically.
+
+“Someone must have opened its grave and disturbed the formation that kept it asleep.”
+
+“Then what are we supposed to do?”
+
+“We need to make offerings. Appease it. And search for its grave! Set its tombstone back upright, reset the formation.”
+
+The mountain came alive with activity. The students rushed around, setting up a makeshift shrine and searching for whatever grave might have been disturbed. But, for all their effort, the booming only got worse, the dark smoke grew stronger and more ominous, and now, pained grunts and terrible screaming, like a child in pain, joined the symphony of fearful noises issuing from the deep mountains.
+
+“It’s digging in! It grows stronger by the day.”
+
+“Forget the grave. It’s lost. We need to seal it anew. Set up an undead-sealing formation on that side of the mountain, and hope it takes!”
+
+The students set up red ropes to bind the forest and burned purifying incense to placate the undead. And yet, the thumps only grew louder, and the smoke grew darker. Nothing they did could change a thing. No matter how hard they tried to seal it, it only grew stronger.
+
+Some students gave up in despair. If they couldn’t stop it, there was no point trying. They’d simply have to wait and pray that it cared not for their lives, and leave its fate up to the more powerful teachers, whenever they chose to take action.
+
+Others simply tired of it. They shouted back at the monster’s cries and ceaseless thumping, spread fragrant herbs to mask the acrid rot stench it put off, and went on with their lives. The teachers didn’t seem concerned, so why should they be?
+
+A handful continued to fear the monster. They searched for it, sealed it, feared it. Candles accumulated at the makeshift shrine. Offerings piled up, only to mysteriously vanish every week. They cowered in fear when the hammering booms rolled out, and sang praises when the smoke flowed strong and dark. Slowly, what had been an effort to seal the beast, turned into a kind of worship.
+
+Unaware of all this, Rhys and Ev continued to battle. After the first few rounds, Rhys started stockpiling the trash in Ev’s valley rather than make the run between his nook and Ev’s valley. He could only take in a little bit of the black goop at first, but steadily, he grew able to absorb more and more of it, as his body grew more tolerant toward impurities and his Impurity Resist skill leveled up. The black goop piled up at first, as Rhys struggled to absorb any of it, but as his tolerance increased, he began to keep up with the rate of accumulation, then surpass it. Eventually, he began fishing out the most toxic parts—probably contributed by Alun, from the mana that clung to them—and saving them separately, so he could give himself the maximum hit of impurities at once. The first time he did it, when the first wave of the more powerful impurities sunk into him, his mana passages seized and almost stopped entirely.
+
+Ev immediately stepped in and smacked a dozen points on his body, and his mana passages swelled, letting the impurities flow through. Gasping a breath, Rhys immediately ignited the impurities, clearing them out of his passages as they burned. Even so, the larger, thicker, stickier impurities stuck in his passages, resisting the flow of mana and even his efforts to burn them. His whole body shimmered with heat, mana starting and stopping as the impurities chunked through him.
+
+She looked at him, her brows furrowed. “I appreciate the effort, but you’re going to kill yourself if you keep this up.”
+
+Rhys raised his hand. He focused internally on the impurities. They were too big for his passages. What Ev had done was only temporary. When his passages narrowed again, he would die. The impurities kept rolling in, just as big as before. He struggled with it, pushing it into his core as fast as he could. It was only a temporary fix. Without the bigger passages, he was ruined.
+
+I have to do something. But what? He furrowed his brows, thinking, then startled. He looked at the smoke with new eyes. If he just blindly absorbed the smoke, then he had to adapt his body to take whatever it had, no matter how dangerous or toxic it was. That was one strategy, but if he limited himself to one strategy, he would be limited by that one strategy. In other words, the limits of his body would hold him back. Since he had a trash body to start out with, that was a severe limitation. On the other hand, if he had multiple strategies running at once, he wouldn’t be limited by any one chokepoint.
+
+He extended his mana outside of him. Carefully, he pulled a thin thread from his mana. The first time, it broke off, but he widened it a little and kept going. One thread overlapped over itself a thousand times as he slowly wove it together, forming a fine net. He set the net over his throat, at the point where impurities entered his body, and breathed.
+
+The impurities sucked in. The smaller ones flowed neatly into his body, while the bigger ones caught on the net. Rhys flared his mana, heating the net. The net seared into the impurities, cutting them into smaller pieces. They rushed past and into his core, where they joined the rest.
+
+It wasn’t the neatest or most mana efficient technique, but it worked. It kept the impurities small enough to handle, and easy enough to break down. Like this, even before he managed to enlarge and toughen his mana passages enough to handle the larger impurities, he could press on and absorb more dense and dangerous impurities.
+
+Rhys straightened, strongly drawing in the impurities once more. He turned to Ev. “Let’s continue.”
+
+She shook her head at him. “You’re insane. This is going to be the death of you.”
+
+“It’s the death of me if I don’t,” Rhys said. If he gave up and didn’t try to progress, his trash stats would leave him at the bottom of the food chain. He’d be chewed up and spat out before he knew what was happening. No matter what, he could never stop climbing. Never stop growing stronger. Even if he had to harm himself in order to get stronger, he couldn’t stop now.
+
+Their eyes met. After a moment, Ev nodded. “That resolve in your eyes… you really believe in this, don’t you? In this technique.”
+
+Rhys nodded in reply. “I do.”
+
+“This… is your path?”
+
+“Yes.”
+
+She laughed. “Then who am I to tell you to stop? If this is your path, walk it to its end. But first…” She backed away, gesturing him on.
+
+Rhys charged at her, and they leaped toward one another once again.
+
+Ev wasn’t one for many words. Their exchanges were mostly fists. Occasionally, backed into a corner, Rhys would draw his sword, but Ev only ever fought barehanded. She didn’t hesitate in the face of a blade. If anything, it made her faster and more brutal. Rhys struggled to keep up with her speed even now, but he’d learned the pattern of her technique. Just following her footwork, he could react to her attack before she launched it. The more she fought, the better he got at reading her. She realized what he was doing, and changed up her footwork, but he kept his eyes on her feet. As long as he could follow the way she shifted her weight and watched her steps, even if he didn’t recognize her specific movement, he could guess what she was about to do next.
+
+They fought on. Impurities flowed through Rhys. He grew stronger and stronger as he absorbed more impurities, enhancing his body as he went. More of the ultra-impurities gathered in his core, but even with this rate of impurities, the small ultra-impurities remained negligible in size.
+
+His body, too, adapted to impurities in small, subtle ways as he kept going. His mana passages widened, and the speed at which he pushed mana through his body increased, keeping the impurities flowing even when they were larger. The temperature of his mana grew warmer, which kept the impurities softer. All these small adaptations allowed him to absorb impurities more smoothly and merge their power, once unleashed, into his body with ease.
+
+At the same time, he gained practice with using Trash Body, Trash Intent, and both at the same time. He streamlined each technique to the point he could activate Trash Body before his body was in complete tatters, and instantly attach Trash Intent to it the moment it was up. He also practiced the two separately, using Trash Intent on his sword stub and Trash Body to hold on when his body should give out. Less is More also grew stronger, as did Blow Mitigation. Of all his skills, Trash Body and Trash Intent grew the slowest. They were also the strongest of his skills, so it made sense that they leveled slowly. The more powerful something was, the harder it was to level it.
+
+After nearly a month of training, his stats looked far different.
+
+Rhys Foundling | 14 | Foundation Building (Tier 1)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 15
+
+Survivalist 30
+
+Pain Resist 45
+
+Scavenging 40
+
+Less is More 35
+
+Sewing 8
+
+Blow Mitigation 16
+
+Self-Regeneration 13
+
+Mana Manipulation 8
+
+Poison Resist 14
+
+Improvised Weapon Proficiency 10
+
+Heat Resist 9
+
+Acid Resist 10
+
+Impurity Resist 15
+
+Trash Intent 8
+
+Alchemy 2
+
+Herbalism 7
+
+Speed Reading 6
+
+Comprehension 5
+
+Enlightenment 1
+
+Trash Body 3
+
+He looked over his stats and nodded, pleased. It was worth it to see hard work pay off, even if checking his stats was just seeing a number go up, and using them to feel the change in their power far more meaningful. Number go up was nice. There was something satisfying about it. Something concrete. It spoke to his heart in a way that he couldn’t fully express in words. The beauty of it. The simplicity.
+
+“Dazin’ off over there?” Ev asked, walking over.
+
+It was a rare peaceful moment. Rhys needed to heal before he could fight again, so they were resting. Rhys had been reading one of the books Az had leant him yet again, while Ev had been off practicing punches or whatever it was she did for fun. She usually walked away to handle her own business during downtime, and he didn’t press the situation.
+
+It was rare that she acknowledged his existence during that time, but now, she was talking to him? A rare mood, for Ev.
+
+Rhys looked up, dusting off his robes. “Just checking my stats.”
+
+“Stats, ha.” She spat.
+
+“You don’t like the System?”
+
+Ev shook her head. “Doesn’t mean much to a fist fighter. ‘Fist Proficiency’ is whatever. It can be as high as you like, but it doesn’t mean you know how to counter a throw or turn a blade.”
+
+“Aren’t those their own skills?”
+
+“Mmm. Sure. Still don’t like ‘em. Putting too much faith in a number makes my skin crawl. Saw someone with Knife Proficiency in the fifties get oneshot by an arrow. Even had a skill to intercept arrows, and everything. But he wasn’t paying attention. Didn’t keep his guard up, and all those skills meant nothing. He bled out like everyone else. And everyone always says, ‘oh, but he could train Bleed Resist and—’” She rolled her eyes. “Sure, he could. But unless you’re a mage, you don’t have the time to sit there and slowly grind bullshit defensive skills. Skills aren’t everything.”
+
+Rhys nodded. “I get what you’re saying. It’s like how you could have a high Sword Proficiency, but if you never fight spearmen, you’ll never know how to counter them, and they’ll still have an advantage over you regardless of the number in Sword Proficiency.”
+
+He’d already experienced that, himself. He had points in Improvised Weapon Proficiency, but when facing the absolute wall that was Cynog, he’d been reduced to hit and runs in hopes he could do a little damage. Without real world experience, skills were… well, what they looked like. Just a number.
+
+“Yeah. Not a lot of people get it. They just think big number equals power.” Ev cracked her knuckles. An evil grin crept over her face. “And then I beat their faces in.”
+
+Rhys smiled, but internally, he was just a little bit scared.
+
+“It’s like you. You can fight me, even though your Tier says you can’t. Well—to be honest, that’s far rarer than some idiot with a big number in one skill who doesn’t know how to use their skill, but…” she shrugged. “Point is, don’t worry too much about numbers. Even if yours is small and theirs is big, it’s all about how you use it.”
+
+“Are you doing that deliberately?” Rhys asked. This wasn’t the first time she’d said something that might have been an inuendo, or might have just been innocent misphrasing. By his count, she’d done it at least three times, if not more. At this point, though, he had to know. There was just too much coincidence.
+
+“Doing what deliberately?” Ev asked.
+
+Rhys opened his mouth, then shut it. He eyed Ev, who watched him with a dangerous glint in her eyes. If it’s not deliberate, I’m not going to bring it up. If she takes it the wrong way, and this ends up as a Cynog situation, I’ve got a lot farther to run to get back to the library.
+
+“Nothing,” he said, wisely.
+
+“That’s what I thought,” she said, grinning. She gestured him on. “You’re healed up, right? Back to it.”
+
+Rhys raised his hand. He checked his stock of gunk. It was almost out…but even then, it no longer did much for him. Ordinary gunk barely bothered him anymore. Even the more toxic stuff that Alun created just wasn’t cutting it. He’d tried separating out Alun’s toxic goo and just absorbing that, and it had worked for a few days, but now, it did little for him. The impurities still gave him power, but they barely did anything to strengthen his body. He needed more. Something more toxic, so he could actually work toward absorbing the pit. Right now, he still wasn’t getting any closer.
+
+He had ideas, he just couldn’t act on them here, far from his base camp. He needed equipment and knowledge back at his home, or in the main square. The settings were too austere for him here.
+
+He looked up at Ev. “Actually, there’s something I want to try. Could you give me a few days?”
+
+Ev pouted playfully, then waved her hand. “Sure. I’ll just sit here and practice my forms, I guess. Wait for my durable training dummy to reappear.”
+
+“I’ll be back,” Rhys promised, and stood. He jogged out of the crevasse and stopped.
+
+He’d noticed a few bits and bobs being added to the woods. Some strange red ropes, tied in specific knots. Odd wicker structures, often vaguely humanoid, which turned into burned piles not long after. Even a strange shrine cobbled together out of scrap wood, stained with black smoke from the herbs they burned in it. But this was… over the top.
+
+Paper streamers hung from the trees, black as the night. It looked like someone had TP’d a tree after a college football game gone sideways, but black, and vaguely ominous. Small black figures hung from the trees, all of them distorted and only humanoid if he squinted, paired with bundles of fragrant herbs. The trees were riddled with red ropes, knotted in strange and exquisite knots.
+
+Rhys frowned. What happened? Had some evil being escaped, that needed to be appeased and sealed? Was it some kind of festival to celebrate one of this world’s gods? He leaned in close to the humanoid figure, getting a better look at it, but couldn’t make heads nor tails of its intent. Rhys lifted a hand to touch it, then flinched back. What if it was some kind of cursed doll? He, of all people, should know they existed. He’d been trained by one of the most powerful cursed dolls of all, after all.
+
+Shaking his head at the strange decorations, Rhys headed back into the town. At the square, he hesitated, thinking. He wanted to brew the leftovers into a toxic potion, concentrating and hopefully increasing the toxicity of the gunk at the same time. Sorden would have the potions knowledge necessary, but just the idea of explaining himself to her gave him a headache. Plus, she’d already hinted that he shouldn’t tell her too much about how he had grown so strong, so quickly. Asking her something like that might give away too much about his techniques, and turn him from a student to a target. Not that he’d let that hold him back, if it was something truly essential, but for something he had another route to achieving, he didn’t know that he wanted to give that away to her so easily.
+
+Which left his other option. And honestly? It was probably the better of the two. Nodding to himself, Rhys set off.

@@ -1,0 +1,109 @@
+---
+id: 1bcc8365-8699-5c86-a6be-f6a1d654833a
+page-type-slug: story-chapter-royal-road
+title: "Threads 174 Emissary 9"
+slug: 0205-threads-174-emissary-9
+partOf: forge-of-destiny
+position: 205
+ownLength: 1457
+unit: words
+publishedAt: 2022-01-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/825543/threads-174-emissary-9"
+royalRoadId: "825543"
+---
+
+Hanyi materialized before her, and Ling Qi immediately put her hands on her sister’s shoulders for comfort. Beside her, Jaromila’s expression twitched in discomfort. It was a small thing, and Ling Qi nearly missed it, focused as she was on the Voice. Something else she needed to figure out.
+
+In front of her, the tree woman bent her head down, a dusting of snow falling from her twiglike hair and leafy gown. Her every motion was accompanied by the groans and cracks of bending wood, making it seem as if motion was no longer natural for her.
+
+Hanyi swallowed as she faced the Voice’s piercing gaze, and she bowed her head and clasped her hands with proper respect. “Hanyi greets the Voice of the Far Foothills.”
+
+The Voice made a deep sound in her throat. “Not ice and not human. What are you, child?”
+
+Hanyi’s shoulders tightened under her hands, and Ling Qi gave them an encouraging squeeze. “I’m my mom—mother’s daughter, and nothing else.”
+
+“Zeqing was my teacher in the arts of winter and Hanyi’s mother,” Ling Qi elaborated. “In truth, fully letting go of Hanyi is what destroyed her current incarnation. Such a great change in her way could not be withstood.”
+
+Beside her, Jaromila’s eyebrows rose, but the other woman remained silent until the Voice’s head tilted towards her. “Emissary, explain what this word ‘way’ means. I interpret it as road or path.”
+
+Ling Qi didn’t let her confusion show. “It is our word for the path one who cultivates is on, the direction and concept which they use to build their power.”
+
+“Momma was all alone until she had me,” Hanyi murmured. “But it’s because she was born alone. It was supposed to be that way.”
+
+Once again, Ling Qi squeezed her shoulder. Just because something started in a way didn’t mean it was supposed to be that way. She let Sixiang carry that thought to Hanyi’s ears.
+
+“The mantle,” croaked the Voice. “This, I understand. Her Name, what was it?”
+
+Ling Qi glanced at Hanyi. They both understood what the Voice was asking. Mist drifted from the hems of Ling Qi’s gown, softening their silhouettes as it billowed out into the chamber. Ling Qi took a deep breath and let the flow of the Frozen Soul Serenade’s qi rise through her body. Hanyi let forth the song of the Lonely Winter Maiden, and their voices rose as one to sing the Name of their teacher, as well as they could.
+
+Their voices echoed through the metal forest, and the wispy snowfall intensified, raining down on the chamber. A cold wind blew, sending a few metallic leaves jangling. On the dark walls, the frost shifted, forming serene faces before shifting again and carrying those faces away. Before them, the Voice stood straight, the music echoing in the frozen air around her. One of her hands rose with a weighty creak, and Ling Qi restrained an instinctive flinch as an iron talon pressed against her forehead. She felt a presence in her mind, following the song back to the channel that carved its melody into her spirit. Another branchlike finger pressed to Hanyi’s head, presumably doing the same.
+
+The Voice withdrew her hands as they reached the end of their performance and let the last echoes fade.
+
+The lights in the Voice’s sockets had darkened, and for a long moment, ominous silence reigned.
+
+“The line of the [Songstress of Endings], lost in the Second Great Retreat is acknowledged. She is splintered. She will return.” The tree-like woman’s voice tolled like a bell. “Questions remain.”
+
+“You have claimed that your sister had a human father,” Jaromila said. “Will you explain this?”
+
+“I am not certain what you want me to say,” Ling Qi said. “There was once a man who courted my teacher, and he succeeded for a time.”
+
+“Daddy was nice and taught me a lot of things, even if he was just an echo momma made for me,” Hanyi said sadly. Ling Qi shot her a surprised look. She didn’t know that Hanyi had figured that out. Still, she seemed unaware of the more unpleasant parts.
+
+“As she said,” Ling Qi continued. “Although creating life was against her way, spirit bindings allow spirits to change, yes?”
+
+Their hosts were silent. The Voice’s eyes bored into hers, and she felt the whispering touch of foreign spirit against her mind.
+
+“Yeah, my sister has taught me lots of stuff. She even taught that big doof, Zhengui, how to shoot and hide and build stuff,” Hanyi said, losing a bit of her formal tone as she puffed out her chest proudly.
+
+“Spirits do not change. That is the province of humans,” the Voice said.
+
+“Sometimes, a spirit splinters and is remade, but this is not change,” Jaromila said, sounding troubled. “It is rebirth, the creation of a spirit with a new mantle. What is this spirit binding? Is that what allows you to absorb and reform your spirits’ bodies?”
+
+Ling Qi blinked. It seemed such a bizarre thing to have confounded them. “Do you mean to say that your people do not bind spirits or beasts to themselves at all?”
+
+“There is some precedence for beast bonding, as my husband’s people do, but it is not what you describe. Do you truly purport to be able to change a beast’s nature?” Jaromila asked.
+
+“It is possible,” Ling Qi said slowly. “Emissary Jaromila, Honored Voice, to avoid confusion, what is a ‘mantle’ by your understanding?”
+
+“It is the concept of self and being which composes the form of an ephemeral spirit and which a human may learn to wear and change to fit themselves,” Jaromila replied.
+
+“It is what one becomes as they leave humanity behind. As I have begun and as Iron-Crow-whose Wings-are-Wide has reached completion,” the Voice rumbled, gesturing to the chamber around.
+
+This strange iron mountain had been a man then?
+
+“Huh. Is that why you feel different from the caldera, Miss Jaromila?” Hanyi asked in her stead. “You seemed a lot meaner then.”
+
+“I was attuned to a mantle for war at the time, yes,” Jaromila answered distractedly.
+
+“You mean to say that you can just… change your way at will?” Ling Qi asked. That seemed terribly unfair.
+
+“One can only become a mantle which is compatible with one's nature,” Jaromila replied. “Do you mean to say that by your mere third ascension, you can no longer change your mantle?”
+
+Ling Qi nodded. “I am still developing my way, but the foundations I have laid down are just that.”
+
+“But you are only—” Jaromila began.
+
+As she and Jaromila spoke back and forth, the Voice’s limbs creaked as she leaned back, and the wind picked up, gusting through the room and carrying powdered snow into the air in violent flurries. “These are human matters. Emissary, you wished for my judgement?”
+
+“My apologies, great one,” Jaromila said, lowering her head. “It was not my intention to be distracted.”
+
+Wood groaned as the Voice turned her head back to the two of them. “This Emissary is immature but true. The child—” There was a deep rumbling sound as roots writhed under their feet and branches twisted overhead. “The child is a splinter of [Songstress of Endings]. One mantle, one truth, may sometimes become two. The methods are irrelevant.”
+
+The woman or spirit—Ling Qi wondered which was really appropriate—spoke in tones which brooked no disagreement. In front of her, Hanyi didn’t look wholly satisfied, but she held her tongue.
+
+<I’d say one is as good as another. This is a lady who's stiff and getting stiffer,> Sixiang murmured. <Even more than you lot do.>
+
+“Your wisdom is most appreciated, Voice of the Far Foothills,” Jaromila said.
+
+“There is one matter remaining,” the Voice said, looking down at Hanyi. “Observing the splinter child would be of interest.”
+
+Ling Qi shared a glance with Hanyi, who squared her shoulders. Ling Qi took a deep breath. “Hanyi would be willing to accompany you, Honored Voice, for the duration of our visit.”
+
+“One half a year,” the Voice corrected, “with oaths of good health and protection. Your line would be compensated.”
+
+<No way!> Zhengui protested immediately in her mind.
+
+Ling Qi blinked, startled into silence by the sudden demand. Hanyi looked just as surprised. Beside them, she caught a brief frown on Jaromila’s face before it was smoothed away. This, Ling Qi knew, would guarantee their success. There would be a connection. Transportation would have to be set up. They would still have to negotiate the details, but the minimum they needed would be guaranteed.
+
+All she would have to do is give up her sister for half a year, trusting a bunch of strangers to do right by her.

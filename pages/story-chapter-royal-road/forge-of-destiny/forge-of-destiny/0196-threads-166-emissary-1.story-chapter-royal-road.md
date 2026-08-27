@@ -1,0 +1,127 @@
+---
+id: b2aa7e83-4f02-54ae-9862-b8fd904a839c
+page-type-slug: story-chapter-royal-road
+title: "Threads 166-Emissary 1"
+slug: 0196-threads-166-emissary-1
+partOf: forge-of-destiny
+position: 196
+ownLength: 2294
+unit: words
+publishedAt: 2021-12-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/813220/threads-166-emissary-1"
+royalRoadId: "813220"
+---
+
+Ling Qi opened her eyes with those words still echoing in her ears, brought out of her meditation by a hand on her shoulder. Looking up, she met Cai Renxiang’s eyes.
+
+“We must begin planning our approach,” the other girl said. Her expression was stoic again, no sign of unpleasant emotion in her expression or voice.
+
+“Ah, my apologies, Lady Cai,” Ling Qi replied, standing up and offering a bow.
+
+“There is nothing to apologize for,” Cai Renxiang replied stiffly. “Do not cause me to remind you again.”
+
+Ling Qi kept her head bowed for a moment before straightening. “As you like, my lady. All the same, please do not misunderstand my concerns.”
+
+Cai Renxiang squeezed her eyes shut for just a moment. “Later,” she said roughly, “we may have a conversation on what you witnessed, Ling Qi.”
+
+“Yes, Lady Cai,” Ling Qi agreed.
+
+The other girl turned away and led her from the curtained-off meditation area. The others were already gathered. Zhen’s head snaked in through the entrance, resting on a cushion. Xia Lin stood stoically in the doorway, and the boys sat at attention while Hanyi lounged on a cushion, looking bored and unhappy.
+
+“We have all had a moment to gather ourselves,” Cai Renxiang began as Ling Qi took a seat beside Gan Guangli. “We now come to the most important part of our mission: gaining a peaceful audience with these foreigners. It is likely they are already aware of our presence, which may bode well. We must decide how we are to approach our introduction. I believe it would be best for us to review our knowledge of the targets.”
+
+Ling Qi felt eyes on her and began to speak. “I have only had limited interactions, but the group I witnessed at least seemed disinterested in war. There was some mention of a large building project, a ‘sky fortress.’ The woman who attempted to speak with me seemed even-tempered and perceptive.”
+
+“My studies support similar conclusions to Miss Ling’s,” Meng Dan said, pushing his glasses up. “While my information is naturally much out of date, it does not indicate a particularly insular culture. Records indicate that they were not, then at least, a terribly expansive people. I believe that an emphasis on culture over the martial would be best.”
+
+Cai Renxiang nodded once. “That much is agreed. However, there is the matter of our opening posture, which I think must be discussed.”
+
+With a gesture, Cai Renxiang opened the conversation.
+
+***
+
+The mountain of iron loomed ahead. The ever-present snow was less here, but the wind was just as harsh, howling across the icy plateau they were crossing. A strange serenity suffused the air, a feel of meditative calm that reverberated between flakes of snow, thrumming through the energies that suffused stone and air.
+
+The group had slowed down, walking openly at a quick but mortal pace to avoid the appearance of threat. Xia Lin and Ling Qi were at the head of their formation, followed by the others with Zhengui and Gan Guangli bringing up the rear.
+
+“Do you see what I see?” Xia Lin asked lowly, leaning toward her. The armored girl pointed ahead to the silhouette of the mountain.
+
+Ling Qi gave a shallow nod as she traced the contours of the mountain with her eyes. The odd shape of it, irregular and strange, had become more clear. Crude, weathered, and half-covered in sediment and hardy growth, the vast pile of iron held the shape of a man buried to the hips in the earth, hunched forward with immense hands clasped before his face.
+
+“I do,” Ling Qi said. “It is not just a mountain spirit.”
+
+Xia Lin gave a grunt of agreement. Ling Qi had felt the auras of mountains. They were difficult to make out, so slow and stolid that it was difficult to pick them from the background of the world, alien to the fleeting thoughts of humans and beasts alike. This being slumbered, ancient and distant, dreaming slow dreams, but there was a spark of liveliness in the calm qi unlike any mountain Ling Qi had ever seen.
+
+If she didn’t know better, she thought it might have been human once.
+
+“Just be prepared with your escape talisman,” Xia Lin said, looking unhappy. She tightened and relaxed her grip repetitively on the weapon leaned against her shoulder.
+
+Ling Qi gave a hum of agreement and glanced down at the iron sliver she clasped in one hand. It thrummed in her grip, radiating chill. It felt as if the energies of the mountain were tugging gently at it. If she let it go, she felt like the sliver would fly toward their destination on its own.
+
+They were near the base of the mountain now, no more than a few kilometers away. With the increasingly energetic shard in mind, Ling Qi raised her other hand, signaling a halt. She looked back to the others, receiving her liege’s nod. It was time.
+
+Ling Qi stepped forward from Xia Lin, and Hanyi appeared at her side in a swirl of snowflakes. Her little sister regarded the mountain with wariness, her curiosity banked after the encounter with Black Skies Yearning. Back at the pavilion, they had workshopped their greeting; she just hoped it would be accepted.
+
+<I’ll make sure it carries at any rate,> Sixiang murmured, and Ling Qi nodded again, feeling them take hold of the wind, weaving musical qi into the air.
+
+Hanyi took her hand, and they held the shard of iron between them as they began to sing. It was only a short little hymn, a greeting and an affirmation of invitation in one. They were guests, here to request the warmth of the hearth. They bore weapons for the sake of the mountain dangers and not for their hosts.
+
+The song echoed across the plain, carried by their voices and magnified many times by Sixiang. They waited. If there was no reply they would trek closer and try again until there was.
+
+As they waited, eyes on the mountain, Ling Qi could feel the tension in Xia Lin behind her and the attention of the others. She dearly hoped that this worked. She did not want to have to traipse all over the mountain like a fool.
+
+Ling Qi’s eyes flicked to the side, catching motion at a spot perhaps halfway up the iron mountain. Then she saw the movement of wings and a shadow on the plain. There was a pale furred winged horse in the air, and on his back was a barbarian rider. He wore a mantle of thick black fur over a shirt of banded armor shaped from blue ice, and his mask and helm were carved of white bone.
+
+He was not alone, and the glitter of ice drew Ling Qi’s eyes back down. There, she saw a strange vehicle like a chariot, but with its wheels replaced by lengths of sharpened iron. It was pulled by four beasts. At first, she thought they were thickly built stags with thick brown coats, but at a second glance, they seemed something else entirely. Their heads had a different shape, and their antler points seemed fused into single plates for most of their length.
+
+In the wheeless chariot, she saw three people. They wore armor of ice like the barbarian and thick fur mantles that cloaked their figures. Unlike the barbarian, they wore only a cap of iron without a mask, revealing ruddy faces and braids of dark hair. It took a moment as they flew out, their beasts’ hooves and vehicle’s “blades” carving a road of frost through the air, for her to realize that they all seemed to be women.
+
+Ling Qi remained still as they approached, although she kept her qi ready for defense, studying them. Of the three in the strange chariot, one acted as driver. The other two held iron-tipped spears, of which there were spares in a rack on the chariot. All of them had round iron shields on their backs. The “road” on which they drove broke apart a meter or two behind them, yet the whole of the thing remained suspended.
+
+The barbarian seemed normal enough save for the composition of his armor. She saw the bowcase on the side of his horse and the quiver on his back, and she felt the lingering static on the wind around him.
+
+Thrice, they circled, and Ling Qi remained where she was, holding Hanyi’s hand, refusing to show any fear. It was no easy thing to do. While she didn’t think this party was beyond them, there were surely more warriors inside.
+
+And then, there was also the mountain itself to consider.
+
+On the completion of the third circuit, the chariot and the horseman began to descend until at last, cantering hooves churned up snow and dust several meters in front of them. The stern-faced women in the chariot regarded Ling Qi with wary respect and glanced at the rest of their party with more confusion. The driver of the chariot, seeming the eldest with a heavily lined face and streaks of silver in her dark braids, looked away from Ling Qi and made a sharp gesture to the cloud tribesman.
+
+He reached up and removed his mask. It was, Ling Qi thought, the first time she had gotten a good look at a living tribesman’s face. His skin was not much different than hers in coloration, a shade lighter perhaps, but his eyes were the same shade of blue. He seemed young, no more than a few years older than her, with square, windworn features and a thin mustache.
+
+There was little expression on his face. Whatever he felt about this situation was hidden behind a stoic mask. “You are far from your homes,” he said neutrally. “Why?”
+
+Ling Qi was glad for the translation-assisting talismans with which they had been furnished because the dialect of the cloud tribe tongue the man spoke might have been only half comprehensible otherwise.
+
+Ling Qi acknowledged his words with a dip of her head. “We are, but I believe I have an invitation.” She raised Hanyi and her clasped hands to show the sliver of iron.
+
+The woman driving the chariot gave the sliver a scrutinizing look, and Ling Qi felt power in the woman’s eyes. There was no feeling of channeled qi. It felt more like power was being pulled from the world instead. The driver glanced at the barbarian. She instructed, “Ask her where she acquired that.”
+
+Before the young man could repeat her question, Ling Qi spoke instead. “I received it from a woman with pale hair and an iron scepter, who was at the meeting between confederations. I was not equipped to speak with her at the time, but now, I am.”
+
+“A conclave you lowlanders attacked, or so I have heard,” the cloud tribesman said darkly.
+
+“A gathering of foes, or so we thought,” Ling Qi corrected. “But it is our hope that we were wrong. Since I received the invitation, my leaders have asked that I make contact with the White Sky Confederation.”
+
+“That is a beacon, meant to rescue those lost far from home,” the older woman said directly to her. “Not an invitation for such a party.”
+
+“Perhaps,” Ling Qi said, bowing her head. “And there were certainly miscommunications between myself and the woman who gave it to me, but I would like to repay the effort at least, even if I did not need to be rescued. With me is the daughter of my ruler, who wishes to discuss ways to avoid violence between us as we clash with the Twelve Stars.”
+
+Cai Renxiang, standing well behind her, took a small step forward, offering her own formal bow. “It is the wish of my mother, Duchess Cai, that our people not be in conflict.”
+
+The cloud tribesman’s expression looked sour, but Ling Qi found the slightly pinched look on the older woman’s face familiar. She looked like Cai Renxiang when Ling Qi brought something new and… interesting. “It is not my responsibility to decide such things. If Emissary Jaromila wishes to give gifts, then the matter is her responsibility.”
+
+Ling Qi considered the odd way the title given to her apparent benefactor translated to her. She would have expected a noble title, but that didn’t seem right.
+
+“Warleader,” the cloud tribesman said unhappily, “it is unwise to trust the peace oaths of lowlanders.”
+
+“I will not be the one to turn away an emissary seeking guest right, no matter how strange their clan. All else is a matter for our emissaries and the [Singer/Hierophant/Voice],” the woman said. “And if they intend violence, they may contend with Damir.”
+
+Ling Qi didn’t miss the way the man glanced back at the mountain, even as she puzzled over the imperfect title translations again. Was their leader a priest of some kind too? She knew that nobles in the Empire all the way up to the Empress had some religious roles, but it was not usually emphasized.
+
+“We have no intention of initiating violence. My lady and I wish only to be heard by those who may make decisions for your people.”
+
+The woman nodded. “We will convey you and your Oathholder to the lower hall with your champion and your husbands. You will remain there and not seek entrance further into the redoubt. Emissary Jaromila and her husband will be called to speak with you. Is that acceptable?”
+
+Ling Qi thought about correcting her before electing not to. The minor point of confusion probably wasn’t worth hashing out here in the field. She looked back at Cai Renxiang, who gave a sharp nod.
+
+“That is acceptable,” Ling Qi agreed.

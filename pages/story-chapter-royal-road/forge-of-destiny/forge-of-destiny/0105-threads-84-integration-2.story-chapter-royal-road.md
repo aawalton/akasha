@@ -1,0 +1,81 @@
+---
+id: 0de22f7a-d086-5ecd-833e-df6836400940
+page-type-slug: story-chapter-royal-road
+title: "Threads 84-Integration 2"
+slug: 0105-threads-84-integration-2
+partOf: forge-of-destiny
+position: 105
+ownLength: 1781
+unit: words
+publishedAt: 2021-05-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/681822/threads-84-integration-2"
+royalRoadId: "681822"
+---
+
+Ling Qi’s breath hitched as the first connection came loose. It felt like a needle had jabbed into her flesh and twisted, but she had endured worse. She smoothed out her breathing as she began to work the next one loose.
+
+To her, Forgotten Vale Melody represented many things of her past and present, but what was the most important to hold onto?
+
+Was it loneliness? The melody exemplified the emotion, and although the traveler had chosen it, to Ling Qi, his regrets were laid bare in the melody. The memory of nights alone in the streets and isolation amidst even the most crowded streets were not pleasant memories, but they were a core part of her. It was because of those memories that she worked so hard and clung to her friends so tightly. It was why Xiulan’s departure hurt so much, why spending time with Meizhen made her happy, and why she was so determined to break through to Cai Renxiang.
+
+Was it ambition? The traveler had wished to see sights that no human eye had ever seen in order to compose something beautiful enough to offer unto the moon. Ling Qi knew that she was unusual in her drive. She had seen the peak of human power and she wanted it so badly that it hurt. She wanted to keep walking the path of cultivation and never stop. She wanted to reach the top. She also wanted to keep her friends close and pull them along their own paths, so that no one would need to be left behind. She wanted to never fear.
+
+Was it desire? The traveler had abandoned everything out of his desire for beauty. He had desired to fulfill his soul’s yearning for forgotten vistas. Ling Qi could not and would not do something like that, but she understood. She had desired a friend, and so she had spoken with nobles on her first day at the Sect and even approached Meizhen, who had seemed so alone that day. She desired to help her mentor, so she had braved death and rescued Zeqing’s daughter from herself. She was, in the end, a greedy girl. Perhaps it was important not to forget that?
+
+In the end, could there be any other answer? It was loneliness that had made her what she was. It had shaped the foundations of her worldview and wants. It was not a happy thing, but Ling Qi thought that she would lose something if she ever forgot loneliness. If memories of cold streets and lonely crowds, of cold winters and empty bellies faded away, what would she become?
+
+She breathed out, and the sensation of her flesh and blood, of the room around her faded. Her hands were tangles of ice blue and matte black cords, and the blade floating between them was beginning to shine. Before, she could direct the weapon with a thought. Now she was beginning to feel it as if it were truly a part of her.
+
+The twisting metal blade in her hands began to soften around the edges, the definition between metal and mist fading as Ling Qi began to attach the first meridian to the empty vessel. In her mind, a single high note rang as she began to forge the connection. It wasn’t very hard. The “free” end of her meridian seemed eager for something to connect to to seal off the flow of music qi spilling raw into the world.
+
+As she carefully affixed the opening of the meridian to its new home, the weapon tingled uncomfortably like a limb that had been slept on. The music flowing through the meridian began to change, slowing and growing melancholy as she focused her thoughts on the feeling she wanted to pour into the blade, and in her hands, the physical form began to pulse and twist.
+
+A second meridian came loose at her coaxing, cold and thrashing, liquid in the grip of her mind, and through it flowed memories she would not allow herself to forget. She remembered spending days and nights alone, furtively scrabbling like a beast just to survive. The blade thinned and wavered, growing narrow.
+
+Last came darkness. The unmoored meridian clung to her, curling like a serpent around her wrist as she plucked it free. Her first real personal connections had been like water in a drought, healing cracked and parched earth. They had led her to discard old instincts. Images of scurrying bodies and sharp teeth flashed through her thoughts, and blood red tinged her fingertips.
+
+It hadn’t been easy to change. She had fallen from her path, given in to fear and helplessness in the Bloody Moon dream, but she would not struggle with that decision again. The moment of decision as the knife from that rat-thing assassin plunged toward her neck returned to her.
+
+The third meridian connected, and she felt her domain blade as if it were her own arm. She flexed new muscle, and the blade twirled. She breathed, and the soft sound of the Forgotten Vale Melody played.
+
+Ling Qi opened her eyes and looked upon the change her cultivation had wrought in the dark and twisted blade. Its profile was simpler now, having become a long, thin double-edged blade. Although it was still hollow, the gaps in the metal had narrowed until they were no more than the holes on a flute, faint wisps of mist leaking from the darkened openings, and the handle a mouthpiece of dark lacquered wood whose grain shifted like liquid.
+
+For a time, Ling Qi remained seated, idly manipulating her Singing Mist Blade through the air, altering the tone and beat of the faint melody it played. It felt like stretching a cramped limb, muscles tingling and blood flowing in response to her exertion. The blade was her, but it was not flesh and blood. It felt foreign and disorienting. Her body had changed; she wasn’t quite the same anymore. And yet, when she grasped the handle, she felt like she was holding her own hand. When she played the Forgotten Vale Melody, it felt as if she were playing it with her own lips and breath.
+
+She closed her eyes and focused on how she had gotten here. It was her choice to walk the path. She was going to keep growing, and she would change on the way, but that was fine. That was the price of cultivation.
+
+Ling Qi stood, and her blade whistled faintly as it rose to hover over her shoulder. Ling Qi looked down at her hand, absently flexing it open and closed. Then she took a deep breath, and Awoke.
+
+Loose stones on the cavern floor rattled and shook, and the air thrummed. All around her, the world went white and grey. It wasn’t like before. The mist didn’t pour forth or flow. With an action no more strenuous than opening a closed fist, the Mist simply was. Her blade keened softly, and the phantoms formed. Gaunt and desperate faces and ragged knives formed in the mist, alongside stalking beasts, while mocking spirits whirled overhead. The eyes of her phantoms were no longer crimson but pools of black, empty and accusing. Through her blade, she played her song, and the mist went colder still, growing thick and clinging. She could feel its hunger, its loneliness, and its desire. She could feel it because it was her. Fuzzy and faint as it was still, Ling Qi felt the disorientation of being in every part of the room at once.
+
+<You’ll get used to it,> Sixiang said. <Congrats, Ling Qi.>
+
+Then, the door opened, unsealing the meditation room. Cai Renxiang stood in the doorway, and the mist rushed out into the unoccupied hall, suffusing the air and surrounding her. Ling Qi felt the difference then. The Mist around Cai Renxiang was still cool, but it was a spring morning’s chill and not winter’s harsh bite. Around her liege, the phantoms faced outward, menacing with fang and blade, and the coldness of the lonely street was replaced by the warmth of a friend’s arm around the shoulders.
+
+“It is good that your efforts have borne fruit,” Cai Renxiang said mildly, briefly glancing around. “However, please reign yourself in. You are leaking.”
+
+Ling Qi blinked and flushed. Cai Renxiang was right. Leaving the open door aside, the sealing on the room was imperfect, and she could feel streamers of herself seeping through the cracks into the rest of the house. With a feeling like sucking in her stomach, the mist shrank, condensing into the area right around her and Cai. She would have shrunken the Mist further, but it actually felt a little good to have a friend within it.
+
+“Sorry about that,” Ling Qi apologized, smiling. “I got lost in the sensation.”
+
+“Understandable,” Cai Renxiang said. She reached out to prod one of the shifting phantoms near her, frowning thoughtfully as it dispersed into smoke. “Your domain is a... unique sensation.”
+
+Somehow, that statement just made her feel more anxious, Ling Qi thought irritably. “Well, what is your’s like then?”
+
+“Inwardly focused,” Cai Renxiang replied.
+
+“That’s unexpected,” Ling Qi said as she struggled to shrink the Mist further. “I guess that makes sense with what you’ve told me.”
+
+Her liege merely nodded agreeably. “I have prepared tea, a new blend from the Ebon Rivers stock. Since you have been in meditation for a day and a half, you should join me. You can begin practicing restraining yourself.”
+
+“Sure,” Ling Qi said, taking a step forward only to pause. She was curious. “Do you think you could show me your domain again? I’ve seen your weapon, but I think it might be different now.”
+
+Cai Renxiang paused as well, and for a second, Ling Qi thought she had overstepped herself again. Then, there was the faint ringing of bells, and Cai Renxiang was bathed in light. Her face was an imperious and featureless mask of liquid metal and light, and her gown’s empyreal armor was forged from radiance. She looked daunting, inhuman, perfect, and serene.
+
+She was so very alone.
+
+“Hmm?” Cai Renxiang murmured in surprise and glanced down to see a child formed from mist and fog gently grasp her fingers. The child had familiar dark features, hair that could not be tamed, and ice blue eyes.
+
+Ling Qi let out a squeak of morbid embarrassment, and she wrenched her domain back in, the Mist vanishing in an instant. Cai Renxiang’s armor and radiance flashed away as well, leaving only two girls staring awkwardly at each other.
+
+The tea time afterward was easily the most uncomfortable time she had experienced in a while.

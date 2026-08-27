@@ -1,0 +1,191 @@
+---
+id: 53462d24-12cc-517a-80ae-b64b2740cab5
+page-type-slug: story-chapter-royal-road
+title: "30 - The Ancient Waterway (2)"
+slug: 0030-30-the-ancient-waterway-2
+partOf: gamer-girl-evolution
+position: 30
+ownLength: 1673
+unit: words
+ownProgress: 1673
+publishedAt: 2025-11-25
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2792267/30-the-ancient-waterway-2"
+royalRoadId: "2792267"
+markedReadAt: "2026-06-29T20:06:32.567Z"
+---
+
+Celica’s boots splashed into the shallow waters as she stepped through the second door, a sprawling expanse greeting her. The atmosphere was thick with humidity, and the air was heavy with the scent of damp earth.
+
+The entire area seemed to pulse with a strange, watery energy. Celica didn't mind it, her eyes focused on something else entirely.
+
+[Aqua Wraith - Lv. 42][Tidal Rift-born Crab - Lv. 43][River Ghoul - Lv. 43]
+
+The sight of the enemies didn’t faze Celica—she’d faced similar creatures before. Countless times.
+
+The Aqua Wraiths floated ominously above the water, their transparent forms barely visible until they struck. The Tidal Rift-born Crabs weren’t very stealthy, but their armoured bodies and large pincers could strike with tremendous force.
+
+And then there were the River Ghouls. Each time they slammed their fists into the water, the liquid would surge violently, forming sudden geysers that made dodging a nightmare.
+
+Celica’s movements were fluid as she attacked them. She activated Water Blade, her sword now imbued with the elemental energy of water.
+
+With each slash, waves of water cut through the Wraiths, disrupting their form. They weren’t defeated by a single strike, but the layering of her attacks made their HP bars vanish at a frightening rate.
+
+[+1400 EXP]
+
+[+1390 EXP]
+
+[+1410 EXP]
+
+She danced through the battlefield, her agile footwork preventing her from being caught by the Crabs’ sweeping claws. Every time one of them lunged at her, she would sidestep or Parry the attack with precision, her movements becoming a blur.
+
+Her focus never wavered.
+
+She managed her distance, using Thrust to strike their weak spots, and Slash to deal heavy damage before they could react. Her senses were on high alert as she used her Parry to deflect incoming water blasts from the River Ghouls.
+
+She moved like a shadow, more wraith-like than the wraiths themselves. She had always thrived in chaotic battles like this one with various enemies and attacks to watch out for. She didn’t just fight her enemies; she adapted to their movements, exploited their weaknesses, and used their environment against them.
+
+[+1420 EXP]
+
+[+1380 EXP]
+
+[+1455 EXP]
+
+Soon enough, the last of the wraiths had evaporated into the misty waters, and the remaining ghouls and crabs had been finished off. Celica watched as the chaotic battlefield quieted down substantially, the formerly tumultuous waters settling around her.
+
+No status changes for now.
+
+She stepped forward, toward the door at the end of the room. What greeted her beyond the door was a vast chamber, with a circular arena surrounded by deep pools of swirling water.
+
+At the far end of the room, a massive creature loomed, its serpentine body coiled around ancient stone pillars that jutted from the water like ancient trees in a mystical forest.
+
+The creature’s scales shimmered with a faint, otherworldly glow, and its eyes burned with a cold, calculating intelligence.
+
+[Aqua Serpent (Boss) – Lv. 44]
+
+The serpent hissed, and with a sudden lurch, it launched itself toward Celica, its massive body slamming against the waters. Without hesitation, Celica rolled to the side, avoiding the creature's crushing strike.
+
+With a flick of its tail, the serpent whipped up a powerful water current, sending a wave crashing toward Celica, trying to knock her away. She avoided the surge with precise movement, but the serpent was relentless.
+
+It summoned whirlpools in multiple locations, pulling at the water around Celica and attempting to trap her within their spiralling vortexes. She smiled at the challenge that the snake presented.
+
+That's more like it.
+
+[Water Strike]
+
+As the serpent lunged at her, she imbued her blade with the elemental power of  water and slashed through the air. The serpent recoiled in pain, but only for a moment before it lashed out again, this time creating a massive whirlpool beneath her, that threatened to suck her in.
+
+[Aqua Serpent: 87% HP]
+
+She quickly animation cancelled, evading the vortex and landing some clean hits on the serpent's tail as it struck out at her again. The serpent hissed in frustration, its eyes glowing brighter as it summoned more water.
+
+[Aqua Serpent: 72% HP]
+
+Celica landed combo after combo as the boss' HP drained rapidly. Only when the serpent’s health dropped to 50%, did its speed and water manipulation proficiency increase. But it was already too late.
+
+Celica’s focus was razor-sharp. She used her vectoring to stay on the serpent’s tail, her attacks relentless. She darted in, landing precise blows with Thrust and Slash, damaging the serpent even as it thrashed wildly.
+
+[Aqua Serpent: 5% HP]
+
+C'mon, is that all?
+
+Seeing its low HP, Celica didn’t hesitate.
+
+[Water Strike]
+
+With a command, she slashed directly at the serpent’s heart, a brutal wave of water cutting straight towards the serpent's heart.
+
+Crash!
+
+With a final, defiant hiss, the Aqua Serpent collapsed to the ground, its body disintegrating into the swirling waters below.
+
+[You have defeated the Aqua Serpent.]
+
+[+16,000 EXP]
+
+The room grew silent, the oppressive weight of the battle lifting. Celica stood there for a moment, before the system chimed again.
+
+[You have obtained the item: Heart of the Ancients (2/3 Fragments Collected)]
+
+Celica inspected the glowing fragment, her lips curling into a small smile. She had what she came for. She retreated back into the room with three doors, her eyes locked onto the only door she hadn't been through yet.
+
+The heavy door creaked open, as Celica stepped through it.
+
+Huh?
+
+Her eyes widened in surprise when she found herself in an underground cavern, with water pooling at her feet. The cavern walls glistened with the reflection of an ethereal light, shimmering gently.
+
+Celica drew her sword, the soft glow of her Water Blade lighting the space as she moved deeper into the cavern. Ahead, shapes began to shift in the shadows.
+
+[Quartz Golem – Lv. 46][Aquatic Wolf – Lv. 45][Flooded Shadow – Lv. 46]
+
+She immediately took to the offensive, her movements efficient and calculated. Her sword crackled with energy, her every swing deadly. The Aquatic Wolves lunged in response, their jaws snapping towards her.
+
+[Water Strike]
+
+Celica delivered a critical blow to one of the flanking wolves, before sidestepping, the water-infused blow cutting through its sleek fur and sending it tumbling.
+
+[+1730 EXP]
+
+She eyed the wolf's corpse before quickly regaining focus, her eyes swivelling to the rest of the enemies. She wasn't finished yet. Celica danced around the different mobs, parrying attacks one moment and striking with her blade the next.
+
+[+1810 EXP]
+
+[+1770 EXP]
+
+[+1760 EXP]
+
+Every golem that got close was struck down in a flurry of attacks, their bodies tumbling before sinking into the water. Each attack was calculated, and each one of her movements were optimal. All of the enemies disintegrated into nothingness as Celica’s sword mercilessly cut through them.
+
+[+1770 EXP]
+
+[+1760 EXP]
+
+She stood alone in the middle of the cavern, surrounded by monster corpses, her blade glowing brightly. Celica surveyed her surroundings, her eyes scanning for any more threats. She spotted a small alcove on the far side of the cavern.
+
+There was something there.
+
+She steeled herself for what was next as the final door creaked open, revealing a cavernous space so vast that the ceiling seemed to disappear into the blackness above. The water around her surged, swirling with unnatural currents.
+
+Celica stepped forward, her senses on high alert. Something was coming.
+
+A low rumble echoed through the cavern as a massive form began to rise from the depths. The waters parted with a deafening roar, and Celica’s lips curled into a smile.
+
+An immense creature towered over her, a grotesque fusion of sleek aquatic beauty and the twisted power of the rift.
+
+Its body shimmered with dark, glowing cracks, pulsing with corrupted energy. The beast’s mouth opened, revealing rows of jagged teeth as it bellowed, sending ripples through the feeble waters beneath it.
+
+The sword in Celica's hand gleamed in anticipation as her grip tightened over her weapon.
+
+[Rift-Born Leviathan (Boss) – Lv. 46]
+
+The Leviathan let out a roar that shook the very foundation of the room, as massive waves surged toward Celica. She was quick to react, vectoring precisely to avoid being swallowed by the wave.
+
+The Leviathan’s second attack was a barrage of water-based spells, which rained down on Celica from above. Wherever the spells landed, mini whirlpools formed that made the terrain unstable.
+
+Celica's hairs stood up as the adrenaline kicked in, her movement extremely clean as she manoeuvred away from the spells and the subsequent whirlpools which formed.
+
+The Leviathan, was fast and unpredictable in the water. It dashed across the arena with surprising speed, sending waves and rubble crashing towards Celica with every movement. Water Spheres shot from its mouth, aiming to strike her down with precise force.
+
+Celica dashed to the side, as she countered quickly.
+
+[Water Strike]
+
+The elemental blade glowed with the power of the water element before it came to life, an unstoppable rush of water piercing through the air as the strike it made its way towards the Leviathan.
+
+Crash! Crack!
+
+The strike landed with a satisfying crack, but the beast’s skin quickly regenerated, leaving only a temporary scar.
+
+[Rift-Born Leviathan: 96% HP]
+
+Seeing a moment of weakness, she immediately launched herself at the Leviathan’s exposed flanks, landing a full DPS animation cancel Slash and Thrust combo to melt its health bar.]
+
+[Rift-Born Leviathan: 62% HP]
+
+As the fight went on, the Leviathan began to summon more violent waves, each one larger and more destructive than the last. But Celica was a blur as she cut through the massive creature’s attacks, her speed and combat skills allowing her to always have the advantage against the beast.
+
+[Rift-Born Leviathan: 50% HP]
+
+As the Leviathan’s health dropped to half the original, it let out a guttural roar and began to thrash violently. The water level began to rise, submerging parts of the battlefield. It started dashing across the arena in a frenzy, creating violent tsunami-like waves as it charged.
+
+[The Rift-Born Leviathan has entered its Second Phase.]

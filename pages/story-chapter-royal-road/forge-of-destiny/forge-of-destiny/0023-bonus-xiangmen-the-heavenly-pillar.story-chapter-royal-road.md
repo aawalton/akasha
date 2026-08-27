@@ -1,0 +1,43 @@
+---
+id: 8e3971b3-2c32-5d58-96f1-a2f2dc41ff7f
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Xiangmen, the Heavenly Pillar"
+slug: 0023-bonus-xiangmen-the-heavenly-pillar
+partOf: forge-of-destiny
+position: 23
+ownLength: 963
+unit: words
+publishedAt: 2020-11-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/590775/bonus-xiangmen-the-heavenly-pillar"
+royalRoadId: "590775"
+---
+
+Majestic is the Pillar of Heaven, the eldest of all trees, father and mother of forests.
+
+Visible far and wide across the Empire, mighty Xiangmen stretches its eaves far higher than any mountain. Its trunk pierces the clouds, and its crown reaches to the very limits of the vault of heaven. Yet so pure is its existence that it casts no shadow on the lands beneath, and the power of its knotted roots flows into the earth for a dozen leagues and more, transforming the rolling hills at its feet into the most fertile lands in the Empire.
+
+Within its trunk, nestled within its roots and adorning its branches, is one of the largest cities of the Empire. Only resplendent Shuilian City and the Imperial Capital itself surpass it in souls sheltered.
+
+The great city which fills the pillar is divided into several regions. The Green Hills region is the first a visitor will reach, a great sprawling township in its own right filling the lands surrounding Xiangmen’s base. The hills here are not mere earth but follow the undulating growth of the Heavenly Pillar’s roots. The radiating vitality of Xiangmen fills the soil and speeds the growth of crops, ensuring the city never has a poor harvest.
+
+Within are the rootways whose tunnels extend into the earth. The Upper Rootways are home to the city’s military. Forts and redoubts built within shaped knots in the wood guard passage to the halls above, brightly lit at all times by faint sunlight that filters through impervious bark and a multitude of colorful lanterns as even the stern purpose of these passages does not make them any less vibrant.
+
+However, they cannot compare to the Pillarhalls, the great thoroughfares and spiralling streets which wrap throughout the great trunk of Xiangmen. Here, the true glory of the city is made clear in streets lit by knots filled with stained glass, filtered sunlight, and radiant lamps. Home to numerous artisans, craftsmen, and merchants, in the great markets of Xiangmen, even the most exotic goods in the Empire can be found in one auction hall, shop, stall or another.
+
+As one climbs the uncounted steps which make their way up Xiangmen’s trunk, the city only grows more resplendent. Glittering mists drift in the air, putting minds at ease, sapping away fatigue and sparking the creative drive of visitors and residents alike, for Xiangmen is the City of Art!
+
+Finally, high above, passages exit out onto the branches of Xiangmen, swathed in clouds. In the Cloudspires district, the great families of the city reside in palaces carved as much from clouds and dreams as wood. The great leaves of Xiangmen, larger than the sails of ships, rustle in the wind, and their song fills the streets and thrums in the palaces. Among the palaces are concert halls and galleries hosting many of the greatest artists and works the Empire over from across eons of history.
+
+It is here among the clouds that the products of the Pillar are processed. Although none would be so crass and foolish as to attempt to harvest materials from Xiangmen itself, twigs and leaves are shaken loose from its branches on a somewhat regular basis. Of course, twigs of Xiangmen are equal to entire trees in volume, and so the carpenters and woodworkers of the city always have much work to do in making use of the most valuable and difficult to shape wood in the Empire.
+
+Xiangmen’s leaves, too, are valuable beyond measure. Their extract is near priceless among pill and elixir makers, and the fibers of the leaves may be processed into many things. It is said that the Duchess herself used an entire leaf in the crafting of the gown which she presented to the Empress at her coronation.
+
+Sap from the Heavenly Pillar is a much more rare product, only occasionally and briefly seeping free of cracks in the bark of the upper branches. Incredibly dangerous to harvest given the environment, it is nonetheless highly prized for both medicinal and culinary uses.
+
+Visible too from the Cloudspires is the Ducal Palace where many of the branches of Xiangmen come together, fusing into a greenery shrouded mansion of utmost beauty hanging above the rest of the city. At its very top is the Court of Xiangmen where the Duchess holds court and decides on the many important issues which face the province.
+
+Sung into existence by Tsu the Diviner himself, the Ducal Palace once hosted the first king of the Weilu in the savage days before the rise of the Sage Emperor. It was here that the young Weilu, ancestors of us all, withstood the last march of the Beast Kings. It was here that the Sage Emperor met the Conclave of Petty Kings which had divided the land against itself and brought them under his gracious rule, anointing from among their number a duke to rule in his stead.
+
+Through the ages, Xiangmen has stood mostly untouched by the violence of the world. Never has it been sacked or burned, its population scattered. Violence has touched it many times, but none have ever risked the wrath of the Heavenly Pillar by seeking to raze it. Thus, among scholars, Xiangmen is sometimes called the City of Memory where truly ancient workings may be found still, hidden in shadowed corners and forgotten halls.
+
+Yes, even in hard times, Xiangmen has prospered, and from its roads, prosperity and funds have flowed back into less fortunate locales, rejuvenating the province again and again. This has only accelerated under the great Duchess Cai! New roads snake out from the Green Hills, connecting to newly settled villages, harvesting resources long left fallow. For many millenia, Xiangmen has endured, but at last, once more, the city grows!

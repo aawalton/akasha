@@ -1,0 +1,105 @@
+---
+id: 71fe690b-1746-589a-a2af-875768f0d96d
+page-type-slug: story-chapter-royal-road
+title: "85. Supernova"
+slug: 0085-85-supernova
+partOf: god-of-trash
+position: 85
+ownLength: 2310
+unit: words
+publishedAt: 2025-05-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2303303/85-supernova"
+royalRoadId: "2303303"
+---
+
+Trash poured into him. The carefully separated trash visibly depleted. In moments, he reached the level of trash inside his core that he would usually ignite a trash star at, and he kept going. Compressing, pushing, crushing down the trash as much as he could into as small of a point as he could. When it started to fill his core, he used his core walls to clench down on it and crush it further. When he could crush it no more, he pushed at his walls instead, expanding them outwards. More trash. More!
+
+His core stuttered. The flow of mana through his body sludged to a halt. Every piece of his core was full of condensed trash, and with nowhere for the mana in his core to go, it soaked into the trash itself, making it yet more powerful. Only the pure mana at the bottom of his core remained an exception, pushing a little dimple out of the bottom of his core. It was unsightly, but Rhys was used to that. He was trash. If he wasn’t able to accept a little ugliness, he’d never get anywhere on his trash journey.
+
+There was no more room. He couldn’t absorb any more trash. Rhys raised his hand and stirred the tiny amount of mana he could still move. He eyed the trash, hesitating one moment before he pushed the mana inside to spark it to life. He called it a trash star, but he still ignited it manually with external mana. Actual stars were ignited due to the immense pressure and heat at their center, as huge quantities of mass pressed down on itself and down and down, until it couldn’t help but ignite. These were not true stars. They were artificial stars, not yet strong enough to ignite on their own.
+
+His jaw set. His eyes lit up. That might be the case for now, but it won’t be the case forever! He would create true trash stars, even if it took him years to reach that height.
+
+But for now… well, for now, he was trashy enough to take the easy way out. He shoved the shard of mana into the trash star, and the star came alight.
+
+Instantly, mana overwhelmed him. Searing hot, blazing through every inch of his body, mana ravaged him. Sweat dotted his forehead and ran down his back. His body dried out as it baked from the inside out. His skin cracked open like a dry riverbed, and red hot embers glimmered in the depths of the cracks. Rhys fell to his knees and toppled forward, barely catching himself with his hands. He was so hot he didn’t know if he was hot or cold, his body waffling between the two, only sure of one thing: this was too much, far too much, far, far too much!
+
+Biting the inside of his cheek, he forcibly pushed the mana into his body, enforcing it as much as he could in the moment the trash star was lit. Splitting his attention, he also compressed the mana in his core as much as he could, forcing it to hold the absolute maximum he could. Several drops of that new kind of mana condensed in the bottom of his core while he worked. The burned cells were reinforced and replaced with cells that could handle this heat. Those that were overloaded by the sheer momentary influx of mana were expanded, given more room to handle and condense mana within themselves. His baked body un-baked, and the cracks on his skin grew dark in their cores, then closed over.
+
+It was there and gone in a split second. One moment, he was burning alive, on the verge of overwhelming himself from mana overdose; the next, he was fine once more. The mana he couldn’t absorb or imbue into his body escaped into the air around him, filling the trash heap with dense mana like some kind of mage’s paradise. The rats, raccoons, and other vermin gathered near, breathing deep as they sucked in as much mana as they could. Rhys wanted to absorb it back into himself, but his whole body brimmed over with mana. He’d enhanced his body, condensed mana tightly in his core, and still his mana passages and cells shimmered with excess mana. He felt like a fat kid after a big chicken dinner, his belly big and round, so full that he couldn’t possibly fit another morsel in his mouth… except it was mana, not food.
+
+Feeling borderline drunk, Rhys sat back, resting his hand on his stomach, and let out a big satisfied sigh. He couldn’t do anything like this, not fight, not use techniques, not absorb more trash… hell, he could barely move. He stretched, then hauled himself upright and waddled back to his dorm. What he needed to do right now, was sleep all this off. It was either that, or sit here and stare at the stars until morning, and he figured he might as well get a good night’s sleep in, what with more battles tomorrow.
+
+There were too many battles today, just based on the number of competitors, to do more than one battle per person. After he’d finished his, the ref had pushed them both away to ready the field for the next contestants. But tomorrow, that would be different. Half the competitors had been eliminated, leaving enough room for two, or even three battles in the day. He could use a good night’s rest, what with multiple battles before him tomorrow. Plus, they’d be tougher, now that the rankers had seen what he was capable of. He wouldn’t be up against unranked trash anymore, but instead, facing off against what the coordinators of the tournament considered equivalent battlers to his skill level.
+
+And possibly even Ernesto’s champion.
+
+So thinking, he waddled back up the hill and into his dorm, only to find the mattress still wet. He stared at it for a second, pushing his fingers into the cloth so the water oozed up, then sighed and backed away, lying down on the floor against the wall. One, he was trash, and could sleep anywhere; two, he was a mage, and barely needed to sleep. When he did sleep, his durable mage body meant that he took on no ill effects from sleeping in strange places or on the floor, though he wasn’t sure how much that was magehood, and how much that was his younger body. Even in his first life, he remembered sleeping in some weird places and postures as a kid, and ending up just fine. It was only in adulthood that he ended up having to worry about how he slept.
+
+He woke to sunlight, filtering in through his window, and the titter of birdsong. Yawning, Rhys sat up and stretched. Despite everything, it had been a good sleep, for the rare sleep after a long stint of wakefulness. He didn’t need to sleep, not anymore, but experiencing it reinforced it in his mind as a luxury for mages, an absolute decadence. He didn’t know that it would give him the edge over his fellow tournament competitors, but it sure felt nice. He stretched one more time, then stood.
+
+His broken sword was in his robes. There was plenty of garbage in his storage ring, and some of it really nasty to boot. He’d processed some of the mana in his sleep, and while he no longer felt overfull, he was pleasantly, perfectly full. All the mana he could possibly absorb sat in his core, and his cells, too, brimmed with the potent magical energy. He was in as good a shape as he could possibly be. And now, it was time to fight his first real battle in the tournament. Not as an unranked fighter, because, having lived an entire life of bullying children in unranked, he knew unranked was basically meaningless. They were all chaff down there. Either too ruined by random phobias to actually fight, or so weak that a victory meant nothing. Now that he’d handily beaten an unranked member, he could forsee exactly how things were going to go. Just like a shittily balanced match-based online fighting game, one victory would surely lead to him rocketing up to the very top of the ranks, so he could get punished and pingponged back to the rankless losers, only to win handily again and pingpong back to the top.
+
+Well, it was single elimination, so he’d only pingpong once, but he didn’t look forward to getting eliminated with extreme prejudice by some high-ranking fighter.
+
+Rhys slapped his cheeks. No! I can’t lose! Mostly because if he lost, he was going to die. Well, his school was going to get taken over by Ernesto, and then Ernesto was going to bully him to death. Honestly, a quick death might be preferable.
+
+If I lose, I’m probably going to just take off into the night and vanish. It was a trashy move, but hey… he was trash. Besides, he’d already been bullied enough for both his lives. He really had no interest in spending his second life getting bullied, too.
+
+But he wasn’t going to lose, so it didn’t matter. He was going to beat Ernesto’s champion and stunt all over Purple Dawn as the representative of the clearly superior Infinite Constellation School. Even he knew it was true, but he sure liked the idea of getting to act like he was unstoppable and on top just to piss off everyone around him.
+
+“Yep! I’m going to win!” he said, punching the air.
+
+“You can’t win on your ass in your bedroom,” Bast remarked.
+
+Rhys whirled around. Bast crouched in the window, resting his elbows on his knees like a regular delinquent. “I thought you went around in your mask all the time.”
+
+“Eh. I can manage a few moments of freedom every now and again.” Bast shrugged, then offered Rhys a hand. Rhys took it, only for Bast to fall backward out the window, dragging Rhys after him. He hopped the window ledge, hoisting his legs high to avoid barking the hell out of his shins. In midair, Bast released him and fell alone, and the two of them landed beside one another at the foot of the dormitory.
+
+“That was unnecessarily dramatic,” Rhys complained, fixing his collar and dusting off his shoulders.
+
+“Yeah, but it worked. And it was cool.”
+
+Rhys nodded, unable to disagree on both counts.
+
+A bell rang. Bast thumbed over his shoulder. “Better hurry, or you’re going to be late.”
+
+“Huh? Don’t fights start at… I dunno, nine a.m.?”
+
+“Fights start at the crack of dawn, and we’re well past that. You were about to miss your fight entirely, so I came to fetch you.”
+
+“Yesterday—”
+
+“Was opening day, with a different schedule.”
+
+Rhys stiffened. That did sound reasonable. And he’d never seen a schedule, either, or looked for one, which, in hindsight, he really should have done. He glanced around, jittering back and forth. “Did you tell them I was on my way?”
+
+“I did, yeah. Probably bought you five minutes,” Bast called after him.
+
+“Thanks!” Rhys shouted over his shoulder as he raced to the arena.
+
+Bast watched him go, hands on his hips. He shook his head. “What would you do without me?”
+
+Rhys ran toward the arena at top speed, sending up a cloud of dust behind him as he charged in. As he drew close, the sounds of battle and the flash of magical attacks filled the air around him, mixed with the occasional cheering of the fans. Rhys hurtled through the dark tunnel under the stadium seating and out into the dusty path that ringed the edge of the stone squares. One of the squares stood empty, with a familiar dark-robed contestant and a bored-looking referee standing to the side. Rhys raced over and drew to a halt. “Hi, sorry I’m late!”
+
+“Are you contestant Rhys Foundling?” the ref asked in the most disinterested voice possible.
+
+“Yes! That’s me.”
+
+She nodded, gesturing at the cloaked figure. It was the same one Rhys had seen around Ernesto yesterday. “This is Ernesto’s champion. The outcome of this match determines your fates. Do you accept?”
+
+Rhys eyed the cloaked figure. He couldn’t tell if it eyed him back or not. The hood fell almost to their nose, and pulled tight at the base of their neck. Heavy, loose fabric hid every other feature of their figure. Rhys was a little taller than them, but that was all the more information he received by looking over them. He extended his aura to read theirs, but got little from the interaction except that they were at the peak of Tier 2. He didn’t have Ev’s aura-reading skill, and, it seemed, nor did he have any skill at reading auras either.
+
+He nodded to the ref. “I accept.”
+
+She nodded and flicked her head toward the stone square. “Contestants, please take the field.”
+
+Rhys turned to the cloaked figure. Offering his hand with a smile, he said, “Let’s have a good match.”
+
+The cloaked figure looked at his hand. Silently, they whirled on their heel and marched off.
+
+“…Never mind.” Rhys lowered his hand and shook his head. He stepped toward the stone platform and stood there, waiting for the figure to reach the other side. The two of them opposed one another, on far sides of the platform.
+
+The cloaked figure stepped forward. Rhys did as well, his heart thumping, half from his sprint here, half from the tension. This is it. He hadn’t expected it this soon, but here it was: the battle against Ernesto’s champion.
+
+But hey, after I win this, the rest of the tournament is downhill! Rhys thought. Half-forcing a smile onto his face, he stepped onto the platform.

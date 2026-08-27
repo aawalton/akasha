@@ -1,0 +1,237 @@
+---
+id: 80a6cce5-1626-56bd-8500-1061839b8155
+page-type-slug: story-chapter-royal-road
+title: "26. Don't Play in the Ancient Toxic Trash Pit"
+slug: 0026-26-dont-play-in-the-ancient-toxic-trash-pit
+partOf: god-of-trash
+position: 26
+ownLength: 3815
+unit: words
+publishedAt: 2025-03-20
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2139744/26-dont-play-in-the-ancient-toxic-trash-pit"
+royalRoadId: "2139744"
+---
+
+They descended through the trees, hurtling down toward the earth below. For a hair-raising moment, Sorden slalomed through branches, dropping so fast Rhys’ stomach lurched only to soar back up again, and then they were down at ground level. Rhys hopped off, glad to be back on solid ground. The flight had been fun for the most part, but those last few seconds had really whipped him around. He’d never been much for roller coasters, and roller coasters without any of the guarantees of modern engineering or extensive testing were absolutely not his thing. He glanced at Sorden and her ladle, then took a deep breath. More of that awaited him, if he rode back with her. At least on the way back, they wouldn’t have to dodge branches as they went for the landing.
+
+She gestured for him to follow and walked on without looking back. Her ladle jumped into her hand, and she stuck it through her belt. “Just up ahead.”
+
+Rhys jogged after her. He quickly caught up, then had to hold himself back from rushing ahead. Already, he could smell it. The caustic stench. The sting of impurities on the air.
+
+Sorden stepped forward. She pushed back a thick layer of undergrowth to reveal a hole in the earth. “Careful.”
+
+Rhys drew up to the edge. He caught his breath. His eyes widened, even if that made them water a little bit.
+
+Dark gunk coated the sides of the pit. The black, crusty, seething grime slumped in the depths, not quite liquid, not quite solid. A powerful aura emanated from it, more powerful than any of the trash piles he’d gathered so far. This trash hadn’t decayed for its time in the pit. If anything, it had only grown more powerful.
+
+He hovered his hand over the pit, testing the toxicity of the gunk within by calling a little bit of it to himself.
+
+Almost instantly, his mana circulation slowed, then ran backwards. His hand turned black, and his blood began to ache. The toxicity climbed up his arm, toward his chest. His veins turned black where it coursed through them. It seared his veins, like acid injected directly into his bloodstream. Instinctively, he knew that if it reached his heart, he would die.
+
+“Rhys!” Sorden shouted, shocked. She fumbled in her storage ring, searching for a potion. “This is why I said you shouldn’t get close!”
+
+Quickly, Rhys retreated, no longer calling the gunk to himself. He pushed his mana out of himself, taking the contaminants and the filthy blood with it. His hand spurted with blood, first black, then dark, then safe, healthy red. His mana streamed out of him as well, taking most of the impurities with it. Some of them got past, but those were at an ordinary level. A level Rhys could handle.
+
+Even so, the density of the impurities in his body after one second of trying to absorb the trash pit, after ejecting them, was nearly as high as when he absorbed an entire pile of ordinary trash. Rhys stared at his hand in awe. One second, and he’d gained that many impurities? And he hadn’t even lit it on fire! How dense was this gunk? How powerful?
+
+Doubt crept into his mind. Maybe he wasn’t ready for the peak’s trash yet, if he couldn’t absorb this gunk.
+
+He looked at the pit again. So many impurities. Such a density of them! Impurities were better than ordinary trash, when it came to refining his body and expanding his core. He couldn’t pass by this opportunity. Now wasn’t the time. It would be reckless, no, foolish, no, deadly to try to absorb it all now, when a single pull almost killed him. But he should practice. Expand his ability to absorb trash and impurities, until he could absorb all this gunk.
+
+His mind went to the gunk in his storage ring. That was still toxic, but less toxic. If he could practice absorbing that, he’d be able to step up to the gunk in the pit.
+
+Sorden pressed a potion into his hand. “Drink this. It’ll expel some impurities. Quickly, now. There’s little a potion can do once they settle in.”
+
+Rhys looked at her like she was insane. Expel the impurities? He needed those!
+
+No, wait. I shouldn’t reject this. He smiled and pretended to drink it, quietly palming it into his storage ring instead. He could use this later. If he tried to absorb the hyper-toxic pit goo and overestimated his tolerance, this would be a convenient bail-out. Especially with Less is More, where he could use it multiple times if he really needed to.
+
+He turned to Sorden and smiled. “Rather than putting the burned potions in the pit, could you send them to me, instead?”
+
+She narrowed her eyes in suspicion. “What are you going to do with them?”
+
+Rhys gave her his most earnest puppy dog eyes, using his current youth to his advantage. “They’ll help me practice and get stronger! Please?”
+
+She stared at him for another moment, then sighed. “If you insist. Consider it part of the favor I owe you, since I couldn’t get you to the peak.”
+
+Rhys nodded happily. “But don’t give up on that second one. I’m going to get up there eventually. I’m going to get as many teachers as I can to back me, until they can’t ignore us.”
+
+Sorden opened her mouth, her brows knitting, then laughed. “Why not? It might work.”
+
+Rhys smiled. He understood without her having to say anything. She and all the other teachers were lower in the hierarchy than those on the peak, so much lower that it didn’t matter if all of them asked for Rhys to enter the higher peak, those on the upper half might still ignore him. But that was fine. He didn’t expect this to be easy. As long as he caught the upper half’s attention by having everyone on the lower half demand he get access, he’d already won. Getting their attention was the first step to obtaining their trash.
+
+He bowed to Sorden. “Thank you for showing me the pit. You’ve given me a goal to achieve. I promise I will work tirelessly until I am able to overcome the pit.”
+
+“Overcome?” Sorden asked.
+
+Rhys didn’t explain himself. She didn’t need to know. She probably wouldn’t approve if she did.
+
+She waved her hand. “Whatever you’re doing with this trash, just try not to kill any fellow students? I’d hate to see you expelled.”
+
+“No, of course not! I’m not planning to kill anyone,” Rhys assured her. In fact, the opposite. He was getting stronger so people couldn’t kill him. Sure, in a world where there was someone capable of making the Strawman, who in turn had to be suppressed by the most powerful schools around, he had a long way to go before no one could kill him, but he was already making pretty good progress on getting strong enough that absolute trash couldn’t kill him. A little was better than nothing!
+
+With their visit to the pit done, Sorden drew out her ladle once more. They flew back to the potions class. Sorden headed inside, while Rhys turned to leave, but not before he heard Sorden clear her throat and announce:
+
+“From today forth, bring your burned potions to me at the end of class. They’ll go to a fellow student’s long-term project.”
+
+Rhys flinched a little. He glanced into the open door behind her, only to find Alun, sitting alert in the front row and gazing straight at him. Their eyes met. Understanding flashed across Alun’s face, and he slowly grinned.
+
+Rhys grimaced externally, but the second he walked away, he shrugged to himself. Alun was surely going to make his burned potions as toxic as possible now that he knew they were going to Rhys, but wasn’t that in Rhys’ favor? He could start from absorbing the normal-level potion gunk, then absorb Alun’s, and treat that as a baby step toward the seething toxicity of the ancient gunk pit. He wasn’t quite sure how he was going to take the next ninety-eight steps toward the ancient gunk pit’s toxicity, but at least he had the next few steps laid out for him.
+
+Hmm. The inkling of an idea rattled around in his head, but it didn’t quite take form. Resting his chin on his hand, he wandered toward the mustelid class.
+
+“Who do we have here?” a deep voice rumbled.
+
+Rhys looked up, half-expecting to see the J Trio from such cheesy lines. Instead, two muscular boys in their late teens loomed over him. One punched his fist into his open palm, while the other put his hands on his hips. They blocked off Rhys’ path and grinned down at him.
+
+“If it isn’t the guy who insulted our teacher.”
+
+“Yeah, that’s right. The guy who thinks he’s better than all of us, and not only that, but Cynog, too. That guy.”
+
+Rhys’ eyes widened. He nodded slowly, lifting his chin from his hand, and pointed at the boys. “Cynog’s students!”
+
+“That’s right. And we’re here to teach you a lesson,” the bigger one said, cracking his knuckles loudly.
+
+Rhys considered for a second, eyes darting from one to another. They were both roiling with muscle, and reeked of testosterone and a general lack of good hygiene. The one with his hands on his hips had a bit of cruelty in his eyes, hinting at higher intelligence, but the larger one, cracking his knuckles, showed no such spark. He wouldn’t be talking his way out of this one.
+
+His mind flashed back to the forest, where he’d had the idea about Trash Intent and Trash Body. He scanned the boys. Both at Tier 1, the same level as him. The one with his hands on his hips had a more powerful aura, almost at the peak of Tier 1. Mentally, he shrugged. He could take on two Tier 1s, no problem. Seemed like a great chance to test out the skill combo.
+
+Since he wouldn’t be talking his way out, and since he’d already decided to fight, Rhys threw caution to the wind. He laughed in their faces, putting his hands on his own hips. “You? Teach me a lesson? I’m the one who taught your teacher a lesson. You should be on your knees calling me teacher, not trying to teach me something.”
+
+The bigger one lunged, fists already swinging. Rhys stepped into the blow. He grabbed his wrist, turned his body, and pushed his hip under the bigger boy’s hip, lifting him up and over his body. The boy landed on the ground with a huff, staring at the sky with wide eyes.
+
+Rhys dusted off his hands. He shook his head. “Typical.”
+
+The other one charged Rhys while the first scrambled to his feet. Unlike the first, the second boy kept his center of gravity low and his fists high. The one self-defense class Rhys had taken back in his first life hadn’t covered that scenario, so instead, he stepped forward and feinted toward the boy’s head.
+
+The boy lifted his hands to block. Rhys kicked him hard in the shins. The boy huffed in pain and shuffled back on instinct. Rhys didn’t back away, but kept pressing in, kicking the boy’s shins over and over until the boy yanked one of his legs up, only for Rhys to kick the other leg. They continued like that, the boy hopping from foot to foot, until the other, bigger boy caught up with them.
+
+A punch whistled toward Rhys’ head. He ducked, and the blow hammered the hopping boy in the face instead. The hopping boy reeled, stumbling away. Rhys popped back up and gave the hopping boy a good push at the shoulders, hooking the boy’s ankle at the same time, and the boy hit the ground with a heavy thud.
+
+Standing, Rhys looked at his hands. Punches hurtled toward him from behind. Used to this kind of assault from Straw and Bast, he ducked left and right on instinct, relying on the sound of the wind from the boy’s punches alone. This whole time, he’d been trying to activate Trash Intent and Trash Body, but nothing happened. It wasn’t that the skill combo wasn’t working; he couldn’t even get the combo started. Trash Body wouldn’t activate. Without a trash target to activate on, naturally, he couldn’t use Trash Intent.
+
+Come to think of it, I haven’t used Trash Body since I fought Cynog. A second later, he furrowed his brows. No, that wasn’t true. He’d used it when he was growing the Star Ice Seed, when his body was on the verge of crumbling entirely due to the energy flowing through it.
+
+Wait, is that it? He stilled as he finally connected the two scenarios.
+
+“Stand—still!” the boy grunted.
+
+“That’s right. I can only use it when my body’s in dire straits,” Rhys realized aloud. He glanced at the boy, then stepped slightly uphill and stopped moving, just like the boy had requested.
+
+For the first time, the boy’s fist connected. Rhys didn’t activate Blow Mitigation, but took the full power of it. His ribs cracked. Stumbling back, Rhys grunted in pain. He waited, watching the boy.
+
+Confused, the boy looked at his fist, then at Rhys, then shrugged and charged Rhys with a shout. Blow after blow hammered into Rhys. Aside from shifting slightly so the blows didn’t hit fatal points, he took them all. The whole time, he kept trying to activate Trash Body, only for the skill to stubbornly refuse to activate.
+
+Rhys gave the boy punching him an annoyed look. “Could you hurry it up? I’m trying to test something.”
+
+The boy roared and hammered into Rhys. This time, he put mana in his punches, and they landed with more weight than everything before put together. Rhys laughed. “More! More!”
+
+Although Rhys paid it no mind, a small crowd had started to gather in the distance. All eyes watched one boy beat up another, while the boy getting beaten up laughed, a horrible grin on his face. More than one watcher shivered, a distinctly uncomfortable sensation flowing over their skin.
+
+“Is that kid…?”
+
+“Smiling?”
+
+“What a pervert…”
+
+“Should someone stop them?”
+
+“I don’t know. He seems to be enjoying it. Maybe we shouldn’t?”
+
+“Never mind, someone stop it. I can’t handle any more of this.”
+
+A heavy blow sent Rhys flying. He struck the ground and rolled back to his feet, only for the pain to fade away. He controlled himself from outside, almost, just detached enough from his body to make rational decisions and move it precisely, despite its beaten state and what should have been extreme pain.
+
+His eyes shone. It activated! Then—Trash Intent!
+
+Light flashed over his body as the skill took ahold of him. It gripped his body, reforming all the missing pieces and adjusting the broken bones back into place. His body strengthened back to its original strength, and then beyond it, as the skill pushed him to the ideal form of his current body. He lifted his fists and faced the boy. Another punch flew his way, but so slowly that it was almost comical. Rhys sidestepped easily. He turned to watch it go by, then faced the boy once more.
+
+“Get fucked.”
+
+His punch flashed in, too fast for the boy to react. It landed on his jaw with a sharp crack. The much larger boy went flying. He hit the ground like a sack of potatoes and bounced a few times. Rhys stood over him, watching to see if he’d get up.
+
+His eyes showed only whites. Foam dribbled from his mouth. From the instant Rhys’ punch had hit, he’d already been unconscious.
+
+“Is this him?”
+
+Rhys looked up. The first boy, the one he’d kicked in the shins a lot, ran toward him, leading a yet older, more muscular boy. This one wasn’t properly a boy, but a young man in his early twenties. He had the lithe muscle of a practiced martial artist, and the weathered face of someone who lived rough. Correspondingly, his short robes had no sleeves and were frayed at the hems, and his trousers dirt-stained and threadbare, ripped open at the knees. His hair was a tangled mess, barely held back with a sweat-stained bandana around his forehead.
+
+Rhys tensed. The young man’s aura was at least Tier 2, and if his instincts were right, it was higher than Tarais’. He was a real threat. He raised his fists, watching the boy approach with wary eyes.
+
+The young man looked at Rhys and scoffed. Turning to the hopping boy, he shook his head. “That runt is what beat you and Honeg so badly? If I were you, I’d be hiding under the bed and pretending nothing had ever happened, not running to my seniors.”
+
+He had an unusually high tenor voice, Rhys noted, but maybe he looked older than he actually was. Like how some mages looked younger than they were.
+
+The hopping boy shook his head. “He was bullying us, Ev! You have to show him that Cynog’s students aren’t so easily put down!”
+
+“Haaa, who was bullying who? Your memory is so short, you might as well be a goldfish,” Rhys accused the boy.
+
+Ev snorted. He nodded at Rhys. “Is it true? Were you bullying them?”
+
+“Hardly.”
+
+“He did! He badmouthed Cynog!” the goldfish boy insisted.
+
+“Did you badmouth Cynog?” Ev asked.
+
+“Only for picking such shitty students,” Rhys replied.
+
+Ev laughed aloud at that one. He shook his head. “I mean, you ain’t wrong. But… you know how it is. I can’t have someone out here badmouthing my juniors.”
+
+“That’s alright. Come.” Rhys gestured for Ev to attack. With Trash Intent and Trash Body active, he really did feel like he was bullying these weak Tier 1s. Ev might be a bit above what his current state could handle, but he was curious to find out just how large the gap was between him and a martial Tier 2, fighting seriously.
+
+Besides, he hadn’t used all his tricks yet.
+
+“Oh? That’s bold, kid. You do know I’m a Tier over you?”
+
+Rhys watched him. He waited.
+
+Ev laughed. He stepped forward. “Got it. Well, you did ask for it.”
+
+Ev’s body blurred. Motion flashed toward Rhys’ temple, and then he was flying through the air, cartwheeling head-over-heels, but sideways. Searing pain bit through his skull. He blinked, struggling to push back the black dots in his vision.
+
+Before he landed, Ev appeared again. A fist slammed into his stomach. He vomited, tasting blood, and flew backward.
+
+He couldn’t do it. Couldn’t see Ev, let alone land a blow on him. He’d overestimated himself. No, he’d forgotten—at his core, he was trash. With two techniques synergizing, he could fight people at his own level, but that was all. Fighting over his Tier was a dream, with only this many buffs stacked on him.
+
+But that was fine. He had more buffs to stack!
+
+Reaching into his core, he grabbed some impurities and started rubbing them together. Luckily, he’d just refilled, thanks to that ancient toxic trash pit. By now, he was used to friction-igniting impurities. Before he finished flying backwards, the impurities lit with a whoosh. Black smoke billowed from his body as power poured through it.
+
+Rhys kicked, steadying himself in midair. He slammed his feet down, dragging himself to a halt. Ev instantly flashed in, arm already drawn back to punch, but now, he could see the man move. He blocked Ev’s punch with his forearm and returned one of his own. His knuckles landed smack on the man’s jaw.
+
+Ev staggered back. He paused, then lifted his hand and touched his jaw, a little surprised. “Wow. I actually felt something.”
+
+“More where that came from,” Rhys returned.
+
+“Oh… I recognize you now. You’re that runt Cynog was tutoring! I can see why Cynog likes you,” Ev replied. Grinning madly, he flashed in.
+
+Fists flew at Rhys from all directions. He desperately blocked, barely fending Ev off. Instantly, he was transported back to sparring with Bast. Ev was just as strong—no, stronger. But now, Rhys could keep his blows from connecting consistently, unlike with Bast, where he’d miss a few and pick up a few bruises for his trouble.
+
+It wasn’t that Ev was weaker. Instead, with all his buffs active, Rhys was just strong enough, now, to fend him off.
+
+“Damn, no wonder. You’re strong. But all that mana you’re putting out… you can’t keep that up forever, can you?” Ev asked. He hopped back. “If I wait, you lose.”
+
+Then I won’t let you wait. Rhys chased after Ev and punched. Ev stepped back, turning his shoulder. Rhys gave chase, but Ev evenly backed away, hands in his pockets, ducking left and right. He whistled, boredom on his face.
+
+Rhys bared his teeth. Jumping forward with all his face, he lashed out at Ev’s hips with a high kick, hoping to knock him off balance.
+
+He saw Ev’s teeth shine white, bared in a predatory grin, a second before Ev caught his leg. He tried to yank it free, but Ev had it in a stranglehold. Ev twisted it slightly, and pain shot up his knee. Rhys froze, focusing only on balancing. Ev could break his leg right now, and there was nothing he could do about it. If the man did that, the fight was over.
+
+Instead, Ev tugged, gently putting Rhys off-balance. “I can tell you’ve been sparring with Cynog, too. He goes too easy on you newbies.”
+
+He grinned and shoved Rhys’ leg hard, throwing off Rhys’ balance entirely. “But I won’t.”
+
+Rhys staggered, trying to regain his balance, but before he could, Ev was on top of him. He shoved Rhys to the ground and hammered at his face. Rhys blocked with his arms as best he could, and this time, he held nothing back. Blow Mitigation worked as hard as it could, fending off some of Ev’s blows, but there was only so much the skill could do. Before long, his vision darkened. Spots appeared in his vision.
+
+No. I refuse. Rhys twisted, tearing his robes to break Ev’s hold. His bones creaked a bit, joints screaming, but in his Trash Body-Trash Intent state, that was easy enough to ignore. Face-down, he crawled out from under Ev at top speed, hammering a kick backward at the man’s crotch on the way out.
+
+Ev took the hit with a bare grunt. Rhys’ foot landed on a lump of fat and bone, not delicate genitalia.
+
+Ev looked down. Rhys stared up.
+
+“You’re a—”
+
+A grin split Ev’s face. “Damn straight I am.”
+
+Her fist slammed into his face, and his vision went black.

@@ -1,0 +1,161 @@
+---
+id: 31130b50-2d10-5bae-a756-ec855d6a9a6c
+page-type-slug: story-chapter-royal-road
+title: "Threads 12"
+slug: 0020-threads-12
+partOf: forge-of-destiny
+position: 20
+ownLength: 2569
+unit: words
+publishedAt: 2020-11-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/587408/threads-12"
+royalRoadId: "587408"
+---
+
+The weeks that followed blurred by. She began to take more difficult sect jobs, pushing the limits of her sneaking abilities with harder and harder targets. She mastered the seventh step of the Sable Crescent Step under Zeqing’s eyes.
+
+Despite the sluggishness of her qi, she continued to push herself every day, building her foundations through sheer bloody-minded effort until at last she broke through despite the difficulty. It was exhausting, and Ling Qi knew that she could not rely on just powering through going forward. Reaching the appraisal stage of the green realm was merely solidifying one’s foundations, preparing for the true work ahead and smoothing out the instability of breakthrough.
+
+She needed to resolve her conflict one way or the other.
+
+When she returned to the source of her troubles, she found the grove eerie and quiet. Under the light of the full moon, she found herself mastering the first steps of the Curious Diviner’s Eye art as easily as she breathed. She didn’t need the Bloody Moon; there were other phases.
+
+In between the lines of her new art, she heard a whisper of history. She learned of a man who loved knowledge and exulted in its spread, a man who could parse a hundred thousand futures and choose the one he wished. A whisper of Tsu the Diviner, first king of the Emerald Sea, haunted the art. It was a faded thing, an echo bouncing back for the thousandth time, but it still made her wonder. How had that man’s descendents become that which she saw in the memory?
+
+Once, she would have said it did not matter. Now, however, she wondered if she could really understand the present without first understanding the past. She couldn’t afford to just stride forward without a care, relying solely on luck and instinct to keep her safe.
+
+If she wanted to avoid outcomes like those of the dream, she first needed to understand why they came about. It was with thoughts such as these that she returned to the mountain to meet with her liege.
+
+“My report, Lady Cai,” Ling Qi said, keeping her head bowed as she placed the trio of scrolls on her liege’s desk.
+
+“Very good,” Cai Renxiang said, pausing in scanning the other document on her desk to give Ling Qi a nod. “Take a seat. We will discuss these matters shortly.”
+
+Ling Qi did so, sinking into the comfortable chair which sat across from Cai Renxiang’s desk. It was, in a very real way, her chair, she knew. Ling Qi appreciated the gesture given the rather less comfortable seats swapped in for other guests.
+
+“How is your family faring?” Cai Renxiang asked absently, not yet looking up from her work.
+
+“Mother and Biyu are well. The, ah, guests will be arriving soon, I think.” Ling Qi squirmed in her seat at that. She still remembered her liege’s blank expression when she had first made that request.
+
+“Say it plainly, Ling Qi,” the other girl chided. “Do not show weakness. They are your new household. If even their clan head is ashamed of them, then it will lend credence to your enemies’ words.”
+
+“You’re right. It is unfair of me,” Ling Qi agreed with a grimace. “I am still surprised you went along with this request so easily.”
+
+“Should I ascend to Mother’s seat, I will do far more to upset those in power,” Cai Renxiang replied. “Such a minor scandal should serve well enough for training purposes.”
+
+Ling Qi shook her head. That was just such a Renxiang-like thought that it made her want to laugh. “Hmph. You’re really not bothered by their old profession at all, are you?”
+
+Cai Renxiang glanced up at her, one eyebrow raised. “It is an unpleasant function, but there are many such. Shall I spit upon the men who dredge the sewers or those who collect dung to fertilize the fields?” The dark haired girl drummed her fingers briefly on her desk. “... Though perhaps like those men, their duties might be unnecessary in the future. A thought for another time.”
+
+And there she went. Ling Qi didn’t really feel the need to prod her liege’s thought along further, lest she get Cai Renxiang talking about reforms that she could barely follow. Finally, her liege’s inkbrush returned to its holder, and the last page of work was placed neatly on the completed pile.
+
+“Summarize your findings,” the girl said crisply, moving the trio of scrolls to the center of her desk.
+
+“Disciples from our year’s tournament are largely underranked, I believe,” Ling Qi answered. “In many cases, not by much, but they are. I do not believe you should concern yourself with anyone below the rank of 850.”
+
+“And if they are attempting to deceive others on their ability?” Cai Renxiang asked, opening the first scroll.
+
+Ling Qi pursed her lips. “I do not think anyone would do so for such a low rank. If they are common born, the loss of resources would not be worth it, and if not, then their low rank would likely shame their families if kept for too long.”
+
+“That was my conclusion as well,” Cai Renxiang agreed. “I am glad to see you are thinking of such things.”
+
+“Thank you,” Ling Qi replied, briefly dipping her head. Li Suyin had actually been the one to point that out to her. “I made notes about a few people who could potentially challenge you in the upper ranks, but I could not obtain much information from those above 800.”
+
+“A task for next month when you have access to visit either Bai Meizhen or myself,” her liege noted, absently scanning the scroll. “Yes, this will be useful.”
+
+There had been a flurry of challenges in the last week or two. She knew Meizhen had moved up to rank 792.
+
+“As for my own advancement, I reviewed a few choices, but I believe disciple 812 is my target.”
+
+“Reasons?” Cai Renxiang questioned.
+
+“Skill set compatibility,” Ling Qi explained. “She is a musician and a fighter without much in the way of secondary skills. I believe I overmatch her in both of those areas.”
+
+Ling Qi sent a probing thought toward Sixiang, who sent back a feeling of distracted acknowledgement. Whatever they were doing, Ling Qi was confident Sixiang would have her back in a duel; their ability to wash away enemy arts would be invaluable.
+
+“If you are confident, then that is enough. Have you made the challenge yet?” Cai Renxiang asked.
+
+“Not yet. I wanted to inform you first. I will find her tomorrow.”
+
+“I’ll bet six of my contribution points. That should be enough to show that I’m serious, right?” Ling Qi mused.
+
+“It should be sufficient,” Cai Renxiang agreed. “Did you have any further concerns as to your challenge?”
+
+“No,” Ling Qi replied.
+
+“Very well,” the other girl said crisply. She flicked her wrist, and a folded envelope appeared in her hand. “Take this before you leave then. The auction for your item was completed. There is a formation seal on the receipt holding your stones.”
+
+Ling Qi blinked as she took the envelope, only for her eyes to widen at the sum shown on the paper within. “This much?” she asked faintly.
+
+“I do have a connection or two, even under Mother’s restrictions,” Cai Renxiang pointed out dryly. “Spend wisely. Wealth is no excuse for waste.”
+
+Ling Qi nodded, hurriedly tucking the envelope into her sleeve. “Thank you very much, Lady Cai.”
+
+“You may leave then. I should like to have our spar one hour earlier tomorrow. A meeting has come up in the normal time,” the other girl said, turning her eyes back to the scrolls.
+
+Ling Qi nodded again, only to pause as she moved to stand. She hadn’t spoken to Cai Renxiang about the Bloody Moon dream yet. Unsurprisingly, her moment of hesitation was caught by the other girl, who glanced up.
+
+“Speak, if you are troubled.”
+
+“... If my gown, uh, ate part of a spirit, is that normal?” Ling Qi asked.
+
+Cai Renxiang put the scroll in her hands down with a thump as she scrutinized Ling Qi. “If the spirit were attempting to tamper with its weaving, then yes,” she answered bluntly. “What manner of arrogant creature did you encounter, that it would ignore the warnings woven into the fabric?”
+
+Ling Qi thought of the King and his disregard, as well as what had come after. “One I won’t miss,” she grunted. “I just wanted to make sure nothing was wrong.”
+
+Cai Renxiang shook her head. “Your luck is strange. In any case, although your gown is apprentice work, the thread of Liming has given it the same protection Mother gives to her personal works. It is unwise to tamper with them.”
+
+“I’ll keep that in mind,” Ling Qi said, brushing her hands over the silk of her gown. “Let me take my leave then, my Lady,” she said with one more bow before leaving.
+
+***
+
+The next day, Ling Qi found herself traveling up one of the many winding paths that connected the cliffside dwellings of the Inner Sect disciples to pay a visit to the disciple ranked 812. She had already delivered the notice of challenge to the Sect offices for processing, but it was considered polite to go and speak to the person you were challenging. Not doing so was a deliberate snub.
+
+As she made her way up the steep winding path toward Yu Nuan’s abode, she caught the sound of music floating down from above. Though the notes were deep in tone, Ling Qi recognized the sort of aimless playing that was not any particular piece, but a simple expression of feeling. She lowered her head as the notes thrummed in her bones. There was anger, passion and spite aplenty woven into the sound, but the base of it was something more like determination, or perhaps, defiance. Unfocused as it was, it presented no theme or image in her thoughts, but she could recognize the skill behind it. Ling Qi judged herself to be the better musician, but the gap was not large.
+
+As she thought that, Ling Qi crested the top of the path and caught her first sight of the other girl. Yu Nuan stood with her back to the path, looking out over the cliff’s edge. She was tall and dusky skinned like Ling Qi herself, although not quite as much in either degree. She wore boyish clothes: loose, baggy pants of heavy black cloth tucked into sturdy boots, and a similarly loose shirt of dark purple silk that billowed on her lanky frame. Her hair drew Ling Qi’s eye. It was cut short, barely reaching her ears, and retained the natural curling that Ling Qi had tamed out of her own locks early last year.
+
+“What’s up then?” Ling Qi was shaken out of her thoughts by Yu Nuan’s gruff voice. She met the girl’s green eyes as Yu Nuan looked back over her shoulder. Ling Qi paused to stare at the jade studs piercing the girl’s lower lip and right eyebrow.
+
+Ling Qi offered a perfunctory bow, which prompted the other girl to turn around and somewhat irritably return it. Ling Qi spotted a flash and a whiff of smoke as the lute Yu Nuan had cradled in her arms vanished. A polite pleasantry was on the tip of her tongue, but as she met the girl’s eyes again as they straightened up, she elected to match Yu Nuan’s bluntness. “I am Ling Qi. I wanted to let you know that I am challenging you for your rank.”
+
+“Yu Nuan,” the other girl greeted curtly, narrowing her eyes. “ What’s your ante?”
+
+“Six Contribution Points,” Ling Qi answered, folding her arms below her chest. “I hope that the Senior Sect Sister will accept.”
+
+“Quit that.” The girl shot her an irritated look. “I saw that tournament. Don’t Senior Sect Sister me.”
+
+Ling Qi huffed but relaxed her posture. “Yu Nuan, will you accept my challenge?”
+
+“Obviously,” the girl replied, warm wind stirring around her. Ling Qi heard, or rather felt, the faint stirring of notes, discordant and heavy. She was sure that the girl across from her could hear the faint sound of Ling Qi’s own soul as well. “You’d probably beat me in a fight, but that’s not the kind of challenge you’re expecting, is it?”
+
+“No,” Ling Qi agreed. “I haven’t compared myself to a peer in music since I started cultivating.”
+
+The other girl let out an inelegant snort and shook her head. “I’m glad I’m not a year younger. Still, there’s one thing I gotta ask.”
+
+“I may not mind answering,” Ling Qi replied noncommittally.
+
+“Why’d you sign up with the Cai?” Yu Nuan asked bluntly. “Just hitching your ride to the best horse?”
+
+Ling Qi felt a twinge of irritation at the question. “Would there be anything wrong with that?” she asked. “Cai Renxiang is a good liege to serve. I agree with her intentions.” She wasn’t sure how well Cai Renxiang’s ideals would turn out in practice, but she wasn’t satisfied with the world that is, and she’d gotten a look at the world that was. She couldn’t imagine Cai Renxiang ordering a massacre like the King had.
+
+... She couldn’t say the same about Duchess Cai though. Not yet, at least.
+
+The other girl pursed her lips, giving Ling Qi a scrutinizing look. “Thanks for being honest.” Yu Nuan let out a short laugh.
+
+“My turn,” Ling Qi said, giving the girl a mild glare. A cool breeze blew, and the sound of a distant flute was audible, even to Ling Qi’s ears. “What’s your problem with the Cai? You another one like Chu Song?”
+
+“Nah. The Big Cai crushed that lot on purpose,” her opponent answered, squaring her own shoulders as a ripple of heat rose from her skin, warding off the chill. “Me and mine were just incidental. You can rage against the machine, but if it bothers to notice, you’ll just get crushed.”
+
+“What’s that supposed to mean?” Ling Qi asked, studying the other girl. Her words didn’t match the feelings she had gotten from the girl’s aimless playing.
+
+“I think I answered in as much detail as you did, Junior Sis,” Yu Nuan replied sardonically.
+
+“That’s fair,” Ling Qi admitted.
+
+“S’fine. One way or another, we’ll understand each other by the end. That’s what the music is about, isn’t it?” Yu Nuan replied with a dismissive wave and turned back to face the cliff.
+
+Ling Qi stared at her back. She could take it as rude if she liked, but she wasn’t sure she did. “I’ll look forward to it,” she said, letting her feet lift off from the grass. As always, she still had a lot of cultivation to do.
+
+Later that day, she found a neatly printed page slipped under her door when she emerged from the meditation room to quench her thirst. The challenge had been decided. It would be a contest of composition. They would each compose a new piece over the next three days and then present it to the elder overseeing the challenge. After presenting in turn, they would then vie directly against each other to see whose message was the stronger.
+
+Ling Qi set the notice aside. Three days to prepare. She could do that.

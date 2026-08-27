@@ -1,0 +1,137 @@
+---
+id: 41fc1056-44f0-5169-8c7a-98795cda6c1e
+page-type-slug: story-chapter-royal-road
+title: "Threads chapter 461-Roadtrip 3"
+slug: 0506-threads-chapter-461-roadtrip-3
+partOf: forge-of-destiny
+position: 506
+ownLength: 1851
+unit: words
+publishedAt: 2025-07-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2444655/threads-chapter-461-roadtrip-3"
+royalRoadId: "2444655"
+---
+
+There were many better investigators and diviners in the Emerald Seas, in the Diao clan, or even the region, but none of them were here, only Ling Qi, and her ability to listen. She could only use her time here to give what small aid she could, and that meant focusing on one aspect of the attack. The whole world whispered, but she was not yet a sovereign, able to listen to every voice in tandem. The best she could offer these men and the Diao's forces was a glimpse of who had done this and what marks they carried and left in their wake.
+
+She closed off her mortal senses, letting the inside of the carriage fade away. Her immortal senses replaced them entirely, letting her view the shimmering whorls of qi and the sound of spiritual voices. She focused and pushed the deafening noise of the dense forest and the chatter of flagstones away.
+
+The walls had no answers, stolid and unmarked. The stones and mortar knew nothing. No foe had breached them. No cunning saboteur had climbed them. The border they made held, only as porous as it had been made.
+
+The earth was disturbed, the ground sickly with blood and worse, spilled by the dying and by the spreading toxic mycelium of fungal fibers which crawled and spread, slowly burning under the sun. She listened to that creeping fiber, but it had nothing to say to her. It refused her, despite not being conscious to do so.
+
+The craft of the Ith had its own defenses against diviners.
+
+Instead, she listened to the sounds of feet. As of late, many had rushed and stampeded to and fro, seeking the gates, seeking shelter, or even seeking nothing at all, merely panicking. She whispered to the earth and asked it to remember further back, before the sickness had begun to sprout. She heard the sound of rickety wagon wheels, the steady tramp of boots, and the slap of sandals and shoes against the ground. It was small traffic, denoting the carrying of items from the logging and forestry camps back to the town itself.
+
+It was still a tremendous rush of information, a million, million moving parts and intersecting factors, even translated through the inhuman senses of flagstone and dirt. She felt a vein pulse in her forehead, an ache beginning to bloom inside her head, just under her eye.
+
+There.
+
+A set of boots which had only rarely crossed the stones under the gate. A quickened pace and ragged breaths leaving just an hour before the deaths began. He stood out from the handful of other travelers because he was heavier than he should have been. His shadow weighed on the earth. His boots carried a weight that a mortal man should not have.
+
+The mortal-not-mortal left with a small departing caravan of porters and laborers. She could not see his face or frame. Stones were not aware of such features, and whatever winds had touched him had long blown on from this place. But in her mind’s eye, she could construct a silhouette of a man with a rough idea of his height and weight. The most relevant fact was…
+
+She stirred in her meditation as a hard knock rapped against the door of her carriage.
+
+She gestured as she rose to her feet, hearing the soldier outside step back quickly as her carriage door swung open.
+
+Huo Gen, the old veteran, waited respectfully outside.
+
+Ling Qi reviewed the sounds which had come around the carriage shortly before she broke her meditation. “I apologize for missing your first three attempts to rouse me. I was deep in meditation.”
+
+"It is nothing, Miss Ling. I merely wished to inform you that the Oracle Formation has cleared your identity and indicated that you are not under any form of subversion." A pause. "Neither is your driver."
+
+"I am pleased to hear that," Ling Qi replied, stepping down from her carriage. She wondered what that said about her games with Huisheng. "I found my meditation fruitful."
+
+"Did you?"
+
+"A man who held marks of ith impurity left this town fifty-seven minutes before the sickness began to spread. He was one hundred seventy two centimeters tall and about seventy two kilograms. He left with a small caravan of fifteen people."
+
+Huo Gen took in a sharp breath. "You are certain of this?" he demanded.
+
+"I will stake my honor and my liege's honor on it. There is only one other detail my method could discern."
+
+"What is it?"
+
+"He was mortal."
+
+"Mortal?" Huo Gen repeated. "Then, this information may be meaningless. Mortal pawns controlled by cultivators do not last. The mechanisms of control break their fragile bodies…"
+
+"These mechanisms are not the same among the ith. The man was not dying, or even controlled by a hard method," Ling Qi said.
+
+The mortal  had been running a little hot, but he didn't feel sickly.
+
+The soldier frowned deeply. "Regardless, the man will be found, alive or dead, and this barbarian method will be discerned. I, Huo Gen, thank Lady Ling for her time."
+
+"Please do, and you are more than welcome." She bowed her head. "Let the culprits be rounded up swiftly, and this crime against our people avenged."
+
+The man's expression darkened, and she felt the chaotic mix of helpless rage, anxiety, and hope slip through the facade that had held against her casual senses.
+
+This old man had kin among the sick and the dead.
+
+She held back a grimace. He wouldn't be happy to know she had glimpsed his thoughts.
+
+"... Yes. These attacks will be responded to in full. Good speed, Baroness Ling. I will hold you up no longer here."
+
+Ling Qi nodded and gestured up to her driver, who straightened in his seat as she climbed back into the carriage.
+
+She had known that the fight with the ith had never really stopped. Clashes had occurred underground and attacks on their own land had been going on at a low level for many months now while she fought her own battle of words and spirit at the summit. But it was one thing to know if it, and another to  see and feel the building strain and rage against an enemy who struck at places which should never have been vulnerable in the first place.
+
+There was no end to this conflict which did not see further violence. And having felt the echoes of that village, she couldn't even say she wanted one.
+
+However, she could easily see that anger splashing out at undeserving targets. She had to make sure better lines of communication were opened with the surrendered ith beneath Xiangmen.
+
+***​
+
+"It is a grave situation, although the Diao have been swift and proactive in their response," Gan Guangli observed. He seemed larger than ever, and his head brushed the roof of the carriage.
+
+"It shows that they have not forgotten the post-rebellion era, and the hunt for the Hui who went to ground when their leadership fell," Xia Lin agreed. "As to this latest ith attack, were they simply not capable of targeting larger population centers?"
+
+"Going by Ling Qi's discovery and my own observations, it is my belief that they were intending for the artificial plague spirits to spread on the high road traffic which my Honored Mother's wedding has caused," Cai Renxiang said. The light which glinted on her hair and shone from behind her head was brighter, like it had been in the outer sect. The sharp radiant outline of a mandala was hidden behind her hair. "By beginning the attacks in less defended areas, vectors could slip through stronger defenses though less openly malicious means."
+
+"It's a sophisticated attack. I don't think we've seen something at such a large scale before," Ling Qi said uncomfortably.
+
+The carriage the three of them shared was much more spacious than her last two rides, altered by a minor spatial formation to be large enough for all of them to fit comfortably.
+
+"The enemy gets a say, too, huh?" Sixiang murmured.
+
+"It is,” Gan Gaungli acknowledged. Well, I suppose it would be impossible to hide the movements to gather for the offensive, even if Her Grace tried."
+
+"A provincial muster cannot be hidden. Even a sovereign of lies and misdirection could likely only obfuscate its timing and direction," Xia Lin said gruffly. "They know the Emerald Seas is coming for them then. It begs the question: is this warning an escalation, or a panicked one?"
+
+"Unfortunately, we do not know the highest level of operational thinking. Only my mother and her inner circle would." Cai Renxiang replied.
+
+"We cannot simply sit and let ourselves be attacked. These ith may think us ponderous for the speed of our response, but they will regret awakening it when it comes," Xia Lin vowed. "There can be no mercy for those who would unleash weapons on mortals."
+
+The atmosphere was not the most cheerful in their carriage.
+
+"There is nothing we can do about it right now. We aren't the military or intelligence commands of the Diao. We should focus on what is within our reach," Ling Qi redirected.
+
+"Well said," Cai Renxiang said. "Firstly, I have been in contact with my people left behind in Shenglu."
+
+"The speaking stones arrived in time?" Xia Lin asked.
+
+"They did. Given the timetable and prices, it is only usable for a few minutes a week. It will do for reports, but a better communication method may need to be commissioned."
+
+Formations which allowed for long-distance communication were monstrously expensive and prone to degradation through use. Something like the projection mirror her liege had used to appear in the court at Xiangmen drank stones like water. Only a ducal family or a very wealthy count could afford such items. There were lesser talismans which were good for short messages, but even those were quite expensive.
+
+"Better watch out, or you'll end up strapped to somebody's office someday, sending and receiving messages," Sixiang teased.
+
+Another benefit of having a reasonable liege.
+
+"Then, the last portions of the wall were laid?" Ling Qi asked.
+
+"Indeed!" Gan Guangli answered. "The security detail of the sect has also reached the area and will assist our house troops. Shenglu should remain secure until we return.
+
+"Good. I'm glad our hires are living up to Lady Cai's standards."
+
+"There are inefficiencies which could grow if left unattended, but yes, I may comfortably cede some administrative control for the time being."
+
+"Has the next slate of projects been decided?" Xia Lin asked, looking out at the root hills they were passing by. The colossal trunk of Xiangmen was beginning to loom in the distance. "I have focused on the defense, and we have what is needful there already."
+
+"Not going to advocate for more military spending?" Ling Qi asked impishly."Isn't that how these little councils are supposed to go?"
+
+Xia Lin gave her a deadpan look. "Build a stable. Purchase all of the horses immediately, Lady Cai."
+
+A dry answer. "I think that will prove unnecessary."

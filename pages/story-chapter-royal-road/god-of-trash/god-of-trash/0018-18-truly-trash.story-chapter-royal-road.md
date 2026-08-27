@@ -1,0 +1,125 @@
+---
+id: ae82cfc5-181d-570f-810a-1fa0c40df99d
+page-type-slug: story-chapter-royal-road
+title: "18. Truly Trash"
+slug: 0018-18-truly-trash
+partOf: god-of-trash
+position: 18
+ownLength: 2619
+unit: words
+publishedAt: 2025-03-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2122527/18-truly-trash"
+royalRoadId: "2122527"
+---
+
+Rhys read through the manuals at a blazing speed. His mana could enhance his mental qualities as well as physical, and his already high reading speed was only boosted further by his empowerment. Many were the same, or copies of a copy. He read all the unique ones, even the copies whose only unique contribution was fresh misspellings. The ones that were truly nothing but carbon copies landed in the trash heap, waiting to feed his next excursion into herbalism. In the end, he had about a box and a half full of manuals. In the end, he even gained a skill from it.
+
+Speed Reading 4
+
+Most of them were truly trash. They were so obviously wrong, so utterly backwards, that they served more as entertainment than education. He chuckled as he read them, shaking his head from time to time.
+
+Others were more insidious. They described a real process or a real technique, but fudged the details just enough to leave prospective mages on the completely wrong track. Any mortal who tried to ascend to magehood from their techniques would not only waste time and effort on the wrong thing, but might even lock themselves out from magehood altogether, just as Az had told him they would. For example, one book recommended that prospective mages brew their own mana potions, then drink them—not dissimilar to how Rhys himself had awakened. However, the formula it gave for mana potions was just wrong enough that whoever followed that recipe would be so laden with impurities they wouldn’t stand a chance of awakening their ability to sense mana at all. Even Rhys winced at that one. If he’d found that as a child, before he’d gained magehood, even he, with his optimal path that led directly to a technique to handle impurities, would have been ruined.
+
+He thought back to the manuals in the town’s bookshop and shook his head. If he’d foolishly bought those spellbooks, and hadn’t recognized the problems with them, he really would have been much more worse off than simply down a few gold. Losing out on his own potential was one thing, but when he thought about how he could have accidentally sabotaged Bast, a talent so rare he was learning under the Sword Saint, the continent’s most powerful martial artist, he gritted his teeth in leftover anxiety. Ruining his own trash talent was one thing. Ruining someone that rare was a crime.
+
+Luckily, he hadn’t, so he simply put the book aside and moved on to the next.
+
+This one was the most promising, and the one he had deliberately put off for late, though he didn’t quite have the patience to put it off until last. It had a big fireball on the cover and promised to teach the reader to do the same. His dream! Since he’d first arrived, he’d wanted to throw fireballs from his palms. This manual almost certainly wouldn’t teach him how to, but it was at least a step in the right direction. Or… in the wrong direction, but the point was, it was a step, and fireballs were somewhere in the vicinity of that step.
+
+Disappointingly, though, it was complete nonsense. There was a fairy-tale story of a man who stared at the sun all day, every day until he went blind, then a very long, very bullshit incantation. The manual didn’t even mention mana, let alone anything approaching what he’d actually need to cast a spell. It joined the garbage heap, and he moved on to the next.
+
+One manual after another. After a while, they all started to blur into one. He kept reading, but his mind wasn’t on the material. Instead, he pondered the totality of the manuals. Why had someone created these manuals? Clearly, to hold young mages back. It was pitiful that there were experts so lacking in self-confidence that they’d spread these books to sabotage the younger generation.
+
+But not all of them were pure sabotage. The one about fireballs seemed more like a children’s fairytale. Some of the other manuals read like a mortal’s attempt to emulate magehood, and their deluded surety that they’d delved its deepest secrets, while not understanding the least thing about being a mage.
+
+As he considered the manuals, he began to see patterns. Repeated themes. There was something to them. Whether intentional or accidental, there was something deep within the manuals that touched on a truth. All their lies, taken together, pointed at one hidden… something. The shape of it eluded him, slipping out of his mind every time he tried to put it all together. He sat back, folding his legs and pouring his all into investigating the truth he sensed behind the falsehoods.
+
+The manuals hovered in his mind. Their words rushed by, over and over. They overlaid one another, washing together into a blur of black ink in his mind. Thousands of words, all saying the same thing, and nothing at all. The truth he’d sensed lurked somewhere in those words, so close he could feel it, and yet utterly unreachable. Rhys pushed himself. He delved further into the words. What was he missing? Why couldn’t he understand?
+
+No—no! I’ve been going at this the wrong way this whole time. The only way to understand this trash, was to abandon his reality, his knowledge, everything, and believe in this trash.
+
+Rhys abandoned himself. He abandoned his identity, his magehood, his knowledge. Lower and lower, he descended into the depths of the trash. The longer he went, the further he delved, the more he immersed himself. He lost track of who he was. Of who he’d been. No trace attached him to reality anymore. His only reality was the trashy manuals, and their twisted words. But now he was a naive child. Now he drank up every word and returned for more. This was his path to magehood. These manuals were his lifeline. Without them, he had nothing.
+
+In the depths of his heart, he cried out the fireball incantation until his voice went hoarse. He chased down the ingredients for the mana potion and brewed it, desperately believing in its powers. He meditated under the moonlight and struck strange poses in the center of town, doing anything to channel that elusive thing known as mana.
+
+He chased, and chased, and chased. In his mind, he lived out an entire life as a mortal, trying to awaken mana with no hints but these horrid manuals. Impurities weighed him down, and thin mana in the air eluded his grasp. From a child to a friendless adult, ignored by all those who had called him friend, loved by no woman. From an adult to the crazy elder, hidden at the edge of the village away from sight, still shouting his fireball incantation every morning.
+
+His dream-life drew to an end. He sat in his hut, breathing heavily. The fires of his life petered out. An entire life wasted, lost to the trash manuals. And yet, in his heart, he still clung to them. Still refused to believe they were trash. There was truth in them. From the beginning, he’d sensed it. Here, at the very end, he still sensed it.
+
+The old man’s head dipped on his shoulders. The very last breath of life left his chest. In reality, Rhys’ heart slowed, and his breathing drew to nothing. He had lost himself so fully that he had become one with the dream. If the man died, so did he. He was the man, and the man was him. There was no distinction.
+
+The endless practice. The potion brewing. Even the incantation. They circled his mind as the lights drew down. Darkening to nothing, but the darker it got, the brighter the truth glowed. It had been a faint star, but with each passing moment, it grew brighter. Brighter. Brighter.
+
+The old man’s eyes snapped open, and at the same moment, so did Rhys’. He snapped back to reality. His magehood. His skills. His success, even, pushing the impurities that had slowed down the old man out of his body.
+
+And at the same time, the truth slipped out of his hands.
+
+No! Rhys tried to slip back into the dreamworld, but the trance had broken. The truth was lost—
+
+But it wasn’t. Deep in his mind, the truth welled back up. Rhys breathed out, immersing himself in it once more.
+
+To spend a life immersed in incorrect practice, yet learn a truth. To spend a life immersed in correct practice, yet lose it.
+
+The irony of it made him smile, but that wasn’t a useful truth. He searched deeper. What else? What had the old man discovered?
+
+Effort alone isn’t enough. Luck and talent also play a role. There is no overturning the heavens without one or both.
+
+No, that wasn’t it, either. A useful thing to note, but not what he was looking for. A specific truth, locked in the manuals. He knew he’d seen it. What was it?
+
+The answer came in the form of a sensation, not easy words or a concept easily understood. He let it flow through him, investigating it, letting the sensation tell him what it was. An emptiness. A dearth of expectations. A hollow depth that meant nothing he did mattered, and nothing he could do would ever matter. And under all that, beneath everything—freedom.
+
+Rhys’ eyes widened. At last, he understood. He had been trash. Not merely someone with bad stats who’d tried hard and found a few scraps of success, as he was in reality, but true, utter trash. He had been no one, and he’d had no one. He wouldn’t be missed. In fact, the townspeople would have celebrated his death, as a burden lifted off their shoulders. He had experienced a lifetime as trash, and now he understood what it meant to be trash. To live and die as trash. Not just as a trash mage, but as human trash, pure and simple. The refuse no one wanted. The kind of person ordinary townsfolk wouldn’t even acknowledge as existing.
+
+He locked that sensation away in his heart. He didn’t have an immediate use for it, but he knew that he had unlocked some form of essential enlightenment for his path. In fact, his mind felt faster now, and his heart, more resilient.
+
+A skill message appeared before his eyes for just a second before fading away.
+
+Enlightenment 1
+
+Rhys stood. It wasn’t what he had sought, but it was what he’d needed. And, in fact, a more powerful strength increase than he’d bargained on. He’d expected a new technique. Instead, he’d gained insight into his entire future path. Between the two, he knew which one was more valuable. But in some deep part of his heart, he cried, just a little bit. No fireball? Why did fireballs elude him so?
+
+I’m heading back to the library. Rhys brushed off his robes and marched forth from his cave house, back to the main square. A week or so had passed while he was in his dream world, and some trash had accumulated. More than he’d expected, even. Rhys walked past. I’ll get it later. I’ll… I’ll… dammit! What if someone else picked through it? What if the good herbs dried up or blew away?
+
+He turned on his toe and dashed around the school. At top speed, he collected the trash. When his treasure was all safely hidden away in his protected hollow, he turned his feet back toward the library.
+
+Az looked up as he walked in, once more putting his book down. “Back for more?” he asked.
+
+Rhys opened his mouth, then froze. He hadn’t even touched the novels he’d asked for. He’d been so immersed in practice he’d totally forgotten!
+
+“I—I’ve been busy,” he muttered, but he knew it was a poor excuse.
+
+Az knew it too, from the lazy eye brow he cocked in Rhys’ direction. He shook his head in silent disapproval, but said nothing.
+
+Ashamed, Rhys lowered his head and scratched the back of his neck. An avid reader like him, failing at such a small, basic task? He really was an embarrassment to all readers everywhere. But there was nothing he could do now but press on, past his shame. “I was wondering if you have any tomes on fire spells. Specifically fireballs.”
+
+Az shook his head. “At your level, you’re welcome to research any low-level mana basics or low-tier skills, but anything like a fireball is beyond my ability to acquire for you. I could point you in the direction of ignition spells, but that is the limit of what you’re authorized to access.”
+
+“Even considering the depths of our friendship?” Rhys asked, eyeing the precarious stack of books on Az’s desk.
+
+“That’s what allows you to stand there and blithely interrupt my reading.”
+
+Rhys scowled, but quickly schooled his expression into a flat smile. Oh, well. I guess fireballs are a powerful spell, after all. They can’t just let the lowest level students run around nuking one another with fireballs before they hardly know how to be mages. That’s a surefire way to end up with a school full of psychopaths. “I’ll take a few tomes on ignition.”
+
+Az waved his hand. A dozen tomes swirled around and landed in Rhys’ arms. “Return the books I loaned you in good condition, and I might feel a little more inclined to offer you the rarer tomes.”
+
+Rhys raised his brows. A second later, he saluted. Protect the books? He needn’t have said a thing. Rhys loved books. He’d return them in the same condition they were lent!
+
+Az had already turned back to his reading. Getting the message, Rhys turned and left him to it. He got the feeling Az was already a little annoyed at being interrupted so close in succession--even if it was a week, the man clearly wasn't used to frequent visitors--and made a mental note to give the guy a little longer to reset before he came to visit again. Unless he tore through the books and needed more, in which case, Az would simply have to understand his need for fresh books.
+
+Putting the freshy borrowed books in his storage ring, where the novels already resided, Rhys headed back out into the sunlight, only to thump into a broad, muscular chest.
+
+He looked up, slowly. Simple, martial-styled robes. Short hair. A brutish face with a jawline as broad as his shoulders. Cynog smiled down at him.
+
+“You impressed me on your previous visit. Don’t waste your time in that dusty old building. Come, let’s practice!”
+
+Rhys swallowed. “Practice…?” Cynog was powerful. There was a lot Rhys could learn at his hands. He’d meant to seek him out eventually, but he’d figured it was something he’d have to do, on his own time. For Cynog to show up, grinning so broadly, excited to see him…
+
+A sinking feeling came over Rhys. He’d just escaped his daily brutal beatings at the hands of Bast and especially Straw. Surely practice didn’t mean the same thing to Cynog as it had to Straw? Straw was a living weapon, after all. Cynog was just a martial artist. Surely he had more sense and compassion than—
+
+“Indeed! And what better practice than battle?”
+
+Rhys reached for the doorknob behind him. “Sir, I’d love to practice, but maybe later, after I learn ignition?”
+
+A meaty hand snatched him up by the robes. Rhys barely had time to react before he found himself flying through the air, thrown bodily away from the library. “Lesson number one. Don’t question your superiors!”
+
+Ah, fuck, Rhys thought, and braced himself for a beating.

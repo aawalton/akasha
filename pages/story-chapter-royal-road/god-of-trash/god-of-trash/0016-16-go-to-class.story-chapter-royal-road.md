@@ -1,0 +1,107 @@
+---
+id: 6d95b9a3-2e02-55f4-b097-8fc7e6ebb674
+page-type-slug: story-chapter-royal-road
+title: "16. Go To Class"
+slug: 0016-16-go-to-class
+partOf: god-of-trash
+position: 16
+ownLength: 2293
+unit: words
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2118174/16-go-to-class"
+royalRoadId: "2118174"
+---
+
+It was still early enough in the day for classes to be proceeding. Rhys strolled around the main square, considering his options. Potions again… but he might as well attend a few other classes just to learn what they were. Plus, potions were mostly rote memorization. He’d only attended a practical lesson to learn how to operate a cauldron. Now that he’d done that, he pretty much just needed to read recipes and follow them. He had enough practice cooking for one that he could manage that much.
+
+Basically, he didn’t want to attend any class that was designed to force small children into rote memorization. He already knew how to memorize things, and had the discipline to do it, besides. He’d gain more out of reading a book than attending one of those classes.
+
+The other thing was, as Straw had indicated, this was less a school and more a gathering of fish, or rather, mages. The classes were generally shaped around what the elder mages wanted to teach, rather than what low-level mages needed to learn. Sure, there were a few designed for the children, like Sorden’s potions, a mana-gathering class, and a class about how to gain, and then activate, skills, but aside from the bare essentials necessary to qualify as a mage, the rest of the classes were completely random. ‘Advanced Astronomy,’ that appeared to just be astronomy, ‘The Search for Nightdark Truffles and the Usage of Pig-type Beasts to Find Them,’ that seemed to be a rote-memorization kind of cooking class, and ‘On the Appreciation of Mustelids,’ which, when he peeked his head in, really was just about appreciating ferrets. There was nothing magical about the class, but also a shocking lack of live mustelids, which was unfortunate. He considered attending that one, but reconsidered when he saw the entire lecture hall was vacant and the professor, an old man in tattered clothes, was rambling on to himself. He tucked that one into the back of his mind for later, but left it behind for fairer waters for today. Best to skim the waves before he plunged deep, as it were.
+
+The mana-gathering class was meant for Tier 0 mages, so he was already too high-Tier for it. Not only that, but it really was the most basic of basics. Rhys listened for long enough to understand he already understood everything they were teaching, but no longer. He popped his head into the skill class in hopes it might teach him something like an ignition skill, but the teacher was focused on teaching young mages how to activate their first skills, rather than teaching useful skills. He listened for a while, but quickly understood that there was nothing worth learning here. When the teacher suggested advanced students might attend the library to read skill manuals in hopes of learning skills from their pages, he stood up and outright left. If the teacher was telling him to go to the library, he certainly didn’t need to stick around here.
+
+Rhys didn’t go to the library immediately, however. That was definitely a rest-of-the-day, maybe rest-of-the-four-weeks kind of task. Instead, he headed to the final remaining basics class: the martial arts lesson.
+
+He heard the class before he saw it. Dozens of children, shouting throaty cries with each blow. They walked through basic forms one strike at a time. He stood at the back, watching with his arms crossed. There was nothing wrong with their practice, but the fighting style was… how to say? Simple. Compared to Straw’s dynamic style, or even Bast’s scrappy streetfighting, it was very pure. Purehearted. Clean. Straightforward. Nothing wrong with that, especially for beginners, but it wasn’t anything he needed to learn. He’d be better off continuing to practice what he’d already learned from Straw and Bast.
+
+Rhys turned to leave, only to find himself inches from an absolute wall of muscle. Rhys stumbled back, startled. A huge bulk of a man loomed over him with a manic smile on his face. He reminded Rhys of his high school gym teacher, though slightly less balding and a little more handsome.
+
+“Why so quick to leave? There’s no need to be shy. Come on, join in on the fun!” The man pushed Rhys toward the field of practicing disciples.
+
+“I’m just here to observe,” Rhys excused himself, and tried to dodge around the man.
+
+The man’s body blurred. He blocked Rhys’ way once more. “It never hurts to grow stronger. Even a dedicated mage can use martial arts.”
+
+“I agree, I agree,” Rhys said, and dodged the other way.
+
+Again, the man blocked his way. “If you agree, then why not join in?”
+
+“I have my own technique I’d rather practice. Alone,” Rhys emphasized. He faked a dodge to the left. The man appeared to block his way, and he whirled around and dodged right, fleeing at top speed.
+
+A hand closed around the back of his neck. Rhys dug his heels in, only to be lifted bodily by the throat. The man marched him to the front of the class. Rhys struggled the whole way, kicking and punching, but his attacks bounced off the man’s powerful body.
+
+“So, you think you’re too strong for lessons?” the man rumbled, loud enough that the whole class turned and stared. They stopped practicing forms, and simply watched instead.
+
+Rhys kicked the man in the gut. This time, the man released him. He flipped head-over-heels and landed, instantly pivoting to face the man. There was definitely something to learn from this man. He had never thought that he was the strongest martial artist in the school. He’d only thought that learning a whole new style—one built for beginners, at that—wasn’t worth his time.
+
+But if this man was going to give him pointers, one-on-one, then he welcomed the challenge. He hadn’t really had a chance to test his strength on anyone but Straw and Bast. And he hadn’t gotten to test his strength at all since he had empowered himself with trash and impurities. His spat with Tarais hardly counted, since he was empowered by his active impurity-burning technique during that fight. That was a test of how high he could possibly push his limits, the answer of which was: high enough to fight up a Tier. What this was, right here, was a test of his base strength. Without empowering himself actively with any techniques, how far could he go?
+
+Rhys and the man faced each other. The man stood there, one hand raised, the other behind his back. He waggled his fingers, clearly inviting Rhys to attack.
+
+It was a trap. Of course it was. He’d fought Straw enough times to recognize that. But what was he going to do, not fight? The man was testing his strength as much as Rhys was. What this really meant, was that he was offering Rhys a free hit. And Rhys, well, he was a trashy guy. If someone offered him a free hit, he wasn’t going to turn it down.
+
+Rhys called on his mana and charged in. He struck the man’s chest with all the strength he could muster.
+
+His fist landed on the man’s open palm instead. The man’s eyes were wide, surprise clearly written on his face. He flexed his hand. “Interesting. That’s a powerful strike, there. Who taught you how to do that?”
+
+“Do what, put mana in my punches? Isn’t it obvious?” Rhys asked, hopping back. The man had blocked. That meant he’d considered Rhys’ strike dangerous.
+
+On the other hand, Rhys’ fist was now a bruised mess. He took the opportunity to sip his potion and heal the wound quickly. The man’s hands and body were tougher than they looked. Maybe even magically enhanced at a passive level. Thus far, Rhys had only considered mana as a way to empower his strikes. Defensive empowerment had always been out of his reach. But if he could learn a technique to invest it into his body, and transform his body into something tougher… That was something worth considering. His body was pretty trash-tier right now. If it was possible to make it more powerful, there was no reason not to.
+
+He'd tried to empower it the standard way by slowly imbuing it with mana, before, under Straw’s tutelage, but he’d never had much success. This man, though, had a body more defensive than Straw’s, as far as Rhys could tell. He could punch Straw without taking damage, for example. That implied that the man had some kind of technique or skill that helped him empower his body. If that was the case, then maybe, with the help of that technique or skill, Rhys could succeed where he’d failed before.
+
+The man grunted. “My name is Cynog. You are?”
+
+“Rhys,” he replied.
+
+Cynog raised his brows. “That’s why I don’t recognize you. You’ve just arrived! So, you’re the Strawman’s disciple.”
+
+Rhys lowered his head. That wasn’t how he wanted to be known, but he didn’t have an option. “Yes.”
+
+A few of the other students took a second look at him. They knew him as the garbage collector, not as the Strawman’s disciple. They frowned at one another. He heard whispers behind him: “Not him, surely.” “No way.” “He’s…?”
+
+Cynog paid the whispers no mind. He gestured at Rhys once more, one hand still folded behind his back. “Let’s see what the Strawman taught you. Hold nothing back. If you can get me to lift my other hand, I’ll acknowledge that you don’t need to participate in our class.”
+
+Rhys drew his broken sword. He didn’t activate Trash Intent, not yet. Holding it slightly behind him, he faced Cynog. This time, he was going to make the man use both hands. He’d be taking that hand out from behind his back whether he wanted to or not.
+
+This battle wasn’t favorable to him. He’d always been the weakest one in his skirmishes with Straw and Bast, but both of them were high-speed fighters. Rhys was good at backstepping and dodging, parrying and gaining space. He wasn’t good at full-frontal assaults on powerful tanks. Telling him to ‘hold nothing back’ in this situation was… it wasn’t that he was holding back, but that this situation was highly non-optimal for his strengths.
+
+But if this is a weakness of mine, that just means it’s one I have to shore up. If I face a powerful tank in real battle, I can’t just say, ‘oh, I’m sorry, I’m not good at that.’ The tank would simply take control of the battle and crush him underfoot like an empty soda can. This was an opportunity to test his techniques against tanks.
+
+For a few seconds, the two of them stared at one another, watching for weaknesses. Rhys gathered his mana. His body grew warm as the mana coursed through him, and his limbs strengthened. He kicked off the ground and darted close, drawing back his free hand.
+
+Cynog watched him come, his hand ready to block. He shifted his stance for Rhys’ left-handed strike.
+
+At the last second, Rhys activated Trash Intent. He swept his sword forth, striking toward Cynog’s chest. The glowing blade arced through the air.
+
+Cynog widened his eyes. Faster than Rhys could track, he yanked his hand out from behind his back and caught Rhys’ wrist mid-swing. The blade glowed, humming a hair’s breadth from his flesh. “Weapon intent…? No… but it’s similar. What is this?”
+
+Rhys twisted his wrist free and hopped back. He’d succeeded, but that was all. He had no illusions about the gap in strength between him and this man. If Cynog was fighting seriously, he wouldn’t stand a chance. Even with the man standing still and letting him strike him, totally off-guard, he couldn’t get past the man’s defenses to try Trash Intent on his tough skin.
+
+It wasn’t that he couldn’t learn anything, it was just that the class wasn’t worth it for him. If Cynog was willing to teach him more than the bare basics, he was willing to learn. Especially if he’d teach Rhys that defensive body strengthening technique.
+
+Cynog lifted his hand before Rhys could charge in again. “Enough.”
+
+Rhys hopped back, putting a little distance between him and Cynog. The blade flickered out, leaving nothing but the broken stub of a sword again. He could keep it active for longer, but there was no need to show the entire student body exactly how long he could use Trash Intent.
+
+Cynog waved his hand. “I’ll concede that you don’t need to attend class. You can go.”
+
+“Will you teach me how to strengthen my body like yours?” Rhys asked.
+
+“Would you tell me all your secrets, if I asked?” Cynog replied.
+
+Rhys lowered his head, acknowledging it. On second thought, he probably wouldn’t be able to comprehend Cynog’s technique, anyways. Not if it didn’t have anything to do with trash. His stats were bad at everything, unless they were aimed at his obsession, his path. The idea that he could strengthen his body’s toughness was already enough for him. Stronger defenses would make it easier for him to survive in this world, when he could easily be just another piece of garbage, thrown away on the side of the road. He could let the connection between defenses and trash brew in the back of his mind while he worked, and see if he couldn’t figure it out.
+
+He put the scrap of sword away and walked off. In the end, he hadn’t found a class for him. It wasn’t entirely unexpected. They taught classes for normal students, not people who were trash. That meant he only had one place to go.
+
+It was time to investigate the library.

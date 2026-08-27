@@ -1,0 +1,169 @@
+---
+id: 3200817d-8241-5d19-bae9-5386c502fb87
+page-type-slug: story-chapter-royal-road
+title: "51 - Excuse me... what?"
+slug: 0051-51-excuse-me-what
+partOf: gamer-girl-evolution
+position: 51
+ownLength: 1722
+unit: words
+ownProgress: 1722
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2968315/51-excuse-me-what"
+royalRoadId: "2968315"
+markedReadAt: "2026-06-29T20:07:12.533Z"
+---
+
+Seeing the countless notifications on her screen, Celica cackled to herself inwardly.
+
+[Cleanse Aura has ranked up.] x40
+
+[Cleanse Aura has reached its max level. You have unlocked the additional effects of Cleanse Aura.]
+
+40 skill levels gained from one fight? She almost couldn't stop herself from smiling like a confused drunk, but she had a persona to maintain. It was insane to gain that many levels from a single fight, but when she considered the level difference between her and the boss, it made sense.
+
+Her eyes quickly shifted to another notification.
+
+[Basic Strength/Agility/Vitality/Dexterity/Endurance Buff has ranked up.] x10
+
+Seeing this, Celica quickly opened her skills tab.
+
+***
+
+[Skills]
+
+Common:
+
+Parry level 20 (Max)
+
+Slash level 20 (Max)
+
+Thrust level 20 (Max)
+
+Super Rare:
+
+Water Blade (Max)
+
+Foundational Supporter Skills:
+
+Cleanse Aura level 10 → 50 (Max)
+
+Additional Cleanse Aura Effects (Scaling with Levels):
+
+Level 30: Small healing effect (restores 2.5% health to all cleansed targets) [Unlocked]
+
+Level 50: Maximum healing effect (restores 5% health to all cleansed targets) [Unlocked]
+
+Passive (Level 50): Grants the user permanent immunity to all debuffs (toggleable) [Unlocked] {Currently Active}
+
+Basic Strength Buff level 40 → 50 (Max)
+
+Basic Agility Buff level 40 → 50 (Max)
+
+Basic Vitality Buff level 40 → 50 (Max)
+
+Basic Dexterity Buff level 40 → 50 (Max)
+
+Basic Endurance Buff level 40 → 50 (Max)
+
+Basic Buffs Progression:
+
+Level 40: 80% increase for 70 minutes. (15 allies at once)
+
+Level 50: 100% increase for 90 minutes. (18 allies at once) [Unlocked]
+
+All foundational skills must be levelled to 50 before the beginner supporter skills can be unlocked.
+
+Beginner Supporter Pathways unlock condition has been met. This job class has no quest for the first upgrade. Completion of the fifth floor's main quest will unlock the option to choose either pathway.
+
+***
+
+Permanently immune to debuffs... I really thought this day would never come... Celica smiled to herself with metaphorical tears forming in the corner of her eyes. The days of spamming epic and legendary items to cleanse higher tier debuffs were in the past now. Thankfully.
+
+Her eyes naturally singled in on the skills tab's final line. So I just have to complete the final floor of this realm. Sounds easy enough. She looked away from her skills tab only to hear the system ring out once more.
+
+[Your Party Leader has defeated the Ancient Dragon Sovereign of Curses.]
+
+[Since there is a significant level gap between you and the rest of the party members, you have been awarded zero player exp.]
+
+[Awarding the title(s): Dragon Slayer's Companion, Disaster Class Party Member, The One Who Guards The Summit, Eonia's Saviour, The Colosseum's Eternal Bystander]
+
+Why are the titles I get for helping to slay an ancient dragon so lame? Eternal Bystander? Seriously? She paused, changing her focus to reading through each of the title's unique effects. Increased damage to dragons? World reputation? Increased stat boosts when partying with Earthonians? On second thought, maybe these titles aren't so lame after all.
+
+The game must've compensated the fact I got no player exp by giving me skill exp. In a weird way, I suppose that balances things out. Especially given how much skill exp was awarded. It would've been way too unfair if I got a share of the loot and the player exp too, for simply providing buffs and cleansing.
+
+She almost began laughing on the spot again. Other players might think that she just got really lucky, that it only worked out as well as it did because she happened to be lucky enough to be in the right place, at the right time, and just so happened to have the perfect job class for the situation.
+
+But they'd be wrong.
+
+Getting to this point had been a struggle for Celica. First and foremost, she had to avoid the king's detection while trying to escape the courtyard. The King - if he noticed any players trying to leave - would beckon for them to return. It was intended to be an unskippable tutorial zone by the game devs.
+
+Well, then, how did Celica manage to leave?
+
+It was simple. The king and his military officers had certain blind spots which if successfully navigated through with a specific pathing you'd avoid detection. This in itself, however, still wasn't enough. That would only get you to one of the courtyard's walls. Then, you had to clip out of bounds.
+
+So, she did. Using the same trick as she did on floor one to clip into the first dungeon solo, Celica clipped out of bounds. But this also wasn't as easy as it seemed. Failure could result in suffocation and eventually death. The King would notice and see it as a sign of betrayal and permanently reduce your stat points.
+
+She had to get it first try.
+
+Not only that, she had to do it without catching the notice of other players. In other words, she had to wait for an opportune moment when everybody was distracted by the fierce battle to path away from the king's vision and clip out of bounds seamlessly.
+
+Of course, she succeeded.
+
+Then, because of the insane level difference between her and the boss, she had to bide her time and make sure she didn't enter the colosseum recklessly. Any random sneeze or cough from the Ancient Dragon Sovereign of Curses was enough to kill her ten times over. And she wasn't sure she'd respawn if she died to a disaster class monster.
+
+There were more times than she'd like to admit where she almost died from random debris and poisonous patches shooting out of the colosseum.
+
+As a result, she waited patiently for the best time to intervene. She knew the Grand Commander's party was going to lose. If she didn't intervene, it was very likely the empire (and the players on her server by consequence) would be destroyed.
+
+She knew this because she knew the rough levels of all the commanders and she also knew how the scenario was supposed to go. The boss should've been a level 500 Azure Ancient Wolf. Sure, the battle wouldn't have been easy, but the commanders wouldn't have had to struggle at all, and no one in the empire would be in danger.
+
+The fact that there was a change meant someone or something meddled with it. When she thought over it, and remembered the debuffs, her thoughts converged onto a specific name.
+
+Slimonius.
+
+When she found her chance to intervene she did. She knew posing as a player wouldn't be in her best interest. If other players knew that she had such OP abilities it wouldn't spell anything good for her, at least while they were still in the early-game, which was favoured more towards parties than individuals.
+
+She needed a different identity then. Not Celica. And not Snapped Sword, either. They were both players. In that case, there was only a single option left.
+
+"Thank you, Wisdom Hands, for saving us. Without you, me and my companions would've perished. We are eternally grateful."
+
+Doran’s words were sincere, but his gaze was steady, filled with curiosity and a touch of confusion.
+
+Celica’s lips curled into a small, knowing smile. She hung in the air, slowly gliding down on a golden cloud which greatly contrasted her black attire.
+
+“Gratitude is unnecessary, Grand Commander,” she replied, her voice smooth and purposeful. “It wasn’t me who saved you, but the hands of fate. I was merely a conduit. Just a guide for the path you were meant to walk.”
+
+Doran narrowed his eyes, his brow furrowing. “Fate?”
+
+“Mm. In time, you’ll understand,” Celica said, her smile deepening, her tone as cryptic as ever. "One day, Commander," she continued, her gaze softening just for a moment, "the hands of wisdom will find you again. But until that day... may your choices remain as sharp as your blade."
+
+She turned, hoping to flee the scene as quickly as possible, but unfortunately, it wouldn't be that easy.
+
+— "Look it's Wisdom Hands! Do you remember me!? You saved me on floor one!"
+
+— "See, I told you Wisdom Hands was a real NPC! And their buffs are the real deal!"
+
+— "Wisdom Hands, will you marry me?"
+
+Celica stopped in her tracks as the courtyard erupted in excited chatter. Some voices were barely audible over the clamour, but some people's words were loud and clear enough to make Celica's face flush a slight pink.
+
+It seemed like the players had entirely forgotten about the epic battle, which had unfolded before them just moments earlier, and were completely focused on the new and mysterious NPC.
+
+King Sebius’ hand shot up. A single gesture, and the voices ceased. The entire courtyard fell into a deep silence, the King’s presence alone was enough to still the crowd.
+
+“Enough,” he said, his voice low but carrying an undeniable authority. The players fell silent, hanging on his every word. “This... is not a time for distractions.”
+
+The King turned his gaze back to the screen, eyes narrowing as the last remnants of the Ancient Dragon Sovereign of Curses crumbled to dust.
+
+“Look upon this fight and remember it well, Players,” King Sebius said, his voice rising with fervent passion. “This is true power. This is the brilliance of teamwork. The volatility of Ulza's summons. The relentless fury of Doran’s attacks. The phantom-like agility of Ophel, the magical sharpshooting of Thorne, Semmia's masterful wide-scale destructions spells, and Triton's indomitable shielding. Their strength and their unity is what will carry Earthonia into the future!”
+
+The crowd murmured in awe, their admiration palpable, but the King’s voice cut through it again.
+
+“But... you have seen that they alone are not sufficient to guarantee our safety. One day, you players will be needed to take their places on that screen. Until then, the time has come for another to join their ranks. I had planned to invite here them earlier, but I feared they wouldn't have accepted. However it seems that fear was unnecessary." He paused, taking in the crowd's reactions.
+
+"I present to you all my newest commander. From this day forward, they shall also be known as... Wisdom Hands, The Wise Commander.”
+
+Celica’s heart skipped a beat as she felt the weight of the King’s words settle over her.
+
+Excuse me... what?

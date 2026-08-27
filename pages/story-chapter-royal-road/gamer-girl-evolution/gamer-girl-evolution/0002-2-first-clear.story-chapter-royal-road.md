@@ -1,0 +1,235 @@
+---
+id: 3c5909a0-db25-5195-b1b5-a1f6a60a6992
+page-type-slug: story-chapter-royal-road
+title: "2 - First Clear"
+slug: 0002-2-first-clear
+partOf: gamer-girl-evolution
+position: 2
+ownLength: 1881
+unit: words
+ownProgress: 1881
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2620517/2-first-clear"
+royalRoadId: "2620517"
+markedReadAt: "2026-06-29T20:05:39.253Z"
+---
+
+The cobbled streets fell behind her as Celica zigzagged out of town like a lunatic on roller skates. The newbie crowd hadn’t even figured out how to open their menu, and she was already stuttering across the fields in broken vector bursts. Her body jerked left-right-left in sharp, unnatural stutters. Anyone else would’ve thought she was desyncing or lagging.
+
+“I wish they never patched this, but it makes sense why they did considering how much we abused it.” A laugh slipped from her lips as she cut through the treeline.
+
+The shadows opened into a clearing—Slime Forest. Shafts of morning light pierced the canopy, falling across patches of grass and tree stumps. Gelatinous shapes bounced lazily between the trees, a dozen here, a dozen there. At a glance, it looked like a picnic zone for beginner players.
+
+But Celica’s eyes gleamed. She already knew this forest like the back of her hand. Every nook, every hollow, every spot where the respawns would tick over.
+
+“North ridge, two-minute respawn timer. Fallen log—three slimes on a loop. And the stump cluster by the stream… jackpot.”
+
+Her grin widened. “Still the same. Still free.”
+
+She flicked open her status screen.
+
+[STATUS] Celica Travine Crystalis<No Title>Level 1 Human (J*bless)EXP: 0 / 10STR: 5 | AGI: 5 | VIT: 5DEX: 5 | END: 5
+
+“Beautiful.” Her smile softened, almost nostalgic. “Like seeing the title screen of a game you just bought… Never gets old.”
+
+The rustle of a nearby branch pulled her attention. A slime arced upward, wobbled midair, then smacked into the grass with a splat. Another did the same—same rhythm, different angle. A pattern.
+
+Celica tilted her head, eyes narrowing. “Hmm. Good, their movement pattern’s the same.”
+
+She rolled her shoulders, the beginner sword flashing into her grip. It was a dull, chipped toy of a blade, but it would do.
+
+“Alright, let’s warm up.”
+
+She dug her heel into the dirt, vectored, and blurred straight toward the first slime.
+
+The newbie sword sliced clean through the first slime. A splash of blue jelly burst outward, splattering the grass.
+
+[+5 EXP]
+
+[Slime defeated: 1 / 100]
+
+Celica smirked. “Yep. One shot. Just like old times.”
+
+Slimes had always been balanced as tutorial mobs. Their health pools were a joke. As long as you had STR 3 or higher, they popped like soap bubbles.
+
+“Don’t ask how I know that,” she muttered, side-eyeing the trees. “Base stats start at five. If the devs ever found out I knew the threshold, they’d… let’s just say my account would be ’under investigation’ again.”
+
+She vectored sideways, juking around a tree. Another slime bounced high, then twisted midair in an almost balletic curve. Celica tracked its arc, predicting the landing spot, and swung.
+
+Splat.
+
+[+5 EXP]
+
+Her grin widened. “Too easy.”
+
+But it wasn’t. Not really. The danger didn’t come from their health—it came from their movement.
+
+Each slime hopped with unnerving precision, like they were following a hidden script. Left, right, spin, bounce. They rebounded off tree trunks, then twisted in erratic arcs no newbie’s reaction time could follow. Their dodges weren’t random at all—they were insanely choreographed.
+
+“Hah. Tutorial mobs teaching rhythm games. No wonder noobs panic.”
+
+For anyone else, landing a hit was hell. For her? It was DDR with a sword.
+
+[LEVEL UP]Level 2 → Unspent Points: 5
+
+Without hesitation, she slammed all five points into AGI.
+
+[STATUS] Celica Travine Crystalis<No Title>Level 2 Human (J*bless)EXP: 0 / 20STR: 5 | AGI: 10 | VIT: 5DEX: 5 | END: 5
+
+“Agility only. Speedrun strats, baby.” She chuckled. “Why bother with VIT if you haven’t evolved yet? Why bother with END if the mobs never touch you? DEX? Pfft. I don’t even have a bow yet never-mind useful equips. STR? That’s a bait. The only stat that matters is AGI—buffs the vectoring glitch and makes hitting these way easier.”
+
+She vectored again—shnk! Another slime exploded.
+
+The forest became her playground. She juked through the undergrowth like a phantom, timing each slash to the rhythm of slime bounces. They lunged left, she was already waiting. They juked right, her blade was there. They arced over branches, she cut them midair, blue spray raining down.
+
+[LEVEL UP][LEVEL UP]
+
+Her speed climbed with every kill. By Level 4, her AGI already doubled, her movements jerky-fast and smooth at once. Her body hummed with momentum, like the world couldn’t keep up.
+
+Then she noticed it.
+
+Clink.
+
+Her sword’s edge caught on a slime core and chipped, leaving a jagged notch. Another swing, another dull sound.
+
+[Durability: 40%]
+
+Celica clicked her tongue. “Right… forgot about this.”
+
+By fifty kills, the sword was a joke. Every strike squealed like rust grinding on rust.
+
+[Durability: 5%]
+
+“Game design 101,” she muttered, glaring at the flashing red icon. “Force the newbies to waste their first quest reward on buying a backup weapon. Keeps the shopkeepers relevant.”
+
+She held the blade up, unimpressed. “But for me? Stopping mid–speedrun isn’t an option.”
+
+She slammed the blade against a tree stump, tock! and swapped it into her inventory on the exact impact frame. The timing margin was thinner than a hair.
+
+[Durability Restored]
+
+She pulled it back out, gleaming like new.
+
+Celica cackled. “Still works! Thank goodness for patch day bugs.”
+
+Slash, store, re-equip. Slash, store, re-equip. Her motions blurred into a rhythm as natural as breathing. To anyone else, it would’ve looked like her sword was auto-repairing after every swing.
+
+“Man, if newbies saw this, they’d cry. Infinite durability, infinite grind. No wonder the devs patched this day one. Can’t believe I get to abuse it again.”
+
+She vectored through three slimes, cleaved them in one arc, and re-equipped before the gore even fell. Her blade shone immaculate, eternal.
+
+[+5 EXP][+5 EXP][+5 EXP]
+
+[LEVEL UP]
+
+Her AGI skyrocketed higher, her movements growing exponentially faster.
+
+By seventy kills, the patterns shifted again. She narrowed her eyes. The slimes’ dodges weren’t just fast—they were too fast. They juked her swings with unnerving synchronicity, twisting exactly the way the Fifth Realm slimes did.
+
+Recognition hit like a hammer.
+
+“Oh, you’ve got to be kidding me. That’s Slime King aura. What the hell’s it doing in the First Realm?”
+
+Her stomach flipped. Memories of the Fifth Realm crashed back—of guilds wiped by mobs that never missed a dodge, of boss fights where predicting the slimes’ dance was the only way to survive. And here it was, at level one.
+
+Celica licked her lips, exhilarated. “So the gelatinous bastard buffed his children. Guess release-day isn’t playing nice.”
+
+Her grin sharpened. “Good.”
+
+She vectored through another spawn cluster, blade flashing. This wasn’t just a quest anymore—it was a rhythm speedrun against an entire forest. By the time her counter hit 100, she was panting, sword dripping slime guts, but her grin stretched ear to ear.
+
+[STATUS] Celica Travine Crystalis<No Title>Level 10 Human (J*bless)EXP: 50 / 100STR: 5 | AGI: 50 | VIT: 5DEX: 5 | END: 5
+
+She stretched her shoulders, rolling out the stiffness. “Ten levels. All speed. Just like the old runs.”
+
+Her hair clung to her forehead with sweat, but her eyes gleamed sharper than ever.
+
+“This is why I love fresh accounts. Watching the stats climb like a rocket, feeling your body snap into overdrive. It’s addictive.”
+
+And her sword? Gleaming, flawless, as though it hadn’t slaughtered a hundred mobs. An immortal starter weapon, patched only by her timing.
+
+She twirled it smugly. “Speedrun intact. Sorry, devs. You’ll have to try harder than that.” Her gaze snapped to the quest tracker.
+
+[Quest Completed: 100 / 100 Slimes][Time: 4 minutes, 55 seconds]
+
+A sharp grin broke across her face. “Sub–five. I’ve still got it.”
+
+Her chest rose and fell with quick, satisfied breaths. Not bad for a warmup. Not bad at all. She could practically taste the leaderboard climb.
+
+But before she could bask too long, the system’s voice rang out—louder, brighter, as if the world itself was clapping for her.
+
+[CONGRATULATIONS!]
+
+You are the first player to complete the main quest in this Area.You are the first player to complete this quest in this Zone.You are the first player to complete this quest in the World.
+
+As a reward for your achievement, you will receive three unique rewards.
+
+Would you like your name to be public?
+
+Celica blinked. “…Wait, what?”
+
+Back in the old days, quests didn’t do this until we cleared the Third Realm. No fanfare. No system-wide glory popups. First clears were bragging rights, nothing else.
+
+This was new. Different.
+
+Her lips curled upward. “Guess I’ll play along.”
+
+Her real name? No chance. She typed in her alias, fingers quick, heart racing with an odd excitement she hadn’t felt in years.
+
+Snapped Sword.
+
+[REWARDS GRANTED]
+
+Title: Slime Nightmare(20% bonus damage to all slime-type monsters.)
+
+Skill Unlocked: Parry (Common)(Activate to deflect the next attack if timed correctly. Nullifies damage, opens target to counter.)
+
+Item: 1 Gold Coin
+
+A little window spun the coin before her eyes—a single, gleaming disk of gold, brighter than the piles of copper slimes normally dropped. She snatched it up, weighing it with a satisfied smirk.
+
+“Ha. A whole gold, just for me. That’s like… what? Ten thousand copper? More than any noob around here will see in their first week.”
+
+The title made her snicker too. Slime Nightmare. Ridiculous, but practical. Slimes cropped up everywhere, from tutorial forests to dungeon depths. Twenty percent damage forever was no joke.
+
+And Parry? “Oh, that’s perfect.” She flexed her fingers, remembering the countless PvP tournaments she’d abused the timing in.
+
+Basic, sure, but an early common skill like that was a cheat code when everyone else had nothing. Plus, it saved her the time of doing the time-gated quest to unlock it.
+
+“Not bad. Not bad at all. Worlds-first clear, new skill, free money, and a permanent advantage.”
+
+She tilted her head back, letting the rush sink in. “Let’s keep the snowball rolling.”
+
+Then the system’s voice thundered across the forest.
+
+[SYSTEM ANNOUNCEMENT]
+
+Player Snapped Sword has completed the first main quest in the world!
+
+It wasn’t just her who heard it. The message echoed through the trees, resonating like a bell that couldn’t be ignored.
+
+Every player froze. Heads snapped toward her from all directions—confused, awed, envious. Whispers rippled.
+
+“Who’s Snapped Sword?”“They finished it already?!”“How—how the hell is that possible?!”
+
+Celica couldn’t help it. She laughed, bright and sharp. “Oh, that’s rich. They’re all panicking while I’m already in the history books.”
+
+A scream tore across the forest.
+
+Celica whirled. Not far off, a boy maybe sixteen had been mid-swing against a slime. He’d mistimed it—just barely—and the slime juked left, ricocheted, and slammed into his chest.
+
+The boy convulsed. His health bar, tiny above his head, dropped to zero.
+
+And then he was gone. No respawn animation. No safety net. His body collapsed like a puppet with cut strings, dissolving into light.
+
+Silence followed. The other players, wide-eyed and pale, stared at the empty space he’d left behind.
+
+Someone whispered, “He… he actually died.”
+
+Another shouted, voice breaking, “That’s impossible! It’s just a game!”
+
+The forest rippled with panic, players screaming, running, some collapsing to their knees.
+
+Celica stood frozen. Her sword lowered.
+
+She almost laughed, but the sound caught in her throat. “What the hell… He died to a slime? A slime!?”

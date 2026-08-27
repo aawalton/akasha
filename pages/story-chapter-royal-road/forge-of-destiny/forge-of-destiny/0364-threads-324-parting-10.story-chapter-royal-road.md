@@ -1,0 +1,151 @@
+---
+id: 34d57edb-e0d9-50b5-8f50-e7c82914fda5
+page-type-slug: story-chapter-royal-road
+title: "Threads 324-Parting 10"
+slug: 0364-threads-324-parting-10
+partOf: forge-of-destiny
+position: 364
+ownLength: 1631
+unit: words
+publishedAt: 2023-07-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1291387/threads-324-parting-10"
+royalRoadId: "1291387"
+---
+
+“There are methods for better dispersing greater powers. But the method I think you might find useful as a cornerstone for priestly rites in grounding spiritual power and pressure is one that is used for leading lower realms and even mortals,” Xin said thoughtfully.
+
+“Spirit and world are one in understanding,” Ling Qi recited from the meditative koan of the art int question. “The spirit is merely an element of the world you walk in and may allow its intent to be bled back whence it comes.”
+
+Melodies of the Spirit Seekers was not a flashy art and not one she used in battle. Its lessons were more subtle than that, and they mostly served to inform her thoughts and approaches to spirit negotiation.
+
+The portion she was cultivating right now was in fact its primary active technique, Bastion’s Melody, a qi field that protected herself and her allies from the unintentional harm high realms could cause merely by their presence and attention. Even then, as she had told Xin, she had been mostly contemplating its lessons as a thought exercise, rather than for the technique itself, which would likely only become useful when it came time to begin focusing on the many spirits in their shared fief at Snowblossom.
+
+“Yes,” Xin agreed. “I do know a few tricks for improving the qi efficiency of techniques like this. That may allow you to let the protection linger in place, most especially when in a prepared area.”
+
+“Like a shrine or a temple.”
+
+“Exactly that. Now, to achieve the best effect, you may have to teach any followers a lower ranked version of the art, but that will be your business.”
+
+“And you can also do it on your own time,” Elder Jiao interjected. “I’ve indulged both you and Xin and given you advice on your challenges. Be grateful. I did not even owe you that much.”
+
+“I understand, elder. I am thankful. Our paths have some similarities, but I’m even more sure after our talk that they are not the same.”
+
+“Of course they aren’t. By the gods did my foolish sentimentality come back to be a bother.”
+
+“I don’t think sentimentality is an error. Being without sentiment can only lead to ugliness.”
+
+“Childish.” The elder sighed. “I do not understand why you are so happy to be inflicted with this babble, Xin.”
+
+“I’ve always been overly curious,” Xin said loftily.
+
+“May I ask one more question?”
+
+Jiao gave her an unimpressed look, but didn’t say no.
+
+“I know the ministry represents some interest, but is the throne actually likely to interfere?”
+
+Xin’s fond smile dimmed. Elder Jiao scowled.
+
+“No,” Elder Jiao bit out. “Unless you somehow offer an immense offense, the eyes of the throne won’t approach this place. The ministry might use it as a threat to push you in the directions they want, but Xiang will not care unless you make her care.”
+
+Ling Qi was feeling highly uncomfortable when she realized that he had just referred to the empress so casually by first name.
+
+“What is she like?” Ling Qi wondered, morbidly curious. Elder Jiao had actually sounded upset.
+
+He gave her a long look. “She came to the same conclusion I did. The difference is that she did not stop. Like you, she felt her father and I had eyes too big for our stomachs.”
+
+“What conclusion?”
+
+“Puzzle it out if you care so much,” Elder Jiao said flippantly. “Xin, don’t just tell her.”
+
+“I’ve given away enough secrets today. I wouldn’t want to atrophy her skills by handing over everything.” Xin reached over to pat her hand. “If you’d like, we can retire now and talk qi theory. I’m afraid my husband’s tolerance for company is at its limit.”
+
+“Do not talk about me like some invalid.”
+
+“Thank you again, elder.”
+
+“Feh, just try not to fail too much. Maybe the world will scrape some small benefit from your flailing then,” Elder Jiao said grumply. Before the words were even finished, his form lost shape, collapsing into mist and shadow that swiftly dispersed in the air.
+
+She blinked. That was… almost encouraging? Maybe. From a certain point of view.
+
+“Mm, not much improvement, but the slide is arrested for the moment,” Xin assessed. “Do take that as a lesson, dear. No matter how well you plan or what plots you hatch, you will never get everything you wanted.”
+
+“I understand.”
+
+“You won’t,” Xin corrected kindly. “Not for a while yet. Oh, I wonder, did you keep that map I left you? The one I gave to you while you were still in the Outer Sect?”
+
+Ling Qi recalled the puzzle box challenge she’d solved that had unfolded into an interactive map of the sect grounds. She hadn’t thought of it in a long time since she hardly had a reason to amble around and poke for challenges anymore. “Yes, I still have it.”
+
+“Mm, bring it along when next you seek my greater self’s attention. Something useful might happen. Now, why don’t we find ourselves an empty room, and I’ll show you a few pointers on your qi constructs.”
+
+“You’ve already done more than enough, but I won’t refuse,” Ling Qi said, rising from her seat.
+
+“Good girl.” Xin drifted to her feet on a billow of wind herself, as if she were only a dancing leaf. “This will be an ending, but when you’ve grown a little more, done a little more, seen a little more, I hope we can take tea in my archive. There are many plots still spinning, and I would like to see how many threads you find on your own by then.”
+
+Ling Qi considered the duchess’ challenge to them, Jiao’s unhelpful, cryptic words about the empress, Huisheng’s history, all the little niggling secrets and histories that stitched the province together, the beasts and challenges of Snowblossom, and the hundred, hundred ways the summit could go wrong.
+
+“I’ll get there soon,” she promised.
+
+***
+
+“Were you satisfied with your farewells?”
+
+Ling Qi looked down over the cliff, the one she had first stood on the day she had entered the Inner Sect officially. She looked over the misty valleys and hills and the mountains and forests. All the land of the sect sprawled out before her. It had not even been a full two years in the Inner Sect, and yet, that was still longer than she had called any place home since she had first run from her mother’s rooms in Tonghou. It felt bittersweet.
+
+“I am. I chose this a long time ago, and home doesn’t rest in places. Everyone will still be here, even if I see them less. But life doesn’t stay still. Everyone has their own Way.”
+
+“A good attitude.”
+
+“Will you miss anything here, Lady Cai?”
+
+Her liege, standing beside her, arms folded behind her back, did not answer immediately. “There are some fond memories. But nothing I require is being left behind.”
+
+Ling Qi hid her wide grin behind her sleeve, giving the shorter girl an amused look.
+
+“Do not.”
+
+“I won’t ruin the moment,” Ling Qi agreed.
+
+“Hey! You two gonna keep acting mysterious over there all day?”
+
+Ling Qi looked back over her shoulder in the direction of the rough voice calling them. Su Ling stood there, hands on her hips. Gan Guangli’s hand was on her shoulder. Her fellow retainer was grinning brightly.
+
+“No! We’ve got our mysterious contemplation quota filled up, right, Lady Cai?”
+
+“The scheduled two hundred and twenty-three seconds have been completed,” Cai Renxiang said seriously.
+
+Ling Qi furrowed her brow. How long had it been since Renxiang had stepped up beside her? Was it really two hundred and twenty-three seconds?
+
+The corner of her liege’s lips twitched, and she turned away from Ling Qi. “Miss Su, I do apologize for my interruption towards the end of the day. Your observation of the Diao was useful.”
+
+Su Ling grunted. “Not like I saw anything much up there. It’s fine anyway. Keep this guy in line for me, and we’ll call it even.”
+
+“Why do I need to be kept in line?” Gan Guangli wondered.
+
+“Well,” Su Ling said pointedly, “you were telling me there’s a bunch of burly ladies who might be after your virtue.”
+
+“I will inform you of any courting attempts should Gan Guangli fail to register them, if that is what you require,” Cai Renxiang said formally.
+
+Gan Guangli’s face fell in despair.
+
+Ling Qi couldn’t tell if her liege was joking.
+
+“And Ling Qi… Thanks,” Su Ling said. “Wouldn’t have gotten to visit without you anyway.”
+
+Ling Qi dipped her head in acknowledgement. Su Ling had gone up to visit the Diao and the very young fox child that had been found a few weeks ago. “It’s only right. I hope things go well.”
+
+“I don’t even know what that looks like.” Su Ling sighed, brushing her hand through her hair distractedly. “But yeah, good travels. I guess all three of you need to get going.”
+
+“We do! Duty calls, and the virtuous must answer,” Gan Guangli boomed. “But in a few months, perhaps you can find a moment to visit.”
+
+“Or we can,” Ling Qi said. “We'll only be a little ways off, as the cultivator flies.”
+
+“Good for you.” Su Ling was unimpressed. “Most of us can’t do that yet.”
+
+“Yet,” Ling Qi agreed.
+
+Su Ling rolled her eyes.
+
+Ling Qi glanced back over her shoulder once more at the mountain and the valleys. The Argent Peak Sect had been her home, and she would always be fond of it. But it was time to move on. Time to step out, spread her wings, and begin the next stage of her life.
+
+She just hoped Sixiang would join her soon.

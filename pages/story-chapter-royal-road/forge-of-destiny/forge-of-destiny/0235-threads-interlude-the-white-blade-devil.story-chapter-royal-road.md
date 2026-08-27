@@ -1,0 +1,113 @@
+---
+id: 8f5a16c4-5a09-52b4-b424-63f02d66cc76
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude: The White Blade Devil"
+slug: 0235-threads-interlude-the-white-blade-devil
+partOf: forge-of-destiny
+position: 235
+ownLength: 1849
+unit: words
+publishedAt: 2022-03-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/873238/threads-interlude-the-white-blade-devil"
+royalRoadId: "873238"
+---
+
+The first strike would be with the blade of the ninth sword law, striking at the intersection of Discipline and Pride where untempered ego rotted the roots of the General’s Sovereignty. Piercing this defense, her heart pearl would be wounded, allowing unleashed passions to degrade all further decisions.
+
+“On this matter, my authority supersedes yours, sister,” Bai Suzhen said calmly. “And being blunt, I find your objections to be irrational besides. My efforts will grant the army of Zhengjian access to superlative equipment.”
+
+“At what cost, sister?” asked her cousin, arching a perfect eyebrow. Like her, Bai Zhilan appeared by every physical metric as a paragon of the White Serpent. Her white hair spilled all the way to the ground, stopping just short of touching the base earth to be carried by invisible wind. A single dark violet flower, at her temple was its only adornment.
+
+The second strike would be with her primary armament. Its eight ribbons would strike to sever the strings between the General and her lieutenants. Failure was probable on the initial strike, but the attempt would place the General on the back foot.
+
+“To use foreign goods to arm the first and greatest of our armies, even those crafted by a ‘master’ such as this Cai, is an insult to our clan, Bai Suzhen. Others have accepted the deals you have made for they have been trades of trinkets and common goods. This agreement is beyond the pale.”
+
+“Father does not seem to believe so,” Bai Suzhen replied, running a gleaming fingernail along the grain of the wooden desktop which filled the larger part of her office.
+
+Zhilan stood opposite her, stern faced and unamused. Bai Zhilan was, unfortunately, a figure she could not ignore. She, too, stood in the seventh realm, though Suzhen doubted her ability to attain the eighth. Her Way held too many fault lines. However, this did not stop those who opposed her from rallying at her cousin's call. It truly irritated Bai Suzhen that tradition called for her to call such a blunt instrument “sister.”
+
+“Bai Suzhen, it does not do you good to draw attention to your manipulation of our Clan Head’s declining faculties.”
+
+“That is a bold thing to say, Bai Zhilan.” Bai Suzhen let the General’s name drip from her lips like venom. So Zhilan and her supporters were already willing to make such statements. Concerning. Her father was a cruel man. He was a bitter and angry man. Most of all, he was a tired man. However, no rot had yet touched his soul.
+
+Irritating.
+
+The third strike would require her to wield the seventh blade, anointed in the Sovereignty of Clan, to sever at the root, the blood that bound them, and enable her to act without restraint.
+
+“It is the only reasonable answer to why he would give approval to such an agreement. It still shocks me that you would even dare voice a proposal to trade any part of Grandmother’s body to an outsider,” Bai Zhilan claimed, golden eyes narrow.
+
+“One vial of powdered scale shavings in exchange for five hundred sets of tailored gear crafted by the most skilled talisman maker of our age and a further thousand sets of equipment made by her apprentices? It is an easy deal to make,” Bai Suzhen retorted, steepling her fingers in front of her face. “No, it is your sentimentality that I question, Bai Zhilan. As if Grandmother Serpent or Fabled Yao would disapprove of sharpening our fangs with every resource available when war is coming.”
+
+“Our ancestors would be ashamed that you deem the Bai clan so weak as to require the aid of half-barbarous savages and their abomination of a queen to do so,” Bai Zhilan said coldly. “But I see, as ever, that your brittle mind of steel is beyond reason. Know that your growing madness will not be unopposed.”
+
+“I would not have expected anything else. I welcome your aid in being sharpened for the headship, sister,” Bai Suzhen replied.
+
+The worst thing, she supposed, was that her cousin’s opposition was not even born wholly from the intrusion into her sphere of influence, the army. No, genuine ideology fueled the greater part of her rage.
+
+Troublesome.
+
+The other woman turned on her heel, silhouette narrowing down to a blade’s edge as she vanished from Bai Suzhen’s office, leaving behind the two silent guards, fourth realms the both of them, who had accompanied her to the doorway. Bai Suzhen’s eyes fell upon them.
+
+For them, the first strike would also be the last. The man’s stance was too loose, and he had a deformation in his respiratory pearl which would shatter under a single thrust of the second sword law, slaying him instantly. The woman’s guard was weak on the right side, and her understanding of the Law of Steel was flawed. A single palm strike would shatter her. Brittle blades both. Shameful.
+
+The two of them bowed low, their faces pale as they made excuses and followed their mistress.
+
+As the door of her office closed, Bai Suzhen closed her eyes, and for a single moment, she allowed herself to grit her teeth. It often felt that she would need to fight her fellows as much as the accursed Sun to lead the Bai from these trying times.
+
+She sat in silence for a time, meditating on the actions she would need to take to shore up her support in the face of more openly hostile opposition.
+
+A gentle knock sounded on her door.
+
+“Who comes?” Bai Suzhen called without opening her eyes.
+
+“It is but humble Lushen with the lady’s tea.”
+
+She knew, of course, but it was pleasurable to play at mortal foibles in this case. “Be welcome and enter.”
+
+Her husband silently drifted through the door of her office, scentless, transparent vapor slipping between the cracks in wood and formation to appear before her. He was a small man, half a head shorter than her and thin even for a Bai. His complexion was a shade darker than hers, touched by the sun, and his hair hung in loose ringlets to his shoulders, a shade of violet so dark that it could have been mistaken for a Xiao’s black in the right light. His face was as narrow and handsome as any proper Bai man, and a pair of small spectacles perched on his nose, which he adjusted as he bowed low, keeping the tea tray level with his chest.
+
+The first strike would not be needed for there was no threat to kith or kin here.
+
+“You are two minutes and fifty seven seconds later than the appointed time,” Bai Suzhen said without heat.
+
+“I apologize, my lady wife. I was caught up in a fascinating bit of experimentation,” Xia Lushen of the Violet Sea Snakes replied.
+
+“More fascinating than our luncheon,” Bai Suzhen stated, leaning back in her chair as he placed out the tea. She inhaled the scent of the leaves. A relaxing blend.
+
+“I would never imply such. I am but an absent-minded craftsman. Forgive me, Suzhen,” he said.
+
+“Do try to be better, Lushen,” Bai Suzhen replied, and he bowed again, but his smile never left. It was that quiet confidence that had endeared her to the genius of the violet caste in the beginning.
+
+Well, that was not entirely true. Witnessing the work of engineered disease spirits in destroying the encroaching jungle flora of the north had been the first thing to bring him to her attention. Such death, wrought without a single soldier’s boots upon the tainted earth, was a work of art.
+
+Personal affection had come later with time and understanding. Xia Lushen understood, better than any save her late sister Meilin, the urgency of undoing the complacent corrosion which had so weakened their clan.
+
+“I was somewhat delayed. The palace is in a bit of turmoil,” he commented, pouring out their cups. He sat down upon a drifting strand of vapor which curled around his body, emitting from one of the many vials and flasks which poked from the pockets and pouches which studded and hid among his voluminous sea gray robes. “I take it your cousins are moving?”
+
+“They are,” Bai Suzhen said, and in the privacy of her husband's company, she allowed herself to vent some frustration. She had underestimated just how much support rivals like Zhilan had been able to gather and the sheer strength of the isolationist thought which ran through her people.
+
+She herself was gaining strength and support. As the southern roads were repaired and rebuilt and the riverboats began to flow, prosperity was coming back to the Thousand Lakes. But it was slow.
+
+As the incident at the border with that idiot green caste child showed, stupidity could move with the speed of a lightning bolt. The problem was that she had not broken through to the eighth realm yet. The same stubborn conservatism which dogged her heels now would ensure obedience from most of the White Serpents once she had achieved the pinnacle of might.
+
+“Power and victory need no excuses,” Xia Lushen said as her words slowed to a stop.
+
+“Indeed. Yet to rush for ascendance is also foolish,” Bai Suzhen said sourly. The previous heir of the clan had shown that, crippling themselves and plunging all the way to the barest beginnings of the sixth realm.
+
+And in the end, despite everything, she was not looking forward to taking that last step.
+
+“I understand what you must do. This has been coming for many decades, Suzhen,” her husband said calmly.
+
+Those of lower cultivation did not often understand well what it meant to achieve the highest realm. But she was of the seventh. She had glimpsed that summit, and she knew its truth. She had already sacrificed so much to rise to where she was, carving away everything which did not fit the Sovereign she had become.The eighth realm stripped even more than that.
+
+She was the White Blade Devil, the Carver of Roads and Rivers, wielder of the Sovereign word Prosperity. Yet she remained Bai Suzhen. To take the next step would be to surrender even that and become her Law in totality.
+
+“I wonder at that. Our ally in the south raises many questions with her existence,” Bai Suzhen said.
+
+“Suzhen, it is best not to contemplate another’s ascension. That way is futile.” Her husband sighed. “Particularly with that one.”
+
+Suzhen made a sound of agreement, and yet, she could not forget. She had seen behind the mask of flesh the being which had once been and seen the word which was at her core. It was not a word which should have allowed its wielder love.
+
+Lushen was right that that woman was an aberration among aberrations though. “I hope that you will care for my niece when I am no longer able. I know you desired children, and I have regretted not being able to accommodate that.”
+
+“Of course,” Xia Lushen promised. “I am looking forward to meeting her, come this year's end.”

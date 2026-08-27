@@ -1,0 +1,125 @@
+---
+id: 23a585da-9e09-5eac-acd9-83cfe0f84c4c
+page-type-slug: story-chapter-royal-road
+title: "Threads 474-Glass 4"
+slug: 0519-threads-474-glass-4
+partOf: forge-of-destiny
+position: 519
+ownLength: 2022
+unit: words
+publishedAt: 2025-09-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2622393/threads-474-glass-4"
+royalRoadId: "2622393"
+---
+
+"What was that about?" Xia Anxi asked as they strolled down the street toward a clear patch in the industrial district where a garden had been laid down for the folk here to use in rest and meditations. It was a humble place as far as parks in the cloud districts went. There was a field of raked white sand and carefully arranged and shaped stones, suited to the qi of earth and fire.
+
+"Just a whim. I had a thought that I might like to cultivate using the glass."
+
+"Do I even want to know?"
+
+"I don't know. Do you?"
+
+She hopped up onto a stone, sitting down cross-legged, and Qiyi's silk rippled, briefly puffing out like a cat shaking off its fur as her dress expelled the small amount of particulates that evaded the great formations above. She watched them travel up, drawn in by the subtle currents of the wind.
+
+The Bai retainer didn't sit down himself, instead leaning against the polished iron fence that lined the path. "Sight. You've painfully sharp eyes, but I'd think you would be past such mundane tools, given your capability."
+
+"It's not the seeing itself," Ling Qi explained. "For that, my eyes are already better. It's the method. The lens distorts what passes through it, and yet, it brings clarity and a true sight rather than confusion and deceit. I thought to cultivate on this thought."
+
+Xia Anxi looked as if he were rolling that over in his thoughts. "That seems a reach to me. The method the lenses use is not so different from that the mortal eye uses to take in light. Might as well say our own eyes distort everything we see."
+
+She laughed. "Might as well. If my experience at the summit taught me anything, it is how true that is."
+
+He searched her face, as if trying to find the dig in her words. He seemed more unsettled to not find it. "What plan lies between you and my lady, Baroness?"
+
+She blinked, earnestly confused. "Pardon?"
+
+He searched her face even more intently. "Ugh. I don't know if that is worse."
+
+"It is possible Lady Bai and Lady Cai might be arranging a prank…?"
+
+She wouldn't put it past them, after their many betrayals the night before.
+
+He looked deeply pained by her words, letting out a harsh breath. "Baroness Ling, I asked once, and we traded simple answers. I would ask again. What did you take from your journey through my thoughts?"
+
+She rested her chin on her hands. There were literal answers. She'd taken nothing, only witnessed it. But whatever differences they had, they were both artists, and she'd not insult him by being obtuse when she understood the actual thrust of the question.
+
+"I took the sound of the waves and the wharves, and the strum of mortal strings and sailors' songs. There are many shades to those songs, and I sadly only heard a few. Xia Anxi may have nothing to do with those songs, but I won't lie and say I cannot see the way they are the mortar of his foundations, even if they've been well built over."
+
+He let out a soft, quiet hiss. "You would, wouldn't you? You, who so brazenly wears the grime and the dirt on your sleeves."
+
+Qiyi rustled. She was not dirty at all!
+
+Ling Qi soothed the spirit with the thought. The words weren't meant that way.
+
+"I do. And where would I hide it if I had not? I don't have such resources, nor the shame to use them. Xia Anxi, I meant my promise. I will not speak of anything I saw in your mind. They belong to you, and you are not an enemy of mine." She tipped her head to him. "I won't say I'm not curious though."
+
+She had done some searching, not to expose him, but to better understand the convoluted traditions of a clan as ancient as the Bai. The Bai were an immense clan, mind-bogglingly so. The White Serpents, their leaders, were closer to what she understood as a ducal clan. Then, the other six castes occupied places similar to comital or vicontiel clans, but the last, the gray, was for those mortals who still bore some signs of Grandmother Serpent’s descent.
+
+The gray caste was most of the population of the Thousand Lakes.Despite the harsh restrictions she saw in their records, there must be the occasional throwback among the gray.
+
+"Oh, am I to be the Baroness' little project?" Xia Anxi asked.
+
+"You were the one who brought this all up again. I was content to let it pass," Ling Qi pointed out. "If anything, you're the more curious one here."
+
+He pressed his lips together in a thin line.
+
+"I won't claim I know you from a few snippets of memory, but I can speak of myself," Ling Qi said candidly, turning her head to face the little pond in the center of the sand garden.
+
+The air buzzed with their qi here. Xia Anxi's screening techniques sent whispered wind and waves into the air, overwriting any echo of their words. Ling Qi just sent her statements to his ears alone. No one else needed to hear them, and so they did not, and could not, unless some higher realm chose to bend their Law to hearing them.
+
+"I was gutter trash, the sort of dirty and unwanted thing that even kinder men and women avert their eyes from, seeking 'cleaner' cases for their charity," Ling Qi continued. "I have no fondness for that, nor shame in it. It is what I was. It's still the root of who I am. I know I am judged for it still. Perhaps if I tried very hard to put on every air, diverted the subject whenever it came up, expressed performative shame, and verbally despised my old position, people would pretend that they didn't know about it."
+
+Ling Qi tilted her head back and observed the great vortex of winds and filthy air in the sky. "Until it was convenient anyway. The 'mud' will never, ever come off, although if I open my third dantian, it may become too frightening for anyone to comment on it. I don't doubt that the histories will carefully scrub it should I ever appear in one." She laughed at the last, shaking her head. "I understand that it's different for you. There's something you value in your gutter, that you'd rather not have picked and prodded at by your enemies."
+
+"And now, you try to sound the mysterious muse." Xia Anxi scoffed. "As if it were so simple. If you did not have the backing of that lady of yours, I doubt you would be so free and incautious."
+
+"Oh, I'd be in a much worse place for it, but I don't think I would hide. I am not Xia Anxi, and the Emerald Seas are not the Thousand Lakes."
+
+He walked out over the carefully raked sand without disturbing it before he found his own rock. "That, I will allow."
+
+"I understand that you do not want that past to be public, but why does the idea that those songs are in your foundations offend you?" Ling Qi asked. "You don't lie to yourself that well."
+
+It frightened him. She wasn't so rude as to say that out loud.
+
+"You don't lie to yourself that well…? You are infuriating, saying such words in that faux-friendly voice."
+
+"There's nothing faux about it."
+
+"So all of my senses tell me, which is why you are a dangerous woman." Xia Anxi clapped his hands onto his knees, sitting up straight-backed in a more traditional mediating pose. "No, your words are scalpels. Every one of them is deliberate. That you manage to seem so casual and sincere while you do is all the more frightening."
+
+Ling Qi smiled teasingly. "Xia Anxi, do you mean to court me? This is what a Bai says to a woman they admire, isn't it? I remember reading about this."
+
+He glared at her. "Speaking of yourself as encrusted with mud in one word and then preening like a queen in the next. It’s unbecoming, Baroness."
+
+"That's excessive. You're hardly a king or a prince, Bai or no," Ling Qi shot back. "And I'm not the one sidestepping the question. Tell me it's none of my business if you like, but don't insult these eyes of mine."
+
+He broke eye contact first, looking to the side with a disgruntled huff. "Beyond the obvious?"
+
+"Its not fear of discovery. There are any number of ways to sell why your soul sings of the sea. Given Bai Meizhen's leanings, I'm quite sure they aren't even impolitic with the parts of your clan you've been thrown in with," Ling Qi said. "We did, after all, just purchase a whole batch of spyglasses for sailing ships and their officers."
+
+"It isn't merely the sea. The Bai clan has its naval heroes, far in the past though they may be," Xia Anxi replied. "However, there is a difference between the proud captain with one foot on the prow and the men below decks pulling the oars."
+
+"Yes, I expect they would have a much larger and fancier hat."
+
+"And much more well-polished boots. But merely purchasing boot polish and visiting a haberdasher does not make a rower a captain."
+
+Ling Qi hummed. "So even a hint of the catchy twist of a shanty would reveal your face to be a farce? I do not think Bai Meizhen would be so petty as to be concerned."
+
+"Oh, yes, I have managed to make myself useful to my lady, always the first step to an acceptable eccentricity, until it is inconvenient," Xia Anxi said sarcastically. "I was nearly killed on her little errands. I'm well aware of how 'safe' my service is when the white caste is quarreling."
+
+Ling Qi didn't have an answer for that. Bai Meizhen hadn't said anything of the sort.
+
+"You're familiar, aren't you? How it feels to be locked in paralysis, your qi sluggish and immobile. A good thing Keung is such a stupidly robust boulder of a man," Xia Anxi grumbled. "You bewilder me with the ease with which one lives in the Emerald Seas. I am at least aware of my position. You really do think you are 'friends' with the existences above us. It's not even an affect."
+
+"Of course it isn't. ‘Existences above us.’ Honestly, you're being dramatic. I've personally spoken with plenty of existences above me," Ling Qi retorted. "I’ve negotiated with spirits that could extinguish me in an eyeblink. Neither my Lady nor yours are on that level."
+
+"They may as well be," Xia Anxi said stubbornly. "You think I've not met minds with the mighty spirits of the currents, the lakes, and the winding rivers? Please. My cultivation is not less than yours. It is not the same thing at all."
+
+She did think her resume was more impressive here, but she didn't want to deflect him from his point.
+
+"Just because a white serpent is not your superior in cultivation does not mean they may not destroy you just as easily as some mighty spirit. They transcend mere cultivation. Those such as I—such as you—have the task of being. Only mortals and low cultivators have the luxury of unspoiled camaraderie. The moment that world is left behind, it becomes a dream."
+
+Xia Anxi didn't even sound bitter, though there was a sarcastic edge as if he was explaining something they both knew and that she was merely his better at eliding.
+
+"Mortals are just as capable of cruelty as counts and dukes. Their reach is just smaller. I can't speak for sovereigns, but cultivators beneath that aren't so much different than mortals, only stiffer and less flexible," Ling Qi said. "That's the real difference between us. My past is a frozen shard jammed under my skin, a reminder of what life can be reduced to. Yours is a treasure you know you'll never get back. No wonder we don't see eye to eye."

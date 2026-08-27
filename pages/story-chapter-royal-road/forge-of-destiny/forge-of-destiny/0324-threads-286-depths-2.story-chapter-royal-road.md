@@ -1,0 +1,139 @@
+---
+id: c25ed41c-2908-5cb4-b8c6-28981abe0fa5
+page-type-slug: story-chapter-royal-road
+title: "Threads 286-Depths 2"
+slug: 0324-threads-286-depths-2
+partOf: forge-of-destiny
+position: 324
+ownLength: 1665
+unit: words
+publishedAt: 2023-02-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1118812/threads-286-depths-2"
+royalRoadId: "1118812"
+---
+
+He nodded once and reached up, unwrapping his head scarf and vanishing it into a storage ring. His coat followed, leaving him in a sleeveless tunic. Ling Qi did not stare, obviously. Not everyone could wear a talisman as potent and mutable as hers.
+
+As he began to wade out into the water, she followed, her gown remaining perfectly dry despite being submerged, little fractal blooms of ice growing and melting from the hems and her hair.
+
+It was a bit different to encounter someone who disagreed with her direction, but not from a position of age and authority. It made her curious as to why he thought the way he did.
+
+“A clan as old as the Bai has many rumors and stories attached,” Ling Qi beganblithely. Her feet left no mark or impression on the sand and mud of the lakebed, the water only barely rippling as it came up around her waist.
+
+Lao Keung grunted an acknowledgement. Ahead of her, the water swiftly swallowed up his broad chest, soaking into the cloth of his vest. “There are. I am sure you and your lord have heard the truth from Lady Bai.”
+
+“I find truth comes from many perspectives.” The water came up to her neck, and then another step down, and it swallowed her head. She blinked once as her eyes went underwater, taking only a moment to adjust to the somewhat silty lake water. “I’d like yours, that of the Red Bai’s.”
+
+The words carried undistorted. It was trivial to draw air from the water and transform it into a medium for speech. It generated a few bubbles, but some modulation of the vibrations prevented any distortion.
+
+Lao Keung turned to face her, his boots churning up sluggish clouds around his feet. Unlike her, the water clearly touched him, though he didn’t seem bothered by it. Where she floated, he stood on the bottom like a pillar of stone.
+
+“Why?”
+
+“I’m just a naive foreigner, but surely, the children of the Red Python have their own way of seeing the world. Will you humor me?”
+
+She drifted along after him as they continued to descend the slope toward where the water flowed out into the continuation of the river. She didn’t press him further as they moved around clumps of water weed and flashing schools of fish.
+
+“Disorderly. You are all disorderly. Confused and confusing, lacking discipline,” Lao Keung finally said. “The Celestial Peaks are more sensible, but in the Emerald Seas, it has been so long since you were ruled properly that none here knows their place. Those are the thoughts of my elders.”
+
+“It would probably be insulting to take that as a compliment, wouldn’t it?”
+
+Lao Keung grunted noncommittally. “We are the blade and the armored fist, the crushing coils of the python. It is not our lot to decide what is insulting, only to punish it should the White Serpents decide it is so.”
+
+Ling Qi’s head slowly tilted to the side as she drifted in front of him, gown and hair drifting as if in a slow breeze. “And a fist which starts making decisions may strike something undesired?”
+
+“There you have it.” Lao Keung advanced, stepping around her. The light from above glinted off the scale patterns which marked his muscular arms. “The world is ordered as it is for a reason. To seek or think outside of your place invites only suffering and chaos. Witness Sun Shao, the Twilight King, or the Strife of the Twin Emperors. All arose from individuals refusing to accept their roles. So, too, with us. Our ancestor refused to bend the knee to her elder as was the White Queen’s right, and in doing so, she nearly shattered Yao’s kingdom. No good comes from stepping beyond your role.”
+
+“And what do you think?”
+
+Lao Keung chose not to hear her question. “We’re here. I do detect traces of dense qi.”
+
+Ling Qi hummed and turned her eyes to the task at hand. Something  registered as faint sparkles among the murk to her senses. It was like particles of glass mixed with the mud and sand. Ling Qi gestured, and silver light flickered in the murk like the scales of schooling fish. As she examined the shifting currents, Lao Keung knelt on the riverbed, digging his fingers into the silt.
+
+“Would it be fair to say that the Red Python are uncomfortable with this alliance then?”
+
+“Do you not focus on the task before you?”
+
+“Are you so limited at your realm and stage?” Ling Qi asked innocently.
+
+He squinted up at her through the water. She smiled back.
+
+“The source of dense qi doesn’t seem to be active right now. These traces are breaking down.”
+
+“Sourced from the water, not the earth. It is not an earth-metal toxin.” Lao Keung grunted, standing up. He began to walk away from the river, down into the deeper expanse of the lakebed.
+
+She drifted after him in a wide circle, flitting through the shadows cast by tall stalks of waterweed.
+
+“It is the hope among some that your duchess has finally mastered this place and that Lady Suzhen, in her wisdom, sees this and supports the greater ordering of things.”
+
+Ling Qi considered this as they began to descend further, leaving the mirror-like surface of the lake further above. The darkness grew deeper even as the murk of the shallower waters settled, leaving the waters clear and still and black.
+
+“Didn’t she rise against her role though? Upend the way things were?”
+
+She caught a faint smirk on Lao Keung’s lips. It was very brief. “Why, her victory shows that it was the previous arrangement which was wrong and the aberration of correct order, no?”
+
+“Victory needs no excuse?”
+
+“So it has ever been. Everything works backward from victory.”
+
+“If I succeed then, will you bow your head and apologize for your doubt?” Ling Qi needled.
+
+“Ah, so it is now ‘I.’ Disorderly indeed.”
+
+Ling Qi shot him an unimpressed look and turned back to the descent. Snowblossom was not a shallow lake, and it was filled with life. Fish swam in dense clouds, scattered only by the passage of larger beasts. But even these, great carp larger than men, undulating things many meters long that lurked beneath the sands, and spirits of water invisible to the mortal eye but nonetheless present, gave them a wide berth. Down here at the lake bottom, great boulders and chunks of stone were studded with colonies of shellfish half-formed from rime and dense water weed that made for waving forests in the deep.
+
+They circled the perimeter of the lake, searching, but it was only in the depths where the traces grew thicker in the water.
+
+“Like blood,” Lao Keung said.
+
+“You think?” Ling Qi wondered. The only spirit that might have been potent enough was that of the lake itself, which they’d only made the simplest of placating contact with, having not settled on proper rituals.
+
+“Resemblance only. There would be more upheaval if the lake was wounded.” Lao Keung paused. “We are a cautious people, Lady Ling.”
+
+She tilted her head.
+
+“We’ve been promised better too many times. It is always a lie.” Lao Keung brushed his hand over a heavy stone embedded in the mud, sending up crystalline bubbles of shimmering color. “Obedience is safe. Belief brings suffering.”
+
+“That might be true, but you are not cautious.” Ling Qi recalled the remarks she had heard him make, right in Meizhen’s presence.
+
+“Correct. Miss Ling is observant.”
+
+She was being made fun of a little, Ling Qi thought.
+
+They pushed through a field of boulders and its forest of water plants and emerged in a great basin at the bottom of the lake. The distant thunder of the waterfall churning the surface came to them as a subtle vibration in the water. Here, little obstructed their sight. There was only an open abyssal plain. Fish and other beasts swam overhead but the deepest depths of the lake were serene and silent.
+
+“Caution has its place. I suppose an elder of the Red Python would say that in the face of such a potent illusion, retreat and communion would be best.”
+
+Because this scoop of clear, serene water was a lie. She could taste and feel it. The traces of dense qi stopping so suddenly only made it obvious. They stood before the home of the spirit of Snowblossom Lake, and they were not welcome.
+
+“Mmm. Likely,” Lao Keung agreed. “You see something I do not?”
+
+“You admit to being blind?”
+
+“Dishonesty at work only makes the load heavier for all.”
+
+“Yes,” Ling Qi answered, drifting forward. “Do you know any rites of spirit propitiation, Lao Keung?”
+
+“We have our ways for the spirits beneath the notice of lords.” Lao Keung observed her actions, a few bubbles emerging from his lips as he crossed his arms. “Lakes are sedate and distant. They are mountains in another form. They care little for small things, and this lake is wild yet.”
+
+“It is. There’s nothing to be gained in antagonizing it. This will be our home after all.”
+
+Ling Qi drifted out into the clear water. Reaching out, her hand skimmed across the surface of something slick and wet like a soap bubble, wetting her previously dry fingers.
+
+“Inaction is an action as well,” Ling Qi continued. “More people are coming soon.”
+
+“Truth. What do you choose then, priestess?”
+
+“Sixiang, will you let Xia Lin know that I am going to contact the lake spirit?”
+
+“Oh, moons.” Her muse chuckled. “Done. She’s a little upset.”
+
+“I can wait if she needs some time. I don’t think I want to leave this too long though.”
+
+“Why?” Lao Keung asked.
+
+“I don’t know what this substance is, but I prefer to resolve dangers where I can.”
+
+Sixiang interjected, “Reporting back from Xia Lin, she asks for an hour to move everyone off the shore.”
+
+“Done,” Ling Qi agreed.

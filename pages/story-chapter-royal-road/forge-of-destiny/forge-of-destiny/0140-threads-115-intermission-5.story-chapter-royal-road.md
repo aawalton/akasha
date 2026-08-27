@@ -1,0 +1,203 @@
+---
+id: 86529e56-d871-5702-a4c9-c9ecbfc468f7
+page-type-slug: story-chapter-royal-road
+title: "Threads 115-Intermission 5"
+slug: 0140-threads-115-intermission-5
+partOf: forge-of-destiny
+position: 140
+ownLength: 2667
+unit: words
+publishedAt: 2021-08-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/728998/threads-115-intermission-5"
+royalRoadId: "728998"
+---
+
+“I think they’ve had enough, Miss Ling!” Wang Chao’s voice echoed from outside the mist. Ling Qi glanced at the remaining young man, who was nodding fervently.
+
+They had been at this for a while.
+
+Lowering her flute, Ling Qi let the phantoms fade. “You can let up, Zhengui,” she said, turning to face her little brother.
+
+Behind Zhengui was the hastily constructed stone “fort” that was the object of the exercise. Around them was a maze of ash clouds and root ramparts, which he had raised over the course of it, choking off approaches more and more while Ling Qi flitted around buying him time.
+
+It had been an enjoyable little exercise.
+
+Ling Qi smiled as she rested a hand on his blunt snout. “Good work. I think our strategy worked pretty well.”
+
+Gui didn’t look fully pleased. “Big Sister was holding back.”
+
+Ling Qi snorted. “Of course I was. Everyone was working with new arts. That was the point. It’s important to practice my new arts to fully understand them.” She hadn’t even gotten to starting to learn her replacement for Thousand Ring Fortress yet. “With this practice, you’re improving your ramparts, too. You’ve gotten much better and faster with them.”
+
+“Foolish Gui should cease doubting his own power,” Zhen hissed. “We are mighty, and we will only grow mightier still.”
+
+“A good attitude to have!” They both looked up as Wang Chao spoke, striding through the withering remains of the walls. “I must say, it is a good thing that between your beast and I, repairing the landscape is so easy.”
+
+Ling Qi turned to him and bowed. “It is good to let loose without worry.”
+
+“Using our explosion is fun,” Gui muttered.
+
+“It is enjoyable to watch,” Wang Chao agreed, turning to survey the other disciples, who were only now climbing to their feet. Those who had more notable injuries were heading back to the pavilion where a medical disciple was waiting. “It would have been a better test if your enemies had better tactics,” he added with a frown.
+
+“I wouldn’t blame them,” Ling Qi replied. “It takes a lot of drill to turn random cultivators into a unit, doesn’t it?”
+
+“It does. Perhaps I am being unreasonable,” he pondered. In a much louder voice, he called out, “That was fine work facing a stronger foe, everyone!”
+
+There was a ragged cry of agreement.
+
+“Will I be facing you soon, Sir Wang?” Ling Qi asked.
+
+“I intend to put on a proper lesson and spar tomorrow,” Wang Chao agreed, turning back to her and Zhengui. “Your beast has taken quite well to my words on battlefield control.”
+
+“Mister Avalanche gives good advice,” Gui agreed, seeming to perk up. “Gui was not sure he could control so many walls at once.”
+
+“It is not my personal specialty, but I remember my lessons. You will be quite a boon to any battle with a little coordination, even if you lose focus easily sometimes, Sir Zhengui. Being able to set and manipulate the approaches of a battlefield is very useful.” Wang Chao grinned. “And of course, Miss Ling is quite frightening in her ability to deny enemy cohesion.”
+
+“Not frightening enough I think,” Ling Qi said, thinking back to the underground fort and the enemy commander who had so easily denied her.
+
+“Hah, Miss Ling is too modest. You are a very frightening woman indeed, according to most!” Wang Chao laughed.
+
+Ling Qi frowned. Somehow, the way he said that made it seem bad.
+
+“Big Sis is the scariest one,” Gui said proudly.
+
+That just made her feel worse.
+
+“Hey, you get the reputation you earn,” Sixiang teased.
+
+Ling Qi huffed. “I think I need a few moments to cultivate my reserves back to full, if you don’t mind.”
+
+“Of course. I think I would like to slake my thirst myself,” Wang said affably, turning away. “Will you join us in the pavilion after?”
+
+Ling Qi considered, eyeing the other end of the field where Alingge and the disciples’ spirit beasts were gathered. Despite her efforts, Zhengui had not been particularly social yet, and she did want to speak with the girl about some things. If anyone could help her work through her conundrum regarding her spirits, surely it was someone who even Zhengui called “Beastkeeper.”
+
+While she was supposed to be here primarily to influence Wang Chao, she was also going to spar with him tomorrow.
+
+“Yes, I will be along shortly,” Ling Qi said, dipping her head deferentially.
+
+“Very good. I will see you there,” Wang Chao said with a grin. He really seemed to be enjoying himself at these gatherings.
+
+As he strode away, Ling Qi turned back to Zhengui and held back a frown. She could tell that her little brother was still discontent. “I’ll only be gone for a little while. Do you think that you’ll be fine?”
+
+“Of course. Big Sister should not doubt,” Zhen hissed. Gui remained silent.
+
+Ling Qi studied him. “Zhengui, you really are doing well, okay?”
+
+“Gui is glad,” he said, but it didn’t feel sincere.
+
+<You’re not going to get anything by pressing right now,> Sixiang murmured.
+
+Ling Qi didn’t like it, but Sixiang was right. Still, she reached out to pat Zhengui on the head, trying to convey the pride she felt in his ability. He pressed his head against her hand before turning and lumbering away to begin spreading ash to restore the field.
+
+Ling Qi sighed and sat down to meditate and recover her qi. If a silver wisp escaped the hem of her dress to hide among the tall grass and keep an eye on Zhengui, no one was going to notice.
+
+***
+
+A few minutes of meditation did much to help her center herself and prepare for interacting with others again. Honestly, the people here were a relatively straightforward lot. The disciples consisted of a few baronial scions, as well as the children of soldiers and crafters, here to raise their family’s status or deepen connections to the Sect.
+
+It was not exactly a gathering of the politically connected.
+
+It was with that thought firmly in mind that she entered the pavilion.
+
+Outside, Zhengui was still wandering the field, idly scattering ash and regrowing burnt plant life. There were a handful of other disciples out there, still sparring or talking, as well as Alingge and the many spirit beasts, but none seemed inclined to approach him.
+
+She hoped he wouldn’t spend the whole time alone.
+
+“Welcome, Miss Ling. Feeling recovered?” Wang Chao asked, interrupting her thoughts.
+
+Ling Qi smiled politely. “I am. I hope everyone else is feeling well, too.”
+
+Ling Qi scanned the people present. Liang He was present, standing off to one side. There were also a half dozen people, including the girl with the iron fans who had been participating in the exercise. Ling Qi had made sure to learn everyone's names this time.
+
+<And I’ll be here to jog your memory if necessary,> Sixiang piped in silently.
+
+“We are not all so fragile,” the girl with the iron fans, Hou Min, said, giving one of the others a haughty look.
+
+Bo Jun, the one who had been wielding the spear, gave her an irritable look. “Of course, Miss Hou. You are welcome to take the vanguard for the next… How many times was it?”
+
+“Five, at my count,” Wang Chao cut in, bulling heedlessly into the conversation. “Even if you were wavering on that last one.”
+
+“It was an impressive effort.” Ling Qi had to admit, she couldn’t fault him for being eager to see the end of the exercise after how many times they had reset the field. Still, she wished that she had been able to cultivate the social art she had intended to work on before this, but with her injury, there just hadn’t been enough time.
+
+“Miss Ling is most impressive, there is no shame in a loss to her,” Liang He said.
+
+“With a cultivation schedule such as hers, it should be no surprise,” one of the other disciples commented.
+
+“Practically a hermit, some say,” another said lightly.
+
+Ling Qi smiled, ignoring the implication. “Naturally, one must work very hard to meet the expectations of Lady Cai. I would never wish to shame her by appearing to slack in my growth.”
+
+“Mm, Miss Ling likes to play at mystery, but she is surprisingly practical,” Wang Chao said. “I think you have done too good a job with your public image!”
+
+“I may have presented too hard a face at first,” Ling Qi admitted demurely. It wasn’t a bad time to admit a small fault. “It does sadden me that I may have made myself unwelcoming to the less brash of my peers.”
+
+Of course, there was no need to take all of the blame.
+
+Outside, Zhengui was surveying his work. One of the spirit beasts, a tiny sparrow, alighted on a fence post nearby and began twittering. Zhengui looked confused.
+
+“I think Miss Ling’s achievements speak for themselves,” said another of the gathered disciples, a mousy girl with dark brown hair and a complexion similar to Ling Qi’s.
+
+“On that, we can agree. Already, stories of your quick thinking down in the caverns have begun to spread,” Wang Chao said pompously. “They say that it was only your efforts that saved the expedition from ruin.”
+
+“That overstates matters,” Ling Qi demurred. It felt odd to see so many people hanging on her words. It would be one thing if she were performing, but she was only trading words. “Commander Guan Zhi and Senior Sect Brother Liao Zhu were ultimately responsible for our success. I merely had the ability to blunt the damage from the transport malfunction.”
+
+“It is worrying that a work by our Elder Jiao failed in such a way,” Bo Jun said with a frown.
+
+“It was an unforeseen environmental effect,” Ling Qi said smoothly. That was the line they were told to stick to. “Discovering such things was, after all, the purpose of our expedition.”
+
+“And it was certainly a brave thing to volunteer for such a task,” Wang Chao said cheerfully. “Too often do those who eschew valour wheedle their way to prominence. Despite your background, you are quite the warrior, Miss Ling.”
+
+Ling Qi kept her expression neutral as she moved to take a cup of cider from the refreshments table and the others began to discuss their own experiences with the war effort so far. That was… probably meant as a compliment. Wang Chao was not, as she learned him to be, backhanded; he was just somewhat inconsiderate.
+
+Outside, the bird had fluttered away, and Zhengui was heading toward the feeding troughs that had been placed out for the larger beasts. Unlike the pavilion where the majority of the disciples were standing near the tables sipping and nibbling at treats, the troughs were occupied by only a single beast, Wang Chao’s black mountain goat.
+
+As Zhengui trundled up, the other beast paused in his chewing and turned a gimlet eye to her little brother. Zhengui stopped, and something passed between them. Zhen hissed, arching his body to look down, and the goat turned, staring him down fearlessly.
+
+Ling Qi’s eyebrows rose as Zhen let out a sizzling hiss. The goat lowered his horned head, thick neck muscles tensing under shaggy fur. Gui stamped his feet, and the goat pawed the ground.
+
+She turned toward the entrance to the pavilion, but before she could open her mouth to speak, there was a massive thunderclap from outside, and the cloth of the pavilion rustled in the wind.
+
+Outside, Zhengui had skidded backward some six or seven meters, digging deep furrows with his feet and leaving a trail of snapped off roots. The goat, on the other hand, had steaming venom running down the front of his head, and he shook himself irritably, flinging away sizzling drops.
+
+“Sir Wang—” she began.
+
+She was cut off by the stout young man’s laughter. Wang Chao was peering out of the tent. “It looks like our beasts are having a bit of fun without us, Miss Ling.”
+
+Ling Qi’s eyebrows rose as she saw Zhengui stomping on the ground, raising spearing roots that deflected off of shaggy fur. The goat responded by lowering his head and launching himself forward horns first again. Gui pulled his head back into his shell, and there was a thunderclap of impact again. She saw Zhengui’s feet actually leave the ground for a second as he was launched backward.
+
+“Sir Wang, perhaps we should go out and settle things down,” she said, resisting the urge to rush out. It wasn’t like Zhengui was actually hurt, but…
+
+“Ah, do not be so concerned, Miss Ling. Such is just Fensui’s way of giving greeting. He certainly knocked me for a loop the first time we met! That beast of yours is more than tough enough to handle his hello,” Wang Chao dismissed.
+
+Ling Qi was about to express her doubt, but looking outside, as Zhengui hit the ground with a thump and shook himself, the goat, Fensui, had already turned back to the trough. Zhen hissed angrily, and Fensui raised his head briefly, ears flicking irritably. Something passed between them again, and Zhengui stared in bafflement. When he took a step forward, it was a cautious one, but there was no reaction. Soon, he was at the feeding trough again.
+
+<Just dumb macho stuff. Wind it down a little, Ling Qi,> Sixiang advised.
+
+“Your beast truly is remarkable. Where ever did you find such a creature?” Hou Min asked casually, bringing back the conversation that had fallen silent with the thunderclap.
+
+“Zhengui was a bit of incredible good fortune,” Ling Qi said, still keeping an eye on the two spirit beasts through the wisp. They were clearly still communicating, and it seemed semi-hostile to her still. “I found his egg on the grounds of the Outer Sect. I can’t say any more than that.”
+
+“I wish I had been half so fortunate in my findings during my year,” Bo Jun lamented. “I suppose that explains the odd match the two of you make though.”
+
+“What do you mean?” Ling Qi asked, glancing at the older boy.
+
+He straightened up under her gaze. “Ah, only that your cultivation elements do not match well,” he said hastily.
+
+“It is a little unusual,” Wang Chao said. “I suppose you had your style laid out before you found him?”
+
+“To an extent,” Ling Qi hedged. “Is it really so odd to have a spirit beast which does not match your elements?”
+
+“It is unusual,” Liang He repeated carefully from his spot near the table. “Most cultivators choose their beasts to match, or they cultivate with a companion who matches their blood in older clans.”
+
+“It might be unusual, but I do not think there is anything wrong with it,” the mousy girl who had spoken up before said. “It does not harm the beast or the cultivator.”
+
+“I imagine it can be quite trying though, bonding with a beast which you have so little in common with,” Wang Chao mused.
+
+Ling Qi tried to hide her growing unease. “I would not call Zhengui ‘trying.’ What about you, Sir Wang? Going by what you said, your Fensui was always surly. Is that not more difficult?”
+
+Wang Chao laughed. “Not at all! Fensui and I get along quite well. Since the day we met on the painted cliffs of Mount Lengjin, we have understood each other quite well. We have climbed every peak in the Wang holdings together, and we will see the tops of higher peaks still before ascension to the fourth realm comes and takes the fun out of it.”
+
+“Sir Wang is fortunate to be so confident,” one of the others muttered.
+
+Ling Qi was silent as the conversation moved on, letting others move in to fill the silence.
+
+There were things Zhengui and she had in common. Weren’t there?

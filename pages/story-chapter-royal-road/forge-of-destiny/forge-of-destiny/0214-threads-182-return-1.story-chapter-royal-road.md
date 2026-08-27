@@ -1,0 +1,193 @@
+---
+id: 161d0791-ef62-524b-b48a-7eec81dc90fa
+page-type-slug: story-chapter-royal-road
+title: "Threads 182-Return 1"
+slug: 0214-threads-182-return-1
+partOf: forge-of-destiny
+position: 214
+ownLength: 2718
+unit: words
+publishedAt: 2022-02-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/839662/threads-182-return-1"
+royalRoadId: "839662"
+---
+
+Near the ceiling of the archive, the quintet of silvery wisps danced, orbiting and circling one another in a complex pattern. As the strains of her music rose to a crescendo, their movements sped up until the flashing lights seemed like one strobing sphere, then in time with the descending tone, the orb shrank and the light inverted, leaving a tiny-two dimensional circle of wispy shadow hovering near the rafters. It darted upward then, passing straight through the warded ceiling of the archive’s first floor.
+
+Ling Qi opened her eyes as a faint applause echoed in the study room to see the other members of her “music club.” On the wide couch across from her, Ruan Shen and Bian Ya sat beside each other. Yu Nuan sat backwards on a wooden chair, resting her arms on its backrest.
+
+“An interesting twist on a common technique, junior sister,” Bian Ya said politely, letting her applause fade. “I think you might need further polish to the transformation given your intentions.”
+
+Ling Qi smiled sheepishly. “Yes, I’ll need to make it more subtle for field use, but I think I like this more for performances.”
+
+“Nothing wrong with learning to play with your lighting,” Ruan Shen commented, his fingers dancing across the strings of his lute, plucking silently and adjusting their tension. “Stage presence is more than just songs.”
+
+“How’d you tear out the regular qi projection and replace it with music?” Yu Nuan asked. “I’ve tried that with a few things, but it usually just makes the technique collapse.”
+
+Ling Qi leaned back in her own heavily cushioned seat, luxuriating in the comfort of the plush armchair.
+
+“I helped a lot,” Sixiang boasted, manifesting as a child-sized figure perched on the back of her chair. “Heh, when your whole being is composed of song and expression, that kind of thing comes natural. She just copied some of my patterns.”
+
+“There’s a bit reductive,” Ling Qi protested. “Copying some of Sixiang’s manifestations helped, but it’s mostly trial and error. You have to observe the original effect and compose new lines until you hit on one that makes the qi react in the same way as the base qi pattern.”
+
+“There are methods which you can use to be more systemic about it, but that is the gist of it,” Bian Ya agreed.
+
+“Oh, can you share those later?” Ling Qi asked.
+
+“I don’t see why not,” Bian Ya said. Yu Nuan glanced over to her and nodded in thanks.
+
+“Well, that’s my project. What have you all been up to this past month?” Ling Qi asked.
+
+“I haven’t had much time to work on anything serious,” Ruan Shen admitted. “I want to start thinking about my first personal art, so when I’m not deployed, I’ve been doing research on places to journey to.”
+
+“The Ruan family has plenty of resources and sites on hand,” Bian Ya pointed out.
+
+Ruan Shen looked away, plucking out a low note on his lute. “And I told you, if you want me to do this, I’m gonna do it right.”
+
+There was a moment’s silence as Bian Ya pursed her lips unhappily, leaning away from his side. “Well, junior sister, I have been deployed too often to come up with anything new, but I have refined a few of my songs. I do not mind showing you while we discuss theory.”
+
+“Same for me. Too much time on the front line,” Yu Nuan said. “Mostly been working on teamwork and my movement arts.”
+
+“I was meaning to ask about that. What happened to…” Ling Qi trailed off as she looked down into the shadow under Yu Nuan’s chair. Glinting azure eyes looked back at her. She realized that she had never learned the spirit’s name.
+
+“He goes by Qiu,” Yu Nuan said.
+
+“Borf,” agreed the shrunken thunder hound. He did not look much like the gigantic herding dog made of lightning and clouds she had seen last. He was actually rather tiny and looked more like a limbless loaf of fluffy blue and white fur with a grinning canine face while lying down.
+
+“Yeah, he figured out he can get more treats and pets looking like that,” Yu Nuan said dryly. “He’s a total attention hog. Don’t indulge him too much, okay?”
+
+Qiu panted happily, looking back at Ling Qi with a certain performative innocence that she was all too familiar with via her dealings with Hanyi.
+
+<Aw, c’mon, don’t be suspicious of the little cutie. He just wants hugs and love,> Sixiang thought in her head.
+
+“I’ll keep that in mind.” Ling Qi shared a chuckle with the others. “But I should probably ask, how are things? What has been new over the past month?”
+
+The mood in the room dimmed.
+
+“The Sect has been victorious in all clashes with the cloud tribes,” Bian Ya said. “But Sect Head Yuan pressed us to a hard pace. It is good that we stopped. Many were becoming exhausted.”
+
+“So much winnin’ that you just don’t want anymore, like wolfing down too many sweets,” Ruan Shen said lightly. Ling Qi didn’t miss the slightly bitter twist to his lips.
+
+“It’s all pretty ugly,” Yu Nuan said quietly. “Can’t say I’m much of a fan. Especially once the quakes started.”
+
+Ling Qi looked at each of them in turn, and eventually, it was Ruan Shen who followed up.
+
+“The things underground started ramping up their presence toward the end of the month. Nothing that could stop us, but there’s a lot of traps. Sudden ambushes from swarms of nasty things from below. Weird, explosive formation devices that everyone’s perception arts missed. Sudden releases of plague spirits. The Sect didn’t take a lot of losses, but it did bog us down.”
+
+“We’re not the only ones getting hit. Bunch of mines in the Wang lands collapsed. Heard there was a military outpost that went dark in Luo lands too,” Yu Nuan offered.
+
+“But every time they have brought force, we have met it,” Bian Ya said, “and came out superior. Once we discern the function of their tricks, the leaders of the Emerald Seas will stamp down on it.”
+
+“Of course we will. Doesn’t make it any less nerve wracking to be marching and wondering if the ground is gonna blow up and cover you in toxic gunk,” Ruan Shen said.
+
+“Yeah, I’m not a fan.” Yu Nuan rubbed the side of her neck, as if recalling an old wound. “I made it out okay thanks to Qiu, but my squad wandered into a plague trap, and it wasn’t pretty. We lost most of the lower realms, and the other officer is in the medicine hall’s isolation rooms.”
+
+Beneath her chair, there came a low growl, deeper than the tiny frame of the dog below it should have been capable of emitting.
+
+“Ah, but those caught in the caldera events have recovered for the most part,” Bian Ya cut in, her cheer sounding a little forced. “Elder Yongrui is still not in combat ready condition, but he is awake.”
+
+“That’s something at least,” Ling Qi said, thinking of Senior Brother Liao Zhu.
+
+“What of you, junior sis?” Ruan Shen asked, leaning forward. “There are already quite a lot of rumors circulating. Care to share the truth?”
+
+Ling Qi gave a wry smile. “I’m afraid to ask what people are saying. The truth is the meeting went very well. The people from the other side of the Wall are friendly and not inclined to war. Lady Cai and I negotiated for further peaceful meetings at a neutral ground in the mountains. They are strange but definitely not barbarians.”
+
+“Well, that is welcome news,” Bian Ya said thoughtfully. Ruan Shen strummed an agreeing chord on his lute. Yu Nuan merely grunted in acknowledgement.
+
+“Lady Cai has requested that the Duchess leave us at the center of negotiations due to our success,” Ling Qi added.
+
+That brought silence to the room, as all three of them stared at her. Eventually, it was Ruan Shen who broke the silence.
+
+“That’s… ambitious,” he said. “What does that mean for you exactly?”
+
+“It means we’ll be leaving the Sect a little sooner than intended,” Ling Qi replied, idly willing her wisp back down to circle her chair. “It looks like I don’t have to worry about the intersect tournament after all.”
+
+“I will have to wish you good luck. Ah, perhaps that is why I heard that the Duchess was enquiring with the Clan Head about communications specialists,” Bian Ya murmured, rubbing her chin.
+
+Yu Nuan looked at her with a frown. “Am I missing something or is that not really risky for a heiress? Aren’t you supposed to use your youth to build up reputation with folks around the courts?”
+
+“You’re not wrong,” Ruan Shen said.
+
+“Lady Cai is aware that this is a risk, but all the same, she thinks this is the best place she can be for the good of the province… and I agree with her. It’s hard to explain, but I’m really the best suited to dealing with these foreigners, at least until there is some trust built up.”
+
+“It is not all risk, I think,” Bian Ya said. “If this whole matter succeeds, it will be quite an accomplishment, even if there are some in the province who will not value it.”
+
+“That’s what I thought as well.” Ling Qi sighed. “But for now, how about those lessons? I want to finish my modifications to Roaming Moon’s Eye art to truly make it the Silent Songseeker’s Regard art.”
+
+“You’re slipping, junior sis. Not a bit of wordplay in your art?” Ruan Shen laughed.
+
+“Quiet, you. There is nothing wrong with being dignified,” Bian Ya huffed. “But yes, it is really just a twist on the application of common qi harmonics…”
+
+Ling Qi leaned back in her chair, listening to the older girl's words. She still had time to learn yet.
+
+***​
+
+“So you’re really diving in head first, huh,” Yu Nuan said to her as they left the archive sometime later. The other girl held her hands behind her head, looking up at the evening sky. Qiu trotted along at her side, his short legs working furiously to keep up with their longer stride.
+
+“That is one way to put it,” Ling Qi observed.
+
+“I don’t know how you can do that. Even with everything going on, I’m still kinda glad I have service ahead. Someone like me doesn’t have any business running a pig farm, let alone a town,” Yu Nuan mused.
+
+“I think that’s being overly harsh. Administration is a skill to polish like any other. You have time to learn it,” Ling Qi said encouragingly. It wasn’t an enjoyable subject, but that was responsibility.
+
+“I wonder about that,” Yu Nuan said. “I think you need the right temperament for it too. Besides, what am I supposed to do with a ‘Yu clan’ that’s just me?”
+
+“Ling Qi slowed her walk, glancing over at the other girl with her wild blue hair and glinting piercings. “No other family members?”
+
+“Had a grandfather once and some aunts and uncles now. Don’t really feel like inviting folks who didn’t want anything to do with me until they scented gold on the air though,” Yu Nuan said. “Nah, it’s just me.”
+
+Ling Qi couldn’t think of anything useful to say, and Yu Nuan seemed content with her statement for a time.
+
+“Hey, the land you're likely to get… It’ll be in the hills or mountains, right?” Yu Nuan suddenly asked.
+
+“Most likely,” Ling Qi said. “Before, we probably would have started with a small settlement, but we’ll have to build from scratch now.”
+
+“You’ll have to run off herding. Land up there is shit for farms,” Yu Nuan said idly.
+
+“You have some experience?” Ling Qi asked, cocking her head.
+
+“My grandfather’s pastures were on the edge of Luo territory. Just first realm sheep and cows,” Yu Nuan said. “Feh, bet you never thought I was a farm girl.”
+
+“You don’t give that impression,” Ling Qi admitted.
+
+“Good. I tried hard at that,” Yu Nuan said. “Still, I remember the ropes.”
+
+Ling Qi shot her a sidelong look. “You’re not usually so indirect. What’s on your mind?”
+
+They stopped, and Yu Nuan looked at her for a long moment. “Yu clan’s never gonna go anywhere, and I can’t say I like the idea of selling it off in a marriage either. Guess I’m asking what’s the Ling clan’s adoption policy?”
+
+Ling Qi stared at Yu Nuan. The Ling clan in her mind was really just her family, not a noble clan. She knew intellectually that one of the ways for a young clan to grow was by merging with others, but she’d never really considered the idea. “You have your debts to the Sect still. I can’t easily erase those.”
+
+“Sure, but assuming I don’t get melted, those’ll be paid off eventually,” Yu Nuan said.
+
+It had been a reflexive excuse. In reality, Ling Qi strongly suspected that after the auction, she would be able to pay a tuition fee or two. Ling Qi found the thought that had been drifting through her mind as she completed the cultivation of the Roaming Moon’s Eye Art drifting through her mind.
+
+The future changes with every step. Never be certain she knows what’s coming.
+
+So much had changed in the last two years. So much continued to change every month and every day. The idea that someone would seek adoption into her near nonexistent clan would have seemed absurd just a couple months ago.
+
+“You’re not asking for a simple thing,” Ling Qi said. “My family is small. It’s just my mother, sister, and spirits.”
+
+“I’m not asking you to suddenly care about me like a sibling. You know that’s not how clans work,” Yu Nuan said with a small shrug. “I get it if you don’t want to answer me now though. You probably want to talk to the rest first.”
+
+Ling Qi frowned. “That might not be how clans work in general, but I’m not sure if I want my family to work like that. But I don’t really object in principle. Yu Nuan, you should understand how important my family is.”
+
+There was the faintest frisson in the air, a quick gust of wind that sent the trees on either side of the road swaying. Sixiang chuckled in her thoughts, and Ling Qi felt phantom arms wrap around her shoulders.
+
+Yu Nuan looked worried, and the older girl ducked her head in apology. “Right, I hope I didn’t offend you too much. I wasn’t trying to insult you or—”
+
+Ling Qi held out a hand to stymie her apology. “I’m not rejecting you. My family is already half adoption by number.”
+
+It was a funny thing to consider. What did that make family even mean really? Ling Qi felt a faint tingling in her chest, a feeling of pressure. Her thoughts were circling the issue that had plagued her for months now. What did she want from her family? What did she owe it? How was she to carry it with her?
+
+“You’re right that I need to talk to the rest of my family about it, but I’m not against the idea,” Ling Qi repeated.
+
+“That so?” Yu Nuan inquired cautiously. “Well, uh, thanks for the vote of confidence.”
+
+“It’s not like I’m unaware how unstable it is being the only significant cultivator in a clan,” Ling Qi said wryly. “But you should understand that just being tied to Lady Cai doesn't make us stable either. If anything, it makes our position more dangerous. The Duchess’ scrutiny is… rough.”
+
+Yu Nuan was silent for a long moment. “I still think you’re my best bet, if I want to be satisfied with myself. I’m not cut out to rule, but I’d not like being under a hundred layers of hierarchy either.”
+
+Ling Qi blew out a sigh and turned back to the path. “Then I’ll talk to my family and get back to you.”
+
+She didn’t think her mother would object, nor Zhengui. Hanyi might be reluctant over the idea though. At least Biyu would be sold on the idea easily, she mused, glancing at the trotting dog.

@@ -1,0 +1,117 @@
+---
+id: bff7a925-11cf-5856-b46f-8cc1f84bfc35
+page-type-slug: story-chapter-royal-road
+title: "Threads 434 Green 3"
+slug: 0478-threads-434-green-3
+partOf: forge-of-destiny
+position: 478
+ownLength: 1280
+unit: words
+publishedAt: 2025-03-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2118748/threads-434-green-3"
+royalRoadId: "2118748"
+---
+
+The Layered Labyrinth rippled, the dusty miasma of ignorance and silence in the air blown away. Ling Qi felt a tingling, throbbing pain in her temples, akin to a throat strained by screaming.
+
+[HERE]
+
+[LISTEN]
+
+[KIN]
+
+Her still burnt dantian twinged, and mist leaked from under her fingernails. Her silhouette wavered, and Ling Qi coughed a cloud of burning smoke as she hurriedly reinforced the qi containing the Crucible’s embers still smoldering in her core.
+
+Digging claws slowed, and a mountainous head twitched and rose, shadowed by whirling dust. She felt a pressure across the distance, even before she could see the sharpening of intelligence in dull eyes and a half-sleeping mind.
+
+There were no words, nor even concepts. No welcome nor malice. There was only the cold weight of reptilian observation. Ling Qi looked into vast black eyes across the gulf between them and swallowed.
+
+"Take us in, little brother."
+
+"Is Big Sister sure?" Zhen asked.
+
+She was. She could never be certain that a higher realm could not hide their intentions from her sight, but the rampant, vigorous growth at the core of the beast was not something that inspired thoughts of veils and lies.
+
+"I am. C'mon, let’s go meet your…"
+
+She trailed off. Her tongue rebelled at forming the word in her thoughts.
+
+"... Let's meet Kohatu. That's what the tortoise who made your egg from her core called her."
+
+"Kohatu," Gui rumbled thoughtfully. His flames roared, and they left their circling trajectory, soaring toward the titanic lizard waiting for them at the end of the ruined canyon.
+
+Stone cracked as burrowing claws dragged Kohatu around to face them, the lazy whip of a tail collapsing a city's worth of debris.
+
+Soon, they arrived directly under those deep black eyes, a mere twenty or thirty meters before her lowered snout.
+
+"Who. Calls?"
+
+Her voice was a collapsing mountain and the buzz of a million insects, and Zhengui's soaring form wobbled unsteadily in the air. It was an unsteady thing, an instrument left to clog with dust and grime.
+
+"I…" Ling Qi began
+
+Black eyes narrowed and focused on her. Something dark and hateful stirred. "ARGeeeeent…"
+
+The wind of the exhalation ripped at her hair and robes, and she teetered back into her seat.
+
+"No. You listen. No more thoughtless swiping, Kohatu!"
+
+Zhengui didn't use personal names, Ling Qi thought dizzily.
+
+The titanic lizard paused, the oily darkness of hate rising behind her eyes stuttering to a halt.
+
+"Ata…mai…? No… noT. WHo dAres?"
+
+Confusion was underlaid by something so much softer. It didn't last. In the span of a sentence, it began to shift back to suspicion and fury.
+
+"I, Zhen, do not know that name," her little brother shouted. "This young king is Zhengui! He came here seeking the one whose core became his egg, Kohatu, whose real name he cannot see!"
+
+Ling Qi pushed her own will behind his voice to amplify and reach beyond the choking dust and tar which coated every inch of the dead echo towering over them. At the same time, she prepared to forcibly drag them both out of the dream with their skins intact. She was not the same girl who had been trapped by Madam Grey, and Kohatu's shade did not wield dream like the old fox had either.
+
+Building rage collapsed back into confusion and uncertainty. An immense snout lowered, and a long tongue overgrown with moss and branching floral vines flicked out, tasting, testing.
+
+"R…e… A….l."
+
+"Gui is real, and so is Big Sister, who brought him here. Hear and listen!"
+
+The beast's eyes were level with them now, contemplating. "I. HeAr. Kin of shell and soul. How…"
+
+Ling Qi could feel the dense, crushing weight of centuries sloughing off as Kohatu became more coherent. The fight against becoming another fossil was a losing one. Of course it was. With Kohatu still, she could see swathes of graying scale amid verdant green, the way half of her digging claws were chalky and cracked, and the growing cataracts in eyes and spirit alike.
+
+"I do not know how the one you called Atamai accomplished this," Ling Qi spoke up. She had felt in the contours of that name the shape of the volcanic tyrant tortoise that had been chained and bound under the Outer Sect Mountain. The echo of him in Kohatu's thoughts was less miserable and trapped, but it resonated with the sights in her memory all the same. "I had discovered one of your cores, and he chose to give of himself when I spoke to him, creating the egg which would hatch my brother here."
+
+"Big Sister has taken much care and raised me well. It was she who found you here, too," Zhen spoke.
+
+"ArgENt… A fading scent, but it cliiiiings all the same. Why would hE do tHis?" Kohatu rumbled, some of the anger boiling in the core of the shade's spirit.
+
+"I was once a member of the Argent Peak Sect," Ling Qi admitted. "I do not know what trespasses were committed against you, but Atamai thought me worthy to 'at least take something of us away from this place.'"
+
+It was manipulative to continue to use that name she had just learned, but she could see the way its every use becalmed and stabilized the shade, as if reinforcing this present moment against the endless centuries of burrowing.
+
+Zhen craned his body down to look at her thoughtfully.
+
+"Big Sister has taken us away from the Dragon Court. Gui now rules a land of hills and chilly streams. It is strange and uncomfy sometimes, but Gui likes it very much, and Miss Snowblossom is kind."
+
+"I, Zhen, rule. Gui toils."
+
+"Not now, boorish Zhen."
+
+"A. Land. Your Own. No ArGeeEent." Kohatu's immense form swayed slightly, like one trying to shake herself to stay awake. "Good. That is… good. I do not unDerstAnd, but Atamai was the wIser. Better judge. He saw what we did not wiSh to sEe."
+
+"Gui has not known him, but if he chose Big Sister, then he is wise," Gui said quietly. Her heart twinged. She had never really spoken to him of the tortoise much either, because why would she? It was only a single conversation, shared beneath the mountain. Now, she wondered if that had not been a mistake, born out of her own possessiveness. Was it just another manifestation of the greedy girl who had felt a twinge of jealousy for Meizhen's attention, even after rejecting her interest?
+
+She refused that feeling, too. She had brought Zhengui here of her own will, after contemplating this conversation, and chosen to face it anyway. Self-recrimination could go too far and become a lie just as swiftly as overburdened pride.
+
+"Why. Then. Do you come here, leave your garden, for this place of dust and despaiR?" Kohatu asked.
+
+"To know you, Gui thinks. Isn't that right, Big Sister?"
+
+"Yes, he deserves that chance. And there is more that I would know. The province and the world is in flux. I want to know more of what built the landscape upon which I stand."
+
+Clear and unrevised answers were best, though she was not fool enough to think any source free of bias.
+
+Black, reptilian eyes unfocused, and thin slivers of verdant green split them, pupils reemerging, if only for a short time.
+
+"I. See. This feeling. So strange. I do. Not. RemEmber it… Ask. then. The fog. It retreats with yOur words."
+
+Ling Qi let out a breath and reached down, patting Zhengui on the head. Her little brother leaned into her touch. She did not know what to expect, but the conversation was open now.

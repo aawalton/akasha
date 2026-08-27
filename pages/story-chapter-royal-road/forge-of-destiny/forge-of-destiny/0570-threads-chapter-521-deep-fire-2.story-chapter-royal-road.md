@@ -1,0 +1,145 @@
+---
+id: 423aa4b3-62c8-536b-97da-9f0163726e48
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 521-Deep Fire 2"
+slug: 0570-threads-chapter-521-deep-fire-2
+partOf: forge-of-destiny
+position: 570
+ownLength: 2404
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3430087/threads-chapter-521-deep-fire-2"
+royalRoadId: "3430087"
+---
+
+Objectively speaking, the fragments of fire were dangerous. These fragments were near her in cultivation, and their numbers could not be small. And yet, she could not change the fact that she had experienced a sovereign's flame. This place was uncomfortable, painful even if she let her technique lapse, but it was nothing compared to the Crucible’s fire.
+
+"I am Zhengui, young king of the green things, the hills, and the fields, and consort of the Lady Snowblossom, keeper of cold waters and swimming things!"
+
+Zhen and Gui's conjoined voices rang out, and magma sizzled around him as he rose, swelling in size with his proclamation.
+
+"I am Ling Qi, Baroness of the Celestial Empire, envoy of the Throne of Seasons, and together with my brother, I would treat with your lord. Kindling we may be, but you will find us beyond your ability to burn, here beneath the earth where our authority lives," Ling Qi announced, albeit less bombastically. She drifted above the magma and fires, a shadow whose hair was ruffled by a breeze scented of spring growth and thunderstorms.
+
+Flames began to flare, then faltered for a moment before resuming. The two embodied spirits puffed larger in their own show of power, the crackle and hiss of ghastly flames drowning out all else.
+
+"Who are these names? Who are these names? Sparks and embers flaring bright, the distant power striding free into realms not theirs."
+
+The flames erupted. The conflagration blotted out sight, the roar drowned her ears, and the lurid flames consumed them both. It crawled across her skin, gnawed at her hair, and worked at the fabric of her dress.
+
+Qiyi contracted slightly, fabric rippling in affronted fury at the attack, and closed around her, silk strands weaving an impenetrable veil. A stage or two ago, this attack might have charred her flesh, even through her defenses. Now, she felt the draw on her qi, but little more.
+
+Beside her, Zhengui stamped his feet, splashing magma outward as the flames licked across his scales. Bright green qi shone between them as what was charred flaked off, replaced in instants with new growth.
+
+"Rude! Gui comes to your doorstep! Gui does not bash your door down like he could!"
+
+"Yet I, Zhen, am magnanimous! You have slept long. You do not know the great names over the earth and under the sky. This young king shall forgive your rudeness if you cease."
+
+"I will follow my brother's lead." Her voice rang metallic through the weave that shrouded her face. "But my forgiveness is not without end."
+
+The heat beat down, but the crackling flames drew back. The flame sprites and their molten skeletons had multiplied in number, weaving in and out of the flames, a circle surrounding them, puppets on the fingers of a greater being.
+
+It was disheartening to be met with immediate violence, but it did confirm one thing in Ling Qi's mind. This was not a case such as the Weeping Mother, a being that wielded Law, held back only by her invocation of greater authorities. Those invocations had been ready on her tongue, but her own defense had been enough. The flame spirit was powerful, but it was not a wielder of shen.
+
+"The kindling is poor fuel, this is so, but what could it want? The day of apotheosis comes. Of the sun born from the earth. What is the use of words in these days? Come. Come, kindling. Break open my vault, and let the brightest day come."
+
+There was no sulky defiance here, no fear of their strength, no regret for his challenge. If anything, the flame faeries loomed closer, flaring bright, tinging blue at their extremities as they whorled in excitement.
+
+"I, Zhen, would speak to you of when your bright day shall come and where it will bloom. There is much to burn, it is true. The sky is vast, and the earth is cold; it yearns for the heat. My fangs have burned away many things to make way for the shovel and plough. The fields are new, and their time is not ending yet. This, I decree."
+
+Her brother replied, and she did not gainsay him.
+
+If they had chosen to preserve the spirit, she might have chosen to be more conciliatory and guide it to another conclusion, but her brother had the right of it. In the end, hadn't she done much the same, drawing those lines upon a map? She had chosen where there would be endings and sorrow.
+
+As Zhen said, one could not avoid all endings, and preserving things just for the sake of preserving them…
+
+She had seen how Still Waters Deeping had ended.
+
+The flame spirits circled, a glittering wall of flames and eerie glinting eyes. Ling Qi watched them warily. Although she didn't fear for herself or Zhengui too much, if this truly came down to a fight, it might be impossible not to cause the spirit to erupt anyway. It was too large, from what she understood of Meng Duyi and Zhengui's explanation. It was tied to a very large cavern that lay under much of their farmland, filled with flame-aspected gases.
+
+The danger of it was not merely in the explosion, but in the likely cave-in when the space was emptied of this heavy air. Without strict management and control of the release, it would likely alter the earthveins which they were using to provide warmth and additional blessings to the cold and rocky soil of the region, if not outright damage them, at least locally. Even if she could prevent any deaths, the harms could be immense.
+
+“What is there to say?”
+
+The fire crackled almost eagerly. He was pondering goading them to fight. It was a dangerous mindset, this eagerness for self-destruction.
+
+"We will not give you the satisfaction you desire." Ling Qi drifted forward, the trailing ribbons hanging from her sleeves snapped and slapped at jumping sparks, writhing with Qiyi's anxious attention. "The stone does not hold us, as it does you. We may leave at our whim. You cannot force a fight."
+
+There were times when the best form of truth was the blunt and the direct. There was no use dancing in circles here. She examined the spirit, peering into him as deeply as she dared. He was all wind and fire, bright, ill-contained energy, a simple but powerful existence by sheer volume, a pocket of the calamitous passions that had shaped the region all the way back in the unknown days before the fall of the Dragon Gods.
+
+"We have, through our actions, awoken you. You will not ask us to apologize for that, and so, I won't, Flame-Under-Earth. You are awake. Your essence sparks under the open sky. We have already extinguished one wildfire because of you," Ling Qi continued. "You will burn, but we are not without recourse."
+
+Zhengui slogged forward through the magma, Zhen's head raised imperiously in the shimmering heat. "You will burn, but this king will stymie you at every turn. The veins cannot be yours to command; you may only sneak and twist. We cannot stop you, but I, Zhen, may slow you for a very long time. It does not need to be the way."
+
+"You want to boom. Gui and Big Sis can do that. What we demand is only your time and place."
+
+The flames closed in. They were darker, almost crimson in hue as they licked along Zhengui's shell and the hems of her gown.
+
+“You say you can leave without being scorched, that my flames cannot reach you…”
+
+Ling Qi's eyes widened as she felt the crackling surge of qi. It erupted, and Zhengui's affronted bellow was drowned out by its roar. Flames buffeted her from every angle, a heavy, dragging, cloying weight. The flames were born from a choking air that was never meant to be breathed. It tried to cling to her, fuel for the consuming flames, and get into her lungs to weigh her down and drown her in sleep, even here in the dream.
+
+Her qi resonated off of Zhengui's as their techniques activated, vital verdant qi growing in a riot.
+
+“But if it were so easy to contain this flame, you would not be here.”
+
+The hiss burned in her ears, and Ling Qi scowled behind her veil. The flames guttered, and the choking gas sloughed off the fabric of her gown. Flowers bloomed among molten rock, growing from the crevices of the charred, and whole roots formed beneath Zhengui's feet, forming a platform that kept him from the fires. They brought with them the concept of lifegiving in this pocket or roaring death that was the spirit's liminal existence.
+
+"Zhengui, if our host refuses to believe these honest words, let us demonstrate our sincerity," she said, her words clear through the roar and the crackle. Despite the spirit’s willful desire and mercurial nature, she felt it hesitate just a little at the surety she put into them.
+
+Zhengui's qi erupted outward, seeming like beams of verdant sunlight shooting off into the cracks that represented the connections to the earthveins here, and the stamping tread of his feet upon the wood served as a beat to her song, calling to the distant lake, to the frozen mountains, and to the spirits that backed imperial authority in their fief, reinforcing the shapes they had laid in the land, the geomancy of Shenglu.
+
+The veins constricted, and the flows of energy slowed to a trickle. It would be painful, she knew, to do this long-term while a solution to an uncooperating fire was found. Harvests would suffer, the fields would freeze, and the animals would likely sicken, and the people, too, with this sudden change.
+
+However, for a moment or two, they could demonstrate that they could stop the flames, and it would feel like no more than a brief chill wind.
+
+The heavy flame spirit would still escape this way and burn up to the surface, but its emergence would be like the previous, smaller eruption. It would be scattered, appearing all over Shenglu, and it would drag out the spirit’s desired glorious eruption into years of fitful, fading bursts. It would hurt, but it was controllable.
+
+Just because an enemy was resolved to die, just because destruction was inevitable, didn't mean they were out of options.
+
+Ling Qi thrust her hand out, and the flames drowning her parted, the pocket of frozen cold summoned by her qi making the air shriek with the clash of temperatures. Frozen flames fell to the molten floor, evaporating like flakes of snow.
+
+At her side, Zhen's own flames roared, tinged an acidic green in the logic of the liminal. The liquid flame that dripped from Zhen's fangs devoured the spirit’s tongues of flame, and spread in a verdant, dancing ring across the platform he had made.
+
+"If you think us toothless, then let us smolder miserably together," Ling Qi vowed. "Rage as you will. We will not burn as you please."
+
+"You cannot end this young king as you wish. While the gate of your kingdom is locked, only this much leaks through," Zhen reinforced.
+
+“Smothering ice, melted and spread thick across the land. This choking dark, I remember.”
+
+The flames guttered low, the sprites practically crawling on the darkening magma, looking like skeletons in truth, black bones with clinging red frames in their outline.
+
+It had been buried the first time, she understood, frozen and contained in the mix of glacial ice and sediment that had birthed Snowblossom Lake. This was Meng Duyi's contribution, discussing with them the way the land had formed here and the histories that could be read in the striations of rock and the movements of water. He had pointed out howhow the blast could be channelled and managed with the ground reinforced so as to not collapse into the empty cavity in the rock, taking half of the farms with it.
+
+"You wish to burn. We will let you burn," Zhen announced, turning his snout up in the air. “Free and loud in your moment of triumph."
+
+"And we, the kindling, will be there," Ling Qi continued calmly. "With your full might and your full resplendance… Burn us if you can."
+
+Cai Renxiang was going to beat her over the head with one of her new lawbooks, Ling Qi thought. She would probably deserve at least the first few impacts.
+
+Who was she kidding? Renxiang's revenge would not be so feeble. Silently, she bid goodbye to the bottom of her inbox for the foreseeable future. Mother, too…
+
+She was still pretty bad about asking permission before forgiveness, wasn't she? Even if Renxiang had approved detonating the qi in a safe location, this probably wasn’t what she expected.
+
+Flames crawled over faceted mica bones and danced in deep sockets. A gust of heat rushed through the crack in the door, like the breath of an immense beast.
+
+She stilled her rapidly beating heart. She was certain, and Zhengui was certain, that this spirit was not a wielder of Law. It had a vast pool of flame qi, deeper even than hers, but its qi was not qualitatively above hers.
+
+She had endured worse. Her brother was no different from her. He would endure for their Shenglu and for the ones who had entrusted themselves to their power.
+
+“Your oath, kindling. Your oath that you will burn.”
+
+"My oath that I will give you the chance to burn us with all of your power," Ling Qi retorted.
+
+"It is not Zhen's fault if your flame is too brief and cool. No oathbreaker will you make this young king if you are weak," Zhen added scornfully.
+
+Flames crackled and flared. Teeth like chips of glittering white hot flint gnashed.
+
+“No more than a full cycle of the moon.”
+
+"Agreed," Ling Qi said. "You will swear on your heat that you will attempt no sabotage or eruption while the channel in the earth is being constructed, or when it is opened. You will come to us. You will not flee the challenge and seek to break free elsewhere."
+
+“Sworn on Mother's blood and my blood.”
+
+"Then, let the agreement be drafted. I, Ling Qi, High Priestess of Shenglu who speaks for the Throne of Seasons, will offer my oath…"
+
+She was going to be in so much trouble after this.

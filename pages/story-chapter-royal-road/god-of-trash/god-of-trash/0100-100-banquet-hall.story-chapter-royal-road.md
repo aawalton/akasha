@@ -1,0 +1,85 @@
+---
+id: 0413a467-4726-53c0-a848-8fc8a3c8a6ca
+page-type-slug: story-chapter-royal-road
+title: "100. Banquet Hall"
+slug: 0100-100-banquet-hall
+partOf: god-of-trash
+position: 100
+ownLength: 2212
+unit: words
+publishedAt: 2025-06-08
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2340717/100-banquet-hall"
+royalRoadId: "2340717"
+---
+
+Purple Dawn Academy was as much a maze on the inside as Rhys remembered, if not more so. He ran over the cobbles as fast as he could, but it felt like slow going anyways. The Academy’s ancient roads twisted and turned, doubling back on themselves and winding around to come out at a strange new location. Whenever he turned the wrong way, Az would start smacking his tail against Rhys’s chest in annoyance, and once he figured that out, Rhys had a much easier time getting to the banquet hall. That, and whenever he turned toward a big, broad street full of fancy buildings, Az settled down. Between those two hints, Rhys was able to smoothly navigate toward the banquet hall.
+
+On the way to dinner, Rhys quickly absorbed the filth on his body, forcibly cleaning himself. He didn’t smell like trash or body odor anymore to his nose, and whose nose could he trust, if not his?
+
+Probably anyone else’s. He glanced down at Az, but the cat had nothing to say. Nodding to himself, he ran on. That would have to be good enough. Never mind that Az had approached him while he was still covered in filth. He’d just conveniently forget that part.
+
+Rhys slowed to a walk as he approached, pretending he’d been moving casually all along. He wasn’t the only contestant who’d thought to arrive early, he realized, as he reached the exterior of a truly grand and sprawling hall. Ev stood by the edge of the vast courtyard that surrounded it, showing a fellow martial artist how to punch. The fellow martial artist nodded, swaying her body closer to Ev and leaning in real close to get the details of the technique, and Rhys raised his brows. Oh hoh? Interesting. From the girl’s body language, she was less interested in Ev’s technique than Ev herself. For a moment, Rhys wondered whether she’d realized Ev was a girl or not, then caught Ev looking at him. Their eyes met, and Ev winked and shot him a sly grin.
+
+He snorted under his breath and nodded back. Right, got it. Who’d just been running around crossdressing to sell potato chips? He wasn’t going to be a hypocrite and ruin Ev’s grand plans by walking over there and ending the illusion… assuming there was even an illusion in the first place. For all he knew, this was just a shared bit of innocent puppy love and he had no place in it whatsoever, and he was just over here making weird assumptions.
+
+Bast, as Solaire, stood off in one corner beside the Sword Saint, who was speaking with some other high-ranking mage. Rhys wandered by, curious about their conversation, regardless of whether it was what Az had wanted him to hear.
+
+The sword saint nodded. “…heading out soon.”
+
+“Oh?”
+
+“It’s the northern border. I know I’m playing her game, but there’s nothing I can do about it. They need reinforcement, and I’m the only one who can make a difference.”
+
+The other mange folded her arms. “It’s shameful that no one else at your Tier dares to stand up against the Empress.”
+
+“Not all mages are skilled at combat. Just because a mage has a high Tier, doesn’t mean they can stand up to someone of equivalent Tier. Aside from myself, speaking honestly, who else in this region stands a chance against the Empress?” the Sword Saint asked.
+
+Bast noticed Rhys, and they made eye contact and shared a nod. Rhys walked on, unable to listen in any longer without being obvious. Soon. That means the Empress will attack soon… but also means Bast should be safe. He didn’t like that the Empress was coming in unopposed, but what else could they do? They had one Sword Saint. The Empress had an entire empire full of soldiers. Even if the Sword Saint stayed here, Rhys was deluding himself to think the battle would be any different. The Sword Saint might lock down the Empress, sure, but the rest of her army would flood the Academy all the same. In the end, the Sword Saint would have to retreat until the Alliance could mass their forces, and he risked injury or even death, if the Empress proved stronger than him, or had some trick, equipment, or spell that could turn the tide of their personal battle.
+
+He didn’t quite get why the Alliance hadn’t massed its forces, but all signs pointed to the Alliance retreating from Purple Dawn, then fighting somewhere else later. Maybe there was a better battlefield elsewhere. Maybe they thought the Empress would stop after taking the Academy. Rhys didn’t know, and honestly, he didn’t care. Whatever cowardly excuse the Alliance had, all that mattered to him was that they wouldn’t be defending this Academy. It meant Rhys was on his own for the foreseeable future. Just him, all alone against the Empress. Just him, all alone, wallowing in the Empire’s trash…
+
+Az batted his chest, breaking him out of his fantasy. Rhys looked up, searching for what the cat was trying to signal him for. Across the way, two mages chatted inside a building. They probably expected the building to absorb the sound of their voices, but there was a tiny chink in the window next to them. If Rhys didn’t know better, he’d almost suspect a small cat had clawed it open, scratching a tiny gap in the glass, but cats’ claws were far softer than glass. It simply wasn’t possible to break open glass with a claw… unless the cat in question happened to be a high Tier mage. Rhys glanced at the tuxedo cat lounging on his shoulders, but Az just yawned carelessly, seemingly totally unaware of Rhys’s gaze.
+
+Rhys casually sauntered by the wall, cruising slow enough to listen in on the mages’ conversation.
+
+“…let him loose?”
+
+“No, no, and no. I’ve told you a thousand times already. We already have one problem. If we loose him, we’ll have two.”
+
+“Is he really that bad? All he did was teach two kids, and pretty well at that, if the Sword Saint’s Apprentice is any indication.”
+
+Oh? They were talking about Straw! Rhys raised his brows. If they were talking about Straw, then Straw was here, wasn’t he? It was his first concrete proof that Straw was somewhere around Purple Dawn Academy. Until now, he’d had to guess at it, as Purple Dawn Academy was one of the largest, if not the largest, school in the region, had massive resources, and had the curse-focused Ernesto. It was a pretty decent guess, if he was being honest, but it had been just that—a guess. The fact that the rats hadn’t turned anything up had been disheartening; the fact that Lira had showed up and pledged to help had given him hope. But this conversation was the first time anyone admitted that Straw was here, or at least nearby.
+
+“Fine. Let’s assume he’s harmless. He’s a tool. A weapon. He doesn’t truly have will, just autonomy borne of excess amounts of curse energy. What if the Empress uses him against us, like the Demon King did? Then we’ve given our enemy a powerful tool, and he still becomes problem number two.”
+
+“So what keeps her from unlocking him and using him anyways? We might as well send him out there and get a hit or two in before she finds him anyways.”
+
+The second voice laughed. “Finds him? Ha! Good luck. He’s locked so deep, so dark, that if Purple Dawn falls and everyone forgets about him, it’ll be millennia before anyone finds him. He’s safe where he is. Better than letting him out and handing him to the Empress, a thousand times over.”
+
+Rhys twisted his lips. That part was less good. But at least he knew Straw was here. Here, somewhere the Empress wouldn’t find him even if she looked for millennia, but at least he was here. Hell, maybe the millennia thing assumed the Empress didn’t know he was here and didn’t go looking. Either way, he at least had a region to search, now. It was better than he’d had before.
+
+All the more reason to stick it out. If he left, he gave up on freeing Straw, too. Better to stick around and hide out under the Empire, so he could have a chance at finding his mentor. Even those two mages on the other side of the wall thought Straw stood a chance against the Empress. Maybe not a chance at winning, but at least a chance at getting a good hit on her. It was something to remember, when the day came to battle her. At the very least, it was something Rhys wouldn’t forget, though he intended to free Straw anyways; it was just more motivation to free Straw.
+
+Under a certain way of thinking, having the Empire take over was actually advantageous to Rhys’s quest to free Straw. Purple Dawn Academy and the Alliance knew about Straw, and were actively trying to keep him restrained. The Empress didn’t know he existed… or, if she did know about the Remnant Weapons and Straw, then at least she didn’t know where he was kept, or how, or anything like that. Rhys would have a free shot at Straw, at least in terms of guards. He’d still have to worry about whatever defenses they’d set up around Straw, but the Empress taking over lowered the difficulty of that task to the level of dungeon diving, as opposed to a stealth mission, fighting off any guards, and then delving a dungeon.
+
+One of the mages glanced up and saw Rhys sauntering by. He nudged the other one. “Shut up. We’ve got listeners.”
+
+“He’s outside, he can’t hear us,” the second one said, rolling his eyes. “How flimsy do you think the wards on this building are? We’re completely silent to anyone outside.”
+
+Sorry, but they’re flimsier than a small tuxedo cat’s claws, Rhys thought, glancing down at his living stole. Az was too busy cleaning his claws to acknowledge Rhys.
+
+“Still.” The first mage shook his head and walked away. Rolling his eyes yet more extravagantly, the second mage followed him.
+
+Rhys sauntered on, pretending not to notice the two of them walk away. He gave Az a scritch behind the ears as thanks, and Az stretched and purred, pleased with himself. That was a conversation worth rushing him over here to hear.
+
+More and more contestants filled the courtyard, until the entire space was packed with people—not just contestants, but their teachers, mentors, and even the heads of their schools, in some cases. Rhys eyed those elders, taking note of who was either too stupid to read the writing on the wall, or brave enough to remain and support their students. If they were the first, they were worth remembering to scam later; if the second, then they were the people, and the schools, he could call on if he ever needed to mount a counteroffensive against the Empress. Either way, it was useful for him to know their faces.
+
+Aquari didn’t make an appearance, not that he’d expected her to. For one, she was no fool; for two, she was no hero; for three, she knew better than to leave her school unmanned when Ernesto was looking to take it over. Even if her pragmatism wasn’t the most charming aspect of her personality, he at least respected her for knowing that the Empress was well over her strength. Az could act domineering and overpower her, let alone the Empress, though he was starting to wonder if there was an upper limit to Az’s strength. He’d acted with impunity here, as well. Was he a being beyond this entire region?
+
+He's afraid of the Empress, at least. Maybe it really was just that the Purple Dawn Schoolmaster was distracted with fleeing the Empress, and didn’t want to bother with Az. He didn’t know. At the very least, Az wasn’t able to overpower their immediate enemy, or didn’t want to. Sometimes, he wasn’t sure how much of Az’s behavior was limited by his constraints, like his Tier level and personal strength, and how much was just him being a cat and not wanting to bother with random bullshit.
+
+A bell rang. Rhys turned to find a haughty-looking butler-esque mage holding a small bell high, pinched between two fingers, his pinky out. He gazed across the courtyard with his haughty eyes and harrumphed. “It is time to take your seats, everyone! Please follow me.”
+
+Rhys licked his lips and dusted off his hands, heading toward the butler. The speeches part of the banquet was going to suck, but he was looking forward to experiencing some real mage cooking. These were people who only ate for the purpose of pleasure. Their food had to be unreal.
+
+Or it’s complete shit, given how hard they went after potato chips, a little voice whispered, but he pushed it down. That was because his chips were cheap and delicious. This was different. It was a top-of-the-line mage banquet prepared for the winners of the regional tournament by one of the largest schools in the region. It had to be better than cheap street food.

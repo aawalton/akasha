@@ -1,0 +1,163 @@
+---
+id: bdb0d581-19d3-53be-94cc-0a8d44ab9f80
+page-type-slug: story-chapter-royal-road
+title: "Threads 396 Recovery 4"
+slug: 0440-threads-396-recovery-4
+partOf: forge-of-destiny
+position: 440
+ownLength: 2103
+unit: words
+publishedAt: 2024-08-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1770306/threads-396-recovery-4"
+royalRoadId: "1770306"
+---
+
+"For what it is worth, things should settle down soon for a time. The major campaign will not start until after year’s end. You shall have plenty of time to view your lands and work on them even with your remaining recovery time ahead," Bao Qian glanced at her before seating himself on the edge of the veranda beside her chair. "Even with the investment being poured into the south, proper infrastructure isn't built in a few months, and the contracts for fortifications Her Grace is sending out are not small."
+
+"Many happy Bao," Ling Qi said. "And many, many more happy Wang."
+
+"Just so," he agreed. "And the foreigners—these White Sky—seem quite invested themselves. Plans over the north-south road are being argued over, though I'd not expect a shovel to strike earth for a good decade yet."
+
+"It still feels very strange to make plans so early," Ling Qi said.
+
+"It's hard to wrap your head around, isn't it?" Bao Qian agreed. "Even when I’ve heard it all my life, I think it’s strange as well."
+
+"Maybe so," she agreed. "It's one thing to be told something, another to experience it."
+
+"I mean, is ten years a long time?" Hanyi wondered.
+
+"Of course not, junior sister," Ling Qi said wryly.
+
+"I expect it will be hardly any time at all for us by the time it's passed," Bao Qian said.
+
+"S'pose so," Sixiang said. "But really, the sect is pretty calm right now…"
+
+It was good to sit quietly in the garden surrounded by kin and allies, peaceful even, despite their conversation coming to touch on more serious topics. She knew in her heart that these were the wages of success, but she couldn't help the itch under her skin that had nothing to do with her burns.
+
+She wasn't quite sure how much more she could bear this stillness. She needed to do something, advance something, to clear this painful blockage of her meridians and make the world as vibrant as it should be again.
+
+Everyone was smiling and being cheerful for her, and yet…
+
+She couldn't reciprocate.
+
+Nothing made that more clear than Hanyi's words as her junior sister wheeled her to the rooms set aside for her on the first floor later that night.
+
+"Am I doing a bad job, sister?" The question was quiet, barely audible over the sound of Ling Qi's bedroom door creaking open and the quiet wind blowing in through the partially open window where the moon's light shone down on the bed
+
+"You're not, Hanyi,” Ling Qi reassured. “You've been a very good girl."
+
+Hanyi looked back at her from where she stood by the bedside. She had a mortar and pestle in hand and was grinding the medicinal pills set there down to powder that could be mixed into water. "Then how come you're always miserable? Sis is a bad faker."
+
+"I suppose I am," Ling Qi reflected. "It's nothing you've done, Hanyi. I know you—and everyone else—are trying very hard. I'm sorry if I seem ungrateful. I just need to keep moving. It feels painful, being stuck like this."
+
+"I guess I'd be mopey, too, if I felt like I did with Mama at the end." Hanyi said, looking down. The pestle crunched through the broken up pill rhythmically, releasing the bitter but invigorating scent of the medicine.
+
+"Trapped," Ling Qi murmured.
+
+"Crushed. I like dancing, too. It's nice to feel so light."
+
+"You're good at it. I like the one you’ve been practicing, the one with the fans. Biyu liked it, too."
+
+"Big Sis would do that one really well." Hanyi set the pestle aside, squinting at the powder in the stone bowl. "Littlest sister isn't so bad, I guess. She's better at respecting her senior sister now."
+
+Ling Qi smiled. Hanyi was weak to praise, and perhaps especially weak to the thoughtlessly honest praise of a child.
+
+"Let's find a mountaintop and play again when you're better, ‘kay? Two proper ladies shouldn't spend all their time in this icky warmth."
+
+Powder was poured into the water, and it emitted a pale green light, sparkling in the shadows of her room.
+
+"I'd love that too, little sister."
+
+Carefully, Ling Qi took the cup and drank her medicine down.
+
+After swallowing, she asked, "What else have you been working on? I'd like to hear more about these minions of yours."
+
+Hanyi's expression smoothed out, becoming completely innocent. Ling Qi gave her an unimpressed look over the rim of her cup.
+
+"Look, Big Sis, you gotta understand, there's been nobody properly in charge in those hills for a long time." Hanyi was doing a good job of sounding serious. "Like yeah, there's the really big spirits, but they don't pay attention to little stuff. All the spirits like Momma, the ones who’d pay attention to human-sized issues are gone."
+
+"Ogodei's invasion was a massive disruption of the south," Ling Qi agreed patiently. "The spirit courts of the empire were no more given mercy than its towns and cities."
+
+"Yeah! I dunno why new ones haven't been born or nobody has grown up… Actually, I think it's cause those slush brains keep fighting and dragging down anybody who starts getting bigger."
+
+"Those slush brains being your new subordinates?"
+
+"Kinda. Well, some of them anyway." Hanyi pounded her fist into her other hand. "Like, some of 'em are bigger than me still, but people like me and pray to me and not to them, and they can feel Big Sis too, so they don't make too much trouble, but I haven't been able to smush their faces in the dirt and make them listen yet!"
+
+Ling Qi let out a long, low sigh, her head resting back against the cushion behind it.
+
+"Hey, you don't complain about how Zhengui has subjugated all the dirty little rocks around Snowblossom," Hanyi groused.
+
+"I mean, that is our home. I wouldn’t mind if you did that with the ice spirits there. Were the priests really okay with this?"
+
+"Some of them are kinda upset, but I only bopped troublemakers, you know?" Hanyi said, scuffing her foot on the floor. "They’re the kind of spirits they warded against anyway."
+
+Ling Qi frowned. From what she understood, the courts should not have been left unpopulated for so long. Why…?
+
+It struck her then. That region of the foothills belonged to the Meng. They did not tend to impose a top-down authority on the spirits with their rites. The Meng themselves dealt with the matters of the highest spirits and negotiated with those, but local peoples were to develop their own negotiations with local spirits within the confines of those greater pacts. These greater pacts would have precluded the rites which the more imperially cultured residents of the south the Meng had been granted control over post-Hui would have used to form normal courts.
+
+She had just dealt with one bit of madness from the Meng's most violently reactionary faction. Was it really a great shock that there could be a combination of neglect and muddled rights in the foundations? It even made sense that her contacts did not make any great noise over it. It was normal by now to them.
+
+She let out a soft groan. It wasn't just the play, was it?
+
+"Are you okay, Big Sis? Does it hurt anywhere?"
+
+"No, your elder sister is only hurt in her pride. I am not as wise and far-seeing as I like to think."
+
+"Nuh uh, Big Sis is super smart," Hanyi disagreed.
+
+"Work closely with Bao Qian and the priests, okay? And Hanyi… Even if you have to subdue thes subordinates, you have to treat them well. If they're doing as directed, you have to give them face as well as whatever sacrifice you promise. People and spirits both have their pride. If it’s trampled too much…"
+
+"I wonder about some of them, but I guess once they're eating better…" Hanyi murmured. "Don't worry, Big Sis. Hanyi will definitely be a good boss!"
+
+Ling Qi pursed her lips. "Tomorrow, you're going to go over some of the books Renxiang has lent me, and then, I will write some letters and get recommendations for books on etiquette and the structure of spirit pacts."
+
+Hanyi's face fell. "Hey, no fair! Zhengui doesn't have to do that stuff!"
+
+"Zhengui does it on his own. His scholar friends turn the pages for him," Ling Qi said fondly. He had been so excited to tell her all about it.
+
+"Uggggggh. Fine," Hanyi complained.
+
+For all she complained, Ling Qithought Hanyi was actually a bit happy.
+
+***
+
+The days slipped by, one passing into another. The discomfort from her need to move and act and advance never faded away, but Ling Qi managed to quell it.
+
+"No, you are directing the energy too chaotically," Ling Qi explained patiently. "Almost all of the qi from the stone is venting into the air through your breath. It’s useless like that."
+
+"My deepest apologies, Lady Ling. I am ashamed to waste your kindly given resources!" Min Leidi looked up at her with painfully earnest eyes. It was difficult to remember that she was only a couple of years older than the girl.
+
+"That, too, is the wrong focus. Those resources are yours, and they are not limitless," Ling Qi replied, her hands set in her lap. They were out by the garden pond. "Now, refocus. With this method, your breathing must remain exact and controlled. To properly internalize the qi without waste on exhalation, you must complete a full three cycles, letting the qi flow from your crown to your feet, taking on the tinge of the sun and the earth, as well as your own signature. You must be able to complete this before exhaling. You are only managing two."
+
+"Yes, Lady Ling, I understand." The other girl bowed her head low.
+
+She hummed and looked beyond Min Leidi to the other young cultivators of her household. Min Leidi had awakened, but her efficiency was still poor. The girl was working on a small cultivation art now, but had yet to find the knack for it.
+
+Zhang Shu sat by the pond cross-legged, sweat on his brow. His hands were shaking as he held his red stone. He was getting closer but had not awakened yet. It was, if she were honest, painful watching the stone’s qi slop out of his grasp like water from a too small cup. It was not even a problem with his technique, which was rough but acceptable, but simply how much his nascent dantian seemed to reject the energy he tried to pour into it.
+
+It was not as simple as saying his dantian was smaller than hers had been even at the start of her cultivation; spiritual organs defied that sort of physical description. His dantian was simply… less absorptive. More closed? More heavy with impurities?
+
+None of those descriptions were quite right, but although he was trying hard and following her instructions diligently, she could clearly see he would never cultivate as smoothly as she did. Suyin's long ago complaints about Ling Qi taking the ease of breaking through for granted surfaced in her mind.
+
+The way he kept cracking open his eyes to glance at her didn't help.
+
+Was she really helping either of them, or just discouraging them with her own success?
+
+"Don't allow yourself to be distracted,” she advised him. “Cultivation comes with focus. You are doing very well, but if you are so easily distracted, your efforts will become wasted."
+
+The young boy stiffened under her comments, and he squeezed his eyes shut, setting his shoulders out straight and resetting his posture. The improvement of the energy flow was miniscule in her eyes, but it would only do harm to say that.
+
+"Good," she said instead, turning her eyes back to Min Leidi. "Spread your feet more, and adjust the angle outward. This art calls for a wider, more solid foundation."
+
+"Yes, Lady Ling!"
+
+She was not lying. As pitiful as the gains seemed to her and as hopelessly slow they felt to her, it wasn't so to them. She needed to remember that. Truth had to be tempered with understanding.
+
+She eyed Min Leidi critically, and nodded her head. "Continue like that. Hanyi, please take me back to the veranda."
+
+Hanyi snapped back to attention, drawing her qi back inward sharply. The rippling patterns she had been drawing in the pond out of boredom melted immediately.
+
+"Understood, elder sister," she said with haughty affect.
+
+Well, she always got like that around the household.

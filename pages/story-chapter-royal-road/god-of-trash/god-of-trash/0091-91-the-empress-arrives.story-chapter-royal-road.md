@@ -1,0 +1,75 @@
+---
+id: 8f6e7e40-020b-5bb0-ae55-b58c73a2da76
+page-type-slug: story-chapter-royal-road
+title: "91. The Empress Arrives"
+slug: 0091-91-the-empress-arrives
+partOf: god-of-trash
+position: 91
+ownLength: 2177
+unit: words
+publishedAt: 2025-05-30
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2317834/91-the-empress-arrives"
+royalRoadId: "2317834"
+---
+
+It didn’t take long for the Empress’s ship to close the distance, no matter how far away it looked when Rhys first spotted it. He had enough time to absorb the blood out of his clothes—it was trash, now that it was outside his body, so fair game for absorption—but that was about it. The black ship approached the stadium, looming overhead.
+
+He’d seen large mage ships. Huge ones, even. But this one dwarfed all of them. It moved toward the stadium with a ponderous inevitability, so large that several stadiums could fit within it. He realized, as it loomed, that the ship had once been white; bits of white still showed, under the black. It was scorched, scorched from the heat of battle and the furious weight of the ship’s own preponderous weaponry. Scars marred its hull and gaped its sails, but it floated on anyways, displaying those wounds as the proud marks of a battle well fought.
+
+It bore no carving at its front. Instead, a lone figure stood at the very tip of its bow, dressed in pristine white as a contrast to her ravaged ship. Long black hair flowed in the wind, and a small white beret with a small gold badge perched atop her head in lieu of a crown. A sword glittered at her hip, bright as a star plucked from the heavens, its scabbard black as night. Without anyone telling him, without needing to be told, Rhys looked at her and knew: this was the Empress. This was the woman who would conquer the world.
+
+Men and women in crisp white uniforms lined up along the rails. They manned the guns and stood in lines across the deck of the ship. Perfect, not a single hair or crease out of place. With a shock, Rhys realized that every single one of them, male and female alike, had the same bone-white hair, like Laurent’s; the men’s hair all cropped short, the women’s hair tied back into a strict bun; and he was sure, were he to loose those buns, that their hair would all reach the exact same length.
+
+These weren’t humans. They were soldiers, molded to the Empress’ will, made in the same mold and copy-pasted to her desires. Their future, their past, their hopes and dreams, their skills and tier, they were all according to the Empress’ will, all for the Empire, all for the Empress’ mad dream. Objects. Items.
+
+Replaceable.
+
+Despite himself, Rhys felt a pang in his heart for Laurent, that he believed in this Empire earnestly, even with this empty future ahead of him. Laurent was a human being. He had hopes and dreams. He could even foolishly fall in love. These people, these objects, they no longer had any of that. Rhys didn’t know why, he didn’t know how, but looking at them, at their empty eyes and blank faces, he knew: all that had been stolen from them, and replaced with the Empress and the Empress alone. Her dreams were their dreams. Her will was their will. She was the heart, and they were but the limbs.
+
+It was efficient. Deadly so. But tragic, so, so tragic, to see so many people, so many human beings, reduced to nothing but toy soldiers for a conqueress to wield on the field of battle.
+
+Once more, Rhys’s heart hardened. He stared down the soldiers, saddened to see them, yet determined to oppose them. He would fight to the last to ensure the Empress never took this land, his land, to ensure she could never do this to his friends, to Bast, to Ev, hell, even to Mouse, Sable, Tarais, Anabel and—and Laurent, even if Laurent was dedicated to the cause and blind to the future that awaited him. If trashing himself meant he had a chance to stop the Empress, he would.
+
+But as the ship lowered, and the Empress grew closer, he knew: that was nothing but a mad dream. Emanations rippled out from her body like waves on the ocean. Her aura was the most powerful aura he’d ever sensed, even including when he’d been taken in before the Sword Saint and the other leaders of the region. He could do nothing against the Empress. Hell, he wasn’t sure anyone in this region could do anything against the Empress. The Empress was absolute. She was untouchable, unassailable—
+
+A sharp sensation slashed over him, and Rhys startled. He blinked, looking around, and caught sight of the Sword Saint, standing on a platform across the stadium, a familiar masked figure at his side. The Sword Saint’s aura slashed across the stadium, cutting through the Empress’s  wave of influence and beating it back, denying it, and breaking her hold on the minds of everyone around her. All around the stadium, mages looked around, blinking awake and sitting up as the Sword Saint’s aura cut them out of their trance.
+
+Rhys shook his head and rubbed his forehead. Her aura was enough to brainwash people at his level? Insane, utterly insane. Things weren’t as bad as he’d thought under her influence—the Sword Saint could oppose her, for one—but he’d be a fool to take her as a foe he could best. She would step on him, and not even realize she’d crushed an ant under her heel.
+
+The Empress lifted her chin as the Sword Saint opposed her aura. Their eyes met, and a small smile crept across her lips. “What are you doing here, Luc Sion? Isn’t there a skirmish at your border with the impure beasts raging out of the frozen wastes once more? How irresponsible, to see you here.”
+
+The Sword Saint didn’t blink. “I couldn’t be so disrespectful as to not greet Your Eminence.”
+
+She clicked her tongue. Gently, she reprimanded him, “I’m but another mage. See to your responsibilities, first.”
+
+Rhys’s eyes narrowed. He looked from the Sword Saint to the Empress and back. He’d been wondering why she didn’t attack outright; now he had his answer. The Sword Saint was her match, if not her better, and perhaps he had the advantage in outright combat. While he was here, she wouldn’t make a move.
+
+At the same time, he hadn’t missed the Empress’s reprimand. He’d thought, just a moment ago, that ‘she wouldn’t make a move,’ but that was wrong. She had already made her move; a check, meant to draw their side’s knight away from the king, so she could checkmate their region. Who knew how, but from the way she said it, Rhys had no doubt that she was somehow behind the skirmish at the border and the impure beasts. If she wasn’t, then it was a convenient coincidence that she exploited, by arriving now, to force the Sword Saint to either move, secure their border, and save the citizens of their own home region, or stand his ground, and allow innocent people and lesser mages to die to the ‘impure beasts’ while he remained here, in the largest Academy in the region, as nothing but a figurehead to oppose the Empress.
+
+Rhys gritted his teeth, frustrated as he realized: she won either way. Either he moved, and she attacked, taking the region; or he didn’t move, and she retreated and ruined his reputation, by making him an idiot who stayed in Purple Dawn Academy to ward off an Empress who never intended to attack, so that when she attempted the same feint again, he would have no choice but to move to her feint, and cede the academy to the Empress.
+
+How troublesome, how troublesome, how troublesome! Important things must be said three times. He saw no way out of this check without opening up their king to checkmate. No matter what move the Sword Saint made, the Empress could capitalize on it. He hated it, he hated it, he hated it, but there was nothing he could do. He was still too weak.
+
+Rhys clenched his hand. He had to get stronger. There was no other option. Until he got strong enough to oppose the Empress himself, he had to get stronger. To be powerless like this while greater beings threatened his freedom and everyone he cared about was unacceptable. He couldn’t make peace with it. He wouldn’t. He wasn’t that kind of higher being, able to move past the damage before him for the good of some greater being, or accept a tyrant’s mandate in return for superficial peace. No, Rhys was trash. And like the trash he was, he was going to fight this Empress to the end of his life; all he hoped, was that he grew strong enough to meaningfully oppose her before the end.
+
+He could feel the date of the Empress’s invasion rapidly approaching. Her students were here, and now, so was her personal warship. When the Sword Saint inevitably left to help with the border, who would be left who could oppose her? Would anything remain, to prevent her from sweeping the land? Surely Purple Dawn’s Schoolmaster… Rhys scanned the platform where the Sword Saint and Bast stood. Some other nobles stood around, noted by their finery, to include Cassian Coyale, Florian’s father, but no one came close to the Sword Saint’s power. The massive, tall wooden chair in the center of the platform sat empty, the purple cushions plump and untouched.
+
+Rhys flashed back to his conversations with Mouse about Az. Even for a beneficent library spirit, the Schoolmaster had seemed strangely disinterested in Az’s semi-hostile takeover of his school’s library. He’d repeatedly dismissed Mouse’s inquiries, no matter how many times she brought them atter to him. A strange thought came to him, one he couldn’t dismiss. Was the Schoolmaster still here, or had he already retreated? Had Purple Dawn already been abandoned as a sacrifice to the enemy, with the line of battle moved further inland? He scanned the stadium. There were lots of students, some of them top talents. Surely they weren’t all sacrificial lambs, given up to the Empress so that she might be distracted, and fail to press further in?
+
+Rhys smacked his cheeks and shook his head hard, knocking himself forcibly out of that line of thought. It was too terrifying. Besides, this was a world of magic! Maybe there were teleport formations set up around Purple Dawn for the students to escape if the Empress attacked. Maybe the Schoolmaster wasn’t absent, but simply had a yet more important meeting that he simply couldn’t miss to attend this event.
+
+Right, and maybe the Empress is a good and benevolent leader who loves sunshine and daisies and is here to make friends, Rhys thought, rolling his eyes.
+
+He took a deep breath. They’d been abandoned. Thrown away. But that was just what you did with trash like him. Rhys could accept that.
+
+It wasn’t what you did with Bast, or anyone else who had talent worth mentioning. He couldn’t accept that. No, he refused to accept it. Whatever it takes, I won’t let those worth saving be crushed as part of some idiot Schoolmaster’s sacrificial play. Maybe the Schoolmaster was willing to sacrifice a knight or two and a few rooks, but that didn’t mean Rhys had to play along.
+
+The Empress turned to the stadium as though she’d just now noticed her audience. She smiled. Pure black irises blended into her pupils, and no empathy reflected in her eyes. “What an honor it is, to stand before you, people of this region, and speak to you as an equal. I know my country has long been closed to the world, but it is time to change that. I seek to know you better, and learn from this region, as I hope you learn from me…”
+
+She continued on, blabbering meaningless political bullshit. Rhys heard none of it. He stared at her, at her warship, at her men, and vowed in his heart to never let any of that come to pass in his region. The most valuable thing to him was his freedom, and there would be no freedom under the Empress’s regime. No freedom, and no future.
+
+When the attack came, he would make sure Bast escaped to safety, whether Bast wanted to or not. Better that he bear that weight, and take those wounds, than his talented friend. If his trash core was ripped from his body, he would simply forge another, and if he couldn’t, then this world lost little, and he would simply have to survive until his core could be recovered. If Bast lost his core, then the world lost a great asset and an irreplaceable talent.
+
+Of course, it won’t come to that, he resolved. He would get out and escape with Bast. He was more than trashy enough to ensure he got out in time. It wasn’t surrender, but merely a retreat, to return another day with the Sword Saint and whatever other powers that could counter the Empress in tow.
+
+There was a difference between bravery and suicide, and he intended to ensure he stopped at bravery.

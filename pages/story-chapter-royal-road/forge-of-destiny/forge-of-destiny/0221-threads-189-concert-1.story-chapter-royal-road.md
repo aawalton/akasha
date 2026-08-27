@@ -1,0 +1,183 @@
+---
+id: 56b1125d-cd52-5a56-bb5d-5846acddb729
+page-type-slug: story-chapter-royal-road
+title: "Threads 189-Concert 1"
+slug: 0221-threads-189-concert-1
+partOf: forge-of-destiny
+position: 221
+ownLength: 2573
+unit: words
+publishedAt: 2022-02-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/852515/threads-189-concert-1"
+royalRoadId: "852515"
+---
+
+Cultivation consumed Ling Qi’s days in the wake of her work with Zhengui. After the expedition and the flurry of activity that followed, it felt good to take some time to herself and simply grow stronger. Ling Qi focused on her physical cultivation and found herself reflecting on how much her routines had changed.
+
+The exercises the late Elder Zhou had taught her were a thing of the past now. They had been invaluable in training her mortal body to the limit of what mere flesh could do, but in the third realm, her body was no longer bound to mortal rules. Her muscles would never deteriorate, and no matter what she ate or drank, not a single ounce of fat would ever appear on her body.
+
+It made her wonder a bit at the looks of those like Elder Ying or the Senior Bao she had met at last year's tournament. Appearing to hold some extra weight must be a choice, unconscious or otherwise.
+
+Regardless, this meant that physical cultivation was not so different from spiritual cultivation now. It was different for those who focused more on their bodies and physical arts, but for Ling Qi, her regimen consisted simply of meditative movements and carefully weaving new strands of qi into flesh, muscle, and bone, steadily increasing the density of qi in her body.
+
+These exercises were more difficult since her desperate jump into the Dream underground. Since that day, she always felt lighter, almost as if she would drift away in a moment of inattentiveness, and she had to focus more to keep her qi from simply dispersing rather than setting into her flesh.
+
+She didn’t let it slow her though, and as the days passed, she pushed herself into the threshold stage of the bronze physique. It was the fourth of eight stages in the third realm, matching her spiritual cultivation. Although it could be said that she was halfway there, she knew that each step would be harder than the last.
+
+However, the next day, she received a message which brought her out from seclusion.
+
+***​
+
+The mountaintop was empty and bleak, a field of featureless white that extended to the sharp cliff drops which descended to the rest of the Outer Sect mountain. The fruit tree which had once grown out of the rocky soil was gone, perhaps transplanted to another part of the Sect. Ling Qi could understand why. She hunched her shoulders as the icy wind shrieked across the landscape, whipping up a wall of stinging white.
+
+The peak had grown volatile in Zeqing’s absence.
+
+She found Hanyi kneeling beside a pile of snow covered stones that were all the remains of her childhood home. Hanyi didn’t look up as Ling Qi sat down beside her and slipped an arm around her shoulders. She sat in silence for a time, not looking at Hanyi, but at the fallen stones.
+
+“I’m sorry you didn’t find what you were looking for.”
+
+“It was kinda dumb to think that they’d be like Momma just because they were born from winter too,” Hanyi said, resting her chin in her hands. She’d undone the ties in her hair at some point, so her silvery hair hung down to her shoulders, fluttering lightly despite the violent wind.
+
+“Well, you have us, for what it's worth.” Ling Qi squeezed her shoulder. “Come up with anything good while you were up here?”
+
+“Hehe, I’m gonna knock ‘em out at my next performance,” Hanyi boasted, although her smile was still a little wan. “What are you doing up here though, Sis? I said I was fine.”
+
+<I think she really has worked it out mostly on her own,> Sixiang murmured, keeping otherwise quiet out of respect for the moment
+
+“I know that,” Ling Qi said. “You can be mature when you feel like it.”
+
+Hanyi squinted up at her. “Hey, why do I feel like I’m not being complimented at all?”
+
+“It’s just your imagination, little sister.” Ling Qi kept a straight face. “Anyway, I came up here because Bao Qian sent me a message. He’d like to speak with us.”
+
+“Ohhhh, I bet I have to prepare and stuff.” Hanyi grimaced. “I just want to sing. Other people should do the rest of the work.”
+
+“Being a performer is definitely hard.” Ling Qi chuckled. “But Bao Qian does take care of most of the side stuff though.”
+
+“I guess so.” Hanyi huffed. “He’s a pretty responsible guy.”
+
+Ling Qi ignored the conniving look in Hanyi’s eye as she glanced at Ling Qi. Like she wasn’t unaware of her junior sister’s desire to set her up. Thankfully, she didn’t have to worry. Hanyi didn’t understand enough about humans to do anything dangerous.
+
+<I’m… not even sure what to say about that.> Sixiang sighed.
+
+Patting her on the shoulder one more time, Ling Qi stood up. “C’mon. Let's head down. Your hair’s a mess.”
+
+Hanyi stood as well, and Ling Qi realized something. She didn’t know if it had happened all at once or if it had been ongoing, but… Hanyi had grown. She was taller than Suyin now and only a bit shorter than Meizhen. Her face still had some childish roundness to it, but she could also see more of Zeqing in her features.
+
+“You know, I think I want to try something different than braids,” Hanyi said absently.
+
+“We’ll figure out something together,” Ling Qi said. “Why don’t we visit my mother? She’s better at that sort of thing.”
+
+“Kay,” Hanyi agreed cheerfully.
+
+In the end, they decided on a single plait rather than pigtails, something simple but elegant. Of course, Hanyi got excited about the idea of ornaments and wire, but that would be something for later. By the time they were done with her, the time had come to go and meet Bao Quan.
+
+Ling Qi and Hanyi soon arrived at the clearing north of the town where he had permission to set up. The first thing Ling Qi noticed upon her arrival was that Bao Qian’s carriage had changed. Thin plates painted steel had been affixed over its top, and new formation arrays marked its shutters and wheels, heavy with the qi of metal and mountains.
+
+<No fair. I can’t look inside anymore,> Sixiang grumbled.
+
+“Greetings, Miss Ling!” Bao Qian called out to her as she descended from the sky, dusting off his trousers as he stepped down from the rear of the wagon where he had been seated on the steps.
+
+“Sir Bao,” she acknowledged with a nod, releasing Hanyi’s hand as the spirit's bare feet touched the grass. “I see you have been investing in security?”
+
+“Mm. Well, the border has been a touch more dangerous of late,” Bao Qian replied. “Worry not. I’ve not encountered anything worse than unsettled beasts or spirits. I’m not a warrior, but I certainly know how to craft a surprise or two.”
+
+“It looks kinda ugly though,” Hanyi commented idly, squinting up at the plates bolted onto the vehicle's roof.
+
+“I have to agree, but it is hopefully a temporary measure,” Bao Qian said, stroking his chin. “Regardless, thank you for coming, ladies.”
+
+“It’s no trouble. I won’t find myself too busy until after the New Year’s Tournament,” Ling Qi replied, settling down on the grass as well. “What is this about though? You were a little vague in your message.”
+
+“It’s a matter of opportunity. The performance I arranged for early in the next month, along with my efforts to spread the word and your own exploits, have resulted in some smaller holdings in the same viscounty making requests. I wanted to talk the matter over with you.”
+
+“Oh, really? More people want me to sing?” Hanyi asked, excited.
+
+“Indeed. We are a little helped by the year's divinations… It is likely to be a bad winter.” Threading his hands together, Bao Qian stretched them over his head, causing an audible pop from his back. Ling Qi glanced away.
+
+“You did say you wanted to market her performances for more practical effects too,” Ling Qi said, recalling an earlier note. “Was it that effective?”
+
+“As I said, some part of the effect is external to our efforts,” Bao Qian explained. “The Duchess’ approval has benefits.”
+
+Hanyi pouted. “Whatever. I guess that’s fine. They’ll want me back next year anyway after I perform.”
+
+Ling Qi nodded, patting her junior sister on the shoulder. “So what will we need to work out? Travel times and scheduling?”
+
+“Mostly that, yes,” Bao Qian agreed. “But before we get into the details, there is another matter I’d like to ask you about.”
+
+“What’s that?”
+
+“Well, we’re both busy people and so we haven’t gotten as much opportunity to get to know each other as I’d like,” Bao Qian said. “Since I know you have some free time, I wanted to invite you out.”
+
+“Out where?” Ling Qi inquired warily.
+
+“I’d hoped to give you a choice on the matter. You know I perform some odd services for local nobility, and being the active sort of woman that you are, I thought you’d enjoy some light adventuring to something more idle like a dinner or theater performance.”
+
+Ling Qi frowned, glancing at Hanyi, who had adopted a perfectly innocent expression.
+
+<Not dangerous at all, huh?> Sixiang drawled smugly.
+
+“I suppose I don’t see the trouble with that.” It wasn’t like she distrusted Bao Qian, and getting away from the Sect for a few days didn’t sound bad.  She doubted they would run into anything actually dangerous given the way Bao Qian spoke of the matter. “What did you have in mind?”
+
+“Of my current contracts, I can think of one that might appeal. The owners are rather busy with mustering at the moment, and they have been looking to reclaim an abandoned manor, but it requires a bit of survey and exorcism. I’ve been given some rights of salvage in exchange.”
+
+“That does sound like a fun afternoon,” Ling Qi allowed.
+
+***
+
+“I have to wonder: even if they’re busy, isn't hiring someone like you to do work like this pretty expensive?” Ling Qi asked. It was a nice day out, only a little cloudy. The wind was brisk and cold, blowing past her as the wagon trundled down the well kept gravel road.
+
+“You are correct, although I have been discounting my services quite a bit,” Bao Qian replied cheerfully. He sat at the other end of the driver’s bench, a warm red fur cloak wrapped around his shoulders.The reins hung loose in his hands, the horses pulling the wagon needing little guidance.
+
+“Why would you do that?” Gui piped up. Her little brother, as their “chaperone,” sat on the bench between them.
+
+“More shiny rocks are better, yes?” hissed Zhen. Right now, Zhengui was only the size of a large dog, so their voices had regained some of that cute squeaky quality that Ling Qi sometimes missed.
+
+“If I had to guess, it’s probably a long term ploy in a way,” Ling Qi said absently. She glanced back into the shadow of the wagon where Hanyi had decided to take a nap, bored by the trip.
+
+“Miss Ling is insightful,” Bao Qian praised, leaning back on the padded bench. “I have said that I have many advantages, and this is one of them. With the wealth of my clan stipend at my back, I can easily cut my rates so much that no competitor can compete while I build relationships with my clients. Most troubleshooters of this type are second and third children of small barons who need to amass their own fortunes.”
+
+“And you’re fine with that?” Sixiang inquired, appearing as a phantom face peering over Ling Qi’s shoulder. “Didn’t you say you wanted to build something on your own?”
+
+“Indeed I did, but this is not my business. It is merely networking,” Bao Qianclarified. A short tug on the reins brought them around a turn, trundling into the forested hills that abutted the Wall in this region. “That said, there are other reasons why the local baron is not handling this ‘in house.’”
+
+“What are those?”
+
+“Mainly the value of priests capable of proper last rites. It is not a popular profession, and one way or another, it seems likely their services will be in high demand in the future. That is why we are going to demolish the building in the end and let wild spirits reclaim it. It is considered more economical than a true exorcism.”
+
+Ling Qi considered Bao Qian’s explanation. So far, the battles had been contained, but they couldn’t expect that to stay true. She supposed Bao Qian was right that priests would be getting a lot of work. Silence fell over them as the conversation petered out, leaving only the sound of horses’ hooves, the south wind, and the wagon wheels.
+
+Eventually, Bao Qian coughed into his hand. “I do hope my sudden request didn’t give you any trouble with your mother. You mentioned informing her.”
+
+Ling Qi nodded. She was working to be better at keeping her mother informed of her activities. Her mother had worried, of course. “Zhengui is a very dependable chaperone, aren’t you, little brother?”
+
+“Yes! We will keep an eye out for Grandmother,” they both chirped.
+
+Ling Qi rolled her eyes, and Bao Qian chuckled.
+
+“To be serious, no, my mother trusts me with the matter.”
+
+“That is good. I would not have minded meeting her to make my case though,” Bao Qian said casually.
+
+Ling Qi glanced his way. That would feel like taking a step she wasn’t ready for yet. “I don’t think that’s necessary.”
+
+“Maybe after the tourney. Your mom is putting a lot of work into making things presentable,” Sixiang interjected.
+
+Internally, she sent a nasty look Sixiang’s way. The muse whistled innocently in her head.
+
+“I suppose if we’re talking about that kind of thing, what about your parents?”
+
+“Ah, that is a long way off. We would probably need to come to an actual agreement first,” Bao Qian replied carefully.
+
+Ling Qi caught what she thought was his meaning though and wrinkled her nose.”I suppose there is that much of a difference in status,” she noted neutrally.
+
+“That was not my intention,” Bao Qian deflected. “They are just very busy individuals. Even I only see them once or twice a year most of the time. Their business is such that it can only be set aside for major events and festivals.”
+
+“My apologies.” Ling Qi should probably try to take these sorts of things less personally. “What do they do?”
+
+“My father is the overall administrator of the clan's business in the eastern half of our county, serving under the clan head himself,” Bao Qian answered. Watching his face, she thought she saw some genuine pride there. “Mother is one of the most renowned jewelers in the Empire and spends much of her time in her homeland of Celestial Peaks. Several princes and princesses are among her clients.”
+
+“They wouldn’t have much time then,” Ling Qi said. “Do you have any siblings?”
+
+“Only two. I have a brother and a sister some decades my elder. They’re apprenticing under my parents at the moment.”
+
+Ling Qi nodded as Bao Qian, in turn, began to ask a few careful questions about her own situation. It wasn’t an unpleasant way to while away the remaining hour of their trip.

@@ -1,0 +1,149 @@
+---
+id: 926f90db-42a3-58f1-8d30-a86ceece7c91
+page-type-slug: story-chapter-royal-road
+title: "Threads 246-Journey 3"
+slug: 0284-threads-246-journey-3
+partOf: forge-of-destiny
+position: 284
+ownLength: 2001
+unit: words
+publishedAt: 2022-09-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/992733/threads-246-journey-3"
+royalRoadId: "992733"
+---
+
+There was a long beat of silence in the carriage, oppressive and cloying.
+
+“Your mother never does assign easy tasks,” Gan Guangli said, breaking it. His smile seemed dimmer, but it was firm.
+
+Ling Qi wondered if he, too, was trying to contain a monster of incredulous fear in his chest. She managed a wan smile, resting her cheek on her hand. “I applaud your delivery, Lady Renxiang, but I hope you can tell us a little more.”
+
+Overthrowing the Duchess. It was so utterly absurd that Ling Qi wondered if that was why her reaction was muted. It felt like it had to be some mad joke.
+
+Cai Renxiang took a deep breath. “Thank you.”
+
+“An odd statement,” Gan Guangli said, sitting up straighter. “It is not like you to speak unclearly, my lady.”
+
+“I suppose it is not,” her liege said. “It is as I have said. My mother granted me insight into her nature and Way. This has explained many things to me. My mother cannot remain on the throne for the full span of an immortal's life, though I am not certain how long we have.”
+
+Ling Qi thought back to that strange conversation with Diao Linqin. “Lady Renxiang, I feel I should mention this now, but I had a conversation with the Prime Minister before the tournament’s end.”
+
+Cai Renxiang frowned.”What of, Ling Qi?”
+
+“She mostly seemed to be giving me advice on my own cultivation, but it did lead to a question. She and your mother are bound tightly. The question occurred to me then, what will happen when she is gone?”
+
+“The Prime Minister is roughly four hundred fifty years old,” Gan Guangli said. “At two centuries your mother’s senior, and a realm beneath her, that does seem a valid question.”
+
+Cai Renxiang considered their words. Her expression briefly became a scowl. “Then it seems we have our likely time limit. A seventh realm cultivator lives some eight or nine centuries on average.”
+
+“I must wonder what the Duchess might do that is so far beyond the pale at that point,” Gan Guangli said. “I will not excuse the harms done to you, Lady Renxiang, but for the province, she has brought only prosperity and progress.”
+
+“And much grumbling from the lords of the land,” Cai Renxiang said.
+
+“I suspect that the Prime Minister… grounds her in some way. This, I saw in the insight she granted me.”
+
+“There is that as well. My mother is a being of change, destruction, and renewal. There were very many things which required her touch in the Emerald Seas. Indeed, there are many yet still.”
+
+“But there will not always be.” Gan Guangli rested his chin on his fist, his expression drawn down in a frown.
+
+“That is my belief,” Cai Renxiang said. “However, let it be clear that I have no intention of attempting any military solution.”
+
+“Is there some other way to interpret overthrow?” Ling Qi wondered.
+
+“That seemed to be her implication,” Cai Renxiang admitted. “But I will not agree to this. I will not see the Emerald Seas razed in my ‘victory,’ and that is the only result that a war or rebellion could bring. Even if that is what she desires of me, she will not get it.”
+
+Ling Qi blinked. In her head, Sixiang whistled. Even Gan Guangli looked briefly surprised. Ling Qi did not think she had ever heard the girl flatly reject her mother’s opinion like that.
+
+“Then what do you plan, my lady? How does one force the abdication of an eighth realm?” Gan Guangli asked. He did not sound incredulous, only curious.
+
+“I have seen what she is, and I am no longer an overawed child. The path to victory is to prove that what I build is the way forward, and her methods, the regression. Any conflict of ideals among sovereign cultivators is a battle of a kind, but it is here that I will make my stand. Not with armies. If I cannot do this… then I am not fit to rule.”
+
+Somehow, Cai Renxiang’s proposal did not make it any less frightening, Ling Qi mused. Directly opposing the Way of a cultivator of the eighth realm was fighting them. It was a different sort of fight, one with perhaps less collateral, but she wondered if the consequences would be any different for her and others that stood at Renxiang’s side.
+
+Yet if Cai Renxiang could not succeed, wouldn’t that only mean that their province would see war again, this time with itself? Whether it was one of Cai Renxiang’s siblings,Tienli or one yet to be born, or the other lords of the province, would it make a difference?
+
+She thought of burning glades and abandoned villages, of hungry foxes and the cruelty of armies. “Well, Gan Guangli is right. She never does make tasks easy on us.”
+
+“She does not,” Cai Renxiang agreed.
+
+“Can you be satisfied with that?” Ling Qi asked. “Despite everything she has done to you?”
+
+“Will destroying my mother’s works help even a single person, even myself?” Cai Renxiang asked archly. “I have no interest in tantrums.”
+
+Ling Qi could feel the glower in the qi radiating from Liming, and she saw the embroidery shift and tighten.Cai Renxiang grimaced.
+
+“The past should inform, but never command,” Gan Guangli said simply, leaning back in his seat. “Look ahead. What changes in the immediate term?”
+
+“Little,” Cai Renxiang said. “Save that the success of this project is even more vital. We have so little room for even mediocrity, let alone failure. These negotiations must be seen as a complete success by every group we wish to court. I will be relying on each of you to continue exceeding expectations on every task.”
+
+“You can’t achieve the peak through mediocrity,” Ling Qi said lightly. “Remind me to take you on a trip some time, Gan Guangli.”
+
+He raised his eyebrows in mock alarm. “Ah, Miss Su has warned me of this. I will prepare myself for tribulation.”
+
+“You’d better,” Ling Qi said. “Lady Cai, is there anything I should do in the immediate term?”
+
+“Continue ingratiating yourself with these reformist Meng. Were it possible to maneuver them into power, that would be an immense aid both to our eventual goals. Gan Guangli, I would like you to speak to the Jia where you can. I know you’ve an interest in military organization. You have a good rapport with your tutor despite our difficulty?”
+
+“I do, and you should know that she bears no grudge. She deeply regrets her errors of judgment in the first assault,” Gan Guangli said.
+
+“I hold no grudge,” Cai Renxiang dismissed
+
+Ling Qi tilted her head. She remembered that during the first attack of the underground people, a core disciple had gotten overeager and ordered Cai Renxiang and a number of other disciples to pursue their retreat, and it had gone poorly. She glanced at Gan Guangli. It was very unusual for a core disciple to tutor an Outer Sect one.
+
+Someone was looking to curry perceived lost favor.
+
+It worked out in Gan Guangli’s favor, she supposed.
+
+“In any case, focus on the auction ahead. Many treasures from across the Empire come to Xiangmen. Materials for new talismans and medicines which will serve you well can be found here,” Cai Renxiang said.
+
+Ling Qi grimaced at the change of subject. She really had to think about that now with the destruction of her flute. Although, she supposed that even if it hadn’t broken, it had been time to replace her flute. She felt an ugly feeling churn in her gut all the same.
+
+“Should we seek contacts with craftsmen as well? Or will we continue to rely on Senior Brother Lin?” Gan Guangli asked.
+
+Ling Qi saw a shadow cross Renxiang’s face. “Senior Brother remains useful, but more contacts cannot hurt. We have some needs outside his specialties. Find what you can, but do not be too concerned.”
+
+“I will want to take some time on the other side,” Ling Qi said. “Will that present problems?”
+
+Cai Renxiang considered this, folding her hands in her lap. “Be careful.”
+
+Ling Qi opened her mouth to speak and fell silent when Cai Renxiang fixed her with a look out of one eye.
+
+“Ling Qi, be careful,” she repeated slowly.
+
+“I will.” She sighed. She supposed she had earned that.
+
+The conversation continued. They discussed the auction, the items or materials they hoped to find, and the ways of the city of Xiangmen.
+
+But for Ling Qi, she had a more immediate issue to concern herself with. Tomorrow, she will be speaking with Diao Hualing and the Ministry of Law.
+
+***
+
+She had been a mortal the last time she found it so hard to keep her breathing controlled. The lessons and exercises of her Eight Phase Ceremony seemed awfully distant.
+
+They had to oppose the Duchess.
+
+Even if Cai Renxiang were right in her supposition that it could be done without the great violence of armies, what did that mean for them, the ones at the core of that opposition?
+
+As the journey had gone on, their conversation had circled back to the ultimatum, and Cai Renxiang had shared the insight she had gained. Revolution, the violent breaking of preceding structures of society, was at the core of the woman who ruled the Emerald Seas. The Duchess was one who could only move forward. She could never turn back and never stop.
+
+It resonated, Ling Qi had to admit. There was a large part of her that understood that lesson. Stagnation was death. She had not thought of the implications of incorporating this lesson and spreading its impacts beyond the immediate circle of family and friends though, and even such a small increase in scope had induced difficulties in her cultivation.
+
+Yes, she found herself understanding very well.
+
+It was still terrifying.
+
+But at that moment, showing her fear and reluctance to Renxiang would have been wrong. Support was more important. It was obvious that Gan Guangli had reached the same conclusion independently. She doubted that Renxiang didn’t know what was behind the smiles and comforting words. But it was important to give them all the same.
+
+<You held up pretty well there,> Sixiang murmured comfortingly. <It’s, uh, definitely a goal to take in all right.>
+
+<Gui doesn’t get it. Wasn’t the little star always supposed to replace the big one? What’s different?>
+
+<Duh. It’s cause now she’s gotta challenge the Big Boss over it, instead of just being tested a bunch. It’d be like if Momma made me fight her!> Hanyi seemed unsettled by the very thought.
+
+Ling Qi let out a long breath, letting her spirits bicker as she opened her eyes. She sat on a comfortable stone bench set beside a tiled walkway that wound through the expansive garden of the local Ministry of Law complex. Observing the meticulously orderly patches of flowers and regularly spaced trees, glittering fountains, and the aesthetic of tamed nature, she thought Renxiang would like this place more than she did.
+
+However, it was still a peaceful place to wait and order her thoughts and cultivation. She needed to get away from the carriage after all the revelations. Showing up early and politely accepting the offer to meditate in the gardens until Diao Hualing had completed her previous appointment served that well. She wasn’t sure she could call herself calm at this point, but she could at least conceal her nerves.
+
+A ripple traveled through the serene qi of the garden, an advancing crest that washed over and around the little islands that were the other occupants of the garden, various meditating clerks or officers of the ministry. Ling Qi rose smoothly to her feet, and bowed, wincing a bit at the jostle it gave her still healing arm. It would still be another few days before she could remove the cast.
+
+“Inspector Diao Hualing, this one greets you with great respect.”

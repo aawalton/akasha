@@ -1,0 +1,137 @@
+---
+id: 04de0028-444f-5ff4-b285-c3f2e57a129b
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Two: The Chase"
+slug: 0105-chapter-one-hundred-two-the-chase
+partOf: flesh-eater-demon-evolution-litrpg
+position: 105
+ownLength: 2049
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3629099/chapter-one-hundred-two-the-chase"
+royalRoadId: "3629099"
+---
+
+A slow smile spread across Pyre’s face. She shifted her weight, muscles flexing with the movement. Well, she thought. That was certainly convenient.
+
+One hand drifted over to the handle of her axe as she mentally debated how far to go. She did have some questions for the guy—namely about whether or not one of her soul fragments was actually involved here—and Callan and Daphne would definitely want to ask him about the disappearances. Llyr too, probably. The guy’d need to be kept alive, then.
+
+The tattooed man shuffled backwards, eyeing the demon with growing wariness. He’d drawn his dagger when jumping back, and he now raised it defensively in front of him.
+
+Assuming he’d been in the middle of attempting to disappear someone else (possibly after failing to nab Callan), he was probably debating if it was worth it to try and grab her. It showed that, whatever he was up to, he wasn’t picky about the victims.
+
+In the end, Pyre didn’t give him a chance to make a decision. She pulled out her axe and lunged at the guy, who cursed and ducked below the swing seconds before the blade sliced through the air where his head had once been.
+
+Fast, the demon thought. She could always grab him with her flesh warping, but that would be a last resort. She adjusted her stance. She didn’t think she’d need to drop the disguise to win against this dude, anyway.
+
+As she reeled her arm back again, the man chanted something under his breath. The outline of a pendant glowed below his cloak, and in the next second, a wave of inky darkness suddenly burst outwards.
+
+The shadows stretched, cloaking the narrow alleyway in a dense shroud of magical darkness. The surroundings became a blur of vague details and occasional shapes. [Darkvision] wasn’t enough to see through this, it seemed.
+
+That wasn’t her only sight option, though.
+
+Through her [Thermal Vision] eye, a red splotch outlined the shape of the man. He lunged, dagger pointed straight at the demon.
+
+She caught his wrist at the last second, twisted, and aimed a kick right into his stomach, careful to hold back so she didn’t instantly kill him.
+
+The man flew backwards from the force of the impact, slamming into the brick wall. Pyre heard something crack, and he hacked and wheezed, free hand clutching at his stomach as he struggled to stand back up. She was a little impressed he could still move at all—he had to be decently high level, or at least have good constitution.
+
+In a sudden burst of speed, he rose and bolted away. Pyre raised an eyebrow. That had to be some kind of speed skill. She turned and took off as well, chasing after the red splotch through the artificial darkness. The man glanced back and cursed.
+
+“How the hell can you see me?” he yelled. He clearly didn’t want an actual answer, because in the next second, he twisted to the side, leaping onto a metal staircase running up the side of the building with smooth agility. The magical darkness dissipated, either because he was too far away or because it had a time limit.
+
+Pyre took a second to eye the worn, creaky metal stairs. This guy was clearly faster (and lighter) than her, and she didn’t feel like testing if it could hold her weight.
+
+So, the demon activated [Weight Manipulation], made herself as light as possible, and leaped upwards. She landed with a heavy thud on the roof of the building, just in time to see the man nearing the edge on the other side.
+
+At this point, the hood of the man’s cloak had fallen away, revealing the raw fear on his face as the demon approached. His arm was also exposed, and Pyre noted that while the tattoo did indeed match the one Callan had drawn, a few lines near the bottom were greyish in hue. As she stared at them, the black slowly seeped into the grey.
+
+The demon’s eyes narrowed. She guessed that the tattoo needed time to recharge and rebuild ichor or whatever, which would explain why the guy hadn’t teleported away yet.
+
+“You wouldn’t happen to have seen a silver glowing orb around, would you?” Pyre drawled. She stepped closer to the man, axe in hand.
+
+He inched back more, but he was already at the edge of the roof. Here, the wind was stronger, and the angel looming over the city seemed closer than ever.
+
+At a glance, this appeared to be a quieter part of the city filled with lower, flatter buildings. Pyre could still see bustling streets in the distance, though, including the one leading to the square she was supposed to be waiting in.
+
+The man didn’t answer. His eyes darted around, searching for an escape route. He’d clearly decided that the demon wasn’t worth trying to kidnap.
+
+The second Pyre was close enough to attack, he spun around and promptly leapt off the side of the roof. He landed with a smooth roll onto one of the neighboring buildings. In the blink of an eye, he scrambled back to his feet and kept running.
+
+Pyre clicked her tongue and jumped after him. A loud thud sounded as she landed on the rooftop, but she ignored it and kept chasing after the guy. This would be a lot easier if she used her fleshwarping, but someone would definitely see her up on the roofs. Plus, there was something satisfying about challenging herself to stay in her human form. It almost reminded her of her garrison days.
+
+Up ahead, the man continued leaping between rooftops with expert grace. He was heading towards the denser parts of the city with more people, which wasn’t what Pyre had expected. He might be trying to disappear into the crowd.
+
+The demon landed on a sloped roof, using her axe to maintain balance as she skidded down the steep incline. Stray shingles flew off around her, and she heard someone on the street below shout. She ignored it and kept going.
+
+As they made their way closer to main street, their little chase attracted more and more attention. Pyre could see people stopping and pointing at them as they leapt between rooftops and balconies alike.
+
+Her eyes narrowed. She should probably wrap this up soon.
+
+The perfect opportunity came when at the next building, the cloaked man didn’t leap forward, but instead descended down into the alley below. Pyre adjusted her trajectory, running in a diagonal line so that she ended up at the corner of the building’s roof. She then promptly dropped down to the ground.
+
+Her timing was almost perfect. She landed a second before the man was about to bolt out of the alley opening, cutting him off.
+
+The ground cracked slightly below the demon as she straightened to her full height, her axe dragging along the ground behind her. The man scrambled backwards, but he was soon stopped by the wall at the back of the alley.
+
+It was a dead end.
+
+“Okay, this was fun,” Pyre said, stepping closer. “But some actual answers would be nice. You seen a glowing orb or what?”
+
+“I don’t know what the hell you’re talking about! What the fuck is wrong with this city? First that kid disappearing, now some psycho hunting me down!” the man ranted half to himself.
+
+Compared to the demon, he looked visibly tired. He’d probably gone through most of his skills during the chase, and between that and the hit he’d taken to the stomach, he was likely running on pure adrenaline alone right now.
+
+Pyre gestured vaguely with her free hand. “Silver sphere, looks like a bunch of swirling mist, has a fuck ton of power. Great for powering magic rituals. That ring a bell or not?”
+
+For a brief moment, something like recognition flashed in the man’s eyes. It was gone almost as quick as it had appeared, replaced with wariness instead, but that was all the demon needed to see.
+
+“Where is it?” She took a step closer, and the man immediately moved back.
+
+Pyre was vaguely aware of the distant sounds of the street behind them. The specific road the alley was connected to didn’t seem to get much traffic itself, but it was close to main street. People who’d seen them land here would definitely come to investigate soon.
+
+The man remained stubbornly silent. Pyre adjusted her grip on her axe and raised an eyebrow.
+
+“If you don’t want to talk, we can always do this the hard way,” the demon drawled.
+
+He gritted his teeth. “Like hell!”
+
+A flash of violet light suddenly burst out of his palm. In the blink of an eye, his dagger shot forward like a bullet, moving so fast that Pyre could barely see it. It barreled straight towards her neck. There was no time to dodge.
+
+The blade slammed into Pyre’s throat. She could feel the shockwave of the impact ripple and disperse throughout the surrounding flesh.
+
+The knife then fell to the ground with a clatter, unable to pierce through. It left behind only a tiny indentation on her neck, and as she ran her finger across it, her flesh regenerated over the wound.
+
+She dropped her hand again. She didn’t have a single scratch on her.
+
+“That’s not gonna work,” the demon said calmly. She kicked the dagger away. It skidded across the ground and came to a halt against the alleyway wall. The man’s face paled with raw fear, and she could see him shaking.
+
+Lightning quick, he shoved aside his cloak to reveal his tattoo. It was now fully black. Pyre was already prepared, though.
+
+In one swift movement, the demon lunged and swung out with her axe, cleanly severing the man’s arm.
+
+He screamed in agony, the sound shrill and piercingly loud as he dropped to his knees. His other hand fumbled around wildly, blindly reaching for the stump where his arm had once been.
+
+Dark blood pooled down from the wound onto the alley ground below, staining the dry dirt. The tattooed arm lay a foot away, the cut bone and muscle visible from its severed end.
+
+Pyre studied the man coolly, noting from his rapid breaths that he was probably hyperventilating. He’d probably bleed out soon at this rate.
+
+“Where’d you see that silver orb?” she continued, staring down at the bleeding man. She was still holding onto the axe, which was now dripping red.
+
+“I don’t know!” the man barely managed to gasp out. “I just heard some of the others talking about some kind of magic catalyst! That’s it, I swear!”
+
+The others, Pyre noted. That confirmed that this wasn’t just one guy running around the city kidnapping people. “What’re you doing with it?” She jerked her head at the city around them. “Why bother nabbing people?”
+
+The man just shook his head over and over, still clutching at his shoulder as the wound continued to gush blood. The demon had a brief thought that she should probably try to stop the bleeding before dragging the guy away to question him some more. If she got him to Llyr, he should be able to patch him up enough to keep him alive.
+
+Before the demon could make a move, though, the sound of footsteps rang out from the road beyond.
+
+Slowly, she turned around just in time to see a group of guards in shining armor stop at the entrance of the alleyway with their weapons raised. Behind them, a crowd of onlookers had gathered on the street. She could hear them muttering as they tried to peer into the alleyway to see what was happening.
+
+“Halt!” one of the guards in front yelled. He raised his spear threateningly. “Don’t move!”
+
+Pyre looked at the guards, then back at the man, who had collapsed to the ground in a slump, finally going unconscious.
+
+The demon was acutely aware of the bloody axe still in her hand, the severed arm lying a foot away, and how this whole situation probably looked to anyone just stumbling onto the scene. She hummed internally and turned to face the guards.
+
+This was very much not ideal, to say the least.

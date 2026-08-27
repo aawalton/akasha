@@ -1,0 +1,155 @@
+---
+id: da7a8d39-4c38-5133-9f89-9c660f72be97
+page-type-slug: story-chapter-royal-road
+title: "Threads 299 Identity 4"
+slug: 0339-threads-299-identity-4
+partOf: forge-of-destiny
+position: 339
+ownLength: 1746
+unit: words
+publishedAt: 2023-04-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1187193/threads-299-identity-4"
+royalRoadId: "1187193"
+---
+
+Ling Qi landed lightly on extended toes, surrounded by shards of glass. She stood on immaculate jade tiles, surrounded by cool mist and music. Applause greeted her, and she was met with a grand ballroom full of spirits in every shape and in every size. Beasts were strolling around on their hind legs, garbed in noble finery. Creatures of the elements, the avatars of stream and breeze and leaf and earth, conversed. Hybrids and mixes of the two and so much more filled the hall, laughing, clapping, and dancing under the glittering night sky and among the mist.
+
+“It’s been a long time,” Ling Qi said.
+
+“It’s a delightful little venue,” said the Emerald Dancer, avatar of the Dreaming Moon. “Much cozier than the capital.”
+
+They stood before a woman of indeterminate age in a glittering, gossamer green gown. Her eyes were glittering and black, and their hair a drifting halo of silken color waving in an unseen wind. A parasol of living wood and rainbow silk rested against her shoulder.
+
+Ling Qi brought her hands together and lowered her head respectfully.
+
+“Hey, Grandmother!” Sixiang hooked an arm through Ling Qi’s. “Glad you got a little distance down here.”
+
+“You're still immature, Sixiang,” laughed the spirit. “I am I, and I am also they.” The spirit raised her eyes, looking at the looming gibbous moon in the sky. “Indeed, so are you, my dear. There is so much more of ‘you’ now.”
+
+“We’re here to visit someone else, unfortunately,” Ling Qi said apologetically, not raising her head.
+
+“You’ve resolved yourself to meet my other half then?” The Dancer tilted her head.”Do you understand that this is not only your tribulation?”
+
+That brought her up short, and Ling Qi raised her head. She looked at Sixiang.
+
+Sixiang winced, tried to smile, and then wilted under her glare. “I mean, you’re the one that matters here…”
+
+“I spent the early morning reassuring my mother that while I was doing something dangerous, I would be back, even if I might be hurt,” Ling Qi accused.
+
+Sixiang equivocated, “Well, that’s not entirely true.”
+
+“It was as true as it could be. It’s my intention,” Ling Qi said. “Sixiang, I understand that you're connected to me, but that’s not what your grandmother is implying.”
+
+“My, you’ve gotten so much better at reading beyond words spoken.” The Dancer rested her cheek upon a hand, looking perilously amused.
+
+Sixiang, meanwhile, just looked uncomfortable. “It doesn’t have to be about me. I can just stay here…”
+
+“Oh my, no,” said the Dancer, smiling pleasantly. “You won’t be stable if you keep refusing to acknowledge your nightmare, dear.”
+
+Ling Qi turned to the avatar for explanation.
+
+“Your muse calls us Grandfather and Grandmother, and that isn’t wrong for children. But we are not separate beings. I am he, and he is I. Dreams and nightmares cannot be so neatly separated,” the Dancer explained gently but firmly. “And that goes for your muse as well, young lady.”
+
+Sixiang’s shoulders slumped. “It’s fine, isn’t it? I don’t gotta touch that stuff. We’re fine. I’m fine.”
+
+Ling Qi frowned as Sixiang slid their arm out from under hers. She stopped them, grasping their hand. “Sixiang, I trust you.”
+
+They looked up, startled. “Ling Qi—”
+
+Hands fell on their shoulders, and Ling Qi turned to see fathomless black eyes, deeper than the empty night sky.
+
+“Let us go now to the other side.”
+
+***​
+
+The smell struck her first. It wasn’t awful or overwhelming. It wasn’t the vile, rotting air released from Hui Peng’s sealed chamber nor the ugly smell of blood and spilled viscera. She wished it were.
+
+It was stale sweat, wine, and a clinging, musty odor. Faint incense tried to cover it and failed. Ling Qi felt like her hair wanted to stand on end. She stopped breathing because she did not want this air.
+
+She was in an achingly familiar set of rooms. They were well furnished on the house’s dime. Her eyes darted to the door on the left. That was a little walk-in closet meant for wardrobe and storage. There would be a bed in there, a tiny table, and a lantern. A loose floorboard stored treasures.
+
+Or there would have been, once upon a time.
+
+“Ling Qi?” Sixiang stumbled, and it shocked her out of her thoughts as she caught their arm. The muse swayed, looking confused. “I’m solid,” they said, horrified.
+
+She shot them a tense look before returning to scanning the room. There, on the other side, was the door to the bedroom proper, her mother’s room where she took clients. “It’s still the liminal, Sixiang.”
+
+“N-no.” The genuine discomfort in their voice drew her eyes back. Sixiang’s eyes darted to their own hands and then back to her. She noticed that Sixiang’s hair hung limp and solid around their face. “I can’t change, Ling Qi. I can’t change. I’m not in—”
+
+“Control.”
+
+The voice rattled the floorboards, and the little windowpane let in the pale red light of dusk. The sound made Ling Qi’s skin crawl. It was a man’s, slow and slurring and hideously interested. It was a boy’s, barely older than her, snarling at her as her arm broke under his grip and he stole what she had stolen herself. It was Sun Liling’s sneering challenge on the mountainside. It was the thunder cracking in the sky as the stars fell down upon her in the caldera.
+
+There were so many more layers than that, each an ugly, violent memory of loss and helplessness.
+
+But Ling Qi wasn’t a scared child. She hunched her shoulders and gripped Sixiang’s hand. It was weird for it to be warm and solid and real. Even in the dream, touching Sixiang had always been a bit like holding onto a cloud before.
+
+“I’ve faced this already.”
+
+There was no response.
+
+“I’ve faced this already,” she repeated with more confidence. “This place… It’s not special. It’s a bad place, but I’m not afraid of it anymore. Sixiang, you’ve been trapped before, too. Remember the nightmare of the hunt?”
+
+“It’s not the same,” they whispered. “I wasn’t stuck in a body like this then. I just wasn’t allowed to talk to you.”
+
+“Maybe not, but I’ll manage. It’ll only be for a little bit,” Ling Qi said reassuringly. “Let’s get out of here.”
+
+“Does that even mean anything?” Sixiang joked nervously. “Here is wherever Gramps wants us to be.”
+
+“Maybe, but I didn’t get where I am by standing still.”
+
+“That’s not reassuring at all.”
+
+“I guess not.” Ling Qi refused to look back as she came to the outer door and opened it, revealing a long hallway lined with similar doors. Its familiarity only made the eerie silence and stillness more unsettling.
+
+But there was nothing to be found for her back there. She’d faced it, and she’d gotten her mother back. She understood.
+
+“Do you really? Then whence comes your fear?”
+
+The voice whispered this time, a slimy breeze in her ear. Tears and sweat and blood.
+
+“You see it still everywhere, but you deny and deny and deny.”
+
+Ling Qi’s eyes darted around. She’d heard a skittering tread and seen a shadow at the edge of her vision.
+
+“Ling Qi?” Sixiang questioned.
+
+“He’s talking, that’s all. I don’t know how much to engage. This—”
+
+Her words died in her throat. She knew perfectly well by now that just because this was a dream, a purposeful tribulation, did not make it any less real. It wasn’t a mistake she would make again.
+
+They walked down the hallway toward the dark stairs at the end. In the real world, it would lead downstairs to the common room where men were served food and drink and music and cooed over by the women here in the hopes of convincing them to purchase more “services.” More importantly, there would be the exit.
+
+“Mortal construction, you’ve dismissed and overcome. But not this place.”
+
+Ling Qi hunched her shoulders, her eyes catching on an open door in the hall. The voice dug into her ears, digging, digging. And she couldn’t dismiss it because it wasn’t lying.
+
+“Witness love.”
+
+She glimpsed what lay beyond the open door. There was a man and a woman there.They were close, her back to the wall. His hands were in her hair. And where his fingers met her skin, wormlike threads sank in and wriggled under it. Threads, strings sinking in, writhing like worms.
+
+The man drew away, the strings followed, and the woman smiled. It was an empty thing, the corners of her lips pulled up by strings under her skin. The man was indistinct, features shifting into different faces as he turned to face her.
+
+The woman was her.
+
+Ling Qi bolted, all but dragging Sixiang as they stumbled behind her.
+
+“Why do you flee from your own truth?”
+
+Doors snapped open. More people. Mother, Cai Renxiang, Meizhen, Suyin, Su Ling, others, all with family or lovers, and sometimes, Ling Qi herself. Controlling and being controlled
+
+“Control is Power. These define love, define relations. You try for a light hand. But this is your truth: You covet power because you fear it, and naught else.”
+
+“I don’t want to control anyone,” Ling Qi snapped, coming to a halt. The hallway yawned on indefinitely. She had passed dozens of doors and gotten no closer to the stairs.
+
+“Lies. You steer those around you. You seek even now to control the course of countless people.”
+
+Sixiang hissed in pain, and Ling Qi felt a jolt herself of stabbing pain in her hand. She looked down in alarm to see binding threads between their fingers. She couldn’t tell whether they were coming from her or Sixiang or who was binding who. It hurt so badly, threads digging in under her fingernails and under her skin. Tears pricked at the corners of her eyes from the sensation.
+
+“You, too, little shard. Nightmare of lunacy who revels in confusion and delirium, nightmare of covetousness who breaks and takes and grasps so tightly. You could take her. She has let you in so deeply.”
+
+Sixiang gritted their teeth. Blood dripped from their joined hands, and strands of their hair paled, bleaching. “I don’t want to,” they hissed, scowling up at the shadowed ceiling.
+
+But they could. The thought crossed Ling Qi’s mind. Shu Yue had warned her. The danger had simply never crossed her mind because Sixiang was Sixiang
+
+“Then perhaps your grandfather should help.”

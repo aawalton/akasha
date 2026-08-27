@@ -1,0 +1,161 @@
+---
+id: 19f5e68e-3777-5e42-8c6d-d9487dc29313
+page-type-slug: story-chapter-royal-road
+title: "Threads 336-Hunters 1"
+slug: 0376-threads-336-hunters-1
+partOf: forge-of-destiny
+position: 376
+ownLength: 1915
+unit: words
+publishedAt: 2023-09-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1350388/threads-336-hunters-1"
+royalRoadId: "1350388"
+---
+
+Ling Qi blinked and managed to keep her reaction to the meaning gleaned from a moment spent listening so closely to that heartbeat to herself.
+
+“Thirdly is your territorial claims. We already spoke of this in public, of course.”
+
+“Yeah, yeah, you wanna get everyone on the same page so we don’t go stabbing your little buddies too and ruining your show here.”
+
+And though the scars had been removed from Sun Liling’s face, Ling Qi could feel in the dense mist of blood that filled the dream here, the presence of crusted-over scabs, never healed wounds. They felt as if they had been split recently.
+
+The blood was not all pouring in. Sun Liling was bleeding.
+
+It was difficult, riding the line between material and liminal. Difficult to keep her focus. Difficult to not give anything away. There was a limit to what she could manage, knowing that this conversation could not last forever.
+
+In the mist of blood, rippling with the force of a beating heart, Ling Qi saw three wounds most clearly. She saw them, connected to them, and grasped understanding through her own cultivation.
+
+She saw the wound of the heart, the gash torn in the community.
+
+She saw the wound of the mind, the aching scars of isolation.
+
+She saw the wound of the soul, the eyes blinded by power.
+
+If what she was doing was noticed, then even leaving aside all other consequences, this whole effort would be for naught. Part of her was fascinated by the interlocking web of pains which she could barely perceive between the most prominent wounds. It was a puzzle she would have liked to pick apart to give Ji Rong the best answer, but to do so was beyond her ability and beyond what she was willing to attempt.
+
+Community. That was the concept she saw with the most clarity. Sun Liling’s view of it was harsh. To her, a community was a ringed fortress. There was no room for uncertainty or diffusion in it. One was either inside a wall or outside it. But here, the outer wall was dust and rubble, the middle walls were breached, and blood oozed from the stones of the citadel.
+
+“Feh. You’re not wrong either way. There’s folks who study that junk, but frankly, we don’t have the time or resources to dig them out of their workshops right now,” Sun Liling said in the waking world. “Rong can talk to you about the pass and about our claims n’ plans. We don’t have any obligation to dig into the rest.”
+
+“I understand. Would you object if I asked for whatever cursory knowledge your people here might have?”
+
+“You wanna pick up barracks rumors and tall tales from the lads ‘n ladies? Pft, go for it. I won’t tell you you can’t,” Sun Liling drawled. “Is there anything else I gotta hear out?”
+
+“There is one other matter…”
+
+Her searching gaze passed over the outer wall in the liminal. Here lay the broken trust in the empire. The air was rank with the bitter scent of betrayal. Silence from the throne. Silence from far distant kin. She heard the scurrying feet of rats and vermin, hungry and opportunistic.
+
+Ling Qi could understand this. To Sun Liling, those who had backed away from the Sun the moment the Bai had begun to find their feet were no better than vermin. But for all her brashness that first year, she had not believed it so until her loss and had stolen all pretense of their dedication to her family’s cause.
+
+Rats would scurry, and rats would bite. What rats would never do was stand and fight. But she ignored them at her peril. She fed them fat, lest they gnaw her foundation to ruin at another behest.
+
+It was an ugly way to see the world, but Ling Qi could not fully disagree. There were so many who would bite the open hand at the first opportunity. They would do so out of reflex or out of malice, even if it helped them only for a moment in exchange for years of pain.
+
+Seeing past the haze of immediate hunger was the first step to being more than a beast.
+
+The middle walls were different. Breached and crumbled, blood poured through the gaps. Here lay the men and women of the West. Looking down upon them, she could feel them blur before her eyes, defenders and assaulters both, in a mist of blood and stinking fear. Uncertainty lay here. She loved them still. Were they fools? Was she?
+
+The blood was a lie. It never mattered from whence it flowed.
+
+There was the great gatehouse of the citadel. It was a battered thing. It had fallen once, but it had been rebuilt with painstaking care. She could see the ash on the walls where the gates had burned before, their shapes lingering in the scorches.
+
+A tall, broad chested man with crimson hair and a kind, easy smile. A silent wooden casket, laden with flowers, too light to contain such a man whole. A woman, far away and blurred to start and getting further, with her back turned and never looking back.
+
+On the ramparts of the new gate burned the lightning star, small and spitting furious. It burned bloody mist to belching black ash, refusing to disappear.
+
+But beyond the gates lay the bleeding citadel, and here, there was the molten wound at its freshest.
+
+The citadel was one man. A grandfather, heavy lined face shrouded in a lion’s mane of white hair. Strong and immovable. The steady mountain that held up the sky and pinned down the earth.
+
+The man had eyes that were open pits of blood. A comforting hand became a pitiless grasp. Roots writhed under her skin. Soldiers marched to the tune of a drum, never hearing its beat.
+
+Everything for Family. Family is Everything.
+
+There was a bitter lilt to words that should have been the foundation of Sun Liling’s domain. Community could crush and kill. There was nothing in the world that could not be a weapon.
+
+“... And that is?” Sun Liling asked.
+
+Ling Qi blinked, and she tried to drown out the beating drums. “My apologies. I was lost in thought for a moment.”
+
+Even with all of her preparation, she’d almost lost herself there, teasing out even those garbled visions. Sun Liling was looking at her with narrowed eyes.
+
+She continued, “I wished to know if the Sun family plans to coordinate with the Emerald Seas in their military operations.”
+
+“Your boss really gets cut out of the loop by her mum, doesn’t she? Sad, that,” Sun Liling needled.
+
+“Her Grace prefers for Lady Cai to prove herself at every step.”
+
+“Sure, sure. I know gramps talked to her. We ain’t exactly planning joint operations, but we ain’t planning to move any further south till your duchess makes her move. Ain’t I generous?”
+
+“You are,” Ling Qi acknowledged. “Thank you very much. I believe Baron Ji should be able to answer the rest of my questions.”
+
+“He’d better,” Sun Liling drawled, rising from her seat. “After making me come out here. You agree, Rong?”
+
+“Yeah, I know what I got to work with now. Thanks, Princess,” Ji Rong said, standing by the door with his arms loosely crossed.
+
+Sun Liling snorted. “Don’t you of all people call me that.” She brushed past Ling Qi a bit more roughly than was proper and jabbed him in the side with her elbow. “Take care o’ this, and meet me out back. I want to blow off some steam.”
+
+There were several interpretations to that statement, some of which were wildly inappropriate. It showed a great deal of carelessness, disregard for Ling Qi… or simple confidence.
+
+Sun Liling's voice drifted in her mind, one last scrap of dream from the closing connection.
+
+“You really gonna do this, gramps? Deny me this?”
+
+Ji Rong gave a grunt of acknowledgement. She didn’t turn around until Liling had left. When the doors clicked shut, they were both silent for a beat.
+
+“Shall we get down to details, Baron Ji?” Ling Qi asked.
+
+“Yeah, no use wasting time.”
+
+A few words they’d prearranged. There were no far listening or recording formations in the room then. Ling Qi relaxed a hair.
+
+“You see anything useful? You're lucky you already have a rep for spacing out,” Ji Rong grunted, passing by her to collapse in one of the richly upholstered chairs. He looked like he’d bitten into a lemon.
+
+Ling Qi glided to another and took her seat with more poise. “Of things you likely don’t know already… She’s aware of the drums. She’s conflicted about them. Something about them makes her feel like her people are being tricked.”
+
+Ji Rong’s brows furrowed so deeply that his eyes were almost shut, and he let out a frustrated growl.
+
+“... and she feels like King Sun betrayed her trust, and deeply so at that. I do not think you should take any chance of her finding out what you asked me to do.”
+
+She didn’t know how the princess would react, but she couldn’t imagine any good outcome there, no matter that his intention of this bargain had been to help her. By the spirits, if she were a worse person, she could already see a path there, a path to breaking something fundamental in Sun Liling’s domain.
+
+There was no concept that was not also a weapon.
+
+“Ffffuck,” Ji Rong growled out.
+
+Ling Qi considered saying something pithy, and instead, just lowered her head. “Yes.”
+
+Though he couldn’t be aware of her own position, she couldn’t help but be sympathetic, as one challenger of sovereigns to another.
+
+“So it's not just in my head, and she knows it's some kind of bad news,” Ji Rong growled. “Dammit!”
+
+“For what it's worth, I think you’re doing some kind of good, just being where you are,” Ling Qi offered.
+
+“The hells does that mean?”
+
+“She trusts you.”
+
+Little star, heaven star, spitting defiance and burning blood. Ling Qi let a little qi seep into her voice to convey the depth of that feeling that simple words could not.
+
+He looked like he’d been stabbed in the gut. His expression twisted.
+
+“The hells am I supposed to do with that?” Ji Rong whispered.
+
+“I can’t tell you that.”
+
+“Fuck,” Ji Rong repeated.
+
+“I'm surprised you aren’t declaring yourself the hero who’ll solve everything with your fists. Isn’t that how stories usually go in the Ebon Rivers?”
+
+“Heroes are the dipshits who show up to hit things after people are already dead and then swan off without fixing a damn thing,” Ji Rong spat, and she was surprised at his venom. “You wanna fight?”
+
+Ling Qi grimaced. “Sorry, I was trying to lighten the mood.”
+
+“And we’re relying on you to talk down the barbs. Empire’s fucked.”
+
+She scowled at him, but the tension was broken. “I’ve held up my end of the bargain. How about we get to yours?”
+
+He grunted, straightening up his posture. He was clearly still troubled. “Alright, so why don’t we get down to the way the army is getting positioned first. Liling and I swung by to show the flag on our way here, so I can tell you what I saw.”
+
+“That would be most helpful,” Ling Qi said, resting her chin on her hands. “Just what are the Sun’s intentions for the mountains?”

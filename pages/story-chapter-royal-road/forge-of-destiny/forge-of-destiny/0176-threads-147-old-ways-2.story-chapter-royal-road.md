@@ -1,0 +1,115 @@
+---
+id: 0a9856df-e710-5fec-b0a4-cd6367c9e079
+page-type-slug: story-chapter-royal-road
+title: "Threads 147-Old Ways 2"
+slug: 0176-threads-147-old-ways-2
+partOf: forge-of-destiny
+position: 176
+ownLength: 1569
+unit: words
+publishedAt: 2021-10-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/774519/threads-147-old-ways-2"
+royalRoadId: "774519"
+---
+
+Ling Qi pondered what to say. It occurred to her that the master of this old blade was an explorer.
+
+“Honored Ancestor,” Ling Qi said, “before we leave you to your rest, might you have any wisdom on the lands beyond the Wall? Your wielder is well known for his travels.”
+
+“Those days were ending afore we departed the blood-slick sea and left the treasure fleet behind,” the sword spirit murmured.
+
+Beside her, Meng Dan looked fit to burst at holding back the questions on his lips.
+
+“Still, can it be true that such a man never ventured far?” Ling Qi pressed. “We will be journeying there, or close at least. Any knowledge you have to give would be helpful.”
+
+The swirling mists of the graveyard thickened around them, and silence answered her words. Carefully, Ling Qi prepared the weaves of qi that might aid in their flight if need be, and she felt the others doing the same.
+
+Eventually, the grinding voice answered. “The endless wind upon the frozen plain is a blade, shearing away chaff. It is a place where the sun shows not his face for weeks and months, and the dark is full of terrors that cannot be cut. It is a place of obstinate refusal of inevitability where each blade of grass clings to life with vitality beyond the limits of its frame. It is a place where the Law of Man does not rule supreme. Ware the demon lights in the southern sky and do not linger under their gaze. That is all a blade can say.”
+
+Ling Qi shuddered at the spiritual weight that hung in the air, carving images into her mind’s eye. She saw: wind that would cut immortal flesh; a plain of hardy grass stretching out beyond sight, interrupted only by blots of huddled black trees; a sky with no sun where the moon was wan and far away and the stars shone cold; and a wall of fiery peaks far, far to the south, beyond which a curtain of wicked daemon lights winked and flowed in an alien sky.
+
+The pressure let up, and Ling Qi took a sharp breath, the sound loud in her own ears. “Thank you for your words, Honored Ancestor.”
+
+The words and visions spoke to her of the depths of Zeqing’s demesne, made more cruel and hostile still. Even if they were not to descend on those hostile plains, they would need to prepare well to traverse the southern mountains.
+
+What kind of people would live in such a place? It was a question she thought she would be pondering for some time. Still, she sensed the simmering irritation in the air and knew that their time was up.
+
+For now.
+
+She was going to be back here after the expedition to the south, albeit in different company.
+
+“Thank you again for your words, Honored Ancestor,” Ling Qi said, offering a final bow. She glanced at the others and jerked her head toward the exit.
+
+As they turned to go, however, the sword spoke again. “Child of Wildfire, what is the blade at your side?”
+
+Cai Renxiang, who had observed the proceedings in impassive silence until then, frowned, her fingers brushing the hilt of her saber. “It is one tool among many. No more,” she answered.
+
+The mist churned, but whether in approval or disapproval, Ling Qi could not say.
+
+“Go,” rumbled the sword.
+
+And so they did.
+
+***
+
+“I will see that we are provided with sufficient environmental gear from the underground stockpiles on our return,” Renxiang said as they stepped back into the lighter mist of the second ring.
+
+“I had not been under the impression that the lands beyond the wall were as hostile as the western jungles or the deeplands,” Meng Dan said. “An odd oversight in the records.”
+
+“If clans and individuals shared their findings freely with the wider province, the world would be unrecognizable,” Xia Lin replied a touch sourly. She still seemed very unhappy with what she had seen in the graveyard.
+
+“Still, I think that was at least productive?” Ling Qi ventured tentatively.
+
+“It was. I have a wider view of everyone’s capabilities,” Xia Lin agreed, striding ahead. The bent space was lighter now that they were leaving, the paths direct instead of twisting.
+
+“I would have liked a more in depth interview with a survivor of the first treasure fleet,” Meng Dan said, sounding a little dissatisfied. “Alas, primary sources are always so difficult.”
+
+“It is a shame for a relic to be left in a place like this,” Xia Lin agreed.
+
+“It is better,” Gan Guangli disagreed, less boisterous than normal. “Despair such as this is poison of the mind. No good would come of this spirit’s return. Let the Sect remember the Elder Lang as the hero he was.”
+
+Ling Qi watched out of the corner of his eye as Gan Guangli rubbed his cheek as if remembering some phantom blow.
+
+Meng Dan hummed thoughtfully but didn’t say anything further.
+
+The mini expedition was over. It was time to prepare for the real thing.
+
+***
+
+The army camp was a hive of activity as the Sect prepared to move out in force for barbarian lands. Elder Jiao had recovered from the worst of his wounds, and so Sect Head Yuan himself, along with General Xia Ren, would be sallying forth.
+
+In addition to soldiers and combat disciples, there were a great deal of production cultivators and disciples and a multitude of wagons and vehicles full of supplies. The Sect planned to march and claim territory, building roads and temporary fortifications as they went, which would require far more material than simple storage formations could hold.
+
+On the initial march, Zhengui volunteered to work among the other spirit beasts hauling material, and the quartermaster was happy with his presence. Hanyi planned to stay with her, not caring much for the regimented atmosphere. Soon enough, the march was on.
+
+It felt painfully slow to Ling Qi, moving at the pace of this great mass of people. Even when she was assigned to scouting duty, she found herself feeling restless, knowing that no matter how far out she ranged, she always had to circle back. Her restlessness wasn’t helped by the endless storm that rumbled overhead, stretching for kilometers in every direction. Heavy black clouds hung fat in the sky, never releasing their rain and lightning, instead gathering around the golden coils of the Dragon King that flew overhead.
+
+Ling Qi swiftly began to miss the moon and the stars.
+
+Still, for these first few days at least, they were in friendly territory, and so there was not too much need for vigilance. Ling Qi was left with some time free of duty. She found herself spending time with Gan Guangli and Zhengui in the company of the road layers.
+
+***
+
+From a great enough height, it really was like watching ants at work, Ling Qi thought. She sat atop a scraggly tree clinging to a high cliff, overlooking a wide and shallow valley that lay at the edge of the Sect’s territory.
+
+“It’s not such a bad comparison,” Sixiang said from beside her. They fluttered around at the edge of her vision, a bird of indeterminate species with shimmering rainbow feathers. “Humans aren’t that much different from us. We’re all just a bunch of smaller pieces acting as part of something bigger.”
+
+Ling Qi hummed thoughtfully. She didn’t fully agree, but she couldn’t say Sixiang was entirely wrong. “Maybe that’s why no Great Spirit of the Empire ever formed.” Ling Qi stared down at the hundreds of people and beasts tearing up the valley to lay down a road. “It’s been here all along.”
+
+“Why are they bothering with this?” Sixiang asked, alighting on her head. “It’s not like you cultivators really need a road.”
+
+“This is how you defeat the cloud tribes,” Ling Qi replied, thinking back to the Sect’s lessons and books. “If you just defeat them and drive them away, even if you kill tribes entirely, new ones will flow back in like water into an empty river bed. If you want to keep them out, you need to take and hold the land.”
+
+“Ah, I think I get it,” Sixiang said. “It’s about making the land and the spirits yours and not theirs.”
+
+Ling Qi nodded absently, watching as production disciples armed with trowels and formation-carved stones climbed down into the trench to place the foundations. In doing so, they were performing geomancy, that is, shaping the flows of qi in the land. Even mortals did it with dikes and irrigation and windbreaks, but cultivators could do so much more.
+
+Towns and cities were the same. There was a reason the safest settlements in the Empire were the oldest ones. Those were the ones deeply enmeshed in a network of roads and satellite settlements, places where the spirits of the land had been tamed and bound by millenia of agreements and simple human presence.
+
+“You start with a road and fort, and then more roads and forts, and then towns and villages.”
+
+“Real expensive and slow though,” Sixiang said, taking flight once more. They were having fun with their constructed bodies. “Seems easy to disrupt.”
+
+Below, her eyes caught a commotion among the people and a flare of magmatic light.
+
+The thin and clinging tree swayed slightly as she vanished.

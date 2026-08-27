@@ -1,0 +1,153 @@
+---
+id: 3c025bbe-bca2-5991-bda7-724f400bd2ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter Ninety-Nine: Fire"
+slug: 0102-chapter-ninety-nine-fire
+partOf: flesh-eater-demon-evolution-litrpg
+position: 102
+ownLength: 2266
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3595447/chapter-ninety-nine-fire"
+royalRoadId: "3595447"
+---
+
+By the time they returned to the mansion, the sun was beginning to rise proper. Pyre leaned back casually on the dining table chair, watching the color of the sky shift. In the corner of her eye, she could see Llyr in the kitchen preparing a simple breakfast of eggs and toast.
+
+She vaguely wondered if the healer actually needed to eat or if it was part of the charade. He was clearly capable of ingesting human food without throwing up or something, but that was all the demon could glean. He did seem pretty familiar with cooking, so maybe he was actually fine eating regular food.
+
+Down the hallway, the sound of footsteps approached. Callan soon stepped into view in solid form, and it amused Pyre to see that the ghost had purposely mussed up his hair a bit to look like he’d slept.
+
+“Mornin’,” the demon drawled. Callan opened his mouth to respond, only to freeze when he saw her.
+
+“What the hell happened?” he sputtered. Pyre followed his gaze and realized her entire left sleeve was missing from where the kelpie had chewed through it. Right. She’d forgotten about that part. Llyr’s cleaning spell wouldn’t do shit for something like this.
+
+“Kelpie,” the demon said bluntly.
+
+Callan opened his mouth, then closed it again. “…What?” he said weakly.
+
+“Ah, Callan, good morning.” Llyr smoothly stepped into the dining room, balancing plates of eggs and bread on his arms. He set them down on the table with a light clink, then smiled at the ghost. “You’re up early,” he commented.
+
+The ghost turned to the healer, clearly a bit taken aback by the sudden interruption. He shifted his weight. “Um, yeah, I usually wake up early.” More likely the ghost couldn’t stand to pretend like he was sleeping any longer.
+
+Frankly, if Pyre was an incorporeal ghost, she’d be roaming around all night snooping and shit, but Callan was apparently too polite for that. Or that book he’d been reading had been really good.
+
+“Good morning,” Callan continued. His eyes darted between Llyr, Pyre, and Pyre’s torn sleeve, trying to piece together what had happened last night and probably coming to the worst possible conclusions. Fortunately for him (and unfortunately for the demon’s growing amusement), Llyr chose that moment to step in.
+
+“A kelpie attacked the shore last night,” he said with perfect calm. He nodded at Pyre. “It was fortunate that Pyre was there to stop it.”
+
+Callan squinted at the demon. “You… stopped it.” His eyes, however, were saying: “Did you devour the kelpie and blow our cover.”
+
+“Yep.” Pyre pronounced the ‘p’ with a pop and raised her bare forearm for emphasis. “That’s how this happened.” She raised an eyebrow, her own gaze replying: “Wow kid you have no faith in me.”
+
+Before the ghost had a chance to respond, though, a familiar voice sounded.
+
+“There’s a rune on the inside of the coat collar. If you circle it three times, it should repair the rip.”
+
+All three heads turned to the hallway, where Daphne had appeared. The noble was wearing a fresh set of clothes and her bright red hair had been brushed through, but Pyre could see dark circles under her eyes. She stepped forward and took a seat at the table. It was obvious that she hadn’t slept well.
+
+Pyre lifted the collar of her coat and found that there was, indeed, a rune stitched there. She’d assumed it was decorative. She drew a circle around it three times with her finger as instructed, and the stitching began to glow. The light was mirrored by the torn end of her sleeve, and soon enough, the cloth extended outwards, repairing the damage until it looked as good as new.
+
+The demon raised an eyebrow. Huh. That was useful. Probably expensive, too, if the way Callan was squinting at the rune was any indication.
+
+“It’ll run out of magic at some point,” Daphne explained, “so try not to use it too much.” She picked up her fork, movements a little sluggish from lack of sleep. Llyr frowned.
+
+“Are you alright?” He sounded concerned. “You can rest longer, if you’d like. I’m in no rush.”
+
+Daphne shook her head emphatically. “No, I—” She paused and took a deep breath. “I’d rather get this over with as soon as possible.” She smiled wryly, stabbing her fork into some of the eggs. “I don’t think I could fall back asleep anyway.”
+
+Callan shot the other mage a worried look while Llyr nodded slowly. “Alright,” he said. “Once we’re done with breakfast, we can head to the infirmary.”
+
+The rest of the meal passed quickly after that.
+
+When they reached the infirmary, it looked noticeably different from before. Llyr had moved the water basin to the table, and the cots were pushed to the side of the room. This created enough extra space for the second glyph circle that had been drawn beside the original one.
+
+Llyr gestured for them to stand on one side of the room while he activated the glyph. Since he’d prepared it beforehand, it only took a few seconds for the lines to glow.
+
+Rising from the sketched runes, a translucent, pale blue wall formed from one side of the circle to the next. It rippled slightly, a few wisps of light dissipating around it, but it otherwise maintained a solid—albeit fluid—form.
+
+“This is a test barrier,” Llyr explained. “It’s flexible enough that it shouldn’t damage the soul, and it will react accordingly to movement.” He turned to Daphne then, who eyed the barrier with trepidation. “If you don’t mind, could you please fire a spell at it? Don’t hold back.”
+
+Pyre raised an eyebrow, the image of the sanctum exploding very prominent in her mind. “You sure about that, Doc?”
+
+“The goal of the barrier is to enable standard spellcasting while protecting the soul from further ichor contamination. If Daphne needs to restrain her magic to use it, then that would defeat the purpose,” Llyr explained.
+
+Daphne frowned. “So we just need to see if it’s strong enough to handle my magic,” she said slowly. The healer nodded.
+
+“Essentially, yes.”
+
+Daphne hummed at that, eyes narrowing as she focused on the barrier. Pyre suspected the mage was trying to figure out just how strong of a spell to test that wouldn’t cause too much damage to the room if the barrier failed.
+
+Callan, who’d been hunched over the glyph circle inspecting the runes, used the opportunity to quickly hurry out of the line of fire. He moved all the way back to the far wall, which seemed a little excessive to the demon, but the ghost was clearly intent on staying as far away from the incoming spell as possible.
+
+Taking a deep breath, Daphne faced the barrier and raised a hand. She glanced over at Llyr, who gave her an encouraging nod. After verifying that nothing was in the way, the tip of the mage’s finger began to glow.
+
+Daphne moved through a rapid series of gestures with pinpoint accuracy. At the end of the sequence, she pointed straight at the barrier and snapped her fingers.
+
+A blast of fire shot out, streaking forward and colliding with the translucent blue in a burst of sparks. The wispy substance curved inward at the impact, and for a second, it looked like it might hold.
+
+Then the fire burst through, the barrier dissipating behind it, and slammed into the wall.
+
+Daphne cursed, moving to check the damage, but Pyre was already striding towards the smoking, pitch-black scorch mark now decorating the opposite wall. She squinted at it, then tapped it a few times. It looked like it had only burned the surface.
+
+“Congratulations, the wall’s still standing.” The demon knocked against it again for emphasis. Daphne groaned and sat back on the cot, covering her face with her hands.
+
+“I’m sorry, I’ll pay for the repairs. I tried to limit the spell’s damage, but…” Her voice trailed, and she dropped her hands to her lap. Pyre didn’t think she’d ever seen the noble look so miserable before. Even when she’d found out about her uncle or her parents’ pact, there’d been as much anger as everything else.
+
+Llyr, on the other hand, was eyeing the scorch mark and destroyed barrier curiously. He didn’t seem the least bit concerned about the property damage. He probably wasn’t. The house didn’t actually belong to him, after all, and he had a million other rooms he could turn into infirmaries.
+
+“That was you holding back?” The healer sounded surprised.
+
+Daphne nodded with a sigh. “Yeah, it was. I… don’t think that barrier’s going to work.”
+
+“No, certainly not.” Llyr hummed, eyeing the glyphs with a frown. “To be frank, I’m not sure I have the ability to create a ward that can withstand your full magic power.
+
+The noble nodded stiffly. Her expression was blank, but Pyre saw her fingers clench, squeezing the cot’s sheets below her. “It’s fine, I’m grateful to you for trying.” She let out a dry laugh. “The price to pay for power, right? Guess I should be happy I at least got strong magic out of the poisoning,” she said, bitterness creeping into her tone.
+
+She was probably thinking about her conversation with Pax and the revelation of her parents’ crossroads deal. Despite the unexpected side effects, they technically had gotten what they’d wished for, and that fact seemed to weigh heavily on the mage.
+
+Llyr gave Daphne a long look. Slowly, he sat down on the cot as well.
+
+“I’m afraid I disagree with your assessment,” he said calmly. “While your lack of a soul barrier removes the upper limit on your spells, most mages would never be able to draw so much ichor to begin with.” He smiled wryly. “That’s not even mentioning their ability to control it. I can only imagine how hard you worked to develop your current level of skill.”
+
+Daphne slowly turned to the healer at that. A small smile grew on her face, but some of the frustrated tension still lingered in the set of her shoulders.
+
+“This was only the first attempt,” Llyr continued. “I will adjust the glyph and try again. I can’t promise that we’ll find a solution, but I do not plan on giving up so soon.”
+
+Something resembling hope flickered in Daphne’s eyes, and she nodded, gaze determined. The look suited the mage much more than the defeated one, Pyre thought.
+
+Crouched down by the glyph circle, Callan suddenly spoke up.
+
+“What if… What if it’s not a barrier?” His brows were furrowed as he scanned the runes. “What if the spell transported the ichor away instead?”
+
+Llyr’s brows furrowed. He rose to step over to the ghost. “What do you mean?”
+
+Callan’s eyes darted around nervously. “Well, I was thinking about that guy in the city and how he teleported away. So I started wondering, what if there was something like that around the soul? It would work like a portal. After the ichor is done being used, any excess would be pulled through the portal and dispelled somewhere else. Somewhere safe.”
+
+Daphne’s gaze sharpened. “And then it wouldn’t matter how strong the spell is, because the extra ichor would just go through the portal anyway,” she continued, realization dawning on her face. Callan nodded enthusiastically.
+
+“Exactly!” He turned to Llyr, anxious. “Is that—I mean, is something like that possible?”
+
+The healer looked between the two mages thoughtfully. “I believe so, yes. I’ll need to conduct a few tests to ensure that the portal wouldn’t harm the soul, but it would certainly fix the issues with a standard ward.” He smiled at the ghost. “It’s a brilliant idea.”
+
+Callan scratched his hair embarrassedly. “I guess it’s a good thing I ran into that tattooed guy,” he mumbled, not able to meet the healer’s gaze.
+
+“Could we start working on the spell now?” Daphne’s eyes were bright with energy. “I have a few ideas for glyphs.” Both she and Callan seemed eager to begin—excitable, even. Pyre remained leaning against the wall, casually observing the magic users in amusement.
+
+Llyr nodded. “Yes, of course.” He turned towards the cabinets. “Let me just—”
+
+Before he could finish, a muffled knock sounded from down the hall. Pyre’s eyes immediately moved in the direction of the front door. Daphne and Callan exchanged confused looks.
+
+The knock rang out again, this time much louder and more insistent. It sounded like someone was banging their fist on the door with as much strength as they could muster.
+
+Pyre stepped out of the infirmary. Here, she had a straight view to the closed door. Through her [Thermal Vision] eye, she could see a warmer splotch on the other side that looked humanoid in shape. The knocks came again—so strong that they rattled the door.
+
+“You expecting someone?” the demon asked. Llyr peered out of the infirmary with a frown.
+
+“No. Perhaps it’s a patient.” He turned back to Daphne and Callan, who’d both tensed, with an apologetic look. “Excuse me, I’ll be back in a moment.” Before they could respond to that, he stepped out of the room and strode down the hallway in smooth, even steps. Pyre followed about a foot behind the healer.
+
+The knock sounded again as Llyr reached the door. He began to unlock it, and Pyre raised an eyebrow.
+
+“You know, you should probably—”
+
+The demon didn’t get a chance to finish, though, because the moment the door cracked open, two hands shot out and grabbed the healer.

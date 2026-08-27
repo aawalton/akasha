@@ -1,0 +1,121 @@
+---
+id: 86b5bbb6-3a1a-5498-afda-a719b7463d6b
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 462 Meng Dan 1"
+slug: 0507-threads-chapter-462-meng-dan-1
+partOf: forge-of-destiny
+position: 507
+ownLength: 2085
+unit: words
+publishedAt: 2025-07-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2455680/threads-chapter-462-meng-dan-1"
+royalRoadId: "2455680"
+---
+
+"I have some thoughts on our next priorities, and the petition system is seeing some results. For now, I believe it best that Shenglu focus on its spiritual infrastructure,” Cai Renxiang decided. “Well-established shrine sites and rites will allow for more effective expansion planning, and with little mortal infrastructure already in place, it grants us flexibility in the establishment of norms. This avoids the costly and disruptive methods that come from trying to establish them after more expansion. While this prioritization is impossible for most barons given the material costs, there is no use in not making full use of the advantage my heir's allowance gives us."
+
+"Haha! It is indeed a great boon,” Gan Guangli praised. “The projects we are building out in a month or two would strain a new barony's yearly budget."
+
+"We will face scrutiny and scorn for waste if we continue in this manner without rapidly growing the settlement for too long,” Xia Lin warned, “but our accomplishments and the clear favor for southern expansion give us more leeway currently."
+
+"We can afford a little scrutiny,” Ling Qi interjected. “I am certain I can smooth concerns over for a long time to come, particularly if we perform well on the offensive against the ith. Success gives much allowance for eccentricity."
+
+"It does," Cai Renxiang agreed. "As our own cultivation grows, there will be less time available for projects like this. By the time we are all fourth realm, we will need to reassess. So, self-sufficiency will need to be addressed within a few years."
+
+Ling Qi smiled. It was good that Renxiang was confident in all of them..
+
+"Still, it is best not to let infrastructure lie fallow too long," Xia Lin insisted. "I will comb through the available volunteers and population for more stringent testing of cultivation talent. With our excess resources, we can spend somewhat more wastefully if it turns up a few additional talents to fill out the barracks. Right now, the Cai clan soldiers we are making use of are stretched thin between manning the settlement wall and conducting fief patrols. And not to put too fine a point on it, but there is a certain minimum of cultivators our lady must keep around her person for propriety's sake."
+
+"It is troublesome. I've little need for a personal retinue for security, but appearances must." Cai Renxiang drummed her fingers against her elbow. "I will approve some further investment in searching for new minor talents."
+
+"An excellent measure!" Gan Guangli enthused. "It will be another draw to those who might wish to come. There are always those who scramble for a place in the recruitment offices."
+
+"Come on down to Shenglu, and test yourself for cultivation! And hey, if ya fail, you can still wrestle giant catfish or chase floating sheep around!" Sixiang joked to her, and Ling Qi stifled a laugh.
+
+Ling Qi said, "That can't hurt either. However, I believe we are closing in on another checkpoint. It looks like the last one before we leave the Diao lands and cross over into the Bao, so I expect security to be even more tight."
+
+"Indeed," Cai Renxiang said. “Let us prepare ourselves for inspection. As the heir, I must present a good example to be followed."
+
+***​
+
+She was right. As obsequious and apologetic as the men and women manning the checkpoint were, it still took the better part of an hour before they were all fully cleared to pass into the slice of Bao land which separated the Diao's land from Xiangmen proper.
+
+Once they were through, it was not long before their carriage was rolling along at a good pace through the massive hills formed by Xiangmen's roots. With winter well on its way, the fields along the rolling slopes were fallow and black, rather than shimmering green, but the settlements among the roots remained a picturesque sight.
+
+Everywhere, she could see signs of celebrations. The colors of good fortune, reds and golds, were plentiful, and many places also displayed the butterfly banner of the Cai with its pure white backdrop. The lights of ongoing festivity shone from the holes in Xiangmen's trunk, and far, far overhead past the clouds, Ling Qi could see banners larger than the sails of ships or entire castles flying from the thin tips of the great tree's branches. From the clouds, soft light shone through as if from the heavens in countless colors.
+
+Then, they entered Xiangmen through the great gates nestled in the roots. Even in the rootways where the city’s poorest lived, the roofs overhead were bright with lights. Colorful lanterns hung from every porch and doorway, and she could see great feasting tables lining the squares they passed, filled with food and drink that was refilled as fast as it was taken. Hastily thrown together stages put on simple performances to entertain the crowds that gathered there.
+
+The luxury of the celebrations only grew as they wound their way up. All the city was in the throes of a great festival. The air thrummed and roared with it, a million souls and more freed of all labor to fill the streets with their joy and praise for the light above.
+
+The joy was not forced, or at least not much. To the inhabitants of the roots and the trunk, Cai Shenhua was a legendary existence, one who had freed them all from the nightmares their grandparents and great-grandparents had known and who had torn away the choking nightmare of corruption which the city had lived under for centuries uncounted to mortals.
+
+Ling Qi was reminded that it would be no easy task for Renxiang to surpass her mother in the way that she wished. Here and now, to defy Cai Shenhua was to defy the world.
+
+She could see by her liege’s expression when looking out at the thronging crowds that her liege was thinking similar thoughts.
+
+Cai Renxiang vowed, "This is why I will not do as she wishes. To tear all this down with sword and flame could never be a worthy act. Whatever was done to me pales in comparison to what she has done for the Emerald Seas."
+
+Those words left them all in contemplative silence as they rode along the final upward ramp leading out onto the branches of the cloud districts.
+
+Here, the displays surpassed mortal sensibility. The air shimmered and hummed with music, and images were projected onto the clouds. Colored lanterns billowed like flocks of birds, playing out music performed in halls far away through transference formations. Even the staid streets of the noblest houses shimmered with impossible color and movement, with animated paintings and frescoes mirroring the celebrations in the streets.
+
+The small, tidy manor left vacant for Cai Renxiang's use on her visits had had its melancholy buried under a fresh coat of radiant white walls and crimson shingles. It was strung with bright lanterns, and in the gardens around the manor, flowers of brightest, purest white bloomed.
+
+Outside it, they already had guests waiting.
+
+Meng Dan bowed low as they filed out of the carriage. In robes of pale green and light tan, and long hair falling in brown curls around his shoulders, he looked every inch the imperial scholar, save for the woven circlet of living wood on his brow holding back his hair.
+
+Thin twigs studded with budding flowers gave the mild suggestion of horns. The circlet wasn't as obvious and prominent as Meng Duyi's headdress in harking back to Tsu the Diviner, but Ling Qi wondered if there was some kind of internal signaling going on.
+
+With him were a handful of attendants in his house colors. Going by the markings and cuts of their clothes, they were a personal retinue from the Meng's household clans.
+
+"Lady Cai Renxiang, it is my honor to receive you here and to have been allowed to prepare your guesthouse for your stay. Through me, the Meng clan offers our deepest gratitude for the understanding and conciliation of the great Cai clan."
+
+Now, that was laying it on thick, Ling Qi thought as she fanned out to stand to Renxiang's left, while Gan Guangli and Xia Lin took up positions to her right. Meng Dan was bent almost parallel to the ground, and his attendants were all the way down in full kowtow upon the cobblestones leading to the manor’s door.
+
+"Raise your head, Meng Dan. The scions of the Western Fen need not lower their heads so far as that."
+
+"The generosity of the Cai clan is without match." Meng Dan gestured, and his attendants rose to their feet but remained in low bows. He himself straightened up, merely lowering his head, a much more normal posture for a comital scion greeting their liege's heir. "Will you allow me to show you in then? I have arranged the household for your stay."
+
+"Do so. There is much to discuss."
+
+"There is. The Meng clan must express their gratitude in more concrete terms." Meng Dan turned and gestured for them to follow.
+
+"Hoo, boy. You can tell they're still nervous as spooked cats, huh?" Sixiang whispered.
+
+Meng Dan might not be. She could see he was calm beneath the obsequious exterior, but the people he was representing, the faction of his family who had escaped reprisals for the treachery of their elder… Well, she couldn't blame them for their anxiety.
+
+Not when they had seen a visit from the Duchess, the Tyrant of Radiance, direct and in person.
+
+They were led inside. There was no bustle or franticness from the well prepared servants. The spread of food and drink on the table of the dining halls was scarce, but she could smell the expert brewing of the tea and the quality of the small dishes set out for their enjoyment.
+
+"The stewardship has been in good hands," Cai Renxiang commented.
+
+"I am pleased you think so," Meng Dan replied, allowing them all to sit.
+
+Ling Qi strode forward to take a seat, sending an encouraging smile on her way past. She knew what was coming. For all the theater around it, this display had been roughly planned out in correspondence for some time. It was like a stage play for the servants, who would then go out and whisper words of what happened when they slipped away to their own festivities.
+
+"Sir Meng,” Cai Renxiang intoned, “I see the strain these past months have put upon you, and know that the Meng wish to cleanse any remaining taint from their name. Speak the words I can see you holding back."
+
+Meng Dan's smile widened, eyes twinkling in amusement behind his glasses. "Of course. I would not dare waste Lady Cai's time. The Meng clan would offer one of our own to your direct service, to be used as you will, for whatever task or role you might require. As you might guess, I have volunteered myself for this role. I can only hope my past merits can make up for this pride on my part."
+
+"Your aid in deciphering the old texts, and in seeing the exposure of the plot among your treacherous kin, is more than enough merit for such an offer. "
+
+"I don't believe I could think of a Meng better suited to working in our circle," Ling Qi complimented.
+
+Sixiang snickered privately. "Cause you barely know any unless you wanna invite that old uncle."
+
+There was no need to get hung up with the details.
+
+"Some would say it is a poor way to reward loyal vassals to elevate the scion of those who must earn back the Duchess' trust." Xia Lin glowered, playing her part with admirable sincerity.
+
+"It is true, and yet, Meng Dan cannot be counted suspicious, for his own actions aided us in overcoming the plot. Indeed, to reward such virtue in putting province over clan is only just!" Gan Guangli praised.
+
+Meng Dan's smile grew brittle for that, though he hid it well.
+
+Meng Dan bowed his head again. "For the sake of my Meng clan and the Emerald Seas alike, I can only make this offer. Both are dear to me, and I would see any estrangement between them healed, that my family may restore its historic honor."
+
+Cai Renxiang regarded him silently for the appropriate length of time to seem judicious, for all that the decision was long made.
+
+"I say again, Sir Meng, raise your head. You are welcome among my entourage."

@@ -1,0 +1,181 @@
+---
+id: d0a03a64-1dbd-5e0c-8cd5-131de4dd7d06
+page-type-slug: story-chapter-royal-road
+title: "Threads 184-Return 3"
+slug: 0216-threads-184-return-3
+partOf: forge-of-destiny
+position: 216
+ownLength: 2614
+unit: words
+publishedAt: 2022-02-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/843093/threads-184-return-3"
+royalRoadId: "843093"
+---
+
+“I’d thought of trying to convince you to come, but I never thought you’d seek it out.” Ling Qi’s voice rang out sourcelessly from the churning mist in the ruined cavern
+
+“And why not? I have every right to attend the gatherings of my peers,” Meizhen said imperiously. She stood upon a raised platform of stone, surrounded by clear air. Where tendrils of mist crept into her sphere, it grew dark and heavy, drizzling to the ground in fat droplets of rain to join the rippling pond of black water that had formed around her.
+
+“I didn’t think you thought them peers,” Ling Qi’s echoing voice admitted. The mist shifted and rang with a cold aria. Ice spread across the black pond as freezing wind whipped the air.
+
+Ribbons of metal flashed and skirled, and the flexible blades captured the wind, guiding it to the ground where the pond erupted into an expanding line of spiky ice. A twitch of Meizhen’s wrist sent the ribbons out, hissing like serpents as they punched holes in the mist, tearing apart shadowy phantoms. “There is no harm in being polite.”
+
+“You’ve changed,” Ling Qi observed. She laughed, and her laughter became a hoarfrost wind, closing from all sides.
+
+“I would hope so,” her friend retorted before she disappeared behind the snow and hail conjured by Ling Qi’s song.
+
+The mist rippled and withdrew as Ling Qi landed on the uneven ground in a crouch, eyeing the blossom of crystal ice which had formed in the center. She barely had time to blink before the first cracks formed.
+
+“I would be a failure of a cultivator if I had not,” Meizhen said as the ice shattered, scattering from her. Frost and slush clung briefly to the hems of her gown as she stepped down onto the gleaming black ice. “The power behind your techniques has improved. If the potency of your art was higher, it would have broken my passive defences.”
+
+Ling Qi nodded as she rose to her full height. The Frozen Soul Serenade, the art taught to her by Zeqing, was beginning to fall behind as she rose through the stages of the green realm. But she was not yet ready to truly make it her own and develop her own version. She still felt some trepidation at the idea. There was a difference between tweaking a basic art from the archive and trying to make something equal to Zeqing’s song.
+
+“You have me at a disadvantage like usual.” Ling Qi sighed. She could feel Sixiang all but rolling their eyes. “Why did you ask that way instead of talking to me?”
+
+Meizhen cocked an eyebrow, resting her hand on her hip where the sash gifted to her by Bao Qingling rippled with toxic qi. “You were unavailable.”
+
+Ling Qi gave her a dead-eyed look, unimpressed by the excuse.
+
+Meizhen smiled thinly. “You have described him well enough. A request from one of my stature put him in a good, malleable mood once he got over the initial alarm, did it not?”
+
+“Don’t put it like that.” Ling Qi grimaced. “But yes, it did make him happy.”
+
+“Whatever your preferred terminology is,” Meizhen said flippantly.
+
+“You have changed,” Ling Qi repeated. Meizhen had always had an unshakeable confidence in her public persona, but it had deepened over the past months. In a way, Ling Qi was jealous. She still felt as if she were faking her own poise at times.
+
+“For the better, naturally,” Meizhen agreed, stepping up onto solid stone once more.
+
+“Yeah, who knew a few kisses could accomplish so much, or have you gone further than that?” Ling Qi asked idly, her lips twitching up into a smirk.
+
+Meizhen spluttered, color rising in her pale cheeks. “Do not just say things like that, you vulgar girl!”
+
+Sixiang snickered along with her, but Ling Qi raised her head in surrender as Meizhen began to glare. “Sorry, Meizhen. Someone has to tease you though, and unfortunately, I can’t rely on Lady Cai for that.”
+
+Meizhen made a wordless grumble, giving her a look that promised vengeance. Ling Qi resigned herself to being embarrassed in the future. The vengeance of a Bai was unstoppable after all.
+
+“I can sense when I am being made light of,” Meizhen warned.
+
+“I would never,” Ling Qi said, giving a mocking bow. “Really though, Meizhen, how have you been?”
+
+The other girl pursed her lips. “In all honesty, I have been frustrated. I understand why I am not deployed, but I am beginning to find it stifling. Particularly when I am the only one.”
+
+Ling Qi dipped her head in acknowledgement. It went without saying that the comparison was the only one out of the people Bai Meizhen concerned herself with.
+
+“But my growth has been good,” Bai Meizhen said. “I will not be far behind Qingling in achieving the sixth stage. However, beyond that, Ling Qi, can you tell me what has happened to Cai Renxiang?”
+
+“We have accepted a heavy responsibility,” Ling Qi replied.
+
+“That would explain a certain level of stress, but I am certain you know that is not what I am talking about,” Bai Meizhen said.
+
+Ling Qi considered the encounter on the mountainside, Liming, and the conversation they had earlier this month. “It is something only Lady Renxiang has the right to share. Please continue as you always do around her. She won’t appreciate anything else, I think.”
+
+Meizhen crossed her arms, and although frustration passed over her features, she gave a single nod. “Very well. It was somewhat rude of me to ask.”
+
+“It’s not rude to be concerned about a friend,” Ling Qi disagreed. “But I guess I should ask, what do you think of what we’re doing?”
+
+Meizhen paused, glancing back at the frozen pond and scattered ice. “I worry for both of you. I worry that you are pushing too fast and trusting too quickly. I can’t imagine my family looking upon this matter with approval.”
+
+Ling Qi lowered her head. She had expected that.
+
+“This is why I expect you to be invited to speak with us, come the tournament,” Meizhen finished, and Ling Qi looked up in surprise.
+
+“Well, Lady Cai will be invited. You will no doubt attend as her retainer,” Meizhen acknowledged. “While my aunt will be busy, representatives from among her supporters will come, both for Xiao Fen’s sake and to maintain the connection with the Duchess.”
+
+“Oh,” Ling Qi said nervously. “Will they be ill disposed towards us, do you think?”
+
+Meizhen was quiet for an uncomfortably long time. “... They will be the friendliest audience you can expect among my family.”
+
+“That doesn’t give me any confidence at all,” Ling Qi groused.
+
+“I hope to give you and Cai Renxiang both a degree of coaching.” Bai Meizhen ignored her words. “Do you think your schedules will allow it?”
+
+“I already asked Xuan Shi to clear his schedule over the next few days. And I have a meeting with Bao Qian this month.” Ling Qi chewed her lip. She needed to clear time for Zhengui too, although that could be done in the evening and early morning. “But yes, please, and thank you. I am sure Lady Cai will say the same.”
+
+“Then it seems, we will be seeing one another more often, Qi,” Meizhen said, smiling slightly.
+
+“That is a silver lining,” Ling Qi said, smiling back.
+
+***
+
+Looking up at the polished stone door which bore Li Suyin’s name on its replaceable placard, Ling Qi considered her own surprise. She had introduced Xuan Shi to her friend, but she hadn’t expected to be invited here to meet him. Raising her hand to knock, she blinked as the door creaked open on its own. Her eyes flicked up to the strands of pale white webbing attached to the upper part of the door.
+
+Shrugging, she stepped inside, tracing the vibrating lines that traversed through the lacey cloud of cobweb which shrouded the ceiling, feeling the echo of [communication] and [alertness] embedded in the silk.
+
+<Yep, perfectly normal answering system. No need to spare it a thought,> Sixiang whispered in amusement.
+
+The door drifted shut behind her with a faint, eerie creak. Li Suyin was really dedicated to her theme, wasn’t she? Walking deeper into the entry room, unconcerned, Ling Qi caught the movement deeper in the hall as the floor ground open.
+
+“Welcome, Ling Qi! I’m so glad that your journey went well!” Li Suyin said, beaming up at her from her seat on the back of the pony-sized white spider which had evidently carried her up the hidden tunnel in the floor.
+
+“Well, I hardly wanted to let everyone down,” Ling Qi replied. She met the jeweled eyes of the construct staring blankly up at her from beneath the lip of the tunnel. It was definitely a construct rather than a living spider. “You look well, Suyin. I hope you’re not letting your exercise slip, riding about like that though.”
+
+Li Suyin pouted at her, an expression much at odds with her dress and surroundings. “Ling Qi, it’s not kind to lead with things like that when you return from a trip.”
+
+“Sorry.” Ling Qi laughed. “I’m glad to see you, Suyin. How have things been?”
+
+“Very well,” Li Suyin said cheerfully. “Oh, do hop on. Xuan Shi is down in the testing chambers with Su Ling.”
+
+“Really?” Ling Qi asked as she circled the construct, eyeing the saddle bolted to its back. After a moment, she reappeared behind Li Suyin, letting her legs dangle off the side. It was a little snug being pressed against the shorter girl’s back, but she wasn’t quite as bad about that kind of thing as she had once been.
+
+<Not even gonna joke. Progress is progress,> Sixiang thought sagely.
+
+“Yes, I wouldn’t have imagined them getting along either,” Li Suyin agreed as their mount shuddered to life and began to skitter downward. The tunnel entrance slid shut behind them as the spider descended into the dark. “Oh, watch your head. The tunnels are a bit snug.”
+
+Ling Qi stared at the back of her friend's head, wondering if she was being teased in turn. Li Suyin glanced over her own shoulder, humor sparkling in her one eye.
+
+With much dignity, Ling Qi ignored it, peering instead at the winding tunnel descending into the earth. “Why do you put so much work into these temporary homes anyway?”
+
+“Practice for when I decide on something more permanent,” Li Suyin said cheerfully. “Why are you seeking out Sir Xuan?”
+
+“I’m going to share an interesting site with him,” Ling Qi said. “Hopefully, it can provide some balance to the favors I owe him.”
+
+“I do not think Sir Xuan really concerns himself with debts,” Li Suyin said thoughtfully as their ride skittered around a corner, descending toward a faint light. “He can be hard to understand, but he’s very generous.”
+
+Probably too much so, Ling Qi privately mused. Given her insights, she felt a niggling sense of shame for how many times she’d asked for his aid. Before she could respond though, she heard a sound echoing up from below.
+
+“Ugh. How is this time shit so hard?” Su Ling’s voice, tired and full of frustration, reached up the passage.
+
+“The Eldest does not deign care for us as our other divine siblings do.” She heard Xuan Shi next, patient and calm.
+
+“You’re gonna have to expand on that.” Su Ling snorted.
+
+Ling Qi shared a glance with Suyin, who mouthed back “shared project” as they approached the closed latch that would lead into the lower workshop.
+
+“Time is the Eldest, the weapon with which the Nameless wreaked vengeance for their children and introduced their siblings to death,” Xuan Shi explained. “Carved from Mother’s rib and tempered with Father’s blood, they are immutable and unknowable, the first and the last weapon. Their secrets were never shared with the mortal children. To play in their yard, we must develop understanding without tutelage.”
+
+“No shortcuts built into the sacred characters, huh? No wonder this is such a pain.” Su Ling paused. “Ling Qi and Li Suyin are here.”
+
+The stone trapdoor ground open, and the two of them emerged high on the wall. The workshop they found themselves in was at once orderly and cluttered. On three sides were wide tables and workbenches filled with alchemical equipment and the tools of other trades, and above them were carved cabinets of tiny drawers carved with meticulous labels. In the center of the room was a table which currently held a scattered pile of ceramic tokens and the shattered remnants thereof. Su Ling, etching tool in hand, stood over a table covered with ink, brushes, and papers crowded with swarms of characters and numbers which Ling Qi found her eyes sliding off of.
+
+Su Ling didn’t look much different from when last she had seen her, except that her tangled bushy hair was tied back inelegantly and a pair of half moon spectacles were perched on her nose. A half dozen lenses of varying thickness and tint hovered in front of one eye.
+
+Ling Qi started to smile. Su Ling glared at her.
+
+“Shut it, you. It’s a damn good perception talisman for fiddly work.”
+
+“I wasn’t going to say anything,” Ling Qi said airly, hopping down from spiderback to drift to the floor like a leaf.
+
+“Greetings, Miss Ling,” Xuan Shi said. He was dressed in thick green and black robes as per usual, but Ling Qi noticed that his hands were both encased in blocky metal gauntlets painted a drab gray that contrasted with the differently colored jewels adorning the knuckles. “Miss Li.”
+
+“Thank you, Sir Xuan. I gather the project isn’t going well?” Li Suyin asked, waiting for her mount to reach the floor before sliding elegantly off.
+
+“I’ve picked up what he has to teach. I’m figuring out the personalized bits now,” Su Ling grumbled. She glared down at the shattered token in the center of the table as if it had personally offended her.
+
+“Miss Su learns quickly,” Xuan Shi complimented, dipping his wide hat in her direction.
+
+“You don’t gotta spare my feelings,” Su Ling retorted. “That tutor made sure I understood that I’m a no talent klutz with this delicate shit. I just know the value of banging my head against a problem till it breaks.”
+
+“What are you working on anyway?” Ling Qi asked. Peering down at the table, she understood… maybe a quarter of what she saw there. Some kind of boundary enhancing formation?
+
+“I want something that can fix me and my surroundings in place,” Su Ling said. “After that trip underground, I’m pretty sick of getting jerked around by weird space labyrinths and dream nonsense.”
+
+<No fun at all, that girl,> Sixiang huffed.
+
+“What does that have to do with time arts?” Ling Qi asked, tilting her head in confusion.
+
+“A coin has two sides, but remains as one. So is the way of space and time. Although one face of the coin is more mysterious than the other,” Xuan Shi said, slowly standing up from the bench he had been seated on. The ring-headed staff leaning against the wall beside him rattled and jingled as it shook and then leapt to his hand. “Miss Su, this one humbly begs his leave.”
+
+“Yeah, yeah, have fun getting dragged into some nonsense by Miss Chaos over here,” Su Ling said dismissively. “I’ll have the basic part figured out by the time you come around next week.”
+
+“Do enjoy yourselves,” Li Suyin said, bowing her head. “You are both welcome back any time.”

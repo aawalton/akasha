@@ -1,0 +1,125 @@
+---
+id: 854da013-c586-50b2-8061-4025c80a5b5f
+page-type-slug: story-chapter-royal-road
+title: "Threads 425-Shenglu 4"
+slug: 0469-threads-425-shenglu-4
+partOf: forge-of-destiny
+position: 469
+ownLength: 1483
+unit: words
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2027533/threads-425-shenglu-4"
+royalRoadId: "2027533"
+---
+
+Whispering Thoughts. Soul Shield. Kin?
+
+"They are." Ling Qi smoothed the now glittering silks and watched the snow embroidery move like a living panorama over black silk. She could feel her bond with her gown spirit settling back into place, a firm connection, but more complex now. It was the difference between a single spun cord and a braided rope.
+
+Her link with her gown went down into the foundations of her dantian where a cord of energy that glittered with an adamant white thread had anchored deep in her cultivation. It had anchored to the concepts she had been cultivating to build her nascent domain.
+
+It was power.
+
+Threads, the cord binding her dress into the system of her qi, instinctively sought the flows which circulated with her meditations on the nature of power. It made sense. Her dress, the most powerful talisman she owned even now, had always filled her with a sense of security. It was armor fit to turn aside blades and blows and to deflect fire or lightning. In it, she was always prepared for a fight. And if needed, it was her wings, which could carry her away from any threat.
+
+Reality was never so absolute, but for her time in the outer and inner sect, that was the feeling that wearing this dress had given her. So, she understood how those ideas would resonate. Choice, and its corresponding concept, agency, was rooted in power.
+
+Gu Xiulan, her friend, had been the one to force her to see that appearance was another weapon in one’s arsenal. The way she chose to appear was an act of communication. And in changing how she was perceived, she opened or closed doors. This, too, was an act rooted in power.
+
+She really needed to write another letter to the other girl. She was aware there was some kind of disruption going on in the Golden Fields, but she was still worried about the gap in correspondence.
+
+Secure. Secure.
+
+Her gown’s communication was almost like a cat's purring. The most outlandish affects of her outfit shrunk. Her sleeves shrunk, becoming less dramatically swooping, and her heels—thankfully— sank back to the floor. She really didn't need to be any taller, but a nice pair of high boots would not go amiss when they were outside or if she were flying. After all, she need not flash her ankles at all and sundry either.
+
+Snug!
+
+The wings on her mantle fluttered, and the lights in her room wobbled and twitched in alignment, casting her shadow long against the wall.
+
+Ling Qi sighed, rubbing her fingers together through the supple satin gloves still covering her hands. They were rather comfy, and the faintly chiming, jeweled bell charms hanging from the delicate silver chain wrapped around her left hand fit over them nicely.
+
+Happy!
+
+She could indulge a little.
+
+Ribbons? Ornament?
+
+She felt the fabric around her shoulders twitching, strips of fabric reaching for her hair.
+
+"Later," Ling Qi said firmly.
+
+Later!
+
+Having a voice in her head was going to take a little getting used to again.
+
+***
+
+Descending from the floor which held everyone's personal chambers at both a more sedate pace and a more mortal route, Ling Qi was bemused to see the staff near the meeting room still so on edge. Here, she had an occasion to apologize and sooth startled nerves. There was no looming emergency nor sudden news of an incoming raid, and their visitor was not some highly placed inspector who needed to be satisfied. Bemusement became sheepish as she realized the scale of the alarm and rumors she had sent rippling out with her rush to her rooms.
+
+But her quick passage was not the sole reason for the wide area of avoidance around the meeting room.
+
+"Our honored guest Sir Lin asked not to be disturbed, and the sensation emerged from the chamber… No one has dared check in further," said a man who she was quite sure was the manor's majordomo under Renxiang, and whose name she really should learn. He wore simple white robes lined in the Cai's crimson, and he bowed to her with exacting precision, awaiting her response.
+
+Ling Qi observed the dense dark qi which shrouded the room like a bubble, containing the rose gold dawn that was Lin Hai almost completely. Her teacher was very forward, and not a little inconsiderate.
+
+"I will take care of all matters of hospitality here. The other guest is merely our other security, provided by the Duchess, greeting their brother disciple," Ling Qi replied. "If Lady Cai has not already been informed…"
+
+"She is touring the preliminary construction by the lakeside," the man inserted helpfully into the pause she left.
+
+"Then do send her a messenger informing her that her mother's disciples are present for a visit," Ling Qi finished.
+
+"Thank you, Baroness Ling. This humble servant shall convey your words to the staff and to our lady."
+
+Ling Qi could tell that the majordomo was somewhat annoyed with her for her mad dash through the manor, but he was far too professional to let it appear on his face or in his posture.
+
+"Thank you for your prompt corralling of the rumors. Now, I will attend to our guests. Please convey my well wishes to the staff."
+
+It wasn't done to outright apologize to the staff, at least not ones whose relationship to her was impersonal, but there were ways to convey the intent through the web of imperial etiquette.
+
+He bowed once more and left her to it.
+
+Ling Qi opened the meeting room door and stepped inside.
+
+Shu Yue sat across from Lin Hai at the table, looking more human than they had at any point since the party they had been introduced at. The strange proportions of their limbs and the jagged spidery joints they had shown before were nowhere to be seen. Instead, their pale white face was an oval in a sea of black hair and robes that would nonetheless properly fit an extremely tall person.
+
+Although their hands were still very spidery and their fingers long, they were firmly clasped around Lin Hai's hand as they spoke and laughed together over the modest meal served to them before he had apparently dismissed the staff. Naturally, she could not hear a single word of it given the potency of their screening techniques.
+
+One of Shu Yue's eyes rolled in its socket like that of a lizard and flicked toward her. The silence of the room dispersed. At that, Lin Hai blinked, looking up as well.
+
+"Ah! I do apologize, Miss Ling. I was too engrossed to notice your arrival. I see the fit is quite good! I was somewhat concerned that I had not taken your measurements since your healing.”
+
+"I won't be shaped by such flames, not more than I can avoid," Ling Qi said.
+
+"A tempering cannot be avoided, but the flame cannot bring forth what is not in the ore." Shu Yue unwound their fingers from around Lin Hai's hand as they turned to face her. "It is good that you are healing well."
+
+"Thank you, Shu Yue," Ling Qi said. "I do wish that you had announced yourself. The staff outside were frightened."
+
+Or not allowed themself to be felt at all, was the silent addendum.
+
+For the first time, Ling Qi saw a sheepish expression on Shu Yu's face. Long fingers scratched at their pallid cheek. "Ah."
+
+Lin Hai chuckled warmly, leaning over and patting them on the shoulder. "My fault as well, friend. I should have warned you that your control was loose. It was such a pleasure to see you again that it slipped my mind. Let us elders apologize to the young miss for the inconvenience."
+
+He smiled up at her while his eyes darted along the contours of her gown, obviously measuring the spiritual fit.
+
+"I will accept it, on my behalf and Lady Cai's. And I thank you for your fine work. She is amazing.”
+
+"So, she did fully awake when you put her on. I suspected she would, but the moment can never be fully certain. A happy birthday indeed!"
+
+Ling Qi smiled. It was strange to think of it like that.
+
+"Have you tried her alternate mode?"
+
+Ling Qi blinked. "Her what?"
+
+“Her alternative mode,” Lin Hai repeated. “Well, you could say it is a battle mode, but I find that uncouth."
+
+Ling Qi’s eyebrows raised. She looked down at her gown.
+
+Lin Hai leaned forward over the table eagerly. "Just awaken your domain. She should follow along."
+
+Her dress rustled cheerfully.
+
+Ling Qi breathed out, and mindful of the staff, she did not let her qi spill out too far. Mist drifted from beneath the hem of her gown, crawling along the floor and shrouding her hands in soft, cool gray clouds.
+
+Her dress changed.

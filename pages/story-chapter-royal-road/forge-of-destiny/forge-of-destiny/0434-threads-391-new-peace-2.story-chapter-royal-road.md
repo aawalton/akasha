@@ -1,0 +1,133 @@
+---
+id: 862e69cd-85d1-54f1-9c54-cc4bc8d3ac65
+page-type-slug: story-chapter-royal-road
+title: "Threads 391 New Peace 2"
+slug: 0434-threads-391-new-peace-2
+partOf: forge-of-destiny
+position: 434
+ownLength: 1674
+unit: words
+publishedAt: 2024-07-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1723010/threads-391-new-peace-2"
+royalRoadId: "1723010"
+---
+
+"I would like to raise one final motion before we begin drafting the final treaty," Ling Qi said. "A great many people, many of them quite distinguished, shall be stationed and living here in the long term. They will bring with them their retinues and staff, who will bring their own hangers-on. I believe it would be irresponsible to not see this place granted the charter of a proper town under Her Grace's direct rule rather than trying to run such an extensive settlement as a mere military outpost, which would be terribly inefficient."
+
+Cai Renxiang gave her a look out of the corner of her eye at those final words, but she swiftly launched into an agreement. "My retainer is correct. The simple weight of the nobility and professionals gathered here demands proper infrastructure and law."
+
+"I can see it," Wang Lian grunted. "It'll happen on its own with those following a trail of opportunity. Best get ahead of it."
+
+"And it can be prevented by strict regulation of who and what is authorized to be stationed here," Xia Ren said bluntly. "I do see that this shall not be a primarily military staging ground. There is no purpose in attempting to force it to be so now."
+
+"All frontier settlement is dangerous. Those bold individuals who chose it regardless are to be commended," Jia Shu said.
+
+"You are putting many in harm's way here," Cao Chun said, looking at her with calculation. "But that is true of any settlement. Of course you mean to do this in tandem with the southerners."
+
+"We have spoken of similar matters," Jaromila said. "With the construction of a complete temple and the infrastructure to support it, it would be insulting to the Weeping Sentinel for this place to not also be sanctified as a proper holdfast. I am sure we will need to more exactly define our peoples’ interactions."
+
+Cao Chun snorted and gave Ling Qi an irritated look. "We will."
+
+"Naturally," Ling Qi said, concealing her glee. "We cannot allow interactions to become disordered. However, even with a close proximity, I believe we may continue to develop this relationship as good neighbors."
+
+Dzintara looked almost as sour as Cao Chun. "We find it a difficult notion but we cannot ask so many to leave civilization behind entirely and be wholly beholden to foreign support."
+
+Although there was some minor murmuring, most of the White sky were merely speaking slowly about plans, and some among the priests even looked quite happy. She glanced over at Jaromila, who looked quite pleased with herself.
+
+Handled internally indeed.
+
+"It will be a most intriguing project, aligning our methods and defenses and crafting a lasting equilibrium at this test site," Inzha said mildly. "The scholars of the west look forward to its solution. My husband and I intend to remain and oversee it."
+
+Rostam chuckled. "Should be a pleasant way to spend a decade or two, eh?"
+
+"We ourselves may be able to offer further expertise in the future. There will be much more time for all of the details to be worked out carefully on this project after all," Ling Qi said, thinking of her promise from Han Jian to see about any interest from his clan's renowned geomancy specialists.
+
+"If this is to be done, let it be done properly," Cao Chun said dully. "While this remains a matter for the Emerald Seas, the empress' eyes will be on this place for the security of the empire."
+
+That was most likely as close to an endorsement as it was possible to get from the Ministry of Integrity.
+
+"One issue remains which frustrates me. I have not yet seen any input from your central authority, not even the presence of an observer such as myself," Cao Chun said. "How are we to know that the agreement made here will not simply be overruled when their attention turns this way?"
+
+His statement cooled the atmosphere that had been beginning to rise.
+
+None on the White Sky looked particularly happy at his statement.
+
+Dzintara merely snorted. "They have no authority to do so. Perhaps if my own Twisted Pines and the eastern badlands also voiced disapproval, but by themselves? Merely trying would unite the rest of us against such a motion in the great althing."
+
+Jaromila shot the other woman a quelling look. "We honor the heroes of the Glittering City and the Defenders of the Polar Gates. They have their privileges, but to supersede us on this matter is not one of them. Perhaps if the Hierophant chose to speak against it… but if the will of the gods was so against this summit, it would not have reached this point. I do not know the limits of authority of your empress and her land of the Celestial Peaks, but I speak truly when I say the Glittering City cannot do this."
+
+Cao Chun scrutinized the woman across from him before his eyes flicked over the rest of those on the White Sky, who were united in their show of affront at the idea. His expression smoothed, and he looked thoughtful.
+
+Ling Qi wondered whether he was giving the words she had spoken to him more weight or merely contemplating the weakness this presented among them. She did not think it was quite so simple and clean as Jaromila presented it. Given the tale the other woman had spun of her parents and the family her mother had broken from, the great clans of their center could certainly exert force on the provinces. However, she did believe that Jaromila was correct in that they could not be so crass and high handed as to openly annul this deal.
+
+"Very well then," Cao Chun said. "I have no further issues."
+
+"Are there any other matters which any of you would see raised?" Cai Renxiang scanned the table, meeting each person’s eyes in turn on both sides.
+
+"Mere minutiae," Wang Lian dismissed. "To be decided in the drafting."
+
+"The Luo are satisfied. Both parties have enough weight upon this agreement to act in good faith," Luo Jie said.
+
+There were words from the others, some terse, some proud, and some grudging, but none in disagreement.
+
+"I will ask the same,” Jaromila said. “Raise your voices here and now if you consider this council incomplete."
+
+Ling Qi observed a beatific smile from Inzha and a lightening of Dzintara's frown. There were a few whispers among the priests and some grumbles from a few, quelled by the rap of an old woman’s cane against the floor.
+
+"Then let us prepare for the drafting of the final document," Cai Renxiang proclaimed.
+
+Oh yes, despite everything, the aches and twinges, the weakness in her limbs, and the dull and sluggish qi, through pain and struggle, she had grasped the treasure at the end of the path.
+
+They had won.
+
+"Will this place need a name if it is to be a town?" Rostam mused. "There is a poetry to giving it the same name as the treaty, I think. Makes it… real."
+
+"Hoh, a good proposal!" Gan Guangli agreed.
+
+"A name which sounds well in both tongues, I would think," Luo Jie said.
+
+Ling Qi thought as a whisper of discussion began. A name? Something auspicious, of course, but it should also be memorable…
+
+Ling Qi met Cai Renxiang’s eyes as her liege fixed her with a simple, flat look. Ling Qi frowned. Cai Renxiang did not blink. Ling Qi sighed, lowering her eyes.
+
+Honestly. She wasn't going to suggest anything truly silly. Not here, surrounded by so many relative strangers, and in a setting like this. She just couldn't help what had flitted through her mind. Tsudica… Maybe there was still something a little cooked in her head. As if she would want to offend near every person here by carelessly mashing together the names of their venerated ancestors.
+
+It wasn't even a pun!
+
+"Some combination of wood and iron?" Wang Lian suggested.
+
+"Prosaic," Jia Shu dismissed. "Perhaps something with a character for 'gate,' representing the passage here. What does the south call the mountains of the Wall?"
+
+"These peaks are the Great Shield," Rostam answered.
+
+"There is some variation depending on the region," Inzha said. "I suppose that is close enough to 'Wall.' So perhaps, hm, 'Greengates'?"
+
+"A strange name for a treaty,” Dzintara grunted. “A name more auspicious to the gods would be better."
+
+Ling Qi pondered that suggestion as the conversation rose and fell.
+
+"Xin'an," Ling Qi said, raising her voice above the others.
+
+"That would be 'New Peace'?" Jaromila asked.
+
+"Or is it ‘Peace of Heart’?" Rostam wondered. "Either way, it’s poetic."
+
+Cai Renxiang squinted at her. It was very unbecoming. Wordplay was a fine art. Both of those meanings would be accurate depending on the tone, and both were auspicious names.
+
+Cao Chun was squinting at her too. Luckily, it was brief, and conversation kept anyone from paying it much mind.
+
+Rostam gave her a thoughtful look. "Easy to match. Novomirskiy?"
+
+"This is hardly a 'new world,’" Dzintara said, unimpressed.
+
+"But it is a new peace, and I do not think the other meaning is inaccurate."
+
+"Nýr friðr fits as well. The meaning is good across all tongues, and appropriate as well." Jaromila nodded briefly to the old woman Ling Qi had glimpsed among their priests once or twice.
+
+Those words carried some connotation of the New Moon, too. Given Xuan Shi's chick and the effect it had had on the relations with the White Sky, it was not inappropriate at all.
+
+"Mm, suppose we can’t be certain of any particular industry yet," Wang Lian said. "Xin'an works well enough. As long as it isn't ill fated, there's no use arguing over the name too much."
+
+"Is there any dissatisfaction with that name?" Cai Renxiang asked.
+
+There were a few more suggestions and a bit of quibbling, but soon, the name was accepted and written across the first draft being scribed on the table. The Xin'an Treaties were well underway.

@@ -1,0 +1,237 @@
+---
+id: be6ebcc5-d62b-5496-bfba-abcbe514669c
+page-type-slug: story-chapter-royal-road
+title: "7. Meeting Destiny"
+slug: 0007-7-meeting-destiny
+partOf: god-of-trash
+position: 7
+ownLength: 3626
+unit: words
+publishedAt: 2025-03-01
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2097601/7-meeting-destiny"
+royalRoadId: "2097601"
+---
+
+Rhys led the way, not toward the tournament or the empty field nearby where they’d encountered Straw before, but to the nearest stable. He crossed his arms and looked at the hay piled in the corner. “You can hear me, can’t you?”
+
+Bast raised his brows, but said nothing. By now, he knew better than to question Rhys.
+
+“Ah? You figured it out!”
+
+Rhys whirled.
+
+Straw stood behind him, smiling slightly. He tapped his cheek and nodded. “You figured it out. I do want to take you two as students, if you’re willing to follow me.”
+
+Rhys snorted. I guess he wasn’t admitting to me figuring out his mysterious appearance from nowhere technique. He glanced at the straw on the floor, but said nothing.
+
+“We are,” Bast pledged.
+
+Straw tilted his head. “I won’t have good accommodations or food for you. I have little resources. We’ll be forced to wander the land. All I can offer you, is a few small techniques and the ability to step onto the path of a mage. Do you accept, nonetheless?”
+
+Rhys nodded. “I accept.”
+
+Bast opened his mouth, but before he could speak, Straw lifted a finger. He looked Bast in the eye and spoke to him directly. “You aren’t like Rhys. You have talent and potential. If you wanted, you could easily get yourself recruited by a top tier martial school. Despite that, do you still choose to follow me? A lone wanderer, with a birch stick for a sword?”
+
+Bast looked at Rhys.
+
+Rhys smiled back at him. “It’s your future. You are the only one who can choose.”
+
+“You said this man is a monster? That he’s strong enough that his individual action could cause a war?” Bast asked.
+
+“Oh my, oh my. I wouldn’t say so much, I wouldn’t say so much at all,” Straw demurred. And yet, if one listened closely, he didn’t deny it; he simply denied he would admit it.
+
+Rhys nodded. “That’s what my instincts are telling me.” His instincts, and what little he could sense of Straw’s aura. That, and the fact that not a single expert had acknowledged his existence. Not when he was helping them pick bottles, nor when he was sneaking into the tournament through the stables. If that man in white, the person from the local Snowdrop Sect, insisted on protecting the rule of law but had left Straw alone, then that meant one of two things. One, that Straw was so powerful that the man sensed him, and chose not to bother him. And two, even more terrifying: that Straw was so strong he could hide his power from that man entirely, and that powerful mage, so strong he could stop Untor in his tracks with a few taps of his fingertips, was so weak before Straw that he couldn’t even detect Straw’s presence.
+
+Either way, Rhys knew which camp he wanted to learn in.
+
+Bast nodded. “Then I’ll follow your instincts. Things have only improved for me since I started following you. I won’t stop now.”
+
+“Gather everything you have. We leave tonight, and we won’t return,” Straw said seriously.
+
+Rhys and Bast exchanged a look. Bast pulled open his shirt just enough to show Rhys the silver he’d gathered from the kids. “You handed out the pennies?” Rhys confirmed.
+
+Bast nodded.
+
+Then that’s everything.
+
+They looked back at Straw. Rhys nodded. “This is all we have.”
+
+Straw nodded approvingly. “The lighter you travel, the less you have to carry. Well. For now.”
+
+There was something ominous in the way he said it, but Rhys pushed it away. They’d have to work hard if they were going to be trained. He couldn’t be afraid of hard work if he wanted to become a powerful mage.
+
+Hard work means fireballs, he reminded himself, and his resolve returned.
+
+They didn’t bother saying goodbye to the matrons. The matrons wouldn’t care. If anything, they’d be glad to be rid of a couple of troublemakers. Rhys wasn’t particularly close with any of the other kids, nor were they with him. Likewise, most of the other kids considered Bast dangerous, and the few who hadn’t—Tam and Den—had recently changed their opinions. There was nothing holding them back.
+
+Straw led them out into the land beyond the town. They walked until nightfall. Straw wasn’t joking about being able to offer them nothing, because when night came, he simply gathered some pine needles for bedding and settled down. Rhys and Bast followed his example. Their night was cold, hard, and generally uncomfortable, but sometime around midnight Rhys grew exhausted enough to simply pass out, and from there, it wasn’t that bad at all.
+
+Outside of the town, the mana grew thicker. It was easier for Rhys to gather mana by breathing, the way Bast could. Every night, before he went to sleep, he meditated for a time, focusing on gathering mana.
+
+During the day, they trained. At first, Straw had them march with a heavy rock on their back. When they could circulate their mana smoothly enough to walk at normal speed with the rock, he added more weight, over and over until they couldn’t carry more rocks. When they hit that point, he made them jog instead. Bast had a relatively easy time of it. All he had to do was scale up his mana circulation. Rhys, on the other hand, struggled. He had to push his limits just to carry one rock. Each additional rock pushed him further beyond his limit. His face flushed with heat, and his head pounded with fever. Still, he forced himself to keep going. To absorb more mana, and expand the amount of mana that he could push through his body. Bast carried twice the rocks that Rhys could, and still seemed barely pressured.
+
+That’s what I get for starting with a trash build, Rhys acknowledged.
+
+As they walked, or jogged, Straw would lecture them. He taught them about the basics of magic. They absorbed mana and stored it in their cores, then used it for whatever purpose they needed, whether to enhance their body or cast a spell. Mana flowed through mana passages, and they could widen them, the same as they could expand their core. At their level, their job was to gather as much mana as they could and expand their core and passages as much as possible. It just so happened that pushing themselves physically to do something like carry rocks forced them to expand both. They had to both utilize more mana and move it smoothly around their body in order to physically exert themselves beyond human limits, after all.
+
+It took longer for Rhys to reach the same levels of Bast, but Rhys refused to give up. Slowly, he toiled up to Bast’s levels, even if it meant struggling during breaks, during meals, no matter what. Bast and Straw took the opportunity to duel, Bast bare-handed, Straw wielding that slender stick of his. While he struggled under the stones, Rhys watched them. Straw clearly held himself back, and even so, he soundly lashed Bast. Every time, Bast came away covered in bright red welts where the slender, flexible stick had landed. At first, Rhys offered him the potion, but Bast refused, and eventually, his refusal paid off. His welts began healing on their own. Not quickly, but by the end of the day, the welts would fade to nothing.
+
+Rhys stared. “How do I get in on that?” Self-regeneration? That was even cheaper than sipping bits of potion!
+
+“Natural aptitude, and a lot of pain,” Straw replied. He flexed the birch branch. “Should we find out if you have the same aptitude?”
+
+Bast met his eyes and shook his head.
+
+Rhys recoiled, then clenched his teeth. He couldn’t give up for a little pain. He’d never become the strongest that way. “Then—do it!”
+
+And so, from that day on, Rhys was also smacked with the birch branch. He’d known Straw was toying with Bast. The shocking part was that he was toying with Bast to the extent that he could add laps to the edge of the field to smack Rhys, and not break stride in the fight. The self-regeneration skill proved more elusive than Rhys hoped. Before long, he looked like a strange striped creature, covered all over in thin red lines.
+
+Days passed. Rhys caught up to Bast on the rock-carrying, and Straw immediately declared a new curriculum. He walked backward, facing his students, both of them laden with stone while he carried the stick and nothing. “You’re both close to graduating from Mana-Gathering to true mages, so how about I teach you something even real mages would die to learn?”
+
+Rhys set down his rocks. “I’m all ears.”
+
+The birch stick lashed out, fast as lightning. “I never said you could put those down.”
+
+Gritting his teeth, Rhys picked them up again. He hadn’t yet learned the self-regeneration skill, and looked a sorry sight, covered in red welts. With the rocks on his back forcing him to hunch, he truly looked horrifically disfigured, as if beset by some disease.
+
+Bast glanced at Straw. “May we put the rocks down?”
+
+“Go on,” Straw allowed easily.
+
+Rhys stared at him, open mouthed, then shook his head and thumped the rocks down for the second time. He watched the twig, wary of it, but it didn’t leap for him again.
+
+Straw paced before them, twiddling the stick. He held it out, contemplating it. “Is there anything special about this stick?”
+
+Rhys and Bast exchanged a glance. Straw carried it, so there must be something. Rhys lifted his arm, extending his mana toward it. It encompassed the stick without trouble, but sensed nothing. He frowned, then guessed, “Is it… from a special tree?”
+
+Beside him, Bast squinted. He glanced at Rhys, then shook his head. “It looks like an ordinary stick to me.”
+
+Straw pointed the stick at him. “Precisely. It is nothing but an ordinary stick. Do you have a knife or a sword?”
+
+Rhys hesitated, then drew out the bit of sword he’d found in the trash. He held it out toward Straw.
+
+Straw gestured him on. “Come.”
+
+“Er, shouldn’t Bast—”
+
+“It doesn’t matter. Come! As if you mean to kill!”
+
+Shrugging to himself, Rhys rushed in. Straw stood there, perfectly unmoving. With both hands on the sword, Rhys brought it down toward Straw’s head.
+
+Straw lifted the branch to block.
+
+For a half-breath, Rhys hesitated, but then he steeled himself and slammed the sword down. Even if he hit, it probably wouldn’t hurt Straw. In that instant, too, all the pain Straw had inflicted on him flashed through his head—the rocks, the birch branch (even though he asked for it), and he struck harder than before. Who cares if it hits? It’s payback!
+
+Straw twisted the branch. It met the sword and turned Rhys’ blow aside. Rhys found himself striking at the ground instead of at Straw. A punishing blow to the back of his shoulders slammed him into the earth. He bounced and rolled, crying out on instinct.
+
+“An ordinary branch. But I can turn aside steel,” Straw stated.
+
+Rhys climbed to his feet. He stared. “How?”
+
+Straw turned to Bast. He gestured the boy on. “This time, I won’t turn the blade aside. Come at me with all you have.”
+
+Rhys offered his sword to Bast, but it was unnecessary. Bast drew a short blade from his robes and charged Straw, plunging it toward the man’s heart.
+
+Straw met the blow head-on. Instead of the knife piercing through the wood, as it should have, it stopped dead. It was as though he wielded a sword, not a thin, flexible branch that quavered when the wind blew.
+
+Before Bast could attack again, Straw flicked his wrist, sending Bast’s knife flying. He whirled and lashed Bast hard on the shoulder. Bast jumped back, crying out in shock. He lifted a hand to his shoulder, and it came away bright red—as if he’d been cut with a blade.
+
+“Straw!” Rhys shouted. He jumped to his feet and ran between Straw and Bast, holding his arms out. “That’s too far!”
+
+“Do you not want this power?” Straw asked. For the first time, his eyes seemed too perfectly blue, too unstirred, too clear. Empty. As if there were nothing inside.
+
+Rhys drew the potion out of his robes. Bast shook his head, but Rhys caught his other arm and pinned him in place, then dripped a few drops inside the wound. The wound began to seal shut, faster than Bast’s self-regeneration. “You can’t just cut us open like that.”
+
+“It’s only training,” Bast murmured, pushing Rhys away.
+
+Rhys looked from him to Straw. Was this just his modern sensibilities speaking? Still, this seemed extreme. He opened his mouth, then shut it. If he wanted to be a mage, he had to put up with a little pain. Right? Was this any different? Straw hadn’t seriously injured Bast, only cut him a little. It was a serious injury to Rhys, but was it to Straw? To Bast?
+
+Straw reached into his filthy coat and drew out a potion bottle. He set it to the side. “You will get injured, but I can teach you this art. To make anything a weapon. Are you interested, even if it wounds you?”
+
+“Yes,” Bast said immediately.
+
+Rhys hesitated for a moment, then nodded as well. “Yes.”
+
+Straw pointed at Rhys. “You apply the potion. That skill of yours multiplies its effect, as long as you’re the one using it, isn’t that so?”
+
+“Er…” Rhys glanced at Bast. He hadn’t been paying attention, but now that Straw said it, the few drops of potion had healed Bast just as much as they’d heal Rhys. From what he’d seen in the tournament, it would have taken at least a good sip of potion to heal a wound like that for an ordinary person. “I guess so.”
+
+Straw nodded. Whatever it was that had flashed in his eyes, that deep emptiness, it was gone now. The human, ordinary Straw was back. “Don’t take the comments of other mages to heart. You might not have outright talent, but being able to easily pick up a strange skill like that suggests a deep affinity with a path or element that most people lack. Not just with whatever your path might be, but in general. It won’t be caught by something that measures ‘talent’ like your latent ability to absorb mana or the size of your core, since it’s immaterial. It’s something you hold in your heart. But nonetheless, it’s something deeply valuable.”
+
+Rhys straightened up. “Oh?” Was that it? Was that where his hidden value laid? There was always value at the bottom of every piece of trash. If he was trash, then naturally, he had to have value hidden somewhere. A path. Something held in my heart. The skill Less is More. He frowned. What kind of ‘path’ was that, though?
+
+“Don’t think too hard on it. When you consider your obsessions, what’s the first one that comes to mind?” Straw asked.
+
+“Trash,” Rhys admitted sheepishly.
+
+Bast snorted. “If you didn’t say it, I was going to.”
+
+Straw nodded, totally unperturbed. “One’s path is unique to themselves, and precious to their heart. It doesn’t matter what your obsession is; as long as it can take form and lead you further into magehood, it’s as good as anyone else’s path. Mine is straw, for example. Weak, ordinary, simple straw. And yet, I’m able to beat you both soundly.”
+
+“That’s true,” Rhys allowed.
+
+Bast frowned. “Isn’t there such a thing as the true path? The one path that leads you into godhood, or whatever?”
+
+“Wait, huh? I can become a god?” Rhys asked, startled. He raised his brows. The ultimate mage in this world? I was setting my goals too low! Why stop there, when I can become the true god of trash?
+
+Straw’s eyes crinkled, and he laughed. “In all due time, perhaps, although no one has successfully ascended in so long that it has become a mere legend. Though I would point out to you, Bast… not all gods are identical, are they? There are righteous gods and demonic gods, gods of hearth and gods of war. So how could they all walk one true path?”
+
+Bast raised his brows, then furrowed them. At last, he muttered, “Huh.”
+
+“What about you, Bast? What’s your obsession?” Rhys asked.
+
+Bast shook his head. “Not everyone has it as easy as you.”
+
+“True, true. Now, do you want to learn this technique, or not?” Straw demanded.
+
+Rhys stepped forward. His shock at the sudden bloodshed aside, this skill was exactly the kind of thing he needed. Fighting with a sword wasn’t for him. But fighting with any piece of garbage he found on the ground? Now that appealed to him innately. “I do.”
+
+“Even if there’s some blood?” Straw asked teasingly.
+
+“If it’s necessary, and our lives aren’t on the line, then I won’t waver again,” Rhys replied. This world had its own morals. He’d only hold himself back if he constantly held it to his standards. There were some places he refused to waver, but in the face of such great benefits? Once the initial shock wore off, he was more than willing to waver a little bit.
+
+Straw looked at Bast. “And you?”
+
+“I never turn down the chance to obtain a new weapon,” Bast replied.
+
+“Good. Then watch me closely.” Straw put his birch stick down and picked up a blade of grass from the ground. He held it out to the boys, letting them examine it. Both Bast and Rhys investigated it closely, but again, neither one found anything off. It was an ordinary piece of grass.
+
+Straw turned around and lashed out. A nearby tree toppled, felled by the edge of the grass.
+
+“But you do something to make it deadly,” Rhys insisted.
+
+“Precisely. I’ll repeat my actions, but slower this time. Watch closely. In particular, investigate the flow of my mana. I’ll drop the wards around my body, so you can watch it flow through my arms and into the grass.”
+
+“You keep wards around your body?” Rhys asked, curious.
+
+Straw nodded. “Most mages disguise their mana flows somehow. For some mages, that’s as easy as allowing their flesh to mask their mana. Others need wards or other supplemental techniques. It’s all about how you build your power.”
+
+He snapped his fingers. Rhys extended his mana. Without whatever interference Straw had set up, he could clearly sense the flow of mana through Straw’s limbs. Once more, Straw drew back the scrap of grass. This time, Rhys could see mana build up in Straw’s chest and arms, and even in his legs and hips. His whole body shone as he put his all into one blow.
+
+In the very last moment, as he lashed out, all that energy transferred from his body into the grass. The grass stiffened, empowered and reshaped from a fluttering strand into a stiff blade. Straw’s mana had fundamentally changed, too. As it emerged from his hand and into the blade, it turned from mana into some other energy. A sharp, blade-like energy. Energy that felt like a weapon itself, and transferred the property of the weapon into the grass blade.
+
+A cluster of slender trees fell. Straw lowered his hand. Having expressed two strikes, the grass was in tatters. It drifted from his hand in tiny green pieces, torn to bits. “Do you understand?”
+
+Bast squinted. He shook his head slowly.
+
+“What is that energy? The mana changes into something, but…” Rhys squinted. “What?”
+
+“Weapon intent. Most people call it ‘sword intent’ or ‘spear intent,’ or the intent of whatever weapon they choose to wield. What I’m going to teach you, is the generalized form of that skill. The ability to put weapon intent into anything. Most people train for years to develop this skill, and I expect it to be no different for you. It will be hard, but when you’re done, you’ll be able to fight anywhere, with anything, no matter the conditions. Are you ready?” Straw asked.
+
+Rhys nodded. Beside him, Bast clenched his hands into fists, so excited he could barely hold himself back.
+
+Straw plucked a new blade of grass and drew it back, assuming a sword stance. “Choose a weapon. I don’t mind if it’s a real weapon.”
+
+Rhys hesitated, then drew the scrap of a sword he carried. Bast pulled out his knife.
+
+Instantly, blunt blows landed on their legs, forcing them into a new stance. “Not like that. This is a weapon. A sword! Stand as if you’re holding a weapon.”
+
+Rhys lowered his stance. He copied Straw to the greatest degree possible, watching his hands, his feet, even his hips. It took him effort to adjust his mana flows, given his slim grasp on handling them in the first place, but he forcibly schooled them to match Straw’s.
+
+Another set of blows rattled his way. There was mana in these blows, and they pierced past his flesh to adjust his mana flows directly. “Not like that. Like this!”
+
+Straw turned his attention to Bast, leaving Rhys to sweat and focus on maintaining the flows. He hammered at Bast, adjusting his stance, his mana, even his grip on the knife.
+
+Rhys stood there, teeth gritted, his body smarting from the very first round of adjustments. This wasn’t going to be easy. But this was the only route to becoming powerful and launching fireballs from his fingertips. He wasn’t going to flinch now.
+
+Straw turned back on him, a bright vicious light in his eyes. The beatings commenced. And like that, years passed.

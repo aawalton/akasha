@@ -1,0 +1,169 @@
+---
+id: 423c748a-2cd5-59ad-8b13-fd0a72e854cb
+page-type-slug: story-chapter-royal-road
+title: "Threads 340-FrostSong 1"
+slug: 0380-threads-340-frostsong-1
+partOf: forge-of-destiny
+position: 380
+ownLength: 2026
+unit: words
+publishedAt: 2023-10-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1372280/threads-340-frostsong-1"
+royalRoadId: "1372280"
+---
+
+“So it is something your scholars have an interest in as well?” Jaromila asked.
+
+“It is. Her Grace has indicated some interest in celestial phenomena. If your people could be convinced to share their knowledge, I believe I can convince ours to share their equipment.”
+
+“Superb. That is one more item which can be used to drive interest.”
+
+They were outside the meeting hall, now with construction resuming. There were fewer people inside, and the work was proceeding more carefully. But the construction did tentatively seem to be going well. Ling Qi observed the exterior where the earth was being churned up and saplings and flowers were being transplanted into what would in the end be a serene garden where participants would hopefully be able to stroll in and ease themselves of tension during talks.
+
+“I apologize for my rudeness. I feel I should recognize your companion, but…”
+
+Ling Qi’s eyes widened a fraction as Jaromila looked over her shoulder to where Sixiang stood, rocking back and forth on, at the moment, his feet. He hadn’t shifted his form much, looking mostly androgynous still.
+
+“I didn’t directly say hi, but I was with Ling Qi last time,” Sixiang said. “Been at all your talks.”
+
+Jaromila frowned. It occurred to Ling Qi that a spirit like Sixiang probably wasn’t too far from their idea of possessing star daemons.
+
+“A wisdom spirit then. Strange to see it unhoused…. Stranger still that you allowed it into your own body.”
+
+“‘It’ is impolite,” LIng Qi said evenly. “I’m afraid I don’t understand the meaning?”
+
+Jaromila blinked, looking away from Sixiang. “I apologize. ‘He,’ then?”
+
+“Whatever I’m doing at the moment,” Sixiang said brightly. “So yeah, ‘he’ today.”
+
+The older woman looked uncomfortable for a moment, but moved past it, crisply explaining herself. “Some who walk paths of runelore will step into the world of spirits and make the beings found there into physical items. This originated with the man who became the Crowfather, who used the skull of one of the last giants. This is a wisdom spirit.”
+
+Ling Qi considered. “That is not entirely right. Rather, Sixiang is my companion, who I met while performing rites for what you might call one of my gods.”
+
+“Auntie’s pretty big, but it’d be her greater self that gets a title like that,” Sixiang commented.
+
+“I see,” Jaromila said. “So something more akin to a divine messenger. I apologize.”
+
+“No hard feelings,” Sixiang dismissed. “I don’t want to distract from Ling Qi’s actual business anyway.”
+
+Jaromila gracefully accepted the end of that conversation. “Ah, yes, you will be pleased to know I did convince Emissary Dzintara of the value in having a one-to-one talk before the summit begins in earnest.”
+
+“Thank you for that,” Ling Qi said.
+
+“I would warn you that the people of the Twisted Pine are of a more martial bent, but my experience with you says that this might actually be soothing.”
+
+“Perhaps,” Ling Qi said, smiling self-deprecatingly. “Shall we go then?”
+
+Jaromila nodded, gesturing for her to follow.
+
+They made their way from the meeting ground, traveling south. Sixiang fell in beside her, walking with his hands behind his head. It should have felt companionable. I
+
+<Hey, still okay if I talk in here?>
+
+Ling Qi did not outwardly react. It was fine of course. Sixiang’s voice felt distant compared to their old situation, barely brushing her thoughts.
+
+<Okay… I don’t want to distract you too much here, but… this is okay, right? Talking and joking like we used to?>
+
+Ling Qi mulled that over as they walked through the checkpoint at the valley center where imperial road transitioned to the patterned cobblestone of the White Sky. It felt strange, especially because she knew that there was something genuine behind Sixiang’s playful needling. All the same, the idea of treating Sixiang with formal distance made her chest hurt.
+
+It was fine. They would find their new equilibrium naturally. So she hoped.
+
+<Hah, yeah. Let’s just see where we go, huh?>
+
+Ling Qi inclined her head in silent response.
+
+Jaromila glanced back at them. “We’ll need to turn from the path here. We have arranged a few small sacred spaces for our people, and Emissary Dzintara believed that Fryja’s grove was the best place for this meeting. I apologize if this is inappropriate.”
+
+“I do not have a problem with that,” Ling Qi said.
+
+A bit of dominance posturing, meeting her in a place closer to the other emissary’s power? She could go along with that.
+
+“It’s not like Ling Qi’s patrons are ever far,” Sixiang said wryly. “Even ground, eh?”
+
+Jaromila considered that as they left the road, following a track that seemed more like an animal trail. It wound up into the uncleared woods where the dark, twisted, and closely grown trees she had experienced on her first trip here were still intact.
+
+“I do not know your ways. Do you not keep temples then?”
+
+“There are temples, but they are places of negotiation and administration for higher cultivators,” Ling Qi said, looking around. There was certainly some power here. “A place for larger rituals. This feels more like a cultivation site.”
+
+“Cultivation,” Jaromila said thoughtfully as she mounted a rise thick with as many tree roots as earth. “That word is interesting.”
+
+“It is concerning,” a voice interjected. “These people have gods who walk about unrestrained and unfiltered.”
+
+At the top of the rise was a half circle of trees grown so close together that their branches were tangled and their trunks all but fused, a black crown of leaves that smothered the light from above. A stone covered in wrought runes had been raised in the center of the clearing. It bore abstract carvings on its flat face, twin crescents that flickered red in the dim light, certain feminine symbology, and a snarling tangle of vines and faces and flowers laid low.
+
+Dzintara stood in front of the stone. She was clad much differently than before, a cloak of blue and gray fur over her shoulders, a dark, almost black, headband worked with beads and embroidery on her head, and a different pattern to the dark blue lines painted on her face.
+
+She turned to them, and for a second, Ling Qi thought she might be bare under the cloak, but no, she spied a thick wrap around her chest and a pair of fitted hide trousers of a sort were on her legs, tucked into high fur boots.
+
+She saw a great deal of scars there, and Dzintara clearly took her physical cultivation almost as seriously as Guan Zhi. She supposed it was a good thing Meizhen was not here. Though, did she enjoy that sort of look?
+
+<I can’t believe I’m saying this, but focus, Ling Qi.>
+
+“I can understand how our practices might look to an outsider, but we are quite stable as these things go,” Ling Qi replied without missing a beat. Reaching the top of the rise, she clasped her hands and bowed.
+
+“Stable. Yes, I suppose it would be… stable.” The hawk-nosed woman studied her face. “Stable. That is a word which can mean many things.”
+
+Jaromila politely stepped out from between them, her dress brushing the tall grass on the hilltop. It was quite misty here.
+
+Looking at Dzintara, Ling Qi saw there were several fresher wounds, a scratch on her cheek, a cut across one arm, and a place where she looked to have been gored. All of them were healing before her eyes. There was blood at the base of the runestone. A sacrifice then?
+
+It was a bit spontaneous of her, but Ling Qi hummed under her breath, a low, droning bar.
+
+Unchanging misery. Tomorrows all as drudging as today. Power unchallenged. A nightmare of Forever.
+
+Dzintara’s lips drew back, her sharp, iron teeth grinding, spitting sparks. “Hmph, you do understand.”
+
+“I walk the twisting roads of dream,” Ling Qi said, considering the site before her. There were no signs of battle here, no sign of a sacrifice but spilled blood, glittering like crimson on the stone.
+
+“Deeper than she should sometimes,” Sixiang drawled. “But hey, Ling Qi is tough.”
+
+“Emissary Dzintara, this is Sixiang, by the way,” Ling Qi introduced. “They were not embodied when we last talked.”
+
+“I was curious,” Dzintara acknowledged. She stared at Sixiang, who smirked and did a little twirl.
+
+“Well, it is good that you have something in common,” Jaromila said mildly.
+
+The other emissary looked at her with a frown.
+
+“I wouldn’t presume so much,” Ling Qi said, “when I do not know much of the mantle you are holding.”
+
+“I walk the…” Dzintara frowned, mulling over her words. “Way of Exorcism right now.”
+
+“That is not so exact a translation, but I am not sure of a better word either,” Jaromila said.
+
+“I see. I can’t claim to fully understand. But it is a mantle for stepping into more fluid realms?”
+
+“Yes.” Dzintara looked down at her because she was standing higher on the hill still. “You have experienced this. You walk the twisted ways. You also find value in challenging and debating another's mantle.”
+
+“She does for sure. You guys must talk about her a lot, huh?” Sixiang asked.
+
+“Yes.”
+
+Well, she knew what she had been doing when she dropped hints about the knowledge she’d gained in her quest into the dream with Xuan Shi. She still glanced at Jaromila, who smiled slightly, and took another step back.
+
+“I do,” Ling Qi said in response to the earlier question. “Was there something you wished to debate about, Emissary Dzintara?”
+
+“I will be blunt. I do not know that there is meaning in this summit. You seem to me to be at once fractured and stagnant. You barely seem to have any trust or authority from your own people. And it is my opinion that your empire is, at most, biding its time until other foes are dealt with.”
+
+Ling Qi hid her wince and only gave a mild nod. “I am sorry we have given you such an impression. My lady and I do not wish for things to be that way.”
+
+She couldn’t tell the other emissary that she was wrong in her assessment because she really wasn’t, but making this summit successful was the best way to quiet those voices.
+
+“Then debate with me on the power of peoples and nations, and show me that you have more than words.”
+
+Ling Qi was getting rather tired of being the one to prove herself over and over again.
+
+“And you will show me that your opposition is grounded in more than concern over a threat to the Twisted Pines material role, I assume?”
+
+Dzintara’s eyes widened fractionally. A spark jumped from her hair. “Not all meekness, I see. Yes, I will do that.”
+
+Ling Qi breathed out and let the frost spread across the grass and the wind whip in her hair. “I have to wonder that you do not pick up on the purpose in what we do. Our ‘great souls’ walk and politic among us, rigid and unbending as they might be. Have you considered that our politeness has a purpose? That we are indirect for a reason?”
+
+Imperial etiquette could be stifling, but in the end, it had kept thousands of years of cultivators from tearing their civilization apart at the foundations. As a vector of communication, it was imperfect of course, but the slow dance of words kept egos which could level cities mostly unruffled and gave even the more alien minds among them a formula with which to communicate that did not involve directly assaulting others with their Law.
+
+Dzintara crackled, sparks kicking up her braided hair writhing like a nest of serpents. But her expression remained even. Her eyes were thoughtful even as she demanded, “Perhaps. Show me.”
+
+Sixiang drifted over, half-dissolving into mist to rest their hands on her shoulders. The muse’s visage lost some of its human color, eyes going back to glittering black, the few marks of gender fading into faerie-like ambiguity. Ling Qi lowered her head, acknowledging their confidence in her.
+
+“I will.”

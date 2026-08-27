@@ -1,0 +1,199 @@
+---
+id: 9085a7ad-c93b-5bfb-9ffc-c449a23015c8
+page-type-slug: story-chapter-royal-road
+title: "23 - Let's Teach Ingrid (2)"
+slug: 0023-23-let-s-teach-ingrid-2
+partOf: gamer-girl-evolution
+position: 23
+ownLength: 2134
+unit: words
+ownProgress: 2134
+publishedAt: 2025-10-28
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2711906/23-lets-teach-ingrid-2"
+royalRoadId: "2711906"
+markedReadAt: "2026-06-29T20:06:19.269Z"
+---
+
+"Couldn't they make these designs a bit more... friendly?" Ingrid said as she looked at the blue colossus approaching them.
+
+"I guess they could," came Celica's reply but inwardly she was thinking, they will in the next realm.
+
+"Are you confident you can clear it without any help?" Celica said, slightly concerned.
+
+"Of course," Ingrid said as she raised her sword in response. "Not."
+
+A dry laugh came from Celica but before she could reply, Ingrid continued. "Still, I want to try. It can't be much harder than the mud golems, right?"
+
+Celica nodded but she knew the trolls were quite a step up from the mud golems on all fronts. They attacked more often and knew how to dodge better. Not only that they had higher stats. Ingrid would have to perform to her best in order to take out a troll of the same level without it being a pyrrhic victory.
+
+With a charge, Ingrid moved towards the troll, her steps light despite the muddy terrain. As she slashed, a green light followed her sword with the troll's exposed chest seemingly being cut through until a closer look said... it was unscathed.
+
+She'd missed. Or to be more precise, the troll had dodged.
+
+After dodging, the troll instinctually moved towards Ingrid. It's hammer like weapon swung violently and as if she was possessed by Snapped Sword, Ingrid suddenly dropped, the weapon narrowly missing her face.
+
+After a short exchange, Ingrid jumped backwards hoping to create some distance. As if they were sharing their thoughts, the troll retreated too, eyeing its opponent.
+
+The tension in the air was palpable as the two observed each other carefully. Celica felt like something big was about to happen as she watched the exchange.
+
+Evenly matched fights like these reminded her of all the PvP tournaments she played in and watched. It reminded her how fun it was to see who would come out on top at the end between two players evenly matched.
+
+Though, the majority of the time it was just a coinflip and the player that won probably just used some cheesy mechanic to narrowly take the victory. Without realising it, she was getting excited for the third floor. It was the first floor where in PvP was enabled.
+
+Just then she had a bright idea, perhaps she could appear in public as Snapped Sword and take on any challengers in PvP, since the game rewarded winstreaks. Thinking along those lines she also remembered the existence of Wisdom Hands, a persona she'd created on a whim.
+
+She'd promised that Wisdom Hands would return on the next floor, but she still didn't know exactly how. Maybe if I start a gui—
+
+Cling!
+
+A clash of blades brought Celica back to reality as she observed the tense fight once again. Both Ingrid and the troll's HP bars had decreased substantially. Now they were both about 50% HP. Celica debated intervening and helping Ingrid out from the side-lines but ultimately decided to just keep on watching.
+
+They went swing for swing and hit for hit as their HP bars dropped incrementally. A long, slow, gruelling duel. For some reason, it seemed like Ingrid was enjoying it. At least, when she got some hits in. It didn't seem like she was enjoying it when she was on the defensive or trading blows. She wasn't a psychopath after all. She wasn't Celica.
+
+Unable to bare it any longer, Celica spoke up from the side. "Try to aim for it's neck with a thrust, that's its weak spot!"
+
+As if they'd communicated telepathically, Ingrid assumed a certain stance, her blade poised and ready. The sword drew backwards slightly before skirting forwards dramatically, a verdant hue shadowing the weapon as it moved.
+
+Without warning the troll's HP bar dropped by 15%, now it only had roughly 10% left. Seeing this, Ingrid smiled. She still had around 40% of her HP bar. If things continued this way, she'd be the one to win by a landslide.
+
+As she was spectating, Celica felt like there was something slightly off. She turned and behind her loomed two ominous figures.
+
+[Troll - Lv. 16]
+
+[Troll - Lv. 16]
+
+Ingrid, too engrossed in her fight, hadn't even noticed them. Celica sighed before moving in a blur. She didn't even have to activate any of her skills as a simple efficient swing of her sword cleaved through both of them instantly, their lifeless corpses dropping to the floor anti-climactically.
+
+[+0 EXP]
+
+[+0 EXP]
+
+Now that she'd taken care of the weak intruders, Celica turned her attention back to the intense fight which was just about reaching its climax. Ingrid had about 30% of her HP left whereas the troll had only 3% left at max. One more well-placed strike would finish it off for good.
+
+Taking advantage of her momentum, Ingrid moved with pure focus, slashing at the Troll's chest. It attempted to dodge backwards but as if Ingrid had read it, she thrust towards its neck.
+
+With a thud, the beast collapsed.
+
+{+125 EXP}
+
+"I... I did it!" Ingrid exclaimed as she smiled, her body clearly fatigued. She'd fought her heart out and after a long, grueling battle, she'd emerged victorious.
+
+"Only 49 more to go..." Celica said slowly. While she was happy that Ingrid was improving rapidly and that she'd won, she realised something. At this pace, this would take too long. Of course Ingrid would improve and her stats would increase too but still, she was getting restless.
+
+"Can you still fight?" Celica questioned further.
+
+"I think I can fight one or two more but not more than that..." Ingrid said. She was clearly very heavily fatigued after that duel. Those were the type of fights which improved you as a player and accelerated your growth by leaps and bounds.
+
+She chugged a few health potions she'd bought earlier and breathed a heavy sigh. Then her eyes reignited with greater determination to become a great player.
+
+Celica raised a finger to her left cheek before she scratched it softly. "Do you know what... boosting is?"
+
+"Boosting? What's that?" Ingrid said, confused.
+
+"Simply put, I'll get the trolls low and you last hit them to get the kill credit. Like this we can finish the main quest in... thirty minutes give or take."
+
+"Thirty minutes!?" Ingrid said loudly, her eyes expanding like a black hole.
+
+In reality, it'd take much less than that if Ingrid could match her movement speed but she couldn't.
+
+"I'd prefer it if I helped you complete the main quest as soon as possible, then you can practice mechanics, dodging and combos on harder mobs. Like this you'll be ahead of the average playerbase's level curve and next floor you'll be OP since you have an advantage." Celica said quickly.
+
+"Playerbase? Level curve? OP? Mechanics and combos? " Ingrid said with a scrunched face, her brain a whirling mess from all the unfamiliar gaming lingo Celica had bombarded her with.
+
+"Well, long story short... follow my lead." Celica said as she unequipped her sword. Ingrid nodded even though she wasn't entirely sure what following Celica's lead fully entailed. After a few seconds of deliberate pathing, they encountered a group of three monsters.
+
+[Troll - Lv. 15]
+
+[Troll - Lv. 15]
+
+[Troll - Lv. 15]
+
+"Stay close to me." Celica said as she approached the trolls. She raised her fist and punched the first one, then the second, and then the third. All before any of the three trolls could react. Suddenly all three of their HP bars were cleaved, each left with only 0.1% of their bar remaining.
+
+"......" Ingrid paused, admiring the sheer damage.
+
+"What are you waiting for? Last hit it." Celica said casually.
+
+With a wave of her sword, Ingrid killed the three trolls with blinking red health bars.
+
+{+125 EXP}
+
+{+125 EXP}
+
+{+125 EXP}
+
+{LEVEL UP!}
+
+[Ingrid - Level 16]
+
+Ingrid's mouth hung agape as she took in what just happened. "It's that easy?"
+
+"Uh yeah, something like that... RPG's are quite broken when you have a huge level advantage." Celica said as a matter of fact.
+
+"Is the level difference from 19 to 15 really this much?" Ingrid said, perplexed.
+
+"Not really," Celica said confidently. "I'm just a... unique case."
+
+Ingrid didn't say anything. She was speechless.
+
+"No time for delaying, let's finish the main quest. Right now we're at 4 out of 50, right?"
+
+Ingrid nodded before Celica replied. "Good, this'll be a breeze."
+
+They continued moving deeper into the Marshlands, encountering more and more trolls because of Celica's perfect pathing. Each time they encountered a troll, Celica would hit it as lightly as possible with her weapon unequipped and all her damaging stats as reduced as possible.
+
+Regardless, however, the troll's HP bars still evaporated as if they were ice thrown into lava, left only with a slight slither of HP. By the time they'd killed the fifteenth troll with this method, Ingrid had something to say.
+
+"This is just ridiculous," she said with a sigh. "You're too strong."
+
+Celica shrugged, inwardly thinking to herself, don't hate the player hate the game. But she knew Ingrid would never hate her anyways. "I agree it is ridiculous. Beyond ridiculous, actually."
+
+And I'm not even max level yet. Nor are any of my buffs active. And my buffs aren't maxed out either...
+
+"Still, I think it's a fair thing to do. No one would blame us. This is a death game after all. Why risk death if we could just do this?" Celica said nonchalantly.
+
+Besides, it saves me so much tempo in game. It's so much easier for me to keep my lead as a frontrunner if I don't spend 8-9 hours here helping her grind trolls. Not only that, she can practice on higher level mobs like ogres once we're done which will be better for her mechanics and levels. It's a win-win situation.
+
+"Yeah, you're right I know. It's just one day I want to be able to clear these quickly myself." Ingrid said slowly.
+
+"You'll be able to clear these as fast as me very soon, don't you worry." Celica smiled. They continued on, annihilating all the trolls in the region using the same overpowered boosting last hit strat.
+
+Troll after troll fell to Ingrid's blade as her EXP bar skyrocketed.
+
+{LEVEL UP!}
+
+{LEVEL UP!}
+
+"With that you should be done right?" Celica said as she looked at her UI.
+
+[Ingrid - Level 18]
+
+"Yeah, I'm done... just like that." Ingrid said calmly. She looked Celica in the eye before saying her next words. "Thank you so much. Now I don't have to be as stressed about... y'know."
+
+Celica nodded. The word 'dying' didn't have to be said for Celica to understand what she was getting at.
+
+"I'm quite tired, I think I'll head back to Marshia and rest. Do you want to come and eat something with me?" Ingrid suggested.
+
+Celica paused, hesitating slightly. "I think I'll keep grinding."
+
+"Still?" Ingrid said in shock, but then she quickly remembered who she was talking to. "Now I understand why I couldn't get you to stop playing all those long nights. You're addicted."
+
+Celica burst out laughing, the words cutting deeper than she wanted to admit. "It's not an addiction, it's passion!"
+
+"Sure, sure whatever." Ingrid said lazily. She looked just as fatigued as she did when she came back from her 9-5 management job.
+
+"But I'll walk with you to Marshia." Celica followed up. She wanted to get back to grinding but a part of her wanted to stay a little longer with Ingrid. Because she knew inwardly that the rest of her time was likely going to be spent minmaxing and no-life-ing.
+
+She still had to coin grind, max her forging stats, explore the new outpost, max her skills, obtain the best materials on the floor so she could craft the best possible armour and weapons possible currently. And that was just the start. Who knew if she'd activate a unique storyline or find a sub-quest which wasn't supposed to exist on this floor?
+
+Ingrid nodded, and they walked back together through the marshlands. The walk was quiet but comfortable. They didn't exchange many words yet the atmosphere was still cozy. It was the type of silence that only people that were extremely close could appreciate without it being awkward.
+
+Before long, they were at the gates of Marshia and it was time for the two to say goodbye.
+
+"Take care!" Celica said as she waved at Ingrid.
+
+Ingrid smiled in response and waved back. "Make sure you get some rest too. Being well-rested is very important in video games."
+
+Celica nodded as she walked away into the mist. Her thoughts were simple.
+
+Finally, it's time to explore that damn outpost.

@@ -1,0 +1,135 @@
+---
+id: c23c50be-31eb-504b-b0a9-decbaabfc330
+page-type-slug: story-chapter-royal-road
+title: "Threads 107-Descent 9"
+slug: 0130-threads-107-descent-9
+partOf: forge-of-destiny
+position: 130
+ownLength: 2536
+unit: words
+publishedAt: 2021-07-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/715474/threads-107-descent-9"
+royalRoadId: "715474"
+---
+
+For just a moment, Ling Qi’s mind flashed back to the last time she had tried to infiltrate a fortress. It hadn’t gone well, even though it had only been a “play” set.
+
+But she had grown a great deal since then.
+
+<I have your back,> Sixiang whispered, and the murmur of her other spirits joined them.
+
+She wasn’t alone either. So she could afford mistakes even less. Ling Qi inclined her head in acknowledgement of the well wishes of her spirits and flowed down the trunk of the fungal tree she had been hiding in.
+
+She slipped through the grassy ferns toward the fortress as little more than a shadow and a wisp of mist before reforming next at the base of the fortress wall. Drawing moonlight to her eyes and lungs, she moved across the clear cut ground along the fortress walls. Tiny glimmers of silver blinked into being, muted and clouded.
+
+Those silver sparks shot ahead of her, vanishing into the wall, and Ling Qi took a steadying breath while different perspectives flashes through her mind.
+
+At first, there was only the darkness of solid stone, the wisps of moonlight created by her Roaming Moon’s Eye traveling in careful, criss-crossing lines as they searched for open space. In a matter of moments, they found purchase. One emerged in an empty gray hallway with a floor of carved bone tiles of irregular shape. One, which had traveled down, poked out of the ceiling of a large chamber where over a score of second realm shishigui were fighting in trios and quintets, undergoing some kind of drill.
+
+Ling Qi blurred back into mist and shadow, soaking into the dark grey stone. Traveling through a solid object always felt strange, and this was no different. What was different, however, was the burning pain sensation that assailed her. The very rock was poisonous, she could feel, and it was only the protective effects of the talisman mask she had been given that stopped her from having to burn more qi to stave off harm from intermingling her being with the stuff.
+
+Resolving herself back into shadow on the arched ceiling of the training room, Ling Qi took a moment to breathe. She would have to avoid overusing that method down here. While she cycled her qi, purging the lingering toxin, she peered down at the creatures below in the midst of their drilling. She only glanced over the majority, noting their armaments. Lots of straps, but they included light chitin armor covering vital points. If the coverage was any indication, the creatures had similar layouts of arteries and organs to a human, barring their lack of apparent eyes.
+
+Yet as she turned her gaze to the instructors, a discrepancy stood out. Scattered among the second realms, they stalked along, standing out like beacons to her senses, even though she was sure that they were only early third realms. These had the characteristic plethora of bandoliers and pouches, and their armor more ornate, though just as colorless. There was something distinctive about it.
+
+<Heat. There’s rigid and unnatural flows bound to the armor. Gotta be artificial,> Sixiang noted.
+
+Huh. Perhaps that was the shishigui equivalent of an officer's bright plume or banner? That might be useful for disruption tactics, Ling Qi thought as she eavesdropped.
+
+“Stop resisting the instincts,” one instructor barked, swatting a second realm who had stumbled mid-combat maneuver with the padded rod held in its paws.
+
+“Cooperate with your meld!” another barked
+
+“Harness the pain.”
+
+“Accept the fear.”
+
+Ling Qi frowned as she watched them. Without context, it was difficult to really understand, but the mistakes that the second realms were making were not the same kind of mistakes that she would expect of untrained soldiers. They would execute perfect maneuvers with their weapons, only to stumble or jerk halfway through. They collapsed, not out of physical exhaustion, but something that looked very much like panic, curling up on the ground and letting out canine whines as their limbs twitched spasmodically.
+
+Ling Qi watched a moment longer as her wisps searched out the layout of the halls above and below. Like their construction in the village, the shishigui still seemed to favor curved and rounded rooms, even if the exterior of the fort was more angular. It seemed her instinct to go down was right. Above, she found equipment storage, guard posts, and other things of the sort but relatively few shishigui walking the halls. Like the village, the majority of actual activity was taking place underground.
+
+With one last glance at the trainees, Ling Qi, deposited a spider into a crevice in the ceiling and flitted down one of the halls that left the room, sticking near the ceiling as a current of mist.
+
+Like that, she began to work her way through the fort, vanishing into the cracks and spaces between blocks of bone and stone whenever a particularly potent enemy passed by. She was able to avoid having to directly pass through the impurity-stained material again this way, conserving her energy.
+
+The halls were very busy, and it was obvious that the building was operating at or just above its intended capacity. The chamber that she tentatively considered the war room did have some kind of odd mural which seemed to occupy the place of a map, but it was just a lumpy frieze of meaningless shapes encoded with indecipherable trails of heat.
+
+She left one of her dwindling supply of spider constructs there as well, and she slipped out before the framing stage presence moving down the hall could enter the room.
+
+Leaving that room behind, Ling Qi began to skulk her way down the less busy halls which, if her sense of direction had not failed her, were leading down and back into the wall of the cavern toward what she hoped would be the river's source.
+
+All the while, she had her wisps slipping down different corridors and traveling ahead, mapping out tunnels and marking paths while the ceiling overhead grew damp and warm like the slick heat of a rotting corpse. It was because she had a wisp traveling well ahead that she stopped suddenly slipping into a shallow cubby in one of the increasingly natural tunnels.
+
+She did so because her wisp had just slipped into something that made her instincts cry out.
+
+At the end of a passage on the layer below, there was a great amphitheatre. Its shallow carven seating was filled with only a scattering of shishigui, but it was the great ravine at the bottom which drew her attention. From the ravine roared a rising vortex of black tar-liquid. With the distance and only the presence of a single wisp, it took her a moment to pick out what was bothering her about the ravine.
+
+The floor wasn’t stone. It was flesh. Quivering and rubbery, oozing with rot, the black liquid poured from an open wound that could have swallowed the governor's mansion of White Cloud Town and around the wound, little shapes cavorted.
+
+The six lithe creatures cavorting were all too similar to the one which had nearly opened her throat only a month ago. It occurred to her that these figures were the first shishigui that had the same feminine outline as the assassin she had faced. Ling Qi felt her expression screw up in disgust. It was even more obvious now, naked as they were, with only trailing scarves of some pale white cloth bound to their wrists and ankles.
+
+Despite herself, Ling Qi couldn’t help but glean meaning from the spinning, agile dance they performed around the roaring column of “water.” Propitiation, ecstasy, worship, hope and longing and sadness. They performed in perfect synchrony, and it was only then that she noticed the blades in their hands, dark metal shot through with veins of green, matches to the one she had carelessly stored away in her storage ring.
+
+Blades flicked across flesh as they danced, drawing droplets of brackish red, and lithe limbs flicked, flinging the droplets of blood into the roaring column.
+
+She pulled her eyes away from the dancers and focused on the figure at their center, standing before a low-slung block of stone. Like the dancers, the figure was feminine in profile, but this one was shrouded in what she at first took to be a wet black cloak. As the creature turned slightly, gesticulating with a knife in one hand, she saw its withered, near skeletal limbs and the gaping tears in its flesh where skin stretched too tight over bone had torn. Liquid impurity poured forth from the tears, something squirming inside of those wounds, and the creature’s bald head was marked by spikes of deep green metal driven into her skull in three even rows from front to back. The largest nails protruded from where eyes should have been and gleamed with oily light.
+
+Before her on the slab lay another shishigui stripped wholly bare. The creature’s ribs and abdomen were flayed open, and as she watched, the rotting creature thrust an arm into the rising column and ripped forth a writhing mass. Shot through with veins of phosphorescent light, it resembled a squealing, toothy worm covered in wriggling, hairy cillia.
+
+Ling Qi’s moment of horrified fascination ended when the creature’s chanting faltered and that grotesque face twitched in the direction of her wisp.
+
+Ling Qi cut the connection immediately and shot upward, uncaring for the burn of toxic bone against her being as she passed through the floor. She fled for the exit through twisting halls and tunnels as a shadow, and as she did, she watched and listened through her other wisps. Alarm was going out through the fort from that “temple,” but from the snippets she caught barked and babbled between soldiers, they weren’t looking for an intruder.
+
+She almost laughed in relief as she picked apart the unfamiliar words. There was an alarm for an escaped and wild spirit, and they were scrambling to check and recheck their wardings.
+
+Still, it was probably best not to push her luck after a close call like that.
+
+As her foes hunted for a wraith, Ling Qi slipped out through the stonework and vanished back into the tall grass.
+
+***
+
+Since the morning, the better part of a day had passed by the time she finished giving her report to Guan Zhi.
+
+“Retreat was the most prudent option given the situation. Your judgement was sound,” Guan Zhi said. “Disciple Liao?”
+
+Beside her, Senior Brother Liao sketched a shallow bow as he stepped forward to make his own report. Around them were the rest of the group. Su Ling was looking agitated again, and Ji Rong had an impatient air about him. Even Xuan Shi seemed on edge. Only Bian Ya was less than tense, and that was likely only because she looked tired and wan like a wilted flower.
+
+“I concur with Junior Sister Ling’s conclusions on the enemy’s leadership,” Liao Zhu reported. “While ranging, I discovered another river similar to the one she described, flowing upward toward the cavern center. I was not able to reach the ‘city’ of which I heard mention, but its existence as an administrative and industrial hub is nigh certain.”
+
+“And what is it that stopped you from reaching the settlement?” Guan Zhi asked in a clipped tone.
+
+“Defenses. A great wall, likely the destination of the blocks from the quarry we discovered, surrounds their inner lands. While I could likely have slipped their net, I was able to sense the presence of fourth realm combatants. I deemed such a zone as beyond our mission parameters.”
+
+“Accurate. You placed constructs upon this wall, I expect?” Guan Zhi asked.
+
+“Of course, Commander,” he said. “Once I had determined the perimeter, I moved out, seeking sites of significance. I believe I have discovered the forward base from which surface operations are being launched. I was able to discern a number of principles behind their strategic movements. It is quite a daunting little fortress with a five tower pattern.”
+
+“So the grave beasts have knowledge of numerology then,” Xuan Shi mused.
+
+“Just so, Sir Xuan. It is heavily fortified, but if there is a fourth realm commander, they are not immediately present,” Laio Zhu finished
+
+“Disciple Bian, relay a message to the surface. There is a potential fourth grade in the tunnels,” Guan Zhi ordered, and Bian Ya nodded, wincing as she raised a hand to her temple.
+
+The commander stood silent for a moment, staring down the tunnel.
+
+“There are arguments for striking the village, the rivermouth, or the forward base. The village tests their response to infrastructure damage, the rivermouth holds the potential to damage what these creatures regard as a vital resource and a source of cultivation, and the base has obvious strategic benefits.” Commander Guan looked up, meeting each of their eyes in turn. “I would hear your words.”
+
+“I’d say, hit the river place since it seems real important to ‘em, but that’d ruin the spy crap those two just did, wouldn’t it?” Ji Rong was the first to speak, and Ling Qi’s eyebrow twitched a little as he stole the words from her mouth.
+
+“A fair point. The principle of reciprocation would indicate a strike at the village,” Liao Zhu said blithely, “given their own attempt on our civilians. If we were to limit our strike to a piece of vital industry, such as that bridge, we would also get some intelligence on their ability to repair infrastructure in a timely fashion.”
+
+“We should just hit the soldiers,” Su Ling grunted, looking displeased. “That’s the important bit.”
+
+“I have to agree. I think focusing on their military response would be for the best.” Ling Qi did want to kill these things for their assault on her home, but she couldn’t muster any enthusiasm for killing a bunch of noncombatants.
+
+“Breaking armies is important, but breaking economies is much more effective. This was the lesson that Ogodei taught us,” Bian Ya said. “However, I do not believe that is our role.”
+
+“This one must agree with the sentiment. The shipyard is far more vital than the admiralty. To strike it with these forces would be hubris,” Xuan Shi said.
+
+“Just use normal words. There’s not a damn boat in sight,” Ji Rong complained under his breath.
+
+“Fair points, all,” Liao Zhu admitted. “Commander?”
+
+Guan Zhi was silent for a moment. “My inclination is to strike at the most vital point within our reach, but it is correct to say that this is not our role in this mission. For our current objective, striking a military target will be the most effective. If this disrupts their current attempt to organize and grants the Sect and the Empire further time to prepare, so much the better. Disciple Liao, sketch out the layout of our target. Disciple Xuan, study his notes and determine which of the five anchor points is most vital to the construction. It is time to plan our assault.”
+
+A thrill went up Ling Qi’s spine, warring with her worry and caution. Soon, she would once again be taking part in a real battle.

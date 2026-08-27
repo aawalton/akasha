@@ -1,0 +1,103 @@
+---
+id: 8e580636-0f29-5f77-b166-0806154a69a0
+page-type-slug: story-chapter-royal-road
+title: "Threads 470-Revelry 4"
+slug: 0515-threads-470-revelry-4
+partOf: forge-of-destiny
+position: 515
+ownLength: 1873
+unit: words
+publishedAt: 2025-09-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2566981/threads-470-revelry-4"
+royalRoadId: "2566981"
+---
+
+"I don't believe that. Out there, there are so many emotions in the air. Joy and relief and anticipation and a hundred others. I don't doubt that joy can be born from the ashes of rage, but I think it is wrong to say that what is happening today is still that," Ling Qi said.
+
+She drew on the cool dark qi that flowed through her meridians, letting it flow through her eyes and ears more precisely. The crushing darkness of the studio was lightened by fractions. She could see the outlines of the stage, the suggestion of moth-eaten curtains still held up by fraying rope, the shallow stairs which descended toward it, and the stumps and skeletons of the seating. She saw too many shapes, set out haphazardly without pattern or reason. Vases and urns, from tiny delicate  ones set atop broken pillars and nestled among the wreckage to towering curved ceramic giants big enough to fit multiple men in their depths, dotted the landscape.
+
+Shu Yue traced their long fingers along one such giant, set near the top of the shallow descending stairs. "It is true that they look to the future now. She drives that. Her light demands to be seen and followed as it leads the way forward into something new. But the past remains behind us. Its bloody maw and scarred muzzle nips at their heels. Even the Radiant Tyrant cannot slay such a beast. Ignoring its fetid breath on their backs will do you little good, even if they themselves no longer consciously acknowledge it.”
+
+Ling Qi’s hands curled into fists beneath her sleeves. Qiyi shifted, silk rippling. She felt concern blooming through their bond, the question flitting by. Was this an attack? If it was, it was one she preferred to receive.
+
+"I know. Beneath the praises for our summit and our new peace, I can hear the drums of war and the anticipation of profit. I know I have bought peace with the White Sky through blood and land. The greatest happiness among my allies is toward the dream of crushing the threat of the cloud tribes once and for all."
+
+Shu Yue traced their hands over the painted patterns on the sculpture. Geometric patterns moved and crawled, changing between one eyeblink and the next.
+
+"I can't say I do not understand this,” Ling Qi continued. “I saw Ogodei tear a city from the earth in Elder Jiao's memory formations. I've seen the echoes in the liminal. I have seen a raid in progress, and I know the tribes which attack have no more interest in the concept of mercy than our most furious retaliations."
+
+"Grudges do not die without blood to drown them," Shu Yue agreed.
+
+"But you still gotta find a point where people can agree to stop," Sixiang insisted. "I can't say I like that fat old nightmare draping itself over the whole mountain range. Really messes with the ambiance, you know? Also, what the heck do you use these big ones for?"
+
+Sixiang squinted up at a towering, narrow necked vase. Ling Qi had almost mistaken it for a pillar in the dark.
+
+"What man has always used pots of river clay for," Shu Yue answered. "Storage. Preservation."
+
+Ling Qi observed the urn Shu Yue leaned against more closely, enhancing her eyes to the point that they prickled uncomfortably with the qi impressed into her nerves. The shifting patterns squirmed  like trapped insects until she could force them to make a kind of sense.
+
+Meng Delun's snarling face looked back at her, stark in black and grey, eyes that were pits of furious hate.
+
+She recoiled, letting the qi flee from her eyes and trickle away into her channels as she blinked away tears. "That isn't…"
+
+"It is his grudges. No more. The man is dead," Shu Yue said. "I become. That is the nature of the faceless. In the old days, I would leave such husks behind, unknowing or caring of their pollution. I am a cleaner hunter now."
+
+"And what do you do when they're emptied out?" Sixiang asked.
+
+"They remain… meditation aids," Shu Yue said. "We stray. You do know then, even if you chose to put the thoughts away. Darker urges are as much a part of men as brighter. I will accede to you that the rage which buoyed my master unto the heavens to burn it down is a lesser thing now than it was in the days after when men and women howled and clapped at each bleached skull scoured by her light. Still, their cheer comes in memory of what she did and what she will do. There is another foe, after all. One who has begun to remind them of old scars."
+
+The ith. The insidiousness of the most recent attack gnawed at her. It was an assault built to sow paranoia and distrust, especially if her observations were correct. It was exactly the sort of attack which would stoke bad old memories, even more than the bombastic attacks.
+
+She wondered how much the minds of the ith-ia understood what they were stirring.
+
+Yes, if she cleared her preconceptions and let herself feel the ambience of celebration outside,  there was a building furor there. This was the celebration of life as it was and of joy in the now for the future held violence. And it was not violence the participants were opposed to.
+
+"Indeed. When the armies of the Emerald Seas march, it will be with a righteous fire in their bellies. And why not? Who are these beasts from beneath the earth who strike them beyond any bound of honor or custom, who sow bleeding, sickening harm beyond any cloud tribe raid?" Shu Yue asked rhetorically. Her mentor stepped away from the massive urn holding the Meng elder's grudges. "Follow."
+
+Ling Qi did, Sixiang tailing along. Ling Qi considered Shu Yue's words. She knew that desire. Want was not an emotion which could be called good or bad; it arose from many corners. Her eyes saw more the desires which bent toward consumption and possession, and so, she was less attentive to the passions which fed more destructive urges. While she did not think she was wrong in that the desire to consume, possess, and grow was the greater urge, she could not afford to ignore the Want that was retribution, spite, and wrath.
+
+She had seen well enough the ends which could drive even a sovereign to. It was why she had chosen the lesson she had after all. She needed ti learn to confront and to bend those desires to her own ends as she developed her Thief of Names.
+
+It just bothered her to find those kinds of roots even in celebration and joy,. It shouldn't, but it did. She really had bought into Renxiang's ideas, hadn't she?
+
+Sixiang laid a hand on her shoulder as they descended down and down, further than should have been possible given the physical space, until they came before the stage. Set on the floor there was a worn table, thick with dust, and on it were numerous ceramics, including pots and urns and bowls. They were all small and humble compared to the gigantic vases which sat on the higher floor. Most were pitted, worn, or even cracked, and their patterns were simple and in some cases, childish, like the things Biyu made.
+
+Somehow, it was those ones which curdled her stomach the most.
+
+"These are among my first pieces," Shu Yue said fondly, tracing their finger over the rim of a wide cracked bowl splashed with bright, garish color that reminded her of Elder Jiao's robes. "Our next lesson will be in the days immediately before the ceremony. Until then, consider this… a self study. You will select a piece, and cultivate on the grudges found within and their fulfillment. These are the echoes of the inner lives of those they once were. When we meet again, I will have questions."
+
+Ling Qi swallowed. These felt awful. It was like the coldest wind cutting her skin or the most fetid trash she had ever pawed through in hope for scraps.
+
+"I understand. How do I…?"
+
+"Simply select that which resonates the most."
+
+She examined the line of grudge containers, eyes sweeping over each in turn. Ling Qi tentatively reached out. Silk squirmed, and threads spun out, a thin glove forming over her hand as she grasped one of Shu Yue's pieces, a slender, high necked vase, glazed in splotchy, inexpert white. Even under Qiyi's instinctive shielding, it felt unpleasantly cold and damp to the touch like it had never finished firing properly. Despite that, it was solid, and as she drew it closer, she could hear the whisper of clinking chains from within.
+
+Of all the pieces here, it was the one which both drew her enough with familiarity and did not repulse her with an instinctive disgust and anxiety too much to touch.
+
+Sixiang crossed their arms. "You sure she really needs to mess with these things? We are supposed to be having a good time." The muse edged away from the table.
+
+"If we are to delve deeper, yes." Shu Yue tapped their fingers together. "That one… It is naught you do not know, but feel the grudge which called me to them. Understand it, and we will have a place to begin."
+
+Ling Qi gingerly drew the vase closer to her chest. It was at once as light as air and staggeringly heavy for its size. She started to look into the depths before Shu Yue’s hand presed firmly over the open top of the vase.
+
+"Not here, and not now. Sup and drink lightly in a space of your comfort and choosing. My studio suits me, not you."
+
+LIng Qi pressed her lips together in a thin line and nodded. "Not tonight then?"
+
+"No. Return home, rest, and make merry work, and when you feel yourself fortified, we may have a look into the dark," Shu Yue instructed. "This conversation tonight is enough for you to meditate on."
+
+Ling Qi did not look back down again as her teacher with drew their hand. The distant sounds of clinking and the wispy scent of cheap perfume did not leave her nose. "Yes, teacher. Will it be safe to use a storage ring for this?"
+
+"For your return trip? It should not do damage," Shu Yue said, considering. "Remove it when you reach your chambers."
+
+Implying it definitely wouldn't be okay if she left it there. Ling Qi let out a breath. She knew storage rings involved some degree of liminality to function so it wasn't too surprising that something like this could damage a common one.
+
+"Well, I guess I knew there was gonna be some glooming up," Sixiang sighed. "You gonna want me around when you take a look?"
+
+"Please."
+
+She was already considering when she might do it, the new year was fast approaching… and Bai Meizhen would be returning soon, along with the Bai delegation to the wedding.
+
+After reuniting with her best friend, she was sure she could handle a look into the dark, without letting the gloom cling on too much.

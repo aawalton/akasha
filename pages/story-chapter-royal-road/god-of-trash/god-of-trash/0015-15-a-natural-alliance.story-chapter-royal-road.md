@@ -1,0 +1,157 @@
+---
+id: f1b8ab1b-0740-5058-b242-e0798bb5bb1f
+page-type-slug: story-chapter-royal-road
+title: "15. A Natural Alliance"
+slug: 0015-15-a-natural-alliance
+partOf: god-of-trash
+position: 15
+ownLength: 2760
+unit: words
+publishedAt: 2025-03-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2115909/15-a-natural-alliance"
+royalRoadId: "2115909"
+---
+
+BOOM!
+
+The earth shook. The house trembled. A wave of force blasted into Rhys and Tarais, sending both of them stumbling back. Black smoke billowed out of the windows, chimneys, and doors of the house.
+
+Rhys looked at Tarais. “Should we, uh, help?”
+
+Tarais stood casually, her hands clasped behind her. “No, this is fine.”
+
+“Is it?” Rhys muttered to himself.
+
+A few seconds later, Sorden came staggering out of the door, chased by a gout of dark smoke. She coughed heavily, waving her hand in front of her face, then looked up. Finding two students in front of her, she beamed. “Good afternoon! Anything I can help you with?”
+
+“Er, anything we can help you with?” Rhys returned.
+
+Sorden looked at him, lost, then glanced over her shoulder at her still-smoking house. She laughed. “No, no. I was experimenting with a new pill formula, and it didn’t work out, that’s all. This happens all the time.”
+
+Pillmaking is more dangerous than I thought. Rhys eyed the black smoke for another beat, then put it to the back of his mind and smiled. “I’ve discovered a way to farm herbs on the mountain. Would you be interested in purchasing my herbs?”
+
+She raised her brows. “Let’s see the herbs you’ve made. Depending on their quality, I might be interested.”
+
+With a customer-service smile, Rhys drew out samples of his herbs and offered them to her. “If you’re interested, I’m willing to offer you a twenty-percent discount below market price in return for your protection.”
+
+Sorden chuckled. She took the herbs from him and examined them. “We’ll see, we’ll see.”
+
+Rhys tucked his hands behind his back and waited. He closely watched her. This was his first time seeing an herb examination. What she looked for would tell him a lot about what to work toward in the future.
+
+Sorden gave them a quick visual inspection. She glanced up, and seeing Rhys’ eyes on her, gestured him closer. “The cut at the base of the herbs is a bit crude, but the shape and quantity of the leaves is good. There’s no damage from bugs, which is impressive, especially on this mountain. Nor is there any sun, heat, or water damage. These herbs appear to have been grown in a very controlled, stable environment.”
+
+He nodded. Half of that was true. The environment was incredibly stable, since he’d grown all the herbs in the space of a few hours rather than over a few weeks or months. Controlled, not so much, but so be it.
+
+“Before a deeper internal examination, their aura is also good, bright and healthy. If I didn’t know better, I’d guess they were grown with mana constantly piped into them. You rarely get this kind of aura, even with farmed herbs. It’s something you see with herbs that grow naturally near mana springs.” She glanced at him again. “If you found a mana spring… I’m not going to look into your business, but be aware, the other students will be very interested in finding it. That kind of resource should be reported immediately to the school.”
+
+Rhys nodded slowly, digesting her hint. She was basically warning him that the stronger students would steal it from him, so he was better off reporting it to a teacher and getting the credit for finding a resource for the school, rather than hiding it for himself and risking another student taking his glory from him by force. Of course, I didn’t find anything like that. But I should keep in mind that the other students might want to discover my trash secret eventually. No—Tarais is already enough warning of that. I need to closely guard my mana generation secrets. This school only needs one Trash Lord, and that’s me!
+
+Sorden turned back to the herbs. She closed her eyes and examined it with her mana. One second passed. Two. Three.
+
+Her eyes shot open. She grabbed Rhys’ hand. “Forget a twenty-percent discount. I’ll buy these herbs from you at market price and provide backing for you. However you’re growing these herbs, keep doing it. If anyone interrupts you, I’ll personally make sure they never dare bother you ever again.”
+
+Rhys grinned. “Of course. I knew I was right to bring them to you, Professor. You were the first person I thought of, and I never considered going to anyone else. Only someone as dignified as you could see the full potential of these herbs.”
+
+Beside him, Tarais gave him a look.
+
+“Good, good. A good student like you knows to trust your professor,” Sorden said, patting his shoulder in a familiar way.
+
+“Yes, of course,” Rhys agreed, as someone who had been to exactly one class in his learning career.
+
+She pocketed the sample herbs and reached into her pocket. “When you grow more herbs of this quality, reach out to me. I’ll be happy to buy—”
+
+“Er, excuse me, but…” Rhys drew all the herbs out of his storage ring and set them in piles beside her.
+
+With every pile, Sorden’s eyes grew wider. She darted from pile to pile, checking the herbs from each one. “Impossible. Impossible. How are they all that high quality?”
+
+Rhys bowed. “Please allow a student to keep his secrets.”
+
+“Naturally. You can keep all the secrets you want, as long as you keep supplying me with herbs this powerful. There wasn’t a single impurity in any of these herbs. Not a single one. How—”
+
+Rhys smiled mysteriously. There aren’t any impurities because I put all the impurities in me. Not that he was going to admit that. Someone else might muscle in on his market.
+
+Sorden raised her hand again. “Don’t tell me. Here.”
+
+She reached into her pocket and drew out an unrealistically large bag. There was absolutely no way the bag could have fit in her pocket, but in the face of a giant bag of money, Rhys didn’t question it. He accepted the bag and checked its insides.
+
+Gold glittered back at him. An immense quantity of gold, more gold than he’d ever seen in person in any life. Rhys immediately choked the bag shut and hid it in his storage ring. Holy shit. I’m rich!
+
+“Are you locked to these herbs? That is, could you grow other herbs?” Sorden asked.
+
+“As long as the growing process is simple. If it requires a particular time, location, light, soil, or water, I cannot grow it… or would have a more difficult time.”
+
+“What if I supplied the soil and water?” she asked.
+
+Rhys considered. “I won’t guarantee it, and I can’t say how quickly I could get it back to you, but I could try.”
+
+“That’s good enough for me.” She turned toward her house, only to find black smoke still issuing forth. She rolled her eyes and clapped. A gale-force wind burst from her palms and instantly cleared the smoke from the house… along with most of her lighter-weight personal items. Waving her hand, she called her personal items to her and walked back inside with the practiced air of someone who had done this a thousand times.
+
+Tarais stared at Rhys. The second Sorden disappeared, she leaned in. “How did you grow herbs that even impressed Professor Sorden? I’ve never seen her this excited about Tier 1 herbs before.”
+
+“Let a man keep his secrets,” Rhys intoned, looking at her from under his eyelids.
+
+She rolled her eyes at him.
+
+Sorden came back out with a small pot and a jug of water. Rhys accepted them and put them in his storage ring. Once he’d stowed them, she held up a small, star-shaped seed pod. It reminded him of star anise, almost, but it was a shimmering white instead of dark.
+
+“This is a Star Ice herb. Despite its name, it doesn’t need cold or nighttime light. What it does need, is incredibly pure mana. I’ve never been able to generate pure enough mana for the seed to sprout instead of wither. This is my last seed.” She took a deep breath, then handed it over to Rhys.
+
+Rhys carefully accepted it. Despite the weight of Sorden’s words, it was incredibly light. So light he barely felt its weight on his hand.
+
+“I won’t blame you if you failed. I’ve failed enough times that I… my heart has a snag whenever I attempt it any more. In my current state, I think I could never accomplish it. I’m too hung up on the process. But you… you’ve already succeeded to produce pure enough mana. If you could successfully sprout this Star Ice seed, I would pay you twice as much as I’ve paid you so far. No—five times as much.”
+
+Rhys’ eyes widened. Hoooooly shit! Hell yeah! Easy, too easy! If all the seed needed was pure mana, then he could absolutely provide that. It wasn’t even hard. In fact, it was the default.
+
+Beside him, Tarais stared with her jaw dropped. She looked Rhys up and down, confusion shining in her eyes. What is this student? How is the trash collector this good at growing herbs?
+
+Externally, he nodded with a serious expression and put the seed carefully into his storage ring. “I’ll do my best.”
+
+“Water it with the Glittering Dew once an hour while it’s receiving mana. Replenish the water if the soil gets dry,” Sorden informed him. “That’s all it takes. It’s a relatively easy herb.”
+
+Rhys nodded. A smidge of concern welled up in him at that. He could provide mana, but when he was acting as a conduit, that was all he could really do. Under the enhanced, faster growing process he could induce, would the seed need watering more often? And if it did, could he do anything about it? He was pushed to his limits just channeling the mana. He didn’t have the time or mobility to do anything else.
+
+He looked at Tarais. She glanced around her, then frowned and pointed at herself. “Something on my face?”
+
+“No… I’ll tell you later.” Rhys looked away. He didn’t want to give away any of his secrets, even obliquely. Not that he didn’t trust Sorden, but well, he had no reason to trust Sorden. She was a more powerful mage with access to far more resources than him. She backed him because of his technique, but this whole time, she’d deliberately refused to even ask for hints as to how he did it. Rhys understood perfectly. If she knew how to do it, she’d be tempted to eliminate the middleman, as it were. Sure, she might not. She might be a good person who valued her students, or a lazy person who didn’t want to do all the hard work herself. But better for all of them if he simply didn’t tempt her.
+
+Instead, he’d broach the subject once he was out of Sorden’s hearing range. He nodded at Sorden. “If that’s all, then I’ll take my leave.”
+
+“Please. And don’t forget to come to class, unless it interferes with growing the herbs!” Sorden replied cheerfully. She waved as the two of them walked away.
+
+Rhys nodded. Sorden was a woman with her mind in the right place. Who needed class when you could spend your time doing far more important things?
+
+Of course, it wasn’t as if there was no value to learning. Now that he had the piles of trash under control, and would only need to do weekly trash pickup, plus had a technique that made him stronger based on the amount of trash he collected, there was no reason not to check out the classes. Before, when he’d had trash-tier stats and no ability to grow stronger, it would have been foolish to go to classes. The other students would bully him, and he’d have no option but to take it. Even going to the one potion class he had, had only been out of necessity, and not only that, but he’d been bullied there. Not effectively, but the effort was made, and that was the point.
+
+But mostly he was considering going to class because he had to wait for trash to accumulate before he could attempt growing Sorden’s Star Ice plant. Not only that, but he had no idea how much mana her seed required. He wanted at least twice as much trash as the first batch of herbs had taken before he’d attempt germinating it, just to be sure he had enough. And that might not be enough. The seed was at least a Tier 2 herb, from its aura. Between Tier 1 and Tier 2, the power required to grow things didn’t increase linearly. It increased exponentially. Ten times the trash might be a better idea.
+
+And maybe that was overkill. After all, he’d grown dozens of herbs with the first garbage pile. If he poured all of an equivalently sized pile into this one seed, maybe it would be enough.
+
+Better safe than sorry. Still, that only meant even more waiting. He frowned. He had to find a way to generate more trash, faster. Either that, or…
+
+Rhys turned toward the top of the mountain. This whole time, he’d remained on the lower half, where disciples were allowed. The top of the mountain was for the most powerful members of the school. A small, select handful of experts at high Tiers lived up there, secluded from the student and teaching life of their lessers.
+
+Kind of like academia in my world, Rhys thought.
+
+He hadn’t been allowed to pick up garbage up there. The upper half of the peak was just as overridden as the lower half had been, but that garbage… even the scent of it was already a force at the Tier 2 level. If he could burn that glorious filth, the mana he could gather from a single scrap would outshine all the garbage he’d burned so far.
+
+If he could handle it at all. It was powerful stuff. His mana systems had been pushed to their limits handling that first pile. He was pretty confident he could now handle a bigger pile of low-Tier trash, thanks to the strengthening he’d received from pile number one, but the mana he’d be able to obtain from that upper-region trash…
+
+Rhys shivered in anticipation. He dragged his eyes away. Later. For now, I’ll strengthen myself until I can take on that trash. Once I’m ready, then I’ll go make my case to the Schoolmaster.
+
+When they were far enough from Sorden, he nodded at Tarais. “Are you open in about…” He paused for a moment, mentally calculating the accumulation speed of trash. “…Four weeks?”
+
+That would get him a regular-sized pile of trash, with no intervention or discovery of new piles of trash on his part. He planned to go trash-hunting, too, but four weeks was the bare minimum of time he’d need to have the minimum trash required to attempt growing the seed. The piles he’d picked up wouldn’t re-accumulate, but then, trash did decay over time. Lots of it had already decayed in his first pile, and he’d lost out on lots of wonderful trash. Plus, the older low-Tier trash like this was, the more mana it decayed, so the existing piles of trash hadn’t had as much mana trapped inside them as the new ones.
+
+The higher-Tier trash on the top of the mountain was different. It held its mana. The whole time he was here, it hadn’t decayed. In fact, the mana might have enriched itself ever so slightly.
+
+Tarais considered. “I’ll be available. Why?”
+
+“Come to my house in four weeks’ time. I have a job for you,” Rhys replied mysteriously.
+
+The job, of course, was supplying the seed with water. He wanted the absolute minimum number of people to know about his trash technique. Tarais had already seen him using it, so he wasn’t too worried about bringing her back to see it again. Plus, something about her told him that she didn’t have much interest in trash techniques. Her loss, but nonetheless, something that made her all the more trustworthy.
+
+She nodded. “Certainly.”
+
+And now, with nothing better to do, all his affairs settled, and no needs but the passage of time to let trash accumulate… it was time for Rhys to do something he rarely did. Something he’d actively avoided as much as possible in his first life. Something he was loath to do even in this one, even with the promise of fireball-shooting on the line.
+
+It was time to go to class.

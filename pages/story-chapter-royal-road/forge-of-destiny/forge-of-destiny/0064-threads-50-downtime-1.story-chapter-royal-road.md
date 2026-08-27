@@ -1,0 +1,115 @@
+---
+id: 3abb56a3-1112-5c48-ace2-f66a962a4b1c
+page-type-slug: story-chapter-royal-road
+title: "Threads 50-Downtime 1"
+slug: 0064-threads-50-downtime-1
+partOf: forge-of-destiny
+position: 64
+ownLength: 2386
+unit: words
+publishedAt: 2021-02-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/632251/threads-50-downtime-1"
+royalRoadId: "632251"
+---
+
+Over the course of the next few days, things went peacefully enough as Ling Qi returned to the main force and joined the detachments dealing with the issues she had helped map out. Soon enough, they were on their way back to the Sect, and she had been commended for performing her duties well.
+
+It irked her a little to just do ‘well,’ but standing out was hardly the point in an exercise like this. She would just have to be satisfied with that and her contribution points.
+
+With the exercise over, Ling Qi found her mind turning back to cultivation, her tutoring of Xiao Fen, and her time with her family. While she knew she wanted to help her mother select a cultivation art from among those provided by Cai Renxiang, she was less sure of other things. Given everything that had happened recently, she wanted to spend time with her little sister as well, and she was pretty sure she wanted to spend time outside with Biyu. The land around the Sect was beautiful, and some of it was even mostly tamed. It would be good to let Biyu run around.
+
+***
+
+It was a little nostalgic, Ling Qi thought, sitting beside her mother in the house’s small study, learning to read. Though unlike before, the roles were reversed, and the surrounding more luxurious. “Do you feel an affinity for any of the exercises?”
+
+Ling Qingge was silent, her aged features scrunched with effort as she painstakingly read through the contents of the jade stick on the table. The slab given to Ling Qi by the Cai was a wondrous thing, able to detach segments of varying size which contained some portion of the total library. The piece her mother held in her hands contained the entry level cultivation arts.
+
+At last, Ling Qingge sighed and set the jade down, reaching up to knead her temples. “It is difficult to know. Some seem like little more than exercise manuals while others seem wholly detached from any material concern. I am not certain I am fit to judge.”
+
+“It’s fine if we have to guess a little,” Ling Qi said with a small smile. “You’ve already taken the first step, Mother, and that means the rest is just a matter of time. Just go with your first impulse for now. If it doesn’t work out, we can try another.”
+
+The older woman met her eyes and then nodded, seemingly buoyed by her confidence. Ling Qingge picked up the jade stick again, and her closed eyes fluttered as she began reviewing them again. It was something Ling Qi was happy to see. With her mother’s achievement in cultivation, some of the wear which recent years had piled upon her seemed to have fallen away. She was still a quiet and reticent woman, prone to melancholy, but Ling Qi felt like she could see something of the firm and decisive woman who had once corralled her wild self into sitting down and learning her letters and numbers, despite the physical and mental exhaustion of degrading work.
+
+Still, Ling Qi was glad when her mother finally opened her eyes again. Sitting still for so long without cultivating left her feeling a bit jittery, if she was honest. “Blooming Earth Meditations,” her mother said slowly. “To me, it seems the most grounded of these… arts. I believe I could practice it.”
+
+Ling Qi hummed, briefly reaching out to touch the jade stick and pull the information on the art into her thoughts. Blooming Earth Meditations cultivated wood and earth in the old style, a three step cultivation art which focused on slower paced contemplative exercises and breathing techniques. It encouraged its user to contemplate themes of growth and cycles. She could see why her mother might lean toward something like this. It was not something that she would cultivate given her own inclinations, but it was a good beginner art.
+
+“I’ll make some time to help you get started tomorrow then,” Ling Qi said decisively. “Speaking of which, have you thought about what we talked about earlier?”
+
+Ling Qingge’s expression grew slightly pinched. “I am still not certain I like the idea. While I do not doubt that you will assure Biyu’s safety in the moment, encouraging a child to play beyond the boundaries is…”
+
+“I understand,” Ling Qi replied. “But Biyu has some talent for cultivation. I’m sure of it. I think it’s important to encourage her to want to enter the world of cultivation early on, especially if her talent is lesser. Advancing can be very discouraging otherwise.”
+
+Her mother shot her a rueful look. “Using arguments for encouraging children toward academics now. How things have changed.”
+
+Ling Qi grinned. “It’s not my fault that they’re good arguments. Besides,” she said more somberly, “I think it would be nice if Biyu could have a more solid starting point, instead of having to flail around and get lucky like her sister.”
+
+Some luck would always be necessary, but sometimes, Ling Qi envied the smooth, untroubled advancement of people like Bai Meizhen or Cai Renxiang. Most would call her arrogant for aiming her sights so high, but Ling Qi doubted that anyone rose to the heights of cultivation without a little overreaching pride.
+
+“Very well. I will trust you on this matter,” Ling Qingge said after some thought. “However, I expect you to be the one to give her a bath afterwards,” she added.
+
+“My, what will the household think, having the lady of the house perform such a task,” Ling Qi replied with false pomp, resting her hand on her cheek. “Mother, you make the most untoward demands.”
+
+They shared a look. Then,Ling Qi snorted inelegantly, and her mother looked away, hiding the hint of a smile with her hand. Things were getting better, Ling Qi thought. If that meant putting up with some sneering at parties, it was worth it.
+
+When the next day came, Ling Qi rode with a laughing Biyu into the lightly wooded foothills, perched on Zhengui’s back. She made sure not to release him until they had gone beyond the fields and wards, but it created a mild spectacle all the same among the field laborers. She simply made sure to sit up straight and hold an imperious expression despite the excited child in her lap, who was still mystified and excited by the shimmering green glow protecting her from Zhengui’s natural heat.
+
+Their destination was not too far away. In preparation for this excursion, Ling Qi had put some of her surveying skills to work and found what she was looking for in a spiritually rich little gully with a small stream that flowed through it. It was a beautiful place, rich and green with clear waters that gurgled and bubbled musically over the smooth river rocks.
+
+However, it was more than that. The leaves bent and swayed under the weight and movement of glittering spirits of wind, little more than whorls of air in the vague shape of birds and insects. Glittering fairies like crystal sculptures danced atop the bubbling water. Among the flowers and grass, some plants moved and swayed of their own volition, and curious eyes peered down between the shadows of leaves
+
+It was a place where the little spirits of the world were born and gathered, rich with free-flowing qi. A good cultivation site to be sure, but that was not what she was here for, and besides, it was in the Outer Sect. In her arms, Biyu peered around with wide eyes as fluttering spirits took flight at their passage, and a brilliantly colored flock of insect-like fairies spiralling up into the sky as they fled Ling Qi’s passage.
+
+She knew that among the inhabitants of the gully were plenty of the sorts of spirits that whispered and tricked and cajoled mortals who could hear, drawing them out of safety, but Ling Qi was not a confused mortal any longer. There was nothing to fear here. Even restrained from human senses, her presence had weight and power, and she could feel the spirits brushing against the edge of her awareness.
+
+Ling Qi smiled as she set her sister down and rested a hand on her head. In the realm of the immaterial, her spirit pulsed, and cold swept through the observing spirits. It touched lightly upon Biyu’s head, and the little girl giggled and grabbed at the snowflakes that crystallized in the air around her. To everyone else though, the meaning was unmistakable. “Mine,” her spirit said, and it was both declaration and threat, absolute in conviction, colored by the mastered lessons of the Thousand Ring Fortress art.
+
+“Can we swim?” Biyu asked with wide eyes as Ling Qi led her down to the stream. Behind her, she could feel Hanyi’s gaze on her back from where the young spirit sat on Zhengui’s shell as her little brother laid down for a nap.
+
+“If you want, little sister,” Ling Qi replied with a grin. “That goes for you too,” she called back, startling Hanyi. “We’re here to have some fun after all.”
+
+Hanyi huffed and looked away, puffing out her cheeks. “I don’t need to play baby games.”
+
+Ling Qi rolled her eyes at the spirit’s pique. “If you’d rather your Big Sister give you a dunking, just say so,” she said sweetly.
+
+“You wouldn’t,” Hanyi said, narrowing her eyes.
+
+“I would,” Ling Qi replied in a voice of steel.
+
+“I’ll freeze the water,” Hanyi threatened.
+
+“Not if I don’t let you,” Ling Qi challenged.
+
+“I’ll help,” Sixiang laughed, their wicked grin audible in their voice.
+
+“There’s no need to be stubborn,” Ling Qi added more gently. She knew Hanyi still had issues with her human family.
+
+Biyu had wandered a bit while they argued, crouching at the shore to watch glasslike “fish” made wholly of water dart and vanish among the rocks and reeds. “Hanyi play too?” she asked innocently, looking up.
+
+At that, Hanyi rolled her eyes and slipped down from Zhengui’s shell. “Fine. If Big Sister wants to play so much, I guess I can.”
+
+<It’s gonna take more than that you know,> Sixiang said silently.
+
+<I know,> Ling Qi thought. <But at some time, you just have to start moving forward.> With cultivation, with family, with her responsibilities. It wasn’t just in cultivation that she had to strive for improvement.
+
+So without hesitation, she happily spent the morning playing in the stream with her little sister and Hanyi. They swam and ran and laughed, and keeping her more fragile sister shrouded in protective qi, she worked to include Hanyi in their play. When they stopped to rest and weave flowers, it was Hanyi who transformed the fleeting constructions into crowns of unmelting ice that glistened beautifully in the sun, their colorful petals preserved forever. When Ling Qi sat at the riverside and sang an idle and playful song she had made up on the spot, the two of them listened closely with grins on their faces.
+
+So, even if she had not cultivated at all that morning, Ling Qi still felt good as they rode back toward the town on Zhengui’s back. She would work hard to make sure that Biyu associated cultivation with beauty and fun, so that her little sister could enter that world with a strong drive. Likewise, she had promised her Master, Zeqing, that she would take care of her daughter, and that meant making Hanyi a part of the family, one way or another.
+
+It was a morning well spent.
+
+***
+
+Days flew by peacefully as Ling Qi divided her time between such pursuits and her own training, and despite the reduced time spent at it, she continued advancing quickly. She finally mastered the nuances of Thousand Ring Fortress, streamlining the last inefficiencies in the art.
+
+When she contemplated the lessons taught by the art, she found herself remembering Elder Zhou’s advice to her so long ago during his test. “Retreat is not always cowardice but can become it if relied on overmuch. Think hard on what stands to be lost before choosing to cede ground.” That advice had stood her in good stead over the course of her time in the Outer Sect where she had stood her ground versus Huang Da, Kang Zihao’s minions, and in the intra-Council fight and more. And it could again, preventing the cowardice that had seized her when she had faced the Hunting King in that Bloody Moon Dream, if she truly internalized that lesson.
+
+There had to be more in life than base survival, and so there had to be some things that she could and should put her life on the line for. At the same time, she couldn’t be inflexible and unyielding all the time. But as Thousand Ring Fortress taught her, a tree’s branches and even trunks could bend and sway, but the roots must be unyielding. She knew that to follow her Path, she could retreat only so far and then no more.
+
+She also completed the Curious Diviner’s Eye art as well, mastering the final technique, which allowed her to peer at distant people and locations in pools of water. Unlike Thousand Ring Fortress though, the lessons she learned from it did not resonate with her. While she knew the importance of lessening her ignorance or remaining watchful, it didn’t seem so fundamental a lesson to her that she wanted to enshrine it in her domain. A useful lesson - but not a core lesson.
+
+With her arts mastered, Ling Qi turned to putting into practice Sect Elder Hua Heng’s lessons. In preparation for more advanced arts, she began to refine the flows of her current arts, reducing the number of channels which she needed to attune to use them.
+
+Her spiritual cultivation shot up as well, and Ling Qi felt herself breaking through to the Green Foundation stage. For the first time, she could see herself reaching parity of cultivation with her liege and Meizhen, at least for a time, for the climb to the next level was a long one, and both had achieved their Foundation stages only a short time ago.
+
+Even feeling some dissatisfaction for her performance in the mountains, Ling Qi could only think that things were looking up.

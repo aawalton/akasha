@@ -1,0 +1,219 @@
+---
+id: 2749ab38-a62e-5c0c-9137-d3b867b54a77
+page-type-slug: story-chapter-royal-road
+title: "90. Child-Rearing Advice"
+slug: 0090-90-child-rearing-advice
+partOf: god-of-trash
+position: 90
+ownLength: 2853
+unit: words
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2315156/90-child-rearing-advice"
+royalRoadId: "2315156"
+---
+
+The referee stepped forward in the next moment. He cleared his throat. “Winner, Rhys Foundling.”
+
+“This match is invalid! He was beating my child indiscriminately!” the well-dressed man, Florian’s father, insisted.
+
+“Haaa, is a match invalid if your child loses? I didn’t see you complaining when Florian was beating the other students,” Rhys bluffed. He didn’t know that Florian had one-sidedly beaten his opponents—honestly, Florian hadn’t stood out enough for him to actively watch the kid—but given the way he’d instantly tried to overwhelm Rhys and spent the entire battle talking down to him, it would surprise him more if Florian didn’t beat his opponents half to death. His sexual-assault attack alone meant the man didn’t respect his opponents, and his initial attack had meant to capture Rhys in ice and immobilize him so Florian could pierce him full of poisonous needles. Rhys had been able to feel them through his Impurity and Poison Resist skills, which meant the potion was nothing to shake a stick at. Anyone but him would have been frozen upright and paralyzed after the first barrage.
+
+What Florian did after that… well, Rhys could fill in the gaps, and it wasn’t anything good. Especially since he himself had been able to indiscriminately beat—ahem, teach Florian a valuable lesson as long as Florian hadn’t been able to fully speak his concession, what Florian did, was essentially take away his opponent’s physical freedom, then their freedom to speak, and once he stripped all their agency, Rhys had read enough news stories about rich people to know what happened to his opponents. Honestly, looking at Florian now and finally putting the pieces of his attacks together out of combat, where he had more space to think it out, Rhys felt rage grow in his heart. He should’ve beaten the scumbag harder. Who knew what shit he’d gotten up to, throughout his uppity asshole life?
+
+Of course, he could be totally wrong. Florian could be a good-hearted shitstain who just happened to have a sequence of skills he was familiar with using that completely robbed a person of their agency and left them at his mercy. Right. He innocently owned paralytic drugs, and definitely didn’t ever misuse them. Sure. Because that played out so often at his college, people just innocently owning paralytic drugs…
+
+Rhys shook his head. It was a different world. There were legitimate reasons to own paralytics, if he imagined himself as a rich kid with little personal strength, who could face challenges from far stronger students. It was his experiences back home that were coloring his impression of this kid, he openly admitted it, but nonetheless… Florian was a piece of shit who liked beating the poor and helpless by his own admission, and deserved everything Rhys had done to him and more.
+
+From the way Florian’s father’s face reddened from Rhys’s accusations, though, he was far more on the mark than he wanted to be. He jabbed a finger at Rhys. “You must have guts to mock Cassian Coyale. You will hear from me. Watch your back after dark, child.”
+
+“Shocking. I see the apple doesn’t fall far from the tree,” Rhys said, crossing his arms.
+
+“What do you mean?” Cassian’s voice had a dangerous note to it.
+
+“But then, who am I to spit upon a time-honored family tradition? Just because I disagree with beating the helpless…”
+
+“You dare? When you beat my helpless son?”
+
+“Helpless? Far from it! We both entered this tournament, did we not? Was he not launching attacks at me? You’re the one who violated the sanctity of this match by sweeping in and saving your son, not me,” Rhys pointed out.
+
+Florian sat up in his father’s arms. Cassian released him, and he stood on his own. “Father?”
+
+“I couldn’t allow this filth to humiliate you,” Cassian replied.
+
+Florian looked away a little, slightly embarrassed. “Dad. It’s embarrassing.”
+
+“That’s right. Don’t do it in front of everyone. You want to make sure you’re hidden in a dark alley before you beat someone weaker than you for no reason but your own pleasure. I might have beaten your son, but our strength is nearly equivalent, and we fought in the light of day, in front of everyone. Can you say the same about your bullying of the weak?”
+
+Acting righteous after the brutal beating he’d handed Florian was… well, completely trashy of him, but he wasn’t here to pretend to be righteous. He was here to teach Florian a lesson about what happened when he pushed his rich-kid luck too far, and he hoped it was one Florian took to heart.
+
+He glanced to the stands. Some of the people in the stands watching his match were silent, others looked angry… and a few, particularly the weaker students, stared at Florian with old hatred in their hearts and the light of justice shining from their faces. He didn’t know Florian personally, but it didn’t mean he couldn’t recognize the harm the boy could do, and from the looks of those students, he wasn’t off base at all.
+
+He was a trashy guy. He wasn’t afraid to act up to get his way, nor was he afraid to stand up to the rich, to defend his fellow trash. It was his unique position, as someone with some strength and nothing to lose, that he could take this stance.
+
+“How dare you. We don’t bully anyone. If you want to accuse my son of such lowly behavior, present proof!” Cassian snapped. “This whole crowd watched you act like the filth you are, and they saw no such behavior from my son.”
+
+Rhys just smiled. He put his hands behind his back. “Those who know, shall know.”
+
+Acting smug and mysterious now was exactly the way to ruin Cassian’s argument. Those on Florian and Cassian’s side would never take his side, but from his self-assurance, rather than trying to fight back, they’d start to wonder if he did have some kind of incontrovertible truth. Those who suspected the Coyale family of poor behavior or had experienced it or heard stories of it, would hear his ‘those who know, know’ and understand instantly that they were on the in group; the details they’d heard, however scraggly, would suddenly feel reinforced and true. It was the ultimate counter-argument, and one that required absolutely no proof at all, a bulletproof bluff that no one could see through, because he provided no evidence for them to see through. Of course, Cassian could simply attack him and undermine his credibility, but all he had to do was keep his mouth shut, smile, and waggle his eyebrows, and there was nothing Cassian could do about it.
+
+Cassian scowled. Clearly he understood the same things Rhys had understood, because he nodded at Florian. “Go.” Turning back to Rhys, he whispered, so quietly only Rhys could hear: “Watch your back, boy.”
+
+Rhys bowed formally to Cassian. As loudly as he could, he replied, “Thank you for your advice, senior! I will watch my back, as sir kindly recommends!”
+
+Cassian narrowed his eyes, but said nothing as he followed his son away.
+
+Yep, I had better actually watch my back tonight. He glanced across the stadium, toward where Bast fought. He grinned. Luckily, Florian wasn’t the only one who could go crying for help, and he wasn’t afraid to call in big brother to help if he got cornered. Florian thought he was a nobody with no backing. He couldn’t wait to see the guy’s shocked face when he turned out to have the backing of the Sword Saint…’s Apprentice. But Florian and Cassian wouldn’t know the difference. That was good enough for him right now.
+
+And, of course, that assumed that he even had to go crying for help. He was pretty sure no one would want to get too close to his impurity potions, no matter how high tier they were, especially if the referee’s reaction from his battle with Sable was any indication. Impurities were a problem for all tiers of mages. None of them wanted to get tainted by impurities, no matter how small or weak the concentration. It was a fact that made his potions very, very powerful, if what he really wanted was to avoid a fight. It also made them powerful in fights, but he’d rather use the impurities to strengthen himself, rather than spread them around to his enemies. They were his hard-won impurities! He wasn’t going to give them to just anyone.
+
+The impurities burned out, and the black smoke faded away. Rhys put all his weapons away and drew out his healing potion to take a few sips. His legs were riddled with holes, and he had plenty of bruises and frost issues all around. He needed to heal a little before leaving the arena in case anyone came back-ward. It was going to be difficult to keep up the potato chip business while someone was watching over him… but then, that hadn’t stopped him when it was Mouse, and he didn’t intend to let Cassian stop him, either. He was willing to bet Cassian wouldn’t follow him all the way back to the trash pit, and if he did, then Rhys welcomed a fight on his home turf. Make things easier on him, if he was surrounded by trash when he fought. Not only would it allow him to use even more free-form melee weapons, but he’d be able to power up at a moment’s notice.
+
+Sitting there, with nothing better to do, he pulled up his status screen.
+
+Rhys Foundling | 15 | Core Formation (Tier 2)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 15
+
+Survivalist 33
+
+Pain Resist 50
+
+Scavenging 38
+
+Less is More 46
+
+Sewing 12
+
+Blow Mitigation 29
+
+Self-Regeneration 35
+
+Mana Manipulation 23
+
+Improvised Weapon Proficiency 15
+
+Heat Resist 18
+
+Acid Resist 24
+
+Impurity Resist 32
+
+Poison Resist 20
+
+Cold Resist 16
+
+Alchemy 10
+
+Herbalism 11
+
+Speed Reading 14
+
+Bluff 7
+
+Enlightenment 5
+
+Speed Picking 7
+
+Forging 6
+
+Crafting 8
+
+Disguise 19
+
+Path:
+
+Trash Intent 14
+
+Trash Body 10
+
+Trash Aura 5
+
+Trash Step 9
+
+Trash Manipulation 11
+
+Trash Enchanting 4
+
+Trash Talk 8
+
+Enlightenments:
+
+Trash Life
+
+Cornered Rat
+
+He pinched his chin and nodded, pleased with his progress. He’d grown more-or-less across the board, and made significant improvement on a lot of skills important to him and his path. His skills were all growing in powerful ways. He was getting stronger.
+
+The path skills were growing much slower than the other skills, but now he was sure that a few levels in a path skill meant much more than a few levels in a non-path skill. He’d been training his path a lot lately, but only gained a few levels, whereas his ordinary skills had climbed significantly despite him not particularly focusing on them. Still, the amount by which his skills had gotten better indicated to him that they’d all been growing well, whether path skill or not.
+
+The matches wound down. Rhys’s leg healed, and he vanished to sell chips as Rina for a bit, during which he sensed no one in particular watching him or coming for his rear. It probably took some time to coordinate a back attack, he got it, so he probably wouldn’t have to worry about the revenge attack until tomorrow. Once more, his chips sold out, and so he stowed Rina and headed back to the arena for the last few matches.
+
+To his surprise, the stadium was still full, despite the last few matches petering out, and not a single interesting battle amongst them. Rhys listened as he climbed slowly back to his seat, until he finally overhead the conversation he wanted to hear.
+
+“…coming tonight?”
+
+“I thought it was just a rumor.”
+
+“No, it’s true. The Empress is making an appearance. She’s supposed to give a speech to kick off the final rounds of the tournament.”
+
+Rhys raised his brows. The Empress herself? Interesting. Not shocking that Purple Dawn Academy would invite the figure pressuring their region to make a speech; in fact, it would probably be disrespectful if they didn’t. No, he was surprised that she had accepted and not only that, was willing to make a public peaceful appearance before what he assumed was the unstoppable hostile takeover, also known as invasion.
+
+Then again, if she really was more powerful than anyone here, and not only that, but had the ability to rip anyone’s core out of their body, what did she have to fear from a public appearance in a place that likely hated and feared her? They had no counter to her power. If she wanted to take over, what could they do, but ease the transition?
+
+They could, and should, fight back, but if the Empress was half as strong as Rhys’s impression of her so far, it would be a hopeless battle, at least for the initial strike. Maybe they could pull an American Revolution and do a bit of guerilla fighting against the redcoats, assuming her forces were stupid enough to march in formations… but given how mages fought in general, Rhys highly doubted they’d be facing regimented lines of riflemen.
+
+Then again, maybe the Empress was less powerful than her propaganda made her out to be. Maybe she was the woman behind the curtain, so to speak. He highly doubted it, but all things were possible. Tonight, very soon, apparently, he’d have his first chance to encounter her. He sat down in the stands, resuming his earlier position, but without propping up his injured leg on the chair in front of him, and locked in with a bag of chips to wait for the Empress.
+
+A friendly nudge on his shoulder drew his attention. “Hey.”
+
+Rhys glanced over. Bast sat next to him, dressed in his usual casual robes. Rhys raised his brows. “You okay to appear like this?”
+
+Bast shrugged. “I’m a face in the crowd. All the sycophants are chasing after my master right now, anyways, so I’m relatively free.”
+
+“The Sword Saint’s showing up?” Rhys asked, then rolled his eyes at himself. Of course he was. He was one of this region’s top dignitaries, and it was known that his apprentice was in the tournament. He’d be massively disrespecting the Empress—and likely pissing off all the ruling parties in the region—if he didn’t show face.
+
+Bast nodded. “Yeah. I’ll have to go wear my official robes and sit by his side pretty soon, but I wanted to stop by first. Your match was pretty interesting, wasn’t it?”
+
+“What, with Sable?”
+
+Bast chuckled. “No, with Florian, you know, the guy who you made kiss your boots? That was amazing, by the way. The Coyale family is well-known in the region. Everyone is going to remember that moment forever. There’s a lot of students in Purple Dawn who would love to make him kiss their boots, or worse.”
+
+Rhys grinned and slung an arm around Bast’s shoulders. “I’m so glad you agree, old friend, ol’ buddy ol’ pal!”
+
+Bast gave him a suspicious look. “What’s that supposed to mean?”
+
+“I got told to watch my back,” Rhys said.
+
+Bast nodded. “Always good advice.”
+
+“And Florian, you know, he got his dad involved,” Rhys hinted.
+
+“Wow, that’s rough for you.”
+
+“So who would I be, if I didn’t get my big guns involved?” Rhys patted his shoulder and grinned.
+
+Bast looked around, pretending not to understand, then pointed at himself. “Me?”
+
+Rhys patted his shoulder again. “That’s right, business partner!”
+
+A heavy sigh. Bast shook his head at Rhys. “My master would kill me if he knew I was helping you feud against the Coyale family.”
+
+“So he doesn’t have to find out! Plus, it’s not a feud. It’s just surviving the incoming backstabbing. And you don’t even have to intervene, unless it gets out of control! If I can handle it, you can just stay hidden and it’ll be like nothing happened.”
+
+“And if you can’t?”
+
+Rhys grinned. “That’s when I can count on my oldest friend to step in and have my back, isn’t that right, Bast?”
+
+Bast sighed again and shoved Rhys away. “Fine. Unless it threatens to get back to my master, and then—”
+
+“Yeah, yeah, I get it. I would never escalate it to your master,” Rhys said, waving his hand. Unless his life was on the line, and then he’d use whatever shameless techniques he needed to, to get out alive… but they could discuss that later, in private. That wasn’t a conversation for the stadium.
+
+Bast opened his mouth to speak again, then stiffened in shock. “Shit.” Without another word, he jumped up and sprinted off, taking the stadium stairs two at a time.
+
+Rhys blinked. He looked around, trying to figure out what had caught Bast’s attention, and finally spotted it. It was a speck on the horizon, little more than a blot against the horizon, but his mage vision could make it out. Five tall masts. Red sails burning in the setting sun. A hull as black as scorched bone.
+
+The Empress had arrived.

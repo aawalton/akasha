@@ -1,0 +1,117 @@
+---
+id: bbbe2441-c250-528e-a105-5e684fc0be96
+page-type-slug: story-chapter-royal-road
+title: "Threads 438-Green 7"
+slug: 0482-threads-438-green-7
+partOf: forge-of-destiny
+position: 482
+ownLength: 1500
+unit: words
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2149185/threads-438-green-7"
+royalRoadId: "2149185"
+---
+
+"The governor's manor?" Ling Qingge asked in disbelief as their household’s items were carried inside by their staff.
+
+"I did say so in my letter," Ling Qi said. She drew a giggle from Biyu as she rocked the girl in the crook of her arm. She had to give it to Qiyi; her little sister was fascinated by the ribbons.
+
+"I thought you must have been imprecise, referring to a household on the grounds." Ling Qingge pinched the bridge of her nose. "Oh, by the gods, I am not qualified at all to train staff for a role like this!"
+
+"You are, Mother. Do you think I have not seen what you've put your stipend towards,? The books, the scrolls, and observations of modern court fashions and etiquette? You've been much more dedicated to learning this than I."
+
+She lifted Biyu up, grinning at her little sister as she spun a graceful circle, the furred hem of her gown flaring out. Biyu shrieked in delight, kicking her feet.
+
+"And yet,” she continued, “Somehow, I have managed to become a respected diplomat."
+
+Her mother let out a huff of breath, taking Biyu from her hands. It was a testament to the strength of even a first realm’s cultivation that her mother's arms didn't tremble under the growing girl’s weight. Biyu pouted as she was set on the ground.
+
+"There is a great difference between preparations and reality."
+
+"Mama will be good. Sis says so! Mama no sad," Biyu announced authoritatively. "New house is pretty."
+
+"Outnumbered." Ling Qingge sighed. "I suppose I shall simply have to manage."
+
+"I trust you to more than manage. Besides, we won't be getting too many visitors in person yet." Ling Qi stepped past to show them inside.
+
+"I suppose not, with you all away in the capital soon," Ling Qingge said. As they entered, she looked around the high entrance hall with a sharp eye, and not a little wonder. "What about security?"
+
+"A small patrol will be up from the summit zone while we are away, in recognition of the heiress' duty to her mother's court. It won't be as strong of a defense as us, but unless it's a serious attack, the manor will be safe."
+
+If it were a serious attack, the sect town where her household had previously resided would not be safe either. It tied her stomach into knots, but she knew that having her family with her was a risk.
+
+"We even installed Xuan Shi's panic room formation," Ling Qi added.
+
+"There is some comfort in that," Ling Qingge acknowledged.
+
+They passed through the entrance hall and walked past the offices of clerks and officials that filled out much of the front space for now.
+
+"Oh, look! Mama, look!" Biyu burst out, pointing ahead at the doors opening out to the gardens.
+
+The rippling pond in its center was shrouded by mist stirred up by the falling water that drizzled in from a rooftop spout. The flower beds were black and loamy and mostly empty. It had been decided not to grow any flowers and foliage properly until winter passed.
+
+"The mist is pretty, isn't it?" Ling Qi asked her little sister. "When the snows melt, you'll have to help everyone pick out what kind of flowers to plant, okay?"
+
+"Okay." Biyu nodded seriously, but her eyes were fixed on the falling waters.
+
+Ling Qi firmed up her grip on the little girl’s hand, just in case Biyu got in the mind for a dip.
+
+Her mother gave her an uncertain look. "May I ask after your… fashion choice, Ling Qi?"
+
+Ling Qi’s hair was curled and looped through a silver circlet, a glittering, pale blue veil hung over her face, and a high collar rose behind her head, black silk stretched between stiffer ribs. Even her hands were covered by soft, silk evening gloves disappearing beneath her silver-chased sleeves, which jangled with metallic icicle charms.
+
+"Just fulfilling a promise to try new styles," Ling Qi answered.
+
+"I see," her mother said, clearly not seeing at all.
+
+"Sparkles pretty. Spiky bad. Sister swish like a pretty fairy, not jingle jangle."
+
+Little one right. Spiky bad. Jingle no good. More sparkles. Better ribbons. More swish. Like boots?
+
+The boots were fine. She didn't mind raised heels when they weren't excessive. Besides, it had made riding a patrol with Xia Lin more comfortable.
+
+Boots good!
+
+“I don't think I'll wear this same style again," Ling Qi said. "Let me show you to your rooms, Mother, and please don’t forget to ask for anything you need.”
+
+***
+
+The tall, thin trees in this grove did not provide much shade. Loosely scattered around the stony hill, they had gone dry and brown with the oncoming chill of winter. They stretched like skeletal fingers into the gray and heavy sky.
+
+The trunks were vibrant with verdant qi. Many of these trunks had persisted for centuries on end, enduring wind and lightning and slashing sleet, even rampaging beast and fire.
+
+Sitting here on the needle-strewn dirt, she could hear their long, slow whispers, so easy to miss under the brighter, louder noise of more active beings. It was not the crushing pressure of Snowblossom Lake pouring a millennia's worth of data into her head, uncaring and unknowing that her mortal flesh was still too fragile. It was more akin to sitting by a circle of old grandfathers as they spoke low and slow of days long gone past.
+
+Even if a great deal of it was long, rambling complaints about the impertinence of nesting birds and complaints about changing weather patterns.
+
+Even the glimmers of wisdom wasn't why she was here. Among the centuries-old trunks were more than a few which spanned only decades and years, stripling saplings and low shrubs, shoots rising from the ground, all infused with the same spark of qi. At first, she thought the qi to be a matter of relation, scattered seeds growing near to their parents.
+
+In a way, it was. But in other ways, it was not.
+
+Under her feet was a vast and sprawling web of green and verdant qi spreading throughout the hill and beyond, sinking through the thin, gravelly earth to dig into the bedrock to tap into the heat of the earthveins below. Every trunk, from youngest to oldest, was a growth from these roots.
+
+And the roots remembered as far back as Snowblossom herself, their ancient, distant whispers of an age when a vast glacier filled the land, when winter never left, and when strange beasts and spirits clashed and roared atop the millennial icepack. They remembered countless fallen, broken trunks. They remembered eons of hibernation, the stubborn conservation of the last spark of life needed to push up from the snow when at last, the wan sun showed his face again. It was a cycle of contraction and growth, a life unending for longer than the emperors had sat atop the Dragon Throne.
+
+They were persistence in its purest form.
+
+There was a reason she had found herself attracted to this subtle, quiet place of power in the wake of her journey with Zhengui into the liminal. She'd have to let Cai Renxiang know it was here soon. Itwould be a good place for their lower cultivators to meditate in. Its wood qi was too thin to be of much benefit to her current cultivation.
+
+It was strange to think that something so old could have so little power.
+
+That, too, was a lesson she could understand. One did not have to be a sovereign to endure passing flames.
+
+Her qi pulsed out into the earth, echoing through the network of roots, bouncing through ever deeper channels. Perhaps power was not defined by how loud she roared hername to the heavens. Such resilience followed from a deep well, not easily depleted…
+
+“Sister. Big Sister! Miss Horizon Chaser is calling.”
+
+Her eyes drifted open. Zhengui's voice was distant and tiny in her ears, but she heard it. Xia Lin was calling for her? They must have met something on the patrol that was worth some exercise, then.
+
+Armor! Transform!
+
+Not yet, she chided her dress. She rose into the sky, darting past the top of the grumbling spruce tree with a careful swerve to avoid her passage from shaking too many needles loose. It didn't stop them grumbling, but she liked to think it was a little fond.
+
+Once she had left their canopy behind, her dress flared, and she tore off toward the distant feeling of Xia Lin and Zhengui's qi. Old growth gave way to newer, untouched wilderness, then to the woods that had felt the touch of an axe and to trails trampled in the frozen earth. They were off near the early logging camp where their outpost had begun, and she could see smoke rising into the air and the faintest flicker of heat distortion.
+
+A fire in the forest? There hadn't been any lightning.
+
+She redoubled her speed.

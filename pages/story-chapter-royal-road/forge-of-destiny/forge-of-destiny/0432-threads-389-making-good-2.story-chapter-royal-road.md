@@ -1,0 +1,143 @@
+---
+id: fe4de2e2-f3d4-5832-9e01-62ddc1e43818
+page-type-slug: story-chapter-royal-road
+title: "Threads 389-Making Good 2"
+slug: 0432-threads-389-making-good-2
+partOf: forge-of-destiny
+position: 432
+ownLength: 1868
+unit: words
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1704996/threads-389-making-good-2"
+royalRoadId: "1704996"
+---
+
+Ling Qi didn’t miss the slightly uncertain look on Xia Anxi's face as he glanced at her. She really was going to have to thank Meizhen. She suspected her friend had made significant work for herself in accepting just one prisoner for the Bai.
+
+The air was no less tense through the rest of the negotiations. Every word felt measured and strained, but eventually, eventually, it ended.
+
+The Bai were given the honor of standing first, and being seen off. She shared a shallow nod of understanding with Bai Meizhen as she swept out, leaving only the Meng and them.
+
+"It is my hope that you understand that the Cai could not—would not—alienate our friendship with the Bai and cast aside the province's interests solely for the clean death of treasonous criminals," Cai Renxiang said.
+
+"I understand this. It will be a bitter pill to surrender any of our blood to the Lakes." Meng Deming shook his head. "But it is only good fortune that spares us at all. I, Meng Deming, at least, will remember your mercy."
+
+Meng Dan chuckled weakly. "It is a terrible feeling to have your fate decided so far over your head. I suppose Miss Ling is well aware of such."
+
+"Yes." Ling Qi inclined her head. "Like myself, though, you moved the mountains, Meng Dan."
+
+"Your loyalty to the Emerald Seas will not be forgotten," Cai Renxiang cut in. "Although my mother is not merciful, she is exact. Yet all the same, should those of you who stood by us in this incident require aid or support, I will hear your request."
+
+It was a small boon to offer now, though not as small as it would have been a month ago. Whatever might be said of them in court, their cohort had made a real achievement. Cai Renxiang would not be without power herself anymore, whatever her cultivation.
+
+"I will carry these words to grandmother." Meng Dan bowed low. "I am requested at home, and I do not begrudge it. What has been wrought there, I should see."
+
+His uncle looked at him with pity. "You are a fine archivist indeed, nephew. Write your chronicle and experience. I will remain here to fulfill the Meng clan’s duties in this place. If this one has Lady Cai's leave?"
+
+"You do," Cai Renxiang replied. "There are some small topics I would discuss with you yet regarding the observatory and its staffing due to casualties."
+
+Meng Deming bowed his head in acknowledgement, and Ling Qi accepted Cai Renxiang's glance as the dismissal it was. "Come, Hanyi, let's go back outside. I would like to see the sun set."
+
+"Okay, big sis!" Hanyi chirped. The tension of the room and the negotiations seemed to have left her unphased, but Ling Qi could see that she was troubled. Hanyi didn't like seeing what she probably saw as “big sis and her friend” at odds.
+
+"A fine idea! I think we could all use a breath of clear air," Gan Guangli said.
+
+"Allow me to accompany you then," Meng Dan said.
+
+They took their leave from Cai Renxiang and Meng Deming, leaving the conference room behind.
+
+"I wish you good fortune, my friend. I know you did no easy thing," Gan Guangli said.
+
+"It was hardly anything," Meng Dan dismissed lightly. It was painfully false.
+
+"That doesn't suit you well, Meng Dan," Ling Qi observed. "I will say it again, I would not have moved this mountain so ably without you."
+
+They passed through the embassy entrance and came out onto the porch which overlooked the front garden. The sun was setting.
+
+Eventually, he sighed. "I do hate to be the student who asks for repetition. Ling Qi, though my heart is heavy, I do not regret my actions. I will be back. It will be important for the Meng to show our allegiance in ways large and small in the coming future."
+
+"You better." Hanyi huffed. "I don't get all this complicated stuff, but big sis would miss you."
+
+"Hanyi," Ling Qi warned.
+
+"My, such an encouragement," Meng Dan said.
+
+"Should I take my leave?" Gan Guangli mused.
+
+"Probably," Hanyi said.
+
+"No," Ling Qi groused.
+
+It was all a little forced, but she appreciated what her junior sister was trying to do in her own way.
+
+"All of this, what has been accomplished here, needed all of our efforts," Ling Qi said. "We have succeeded beyond anyone's expectations, beyond opposition, and beyond sabotage. That is worthwhile."
+
+"It is," Meng Dan said. "I suppose I have received my wish to be a primary source for a momentous occasion. More than I would have liked."
+
+"Our accomplishments are nothing to scoff at, Miss Ling's, perhaps most of all," Gan Guangli praised brightly.
+
+"Stop," Ling Qi protested. "Meng Dan, I will see you soon. Let's keep making history together, hm?"
+
+"Miss Ling, you really mustn't be so forward. The Meng cannot stay in our splendid stasis anymore. The stones will fall to one side or the other. I will have to roll up my sleeves and see the history I wish for written myself."
+
+"As must we all," Gan Guangli boomed.
+
+She might have nudged a little, letting the feeling pulse on the breeze, but the words that came to them all were genuine.
+
+"To better days ahead."
+
+***
+
+She curled her hand into a fist, watching it tremble in the air above her lap. Uncurling her fingers felt like she was dragging them through the thickest mud and sent painful aches  up her arm.
+
+"Big siiiis, quit it! You're not supposed to be doing that stuff yet," Hanyi scolded. "Put your hand down. You just hafta talk today!"
+
+Ling Qi grimaced but laid her arm back down on the armrest as Hanyi pushed her toward the meeting hall where she could hear the low murmur of voices and feel the clashing of auras. It was muted today, the sharp edges worn off. Everyone was tired, but there was determination in the air.
+
+The last of the religious talks were ending with the priests working out the boundaries between themselves, and the time had now come to discuss the updated security agreements and the sharing of knowledge. It was the last topic remaining before the final treaty could be signed and this long summit could be called to a close.
+
+Hanyi pushed the door ahead open on a gust of chill wind, and they entered the meeting hall, the sounds and sights and sensations washing over them.
+
+The imperial side of the table was packed, the most familiar faces all looming among the courtiers but minor representatives from even the more uninvolved clans were also present. She saw the colors of the Bao and the Diao and Jia next to the Luo, Wang, and Meng.
+
+General Xia Ren still stood like a pillar of steel over them all, radiating heat, but she was seemingly calmer than before. A hair further from drawing her blade.
+
+Xia Lin had said that the rumor within the White Plumes was that the duchess’ plan had come to fruition. All of these summit negotiations had been allowed to draw out the last of the old poison. The duchess couldn't lie, of course, so the stated purpose was also true, but they were satisfied at fulfilling the “real” objective.
+
+The twisting people did sometimes. The rationalization was exhausting. Ling Qi understood better why the duchess could break someone with truth.
+
+The White Sky side of the table was no less packed. She saw the emissaries, the priests and officials, and even the gnarled tree woman that was the Voice of the Weeping Sentinel.
+
+Hanyi rolled her chair up into the space beside Cai Renxiang, and Ling Qi felt the attention of almost every set of eyes in the room at least briefly look over her. She bore the attention with dignity as Cai Renxiang rose from her seat to speak.
+
+"Welcome, everyone. Let me first offer my thanks to all. Even with the disruption which assailed us, the spirit which has driven these talks has not faltered. These talks are nearly complete now because of the efforts of all of you, who have refused to allow a few malcontents to destroy what we have wrought here."
+
+Jaromila rose to her feet herself. "I will not pretend that we of the White Sky are not disturbed by the events of the previous week. However, as much as any such incident could be, it was handled swiftly and with the minimum of damage."
+
+There was some murmuring and grumbling from her side, but no one gainsaid her.
+
+"These troubles are in the past, and we now look to the future. It is time that we fulfill the promise which we made earlier in the negotiations. Emissary Dzintara."
+
+The other woman stood. She was dressed in much heavier furs, the white ruff about her shoulders rising behind her head. "You have requested information on what you call the ‘ith.’ During the time we have negotiated, scribes in our home territories were collating what information we had."
+
+She gestured, and a young man behind her lifted a heavy tome from his lap. Bound in fresh white leather, it was the size of one of Cai Renxiang's law books. His arms shook a little as he lifted it onto the table with a thump.
+
+"I have had what was found in the annals, including illustrations and diagrams of their constructions and artifice, copied and translated into your tongue. This will serve for deeper knowledge."
+
+"Sensible." Wang Lian eyed the book with hunger. "We would be here all day and night otherwise."
+
+"Agreed," Dzintara said shortly. "I will share the summary of our knowledge. The maggot men originate on the other side of the gates through which our new tribes arrived. They inhabit a high, mountainous land called by its human inhabitants ‘Nidavellr.’ It is there that the great ash tree, the pillar of the northern sky, resides."
+
+"Four pillars of creation: north, west, east and south."
+
+"Xiangmen stands high in the south."
+
+"The eastern pillar was broken by the old Dragon Gods."
+
+"Legends say the northern pillar was scarred…"
+
+"When the giants were cast down for their great sins against creation, humans were freed from their yoke to spread across the world of our birthright," Dzintara continued, ignoring the whispers of imperial priests. "But in the land of Nidavellr, the pillar of the world was split, as a lesser tree might be by lightning, and its silver leaves blackened. Here, the creatures of the void gnawed more freely, and so many men of Nidavellr refused to leave the caves in which old humanity had survived the giants’ rule. Those who remained dug deeper instead, climbing down and down into the cold roots beneath the pillar, and there, they found the wounds of creation in the Primordial One of Earth."
+
+Primordial One… The Nameless Mother, who was all things material, the whole of the earth under their feet.
+
+"They dug in, supping from her stagnant blood and flesh. They are not spirits or beasts. They are men of strange and twisted cultivation. Thus, they are called the maggot men," Dzintara finished.

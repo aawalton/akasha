@@ -1,0 +1,117 @@
+---
+id: 14d69c8d-7d59-53dd-9a70-c10762a10531
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 9"
+slug: 0017-threads-chapter-9
+partOf: forge-of-destiny
+position: 17
+ownLength: 2472
+unit: words
+publishedAt: 2020-11-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/583818/threads-chapter-9"
+royalRoadId: "583818"
+---
+
+Ling Qi steadied herself and turned back to Vengeance-for-Burning-Grove, doing her best to project confidence as she strode back to him. “Sir Vengeance, if you do not mind, I will wait with you. It will benefit me to speak with the King, I think.”
+
+The burning tree made a crackling groan as he gave her a sidelong look from his deep-set, knothole eyes. “You flirt with danger, little wraith, but I will not gainsay you for the aid you have given. Wait then, and prepare to receive the King.”
+
+The wait was interminable, but Ling Qi found any attempt at conversing with Vengeance dying in her throat under the ominous pressure approaching them. Yet that very presence seemed in no hurry. Seconds stretched into minutes until nearly a quarter of an hour had passed. The first indication of its approach was the noise, a strangely muted cacophony of beastly cries and tramping feet mixed with the creaking of bending wood and the tearing of the earth.
+
+Soon, the smoldering fires nearby snuffed out,and even the flames burning on Vengeance guttered low. Ling Qi found it hard to breathe, and her raw animal instincts screamed at her to run, to flee, to cower. It was only long acclimation to Meizhen’s aura that allowed her to hold her ground without doing more than going pale and trembling.
+
+She understood then that what was coming was not something on the level of Zeqing, but something far beyond that. The presence’s relative weakness was due to the fact that this was but an echo of events long past  like the impression of a blinding light seen on the back of one’s eyelids.
+
+That did little to take away from her growing nerves as she saw the shadow of movement in the now darkened woods. She did not know what she was expecting, but it was not what emerged. What stepped forth from the treeline, brush parting before him like a curtain, was a man.
+
+Yet it was not.
+
+Towering over her, tall enough to look down upon any human, the “King” was nonetheless slender and androgynous, similar to Sixiang’s briefly held flesh and blood form. Long, luxurious black hair tumbled down past his shoulders, loose and wild, kept from his face by curving, branched horns which rose from his temples like a stag’s. He wore an emerald robe of many layers that draped his form and rippled in the suddenly chill wind.
+
+Despite those trappings of humanity though, there was something off about the King. The motion she could see of his legs beneath the billowy robe was wrong, and his footfalls were more like the sound of hooves than any human feet. His handsome features and dark eyes seemed perfect, but the lines of it were subtly off like a mask that did not fit quite right, and the burning viridian light of his pupils reminded her unsettlingly of Cai Shenhua.
+
+That did not even consider his entourage. In his wake, trees writhed, nightmarish faces forming and disappearing in the lines of the dark, and the shadows seethed with hungry eyes that gleamed in the night. She saw predators and prey alike among the unnatural darkness, shadowed even to her gaze. Wolves stalked amidst stags, and the earth writhed with vermin under the hungry eyes of raptors perched in living branches. Behind him stretched a vast swarm of beasts, more than she could ever name. But the vast menagerie, the forest made manifest, was eerily quiet and dim and remained behind him, as if they were only his shadow.
+
+“My King,” Vengeance rumbled, awkwardly bowing his burning trunk in a facsimile of the human motion. “This brother has survived the others to bring you the knowledge the Oathbreakers sought to destroy.”
+
+Ling Qi very quickly imitated the tree spirit’s motion, clapping her hands together and bowing as low as she could manage. “This humble one greets Your Majesty and begs forgiveness for this one’s intrusion.”
+
+The King neither replied nor glanced her way as he strode across the clearing to stand before Vengeance-for-Burning-Grove. “Thy vengeance shall be done,” he decreed as he laid his hand upon the burning tree’s bark, flames parting around his slender digits. “Thy death avenged.”
+
+Ling Qi remained studiously silent, peering out from under her bangs, but her eyes widened as Vengeance stilled before his flames roared to life, engulfing his form entirely in an inferno. The sudden burst of ashen woodsmoke almost made her cough and gag. She heard the King inhale, and flames and smoke alike were drawn in, reversing the explosion that had happened mere moments ago. When the flames faded, Vengeance-for-Burning-Grove was gone, and the King stood, a faint trickle of smoke rising from his lips.
+
+“So that is where my wayward brother’s final redoubt is hidden,” the King mused, lowering his hand. His voice was musical and almost feminine, at odds with the atmosphere he exuded.
+
+His gaze fell on Ling Qi then, and she froze. She found her muscles locked, denied any form of motion as the King turned toward her, the primal green radiance that shone from his eyes casting her clasped hands in a sickly light. “And what possessed thee to remain on this night of blood?” he asked, casual and indifferent in tone.
+
+Her mouth was dry, Ling Qi thought absently, as his shadow fell over her. She felt the patter of countless feet as the carpet of mice and rats engulfed her feet, and the wraiths of ancient and hoary trees rose around her, their limbs heavy with birds, staring down at her with gleaming, hungry eyes. How long had it been since she had seen the night as a mortal did?
+
+“I want to understand what is happening,” Ling Qi said with more confidence than she felt. “Your Majesty, I have-”
+
+“What an amusing creature,” he interrupted, taking a stride closer. “What does it matter to you, Magpie-Who-Wears-the-Crow’s-Plumes? Dost thou imagine that thou can change the outcome of this night?”
+
+Why did it matter to her? The King had a point; the forces moving in this dream were beyond her, and she was beginning to suspect that this memory was neither as structured or as safe as an elder’s test. So why? Why did it matter enough to put herself at risk?
+
+... Because this was the situation she had chosen to put herself into, was it not? She was a small piece moving around the field between titans, but she would eventually be expected to not only affect, but even contribute, to their plans, plans that she may have no understanding of and barely any context for.
+
+“Because I need to understand, if I am to survive.” The words came to her lips, unbidden. “Even if I am small, my actions can affect the paths of the mighty and draw their attention.”
+
+“A good answer,” the King said, stepping closer still. “Very well. A boon then for shortening this night’s dance.”
+
+Despite his words, Ling Qi only felt her discomfort rise as his slender hand clasped her shoulder, filled with a strength that could crush her in an instant.
+
+“Before the Emperor and Empires, many Weilu strayed from the true path. They broke old pacts, cutting wood beyond the limits of our oaths and building festering nests of stone like the foolish apes to the north. They broke with the flow of the sun, the moon, and the seasons, as if they could forge a new order for themselves.”
+
+“The King of the Forests tolerated this for he loved both of his sons and did not wish to raise his hand against one of them, and after all, the son’s depredations struck such a tiny, tiny fraction of the vast Emerald Seas.” The king’s lilting voice held an edge of contempt.
+
+“Yet many were unhappy with our wayward brethren, and so when he passed, it was the Elder Brother, who walked the true path, who was crowned. When he politely requested that his Younger Brother and his foolish followers tear down their ugly blights and return to the true way, they refused.” All around him, wolves snarled and birds cried, the dulled cacophony of the forest rising. “How mad of them.”
+
+Ling Qi felt a sinking feeling in her stomach. She maintained her silence despite the pain from the King’s fingers digging into her shoulder as fury leaked into his voice.
+
+“They bought metals and stone from serpents and apes and laid siege to our most sacred temples. They pillaged and killed their own kin and defied the holy conclave of kings. Yet when this King reached the peak, gathered the scattered courts to war, and awoke the Seas, what good did it do?” the king narrated contemptuously. “The followers of the truth have scoured the oathbreakers from the land and cast down their blights. They have regrown the sullied groves on the flesh and blood of chattel and traitors alike. Now, only one foolish man remains unrepentant. It is my younger brother and nephews who I hunt this night, little dreamer.”
+
+Ling Qi bit her lip as she felt the King’s sharpened fingernails stab into her skin, drawing blood. “I see. Thank you very much, Your Majesty. I understand now.”
+
+“Thou dost not, little dreamer," he rebutted. “But thou will. Thou shalt join us on our hunt. Only then shalt thy boon be granted. Pray that the understanding does not break thee.”
+
+Ling Qi felt her throat dry up. “You honor me, Your Majesty.” Her voice sounded like a raspy whisper to her own ears.
+
+“This King does not,” he clarified, sounding vaguely amused. “What interesting customs the future holds.”
+
+Ling Qi could only remain silent. Her lessons on etiquette contained no response to that.
+
+“Thy boon was a paltry one given thy service. New hunter, this King offers thee a blessing of fang or hide, which will carry even unto the waking world. Choose now, and let the hunt begin.”
+
+Ling Qi swallowed,surrounded as she was by the embodiment of a forest’s rage with the hand of an incalculably more powerful cultivator on her shoulder. Her thoughts raced.
+
+For a wild moment, she wanted to demand that he take into account the innocents on this night, to stay his hand from civilians or even just from her companion in arms, Shen Hu. But at the thought of saying it to the King... She met his eyes and saw the murderous fury in them. She flinched, and the words died without ceremony in her throat.
+
+Could she really afford to risk herself in the face of this kind of power? Even if she were insulated from death in this memory, injury could spell ruin for her and her clan. She would only continue to receive resources and backing if she continued to meet the goals set out by Duchess Cai. She was confident that without injury, she could maintain her pace of cultivation and keep up with her liege, ending no more than five Sect ranks behind Cai Renxiang, as required. With this dream thing’s hand pressing down on her shoulder and his nails piercing into her skin, it forced her to remember just how fragile her position was. Could she risk all that for the sake of someone she was just barely getting to know?
+
+No, she could not refuse. He had offered her a boon, and she would choose one.
+
+How quickly perspectives could change. Had she not been bantering with Shen Hu earlier, confident that whatever was in this dream would just be another opportunity for her to capitalize on? She had gotten arrogant. She hated this. She hated being so wholly under someone else’s power. She hated having her own helplessness rubbed in her face. She worked so hard, cultivated so much, but she was still so
+
+very
+
+small.
+
+“The blessing of fang,” she whispered. The words tasted like rot on her tongue, like spoiled food dug out of the trash in hungry desperation. Surely, she thought, if this was one of her real friends, the ones who had helped her get through the whole of last year in Outer Sect, she wouldn’t have hesitated at all to risk asking for their safety. Sure she would, some bitter part of her mocked. Had she really changed at all? Or had she merely been lucky not to have her resolve truly tested?
+
+“I see,” the thing in the shape of a man said. “Very well then.”
+
+She felt a burning pain then, beginning from her shoulder where the King’s hand rested. A wild and chaotic qi bubbled under her skin and dig hooks into her mind.
+
+Then the King howled in pain, and the feeling cut off. She barely recognized a feeling of shock before the hand on her shoulder twitched, and she screamed as she felt her collarbone crack from the sheer monstrous force behind that spasm. Ling Qi flew backward to slam bodily into one of the many trees in an explosion of splinters and sawdust, her qi pool dropping precipitously to cushion the blow. She tasted blood in her mouth.
+
+Ling Qi slid bonelessly down the massive tree trunk and looked up. She saw the Horned King, his snarling features lit by a terrible colorless radiance that was all too familiar. He held his right hand away from his body, and there, Ling Qi could see a half dozen wriggling white threads digging into his flesh and spreading glowing lines up his wrist. All around her, phantasmal beasts howled and roared, nearly deafening her.
+
+The King’s left hand blurred, and with a wet, tearing squelch and a thump, his burning hand and forearm fell to the grass. The limb somehow grew and withered at the same time. Lumpy growths swelled where radiant threads passed while the rest became little more than a mummified claw. As the King stared at his smoking stump, Ling Qi could only do the same.
+
+She was going to die. That was her first thought. Her second, faintly hysterical one was just what Cai Renxiang had put into her gown.
+
+There was a wet crack, and Ling Qi saw a length of bone grow forth from the stump, then another, followed swiftly by tendrils of sinew and meat as the King’s right hand and forearm began to regrow. His eyes fell on her once more.
+
+“What a jealous creature,” he commented, faintly bemused, but Ling Qi could feel the pique beneath his passive mask. “Well, no direct changes? There are other methods.”
+
+Ling Qi had no chance to plead forgiveness before the multitude of rats and vermin carpeting the ground swarmed her, thousands of scrabbling claws and furry bodies racing up her limbs and engulfing her. Her last sight was the King staring pensively at his half-regrown hand.

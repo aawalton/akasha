@@ -1,0 +1,157 @@
+---
+id: a3cecb96-8346-59ef-a4e0-d0e99c762b58
+page-type-slug: story-chapter-royal-road
+title: "Threads 186-Return 5"
+slug: 0218-threads-186-return-5
+partOf: forge-of-destiny
+position: 218
+ownLength: 2607
+unit: words
+publishedAt: 2022-02-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/845784/threads-186-return-5"
+royalRoadId: "845784"
+---
+
+Ling Qi glanced from the grinning nightmare to Xuan Shi.
+
+“It feels nice to be believed in,” Kongyou drawled, clasping their hands. They glanced at Ling Qi and Sixiang with a smirk. “Isn’t friendship grand?”
+
+“What do you think you’re up to?” Sixiang demanded, glaring at Kongyou.
+
+“Same thing as you, cuz. Enjoying my human,” Kongyou said flippantly.
+
+Ling Qi raised her hand in a sharp gesture before Sixiang could respond. She never took her narrowed gaze away from Kongyou. “The Esteemed Elder already chided us once for whispering. It would be very rude to force him to do so again.”
+
+She heard Sixiang shift behind her, and she could nearly feel the glare still being sent over her shoulder. “Later, then,” Sixiang ground out.
+
+Kongyou’s sharp-toothed smirk didn’t waver, but their glittering black eyes narrowed. It passed in barely a moment, and then, the nightmare shrugged, brushing a hand through their hair as they turned to Xuan Shi. ”Aw, well, if you’re gonna be boring, that’s fine. Pretty sure he just meant interrupting my Shi though.”
+
+Ling Qi’s eyebrow twitched, and her scowl deepened. Every word that emerged from the nightmare’s mouth filled her with a deep irritation. There was nothing in them that she could point to as wrong, no deception that she could articulate, and there wasn’t even any particular mockery in their tone. But to Ling Qi, their insincerity dripped and oozed, rankling her as much as if spittle were dripping down her face.
+
+She turned her eyes resolutely back toward Xuan Shi, ignoring the sidelong smirk the moth-like spirit gave her.
+
+“Honored Elder,” Xuan Shi began, “this one is a fool in many ways, it is true. Deride as you like, and this one shall accept thy words as true. But please, thy companion’s work has been most important, and only thine memory holds answers.”
+
+“You are a demanding child. I will ignore your idiocy with that creature since it is no business of mine. But I have answered your question. You dare say that you are unsatisfied with that?” The sword’s grinding voice made Ling Qi wince, feeling a sharp pain in her inner ear. Under her breath, she began to hum, channeling qi through the Bastion’s Melody technique of the Melodies of the Spirit Seekers’ art to lighten the painful pressure of the spirit’s presence.
+
+Xuan Shi’s grip on his staff tightened, the wood groaning under his grip. “Yes. This matter is of too much import to accept such an answer, even from thee.”
+
+“Do you fancy yourself a writer?” The sword harrumphed. “Less foolish than the road of a swordsman, but a hopeless path all the same. This Empire cares not for such things, but perhaps your clan means that you can afford to be idle, child of the Scholar Kings.”
+
+“This one does not yet know his path,” Xuan Shi said. “Where the current flows, these eyes cannot see. Where the wind blows, these ears cannot hear. All the same, thy companion’s work has been dear to this one’s heart for many of the few years this one has had. I beg you to treat this seriously.”
+
+In response, there was only the soft and eerie sound of wind passing between the tightly packed trees that ringed the grave.
+
+“I was not lying or dismissing you,” the sword finally said. The anger was gone from its voice, replaced with a weary exhaustion. “Keung sailed the northern sea under the flag of Jin for most of his life. Exploration is no romantic thing. You meet new people, and then, you kill them and take their things or otherwise arrange to exploit them. If they are too strong, you watch your captain seek weakness with which to divide and ruin them until you can. That is the soul of the explorer. Over centuries, a young soldier who sought the horizon became a bloody sword wielded by captains and then admirals. How many isles and small peoples litter the ocean far from any greater shore? I do not know, but there are less now than there were before.”
+
+She could see Xuan Shi’s shoulders sinking, but he didn’t look away from the sword.
+
+“It is not merely the Jin either,” the sword spoke morosely. “I have seen your kin devour entire isles in the northern sea, and I have seen them devoured in turn when the sea folk can manage vengeance. The three peoples of the Sea Dragon God’s court are not so different as they like to pretend. You wish to know the genesis of Lang Keung’s childish scribblings? They are the dreams of a man whose Sovereignty had crumbled because he chose to shatter his own edge rather than take one more life.”
+
+Xuan Shi’s staff scraped against the dirt. “Good dreams they were and are. There is no shame in that.”
+
+“I will not chide you for that. They were good dreams. But they were nothing more. In the end, we still died as killers and were slain as killers. Swords can only be swords. Not one thing has changed.”
+
+Ling Qi felt a shiver down the back of her spine as the atmosphere of the grave grew heavier still, mist and wind leaving Xuan Shi as only a dim silhouette. She felt cold and tired. Was this how others felt in her mist? Ling Qi felt Sixiang grasp her hand and squeezed it in turn.
+
+Beside them, Kongyou swayed from foot to foot, looking pensive.
+
+As the air grew colder still, the whisper of the wind resolved into something more, the echo of a memory imprinted on the world.
+
+“It was a fine thing while it lasted. Wasn’t it, my friend?” A wistful voice, scratchy with age and sorrow, whispered. In the mist, there was a shadow of a long beard and a heavily lined face, dripping wet from the downpour that turned the garden they had worked so hard for under their feet to mush and mud. “I’m sorry to take your peace from you.”
+
+The simple bent walking stick in his hand trembled, and a more familiar voice spoke on the wind. “The dream has been good. I would have liked to die peacefully by your bedside, but we both know that such could never be.”
+
+“You’ve always been a pessimist, [------].” The old man chuckled, running his thumb along a knot in the wood.
+
+“You’ve always been a fool, Keung,” whispered the sword. “It has been good to pretend, but the time is over. Look to the sky where foes gather. Look behind where your children and disciples flee. Only violence remains.”
+
+“Do you think I have made any difference at all with those youngsters?” the old man asked, gazing up into the sky.
+
+“To tell, they must live,” whispered the sword. Worn and gnarled wood unraveled, revealing a lacquered scabbard and a plain hilt bound shut by a ribbon of white.
+
+The snap of cloth echoed in the ruined garden and drowned under the hiss of a drawn blade.
+
+“No, nothing has changed at all,” ground out the voice of the broken sword, scattering the mist. “Does that satisfy your curiosity?”
+
+After a long moment, Xuan Shi bent his back in a low bow. “This disciple thanks the Honored Elder for taking his childish question seriously. But…”
+
+“But? But? You vexing child, what more do you want?” the sword demanded.
+
+“While this one cannot answer the question of whether thy companion made a difference to his disciples, he made a difference to this one. Dreams and stories may be childish, but ‘should’ is greater than ‘is.’ To seek the horizon is not foolish, even if one should never reach it.”
+
+Ling Qi toyed with the end of her sleeves. In the end, it was the same dilemma that kept her from fully believing in Cai Renxiang’s vision. The sword was right. Violence would never stop being needed. The world was violent, and struggle was built into its bones.
+
+But there was more to it than that. Xuan Shi was also right, flowery as his speech was. It wasn’t wrong to seek something better. She caught movement to her left then, and with a glare, she blew a gust of air into Kongyou’s mouth, causing them to cough and sputter instead of speak.
+
+“Hmph, you are at least half as much a fool as he then,” the sword said.
+
+“This one shall take the Honored Elder’s praise with pride,” Xuan Shi said. “There is one more matter, if the elder will indulge this one.”
+
+“You are a truly vexatious child,” grumbled the sword. “One more question, then begone. I wish to continue dying in peace.”
+
+“Is this something the elder recognizes?” Xuan Shi dismissed the book clutched in his hand to be replaced with a second object. It was an odd little charm carved from a light wood which Ling Qi did not recognize. Under her spiritual senses, it seemed drenched in the qi of the sea. Wrapped around the wooden idol was a lock of dark hair bound by twine. “A keepsake of mine father, but the carvings seemed familiar to some of the descriptions in Elder Lang’s work.”
+
+“Sea folk work,” answered the sword. “Northeastern region. Going by the material, done by the their surface colonists. Those people are real, if that’s your true question. They’re safe from the Empire’s fleets.”
+
+There was a certain grimness to the sword’s tone that said there was more to that, but Ling Qi was hardly going to inquire after the details.
+
+Xuan Shi let out a breath. It seemed like there was a small weight off of his shoulders. “Elder has been too kind. This disciple offers his deepest thanks.”
+
+Ling Qi bowed silently as he turned around to leave, following him out and giving Sixiang’s hand a tug. Their attention still laid on Kongyou, who followed after them with their arms behind their back. As they passed through the fog separating the grave from the labyrinth, there was a violent shift in the world around them, and Ling Qi felt her stomach briefly churn as they emerged into the fading sunlight outside of the labyrinth.
+
+“This one thanks you for your patience, Miss Ling. Apologies are to be made for leaving you in such an awkward state,” Xuan Shi said. They were alone in the physical world again, their respective muses back in the realm of dream.
+
+“There is nothing to apologize for,” Ling Qi said. “I intended this trip as a favor to you. However, there is the matter of your spirit.”
+
+Xuan Shi grimaced behind his collar. “That is…”
+
+“Do you really believe they didn’t understand what they were doing when we were trapped?” Ling Qi asked sharply.
+
+“That is not what this one said,” Xuan Shi replied. “Kongyou does not understand the wrong done. Muses do not live as we do. They are creatures of narrative.”
+
+Ling Qi grimaced. Sixiang had been very difficult to talk to at first as well because of the strange way they saw things.
+
+<Not sorry,> Sixiang huffed. <But there’s narratives and narratives as you know.>
+
+Xuan Shi frowned, clearly listening to something in his head. “It is true that this one was deceived for a time. However, the nature of Kongyou’s narrative, the tragic drama, is known. On this matter, I believe they may change somewhat.”
+
+Ling Qi’s frown remained. He seemed very certain.
+
+“I don’t have the right to demand anything from you,” Ling Qi said. “All the same, can you tell me why you’re even doing this? I’m sure you could find a spirit companion that you wouldn’t need to worry about changing so directly.”
+
+“That is not so. Does Miss Ling believe that this one has not tried?”
+
+“I’m sure you have, and I can’t guess why you haven’t succeeded,” Ling Qi said. “If it’s a matter of seeking out a spirit of the Dreaming Moon, Sixiang and I could help, I’m sure.”
+
+“Yeah, I’d not mind introducing you to someone nicer,” Sixiang said, voice emanating from the air over her shoulder. “I can totally get a little revel together if you like.”
+
+“It is true that this one has set his sights upon the Dreaming,” Xuan Shi said. “And thy offer is appreciated, but is it a good thing to seek only that which is ‘nice’ in your patron? The Dreaming Moon is not wholly a thing of laughter and joy.”
+
+“You’re not wrong,” Sixiang admitted.
+
+“You’re not, but that doesn’t answer my question, Xuan Shi,” Ling Qi said. “Why this spirit in particular? The stories you enjoy aren’t the things a nightmare would fit in. I don’t understand why you would wish to make one so steeped in lies and misery your companion.”
+
+Xuan Shi tapped the but of his staff on the ground, letting the jingle of hanging rings echo down the hillside. “You think me a bit pitiable and childish, do thou not, Miss Ling? This one takes no offense. Miss Su is dismissive of fiction as well. Miss Li may listen, but her interest is academic only.”
+
+“You’re being too harsh. It’s true that I don’t understand the appeal. My own condition hardly gave me the time to indulge such things when I was younger.”
+
+Xuan Shi smiled mirthlessly behind his collar. “Just so, Miss Ling. Indulgence. This describes my interests well, and yet, they are important to me. Kongyou wishes to follow my tale, even if they believe it will end in futile tragedy. I wish for something brighter, but in walking the path of stories, it is good to be reminded of reality.”
+
+“You can call it that, but you should know that they’ll try to undermine your success. That’s the nature of a nightmare,” Sixiang said.
+
+Xuan Shi paused in the midst of turning to descend the hill, looking as if he was listening to something. “This one understands. All the same, if one cannot even overcome and change a single bad dream, how can one change anything greater? How shallow shall my tale be, if it engages not with nightmares?”
+
+Ling Qi let out a breath through her nose as she began to follow him down the hill. Was this how Meizhen had felt after her own introduction to the Dreaming Moon?
+
+“You can still do better, even if you want to delve into Grandmother’s darker side,” Sixiang insisted. “Seriously, you should at least let us take you to a proper revel or two.”
+
+<You’d be alright with that, right, Ling Qi?> Sixiang whispered in her head.
+
+That would be fine. She was intending to put more work and attention into the Dream and its arts anyway. She hadn’t engaged with that aspect of her patron in too long. “I won’t tell you what to do, Xuan Shi. I have no right to, and maybe trying to change a nightmare is right for your way. But I hope you’ll accept an invitation or two.”
+
+Considering what Xuan Shi wanted, there could be an opportunity here. Of all the peoples in the Empire, only the Xuan had regular peaceful contact with foreigners. There was no sea in the south, but there were many unwalked paths. Xuan Shi struck her as rudderless, and perhaps she could assist with that.
+
+But it wasn’t something she wanted to offer right now. It was just too important to bring up on a whim, especially when she didn’t know if it was even possible.
+
+“This one will continue to gracefully accept Miss Ling’s kindness,” Xuan Shi said. “But for now, this one really must meditate on this past day.”

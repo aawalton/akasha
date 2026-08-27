@@ -1,0 +1,195 @@
+---
+id: f417efbb-461a-5c72-8216-9a624f61e203
+page-type-slug: story-chapter-royal-road
+title: "46. Corporate Investigation"
+slug: 0046-46-corporate-investigation
+partOf: god-of-trash
+position: 46
+ownLength: 2981
+unit: words
+publishedAt: 2025-04-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2188387/46-corporate-investigation"
+royalRoadId: "2188387"
+---
+
+“So good to see you. Thank you for coming,” Aquari said, meaning not a single word of it. She gestured. “This is Rhys, a student of mine. He will serve as your assistant while you’re here, show you around the school and help you and your students get situated.”
+
+Rhys smiled. He stepped forward as well and bowed a little, watching closely to see if Ernesto offered his hand. Number one rule of meeting the corporate bigwigs—let them move first. If Ernesto wanted to shake hands, he’d offer it. Rhys knew better than to offer his hand, lest he end up in the awkward situation of getting cold-bloodedly ignored by the bigwig in front of everyone. It wouldn’t matter, but it was embarrassing for him personally, and as trashy as he was, he still preferred not to embarrass himself in front of everyone if he could avoid it.
+
+Ernesto gave him a slow, narrow-eyed look, then turned to Aquari once more. “Wonderful. I look forward to seeing your school in all its glory.”
+
+Having not offered his hand, Rhys avoided looking like a fool. Internally, he pumped his fist. One point for Rhys, zero points for Ernesto.
+
+“Rhys, go ahead and show the students around. You can start with their accommodations. I’ve prepared a special cabin by the dorms,” Aquari said.
+
+Rhys nodded. And get out of my hair while Ernesto and I talk about important things, she didn’t say, but he got the message loud and clear anyways. He stepped forward and gestured to the students. “If you’ll be so kind, right this way.”
+
+The four students looked him over, and Rhys returned the favor. There were two boys and two girls, the four of them about his age, maybe a year or two older or younger. The oldest-looking of the squad was a tall, slender, bookish boy with straight bangs parted over the center of his forehead and gentle eyes. Next eldest was an energetic-looking girl with a big smile and a teasing attitude about her. A gloomy girl with long bangs who wore a hood to hide her eyes was next, and the first of the four to be shorter than him, then the shortest and youngest-looking of the bunch, a blond boy with his arms crossed who was trying to put on the same overbearing attitude as Ernesto, but came across as a total brat.
+
+On sight of the bratty blond boy, Rhys immediately felt hatred well up in his heart. He pushed it down, but couldn’t help but hate the brat a little bit, deep in his heart. There was something about the boy’s face that wasn’t just punchable, but infinitely kickable. Some deep instinct urged him to drop kick the brat off the side of the mountain and salute as he soared off to the horizon.
+
+As the two teachers walked off to hold their important adult conversation, Rhys nodded at the children. “My name is Rhys, and you are?”
+
+The bookish boy stepped forward. “I’m Walter. This is—”
+
+“I’m Mae!” the energetic girl interrupted.
+
+As if nothing had happened, Walter continued, “—Mae, and beside her is Hono. The brat over there is Victor.”
+
+Rhys snorted under his breath. Even his friends call him a brat, huh?
+
+“I am not a brat,” Victor insisted, narrowing his eyes their direction. His mana flared as if in a threat.
+
+None of the others reacted, Rhys included. Walter quirked an eyebrow at that. Victor continued to flare his mana for a second, but seeing absolutely no reaction, he quickly wavered, then retracted his aura. Walter turned to Rhys, a bit more respect in his eyes. “Shall we?”
+
+So that was a test. Within expectations. Honestly, he would have been a bit surprised if they didn’t immediately start testing him. This ‘test’ was a bit crude, but then… He glanced at Ernesto. At a guess, they hadn’t been instructed to test him, just allowed to assume that it was a viable course of action. Their ‘tests’ would be coarse, because they were whatever they, a bunch of children, could come up with.
+
+Not that Rhys minded. A bit of trashy behavior from their overbearing guests was within his expectations. He was an expert at trash of all descriptions, so a trifling bit of trash like this didn’t bother him one bit. He bowed. “Of course.”
+
+With that, he led the way down the mountain. As he walked, he wracked his brains. He did daily trash runs on the entire lower village, so why did he have no idea what this ‘cabin’ Aquari had referenced was? A bad feeling welled up in his gut, and he pursed his lips. No, I don’t like this, not one bit.
+
+It didn’t take long to reach the dormitories. At the front of the large building, Rhys nodded to the other children. “Please wait here for a moment. I’ll be right back.”
+
+The other children nodded. Walter drew a book out from his robes and began to read, and the energetic girl, Mae, started throwing punches at the air. Hono, the gloomy girl, sat on a rock, and the brat, Victor, crossed his arms and harrumphed.
+
+Rhys rushed around the side of the dormitory. He saw the cabin at last, and grimaced. Ah. That definitely belonged to Aquari, didn’t it?
+
+Every inch of the cabin was covered in trash. From top to bottom, completely chock full of it.
+
+“Rhys, what’s going on?” a familiar voice asked.
+
+He turned. Tarais stood there, concern on her face. Rhys grinned and gestured her closer. “Can you go entertain our guests for a minute while I empty their residence?”
+
+“Huh?” Tarais looked at him, then the cabin, then leaned to get a look at the guests. “Oh. Got it.”
+
+“Thanks, Tarais. An hour or two should be enough.”
+
+“An hour or—”
+
+Before she asked any more questions, Rhys ran toward the cabin. Even before he reached it, he gestured at the trash, calling out to it with his mana. Let’s clean this place up!
+
+To his surprise, some of the trash actually leaped out of the windows toward him. He gestured, and the trash spun around in the air. Experimentally, Rhys pointed toward the woods, and the trash piled up there, just like it did in his imagination.
+
+Trash Manipulation 1
+
+“Huh,” he muttered aloud. It wasn’t much use right now, or rather, there was too much trash, and Trash Manipulation had too little reach for him to use it properly. Still, he used it to expand his carrying capacity. When both arms were full, he used Trash Manipulation to stack the pile just a little higher. When a piece wouldn’t quite sit in his grasp right, he used Trash Manipulation to help support its weight. Like that, he quickly carted the trash out of the cabin and piled it up out of sight behind the treeline.
+
+At the same time, Speed Picking, his other new skill, allowed him to see valuable items in the trash, even when he was moving quickly and not taking his time looking through it. A few feet of metal pole vanished into his storage ring, as did half of an armchair and a few different pieces of stained or torn clothing.
+
+An hour passed, and Rhys finally dragged the last piece of broken furniture out of the cabin. He gave it a quick once-over. Surprisingly, under the trash, the cabin itself was relatively clean. Then again, should he be that surprised? Aquari had a cleaning skill. She’d even used it on him. She struggled with garbage, not cleanliness. For all he knew, this cabin was stuffed in a storage ring of hers thoughtlessly for years, and all the trash was just other junk in the ring that had found its way into the cabin one way or another.
+
+Actually, the more I think about it, the more likely it is.
+
+Rhys returned to the front of the dorm, where Tarais was answering questions from Walter and Mae, Hono was reading, and Victor was pretending not to listen in. “Right! Everything should be ready now. If you’d be so good as to follow me?”
+
+He led them to the cabin. At the sight of it, Hono sniffed primly, but said nothing. Victor didn’t have the same prescience. “What is this trash? This thing is worse than the accommodations for servants at Purple Dawn Academy!”
+
+The whole cabin is trash? Rhys’ eyes lit up, and his heart beat a little faster. Forcibly, he suppressed his excitement. Now wasn’t the time. Instead, he bowed humbly. “Please forgive this small school’s limited establishments. This is the best we can offer you.”
+
+“Ha. I suppose I should’ve expected as much, from a raggedy little school on the brink of destruction.” Victor sighed and shook his head in abject disappointment. He strutted inside, proud as a chicken, his nose high in the air as he looked down on everything inside.
+
+Walter smiled at Rhys. “Please forgive him. He’s used to finer trappings.”
+
+Rhys nodded, smiling back in silence. He didn’t miss that Walter didn’t apologize for Victor’s actions, just for Victor having high expectations. These kids know that they don’t come in peace, and they aren’t pretending, either. Quietly, he wondered how they’d react if they knew about where he lived, tucked away in a crag in the rocks halfway down the mountain. If this was worse than the servants’ accommodations where they were from, then how would they see his humble abode? “I’ll leave you behind to get used to the mountain. Meet me in the central square when you’re ready, and I’ll take you around to see the rest of the sights.”
+
+“Not much, I’m sure,” Hono murmured quietly to herself. Mae giggled and gave her a playful shove.
+
+It was true, so there was no point protesting. Rhys simply walked away. Tarais stared after them, but when he nudged her elbow, she turned and followed him. She leaned in. “Who are they?”
+
+“Students from the Purple Dawn Academy. They’re here to… well, let’s not mince words. They’re here to bully our school,” Rhys explained.
+
+Tarais’ jaw worked. At last, she managed, “Why?”
+
+He shook his head. “We owe their school a lot of money… it’s complicated, but basically, Purple Dawn Academy wants to destroy our school and gobble it up into their sphere of influence.”
+
+Her mouth made an ‘O.’ “That’s not good.”
+
+Rhys chuckled. He shook his head. “Nope.”
+
+He returned to the central square to wait. The four students hadn’t visibly been carrying much, but storage rings were pretty common in this world. For all he knew, they were each carrying a house’s worth of furniture and a year’s worth of clothes to unpack. He was still sitting in the central square when Ernesto and Aquari descended from the mountain’s peak.
+
+Aquari gestured. “Show him around, will you, Rhys? I have business to attend to.”
+
+“Of course.” Rhys saluted her and stepped forward.
+
+“Show me the facilities,” Ernesto demanded.
+
+Rhys gestured for the man to follow him. “Let’s start here in the main square, shall we? First, the basics. The lowest level classes for children are—”
+
+“I don’t need to see those,” Ernesto declared dismissively.
+
+“As you wish. Then, this way is the potions class,” Rhys said, gesturing. He led Ernesto into Sorden’s class. She was mid-lecture, but smiled at the sight of Rhys. The students listened deeply to her lecture, and in the corner, Alum desperately brewed something in one pot while following along in another.
+
+Rhys cast an affectionate glance at Alum. He had progressed beyond the level of impurities the boy could brew, but he appreciated the effort nonetheless. If not for Alum’s hard work, he never would have reached the heights of impurity-absorption that he had.
+
+Ernesto listened for a while, then nodded, satisfied. Rhys led him away. “The next class is a bit of an odd one. Let me introduce you to the Enlightenment Class.”
+
+“Enlightenment? This school has a class on enlightenment?” Ernesto asked, honestly taken aback.
+
+Rhys nodded. He pushed open the door to what had formerly been the mustelid class. The man lectured on robins now, espousing the value the small bird brought to a region. “If you listen closely, can you hear the truth in his words? Feel the twinge of enlightenment? Although his words aren’t meant for everyone, students seeking enlightenment can sit in this class and pursue it without interruption.”
+
+“I see no one’s attending it today,” Ernesto remarked dryly, immediately less impressed.
+
+“Do people need to be pushing themselves to the limit of enlightenment every day? Forgive me if I’m underestimating your school, but in the Purple Dawn Academy, do students achieve enlightenment daily?”
+
+Ernesto grunted. He twisted his lips, then reluctantly shook his head.
+
+“But nonetheless, our instructors tirelessly labor day in and day out, offering the opportunity to achieve enlightenment anytime.” Rhys shut the door and led the way to his final stop.
+
+There were more classes on the peak, but none of them were worth bringing Ernesto to. They were either too low level, or of no interest to Rhys, which he assumed meant would be of no interest to Ernesto, either. Rather, it was best to bring him directly to the final attraction.
+
+He hadn’t been back this way in a while. Once, it would have terrified him, but now… now he was still scared, but he stood strong and squared his shoulders anyways. He didn’t have Ev at his side, but he was stronger than before. His body was reinforced, and his skills had improved. He wasn’t confident he could beat the man, but he could probably survive and escape back to Az. And that had to be enough.
+
+From atop the small rise that looked down on the open space, he watched neat lines of sweaty students throw punch after punch at the air. In front of them all, a muscular hulk of a man barked orders, striding back and forth in front of the students.
+
+He gestured. “Cynog, our martial instructor, and our martial class.”
+
+Ernesto harrumphed. “Still letting that predator run loose, I see.”
+
+Rhys silently agreed, but said nothing. Did Infinite Constellation School have flaws? Absolutely. But neither did he agree with allowing Purple Dawn Academy to absorb it and destroy it. He preferred a flawed school where he had his freedom, versus a large academy where they pretended everything was perfect and pushed any problems under the rug.
+
+Abruptly, Ernesto clapped. “Excellent, this is excellent. Where are my students?”
+
+“They’re still—”
+
+“Right here, sir,” Walter said, stepping out from behind the trees. Mae, Hono, and Victor followed him, as though they’d been there all along.
+
+When did they get there? Rhys stared for a second, but quickly hid his surprise. Now wasn’t the time to admit he was on the back foot.
+
+At the front of the class, Cynog looked up. He caught Rhys’ gaze for a moment, then stared at Ernesto and narrowed his eyes.
+
+Ernesto stepped forward. He clapped once, demanding everyone’s attention. The students stopped punching and turned, staring at him.
+
+“Good afternoon, students. I’m a professor at Purple Dawn Academy, and I would like to propose a duel. An inter-academy duel, as it were—or, shall we say, inter-school?” Ernesto chuckled, as if he’d made a joke, and his students smiled as well.
+
+Rhys raised his brows. Seemed like an academy outranked a school in this world. He hadn’t paid that much attention to the names of teaching establishments in his world, so he wasn’t sure if it was the same, but it certainly wasn’t a shock to him that different types of schools looked down on different other types of schools. The world of academia was notoriously cutthroat and petty, so why would this world be any different?
+
+Cynog crossed his arms. “Say what you mean or get the hell out.”
+
+For once, Rhys found himself wholeheartedly agreeing with Cynog.
+
+Ernesto raised his chin. “Why don’t we have your best students, against these four students of mine? These students aren’t all martial artists, but I’m sure you won’t have trouble facing mages as well as martials, right?”
+
+Cynog snorted. He looked down on Ernesto in return, not backing down an inch. “The best martial in this academy isn’t my student any longer. She hasn’t been for a long time.”
+
+Rhys blinked, startled. Was Cynog actually acknowledging Ev? No way. But he was sure he’d heard right. Damn. Does he actually secretly respect her?
+
+“Oh?” Ernesto scoffed. “A good excuse.”
+
+“No excuse. She’s too high Tier for those Tier 1 students of yours. So why don’t I match your students’ Tier with my own students?”
+
+“There’s no need. My students can fight at Tier 2,” Ernesto said, still looking down on Cynog.
+
+Rhys snorted. Tier 2 sounded impressive, until he recalled that Ev’s power reached Tier 3, and she could fight even higher if need be. These guys wouldn’t last a second in front of her.
+
+“I have a single student who can match all those brats of yours,” Cynog grunted.
+
+“Oh? And who would that be?” Ernesto asked.
+
+Rhys furrowed his brows, equally confused. He looked around. Were those students he’d sent to ambush him and Ev around? They were powerful, but not Tier 1, from what he recalled. Was there some other hidden talent around that he hadn’t met yet?
+
+Cynog lifted his finger. He pointed directly at Rhys. “Right there. He can take on all four of your students alone, no problem.”
+
+Rhys jolted. He looked around, searching for someone else near him or behind him, but he stood alone. It was him, Ernesto’s students, and the forest. He looked back at Cynog to find the man still pointing at him, a small but vicious smile quirking at his lips.
+
+His stomach sank. Uh oh.

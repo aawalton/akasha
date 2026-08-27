@@ -1,0 +1,161 @@
+---
+id: 3efa195c-a34f-5d17-b80b-d46390b1a6b5
+page-type-slug: story-chapter-royal-road
+title: "Threads 331-Springs 1"
+slug: 0371-threads-331-springs-1
+partOf: forge-of-destiny
+position: 371
+ownLength: 2560
+unit: words
+publishedAt: 2023-08-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1325253/threads-331-springs-1"
+royalRoadId: "1325253"
+---
+
+Something about the way his voice dropped gave her shivers. The brash thug of a cultivator she knew Ji Rong to be should not whisper like that.
+
+“I won’t risk her anger, trying to get inside her head, even if I could. Honestly, I probably can’t get in.”
+
+“That’s fine. We ain’t friends. I know that. I think you're a prissy faerie high on the station you’ve clawed yourself into. You think I’m a meatheaded thug, dragging the street around like a prison weight, right?”
+
+“Your words, Baron Ji,” Ling Qi said flatly.
+
+“Well, this is what all this noble garbage is supposed to be for, right? ‘Aligning interests.’ I’ll help you. You help me,” Ji Rong demanded.
+
+His pacing had finally taken him to directly in front of her. He was agitated, but the dam that broke earlier seemed to have been sealed. His expression had smoothed out.
+
+Ling Qi considered him. She wouldn’t risk anything deep in dream with the summit coming, but a light skim, reading the echoes Sun Liling left behind her without crossing over was… doable. Possibly. Combined with the visions she had begun to have since her tribulation, they might offer him a hint. A place to get started.
+
+And he was being sincere. Ji Rong was not hard to read. The politicking, the high realms, war and diplomacy, and all of that… It was above his head. Or, at least, it was currently. His interests in this matter were entirely personal. And she couldn’t bring herself to begrudge him that, no matter how much she disliked Sun Liling. If he said there was something wrong about her, she believed him.
+
+“And you keep this shit between us,” he continued. “I want your word on that.”
+
+Ling Qi paused. She was going to do this. The chance to defang the obstruction of the Sun was too good.
+
+“You have my word, Baron Ji. I hope our talks can be productive.”
+
+***​
+
+Cai Renxiang rested her chin in her palm, looking at Ling Qi steadily. “This is a first for you, Ling Qi.”
+
+“If you feel I have overstepped, merely say the word.”
+
+“I did not say that.” Cai Renxiang glanced to the side where the open window of the carriage showed the hills and mountains blurring by. “I trust your judgment. Reducing the impact of the princess’ obstinance is a strong boon, even if I dislike being left in darkness on any of the factors involved.”
+
+“I swear to you that I would not have and have not bargained to complete any service which could harm you or our interests,” Ling Qi promised.
+
+Cai Renxiang hummed in agreement as the carriage gave the faintest shudder, a testament to the roughness of the terrain here where the roads were still incomplete. “Very well. Regardless, we will need to keep our time at Snowblossom efficient. We cannot be away from the summit for too long, especially if your suspicions are correct.”
+
+“I am confident that Xia Lin and Meng Dan will be watching well, though it troubles me that any sabotage could occur with so many sharp eyes available.”
+
+“It does indicate either troubling incompetence or inside work,” Cai Renxiang said unhappily. “The general’s eyes are for troops and greater plots, roads and formations and foes with drawn blades. The work and summit relations, she regards as our responsibility, I think. The ministry however…”
+
+“Should very much be watching,” Ling Qi finished. “Well, I won’t discount our enemies’ competence. The plots of the ith-ia were only uncovered by my good fortune.”
+
+“A good point. It does not do us well to be too arrogant and assume our enemies lack capability. So, I will ask that you oversee the completion of the earth veins project. Gan Guangli should be completing his review of the soldiers and warding stones. I will be ensuring that there are no irregularities in records, missing supplies, or any large scale disruptions. Take some time to speak with your brother, but remain focused on the project.”
+
+“I understand.” Ling Qi bowed her head.
+
+It felt strange to be apart from Zhengui for so long, but she had to admit he was much more useful at Snowblossom. She knew he would just be feeling stir crazy if she had kept him at the summit these weeks, rather than letting him wander the fief and map the veins in the earth.
+
+She felt the faint pulse of qi as the carriage slowed to a more normal pace, coming over the last ridge to look over Snowblossom Lake. It hadn’t changed much yet. The thunder of the water falling from the high cliff across the valley rang distantly in the air, and the lake itself was a placid mirror reflecting the clear blue sky. But little lines of smoke rose from the shore, wispy trails twisting into the sky, and the dense woods carved back for a huddled series of temporary buildings surrounding a gathering square. Further out, she could see lands cleared of stone and stumps, little squares of tilled earth, each with their own homestead. Tiny dots moved along the trails of packed dirt that wound between the buildings. The great stone-paved road that they were on, winding down from the north to the south where they had come from, seemed terribly out of place still.
+
+The sight stirred a strange feeling in Ling Qi. This place was theirs, wasn’t it? She knew this would likely be the seat of Renxiang’s fief, but that didn’t change the fact that this was something she had a hand in building. She might not have been the sole owner, but breathing in the cool air, reaching out in spirit to touch on the diffuse qi of the lake spirit and the many other smaller ones…
+
+This was hers.
+
+“I should wonder if this pride is right, or is it only a seed of arrogance?” Cai Renxiang mused. “That in making something, you are its master, and you may do with it what you please.”
+
+Ling Qi looked over at her friend. It was a comment that only partially referred to their little outpost. It was only common sense for most that a parent had such a right over their children, after all. “Well, I’ll make sure you don’t become too rigid. Meanwhile, you’ll make sure I remain on task, hm, Lady Ren?”
+
+“I do not accept your diminutive,” Renxiang said flatly. “Do so again, and I shall redirect all correspondence from the Celestial Peaks to your desk for sorting.”
+
+Ling Qi swallowed, her face scrunching up in disgust. “That’s too cruel.”
+
+“There is a limit to my indulgence.”
+
+Ling Qi raised her hands in surrender. “Alright, I give up. For now, Lady Renxiang.”
+
+“We will watch each other though, as you said.”
+
+Ling Qi gave a nod as the carriage rounded the bend, bumping gently as it left the stone road and rolled along the dirt path toward the outpost center where a tall, broad figure in gleaming armor was emerging from the administrative building.
+
+Gan Guangli was coming out to greet them.
+
+***​
+
+“Welcome, Lady Cai! Miss Ling! As you can see, everything is in good order! Our brave fellows have ensured that not a single man or woman has been harmed in the clearing of fields or raising of homes. The first group of hardy folk from the foothills has arrived and are settling in well!” Gan Guangli’s booming voice echoed through the huddled buildings in the dirt square, surely audible to everyone on the shore.
+
+“Thank you for leaving ahead while I completed my business, Gan Guangli,” Cai Renxiang said formally. “I thank you for your assistance in our absence as well, Bai Lao Keung.”
+
+Lao Keung stepped out from behind Gan Guangli. “This is not the duty I was prepared for, but I follow Lady Bai’s will.”
+
+Scanning the square, Ling Qi could see a pair of Bai soldiers, members of her friend’s household guard, sent to their outpost to assist as well. They had clearly adjusted to the climate, wearing the same heavy coats of fur and hide that their own soldiers wore now, Only the mail veils of their helmets and the colors of their livery made them stand out at a glance.
+
+“It is unusual. I am thankful for Lady Bai’s generosity,” Cai Renxiang acknowledged.
+
+“Sir Lao is most redoubtable, and he was a great help in driving back the larger lake beasts which came to investigate the shores.” Gan Guangli clapped the shorter man on the back.
+
+Lao Keung twitched slightly at the contact but did not complain. “The deeps give and take, but the price should be arranged beforehand,” he grunted. “There were no other significant incidents.”
+
+“I am glad, and I will continue having words with Snowblossom about these matters,” Ling Qi said. “But for now, where may I find my brother and the scholars?”
+
+“You will find them out beyond the fields, Lady Ling! I believe they are waiting for you at the locus point of the fire veins that have been discovered. I would say to simply follow the trail and pennants, but I suspect you will see them from the air much better,” Gan Guangli answered.
+
+“Wonderful. Lady Cai?” Ling Qi asked.
+
+“You are dismissed. Have your initial report ready by this evening.”
+
+Ling Qi inclined her head to everyone and soared upward without further ado, turning on a lazy curve to fly out toward the farm fields. The initial fields were quite some distance from the shore and the other buildings. It might make the guards’ jobs harder but it was the best for leaving room for the settlement center to develop and grow. She suspected the collection of temporary buildings would be torn down as the docks and other lakeside infrastructure was built up. As for the center, it would depend on where they decided to build the administration and lord’s manor.
+
+There wouldn’t be time for a full planting and harvest this year, but the preparations could still be made. Each farm was a neat square separated by a well crafted boundary fence. Three quarters of each plot were fields with the last quarter taken up by a farmhouse and its grounds. She could already see figures moving in and out of some of them, the first batch of settlers.
+
+The farms were split by a central path, a packed dirt road that wound up out of the flatter terrain of the valley floor and up into the stony, lightly wooded slopes. It was marked by brightly colored pennants as Gan Guangli had said, but Ling Qi didn’t see anything more obvious, except for the distant feel of Zhengui’s qi.
+
+She felt a surge from the land, a pulse traveling through the scattered web of energy beneath the surface. She heard and felt the wind churn and rush, and there, far away still, she saw a column of light and fire bloom, a geyser rising into the sky and raining back down.
+
+She supposed that would do it.
+
+She found Zhengui lying on his belly near the site of the bloom, half-submerged in the bubbling waters of one of the many pools which dotted the oddly terraced hills, the fading mist of the explosive geyser still glittering in the air. A handful of humans were with him, a few soldiers and the scholars Cai Renxiang had requisitioned from the capital.
+
+“Hello, Big Sister!” Gui chirped. “Did you see? Did you see?”
+
+“I saw. This is new, little brother. I think the surveys would have noticed this before otherwise.”
+
+“Yeah!”
+
+“I, Zhen, have determined that this is the strongest place where many lines connect. I saw that digging here. I could claim the fire under the earth and come to guide it!”
+
+He sounded so proud of himself. Zhen hadn’t gotten to the heights of haughtiness like that in a long time.
+
+“Lord Zhengui’s instincts are impeccable, and it has saved us a great deal of time,” one of the scholars, an old man with a wispy beard and little spectacles, said. “Baroness Ling is most generous for giving us access.”
+
+Considering it was for her home, she didn’t think so, but she understood the dance. “Of course. I am glad this task was made easier, for we all serve Lady Cai. May I know what you have found?”
+
+“The lines go everywhere!” Gui interjected, rising from the pool of boiling mineral water. Here and there, collections of crystal had begun forming in the crevices of his shell. “It goes waaaay south down to the big lightning mountain and north to sister’s salty cave. It doesn't go where the fuzzy carpenters are though, and the part near grumpy Mister Blizzard is frozen.”
+
+So the fourth realm thunderhoof was interfering with the lines in his region, and they didn’t reach the eastern hills? That was still much better than expected.
+
+“Are there more nexus points like th—”
+
+Ling Qi’s words were interrupted as the geyser erupted again. So close, she could see now the rounded hole dug into the hilltop, lines with tiles of clay and stone carved with formation. It was truly spectacular, a rising column of hot water with a core of shimmering blue green flame at its core. She could sense a thread of Zhengui’s power in it. It was just a seed for now, but looking closer, she could feel the tenuous link in Zhengui himself as well.
+
+“Like this?” Ling Qi finished, impressed. The rain fell as only a warm mist, its killing heat contained by the formations carved into the rock.
+
+“There are three in total like this one. Unfortunately, one is occupied by the thunderhoof, and the last lies too close to the mountain home of the dragon horses,” the old scholar replied. “There are a number of other minor points, but none other so potent as this, baroness.”
+
+“I see.” Ling Qi frowned. Unfortunate, but they were lucky to have one unoccupied. “And what may be done with this one?”
+
+“I, Zhen, think that it would be best to spread this power through the earth, so that all the little humans do not freeze even when it is very cold and their growing things do not die even when the ice comes down from on high.”
+
+“Hmph, silly Zhen! It is better if we leave the power in the water, so the humans can drink it and be strong against bad spirits! Hanyi can scare away stupid cold spirits who come and try to be jerks, if we do not eat them first!” Gui exclaimed.
+
+“Foolish Gui! The kind spirit of Snowblossom gives the humans all the nice water they need. Would you intrude on our neighbor’s domain?”
+
+“Vain Zhen just likes the pretty lake’s praise and pats. Deep water is much better for the humans. They can dig wells far away from the lake and not get sick!”
+
+“Shameless Gui! Do not speak such things before big sister. With warm soil, the humans will never want for good food!”
+
+Ling Qi coughed awkwardly into her hand, glancing at the gathered scholars, none of whom were quite meeting her eye. “He's been arguing about this for some time, hasn't he?”
+
+“Y-yes, baroness,” the old man said, bowing deeply. “We beg that you arbitrate this dispute.”

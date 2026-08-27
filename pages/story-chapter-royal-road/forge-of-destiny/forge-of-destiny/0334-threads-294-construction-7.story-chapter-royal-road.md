@@ -1,0 +1,143 @@
+---
+id: 47d65443-61e0-575d-8e5f-009148857cbb
+page-type-slug: story-chapter-royal-road
+title: "Threads 294 Construction 7"
+slug: 0334-threads-294-construction-7
+partOf: forge-of-destiny
+position: 334
+ownLength: 2022
+unit: words
+publishedAt: 2023-04-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1157292/threads-294-construction-7"
+royalRoadId: "1157292"
+---
+
+There was so much Ling Qi wished she could cover, so much information she was yet lacking. She had only two short months to prepare for the admittedly month-long summit, and so very many things to do.
+
+This was her first meeting with these representatives of the White Sky however, and so, with much thought, she decided it would be best to focus on cultural topics. Going after material ones might come across as more probing than she might like at this point.
+
+With that decided, Ling Qi broke the brief but comfortable silence in which they had been walking.
+
+“If it isn’t overreaching, may I ask what Emissary Jaromila is occupied with?” Ling Qi asked. “I will happily speak with whatever representatives you choose, of course, but we parted well, and I hope that she is in good health.”
+
+“Emissary Jaromila is still occupied in the homeland, speaking to and organizing those who are involved,” Emissary Khadne replied, walking behind her. “As I imagine you have been.”
+
+“Yes,” Ling Qi agreed.
+
+Much of the conversations had gone over her head. It was troubling being stuck in this liminal space where she was a child or an adult as it suited. She knew Cai Renxiang had been working in the background, and that she had only just succeeded in getting them fully involved. It made their efforts more difficult. They were in charge but not, a tangle of unclear authority.
+
+“There are always difficulties in organizing people. This is universal, I’m sure.”
+
+“Hah, one could say that. Everyone always wants their say, even when they’ve got not the slightest idea what they’re talking about,” chortled Rostam.
+
+“It is our duty as emissaries to ensure that those who speak do have an accurate idea of what is being debated,” Dzintara said sourly.
+
+“We may speak, but it is the listener’s choice if they hear,” said Inzhu calmly.
+
+Ling Qi glanced back in time to see Khadne make a subtle gesture and the others fall silent. It seemed there was a desire to not seem argumentative in front of her.
+
+They arrived at the clearing beside the road Ling Qi had been leading them to, and Ling Qi noticed some raising of eyebrows and tilting of heads. But Ling Qi had learned from Cai Renxiang. It required a little formation work and the emptying of most of the rest of her nonessential possessions from the ring, but she could afford to have this type of meeting space available now.
+
+She gestured, and the construct she had stored in her spatial ring appeared. There was a rush of displaced air, a creak of settling stone and wood, and the small stone pavilion shimmered as it fully materialized. Instantly, there was the scent of food and spiced wine in the air, the table and benches set under the tiled roof coming into being at the same time.
+
+“Please, seat yourselves. My apologies that you will have to serve yourselves,” Ling Qi said.
+
+There was a beat of silence before Emissary Dzintara swept past. “A strange thing to apologize for.”
+
+“Hoh, what a nice trick,” Rostam praised. Taking his wife's hand, he ascended the few steps as well. “A fine bit of runecraft.”
+
+“It is very fine. Your crafters are skilled,” Inzhu acknowledged, and Ling Qi noted a sharpness in her eyes and tone that had not been there before. “Such a trivial use of spatial effects.”
+
+It was a marked departure from the women's previously demure demeanor.
+
+“A fine meal, Emissary Ling Qi. I hope we may put that matter behind us then,” Khadne said, nodding to her.
+
+Ling Qi nodded back and ascended after her, taking note of the seating. The couple had taken the bench on the right, but Khadne and Dzintara had taken the left one. Ling Qi was troubled, she had assumed she would be talking to three people at most and had assumed they would sit on opposite sides. She dithered a moment, and took a seat beside Khadne.
+
+“Given the issue that brought me here today, I feel I should ask. Was the delivery of the weregild satisfactory?” Ling Qi asked. “As friends, please serve yourselves as you wish here.”
+
+“As friends then, please take the first selection. As the host, it’s only polite,” Rostam said cheerfully.
+
+Ling Qi nodded, reaching to pour herself a cup of dark tea, and then, she began selecting a few items for her plate. Once she had taken her first sip, the others began to serve themselves.
+
+“To answer your question, the delivery was acceptable. Exchange of weregild is always tense and unhappy,” Khadne said. “The amount and quality of timber were both unimpeachable.”
+
+Dzintara frowned a little, looking down at the aromatic black tea, poured from the same pot as Ling Qi’s, as if it had personally offended her.
+
+“I am pleased,” Ling Qi said.
+
+“So, Emissary Ling Qi, I have a question I feel can’t be put off,” said Rostam. He had pushed his odd floppy hat back off of his head, letting it dangle on his back by a rawhide string around his neck. “What’s the order among your people? Who is it appropriate for us to speak to?”
+
+“You are only one woman after all,” Khadne followed up. “And like Emissary Jaromila, you are busy conducting negotiations with your own people as well.”
+
+Ling Qi inclined her head. This was a question which could not be avoided. “When they are present, my lady Cai Renxiang will speak, as will my companion in her service, Sir Gan Guangli.”
+
+She put a hint of qi into her words, a subsonic hum that conveyed an impression of auras and appearances. “On the matter of the work crews, Lady Wang Lian will be an appropriate contact.”
+
+She’d have to talk to the woman after this, but she had no doubts about her cooperation.
+
+Khadne shifted as the impression of Wang Lian’s power washed over the table.
+
+“You would allow us to speak directly to a Voice unattended?” Dzintara asked. Her tea cup was empty, but she still frowned at Ling Qi.
+
+Ling Qi pursed her lips. Ultimately, this was another topic that could not be avoided. “Our higher realm cultivators are more mobile and active than yours. I assure you, Lady Wang is reasonable and should require no interpretation.”
+
+There was some whispering back and forth, which Ling Qi deliberately shut her ears to, though she felt their screening as well. She took a moment to drink and pick at the food on her plate, making an extra effort to be formal and proper with her utensils. She knew they would probably be using her as an example to copy.
+
+<And ain’t that stressful,> Sixiang poked at her.
+
+“I understand this. Some Voices and traditions are more mobile. What Divine does this Wang Lian speak for?”
+
+Ling Qi drew on the memory Wang Lian herself had shown her, the power that sat in the center of their lands, an original companion of the Duchess herself. It took a moment to find the right combination of sound and qi to convey something so much larger than herself. “The Builder.”
+
+Heads tilted back. Fingers tapped on the table. It was Inzhu who responded. “A worthy role indeed,” she said with a smile. “If you all will agree, I will take the role of communion on this.”
+
+“Agreed,” Dzintara said tightly.
+
+“Hah, indulging your hobbies even here,” Rostam chuckled. “There is the matter of the Great Soul you have roving about, miss, the one who cut the mountain.”
+
+“General Xia is best left alone by outsiders,” Ling Qi said flatly. “My lady and I will conduct any negotiations in that regard.”
+
+“Sensible. It is not as if we will give you access to our implements of war.” Khadne glanced at the others. It was clearly an uncomfortable point.
+
+“If I may ask my own question, what are the differences in your confederations? Where are you split or joined? And are there any particular matters where offense could be given without meaning?”
+
+“All fought at the walls of the world when the World Tree was withered by the artifice of the giants,” Dzintara said. “We, the people of Ice, all descend from those who fought when the world’s shape was changed, even though we were scattered, broken, and left upon both sides of the Polar Gates.”
+
+“Yes, that is the old legend. In truth, we were apart for very long, and we lived in very different places.” Rostam said. “We of the seared land, my beautiful home of killing bogs, buzzing marsh, and burning badlands, must operate a little differently.”
+
+“It is from our brothers in the Seared Lands which we took inspiration for union with the cloud men,” Khadne offered.
+
+“Really?” Ling Qi asked neutrally.
+
+“When the Day of the Black Sun and the Great Burning came, many cloud men fled their mountains south and joined the old blood of my land by one method or another. There have always been a trickle after that,” Rostam explained. “More still came some half a thousand years back, fleeing a lost war. Hah, I suppose now we know what they were fleeing!”
+
+Ling Qi inclined her head. She accepted that without apology or explanation. “And they integrated well?”
+
+“They can’t practice their mountain ways down in our bogs and mud. Some try anyway and become bandits, and these, we kill, but others make new ways out of their old ways.” Rostam shrugged. “But we have always been a crossroad land. Why, my wife, Inzhu, she is named for her great-grandmother, who came to us from the cities of light across the eastern sea.”
+
+“That’s fascinating that there are more peoples beyond even your lands,” Ling Qi said. Picturing maps in her mind, these people from the cities of light would be somewhere far beyond the Grave of the Sun.
+
+“There are people everywhere. Humans are like a mold, yes? Creeping in wherever there is a bit of heat and wet, and even sometimes where there is not,” Rostam jested.
+
+She laughed politely at his joke.
+
+“Being more serious, it is very rude among our people to not offer some level of food or drink for any serious meeting,” Inzhu cut in. “This is the sort of ‘obvious’ thing which you seek, yes, emissary?”
+
+“That would be an example,” Ling Qi acknowledged.
+
+“The armors some of your folk wear everywhere. To our eyes, it is a threat when worn to a meeting of peace,” Dzintara said shortly.
+
+“Also helpful,” Ling Qi said, swiftly thinking of an example. “Among us, it is rude not to leave a little on your plate at the end of a meal, as it implies your host has not provided enough food.”
+
+“Small bits of strangeness we will all have to learn and prepare any who will be speaking or meeting for,” Khadne said.
+
+“I notice that you have not spoken of your home yet though, Emissary Dzintara,” Ling Qi said.
+
+“The lands of the Tangled Pine lie to the west and are rich but dangerous. Our beasts and spirits are savage and unmerciful. Our woods are dense but cursed with malevolence,” Dzintara said. Her words were short and clipped. “Much of the Polar Nation relies upon our strength and the materials we pry from the land. It is Mother Fryja who we give the greatest obeisance, for her axes slew the demon of flowers which once ruled us after the closing of the gates.”
+
+That confirmed the sneaking suspicion that Ling Qi had felt since their confederation was named. Even if it was probably only a rumor to them, the Emerald Seas’ riches were probably seen as a threat.
+
+Also, “demon of flowers”? Ling Qi felt a sinking sensation, remembering the arts of Sun Liling. That was from the Western Territories. A native art, if she remembered correctly. That could be… a delicate issue.
+
+“Thank you,” Ling Qi said, bowing her head. “Let's move on to other items. Please, no matter how obvious it seems, speak up on what your people find polite or insulting…”

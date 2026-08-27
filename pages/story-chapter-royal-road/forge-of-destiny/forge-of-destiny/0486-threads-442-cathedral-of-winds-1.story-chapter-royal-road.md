@@ -1,0 +1,181 @@
+---
+id: 2f86b290-1613-51a0-93f9-bb7302cef798
+page-type-slug: story-chapter-royal-road
+title: "Threads 442-Cathedral of Winds 1"
+slug: 0486-threads-442-cathedral-of-winds-1
+partOf: forge-of-destiny
+position: 486
+ownLength: 1802
+unit: words
+publishedAt: 2025-04-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2202896/threads-442-cathedral-of-winds-1"
+royalRoadId: "2202896"
+---
+
+"Qiiiiiiii!"
+
+Sixiang's impact against her chest would have bowled her over if she were a mortal. As it was, she nearly floated off her feet as they spun around once. Her cheeks warmed at the flagrant contact, but she embraced the muse back. It felt strange for Sixiang to have this much weight and solidity.
+
+"O-oh, dear. Ah, you really shouldn't do that kind of thing in public!" Li Suyin fretted, climbing down from the steps of her carriage.
+
+"It’s fine once in a while. Besides, there's no one here to be scandalized.”
+
+Because the workers and clerks at the temporary hitching post were not looking at her.
+
+Li Suyin's carriage was bone white with deep matte black paneling, carved to seem as if it were made from the bones of a large beast, including a many toothed, squared off jaw serving to hold the driver’s bench. Naturally, it was occupied by one of her skeleton automatons. This one had a horse's skull. The horses were entirely made of carved wood, porcelain, and silver. They emitted a low but fragrant smoke from the joints and crevices of their mechanical forms.
+
+"They're supposed to do that," Sixiang confided, giving her one more squeeze and releasing her. "It's the fuel."
+
+Ling Qi cocked an eyebrow. "Do they not use spirit stones?"
+
+"That method is too expensive for daily use," Li Suyin explained. "Since I have the freedom, I'm experimenting with different methods."
+
+Ling Qi squinted at the construct horses, listening to the faint susurrous of whispers. "Are there faeries in there?'
+
+Li Suyin tilted her head."Yes. How did you know? I've bound them to the formations in the chest and stomach cavities. They're fed small amounts of mid-grade wood to keep them producing energy."
+
+They didn't exactly sound upset, she guessed.
+
+"My senses have improved. A lot. You should watch out for when they get bored."
+
+"That is a problem,” Suyin acknowledged. “The feed keeps them mostly docile, but it's not perfect, and the method really doesn't have great efficiency. But! It is proof of possibility."
+
+"They're way more expensive to feed than just grabbing a couple of real horses," Sixiang tattled.
+
+Li Suyin shot the muse a betrayed look, the iris of her artificial eye glinting and spinning dangerously. "Your own body is based on similar principles!"
+
+"Yeah, but I'm not a little baby fairy who can't string two thoughts together. I don't need your doodads to run all the processes for me." Sixiang leaned on her shoulder and stuck their tongue out at Suyin.
+
+"Have you considered employing spirits that are…" Less stupid. Less stupid and feckless than red grade faeries, she wanted to say. "A little more advanced?"
+
+"I considered it, but the containment and binding formations are a problem, not to mention the danger if they break free while around mortals," Li Suyin replied.
+
+"You may be able to convince a spirit to enter a contract to operate a construct."
+
+Li Suyin shook her head. "Possible, for a personal piece, but it doesn't work well for wider reproduction. Regardless, it is good to see you again, Ling Qi. Thank you for welcoming me to your home."
+
+"Thank you for coming to assist on our expedition. I know the prodigy of the Argent Peak Sect must be busy," Ling Qi teased.
+
+"Oh, stop."Li Suyin’s cheeks flushed. "I have been given a break from deployment before the offensive."
+
+"You're going?"
+
+"Of course. I have to be on hand for maintenance of the purifying talismans and formations."
+
+She really did have to get used to a more determined Suyin.
+
+"I understand." Ling Qi turned her attention to Sixiang. "And you? Are you better? The flames…"
+
+"Oh, I'm good," Sixiang dismissed.
+
+Ling Qi narrowed her eyes, sensing the slight edge of falsity in their voice. It wasn't a lie, but it wasn't completely true either.
+
+"Managed to shave off the worst burnt bits, and I've gotten the rest patted out. Really, I’ve just been bored the last month or two. I’ve been working out more body stuff."
+
+"And being a pain in my ass," another voice grumbled.
+
+Su Ling emerged from the carriage as well, to Ling Qi's surprise. She hadn't noticed her with her senses. Li Suyin's security formations were getting good.
+
+"Don't be like that, Lingling." Sixiang smirked. "I know you haven't gotten rid of that painting I did on your ceiling. I think I really got the flex just right."
+
+Su Ling's ears stiffened, the long points standing out straight from her head. "Take your fucking jester back, Ling Qi."
+
+"Don't worry. I will," Ling Qi said, amused. "Since when do you paint?"
+
+"Since I needed to find more things to do." Sixiang shot her a grin. "And who's the new girl?"
+
+"Ah, this is Qiyi. She awakened under Sir Lin's care and repair."
+
+Hi! Echo empty shore waiting left. Return? Silky cushion waiting. Keeping warm.
+
+"That so? Well, aren't you a cutie." Sixiang peered at the gown. "I might not mind a bit of time there."
+
+They looked at Ling Qi questioningly, and Ling Qi dipped her head in agreement. She wouldn't mind that at all. As comical as it might sound to say, her head had really been too empty lately.
+
+"Oof, jeez, your dress is a spirit now, too?” Su Ling asked. “I don't know how you're okay with wearin' somebody. I don't even like keeping Cibei in my dantian that much."
+
+The little black bat, still no more than a hand span in size, poked out of Su Ling’s bushy hair with a squeak, making Su Ling's tail flick.
+
+“I have said that it is fine, Master!”
+
+Su Ling snorted. "And I've said that I don't like people in my head."
+
+"Qiyi is a dress." Ling Qi shrugged. "Even if she is a person, she is still a dress. I'm surprised you're here, by the way. I don't mind, but…"
+
+"Trips are suspended for a time. I am still a member of the Argent Peak Sect," Su Ling replied.
+
+"And she wished to visit Sir Gan, for which I cannot blame her." Li Suyin sighed, resting her cheek on her hand.
+
+Su Ling scowled at the other girl. "He's coming along, isn't it he? Figured I might as well come help."
+
+"He is going to be our anchor,” Ling Qi answered. “The tunnels don't suit him, but you said he could help operate your formations in your letter, didn't you, Li Suyin?"
+
+"Yes. I'll need to be on site to apply the impurity seals when we find the breach, so someone else will need to operate the short-range transport formations and provide me the data for the proper environmental flows from the surface."
+
+"And to guard against any interference to the surface equipment," Ling Qi said, amused.
+
+Even if they weren't hostile, it was a spiritually active site.
+
+"Yes, that, too. It's best if no one is left alone in the operation, though, no?"
+
+Li Suyin sounded entirely too innocent.
+
+Su Ling's unimpressed look said that she agreed with Ling Qi's assessment.
+
+"Yep,” Sixiang chirped. “Buddy system all the way. Better safe than sorry."
+
+"Look. Just because you're right doesn't mean I don't know what you're doing, you buncha degenerates," Su Ling grumbled. "We just gonna stand around here all day or what?"
+
+"We should get moving," Ling Qi agreed. "Please follow me to the Shenglu manor, honored guests."
+
+"Please," Li Suyin said.
+
+The jeweled, claw tipped fingers of her gauntlet twitched, and the low rumbles and rising smoke from the constructs ceased. Ling Qi sensed the faeries bound to them struggle to stay awake, only to sink into a low energy torpor after a few moments. Meanwhile, the horse-headed driver leapt down from the bench to stand behind Li Suyin as they began to walk.
+
+It was every inch the obedient porter. Except for being a more than two-meters tall polished skeleton with spider silk muscle and sinew. Details.
+
+Best to start inuring people to Suyin’s aesthetic choices now. She certainly wasn't going to stop having her friend over.
+
+Tug and pull. Stretch and contract. Make the walk and swing? Testing. Testing. Ribbons and bones.
+
+Qiyi, no.
+
+Wearer no assist? Sad.
+
+If she was ever disabled again, maybe then Qiyi could assist her.
+
+No, Qiyi not allow. Bad. Failure. Bad girl ribbons not deserve. Damage wearer.
+
+She could walk and move on her own just fine otherwise.
+
+Wearer sleep? Cultivate? Assist then? Work good!
+
+No.
+
+Sad.
+
+"Looking distracted there, Qi." Sixiang fell in beside her as they left the hitching post and followed the packed gravel path toward the road that led into Shenglu proper.
+
+In the distance, she could see the many workers swarming over the temporary palisade walls, carefully deconstructing their more valuable elements, and streaming out to the new perimeter, where the construction of proper walls of earth and stone was being begun. Watched over by the majority of their guard complement, mortal workers dug alongside low cultivation earth movers, digging out the trench where the foundations would be set. Cai Renxiang wanted the settlement walls finished before they left for Xiangmen.
+
+“It really is impressive how much you all have carved from the wilderness in less than a year." Li Suyin admired the colors shimmering in the mist that billowed from Snowblossom's falls.
+
+"Looks empty to me, but I guess you all 're plannin’ for growth," Su Ling said. "Still, it looks nice for now."
+
+"You've definitely been busy," Sixiang assessed. "Is the fam all settled in now? I stopped in to say bye when they left."
+
+"Yes, everyone is here and safe. Mother's worked herself into a fret, but Biyu loves the manor gardens," Ling Qi said fondly.
+
+"It's good to be able to keep your family close. I do miss Mother and Father sometimes," Li Suyin said wistfully. “We keep up with the letters, and I've commissioned a speaking mirror so we can talk on occasion, but it just isn't the same."
+
+"You'd get even more testy about getting dragged out of your lair then," Sixiang commented.
+
+"It's a laboratory, not a lair!" Li Suyin pouted. "Doing things with family is not the same as attending all those frivolous gatherings you've dragged me to."
+
+"I dunno. I think it was probably good for ya to talk to some other humans after a month locked up." Then, Su Ling smirked. "And you got awfully flustered when..."
+
+"No! You both promised not to talk about that!"
+
+Well, that was just unfair of them. How was she supposed to tease her friend if she wasn't allowed to know? Truly, the temptation to don the mantle of the Thief of Names had never been greater.
+
+Sixiang met her eyes and grinned. She grinned back. She was glad they could still meet up like this.

@@ -1,0 +1,137 @@
+---
+id: 50b8ed30-0554-5ffc-b718-a19d312d35ed
+page-type-slug: story-chapter-royal-road
+title: "Threads 202-Festival 3"
+slug: 0234-threads-202-festival-3
+partOf: forge-of-destiny
+position: 234
+ownLength: 2325
+unit: words
+publishedAt: 2022-03-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/871923/threads-202-festival-3"
+royalRoadId: "871923"
+---
+
+Her conception of power was too small. Flashing light and shattering cold were obvious, but in the end, power was the ability to change the world around her. And while violence was the easiest and simplest way to achieve that, it wasn’t the only one.
+
+Ling Qi paused for a moment, standing still in the middle of a ring of raised stones which sat at the center of the flowerbeds The bright yellow and red flowers that bloomed there did not bend under her tread, and slowly, tentatively, her family and household began to walk the circular paths through the flowerbeds. It was pleasant, watching something she had put so much work into appreciated. It wasn’t like Renxiang’s noble gatherings where even if her music was enjoyed, there was a perfunctory feel to such enjoyment.
+
+Although she probably couldn’t put all the blame on her audience for that.
+
+<I don’t think you ever put anything less than your all into your music,> Sixiang whispered.
+
+Perhaps, but nonetheless, she hadn’t taken the audience’s appreciation as a goal.
+
+She watched through half-lidded eyes as caution began to give way to the urging of the music. The servants talked quietly among themselves as they observed the flowers, some crouching down to look more closely. Off to her left, her mother knelt by the edge of the path to pluck a flower and weave it into Biyu’s hair. The flower sprouted back near immediately. Those close by saw, and with many glances back toward Ling Qi for any objections, they began to take flowers for themselves.
+
+Ling Qi let it go on, playing in time with the rumble of Zhengui’s qi and the soft strings Sixiang played on the wind. Finally, the time for the next phase began. With one last rumble, Zhengui’s part fell silent, and the air at the north end of the flower field shimmered, several trees fading into drifting mist to reveal a winding white path leading further in. Ling Qi took a single step and dematerialized, reforming at the entrance of the new path. She very carefully didn’t smile at the sudden, surprised jerks of those who had been looking at her.
+
+She began to walk, shaping the sound of her melody on the wind to make the direction of her presence obvious, taking small steps until everyone was following her once again. The winding path leading into the center of the garden narrowed the procession, leaving room for only two people to walk abreast. In the shrouding mists outside the path, color and light flickered, refracting the light of the lanterns. Ling Qi saw nothing but blurs, but she knew as the song moved into the next phase, moving from reward to yearning that those who peered into the mist saw reflected there the objects of yearning motivation for future labors.
+
+If she closed her eyes, she could feel them all. Though their spirits were small and weak, the coal of Want smoldered in every soul. It was from that yearning that the tiny threads of qi she could feel twisting their way toward Zhengui arose. Want was the source of faith, the desire to to be safe, to have good fortune, for the world to make sense. Even malice hurt less than apathy.
+
+<Hm, hm I bet you could have some pretty long debates about that,> Sixiang murmured. <But you can see it now, right? Even small things matter in their way. Belief moves things. It births me and my cousins and shapes the Hearth. Big folks make more splashes, but little folks move things in their own way.>
+
+Ling Qi didn’t interrupt her song, but it did make her think. She had been cultivating the Phantasmagoria of Lunar Revelry art since she had begun dreamwalking with Sixiang, and she had come to wonder how Joyous Toast fit with the rest of the art. How did it work and empower other arts, drawing great power from seemingly nowhere? But this was it, wasn’t it? The liminal realm was naught but thoughts and dreams and faith. The shape of the technique merely created a channel with which to draw upon that for an instant.
+
+She saw in her mind’s eye the flows of the technique, the patterns of qi that she saw now existed only to simplify its use. In that moment, she understood the truth of the technique. No phantoms nor music were needed, only a moment where narrative and reality could overlap into a Lunatic Crescendo.
+
+She thought she understood just a bit how the Hui had become so twisted if the arts of dream were so core to their clan. It was always so easy to accept an attractive narrative.
+
+They walked the path for several minutes as the song rose and fell until at last, two new lights broke the darkness ahead of them. The end of this path was marked by two trees, their bark the color of soot with heat glowing in its creases. Crimson leaves danced with embers that clung to their edges but never seemed to burn.
+
+Beyond lay the spring, its water bubbling merrily. Light from the burning trees glinted off the water along with the silvery light of the moon. Cool mist churned at their feet, rising in wispy edies on the heat generated by the bubbling water. The path here, entering and splitting around the spring and the stony outcropping which stood opposite the entrance, was not made of stone or gravel, but of living vines woven together. Under her feet, Ling Qi could feel the pulse of a tremendous heartbeat. The others could feel it too.
+
+But they hadn’t the time to do more than whisper about it before greater concerns distracted them. Zhengui rose from the pit nest he had dug for himself, gravel and dirt splashing into the bubbling water. He did not conceal his true size here, nearing five meters at the shoulder and ten front to back. He towered over her. He towered over all of them. As his eyes opened, four more points of light in the dim center of the garden, Ling Qi’s song rose to a crescendo, and the melody finished.
+
+Ling Qi stepped forward to the edge of the pool and turned for the first time, allowing her footsteps and the swish of her gown to be audible. “Behold, the guardian of the Ling, Zhengui, he who is precious, he who protects, bringer of renewal from hardship! I bring you all here tonight to do him honor and in turn to honor you for your service and devotion.”
+
+Ah, she felt so ridiculous, making proclamations like this. She tried her best to ignore the faint smile tugging at the corners of her mother’s lips.
+
+“Zhengui loves the family, and Zhengui guards the family. Good fortune and health will come to all within our house,” her little brother spoke. His voices were deep and booming in the confines of the garden, two voices speaking as one. “Zhengui says that all here are good, and all here are friends. Even if you are not family, Zhengui will protect you too.”
+
+“So, come now, relax, and celebrate for a year is ending and a new one lies ahead,” Ling Qi said, spreading her arms wide. “Partake of the fruits of the garden, and be rested for the future.”
+
+Sixiang twisted the air and cast a glow on the trees which filled the garden’s inner circle heavy with fruit of many kinds, all carefully checked for safety of mortal consumption. On the carefully arranged ground, there were thick blankets laden with drink and good food. Faint flakes of drifting ash in the air burned briefly green, and restorative qi rippled out. She saw the moment that the qi filled the women here, aches, weariness, and the daily wear and tear of mortal life soothed away.
+
+Ling Qi stepped away from the center as she watched the group begin to spread throughout the garden center. Most went to Zhengui first, bowing low and offering respects. They might have to arrange something for proper offerings next time. Maybe food, a dish cooked by the supplicant themselves? It seemed like an idea.
+
+“Mother, how did you find me so easily?” Ling Qi asked curiously, glancing up as she sensed the older woman’s approach. Ling Qi had retreated back behind Zhengui to the shadow of the trees.
+
+“You were not trying very hard,” Ling Qingge replied, earning a raised eyebrow from Ling Qi. “And Sixiang gave me direction.”
+
+“Sissy is a pretty fairy,” Biyu said solemnly. “Nice garden!”
+
+“I’m glad you appreciated it, little sister,” Ling Qi said with a faint grin. She looked back to her mother. “What did you think?”
+
+“Your song was beautiful, and the garden fantastical,” Ling Qingge replied.
+
+“Do you think it was too much for them?” Ling Qi asked, glancing back to where her household was beginning to filter out through the garden core. She watched one girl tentatively dip her feet in the water at Zhengui’s urging. The temperature didn't harm her in the slightest thanks to the power of their domains in this place, and soon, the girl was joined by a much older woman, Biyu’s most regular nanny.
+
+“I think your routine may need some polish and refinement. A formalized offering would make many more comfortable with your generosity” Ling Qingge said, echoing her earlier thoughts. “But no, this is not too much. This… is good.”
+
+Ling Qi hummed to herself as she watched her mother look out over the garden. It was a small thing, acquiring the fruit trees and the drink, but it was worth the effort, she thought, for her mother’s sake if nothing else.
+
+***
+
+It was only later after her family and their people had departed that Ling Qi was able to relax, leaning back in the crook between a pair of the dull spikes of Zhengui’s shell.
+
+“You enjoyed that quite a lot, didn’t you?” Ling Qi asked idly.
+
+Gui made a sound of agreement, muffled and distorted by the bubbling mineral water he had immersed his head in as he gulped down great mouthfuls.
+
+“It was good for I, Zhen, to receive the acclaim I deserve for once,” Zhen claimed, nuzzling at her side.
+
+Ling Qi nodded shallowly, letting her hand rest on his eye ridges. “We’ll have to work on something even better for next year.”
+
+“Big Sis wants to do this again?” Gui asked curiously, raising his head from the water.
+
+“Festivals are supposed to be regular,” Ling Qi chided lightly.
+
+“The dates are probably going to be up in the air for awhile,” Sixiang mused aloud, their voice emanating from nowhere in particular.
+
+“It should be near the end of the year,” Zhen said.
+
+“I agree,” Ling Qi said. “But the exact day… Yes, we’ll have to be flexible.”
+
+“Until we have our real home,” Gui chirped.
+
+“Until then,” Ling Qi echoed. There was a small thrill to that. Even now, with two years as an immortal, she had only known borrowed homes. The sect housing, the manor in the village, none of them truly belonged to her.
+
+“I think you could probably buy the place in town at this point. You’ve probably invested more than it was originally worth,” Sixiang advised.
+
+“That’s true,” Ling Qi agreed. She might need it one day after all. Biyu would probably need to attend a sect. Keeping up the relationship with Argent Peak Sect might assuage any hurt feelings from recent actions.
+
+Well, it would depend on what Biyu wanted.
+
+It still felt strange to look so far ahead. Ling Qi, the street rat scrabbling for the next day's bread, still lived in her heart and mind. “Thank you, Zhengui.”
+
+Zhen’s tongue flicked out, sending a plume of ashy smoke up into the clear night sky. “What does sister thank Zhen for?”
+
+“She thanked Zhen and Gui,” Gui grumbled.
+
+“For all this.” Ling Qi gestured around her. “I would never have thought of it on my own, and I couldn’t have done it on my own.”
+
+“Gui should thank Big Sis for indulging Gui,” her little brother replied bashfully.
+
+Ling Qi let her eyes drift shut for a moment. “I’m not just talking about the garden. You know I love you, right, Zhengui?”
+
+She kept her voice light, but saying it out loud felt odd.
+
+Zhengui was quiet for some time. “Yes, Zhengui loves Big Sister too.”
+
+“Thank you,” Ling Qi said. “But… your Big Sister is selfish. I love my family, but I don’t think I can love land and people, not like you do. So thank you for helping me with that. I think I’d be very bad at being a baroness on my own.”
+
+“Big Sister is good at anything she tries,” he replied stubbornly, both voices overlapping.
+
+“You’re good at flattery. Who taught you that?” Ling Qi joked, sitting up.
+
+“I can probably take the blame for that one,” Sixiang said, conveying a smirk without even lips or a face.
+
+But that was what it came down too, wasn’t it? She couldn’t just be strong in one way, not if she wanted to hold onto anything human. She had to get stronger. She had to keep racing for that radiant pinnacle, so that no one could ever threaten what was hers. But if she left everyone behind, she would only crumble in the end.
+
+Even if Zhengui, Hanyi, and everyone else ended up far behind her, she still needed them, doing all the things that she, in her solitary power, could not do. It wasn’t enough that they were able to make their own choices. Her choices and theirs needed to come together.
+
+She felt a knot of tension in her chest uncoil, and Ling Qi looked up into the silvery light of the moon. “When we find our home, let's make it a beautiful one, okay, Zhengui?”
+
+“Yes, Big Sister!”

@@ -1,0 +1,137 @@
+---
+id: ed465a21-bdab-5ae5-a0d4-d447d7fa1364
+page-type-slug: story-chapter-royal-road
+title: "Threads 258-Storyteller 2"
+slug: 0296-threads-258-storyteller-2
+partOf: forge-of-destiny
+position: 296
+ownLength: 2116
+unit: words
+publishedAt: 2022-10-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1028389/threads-258-storyteller-2"
+royalRoadId: "1028389"
+---
+
+Ling Qi remembered the nightmare of being one of the swarm, primal and pitiless, her teeth finding human throats. They chittered out in the dark, her kith and kin, fellow scavengers and vermin. Fires flickered in the far dark, and the phantom of the crimson and bloody hunter passed her by, his empty monstrous smile a warped sliver of light in shadow.
+
+She could taste the blood on her tongue again. She could hear the screams again. She could see the fires raging again.
+
+And she steadied herself. She let the wind and the water qi flow, and she quietly neutralized the threat of the dark qi trickling into her meridians and collected them for her own cultivation. She had faced this nightmare and made her peace with it.
+
+“Though hunter and hunted died, fangs and blades buried in each other's throats, the hunt did not end. The Hunter had birthed the seeds that would become the Unity of Blades, the reinforcement of the oldest story of all.”
+
+“What story is that, Elder?” Ling Qi asked calmly. It took all of her effort to remain serene among the cries and the fires, the phantom shadows killing and dying in the lurid light all around her.
+
+“We are us, blades out forever against they who are not. This is the tale whispered by the Nameless at the birth of time, the first story, the first division. Feebleminded and without imagination the Xi were to simply repeat their elders' tale and call it their own, accomplishing no more than forging our chains ever heavier. But, clever junior, no more interruption.”
+
+“My apologies, Elder. I am greedy for your wisdom.”
+
+The flowers growing from his eye sockets rustled, and the thorny vines growing through his body twitched. For one terrible moment, Ling Qi thought one of his claws might reach for her.
+
+“Strife. There are no words for the brutality of a people turned against one another. No words for when fear and hate make neighbors watch one another for error and wrongdoing against what should be. There was no mercy for those who had burned the sacred groves, no mercy for those thought to sympathize. Only submission to the Correct Way could be allowed, lest war come again.
+
+Unsustainable.”
+
+The dance of frantic suspicion, broken trust, and massacre receded, leaving around them the humid darkness of the gaol. From the flames and blood stepped forth a man. He was not as the idealized image of the fable. Although his robes were still red, he himself had changed into a gaunt man, cheeks hollow, golden skin tight against his ribs, and feet bare and caked in the dust of the road. His staff was rough and twisted deadwood, jangling with rings of bone and stone.
+
+But there was a light in his eyes, a terrible and awesome light. It was not the crushing presence of Cai Shenhua. Instead, the horrifying thing about his eyes was the understanding in them. She felt as if she held no secrets, everything in her laid bare. It made her feel both small and hideous, like a rat in truth. Not because the man judged her, but because all of her rationalizations felt like less than dust before his understanding.
+
+“Thus came the foreigner, the man who had made himself an idea. The Pure One, walking from the West, He of the Eight Virtues, taught all, and he walked without care for kings or gods, making no effort to hide his goal. He sought the Horned Lord, and he was struck down for his blasphemy. Once, twice, a hundred times.
+
+But violence cannot kill ideas. They are born in men’s minds again and again, even if snuffed out entirely, so long as the conditions for their thinking remain.”
+
+There. That was the seed he had mentioned, the fragment of soul in the tale. Ling Qi was certain of it and was vindicated with the potency of qi she stole in that breath.
+
+“The Pure One loathed war, despised cruelty, disdained want. This cruel illusion we lived in was our test, and we, the people of the forest, failed it every day. Transcendence, unlike the crude hammer of ascension, was the path to a world united, a world in peace where no man needed to wield the divine fire, needed to become the Hunter, to find enlightenment and repair that which was broken.
+
+In the world that was, there was no king or spirit mighty enough to slay the man who was an idea. They had no weapon which could harm him, no shield which could protect them from his words. And so when he came at last to Xiangmen, none could stop his march to the Horned Lord’s grove.”
+
+Ling Qi saw this gaunt man with golden skin and a serene face. She saw him die a hundred, hundred times, each death more vicious and gruesome, more destructive and desperate and brutal than the last. She felt the echo of Law and Sovereignty etched in blade and wind and light tearing the world apart, burning forests, sweeping away hills like so much sand, but always, he continued walking. Barefoot. Dirty. Unbowed.
+
+“The man spoke, and to the woe of the priests, the Horned Lord listened. ”
+
+She saw the shadow of a titan, a mountain made flesh, a rack of antlers composed of countless points framed under the light of the moon, and a shaggy head that raisedif raised, might nibble upon Xiangmen’s leaves.
+
+“The god bowed before the beggar.
+
+The foreigner left to seek Snake and Ape. The Horned Lord spoke for the last time. Priests and kings died then, minds immune to the words of the foreigner breaking under the chastisement of their god, and so, the Dreaming Way was born, bloody and screaming as all things born are. Beautiful, as all things born are.”
+
+The words trailed off into a raspy, echoing chuckle that scraped at her ears, and Ling Qi found herself once again on the shore. The echo of his words did not need to be spoken. Even if things were born beautiful, they did not often remain so.
+
+Time moved forward, always forward, and never back. Things aged, they changed, they warped, they rotted. They Ended. New things wore their remains like macabre cloaks, and pretended at reversal.
+
+“Such a bleak junior.”
+
+“Is that the wrong lesson to take, Elder?” Ling Qi asked. The rasping qi receded, no longer plucking greedily at her identity.
+
+“Not at all.”
+
+“What did the Pure One say to the Horned lord?”
+
+“Clever junior, I am sure you will figure it out. Know only that neither Ape nor Snake had our lord’s humility.”
+
+Ling Qi felt a slight stirring of frustration but stifled it. “Thank you for the story, Elder. How might I improve my own storytelling ability?”
+
+“Add your own story. You clutch at the edges of mastery with the animation of tales in your mist. I will help you in this. When you feel ready to spin the Fable of the Forsaken, return to me.”
+
+Ling Qi swallowed and bowed to Huiseng. Taking her leave, she stepped through the gaol’s exit. She emerged gasping in the ruined temple, skin covered in goosebumps as she finally let go of her restraint and clapped a hand over her chest, trying to still the pounding of her heart.
+
+<Crazy girl, trying a new method like that on the spot.>
+
+“It worked though,” Ling Qi said. “If he noticed, I was still operating above whatever he expected of me. He would have called me out otherwise.”
+
+<And the distraction?> Sixiang drawled, clearly annoyed with her. <You think it’s a good idea to interrupt a guy like that?>
+
+“... I went with my gut?” Ling Qi tried.
+
+The air before her shimmered as Sixiang materialized their face, just to give her an unimpressed expression.
+
+Ling Qi coughed into her hand before glancing up at the sky. “Well, I should probably get moving, I already promised to meet Suyin today.”
+
+“Yeah, you do that,” Sixiang said dryly, the image of their face dissolving.
+
+***
+
+Suyin had really put her mark on the house she’d been given as part of her membership in the upper five hundred ranks of the Inner Sect. That was the benefit of having something that was wholly hers.
+
+The labyrinth of two-meter high white and black rose bushes was a bit extravagant though. Luckily, she was expected, so the bushes, which, on closer inspection, were keyed into the formations of the grounds, opened like a gate, crawling to the sides on wriggling roots. Beyond was a pathway of neatly fitted white bricks and a construct “servant” ready to lead her inside.
+
+Suyin’s craft had clearly improved. The servant was dressed in a pale pastel pink gown, heavy with lace at the hems, and wore a pretty white veil with white flowers woven into its shimmering black hair. It almost seemed like a person. If she didn’t pay too much mind to the mountain cat’s fanged skull hidden behind the veil and the fluttering fans in its hands. Both were bladed, naturally.
+
+Inside, the decor was much the same, monochrome with splashes of brighter color, and the darker colors shaded into deep relaxing blues here and there. She met Suyin in the girl’s sitting room. A bright lantern hanging from the ceiling cast long shadows from the elegant and richly upholstered furnishings.
+
+“It’s been too long, Li Suyin,” Ling Qi greeted with a smile.
+
+Suyin smiled back at her. She wore both the high collared gown Lin Hai had made for her and the mantle she had crafted as a domain weapon with that other crafter friend of hers. Her artificial eye shifted swiftly through a spectrum of colors, pupil shrinking and growing as her friend studied her.
+
+“Ling Qi, I’m so glad to see you again. With everything going on, I wasn’t certain you would have the time. Would you like some tea?”
+
+“Yes,” Ling Qi agreed politely, letting herself be led into the room to sit down and sink into the plush cushions of the navy blue couch set on one side of the tea table. “I wouldn’t forget about you, Li Suyin.”
+
+“Oh, I know you won’t, but we both have our jobs now,” Li Suyin said cheerfully as a construct descended from a panel in the ceiling. This construct was shaped like a spider, its shell colored black and white, but it had a waxy pale human face rather than an arachnid’s jaws. Using the little graspers on its frontmost limbs, it began arranging the tea. The construct did so a little clumsily, but that it could do such an advanced task at all without Li Suyin’s direct control was a sign of Suyin’s skill.
+
+“I see you’ve been hard at work here. I’m surprised you have so much time for your constructs given your other work,” Ling Qi said conversationally.
+
+“It doesn’t do to ignore one’s passions. But my meridian cleansing wands need more potent impurity cores, which I can’t yet gather myself without improving my cultivation. And the Purification Wheels… It’s just a matter of scale. The Sect would like me to focus on my cultivation instead.”
+
+Her friend’s base cultivation often lagged. Right now, her friend seemed to be at the appraisal stage of the third realm in both forms of cultivation. She knew Suyin’s impurity-based talismans were very valuable to the Sect. If her projects were stalled by her cultivation, Ling Qi was certain that the Sect was showering her with benefits to speed her along.
+
+Ling Qi took her saucer and cup from the table, flicking away a stray bit of webbing left by the spider construct. “Understandable. I admit, the capital was pretty overwhelming. It was hard to find a moment to cultivate.”
+
+“I’m sure you took at least a few minutes between every conversation to cycle your qi,” Li Suyin teased.
+
+Ling Qi pouted at her friend. “I am not that bad.”
+
+Suyin looked back at her patiently.
+
+Ling Qi huffed and took a sip of her tea. It was very bitter. Since when did she get teased by Suyin?
+
+“If I’m going to be attacked, then maybe I’ll hold onto my gift,” Ling Qi said petulantly.
+
+Li Suyin cocked her head to the side. “Oh, Ling Qi, you didn’t need to. I—”
+
+“I,” Ling Qi emphasized, looking her friend in the eye, “saw an interesting item and wanted to give my friend a present.”
+
+Her friend sighed, clearly giving up before asking, “So? What is it?”
+
+Ling Qi grinned triumphantly and announced, “A human-like construct built in the style of a puppet.”

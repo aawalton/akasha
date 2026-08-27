@@ -1,0 +1,155 @@
+---
+id: 26f334b9-dffb-5c60-9c10-5169db79f355
+page-type-slug: story-chapter-royal-road
+title: "Threads 308-Traditions 2"
+slug: 0348-threads-308-traditions-2
+partOf: forge-of-destiny
+position: 348
+ownLength: 2060
+unit: words
+publishedAt: 2023-05-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1221934/threads-308-traditions-2"
+royalRoadId: "1221934"
+---
+
+Ling Qi’s suggestion was a gamble, but a gamble she thought she knew the odds on. Better for the general to be a looming threat, but one step in the background, than a threat immediately on stage. And for the White Sky, it would hopefully be a step toward safer familiarity. Even if Imperial high realms were terribly mobile and active, they could still be approached and appeased through intermediaries.
+
+This hinged on the general not immediately shooting her down though.
+
+Also…
+
+She glanced at Xia Lin, apologizing with her eyes for throwing the girl under the proverbial wagon. Xia Lin looked back, not seeming particularly enthused, but she lowered her chin a little in understanding. Thank the moons. She understood.
+
+“It would be my honor to provide what small wisdom I have in ensuring that there are no misunderstandings,” Xia Lin said aloud.
+
+A finger tapped the hilt of a silvery sword, a distinct clink echoing like the report of a firework in the clearing. “I will observe at all times. Direct interaction may be handled through Xia Lin and my White Plumes.”
+
+“In that case,” Jin Tae said smoothly, “the ministry would like to assign a junior agent for the sake of observing technical matters.”
+
+“The fellow you have assigned to me and my crew will do, won’t he?”
+
+“Ah, Lady Wang, Agent Li is for your protection…”
+
+Wang Lian raised an eyebrow. “He knows his formation work.”
+
+Jin Tae, stymied, frowned. “... I will convey your thoughts to Senior Agent Cao.”
+
+“If I am to understand correctly, your companion will serve our role to your…” Emissary Dzintara glanced at the general. “General.”
+
+“That is my proposal.”
+
+Dzintara glanced at the Crow, who furrowed his brow.
+
+“I will fetch one of those who speaks to the Voice of Weeping Haven. They will observe for us as well,” the old man said.
+
+Ling Qi waited a beat for anyone else to raise an objection, and when none came, she breathed out. She felt a twinge of anxiety still. There was danger in this proposal. But spurring acclimation between the two sides would be vital for the endeavor going forward. And if this went… acceptably, it would be a good symbolic achievement to raise in her own favor.
+
+“Then I believe we may consider that motion passed,” Ling Qi said. “Are there any further objections?”
+
+Wang Lian shook her head, and the general just continued to stand there, a silent pillar of articulated metal. Across the table, Dzintara met her eyes. There was both consideration and calculation there, and the sparks of pride. Ling Qi wondered if that was why she was the one here. She wondered if this was a test to see what could be pushed and how they would be treated with an emissary who was more assertive at their helm.
+
+“The White Sky has nothing further to raise on this matter.”
+
+Ling Qi held her gaze respectfully. She then glanced to the side.
+
+“As no security formations will be placed upon the site, the ministry will not strenuously object, although Lady Ling should know that we do not believe this is the best course of action.” Jin Tae did not drop his smile, but she did recognize the warning. The Ministry of Integrity was a serious power. She could not ignore and upset them at will. She would need to pick and choose her battles with them in the coming days.
+
+And there would be battles.
+
+Ling Qi inclined her head to Jin Tae briefly in acknowledgment of the warning. “With the arrangements for the work crews made, we must turn to the soldiery. It is my hope that we are able to bring the same goodwill and coordination to this subject as well.”
+
+“I will share our route and schedule.” The harsh metallic buzz of Xia Ren’s voice reverberated across the table. “You, our guests, may observe these and match your own to it.”
+
+Xia Lin gave her an encouraging look. That was… downright accommodating, Ling Qi had to admit, even with the implication of the imperials’ primacy.
+
+“We hope that by allowing our soldiers to patrol together, they may learn one another's appearances and movements well,” Ling Qi said. “The better we recognize each other, the less chance there is for false strife.”
+
+“I agree with that. However, I object to the routes which continue to come so close to our stronghold. Your men are unnecessary there,” Dzintara said.
+
+Ling Qi pulled in a breath. “Unfortunately, I must disagree.”
+
+She could not be too soft and accommodating. If her own side saw her as weak and overly generous, it would undermine her own position.
+
+“I hope that it may one day be different, but we are still new neighbors. It is sensible for everyone to keep a close eye. I will ask that you be satisfied with joint patrols in the area. And this is not without accommodation. Your men may join the patrols which cross over the embassy and observatory as well.”
+
+She spoke firmly, and to her relief, the General did not feel the need to add anything.
+
+Dzintara said grudgingly, “This is… fair.”
+
+“It is quite generous,” Jin Tae lightly contradicted. “How do you intend these joint patrols to be commanded, Lady Ling?”
+
+“Equal officers,” Ling Qi replied. “That is, each patrol shall have a leader of equivalent rank from each party, commanding their own contingent, as was done in days when the Imperial Peace of past dynasties was shaken.”
+
+Best not to imply anything about the current dynasty, even if her study to find any precedent for this solution implied that leftover strife from the second extended well into the early establishment of the current third.
+
+“Now that is an old tradition,” Jin Tae noted.
+
+“It was set aside, unneeded for a time, not invalidated by any change,” Ling Qi argued. “There is nothing wrong with picking up a stored tool when the proper season comes around again.” She very carefully did not glance at the general. She felt a small snarl of irritation for Jin Tae.
+
+“We would need to speak of our ranks and what is equivalent. But I approve of the basic idea if I am understanding it correctly,” Dzintara said, slow and slightly reluctant. “We would arrange shared rally points then for the beginning and ending of patrol?”
+
+The general tapped a finger on the hilt of her sword again. “Necessary, to avoid inefficiency.”
+
+“I am rather more interested in the distribution of duty reports and the processing of any offenses,” Jin Tae raised. “You brushed over how you intend to handle that.”
+
+“Each group may simply report to their own superiors. If a problem cannot be resolved at that level, it can be referred to the baroness and Lady Cai,” the general said flatly.
+
+Wang Lian spoke up for the first time in the military discussion. “I could see value in there being a mediator on call.”
+
+“Who would that even be, aside from the Baroness?” Jin Tae asked. “Madam, I doubt you would accept anyone else on our side of the table.”
+
+Left unsaid was that they obviously wouldn’t accept a mediator from the White Sky.
+
+Dzintara looked between them all. “You are correct. I would say that if the superiors cannot agree on the fault in a matter, the only one who could resolve this would be your emissary.”
+
+The problem was that Ling Qi wasn’t certain she would be able to be on call. She simply had so much to do. But, well, she had already volunteered Xia Lin to be the “voice” for the general, so Xia Lin was no longer available. Perhaps she could convince them that Gan Guangli would be acceptable? The sun priest had seemed to like him, and “mediator” was a role that the White Sky seemed like it would accept a man in.
+
+No, she thought, proposing that option on the fly would be too much. However, convincing the White Sky to also accept her fellow retainer in some roles would probably be needed in the future.
+
+“Or we will leave military matters in military hands,” the General said. “The matter might rise to the young miss. If it does, she will resolve it with the tools available.”
+
+“If I might suggest,” Dzintara said, carefully eyeing the general, “perhaps the officers in charge and any potential offenders might face each other and air their grievances somewhere public so that all may know that voices are being heard. If your emissary or her lord would preside…”
+
+Jin Tae interrupted. “That seems like a way to embarrass everyone involved. Hurt pride hardly resolves conflict.”
+
+Wang Lian seemed mildly interested. The general didn’t dignify the suggestion with a response. Ling Qi glanced at Xia Lin, who eyed her aunt with concern.
+
+“I think it would be best if we keep disputes private,” Ling Qi said after some deliberation. “I do not know your people’s ways, Emissary, but it is considered rude to air one's grievances in public among us. If the command chains cannot agree on a course between themselves, I would ask that the involved officers come to Lady Cai and myself, at which point we will assist in bringing about an equitable agreement.”
+
+She chose her words very carefully, balancing the implication that she and her liege and by extension, the imperial party, had primacy with the implication that they were only there to mediate. It was a fine line to walk. She had already pushed both the general and the ministry as much as she cared to today with the shared meeting place proposal.
+
+“It is considered untrustworthy to hide the resolution of a dispute from the public eye,” Dzintara said carefully.
+
+“Do you mean to say that all negotiations, no matter the parties involved, are taken into the public?” Ling Qi asked, not quite disbelieving, but a little disingenuous.
+
+Dzintara held her gaze for a long moment and then glanced at the crow. “It is not a universal rule. And these arrangements are… tense, already.”
+
+“Indeed. I see little advantage to turning legal or military matters into a public circus,” Jin Tae said. “I find the implications for your legal systems curious.”
+
+Ling Qi didn’t quite give him a glare, but she certainly looked his way. “If all goes well, then a more complex arrangement can be agreed upon. While this temporary arrangement is in place, I feel simple is best.”
+
+“I am satisfied enough. The ultimate decision falls into proper hands,” the general said. Her metallic voice held no inflection, no indication that she was pleased or upset or anything else. Ling Qi would take it.
+
+“I ask that you work with us on this, Emissary Dzintara, that our efforts can remain in harmony.” Though she didn’t know how much it would translate, Ling Qi tilted her head as one would toward a respected peer.
+
+A spark jumped from one of the iron rings piercing Dzintara’s ear to the next. “The White Sky will not persist in pushing this matter. For the duration of the summit, this will do.”
+
+“Good. We can all be reasonable about this,” Wang Lian said placidly, folding her hands into her sleeves.
+
+“Yes,” Ling Qi said. “Does anyone have any further concerns?”
+
+As it turned out, they did. But it was small things, fiddling with the details, such as the locations of rally points, and tangents into formation engineering that she had to find a polite way of reeling back in. Though the talks lasted another two hours, she allowed herself some measure of comfort that the most troublesome points had been resolved, and that she would not see their efforts stall out at the first hurdle.
+
+Finally, discussions came to an end, and all of them who had sat down in the first place stood at the same time.
+
+“Thank you, everyone, for attending this first meeting. We have accomplished much here, and I look forward to accomplishing still more in the future,” Ling Qi said diplomatically.
+
+“This was productive,” Dzintara agreed. “Let future meetings also be so.”
+
+Wang Lian grunted. “I look forward to getting to work.”
+
+The two Xias were both silent, and Jin Tae merely smiled.
+
+“Then let us part for now. I am sure everyone’s schedules are busy.”
+
+And with that, the meeting ended.

@@ -1,0 +1,125 @@
+---
+id: 3db83b1b-f8f8-5368-9b7b-3de67e445253
+page-type-slug: story-chapter-royal-road
+title: "Threads 490-Senior Brother 1"
+slug: 0536-threads-490-senior-brother-1
+partOf: forge-of-destiny
+position: 536
+ownLength: 2391
+unit: words
+publishedAt: 2026-01-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2915678/threads-490-senior-brother-1"
+royalRoadId: "2915678"
+---
+
+Ling Qi did not think she had eaten such a meal since she had been a mortal while encountering the sect's warehouses for the first time. Back then, that first week, she had almost gnawed an entire chicken down to the bone.
+
+"I'm surprised you didn't get yourself sick."
+
+She'd always had a hardy stomach. She had to when most of the time she was pulling food out of the trash.
+
+Today, though, she had learned an important fact. It wasn't really possible for a cultivator to feel full if they didn't want to, or at least, not without consuming very qi-rich food. A cultivator could just speed up their digestive cycles, burn off the impurity, and keep going. She had been careful not to get too gluttonous, but well… The Cai clan's chefs were truly amazing.
+
+By this point, people had begun to leave their seats. New dishes were still being brought out, but the main entrees of the meal had been completed.
+
+Deciding how to approach the patriarch, Jia Hong, was difficult. Even if she wanted to present herself boldly, when dealing with a person of such rank, there was a limit to her ability to force the meeting. Chafing as it was, she still had to wait for him to provide her an opportunity to do so in order to avoid showing unacceptable rudeness.
+
+Ling Qi spoke with people, ministry members mostly, and a few court clan planners eager to discuss what the heiress' goals were for the near future with her Xiangmen properties. Ling Qi knew Renxiang had little idea at the moment, and the approaching offensive gave her room to say so without it being looked on poorly.
+
+Soon, she did find her moment. Patriarch Jia waved off some of his younger relations and positioned himself in such a way as to invite speakers, out on the floor, away from his retinue, and posture welcoming. While the ones approaching him were still of high status, like the Viscount Bian, the Vice Minister of Commerce, all the same, the invitation was there.
+
+Approaching him would be bold, but not shatter propriety. She supposed she should be thankful he was playing along to let her set herself up.
+
+Ling Qi took the opportunity after the head of a court clan stepped away, bowing deeply to the patriarch, who waved him off with a friendly gesture. The patriarch raised his wine cup to his lips to drink as he turned away to see her approach.
+
+"My, I do find myself popular today, don't I?" Jia Hong asked cheerfully, stroking the tip of his beard. "Baroness Ling, was it? I have heard quite a bit of you, since the youngsters awoke me from my nap."
+
+She placed her hands together in front of her and bowed deeply. "I'm very flattered to even be known by a figure such as yourself for my small deeds."
+
+"Small deeds…" he mused. "I don't know that one with your inclination and ability to squeeze even a single word of praise from my most curmudgeonly friend can be accused of small deeds. At least not ones which will stay small."
+
+"You are kind to say so. At the very least, I have no intention of allowing them to stay small," Ling Qi allowed, straightening up.
+
+"Of that, I've no doubt. You certainly wouldn't hold your space at the heiress' side if you did." Jia Hong gestured for her to follow him, and then flicked his fingers out dismissively.
+
+She was able to perceive the attention of several others turning away, as well as the faint ripple of well-hidden discontent. It seemed like he expected this conversation to go on for some time. She followed after him, the heels of her boots clicking across the marble in his wake.
+
+Standing near him now, Jia Hong was not a small man. He stood at the same height as her, or perhaps a bit taller; it was hard to tell with the wrapping on his head. He had broad shoulders, despite his thin build. His robe trailed behind him, brushing the ground rather than floating the way many cultivators’—even her own—clothing did.
+
+"There are many with eyes on my place," Ling Qi agreed. "I wonder, Sir Jia, do the movers of the court really not understand why Cai Renxiang's inner circle is not filled with high clan scions?"
+
+Jia Hong chuckled, low and rich, his eyebrows rising. "Oho? Bold. I expect many know why, but men and women alike often have trouble understanding circumstances which go against their desires. Taking in the young Sir Meng has filled them with vigor and ambition, that even if the heiress must have her playmates, she is now open to proper advice and influence. But I am curious, in your own words, what is the real purpose of Her Grace's plans, young miss?"
+
+Ling Qi didn't allow herself to hesitate. "To let her daughter cultivate those of a personal loyalty higher than that to their clan in a mirror to her own companions."
+
+"A fine statement to make to the patriarch of the Jia! Many would say that a patriarch's will is his clan's will, so perhaps you have transcended that distinction." The corner of Jia Hong's lips quirked, and he stroked his beard with the air of an amused grandfather. "One might say that, indeed. Then again, my Jia clan is regarded as strange for its zeal toward our overlord. What excitable children I have raised."
+
+"I admit, I do have trouble with the idea of putting other loyalties above family."
+
+"Do you? Or are you simply still tripped up by petty definitions? Your clan has picked up its first adoption, hasn't it? Half of it is made of spirits, who are even further from you than that. My Jia clan… There is a reason we are accused of blurring lines with the Rushing Cloud Sect. Blood is just one of the many things which can bind."
+
+Ling Qi considered his argument. Was he implying that she saw Renxiang as a kind of family, or at least a connection of similar closeness? She loved her friend a great deal, but was that really the same?
+
+"That’s getting murky, but I expect he meant to plant a thought that's not gonna sprout till later," Sixiang commented. "Hi, Mister Patriarch! Not trying to hide!"
+
+"Naturally, you're not so foolish as that," Jia Hong chuckled.
+
+"I have difficulties, whether it is over definitions or something deeper," Ling Qi said. "I see that that old hermit at the sect wasn't misleading me, though. You are a student of his."
+
+She felt the small change in the air before she had even finished airing the last sentence. Her own screening, the ability to to only communicate with those of her choice, was the child's version of this technique.
+
+"Oh? I have not had a thought to spare for that jolly fellow in decades. He's still active despite his age, eh?" Jia Hong asked pleasantly. "Always a nosy sort, that one."
+
+"Indeed, he wished me to send you his greeting, Senior Brother."
+
+There was no change in the air, no sounds, no pressure. All the same, she knew that the only people who might comprehend their words now were the Duchess, Diao Linqin, or the Empress, if she were so inclined.
+
+"I see these old eyes weren't simply hallucinating then," Jia Hong said as they stopped near one of the great columns. The towering edifice of carved bone thrumming with the power of the defenses in a throne room, a low buzz that Ling Qi felt down in the marrow of her bones.
+
+Or maybe, that was because of Jia Hong's focused attention.
+
+"Honestly, perhaps it was only a matter of time. That old relic is not made to be silent. He is a teacher through and through. Tell me, what have you been learning from the Thief of Hearts?"
+
+"Only a few lessons yet. I was wary to hear his words for a long time before certain events forced my hand," Ling Qi admitted. "I'm sure you can tell I have since invited his attention."
+
+Jia Hong nodded and looked her up and down. "Your domain weapon. Potent reagents form in the flowing blood of the physical shell, but that is not enough to access the true echoing prison, the heresy buried in twisted time."
+
+"It is not. I thought little of this peculiarity for a long time after."
+
+"Even doing as you did, no others had heard that old fellow's words. One would need a certain knack for going where they are not welcome, and skulking through the passages of thought."
+
+"Guilty," Ling Qi confessed. She decided she would dispense with dancing around his question. "He has taught me of multitudes and spoken of the Pure One and his coming, and we have discussed the nature of truth and some finer points of crafting stories."
+
+"As I would expect. However, there is more of him than that on you. Somewhere, somewhen, you drew more deeply on those motes of power sitting like river pebbles in your channels," Jia Hong analyzed. "Reckless of you."
+
+Ling Qi tilted her head, observing him curiously. "You don't say that with disapproval."
+
+"I am not willing to engage in hypocrisy over such a small issue." Jia Hong shrugged. He rested his hand on the pillar of bone beside them, looking up toward the ceiling. "Speak the message then, Junior Sister. Out of respect, I will hear the request of the Prison of Echoes."
+
+In truth, Ling Qi had been concerned about this conversation ever since Huisheng had set her the task. She didn’t know what Jia Hong, patriarch of the Jia clan and one of the Duchess' inner circle of companions, alongside those such as Diao Linqin and the Heron General Xia Ren herself, would be like. She had worried that he could have harmed her reputation if he had chosen to reject her claim of connection.
+
+"I was told to ask you of the nightmares which nearly drowned the Truth, the final gambit of the Supreme Master of Lies," Ling Qi spoke carefully, doing her best to speak in the exact cadence and implication of tone that Huisheng had. That title at the end tasted of oil and blood, and worse still, the fragrant ambrosia of bliss-bringing lotus petals, a consuming nirvana of absolute delusion.
+
+A shadow crossed Jia Hong's face, a flash of overwhelming zeal, long-banked rage, cold sorrow, and crushing grief. For just a moment, she smelled burning ashes and blood and the tears of countless mourners.
+
+"Ha! He's never one to ask small questions of his students. I'm sure you've seen the plays. The nightmares of fear and paranoia and mindless rage, the raw emotions of a man lashing out like a beast without thought, these things do not answer to Truth and never have."
+
+“When he first spoke to me of the Pure One, he began to spin a tale of a wicked king who would not accept reason and a monk who laid down his life to convince the other. I told him then as well that I am not so young that I need to hear the small lies told for the sake of children," Ling Qi said. "A play for the public can't be a lie, not while bearing Her Grace's visage."
+
+"It cannot," Jia Hong agreed. "Such a falsehood existing under her light would be an offense as sure as disputing a White Serpent's right to rule over their lower branches. There is no lie. You know some of the spirits which lurk in the deep liminal."
+
+"The Forever King,” Ling Qi answered. “It was his realm bubbling to the surface behind the battles in the Wall, which I passed on my journey south to understand."
+
+"All is as it has ever been, and as it ever shall be. All change and all roads circle back to their beginnings. That is the Nightmare of Stasis and Thrones," Jia Hong said. "Oh, yes, but do you truly understand what creatures such as they are?"
+
+"A great spirit, I suppose, but proscribed in worship."
+
+"No. The primal nightmares are less and more than that. Some relate to the ascended, their purviews interlocking. Unity of Blades, for example, is built upon the Foundation of the Other, the nightmare of strangers and traitors and the unfitting. However, even the Unity of Blades was once a man, as the Bountiful Earth was once a man. The primal nightmares were never such. No one set out to cultivate them.”
+
+Jia Hong spoke thoughtfully. His voice was easy, rhythmic, and near magnetic. It was difficult even to contemplate distraction, to hear anything but what he was saying.
+
+"Every Way, even those devoted to deceit, is a form of truth. It is your truth, but a truth all the same. Even if it is only a truth in your own heart just yet. Thus, it can be challenged. It has limits, context, and definition. A great spirit, in theory, could be extinguished. Its worshippers can be destroyed, its faith crushed, and its Way refuted, erased by successive contrary ascensions.
+
+“In contrast, primal nightmares are the expressions of the basest instincts of mortals in this tainted cradle. They simmer beneath reason and consciousness. They cannot be ended and cannot be killed, so long as minds exist to birth them anew. They are painfully simple and painfully incoherent, and thus, not a danger, save to liminal travelers who do not know where they should not set foot. When brought to bear though, their power was terrible and corrosive. The patriarch of the Hui was their master.
+
+“In truth, had our great lady not risen when she did, I think the old monster might have achieved the eighth realm himself within a few more decades. And then, well… I suppose I would have instead been witness to the terrible sword of Inexorable Justice and all the might of the empire coming down upon him, rather than the light of Her Grace. The justice of emperors cares not for the nightmares of men, nor the protestations of their inferiors, when roused to sufficient fury, no more than those nightmares care for truth. In my opinion, it would have been a much worse outcome."

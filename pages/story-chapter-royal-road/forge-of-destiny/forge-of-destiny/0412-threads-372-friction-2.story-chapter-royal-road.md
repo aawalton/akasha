@@ -1,0 +1,115 @@
+---
+id: 3e431584-0d25-57cc-bcfc-326d5307b34a
+page-type-slug: story-chapter-royal-road
+title: "Threads 372-Friction 2"
+slug: 0412-threads-372-friction-2
+partOf: forge-of-destiny
+position: 412
+ownLength: 1711
+unit: words
+publishedAt: 2024-03-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1572968/threads-372-friction-2"
+royalRoadId: "1572968"
+---
+
+Cao Chun's expression scrunched up in utter disbelief, as did the faces of many of the other imperials. Wang Lian looked intrigued. Luo Jie and Meng Deming both looked mildly horrified and disbelieving.
+
+"Tribal barbarians do not ascend."
+
+"Ridiculous…"
+
+"Nonsense!"
+
+"They do, fools," Meng Deming said. "If you kept your histories half as well as you should have, you would know that. It has happened, rarely, and not at all since the days of the empire's strife, but it is not warriors who ascend. The closest was the beast Ogodei."
+
+"There was one,” Ilsur rebutted. “Your Horned Lord would remember."
+
+Meng Deming scoffed. "Perhaps he would."
+
+"Our people have invested in this project for the last hundred years, and we have yearned for it longer. It will be a shard of the sun raised back into the sky, a wonder to exceed any other in recent history. Its existence is not negotiable," Jaromila said. "As a sovereign, it, too, will be constrained by this treaty."
+
+"You speak very rudely when we have not even spoken on the matter. You cannot simply dictate—" one of the courtiers on their side began.
+
+"On this matter, the White Sky will. We have made great allowances, and we have accepted much of your requirements. However, we are not people to be bullied either. Our pride exists, and here, I stake it. The White Sky will not accept any interference in this matter."
+
+"Hmph, look at you all. Have we not always said the problem with the cloud men is that there is nowhere to trace agreements to? No place they must keep? These foreigners have gotten them to solve that problem themselves!" Wang Lian exclaimed. There was a glint of interest in her eyes.
+
+"You are far too flippant, and your conflict obvious, scion of the Builder," Luo Jie said gravely.
+
+"I am confident in our Emerald Seas and our lady duchess," Wang Lian retorted.
+
+"I, too, believe this to be a fortuitous development," Ling Qi interjected. "After all, a city can hardly raid. By definition, it will be full of people, people who could not withstand the speed of a high realm’s full acceleration. If it were ever to be used offensively, would Her Grace not respond immediately?"
+
+"Indeed. I do not believe my mother would be troubled by this," Cai Renxiang said calmly. She tilted her head up toward the general. "Does this truly change anything?"
+
+"There is no fortress which Her Grace cannot breach,” Xia Ren declared. “Requiring her to do so would be unfortunate, but there is little in these mountains to be harmed by it."
+
+"Yes," Ling Qi agreed, lowering her head. "Worthies of the empire, we have a great deal of land to police and settle and enough foes to consider. Let us not bicker over distant hypotheticals. There is no need to deploy armies nor sovereigns in the depths of the Wall."
+
+"The White Sky acknowledges the state of war that exists in the eastern lands, and we are open to temporary wartime measures in that region," Jaromila soothed. "At a baseline, we must agree that potentially threatening movements toward each other should not be taken up at a whim, no?"
+
+"Cultivators of the sixth realm and above are best deployed sparingly," Wang Lian said. "In a war, it is one matter, but to respond to raids? You will destroy more than the raiders did."
+
+"Let us agree in principle that cultivators of such strength should remain in our own borders, save for the case of countering the appearance of a peer among the enemy," Cai Renxiang proposed. "Deployments over the company level beyond our agreed borders must be cleared with embassy staff or a representative of my Cai family, who will make explanations as needed."
+
+"Agreeable," Xia Ren said grudgingly before continuing, "if terms agree that this will be revisited as settlement of the mountains increases.”
+
+It was a close decision. From the general, she felt the heat of great fires and the clash of steel against nightmares. It was Wang Lian who had saved them from her ire here, Ling Qi thought.
+
+"This one agrees with the general. At this moment when trust is small still, it is best not to allow the overeager latitude on either side," Luo Jie said, cutting off the remaining grumbles from their side. "The exceptional circumstances in the east remains to be negotiated, after."
+
+"Oh, yes." Rostam smiled brightly as he thumped a fist on the table. "Do not think the badlands are unconcerned about the east either! We have our own eyes there and reason to prepare defenses."
+
+Some of the tension left the room.
+
+“It is so," Ling Qi agreed. “Before we get to that matter, however, I believe we should settle on an agreement for the security of the western road and the more permanent arrangements for the embassy itself."
+
+"For our portion of the road, I would suggest the formation of a martial order which can be dedicated to that task over all others," Gan Guangli proposed, stepping forward himself. "This would free the sect's, the White Plumes’, and the comital forces to focus on their own spheres and leave the matter of the distant roads in good hands. I believe this would keep response times quick."
+
+"I know several worthies who might be interested in such an endeavor," Luo Jie said, and if Ling Qi didn't know better, she might not have noticed the scripted nature of his statement. "The Rushing Cloud Sect and our allies, the Jia clan, have many warriors that have been freed up by the good order and taming of their lands."
+
+"We would, of course, patrol our sections," Dzintara said. "There are orders among Freyja's faithful who can walk the long roads."
+
+One of the old and withered men leaned forward on his stick. "And those juniors among the crowfathers which ensure that settlements receive the words of their neighbors can do so as well. Of course, this is the simple portion, with our peoples both responsible for our own security. The difficulty lies in the embassy and the portion of the road which passes through unclaimed land."
+
+"On the matter of the embassy itself, I believe the current arrangement has been born out. We have been staffed and secured by our ducal forces, supplemented by the Argent Peak Sect and the Wang clan, in tandem with the troops of our White Sky guests," Ling Qi said. "Have there been any major issues with the shared patrols and security schedule here?"
+
+There was some murmuring and back and forth, courtiers and officers discussing. Ling Qi kept a careful eye on the general. She was so, so glad that there not any actionable problems which could be brought up.
+
+The woman met her eye. "Security has been satisfactory. However, if their weeping sentinel is to remain, we will place a matching cultivator on a permanent basis."
+
+The ancient tree crone on the White Sky's side creaked, bending further forward. "Let roots be laid. Twinned and opposed."
+
+"Acceptable," Cai Renxiang said.
+
+"Agreed," said Jaromila.
+
+"This just leaves the matter of the road," Rostam said cheerily. She did see the nervous flicker in his spirit as the two high realms in the room resumed their staredown. "Patrols and fortifications obviously, but…"
+
+Ling Qi met Cai Renxiang's eyes. They had gotten lucky with Jaromila's revelation softening the impact. The original plan was to simply accept that the unclaimed stretch of road would be sparsely patrolled and fortified for now, but with the agreeable air that had settled in, Ling Qi considered whether they should push for more.
+
+After a moment, she thought this was not the time to press on. They had succeeded wildly here. Best to retain the goodwill for the penultimate week of negotiation. The unclaimed stretch of road was itself far from an immediate concern and would not be heavily used for some time even after it was built.
+
+In addition, there was potential for conflict there, too. Cultural conflict. The White Sky's troops were all women, and imperial troops were majority male. Putting them in the same place was probably asking for indiscretions and the problems that came with that.
+
+"I propose that we place alternating road forts along the length, spaced out but capable of calling for aid from their neighbors. Such forts should have construction allowing each other's patrols to base and recover," Ling Qi said when a moment to speak came.
+
+"I agree," Xia Lin spoke up. "It would be best to avoid entanglements and confusion around command. Let us allow guest right to inform our action so far from any high authority."
+
+"That does leave the matter of the embassy," Cao Chun observed. "I assume the White Sky will maintain an overall commander of forces, as we will."
+
+"I believe the young lady is correct," Jaromila said. "It may be somewhat inefficient, but in emergency situations, command should remain internal."
+
+"Mixed patrol units require adjudication," Xia Ren objected.
+
+"Could that be left to the two force commanders to discuss and decide?" Ling Qi asked cautiously. "Overmanaging may reduce effectiveness."
+
+Xia Ren was silent for a long beat, but eventually, she nodded. "Acceptable."
+
+"I support devolving some authority to local command. Another option would be some degree of subordination of military command to the panel of magistrates administering the site as well," Dzintara said.
+
+Ling Qi took a step back as courtiers and representatives began to speak up. Getting the group to this point of the discussion, where her liege’s talents could be put to best use, had been her task. Renxiang began to speak as well. They discussed technical details, arguing the exact minutiae of authority and jurisdiction, the exact dimensions of the embassy space.
+
+She shared a look with Gan Guangli and returned his nod. This was going remarkably well. More than simple agreement, Ling Qi thought she was truly beginning to see the various parties’ investment here. People were honestly thinking of what this was all going to look like. They were seeking advantage for themselves, of course, but that meant they saw this project as something which could grant them advantage.
+
+This impossible task, they were doing this. They were really doing this.

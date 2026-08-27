@@ -1,0 +1,147 @@
+---
+id: d382ad2a-5c70-554a-afcd-a75cb0c90ce3
+page-type-slug: story-chapter-royal-road
+title: "Threads 339 Multitude"
+slug: 0379-threads-339-multitude
+partOf: forge-of-destiny
+position: 379
+ownLength: 1844
+unit: words
+publishedAt: 2023-10-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1369163/threads-339-multitude"
+royalRoadId: "1369163"
+---
+
+To use the same framework by which she examined the previous Beast Gods, then the Vermin God was power which arose from emptiness of the self. It was the power represented by consumption without thought, building nothing, only taking. It was the same sort of power Su Ling’s mother had and Bleak Sky’s Yearning had, a bottomless hunger that could know no satisfaction.
+
+Of course, Ling Qi thought, continuing to observe the rodents in their burrows under her feet, there was another element to that. She had heard what other nobles said about common people and heard the whispers of what they thought of her. It was not so different. If the Eagle God was a critique of overweening pride, it was still a comment made from a place of strength. The Vermin God, on the other hand, was ironically a character clearly created by one looking down.
+
+“And a million, million bodies boiled out, hungry without end, a lake of gnashing teeth and hideous hunger so easily guided by one cruel mind. But their unity was a lie. Such base beasts could not comprehend the ugliness of their own existence and could not help but bite and claw their neighbor as fervently as their foe. A hundred million minds made the mighty Vermin God, and every single one dreamed itself the one and only mind of the swarm.”
+
+Yet there was something to be found in it. There was a truth there, Ling Qi thought.And she, of all people, could not deny that the Vermin Gods’ hunger both existed and tempted.
+
+It was all too easy to stand among many and still be alone. She did not think that the Western Territories suffered this. The easy bonds Ji Rong had formed put the lie to that. Or rather, perhaps one could say, it took place on a higher stage where the whole of the Empire was the God, and each province its own rat.
+
+That was much more difficult to refute. She was not even sure she could, save to say that such a state was not the natural resting point.
+
+“And brave Tsu, mighty Tsu ,bade his warriors to battle with their brothers in their hearts, shoulder to shoulder and back to back,and withstand what came. No man could bear the weight alone, not even him. And yet, Great Tsu rode out before his men, atop his brothers’ back, and declared.
+
+“‘O God of Vermin, O God of Hunger, look upon the meal before you! I am power, but power shared, given unto the earth and the waters and the sky. Xiangmen’s blessing flows in my veins. Come then, ye mighty, and devour mine flesh if you can.’
+
+“And though the vicious one, the Vermin God, feared a trap, he could not deny the truth of these words. The power of Tsu was one easily taken, easily devoured and digested. And Mighty Tsu was devoured, flesh and blood and bone and all. A rat would feast upon blood and spirit, swelled and bloated with stolen power, and would be torn apart by its fellows in turn. None could stand another above them, a neighbor less hungry than they.
+
+“And the blood and power spilled into the dirt, more lost than gained.
+
+“And when the Vermin God had devoured so much that it had been left with only two squirming gorged rats struggling for the final scraps, only then did the warriors of Tsu come and strike them down with sword and spear.
+
+“And they wept for Great Tsu, only to be amazed as he rose again from the earth, wan but unbowed…”
+
+Ling Qi smoothed her gown and sat down upon the grass. That was at the crux of it. Tsu united the tribes, the peoples of the Emerald Seas, with words. He was tricky. He was rarely the one to lay an opponent low, rather, he inspired others or brought defeat upon foes through their own foibles. However, Tsu the Diviner was not a pacifist. He did not admonish against violence. As was made clear in the next section, in the death of the Bear God, he did not shy from personal violence.
+
+Violence, Ling Qi thought, was intrinsic to power. That part of the Nightmare King’s words were not wrong. All battles could not be avoided.
+
+She considered again the scurrying rats under the earth. They were peaceful too, nuzzling and crawling around their kin in the warren. It was not nonviolence which raised men above beasts, nor violence which degraded men, because neither men nor beasts were unique in violence or peace. Rather, the wisdom of Tsu, as expressed by the lessons in the art, was to be deft in its wielding. A sword was a tool made for the slaying of men. A spear was made for slaying beasts. The staff was a support and a tool first, and a weapon last.
+
+“Of course I’d find you cultivating.”
+
+Startled, Ling Qi was on her feet in an instant. She did not stand up; she was merely on her feet between eye blinks, eyes open, senses extended.
+
+Only to find herself face-to-face with Sixiang, floating before her upside down. The muse had donned a colorful pink and purple garment, too open across the chest to be a gown, too loose and layered and lacey to be a man’s robe. The muse’s hair hung down in a long tail from their head, shimmering rainbow color shot through with twinkling strands of black and white.
+
+Ling Qi sighed, crossing her arms. “Of course you’d startle me,” she retorted. “Was it fun?”
+
+“A little, yeah.” Sixiang dissolved into smoky mist, reforming atop a fallen log, arms wrapped around their knees. “Ah, moons, deep thoughts. Maybe I should have waited a little.”
+
+“I don’t think so.” Here, away from anyone, Ling Qi ignored pretense herself and simply materialized on the log beside Sixiang, leaving a fading ghost of possibility where she had stood before. “I think I need to find a moment for a demonstration to complete the technique. It won’t be useful to call upon it without a foe.”
+
+“Ah, that kind of thing, huh? Fraid I can’t help. I’m delicate, you know. I’d pop like a soap bubble at the first bite.”
+
+“Can you still read what I’m thinking so easily?”
+
+“I can’t look, no.”
+
+Ling Qi nodded and fell into silence. So did Sixiang. The air was awkward.
+
+“Did you have fun, making trouble at the sect?” Ling Qi asked.
+
+“Honestly, it was really tough. I actually kinda care what people think now, if only because if they get too mad, it’ll blow back on you. Well, I might have tricked a few bozos into humiliating themselves. Promise I didn’t get caught though!”
+
+“Then for deniability, I won’t ask for details. But…”
+
+“I hung out with that Suyin girl a bit. Or rather, her spider buddy let me crash in her web,” Sixiang said, not looking at her yet. “That was one of the ones I was actually introduced to. Spooky girl says hi.”
+
+The question she’d been about to ask died on her lips.
+
+“You know the cute little thing has a bunch of babies scurrying around already. None of ‘em are smart or awake, but dang, do the buggy types live fast. Zhenli’s such an earnest little thing. If she had less legs, I’d wonder if they really were sisters.”
+
+Earnest was definitely an accurate description of Li Suyin. Sometimes even too much so.
+
+“That does sound like her. Did you get wrangled into any projects?”
+
+“Oh, I got to puppet some of her bone dolls. Helped her figure out some flaws in the animating formations by telling her where moving it felt hinky.”
+
+“Oh, no, please tell me you won’t be using her aesthetic from now on.”
+
+“Nah, I don’t steal styles.”
+
+“You take inspirations.”
+
+“That’s my girl! You think I could pull off black and purple?”
+
+“You can change yourself until you do,” Ling Qi said dryly.
+
+Sixiang chuckled, resting their chin on their hands. “Would you like it?”
+
+“I think we’d look better if we contrasted.”
+
+“Fair,” Sixiang said, falling silent after.
+
+Ling Qi closed her eyes, listening to the sounds of the forest. “I’ve missed you. I’m glad you spent some time with Suyin though.”
+
+“Yeah, that was fun. Not gonna lie, I kinda hated this separation. It felt like just stretching out the goodbye.”
+
+Ling Qi let Sixiang work through their thoughts.
+
+“But I think it was good, walking around, poking holes in people’s privacy screens, riding jockey on some crazy transforming bone dolls, talking to spooky girl about spirits and dreams while she figures out how to corrupt and melt ‘em with impurity toxins…”
+
+What in the world was Suyin developing?
+
+“... Yeah. I like her. Spending time with her is fun, even if you’re my favorite,” Sixiang said.
+
+Ling Qi lowered her head. She was happy to hear that. A little part of her wanted to cling and dig into what Sixiang had been doing and tell them to stay close. That they had been apart long enough.
+
+“I see. I’m relieved to have you back. I’ve gotten so used to having your help, everything feels twice as hard without it.”
+
+“Hah, I can’t make fun of that Li Suyin too much. Turns out I’m a hard worker too.”
+
+Ling Qi startled a little as Sixiang laid a hand on her knee. She didn’t pull away though.
+
+“What’s the plan?” Sixiang asked.
+
+“Will you stay here at the summit with me? I won’t ask you to get back in my head,, but just having you to talk too again…”
+
+Sixiang chuckled. “That so? Need me to do the voices again?”
+
+“By the spirits, yes. Reading official correspondence without you makes me want to cry.”
+
+“Well, how can I say no then?” Sixiang laughed. “Oh, but I have a condition.”
+
+Ling Qi blinked, looking at them in surprise.
+
+“So, Li Suyin is working on these giant doll suit things, and it's got all sorts of attachments, and I think if I work on it, I can run it myself. I just need you to buy it for me…”
+
+Ling Qi rested her face in her hand, trying not to imagine the mischief Sixiang could get up to in that. “We’ll talk about it. I bet we’ll have to argue with her to let me pay at all.”
+
+“Probably!” Sixiang bounded to their feet. “What’s the plan now though?”
+
+“I am going to meet Jaromila to talk, and she is going to vouch for me in getting a meeting with the Twisted Pine emissary. Now that I’ve met with the Sun, I really need to get a handle on her too.”
+
+Sixiang tapped their chin. “Ah, right, the cutey with the iron teeth. She seemed friendly.”
+
+Ling Qi flicked Sixiang across the ear, standing beside them without moving at all. “Professional.”
+
+Why did she get a mental image of Cai Renxiang taking a long, satisfied drink from her tea cup?
+
+“Ah, jealous?”
+
+“No.”

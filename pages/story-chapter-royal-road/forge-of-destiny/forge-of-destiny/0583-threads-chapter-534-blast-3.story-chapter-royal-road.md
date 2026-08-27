@@ -1,0 +1,149 @@
+---
+id: 8f0a2573-6b9e-5c2a-a4d9-98dba4b3a5ed
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 534-Blast 3"
+slug: 0583-threads-chapter-534-blast-3
+partOf: forge-of-destiny
+position: 583
+ownLength: 1915
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3735586/threads-chapter-534-blast-3"
+royalRoadId: "3735586"
+---
+
+It hurt, Ling Qi thought. The searing pain was as familiar as it was unwelcome. She curled her fingers and felt scorched flesh and meat peel from her bones. Something that felt like bubbles in her flesh swelled and popped the way meat sizzled on a grill.
+
+Her new defensive art was not like her old ones. She was not an imperturbable lake, for whom attacks caused nary a ripple. She was not even an ancient tree, for whom the axe left barely a dent in her bark.
+
+The Myriad Roots burned. They died. They grew back.
+
+She opened eyelids that crumbled and flaked away from eyes burned blind and milky white. All the world resolved only into the shapes of qi detectable by her spirit. Flames still danced in her hair and licked her scalp.
+
+Her current art did not allow her to be unaffected. Her resolve was to never be numb to pain. She would feel it and remember it, and in doing so, she would remember, too, that most were far more frail and easy to scar than she.
+
+Xiulan endured the flame and kept it in her flesh, but Ling Qi did not want to do that. Fire was not her soul the way it was her friend’s. Better to extinguish it.
+
+Finally, finally, the searing, all-consuming flames began to flicker and fade.
+
+Vitality flooded from her core, an emerald gleam that spread through the tangled nest of her meridian channels. Ash sloughed away. Cracked and bleeding flesh reknit. Lastly, her hair went out, charred strands returning to a healthy glow. She blinked away tears, the remains of her burnt eyes, and looked out at Zhengui.
+
+Her little brother was not much better. She could see the shape of Zhen's ribs under torn scales, and parts of Zhengui's shell had melted.
+
+Still, neither of them were the type to let pain stop them. As her body filled with light,  her wounds knit and her skin renewed. So did his. Patchy holes in shell and scale filled in. Ruddy light flared under Zhen's scales, magmatic blood cooling and hardening into new flesh.
+
+Ling Qi worked her jaw, feeling bones pull back into place. It was very unpleasant. She spat out a gob of ash and blood, which swiftly dissolved. She was glad there was no one around to judge her for being crude.
+
+Then, her head spun, and her knees wobbled. She barely steadied herself.
+
+"All is well, little brother?"
+
+"Gui is well, Big Sis." Then, her brother belched out a cloud of ash. "Ugh. Gui does not know how Zhen does this all the time…"
+
+"Because I am not feeble, Gui," his other half hissed, haughtily, but his words dragged with exhaustion.
+
+It wasn't even qi depletion. Energy still roiled within both of their dantians. To use that energy, though, required a focus and will. That focus and will was in tatters right now, for the both of them. Just because they could endure such wounds didn't make it easy to do so.
+
+"It would have been much worse for either of us alone," Ling Qi realized.
+
+"Gui is Big Sister's pillar. Big Sister is Gui's. That is good enough."
+
+And that was that. No one had to be the martyr, standing in front of the blast alone.
+
+That wasn't how communities, nor choices, worked. People so often chose to suffer and forgo protection to protect others. And that choice was something that had to be respected.
+
+"Baroness Ling!"
+
+Gan Guangli's voice boomed through the ashen fog that still clung to the air inside of the vale, and she felt the final ring of the formation power down amidst a rush of fresh smokeless air.
+
+"Is it okay if Zhen and Gui go to sleep now?"
+
+"Foolish Gui, we can yet support Big Sister a little longer!"
+
+"It's fine, Zhengui." LSwaying on her feet, Ling Qi reached down, brushing a hand across his head. "We have other pillars, too."
+
+Despite the fuzziness of her senses, she could still hear and feel her friends approaching. Gan Guangli, loud and bright. Xuan Shi, jogging along, quicker than she usually saw him move, and Meng Dan beside him, both of their placid qi pools churned up in a furor.
+
+"Ah… It’s true. Gui can accept…"
+
+She gave a gentle tug at his qi, and Zhengui dematerialized, flowing into her dantian in a thick stream of wood smoke.
+
+"Everything went well. The fire is out. No real harm done," Ling Qi reported cheerfully, turning to face the approaching group.
+
+Oh. The sky wasn't supposed to spin like that when she was on the ground. She felt the world tilt, or maybe that was her.
+
+Hands caught her before the rushing ground could. One pair was large and rough, the other slender but strong.
+
+"Thank you. My mouth tastes enough like ash as it is," she said faintly.
+
+The world was still wobbly, and it wasn't just the lingering heat haze.
+
+"I'm certain it does. You look as if you'd just gotten done rolling about in the fireplace," Meng Dan commented.
+
+She felt part of her weight lifted, and her arm was slung around his shoulder.
+
+"A frolic in the blackfire beaches, this was not," Xuan Shi said wryly.
+
+There went her other arm. She tentatively put weight on her own feet. Her knees wobbled, and she conceded the point, leaning heavily on them.
+
+"Oh, I have heard of that. I suppose the children of your clan could endure the heat. Have you?"
+
+"... Once," Xuan Shi replied.
+
+"Whether you need to wash your face or not, it seems you have won a great success, Baroness Ling," Gan Guangli congratulated from somewhere behind her. He was probably inspecting the venting shaft.
+
+"Everything seems well, but Sir Meng should still inspect.”
+
+"Beyond thy concern. He comes, but thy bed calls upon thee," Xuan Shi said firmly.
+
+"I'm not hurt…" She protested before trailing off, grimacing.
+
+"Destabilized. I did not recognize that art you used, but I do not think you need to push yourself to stay up. There are no foes bearing down," Meng Dan interrupted, agreeing with Xuan Shi.
+
+"Fine. I suppose I can rest. Just a little."
+
+***​
+
+Ling Qi had not missed the need for help in a task as simple as bathing, but Mother had been insistent. She didn't think Mother had really believed she was unharmed, even after seeing her, so that was fine in its way. Her mother was upset, but Ling Qi had kept her promise. There wasn't a mark on her, and her destabilized qi had settled in after a few hours of meditation where she cleansed her nerves of the lingering echoes of incineration.
+
+The feeling of pain would be a weakness of the technique, but having experienced it once, Ling Qi was certain she could at least keep her feet after, if the situation called for it. Rather, if her surroundings demanded it, she would do more than keep her feet.
+
+She would meditate on the memories of flame and the pain of burning. They were still clear enough; she had just been avoiding doing so.
+
+"So, all of the cleanup has gone smoothly, Lady Cai?" she asked.
+
+They stood out by the gates of Shenglu, such as they were. More accurately, it was an arch constructed over the road to signal to incoming traffic the beginning of the township proper and the turn off to the receiving area for carts and carriages.
+
+"It has, but it has not stopped all of the correspondence asking about the explosion and its aftermath  from our neighbors," Cai Renxiang replied. She stood with her hands folded behind her back, her normal pose as she observed the glinting light off the approaching carriage.
+
+"Haha, everyone is inspired! If Lady Ling can perform such a feat, then what is carting away wagonloads of ash for the fields, or plumbing the tunnel beneath at Sir Meng's beck and call!" Gan Guangli laughed. He stood at her liege’s right side, as Ling Qi stood at her left.
+
+"The pocket under the earth will require a great deal of reinforcement and warding and a steady watch for spirits creeping in. I am thankful for Sir Meng’s diligence," Cai Renxiang said. "Enough discussion for now. Prepare to receive Lord Mu.
+
+The imperial panoply was surprisingly restrained for Ling Qi's expectations. Mu Wuye's carriage used pristine white jade in place of wood, inset with deep purple and black engravings of the imperial family's symbols. It was pulled by a pair of third realm horses with monochrome coats and manes, who walked with the same discipline as the dozen soldiers who flanked the carriage on either side. The soldiers were in the second realm, except for the two bearing officers’ pennants at the head of the procession in the early third.
+
+All things considered, a small retinue for an imperial scion.
+
+The procession crossed the remaining distance in good time, pulling to a halt before their perfunctory gate. The guards moved to flank the doors of the carriage in a pair of disciplined lines as one of the captains made the announcements of Mu Wuye's coming and presence.
+
+Ling Qi was more curious about the other qi signature sharing the carriage, though. Mu Wuye had said they had a retainer of the Kang clan.
+
+The door opened, and a man bounded down the steps.
+
+He was tall, almost as tall as Gan Guangli or herself, with broad shoulders and long, honey brown hair. She could see the resemblance to the Kang she knew from the sect in the lines of his face and the proud set in his eyes, but where Kang Zihao had used a cold and indifferent, or at least superior, effect, this man thrummed with an internal energy and an easy confidence.
+
+The Kang scion wore an officer's dress garb in white and black, a half cloak fluttering on his shoulders, and a gleaming breastplate. He thumped a fist against his chest as he reached the ground, turning on his heel to bow toward the open door.
+
+Mu Wuye stepped down on the first step. They did carry the look of a storybook martial prince, hair up in a neat topknot, flowing white sleeves embroidered with coiling dragons, polished boots, and a plain black scabbard at their hip, holding a silver pommeled blade.
+
+"Lady Cai, it is most excellent to see you again," Mu Wuye greeted, hands behind their back much like Renxiang herself. "I have heard the high standard to which you were building this place, but it remains impressive."
+
+"Sir Mu, your compliments are too kind. This is only the standard to which all in the Celestial Empire should strive." Cai Renxiang inclined her head. "I hope your journey was without troubles."
+
+"There was a rather shocking display," he stated dryly.
+
+"Fine, welcoming fireworks, given the warning," the Kang at the base of the carriage steps said from behind the curtain of his hair, remaining bowed.
+
+Mu Wuye gave him a look that Ling Qi was too familiar with. "Knowing it was a controlled ritual, it was impressive indeed. Allow me also to introduce my retainer and martial brother, Kang Yuze. Though I trust him with my life, please excuse any strange things he might say."
+
+"I have some experience in such requirements," Cai Renxiang replied gravely. "Sir Mu, Sir Kang, welcome to Shenglu. Allow me to show you what we have built."

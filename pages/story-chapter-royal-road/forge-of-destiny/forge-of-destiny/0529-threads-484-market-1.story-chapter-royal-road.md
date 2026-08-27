@@ -1,0 +1,161 @@
+---
+id: 88b17bc3-43ad-5ba6-9b7b-7c520247cb35
+page-type-slug: story-chapter-royal-road
+title: "Threads 484-Market 1"
+slug: 0529-threads-484-market-1
+partOf: forge-of-destiny
+position: 529
+ownLength: 2004
+unit: words
+publishedAt: 2025-11-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2779007/threads-484-market-1"
+royalRoadId: "2779007"
+---
+
+She noticed a few eyes sharpen and turn her way briefly.
+
+Good security, that.
+
+The first to really catch Ling Qi's eye was a young woman in the heavy goods display areas, where makers of furnishings and other larger projects were showing their works. Around the space set aside for her were hand-carved benches, tables, and chairs in many sizes and colors. Each showed a preference for austerity, taking color only from the wood and varnish, and settings without any gaudy paints or polishes.
+
+What caught her eye, in particular, was a tall shrine cabinet cut from dark wood, its facing carved with meticulous and lifelike figures of people lined up and posed in respect and celebration around the center. Split across the cabinet doors was a raised blank section, clearly meant to hold the characters of a clan name.
+
+It made her think of the relatively plain cabinet that currently held the Ling family's few ancestral tablets. The formation work hidden in the cuts of the frieze and fittings was nothing amazing—she had seen masterworks beyond anything an apprentice could do—but they were solid, almost flawless in their attention to detail.
+
+The maker had bushy, tangled brown hair that looked like it had only recently had a comb dragged through it haphazardly, possibly for the first time in years. Her eyes were wide and owlish, giving her a frazzled air at odds with the austere theming and lines of her creations. Her gown was black and grey and cut very modestly, though Ling Qi could tell the woman felt twitchy in it. She probably wore workman's clothes most of the time. Her name was Chun Huan, according to the maker’s marks on her products.
+
+Chen Huan was glancing after another pair of young noblewomen who had passed her by with only a dismissive glance when Ling Qi approached her.
+
+"I particularly like the shrine cabinet. Do you do much work on spiritual furnishings, shrine gates, and decor?"
+
+Ling Qi only realized she'd forgotten to release her hold on her qi, which she'd been using to glide unnoticed through the crowd, when the poor second realm in front of her almost literally jumped at the sound of her voice. She spun around to face her as if she'd just been stung.
+
+"Wh- What?!"
+
+She sent annoyance toward Sixiang. Why didn't they tell her?
+
+"Cause this was hilarious and harmless."
+
+"Apologies, Miss Chen, I didn't realize how quiet I was," Ling Qi soothed.
+
+"Oh… My deepest apologies, honored customer, it is my fault for being inattentive," the carpenter said, recovering herself and bowing swiftly.
+
+"No, I promise you it isn't. So, shrines?"
+
+Chen Huan straightened up, still smoothing her dress nervously, but didn't try to contradict her. "The lady has good eyes. That is one of my finest pieces, but the final customizations still need to be done. I have done a significant amount of work on spiritual pieces. My master has been contracted to work on the gates, outer and inner, of several shrines in the cloud district, as well as numerous ones in the trunk."
+
+"I see. Is that where the style comes from? I know the local spirits of Xiangmen tend to favor austerity in their personal shrines, which is at odds with more current fashions."
+
+"The lady is correct. I find there is much beauty to be found by working more with the natural lines and colors of the wood than pigments. These can be complemented with chasing or inlays, but a subtle hand here is also best," Chen Huan agreed, a note of excitement entering her voice.
+
+"We are doing a great deal of work on our shrines at our settlement in the south. Do you have any experience working with higher realm materials?"
+
+The woman peered at her curiously. She was clearly trying to place her and failing. "Some,” she allowed. “Master has allowed me to work with some third grade woods in preparation for my breakthrough, and he has allowed me to observe his work on fourth grade ones."
+
+"I am Baroness Ling Qi. My apologies for not introducing myself."
+
+Seeing recognition set in was oddly gratifying, and with it came surprise. Ling Qi didn't know how to feel about the anxiety rising in the carpenter. "It is good to make your acquaintance. Yes, it beggars my imagination to think of how much work must be done in those chaotic lands."
+
+Ling Qi tilted her head to the side. "I do not think it does. You are on the edge of a breakthrough, aren't you?"
+
+"This one has made the attempt several times. I will not overestimate my chances."
+
+Ling Qi nodded at that. All the more reason to be working hard for funding. "Then, I will keep your name in mind, Chen Huan. I may have some projects for you in the future."
+
+Cai Renxiang could certainly get more skilled carpentry on contract, but there was some appeal to having in-house skill. That was the point of all this investment.
+
+She stepped away, leaving the woman to speak to the next interested nobles, and drifted back into the crowd, letting her qi fade into the background once again.
+
+It was, ironically, the bright, vibrant colors that next drew her in for a closer look.
+
+Oooooohhhhhh. Yummies, yummies, Papa's dye pot yummies…!
+
+Ling Qi cast an amused look down at her sleeves where ribbons of rustling lace were emerging like grasping fingers. No eating before she could buy anything.
+
+Buuuuuut…!
+
+She would buy something. Qiyi could pick any dye pot she liked.
+
+Yay!
+
+The young man near the glass and ceramic vials and swatches of color in cloth and other materials was as tall as her. Thin as a pole, and about as gangly, he wore a smudged and stained smock and bandana, and a pair of wide lensed glasses framed his eyes.
+
+"Ah, welcome, welcome, miss. This humble Leng Shui is pleased to have caught your eye," the man said as she approached. This time, she remembered to lose her hold on her qi before she came into his line of sight. "Ah! But I do not know that I do better than your current clothier. Such sublime work!"
+
+Qiyi preened.
+
+"I would not expect an apprentice to do better than Sir Lin," Ling Qi acknowledged. "You are an alchemist of… colors then?"
+
+It was amusing to see that name work its way into his mind, glance off the obvious association, and go looking for another.
+
+"Moons, you’ve gotten bullied so much, you feel like you gotta pick on small fry now, huh?"
+
+Shush, Sixiang.
+
+"That is a fine way to put it! I am in the business of tinctures, dyes, and paints. I also work somewhat with resins and sealants. My works are not merely beautiful either. They can be mixed to imbue effects on even otherwise unenhanced materials, although I am still working on the lifespan of those effects."
+
+"Naturally." Ling Qi looked around curiously. "Such a wide range of shades… I imagine some of these must be difficult to achieve. I sense a few wisps of third realm qi in a few of these mixes."
+
+"Oh, yes, this one has not had the honor of working with more than the leavings of my master's materials, as I am now." Like most of the apprentices here, Leng Shui was only second realm, but she judged him younger than Chen Huan. Just by the feel of his spirit, she didn't think he had tried to break through yet. "However, he has expressed satisfaction with my handling."
+
+Importing paints for Biyu was a very small expense, and her sister sometimes ran out, such as after the… Incident.
+
+"I thought the ceiling looked better like that."
+
+Mother disagreed. That was a small consideration though. Who knew if her sister's interest would even continue? Still, bringing more color to Shenglu couldn't hurt.
+
+"For now, I will take that pot of night horizon."
+
+It looked purplish to her, and Qiyi wanted it.
+
+"Of course, Miss, of course. Should I package it?"
+
+"You needn't bother. It won't last long." Ling Qi sighed, passing over the yellow stones for it.
+
+Qiyi immediately rustled, extending a ribbon to pry off the wax seal and plunge into the pot while it was still in her hands.
+
+Leng Shui's eyes bugged out. She stifled a laugh and swept back into the crowd.
+
+She wandered the trade show for quite some time after that, browsing. No other crafters caught her eye the way those two had, but she did mark some few for maybe purchasing gifts and souvenirs from. Eventually, she found herself looking at Xia Lin, who was standing before a display of intricate sculptures and pottery. Ling Qi's eyes flinched off several of the vases, despite knowing that they were practically mundane. She shook her head in annoyance as she approached Xia Lin's back, reaching out a hand.
+
+"Ling Qi."
+
+"Xia Lin."
+
+"You would need to do better than that."
+
+"I hardly want to actually startle a soldier in the middle of a crowded room," Ling Qi protested, brushing a speck of dust off her friend's shoulder before stepping up beside her.
+
+"Honored customer…"
+
+"My apologies. My friend was merely making herself a nuisance. Continue your presentation."
+
+Ling Qi huffed indignantly. Qiyi's ribbons made a strange slurping sound as they wriggled further into the dye pot.
+
+"R-right. As I was saying, the loam from the Jing River is the most common clay used for preservatives. Its sealant and purifying properties come from the spirit of the river infused into the surrounding earth. However, it is not considered very valuable due to its availability and poor luster when fired, so…"
+
+"But you are familiar with working on such vessels and linings, correct?” Xia Lin clarified. “I observe traces of this mixed in with the other clays and porcelains."
+
+The presenter winced. She really was short, around Suyin’s height, if perhaps a bit plumper, with her black hair tied back in a neat little bun. "These are only garnishes to allow the surface to take some of the glazes better. I would never dilute the products with low quality…"
+
+"No one can hear us," Ling Qi interrupted. "I assume this is why my friend is being so blunt."
+
+"Yes. I am primarily interested in storage properties and utility over beauty. No other ceramics workers I have observed here have practical vessels on display, Lai Wan."
+
+The girl’s shoulders slumped. "Jing River loam is not a poor material; it is very solid and mixes well with other clays, if used properly. The whorling pattern this produces can be enhanced well with glazes, as you see here, and… Yes, it retains some of the properties, if worked and fired correctly. I don't understand though. That sort of work is beneath the interest of noble customers, is it not?"
+
+What Ling Qi heard in her words was that the crafter was afraid because she wouldn't have learned to use an “inferior” material if she hadn’t needed to. Whatever master Lai Wan had, they were either poor or only giving the girl scraps to work with.
+
+She shared a look with Xia Lin, understanding what her fellow retainer was looking for. They did still need to work out the properties of that ice-aspected clay deposit they had found in Shenglu.
+
+"Perhaps most nobles, but not all." Ling Qi shrugged. "Regardless, I see no dilution here. Do you, Xia Lin?"
+
+"No." Then, to Lai Wan, she said, "I will have work for you in the future."
+
+Ling Qi shook her head as they stepped away, the girl behind them sagging in confused relief. "A little brusque, wasn't that?"
+
+"Unlike you, I cannot flow like mist through a crowd," Xia Lin said sourly. "Nor can I filter out every vapid bray and complaint about being bumped into."
+
+"Ah, sorry, sorry. Still, did you find any crafter of interest besides Miss Lai?"
+
+"A few. We will see if the interest remains long though.”

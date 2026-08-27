@@ -1,0 +1,137 @@
+---
+id: dd3ecaa8-2ac2-59b4-8611-0428bd6db01c
+page-type-slug: story-chapter-royal-road
+title: "27 - Snapped Sword vs The Rift Toad (1)"
+slug: 0027-27-snapped-sword-vs-the-rift-toad-1
+partOf: gamer-girl-evolution
+position: 27
+ownLength: 1580
+unit: words
+ownProgress: 1580
+publishedAt: 2025-11-20
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2777895/27-snapped-sword-vs-the-rift-toad-1"
+royalRoadId: "2777895"
+markedReadAt: "2026-06-29T20:06:26.811Z"
+---
+
+The ground trembled beneath her feet as the Rift Toad launched itself into the air with a guttural croak. Its bloated body soared toward her like a missile.
+
+In a nick of time, she darted sideways and the massive toad landed with a thunderous crash just where she had stood moments before. The shockwave from the impact sent the nearest rift-born creatures tumbling backward.
+
+The Toad rebounded immediately, bouncing erratically with terrifying speed. It was agile, despite its size, and its bounces sent waves of destruction into the surrounding swampy area. Celica's pulse quickened, adrenaline coursing through her.
+
+She couldn’t let it land on him.
+
+A flicker of movement to her left caught her attention: water magic. A sphere of water shot out from the Toad’s mouth, a glowing, unstable orb aimed directly at her. She parried it effortlessly, the water bullet dissolving into nothingness.
+
+The Toad, however, wasn’t done. Another water bullet followed, as she dodged to the right, narrowly avoiding it.
+
+I was wondering when the water magic was gonna show up. No monsters had used it even though it'd been in the quest description.
+
+The Toad wasn’t just an immense physical threat with its lethal bounces—it was now trying to pick her off from a distance with its water magic.
+
+These attack animations... Celica narrowed her eyes. They reminded her of a boss from the third realm, the Kraken. She eyed the boss carefully, noticing how similar its start-up animations were with other bosses she'd seen before on various floors.
+
+Behind her, hordes of swamp-dwelling monstrosities were chasing her. From every direction, void wyrms, rift-born mud golems, trolls and ogres pursued her, their slobbering jaws snapping hungrily.
+
+There were at least a hundred of them left over from earlier, but she didn’t let that overwhelm her.
+
+Boom!
+
+Her instincts kicked in as she used her superior movement to dodge another Toad landing. The moment the Toad missed, she launched herself forward. The Toad was slow to recover from its impact, its legs sinking briefly into the swamp. As the Toad raised itself for another strike, she saw an opening.
+
+She rushed in, performing the quickest combo possible at this point in the game. The max damage: attack → Slash → attack → Thrust → attack animation cancel combo hit the Toad head on.
+
+"...Urrrrh." The Toad croaked in anger, the water bullets intensifying as it retreated. She evaded the next barrage with fluid movements, her speed making her look like a blur. Each water spell she avoided left her with just a moment to strike again at the Toad as it tried to recover.
+
+The monsters were closing in now. She had dealt with a few, using her combat skills, slashing through the rift-born beasts with swift precision. Her Thrust skill skewered a massive ogre, while her Slash cleaved a nearby troll into two.
+
+[+760 EXP]
+
+[+780 EXP]
+
+The monsters didn't stand a chance—she was too fast and too skilled. And yet, they kept coming.
+
+The fight was like a game of cat and mouse: the Toad bounced, landing with force, sniping water magic at her, while she whittled away at its health. She dealt with both the boss and the horde simultaneously.
+
+She couldn't afford to be distracted.
+
+The Rift Toad’s health dropped steadily. Halfway through its health bar, she could sense the shift. The Toad was tiring. The bouncing became less erratic and more predictable. She launched herself forward again as the Toad prepared for another leap, landing a final, powerful combo of Thrusts and Slashes as the Toad hit the ground.
+
+She grinned, watching its health plummet.
+
+The Toad paused before it started gasping. It raised its eyes toward Snapped Sword, now fully aware of the challenge it faced. With a reluctant croak, the Rift Toad's massive body began to shake, and a strange mist swirled around it.
+
+She stood ready, her sword raised, prepared for whatever came next. The air around them warped, and she could sense the boss' changes. "Of course you have another phase, it wouldn't be fun if you didn't!"
+
+The Rift Toad, having absorbed her relentless assault, slumped momentarily before sitting down in a meditative position. Its massive body seemed to deflate slightly, as though all the air had been sucked out of it.
+
+The once chaotic battlefield shifted; a strange calm descended over the terrain. The Toad’s glowing eyes remained fixed on the ground, and a faint aura of magic began to pulse around its body, rippling through the air like a thick fog.
+
+Untargetable... she noticed the boss couldn't be damaged in that state instantly. The Toad was no longer within reach, its massive form was now surrounded by a shield of arcane energy. The Toad was healing, regenerating some of the damage she’d inflicted.
+
+But that wasn’t the only issue. As the Toad meditated, its power spread outward. The creatures that had been mindlessly attacking her now began to change. Their eyes glowed with the same eerie blue hue as the Toad’s, and before long the —now empowered— swamp monsters began casting water magic of their own.
+
+[Empowered Rift-born Ogre - Lv. 35]
+
+[Empowered Void Wyrm - Lv. 37]
+
+[Empowered Rift-born Troll - Lv. 36]
+
+One moment, the swamp seemed quiet. The next, the air erupted with a cacophony of splashes and crackling energy. Water spheres shot through the air, aimed at Celica from every direction.
+
+She vectored, ducked, dodged and parried, cleanly avoiding the barrage. The monsters had gained new powers, and they certainly weren’t holding back.
+
+A void wyrm, now granted with water magic, flung a massive water bullet at her. She parried the projectile with ease, but the next barrage came even faster—more monsters were casting their spells.
+
+The battlefield had turned chaotic.
+
+Water orbs ricocheted off the swamp’s murky waters, causing geysers of steam to rise. She was forced to keep moving, every few seconds dodging another wave of magic.
+
+The creatures themselves hadn’t become more intelligent, but they were far more dangerous now. In its current state, the Rift Toad couldn’t be damaged, so it was likely the case that she had to defeat all the boss' minions before it would stop meditating.
+
+With a fluid motion, she dived into the horde, her blade dancing through the air. Her Thrust pierced the body of a massive golem, instantly slaying it. A Slash cleaved through a group of swamp serpents, and another Thrust brought down a venomous wyrm.
+
+[+890 EXP]
+
+[+1055 EXP] [+905 EXP] [+1010 EXP][+850 EXP]
+
+[+875 EXP]
+
+[LEVEL UP! You are now level 40!]
+
+Her movements were precise and controlled, her vectoring allowing her to weave between the creatures as they swarmed. Her combat instincts kicked in as she danced through the hordes, cutting them down one by one.
+
+Her Parry skill was essential. She expertly parried a water bullet that would have hit her square in the chest. As more creatures surrounded her, she weaved through them with perfect footwork, using evasive manoeuvres and parries to nullify any incoming attacks.
+
+Her animation cancels made quick work of the monsters, their bodies falling apart as she moved.
+
+Thrust. Parry. Slash.
+
+The cycle continued as she whittled away at the last of the monsters. Her focus was unwavering as she used the chaotic terrain to her advantage. Every strike she landed felt like a critical hit as one by one, they fell. All one-shotted.
+
+Their watery forms dissipated into the mist, and the battlefield fell silent for a brief moment. She stood still, breathing lightly though her heart was racing. She hadn't broken a sweat.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+Her eyes flickered as she looked at her UI. She was full HP. Her lips curled upwards. Guess I didn't need those points in vitality after all. Even when facing two whole armies of monsters. Were mobs always this easy to beat in the early realms?
+
+Just then, she noticed something strange. She had reached level 40 earlier but was still gaining levels. Had the devs completely removed the level cap?
+
+Now that the horde was gone, she quickly reassessed the situation. The Toad, still sitting in its meditative pose, was starting to grow restless. The once-still aura around it now buzzed with a crackling energy, and its eyes opened wide, glowing with renewed intensity.
+
+The Rift Toad had recovered a quarter of its health, and now it had 75% HP left. The battlefield around it began to shift again as the Toad rose to its full height, its body now radiating dark energy.
+
+Phase three... Celica's eyes narrowed. Let's see what else you've got, little froggy.
+
+The Rift Toad's body trembled as it shifted, no longer content to hide behind the safety of its water veil. With a freakish croak, it let out a roar of fury, its massive form towering ominously.
+
+The energy around it grew thick with malice, as the air grew hotter. She carefully analysed the Toad’s movements. She knew there was no room for error.
+
+The Toad lunged forward, its massive tongue shooting out like a whip. She easily managed to roll to the side, as the tongue scraped past her with a sickening slurp. If she’d been slower by even a fraction of a second, the tongue would have wrapped around her, pulling her in for a devastating slam.
+
+The Toad recoiled its tongue, ready to strike again. She could see the animal’s eyes narrowing, its intentions clear—one hit and it would be over.

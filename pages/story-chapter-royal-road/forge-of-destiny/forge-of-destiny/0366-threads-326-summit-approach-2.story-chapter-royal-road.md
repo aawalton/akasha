@@ -1,0 +1,183 @@
+---
+id: 6382f4cc-e4de-5ba4-bc5d-4e16096e78e0
+page-type-slug: story-chapter-royal-road
+title: "Threads 326-Summit Approach 2"
+slug: 0366-threads-326-summit-approach-2
+partOf: forge-of-destiny
+position: 366
+ownLength: 3142
+unit: words
+publishedAt: 2023-08-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1298859/threads-326-summit-approach-2"
+royalRoadId: "1298859"
+---
+
+“I do hope that analysis was helpful.”
+
+“It was,” Ling Qi acknowledged. “It will give me another lens to view my counterpart’s actions through. Now, where are we meeting?”
+
+“At the top of the telescope chamber. The meeting rooms do not have their full security formations in place yet.”
+
+Ling Qi nodded, following him as they mounted the stairs, winding their way to the top of the observatory. At the top was a strange and luxurious room with a floor of black marble, spiderwebbed through with lines of white and dark blue, giving an impression similar to that of a night sky in motion. The walls were panels of carved white jade, panels depicting legends of the seasons and sun and moon. Overhead, the room was a dome of polished stone set with glittering stones.
+
+In the center of it all was this telescope device, a long conical tube of brass and silver like a spyglass blown up to titanic size. There was a seat built into the bottom of it where a person might sit and peer into the small end, and the whole construction hummed faintly, hovering over a disc of deep green, nearly black, jade.
+
+The observatory was impressive, if only because she could feel the power of the formations and materials that made it up. She suspected that a sizable minority of the total expense for this whole region was here.
+
+Troubling. This most likely meant that the duchess found this observatory to be as important as everything else going on.
+
+Waiting for them was Cai Renxiang. With her was a tall, thin and bookish-looking man. Without Sixiang, it took her a minute to place the man and his name.
+
+“Lady Cai, Astronomer Wu,” Meng Dan greeted.
+
+As she followed him inside, the door behind them quietly clicked shut, and then, it hissed softly as it sealed, the air around the edges of the frame expelled by the locking formations.
+
+“Ah, Sir Meng, Baroness Ling, welcome, welcome. I’m always glad to see the younger generation taking interest in my work. I was just speaking with the young miss here on the paths and trajectories of celestial debris in the modern day. It really is a fascinating subject…”
+
+“And one I would like to discuss more when we have the time. What is the reason for your tardiness, Baroness?” Cai Renxiang asked.
+
+“There was a worksite accident. The foundations of a building pierced one of the mountain’s cores. I was the nearest on hand who could calm the spirit.”
+
+Her liege hadn’t been accusatory at all. Renxiang understood that she would have good reasons, even if she couldn’t sense the fluctuations from the earth in this room.
+
+“How awful. What in the world are the planners and geomancers doing?” Astronomer Wu asked, scandalized.
+
+“We fear that the mountain’s turbulent state must have caused a seismic shift since its internal energy channels were mapped,” Meng Dan said smoothly. “It is being investigated.”
+
+The tall man grimaced. “Ah, well, that is true. The general’s method was effective but… disruptive.”
+
+“Please do not concern yourself too much, Astronomer Wu. it will be seen to. Let us begin the meeting now that everyone is here.” Cai Renxiang said crisply, gesturing for them to come closer.
+
+There was no seating or furnishings aside from the telescope itself in the room, so they were left to stand in a loose circle near to the wall.
+
+“Yes, yes, I suppose you all are very busy,” the astronomer said. “May I ask how much you know of the ordering of the heavens?”
+
+“There are considered to be three spheres,” Cai Renxiang replied crisply. “The lower heaven contains the air and other components mortals and low cultivators require. The middle heaven is the location where the toxic elements of solar, lunar, and stellar qi are mixed and strained into usable energies. This is also the layer which the cloud districts of Xiangmen and the higher peaks of the Wall enter. The upper heaven, which bars the emptiness of the outside and stellar predation from the lower spheres, is largely impenetrable to human entry. It is lethal to any who are beneath the violet realm, and it is corrosive even to those who can survive it. This is divided further into a number of layers, which I have not had occasion to study.”
+
+“I understand that the thirteen solar and lunar palaces are located among the heavens on a liminal level, and they are further divided into the one hundred and eight celestial demesnes,” Ling Qi offered.
+
+The homes of the eight moon and five sun aspects were connected to certain points in the heavens, and the movement of the actual physical sun and moon through them was important for measuring the seasons, predicting weather, and other astrological divination. Of course, the actual palaces existed outside of physical reality, being the realms of the actual great spirits. Even she had never dared try and venture so deep into the liminal as that.
+
+“Good, good, it seems that between the two of you, there is a grounding in the basic understanding of the celestial spheres, and I know young Sir Meng is similarly educated, so I may dispense with the introductory lecture. As you know, I was dispatched by Her Grace to establish this observatory and study the phenomena you described in the south, which had previously been considered merely legendarium. I have been most enthused by the level of support given to this project!”
+
+Ling Qi did wonder about that. Why had the duchess put so much effort and investment into this observatory? She knew the duchess funded artists and natural philosophers quite handsomely, but this was beyond even that. She could see the same calculation in Cai Renxiang’s eyes.
+
+“While I am still in the preliminary stages, I have made some discoveries. Namely, I have discovered that the upper heaven is configured differently near to the southern pole! According to my observations, the upper heaven in the region where these heavenly lights are cast consists of only a single layer. Instead, it is comprised of a much thickened and more robust Zenith Palace.”
+
+“The Minister of Midday must be working to exhaustion in the region,” Meng Dan said mildly.
+
+“Perhaps so,” Wu replied animatedly.
+
+Most of the palaces were set in the lower and middle heavens, but the upper was supposed to hold the eleventh lunar palace as well. That was… the home of the Grinning Moon. For it to be absent over a whole section of the sky was troubling.
+
+“The effects of this are mostly academic and beyond your interests, but It needs to be established because my true discovery is that those daemon lights, as the regular folk are calling them, are not stellar leakage or any kind of external energy leaking through the heavens. In fact, the Zenith Palace is so dense there that I doubt even the scraps of safe and filtered stellar qi which some use to cultivate might come through there,” Astronomer Wu prattled on.
+
+“They do not come from outside?” Cai Renxiang asked.
+
+“No. Nor are they some manner of trapped energy field between the heavenly spheres,” Astronomer Wu said. “These lights are the visible form of an energy that is constantly being dispersed and destroyed and which emanates upward to claw upon and break against the heavens. And it is a regular emission. Its intensity rises and falls, but never stops. Something in our guest’s lands produces those lights.”
+
+Ling Qi remembered that urge to act that looking up at the sky in the south had given her. The sight of the sky had aroused a certainty in her that something was terribly wrong.
+
+“They have spoken of gates, behind which are sealed a multitude of demons. Their overall organization is named after these, as they call themselves the Nation of the Polar Gates,” Cai Renxiang offered after a moment. “Leakage through such defenses then?”
+
+“Perhaps, Perhaps.” Wu looked at them excitedly. “Now, that comes to the reason I have asked for Lady Cai’s attention. I have of course been relaying my studies to Her Grace, and she has indicated an interest in this. I would like to request that a formal academic exchange of information about celestial phenomena be made a point of negotiations.”
+
+Ling Qi replied, “My contact did show some interest in the observatory, but I think we would likely need to promise them equipment access.”
+
+The astronomer nodded along like that was no problem, but Renxiang and Meng Dan immediately frowned. She could read their concern. The ministry might not like this idea much, and the Meng, who were one of the major, non-ducal sources of funding for the facility, would probably be testy too. But at the same time, if Her Grace was interested, that gave this region more value and thus, weight at court…
+
+Cai Renxiang looked at Ling Qi and tilted her head. The silent question was obvious.
+
+One of the biggest stumbling blocks to establishing a substantial treaty was the distances involved between the parties, the roughness of the terrain in between, and the hostility of the cloud tribes. It was one of the reasons they’d ultimately decided not to lean too hard on trade relations. Merely setting up the infrastructure to allow trade in any bulk would be a work of years at minimum, even ignoring the ongoing war with the Twelve Stars Confederation and the Ya-lith-kai.
+
+Offering access to the observatory would be both a complication and an opportunity. If she took Jaromila’s words to heart, the White Sky lacked the fine glassmaking necessary for devices like this, but they desired such products. A small number of experts would be much easier to move than a great caravan of goods. If their idea of a foreign quarter was to bear any fruit, then they would need something to provide an official draw.
+
+“Meng Dan, may I ask what sort of compensation might satisfy your clan on this subject?” Ling Qi asked.
+
+He cupped his chin, thinking deeply. “That depends.” He gave her a long look, in which she read his meaning.
+
+It would depend on the balance of internal Meng factions.
+
+“Then if we go forward, I hope to speak with your uncle on the matter so that a reasonable price can be negotiated.”
+
+“I believe that is possible, Lady Ling.”
+
+Cai Renxiang gave them both a sharp nod. They didn’t need to speak of the ministry’s position here. The difficulties there were obvious, but not insurmountable. The proposal would have to be sold carefully to them. Perhaps she could arrange for some up front information sharing.
+
+Both the ministry and the general would probably be interested in knowledge of their enemies below. The Wang would have an interest as well, if only because learning the patterns of the sky was important for establishing agriculture and even geomancy in a new region. It would be helpful to building efforts.
+
+Astronomer Wu observed them with polite confusion. “Ah, I suppose there is more to this? I had believed Her Grace’s interest was enough…”
+
+“My honored mother has chosen not to interfere overmuch here,” Cai Renxiang said. “Her support is helpful, but the convincing lies with me. I will see your proposal presented, astronomer.”
+
+Astronomer Wu nodded eagerly. “Oh yes, I suppose that makes some sense. I apologize if this is troublesome.”
+
+“No more than the many other requests we will receive,” Meng Dan said lightly. “Now, Astronomer Wu, this stellar qi radiating out, would you tell us what you said to me about its relation to some of our current enemies?”
+
+“Ah! You refer to the starstones and the enemy that wounded the Argent Peak Sect elder? From the scraps of the elder’s cassock I was able to examine and my observations, they are certainly similar energies. Not the same, but if I had to make an estimation they likely arise from a common ancestor. To think that some old tales of fallen stars might actually be true… It is quite shocking!”
+
+Ling Qi shared a look with Cai Renxiang. “And has Her Grace shared the evidence turned up in our own explorations?”
+
+“Oh, yes, the beast dust. That was much more similar to the southern energies,” Wu agreed cheerfully. “But much less potent. I would need access to some further records, but it really does seem that some unknown cause is increasing the intensity and activation of these phenomena. If they were always so common, I cannot imagine no scholar would have failed to observe them until now.”
+
+“I see. Thank you for your insight, astronomer,” Cai Renxiang said.
+
+“What is known of starstone and energies like it?” Ling Qi asked. “I use some amount of moon-filtered stellar qi in my cultivation, but it is nothing so…”
+
+Sickening. Foul. Destructive.
+
+“Filtered stellar qi comes to us by way of the moon and sun and has a significant role in a number of phenomena,” Astronomer Wu lectured. He looked quite pleased by the question. “It is wholly different. By the time it reaches us, the qi is wholly made of this world.”
+
+Meng Dan pushed up his eyeglasses. “When She who became the Hidden Moon named the stars, she took from them their light, their poison, and their foundation, and she wrought of it the Adamant Filter, which shields the world from the stars’ malice when the sun is far away on campaign.”
+
+“Yes, the origins of all these systems lie in the temple tales. This humble scholar only explores their function,” Astronomer Wu agreed. “Hm, it is known that unfiltered starlight is inimical to terrestrial materials and particularly corrosive to formation craft. But it is also destructive unto itself, or rather, terrestrial and stellar material are mutually annihilatory.”
+
+Ling Qi furrowed her brow. “So just as it crumbles things of the earth, it is destroyed in turn this way?”
+
+“That is the theory, but I will admit it is an old and dusty one due to lack of rigorous study. Starstone and similar have only appeared very occasionally from the Wall, and until Ogodei, it was last recorded in any significant quantity during the Strife of Twin Emperors. The Usurper Shang was said to have found a method of using it as fuel for his devices and wonders, producing power that no spirit stone furnace or injector could match.”
+
+The Strife… That was the transition between the first and second imperial dynasty where the empire had been split in supporting the two twin brothers vying for the throne. It was said to have lasted a thousand years, and the resulting conflicts had destroyed the Sage Emperor’s direct descendants entirely and ruined great swathes of the empire.
+
+“Where in the world would he find such things? “ Ling Qi wondered.
+
+“If answers to that exist, then I do not have access to them. And truthfully, it is a bit on the edge of my field.”
+
+“The theory continues that because unfiltered stellar qi destroys and is destroyed by mere contact with the terrestrial, its remnants from the time of creation must have largely withered away by the modern day,” Cai Renxiang spoke. “Obviously, this is mistaken.”
+
+“Indeed, indeed,” Wu agreed. “From studies of the shards of that stone which remained at the caldera, and from looking at records of what was recovered from Ogodei’s battles, the stellar material used by the nomads is…impure. It is somehow mingled with terrestrial material. It was theorized that this is merely part of the decaying process, a temporary and unstable state, and that may be so, but it is not a subject given much study.”
+
+“That will have to change given the increasing amounts of starstones showing up in unwanted places,” Meng Dan said mildly. “I have read Lady Cai’s reports on this labyrinth within the glacier you have discovered at Snowblossom. Will you be plumbing it soon?”
+
+“Relatively, I’m sure,” Ling Qi replied.
+
+“Relatively, of course.” Meng Dan chuckled. “Will the study of any artifacts or treasures be done here then, or will they be sent back to the capital?”
+
+“I hadn’t really considered that,” Ling Qi said. “But I suppose the right facilities are being put up…”
+
+“It is a distant concern,” Cai Renxiang interjected. “Any exploration will have to be after the summit so it’s some months out to even begin exploring the location.”
+
+“Well, I would of course be pleased to have real stellar materials on hand to study,” Wu said. “That said, as proud as I already am of the facilities, they are still much inferior to the workshops of the Xiangmen.”
+
+“Moving any materials to Xiangmen will result in a significantly longer wait for results. Unless something truly catastrophic were to occur, enough to move mother to intercede directly, there would be many other tasks and studies ahead of our requests.”
+
+“That titan who appeared at the caldera is not catastrophic?” Ling Qi asked incredulously.
+
+“You would imagine so, but no.”
+
+“Academia is a slow moving battlefield where every skirmish may take years or decades,” Meng Dan said. “So far as I know, most consider the caldera titan to be merely a dangerous high realm or spirit beast. It is certainly something to be alarmed by, but it is considered military business, not theirs.”
+
+“Yes, I suppose the young sir is right,” Wu said weakly. “It can be difficult to get new projects into the highest workshops. The overseers and administration are quite stubborn."
+
+“Ling Qi, it may be a minor matter now, but it is best settled soon so that proper arrangements may be made. It is my opinion that using local facilities for anything we might find in our explorations will be the superior option. You are free to convince me otherwise.”
+
+“No. I agree with you, Lady Cai. To begin with, anything we dredge up should be studied with more urgency. If the capital would like access to our research results, they can always order it later when they are ready.”
+
+“Wonderful,” Astronomer Wu enthused. “I am sure my junior colleagues will be pleased to have more chances to earn merits, along with our sponsors in the Meng clan. I do have some more technical details on the collaboration I could bring to your attention, if you’d like to begin, Lady Cai…?”
+
+“Yes. However, Ling Qi Meng Dan, you two may resume your other duties. I merely wished for your council and attention on the larger questions.”
+
+“Very well. Shall I inform Gan Guangli when I see him next?” Ling Qi asked.
+
+“I will see him first. He was only not here because his appointment with the Jia could not be altered on short notice.”
+
+Ling Qi gave a small bow, as did Meng Dan, and they took their leave as the telescope room unsealed.

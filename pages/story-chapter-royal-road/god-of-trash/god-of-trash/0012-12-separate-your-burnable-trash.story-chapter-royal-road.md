@@ -1,0 +1,103 @@
+---
+id: af3b273e-2070-5742-a489-51a0da190315
+page-type-slug: story-chapter-royal-road
+title: "12. Separate Your Burnable Trash"
+slug: 0012-12-separate-your-burnable-trash
+partOf: god-of-trash
+position: 12
+ownLength: 3224
+unit: words
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2108446/12-separate-your-burnable-trash"
+royalRoadId: "2108446"
+---
+
+There were piles of rotting food amidst the rubbish, plus shredded herbs that were too far gone to be used in even the most impure of potions. He picked out the compostable matter, leaving behind the bones, meats, and cheeses, and made a compost heap. Rather than simply wait for nature to take its course, he scanned over the compost pile with his mana, searching for the tiniest signs of life. He needed microorganisms and bugs. They were what turned food into compost. If he could supercharge them with mana, he’d have compost much faster. Mana made people stronger and animals stronger, so why not bugs and bacteria?
+
+Time passed. He sat down and meditated beside the compost pile, focusing all his mana on the pile. He sensed the rats picking at the pile, the chipmunks burrowing into it. Smaller. Large worms and big beetles appeared on his awareness, shimmering with mana. Not yet. Smaller! He burrowed down deeper yet. His whole world was the compost pile. The compost pile marked the edges of his universe, and he knew nothing but the compost. Every leaf, every piece of scrap, every bug lit up in his mind.
+
+And then his mind expanded. He saw more, saw smaller things. Down into the abyss below bugs. Tiny spots of light lit up in his vision. They huddled together in splotches, clinging to one another for warmth.
+
+There. Rhys pushed his mana into them and the bugs alike. The microorganisms immediately leaped into action. They multiplied at a furious rate, chewing through the compost. The bugs, too, sped up. Their actions had been at bug speeds before, but now, they all ran around like maniacs, chewing down leaves and shitting them out at turbo speed.
+
+He opened his eyes. The pile of scraps transformed into lush, dark compost before his eyes. When it was all transformed, he stopped putting mana into it, and all the organisms returned to normal.
+
+Rhys took the compost and spread some of it over his existing garden. There was still plenty of room in the wilderness, and plenty of compost, too. He took a moment to pick through the garbage until he found a broken rake, then raked up a patch of ground. Some more herbs went down, roots and bits that could grow into fresh plants, and then he covered them with a good layer of compost.
+
+He repeated his actions over and over until he ran out of mana. There was no shortage of bits and bobs of herbs in the trash, nor any shortage of compost materials. When he was done, five neat plots of herbs stood next to the garbage pile. But there were still more herbs to plant, and still more materials to compost. The only limitation was his small mana pool.
+
+Rhys stood back, pinching his chin. He wasn’t going to make much profit with five small plots. Sure, he could treat these as his first generation, then build a second and third generation, and so on, but that was boring, and it took too much time. He wanted a profitable garden right now. Not only that, but he knew he could do it. If he followed the same principles as the compost-generation, he could speed up the growth of the herbs. From the alchemy book, some herbs needed very specific growing conditions, but none of the herbs at this low a level needed that special of a caring regimen. He could throw them in good soil, pump them full of mana, and harvest them immediately for a profit.
+
+Of course, the problem was that anyone could do that. The only limitation was mana, and mana was a serious limitation for everyone, not just trash-tier low level mages like Rhys. He’d need to be basically hooked up to an infinite supply of mana to make it worth it. He did have better soil than most people would have access to, so that was a definite advantage for him; that would lower the amount of mana he’d need to grow the plants, and if he simply sat still and waited, he’d be able to grow good herbs one way or another. But he didn’t just want the same slow rate of herbs anyone else could produce. He wanted to get rich from the trash, and that meant doing more than ordinary gardening.
+
+He could try charging for removal, but he didn’t want anyone else to get ideas. The trash belonged to him. If someone else saw him charging money for trash removal, they might try to butt in on his market. Better to make it a free service so no one thought about butting in on it, and reap the benefits of the trash himself. The last thing he wanted was for someone else to start getting ideas about his trash.
+
+Sitting back, he sighed. At times like this, he missed Bast. Bast would happily dig a dozen plots for him, even if he didn’t have the mana to create compost or grow the plants yet. Motivate him. Provide the effort to force him to keep going when he got tired or lost the plot. He needed a friend. Someone who would help him out with his wild plans.
+
+Of course, then he’d have to split the profits, so there were downsides as well.
+
+A little lost for the moment, Rhys extended what little mana he had left to sense the world around him. He needed mana. He could go meditate for it, but it would take so long to get it back. He needed mountains of mana. Piles of it. Heaps of it. If only he had—
+
+Pale light lit up in his mana senses. Rhys turned, slowly.
+
+The trash. The trash was full of mana. Absolute mounds of mana.
+
+But how did he release it? He thought for another moment, then shrugged. Releasing the mana from the herbs to make a potion had taken heat. What if it worked the same way here?
+
+Rhys jumped up. He ran to the piles and started picking through the trash, setting aside every possible item that could make compost. A few days passed. At last, he had two piles, one compost pile about a third the size of the original, and the other a two-thirds sized pile of trash. He’d separated out the usable herbs as well, as well as anything else that seemed valuable. The valuable pile was relatively small. It was mostly herbs, potions, and wrappers, though there were a few broken weapons and some badly-stained robes. For all that the robes were stained, they were still way nicer than his. It was worth trying to clean them, later, when he didn’t have a current project.
+
+There was also a pair of bracelets that had a strong aura of mana, but didn’t appear to do anything, and a perfectly usable gold ring that had a small storage space inside it—and that was the biggest winner of them all. The storage ring was full of fine robes and nice furniture… that had all been ripped to shreds, doused in wine, and then lit on fire, some of it. But most of the damage was cosmetic or repairable. He pulled all the items out and set them in his valuables pile, to repair and clean later.
+
+RIP to whoever pissed off their wife-slash-fiancé, Rhys noted. The gold band had looked like a wedding band to begin with, and when he saw the contents, he was sure. Sure that someone had truly lost their lover, anyways.
+
+One man’s loss was another man’s gain. Considering what he was about to do, he dragged the furniture over around the edge of the hollow and into a nook in the rock formations just around the corner. There was a natural cave there that he’d been considering outfitting as a home for a while now, but he hadn’t had anything to do it with. Now that he had some furniture, he could really get started. Sure, it was a bit of a fixer-upper situation. Some of the chairs only had two or three legs, or no seat, or filthy shredded cushions. But the bones were good, and only a little scorched. He could definitely fix them up with a little hard work.
+
+With the furniture out of the splash zone, and the rest of the valuables moved out of the way for luck while he was at it, Rhys finally turned to his trash mound. He’d only been collecting for a few weeks, but it was already a veritable mountain, nearly big enough to peek out of the valley he’d put it in. He checked to make sure the compost pile was far enough away to not catch fire, then dug a fire break in between them just to be completely sure. Building the earthwork did help to grow his strength a little, but not as much as he was about to surge up, if all went according to plan. Only then, once he was sure that he had everything accounted for to the extent possible, did he grab a pair of matches and start a fire.
+
+He didn’t have a fire-starting skill, so he had to stick to mortal methods, but once the fire got started, he fed it mana. Like anything fed mana, it quickly strengthened. The flames chased after the mana, and Rhys guided them to spread over the entire trash pile. Before long, Rhys didn’t even have to feed it mana any more. It self-propagated on its own. The flames tore over the garbage, eating into the dry wood and scrappy fabric. As the trash burned, just as Rhys had predicted, the mana locked inside them burst free.
+
+The mana hovered overhead, spotted with black dots. Even before he drew it into himself, he could sense powerful impurities mixed into the mana. Rhys hesitated, but only for a moment. In the next, he steeled himself. Impurities are a form of trash. Even if they supposedly do nothing but limit one’s growth and harm one’s body, I refuse to overlook them. If he couldn’t do anything with the impurities, then he’d go study up on how to remove them from his body. Since the beginning, he’d had to take risks to get ahead. If he never risked anything, he’d never gain anything.
+
+Studying trash was not the safest path. Even dragging the trash here had gained him three Resist skills. And back in his world, it had left him unloved and exiled among forumgoers. Hesitating here was foolish! He had already staked it all on trash a thousand times. To stop here meant to deny his path. To pause here meant to reject everything he stood for!
+
+And so, Rhys took a deep breath and sucked the impurity-laced mana into himself.
+
+It instantly ached. Everything hurt. The mana clicked and dragged, sluggish in his passages, and clunked in his mana core. It felt like he’d eaten a bad meal full of junk food, and that junk food was tumbling around in his gut, but in his mana core. Rhys winced, grimacing. He dropped to his knees, then sat to focus all his energy internally. As he dragged the mana into himself, he carefully guided it through his passages. He led it to his core as quickly as possible, then circulated it slowly there until all the impurities fell to the bottom of his core. Only then did he let it circulate through his mana passages. At the same time, he pushed his mana to scour his passages and drag the majority of the impurities back to his core. In his core, he gathered them at the bottom. Just like the layer of scum in the bottom of the teacher’s cauldron, so too he accumulated a layer of impurities at the bottom of his core.
+
+He couldn’t guide all the impurities there. Some slipped by, or were too small for him to grasp. But he led enough there that he could still circulate his mana evenly, and no deadly clots accumulated in his mana passages. Small clots formed, but none so thick that he couldn’t push past them with a slug of mana.
+
+At the same time, his mana pool filled in a few moments. The trash mana was so thick for Rhys that he struggled to absorb it all. He lifted his hand, preparing to push excess mana into the compost pile, but then the excess mana began pushing at the walls of his core, expanding it. Rhys paused. This was an opportunity he hadn’t come across ever before, but it seemed like trash-based mana synergized so well with him that it could help expand his core. If he offset it, he’d lose out on the opportunity. So, even though it made him feel horrifically bloated, even though it pushed his core to the limit of bursting, he held onto the mana. Clung on to every scrap of it. And every scrap helped to push against the walls of his core and widen it.
+
+This whole time, he’d had a very small mana pool for his Tier. Not the smallest, but far from the largest. An important part of early growth for a mage was to expand that core, or so Straw had told him. He’d struggled and fought, but the expansion he’d attained was still only equivalent to Bast’s starting point. Now, absorbing the trash mana, his core finally began expanding.
+
+His whole body trembled. Mana flowed wildly inside him, escaping from his core, bursting from his mana passages. With his core and passages on the edge, he lost control of containing impurities, and they ran rampant inside him. But his core still widened. Self-regeneration kicked in, struggling to repair the damage. It couldn’t keep up, but that was fine. He could bear a little pain. Just a little more. While his core was still expanding, he’d put up with anything.
+
+His core expansion slowed. From centimeters to milimeters, from milimeters to a grind so small he could barely see it. Still, he pushed on. Even imperceptible gains—any gains at all!
+
+Pain shot through him. His core strained. No longer did it expand. Instead, it began to rupture.
+
+Now! Rhys threw out his hand. He poured mana into the compost pile, not bothering to target the bugs and microorganisms. Instead, he let it flow rampantly into everything. The bugs, the leaves, the bacterium—he drowned them in mana. The pile trembled. It visibly decayed, breaking down from scraps into rich, soft earth. In moments, the compost had grown as rich as it could, and yet, the mana still poured into Rhys.
+
+He gritted his teeth. Pain once more spiked in his core. Desperate, he looked around, and his eyes landed on the already-planted plots. He grinned. Right! From the beginning, he’d planned to use the mana to force-grow plants. He might only have five plots, a far cry from his desired plottage, but five plots were five plots! Plus, it was a great chance to find out how much mana it took to force a plant to maturity and fruiting.
+
+Lifting his hand, he pointed it at the plots and blasted them with mana.
+
+For a moment, nothing happened. Or rather, nothing visible happened. The cuttings woke up and dug roots into the ground, stabilized themselves, and collected their energy. And then, all at once, they blasted off with growth. Some exploded into vines, crawling over the earth and each other in their eagerness to grow. Others burst into bushes, or simply grew, extending their stalks upward and putting off leaves. They grew and grew, seemingly boundlessly thirsty for mana. An incredible amount of mana flowed through Rhys, coursing into the plants.
+
+As the mana passed through him, he stripped out the impurities. For two reasons: one, because he didn’t know how magical plants would fare with impurities, if they’d struggle to fruit or even die of disease. Two, because he still wanted to investigate impurities for himself, and find out if there wasn’t value to be found in the depths of the trash that was impurities, after all. The more impurities he had, the better. After all, sometimes value could only be found when one searched through large quantities, like panning through tons of river dirt to find gold.
+
+The smallest plants stopped growing first. They put up blooms, which lived, withered, and died in the space of a few moments. In the next seconds, the buds atop the plants swelled, becoming heavy with fruit. The fruits ripened, then drooped, threatening to fall and rot away entirely.
+
+Rhys went to pull his mana back, but found he couldn’t. In the next second, he shrugged to himself. He still had plenty of mana, and what did fruits contain, but seeds? Instead of two of those plants, he could have dozens. He kept pouring the mana in.
+
+The fruits fell. They rotted away. The seeds within germinated and grew anew. The plants grew all over one another. They didn’t grow as thickly and verdantly as the first plants, but the sheer volume overweighed quality in Rhys’ heart. He wasn’t here to deliver high quality goods. He was here to deliver trash that just barely cleared the mark of sellable. If some of them were high quality, he certainly didn’t mind that, but while he was starting to get his business up and running, he needed quantity more.
+
+The longer-lived plants sucked up more mana, taking longer before they reached their herb-relevant stage. Some, like the bushes, he could simply let grow in abundance. He only needed their leaves, so the more leaves and branches they put out, the better it was for him. Others, he needed the seeds or fruits of, and so he had to be more careful about delivering them mana. The flow from the trash grew weaker, and as it did, he gained more control over it. He cut back mana to those plants which had already fully grown, and pushed more into those that could infinitely grow, or which needed nourishment.
+
+The mana petered out. It slowed to a trickle, then a drip, then a halt. Beside him, the fire died as well as the last of the trash burned out. Rhys lowered his hand and breathed out, exhausted. His vision wavered. His heart pounded in his head, and heat burned from his forehead. Just like when he’d first practiced with mana, he was mana-sick, but worse this time than ever before.
+
+But what gains he’d made! A fresh pile of compost. A core more than double its original size. Five plots of herbs, ready to be harvested and sold. And a technique that allowed him to rapidly gather mana, expand his core, and obtain impurities to research. He let out a sigh, tired, but proud. He took a step back, meaning to retreat to his newly furnished cave, but stumbled and fell to the ground. Lying there on the dry earth, he let his eyes drift shut. He’d done it. Everything he’d imagined and more. Now, to capitalize on his gains.
+
+But first, sleep. His eyes shut one last time, and he knew nothing but oblivion.
+
+A figure stepped out from around the edge of the valley. Their eyes darted to Rhys’ plants, and they stepped forward.

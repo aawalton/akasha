@@ -1,0 +1,164 @@
+---
+id: 1b444ce8-3bc3-5b49-8086-3ab5865f721a
+page-type-slug: story-chapter-royal-road
+title: "53 - Within The Castle Walls"
+slug: 0054-53-within-the-castle-walls
+partOf: gamer-girl-evolution
+position: 54
+ownLength: 1984
+unit: words
+ownProgress: 765
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3243876/53-within-the-castle-walls"
+royalRoadId: "3243876"
+---
+
+[You have received some rewards for being the first in the world/zone/region to clear the Main Quest on Floor 2.]
+
+[You have received some rewards for being the first to defeat the Cyclops in the world/zone/region on Floor 2.]
+
+Just as Celica was pondering what she should do, several system notifications sounded. Out of instinct, she opened her inventory. And when she did, her eyes lit up.
+
+These items... She sighed as she looked through the items she'd gained from the system. Even though they were insanely good items, she wasn't satisfied. No, rather, it was because they were insanely good items that she was unsatisfied.
+
+Attempting to run would be no different than suicide. It would be disrespectful to not only the king, but also to the commanders. Each and every one of them are over level 500 and can kill me instantly. I know that but...
+
+Her eyes glinted briefly. She wanted to cry, but she knew that wouldn't solve anything.
+
+Guess I can't be first on every floor.
+
+After exhaling a sigh that was heavier than necessary, Celica began following after Semmia. But just as she was about to enter the enormous castle, she paused slightly. She opened her inventory again and instantly used one of the items she'd just gotten from the system. Then, she equipped another item.
+
+Just in case, she thought to herself.
+
+"Is there an issue?" Semmia said slowly, noticing Celica had briefly stopped at the door.
+
+"None." Celica said, finally walking past the double doors into the castle. As she did, both the doors swung shut with a slam.
+
+Inside the castle, the marble floor stretched out beneath Celica's boots endlessly. As she moved deeper and deeper into the castle, she could see more and more guards and nobles passing by. She couldn't help but notice how clean the place was.
+
+Even in her original timeline, she had never entered this place. Primarily because the devs had designed it so that you couldn't. Truthfully, she was surprised the interior of the place had even been rendered and that it wasn't just an amalgamation of floating pieces of virtual chunks.
+
+It wasn't a game-world anymore. For some reason, her brain was having difficulty reconciling that fact.
+
+Semmia walked ahead, her pace measured but light. She walked freely and completely unfettered. If someone had just been introduced to her, they never would've guessed that a mere thirty minutes earlier she'd been in a life and death struggle with a freakish ancient monster.
+
+Celica's gaze wandered. First, she looked towards the other commanders, but none of them were speaking. Their quiet and composed demeanour spoke volumes.
+
+Then, she looked ahead of them, at King Sebius. He was walking quite leisurely, also in silence. Why did he make up the lie that he knows me? Just what is he thinking... Celica thought to herself as the King turned in the direction of a luxurious looking door.
+
+Semmia's tone shifted as she stopped. "And here we are. This is the meeting room." She gave Celica a small smile as she walked in. Celica followed after her, choosing to sit in the only seat left.
+
+The one directly opposite the king.
+
+"I know the appointment ceremony was sudden," King Sebius began, a small grin tugging at his lips. "But I thought it best to strike while the iron was hot. There's no sense in waiting. Not when we had such an excellent opportunity to make things official." His gaze flicked over to Celica, and they made eye contact. "I hope that's acceptable for you, Wisdom Hands?"
+
+Celica blinked. You're going to keep this lie up? Internally, she was a tad bit unhappy, but none of that showed externally. "It's fine," she replied, keeping her tone neutral and her posture the same as ever.
+
+No need to overthink anything.
+
+The King nodded. "Good. Now, let's get to the most pressing matter at hand." His expression shifted slightly, becoming more serious. "As one of the great commanders your responsibilities are significant. I understand that you're skilled, but we need to be sure that you won’t hold back the more experienced commanders. It's been some time since we last met, so you should've had sufficient time to train. I want to ask you again. What level are you?"
+
+Celica's eyes narrowed slightly. She thought for a second, mentally calculating the number she would give. She straightened her posture a little more.
+
+"522," she said, her voice steady.
+
+A faint pause.
+
+Doran was the first to react. He frowned. Subsequently, his gaze shifted to the others. Their expressions were all roughly the same, and it was obvious that they'd all come to the same conclusion. As the leader, he was the first to voice their common concerns. His voice came out low and heavy, but it was more than powerful enough for everyone in the meeting room to hear it loud and clear.
+
+"It's too low. The minimum level requirement for a Great Commander in Earthonia is 540."
+
+Celica's expression remained neutral. She had expected him to say as much. She cleared her throat and held her ground. "It's because of my job class," she explained, her tone casual. "I'm a Supporter. My job class struggles to gain experience points. It's neither good nor bad, just wisdom has made it so."
+
+Ulza, who had been quiet until now, raised an eyebrow. "Supporter?" She said the word like it was a riddle of some sort. "Is that one of those special unique classes?"
+
+Celica nodded in affirmation but didn't offer a more detailed explanation. For now, she thought that the more she left unsaid the better. If they probed too hard about her skills and such, she wouldn't be able to answer. After all, she had only completed her first job change and had just three unique skills.
+
+Besides, she wanted to cut this meeting as short as possible so she could perhaps try to clear the main quest first. But it was looking more and more unlikely that she'd get the chance to.
+
+"That would explain the extremely strong buffs..." Grand Commander Doran said, his face contemplative.
+
+The King's brow furrowed slightly. "Interesting..." His fingers rubbed together and his eyes never left Celica's face. His voice took a more abrupt tone.
+
+"You're not a native, are you?"
+
+A heavy silence fell over the room and Celica's heart skipped a frame.
+
+Did he really just...
+
+The weight of the question hung in the air.
+
+So much for a strategic meeting, this is just an interrogation! Not that I expected anything different...
+
+Throughout all of the in-game lore, King Sebius was a very cautious person. However, she also knew he was an opportunist by nature. If King Sebius thought somebody could be useful in some way, it was unlikely he'd discard them.
+
+Triton's eyes widened, and Thorne froze in place, his arms folding across his chest as his lips pressed into a thin line. The commanders all exchanged looks, shifting subtly as if the room had just grown several degrees colder.
+
+"What are you suggesting, Your Majesty? Could it be... you mean to imply that Wisdom Hands is a Player?" A voice cut through the silence. It was Earthonia's great shield.
+
+King Sebius didn't answer, opting to maintain his current neutral expression.
+
+Ulza scoffed under her breath. "A player... is that even possible? How could a level twenty or so Player survive in a battlefield where level five hundreds were battling? And to then be useful?" She glanced around the room, looking for someone to agree with her, but the other commanders remained in thought.
+
+Her words, while somewhat derogatory towards the majority of the player base, were undeniably true. It was unheard of for a player down hundreds of levels to be useful in a scenario like that.
+
+"Ulza's right. It's very unlikely that Wisdom Hands is a Player. It would be borderline impossible." Thorne confirmed from the side.
+
+Doran nodded in agreement.
+
+Ophel said a single word. "Agreed."
+
+"What does Lady Wisdom have to say about the issue?" said a voice beside Celica. It was the Mage Commander.
+
+"I'm a native," Celica said, a wise smile blossoming on her face.
+
+The room grew even more silent now. Semmia's lips twitched as she stared at Celica, the cogs clearly turning in her head.
+
+The King was the first to speak. "Lying to a Realm King. Now that's a serious offense."
+
+"I am aware." she said, keeping her tone even and her voice stable.
+
+I am aware that if you find out I'm lying to you, a drastic reduction to my current stat points would be the least of my worries...
+
+The King tilted his head slightly. His eyes locked onto hers, sharp and calculating. "I believe you. You are indeed not a player. At least, it is as Ulza said. I cannot conceive of a reality where a player could accomplish what you did."
+
+"Right?" Ulza said in response, but all she earned was a side glance from the king and silence from the other commanders.
+
+King Sebius continued. "I never meant to imply you were a player to begin with."
+
+... What?
+
+"You're not native to Earthonia, are you? Which realm did you grow up in?" King Sebius spoke, finally revealing his game.
+
+What a troublesome question... Celica sighed internally. It was a particularly insidious question, since he was implying that it was likely she was a spy. All of the commanders, without fail, picked up on that detail.
+
+"I'm an orphan who was abandoned in the grey mountainous region of the second realm. The memories of my childhood are all quite foggy—just constant killing of monsters. At some point, I met my teacher, who raised me among monsters and guided me to become a Supporter. It was from her that I learned the paths of Wisdom. She believed, given my appearance and the good luck charms I was carrying, that I was born to Earthonian parents."
+
+The commanders exchanged glances, and the King's expression remained neutral. Celica also made an effort to maintain the poker face she was putting on.
+
+Did they buy it? She couldn't be sure.
+
+"Where does your teacher hail from?" King Sebius followed up.
+
+"The Second Realm." Celica replied.
+
+"Where does your loyalty lie?" King Sebius spoke again, giving her no time to think. Celica felt the weight of everyone's gaze fall upon her. She was used to that though.
+
+"Humanity."
+
+The King paused, frowning for a split second before regaining his neutral expression. "Ha ha. Good answer. I trust you're telling the truth."
+
+Celica remained neutral, picking up a teacup from the table calmly. She took a small sip, put the teacup down, and then adjusted her posture.
+
+By now, all the commanders present could tell that the King had in fact not known about Celica previously. There was simply no way he'd keep a suspicious character like her around while knowing nothing of her origins.
+
+He wasn't that type of king.
+
+Then, the reason he'd appointed her earlier was to save face and perhaps make a connection. Not only that, it was also to ascertain her loyalties in a way she couldn't possibly decline. A request from a realm king was no different from an imperial mandate passed down from the heavens. No civilian of any realm, or even nobility, could ever decline.
+
+The presence of the other commanders here served as the king’s security. He was confident that with all of them present, even in the worst case scenario, they would be able to restrain her. Once they had connected all the puzzle pieces, their expressions shifted. They all instinctively knew what was coming.
+
+King Sebius spoke once more, breaking the silence he himself had created.
+
+"It's impolite to hide one's face in front of a King. Nevermind a Realm King. Show us your true face, Wise Commander."

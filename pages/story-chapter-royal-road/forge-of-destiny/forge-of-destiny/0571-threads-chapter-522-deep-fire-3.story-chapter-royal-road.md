@@ -1,0 +1,177 @@
+---
+id: 2d8f1358-796e-5012-8eef-f60af90f4293
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 522- Deep Fire 3"
+slug: 0571-threads-chapter-522-deep-fire-3
+partOf: forge-of-destiny
+position: 571
+ownLength: 2253
+unit: words
+publishedAt: 2026-05-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3446970/threads-chapter-522--deep-fire-3"
+royalRoadId: "3446970"
+---
+
+There was only the quiet sound of tea pouring from pot to cup, and the wind blowing through the garden chimes. Ling Qi knelt in the absolute privacy of their family wing’s dining room and pressed her head to the floor. On any other occasion, she suspected Mother would be frantic with her for breaking propriety like this.
+
+Right now, Mother methodically mixed a drop of honey into her tea, let out a long breath, and swallowed her cup in one long drag before the cup hit the table with a soft clink.
+
+"You believe that this method will not do you any permanent harm."
+
+"Master Meng Duyi is certain that the spirit does not have any access to shen. It is simply an exceedingly large pool of potent fire qi, the most potent of such pools in the region. If there is a greater entity, it is something deep in the crust, which cares not for actions spanning less than centuries," Ling Qi replied, keeping her forehead to the floor.
+
+"I do not like this. If you say your arts are sufficient, you will not be hurt like that again. I will have to believe you," Ling Qingge said coolly.
+
+Ling Qi winced at the cold in her mother's voice.
+
+"If it is on the battlefield, there is no helping it," Ling Qingge said, low and pained. "There was no excuse here for seeking counsel before committing. Ling Qi, you know I cannot stop you. Why?"
+
+Ling Qi raised her head guiltily. "I worry my resolve will waver if I see you so upset when I explain it. Because I had hoped not to, even if it was an option."
+
+It was a simple, childish reason, and she knew it was no excuse. If she had to face that expression before the need was locked in… There might be other methods, but they all took much more expense and danger, and risked greater damage to their infrastructure. From a cold standpoint, her proposal was the best option, but the cold standpoint was not the only one that mattered.
+
+And also, she had no excuse for being such a coward, given everything she had faced.
+
+Her mother inhaled deeply. "If you are truly unharmed in the end, I will forgive this rashness, but Ling Qi, although I will be forever grateful for everything you have done…"
+
+"If I do this again, it will damage the relationship between us," Ling Qi acknowledged. "I am sorry. This impulsive daughter did harm in her cowardice."
+
+"She did. See that it does not happen again," Mother instructed, and to Ling Qi's surprise, she leaned forward, reaching out to cup Ling Qi's cheeks. "I have quite enough stress from these meetings. You owe me, young lady."
+
+She grimaced and nodded, rising back to her feet. "Very soon, Mother, I'll bring Meng Dan to you. Xuan Shi should be along later. I'm going to send him to help with the warding."
+
+"No more dawdling. Lady Cai is waiting for you outside the wing."
+
+"I know. I'm sorry, and thank you, Mother."
+
+They would have a longer conversation later, she was sure, but she had a different kind of music to face now.
+
+She passed through the halls of her family's wing of the manor quickly, feeling her liege's presence as a low pressure, like a mountain had just parked over her head to hover there. Ominously.
+
+"Lady Cai, my deepest apologies for making you wait at my doorstep," Ling Qi said as she stepped out of the hall, bowing horizontally at the waist.
+
+"It is forgiven. Ny presence here was unannounced. The appointment in the yard is not for another hour yet."
+
+Cai Renxiang didn't sound particularly forgiving. Ling Qi didn't point that out though, instead straightening out and falling in behind her as she turned to walk.
+
+"I dislike being misappraised of the plans I am approving."
+
+"I had hoped not to use the eventuality, but yes, I was remiss in not presenting it among the possibilities. However, I know you understand the process of my decision."
+
+Renxiang was easier in some ways because the cold approach had so much power for her. It made her feel all the more foolish for choosing to hold back on the option when explaining her plans to Renxiang. She knew the girl would have been unhappy, but ultimately, would have accepted it as a possible token of negotiation.
+
+"What made you choose to exercise it?"
+
+"The spirit's spite. I failed to recognize how upset it became at failing to burn myself and Zhengui," Ling Qi revealed. Earth was the qi of community. Mixed with fire, scorching grudges were not an unthinkable result. "Despite everything Zhengui and I considered, we did not truly believe it would take that much exception to being resisted."
+
+"And so, offering yourself whose face it had attached a grudge to to serve as the focal point brought an ironclad agreement." Cai Renxiang shook her head. "I dislike it, but I accept it. You will lay out all the options you are considering, no matter how unlikely, in the future."
+
+"Yes, Lady Cai," Ling Qi said. "May I ask where we are going? Do you want to spar one-on-one before everyone arrives?"
+
+She would take her pummeling with some dignity, she hoped, but she had already accepted that it was a possibility.
+
+"No. Although in the first round of our exercises, I have decided that you will serve as the opponent. You should hone your multitasking with your construct generation art."
+
+"Ah."
+
+Well, she was going to give a good accounting of herself, but…
+
+"I will be limiting my involvement to support arts."
+
+At least, the other retainers were still going to have to work for their victory.
+
+"However, that is not where we are presently going." Cai Renxiang said, turning down the hall that led to her office rather than out into the sparring yards.
+
+Ling Qi lowered her head with a sigh. There she was, getting her hopes up when she should know better.
+
+"We will be reviewing every single detail of the geomantic array devised by the two of you and Meng Duyi, and you will be writing to Sir Xuan, so you will not spring this on him at his arrival for his visit."
+
+"I had planned to do that already," Ling Qi ventured. "The letter, I mean. The array review… I will be happy to provide Lady Cai with peace of mind that my addition will not interfere."
+
+"Good. After that, you will compose letters to every nearby interest explaining why an explosion of this size will be occurring on the date you agreed, including the denizens at the summit location and the sect, as well as the southern army command posts in the region. You will, of course, be replying to all of these and reassuring any concerns that they have," Cai Renxiang ordered, opening the door to her office.
+
+"I suppose I will be using your stamp, speaking for the lady of Shenglu?"
+
+"Indeed. As the subject matter expert, I shall cede the wording to you."
+
+It's not as if she didn't know what she was getting into, choosing as she did.
+
+***
+
+She was thankful, Ling Qi thought, looking down at her palm and flexing her fingers, that as a cultivator, she could alleviate any but the most severe aches in her body with just a small effort. Else, she was afraid that her hand might have become locked into a rictus claw.
+
+"Do hang in there, Lady Ling," Meng Dan consoled.
+
+They were outside under the open sky. She leaned against the rail of the balcony, and Meng Dan stood beside her, just at the edge of a polite distance. Cai Renxiang was across the way, holding a quiet conversation with Gan Guangli, which buzzed against her senses. She deliberately left them their privacy. And last but not least of the retainers…
+
+"I have heard that you will be our opponent today. I have also just heard about the new project you have taken on. I worry. How much of the General's flame did you say you had expunged?"
+
+"All but an ember," Ling Qi defended. "I will be fine. Between Qiyi, Zhengui, and my own arts, I am confident I can take any single blow not infused by Law."
+
+"Be wary of combinations, then. Even an explosion may have stages," Xia Lin replied.
+
+That was a fair point. It wouldn't do to be too arrogant. She had to prepare herself to actually pull everything into her defense, both she and Zhengui.
+
+"Regardless, what art are you practicing that Lady Cai wishes to test us all against it?" Xia crossed her arms over her chest with a creak of metal plates.
+
+"Gan Guangli and you, surely,” Meng Dan corrected. “Like Lady Cai, I am primarily a set of eyes. Given Miss Ling's mist, that may be vital indeed."
+
+"So, I should take you out first?" Ling Qi tilted her head. "Since Lady Cai is out of bounds."
+
+"Ah. Oh, dear. I may have put myself in danger." Meng Dan rested his cheek on his hand.
+
+"Cease," Xia Lin said, unamused. "The art."
+
+"Beast King's Savage Dirge. I have refined it significantly, and its use comes much more smoothly to me now," Ling Qi replied. " I will be working on the Bear God's verse. I've left it unstudied for so long beyond the base performance, but if I'm on my own, my beast constructs will need more resilience."
+
+"And some brains to go with that buff!"
+
+Ling Qi turned her head, amused as Sixiang hopped the banister, landing on the packed dirt with a light thump and the faintest whirr of turning gears. "Of course, I am never really alone."
+
+"Darn right you're not," Sixiang cheered.
+
+"I had wondered. You are strong and difficult to pin down, but I was somewhat irritated when it seemed that you would not have any of your spirits," Xia Lin said. "Good."
+
+"I have a feeling that this spar isn't exactly supposed to be fair for me, or at least, not this first exercise," Ling Qi cautioned. "If that makes you feel better."
+
+"A good point." Xia Lin touched her chin thoughtfully. "Meng Dan. You will not go easy just because of your infatuation."
+
+"I would never!" Meng Dan exclaimed. "Not the least because no one would appreciate that."
+
+"True, true, can't have Ling Qi getting it in her head that you're looking down on her." Sixiang looped an arm around her shoulder. "Ling Qi, are you ready for me to merge?"
+
+"Go ahead, Sixiang. And I would be disappointed in you, if you misjudged me that badly, Meng Dan."
+
+There was a soft sigh of rushing air as Sixiang's illusory flesh dissolved in a brief haze of rainbow smoke, and she felt their comforting presence fill her mind. The mannequin Sixiang had been occupying slumped against her shoulder, and with a gesture, she drew it into her storage ring. A talisman so complex, storing it filled te ring’s capacity to near limit in a flash, but it was fine to store temporarily.
+
+"I am pleased to not be so foolish a man," Meng Dan said.
+
+"I have no room for fools at my side. The tolerances for such are already strained as is," Cai Renxinag approached from the other side of the ring, Gan Guangli towering at her side.
+
+"Moons, you really got under her skin. Maybe go for a different element in your next tribulation," Sixiang mused.
+
+Ling Qi would take that under advisement.
+
+"Hoh! I look forward to the clash with you, Miss Ling, all else aside!" Gan Guangli enthused.
+
+"I appreciate it, Sir Gan. Let us have a good match," Ling Qi replied airily. Enough was enough. She simply wasn't going to let these little jabs wear her down!
+
+"Oh, solid young miss there. You haven't done that in a while. Maybe find an excuse to use that voice with Xuan Shi. I bet he's into that."
+
+Ling Qi did not let her expression twitch, nor did she splutter. Why had she invited Sixiang back in here on the regular again?
+
+"'Cause you missed me, and ya need me!"
+
+"Oh, dear me. Strife between companions before the match even begins. Be careful, Miss Ling. You shall need your wits about you," Meng Dan teased.
+
+She huffed. "Let's just get to our places, shall we?"
+
+"Indeed," Cai Renxiang said. "Ling Qi, you shall have two minutes to set the field, as this is an exercise meant to simulate attacking a prepared formation."
+
+Even in mild punishment, Cai Renxiang was always practical.
+
+Meng Dan gave her a cheery wave as he and the others trooped to the far side of the yard. A proper training facility might have some distance-warping formations in place to make for more realistically sized cultivator battlefields. Some of the better Inner Sect fields were like that. Still, even with Renxiang's wealth, it wasn't easy to get the attention of a formation master who could create stable, long-term arrays like that.
+
+So, she was going to have to take into account the fact that the distances here could be crossed in moments or even faster, probably, in Xia Lin's case. In this field, her friend might as well be able to teleport just as she did, limited only by still needing to pay some attention to momentum.
+
+Cai Renxiang gave her a small nod. Ling Qi began.

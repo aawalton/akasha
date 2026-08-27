@@ -1,0 +1,155 @@
+---
+id: bba76098-fdd0-580b-9380-bbd150c4c9fa
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 408-Courtesies 3"
+slug: 0452-threads-chapter-408-courtesies-3
+partOf: forge-of-destiny
+position: 452
+ownLength: 2157
+unit: words
+publishedAt: 2024-10-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1861825/threads-chapter-408-courtesies-3"
+royalRoadId: "1861825"
+---
+
+Cai Renxiang considered her for a long moment. Ling Qi heard distant snarling again, wordless and incoherent. Her liege set her cup down.
+
+"Very well. An insight for an insight, that we might put this disagreement to rest."
+
+Cai Renxiang laced her fingers together in front of her face, eyes focused somewhere beyond Ling Qi. The rays of light which shone weakly around her at rest brightened. Rays of light were cast into the corners of the room, chasing out shadows and outlining motes of dust that were swiftly erased by its purity. Somewhere, far away, a bell chimed softly, and paper shuffled, a soft and soothing susurrus.
+
+Ling Qi let out a breath, and frost crackled across the warm surface of the tea in her cup. Wispy lines of silver mist escaped the hems of her gown to crawl along the floor as her shadow stretched long under her liege’s light, tall and inky black across the wall behind.
+
+Liquid light gathered along the seams of Cai Renxiang's clothes and highlighted her dark hair. In the light, her skin seemed almost metallic, but her eyes were clear and human still.
+
+Ling Qi was not so different. She saw herself from every angle as she saw Renxiang, the women in the kitchen, Zhengui in the garden, Biyu in her painting room, and Mother in her study, along with everyone else in her household. She was a tall wraith with starry hair blown by the wind, eyes of silver blue ice blazing from within the shadows of her face, and a slim crescent smile. Dull angry flames still flashed and crackled within her, eating away at the shadows even as they were smothered by them.
+
+These were but shadows of who they were, the meanest visual expression of their domains.
+
+Now, she had to choose what to share, some concept that Renxiang would both resonate with and needed most.
+
+Cai Renxiang was not wrong. Family and community were not without flaws and vices. However, her liege did not understand them well enough. Given her history, why would she?
+
+But the systems she loved could not exist in a vacuum. Without some fundamental level of community and sense of belonging, there was no set of rules which would not be twisted and bypassed. If she could impart but one insight…
+
+"Trust arises from choice. Love arises from trust. There can be no perfect safety, save in death. For love or trust to exist, so must the chance of heartbreak and betrayal."
+
+She spoke without sound, letting the words imprint themselves on the longing and desire represented in the mist curling so protectively around them both. She could not see into her friend's mind and could not know with absolute certainty that her path of light and gleaming metal would not one day clash with her own path of soft mist and falling snow. Just as Renxiang could not know that the wind and the dark would never clash with ideals forged in steel.
+
+But nonetheless, she was here because she trusted Renxiang.
+
+This, too, was kinship, and the bond required trust.
+
+Cai Renxiang's eyes burned with inner light as her steel fingers clenched, metal grinding on metal. Her mouthless, smooth mask of liquid light turned down as she lowered her head in acknowledgement.
+
+Cai Renxiang's intent did not need words when they were like this; her thoughts were carried on the light she cast throughout the room. Perfect perception, or the perfect knowledge of other minds, was impossible. Perfect control could not exist so long as other people did. This, she understood. To desire this would be to step beyond even the Tyrant Progress and to become something far more terrible. She had gazed down that path, seen its end, and turned away. It had been the beginning, the first of the Tyrant's lessons she had refused.
+
+And yet, it was still painful to acknowledge that this truth extended its roots so far down to every conversation, every connection, and every system. To the ticking clockwork heart in her chest, to build something, knowing that it would be twisted in time, was a deep pain that would never disappear.
+
+The sound of that heart grew louder, the turning of gears and the motion of mechanisms echoing within Ling Qi's mist as Cai Renxiang raised her head and brought her own truth to bear.
+
+"An administrator is only as good as the information they receive, only as good as the eyes and ears and hands of their subordinates. It is not enough to be a perfect, distant figure, high in the sky."
+
+There was a precision in her words that Ling Qi’s lacked, a sharp edge of logic to the meaning, but Ling Qi received the truth her friend spoke with relief. Her mist received the light and refracted it into a collage of images of people working in tandem, of cooperation and the well oiled work of people familiar enough to work together without friction.
+
+To hear Cai Renxiang say such a thing brought her relief. Though she might claim to be at odds with Ling Qi's Way in some ways, they were not truly so opposed. What Ling Qi called “community,” Cai Renxiang might call by the word “system.”
+
+Light thrummed like the strings of an instrument. No, the light said, that was reaching too far. Their Ways did not converge so conveniently. There were differences, fundamental and foundational between those two concepts.
+
+But they were, perhaps, the place where communication would remain possible, even at the peak of cultivation.
+
+Systems needed people, needed trust, needed attachment and support. And people needed systems, needed rituals, needed traditions, lest every little community and family turn their hands against those outside their smallest circle.
+
+Ling Qi bowed her own head in understanding, the halo of stars that was her hair twinkling and swirling. She was thankful to her liege for being willing to speak so candidly.
+
+And like a breeze blowing through the mist, their power faded, the light and the stars and shadows and steel fading away, and they were once again two young women sitting at a table over tea. The only sign of their higher communication was a bit of frost clinging to the corners of the room and the suspicious cleanliness of every surface.
+
+Ling Qi let out a breath, glancing around. "I am glad none of the paint was bleached."
+
+"I am not so uncontrolled. You, on the other hand, require further training. The dampness which you subjected the wood to could cause a mold, if not properly taken care of," Cai Renxiang replied, drawing a deep sip from her cup.
+
+Ling Qi made a face. "I will take care of it. I'm not so irresponsible, even if we are moving out soon."
+
+"See that you do. Even small matters are important for reputation." Cai Renxiang had a small smile, hidden behind the rim of her cup.
+
+Ling Qi was glad for that much, even if she could still see the turmoil in her liege’s qi and feel Liming's heavy gaze upon her.
+
+"So, may I ask what other plans you have? Knowing you, you did not come north just for this visit. That would be inefficient."
+
+"Indeed. There are some deliveries and other logistical concerns which I must raise with the portion of the sect devoted to business so that we may continue to keep a high tempo on the goods moving to Snowblossom to accelerate construction. They should all be resolvable without too many troubles…"
+
+Ling Qi settled herself against the back of her chair, letting her liege’s words wash over her. She and Renxiang were not the same, but they did not have to be.
+
+More than one vision was needed to make a future.
+
+***
+
+Renxiang departed in the evening, and the days rolled on. Harvests were pulled in, people worked, warehouses were stocked, White Cloud Town bustled, and her Ling household continued to prepare for the move. Ling Qi spent her time deep in her letters, keeping conversations going across the province abd letting the little trickles of information flow to her drop by drop. She spent what time she had left with her family and in mediation, following the instructions of the sect's medical experts to regain what she had temporarily lost.
+
+And she was regaining a little more, each and every day.
+
+"Careful," Mother warned. "Take it slowly."
+
+"You've got this, Sis!" Hanyi cheered, pumping her fist.
+
+Zhen squirmed anxiously from atop Zhengui's shell.
+
+Honestly, Ling Qi thought they were overselling it. She was still a cultivator. The only thing that would be hurt if she fell was her pride.
+
+All the same, the short five steps from the garden porch down to the ground had never looked quite so long. She tightened her grip on the silver head of a dark wooden cane in her right hand, steadied herself on it, and took the first step.
+
+It was horrifying, in many ways, how exhausting something like just standing and walking could feel. It made her want to scream at how small and trapped she still felt, even now that she could sometimes leave the tyranny of her wheeled chair.
+
+She felt her knees tremble. Gritting her teeth, she kept herself on her feet as she descended to the second step, and then the third. She felt the strain traveling through muscles and meridians.
+
+On the one hand, reducing the suppressant medication made it possible for her to begin repairing the lingering damage to her meridians. One the other, it made her much more aware of the quite literal burning fires only slowly being banked and extinguished in her very organs and spirit.
+
+Fourth step.
+
+Fifth.
+
+Mother reached out for her as her foot fell on the cobbles, and she wobbled like a frail sapling in the wind. She caught herself on her cane, but smiled thankfully at her mother, looping her free arm around the smaller woman’s shoulder for support. "Thank you."
+
+"It is nothing," Mother replied.
+
+Zhengui lumbered forward, and the air grew hot. Flakes of ash rained down, soothing the sore ache in her atrophied muscles and the burning in her chest. Hanyi hopped down the steps beside her and patted her on the arm.
+
+They began to walk, slowly and without urgency, down the path through the garden, the three of them along the stone path and Zhengui through the flowers. Plants flowed around his heavy footsteps and formed back into their original configuration in his wake.
+
+"Please do not hesitate if you require a moment to be still or sit," Mother said.
+
+"I won't," Ling Qi said. One foot in front of the other. Circulate qi through the charred meridians. Feel the impurity and unwanted qi begin to loosen and crumble, dissolving one mote at a time. "Do you think everyone will be ready for the move?"
+
+"Everyone has prepared themselves. There were a few resignations from those who have found someone here in White Cloud Town. But there is no trouble. The safe room should be movable within a month or two."
+
+"Good," Ling Qi said. "I miss Snowblossom. I want to see how it has changed and how it is changing. But I want you there, too."
+
+"Yes! It will be good to show everyone all of Gui's hard work!"
+
+Hanyi sniffed imperiously. "I'm gonna have to make sure there's nobody lurking around thinking they're the boss of the snows."
+
+… White Cloud Town really was too small these days, wasn't it?
+
+Ling Qi swayed on her feet as they passed the garden pond and grimaced, leaning more heavily on her mother's shoulder as a sharp stab of pain traveled up her leg. "Let's take a moment."
+
+"Of course."
+
+Mother helped her over to the stone bench beside the path. Ling Qi sat down heavily and reached down to massage her calf.
+
+She needed more practice and exercise, but she was getting there. She wasn't far now from beginning to seriously cultivate again. Her path had stalled for a few months, a cost that made her wince, but one she would gladly pay again for what she had bought with it.
+
+"You intend to travel with the caravan next week then?" Mother asked.
+
+"I do. Cai Renxiang will be returning as well. With my little brother and sister by my side and what with traveling through the sect lands, it will be as safe as it can be."
+
+"Then I will wish you a good journey."
+
+"I'm sure Snowblossom will be ready for grandmother and littlest sister soon!" Zhengui exclaimed.
+
+"I look forward to seeing what you have all been speaking about," Mother said fondly. "Our newest member did seem excited to go south."
+
+"I wonder about the sheep Ling Nuan recommended," Ling Qi mused.
+
+"What did you say was being worked on right now?"
+
+"Ah, we’re currently upgrading the hamlet…"

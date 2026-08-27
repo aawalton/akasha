@@ -1,0 +1,149 @@
+---
+id: 75606f08-e07c-56c9-9fa8-bdc1d34b8f66
+page-type-slug: story-chapter-royal-road
+title: "Threads 133 After-Action 2"
+slug: 0161-threads-133-after-action-2
+partOf: forge-of-destiny
+position: 161
+ownLength: 2378
+unit: words
+publishedAt: 2021-09-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/755629/threads-133-after-action-2"
+royalRoadId: "755629"
+---
+
+It was a frightening thing to have the attention of the court of Emerald Seas. It was a pressure weighing down on her, a static skittering across her mind, and a prickling on her skin. It made her wonder what in the world had possessed her to want to speak here and why Cai Renxiang had agreed to allow her to.
+
+But Ling Qi was reminded of the last time she had faced power like this in the Bloody Moon dream. She did not intend to let fear control her again.
+
+“Because of my role as scout, I was able to observe the barbarian meeting in more detail than may have made it into reports,” Ling Qi began smoothly. She kept her eyes fixed downward, using the point where the branch holding the throne pierced the floor to hold her gaze. Ling Qi kept her voice clear and steady. “I believe that I may be able to share some details which may have been judged beneath notice, Your Grace.”
+
+They had practiced this part. There was no avoiding the appearance of going over the head of the Sect to some degree. However, it could be mitigated with the right words.
+
+“You consider your judgement superior then?” Diao Linqin asked mildly.
+
+“My lady and I believe that viewing certain matters from multiple points of view is valuable,” Ling Qi said humbly. She did not raise her eyes or even shift her posture. She held respectfully still under the scrutiny of the court.
+
+Cai Shenhua's chuckle was deep and throaty. Ling Qi hoped that the approval she heard in it wasn’t just her imagination. “That is enough justification, young lady. Speak, and I will decide whether you are correct.”
+
+“The meeting was not simply between tribes,” Ling Qi continued. “Two of the groups present specifically referred to themselves as ‘confederations’ and made no mention of tribal affiliation. The last group was the tribe which had brought the underground people to the meeting.”
+
+“Shishigui” was a local name coined by sect forces. She had no idea if anyone at the capital would recognize it.
+
+“It is not unusual for the tribes to form alliances,” the Luo representative said. “But she is correct that such terminology is not common. The last time the barbarians spoke of such a thing…”
+
+“Ogodei,” the Wang representative grunted.
+
+“But the meeting was not harmonious,” Ling Qi said once she was certain that there would be no more interjections. “The underground-allied barbarians were suing for aid. The starstone was their bargaining piece. The Twelve Stars Confederation seemed intrigued by this. It is the other, who called themselves the White Sky Confederation, that I wish to speak of though.”
+
+Ling Qi had to stop herself from licking her lips. This was the tricky part.
+
+“The White Sky had the least numerous representation. There were only two. One was a cloud tribesman whose mask style and equipment led me to believe that he belonged to the furthest southern tribes. The other was a woman who was clearly not of the cloud tribes. I do not believe her to have been a prisoner either given the disparity in power between the two.”
+
+“What makes you certain of this?” The Meng woman asked. Her voice was soft and whispery, barely audible behind the fluttering fan which shielded her face.
+
+“She lacked the beast bond of the tribes, and her features were foreign, neither imperial nor tribe,” Ling Qi answered. “Her garments bore the marks of civilized hands. It was nothing to match imperial finery, of course, but it was not the rough furs and stolen patchworks which the barbarians use. She did not seem to speak their common tongue either.”
+
+“Of those, only a lack of beast bond is convincing,” Diao Linqin said. “And even then, it is known that some of the southern tribes behave strangely compared to their kin.”
+
+“If it were only such circumstantial things, I would agree, Prime Minister,” Ling Qi replied. “However, the White Sky also showed little interest in the starstone, and what is more, not even slight interest in alliance. In fact, the Twelve Stars seemed to regard the woman in particular with the same distrust with which the underground envoy was viewed. Together, this gave me an inkling that she may have been an outsider as well.”
+
+“But,” Ling Qi continued swiftly before she could be interrupted, “I only became firm in this belief after the foreigner attempted to speak to me in the middle of the battle, using a maneuver that made it appear as if she was containing me but which conveniently shielded both myself and my spirits from attack.”
+
+There was silence in the wake of her words, and here, Ling Qi could not help but swallow nervously.
+
+“Hoh, interesting.”
+
+Cai Shenhua’s words echoed in the vast hall, and Ling Qi felt her shoulders buckle as twin beams of radiance fixed upon her back. She didn’t have to look up. She could see the limitless pools of light in her mind's eye, the punctures in the human face worn by the Light that was Cai Shenhua.
+
+“It is my belief that the foreigner saw some similarity in our arts. “Ling Qi croaked out. It was hard to breathe. Sweat broke out on her skin. It felt like something was intruding in her skull, precise and clinical. “If it may please the court to know, I practice an art passed down directly from the ice spirit of White Cloud Peak and am as a sister to that spirit's daughter, now that my teacher has passed. I think the foreigner mistook me for kin of some kind.”
+
+Someone said something, but it was hard to hear. One of the representatives murmured something about honorable lineages. The imperial ambassador said something less kind. Someone else said something sniping back. Tears sprang up in the corners of her eyes as the pressure mounted. Ling Qi’s arms shook as she struggled to stay upright and kneeling.
+
+She didn’t allow her back to bow.
+
+“You state that this barbarian did not speak the tribe's common tongue. How, then, did you communicate?” A voice, Diao Linqin’s, cut through the pressure. Pale pink rose petals closed around the burning radiance that threatened to crush her, loving and covetous.
+
+Through bleary eyes, Ling Qi saw the throne. Cai Shenhua’s radiance had grown less diffuse. Ling Qi could see her figure now, leaning forward in her seat. She wore a sheer and scandalous gown, a pure white thing with a deep cut that could not be called a neckline, a deep “V” that went all the way down to her navel with only thin strips of fabric preserving a hint of modesty. A feathery white shawl, a pibo, floated around her shoulders and coiled around her bare and muscular arms.
+
+Diao Linqin’s hand rested on her back. Or at least she thought it did. Nothing aside from blazing light was visible above the Duchess’ shoulders.
+
+“Due to some good fortune and scholarship, this one had reason to learn some of the old hill tribe tongues,” Ling Qi whispered. “Though the language the foreigner spoke was not the same, I understood enough to have some comprehension.”
+
+The worst part, Ling Qi thought, was that she was almost certain that the Duchess had not been angry or even excited. Her words had said it all.
+
+That had only been interest.
+
+“She offered aid, I think, and asked after my… Lineage,” Ling Qi continued, despite the dryness of her throat. “I did not have time to decipher much—Lady Cai was battling the underground beast even then—but I sang my teacher's Name, and it seemed to distress her. She threw a sliver of iron from her weapon at me before disappearing to flee the battle.”
+
+“I do have to wonder why you bothered with even that much for a barbarian,” the imperial ambassador said disapprovingly.
+
+“We were outnumbered,” Ling Qi said. “It seemed foolish to bring another peak third realm into a battle in which we were already struggling.”
+
+“Reasonable enough,” the Wang representative grunted. “No use holding principles above effectiveness.”
+
+“An intelligent action,” the Luo agreed, casting a sour look at the ambassador.
+
+The ambassador sniffed dismissively. He obviously disagreed.
+
+“Produce the sliver,” Cai Shenhua spoke, and all other conversation ceased.
+
+Ling Qi didn’t hesitate. She was only an image here in the court, but she doubted that would matter to Cai Shenhua. The sliver appeared, painfully cold in her palm, and she presented it. Before Ling Qi’s eyes, it jerked into the air, and radiance crawled across the iron, sinking into invisible imperfections and cracks and suffusing the item.
+
+However, so close to what was happening, Ling Qi saw Shenhua’s radiance pause, stymied if only briefly by the cold darkness that slept in the metal. She might have imagined it really, so brief as it was. The sliver dropped back into her hand.
+
+“It is good that you brought this matter to my attention,” Cai Shenhua pronounced. “It is an organically developed escape talisman meant to draw the smaller piece to the larger one. Mistaken for kin, indeed.”
+
+Her amusement was echoed, if less enthusiastically, by the court. Ling Qi felt Cai Renxiang’s eyes on her back. This was going to be the hard part.
+
+“Is it possible that she was not wholly mistaken?” Ling Qi asked. She steeled herself against the returning pressure of the court’s attention. “Speaking the tongue as she did with her civilized accoutrements… The tribes of the hills are ancestors to many of us, are they not? They were enemies of the cloud tribes, even before they were brought into the fold by the Weilu and the Hui.”
+
+Ling Qi felt the whisper of steel on her skin first, the caress of a blade. She caught movement from the figure in gleaming steel in front of her. General Xia Ren was looking at her now, rather than staring straight ahead.
+
+“You are suggesting something absurd, young lady.” Diao Linqin said coolly.
+
+“Not so much,” whispered the Meng woman, the fan in her hands fluttering. “It is simply a truth too many are eager to forget.”
+
+The Luo representative gave the Meng a sidelong look but made a sound of agreement.
+
+“Young Miss,” the Jia spoke uncomfortably, “it is true that the lotus grows from mud, but it is not the mud. To suggest otherwise is insulting.”
+
+“Pfah, fancy nonsense,” the Wang representative snorted. “Truth is truth. You’re thinking we need not fight these ‘White Sky’ yet, girl?”
+
+“I think they may be amenable to peace in a way that the cloud barbarians are not,” Ling Qi said carefully. “It is true that we are not primitive tribes like our distant ancestors, but may the same not be true? If, as it seems, they grew from the same mud which we did… I only believe the evidence of my eyes. They are not friends of the Twelve Stars and their monster. Perhaps we might find common ground in shared ancestry and enemies?”
+
+“It is known that the Xuan, our allies, have dealings with foreigners of sufficient culture,” Cai Renxiang interjected. Her support had been clear, but putting it into words helped. “Even if it proves impossible, it may give us time to finish our first foes.”
+
+“It is a tenuous link at best,” Diao Linqin said. Her lips pursed irritably, and she looked down toward Cai Shenhua. “However…”
+
+“It is difficult to say that it is wholly wrong given our recent conquest, is it not, my rose?” Cai Shenhua smiled.
+
+Diao Linqin looked like a woman who had recently lost an argument and was still less than pleased about it.
+
+Ling Qi just felt confused. She was happy to see that others in the court all looked confused, too.
+
+“It was my intention to save this announcement for year’s end, timed with the arrival of the first year's tribute,” Cai Shenhua said idly, leaning back to lounge on her throne once more. “But given recent events, it seems necessary to alter the timetable.”
+
+“Your Grace, might I ask you to clarify?” the Bao representative, who had previously been silent and smiling, asked. He looked a touch worried. It was the sort of look Cai Renxiang had worn when Ling Qi mentioned this whole matter.
+
+“I have secured the surrender and tribute of the foes beneath Xiangmen,” Cai Shenhua said as if she were discussing the weather. “The people of Ha-yith-kai, as they call themselves. The barbarians of the underground lands organize themselves into city states. These have surrendered and agreed to become tributaries of the Emerald Seas. Others will follow. The words spoken during my strolls have been most effective.”
+
+“Obviously, negotiating surrender and tribute is possible,” Diao Linqin said, sounding aggrieved. “However, treating barbarians as kin is a step too far.”
+
+“Perhaps,” Cai Shenhua said lightly. “Baroness Ling, do you truly have confidence in your words?”
+
+Ling Qi swallowed, but she could hardly say no. She tried to keep her thoughts clear of the questions bubbling up. “Yes, Your Grace.”
+
+“Then, you will have a prominent place in the delegation. That sliver is bound to a location in the central wall. A meeting point, no doubt. You will begin making preparations for a journey,” the Duchess said easily. “General Xia?”
+
+“Yes, Your Grace?” Xia Ren answered, and it was so deep and echoing that it seemed as if she spoke from the bottom of a well.
+
+“Prepare one hundred of your warriors, and begin heading south. Regardless of this matter, it is clear that the south of the province requires my direct attention.” The Duchess’ lax tone hardened into steel by the time she finished. “And select one of your adjutants to accompany my daughter and her retainer.”
+
+“As for you, Renxiang,” Cai Shenhua said, “you continue to perform well. This pleases me. I shall see to providing further resources for your growth and the cultivation of subordinates. Should this diplomatic effort bear fruit, I shall consider granting you a boon.”
+
+Left unsaid was how badly failure would reflect on them.
+
+Ling Qi finally lowered her head as attention left her. Behind her, Cai Renxiang gave her thanks.
+
+She really hoped that she hadn’t made a mistake.

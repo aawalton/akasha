@@ -1,0 +1,115 @@
+---
+id: b24f9449-694e-56ac-b210-fbb470823573
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 533-Blast 2"
+slug: 0582-threads-chapter-533-blast-2
+partOf: forge-of-destiny
+position: 582
+ownLength: 1940
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3717273/threads-chapter-533-blast-2"
+royalRoadId: "3717273"
+---
+
+It was not too much longer before she found herself standing up on the altar with Zhengui. She stood at the south cardinal point of the altar, at the edge of the hole that led down to the vibrantly glowing plug in the earth below. Zhengui stood at the north. Between them, they represented summer and winter.
+
+The urns filled with earth stood at the east and west, less critical for this ceremony. Despite that, both urns thrummed with qi infused into the dark soil. Bright green shoots of new life glistening with the moisture from the lake waters had been added.
+
+There were no others in the vale now, only them.
+
+Ling Qi moved her feet into place. The slate lit up with the colors of her qi. Zhengui did the same, casting the darkened veil in the mixed light of their power. Mist flowed from the altar like dripping water, and flowers bloomed in the dark. Overhead, a bright moon gleamed among the stars, the last colors of dusk still rising from where the sun had just finished setting.
+
+"Ready, Zhengui?"
+
+"Ready, Big Sister."
+
+A home—their home, and their people—needed many things, great and small. What they would do would change this land irrevocably, and what they changed would change in turn. Today would never go on forever.
+
+That was the nature of turning seasons, the cycle of destruction and growth.
+
+"Here, at dusk, I call upon the fire under earth, sleeping wrath of Nameless flesh," Ling Qi began with her part. Frost crackled across the wood under her feet as the temperature plunged, and flakes of snow materialized from flash-frozen moisture. She raised her hand, and a bell of translucent ice formed. She shook it, letting the high, clear note ring out across the altar.
+
+"I, Qi of the Ling Clan, priestess and steward of the lands of Shenglu, call to the pact made and sworn under Bountiful Earth and Celestial Spark! As the suns fade on the twenty-third day, I accept the challenge of Wrath-Under-Stone!"
+
+The air distorted, and in the space between herself and her brother, the shaft which led down to the plug swirled. Heat met cold, and its interaction birthed a miniature cyclone, a spinning, howling wind that sucked in motes of ash and snowflakes alike.
+
+In the urns of earth, green leaves shimmered and grew, charged with Zhengui's qi as her brother began to stamp his feet in rhythm. He proclaimed in a twinned voice, united in purpose, "I, Zhengui, who will be King of the High Garden, Consort of Snowblossom, brother to Ling Qi, call to the pact made and sworn under Bountiful Earth and Celestial Spark. As the Sun fades on the twenty-third day, I accept the challenge of Wrath-Under-Stone!"
+
+Clouds hung dark overhead, the rumble and spark of lightning deep in their bellies. The earth was silent, still and waiting. Blue and black qi spun together in the storm between them, mingled with crimson and green sparks of light.
+
+Ling Qi had tried several times in her cultivation to find some thematic link with Zhengui. She had tried to make gardens with him and contemplated hearthfires and homes. It had all never struck quite right. She treasured the little garden shrine they had made together, and had enjoyed working on the beds at Boiling Deep, but it was not the tie she sought. In the end, she had been trying too hard in her attempt to find how she needed to change herself for her brother's sake.
+
+In truth, the link had always been there. Devouring flame and crushing cold were both endings that left the soil barren, ready for new growth. Stagnation was their enemy. Stillness gnawed at them both. They both dreamed of sovereignty, to reshape the barren world into a home, bright and strong and hard against the world's cruelties.
+
+They shared a stubborn, bloody-minded obstinacy, believing they were the protectors, the ones who should suffer the world's slings and arrows. This stubbornness led the two of them to stare down the power welling beneath their feet, certain they would weather it.
+
+Home was something one built up, brick by brick and person by person. Structures could be shattered, and people lost. Pieces came and went, but the whole remained. Though the shape or location may change, so long as they held that image in their heart, it would always remain home.
+
+The qi under their feet shook the earth. It was a low rumble at first, a subtle vibration that rocked the entire veil, but it kept growing and growing. The plug fixed in the earth flared brightly, the colors of the four seasons and directions lighting up in sequence.
+
+There was a sharp, thunderous report as meter-thick clay cracked, the fissure going clean through the plug's center.
+
+Heat.
+
+This was not the liminal where metaphor and reality blended. Ling Qi's eyes watered, and the bell of ice in her hand shone and glistened. A cloud of steam engulfed her upraised hand.
+
+Silk constricted around her body, a dense black weave spinning into existence to shield her from head to toe. A twinkling shroud veiled her face, and her body was clad in night.
+
+Zhengui's stamping feet came down one last time. His forelegs bent, lowering his belly even closer to the ground, as he braced for impact.
+
+A solid core of white, nearly translucent, flame roared from the hole and enveloped them both. Splinters of hardened, burnt clay pelted them, the impacts enough to embed the shards in rock, and yet, they scattered off her gown and off his shell like flung pebbles.
+
+The heat simmered down. Ling Qi stopped breathing, knowing she couldn't invite such qi into her body, lest it reignite the sparks that remained in her dantian. Ash boiled off of Zhengui's shell as well, consumed by the inferno, which licked and scorched at his scales.
+
+"Old flame consumes. Old flame dies. Summer sinks into autumn, and the world turns," Ling Qi spoke without speaking, refusing the flame entry into her lungs. Her qi vibrated the air to raise her voice to a booming pronouncement.
+
+"Winter passes. Floodwaters come. Spring rages, and green riots, conquering the world. New flame feasts on ashes old, and the world turns." Zhengui did not use such tricks. Emerald flame fell from both of his mouths as he spoke, carried away in blazing white.
+
+The world shook, and shocks of magmatic red shot through the flames. The altar, reinforced a thousand times over, creaked, groaned, and charred. Paint blackened, peeled, then boiled. Timber from trees that burned and crackled with every rise of summer warped and scorched. Even the last droplet of moisture within escaped as hissing steam.
+
+The flame roared higher and spread further, crashing against the first ring of the vale array like a charging bull, causing thousands of formation characters to flare bright.
+
+The sheer force of the erupting flames threatened to shove Ling Qi backwards. The buffeting winds generated by devouring flames dragged at every hem of her gown as Qiyi's qi surged into the threads and Ling Qi rooted herself in place, freezing her feet to the edge of the hole in the altar. Below, the symbols that the plug had borne were still imprinted in vibrant color on the air. Ling Qi needed to maintain her position
+
+Roots speared through crumbling timbers under Zhengui's feet, anchoring him to the stone below. The urns of moist earth to her left and right rattled, yet untouched by the flames. Vitality and cool lake air wafted over them both, damping the heat just a fraction.
+
+The world turns a thousand, thousand times. Wrath burns unending, choking death, poison death, child of fallen skies, sleeping deep. The world turns, and all is ash before the new dawn.
+
+It was the crackle of combusting wood, the sizzle of melting dirt, and the muffled boom of displaced air.
+
+Ling Qi crossed her arms in front of her face. A cage of bramble thorns closed around Zhengui.
+
+The altar exploded. Roaring tongues of flame scorched the sky. Both pots of earth sizzled and evaporated, the soothing qi expended in a gush of hissing viridian steam.
+
+Ling Qi clenched her teeth, refusing to let even a mote of the limited air in her lungs pass her lips as she fixed her feet against the air itself and was pelted with burning slivers of wood and stone. Qiyi trembled against her skin, absorbing the main force of the blow, and yet, the fires did not end.
+
+They consumed, raging with such strength on air and spite alone. Cai Renxiang had been right. Leaving this spirit the whole vale to burn, even with her protecting it, would have been a mistake.
+
+Zhengui landed with a boom, his position changed only by height, and she sank down to follow him, fighting the force of the continuous, unending explosions ripping free too fast to differentiate.
+
+Stone cracked and shattered. Molten dirt splashed outward, the earth under their feet half-liquid as it was carried out on the sharp edge of a thunderous blast wave. The inner ring of the grand array cracked, and flame roared out to fill the entire vale, scorching the cliffs and clearing the clouds.
+
+Ling Qi could feel Qiyi's strain. Even Zhengui was beginning to burn. She saw scales flaking from his legs, swatches of skin burning up on his shell.
+
+She breathed out at last and pulled on the core of vibrant, unbreaking wood qi she had cultivated back into the channels that ran along her spine and silently signaled Qiyi to let her push to the fore before more of the spirit’s threads caught fire.
+
+The spirit protested. She remembered fire, at least a little. She remembered the Crucible and how she'd been reduced to ash, and Ling Qi herself, not much better.
+
+Ling Qi was thankful for her effort, but she could take it from here. She was glad Qiyi had saved her from the initial damage, but now, it was time to share the burden. That, too, was home and family. There couldn't only be one pillar holding it up. So, would Qiyi let her do her part, too?
+
+Ling Qi met Zhengui's eyes and straightened up under the firestorm. Together with him, she sped forward back to the epicenter where it was hottest. She felt her hair char, and her sweat sizzle, as she sheathed herself in emerald power, right along with her little brother. The verdant green of rioting life protected them.
+
+"Old flame, old flame, all of those might be true. A thousand, thousand turns, and yet, one more is still the end for an old, tired flame that cannot even burn two fresh shoots."
+
+They spoke together.
+
+She couldn't see anything. It was too bright, too hot, but she didn't need her eyes here. She defied the spirit, spreading her arms, letting the raging flame tear at her qi. Zhengui did the same. The two of them spat defiance with their posture and words.
+
+The flames erupted outward, gnawing at the containment of the outer array, at the mountain stone, and at the sky, before crashing back down in a deafening implosion, seeking to burn them and only them.
+
+It was not nearly enough fuel. It hurt. It hurt everything, pain across every inch of her body.
+
+And then it was done, and only the hazy, rippling air and molten ground beneath their feet remained.
+
+One more day. One more turning of the world. Someday, it would belong to someone else. But today was not that day. Today, it was theirs.

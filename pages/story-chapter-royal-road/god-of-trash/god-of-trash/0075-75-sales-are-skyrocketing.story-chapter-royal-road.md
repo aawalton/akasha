@@ -1,0 +1,97 @@
+---
+id: e78b98c5-7e7b-5c71-ad4f-7ae0591d4189
+page-type-slug: story-chapter-royal-road
+title: "75. Sales are Skyrocketing"
+slug: 0075-75-sales-are-skyrocketing
+partOf: god-of-trash
+position: 75
+ownLength: 2846
+unit: words
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2279672/75-sales-are-skyrocketing"
+royalRoadId: "2279672"
+---
+
+In one day, potato chips went from a total unknown to the talk of the town. Everyone wanted them, or knew someone who’d tried them, or had seen them somewhere, improbably peeking out from between the foil-lined pages of an old book. Purple Dawn’s students swore up and down that they’d had them for weeks, long before the new students showed up, while at the same time desperately clamoring to get their hands on a packet. The line at the stall wrapped around the whole plaza, and when Rhys finally had to admit he was out of stock, when there were no more potatoes to fry without risking his entire farm, and close up shop, the packets started changing hands at double speed, the price racking up several times over as they repeatedly changed hands.
+
+Rhys, freed of his disguise, busily built more bags, while Bast cooked more chips. He absorbed the impurities from the trash fire lit to cook the chips at a distance, practicing absorbing impurities from further than ever before, but at the same time, he thought. The potato chips were working for now. Imbued with just enough mana to trick the mages into loving them, delicious enough that everyone had to try them. The problem was that he wasn’t sure he’d nailed the addictive angle. If the mages figured out the mana thing, it would all be over. Hell, he risked it all ending in a week or two, when the trend died and everyone had had enough potato chips. Mages were fickle beasts, and the fact that they didn’t need to eat made it inherently harder to trick them into getting addicted to food. He needed something more. Something to keep it fresh. Not for right now, but for when the trend began to fade.
+
+Back in his world, companies would sometimes rest on their laurels and fail to innovate until after the trend died, then miss out on sales while they scrambled for a new thing to catch the customer’s eye. Some trendy brands even died completely or got bought out during this dip in their sales. He wasn’t going to wait for that moment. He was going to get ahead of it, and figure out his next innovation now, before the trend faded.
+
+There were two obvious directions to go; three, but one was mage specific. For potatoes, he could either swap up the form-factor and try tornado potatoes or potato fries, or swap up the flavor and add herbs and spices to make different flavors of chips. Between the two, he leaned innovating on the form factor over the spicing. Everyone accepted a plain chip; no one could agree on their favorite chip flavor after that. He’d have to do serious market research, figure out what flavors were acceptable and favored in this region, find out what people liked with salty foods… or he could simply innovate the next form of potato and improve sales by diversifying his form-factor into another universally beloved form of potato, rather than try to determine if people of this world would like salt and vinegar, barbecue, cheese, or ketchup flavored chips better.
+
+Ketchup… It was unfortunate, but he hadn’t seen any tomatoes in this world. He’d have to go without for now. That was fine, though. Mayonnaise and vinegar were also popular on fries in certain parts of the world. If this region didn’t have tomatoes, then they wouldn’t be used to tomato flavor, and they’d probably be happy with mayo or vinegar. He’d have to stick with a basic fry for now, too, without any of the specialized coatings, but once he had the fry nailed down, he could figure out the coating step relatively easily. Better to start with simple potato chips, then move to simple potato fries, then move to complex potato fries. Hell, he could toss a tornado-potato in there (or, in other words, a single potato twisted into a long thin line, then pierced on a skewer, to essentially make potato chips on a stick) as a neat trick to draw the eye in his stall’s front display.
+
+Innovating the form factor was one thing. That would buy him days, not weeks, months, or even forever. What he really had to do to buy himself the staying power of a true staple rather than the flash in the pan of a trendy food, was innovate the magical content. Mana was enough for now, to give the potatoes that addictive kick that they couldn’t quite place, but before long, the more perceptive mages would see through that. He needed that next stage of magical additive to tickle the mages’ pleasure centers in a way they couldn’t see through as easily as mana. Plus, he already knew how to make fries or even potato tornadoes, but he didn’t know how to imbue anything but mana into the foods he made. His first step, then, was to start trying to attach a new magical additive to the chips… but what?
+
+Mana. Techniques. Enlightenment. Rhys pinched his chin. Enlightenment was unironically easier for him to figure out how to attach than the sensation of gaining a skill or technique. He’d realized it right from the start. His path was trash, potato chips were trash, he simply had to apply a trace of his path to the chips, and voila, it was done. Of course, if it were so easy to attach enlightenment to objects, he would have already done it. Still, he’d experienced objects with a sense of enlightenment to them before. He knew it was possible. He just had to figure out how.
+
+I wonder if Az has any books on that…? Then again, it was such a specific, strange thing to attempt, that he doubted any book would have more than a footnote on it. For most mages, imbuing the sensation of a path into an object was a happy side effect of a job well done, not something they’d go out of their way to attempt for the purpose of selling more potato chips. It was the kind of thing that no one would have written a book about, because no one would have wanted to accomplish it badly enough to write books on it. It was like when he was doing a research project on some tiny, esoteric detail of a historical event, and had to scramble to find any sources, because whatever that esoteric detail he was interested in was simply hadn’t been important enough for a large number of people to document it.
+
+He finished putting together the last of tonight’s bags and rolled his sleeves up, going to check on the chips Bast had cooked. It was time to get down to business, and see if he could enlighten these chips.
+
+Bast glanced over. “Don’t eat too many. We’ve gotta sell those.”
+
+“I’m not eating them. I’m imbuing them with enlightenment,” Rhys informed him.
+
+Bast gave him a deadpan look.
+
+“What? I am.”
+
+“Whatever you do, make sure you leave enough for tomorrow,” Bast said, and turned back to cooking.
+
+Rhys shook his head at Bast’s back. “Oh ye of little faith.” He took a chip, and promptly crunched it down. Delicious salty potato flavor and a tingle of mana surged through his system, lighting up everything that made him happy.
+
+Bast glanced over his shoulder. He quirked on eyebrow.
+
+Rhys blushed despite himself. It was instinct! Years of training! He picked up a chip… and he ate it! That was just how it worked! He couldn’t be expected to bat a thousand when he was so used to sucking down bags’ worth of chips. One or two mistakes were expected. In fact, the fact that he’d held himself back to this extent was already impressive. Yes, Bast should be applauding him for only eating a few chips, and not taking bags and handfuls for himself.
+
+Crunch. Crunch. “Ow!”
+
+Bast retracted his sword, having rapped Rhys’ knuckles with the hilt. “Eating the chips does not help them reach enlightenment.”
+
+“To the contrary, I posture that by letting the chips face their full potential and act in according with their creation to bring me the utmost of pleasure, while simultaneously bringing harm to no one, that they might, in fact, end up in Nirvana—okay, okay!” He backed away, hands behind his back, as Bast advanced, holding the hilt in a very threatening manner. He reached out for another chip, and Bast narrowed his eyes. “I’m really going to imbue this one with enlightenment. I swear.”
+
+Bast nodded, watching him silently.
+
+Rhys held the chip between his thumb and forefinger and focused his entire being on it. Not the way he focused his entire being on it when he was eating the chip, but the way he did when he was contemplating the latest development in a trashy novel. And, indeed, why hadn’t he done such a thing earlier? Not only were potato chips the height of junk food, but they also were such a source of joy for him. And yet, to think, he’d never once even considered contemplating them, not even taken them as a target that might be worthy of contemplation. How wrong-headed he was! This was one of the cornerstones of his enjoyment of trash. One of the original sources of his love of things others considered garbage and junk. And yet, he’d completely disregarded potato chips until now.
+
+Even I have blind spots, he realized. There were topics he considered beneath him, subjects he considered worthless. If he truly walked the path of trash, he needed to broaden his view, encompass all of them, and shower them all with love. It wouldn’t be such an easy thing. Even if he succeeded in contemplating all trash and finding room in his heart to love it in this instant, the second he forgot about that trash and let it fall out of his mind, he would lose his capacity to love it. Yes, the path of trash was a long and arduous one, but he wasn’t one to give up. He would walk it to its bitter end, until he found love in his heart to embrace all trash equally.
+
+Having realized his failings, he returned his attention to the potato chip in his grasp with redoubled importance. The humble potato chip. This one brimmed with mana, attractive to his mage half, but that wasn’t the point. What was the essence of the potato chip? What could be considered its origin, its heart, the beginning and the end of the fried potato sliver? Deliciousness was important. The salt, the crisp. Every single element of the potato, coming together in one tiny slice. Yet, it wasn’t merely this slice that was the answer, but every slice. Each slice had to be uniform, not perfectly like the previous, but close enough that the consumer knew that every potato chip in their bag would be almost as good as the previous one, within an acceptable order of standard deviation from the peak average deliciousness. The essence of a potato chip was uniformity. The knowledge that opening any bag of the golden crisps would deliver the same crunch, salt, and golden starchy deliciousness as the previous one had, that any next chip would be almost as good as the previous, that was the essence of the potato chip. That uniformity.
+
+No, that wasn’t merely for the potato chip, but for any processed food. To reach into a bag and know what you’d get before you tasted it; that was processed, commercial food. It didn’t have to be the utmost in deliciousness, or the perfect texture, or the ideal flavor. It just had to be the same. Good enough, over and over and over again, until ‘good enough’ became an ideal in and of itself.
+
+The insight shone in Rhys’s eyes, and sparkled down the length of his hand, appearing in the potato chip. He opened his eyes, having accomplished his goal, yet with the realization that he hadn’t accomplished it at all. Sure, this potato chip had a spark of enlightenment in it, but every potato chip had not. And in accordance with his realization, if every potato chip did not have that same uniform enlightenment, then it was no good at all. He might as well stick with the mana chips.
+
+Hmm. Rhys looked at the chip, thinking about it, then tossed it in his mouth.
+
+“Hey!” Bast protested.
+
+“Oh, sorry. It was necessary for full comprehension of the enlightenment I had!” Rhys explained himself.
+
+Bast narrowed his eyes, clearly unconvinced. “No more potato chips for you.”
+
+“Come on. I’m gaining enlightenment here. Isn’t that the ultimate goal for any mage?”
+
+“I’m not sure you’re gaining anything but more potato chips.”
+
+Rhys snorted. He had sensed the enlightenment imbued in the chip on the way down, and sharply, at that. In conclusion, it was a completely incomplete product. In no way could this be considered the final item. Not only was it a realization that consistency was required that he could only imbue into one, or a few, chips, but on top of that, the evidence of enlightenment was too obvious. Anyone could eat a chip and realize that it had a hint of a path in it, and beyond that, realize that the hint of the path was not their own. Not what he wanted at all! He wanted it to be ephemeral, almost unnoticeable. A path that could be anyone’s, so subtle it could barely be felt—a subtlety that would have them reaching for one more over and over again—consistently spread across all chips.
+
+He turned, taking in the pile of golden crisps. Now that’s going to take some doing.
+
+Obviously, he couldn’t manually imbue each chip with enlightenment. It would take too long; they simply wouldn’t be able to produce chips at the scale they were required to, in order to sell them to their many, many customers consistently. Because that was another place fad foods failed: if they couldn’t succeed at scaling up to match customer demand, then they were nothing but a flash in the pan. Oh, they might be hugely popular in a small region, or hugely popular for a short time, but if everyone couldn’t get their hands on the chips, then they were destined to fade into history. Rhys didn’t want a fad. He wanted market dominance.
+
+He would have been satisfied with a fad initially, but that was before the Empire started looming over the picture. Now that he knew what he faced down, he knew he had to have the vast power and money that only market dominance could achieve for him. If he had any less, he’d be just another ant ground under the great shoe of the Empire. If he had market dominance, though, he’d either be rich enough to successfully flee, or powerful enough to stand his ground as a business disconnected from any petty local politics during the takeover. Not his ideal stance, no; but a stance that might let him protect his friends and those close to him for long enough for them to mount a proper counterattack or (preferably) escape. He wasn’t a coward, but he was a pragmatist, and he knew what it meant when a vastly larger power decided to take on a weaker, smaller, fragmented region with infinite internal politics tearing it apart. The ultimate decision might go either way, but the people on the ground at the border were guaranteed a bad time.
+
+He wasn’t foolish enough to think he could prevent Bast from fighting, nor did he want to; but as he’d already expressed to his friend, he didn’t want Bast to die meaninglessly. Let him fight and die in a battle that meant something, if he so desired. Hopefully he wouldn’t die at all, but regardless, Rhys would do everything in his power to make sure he secured a route to keep Bast alive through the first strikes.
+
+All that to say, that what he absolutely did not need, was the ability to manually imbue singular potato chips with enlightenment. He needed the ability to mark every single potato chip with a scrap of his path, just tiny enough that he could trick the eater into triggering their pleasure centers, but not clearly enough that they knew were the happiness was coming from, or why, except that his potato chips were the only way to accomplish it.
+
+He turned again, taking in the large cauldrons in which they fried the chips and coated them in salt. Still rotating, he took in the field, where the potatoes were lovingly raised by himself and his rat army. A hand raised to his chin, as a thousand thoughts churned behind his eyes. How… when…? But the cooking process…
+
+“What’re you looking at me like that for?” Bast asked, frowning.
+
+“Nothing, just wondering. Do you think it’s better to imbue the potatoes with a path as they’re growing, or when they’re getting fried?”
+
+Bast squinted at him. “What?”

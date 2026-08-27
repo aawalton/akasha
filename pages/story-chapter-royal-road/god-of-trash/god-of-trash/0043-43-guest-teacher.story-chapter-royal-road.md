@@ -1,0 +1,85 @@
+---
+id: 0c0bd3d6-1bda-523c-a9c4-b2dda90850ad
+page-type-slug: story-chapter-royal-road
+title: "43. Guest Teacher"
+slug: 0043-43-guest-teacher
+partOf: god-of-trash
+position: 43
+ownLength: 2276
+unit: words
+publishedAt: 2025-04-06
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2179913/43-guest-teacher"
+royalRoadId: "2179913"
+---
+
+Rhys unfolded the letter and began to read the ‘guest teacher’s’ response to their Schoolmaster, Aquari.
+
+Schoolmistress Aquari,
+
+I write to you today to—
+
+Immediately, Rhys’ eyes blurred. The full power of Speed Reading and skimming kicked in, and he blazed ahead, skipping past hundreds of lines of formulaic letter writing and business jargon to zip directly to the important parts.
+
+He stopped on one line. His eyes widened. He leaned in, reading it a second time, narrowing his eyes to fully lock in and read past the legalese and jargon to understand exactly what the guest teacher was actually saying.
+
+…I look forward to enjoying your school’s atmosphere and academic prowess. I know I will find it satisfactory, as your students will surely also be satisfactory, and so, too, your staff. Although I’m a remedial teacher within my own Academy, please do not take that as any sort of indictment. I have also been identified as one of the most skillful teachers, and I assure you that Purple Dawn Academy is sending its best… in my opinion, anyways. A little humor!
+
+“Well, he’s got a shit sense of humor,” Rhys muttered to himself.
+
+But that was the less important to the true danger hidden in those words. “Find them satisfactory.” He knew what that really meant. Decoding the corporatism out of the words, what the teacher was really saying, was match up to our standards, which we have specifically set to be impossible for you to meet, or face the immediate destruction of your team regardless of how well it actually works or how high quality the work you produce is. Maybe he was bearing a bit of a grudge from his first life, but he didn’t see it that way. The scales had fallen off his eyes. He no longer trusted any large organization to do the right thing, or actually care about the little guy. All big corporations—ahem, schools—cared about was making the most profit possible, or consolidating as much power as possible. If they already had power and money, then their goal was to make even more money and gain even more power, so that they could maximally abuse all the workers and weaker people beneath them.
+
+‘Rule of the jungle?’ ‘Harsh realities of the feudal system?’ What a joke! These practices were alive and well in his world. They permeated every single piece of his work life, whether he worked for a big organization, a small organization, did contracting or even worked on his own. The only way to opt out, was to become so big, rich, and powerful that he could personally ignore the bullshit.
+
+And in this life, just as in his previous one, he was far, far away from achieving that. Unlike his original life, though, he had a path to achieving that ideal freedom that he’d long dreamed of. It might be through the trash, but he wasn’t going to complain! Any path was better than no path at all. What better path for a trashy guy like him, who got stepped on and neglected all his life, than to empower himself through that very same trash?
+
+In any case, it was clear what this guy was here for. He represented a school that could completely repress Infinite Constellation School, likely economically, academically, and militarily, a school where, if they were to battle, Infinite Constellation would stand absolutely no chance of winning—like if tiny, military-less Lichtenstein and the large and powerful Germany went to war back in his original world. His purpose in coming was to find faults with Infinite Constellation School so that he could shut it down… or, more likely, absorb Infinite Constellation under the umbrella of his more powerful school, in some kind of land-slash-power grab. In other words, it was desperately important for Rhys to put on the best face he could, if Infinite Constellation School was going to survive at all.
+
+Given that the man’s qualifications for ‘satisfactory’ were almost certainly deliberately impossible for them to reach, he faced a high task, but… Rhys took a deep breath. Even if it was hard, even if it was nearly impossible, he’d still fight for it.
+
+After all, this school was trashy. It was small, the teachers were allowed to abuse students rampantly with little to no punishment, and he’d already hit the limits of what he could learn within it, as a weak Rank 1 with trash inherent foundations. But it was his school. It was his damn school, where he had the freedom to pursue his path as he wished. It was his school, where he’d been helped by Sorden and Az, where Tarais had helped him find the right path, where he’d grown strong alongside Ev. He wasn’t going to stay here forever. He already knew it wasn’t going to be where he grew to his most powerful self. Just like Ev, he had to find a route out of it eventually.
+
+But right now, it was his home. And until he hit Rank 2 at least, it was where he could freely grow without unnecessary regimented studies and extraneous useless requirements. It was the place he could grow under his own strength and methods, where he had the freedom to ignore the classes he didn’t care about and attend the ones he needed. He’d been through public schooling. He knew what it was like, to have to sit through shitty classes on topics he already fully understood just because they were part of the training regimen and there was someone who didn’t understand them. To be forced to study things that were totally meaningless to him and to his future, just because someone high up thought he needed them. To be fed politicized versions of history that fit whoever was in control of the government at the time, not reality. He’d lived that life, and he didn’t want to live it ever again. He outright refused.
+
+Viva self study! Viva freedom! Viva fucking off into the woods to do what he wanted, instead of being forced to sit in some boring ass classroom all day!
+
+Phew. I might have gotten a little heated there. Rhys wiped his brow and shook his head, pushing all those emotions back. School hadn’t been a happy place for him, for many reasons. Not least because he was trash and loved trash, and children were not kind to trash. They were quite happy to put trash in the garbage bin or toilet where it belonged, and he’d spent a lot of time upside down in both of those places. The physical abuse wasn’t as bad as the emotional shit they’d pulled.
+
+Looking back on it now, all that bullshit just made him laugh. Children’s insults were… unrefined, at best. The dumb things he’d been called, that had hurt at the time, were honestly kind of pathetic. He could rattle off a dozen lines to destroy any man, woman, or child without hesitation if provoked, and he’d probably only mean one of them, at that. Hell, he could log onto any old FPS game and hear far worse nonstop for half an hour and that’s if I’m not griefing and actually playing seriously. But at the time, it had hurt, and his memories of school were tainted by that pain. It didn’t help that the teachers had usually taken the side of the less trashy students, the ones who weren’t total weirdos.
+
+But that didn’t matter in the Infinite Constellation School. Who cared whose side the teachers would take, when he was free to do whatever the hell he wanted? And that was exactly why he valued it. In fact, he’d been able to become a valuable student to several teachers because he was allowed to do whatever he wanted. If he’d just been another blank face in the masses, he would’ve remained as faceless trash forever.
+
+He scanned the rest of the letter, zipping down to the bottom. One last line leaped out at him.
+
+I hope I don’t have to clean up your school! I remember how it was the last time I visited. Hopefully you’ve fixed your little… trash problem by now.
+
+Rhys’ eyes blazed. Anger burned in his heart. This Purple Dawn Academy wanted to take that all away from him. Take away his freedom. Take away his hard-earned recognition. Make him a blank face in the masses. And worst of all—take away his trash.
+
+Sincerely, Ernesto Almet.
+
+“Ernesto. So that’s your name,” Rhys said aloud, narrowing his eyes. His first enemy. He wouldn’t forget that name until he died. How dare he take Rhys’ trash away. How dare! He’s going to find out that a powerful dragon cannot repress a local snake. I might be trash, but this is my home turf! I’m going to use my hometown advantage to the maximum extent. It doesn’t matter how strong this guy is. I’m going to prove him wrong and send him packing!
+
+There were some things he couldn’t do much about, like Cynog being an asshole. But when it came to cleaning up the trash? He would happily take up that task for the sake of the school. He pinched his chin, thinking. He had to make sure this Ernesto fuck saw the best side of every teacher, too. Some were trashy on the surface, but had value hidden within, like the mustelid man, while others were already incredible, and simply needed to be presented in a positive light.
+
+As for the students… Rhys’ eye glittered. I am a student, aren’t I? He was trash, sure, but he knew how to clean up when he needed to. Not to mention, he had several friends who could help him out there. Tarais was the prim and proper ideal of a magical student, while Ev was the perfect martial student. He nodded, his plan shaping up in his head. His standards might be impossible. This might be a lost game from the very start. But I’m not going down without a fight!
+
+He was trash. He accepted that. But he refused to let someone come in out of nowhere and declare his whole world null and void because they one-sidedly decided it was trash. That, he fundamentally disagreed with. Trash should be appreciated, loved, nurtured, even deeply considered and then burned in acknowledgement that it truly had passed the limits of any usability as anything but fuel… but dismissed offhand, without any consideration? Never. It went against his very soul. Against the core of who he was.
+
+“If you’re done?” Az asked, holding out his hand once more.
+
+“Huh? Oh, sure.” Rhys handed the letter over to be archived. He didn’t need to hold onto it, and it certainly wasn’t trash. Might as well let Az organize it.
+
+He sat up and looked around, taking in the trash in a new light. The trash was his, and he intended to put it to good use, yes. At the same time, he had to move it out of sight of this guest teacher before the man arrived, or else Ernesto would take it from him forever. He checked the letter. The date meant nothing to him, so he turned to Az.
+
+“What’s today’s date?”
+
+“Hmm?” Az peered at him, then at the letter. “Oh. The guest teacher comes in two weeks, if that’s your question.”
+
+Two weeks? Rhys widened his eyes, then firmed his gaze in determination. Two weeks. He didn’t need to burn and process all the trash by then, he just had to move it out of the guest teacher’s sight. The more of it he could process, the better, but given his vial limitation and the lack of containers to hold the more virulent potions he made now, his first priority was to move the trash out of sight.
+
+Rhys drew out the vial and gazed at it. It glittered, the crystal completely undamaged despite the fresh potion in it. In two weeks… could I comprehend how to make more of these vials in two weeks? He gritted his teeth. Vial-making wasn’t his path. Even for things that laid on his path, it sometimes took him days, if not weeks, to comprehend them. The chances he’d obtain a full comprehension of vial-making to the extent that he’d be able to make a high-tier specialized vial within two weeks, with enough time left in those two weeks that he’d then be able to make several vials and brew the potions to fill the vials… Rhys grimaced. Just putting the concept into words told him how insane the idea was. He could drink the potion now—one sip at a time, true, but it was a step in the right direction, and it meant he’d be able to refill the vial more often. He’d have to be satisfied with that for now.
+
+As long as he hid the trash sufficiently, the man shouldn’t come after it, either, so it wasn’t like he had to have it all turned into potions by the time Ernesto came. It was like his corporate experience. The man would have impossible expectations, but he also wouldn’t look deeply enough to actually understand the situation. It was true of the good in the school, but it was also true of the bad. As long as he made it look clean while Ernesto was here, the man wouldn’t actually dig around to find out the truth.
+
+He had his work cut out for him, but he wasn’t going to give up. This school might be trash, but he’d fix it up until it shone. Rhys grinned.
+
+It’s time to polish this turd.

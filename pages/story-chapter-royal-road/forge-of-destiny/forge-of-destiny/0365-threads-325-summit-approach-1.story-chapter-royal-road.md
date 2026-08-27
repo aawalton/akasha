@@ -1,0 +1,169 @@
+---
+id: ae6e1d6f-8dad-523a-98c2-982bfeee6e50
+page-type-slug: story-chapter-royal-road
+title: "Threads 325-Summit Approach 1"
+slug: 0365-threads-325-summit-approach-1
+partOf: forge-of-destiny
+position: 365
+ownLength: 2164
+unit: words
+publishedAt: 2023-08-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1295548/threads-325-summit-approach-1"
+royalRoadId: "1295548"
+---
+
+The rumble and crack of moving, grinding stones was a discordant symphony of noise. It was chaotic and unintelligible, but deeply, deeply angry.
+
+There should have been no room for words here, no room for communication. But not for Ling Qi. Fangs of living limestone, so close to crushing the soft humans within, slowed and ground down to a halt among ribbons of mist and the piping of a flute.
+
+Ling Qi descended into the crumbled sinkhole on steps of glittering light and mist. A great hole in the stone, a cavern of limestone and sharp-edged crystal, was pierced by the digging of foundations. This was one of the many hearts of the mountain that General Xia had cloven the peak from. The spirit of the cave whose fangs loomed over her head was only one part of the larger mountain spirit, but it was dangerously potent in its own right, awakened as it was, especially to the workers trapped below among the rubble and muddy water.
+
+So she sang and listened, even as her drifting mist engulfed the men and women at the bottom, carefully insulating them from further harm and easing the crushing pressure of the earth.
+
+Rage. The mountain heart trembled with rage. So much of its greater self had been taken away, and now, the nits dug and bit at its hearts and cores as well, more and more and more. Its brother-selves slept and slumbered, propitiated but not yet awake, content to see even this wound as temporary, a mere flesh wound in the long accounting of stone.
+
+But this! This, the biting picks and shovels, the opening of living stone to crippling, killing sky, poisoning that which was meant to be wholly of earth and darkness with light, was an insult. This was too much!
+
+Ling Qi listened, considered, and sang back. Mist grew dark and cold and clammy, drowning out the bright light of the sun above. She sung a soothing song, a slow and careful song of sealing, reparation, and reverence. Of carving and beauty. Of a seal reapplied. Sacrifices offered, not of blood and flesh, but incense and gifts and the beautiful transformation of surface stone.
+
+She descended still further, and she saw the fright in human eyes as the stone that had begun to drag them down, that chained their limbs and broke their bones, remained filled with tension. Crystal and hanging fangs of rock threatened to devour them all.
+
+She ended with a sharper note to compliment offerings and respect. It was a pointed reminder to an old and stubborn mind of the blade which carved mountains and the scouring rains that could wear away all of the mountain. This mountain spirit was not the only power here.
+
+She was sorry for its wound and sorry for its disturbance, but there would be no offerings of blood today. Let raging stone rest and errors be repaired, and in the time of mountains, all would return as it was once more. Or the mountainheart could rage and drag itself into the time of men, and in doing so, it would exacerbate those injuries done to it.
+
+Stone groaned and rumbled, the weight of a mountain looming all around, pressure fit to crush her. Then the cavern groaned and ground back into place, and Ling Qi breathed out as below, wounded workers were released from the bounds of stone.
+
+She looked to the closest of them, who mouthed the words “Thank you,” again and again in the silent dark.
+
+She inclined her head and reached down to take his hand.
+
+Best to get them out quickly before the spirit could change its course.
+
+***
+
+Ling Qi clasped her hands together in respect as the foreman of the crews on the peak bowed his scarred, bald head. He was just short of fully kowtowing, and Ling Qi really wished he wouldn’t.
+
+This accident was not his fault. The geomatic maps should have shown such a locus of power, and the planners should have been able to take it into account. Even with the disruption of the general’s cut, the experts present should have been able to detect any internal movement of the mountain’s cores.
+
+That was the explanation for now. A sudden seismic shift of the mountain’s internal structure, wrought by instability, had been the cause of this accident. And maybe she was seeing shadows around the corners, but she didn’t trust it.
+
+There had been a not insignificant number of small accidents in the past week, although this was the worst so far. The only question was the real source of the troubles. From below? Or within?
+
+She sincerely hoped it was the former. She’d have to speak with the ministry later.
+
+She let none of the thoughts flitting through her head show on her face or in her voice as she spoke. “Please raise your head. Make your reports, and call an earth mover to reseal the pocket. Use my name to get it done swiftly, if you must. That mist will not keep forever nor would the mist satisfy the spirit if it did.”
+
+“Yes, Lady Ling,” the foreman said. “Right away, Lady Ling.”
+
+She gestured a dismissal and glanced toward the dots on the road to the west. The injured workers were being rapidly carried off to the medical tents. No fatalities, but several of them had suffered broken limbs and minor qi poisoning. She was glad she had been nearby when the incident began.
+
+“I’ve alerted our in-house physician. He should be able to assist the Wang’s doctor with the sudden load.”
+
+“Thank you, Meng Dan.” She had sensed him hanging back as she removed the last of the workers, but he’d not presented himself while she was speaking with the foreman. “I apologize for my lateness.”
+
+“Given the circumstances, it could not be avoided,” he said pleasantly, peering past her shoulder the buzz of activity around the sinkhole. “There is no excuse for that to be there. My clan’s own geomancers, and the Wang’s, approved the digging plans.”
+
+“I know.”
+
+Meng Dan pushed the lenses perched on his nose up. The commital scion had replaced his flowing scholar’s robes with something more practical today, a dark blue tunic belted at the waist, its longer hem hanging down over trousers and high riding boots. She sensed a frisson in the air, a pulse of qi, and a faint glimmer of silver appeared in his pupils.
+
+“There’s no sign of impurities or anything else unnatural.”
+
+“Please do not take it as an insult, Lady Ling. These eyes of mine are my only useful trait,” Meng Dan jested. “Nothing so obvious. However… those foundations. What remains is deeper than it should be.”
+
+“Sloppy workmanship?”
+
+“Unlikely. The plans given to the workers may need review though.”
+
+“Regardless, that core should not have been close enough to be disturbed in the first place.”
+
+“Many little pebbles make an avalanche, no? Will you return with me, Lady Ling? Lady Cai is waiting. I will leave some eyes here, if you are concerned.”
+
+“Please do.” Ling Qi took one more glance back at the hole. She turned toward the observatory and fell in beside Meng Dan. “What is this about anyway? No offense. While I’m sure the sky is interesting, Lady Cai and I are both very occupied.”
+
+“With the court astronomer’s deductions and observations and my own interactions, I have made some further observations on our guests’ culture and religion.”
+
+“Sneaking off to drink with their soldiers again?”
+
+“Only once,” he said blithely.
+
+She gave him a hard look out of the corner of her eye. He merely wore that perpetual expression of mild amusement.
+
+“I apologize. Would Lady Ling like an invitation next time?”
+
+“No, that is not my preferred method,” Ling Qi said dryly.
+
+“More seriously, in my role of overseeing some of our construction on the mountainside, I have had a few conversations with those singing fellows of theirs. They are not a very reserved people."
+
+“How much of that is there going around?”
+
+“Very little. Too much distance still.”
+
+“But not for you.”
+
+“I am merely a disarming man,” Meng Dan said airily.
+
+Ling Qi looked on toward the observatory, but the greater part of her senses remained on the other work crews in range.
+
+“Are you well, by the by, Lady Ling? Most require more time to recover from tribulations.”
+
+“I don’t have time to rest.” The burnt out meridian still itched under her skin. Worse was the emptiness in her mind where Sixiang should have been. “Besides, I feel better when I’m in motion.”
+
+Meng Dan inclined his head. “The moon can be cruel.”
+
+Ling Qi pursed her lips. “It can be, but if it didn’t force us to look at ourselves so starkly now and then, would we ever?”
+
+He chuckled. “Now that is the question.”
+
+“Isn’t it though? I admit, it's nice to know that I’m not the only one trying to establish communication with the White Sky members.”
+
+“It is a shame that so many are incurious in the face of all this, isn’t it?” Meng Dan mused. “There is just so much to be uncovered here. And all of this is quite fascinating. I hope I shall pen a document that some student will unearth a thousand years hence on the matter.”
+
+“I’m sure they’ll be incredulous and assume a great deal of exaggeration and mythmaking.”
+
+“Nay. That will be the one school. Another will be the group that twists their minds into loops to reinterpret my words to mean their opposite while yet another takes a reading which supports this or that movement’s political goals. And then, there will be the fringe, which assumes that I merely say what I mean.”
+
+“How troublesome,” Ling Qi said lightly. “Regardless, I’m curious. What would you say is the mood among the common White Sky?”
+
+The observatory was looming tall ahead of them now as they left the still incomplete areas and entered the organized roads and gardens closer to the completed construction.
+
+“Difficult to say. I may be disarming, but no one is willing to pour out their hearts to me.”
+
+“As if that is more than a minor obstacle with lower realms.”
+
+While they could hardly read minds, mortals, first realms, and even the less experienced second realms could not help but telegraph their mood and feelings in their aura and give away more than was intended in their words.
+
+“It makes bringing the situation into legibility difficult,” Meng Dan replied. “Dissatisfied.”
+
+“Dissatisfied?”
+
+“There is a certain edge, a grumbling that they are being tugged about on one person's whims. It is kept quiet and in check. They are suspicious of us though.”
+
+“Is there any concrete reason, aside from the obvious?”
+
+“The general. The other high realms about. Our position in the north. I understand that in the White Sky’s lore, typically, only bad things come from the north, such as terrible cataclysms, jungle demons, and raiding nomads.”
+
+“Are the nomads a significant problem? I had thought…”
+
+“Much less of one, and the attitudes are softened by the history of tribal assimilations.”
+
+They passed from dirt onto a path of cut stone surrounded by fresh growth. The new plateau felt more natural with each step they took away from the construction. A soft cool mist curled among the roots of planted fruit trees and flowers.
+
+“I see. More bad neighbors than inhuman monsters?”
+
+“Something of the sort. Mm, well, you know my opinions. People exist on a spectrum rather than being distinct pieces on the board, historically speaking.”
+
+Hard lines between forest, hill and mountain were later conceptions. Of course, just because they had begun that way did not make them any less real.
+
+Ling Qi was pensive. “Their own rank and file are discontent. It bodes poorly.”
+
+“I think that so long as your counterpart does not upset her own religious hierarchy too much, it should be well. Those crows… They are more like our own masked minders than they would admit.”
+
+Ling Qi gave him a sharp look as they approached the doors of the observatory, pausing to allow some red-faced workers hauling furnishings and materials past. “What do you mean?”
+
+“I get the sense that their commoners look at them and see a policing force. The crows are the eyes that watch the mighty. It is not dissimilar to what Emperor An conceived of when establishing the Ministry of Integrity. While no one speaks of their capital with a special respect, compared to what we might expect, I have heard the title of ‘Voice of the Hierophant’ spoken in similar tones as empress.”
+
+That was something to keep in mind.
+
+Jaromila had her own troubles beyond merely herding cats, and she was not at a completely free hand here either. Ling Qi had suspected as much. Even if they were well disposed toward each other, that was not enough on its own.

@@ -1,0 +1,87 @@
+---
+id: 5005f5e8-1930-5a15-9020-79a4aa40c1c3
+page-type-slug: story-chapter-royal-road
+title: "Bonus: The Ministry of Integrity"
+slug: 0006-bonus-the-ministry-of-integrity
+partOf: forge-of-destiny
+position: 6
+ownLength: 1520
+unit: words
+publishedAt: 2020-09-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/562588/bonus-the-ministry-of-integrity"
+royalRoadId: "562588"
+---
+
+Commerce, Communication, Law, and Spiritual Affairs.
+
+These four great institutions have been the bulwark of Imperial governance since the first dynasty. The many clerks and officials employed by the ministries have worked tirelessly throughout the millennia to maintain the Empire’s cohesion and the Imperial peace, resolving the many, many conflicts which arise between the Empire’s Great Families and provinces and ensuring the efficient execution of the Emperor’s or Empress’ will throughout their lands.
+
+- May be too blunt. Reduce implications of fault for the nobility. Further emphasis on how the ministries assist and support.
+
+However, under Emperor Si, a fifth ministry was founded. Headed by then-Crown Prince An, shortly after his success in the South Emerald Seas, it began as a subdivision of the Ministry of Law. The wise prince envisioned the group as agents empowered by the Imperial seal to not only simply interpret law and advise a land’s liege lords but also to punish gross violations of the Imperial will and the orderly operation of society.
+
+In those early days, the agency’s primary focus was on matters of finance. Over the many millennia of the Empire’s rule, it is an unfortunate truth that a great many cities, towns, and villages had become lax in paying their dues to the Throne. The first task, then, was to investigate the aging infrastructure of the Ministry of Commerce and find where the rot had set in at their worst and where the troubles were caused by malicious and disloyal individuals.
+
+Truly, it was a glad day for the Imperial Seat when their revenues doubled in a matter of decades, merely from performing simple upkeep. At last, the damage wrought in the declining days of the second dynasty were set to rights, and this accomplishment earned the Crown Prince many accolades. Indeed, this accomplishment can be credited with truly solidifying his position as Crown Prince.
+
+- Putting it too lightly. The Imperial tax code was a barely coherent morass of incoherent language and special exceptions. It is a minor miracle that the Throne accumulated any income at all before our reforms.
+
+-- True, but irrelevant for the document. Implication of outright incompetence and malice in past and present institutions will not play well, even under current conditions. Better to allow the blame to fall upon generational rot.
+
+When the Prince was crowned as Emperor An, the remit of the agency was expanded to include other crimes. Abuses of the mortal populace, such as barred forms of medicine and cultivation research, were rooted out. Smuggling activities and proscribed cults were curtailed and dismantled, and those disloyal nobles guilty of funding or participating in such crimes punished.
+
+- So short a recounting given the horrors we uprooted. It seems disrespectful in a way.
+
+-- Unfortunate, but it is better for proscribed cultivation methods to die in obscurity than be given attention. We all remember how matters of the Cult of Twilight turned out when secrecy broke.
+
+--- Not one of us took our oaths for glory. Let them be forgotten.
+
+At this point, with many thousands of agents and hundreds of managerial staff, the agency had expanded far beyond the limits of a subdivision. And yet for all that, their workload was crushing, and more personnel were required. So it was that in the thirty-fifth year of his reign, Emperor An decreed the formal formation of the Ministry of Integrity and named Sima Jiao as its first Minister. Along with this expansion came an additional duty.
+
+- I would strike that man’s name from our records if I could.
+
+-- Traitor to the cause he may have become, his deeds still laid the foundation for all else.
+
+Throughout the Empire’s history, it has been plagued by the rise of malcontents and spirit cults, practitioners of forms of cultivation more foul than all but the worst of barbarian practices, and other such ills. Many were the tales of whole clans and towns wiped from the map by crazed individuals of high talent who had stumbled across good fortune or the sponsorship of some malign spirit.
+
+- So many talents lost. I weep for what the Empire has missed.
+
+-- While many began with legitimate grievance, those talents who could not restrain themselves once they had a taste of power and revenge became beasts.
+
+--- The Ministry cannot be faulted for those who became twisted. I am proud to have been turned from the path of mindless vengeance and power seeking.
+
+They would emerge, wreak destruction, and die with great difficulty when the provincial duke’s forces came down upon them. Many even tried to set themselves up as petty warlords or proclaimed that they would usurp the Throne itself! Some, in less well run reaches of the Empire, even maintained long-standing “bandit kingdoms,” avoiding being crushed by ducal forces by making themselves inconvenient to attack.
+
+The Ministry of Integrity was the solution to this perennial trouble. They solved the problem not merely through violence, although much is whispered of Minister Sima, who, it is said, ended the greatest of the bandit kingdoms in a single night and slew the mad violet realm Lu Gong, ending his rampage for “vengeance” against the peoples of the Cao clan and freeing the women bound to him. No, the true solution to the problem was the Wise Emperor An’s expansion of the Great Sect system.
+
+Talent for cultivation cannot be fully controlled. Among the high bloodlines of the Empire, average talent is nearly guaranteed, but high talent individuals have always appeared in the strangest of places. It followed, then, that the reason for so many individuals to take a dark course in their life lay in their lack of opportunity. Find the talented and provide them with education and a place in society, and there would be no more petty bandit kings and false emperors.
+
+It fell to the Ministry of Integrity to identify these individuals before their paths could diverge from virtue.
+
+It is troubling to say that many opposed this decree and the opening of the Great Sects to the common born. Although it is understandable that high lords and ladies would not wish their children to mingle with potentially dangerous individuals, it is the duty of the nobility to educate and care for the common man. This duty has been oft neglected, and the problems, Emperor An reasoned, arose from this shirking.
+
+So it fell to the Throne and the Ministry to make up for this shortfall. To reassure the nobility of the Empire, Emperor An assigned his own daughter, Princess Xiang, who had taken up duties in the Ministry, to lead and coordinate the divination teams and surveillance of the first generation of “common talents.”
+
+- Agent Xiang was truly among our best. It is a shame that she cannot be Empress and Minister both.
+
+-- It is her efforts which saved many of my agents from the dark paths they were on before being turned and recruited into the Ministry.
+
+--- I would approve some expansion of this portion of the text. Further support for the Empress’ reforms would be a useful side effect of the document.
+
+Even less popular but which many argued was just as necessary were the reforms within the Celestial Peaks, allowing agents of the Ministry to chastise the families of young noble scions whose unvirtuous and crass behavior damaged the peace and prosperity of the Emperor’s dominion. This portion of the Ministry’s program remains contentious to this day, but the uptick in economic activity in those regions where such behaviors have been curbed shows their efficacy.
+
+- The looks upon the faces of those silk pants when their childish tantrums began to have actual consequences. I will treasure the memories always.
+
+-- I will treasure more the looks of their bellowing sires when they found that their petty tyranny had reached the ears of the Emperor.
+
+--- It would be impolitic to mention further than this, however satisfactory the duty.
+
+Altogether, the Emperor’s programs seem to have met success with only a few minor instances of unacceptable violence. Soon, new baronies were sprouting up across the Empire, taming long fallow lands and bringing yet more wealth and resources to the Throne and the provinces through their taxes. Over the course of Emperor An’s reign, this practice proved immensely valuable in bringing new and talented blood into the fold, and so the voices arrayed against it dwindled. Now, under the rule of Empress Xiang, even further reforms are being considered.
+
+In the current day, the Ministry of Integrity has left much of the chaos and bloodshed behind. As an investigatory agency, they are without peer, seeking out and resolving snarls in the execution of Imperial law. Under the watch of the Ministry, taxes are paid, order is kept, and the integrity of the Empire is upheld.
+
+- A good introduction. Send it back to be workshopped further by the scribes, and prepare for the more formal documentation
+
+-- At your command, Minister.
+
+Excerpt from the first draft of a historical document for public consumption drafted internally by the Ministry of Integrity

@@ -1,0 +1,133 @@
+---
+id: 12b57cb8-c29e-58ca-9735-e304ac911552
+page-type-slug: story-chapter-royal-road
+title: "Threads 358-Cornerstone 1"
+slug: 0398-threads-358-cornerstone-1
+partOf: forge-of-destiny
+position: 398
+ownLength: 1683
+unit: words
+publishedAt: 2024-01-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1494898/threads-358-cornerstone-1"
+royalRoadId: "1494898"
+---
+
+Cao Chun disapproved of her initiative. "I believe you have made an error, baroness."
+
+The rest of the meeting had gone well. There were a hundred, hundred details on which imperial and polar law differed from inheritance to property to the way civic disputes were resolved. But a framework was grudgingly being hashed out, and precedents to fill the gaps were being produced.
+
+With the day’s session ending, she had headed to the ministry’s operations center. Down in Cao Chun's office, she stood beside Zheng Fu, and behind Cao Chun was Jin Tae.
+
+"And I believe it is the correct course. Nothing will be gained by our investigations tripping over one another," Ling Qi rebutted.
+
+"We would not be 'tripped' by barbarian efforts," Cao Chun grumbled. "But it is done. I will simply have to take this into account."
+
+"Thank you for your understanding, inspector." She was glad he was not pushing back too hard on this. The relative successfulness of the operation must have put him in a good mood. "But getting to business, may I ask if you have found anything useful with the parasite I have procured?"
+
+"It is both an immensely complex construct and as ephemeral as dew." Cao Chun clasped his hands together, his brows furrowed deeply. "I would know how you managed to acquire it."
+
+Thinking of Shu Yue briefly, she met his eyes. Perhaps he could dig it out of her head. He would not.
+
+"On that, I must invoke the right to my personal methods," Ling Qi demurred.
+
+"And here I thought you were the one encouraging everyone to share," Jin Tae snipped at her.
+
+"Eh, what's that? You wanna let me have a look at your pretty formations for a bit?" Zheng Fu laughed. "Come off it."
+
+Jin Tae said hotly, "I merely…"
+
+Cao Chun held up his hands. "Enough. The privacy of one's clan techniques will not be infringed. Knowing you have the capability of retrieving such deeply planted objects is enough. The parasite is not constructed to last. Even with your method, it will not remain stable for more than a few days. However, there are signs of its maker to be gleaned."
+
+"Still Waters Deeping, Archivist of the Reviled," Ling Qi repeated, letting qi enter the words, echoing the feeling of slime and acrid stagnant water that made them more than mere syllables.
+
+Zheng Fu glanced at her, his eyebrows visibly climbing even under his headscarf.
+
+Cao Chun was more reserved, but he did observe her in silence for a long moment. Jin Tae looked at his mentor and back to her, frowning.
+
+"Those words are part of it. There is more as well, including the time of manufacture, location, and some deeper traces of its maker," Cao Chun said.
+
+"And what about what you dealt with here, some kinda curse on the soldiers?" Zheng Fu wondered.
+
+"It was a form of artificial disease spirit, deeply implanted," Cao Chun said. "It would have begun inducing paralysis and causing transformation of flesh into wood. It seems designed to cause panic and suspicion based on a layman's observation of the polar barbarians' cultivation methods."
+
+Xia Ren would not have had any patience for further investigation.
+
+"However, being able to observe and extract the process immediately… There are the same marks as this parasite. And the subject of this is not of their kind."
+
+"You are certain of that?" Ling Qi asked. "I felt there were some signs of Hui arts, but…"
+
+"It is an aping of them at most. The Hui are dead, but this does not mean their knowledge died with them entirely. It is possible some methods were preserved or… lost."
+
+He glanced down pointedly. Ling Qi's eyes widened. With all of the Emerald Seas out for their blood, the old ducal clan had scattered and gone to ground to be hunted down in the proceeding decades. If some had simply kept running…
+
+"I am surprised you would admit that barbarians might co-opt imperial methods."
+
+"The beasts underground are truly consummate scavengers. The ministry has begun to sift through their methods, and there is significant danger of technique theft by their foul arts," Jin Tae explained. "As expected of ghoulish corpse eaters."
+
+"We have already passed the advisory to the Argent Peak Sect to destroy the bodies of the fallen on site if they cannot be recovered," Cao Chun followed up. The old man looked like he had bitten into a lemon. "But while this is possible, there is another culprit to be considered."
+
+"Who?" Zheng Fu asked.
+
+"The Meng, or rather, some rogue within them," Cao Chun answered. "I am confident that it is not backed by the clan overall, but there are some markers which make me wary, and if there is anywhere in this province where some recollection of Hui arts would have been preserved, it would be the western marshes. Those names you spoke point in that direction."
+
+Ling Qi crossed her arms. She didn't want to believe that. She had been making strong inroads with the Meng, and yet…And yet, she knew she was divisive, that the Meng clan was strongly divided internally, and that while she was friend to Meng Diu and those who followed her, that made her the enemy of others in the Meng clan.
+
+But would they really take such a risk, just to spite her and her project, when it could potentially draw the eye of the Duchess? It sounded suicidal in her mind.
+
+Shu Yue's words on grudges drifted in her mind.
+
+"I see. We will need to investigate both possibilities then?" Ling Qi asked after a long moment.
+
+"We will. I have spoken to Meng Deming, but if he is involved, then I doubt my casual perception would reveal him. I need more time to dissect your evidence."
+
+Ling Qi sighed. "Then, for now, I will focus on the meetings ahead."
+
+They were not done with this.
+
+***
+
+Over the course of the next few days, Ling Qi remained in contact with Cao Chun and, to a lesser extent, Dzintara, who seemed to have been chosen to speak for the White Sky’s own efforts. They were vigilant, observing for any further sign of strangeness.
+
+It was impossible for some of that tension not to leak into the wider meetings, especially as news of the incident upon the switchback trail spread, of a man collapsing and seemingly losing his mind for a time. The man Zheng Fu had dealt with was still unconscious, but the physicians were confident he would awaken soon. The official explanation was that it had been a minor spirit possession, arising from the continued geoforming efforts.
+
+It still lent a pall to the discussions even as the negotiations proceeded at a good pace and as smoothly as she could have hoped. She wished she could have enjoyed the seeming success of the first leg of negotiations more without this unpleasant business hanging over her thoughts.
+
+"The enemy is a slippery one indeed," Shu Yue's voice rasped from just behind her.
+
+She sat in a darkened office in the imperial embassy surrounded by privacy wards and security. Shue Yue had appeared behind her nonetheless, unremarked by any of the agents or functionaries in the hall outside. She wasn't surprised, of course; she had been expecting this meeting.
+
+"So even you were not able to track and catch them." Ling Qi bit down on her lower lip. She had hoped.
+
+"Like certain beasts shedding a limb to save the whole when the predator comes." Shu Yue laid their hands on her shoulders. "I grasped something akin to a simulacra after a merry chase, and it crumpled in my grasp. A lure, bait, and a trap all in one."
+
+A high realm could spin off additional bodies, investing cultivation to being in more than one place at a time. If they could do that and still fool Shu Yue… She was glad that they had been with her, when she'd caught the parasite.
+
+"Are you well?"
+
+"I am. There was some damage, but it was minor. Enough to force me from the trail and no more. The power put into such a thing means their harm is more."
+
+"And you weren't able to discern any more?"
+
+"No more than I had from the parasite. They are a cunning foe. What more I found cannot be easily confirmed. I will inform you when it can be."
+
+"Thank you, teacher. I would ask, do you think I can call this first iteration of my art complete?"
+
+Shu Yue paused, their hands still resting lightly on her shoulders as Ling Qi looked down at the letters or on her desk. She could see a few strands of their hair dangling down in the corners of her vision like strands of dripping ink on the verge of breaking.
+
+"Difficult. Difficult to say. I did not develop my arts in the orthodox way."
+
+Ling Qi continued to read her correspondence, reaching over only to take her brush and make a note that this one would require a reply.
+
+"It was successful in the field. Your… heist. It places a sharp constraint on your time still. It is a risky technique to enter another's mind as one would a palace or fortress. What did you intend to call it?"
+
+"Mind's Palace Heist, maybe? Or Seeking the Name?"
+
+“Such names are for your understanding alone. It is functional. It will require development, but I will not counsel you against its use now, if you judge it valuable."
+
+Ling Qi nodded. "I was always going to have to be careful with it."
+
+"Yes. It is good that you understand that." Shu Yue’s presence withdrew from her along with their hands. "I will echo the inspector. Focus upon your task now. I will come if there is more you can do to aid me."
+
+Ling Qi gave a short, sharp nod. Shu Yue was gone.
+
+Today would finish the first week of negotiations. Just a little more, and the first proper stone of the foundation would be set.

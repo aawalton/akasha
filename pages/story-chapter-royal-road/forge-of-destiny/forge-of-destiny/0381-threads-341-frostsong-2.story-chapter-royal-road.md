@@ -1,0 +1,129 @@
+---
+id: 3a08aa41-fd2b-52ba-9d94-53f3516120bd
+page-type-slug: story-chapter-royal-road
+title: "Threads 341 Frostsong 2"
+slug: 0381-threads-341-frostsong-2
+partOf: forge-of-destiny
+position: 381
+ownLength: 1865
+unit: words
+publishedAt: 2023-10-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1376512/threads-341-frostsong-2"
+royalRoadId: "1376512"
+---
+
+The mist expanded. It flowed from under the hem of her gown, shrouding the grove. It billowed from her sleeves, and a flute of translucent ice crystalized in her hands. A dusting of frost rippled out from her tread as she took a single step forward. She observed Dzintara as she raised the instrument to her lips.
+
+The woman in front of her tilted her chin up, acknowledging her challenge. Her hand drifted to her waist where a single bladed hatchet hung from a loop of leather. She too, stepped forward, and the soft gray mist turned darker, condensing into clouds, fat and dark with ill contained rain. The wind kicked up as she spun the haft of the hatchet in her hand. Sparks crawled through the ornate knotwork forged into the iron, and the spin of the axehead made the wind keen. Lightning cracked, striking Dzintara directly, and sparks leaped between her teeth and danced in her hair.
+
+“Hah, show off,” Sixiang murmured.
+
+Ling Qi smiled. She believed in words and put great stock in them, but there was a comfort to letting your will and self simply crash against another’s.
+
+Ling Qi began to play, drifting through the mist like a wraith. Deeper notes, a song of marching, footfalls in tandem, both martial and ordered, came from her flute. She acknowledged what her people were. Power could not be denied nor ignored. There were those who had it and those who did not. It was impossible for no division to exist there.
+
+A sharp, hard note sounded out like a blade cutting the air. The melodic beat reminded of a hundred, hundred hammers building roads and carving mountains. A song of glaring light burned away shadows and mist.
+
+Dzintara circled with her, solid and heavy despite the thinning weft of the waking world. Her footfalls were thunder, rumbling in the belly of the clouds. A second axe was raised. The weapons spun, something between a kata and a dance, and the sounds of clashing steel were as the howl of a blizzard through the clustered pines, punctuated by the sharp report of exploding bark.
+
+A thousand axes striking wood. A sturdy shieldwall against the dark. This was power. Power stood outside the firelight. Power was inhuman and dangerous. It was a berserker’s howl and the sound of tearing flesh.
+
+Division. Power wrought it and cut it into the world. They agreed on this. Where, then, did divergence come?
+
+Men and beasts were not so far apart. Power could be contained or channeled, but never put away.
+
+Her flute rose, an eagle’s scream. Pride was the herald of strife. It was the strident demand to be the highest and strongest. It built nothing and made nothing, only took. But to resist those talons, a mighty shield was needed.
+
+The beat of titanic wings churned the mist and the clouds, turning the grove into a churning funnel of cold and damp.
+
+Dzintara eyed her, eyes aglow in the dark. And to Ling Qi’s surprise, she raised her voice, a low chant, a song of a sort. It was not as harsh as she might have imagined, but it was strident all the same.
+
+Axes clashed with a boom of thunder. To the strongest. To the strongest. The mantra of a demon. The first law is violence, to consume. The second law is reproduction, to multiply. Beget and kill. Kill and beget. Bloody flower petals were sharp as razors, whirling in the wind they’d made.
+
+Ling Qi was glad. Her meaning had been heard, and it had laid out what their conceptions of rightly used power had risen against.
+
+The scream of an eagle was strangled by the creak of wood and the unfurling of cord. Bolt, net and hurled stone. Wisdom could not be exercised as a stone monument, but one whose power lay in wisdom was a leader of men who wrought courage and defiance in the face of power, building the unity to stand against the gods.
+
+The titan shade of the eagle crashed down in the darkness beyond. Unchecked pride was to be brought down by the better Way, the uniting Way, which could spread and be known to many.
+
+The stench of blood and flesh and sweat was swept aside by steel and cold. Over Dzintara and around her, Ling Qi saw a towering shadow, a titan of a woman.
+
+The champion could not stand with many. Discipline. Discipline. The evils within, the base hungers preyed upon by the demon, must be banked, chained, and commanded to leave the home in the hands of tradition and kin, not the warlord’s boot. Only in sacrifice of self could power be tamed. Axes empty of desire cut the demon’s flesh. The heart already frozen in one purpose ignores the siren lure passion, the bringer of strife.
+
+The frigid scream of the wind and the tearing of bark deadened sound and buffeted Ling Qi. It might have blown her away or silenced her given time.
+
+There was the crack of division. Although sacrifice was core to both, the southerners’ cultivation was a practice of self-denial. Power could not come for free or without purpose. For better or for worse, the opposite was true of imperial cultivation, which demanded that its adherents express themselves so strongly that their Law was imprinted on the world.
+
+Her song rose, and the wind shattered to the tune of howling wolves. Unspoken, unseen chains could exceed iron in strength. Those who could break such chains were also needed. Where the diviner spoke, unity formed but also broke. Hounds howled, both for and against. A great wolf was dragged down by his own children, guts spilled upon the ground. Violence was the first law of power. Without its capacity, today would only repeat forever.
+
+The empire’s gods enforced it, quarreled over it, were chained themselves by it, and by degrees, those motions wrought difference.
+
+Endless millions of tons of crumbling stone, mountains crushed to gravel. Beasts fit to choke the world, cloven unto rivers of gore, demons sundered to dust in their millions. An echoing inhuman roar torn from a human throat, rattling the earth and sky. Wrath. Mother not of one or a few, but all.
+
+Purpose. Singular, immovable purpose, stripped of all the desires of life, stripped of the thunder of conquest, inviolable to the roots of the flower. Purpose strode far from the fires, never to return. Giants had no place in the world of humans, born or made.
+
+It was madness for gods to keep such humanity in them and to freely stir the passion of war. So spoke the clashing axes.
+
+It was madness and arrogance to think that every god could be so pure. So rebutted the cold midwinter wind.
+
+Ling Qi’s reply came on countless scurrying feet as she stopped, standing across from Dzintara. To be small was not a virtue. Neither was it a virtue to be weak. The vermin’s hunger existed in every belly, great and small.
+
+The body of the Vermin God swarmed in multitude, a thousand feet and a thousand biting teeth. They consumed and were consumed in turn. The field writhed with fur and hunger. The instinct of the vermin, of self-absorbed consumption, would gnaw through any chain in time.
+
+The vermin crawled and skittered up Dzintara’s legs and bit and gnawed at the mantle shade that shrouded her, chewing not at flesh but the foundation upon which she stood.
+
+Axes carved silver arcs in the world. A million died. The hunger of the mighty could not be compared to the weak, for all that they might be the same in kind. Only in Isolation, in hermitage and immovable discipline, could it be mastered.
+
+The flute sang, and the rats surged, not to consume Dzintara but to flow back on Ling Qi herself. With each pinprick of a bite, their bodies burst, and her qi overflowed. Want could be mastered with understanding too. Only in keeping the mighty bound in the web of community would hunger be mastered.
+
+The clouds and mist dispersed.
+
+Dzintara spoke up. “Your ways are wrong. Strife among your great souls will crush far more than their interaction might save.”
+
+“Yet we are able to change, and we are able to stand together.”
+
+“Yes,” Dzintara conceded. “If nothing else, you are certainly able to keep to contracts.”
+
+“And I see that you are devoted to your prosperity, not only of yourselves, but of the White Sky,” Ling Qi acknowledged.
+
+That was not to say there was no personal element to it. After all, it was gods who were pure and unsullied by human want. She had no doubt Dzintara had such thoughts on the nature of their high realms as well.
+
+She did not think Dzintara liked her any better, but she did think they could approach each other as neutral peers at least. Dzintara might drive hard for her side’s benefit, but not to the point of sabotage.
+
+Meeting the other woman’s gaze, she thought a similar conclusion was brewing there. Ling Qi’s sincerity had been accepted.
+
+Jaromila chuckled. “My, the two of you argue loudly. You are lucky I was here to offer comfort.”
+
+The two of them glanced toward her where the older woman was waving her hands, clearing the last of the mist from the hill.
+
+“You have my thanks, Sister Emissary,” Dzintara said. Her axes slipped back into the loops on her belt. “I am not the best synced with this mantle.”
+
+“I can grow passionate in my arguments. Thank you, Emissary Jaromila.” Ling Qi let her flute melt back into snowflakes and water. She shook out her hand, fingers immediately drying. “Are you okay, Sixiang?”
+
+“All good. Decided I’d just support your song there. No good trying to meddle,” Sixiang replied.
+
+“You’re both welcome. I am glad the debate went well,” Jaromila said. “Are you ready to speak normally now?”
+
+“I am. We are to discuss our polities more, yes?”
+
+“We are,” Ling Qi agreed. “I feel I must bring up the new arrivals in my camp…”
+
+Dzintara’s eyes sharpened. “Yes, those. They are of the west.”
+
+“Some centuries back, a great general of the empire led a reprisal against the people of the Red Garden, the worshippers of the Sunflower Goddess, and conquered them utterly instead,” Ling Qi explained briefly.
+
+“I see,” Dzintara said. “Their scent is bloody, but… not quite that of the demon.”
+
+“You still know such things?”
+
+“It is passed down from elder to youth, always.”
+
+<Makes sense. Can probably pass the impression directly if they got dream walking arts,> Sixiang whispered to her.
+
+Ling Qi tilted her chin down in acknowledgement. “Good. That will make this discussion easier. Are you aware of a great pass in the western mountains and the vast fortress of thorn and vine which cuts it off?”
+
+Dzintara’s face was blank as she considered the question, fingernails tapping the head of one of her axes. Jaromila’s eyes widened marginally.
+
+“I am. You speak of Mother Fryja. That is where she laid down her roots, carving our land from the flower demon’s body.”
+
+Ling Qi inhaled deeply. “Ah, of course.”

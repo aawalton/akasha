@@ -1,0 +1,69 @@
+---
+id: 5603ae99-abee-5482-b39b-8d39b0f15453
+page-type-slug: story-chapter-royal-road
+title: "Prologue-Smelting"
+slug: 0001-prologue-smelting
+partOf: forge-of-destiny
+position: 1
+ownLength: 2325
+unit: words
+publishedAt: 2018-10-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/301255/prologue-smelting"
+royalRoadId: "301255"
+---
+
+The carriage was impossibly fast, Ling Qi thought, as she stared out the tiny window at a landscape that was little more than a green and brown blur. She knew she should be excited, maybe awed; she was witnessing the power of Immortals after all. It wasn’t something a girl like her could have ever expected to see.
+
+Instead, she simply felt numb. Absently, she brushed a strand of unruly black hair out of her eyes. She had let it get too long again, hanging down below her ears as it was. She was being taken to the Wall, the impassable mountains that formed the southern border of the Emerald Seas province. The carriage was bound for the Argent Sect that resided there, and it was all because a terrifying man in a porcelain mask had said that she had the talent to become an Immortal.
+
+It was why she sometimes heard voices no one else could hear, why she could feel strange presences when she ventured out to the outskirts of the city where the wards against the spirit beasts were porous and weak. She had always assumed she had been born a bit crazy.Boyish, inelegant, crazy Ling Qi, who ran away rather than play doll for her mother.
+
+It had grated when she was younger, listening to her mother’s complaints about her appearance and demeanor, hearing the frustration in the woman’s voice when she talked about her. Ling Qi was too tall, too thick of limb, her skin too dark, and her features too long and lacking refinement.She couldn’t say she regretted leaving. It wasn’t as if Mother had tried very hard to find her in the four years since she had run off. Ling Qi blew the stubborn strand of hair out of her eyes again and turned her thoughts away from the past. It was pointless now; she would never grow up to be like her Mother, and so, she had left. She was free, even if it meant facing hunger and cold. Even if it meant she had often been hurt or frightened. She might be ugly, be poor, but she was herself, did as she wanted, which to her was all that mattered. It had to be.Which was why this grated on her.
+
+She should have been ecstatic, the only commoner from her city that had the talent... Would any other denizen of Tonghou be able to raise their heads in front of her by the time she was done training? Would even Mother be able to criticize her? No, of course not.
+
+She still wasn’t happy though, because once again she found herself without a choice. She had no money, no resources. Even if she had gone back to Mother, the woman wouldn’t have been able to pay the fees described by the recruiter, and if she had refused to go along to the sect, her talent would be removed. She hated the idea of something that was hers being taken away even more.So once she was done training, she would owe the Empire eight years of military service instead. Not very long at all in an Immortal’s lifespan, she had been assured. Really she couldn’t say that the idea of facing off against the wind riding mountain barbarians like a figure out of a story didn’t excite her.
+
+She just hated not having a choice.Ling Qi shook her head and turned away from the blurring landscape outside the carriage window. The carriage was eerily quiet. More magic, she supposed, and despite her misgivings, she couldn’t help the spark of excitement she felt at the thought.
+
+Still, it had been hours since they left, and she was bored. Even at this speed, it would still be some time until she arrived. So rather than continuing to mope about the past, she decided to turn her attention to the leather satchel sitting on the bench across from her. It contained her meager possessions: a few coins, some clothing, and an old wooden flute that she had liked to play on occasion. Mother’s music lessons had been one of her happier memories.It also contained what she had been provided by the recruiter. Reaching over, Ling Qi picked up the bag and flipped it open. Peering inside, she ran her fingers over the bundle of grey cloth that sat on top. She once again marveled at the smooth softness of the material. Her disciple’s uniform, the man had said. Something provided to less well off disciples, since normal clothing would have difficulty holding up to the rigors of training.
+
+There were a few other things too: a hand mirror, a comb, and a sewing kit, among a few other miscellaneous items. She supposed the implication was that she should make herself presentable before she arrived. She glanced down at her rather ragged brown shirt, pants, and muddy sandals. Not exactly the most impressive outfit.
+
+This was the first time in a long time that it might matter though. She hadn’t had much time before she had been shuffled into the carriage. If she was going to make an effort, she should do it now. Ling Qi glanced toward the locked door on the other side of the carriage, then back toward the window. There was enough space at least; it really seemed like the carriage was meant for several people. After another moment contemplating the contents of the satchel, she drew the shutter down over the window and got to work changing.
+
+Some time later, Ling Qi sat back down with a frown on her face, idly smoothing the wrinkles out of the amazingly soft gray fabric of the outfit she now wore. It was… nice, but she hadn’t worn a dress in years. At least it didn’t pinch and cling like the ones Mother used to try and make her wear.
+
+It was layered and cut on the bottom half to allow for easy movement, but annoyingly loose around her hips. She had had to bunch up the sash and tie it twice. At least the wide, billowy sleeves would be good for concealing her hands. She could also hide things inside them pretty easily with a bit of work. The embroidery of clouds and stylized wind currents were kind of nice too.
+
+She still felt uncomfortable though. It felt strange to wear something that probably cost more than a month of a laborer’s wages. Well, maybe whatever this was made of was the Immortal equivalent of sack cloth? She glanced down at the mirror in her hands. There weren’t any cosmetics provided thankfully, so apparently they didn’t expect her to dress up that much.
+
+There had been a few hairpins though, made of some kind of painted bone. She thought they went well with her bright blue eyes. That was her best feature in her own opinion. No one else in her hometown had eyes that shade. Not that her effort at pinning up her hair in some resemblance of order had prevented the strands from falling back into her eyes. Maybe she could learn some kind of magic to manage that, she thought idly.
+
+As she put the mirror away and reached for the clean sandals that had been under the uniform, the carriage suddenly jerked, almost sending her tumbling headfirst into her bag. Snapping a hand up to grab the frame of the window, she managed to steady herself.“Be ready. We’re nearly at the entrance plaza,” sounded the voice of the man who was driving the carriage. He had seemed… less formal than she would imagine an Immortal to be, greeting her kindly as she had passed the two adults to enter the carriage.
+
+Curiously, she lifted the shutter that she had pulled down over the window. They were now moving along at a much more normal pace while traveling up a meandering mountain path. Somehow, the inside of the carriage remained level despite the slope.“I will be ready shortly,” Ling Qi called back after a moment’s hesitation. Whatever had been blocking the sounds from outside was gone, she noticed with a start. She could hear birdsong and the sound of the horse’s hooves again as well.
+
+“H-how long do I have?” she asked tentatively a moment later, frowning at the hesitant stutter that had come out despite her best efforts. She was nervous, but she couldn’t let them see that. One thing she had learned quite well by now was that the appearance of confidence was important.“Oh, you’ve got a few more minutes more,” the man called back in a lackadaisical tone. “The Sect doesn’t like us speeding on the mountain, at least for those of us stuck on the ground anyway.”Ling Qi blinked. Was he implying that some would be arriving by flight? She had heard stories… but had thought that mostly the domain of the mountain barbarians.
+
+“Thank you. I’ll just be a moment.” It felt strange to revert to the speech Mother had taught rather than the more relaxed kind she had gotten used to in the last few years, but it felt like a good idea. If there was one thing Mother had been right about, it was that first impressions mattered.Shaking off such thoughts for the moment, she reached down for the sandals, a determined expression on her face. She would need to be ready.
+
+When the carriage finally came to a stop, Ling Qi felt she was as prepared as she could be, given that she didn’t precisely know what was coming next. The driver hadn’t said anything else, and neither had she, preoccupied as she had been with trying to focus and keeping the nervous thoughts that kept flitting through her head from showing.There was a thud from outside and the sound of footsteps walking around the carriage as she stood, self-consciously smoothing the wrinkles in her new uniform. Shortly thereafter, there was another click and the door opened, revealing the driver.
+
+It was difficult to read his face, or anything really, given how well covered he was. He wore a strange, wide brimmed hat from which hung paper slips covered in odd symbols. It left his eyes barely visible in the gaps between the slips. The high collar of his deep blue robe rose to meet the hangings, concealing the rest of his face. Somehow, he managed to give the impression that he was smiling.
+
+“Need a hand getting down?” he asked pleasantly offering a gloved hand to her.“I’ll be fine, thank you,” Ling Qi responded with confidence she didn’t quite feel, hesitating only a moment before picking up the now lightened satchel and stepping down slowly to avoid tripping on the hem of her dress.
+
+As she reached the bottom of the steps, she finally got a look at her surroundings. The two of them stood on a wide stone plaza built upon a plateau carved into the mountainside. She could see the steep road they had traveled to get here wind past the ornate gate that broke the stone fence encircling the plaza and vanishing into the mist below.There was only a single building here, a large two story structure with a high peaked roof that reminded her both of a temple and the scholars’ testing hall in Tonghou City. The plaza was dotted with small, tastefully arranged gardens centered around tall peach trees. There was still a trickle of people going into the building dressed in similar uniforms, as well as several other similar carriages, each with their own eclectically dressed driver.“Hey, might not want to stand around staring too long.” She startled as the driver’s amused voice jolted her from her thoughts. Ling Qi glanced over at him and then back to the central building. He was facing away from her, working to free the odd, blue furred horses from their harness.
+
+“You’re in the last group of arrivals so one of the elders will be down soon to lay out the rules. You’re assigned to hall one by the way.” He patted one of the horses on the neck, drawing a snort from the beast, as he turned back to face her.Ling Qi still hadn’t gotten a proper look at his face, but somehow, the tilt of his head gave the impression that he was examining her, making her straighten her posture unconsciously.
+
+“Thank you,” she responded after a moment. “And… where is hall one? And is there anything else I should know?”“In the front door. Just follow the signs,” he responded dismissively, crossing his arms. The act tugged the long sleeves of his robe up, showing that his gloves extended to at least his elbows. He paused, once again giving her the feeling of being appraised.
+
+“The Elders will lay out the rules. Just be respectful,” he added in a lazy tone. “But… find some friends and be quick about it. Loners tend to have trouble. You can’t watch your back all the time, you know?” His monstrosity of a hat tilted to the side, and she got the impression that he was smiling again. “Call it advice from a senior who was in a similar spot.”She… had never been particularly good at making friends, much less keeping them, but she could take friendly advice with good grace.
+
+“Thank you again. I should be on my way though.” Her voice was more hesitant than she would have liked. She turned to head toward the building then stopped.
+
+“Might I know your name?” she asked. It seemed silly to not at least introduce herself to someone who seemed helpful.“Dong Fu,” he responded easily. “You’re right. Get going. You don’t want to be late, and I already know your name.”Ling Qi dipped her head in his direction and set off, hurrying along as fast as she could manage in her new clothes.
+
+The Sect’s central building loomed ahead. Somehow, she knew, things would never be quite the same again once she crossed that threshold.

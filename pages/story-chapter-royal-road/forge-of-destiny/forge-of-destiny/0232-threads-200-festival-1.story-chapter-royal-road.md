@@ -1,0 +1,159 @@
+---
+id: 14156001-5134-5053-8539-edd6cb9722f1
+page-type-slug: story-chapter-royal-road
+title: "Threads 200-Festival 1"
+slug: 0232-threads-200-festival-1
+partOf: forge-of-destiny
+position: 232
+ownLength: 2028
+unit: words
+publishedAt: 2022-03-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/869066/threads-200-festival-1"
+royalRoadId: "869066"
+---
+
+The garden had turned out well, Ling Qi thought. Thankfully, the rest of Hanyi’s tour had been much less stressful. Traveling a circuit of the valley viscounty, she had the opportunity to speak with many more minor nobles, cementing an overall good impression. More importantly though, she was able to see Hanyi’s smaller performances.
+
+Out in the countryside, the rites she took part in were not on stages surrounded by nobles, but in old growth groves, at important lakes, and in the center of fields, and though they held a respectful distance, the public came to watch.
+
+Ling Qi had never been familiar with priestly rites and organized festival days. In Tonghou, very few temples and shrines existed in the outer city. There were the quiet men and women who oversaw funeral rites and scattered shrines out in the agricultural lands. The people of the outer city had their personal rites, like the thieves whose slapdash shrine to the Grinning Moon she had observed once. The Liu clan that oversaw the Tonghou viscounty was content to leave it at that.
+
+So it had surprised Ling Qi to see so many mortals gather for these services. Even if they were dull to her senses, there was a certain solemnity that had struck her as she watched the rites performed in the face of the coming winter with Hanyi’s song drifting through the air. The scent of burning candles held tightly in hundreds of hands, the sight of softly lit lanterns heavy with offerings drifting down the mountain streams, and the sound of prayers whispered too softly for mortal ears to hear all marked these smaller rites.
+
+The closest thing she could compare it to was watching new roads carved into wild earth.
+
+“Ah, Big Sister is back!” Gui’s voice reached her as she stepped into the shadow where two slender trees came together in an arch and emerged in the center of the garden where the heat from the boiling mineral springs sent streamers of steam into the evening air. Earth and stone shifted, gravel falling as Zhengui rose from the depression, the nest he had dug out for himself, his footfalls sending ripples through the bubbling waters.
+
+“That’s right,” Ling Qi said with a smile, reaching out to pat him on the head. “There were some snags, but Hanyi’s tour went well.”
+
+“I, Zhen, suppose I will have to congratulate her then,” the serpent said haughtily. “But she is not the only one who has been working hard. Look upon our work, sister!”
+
+Ling Qi looked behind them to the garden surrounding the mineral spring. The bright colors of the flowers contrasted with the cool shadows and drifting mist. Shaped stones had been raised throughout the garden center as well, silent silhouettes in the steam and mist. They were a little crude, and Ling Qi couldn’t quite work out how they had been shaped. Passing Zhengui, she knelt down in front of the closest. It seemed like it was only a boulder at first glance, but a closer look revealed that the low slung stone was shaped roughly like a tortoise.
+
+“How did you make this?” Ling Qi asked, brushing her fingers over the shaped stone. Already, moss was growing over it in the crevices that provided it detail.
+
+Zhen puffed up with pride, and Gui seemed to do the same. “Well, Gui had the idea when he saw some crafty-humans. Since Gui can make wood very hard to burn, he can make ‘molds’ if he really tries.”
+
+“And I, Zhen, can easily produce molten stone. Glass, too, will be within my reach,” Zhen said proudly.
+
+“Glass is weird! Every time we tried, it was ugly and cloudy,” Gui grumbled. “Rock is better.”
+
+“Hmph. Glass would be more beautiful if Gui could digest things properly,” Zhen hissed.
+
+“It’s a great idea,” Ling Qi said, cutting off their argument before it could really begin.
+
+“Heh, he’s pretty creative,” Sixiang piped up, their eyes materializing over her shoulder to look over the sculptures. “Gotta admit, even I thought you needed hands to do sculpture.”
+
+“Yes, Gui is very smart,” he chirped, earning a complaining hiss from Zhen. “I wanted to make one of everyone, but Hanyi and Big Sis are hard. The Sixiang is harder.”
+
+“Wouldn’t look right with rock anyway,” Zhen grumbled.
+
+“Hm, hm, I bet I could figure out some tips now that I think about it,” Sixiang mused.
+
+“Probably. We did need to add ward stones to the garden anyway,” Ling Qi mused. Their presences kept malicious spirits out, but if they let anyone in, it would be good for the developing spirits of the gardens to have boundaries. “Sculptures would be more interesting than just stone posts.”
+
+It would be good practice, Ling Qi thought. Between the dream realm and thresholds and the creation of this garden, Ling Qi was beginning to come back around to her formation craft. Warding stones, which provided the boundaries between the lands of man and spirit, were something any noble needed. Her exploration of dream had given her some insights and renewed interest in formations relating to the liminal such as doorways, thresholds, and borders.
+
+“Zhengui will keep making them better then,” her little brother agreed happily.
+
+Ling Qi nodded and stood. “Anything else interesting happen while I was away?” she asked.
+
+“Um, I don’t think so. I went to play with Mr. Avalanche and the Rockhead, but I spent most of my time here.” Gui said.
+
+“That’s good. Did you have fun?” Ling Qi asked, strolling to the edge of the mineral spring. They had come a fair way from blowing up the hilltop.
+
+Zhen made a hiss of agreement as he moved up beside her, his presence making the bubbling water snap and hiss more violently. “Sister, do you really like the garden?”
+
+Ling Qi blinked. “Of course, Zhengui. We’ll get better with practice, but I think this attempt turned out really well.”
+
+Gui scuffed his foot across the flat stone that lined the pool’s edge. “But Gui knows Big Sister couldn’t do everything she wanted with her art.”
+
+Ling Qi frowned. It was true that she had intended to work with the Winter Hearth’s Resounding art with the idea of cultivating it alongside Zhengui. The art had advanced, growing past the early stages, but at the same time, it never felt like the cornerstone of what she was working on.
+
+“Well, of course not. You had me helping too,” Sixiang chuckled. “This has been a really fun project, you know?”
+
+Ling Qi shook her head, turning to meet her little brother’s questioning gaze. “I wanted to cultivate that to make the garden better, but our ideas changed. I… don’t really regret that.”
+
+Besides, although she had not gone through with actually altering the art, she did have some ideas for it still. Perhaps it was a little inefficient of her to change course like that, but this was more important.
+
+Zhengui looked at her for a long moment. “Okay.”
+
+They looked out over the garden in silence for a few minutes in comfortable silence before Zhen spoke again.
+
+“When can we show grandmother and little sister the garden, sister?” Zhen asked.
+
+“We’d need to finish up a few things, but we can probably show them before the tournament starts,” Ling Qi said thoughtfully. This was a place for Zhengui, but also because of that, a place for kin. It would be safe.
+
+“Actually…” Gui began, trailing off. “No, nevermind.”
+
+“That’s unusual,” Sixiang murmured.
+
+“Speak up, Gui,” Ling Qi said curiously. “What’s wrong?”
+
+“Gui wants the others to come. The shrine-maker, the dancer, and the others who talk to us,” Gui explained slowly. “Um, Gui has made this place, but more people should come.”
+
+Ling Qi frowned for a moment. He wanted some of the staff to come too. That was…
+
+... That shouldn’t have surprised her.
+
+She’d seen it on her tour with Hanyi. Mortals gathered, and spirits exalted. She had been in someone else's lands, participating in someone else’s rituals. But she wouldn’t always be. People would follow the rituals she laid down, and those people who would be living under her power.
+
+“Big Sister?” Gui asked, sounding worried.
+
+“That’s a good idea, Zhengui,” Ling Qi said, patting him on the head. They’re our people too, huh? Even if they’re not family.”
+
+He brightened up.”Yeah! Even if this is just the first try, this is the place for Gui.”
+
+“The place for Zhen,” his other half echoed.
+
+“And for Big Sister,” they said together. “Our people should come!”
+
+Ling Qi nodded absently. “Well we have some work to do then. You’ll need to work on some more sculptures and I’ll work on inscribing warding arrays on the ones you already did.”
+
+“And I’ll work on placement,” Sixiang said cheerfully.
+
+***
+
+“A festival?” Ling Qingge asked, pausing in the act of setting down a plate of pear slices in front of Biyu.
+
+“That might be overselling it,” Ling Qi admitted. “But it's the best word I can think of for gathering everyone together like this.”
+
+“Momma!” Biyu complained, reaching up to grasp fruitlessly at the plate from her raised seat.
+
+Ling Qingge blinked and set down the plate, drawing a happy cry from Biyu as she grabbed at the first slice of fruit. Ling Qingge patted her fondly on the head, even as she frowned thoughtfully at Ling Qi.
+
+They were in the dining room, the door to the gardens open to let in the increasingly rare warm air. Mother and she had tea set out for them while Biyu now had her snack.
+
+“Why, if I may ask?” Ling Qingge queried after a moment.
+
+Ling Qi shifted under her mother’s searching gaze. “It’s for Zhengui. I don’t know how much you ever learned of spirits, but he’s growing. This is the kind of thing he needs.”
+
+“I will not pretend to understand completely, but I would have thought that it would just be Biyu and I,” Ling Qingge said carefully. “He is… part of the family after all.”
+
+Mother sounded uncertain, but she was educated on how noble families worked.
+
+“Go see Big Turtle?” Biyu asked through a mouthful of pear, looking at her with wide eyes.
+
+“Yes, you’ll be able to see him soon,” Ling Qi said. “Do you think Nanny and the others would want to see him too?”
+
+Biyu contemplated her question deeply. “Scary. Big Turtle should be Little Turtle.”
+
+“We have considered that,” Ling Qi said looking up at her mother. “It would be voluntary. I do want you to make sure everyone understands that.”
+
+Ling Qingge merely furrowed her brow further. Ling Qi understood that such words held little meaning. When one who held so much power over you spoke of ‘voluntary’ actions, who would really believe them in their heart of hearts?
+
+... That, too, was a consequence of power.
+
+“I know I am not really involved with them, and they don't know me. But you do, Mother. Do you think they can trust you?” Ling Qi said.
+
+“I know you would not put any of them in harm's way on purpose, Ling Qi. I will do my best to convey that to everyone. You wish to do this next week?” her mother asked.
+
+“That is the most time I can give for this since the next day will be the tournament. I’m still not the best at making plans for other people,” Ling Qi said wryly. “Ah, even if they’re not working, please make sure they know their wages will remain the same.”
+
+The last thing she wanted was even a sliver of resentment infecting proceedings.
+
+“Yes, of course,” Ling Qingge said with a small sigh. She was smiling though. “Do you have any other surprises to spring on your old mother?”
+
+“Well…” Ling Qi said drawing out the word, earning a look of mock horror from the older woman and a giggle from Biyu. “No… Nothing else unexpected.”
+
+There were countless concerns that would be on her shoulders in the near future, but for now, she was pleased to just have a quiet tea time with her family.

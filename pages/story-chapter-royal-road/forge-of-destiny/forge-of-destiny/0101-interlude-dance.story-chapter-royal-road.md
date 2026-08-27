@@ -1,0 +1,73 @@
+---
+id: ffefbf50-00b6-57e7-bc23-b041ea6772a5
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Dance"
+slug: 0101-interlude-dance
+partOf: forge-of-destiny
+position: 101
+ownLength: 1188
+unit: words
+publishedAt: 2021-05-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/675884/interlude-dance"
+royalRoadId: "675884"
+---
+
+Ling Qi really was beautiful, Sixiang mused.
+
+Their hands materialized from the waters, and their body followed. It might have been the form grandmother had made, but it was theirs now. Straying too far from this template just didn’t feel comfortable anymore. Was this what humans referred to as self-image?
+
+“Show me something slow? I need to think,” Ling Qi said, taking their hands.
+
+It was funny. So many of this girl’s human friends regarded her with mild exasperation. It wasn’t unkind, but words like “oblivious” and “airheaded” came up sometimes. Yet to Sixiang, Ling Qi stood out in sharp relief, her colors vibrant in a way that few were. To someone who had known only the misty realm of dreams, Ling Qi was a great contrast. Although she could be easily distracted, her core drive was as sharp as a blade. When they looked upon her they saw a core of absolute black that greedily drank in everything it touched. It lay shrouded in mist and breeze, tinged with silver and colors beyond count. Cords of that blackness shot through the whole extending in a web that went beyond sight with one such cord bound to them.
+
+“Not my style, but I guess I can think of something,” Sixiang’s avatar said with a lopsided grin. They didn’t betray their thoughts. They had gotten good at that. Sixiang considered a moment, holding Ling Qi’s hands. They knew a few court dances from fragments of old selves.
+
+As Sixiang’s avatar began to lead them through the first twirling steps, sending ripples through their dreamstuff, Ling Qi asked, “What actually changed your mind, Sixiang? I know I’m not that good of a speaker.”
+
+They were silent, their mind’s eye flickering back through their own experience. They remembered not just looking out through Ling Qi’s eyes, but truly immersing themselves in that perspective. It had hammered home the truth of their differences. Through Ling Qi’s eyes, the real meaning of fear had been hammered home. Through Ling Qi’s eyes, they had learned the truth of attachment. Through Ling Qi’s eyes, they had learned that those things were two sides of the same coin. In the waking world, one came with the other.
+
+It had shown them how wrong they were to imagine that they had drifted far from their roots. They had taken a single step and thought to run back to clutch at their grandmother’s skirts. “Does it matter? I made up my mind,” their avatar said cheekily.
+
+Ling Qi gave them an arch look as the steps of the dance took them apart, the shore growing further away with each step. As they came back together, she replied, “It matters to me. Are you really alright?”
+
+“I am,” their avatar reassured her. “I really am, Ling Qi. I just got some perspective.”
+
+Ling Qi gave them a suspicious look but subsided. Sixiang was glad. They weren’t sure they could put the truth of their realization into words that would not alarm her. They weren’t afraid anymore because there was nothing to be afraid of.
+
+They weren’t human. Even if this incarnation ended, it wasn’t their end. Even if Ling Qi ended… It would hurt, but Sixiang would make sure that her song echoed through Dream afterward. That way, it wouldn’t be Ling Qi’s end either.
+
+To think that cranky ice spirit had been more in touch with the truth of the world then they had. That was the benefit of age, they supposed, and in any case, they still came at it from different angles. If Zeqing had been [Endings], then their nature was [Impermanence].
+
+No wonder their growth had stalled out.
+
+Ling Qi was silent as they danced, and Sixiang considered her thoughts. Peering closer at her, Sixiang rippled in amusement. “Ling Qi, are you still cultivating?”
+
+“I never stopped,” Ling Qi huffed. “If you won’t talk to me even now with Playful Muse’s Rapport, then I’ll just need to try Melodies of the Spirit Seekers to figure you out in some other way.”
+
+Sixiang made their avatar huff in exasperation as they wove through the dance, circling one another, their hands separate for now. “You're so pushy,” they teased.
+
+“I am when I need to be,” Ling Qi said primly, turning up her nose.
+
+Sixiang snorted with laughter, the sound echoing from the waters all around. “I found my perspective and worked out what I valued more. Can’t you leave it at that?”
+
+“I left things be the last time and look where it got us,” Ling Qi replied, their dance interrupted as the girl stepped forward to poke their avatar in the chest. “Just talk to me before it gets this bad next time, alright? I know I’m bad at noticing some things on my own. Please talk to me,” she pleaded, and the cord that bound them thrummed, as did the two other bonds representing Ling Qi’s other spirits.
+
+Sixiang turned their avatar’s head toward Ling Qi, but the words they spoke came not from its avatar’s lips, but from all around. “I promise.” There was no reason to worry about Ling Qi tiring of them now; they would speak their mind more often and more clearly in the future.
+
+“Good,” Ling Qi huffed, taking their avatar’s hands back up as they began the dance again from the beginning. “Now, I just need to figure out how to have the same conversation with Zhengui,” she grumbled.
+
+“Convincing the lil’ big guy his Big Sis is fallible might take some doing,” they jested, but Sixiang squeezed her hand anyway in support.
+
+“Tell me about it,” Ling Qi sighed. “Well, let’s set aside the heavy stuff for now. Do you think I’ve been cultivating the art your grandmother gave me wrong? Looking through your eyes, I feel like I’ve made a mistake somewhere in my understanding of Phantasmagoria of Lunar Revelry.”
+
+Sixiang considered the threads of moonlight that Ling Qi had woven throughout her legs and lungs, turning them into channels of liquid silver. Before today, they would have said no, that Ling Qi was doing fine. However, they had realized how they had blinded themselves by viewing the waking world as less malleable, more different than it was.
+
+So Sixiang’s avatar smiled mischievously, and before Ling Qi’s eyes could do more than widen in alarm, they stepped.
+
+Dead and withered leaves spun up in a miniature cyclone as the world rippled. Where one moment there had been a silently meditating girl seated upon a stone, there was now a pair dancing through the leaves. Ling Qi’s eyes widened as she glanced around, disoriented, and she almost stumbled as Sixiang released her hands.
+
+Sixiang could not help but smile even as they dissolved back into moonlight and wind. Even if they understood the trick of stepping between the Dream and the Real, manifesting was certainly rough.
+
+Before they could dissolve wholly, Ling Qi met their eyes. “You will be showing me how to do that,” she said firmly.
+
+<Of course,> Sixiang laughed, once more at home in Ling Qi’s mind. <Just make sure to clear your schedule.>

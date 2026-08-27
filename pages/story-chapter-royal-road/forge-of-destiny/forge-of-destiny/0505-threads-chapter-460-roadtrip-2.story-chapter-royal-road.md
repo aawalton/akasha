@@ -1,0 +1,195 @@
+---
+id: 7990e212-e067-585d-8d20-4be6d5d496bf
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 460-Roadtrip 2"
+slug: 0505-threads-chapter-460-roadtrip-2
+partOf: forge-of-destiny
+position: 505
+ownLength: 2370
+unit: words
+publishedAt: 2025-07-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2437480/threads-chapter-460-roadtrip-2"
+royalRoadId: "2437480"
+---
+
+Ling Qi placed her hand over Biyu's and let her eyes drift shut, focusing on the spiritual element she could feel thrumming through the space.
+
+When she wanted to be, Hanyi could be very disciplined. The spirit’s song drifted out, soft but strident, echoing through the porches and balconies that lined the courtyard space. It tugged at the heartstrings, stirring a universal feeling, the desire to rest well at the end of a long labor.
+
+Ling Qi opened her eyes to observe the clouds of frosted air, shot through with sparkling lights. She could feel the little knots of power whirling through it, small faeries captivated in her junior sister's orbit, but they were muted supporters compared to her sister's presence.
+
+Hanyi's voice filled the garden, like the cry of the south wind and the ringing of festive bells. Her silhouette was a shadow in the frost, taller and more willowy and elegant than she was in truth. A veil fluttered on her face, and she wore a long gown with billowing sleeves. The resemblance to Hanyi’s mother, Zeqing, was obvious.
+
+The winter spirit proceeded down the stone path, trailed and proceeded by frost, singing her song of oncoming winter and the calm days which rewarded the well prepared, sealed inside with their fires.
+
+The world was listening. Hanyi was still so small a spirit, but in the yawning, uncomfortable silence that lingered over these lands, her voice carried, and greater spirits in the clouds and the wind and the water and the earth listened, if only to move along well worn paths of rite and offering.
+
+She could see why Hanyi's tour was accepted by the priests, unorthodox as it was.
+
+And of course, the performance was captivating, even to eyes that could only see the physical. Biyu was on the edge of her seat, watching Hanyi's silhouette spin and sway, while her song poured out, high and clear.
+
+Really, she didn't have anything to worry about. Hanyi had these performances well in hand.
+
+***​
+
+Hanyi was still Hanyi.
+
+"Hohoho! Of course it's only right for the little sister to recognize the elder's greatness!"
+
+"Uh huh." Biyu stifled a yawn. The girl was held in her arms, and with it being so late, she was struggling to stay awake.
+
+The show having finished, they had migrated to the rooms set aside for Hanyi to prepare herself.
+
+Biyu's eyelids drooped, even as she obviously struggled to stay awake, held in her Mother's arms.
+
+Hanyi stood proudly, hands on her hips. The silvery hair ornaments woven through her hair jingled loudly as she tossed her hair and tilted her chin up, clearly preening.
+
+"Naturally," Ling Qi said dryly.
+
+Hanyi nodded vigorously, which only made them jangle more. "Yeah!"
+
+No irony at all. Hanyi was honest that way.
+
+"So…um, Sis, what did you think? What should I work on?"
+
+Very honest.
+
+"You performed excellently. There were no areas you were lacking," Ling Qi praised. "But you shouldn’t be complacent. You should continue refining your voice and song composition. There were moments where your tone wavered and where the arrangement became rough. Your presence is good, but in that, you mostly need to just coordinate your supporters better."
+
+Hanyi rubbed her chin. "Oh, I'll have to work the girls harder."
+
+Ling Qi flicked her across the forehead.
+
+Hanyi yelped, covering her head with her hands and looking up in betrayal.
+
+"Practicing coordination is important, but only bad leaders put all the blame on their subordinates for group shortcomings," Ling Qi scolded gently.
+
+"Ooookay," Hanyi accepted huffily.
+
+"I will keep an eye on the matter and offer management advice as needed," Bao Qian offered from his position leaning against the wall. "If Lady Ling allows."
+
+"I do. Please keep the young miss on task, Sir Bao," she accepted primly.
+
+She hid her grin at Hanyi's comically crestfallen expression.
+
+From within her arms, Biyu reached out and patted the spirit on the shoulder. "It’s okay! You're good!"
+
+"Of course I am."
+
+"Your performance was excellent. That you still choose to ask advice even with your skill is worthy," Mother complimented. She lurked near the back of the room by the door. Ling Qi knew her mother still found Hanyi somewhat unsettling.
+
+Hanyi pouted. "I don't need to be babied. I asked for advice, didn't I? I get it, Big Sis. A boss will get lazy if they can just push everything off on the ones below them. I won't be like that! I'll whip us all into shape!"
+
+"I have great faith in the young miss," Bao Qian said gravely.
+
+The young singer squinted up at him and jabbed a finger out. "You’d better!"
+
+"Thank you, Bao Qian." Ling Qi maneuvered Biyu to rest in the crook of her arm as the little girl’s eyelids drooped.
+
+"You are welcome. Also, if it pleases you, I believe I have found a good location for the expedition we discussed."
+
+"The spirit recruiting?" Ling Qi asked to clarify.
+
+"I don't need a group," Hanyi protested. "But I guess you need some girls to handle the rites in the boring seasons."
+
+Ling Qi chuckled at that.
+
+"Yes,” Bao Qing answered. “It's on the edge of the western wilderness zone. Fantasia, as the locals call it. There is a potent court of seasonal spirits there. It's a bit wild, but I don't think you would mind that."
+
+She'd heard of Fantasia, the zone within the Meng lands fully under the sway of the Dreaming Moon. So visiting a location near to that might be quite beneficial to her, too.
+
+"Certainly. If you have secured the permissions for our travel, I'll accompany you."
+
+"Good, good. I've arranged a visit for the end of the tour… First spring, around the seventeenth day?"
+
+First spring meant the second month of the year. Even if the events in Xiangmen ran long, she'd be done with her business by then.
+
+"I'll see you there. Until then, do keep my junior sister on task."
+
+"Big Siiiiiiis!"
+
+***​
+
+It was a good night and a good morning. Time spent in the company of her family steeled her spirit for what was to come. The interplay of provincial politics, the dizzying spectacle of Xiangmen at its most extravagant, and the raw pressure of being near the Duchess, all of these lay ahead of her.
+
+Ling Qi sat in her private Cai-provided carriage as it rolled away from the Shan viscounty and her sister and mother split off to the south to return to Shenglu Town. The ride alone was much less enjoyable, though it was good to restrict her senses and sink deeply into cultivation while the first day went by. She would rejoin her liege, Xia Lin, Gan Guangli, and Sixiang in the afternoon of the second day.
+
+The driver had been well compensated to keep up the pace through the night, so that she would be in place at the right time. As she felt the carriage decelerate and roll to a stop, Ling Qi stirred out of her meditation in surprise.
+
+She cracked an eye open and extended her senses. Soldiers outside. Clattering metal, men and women on frantic patrol, a checkpoint on the road in hastily arranged defensive formations. And distantly, the oily qi of old blood and rot.
+
+"Lady Ling, you are requested outside," her driver called out, voice tinged with concern.
+
+She understood the reaction. Even if the soldiers themselves didn't worry her much, old fears didn't disappear easily. They wore Diao regalia as they'd crossed back into the central valley some hours ago.
+
+"I will be out in a moment," she called back.
+
+The air was foggy here, hard to see and hard to sense. The mass of voices still whispered, but it was muted and filled with static.
+
+She understood as she stepped outside. The air in the north was filled with streamers of oily black smoke, and the smell of burning impurity drifted their way. It came from beyond the road and beyond the low walls of the settlement here, off the main thoroughfare.
+
+"Noble Lady, this humble soldier apologizes deeply for obstructing your path."
+
+The man who spoke, stepping out from the hastily raised wall of cultivator-sculpted stone and woven live root gates, was an old man with more gray than black in his short beard. She noted the marks of rank on his armor, the pale rose colored plume on his helm, and the strips of green jade set in the metal.
+
+He was third realm himself, her superior even the deep well of his qi solid and set at the peak of the realm. Yet, still, he bowed as if she were his better, fists clasped before his chest
+
+"I will never chide a man for doing his rightful duty. What tragedy has struck so deep in the central valley?"
+
+"This one must unfortunately ask that the lady provide her credentials before he speaks further."
+
+Now, that was interesting—and quite rude by normal etiquette. Theoretically, she could easily bring a complaint to the Diao for being disrespected by a common soldier like this, no matter how veteran. She saw the way the tension rose within his men as he spoke those words, but she could also see he would be unwavering in this request.
+
+She gestured to her driver. He climbed down from his seat, shakily wiping the sweat from his forehead. Then, he handed her the bundle of papers from his bag which indicated their travel plans, a formality under most circumstances, just a way of providing records for the toll gates on the roads between fiefdoms.
+
+Ling Qi observed the veteran soldier's shoulders loosen as he scanned the seal of the Ministry of Commerce, waved the wooden confirmation talisman over the formation mark on the form, and received a positive pulse from the device. It was, she admitted, gratifying that when he looked up, there was recognition in his eyes.
+
+"Lady Ling, thank you for your kind cooperation in these troubled times."
+
+"It is nothing," Ling Qi dismissed. She took her papers back and passed them to her driver. "What trouble could cause this? I sense the taint of ith weapons in the air, but what is the purpose of the blockade?"
+
+"Lady Ling's eyes are sharp. Yesterday, there were over a score of attacks in the lands of the Diao. They were smaller in scale than what you foiled, but the corpse eaters wield the most vile of miasma and poisons. We have had to quarantine this village until a physician of higher realm can be dispatched to ensure no plague spreads from here. Hence, all main roads through the Diao lands have been placed under observation."
+
+"I see," Ling Qi acknowledged woodenly.
+
+She couldn't help it. Her gaze flicked toward the village, ominous in its quiet darkness now. She shouldn't have looked closer, but she did anyway.
+
+Pain choked the streets of the village. It was painted on the walls. It floated free in the air. It was like a miasma itself, the feeling of uncertainty and anxiety and the pain of constricting throats and heaving lungs and choking on a swollen tongue.
+
+The voices she had heard from within its walls were more soldiers. They were encased in sealing formations etched into their armor that lit them aflame, tongues of pale yellow purifying fire cooking the air outside of their armor.
+
+The pit for bodies was on the far side of the settlement. Only the manor house was still lively, the remaining people of the village sequestered there. Even there, many of them were breathing fitfully and poorly tended by a handful of exhausted medical apprentices and alchemists.
+
+Ling Qi squeezed her eyes shut and yanked her senses back from the quarantined town.
+
+"That isn't enough reason to close down the road to passersby fully, and I cannot help but notice that you have not waved me through," Ling Qi observed.
+
+She panned her gaze over the soldiers. Hands tightly gripped weapons, and anxiety wafted off the oldest soldiers and infected the younger.
+
+"You believe the attacks were delivered through saboteurs on the surface?" Ling Qi asked.
+
+The old soldier nodded once tersely. "That is what the divinations indicate. The sewers and mines have been well watched. Our enemies came through on the surface, which means…"
+
+"Disguise and infiltration techniques. I'm being scanned right now, aren't I?'
+
+The tingle was incredibly subtle. Even aware now, she could barely hear the grumbling voice of the talisman array, back behind the checkpoint.
+
+"The Diao clan has implemented Hui hunting protocols. I will have to ask that Miss Ling wait thirty minutes for the Shadow Shredding Oracle formation to complete its scan. I apologize for the inconvenience." The man bowed again. "I will be able to mark you as allowed to travel at that time."
+
+"I understand. Will I be expected to wait in my carriage, or remain under your eyes?"
+
+"You may wait in your carriage if you like, Lady Ling," he allowed, and there was something stiff and bitter in his voice. This was his home, but his eyes had not been keen enough. His eyes hadn't caught the one who had done this.
+
+"Of course. My sympathies for this awful attack. Is there anything I may do, Sir…"
+
+"Captain Huo Gen, Lady Ling," he replied. "I cannot accept any aid or disturbance of the site before the formation has finished its work."
+
+"... And if I have any words which I can share from my carriage, after the scan is complete?"
+
+"The advice of the young hero of the south would be welcome, and this one would pass it along to his superiors.  I must insist against any active use of qi."
+
+"Understood. Should I find anything useful to you in my cultivation, I will pass it along. Please instruct my driver on where to shift the carriage."
+
+He nodded, turning to the driver, and she mounted the steps back up inside of her carriage.
+
+Honestly, she didn't know what she could do that would be that helpful, but she could try. Folding her legs upon the bench, she immersed herself once again in the voices of the world around her.

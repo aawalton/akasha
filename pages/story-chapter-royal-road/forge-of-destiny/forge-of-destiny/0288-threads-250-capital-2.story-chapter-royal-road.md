@@ -1,0 +1,109 @@
+---
+id: 1af2842c-8f64-593e-a06a-6ebd96302f14
+page-type-slug: story-chapter-royal-road
+title: "Threads 250-Capital 2"
+slug: 0288-threads-250-capital-2
+partOf: forge-of-destiny
+position: 288
+ownLength: 1950
+unit: words
+publishedAt: 2022-09-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1002674/threads-250-capital-2"
+royalRoadId: "1002674"
+---
+
+"A statement has been prepared." Yinhui slid a folded sheet of paper to her from across the table.
+
+Ling Qi picked it up gingerly, unfolding it, and felt her eyebrows rise at the number of spirit stones listed there. It was enough to make her personal cultivation expenses irrelevant for years, if they were spent on just that. But she had peeked into Cai Renxiang's planning, and she knew that the costs of building and running early settlements far exceeded those expenses. Even so, it was a princely sum.
+
+"Isn't just spirit stones kinda boring?" Hanyi interjected. "Shouldn't there be, like, super cool treasures and stuff?"
+
+"Hanyi," Ling Qi scolded.
+
+"Nah, any of the counts could offer spirit stones," Sixiang drawled. "The squirt is right."
+
+"Both of your spirits are correct." Meng Dan chuckled, steepling his fingers. "The spirit stones are the baseline. My grandmother and her peers have prepared a raft of other options for you to choose among. These are rather less prosaic options for payment, and I have been given leave to grant you any two of them." A flick of his wrist brought forth a sheaf of densely written contracts, which he then fanned across the table. "I expect you will wish to read these in full, but if you would like, I can give you a summary."
+
+"Please." Ling Qi sighed, eyeing the legal documents with some resignation.
+
+"First, we offer a number of exclusive texts and melodies from the tradition of Grandmistress Lei. Not her works themselves, unfortunately, but these would be from musicians in the direct line of her descent, one of which you seemed to have acquired on your own," began Meng Dan.
+
+The Forgotten Vale Melody had long since been made a part of her, fueling the Mist of her domain. Ling Qi could think of nothing else that he could be referring to. "I'm surprised at such an offer given what I know of your clan."
+
+"Oh, it was a bit of a fight," Meng Dan said lightly, brushing over it. "Nonetheless, we guarantee no reprisals. There are no complete arts among the offer, but a cultivator of your talent and stage will no doubt find insights among them."
+
+Reading between the lines, these were probably the copied physical notes of other musicians and cultivators from which she could create new arts or modify her own arts with relative ease. This compromise was likely to give the more conservative elements of the Meng clan some face in retaining their secrets.
+
+"Go on," prompted Ling Qi. It wouldn't do to express interest yet.
+
+"Second, we offer the services of a Meng geomancer for a period of ten years, fully paid for his time," Meng Dan continued. "He will offer aid in constructing settlements and shaping your land. He will also be authorized to share the same level of our knowledge which is granted to our own barons and viscounts, and he will tutor up to six individuals in this knowledge."
+
+That was a good offer. Without the last part, she might worry that the Meng were intending to make Lady Cai dependent on them for maintenance and expansion. That they would explicitly not be sharing their full knowledge made her trust the offer more. Zhengui perked up at the mention of tutoring too.
+
+"I see. And the others?" Ling Qi gestured to the remaining three contracts on the table.
+
+"Perhaps a little less personally exciting, but we also offer a trade agreement." Meng Dan tapped one of the remaining contracts with his finger. "Under this agreement, all goods originating in your land will be tariff-free for a period of one hundred years, and you will receive preferential rates on all other tolls and taxes."
+
+"It will probably be quite some time before we are producing anything worth trading." Ling Qi said dubiously.
+
+"Ah, but as far as imperial law is concerned, being written with war plunder in mind, goods from external polities originate with their first imperial 'buyer.' This is a loophole that will likely be closed in the future, if negotiations go our way, but for now, it is useful, no?"
+
+Ling Qi didn't exactly have a head for economics, but yes, she supposed she could see how that could be useful. By cutting the costs of importing goods to the bone, it would encourage more traders at least. It might make any efforts to open up Black Lotus Pass again less useful, though, hurting her efforts in the central valley. She waved him on.
+
+"Next, I had noticed in our journey that your primary weapon talisman was out of date for your cultivation..." Meng Dan paused as he saw her expression. "My apologies, is something wrong?"
+
+"It was destroyed recently, and it had some sentimental value," Ling Qi explained tersely. She let out a breath as Hanyi hugged her arm. "Please continue. I really should have retired the flute  sooner."
+
+He pursed his lips but gave a small nod. "Well, the Meng clan has a tradition of musicians, as you know. My grandmother can offer the services of a master crafter, one of my great-uncles who is a sixth realm specialized in instruments. You would need to provide the materials for this talisman though. Uncle is... eccentric and demands such from all his clients."
+
+"Understandable." What upper realm didn't have eccentricities? She still wasn't sure what she was going to do about her flute since she had no idea what she would do about materials yet.
+
+"Might be something for our trips," murmured Sixiang to her.
+
+"Um, maybe something from Momma?" Hanyi offered uncertainly.
+
+"The last offer?" Ling Qi did not visibly acknowledge either sent thought from her spirits. She glanced at the page, and gave a double take. It was largely blank.
+
+"The last is simply a favor from the Meng clan. It is not one that is wholly unlimited, but you will have the promise that my grandmother will work to bring the clan around to support you in an endeavor that requires political weight, so long as it is not directly contrary to our interests," Meng Dan said.
+
+Ling Qi looked hard at the blank page, bearing only the seal and heraldry of the Meng clan. Such an open-ended offer could be very powerful… or ineffectual. It all depended on the situation in which she chose to use it.
+
+She almost smiled as she imagined accepting and then immediately calling it in for support against the Duchess. That certainly fell outside the limits of a favor, but it could be useful on the matter of Black Lotus Pass, or if some difficulty came up during negotiations in the south.
+
+She would have to decide.
+
+“The services of the geomancer, for certain," Ling Qi said after a long pause for thought.
+
+“I do find our methods are better in lands not prepared for human settlement,” said Meng Dan affably. “I am sure it will serve you well.”
+
+Ling Qi nodded absently. With Wang assistance for architecture and Meng assistance for settlement planning, their settlement would probably turn out interesting if they invested their efforts well. Considering what she had glimpsed here in Xiangmen, an unusual town wouldn’t be out of place in the Emerald Seas. Their land could use some unique character.
+
+Of course, her choice had mostly been motivated by Zhengui’s interest. He wanted to learn more about the flows of natural and spirit energy involved in geomancy, and now, she could do better than her own fumbling efforts copied from beginner’s texts on the matter.
+
+Yes, given that and the supporting reasons, choosing the geomancer was easy. The other choice was more difficult, however.
+
+The work of a sixth-realm master crafter was immeasurably valuable, as were the notes and works of masters in the footsteps of a music grandmaster, especially because the time was coming in Ling Qi’s cultivation for her to shape the jumble of arts she practiced into something cohesive and unique to herself. She could see the value in both offers.
+
+But if she was honest with herself, she didn’t have a strong grounding in musical theory. Her knowledge came from the lessons of spirits and her own impulses. Going by the legends, that wasn’t too different from the Grandmistress herself. A chance to study and more fully understand the music of the Emerald Seas was powerful.
+
+In addition, the problem with the flute was simply that she didn’t yet know how to handle the loss of her first. She still had not confronted the ugly, confused feeling that had been lurking in the back of her mind. Right now, setting herself on a sure path to a replacement didn’t seem right.
+
+“I think I would like the notes and works. I need to think of my future land, but if I can’t develop my own cultivation, it’s meaningless. I don’t know when I would find the time to go reagent hunting either.”
+
+“I can certainly understand your choice. It is important to be able to rely on one's seniors in a field, if only indirectly,” replied Meng Dan.
+
+“An unfamiliar experience, but I’d like to try it out,” Ling Qi said dryly.
+
+“Then let us proceed to the details.” Meng Dan swept aside the unchosen contracts to leave the two she had chosen.
+
+Ling Qi sighed as she tugged the first one over, preparing to focus on all the niggling little details. Even if the Meng were friendly, she was not about to sign anything she hadn’t thoroughly read and understood.
+
+Digesting and haggling over the rest of the details was a lengthy task, but she found no sneaky little clauses or deceptive wording. For legal contracts, they were both refreshingly straightforward.
+
+The Meng would provide the geomancer’s salary, cultivation supplies, and reagents for his work. There was a small tangle in the form of an arbitration clause, indicating she would have to renegotiate with the Meng if she asked the geomancer to undertake a project which exceeded the supplies he was given and couldn’t provide herself, but she suspected she would have to ask for an absurd task  to trigger that. The geomancer would be made available at her leisure with his term starting when she made the request. She’d have to talk to Renxiang, but it might be a good idea to put off the start of the geomancer’s term until after they’d finished surveying.
+
+The notes were less complicated. What she would receive were full copies of the works in question, and while the contract stated that she was only to share direct access with members of the Ling Clan, any derived work was hers to do with as she pleased. These terms were fairly standard for this sort of transfer, though it was highly unusual for a comital clan to make such a deal with a mere baroness. The copies would be available in one month’s time to account for the necessary rites to be performed for the spirits of the original copies.
+
+It was growing dark by the time they left the Meng manor, spirits once again in her dantian. The meal provided by the household staff had been delicious and of a limited enough size that Ling Qi didn’t feel too wasteful for eating it. The tea had been good too, consisting of a number of dark and earthy blends.
+
+Together with the negotiations, she really did feel like her negotiation for granting the Meng the right of first refusal on the tapestry had gone very well. She might still be dancing on the edge of her ability, but times like this made her believe she was actually making headway in this whole nobility business.

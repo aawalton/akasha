@@ -1,0 +1,129 @@
+---
+id: 0b81466b-028a-5a4c-a2b5-5ca2b86a3f4e
+page-type-slug: story-chapter-royal-road
+title: "Threads 473 Glass 3"
+slug: 0518-threads-473-glass-3
+partOf: forge-of-destiny
+position: 518
+ownLength: 1771
+unit: words
+publishedAt: 2025-09-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2611531/threads-473-glass-3"
+royalRoadId: "2611531"
+---
+
+The heat was intense, even from outside the high brickwork walls of the glassmaker's workshop. Lurid orange and yellow light spilled out of the vent-like windows in its walls, and smoke and ash churned from the stacks emerging from the roof. It was a dull-looking building, undecorated with only its entrance frame painted in a brighter red to invite good fortune. Still, after her lessons with Meng Duyi, she could see how its layout was set to invite clean winds and expel polluted ones, taking in the flow of natural yang without letting it pool to unhealthy levels.
+
+Xia Anxi gave her an expectant look, so she loosened her hold on her qi, letting her winter wind scratch at the doors to attract the attention of those inside.
+
+She crossed her hands inside her sleeves and waited patiently for a response. She soon felt an acknowledging flare from within. It was a careful, meticulous qi, like an etching tool cutting into fragile crystal, but backed by a low, consistent heat.
+
+"The foreman will be out to see us in a moment," Ling Qi announced. "I shall introduce you, and then, if it pleases you, you may explain your own needs."
+
+"I won't complain if you feel I'm not overstepping in your city. It will make this less onerous for everyone."
+
+"My city? Hardly. I don't think I am that tall."
+
+He rolled his eyes. "Even were I blind to colors, as rumors insist, I'd not make that mistake. You know what I mean."
+
+"Is that a common rumor? I'd only heard the 'tin-ear' one."
+
+"Most common. Not as irritating as that one."
+
+"I would never doubt Sir Xia's ear for music."
+
+"As well you shouldn't. Percussion might be the specialty of the Bai's musicians, but we are hardly so limited."
+
+"I've looked into some pieces from the Lakes. They were all heavy on lower notes, even ones below the range of mortals."
+
+"And why not? A song you can feel in your bones is one you will always remember."
+
+"Something you remember because it resonates in your thoughts rather than lingering in your aching body is better."
+
+"Well, you would be wrong then," Xia Anxi informed her.
+
+She laughed in amusement then tilted her head toward the door when she sensed movement behind it. So he hadn't frozen up entirely since they last spoke. She just needed to steer away from the subject of Bai Meizhen or provincial politics.
+
+The door opened in a wash of heat, and the shift foreman of the glassworks stepped out. He was a wide, rough brick of a man. A thick workman's smock stretched over his broad chest and a dark green bandanna over his bald head, and over it, a leather band that held a mechanical talisman, some kind of adjustable goggles. His face was pockmarked with countless tiny burn scars, as were his bare hands and forearms. It was as if every hair had been seared from his body.
+
+She judged him a stage higher than her in cultivation, but probably a good two centuries her elder, by the rugged and worn feel of his spirit.
+
+"Good sir, thank you for making time for my unscheduled appearance." Ling Qi lowered her head a fraction and clasped her hands. Any more than that would be insulting and obsequious, given their relative ranks. "I am Baroness Ling Qi, in service to the young mistress, Lady Cai."
+
+His brows furrowed slightly, and he examined them closely, even as he bowed, much lower than she had. "This one is Gong Shu, shift foreman of this glassworks, under the honorable Wei family. How may this humble servant please the young miss?"
+
+"I am tasked with showing our guest from the Thousand Lakes the industry of Xiangmen, while my lady entertains the young miss of the Bai clan." Ling Qi gestured to Xia Anxi. "He is most interested in seeing our glassworks, and perhaps arranging some orders.”
+
+Xia Anxi stepped forward, hands clasped. "My lady has an interest in certain fine glassworks. Although it might be troublesome, I must request a tour."
+
+"Yes, young sir, Lady Ling. Please come in," the older man agreed quickly. She could see his thoughts spinning frantically, his perception pinging from walls and ceiling to furnaces and floors, a sudden frenzy searching for any errors or untowardness. She pitied him a bit. "This one must humbly request that our guests tightly rein in your qi, lest it interrupt certain processes inside."
+
+"Without a doubt, I'd not be so crude." Xia Anxi’s slowly rolling waves of his qi retracted, leaving him feeling barely more than a mortal.
+
+"Yes, of course." Ling Qi did the same. Shadows faded, cold withdrew, and her hair barely even gleamed.
+
+She followed them inside, letting Xia Anxi take the lead.
+
+"May I ask if the honorable Lady Bai has a specific interest?" Gong Shu asked, his voice heavy with deferential caution.
+
+"Oh, certainly. Very specific. She is interested in optical glass, the sort used in far-seeing talismans and navigation," Xia Anxi answered. "You need not worry about trying to please my eye with pretty aesthetics."
+
+"I see. That is some relief, young sir. The Wei Glassworks is not mainly in the business of decorative items. Such pieces are highly valuable and must be worked on by a master."
+
+"But you do provide the raw material on which they ply their skills, no?"
+
+"To an extent, yes. The Wei Glassworks is contracted to the court’s astrology department. These orders are specialized and require the reservation of our best furnaces."
+
+"Good, good. If I am satisfied with your workshop’s glass, we can speak of reservations. We would not deign to put ourselves before our good friends, the Cai, in their own home."
+
+"My lady knows the Bai clan would never be so uncouth, but she hopes her esteemed subjects will give our allies all due consideration," Ling Qi added.
+
+Gong Shu did not take a deep fortifying breath—he was more well-controlled than that—but Ling Qi could see the desire for it in the fluctuation of his qi. "The Wei Glassworks will not disappoint."
+
+They toured through the facility, observing the lines of furnaces filled with molten glass, the frames where panes and other shapes were poured, and down through the blowers workshops where more delicate pieces were made and more.
+
+Ling Qi let herself fade into the background and watched Xia Anxi’s performance. The Bai pride was a high cold wall, but he was gregarious and surprisingly good at assuaging the inherent fear that accompanied the reputation of the Bai, and engaging the man on his own level.
+
+She also swiftly came to doubt his claim of ignorance about the material art. At the very least, he knew far more than her.
+
+While Gong Shu left them to retrieve samples of completed optics, she said so to the Bai retainer.
+
+Xia Anxi gave her an arch look. "I can flip through a mortal tome in a few minutes and remember enough of it to at least seem like an intrigued novice when I ask questions."
+
+"I suppose." Ling Qi looked out the window in the wall of the foreman's office overlooking the furnaces. A man below reached inside, swirling his fingers through the molten glass, only to squint down at the hardening droplets beading on his fingers after he pulled them out. He shouted something to his fellows, and another man came running with what looked like some kind of sieve on a pole. "But if you'll excuse me, I hadn't thought you were the type to be bothered with that."
+
+"And why not?" He crossed his arms defensively. "It's merely good sense. A defensive, frightened speaker gives far less away. Most crafters will go on and on about their art and let slip other information when speaking of it."
+
+Ling Qi raised an eyebrow. "I can't deny that. I'd say that you're also just more comfortable with men like Gong Shu."
+
+"And what is that supposed to mean?" he demanded.
+
+"Alas, only that I am but a poor host compared to Sir Gong." Ling Qi smiled.
+
+Before he could reply, they both felt the foreman returning. Xia Anxi gave her an unamused look.
+
+Gog Shu looked very wary when he entered his own office and glanced between them. The man's perception wasn’t bad.
+
+She didn't rightly know the details of crafting lenses like the ones the man brought to show them, some as wide as dinner plates and others small enough to balance on the littlest fingertip. She could, however, see the high purity of the glass and the way they refracted qi. Each and every one was made to distort the light that passed through it in order to warp the image which lay on the other side. At the same time, each one was a tool of clarity that would allow the user to accurately see what was very far away or, if she understood correctly, things that were very small.
+
+Ling Qi broke into the conversation between the two. "You said that piece there was determined to be unusable only due to coming out poorly fit to the rest of the commissioned talisman, correct?"
+
+Gong Shu nodded. "Yes. It is frustrating for an otherwise perfect lens to be discarded, but it makes for a good example of our cutting work."
+
+"I'd like to purchase it, if you might indulge me."
+
+He only briefly looked confused. "If the Baroness wishes, this Gong Sun would be happy to make a gift of it, although…"
+
+The question in his voice was obvious. "I might have some use for it in cultivation," Ling Qi explained. "And please, you need not make it a gift."
+
+Xia Anxi sent a questioning look at her.
+
+"If Baroness Ling insists, then… Two green stones perhaps? It is only a lens…"
+
+Ling Qi met the foreman’s eyes, searching deeper. He was naming a price only a bit above the cost of the materials and labor put in, a razor-thin margin of profit, and giving himself room to decrease it more if Ling Qi proved as mercurial as she seemed.
+
+"A fair price, but please finish your conversation with Sir Xia before we speak of it any further."
+
+The foreman sketched a small bow, relieved that she had accepted so simply. Xia Anxi finished his conversation with the man, haggling for a shipment of handheld farseeing devices to be delivered within a year's time to the Bai's embassy as a test batch.
+
+Then, they were on their way out, and she had her package tucked under her arm.

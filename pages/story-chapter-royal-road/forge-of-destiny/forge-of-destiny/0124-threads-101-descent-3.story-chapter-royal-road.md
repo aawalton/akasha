@@ -1,0 +1,153 @@
+---
+id: af107139-3479-50f6-9ef2-4f57bf0c27d4
+page-type-slug: story-chapter-royal-road
+title: "Threads 101-Descent 3"
+slug: 0124-threads-101-descent-3
+partOf: forge-of-destiny
+position: 124
+ownLength: 2162
+unit: words
+publishedAt: 2021-06-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/707463/threads-101-descent-3"
+royalRoadId: "707463"
+---
+
+There was not much to say about the first day traveling downward. She and Liao Zhu blazed through the path ahead, scouting out the tunnels Su Ling had marked for travel. They worked their way through winding, often tight tunnels and caverns aglow with fungal wonders and crawling chitinous wildlife. They marked down dangers and reported back, allowing the others to prepare to push through the caverns’ natural fauna.
+
+All the while, they descended, and the air changed. Where before it had merely been unpleasant and stale, touched by rot and decay, it soon began to burn. Although Ling Qi was strong enough to resist the effects, it nonetheless made her feel oily and unclean like she had wallowed in a sewage pipe. On a whim, she had tested the air by plucking out a hair and casting it away. The hair had sizzled and disintegrated before it touched the ground.
+
+All the while, the beasts around them began to grow stranger in form. The caverns grew more verdant, bursting with swollen and unpleasant life. As they approached their first campsite, they had to push through a veritable jungle of fleshy, pale blue ferns that glowed faintly in the dark and grew around the bases of towering, black mushrooms the size of trees. Twisted and misshapen things ambled and skittered in the dark on either too many or too few limbs.
+
+It had been well over two hours since she had last sensed a first realm creature. Even the clinging fronds that swayed and grasped at her as she passed through them were filled with an unpleasantly viscous energy dense enough to feel analogous to the second realm.
+
+“There is another blockage ahead.” Liao Zhu’s voice echoing in her ear did not make her jump; she was more than used to it by now.
+
+“Collapsed passage, or something more lively?” Ling Qi asked under her breath, trusting in his communication art to carry her words as she moved along the perimeter of the cave, searching for gaps and side tunnels which might contain foes.
+
+“The former, happily enough. I shall require your brother’s most generous assistance again,” his voice answered back.
+
+“Almost finished with the perimeter. Be there shortly,” Ling Qi replied in a whisper. <Hear that, Zhengui?> she thought.
+
+<Yeah! Gui is ready to help!>
+
+<I wanna do something too,> Hanyi grumbled.
+
+Ling Qi smiled. Zhengui had already proven useful; the roots and trunks that he grew could prop up unstable tunnels, which were quite common on the route they had taken. That must be why their enemies didn’t use the route they took. Hanyi, on the other hand, didn’t have much to do while they were avoiding going loud.
+
+<Be patient. I’m going to need you both at the end,> she chided. She felt Sixiang tug at her senses then and turned her eyes toward a man-sized crack in the ceiling. She still had more investigating to do.
+
+Happily, it was just another brief dead end. Ling Qi was happy to emerge from the frond forest as she finished her search. Liao Zhu stood by their tunnel exit, his chimera beast already digging through the rubble, burning away stone with silver fire that bled from his eyes and brushing aside ash with his paws.
+
+Ling Qi gave Zhengui a nudge, and he materialized just outside the tunnel. It was almost routine by now, and she soon felt the subtle fluctuation of wood qi as roots began to break the surface, crawling up the sides of the tunnel.
+
+“The next cavern is where we planned to camp, right?” Ling Qi asked as she stepped back with Liao Zhu to let their spirits do their work.
+
+“Yes. Given that we have had to deviate slightly already, it would be best to allow Junior Sister Su to cast the bones again,” he answered.
+
+She gave him a look out of the corner of her eye. “You seemed a bit different talking to her. Why was that?”
+
+“Bombast and flirtation were not what she needed,” Liao Zhu replied blithely. “Rather, affirmation of her skill was the most important factor.”
+
+“I suppose so,” Ling Qi said, only to narrow her eyes. “Wait, are you saying I needed those things?”
+
+He chuckled. “Come, Junior Sister. They have broken through. We must prepare the camp for our comrades.”
+
+She huffed as he strode away and vanished between one step and the next. He just couldn’t stop messing with her, could he?
+
+With Liao Zhu sending the all clear back, it did not take too long for the others to catch up. While no one was wounded, the main group was still a little worse for the wear. Ji Rong’s tunic was stained with unpleasant fluids, and Xuan Shi’s defensive constructs buzzed and flitted around him agitatedly. Bian Ya was pristine, sitting side-saddle on her companion, her eyelids fluttering rapidly while she communed with the Sect’s base. Su Ling just looked agitated.
+
+She and Hanyi had prepared a small part of the next cavern, freezing and destroying the unpleasant flora to give everyone a place to sit and rest while Su Ling performed her divinations. It was not a long rest however, and soon, they had a choice before them. They were approaching the edge of the Sect’s mapping, and Su Ling’s divination revealed the passages they had been planning to take had collapsed, and it was beyond their ability to dig them out in a timely fashion.
+
+That meant that they were going to have to venture into the unknown sooner rather than later. The fires revealed two potential paths which their enemies did not occupy. So, Ling Qi and Liao Zhu set out again to do some preliminary scouting of the two paths.
+
+***
+
+“It’s some kind of massive fungus thing,” Ling Qi said with a grimace as she returned. "It’s spongy and black, and it fills this whole huge cavern. There are passages we can move through in it though, and I didn’t detect any activity from the thing.”
+
+<It was dreaming,> Sixiang whispered. <That doesn’t mean it’s not active.>
+
+“There was no activity in the material world,” Ling Qi amended.
+
+The others sat or stood in a small circle in the clear portion of the cavern. Guan Zhi nodded to her. “And the other, Liao Zhu?”
+
+“It is a most direct route indeed, a ravine many kilometers deep whose bottom was beyond my sight, Commander,” he replied, bowing with a flourish.
+
+Su Ling chewed her lower lip. “The first passes close to our enemy and is slower beside, but the second…” She trailed off, looking at the chitin plate inscribed with characters representing various levels of danger from spirits and beasts. It was shattered to fragments.
+
+“An ill-omen indeed,” Xuan Shi said gravely.
+
+Guan Zhi closed her eyes for a moment. “I would hear your thoughts.”
+
+“What’s there to say?” Ji Rong scoffed. “We can’t let the rats know we’re coming, so we go down the ravine. We just gotta deal with the danger.”
+
+“Miss Su did indicate that the fungal passages merely pass close. Should we exercise a little subtlety, I am sure we can slip by,” Bian Ya suggested. Su Ling’s mouth snapped shut, and Ling Qi was certain that she had been about to say something similar.
+
+“I am inclined toward the more efficient path,” Liao Zhu said. “Between Ling Qi and myself, I believe that any dangers may be bypassed or mitigated.”
+
+Xuan Shi frowned silently.
+
+“I don’t feel like it’s the best idea to tempt the unknown,” Ling Qi said slowly. “How close is ‘close to the enemy’?”
+
+“Estimating based on known enemy locations, the passages nearby are likely a supply route,” Guan Zhi answered.
+
+Su Ling grunted. “That about matches up with the divination. Low concentration but near.”
+
+“Then I think it’s the best path,” Ling Qi said, shooting an apologetic look at Liao Zhu.
+
+He merely chuckled. “I was merely expressing confidence in our abilities. This will be a different sort of challenge.”
+
+“My agreement lies with Miss Ling. This one has prepared resources for such trials, even if the hour has come sooner than not,” Xuan Shi agreed, giving her a nod.
+
+“Hope you put as much effort into them as you do sucking up to girls,” Ji Rong sneered.
+
+<He says that like it’s a bad thing,> Hanyi complained in her head.
+
+Xuan Shi scowled at Ji Rong from behind his collar, but Guan Zhi silenced both of them with a look. “I am inclined to avoid unknowns at this point in the operation as well. The Sect has studied the enemy’s scouting patterns.”
+
+“What do we call these fuckers anyway?” Ji Rong asked. “Can’t just keep saying ‘the enemy.’”
+
+“Shishigui,” Bian Ya said quietly. “The corpse eaters.”
+
+Guan Zhi glanced at Bian Ya. “That is the term which has spread among those on the front line. The Sect has not yet officially adopted the term, but it will do.”
+
+<Corpse Eater Demon. That’s an ugly name,> Sixiang mused. <Kinda weird though. Don’t all of you humans eat meat?>
+
+There was a difference, Ling Qi thought. Despite seeming similar, the words used had different connotations.
+
+<If you say so,> Sixiang whispered dubiously.
+
+“Disciple Liao, Disciple Ling, continue ahead, but keep the distance short. We will be coordinating more closely for this leg of the journey,” Guan Zhi ordered crisply. “Everyone else, back into battle formation.”
+
+Ling Qi stood, smoothing her dress as the others rose as well. For better or for worse, the choice was made.
+
+The passages that led on were less steep than some of the proceeding ones and far narrower at that, only wide enough for two men standing shoulder to shoulder at their widest. For Ling Qi and Liao Zhu, it was about a ten minute trip before they started to see signs of the fungal growth. It spread weblike through the corridors, clinging to the ceiling and walls in thick fleshy strands. Here and there, the fungal growth had peeled away from the ceiling to hang in drooping loops.
+
+As they proceeded down the tunnels, the growth grew thicker. Soon, they strode across a spongy mat of fungus, and the walls grew ever harder to make out. The whole of it tugged at her senses as well. The presence of the stuff seemed to fill her spiritual senses with a sort of blurriness.
+
+“Are you well, Junior Sister?” Liao Zhu asked. They stood outside the mouth of the passage that opened into the main body of the growth, a dark, circular tunnel that pulsed imperceptibly as if it were breathing.
+
+“Yes, it’s just distracting. No signs of hostility,” she said, shaking her head.
+
+<The Oozey Thing isn’t growing, but it is not dead. Gui does not like it,> her little brother proclaimed. She could feel his suspicion as he glared at the odd growth through her senses.
+
+“I suppose with your attunement, it would be,” he said. “In that case, while I travel ahead to mark out the presence of our foes, you will travel behind to map and study the environment.”
+
+For a moment, she wanted to object, but it made sense. One way or another, Liao Zhu was the better scout. She nodded.
+
+“Good. Relay reports at intervals of five minutes,” he instructed crisply. There was no playfulness in Liao Zhu’s voice. “You recall the emergency codes?”
+
+“Yes, Senior Brother,” Ling Qi said, already feeling for the connection which Bian Ya had bound to them before they left the main group. Like her spirit bonds, she merely needed to think in the proper way and the message would be sent.
+
+“I will see you soon, Junior Sister.” By the time his quiet words had faded, Liao Zhu was already gone, and she only caught the faintest flicker of silver to mark his passage.
+
+Ling Qi breathed out and turned her eyes to the fleshy fungal wall, reaching out to brush her fingers over the surface. It was warm, less warm than a human body but not by much. There were spores in the air, but they did not cling aggressively. She felt no fluctuations in her qi that would indicate harm.
+
+<What do you think, Sixiang? Everyone?>
+
+<I, Zhen, agree with Gui, but Big Sister is being sneaky, so burning is out,> Zhengui thought to her.
+
+<You’re both being silly. It’s not that bad,> Hanyi disagreed. <Sis should not work herself up too much. This isn’t like Momma’s house.>
+
+<It’s kinda funky,> Sixiang decided. <And I bet it’s gonna get even funkier further in. This thing is at least partway in the liminal realm, and it’s big enough to make the border thin. Just watch your step. It’s easy to lose track of things in a dream.>
+
+<You would know,> Ling Qi thought wryly. She squared her shoulders, gave her spirits a reminder to stay alert and ready, then flowed into the tunnel as a whisper of shadow.

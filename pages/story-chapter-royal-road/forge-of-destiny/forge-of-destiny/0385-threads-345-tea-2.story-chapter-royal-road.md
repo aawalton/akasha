@@ -1,0 +1,143 @@
+---
+id: c1d4e8c0-8345-5d14-9f78-667bf29e2fe1
+page-type-slug: story-chapter-royal-road
+title: "Threads 345-Tea 2"
+slug: 0385-threads-345-tea-2
+partOf: forge-of-destiny
+position: 385
+ownLength: 1579
+unit: words
+publishedAt: 2023-11-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1394646/threads-345-tea-2"
+royalRoadId: "1394646"
+---
+
+“So how did the discussion with your uncle go?”
+
+“I believe I can talk him around. His own curiosity as a scholar is doing some work. We’ll need to negotiate a trade that my family can consider a fair price, but I am confident that the observatory is upon the bargaining table, so to speak. What about you? How have your discussions and investigations gone?”
+
+Ling Qi let out a long sigh.
+
+Meng Dan gave her a commiserating look. “I have not heard anything bad, for what it is worth.”
+
+“I’ve managed everything, but people are so difficult,” Ling Qi said. “I am really looking forward to visiting my family before the negotiations start.”
+
+“We all need our moments of respite,” Meng Dan agreed. “Do you have any particular plans?”
+
+“There has been some cultivation success in the household, so I want to congratulate the ones on track to awaken,” Ling Qi replied, mind wandering to the times ahead. “Then there is talking to mother about preparing to receive noble guests in the future, but mostly, I just want to spend time with my mother and sister to introduce them to Sixiang properly and to just be with my family for a little.”
+
+There was so much pressure and formality on her at all times here that she felt like it might crush her.
+
+“I hope you find the solace you’re looking for,” Meng Dan said sincerely. “Ah, for my part, I am looking forward to settling into the Argent Peak’s sect library for a week or so.”
+
+“I hope you have fun,” Ling Qi said, a little amused. She considered him for a moment. “Meng Dan, what is your family like?”
+
+“We’ve discussed my clan at length, haven’t we?”
+
+“That’s not what I mean,” Ling Qi said. “Your close family, I mean.”
+
+Cai Renxiang’s family was without comparison in many ways, and Bai Meizhen didn’t care to talk about such topics. She had never really gotten a noble acquaintance to talk about it. What were noble families actually like?
+
+Meng Dan didn’t answer for a time.
+
+“I apologize if it is a rude question,” Ling Qi said.
+
+“If we were less acquainted, it might be. I have three siblings, though the youngest is sixty years my elder. We are not especially close, as they all have their own careers and interests.”
+
+It felt strange, those gulfs of time. Gu Xiulan had said something similar.
+
+“My mother and father though… Mother is a talented weapon smith from one of our vicontiel clans who married in. Father is the undersecretary of the Minister of Law for our region. I saw them last year at the clan’s new year’s celebration, and both seemed in good health and humor.”
+
+“I see,” Ling Qi said. She didn’t let herself frown, but there was a sterility in his description. It was like she’d asked him about the condition of the roads in the west. Meng Dan was much more passionate about his work.
+
+“But, and I say this with some trust in your silence, I do still trade some letters and visitation with my youth tutors, who might be closer to what Miss Ling was asking after,” he added blithely.
+
+“Maybe.”
+
+“I admit, I’m curious. What drives your question? I am sure you are not simply asking after what connections I have.”
+
+“I suppose that would be a more normal pre-courting question.”
+
+His eyebrows climbed. “Ah, I am sorry, I didn’t mean to imply…”
+
+Ling Qi gave a wan smile. “It’s fine, but I won’t pretend to understand your interest.”
+
+“You are fascinating,” Meng Dan said.
+
+She blinked, words dying.
+
+“Curious, determined, and irrepressible. Secret paths seem to open readily for you, and you do not fear to tread them. Nor can I easily guess what is going on behind your eyes, the way I can with most. I won’t say I am smitten, but I have never met a woman of my age who is quite like you.”
+
+Ling Qi did not gape or flush or do anything silly. She did swallow though. “I’m not so unique. There must be many scholars better than I just at Blue Mountain.”
+
+“There are many better academics, but that is not the same thing,” Meng Dan corrected. “But, my question?”
+
+“You’re the one who went off on a tangent,” Ling Qi muttered grumpily into her cup.
+
+“My apologies.”
+
+She forced her thoughts back on track. “I suppose I am still putting together what a family is supposed to be like. Things were difficult for me. For us. I don’t think my family situation is normal. But I want a close knit clan… A family. I just don’t know how to do that. I was hoping for an example. You always seemed well adjusted.”
+
+“I wish I could be of more help. I don’t quite know what you mean, if I am to be honest. I apologize if I gave the wrong impression, but my family and I are cordial.”
+
+“Just cordial though,” Ling Qi said. “You yourself admitted that you were closer to your tutors.”
+
+“Yes. Of course. My interests are not in law or smithery. I cannot follow my parents' ways. I am very thankful to them for providing me with teachers who could guide me to my own path.”
+
+It did make sense from a noble cultivator's point of view. As one rose, their views and interests became ever more narrowly focused. A “good” parent then was one who put more appropriate teachers in place for their children.
+
+“I understand that. I’m sorry if my question seemed strange.”
+
+“I think I understand the source of your distress at least. You’re looking at something like the ideal filial arrangements of the classics and comparing yourself unfavorably?” Meng Dan offered, looking less mystified.
+
+“I only have the vaguest idea of what that is from mining Scholar Kong’s works for quotes to needle Lady Cai with when she is being stubborn.”
+
+He blinked. “Does that work?”
+
+“Only sometimes when she’s too stressed to drill down on my understanding of the words.”
+
+He shook his head and laughed. “Shameless of you. But… does that not make it worse? You do not even have a clear example that you are comparing yourself to.”
+
+She grimaced.
+
+“It is. And I don’t mean to imply that there is something wrong with the way your family does things.”
+
+“I do understand that. In this, I do not think there is a universal solution. As cultivators, what we each are suited for can be too different for that.”
+
+She nodded, turning her head to look out over the rippling stream flowing past. “I think there is something universal. People need to build connections, communities, to stay functional. I feel like family is foundational to that. But I am sorry for going off on such a serious topic.”
+
+“It’s an interesting subject,” Meng Dan mused. “If you’d like. I could collect some texts on clan practices and relations from across the empire. You can cobble something together and surely offend everyone whose practices you borrow from, I am sure.”
+
+“Meng Dan, are you asking to plan a family with me?”
+
+It felt strange to joke like that, but also freeing. She was fine. Neither of them were jockeying for influence or trying to control the other. He apparently liked her penchant for finding trouble. She didn’t really know how she felt. He was a bit feminine in looks for her, but he was amusing and considerate. Surprisingly straightforward, too, when it came down to it.
+
+Moons, Sixiang was going to be cackling at her on the flight home.
+
+He raised an eyebrow. “Miss Ling moves far too fast. I think we both have quite a bit of career interests to see to first.”
+
+“That wasn’t a no.”
+
+“As you like,” Meng Dan said. He glanced over his shoulder. “Ah, I do believe the main dish is on its way. Shall we return to work topics for now?”
+
+Ling Qi inclined her head. “Yes, I think so.”
+
+The two waited as the dishes were brought out to them and set out by servants.
+
+After they withdrew, she said, “In the future, I may have some topics to share. If you enjoy walking hidden paths, I may as well take advantage of your expertise. I hope you might join me for a walk sometime.”
+
+For all the peril, the liminal explorationshad a certain way of helping her get to know people.
+
+“Miss Ling is cruel with her enticements. How am I to concentrate on work when you make such mysterious offers?”
+
+“By preparing for them too. I don’t know what I’m looking for, yet, in a partner. But I know they will need to be able to keep up. I won’t stop.”
+
+It was far too late for that, one way or the other.
+
+“Interesting. So very… interesting. Your ambitions are great, for all their oddity. If nothing else, I think I might like to chronicle their ends, for you and Lady Cai.”
+
+She inclined her head and set about her meal as they discussed the observatory and the Meng’s demands for its use as a bargaining chip.
+
+She had one last moment to rest. Meng Dan was right about one thing for certain. She didn’t need to stress herself about doing things “right” just now. Her family was her family,
+
+For now, spending time with them and catching up on their lives would be enough.

@@ -1,0 +1,131 @@
+---
+id: caf5161c-3e11-55e9-b62d-71277a709904
+page-type-slug: story-chapter-royal-road
+title: "Threads 390-New Peace 1"
+slug: 0433-threads-390-new-peace-1
+partOf: forge-of-destiny
+position: 433
+ownLength: 2027
+unit: words
+publishedAt: 2024-07-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1718781/threads-390-new-peace-1"
+royalRoadId: "1718781"
+---
+
+That revelation brought a new round of whispers and disbelieving sounds. It was hard not to join them. Ling Qi had seen a good number of ith up close. While they shared some features, it was very hard to think of them as humans.
+
+"It is one thing to call the cloud tribes human, but are ith not a step too far?" a thin man in Jia colors whose name floated just beyond her reach asked. "Even if they were once, they are clearly not any longer!"
+
+Dzintara shrugged. "That, I leave you to determine. They are great artificers, though feeble of body, and spread easily through the bowels of the world carved by the primordial’s flowing blood. It is these rivers under the earth which they build around. In most places, they live deep and do not bother the lands which live under the sun. In Nidavellr, the men who live in those barren peaks swear fealty to them, and they are said to bear great and powerful works of arms and armor with which they subjugate and raid the surrounding lands and draw their own tribute or which they might trade on their sky ships to the men of lower lands in exchange for dark favors. These thralls of the maggot men are dealers of death, warriors and merchants as the whim takes them."
+
+"The matter of the rivers matches our own accounts," Ling Qi said, leaving unsaid that she had been one of the makers. "If this place is so far though, how do they come here? Did they arrive with your new tribes and burrow down, or do these rivers go all the way under the northern ocean?"
+
+"It is known that the shadow under the earth stretches far." Luo Jie leaned forward on his stick. "It is also known that the deeping pits know no proper geometries."
+
+"Frustrating business," Wang Lian grunted. "Having to account for distances and angles not being as they should be. It's troubling all of the tunneling efforts."
+
+"It is so," Dzintara said. "We do not fully understand this aspect."
+
+"They are distant here though," the Jia man—Jia Shu! That was it—said. "Else they would have called for aid when Her Grace subjugated the cities beneath Xiangmen. Interrogations on the matter showed that they were not subordinate to other powers before her."
+
+"True enough," Wang Lian said. "The source is interesting but not too relevant at the moment."
+
+Dzintara gave a sharp nod. "Yes. We ourselves intend to investigate the underground geography of our lands now that this has been pushed to the fore. Better understanding is necessary. Regardless, the indications and studies show that their greatest strength is in what we call rune work and what you call formation craft. That said, the degree to which they deploy themselves as weapons seems to be against our evidence."
+
+"No proxies under the eyes of the sun here, traitorous exceptions ignored," Luo Jie said.
+
+"Likely what they are trying to build with the aid of certain cloud tribes," Cao Chun said, breaking his silence. The man's expression was pinched, and his eyes fell on her now and again. When they did, his wrinkles deepened with his scowl. "If these creatures are the broken off periphery of those from Nidavellr, then they likely lag behind in many areas. Neither a group of cities nor a province can match the united output of a civilization."
+
+There were quite a lot of implications in his statement, not all of which Ling Qi had the time to unpack now.
+
+"I propose we add dissection of ith artifacts and rune craft to the items which we may both benefit from studying," Inzha said.
+
+"What examples of ith artifacts and rune craft there are reside in the same vaults as void objects," Dzintara said sourly. "Those the archivists release may be used as such.”
+
+"That would be very helpful," Meng Deming, who still appeared wan and exhausted, said. "There will be many academics here."
+
+"I find no fault with the proposal," Wang Lian said.
+
+"So long as we are certain it is of maggot make and not the void demons," said one White Sky priest, echoed by his peers.
+
+"Do not like knowing there are foes beneath."
+
+"Forbidden ways, tapping into things close to the void…"
+
+"Should census every mine, just to be sure."
+
+"Have your people asked your new subjects about the disposition of the rest of their people?" Jaromila asked.
+
+"They have. We know the polity at war with us lies primarily under the Wall and the southern Emerald Seas. There is another polity beneath the Red Jungle, and there are others in the northeast of our lands," Cai Renxiang replied. "Their knowledge grows foggy further than this; communications outside of their city groups are less reliable. They do state that there are further ith groups south of the mountains."
+
+More whispers and grumbling among the White Sky contingent arose at this. Jaromila nodded sharply.
+
+No one on their side reacted much. That information had already been dispensed among the province and shared with the capital and other provinces.
+
+In the end, Gan Guangli was the one to formally stand and receive the great tome that Emissary Dzintara had made. There would be much more to go through in it, but not by them.
+
+"That is well and good that we should cooperate against enemies," Luo Jie said. "This, you cannot be doubted on. However, there have been rumblings of more forces arriving from your lands."
+
+"It is so," Jaromila admitted. "The recent incident, despite its good handling, remains unsettling to us. Although our guardian, the Weeping Sentinel, was able to assist, she wishes for the support of her temple rather than a single Voice if she is to remain here."
+
+The twisted tree woman looming over their delegation creaked loudly as her gaze shifted away from Xia Ren, the sunken pits of her eyes roving over the table. "Four Voices in chorus multiply. Without voices, action in the realm of men is limited."
+
+"The matter was handled. There are no further security concerns. If more were to arise, the muster of the Emerald Seas and the great sects will solve it," Xia Ren proclaimed.
+
+"General, I apologize, but I do think it is for the best that the White Sky's sovereign is properly supported at this location. It can only lead to greater tensions otherwise," Ling Qi said.
+
+And there was the heat, heat that made her still healing skin ache as the general looked upon her. The fire was so much worse when so much of it still burned under her skin.
+
+"If they wished us harm, they had their moment to strike," Ling Qi continued. "How many, Lady Jaromila?"
+
+"The temple of the Weeping Sentinel is small, as they go. Four of what you call indigo, including the Voice who is with us now. Ten who you would consider cyan, and more of the green."
+
+"A significant concentration of force," Jia Shu said. Ling Qi thought he was too young to pull off stroking his beard like that. "All the more so as a unit well suited to support each other."
+
+"This place will be a target," Ling Qi said frankly. "Even if it is only a symbol, the enemies of our people will strike at this place and attempt to subvert this place. To concentrate force here is not a bad idea."
+
+"I must agree with my retainer,” Cai Renxiang supported. “I would further propose that we match the White Sky force."
+
+"You would bind down much of the White Plumes in the midst of a war," Xia Ren disapproved. "At least you would not leave these foreigners unchecked."
+
+"If I may, General Xia, I also have a proposal," Gan Guangli said. "Did we not see how gloriously the clans of the Emerald Seas can fight together? Rather than tying down the great White Plumes, the garrison force of this embassy should be of the clans, perhaps with a single high realm of the White Plumes."
+
+"Well said, Sir Gan!” Jia Shu enthused. “It does not sit well with me to shirk our duties to the realm’s security. Split between the southern clans, it is hardly a great imposition. The Jia will contribute happily."
+
+The Jia clan had sure gotten invested at the last minute, hadn't they? She needed to talk with Gan Guangli about that development.
+
+"The Diao disapprove of this," said a courtier in Diao colors.
+
+"I am not certain of our position on this," said a Bao one.
+
+"There will need to be a sovereign stationed here at all times, too. We had assumed this would be the General," Luo Jie said unhappily.
+
+"I may be required for other tasks. Permanent assignment here was always impossible." Xia Ren stared hard at Ling Qi before turning her gaze back to the Voice of the Weeping Sentinel. "I oppose this increased foreign force entirely. If it is insisted upon, I must demand that the comital clans put forth their own efforts."
+
+"We could design a rotation and send it to Her Grace to be made a decree to ensure we all contribute," Wang Lian offered.
+
+Ling Qi winced. Cao Chun didn't look pleased either, but she had known that he would disapprove of a stronger foreign force. She inclined her head to Cai Renxiang, who stood to speak.
+
+"It is true that the esteemed White Plumes cannot have so much of its command here on a permanent basis. The forces of the comital clans should be the larger part of any defense here. In the future when the Horned Legion is trained, the forces you have contributed to that may be a better fit, but that is for the future’s consideration."
+
+Ling Qi followed up. "I would propose that the White Plumes contribute a single fifth realm commander on site to act as an overall commander with the rest of the upper cadre provided by the comital clans. As the honorable Diao and Bao families do not wish to participate, I propose that the Wang, Luo, and Jia contribute the other officers. An overall sixth realm commander may be discussed amongst yourselves and presented to Her Grace for approval. Would that be acceptable?"
+
+"I think we will manage well enough," Wang Lian said. “I support this.”
+
+"As do I," Jia Shu said swiftly. "Why, I am certain that the Wang and Jia clans together could handle the matter on our own, if our colleagues wish…"
+
+"The Luo will contribute," Luo Jie interrupted. He shifted in his seat to lean on one arm, revealing some fresh scarring across his hand and arm.
+
+"Very good then!" Jia Shu exclaimed. "Getting back to the matter of these ith though, the reports we have received do have discrepancies with your information, emissary. These creatures do not behave or live like men. Even the degenerate barbarians of the sea floor or the jungle fused with beasts have more claim to that designation."
+
+Dzintara shrugged. "We were asked for our information. That portion is legend, but who is to say how far humans can change themselves?" She gestured vaguely, encompassing both General Xia and the Voice of the Weeping Sentinel behind her, as well as the valley outside where the cleanup was still occurring.
+
+Ling Qi privately thought Jia Shu had a point. What she understood of how the ith reproduced made them seem more an odd sort of spirit, but now wasn't the time for the debate.
+
+"Something for us to study and come to conclusions on in a more rigorous setting," she suggested.
+
+"I suppose." Jia Shu stroked his beard. "Ah, forgive me, my own interest in spiritual anatomy overcame me."
+
+"It is well and good to debate over unclear matters," Cai Renxiang said. "Still, let us focus. We are agreed that the retinue of the Weeping Sentinel will be allowed and matched by our own force?"
+
+There was agreement from around the table. Even the representatives from the disagreeing clans were not too bothered by it, and Xia Ren gave a single slow nod of acceptance, not voicing any further displeasure.

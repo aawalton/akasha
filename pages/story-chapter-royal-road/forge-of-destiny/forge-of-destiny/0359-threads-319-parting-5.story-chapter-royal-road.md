@@ -1,0 +1,143 @@
+---
+id: 7a439a10-d10b-5b14-a57d-e0846ca2e05c
+page-type-slug: story-chapter-royal-road
+title: "Threads 319-Parting 5"
+slug: 0359-threads-319-parting-5
+partOf: forge-of-destiny
+position: 359
+ownLength: 2089
+unit: words
+publishedAt: 2023-07-10
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1273293/threads-319-parting-5"
+royalRoadId: "1273293"
+---
+
+Ling Qi took a deep breath.
+
+Li Suyin chuckled, scratching her cheek with a golden claw. “That ended up being very serious.”
+
+“So, hey,” Hanyi interrupted. “I wanted to know, can you make me a cool skeleton handmaid? ‘Cause I have, like, a bunch of money now.”
+
+Ling Qi blinked. Li Suyin blinked.
+
+“Hwah?” Her friend made a confused noise.
+
+“You know, like the ones you have, but, like, with ice instead of icky spider stuff!” Hanyi explained happily.
+
+“My silk isn’t icky. Ling Qi, did you…?”
+
+“First I’ve heard of this,” Ling Qi said blankly. “Hanyi, what would you even do with something like that?”
+
+“It’d carry all my stuff, comb my hair when Sis isn’t around, and look really cool,” Hanyi answered, counting off the benefits on her fingers.
+
+“Ah, I’m not taking commissions right now,” Li Suyin said, still looking befuddled. She glanced at Ling Qi questioningly. “... Maybe in a few months?”
+
+Ling Qi sighed. “We’ll talk about that later.”
+
+“I’d just ask for one of Sis’ maids, but they’re fragile! I’m trying to be thoughtful. You’d be mad if I broke one!”
+
+Ling Qi stared at her. Hanyi looked back defiantly.
+
+“... Yes. I would.”
+
+Li Suyin smiled awkwardly. “How lively. Honestly, I hadn’t even considered selling my constructs. The aesthetic is a little too niche.”
+
+“I’m sure you could find buyers,” Ling Qi said.
+
+Hanyi puffed out her cheeks.
+
+“More buyers,” Ling Qi corrected.
+
+“Maybe, but I’ve been so busy, and the Sect is providing so much in the way of materials, that I hadn’t even thought about it.”
+
+Her friend did have a really beneficial arrangement with the Sect right now.
+
+“I’m just glad you’re doing well.”
+
+“And I’m glad to see you again. I hope I can get out to see what you’re building at your new fief in a few months.”
+
+“I hope so too. It can be a little adventure for old times’ sake. Anyway, what have you been working on? I know you probably can’t talk about everything, but I’m really curious.”
+
+“I can share, if you tell me more about these foreigners! What’s this about a flying ship I’ve heard about?”
+
+“It’s not exactly a ship, but…”
+
+Friends, teachers, so many people here at the Sect that she was going to be leaving behind. At least with Suyin though, they had clear plans to meet up again, both for the adventure and their ongoing cooperation on the fourth realm elixir project.
+
+***
+
+She never had gone to as many lessons as she could have while in the Inner Sect. There was just always something to do: people to meet, duties to fulfill, and places to explore. Still, the quiet atmosphere of the elder’s lecture site had a comforting air.
+
+Of all the elders she had met, she did not think she had actually sat in on a public lesson taught by Elder Ying. Her classroom was a stony grotto set near the base of the mountain where falling waters formed a misty curtain on the north side, pooling in a clear sparkling pond in the center. The student benches were raised rounded stone with fuzzy green layers of moss that did not stick to or stain even the more mundane robes and gowns of the other students.
+
+The elder herself stood on the rippling water of the pond. Elder Ying had not changed since Ling Qi had seen her last. She was still a short, stooped elderly woman with thin white hair tied up into a bun with a deeply lined face and a friendly expression. She wore a plain gown with tones of tan and near white.
+
+“... And so, the nature of defense is as complex as the ways of harm, ever changing with the needs of the moment, the battlefield, the opponent, your goals, what is wanted, and what is needed. There can be no universal shield, any more than there may be a universal blade. To think in such terms is itself a failure of thought, a foolish dead end which has ensnared growing cultivators since before the founding.”
+
+Today’s lecture was a meditation on the nature of defensive arts, or more specifically, on the concept of “defense” and “protection” itself. It was a discussion as to what those concepts truly meant in their contexts on the battlefield and off.
+
+Ling Qi herself had many small answers to this question percolating in her mind, developing and clinging to the edges of other ideas and concepts.
+
+“What most consider the fundamentals of defense are the concepts of ‘armor’ and ‘motion.’ These can be viewed as the ability to endure and the ability to avoid. But these concepts are only the simplest methods suitable for the lower realm battlefield. Absorption, diffusion, redirection, causal disruption, even these are but slightly more advanced examples of defensive techniques. Consider, then, that defense is not only a concept for war. Perception is itself a layer of defense, but it is also prediction, organization, and administration. These, too, must be considered, for life is not only war and can never be only war…”
+
+It was true, Ling Qi thought. She could absorb an attack which would slay a dozen third realms into the impenetrable depths of her Mist, but that was an ability with little use in the project before her. Her foes were not hurling bolts of power from the sky nor were they striking at her with blade and fist.
+
+Even the powerful spirits and high cultivators who she dealt with were oft as not not really trying to harm her. Their nature itself wrought harm by their mere existence. Black Sky’s Yearning had been a hungry void that could only devour. The great thundering beast in her fief and the strange beasts emerging from the glacier were ruinous in their indifference to the small lives around them. Xia Ren, an engine of metal and flame that could only keep churning forward, seemed to just be seeking more fuel to burn. Even the Duchess herself was a force on all around her just by her nature, though Ling Qi did not dare make judgements on what precisely she was.
+
+Ling Qi would need to meet and understand all of those who had followed and supported the duchess onto her throne, if she were ever going to help Renxiang topple her from it.
+
+“It is the nature of defense to be reactive, but this, too, is not universal. To prepare effectively, the nature of the assaults on such a project will suffer must be deeply understood and incorporated into the foundation of your defensive technique.”
+
+Ling Qi nodded faintly, the elder’s words echoing her own thoughts. She thought there was something else there though. It wasn’t enough to stop an attack. A defense, a good defense, should put her in a position to take advantage of her enemy. It wasn’t enough to react. Although her family and friends may not have liked her choice to suffer a knife to her neck when defending against an ith-ia assassin, she was not ashamed of it because it had given Xiulan the opportunity to end the threat then and there, and Ling Qi had lived.
+
+The best defense was one which positioned her enemies to be ruined.
+
+Well, that was probably too martial for her current problems. The best defense made their position untenable to hold? No, that formulation forced them to cede to her advance. Could her negotiating partners be considered enemies in this analogy or just the ones out to obstruct her?
+
+There was no answer, and that made her snowballing thoughts peter out.
+
+She really didn’t like not being able to bounce her ideas off of Sixiang. She hadn’t realized how much she depended on the muse for that.
+
+“My lecture style isn’t for everyone, but I did not think I had become so boring.”
+
+Ling Qi held very still, forcing herself not to flinch or jerk in reaction. Beside her in the empty space on the stone bench sat Elder Ying with her chin on her hands, looking ahead. The Elder Ying standing in the center of the grotto remained where she was, still speaking, though Ling Qi could not hear her now.
+
+Ling Qi lowered her head. “My apologies for my inattention, elder.”
+
+“This is only an introductory class, so I am not surprised, young lady. You’ve taken on many burdens since the last time we spoke.”
+
+The silent question of why she was here remained.
+
+“I felt like I owed you a farewell, now that I am leaving the Sect. Your gifts and lessons were invaluable.” Ling Qi wasn’t sure how confident she was in her own words though. Honestly, was she just making an excuse?
+
+“How precious. It does make an old woman happy to be appreciated, even if my lessons were short. In the end, I’m not sure there was much for you to take from me, young lady.”
+
+Ling Qi drummed her fingers on her knees, considering. “You helped me raise Zhengui properly in the beginning when I was scrambling. That is more valuable than any art or direction in my Way.”
+
+Elder Ying considered her as the lecture went on outside the little bubble of inattention around them. “That’s fair, but not quite it, is it?”
+
+The elder’s patient expression stirred up the question that had come to brew in her mind since the nightmare tribulation.
+
+“Must all who reach the peak truly be alone?”
+
+That was the assertion that had previously been given out by Elder Ying in the Outer Sect when she had received brief lessons from her.
+
+Elder Ying’s drooping eyelids opened a bit wider. Her eyes were glittering green, like raw emerald dug from the earth.
+
+“That is my experience. Have you not experienced a little of it already? To live and walk forward, you leave people behind. This will only grow worse with the passing centuries. New faces might replace them, but they will become harder and harder to discern.”
+
+The old woman’s gaze was wistful, even as the illusion of her humanity wavered under Ling Qi’s attention. She had eyes of verdant ore and skin like deeply cracked and weathered stone. Ling Qi sat on a bench beside a worn and mossy mountain, looking down upon her disciples from so high among the clouds. Elder Ying was glad to proffer shade and shelter, but there was only so much a mountain could perceive of the doings of humans.
+
+… It was sad. Ling Qi felt that Elder Ying’s Way was unbearably sad.
+
+“I think you must be wrong. I have left some behind, and I will leave more behind, but there is still room to connect with others, even on a higher peak. I don’t believe that it will become truly impossible to connect with another, if you choose not to discard that aspect on your path.”
+
+“It’s not bad to be a little naive. My Way is at its end. I will climb no higher than this. But… I once thought as you did when I was a girl. I can remember that, even if I could not tell you why. Being alone does not mean you do not care or that you must be as a heavenly machine, unfeeling and disconnected. There are many Ways whose attention remains on this earth and with their people and kin. All the same, you will not be one of them. The relationship is different. Distant. When your will is a Law of the world they live in, when you have almost become a fixture of the world, how can you be?”
+
+The elder’s words were a deep vibration in her bones as much as a sound in the air. It was so different perceiving a sovereign with the senses she had now in comparison to when she had spoken with the elder as a girl barely more than mortal.
+
+“Never again. Never again will there be such slaughter. So many of our children dead. So many of our people wailing. If all the earth must rest on my back, so be it. I will be the mountain upon which the storm breaks.”
+
+Ling Qi winced, a stinging feeling in the corner of her eye. She reached up and wiped at the wetness there, and her fingers came away with a trace of red. This was the second time.
+
+“You’ve chosen a cruel path to see so deeply. I suggest you refine it soon,” Elder Ying advised mildly.

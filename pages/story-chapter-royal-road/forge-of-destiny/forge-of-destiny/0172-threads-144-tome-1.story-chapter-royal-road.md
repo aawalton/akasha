@@ -1,0 +1,213 @@
+---
+id: 90c7417e-9970-5031-8fe4-bfc7a8949ce6
+page-type-slug: story-chapter-royal-road
+title: "Threads 144-Tome 1"
+slug: 0172-threads-144-tome-1
+partOf: forge-of-destiny
+position: 172
+ownLength: 3134
+unit: words
+publishedAt: 2021-10-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/768825/threads-144-tome-1"
+royalRoadId: "768825"
+---
+
+Although they didn’t have a proper spar, Ling Qi was glad to see her little brother was continuing to grow more adept with his terrain manipulation. His reactions were improving a great deal, as was his ability to coordinate multiple vectors of his ramparts and barriers.
+
+Beyond that, Ling Qi also got her first good look at Xia Lin’s abilities. The girl was very fast, fast enough that Ling Qi was unsure of whether she was faster. Ling Qi could feel the masterful flows of the wind in her steps and every twisting movement of her body and spear. Xia Lin was wind and metal, and her halberd pierced through whatever its blade touched, leaving gaping wounds in the underlying qi constructs of Zhengui’s structures that left them struggling to regrow.
+
+That they did regrow at all seemed to impress Xia Lin all the more.
+
+They parted ways a short time after, and Ling Qi thought that the initial meeting had gone well. If they encountered difficulty on the road, she was more confident than ever that their group would be able to handle it quickly and without trouble.
+
+***​
+
+For the second time in as many days, Ling Qi found herself waiting outside the sect town beside the large inn that marked the town’s outskirts and where she had previously met Xiao Fen the first time. This time, there was no great entourage. Leaning against the wall, she kept half an eye on the road and watched the foot traffic as vendors and market stalls began to creep back into the open space where the White Plumes had arrived yesterday.
+
+<I’m surprised Renxiang had you come out here alone,> Sixiang thought.
+
+<I get it,> Ling Qi thought. <The offer came through me. She’s letting me build on the appearance of doing a favor.>
+
+<I feel like it could be taken as an insult, but I figure she knows what she’s doing,> Sixiang admitted grudgingly.
+
+<There is a chance of that, but I think she knows the importance of seeming like she’s willing to play the same games as everyone else. If people think they can influence her decision through her retainers, then there is more reason to take us seriously,> Ling Qi thought as a laborer passed by her, balancing a long wooden beam on his shoulder. He never even glanced her way. She didn’t want to disturb anyone after all.
+
+<Are you saying that you can’t influence her?> Sixiang asked, giving the impression of a raised eyebrow.
+
+Ling Qi didn’t reply at first. <Not in the way that people will probably think.>
+
+In this one instance, she might have been able to convince Renxiang to reject the offer because of the stakes and her prominent role in the upcoming events. Outside of this, she considered most of her influence on Renxiang to lie in matters outside of politics.
+
+<Self-care, you mean,> Sixiang corrected. <That girl is gonna put herself in an early grave or an ugly path left on her lonesome.>
+
+Sixiang was being uncharitable, but Renxiang was too hard on herself.
+
+<Anyway, I feel something coming up the road. Probably your guest, going by the feeling,> Sixiang whispered.
+
+Ling Qi tilted her head toward the northern road and felt the whisper of wind through marsh weeds in the air and the faint ripples on a pond reflecting a starry sky. A moment later, a carriage came around the bend. It was a plain thing as noble carriages went, polished black wood with a flash of silver about the wheels. It was pulled by a pair of stout horses with silver gray fur and long untrimmed manes.
+
+She watched as it rolled past, other traffic on the road clearing out of its way as the driver guided the horses toward the inn’s stabling grounds. The driver was, despite his hidden face and mysterious form-covering robes, just a second realm cultivator. He was probably from a servant clan of the Meng. She watched as the man parked the carriage and stepped down to confer with the owner of the building.
+
+One short conversation later, the driver was knocking politely at the carriage door. From where she stood, she could hear him murmur. “We have arrived, Young Master.”
+
+The driver stepped back, and the door slid soundlessly open. The young man who stepped out was tall, perhaps even a centimeter or two taller than her. He wore robes of dark blue and black, heavy layered things that shrouded his figure as well as any woman's gown. Despite that, from his proportions and movements, she could see he was whipcord thin.
+
+He had a handsome if somewhat effeminate face, and his shoulder length hair was chestnut brown. As he reached the bottom of the carriage steps, he reached up with one gloved hand to adjust the narrow half spectacles that rested on his nose. Ling Qi caught the glimmer of qi that flashed in the silvery lenses. They were a pretty potent talisman.
+
+He glanced toward her and met her eyes directly.
+
+Ling Qi smiled without shame. It wasn’t like she was actually trying to hide. It would have been disappointing if he had missed her. She waited until he had dismissed his manservant to stable the horses before she approached.
+
+“Sir Meng, welcome to the Argent Peak Sect,” Ling Qi said politely, clasping her hands and bowing her head.
+
+Meng Dan bowed in return. “Baroness Ling, it is a pleasure to make your acquaintance.”
+
+He had a pretty soft and feminine voice. If his grandmother hadn’t specifically used male pronouns, Ling Qi might have been unsure of his gender.
+
+“The pleasure is mine, Sir Meng,” Ling Qi said. “Did your journey go well?”
+
+“It passed without troubles,” he replied, smiling pleasantly. “Bandits are hardly a common problem these days.”
+
+Ling Qi cocked her head a little. She wasn’t sure if he was trying to imply something. “Her Grace’s rule has been most beneficial, hasn’t it?”
+
+“It has,” he agreed easily. “I hope to see matters continue improving. The Emerald Seas has long been at a nadir, historically speaking.”
+
+“I suppose you would know,” Ling Qi said. “Do other scholars of Blue Mountain Sect agree?”
+
+“Heavens, no,” he replied with a chuckle. “We spend near as much time shouting at each other as we do keeping the Library tame.”
+
+Ling Qi blinked.
+
+“It is a common misconception that history is a simple recounting of events,” Meng Dan elaborated easily, removing his spectacles to polish them on a corner of his robes. “In truth, it is a war of perceptions.”
+
+“One which I would hope is grounded in facts,” Ling Qi replied, finding her rhythm again.
+
+“Of course, but facts are funny things,” he said. “I naturally believe my interpretations are correct, but so do my peers, and a skilled orator can make facts mean anything they like. Ask that muse that I can feel behind your eyes.”
+
+She got a feeling of a helpless shrug from Sixiang. Ling Qi narrowed her eyes. Meng Dan was communicating with someone…
+
+Ah, she understood. Ling Qi was not the only one with the voice of a moon phase in their head. “It seems we have both neglected to introduce everyone involved in the conversation,” she said lightly.
+
+“I am sure that you are aware that most people do not bother,” Meng Dan said. His small smile never faded as he replaced his glasses.
+
+It was easy, Ling Qi thought, to arrive at the conclusion that he was amused by her, but she didn’t think that was right. No, the impression she got was that Meng Dan was a little amused at everything.
+
+<Probably not far off,> Sixiang concurred.
+
+“Well, as peers, let us not be rude,” Ling Qi said. “Sixiang, introduce yourself.”
+
+The air at her side shimmered, and Sixiang faded into view wearing an androgynous face. “Hello there! I gotta say, it’s nice to meet a cousin again.”
+
+“The feeling is mutual.” The soft spoken voice that whispered over Meng Dan’s shoulder was barely audible. A face shimmered in the air there like the reflection of the moon on water. Long black hair in two braids bound by silver ribbons framed a soft, ghostly pale female face. Distinctively, her eyes were hidden behind a tightly bound strip of black silk. “This Yinhui greets cousin Sixiang and Scholar Ling alike.”
+
+“I don’t think anyone has ever called me a scholar,” Ling Qi mused.
+
+“I doubt one with no interest in the past would have spoken as you did at court,” Meng Dan said.
+
+“The Keeper cares not for the orthodoxy of methods,” Yinhui murmured, fading away. “Scholar Ling is one of hers in the end.”
+
+“I think she’s more Grandmother’s type, but you Hidden gals are always the possessive type.” Sixiang faded away in turn.
+
+“Interactions between the phases are always fascinating.” Meng Dan chuckled. “But enough. Would you care to come inside, Miss Ling? I presume we are to bandy words longer still, but I would rather do so with a cup of fresh tea to soothe my throat.”
+
+“Of course,” Ling Qi said, falling in a step behind him.
+
+***
+
+“This is a fine blend. Very rich,” Meng Dan praised, setting his cup down with a faint clink.
+
+Ling Qi and Meng Dan sat at a small table in the corner of the common room. Around them was the mild susurrus of conversation from the rest of the inn’s common room. The room was open and airy with pleasant lighting. The scents wafting from the kitchen added to the homely atmosphere. Most of the guests were disciples and servant cultivators, messengers, and drivers.
+
+She had been surprised when Meng Dan had ordered a table rather than a room, but she couldn’t say that she objected.
+
+“It is pleasant enough,” Ling Qi agreed. She had come to enjoy cold brews and more bitter blends. It was all still frippery in her mind, but one could not spend so much time learning the art of tea making without developing some preferences.
+
+Meng Dan’s air of amusement didn’t waver. They had spent the last few minutes while their tea was brewing in companionable silence. Watching him during that time, she had seen his attention drift from table to table, observing their fellow guests one after another. Not for a moment did he ever seem less than pleased with what he saw.
+
+It made her wonder precisely what he was seeing.
+
+<I think he might just like people watching, but there’s more to it, of course,> Sixiang whispered. Their mental voice was more “quiet” than usual since it seemed possible that Meng Dan could overhear them.
+
+“So,” Ling Qi began, swirling her tea in its cup. “I’m curious about what insights you have on the hill tribes. Lady Meng indicated you have some specialty on the subject.”
+
+“It is a subject of significant interest to me,” Meng Dan said. “To begin, I must unfortunately turn the question around. What do you know of the province's past, Baroness? I would hate to waste precious time explaining things you already know.”
+
+Ling Qi dipped her head in acknowledgment. “I know that the Weilu were primarily a northern polity, although they had interests in the south.”
+
+The Blue Mountain Sect that Meng Dan belonged to was one, formerly a great temple of the sun and moon. Then, there was the site of the Bloody Dream. The Weilu rebels may have fled to it, but it was still a point of interest. There was also the tomb on sect lands where a horned skeleton sat, bleeding forever in a maze of broken space. In the depths of her dantian, Ling Qi felt her domain blade stir at the memory.
+
+“I know at some point that they had a civil war and that the groups that lived to the south of the Weilu were independent and had their own traditions. Under the Xi clan, they were gradually brought into the Empire.”
+
+“A simple summary, accurate as far as it goes,” Meng Dan said. “I am surprised you know of the Mason’s War. It is not a commonly taught subject.”
+
+It took only a second to make the connection. “Mason’s… because the rebelling faction was using stone building materials and practicing northern city building.”
+
+“Quite.” Meng Dan seemed pleased. “It was as much a religious schism as a practical matter given the spiritual pacts in those days. Might I ask where you got your information?”
+
+“There is a location steeped in Dream that causes some events from the war to play out again and again,” Ling Qi said quietly, flashes of blood and death in her memory. For a second, she tasted blood on her fangs again. “It operates under the auspices of the Bloody Moon.”
+
+“Ah.” Meng Dan grimaced. “It is a shame you had to experience such a thing.”
+
+“I would think a historian would be more excited for a primary source,” Ling Qi said wryly, dismissing the lingering discomfort from her thoughts as best she could.
+
+“I would be, save that such… records have their own distortions,” Meng Dan replied. “The will of the Great Spirit involved, the participation of dreamers in the events… Are you familiar with Master Lao’s First Principle of the Liminal?”
+
+“My study of dreams has not been academic,” Ling Qi admitted.
+
+“Of course,” Meng Dan said. “The First Principle is that observation of a dream alters a dream. Memories and dreams are fundamentally personal, and viewing another’s memory inherently alters it as it is filtered through your perceptions. That is before actual personal interaction with the events is considered. In the case of long lasting phenomena such as you describe…”
+
+“It will have been viewed many, many times,” Ling Qi said slowly. “Do you mean to say that what I experienced was false?” She wasn’t sure how to feel about that.
+
+“I am certain that the general shape of events is correct, but I would not trust the details, no,” Meng Dan replied, tracing his finger around the rim of his cup thoughtfully. “‘False’ is the wrong word.”
+
+“I suppose I had thought in light of such things that determining the truth of history should be easy.”
+
+“Unfortunately not. We have many resources, but none are perfect.” Meng Dan was scanning around the room again.
+
+Ling Qi let out a sigh, despite it being a little rude. “The tribes then?”
+
+“Not anything like a unified culture,” Meng Dan answered, switching subjects easily. “Common parlance calls all who lived south of the Weilu and north of the cloud tribes ‘hill tribes,’ but this is misleading.”
+
+“I had some inkling,” Ling Qi replied. “There was a group that lived high in the mountains and practiced self-mortification. Nomadic groups and settled groups lived in the hills.”
+
+The burning library of lost knowledge she had briefly browsed on her trip with the moons to Tonghou had been helpful.
+
+Meng Dan’s perpetually amused expression didn’t fade, but he did give her an assessing look. “Quite. Why, recently, the Library discovered a number of old Xi era poems. The translation butchered the meter, but they have been informative.”
+
+Ling Qi did not react. “How fortunate.”
+
+He hummed to himself but didn’t pursue the subject further. Instead, he began to pour a second cup of tea before the empty seat on his side. “In any case, getting back on subject, the grouping known as the hill tribes consisted of three major groups. There were the nomadic tribes, the settled tribes, and the mountain tribes. However…”
+
+“However,” Ling Qi repeated, raising an eyebrow.
+
+“This is not considered polite conversational material, but…” Meng Dan began, a twinkle of humor in his eye.
+
+“Regional human physiology did not diverge until the introduction of beast blood,” Yinhui said, blowing softly on a cup of tea. Around the just materialized spirit, a fading silver light suffused the air.
+
+Ling Qi pursed her lips. “You are saying the Weilu were hill tribes themselves.”
+
+“I am saying that academic distinctions aside, there were few hard lines between the cultures of the Emerald Seas in the pre-Tsu era,” Meng Dan clarified. “There are numerous records of Weilu mingling with tribesmen, allying and warring in turns even after the Diviner’s rise. What scattered records remain show a great migration of the southlands in the face of advancing ice and the end of the dragons. It was only after arrival that differences began to show.”
+
+Ling Qi frowned, wondering just how far that went. “Advancing ice. That sounds like it may be relevant.”
+
+“Indeed,” Meng Dan replied, seeming delighted. He rested a hand on Yinhui’s head. In human form, she was tiny, shorter even than Li Suyin. “The mountain folk are our likely link. We have few enough records of them. It seems that they were well into decline by the time of Tsu with most of their people following the glacial ice back into the Wall. They are the most mysterious of the three groups.”
+
+“But you have something obviously,” Sixiang drawled aloud, materializing in the chair beside Ling Qi. They leaned forward, elbows on the table. “Man, you’re theatrical. You sure you’re not one of ours?”
+
+“He is not,” Yinhui said, not looking up from her cup.
+
+Meng Dan chuckled, rubbing the spirit’s head affectionately. Ling Qi eyed the two of them, wondering if he was like Elder Jiao, but that didn’t seem right. She was hardly experienced in that kind of thing, but his affection seemed more like a sibling’s.
+
+It hadn’t made her uncomfortable after all.
+
+“I do, in fact, have something. In my own research and expeditions into the Deep Archive, I turned up a partial journal and some fragments of a treaty signed by the Successor of Tsu, marrying one of his daughters to the son of a Queen of the Frozen Sky. The journal is that of a court diviner and contains a number of observations on the young man in question and his people. I have since been able to collate further information.”
+
+“How useful.” Ling Qi shared a look with Sixiang. She was almost certain that he was referring obliquely to a moon quest of his own. “What happened to them?”
+
+“Unknown,” Meng Dan replied, some mild frustration bleeding away his humor. “They were a significant polity, but the next records a few centuries later refer to them as a remnant. My professors concluded that they had simply gone the way of the others, assimilated or destroyed by the cloud tribes in their southern migrations.”
+
+“Then, your report occurred,” Yinhui said.
+
+“Just so,” Meng Dan said. “Rather convenient, no?”
+
+“Convenient,” Ling Qi agreed slowly. She was beginning to feel even more nervous. It seemed very much like whatever was happening, even Great Spirits had an interest.

@@ -1,0 +1,125 @@
+---
+id: 09c6a2ea-ceb9-54f7-9712-071b10775fd0
+page-type-slug: story-chapter-royal-road
+title: "Threads 467 Revelry"
+slug: 0512-threads-467-revelry
+partOf: forge-of-destiny
+position: 512
+ownLength: 1917
+unit: words
+publishedAt: 2025-08-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2519166/threads-467-revelry"
+royalRoadId: "2519166"
+---
+
+Ling Qi tossed the scroll in her hands aside and sighed, rubbing her forehead as she squeezed her eyes shut.
+
+Sixiang snatched it out of the air. "Oi, oi, your boss put a lot of work into this."
+
+"I was going to catch it on the wind and deflect it to land on the roof," Ling Qi groused.
+
+"Were you really?" they drawled, propping themselves up on one elbow. Sixiang pulled the scroll in toward their face and squinted. "Moons, Boss Lady has some dense handwriting."
+
+"Only when she's writing for herself or to me!"
+
+Up here on the roof of the manor, the breeze was cool and crisp, much more comfortable than the humid warmth which accumulated on the streets where so many bodies passed. Even on this second trip to Xiangmen, it was strange to look up and see only a vast dome of green rather than a starry sky. Even more strange was the fact that even at night, it wasn't really dark. Lights glittered from countless lanterns, torches, and floating faerie lights, so that the cloud district of Xiangmen glowed at night only a little dimmer than it was during the day.
+
+"With everyone else, she uses a much fancier hand. 'It's the expected presentation. Maximizing efficiency in this case harms the soft factors in communication,' she says."
+
+It was worse because she, of all people, knew Renxiang was right and approved of her liege taking it into account.
+
+Of course, she was Renxiang's friend, as well as retainer, so the heiress would be more natural when corresponding with her. That meant a scroll so dense it was nearly black inside, encoded with layered information she could only read because of her more advanced senses.
+
+She should have never made the mistake of glancing at Renxiang's personal notes and asking after it when she first returned to Shenglu. Now that Renxiang knew she could read it, there was no escape!
+
+"Cept that she'd stop if you asked her," Sixiang commented on her private laments.
+
+"I would never be defeated so easily."
+
+Besides, even if it made her head buzz and her eyes water after deciphering it, it was an amusing prank to share with Renxiang. She'd get her back later, even if her liege was becoming annoyingly resilient to her tricks. However, Ling Qi would not allow herself to be stymied for long!
+
+In any case, the first scroll, the cultivation pill and elixir catalogue for Xiangmen's cloud district, had been fascinating. She worried she might have overspent, but even without the privileged access of a patron, there were many, many options available for her cultivation level.
+
+"I hope I won’t have to drag your butt out of the meditation room while we're in the biggest concentration of art and artists in the Emerald Seas. If I have to dump a bucket of water over your head, I will, and there will be glitter," Sixiang threatened.
+
+She wrinkled her nose in disgust. "I haven't overdone my cultivation enhancer intake since I was in the first realm, Sixiang. Honestly, I'm not that bad. Besides, it's not as if going out on the town doesn't benefit my cultivation, too."
+
+Sixiang gave her an exasperated look. Smiling impishly, she reached out and snatched the scroll back, winding it back up with a flick of her wrist. "Anyway, I don't need to read all of this tonight. What say we take a walk?"
+
+"You won't hear me complaining." Sixiang reached out to her, and she took the muse’s hand and pulled them to their feet. The two of them leapt down from the manor roof to the path outside, earning a few startled looks from their house guards. Thankfully, most of these were from Renxiang's permanent detail, so they were used to such nonsense.
+
+"Going out to review nighttime conditions in the city," she said to them. "Please take any messages for me to review on my return."
+
+One of the men at the manor gates thumped a fist against his chest, and then, they were off, strolling down the branch trunkward, where the lights were at their brightest.
+
+"Whatcha got in mind?" Sixiang asked, trotting to keep up with her longer stride. It was still strange to think of Sixiang as having an actual physical presence, but even the pressure on her palm wasn’t wholly ethereal anymore, for all that it masked the sensation of porcelain and wood beneath the visible skin.
+
+"That's the fun part,” Ling Qi confessed. “I have no idea. It's been too long since I've let the wind take me, don’t you think?"
+
+She was proud of her work, and happy with her recovery, but she'd not had a chance to just wander in a while.
+
+"Hah! Now, that's what I'm talking about!" Sixiang crowed. The muse made a show of shading their eyes and peering into the distance. "Heh, I wonder where we'll end up."
+
+"I'll choose the first turn, and you choose the second,” she offered. “We’ll alternate until we find something interesting."
+
+"Sounds good!"
+
+The first intersection they came to was an unassuming T-shape. Two smaller summer manors faced each other across the road, and a larger branch estate blocked the way directly forward. The other directions were lined with hedges of brightly colored bush. There was nothing to really distinguish one choice from the other.
+
+The breeze kicked up, tugging at her hair, blowing… left?
+
+Left, it was.
+
+***​
+
+Ling Qi had gone out with Sixiang once before like this, back when she'd thought the nightlife of Xiangmen impossibly vibrant. Returning now, her senses told her so much more. Nevermind the intricate web of security which underlaid it all, Xiangmen was a fortress of unimaginable strength. Veins of power older than the empire powered both ancient and cutting-edge formations of a potency that would leave her feeling like a gnat dancing among a spider's web, if she spent too much time dwelling on it.
+
+There was so much connected to that network, binding and separating, doors and walls in infinite number. Bubbles of occlusion were woven through it like droplets of water on the web, reflecting her sight rather than receiving it. These were the homes and manors and ministry buildings, cut off and in their own demesne.
+
+In the streets, cultivators far more potent than she walked or glided and drifted in thronging numbers, as if they were merely the upper crust of a mortal town, and not the exalted immortals of story and myth.
+
+Of course, she knew better than to think of cultivators like this.
+
+She drifted along the edge of a crowd in one of the rounded city squares that existed where smaller branches split off from the main length, watching a handful of cyan cultivators drifting by overhead, singing and dancing, raising sloshing cups of some kind of grain alcohol, and shouting at each other while third realms thronged below around a huge alchemical set-up which filled the plaza, a keg as big as a house.
+
+The red-faced brewer guffawed loudly over the sound of the chanted off-key drinking songs around him, and pushed a lever on a contraption of glass and spinning gears and steam. She felt the potent earth and fire qi infused into the liquid in the giant keg erupt in potency, the loud bubbling from within erupting as a hazy, amber colored liquid began to pour over the top on waves of froth.
+
+The crowd around surged forward, empty cups thrust out to catch the bounty. What was missed ran down into the grates and pipes of the mobile alchemist's lab in the center of the square.
+
+"C'moooooon, you know you want to go for it. You can even fly! Get in on the topside instead of the crowd!" Sixiang poked her in the side. They were perched up on an awning overlooking the square.
+
+"I don't know. I'm not sure if that's really my kind of drink." Ling Qi eyed the stuff from a distance. The simple smell of it made her head feel warm, and her thoughts a bit fuzzy.
+
+"Then, at least get me a cup," Sixiang pleaded.
+
+"Can you actually drink with that body?"
+
+"Of course I can! What kinda hack do you think our girl Suyin is? Solid stuff is harder to digest, but I can totally drink like this!"
+
+Ling Qi rolled her eyes, but she snatched the notably large ceramic mug they'd acquired somewhere out of Sixiangs hand. She sprung off the awning, spiralling up into the hazy air of the square, above the stamping feet and singing voices. Honestly, she thought she might actually be more intoxicated by the radiating joy, contentment, and released stress billowing thick in the air here as all the masks of etiquette came down.
+
+She moved past a spinning couple, a pair of men locked arm in arm, the polished metal of their souls sheathed and wrapped in the comfort of comradery. For just a little while, they were more men than blades again. She skimmed the top of the frothing barrel while filling Sixiang’s mug, drawing shouts of mock rage from the two of them as the white froth at the top of the barrel parted under the wind at her tail, scattering over the crowd.
+
+She flew a wide lazy circle back, shaking her head to relieve the burning sensation in her eyes, and alighted back on their awning. Sixiang, who awaited her, was bouncing on the balls of their feet.
+
+"Oh, gimme, gimme! I've always wanted to try some good material world drink," Sixiang cackled, taking the cup from her hands excitedly. They inhaled deeply, and the colors in their hair flickered wildly, strobing across the spectrum hypnotically. "Oof, that's got some body!"
+
+"I'll take your word for it."
+
+They grinned. "Bottoms up!"
+
+She watched her friend toss back the drink, a trickle spilling over the chin. She really did have to admire how realistic the illusion of their throat moving with each swallow was. A moment after that thought flitted through her head, Sixiang stiffened and shuddered, their entire visible self frizzing and losing definition. Details wobbled and turned incoherent in a cloud of multicolored light around their constructed frame.
+
+"W-whoah! I feel like I just got clocked in the jaw by gramps!" Sixiang wobbled, and she caught them under the arm while their illusion reasserted itself, albeit it was a little fuzzy at the edges.
+
+"You might notice that most of the third realms are sipping at their drink," Ling Qi said dryly.
+
+"That's loser talk,” Sixiang informed her, “and Sixiang ain't no loser, just, ah… Huh. Gimme a moment to process that." They squeezed their eyes shut, and the definition of their clothes firmed back up, taking back up the texture of cloth rather than just smeared color.
+
+Honestly, now, she was tempted to take a sip.
+
+There was something really inviting to these wild festivities where the veil of what was acceptable and not had been lifted.
+
+Moons, she was curious.She wanted to immerse herself in the desires of a city, to feel the passions that drove such wild revelry and celebration. She had already bound herself to meet with Shu Yue in the darkness that clung to the corners where the nightmares in which the memory of Hui rule still lurked. But darkness was desire and want, both good and bad.
+
+Before she drank the bitter wine, it would be best to wet her lips on something sweeter.

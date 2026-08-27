@@ -1,0 +1,165 @@
+---
+id: 929e7e03-e46a-5712-981b-026f517bf1fe
+page-type-slug: story-chapter-royal-road
+title: "Threads 287-Depths 3"
+slug: 0325-threads-287-depths-3
+partOf: forge-of-destiny
+position: 325
+ownLength: 2045
+unit: words
+publishedAt: 2023-02-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1121626/threads-287-depths-3"
+royalRoadId: "1121626"
+---
+
+“You can leave if you like, Lao Keung. Thank you for your assistance.”
+
+“What assistance is that? A few words on waterborne toxins? Hmph, I feel as if this expedition was only an excuse to interrogate me.”
+
+“You were helpful. I am not the best at tracking.”
+
+He narrowed his eyes.
+
+“Despite my brash words, I did not want to disturb the lake spirit without cause. I had hoped for more preparation in setting the tone for my relationship with such an important spirit. Thank you for helping me confirm the issue.”
+
+“What is your plan for that?” Lao Keung walked out beside her. He traced a hand through the water, liquid coiling around his fingers, bubbling and frothing. “You do not have a village for a festival or procession. It has known only the passing of barbarians.”
+
+“It’s not so different,” Ling Qi said. “I can hear the echoes of gifts dropped from the sky and the sacrifice of food and crafts. Human effort and work and hope becomes food for the spirits. It needs to know that we will always be here though. That changes the relationship.”
+
+“That is not an answer.”
+
+Ling Qi supposed it wasn’t. She was not one for serenity. The importance of the pause and coda was obvious, but she was at heart a creature of motion. Even her conception of Endings was not stillness.
+
+Despite that, want, art, and desire all had to begin somewhere. The void of wanting was the blank canvas, the stillness that came before the storm.
+
+There would be adjustments. There would be negotiations. There would be ceremonies. A hundred, hundred little choices would follow this one in establishing a rapport with the spirit of what they now called Snowblossom Lake.
+
+Convincing it that it was Snowblossom Lake would be an issue in and of itself. Because naming a thing had power, but only if that name was accepted.
+
+However, Ling Qi was confident. This as of yet nameless spirit yearned to have a name in the same way the hungry yearned for food. The calm surface, the fathomless depth, the emptiness that took in light and projected splendid reflections upon the surface, all of it spoke to that want. That was the point of commonality she had with Lake Qi. She came by it differently, but it was not so unfamiliar.
+
+“What sort of ceremonies do you perform for the spirits of your lakes?” Ling Qi tapped her fingers against her thigh, testing out the beginnings of a tune.
+
+“Others have the role of intermediaries, but rites develop regardless of what anyone wants.” Lao Keung considered the empty expanse of water. “The lakes are hungry. They are generous. They desire deeply. Do not give from the catch, for it was theirs to begin with. Give of labor. Give of life.”
+
+“Funerary offerings?” Ling Qi wondered.
+
+“It is different for us. Bottomless Lake Hei birthed Grandmother Serpent and the other lakes of the land. To return to the waters in the end is only right. Even we and the lowest of the gray are not denied this. Our lives are our final offering to the Queen of Still Waters.”
+
+For the first time in conversation with him, Ling Qi detected a hint of real respect and reverence. So he did believe in something.
+
+She supposed she’d already known that though.
+
+“This custom is unfamiliar to me. Here, bodies are given to the earth to revitalize the land, or they are burned for the dishonorable dead.”
+
+“Ask your Meng how unusual it is. It is folly to give your ancestors to the creeper roots of the Red Garden.  I suppose it would be different here where you all are the children of the Bountiful Earth.”
+
+“Planting trees over graves or burial among the roots is common, if one can afford the space,” Ling Qi said. Even Tonghou had a few sickly little grave groves, and presumably better ones further in for those who could afford it.
+
+“And I have heard that among the cloud tribes, the tradition is to place the body as high in the sky as they are able, or in stronger tribes, to fling them beyond the grasp of the earth to feed the stars. We all choose ways of returning to our ancestors. Even the Imperial City carves their necropoli into the dragon-forged mountains they crawled from.”
+
+A life well lived was probably the most potent sacrifice, short of a life cut short, Ling Qi thought. It would not be appropriate to sacrifice their dead to the lake because they belonged to the earth of the Emerald Seas, but she could make a different promise to the lake.
+
+To take the cold waters unto themselves was a binding of its own. That was what lake, or rather, void, meant to her. Want and desire was born from emptiness, that place where all things met, because it was their origin.
+
+And this wanting would be her promise to the lake spirit. She would promise people, dedication, and sacrifice, the offering of lives lived and fulfilled on the shores of Snowblossom Lake.
+
+Maybe it wasn’t so far from what the Bai who had created the art had in mind after all.
+
+“Tell me, what allowed you to create the relationship that exists between yourself and Bai Meizhen?” Lao Keung asked, breaking the silence.
+
+Ling Qi glanced over, smiling. “The same thing that let me make contact with a strange foreigner at the caldera. My ignorance.”
+
+Lao Keung snorted, generating a wobbling stream of bubbles.
+
+“Not knowing any better is a wonderful excuse, no?”
+
+“You make yourself sound like a child.”
+
+“People often underestimate children,” Ling Qi said, thinking back to days of hunger and desperation. “Even when they really shouldn’t.”
+
+He shook his head, turning away.
+
+“But it's not childishness,” Ling Qi said to his back. “Once, our ancestors had no solutions nor traditions to fall back upon. They sought them, made them, and founded them. How can we do any less?”
+
+Life was a battle against privation. Hunger was the privation of the body, ignorance, the privation of the mind, and isolation, the privation of the heart. Curiosity, the seeking of answers, was the root of all possible solutions. This was the core lesson of the Hidden Moon.
+
+“Xia Lin is ready,” Sixiang murmured.
+
+“Let's begin then,” Ling Qi said. Stepping forward right to the edge of the spiritually enclosed space, she reached out and pressed her hand to its surface, wetting her palm on the dense lake qi that hid whatever lay beyond.
+
+She began to sing. It was not a song of ephemeral beauty nor of high-minded ideals or thoughtfulness. It was a song of feet tromping in the streets, little boats upon docks, and hungry bellies and fishers and sparks of fire in the dark. It was a song of lives lived day by day and of work and toil and life from mud.
+
+And as she sang, her outstretched hand sank by degrees into the resisting curtain of lake qi. It swallowed up her fingertips, her palm, and then her whole hand. She sang, and her wrist sunk in, vanishing into the dark. And as she sang, the serene waters stirred. They churned and flowed, and something very old but very simple began to awake.
+
+Ling Qi sang, and she saw herself in a flash, a tiny sliver of a shard of ice deep underwater standing with a jagged stone, quivering with ill contained lightning. She was so very small, but her voice was loud. She saw for a moment slow connections forming, vague memories of mounted men upon the shores and tents of hide and bone upon the bank as cold winter closed in that were replaced with more familiar stone and wood.
+
+She sang of winter and spring and summer and fall, of people who did not go and structures which did not move, of streets growing like the tangles of a spider's web, and boats like little schools of wooden fish. She sang of offering and life, labor and love and being.
+
+And she saw the lake through the eyes of the spirit. It was without body and without name or even silhouette, just water and reflections. She offered it the name they had made in song, Snowblossom, for the ice floes blooming like flowers upon the water.
+
+Curious was the formless lake. It sought her desire, her want. What did she have to bargain for? And she, in turn, sought answers from the lake, answers to the sickness leaving people wilting on the shore. Containment, health, and prosperity, these she desired.
+
+She sang, and in its way, the lake sang back, prodding her for meaning and clarification. They sang and spoke without words, and by slow increments, the lake began to show interest in name and sacrifice and in the reflections of lives that would live in, on, and around its water.
+
+The emptiness at the lake's bottom rolled back like the curtains on a stage, and Ling Qi felt her mind's eye drawn across the depths and the rich black river mud where denizens of deep water writhed and swam and lived. She followed the tug to the far side, closer to the thundering waters, and then down into a weed-choked crevice, a split in the earth from which bubbles of earthflame flickered and rose, lit by a dull glow of heat and power from far beneath.
+
+And there, she saw the crystals growing all along the rocks, gray and red and yellow and tiny, tiny specks of green, pulsing with qi so potent that it leached into the waters.
+
+Contain? whispered the lake. The waters swirled.
+
+Contain. For now, Ling Qi whispered, and it was so.
+
+And in her mind, she marked the day because this was the day that Snowblossom Lake was born.
+
+***
+
+“So, what were the effects on the surface?” Lao Keung asked. He’d long since dried off, wrapping himself in his coat and scarves.
+
+<Sad, that,> Sixiang drawled to her.
+
+Ling Qi sighed. Maybe a little.
+
+<Oh! My girl!> Sixiang squealed happily. Ling Qi ignored them.
+
+Xia Lin stood before them, encased in shining steel from the neck down with only her plumed helmet off and held under one arm. She looked distinctly unhappy. “The shoreline withdrew some ten meters, and a frozen mist began to form and flow out of the bed. This persisted for some thirty minutes during which the earth underwent minor tremors.”
+
+“I felt that it was best to address the problem immediately,” Ling Qi justified. “It was my concern that the toxin in the water may have proven dangerous or corrupting.”
+
+“A reasonable concern,” Xia Lin said dully.
+
+“I see that you had no trouble preventing damage or organizing the withdrawal, Captain Xia,” Lao Keung said.
+
+“Of course I had no trouble,” Xia Lin snapped. “There are only a few dozen civilians yet.”
+
+Ling Qi considered the temporary outpost, the simple wooden barracks, and the primitive logging camp, all surrounded by a palisade of sharpened stakes. Snowblossom Outpost had just enough infrastructure to host some permanent population and begin work on some projects.
+
+“I was fully confident in your abilities,” Ling Qi praised sincerely.
+
+“And your own,” Xia Lin said dryly.
+
+“Of course. Was I wrong?”
+
+“You are vexing, Lady Ling.”
+
+“I like you as well, Captain Xia.”
+
+Lao Keung snorted. It became a cough when Xia Lin glared at him.
+
+“Fine. You are quite serious about the spirit stones?” Xia Lin asked.
+
+“I am,” Ling Qi said more seriously. “They’re at the south end of the lake. I can’t be sure, but I think the vein may run down from the mountain which the river runs through.
+
+“Then I suppose we will be reconsidering our building plans. Again. This is not even considering the sudden abundance of fish near the surface,” Xia Lin said.
+
+“Yes,” Ling Qi agreed.
+
+“And of course, Lady Ling will be quite busy for the remainder of the day as well.”
+
+“I will?”
+
+Xia Lin smiled pleasantly and with a great deal of teeth. “The documentation required to register a new spirit stone deposit is extensive.”
+
+Ling Qi blinked. “Ah,” she said faintly.
+
+… She’d probably earned that.

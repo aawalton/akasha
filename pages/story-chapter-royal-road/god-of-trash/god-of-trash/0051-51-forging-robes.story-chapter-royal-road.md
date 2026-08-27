@@ -1,0 +1,83 @@
+---
+id: 7f8c5c43-1070-5005-ae30-2e7eea048758
+page-type-slug: story-chapter-royal-road
+title: "51. Forging Robes"
+slug: 0051-51-forging-robes
+partOf: god-of-trash
+position: 51
+ownLength: 2210
+unit: words
+publishedAt: 2025-04-14
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2202230/51-forging-robes"
+royalRoadId: "2202230"
+---
+
+Rhys scurried back up the mountain to the upper peak. He stopped by the trash ravine and started the process of burning the high-tier trash to make ash. He needed a new potion after he’d downed the old one, and besides, after he’d used the previous potion to empower his body, he was curious just how far he could push his limits now.
+
+As that processed, he drew out the fabric scraps from his storage ring and laid them all out, ordering them from strongest to weakest. He had the least of the strongest fabrics, and the most of the weakest ones, as expected. It wasn’t a direct linear relationship. There were times where he had most of a relatively strong garment, and only a few scraps of some kind of cheap cotton. But in general, the more powerful the fabrics got, the less of the fabric he had.
+
+He couldn’t just burn the fabric. He’d end up with little more than ash, and he already had so much ash. He needed another method.
+
+Let’s break it down. What is fabric? Fabric was made up of thread, which was itself made up of fibers, woven together. Some way of extracting the fibers and recombining them… Rhys pinched his chin. For fabric, the best way to separate it would be to soak it, right? He couldn’t use heat, but water, and maybe a steel brush, treat it like raw wool or raw cotton and brush the fibers back out of the fabrics… It was beyond anything he’d ever had to do to make cosplay. The most he’d ever done there was cut whole cloth and sew it back together.
+
+Then again, Rhys thought, looking at the cloth before him. He didn’t need to break it all the way down to the raw fibers. With a needle and a thread, he could patch up the larger garments with sections of the smaller ones. Rhys pulled out one of the most complete of the more powerful robes. It was burned and had a few holes and slashes, but overall, the general shape of the robe remained. He turned the robe over in his hands, inspecting it and generating a three-dimensional model of the damaged robe in his mind. Putting the robe back down, he spun the model, mentally reviewing the damage. Several panels had slashing damage, but for the most part, he could simply sew that shut and fix it almost invisibly. The burns and the holes were the real problem, but if he completely ripped out the panels with burn damage or holes through them and replaced them with fabric from another source, rather than simply patching the hole, he could create an end result that looked relatively uniform, as if he hadn’t created it patchwork. The panel would be a different color and texture, of course, but a bit of dye and some creative layering would help hide the difference. And if he replaced two opposing panels, he could even make the choice look intentional, rather than a result of necessity.
+
+His mind ascended into the realm of character design and costume creation. This was no different than the time his female friend had sat on a patch of bubblegum and completely ruined a large segment of her sailor skirt the day before the contest finals. Compared to the exacting eyes of male nerds and costume contest judges, ordinary mages were positively easy to fool… er, or rather, please. The upside of a design he made up himself was that no one knew what it was supposed to look like, as opposed to creating a character’s costume, where the judges could compare the real-life fabric to the picture, and find him lacking. It was for that exact reason that he’d always found original character ‘cosplays’—that is, cosplays of characters the costume maker made up for the purpose of making a costume—weak and somewhat of a cheat, and always resented when original characters won contests, but now, in the real world, he found himself gripping on to those same exact strengths that original characters had.
+
+I apologize for every time I silently cursed you, original character cosplayers. You, too, are trash, and ought to be looked to for enlightenment!
+
+He drew out a pair of scissors he’d found in the trash. The blades gleamed with the light of Trash Intent.
+
+It was time to get to work.
+
+Each fabric had its own properties. Some resisted the scissors’ slashing, requiring Rhys to put extra mana into the cut, and others simply bent when the tip of the scissors dug into them, resisting the piercing quality. As he cut, he sorted the fabric into slash-resistant and piercing-resistant piles. There was less of the slash-resistant than piercing-resistant fabric, but the slash-resistant fabric was also higher quality than the piercing-resistant fabric. He tilted his head. Was it easier or cheaper to make piercing-resistant fabric than slash-resistant? It did make sense. To some extent, fabric naturally resisted piercing, but was less naturally resistant to slashing. Loose fabric could be slashed with a knife, but it would be hard to stab loose fabric, unless there was something behind it. The fabric would just move with the poke.
+
+Once the fabric was sorted, he drew out a needle and thread and got to work. The slash-resistant fabric went under the needle first. He worked quickly, the pattern familiar to him, using the repetition of sewing to train his fine motor control at speed. He was a mage, now. He’d enhanced his whole body several times over. Every motion, from the large to the small, he could do far faster and with more precision than he could as a mere human. Whether it was fighting in the arena or wielding a needle, he was able to output motions far faster than he could, even when he was putting together bags in the trash heap back in the orphanage.
+
+A few minutes later, he held up his final product. A skintight turtleneck with sleeves that came to a point on the back of his hand and hooked around his middle fingers and a pair of just-over-the-knee-length tight shorts not unlike biking shorts. Ideally, he would have crafted leggings, but he didn’t have enough slash-resistant fabric. The knee-length shorts protected his femoral artery and upper knee ligaments, and that would have to be enough for now.
+
+Both of them were absolute patchworks of different fabrics. He’d made no effort to make them look good. They would be worn under his robes, so it didn’t matter if they were handsome or not. What mattered were their anti-slashing properties.
+
+He knelt and put his hands on the shirt. The fabric already had anti-slashing properties, but, well, it was trash. And trash wasn’t the best material. No. What he needed, was to enhance that trash! Polish the trash! It wasn’t shining yet, so it was time for him to push it to its limits.
+
+Rhys activated Trash Intent. The fabrics trembled, fighting one another as they tried to take on their original shapes, whether that was another garment or directly into the state of whole cloth.
+
+No. Rhys fought back. He pushed more mana into Trash Intent, and with it, his will. These pieces of trash weren’t going to take on their original form. Instead, they were going to take on the new shape he’d given them. Take on that shape to its ultimate form. Take on that shape to its absolute limit!
+
+The fabrics shook. The tiny scraps gave in first. They had the least of their original intent left, and the least inherent mana to oppose him with. The pulse of Rhys’ will overcame the emanations of the scraps’ mana, and the scraps began to sync with Rhys’ mana and his will, forming the shape of his intent rather than their intent.
+
+One piece at a time. Slowly overcoming the will of the fabrics he’d built it from. The biggest piece, a solid chunk he’d used to protect his abdomen and left chest, struggled against him. It strove to be a skirt, a piece of women’s attire. It had been a skirt, before it was trash. It longed to be a skirt once more.
+
+Rhys rejected its desire. It was no longer a skirt. It hadn’t been a skirt for years. It was trash, it had become his trash, and now, he had transformed it into something greater.
+
+No! It trembled in his hold, rejecting his will with all its might. Its mana pitched against him. It was a skirt. It had always been a skirt. It was going to be a skirt again!
+
+Rhys went to push it down, then paused. He could overwhelm it, yes. But was that his path? Was that the way to pull the trash onto his side? For some of it, sure… but for trash with a will this powerful? If he could win this trash over, wouldn’t it become far more powerful, in its final form as his new shirt?
+
+So instead of oppressing the fabric, he reached out to it. His will connected with its will. It wasn’t becoming something lesser. Its time in the trash hadn’t diminished it. He appreciated that it had once been a skirt, but before that, it had been whole cloth. Was it so attached to an ephemeral form?
+
+The skirt fabric hesitated. Its will flagged.
+
+Rhys showed it the shirt he’d made. He imagined himself wearing it into battle, imagined it deflecting mighty blows. Was this shirt that the fabric had become lesser than the skirt it had been? It was equal. No, greater! By working in harmony with all the other fabrics, it could become something greater than it had ever been. It could become something complete, and become useful once more.
+
+The fabric’s will shook. He felt it trembling. One last blow! He looked at it, and called out to it and all the other fabrics in the shirt, showing them its grand vision. If they melded together, if they all worked together in harmony, what a fabulous article of clothing they could become. A powerful shirt that bordered on armor. They had been tossed away, torn, burned, stained and forgotten, but Rhys had found them. He’d remembered them. Put them back together. And now, now they could shine once more.
+
+Show me, no, show the world! You aren’t trash. You’re still strong. Still usable. Together, as one, we’ll show them all that trash isn’t any lesser than the original clothing! Whole cloth? Who needs it! We, together, are stronger than whole cloth could ever be!
+
+He’d only sought to be able to use Trash Intent on the fabric, but now, the shirt, and the pants, both began to glow. They absorbed Rhys’ mana and the Trash Intent alike. The cloth whirled, transforming under the glow. Rhys stared, completely taken aback. He’d felt a little silly giving a motivational speech to fabric. Who would’ve known that speaking to the will imbued in the items would have this level of effect?
+
+More and more mana poured out of him. He reached into his robes and sipped a mana potion to keep up, not wanting to fall short of whatever this process was. At last, when he was about to take a second sip, the glow faded.
+
+The shirt and pants had each become a single piece, with no seams or patchwork. The diverse fabrics had melded into one. Patches of strange color and texture merged directly into the next, green silk becoming purple cotton broadcloth, purple broadcloth becoming white canvas. The end result was not unlike a poor man’s tie-dye, with a big block of dark navy across the front of the shirt where the skirt’s fabric had been.
+
+They weren’t pretty. But they were powerful. The shirt and pants emanated an aura of tier 1 on their own, as if they were their own mage. Not only that, but the fabric held its own power and intent. It had absorbed his mana and intent and took them as their own, holding the power he’d imbued in them even without him constantly feeding them. Rhys ran his hands over the fabric in shock. How… What…
+
+Trash Enchanting 1
+
+He almost laughed aloud at the message pop. Trash Enchanting? What was that? Now the System was just putting trash in front of words.
+
+Then again, he was pretty sure he couldn’t use this technique on anything but trash. He couldn’t sweet-talk whole cloth into becoming one by motivating it to overcome its history of trash, after all. But what a skill to get!
+
+Removing the makeshift toga he’d been wearing since the battle, he put on the slash-resistant clothes. The clothes conformed to his body like a second skin, moving on their own to match his limbs. Rhys stretched. Although the shirt should have pulled where there were patches of stiff fabric, and he should have had to make dozens of adjustments, it instead fit perfectly, and the same went for the pants.
+
+He stared at his body in shock. Slowly, a grin spread over his face, and he turned toward the piercing-resistant fabric. He’d just gained a new technique. It was time to push it to its limits.

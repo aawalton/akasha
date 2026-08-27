@@ -1,0 +1,203 @@
+---
+id: 2b9bb368-fd79-58a4-b91d-e18941f80f96
+page-type-slug: story-chapter-royal-road
+title: "32 - Molten Arena"
+slug: 0032-32-molten-arena
+partOf: gamer-girl-evolution
+position: 32
+ownLength: 1856
+unit: words
+ownProgress: 1856
+publishedAt: 2025-11-27
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2798080/32-molten-arena"
+royalRoadId: "2798080"
+markedReadAt: "2026-06-29T20:06:36.390Z"
+---
+
+Celica watched the arena transform quietly, her boots making a soft click on the stone floor.  She squinted, taking in the eerie stillness around her. She could sense the tension in the air, the faint hum of magic building as the system prepared the stage for the battle ahead.
+
+The atmosphere shifted almost instantly.
+
+A rumble vibrated the ground beneath her, followed by a low growl that seemed to echo from the very walls. The arena began to tremble as molten rivers began to emerge from cracks in the stone, lava slowly trickling through the ground.
+
+Celica didn’t flinch, her sharp eyes narrowing as the room’s transformation accelerated.
+
+Massive pillars of flame shot up from the ground, roaring to life like the breathing of a dragon, painting the room in an intense orange glow. The temperature spiked immediately, the air thick with heat as the once-muted space now mirrored the heart of a volcano. The smell of sulfur wafted through the air, the floor warming beneath Celica’s feet.
+
+She remained still for a moment, assessing the new environment. The terrain had definitely changed the battlefield—lava rivers that could burn her if she wasn’t careful, towering flame pillars that could erupt at any second. Still, Celica felt a surge of confidence.
+
+Her Water Blade was guaranteed to be advantage against fire-based enemies. This environment—volatile and dangerous—would be just the perfect place for her to unleash her full potential.
+
+She tightened her grip on her blade, her focus sharp.
+
+The transformation of the arena was complete, and there, standing in the centre of the volcanic chaos, was a massive, three-headed beast, each head spewing flames from its gaping maw.
+
+The ground trembled with its presence, and the beast let out a roar that reverberated through the stone walls. Celica’s gaze hardened.
+
+[Cerberus (Boss) — Lv. 46]
+
+“Here we go,” she said, muttering under her breath, as her pulse steadied. Each of Cerberus’s heads turned in her direction, the flames in its eyes flickering with malice. The heat was smothering, but Celica’s focus never wavered.
+
+With a guttural growl, Cerberus charged, fire erupting from all three of its mouths. The flames were wide, sweeping toward Celica with a speed that was both terrifying and magnificent. But Celica was ready.
+
+She danced to the side with an effortless roll, the fire just grazing her side. The heat was intense, but she was already making her way closer to the beast, weaving through the molten rivers and fiery columns.
+
+Her water blade gleamed even against the fiery backdrop. She knew this would be her key. Fire-based enemies didn’t stand a chance against water. Her first slash landed against Cerberus’ massive flank, chunking its HP bar instantly.
+
+The beast let out a loud roar before it retaliated with a brutal burst of flame from all three heads. Celica easily dodged the first wave, countered the second with her Water Strike and parried the third. Despite the boss' pressure, Celica pressed the attack.
+
+She slid under the creature, Slashing into Cerberus' front legs, forcing it to stagger. The impact was incredibly satisfying as its HP bar substantially decreased. The Water Blade’s magic kicked in, adding extra damage to her attacks.
+
+The lava rivers on the ground presented another hazard. Celica had to jump, duck, dodge and vector precisely to ensure she didn't take any damage as the waves of lava surged forward in irregular patterns.
+
+One false step and she’d be overwhelmed by the heat. Luckily, she was moving in a perfect rhythm, her movements swift and fluid. She saw her opening—Cerberus’s middle head was preparing for another fire blast.
+
+Thrust.
+
+Celica lunged forward, her blade cutting deep into the monster’s neck. She could feel the heat, but the blade’s elemental advantage made each strike more potent than before. The first head of Cerberus reared back, shaking with a cry of pain, and Celica pressed the advantage, following up with a well-timed Slash to the beast’s left flank.
+
+The second head howled, flames pouring out in an erratic burst, but Celica’s Parry met the attack head-on, redirecting the fire with a perfect block.
+
+But, the beast wasn’t done yet. As the third head reared up, its maw opened wide, and it began charging up a concentrated fireball, larger and more intense than anything Celica had seen before.
+
+Celica didn’t hesitate. She saw her chance and knew she had to end this now. The time was ticking.
+
+With a quick adjustment in stance, she launched herself forward, using her vectoring to close the distance between them in an instant. The massive fireball shot toward her, but Celica was fast, dodging to the side as she slashed through Cerberus’s final head.
+
+A flood of water magic infused into her strike, the Water Blade cutting through the creature like a hot knife through butter.
+
+She used her bread and butter full dps animation cancel combo, coupled with her much stronger weapon, the Cerberus collapsed in a heap, its multiple heads twitching, the fire in its eyes flickering out.
+
+Celica stood over the defeated beast, her chest rising and falling with controlled breaths. She wiped the sweat from her brow, the volcanic heat not bothering her anymore. Celica smirked, adrenaline still coursing through her veins.
+
+She took a deep breath, before the familiar chime of the system notification echoed in her ears.
+
+[You have defeated the Third Boss: Cerberus.]
+
+[Time Remaining: 26 minutes 05 seconds]
+
+[Your weapon has been upgraded.]
+
+***
+
++3 Lake Shortsword [Rare]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +21,000
+
+Defensive: +1800
+
+Physical Attack: +900 (800~1000)
+
+HP: +225
+
+Fixed Effect: None
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined shortsword. After experiencing changes, perhaps the dagger's latent potential has begun to awaken.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+Her eyes flicked to the weapon in her hands, the +3 Lake Shortsword now naturally shimmered with a faint blue glow, the once murky surface now extremely defined. Celica’s lips curved into a smile.
+
+[Since you have defeated the Third Boss: the Fourth Boss has spawned.]
+
+The elemental advantages were on her side, and as the arena stayed the same, the next boss would be a test of precision, timing, and crucially, elemental mastery. With her heart pounding in anticipation, she stepped forward, her resolve unwavering.
+
+The ground trembled again, but this time the shift was accompanied by a distant roar—low, guttural, and filled with an ancient fury. A shadow loomed overhead, and before Celica could react, a massive form descended into the arena.
+
+It was a terrifying sight: a creature of pure fire and molten rock. its scales shimmered like burning embers, and each flap of its enormous wings sent gusts of scorching heat into the air.
+
+Its eyes, burning like molten lava, locked onto Celica with an almost predatory gaze. She felt the heat rise immediately, but her focus remained unwavering.
+
+[Lava Drake (Boss) — Lv 48]
+
+The fourth boss wasted no time. It took to the air with a powerful beat of its wings, its body hovering above Celica as it unleashed a stream of flame from its mouth. The fire rained down like a waterfall of lava, forcing Celica to dodge swiftly.
+
+She used her Water Strike to buy herself some time, before vectoring away to narrowly avoid the firestorm, landing gracefully just a few paces away. The Lava Drake, sensing her agility, performed an aerial loop, keeping just out of her range, before sending another barrage of fireballs her way.
+
+Celica’s instincts kicked in.
+
+She immediately began vectoring, moving in precise patterns to avoid the fireballs, her body flowing like water, slipping through the fiery onslaught. She’d been in countless battles, and the rhythm of dodging, parrying, and attacking came to her as naturally as breathing.
+
+The battle was a dance. The Lava Drake used its flight to stay mobile, constantly hovering out of reach. The fiery creature would periodically breathe fire and swoop low with its claws outstretched.
+
+She watched closely, waiting for an opening. Every few seconds, the boss would create a new hazard in the form of fiery plumes, explosions of molten lava erupting from the ground beneath her feet.
+
+As another rush of flames arced toward her, Celica rolled, timing her Parry to deflect the incoming fire balls. The Lava Drake tried to keep its barrage going, but Celica was already on the move.
+
+With a sharp turn, she sprinted to the side, narrowly avoiding the firestorm.
+
+[Water Strike]
+
+A wave of water exploded from her blade, rushing forward like a tsunami to meet the Drake head-on. It slammed into the Drake head-on with a force that made it stumble mid-air, giving Celica the chance she needed.
+
+Thrust.
+
+Celica launched herself forward, her footwork precise and smooth as she closed the distance. The +3 Lake Shortsword sank deep into the Drake’s underbelly, water magic surging through it, counteracting the fire coursing through its veins.
+
+The Lava Drake roared in fury, but Celica didn’t relent. She executed a flawless animation cancel Slash combo, her blade glowing with the energy of the water element.
+
+With a powerful flap of its wings, the boss shot into the air, circling above the arena. Then, it launched fireballs relentlessly from above.
+
+Parry.
+
+Another perfect deflection came through as Celica activated her main poke skill.
+
+[Water Strike]
+
+Her next attack came with lightning speed, launching herself into the air to meet the beast as it dove toward her. As Celica’s blade cut through the air, she felt her resolve harden. Her +3 Lake Shortsword was no longer a mediocre weapon.
+
+The boss tried to retaliate, but Celica’s next series of strikes overwhelmed it. Slash, Thrust and several attacks weaved in between, all landed in rapid succession, each hit driving the beast's HP lower and lower.
+
+As the Drake wheezed its final breath, it attempted one last desperate lunge. Celica, however, was anticipating this, her timing flawless. A final strike. The Water Blade pierced the creature's heart, flooding it with water energy, and the Lava Drake collapsed into a heap of charred stone and water.
+
+With a breath of relief, Celica watched the monster’s body slowly dissipate into the air. Her pulse slowed, and system notifications rang in her ears.
+
+[You have defeated the Fourth Boss: Lava Drake.]
+
+[Time Remaining: 23 minutes 49 seconds]
+
+[Your weapon has been upgraded.]
+
+***
+
++4 River Shortsword [Super Rare]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+Required Level: 45
+
+Stats Given:
+
+Combat: +31,500
+
+Defensive: +1800
+
+Physical Attack: +1350 (1250~1450)
+
+HP: +225
+
+Fixed Effect: None
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined shortsword. After experiencing changes, perhaps the dagger's latent potential has begun to awaken.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+Celica smiled as she eyed the new but familiar notifications on her screen.
+
+[Due to the next weapon change being a significant improvement (Super Rare → Unique), the subsequent bosses will be substantially different, both in difficulty and nature.]
+
+[Please wait as changes to the arena are being made. Your time will be paused during this period.]

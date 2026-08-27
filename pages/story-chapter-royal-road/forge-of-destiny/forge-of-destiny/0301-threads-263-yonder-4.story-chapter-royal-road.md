@@ -1,0 +1,121 @@
+---
+id: 02aca6f5-db2b-55ed-a5cf-800209fb69e4
+page-type-slug: story-chapter-royal-road
+title: "Threads 263-Yonder 4"
+slug: 0301-threads-263-yonder-4
+partOf: forge-of-destiny
+position: 301
+ownLength: 2157
+unit: words
+publishedAt: 2022-11-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1043234/threads-263-yonder-4"
+royalRoadId: "1043234"
+---
+
+The young beast regarded her in shock, the old one with consideration. “Be wary,” Changin warned. “Their power crumbles artifice and severs law. They devour the breath and souls of the living.”
+
+“If their appetites are like others of that kind, I may appear most appetizing,” Gan Guangli thought aloud as the beasts fled for their manor-dam.
+
+“I do not think we are dealing with typical spirits of darkness and want,” Ling Qi said. “It flies. You’ll be at a disadvantage.”
+
+“True, and while I trust Miss Ling to bring it down, I have my counters. If Miss Ling prefers to hold its attention for a time, I may chain it to the earth and perhaps capture it.”
+
+Ling Qi eyed the glint in the sky that had taken off from the top of the distant glacier. They had a minute or two at most before it arrived, especially if they were to avoid damaging the dam. “If the beast was right, trying to hold it might be very difficult. Are you certain about using yourself as bait?”
+
+“Miss Ling, I am aware that my cultivation has fallen behind. That is why I suggested this plan. A predator is more likely to strike for a meal it believes it can swallow. You’ve decided then?”
+
+“I don’t think a capture now is worth risking the collateral damage to our new neighbors, and… by these beasts' own words, there is an infestation.”
+
+“I have never heard of a single creature called an infestation before,” Gan Guangli agreed.
+
+Ling Qi gave a terse nod, and then they were on the move, her flying, and Gan Guangli following with a powerful leap that carried him across the lake. He began to leak his qi into the air, trailing streamers of light from the joints in his armor. Ling Qi did the opposite, flitting into the shadow of the canopy of trees on the lake’s other side.
+
+Above, the gleaming light took a lazy turn, following their trail as Gan Guangli ran and ran.
+
+In the shadows of the branches, Ling Qi dissolved herself entirely. Compared to her earliest attempts at this, it was now as easy as breathing. Formless as a spring breeze, weightless as a shadow, in that moment, she ceased to be, and yet, she could still see and hear.
+
+Gan Guangli landed atop a white and chalky structure that rose high among the trees, a boulder or perhaps, an ancient bone. It crunched under his boots, raining pebbles, and Gan Guangli staggered, a wheeze of breath escaping his lips. Even his qi fluctuated wildly.
+
+For just a moment, Ling Qi actually worried, before she realized it was a ruse in the same vein as what he had done against Lu Feng.
+
+“A wise soldier knows deception is an invaluable tool. An enemy who sees what they wish to see rather than what is has already defeated themselves.”
+
+The voice in her mind was not Sixiang’s, but a deep, smooth masculine baritone.
+
+“Yeah, yeah, keep telling yourself it’s all about practicality, you solar tightwad,” Sixiang grumbled, even as colors spun themselves into bloodied wounds and skin flushed with exertion across Gan Guangli’s body. “You have as much fun with this as we do.”
+
+“A well considered stratagem is hardly a lunatic whim.” This voice could only be that of Gan Guangli’s bound spirit. “But then again, you are remarkably restrained.”
+
+<Ling Qi, you’ve ruined me. I’m getting compliments from a solar!> Sixiang complained to her privately.
+
+If Ling Qi had lips, she would have smiled, but she left the good-natured bickering of spirits for what it was. The enemy was approaching. It was descending, having begun to dive as Gan Guangli pretended to catch his breath. It was a good ruse.
+
+She got her first look at the creature then. It had the vague silhouette of an eagle or a condor, but only in vague terms. It was like something Biyu might squash together from a handful of clay and present as a “bird.” It had no feathers, only slick, transparent flesh that had the texture of a maggot. Its wings were thus nothing more than misshapen membranes, shot through with twitching, pulsing veins of wormy color. Shapes that might be bones or organs squirmed within its body, distorted by the light passing through, but its transparent flesh darkened to a deep gray where taloned feet emerged, more like sickle blades of bone rather than something that could be walked on. Worst was the beast’s "head,” which was nothing more than a wedge-like lump lined with four pairs of beady eyes.
+
+As the spirit dove, that head split apart into four sections lined by crystalline teeth, exposing a black gullet full of glimmering rainbow color that seemed to have little to do with its physical form. The sound that erupted from that well of nauseating color could not be called a roar or a screech, but only a horrible, indefinable noise so high as to be at the very edge of hearing. Ling Qi saw the trees themselves bending as if to sway away from it.
+
+Gan Guangli turned atop the stone, already crossing his arms in front of him.
+
+Chaotic light erupted from the beast’s open maw.
+
+It scoured the air, a line of eye-searing colors, and yet it did not tear up the earth or kick up a storm of winds. Instead, in its wake, brush and soil became a drifting dust that glimmered in the same sickening color, and trees disintegrated, branches withering and needles also crumbling to the same choking gray dust.
+
+She saw the light engulf Gan Guangli, and she felt Sixiang wince as their woven illusion came apart. She trusted Gan Guangli to weather it though. The beast hung in midair, its membranous wings pushing down to maintain its position, mouth opened and reared back.
+
+Ling Qi materialized above the beast, and the gale of her raised voice struck it like a hammer. The moist air froze in a spontaneous sheet of sleet. But it didn’t fully reach the creature. She could feel her qi unraveling around the creature, weakening the effect. This strange defense did not affect the mist billowing out among the trees.
+
+Still, the beast was not helpless. Even with parts of its ghastly flesh blackening with frostbite, it spun on her in defiance of its form, turning in the air as easily as she did, and Ling Qi felt her eyes sting as it closed the distance without moving, its four part jaws trying to snap shut around her head.
+
+Its mouth closed on her, but it bit through nothing more than air and motes of shadow, the image of a future that wasn’t and the soft laugh of escaping air. Ling Qi sang wordless in response as she faded back into the mist, the cold and the shadows settling like a heavy cloak as she contracted the world down to only herself and her foe, a cage and a trap.
+
+This was her Mist, a little world, an ugly world, an empty world. It was the elegy of a lost child where there were no friends, only foes and uncaring shadows. Forsaken, as Huisheng had said. It was sad that this mindless brute could not appreciate it much, Ling Qi thought as another horrific noise erupted from the spirit, scattering the mist in a small circle. The beast reared back and violently vomited another disintegrating ray of light.
+
+Ling Qi raised her hand, the little bells and fine chains wrapped around her wrist tinkling softly as she activated the talisman and swiped away the nauseous light like a painter contemptuous of the canvas before them. Unusually though, she felt the talisman grow warm, and her eyes flicked toward it, seeing tarnish creep over the silver.
+
+Once would be enough, she hoped.
+
+Because although this murderous brute could not feel the depths of isolation, it was still blinded to all but her. And its blindness did not stop a stone the size of a wagon burning white and gold with sunfire from smashing it into the ground like a meteor hammer.
+
+Gan Guangli stood like a lighthouse in her mist, three meters tall and shrouded in golden light. His armor was pitted, much of his forearms bare and the flesh red and scoured. There were splotches of blood here and there where that light had scraped away skin and flesh. He wore a grimace, but Ling Qi thought that the six golden hands flaring behind his back, hefting similar chunks of stone beginning to glow with his qi, were the more memorable part of the image.
+
+She sang a song of marching glaciers as the beast fell under the burning stone, and the gale force of the wind sent it hurtling down all the harder.
+
+The beast struck the ground with a boom, splintering the earth and felling trees, but it was not enough. The rock crumbled, disintegrating into a cloud of sickening dust, and its glistening form shot up. Ling Qi saw in the blur of motion the beast inhaling, its chest and the strange organs within inflating, and the dust drawn in. She saw flesh knit and what passed for qi ignite, reserves refilling as it devoured a portion of what it had destroyed.
+
+It spun in midair, weaving past one stone and then a second. It dropped straight down to avoid the third, but then Ling Qi was there behind it, carried by the breeze.
+
+Her fingers burned as if she had dipped them into molten metal as she laid her fingertips on the beast’s back and sang a note of silence with the full weight of her qi behind it. The distorted air ceased around the beast, its crumbling aura halted as heat, energy, and everything else was ripped from the area, and the beast spasmed as its gummy flesh froze and shattered, revealing beating organs covered in frost and splitting from the cold.
+
+But it didn’t die.
+
+A scythe-like talon lashed out as the beast’s limbs abruptly reversed, flesh tearing and squirming as its back became a front, and Ling Qi barely had the time to throw herself out of the way as a line of scouring, unmaking light caught her across the flank, shearing unnervingly past the images that fled in every other direction.
+
+Ling Qi hissed in pain, but it was nothing compared to the wail that went up in her head, mindless and bestial as the hems of her dress suddenly went wild, snapping and flapping in winds that weren’t there. Ling Qi looked down in alarm, seeing the blackened threads curling back from the cut in her gown, wriggling threads trying and failing to knit back together.
+
+And then fists came down and punched the beast back to the ground in a blur of gold. As it tried to rise, a palm composed of liquid golden sunlight smashed it flat.
+
+And still, something tried to rise from the blackened handprint left behind, sucking in the kicked up dust like a vortex.
+
+For the second time that day, Ling Qi sang a note of absolute silence, and only then did the movement stop.
+
+“I feel for our neighbors,” Ling Qi said, alighting on a fallen tree. As the mist faded away, she saw that this section of the woods was devastated by even the brief combat. Wherever the beast’s light had touched, the earth was dead. She fingered the cut in her gown and let out a breath of relief; it was agonizingly slow, but the threads were restoring themselves, the ruined silk flaking away as new threads grew.
+
+Gan Guangli grimaced, rubbing his forearms, and she saw the crumbled metal of his armor doing the same. “I suspect without its high pedigree, we might both be without our talismans.”
+
+Ling Qi nodded in agreement. Dangerous, these beasts, even one so mindless. She peered suspiciously into the burnt and now frozen brush. Sure enough, the beast was disintegrating into a grayish powder before her eyes.
+
+“We may need to inform someone I know of this. If these beasts are a related species…”
+
+“I am informed.”
+
+Ling Qi stiffened, her head whipping around at the sudden voice, recognizing it as Shu Yue’s, but there was no one there.
+
+“Well, I suppose we’ll just have to assume it is something we can handle if no one says otherwise,” she grumbled pointedly.
+
+Naturally, there was no reply to her words.
+
+Gan Guangli chuckled. “Now, now, Miss Ling, there’s no use in that. Shall we dispose of this and let our neighbors know the danger has passed?”
+
+“I suppose.” Ling Qi sighed, considering her burnt fingertips. The skin was red with angry, little blisters forming here and there. “But I am not putting that dust in my storage ring.”
+
+Gan Guangli grimaced. “Probably for the best. Give me a moment to hollow out a stone.”

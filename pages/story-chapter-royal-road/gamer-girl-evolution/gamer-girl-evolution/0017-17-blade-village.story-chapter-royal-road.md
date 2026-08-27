@@ -1,0 +1,191 @@
+---
+id: 36572f64-2747-5148-bcb0-76da84e79b78
+page-type-slug: story-chapter-royal-road
+title: "17 - Blade Village "
+slug: 0017-17-blade-village
+partOf: gamer-girl-evolution
+position: 17
+ownLength: 2230
+unit: words
+ownProgress: 2230
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2693981/17-blade-village"
+royalRoadId: "2693981"
+markedReadAt: "2026-06-29T20:06:07.852Z"
+---
+
+Celica’s gaze lingered on the strange icon on her map. There shouldn’t be any outposts here... not on this floor. That area was supposed to be a scattered ruins. She tapped the map to zoom in on the location, but the details remained scarce. No quest markers or NPC indicators, just that odd icon.
+
+She considered her options for a moment, then ultimately dismissed the idea of going there right now. As much as her curiosity tugged at her, she knew better than to chase distractions this early on.
+
+Her priorities were clear, she needed to focus on levelling up everything she could. There would be plenty of time for curiosity later, after she had helped Ingrid, reconnected with her friends, and made sure her character was primed for more difficult challenges.
+
+"For now," she muttered to herself, "I’ll stick to what I know works." Her eyes were locked onto a specific village icon as she darted away from the boss' spawn area.
+
+Celica’s boots squelched in the soft, damp earth as she made her way through the misty marshlands, the steady rhythm of her steps interrupted only by the occasional croak of a distant creature.
+
+Blade Village came into view after a few minutes, the outline of quaint cottages emerging from the mist. It wasn’t large, but it had a certain charm to it. The small village was nestled between two clusters of dense trees, with houses built from sturdy timber, their chimneys puffing out little curls of smoke that drifted upward lazily.
+
+The village felt alive, despite its isolation. NPCs moved in and out of their homes, carrying baskets of herbs or logs of wood, some chatting with each other, others pausing to wave as Celica walked past. The sound of metal striking metal echoed through the air, growing louder as she approached the heart of the village, the smithing area.
+
+At the village’s centre stood a large forge, surrounded by piles of stone and metal tools, with a small building beside it that appeared to house various materials. The village's best blacksmith was hard at work, his broad, muscular back hunched over an anvil as he swung his hammer down, shaping a piece of steel with practiced precision.
+
+Sparks flew into the air, scattering like tiny stars before dissipating in the fog. Celica approached, her eyes narrowing as she took in the scene.
+
+"Ah, you there!" the blacksmith called out, not even looking up from his work. "I’ve not seen you wanderin' around here before. You hoping to make yourself useful or just gawking at the fire?"
+
+Celica stepped forward. “Actually, I was wondering if there was any work that needs doing.”
+
+The blacksmith finally looked up, his eyes squinting as he sized her up. “Ain’t often we get outsiders looking to help. You got any skills with a hammer?”
+
+Celica smiled slightly, remembering the hours she spent grinding her blacksmithing skill. “I can handle myself.”
+
+The blacksmith grunted before he nodded. “Alright, then. I’ve got a task for you. You’re gonna need more than just skill with a hammer, though. You’ll need skill with a sword, too.”
+
+He stood up straight, wiping his hands on a dirty apron before pointing toward the horizon. “Out there, beyond the marsh, lies the Chief Ogre. Big, strong green fella. Carries a warhammer that’s unlike any other. I need that hammer.”
+
+Celica raised an eyebrow. “The Chief Ogre? That’s... a lot to ask.”
+
+The blacksmith chuckled darkly. “Aye, but I can see it in your eye. You want to become a blacksmith don't you? See, I need that Chief’s Warhammer. It’s the key to making some real weapons, the kind that can cut through the toughest armour. A hammer like that will open a lot of doors if you know what I mean. For both of us.”
+
+“Where can I find the Chief Ogre?” Celica said slowly.
+
+The blacksmith nodded, his face growing serious. “First, you’ll need to take down the smaller ogres around the marsh. There are enough of them to give you practice, and when you’ve killed about a hundred of ‘em, the Chief Ogre will show up. He’s not gonna be easy, but you’ve got the look of someone who's strong.”
+
+Celica paused. “A hundred?”
+
+“You’re gonna need the experience. Trust me,” the blacksmith said. “The marsh is full of those ogres. I’ve marked the rough areas where they appear on your map. But the Chief, well, he’s a bit more... elusive. You’ll find him once you’ve thinned out the herd.”
+
+Quest Received: The Chief’s Warhammer
+
+Quest Type: Sub-Quest
+
+Objective:
+
+Rewards:
+
+Becoming a blacksmith early on was an immense advantage in the game. The ability to craft weapons and armour would mean she could keep herself well-equipped and make the most out of the crafting materials she got from bosses and mobs. But to do that, she’d need to complete this quest.
+
+Celica smiled. "Alright, I'll bring back the Chief's Warhammer."
+
+As she stepped outside the smithing area, the marshlands expanded out before her. She stretched, already planning her route. The sooner she started, the sooner she could level up and get the blacksmith profession. And so, she took off, aiming for the areas the blacksmith had marked on the map.
+
+Celica moved swiftly through the marshlands, her glitchy steps sure and light despite the thick and soggy terrain beneath her feet. She could already hear the unmistakable grunting and heavy footsteps in the distance.
+
+[Ogre – Lv. 20]
+
+[Ogre – Lv. 22]
+
+[Ogre – Lv. 19]
+
+The area was full of ogres that moved sluggishly through the marsh, seemingly unaware of their impending doom. Celica grinned to herself as she readied her blade. With a surge of adrenaline, Celica dashed forward, her movements fluid and precise.
+
+Slash!
+
+The ogre grunted and swung its club at her, but Celica was already a step ahead. A quick roll to the side, and she immediately followed up with another strike, using the animation-cancelling she'd perfected. Her blade cut through the ogre's thick skin like butter. Another precise thrust and—thunk—the ogre crumpled to the ground in a heap.
+
+[+170 EXP]
+
+The next ogre was already approaching, and she moved towards it with the same unrelenting speed. It barely had time to swing its weapon before her thrust impaled its chest, followed by another slash to finish it off.
+
+[+195 EXP]
+
+It was the sweet rhythm of grinding—the constant, repetitive motion that allowed her to test her limits and refine her skills. The familiar sound of her skills ranking up resonated in her ears.
+
+[Thrust skill has ranked up.]
+
+[Slash skill has ranked up.]
+
+[Thrust skill has ranked up.]
+
+[Slash skill has ranked up.]
+
+“Life was easier when common skills were the only skills we had to grind,” Celica said to herself as she reminisced.
+
+She never gave the ogres a chance to retaliate. As she continued her rampage through the swamp, the notifications grew more frequent.
+
+[LEVEL UP!]
+
+Her character level was now 21, and her stat points were ready to be allocated. She paused for just a moment in the middle of combat, quickly bringing up her character menu and adding the points.
+
+The grind was addictive, but Celica didn’t lose focus. It wasn’t about the levels; it was about efficiency. She had to make sure she made it to the mutant boss on spawn before it grew out of hand. The notification sound was a constant in her ears, a sign that she was on the right track.
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+[LEVEL UP!]
+
+The rush was addictive, but she kept her focus on the task ahead.
+
+Then, out of the fog, a much larger figure appeared. It stood nearly twice the size of the regular ogres, with a huge crystalline hammer slung over its shoulder. Celica’s eyes narrowed as she assessed the new threat.
+
+[Chief Ogre - Lv. 23]
+
+The Chief Ogre swung its enormous hammer in a wide arc, aiming to crush her with its sheer power. But Celica was fast, much faster than the Chief Ogre had accounted for. She rolled under the blow, coming up behind the ogre in a seamless motion. Her sword danced through the air as she made contact with its back.
+
+Thrust!
+
+The ogre howled in pain, but Celica was far from finished. Celica’s second strike followed immediately after, her slash finding its mark as she dodged another incoming attack. She kept her cool, striking with deadly accuracy every time the ogre’s massive hammer came down.
+
+After a few more precise hits, the Chief Ogre staggered back, clearly weakened. Celica didn’t give it a chance to recover. Her sword cut through the air one last time, delivering the killing blow.
+
+[LEVEL UP!]
+
+The warhammer dropped to the ground with a heavy thud, and Celica’s heart raced with satisfaction. She approached the fallen beast and quickly retrieved the Chief’s Warhammer, feeling the weight of the powerful item in her inventory.
+
+Celica stood there for a moment, letting the thrill of the battle subside. Her virtual muscles burned from the effort, but there was satisfaction in completing the sub-quest. She couldn't revel in the moment too long. It was already time to return to Blade Village. She wiped a bit of sweat from her brow and smiled to herself.
+
+She made her way back through the mist-covered marshland, the distant silhouette of Blade Village growing larger with each step. The thought of forging legendary items in the future made her heart race. The grind was paying off, and it felt damn good.
+
+As she entered the blacksmith’s forge, the smell of hot iron and coal greeted her. A burly man with a grizzled beard and weathered skin, looked up from his work, a smirk forming on his face when he saw the warhammer in her hands.
+
+“Well, well,” he grunted, his voice low and gravelly. “I see you’ve been busy, girl. Thought I’d be waiting for this for ages.”
+
+Celica smiled. “The Chief Ogre wasn’t as strong as I expected.”
+
+The blacksmith grunted again, nodding in approval. He took the massive warhammer from her hands, inspecting it closely before placing it on his workbench. “This is exactly what I needed. You’ve done well, kid. Now, let me tell you a bit about the craft.”
+
+Then, the blacksmith began to explain the intricate details of forging—how materials interacted with one another, the importance of tempering and heat, and how a true blacksmith could craft weapons that could rival even the most powerful of monsters. This would've been useful if Celica was a new player. Unfortunately, she wasn't.
+
+“You’ve got the spirit of a blacksmith, kid,” he said, after a lengthy talk. “You’ll do fine.”
+
+Finally, with a solemn nod, the blacksmith handed Celica a small, worn-out plaque with 9 grey stars on it. “Here, with this you'll be able to start forging. Remember, you only become a real blacksmith when you get a star, though.”
+
+[You have received the Blacksmith Profession.]
+
+[You have received 200 Reputation in Blade Village.]
+
+She could now forge items, upgrade weapons, and even attempt to craft accessories. From this point onwards, the possibilities were endless.
+
+But when Celica looked at her menu, her stomach dropped. The NPC's unskippable dialogue had taken much longer than she anticipated it would.
+
+Damn it.
+
+“Thank you for the lesson,” Celica said, forcing a smile. The blacksmith nodded, his face unreadable, but his eyes were gleaming with approval.
+
+Celica turned and ran out of the forge. Her pace quickened as she started toward the edge of the village. It had been so long since she’d done the quest; she thought the dialogue would have been shorter. She was wrong.
+
+Frustration gnawed at her, but she pushed it aside. There was no time to be annoyed. Her feet pounded against the soft marshland ground as she raced forwards. Celica’s heart hammered in her chest as she approached the spawn point, the sound of combat echoing across the misty marsh.
+
+[Cyclops (Mutant) - Lv. 17]
+
+Her breath caught in her throat when she saw it. Not because the boss had already spawned, but rather, because the boss wasn't alone. Instead there were three players engaging in a mortal struggle with it.
+
+Kellen, Talia and Rhys.
+
+The Cyclops was a massive beast, its glowing single eye fixated on the group as it swung its enormous club with terrifying force. The ground shook with each strike, sending nearby trees splintering and mud flying.
+
+Talia was already injured, her health bar barely a sliver, and Rhys looked as though he had been knocked back several times. He was struggling to regain his footing. Kellen, normally the most confident of the three, was visibly panicked. His attacks were weak and visibly ineffective against the beast's thick hide.
+
+Celica froze in place, watching from afar. Her fingers twitched, and a quiet voice in the back of her mind urged her to intervene.
+
+But if I step in… they’ll know who I am.
+
+She glanced at her only friends from the first floor. While they had parted on friendly terms, Celica had kept her identity as Snapped Sword a secret from them. To help now would expose everything.
+
+Celica's gaze shifted to the Cyclops, its enormous club was raised high above its head, ready to slam down on Kellen.
+
+[You have equipped The Phantom's Mask.]
+
+[You have equipped The Phantom's Blade.]

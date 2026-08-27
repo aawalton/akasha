@@ -1,0 +1,131 @@
+---
+id: e196ff19-c1e3-58a8-8c3b-779c9cea8f91
+page-type-slug: story-chapter-royal-road
+title: "Threads 187-Return 6"
+slug: 0219-threads-187-return-6
+partOf: forge-of-destiny
+position: 219
+ownLength: 1875
+unit: words
+publishedAt: 2022-02-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/849158/threads-187-return-6"
+royalRoadId: "849158"
+---
+
+“Big Sister is worried about something,” Gui accused. They stood on the much abused hilltop where their gardening efforts had taken place. The earth was dark and rich, tilled and fertilized with the shredded remains of their previous efforts.
+
+“It’s nothing serious, Zhengui,” Ling Qi said. “Just confusing human things.”
+
+“Yep, just some social business,” Sixiang added. Their voice came from the tiny projection seated on Ling Qi’s shoulder. “You didn’t miss anything important, big guy.”
+
+“Are you certain? I, Zhen, did not intend to sleep for so long. It has been weeks, yes?”
+
+“It has been a couple weeks, but everyone is just catching their balance, and that goes for you two in catching up on your sleep,” Ling Qi chided. “But you’re awake now, and we still have plenty of time to take another try at this garden.”
+
+“Hanyi is still up on the mountain though,” Gui protested. “Is it really okay for Big Sister to be here?”
+
+Ling Qi thought of her other spirit. She had checked in on her a few times, but…
+
+“Hanyi’s figuring some stuff out too,” Sixiang said cheerfully. “She doesn’t need us poking our noses in right now. Besides, don’t you wanna have something nice to show her when she finishes composing up there?”
+
+Ling Qi let out a breath; Sixiang had told her the same thing. Paradoxically, the right thing to do here was to not keep her junior sister closer. At least right now.
+
+“Mm, Gui will believe the Sixiang. Did Big Sis collect the boulders?”
+
+“I did.” Ling Qi patted her storage ring. “I’ll let you decide on the first arrangement. I have some new stanzas I want to arrange. You’ll give me your opinion, right?”
+
+Three voices rose in the affirmative. Ling Qi was looking forward to this.
+
+As they worked over the rest of the afternoon and evening, the landscape began to change shape, and from atop Zhengui’s back, she cultivated and played her songs, observing how the flows of mist and cold interacted with Zhengui’s fire and wood qi.
+
+The Unstoppable Glacier’s March was an art that she had received in her Cai-gifted library. An art of powerful movement and implacable advance, it was perhaps not the best suited to her. But as she wove a melody together with the rhythm of Zhengui’s stamping feet to raise the heated waters that pooled beneath the hill she pondered that.
+
+Was implacability really unlike her? She was not like Cai Renxiang nor like Meizhen, who better embodied those words in her mind, yet all the same…
+
+In the cold of a city street, she clung to life.
+
+In a terrible blizzard of her mentor’s making, she sang.
+
+A knife dug into her neck, and she grasped the wrist of its wielder.
+
+In the caldera of a volcano, she faced a superior foe, and ever so briefly held fast
+
+A glacier moved ever forward. It carved rivers and valleys, shaping the land under it over countless years. Yet, in the moment, it was still to human eyes. She recalled the great glacier the expedition group had passed over, stretching out to the end of her sight, serene and unbreaking.
+
+Stubborn. She could at least call herself that. Was that not something she shared with her little brother? Although she no longer used the Thousand Rings Art, she could still weather many blows. The art she had replaced it with, the Starless Night’s Reflection, didn’t feel quite right either. She understood the value of silence—without it, any music would just be a meaningless stream of unbroken noise—but she wasn’t sure she cared to make it core to herself.
+
+Perhaps there was something else there in the spaces between that could be made into hers.
+
+That was a thought for the future though. Often, she had thought about how her style and that of her brother’s were in conflict, but was defense not a place where it converged? Endurance and regeneration. Resilience and draining. Any wound he suffered, he recovered swiftly, and any qi she spent, she stole back from her foes.
+
+Green shoots rose from churned black dirt, and roots curled around carefully placed stone. Shoots became saplings and then trees, their fragrant needles flowering across the sky. In the newly made darkness, mist hung low to the ground, and from boiling waters, steam rose into the evening sky. Pale flowers bloomed in the dark, and soft grass spread.
+
+The other art was the Winter Hearth’s Resounding. This art, too, she had only been practicing for a few months, and her thoughts lingered on it as she wove the walking path through the garden, singing softly in duet with Sixiang to transform the mist beyond the paths into veils of glittering silver where those unwelcome would wander lost and to make that mist which clung to the glassy stone cool and welcoming.
+
+The hearth was a song of building a home, of placing up walls to keep out the cold and keep in the warm. Its weaves defended her works and made that which she crafted with song and voice harder to tear down. It gave friends a point of warmth to return to and recover from the cold night outside.
+
+She was not a builder, but Zhengui was. Every day, his control of wood and plants allowed him to craft more elaborate structures from root and branch, and the fire of the earth came at his call. It was not the same as her arts, but it was complementary.
+
+And that was more important than simply trying to ape her little brother’s themes, even when they did not suit her.
+
+“No weird storms this time!” Gui chirped. “I think this is a good start!”
+
+"You see? I, Zhen, did not make anything explode," Zhen said smugly.
+
+“Yeah, I agree,” Ling Qi said absently, rubbing her hand against his shell. “Let’s take a break while the snowfall settles.”
+
+Letting out a sigh of relaxation, Ling Qi sat down in the soft grass and leaned back against Zhengui’s side. Just beyond where she sat, the soft earth crumbled away into a deep pool of opaque water that hissed and bubbled with boiling heat, sending streamers of steam up into the darkening evening sky.
+
+“Hm, you might want some stones poking out of the pool. It’d let you have something growing there for a few spots of color,” Sixiang advised. They sat on her shoulder projecting a fairy-sized body garbed in robes the color of the evening sky.
+
+“The fire qi in the water means only a few of the plants will work. What do you think, Zhengui?”
+
+“Red and yellow and orange,” Zhen hissed. “Those should be the colors of the center like a merry fire burning bright. I, Zhen, do not know what plants will achieve this.”
+
+“Gui agrees with Zhen for once.  In the trees and the paths, pale and soft colors are okay, but here in the middle, it should be bright.”
+
+“It might not be a bad idea to crack open a few other vents throughout,”Sixiang mused. “Little springs of warmth and fire in the dark. I bet we can do some interesting stuff with the weird air from underground if you let me blend in some dream qi too.”
+
+“Maybe the Ironsign Vines for the pond stones,” Ling Qi offered. “There’s a lot of metal in the waters here so that should give the blooms a nice dark orange color.”
+
+She cast a glance at the young trees that sprouted up around them, picturing their trunks wrapped in the faintly gleaming vines. If they planted flowers in the clear space around the pond properly, they could probably make something that looked like a flame or a volcanic vent without having to delve too deeply into the earth.
+
+“Has Big Sister’s cultivation been going well?” Gui asked, shifting his head from atop the low flat stone it had been resting on. “Gui thinks he has been doing good with practicing his growing.”
+
+“It is,” Ling Qi replied, patting his shell. She knew he didn’t want to feel like he was slowing her down, but the fact that he felt the need to ask was evidence of a problem. “Zhengui, what were you cultivating while we did this?”
+
+“Smoke and rain,” Zhen hissed. His sinuous body shifted, carrying him out over the steaming waters, black scales skimming the bubbling surface as he luxuriated in the heat. “I, Zhen, do not control the rain, but it comes after the burning anyway. This is the spring. Fire burns away the rotted and the stagnant, ash joins the soil, and the smoke brings the rain.”
+
+“Gui thinks about the stuff we saw in the many cold places,” he answered in a deep rumble. “Gui thinks it is not bad for needle-y trees to sleep in the winter and the cold. This is not stagnation. It is like the tough trees that are scorched on the outside but alive on the inside. Growing new is good, but so is being very tough! Gui appreciates the needle-y trees more now!”
+
+Ling Qi leaned her head back and inhaled, taking in the rich pine scent of the new growth around them and watched their branches sway in the breeze.
+
+“Look at you workaholics. You’re gonna make me feel bad for just playing coordinator here,” Sixiang drawled.
+
+“Not all of us can be lazy,” shei teased. “Zhengui, what did you think of the glacial valley we passed through at the end of our trip north?”
+
+“It was very lonely,” Gui said. “Too cold and frozen to change.”
+
+“Too slow and sleepy. Even Gui and the Sixiang are not so lazy,” Zhen said. “But there were others we passed.”
+
+Smaller glacial paths existed further north, partitioning wide valleys and plugging passes, surrounded by more fertile growth in soil left behind by their passage.
+
+“Mm, Gui liked those ones better. You could see where they changed things, and you could see where they were going to change things.”
+
+“I suppose you’re right,” Ling Qi mused.
+
+Rather than motion and advancement, perhaps simple implacability was the path.
+
+“Big Sister might be thinking too much. Gui is just glad that we can do things like this.”
+
+“I, Zhen, am pleased to work Sister’s melodies into reality,” his other half agreed, curling around her.
+
+Ling Qi rested her hand on his head and looked up at the night sky. Even if that was true, was it good enough?
+
+She was thinking too hard about this. Many would call her willful, stubborn, and implacable. That was the thing she most shared with her little brother and could be the vessel by which she could complement him.
+
+“Gui likes it most when Sister is near but knows that Sister cannot always stay close,” Gui said suddenly. “So it makes Gui happy to make things with Sister.”
+
+Ling Qi hummed to herself. Maybe that in itself was something to look at. The Hearth’s techniques protected her music but not others’ constructs. Could she do something with that? Infuse her little brother’s constructs, his walls and his spikes, with a bit of her song?
+
+Why did it seem she never had time to do everything she wished to do?

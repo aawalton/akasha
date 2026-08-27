@@ -1,0 +1,133 @@
+---
+id: ac2c7648-fa85-55c7-a3ca-9b470aae8c17
+page-type-slug: story-chapter-royal-road
+title: "Threads 242-Fox 4"
+slug: 0280-threads-242-fox-4
+partOf: forge-of-destiny
+position: 280
+ownLength: 2212
+unit: words
+publishedAt: 2022-08-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/982335/threads-242-fox-4"
+royalRoadId: "982335"
+---
+
+“Deny as you want, but tell me, what were you gonna do with these scraps?” asked the fox.
+
+Xisheng cowered behind Su Ling’s legs, their eyes shut. Their form was still in flux, features changing between eye blinks.
+
+“Not a bad meal for a girl at your realm. You thought to get one over me?” The monster pursed wrinkled lips. “But… No, you cut it off. Can’t even use it to nip at my power.”
+
+“I didn’t take her for some shitty reason like that. I took her because they all deserve better than you. They’ve already suffered enough,” Su Ling said flatly.
+
+“You’ve killed it though,” said the fox, cocking her elderly head, birdlike. “Buncha scraps like that, course they’d start falling apart without the only thing that binds them.”
+
+All of them glanced toward Xisheng, who had now hidden their face in Sixiang’s trousers, avoiding the old woman’s gaze. Their qi was disordered and coming apart. A wisp streamed up from a dissolving sleeve.
+
+“Don’t lie to me, girl. Even if you’ve not inherited my hunger, you’ve inherited my hate.” The gentle tap of the cane and the drag of elderly feet were far too loud. The old woman loomed. “Are you even that different? Think I can’t smell the man on you, child? Oh, but he’s a strong one, ain’t he? Won’t even notice if you take a sip. Lucky little kit.”
+
+“It’s not like that! I didn’t—It was just—” Su Ling’s own tails snapped and waved wildly in agitation, and her blade wavered. Only the ghost at her feet stopped her from taking a step back.
+
+“Maybe you didn’t want to eat that, but you wanted to take it from me. It was spite, not some dressed-up virtue that moved your hand.”
+
+Ling Qi hated the verbal assault her friend was under, but if the beast could just remain distracted… Perhaps here, Ling Qi thought. If she could just work her will into the miniscule gaps between the weaves of this illusion world, she could pry open a little crack…
+
+“And you, quit pawing at the shutters, girl.” Ling Qi froze as the old woman’s eyes fell on her. “You’re one of the ones who went and confused my girl. Made her forget how things are when you should damn well know better. You’re half nightkin as it is. So much yin you’re a half step from drinking the life breath of men yourself, and you go and fill my Su Ling’s head with this nonsense.”
+
+“I am not yours,” Su Ling snarled, but the thing that called itself her mother ignored it, staring down Ling Qi.
+
+Ling Qi swallowed, pins and needles on her skin. Some part of her wanted to deflect to try and desperately stall for more time. But could she really beat this creature with words and misdirection? No, obviously not. She felt Sixiang’s arms embrace her without form. “All your power, and it's still not perfect, huh?”
+
+“Hm?” wondered the fox, raising an eyebrow.
+
+“It was like that with Black Skies Yearning too.” Ling Qi met her gaze steadily. “A cruel old monster that preys on the weak. So powerful, but there were holes in her illusion because she lacked understanding too.” She smiled in reminiscence.”You know, I think my teacher’s illusions were the only really perfect ones. She only tripped up because she was fighting herself.”
+
+Su Ling furrowed her brow, looking her way.
+
+The old woman’s cane struck the floor with a boom. “You got a point in that rambling, girl?”
+
+“Yeah. Illusions and art don’t make you elegant or smart. They’re as blunt or graceful as their maker. Su Ling is the righteous one, the one who remembers people’s names and hurts. No one has filled her head with anything. She came on it honestly. Me, I’m only a thief. And you? You’re a poor liar and a brute.”
+
+The thing about cruelty, Ling Qi found, was that it was usually inflicted on someone helpless. Combine this with the pride of a beast who by all indications wished to break rather than kill, and it made her sloppy. Inattentive. More importantly, this was a beast who was not entirely here with connections reaching out into the waking world in three directions.
+
+And if someone was caught in one act, too often, the catcher would be less attentive to other acts.
+
+Subtly gathered, dream qi surged, and Sixiang slammed the full weight of their combined qi into the thinnest, most unstable part of the illusions. The tiniest split appeared in the weave, and Ling Qi grabbed Su Ling’s hand. The world erupted in a kaleidoscope of light as Ling Qi reached for the image of power, far more expansive than her little gate.
+
+Her mind dreamed of golden scales, coiling kilometers into the sky. If she could just get the attention of Xuelong, the Sect Head’s spirit beast… The Sect was his hoard. He’d trivially smack this beast.
+
+The world flew, or they did. Ling Qi could not tell in the chaos. She threw every ounce of her will and her speed into this jump, and Sixiang expended the entirety of their qi in a single, tremendous burst of dissolution to leave the path behind unknowable.
+
+It was not enough.
+
+Death came as fire, purple and smoky. A haze in the shape of a lashing tail, its bone white tip far sharper than mortal steel, sailed straight toward them. Ling Qi felt a lance of terror and pulled deep upon the dark qi that ran through her body, forming the pattern of the Black Mirror technique in the bare instant she had. Her form became the void, a bottomless hole in the world that would absorb any attack.
+
+The void filled with fire and overflowed. Ling Qi heard a crack like breaking porcelain, and her technique shattered.
+
+She hit the ground rolling, bile and blood in her throat. A sharp and pinching pain flared in her chest. Smoke trailed from the burned hem of her dress, and distantly, she heard Sixiang cry out in pain. Her flute materialized in her hands as she rolled to her feet, already beginning the steps to summon mirror copies or speed herself on the wind.
+
+Another tail the size of a tree trunk smashed into her. She felt her right arm snap like so much kindling, and her flute shattered, splinters digging into her lips and neck. She was sent flying into a tree and nearly blacked out, slumping down to its base.
+
+“Ling Qi!” she heard Su Ling scream.
+
+“Such a rude girl. But if that is what you think, shall this one not oblige?” The voice wasn’t raspy and old anymore. Instead, it was deep and thick with menace, only a bare edge of a feminine purr softening the bestial growl.
+
+All Ling Qi could see was a looming shadow of lashing tails and bony limbs. She was thin, the fox, for all her greed. Fur clung tightly to bones, a nightmare of starvation and murder in the half-formed blackness of a wooden clearing they had landed in.
+
+Ling Qi spat a mouthful of blood onto the grass, belying her fear. They had been so close. So close! Just a moment more, and they would have reached the gaze of the Sect’s spirit lord.
+
+A bestial paw rose, obsidian nails gleaming in the mist. It descended on her, and Ling Qi struggled to gather the qi to move.
+
+Distantly, she heard a child's voice cry out. Moons, this whole adventure had been too bold, even for her.
+
+Su Ling appeared before her in a burst of speed, the side of her saber held up like a shield, braced on one arm. That dull gray qi from before snapped and hummed. It filled her meridians and crawled on her skin, and around Su Ling, the stuff of dreams stiffened and froze. In a cloud of dust, Ling Qi saw a string of formations burning black on her blade. She recognized them from that time so long ago when she had seen Su Ling working with Xuan Shi in Suyin’s residence. Time formations, to render an object immovable and invulnerable, briefly outside of causality.
+
+The sound of impact could not be described. It was simply a deafening noise. With all her strength, Ling Qi exhaled her mist from every pore, gathering it in a protective cocoon around them as she had in the caldera.
+
+Su Ling slammed into a stone to her right and bounced, blood erupting from a pair of deep cuts across her body and chest. Her sword had shattered into shards, and she clutched now only the hilt and stump of a blade in her hand.
+
+This almost felt familiar, Ling Qi thought, her head still ringing.
+
+“Stop! Stop! I’ll go back, I promise. Please stop!” Xisheng was running across pale green grass. The dreamscape showed no sign of ruin.
+
+Ling Qi struggled and pushed herself up to her knees.
+
+“Pitiful thing, imagining that you had a choice.” The voice emanated from the shadows near the gigantic fox’s head, and she heard it inhale a torrent of air and qi.
+
+She heard Su Ling scream something unintelligible, a curse or a wordless roar of anger. She felt a stinging pain in the corner of her eyes. Still not enough.
+
+But then, she caught crimson in the corner of her eyes. There was a clearing in the cloudy sky, and in it hung a baleful red sickle of moonlight.
+
+Su Ling staggered to her feet. The child was wailing, their limbs breaking apart into light and mist. Su Ling stumbled forward, half-blind with blood, and stiffened her posture into a high attacking stance. The meridians in her arms writhed visibly under her skin. And at her back, an iron-haired matron whose face was a blood soaked skull sniffed, reached up, and adjusted the angle of Su Ling’s broken blade like an instructor.
+
+The red was blinding. She heard the echoing scream of a fox, more in shock and outrage than hurt. She saw in the fading flash a bead of blood from a thin cut across the fox’s muzzle.
+
+Su Ling collapsed to the ground. The fox’s enraged gaze fell onto her wayward daughter.
+
+And Ling Qi saw a crack in the ground from which black flower petals blow. One of the petals landed on her palm.
+
+There was a time for suspicion and wariness. This was not it.
+
+She seized Su Ling, what was left of the child, and dove down the crevice in a slick of shadow. They impacted the pool with a tremendous splash, scattering droplets of water as black as obsidian. The mud and water was sucking and viscous. It clung to her hands and stuck to her dress despite the gown’s enhancements. It felt freezing cold, even to her.
+
+Ling Qi seized the soaked cloth in her hands and pulled. Su Ling emerged from the water, coughing and spitting. Most of her clothing was dark with blood, even after the dunking, and it was easy to see why. Her arms were practically in shreds, and dark red wounds oozed blood where her meridians had burst under her skin. If they were still mortal, she’d wonder if her friend would ever use her arms again. Despite Su Ling’s wounds, one of her arms was locked in a death grip around the waist of a small, limp frame.
+
+Su Ling’s eyes were shut, and she gasped for breath, giving a violent cough to cast water and blood alike from her lungs. Ling Qi hissed in alarm.
+
+And meanwhile, it was impossible to ignore the shadow behind them. A horned skull tilted, black petals drifting on the water, a fleshless grin and empty sockets, watching.
+
+“Sixiang?” Ling Qi whispered hoarsely, paying the skeleton no attention regardless. “Sixiang!”
+
+Sixiang groaned in her head, sounding like their voice was echoing up from the bottom of a deep tunnel. <Please don’t make me contest something like that again, Ling Qi.>
+
+“You shocked her though, I think,” Ling Qi said, trying to keep calm as she hauled her friend the rest of the way out of the water with her unbroken arm.
+
+<Wish I’d thought to look at her face. Gonna need a name for that one,> Sixiang muttered, and Ling Qi could feel that their consciousness had slipped away for the moment. Thankfully, she could sense the muse was not in any great danger.
+
+The same could not be said for the rest of their wounds. The pain of shattered bone lancing through muscle was a dull roar in the back of her mind, and she tried to ignore the sharp jabbing feelings in her chest each time she breathed in.
+
+She was a cultivator of the third realm, and her friend needed help. She would not let herself be disabled by petty wounds of the flesh. Instead, she focused her breathing into the pattern of the Eight Phase Ceremony, cycling her qi in recovery.
+
+It was fortunate that the fox had not used the more potent energies of the higher realms against them, merely the overwhelming force of an immense well of qi.
+
+By the Moon’s eyes, they had been so, so lucky.

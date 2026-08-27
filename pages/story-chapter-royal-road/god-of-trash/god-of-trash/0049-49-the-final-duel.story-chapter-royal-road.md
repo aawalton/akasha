@@ -1,0 +1,205 @@
+---
+id: e9191da9-8c50-5768-a217-1b9982fe9fd8
+page-type-slug: story-chapter-royal-road
+title: "49. The Final Duel"
+slug: 0049-49-the-final-duel
+partOf: god-of-trash
+position: 49
+ownLength: 4136
+unit: words
+publishedAt: 2025-04-12
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2196787/49-the-final-duel"
+royalRoadId: "2196787"
+---
+
+Walter stepped onto the field. Instantly, Rhys knew he was serious. The aura rippling off of him left no doubt of that. If there had been any true friendship to this ‘friendly duel,’ it was gone now.
+
+Rhys stepped back. He smiled. Good. If he could do nothing else, at least let him draw out the truth to this visit in front of all his other students. If they didn’t know it from his duel with Mae, let them see it from his duel with Walter. There was no intention on the Purple Dawn Academy’s side to be anything but destructive. Not from the beginning until now, was there ever any intent to have a friendly spar.
+
+“Rhys Foundling,” Rhys introduced himself again, clasping his hands.
+
+Walter barely inclined his head. “Walter Tournors.”
+
+“You’ll have to forgive my ignorance, but are you from noble families?” Rhys asked. Now that he’d fired up Walter, what better to do than slow things down and let him stew in his frustration a bit? Walter wanted nothing more than to tear him into pieces. Letting the fight start now would give Walter exactly that release. So he was going to build up as much frustration as he could, and put Walter on the back foot mentally, because if he didn’t, he would die. He needed all the advantages he could get right now.
+
+“Hmm?” Walter all but spat in his irritation.
+
+“You and Victor both introduced yourselves with a great emphasis on your surnames. If you were ordinary children… or orphans, like me, you wouldn’t put any emphasis on your family name like that.” Rhys paused. “Well, Victor’s behavior already told me he was, but…”
+
+“That’s correct. We’re from noble families. Noble mages.”
+
+“Mmm.” Walter, too, had already told him he was a noble, or at least, from a good family, from his good behavior and his gentility. For all that rich kids were all insufferable brats, some of them had been taught how to behave before they were sent out into the world. Walter had clearly been taught manners by hook or by crook, and Rhys greatly appreciated his parents for doing their part. “You know, I’m just an ignorant country boy, someone who was found as a child. Tournors, when compared to Victor’s family, how does it rank?”
+
+“Low.”
+
+Lower nobility? Ah, that explained it, then. That was why he actually had some semblance of self-control and manners. The higher nobility had no reason to teach anything to their children, but the lower nobility still had to fear the upper nobility. There weren’t many benefits to a feudal system, but the fact that the nobility, too, had a hierarchy, and everyone who was even a little bit rich didn’t have the right to generate horrid brats for the world to deal with, was certainly one of them.
+
+Well, maybe he was a little biased, given his original upbringing in a bottom-of-the-middle-class family. But he had the right to be biased, after all the bullshit he’d put up with at the hands of brats, whether they were his incompetent bosses or the popular kids at school. He’d experienced enough brats to know how irritating they were, right from his heart.
+
+Rhys nodded. “A pity that you can’t knock Victor in the head. Must have been cathartic when I gave that whelp a beating.”
+
+Walter’s lip twitched. His eyes narrowed.
+
+“Or maybe you’re angry that I beat Mae? Are you in love with her? She’s beautiful, yeah. And I can respect that savagery. But you guys should all break free of such an aggressive and predatory school while you can. Do you really thing it’s a good thing to come to smaller schools and beat up our most powerful students? Even go so far as cripple them? You had a good upbringing, Walter. I can tell it from the way you hold yourself back, and hold a conversation rather than just beating my head in. Surely you know that it isn’t the place of the strong to one-sidedly beat the weak, right?”
+
+Walter’s lip twitched. “After you did that to Mae—”
+
+“After I protected myself in a heated duel? After she threw caltrops on the ground? After Hono openly attempted to permanently cripple me? Don’t pretend to be righteous now, Walter Tournors. You know what you’re doing.” He lifted his finger and pointed at the center of Walter’s chest. “In your heart, you know it’s wrong.”
+
+“I…” Walter’s brows furrowed. A troubled expression crossed his face.
+
+Rhys’ eyes narrowed in happiness. Excellent. Not only had he frustrated Walter, but he’d also forced him to question his own righteousness. Walter had obviously long-since made peace with his role in bullying the schools, but making peace with something in his heart, and making peace with something in public, in front of everyone, were two different things. Even if Walter’s heart was completely hardened, and he felt nothing at all, he couldn’t openly admit to such a thing without losing all credibility, and outing his school as deliberately bullying the smaller Infinite Constellation School.
+
+And if Rhys was right, and Walter really did have a strict, ‘good’ upbringing, then his heart wasn’t hardened. And his words, right now, despite all the shit he’d put Walter through up until this point—for the sole reason that Rhys was correct, for the sole reason that Walter himself doubted the righteousness of his actions, he would sow a single seed of doubt in Walter’s heart.
+
+Rhys bowed again. “Shall we?”
+
+Cementing his righteousness by not outright attacking, but offering Walter yet another notification that battle had begun. His opponent was far more powerful than him, at the absolute limit of their Tier’s strength. It was suicidal to take a moment to notify him that the fight had begun. Rather, all tactical sense said that Rhys should immediately launch a sneak attack. But that wasn’t the game he was playing.
+
+He was righteous, and Walter was unrighteous. Every move, every action, was perfectly calculated to put Walter on the moral back foot.
+
+If it was, well, anyone but Walter, or rather, anyone who didn’t have a ‘good’ upbringing, it wouldn’t matter at all. At best, it would act as a small mental detriment. But it was Walter. Walter, who had a ‘good’ upbringing. Walter, who as a lower-class noble, had doubtless been taught with every waking moment to do the ‘right’ thing, or else risk destruction by the higher-rank nobles. Especially in a world like this, where might made right, he would absolutely, without a doubt, have that kind of lesson beaten into his very soul.
+
+I wasn’t sure of it at first, but I am now. Walter had played to his every move. He could move Walter with a twitch of his pinky. Were this a battle of words or intent, he would have already won. The moral victory stood firmly in his court. Yes, he had just heavily injured Mae. But it was in a duel, where they had faced one another as equal combatants, and Mae had made every effort to cripple him. To injure her in return was fair game, and in fact, when he looked at her now, her shoulder was fully healed. For mages, that had been a minor wound.
+
+In comparison, Walter’s team had bragged, openly announced their intent to cripple Infinite Constellation students, and used rude traps in battle. Rhys had met them where they stood, with equal and opposite force. Between him and Walter’s team, Rhys was the shining example of nobility.
+
+Now, he’d not only reminded Walter of that, but rubbed Walter’s nose in his own status and forced him to question his actions. Pissed him off, drawn out his frustration, claimed the moral high ground, and acted with nobility, all in the space of a few minutes. Oh, if Walter remembered his early actions, he’d recall that he was the one who actually had the high moral ground, but Rhys had given him no opening to do so. And even if he did recall such a vital fact, it would only frustrate him more. Win, win, win. The mental battle had been won.
+
+Now, to win the actual battle.
+
+All his maneuvering and talking had only won him a tiny debuff on Walter’s mental state. He had no illusions about the actual battle. This would be the toughest fight he’d ever fought. To the death. To the end. There was no calling it quits. It wasn’t a spar with Straw, or Bast, or Ev. He couldn’t scurry off to Az’s library when things got dark. He beat Walter, or he died. There were no two ways about it.
+
+Walter bowed back. He drew his sword. “I fight with the blade and with magic.”
+
+“I fight with trash.”
+
+If Walter was confused or surprised, he had no time to express it. Rhys closed the distance immediately after. Their blades clashed.
+
+If Mae had tested the limits of Rhys’ strength, Walter completely surpassed them. He forced Rhys back. One strike had Rhys’ wrists and arms singing with pain. Gritting his teeth, Rhys pushed on. He barely kept pace as Walter harassed him with a series of devastating blows. Rhys’ most recent sparring partner, Ev, preferred hand-to-hand combat, and as a result, Rhys’ last experience of swordplay was with Bast and Straw, long ago in the forest—and that, with sticks and fake swords, at best. Mae had been a strong swordsman, but nothing beyond Bast’s level. Walter was a master with the sword. Time and time again, he slipped past Rhys’ guard to land heavy blows on Rhys.
+
+These weren’t the superficial wounds Mae had inflicted, that he barely needed Trash Body to work past. Every single one was meant to maim or kill. If he relied on Trash Body here, he’d be out of the fight before the fight began. Rhys barely kept up. He was locked on the back foot, desperately parrying and blocking to keep Walter from picking him apart, like a vulture dismembering a corpse. Where Walter’s hits landed, he utilized Trash Body to its utmost extent, and barely kept his body in working condition by flaring almost all his mana into it. He wanted to use his Cornered Rat claw strike, but although the ‘cornered’ condition had triggered, and he knew he could launch out with explosive power in this moment, he couldn’t find the space or the time to afford to go on the attack. If he stopped blocking for a moment, that would be it. The fight, and his life, would be forfeit.
+
+Abruptly, Walter stopped. Rhys hopped away, adding room. Blood soaked into his robes and poured down his body. He was a sorry sight, badly injured, bleeding, and panting heavily, while a near-pristine Walter looked down on him, a single hair straying from his slicked-back hair. In this miracle moment, Rhys yanked a potion out from his robes and sipped it. He was prepared to throw it away, but Walter waited, somehow, miraculously, giving him a moment to heal.
+
+Does he want a good match, or something? A fair fight? His loss. Rhys put the potion back in his robes and nodded. “I appreciate it. I hate to waste anything.”
+
+“You shouldn’t thank me.” Walter’s mana flared, then vanished. The boy staggered as though he’d been dealt a severe blow. At the same instant, a sense of intense cold and danger gripped Rhys’ stomach. He raced toward Walter, wanting to take advantage of the boy’s apparent weakness, but the sense of fear didn’t dissipate. If anything, it grew stronger.
+
+This isn’t good.
+
+Two skeletal hands erupted from the earth on either side of Rhys. Sharp, bony fingers rose up on every side of him, completely encapsulating him. The hands slammed shut, striving to shut Rhys inside.
+
+Rhys put his hand on his storage ring and called forth the two largest pieces of trash he had, two sturdy halves of the same timber that had once supported a home, some time before that home had burned down. He activated his Trash Intent with all his might, slamming the two halves of the timber up against the bones of the hand. Blue light snapped into place, reforming the timber and reinforcing it, empowering it, strengthening it.
+
+The hands struggled. They trembled, striving to close. Rhys kept his hands firmly on the timbers, refusing to let them break. If the hands closed on him, he was dead. Their emanations were that powerful. There was no question in his mind. That icy cold, dangerous power would bear him under the ground, and he would die there, cold and alone.
+
+But he could hold them open. For as long as it took, until the spell wore out—
+
+“Have you forgotten someone?”
+
+Rhys stared up. Walter stood over him, bare blade pointed at Rhys’ face. There wasn’t enough room to escape between the fingers, nor to reach a hand through, but there was enough room for a blade. Walter drew back. His blade flashed in the sun, perfectly lined up with Rhys’ right eye.
+
+Shit. Oh shit. Oh fuckballs. Rhys’ hands trembled. He wanted to lift them off the timbers, but he couldn’t. If he released that Trash Intent, the skeletal hands would crush him. If he didn’t, Walter’s blade would take his head. There was no way out. No victory.
+
+Trash. This situation was trash.
+
+And what did he do with trash?
+
+He burned it down.
+
+Rhys’ right hand flashed. He moved faster than he ever had before, tearing the ligaments on his hand to force it to move faster. From his storage ring, he yanked the impure potion—and downed it.
+
+All in one go. No worrying about Less is More. Devouring every last drop of the potion, until there was nothing left.
+
+The Trash Intent flickered. Half of it winked out, and the hands closed around him. The other half of the timber caught them, and they jerked to a halt again, unable to bear him into the earth. Water’s blade clashed against the manifested bones of his own spell and fell back.
+
+Cold bone pressed in all around Rhys, cold as the grave. He felt it sap his strength, even without making contact. Being this close to the bones was dangerous. If they successfully dragged him under, that was it. His life was over.
+
+But Rhys barely felt it. Impurities poured through Rhys. More than he’d ever borne before. His whole body trembled, no, convulsed with the pain and the force of it. They tore into everything. Bones, muscle, organs, all of it. Even his skin blackened. His mana stopped flowing entirely, slowed to black sludge. His blood flowed backward, and he spat a black mouthful.
+
+Walter frowned, confused more than anything. “Committing suicide?”
+
+“Never!” In the very center of his core, Rhys’ consciousness circled around that tiny ball of hyper-pure mana, that even these impurities couldn’t break into. He grabbed onto it. He wanted to save this for later, but he couldn’t hold anything back in this fight. Not without dying. So he took that hyper-pure mana, and forced it into the very thing that it wanted to be the least—forcing every last drop of the ball into the impurities.
+
+The impurities heated. They glowed red hot, rejecting the hyper-pure mana just as the hyper-pure mana rejected them. Caught in a feedback loop, they grew brighter and hotter, hotter and brighter, until Rhys couldn’t bear to look at them.
+
+They broke into flame. Fire raged through him. Not the controlled blazes he’d been conjuring lately, within the safety of the upper peak, within the limits of what counted as safety to him, but a wild flame. A wild fire, that burned his whole body down. Every part of him blackened as pitch black smoke poured into the sky.
+
+The students outside could only see the white bones, trying to pull Rhys down. They could see that the bones couldn’t move any further, but that was it. Walter stood there, equally frozen.
+
+And then black smoke began billowing out of the gaps in the bones.
+
+“The Beast!”
+
+“Our Impure Lord!”
+
+“God of the Black Smoke!”
+
+A few Infinite Constellation School students jumped to their feet. Their god was in the room. Their god, the black smoke they’d worshipped, the one that had shook the mountain—was here! Before them!
+
+Within the skeletal hands, Rhys burned. He burned to charcoal, but as he burned, he rebuilt. Strength. Power. Not just defensive power, not just the durability to take Ev’s hits and return in kind, but ultimate power. The strength to defeat anyone. The strength to defeat someone at the very limits of Tier 1—
+
+No. My ambitions aren’t so weak. The power to beat anyone. To defeat anyone. To overcome everyone, and protect everything he wanted to protect.
+
+Power welled up in Rhys’ body. Strength like he’d never felt before. The impurities reforged him, but not only that. They empowered him. Like mana, but a hundred times more powerful, forcing every single ounce of power into his limbs, his muscles, his bones. He’d channeled impurities before. Used them to reform his body, or transform them into mana. But right now, in this moment, he did the bare minimum of transforming. Instead, he directly channeled the impurities themselves, grabbing onto the raw power of burning the impurities and transforming that directly into strength.
+
+As Rhys burned, his hand fell off the timber. The skeletal hands began to shut. But at the same time, his eyes flared with power. Burning orange fire poured from his eye sockets, overwhelming the blue tinge mana had cast onto them, turning it all to bright flame.
+
+He reached out. His charcoal hands grasped the bones that sought to cage him. Without hesitation, Rhys clenched his hands shut. And that, that small gesture, the closing of his hands—that was enough to tear the hands apart.
+
+Bone shattered. For a moment, blue-tinged shards of bone flew outward from where Rhys had broken them, and then the spell itself gave out. Walter stumbled back, spewing blood from his mouth as the backlash of the spell failing hit him. Nonetheless, he raised his sword, his eyes grim as he faced down the savage specter Rhys had become.
+
+Rhys stood there. His vision flickered, barely clear enough to make out Walter before him. He wavered, his consciousness on the brink of dissipating. An almost subconscious part of him reforged his body, making it stronger, stronger, more durable, and stronger. The rest of him channeled the impurities, letting them rage within him. If he couldn’t bear them as he was, then burn it down, throw it out, and start over. If this body was inadequate, then he would recognize it as the trash it was and reject it. He wasn’t afraid to burn himself down. He didn’t fear destruction. He was trash, and trash was intended for destruction, fated for it from the start. It was only through destruction that he could become more powerful. Only through burning himself to ash, that he could strengthen himself—enough to win this fight. Enough to become stronger. Enough—enough to become strongest of all.
+
+Walter adjusted his stance. “If you won’t approach, then—”
+
+Rhys lunged. He moved so quickly that his vision went black, that the sparse blood in his body couldn’t keep up with it. But he didn’t need it. Didn’t need to see to know where his enemy was. He sensed it, felt it in his mana, in his bones.
+
+The only real match for him today, was Mae. Why?
+
+Because Walter was impure.
+
+Black gunk filled Walter’s mana passages. Curse power clung to his mana. In this state, on the verge of death, his whole self burning, Rhys could see it. The black mark on Walter’s core, a sleeping skeleton with demon horns pushing through its brows. The skeleton’s eye sockets were shut, and it looked extremely bizarre, covered in bone spurs and vicious spines. That was the source of the attack he’d used on Rhys. Some form of curse. Not a curse itself, or else Rhys could have absorbed it like he did with Hono’s attacks, but a projection of a curse. A curse that Walter had taken onto his very core.
+
+Rhys felt a sense of loss. A strange sadness. Walter wasn’t trash. He had decent talent, and undeniable skill with the sword. But by taking that curse onto himself, placing it onto his very core, he’d marked himself as trash. To see something that wasn’t trash, marked and transformed into trash—sorrow flooded over Rhys. It was different when he was trash from the beginning. No one would cry a tear when trash became more trashy, or burned itself up. But to see someone with talent throw that all away and become trash… that was worth sorrow. That was worth regret.
+
+Rhys grabbed Walter by the head and slammed him into the ground. Walter tried to counterattack, but Rhys was too fast, too strong. An overwhelming force of fire, smoke, and impurities. Rhys willed it, and burning impurities rushed from him into Walter. He didn’t know how, or why. In this state, it was as easy as breathing, and he didn’t question it, just as one wouldn’t question breathing water if they were transformed into a fish. He could set Walter’s impurities alight, and so, he did.
+
+Walter screamed. He thrashed in Rhys’ hold, struggling to break free. Overcome with pain, he couldn’t launch a meaningful attack or countergrapple. He kicked and struggled like a rabid beast, but couldn’t overcome the burning Rhys’ strength.
+
+It made a fearsome sight. A charcoal-black figure, flaking away, burned down to blackened bones. Red molten light leaked from the cracks in its body, and flames poured from its eyes and mouth. Walter thrashed in its hold, struggling but failing to break its grasp.
+
+Ernesto stepped forward. “The duel is over. Release him!”
+
+Cynog blocked his way. Ernesto looked down his nose at him. “Step aside, or I’ll report your blatant abuse to the Headmaster.”
+
+“Of what, Purple Dawn Academy? He isn’t my boss. Not yet,” Cynog scoffed with a sneer. “Right now, my boss is Aquari Gibron, and she doesn’t give a fuck. Go ahead. Take it up with her. But I’m not going to step aside.”
+
+Ernesto narrowed his eyes. He lifted his hand. Power glimmered in his palm.
+
+Cynog flexed his muscles. He glared back. “Try me.”
+
+The two glared at one another, locked in a deadlock. Behind Cynog, the battle raged on.
+
+Unaware of all this, Rhys continued to pour into Walter. The impurities burned. Rhys absorbed that power into himself, rather than let it empower Walter. He didn’t know Walter’s body well enough to know what or how to enhance it, and besides, they were enemies. This power was his, now, and he wouldn’t let it go.
+
+He reached Walter’s core and didn’t stop. He plunged right in, seeking after the source of all the impurities—the sleeping demonic skeleton in Walter’s core.
+
+That demon opened its eye sockets. It uncurled from its sleeping position and screeched a battle cry, rushing to meet Rhys. The two clashed. For a moment, the demon held him back, but only for a moment. Rhys was a tsunami of smoke and fire, a force of nature, not a being. Before him, the skeletal demon was but an ant. An ant that he would swallow up.
+
+It fought back. The skeleton clawed at the wave Rhys had become, but there was no overcoming him. The wave swallowed it up, and just like everything else, the skeleton burned.
+
+In the last moment before the skeleton died, its eyes suddenly flared to light. Cold, dark light burned in their hollow depths, and a cold, dark intelligence gazed forth. It locked eyes with Rhys. Not the burning wave of smoke and fire, but Rhys, the human form hidden in the depths of that wave. Rhys saw the darkness, and the darkness saw him.
+
+So you’ve come, O’ One Who Cleanses.
+
+Rhys’ eyes flashed. He grinned. “Wrong!”
+
+The darkness paused. No?
+
+“I don’t cleanse the trash. I love it! If you think I’m here to clean you, you’re wrong! All trash belongs to me. All trash is mine, whether I burn it down to remake it anew, or polish it into something that can be loved. If you’re trash, then I’m not here to destroy you, or cleanse you. I’m here to make you shine!”
+
+What?
+
+“Come here. Today, I was going to burn you down, but why waste such a gem? You’re a powerful weapon, aren’t you? You don’t belong to Walter. I don’t know who you are, or who this power belongs to—but I don’t care! I’m going to polish you into my own spell!”

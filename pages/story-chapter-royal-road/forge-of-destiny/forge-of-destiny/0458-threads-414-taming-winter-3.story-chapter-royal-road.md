@@ -1,0 +1,131 @@
+---
+id: ea020071-f0bb-5b1b-930c-8f4ca587112f
+page-type-slug: story-chapter-royal-road
+title: "Threads 414 Taming Winter 3"
+slug: 0458-threads-414-taming-winter-3
+partOf: forge-of-destiny
+position: 458
+ownLength: 1605
+unit: words
+publishedAt: 2024-11-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1911844/threads-414-taming-winter-3"
+royalRoadId: "1911844"
+---
+
+Winter became spring, and the snow became floodwaters.
+
+But this was only the last verse of her song, and one she had fretted over too much. When focused on the oncoming summit, the peace she hoped for in the future, it was easy to do. But the future did not only include peace.
+
+They were going to war next year. They were going to battle the ith.
+
+It was going to be hideous.
+
+Winter devoured. It consumed. It crushed. The falling snows, so beautiful in their glittering majesty under a newly risen moon, suffocated the last embers of life lingering on from autumn's slow decay.
+
+That was another difference between her song and Master Zeqing’s. Zeqing's Frozen Soul Serenade was the black heart of eternal cold, a freezing song that never ended. It portrayed the chill of the cloud-piercing peaks, exposed forever to the cruel stars and blackest sky, and slew only what trespassed upon its domain.
+
+In its way, the snow that swept across the world was a much hungrier beast. However, in the end, it was a beast that was sated, that retreated, and gave way to warmer seasons in time. It was not a bottomless and unceasing hunger.
+
+There was a dichotomy she had not grappled with, in these concepts.
+
+"I like how it feels around here." Hanyi’s pale eyes sparkled as she looked up at the cloud-wreathed peaks ahead. They stood on the lowest slope, the foot of the mountain. They had gathered quite a train of lesser faeries, a glittering, whirling constellation of icy lights winking among the clouds.
+
+"The air is very clear," Ling Qi mused. It tasted crisp on her tongue and soothed her still burnt lungs, circulating a comforting chill through her charred organs and meridians. "We didn't discover this when we were surveying."
+
+"I think it isn't always like this." Hanyi planted her chin on her fist. "Yeah, this isn't like Momma's house at all."
+
+"A wandering site. Interesting." Ling Qi would need to report this to Renxiang and speak to the Meng geomancer they were promised soon. "No use just standing here. Let’s climb, Little Sister, and see who tries to bar our way."
+
+"Oh, I can't wait!" Hanyi tossed her hair, glaring up at the winking lights overhead. "You all better watch closely!"
+
+Ling Qi gave Hanyi's hand a squeeze and lifted her skirt hem in the other, and together, they began the long, rocky climb.
+
+They climbed toward the clouds, and the clouds came down to meet them.
+
+As expected their journey was not without opposition. The wind picked up. It howled and ripped at their hair and gowns. The soft snow fell thicker and became a driving sleet, chips of ice that would have battered a mortal, sliced their skin, and driven them to a fleeing panic. But even reduced as she was, Ling Qi was far from a mortal, and her junior sister never one at all. They were not supplicants come to beg for respite but peers to be respected.
+
+The swarming faeries above multiplied in number.
+
+As falling snow turned to slicing sleet, Ling Qi inhaled deeply, feeling the frost crackle in her lungs and was refreshed. When she let it out in the strident first verse of her song in tandem with her sister, the howling wind bearing down upon them broke apart.
+
+On the side of the icy mountain, two winter storms met and clashed.
+
+Hanyi sang.
+
+The year's end comes, blowing, blowing, o'er high mountain and o’er low hill, o’er wild river and o’er lake still. Wings flutter and fly for warmer nests. Blue skies fade, a memory for another season. Sing. Sing of chilling white, of glittering ice upon the quiet shore. Sing of snow lying light o'er roof, and of hearth where merry fire burns, embers kept alive till the end of the dark. Warm smoke rises into the frozen sky, spiced with faith and hopes.
+
+The other storm responded.
+
+Wild blows the ice, driving needles and crushing hail. Riot, wail, and revel. What is death? What is life? There are only the nameless winds and the frolicking clouds, returning ever when the Great One’s Cycle turns to cold. No limits, never limits, on the storm. Human spark, O poison temptation of want, flee, scatter, huddle upon the shore!
+
+Ling Qi squeezed Hanyi's hand. These were truly wild spirits, bundles of power and fragments of awareness from greater spirits temporarily spun together. Like this, they were wild and free, unknowing of fear or death, of loss or want, nothing but the faintest wisp of thought wrapped around mechanical purpose. This driving wind and blizzard howl was the face of winter's violence. There was a place for sentimentality, but it did not exist not here.
+
+They strode over the mountain rock, between the snow-buried boulders and scrub, and under the rattling branches of trees. Ling Qi could feel that successfully arriving at the peak was no longer a thing of physical distance, though her own stride corrected such impediments.
+
+She looked up into the whirling cloud and met three pairs of eyes: one made of chips of ice; another of spinning flakes of dizzying beauty; and the last was of black pits of churning clouds.
+
+She tilted her chin up and let her mist flood out, joining Hanyi's whirling wall of pure white snow, letting the faeries above see her without restraint. Beside her, Hanyi's song rose in answer to the taunt, delivered back in their face.
+
+Wasted. Wasted is the song none hear, the field painted in glittering white none see! Beauty is in hearts and minds. Boring, empty flecks and flakes that tumble and spin, wanting nothing and being nothing, so much is missed! Be welcome, be beautiful, be known!
+
+… Or be scattered.
+
+Her sister was always the blunt sort, although lying about their goals was not useful. It was not as if they would accept their home being ravaged by wild, thoughtless storms if they could prevent it. No one would, unless they lacked the force to manage it.
+
+That, too, was the Wall in miniature. No one would accept violence and injury done upon their people if they had the strength to make it stop. Neither cloud, nor ice, nor dragon banners changed something so simple.
+
+The ones they were dealing with, however, were not men, nor even beasts. They did not have enough self to fear death, so her sister was not using the best argument here.
+
+Hanyi’s song was met with cackling and renewed sleet upon the slope. Screaming winds clawed at their mist and snow.
+
+Ling Qi intervened, guiding Hanyi in the right direction.
+
+Festivals upon the frozen shore, light and smoke and laughter, calling for the end of year. Welcome and want and hope, feasts of meat and fish for mortal mouths, and song and adoration for the spirit-kin.
+
+Instead of threats, she promised to make winter’s advent to mean faith and festivity.
+
+The number of smaller faeries whirling around them was growing. Higher above, one of the three greater faeries, a figure like glass filled with whirling snowflakes, and hypnotic eyes of spinning fractal patterns, drifted lower, their voice ceasing to be so strident as that of their kin.
+
+Well, even among spirits, defectors were not well liked. The faeries’ kin descended upon her with a shriek.
+
+Ling Qi raised her voice.
+
+Howl.
+
+O song of snow. O aria of endings.
+
+Sweep the sky and the earth alike clear.
+
+Wither the old unto dust and soil, to be toiled over and tilled.
+
+Blacken the sky, that the next rise be brighter.
+
+End the year, that the next be better.
+
+All things born are buried in time. No cycle is the same as the last.
+
+No mountain stands forever before the wind.
+
+Crumble.
+
+Pretending that she did not have this violence within her would do no more good than paring herself down to just a weapon. Xia Ren was more than a weapon, but nevertheless, Xia Ren had made the same mistake as Elder Jiao.
+
+Each turn of the wheel slayed the old and birthed the new. Permanence was stagnation by another name.
+
+Though she was no sovereign, at that moment, as the concepts she had been turning over in her head came together, her shadow stretched over the peak in defiance of the weak light shining through the cloud cover, and she felt herself in every flake of snow. The storm turned in her grip, battering the still defiant faeries, and the earth shook with the tumble of snow and stone down the mountainsides.
+
+One faerie shattered, and the other hung limp in the grip of her voice, as submissive as a kitten in its mother's mouth. The early defector cackled in a voice of freezing ice, zipping around her head before settling in her hair.
+
+And then she was only herself again, standing beside Hanyi, who looked up at her with wide eyes.
+
+Ling Qi swayed and leaned heavily on Hanyi's shoulder, reaching up to hold her burning throat.
+
+"Big Sis?"
+
+"It's alright, Hanyi," she croaked. A mote of silver qi rose to observe the faerie resting on her hair. "Just threw out my voice a little. I'll leave the rest to you, okay?"
+
+She plucked the shrunken snow fairy from her head and cast a gimlet look up into the cloud where the other, the one composed of dark clouds, still hung. Then, she placed the snow fairy in Hanyi's hands.
+
+"I'll need some rest back at camp."
+
+That was one step, she thought. Her Final Frost Serenade had its first proper verse.

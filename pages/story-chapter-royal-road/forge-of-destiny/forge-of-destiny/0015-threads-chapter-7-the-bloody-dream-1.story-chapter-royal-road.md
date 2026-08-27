@@ -1,0 +1,125 @@
+---
+id: 06573460-d1b6-51c5-a927-0ff86f0f4d53
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 7-The Bloody Dream 1"
+slug: 0015-threads-chapter-7-the-bloody-dream-1
+partOf: forge-of-destiny
+position: 15
+ownLength: 2298
+unit: words
+publishedAt: 2020-11-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/581016/threads-chapter-7-the-bloody-dream-1"
+royalRoadId: "581016"
+---
+
+Ling Qi grinned as talons of black diamond ruffled her hair with the wind of their passing, and she faded back into the mist, eyes locked on her opponent.
+
+Shen Hu doggedly followed her trail, eyes aglow with the colors of sunset, but he soon found himself lost in the mist again. Ling Qi was helping Shen Hu hone an interesting new technique in this spar. As Ling Qi circled him, casually playing her melody, she once again felt the brush of his qi as another pulse washed over the field they were sparring in. This time, the half-formed technique didn’t slide off of her, and the warm, placid qi stuck.
+
+Shen Hu’s faintly glowing eyes immediately snapped to her, his right hand whipping up, and the talons he had been striking at her with broke away from his gauntlet with a sound like shattering glass, launching three gemstone daggers her way. Ling Qi twisted in response, smoothly avoiding the first two, while the third flew through her suddenly phantasmal shoulder, trailing black mist.
+
+“Looks like you got it down,” Ling Qi said, lowering her flute and straightening up.
+
+“Seems like it,” Shen Hu said with a satisfied grin, coming out of his combat stance.
+
+<Uh huh, “he’s” got it,> Sixiang snorted, amused. <It’s definitely a spirit. That guy doesn’t have a drop of lake qi in his meridians.>
+
+<Be nice. He hasn’t said anything about you brushing off his techniques either,> Ling Qi chided in her thoughts. If Shen Hu wanted to maintain the pretense that his second spirit didn’t exist, she wasn’t going to be rude and press the matter. Out loud, she said, “You’re getting better at working the throws into your style too.”
+
+“Not good enough though,” he grumbled as his gauntlets crumbled into sparkling dust. “The big attacks are too draining, but the little ones are still too slow and awkward.”
+
+“Or I’m just too fast,” Ling Qi replied just a little cockily. Xiulan was a bad influence on her.
+
+“Or you’re just too fast,” he echoed agreeably. “Your qi just never runs out, does it? How did you cultivate it so much?”
+
+“You know I can’t answer that,” Ling Qi said wryly, waving away the last dissolving strands of mist, allowing the morning sun to once again shine down on the grassy field. The four stone pillars sitting at the corners slowly stopped humming as the formations carved into their surface powered down with the qi of the battle fading. She had to hand it to the Sect. Training fields that blocked any outside observation beneath the fourth realm were a great salve to her paranoia.
+
+“I guess so,” Shen Hu said. “Did you want to practice hitting me with something? I kinda feel like I’m taking advantage.”
+
+“Like I said, I’m working on defense. Avoiding your attacks is enough,” Ling Qi dismissed. While she was nearing mastery of another stage of her Sable Crescent Step art, she also felt like her improvement was slowing down when it came to her mundane ability to avoid attacks.
+
+<I’d say to look into Grandmother’s art but… you’re not there yet,> Sixiang commented.
+
+“If you say so,” Shen Hu said, stretching his arms above his head before falling back into a combat stance. “So no mist this time?”
+
+“No mist,” Ling Qi agreed, not quite looking at him. Xiulan really had infected her. Shen Hu could be distracting at times. “It’d defeat the point if you had to spend half of your time finding me.”
+
+Shen Hu nodded, and Ling Qi let her meridians flood with dark qi. She wouldn’t let herself slow down now. Besides, sparring was more relaxing than most of her other responsibilities.
+
+***
+
+Between keeping up with her friends and now trying to make a new one, Ling Qi found that she had a very thin line to walk. She needed to reach Appraisal, the second stage of the green realm as quickly as possible. Not only would it safely allow her to use more green spirit stones and improve her base cultivation, it would also allow her to finally master many of her arts and begin working on the foundation of her domain in earnest.
+
+Paradoxically, she found herself having to put off cultivation as she entered her second month in Inner Sect in order to improve it later. The reason was simple. The only thing she had truly lost upon entering the Inner Sect was the diversity of qi loci, cultivation sites, which she had discovered on the Outer Sect mountain last year. Her mentor’s home was a powerful focus of course, albeit one that she had limited access to, and the argent vent in her Inner Sect residence was generally useful, but still, she found herself slowed in several areas with the lack of proper cultivation sites for some of her elements.
+
+Ling Qi put to use the map of the Sect she had been given by Xin to discover new ones. She surprised herself when she ended up inviting Shen Hu along to help her push through the wilds to investigate the locations on the map, but he had said that he was interested in exploring during Cai’s party last month.
+
+Ling Qi still remembered her trouble with something as simple as bringing Su Ling to search for sites with her and Li Suyin. Had it only really been just a year? She really had changed since those days.
+
+Shen Hu went along with her pretty easily, not even asking to see the map. She supposed that made sense though. If he had already intended to explore randomly on his own, what would it hurt to follow her lead?
+
+Their first foray turned into more of a hunting trip. The location she had chosen from the map was practically overrun with beasts. It was a nesting ground for Hundred Year Cicadas, and after a few hours of swatting fist-sized bugs with oversized jaws out of the air, Ling Qi had gotten frustrated and just flooded the grove with mist. Her companion had taken care of the underground nests. Whatever site might have been there originally was gone, its qi drained away by the insects, but the creatures’ cores and wings could be sold for a small sum, so the visit wasn’t totally pointless.
+
+... They probably would have gotten more if her mist phantasms hadn’t shredded so many of them.
+
+Their next foray was a lot more fun. Hunting a pair of Stonetusk Boars felt like actual hunting, and it was even a challenge with them limiting themselves to art-less combat.
+
+More importantly, the locations her map had guided her to still contained a couple of cultivation sites. The first was a convergence of several small streams, rich in water qi, which could serve as a nice meditation spot for some of her water arts. The second was even better. The stand of tall oak trees, planted in a complex pattern that turned out to be a qi-gathering formation, would be helpful with mastering her lone wood art, Thousand Ring Fortress, and assist in physical cultivation.
+
+It was on the third and final foray that Ling Qi would be able to make this month that they found something odd. This location had been marked by a rearing stag with a moon disc held in its antlers on the map granted by the Hidden Moon. The symbol had given her a sense of danger, but there was no risk without reward.
+
+“It smells like smoke,” Shen Hu said from below her, rubbing irritably at his nose as he peered down into the valley that lay before them.
+
+Ling Qi was perched on a low tree branch, giving her a better vantage point. The area appeared like any other valley between the high hills, lush and green with a lazily winding ribbon of blue running through its center. Yet…
+
+She agreed. It did smell like smoke, even with not a spark in sight.
+
+“There’s no fire qi in the air or the ground,” Ling Qi said with a frown. “Can Lanhua feel anything?”
+
+Shen Hu glanced down at the carpet of rippling mud beneath his feet; most of his spirit’s mass was merged with the earth, but she remained somewhat visible. “Nothing,” he said. “She can’t feel anything bigger than mice and bugs.”
+
+This was alarming in its own right. A fertile valley like this should be heavily populated by spirits and beasts. <Sixiang?> she asked.
+
+She felt the odd prickling sensation of the dream spirit pushing their presence out through all of her senses. <You found something interesting. There’s an old, old memory here.>
+
+<An illusion? Do you think you or I could break it?> Ling Qi narrowed her eyes at the seemingly peaceful valley.
+
+Sixiang let out a tsk. <No, silly. It’s a memory, a dream that’s still hanging over the place. You can’t dispel it anymore than you could dispel me.>
+
+<So we can’t do anything then?> she thought irritably.
+
+Ling Qi felt like the muse was shrugging. <You could head in and experience it. There’s power to be found in dreams after all,> they drawled. <Also, your eye candy is giving you a weird look.>
+
+“Sorry. I was just lost in thought,” Ling Qi said, shooting Shen Hu an apologetic look. It probably looked like she had just spaced out.
+
+“It’s fine,” he replied. “What do you think? I could head in with Lanhua. I doubt anything will take us out in one shot if it’s a trap.”
+
+“I don’t think it’s a trap exactly,” Ling Qi began slowly as Sixiang fed her more information. “It’s more like... this valley is part way into a dream?” She felt Sixiang’s approving nod. “So we can’t sense things inside from outside.”
+
+Shen Hu cupped his chin thoughtfully, but she saw a spark of excitement in his brown eyes. “Oh? I’ve never fought in a dream before.” He furrowed his brow. “Well, not that I remember anyway. Are you coming in?”
+
+Ling Qi couldn’t help but roll her eyes at his eagerness. This guy. He would go in with nothing but his spirit beast and not a single scrap of information. Of course, she couldn’t say she was any better. She hated wasting time. There was never really any question as to whether she would brave whatever was ahead.
+
+“Yes, I will. Bring Lanhua up. You’ll need to be my cover.”
+
+He accepted that so easily, she mused, as great torrents of mud rose to engulf him until Lanhua’s lumpy, marsh reed-covered head rose to her level. The spirit looked at Ling Qi with her pit-like eyes and let out a bubbling rumble.
+
+“I’ll cover you both. I promise,” LIng Qi replied. Really, the mud spirit was the more sensible out of the two of them.
+
+Making a sound like a gathering mudslide, Lanhua began to tramp down the hill into the valley, and Ling Qi followed, fading into the shadows of the canopy as she hopped from branch to branch soundlessly.
+
+The moment that they entered the range of the memory was obvious. One moment, they were standing under a bright noonday sun, and the next, they were under a night sky, and the forest was burning. Lurid light made the cool dark of night into a mockery of day, and plumes of smoke rose into the sky, framing a sullen, crimson crescent moon.
+
+From all around, the sounds of combat rang out. The crack of shattering trees reached their ears, and the earth shook underfoot from terrible blows. Yet those distant things could not draw her attention because in front of Ling Qi’s eyes, a battle raged.
+
+An earthshaking bellow rang in her ears as a titanic spirit struck the ground with its branch-like arms. It was as if one of the ancient trees of the deeper forest had uprooted itself and been reshaped into the vague outline of a man. Its burning canopy rose more than ten meters into the night sky, and below that was a visage like a caricature of an old man with knothole eyes and a beard of moss and lichen, flickering with embers. It had an apeish gait with too long arms and short legs.
+
+At the spirit’s feet, its foe darted in a blur. It was a man taller than any human Ling Qi had ever seen save Cai Shenhua. He wore a flowing and resplendent emerald robe marked by soot and blood. In his hands was a spear of polished bronze, and from his head sprouted a pair of horns parting his long brown hair. His red eyes burned with fury as his darting spear punctured the spirit’s hide of bark again and again, seemingly to little effect.
+
+His eyes fell upon Shen Hu and Lanhua then, and hope lit in them. “Soldiers! This prince requires your aid. Aid in striking down this mad beast that I might go to my father’s side!” he shouted while avoiding a thunderous blow that sent dozens of hungry, grasping roots writhing up from the ground to grasp and tear at the hems of his robe.
+
+Before Ling Qi or Shen Hu could respond, the tree spirit let out a furious howl that sent a shiver down her spine. “You dare, Oathbreaker!” Its words were foreign, a slow, consonant-heavy speech, but Ling Qi found she could understand it. “Begone, children of river and hill! We have no quarrel!”
+
+Ling Qi heard Sixiang say something in her thoughts, but it was muffled and unintelligible. Shen Hu glanced in her direction, his face protruding from Lanhua’s chest, confused and searching for guidance.
+
+It really was like a dream. She had no context for this fight, no idea what was going on. Nothing made sense.

@@ -1,0 +1,131 @@
+---
+id: 657082c6-bc2a-5606-bcc0-861fd82c653c
+page-type-slug: story-chapter-royal-road
+title: "Threads 518-Borders 2"
+slug: 0567-threads-518-borders-2
+partOf: forge-of-destiny
+position: 567
+ownLength: 1935
+unit: words
+publishedAt: 2026-05-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3384819/threads-518-borders-2"
+royalRoadId: "3384819"
+---
+
+Even Meng Duyi had his biases. Then again, the same could be true for even, or especially, a high realm specialist in pesticides.
+
+"Other than that, we plan to formalize our boat building into several workshop spaces. Several bids and requests have been made by those whose skills were used for the temple boat, so we're merely approving and investing in them. The rest shall go to setting up more experimentation with the clay as a reagent, since you've solved the initial collection issues."
+
+"And to give work to the artisans you acquired in Xiangmen," Meng Duyi concluded.
+
+They approached a gap in the treeline that had been growing thicker, a wide swathe of a stony gravel field, all browns and grays and the occasional dirty white in a patch of frost.
+
+"Let me ask you, what is the role of government in people's lives?"
+
+"Where is the line?" Ling Qi rephrased. "Cai Renxiang would say that the role of government is to be the scaffolding on which all else is built. The organizing principle is there to give structure and shape to the way people live their lives."
+
+"I am certain she would explain her answer better, should I ask her," Meng Duyi said dryly.
+
+"Fair," Ling Qi laughed, ghostly across the gravelly field. She turned, floating backwards, considering the line between the pine forest and the gravel field. It was porous in nature. Roots wound out through the increasingly rocky and poor soil, grasping for nutrients that weren't there. The border between the two was formed not by harsh divides or different elemental natures, but rather a slight change in conditions.
+
+Tenuous.
+
+"I don't pretend I have a strong understanding of the subject, but I think Lady Cai is mostly right. We should defend the lives within our walls, figurative and not. We need to provide arbitration for their disputes, and we owe them a certain minimum of prosperity. It's not actually hard to provide the minimum a person needs to survive."
+
+"Interesting."
+
+"Not going to examine and explain to me the errors and complications?" Ling Qi asked, tilting her head. They had made it to the center of the gravel field where a few weedy grasses and shoots poked their way out of the barren soil.
+
+"That is a conversation you would better have with your liege, I suspect. Geomancy has its insights, but they are more advanced. I wished to hear your natural disposition. Borders."
+
+"Borders," Ling Qi agreed, accepting the shift back to their original subject.
+
+"In this world, all things are defined by division." Meng Duyi turned to face her, boots sinking into the muddy gravel for the first time, leaving an impression on the world. "But also, communion. We are the sum of two parts, what is now called yin and yang, the Nameless Mother and the Nameless Father. All things contain both essences."
+
+"Division is inherent to what they made," Ling Qi agreed. "When the Mother was alone, she could not create anything that was not her."
+
+"It is so. To understand borders and boundaries, it is essential to comprehend their characteristics. We must know where they sharply divide and where they are merely soft lines sketched in the sand, and how they may change from one to the other."
+
+Meng Duyi gestured toward the mountains in the south. "There, you may see the heavens and the earth, seemingly a stark boundary."
+
+"And yet, it is one that is crossed every time a bird flaps its wings. I suppose that crossing depends on whether you are treating it as earth and sky or solid and air," Ling Qi said.
+
+"It is not as clear as it might appear, no. For the sake of this example, let us choose solid and air," Meng Duyi replied. “What defines the border between these?"
+
+Meng Duyi resumed walking, and she followed after him. Ling Qi considered her answer, listening to the sounds his footsteps and staff made, and observing the tracks he left in the cold, muddy gravel.
+
+"I could say motion. The inherent attribute of the solid objects is their inertia. They are still unless pushed. Meanwhile, airs of most types come more naturally to motion, as wind qi refuses stillness," Ling Qi mused. “The wind blows across the mountainside, dislodging dust. This dust could be said to exist on the border. Would heat be a better answer? A hot enough flame may boil stone; a deep enough chill may freeze even the wind."
+
+"An expected answer from one who cultivates ice, and who has witnessed sovereign flame. You call it heat, though. Is there no difference between flame and ice? Are they merely opposite expressions of the same principle?"
+
+Ling Qi frowned. That felt wrong, for all that it logically followed. While she knew ice could burn, this was just a quirk of language. No matter how she bent or twisted the frozen qi in her channels, it would never create a flame and never raise the temperature. However, Xiao Fen's strange fires stole heat from their targets, which did make them cold, despite burning where it drew the heat.
+
+"… Huh."
+
+It was an inelegant expression, but with only this old man's eyes on her, she didn't feel any shame for breaking face.
+
+"My answers were the same, in the end."
+
+"Were they?" Meng Duyi paused in his walk, half turning to look at her.
+
+"Cold and heat are different expressions of stillness and motion, which are, in the end, just an expression of yin and yang. Is that what you were trying to convey?"
+
+"The reactive and the active, expansive and retractive, stasis and dynamism. These are the most fundamental components of all qi, and thus, the world. They are the two ingredients that make all things," Meng Duyi agreed. "It is both simple and complex, but the manipulation of borders is fundamentally a matter of manipulating concentrations of yin and yang, enclosing or expelling energies."
+
+"Or adjusting your own to filter through," Ling Qi realized, thinking of her stealth arts, her dances, and her flights. It was all about slipping between different states.
+
+“Knowing the parameters of a border is the first step to advanced manipulations. You have worked by following the framework of techniques within arts until now, or brute manipulation of the physical arrays, I assume," Meng Duyi said.
+
+"I don't know if I would call it brute."
+
+"Scratching out characters or linkages, directly severing flows in an array's physical interface."
+
+She couldn't tell if he was ignoring the joke or playing into it. "Yes, teacher. My movement art has several methods for crossing obstructions and bypassing defended spaces, such as storage rings and vaults."
+
+"Aside from your dreamwalking technique?"
+
+"Separate from that, yes."
+
+Ahead of her, Meng Duyi stepped onto a stretch of bare rock, swept clean by the wind, jutting up from the landscape of the gravelly plain. His pace picked up marginally.
+
+She hurried to follow, her skirts gusting out as she moved, then slammed face-first into air that felt like a sheet of steel. She instinctively dematerialized, trying to flow through, but it felt as if she were gravel trying to fit through a fine sieve. She might vibrate apart if she tried much further.
+
+She fell back a step, glowering at the old man and rubbing her nose where she had impacted.
+
+"You requested trials. We may discuss further as you try to navigate this one."
+
+"So, is this a refutation of my words about air and stillness?" Ling Qi asked crossly. Her nose throbbed from the impact. She suffered far worse whenever Renxiang landed a blow in a spar, but the rude surprise still made it unpleasant.
+
+"Not entirely. You are correct. Wind is primarily a medium of motion; imposing solidity on it is against its nature." The geomancertapped his staff against the stone. "Are you so sure that is what I have done?"
+
+She eyed him warily, reaching out gingerly to touch the barrier. Under a gentler touch, it felt more like cloth stretched over a doorway until it didn't, stopping her utterly. It did not feel cold or hot. It did not have a texture.  Nor could she sense any foreign qi, just the natural background of wind, touched by water and a scattered handful of drifting motes of earth.
+
+"I can't say with complete confidence. A cultivator of your realm could fool my senses no matter how hard I might look," Ling Qi pointed out. "That would defeat the purpose of a test, though, if it were impossible to solve."
+
+"Correct. Nothing involved in the barrier is impossible for you to perceive," Meng Duyi replied blithely, running fingers through his beard.
+
+That did not mean perceiving some elements would be easy, Ling Qi thought, or that she could not miss clues. His words were true down to the letter, but she had been learning well how flexible that could be. She dragged her hand to the left following the limit of how far she could push.
+
+It wasn't flat. It whorled. It warped. Here and there, she could push out further, and at other places, she could push out less. It curved out as far as she could reach. Following it, she found it was an odd, jagged, and irregular shape.
+
+"All borders allow some degree of passage, and this, we have discussed, but you will find that the shape of a border is tied to its composition and the intention of what it is meant to divide. Why are the borders between cultivator’s fiefs typically defined by a stream or gorge or other natural feature?"
+
+Ling Qi drifted upward, feet leaving the ground, feeling her way up. In addition to the odd buzzy tingling, there was a touch of something else, too. Was it solar qi, and heaven qi? Those were always there in minute amounts, but it was a little heavier now, as if a thunderstorm or a bright and cloudless noon had just passed by.
+
+"Because it is an obvious point and difficult to change unobtrusively. Boundary stones infused by the qi of higher cultivators or spirit demesnes can also serve this function. I suppose the answer is because what they are truly dividing is human desire, so a clear visual is important."
+
+"Agreed, to an extent. Why is it a poor idea to build your roof completely flat, or worse, concave toward its center?"
+
+"Because the accumulated weight of snow or rain will overwhelm it," Ling Qi answered. She was a good full body length into the air now, and the barrier did not stop. She eyed the sky and observed a cloud gently splitting around a shaft of solid space. "The form follows its function. The intention is to keep the weather and its effects outside."
+
+"Is that all a roof is?"
+
+"No. But a house as a whole dividing the residents from the outside is unrelated to the physical shape… I think."
+
+"Multiple borders may exist in the same space. Are they not a unified whole?"
+
+It was good to confirm that she could not just fly over the barrier, even if she had doubted it would be that easy. Despite her best efforts, she could not sense any difference, excepting where her hand pushed out to the limit. The barrier was not even stopping airflow. This odd column rose infinitely into the sky, its edges constantly shifting. It had split the cloud into two trailing tapers, and a very light drizzle fell down through her.
+
+Ling Qi thought furiously.
+
+What did these characteristics say about the barrier’s function?

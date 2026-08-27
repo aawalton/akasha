@@ -1,0 +1,147 @@
+---
+id: 34001429-b475-5851-9124-5388500ecb02
+page-type-slug: story-chapter-royal-road
+title: "Threads 523-Deep Fire 4"
+slug: 0572-threads-523-deep-fire-4
+partOf: forge-of-destiny
+position: 572
+ownLength: 2625
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3462918/threads-523-deep-fire-4"
+royalRoadId: "3462918"
+---
+
+The bright midday sun was devoured under a tidal wave of cloying, near black mist. The posts marking the edge of the field vanished, the sky was shrouded, and even the hard-packed dirt faded to a bleak grey under her feet.
+
+It felt like taking off a too tight pair of boots after a long hike. A release of pressure that she hadn't even realized existed. She hadn't fully released her domain in so long.
+
+Did Sixiang have a preference for a body? Ling Qi wondered as moisture condensed into a long, thin span of hollow ice in her hands. She raised the temporary flute to her lips
+
+"Something with wings. Smallish. I can do some disruption with it. Maybe make me something big after a couple of exchanges, or when Glasses over there manages to snipe me."
+
+Wings fluttered, but no shriek sounded, only the wind blowing through lonely mist as dozens of birds took off, modeled off the crows of the polar south. This was a combination of the verses of eagle and wolf, more refined than her previous chimeric performances. Their beaks sharp, their flight would coordinate to harass and peck. Among them, a single set of crimson eyes briefly shimmered in rainbow hues, and Sixiang cackled in her head.
+
+Throughout the mist under the cover of rasping cries and flapping wings, knots and whorls formed and solidified into wolves with crimson eyes and thick, rough black fur rimed with frost and delicate icicles. Panting maws released puffs of frozen air through glistening fangs. Across their muzzles where the fur was thin, rough scales could be seen, betraying the hint of devouring dark qi down in the core of each construct. Their purpose would be to disrupt and tear at the bonds of the techniques her friends used and soften them to the whispering song of her domain and its isolation.
+
+And finally, the Bear God. He was the great mountain whose weight asleep had formed the basin of the central valley, or so it was said in some branches of myth. There were many theories of power and many views of it, and each beast god was one of them. The Bear God's power was simple. His was the power of the mighty, untouched, a titan whose tread ended ten thousand lives, and failed even to notice. His was the power that slew through apathy rather than malice.
+
+Her fingers danced along the flute, moving to the lowest notes, thrumming calls so deep they would not be possible with mortal skill.
+
+Simple practice was enough to call up the towering shade of a great brown bear, rugged and heavy. The wolves yipped and howled around its feet, and the whole center of the field was filled with its bulk, a mountain amidst the mist.
+
+Ling Qi lifted from the ground. She didn't do something so obvious as stand on its back, but she did drift above, a fluttering fairy in the mist surrounded by circling crows.
+
+On the other side of the field, her opponents gathered themselves. Cai Renxiang was out beyond her mist and the sparring field, but her presence could be felt in the radiant glow that drove back her mist. Gan Guangli towered, already three meters and swelling with the force of his spirit. Gold outlined his armor where brilliant white did not, and his fists came together in a ringing clash of his heavy gauntlets. He took a wide stance, eying the colossal silhouette of her bear construct.
+
+Xia Lin, on the other hand, crouched low, one leg extended, the other bent. One hand was on the ground for balance, and the other gripped the haft of her halberd, which vibrated with ill-contained energy. A coiled spring, she was a beast prepared to pounce. Her face was hidden beneath the gleaming, featureless plate of her helm, save for the narrow slits behind which her eyes burned.
+
+Between them was Meng Dan, still smiling softly up at her, his eyes tracking her unerringly through the mist. The air around him seemed to distort and flicker, and Renxiang's radiance gleamed through the hems of his robe. He stood in a side stance that narrowed his profile, and in his hand was a tactician's feather fan, pure white even before the Cai techniques made it gleam.
+
+"Begin." Renxiang's voice cut through the mist.
+
+The air cracked, and a blazing halberd carved through the center of Ling Qi's chest. The bear below gave a confused bellow, its form rippling like smoke around the two-meter-wide hole torn through its torso where Xia Lin had passed through, expanding with the force of the trailing shockwave.
+
+The Ling Qi-that-could-have-been, one too slow to dodge, came apart into glittering dust, and Ling Qi reformed across the ring. In the split second she had as Xia Lin's armored boot screeched across empty air mid-turn, kicking up sparks from a platform of hardened metallic qi, she cursed. She hadn't gotten the balance quite right. The technique was incomplete, too fragile and diffuse.
+
+Her song continued through the tolling verse, and a pulse stabilized the construct, readjusting the pattern of qi that underlay it before all the invested energy could dissipate. Its smoky form darkened, the hole sealed, and the bear roared, loping forward to meet Gan Guangli's own exuberant charge.
+
+They met with an almighty crash of metal against fur and flesh amid the screaming and cawing of crows. Hands met paws, and Gan Guangli's armored forehead cracked against the side of the immense bear wraith's shaggy jaws, distorting and muffling its roar as their respective feet dug deep furrows in the packed dirt, shoving back and forth.
+
+Xia Lin's visor rose, scanning through the mist, and Ling Qi faded back into it, dispersing softly and scattering her qi.
+
+Then, she caught Meng Dan's eye and the little spark of lunar qi that was not hers, mixed in with the rest.
+
+Xia Lin did not so much as twitch her eyes toward Ling Qi before her charge took off, the bright edge of her halberd slashing through the mist and ripping a crescent of clear air, limned with sparkling, bright white radiance that left it sluggish to coalesce and took a thick sliver of her qi with it, as she fully dematerialized, reappearing opposite her bear, just inches from the ground.
+
+It really had been too long since she'd had a proper spar.
+
+Sixiang, now, she thought.
+
+"Got it, boss!" her muse cackled, and she sensed them move, flying to a higher altitude along with a few of the other crows as the rest but a scattered few decoys dove. Their raspy cries echoed in the dark of the mist as they rained themselves down on Meng Dan's position.
+
+He was the most unknown one to her, his techniques the least familiar. Even if he didn't consider himself a combatant, no cultivator at their realm was helpless in a battle. Besides, her fellow retainers had certainly planned some kind of contingency for defending their eyes.
+
+Ling Qi sensed the slight fluctuation in his qi, like a ripple passing through the reflection of the moon on a lake.
+
+A crow tore through the air just to the side of his head, and he barely moved to avoid it. Another screeched, beating its wings and snatching at the hems of his robes with beak and talon, and he just moved around it. Through the flock of birds, he moved like someone on a casual walk, weaving through traffic.
+
+It wasn't a precognitive art—that wouldn't so easily foil her—and she felt a slight interaction of his qi with hers through the construct. What was he doing?
+
+Sixiang took their opportunity, as Ling Qi rapidly relocated again. This time, ahead of the slashing spear, she wove a different verse into her song, a cry of coming winter, leaving a frozen bomb of shrieking winds behind in her wake that Xia Lin tore through, only marginally slowed, armor rimed with quickly melting frost.
+
+Sixiang's black feathers shimmered into rainbow hues, and they sang the bright fury of a revel, distorting the air around Meng Dan. His eyes widened, and his technique faltered. Observing him carefully, she finally discerned what he was doing.
+
+Calculation. Flowing smoothly as water, there was a stream of calculations, a multithreaded current of equations, in which he rapidly performed alterations. It revealed everything in her technique as calculations, and then, Meng Dan gave the numbers, momentum, force, or velocity, a nudge. He wasn't reacting ahead of what her constructs were doing; he was infiltrating her technique and altering its properties on the fly so that the constructs failed to strike him.
+
+The crow Sixiang was in went silent, erased as if it had never been. Meng Dan's fan was raised toward where it had been.
+
+"Oh, that boy's got a pretty strong disruption technique. I had to jump outta there or it mighta shoved me all the way back across to the other side."
+
+"It seems our friendly muse is now riding these constructs. Not a trick we've seen before," Meng Dan announced calmly, flicking his fan back into position
+
+One card to reveal another. That was just how battle worked.
+
+Meng Dan's technique was likely most effective on persistent objects. Techniques that happened instantly would likely be more challenging to alter.
+
+Ling Qi rapidly rocketed downward to avoid the slash of Xia Lin's spear as the field shook with the almighty boom of her bear construct being heaved down to earth after being lifted over Gan Guangli's towering head.
+
+She called her wolves back around her, circling as the wind whipped and rose, their howls a background to her song. A sidestep carried her out of the arc of Xia Lin's halberd, and she turned sideways to evade the sweeping kick.
+
+Her eyes flicked to Meng Dan as she felt a twinge through the fresh sliver of qi embedded in her own. She smothered it a bare moment later, but she felt the ripple of the change he had made to her qi, altering the cycle to slow the movement of her right foot and disrupt the activation of dance into the liminal.
+
+"No!" Qiyi's voice rang in her mind, and silk hardened to the consistency of adamant beneath the crash of the halberd blade, which screamed as if it were hundreds of reverberating blades trying to carve through rather than one.
+
+She wrenched back control of her technique, and she was gone. A brief impulse set her hounds on Xia Lin, who cut down two in seconds, before the third got its jaws on the haft of her weapon, slowing her for a few crucial seconds.
+
+Her friends were not going to give her any time to think if they could help it.
+
+Her eyes fixed on the fallen bear, struggling to rise. She saw now some of the flaws in her technique execution. It had been solid, but not quite perfect. She could do better.
+
+The demise of the Bear God was not the arrogance of the eagle, the betrayal of the wolf, the self-destruction of the vermin, or the entitlement of the river. The demise of the Bear God had come through apathy, probably the most divergent from the song's theme.
+
+Implacable. The power of the Bear God was the power of an uncaring force, like the advancing wall of a storm, the rumble of the quaking earth, or the burning cruelty of the high sun amid a drought. A power that could not be directly confronted.
+
+She had explored such themes in the song of the glacier’s march, toying with implacability. Ultimately, she had chosen more flexible themes. However, she still remembered how that tune went and adjusted her song accordingly.
+
+Power was the ability to enact or resist change. And of all the verses of this song, the Bear God was most purely power.
+
+Correcting the flaws that had marked the verse the first time, Ling Qi played the refrain.
+
+The surge of qi rose from deep in her dantian. Her well of energy had been a deep one since almost the beginning, building and building, but this use of the technique proved a significant draw even for her.
+
+The fallen bear bellowed, surging to its feet to the surprised shout of Gan Guangli. Ling Qi heard the boom of Xia Lin's movement and felt the ripple in the air as she approached. And this time, she didn't dodge.
+
+The Bear God's paw slammed down, and Xia Lin's halberd arced out to carve through dense brown fur and rebounded, forcing her to skid back, feet and fingers digging furrows in the earth.
+
+"Ohhh, I wanna try that one later! You'll let me, won't you?"
+
+Unless she got brought down first, she would. In the bare moments that the Bear God’s smash had brought her, fresh wings beat the air, and fresh paws stirred the earth. She moved rapidly into the marching refrain that repeated throughout the play, representing the advance of beast gods on Xiangmen, and the field flooded with black fur and black wings rimed in ice.
+
+Beneath fur and weather, patches of scale gleamed. Disruption was the name of the game. While she couldn't contest the domineering light of Cai Renxiang's techniques, she could contest her peers' techniques and qi and drain them away. Even if fang and beak couldn't penetrate their defense, the phantoms could wick away their qi if not defended against.
+
+First, however, a distraction.
+
+A pack of wolves howled. The sound, a piercing shockwave flooded from her outstretched hand and open, swooping sleeve like a river of mist and fangs. Xia Lin was forced to stand her ground against the wall of sound, planting the butt of her weapon in the earth and setting her feet, cratering dirt and sending cracks spiderwebbing out.
+
+A flock of birds screamed, swarming around Gan Guangli's head, pecking and clawing at every crevice in his armor while other beasts nipped at his feet. Each swipe of his hands obliterated a dozen phantoms, but it was still an opportunity.
+
+The resurgent shadow of the Bear God coalesced, and it charged Meng Dan. His technique for disruption could only make small tweaks and changes. Though she didn't think it would be his only one, that defense, at least, could not alter the course of the massive wall of fur and muscle bearing down on him.
+
+"Oorraaaa!"
+
+Ling Qi blinked, almost missing a note. Gan Guangli, now over six meters tall, barreled into the path of the hill-sized bear she had summoned, one shoulder downward, his shout shaking the earth as much as the bear’s charge had.
+
+The shadow of the bear god should have been unstoppable, nearly immune to being damaged or diverted by any force of less potency than her cultivation, and Gan Guangli, at least currently, was her lesser in cultivation. His feet were pushed back through the dirt then slowed.
+
+Light flooded from every gap in his armor. One golden hand materialized over his head, then a second, a third, and a fourth, slamming down to grip rough fur. For a short distance around him, her mist withdrew, shrinking from the blazing light of a painted dawn.
+
+Power clashed with another concept.
+
+Heroism.
+
+A hero was not pushed back. A hero did not surrender. Impossible was just a word.
+
+Again, her construct was thrown back, and she dematerialized it rather than let it crush her. She reappeared in midair, letting out a mournful call of the verse's end. She wouldn't be the only one with a domain that broke the rules of how things should work.
+
+That was what those who sought the higher realms did, one and all.

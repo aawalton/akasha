@@ -1,0 +1,167 @@
+---
+id: 5e717d7a-07f3-5dad-9b9d-a34eebe6f439
+page-type-slug: story-chapter-royal-road
+title: "Threads 477-Grudge 1"
+slug: 0522-threads-477-grudge-1
+partOf: forge-of-destiny
+position: 522
+ownLength: 1992
+unit: words
+publishedAt: 2025-10-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2647198/threads-477-grudge-1"
+royalRoadId: "2647198"
+---
+
+AN: Trigger Warning
+
+Mental Anguish and implied miscarriage
+
+The scents were different, but somehow all too familiar. Floral incense that masked earthier odors was a mix she would never forget. But it was cleaner here, a faded scent drifting from the laundry rather than suffusing every breath of air. Wood polish and pricy wine were the scents du jour there.
+
+And why would it be otherwise? She, Ming Xia, was no low class mortal piece, but a work of art, a beauty great enough to be allowed a few precious spirit stones, which would preserve her exquisite beauty for a hundred years and more.
+
+Her darling Wei Jun had told her so. And any day now, he would receive his promotion to the fifth rank of the ministry and take her away from this sordid business. This, too, he had sworn to her on a dreamlike journey out beyond the roots, standing under the full moon.
+
+Ling Qi's consciousness spasmed, peeling away from the identity of this other woman. She was not some climber, a concubine who hung her worth on who she… / Ming Xia hugged herself. From whence had come this awful cold and creeping revulsion, as if she should be ashamed of her own skin, her beautiful voice, and many talents? Why would she—?
+
+Colors blurred, a spike of pain throbbed in Ming Xia / Ling Qi's head.
+
+The vase rocked, and her fingernails punched through the polished wood of the tabletop, crackling with shards of growing ice / Ming Xia pressed a hand to her temple. This awful headache!
+
+"Oi, oi! Qi, don't yank so hard! You'll break something!"
+
+Sixiang's voice took her from a panic / The warm breeze coming from the gate soothed her head and stole the chill.
+
+Ling Qi forced herself to calm / Ming Xia resumed her walk through the courtyard of the brothel.
+
+She… She. Was… I was Ming…
+
+She was Ling Qi, riding behind Ming Xia's eyes.
+
+Colors settled, pain receded, and the ache in her spirit became a twinge, more akin to a pulled muscle than a limb being torn off. She was not Shu Yue. She could not become another person.
+
+Not if she wanted to come back from it.
+
+There was not a whole person in this vase, but the mask it held was detailed enough to become her face if she wasn't careful. Already, she had slipped up and gone too deep too quickly. There were filaments of Ming Xia running through her spirit and anchored in her meridians.
+
+At least, she understood the first point of this exercise. A whole person could have swallowed her up far more easily, even with her techniques. She appreciated far more the nuances of her own method.
+
+Now, she had a chance to learn better how to escape from too deep a dive.
+
+“I gotcha, Qi. It'll be no different than combing out the tangles, yeah? No one knows better whats you and whats not.”
+
+Ling Qi had missed being able to rely on Sixiang, but after the tribulation with the Emerald Mourner, it wasn’t the same. She watched Sixiang’s work, observing the touch upon her mind and spirit, where she bled, where Sixiang bled, picking at the thorns there. The knowledge she had earned in the Nightmare King's dream was not something she could forget.
+
+And she shouldn't. Trusting someone so deeply…
+
+“Please. I need to focus on keeping the distance between myself and the mask steady.”
+
+Too far, and she would rip her meridians. Too close, and she would be Ming Xia again. She had to stay as she was, like a swimmer just skimming under the surface of the water. It felt like she was trying to hold a house over her head.
+
+Despite everything, she still trusted Sixiang.
+
+Ming Xia shook herself again. There it was again, that strange ache. She'd been having those more of late, flashes of heat, soreness, and more. She had not said anything yet to the madam. Surely, she was only a little ill. There was that illness of the stomach that had gone around, hadn't there? Yes, she had probably consumed something made from the tainted shipment that had caused that. A trifle. Nothing to worry anyone over.
+
+Especially if it would make her late to her meeting with her beloved.
+
+Ling Qi felt a sick churning in her stomach. She could smell the self-deception in this mask like the stink of rotting meat. But that was not the real thing that made her so uneasy.
+
+Love. Deep, unthinking, total infatuation. It felt like being immersed in tar, or perhaps honey for its eye-watering sweetness. She felt her spirit recoil whenever Ming Xia's thoughts went to this Wei Jun. She had thought of men as handsome before. She had even felt the stirring of something more when Meng Dan spoke or when Xuan Shi had made his earnest plea by the lakeside, but this felt almost like drunkenness, like she had just downed a wineglass of unwatered delusion nectar, rather than a thimbleful.
+
+Unconditional. Without doubt.
+
+As she struggled to stay in that narrow band of safety beneath Ming Xia's face, and she met the man through her eyes, her own senses told her that he was tipsy with it, too, although far less drunk than Ming Xia was. A woman who was only barely awakened could not see that though.
+
+They were so sickeningly happy.
+
+"C’mon, Qi, that's a bit much even for you."
+
+Ling Qi separated herself as much as possible from the sensations. Lips and… and…
+
+Improper. Beyond improper!
+
+That wasn't the problem, though.
+
+Sixiang didn't reply. They knew, too. They might not be a nightmare of tragedy like their cousin, but they knew that that vase was not a container for happy masks. It was a vessel for a grudge. Or maybe, that was the point. Ming Xia’s grudge did not bother Sixiang in the same way.
+
+Their silence felt uncomfortable, almost guilty.
+
+"People fall apart. That's part of me, yeah. 'S why I'm not scared. Even if this Ming girl were still alive, I'd take her apart from the inside out and pull you free of her, if it came down to it. This? Spooks can get mad that I broke their vase later, if that's what you need."
+
+She didn't quite know what to do with the cold edge that had crept into Sixiang's voice. Not yet. Sixiang was deft enough that they didn't need to be crude.
+
+Ming Xia's life played out before her eyes in snippets and swatches, patches of clear bright memory appearing like festive lanterns on a river of muted and blurred sensations. Other moments of life passed by, forgotten.
+
+Ming Xia was not a stupid woman. She was a merchant’s daughter whose father had fallen on hard times. She was educated in her way, with a wit and charm forged in need. She entranced her clients, raised her status, and became the sought-after prize of the district, the house's most exclusive.
+
+She didn't feel the horror and shame Ling Qi did at the thought. She was happy with her accomplishments and proud of her skills.
+
+Everything had changed when she had met Wei Jun. He was not her highest rank client, for all that a law clerk of the sixth rank was not a low position so far as the rootways were concerned.
+
+Speaking with him was just a joy. He was neither a brute nor a meek man, and appreciated all of her talents. She could admit, before they had met, she had begun to feel she had plateaued. While she would not age as mortal women did, there was still a point where she could rise no higher.
+
+Wei Jun… Despite everything, she felt a nervous flutter in her stomach when she thought of the odd bouts of sickness she had felt in the past months. Her suspicion had grown into knowledge.
+
+She was certain she had kept up with the right dosages of her teas. There must have been a problem with the preparation of the leaves.
+
+Ling Qi felt like she was immersed in ice. That feeling was one she had never, ever really considered, and even now, the mere thought sent fluttery, panicked thoughts winging down the corridors of her mind.
+
+Lesson the second. Even barring active attempts to repel her, it was all too easy to learn of information that would put her viscerally off-balance in the thoughts of others. She needed to be able to face that and still keep the thin skein of distance when she rode behind another's eyes.
+
+"The department head has been very pleased with my work of late, Xia. He has said I would make a fine vice head one day, with only some tutelage. My chance has finally arrived."
+
+Elation, buzzing in her chest, the bloom of happiness.
+
+"That is wonderful, Jun. I have always known that your merit would be recognized soon," she said adoringly.
+
+Reading her clients clearly was the root of her great skill and acclaim. The rush passed, and her smile wavered. His eyes were downcast.
+
+My chance. Always before, it had been “our chance.”
+
+Trepidation was like a trickle of icewater down her spine.
+
+"He has introduced me to his daughter. She is a fine woman in every way, if not half so lovely as you, Xia."
+
+Her throat closed.
+
+"There is no place in the upper ranks of the ministry for an unconnected man. I have been made to see that truth. Allowing me to become connected is a great kindness."
+
+Her Wei Jun sounded so terribly sad. But she did not want that! She did not want…
+
+"Jun, I have missed three moonflows, as of this last week."
+
+She did not know why she said it then. She did not know what she hoped saying it would do. He looked up sharply at her across the tea table. She saw panic, confusion, and a dozen other feelings. None of them were the happiness she wanted to see at the revelation.
+
+"What?! You cannot be! The house guarantees against that. The medicinal teas…"
+
+She squirmed in place, alarm and cold filled her chest. "There must have been an impurity in the leaves," she whispered.
+
+Desperation and alarm, heating up. "Xia, this is the only chance I will have! You must—"
+
+"Must what? Surrender you to some higher born twit?"
+
+It was the wrong thing to say. She knew that before the words had finished leaving her lips.
+
+Accusation. Anger. And rationalization. She opened her mouth to deny the words she already knew were coming.
+
+"An impurity in the reagents? Very convenient."
+
+"Jun, no, I would never have!"
+
+Ling Qi peeled herself back from the conversation, feeling like she wanted to vomit. This was far different than viewing memories as an outsider.
+
+"Sixiang, please tell me you're making some progress."
+
+"Hey, I’m getting there. You can feel it, right? Got a bunch of the tangles undone.”
+
+She could. The fatigue of holding herself at the right distance as she was drained relief from the sensation but, now that she spent a moment, she could feel less stinging anchors in her spirit. It was what let her pull herself away from Ming Xia's gut-wrenching self-recriminations.
+
+Her own weakness aside, this didn't seem the most awful. This was supposed to be the root of a hate that could drive a person to self-destruction?
+
+"Qi, you're just tempting Gran and Gramps like that. You know better."
+
+Illness. Fever and heat and trembling limbs and an awful stabbing agony in the stomach. Blood soaking her sheets and trembling thighs.
+
+A whisper heard through a carelessly cracked door in the middle of a feverish fugue.
+
+"Good that her health wasn't impacted. Imagine upsetting a client like that out of stubbornness. You can report that the dosage was enough, and we can put this unpleasantness behind us."

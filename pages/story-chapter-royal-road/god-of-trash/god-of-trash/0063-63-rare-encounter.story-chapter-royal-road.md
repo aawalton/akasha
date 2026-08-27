@@ -1,0 +1,227 @@
+---
+id: 4b97e613-cb86-56a5-95b0-2824fa8865d6
+page-type-slug: story-chapter-royal-road
+title: "63. Rare Encounter"
+slug: 0063-63-rare-encounter
+partOf: god-of-trash
+position: 63
+ownLength: 3944
+unit: words
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2250154/63-rare-encounter"
+royalRoadId: "2250154"
+---
+
+The morning came too soon. Rhys stretched and sat up. He hadn’t made much progress in his intent skill, but he had progressed a little, enough that he needed a visit to the trash heap to repair his body. He made a quick detour there and repaired his body, washing off in the stream afterwards. As he climbed out of the water, the raccoon who’d shown him the stream edged up to him. It grabbed his robe and tugged it once, twice, then nodded into the forest.
+
+Rhys smiled. He nodded back. “I know,” he whispered, though he was impressed at the raccoon’s senses. It was barely at Tier 0, but it could sense what he had to struggle to sense at Tier 2.
+
+Then again, it’s a wild beast. Of course it would have stronger senses… that, and it probably didn’t start as trash. As though he hadn’t noticed a thing, he adjusted his robes and walked on, heading into town again.
+
+Today, he had one goal. No, two goals. The first one was to attend a forging class and figure out how to repair that valuable cauldron he’d found in the trash. The second one… well.
+
+“Are you done? I know you’re there,” Rhys said, looking over his shoulder. He caught a glimpse of dark robes before the figure darted away, and sighed aloud. “Come on. Why don’t you get down here? I know you’re there, so there’s no point for us to keep playing this game.”
+
+A blur flashed through the air, and a Purple Dawn student materialized in front of him. To his surprise, he recognized them, and his jaw dropped. “Mouse?”
+
+“Er…I’m sorry! I didn’t want to do it! They made me, they said, they said, I was so quiet like a mouse, so I might as well be the one who—I’m so sorry. I didn’t want to follow you, I had to!” She bowed repeatedly to him, hiding her face behind her hands and her heavy bangs.
+
+“No, no, it’s… not okay, but I can overlook it.” No matter what, Purple Dawn was going to send someone to follow him. He’d already accepted it. Honestly, he had to thank them for the giant throw of putting Mouse up to the task. He supposed it made sense. Her peers looked down on her and devalued her, as if she were trash. Of course she’d get the shitty task of watching the trash disciple of Straw. That did bring up a question, though. He cleared his throat. “Did they tell you why you were following me?”
+
+Mouse shook her head hard. “N-n-no! Ethan knows, but he said a little mouse like me doesn’t need to know. I-in fact, he said it’s better if I don’t know.”
+
+Rhys nodded. That made things easier on him. If she didn’t know why she was following him, it would be easier to escape her watchful eyes. Of course, it was very possible that she was lying to him, and she knew exactly why she was following him, but he was willing to take that chance. He’d seen the way Ethan treated her, so he wouldn’t be surprised if she really didn’t know. If she did, then… it changed nothing. He’d planned to treat her the same regardless of her response, so he’d really only asked for his own information, but it really did sound like she didn’t know.
+
+He glanced into the forest once more, but said nothing. That was for later.
+
+Turning back to Mouse, he nodded. “Shall we?”
+
+“Er—together?” she squeaked.
+
+“Well, you’ve got to follow me, right?”
+
+“I…but you discovered me.”
+
+“Ah, that’s fine. I don’t mind. I expected it. No, no, I like you, Mouse. Stay with me. You’re trash like me,” Rhys told her.
+
+“W…what?”
+
+“No, no. It’s a good thing! You can help me out like this, too. Your school has a forging class, right?”
+
+Still a little lost, thrashed back and forth by being discovered, then Rhys not minding, then being called trash, but told it was a good thing, Mouse blinked for a solid ten seconds, only to snap back into place as she landed on his last request. “Forge! Yes. This way.”
+
+They didn’t have far to go. The forge class was on the fringe of town, near the other tradesmen; the actual blacksmiths, silversmiths, tanners and woodworkers. A group of burly students hammered away at metal, shaping the metal into a sword, while the lecturer gave pointers. Rhys stood in the back of the class, listening to the man’s suggestions. He didn’t take up the hammer or take a slug of metal for himself. That wasn’t his objective. Instead, he wanted to learn the fundamentals of forging, so he could adapt it to trash for his own purposes.
+
+For all that, the man’s class wasn’t particularly useful today. He was teaching how to hammer and work warmed metal, not melt down cold metal and smelt it into something stronger. Still, he listened earnestly. There was always something to learn, even if the class wasn’t directly applicable. He did understand the absolute basics of forging—melt the metal, add something in or pull something out, cool it. For iron, add carbon to form steel. For gold, burn off the impurities to create higher-quality gold. Specifics like temperatures or proportions, though, he lacked.
+
+He wasn’t learning them here, but he at least learned a lot about tempering metal. Like that he shouldn’t quench it in water immediately after heating it, for one. Thinking back on it, it did seem kind of a stupid thing to do. Heat water in glass, then fill it with ice water, and it would crack. Metal was more elastic than glass, but not by much, and when he thought all the way up to rubber, well, rapid temperature variations had once brought low the rubber O-rings on a space-bound vehicle hadn’t they? No matter what it was, heating something, then cooling it rapidly, almost always induced fragility as the temperature stressed the material. It was very cinematic, he supposed, which was why movies always had their blacksmiths do it, but not particularly practical.
+
+A rather trash technique, Rhys thought, then pinched his chin. Was it possible that, in the future, when he enhanced his comprehension of trash, he could use deliberately bad techniques to actually strengthen materials, even though they were meant to weaken them?
+
+A thought for later. He was still far too lacking in his comprehension of trash to accomplish such a thing. For now, it was best to stick to the basics. After all, one had to learn the rules to break the rules.
+
+The whole class, the instructor completely ignored Rhys, treating him as though he didn’t exist. Someone else might have been insulted, but for Rhys, who had accepted his role as trash, it was water off a duck’s back, or a single extra empty can on the top of an overflowing garbage can. He hadn’t expected, nor desired, any special attention. In fact, if the instructor had acknowledged him or given him special attention, he probably would have felt far more uncomfortable.
+
+He glanced at Mouse, then startled. Mouse! He’d totally forgotten about her. Or perhaps the better thing to say was that she’d slipped his mind? He hadn’t forgot she was there, but simply disregarded her as unimportant despite knowing she was his all-important tail. Putting the class to the back of his mind for a moment, he watched her instead from the corner of his eye, quietly observing his quiet observer.
+
+Mouse stood against the wall, staring into the middle distance. She barely moved, her limbs all close to her body as if to occupy as little space as possible, despite the fact that she was far out of anyone’s way. Her chest barely rose and fell, even her breathing quiet. With every breath, she drew in the ambient mana more strongly than Rhys had known anyone to, save when he himself was burning trash.
+
+Rhys’s eyes widened. He lit up, excited. This was it. This was her path. Hidden in plain sight. To be within a space, yet not occupy it. To be surrounded, yet alone. He couldn’t put word to it, but he didn’t need to. It wasn’t his path. It was Mouse’s.
+
+He scooted over. She startled at his approach, as surprised for him to approach her as he had been to find her suddenly out of his perception. He nudged her. “Do you realize what you’re doing?”
+
+“I-I’m sorry, I shouldn’t—”
+
+“No, no, you should! This is your path. I don’t know what it is, but I know that it’s yours and yours uniquely. You’ve struggled to progress the ordinary way, right?”
+
+Mouse hesitated, then ducked her head, almost afraid to admit it.
+
+“Try to lean in to what works, rather than listening to other people’s idea of what’s supposed to work. You’re only trash so long as you let other people call you trash, Mouse. To have the calling of a path this early is a rare thing, and if you chase it, you should be able to surpass those who can only progress by following someone else’s instructions. Think about it. If you know how to strengthen yourself, doesn’t it make sense that you’ll progress faster and stronger than waiting for someone to tell you how you ought to progress?”
+
+Mouse tensed, thinking deeply. Her head lowered, leaving her glasses as nothing but an unreadable blaze of light. “M-my own path?”
+
+“Your own path,” Rhys replied.
+
+She looked at him. “Why would you tell me this? I… if you’re someone who must be followed, then, doesn’t that, aren’t you—an enemy?”
+
+“What? Don’t be ridiculous. I’m not an enemy of your school,” Rhys said, shaking his head. He was Ernesto’s enemy, and he was the enemy of anyone who stopped him from retrieving Straw, but until Purple Dawn actively stood in his way, he wasn’t going to consider the whole school his enemy. Well, he probably would have to fight the entire school once he broke Straw out, but Rhys wasn’t hasty. Nor was he foolish enough to think that every single student, to include the powerless ones like Mouse, was actively involved in Straw’s capture and subsequent imprisonment. Ernesto and his class were probably unforgivable, but Rhys wasn’t an upright and moral person who would turn down favors from an enemy, whether they took the form of a lesson or whatever else.
+
+He was trashy enough to turn the other cheek for now, as long as he could receive benefits, only to turn about and kill them to the last man later. It was rat bastard behavior, and he knew that well enough, but he’d come this far in life by being a rat bastard, and he wasn’t about to stop now. Many times, he’d put up with bullying if it meant he could get an extra snack at lunch, only to out the bullies to the teacher once he had enough evidence to take them down once and for all. This was no different. People outside of his situation might call him an asshole for acting this way, but when he stood in a position of weakness, he had to use what little he could against them. Even if that meant bowing his head for a bit and becoming their lackey, or humbling himself to learn from those he hated and would later treat as enemies, then so be it.
+
+Of course, if Purple Dawn did not become his enemy, he’d be quite happy with that, too, but considering Straw’s origins as a left-behind ultimate weapon of a fallen Demon King, he didn’t think they’d just smile and let him go. No worries, take the terrifying weapon, we don’t mind! Haha, what’s a continent-rending cursed weapon or two between friends?
+
+He didn’t see Straw that way, but he wasn’t the one he had to worry about. It was the Alliance and Purple Dawn he had to worry about.
+
+Rhys let out a slow breath, running back his hair as the enormity of the task before him made itself clear. Not only Purple Dawn, but the whole Alliance would oppose him freeing Straw. When he rescued the man, he marked himself as the ultimate enemy of the entire region’s most powerful armed force.
+
+He chuckled under his breath. Never was one to set my goals low.
+
+“Er… Rhys?” Mouse asked, tilting her head, and Rhys suddenly became aware that he’d stared off into space, then chuckled to himself darkly after a long period of silence. He chuckled again, lighter this time, and rubbed the back of his head. Not my best non-villainous act.
+
+He waved, dismissing his own behavior. “Sorry. I was lost in my thoughts. I think I’ve learned everything I need from this class. Shall we head to the library?”
+
+“The library? I thought you wanted to learn forging,” Mouse said, confused.
+
+“Exactly.”
+
+“What are you going to find in a dusty pile of books like that?”
+
+Rhys squinted at her. “You know, I would’ve taken you as a library-loving girl, but I guess I shouldn’t judge books by their covers.”
+
+Mouse shook her head. “I-I do like the library! It’s just that, that, libraries don’t have much to do with forging, do they? Isn’t forging metal all about fire and hard work?”
+
+“I’m about to make a mockery of earnest forgery, so why not go about learning it backwards by sitting in a dusty library?” Rhys pointed out. He was dealing with trash to begin with. If he burned it down, if he melted it and ruined it, then it would only continue to be trash, rather than degrade in quality. True, the cauldron was a great find, but if he saved up coin from growing herbs and creating purified ash, he could doubtlessly buy an equivalent, or better, cauldron.
+
+The point wasn’t the quality of the cauldron. The point was that it was trash, trash that he could take and freely make it his own without any inhibition toward potentially destroying something valuable. He was going to fix it through trash, and forge something better… or at least, as good as it had been to begin. He’d take that as a starting point.
+
+Mouse’s jaw worked, but she couldn’t come up with an answer. She gestured. “This way to the—”
+
+“I remember.” Rhys took the lead, beelining to the library.
+
+Mouse followed. “You remember already?”
+
+“Why wouldn’t I?” Even if he was mortal, he would have been able to do that much.
+
+“W-well, I just showed it to you for a second yesterday. I wouldn’t have remembered.”
+
+Oh. That was reasonable enough. He supposed he might not have remembered, if it really had been no more than that, but he’d dropped Az off there, and leaving his friend somewhere was notable enough to him to remember it. It wasn’t that unreasonable to remember it, either. I wonder if Mouse struggles with directions? She seemed fine enough yesterday…but presumably she’s lived here for years, if not decades. He waved his hand. “I have a good memory for places.”
+
+She nodded, an uncertain look in her eyes, but followed along anyways.
+
+In any case, he didn’t want to mention his association with Az. Even if Mouse was kind of adorably incompetent about following him, she was still following him. Anything she saw, she might report back to Ethan and his masters, whoever they were. Ernesto, presumably, but who knew? Like he’d just realized, he could be considered an existential threat to Purple Dawn and the Alliance if he was working to rescue Straw, the same way someone who tried to steal nukes in his world would be considered an existential threat. If he was Purple Dawn, he’d watch him, too.
+
+The real miracle is that I haven’t been killed yet. Presumably, they take that step the second they have evidence that I’m attempting to break Straw out.
+
+So of course, I won’t let them find that evidence.
+
+And that included having a strange rapport with the tuxedo cat that hung out in the library and enjoying the company of a small mammal, rather than meeting Az as a friend. Between Az and the rats, his association with Az was way easier to discover. In truth, he didn’t plan to involve Az in Straw’s rescue at all. Az didn’t deserve that, and besides, the man was quite powerful enough to prevent himself from being involved if he didn’t want to be. Rhys had the sneaking suspicion that any attempt to involve Az against his will would result in his sudden and untimely death at the small claws of an unidentifiable yet savage beast. No, instead, he was using Az as a demonstration of his deep and abiding interest and strange, undefinable bond with small (woodland) creatures.
+
+Basically, he was going to use Az as his classic princess sidekick.
+
+It was pretty simple in his mind. Everyone accepted that Disn—classic princesses communed with animals, sang and danced with them, but why? Looking at the root of the connection, it was obvious. From the classic Grimm fairytales to the modern multicultural princesses, their connection with animals always began with an animal sidekick. Once they established that they had rapport with their small, furry sidekick, they were then given an open license to commune with any number of small woodland creatures with no further explanation. Sure, Az was a tuxedo cat and not, for example, a mouse, a rat, or a raccoon, but he didn’t want to start from the rats, when the rats were such an important part of his plan, and he didn’t know the raccoon well enough to be sure it would cooperate. Ideally, Purple Dawn would never find out about the rats at all; but in case they ever did, this moment, right here, would defend his strange connection to animals forever.
+
+He opened the library door, looking down. “Good mor—”
+
+“Can I help you?”
+
+Black shoes. Skintight black leggings. He looked up, up, up, to the top of long legs and a tall, slender torso, to find the very human version of Az standing primly before him, a pile of books in one hand, the other hand carefully positioned to hide their titles. Rhys glanced at the spines, and his suspicions were confirmed. Internally, he sighed. Never change, Az.
+
+Then again, male cats were always horny as hell, so he didn’t know what he expected. Az was born a cat. Who knew if he’d ever been taught human social norms? He at least knew to hide the titles and be ashamed of reading them, so at some point he’d figured some of it out, but…
+
+Well, there’s mysteries to this world that I’ll never discover. Mysteries lost to the sands of time.
+
+He nodded at Az. “I could use some books on forging.”
+
+“Do you know they lack almost all novels in this pathetic excuse for a library? I had to raid the banned books they’d stolen from the students to find this measly handful,” Az informed him, lifting the books to show him the lower titles on the pile he held, which where significantly less racy than the upper half of the stack.
+
+Mouse glanced around. Nervously, she cleared her throat. “Er, sir, um, excuse me—”
+
+Az turned his head. Unblinking eyes with big round pupils stared at Mouse.
+
+She trembled visibly, but persevered. “Um, wh-where are the ordinary librarians?”
+
+“They took an unexpected leave of absence when the pitiful state of their collections was brought to light out of shame for their pathetic mismanagement and their all-encompassing and totally illegitimate efforts to stamp out student enjoyment in any form of literature.”
+
+“Y-you… they… um…”
+
+“They will survive the ordeal, but hopefully with a renewed vigor for preserving and promoting books of all descriptions, not merely musty, flavorless tomes.” Az finally blinked, one short and deliberate motion. He turned to Rhys and blinked again, but this time, it was slow. “What were you asking for, again?”
+
+“Books on forging. Well, some fresh novels would be nice too, but it sounds like you don’t have those,” Rhys added.
+
+“Unfortunately, no. However, I can provide you with stacks of tomes on the topic of forging.” Az turned. He waved his hand, and a half-dozen books lifted off the shelves and floated down to hover in front of Rhys. Rhys held his arms out, and the books thumped into them.
+
+“Wh-what did you do to the librarians?” Mouse demanded. She shook, but stood her ground.
+
+Rhys sighed silently. No, he understood. He wouldn’t just stand there if some mysterious figure had showed up in his school and took control of an institution with no explanation.
+
+“Nothing. I reminded them of the truth of finding pride in their work.”
+
+“Who are you?”
+
+“A librarian. My name is Azarian.”
+
+“I’m g-going to t-t-tell the Sc-sc-schoolmaster!” Mouse threatened, shaking like a leaf.
+
+“Excellent. I look forward to a commendation.” Az turned and wandered off into the library, totally disinterested in her threat. He paused. “What’s your name?”
+
+Pale, but nonetheless standing her ground, Mouse replied, “M-mauve, but everyone calls me Mouse.”
+
+“Hmm. I suppose Mouse is slightly less challenging. Tell me, Mouse. Do you have any interest in houses?”
+
+“I… what?”
+
+Rhys tilted his head, playing dumb. “Er, is he… not the ordinary librarian?”
+
+“He did something to the librarians!”
+
+“They are unharmed.”
+
+Rhys gestured. “That, uh, sounds fine to me?”
+
+Az shrugged as he resumed walking away. “For the most part.”
+
+Mouse’s eyes got bigger than ever.
+
+Rhys put his face in his hands. He took a deep breath and looked up. “Look, I don’t know what’s happening, but he gave me the books I want, so I’m going to go chill down in the garbage pit. You go tell your Schoolmaster whatever you need to, you two figure this out, and I’ll see you later, okay?”
+
+Mouse nodded. She backed away to the door, then whirled and fled.
+
+Rhys looked at Az. He shook his head. “You were supposed to be my princess sidekick!”
+
+“Don’t worry. A small sect will be grateful to have an expert of my caliber around,” Az replied, completely unworried. He reached the library desk, in the rear of the building from the front doors, and plopped down into a plush chair, already digging back into one of his risqué novels. He glanced up. “And what the hell is a princess sidekick?”
+
+“…Don’t worry about it.” Rhys headed off, waving his farewell.
+
+He hadn’t achieved his objective—an alibi for him speaking with animals—but he had obtained something almost as valuable: moments of freedom, outside of the vision of Mouse’s watchful eyes. And that meant that his plans had to change order, just a smidge.
+
+It didn’t take long to reach the forest again. He wandered in deep, until he could sense no other humans around. Only then did he finally turn.
+
+“Heyo. You ready to come out now, or do you want to wait until my tail gets back?”
+
+A voice sounded from behind him—what would have been in front of him, before he turned. “I’ve been ready for a while, but you’re a busy man. Hard to catch alone.”
+
+Rhys whirled. A white-robed figure stood there, wearing a pure white mask, save two dark eyeholes. “Who are you? What do you want from me, Solaire?”
+
+The figure paused, then chuckled. “Using my formal name? How cold. I thought we were closer than that.” He lifted his hand to his face and grasped the mask.
+
+Rhys held his breath. No way. Could it be?

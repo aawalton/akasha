@@ -1,0 +1,125 @@
+---
+id: 90a1016f-8adb-550d-b3e8-5af28be70016
+page-type-slug: story-chapter-royal-road
+title: "Threads 273-Grudges 4"
+slug: 0311-threads-273-grudges-4
+partOf: forge-of-destiny
+position: 311
+ownLength: 2173
+unit: words
+publishedAt: 2022-12-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1074396/threads-273-grudges-4"
+royalRoadId: "1074396"
+---
+
+Ling Qi took the central path, straight on toward the target. The old veteran and one of the officers went left, and the Ministry official and the others took the right. But all remained in her mist, and though she could not see them, she could feel them each and every one.
+
+She took a steady pace into the frozen growth of the sewage tunnel, and a winking coin of silver light preceded her, sent spinning ahead into the dark, a probing eye. What she found was an extension of what they had found in the crater, suffering, maddened vermin grown cancerous and fat and strange and alien growths spewing impurity into the air. She sang softly to herself, the whisper of a coldsnap that ruined the fields come spring, and all withered before her.
+
+These were not old growths, she could tell. The ministries and government of the city had not been that unobservant. She could also tell from the fresh cracks in stone from growing roots that these were unnatural growths, grown in minutes and seconds.
+
+<Do you want them burned, Big Sister?> Zhengui asked in her mind.
+
+Later, she thought. She would let him out when they arrived at the cistern.
+
+She cast her senses to the others in her group. She felt the roiling smoke as the veteran stalked ahead, a makeshift mask over his face as he burnt the growth in his tunnels with dull red and orange flames. In the other tunnel, a rolling ring of wet brown earth smoothed and drowned the poison, hardening into sealing clay behind the cultivators’ advance.
+
+And all around in every tunnel, her phantoms stalked, watchful and wary. It was not a raucous revel, but there was laughter, cold and mocking, echoing in the dark in scattered titters that faded in and out of hearing. This was no drinking party or dance, but a hunt. There were many ways to revel after all. This one suited her current mission best.
+
+<You’re wrong. You can be mad now and laugh later. There’s no contradiction there,> Sixiang chided gently.
+
+This was probably why it had taken her so long to wrestle the Dreaming Moon’s art into a version that really felt like it fit her. She was looking at it wrong, seeing only the surface of the art. In the end, the wild revelry was only one expression of the concept at its core.
+
+Disruption.
+
+Just as her visit to the Dreaming Moon had jolted her on her way and would have broken it, even driven her mad, if she’d not withstood it, so, too, was the heart of the art. Motion. Chaos. Disruption. The light and the noise confused the senses, the grabbing phantoms broke formations, the shades of futures-not-to-be sent her enemies’ plans askew, and the empowerment of her arts allowed her to force a change in a conflict’s tempo.
+
+That was the lesson of the Dreaming Moon. Disrupt what is, and in doing so, shape what will be.
+
+The first attack came on the right.
+
+Worms with shimmering skin, all but invisible to mundane and even cloaked from spiritual senses, swam in the sluggish current of the sewer sludge. Slick and gray, the writhing creatures had maws full of barbed hooks. The Mist thickened, her qi pulsed, and darkness like a starless night sky shrouded the men and women who had come down here with her even as Sixiang’s voice whispered a warning to her group.
+
+When the worms burst forth, frothing from the filthy waters, they found three cultivators ready and armored. Techniques flashed in the dark, and beasts squealed.
+
+On the other side, she felt them creeping in a side tunnel, hunched and humanoid figures with eyeless faces covered in gasbag masks, limbs armored in chitin and bone. Dark armor flowed to the veteran and the guard on the leftmost pipe as well. A bobbing, jiving shadow in her mist spun around the corner the enemies hid behind. A goat horned man with a cruel and merry smile, the phantom seized upon the nearest undergrounder and dragged him out into the center to dance the last dance he ever would.
+
+In her own tunnel, Ling Qi found herself confronted with swarming vermin, overgrown and spawning from impure qi. They died, crashing to the slick ground as chunks of putridly colored ice, but amidst the flurries, larger beasts struck out. Worms from the muck and mud launched themselves at her while fleshy plants and fungal growths grasped mindlessly at her. The corrosive impurity laden air ate away at the edges of her qi. She thickened her mist, bolstered her defenses, and continued to move forward.
+
+And so, into the teeth of growing resistance, they advanced.
+
+They pushed through the sewer system as quickly as they were able, and Ling Qi was not the only one who saw the way the stone was beginning to buckle and groan, brick and mortar cracking and corroding.
+
+Ahead, an invisible sliver of silver flew, seeking the cistern. It was soon found. Moldy columns stood in a toxic purple mist, and the area was overgrown with the underground fungus. Three of the six columns had been hollowed out with fetid fungal flesh now packed within. The thickest and most noxious mist sprayed out from those, and the stone trembled, cracking more and more as the growths within swelled with unquiet life.
+
+She saw the figure of another ith-ia, rubbery flesh with pouches strapped to him. He knelt in the waters as if in supplication, his cupped hands holding a smoking handful of some vile incense, the source of the smoke.
+
+“Main target found. Sacrificial constructs are seeded into the columns of the cistern. Enemy is manually activating,” Ling Qi communicated under her breath.
+
+A bubble of muck swelled under her feet, sewer filth stretching like a skin over the churning plague inside. By the time it had burst a bare second later, she was ten meters down the hall, a personal breeze kicking up the hems of her gown and tugging at her hair as it scattered the poisonous fog ahead.
+
+“Bogged down. Enemies generating constructs in greater numbers.” The short, clipped voice of the woman who had followed her from the Minister's office responded back. “Detecting larger movements. Directed. Spatial anomalies in the tunnels.”
+
+So that was why it felt like they were getting nowhere.
+
+“Enemies show little regard for their lives. Creating difficult conditions.” The old veteran’s mental voice crackled like a banked hearthfire.
+
+“Reinforcements?” Ling Qi asked.
+
+A shadowed figure leapt from a crevice in the tunnel, a squirming, humanoid fungal construct with something noxious glowing in the center of its chest. It burst, and the image of the future where she had been disintegrated under the corrosive blast. Ling Qi put her fingers to her temple, focusing on the image from the cistern down the hall, the ebbing shockwave washing ineffectually over the silk of her gown.
+
+“Viscount Xu has been alerted. His two present sons are leading groups to the north and west locations. His sister is leading in the south. Viscount Xu is working to awaken his father, the Patriarch.”
+
+“Our reinforcements!” the veteran growled.
+
+“Evacuation of this district is complete. Forces are being redirected downward. Guard reserve being mobilized for distribution… Visiting noble and retinue volunteers for deployment at our location.”
+
+“Accept,” Ling Qi ordered absently. This wasn’t working. They would get bogged down like this. Those constructs were growing quickly, already emanating third realm qi. “Warn them that killing the ones tending the constructs may empower them further. The arts of the ith-ia revolve around sacrifice.”
+
+She wasn’t obligated to keep on with this story, this song of a desperate push against time and attrition, was she?
+
+Ling Qi warned, “Prepare yourselves for disorienting transport.”
+
+The phantom revelry in the mist was memory and dream imposed on the world. It thinned the line between material and spirit. Her Mist, the expression of her domain, was the same. It was her.
+
+And with the practice she had, it was no longer difficult to grasp the embattled people around her and decide that they were moving venues. Between one step and the next, her Mist grew thicker, the world disappeared into swirling color, and her next footfall fell on the sluggish surface of the cistern’s water. Her allies were around her, staggering and blinking confusion from their eyes.
+
+Steam erupted, its hiss almost enough to drown out Zhengui’s bellow as he materialized in front of her, already in motion. His vast bulk crashed into one of the infected pillars, splintering stone and ripping oily flesh as he trampled the growing thing within and pierced its writhing flesh with a hundred, sharp-pointed roots. She could already feel the rising heat of a purifying eruption.
+
+Sixiang’s voice went out, speaking in her voice. “Focus on the constructs. I will keep the enemy occupied.”
+
+The steam-filled cistern exploded into motion.
+
+Ling Qi and the shadowed silhouettes in her mist turned their heads to the ith-ia gardener in the center. A phantom flute formed in her fingers, and an eagle’s scream, deafening in its intensity, echoed in the cistern. It launched from Ling Qi’s shoulder, a silhouette of dark wings and gleaming eyes, and slammed into one of the pillars in an explosion of sound, the qi invested in the technique rippling out across her allies.
+
+Clad in the wind and the fury of her song, any disorientation vanished, and they moved as one.
+
+The gardener leapt upward, rebounding from the ceiling like a spring to launch himself at her allies. Phantom hands grasped him, and he twisted, body bending bonelessly to avoid. A rubbery gray claw swept out, and an arc of midnight blue dust followed it, vanishing mist and phantom alike as a brush erases a drawing of chalk.
+
+Ice erupted, and a jagged fractal flower formed of flash frozen steam bloomed in his path. His motion changed midair to avoid it, and his other claw dipped into a pouch. Fiery orange erupted, an explosion of heat that wiped away a screaming hoarfrost wind. A Ling Qi who was too slow burned like a paper effigy after he crashed through.
+
+The Ling Qi who was not too slow played a note so deep that it rattled bones and blasted him back the way he had come with all the weight of an avalanche.
+
+The whole exchange lasted but a handful of seconds, sound and fury and heat and cold washing over the room as the others assaulted the seeded columns. Rotted-out stone was split like rotting fruit, purifying fire was prepared, and her little brother stomped and trampled one of the sludge-like constructs, darkly glowing magma pouring from a crack beneath and burning vile flesh faster than it grew.
+
+The gardener came again. She moved, ice bloomed, and she launched him left this time. He bounced back twice as fast, screaming through the air with a crash of thunder, flinging out glittering powders that painted her curling mist with a sickly rainbow light that made her head pound as she tried to peer through a newly warped bubble of space that should have trapped her.
+
+And even then, she was there above him. She could not be caged. She could never be caged. Her raised song slammed him into the superheated water below with a hissing splash, and her Mist grew thick, billowing out from her dress and phantom flute along, her song making a keening duet with the silhouette of her domain blade in the dark.
+
+The Mist closed in around them both as the gardener rose, but there was no longer the light and sound of battle. There was only the Gardener, her phantoms and Ling Qi herself.
+
+She regarded him steadily, as his shoulders stiffened in panic, she felt a genuine terror there. For a being like the Ith-ia, what did it feel like to be cut off from everything. Everything.
+
+All around the gathered revelers laughed and laughed. The hooting cheers of a crowd at an execution. Ling Qi stood above in the air. She the lady of the ball, and he the nameless, ragged thing alone in the Mist.
+
+For the first time the undergrounder let out a sound, a pained, gibbering howl of foreign words, muffled by his breathing mask. He launched himself toward her.
+
+Ruin plans. Break expectations. Mock the absurdity that was battle. Drive her enemies positively mad. That was the ultimate lesson of the Dreaming Moon, the truth of the Phantasmagoria of Lunar Revelry.
+
+And she had found the answer in it. Her answer, at least.
+
+The most important act for an artist to do was question.
+
+Question tradition. Question history. Question the past and the present alike.
+
+Question to reveal the absurdities that grew like fungus and rot in the cracks before they could bring the whole edifice crashing down. Question to point out when her liege was being absurd in her expectations, whether they were for herself or others.

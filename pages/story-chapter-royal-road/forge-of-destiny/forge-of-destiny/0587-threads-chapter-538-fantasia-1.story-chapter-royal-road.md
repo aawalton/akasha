@@ -1,0 +1,169 @@
+---
+id: c532596d-1157-57cd-bf7b-3072e3b15249
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 538-Fantasia 1"
+slug: 0587-threads-chapter-538-fantasia-1
+partOf: forge-of-destiny
+position: 587
+ownLength: 2562
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3828426/threads-chapter-538-fantasia-1"
+royalRoadId: "3828426"
+---
+
+"I am well satisfied with the safety procedures in place for the expanded woodcutting operations on the east shore. The project has my approval to continue under my subordinate's eyes at the proposed numbers," Xia Lin reported.
+
+She was gathered with her friends and fellow retainers around the meeting table. Their gathering had been arranged on one of the upper floor balconies, high enough that they could look down on the sparkling mist, and that their unrestrained qi would not be a bother to any of the clerks on the lower floors.
+
+"The census of the farms and the issues reported with the delivered equipment and personal requests have been processed," Gan Guangli proceeded with his news. "Plow animals should be in use everywhere, even if we do not yet have local populations, and most important tools in use are good steel now, barring certain heirlooms."
+
+"Without any local provision, that will only hold until the next wave of expansion, but it is good that our people are currently able to operate at full capacity.” Renxiang flipped through the papers spread out in front of her. "Meng Dan, Ling Qi, the spiritual situation?"
+
+Meng Dan spoke up. "I've seen to getting the boatwrights started. It's not my area of expertise, but every Meng child knows at least how to get the spirits of the hidden currents to ignore one’s boats. Some time is still needed before local construction will be ready, but repairs should no longer require any official attention and cost."
+
+Then, Ling Qi reported. "In order: Snowblossom Lake is well provisioned, and Zhengui is filling the gap left by the flame spirit’s passing well. The spirits are settling into a new equilibrium, but we will have to deal with the cavern, beyond sealing it off. I have some proposals for that, but they will need the shrine and Zhengui's priests to develop more first. The shrine’s expansion is already showing its effects on the earthveins. I have been told that those who work with the earth have seen its spirits calmer and willing to give up their bounty, whether that be in the fields or in the mines."
+
+"And the Bai clan research you provided is beginning to show fruit,” Cai Renxiang finished. “The fields the suggested procedures were tested in showed an increased fertility from the deaths of parasites and disease spirits."
+
+"We won't be here to plan for some time. Are you still planning to turn over full operation to our lower administrators while we are participating in the offensive against the ith?" Ling Qi asked.
+
+"I am. They have performed adequately to well. We shall see what is achieved when we withdraw from the small details for a time."
+
+"I suggest we focus on our material infrastructure," Xia Lin proposed. “With the bounty of the lake and the increased soil richness, we are sufficient on the production of food."
+
+"The other option I have been considering is an expansion to our docks and land transport to improve the throughput brought in by my funds," Cai Renxiang added calmly. "I would hear your thoughts on this.”
+
+"Further investment in long-term items at this juncture is a mistake," Xia Lin argued immediately. "While it is true that we may, through Lady Cai's funds, support a settlement of this size for an indefinite time, that does not give our people anything to do."
+
+"I think I get your point, but that phrasing is amusing." Ling Qi rested her chin on her hands. "You're speaking of growth and community fabric?"
+
+"Right now, we are top-heavy toward administration, mortal and spiritual," Xia Lin replied. "Lady Cai and your experiments with novel structure and organization are well and good…"
+
+"But at some point, one must fill the frame they are erecting," Gan Guangli finished. "I can see the argument. While a great deal of the fault has to do with the war preparations, there has been a deep drop-off in new arrivals. I have spoken with my soldiers, who have conveyed to me their families' thoughts. They are most pleased with Lady Cai's largesse, but there is some discontent that everything must be acquired through complex requests and long deliveries."
+
+"At the same time, the ability to receive some riverine traffic would be useful,” Meng Dan raised. “The roads are only going to grow more choked with military supply as time goes on, whereas our outgoing river flows only to a little beyond the sect lands, rather than joining the main course of the Jing River."
+
+"Having some sources for simple metal and wood goods would help with boatmaking as well, as I understand it," Ling Qi added.
+
+Not that Ling Qi understood much. She had only some scant research and a long hour of listening to Xuan Shi rambling on about his passions while they sailed the liminal side of the lake together. Given how little he usually spoke, it had been nice to see him being less reticent. She'd had to tell him not to apologize when he'd realized what he was doing, though. She would have to try to ease him out of that habit.
+
+"We are in a good environment for distilling tars ourselves, if the alchemy could be arranged," Meng Dan agreed.
+
+"I understand the appeal of maximizing efficiency before putting anything further into place, but Lady Cai, if I may, overseeing more organic development may be a better test for your officials while we are away," Xia Lin appealed.
+
+Cai Renxiang had remained silent while they spoke, simply taking in their words and advice, hands clasped in front of her mouth. "I hear this. It is true that the mathematical efficiency of improving throughput to cut costs appeals to me. However, we are reaching the point where my adjustments may be becoming marginal without a larger base to govern."
+
+"For what it is worth, I do not think working on our shrine infrastructure is the right choice any longer either. With the baselines established, we need to let the rituals grow familiar and the priesthood expand before it makes sense to expand the temples. We don't have the priests to oversee larger-scale rituals and infrastructure at the moment," Ling Qi said.
+
+"Then, it is decided. We will take a step back, and the men and women of Shenglu will work to improve their industry as we focus on martial duties. Ling Qi, you are dismissed. I will see you when you return from your trip to the north."
+
+"As will all of us, but do be careful. The Dreaming Moon is never safe, even as a patron. Those lands are a trial for all who travel them," Meng Dan cautioned.
+
+"Don't worry. I'll carry myself with the caution I always do," Ling Qi said brightly.
+
+Gan Guangli laughed, and Meng Dan sighed. Even Xia Lin and Cai Renxiang let out quiet snorts.
+
+Meng Dan cradled his forehead. "Yes, that is what I was afraid of."
+
+***​
+
+The last few days before her trip were a flurry of activity: communing with Snowblossom to coordinate a careful cycle of cleansing waters through the fire-overloaded veins; helping her mother not hyperventilate over the presence of an imperial grandson, if not in her house, then very close to it; filling out simple paperwork and providing oversight over the crafters she had brought on to Xiangmen; and attending a few final lessons from Meng Duyi, walking the ways around the empty cavern underground.
+
+The days passed so swiftly, and very soon, she felt the crisp chill in the air that was her junior sister's qi, and saw the silhouette of Bao Qian's wagon cresting the nearest hills as they rolled in.
+
+"It'll be good seeing the squirt again," Sixiang confided to her, perched on the fence by the staging field.
+
+"It will. Are you sure you want to be here?" Ling Qi asked, shading her eyes as she peered out at the road from habit more than need. "I know you were joking about it, but we did upset your grandfather."
+
+"And that's why I should be around. Don't worry. I'll keep the brat occupied for the first half of the trip, while you work your relationship out with Mister Jangles there," Sixiang dismissed.
+
+"Will that really be fine?" Ling Qi wondered.
+
+"Yeah, it will be. In the end, the Mourner and the Dancer have been patient. They ain't gotta snatch us when they know we're coming 'round. So, don't worry about it until we do, yeah?" Sixiang advised.
+
+"You're right. I suppose I knew that already. I've been in and out of the dream enough, since then," Ling Qi said. "Well, let's have fun then. Try not to let Hanyi push you around too much, Sixiang."
+
+They pressed a hand to their chest in mock outrage. "Me! Get pushed around by the squirt? I'll have you know that I'm real stern. Immovable, even!"
+
+She chuckled and settled in to wait for the wagon to roll in. In only a short time, it did, rattling along the paving stones, with banners bearing Hanyi's likeness on silk flapping in the wind. That was a new addition.
+
+"Biiiig Sis!!"
+
+She caught Hanyi as the young spirit leapt out of the wagon. She was getting tall, but not tall enough that Ling Qi couldn't give her twirl, grinning down at her. "Welcome back, junior sister. Did the tour go well?"
+
+Hanyi nodded eagerly, looking up at her. "Yeah, it did!"
+
+"If only because I was able to talk very fast when you were found sniffing around Viscount Teng's personal peach grove," Bao Qian said dryly, pushing his wide-brimmed straw hat back to dangle from its string on his neck. "And when you picked a fight with the Lady of Glittering Rains in Huatian."
+
+Hanyi shot him a betrayed look before snapping her gaze back to Ling Qi, who raised an eyebrow, looking down at her. Hanyi squirmed free from her arms.
+
+"There was nothing saying I wasn't allowed in that garden place! Not a sign or anything," she defended herself. "And they smelled so good. It's not like he would have missed just one. It'd already fallen off the branch and rolled out of the zappy formations anyway."
+
+"Hanyi." Ling Qi pinched her nose. This was her reprisal for worrying her friends, wasn't it?
+
+"And that 'Lady' was asking for it. She was looking down on me, Big Sis, when she's just a bunch of jumped-up rainclouds! I coulda taken her if she didn't have her jerk minions!"
+
+"It is really much better that you didn't. It would have made the route next year awkward," Bao Qian commented. "You are lucky I had a stock of her favorite offering wine. Next time, you are going to pour it."
+
+"What?" Hanyi shrieked, aghast. "No!"
+
+"Thank you for taking care of this troublesome junior sister, Sir Bao," Ling Qi said, offering a bow.
+
+Hanyi huffed, crossing her arms.
+
+"Don't worry about it, squirt. I got it on good info that stealing peaches is a storied tradition," Sixiang said sagely.
+
+"Don't encourage her, Sixiang," Ling Qi reprimanded, rubbing her forehead as she straightened back up.
+
+"What about you, huh, Big Sis?" Hanyi crossed her arms. "You feel all smoky, and I heard about that big flash of fire when we passed through the sect!"
+
+"That was Zhengui and I taking care of a problematic spirit in a perfectly controlled and planned ritual," Ling Qi stated seriously.
+
+Sixiang opened their mouth. Ling Qi gave them a look. They stuck out their tongue, but closed their mouth without saying anything. Bao Qian looked between them with his eyebrows raised.
+
+"There was a fire spirit below the ground that was too explosive to leave in place. We channeled it to do as little harm as we could," Ling Qi explained to him.
+
+"Ah, a problem best dealt with before any serious digging. We've many pockets like that in the Celestial Hills. They're dangerous spirits, in all their varied forms. But to be seen from the sect! I see why you wouldn't want to risk a siphon method."
+
+"Sir Meng proposed that," Ling Qi agreed. "However, the risk of the spirit’s volatility made us go with a single release. The forging fuel that it might have made didn't seem worth the risk of so much destruction."
+
+"I'm sure. Even small pockets can wreak havoc on mortals, and that's just the sort which won't turn the soil and anything that grows in it into a heavy metals poison."
+
+"It wasn't one of those, thankfully, just raw destruction channeled through fire. And I am sorry we can't entertain long. With all the preparations going on, the schedule has gotten tight."
+
+"I've no trouble staying on the road, so worry not," Bao Qian waved away her apologies cheerfully. "I'm just pleased to be on this trip with you. We'll both do rather well out of it, I think."
+
+"Ugh, I did want to hang around, but we can do it when we get back," Hanyi said.
+
+"Yes, we can." Ling Qi said. For a little while at least, she left unsaid. "Is everything ready?"
+
+"Just about. We're traveling light, just the two of us and two spirits, and I've already received the permits and permissions for the trip. There's just one thing left to decide."
+
+"And that is?" Ling Qi asked.
+
+"Do we enter the Fantasia through the east gate or the west? Autumn or spring?"
+
+The region was the domain of the Dreaming Moon in the waking world, Ling Qi knew, and its outer reaches were locked in a singular season. Some theorized that the whole region simply rotated throughout the year to make it seem so. The terrain inside was too mutable to really tell.
+
+However, each season has its features. Autumn, for example, was the palace of colors and the demesne of falling leaves. Meanwhile, spring was the riotous pavilion, and the demesne of blooming flowers.
+
+"I would choose autumn, since we're looking for a spirit who would be a good support for Hanyi," Ling Qi decided. “I'm surprised you didn't make the choice yourself already."
+
+"You are the client here," Bao Qian excused himself. "I am only managing the talent in our business partnership."
+
+"You said you wanted to know where she'd enjoy going the most," Hanyi tattled relentlessly.
+
+Bao Qian laughed weakly, rubbing the back of his head. Ling Qi snorted. "Why wouldn't you just say that?"
+
+He shook his head. "I am not even sure myself. Habit?"
+
+"It can be hard to break those. The only other issue I'd worry about is the tour scheduling, but you said in your letter that the tour is being put on hold for now."
+
+"Ugh, it’s stuuuupid. You gotta keep the ceremony timings consistent!" Hanyi stamped her foot.
+
+"It is unfortunate, but the Meng clan has decided it's best to deploy some of its elder members through the southern territories to manage the spiritual relationships.  Hopefully, the war will be far enough advanced by next year that we can resume. And besides, it's not as if I would wish to jump right in with a new recruit."
+
+"I will have to whip them into shape so they don't mess up the show," Hanyi vowed darkly.
+
+"Just so, just so," Bao Qian agreed. "Now, shall we be off? The roads are quite busy."

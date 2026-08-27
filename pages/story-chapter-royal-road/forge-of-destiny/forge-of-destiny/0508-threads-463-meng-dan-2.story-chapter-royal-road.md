@@ -1,0 +1,165 @@
+---
+id: cc23eb73-ab8e-533c-8098-4e35c715df81
+page-type-slug: story-chapter-royal-road
+title: "Threads-463 Meng Dan 2"
+slug: 0508-threads-463-meng-dan-2
+partOf: forge-of-destiny
+position: 508
+ownLength: 1982
+unit: words
+publishedAt: 2025-07-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2463883/threads-463-meng-dan-2"
+royalRoadId: "2463883"
+---
+
+"Then, I will accept, and raise my head with the pride of serving the Cai," Meng Dan vowed.
+
+"Welcome!"
+
+The rest of them raised their voices and their cups, and Meng Dan smiled, raising his own.
+
+"We will not celebrate too much. There is enough of that outside, and there is a great deal of work to be done," Cai Renxiang said. "I assume you have been keeping abreast of the messages arriving for us."
+
+"I have. All of the courtly clans have sent you invitations, from the highest to the lowest."
+
+"That is to be expected, and I will decide which of them I may attend to. Reduced as they are, there remain worthies among them."
+
+Gan Guangli advised, "I would suggest the Zuo. They were only ever minor players prior to Her Grace’s ascension to the ducal position, and they have grown well in her light. They have numerous interests in ceramics and beast regents, and my Jia contacts are well acquainted with their business."
+
+"Good contacts for our nascent products,” Xia Lin supported. “Although they have less reach than the Bao, they will also not expect as much control of the arrangement."
+
+"I will defer to Sir Gan's judgment," Meng Dan demurred. "You are, of course, expected in Her Grace's house for much of the time, but in addition to that, we also have a missive from the Gold Autumn School…"
+
+"Checking after their graduates," Ling Qi concluded.
+
+"Indeed. I will leave that matter to you. You know my thoughts," Cai Renxiang instructed.
+
+"... As well as numerous theater troupes and artists, hungry for your commission. They seek to glorify your name in the boughs of Xiangmen. Some of them,” Meng Dan said, “are even not simply oblique tendrils of influence from the committal clans and court families."
+
+"Ling Qi, please handle this as well. Meng Dan, you will assist her with determining what is worth our time,"
+
+Ling Qi tilted her head in acknowledgment. She could see the logic in pairing the two of them up. While she was a quick study, Meng Dan was much more immersed in the noble culture of the Emerald Seas.
+
+And it wasn't like she objected.
+
+She caught Meng Dan's eye and smiled. "Of course, Lady Cai. I am sure the two of us can discern who is worthy of your patronage."
+
+Art was an exercise in communication. Ensuring that her liege's name remained on the lips of the people of the capital and that their deeds remained in people’s thoughts was just the bare foundations of what they would need to do, going forward.
+
+"Xia Lin, Gan Guangli, I expect you will look into and make contact with the court clans I determine to be worth our time. I will see to my familial duties. We will begin on the morrow, and reconvene for reports and new objectives in three days’ time."
+
+"Is that when you will next be free of your duties?" Ling Qi asked.
+
+"It is," Cai Renxiang replied. "It is longer than I would expect for the mere formality of checking in. I expect Mother wishes to prepare me for the meeting with our imperial guests."
+
+She searched Cai Renxiang's face. The fear wasn't there, even beneath the steel, just a dogged, almost angry resolve.
+
+Her senses flicked down toward Liming and the hidden threads binding the two of them.
+
+… They were bleeding less. She wondered if Cai Renxiang knew.
+
+It wasn't a topic she could bring up here though.
+
+"Then, I must wish you good fortune, Lady Cai!” Gan Guangli rubbed the back of his head. “I admit, I find myself nervous at the notion of being in the same place as the empress herself."
+
+"Oh? You've much to be guilty for?" Meng Dan teased.
+
+Ling Qi hid a grin behind her hand. "We did leave him alone with Su Ling on our last expedition."
+
+"Miss Ling!" Gan Guangli exclaimed, scandalized.
+
+"Amusing," Cai Renxiang said, in a voice so dry it denied any such thing. "Please attempt to be professional when I am not watching you, Gan Guangli, Ling Qi."
+
+"And why is Xia Lin left out?" Ling Qi demanded.
+
+"I do not need to say that to Xia Lin."
+
+Xia Lin flashed a smug grin at her.
+
+Xiangmen awaited.
+
+***​
+
+"I'm glad to see you as well as you are." Ling Qi leaned against the bannister of the porch overlooking the small inner garden of the manor.
+
+"My, I don't know what Miss Ling is talking about." Meng Dan rose from where he had been seated at the edge of the central pond, the rhythmic cycling of his qi during cultivation falling away. "It is a tad early to be getting to work, isn't it?"
+
+"It is. I just thought I would come talk to you anyway," she said flippantly. "And you do know. I've been told many times lately that my eyes have become quite sharp."
+
+The sun hadn't even properly risen yet, only appearing as a sliver of molten gold on the horizon, casting rays across the sky.
+
+"They are,” Meng Dan acquiesced. “I would say the passage through the fire has only made them more so, and have imbued the beauty of the frozen night with the sparks of dawn."
+
+She blinked, knocked off guard by the praise.
+
+His smile didn't waver, but he did answer her, removing the glasses perched on his nose. "The Meng clan is in turmoil, and it will be for a long time. Our security was shattered. We faced the same annihilation which had visited the Chu. We found there were those in our midst willing to sacrifice all of us and to betray the sacred consensus of the Labyrinthian Grove merely because their domination of certain internal fields and philosophy were mildly challenged and set to be tested against ours."
+
+His voice took on a harder and harder edge as he spoke, and although he never raised his voice, his anger was palpable.
+
+"It is not only grief, or fear, or a desire to isolate which burns in the center of the fens now. There is a very real rage amongst those of us who thought that our ideas might be vetted and debated fairly among our halls and councils and that the principles of the clan were something we all held dear. I do not know yet what direction that anger will take us, and as a historian, that is terrifying."
+
+By the time he’d finished, he’d calmed, falling back into the same easy, warm amusement, as if he were just making a joke about something of little import.
+
+"Honestly, you could make that the foreword of a chronicle," Ling Qi said, recovering.
+
+"I could, couldn't I?” Meng Dan mused. “It would be one of those 'subversive' ones, which purports to get at the truth hidden beneath its drier counterpart's academic tone, but in reality, is mainly just a vehicle for its writer's own political interest."
+
+"No one puts words to a page without at least a bit of themselves intruding on it."
+
+"True! But a professional should at least try to be unbiased." Meng Dan strolled closer to where she stood, tilting his head back to look up at her. "As Lady Cai's retainer, I suppose there's no avoiding that bent to my writings. I do not think you have much interest in this field, do you, Ling Qi?"
+
+"My own field has less to do with facts than their presentation," Ling Qi agreed. "That circlet you’re wearing is part of the conflict within the Meng, isn't it?"
+
+"It is disrespectful to wear the accoutrements which mark a… let us say, priest. However, many would say that their wisdom failed rather harshly. Authority on what is orthodox no longer belongs to the ones most infested with traitors. Also, I think it goes rather well with my features, doesn't it?"
+
+Ling Qi made a show of studying his face. "Hm, hm, I might swoon if I look too long."
+
+"You would not," Meng Dan said dryly. "Who is our other listener by the way? I do not think it is your muse. The feeling is different."
+
+"This is Qiyi.” Ling Qi gestured at her gown. “She awoke not too long ago."
+
+The fabric shimmered, and the spirit, who had been quiet of late, perked up at the introduction. The silk of her mantle formed something like an empty evening glove to wave with.
+
+Qiyi was getting rather good at that.
+
+"Oh, now, that is fascinating. Most of Her Grace's artificial spirits are rather inaccessible. I would love to spend some time in communication with… her?"
+
+"Meng Dan, are you more interested in my dress than me?"
+
+"Never."
+
+They shared a moment of silence. "We did end up leaving our discussion on a hanging note, didn't we?"
+
+"Circumstances didn't allow for anything else. I do wish I could have seen you in your recovery."
+
+Ling Qi nodded, glancing up at the brightening sky. "I don't begrudge you that. We have danced around the subject quite a lot. Don't think I didn't notice you getting me back for my teasing with that comment about the eyes earlier."
+
+"There was nothing teasing about it. Your eyes are dangerous things, Lady Ling. They might take a man apart as easily as they mesmerize him," Meng Dan said pleasantly, folding his arms behind his back.
+
+She felt heat rise in her cheeks. "Stop that," she muttered.
+
+"No."
+
+She gave him a grumpy look. He was unapologetic.
+
+"Don't make this harder. I'm sure you already know that the Bao are angling for a connection, though we've not gone through with anything official."
+
+"If a Meng cannot outcourt a Bao, my ancestors will look upon me with the deepest shame. I do not think Lady Ling is only concerned with coins."
+
+Ling Qi rolled her eyes. "Bao Qian isn't such a money grubber, any more than you are actually all that mysterious and unknowable. But no, the point I was getting to is that Xuan Shi has expressed his interest in courting me as well. He’s even asked what gift he might craft to make an official suit."
+
+Meng Dan’s eyebrows drew together. "... Ah."
+
+Ling Qi grimaced. She wished Sixiang was here, but the muse had just smirked and denied her request. They had told her she had to do this kind of discussion herself.
+
+"I don't want to come across as some kind of greedy noblewoman, stringing suitors along for the benefits. Somehow, it is happening anyway.”
+
+"It's hardly unusual for a quickly rising scion to have several offers," Meng Dan said slowly. "I understand courting is different for mortals, but I am not insulted. I only… An offer from a ducal clan, for one of theirs to marry in? That is unprecedented."
+
+"I know. I almost dread managing the expectations and rumors. I understand if you don't want to be involved in such drama."
+
+"You underestimate yourself so badly, even now. I know performative humbleness very well, but this truly is not it, is it?" Meng Dan wondered. "It pains me that you esteem yourself so little."
+
+"I do not," Ling Qi disagreed. "I know very well the potency and quickness of my cultivation allows me many luxuries, and I do enjoy your company, though I've not had much of it. You are a good man, Meng Dan, and that is why I want you to know you do not need to tangle yourself up in this mess."
+
+"Ling Qi, I stand by what I have said. ‘Need’ has nothing to do with it. If you wish me to step back, I will, but until you speak those words, I will not withdraw. I had wanted to wait to announce it, but I have already cleared the matter with my elders. I intend to offer you an official suit."

@@ -1,0 +1,135 @@
+---
+id: 4df69e11-9c1d-5eb3-9ab2-97f5e1143a3d
+page-type-slug: story-chapter-royal-road
+title: "Threads 82-Parting 2"
+slug: 0103-threads-82-parting-2
+partOf: forge-of-destiny
+position: 103
+ownLength: 2441
+unit: words
+publishedAt: 2021-05-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/678971/threads-82-parting-2"
+royalRoadId: "678971"
+---
+
+“I’m surprised to see that you are still here,” Ling Qi said as the door of the workshop closed behind her.
+
+Bao Qian let out a good-natured harrumph, adjusting the glass monocle on his eye as he examined a piece of carved jade. “Miss Ling, there’s no call for that sort of accusation.”
+
+Ling Qi glanced around. It had actually taken her some time to find the Bao scion’s place of residence. Rather than a room at the town’s inn or a rented townhouse, his trail had led her out into the woods where she had found an odd and brightly painted wagon. The inside of the wagon was larger than the outside, though not by a great deal. Despite that, it managed to feel cramped and crowded with the tables strewn with glittering gemstones and jade. Strands and nuggets of precious metals hung from the ceiling like curing herbs. “Sorry, that wasn’t my intent. I just expected your family to withdraw you given the Sect’s new war footing.”
+
+Bao Qian set down the piece of jade in his hands, laying it on the table where it joined many like it. “Mm, I did receive leave to do so. Cousin Qingling likely received a similar letter. Naturally, I refused.”
+
+“And why is that?” Ling Qi questioned, drifting through the hanging metal strands without disturbing them. She wasn’t fooled by the seeming thief's fantasy of wealth strewn about haphazardly and without guard; the wagon’s security formations were clear as half-bared blades to her senses, which made her wonder what else was concealed. She found a clear space on a work table to seat herself on.
+
+“I would have brought out another seat if you had asked,” he chuckled, and the padded, floating metal disc he was seated upon spun, turning him to face her new seating. “But, to answer your question, I have chosen to make my living on the border, not to mention our hopeful partnership. I can’t imagine you would think well of a coward who would flee at the first sign of violence. The Sect is already making use of my services in the tunnels.”
+
+Ling Qi raised an eyebrow as she settled into her seat, crossing her ankles and letting her hands rest demurely in her lap. “How much do the Bao know about the things in the caves?”
+
+“There are caves, and there are caves, Miss Ling,” Bao Qian replied, popping the monocle off to polish the glass on his shirt. “The sort the Sect’s troubles have erupted from are toxic obstacles, and we know them well enough to avoid them like pockets of sun-gas or rotted stone.”
+
+Ling Qi’s intuition and the lessons from her new arts told her that there was something more there but that it would do no good to pursue it. “So many seem to have at least a little knowledge of the caves. Why aren’t they explored more deeply?”
+
+“I won’t get into the technical details, unless you wish to hear me prattle on for some time, but you are aware of the impurities that fill those places?” Bao Qian asked, dismissing the talisman in his hand with a flick of his wrist.
+
+“Yes, it’s toxic, but surely more powerful cultivators can endure,” Ling Qi replied.
+
+“It is their power that is the problem,” Bao Qian explained. “The impurity grows denser the deeper one goes, and it reacts more violently to great quantities of qi, let alone higher energies. Exploring those depths has long been considered both pointless and fraught. It is only recently that certain craftsmen have begun to find any use for the materials in the caves.”
+
+Ling Qi wasn’t really satisfied with the explanation, but she wasn’t going to press any further at this juncture. It wasn’t what she was here for anyway. “Well, I guess we’ll find out more soon regardless.”
+
+“Indeed,” Bao Qian agreed with a frown. “In any case, might I ask after your purpose, Miss Ling? While I do not mind discussing current events, unless I have misjudged you, I do not think you the type to stop by for a chat with me.”
+
+Ling Qi nodded, not seeing the need to refute him on that. “I was interested in acquiring a recording talisman. You’ve mentioned them before.”
+
+“I did. I had thought you averse to the idea,” Bao Qian said, a spark of interest in his eyes. “What changed your mind?”
+
+Ling Qi waved him off. “Nothing. I do not intend to make it a regular thing. I just want to make a recording for a friend who is leaving the Sect.”
+
+He looked disappointed but swiftly rallied. “Unfortunate, but I can provide. What are your requirements for shape, color, and size?”
+
+Ling Qi blinked, suddenly on the backfoot. She had assumed that Bao Qian would just have one lying around. “Ah… White or red… and a flame shape.” She quickly recovered. “You intend to make it yourself then?”
+
+“Of course. Best to keep supply lines short if it can be done. Goes as well for armies as it does for crafting.” Bao Qian chuckled. “Hmm, I think I can manage. I have a supply of red and pink pieces I could fit together for a flame motif. The size?”
+
+“Pendant-sized, maybe?” Ling Qi asked tentatively.
+
+The young man pursed his lips and closed his eyes, seemingly doing calculations in his head. “I will manage. I’ll need a green stone to cover my material costs.”
+
+“You’re going to charge me?” Ling Qi asked, bemused.
+
+Bao Qian opened his eyes, giving her a flat look. “Miss Ling, I am already giving a discount. I wish to be your partner, not a convenient dispensary.”
+
+“That’s fair,” Ling Qi acknowledged. She chewed her lower lip as she thought. Her supply of green stones was beginning to shrink. She would most likely be fine until the inter-sect tournament, but… “Here,” she said, flicking a stone to him that had materialized in her hand. “And if you like, we can arrange to meet sometime in the coming month. I will be working with Zhengui, so perhaps we can begin making some arrangements.”
+
+He caught the stone, rolling it between his fingers. “Very well. I shall need no more than two days. I will send a note when your commission is done.”
+
+“That’s all I can ask,” Ling Qi replied, dipping her head. “If you will excuse me, I have some cultivation and composing to do.”
+
+***
+
+It had been a fun night.
+
+Empty bowls, baskets, and cutlery lay strewn across Xiulan’s table. In her bedroom, countless clip ties and ornaments lay scattered around the mirror like forgotten treasure.
+
+As the sun began to color the horizon, the home was silent. The sounds of merriment had faded and at last, ceased. Ling Qi and Xiulan sat beside one another on the long couch that filled one wall of her front room. The fire in the hearth had burned low, leaving only faint red embers among the ashes.
+
+In Ling Qi’s hands, she held the last cup of the tea she had brought along, chilled as she had come to enjoy. Beside her, Xiulan held an empty cup which had held a sparkling peach wine. Sixiang, who had been so instrumental in keeping up the mood earlier in the night, had fallen silent, knowing that their time had passed.
+
+Xiulan idly swirled the dregs of her wine in her cup and let out a sigh, releasing a wisp of steam and sparks from between her lips. “Did you know that when we first met, I had intended to bully you? I found your presence around Han Jian annoying.”
+
+“I had some idea. It’s one of the reasons I tried so hard to be friendly with you,” Ling Qi said dryly. “What made you change your mind?” She took a small sip of her tea. It was a dark and bitter blend, and she was coming to enjoy it.
+
+Xiulan smirked self-deprecatingly. “I was impressed, nothing more. That day in the training field, you were afraid, but you faced me anyway. Untrained and clumsy as you were, I almost let you land a blow in my arrogance.”
+
+“I wasn’t that bad,” Ling Qi grumbled into her tea. “I know that wasn’t it. You kept poking and testing me after that.”
+
+Xiulan sighed, letting her head hang. “I think I came to appreciate your forthrightness. As you know, I have always tried so very hard to live up to my mother’s lessons.”
+
+“I know and appreciate it,” Ling Qi replied with a lopsided smile. “After all, thanks to you, I’m not a totally uncivilized little feral girl.”
+
+Xiulan let out a distinctly unladylike snort of laughter. “Oh, don’t you flatter me. Bai Meizhen would have cleaned you up eventually.”
+
+“Maybe, but I probably wouldn’t have learned to have some fun with it,” Ling Qi mused. Despite her complaints, some part of her had enjoyed going around the markets with her friends, chatting and eyeing goods. To another part of her, even now, it felt like a terrible waste that her every instinct cried out against. She eyed the thin silver links and tiny bells of the jewelry on her hand. Even if she ignored its value as a talisman, just the materials that composed it could have fed and housed her for weeks, if not months, in Tonghou. “You said ‘tried,’” Ling Qi pointed out, glancing at her friend.
+
+Xiulan nodded faintly, not raising her head. “I cannot follow all of her lessons. I love my mother dearly, and I love the appreciation for beauty and refinement which she has taught me, but her way of words and masks isn’t mine. I… I cannot do it.”
+
+Ling Qi hesitantly placed her hands on Xiulan’s shoulder. The words sounded like they pained Xiulan deeply to say. Ling Qi did not voice her thought that Xiulan had increasingly abandoned that kind of thing from almost the beginning of last year. The Xiulan she knew reveled in violence and battle and found a challenge in every insult and insinuation. She almost said some words of encouragement, empty platitudes about parental understanding, but she didn’t know Ai Xiaoli. “It’s better to know what you can’t do rather than beating yourself up over failing at it,” she said instead. She couldn’t stop or slow down, so there had to be another solution.
+
+“You don’t have half the wrinkles necessary to go speaking like that,” Xiulan retorted, raising her head.
+
+“Well, if that’s what I’m going to get for my kindness, I’ll just be silent,” Ling Qi harrumphed, taking a dainty sip from her tea. In her lap, she toyed with a pendant resting in the palm of her hand. She still hadn’t found a good moment, but their time was running out.
+
+Xiulan was silent, and after several long moments, Ling Qi looked at her out of the corner of her eye. Xiulan was looking out the window at the first hint of the sun’s disc peeking over the misty horizon. Her lips moved, but Ling Qi didn’t hear a word.
+
+Ling Qi knew better than to press Xiulan. She finished the last of her tea.
+
+“I will miss you a great deal.” This time, she caught the words, spoken in just barely audible tones.
+
+Ling Qi’s hand clenched around the pendant. “I will miss you as well. I hope you enjoy getting bombarded with letters.”
+
+“I’ll make sure to answer every one,” Xiulan chuckled. “I suppose that we really should begin cleaning up…”
+
+“Xiulan, I have a present for you,” Ling Qi said suddenly. All this dithering and worrying. It really was best just to say things clearly. She had spent too much time learning otherwise. “It might be a little inappropriate given our relationship, but…”
+
+“Ling Qi, what did you get me?” Xiulan asked, amused. It seemed that her melancholy could not contain her natural instinct to tease.
+
+“It’s a song,” Ling Qi said, turning over her hand. The pendant that rested there was an intricately carved piece, fitting many small pieces of red and pink jade together into the shape of dancing flames. It was so realistic that it seemed that the tongues of flame might start to move at any moment. It was just what she had asked for.
+
+However, at the bottom, it darkened, pink becoming red, and then crimson, and at last, black along the bottom edge. She couldn’t blame Bao Qian though. It was her song that had done that. “I composed it for you. Thought you might like to listen to it now and again and be reminded of me,” she said, embarrassed as she toyed with the talisman. Finally, she held out her hand, offering it to Xiulan.
+
+Xiulan looked at her in surprise, any hint of teasing gone. “I see. I… thank you, Ling Qi,” she said a touch unsteadily, cradling the gift in her hands. “How do I…?”
+
+“You just channel a trickle of qi into the carved channels,” Ling Qi said, looking back down.
+
+She didn’t need to see as the song she had composed began to play. Its tones brought to mind the image of a bright and lively flame, burning merrily on a cold winter’s day. Though the wind blew and the snows fell, the flame burned brighter with every gust. It puffed and danced, facing every challenge with courage. It was bright and beautiful, even when lightning struck and nearly scattered its tinder. Despite everything, the flame never stopped burning, and the flame never guttered low. Though one day, the wind picked it up, carrying it far away, the flame never faltered…
+
+Ling Qi let out a sharp breath as the song cut off, the qi powering it draining away suddenly, leaving her sitting once more beside Xiulan, who held the pendant in her hand. Xiulan stared down at it with unreadable eyes.
+
+“Sorry if it’s a little silly and childish,” Ling Qi said, picking at the hems of her sleeves. “I just thought… you deserve some praise, you know? You’ve accomplished a lot. I believe in you, Xiulan. I’ll look forward to seeing you again.”
+
+Xiulan didn’t answer at first, but soon, she nodded. “Thank you, Ling Qi,” she said, and her voice almost cracked. “You should go. I will handle cleaning up. It would be rude to ask you to stay as a guest.”
+
+Ling Qi didn’t point out the inconsistency. Instead, she leaned over and once again embraced Xiulan, and this time, the girl returned it, squeezing her in a one-armed hug.
+
+This would not be their last goodbye.

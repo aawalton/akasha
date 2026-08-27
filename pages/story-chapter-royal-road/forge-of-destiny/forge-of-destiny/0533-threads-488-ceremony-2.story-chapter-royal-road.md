@@ -1,0 +1,145 @@
+---
+id: b8fc15ac-1990-5e1e-b12b-da91c32697db
+page-type-slug: story-chapter-royal-road
+title: "Threads 488-Ceremony 2"
+slug: 0533-threads-488-ceremony-2
+partOf: forge-of-destiny
+position: 533
+ownLength: 3114
+unit: words
+publishedAt: 2025-12-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2851966/threads-488-ceremony-2"
+royalRoadId: "2851966"
+---
+
+All of them bowed toward the closed palanquin, lord and soldier and attendant alike.
+
+As Cai Renxiang finished extolling the Diao clan’s  holdings, the Diao men at the head of the carriage clapped their fists against their breastplates, accepting the welcome in the same flowery terms. They, too, extolled the virtues of the Cai clan and the beauty of Xiangmen and indicated the excitement of the bride to meet her bride.
+
+That still didn't sound quite right in Ling Qi's head. Also, the implication that the two were not already familiar was amusing. There really wasn't any avoiding that polite fiction though, given the formal etiquette of the situation.
+
+She fell in on the left side of Cai Renxiang as the procession began to move, matching Gan Guangli on the right. Meng Dan walked behind her, and Xia Lin walked behind him.
+
+In the immediate column to her right were the Ministers of Works and the Minister of Spiritual Affairs. One of them, she knew. Diao Luwen was Cai Renxiang's father after all, and the Duchess' previous spouse. One might think he would be resentful to march in his former wife's wedding procession a bare year after their contract was ended without cause, but…
+
+Well, he was Diao Luwen, and everything she might criticize Renxiang for at times was true a hundredfold in him. The only emotion she could feel from him was an aggressive disinterest, and if he were aggravated, it was only because he was being pulled away from his work projects for this ceremony. Given the subtle fluctuations in his qi reaching out into the further reaches of the city, she was sure he had a few simulacrums off doing exactly that, and so, he was merely bored to be involved.
+
+Despite his irritation, he was still dressed in finery. The regalia of the Minister of Works was not the flashiest, a high squared cap in the ministry’s green, and an ornate, wide-sleeved robe worked through with repeating geometric patterns.
+
+Beside him was another man, the Minister of Spiritual Affairs. Zhu Fan was a member of Xiangmen's court clans, and officially a priest of the Bountiful Earth, inducted and ordained in the inner cult of the temple. He had a reputation for fairness and equal dealing with the other, often fractious cults of the various Great Spirits of the Emerald Seas, not so dissimilar from his patron.
+
+He had the look of an incredibly ancient man, with snowy, thinning hair, long, hanging eyebrows, and a beard that gave him the appearance of a sage from a storybook. His face was a map of deep wrinkles. He wore his ministry’s white without decoration but carried a staff that rang and jangled with the weight of the holy charms and rings threaded through the wide brass ring at its head.
+
+He, too, did not seem the most content to Ling Qi's eyes, though she doubted anyone else of lower or equal realm would have noticed it without scrutinizing him much more. There was a faint tightness around his lips and a very slight tremor in his qi. She knew the more traditional clergy of a Weilu bent did not like what Shenhua had done with this marriage or with her child. The reasoning varied from sect to sect, but they all agreed that her actions were unnatural and likely to displease many spirits long term.
+
+Ling Qi couldn't speak to that. She was mostly involved with negotiating with spirits who were much more inhuman in their concerns. Based on her slowly growing understanding of geomantic principles, there was probably some basis for concern regarding the balance of yin and yang in a relationship as important as that of a Duchess, but she found any argument that relied on Cai Shenhua having a deficit of yang energies to be dubious.
+
+Zhu Fan's eyes flicked her way as they left the landing platform, descending to great fanfare from the musicians strategically positioned at intervals down the boulevard. She must have let her attention linger longer than was polite.
+
+"Questions lie behind your eyes."
+
+There was nothing so gauche as his lips moving or his head turning as they marched with their heads held high. The Diao matriarch's palanquin rocked gently on the shoulders of the fourth realm cultivators carrying it. There were small whispers like this up and down the line, cultivators speaking without speaking, the low whisper of conversation among the pageantry.
+
+"Only idle thoughts about your duties, Honored Minister. I apologize if I stared too long."
+
+"It is nothing," he dismissed, but she could feel a thread of idle curiosity from him. Was it the clarity of her 'not-speech', or simply that he could feel the extent of her perception? She couldn't know. The minister was hardly a mortal or low cultivator who she could read with transparent ease. "That is not surprising, given the extent of the infrastructure you have undertaken, or so I have heard."
+
+Ling Qi kept her eyes facing ahead, her hands folded in her sleeves, her longer stride paced carefully to never gain nor lose on her liege as they marched. Bright music filled the air. They were descending among residences and shops now, and there were numerous cultivators lining the streets and the rooftops. Flowers were scattered in the air ahead and in their wake, filling the air with their rich scent.
+
+"I am honored that the small projects I have undertaken should reach such exalted ears," Ling Qi said humbly. "Then again, I suppose the eyes of the capital must observe the heiress from time to time."
+
+"They must," Zhu Fan said, the exacting tap of the jade butt of his staff ringing in the quiet between verses of the celebratory melody playing. "You have concerned some cultivators among the ministry, but it is good to know you have the tutelage of an expert to guide you. The old methods are orthodox enough, in their own way."
+
+"Inefficient. Traditional methods emphasize the wrong factors. Human Life Quality and Carrying Capacity should be the highest goals of any settlement project."
+
+Diao Luwen's cold, disinterested voice was like the turning of a millstone in her ears. He did not look around either, of course, staring ahead, hands folded behind his back, hidden in voluminous sleeves.
+
+"Debateable, Minister Diao, although as always, I respect your intentions." Zhu Fan's voice had a tired edge to it. Ling Qi suspected that the two men had traded some variation of these words many times. "The ancestral methods do have their value in taming fresh lands, even if they become less beneficial at greater densities."
+
+"And when you reach them, you shall be locked into onerous pacts which inevitably result in greater damage when you are forced to alter them to account for a higher population. Best to begin as you intend to continue," Diao Luwen rebutted.
+
+Ling Qi wondered if she would be forgotten entirely in the wake of a well-trod argument between colleagues.
+
+"I assume the young baroness and her lady have their reasons."
+
+Perhaps not.
+
+Cai Renxiang's eyes flicked toward them, but she could tell her friend was in communication with the Diao herald herself regarding the opening ceremonies.
+
+"We feel as if density is not likely in the foreseeable future given the remoteness of our lands. In that respect, the Meng's more spread-out method of settlement is desirable. In addition, my own spirit relationships make negotiation and renegotiation more effective and reliable," Ling Qi offered.
+
+The palace was visible now in the distance, coming around the curve of the jutting branch. Light and color were shown from every window, and vast banners were flying all along their route. Until they reached the outermost gates of the palace, the procession would continue to be just that, a simple parade through the streets. Once they did reach the gates though, there would be some ceremonies at each one, welcoming the new bride in an official and spiritual fashion. These ceremonies’ oaths and bindings would tie Prime Minister Diao Linqin into the ancient foundations of Tsu's ducal palace, and her ties would be only somewhat less than the Duchess herself.
+
+"A good reason as any. With such a potent land god bound to you, it would be foolish not to take advantage."
+
+"It is what it is. I expect the south to go through many disruptions yet," Diao Luwen commented absently. "So, if there is anywhere for such methods, it is there."
+
+Zhu Fan wrinkled his nose. In a less formal scenario, she suspected he might have snorted. "Baroness, I would speak to you post-ceremony. This idle chatter is not enough for the conversation I wish to have."
+
+She gave a very slight nod as their path began to take them upward again, winding toward the gates of the palace, their bright red shade stark against the green of the canopy. Cai Renxiang strode ahead, picking up her pace as the greater part of the procession fanned out, making way for the palanquin to be brought before the gates. They were closed, a dense mesh of woven living wood that hummed with the quiet, invulnerable strength of Xiangmen, as inviolate as the trunk or branches of the tree. If Ling Qi extended her senses further, she could feel the web of curses and ancient protections that would brutalize anyone who thought they could simply go around the gates.
+
+"Who comes before the gates of the Palace of Seasons?"
+
+The voice of the herald assigned to the gate boomed out as he recited his ritual line.
+
+"It is I, Cai Renxiang, heiress to the Throne of Seasons," her liege announced, stepping forward. "I come with the offerings of the honored Diao clan, dowry and bride, to join their blood to the blood of the Cai. In the name of my mother, I speak. Her chosen is beyond worthy to share the throne wrought of Bountiful Earth!"
+
+"The Gates hear, heiress of Cai. The Gates obey the will of the Throne! Pass now through the earth, the fires, the rains, and the ice, and be purified by the cycle!"
+
+The gates opened, smoothly, silently, living wood unraveling with a swiftness that even Zhengui's couldn't match and flowing apart to reveal the way forward.
+
+Within the confines of the gatehouse itself were braziers large enough to fit a whole horse in their bowl. Each of these was piled high with bricks of qi-rich material, and they blazed with the energy of the elements, attended by priests of Xiangmen and the Bountiful Earth.
+
+It was not a comfortable experience, and she didn't begrudge Sixiang from sinking deeper into her, holding every fluctuation of their qi still and unthreatening. Searing heat, crushing weight, scouring pressure, and last of all, the killing cold battered them. Though it was only a formality, Ling Qi could feel the real weight of the ritual words incanted by the priests. She could not imagine any spirit or malicious being passing through this hidden, no matter how potent its cloaking.
+
+Beyond was the ducal palace. Platforms and foundations ringed a single rising branch, the same branch that reached its culmination in the throne far above. The bough itself was not much smaller in circumference than the entire inner city of Tonghou, and that meant the palace was practically a small city itself. The swooping rounded architecture contained the space for all of the ministries and courtiers, the entire central government, and the civil infrastructure of the Emerald Seas’ capital.
+
+The bark of Xiangmen grew in natural steps, carefully painted and gilded in its contours, and soon, the procession was climbing it. The crowds now were not merely onlookers, but the bodies of the ministry and court, lining the passage onward and upward. On brightly lit balconies and in spacious open halls whose massive doors were thrown wide, the court and ministries of Xiangmen knelt with the passage of the bridal procession. The lowest clerks and courtiers were in full kowtow, the middle ranks knelt with their hands to the floor, and the highest stood in stately bows of welcome.
+
+Ling Qi had once thought the tournament of the Argent Peak Sect was an unimaginable gathering of power and influence, but it was dwarfed by this. The retinues of the comital clans, of the viscounties, and of the visiting dignitaries of other provinces all lined the halls as well. Even the dragon banner of the imperial seat flew here among the soldiers, and she glimpsed the shining armor of the men of the imperial guard as they marched by.
+
+Music rang in lilting strains throughout the palace, bright and serene, as they mounted the winding stairs to where the already thin air grew suffocating on the body. The flower petals that had been steadily rained over the procession since its beginning drifted slow and languid now, barely falling. They emerged out onto the throne dais, the massive circular slab of marble cradled in the twigs of the tapering branch, and its ceiling held up by the twelve immense columns of bone which Tsu had carved from the beast gods when they were slain.
+
+Fireworks boomed in the sky, the distant explosions rustling the leaves of the canopy overhead.
+
+The great dais was far from the open standing space for court which it had been during her previous visits. Tables fit to seat hundreds of people now lined the marble floor, lit by floating lanterns.
+
+Dignitaries of the great clans, of the Emerald Seas, and the empire were already seated as guests facing the entrance. She saw the Bai Ambassador, Bai Suzhen's simulacra, and Meizhen in the distance, seated adjacent to the steps that rose to the ducal throne in the place of second honor, and she saw in the first, the black and purple garb of the imperial house across from them.
+
+A stern man who resembled Kang Zihao with silver shot through the hair at his temples stood a step behind the seating. He was the only one standing in the tableau. What would have been a rude insult was negated by his position. The imperial crest on his shield and the circlet on his brow marked him as the bodyguard of the empress. In the seat in front of him was… She almost didn't look real. A porcelain doll sat there with bone white hair, a face hidden behind the beaded screen hanging from the brim of her crown, and resplendent and voluminous black robes worked through with winding golden coils.
+
+Empress Mu Xiang.
+
+Her eyes skittered away from that sight, the largest group by far, with a score of attendants and other members of the imperial clan dropping to the ground to avoid giving insult.
+
+Beside the imperial house was a single man. He must have been nearly three meters tall himself and half as wide, with a mane of wild red hair pouring down his shoulders, and a ruddy face with a thick bulbous nose, his hands folded over the bulge of his rotund gut. A Zheng surely, one without any retinue, only his own self.
+
+Beside the Bai was another small group composed of two women, an older and a younger with sleek black and green gowns, intricately braided hair, and eyes like blades. Their attendants also wore the black and green colors of the Guo.
+
+Beside them were a pair of figures she dimly recognized, even under their broad-brimmed hats and heavy robes. The twin admirals of the Xuan had visited during the first tournament at the Argent Peak Sect.
+
+Of the ducal clans, only the Sun and the Jin of the Alabaster Sands lacked a full member in attendance, a small slight but a notable one.
+
+At the tables closer to the entrance sat the representatives of the comital clans, the Wang, the Luo, the Bao, the Meng, and the Jia. Only the Diao were in absence because they marched with their matriarch in the procession.
+
+All of this paled compared to the presence of Cai Shenhua. Her radiance spilled through the columns, shown on the canopy, and nigh blinded Ling Qi's watering eyes. She wore a gown that was more red than white for once with a long sweeping train and a veil that might as well have been transparent for all that it hid the blaze of her eyes. It was thick, many-layered, surprisingly modest, and traditional. There were no odd cuts, no scandalously close fittings, only a wedding gown of the most careful make and resplendent beauty.
+
+Ling Qi did not expect that. She'd almost expected the Duchess would wear something more akin to a man's robes for this wedding ceremony.
+
+They, the ones leading the procession stepped aside, bowing their heads low and opening the path between the palanquin and the Duchess
+
+Wood creaked, ever so gently, and the men bearing the palanquin sank to their knees as the Diao matriarch stepped out.
+
+Her gown was the color of purest white, and a hood and scarf concealed her face in its entirety. She seemed almost small in it, stepping gracefully down the stairs of the palanquin, her hands hidden in voluminous sleeves embroidered with pale rose flowers and winding thorny vines. Despite her quiet presence, the air around her thrummed with a heartwrenching serenity, a pool of yin so deep that Ling Qi could feel her thoughts buckling, struggling to remain aware of anything at all beyond a hazy, passive serenity.
+
+Shenhua held out her hand, and that stilling pressure fled like a shadow chased away by a torch, the clash of their less restrained power evening out into a faint, thrumming harmony.
+
+All of them knelt, hands pressed to the marble floor.
+
+Diao Linqin raised her hand and delicately placed it in Shenhua's, her small steps closing the distance between them.
+
+This, too, Ling Qi understood, was irregular. Typically, the one marrying in would be inspected by the elders of the clan they were marrying into. These elders would then present the entrant to their bride or groom. Even in the case of the highest ranking and eldest members of a clan, at least there would be generational peers to take on the role.
+
+But Cai Shenhua was alone, and so, she reached out, plucking at the tassels of the concealing wedding wrap that hid Diao Linqin's face.
+
+"Diao Linqin, beauty of beauties, great lady and matriarch of the Diao, Cai Shenhua welcomes you here, unto the halls of Cai, unto the Throne of Seasons, where you will dwell for our remaining days. Your radiance is a dowry greater than even your clan's vaults or mine could pay. Come.  The altar awaits."

@@ -1,0 +1,143 @@
+---
+id: 831322f2-0536-56a0-8a40-0dbed07c3ade
+page-type-slug: story-chapter-royal-road
+title: "Threads 167-Emissary 2"
+slug: 0198-threads-167-emissary-2
+partOf: forge-of-destiny
+position: 198
+ownLength: 2582
+unit: words
+publishedAt: 2021-12-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/815739/threads-167-emissary-2"
+royalRoadId: "815739"
+---
+
+Ling Qi saw no reason to give away their own flight capabilities so the group travelled along the ground. The young cloud tribesman took off ahead to carry word back to the redoubt, and the women in the chariot remained to lead them.
+
+She learned the vehicle was called something like “sani.” The word didn’t translate, so she was forced to try and pronounce it with middling success. There was a minor incident when the huge beasts pulling it had grown restless at Zhengui’s approach, snuffling and pawing at the icy ground, but she had been able to ease through that by asking him to stay at the rear of their formation.
+
+The trip was swift. They weren’t far to begin with, and the riders knew the route most free of quagmires and obstacles. Within ten minutes, the iron mountain loomed overhead, blocking the sky. They climbed for a short time while the sani and its riders taking back to the sky. They left one of the thickly built women to lead them.
+
+Mounting the wide base, they followed a carved trail wide enough for two men abreast that rose along the mountainside. At its top, Ling Qi saw two immense slabs of dark iron sliding apart, revealing a wide doorway carved with elaborate scrollwork and topped with a stylized depiction of the sun.
+
+On the steps leading inside, Ling Qi was forced to recall Zhengui, which seemed to spook their guide. She seemed incredulous at Ling Qi’s hurried explanation, but like her warleader, she also seemed eager to make it someone else’s problem.
+
+The inside was not as dank and cramped as Ling Qi might have expected from an underground dwelling. The ceiling and upper walls were elaborately painted in blues and whites, depicting an open sky. It reminded her a bit of the roof of the throne room in Xiangmen,.
+
+They walked through the wide halls for a time, mounting several short flights of stairs before the hall narrowed at obvious defensive chokepoints. But the simmering hostility that burned in the symbols worked in among more mundanely decorative carving was quiescant for now. Soon, they came to the end of the hallway and entered a wide gallery.
+
+Like the hallway, its ceiling resembled the open sky, only more convincing for its height and expanse. Six large pillars, which Ling Qi first took for tree trunks but swiftly realized were painted iron, upheld the roof, joined by arches near the ceiling's apex.
+
+The walls drew her attention next. Painted on them were a pair of murals that seemed to depict a stylized battle. Tracing the scene with her eyes, she realized it was a kind of story. At the beginning, ill equipped folks were pressed by strange enemies. It was difficult to tell what the enemies were meant to be. There were masses of different shapes, some like beasts, some like humans, and some that Ling Qi thought might be dragons of a sort. They all had the same eyes though, deep and black, standing out from pale skins and hides.
+
+As the story progressed, she saw the ill equipped people joined by a depiction of what she took for a mighty ice spirit paired with a figure of blazing sunlight. The two drove back foes with wind and ice and light. The ice and snow flowed into the image of a mighty host clad in strong armaments with female figures soaring above, and men in white robes among the soldiers radiated sunlight.
+
+On the other side showed what Ling Qi thought was meant to be a series of fortresses or great walls of ice and iron crewed by proud soldiers. Under a sky of shifting color, battles with the black-eyed foes were shown, ending at last in a great wall of flame that roared from the earth, burning the last of the enemies to ash.
+
+“I will ask that you wait here a short time longer, guests.” Their guide’s gruff voice drew her attention back to the sturdy woman. “The Emissary will be here soon, and her entourage will bring refreshment. Until then, please rest from your journey.”
+
+Ling Qi glanced at the rest of the room, seeing plain but sturdy furnishings, including two long tables set with equally long benches on either side, and firelight from evenly spaced hanging braziers. The tables had been pushed up against the walls with their benches, showing hasty abandonment. Ling Qi strongly suspected that this was some kind of garrison mess and meeting hall. In the center, a smaller but more polished and decorated round table had been set with two chairs on one side and one on the other. A pair of leather padded benches had been set behind the table as well.
+
+“I apologize for the inconvenience to your soldiers,” Ling Qi said, inclining her head slightly. “The current accommodations are satisfactory.”
+
+The woman gave a grunt of acknowledgement. “If this draws complaints, they need more drill,” she dismissed. Her eyes flicked down to Hanyi, and then away. Ling Qi caught a trace of discomfort in her expression, not the first she had noticed among the foreigners when they happened to look her way. “Does your sister require any special accommodations, Emissary Linchee?”
+
+Ling Qi blinked slowly, the mispronunciation of her name hardly registering . “No. Hanyi is quite well, aren’t you, Hanyi?”
+
+Hanyi put on a smile, but Ling Qi could tell she was confused too. “Yeah, I like this place. It’s very comfortable.”
+
+The woman cleared her throat and nodded. “Then I will take my leave. Emissary Jaromila will be here soon.”
+
+Ling Qi didn’t think she had ever met someone who had immediately called Hanyi her sister.
+
+As the woman left, Ling Qi glanced toward the table set out for them. The intended seating was rather obvious since the single chair on the far side of the table was a fancy thing of wrought iron and blue fabric while the closer pair were both carved from bone like the long garrison tables and benches.
+
+With them left standing awkwardly under the gaze of the guards, Ling Qi sighed, letting the translation effect of the ring she had been given fade. “Less friendly than I hoped. More friendly than I feared,” she said quietly.
+
+“I have seen meetings between neighbors which harbored more tension,” Cai Renxiang observed. She stood straight with her arms crossed beneath one of the braziers. “Remain confident. This is the best welcome that could have been expected.”
+
+“They seem a doughty enough folk.” Gan Guangli rolled his shoulders, glancing around. He seemed a bit invigorated by the subtle sun qi filtering down from the ceiling. “I am sure that your words will reach them.
+
+Xia Lin merely grunted in acknowledgement, remaining close to Cai Renxiang’s side as she studied each of the guards in turn. “I do not like that I cannot read their meridians.”
+
+“And that is fascinating, isn’t it?” Meng Dan mused, standing with his hands hidden in his sleeves as he gazed up at the ceiling. “Similar enough for me to read their realm and stage, but missing something so fundamental.”
+
+“I think it is more interesting that their focus remained on me, even after I explained Lady Cai’s position,” Ling Qi said as she took one of the seats at the table.
+
+“I do not believe our words necessarily translated well,” her liege replied, taking the seat beside her. The heiress tapped her fingers on the polished tabletop, an uncharacteristically nervous gesture. “They misunderstand our hierarchy, and I similarly remain unsure of theirs.”
+
+“Something to clear up in the talks then,” Gan Guangli said, the bench behind them groaning under his armored bulk. Hanyi hopped up beside him, looking around curiously. Xia Lin and Meng Dan occupied the other end.
+
+“Implying that Lady Cai has such a relation with one of you two... Unacceptable,” Xia Lin grumbled.
+
+“Unacceptable indeed,” Gan Guangli said agreeably.
+
+Ling Qi caught Xia Lin looking surprised out of the corner of her eye. “... Yes. Baroness, I trust you will clear the matter up quickly.”
+
+“Of course,” Ling Qi replied, reaching down to pat Zhen’s head. He had taken up a spot beside her and was peering around warily. Looking back, she saw that Meng Dan’s gaze was fixed on the murals, his expression intent.
+
+The quiet banter fell off the moment Cai Renxiang raised her hand for silence, turning her eyes toward the doorway leading further into the redoubt. A moment later, Ling Qi felt what she must have felt, the approach of a strong spirit, a cold clear sky, deadly and dry, fit to sap the life from all under it.
+
+It was familiar to her.
+
+The heavy door opened, revealing the woman she had met in the crater. She did not look much different, save that her golden hair hung about her shoulders, and she wore a glittering gown of midnight blue trimmed with white fur now. Her stern expression swept over them, and Ling Qi caught a hint of curiosity there.
+
+A few steps behind her came her husband. Barbarians, it seemed, could clean up well. He wore a knee-length robe of blue and white, cinched at the waist with a belt of golden hide. It was embroidered with stylized windlines and falling snowflakes. On his head, he wore a round, pointed cap of dark fabric ringed by black fur. Like the younger barbarian, he had a mustache, but a well kept beard covered his chin as well. Separate from his steed, Ling Qi could see that the man was as tall and nearly as broad as Gan Guangli. Ling Qi was left with the bizarre thought that the barbarian was rather handsome.
+
+<The horror,> Sixiang muttered dryly in her head.
+
+They all rose to their feet, and Ling Qi clasped her hands respectfully. “I am glad to meet you again in better circumstances, Emissary Jaromila.”
+
+“I see we will not be attempting to sing at one another this time,” Jaromila said somewhat dryly, studying them all. “I am told you are called ‘Linchee’?”
+
+“That is correct, Emissary,” Ling Qi replied. “I was not prepared to speak at our last meeting.”
+
+“No, it is quite clear what you all were prepared for,” the man beside her said, his arms folded across his chest.
+
+Jaromila made a subtle gesture to her husband, quieting what he might have said next. “We will approach the matter, Ilsur. First, I would have introductions while my servants bring us refreshment.”
+
+Ling Qi began to introduce them all as everyone took their seats. The barbarian, Ilsur, remained standing behind his wife’s chair, eyeing the rest of them with the air of a hunter. The servants who came were folk of the same type as the soldiers, stocky and ruddy skinned with black or brown hair. Most were women, but a pair of men accompanied them, wearing paler colors and more fancifully stitched robes. They seemed to be the ones directing the others as they set out drinks and small trays of simple foodstuffs.
+
+Soon, the introductions were finished, and Jaromila closed her eyes for a moment. “I see now that my impression of you was mistaken.”
+
+“May I ask what that impression was?” Ling Qi inquired. “Why did you come to me in the middle of a battle?”
+
+The foreign woman considered her words. “I believed at first that you were the agent of another clan. You have the look of the Sibiar about you.”
+
+Ling Qi frowned down at the cup of clear blue liquid that she had been poured. Frost marked the clay cup. “That is why you were surprised that I could not understand you. Sibiar… Is that the name of another group of your people?”
+
+“It is,” Jaromila admitted, throwing back her own drink. A swift tap of the cup on the wooden table drew a servant to pour another from the iron decanter in her hands. “They are members of the White Sky, along with my Alaniar. I was angered that such an agent would damage our negotiations this way.”
+
+Her words were sharp and cool, and Ling Qi felt the room's tensions rise. Squaring her shoulders, Ling Qi replied, “I will not apologize for interrupting a council of war against my people.”
+
+Cautiously, she took a long drink from her cup, trying to match the other woman. The liquid burned her throat on the way down despite its incredible chill. It took a strong effort to not cough as she set it down, still half full.
+
+There was a faint chuff of laughter, and her eyes flicked to the man standing behind Jaromila. “No twisting words or false apologies? I would ask if you were ill, lowlander, if I did not know better.”
+
+Ling Qi could feel Xia Lin glowering at him, and Gan Guangli to a lesser extent. Cai Renxiang sat beside her, a cup of something amber colored clasped in her hands.
+
+“I do not think it is necessary,” Ling Qi said. “The people of the Emerald Seas and the men of the clouds have always fought. I do not know your tribe in particular, but the tribes which joined with those creatures have done us great harm very recently.”
+
+“That is true,” said the man, leaning back. “Our blood feud is as old as the hills and the mountains. Near as old as Father Sky himself. But we of the southern tribes know you only by word, so I will not judge harshly your attack. Of my men who were slain, it is another matter.”
+
+“This is an unfortunate point of contention,” Jaromila followed up. “If you wish to speak of matters of peace, I must be able to present my people with recompense for the blood already shed between us.”
+
+Ling Qi glanced between them. “Blood price is not unknown to us,” she said slowly. “But neither will I be taken advantage of. Much of the harm done came from the power unleashed by the Twelve Stars as well.”
+
+“And we have sent word to them as well,” Jaromila said sternly. “But despite your nature, I cannot go further without an agreement on this matter.”
+
+Cai Renxiang spoke. “A reasonable price can be arranged.”
+
+Jaromila leaned back in her throne-like chair studying the other girl. “You, I recall as well. The Tsai of the Emerald Seas Confederation, you call yourselves. Have your clans empowered you to speak for them, or do you speak only for the Tsai?”
+
+Cai Renxiang shook her head. “All in the Emerald Seas owe fealty to the Cai and will obey my mother’s words. I speak for her in this matter.”
+
+Jaromila frowned deeply for a moment, but her features swiftly smoothed. “Ten wagon loads of good hardwood, and six of good softwood. Both are to be cut no more than one month prior to delivery. Our measurements will be used.”
+
+“Done,” Cai Renxiang said instantly, and Ling Qi didn’t blame her. Even if a wagon load was measured by a very big wagon or sanki, which the translation may have flubbed, that was nothing at all to the Emerald Seas. “We will require a place where the resources may be delivered.”
+
+Jaromila stared at her for a long moment. Ling Qi was quite sure she had expected negotiation.
+
+Her husband gave Cai Renxiang a suspicious look but shrugged. “It is good that you are willing to be generous.”
+
+Their momentum in the conversation faltered.

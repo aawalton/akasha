@@ -1,0 +1,153 @@
+---
+id: ff920137-7901-5e99-8928-a843c3f3d2cc
+page-type-slug: story-chapter-royal-road
+title: "Threads 355 Disruption 1"
+slug: 0395-threads-355-disruption-1
+partOf: forge-of-destiny
+position: 395
+ownLength: 2299
+unit: words
+publishedAt: 2024-01-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1478596/threads-355-disruption-1"
+royalRoadId: "1478596"
+---
+
+It was not the scribbler’s chamber where they found Cao Chun. That was sealed off. Instead, they met him out where the giant spider corpse had been, the grand chamber turned into something of an office partitioned off with cheap wood and paper dividers painted with security formations. The agent led them through the bustling center to the room where the inspector waited.
+
+Cao Chun waited for them behind a desk of dark wood, a neat stack of documents off to one side, which, at a glance, Ling Qi found she could not see the contents of.
+
+"Baroness Ling, welcome. I will not censure you for the surprise guest. The Zheng clan is notoriously spontaneous." The inspector folded his hands in front of his face. His mask was up, tied to the side of his head.
+
+"We sure are! Thanks. I figured you'd be fine with it. You know what I'm about."
+
+"Your master is known to us, Zheng Fu," Cao Chun said dully. It did not sound like a compliment.
+
+Ling Qi glanced at Zheng Fu; he grinned. "My master, Zheng Gen the Formless, is pretty sneaky. He taught me good. It's why I figured I could help."
+
+"It is doubtful that you or this event are a direct target of Zheng intelligence. When not involving himself, that one prefers to simply instill a mindset, send out his pieces, and let events unfold," Cao Chun said.
+
+"Man, you make everything sound like a plot, don't you?" Zheng Fu wondered. "But I'm just here to assist that brave lady here. She's worked pretty hard on this, I can tell. It'd be a shame for some idjits to ruin it."
+
+"It is not acceptable for plots to go about under the ministry's nose uncovered," Cao Chun agreed. "Baroness Ling, you wished to talk about the accidents."
+
+"I do. I doubt it is a surprise to you when I say that our own assets are quite sure that they are not accidents at all."
+
+"No. We are not surprised. The signs are hidden well, but in the final week of preparations, the frequency was too much for coincidence. The number was enough so that I suspect that the culprits wanted to see attention brought to this."
+
+"May I ask if the ministry has found any leads on the matter?"
+
+"Frankly, the signs point to the barbarians, or if I am being generous, some rogue faction within them."
+
+Ling Qi frowned deeply. "How so, inspector?"
+
+"They have significant mastery of geomancy and spiritualism. All of the incidents involve some disruption or manipulation thereof. And there have been signs of their distorted form of qi at the sites of investigation. It is most subtle and required my direct investigation to find," Cao Chun answered crisply. "However, I am not ready to make accusations."
+
+Zheng Fu crossed his arms. "And why's that?"
+
+"Because I am disinclined to accept a result where I am being so easily shown what I wish to see. Nor does it fit my observation of these barbarians' methods. No, frankly, this reminds more of the mental treachery of the Hui."
+
+"Honestly, my suspicions run more toward our other foes given their methods and penchant for intrigue." Ling Qi nodded toward the ground. "I think the ith-ia and their own allies would stand to benefit the most from this summit dissolving into violence, or simply failing. I have no direct evidence yet, but the motive seems right."
+
+"That is a foe I have considered as well," Cao Chun agreed. "As it stands, there are multiple barbarian culprits possible, and…"
+
+"And our own folks," Zheng Fu finished with a shrug. "It'd be dumb, but since when has that stopped us?"
+
+Cao Chun looked irritated. "Yes. It is possible. There are elements in the empire much more upset by this attempt than I."
+
+"Regardless,” Ling Qi said, “finding the truth of the matter is key. I admit, our own investigations have been limited thus far. We suspect that there will be another accident during the first week, but we haven't narrowed it further."
+
+Meng Dan had been working hard to divine that from the current information and patterns of behavior, but he also had other duties, meaning that he couldn't devote his full time to it.
+
+Cao Chun tapped his gnarled fingers together. "I have reason to believe there will be an incident tomorrow. I suspect either a crumbling of the road up to the severed peak, spilling men and materials down to injury or death, or an incident at the road junction where our crews are finishing the connection of our warding networks. It will likely take place around the middle of the day when I am occupied with watching over negotiations. It is very possibly meant to distract me and allow something untoward elsewhere."
+
+"There are many potent cultivators there," Ling Qi pointed out. "You could…"
+
+"Not with eyes like mine,” Cao Cun interrupted, “and I do not trust those crow creatures among our delegates without my sight. Furthermore, while nothing is confirmed yet, I suspect the culprit or culprits are making use of infomorphic arts of some kind."
+
+Zheng Fu glanced at her. "Our kinda stuff. Dream stuff."
+
+"If you must be crude," Cao Chun replied. "Yes, liminal manipulation. Of what kind, I am not yet certain, but the taste is in the air. It is not just the Hui remnants clinging to this valley like pollution, though that is not helping. I would prefer to handle this matter, but I will not turn away field expertise. That is why I accepted this meeting."
+
+Ling Qi understood now. Inspector Cao must have been considering it already, but in approaching him with at least a tentative peace offering, he had become more willing. "I see. Of course, I will assist however I can. We can't afford saboteurs with how delicate negotiations are. How may I help with this?"
+
+"The simplest method, the one certain to prevent any real world harm, would be for you to lurk in wait on the 'other side' at the appropriate locations. However, this will likely spook the suspects. Your absence will be too obvious. But it may inform us of our foe’s priorities based upon how they react."
+
+"Huh? Maybe I could relay?" Zheng Fu proposed. "I'm just a feckless observer. Don't got anything to do. I can lurk around and send you a message when I notice something going down. You're good enough to step that far once you can make excuses to get out of the meeting hall for a minute, right?"
+
+"I can," Ling Qi said slowly. It was at most a couple kilometers if the strike site was the mountain path and even less for the road nexus. That was no distance at all if she was skimming the liminal border.
+
+"Possible. This will still be an alteration to the meeting which may tip off the suspects. It is, however, less risky. My apprentice has some skill in these arts as well, and I had thought to assign him as a spotter for the agents involved before Sir Zheng’s proposal. I will make use of him for communications with you during any operation regardless, but I propose that you make use of him here."
+
+Ling Qi did not care for Jin Tae very much, but if Cao Chun believed in his skill, then it had to be real.
+
+"How much danger do you believe the targets of these accidents are in?" Ling Qi asked the inspector.
+
+"There is some risk of injury, but even without your attendance, I did not divine any deaths happening, should we intervene. However, no divination is certain."
+
+Ling Qi knew the best bet for making sure that they caught a clue and gained something actionable meant not tipping their hands until the absolute last second. She also hated the idea of obliquely using their own people for bait.
+
+"May I ask what Jin Tae's method is?"
+
+"The Jin clan's mirror arts reflect and refract senses, techniques, and objects through what you call the liminal. At his current level, there remains some lag in transference, so I do expect it to be somewhat slower than either yourself or Zheng Fu. However, I believe the benefit to be greater than the risk of this delay."
+
+"Easy to say when it's not you on the line," Zheng Fu drawled.
+
+"We do not live in such a happy world one can risk nothing and gain everything."
+
+"And if this summit is disrupted badly, it would cost much more in lives. Very well. Jin Tae takes that role. Zheng Fu, you will come with me when the signal arrives."
+
+He scratched his head. "I don't think they'd call off for me, but… Guess they might be more on guard. Fine. We'll just have to be as fast."
+
+"We can manage. Inspector Cao, what other details can you give us?"
+
+"The most likely time of attack is sometime after the law reading begins but before the first recess. We are uncertain yet if this is a matter of subjects inserted among the work crews or some effect or object which will arrive through liminal passage. In the case of the latter, it would be a most subtle method which my non-destructive investigatory techniques cannot detect. This suggests a method too exotic or foreign for me to recognize or overwhelming potency. I suspect the latter as otherwise, these accidents would be too small…"
+
+Ling Qi leaned forward, listening closely. If she was going to do this, she was going to do it right, and so, she was going to commit the inspector’s every word unto memory.
+
+***
+
+Sixiang sighed in her mind. <Ahhh, not exactly the way I wanted to come back.>
+
+She was sorry, but also thankful for the muse’s help. To minimize every risk she could meant calling on the only friend she had who could help her here.
+
+They were still outside the meeting hall on a balcony, watching people stream inside for the day's talks.
+
+<I get it. Wish I could stake out for you, but I'm pretty loud when you're not covering for me. Thanks for trusting me, if only for a little while.>
+
+If she was honest, she felt more comfortable than she had in months now, even with the slight tension between the part of her mind sectioned off for Sixiang and the rest of her. She hoped… She knew Sixiang wouldn't make her regret it.
+
+<I won't. I promise,> Sixiang whispered. It was like their voice came from the far end of a tunnel, tinny and quiet.
+
+Cai Renxiang had been informed of the potential disruption. Ling Qi had wanted to tell Jaromila too, but Inspector Cao Chun had been stubborn about that. Instead she'd simply told her opposite that there might come a time when she would have to step out for a short time during the day and attend to an internal matter. Even getting Cao CHun to agree to that much had been difficult.
+
+But if Jaromila was compromised, she knew this was all pointless anyway.
+
+<Hey, you got this, ‘specially with me around to be your wind. You'll fly there and stop the bad guys. No problem. Bang. Pow. Woosh.>
+
+She would like to think she was a little more elegant than that. Zheng Fu seemed more the “Bang. Pow.” type.
+
+<Okay. I hold ‘Woosh’ is still valid.>
+
+Smiling a little, Ling Qi turned from the balcony and headed inside. There was no use being anxious now. She would just have to follow Jin Tae's signal when he gave it and trust that everyone's judgment had been sound.
+
+It wasn't too hard to put on a calm face for the opening statements nor to do her part in introducing the empire's legal scholars to their counterparts. Together with Gan Guangli, they backed up Cai Renxiang in laying down the rules and structure of the debates and explorations going forward.
+
+But it was impossible not to keep at least a mote of her attention on Cao Chun, sitting straight in his seat, by all appearances completely unruffled. It was also impossible to not look around the room, seeking out some kind of discrepancy, someone who was out of place or whose spirit felt wrong. She peered at Names and sought the false, but came up with nothing for her effort. Not a single sign of something wrong. Then again, if these accidents were the work of the ith-ia beneath their feet, then Cao Chun might indeed simply be paranoid over their foreign guests.
+
+The meeting began. The pleasantries were made. Cai Renxiang spoke about cooperation and the importance of law and announced the first subject, property. Ling Qi introduced their first expert, a smartly dressed scholar of indeterminate age with well-groomed salt and pepper hair and sharp features. Jaromila announced their own scholar of property law, an extremely aged fellow that seemed more beard than man, swathed in billowing robes.
+
+Ling Qi listened with half an ear as the men, through translators, discussed the finer points of their professions, of deeds and rights and transferral and small 's' sovereignty. She was sure it was very interesting—Lady Cai certainly seemed engrossed—but it wasn't for her.
+
+<You know I said I was sorry already, right?> Sixiang whispered.
+
+She knew.
+
+The morning crawled on and on. The sun slowly made its climb into the sky, and words rose and fell in the hall.
+
+"Foreign thoughtform inbound. I will begin encirclement and interdiction. Please assist."
+
+Jin Tae's voice sounded mechanical in her head, like the clicking gears of a clock.
+
+"It's time," Ling Qi murmured in Cai Renxiang's ear. "I must attend to the arrivals."
+
+"Go," Cai Renxiang said quietly so as not to interrupt the scholars.

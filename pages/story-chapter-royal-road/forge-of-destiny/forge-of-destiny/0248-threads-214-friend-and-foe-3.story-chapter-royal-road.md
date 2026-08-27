@@ -1,0 +1,153 @@
+---
+id: 739cdf9d-fd46-59b9-a311-4711573e512d
+page-type-slug: story-chapter-royal-road
+title: "Threads 214-Friend and Foe 3"
+slug: 0248-threads-214-friend-and-foe-3
+partOf: forge-of-destiny
+position: 248
+ownLength: 2136
+unit: words
+publishedAt: 2022-05-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/905843/threads-214-friend-and-foe-3"
+royalRoadId: "905843"
+---
+
+There was one more thing she needed to ask, if she was to wrap her head around these creatures as something more than foes.
+
+“When I infiltrated…” Ling Qi paused. “You implied that Ya-lith-kai is seven cities. Does this make them a league? Is your own a league with its three cities?”
+
+“My people are only a city made of three communities, three hearts in harmony, following the will of the god whose spoken name is Ha from the time of migration,” Tcho-Ri replied. “We are not a league. They are seven whole cities who once followed different faces of Ya, but they reached a consensus to make him one. They are a league and are at the limits of consensus. A great league requires that multiple gods remain and form a pantheon, a community of gods.”
+
+Ling Qi nodded, thankful for the elaboration. “When I infiltrated one of the component cities of our foes, I heard laborers speaking of pack and family and the need to ‘awaken’ pups, which I assume are children. My question is: what is family to your people? How do you raise your children and organize your households?”
+
+Her conversation partner fell silent, and Ling Qi waited for a polite beat even as the faint hum of the ith-ia’s suit increased. The White Plume guards flanking Tcho-Ri glanced her way as she let out a pained hiss. “Why do you wish to know this?”
+
+Ling Qi held back a wince, understanding only a moment later that such a question might seem rather threatening given… She tried to ignore why it might seem threatening. “Kinship and community are important to me. I cannot understand you if I do not understand this.”
+
+Labored breathing resulted. “Family—pack—is the smallest unit of consensus. Individuals who find contentment or joy in one another, joining in ceremony and blood... This is a blood-pack. This is not the same as work packs, those joined by their common labors, which are often composed of many blood packs.”
+
+“So, it is not a male and a female joining together for the sake of children?”
+
+“A pack of two is very small,” Tcho-Ri said dubiously. “Young, perhaps. Three to five is common. Some blood-packs grow as large as ten. More is unhealthy in this one’s opinion. Individuals will have their needs untended with so many, but this is not a consensus. This one does not understand the relevance of male and female in this.”
+
+Ling Qi grimaced, feeling faintly mortified to have to speak of such things even obliquely. “Well, you need a man and a woman to create children, so…”
+
+Tcho-Ri let out a soft hiss, seeming to understand her reticence. “It is the duty of the Hand and the Fingers to gather the life essence of the community and put it toward procreation. Pack may also do so among themselves as they like.”
+
+Ling Qi pursed her lips and steadfastly purged her mind of what those words may have implied. “So... children then. I heard something about having to wait for one to awaken?”
+
+<Not even gonna tease you for that one,> Sixiang muttered.
+
+Tcho-Ri gave the impression of looking hard at Ling Qi for a moment, despite her lack of eyes. “Most who emerge from the hives are mindless. You have seen our warbeasts, this one presumes. Most are like this: pets or tools, not children. The Awakening of intelligence is precious, but for there to be a long wait is unusual. It implies a malais in the community, lessening the spiritual energy which forms the minds of children. But this does not answer your question. Pack is a group of individuals who find consensus and comfort with one another, who raise children and help them grow into the community, so that when the children mature, they may make their own packs. So it is that Ha and the Yith perpetuate.”
+
+That sounded alien to her, but not terrible. The thought that family was something to be chosen struck her as odd, but was it really that different from her current situation?
+
+“I see. Thank you for your time,” Ling Qi said, nodding her head in gratitude. She began to turn away.
+
+“Baroness Ling.” Tcho Ri paused. “What happened to the blade which wounded you?”
+
+“I took it as a prize.”
+
+“Would you return it then? It is sacred, and the people of Lith are wrong to risk them here. I have nothing to offer for this, save gratitude,” Tcho-Ri said, awkwardly bowing in an approximation of the imperial style.
+
+Ling Qi glanced at the creature, Tcho-Ri, standing here alone among many who would not even be as generous as her. The sight tugged at her sympathy.
+
+But it was hers by right of conquest. The Ya-lith-kai should not have attacked them or risked sacred relics if they did not want them lost.
+
+She then looked toward the Bai delegation. Xia Lushen had already offered to purchase it from her. He had given her time to consider, but it would be rude to refuse.
+
+“It’s already spoken for.” Ling Qi could not hand over a prize for nothing and risk insulting one of the great families of the Empire. She felt sure that it was the right choice, but it did make her unhappy. “Your people should do your best to convince your fellows that war with the Empire will only bring more such losses.”
+
+“Understood.” Tcho-Ri didn’t make any show of being upset, merely resigned.
+
+“I wish you and the people of Ha-yith-kai well under our protection, envoy, as far as that goes.”
+
+It felt awkward and perfunctory, more than pleasantries usually were. This was the way things were though, and changing them was beyond Ling Qi. It still rankled. Maybe that was just Shu Yue’s words rattling in her head though. It was the first time someone had ever called her unambitious.
+
+Ling Qi wandered out into the garden, standing in the shadow of the glittering fountain in its center and stopped a moment to think. Why did she sympathize with this itha-ia? Was it the envoy’s clear submission and resignation toward a power greater than her?
+
+<I think you're more empathetic than you think you are, but only when you talk to people directly,> Sixiang whispered.
+
+Ling Qi looked into the rippling waters at the fountain’s base. Sixiang was overestimating her. She was a selfish girl. When she was better, it was an active effort on her part. It didn’t come naturally.
+
+<I’m not sure that’s a refutation.’Cause you do make that effort,> Sixiang insisted.
+
+Ling Qi let out a huff of breath, ice crystalizing briefly in the mist around her. Seeking something beyond her own lifetime, huh?
+
+“Is this a poor moment, Baroness Ling?”
+
+She looked up to see Wang Lian standing beside her, facing the fountain as well.
+
+“No, just contemplating the Way,” Ling Qi said wryly. “What can I help you with, Lady Wang?”
+
+“I thought we should discuss some details of the arrangement we spoke of, now that time allows,” the older woman said.
+
+Ling Qi nodded, and they began to talk.
+
+It was a pleasant enough conversation. They couldn’t set precise dates yet, but Wang Lian provided her some numbers and information she could pass to her liege. In turn, Ling Qi was able to provide her with more information on what Wang Chao had been up to, as well as giving some thoughts on her liege’s plans going forward. She also broached her plans for tomorrow, just in case Wang Chao forgot. Thankfully, as they didn’t intend to leave the sect grounds, a lack of chaperone wouldn’t be a problem.
+
+With that addressed, she soon parted ways with the elder Wang and began to mingle with the rest of the noble guests. She spoke with friendly Bao and quiet Luo, with viscounts and barons, and in each conversation, she maintained what she had said, putting forth confidence in the project she and her liege had taken up, putting words to the value of peace and stubbornly sticking to their belief in ancestral connection. With some, this was accepted with grace. With others… less so.
+
+It was exhausting.
+
+***
+
+But there was some payoff at the end.
+
+“—So, of course I had to just smile and pretend I hadn’t just been backhandedly called a savage,” Ling Qi grumbled, curling up in the plush armchair that had been set out for her. She cradled a cup of watered wine, so cold it was nearly slush.
+
+“How terrible. You’ve marked the miscreant’s name in your mind then?” Meizhen asked. She was stretched out on a dark divan across from Ling Qi.
+
+“Spirits, no, I’ve already forgotten his face. Uh… Brown hair, kind of twiggy. Oh, he had a kind of piggy nose.”
+
+“You are too lax with your foes,” Xiao Fen criticized. She sat on the arm of the divan by Meizhen. Unlike her mistress, she was incredibly stiff, and the drink in her hands, some kind of northern fruit juice, was completely untouched. Meizhen had to prod her just to get her to take it.
+
+“It’s okay. I’ll remember, if it ever becomes relevant again. Third grandson of a Viscount—Uh…” Sixiang trailed off in thought, their illusory figure rubbing their chin from their own perch on the arm of Ling Qi’s chair. “Qiao! Yeah, that was it.”
+
+“Truly, you are in disarray if your muse must take up your responsibilities,” Meizhen teased. “You must find it appalling, yes, Renxiang?”
+
+“Hm? Ling Qi’s ways are unorthodox, but she produces results. A single grandchild is likely not worth investigation,” her liege said, cracking open her eyes. She sat straight and unruffled in an elaborately embroidered seat with much less plush padding than Ling Qi’s chair or Meizhen’s divan.
+
+In her hands, she held a single steaming cup of black tea. Ling Qi could catch the rich earthen scent even from where she sat. She recognized it as a blend Renxiang favored when in the midst of a very large workload. There were some signs of strain in her liege’s expression, although it was nowhere near as bad as when she had been alone with her mother last year.
+
+So Ling Qi smiled and didn’t comment on it. This gathering was meant to let them all unwind. Officially, of course, it was just for the two of them. “I wasn’t the only one enduring troubles though, was I, Lady Renxiang?”
+
+“Yes, that Guo fellow was quite insistent on your attention,” Meizhen noted. “You maintained your poise well.”
+
+“His compliments were appropriate, and his pursuit not untoward,” Renxiang said with a shrug. “His attraction is useful. I managed to find that an official embassy for Zheng ambassadors is being built in the capital of their province, for example, amongst other gossip of the fields.”
+
+“Truly? Those apes going out of their way to be... formal?” Meizhen asked in disbelief. “The world is turning on its head.”
+
+“Perhaps,” Renxiang said. “I noticed that you had your own suitors.”
+
+Meizhen grimaced. “Let us not speak of that.”
+
+“Was Bao Qingling not invited?” Ling Qi asked. “She is the daughter of the Bao head.”
+
+Meizhen frowned faintly, reaching to touch the pale blue sash at her waist. “She declined. I agree with her decision. It is not a venue for her.”
+
+“Is everything okay?” Ling Qi asked, straightening up and leaning forward.
+
+“We have had some disagreements while you were away,” Meizhen replied. “But it has been for the better, I think. We understand one another better now. Do not be concerned.”
+
+Xiao Fen looked deeply conflicted and actually took a sip of her drink when she noticed Ling Qi looking her way.
+
+Ling Qi studied her friend for a long moment, but nodded and fell back into her chair.
+
+<Nosy,> Sixiang teased silently.
+
+Like you don’t want to know, Ling Qi thought grouchily. She glanced toward Renxiang, who seemed content to sit and let the steam of her tea waft over her face, only rarely taking a sip.
+
+“What of you, Renxiang? Did your mother have anything to reveal to you?” Meizhen asked.
+
+“Ling Qi and I will visit my sister tomorrow,” Renxiang said. “The Sun delegation will also arrive tomorrow.”
+
+“Wait, what? Go back to that first thing,” Ling Qi interrupted. She was going to be allowed to visit the new Cai?
+
+“I am not going alone,” her liege said stiffly, fingers tightening around her cup.
+
+“I see,” Meizhen said. “I suppose the security must be sufficient that there is no threat from a third realm.”
+
+They all fell silent at that, the air growing more solemn as the consideration of what could have brought an unprotected infant outside the fortress of Xiangmen settled in.
+
+“Yes,” Renxiang said, short and clipped. “This is above our heads.”

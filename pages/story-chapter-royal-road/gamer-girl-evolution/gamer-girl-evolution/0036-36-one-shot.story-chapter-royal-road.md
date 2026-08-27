@@ -1,0 +1,219 @@
+---
+id: f4fa1383-9c36-5521-aa15-2a199f6a20b5
+page-type-slug: story-chapter-royal-road
+title: "36 - One-Shot?"
+slug: 0036-36-one-shot
+partOf: gamer-girl-evolution
+position: 36
+ownLength: 1674
+unit: words
+ownProgress: 1674
+publishedAt: 2025-12-03
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2815596/36-one-shot"
+royalRoadId: "2815596"
+markedReadAt: "2026-06-29T20:06:44.039Z"
+---
+
+[Since you have defeated the Seventh Boss, the Eighth Boss has spawned.]
+
+Celica looked at her new and improved weapon, glee evident from her glowing expression. And this is only the start! She thought to herself as she looked at how much time she had remaining.
+
+[Time Remaining: 16 minutes 41 seconds]
+
+With sixteen minutes remaining I’ll definitely be able to get at least a Superior Epic weapon. Beyond that, however... she grimaced, shaking her head to refocus.
+
+“Grrrrh!”
+
+A loud cry resounded, breaking the eternal silence of the graveyard. Opposite Celica, about thirty yards away, grew a large figure covered in linen cloth. The figure had no eyes or mouth and moved like a frozen relic.
+
+[ {Elite} Undead Mummy (Boss) – Lv. 65]
+
+Celica glanced down at her weapon noticing the red aura around it was still there.
+
+My crit chance is still one hundred percent from the last fight, and it’ll last another fifteen seconds at least before it resets to zero.
+
+The boss, although it gained 5 levels, shouldn’t have any crit or elemental resistance. Previously, my max damage combo dealt over 20% of the last boss’ HP when my crit was fully stacked.
+
+If I activate FrostBite and do my full combo, don't I just... one-shot?
+
+Celica’s thoughts were spiralling, and if any normal player heard them, they’d be shocked beyond belief. One-shotting an Elite rank boss 20 levels up? That was unheard of.
+
+But Celica’s thought process and understanding of the game couldn’t be compared to a regular video game normie. She had countless hours in the game and had tested every single feasible build.
+
+Not only did she know the limits of her damage well, she knew the limits of the boss too. Although she’d never fought this specific boss, she had fought mummies and various undead bosses countless times. They weren’t particularly sturdy, known more for their uncanny damage and minions summoned constantly.
+
+In a split-second, Celica was in front of the boss, her speed unnaturally quick. The mummy reacted, throwing a piece of its cloth hurtling towards Celica. She anticipated it and dodged, getting closer.
+
+The boss reacted too, adapting by throwing a block of sand towards the approaching Celica.
+
+[Water Strike]
+
+A gush of water cleanly split through the block of sand, the two halves dissipating into fine dust. She advanced, the sand serving as her backdrop as her sword approached the boss dangerously.
+
+The boss stomped downwards, causing the ground around Celica to shake. She leapt into the air, hurtling straight towards the boss. An army of undead ghouls, skeletons and mummies rose from the ground beneath Celica, but it was too late.
+
+She had already closed the distance between her and the boss.
+
+[FrostBite]
+
+Attack → Thrust → Attack → Slash → Attack → Parry → Attack
+
+Critical Hit! Critical Hit! Critical Hit!
+
+Critical Hit! Critical Hit!
+
+[You have defeated the Eighth Boss: Great Undead Mummy.]
+
+[Time Remaining: 16 minutes 34 seconds]
+
+“......” Celica’s mouth hung open as she looked at the corpse’s corpse. “7 seconds...?” She threw Ocean’s Call into the air, sighing slightly.
+
+Maybe this thing is a little too OP. Good thing that’s how I like my weapons.
+
+[Congratulations! Your weapon has been upgraded to Epic Rank.]
+
+“Let’s see what’s changed.”
+
+***
+
++8 Ocean's Call [Epic]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+This weapon grows in level with the user, increasing its stats.
+
+Required Level: 45
+
+Grows until Level: 80
+
+Stats Given:
+
+Combat: +504,000
+
+Defensive: +14,400
+
+Physical Attack: +21,600 (20,000~23,200)
+
+HP: +2200
+
+Fixed Effect (1): While in combat, every attack stacks 4% critical hit chance cumulatively. Maximum critical strike chance attainable is 100% at 25 cumulative attacks. If no enemies or targets are damaged within 30 seconds, critical hit chance resets back to 0. Current critical hit chance: 100% (27 seconds before the cooldown resets).
+
+Fixed Effect (2): Critical Hit Damage is Amplified by 75%
+
+Epic Attributes: Ice, Water
+
+Epic Debuff:  Attacks have a 20% chance to freeze enemies (halved in PvP and against bosses). Critical Hits dealt to frozen targets are empowered, dealing 100% extra damage. Freeze lasts for 5 seconds if the enemy has no resistances.
+
+Epic Ability: FrostBite (Passive) – Coat Ocean’s Call in a layer of frost, imbuing all subsequent attacks with the power of ice and water. Frost-based and water-oriented attacks deal 125% increased damage during this ability's activation. Duration: 30 seconds. Cooldown: 20 seconds.
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined longsword desired by countless swordsmen across all of Earthonia. After experiencing changes, the dagger's latent potential has almost fully awakened, but a greater power within lays dormant.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+Celica laughed to herself as she read the changes. ”This is getting ridiculous. An Epic weapon with perfect traits which I can use till level 80. Aren’t I just set for the rest of Earthonia?”
+
+She chuckled with glee, but her mind instantly switched to analytical mode again. Her eyes narrowed on the Epic Debuff.
+
+Those empowered critical hits will come in handy for nuking. The next time I’m fighting a boss or clearing a dungeon, I can guarantee the fastest possible clear time with a little luck proccing freeze.
+
+[Since you have defeated the Eighth Boss, the Ninth Boss has spawned.]
+
+The notification forced Celica to stop theorising about how she could minmax other clears and dungeons.
+
+[ {Elite} Crazy Ancient Zombie (Boss) – Lv. 70]
+
+From directly in front of Celica emerged another undead, bathed in the graveyard’s mist. It was a grand total of twenty five levels above Celica. And yet, she wasn’t scared, or even worried.
+
+Instead, she was excited. Excited to test the damage her new weapon could dish out. The boss moved first, instantly charging straight towards Celica.
+
+She stood in anticipation, waiting for it to arrive. Her sword was poised and ready to slash out at a moment’s notice.
+
+“Challenging me head-on? Do you have a death wish?” Celica said with a sneer.
+
+Just as the boss approached, a crazy scene unfolded.
+
+[Water Strike]
+
+A wave of water enveloped the boss as it charged. Although it was hit, it didn’t flinch but instead kept going.
+
+“Super armour, huh? Well...” she looked closely at the boss, standing completely still. Just as the charge was about to hit her, the boss froze.
+
+Literally.
+
+From beneath it a layer of ice slowly devoured it. Starting from its feet all the way to its head, until it was completely covered in ice. Any onlookers would’ve been stunned by the strange scene.
+
+Inches away from a horrifying, frozen mountain of flesh, was an innocent looking player, stood nonchalantly. She looked unbothered as she brandished her sword. The sword shone with a crimson aura, as it flew towards the ice capsule.
+
+“Perfect, I needed a test subject to check how well I can nuke with this!” She smiled pre-emptively, in anticipation for the big damage.
+
+She executed her full combo before layering the rest of her attacks. The freeze debuff lasted a total of five seconds, so she was free hitting for an eternity in video game time.
+
+Empowered Critical Hit! Empowered Critical Hit!  Empowered Critical Hit!
+
+Empowered Critical Hit! Empowered Critical Hit!  Empowered Critical Hit!
+
+Empowered Critical Hit! Empowered Critical Hit!  Empowered Critical Hit!
+
+Before the ice had fully melted, Celica got a notification. Her eyes darted upwards.
+
+[ {Elite} Crazy Ancient Zombie HP: 0%]
+
+[You have defeated the Ninth Boss: Crazy Ancient Zombie.]
+
+[Time Remaining: 16 minutes 29 seconds]
+
+“Five seconds...” Celica’s mouth twitched as she processed what had just happened. She had done her animation cancel combo and then continued with standard attacks, but the damage was beyond even what she was expecting.
+
+“Was that even quicker than the first boss?” she reflexively opened her inventory. “If I use this on floor three, won’t things just be too easy?”
+
+[Congratulations! Your weapon has been upgraded to Superior Epic Rank.]
+
+***
+
++9 Ocean's Call [Superior Epic]
+
+Weapon exclusively for: Celica Travine Crystalis
+
+This weapon grows in level with the user, increasing its stats.
+
+Required Level: 45
+
+Grows until Level: 90
+
+Stats Given:
+
+Combat: +504,000
+
+Defensive: +14,400
+
+Physical Attack: +21,600 (20,000~23,200)
+
+HP: +2200
+
+Fixed Effect (1): While in combat, every attack stacks 10% critical hit chance cumulatively. Maximum critical strike chance attainable is 100% at 10 cumulative attacks. If no enemies or targets are damaged within 30 seconds, critical hit chance resets back to 0. Current critical hit chance: 100% (29 seconds before the cooldown resets).
+
+Fixed Effect (2): Critical Hit Damage is Amplified by 100% (stacks with other similar effects)
+
+Epic Attributes: Ice, Water, Wind
+
+Epic Debuff:  Attacks have a 35% chance to freeze enemies (halved in PvP and against bosses). Critical Hits dealt to frozen targets are empowered, dealing 150% extra damage. Freeze lasts for 6 seconds if the enemy has no resistances.
+
+Epic Ability (1): FrostBite (Toggleable Passive) – Coat Ocean’s Call in a layer of frost, imbuing all subsequent attacks with the power of ice and water. Frost-based and water-oriented attacks deal 150% increased damage during this ability's activation. Duration: 45 seconds. Cooldown: 15 seconds.
+
+Epic Ability (2): WindSong (Toggleable Passive) - Your attacks are blessed by the elemental wind spirits. Your attacks are infused with the wind element, dealing 50% more wind-based damage. Additionally, your attack and movement speeds are increased by 20%. No cooldown, this ability lasts for as long as it’s toggled. Currently toggled: off.
+
+Durability: 100%
+
+Description: Originally a lacklustre dagger found in a blacksmith's scrapyard, now a refined longsword desired by countless swordsmen across all of Earthonia. After experiencing changes, the dagger's latent potential has truly awakened. Still, it is suspected that perhaps an even greater power lays dormant within.
+
+Reselling impossible. Trade impossible. Dismantling impossible.
+
+***
+
+[Due to the next weapon change being the greatest improvement yet, the subsequent final boss will be substantially different, both in difficulty and nature.]
+
+[Please wait as changes to the arena are being made. Your time will be paused during this period.]

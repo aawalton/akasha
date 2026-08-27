@@ -1,0 +1,169 @@
+---
+id: 430b0a1d-7b04-5468-a15d-608b8db59da5
+page-type-slug: story-chapter-royal-road
+title: "Threads 262-Yonder 3"
+slug: 0300-threads-262-yonder-3
+partOf: forge-of-destiny
+position: 300
+ownLength: 2515
+unit: words
+publishedAt: 2022-11-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1040555/threads-262-yonder-3"
+royalRoadId: "1040555"
+---
+
+The short journey through the woods proved pleasant. There was no rising hostility or pressure in the air, and their only watchers were circling birds and small beasts that skittered away at their passage. There was, however, a tension in the air, a feeling like the earth and the wind and the water holding their breaths.
+
+“This place is contested,” Ling Qi assessed.
+
+“Like a much besieged castle,” Gan Guangli agreed.
+
+She saw their greeters long before Gan Guangli, and she reached the open meadow at the base of a larger hill around which the shallow river flowed. There were a half dozen of these odd little beasts. They had long-haired pelts in colors ranging from brown to black, blunt but rodent-like heads, and strange tails half the length of their own bodies, were wide and flat like a boat oar with a rough scaly texture.
+
+Five of them sat on the haunches, waving their front paws and seemingly chattering to the sixth member, who sat in the center, It was about twice as large as the other beasts, as tall as a short human while sitting on its haunches, and had a shimmering white pelt. Strangely, for a beast, it also had something like a harness on its body from which what looked like little stone tools dangled.
+
+“Five attendants. One leader,” Ling Qi reported.
+
+“Cultivation?”
+
+“First and second realm. Leader is low third, second stage or thereabout.`
+
+Gan Guangli raised his eyebrows. “Displaying submission then.”
+
+“Maybe. They’re not imperial spirits. Might have different conventions,” Ling Qi shot back.
+
+“True. Still seeking to avoid violent confrontation.”
+
+“Coming up quickly now,” Ling Qi finished. Any closer and continuing to whisper might be rude.
+
+She saw the moment when the beasts sensed their approach. The smaller ones fanned out behind the larger, white furred beast, and fell back onto all fours. She felt a pang of pity. The smaller ones were terrified. However, the only feeling she sensed from their leader was resolve and acceptance.
+
+The beast did not try to bow as they entered the clearing, instead only lowering its eyes. “Changin, son of Chalun, greets the Lord and Lady of the Peaks in Grandfather's stead. Have you come at last to complete the pact?”
+
+The voice she heard in her mind had a youthful and brash texture to it, but it was also subdued. She considered her answer, eyes scanning across the rest, feeling their trepidation. She considered the possibility of leading them around the truth, that she had no idea what they were talking about, but… No, that wasn’t what she wanted here.
+
+“You have mistaken us. We come with greetings as new neighbors. I know nothing of preexisting pacts. Are there others of the human tribes in this area?”
+
+Confusion in the form of glances and chattering noises resulted. Even the leader, Changin, seemed a little at a loss.
+
+“There are the cloud people and the storm walkers, who chased them from these lands. Which are you?” he asked.
+
+“In your parlance, the storm walkers. We are the people of the Emerald Seas and the Celestial Empire. We are at war with the cloud men. We are the deputies of Lady Cai, who is the heir of…”
+
+She paused, thinking about how to frame it,before she decided to sing a few bars, a melody of harsh light and unyielding bark. She sang of a star crowning a great tree which pierced the heavens.
+
+The beasts shivered, and even Changin recoiled.
+
+“Forest people…”
+
+“The horned men…”
+
+“Burning North…”
+
+“Our forefathers have told stories of the forest people. You are here to claim these lands?” Changin asked. There was a bitterness in his voice.
+
+“These are our lands now, but men and beasts need not trample each other. We may each have our place.”
+
+“We come as neighbors, not conquerors,” Gan Guangli supported.
+
+There were shades of a lie there. In the end, they had claimed this land. Its conquest was already complete, but this, Ling Qi thought, was an acceptable softening of the truth where its harshest edge would only do harm.
+
+The third realm spirit before them considered this response. A loud thwack of his strange tail silenced the less self-controlled beasts behind him. “If so, pledge no bloodshed in the Falling Waters Palace with true words, and I will show you to Grandfather, who may decide such things.”
+
+It was a little impertinent to demand a serious vow given their relative cultivation, but her pride wasn’t so stiff as to be offended. At the same time, she couldn’t show herself to be easily pushed.
+
+She allowed her hold on her domain to loosen. The gleam of stars in her hair intensified, and when her lips parted to speak, a cold mist billowed out. As a freezing wind, she swore, “We envoys will shed no blood nor take lives in the Falling Waters Palace, save in our defense. So I bind us until we speak with our lady again. This, I swear upon my power.”
+
+“So I swear upon my power,” Gan Guangli agreed in a voice of grinding rock.
+
+A temporary promise with a sharp cut off. She didn’t hold any antipathy for these beasts, but she was not a fool to make lengthy promises to unknown spirits. Similarly, she would only swear on something simple and obvious, which even the dimmest beasts and spirits would recognize.
+
+Changin bowed his head. Having already pressed them, there was nothing more he could say. “Then please, guests, follow me.”
+
+They followed Changin and his attendants further up the river, and soon, the true span of the beasts’ workings became clear. Ling Qi sensed the change in the air as they crossed the threshold of the spirit court’s holding, the way the whirling chaos of natural qi straightened and hardened, taking on an artificial feel. The first physical sign was a rough span of cut wood and branches woven and wedged together into a dam holding back some of the river’s flow. A small, artificial lake, as clear and clean as Snowblossom Lake, was formed behind the dam.
+
+And there were many of them. As they proceeded upstream, Ling Qi saw that the beasts had diverted the waters’ flow many times, forming pools and ponds of varying size and in great numbers. The trees were much more spaced here, and bright sunlight shone on the sparkling waters. A river that would have been a single, great span instead became a widely spread wetland full of flowing shallow waters.
+
+From those waters, she saw many beasts watching them. She saw the slim shapes of river otters flashing beneath the surface and peeking from the ponds, and there were other smaller furred rodents in various shapes and sizes, as well as frogs and toads.
+
+The area had a scenic beauty to it, but at the same time, it was damaged. She saw many of the strange dams and nests partially washed away, and busy crews of the flat-tailed beasts were working hard, dragging logs and breaking them down, pulling things back into place. When she considered the way the Sect Head’s domain worked…
+
+Changin caught her watching such a crew as they proceeded and confirmed her suspicion. “The rains have been harsh.”
+
+Understandable enmity, but even leaving that aside, she had another, less charitable thought. This spirit court seemed terribly weak. There were a scattering of third realms about, a few even quite advanced, but the vast majority were beasts of red and yellow realms, and not all of these even showed the signs of intelligence. She still did not sense a more powerful lord.
+
+How did they persist with such a lack of strength? There was a denser qi emanating from further up, but it did not have the feel of an active spirit.
+
+Her curiosity at the source was soon answered as they climbed a narrow switchback trail up a cliff some twenty meters in height. Even at the bottom, she could see the high walls of another dam, another nest, this one more akin to a palace. Even the reduced flow of water bursting from beneath it formed a curtain of crashing, falling water into the wetlands below.
+
+What she saw at the top was familiar from her journey further south. Here at the far southern edge of their land was the retreating remains of a great great glacier. From her vantage, it was a glittering wall of blue and white in the distance at the top of a loose stony slope. But it was not the ice which drew her eyes, but rather, the dark shadow in its depths.
+
+It was dead, she was certain. But then, so was the ancient skeleton to whom she took her stories.
+
+She pulled her eyes from the rippled wall of ice and looked below to the grove of trees which grew at the mouth of the chasm of rock which contained the glacial wall. Here were stout trees almost barrel-like in proportion with ice blue bark and short, twisted branches from which grew pale white leaves. They were not particularly tall. The largest she could see poking out from the rest of the grove's canopy looked no more than five meters tall, but the air was noticeably colder, such that the faint mist that sprayed up from the flowing river came back down as gentle snow.
+
+And then there was the ground they grew from. At first, she thought it was snow, but a second look revealed that the soil itself was oddly pale.
+
+And then there was the odd shape of the boulders. Ling Qi briefly thought back to the quarry in the underworld, which had revealed a great spinal column, taller than a tree and half-buried.
+
+The unsettling feeling only increased as she focused on what seemed like a small hill, but was in fact the top half of a humanlike skull of titanic size. Its soil and stone-choked sockets stared blankly.
+
+“Grandfather, I bring the visitors.” Their guide’s silent voice rang out, drawing her attention away from the grove and back to the manor-sized dam built over the river.
+
+There at the riverside waited a procession. Some four sturdy young examples of the flat-tailed beasts, each of the third realm, but in darker colors than their guide, walked with a platform on their back. On that platform was piled a swaddling nest, a mix of woven water plants, bird down, leaves, scraps of cloth, and other soft things. And in that nest rested the most visibly decrepit spirit beast Ling Qi had ever seen.
+
+His fur was gray and patchy in places, and the twitching whiskers the others bore were long on the elder beast’s face, so long that they drooped under their own weight. The beast was much thinner than his kin’s sleek, plump silhouettes. One eye was rheumy and clearly blind, but the other still shone with intelligence. To Ling Qi, he felt weaker than their guide, but there was an echo of lost power. In his prime, this beast had probably touched the fourth realm, if only barely.
+
+It was the first time she had seen the results of such a badly failed breakthrough.
+
+<The higher realms are no joke. Don’t approach them lightly,> Sixiang whispered morosely.
+
+“I told you they were not the pactmakers.” Even the beast’s spiritual voice was a whistling wheeze. “Visitors, this elder apologizes and welcomes you to Falling Waters Palace.”
+
+“It is no trouble. I would be curious to know something of this pact you mention,” Ling Qi said politely.
+
+“Grandfather…” the younger beast said warily.
+
+But Ling Qi felt the old beast focus on her, his good eye searching. Obligingly, Ling Qi made no effort to screen the perception technique she felt skittering over her skin.
+
+“Guide the waters, shape the stone, shelter life, revive the land, maintain the prison. When I return, I will raise thee to the heavens,” the old beast recited. “Such were the words given to our great ancestor.”
+
+“And how long ago was this?” Gan Guangli asked.
+
+“I cannot say. Too many tablets of history broken. It was before the ice retreated when humans still lived in the mountaintops,” the wizened beast gasped out. “But it does not matter. We have failed.”
+
+“We have not,” the younger beast cried. “Grandfather, we can repair the great work if…”
+
+“Not with the strength we have,” the elder said harshly. He raised a withered paw and tapped it on the wood, and Ling Qi felt a pulse of qi ripple through the earth. Gan Guangli shifted beside her. No doubt he sensed the same thing.
+
+There was a vast working under their feet, a pattern that was not merely the natural flow of the world, but it was broken. The beast’s release of qi was little more than a simple ping, lightning it up for all to see.
+
+“You are very candid,” Ling Qi observed.
+
+“You have the strength to take what you wish,” the old beast whispered, twitching.
+
+But Ling Qi heard the undercurrent there. Such a desperation for a solution was not common. “Where is your lord, Elder? You and your kin cannot have held this land alone.”
+
+“She sleeps. She has done so since the evils from the sky infested her body and the prisoner stirred.”
+
+Ling Qi followed his gaze toward the wall of ice. The thing within… No, the glacier itself, and… through it, the river? Yes, that seemed right.
+
+“You mentioned a prison. Your lord only has that power remaining?” she guessed.
+
+“The visitor is wise.”
+
+“Two hundred years ago, the stars began to stir, the demons came, and the ruin began,” Changin muttered. “Your warring has made it harder, but…”
+
+“The stars?” Ling Qi began only to cut herself off.
+
+She felt a pulse of distortion in the air then heard a wailing cry from the direction of the ice, like some miserable fusion of an infant’s cry and an eagle’s shriek. All around her, she heard the sound of those flat tails beginning to beat against the water.
+
+“One of them is coming again. We must shelter! Guests, please…”
+
+Ling Qi held up a hand and looked at Gan Guangli. The power she sensed in the flickering light in the sky was strong, perhaps stronger than her in raw cultivation, if only just, but she was not alone. But it also felt familiar, like she had felt once before seeping from the cracked starstone.
+
+And this was an opportunity in many ways. If more came, they could retreat. But if these foes were even a little related to that terrible thing she had seen so briefly at the caldera, this could be a valuable opportunity to gain some intelligence on their foe. If it was instead related to the demons the White Sky spoke of, it could be another point of connection. If both were the same…
+
+Gan Guangli slammed his fists together, grinning confidently.
+
+“Please shelter, neighbors,” Ling Qi advised. “It is not in our interests to let such an infestation persist.”

@@ -1,0 +1,139 @@
+---
+id: 9cd9f916-8d1d-5e9b-a27c-a1a548d0662f
+page-type-slug: story-chapter-royal-road
+title: "Threads 415-Taming Winter 4"
+slug: 0459-threads-415-taming-winter-4
+partOf: forge-of-destiny
+position: 459
+ownLength: 1538
+unit: words
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1917047/threads-415-taming-winter-4"
+royalRoadId: "1917047"
+---
+
+After the last three months, Ling Qi did not think she could feel relief from sitting down. That she did now just proved how quickly little gripes could pass with cultivation.
+
+The simple camp chair’s canvas stretched over a wooden frame barely even sank under her weight as she settled into it. She had kept her qi circulating carefully, but her calves were burning so much that she eased the flow. Too much climbing, something she'd gotten out of the habit of, even before her injury.
+
+"Should you really be sprawling like that? Goes against the image you're cultivating."
+
+"Sir Bao will have to have the decency of not spreading a lady's secrets," Ling Qi drawled, cracking one eye open. With her feet stuck straight out, the heels of her boots were propped up on a rock before the small crackling fire. It burned low but hot, consuming the chips of charcoal Bao Qian had fed into it.
+
+They were near the base of the hill, and the bulk of the wagon was providing a windbreak on the side where the earth and scant trees did not. Hanyi was out there in the darkness, instructing her new followers.
+
+"You have changed," he mused. He knelt on one knee, and she watched curiously as he fit a metal grill affixed to three iron legs on top of the fire, letting the metal slowly gather heat.
+
+"We haven't had cause or time to talk much, but it has been a dense set of months."
+
+"It has, at that. I think you just might be set to overtake my cultivation entirely, even with your injury." Bao Qian dusted himself off and settled into his chair.
+
+"Does that not bother you?"
+
+"It's a prick to my pride, I won't lie. But when I hear news of you, I see that your ambitions are bigger and more urgent than mine."
+
+Ling Qi hummed. "So you're content?"
+
+"Hah! I don't think many would say that to a Bao."
+
+She opened her other eye to observe him. He'd pulled an iron skillet and knife from his storage ring and was now emptying a pouch of dark shelled nuts into the skillet. He picked one up and began carving a gash into the shell.
+
+"I'm not in a hurry. Already, I have three hundred years ahead of me. I suppose that's my flaw. I'm not given to urgency."
+
+"I haven't had the luxury, and war is coming for us all far sooner than that."
+
+"You have thrown yourself into urgent tasks! I don't know what one of my cultivation would do about a war though."
+
+Bao Qian was a couple years older than her, and he was solidly at the sixth step of the third realm. She could see his point in a distant way.
+
+"You could say that I follow our patriarch's school of thought. Wealth built in haste is a castle of sticks. Wealth built in patience, a fortress of adamant."
+
+"Oh, your patriarch gives lessons?"
+
+"Only for the very top earners. This type of thought is central to us, the parts of the house which sided with the Duchess."
+
+"Not exactly a plodding decision."
+
+"And isn't that the fun of platitudes?" Bao Qian shook the skillet, evening the distribution of the now carved nuts.
+
+"You missed one."
+
+"Ah, that one is on purpose. Without the cut, it will pop from the pressure, and that will tell us when the others are done roasting."
+
+Ling Qi straightened up in her chair, resting her chin on the back of her hands as she leaned toward the fire, taking in the smoky scent.
+
+"I don't think I can agree. I understand that I can't run forward at full speed all the time, but neither can I settle in place. I don't want to."
+
+"I could tell," Bao Qian acknowledged. "But you have an inkling of the idea. Wealth compounds on itself."
+
+"Power gathers power."
+
+"A success now may be worth more than a success later. It's a hard balance to suss out.” Bao Qian laughed. “Ah, but get into those equations too deeply, and you'll have a room full of elders spitting, hurling chairs, and fashioning their diagrams into blades."
+
+Ling Qi tilted her head. "So rowdy?"
+
+"Only after the children are sent to bed and the ledgers come out."
+
+"Bao family gatherings must be fun."
+
+"They are." Bao Qian looked past her. "The halls are done up in displays of the works of the clan's finest artists and crafters. The tables groan with delicacies from our chefs, and members wear the bright colors of whatever ostentatious show of fashion is in that year. Many hundreds of voices all raised in merry conversation. It's not for everyone, but…"
+
+There was a sharp pop from the fire.
+
+Bao Qian reached down and shook the skillet, making the roasted nuts rattle in place. "That should do it."
+
+Ling Qi reached down and plucked one from the hot iron skillet. The shell had broken open further, and it flaked away easily under her fingers.
+
+Ah, that was not bad. Rich and sweet with a faint wisp of wood qi to it that sent a pleasant buzz through her other senses.
+
+"You haven't answered the question though. Does it bother you?"
+
+Bao Qian chewed his nut thoughtfully. "It does. I lack urgency, and I feel that may have cost me a very good contract indeed."
+
+She met his eyes over the fire, considering. The tentative possibility of a courting arrangement between them had always been just that, and she had not been particularly ready for the idea of one when it had first come about. Her and Bao Qian’s first meetings had been a mess. There was no other way to frame it.
+
+Bao Qian began to speak. "You are…"
+
+Ling Qi's head jerked up, her eyes panning to the sky.
+
+"This will have to be a conversation for later." Bao Qian hauled himself up from his seat. "I think you've upset something."
+
+Ling Qi rose to her feet as well. "They could raise their objections less rudely."
+
+Through her connection to Hanyi, she pulled, communicating to her junior sister that she was needed back in the camp right now. Hanyi raced back into camp surrounded by whirling faeries.
+
+The northern night sky was a solid white now, and the wall was descending on them from the mountains. Wind screamed, drowning out the tinny voices of the faeries.
+
+"This is going to be ugly." Bao Qian shaded his eyes against the glare of the onrushing wall of snow. "I don't sense anything indomitable in there though."
+
+"There is not, but this one is not a passing fairy either." Somewhere in the upper third realm. Peak, even? It was hard to tell with its power so dispersed, like her own trick in dematerializing her qi. "A regional spirit. More than a snowstorm. It has a central concept."
+
+"This jerk! Who do they think they are?" Hanyi said belligerently, planting her hands on her hips.
+
+"While you ladies determine that, I'll be preparing our fortification. Can’t have my wagon blowing away now."
+
+Bao Qian laced his fingers together and stretched. He pushed his feet into a broad stance and slammed his palm into the frozen earth with a muffled thump that sent a tremor thrumming under her boots. The hill they had camped in the shadow of came apart, dirt rolling down like a wave and stone splitting and cracking and flowing like water. Foundation stones and walls piled atop each other like the work of a hundred masons in fast motion.
+
+Ling Qi herself focused on the howling whiteout as it swept down upon them. Even her eyes could not see past it.
+
+Then, it was upon them.
+
+It wasn't a deafening howl. The wind did not rip at the rapidly assembling stones, nor did it try to scour them as Ling Qi might have expected.
+
+Instead, it cried, rattling loose gravel, and tugging and pulling a long, endless freezing song.  It blanketed. It surrounded. It erased the world outside their little fire and rapidly rising walls. It was a lonely vista of untrammeled white, stretching on without end, a world buried and dead beneath the soft blanket of the snows.
+
+"I see why I may have given it an insult," Ling Qi observed.
+
+"Big Sis does it better," Hanyi said stubbornly, but Ling Qi could hear the tinge of worry in her voice. She understood that Ling Qi was hurt right now and was not able to exercise her qi with freedom. Ling Qi understood her worry. She felt it herself.
+
+Quiet. Quiet.
+
+Sleep in winter's arms.
+
+Quiet. Quiet. Peace in all the world.
+
+Oh, yes, that was a quiet that she understood very well. It was the quiet that came after one thought they were warm. The quiet when the carts came around to collect the bodies of those who'd not made it through the winter.
+
+She could feel the winter spirit staring at her from within the white expanse. She had unknowingly challenged it when she had laid down her own claim to command what it did.
+
+This was the singer of the frozen death under winter's snow.

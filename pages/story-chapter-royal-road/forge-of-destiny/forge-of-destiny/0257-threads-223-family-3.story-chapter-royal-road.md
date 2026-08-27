@@ -1,0 +1,167 @@
+---
+id: e39ab38c-c4a5-5b09-ac21-ee27bd2a8f4b
+page-type-slug: story-chapter-royal-road
+title: "Threads 223-Family 3"
+slug: 0257-threads-223-family-3
+partOf: forge-of-destiny
+position: 257
+ownLength: 2021
+unit: words
+publishedAt: 2022-06-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/926894/threads-223-family-3"
+royalRoadId: "926894"
+---
+
+Ling Qi let out a sigh.
+
+“Your peer retainer is dramatic,” Lao Keung said dryly.
+
+“He is,” Ling Qi said with a small smile. “But people remember dramatic declarations, don’t they? Certainly, the history books do.”
+
+It was funny. So much of her recent efforts were propelled by knowledge of the past, but internally, Ling Qi did not feel like she had ever stopped facing forward. Perhaps that is why she felt some of the appeal in Meng Diu’s ideas. Trying to stay still was futile and deadly, but that did not mean she had to ignore the path behind her.
+
+“I suppose they do.”
+
+“What is a White Serpent, towering and imperious in the center of the battle line, but dramatic?” Meizhen interjected. “A leader must be seen to lead, else they will soon have no one to rule.”
+
+“Yes, Gan Guangli’s rhetoric has improved. My inspection of his followers was more than satisfactory,” Cai Renxiang praised. “He will be an able officer and greatly inspiring to our soldiers.”
+
+“Lady Cai should not be so humble,” Ling Qi said. “You can be very inspiring as well when the mood takes you.”
+
+She had convinced Ling Qi after all, despite everything. She wouldn’t let the girl who she had spoken to with the first real blood on her hands disappear.
+
+There was a beat of silence in the box as Gan Guangli’s victory and the next match between Ma Jun and Han Jian was announced.
+
+“It is unseemly to talk of one's own virtues too much,” Cai Renxiang finally said.
+
+“But it is not wrong to accept compliments,” Bai Meizhen said airily. “I think that the future of the Cai is growing more secure.”
+
+The two young Bai men looked confused at the interplay.
+
+In the arena, Han Jian faced her old bodyguard on a field of dunes. Han Jian looked a little taller and a little more serious.
+
+“Hey, miss, I’m sorry about this,” Han Jian apologized.
+
+The starting gong sounded.
+
+The air cracked, and a wave of sand kicked up around the glowing scar that formed in the ground between where Han Jian had stood and Ma Jun. He stood behind her, sword held out to one side.
+
+The girl stood bewildered, her hair askew in the whirling wind and sand. She slowly reached up to touch the faint line of red across her throat.
+
+“I yield,” she said in a wavering voice.
+
+Ling Qi blew out a breath. If Gan Guangli reached the finals, he would have his work cut out for him.
+
+“The Han are in good form this year, it seems,” Cai Renxiang commented. “It is good to see a strong showing from the east.”
+
+“Yes, it shows their resilience,” Bai Meizhen agreed.
+
+“The next Han is rather less fortunate in his pairing though,” Xia Anxi said with a grin. “Alas for him, he must face our Xiao Fen.”
+
+“Han Fang is strong and canny,” Ling Qi said. “But the match is certainly much less in his favor.”
+
+She had never really seen Xiao Fen fight outside their mock spars. It would be interesting to see her face a peer.
+
+Mist curled among the reeds in the muddy waters. The sound of chirping crickets and buzzing insects filled the fen, and two cultivators faced off across the sluggishly flowing waters. The simulated environment of the match seemed to be pulled from the northwest of the province. A slight advantage for Xiao Fen.
+
+Truly, the Sect was still forced to play a careful balancing game this year with so many interests in the tournament.
+
+Xiao Fen proffered a polite and formal bow to her opponents, the loose black silk of her gown rustling in the wind. Between the quiet viper and the mute tiger,  no words needed to be traded.
+
+<Feeling poetic, huh?> Sixiang chuckled.
+
+Han Fang returned the bow and shrugged off the sand colored tunic he wore, baring a muscular chest. The air shimmered, and the jade head of a warhammer slapped into his palm. Han Fang grinned fiercely, a challenge clear in his stance.
+
+Xiao Fen was not so obvious, but Ling Qi caught a small smile playing about her lips as she took a combat stance, hands held as stiff and straight as blades.
+
+“Xiao Fen is very expressive,” Lao Keung commented.
+
+“Something I have encouraged in her,” Bai Meizhen replied, offering no explanation.
+
+Han Fang’s chest swelled with a deep breath, and a roar shattered the stillness of the fen. Wood shattered, mud flew, and water was blown away in an expanding circle some ten meters wide, and Xiao Fen leapt back, allowing the wind to carry her away from the blast wave. She landed atop the roots of a young banyan tree, crouched and ready.
+
+Han Fang was gone.
+
+In the audience, Ling Qi caught a flash of his movement among the treetops. He was using the branches to avoid the muck and water below, and he had twisted the wind like a cloak around himself, deflecting light to become nigh invisible. She saw, too, the shadow slipping away from him, stepping into shadow and vanishing. How familiar.
+
+Xiao Fen paused only a moment on the roots of the tree before leaping gracefully back down to a sandbar which emerged from the churning waters. Her hands wove through a brief kata as black flames bloomed on her gown, burning upward into an eight-pointed crown. Eight golden lights bloomed in the darkness.
+
+“The Vermin Extermination Stance?” Xia Anxi asked.
+
+“She asked which branch of family arts she should pursue. I intend for her to remain at my side,” Bai Meizhen explained. “Appropriate that she took a bodyguard's art.”
+
+“A blunt name for an art. Aren’t they usually more poetic?” Ling Qi wondered.
+
+The Bai men shared an unsure look.
+
+Meizhen answered, smiling. “The great Yao was a straightforward man. It is said he invented this art during Grandmother Serpent’s trials when she set him the duty of preventing her sleep from being disturbed by parasites.”
+
+“Ah,” Ling Qi said, having nothing further to say.
+
+Trails of dark fire followed Xiao Fen’s hands as she slowly turned. Ling Qi could feel pulses of qi rippling out from each of the “eyes.” The pulses brushed over the environment, likely forming a detailed map in the girl's mind’s eye. Ling Qi could feel the ember that clung on to every living thing it touched from the smallest fly to the largest tree.
+
+The air broke with thunder as a jade blur whipped through the air. Xiao Fen’s hand snapped out, shattering the hammer mid-spin into motes of green qi. The blast of impact ruffled her hair and tore at her gown. A second hammer flew, and a third, and a fourth. Xiao Fen’s arms blurred.
+
+The fen shook, and the light and sound was such that Ling Qi almost missed the zigzagging shadow slipping among the reeds.
+
+There was a tremendous crack and a roar.
+
+Xiao Fen spun around. The black tiger had been caught mid-pounce with Xiao Fen’s slim hands grasping the beast's front legs. An ugly scorch march burned away part of her dress, exposing a shoulder badly bruised by the impact of a hammer. The tiger’s fangs hovered just millimeters from Xiao Fen’s blank face.
+
+There were three ugly cracks in the space of a moment as Xiao Fen immediately dove forward and slammed her forehead into the bewildered tiger’s snout before a narrow knee rammed into the beast’s open belly and triggered a yowl of pain as black fire lanced out of the beast’s back.
+
+“Pragmatic, yes. Mighty Yao was most pragmatic,” Xia Anxi muttered.
+
+The banyan trees shook, branches whipping and leaves tearing off as a rain of spinning green lights crashed down where they stood. The crown of jewel-like eyes on Xiao Fen’s head flashed brightly.
+
+When the visual clutter cleared, the tiger was gone, having slipped away back into the grass, and the sandbar Xiao Fen had stood on was also gone, leaving her standing atop the choppy waters. The sleeves of her gown were shredded, and her hands lightly scorched, her fingers bruised. She was otherwise unharmed.
+
+Xiao Fen began to walk toward the copse of trees, her steps slow and deliberate.
+
+Ling Qi’s eyes found Han Fang in the trees, a grimace on his face. She could tell that whatever art allowed him to produce those explosive copies of his talisman did not come cheap on qi. He was spending more than Xiao Fen was, and the damage she had taken wasn’t slowing her down.
+
+His tiger, she found hidden among a root system, guts churning with toxic fire qi, looking much worse for the wear.
+
+The two of them were on a timer now.
+
+“Han Fang is superior in power, but the efficiency of his techniques still lacks somewhat,” Cai Renxiang analyzed thoughtfully. “And his reserves are below average. It seems something had to give in his cultivation.”
+
+“Time is the greatest enemy, as well as the last one,” Lao Keung noted.
+
+“Whatever else might be said, our Black Vipers are efficient souls,” Bai Meizhen said without inflection.
+
+Ling Qi saw the moment Han Fang made his decision after silent communication with his beast. She felt his grip on the wind loosen then tighten all at once, whirling, cutting wind garbing his body and limbs like a fine robe. His skin reddened, droplets of moisture and embers of fire forming hissing steam around his hands and hammer.
+
+He had taken the argent arts quite far.
+
+The tree he stood on shattered as did the three others that lay between him and Xiao Fen. At the last moment, the girl stabbed forward with both hands to meet the trailing edge of the blast wave and split it apart.
+
+They met there amidst the shattered trees, dozens of blows traded in a moment. They danced around one another with intricate footwork that tore the ground and spit up dust with every step. Twirling hammer met flame-shrouded hands countless times.
+
+Ling Qi saw moments of impact. Xiao Fen’s arm bent unnaturally before snapping back into place with a flex of muscle, and blood bloomed on her gown as ribs broke under the impact of a hammer blow. But the girl never cried out, and her expression never even changed.
+
+Every blow Han Fang struck left him out of position. A hand struck out, fingers stabbing into flesh. An elbow smashed his nose. A hard kick twisted his knee and broke his stance. Every strike also left a burning cyst of toxic fire qi under his skin.
+
+From the scrub around them, there was a roar, and the black tiger joined the dance, visibly slowed by poison. With two against one, it seemed for a moment as if Xiao Fen would be overwhelmed.
+
+Ling Qi saw Bai Meizhen wince out of the corner of her eye as Xiao Fen’s whole body tensed and her eyes went black.
+
+“Vermin Annihilating Breath. Honestly. It is just a tournament.” Meizhen sighed.
+
+“Even a Xiao has their pride,” Lao Keung said.
+
+Ling Qi squinted and felt the change in the younger girl’s qi. Every one of Xiao Fen’s meridians flooded with toxic black qi, and even the breath in her lungs turned to something sickly and poisonous. Xiao Fen exhaled, and the world around her withered.
+
+The tiger yowled in rage and pain, pulling back as the fur on its outstretched paws crisped and burned off and razor sharp claws crumbled like chalk. Han Fang leapt back as well when black flames began to lick his skin.
+
+Xiao Fen blurred.
+
+Ling Qi counted thirty-two strikes before the match-ending gong sounded.
+
+She leaned back in her seat as the arena deactivated and Xiao Fen fell to one knee, blood trickling from her nose. She’d have to tease the girl for straining herself like that. She knew the girl appreciated her jests, even if she pretended not to.
+
+<Pfft, that’s what you choose to lie to yourself about?> Sixiang snorted.
+
+It was a senior’s sacred duty, Ling Qi thought serenely.
+
+The quarter finals had ended.

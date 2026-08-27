@@ -1,0 +1,135 @@
+---
+id: 5a8a862e-9b83-5b7f-a30c-e76120c0fbcc
+page-type-slug: story-chapter-royal-road
+title: "Threads 27 Siblings 1"
+slug: 0036-threads-27-siblings-1
+partOf: forge-of-destiny
+position: 36
+ownLength: 2037
+unit: words
+publishedAt: 2020-12-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/604619/threads-27-siblings-1"
+royalRoadId: "604619"
+---
+
+For a long moment, silence reigned in the bedroom. Ling Qi could feel the turmoil in her mother’s thoughts. There was fear for Ling Qi, a helpless and directionless anger, and many other conflicting emotions. What emerged from that emotional morass, however, was resolve.
+
+“Was there something in that storm worth risking your life for?” her mother asked, drawing her attention back.
+
+“Absolutely,” Ling Qi answered immediately. “The spirit of the mountain was my teacher. More than anything else, I was there to save her daughter.” In her dantian, Hanyi’s qi seemed to both curl up and reach out to grasp hers. “In fact, I actually wanted to introduce you to her, if you don’t mind.”
+
+Her mother leaned back, releasing the squirming Biyu to slide down onto the floor from her lap. “Is that safe?” she asked faintly. “The spirits are -” Ling Qingge shook herself. “No, you would not suggest it if it were unsafe, but… why?”
+
+Ling Qi smiled wanly. “Didn’t I say? She’s the daughter of my master. That makes her my junior sister and my responsibility. You deserve to know the ones who are in our family.”
+
+“I see,” her mother replied, fidgeting with her gown. There was an old and ingrained fear embedded there. Ling Qi knew that to most mortals, spirits were distant and unapproachable things, much more so than spirit beasts with their simpler motives and behaviors. “You are right. As… family, it is only right.”
+
+Biyu, of course, was only looking around with incomprehension, unsure of what they were talking about.
+
+<You’re up. Please be careful, Hanyi,> she thought, giving the young spirit a gentle nudge with her qi.
+
+In front of her, the air glittered, and frost spread across the carpet as Hanyi expressed herself, fading into view. Ling Qi felt the flicker of alarm and revulsion that passed through her mother as the spirit solidified. It hurt a little, but she expected it. She knew that to mortal eyes, Hanyi’s appearance was distressing. A young girl with skin and lips that looked like a corpse, a victim of the cold sleep, and blank white eyes without iris or pupil - of course that would be alarming.
+
+She saw Hanyi’s growing pout and gave her a silent nudge with her qi.
+
+“Hiya,” she greeted with a mildly disrespectful bob of her head. “My name is Hanyi. I guess you’re Big Sis’ family, huh?”
+
+There was silence for a moment until the silence was broken by Biyu, who had backed away and whose eyes were wide with alarm and fear. “Ghost?” she asked, looking to Ling Qi for support.
+
+Hanyi beat her to the response though. “No, don’t be a dummy. You’ll make your sister look bad. I’m a real spirit, not some whiny echo,” she boasted. Ling Qi noticed with some wariness a thread of jealousy and vindictiveness in Hanyi’s thoughts as with regard to her sister. She would have to talk to Hanyi about that later.
+
+“It’s fine, Biyu. Hanyi isn’t a scary ghost. Would I let her in here if she was?” Ling Qi answered patiently, ignoring Hanyi’s words for now. The young spirit shot her a pouting look. “She’s my friend, like Zhengui is. Do you understand?”
+
+“Oh,” the little girl said, still eyeing Hanyi warily. “Where is lil’ turtle?”
+
+“You’ll get to see him again soon,” Ling Qi said with a smile.
+
+“That dummy better be up soon,” Hanyi grumbled.
+
+More importantly, Ling Qi thought, giving her Mother a surreptitious glance, the little aside had given Ling Qingge the time to compose herself and stand.
+
+“Welcome to my home… Hanyi,” she said, offering a polite bow. Ling Qingge hesitated on using the spirit’s name, which was understandable. Generally, mortals would use an epithet. “As my daughter’s junior sister, you are welcome here.”
+
+Hanyi blinked, turning back to the older woman, and Ling Qi felt a complicated snarl of emotions in Hanyi’s heart as she regarded Ling Qingge. “Yeah, um - thank you for your welcome,” she replied with awkward formality.
+
+Ling Qi suspected that Hanyi wasn’t sure what to make of Ling Qingge. Hanyi had a certain disregard for those weaker than her and had little social experience in general, but the role of “mother” was one she understood very well.
+
+There was a moment of awkward silence as Hanyi scuffed her foot against the frosted carpet and Ling Qingge seemed to struggle with her own ingrained manners.
+
+“And I’m Sixiang!” the empty air next to Ling Qi’s head announced brightly. “I can’t say I’m family, but I do live in Ling Qi’s head, so I’m afraid I’ll be intruding on the regular.”
+
+Her mother’s expression was one of blank confusion, and Biyu was once again looking around, searching futilely for someone who was not there.
+
+“You’ve done some good stuff with the house you know,” Sixiang continued, unabated. “Between shifting the furniture around and switching around the decor, it feels way more welcoming. I have no idea how Ling Qi manages to be so dull about that kinda thing.”
+
+“Thank you, I think?” her mother replied haltingly, looking to Ling Qi for explanation.
+
+“Sixiang is another spirit of mine. They're a dream muse, the kind that inspires artists,” Ling Qi explained.
+
+“And look at this one, cute as a button. I’d pinch your lil cheeks if I had hands,” Sixiang rambled on, and Biyu let out a surprised yelp as a brush of wind ruffled her hair. “Never woulda guessed you were Ling Qi’s sister.”
+
+“Hey, what’s that supposed to mean?” Ling Qi asked irately.
+
+“Hey, Big Sis is totally cute,” Hanyi said at the same time, stomping her foot.
+
+“Pfft. Yeah, yeah, you two have that ‘scary chic’ thing going on,” Sixiang announced, and Ling Qi felt in her thoughts the equivalent of the dream spirit giving her an exaggerated wink. “Not at all like the little cutie here.”
+
+Biyu pouted up at the empty air. “Don’t be mean! Sis-y is pretty!”
+
+“Hmph, it’s better if she’s more like me and Momma anyway,” Hanyi huffed.
+
+Ling Qi looked to her bewildered looking Mother and gave her a sheepish smile. “So... Yeah, this is how things are. I know it’s not exactly normal, especially for you, but I wanted to include you in more of my life.”
+
+Her mother looked faintly bemused as Hanyi argued with empty air and Biyu squealed in delight, trying to catch tickling fingers that weren’t there. “I cannot say I understand entirely, but… thank you all the same, Ling Qi.”
+
+Ling Qi nodded, feeling lighter than before. Still, there was one more matter of family to take care of.
+
+***
+
+As busy as she had been in the last few months, Ling Qi had not had the leisure to spend much time at the hill Zhengui was hibernating in. So she was glad that the Sect had assigned someone to check on the location periodically as well. She knew the Sect was doing so partially out of self-interest. Having a confused, recently broken through beast of Zhengui’s likely size wandering around would not do them any good, and studying his growth could benefit them in other ways too, or so Cai Renxiang had said after making the arrangement. She would also receive a copy of their observations for the future.
+
+That was why Ling Qi knew that observation and divination had indicated that her little brother would awake sometime tomorrow afternoon. It had been fortuitous news.
+
+Sitting out here on the veranda with her Mother, looking out over the garden, she couldn’t regret that. The sun was on its way down now, and Biyu had fallen asleep some time ago, worn out by the excitement. Ling Qingge was seated in the lotus position, breathing slowly as she followed the basic exercises Ling Qi had given her. Hanyi was still out as well, snuggled up to Ling Qi’s side, toying with a half-frozen flower. The shattered remains of its predecessors littered the young spirit's lap and the floor around her.
+
+Ling Qi cast a sidelong look at her mother. As much as her cultivation and arts had improved as of late, she could feel in far more detail the problems that plagued her mother’s cultivation. Though it was inactive, she could feel Ling Qingge’s dantian. It was small and empty like all mortals', but subtle flaws had been made clear. Though it appeared as a healthy vessel on the surface, it really wasn’t. It was like a jug riven by a hundred, invisible, hairline cracks, and though it could hold some “water,” the closer the jug came to being filled, the more “water” was forced out through the widening cracks.
+
+While Ling Qi did not know enough of the subject to say, she suspected that this was the result of age on cultivation potential. Her mother let out a deep breath then, opening her eyes, and Ling Qi watched the slow trickle as recently cultivated qi began to dissipate.
+
+“I never imagined that sitting and breathing could be so tiring,” her mother sighed, trying and failing to disguise the slump of fatigue in her shoulders.
+
+“There’s a bit more to it than that, even if you can’t quite tell yet,” Ling Qi said wryly. “Are you done for the night?”
+
+“I believe so,” Ling Qingge answered.
+
+“You shouldn’t be. If you stay like that, you’re gonna disappear and make Big Sis sad,” Hanyi commented idly, not looking up from her project. The young spirit blew gently on the flower in her hands, sending scraps of the plant matter still clinging to the fragile sculpture fluttering away.
+
+Awkward silence fell in the wake of her words, and Ling Qi sighed. She really was going to have to work on Hanyi’s social skills.
+
+“I think we’re still a long way from worrying about that,” Sixiang said lightly. “Anyway, Ling Qi, didn’t you have something you wanted to ask?”
+
+“I did,” Ling Qi said, silently thanking Sixiang for the save. She glanced again at her mother, glad to see that her composure hadn’t been shaken much by Hanyi’s impolite comment. “I was hoping to take you and Biyu on a day trip tomorrow. Do you think you’ll be up for it?”
+
+“I suppose,” Ling Qingge replied slowly. “I wish you had given me more notice. I could have prepared better.”
+
+“Well, we would be going out into the wilderness a ways,” Ling Qi said. “Not exactly something you need to get fancy for.”
+
+“You mean outside the wards?” her mother asked in alarm.
+
+“I am pretty strong,” Ling Qi soothed. “Neither of you will be in any danger, and you got here alright, even without me, didn’t you?”
+
+“Traveling on the road is a different matter, and not, I suspect, what you intend,” Ling Qingge said with a hint of reproach.
+
+“That’s fair, but I promise that both of you will be safe. I just want everyone to be there when Zhengui wakes up,” Ling Qi said, causing Hanyi to perk up as well.
+
+“The Xuan Wu?” her mother asked in confusion. “It will be an impressive sight, I’m sure, but…”
+
+“Mother,” Ling Qi interrupted quietly. “Zhengui is family too. I know you can’t understand him yet, but he’s as smart as Hanyi or I.” She shot the spirit beside her an unimpressed look at the scoff that elicited. “I raised him from an egg. He’s my... little brother, and this is kinda like his birthday, you know?”
+
+Ling Qingge gave her a long, searching look, and Ling Qi shifted uncomfortably. Searching her words and the tone they had come out in, she had a feeling that she had implied the wrong thing. She almost thought to correct herself, but that wasn’t a tangle she wanted to voice aloud.
+
+<I’m missing something again, aren’t I? Why does the idea that the big goof is more like your kid than your brother bother you so much?> Sixiang asked silently.
+
+Ling Qi held in a grimace as her mother nodded. “Very well. I will trust you, Ling Qi. Is there anything I should know in order to prepare?”
+
+“Well, the first thing is… he’s going to be a bit bigger than you remember...”

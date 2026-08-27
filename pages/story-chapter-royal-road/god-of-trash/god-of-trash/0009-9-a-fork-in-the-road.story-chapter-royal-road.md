@@ -1,0 +1,245 @@
+---
+id: 733779e2-e8c5-5325-b8a5-6b2b8f130dcf
+page-type-slug: story-chapter-royal-road
+title: "9. A Fork in the Road"
+slug: 0009-9-a-fork-in-the-road
+partOf: god-of-trash
+position: 9
+ownLength: 4436
+unit: words
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2101810/9-a-fork-in-the-road"
+royalRoadId: "2101810"
+---
+
+Smiling, a man in blue robes clutched his shoulder tightly. A little too tightly, in fact. His shoulder ached, and his bones creaked. “You look familiar, friend. Have we met?”
+
+Rhys glanced at Bast. He flicked his eyes toward the exit. If one of them could escape, that was better than all of them getting caught. Bast could come back and free him later. Bast looked worried, but gave him a tiny nod. He turned and walked casually toward the gate.
+
+“I don’t think we have,” Rhys said, turning and smiling at the man. “I’m sorry, I’m just a kid from the wilds. I don’t know such distinguished figures as yourself.”
+
+“Are you sure? I could have sworn I saw your face, and just recently,” the man replied.
+
+“No, no. Someone like me? I’m sure we’ve never met,” Rhys insisted.
+
+Ahead of Bast, the gates slammed shut. Another two mages in blue approached Bast, subtly ringing him in. He tried to walk around them, but they moved with him. He jerked to a halt and glanced at Rhys, waiting for instruction. His hand subtly tensed into a fist.
+
+Rhys held his hand out flat. No. Don’t fight. If they fought here, they’d die. The man holding him was at least a tier higher. The two ringing in Bast, likewise. Neither of them could survive this if it came to a fight.
+
+“Let’s cut to the chase. You’re the Strawman’s disciples, aren’t you?” the man asked.
+
+Rhys smiled. “What? Who’s that?”
+
+“Enough. We know. You only put your hair down. You didn’t even use a disguise technique. Don’t be ridiculous.”
+
+Rhys kept smiling.
+
+The man in blue grunted. “Fine. We can play that game, so listen. We tricked that diabolical monster you call a master. We sent a distress signal from one of his old allies and trapped him in a purification array… a powerful spell meant to seal him,” the man explained, helpfully. “Give yourselves up. If you come willingly, you can escape punishment.”
+
+Rhys put on a shocked and confused face. “Punishment for what? We did nothing wrong. All we two did, was practice in the forest. We never harmed anyone, nor did we learn any dark techniques. We didn’t even know what the Strawman was until just now. Sir, we’re just two ordinary boys. Please tell me, what are you punishing us for?”
+
+“Well, that’s…” The man trailed off, lost in his bluster. He scowled.
+
+So that was just bullshit. It figures. He was quite used to authority figures pushing their powers further than they actually went. And that meant that he and Bast had far more power in this scenario than this man was letting on.
+
+Rhys raised his voice. “Sir, you’re hurting me. Is this some kind of revenge? Are you going to attack us, ordinary boys who didn’t even know anything was going on, because of some grudge you hold with the Strawman?”
+
+Across the clearing, the mages who’d blocked Bast’s path backed away subtly. They eyed the first man with suspicion.
+
+“What? I would never,” the first man snapped.
+
+“Ow, ow, ow!” Rhys twisted under his grasp, as if his slightly-tight grip were the most painful thing in the universe.
+
+The other two mages stared at the first mage. He lifted his hands off Rhys as if burned. “You—”
+
+“Bast, come here,” Rhys called. The other boy walked to his side. Rhys crossed his arms and looked at all the mages. “We aren’t going to budge from this spot until you explain what’s happening, and what we did wrong. If you can’t tell us, then you’ll have to drag us away.”
+
+A voice interrupted from above. “There’s no need for that. Alistair, stand down.”
+
+Rhys looked up. A woman in delicate robes floated down from the sky, walking on white roses that materialized under her feet as she walked. In fact, her clothes reminded him of a white rose as well, with layered, floaty skirts and a fluttering hem, all made from a fine cream fabric. Her hair was a dark red, and a green thorned vine wrapped around her waist several times to form a belt. She tossed her head and gazed down at them. “There’s no need to traumatize his young victims, Alistair. As the child says, they’ve done nothing wrong themselves. They were merely misled by this monster.”
+
+“Monster?” Rhys challenged her.
+
+“Indeed. Have you heard of the demon king who dominated this continent, three hundred years ago?”
+
+Rhys glanced at Bast. Bast shrugged. He turned back to the woman. “Public education, you know how it is.”
+
+She opened her mouth, then closed it, thinking for a moment. At last, she shrugged. “He dominated the continent for a millennia and left all mages and mortals alike in despair. When he was finally defeated, we righteous mages scrubbed every inch of him off the continent. Any legacy, any weapon, even his disciples were hunted down and destroyed.”
+
+Ah. She’s not going to bother explaining, is she. Rhys snorted to himself, but he didn’t complain. At the end of the day, he got the idea. Big bad guy got defeated, everything he left behind was eradicated. Pretty simple, in all honesty.
+
+“But during his long reign, he created a great deal of items, weapons, and other useless things. Those things that he threw out long before he was destroyed no longer bore a trace of his energy when his downfall came. Thus, they were overlooked when we scoured the continent, and some of them persist to this day. Those are called Remnants, and the Strawman is one of them.”
+
+“Threw them out?” Rhys asked, his ears perking up. Did that mean those Remnants, maybe, just maybe… qualified as trash?
+
+“Straw is one of them? What do you mean? He’s just an ordinary mage,” Bast protested, much more reasonably.
+
+She shook her head. “Have you ever heard of straw effigies? In truth, he is no man, but an effigy. As all effigies, his purpose is to absorb dark energies from the world around him. Despair, spite, fear—he can absorb immense amounts of it, and transform all of it into cursed energy. Countries’ worth of it. And he’s had centuries to absorb that energy. He isn’t a man, nor a mage, but the most powerful cursed effigy in existence. One that poses an existential threat to not my sect, not our country, but our entire continent.”
+
+“That seems like an exaggeration,” Rhys protested. In his mind’s eye, he saw the dark figure that had appeared behind Straw this morning, and the horrifying aura it exuded. He could believe Straw was some kind of monster, but to say he was an existential threat to the continent? He was just a dude in a funny hat who liked straw and camping, and sometimes beat up a pair of boys for fun.
+
+Okay, that last one sounds a bit sketchy out of context, Rhys allowed, but mentally waved it away. He knew what it meant.
+
+The rose lady shook her head. “I’m very serious. Please, come with me. Even if he was kind to you, even if he likes you, your lives will be at risk if you remain here.”
+
+“Because you’re about to attack him for no reason, after tricking him into an ambush? You know, I can’t help but wonder if he isn’t actually that dangerous, and it’s just that some people won’t leave him alone,” Rhys complained.
+
+Bast nudged him. “Mind your words.”
+
+Rhys crossed his arms and shut his mouth, but not without some effort. He had never been good at keeping his opinions to himself. Maybe if he wasn’t the lone defender for all the trash series in the world, it would have been easier. Or rather, it was because he was unable to shut his mouth that he became the defender of all trash. The two had become an ouroboros in his mind, the beginning and the end twisted into one. But he had to admit that he was a child, barely Tier 1, and this woman was so high above his power level that he couldn’t sense what Tier she had attained. Mouthing off would get him killed.
+
+“How pitiful, how your young minds have been twisted to the Strawman’s purposes.” The woman gestured. A giant white rose bloomed under Rhys and Bast’s feet and lifted them into the air. All around them, the other townsfolk fled. Some flew, some ran, but all abandoned the town.
+
+Other mages, the color-coded groups he’d noticed earlier, charged in. They formed concentric rings around a building near the center of town. Mana hummed around them, passing in circles. One loop after another, they encircled the building in layers of mages.
+
+Rhys raised his brows. Everyone seemed to be taking Straw seriously. Was he really that dangerous? This whole time, he’d always been convinced the man was powerful, but this powerful?
+
+As they reached the height of the walls, their last chance to jump off the rose and escape, Bast glanced at Rhys. Rhys returned his look, but shook his head. Right now, they had done nothing wrong. None of these mages had any reason to kill him. The second they turned on these mages, they died. As much as he wanted to remain under Straw’s tutelage for a little longer, right now, that meant he had to fight every mage here. When he and Bast were the weakest mages here, that was only a dream. All I can do is hope Straw’s just as tough as these guys think he is, and he can take them out. Or at least escape. Of the three of us, Straw is the only one who has a hope of doing anything about this situation.
+
+She smiled at them. “Let us make haste.”
+
+Below, the power thrumming between the mages built to a fever pitch. Light poured inward, from one circle to the next, circling around the building. A ring of sun-bright light revolved around the outside of the building, then darted in. It passed through the walls of the building without leaving a trace.
+
+For a second, there was nothing. Then a roar echoed out from the building, and the entire building erupted from within. Stone shot in all directions as an enormous straw effigy rose out of the building’s ruins. The effigy had been roughly shaped into a human form, with arms but no hands, legs but no feet, and a simple, faceless lump for a head. Every piece of straw was soaked in pitch-black energy, oozing that ominous aura that had chilled Rhys’ soul earlier. The effigy rose, slowly drawing it its feet. Its head tipped back, and the straw split open vertically to reveal a gaping maw. Once more, it roared.
+
+Black energy flew from the effigy’s center and instantly soaked the mages on the ground. Their robes and skin alike turned pitch black, with an oily sheen. They slumped, then rose again, hurtling into the sky to attack their fellows. Their eyes glowed blue, like the sky, and their mouths gaped open. Goop dripped from their face and down their jaws. The un-corrupted mages charged at them and fought them back. Swords clashed.
+
+Holy shit. Never mind, Straw is insanely dangerous, Rhys amended, taken aback.
+
+One of the corrupted mages lunged at an uncorrupted mage. They grabbed the mage by the wrist. In the next second, the uncorrupted mage struck their hand from their wrist, but it was already too late. Black corruption crawled over the uncorrupted mage, and they turned around and attacked their fellows.
+
+The rose woman’s brows knitted. Her lips pressed together, turning white.
+
+Her underling, Alistair, looked at her. “He instantly disrupted the array. He’s stronger than we imagined. We can’t hold back.”
+
+She flicked her wrist, and the rose flew off, carrying Rhys and Bast with it. Flipping her hair, she descended toward the battlefield. Rose-red light shone forth as she drew her sword. A cream-colored blade with a white rose for its hilt guard glittered in the sun, perfectly immaculate. “I know.”
+
+Rhys ran to the edge of the rose and gripped its petals, looking down. Far below them, the woman flicked her sword. Instantly, the town turned into a raging nest of brambles. Thorned vines overgrew all the buildings, and enormous roses unfolded from their apexes. Thick pink pollen burst from the roses as they bloomed, and all the weaker mages, corrupted or not, trembled and fell to the floor, dropping into a deep slumber.
+
+The effigy roared again. Corruption blackened her vines, and they withered away. It lifted a crude arm and slammed it down at her. She stared up at it, watching it fall, and then her body blurred. She reappeared behind Straw, sword already striking for his neck. Her blade cut through the straw effigy’s outer layers, but as soon as it passed, the straw released thick gouts of black corruption and healed shut once more. She wrinkled her nose and jumped back, lifting her sword high. A rosebush sprung from the earth and bound up the effigy. Long red thorns, each as large as a human, bit into the straw form. Poison, or maybe acid, dripped from the thorns, eroding the strawman’s body.
+
+“Holy shit, she’s cool,” Rhys muttered, his eyes shining. He knew he should be worried for Straw, but for one thing, it was hard to picture that horrific black effigy as his mentor. And for a second, this was his first real high-fantasy battle since he’d arrived here. Two high-Tier mages, fighting with everything they had. This was what trash-loving people like him lived and died for! If he could stay here and watch, he’d die happy. And probably would, in two or three attacks.
+
+At the same time, his mind ached and his eyes stung. Watching the battle hurt. It was as if the magics being used were so powerful that even looking at them pushed his capabilities to their limits. His mana sense was already on the fritz. There was so much mana whirling around that he could barely sense Bast beside him.
+
+But unfortunately, the rose-lady’s flower had other ideas. It whisked him up and away. Alistair, the man who’d grabbed his arm, clicked his tongue and followed after him, leaving the real fight to rose-lady and Straw.
+
+Altair raised a gem high. “Calling reinforcements!” he shouted, and tossed it up. The gem flew up, glittering in the sky. He landed on the rose, and they swooped off together. Staring backward, Rhys could barely make out the gem open wide into a shimmering gem-tone portal before they were swallowed up by the clouds overhead.
+
+“I wanted to watch more,” Rhys complained.
+
+Alistair snorted. “Couldn’t you feel it? If we stayed there, your brain would have fried. The magics being used were too complex, too powerful. Just attempting to comprehend them might have killed you, let alone if you were caught in a careless strike.”
+
+“Is it the same for you?” Rhys asked cheekily. He wasn’t necessarily angry at these people. If Straw really was what they said he was, then whether he agreed that the man was a threat or not, he understood them fearing him and wanting to restrain him. In essence, Straw was a walking, sentient nuke, and not only that, but one created by a mage so evil he was known as the ‘demon king.’
+
+If such a thing existed back in his world… well, Rhys didn’t need to think long to figure out how that would end up. Every country in the world would go to war over it, whether it was in the name of peace or in order to dominate every other country around through controlling the meganuke. He’d have just left Straw alone rather than risk angering the meganuke, but clearly these people were foolish or confident enough to try capturing him instead. He didn’t know whether to commend their bravery or laugh at their foolishness. Only time would tell. If they succeeded, then it was bravery. If not, well. Then he wandered off to learn from Straw again, and it would be as though all this never happened.
+
+In other words, from his perspective, it was a win-win situation. If the rose lady won, he simply became a mage in her school. If Straw won, he returned to status quo. It was unfortunate what was happening to Straw, but he wasn’t yet powerful to do anything about it.
+
+No. This just proves that I have to get more powerful. In order to protect those I care for, whether they’re meganukes or my friends, I have to become the most powerful mage. Clenching his hand to his chest, the trash-level talent trash mage vowed this to himself.
+
+Bast glanced at Rhys. He saw him standing there, a hand clenched to his chest, and looked away without saying anything, but his eyes remained locked on their teacher far below.
+
+The rose flew on. Day passed into night, and day came again. The distant rumble and clash of the battle never quite faded, though it grew quieter the further they went. At last, the rose drew up to the side of a mountain. It alighted upon a marble platform, then vanished, dropping its occupants to the floor.
+
+Bast caught himself. Rhys stumbled and managed not to topple. Alistair floated down, landing gently on the floor.
+
+“Now, who are these? This wasn’t part of the plan,” an acerbic male voice lashed out.
+
+A loose semi-circle of mages stood before them. Each one wore the color of a different school; if that wasn’t enough, a brooch or seal on their chest identified their school through a symbol. They all appeared to be powerful mages from mage schools, though a few martial artists were mixed in. Notably, no adventurers were present at all.
+
+“These are Straw’s disciples. Lady Illya rescued them before the fight began,” Alistair explained, gesturing at the boys.
+
+Rhys looked over the mages, eyes narrowing in suspicion. He tied his hair back up, suddenly feeling as though he might need to run. Hmm. Maybe my expectation that we’d be taken to the rose-lady’s school was a bit too hasty.
+
+One of the martial artists stepped forward, a big grin on his broad face. He was all muscle, with a broadsword strapped to his back. His aura battered against Rhys and Bast alike, scanning over them. In Rhys’ case, cursorily, but he investigated deep into Bast.
+
+Bast pushed Rhys back and stepped between him and the mages. He raised his fist. Fist Intent shimmered around his knuckles, and he glared death at them, a warning written on his face.
+
+The muscular man’s eyes widened. “Oh? Look at that one. Weapon intent, at his age? Tell me, boy. What’s your name?”
+
+Bast glanced at Rhys, who nodded. Don’t hold back on my account! This is your future, here!
+
+“Bast,” he said at last, lowering his hands.
+
+“And what a familiar energy. Is that a bloodline, boy? What’s your surname?”
+
+“I have none.”
+
+At that, the muscular man’s grin grew wider. “Oh-ho. Interesting. I like him. If no one else wants him, I’ll take him.”
+
+“If no one else wants him? Ha! You’re talking as if a child with weapon intent is leftover junk no one wants! With a talent like that, he deserves a spot at a premier martial school like mine,” a female martial artist declared, stepping forward. She wasn’t as overtly muscular as the man, and carried no visible weapons, but the chains around her hips exuded a formidable energy, and the comfort with which she silenced the man spoke to her power.
+
+“Two weapon intents? No,” a well-dressed mage murmured to himself. “No, we must have him.”
+
+Bast glanced at Rhys again. Again, Rhys spread his hands. He’d already steeled himself to the inevitable, though he was determined to prevent it if he could. Still, he wasn’t going to tell his friend to hold back on his account. Leaning in, he quietly advised Bast, “Pick the strongest one.”
+
+After all, if these were the representatives of their schools, they were likely one of the most powerful martial artists the school had to offer. Judging the school’s strength by their individual strength wasn’t necessarily accurate, but it did mean there was at least one teacher at an advanced power level. Or, in other words, someone worth learning from.
+
+Bast nodded. He turned back to the group.
+
+Before he could speak, a martial artist Rhys hadn’t noticed until that moment stepped forward. He wore pure white clothes in a practical cut, with an elegant gold trim that nonetheless spoke to the rich background of his school. The sword at his hip looked like nothing special, with a simple hilt, crossguard, and a scratched-up sheath, but the power it emanated was unlike anything Rhys had experienced to this moment. When he stepped forward, all the other mages fell silent. He extended his hand to Bast.
+
+“Come to my school. I’ll make you my personal disciple.”
+
+The other martial artists looked like they wanted to protest, but could say nothing. They stared on in frustrated silence, waiting for Bast to take the man’s hand.
+
+Instead, Bast looked to Rhys.
+
+Rhys was practically raging in his head as Bast’s eyes landed on him yet again. Hey! What do you keep looking at me for? This is your future on the line, here! Take his hand, okay? Even a plebian like me can tell that guy’s the real deal! Hell, if he were the one fighting Straw, I’m not confident Straw would come out on top! He nodded aggressively, throwing in two thumbs up just in case Bast didn’t get the message.
+
+Bast turned back to the man. “I accept.”
+
+Rhys nodded in approval.
+
+“As long as my friend can come along.”
+
+Rhys froze.
+
+All eyes on the platform turned to him. He felt a dozen gazes pass over him, then summarily dismiss him. There wasn’t even the invasive sensation he’d felt with the man from Snowdrop School, back in their hometown. Just one glance, and they dismissed him as trash.
+
+The man in white robes hesitated. He looked at Rhys again and frowned, then slowly drew his hand back.
+
+“No, no, no, it’s okay! It’s okay,” Rhys said. He patted Bast on the shoulder. “Isn’t that right, Bast?”
+
+Bast frowned at him. He leaned in. “It isn’t fair if they only offer me a spot.”
+
+“Don’t be ridiculous. Of course you’re offered a spot. You have infinitely more potential than me. Besides—besides, I’m going to be a mage, not a martial artist. I can’t match you in strength, can I? The school that’s suited for you isn’t the school that’s suited for me.”
+
+“But…” Bast glanced at the crowd. It was obvious. No one had offered Rhys a spot. If anyone did decide to offer him one, it would only be out of charity. He wouldn’t be a valued disciple, or taken into a high-ranking school.
+
+“It’s fine, it’s fine. As long as I have a big trash heap, I’ll be happy,” Rhys assured him.
+
+Bast hesitated for one more second, then lowered his head. “If that’s what you wish.”
+
+“Have I ever pointed you wrong before?” Rhys asked him.
+
+“No.”
+
+Rhys pushed him toward the swordsman. “Go. We can find each other later, when we’re both mega powerful mages.”
+
+Bast nodded. He stepped forward and took the man’s hand.
+
+Rhys sighed. It wasn’t that bad for him, but he was an adult internally. Bast, on the other hand, had been rejected by his parents and ran away to an orphanage. To get abandoned by his father figure, Straw, and friend in the same day had to be difficult for him. And in truth, if he could come along, he would have. But the swordsman didn’t want him, and he refused to jeopardize his friend’s future for his own selfish gains. Especially when he clearly had no value to these people.
+
+Bast retreated with the swordsman, back to the rear of the group. That left Rhys alone, standing before the mages. He smiled.
+
+The mages muttered amongst themselves. “Who’s going to take him on?” “It’s not that he has no talent, but his future is clearly limited.” “Honestly, it’s already a miracle that he reached Tier 1.” “That mana pool… there are children in my school half his age who could outpower him.”
+
+He looked to Alistair, but the man cleared his throat and looked aside, refusing to meet his gaze. He snorted. Figured.
+
+Rhys forcibly kept up his smile, but it was hard. He knew his talent was weak, but was it truly so weak that no one even wanted to take him in and neglect him? How pathetic was he? He stepped forward, putting a hand to his chest. “I’m not high maintenance. I’ll even help out around the school. I can gather the garbage and sort your trash. Surely someone has need of a janitor?”
+
+At that, the whispers stopped. A few of the mages stared at him in wide-eyed shock, as if they couldn’t believe any mage would say such a thing. At last, one of the weaker mages stepped forward. She had dark eyes with deep bags beneath them. All the other mages were the pinnacle of youth and beauty, but her skin was weathered and her hands rough from work. Her robes were ragged at the hem and splashed with mysterious stains that even Rhys couldn’t discern.
+
+“I’ll take you,” she pledged.
+
+The other mages fell silent once more, but it was a different kind of silence. The kind of hush that came when the audience didn’t know whether to laugh or cry. Rhys steeled himself and walked toward her. It didn’t matter, in the end. This school was immaterial to him, just like the opinion of the other mages was immaterial. After all, they couldn’t even see the value in trash like him. How could they understand his path?
+
+He shook her hand. “Thank you.”
+
+She chuckled. “You won’t be thanking me soon. You signed up to be a janitor? You’ll have your work cut out for you.”
+
+That’s not ominous. Smiling blandly at no one, Rhys followed her. He looked back once, but Bast was already asking questions of his new teacher. He turned away. I don’t need to interrupt that.
+
+The mage stepped onto a large sword, and Rhys mounted it after her, carefully balancing on the flat of the blade. They took to the sky and quickly left the platform behind.

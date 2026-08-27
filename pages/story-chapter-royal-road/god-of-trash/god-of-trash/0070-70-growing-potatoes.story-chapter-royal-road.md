@@ -1,0 +1,109 @@
+---
+id: 8e6865c6-823f-53e9-956d-33afa0928293
+page-type-slug: story-chapter-royal-road
+title: "70. Growing Potatoes"
+slug: 0070-70-growing-potatoes
+partOf: god-of-trash
+position: 70
+ownLength: 2130
+unit: words
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2267737/70-growing-potatoes"
+royalRoadId: "2267737"
+---
+
+With compost and potato scraps (from his making of the potato chips) both secured, Rhys could now turn to the next step of his formula: super-charging the chips to make them not just delicious, but also dangerously addictive. Delicious was good. Delicious was a start. It would make him a popular mom and pop type shop. But delicious wasn’t the extent of his ambitions. He wanted that addictive, trashy content that could capture the hearts of the entire world. That truly mid, inoffensive yet tasty, neutral yet deep flavor that could get millions to all agree that yes, this was delicious, that yes, this was worth buying over and over again. He wasn’t trying to make the most delicious, standout, perfect potato chip, because that relied on his taste, and the tastes of other mages. What he wanted to make, was that processed, engineered, studied, perfect flavor, that was no one’s favorite, but which everyone wouldn’t mind finding on their plate. That potato chip.
+
+He couldn’t merely match the flavor and texture. Mages weren’t food-motivated, since they didn’t need to eat. If he made the perfect potato chip exactly according to his world’s recipe, he wouldn’t generate the world-wrapping phenomenon that potato chips were back in his world. He needed something more. Something that would bring mages back again and again, something they craved.
+
+Mana. Techniques. Enlightenment.
+
+He hadn’t yet figured out how to imbue the second two into potatoes, but he knew how to get the first one done, so, with aplomb, Rhys got to work setting up a field to grow the potatoes in. The earth around the trash heap was soaked in impurities, but it was a simple effort to remove them, and once he did, he found himself facing unworked, soft earth, lush and ready to take crops. He took the potato cuttings, all the eyes and other bits not fit for human consumption, and pushed mana into them. As soon as they started to sprout, he placed them into the earth and heaped compost on top. Mana to push them to grow faster and compost to feed the potatoes as they grew, sprouting and sending forth leaves, stretching roots into the earth, so that they had plenty of nutrients to grow big and strong—and more importantly, create mana-dense potatoes.
+
+The cuttings from the few potatoes he’d used to make chips for Bast weren’t nearly enough to start the industrial-scale farm he desired, but luckily, some of the potatoes he’d bought at the market had sprouted or were on the verge thereof, so he cut them up, taking care to separate each sprouting eye, and added them to the garden. He ran laps to the trash pile at first to absorb trash, form a trash star, then run back over to the potato garden to feed them the trash star’s mana, but then realized that he was wasting powerful potential training opportunities. Instead of running laps, he stood still and used Trash Manipulation to call trash to him, absorbed it into himself, and ignited trash stars, funneling most of the mana into growing his potatoes. Not all of it, of course. Some he still fed into himself, steadily strengthening his body, enlarging his passages, and making everything yet more durable and straight-lined, so that he could maximize absorbing mana, then transferring it into the potatoes.
+
+His core filled with a few more drops of that next-tier pure mana. Experimentally, he poked at it, but whatever it was, he struggled to use it yet. Maybe he was too low tier, or maybe his body was simply too trash to utilize the mana properly, but whatever the case, it simply didn’t respond to his manipulations the way normal mana did.
+
+Under his ministrations, the potato plants grew from sprouts to leafy green shrubs in the space of a few hours. Rhys knelt and sent a pulse of mana into the earth, trying to sense the potatoes within. Potato-shaped lumps of mana answered his call, exactly as he’d hoped.
+
+Rhys grinned. Right now, they were dense lumps of mana, but once he cut them into tiny thin sheets and fried them, they would give that exact sensation he wanted—that ephemeral hint of mana that came and passed without ever truly adding anything, but simply giving that taste of satisfaction without ever actually fulfilling it—yes, that was the ideal sensation for a potato chip!
+
+“We’re ready for the second test,” Rhys declared, sticking his hand into the earth to draw forth a freshly-grown mana-imbued potato.
+
+“Test?” Bast lowered his sword. The trees near him were scarred with fresh sword marks, and his robes hung around his waist, his body sweaty from exertion.
+
+Rhys tossed him the potato. “Chop ‘er up, and I’ll get to frying. I need to get it exactly perfect.”
+
+“I thought it was already pretty good,” Bast commented, catching the potato out of the air.
+
+“Nah. World domination doesn’t start from ‘pretty good.’ We need perfect,” Rhys stressed.
+
+“You’re gonna dominate the world through fried potatoes?”
+
+“Seems like a good enough place to start. Hell, it’s been done before.”
+
+“By who? Which ancient hero dominated the world through potatoes? They never taught me about them,” Bast said, as he crossed to the carving board.
+
+“The ancient sage Ronald Mac Donald,” Rhys said wisely, nodding.
+
+“Never heard of him.”
+
+Rhys drew himself to his full height and puffed out his chest. “You wouldn’t have. It’s only because I decoded the hidden ancient texts that I know of this secret sage’s existence. They tried to wipe him from the annals of history, but this scholar wouldn’t give up. I found the tails of his brightly-colored coat hidden in tomes, the mark of his clown shoes hidden in ancient paintings, the specter of his painted face lingering in scrolls. And from that, I decoded the truth.”
+
+“Uh huh.” Recognizing Rhys’s spouting-bullshit tone, Bast ignored him and got to chopping.
+
+“The truth… about fried potatoes. Actually, there’s another form-factor of fried potato I want to try, but let’s focus on potato chips first. Fries are a yet more mysterious art form, one that requires more than potato and salt to master.” After all, the junkiest of junk food fries came with strange coatings full of weird ingredients and chemicals even Rhys wasn’t sure he could recall, whereas the ultimate potato chip, the one he sought to emulate, had three ingredients: potato, salt, vegetable oil. He wasn’t so naive to think that the process was simpler, or that the potato chip’s true nature was any less esoteric; no, he understood that potato chips were highly processed and treated to ensure they gave that exact addictive crunch every time. However, the simplicity of the materials made it easier for him to purchase them in quantities.
+
+The fact that something so highly processed could have such a misleadingly short list of ingredients, too, was alluring to Rhys. Something about that spoke to his soul. The simplicity, yet complexity. The ultimate ease of frying a thin strip of potato; the utter complexity of turning that potato strip into a preprocessed nightmare snack. To achieve such a high goal with such simple ingredients was indeed worth lauding, and it was that which he sought to emulate. Highly processed ingredients would be hard to come by in this world, without him personally processing them. If he could achieve junk food from relatively simple ingredients, through imbuing the food with mana instead of adding strange chemical additives, then he won in many ways.
+
+Once he mastered the process of turning food into junk food via mana, then he could extend his purview beyond mere potato chips to adapting more complex materials like potato fries, by merely manipulating them with mana rather than searching out impossible-to-find or hard-to-make ingredients. After all, if he had to pay out the nose or search high and low for ingredients, this was no longer junk food, but alchemy, and he’d have to raise his own prices accordingly. He didn’t aspire to be a great alchemist, though. He aspired to the heights of the junk food masters, of the Kings of Burgers, the Queens of Dairy, the Donalds of Mac Ronald… in other words, fast food. A cheap price, a mediocre product, and an addictive quality that the consumer could never get enough of, no matter how mediocre it was—that was the path he sought with his food.
+
+But first, the perfect potato chip. He could save his grand ambitions for after his initial success.
+
+Working in tandem, Rhys and Bast made their second batch of potato chips. Rhys tossed them in salt, then offered Bast a handful. Bast dutifully plucked one out of Rhys’s hand, then paused and reached for a second one. He frowned. “They’re good, but…” Almost without thinking, he reached for a third. “Why can’t I stop eating them?”
+
+Rhys pumped his fist. “That’s it! We’ve done it, Bast. This is how we make our millions. We sell these potato chips to people attending the tournament, and—”
+
+Bast lifted his hand. “Not to rain on your parade, but we’ll be participating in the tournament, no?”
+
+“Not at the same time. And if we are, we can always close the shop for a little while. It’s not like all the customers will turn tail if we’re closed for a few minutes, and hell, most people will be watching the matches during the matches, not out buying potato chips. We’ll have to do a bit of double-duty, but—”
+
+“That’s not what I mean. Isn’t it the same problem you brought up earlier? No one’s going to buy mysterious food or potions—anything they put in their bodies—from a pair of contestants. It’ll look like an obvious sabotage attempt. Even if we aren’t sabotaging—”
+
+“And we aren’t,” Rhys interjected.
+
+Bast nodded, accepting his point. “—and we’re not, it’ll still look suspicious. We might get a few sales from those seeking favor with the Sword Saint, or those who don’t care, but we’ll be suppressing our potential revenue by our very presence.”
+
+“I hear you, and I’ve got a plan.”
+
+“We’re hiring people to run the shop?” Bast guessed.
+
+Rhys gave him a look. “And handing our recipe out to just anyone? There’s going to immediately be imitators. We need to stay ahead of the game, Bast. This kind of foolish thinking would get us no money, but simply immediately bought out and taken advantage of.”
+
+Bast shook his head and backed away a step. “Fine, fine. This is why you’re the boss. You think of these things. So… what is our plan?”
+
+Rhys gave him a devilish grin. “You’re not going to like it.”
+
+“I don’t like it already,” Bast said, eyeing up Rhys’s expression.
+
+Rhys stood on his tiptoes and whispered in Bast’s ear.
+
+Bast narrowed his eyes at Rhys. “For me, too? I can see it for you, but me…”
+
+“You’re even more ideally suited to it than I am! We need something to catch people’s eye. I’m small, but you? You’re huge. You’ll be like a gigantic billboard, displaying our wares to the world around!”
+
+“Looking like a pig in a clown suit,” Bast grumbled.
+
+“And who wouldn’t pay to see a pig in a clown suit? Come on, Bast. You know it’s a good idea. Trust me. When I’m done with you, you’ll look like a completely different person.”
+
+“Gods, I hope so. Master would have my head if he found out,” Bast muttered.
+
+Rhys sighed. He knew it would be a hard sell, but it really was a great idea. He knew what sold, and this would definitely get their potato chips to fly off the shelves. He patted Bast’s shoulder reassuringly. “Look—how about we do a test run? I’ll get all the materials and show you how you look once I work my magic. If you still feel like a pig in a clown suit, then I’ll graciously let you bow out. But give it a try, first. See how different you look before you naysay it outright. How’s that sound?”
+
+“I don’t know that I can possibly look different enough,” Bast muttered under his breath.
+
+“Trust me. When I’m done with you, you’ll look so fabulous, your own mother wouldn’t recognize you!” Or maybe that was just because she was so ashamed of me she didn’t want to acknowledge me as her son anymore. Hiding his dark past behind a gleaming smile, Rhys turned the spotlight on Bast. “Please?”
+
+Begrudgingly, Bast nodded. “If I look horrible, or like myself, I’m not doing it.”
+
+“Of course, of course.” Rhys couldn’t help but smile, even if he knew he should really hide his elation. He patted Bast’s shoulder again. “When I’m done with you, you’re going to look amazing.”

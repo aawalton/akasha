@@ -1,0 +1,139 @@
+---
+id: f5ad1ca5-b1a9-531c-8cc1-4b35d8517f5b
+page-type-slug: story-chapter-royal-road
+title: "Threads 60-Bao Qian 4"
+slug: 0076-threads-60-bao-qian-4
+partOf: forge-of-destiny
+position: 76
+ownLength: 2391
+unit: words
+publishedAt: 2021-03-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/645206/threads-60-bao-qian-4"
+royalRoadId: "645206"
+---
+
+There was no hurry in her search so when Ling Qi took to the air, she flew at a lazy pace, rising up past the tree tops with the hems of her gown gently fluttering in the wind. Soaring up into the sky, she took a moment to enjoy the feeling of the wind on her face and the sound of Hanyi’s joyous laughter in her ears. The young spirit was light on her shoulders, a far cry from the immense weight she had carried the last time they had done this.
+
+Glancing back, she took in her companions. Li Suyin and Du Feng had produced camp chairs and other sundries from somewhere, and she could feel the heat of boiling waters. Bao Qian had gone off with his own spirit to walk around the ruined foundations. He looked up as her gaze passed over him and waved. Zhengui, on the other hand, was still, but she could feel his qi beneath the earth, spreading through the root network of the nearby trees.
+
+“C’moooon, don’t stop,” Hanyi complained. “Let’s fly!”
+
+“You’ve gotten so impatient,” Ling Qi laughed. “But fine, if that’s what you want.”
+
+Yes, she should definitely take the lessons of the last few weeks to heart and simply relax. With that in mind, Ling Qi tried not to laugh out loud as she darted forward, spinning in the air and drawing a startled shriek from Hanyi. In her thoughts, Sixiang laughed enough for the both of them. Taking off into the clear blue sky, Ling Qi began her search.
+
+It made for a relaxing afternoon. The region they were in was thickly forested but comparatively flat, so from above the trees, it almost seemed like an unbroken carpet of greenery. Faeries of wind and water fluttered and danced through the air around her, barely visible wisps even to her sharp eyes. Below, the spirits of wood and earth lurked among the branches and leaves, following their own slow paced and inscrutable whims.
+
+She saw and felt the passage of many beasts below her, but none dared challenge her path. Some hid or fled from her while others ignored her entirely. Her search was entirely peaceful and almost dull, or it would have been if she were alone. Hanyi was not one to let silence linger, ironically enough.
+
+“So, what do you think of that Bao guy, Big Sis?” Hanyi chirped. “He seems kinda boring to me, but I think he likes you!”
+
+“I would doubt the Bao clan’s competence if they sent someone who couldn’t give that impression,” Ling Qi replied dryly as they flew lazily over a babbling brook. Spotting the faintest hints of gravel and a regular path marking some remnant of civilization, Ling Qi shifted her course, following its direction.
+
+“Ugh, you’re no fun sometimes,” Hanyi complained. “And you better not spin me again ‘cause I said that!”
+
+Ling Qi hid her smile behind her sleeve, innocently pretending that she hadn’t considered doing just that. “Why so interested? Usually, I have to fight to get you to pay other people any mind.”
+
+“Hmph, I’m trying to follow your advice!” Hanyi huffed, tightly gripping Ling Qi’s shoulders as she banked sharply in the air to follow the curve of the old road. “I guess I’m worried about you, Big Sis.”
+
+Ling Qi glanced over her shoulder with a raised eyebrow. “What are you talking about? I’m doing fine.”
+
+Hanyi pouted back at her. “Big Sis takes care of me when I get sad or worried or whatever, so I just thought that you needed someone who could do the same for you.”
+
+<Hmm. Maybe I don’t give the squirt enough credit,> Sixiang mused.
+
+<Hush,> Ling Qi thought back at Sixiang. “I can handle myself, Hanyi,” she said aloud. “That’s not something you need to worry about. Besides, why would you latch on to a stranger for that?”
+
+“Well, he wants to marry you, right?” Hanyi asked innocently. “He just can’t say so ‘cause of weird human things. Husbands and wives are supposed to take care of each other and make each other happy!”
+
+Ling Qi wasn’t even sure where to start. It made her wonder just what things had been like in Zeqing’s household given what she had seen of her mentor’s husband. It wasn’t like she was going to bring that up to Hanyi though.
+
+Sixiang made a sound like a person sucking in air through their teeth in her thoughts. <Yeah, that’s prolly not an explosive you wanna poke.>
+
+“I appreciate your concern, Hanyi, but things don’t quite work like that,” Ling Qi finally said. “Bao Qian is just here to work out some business. Anything else is a consideration for a long time in the future.”
+
+“If you say so,” Hanyi said dubiously. “Big Sis is weird sometimes,” she muttered.
+
+“Ah, I see something ahead!” Ling Qi announced, pleased to have a distraction from this uncomfortable conversation.
+
+Up ahead, the canopy changed. There were wide gaps, and the trees seemed to grow in an oddly regular pattern. As she grew closer, she found herself looking at a badly overgrown grid of what could only have been streets across a sprawling section of the forest. The paving stones were long gone, but she could sense the lingering qi of the builders in the dirt, suppressing the growth of plants through the packed dirt. Dotted all through the streets were deep and regular holes; she assumed they were the partially collapsed remains of cellars and such.
+
+Yet there were no other ruins. A deep trench ran around the site, and its nature was only made clear by a handful of foundation stones for the settlement’s wall she saw scattered about. There was no other wreckage to be seen.
+
+“This must have been the main settlement.” It was certainly big enough. “Did all the materials get carted off though? If the Sect did that, why did we have to search?”
+
+“Oh, I know this one!” Hanyi announced excitedly. “Momma told me a story once that when the big storm came north, it was so big and so strong that it sucked all the trees and little houses and walls and people right up into the sky, and it rained rocks and wood and frozen bits for a week after!”
+
+Memories bubbled up, and she recalled Elder Jiao’s trial last year. She remembered ushering people away from a besieged city and the sight of a vast wind funnel descending upon the settlement. That put Hanyi’s story in context. She probably should have expected something like this then given that she knew they were looking for a site destroyed during the invasion.
+
+Morbidly curious, Ling Qi banked in the air, flying over the ruined site. It was possible she would find another road going out to the quarry they were looking for. There was little to find however. Only the lingering work of the old settlement’s road builders on the earth had kept the site recognizable as anything but an oddly pitted field. There was nothing here; the paths leaving the settlement swiftly faded beyond even her ability to perceive. Having searched the settlement thoroughly, Ling Qi rose back to a higher altitude and began to fly back. She may as well report what she had found.
+
+Returning to the clearing they had started in, she descended from the sky to find Li Suyin and Du Feng chatting amicably over tea and Zhengui off to one side, feasting on a fallen log.
+
+“Big Sister!” Zhen greeted as he spotted her descent, drawing everyone’s attention. “I, Zhen, have succeeded in our task!”
+
+“I did all the work,” Gui grumbled through a mouthful of bark and softwood. “But kind, humble Gui will let bragging Zhen take credit.”
+
+It looked like her own search had been unnecessary. “Good job, little brother. How did you do it?” Ling Qi asked as she descended.
+
+“I, Zhen, was able to perceive the big holes that were dug by the gaps in the roots,” Zhen said proudly. “The jewel man and his fuzzball were able to search the quarry out with Zhen’s instruction.”
+
+Ling Qi rested a hand on the giant serpent’s smoking scales with a sigh. “Please refer to people properly, Zhengui. Still, I am proud of you.”
+
+“I guess Zhengui can be useful when he’s not stuffing his face,” Hanyi teased.
+
+Zhengui preened under her praise as she descended to the ground. She hadn’t found anything herself, but that was fine. Her little brother needed more successes under his figurative belt. After Hanyi had hopped down from her shoulders, she accepted a cup of tea from Du Feng with a polite smile and sat down in one of the camp chairs to drink. The tea was a bit bitter for her taste, but she hardly minded.
+
+She spent the rest of the time chatting with Li Suyin and her friend. Teasing Suyin about her physical cultivation was fun, but the girl was working hard to prepare herself for that breakthrough as well, stockpiling medicines and getting projects into stable states. She deflected Li Suyin’s questions of concern regarding her own workload. She was still doing fine and advancing acceptably.
+
+Du Feng’s eagerness to ingratiate himself to her put her off a bit, but she found the boy sincere, if somewhat foppish. It helped that Sixiang agreed with her assessment. She wished him luck on his own breakthroughs in the coming months regardless.
+
+Soon enough, Bao Qian returned from his task looking pleased. It seemed that the jade quarry was in a recoverable state after all. After a bit more tea and relaxation, they were soon ready to begin heading back. However, as she began to make her way over to Zhengui to hop onto his shell, she found herself called back.
+
+“Miss Ling, might I speak with you for a moment?” Bao Qian asked, standing back from the others.
+
+She glanced around. Suyin and Du Feng were a short distance away, packing up the camp furniture and tea set, and her own spirits, aside from Sixiang of course, were a short distance away, bickering and talking back and forth.
+
+<I’ve always got your back,> Sixiaing chuckled.
+
+“I don’t mind, Sir Bao,” Ling Qi replied aloud. “Is there some problem?”
+
+The young man regarded her thoughtfully, his arms crossed loosely over his broad chest. “I would not necessarily call it such. However, I am told that you appreciate a certain degree of bluntness, so perhaps I should just state my thoughts.”
+
+Ling Qi’s eyebrows rose. “If that is what you wish,” she said noncommittally.
+
+He let out an amused chuckle. “I find you difficult to approach. At times, you seem terribly skittish, and at other times, quite confrontational. It is a bit confusing,” he admitted frankly.
+
+“Is that so,” Ling Qi said, keeping her expression blank.
+
+“I won’t ask you to not take offense,” Bao Qian continued cheerfully. “My, this is an interesting challenge.”
+
+“I am glad I can entertain you,” Ling Qi said blandly.
+
+“Yes, I think I like your confrontational side considerably more.” Bao Qian offered a brief, low bow. “Miss Ling, I am an ambitious man. I will be honest, matters of marriage are a distant concern. There are far too many things that I need to do yet before settling is an option, cultivation not the least of them.”
+
+“I could say the same,” Ling Qi agreed carefully. “Why, then, did you come here?”
+
+“For the reasons I have stated. There is opportunity in the south, opportunity in you,” he replied without a hint of shame. “We Bao have a nose for investments. I think you are a good ally and contact to make. You, in turn, need to expand your connections among the Emerald Seas, and there are few better than the Bao for that. Even those crotchety swamp hermits out west grudgingly deal with us.”
+
+“You’re not wrong,” Ling Qi admitted, giving him an assessing look. “So the marriage pursuit is just a cover?”
+
+“Not at all. You are lovely, talented, and ambitious. You are a musician of unmatched skill for your age as well as a fierce and canny duelist. Let the old birds at court cluck their tongues about your origins. I am pleased by what I see.”
+
+Ling Qi stared, her thoughts briefly grinding to a halt; only a sharp prod from Sixiang got her mind moving again. “And if I cannot say the same of you?”
+
+He laughed. “Then I would hope that you will look into my history as I have yours in the future and pay a mind to my accomplishments in the coming years.”
+
+“You are awfully confident,” Ling Qi said dryly.
+
+“I am a Bao. It is in the blood,” he replied. “But all this aside, I do hope we can work together for our mutual prosperity in the future. Even with the support of the Cai, raising a new house is difficult.”
+
+“And that is what I do not understand,” Ling Qi said, frustrated. “Many sons or no, you are the scion of a comital clan. Why put yourself in such a difficult position?”
+
+“Bah, what good is inheritance alone?” Bao Qian dismissed. “Let my brothers and sisters squabble over my father’s and mother’s great works. I have the blood in my veins, and the arts of our archives. My advantages are already vast; I neither want or need anything else. I will make my own fortune and my own great works.”
+
+Ling Qi met and held his gaze, searching for sincerity in his eyes. It was such a weird mindset that she had trouble grasping it. “Alright, I’ll believe that,” Ling Qi said after a moment. “If you just want to work together, that is fine.” She could think about the rest at a later date.
+
+“That is all I ask for now,” he said graciously. “But we should not hold up our companions any longer.”
+
+Ling Qi nodded, turning away, looking to where Li Suyin and Du Feng waited. She still wasn’t sure what she thought of Bao Qian, but she needed more resources. She would always need more resources if she wanted to climb to the impossible heights that people like Cai Shenhua had. Having someone around who could help her acquire them could only be helpful.

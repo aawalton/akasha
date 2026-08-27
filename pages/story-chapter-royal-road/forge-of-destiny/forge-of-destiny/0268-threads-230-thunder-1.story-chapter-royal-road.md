@@ -1,0 +1,173 @@
+---
+id: 26a5b461-7cb3-5525-b918-f1a0bf8a07eb
+page-type-slug: story-chapter-royal-road
+title: "Threads 230- Thunder 1"
+slug: 0268-threads-230-thunder-1
+partOf: forge-of-destiny
+position: 268
+ownLength: 2182
+unit: words
+publishedAt: 2022-07-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/946605/threads-230--thunder-1"
+royalRoadId: "946605"
+---
+
+“You’re surprisingly pushy about this.” Yu Nuan hunched her shoulders under the fur-collared mantle she was wearing.
+
+“You’re surprisingly shy about this,” Ling Qi retorted. They passed through the gates of the sect town without pause, staying off to one side of the street so as to not disrupt traffic too much as mortals moved to give them a respectful berth.
+
+“I’m not shy,” Yu Nuan argued, sparks jumping between the row of metal studs that pierced her ears. “A little more warning would have been nice is all.”
+
+“I think it’s more genuine if you don’t have a lot of prep time. Besides, I didn’t see you at the tournament at all. What were you up to?”
+
+“Training and working on a new piece for the storm lord,” Yu Nuan replied. Their footsteps carried them swiftly through the outer part of the town and into the inner. “Not like I had anything to do there.”
+
+“It doesn’t hurt to mingle a bit.” Ling Qi ignored Sixiang’s incredulous snort.
+
+“Whole reason I’m doing this, isn’t it? I’m not cut out for that.”
+
+“I’m not going to let you become a hermit.”
+
+Yu Nuan grunted in reply as they passed down the cobbled streets just dusted with the winter’s first snows.
+
+“Being serious, I did talk to a couple folks. I’m not hopeless,” Yu Nuan said, keeping her eyes ahead. “Got a few auditions in little courts. Nothing like what you deal in. It’s rough though since I’m up for deployment.”
+
+Ling Qi hummed in reply as familiar gates came into view. “But you’re not looking to get out of that?”
+
+“I’m not.” Yu Nuan grimaced. “I’m not some charity case. If you let me in, I’ll pull my weight.”
+
+“There’s nothing wrong with charity,” Ling Qi said, but she didn’t press the issue. She understood pride and how important it was for a person to have theirs. The guards standing before the gates of her mother’s house saw her and bowed, turning to open the gates at a gesture from her.
+
+Yu Nuan watched. “You really are just full in on this stuff, aren’t you?”
+
+Ling Qi gave the guards a nod as they stepped through the gate onto the well kept path. “People like to see what they expect, but that doesn’t mean you can’t ease them into accepting a different arrangement.”
+
+She smiled at one of the girls sweeping the path as she stepped out of the way, and the young woman, something Min if she remembered, bowed low with a murmured “Lady Ling.”
+
+No quiet panic or fear, just low level anxiety in the mortal. Ling Qi was getting better at this!
+
+<It’s Fa Min, by the way,> Sixiang drawled.
+
+Yu Nuan looked around with some curiosity, not lingering on the servant as they entered. “So, we’re just meeting your mother then? That’s it?”
+
+Ling Qi hummed, opening the front door with a tap. “I’m sure we’ll see my little sister too, but she’s four, so I don’t think she’ll contribute much. You have your dog with you?”
+
+“Course,” Yu Nuan replied, stepping hastily after her.
+
+“Then I think you’ll have her approval,” Ling Qi said dryly. Tangent aside, she did understand what Yu Nuan was asking. “So just my mother, yes.”
+
+“Sorry,” Yu Nuan ran a hand through her spiked hair anxiously. “Not good at this.”
+
+“You’ll fit right in then. Dining room is this way.”
+
+“I heard things got a bit crazy at the end of the tournament,” Yu Nuan commented.
+
+Ling Qi paused, one hand resting on the wall. “Yes. Do you want to change your mind?”
+
+She still didn’t know what to think of the revelations at the end of the tournament. That was one reason she was doing this now. She wanted to take her mind off of things until Renxiang was ready to talk.
+
+“Nah, I don’t think the blast zones have changed much,” Yu Nuan said with a weak chuckle.
+
+<Dark, but not wrong.> Sixiang snickered.
+
+“Then, let's have a chat with my mother. You can show me this revel of yours after.”
+
+“Got it, Matriarch,” the older girl drawled, following as they resumed walking.
+
+Ling Qi grimaced, shooting her a look. That was not going to be a thing.
+
+Entering the dining room, she found that her mother had changed the layout. The previous table had been replaced with a more ornate one with more space for seating. Placed out on the table was a tea set, as well as plates and platters holding the sort of little snacks often served with it.
+
+Her mother had picked out a nice, understated gown in dark blue and black. Ling Qi had told her that she didn’t need to stick to Ling Qi’s color scheme, but she’d ignored that. It was important for a clan to keep a theme apparently. Her mother had also taken well to her cultivation. Some of the lines on her mother’s face had smoothed, and the signs of hard living had lessened, if only a little.
+
+Biyu sat in her lap, fiddling with one of the tight pigtails that her mother had wound her hair into. She brightened up when she saw Ling Qi and blinked curiously at Yu Nuan.
+
+“My daughter, welcome back to our home,” Ling Qingge said formally. “I see you have brought a guest.”
+
+“I have,” Ling Qi replied, stepping forward. They’d actually rehearsed this bit! “I bring Yu Nuan, who approaches as a supplicant to the Ling clan, requesting adoption.
+
+Yu Nuan nodded once, stepping forward beside her and bowing. “Yes, I am Yu Nuan, the only cultivator of the Yu family, and it is my wish to join my fortune to the Ling family.”
+
+“I understand,” Ling Qingge said. She was proud of her mother; she came much more naturally to this sort of formality than Ling Qi did. “And what is it which you believe you may bring to the Ling clan?”
+
+“I bring a strong and talented pair of hands and a talent which has reached the third realm. I bring skills in music and beast handling. I bring connection to the Argent Peak Sect,” Yu Nuan spoke with a practiced air, and that was fair. This was the formal bit. “And I bring a spirit beast of my own, the Storm Herding Hound Qiu, and the possibility of more of his like.”
+
+There was a faint crackling pop as the spirit beast appeared beside her. The dog was not shrunken fully into a little fluff ball, but instead rose just past her knee, his blue and white coat crackling with static. The hound held his head high.
+
+There was a sound, high-pitched and sudden.
+
+Ling Qi glanced at her little sister who was staring at the dog with wide, wide eyes.
+
+Ling Qingge sighed. “I am sorry.”
+
+Well, that was why they had done this little rehearsal with low stakes. Yu Nuan still looked bewildered as the formality dropped, even though Ling Qi had explained this to her. They sat down around the table as Biyu wriggled out of her mother’s lap and rushed over to fawn over Qiu.
+
+“He is safe around children, isn’t he?” Ling Qingge asked, ringing the little bell on the table and indicating for a servant to come in and start serving the tea.
+
+“Ah, yeah, gentle as can be. He was a herding dog even before I got him,” Yu Nuan said awkwardly. “I prepped him for this, too.”
+
+“If I didn’t trust you with that much, the offer wouldn’t be on the table,” Ling Qi said. It helped that in her presence, little threads of protective qi always wrapped invisibly around her mother and sister. Against a peer, it would be nothing, but against regular, every day harm and accidents, her family might as well have been wrapped in steel.
+
+Ling Qi gave the girl…
+
+<Du Ai,> Sixiang recalled. <I’ll keep an eye on the squirt, so don’t worry.>
+
+Ling Qi gave Du Ai a small nod as she poured everyone’s tea, confident Biyu would be fine.
+
+“Welcome to my home then, Miss Yu,” Ling Qingge said. “Rehearsal aside, I do have some important questions I must ask you.”
+
+“Yes, I expected that,” Yu Nuan said, still seeming to waver between formality and her normal tone. “I’ll answer whatever I can. I understand this isn’t a small matter.”
+
+“Of course,” Ling Qingge said. “The first must be, are you bringing others with you? Any mortal family?”
+
+“No,” Yu Nuan answered, her expression tightening. “Just me. You don’t have to take on anyone else.”
+
+“I am sorry,” Ling Qingge said, lowering her head.
+
+“It’s… not like that.” Yu Nuan grimaced. “Look, I have an aunt and uncle, some cousins. They took me in for a while, but you don’t gotta worry about them.”
+
+Ling Qingge frowned. “You would just leave your kin behind?”
+
+“I know it sounds bad.” Yu Nuan hesitated for a long moment before speaking further, pushing through the explanation at a hurried pace. ” But they were pretty clear throughout my life where we stood, even if they changed their tune after I got here. Heh, I mighta respected ‘em more if they didn’t. But the point is, I bought them a nice house in Leiyong, paid my oldest cousin’s apprenticeship off, and left them a pile of silver for the rest. As far as I’m concerned, I’ve done my duty.”
+
+“There are many who would see that as an abrogation of duty,” Ling Qingge said. “They would say that it makes you unlikely to stand by the family you have entered if a better offer comes.”
+
+Ling Qi thought that sounded unfair, but her mother probably couldn’t sense the knot of bitter resentment flaring like a burned-out coal in Yu Nuan’s chest as they spoke on this.
+
+“That’s fair. It’s definitely unfilial of me,” Yu Nuan agreed. “All the same, I don’t want them. I’m not gonna lie about that.”
+
+“While I don’t know the full details, Yu Nuan has never struck me as a mercenary person,” Ling Qi interjected. She considered the little bit she understood of her mother’s family and her 'father'. She could comprehend the idea of a family she did not want.
+
+‘So this is part of your motivation?” Ling Qingge queried.
+
+“I’m not suitable to managing a clan,” Yu Nuan said with a helpless shrug. “I get that, and the only other way around it would be to marry in, and I’d not like to put myself in some guy’s power like that with no guarantees. And being a clan of one with no backers, that’d be how that would go. I just want to live, cultivate, and work on my art. I’ll make sure to profit you, but that’s the real root of it.”
+
+Her mother’s expression pinched in distaste, and Yu Nuan looked worried. Ling Qi patted her mother on the shoulder, understanding the source of that expression. The darker edge to the air shattered under the sound of a child’s laughter and cheerful barks.
+
+Biyu had managed to clamber onto Qiu’s back, who had begun to trot around the room, and her hair had frizzed up wildly from the static. Ling Qi could sense Sixiang playing with the wind, keeping Biyu from falling. She caught her mother’s eye and gave a small nod.
+
+“If my daughter trusts your integrity, I will accept that,” Ling Qingge said after draining her tea cup. “I hope that you will never have cause to find the Ling clan so odious.”
+
+Yu Nuan glanced toward Ling Qi. “I think as long as I do right by you, your daughter will do right by me. That’s good enough for me.”
+
+“I like to think we can manage better,” Ling Qi said. “I’ve said it before, but family should be more than that.”
+
+Her mother cast her eyes down. “It should.”
+
+But it wasn’t often enough, Ling Qi knew. She thought of the Cai, and the He and other snippets heard from friends and acquaintances. If anything, she was the one being naive and unreasonable. “Well, it’s something to work on.”
+
+“That’s one way to put it,” Yu Nuan said.
+
+“More personally…” Ling Qingge gestured uncomfortably toward Yu Nuan. “Those… metal things. Why… precisely?”
+
+Yu Nuan fingered the piercings through her lower lip. “It started as a cultivation aid. I found an art that used bits of metal piercing the body as qi foci. It got me into the Inner Sect. Now, I just like them.”
+
+“I see,” Ling Qingge said, though she obviously didn’t.
+
+“Sis!” Ling Qi glanced down at the exclamation, seeing Biyu and Qiu had made their way back around to them, and now, both girl and dog grinned up at her. Biyu raised her hands. “Up!”
+
+Ling Qi chuckled lifting her little sister into her lap as Mother and Yu Nuan talked. Qiu scooted under her chair, shrinking as he went to curl up atop Yu Nuan’s feet.
+
+This would probably work. But this conversation wasn’t done.
+
+They had quite a hike after this.

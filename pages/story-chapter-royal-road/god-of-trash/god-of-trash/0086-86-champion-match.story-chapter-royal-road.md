@@ -1,0 +1,165 @@
+---
+id: b85efb5e-19d6-5e79-b159-4f2bb27f0222
+page-type-slug: story-chapter-royal-road
+title: "86. Champion Match"
+slug: 0086-86-champion-match
+partOf: god-of-trash
+position: 86
+ownLength: 2930
+unit: words
+publishedAt: 2025-05-25
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2305264/86-champion-match"
+royalRoadId: "2305264"
+---
+
+Rhys stepped onto the platform. Across from him, the cloaked figure stepped forward as well. The two of them faced one another from across the stone expanse. A wind blew, blowing a gust of dust across the platform, and Rhys could almost hear the mariachi riff and the rattlesnake’s rattle. He reached toward his hips, as though he was about to draw a six-shooter. “Draw, pardner.”
+
+He couldn’t make out the cloaked figure’s eyes from beneath their hood, but he was pretty sure they were squinting at him.
+
+“Take your stances,” the referee intoned, ignoring Rhys’s ridiculousness.
+
+The cloaked figure spread their legs and reached toward their right hip.
+
+Rhys stood there casually, putting one hand in his robes. It looked like he was just chilling, not taking the fight seriously at all, but his hand curled around the broken sword’s hilt in his robes.
+
+“Do you not see me as a threat?” the cloaked figure asked, finally revealing its gender as a feminine voice issued from the hood.
+
+“No, I do,” Rhys assured her. He didn’t change his stance, though. Acting like a total trash just felt so good. Actually, it felt so good that he had to wonder if there wasn’t a trash skill somewhere down this path, something that would let him debuff his opponents just from acting like a piece of shit toward them.
+
+She lowered her head. Once more, he couldn’t see her eyes, but he knew they narrowed. “We’ll see how long that attitude lasts.”
+
+Rhys squinted back. Did she not hear me, or…?
+
+The referee dropped her hand. “Fight!”
+
+Instantly, the cloaked figure closed the distance. Rhys didn’t have time to draw his sword from his robes. A dagger glittered in black-gloved hands as she drove it toward his heart.
+
+He grinned. From his off-hand, he flicked a small shard of metal toward his center mass.
+
+The cloaked figure saw it coming and sneered. It wouldn’t hit her dagger or her hand. His attack had missed.
+
+Milimeters before the dagger pierced his chest, Rhys activated Trash Intent. A steel pole extended outward from the shard, catching both Rhys and the cloaked figure in the chests. Rhys had been expecting it, and was braced for it. The cloaked figure, on the other hand, was mid-leap. The pole jabbed into her chest and threw her back, and she tumbled across the platform.
+
+Rhys deactivated Trash Intent and caught the shard as he charged after her. She was downed and rolling. Now was the time to force her off!
+
+Her cloak twitched. Something sharp and white hurtled out from under it and closed in on Rhys at speed. He activated the Trash Intent again, projecting the rod into the ground this time to push himself back. The white thing smashed into the stone floor instead, shattering the platform.
+
+Rhys deactivated Trash Intent again and danced back. The cloak churned, as though a huge spider crawled out from under it. Watching from a distance, Rhys took the opportunity to toss out a few extra pieces of garbage on the stage between him and her. Whatever was happening, he knew he wanted to give himself as much of an advantage as he could.
+
+With a roar, the girl tore the cloak off and bounded to her feet, revealing one of the finest character designs Rhys had seen since he’d arrived. She wore a skintight black leotard that revealed long legs clad only in smoky translucent tights. Bone plates guarded her chest and stomach in a way that also happened to serve as a kind of corset. From the bone corset, long spine-like trails of bones flew out to her upper thighs, where they arced out from her body to support a lacey, spiderlike black skirtlet that hid nothing, but did a great job of accenting her legs. White bones glittered all the way down her spine and extended past it into a long tail that stretched out over the skirtlet and whisked around her ankles, tipped in a razor-sharp bone. Strands of bone-like beads draped over her jet-black hair, arranged almost like a ribcage, with a fang dangling from the apex of the drape into the center of her forehead, and short black gloves were backed with bones that themselves ended in sharp claws. The bones ran up her forearms as well, bracing her arms over translucent arm-tights that matched the ones on her legs. In fact, he wouldn’t be surprised if she were wearing a body sock under that leotard.
+
+A half-dozen sharp-tipped bones arced over her shoulders and down, like pale white spider’s legs. Red eyes narrowed, glaring at him. She pointed a clawed finger at him. “You die here, today.”
+
+“Yes! Slay, queen!” Rhys encouraged her, applauding. Now that was someone who knew how to do a reveal! The cloak, the mystery, the squirming, and then the swoosh as she tossed it aside—hell yeah. It was everything he loved in a character. Just trashy enough to be absolutely peak aesthetic.
+
+She blinked at him.
+
+He cleared his throat. “Not literally. Please don’t kill me. It’s an expression, you know?”
+
+Without another word, she dashed in. White bone legs arced down from her shoulders and pierced the stone, propelling her forward. She kicked with sharp bone-clawed boots, directly toward his throat.
+
+Rhys sidestepped, activating the trash he’d left on the ground at the same time. A heavy table materialized under one of her claws, pushing it up and out of the way. She stumbled sideways, only to fall into a cauldron on its side, her claws scrambling to find purchase on the strange round shape that rolled as she stepped on it.
+
+As she struggled, Rhys dashed in. He drew his sword at last and, cancelling the intents on the floor, sliced at her chest. The bone plates scrambled to block his sword, and the Trash Intent bounced off, only slicing a thin line into the plates. She caught herself on her real feet and kicked him back with her leg. The bone pierced his side and threw him away like a ball of rubbish, and he tumbled away like a plastic bag on the wind, already paper thin.
+
+Rhys rolled over the stone. The edge rushed up behind him. He slammed his sword into the stone, carving himself to a halt. His back rolled over the edge, but his body stayed on.
+
+The girl dashed over to him. Before he could get up, she launched herself at him, all six spider-bone legs bundled together into one ring of nasty. Rhys dragged himself aside by his sword, activating his revenge rat seconds before she hit. The stab missed his gut, but carved deep rents down his thigh. The rat lunged, crawling up the girl’s bone legs to bite at her face. She yelped and retreated, batting at her face instinctively. Rhys took the opportunity to roll out of her reach.
+
+Blood flowed freely. Pain surged through him, so overwhelming that he had to grit his teeth just to keep from passing out. His vision faded for a moment, but he forced it back, blinking back the dark. Red pooled everywhere. Everything he saw was red. Blood soaked his robes and puddled under his body. Rhys staggered to his feet. His injured leg gave out, and he stumbled. He activated Trash Body, and jammed his leg down, forcing it to hold his weight despite the damage. He couldn’t fall now.
+
+The girl clawed into the rat. Her bone claws ripped into it, shattering it into mana. She tossed it aside and advanced on Rhys slowly, like a predator. Laughing, she pointed her claws at him. “Injured and bleeding. All your little tricks amounted to nothing. Tell me, worm. Do you still think you can beat me?”
+
+Rhys gritted his teeth. She was stronger than him. Faster. Had more limbs, and more weapons. He was thoroughly outmatched.
+
+He switched his sword into one hand and reached into his robes. “I didn’t want to do this, but you’ve forced my hand.”
+
+“Oh? Getting serious, at last?”
+
+“Lines everyone wants to say at least once in their life,” Rhys added under his breath, at top speed.
+
+Her brows furrowed. “What?”
+
+Rather than answering, he rushed at her. In one hand, he clutched a scrap of stick. As he closed in, he activated Trash Intent, and it sprung up to full stick size.
+
+“Ha! Too muddled by pain to activate your strange skill at the right time?” The girl charged in, baring her bone claws. The claws spread wide, as if they were living and attached to her hands, not mere weapons on her gloves.
+
+“Sorry about this.” Rhys lifted the vial in his other hand and popped the lid. It was the weakest of the potions he’d brewed, but he still felt bad about using it in battle. Chemical warfare was a war crime, after all.
+
+Then again, he was pretty sure the Geneva Convention would have words about using bones as weapons and want to regulate the usage of magic in general, so what use was it in this world? The gunk was too thick to flow out, so, using mana, he scraped out a tiny bit from the vial and smeared it on the end of the stick. He formed his hand into a claw and struck, using the force of Even a Cornered Rat to propel his stick faster and with more force.
+
+Less is More 42 > 44
+
+The message activated as the stick was already en-route. A horrified look spread over his face, but it was too late to retrieve it. Less is More worked offensively, too? How potent was this gunk going to be?
+
+Laughing, the girl blocked with her bone legs. “That isn’t enough—”
+
+The gunk struck the bone and ate through it with a horrific hissing sound. The bones blackened around the impact site, and the tip of the outmost bone cracked and fell free from her body entirely. The stick pierced through, the gunk hissing through the bones like they were made of sugar, not hardened enamel. He tried to pull back, but it was too late. He’d put his all into the strike. The arrow was flying, and there was nothing that could put it back in the bow now.
+
+The girl’s eyes widened. All her bone plates gathered up in the place the stick flew toward, stacking up between him and her body. One after another, the stick burned through. The acrid smell of melting bone filled the air as it punched through the armored plates as if they were paper. The strike slowed, between the armor and Rhys himself trying to abort the strike. At last, it came to a halt, the very tip barely piercing her skin.
+
+The girl jumped back, then screamed in pain and horror. Black veins spread from the point he’d struck through her body, climbing up her neck and down her legs and arms. She stumbled, then fell to the ground. Broken bone limbs kicked all around her, and her body convulsed. From where he stood, Rhys could sense her mana going into rebellion. She wasn’t used to handling impurities. Even this tiny amount of impurities was enough to tear her into pieces.
+
+“Victor—Rhys Foundling!”
+
+In the stands, Ernesto jumped to his feet, already shouting and protesting Rhys’s victory, but Rhys heard none of it. He ran to the girl’s side. Now that he’d won, he had no interest in watching her die. Her eyes widened as he closed in, and she clawed out, struggling away on her broken bone legs. “Don’t—don’t—”
+
+“It’s okay. I’m here to help.”
+
+Her eyes rolled back in her head. She went limp. He could sense her life force fading. There was no time to waste. Rhys put his hand on the wound and drew the impurities out of it. They’d already circulated throughout her whole body, since she was spinning her mana at battle levels, but they were his impurities, the ones he’d forged, and he knew them intimately. They weren’t like the ones in Bast’s body, that had dug deep into his cells and mana passages and took on his aura. They were fresh, new, and still more a part of Rhys than they were a part of her. One call, and they all came running, flowing neatly into his body.
+
+As the impurities flowed out of her, the black veins faded, and she blinked back to consciousness. She squinted at him, taken aback. “Why?”
+
+“You were going to die,” Rhys explained.
+
+“But I’m an opponent.”
+
+He gave her an exasperated look. “In a multi-school tournament for fun! I’m not trying to kill people in cold blood.”
+
+She quieted, looking down as she took in what he’d told her.
+
+Rhys turned his focus back to drawing the last of his impurities out of her. To his surprise, this wasn’t her first run-in with impurities. Her body was laden with them. The weakest kind, it was true, with only a few of the second-tier ones—the ones the rats had, that he used in his trash stars’ core—buried in her core. He didn’t touch those, since they seemed almost… a part of her, in a way Bast’s and even Rhys’s impurities weren’t, but also because they felt strongly like curse power.
+
+No… not just the impurities. All the bones feel like curse power. She was laden with curse power. It ran thickly through her body and flowed through her veins like mana, to the extent that Rhys wasn’t sure she had mana at all. She’d been a real threat, a rabid attacker who pushed the offensive so extremely that, unlike Ernesto’s other students, Rhys had had no time mid-battle to evaluate what kind of mana she was using. But now that battle was over, he had time to inspect, and being this close to her, he couldn’t help not notice how much curse power riddled her body. More than any of Ernesto’s students, it was so inherent to her that he wasn’t even sure she knew how to use mana.
+
+Rhys finished drawing out his impurities and stepped back, looking down at her. His brows furrowed. “Did Ernesto do this to you?”
+
+She startled, looking at her now-clean limbs and body, then looked at him. “You did—”
+
+“I mean the ones that were already there. Was it Ernesto?”
+
+Not that he needed another reason to hate the man, but he didn’t want to start blaming his enemy for every ill, either.
+
+Her face twisted into a scowl. “No. I was born like this. They’re a part of me. Obviously.”
+
+“Obviously?”
+
+“You truly don’t know who… no, what I am?”
+
+Rhys shook his head. “Nope.”
+
+She made a face as though she didn’t know whether to laugh or cry, shoving herself to a sit. Her bone limbs trembled, then regenerated, new bone tips pushing out of the broken, jagged ends. “I am Sable. Daughter of the Abhorrent Beast, one of the remaining free Remnant Weapons.”
+
+Rhys’s mouth formed an O. “I see, I see. Interesting.” Was this what Straw would feel like, now that he’d awakened to sensing impurities? He was curious to find out.
+
+She raised her brows. “Are you not terrified?”
+
+“No. Well, my master as a child was the Strawman everyone’s so scared about, so you could say my relationship with these Remnant Weapons is a bit different from everyone else’s.”
+
+Sable looked at him, surprised. “You were…?”
+
+“Yeah. You didn’t know?” Then again, he didn’t know about her, so fair was fair.
+
+She looked down, a thoughtful expression crossing her face. “I barley knew my father,” she admitted at last, looking up. “Everyone says he was nothing but a mindless monster. But he had me, did he not? Even, for a time, cared for me, if my childhood memories can be trusted.” She hesitated a long beat, thinking deeply. At last, she murmured, almost at a whisper, “Do you think those beings are capable of love?”
+
+“Straw was always a bit of an odd duck, but sure. I mean, he laughed and cried with the rest of us. Could be a bit weird at times, but without love? Ha. I’ve met more psychopathic humans.” Rhys shook his head and offered her a hand up.
+
+Sable looked at his hand. He was about to retract it, not wanting to leave it hanging there, when she suddenly clasped it. Her hand was small and cool in his, the bones hard against his finger joints. “All my life, I’ve been told I’m the daughter of a monster. But… you say I’m…”
+
+“Just an ordinary person. Don’t let other people throw you out. Only you can determine if you’re trash or not. Me? I’m trash. But anyone with a character design as cool as yours can’t be,” Rhys said, thumping his chest proudly.
+
+He left out that lots of characters with peak character designs were actually considered trash… although sometimes, a peak enough character design could rescue a character from a trash manga on its own. His mind went to the thousands of figures of one particular succubus from an over lording series where none of the other characters ever seemed to get figures, for some odd reason. Must have been all the mounds of plot around that succubus. Mounds and mounds of it.
+
+Sable stared at him for a second, then burst out laughing. “You’re the strangest person I’ve ever encountered, Rhys Foundling.”
+
+Rhys scratched the back of his head and laughed lightly. “I get that a lot.”

@@ -1,0 +1,211 @@
+---
+id: 8191d268-5f0e-5b54-bdce-d1714207bca6
+page-type-slug: story-chapter-royal-road
+title: "78. Into the Lion's Den"
+slug: 0078-78-into-the-lions-den
+partOf: god-of-trash
+position: 78
+ownLength: 3873
+unit: words
+publishedAt: 2025-05-17
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2286972/78-into-the-lions-den"
+royalRoadId: "2286972"
+---
+
+Laurent was waiting for him by the chip stand, one hand resting on the table. He looked up as the two of them approached, and his whole face lit up. Rhys thought to Bast’s warnings, and almost chuckled. How could someone so harmless and puppy-like do anything like that?
+
+But then, people were strange in love, and this was the enemy, who had mistakenly fallen for his female self. He hardened his heart and reminded himself not to let his guard down. This was the Empire. The ultimate threat before him. Underestimating this man would lead to not only the destruction of the potato chip stand, but potentially, his downfall as a human being.
+
+Honestly, between the destruction of his potato chip stand and his downfall as a human being, he’d much rather fall as a human being. He was quite comfortable with being trash, but he wanted to keep making money selling junk food to mages for as long as he could. Better to be caught as a crossdresser and ruin his personal reputation than ruin his future as a potato chip seller. Of course, in this case, getting exposed would lead to both, so he firmed his heart, girded his loins, and stepped forward to greet Laurent.
+
+He didn’t make it more than a step before a pair of laughing boys stepped out of one of the taverns that lined the square and knocked into him and Bast. Still playing at being Rina, who was delicate and not much of a mage, Rhys stumbled over, falling into Bast, who didn’t budge an inch. He caught the offending boy by his shoulder and shoved him away, letting Rhys pass by to stand on his other side. Both boys smelled thickly of alcohol, clearly enjoying their relative freedom away from their home school to indulge a bit.
+
+“Idiots,” Rhys muttered. Trashy idiots, though. He flicked his gaze of the two of them. Day-drinking fools who acted before they thought? There was a place for people like them, and it was caught up in schemes enacted by people like him. He made a note of their faces for later, and went to walk past.
+
+Bast stood still, frozen like a board. Rhys furrowed his brows and glanced at him. Bast glanced away, turning his head from the boys. Rhys’s frown deepened. He nudged Bast, trying to remind him that they were ladies, they’d succeeded at disguising themselves all day, so why would it stop working now… and then he looked at the boys again. Their robes were less grand than Bast’s, touched with pale green instead of pure white, but they were a familiar design. Not unlike the masked Bast’s attire. He glanced at his friend’s face, raising his brows in an unspoken question.
+
+Bast nodded, just a hair, and Rhys’s eyes widened. These were people he knew. Whether they were students at whatever school the Sword Saint lingered at, or apprentices of the Sword Saint’s sycophants, they knew Bast, and Bast knew them.
+
+Well, well, well. I guess we’re testing our disguises right here, right now, right in front of Laurent. Rhys glanced at Laurent, then let out a quiet sigh. Of course this was how this went down.
+
+Laurent’s eyes widened. He pushed away from the stand, not sure if he should intervene or not.
+
+One of the drunken boys stumbled back a few steps, then caught himself and looked at the two girls. His eyes flicked up and down, and an appraising gleam appeared in them. He quickly grabbed his fellow and bowed to the two of them. “My apologies, beauties. Me and my friend here were just passing through.”
+
+Disguise 10 > 12
+
+“It’s no trouble, no trouble at all.” Rhys beamed and put a hand on Bast’s shoulder, pushing him forward. Keep moving. Now isn’t the time.
+
+“Trouble? Oh, I’d hope not. You see, me and Jacor here—myself, I’m Luc, nice to meet you, I’m sure—we were just having a night out on the town, and I said to myself, wouldn’t it be nice if he had a couple of lovely ladies along to accompany us?”
+
+“Ah, that’s what we’re missing. Ladies!” Jacor declared belatedly. He staggered a little where he stood, well beyond where he should have stopped with the liquor. Catching his footing for a second, he swayed in place, then squinted at Bast. “Do I… know you?”
+
+Bast turned his head slightly away, using the wig to hide his face.
+
+“Of course you do! We’re Rina and Betsy. We run the potato chip stall… and I’m really afraid we have a prior engagement,” Rhys said, smiling awkwardly and pushing past the two.
+
+“What? Rina and Betsy… I had no idea we were in the presence of celebrities!” Luc stepped forward to block Rhys’s escape. “Come, come! I’ll pay for the first round. I won’t take no for an answer.”
+
+“I think you will take no for an answer,” Rhys countered dryly, getting tired of this guy’s antics. If this was half of what Bast had to put up with from the sycophants, then he felt for the man. This much was already obnoxious enough. He really wasn’t the violent type, but he felt the itch to get a little violent with these annoying guys. They were sticky as bubblegum on the sidewalk. They’d be useful if he needed to sic ‘em on someone and distract them for a long time, but they sure weren’t useful here, getting in the way of their meticulous plans. If these idiots knew they were preventing him and Bast from gathering valuable information on the Empire… He chuckled under his breath. He was pretty sure their masters would have words with them.
+
+That was no use to him now, but it was a welcome thought.
+
+Bast drummed his fingertips on his hilt. His muscles bulged with anger, a vein twitching in his forehead. If these were people he didn’t know, Rhys was sure that sword would have already left its sheath. As it was, if he drew his sword, he was just as likely to give himself away as to scare them off.
+
+Rhys raised a brow and touched his storage ring, where the broken hilt laid, always ready to be pulled. He’d rather give himself away than give Bast away. One of them had a reputation, and it wasn’t him.
+
+Bast shook his head minutely. It wasn’t worth it… though Rhys could see the twitch in his brow and the unspoken not yet.
+
+Laurent pushed away from the stall decisively and walked over, striding with all the authority of a military trainee, a hand already on his blade.
+
+“Oh, it’s Betsy! Betsy, your eyes… they’re so pretty,” Jacor said, slurring a bit. He staggered in place, reaching out to catch himself by Bast’s shoulder.
+
+Bast casually sidestepped. Jacor’s reach missed, and he crashed to the ground.
+
+Luc startled. He jumped over and heaved Jacor to his feet, offering the other hand to the girls… or so he thought, anyways. “Come on. Don’t say no.”
+
+“Excuse me. Those two have an appointment with me,” Laurent declared primly. He drew to a halt, his back straight as a board, shoulders squared, chest puffed up in all his officious glory.
+
+Oh dear gods, just when I thought it couldn’t get worse. For a split second, he’d really, actually thought Laurent might save them, but… could the man puff his chest up a little more, or maybe square his jaw a little more punchably? Rhys had never wanted to sock someone in the face more, not even when he’d punched the shit out of Cynog.
+
+Luc drew himself up in a mockery of Laurent’s pose. Being drunk, he wavered a bit where he stood, but that only made it all the better as a mockery. He swaggered around to face Laurent instead of the girls. “Excuse me, I think you’ll find they have an appointment with—”
+
+Rhys drew Bast’s sword and hammered the butt of the blade into Luc’s temple. Luc, facing Laurent, never saw the blade coming. His eyes rolled up, and he went down like a sack of potatoes—Rhys would know.
+
+Jacor staggered, surprised by the loss of his friend’s quite literal physical support, then stared down at his newly-unconscious friend. “Whaaa…”
+
+Smack!
+
+Jacor joined Luc on the ground, revealing a white-gloved hand in the place of his head. Laurent lowered his hand and dusted off his gloves. “Quite unfortunate how they both passed out drunk here.”
+
+“Quite unfortunate indeed.” Rhys tossed the sword back to Bast, who sheathed it with a practiced hand. He nodded at Laurent. “Shall we?”
+
+Laurent gestured for him to go ahead, and Rhys obliged. Bast trailed at his heel, watching Laurent with a suspicious glare. Laurent didn’t notice, too busy basking in Rina’s presence. He reached out a trembling hand, daring to touch her.
+
+Bast’s hand lashed out and knocked it down. His hand moved so fast that it was only a blur of motion, swallowed up in the gray light of dawn.
+
+Laurent blinked, confused. He looked at his hand, then looked at Rina’s arm again. Once more, he reached out.
+
+Once more, an invisible force knocked his hand away.
+
+Seriously? Rhys mouthed, giving Bast a look.
+
+Bast said nothing in response, but he did grin just a hair.
+
+Rhys snorted. Whatever gave him a laugh, he supposed. He nodded at Laurent. “I don’t recall seeing this uniform before.”
+
+“This is our dress uniform. It, ah. Seemed proper for the occasion,” Laurent said, suddenly a bit bashful.
+
+“Oh,” Rhys said. Bast gave him a smug look. I was right, he mouthed.
+
+Rhys rolled his eyes. It didn’t matter what Laurent thought this was. It was nothing but an information-gathering operation to him. If he broke the boy’s heart afterward, so be it. First loves were destined to end in heartbreak, anyways.
+
+“Sorry about your sword,” he murmured, leaning in toward his friend.
+
+Bast waved his hand, dismissing it. “Better for you to strike than me. They don’t know your swordplay half as well.”
+
+So he had understood. Rhys nodded. If that was settled, then there was no need to bring it up any further. He turned to Laurent instead. “I’ve never seen the Empire. Tell me, what’s it like?”
+
+Laurent glanced at him, then quickly away, as if looking at him for too long burned. “It’s very different from this. Everything is clean, neat, and tidy. Everything has its proper place. There’s none of this…” He gestured vaguely at the fallen boys behind them. “Tomfoolery.”
+
+“What? No trash?” Rhys asked, shocked to his core. For a split second, he even forgot to use his girl voice.
+
+Laurent furrowed his brows slightly at that, but shook his head. “No, no. It’s no paradise. We have garbage heaps, but all the garbage goes there. It isn’t just… flying around everywhere.”
+
+Rhys pressed a hand to his chest, relieved. “Oh, thank goodness.”
+
+Bast chuckled, shaking his head at Rhys.
+
+“Um… but there are much more wondrous things than the sanitation department!” Laurent said, recovering. He waved his hand at the streets around them. “Our streets are broad, many times as broad as this, and always perfectly paved, the stones polished and white. There’s no such thing as a filthy, narrow street…all the old streets have been torn out and redone. The same with the old buildings, they’ve been replaced. Everything is shiny, orderly, and new. There’s none of this chaos and decay.”
+
+“Really? But isn’t that sad? All that history, ripped up and thrown away,” Rhys said, though at the same time, his trash senses tingled powerfully. Thrown away? Thousands of years of construction, relics, and manuals, all thrown in the trash? What valuable, powerful trash! What furiously energetic garbage! If he went through that, what wondrous things could he learn? What incredible power could he gain, were he to burn it?
+
+“No, no, it’s all worthless,” Laurent assured him, but he wasn’t listening. All he could see in his mind’s eye were those glittering piles of trash.
+
+A moment later, his brows furrowed. Would it count as trash, though? One woman, one Empress, true, had designated it trash. But what about all the scholars who mourned for the loss of the manuals? What about all the historians, who cried for the history ripped up and tossed aside? Whose will mattered more, the many, but powerless, or the one, but powerful?
+
+I guess I can only find the trash and find out, Rhys thought, making a tiny mental note to visit the Empire after the tournament, if it didn’t attack, and lavish himself upon its beauteous trash pits. Worst case, he came away with an entire Empire’s worth of highly valued manuals he could sell for an outrageous upcharge. Best case, he returned with all the fury and power of the trash at heel.
+
+“Take me with you,” Bast murmured. Rhys glanced at him, and he nodded. “I know what you’re thinking. Take me with you.”
+
+Rhys laughed. He nodded. “Sure thing.”
+
+“Take you where?” Laurent asked.
+
+“Oh, we were just thinking it might be fun to visit the Empire,” Rhys said.
+
+Laurent beamed. “It sounds beautiful, doesn’t it? Oh, its highly egalitarian, too. Everything is determined by your own personal power and strength. A true meritocracy.”
+
+Rhys frowned, confused. “You mean, the same as it is here?”
+
+“No, no, much better. Here, your talent and potential, determined by birth, determine your future strength. We have overcome that. No matter how talented you’re born, no matter how much potential you have, everyone is equal in the Empress’ eyes. As long as you’re loyal and hardworking enough, the Empress will gift you strength to let you rise above your birth talents.”
+
+“What?” Rhys asked, totally lost. Was this like his own efforts to reforge his core and body? But it didn’t sound like it. It sounded like Laurent was describing a way to completely negate that, not incrementally work to better it.
+
+“In the Empire, everyone’s core is removed at birth. It’s taken away by the Empress, who nurtures it, along with everyone else’s, to higher Tiers of strength. If you display a hardworking spirit and loyalty to the Empire, she gifts you a core. Every time you commit enough meritorious acts for the Empire, and behave loyally and in accordance with the Empire’s laws, you rank up within our military, and qualify to receive a higher tier core.”
+
+Rhys and Bast both stared at Laurent in jaw-dropped horror. After a moment, Rhys shut his mouth, and closed Bast’s with a quick tap as well. Still, his resolve to face down the Empire to his dying breath had only strengthened. What kind of perverse country was that? Controlling every piece of a person’s potential, down to the strength of their core and the quality of their magic. Only loyalists could receive cores, huh? Then that meant there was absolutely no escape for dissidents, or even those who simply wanted to live differently from the Empire’s edicts. They had to remain within the Empire, or consign themselves to be naught but powerless mortals, totally incapable of fighting back against the Empire.
+
+At the same time, he had to admit there was a cruel, cold logic to the thought. If he were a repressive dictator, and he had the ability to remove people’s cores and only hand out cores to loyal, law-abiding citizens, what could be better? A rebellion? Ha! That was a joke. At best, the rebels would be mortals. Outside forces, regathering their strength for an attack inside the Empire’s borders? What strength? Anyone who spoke against the Empire, thought against the Empire, lifted a finger against the Empire—hell, jaywalked against the Empire, threw away their hope of ever obtaining magehood in the same instant. Horrifying, but logical all the same.
+
+The ability to freely extract and replace cores. The Empress is a foe far beyond my power, Rhys realized, touching his own core. He could do nothing against that. Hell, even Bast had no power in front of a force like that. He glanced at his friend, and his desire to keep him well out of the Empress’s striking distance redoubled.
+
+Blithely unaware of Rhys and Bast’s horror, Laurent smiled and tapped his solar plexus, behind which the core sat. “This is already the third core I’ve had in my life. Incredible, isn’t it?”
+
+“Y-yeah, incredible,” Rhys agreed. “What happens to the people without cores?”
+
+“Oh, nothing. Many mortals are born without them. They simply remain mortals until they prove themselves worthy of a core.”
+
+Rhys furrowed his brows. Is that true? He’d been in a trashy body, and it had still had a core. He made a note to check it in the library, but remained highly suspicious of Laurent’s fact. Sure, maybe people could live without a core, but he didn’t think anyone was born without a core. “What about your path?”
+
+Laurent beamed. “We all walk the Empress’s noble path. We seek after her own insights, and strive to gain greater understanding of her driving power.”
+
+Rhys’s brows shot up. He exchanged a look with Bast, terrified. An entire country of core manipulators? The Alliance was already dead and gone. Clearing his throat, he clarified, “You mean, you can all handle cores? Every single mage in the Empire?”
+
+“What? Of course not. No, only the Empress has that power. That’s a secret art she keeps for herself. And thank goodness, too. Can you imagine what a rogue core manipulator might do? We’re fortunate it’s our good and benevolent Empress who is the only one who can handle cores.”
+
+“Truly,” Rhys said, for the first time agreeing wholeheartedly with Laurent’s sentiment. Another look shot between him and Bast; this time, of relief. When he thought about it, though, it made more sense. After all, one core manipulator gone rogue, stealing cores they didn’t ‘deserve’ and empowering themselves, and the whole control scheme was gone. Better to consolidate that power into one person, or so a dictator would think.
+
+After a moment, he nodded at Laurent. “Then you don’t grow your own core or expand your own core at all?”
+
+“Well, it’s not possible to be a mage without doing that,” Laurent said, agreeing with Rhys’s lived experience. “But, well, it’s not your own core, you understand? All cores belong to the Empress. When the core advances, we hand it back to the Empress over keeping it for ourselves. In rare cases, the mage who advanced the core will be allowed to keep the advanced core, but that’s only in rare cases. It involves all kinds of paperwork, vouchers, special allowances… it’s rare. If the Empire isn’t at active war, and the mage isn’t actively involved in vital research, it’s almost unheard of. After all, there’s always a backlog of mages at the next rank who’ve been cleared to receive the next tier of core, but haven’t gotten a core yet. More mages eligible to rank up than there are cores to go around.”
+
+“Right, right, of course,” Rhys agreed.
+
+“The Empress says it prevents the tyranny of luck. That this way, only the deserving become mages, instead of those who by happenstance, have some talent. Talent is blind to morality, righteousness, and loyalty, but our Empress can fairly judge them all, and ensure the worthy are given magehood.”
+
+Rhys nodded. It was a good idea in theory, but it broke down in practice. If the Empress really did pick only good-hearted people to become mages, then it prevented people like Cynog from gaining power. But how perfectly did the Empress really pick her mages? How closely did she inspect each person she gave a core to? How important was loyalty, over righteousness and morality?
+
+For that matter, would he or Bast qualify as righteous or moral enough to receive cores? They were nothing. In his case, trash talent. In Bast’s case, the son of a whore. Would the Empress smile upon their shitty little orphanage and hand them cores? Or would she prefer to hand them to existing mage families, and those with money and power?
+
+In a region that lived and died by a meritocracy, sure, the tyranny of chance was eliminated; but so was the chance for those who traditionally lacked power to gain power. Instead, those in power would hand power to their own, and never again would power filtter down to the little guys, to give those like Rhys and Bast the chance to become something—anything.
+
+There would always be a tyranny of something. In Rhys’s opinion, better the tyranny of chance than the tyranny of one single mage.
+
+Laurent noticed his expression and frowned. “You don’t agree?”
+
+“Ah, well… Rhys shrugged. “I just thought that Ba…etsy and I wouldn’t get cores, in your Empire.”
+
+“Why not?” Laurent asked, shocked. A horrified look passed over his face as a thousand immoral and unrighteous crimes ran through his head.
+
+“Well, we’re…” Rhys glanced at Bast. “Orphans.”
+
+“No, no! Anyone can get a core, as long as they commit to military service, and are good of heart. Birth has nothing to do with it,” Laurent assured them.
+
+“Nothing?” Bast asked, a challenge in his voice.
+
+Laurent grimaced. “Well, there’s always the nobility, but… it isn’t as if there isn’t nobility in the Alliance, right?”
+
+“Right, right,” Rhys agreed easily. The Empire had nobility? Ha. The meritocracy didn’t even pass a basic glance. Sure, sure, it was a meritocratic nobility, suuure.
+
+All this time, too, he’d been putting aside the ‘loyalty’ part that Laurent kept repeating. That was its own problem. Any dictator who demanded absolute loyalty had the stink, to Rhys’s nose. The stench of pure evil. Honestly, any person who demanded absolute loyalty had that stink, let alone a ruler. Loyalty was something offered, not something commanded.
+
+He nodded at Laurent. As long as he was here, he might as well get his money’s worth of knowledge. “So, those cores, how do techniques work? Skills?”
+
+Laurent babbled on and on about the way a given core worked versus a natural core, until at last, he drew to a halt at the docks. Gesturing at the giant white ship, he smiled tentatively at Rhys. “Would you like to see the ship?”
+
+“Would I,” Rhys said, his eyes shining with earnest interest. Since the first time he’d seen one of those huge multiple-mast flying ships, he’d wanted to get inside one. Who didn’t want to explore a huge ship, let alone a huge flying ship? And not some boring modern container ship, but a historic ship at that. The only problem was, his little school barely owned a skiff, let alone a three-master, or this giant galleon, but now Laurent had invited him on board the biggest flying ship he’d ever seen. His childhood dreams were all coming true right now.
+
+Bast nudged him. He nodded back. Yeah, I know. I’ll keep my eyes open and take care. Still, this was his chance to be on a huge flying magical ship. He couldn’t turn that down.
+
+A knowing chuckle from his friend was his only answer. They stepped forward, past the point of no return.

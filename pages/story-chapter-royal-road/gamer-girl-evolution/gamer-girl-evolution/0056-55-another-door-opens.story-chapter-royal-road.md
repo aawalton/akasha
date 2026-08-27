@@ -1,0 +1,217 @@
+---
+id: 817aab7d-55d5-5897-a2fd-3a6765956844
+page-type-slug: story-chapter-royal-road
+title: "55 - Another Door Opens!"
+slug: 0056-55-another-door-opens
+partOf: gamer-girl-evolution
+position: 56
+ownLength: 1446
+unit: words
+publishedAt: 2026-04-10
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3256505/55-another-door-opens"
+royalRoadId: "3256505"
+---
+
+Collectively noticing her over the top reaction, one by one, everyone in the room turned to face Celica.
+
+Ulza blinked. "Uh. You okay there, Lady Wisdom?"
+
+Celica forced herself to regain her calm. Slowly and deliberately, she sat back down.
+
+Thorne scoffed slightly as Doran shook his head, the latter's right hand involuntarily covering his face. Both Ophel and Triton remained silent, but their expressions showed they were surprised too.
+
+"Did something happen?" Semmia said rapidly, a staff suddenly manifesting in her hands as she stood up.
+
+"[Blessed Mana Essence], [Mana Compression], [Detection Domain]."
+
+Around the Mage Commander, several magical multi-coloured lights erupted. Within seconds, she had covered the entire castle within her mana domain.
+
+When she was finished searching the entire castle, she frowned.
+
+"I can't detect anything dangerous." The Mage Commander said as she turned in Celica's direction. "What happened?"
+
+For a short moment, Celica's eyebrows twitched furiously.
+
+Of course you couldn't detect anything... nothing happened outside... just my perfect quest streak was...
+
+"My apologies, Mage Commander. It seems my sudden outburst earlier caused quite the misunderstanding. I reacted like that because... wisdom comes to me suddenly. Yes, enlightenment, if you will. I hope you won't be alarmed in future." Celica said, casually lying like it was some sort of competitive sport.
+
+"Is that so..?" Semmia's eyebrows arched unnaturally, but she decided to drop the matter, putting her staff back in her inventory.
+
+Ulza held a hand to her mouth, hoping to hold back her laughter.
+
+It didn't work.
+
+Doran simply gave her a meaningful look and she instantly stopped laughing.
+
+The King looked at the entire situation with interest, however he thought it best not to address the outburst directly. Instead, he folded his hands behind his back and continued his speech.
+
+"Regardless of the perpetrator, this incident has made one thing clear. We must remain vigilant. Not just of players—but of other realms, too. And yes… even of our own."
+
+Each of the commanders interpreted what that meant differently, but they all made a mental note to remember his words. After a short pause, King Sebius' gaze returned to Celica.
+
+Ah. So he is going to talk about that outburst.
+
+"Wisdom Hands, your level is… low."
+
+Nevermind.
+
+"You need to grow stronger. Your abilities will be crucial to humanity's success. The cleanse and buff skills will be a great asset, but only if you can survive to cast them.
+
+Grand Commander Doran—and a hand-picked selection of the lower-levelled commanders—will accompany you to go exp farming."
+
+Celica lifted her head. "Where?"
+
+Ulza answered before anyone else could.
+
+"Isn't it obvious Ms. Outburst?" she said. "The Main Front."
+
+Celica stared at her.
+
+…What?
+
+Celica didn't speak immediately. The mention of the Main Front still echoed in her mind like a bad joke that refused to land.
+
+At her current level, which wasn't even 100, it would be no different to... suicide. It was highly likely that being killed in other realms, outside the domain of players, would lead to true death. Not only that, because of the level gap, she literally wouldn't gain any exp. It'd be pointless.
+
+Celica inhaled once, steadying herself, then inclined her head towards the King. "Your Majesty," she began. "Before that… may I request a brief delay?"
+
+The room's attention snapped back to her. Doran's gaze sharpened. Triton's eyes narrowed slightly. Ulza looked ready to scoff.
+
+The King, however, only raised a brow. "A delay?" he asked mildly. "Explain."
+
+Celica chose her next words carefully. Very, very carefully.
+
+"The incident in the colosseum is still unresolved. If there truly is interference between players and the Monster Realm, then sending commanders—including myself—into extended combat zones immediately may create blind spots. I would prefer to ensure no loose threads remain within the capital first."
+
+She paused before mentioning her next point. "Additionally, my appointment is… recent. There are protocols, expectations, and appearances I hope to familiarize myself with before vanishing to the front lines. If that is acceptable, Your Majesty."
+
+Silence followed.
+
+Semmia's lips curved faintly, amusement flickering behind her eyes. Doran crossed his arms, still considering while Triton gave a slow nod. King Sebius studied Celica for several seconds. Then he smiled.
+
+"I see. Your reasons are valid. I will delay the joint deployment until you've grown accustomed to being a great commander."
+
+Celica resisted the urge to sigh in relief.
+
+I lived. Somehow.
+
+King Sebius rested his fingers against the arm of his chair, his expression thoughtful.
+
+"There is one more matter. One that is… non-negotiable. The lives of Great Commanders are precious. You are irreplaceable assets to this realm. And yet—" his gaze sharpened, "—you can die at any moment."
+
+The words landed heavily.
+
+"Players are different. Their growth potential is absurd. Exponential. Many will fail, but a handful…" His eyes glinted. "Will rise to heights even you all may not reach."
+
+Ulza clicked her tongue. "They're insurance?"
+
+"I'm saying they're the future," the King replied calmly. "Whether you like it or not."
+
+No one argued.
+
+"From this day forward, each of you will take on at least one apprentice among the Players. Someone promising and compatible with your class. Alternatively—or additionally—you may instruct a group of Players."
+
+He leaned back.
+
+"Your duty is to guide them, refine their potential, and prepare them to one day either stand beside you… or replace you."
+
+Doran was the first to speak. "Understood."
+
+Semmia, Triton and Thorne all nodded in unison.
+
+Ulza folded her arms. "So I'm babysitting."
+
+"You are mentoring," the King corrected.
+
+Ophel said nothing, opting only to adjust her scarf. That was a reply in her own unique language.
+
+The King's eyes finally moved to Celica.
+
+"And you," he said. "You are no exception."
+
+Celica inclined her head. "I expected as much, Your Majesty."
+
+I absolutely did not.
+
+"Good," King Sebius said. "I will inform Grand Commander Doran of your next meeting. Until then, unless you have higher-priority objectives, this will be your focus."
+
+He paused. "Ah. One more thing. Add her to the group chat."
+
+Celica froze.
+
+…The what?
+
+Semmia blinked, before showing a wry smile. Ulza laughed outright.
+
+Doran cleared his throat. "…Of course, Your Majesty."
+
+Celica felt a faint tug in her system interface.
+
+[You have been added to: Great Commanders (Earthonia)]
+
+She opened it out of reflex and watched as message after message spilled out. She immediately regretted opening it.
+
+[Great Commanders (Earthonia) Group Chat
+
+— Ulza: so we're just adding anyone now lmao
+
+— Semmia: welcome welcome ~
+
+— Thorne: welcome
+
+— Ulza: How come I didn't get any welcome messages when I joined?
+
+— Semmia: You needed the character development. Badly
+
+— Triton: …
+
+— Ulza: Defend me Triton. You're the Shield Commander, remember? Is that seriously all you're gonna say in my defence? Nothing?
+
+— Triton: yes
+
+— Doran: Be serious in the group chat please.
+
+— Ophel: Someone buy me chocolate muffins.
+
+— Thorne: Send me the money, I'm going to look for an apprentice soon anyways.
+
+— Ophel: k.]
+
+Celica stared.
+
+This is the group chat? This is how they communicate?
+
+She had expected… reports. Strategy briefs. Maybe the occasional formal notice. But definitely not this. When she thought about it, it was likely the way it was because the King wasn't in the group chat. Otherwise, she had a feeling it'd look completely different.
+
+She closed the chat before it could get any worse. Or before her curiosity consumed her enough to scroll up.
+
+The King, seemingly pleased by his commander's 'good chemistry', broke the silence.
+
+"Commander Doran will notify you all through the group chat if a meeting is required," King Sebius said. "Do ensure you check it regularly."
+
+Celica nodded slowly, but cringed slightly. Regularly? Really?
+
+Sebius, noticing her reaction and mistaking it for discontentment, gave a faint smile before continuing.
+
+"But of course—there are benefits to the role."
+
+Now that got her attention.
+
+"You will receive a substantial allowance. Housing within the upper district of the Eonian Empire is fully provided. Discounts across imperial markets too."
+
+Her composure wavered. You're telling me I get paid?
+
+"Additionally, you will meet commanders from other realms. There will be joint operations. Occasionally, duels. Cooperation—and conflict—are inevitable."
+
+Semmia hummed thoughtfully. "Those are always fun. The duels, that is."
+
+"Is there anything I missed, Commander?" King Sebius turned to Doran, who shook his head.
+
+"In that case, you are all dismissed." Chairs shifted as the king closed the meeting.
+
+"…Ah. I almost forgot." He turned his head slightly. "Semmia. Show the wise commander to the treasury."
+
+The world stopped as Celica's eyes lit up with a greedy glint.
+
+Maybe missing out on the main quest wasn't so bad after all.

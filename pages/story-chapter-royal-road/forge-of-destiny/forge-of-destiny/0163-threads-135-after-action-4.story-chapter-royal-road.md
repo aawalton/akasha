@@ -1,0 +1,157 @@
+---
+id: 5af1a028-e6cb-5546-9393-1e290b2131fc
+page-type-slug: story-chapter-royal-road
+title: "Threads 135 After Action 4"
+slug: 0163-threads-135-after-action-4
+partOf: forge-of-destiny
+position: 163
+ownLength: 2422
+unit: words
+publishedAt: 2021-09-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/757846/threads-135-after-action-4"
+royalRoadId: "757846"
+---
+
+Ling Qi held her new earrings in her hands, watching how they glimmered in the workshop's light. The Dusk Wind Studs were silver, relatively plain in make, but each was set with a dark blue gem which darkened to near purple at the center. Peering at them, Ling Qi could see the shimmer of the sky at dusk in their depths.
+
+“They’re as beautiful as I’d expect,” Ling Qi said, looking back to Lin Hai.
+
+“They are not too complex on their own, but such accessories are more a component than a statement unto themselves,” Lin Hai explained, pressing a fingertip to his lips thoughtfully. “I was somewhat disappointed that you did not allow me to give you something a touch more eye-catching.”
+
+Ling Qi chuckled awkwardly, glancing at Lin Hai’s extravagant garb. “It really isn’t my style to do so.”
+
+“Naturally, and that is why I did not push,” Lin Hai said, nodding affably. “If there is one lesson I know all too well, it is the difference between pushing one to seek their boundaries and forcing one beyond them.”
+
+Ling Qi rubbed her thumb over one of the gemstone studs. It was cool and smooth, the line of the cuts almost undetectable. She recalled Lin Hai’s words at their last meeting. They had confused her at the time, and they still did honestly. It was difficult to imagine Lin Hai as anything but what he was. “I did actually have another thing I wanted to ask you about.”
+
+“For dear Lady Ren’s retainer, I can spare a few moments more,” Lin Hai said. He gestured airily, and the numerous tools floating in the air began to spin and bob, flying their way back to the tables and shelves.
+
+“Is it normal for one of your gowns to, uh, eat other clothing if left alone for a while?” Ling Qi asked. She stumbled over the question despite herself. She was still baffled.
+
+Lin Hai blinked.
+
+“Not particularly,” he said slowly, sounding nonplussed. “Deprived of your energy, she should have simply gone dormant. Unless she received some damage?”
+
+“No, I left it—her—in my room. When I came back from my training, I found my gown in the closet with a bunch of frayed bedding.”
+
+Lin Hai’s darkly painted eyebrows drew together, and he reached out, tracing his finger through the air a hair's breadth away from her shoulder. Faint glimmering threads rose to meet him, and Ling Qi felt her gown cling tighter for just a moment.
+
+“Ah, Master,” Lin Hai breathed out. “How your works still confound…”
+
+Ling Qi shifted uncomfortably. Having been on the receiving end of Cai Shenhua recently, those words were not a comfort.
+
+“It seems your choice to wear her at all times has had some effects on her development, which is proceeding faster than I thought possible,” Lin Hai said. “It seems that she is only waiting for your cultivation to reach a sufficient level before achieving her own evolution.”
+
+Ling Qi glanced down in surprise. “What level is that?”
+
+“Formation green and bronze, I would estimate,” Lin Hai answered, withdrawing his hand. “Until then, if you need to remove your gown for a lengthy period, it may be best to put her in your vent chamber. The qi-rich air there should prevent any mishaps.”
+
+Ling Qi brushed her fingers against the silk of her gown and felt the thrum of qi running through it, transforming silk into something far stronger than steel. If she focused, could she feel something foreign, an energy that was not just her own percolating through the talisman? Maybe it was just her imagination.
+
+“In any case, Miss Ling, you will need to hold your seat for a moment longer,” Lin Hai said. His fingers twitched, and between them, a large, steel needle appeared. Inscribed with countless formations so small that they appeared as no more than spidery lines, the needle crackled with heavenly power fit to pierce stone, metal, or immortal flesh. “You’ll need to try your talisman on, after all.”
+
+Ling Qi grimaced. She hadn’t been looking forward to this part.
+
+***​
+
+Over the course of the next few days, Ling Qi worked on putting her idea into practice while continuing to cultivate. She began the process of opening a new meridian, slowly and painstakingly working open the densely clogged channel. With each one she opened, it was getting harder.
+
+It wasn’t too hard to talk Li Suyin into setting up a meeting, and Xuan Shi wasn’t much harder to convince. However, as she arrived at Suyin’s workshop and opened the door, it occurred to her that she might have forgotten something. In the dim light of the workshop, more than two dozen eyes stared back at her from the opposite wall.
+
+Suyin did not have any visitors.
+
+They floated in jars, hung suspended between crackling metal prongs, and lay neatly stacked upon trays. Some were human, some were animal, some were even insect-like or glittering things of gemstone and precious metal.
+
+Below them was a line of eerily lifelike wax heads, each missing their left eye. One of the heads was melting slowly against the table, half of it carved away by some blast, and scraps of wax and ocular tissue were being cleaned up by the assistants. These assistants were not the tiny mouse skeletons that scurried to and fro across the floor, but the humanoid and human-sized figures with the skulls of beasts, wrapped in spider silk and garbed in the robes of servants.
+
+Behind her, through a silver wisp, Ling Qi saw Xuan Shi very slowly blink.
+
+“Ah, my apologies, Ling Qi. Is it really so late already?” Li Suyin looked up from the half-exploded wax head, looking startled and contrite. There was a bit of wax brain matter and too realistic blood clinging to her cheek. A nearby skeleton with the skull of a doe helpfully dabbed it away with a silk kerchief. “I got caught up in the testing…. This is so embarrassing.”
+
+Li Suyin had changed a lot since the last time they had met Xuan Shi, huh?
+
+<I think it’s nice. Really gives her a unique feel,> Sixiang asserted. <She’s so good at color balance too! I really like the asymmetric feel the spider webbing gives the space.>
+
+Ling Qi didn’t pause more than half, no, a quarter, of a beat as she stepped inside and smiled. “Don’t worry too much, Suyin. This isn’t anything too formal. I’m sure Xuan Shi has lost himself in a project too now and then.”
+
+Xuan Shi startled when she said his name, pulling his eyes away from the skeletal constructs moving through the room. They were already disassembling and carrying away the workbench, tools, and materials. “The fugue of the craftsmen is not unknown. Rather, this one would apologize for the short notice.”
+
+Li Suyin stood and brought her hands together to bow. She was wearing the mantle Lin Hai had made for her. Pale grey with a striking dark violet underlayer that peaked out as it billowed with her movements, it was surprisingly utilitarian for one of his works. It had a high collar from which protruded a touch of dark purple lace and was otherwise only accentuated by spiderweb patterns embroidered into the shimmering grey silk.
+
+Of course, the pale grey fabric seemed to swim and shimmer, presenting phantasmal faces, if Ling Qi looked at it too long.
+
+It was downright staid really.
+
+“Regardless, I apologize. It is an honor to have such a skilled craftsman in my home. I hope my simple works don’t bore you too much,” Li Suyin said demurely, clasping her hands together.
+
+She wore two gloves now, but only one was that clawed contraption she had put together.
+
+“Sect Sister Li’s words are too humble. The works performed by your hands are known throughout the Sect,” Xuan Shi said. He seemed to pause, listening to something. “You give this one too much esteem.”
+
+<Did I look like that at first with you?> Ling Qi thought to Sixiang. She stepped back, and pulled the door shut.
+
+<You could get pretty bad about spacing out,> Sixiang replied, amused.
+
+“The fame of the Xuan clan is well earned,” Li Suyin said politely, straightening up. Skeletons emerged from other rooms, carrying tables, chairs, and even a tea set. “And your project last year truly earned its place in first. I could not have managed such a complex enhancement.”
+
+“This one wonders at that,” Xuan Shi said, tugging at the brim of his hat. “To break the earth in a new field is more impressive than to merely tread anew old ground.”
+
+“No,” Li Suyin insisted. “The complexity of your reaction matrices still baffle me. How in the world did you encode so many behavioral variations into each individual tile with so little material real estate? I was not able to discern any core command processing talisman, nor thought-based transmission, so each piece is obviously autonomous.”
+
+Ling Qi smiled faintly as she took her seat, and Xuan Shi replied with a string of words that she knew all the individual meanings of, but which, together, represented only highly technical gibberish. It seemed like despite a little stutter at the start, things were going well.
+
+Ling Qi kept her own contributions minor for a time, only slipping in to smooth over awkward silences or cover for Xuan Shi when he spaced out. His new spirit seemed to have a somewhat poor sense of timing compared to Sixiang. But if they were new to the material world, that made sense.
+
+Still, after the tea had been served, and the last subject, a discussion about vehicular formations, reached its natural conclusion, Ling Qi found the chance to ask her own question.
+
+“So, with everything you’ve said about the operating ranges of Xuan ships, does that mean that it’s true that Savage Seas has contact with foreigners?” Ling Qi asked. Li Suyin’s constructs had provided them each with a little slice of tea cake as well. Ling Qi found it a little too sweet for her tastes.
+
+Xuan Shi glanced her way, and thankfully, he didn’t seem offended by the question. “The ports of the Isle have hosted men of foreign shores, it is true. Not all barbarians are eager for battle.”
+
+He did sound reflexively defensive though.
+
+“How curious,” Li Suyin mused. “However did the Xuan manage to come to arrange such a situation?”
+
+“Our voyagers typically do not seek battle and plunder as some explorers do,” Xuan Shi replied. “Thus, on occasion, those who would rather trade come to find the Isle.”
+
+“Have you ever seen them? Foreigners, that is?” Ling Qi asked casually, taking a sip of her tea. The blend was a little bitter.
+
+“This one has witnessed the foreign quarter in use a time or two,” Xuan Shi said wistfully. “The folk of Khem are the most numerous, and their mein hard to miss, but at times, a dark-faced man of Banu comes bearing a hold full of blue adamant. Once, I saw one who claimed to be of far-off Nidalvar, whose inhabitants are said to dwell at the upper peak of the world.”
+
+“How startling that must be,” Li Suyin said. “And they truly keep imperial peace well enough for the Xuan to allow them into port?”
+
+Xuan Shi frowned. “Strange as they may be, it would be madness to assault the Living Isle.”
+
+“What are they like though?” Ling Qi asked. “I mean, it has to be hard for everyone to not offend each other, right? How do the Xuan manage?”
+
+“It is the voyagers who learn such things,” Xuan Shi admitted, looking down. He toyed with his plate. “This one’s father did not teach the craft afore he left on his last journey eight years ago.”
+
+Ling Qi thought as Li Suyin offered an apology. Hasn’t Xuan Shi previously said that his parents were alive? Was that just wishful thinking, or did he actually know?
+
+Well, this wasn’t exactly the time to challenge him on it.
+
+“I’m sorry,” Ling Qi offered as well. She considered her situation. Her mission wasn’t exactly secret, even if it hadn’t necessarily spread to everyone yet. “Recently, I’ve been commanded by the Duchess to take part in an expedition to speak with some foreigners. We’ve discovered a group not of the cloud tribes, hailing from south of the Wall.”
+
+Li Suyin looked shocked, and Xuan Shi tipped his hat back, looking at her in surprise.
+
+“I was hoping that you might be able to give me some advice on acquitting myself well,” Ling Qi continued.
+
+“Such a duty for one so young,” Li Suyin murmured. “No, given the heiress, it makes sense…”
+
+“This one has only limited experience,” Xuan Shi said slowly. “A few youthful explorations, driven by curiosity.”
+
+“Anything would be helpful,” Ling Qi said, bowing her head.
+
+Xuan Shi was silent, seemingly listening to his spirit. “Once, this one spoke with a woman of Khem while a cousin haggled with her husband. Tall, she was, a mountain in flesh, her face brightly painted, and hair black as ink. This one was in shock at the sight of her, garbed only in a transparent skirt and glittering jewelry that bore all to the sun.”
+
+Ling Qi stared in disbelief. Someone just… walking around in a town, basically naked? And they were supposed to be civilized?
+
+“The Khemite found the sputtering child before her amusing and gave this one a candy from their goods.” Xuan Shi’s expression screwed up. “The taste was of raw meat and blood with a foreign spice. Another trip, this one encountered a boy of Banu. His father had business with mine. Even at such a young age, twelve bars of steel, gold, and other metals pierced his features, and bangles of the same hung heavy on his limbs. We spoke not the same tongue, and yet words were unneeded to play a child's game with the strangely bouncing ball in his possession.”
+
+“So mundane,” Li Suyin commented. “You make it sound as if they are merely oddly dressed people.”
+
+“It is more complex. It is possible to give offense without intent, for innocuous gestures to lead to unexpected responses, but…” Xuan Shi shrugged helplessly.
+
+Ling Qi understood. It struck at the uncomfortable feeling that had been growing in the back of her mind. Rather than imagining a confrontation with a strange spirit, she really should be thinking of them as people.
+
+Dealing with people was so much harder.

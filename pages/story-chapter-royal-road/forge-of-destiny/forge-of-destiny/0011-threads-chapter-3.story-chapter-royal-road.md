@@ -1,0 +1,145 @@
+---
+id: e85206b0-4b08-5057-ae84-2665f7064000
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 3"
+slug: 0011-threads-chapter-3
+partOf: forge-of-destiny
+position: 11
+ownLength: 2508
+unit: words
+publishedAt: 2020-10-29
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/576423/threads-chapter-3"
+royalRoadId: "576423"
+---
+
+It was about a half hour later that she found herself seated across from Cai Renxiang at the little table in her home’s kitchen with a steaming cup of dark brown tea being placed in front of her. It had an invigorating, earthy scent with a hint of sweetness.
+
+“You added honey?” Ling Qi asked, for once recognizing a scent. She had stolen jars of the stuff once or twice. It was expensive and kept well, and easy to hide until it could be fenced.
+
+“The Primeval Root blend is incomplete without a small spoonful of Cloud Blossom honey,” Cai Renxiang replied from her seat. Seeing her with her eyes closed, inhaling the scent of the tea, Ling Qi could almost mistake her for being a normal, relaxed girl.
+
+“Throwing out names like that,” Ling Qi said slyly. “You should have told me it was a cultivation aid.”
+
+Cai Renxiang cracked one eye open to give her a disapproving look. “It is not. The medicinal blend has a terrible flavor and uses a different subspecies of the plant.”
+
+Ling Qi huffed in disappointment but took a tiny sip anyway. It had a very rich flavor, which she had to admit was tasty. It still seemed a bit of a waste. “What is with those names then?”
+
+“The tea leaves only grow upon the hills formed by the capital city’s root network, and the honey arises from the bees kept in the fourth stratum cloud gardens,” Cai Renxiang explained, taking a sip of her own.
+
+“I definitely want to see that place one day,” Ling Qi said, struggling to picture a tree big enough to be a mountain. She had always been aware of the dark shadow on the northern horizon when she lived in Tonghou, but she had never really considered what it was. “Why is tea so important in Emerald Seas, anyway?”
+
+“It is, in truth, a holdover from the days of Weilu rule. Their founder, Tsu the Diviner, mastered the secrets of weather and seasons, allowing his people to grow their food from the earth. Tea plants were among the first domesticated this way. Those early blends were of practical use. They fortified the drinker’s health and warded off sickness.”
+
+That made sense. Even she knew that boiling water helped remove some of the impurities that could make a person sick. If someone could make it have medicinal value and taste good at the same time, why not? “So it’s a habit that stuck around since then?”
+
+“In simple terms, yes,” Cai Renxiang replied. “It became a mark of status to grow especially flavorful and desirable plants on one’s land, and remains so to this day.”
+
+Ling Qi hummed to herself, taking a deeper drink from her cup. It did have a certain relaxing effect. “So it’s another thing like swords then... “ she mused aloud. “You seem more passionate about it than a mere obligation would imply though.”
+
+Cai Renxiang did not answer, and as the moment stretched, Ling Qi looked up to find the girl wearing a troubled expression.
+
+“... Mother does not care for tea making,” the other girl. Her ever-present corona of light died down to a bare flicker as she toyed with the handle of her teacup. “She recognizes its value. So she does not reprimand me for the practice, but it also holds no interest to her. It is something I enjoyed, even as a small child.”
+
+Ling Qi nodded in understanding but didn’t say a word. She could read between the lines of what had been said well enough. As the silence began to get heavy, Ling Qi put on a smile. “You’ve certainly gotten good at it. Are there any other interesting blends from the capital?” she asked.
+
+Cai Renxiang gave her a wry look that said that she knew exactly what Ling Qi was doing. “Of course. Some of them may even interest you. In the fifth and sixth stratum, there are…”
+
+Ling Qi leaned forward and took the pot, pouring herself another cup. She’d have to ask Cai Renxiang to put up the death-aspected mirror she had found in the Weilu tomb for auction later, but this wasn’t such a bad way to spend the afternoon.
+
+***
+
+“You know, I don’t think I ever congratulated you on winning the production tournament,” Ling Qi thought aloud, swaying back and forth with the motion of her ride.
+
+Gui trundled along cheerfully beneath her while Zhen’s warm coils rested comfortably around her shoulders like a heavy scarf. Keeping her balance on his shell might have been tricky, once, but as she was now it was no more difficult than tying her boots in the morning.
+
+Beside her, Xuan Shi strolled, the rings on his staff jangling with every step. He had gotten a new one with rings of carved white jade hanging around a decoratively forged head of gleaming bronze. The body of the staff looked to be carved from stone. “Are not sweet words meant to come before the call for aid?” he asked, looking at her over the high collar over his robe.
+
+Ling Qi felt embarrassed. “I didn’t mean it that way.”
+
+“Do not be mean to Big Sister,” Zhen hissed from above her shoulder, turning his burning gaze on her companion.
+
+“This one is aware of Baroness Ling’s foibles,” Xuan Shi said dismissively. He seemed more confident and at ease than the last time she had met him, his speech a touch less impenetrably flowery. “This one meant no offense.”
+
+“You can just call me Ling Qi. Thank you again for your help,” Ling Qi said. “If you need help with something yourself, please ask.”
+
+“This one will consider the use of thy favor carefully, O herald of the riptide,” he replied, amused.
+
+“I will choose to take that as a compliment,” Ling Qi said with faux haughtiness.
+
+<I think you need one of those little fluttery fans to pull that off. Maybe you could ask Xiulan for one?> Sixiang mused teasingly.
+
+<Maybe another time,> Ling Qi replied, giving Zhen a quelling look as he began to rear up to glare at the young man beside her. If Xuan Shi wanted to banter, she wasn’t inclined to stop him.
+
+“Thy mercy is as boundless as the heavens,” he replied, unruffled. “Then, might this one inquire as to the status of thy lady’s other hand?”
+
+Ling Qi frowned, adjusting her balance as they started down a hill. “Gan Guangli has his own task, and the rules of the Sect mean that what can be done to aid him is limited. I have left him my pill furnace for his use, and Lady Cai will fund his cultivation. Were you friends?” she asked curiously. She hadn’t spent much time with either boy.
+
+“The right hand is a man of honor whom this one respects. He has been a friendly ear, at times,” Xuan Shi said, a touch of regret entering his voice.
+
+“The big man was nice,” Gui agreed guilelessly, with all the earnestness of a child.
+
+“I suppose he was,” Ling Qi said. She would just have to hope her fellow retainer was able to tough it out. She was leery of the idea of a replacement for him chosen by the Duchess in Cai Renxiang’s circle.
+
+“If it’s not rude,” she continued carefully, “might I ask why you grew more distant from us?”
+
+Xuan Shi reached up, tilting his shell patterned hat downward and shadowing his face further. “This one grew busy with his projects and… realized the foolishness of certain childish impulses. Let it rest at that.”
+
+<It’s not like this guy is blind. He probably saw that it was pointless to pine after that,> Sixiang muttered.
+
+Ling Qi frowned, quickly working out what Sixiang was talking about; there was only one person the usually jovial Sixiang referred to in such a manner. She didn’t think Sixiang was messing around. Had Xuan Shi really been interested in Cai Renxiang like that? Nevertheless, she nodded, dropping the subject as he requested.
+
+“In any case,” she continued after the silence stretched on, “how big should I expect my little brother to grow by the time he’s done?”
+
+“Gui will be like a mountain!”
+
+“Zhen will be big enough to eat the stupid river eel.”
+
+Xuan Shi chuckled, giving the now bickering heads of her spirit beast a sad look. “Perhaps in time,” he spoke over their non-verbal squabbling. “For a Xuan Wu reaching the earliest stages of maturity, his shell will be between seven and ten spans of Imperial measure from front to back.”
+
+Between seven and ten meters, Ling Qi thought, her eyes widening. That was… quite big. “Just how big do Xuan Wu grow?” She had read some things, but she had assumed embellishment on the author’s part.
+
+Xuan Shi’s eyes twinkled in amusement. “As great as mountains and more. The clans of Xuan live and work upon the backs of our cousins, more than the lonely stones of the true islands of the Savage Seas.”
+
+“Huh,” Ling Qi said, looking at Zhen, who looked smug. She flicked his snout playfully, and he let out a whining hiss of complaint. “You’re still a ways from that, little brother,” she chided.
+
+“Gui will grow fast! So big that Big Sister and Little Sister and Hanyi and everyone else can live with him forever,” Gui asserted with childish confidence.
+
+“He will not disappoint,” Xuan Shi said quietly, glancing at Zhengui with a look that was difficult to read.
+
+“Fishy man can visit if he brings treats,” Zhen said haughtily.
+
+Fishy man? Where in the world did that name come from? Xuan Shi’s aura was solidly a thing of earth and rock.
+
+“Be more polite, Zhengui,” she scolded. “I am sorry for his behavior, Sect Brother Xuan,” she said, bowing as politely as she could manage from her perch.
+
+“Think nothing of it, and if thy name is open for use, it would be rude to withhold mine,” Xuan Shi said, tilting his hat back as he peered up at the next hill. “This one believes that our destination is nigh.”
+
+<D’aww. Look at you two dorks,> Sixiang laughed. <You should invite him back home for tea as a thank you.>
+
+Ling Qi rolled her eyes, not bothering to respond to the moon spirit’s teasing.
+
+Ling Qi looked up at the wide low hill rising before them. The rocky soil was dotted by tall trees with long trunks, and steam rose from cracks in the stony earth. Thick scrub brush grew over the rest, giving it a mix of dull green and brown colors. The faint scent of smoke seemed to cling to the air and the natural qi alike. A glance to her left and right saw small formation totems lining the base of the hill marked with characters for the containment of fire.
+
+“It smells good!” Gui chirped, startling her as he began to trundle forward faster.
+
+Well, it might not be pretty like the vale Heizui lived in, but she supposed if her little brother liked it, this place was fine. “So, what should we do first?” she called back to Xuan Shi.
+
+The boy picked up his pace, the rings on his staff jingling. “Thy little brother shall dig his nest. It will be our task to find the choicest cuts from the wood,” he said almost cheerfully.
+
+“Do not forget tasty cores for Zhen,” the other half of her little brother hissed. “Lazy Gui will chew on trees, but not Zhen!”
+
+Ling Qi laughed as his two heads fell to bickering again. Thankfully, her storage ring was full of quality second grade cores and even a few low grade third ones. Feeding Zhengui had been starting to strain her budget, and it was only going to grow more expensive when he made the jump to the third realm. The Cai taking on the expense was quite a boon.
+
+The rest of the morning and much of the afternoon was spent on that hill. Ling Qi worked together with Xuan Shi to carve and move cuts of qi-infused wood to the edges of the ever deepening pit Zhengui was digging for himself. She was rather displeased when her little brother’s digging pierced an underground valve, releasing both boiling water and the unchecked scent of sulfur into the glade. Watching him splashing around happily in the growing pool of hissing, bubbling water at the bottom of his nest did take the edge off the acrid smell, however.
+
+Xuan Shi showed good humor about the whole thing, for which she was grateful. She wondered just what had happened to affect his demeanor so, compared to last year. Perhaps he had earned enough praise from his family to boost his confidence? It was not her business to pry.
+
+There was a certain satisfaction in the simple labor of cutting supple strips of wood and brush alongside Xuan Shi and weaving them together into blanket-like mats. She wasn’t particularly good at it, but with the scholarly boy’s slow, even voice instructing her, she was able to successfully create patterns and characters which enhanced the natural flow of qi through the whole construction.
+
+Building up stacked logs around Zhengui's burrow like a tower for a massive bonfire was much more difficult. Even if she could lift a whole log, moving it around was a whole other matter. It was far too ungainly to manage without Xuan Shi's help. At least the gobbets of mud kicked up by Zhengui's digging were useful in packing the whole thing.
+
+By the time the sun was fading from the sky, they were both splattered with mud, sawdust, and bits of plant matter, although Ling Qi’s gown remained unmarked, having cleaned itself meticulously. Zhengui rested invisibly at the bottom of his burrow, covered by layer upon layer of woven branches and brush from which smoke was already beginning to rise. All she could do now was wait for her little brother to finish his breakthrough.
+
+The days that followed quickly became routine. Elder Hua’s lessons continued, and she learned to her chagrin that she had been making things harder for herself all of last year as his lessons touched upon the proper way to read the information encoded in jade slips. She had stumbled upon it in dribs and drabs during her previous year’s cultivation, but in the future, she would not have to stumble into the workings of her arts with so much of a blind eye.
+
+There were physical lessons as well. Sadly, they were not taught by Elder Zhou, but Ling Qi quickly took to refining her physical cultivation, which had been left by the wayside somewhat in her rush to polish her arts for the tournament to enter the Inner Sect. Between picking up the workload of the lessons and completing the rest of the work to settle in, it was nearly a week in before she found herself with the free time to travel to the Sect village.

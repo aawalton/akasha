@@ -1,0 +1,207 @@
+---
+id: f1184d81-d7a3-5284-8ece-2cc271819a14
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Five: Portals"
+slug: 0108-chapter-one-hundred-five-portals
+partOf: flesh-eater-demon-evolution-litrpg
+position: 108
+ownLength: 3136
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3683394/chapter-one-hundred-five-portals"
+royalRoadId: "3683394"
+---
+
+“This is a mess.” Callan hadn’t stopped mumbling since they’d finally made it out of Serindell. Now, they strode along the shore towards Llyr’s home, the waves churning softly beside them. “That could’ve gone so much worse,” the ghost continued. “Did you really have to chase the guy down like that? In public?”
+
+“It’s not like I was trying to get caught,” Pyre drawled. She shrugged. “I figured it might be my only shot at questioning him.”
+
+“Yeah, well, that’s gone now,” Callan muttered darkly. “There’s no way Lord Alardice will tell us anything.”
+
+“Well, I did get some stuff before the knights showed up.” Up ahead, the ground sloped upwards to the final hill before Llyr’s house. “The guy said there were ‘others,’ so we know he’s not the only one. And it sounded like there might be a soul piece here.”
+
+Both Callan and Daphne turned sharply towards the demon at that. The ghost’s eyes darted over to where Llyr was walking beside them. The healer looked as serene as ever, simply glancing over at them with mild curiosity. Callan shifted his weight.
+
+“Uh, should you be mentioning that?” he whispered nervously.
+
+“Eh, he already knows about my soul.” Pyre dismissed the concern with a wave. “I don’t know if it’s an actual piece, anyway. It might just be something similar. It’d feel awfully convenient for there to be another one here.”
+
+“Maybe not,” Daphne said, voice thoughtful. “I mean, it’s a fragment of your soul. Maybe you’re subconsciously drawn to the pieces?”
+
+The demon hummed at that. “Maybe.”
+
+“Either way, we should look into it.” Callan frowned. “Assuming you don’t get thrown in prison after all,” he added in a mutter. The ghost shook his head. “You’re really going to have to be careful when they call you in for questioning. You can’t say anything suspicious.”
+
+“Wow, kid, you’ve got no faith in me.”
+
+“Gee, I wonder why,” the ghost snarked back, passive-aggression practically dripping from his voice. Pyre snorted, but didn’t argue the point. It was kind of funny to think about how scared Callan had once been of her compared to now. She was almost proud of him.
+
+“I’m sure it’ll be alright,” Llyr said smoothly. “Perhaps Daphne could give you a few words of advice before the questioning.” He nodded at the noble. “You navigated that situation very well.”
+
+Daphne beamed and tossed her hair back. “Well, I’ve had practice.” She paused, a thought suddenly occurring to her, and furrowed her brows. “I should warn Edmund about this, though. I wouldn’t put it past Lord Alardice to reach out to him to confirm my identity.”
+
+“You can send him a letter after our spell test,” Llyr suggested. The mage nodded in agreement.
+
+Their group soon reached the mansion, the building stark against the churning waters. It looked the same as ever, a constant on the shore. Llyr unlocked the door, and they stepped inside.
+
+Setting up the portal spell was a surprisingly quick process. Pyre leaned back against the infirmary wall, watching as the three magic-users pulled out the spell components they’d bought and placed them around the sigil that they’d drawn the previous day.
+
+The components themselves seemed to vary between small crystals, crushed leaves, bone shards, and other unidentifiable stuff, including something that looked suspiciously like actual shit. Callan, Daphne, and Llyr clearly knew what they were doing, though. The glyph circle was fully prepared in record time. Llyr straightened, satisfied, and nodded at the sigil.
+
+“That should be everything,” he said. He placed a palm down on the glyphs and muttered something. In a flash of light, the lines lit up with a soft blue glow. The spell components dissipated into scattered glowing lights, which answered Pyre’s question about how Daphne was supposed to walk around with all that junk when they eventually used the spell on her.
+
+As the light strengthened, the little particles began to coalesce into two swirling vortexes floating on opposite ends of the sigil. Callan and Daphne both watched, tense, as the portals took shape. Pyre was pretty sure Daphne hadn’t taken a breath since Llyr had activated the spell.
+
+Finally, the swirling vortexes stabilized. Llyr slowly lifted his hand up from the sigil, and they remained in place. Callan’s shoulders slumped in relief while Daphne exhaled.
+
+“Okay, so that part works at least,” she muttered. She eyed the portal with some hesitance. The lights certainly looked harmless, but the idea of that thing going near her soul was probably nervewracking.
+
+“You gonna test it?” Pyre nodded to the sigils, and the mages exchanged looks. Finally, Llyr tore off a piece of scrap paper from the desk and carefully dropped it into one of the portals.
+
+It disappeared into the mist and reappeared out the other one.
+
+The paper fluttered down to the ground just below the second vortex. Llyr picked it up and turned it around in his hand. It looked exactly the same as before—no rips or tears or any other complications visible. He nodded, seemingly satisfied, then proceeded to stick his arm through one of the portals.
+
+Callan and Daphne both yelped in alarm, but the healer’s expression remained calm. Pyre watched in interest, noting how Llyr’s arm passed straight through the swirling mist like it wasn’t there at all. It seemed like, if an object was bigger than the portal itself, it wouldn’t be affected by the spatial magic.
+
+The healer moved his arm up and down a few more times, passing through the magic, and nodded to himself, satisfied. He turned to Daphne.
+
+“Would you mind casting a spell? You’ll need to position yourself so that the portal is next to your soul, or the excess ichor won’t be pulled away properly.”
+
+The noble hesitated. “You’re sure it’s safe?”
+
+“It should be, yes. The only real risk is that it fails to transport the excess ichor away, in which case the spell would function as usual.”
+
+Daphne still didn’t look totally convinced, but she nodded. Her movements were stiff as she strode over to the swirling whirlpools of magic. Stopping by one of them, she slowly stepped forward, Callan watching her with wide eyes the whole time.
+
+The portal disappeared from view, presumably settling somewhere in the mage’s chest. Daphne paused for a moment, jaw tense, but nothing happened. Based on the faint glow now emanating from her torso, the portal was still active and not affecting her at all. Her shoulders slumped a little in relief.
+
+Daphne turned to the wall. The scorch mark from the last spell test was still there, an obvious dark splotch marring the otherwise light colors of the room. The noble raised a finger and shifted it slightly to the left of the mark.
+
+Considering this wall was already busted anyway, they might as well keep using it as a target. Plus, Pyre was pretty sure the mage cared significantly less about damaging the mansion now that she knew it belonged to Lord Alardice.
+
+Narrowing her eyes, Daphne took a deep breath. Her fingers moved in a rapid series of gestures while the rest of them shifted over to the other side of the room, where they could watch the second portal. The mage muttered a chant, then snapped her fingers.
+
+A jet of fire slammed into the wall, creating a new scorch mark right beside the old one. Smoke rose up from it, the surface of the wall sizzling slightly, but that wasn’t what everyone was focused on.
+
+The second portal rippled. A stream of pale, silver lights flowed through, dissipating into the air like a mist. That had to be the excess ichor.
+
+The mages stared at it, transfixed, when Pyre thought she saw something flash. Across from her, Llyr’s eyes sharpened. He opened his mouth in warning.
+
+Lightning quick, Pyre yanked Daphne back, pulling her beside Llyr and Callan while she kicked up one of the cots with her leg. She shoved it in front of them like a shield mere seconds before a loud bang sounded from the second portal.
+
+The excess ichor exploded, temporarily illuminating the room in a bright burst. Pyre held the cot firm, keeping it in place even as the force of the sudden impact threatened to throw it backwards.
+
+It was only when the light died down that the demon dropped the cot back down onto all four of its legs. In the center of the mattress, a dark scorch mark had been burned into nearly the entire surface. Hovering above the sigil, the two portals continued to swirl, untouched.
+
+Pyre kicked the cot back into its original place, which was probably unnecessary considering it wasn’t at all usable now. “So,” she began casually. “What the fuck was that?”
+
+Llyr stepped over to the portals, frowning. Daphne slowly stood from where she’d dropped to the ground for cover, and Callan poked his head out from behind the demon. None of them seemed to be harmed.
+
+“In hindsight, releasing reactive extraneous ichor directly into the atmosphere was probably not the safest idea,” Llyr remarked. “We may need to rethink the position of the second portal.”
+
+Pyre snorted at that. Based on the planning she’d overheard, the magic users were originally going to anchor the second portal to a necklace or something else that Daphne could easily wear. Probably not the best idea to have an explosion risk so close to the body.
+
+The healer turned to Daphne then. “Do you feel alright?” he asked, concerned. “Did the first portal draw the ichor away correctly?”
+
+Daphne was silent for a moment. One of her hands moved to her chest, brows furrowed in thought as everyone in the room waited.
+
+“I feel… fine,” she finally said, voice slow. “There’s no pain. Usually I can feel all the extra ichor piling into my core, but this time it’s… normal?” She sounded a bit hesitant at first, but below it, a giddiness was rapidly growing in her voice. “I think it worked. I think it actually worked!”
+
+Callan laughed, the sound free and relieved. Llyr smiled and opened his mouth, likely to suggest possible locations for the second portal, when Daphne suddenly pulled him and Callan in for a hug. The ghost made a surprised sound while Llyr stiffened slightly at the contact, but the healer soon relaxed. Pyre watched from beside the burned cot, something like fondness growing in her chest.
+
+Daphne paused the hug to glance back at the demon. She gestured at her to come closer, and Pyre raised an eyebrow.
+
+“I didn’t do shit,” she pointed out. The noble just huffed and grabbed the demon’s arm. She allowed herself to be pulled into the impromptu hug. She did have to lean over a bit, given her height. She had the brief thought that the last time she was squished against multiple other beings was probably when she’d woken up in Fred’s stomach with all the other flesh lumps. Funny to think about how different the situations were.
+
+Eventually, the sudden hug-pile ended. Daphne pulled back, and her eyes looked a bit red, but no one commented on it. It was hard to imagine what kind of a weight had just been lifted from the mage’s shoulders.
+
+Wiping the corner of her eye, Daphne cleared her throat, quickly recomposing herself. “Do we need to do anything else after we figure out where to put the second portal?”
+
+Llyr shook his head. “Once we’ve decided on the anchor points, I can cast the final version of the spell. After the portal is anchored to your soul, that should be all.”
+
+Daphne nodded slowly. “Okay, great. So we just need to figure out what to do with the extra ichor.” Her brows furrowed in thought, eyes darting back to the very-destroyed cot in contemplation. “I guess it couldn’t be anywhere close by,” she remarked.
+
+“If you’re attaching it to a necklace, couldn’t you just toss it into the middle of the woods or something?” Pyre pointed out. “It’s not like you actually have to wear it all the time.”
+
+“True, but that feels dangerous,” Daphne muttered. “What if someone finds it? I can’t just leave something so destructive lying around.”
+
+Llyr made his own comment then, and soon he and Daphne were bouncing ideas back and forth. All the while, Callan remained silent, brows furrowed like they always were when he was thinking hard about something.
+
+Pyre gave the ghost a long look. He was muttering about extra ichor and absorption under his breath. His eyes darted hesitantly over to the other two magic users, mentally debating with himself.
+
+“Um, I might have an idea,” he began. Llyr and Daphne both turned to him, and the ghost’s gaze flickered over to the healer. He shifted his weight. “It’s… Well…” His voice trailed, and he turned to Pyre.
+
+For a second the demon couldn’t figure out why the ghost was looking at her, especially when she knew nothing about magic shit, but then she thought over the brief mutterings she’d overheard and his current hesitance. The problem soon clicked.
+
+“You can tell him, kid,” she said. She jerked her head in Llyr’s direction, an eyebrow raised. “He’s not human either.”
+
+Callan’s jaw dropped at the same time as Daphne spun around triumphantly. “I knew it!” she exclaimed. “I fucking knew it!”
+
+“What? Wait, how do you know?”
+
+Pyre just shrugged. “We both figured out the other wasn’t human. It was kind of a mutual thing.”
+
+“So what are you?” Daphne asked, turning to Llyr with a curious look. “Are you a fae?” That wasn’t a bad guess, Pyre thought. She mentally noted it down.
+
+“I’d prefer not to say,” the healer said simply. “I do hope you’re alright with that. I can understand if you’re less comfortable around a non-human doctor.”
+
+The noble blinked. “No, it’s okay.” She shifted her weight. “I mean, I probably would’ve freaked out before, but…” Her voice trailed, and she glanced back at Pyre and Callan. She smiled wryly and turned to Llyr again. “I guess I’ve kind of gotten used to it. I mean, you’ve only ever helped us. It’s not like you’re suddenly a different person now.”
+
+“Big improvement over an instant fireball,” Pyre drawled. Daphne huffed.
+
+“Different circumstances,” she defended. Across from her, Llyr nodded slowly.
+
+“I see. Thank you for your trust in me. Not many would’ve reacted the same.” He tilted his head, blue eyes landing on Callan. “Am I correct in inferring that you’re not human, either?” he asked, curious.
+
+The ghost cleared his throat. “Yeah, I—” He paused, then started again. Now that Pyre thought about it, this was probably the first time he was actively choosing to tell someone that he was a ghost, so it made sense that he’d be nervous about it. Callan took a deep breath.
+
+“I’m a ghost,” he explained. “I’ve, uh, been in solid form most of the time, so that’s probably why you didn’t know.” He tossed a not-so-subtle look at Pyre, who raised her hands in mock defeat. In her defense, it was a lot harder for her to pretend to be human than it was for Callan.
+
+“A ghost?” Llyr’s gaze sharpened slightly, and he glanced over at the portals thoughtfully. “Are you suggesting…?”
+
+Callan nodded. “The extra ichor is reactive after it’s been drawn in for magic, which is why it explodes like that when it touches the air for too long. But if I just… drain it right away, then it doesn’t really matter. It’s still ichor. Too much of it won’t hurt me. You could place the second portal beside my core, and there shouldn’t be any issues.”
+
+Not only would it not hurt the ghost, it would actually help him level faster. He’d basically have an immediate source of food every time Daphne casted a spell in addition to all the standard draining he did. It was a legitimately good solution, and Pyre was impressed at how well it fit. Daphne seemed to be thinking the same thing, based on the way the noble’s eyes gleamed.
+
+Llyr nodded. “That does seem like it would work,” he agreed. “I’d want you to test draining the extraneous ichor first, but once we’re certain that it won’t harm you, I can anchor the portals to your respective souls.”
+
+Callan beamed. “Great! Let’s—”
+
+Before he could continue, the clock hanging on the infirmary wall (right above the scorch mark) chimed.
+
+By now, the sun was beginning to set outside, and the warm evening hues filtered through the open window. Llyr peered up at the clock with a frown while the other three sets of eyes in the room all watched him. After the excitement of the successful portal spell, the sound felt like a sudden drop back into reality.
+
+“Your dinner date?” Pyre remarked. The healer hummed.
+
+“It would seem it’s time, yes.”
+
+Daphne scowled, the reminder of Lord Alardice’s letter immediately souring her mood. “You really don’t have to go, you know. You can say you’re sick or something.”
+
+“If I did that, he would likely visit the mansion himself,” the healer said wryly. “I’m not sure that would be better.”
+
+He stepped over to the sigil and placed a hand down on the lines. The glow died down, and the portals dissipated a second later. He straightened and gave the group an apologetic look.
+
+“I’m sorry, we can resume testing once I’ve returned. This shouldn’t take long.”
+
+Neither Daphne nor Callan looked at all happy about this. They exchanged worried looks, probably thinking about how insanely suspicious the noble was.
+
+As the healer turned towards the door, Pyre took a casual step forward. Llyr paused, furrowing his brows at the demon.
+
+“What are you doing?”
+
+“I'm coming with you,” Pyre said bluntly. She raised an eyebrow. “It’ll be fun to see that guy’s house. Hope it’s not as boring as this one.”
+
+Llyr frowned. “I don’t think—”
+
+“Did that letter say you couldn’t bring anyone?” Pyre interrupted. The healer hesitated.
+
+“…Not directly, no.”
+
+“Cool, so we’re good.” The demon glanced back at Callan and Daphne. “You two coming too?”
+
+Daphne immediately sprung to her feet, and the ghost followed as well—albeit more slowly. “Of course!” she said. Her eyes gleamed in the dimming light, and Pyre had a feeling that any conversation that happened between her and Lord Alardice would be hilarious to watch. Aristocratic passive-aggression, it turned out, could be very amusing.
+
+Llyr looked between the three of them, now all standing and waiting by the infirmary door. He seemed to realize that there was no convincing them out of this. He sighed softly, but it was followed by a smile.
+
+“Alright,” he said. “In that case, we should prepare to leave soon.”

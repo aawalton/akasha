@@ -1,0 +1,115 @@
+---
+id: 9b656456-2600-54c3-81ef-9c3ad609f5d7
+page-type-slug: story-chapter-royal-road
+title: "Threads 162 Always Winter 3"
+slug: 0192-threads-162-always-winter-3
+partOf: forge-of-destiny
+position: 192
+ownLength: 1907
+unit: words
+publishedAt: 2021-12-06
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/801912/threads-162-always-winter-3"
+royalRoadId: "801912"
+---
+
+The trip was slow going. The others wrapped themselves in heavy cloaks and coats lined with the warm fur of fire-aspected beasts to ward against the extreme chill and the cutting wind without constantly expending qi. The path was a narrow thing, barely more than a meter wide at its greatest extent, and only the constant shrieking wind kept the snow from piling it to impassibility.
+
+They made progress though, slowly creeping along the mountains, avoiding traipsing across the treacherous glacier below. They had to pause often when the wind picked up, and during those times, even Ling Qi needed to hold tight to the high quality climbing cord strung between them while Gan Guangli sank his feet into the mountain stone and anchored them.
+
+It had been so long since Ling Qi had thought to worry about the wind and cold, but out here, the very air was suffused with dense and potent qi bringing back the bite of the wind. Although she needed no coat for the cold, she transformed her mantle into a thick scarf and head wrapping to contain her hair and shield her eyes. She was wary of trying to exercise any command of the wind here if she didn’t have to.
+
+She almost felt as if she had crossed back over into Dream as they progressed and the storm picked up. The dense white snowfall erased everything beyond arm's reach with only the radiant glow of Xia Lin’s halberd ahead and Cai Renxiang’s glow behind.
+
+The hike was exhausting. The cold laid heavily upon them and as they progressed further, the snow only fell more heavily. Wet and clinging, even Ling Qi had to pause and shake it from her shoulders now and then. It wasn’t only physical weight, but a mental one, making it a struggle to not just sit down and close her eyes. But they persevered, and Ling Qi felt warm qi spreading in her chest, even as the hems and folds of her gown lit with colorless light, bolstering her against the wind and the unnatural exhaustion.
+
+All the while, Ling Qi hummed under her breath, not the Frozen Soul Serenade, but one of the idle melodies she had heard her mentor singing in moments of idleness under her breath, letting her qi flow freely into the snow all around. She focused on broadcasting  supplication, friendliness, and the desire to speak. She began to notice now and then, a shadow in the corner of her vision who appeared between snowflakes. Once, she glimpsed it crouching on a ledge above, then in the sky off to their left, and last, standing upon the ledge in front of them just before the stone had collapsed under Xia Lin’s feet, nearly carrying the girl down the mountainside along with several tons of ice and snow, unnatural weight hampering the normally nimble girl’s reflexes.
+
+As they regrouped in the aftermath of that, Ling Qi gritted her teeth behind her scarf as she gazed up into the whiteout. Just passively calling out for the spirit to contact them wasn’t working.
+
+<She’s hungry and curious. I don’t think many things come through here,> Hanyi whispered in her thoughts.
+
+“Everyone, we should stop for now,” Ling Qi called, her mastery of music carrying her words over the screaming wind. “I’m going to need to actually call the spirit if I want to talk to her.”
+
+Cai Renxiang, her face all but hidden in the fur lining of her coat’s hood, made a single sharp gesture, indicating that she should proceed. Xia Lin and Gan Guangli gathered beside the heiress, watching the snowfall warily, and Meng Dan stood just behind, huddled in his thick coat.
+
+Ling Qi pursed her lips as she turned back to the storm. The cloying feeling in the air was only growing worse. They couldn’t just keep pressing through without the spirit’s permission. That didn’t mean the decision to outright call the spirit’s attention weighed any less heavily.
+
+She raised her voice regardless, letting power flow through her meridians as she sang into the storm. Focusing on the flows of qi that rippled through the falling sheets of snow, she could see further into the nature of the spirit. In many ways, it was simpler than Zeqing, not less powerful, but simply less complex. This spirit would not, she thought, really have the capacity to question her own nature like Zeqing had. But their nature was fundamentally the same: emptiness and the desire for heat and warmth and companionship.
+
+If they really had gone on deeper into its power, they would have each found themselves drawn off, lost one by one to the freezing snow. But the spirit had noticed her, and she knew that the spirit had.  So this time when she called for the spirit, there was an edge of demand in her song, a tugging on the bond of kinship, however tenuous, resonating with the vibrations of the iron sliver she had palmed, which now grew so cold in her palm that it seemed to wrap around to heat.
+
+The wind picked up, and the veil of snow thickened. Beneath the shriek of the storm, Ling Qi could feel the notes of a song. She saw the figure, standing out in the snowy sky. The spirit’s robe was black and unadorned, its hems drifting away in ragged threads that merged with the snowy shadows. The spirit’s shoulders were hunched, empty sleeves hanging down in front of her body. Her hair billowed across the sky, and there was no point where Ling Qi could say for certain that the snow ended and the crystalline strands began. That same hair, wild and untamed, blew ceaselessly, cloaking the spirit’s visage, save for a single glimpse of a cold black pit in the shape of an eye with a single white spark of light at its core.
+
+Ling Qi couldn’t feel the stone under her feet anymore. It felt as if she were standing in the air.
+
+<We’re still where we started. No crossover yet, but things are a little thin,> Sixiang whispered nervously.
+
+<It feels like home,> Hanyi muttered.
+
+<Of course. Hanyi never left,> Zhengui grumbled.
+
+Ling Qi brought her hands together and very carefully bowed, letting the song flowing from her lips ring with supplication and the desire to speak.
+
+“Lost one tresspasses.” The spirit didn’t really speak, so much as meaning impressed itself directly into her thoughts, carried on the ethereal melody underlying the storm. “Such riches you have. Joining?”
+
+Ling Qi grimaced at the coldly envious song, so full of dark yearning to embrace and consume.
+
+“I cannot,” she answered. “I belong to another. We only want to pass through. Can we arrange passage?”
+
+Jealous and possessive, the spirit was, but it recognized kinship. There were some threads of humanity to it, which she could read in the spirit’s qi, threads going south.
+
+There was a rumble like the start of an avalanche as the spirit’s head twitched to the side at an angle that would have broken a human’s neck. Ling Qi saw the flash of fangs of clear ice beneath billowing hair.
+
+Then the spirit was beside her, close enough that Ling Qi could feel the tickle of crystal hair through the too thin fabric of her scarf.
+
+“Compact of Iron. Compact of Blood.” The wind whistled a song of chains older than mountains. “Lost one carries iron, is not of the blood. Why should Black Skies Yearning deal with pretenders?”
+
+“You take that back! Big Sister is not a pretender! I know you can feel Momma’s mark!” Hanyi shouted, peeking out from behind her skirts.
+
+Wait, when had Hanyi…
+
+“Wibbliness is increasing by the second here,” Sixiang said warily, and Ling Qi could not be sure if the muse had spoken aloud or in her mind.
+
+Ling Qi felt the hiss of a cold breath as the spirit turned its black gaze on Hanyi. “Broken Thing speaks of lost Warm Breath’s Ending slain by its hand? Claims new blood?”
+
+Ling Qi felt Hanyi flinch and stepped in front of her, meeting the spirit’s deadly gaze. “I am sorry that you perceive things so. Deny my connection if you will, but not hers.”
+
+Ling Qi felt cold pressing down, but she remained upright and unflinching. The spirit reached out, a sharp digit of frozen bone protruding from her sleeve to press against Ling Qi’s cheek. Ling Qi took in a sharp breath as she flared her own ice qi.
+
+For just an instant, the howl of the wind ceased, and clear ice wrapped around bone turned black.
+
+“New blood,” the spirit sang grudgingly, withdrawing and drifting back to a more comfortable distance. “Compact holds. Lost One and the Broken may pass.”
+
+Ling Qi felt a moment of relief, only for it to end as the spirit sang again.
+
+“Offerings stay.”
+
+Ling Qi spun around, only now realizing that she hadn’t even noticed a reaction from her companions. They stood where she had left them, though the ground had vanished, frozen, eyes staring blankly into the snow. Their qi was still, not dead but quiescent, with only one exception.
+
+Beneath Cai Renxiang’s coat, radiance gleamed, and hungry threads seethed, stirring to wakefulness.
+
+“That is not acceptable,” Ling Qi gritted out. “An offering can be arranged, but not my companions.”
+
+“Yeah, don’t be greedy!” Hanyi piped up with false confidence. “Besides, you don’t want to mess with Boss Lady’s dress!”
+
+The spirit, now looming tall over them, paused again, head tilting at an unnatural angle. Hanyi’s words were ignored as she traced a bony finger along Gan Guangli’s jaw. “Lost One has no claim, no blood nor mark on these. They are not yours. So they are mine.”
+
+Ling Qi’s thoughts spun as she tried to think of how to convince the spirit otherwise. “I would contest that.” She eyed Cai Renxiang; Liming was doing something, and power was rising independent of her liege. Somehow, the spirit didn’t seem to notice that. Considering the dress’ source, it was nearly as alarming as the snow spirit.
+
+<Sixiang, am I right in thinking she has them trapped in some kind of dream effect?> Ling Qi thought.
+
+<Yes, kinda like what happened to you back on the mountain,> Sixiang whispered.
+
+“They wish to stay in desirous dreams,” the spirit crooned, and already, Ling Qi could feel heat being drawn from her companions. “My claim is stronger.”
+
+“Then you would not object to my trying to convince them otherwise,” Ling Qi shot back. “I ask only for a fair chance.”
+
+Her words seemed to amuse the spirit, whose lolling head shifted her way. “You think yourself more convincing than desire, Lost One? Even the Hollow Child has enough darkness to fall,” the spirit mused, peering at Cai Renxiang.
+
+“I do,” Ling Qi replied evenly. This was the spirit's weakness. It was a simple, primal thing. Ling Qi knew that people could break from their most fundamental urges. “Will you give me the chance?”
+
+Black Skies Yearning mulled over her words. If nothing else, Ling Qi would buy time until Liming did… whatever it was going to do. “A bargain. Convince one, and I will take but a small tithe from you all. Fail, and I shall have you too, Lost One, and the Broken can wander on.”
+
+Ling Qi swallowed, putting her hand on Hanyi’s head. “Deal.”
+
+“Then choose,” whispered the spirit.

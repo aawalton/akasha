@@ -1,0 +1,155 @@
+---
+id: d30bde15-0668-5b75-b57e-78e0598b5f17
+page-type-slug: story-chapter-royal-road
+title: "Threads 320-Parting 6"
+slug: 0360-threads-320-parting-6
+partOf: forge-of-destiny
+position: 360
+ownLength: 1893
+unit: words
+publishedAt: 2023-07-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1276352/threads-320-parting-6"
+royalRoadId: "1276352"
+---
+
+“Ah. You’ve learned how to refine arts by now.”
+
+“It’s been very recent,” Ling Qi acknowledged. “Elder, if I may I ask, what were the beasts bound in your trial? The tortoise? The rotting dragon?”
+
+Those two were the two spirits who could be said to be Zhengui’s parents, one dead and eternally regenerating, the other chained and bound, powering the Sect’s formations.
+
+Elder Ying pursed her lips. “Old sins. You aren’t the first to make friends with foreigners, disciple, even though you might be the first to try to make it more. You know a certain elder of the old Argent Peak Sect was a traveler of the world.”
+
+That would be Elder Lang Keung, the sword saint and Xuan Shi’s favorite author. He had died in Ogodei’s invasion, holding back the invaders so that the disciples of the sect could evacuate. Even now, his grave on the sect grounds was guarded by the now-broken and bitter sword that he had wielded in his life.
+
+“Then why…?”
+
+“Wars are ugly. We make sacrifices and debase ourselves to win them. In the tales, the hero's virtue wins, but it is never so clean.” Elder Ying gazed up at the sky. “Well, I have my oaths. You’ll learn something of our sacrifices, running about in the liminal with your spirit beast.”
+
+Ling Qi wasn’t fully happy with that answer, but she could feel the crushing pressure with which the word “oaths” was spoken. It was not some idle promise she spoke of, but a soul deep principle carved right into the base of the elder’s cultivation.
+
+“Thank you, Elder Ying. I will find my own answers.”
+
+“You will. Does your conviction come from the duchess? What she has accomplished is not achievable with normal methods, I think.”
+
+“Is there any such thing as a normal method for reaching sovereignty? But no, I don’t think I want the same as the duchess. I think you can grow without becoming unmoored and without returning to isolation. The weak are not a burden to be borne, and lack of power is not a deficiency that makes people lesser.”
+
+“You truly are greedy,” Elder Ying said, amused. “Though perhaps not in the way you think. Let me ask you, young lady, what is the purpose of defense? Of protection?”
+
+“Protection aims to preserve choice, whether your own or that of those you are protecting,” Ling Qi said thoughtfully.
+
+“Not an answer I have heard before,” Elder Ying admitted. “You have come to some interesting insights, dancing in the shallows of the dream.”
+
+“I know there are a hundred ways one could pick at it, but it’s the best answer I can do for now.”
+
+“What do you do when those beneath you choose to hurt themselves?”
+
+“It depends on whether they are hurting themselves or whether I am only perceiving it that way.”
+
+“You’ve put some thought into your answer at least. A protector can crush those they protect. That must be confronted, if you wish to keep your compassion.”
+
+Ling Qi considered her. “You are not without that.”
+
+“I am not. I am so, so fond of you children, you disciples. It is a delight to see you grow. It is the worst pain to see you die. I care for the children and disciples, more deeply than my own life. Do you understand?”
+
+Ling Qi thought she did. The elder was alone. She cared, and she cared deeply. But it was a distant care because she cared for all of her disciples. Ling Qi looked at her elder and saw a protector and a teacher, and that was the all of her. There was nothing outside of that. Ling Qi wondered if she was even capable of having a “favorite” disciple, let alone of being anything closer than a distant and kindly mentor.
+
+She suspected that Elder Ying could not. Her Way would not allow it.
+
+Ling Qi knew that she had to sacrifice to reach the peak. She thought she had accepted that. But until this moment, she wasn’t sure she really had. No matter how clever or lucky she was, she would have to sacrifice parts of herself upon the altar of her Way. There was no method which did not take sacrifice in one form or another.
+
+After all, their world was built on it. The Nameless Mother and Father were nameless for that reason.
+
+“Holding on to everything and refusing any sacrifice can only end in failure or broken Ways,” Elder Ying said. “But in the end, you choose what you will lose and what you will gain. The price of power can only be determined by you. Now, I do believe the lesson is wrapping up. I am glad that you chose to come here. Do not think I am not.”
+
+“I understand. Elder Ying, I am thankful for your advice and your service to the Sect. I will be leaving my family in your care for a little longer.”
+
+“And I will shelter them, like all the other lives in the town until you may do so yourself. Good fortune, disciple. I truly hope you can solve your conundrums.”
+
+Ling Qi bowed her head, and the image of the elder beside her disappeared, leaving only the lecturing woman in the center of the room, wrapping up the class with far less cutting questions for the new disciples to consider.
+
+Ling Qi rose to her feet with the rest, bowed her head in respect, and took her leave.
+
+***
+
+Ling Qi returned to the plaza below to find Hanyi. She’d left her junior sister outside, knowing that she wouldn’t be able to sit calmly through the length of such a lesson. She had given her strict instructions to remain in the plaza and to not pester anyone too much. Hanyi had plenty of material to study for her next concert, which Ling Qi had hoped would keep her somewhat occupied.
+
+What she found was unexpected. There was no trouble at all. Hanyi sat on a bench beneath a peach tree, swinging her bare feet happily back and forth.
+
+There was an older woman beside her, reading one of her lesson scrolls aloud. Ling Qi saw the red and blue dress and the silver hair.
+
+“And that is what this passage means, dear. It’s a bit flowery, but it seems this mountain here appreciates a poetic flourish in his intermediaries,” Xin said.
+
+“Ugh, what a pain. I guess I can work the song into a formal meter, but those are boring,” Hanyi complained.
+
+Xin looked up at Ling Qi and smiled softly. “Well, it looks like you can put it aside for now.”
+
+“Oh! Sis! You’re done with the boring stuff?” Hanyi exclaimed, following Xin’s gaze to her. “Auntie was helping me out a lot!”
+
+Xin tittered. “Oh, it was nothing.”
+
+“Thank you very much,” Ling Qi said.
+
+“There’s no need to be so formal, even if it has been some time. Could I ask you to spend some time with me though, dear? I would hate to miss your parting,” Xin said, passing the scroll back to Hanyi.
+
+“Of course. I had sent a message to Elder Jiao, but he did not respond.”
+
+“That stubborn old curmudgeon.” Xin sighed. “Managing to hide that from me… His wounds have made him even more petty these last months.”
+
+“I’m sure Elder Jiao is busy.”
+
+“He’s not,” Xin deadpanned. “At least not for one of our abilities.”
+
+Ling Qi had no retort to that.
+
+“It was a bold thing you did in my sibling’s domain,” Xin continued, not allowing the silence to become awkward.
+
+“Huh?” Hanyi looked between them.
+
+Ling Qi folded her arms, slipping her hands into her sleeves. “The project I was working on with Sixiang, Hanyi.”
+
+Her junior sister’s expression scrunched up. “Oh. Right. When is the bug coming back anyway?”
+
+“Eventually.” Ling Qi glanced at Xin.
+
+“My little cousin stopped by. They are fine. They’re pestering some of the archivists and off-duty disciples.” Xin rose to her feet. “Why don’t we walk?”
+
+Ling Qi inclined her head. Then, she looked to Hanyi.
+
+Hanyi held up her hands. “I’ll stay and study. You look like you’re gonna talk about Big Sis stuff.”
+
+Ling Qi sighed. “When did my cute little sister become wise?”
+
+Hanyi puffed out her chest. “A lady has to be witty and smart too!”
+
+“They do,” Xin said, amused. “I left some notes for you, dear. They should help you understand.”
+
+“Thanks!” Hanyi chirped, unrolling her scroll. One might actually think she was a diligent young miss at that moment.
+
+Ling Qi turned away and followed Xin down the tree-lined path at the edge of the plaza. When they were well away, she spoke. “Were you the one who answered when I begged for aid in the nightmare?”
+
+Xin hummed, her somewhat garish dress blowing in a phantom breeze. “Not entirely. I felt it, but there are more spirits of the Hidden Moon than I. I am an archivist. Defending knowledge is a part of who I am, but gathering it is my core. You tapped into another facet.”
+
+“Seeking and keeping.”
+
+“Pithy, but not incorrect. And you have been seeking some heady secrets indeed.”
+
+“Why is that tomb a trial site?” Ling Qi asked, referring to the physical location of Huisheng’s corpse. “Something like that…”
+
+“For a start, it’s quite indestructible. At least, it is so without power that would cause quite an upheaval, and once the cavern split open during Ogodei’s invasion, it proved impossible to seal off entirely as well. But more than that, it is inactive, save for the reagents it bleeds. You may not be the first, but you have certainly triggered a rare reaction.”
+
+“He did say there had been another disciple. Do you know who it was? Or how long ago?”
+
+“Hmmm, I wonder.” Xin regarded her intently as they walked, and Ling Qi began to realize that she could not sense the plaza nor the end of the path, only a pale gray sky and the way stretching ever on in front and behind. “For a promising student, a small secret. The last disciple was recent by a cultivator’s measure, a mere few centuries ago. He was a man who swept the province into turmoil and whipped up the youth of the clans into following a radiant star of hope and wrath. A man who stood among the four just beneath that radiance as it burned the webs choking Xiangmen.”
+
+The four close retainers of the Duchess included Diao Lingqin, Xia Ren, the matriarch of the Wang, and the patriarch of the Jia. Of them, only the last made sense. That was…
+
+Well, it wasn’t as if she wasn’t going to have to investigate all of them eventually, given Renxiang’s goals.
+
+“You could have just said his name if you were going to spell it out like that.”
+
+“And miss the fun of a dramatic speech? Ling Qi, dear, what have you been doing in the dreaming realms?”
+
+Ling Qi let out a brief laugh as they continued walking the twisting and infinite path. The gray cover of clouds broke, revealing an infinite expanse of stars with only the black circle of the new moon to interrupt it. “May I ask where we are going?”
+
+“To my home, of course.”

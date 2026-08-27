@@ -1,0 +1,153 @@
+---
+id: e7b98dfc-48fe-52e6-ae8a-4cc75b4d18e8
+page-type-slug: story-chapter-royal-road
+title: "Threads 312-Frost 1"
+slug: 0352-threads-312-frost-1
+partOf: forge-of-destiny
+position: 352
+ownLength: 2138
+unit: words
+publishedAt: 2023-06-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1239456/threads-312-frost-1"
+royalRoadId: "1239456"
+---
+
+“And I, her emissary, apologize that we have not been able to speak with you sooner.” Ling Qi bowed from her position, exactly one step behind Cai Renxiang.
+
+Jaromila slipped gracefully down from horseback, her fine black boots soundlessly touching the stone tiles. She drew back her hood, revealing her pale golden hair drawn up in a tight braid, coiled and pinned in place along the back of her head. Her lips were icy blue today, and her complexion was more akin to Ling Qi’s old Master Zeqing than a human shade. Her smile was friendly but stern.
+
+“We both have had many preparations to make. I do not begrudge either of you that. Let us merely be pleased that we can speak now when there is still some time for more casual talk.”
+
+“We are pleased to share your fire, people of the forest and hill,” Ilsur grunted as he dismounted beside her. His mask remained in place. Ling Qi remembered that it was custom among the cloud tribes to remain masked until all of their beasts had been seen to, and so, did not take offense.
+
+“It is our pleasure to host you, people of the wide White Skies,” Ling Qi returned.
+
+“We may offer you hospitality now or wait to speak further until you have settled your own matters at your leisure,” Cai Renxiang offered.
+
+“The clans of my people thank you for your accommodations,” Jaromila said formally. “If it pleases you, once our greetings are complete, we will confer with our own and reassemble for a proper welcome in a short time. Two hours?”
+
+“That will be well,” Cai Renxiang agreed. “My emissary will receive you here at that time.” Cai Renxiang gestured to the now completed central embassy building.
+
+Ling Qi remained silent for this part, but she considered Jaromila thoughtfully. The other emissary’s grasp of the imperial tongue had sharpened into something that wouldn’t be out of place at court. Even her word choices had been adjusted to better meet imperial sensibility. She had used clan, rather than tribe, and she spoke with oblique and impersonal formality in every word. Only the offer of a time was still a little too blunt. That probably should be left to the host.
+
+“I am pleased to accept the invitation,” Jaromila said, bringing her hands together in a proper bow. “Please excuse us while our household is seen to.”
+
+The two traded a few more of the necessary public pleasantries before Jaromila and her group took flight back the way they had come. The concentration of imperial security began to draw down, some of the eyes upon them leaving either openly or fading back into shadow.
+
+Ling Qi took a deep breath. “I have the matter in hand, Lady Cai.”
+
+“I trust you do. Will you require anything in particular?”
+
+“Meal and drink with a more homely arrangement in the second meeting room.”
+
+“Done.”
+
+As her liege turned to go, taking the last of the hovering attendants with her, Ling Qi turned back to Xuan Shi. “Thank you for your time today. I’m sorry to cut it short.”
+
+“Make no apology. This one has received a boon of knowledge,” Xuan Shi looked to the south. “If Lady Ling does not require this one, arrangements have been made that I might assist under Lady Wang.”
+
+“Oh?” Ling Qi was surprised. She wouldn’t have expected Xuan Shi to go out of his way to join a group on his own. But she was not the only one changing with time and cultivation. “I am sure Lady Wang is most grateful for your assistance.”
+
+“Name or no, this one is but a journeyman, certainly no master to be thankful for,” Xuan Shi deflected. She considered chiding the self-deprecation, but it didn’t seem necessary with his tone and words. “Ah, this one burns to examine that vehicle of theirs. It is no easy achievement to defy the Law of Earth on such a scale.”
+
+“Perhaps I can get you permission at some point. It is definitely a statement of the White Sky’s prowess. I would like to hear your thoughts on our meeting with Emissaries Rhosam and Inza later.”
+
+“Of course,” Xuan Shi agreed. “Until later, Ling Qi.”
+
+“Until later.”
+
+***
+
+The quick and efficient efforts of the staff Cai Renxiang had arranged for in the embassy transformed the plain and barely furnished second meeting room swiftly, well within the two hour limit. A traditional hearth was arranged, along with thick carpets and wall hangings in an older style with low, well cushioned seats and serving tables. She’d declined to have any servants attend.
+
+By the time she’d ushered Jaromila and her husband Ilsur in, the small tables were heavy with dishes with a selection of pitchers full of drink set out as well.
+
+“You flatter us, making such an arrangement on short notice,” Jaromila said as she entered behind Ling Qi, looking around curiously. She’d left her hood and cloak behind, and her complexion was more human again, and her presence warmer. Ling Qi wondered if the change was due to a technique or an example of the mantles they had spoken of.
+
+“It is only fair, given what a surprise we were as guests,” Ling Qi said. “I hope you are not bothered by serving yourself.”
+
+“It is more than fine. Quiet conversation among friends is welcome after such a long journey,” Jaromila said.
+
+Ilsur snorted, drawing a chiding look from his wife. He gave Ling Qi a short nod before passing to peruse the drinks. Ling Qi watched him out of the corner of her eyes as she closed the door behind them, the privacy formations thrumming into place. He wrinkled his nose at the wines but stopped over a pitcher filled with some kind of fermented milk drink. Something from Luo lands, she thought.
+
+“I appreciate that you think of it that way,” Ling Qi continued. She wasn’t foolish. She understood their relative positions and their need to represent their peoples, but all the same, she did like Jaromila. “It has been difficult arranging logistics for a successful summit.”
+
+They still hadn’t finished. Every scrap of interest and support in this project came out with all the ease of a physician yanking a rotten tooth. Jaromila’s sympathetic nod made her think that the woman’s own efforts hadn’t exactly been easy.
+
+Ling Qi considered the older woman. After sharing their tales with one another, she felt that she had a good handle on the truth of the emissary. She didn’t think she was being led along or condescended to. Like Renxiang and herself, Jaromila had something to prove, and this whole summit was a part of those ambitions, as it was theirs.
+
+“It is difficult to induce the snow to move, but once they begin, it can be hard to keep up,” Jaromila said, moving to the tables herself.
+
+She scanned the available drinks, and her eyes fell on the rimefruit extract. Of course. Well, it wasn’t as if Ling Qi had expected to have the whole pitcher to herself.
+
+“I was surprised by that… sled? Is that an example of your clans’ collaborations?”
+
+“Is proof of concept. The cloud are not as simple as you think of us, merely too stubborn for our good,” Ilsur said gruffly.
+
+“As he says. There is much to be gained from collaboration. I hope that we will convince everyone of that,” Jaromila said more diplomatically.
+
+“To success.” Ling Qi raised her cup. The grand presentation was a good idea, even though she knew there were some in her camp who would only see it as a naked threat of the White Sky arming and supplying tribal barbarians. But that in and of itself was an acknowledgement from that type of person.
+
+Jaromila toasted her back, and even Ilsur raised his cup a little.
+
+“Did you have many troubles on your journey?” Ling Qi asked, swirling the contents of her cup, enjoying the icy vapor that billowed up over her face.
+
+“Beasts are stirring. The northern tribes are withdrawn and defensive,” Ilsur said. He made no motion to sit. “Our party was too well equipped for casual harassment from men.”
+
+Ling Qi tilted her chin up at him and took a seat anyway. There was politeness, and then there were posturing dominance games. That, she wouldn’t play here. He looked down at her. She looked back. He snorted and sat himself down cross-legged on the padded couch provided.
+
+Jaromila sighed. “It’s true that there were no human raids on us.”
+
+“I see.” Ling Qi was curious, but she had no intention of fishing for information at this initial meeting. Building a good relationship with the other party actually interested in making this summit work was more important.
+
+She waited for a beat, but there was no interjection from a spirit in her head. She frowned again. She was being guided by her own preference, of course. A more personal bond was easier for her than all the politicking.
+
+Jaromila gave her a curious look, and she realized she had let her discomfort show. The other woman didn’t comment. “Contacted tribes were not where they claimed they would be. There has been growing raiding in the east and fear in the west.”
+
+“Some khans who were willing to speak were overthrown, the challengers taking their people west. Some were subjugated by other tribes.” Ilsur shrugged. He squinted down at a skewer of roasted meats and vegetables he had plucked from the meal table. “It is the way of life, though changes are faster these days. More confederations, small ones, squabbling at the feet of behemoths. No matter the outcome, the Mother Mountains will not be the same again.”
+
+“Even the mightiest glacier must move with enough time,” Jaromila said.
+
+It was a sign of good faith to share that kind of information. She was sure there were watchers in the empire aware of tribal movements, but how much attention they paid to the details was questionable.
+
+“The underground people, the ith-ia, have also been moving,” Ling Qi shared vaguely. “Through good fortune, I was able to head off an attack on a city which revealed plots against many more. The Emerald Seas’ wrath may turn downward without further provocation from the mountains.”
+
+“The cave demons,” Ilsur identified. “Well, I cannot say anything when my wife is a deathly witch.”
+
+“And my husband, a wild beast,” Jaromila drawled, giving him a look. “I may be able to dredge some information from my peoples' histories.”
+
+“Emissary Dzintara implied as much,” Ling Qi said.
+
+“For later.” Jaromila traced an iron fingernail around the edge of her cup. She considered Ling Qi for a moment. “You are quite learned, I hear, on the nature of our people’s sovereign cultivation.”
+
+So she had spoken with the others already.
+
+“I walk in the realm of dreams at times. Your lands are far away in the waking world, but not so far in the liminal. And spirits do not have a mortal’s reticence,” Ling Qi admitted. “But it wasn’t a trip I would like to undergo again soon.”
+
+“Spirit walking. I told you she had the air of a shaman!” Ilsur said, vindicated.
+
+“That would explain some of what I see in you now, Emissary Ling Qi.” Jaromila’s examination showed a touch of concern. “Such journeys are reckless for the mortal minded.”
+
+“I was informed by a certain old woman that I am a ‘cautious poppet,’” Ling Qi said wryly. “Not a common compliment for me.”
+
+Jaromila looked mildly horrified. Ilsur took a look at her expression and let out a bark of laughter.
+
+“I will never claim that you are not serious in this then,” the tribesman said to Ling Qi.
+
+“Then I have gained another benefit from the trip.”
+
+“Is the crone what happened to your dream shadow?”
+
+“Ilsur,” Jaromila chided.
+
+Her husband only leaned forward, one hand on his knee, spinning the skewer between the fingers of his hand.
+
+Ling Qi gave her a small, thankful nod, but she did not take her eyes off the cloud man. “That was a more personal nightmare, and we are only taking some time apart. Sir Ilsur, I hope you can restrain yourself more when dealing with others of my people.”
+
+He tilted his head, and after a moment, he lowered it in apology. “I was rude. Sorry. I am interested in the spirit walker’s arts, but it was never my place.”
+
+“Accepted, for now.”
+
+“Yes, do forgive him,” Jaromila said witheringly. “I will not condescend to you, Emissary Ling Qi, but I hope you are aware of the dangers you court.”
+
+Ling Qi considered what Sixiang had said about her and plans. It probably wasn’t good to outright lie. “I only do what I see as necessary.”

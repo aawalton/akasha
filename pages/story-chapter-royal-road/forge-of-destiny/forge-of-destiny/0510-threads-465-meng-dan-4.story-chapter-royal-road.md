@@ -1,0 +1,149 @@
+---
+id: 26a076c5-336a-544a-b447-3abc4766d827
+page-type-slug: story-chapter-royal-road
+title: "Threads 465-Meng Dan 4"
+slug: 0510-threads-465-meng-dan-4
+partOf: forge-of-destiny
+position: 510
+ownLength: 2147
+unit: words
+publishedAt: 2025-08-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2482686/threads-465-meng-dan-4"
+royalRoadId: "2482686"
+---
+
+The Sapphire Sun Theater was at the far edge of the second western radial of the cloud districts. Unlike the more grounded structures that lay more trunkward, here, where the vast branches tapered, splitting off into sub-branches and twigs that were the size of ancient centennial trees themselves, the architecture was far more fanciful.
+
+The Sapphire Sun Theater was no different. Built from what seemed to be a single massive sapphire geode, it was some hundred and more meters across, carved with outer balconies and delving tunnels, all alight with the entertainments within. The whole structure was suspended between two sub-branches by a web of glittering cables, and it rocked ponderously in the currents of air which blew through the high branches.
+
+The narrow bridge they took to reach it, a construction of silver cable and luxuriously painted and polished tiles, was barely wide enough for three people walking comfortably abreast. That said a great deal about the more exclusive traffic it was expected to carry.
+
+"A much higher end clientele for this group then?"
+
+Meng Dan, who had not released her hand, nodded cheerfully. "Of course. As evening falls, the more experimental and high production shows begin."
+
+"Why?" Ling Qi asked. "I can't imagine what difference the time of day would make."
+
+"Most cultivators at your level still like to sleep, Qi," Sixiang deadpanned.
+
+"Oh, right." Ling Qi wrinkled her nose. "So, these performances are aimed more at higher realms?"
+
+"Somewhat," Meng Dan equivocated. "Spectacle is spectacle, and I do find some of the technical innovations on display in these productions to be absolutely fascinating."
+
+"You do like that word," Ling Qi teased.
+
+They were allowed inside with only a brief flash of the Cai clan's insignia, provided for the day's events. The winding halls into the center of the geode showed their splintered, gleaming reflections at all angles, a kaleidoscopic display that would have been very disorienting to a mortal.
+
+"Only because the future shows so many possibilities," Meng Dan enthused. "One might discover many threads to the future by studying what is being developed in workshops and alchemists’ halls."
+
+"I dunno,” Sixiang commented. “I think you find more innovation in people doing more with less."
+
+"Disagree. Cleverness is laudable, but it is more impressive to see what is done at the limits of what is possible." Yinhui adjusted her satchel. "What is possible without sovereignty? These inventions can be improved for further spread after."
+
+"What is your opinion?" Meng Dan asked as they were waved through into the cavernous spherical theater hall, so full of light and sound before the show had even begun.
+
+"I favor the lower powered effects. With enough power, one can make the senses experience almost anything. But this is not…" Ling Qi paused as they set foot on a chiseled path that defied the law of earth, carrying them vertical and then even upside down compared to what her senses told her should be the right way.
+
+It wasn't defying the Law of Earth, but the arrays in the geode were bending it slightly, so that in this space, wherever one stood in the hollowed sphere, that was down. This explained how the central stage was floating with so little energy. Because it was being pulled in every direction equally, it appeared suspended as it slowly rotated.
+
+"It is not?" Meng Dan repeated, drawing her out of her thoughts.
+
+"It's just not widely applicable enough," Ling Qi said.
+
+Soon, they found their seating, a closed private balcony shrouded in thin silk hangings. These, too, were woven with a great deal of qi. Similar to the arrays which had allowed the audience clear sight of the arena for the sect’s New Year’s Tournament, these would ensure that no matter the turning of the stage, every viewer would have a clear view of it. If she was reading the arrays correctly, it was even reactive and would magnify whatever particular part the viewer was focused on.
+
+"Yeah, this is cool and all, but can you really do it anywhere else?" Sixiang flopped into a seat beside her with a whirr and a clank. "Like, I could blow all of this outta the water if I took an audience on a trip home, but half of their brains would melt, so what'd be the point?"
+
+"Facilities which could support higher level performances exist in the county capitals. Access to those of higher stations and influence has an outsized effect," Yinhui countered. Unfolding her writing tray, her brush spun between her fingers as paper whispered out on its own, fresh and clean and ready for notes. "That said, the Baroness already has high access."
+
+"That's my thought as well. I already have ways to get my words to most of the comital clans. If, for example, I wanted to talk to the Meng, all I need is to turn your way, after all." Ling Qi shot Meng Dan a smile.
+
+"But a dozen or a hundred barons and viscounts are rather harder to keep track of." He sent a smile back. "And not half as handsome."
+
+"She does a good job trying! And making me try, too." Sixiang gave her an amused look.
+
+"My writing desk is a dull and dreary place without your best readings," Ling Qi said sorrowfully.
+
+Sixiang crossed their arms. "No fair making that kind of face."
+
+"Interesting. I will have to make a note of this method for making a muse perform clerical work," Yinhui said dryly. "Somehow, I doubt the general applicability."
+
+"Aw, you're probably cute enough to get one of my little cousins to follow you around if you tried."
+
+Ling Qi let out a huff of laughter as the stage began to glitter with layers of illusion, casting a vision of the mountains of the Wall in the center of the theater.
+
+"Don't think I don't appreciate this though,” Ling Qi said to Meng Dan. “What they've done to compose the opening score into minor art effects is an amazing bit of work."
+
+"You can certainly tell better than I," Meng Dan replied. "Whatever pleasure we might take though, this is only work. Please look forward to a proper outing."
+
+She tilted her head as the lights dimmed and the first actors wreathed in qi-reactive costumes keyed to the arrays in the stage began to emerge. "Oh?” she asked coyly. “I wonder what you have in mind."
+
+"I am told Lady Ling enjoys her adventures, but is always the one bearing the burden of the host. Perhaps a guest pass into the Deep Library at Blue Mountain might entice?"
+
+She laughed. "I can't fault you for lacking research!"
+
+"I would be a poor scholar, if I hadn't pre-studied my subject. Let’s set that aside for the moment. I would like your opinion on the next scene and the use of the musical qi during the opening soliloquy."
+
+She nodded, and absently elbowed Sixiang, who was still verbally prodding at Yinhui, despite the other moon spirit deliberately ignoring them in favor of note taking.
+
+She still couldn't quite believe how comfortable she had managed to become on these pseudo-dates.
+
+***​
+
+Ling Qi stretched her arms overhead, hands clasped together, and cycled her qi through her dully aching back. The show had been excellent, by any measure, but she was feeling jittery from sitting down for such a long period of time.
+
+"You look as if you're about to leap," Meng Dan said. "I hope you haven't found me so troublesome."
+
+"If I were to leap, I might pull you over with me. I bet you would make a very amusing sound," Ling Qi teased, leaning against the handrail which lined the hanging garden they had finished out their day in.
+
+Dangling from one of Xiangmen’s countless twigs, it resembled a basket sized for an irate Gan Guangli. It was some three or four meters across, made of living, woven roots and filled with fertile earth. A raised rail ran all the way around the flowering beds which surrounded the little platform and bench in the center, and the plants spilled from beneath it in hanging vies of flowering buds and leaves.
+
+"I am made of sterner stuff than you think. It would be a very manly shriek."
+
+She laughed. She did feel the strong urge to leap over the side and fly a bit in the shadow of the vast glittering canopy, but the airspace around Xiangmen was restricted, and even more so given the upcoming nuptials.
+
+"I'm sure," she agreed. She glanced up toward the main branch where Sixiang and Yinhui were debating over something or another. The two moon spirits did get along,even if they showed it by bickering like siblings. "So, we now have a short list of troupes worth approaching. Not a bad use of my first day in Xiangmen."
+
+"Productive. And I have learned a thing or two about you. Ling Qi is surprisingly technically minded," Meng Dan pronounced. He sat on a bench, facing her, arms spread across the back of it. "I had an inkling, but your focus on the machinery of a story or a song over the surface components did surprise me."
+
+"You aren't the first to say that. The surface presentation is important, but to make a good piece, you need to understand how every component fits together to know where you can leave the audience’s imagination to fill in the details. A casual listener or viewer won't notice, but they will notice their absence."
+
+"I see.  I’m starting to get the sense of why you get along so well with Lady Cai."
+
+She gave him an unimpressed look. His smile never wavered. She huffed.
+
+They listened to the high winds rustle the leaves.
+
+"I wonder what I should prepare for my personal suite." Meng Dan drummed his fingers on the stone. "Sadly, I am no poet; my writing is too technical. Nor am I a musician, nor a maker of wonders or a warrior."
+
+"I do not need to be bought, although I understand it's a matter of pride. If I might make a suggestion…"
+
+Meng Dan leaned forward slightly and gestured. "By all means."
+
+"I have a reason to be interested in histories, and a historian is what you are. A gift of your own talents would be more satisfying than any petty luxury."
+
+He peered over the top of his glasses at her, folding his hands under his chin. "Given your disinterest in your family line, I had discarded the notion. You are, unlike your interest in song and story, much more focused on the surface of tradition."
+
+"I admit that. Nor have I changed my mind about my own genealogy. The Ling are the Ling. In the end, what came before is only the soil and the roots, not the blossom. I would only look ridiculous, trying to lean on it. However, I do have pragmatic reasons to know what the Weilu were, what they became in the end, and how they went."
+
+To understand Huisheng, she needed a grounding in his context. She needed to know the roots that produced the Arch-Heretic and Supreme Thief.
+
+"My lady does not ask for small gifts. It's not quite a heart's blood poem, but you ask after a subject that many lifelong academics only achieve mastery in a narrow slice of. Much of what you ask for is among clan vaults and secrets, which is concealed even from me."
+
+"I would not ask for anything which would pit you against your clan," Ling Qi reassured.
+
+He relaxed at that.
+
+"As you said, though, the Archive of Blue Mountain is deep, no?"
+
+"It is. I am afraid I must still ask after a more specific question, should you wish for this gift to be delivered in the next decade."
+
+Ling Qi let him formulate his thoughts into words.
+
+"What they became, you said. Would you say your interest lies in cultural and political accounts of the post-Qin to Strife era? The reactions and developments to the strain of provincial consolidation under the first dynasty? Or do you mean a focus on accounts from the decline and vanishing period, or more specifically, records from the clans to which they ceded more and more authority to?"
+
+"I should have known I needed to be less vague with an expert," she said ruefully. "It is rude to answer a question with a question, but if I had to narrow my interest, I would want a clearer picture of how the Weilu clan developed after the Masons’ War. I want to understand their internal state under the Sage, and what prompted their isolationism and withdrawal."
+
+Meng Dan shook his head. "There are no definitive answers to your question,” he informed her. “The consensus among historians is divisive."
+
+"Then, give me yours,” Ling Qi insisted. “I will trust your judgement."

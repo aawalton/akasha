@@ -1,0 +1,137 @@
+---
+id: 85419daa-e20c-56c4-afb6-7157e2b85194
+page-type-slug: story-chapter-royal-road
+title: "Threads 508-Ith 2"
+slug: 0557-threads-508-ith-2
+partOf: forge-of-destiny
+position: 557
+ownLength: 2119
+unit: words
+publishedAt: 2026-03-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3186283/threads-508-ith-2"
+royalRoadId: "3186283"
+---
+
+The Law delegation was approaching? Ling Qi had not sensed them at all yet.
+
+It was good to be reminded that, for all her advancements, the third realm was still very far from the peak. She had a long climb yet before her.
+
+"I see. I hope we are able to come to an amicable conclusion here. I understand both ministries have their claim to this duty, and the better expertise in it."
+
+Law held that they, as the enforcers of contracts and treaties, were the obvious department to deal with extracting information from the Emerald Seas' new tributary. They were far more experienced in gathering information. Spiritual Affairs, on the other hand, held that dealing with non-human entities was very clearly their responsibility.
+
+Of course, the information provided by the White Sky blurred this matter. She knew that her presence was something of a sop to both, an excuse to meet and hash out a working delegation without anyone losing face. She was being used here, but it was for a good cause. However, just because there was a vested interest in this working didn't mean she didn't still have to play her part well.
+
+She was not certain if she should be encouraged or discouraged that Diao Hualing was not with the Minister of Law's entourage. It might have been a sign that Ling Qi was expected to lean toward them in negotiations. On the other hand, her absence could imply that the Minister was not truly pleased with her efforts in arranging the meeting. After a moment of thought, Ling Qi decided that it was probably a matter of keeping a neutral face. Diao Hualing had been publicly associated with Ling Qi before.
+
+"Probably,” Sixiang agreed privately. “Of course, Mr Lawman doesn't look happy to be here, but maybe his face is just like that."
+
+Ling Qi carefully did not allow herself to disagree as Tang Che, Xiangmen's Minister of Law, approached. He looked positively ancient for a cultivator with white hair bound in a tight topknot and a short, severely trimmed beard and mustache with just a few hints of silvery grey left in it. His face was a map of deep wrinkles, indicating a face habitually set in a deep frown. The black minister's cap and embroidered robe of his station were both free of any adornment that was not a direct mark of his office's rank.
+
+"Minister Zhu. Baroness Ling." He gave them both a terse nod as he took his seat at the table.
+
+There had been very little ceremony in his approach. She had risen and bowed when he entered, but had been dismissed to sit with a flick of his fingers. It seemed the information she had been able to gather regarding him was correct on its face.
+
+"Brusque, minimal decorum. Heavily results-focused. So even-handed you could balance a marble on his head, and it wouldn't roll. It’s what ya might expect from the first Minister of Law that tyrant appointed in her own stead."
+
+"Minister Tang," she greeted, echoing Zhu Fan's similar greeting.
+
+"You have both been here for some time."
+
+"Merely speaking on the young Baroness' role as a spiritual advisor," Zhu Fan explained. Ling Qi could feel the slight shift in his aura as the other minister opened himself to the other man's inspection.
+
+Flint grey eyes stared at him from across the table, assessing, before flicking to her. She sat up straighter, and stopped herself from reflexively clamping down on her feelings and emotional progression as she felt the perusing edge of the Minister's senses passing over her like a fine steel-toothed comb.
+
+Minister Tang inclined his head slightly in satisfaction. "Very well. It is irregular for a woman of your youth to advise on such a high matter. However, as the heiress' representative, your words hold some weight."
+
+Ling Qi nodded, taking no offense. To these men, even if she tacked a hundred years onto her age, she would still be a precocious child. All the same, they were here meeting with her, were they not?
+
+"This is a most irregular situation,” Ling Qi began. “The Emerald Seas have not taken a tributary since the submission of the Hill tribes."
+
+"It is so. And at that time, the Xi deferred enforcement of tributes to the Ministry of Law, as legal contracts are our domain," Minister Tang asserted crisply. "They did so, following instructions from the Sage Emperor's court during the formation of the ministries."
+
+"And it was the Ministry of Spiritual Affairs which governed the spirit pacts of newly acquired lands, adjusting them to meet the standards of the capital," Zhu Fan rebutted.
+
+Hmm. She thought of him by name rather than rank. The Minister had gained his slight advantage there, hadn't he?
+
+Zhu Fan continued, pressing his point. "The terms of the contract between the Duchess and the Ha-yith-kai are much more akin to a spirit pact than any negotiation with a submitted clan, and so, it remains my position that the Ministry of Spiritual Affairs should have oversight of this matter."
+
+"Law will be pleased to consult with Spiritual Affairs over the city's negotiating position. It will, however, maintain control over all interactions not undertaken by the Duchess."
+
+"Law’s methods are not the best ones here. To interrogate criminals and fraudsters is far different than a negotiation with a non-citizen community."
+
+"The methods of information extraction allowable are different for non-citizens," Minister Tang allowed. "And yet, information extraction is what matters most, or have your rites not felt the disruption of the deaths in the central valley?"
+
+His voice wasn't angry, or even particularly passionate, but it was pointed.
+
+"I have felt them deeply, the voices of mortals dying out, tainted fields, and furious house spirits and poisoned streams where tainted bodies fell," Zhu Fan replied. He, on the other hand, did sound upset, and his aura was heavy, the rushing rumble of a quake ill contained. "And that is why we must be certain that we retrieve correct information, and what is more, establish a deeper learning than a single interrogation can give. Or do you believe our enemies will sit on their hands when the offensive begins?"
+
+"I do not," Minister Tang replied. "We have had this argument before, Minister Zhu."
+
+Their eyes fell on her, Ling Qi, the negotiator, now whispered to be the junior sister of the Orator, one of Cai Shenhua's four heavenly kings.
+
+No pressure.
+
+She understood that she was being used to maintain face for both organizations. Her solutions and words were valuable merely for coming from outside while having some weight.
+
+Ling Qi considered her words carefully. "Good points have been made on both sides. Traditionally, negotiations with tributaries would be a matter of Law where the dukes themselves are not involved. However, in this instance, I believe Spiritual Affairs may have better methods. For all that our neighbors have told us that the ith were human in the times of myth, as they are now, they are quite alien to us, are they not?"
+
+"I have read reports of military interrogations. Their methods produce warped results or damage the subjects past the point of usefulness," Minister Tang said. "However, the methods used on enemy soldiers are not ours, if that is your concern. Law does not use such destructive methods. Execution is not an act to be carried out hidden from the public’s eyes.”
+
+"On this, I will stand for my fellow minister's integrity," Zhu Fan supported.
+
+Ling Qi breathed out. That was some relief. "I apologize for any aspersions I might have cast."
+
+His eyes bored into and through her, and it felt like an interrogation in and of itself.
+
+"Hmph. I will not chastise you."
+
+He looked irritated, but not with her.
+
+"He was irritated by the fact that the thought was in your head. If the Duchess can't burn all the taint outta the province, guess this fella can't either."
+
+She supposed not.
+
+"If I may, Honored Ministers, may I ask that each of you lay out your proposals for how meetings with the ith should proceed? While you may both be intimately familiar with the proposals, my own understanding of what is on the table is more limited."
+
+"A fair enough request. If you would allow me to go first, Minister Tang?" Zhu Fan asked.
+
+The other man made a dismissive gesture. "Make your proposal, Minister Zhu."
+
+"In the immediate term, I believe a meeting on their grounds is necessary. While we have both spoken to individuals brought here to us, the fear and alienation of those restrictive accessories they must wear damages the ability to form accurate models of their behavior."
+
+She almost expected Minister Tang to interrupt given the brief drum of his fingers on the tabletop, but he was too professional for that.
+
+"Longer term, an embassy must be established in their city, even if at some expense, just as some station for  their officials must be established here. Perhaps not in the cloud district, though."
+
+The ith might just melt outright up here, gasbag masks or no.
+
+"More pertinent to our immediate meeting, this should be approached as an establishing of norms and a quest for understanding. To be frank, if there are further attacks like this, they will suffer as well. The public mood is already dark. Mortals and cultivators alike are incensed, even without knowledge of certain declarations. So, a team of selected Spiritual Affairs officers, with expertise in volatile spirits and hazardous environments, descending to meet in one of their outer settlements further from the concentrations of… toxin in their environment this would ease our own troubles as well as allowing these creatures some measure of security."
+
+"On one matter, we agree, Minister Zhu. Lacking any presence on their territory has become unacceptable. Even with transmission formations, the flow of information is too slow without agents on the ground," Minister Tang spoke up. "Relying wholly on agents sent to us from their central authority chosen for the purpose counters our purpose. These beings must be understood and studied in order to accurately judge their adherence to truth and law."
+
+Minister Tang announced, "To that end, I would dispatch one of my subordinate magistrates and their entourage. They are an expert at unraveling the ancient tangles of local laws and customs which have gone unpruned for generations, particularly among those of less imperial persuasion, during Her Grace's rationalization drive. He is skilled at discerning non-human motivations, as spirit pacts often blur with governance in these places."
+
+"Lao Tian?" Zhu Fan asked. "I will admit his record is good. You did not wish to put his time into this last time we spoke."
+
+"Circumstances have changed. In the immediate term, a meeting will be demanded within Ha-yith-kai's administrative center. An office WILL be established there for long-term harmony's sake, whatever the engineering troubles. We will not accept having no eyes within their government."
+
+“I can kinda see where both of 'em are coming from,” Sixiang commented privately. “Law Guy is being more forceful about it, and that's gonna chafe but…”
+
+It wasn't as if the Duchess had not marched down there and subjugated them. Ling Qi suspected from her conversation with Tcho-Ri at the last New Year’s Tournament she had attended at Argent Peak Sect that there was a limit, a point where dignity would demand resistance, even in the face of death, and the Duchess would be far away in coming months.
+
+Xiangmen's wards could withstand even the rage of a white realm. Then again, so many lived outside those wards as well.
+
+“You are spiraling pretty far there,” Sixiang argued. “As long as this Lao Tian isn't swaggering around, demanding to have shoes made out of their skin, that limit likely won’t be reached.”
+
+Probably. She had been marinating in human cruelties too much recently.
+
+The ith's administration did seem religious to an extent. Would a human in a sacred place be offensive? She did not know the ith’s psychology well, but she didn't think merely accepting ministry presence would go so badly. She hoped not, for if it did, the chances of this relationship surviving was bleak.
+
+"Baroness Ling?" Zhu Fan prompted kindly.
+
+"My apologies. I was merely considering your proposals. To ensure I am understanding correctly, in the immediate term, I am expected to descend with the initial delegation and offer some of my experience in the initial meeting?" Ling Qi asked.
+
+"Correct," Minister Tang replied. “The arrangements will require a few days to finalize, depending on what is decided, but the Baroness will descend with us to advise."
+
+Ling Qi nodded. "In that case, I lean toward Minister Tang's proposal."

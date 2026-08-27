@@ -1,0 +1,133 @@
+---
+id: afa0fbfd-98ee-5068-96f2-c57eae975047
+page-type-slug: story-chapter-royal-road
+title: "Threads 424-Shenglu 3"
+slug: 0468-threads-424-shenglu-3
+partOf: forge-of-destiny
+position: 468
+ownLength: 1654
+unit: words
+publishedAt: 2025-01-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2027529/threads-424-shenglu-3"
+royalRoadId: "2027529"
+---
+
+Ling Qi embraced Hanyi tightly, her nose full of the wintergreen scent of her junior sister's hair. Said junior sister squirmed as she hugged her back, patting her shoulders. She could feel the increased chill as her sister’s snow white cheeks flushed a dark blue.
+
+"C'mon, Big Sis. Not in front of everybody!" Hanyi whispered.
+
+Ling Qi snorted. She gave her sister a final hard squeeze before straightening up, resting her hand on Hanyi's head. They stood at the edge of Shenglu where the temporary stables had been set up. Workers and merchants passed them by with lowered heads. Bao Qian looked on, amused from the driver’s seat of his wagon.
+
+"Be well, my sister. Perform your duties diligently, and bring honor to the Ling clan on your journey."
+
+Moons, she sounded so old, talking like this.
+
+Ling Qi rested both of her hands on Hanyi's shoulders, looked her in the eyes, and smiled.
+
+"And have fun, of course. Don't trouble Sir Bao too much."
+
+"I'm not going to trouble him at all!" Hanyi whined.
+
+Ling Qi looked at her.
+
+Hanyi looked back.
+
+Ling Qi held her gaze.
+
+Her junior sister looked away. "... I'll be good."
+
+Ling Qi ruffled her hair. "I know, little sister. See you in a few months."
+
+It still ached to let her family go, but it was a good ache in its way. She couldn't keep Hanyi tied to her hip.
+
+"I will do my best to keep your junior from a crooked path," Bao Qian said wryly. "And I bid you farewell, too, Lady Ling. The road goes ever on, but it leads back around in time."
+
+"It does. Bao Qian, thank you for taking care of my sister."
+
+He nodded cheerfully as Hanyi climbed into the back of his wagon and pulled his driver’s hat down more firmly on his head. With a tug of the reins, he got the horses moving, sending the wagon rumbling into motion as it left the yard and slowly turned to trundle down the road going north.
+
+Ling Qi remained where she was, unmindful of the respectful berth the mortals and low cultivators left around her, until the colorful vehicle began to vanish over the top of the nearest hill. Only then did she turn to go, beginning to consider the work on her desk today.
+
+She had filed for the import route for the chestnuts, of course, but she also had to write back to several correspondents, file through the invitations Lady Cai had received for their visit to Xiangmen for the Duchess’ wedding, and…
+
+Near the gates of Shenglu, she paused and turned her head, looking back over her shoulder at the northern road. She recognized that qi.
+
+Wait. Was that horse pink?
+
+***​
+
+As it turned out, the shade was lavender. The horse was a handsome stallion with a healthy, shiny coat, a broad chest, and the finest mane she had ever seen. The dark purple hair in his mane tumbled down in wavy locks that would put those of many a noblewoman to shame.
+
+Lin Hai, naturally, perched on the horse’s back without reins or saddle. He beamed down at her, his own hair a permed cloud of gold-tipped black, and he wore a high collared and downright indecent outer robe with nothing beneath. The robe’s flared lower half left his midriff bare.
+
+She refused to look lower than that. She might have gotten better, but there were limits to decency, and those were not pants. They looked more like paint than silk. Which she didn't see because she was not looking.
+
+A beat of silence passed in her thoughts.
+
+… She missed Sixiang.
+
+Lin Hai slid from his horses back to land gracefully before her, sketching a small bow. "I do apologize for the sudden arrival, Lady Ling, but I was quite certain you would want my delivery as soon as possible."
+
+"I understand, and thank you for your speed. Why did you not fly?"
+
+"Because my friend here has not gotten out in ages." Lin Hai stroked his stallion’s mane, and the stallion tossed his head proudly. "And also, I knew from Lady Cai's missives that you are beginning some spiritually delicate work. I did not want to cause any disruption."
+
+An indigo realm flying toward Shenglu at full speed would disrupt the preparations for the lake ceremony going on.
+
+"I thank you for your consideration as well," Ling Qi said. Despite herself, she was feeling antsy. Her dress. This delivery could only be her dress, right? "Would you like to come inside?"
+
+"Please." Lin Hai inclined his head. "After all, I suspect you will want a room to change in once I have made my delivery."
+
+Ling Qi supposed that her excitement, to her tailor, could only be obvious.
+
+"Yes. Please, let’s go inside. I will call for some refreshments, and then you can make your delivery," Ling Qi said sheepishly, turning and beckoning for him to follow. "Welcome to Shenglu, Sir Lin. I hope life at the sect has been well…"
+
+Small talk established, she led their guest through the town and into the manor. She might have walked a touch faster than was polite.
+
+Soon, Lin Hai was ensconced in the dining hall and served their best tea and light refreshments. Indulgently, he had handed over a simple, silver chased, dark wooden box a few handspans wide and smiled as she rushed from the room for the privacy of the chambers Cai Renxiang had granted her, the box clasped to her chest. She would apologize to the servants and bureaucrats she had startled in her wraithlike rush through the walls and floors later.
+
+Laying the box upon her bed, she brushed her fingers on the formation seals in the sequence Lin Hai had given her. It unsealed with a soft click and a hiss of softly perfumed air. The scent reminded her of clear night skies and the clean and cold air whipping by her face at the highest altitudes.
+
+As she lifted the lid and set it aside, she was surprised to see the plain midnight blue silk folded neatly inside. Curiously, she slid her fingers under the fabric. It felt almost liquid, gliding over her hands as she lifted it out.
+
+Plain. That was the only word for what she saw. There were four layers of fabric: the black shift meant to be worn right against the skin; the inner layer, shimmering in the dark purple hue visible in the sky just before dawn: the third layer with wide billowing sleeves and an attached sash in the color of the inner; and finally, the mantle, lined with a thin collar of ice blue and black fur.
+
+No embroidery. No decoration. Just clean beautiful silk and a thrumming, deep resonance of qi.
+
+Fabric rustled. The sleeves billowed in a wind that was not there and that she had not made.
+
+Longing. Please.
+
+Ling Qi took a deep breath and stroked her thumb on the collar of the gown. She felt the silk purr like an affectionate cat.
+
+She set it—her—down over the side of the bed and began to get changed.
+
+Her gown fit perfectly, of course. It hung on her with the exact perfect weight, tight where it should be, loose where it should not. More than that, it was so much more present than the fine mortal weaves she'd been using.
+
+It felt like security. Blows that she would need to twist around and dance and scatter herself to avoid in regular cloth would shatter uselessly against the Cai gown’srustling silk.
+
+She swept her fingers over the black silk and watched as whirling snowflakes and ice blue flower petals bloomed. Embroidery emerged like the flashing scales of fish just under the surface of the lake.
+
+Fur hems to match her mantle bloomed along her sleeves and at the bottom hem of the gown with a thought. The silk slippers rippled, expanding and thickening into a pair of rider’s boots before just as easily and silently changing back into soft indoor slippers.
+
+Ling Qi hugged herself around the waist. "I have missed you."
+
+The silk thrummed, and through it, she felt a deep reservoir of darkness and wind like a pitch black night full crying breezes. What she felt and heard in the lonely songs of the night breeze weren't words but feelings, more like the simple emotions of a child.
+
+Embrace. Warmth. Love. Love. WANT. Home. Home home home home home.
+
+Silk and fabric clung to her skin, and she felt her qi drain precipitously like it was a glass of water being handed to a thirsty child. But she didn't feel even a moment of fear. A simple chiding pull back on her energies was enough for the eager spirit to withdraw without question.
+
+She felt curiosity radiating out and a childish desire to please. The colors and patterns of her gown shifted and cycled rapidly through numerous dark hues and silver and white embroidery. Her collar rose and fanned out. Then, it shrunk and grew snug, a fur ruff appearing. A trailing train of lace and floating silk emerged from the lower half of the gown before it shrunk back down, an elegant and snug cut slit up to the knee for movement. Wide sleeves. Narrow sleeves. Loose sleeves. Bound sleeves.
+
+Beauty. Enhancement. Soft? Airy? Mysterious? Inscrutable? Imposing? Domineering! Untouchable! POWERFUL!
+
+"Ah, tone that down. My heels do not need to be that high." Ling Qi patted at the swooping high collar that had bloomed behind her head. She kind of liked those elbow gloves, but… No! No. She looked like some kind of theater villainess.
+
+Sad.
+
+"Not right now," Ling Qi relented. "The fur ruff at the neck, the long mantle, snowflakes and flower petals, close cut… and flat heels!"
+
+Saaaaaad.
+
+Now, she was worried. Her dress might just get on too well with Sixiang.

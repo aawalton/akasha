@@ -1,0 +1,143 @@
+---
+id: 54e145ae-bd8a-5577-9154-b0a6ca9bc414
+page-type-slug: story-chapter-royal-road
+title: "Threads 298 Identity 3"
+slug: 0338-threads-298-identity-3
+partOf: forge-of-destiny
+position: 338
+ownLength: 1821
+unit: words
+publishedAt: 2023-04-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1183876/threads-298-identity-3"
+royalRoadId: "1183876"
+---
+
+“What you said, those were the Duchess’ words?” Ling Qi asked.
+
+“Only the first. The rest are my thoughts.”
+
+Ling Qi wanted to share them with Renxiang.
+
+“You desire to question. How long until your intended descent?” Shu Yue asked plainly.
+
+“Evening under the Dreaming Moon.”
+
+“There is time for one question then, if you wish to train.”
+
+“Are you really willing to speak secrets so freely?”
+
+Shu Yue’s smile was a black crescent gash in their pale face. “Only some.”
+
+Ling Qi managed not to shiver. But didn’t she need to take every opportunity to know the foe that awaited at the end of her path? In the end, there was only one question that came immediately to mind, and once she had thought it, there was no way for her not to speak it.
+
+“Why did Cai Shenhua do what she did to Cai Renxiang?”
+
+Shu Yue’s eyes drifted shut. “That is not a question which will bring any comfort. Not to you, nor to her.”
+
+“I am not looking for comfort. You have to understand why things happen, not merely that they have. Isn’t this true?”
+
+“It is. I may only explain from my own perspectives. I have not been Cai Shenhua nor the Duchess of the Emerald Seas.”
+
+That was an odd thing to say, Ling Qi thought. In her mind, she felt Sixiang’s hands on her shoulders. They agreed.
+
+“I don’t expect anything else.”
+
+“Very well.” Shu Yue drew their hands together in front of their chest, steepling their long fingers together. “There are multiple factors. The first arises from Cai Renxiang herself. She desired once to know her mother.”
+
+Ling Qi’s expression slowly began to draw down into a scowl, but she didn’t interrupt yet.
+
+“Of course, fault lies with Lin Hai, my junior, to a degree,” Shu Yue continued, and it was the first time she had heard the unsettling person before her sound genuinely sad. “A thoughtless moment, offering a child reward for success in her lessons and cultivation. He, of course, redirected her as one does with a child asking for foolish things, but he could not erase Cai Renxiang’s request from his own mind.”
+
+“I’m not sure I care for what you are implying,” Ling Qi said. “A child can’t hold fault for asking for something that they don’t know would hurt them. The Duchess…”
+
+Shu Yue held up a hand. “Your anger is correct. However, you asked for an explanation. You also, I think, do not understand fully how intractable those who achieve the highest realm become.”
+
+Ling Qi pursed her lips.
+
+“Consider what you know of spirits,” Shu Yue said. Their words were flat and relentless, without inflection. “And allow me an example in the recent business with Cai Tienli, and my master’s advancement in the realm of artificial spiritual organs and spirits. For this purpose, a deception of silence was perpetrated.”
+
+Ling Qi nodded. She had wondered at this, knowing the relentless, pitiless Truth that lay at Cai Shenhua’s core.
+
+“This damaged my master’s cultivation significantly. The damage is as much as the overall losses of many of her weak simulacra during the period of her personal administration of Xiangmen. If even one person had asked who the child’s other parent was, the scheme would have failed. It was only through her connection to Diao Linqin that it was even possible for my master to consider this action.”
+
+It brought her up short to see it spelled out so plainly. She knew that the higher realms of cultivation require great sacrifice, the removal of everything which was not core to the Way one had built and the Law one sought to master.
+
+“You said there were multiple factors,” she said tersely.
+
+Cai Renxiang held no fault. There was no doubt in her mind.
+
+“Indeed. As you think, there is no fault for a child,” Shu Yue acknowledged. “But it did interact with a flaw in my master's cultivation method.”
+
+Ling Qi’s eyes widened.
+
+“The Duchess of the Emerald Seas is not the desire of Cai Shenhua, the fifth realm, who set out upon the Way of Progress and Creation and held not any desire to rule and who wished to be a mother, despite her disdain for certain, then necessary activities,” Shu Yue said.
+
+“What is that supposed to mean?” Ling Qi demanded.
+
+“You have seen Liming’s true face,” Shu Yue said relentlessly. “Know that the Duchess Cai did nothing to her daughter which she had not already done to herself. I seek no pity here, no understanding nor apologetics. What happened happened too soon, but even if all had been optimal, it would still have happened, merely… later. Parentage, too, is a form of progress, or should be.”
+
+Ling Qi remembered Cai Renxiang’s face with a doll’s glass eyes and lips stitched shut attached to a body of cloth. She had seen the rage burning in those glass orbs and the way Liming had regarded her friend. Ling Qi knew Cai Renxiang had told her that there were only three other gowns like Liming. One for the Empress, one for Diao Linqin, and one, the first, for Cai Shenhua herself.
+
+“I leave you to think on the implications you may draw from this,” Shu Yue said as if they were only giving a simple lesson. “This is the clearest answer I may give without inflicting on you secrets which would be dangerous for your well-being to know at this stage.” Shu Yue fixed her with a look. “The Emerald Seas cannot revert to what it was under the Hui. Know that this truth lies at the heart of every one of us who have bound ourselves to her, apprentices and comrades and lover alike. It overrides all else.”
+
+<We’re going to need to talk to Renxiang, aren’t we?> Sixiang whispered morosely.
+
+They would, Ling Qi thought. To Shu Yue aloud, she said, “I understand. How do you want to begin the lesson?”
+
+Shu Yue tapped their fingers together one more time then let out a sighing breath. For a moment, their tall and looming figure seemed almost ready to disperse like a pile of leaves threatening to blow away in the wind. “We will begin with observation. You must practice and sharpen your qi sight. You must detect clearly where you may enter and exit. For this, we will need a population center.”
+
+***
+
+It was night by the time they returned. Training with Shu Yue had left her feeling thoughtful. Standing undetectable among the people of the sect town brought back memories. It was melancholy to be among people and yet not exist at all so far as they were concerned.
+
+“People often aren’t the best at seeing what they don’t want to see,” Sixiang said gently on the wind. “But I think we both know it's a little different here.”
+
+The shrine had a slight shine to it at night. The mirror in the shrine gleamed, despite being set too far back to reflect the gibbous moon above. Even in the total darkness outside, there was a certain chaotic energy, the beat of music and laughter in the rustling of leaves and the sway of the grass.
+
+“It’s not,” Ling Qi agreed. What they had done, surrounding unknowing mortals and low realm cultivators with the wisps of her perception felt invasive and unsettling. She had studied them, feeling the sharp obvious spike of a man’s anger as he stubbed his toe, the subtle thrum of another’s dissatisfaction with his job, and the glassy texture of a clerk’s empty professional smile over a roiling pressure of contempt for the person shouting at them. And indeed, the shouter’s perception rolled over the clerk with no more acknowledgement than they gave the desk between them.
+
+Discarding vision for sensation and the vibrations of qi was the first step to perceiving what lay under the physical and reaching into what people were and how what they perceived clashed. Shu Yue was right. Identity was not something which could be distilled and understood simply. Even understanding one's own self was a monumental task.
+
+“What’s one more for the plate?” Sixiang asked, stepping into existence beside her, a figure formed of air and distorted moonlight. They turned to face her. “Do you really understand what you’re getting into here, Ling Qi?”
+
+Ling Qi took a deep breath, relishing the cool night air. It was probably the last comfort she would have for awhile. “I’m going to walk into my own nightmares.”
+
+Sixiang studied her face.
+
+She closed her eyes. It hurt to dig down and look at the ugly, squirming parts of her past. “I’m still afraid. I don’t like being touched, even if I’ve pushed past it a little. I can initiate a hug or a pat on the shoulder. But I’m still terrified by the idea that anyone would want to touch me.”
+
+Ling Qi moved to the edge of the pond, looking down at her own reflection. She had changed so much. With her expression poised, she looked severe, austere even. She looked slender and elegant.
+
+She was beautiful.
+
+Admitting that made part of her gibber in terror.
+
+It was said that a cultivator’s body became a match for their desires, perfected unto the image in their mind. She’d often thought of how poorly she matched the common standard of feminine beauty. She’d complained, envious of her friends. But her hair had never grown straight, and she’d stopped using the tincture that made it so. Her skin had never lightened.
+
+She’d only grown taller because she didn’t want to be desirable. She knew how consumptive, demanding, and cloying desire was or could be.
+
+“You know it doesn’t have to be like that though. You’re not like that.” Sixiang threaded their arms around her waist, resting their chin on her shoulder.
+
+“You’re not that tall,” Ling Qi said absently.
+
+“Unlike you fleshy folks,”— Sixiang grinned —”I am whatever size I need to be at the moment. Don’t sweat the small stuff.”
+
+She gave them an amused look, now seeing a doll-sized apparition perched on her shoulder.
+
+“I don’t want to belong to anyone.”
+
+“You don’t have to.”
+
+“I think Renxiang might have infected me. I don’t mind my duties, not with everything laid out in pen and ink and clear language. I can understand completely what I’m agreeing to.”
+
+“Ling Qi,” Sixiang whined.
+
+She chuckled. “But you can’t make a family or a friend or something more out of a contract, huh?”
+
+“Maybe someone could, but probably not you.”
+
+Ling Qi looked up at the bright, nearly full moon half-hidden behind a ribbon of drifting cloud, and she felt the faint beat of music in her bones.
+
+Whatever end she chose for her fear, the first step was in facing it.
+
+Ling Qi let herself tip forward and fell into her own reflection to the sound of shattering glass.

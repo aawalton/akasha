@@ -1,0 +1,143 @@
+---
+id: a471087e-27ad-5d48-9092-72f95275a224
+page-type-slug: story-chapter-royal-road
+title: "Threads 529-Lakeside 4"
+slug: 0578-threads-529-lakeside-4
+partOf: forge-of-destiny
+position: 578
+ownLength: 2143
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3592064/threads-529-lakeside-4"
+royalRoadId: "3592064"
+---
+
+Ling Qi blinked slowly as she heard a splash and turned to look at Xuan Shi.
+
+His hand tightened around hers as he looked away. She didn't dislike it. She leaned over toward him, her height making her need to go lower to peer under his hat, and smiled teasingly. "Why do you need to remember to take off your coat?"
+
+Xuan Shi looked like he wanted to try to disappear between his collar and the brim of his hat, though he restrained himself. "Mine spirit is merely being… perverse, implying…"
+
+"That you need to, what, flex a little for me?" Ling Qi asked, amused.
+
+He sighed, rapping his staff on the deck. "Indeed."
+
+"It’s a beautiful ship, and a wonderful gift. You don't need to prove anything to me," Ling Qi said simply. "Although, would you help me put the pin in my hair, now that we're here?"
+
+His breath hitched. That was cute.
+
+Then, his expression firmed up. "This one knows no such help is needed. Ling Qi need not. That is, you do not have to…"
+
+"I don't have to," she agreed, gently sliding her hand out of his. She offered the pin to him as she straightened up. "But I want to. It’s beautiful work. I'd like its maker to help me make the best of it. Just the same, you do not have to."
+
+For a long moment, there was only the sound of lake water lapping at the hull, and the soft breeze blowing over the liminal reflection of the lake.
+
+He reached out and carefully plucked the pin from her palm. She smiled, turning away from him, and crouched down a little. Her height would make it difficult otherwise.
+
+It wasn't as if she really perceived him any less well, facing away, but it was still nerve-wracking, waiting for him to act.
+
+Xuan Shi was very careful, sliding one of her other pins out, but he had very steady hands. That wasn’t any surprise, given his skill at formation work. He was a perfect gentleman about it, too. His thumb brushed a loose curl back behind her ear, and she felt the cool glass tines slide in where the previous pin had been removed.
+
+She straightened and reached up, touching the fireglass, fingers tracing over the etching. She had a few hairs out of place now, but that was fine.
+
+"Thank you," she said simply. "How do we get started?"
+
+Xuan Shi nodded too quickly. "Please let this one show the steering array."
+
+"Lead on," Ling Qi said, smiling. She slid her hand into his, and they set off for the rear of the ship.
+
+There was a wheel there, etched with arrays and channels for the one steering to channel their qi through. The ship’s sails creaked, rigging tugged to and fro by the commands sent through the steering arrays. The hull slid through the water, and for a time, they stood in each other’s company like that, him standing at her side, quietly guiding her through the controls as the ship cut graceful circles through the moonlit water.
+
+"Mm, I see another benefit. I can dance through the dream more quickly and with more agility than this ship can sail, but I haven't had to support your presence at all," Ling Qi commented.
+
+Normally, she had to shield those with her to help them not pop like a bubble of soap in the sea of thought and spirit that was the liminal.
+
+"This one will not be a burden on a journey, even if the steps of the dance are too quick for his clumsy feet. The ship's maturity as a talisman is low, yet. No more than two or three passengers would be wise."
+
+"And none in the deeper layers, without my usual precautions," Ling Qi mused. Still, in the shallows like this, the ship would make it much easier to bring guests. Could she bring Mother safely, she wondered?
+
+That was something to ask later. She didn't want to dwell on technical details right now. She released the wheel, stepping back.
+
+"Thank you for showing me the steering, Xuan Shi, but you are the captain today. Will you take us down?"
+
+Xuan Shi nodded, stepping in where she had made room. "As Ling Qi wishes. Down into the depths of the lake?"
+
+She nodded, staying close to his side. She was curious to see how he operated the ship, though that was only part of it. She tentatively laid a hand on his shoulder as he gripped the wheel, and the sails filled with a phantom wind. The rudder groaned as he adjusted that, too.
+
+Then, the world flipped horizontal.
+
+That was what it felt like. It felt less like the ship plunged down into the water and more like the whole plane of what was down shifted ninety degrees. Yet water still sprayed out as the prow of the ship plunged into the icy cold waters.
+
+Ling Qi had gone down into Snowblossom’s waters before. In reality, there was a fairly wide shelf of shallow water at the north and south shore, but toward the center of the lake, the waters plummeted down, down into the dark. There was no such shelf, no layer of dappled sunlight shining through fields of water weeds and darting fish.
+
+The ship descended in an endless field of liquid black, sailing away from the rippling light of the surface behind them. Rays of silvery light filtered down, stretching impossibly into the abyss.
+
+In the dark, vast shapes moved, schools of fish with millions of members and shimmering scales in a hundred muted tones of blue and green and silver. They swam in coordinated curtains that flashed, sharply changing direction as the spreading ripple from the ship reached them. There were water weeds, too. Kilometers-long strands waved in the dim light, rising from the infinite black, brushing briefly past the hull.
+
+And still, down they sailed, the sails as full and billowing as ever. The rigging creaked, even as glimmering bubbles rose from the deck, drifting lazily up to tangle in the ropes. The ship was faster than the fish, and so, when one such wall of scales and swimming bodies came into view ahead, it scattered around their passage.
+
+Countless flashing scales surrounded them, winking in the moonlight, a living tunnel through which they sailed for an achingly beautiful minute. The fish never touched the ship itself, seeming to glide along an envelope of clear space that surrounded it, skipping off like they were touching the surface of the lake, for all that Ling Qi could feel the cold water pressing in on all sides.
+
+Then, down in the dark, there was light. Spires of colorful stone rose out in the distance, each a faint bloom, a splotch of color on a canvas of black. She saw deep dull red, radiant yellow, and pale and pulsing green spires, around which the vast schools teemed and swirled.
+
+"Deep enough. These are good waters. Rich waters." Xuan Shi slowly turned the wheel. "Waters this one could come to love."
+
+"They are beautiful waters, and you will always be welcome in them," Ling Qi promised. She found some of that old anxiety returning, but it was only a small itch at the back of her mind. "I'm as glad to share them as you."
+
+Sometimes, the habitual indirectness of a noble's speech really did help.
+
+The plane of the ship slowly changed, billowing bubbles trailing after the hull as they leveled out with the faintly glowing spires rising from the serene deeps. They cruised at speed, never slowing as the world tilted. In the halo of diffuse yellow light cast by the closest, they sailed, surrounded by only a scattered few fish broken off from the great schools, their scales winking and flashing as they circled the ship.
+
+In them was the faintest mote of Snowblossom's attention. She was more awake and focused than Ling Qi had thought she would be, but Ling Qi was well recognized, and the faint brush of pressure receded as Ling Qi raised her hand, a faint silver light limning her fingers.
+
+She was both recognized and welcomed.
+
+"The slumbering waters wake?" Xuan Shi asked, looking back at her, his grip on the wheel firm.
+
+"No more than you or I might from feeling a breeze through the window. I might need to be more attentive in the times just after we speak, though," Ling Qi replied. "Snowblossom is energetic, as lakes go."
+
+"Lively, this is without doubt." Xuan Shi’s earlier words seemed to have used up some reserve of confidence, leaving him more content to be quiet. Sinuous shapes, hundreds of meters long, rippled through the black waters beneath, barely outlined by the pale light of the pillars. "Rich in life, diverse in its schools."
+
+"She is." Ling Qi remained close to him as she let her hand fall, tentatively returning it to his shoulder. "It's always an experience communing with her. Snowblossom is always excited to create life; it's strange for such a cold lake."
+
+"Deep waters, cold waters, are oft home to strange and terrible things, or beautiful ones, or both. The nature of water is formlessness. And so, creation comes easily to deep waters."
+
+"So I have heard. I suspect the spirit stones nearby are a part of it, or rather, the site we found upriver. Did I ever tell you about that?"
+
+"Miss Li has mentioned it a time or two. An artificial spirit shoal of some kind?"
+
+"Not a bad way to put it. It seems like a cradle and a haven for life, and it was definitely part of something bigger. Old dragon construction, most likely," Ling Qi commented.
+
+"Fascinating. A few such ruins lie embedded in the sea floor beneath where the brothers swim. A few are even at the cores of isles that do not live."
+
+"Oh? Not a closely guarded clan secret?"
+
+"Access, yes. Mere knowledge, no."
+
+They spoke, and they sailed. There weren't any grand declarations or cheek-darkening compliments, but it was comfortable. Contenting. Xuan Shi was simply good company.
+
+They were not going anywhere in particular, and that was fine. The ship carved its way through the waters, cutting a smooth, curving arc between one rising pillar of stone and another. It weaved through them, and glided through schools. Soon, they plunged into what seemed like a veritable forest of kelp, towering stalks that rose far overhead from far below, swaying to the current and the passage of the ship. The kelp whispered along the hull and the envelope of inviolate space that existed around the deck and sails.
+
+Perhaps simply because of their conversation, they were carried into a space closer in conception. As they left the kelp forest, she found herself looking down onto bleached white and yellow bone on a shelf of stone and mud. She saw a draconic skull several times the size of their ship attached to a great ridged spine winding through the mud like a highway of bone.
+
+"It's strange to think sometimes about how much is built on forgotten bones," Ling Qi mused. "Or if not forgotten totally, not much thought of."
+
+"The dead of ten thousand years whisper too quietly for most men to hear, but they are not forgotten." Xuan Shi stared down at the bones in curiosity.
+
+She tilted her head. "Do you want to take a closer look?"
+
+"This is not a voyage for such purposes."
+
+"And if this purpose says it is? Come on, Xuan Shi. Do you think I wouldn't want to sail through the shadow of ancient bones?"
+
+He let out a dry, raspy laugh. It wasn't a sound she'd heard often from him. "As the lady wishes, this humble boatsman shall provide."
+
+"Very good," she said, faux haughtiness in her voice. "Now, do you think the ship will fit through the eye sockets?"
+
+"This one thinks that depends much on us, in these seas."
+
+The ship descended, the last few clinging stalks of kelp snapping off in their wake. The bones only yawned more titanic as they approached them. Xuan Shi was right. It wasn't really the illusion of perspective. Here, in the shallows of the dream, what the dancer and the captain wished to see was as much a factor as anything else.
+
+And it seemed both of them liked the idea of sailing through ancient bones. The bases of the stone pillars could be seen. They poked up through titanic ribs and grew in the curve of the fallen spine. And they were grown. The stone was almost organic, twisted roots poking up to the distant gleaming of silver light above.
+
+They could, in fact, sail on through the eye sockets, the vast curve of the skull like a grand temple from within.

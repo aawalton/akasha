@@ -1,0 +1,157 @@
+---
+id: 85dca3a6-3bef-576d-b259-34f28907f632
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 466-Meng Dan 5"
+slug: 0511-threads-chapter-466-meng-dan-5
+partOf: forge-of-destiny
+position: 511
+ownLength: 1808
+unit: words
+publishedAt: 2025-08-12
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2511178/threads-chapter-466-meng-dan-5"
+royalRoadId: "2511178"
+---
+
+"I want to know how the descendants of Tsu the Diviner, who walked far and spoke to countless peoples, descended into fearful isolationism."
+
+Meng Dan let out a long sigh, pinching his nose between his fingers. "Remind me not to invite you to any kind of symposium in the west. You would have us in a fistfight in minutes."
+
+"Ah, but we would win. Probably." Then, she reconsidered. “As long as the elders were not involved."
+
+"Yes, we've both had quite enough of that."
+
+"Is my request a narrow enough subject though?"
+
+As he considered, Ling Qi turned back to the view of the cloud sea far below them, eyes following the gaps where she could just barely make out smudges of green and brown so many kilometers below.
+
+"Finding any answers to that beyond baseless speculation will be a difficult task, but not one that is beyond me. I accept your challenge, Ling Qi."
+
+She glanced back over her shoulder. "That isn't the point of the request."
+
+"Isn't it?"
+
+She flicked her gaze away from his. There was no getting around that she was not giving an easy task.
+
+"I have something to show you myself,” she enticed. “He’s a historical source you'll enjoy, so don't consider it merely an obligation."
+
+If anyone—other than her—would want to pick at Huisheng's blossom-filled skull, it would be Meng Dan.
+
+His eyes lit up with intrigue. "Oh, now, I am even more curious. As if I needed more motivation."
+
+"I don't settle for minimums. We should probably head back up. I think Sixiang might be in the process of convincing Yinhui to do something unwise."
+
+"I am both intrigued and frightened." Meng Dan laughed, rising from his seat and once again offering her his hand. "Still, we had best nip that in the bud."
+
+"I agree. We have enough on our plates already." She took his hand.
+
+This had been a good end to the day.
+
+***​
+
+Cai Renxiang accepted the bundle of scrolls Ling Qi held out. "I appreciate the prompt return of these reports."
+
+"You knew exactly what you were doing," Ling Qi accused, smiling.
+
+"If personal matters do not interfere with a duty, I see no reason not to allow my subordinates to complete their own tasks while performing mine. I judged the two of you had significant matters to discuss."
+
+Ling Qi rested her face in her hand. "You make it sound so dry. I now have another young man courting me, and it will be in an official capacity soon."
+
+Cai Renxiang studied her, brows drawn together. "You are not as distressed by this as I had assumed. It was my intent that the work task would keep the discussions professional. Was this so?"
+
+Ling Qi slid herself into the seat across from Renxiang. The little office in the Xiangmen manor was practically a copy of the one Renxiang had at the manor in Shenglu, cut down in size. Her friend did not shy from repeating what worked.
+
+"Where it wasn't, we did that on our own after the last show," Ling Qi replied. "N-not that there was anything untoward! We merely went to the hanging gardens afterward to talk."
+
+Cai Renxiang's eyebrows, which had been steadily climbing toward her hairline, ceased their rise. "I see… You have changed."
+
+"I have. I will not run away from romantic entanglements, nor do I need to run away from them." Ling Qi changed the subject. "Enough of that. I'll navigate that matter in the future. How did your engagements go for you?"
+
+She knew Cai Renxiang had spent much of the day at her clan home, that was to say, the ducal palace.
+
+"I did not meet Mother directly today," Cai Renxiang said crisply, letting the previous subject go. She was thankful. Bai Meizhen would surely have grilled her over the topic. "I will do so later in the week, when she observes some of the ceremony rehearsals. Although…"
+
+Now it was her turn to raise an eyebrow, Renxiang didn't usually hesitate like that. "Although what?"
+
+"It seems we may have related troubles for once."
+
+She blinked, parsing that statement. "You mean…?"
+
+"It seems my own betrothal is to be announced at the tail end of these proceedings. The empress must require further assurances of Mother's allegiance, given the establishment of the Bai alliance."
+
+And given that the empress had deigned to attend, even if through a simulacrum…
+
+"I know the princes are already wed. A grandchild, then?"
+
+"Great-grandchild or a grand nephew. I know no more than that yet. Even now, there are some final discussions."
+
+"Which do not include you?"
+
+"Why would they? It is not as if my opinion would have any effect on Mother's decision."
+
+Ling Qi winced. Renxiang’s statement was so matter-of-fact, it was evident that she wasn't even bitter. To Renxiang, that statement was no different than commenting on the color of Xiangmen's leaves.
+
+"Overall, I believe it is a positive development. My time will be further divided by the requirements of a betrothal, but ultimately, this can only be seen as a sign of favor from Mother. This should benefit us greatly," Cai Renxiang concluded. "However, we will need to take into account that my fiancé will be observing us for the benefit of the throne."
+
+"I hope they are someone you will get along well with, Renxiang."
+
+Her liege looked up from her desk, and this time, Ling Qi caught the faintest flicker of disquiet. "I, as well. It would be troublesome otherwise."
+
+Ling Qi let those words fade into silence.
+
+She did not know what she would do if she were in Renxiang's position, but she knew she would not be half so calm or accepting of it. Even with her resolution she had found in the nightmare, the thought of a decision being wholly out of her hands turned her stomach. Then again, Renxiang had told her before her opinions on marriage. To Renxiang, marriage was a contract, no different than any business matter or alliance, save in the details and the length of the term.Back then, she hadn't really believed those were Renxiang's real thoughts. It was simply too different and alien from her own view, stripped of the fears that gnawed at her heels. Now, Ling Qi could tell that her friend was anxious, but it wasn't about the same issues Ling Qi would be anxious about.
+
+Honestly, these eyes she'd cultivated made the world seem so strange sometimes. No wonder most people had such trouble accepting that other people could be so different from themselves.
+
+"Well, I know you'll handle any wrinkles that will add to our plans, and I will be here should you ever require my words or advice," Ling Qi supported.
+
+"It is appreciated. I have concerns, but the more stringent requirements of matrimony are some years off yet. A child of the imperial seat will be prepared for this betrothal. It is the purpose most are borne for."
+
+Ling Qi considered that. The imperial house needed to maintain connections with every ducal clan, their own comital clans in the Celestial Peaks, and even amongst their own branches. Marrying out, marrying in…
+
+She sighed. She'd not thought she would ever feel pity for royalty, and promptly resolved to bury that feeling well and deep. It would hardly be appreciated.
+
+"My congratulations. I assume I should keep this news to myself?"
+
+"Yes."
+
+Ling Qi studied her friend, searching for any sign of distress or even anger that her mind insisted that there must be, hidden behind a well crafted facade. If it was there, it lay even deeper than her eyes could see.
+
+Renxiang shuffled the scrolls Ling Qi had given her aside, either unaware or uncaring of Ling Qi's search. Then, she tapped the desk once, bringing a fresh trio of neatly stacked scrolls out of storage, along with a plain, but well polished, coffer, which she pushed across the desk toward Ling Qi.
+
+Ling Qi reached for the scrolls and coffer reflexively. The faint waft of pure, neutral qi just barely radiated through the shielding layer of jade dust set into the security formations on the container. "Ah, my stipend?"
+
+"Yes, among other things," Cai Renxiang said. "While I will continue ordering your general cultivation regime pills and elixirs from the Cai clan’s stocks, you will have enough funding to invest in more artisanally crafted cultivation boosters."
+
+Ling Qi cracked open the top scroll, her eyebrows climbing as she saw some of the numbers there.
+
+"I have also included a significant rebate toward the funds you put toward Shenglu's initial development."
+
+Mother might choke on her tongue, when she saw these numbers. Ling Qi would need to figure out how to gently break the news to her. Frankly, the numbers were so large, Ling Qi had no idea what she was even going to do with them.
+
+Cai Renxiang anticipated her thoughts. "In the other scrolls, I have included a number of suggested investments. You need not follow my suggestions, but putting some amount into investments would be wise. Money, like cultivation, does little good when it is lying still."
+
+She grimaced. This really wasn;t in her field of expertise.
+
+"You may, of course, delegate as much or as little as you like. Madame Ling has a clear head for finances in my judgement, given her cultivation."
+
+Now, she was just being made fun of. She could tell. She insisted, "I can certainly think of a few projects to spend on."
+
+"Such as?"
+
+"The salt grotto up on the plateau,” she answered. “It’s too far away for Shenglu to work on yet, but it is an excellent site for my cultivation. Assuming, of course, that I have my lady’s guarantee that it will be part of the eventual Ling clan lands."
+
+"I see. For your leal service, I will gladly make this guarantee," Cai Renxiang replied, with only a small hint of an unserious drawl.
+
+She stared at Ling Qi. Ling Qi stared back.
+
+"I have many thoughts!” Ling Qi insisted. “I just need to determine which are worthy of speaking."
+
+"Of course. Until then, consider my suggestions, and perhaps make the materials available to Madame Ling. You may want to make some arrangements in your time here in Xiangmen. Investments in the capital are valuable."
+
+"I am thankful, Renxiang,” she said gratefully. “I know I've not had the time to learn much of finances, so I appreciate your consideration and efforts."
+
+"You have been focused on other fields. Despite my tone, this is no jest. It is important to shore up the foundations of your house. A clan cannot coast on the heavenly fortune of its founder forever."
+
+That was even more true of the Cai.
+
+"Of course. Thank you again, Lady Cai. I will look into these carefully."

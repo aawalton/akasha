@@ -1,0 +1,153 @@
+---
+id: 7754308f-3977-5474-bf27-9a1edc9ef991
+page-type-slug: story-chapter-royal-road
+title: "Threads 493 Reception 2"
+slug: 0539-threads-493-reception-2
+partOf: forge-of-destiny
+position: 539
+ownLength: 2093
+unit: words
+publishedAt: 2026-01-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2947490/threads-493-reception-2"
+royalRoadId: "2947490"
+---
+
+"Touring all of the temples to give and receive blessings from the smaller gods of the city." Meng Dan sighed. "We will need drinking capacity for that as well."
+
+"You are the last person to need to worry about that," Ling Qi accused.
+
+"Oh, some of the temple liquors hit quite hard."
+
+"Coming from you, that’s frightening!"
+
+"I shall trust all of my companions to be temperate," Gan Guangli intoned. "That said, if I may ask, Sir Mu, when you say you are to come south, do you mean to Xiangmen, or to our little outpost in the south?"
+
+Ling Qi didn't quite know what they would do, if they did go to Shenglu. Accommodating an imperial grandchild, even one willing to to deal with austere conditions, would be quite difficult, given the state of development thus far.
+
+"That is under debate. I believe the wilderness may be helpful in polishing away the imperfections in my cultivation, but there is some resistance." Mu Wuye sounded genuinely unhappy. "I will likely house myself at the Argent Peak Sect until those in my guard can survey the security at your settlement."
+
+"Well, you will be most welcome!" Gan Guangli invited.
+
+"I have heard good things about my fiancée's dedication to drill and proper form, so I shall look forward to seeing those abilities in the field," Mu Wuye praised.
+
+"There is little immediate danger in Shenglu. Most is contained easily by my house guard and the soldiers drawn in by land grants. That said, given the upcoming offensive, we do drill often. You will be impressed."
+
+Mu Wuye raised an eyebrow. "I do not doubt you. Perhaps I shall have the opportunity to test the saber style of the Cai?"
+
+A hint of actual energy was rising in the back of their voice.
+
+"I do not see why not." Cai Renxiang had caught it, too, and seemed bemused.
+
+Ling Qi wondered as Mu Wuye seemed to catch themself, drawing back and resetting their expression to a more neutral one.
+
+"What style do you practice, Mu Wuye?" Ling Qi asked. "From your bearing and rank, I'd surmise a straight sword style."
+
+"An easy guess. I eschew the more exotic blades that are currently in fashion in some circles. There is a simple elegance to the jian that is lacking in attempts to add fripperies and extravagance to its shape. My uncle and teacher prefer the hand-and-half variant, which is a much more reasonable alteration, but I myself prefer the single-handed, two-edged blade," Mu Wuye answered. "It is the blade of duelists and champions for good reason."
+
+"I have little experience with swordsmanship, beyond the basics," Ling Qi confessed.
+
+"A sword is a weapon of precision, whereas heavy arms such as mine are a soldier's tool to break apart formations. The sword is what comes after, to pick apart those who remain and clash with command," Xia Lin explained.
+
+Mu Wuye nodded fervently. "The sword is excellently designed to maximize one's options in close combat. Larger swords are more akin to polearms in that their greater length is more a tool of area denial than anything else. While reach has its advantages, proper footwork can negate this and turn it into a disadvantage, and this is not even considering the conceptual advantages which an orthodox swordsman has in single combat."
+
+"Ah, this is the famed 'Way of Cutting'?" Gan Guangli wondered. "Or sword qi, as some call it. The razor focus on a tool which has such a singular purpose grants a purity of intent that can be lacking in more esoteric ways at lower realms."
+
+"That is a surface-level analysis of the advantages of swordsmanship," Mu Wuye contended. "To answer the first question, I practice the orthodox style of the Mu, the Pale Night's Whisper, which was originally refined by our founder in her study under our great ancestor, the Herald of Endings." They fixed her with a look. "That resonation is what you doubtlessly sensed. I admit, I did not notice your own inclination until I peered closer."
+
+Sixiang giggled in her head.
+
+Ling Qi carefully quashed any reaction but a pleasant smile. "It is one thing to hear of the imperial family's storied heritage, but another to feel it in person."
+
+They gave a small nod of acknowledgement, showing no sign that her answer was not accepted. "Yes, it finds its strength in its meditation on the eternal moment that borders on which all turns, between past and future, between life and death. In every moment, there are countless endings in the world. By divining these and understanding them, one may achieve the perfect cut that cannot be denied."
+
+Ling Qi nodded, the chagrin and slight guilt for her prying replaced with curiosity. "I see. Yes, that conception of ending is doubtlessly potent for a sword style. My meditations are more about the cyclic nature of endings. As you say, there are always new endings passing in the world around us, but in passing, the old becomes the new, the material from which the future is made. Even those which seem like a great ending to human eyes, such as the drying of rivers or the crumbling of mountains, are only steps, just the same as the small endings which pass us day by day."
+
+"My meditations do not focus on the before and after, but your words sound similar to those I have shared with my cousins who have chosen less martial paths. Given your background, I must commend you for finding such parallels entirely alone," Mu Wuye said.
+
+Ling Qi took in the bemused reactions of her friends and smiled. "I have had my teachers, but it is not easy to follow. The imperial family has surely reached far more impressive heights than my small musings."
+
+"It is so, but talent and merit know no blood. Climb, and you will do the empire proud in its support for your path."
+
+A little condescending, but also, not wrong. The great sect system was the only reason she had a fraction of the opportunities she had seized.
+
+"I am at least academically familiar with the style, even if I have never seen a practitioner in person," Cai Renxiang interceded. "On a physical level, I would imagine it to be a swift striking style that eschews parries and direct guards, favoring deflection and avoidance."
+
+"Those are the principles of the mortal kata. Receiving blows puts the student in the wrong mindset; a proper master of the style is simply never struck because there is nothing to strike. As ephemeral as the pall of the reaper, they cannot be harmed by fleeting things. Parries are a point of debate in the style. I would say it is clinches that are disfavored, but a swift movement, a deflection, as you say, is within the style's remit. The purpose is to instill in the student an aversion to stillness in battle. One should only be still when the cutting is done, and your foes are at your feet."
+
+"I find a focus on motion familiar, though mine is more forceful. Advancement is crucial. One should not be still, but moving forward, seizing initiative, breaking obstacles, and achieving objectives."
+
+"That does resemble the direct recordings of the Cai style developed by your mother. I should be interested to know its inspirations, but I know such are likely secrets."
+
+After a short pause, Cai Renxiang responded. "It is tied into the progression of time, the contemplation of how the now becomes the future: inspiration to theory, theory to action, action to change, and change to victory."
+
+Mu Wuye rubbed their chin thoughtfully, eyes distant and considering. "Heavily based in heavenly energies, then? I would have guessed more mountain, or your clan’s light element, just from the description of the effect."
+
+"There is an element of light's order, but it primarily meditates upon heaven."
+
+"It is easy to forget that heaven is not merely sparks and lightning, but the rush of inspiration, thought, and the drive to action which makes up the most yang of elements," Gan Guangli offered, but he seemed mystified by the direction of the conversation.
+
+Mu Wuye nodded. "Indeed. Well, I shall look forward to the clash of the moment and your progress. Perhaps we shall both gain insights, if you should indulge me. How the concepts interact will be interesting."
+
+"Very rudely, in my experience," Ling Qi joked.
+
+The problem with her notions of cyclic ending and their interaction with Cai Renxiang's sword arts was… Her Frozen Soul made its statement, and Cai Renxiang's met it with something akin to a “Yes. And?” before running her over, unless she'd had time to build toward more of a crescendo.
+
+Cai Renxiang shot her an amused look. "I do not doubt that we may find a moment to do so in these coming months. All you are dismissed for now. Enjoy the celebration. Mu Wuye, would you accompany me as I make further greetings?"
+
+"Of course, Cai Renxiang. It has been pleasant meeting you all. Fare well for this evening."
+
+They echoed the farewells, made their bows, and parted ways as their liege and her betrothed moved away to give greetings and receive congratulations from others among the Cai's vassals.
+
+"If I might request Lady Ling to accompany me?" Meng Dan offered his hand.
+
+"I shall grant it," Ling Qi accepted. If she took a slightly deeper breath before she took it, there was none to notice.
+
+"I noticed."
+
+"I. Notice! Gloves?"
+
+Sixiang and Qiyi didn't count. And no, she didn't need gloves.
+
+"Ah, I suppose we should mind our own business then." Gan Guangli laughed.
+
+"I have no intention of accompanying you. Face your own battles with bravery, Gan Guangli," Xia Lin said dryly.
+
+What did she mean? … Oh. Hrm. There really were quite a number of eyes on Gan, weren't there? Hawkish and sharp, they peered from behind fluttering fans or veils like the eyes of falcons on juicy prey.
+
+"It is painfully difficult to give rejections without offending the heart or the head. However, a man must undergo many trials." Gan Guangli heaved a sigh. "At least wish me good fortune?"
+
+"Good fortune, comrade."
+
+And there Xia Lin went, beelining for the refreshment tables. Sometimes, she envied the other girl’s capacity for bluntness, piercing through to her goals without remorse or mercy.
+
+"Good fortune, my friend," Meng Dan repeated. "I hope the advice we spoke of before helps."
+
+"I am sure it will, Sir Meng!" Gan Guangli tapped his fist against his chest in salute.
+
+"What's this?" Ling Qi asked rhetorically. "Are you so skilled in these arts, Meng Dan?"
+
+He smiled under her flat and unimpressed look until she broke into a grin, too.
+
+"Only insofar as any young gentleman's education goes."
+
+She scrutinized him a moment longer before nodding imperiously. "Very well. Good luck, Gan Guangli."
+
+They parted ways, and Ling Qi noticed that their pair had attention as well, albeit mostly subtle. "Is it well to do this before you announce your intentions?" Ling Qi asked under her breath.
+
+"So long as we stay well in public, I should think so," Meng Dan replied. "There will be many such announcements on the temple tour. The Meng clan shall do so tomorrow, and I would expect the Elder Xuans to deliver theirs as well."
+
+At such a large wedding of course, many of the attendants would be announcing their own plans. It was only natural to ride the high of good fortune that way. Still, it was daunting to her. The Bao might well make their offer public, too, if they'd caught wind of the Meng or Xuan’s plans.
+
+The idea of so many suits from such high ranking clans still felt utterly ridiculous. She was no princess or heiress to be earning such attention. Certainly, she was a clan head, but only in the most technical sense.
+
+"Oi, quit that! If you don't, I'm gonna collaborate with Hanyi on some of her ideas!"
+
+She scoffed under her breath.
+
+Meng Dan tilted his head curiously. "Still uncomfortable with the notion?"
+
+"A bit." Ling Qi tightened her grip on his hand. It was quite warm. "Nevermind that. What did you have in mind?"
+
+"I had considered introductions to a few in my circle to begin tying our networks together, but I have elected to be a bit bold. Dances are not in the style of the imperial court, but…"
+
+"The Emerald Seas has its own traditions," Ling Qi finished. "... I don't object."

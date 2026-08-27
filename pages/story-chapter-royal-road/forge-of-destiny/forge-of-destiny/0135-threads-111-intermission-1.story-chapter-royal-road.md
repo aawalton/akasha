@@ -1,0 +1,223 @@
+---
+id: 84e4fbf5-41f4-54cb-8eb1-fe4eb22da4d6
+page-type-slug: story-chapter-royal-road
+title: "Threads 111-Intermission 1"
+slug: 0135-threads-111-intermission-1
+partOf: forge-of-destiny
+position: 135
+ownLength: 2878
+unit: words
+publishedAt: 2021-07-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/722349/threads-111-intermission-1"
+royalRoadId: "722349"
+---
+
+“Hoh, and what happened next?” Bao Qian asked distractedly.
+
+“After Senior Brother Liao helped to finish things, he was able to lead us to the Commander and then out of the Dream through a relatively safe exit,” Ling Qi continued. Seated on a fence post, she idly kicked her legs back and forth. It felt good to move again.
+
+Bao Qian squinted up at the axle of his wagon. He crouched, holding the vehicle up at an angle over his head. “You came out in the underground still, I assume? I heard that the attack was repulsed, but I suppose it must have still been ongoing.”
+
+Ling Qi thought back to their emergence into those dark tunnels and the twisted shapes of shishigui monsters clogging the earth with rotting liquid flesh. Commander Guan Zhi had carved them a path to safety with her fists alone once they had returned to the material world. “It seems that the shishigui realized that there wasn’t a full attack ongoing by that point, so they retreated, leaving those constructs of theirs behind to block the path.”
+
+Bao Qian nodded, carefully maneuvering the ink brush in his other hand to fix a worn stroke in a formation character. “But their original reaction was quite telling?”
+
+Ling Qi thought about their debriefing. Elder Jiao had been deeply irritated for all that he had only let it show for a moment. He had picked apart their reports in a matter of moments, and the picture he painted with them was worrying. “They were expecting a heavy reprisal, and their mobilization was impressive. It seems that space manipulation techniques cannot be relied upon in areas under their control either.”
+
+Bao Qian set down his wagon with a shuddering thud. Standing, he twirled his ink brush between his fingers, dismissing it back to his ring. “Not an easy enemy, hm?”
+
+Ling Qi remembered the sour looks on the faces of the army officers and core disciples present at the debriefing when the truth had become clear. The shishigui were a sophisticated enemy, one which would respond in a swift and organized fashion to any probes or attacks. “Of course. I bet you already knew that.”
+
+Bao Qian gave her a wry look. “One tribe or kingdom of foreigners is not the same as another. It would do many of us well not to assume such things.”
+
+Ling Qi huffed. “They’re not just barbarians. They’re monsters.”
+
+“There are many monsters in the world,” Bao Qian said agreeably, dusting off his knees. “In any case, congratulations are in order. Your contributions were truly superb, or so I have heard.”
+
+“You wouldn’t know it, looking at the rankings,” Ling Qi complained a little irritably.
+
+“Petulence does not suit you, Miss Ling.” Bao Qian chuckled. “I think you are underestimating your gains. You salvaged a truly unforeseeable situation. I would expect that to be a consideration in the future as well.”
+
+Ling Qi knew that. She had discussed it with Cai Renxiang too. It was likely that her gains in coming months would receive a subtle bump as well, assuming she continued to contribute to the Sect’s war efforts.
+
+With the start of the new month, the ninth month, she had made a significant jump in rankings. A jump from rank 730 to rank 705 had moved her into the next tier of rewards from the Sect, enabling her to take intermediate lessons from the elders, assuming they were still happening. She was just frustrated at being stuck on the edge. If she had made it under rank 700, she could have gotten another green stone in her monthly distribution from the Sect, and she could have moved to a residence with a greater argent vent.
+
+The rest of the team had been similarly rewarded, aside from Liao Zhu, who maintained his rank 2. As for Su Ling, she could no longer avoid the Inner Sect even if she wanted to. The Sect had promoted Su Ling into the Inner Sect at rank 800, skipping her past the tournament qualifications entirely.
+
+“But I doubt you are here to fish for praise, unless my impression of you is wholly mistaken?” Bao Qian asked.
+
+“Not this time,” Ling Qi shot back with a touch of humor. “I’m here for business.”
+
+“You should not so easily speak such alluring words,” Bao Qian joked. Flicking his wrist, a small pouch that bulged with stones appeared in his hand.
+
+Ling Qi reached out, allowing him to press it into her hand. She tugged at the drawstring, peering inside. “Not bad at all,” she said. There were five green stones and eighty yellow ones inside. That was enough to fuel most of her cultivation needs for a month.
+
+“I am pleased by your praise, but I assure you this is not my limit,” Bao Qian replied, puffing out his chest. “Once the material has proven itself, demand will rise, and with it, our profit margin.”
+
+“I’ll pretend I know what that means,” Ling Qi said facetiously.
+
+<Isn’t someone in a good mood?> Sixiang chuckled sleepily in her head. The muse was still lethargic after their escapades.
+
+More cultivation resources always put her in a good mood. It would be much easier to maintain her pace with this boost of income. “And how are things on Hanyi’s end?” Ling Qi asked, vanishing the pouch.
+
+“I admit some difficulty there,” Bao Qian said. “I believe I may have a lead on a promotion venue in the near future. Please have the young miss continue filling out her repertoire.”
+
+“She’s been surprisingly on task, so that should not be hard,” Ling Qi commented. She stretched her arms overhead and winced. There was still a painful twinge in her spine. Xin had done… something, but she would still be feeling her wound for the rest of the week.
+
+Bao Qian nodded agreeably. She could see in his eyes that he had seen her wince, but he hadn’t said anything. “Good to hear. Did you need anything else, Miss Ling? I might be able to spare the time for an outing if you are interested.”
+
+“Not just this moment,” Ling Qi said a little too quickly. “I have a meeting at my home. My family's security needs to be improved.”
+
+“Understandable,” Bao Qian replied, although he looked disappointed. Ling Qi wasn’t quite sure how to feel about that. “If you will excuse me, Miss Ling…”
+
+“Wait a moment,” Ling Qi said as he began to turn away. “I did have one other question.”
+
+Bao Qian turned back, one eyebrow raised. “What has captured your interest, Miss Ling?”
+
+“Where would I look to investigate disputes between the Bao and the Luo clans?”
+
+Bao Qian stared at her for a moment and then let out a laugh. “I wonder if I should feel hopeful,” he said, and she flushed. “It might be best to study Emperor Si’s reign. There were a number of land disputes at that time.”
+
+“Thank you,” Ling Qi replied, bowing her head as she slid down from the fence post.
+
+“It is no trouble. Good day, Miss Ling.”
+
+***
+
+When Ling Qi alighted in the garden of her mother’s home, Zhengui was there where she had left him. It had been a strange request, but he had gotten so much better at limiting his size, so she had seen no trouble with letting him idle in the garden.
+
+Zhengui stood by the clear garden pond at only a meter and a half long, not including his serpentine half. He almost looked like an exquisitely carved and painted garden statue. If he hadn’t been moving, anyway
+
+One of the house servants, a younger one only a few years Ling Qi’s senior, crouched nearby with a basket of berries. Gui was eating out of her hand. She startled when Ling Qi landed, shooting to her feet. Only Ling Qi’s steadying hand stopped her from tripping into the garden pond.
+
+“Careful, there,” Ling Qi said, amused.
+
+“I am sorry, Lady Ling,” the young lady replied, bowing profusely the moment she had regained her balance. The girl was clearly nervous, but at least she wasn’t afraid, so Ling Qi had made some progress with her household. “Please forgive this humble servant’s lack of attention.”
+
+“No, I should have announced myself,” Ling Qi dismissed. “Thank you for seeing to Zhengui.”
+
+“It was my honor, Lady Ling,” the gardener said, bowing again. “I will inform Madam Ling that you have arrived.”
+
+Ling Qi nodded absently as the girl hurried off and looked down at Zhengui. “Have you enjoyed your chance to rest, little brother?”
+
+Zhen and Gui both peered up at her, but it was Gui who responded. “Gui is feeling fine.”
+
+“But is Big Sister?” Zhen asked, examining her carefully.
+
+Ling Qi crouched down next to him and ran her fingers over the serpent’s brow ridges. “I’m fine. Thanks to you, I just need a little more rest.”
+
+“Zhengui did not do much,” they both replied, and Ling Qi frowned at the synchronicity.
+
+Ling Qi examined him, and her frown only deepened. He had not come out of that battle unmarked. Even with his prodigious vitality, scars remained. Her eyes marked every chipped spike on his shell, every scratch on his scales. There was a line just above Zhen’s right eye and a spiralling scar on his left foreleg where a ribbon had curled, trying to tear his leg from under him. Those were only the most prominent marks.
+
+“You did very well, Zhengui. You protected me, and I’m proud of you,” Ling Qi said.
+
+Both of his gazes looked away. She could tell he couldn’t quite believe it. She could also tell that pushing the matter would only be detrimental at the moment. She had gotten better at that.
+
+“It looks like you were enjoying yourself,” Ling Qi said, bypassing the subject. “Did you like those berries?”
+
+“Li-Li is a nice human,” Gui rumbled. “The treats were empty, but they were still tasty.”
+
+“Li-Li?” Ling Qi asked, raising an eyebrow. That was a child's nickname.
+
+“Mm, the older human called her that, and she does not have a Name,” Gui agreed.
+
+She was probably a younger relative of the main gardener then.
+
+“The not-family makes offerings. This is proper,” Zhen said. “See, Big Sister? I, Zhen, have been given a shrine.”
+
+“It’s our shrine,” Gui complained.
+
+Ling Qi blinked, bemused, and followed Zhen’s gaze. Only then did she see it. There, toward the back of the garden, was a little building. It was a small shed with folding doors and a little altar and incense burner inside. She was aware of it, there were representations of some common and local spirits inside. Looking again though, among their representations was a wooden carving of Zhengui placed among the others. It was brightly painted, if a little crudely made.
+
+“Congratulations,” Ling Qi said after a moment. It made her feel odd to see her little brother represented as an object of worship. “You’ll have to make sure the garden blooms well then.”
+
+“Obviously,” Zhen hissed, some of his pride returning.
+
+Ling Qi couldn’t help but laugh. Her little brother, a house deity. “I’ll be relying on you then,” she said.
+
+“Yes,” Zhengui agreed, once more in sync.
+
+Ling Qi hummed to herself, resting a hand on his shell. It was warm and rough. “Xuan Shi will be coming soon.”
+
+“Zhengui knows,” he replied tightly.
+
+“You’ve never explained. Why do you dislike him so much?” Ling Qi asked.
+
+“Fish—Seaseeker is not family. Big Sister is family,” Zhen muttered, petulant. “He is greedy and wants things that are not his.”
+
+“Gui does not like how he smells,” Gui grumbled. “But Gui will try to be polite.”
+
+Ling Qi hummed to herself. “That’s all I can ask. He’s going to help protect my mother and sister.”
+
+“Zhengui knows,” he said grudgingly. “Can we stay in the garden?”
+
+“You can,” Ling Qi said. “But make sure to let the gardeners work, okay?”
+
+“Yes, Big Sister,” they chorused, and she stood. Her mother was waiting for her on the porch.
+
+<What do you think, Sixiang?> Ling Qi thought.
+
+<I think that the Little Big Guy is territorial, more than anything. Something to do with how Xuan Shi is a xuan wu but not?> Sixiang murmured sleepily.
+
+Ling Qi mounted the porch. “Mother,” she greeted, bobbing her head to the older woman.
+
+“Ling Qi,” Ling Qingge replied. She was looking stressed. “Are you sure you are quite well?”
+
+“I am, Mother,” Ling Qi replied. They had already talked after her return. She was to take it easy for a week or so, but thanks to Sixiang, she had not been in any serious danger. “And I apologize for the suddenness of our guest’s arrival.
+
+After witnessing the forces arrayed under the earth, Ling Qi had been eager to get more protections in place. Quickly.
+
+“I understand,” Ling Qingge said. Ling Qi had not shared the details, but her mother knew she was worried about the danger. “Still, a guest of this rank…”
+
+“Xuan Shi is only visiting to do a favor for me. It is hardly a state visit, Mother,” Ling Qi replied wryly as they entered the house.
+
+Ling Qingge shot her a dubious look, as if to say “that does not make it better.”
+
+Ling Qi could understand, but this was Xuan Shi, even if he was from a ducal family.
+
+They arrived at the entrance of the house only shortly before the doorman’s voice called out. “Announcing, Sir Xuan Shi!”
+
+He was looking a little worse for wear, if Ling Qi was honest. His dark robes had been replaced by one in a lighter shade of green, and his left arm was still in a sling cradled against his chest. Ling Qi did not let her eyes linger on his temporary infirmity. It would be rude. Instead, as she stepped inside, she clasped her hands and bowed.
+
+“Thank you very much for accepting my invitation,” she said formally.
+
+“Please be welcome in our humble home, Sir Xuan,” her mother intoned, bowing lower still. “I hope that our simple offerings are sufficient for your needs.”
+
+Xuan Shi gave a smaller bow in return. “This one is honored to receive your invitation, Lady Ling. Your welcome is more than sufficient, Madam Ling.”
+
+“You are too kind, Sir Xuan,” her mother replied. “Please enter and make yourself comfortable. I hope that my daughter has not troubled you overmuch.”
+
+“Thy daughter is a most impressive young woman. This one is not troubled by assisting her at all,” Xuan Shi said earnestly.
+
+Mother shot her a look out of the corner of her eye, and Ling Qi held in a sigh. Xuan Shi’s formality was giving her the wrong ideas. “I believe you prepared some refreshments, Mother?” Ling Qi asked. “Shall we see to our guest and discuss business then?”
+
+Her mother was still giving her that look. “Yes, let us do so. Sir Xuan, if you would?”
+
+He nodded easily, moving to follow them a pace behind as they headed to the dining room. “Miss Ling, may this one ask what manner of fortification is in your thoughts?”
+
+“My friend, Li Suyin, has already done a great deal of work on the house,” Ling Qi began.
+
+“The sculptor of bone?” Xuan Shi asked in clarification, glancing around at the halls. “Her skill has bloomed.”
+
+Ling Qi nodded, pleased at the observation. “Yes, Li Suyin did very good work. But there is something that I think only your expertise at barriers can accomplish.”
+
+They entered the dining room then. The table had been set with refreshments, and one of the house servants stood nearby to serve. The girl looked ready to faint. Xuan Shi’s gaze swept over her without pause though, only briefly stopping on the table settings before returning to the walls where Li Suyin’s work was concentrated. “A shell vault, I assume?”
+
+“I am not familiar with the term, Sir Xuan,” Ling Qingge asked after the beat of silence that followed. It saved Ling Qi from having to ask the same question, though she had an inkling.
+
+Xuan Shi paused. “Apologies. A chamber to shelter the vulnerable when the isle goes to war.”
+
+“Yes, that,” Ling Qi said easily as they were seated. “Li Suyin designed something of the sort already, but I don’t want to spare any expense. I want the best protection possible for my family.”
+
+Briefly, her mother looked troubled, but she didn’t gainsay Ling Qi. She wouldn’t do so in front of a guest.
+
+“It would be wrong to say that mine skills are ‘the best’ when so many masters stand ready within the Sect, but thy compliment is accepted,” Xuan Shi said slowly. “However, this one’s work will be… impeded by injury.”
+
+“I will be happy to assist with the work. It’s not as if I can cultivate easily at the moment,” she said, keeping the frustration she felt about that out of her voice.
+
+“That would be most welcome, Miss Ling,” Xuan Shi said.
+
+“I look forward to seeing your work, Sir Xuan,” Ling Qingge said demurely. “But please, let us offer our hospitality first.”
+
+“Of course, Madam Ling,” Xuan Shi said respectfully, dipping his head.

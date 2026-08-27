@@ -1,0 +1,205 @@
+---
+id: ccfe0650-9ae3-5389-a064-c6868515184d
+page-type-slug: story-chapter-royal-road
+title: "Threads 34 Peers 2"
+slug: 0045-threads-34-peers-2
+partOf: forge-of-destiny
+position: 45
+ownLength: 3558
+unit: words
+publishedAt: 2021-01-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/612120/threads-34-peers-2"
+royalRoadId: "612120"
+---
+
+Ling Qi found her liege surrounded by a small gaggle of disciples.
+
+Among them was Bian Ya, her one-time tutor. She wore a clinging, two-layered gown of shimmering green and white, and her hair was put up in a complex arrangement, woven through combs and flowers. Bian Ya still felt like a light spring breeze blowing through a field of fragrant flowers to Ling Qi’s senses.
+
+There was another boy who caught her eye with his cultivation. Leanly built with rough features and darker skin and a faintly wolfish air about him, he stood with confident ease beside Bian Ya. He wore a charcoal grey robe with white hems marked by simple geometric patterns in threads of gold. His spirit felt like a clear night sky on a moonless night, but the faint scent of blood seeped beneath it like passing by the door to a butchery.
+
+There was a third as well, a whip-thin boy in dark green robes with a tall black cap. He had pale, handsome features with a touch of the feminine about them. For a brief moment, he reminded her of the prince from that terrible dream. He stood quietly with a cup in his hand off to one side, his half-lidded gaze sharp and inquisitive. His cultivation felt like an old and weatherbeaten willow tree rising from the bubbling muck of a reed-choked riverbank.
+
+There were other disciples, but they were equals or lessers in cultivation that hardly drew Ling Qi’s eye as she sidled into the loose group that surrounded her liege.
+
+“It is true that the Cloud Tribes have grown withdrawn in the past decade. However, I would caution against the belief that this makes them a spent force,” Ling Qi heard her liege say as she tuned in to the conversation, shuffling the other background noise out of her attention for Sixiang to peruse later.
+
+“It would seem less than optimal to overestimate them as well,” the boy Cai Renxiang was conversing with pointed out in a cautious voice. He was short and wide of build with the beginning of a mustache dusting his upper lip. There was no kind way to say it, but he reminded her of Fan Yu as his spirit spoke of a boulder rumbling downhill, growing and picking up debris. “If left to their own devices, they will only return to raid another year.”
+
+“Confronting a beast in its own den is a wholly different affair than defending your pens, Sir Wang,” the rougher of the two boys she had taken notice of said in a dry voice. She did not miss the faintly disrespectful twist his tongue gave to the word “sir” however. “One need be prepared to hold the den, else the cost of the taking be wasted when a new beast moves in. It is not as if there are any limits to the number of tribes lurking in the mountains. Turn over a rock, and five more will burst forth.”
+
+Wang shot him a venomous look, but it was Cai Renxiang who spoke. “Sir Luo’s words are not without merit,” she said smoothly. “Mother’s opinion remains that consolidation of our current territories is to remain the priority. While I laud your family’s zeal for enriching the Empire and our humble province, I will have to ask that you convey my Mother’s words of patience to your elders.”
+
+“Of course, Lady Cai,” the apparent Wang scion said, dipping a bow. “I simply wished to present certain ideas for your consideration.”
+
+Cai Renxiang gave a small nod before her eyes flicked over to where Ling Qi stood behind the main circle. “Ling Qi, has some concern arisen?”
+
+“Not at all, Lady Cai,” Ling Qi replied, clasping her hands in front of her chest and bowing toward the assembled nobles. “With some small time free, I simply thought to observe the discussions of my fellows from our fair province.” Spirits, talking like this made her feel silly.
+
+“Hoh, and here I thought foreigners your sole realm of interest,” the effeminate boy said in a silky voice. “Was that not what our Lady procured your services for?”
+
+“I have retained Ling Qi’s services for a number of reasons,” Cai Renxiang interjected, heading off the conversation. “ You are welcome to spend your respite from your duties observing, of course.”
+
+“Thank you very much, Lady Cai,” Ling Qi said simply. “While I know Miss Bian already, may I humbly request the rest of your names?”
+
+They answered, some more reluctantly than others. The lean and wolfish boy was Luo Zhong, and the effeminate one Meng De, members of the eastern and western count families. Aside from Wang Chao, the rest were a scatter of viscount and baron family scions from all around Emerald Seas.
+
+As the last of the introductions died down, Bian Ya shot her a smile. “I have to say. Miss Ling, your talents are truly admirable. I have found myself impressed in both of your challenges thus far.”
+
+“I would caution Miss Ling to control herself better in the future,” Meng De said quietly. “The final showing in her duel exceeded good taste.”
+
+“Quite right,” Wang Chao said, shaking his head. “I cannot speak against your musical talents, but that part at the end of the duel was a bit vicious to use on a countryman, wasn’t it?”
+
+Luo Zong scoffed. “She displayed the virtues of a noblewoman of Emerald Seas, beauty and grace sheathing a swift and fatal fury. There is no need to be soft when an elder is overseeing matters. If anything, her duel cleared some of the doubts the first competition raised.”
+
+“My opponent gave his best against me,” Ling Qi replied carefully. “I would not do him the insult of holding back out of pity.”
+
+“You will find that your lessers do not generally know what is best for them,” Meng De scoffed. “In the future, consider using the superior judgement that your cultivation and position affords, rather than simply catering to foolish pride.”
+
+<You’d get mad if I yanked that one’s underclothes up over his forehead, huh?> Sixiang whispered.
+
+“Thank you for your advice, Sir Meng,” Ling Qi said, giving no outward indication that she had heard Sixiang.
+
+“Leaving that advice of Meng’s aside,” Wang Chao huffed, shooting Meng a disgruntled look, “it occurs that this is a rare opportunity. You must be aware of the foul rumor that has begun to spread about your house already, Miss Ling. Might you want to address the matter?”
+
+Despite her best efforts, Ling Qi could feel her expression hardening. “I am merely rewarding loyalty. Those who were friends to my mother and I when we were in a low position deserve that much.” While she might not remember them herself, her mother did see them as friends, and that was enough. “If the Liu family is truly in such difficult straits, I would be happy to discuss recompense for recruiting some of their citizens.”
+
+Luo Zhong smiled thinly at her while Meng De simply shook his head in a condescending manner. Bian Ya shot her a sympathetic look though.
+
+However their responses all stilled when Cai Renxiang cleared her throat. “I find myself disappointed, but not surprised, to find those who obsess over petty nonsense, even in my own province. It is unfortunate, but I trust Ling Qi with the maintenance of her own household.”
+
+“Well said, my lady,” Bian Ya said lightly. “Really, it is unfortunate to see such foolishness being taken seriously.”
+
+“It is a rather minor matter,” Meng De said smoothly. “Regardless, I believe we should return to the previous matters…?”
+
+Ling Qi held in a sigh of relief as she was allowed to leave the center of attention and observe the interactions of the nobles. She kept her own counsel, speaking up mostly to support her liege when appropriate. The picture she got was not encouraging.
+
+Of course, these were only young men and women, but it seemed even Cai Shenhua’s rise had not welded together the province’s internal divisions. Luo and Meng sniped at each other regularly, and both looked down on the Wang for being a newly raised count family. Meanwhile, Wang blustered at everyone else. Viscounts and barons quarreled in their own little packs, vying for favorable words from the ones above them.
+
+Bian Ya’s position seemed odd to her. She knew the Bian were a viscount house, but Bian Ya was treated with respect approaching that of the count scions. Ling Qi wasn’t sure if it was a matter of cultivation or something to do with the fact that her clan served directly under the Cai.
+
+Eventually, she got a moment to speak alone with her liege as the group dispersed and sought the refreshment table. They were truly alone as well, Ling Qi noted, hidden beneath the spiritual glare of Cai Renxiang’s presence.
+
+“Sorry I can’t be of more help in situations like that,” Ling Qi apologized quietly.
+
+“I do not expect you to keep up with that squabbling pack yet,” Cai Renxiang murmured. “Though I am surprised that you tried of your own volition.”
+
+Ling Qi felt ashamed. “I feel as if I may not have been pulling my weight in regards to you, Lady Cai. I wanted to begin reversing that.”
+
+Cai Renxiang shook her head very slightly. “Your primary duty remains growing strong enough to continue following me, but I appreciate the gesture. Might I suggest approaching your eventual peers individually? Your talents are more suited toward that sort of interaction.”
+
+“I will keep that in mind,” Ling Qi said as they reached the table. “And you, Lady Cai, is there anything I may do to assist you?”
+
+Her liege shot her a look out of the corner of her eye. “If your cultivation schedule allows, I would find a spar refreshing once this is over.”
+
+“I believe I can find the time,” Ling Qi replied dryly. “But I should go. I wouldn’t want to leave your guests without entertainment.”
+
+As she returned to the stage for her second piece, Ling Qi pondered the future. Her remaining time in the Sect would be a fleeting thing, but dealing with the nobility of Emerald Seas would probably be a mainstay of her life going forward.
+
+<And isn’t that a fun realization,> Sixiang laughed as Ling Qi began to play.
+
+Life couldn’t always be fun, Ling Qi thought absently. But, like Xuan Shi, it couldn't hurt to make a few more friends, could it? Or at least, she could gather information on future enemies. So, as she cast out her senses through her song, Ling Qi pondered on where to direct her attention during her next break.
+
+Ling Qi considered her liege's words as she let her point of view rove about the room, carried on the notes of her melody. She was glad that she had picked up the Harmony of Dancing Wind art. Even if she could not quite see through the obfuscation of every social art, merely listening in without an art of technique was an inexact effort at the best of times. Now, though, she could much more easily match rumors to the lips that spoke them and see the reactions of the ones being spoken to directly. It would make the list of information she handed over to Cai Renxiang at the end of the night much more detailed and useful.
+
+Still, general eavesdropping aside, her encounter with some of the scions of Emerald Seas highest families had been enlightening. Cai Renxiang was right; she wasn’t quite ready to go diving in the deep waters, so to speak. So as her second piece wound down, she already knew where she was going to go. She needed to build up a friendly foundation before attempting the higher echelons again.
+
+After taking her bows to the audience’s polite applause, she stepped down from the stage, and crossed the floor to where two familiar faces were engaged in a chat. Bian Ya, she had spoken to just earlier, but her partner in conversation was one that Ling Qi had not spoken to in many months. Ruan Shen had been her first tutor, back when she had been a mere second realm cultivator. He had given her lessons on the foundations of musical arts which had proven useful throughout the previous year, even as she had moved into learning from Zeqing.
+
+Ruan Shen had not changed much from the last time she had seen him. He still wore an open-fronted, baggy robe with flowery designs embroidered into the silk. His hair was a bit longer perhaps, and faint streaks of dark blue wove through the black now, but his handsome face and easy-going smile were much the same.
+
+<That one’s a bit different from your usual tastes,> Sixiang mused. <Want me to do a quality check under the curtain?>
+
+Ling Qi kept her expression straight and serene as she gave the spirit a mental swat, to which they responded by retreating, laughing deeper into her thoughts. She could feel that both of the senior Inner disciples had noticed her approach as she neared, so she was unsurprised when their conversation tapered off and Ruan Shen turned to look her way.
+
+“Junior Sister Ling,” he greeted warmly, offering a shallow bow. “That was a wonderful piece. You’re going to make your poor Senior Brother feel inadequate if you keep improving so quickly.”
+
+“You are too kind, Senior Brother Ruan,” she replied, returning his bow. “I still have much to learn in the art of music.”
+
+“Oh, so the two of you know one another then?” Bian Ya asked, looking between the two of them.
+
+“This one only offered a few small lessons to his Junior Sister, which she happened to take quite far. Ah, is this the pride of the mentor?” Ruan Shen sighed airily.
+
+“I am thankful for your lessons, of course,” Ling Qi replied with amusement. “I have already learned of how much fun it is to tease one's juniors.”
+
+“Oh, how fast they grow,” Ruan Shen said with pride. “You have truly bloomed beautifully, Junior Sister Ling.”
+
+Ling Qi forced down the blush that wanted to rise on her cheeks. Bian Ya thankfully covered for her, raising a hand to cover her mouth as she laughed daintily. “My, it seems there are more sides to you than I had believed, Miss Ling.”
+
+Ling Qi coughed into her hand. “Ling Qi is fine, if it pleases you. In any case, I just wanted to thank you for your kind words earlier, Senior Sister Bian.”
+
+“My name will do,” the older girl said smoothly. “Please think nothing of it. It does one well to be kind to new players in the game, I think, and you were a dutiful student.”
+
+“You are braver than I, Junior Sister, if that kind of fencing is to your fancy,” Ruan Shen said gravely, raising the cup in his hand like a toast. “This one chooses the path of the humble musician.”
+
+“Is your grandfather not recently broken through to the indigo realm?” Bian Ya asked. “It may behoove you to begin sharpening your blade yourself.”
+
+“Ah, but this one has many older brothers, sisters, and cousins, who have the matter well in hand,” Ruan Shen noted. “I shall keep to my areas of talent.”
+
+<I wonder how many of them were halfway through the third realm at his age though,> Sixiang thought. <I don’t blame the poor guy, but I think he might be in denial.>
+
+Perhaps, but Ling Qi thought him lucky for having others to cover for him. “If it would not be rude,” she said instead, “might I know something of your families? I am still coming to terms with the connections in Emerald Seas.”
+
+“Do not let our peers fool you. Those connections are as tangled as the branches of the oldest growth. The Hui and their predecessors were lacking administrators,” Bian Ya said kindly. “The Bian family oversees some of the more profitable tea farming in Emerald Seas, and we hold the rank of Viscount, serving beneath the honored Cai themselves.”
+
+“Though your esteemed Patriarch’s solid foundation in the violet realm has set things abroil again. I believe your grandfather was nearing that realm as well, Miss Bian,” Ruan Shen highlighted lightly. “Alas that lands cannot be conjured whole from the aether.”
+
+“Quite so,” Bian Ya said, amused. “We cannot all be so lucky as the Ruan, bordering wilderness that has lain fallow for centuries.”
+
+“I suppose so,” Ruan Shen sighed, looking as if he wished he could strum on his instrument. “We are but humble barons serving under the Bao, Miss Ling, overseeing groves of valuable spirit trees. The cuttings turn quite a profit, as well as being perfect for use in crafting instruments. Hence, our name.”
+
+Ling Qi didn’t need Sixiang’s help to read between the lines of the conversation. It made sense then that Bian Ya would be friendly toward people like herself or Ruan Shen. Since her family was a budding power, the older clans would be largely hostile by default. Friends and allies would have to come from outside that circle.
+
+<It’s a wonder you guys ever get anything creative done at all,> Sixiang mused sadly.
+
+“And what of you then, Miss Ling?” Bian Ya asked. “Do you know what you will be doing in the future?”
+
+Ling Qi considered her answer but then answered, “My primary duty will be to attend Lady Cai, of course, but I believe once her time in the Sect is over, there is a fief on the southern border waiting for us. I’m afraid the exact details have not been settled yet.”
+
+“That is a posting with much opportunity, I think,” Bian Ya said thoughtfully. “I can think of only a few locations which might be fit for a young heiress to oversee, and they are all choice locations, ignoring the barbarians.”
+
+“That is quite a thing to ignore, Sect Sister,” Ruan Shen said dryly.
+
+Bian Ya noted, “One must endure risk and hardship to achieve success. That is only good sense.”
+
+“I will keep that in mind,” Ling Qi said. “I hope I can count on you for advice in the future, Senior Sister.”
+
+“Naturally,” the girl said with a smile. “One can never have enough friends after all.”
+
+“Perhaps I should make my exit,” Ruan Shen said aloud. “It is said that when the ladies conspire, a sensible man should flee.”
+
+“What kind of cowardly saying is that?” Ling Qi asked with a raised eyebrow.
+
+He replied with an easy grin. “One made by men of little actual sense, I should think. But to be serious, if you wish to discuss matters of politics, I am not the most useful, Junior Sister.”
+
+“You undersell yourself, Sir Ruan” Bian Ya said slyly, her long eyelashes fluttering. “Else I would not have sought you out.”
+
+Ling Qi glanced between them and suddenly became uncomfortably aware of the look and tone with which the older girl spoke to her former tutor. Some part of her felt a certain sullen envy at the way the older boy suddenly found the need to clear his throat. She quashed the silly feeling immediately.
+
+<You really give up too easily on some things,> Sixiang muttered. Ling Qi ignored that too.
+
+“I am sure Senior Brother Shen has a great deal of good advice still,” she said instead. “But it has been quite a long time since I have heard Senior Brother play. I am surprised that you have never taken a performance slot.”
+
+“Sir Ruan can be surprisingly shy,” Bian Ya said with a laugh.
+
+“Hah, perhaps those words held some truth,” Ruan Shen lamented. “Already, the two of you have joined forces.”
+
+If she ignored the uncomfortable feeling that Bian Ya’s flirtations gave her, Ling Qi would say that the chatting that followed was actually a little fun. With the subject changed from politics, their conversation drifted to music and poetry, which was much easier fare.
+
+Still, she left the conversation with somewhat mixed feelings. She was glad that she had secured a friendly relationship with two of her seniors, but…
+
+Ling Qi shook her head as she approached the stage for her final piece. She was being silly. Ling Qi turned her attention toward her destination, but before she could reach the stage, she found her way blocked by a mildly irate-looking Bao Qingling.
+
+“Here,” the girl said bluntly, thrusting a hand toward Ling Qi. It held an expensive envelope sealed with golden wax. “My brother wanted me to give you this.”
+
+Ling Qi blinked, nonplussed, and accepted the envelope. “Uh… thank you,” she said, feeling unsure.
+
+“You’re welcome,” the older girl said dully, brushing past her. “Send your response soon.”
+
+Ling Qi looked at the girl's retreating back and then to the envelope in mild trepidation. What was that about?
+
+She shook her head. She would have to read it later. The stage was empty, and she couldn’t leave her liege's guests without entertainment. It would make the Cai look bad.
+
+Somehow, Ling Qi thought, this night was more tiring than the last few. She couldn’t say she wouldn’t be glad to see the end of it.
+
+She even had a spar to look forward to.

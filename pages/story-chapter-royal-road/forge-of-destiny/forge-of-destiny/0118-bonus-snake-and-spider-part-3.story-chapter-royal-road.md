@@ -1,0 +1,135 @@
+---
+id: 89e67896-a329-58d4-b1f4-597b228486b3
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Snake and Spider Part 3"
+slug: 0118-bonus-snake-and-spider-part-3
+partOf: forge-of-destiny
+position: 118
+ownLength: 1743
+unit: words
+publishedAt: 2021-06-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/700718/bonus-snake-and-spider-part-3"
+royalRoadId: "700718"
+---
+
+When was it, Bao Qingling wondered, that she had grown used to having a peer in her workshop? She listened to the swish of a gown over the sound of clinking vials and the rustle of bundles of herbs being moved. The cohabitation with Li Suyin had not been comparable. There, the roles were clear. She was the master, and Li Suyin the student.
+
+The imperious serpent who had made herself at home here was not the same at all. It was her workshop, and Bai Meizhen respected that and deferred to her on these grounds. Their relationship remained frustratingly unclear however. The Bai’s skill and knowledge matched hers in the field they shared, so neither was the student or assistant.
+
+Bao Qingling still did not know what the Bai wanted from her, but she had given up on investigating the matter. Bai Meizhen’s aid and company was invaluable, even if, on occasion, Bao Qingling had to spend time clearing her head of the useless musings born by physical reactions. The minor loss in productivity was outweighed by the aid in her work and the inspiration to her cultivation. For now, she would simply take advantage of the assistance. Given recent events, it was required.
+
+Hmmm, Perhaps that was the source of her comfort with the situation. It was a well known phenomena that shared experience in lethal combat bred familiarity. Bao Qingling scowled as her fingers danced over the cluttered table top, snatching the next sample out of a disorganized container. She had not expected her workshop to come under serious attack. Her defenses had been lacking.
+
+“It is unlike you to fall behind in your tasks,” Bai Meizhen noted.
+
+Bao Qingling paused but did not bristle as she would otherwise at such an accusation. “Certain familial matters have recently overtaken my time. My apologies for seeking your assistance with such menial tasks.”
+
+“I see,” Bai Meizhen said over the clink of glass. “It is no bother.”
+
+There were so many tissue and fluid samples that required review. Bao Qingling had been confident in taking the load that she had, but that had been before those wretched letters had started coming.
+
+“Betrothals,” Bao Qingling bit out. She did not bother to hide the venom that dripped from her voice. Then, she regretted voicing such bile; it was pointless, and she would only be chided for childishness. “So many suitors, all seeking to ask after my health, to express their concern. To make their offers again. As if I could not maintain my own safety.”
+
+That was not even considering the persistent pest right here in the Sect.
+
+She felt Bai Meizhen still, and the thrumming threads of Bao Qingling’s senses twisted and broke under the brief pulse of pressure that the other girl exuded.
+
+“I was not aware that you were so sought after,” Bai Meizhen said quietly with a voice like a knife.
+
+It was pleasing to be understood for once. Despite herself, Bao Qingling felt a thread of satisfaction. Bai Meizhen, it seemed, shared her irritation with such nonsense. Bao Qingling closed the sample container a touch harder than was necessary, and the sound echoed dully through the workshop.
+
+“There are always those seeking connection to the Bao, and my Father is not a particularly fecund man,” Bao Qingling said bitterly. “I am his last unmarried child, and so the wolves circle, desperate for a scrap of favor from the wealthiest man in the province. It has nothing to do with me.”
+
+Of that, she was quite certain. She had met few of her suitors in person, but in every instance, their vapid pleasantries and clear disinterest in her work had made it difficult not to scream at them. It was saying something that Luo Zhong was among the best of her suitors. For all of his irritating persistence, he at least respected her abilities, if not her person.
+
+“That seems unfortunate,” Bai Meizhen said stiffly. “Perhaps you should speak to your father about… quality control.”
+
+Bao Qingling frowned again, closing the latches on the sample case. One click followed after another as she activated the sixteen locks, and a pulse of heat warmed her hands as the security formation activated. The samples were ready for shipment. Unfortunately, she was not able to feel much of the satisfaction at a completed task.
+
+“It is my responsibility.”
+
+Father had granted her the control to make her own decisions in the matter. If she gave that up, or offended too many, he would take it back.
+
+“It is merely unfortunate then,” Bai Meizhen said quietly. Bao Qingling turned toward her, striding over to observe as Bai Meizhen finished her own case.
+
+“It is inevitable that my suitors will only be interested in my familial wealth. I lack any attractive personal qualities to a partner,” Bao Qingling said flippantly. She was perfectly comfortable with herself naturally, but she was aware that both her appearance and personality were distinctly suboptimal by standard measures. She knew because it was at least partially by design.
+
+She could, if she was stubborn and valuable to her family, avoid the nonsense altogether. She had a great-uncle who had never married. She had never met him since he was both a clan elder and only rarely emerged from the labyrinth of tunnels, gears, steam, and clockwork that he made his home.
+
+It was aspirational.
+
+Bao Qingling leaned in as she studied Bai Meizhen’s work. Every sample was tested, organized, and properly arranged. Through her threads, Bao Qingling felt the precise and graceful movements of her fingers, and the scent of Bai Meizhen’s hair reached her nose.
+
+It was something exotic and floral. Pleasant. Discard.
+
+“Hmph, if one of them was like you, perhaps it would not be so bad.”
+
+***​
+
+The sound of her own heartbeat was loud in Bai Meizhen’s ears. Bao Qingling peered over her shoulder, a step closer than was really appropriate. It was, in Bai Meizhen’s opinion, a victory for her efforts to familiarize herself with the other girl. But by the Eight did it make things difficult in some ways.
+
+Bai Meizhen placed the last sample in the case and began to arrange the packing. She had decided that she wanted more than friendship from Bao Qingling some time ago. She was even quite certain that this time, the target of her affection was at least slightly attracted to her in a physical sense.
+
+Still, it was hard to move past the fear born that night by the lake.
+
+But she had promised herself that she would move forward. So, when Bao Qingling said those words, her response came to her lips almost unbidden. “It is truly a shame that I am not in position to press my suit.”
+
+There was a pause, and then, a snort. Bao Qingling let out a rare bark of laughter. “You are not usually the type to jest, but even I must admit to the quality of your timing.”
+
+Bai Meizhen squared her shoulders, turning so that she could meet the other girl’s half-focused eyes. “I am not joking. Your intelligence and dedication to your tasks are most admirable. I would not object to courting you if I could.”
+
+Bao Qingling’s wry expression slowly became blank. To Bai Meizhen’s distress, she saw a shift in the girl’s body language, closing her off. “Stop. It is not amusing any more.”
+
+“Neither are you as unlovely as you think. Though you work hard to avoid flattering yourself, it is not truly effective,” Bai Meizhen pressed on instead.
+
+“Stop mocking me,” Bao Qingling said. “Why are you doing this now?”
+
+Bai Meizhen closed her eyes for a moment, her grip on the edge of the specimen case tightening. The wood groaned. Why was this so hard?
+
+“Because of the attack on the Sect,” Meizhen admitted. Her eyes remained shut.
+
+“What does that have to do with anything?” Bao Qingling now sounded more nonplussed than anything.
+
+“It reminded me that we do not have all the time in the world,” Bai Meizhen said. “And you gave me an opening to strike.”
+
+Bao Qingling was silent.
+
+“I am attracted to you, you dense girl,” Bai Meizhen said, opening her eyes to glare up at her. “How much more plainly must I state it?”
+
+“I do not understand what you think you have to gain out of doing this,” Bao Qingling said coolly. “I was already prepared to return the favors you have given me.”
+
+“What are you speaking of?” Bai Meizhen asked. “Do you believe that I was seeking some favor from you?”
+
+Bao Qingling’s blank stare was her answer.
+
+“Bao Qingling,” Bai Meizhen began, speaking slowly and distinctly, “I began spending time with you in order to indulge my hobbies. I continued doing so because I enjoyed your company, and in time, more.”
+
+“I do not believe that that is your only reason,” Bao Qingling scoffed, crossing her arms. She looked away, and Bai Meizhen saw discomfort in her frame.
+
+“Will you allow me to show you then?” Bai Meizhen asked.
+
+The other girl gave her a suspicious look. “What do you intend?”
+
+Bai Meizhen turned to face her fully. Her mouth was dry. Was she really going to be this bold again? “I propose a kiss. Do you think I could fool you with such a thing?”
+
+Bao Qingling was off-balance, visibly so. Bai Meizhen stepped forward. Bao Qingling stepped back. Even if this was not a battle, she knew that she had to press the attack.
+
+“You can’t be serious,” the other girl muttered, still not looking at her. “Fine. If you wish to push this far with this, I will call your bluff.”
+
+Bai Meizhen felt a thrill, both fear and anticipation as she stepped up. It was only then that she realized a problem.
+
+“Well?” Bao Qingling challenged, looking down at her.
+
+“You’re too tall,” Meizhen muttered. She felt her cheeks burning. “You - that is, you would need to bend down.”
+
+Her voice sounded so horribly awkward that she almost wished to fall into her own shadow and disappear.
+
+“Oh,” Bao Qingling said, once more off-balance. “... Fine. I won’t give you an excuse to back out.”
+
+Bao Qingling lowered her head. Bai Meizhen raised herself on her toes.
+
+Their lips met.
+
+It wasn’t like the night on the lake. There was no drawing back, no fear, no perceived disgust.
+
+She hadn’t made a mistake this time.

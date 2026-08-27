@@ -1,0 +1,155 @@
+---
+id: aef7abd3-05c1-5f98-bf3a-48d9b32a3b3f
+page-type-slug: story-chapter-royal-road
+title: "Threads 14"
+slug: 0022-threads-14
+partOf: forge-of-destiny
+position: 22
+ownLength: 3594
+unit: words
+publishedAt: 2020-11-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/589785/threads-14"
+royalRoadId: "589785"
+---
+
+Three days passed in a flash. Before she knew it, Ling Qi found herself striding out onto the same field Cai Renxiang had occupied earlier this month. The closed-off boxes and open stands that surrounded the field had only a scattering of disciples filling them, but she still felt a twist of her old nerves in her stomach.
+
+<None of that now,> Sixiang whispered soothingly.
+
+Ling Qi didn’t respond, only firming up her stance as she walked toward where her opponent waited. There was no fancy equipment this time, only a pair of musician’s stools, set across from each other on a raised wooden platform. The elder presiding over their challenge did not acknowledge her presence as she stepped up onto the stage.
+
+The elder was not one Ling Qi recognized. Clothed head to toe in billowing purple silks and ribbons, Ling Qi had some trouble telling if the elder was even a man or a woman, let alone any other detail of their appearance. She met the gaze behind the eye slits of the colorful three-eyed, fanged mask and inclined her head in respect. The elder gave a tiny nod in reply, the chains of pearl and gold dangling from the fanciful crown that adorned their head jingling with the motion.
+
+Ling Qi turned her gaze to Yu Nuan, and the other girl met her eyes defiantly, as the elder raised a black-gloved hand from the depths of their voluminous robe to silence the crowd.
+
+“We begin now the challenge between Disciple 830, Ling Qi, and Disciple 812, Yu Nuan. It will be judged by I, Elder Nai Zhu.” The elder’s voice was an artificial sound, feminine but without inflection, with a metallic twang and underlying grind that seemed to echo beyond sound. “In accordance with sect rules, Disciple Yu Nuan has chosen a challenge of musical composition. This challenge will have two stages: individual presentation and conceptual challenge. The challenged party will present first.”Ling Qi eyed the elder as Yu Nuan took her seat, The heavy lute that Ling Qi had glimpsed before appeared in Yu Nuan’s hands. “My piece is titled ‘War of Beasts,’” she said evenly, her eyes drifting half-shut as she strummed the first deep, bass note.
+
+There were no more words, nor any need for them. Ling Qi relaxed and immersed herself in the heavy notes as the sound expanded beyond the range of a mortal musician’s skill. She felt the drumbeats in her bones, and the woven chords of phantom players rumbled in her ears. Beyond mere sound, she began to see the story unfold.
+
+Under the deep green eaves, beasts snapped and snarled, clawed and bit. Blood was shed again and again, soaking the earth only to be drunk in by greedy roots. From the fracas, a greater beast rose, trampling all beneath his mighty hooves until at last they all succumbed, baring their throats and bellies in submission. Yet the war did not end. When the beast grew old and faltered, the others snapped and teared at each other once more. Trees caught fire, burrows were ripped apart, and packs and flocks scattered to the winds.
+
+War raged and ebbed again, and the cycle repeated. It was no singular cycle though. Even as the mightiest beasts warred over the whole forest, their lessers tore one another apart over groves and rivers, the least attacked each other for mere scraps, and others grew fat and mighty scavenging from the fallen. New cycles changed the details of the endless war, but never its true shape.
+
+As the piece moved toward its ending, another great beast rose, shining with unparalleled might, yet in the shadow of its wings, the same old bloodshed continued unabated, and the fetid forest drank deep from blood-soaked soil. The music begged the question of whether this beast could possibly change the cycle. Would all the shattered groves and devastated warrens be worth a simple continuation of the cycle under another name?
+
+As the imagery faded and the scent of blood left her nose, Ling Qi closed her eyes and let out a breath. It was easy enough to see Yu Nuan’s sources, though she had smartly stripped out any overt symbolism. After working with Cai Renxiang and her recent experience with the Bloody Moon dream, she had looked into the history of her home province.
+
+Emerald Seas had the dubious honor of having changed rulers more than any other Imperial province since the Empire’s founding. With the Weilu, Xi, Hui, and now Cai, the province had seen four different ruling clans in its span. The disappearance of the Weilu brought six hundred years of strife, and the end of the Xi saw a millennia of low level conflict before fifty years of outright civil war had given rise to the Hui. The latter half of the Hui reign had been riddled with corruption and decadence, even if outright armed conflict had faded from the forefront. They, in turn, fell to Cai Shenhua one hundred and fifty years ago, abandoned by all of their vassals, reviled even by the Imperial court.
+
+From that point of view, Ling Qi could understand the question. What was the point of all the conflict when one face merely replaced another? After being tested by the Bloody Moon and with Sixiang’s help in prodding her to realize her own convictions, Ling Qi had her answer though. The problem was that Yu Nuan was trying to find some meaning in a grand narrative when no such thing existed. As the Bloody Moon had said, humans had to find their own meaning.
+
+Ling Qi gave her opponent a polite nod as she stood, and Ling Qi took her seat, carefully smoothing the folds of her gown as she adjusted herself for comfort on the small stool. Yu Nuan had displayed a great deal of skill, and her piece was impressive, but Ling Qi did not intend to lose. Her piece was no idle song nor a polite one to be played for parties. All the same, she had studied music under the Songstress of the End for the better part of a year.
+
+“My piece is titled ‘The Songbird and the Star,’” Ling Qi announced, raising her flute to her lips. The first high, clear note flowed forth, and the air rippled with the soft sounds of phantom pipes and voices raised in song. On the stage, the sun dimmed and the air chilled, save for a small circle around Ling Qi herself, wavering and indistinct in its boundary.
+
+She played and told the story of a little bird, afraid and uncertain. But this very familiarity with terror allowed the little bird to be bold. She hungered for more, always for more of what she lacked. She met a terrifying tree, haughty and mighty, standing alone without a grove and called her friend. Bemused, the tree offered her shelter, and the little bird accepted.
+
+From the safety of the tree’s branches, the emboldened bird struck out and gathered many things to herself. She gathered precious jewels and plain pebbles alike, their value to others meaningless but priceless to the bird. With each new treasure, the bird’s fear faded a little more, and disquiet faded.
+
+When the bird met a burning star, the star was so radiant that the little bird shied from looking directly upon it. Yet, for reasons the bird could not understand, she found herself circling the star more closely. At first, the bird believed that she merely craved the star’s light, which reflected prettily from her treasures, offering the potential to multiply their value beyond imagining.
+
+The bird did not understand the star and did not trust her cold light. Even when the bird bargained with the star that it might shine on her nest and bring a sparkle to her treasures, the bird did not understand what she felt about the star. That came later.
+
+One day, the little bird, who had grown proud of her treasured nest, sought to add a new treasure, a glimmering pebble with a crystal inside. But a hungry hawk spied the little bird in her quest, and the fear returned. She abandoned the pebble and fled, but she was still wounded for her trouble, even as the hawk also fled, blinded by the radiance around her nest. The bird's poor landing knocked her nest askew, spilling treasures to the ground far below.
+
+The bird despaired, having thought she had beaten fear. All the while, the star’s light shone overhead, unchanged. Lying in her nest, listlessly repairing its broken edge, the Songbird thought for the first time in a long time of why she sought the star’s light. Though it blinded her, and she found its radiance cold, she finally came to understand. The Star sought to banish fear and create certainty, and some part of the Songbird loved it for that.
+
+Her nest might one day fall and spill all her treasures for the world to take, but there was worth in the attempt to create something beautiful, worth in the attempt to offer light where there was none.
+
+Ling Qi opened her eyes as the last notes faded and offered a brief bow to her opponent and the elder.
+
+The masked elder regarded them both silently, and Ling Qi met Yu Nuan’s eyes across the stage. The girl was looking at her with a touch of... pity? Ling Qi felt her lips twitch in a tiny frown; that expression irked her.
+
+“The second stage of the challenge will now begin,” the elder’s mechanical voice rang out, its bland delivery giving no indication that they were affected in any way by either of their pieces. “Challengers, resume your seats.”
+
+Ling Qi nodded tersely and did as instructed, watching as Yu Nuan did the same across from her. This was the part of the challenge that she was uncertain about.
+
+“Begin,” the elder instructed, and Ling Qi began to play.
+
+Her song flowed forth, and the clearing formed, lit brightly by the star shining overhead just before flames overtook it. The howls of hunting beasts drowned out the Songbird’s soliloquy. The haughty tree splintered under the incidental impact of a charging beast, not even aiming for the scene but attacking another beast on the other side. For a moment, chaos threatened to engulf the scene she had so painstakingly woven.
+
+She felt more than heard Sixiang’s gentle encouragement in her thoughts and put more into her melody. The Star blazed, and where it touched, fires went out, and beasts shied away, blinded and confused by its light. Once again, she heard the Songbird sing. But it wasn’t over. Something massive passed overhead, beyond her reckoning in scale, and the clearing was destroyed, crushed beneath a massive hoof.
+
+Ling Qi played on, and a green stalk shot up from the stump of the tree. The Songbird sang and gathered treasures anew. Shadows swallowed the Star, only for its light to be reborn from its last glimmers. Again and again, random destruction and the uncaring whims of the mighty brought ruin, time flying by in a blur of decades and centuries.
+
+Yet the strumming bass of Yu Nuan’s lute could not drown out the notes of Ling Qi’s flute. The blur of time began to slow. The clearing bloomed with new life, and trees grew anew. The Songbird sang, and the Star shone. All around, there was life. Under the Star’s light, generations of the least of beasts lived peaceful lives, not without strife, but with certainty, and the Songbird’s nest shone with many treasures indeed.
+
+Then it ended again, fire and blood shattering peace, and Ling Qi mentally gritted her teeth in frustration at the other girl’s inability to see what she was getting at. It felt like trying to shift a mountain with her bare hands, but she forced their shared scene to slow still more, using every scrap of skill that Zeqing had taught her to make her own chords more dominant and drag the piece to her own tempo.
+
+The Songbird laughed and sang as her many friends gathered in her shining nest. A family of mice lived and burrowed happily beneath the fields, days passing with the lazy certainty that came only from great plenty. A dozen, a thousand, a million other little scenes in the now, in the present, built on the stability that banished the snarling shadow that was fear.
+
+In time, the peace ended, and Ling Qi did not contest her opponent during the end, but rather, the notes she picked out asked the question. Why?
+
+Even if peaceful times would end, and fear would return, there was value in striving for happy days. There was more value in that than in obsessing over inevitable ends, the chaos that had come and would come again. Gather treasures, whatever they might be, and hold them dear, even if they would be scattered again. Seek stability because it is the foundation of defeating fear. Live for the happy moments in the present, rather than fearing the end in the future.
+
+When the final notes faded and Ling Qi turned her attention back to her more physical senses, she found herself once again meeting her opponent’s eyes. The pity was gone, leaving only resignation.
+
+“You’ve got your conviction, I’ll give you that,” the other girl said grudgingly.
+
+“I appreciate you taking my challenge,” Ling Qi replied. “I wasn’t sure I still had it until I put this together.” She still felt horror, looking back at that dream, but she couldn’t dwell on it, only learn and move forward. To banish fear and create a place for herself, she needed to continue growing stronger.
+
+Yu Nuan shook her head. “I‘m not sure it’s a great conviction to have. I think you’ll regret it when you really do lose something,” she said. “But the loser doesn’t have any right to lecture the winner.”
+
+The elder cleared their throat, and they both fell silent at the echoing, grinding sound it produced. “This one concurs. Disciple Ling Qi wins the challenge by superior technical skill and presentation of her themes. Rank transfer will occur on the first day of the next month.” The initial words were quiet pitched for them alone while those that followed were a loud announcement to the stands.
+
+Yu Nuan gave her a terse nod before turning away, and Ling Qi took a deep breath before doing the same
+
+Ling Qi came to a halt as she reached the edge of the challenge field and found her liege waiting for her.
+
+“I believe we should speak,” Cai Renxiang said evenly, “of several things.”
+
+Ling Qi gave her a wan smile. “I had a feeling you might say that.”
+
+***
+
+“So, that was the source of your unease and that strange question,” Cai Renxiang mused.
+
+They stood in one of the mountain's many training fields to take advantage of its privacy shields. This particular training field was one of her liege’s preferred venues, a field of paved stone filled with two-meter tall stone pillars spaced just far enough apart for a single person to squeeze between. They stood in a small cleared space in the center.
+
+“If you noticed, why didn’t you ask?” Ling Qi questioned, standing straight with her hands hidden in her sleeves.
+
+Cai Renxiang raised an eyebrow, meeting her eyes despite their difference in height. “It is not my business. Would you prefer that I pry into your personal matters?”
+
+“I guess not,” Ling Qi allowed. “Did I do something wrong during the challenge? Or was it Yu Nuan? I mean, her piece wasn’t very flattering, but…”
+
+Cai Renxiang shook her head. “No. If the Empire censured things so vague as that, it would have shattered already. The mere attempt was the final seal on the tomb of the second dynasty, not only for the anger it engendered but also the weakness and lack of confidence such actions betrayed.”
+
+“You can’t have strong cultivators without some freedom of expression, I suppose,” Ling Qi noted wryly. “So that leaves my other question.”
+
+Cai Renxiang crossed her arms, her expression drawing down into a frown. “I am aware that your reasons for swearing yourself to me were a mixture of mercenary and personal interests. I did not object to this as I have observed that your loyalty is strong despite that. Yet, I had not considered that you lacked understanding of what I desire, rather than simply being ambivalent to it.”
+
+Ling Qi’s hands tightened inside of her sleeves as she looked down. “We haven’t spoken much about your goals,” she admitted. “But what you want is a peaceful and orderly society, isn’t it?”
+
+“In the simplest terms, yes.” Cai Renxiang looked troubled, the gleam of light around her shoulders sending the shadows of the pillars flickering wildly.
+
+“While I was composing that song, my mind kept turning back to what I saw in the dream,” Ling Qi continued as if her liege hadn’t spoken. “The death, the chaos, and everything else. I don’t want to see something like that again, and neither do you. That should be reason enough to support you, even if it isn’t sustainable in the long run. Having something better in our lifetimes is worth it.”
+
+Cai Renxiang closed her eyes, and for a moment, the field was silent. When she opened them again, her gaze was cool and serious. “Do you know what I saw, after my fitting to Liming was complete?”
+
+Ling Qi found her eyes watering slightly at the sudden brightness assailing them as she matched her liege’s gaze. “I can’t say I do,” she said, a touch of nerves entering her tone.
+
+“I saw the world's inefficiency,” Cai Renxiang replied. “I saw the tangled threads where want overrode need, where systems constructed nigh wholly by self interest and greed left ragged holes in society's tapestry, leaving thousands to languish, unfulfilled. I saw the frayed weft of a city still reeling from a war of gods.”
+
+Ling Qi recalled that Cai Renxiang would have been six years old at the time, and she found herself understanding some of the girl’s oddity. “You must have resented being forced to see something so ugly.” Though  she couldn’t wax lyrical on it without time to compose, the petty ugliness of the streets and the savagery of the Hunt had given her similar feelings.
+
+“Perhaps to a small degree, but Mother’s work will not be corrupted so easily,” Cai Renxiang said with a shake of her head. “I still see those things, and it fills me with the need to repair them, even as I am forced to engage with the broken loom it all hangs upon. If you never take anything else I say to heart, then take this, Ling Qi. I wish for a world in which all who fall under my responsibility can live ordered and fulfilled lives.”
+
+“Even the ones who don’t fit into that order?” Ling Qi asked wryly.
+
+“Most would fit in peaceably enough, if not for the damages inflicted by the current state of things. That is simply a matter of time and transition,” Cai Renxiang said confidently. “And those that remain are merely those whose requirements have not yet been accounted for. I firmly believe that with their needs met and acceptable avenues open for their wants, the citizenry of the Empire will be better and more productive than ever, benefiting everyone.”
+
+The way she said it sounded so dry and mechanical, but Ling Qi thought she understood where the other girl was coming from. How much of the ugliness that she had known would disappear into the wind without desperation driving it? Not all, not nearly that, but a great deal.
+
+“However, Ling Qi, there is something you must understand,” her liege continued. “This will be a thankless task. You will not be above my laws. I will not create them with your direct benefit in mind. I have bent certain rules in last year’s proceedings, but I will not weave such expectations into the foundations of what I seek to build. The Outer Sect was a testing ground, and what occurred there is to be remembered and learned from, but it must be left behind. What occurred with Fu Xiang must never happen again.  Do you understand that?”
+
+“I do,” Ling Qi replied slowly. She would rather not get entangled in that sort of favor trading again anyway; it reminded her too much of the way things had been before on the streets. “Lady Cai, what you provide in ‘fairness’ is more than I would receive almost anywhere else, and I believe in your good intent. I will not step away from that.”
+
+“As you say,” Cai Renxiang replied. “There is much more yet to say, but those are conversations for a more comfortable venue. Not the least of which is that I may have to reevaluate your role.”
+
+Ling Qi blinked, raising her eyebrows in alarm. “What does that mean?”
+
+“That your skills as a musician may be the more important one,” Cai Renxiang replied seriously as she stepped past her, heading for the exit. “You require more training and more than a little discipline, but a more public diplomatic role may suit your skills better. Come. I would like to discuss the thematics I would like you to incorporate for your performance at this month's gathering.”
+
+Sixiang, silent until now, started laughing, and Ling Qi’s eyebrow twitched.
+
+More mingling. Just what she wanted.

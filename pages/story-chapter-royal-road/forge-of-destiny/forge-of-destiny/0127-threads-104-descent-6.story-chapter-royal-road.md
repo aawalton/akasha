@@ -1,0 +1,153 @@
+---
+id: 29188e87-fc4d-5502-bdee-8baf52cf2d22
+page-type-slug: story-chapter-royal-road
+title: "Threads 104-Descent 6"
+slug: 0127-threads-104-descent-6
+partOf: forge-of-destiny
+position: 127
+ownLength: 2052
+unit: words
+publishedAt: 2021-07-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/711426/threads-104-descent-6"
+royalRoadId: "711426"
+---
+
+An eye that had strayed too close froze solid and shattered at her word.
+
+The creature shied back and hissed. [Go, go, Silver Thing. The way is clear…]
+
+She stumbled backward as a tremendous jumble of images crashed into her mind, impressions of height and depth, stone and metal, and labyrinthine tunnels which wrapped around her like a vice, containing and constraining. It was followed by a tremendous push, and the dark tunnel reasserted itself.
+
+<Are you okay?> Hanyi asked her in her head.
+
+<Can we go now, Big Sister?> Zhengui asked glumly.
+
+Ling Qi merely nodded, turning on her heel away from the winding lower tunnels to return to her group. She found them where she had left them in a wider section of tunnel. She swept her gaze over them all. No one seemed any more tense than normal. As expected, Xuan Shi and Ji Rong stood on opposite sides of the hall flanking Bian Ya and Su Ling. Guan Zhi stood at the front, awaiting her return.
+
+“Report, Disciple Ling,” Guan Zhi ordered.
+
+“I have negotiated passage with the spirit and obtained intelligence regarding the paths ahead. I can share this knowledge with Disciple Bian,” Ling Qi said evenly.
+
+Ji Rong looked like he was going to say something, but then, he glanced at her face and shut his mouth. Xuan Shi looked at her with concern.
+
+“And do you estimate that the spirit both understood and clearly communicated the potential dangers ahead?” Guan Zhi asked.
+
+Ling Qi contemplated that, pushing her ill feelings aside. “I do not think that it lied or concealed information. It does primarily operate on a spiritual level though. It is possible that it does not notice things that would be dangerous to us.”
+
+“Guess I need to keep earning my keep then,” Su Ling huffed.
+
+“Yes,” Guan Zhi said gravely. “Disciple Ling, do you believe this spirit to be reliable for long term dealings?”
+
+“No,” Ling Qi replied instantly. “It is hungry and bestial and nothing more. It would be possible to feed it again, but I do not think it would be amenable to more than that. I believe my method only worked because it had difficulty discerning my power. In the future, you would need a stronger cultivator to cow it.”
+
+Guan Zhi gave her a hard look but nodded. “Some potential then, if only in the long term. Let us move on. Disciple Bian, convey my signal to Disciple Liao to begin his operation.”
+
+Bian Ya nodded, closing her eyes as everyone prepared to move.
+
+Ling Qi glanced at Guan Zhi. “What is Senior Brother’s operation?”
+
+“He has determined the local ecosystem on the far side of this creature and communicated with the apex predators there to create a distraction which will prevent our enemies from discerning that something is amiss with these halls,” Guan Zhi explained. “Disciple Ling, take the lead until we are free of this creature.”
+
+Ling Qi nodded, turning back to the tunnel she had emerged from. The sooner they were out of here, the better.
+
+***
+
+They descended in silence through the winding fungal passages through tunnels that doubled back and looped and sometimes dropped straight down. On and on it went, only Bian Ya’s regular base reports allowing her to keep track of time. Liao Zhu rejoined them three hours in, and they reached the base of the fungal growth six hours later, reaching tunnels of black stone that seemed to drink in any light cast on their surface.
+
+As they left the last tendrils of roots behind, they paused to allow Su Ling to make her divinations, and Ling Qi dutifully recited to Bian Ya every detail of the surrounding passages that the fungus had shared so that it could be communicated to the Sect. It was, objectively, quite a coup. Dozens of square kilometers of maze-like passages mapped out in mere moments rather than days.
+
+Ling Qi found it difficult to be happy with the bargain.
+
+Over the course of the next day, they descended further and further, sometimes traveling east or west or south but always, always down. Their surroundings grew oppressive, the alien ecosystems of the upper region giving way to lifeless darkness, silence, and the tremendous weight of the world overhead. The mask on her face began to feel warm and slick, and her whole being felt as if it were drenched in something filthy.
+
+It was a miserable, grinding slog, and soon, even Xuan Shi and Ji Rong’s occasional bickering ceased, leaving only tense silence.
+
+At last, as the second day waned, they reached the bottom.
+
+Peering out of the tunnel mouth, Ling Qi beheld a vast vault. The tunnel opened out into the abyss, a drop of multiple kilometers to the floor of the cavern below.
+
+Below was a bizarre landscape. It seemed almost like a scene from the surface, transplanted deep below the earth. Beneath her stretched rolling hills and forests. The “grass” was a dark and feathery sort of growth, and the trees were pale grey things that glittered with a strange phosphorescence and dark blue “leaves” that were far too thick and fleshy. In places where “earth” was clear, she saw yellow-ish white soil, and the places where white and grey boulders jutted forth left her feeling unsettled. There was something unnerving about their shape that she could not quite place.
+
+The vault overhead was concealed by a thick grey mist like a single vast cloud, but there was something odd about it. It made her eyes tingle when she looked at it.
+
+“It is casting light, but not light which the human eye is built to see.” Liao Zhu’s quiet voice caused her to glance at where he crouched at the lip of the tunnel.
+
+“I wonder, is this a fine summer’s day in these lands?” Liao Zhu mused.
+
+Ling Qi shrugged. She had dismissed her cloak and mantle long ago, the cloying, humid warmth of the tunnels proving unpleasant. More importantly, peering into the distance, she could see the signs of artificial construction. The forest ended in a straight line, a too uniform silhouette at the edge of their vision.
+
+They were well and truly in enemy territory now.
+
+“Come. Let us report back. We will need a moment to rest before we begin the next stage of the operation.”
+
+Ling Qi nodded and turned to follow.
+
+***
+
+Ling Qi hummed a soft tune as she leaned against Zhengui’s side.
+
+After returning and reporting, Guan Zhi had ordered them to retreat a short distance to a more spacious cavern to set up camp. They were to rest and collect themselves, she had said. It was hard not to feel like those words had been directed at her, even if she knew they weren’t. The atmosphere down here had everyone on edge.
+
+Ling Qi could not bring herself to mingle. She retired to a far corner of the cavern and expressed her spirits. She had wanted to talk, but somehow, words didn’t come to her. She had defaulted to music instead, spinning a melody from whole cloth. It was a jumbled thing; she wasn’t sure what she wanted it to say. At her side, Hanyi perched on Zhengui’s shell, kicking her bare feet. Her dissatisfaction was obvious.
+
+It was only when Zhengui shifted behind her and Zhen arced his serpentine body down to look her in the eye that she was startled from her musing.
+
+“I, Zhen, helped. Even foolish Gui helped, so why is everyone so sad?” Sparks sizzled on his forked tongue as Zhen spoke. “Zhen and Gui were hurt, but Big Sister is hurt all of the time and gets better, so why?”
+
+Ling Qi blinked, startled by the almost accusatory tone of his words. “Of course I’m not going to be happy you were hurt!” she exclaimed. “I’m glad you helped, but…”
+
+She fell silent as Zhen’s eyes bored into hers and gritted her teeth as she realized the hypocrisy in what she had been about to say.
+
+“I shoulda offered too,” Hanyi mumbled. “You just had to upstage me, you big idiot.”
+
+Gui spoke up in a low rumble. “No, Hanyi didn’t need to. Gui is tough. He should be the one who gets hurt.”
+
+“Are you saying I’m weak or something?” Hanyi asked furiously.
+
+“If Hanyi was hurt, it would hurt Gui, too!” her little brother complained.
+
+“It’s the same for me, you dummy!” Hanyi shouted, throwing up her hands.
+
+<Quite the little gaggle you have here,> Sixiang said wryly in her thoughts.
+
+It hit hard, watching them argue like this. They were just following her example. Zhen still stared down at her, waiting for her answer.
+
+“I’m proud of you, Zhengui. I really am. Thank you,” she said, reaching up to stroke the ridges above his eyes. Her voice cut off the bickering. “I’m sorry if I didn’t show it.”
+
+Even seeing it from the other side, feeling the distress of watching someone she cared about taking on pain for her sake… She didn’t regret doing it herself. It hurt, but it was right. She couldn’t scold someone, especially a part of her family, for doing the same.
+
+What was it Meizhen had said? We hurt, and we are hurt. By choosing to care, she opened herself to pain. When others chose to connect themselves to her, they were accepting pain. It was true that she should try not to hurt those she cared about with her actions. It was also true that doing so was inevitable as long as she and her family were separate people with individual drives.
+
+She could not stop being herself. She should not stop trying to be herself.
+
+And neither should Zhengui or Hanyi or anyone else. They had to work together, to compromise their interests at times, because that was what family was. It could not always be one person who compromised. If they were going to support each other, then everyone had to offer support.
+
+“So why is Big Sister so sad?” Zhen hissed in frustration.
+
+“You know the answer to that,” she replied. “You’re not slow, Zhen.”
+
+“Gui is the slow one,” he agreed sulkily. “We will get better. We will be fine.”
+
+Ling Qi rubbed her hand against her collarbone where she knew a thin white line lay beneath layers of cloth. “And so did I. I promised to let you help. I didn’t promise not to be sad when you get hurt. I’m proud of you, Zhengui. And you didn’t do anything wrong, Hanyi.”
+
+“Sis is unfair sometimes,” Hanyi huffed, turning away.
+
+“I know I am,” Ling Qi said. “That’s the kind of girl your Big Sister is though. Do you think you can forgive me?”
+
+“Gui wants to rest by himself for a while,” her little brother said tiredly. “Gui will be ready to help Big Sister tomorrow. Even if it makes Big Sister sad.”
+
+That hurt, but hadn’t she just had the same realization? She just couldn’t hide her feelings from Zhengui, not over this. She stood up, resting a hand on his shell as he withdrew into it and settled to the floor. “How about you, Hanyi?”
+
+“I wanna be back home, making songs with you or talking to that Bao guy about performing,” Hanyi said, grimacing as she reached up to touch her mask. “I don’t like this place. I don’t like these spirits. They’re nasty, smelly jerks.”
+
+“You won’t get any argument from me there,” Ling Qi said with a laugh. She cast a brief look at Zhengui, feeling regretful as she stepped away, but Zhengui clearly wanted some time to himself.
+
+Hanyi hopped down from Zhengui’s shell to follow after her. “But I’m gonna fight anyone Sis says to fight. I’ll help Sis kill as many as she needs to kill. I can do that, at least.”
+
+How morbid, Ling Qi mused, ruffling her hair.
+
+<It’s a pretty morbid situation,> Sixiang drawled.
+
+It was, though it made her wonder what Sixiang thought of things. They were being very quiet.
+
+<I think there’s not much I can do but play supporter right now. I’ll chat with Zhengui when I can, but I think he needs to work through the same stuff you just did,> Sixiang replied. <I have your back.>

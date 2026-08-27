@@ -1,0 +1,111 @@
+---
+id: 3de2892f-17b8-5a3a-a56f-d6e0abaa944d
+page-type-slug: story-chapter-royal-road
+title: "80. Enlightening Chips"
+slug: 0080-80-enlightening-chips
+partOf: god-of-trash
+position: 80
+ownLength: 2003
+unit: words
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2291354/80-enlightening-chips"
+royalRoadId: "2291354"
+---
+
+He’d done it for one chip. Now, facing the vat of bubbling oil, Rhys contemplated doing it on a hundred-fold scale, if not more, all without touching them, because if he touched the oil, he risked his entire hand. He rested his hands on the rim of the pot, relying on his Heat Resist to protect them. It was warm, hot, even but he could handle this much. Through the pot, he was in contact with the oil, and through the oil, he was in contact with the chips.
+
+There was no time to waste. He pushed his intent into the oil and grasped the chips. Already in a state of processing, they were easy to push his intent into, but that wasn’t his goal today. No. He wanted to enlighten these chips, imbue them with a hint of his path. Gripping them with his intent was only the first step of his project.
+
+He called forth his enlightenment associated with potato chips and summoned up his mana, filling his mana with the enlightenment, then pushing it out to the potato chips. The potato chips soaked it up, but at the same time, they drained his mana in almost an instant.
+
+Rhys gasped, startled. His grip on the chips faded. No! If he lost his hold now, he’d run out of time to imbue the chips with enlightenment while they cooked. Before his eyes, they darkened, from soft, floppy potato slips to crunchy golden chips. He gritted his teeth. The chips were almost done. If he left them in the oil too much longer, they’d burn. “Bast, trash, now!”
+
+“Which trash?” Bast asked, looking around at all Rhys’s piles.
+
+“The unsorted stuff. Just throw it at me!” Rhys shouted.
+
+Shrugging, Bast threw trash at Rhys. Rhys grabbed the trash and pulled it toward him. The momentum of the throw got the trash flying at him, and he used that to yank a solid bulk of it toward him. He pulled it into his core at speed and ignited it, shoving the mana into the chips. The blast of mana supercharged his attempted enlightenment, and the potato slices instantly filled with enlightenment.
+
+The potato chips continued to darken. There was no time left. He couldn’t check to see if the enlightenment had set, or anything. Rhys gestured, yanking them out with Trash Manipulation. The chips flew free, trailing golden droplets of oil behind them.
+
+“Right here,” Bast said, holding out his hands with the fabric they’d been using for drying stretched between them. The chips landed on the fluffy towel.
+
+Rhys wiped his brow, then instantly charged in. “How are they? Did they burn?”
+
+“Look fine to me,” Bast commented, showing him the chips.
+
+Rhys stared at them, his eyes narrowed, scanning them closely for any defects. They were a little darker than normal, but not too bad. He reached out.
+
+Bast turned, moving the towel away from him. “Nope.”
+
+“I need to taste-test them to see if I succeeded!” Rhys explained, dancing around Bast to continue to reach for chips.
+
+Narrowing his eyes, Bast lowered his hands so Rhys could take a chip. As much as Rhys wanted to grab all the chips, he limited himself to just taking one. He took a bite.
+
+Instantly, the warmth of mana suffused him, but more importantly, the tingle of enlightenment shivered at the back of his mind. Not enough for him to notice where it came from, or even know what it was he was sensing, unless he knew what he was looking for, but enough to trigger the pleasure response. Rhys grinned, then nodded and gave Bast a thumbs-up. “We did it!”
+
+“You did it,” Bast returned humbly. He put the chips in the salt roller and started coating them.
+
+Rhys watched him work, then frowned. “Bast, what’s your path?”
+
+“The sword,” Bast said simply.
+
+“But beyond that.”
+
+“Beyond that, I don’t know. We don’t all have as easy a time at determining our path as you did, Rhys. There’s mages who have worked for centuries toward a path, without ever determining precisely what path that is.”
+
+Rhys frowned. “Really?”
+
+“Centuries is rare. Decades is far more common,” Bast allowed. He shrugged. “I’m still young. Still learning the basics of swordplay. It’s not until I master sword basics, intermediates, and even the master-level principles that I will know what sword school calls to me most strongly, and only then, can I begin to iterate on the school and carve my own path. I’m likely to follow my master, the Sword Saint’s, path, but it’s not necessarily a requirement.”
+
+“Are you satisfied with that?” Rhys asked.
+
+Bast shrugged. “It’s not a question of if I’m satisfied or not. It’s simply that my skills are insufficient to carve my own path. A martial artist’s path is different from a mage’s path, Rhys. Your path is founded on your obsession. A martial artist obsesses themselves with a weapon, then forges a path from that. Fundamentally, our paths take different shapes. Martial artists take longer to find our paths, because we first need to work to put our all, our everything, our obsession, into a weapon first.”
+
+Rhys frowned. He pinched his chin. “Isn’t that what Straw wanted us not to do? He wanted us to develop Intent, not just Sword Intent, or even Improvised Weapon Intent.” He had to admit that he himself had thrown that out the window, mostly because Trash Intent superseded Intent for him, and more importantly, Intent wasn’t a trashy skill, and he had no way to convince himself it was, and thus, no way to learn the skill without years of effort, if he could at all. That path wasn’t for him, but Bast was far more skilled.
+
+A glimmer appeared in Bast’s eye, something hopeful but playful. “And that’s why I’m not just studying the sword, but every weapon I can get my hands on. I haven’t given up on that dream, Rhys. And… maybe my path is something that lies on the other side of that obsession.”
+
+Rhys nodded, finally understanding. If Rhys needed Intent to inform his path, and Intent required him to form a general-shape Intent out of a multitude of Intent skills, then naturally it would take more time for him to find his path. After all, the skill took a great deal of time and effort to learn. It was a serious prerequisite to forming a path, unlike Rhys’s path, which only required him to realize his own obsession for it to take form. If he compared the difficulties of their paths, and considered their relative complexity as their power potential, then his was definitely trash-tier.
+
+Not that he’d expected any different.
+
+“So it’s not that you don’t know what your path is, but that you’re still searching to discover everything your path can be, before you resolve to a path and close off your potential in non-path skills,” Rhys rephrased, nodding to himself.
+
+“More or less,” Bast agreed.
+
+It was a reasonable decision. If Rhys wasn’t trash through and through, it was one he would have considered. As it was, he was so trashy that if he didn’t rely on his path, he’d never progress, so there was no such thing as an option for him. Still, no reason to pressure Bast to pick or step onto his path too quickly. Better to let Bast decide when it was time to take that step, if it was going to limit his future afterward. He didn’t see how his path had limited him, personally, but there were a lot of factors at play. His obsession with trash was abnormal, he wasn’t a martial artist, he was trash to begin with and couldn’t level up too fast except through trash… there were so many variables that he had no idea what it was that set him and Bast apart and made their paths different. Research for another day.
+
+Bast glanced at Rhys. “Why the sudden interest?”
+
+Rhys shrugged. “I just didn’t want to be stealing your time away, if you had a path to attend to.”
+
+At that, Bast snorted. He rolled his eyes at Rhys. “Not everyone spends every hour of every day obsessing about their path, you know. Lots of people study other fields, or practice things unrelated to their path. You’re a rare singleminded individual who wants nothing more than to advance your path, and you spend pretty much every waking hour working on it, or something related to it, but lots of us have healthy schedules and do a lot of other things at the same time. Like help our friends make a healthy spot of gold and put up with their crossdressing hobby simultaneously.”
+
+“You’re also making that gold,” Rhys pointed out.
+
+“And I appreciate that,” Bast replied with a nod. “I’ll put up with a lot in exchange for this much gold.”
+
+Rhys glanced at Bast. “We’re coming up on the tournament. If you have any last-second training to do, go do it. I don’t want to keep you from your training if it means you lose in the first round.”
+
+“First round?” Bast scoffed, amused more than insulted. He gestured at Rhys. “Aren’t you the one who should be worried about the tournament, moreso than me? Your future and your school’s future hang on the line, right?”
+
+Rhys shrugged. “I have a lot in the bag that I haven’t shown anyone. I might need to push myself to my limits, but I’m confident in taking down any one person at my Tier.”
+
+“Yeah. You’ve got some nasty tricks up your sleeve, don’t you? I wouldn’t want to fight you at your full nastiness.”
+
+“You could say potential.”
+
+“I could, but we both know that’s not what I mean.”
+
+Rhys nodded. “True.” His full potential was much less scary than his full nastiness. Full potential, after all, implied his full strength and magical prowess. Full nastiness… well, that was where he brought impurity potions, impurity imbuing, and even curses to bear. It was in that state that both he and Bast had confidence in him defeating just about anyone at his same tier level. Even so, he wasn’t planning to use curses against Ernesto. He wasn’t stupid enough to do that. Ernesto knew he’d taken Walter’s curse, and they both knew that curses were not positive in the eyes of the Alliance. In fact, he wouldn’t be surprised if Ernesto tried to maneuver him into using his curse in battle.
+
+The upside was that Ernesto had no idea what his true capabilities were. He hadn’t used the full extent of his trash skills against any of Ernesto’s students, or even his full martial might. If Ernesto thought he was only as strong as he’d shown against his students, Rhys would stomp all over his champion.
+
+He didn’t think Ernesto would hold back enough that the champion would be just strong enough to defeat him. If anything, Ernesto would just pick the strongest champion he could find. The fact that Ernesto’s image of him vastly underrepresented his actual abilities meant that Ernesto would certainly underestimate him, though, and he greatly appreciated that. Much better to be underestimated than overestimated. Even when it came to ‘picking the strongest champion,’ as long as Ernesto subconsciously considered him not much of an opponent, he’d work less hard to convince a very strong student, as opposed to just a strong student, to fight Rhys.
+
+“Get ready. Another batch coming in.” Bast held a pile of raw potato chips in his hands.
+
+“I’m ready.” Rhys lifted his hands off the cauldron and shook them a few times to reset his Heat Resist, then put his hands on the cauldron again and focused. This strained his mental capacity and his ability to stretch Trash Intent and enlightenment over items, but that just meant it was great training to expand his skills.
+
+The next batch of chips hit the bubbling oil, and Rhys’s eyes narrowed as he took control.

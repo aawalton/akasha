@@ -1,0 +1,117 @@
+---
+id: 218d73bc-8fab-5905-ae71-a844c1676b85
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude Clockwork Blades"
+slug: 0179-threads-interlude-clockwork-blades
+partOf: forge-of-destiny
+position: 179
+ownLength: 1484
+unit: words
+publishedAt: 2021-11-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/779475/threads-interlude-clockwork-blades"
+royalRoadId: "779475"
+---
+
+This exhaustion had become unfamiliar, Cai Renxiang thought.
+
+It was not a thing of the body, borne of a pounding heart and bruised flesh.
+
+The blade resting less than a hair's breadth from her throat withdrew with a soft hiss, its gleaming blade shimmering blue as its impossibly sharp edge severed the air.
+
+No, the immaculate weapon that was the Heron General Xia Ren would never need be so crude as to inflict the slightest harm on a student's body.
+
+Cai Renxiang had felt what it was to die three hundred and twenty-seven times in the last hour. Although the General had limited herself to mere third realm abilities, the difference in skill was too great. Cifeng whispered frustration; her edge yearned to repay humiliation in blood. It was a titanic effort to merely maintain grasp of her hilt.
+
+“Length of time until defeat has improved by two and thirty-eight hundredths of a second since we have begun,” the General said crisply. Her shining blade vanished into its scabbard with a soft hiss. Unlike Cifeng, it was silent. “A great improvement for a recruit. An acceptable improvement for a scion of Cai.”
+
+They stood in the center of General Xia’s sparring chamber. Walls of pristine white cloth unadorned by any decor surrounded them. The mirror shine of the metal beneath their feet reflected them both, perfectly flat in angle, perfectly round in shape, and bereft of the slightest flaw or scuff.
+
+Cai Renxiang lowered her saber and bowed to her instructor. “I am pleased to have improved under your instruction, General Xia.”
+
+It was normal in etiquette to imply that praise was excessive. This was not the case for the General. Only a mad fool would imply Xia Ren was in any way imprecise. Like Mother, the woman before her was more ideal than flesh. Some wondered why the woman had not claimed or been given the title of Sword Saint. Cai Renxiang knew that it was because Mother did not require a mere sword.
+
+Swords did not win wars.
+
+“You have altered the Duchess’ forms beyond the adjustments created for your height and frame.” The General spoke plainly without embellishment or accusation. The demand for explanation was clear.
+
+Cai Renxiang met the thing of fire, steel, and numbers that lurked behind the eyes of the armored woman before her despite the black spots in the corners of her vision. “Adjustments to style are necessary for growth.”
+
+“You believe your judgement is superior in this matter?” Xia Ren asked.
+
+“Mother does not waste her effort on managing things beneath her notice if her chosen subordinates have not failed her,” Cai Renxiang replied.
+
+She felt no fear under the General’s examination. She had found her certainty. Cai Renxiang was not Cai Shenhua. She wielded the cutting words of Cifeng, not the pitiless Truth that was her mother’s saber, Zhenxiang. She could not achieve that perfection. She had not been made for it.
+
+It had hurt her in a way that she did not think that she could still be damaged to admit that.
+
+However, there was no benefit in maintaining self-delusion. Cai Shenhua was the sundering of the past and a new beginning. Cai Renxiang was the ticking hand of progress taken one step at a time.
+
+“Your efforts remain acceptable.” Xia Ren was inscrutable. “Your continuing collusion and collection of outdated elements is of concern. To preserve the past is stagnation. Stagnation is death.”
+
+“The Cai rule the province of the Emerald Seas,” Cai Renxiang said. “All of the Emerald Seas. In order for all to reach the future, I must understand where they are beginning.”
+
+It was true that the ways of the past would change. This was inevitable, but the seeds had been sowed. They would change, one cut and tick of the clock at a time.
+
+“The rot of ages breaks easily with a well-aimed blow,” Xia Ren said. “But I have tasted your resolve. You still walk the forward path. Your methods are not yet unacceptable.”
+
+Cai Renxiang bowed her head in acknowledgement. Those words were not idle, coming from a woman who was amongst the highest in Mother’s council.
+
+General Xia turned toward the side of the sparring chamber, and its walls shimmered, the privacy formations fading. “Sergeant Lin, escort the Young Mistress to her tent. She requires spiritual recovery.”
+
+The cloth wall of the chamber rustled, and the younger Xia entered, her hands clasped and her head bowed. “Yes, General!”
+
+Cai Renxiang took a deep breath and allowed Cifeng’s sheath to be respun. The General was not wrong. She could recognize the fatigue clouding her mind. The spar had stopped before it could become damaging exhaustion.
+
+Her boots clicked faintly on the mirrored floor as she marched out, following Xia Lin.
+
+The General remained, still and silent as an array of lights mapping the region bloomed on the wall before her.
+
+“Is there anything you might require, Lady Cai?” Xia Lin asked as the tent flap fell shut behind them.
+
+“Just rest, as the General said,” Cai Renxiang replied. Around her was the White Plumes camp where Mother’s finest soldiers were drilling and performing their camp duties.
+
+Each piece in its place. She watched the men and women performing their duties with confidence and pride, recognizable to her even through Mother’s artifice. It was the pride of those who were working for something more inclusive than the self or the family. This, Cai Renxiang thought, was a small part of what might be, if she continued Mother’s work.
+
+At least on the surface.
+
+“Lady Cai?” Xia Lin asked.
+
+She blinked, realizing that she had stopped to observe. It seemed she required rest more urgently than expected. “Just passing thoughts,” she dismissed, resuming her walk.
+
+“I am at my lady’s disposal,” Xia Lin said, resuming as she did.
+
+Cai Renxiang considered Xia Lin, scion of the General’s clan and among the youngest of the White Plumes proper. It was difficult to judge her. That, in itself, was troubling.
+
+Xia Lin’s martial skill and behavior were exemplary in almost every aspect. She stood as an example of what could be accomplished by the training of the White Plumes. Yet Cai Renxiang found herself uncertain in her judgement.
+
+“I have not asked before. What are your thoughts on our mission?”
+
+“I am certain that Lady Cai will live up to expectations,” Xia Lin replied.
+
+Despite herself, Cai Renxiang frowned. It was an honest answer. She was not being placated, and yet, it rang hollow. Perhaps she had spent too long in the company of her other retainers. “I would prefer your opinion on the mission itself and its efficacy.”
+
+Xia Lin paused briefly. “Multi-front conflicts are suboptimal in almost all cases. I…”
+
+She trailed off, and Cai Renxiang watched her out of the corner of her eye. There it was, the reticence that hid beneath discipline. A flaw in the steel.
+
+“I believe that achieving a ceasefire with the barbarians is a reasonable choice of action, but the pretext seems thin,” Xia Lin finished.
+
+She sounded uncertain. Cai Renxiang understood.
+
+Xia Ren had said it herself. A strong blow could shatter tradition well enough. In forging the Xia from the ruin of the Sadala, the General had struck many strong blows. Cai Renxiang thought of the General and the girl before her. The engine of war and the rootless soldier, hiding within her armor. How many of the other White Plumes were as such beneath their helms?
+
+Could plans which produced such things be perfect?
+
+Cai Renxiang dismissed that traitorous and errant thought. Even perfection had to contend with reality and flawed tools. That was the nature of the impure world.
+
+“I do not believe it is as thin as you believe. Such arguments may be more convincing than any recounting of facts,” Cai Renxiang disagreed. The spots in her vision were getting worse. “Let us say that you are correct, however. The logical reasons remain. Peace is more beneficial than war when interests are not in conflict. Exchange of goods produces more value than theft. Is it wrong, then, to craft a story which presents a foundation on which to build those things?”
+
+“I suppose not,” Xia Lin said. “I will bow to your greater expertise.”
+
+Cai Renxiang closed her eyes for a moment as they arrived at her tent. She wished that Xia Lin would disagree. Xia Lin reminded her far too much of herself, a doll who once arrogantly believed that she could clearly see her own strings.
+
+“You are dismissed to your other duties,” Cai Renxiang said coolly, not allowing her thoughts to show.
+
+“As you say, Lady Cai,” Xia Lin said, a faint crease in her brow. She had likely noticed Cai Renxiang’s dissatisfaction. Another sign that she needed her rest.
+
+Tomorrow, they would depart the main force. She would need to be at her peak.

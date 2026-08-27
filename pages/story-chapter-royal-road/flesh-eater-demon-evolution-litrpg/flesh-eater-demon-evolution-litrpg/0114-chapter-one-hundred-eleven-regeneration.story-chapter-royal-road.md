@@ -1,0 +1,153 @@
+---
+id: a0da4b66-1570-53a1-9480-b077391a785f
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Eleven: Regeneration"
+slug: 0114-chapter-one-hundred-eleven-regeneration
+partOf: flesh-eater-demon-evolution-litrpg
+position: 114
+ownLength: 2402
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3744891/chapter-one-hundred-eleven-regeneration"
+royalRoadId: "3744891"
+---
+
+Relief flooded through Daphne’s veins the second she laid eyes on the demon. She leaned back against the hallway wall, the exhaustion from her magic use starting to catch up with her, but she didn’t let herself fully relax just yet.
+
+By the staircase, Pyre retracted her arm, but she didn’t warp it back into a human shape. Instead, she kept it as-is—misshapen flesh and all.
+
+The demon strode forward at a slow, steady pace, grey eyes assessing the fallen healer with an unreadable look. Behind her, Callan darted forward and quickly floated over to where Daphne was, the ghost’s brows furrowed in concern.
+
+“Are you okay?” Daphne could see the panic in his eyes. “We heard the noise, but we didn’t think—”
+
+“—didn’t think the doc was attacking you,” Pyre finished. She crouched down, picking up a blue teardrop-shaped earring that must’ve fallen off when Llyr had been hit earlier. The demon casually rolled it around in her human-shaped hand, letting the glassy material catch the light.
+
+“You know, I thought we had a nice agreement going,” she drawled, cocking her head. She dropped the earring into her coat pocket, gaze still fixed across the hallway.
+
+Slowly, Llyr pushed himself up from the ground. Red stained the floor below him, and Daphne could see straight down to the bone where his left arm had been torn into. She winced a little at the grotesque sight while Callan shuddered in the corner of her eye.
+
+With careful movements, Llyr rose back to his feet. His black hair was a mess, and the scattered burns from Daphne’s spell earlier were visible along his hands and forearms. His other earring, the one that hadn’t fallen off, dangled with the motion.
+
+“We did, yes,” he replied. The healer raised his injured arm.
+
+In front of their eyes, the flesh began to stitch itself together. Daphne’s eyes widened as shattered bones repaired themselves, torn muscles reformed, and the flesh itself grew back like clay molding into shape. In front of her, Pyre’s eyebrows rose.
+
+Within a minute, the wound was entirely gone, leaving only smooth, bare skin behind. She’d seen Pyre regenerate before, but this was both faster and cleaner. Of course he’d be able to heal himself, too, the mage thought bitterly.
+
+Llyr brushed his hair back, the bloodstain on his ripped sleeve now the only remaining evidence of the wound. “I suppose it won’t matter to you that Daphne attacked first,” he continued. The noble in question bristled at that. She’d seen him about to cast something and simply reacted, not to mention that he’d been using charm effects this whole time and outright threatened Pyre. That automatically removed the benefit of the doubt, in her opinion.
+
+The healer’s expression remained flat. After that brief flash of pain when the teeth had first sunk in, it was like he didn’t feel the injury at all, even though Daphne knew it must have hurt.
+
+The tip of Llyr’s finger began to glow a subtle blue, the ichor in the room gathering around him as he prepared to cast a spell. She tensed, and Pyre’s eyes darted to the glow as well.
+
+“Probably not gonna help your case, yeah.” The demon adjusted her posture, bending her knees in a ready stance. The skin of her other arm rippled, morphing from muscle into a solid white bone axe. Her other arm remained in its amorphous state, but the surface closest to Daphne and Callan bubbled. There, a small mouth formed from the smooth flesh. When it opened, Pyre’s low voice came out.
+
+“Hey, you two go hide somewhere on the fourth floor.”
+
+Daphne bristled immediately. “I can fight,” she insisted at the same time as Callan argued, “He’s a mage, I can drain him when he’s casting!”
+
+Pyre snorted at that. “I don’t think it’s gonna be that easy, kid, especially when he already knows you’re a ghost.” Her eyes narrowed slightly, assessing the healer. “I have a feeling this’ll get messy.”
+
+Callan hesitated at that, gaze shifting nervously between the two monsters. He turned to Daphne, and they exchanged a look. Neither one looked particularly happy about being shoved aside, but at the same time, there was also the risk of getting in Pyre’s way if they stayed here.
+
+Daphne could easily end up accidentally hitting the demon with her spells, especially in these close quarters, and it was true that Llyr would probably be prepared for Callan to try draining him. His incorporeality also wouldn’t shield him against a magic-user.
+
+The fact of the matter was that they still didn’t really know what Llyr was capable of, and that thought was distinctly unsettling. Daphne took a deep breath and forced herself to think logically, even as every fiber of her being resisted the idea of running away.
+
+“We’ll stay close by,” she finally conceded. “We’ll be here if you need us.” Her voice lowered. “Be careful. I don’t know why, but he seems to really have it out for you for some reason.”
+
+Pyre’s gaze sharpened at that, but she just hummed in acknowledgement. Callan slowly nodded as well, though he was still frowning. With another ripple of flesh, the extra mouth disappeared. Daphne took that as their cue to leave.
+
+With a final glance back at the hallway, she turned and quickly made her way towards the staircase, Callan trailing behind her.
+
+The last thing she saw was Pyre and Llyr still facing each other in the hallway, both at the ready.
+
+The sound of Daphne’s footsteps faded, and both her warm and Callan’s cold heat signatures disappeared from view. Pyre remained where she was, silently watching Llyr. Both of them waiting for the other to make the first move.
+
+The healer’s finger was still glowing with magic, and in the light, his eyes seemed to gleam like metal. They burned with an intensity that he’d never shown thus far. It was an emotion closely resembling deep-seated hatred.
+
+Pyre’s eyes narrowed. Her gaze landed on the man’s bare arm, visible now that his sleeve had been torn off. It was more muscular than his loose clothing would suggest, and there wasn’t a scar on it.
+
+From what she’d seen so far, Llyr regenerated—or self-healed, whatever it was—even faster than she did. His constitution itself probably wasn’t as high, though, which was to her advantage.
+
+She shifted her weight. She’d have to test exactly how quick that regeneration was.
+
+In a burst of movement, the demon shot a bone spear straight at the healer. Llyr swiftly dodged to the side, but she’d been expecting that. Pyre used the distraction to lunge forward, axe arm swinging straight at the man’s exposed torso.
+
+A second before the bone reached flesh, something yanked the demon’s arm away. She jolted backwards, eyes darting over just in time to see a tendril of water dissipating from where it had coiled around her wrist and forced the axe off course.
+
+The second that water hit the ground, sharp spikes of clear ice shot up from the puddle. Pyre converted her flesh arm into solid bone just in time to block the blow, the ice snapping into tiny, crystalline shards that sparkled in the light upon impact.
+
+She wrenched her axe around, managing to slice into Llyr’s cheek before he could duck away. He retaliated by aiming a surge of rippling waves at the demon’s torso.
+
+The moment the spell hit Pyre, she felt the force of what must be thousands of tiny, rippling torrents cutting into her flesh. She grew another bone spear, splitting apart the spell before it could dig deeper.
+
+By now, the carpet was drenched. Pyre slowly straightened, noting that the flesh around her stomach felt a little more tender, but it hadn’t begun melting just yet. It looked like her [Empyrean] magic resistance was doing her well.
+
+Llyr’s eyes narrowed. The cut across his cheek had already healed, the dried blood now a dark streak across his skin. His eyes darted to the demon’s torso, noting the lack of a wound there, then back to her face, expression contemplative.
+
+In a burst of speed, he lunged. Pyre raised her bone shield, expecting another spell, only to be caught off guard when the healer instead aimed a punch straight into the center of the plate.
+
+The bone shattered, sharp shards scattering outwards and digging deep into the surrounding walls and ceiling. Pyre’s eyebrows rose. Maintaining momentum, Llyr reeled his arm back again.
+
+This time, the demon caught his wrist before it could make contact. She squeezed, and the caught hand trembled slightly as it attempted to push forward. If she wasn’t using her full strength, it probably would’ve succeeded.
+
+Pyre thought briefly back to that moment in the infirmary and how similar their positions were now. It had been obvious that the healer was a lot stronger than he let on back then, and that was clearer now than ever.
+
+What level was he? He had to be another [Tier 2], at least, if his stats were this high.
+
+Tightening her hold, she jerked the man towards her and slammed her knee into his stomach.
+
+Llyr gasped and stumbled backwards. Pyre surged forward, slicing his left arm off with her bone axe much like she had with the tattooed man.
+
+The severed limb landed on the stained carpet, lines of red dripping down from the wound.
+
+Before Pyre could follow up with another blow, a blast of water forced her back, sending her skidding along the ground from the impact. She used her warped arm for balance, managing to stay on her feet as she finally came to a stop several feet back from where she’d just been standing.
+
+Across the hallway, Llyr slowly straightened. Blue light flashed, and from the gushing wound at his shoulder, a brand new arm regrew in seconds. The original arm still lay detached and bloody on the floor.
+
+Pyre barked a laugh. She could feel her own shattered bone shield regenerating as she grinned, the expression sharp in the light.
+
+“You’re awfully strong for a healer,” she drawled. Llyr returned the look, lips twisting into a wry smile that carried no real humor.
+
+“I did say I wasn’t a saint.”
+
+Before he was even done talking, the man lunged again. Pyre grew a new bone shield to block, but this time, she activated [Counter] just before the blow landed.
+
+Llyr staggered, clearly not expecting the returned damage, and the demon used the opportunity to activate [Smite] and lunged.
+
+Her warped arm split open into a gaping jaw that dug into the healer’s neck, narrowly missing his head. She could feel the teeth sinking in more easily than before, the increased damage from the skill allowing her to bite through at record speed. Llyr screamed, a shaking hand rising towards the demon’s shoulder.
+
+From the tip of his finger, a narrow stream of water shot straight through her shoulder like a bullet. Almost immediately, the flesh began to soften, the teeth’s grip loosening just enough for Llyr to yank himself away.
+
+Pyre could see his skin already stitching itself back together even as he aimed another spell at the demon that she narrowly dodged. Apparently getting his throat half-ripped out wasn’t enough to slow him down at all.
+
+Her eyes narrowed. That regeneration was going to be an even bigger problem than she’d first thought.
+
+Putting more distance between them, Llyr muttered a chant. A sigil made of water formed in front of him, and with a few quick motions, the liquid dispersed into concentrated narrow streams much like the other spell had been, all of them barrelling towards the demon.
+
+Pyre raised her bone shield to block the first one, then shoved herself away when she felt the water begin to carve through.
+
+The spell hit the wall behind her instead, and the whole thing exploded into a mess of debris, the water pressure strong enough to cut straight through. Now that Llyr knew this spell could get through her defense, it seemed like he was intent on using it as much as possible.
+
+The hole in her shoulder was only just beginning to regenerate, and the surrounding flesh was still tender. Pyre ducked below the next stream, took in the healer’s current position as he commanded the spells, then shot a bone straight at his chest.
+
+He didn’t try to dodge. The bone stabbed through his heart, coming out the other side bloodied and covered in viscera.
+
+Llyr didn’t even flinch. He just kept chanting and fired off another water stream, this one managing to slice the side of Pyre’s leg as she rolled out of the way. The hole in his chest was already repairing itself, even though she was certain she’d felt the bone pierce through his heart.
+
+Shit, was he actually immortal? She’d never considered if true immortality existed in this world, but considering she still didn’t know his species, it was a possibility she couldn’t discount.
+
+Whatever he was, it was clear that her normal methods weren’t enough to do lasting damage.
+
+Pyre ripped a nearby door off its hinges and hurled it at Llyr as the next spell flew towards her. So far, she’d been trying to incapacitate the man, but keep him alive so they could interrogate him. She’d kept ramping up her attacks as his regeneration proved even more powerful than she’d first thought, but she was starting to question if she could out-damage his healing.
+
+It might be better to focus on immobilizing him first. They could figure out what to do next once he was captured.
+
+The demon’s flesh rippled. From her back, several whip-like appendages burst out and rushed for the healer. He managed to knock half away with a well-timed wave of water, but one wrapped around his wrist. Pyre contorted her flesh again, yanking back with all her force.
+
+That didn’t turn out to be necessary, because Llyr raised his other hand and aimed a water stream at his own arm. His severed hand came flying backwards as Pyre retracted her flesh appendage, landing on the ground and bouncing once before falling still.
+
+Across the hallway, Llyr’s eyes glinted. The skin around his wrist stretched, and a new hand grew back, replacing the severed one as if nothing had happened.
+
+It looked like “capturing” wouldn’t be so simple, either.

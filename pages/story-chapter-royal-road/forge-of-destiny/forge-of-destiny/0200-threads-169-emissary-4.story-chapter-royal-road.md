@@ -1,0 +1,129 @@
+---
+id: 501ec883-3772-561f-8fdd-154be73b5b3e
+page-type-slug: story-chapter-royal-road
+title: "Threads 169-Emissary 4"
+slug: 0200-threads-169-emissary-4
+partOf: forge-of-destiny
+position: 200
+ownLength: 2027
+unit: words
+publishedAt: 2022-01-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/817948/threads-169-emissary-4"
+royalRoadId: "817948"
+---
+
+“This is unfortunate.” Cai Renxiang pinched the bridge of her nose.
+
+They stood in the central room of the small guest suite Jaromila’s servants had guided them to. It was somewhat cramped, but it was warmed by a roaring fire in the gated hearth on the north wall. A low table carved from darkly painted bone sat in the middle, surrounded by sturdy chairs upholstered in thick hide and fur. Four doors arrayed around the room led to small bedrooms.
+
+Hanyi had flopped back in one of the chairs, the beginnings of a pout on her face. Zhengui, shrunk to his most minimal size, had scuttled beneath her chair.
+
+“I wanted to avoid misunderstandings over Hanyi’s and my own status,” Ling Qi defended. She knew that she had not handled it as best she could however.
+
+“I am aware of the quirks of your own cultivation, Ling Qi. That does not mean I do not expect you to control them,” Cai Renxiang rebuked. “I know that you could have handled the matter more delicately.”
+
+“It does seem like something of a setback, but it is not so bad,” Meng Dan offered, resting his hands on the back of a chair. “Are we not still guests? Miss Ling will need to clear up this theological quandary, but in this, too, I believe we may find opportunity yet.”
+
+“I apologize if it is rude, but I would very much like an explanation of this matter,” Xia Lin said. She stood ramrod stiff with her arms crossed over her breastplate, casting occasional glances at Hanyi.
+
+Ling Qi grimaced, understanding her distress. Cai Renxiang was aware of Hanyi’s unique circumstances, but she did not mention it to others, precisely because of the potential misunderstandings. “Hanyi is not human despite her father. She is wholly a spirit due to the circumstances of her conception.”
+
+“I do not think we need to know the precise details,” Gan Guangli rumbled, leaning against the wall beside the hearth. Despite his words, he looked uncomfortable. “I trust that Lady Cai would not let anything untoward pass by.”
+
+“As your own senses may tell you, she is no spirit blooded, and the Baroness’ binding is wholly normal,” Cai Renxiang summarized shortly.
+
+Ling Qi understood their discomfort. It was not a thing talked about, but sometimes, the lines between spirit blooded and spirit could be blurry, and sometimes, that led to… problems. Attempting to perform some form of the beast binding ritual on another cultivator was a crime. Successfully doing so required rituals that were also crimes.
+
+“Please do not take my words as distrust, Lady Cai,” Xia Lin said, bowing her head. “The context of this was alarming.”
+
+“It is not normally something worth bringing up for that exact reason,” Ling Qi said. “I admit, it is a little hurtful that you would think such of me though.”
+
+Xia Lin pursed her lips, glancing once more at the now openly pouting Hanyi. “I apologize. This matter is close to my heart, and my reaction was poor.”
+
+Ling Qi wondered at that, but she accepted the apology. “Given the circumstances, I cannot blame you for a mild overreaction.”
+
+Gan Guangli shook his head slowly, still seeming bewildered. “It is good that we do not fight between ourselves, but what are we to do now that we have been left to wait?”
+
+“We must wait, but we should not be idle,” Cai Renxiang said. The faint tap of the toe of her boot on the floor was strange; Cai Renxiang was not given to nervous ticks. “We have been instructed to remain on this floor and not to attempt the stairs, nor leave the redoubt without informing them first.”
+
+“Which does not mean we must remain in these rooms,” Meng Dan concurred.
+
+“Yes. I believe it would be good for us to learn more of our hosts in the time we have been given to avoid any further misunderstandings,” Cai Renxiang said.
+
+“Lady Cai is wise,” Gan Guangli said. “I am interested in the fellows at the sun shrine we passed on the way here.”
+
+Ling Qi recalled the brightly lit room she had glimpsed with its central pillar carved with many faces and scenes and gilt in gold. Serene men in white robes had been within.
+
+“I would like more time to focus on examining the mural in the garrison hall,” Meng Dan said. I am sure I can manage to draw some of our fine hosts into discussion on their tales.”
+
+“If I am to split from Lady Cai,” Xia Lin began slowly. The heiress nodded once, and Xia Lin continued, “Then perhaps, I shall inspect the training hall. If I am to be of use, let me test the ways of their warriors.”
+
+“I will seek out this Ilsur,” Cai Renxiang said. “Interrogating his position within this ‘confederation’ and his influence upon these negotiations is important.”
+
+“I will have to consider my best path, but I need to take a moment to myself first,” Ling Qi asserted.
+
+With that, the group split to their identified tasks.
+
+***​
+
+“I messed things up again. I’m sorry, Big Sis.”  Hanyi sat on the bed in the little room they’d been provided, kicking her feet.
+
+“You didn’t.” Ling Qi crouched in front of her. “You did nothing wrong. I’m the one who made mistakes.”
+
+“But I’m the one who’s messed up,” Hanyi said glumly. “That mean auntie said I’m broken, and these people think there’s something wrong with me, too.”
+
+Ling Qi scowled, and she felt a faint pressure on her shoulder. Glancing up, she saw Sixiang’s face. “Hey, don’t go getting yourself down in the dumps, squirt. That other ice spirit was a nasty thing, and these folks just don’t know you yet.”
+
+“Sixiang isn’t wrong,” Ling Qi insisted. “We don’t know what they think of you yet. I’m sure we can clear things up.”
+
+“I, Zhen, think that Hanyi worries too much as well,” the serpent hissed from the bedside. Still shrunken, he barely rose above the bed spread.
+
+“I think I was just hoping that Momma’s relatives would like me,” Hanyi muttered.
+
+“Hanyi has all the relatives she needs right here,” Gui scoffed.
+
+Ling Qi shot her little brother a look. “I won’t say you're wrong to feel the way you do, Hanyi,” Ling Qi said gently. “But we did just get here. People are still unsure, so let’s try and make a good impression, okay?”
+
+Hanyi let out a little huff as Ling Qi wrapped her in a hug. “I’m not a baby. Big Sis doesn’t have to coddle me.”
+
+She didn’t push Ling Qi away though.
+
+After a moment, Ling Qi straightened up and offered her hand, helping Hanyi off the bed. With Hanyi and Zhengui following along at her heel, Ling Qi made her way out of the suite of guest rooms and into the hall outside. A single guard from their hosts stood outside, a courtesy more than anything else.
+
+“Have my companions all gone out?” Ling Qi asked briskly.
+
+The woman, a full head shorter than her, if twice as broad, gave a short nod, her dark braids bouncing with the motion. “They have, Emissary. Do you require guidance?”
+
+Ling Qi hummed to herself, feeling the energies emanating through the cavernous halls. She could sense them well enough to navigate on her own. Harder to miss than those energies was the unnerved looks the guard was shooting at Hanyi.
+
+“Hey, Miss, I’m not gonna eat you or anything,” Hanyi said, putting her hand on her hip.”My Big Sis has taught me better than that.”
+
+The guard coughed into her hand, looking uncomfortable. “I am sorry. No offense was meant, Emissary.”
+
+“I am not the one to apologize to,” Ling Qi said firmly. “May I ask what it is that has made your folk so uncomfortable around my sister? It predates my hasty words.”
+
+The woman looked like she wanted to squirm under their gazes, but her discipline prevented it. After a long moment, she replied, “Ice children need to feed as the gods do, not as humans do. Most do not act so civilly as your sister, Emissary.”
+
+“Ice children are those who are born wrong?” Ling Qi asked to clarify, remembering Jaromila’s words. “Those who don’t take the blessings of winter well?”
+
+The woman nodded, looking deeply uncomfortable. “My aunt, she has a child like that. They are older than I yet have the mind of a child and the hunger of a great wolf… It is not shameful, but sad, yes. Most are worse and must be given to the care of the Maiden and the Voices. I truly mean no offense.”
+
+“It’s fine.” Ling Qi sighed, squeezing Hanyi’s hand for comfort. Maybe it was a good thing she had spoken. Perhaps if Hanyi’s difference was acknowledged by their leaders, those looks would fade.
+
+Ling Qi led her spirits down the hall under the false sky. It would be best, she thought, to check in with some of her companions before deciding what to do herself.
+
+***
+
+The warmth was palpable in the iron halls long before Ling Qi came into view of the sun shrine. Elsewhere in the foreigners' redoubt, the air held the chill of an early spring morning, but here, in the hall leading to the shrine, it approached the warmth of a cool summer.
+
+The shrine itself was a circular chamber with several entrances spaced around its circumference. It was paneled with what Ling Qi now knew to be expensive white wood. The walls were decorated with columns of carved bone depicting spirits and beasts in stylized form. Each was topped by three faces. Facing forward toward the center of the room was the visage of a young man, bright and smiling, with a crown of sunbeams in his golden hair. On the right of the columns was the face of a red bearded man, whose visage was wild-eyed, his teeth bared in what seemed more a snarl than a smile. Last was an old and withered man, whose carved, flowing white beard flowed into the art lower on the column. The man’s face was deeply wrinkled, and his sunken eyelids implied that nothing lay beneath.
+
+In the center of the shrine was a pool of clear water which sparkled under the light of intense sunlight that emanated from the round stone that floated above it. It seemed like an immense mass of amber shaped carefully into a perfect sphere, and it shone with an inner radiance that was near blinding to look at even for her.
+
+Ling Qi’s attention was drawn away from the shine and the art by the sound of a familiar strained grunt of effort. She blinked as she looked beyond the shining mass of amber and saw what was happening on the other side.
+
+There, set in front of the glittering pool, was an altar of black iron topped with speckled white stone, smudged by the ash of countless ceremonies. Around it were gathered the men she had glimpsed before dressed in robes of white marked by varying degrees of stitch and beadwork to break up the plain white. Two chairs were set upon either side of the altar.
+
+In one of them sat Gan Guangli, and in the other sat an immense foreign man with dark brown hair held in place by an iron circlet that glowed faintly orange with heat and a short beard. A gleaming golden mantle wrapped around his wide shoulders. Their hands were clasped over the altar, their elbows resting upon it, and both were straining mightily against one another, apparently seeking to push each other’s arms one way or the other.
+
+She could see the veins standing out in Gan Guangli’s neck and the sweat on his brow as millimeter by millimeter, he was forced to give way. The strain on his opponent’s face was no less apparent. A moment after she stepped into the room, the slam of Gan Guangli’s fist hitting the altar top echoed through the shrine followed by laughter from the men around and hearty slaps on the back for both.

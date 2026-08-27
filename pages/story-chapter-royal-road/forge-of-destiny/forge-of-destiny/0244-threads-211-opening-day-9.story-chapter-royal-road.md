@@ -1,0 +1,171 @@
+---
+id: 0d87980e-cdc6-53ca-b619-f85ef2b41d71
+page-type-slug: story-chapter-royal-road
+title: "Threads 211-Opening Day 9"
+slug: 0244-threads-211-opening-day-9
+partOf: forge-of-destiny
+position: 244
+ownLength: 2329
+unit: words
+publishedAt: 2022-05-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/899204/threads-211-opening-day-9"
+royalRoadId: "899204"
+---
+
+“I should think the answer is obvious then,” Ling Qi said. “The renown of the Wang clan is known far and wide.”
+
+Wang Lian nodded once. “Good. I had hoped you would choose that.”
+
+They began to descend the many steps which led to the foot of the mountain, carved alongside the wide road made for carriages. “Will there be trouble, you think? It’s likely that what Her Grace claims and what we will build upon will abutt Wang lands.”
+
+“It will be good for Her Grace to take more for the Cai,” Wang Lian replied. “Too much of the Hui land was divided. As for the Wang clan, do not concern yourself. It will be a millennia before we can expand.”
+
+“If you don’t mind the question, why is that?” Ling Qi asked. “It seems such an uncommon attitude.”
+
+“We do not have the men to hold more,” Wang Lian explained shortly.
+
+“I do not think that is the whole reason,” Ling Qi observed. “Those with power are rarely content with what they have.”
+
+She worried for a moment that she had overstepped herself when Wang Lian did not reply, and she had just begun to formulate an apology when she saw the older woman’s shoulders shaking with quiet laughter.
+
+“I forget already,” Wang Lian said with mirth, “what it is to be young. There is more to ambition than lifting larger weights, killing more foes, and painting maps. Of course we want more, but why should we need to go out and conquer for that?”
+
+“I overstepped myself,” Ling Qi said. “I apologize. I simply want to better understand the Wang clan’s thinking.”
+
+Wang Lian’s humor faded as they paused on a landing that interrupted the steps. It was a shaded nook unde a pair of trees with a stone bench beneath them. “You know, no doubt, that our matriarch was an architect in the service of the Hui before she joined Her Grace’s rebellion. But I think you do not understand. Do you know of the practice we have in our clan for those who will achieve the higher realms?”
+
+“I do not,” Ling Qi admitted.
+
+“Before we depart to find our first Names and set the foundations of our Way, we are brought before the Matriarch,” Wang Lian said, her eyes drifting shut. “There, we are shown her vision. I can’t describe it to you, not fully, but it is the vision of a far greater future, of teeming cities carved into the mountains, stretching over the rivers, filling the forests, not in the rigid imperial style or the outdated traditions of the past, but something that is both of them, made better in the fusion. People are the engines of prosperity and growth. Where they gather, they sharpen one another, and greater heights are reached. So much of that has been wasted in the Emerald Seas in pointlessly grabbing at lands when we had scarcely made use of what we already had.”
+
+She spoke with absolute confidence, and for a moment, Ling Qi felt a shadow in her mind, the silhouette of a mountain gleaming with the lights of a city from top to bottom, spilling out into the gentle hills and valleys at its foot, following the natural lines of the land.
+
+<Dreams by any other name,> Sixiang thought.
+
+“We build, Miss Ling, and there is already so much of the Emerald Seas to be built yet,” Wang Lian finished.
+
+“That is why you take in Cloud Nomads,” Ling Qi realized. “Someone must fill those cities, and few wish to come so far south.”
+
+“Nomads are human,” Wang Lian grunted. “We may be called fools for that, but it is true. A man is a man. He may be valorous or cowardly, cruel or kind. The young and the willing can be taught the proper ways of living and cultivation, and we can take their strengths for ourselves. It is as simple as that. Your White Sky seems to understand that as well. A hopeful outlook.”
+
+“I understand,” Ling Qi said as they resumed walking.
+
+“Perhaps you do, but my time is running short,” Wang Lian said. “Is there anything else you wish to speak to me about?”
+
+Ling Qi had a brief internal consultation with Sixiang. They agreed that Wang Lian’s mood was good so they could push a little more for information. “I have some curiosity about the Black Lotus Pass. What is the trouble there?”
+
+“Aside from it being a nest of the unquiet dead?” Wang Lian harrumphed. “Thrice looted, first by Ogodei, then by the desperate of the resisting warriors Yuan had gathered, and last by the vultures in the war’s aftermath. It is no wonder that the dead there are enraged.”
+
+“Sect Head Yuan would do such a thing?” Ling Qi asked, startled.
+
+Wang Lian grimaced. “I do not mean him ill, and his wife was Li besides. If anyone had a claim, it is her and by extension, him. But war does not leave the time for proper mourning and purification rites, and the dead do not understand extenuating circumstances.”
+
+“I see,” Ling Qi said, mulling that over. “I had come to understand that the problem was not just the expense of the exorcism needed.”
+
+“It was considered Hui land after Ogodei,” Wang Lian said. “After that ceased to mean something, there were some... squabbles. The Diao and the Wang alike both claim some legacy of the Li through marriages. Ours is the better; the Matriarch’s second cousin had a Li grandfather. The Diao need to go back some four generations to find theirs. It is not worth a great conflict, but one cannot simply abandon a point of pride either.”
+
+Ling Qi felt an unpleasant aching. If the Wang or the Diao truly claimed the fallen Li as kin, surely they would want them laid to proper rest. It took some effort to stop herself from saying that aloud. “Thank you for your explanation, Lady Wang.”
+
+The older woman gave her a side-eyed look, but grunted in the affirmative. If she wondered at Ling Qi’s goals, she didn’t voice her questions. They stayed there on the stairs a moment longer before Wang Lian spoke again.
+
+“I have a question for you, Baroness.”
+
+“I will answer as well as I can,” Ling Qi said politely
+
+“What are your intentions toward my brother?” Wang Lian asked, not looking at her.
+
+Ling Qi blinked. Sixiang wheezed. “He is a dependable ally and no more. Even if I had an interest, I would not presume above my station,” Ling Qi said, her words rushed.
+
+“The Bao do not see your station that way.” Wang Lian huffed. “A shame, nonetheless. Chao is a simple man. He needs a canny sort at his side, and the Cai would not have taken you if you were the wrong sort of canny. But I am not in the habit of pushing these types of things. I don’t suppose you’ve noticed him showing an interest elsewhere?”
+
+Ling Qi did her best not to seem off-balance. “Not particularly, no… Maybe Alingge?” Ling Qi offered hesitantly. “He was eager to include her in the spars.”
+
+The older woman squinted into the distance. “The girl from the old tribes in Luo lands? Hmph, my little brother is odd. I’ll have time to observe for myself. I’m sure you’ve noticed Chao is not good at hiding things.”
+
+“I have sought not to take advantage.”
+
+“Of course you haven’t,” Wang Lian said without inflection. “Regardless, I need to take my leave now. I look forward to speaking in detail on your plans later, Baroness.”
+
+LIng Qi bowed her head as the woman beside her lost definition, stilling and then losing color, becoming no more than a pillar of featureless earth. Even that then broke down, dissolving into a cloud of drifting dust. Ling Qi raised her sleeve, shielding her mouth and nose as it disappeared.
+
+Ling Qi waited a moment to be sure she was alone then burst out irritably, “Why in the world does this keep coming up?”
+
+“Cause it’s a big part of the human experience, I gather,” Sixiang said dryly. “Honestly, we gotta talk sometime, Ling Qi.”
+
+“This isn’t the time for matchmaking,” Ling Qi deflected.
+
+“Nah, it isn’t,” Sixiang agreed easily. When they spoke again, it was inside her head. <Back to the boys then? Make sure Wang hasn’t convinced Turtle Boy to go sledding down the side of the mountain or something silly?>
+
+She wouldn’t put it like that. It was more like checking to make sure they were getting along.
+
+<Who isn’t anyone’s mother again?> Sixiang snickered.
+
+Ling Qi rolled her eyes and reappeared back on the landing, skipping a half dozen steps with each blink as she returned to the main plaza.
+
+She found Wang Chao and Xuan Shi standing in the shade of one of the trees planted in the miniature gardens that dotted the plaza, deep in conversation. The two of them looked up at her approach.
+
+“Miss Ling! I was just discussing with Sir Xuan what sort of activity he thought would be the most entertaining when we got together tomorrow.”
+
+“This one did not feel it was correct to come to a decision without one of the participants,” Xuan Shi said.
+
+“Right, we need your input! I was thinking we could have a competition between us to see whether I might break his defense before you could bypass them or if Sir Xuan could keep us both out for an allotted time,” Wang Chao proposed, grinning excitedly.
+
+Ling Qi tilted her head to the side, considering. “That does actually sound fun.”
+
+Moons knew she was probably going to need an opportunity to relax by tomorrow afternoon. Her Grace would soon arrive, and tomorrow, she would be back to attending the Bai. Stepping into the shade with the two of them, Ling Qi began to ask for the details of the game.
+
+A glance to the north where a growing star gleamed in the darkening sky told her time was short.
+
+***
+
+“So, tomorrow afternoon, there will be a small gathering I will be attending,” Ling Qi relayed. “We decided that it would be best to invite a few others from our training group for propriety's sake, but we will be keeping it small.”
+
+“My, though you have managed to look elegant, you are still quite boy-ish, Ling Qi,” Meizhen teased, a faint upward curve on her lips. “Organizing such play during an event like this…”
+
+“It does no harm. Many disciples seek a moment away from the gaze of so many elders and high cultivators,” Cai Renxiang said calmly. “In this, I believe it gives an air of approachability rather than irresponsibility.”
+
+“If you believe that would be the Emerald Seas’ view of the matter,” Meizhen said more seriously.
+
+The three of them stood to one side of the vast pavilion of the Cai, shrouded from eavesdropping by the combined screening effects of their arts. The Duchess had arrived, and the pavilion was abuzz with the preparations for her entrance.
+
+“I do. Is it your view that the Bai will view it more negatively?” Cai Renxiang asked.
+
+Bai Meizhen pursed her lips. “As your left hand, I think Ling Qi’s less formal choices can be viewed as cunning rather than irreverence.”
+
+“Well, if that is how you want to sell it,” Ling Qi said with a small smile. “What do you think of the ambassador?”
+
+“I think she is solidly loyal to my aunt,” her friend analyzed. “However, she still has the pride of a White Serpent.”
+
+“Have I caused you trouble in requesting this conversation?” Cai Renxiang asked, raising an eyebrow.
+
+“No. My connection to you is my primary value here,” Meizhen replied. “Although the ambassador is generous enough in her way, I get the impression that she genuinely wishes to teach me her trade. But be aware that she still disdains outsiders as lesser than us.”
+
+“Unavoidable,” Renxiang said with a small frown. “Still, she does not show it, and that is the best that can be expected for now. It will take time for those attitudes to change.”
+
+These types of statements said a lot for the mindset of her friend’s clan as a whole, Ling Qi supposed. “What does she think of the alliance?”
+
+Meizhen grimaced. “I cannot say. Her personal thoughts are opaque to me. I will reiterate that she must be highly loyal to my aunt to have gained this position and thus, at least in favor of her policies.”
+
+“That will have to be enough,” Renxiang said.
+
+“Were you able to discover what kept Her Grace?” Meizhen asked.
+
+“I was rebuffed from her presence,” Renxiang said unhappily. "But… my sister has been brought, along with her entourage.”
+
+Ling Qi’s eyebrows shot up almost to her hairline. “Why? This is practically in the zone of the war. Why would she risk…”
+
+She trailed off. The only thing that made sense was that the Duchess felt Tienli was safer with her than in Xiangmen, which meant…
+
+“It is possible there is some threat of assassins, who might be willing to strike while the light of Xiangmen is away,” Renxiang said. “I think it would be best if we remained well alerted.”
+
+Meizhen took a deep breath. “Agreed.
+
+“Agreed,” Ling Qi echoed. After all, the Shishigui were quite good at that sort of thing. However, another thought occurred. “Will you go to visit your sister then?”
+
+“... I do not see the purpose. Children that young do not retain much of their experiences,” Renxiang deflected. Ling Qi could feel that her liege was being evasive.
+
+“I think it would be good to at least meet her,” Ling Qi said firmly.
+
+“Hm,” Renxiang said, not agreeing or disagreeing. “Our time is running short. We should prepare for our part in her arrival.”
+
+“Yes,” Meizhen agreed, shooting Ling Qi a look. “Renxiang, Qi, I wish you well.”

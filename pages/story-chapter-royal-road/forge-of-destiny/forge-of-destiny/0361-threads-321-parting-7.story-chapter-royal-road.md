@@ -1,0 +1,139 @@
+---
+id: 70f5e83b-cd38-5b08-b4d1-2bbf42ed12fa
+page-type-slug: story-chapter-royal-road
+title: "Threads 321 Parting 7"
+slug: 0361-threads-321-parting-7
+partOf: forge-of-destiny
+position: 361
+ownLength: 2375
+unit: words
+publishedAt: 2023-07-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1280590/threads-321-parting-7"
+royalRoadId: "1280590"
+---
+
+“You mean Elder Jiao’s—”
+
+“Our home,” Xin corrected. “I have as much right to guests as he.”
+
+Ling Qi inclined her head. Of course she did. Ling Qi doubted Elder Jiao would even contest that, for all he might grouse about it.
+
+Turning a corner on the starlit path, the silhouette of a manor came into view in the mist. It was a sprawling, two-story complex set against the base of a low slumping mountain among the trees. The ominous air of dense qi around it made Ling Qi’s hair stand on end and her skin prickle.
+
+Then, she saw it properly, and she felt her expression instinctively scrunch up in disgust.
+
+Lurid eye-searing pink.
+
+Every roof tile was that shade. The walls themselves were a splotchy gradient of bright greens and yellows that seemed to pulse under her vision, a sickening and hypnotic shifting of color that made her stomach cramp up as if she had eaten something bad. Wings of the manor jutted out at strange angles, and structures rose without rhyme or reason. There, a six-story pointed tower. There, a field of distorted plants encased by a sprawling structure of frosted glass. And there, a rustic hall of stacked logs and bundled straw.
+
+It was absolute chaos. Only the vines growing everywhere and sprouting silver flowers lent it any elegance at all, and even that only made the rest worse in contrast!
+
+Xin observed her expression. “My lord husband has a unique way of welcoming guests,” she said dryly.
+
+“Why does it make me feel ill?! It’s just shapes and colors. A formation? No, it’s not even that!” Ling Qi was aghast. She held her hand up to her mouth.
+
+Xin laughed. “If one masters geomancy, they will know everything that should be done. Is it not easy to do the opposite?” Xin took her hand to guide her down the path toward the manor. “Of course, we’re both a bit petty if I’m honest. It gets less offensive inside.”
+
+As they passed boundary walls that made her eyes itch, not just from the searing color, but because somehow there was something wrong about the angle of the structure, Ling Qi shuddered and lowered her eyes to her feet. They passed through a door that Ling Qi could not entirely perceive, twisted as it was, parallel to proper space. She could not have said whether it was set in the wall, the ceiling, or the floor of the manor porch, but the dim hall inside, while still painted luridly, was at least properly aligned with the world.
+
+“We may be walking for a moment, so let me ask you. I can sense some turmoil in your cultivation. I can lend an ear, if you like.”
+
+Ling Qi nodded, unsurprised that the powerful moon spirit could sense her troubles. Though she had found insights from her recent nightmare tribulation, she still had doubts and concerns.
+
+“Someone told me that power was the ability to affect change,” Ling Qi began. “That all who seek sovereignty desire dominion, to rule and command in some way or another. That power is without meaning and morality, and...”
+
+Xin walked beside her as she spoke. A silver candle flame had bloomed in her upraised palm, casting light through the deep wells of darkness in Elder Jiao’s manor. It felt strange to see shadows that her sight could not pierce.
+
+“I don’t think this is wrong, but at the same time, I’m not sure I want this to be right. Or at least, I need to find a Way which I can complete to my own satisfaction.”
+
+Xin’s footfalls, like Ling Qi’s, were soundless. Even the rustle of their gowns was absent. The moon spirit was also not breathing. Ling Qi barely bothered, letting the circulation of her qi do the majority of the work. Neither of them were making any pretense of normality. The absolute silence was almost meditative.
+
+It almost let her ignore the stomach cramp inducing color of the walls.
+
+“Hmm, I cannot say that view is wrong either. I have told you that the idea of fate, that there is some grand plan for the world, is false. It is utter nonsense which serves only to give certain types of mind comfort and belief in their own command of their world.”
+
+Ling Qi nodded, remembering the conversation with Xin after Zeqing’s death. She had been upset and confused. A part of her was still suspicious of Xin for orchestrating that death, using her like a game piece.
+
+But in the end, she had to let that go. XIn had only helped her and given her opportunities. She was the one who had chosen to take them.
+
+And even the seventh realm spirit had not gotten her way. After all, Ling Qi had decided to follow Cai Renxiang, rather than becoming Elder Jiao’s apprentice.
+
+“So to speak of absolute truths… Most can only be absolute in the minds of humans. But there is one such truth embedded in those words. To be sovereign is to rule. That is the fundamental nature of high cultivation. To achieve the highest realms, one must be absolutely certain in their own rightness and that there is some aspect of the world which must change. They must know that they have the right to be the ones who change it. If there is even the smallest doubt in your heart when you reach for those realms, you will shatter your body and soul in seeking to grasp that power.”
+
+“But I have seen regret and bitterness at the past. I’ve even something like self-loathing in sovereign cultivators.” Ling Qi thought of the elders she had met and of Diao Linqin and the almost contemptuous way she had referred to what seemed to be her own power of absolute empathy.
+
+“Of course. Doubt can creep in after you have advanced. Regret can set in, settling in cracks yet to be smoothed over. This is why those you have observed will never reach the final realm, let alone ascend. Only when one steps into the eighth realm do the last shreds of what one might call sanity flee. White light contains all colors, yet it contains none. This world of doubts and regrets and choices ceases to be theirs. They make themselves visitors here, lingering on the doorstep of a different kind of existence. And even then, most have some speck of impurity which keeps them here with us until remorseless time reaps them too.”
+
+“Then those words are right,” Ling Qi said. There were parts of the world that she wished were different. She didn’t know that she believed she could change the world though. That still felt like an arrogant thought here in the calm and silence.
+
+“It is difficult to argue with, but if the insight of a high realm was not, their Way would be precarious indeed.”
+
+Xin led Ling Qi through a room of overstuffed chairs scattered at odd angles throughout the room. The plush carpet sank under her feet despite her lack of physical weight. All around the rooms were paintings, mostly of Xin. Some were elegant and formal. Others were more risque. Ling Qi averted her eyes from those.
+
+There were other subjects too, such as landscapes. A black crag stretched into the starry sky, seeming to wear the thin sliver of light cast by the new moon like a crown. Another painting depicted a manor on the side of the mountain with a vast and terraced garden.
+
+Ling Qi noticed that one was a painting of two handsome young noblemen she didn’t recognize, grinning with their arms around each other’s shoulders. That one was very small, and the paint was chipped and worn.
+
+Each painting was also tilted, just slightly, at a unique and visually bothersome angle. It made a little knot of pain throb in her temple.
+
+“What do you believe power is then?” Ling Qi asked as they passed through the dark sitting room and through a set of three sliding paper screens that opened on their own. Each screen was painted with patterns of scattered eyes in different shades.
+
+“Power...” Xin mused. “Is a vague concept. But if asked to define it, I would say that it is born from causality. Power lives in the interplay of action and reaction, the exhaust of the countless lives all being lived at once, so often in competition or strife. Power is the ability to define and maintain one's own existence in the face of opposition.”
+
+“That seems very similar,” Ling Qi said. But not the same as hers. Xin’s definition was more reactive, she thought.
+
+“Hair splitting is inevitable when reaching personal definitions of such expansive concepts,” Xin said, turning to face her as they arrived outside of a sturdy metal door. Well, she called it a door, but it looked more like the entrance to a vault or the gate of a fortress. “But I think you will find that which hair you choose matters a great deal in cultivation.”
+
+Ling Qi frowned as Xin ran her hand along the surface of the door. “I think that power is the ability to make your choices extend beyond your own self. To make them matter to the world outside your mind.”
+
+She didn’t think her concept was complete. She was still nursing this insight, but it felt more cohesive, as if some of her thoughts were starting to come together.
+
+“A good place to begin.” Xin held her palm flat against the metal. “Goodness. Thirty-seven spatial labyrinths between the front door and here, and now this, a soul dispersion equation. Jiao, this is just excessive.”
+
+Ling Qi blinked and looked up. That was extremely concerning!
+
+The door blew away like so much mist.
+
+“It is not excessive at all, considering you and the girl have still come here,” groused a familiar voice.
+
+The room beyond was cavernous, full of tables and furnaces and devices which Ling Qi could not identify. Half-constructed hulks of metal and stone and wood hung from the ceiling, and burning forges that worked themselves shone like dull red stars in the distance. On the walls hung talisman blades, arms, and armaments, emanating such potency even at rest that Ling Qi suspected that any individual piece would beggar some clans.
+
+In the center, in a well cleared space, was a war chariot of the sort not fielded by the empire since shortly after the first dynasty and the Strife of Twin Emperors. Made of a smooth, jet black material chased with silver and white gems and wheels of gleaming white metal, it was immaculate with no sign of wear or damage.
+
+Elder Sima Jiao sat facing away from them in a chair set beside it. He looked strange. After the manor, she had expected to find him wearing something truly outrageous. But here, the bald, gray-skinned elder sat in an austere black sleeping robe, belted around his waist with a white sash. Somehow, it made him look thin and wasted. He had a long silver pipe in one hand, and a faint trail of inky black smoke rising from the bowl.
+
+“Did you do all of that and really not bother getting dressed, husband?” Xin looked faintly exasperated as she stepped over the threshold of the workshop.
+
+“Pfah, why bother? I was merely going to tinker with the suspension array today. Only someone had to drag a stray in.”
+
+“Jiao, you have been playing with that array for half a century, and you have never once even ridden in that thing. We don’t even own horses.”
+
+“I can acquire horses whenever I like. And it can still be improved.”
+
+Ling Qi gingerly entered the space behind Xin. She almost felt like a child hiding behind her mother’s skirts. It didn’t stop Elder Jiao from fixing her in place with his irritated gaze.
+
+“And you. What in the world were you even hoping for, coming here? I thought it was quite clear that you’d chosen to hare off with that foolish Cai girl.”
+
+Ling Qi took a deep breath and stepped out from behind Xin. She clasped her hands in respect and bowed at the waist as low as she could manage. “This disciple thanks the elder for his aid and lessons. It is most regrettable that this one was never able to learn from you properly.”
+
+He turned his head and stared at her hard.
+
+She remained where she was, unmoving.
+
+Xin smiled faintly.
+
+Ling Qi raised her head. “And though you were a prickly, irascible old man, I do sincerely thank you for your words at the tournament. They were all true. This path of mine can make me want to tear my hair out sometimes. At times, it feels as if I am all that lies between my liege and self-destruction.”
+
+She stopped breathing, cutting off the last sound save for the working of the automated tools in the background.
+
+Xin covered her mouth, her eyes crinkling.
+
+Sima Jiao let out a snort, and every light in the workshop flickered, narrowed eyes opening by the dozen in the long shadows. “Hmph, you have spine, even if it's only because you know that I wouldn’t fight with my wife in order to slap you, you ridiculous child.”
+
+“Knowing when one can afford to speak bluntly is an important skill,” Ling Qi refuted. Straightening up, she glanced at Xin. “Truly, I wished to thank you…”
+
+Sima jiao harrumphed, unimpressed. “And pick my brain for advice on dealing with old subordinates.”
+
+Ling Qi winced. “Any advice the elder would deign to give would be welcome, but I have no right to demand anything.”
+
+“Tch, don’t start doing court circles now.” Elder Jiao’s silhouette shimmered, and he was now looking at her head-on, his pipe held at the corner of his lips. His robe hung partly open, revealing his gray and sunken chest. Linen bandages so densely inscribed with formation characters as to appear nearly black were wrapped around his ribs. “There is nothing between us. As oblique as I had to be, you refused my offer. If you’d done it for any less a position, it would have been a terrible insult.”

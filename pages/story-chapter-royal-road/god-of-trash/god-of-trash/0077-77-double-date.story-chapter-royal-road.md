@@ -1,0 +1,219 @@
+---
+id: a78c3ad2-9b17-50f7-ac99-52663d06f3f4
+page-type-slug: story-chapter-royal-road
+title: "77. Double Date"
+slug: 0077-77-double-date
+partOf: god-of-trash
+position: 77
+ownLength: 2405
+unit: words
+publishedAt: 2025-05-16
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2284485/77-double-date"
+royalRoadId: "2284485"
+---
+
+Rhys returned to the stall grounds just after midday. He’d tried imbuing the potatoes with his path as they grew, but the potatoes were living things; just like with the bones, they resisted any kind of intent or path-related influence, since they had their own path and intent. Rather than trying to overcome it, Rhys had backed off. Potatoes were not trash, after all. It was only after he transformed them into junk food that they became trash. Therefore, if he tried to imbue them with his path now, he’d have to fight against their nature. It’s as I thought. I need to imbue it into them during the cooking process.
+
+The rats had continued to plant new potatoes, and he’d continued to nurture them, filling them with mana for the time being. While he was absorbing trash to give the potatoes mana, he’d also worked on getting the next round of bags ready. Eventually, there’d be enough bags in circulation that he could simply pick them up with the trash, clean them, refill them, and seal them, but he wasn’t at that level of saturation yet, so he still had to make new bags.
+
+After that, it was a short stop at a broken mirror to make sure his makeup and clothes were still holding up, and then he’d run back to the plaza, collecting Bast from the training yard along the way. He’d had to absorb the impurities from himself and Bast to remove the stench of trash and sweat, respectively, then fix a few details of Bast’s makeup that had gotten melty during his training, but for the most part, their costumes had held up.
+
+Anabel awaited them in the plaza, surrounded by her flunkies, as usual. Rhys felt a twinge of intimidation as he approached her, but pushed it down. He was Rina right now, not Rhys, so even if he fucked up, it wouldn’t be a black mark against his record, just Rina’s. He smiled and waved. “Hi! Hope I didn’t keep you waiting?”
+
+One of Anabel’s flunkies whirled on him, angry, but Anabel waved her hand, and the flunky instantly fell in line. “Not too long. Now then. All of you, begone.”
+
+The flunkies bowed and retreated. A glimmer of jealousy flickered in Bast’s eyes.
+
+She nodded at them. “I don’t like for others to watch the process. It’s far more trial and error than my reputation would have them believe. I’m the kind of person who only wants others to see once it’s good enough to be worth showing.”
+
+Rhys nodded. He understood. It was a kind of perfectionism, but to him, the most tolerable kind. Holding back and restraining yourself from screaming about every tiny advancement you made, to instead surprise those around you when you were finally satisfied enough with your skills when you showed them off; that was an attitude he himself enjoyed, not least because he didn’t have to pretend to like every incremental advancement while their skills were still sub-par.
+
+“So, tell me, Rina. What is your personal fashion preference?”
+
+Rhys blinked, taken aback. He hadn’t expected to be questioned about it. Honestly, he’d expected her to drag him along and dress him up in the trendiest new gear, without asking him anything at all. What was Rina’s fashion preference?
+
+“Take your time. I understand everyone doesn’t have an answer at hand,” Anabel said kindly, smoothing her skirts.
+
+“I… like slinky fabrics. Soft clothes that accentuate my frame, and block colors,” Rhys said at last. He didn’t want a complex design, or something that distracted from the chips. Simple, but attractive, and slinky, shiny fabrics that caught the eye were ideal. His whole body served as his advertisement, so he had to make sure it was one that drew the gaze and held it. “Oh, and I want to be cute.” He couldn’t lose sight of his salesman nature. Cuteness was king, and he had to stay cute if he wanted to keep winning.
+
+“Cute, but simple. I understand.” Anabel nodded. She gestured for him to follow.
+
+“What about Betsy’s preferences?” Rhys asked.
+
+“Don’t have any,” Bast grunted.
+
+Rhys nudged him.
+
+Anabel glanced back, a small smile on her lips. “You dressed her, no? It’s obvious enough if you know what to look for; there’s a cohesive set of design decisions between your and her outfits. If she let you dress her, then I assumed she would continue to allow you to take the fashion lead.”
+
+Rhys raised his brows. Huh. He looked at Bast. Now that she’d pointed it out, he could see the cohesiveness in the choices he’d made. Colorblocking. Solid fabrics, with no prints. Simple silhouettes that played into their body shapes. It wasn’t obvious at first, but there was an underlying shared philosophy to both the outfits he’d picked.
+
+“You guessed correctly,” Bast replied.
+
+“Good. Then, shall we?”
+
+The next few hours were a whirlwind of fabrics and clothes. Anabel had them put on, then take off, every possible combination of skirt, pants, blouse, and dress. The clothes themselves were never the point, but simply seeing how the silhouette looked on their bodies, to pick the correct shape. Rhys, unsurprisingly, leaned toward slender and narrow silhouettes, while Bast’s relatively stocky frame pushed him toward broader designs and outfits that shaped his body with subtle color changes and fabric differences, rather than accentuated what existed; alternatively, Anabel picked some relatively racy cuts for him that showed off his muscular limbs. “A swordswoman shouldn’t hide her body,” she opined, nudging for Bast to rotate to get a better look at the way the triangular neckline showed off his shoulders. She nodded. “There’s beauty in a well-honed body, whether it’s male or female. You worked hard for those muscles. Put them on display.”
+
+Bast glanced at Rhys, totally lost, only for Rhys to nod along in appreciation. “I wanted to give the design hip-slits, but I thought that might be too risqué.
+
+Anabel nodded. “You do run the risk of displaying too much skin, and appearing as a nightwalker rather than a saleslady, but I think these muscular shoulders of hers can be safely displayed without verging into outright sexual.”
+
+“I totally agree. You’re right, the hip-slit would have been too much. I didn’t think to display the shoulders instead.” Rhys pointed. “Then, what about a loose upper torso, into a tight wrap just above the natural waist? That way, we hide her rather bulky silhouette, but still display her shoulders, assets, and relatively small waist.”
+
+“Not a bad thought. I was leaning toward a tight sleeveless blouse with a pair of long, flowing detached sleeves to add the softness to the design without accidentally adding bulk to the torso.”
+
+“No, no, I agree, that’s a better way to go about it…”
+
+Bast gazed upward, clearly wishing to be anywhere but here. Rhys, on the other hand, was in heaven. This was almost as good as discussing the optimal character design for cosplay-making, and how to best adjust the shape of the garment so the all-important character silhouette remained, while the garment itself fit the reality of the body it was going to be worn by. He’d missed having these discussions with his female friend, and Anabel filled that void.
+
+Not only that, but in these discussions with her, he could sense her path, and how her comprehension of fabric, clothesmaking, and fashion combined into something greater. The words they exchanged weren’t mystical or esoteric, but they nonetheless expressed an ephemeral and mystical understanding into Rhys’s mind, something he knew he couldn’t comprehend, nor did he truly want to. Yet, at the same time, his understanding of his own path advanced, as he got a look at someone else’s path from outside. He wasn’t directly gaining, but indirectly gaining.
+
+Curious, he pulled up his stats.
+
+Rhys Foundling | 15 | Core Formation (Tier 2)
+
+Title: Trash-born
+
+Skills:
+
+Hunger Resist 15
+
+Survivalist 30
+
+Pain Resist 47
+
+Scavenging 35
+
+Less is More 42
+
+Sewing 12
+
+Blow Mitigation 27
+
+Self-Regeneration 31
+
+Mana Manipulation 20
+
+Improvised Weapon Proficiency 11
+
+Heat Resist 18
+
+Acid Resist 24
+
+Impurity Resist 29
+
+Poison Resist 27
+
+Cold Resist 12
+
+Alchemy 7
+
+Herbalism 8
+
+Speed Reading 12
+
+Bluff 4
+
+Enlightenment 5
+
+Speed Picking 4
+
+Forging 4
+
+Crafting 7
+
+Disguise 10
+
+Path:
+
+Trash Intent 12
+
+Trash Body 8
+
+Trash Aura 4
+
+Trash Step 5
+
+Trash Manipulation 9
+
+Trash Enchanting 2
+
+Trash Talk 5
+
+He nodded. Two levels in Enlightenment, a skill that usually struggled to level, let alone jump two levels. This, and his chip enlightenment, had been worth it.
+
+At last, Anabel saw them off, promising to return with clothes the next day. Rhys waved her goodbye, a big smile on his face.
+
+He leaned toward Bast. “That was definitely a date.”
+
+“No, that was a pair of girls hanging out doing girl things. You have a girl friend. Not a girlfriend, a girl friend,” Bast countered.
+
+Rhys waved his hand. “Eh, good enough.”
+
+“It’s completely different.”
+
+“Still got to talk to a girl.”
+
+Bast squinted at him. “Why are you like this? You like things girls like, you… aren’t hideous, and your personality could be worse. So why do you act like talking to girls is impossible?”
+
+“Talking to girls isn’t impossible. I have lots of female friends. Talking to a girl is impossible. She’s a girl, not a girl.” Anabel was a pretty girl. A popular girl. A girl with power. She wasn’t just a female human, she was a girl, and she’d weaponized that girlishness. It was the difference between chatting with his female friends and fellow nerds, and chatting with the popular girl in high school. One was whatever, no problem. The other was a harrowing trial that he might not survive with his high school reputation intact. Of course, he didn’t really care about that anymore, but nonetheless, Anabel still had pretty-girl, popular-girl allure. She was different, and she knew it. No, everyone knew it.
+
+Bast just shook his head. “I don’t get you right now.”
+
+“But you do get me sometimes, and that’s better than most people can claim. Come on. We’ve got a meeting to go to.”
+
+Bast chuckled at him. “That one is definitely a date.”
+
+“Incorrect. It’s a information-gathering operation.”
+
+“…That Laurent thinks is a date.”
+
+“That’s why I brought you, so he knows it isn’t a date.”
+
+“Pretty sure he didn’t get the message.”
+
+Rhys shrugged at him. “What do you want me to do? Back out and not learn more about the Empire?”
+
+“No, no, I think you should go through with it, I just want to make sure you’re not deluded about Laurent’s expectations.”
+
+Rhys opened his mouth, then squinted at Bast. “I’m fifteen.”
+
+Bast raised his brows and shrugged.
+
+“Do people fuck at fifteen?” Rhys earnestly asked. He sure hadn’t. But he hadn’t fucked at twenty, or disappointingly high numbers following twenty, either. As a king-tier nerd loser, he didn’t count as normal when it came to anything social like that. He knew kids were fucking in high school far before he thought they should be, but fifteen seemed young to him.
+
+“People are married for years by fifteen. Some people have families by fifteen,” Bast pointed out.
+
+“Yeah, but that’s peasants. If they aren’t fucking by fifteen, that’s half their lives over. What about mages?”
+
+“Mages are still people.”
+
+Rhys squinted at him. “…Is that a yes?”
+
+“Gods, I really don’t know if you’re joking or not.”
+
+“I’m barely people, Bast. Come on. Toss me a bone.”
+
+“Yes, Rhys. Yes. Mages are fucking at fifteen. And Laurent is at least seventeen. He’s several inches taller than you, in case you didn’t notice.”
+
+“I did notice, but I thought it was just my delicate and adorable frame, not an age difference.” To be fair, he was still mentally far older than anyone else in his ‘age range,’ and he hadn’t hit mage ages to make that meaningless yet. He planned to do zero fucking until he was much, much older, and if his first life was any indication, there was little danger of that happening regardless of what he did. The problem was that when he saw Laurent or Bast’s face, and wasn’t deliberately remembering how old he looked, he thought “a child,” not “older than me.” It’d been so easy the first time around to tell who was older or younger, but this time around, they all just looked like children to him.
+
+“You’re too far gone,” Bast muttered, rolling his eyes.
+
+“I’m joking, joking. Anyways, thank you, but don’t worry. If he tries anything funny, I’ll beat him up. And if I can’t beat him up, that’s what you’re there for.”
+
+Bast nodded. “Don’t drink anything. Don’t eat anything. Keep an eye on your mana and stay aware of any potential manipulation.”
+
+“Bast, come on. Do you think he’ll try something like that?” Rhys asked, half-laughing.
+
+Dead serious, Bast nodded. “Saw it all the time back at mom’s place.”
+
+Rhys’s smile died on his face. He nodded, looking down. “Right. Sorry.”
+
+He’d almost forgotten that Bast had spent his earliest years at a brothel, hiding in his mother’s rooms before he’d decided to take his chances and run away from that place. He’d seen more sexual violence than Rhys had seen sex in his lives.
+
+Bast thumped him on the shoulder. “Just keep your eyes open, and you’ll be fine. I’ll be right there with you.”
+
+“Got it.” Rhys took a deep breath, resetting his mindset. This wasn’t a zero-threat hangout date with a fellow costume enthusiast. This was a serious threat to his future as a potato-chip salesman. He didn’t think Laurent would actually drug him and make attempts, but he was worried about getting his disguise ruined, and there's were a lot of things that could ruin his disguise short of what Bast was worried about. He rather liked this costume, and it was doing good work for him. It wouldn’t do if he had to suddenly kill off Rina and come up with a new saleswoman, but if Laurent found out he wasn’t actually Rina, but instead Rhys, he’d be forced to do just that.
+
+But he couldn’t give up now. The information about the Empire and the threat it posed, personally and existentially, were too valuable for him to turn back. So instead, he gritted his teeth and walked into the lion’s den.

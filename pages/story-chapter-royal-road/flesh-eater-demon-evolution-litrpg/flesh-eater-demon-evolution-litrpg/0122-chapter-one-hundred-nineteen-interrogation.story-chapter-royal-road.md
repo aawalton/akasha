@@ -1,0 +1,167 @@
+---
+id: 8ae4334b-64cc-59d1-bd4c-eab1a98da0bd
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Nineteen: Interrogation"
+slug: 0122-chapter-one-hundred-nineteen-interrogation
+partOf: flesh-eater-demon-evolution-litrpg
+position: 122
+ownLength: 2474
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3866288/chapter-one-hundred-nineteen-interrogation"
+royalRoadId: "3866288"
+---
+
+The interrogation started fairly simple. Pyre didn’t know what an “average” one looked like, but Agnes began by asking some basic questions about her whereabouts on the day of the “incident,” how she’d first noticed the guy, and about the ensuing chase. She kept her word about staying professional and unbiased, and while her face remained neutral the whole time, she didn’t seem to be actively trying to trip the demon up or anything.
+
+“So after first noticing him in the square, you followed him down the street,” Agnes confirmed.
+
+“Yep.” So far, she hadn’t needed to lie at all. The orb hovering in the middle of the table remained the same soft golden hue.
+
+“After confronting him, you saw his tattoo?”
+
+“Yeah. He asked if I was a guard, which I figured was pretty suspicious. Can’t imagine asking something like that unless you’ve got something to hide,” the demon added with a snort. She saw the corners of Agnes’s mouth twitch up before the knight smoothed them down again.
+
+“When he jumped away, his cloak flew up. I saw the tattoo on his arm and recognized it from the sketch.” She tapped her coat pocket. “I brought it with me.”
+
+Agnes hummed. “May I see it?”
+
+The demon pulled the paper out and handed it over in response. The knight took it, eyes rapidly scanning the dark lines as she confirmed that it did, indeed, match the tattoo on the man’s arm. She must have a good memory to be able to remember the arm tattoo off the top of her head. Then again, considering that arm was under active investigation, she probably saw it multiple times a day.
+
+“This sketch was drawn after a cloaked man attacked your little brother, correct?”
+
+Ah yes, back to this particular cover story. “Yep,” Pyre said without missing a beat. She pronounced the ‘p’ with a pop. “Llyr helped draw it out. If you ask him, he’ll confirm it.”
+
+Agnes didn’t directly respond to that, simply folding the sketch and placing it down on the corner of the table—probably to be used as evidence later or something. Lord Alardice and that Henry dude were most likely asking Daphne and Llyr similar questions to confirm that their stories matched.
+
+Without moving, Pyre peered up at the ceiling through an extra eye hidden below the hair on the top of her head. According to Llyr, Lord Alardice’s office was somewhere on the second floor, so Callan was probably there now. She couldn’t make out any differences in the thermal gradient—the ceiling was too high and the building material too dense—but she assumed his search was going well, since she hadn’t heard any alarms or yells yet.
+
+“According to your account, you then chased the man across the city after seeing the tattoo, finally confronting him in the alleyway the knights found you in. Is that correct?”
+
+Pyre focused back on Agnes. “Yeah. He was about to teleport away, so.” She shrugged, perfectly nonchalant, and made a swiping gesture that didn’t at all resemble an axe swing, but got the point across. The knight captain raised an eyebrow.
+
+“That would indeed prevent him from teleporting,” she said dryly. She glanced at the orb, still growing steadily, then at the rune lines on the floor. Her expression was still largely unreadable, but she seemed to be considering something.
+
+Finally, she nodded. “Alright, I think that’s enough.”
+
+Pyre raised an eyebrow. That was quick. “Not gonna ask anything else?”
+
+“You already have a confirmed alibi during the time of the man’s death.” Agnes waved her free hand. In an instant, the glowing lights dimmed, rune lines fading back to drawn chalk while the orb condensed down into the size of a marble. The glow around it completely dissipated, and a solid, glass-like sphere dropped down into the knight’s hand. Pyre studied it curiously. When the light hit it at the right angle, it had a faint golden sheen. It looked like this was where the “recording” was stored.
+
+“To be frank,” Agnes said, setting the marble aside and folding her arms over the table, “this was largely a formality.” She smiled, the expression not held back by anything this time. “Standard procedure, really. After Daphne and Llyr are done, you’ll all be questioned a final time together, but I don’t anticipate any issues.”
+
+Pyre gave her a long look. “I guess I’m probably not getting tossed in jail, then.”
+
+The knight chuckled at that. “Off the record, not if I can help it, no. Though you’ll likely be fined for the damages caused during the chase.”
+
+That sounded perfectly fine to her. The fine would probably be a drop in the bucket to the Bellheins.
+
+Now that the light of the spell was gone, the room felt a lot emptier. Despite saying that the questioning was over, Agnes remained seated across the table, sharp eyes studying the demon. Pyre met her gaze steadily. She stayed quiet, waiting for the knight to speak first.
+
+“I believe,” Agnes finally said, “that you may have some questions for me yourself.”
+
+The demon smiled at that. “You could say that,” she drawled. She cocked her head. “Have the knights found anything on the arm? You’ve been studying it, right?”
+
+Agnes frowned. “We’ve confirmed that there is indeed a teleportation spell embedded into the tattoo, and that it’s linked to a specific destination, but we haven’t been able to determine what that location is.”
+
+Her eyes darkened. “The teleportation spell is protected beneath layers and layers of misdirection spells hiding its origins. Whoever created it was careful.”
+
+Damn, so no luck there yet. “What about the death? Got any leads?”
+
+Agnes shook her head. “The healers found nothing out of the ordinary. The current theory is that it was some sort of spell that left no trace. I was actually planning on asking Llyr to take a look at both the body and the arm after the questioning was over.”
+
+She paused, then added wryly, “though I suspect he also won’t be able to find anything. This kidnapper is clearly quite adept at hiding.”
+
+Considering Llyr still hadn’t located them after studying all those dead bodies in the mansion, Pyre was inclined to agree. It was still worth a look, but the lack of progress on the literal direct victims didn’t bode well.
+
+Her eyes drifted around the room, idly taking in the plain walls, before landing on Agnes again, considering. She had half a mind to ask her what she thought of Lord Alardice and his shady behavior—it was already pretty obvious that she didn’t exactly like the noble. That would be revealing too much, though. She still didn’t know how much they could actually trust the knight.
+
+As Pyre was considering what else to say, Agnes suddenly spoke again.
+
+“You, Lady Daphne, and your brother are currently living with Llyr, correct?”
+
+Her tone was light, casual. Pyre raised an eyebrow.
+
+“Yeah, have been since we arrived in Serindell. The mansion’s nice.”
+
+Agnes chuckled at that. “I’m sure it is. I assume your brother is there now?”
+
+“Yep.” Pyre studied the woman carefully. Her tone didn’t sound particularly accusatory, but she was sharp enough that she wasn’t going to put anything past her. Best to proceed with caution. “The kid’s pretty traumatized from the whole almost-kidnapping thing. I didn’t want to make him relive it.”
+
+Agnes nodded. “I can understand that. I had a little brother myself—the protective instinct is quite strong,” she added with a soft laugh.
+
+“Had,” she’d said. Pyre noted, but didn’t comment on the use of past tense. The woman was already moving on anyway, clearly not eager to linger on this subject.
+
+“How has living with Llyr been?”
+
+The demon shrugged, keeping her movements relaxed even as she studied Agnes. She couldn’t tell where this line of questioning was going. “Fine. The guy’s way too trusting, if you ask me.”
+
+(That was a lie. She might’ve thought so at first, but after their fight, it was clear that he wasn’t super trusting at all—he just knew he was strong enough to not need to worry about most people. Confidence, not naivete.)
+
+“Yes, I’ve had similar concerns myself.” Agnes frowned a little at the thought. “He’s done incredible things for Serindell in a short amount of time, but I do worry about him. A lot of people would want to take advantage of his abilities, and his isolated location doesn’t help in that regard.”
+
+“What, are you gonna offer him a job next?” Pyre raised an eyebrow. “Does Lord Alardice have competition?”
+
+Agnes threw her head back and laughed. The sound was bright and clear, bouncing and ringing off the room’s enclosed walls. “I don’t think anyone could compete with Lord Alardice in that regard, no.” She sobered. “I just worry about him. He’s assisted the knights quite a bit, you know. He’s not the sort of person to ask for help when he needs it.”
+
+Light blue eyes shifted up to look at Pyre. “I don’t suppose you’ve noticed anything off recently? Perhaps he’s told you something?”
+
+The demon met her gaze evenly. “Not really, no. Other than Lord Alardice harassing him every week.” She leaned back, her chair squeaking slightly beneath her at the shift in weight. She used her legs to keep the thing from falling over entirely. The woes of being much heavier than you looked, she supposed.
+
+“He doesn’t talk to me much. Kind of busy with all his healing and stuff,” she continued.
+
+Agnes hummed. “That does sound like him, yes.”
+
+“Honestly, I think he can probably handle himself,” Pyre said dryly. That was an understatement, not that the knight needed to know that. “Good on you for worrying about him, though.”
+
+Outside, faint footsteps sounded. Pyre immediately spun around, gaze sharp, but the sounds were even and unhurried. Definitely nowhere near as rushed as they would be if someone had noticed Callan or something had gone wrong with the other interrogations.
+
+Sure enough, a few moments later, the door opened and another knight appeared. He gave Pyre a wary look, but turned to Agnes and saluted.
+
+“Captain, Lord Alardice and Sir Henry have finished their interrogations. They’re waiting for you in the dining room.”
+
+Agnes nodded. “Thank you, we’ll head there now.” She rose from her seat, gathering the sketch and the magic marble recording as she did so. Pyre followed suit. That was quick, but then her own questioning had also been fast, and she’d had the most to answer for. So far, things were going remarkably smoothly.
+
+Agnes handed the folded tattoo sketch and the marble to the other knight. “Please store these with the other evidence,” she instructed. The man saluted again, then turned and disappeared down the hall. The sound of his footsteps soon faded, leaving only Pyre and Agnes standing in the doorway.
+
+The knight turned to her and nodded. “We should begin making our way to the dining hall.”
+
+It didn’t take long for them to reach their destination. They passed by several more knights along the way, and the whole time, Pyre kept an eye out for any signs of Callan. They’d agreed that he would check back downstairs at regular intervals to make sure he didn’t get stranded when they left. They weren’t sure if he’d be able to phase through the gates from the inside to the outside without tripping the wards, after all.
+
+They hadn’t passed by a clock yet, but Pyre figured that they were probably getting close to one of those check-up intervals. The timing was pretty good; he should be downstairs when they were done with the final “group interrogation” or whatever it was.
+
+Whether or not he’d actually found anything remained to be seen.
+
+They turned the next corner, and the looming mahogany doors of the dining hall soon came into view. The knights guarding the doors saluted at them, and Pyre recognized one of them as Sir Henry. He shot her his signature glare, and she returned it with a wide grin that no doubt looked more than a little uncanny. He shuddered and quickly looked away, busying himself with pulling open the doors for them.
+
+The heavy doors soon swung open, revealing the same long dining table they’d eaten at two nights ago. There was no food on it now, though—only stacks of papers.
+
+Pyre immediately spotted Daphne and Llyr seated on opposite sides of the table, Daphne on the right and Llyr on the left. At the head sat Lord Alardice.
+
+There were a lot more guards inside compared to during mealtime, Pyre noted as she strode forward. They stood in a line around the perimeter by the walls, and she counted at least twenty. And that was without Agnes and the two knights at the door. Her eyes traced the group, lingering on their sheathed weapons and noting their positions around the room.
+
+“Take a seat,” Lord Alardice instructed from the head of the table. He nodded to a chair beside Daphne, who visibly brightened when she saw the demon. Based on the slightly irritated crook of her eyebrow, Pyre suspected that she’d been arguing with Lord Alardice before they’d come in.
+
+“Did everything go well?” Daphne asked as soon as Pyre sat down. Agnes, meanwhile, took up position standing just behind Lord Alardice’s left shoulder. No chairs for knights, apparently.
+
+“Pretty good,” Pyre said simply. Despite her casual demeanor, she kept a close eye on all the knights around the room. At the head of the table, Lord Alardice cleared his throat.
+
+“Thank you for answering our questions today,” he said in a stiff voice. He didn’t sound genuinely grateful at all. “Before we release you, we have a few final things we’d like to confirm.”
+
+The noble’s eyes landed rather pointedly on Pyre. She just waved in acknowledgement.
+
+“Shoot.”
+
+Lord Alardice frowned, but he turned to Agnes. “Captain Agnes, could you please activate the interrogation spell?”
+
+The woman in question nodded and stepped forward. She raised one hand, and it began to glow that same golden hue from before. The knight closed her eyes and began chanting.
+
+Pyre’s eyes landed on the ground below, and she shifted her leg to lift up the tablecloth slightly. She hadn’t noticed them at first, hidden below the draped cloth, but there were rune circles etched on the dining room floorboards below the table. She vaguely recognized the shapes near her chair as the same as the ones in the interrogation room.
+
+She stilled.
+
+The runes on the other side of the table looked different.
+
+Daphne’s eyes widened as she, too, noticed the sigils. She opened her mouth to yell a warning.
+
+Pyre shot to her feet just as a pillar of light shot up from the runes.

@@ -1,0 +1,137 @@
+---
+id: 92bbb3af-e19e-55c1-a188-e6556fa3f9e6
+page-type-slug: story-chapter-royal-road
+title: "Threads 367-Depths 2"
+slug: 0407-threads-367-depths-2
+partOf: forge-of-destiny
+position: 407
+ownLength: 2436
+unit: words
+publishedAt: 2024-03-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1550906/threads-367-depths-2"
+royalRoadId: "1550906"
+---
+
+The dream was muted here. The chaos of the valley raged on beyond her view, but in the ward-sealed embassy, cut off from the greater dream, the liminal manifested to her eyes as a soft, featureless white fog, churning slowly through transparent, joined cubes of crackling pale blue energy. Ling Qi wondered if this was what the world would look like to a tame fish in a tank.
+
+"I don't think that's right unless we're talking about a cultivating fish who can comprehend the glass," Sixiang quipped, floating on their back in a slow circle around her. They'd manifested in a loose, poofy, pale blue robe, and they craned their neck back to look at her from their recline. "Hey, you sure you're gonna be good for this? A peer ain't gonna be the same as a guy two realms down."
+
+"I am. I know I can do this. I will do this. Whatever this saboteur wants, they are not ruining all of my work, all of Lady Cai and Gan Guangli's work, all of Jaromila's work."
+
+"Haaaaah… You really sound like a cultivator now. Looks like your friend is reacting to something."
+
+Ling Qi turned to the controlled whorl of power that marked her friend's presence. A deep black pool with shores of white sand and soft earth, it rippled with intent swimming under the surface. Black rage and pricked pride that her retainer would be touched so lurked, as did concern for both him and Ling Qi. She didn't look deeper.
+
+The crackling lines shifted, and a gap opened, colored sparks drifting in with the foamy wave that crashed through, full of bubbles, of song, and of numbers that schooled like fish.
+
+Xia Anxi was here.
+
+The wave circled the lake, fearful of its dark waters and of many other things. She pulled her eyes away before she could see any of them too deeply.
+
+Sixiang appeared on her shoulder, shrunken to the size of a doll, and patted her cheek. "Ready?"
+
+"Ready," Ling Qi replied. Drawing on her qi to shroud herself in it, she slipped silently between the layers of the mind into Xia Anxi's thoughts.
+
+Her first impression was the scent of salt, harsh and stinging in her nose. Then, she heard a slow crashing of water from near and far alike. Her vision resolved, and she saw a horizon of endless blue. A setting sun reflected across waters wider than she had ever imagined. She stood on the waters beneath a stone pillared pier jutting out into the waves. Other scents hit her: wet wood and rope, tar, fish, smoke, and bodies washed in their own sweat.
+
+She became aware of the clamor of people above and behind, of the bustle and creak of wood as feet passed over by the score, and of shouting, laughter, and songs. She looked behind her, gazing through the peer with eyes not of her body to see the clustered roofs of warehouses, workshops, and wharfs, a rough, tumbledown dock stretching across the shore in every direction, jumbled and shifting in layout between every eyeblink. In the waters, little fishing boats teemed and larger ships swayed and groaned, drifting sedately in and out of the harbor.
+
+Xia Anxi was showing her the ocean after all.
+
+She let the sound of the rolling surf and the sight of the sunset on the vast horizon wash over her before she turned toward the shore.
+
+"Huh. Would have expected something tidier," Sixiang commented as Ling Qi darted along, footsteps barely touching the water as she wove between the stone columns of the pier. Under her feet, schools of fish teemed, broken up by the occasional sinuous, winding shape of a serpent under the water. The smallest were twice as long as she was tall. The largest could probably have coiled around Zhengui two or three times at his full size.
+
+There was something to be said for likening the self to what lay under the water. In many ways, the surface of water was akin to the skien that separated the material from the liminal, a soft and permeable barrier on the side of which lay a different world. The surface was what was presented to the world, the face shown to all comers.
+
+That was most likely the key to unlocking the power of a lake art, like her defensive techniques. Stillness was not in her, but she understood silence and the void. The space between notes, words, and thoughts were vital to maintaining identity. The power in the liminal, the transition, the mystery of what lay beneath the reflecting surface, that was where she could build a defense.
+
+The Bai way was to appear unruffled in all events, to let that surface never so much as ripple. This, Bai Meizhen had told her, was partially because the blood of Yao and Grandmother Serpent came with an awful temper, that all of them were taught to keep tightly under control to varying effectiveness.
+
+And so, darting out from under the pier, she crossed the open water as no more than shimmer and shadow in its ripples. Funnily, she did not think the ocean depths were the place to look for the parasite. If anything, she had entered this place upside down. The coiling serpents, flashy fish, and the ominous depths were the surface of Xia Anxi, and this bright and merry dockyard was what lay beneath.
+
+"Ahhhh, I'm so curious now!" Sixiang mock whined.
+
+She was, too. Why would a haughty Bai astrologer and court musician's mind be like this? But she had a task and a duty, and she was not going to deviate from either here if she could help it.
+
+"Yeah, I get it." Sixiang sighed. “Oh! I think there's something suspicious-looking going on down on the left."
+
+Ling Qi focused her senses that way, flowing along the reflective glisten of seaspray on stone and wood beneath tramping boots and bare feet. There. She saw a collection of workmen gathered about a stack of crates. Their faces were smooth and featureless and their voices were muffled, not-quite words spilling from their mouths. They were thoughts, and she couldn't quite listen directly to those. They were gesticulating wildly at a high-prowed, snow white ship sitting ominously in harbor. One was gesturing to the others radiating nervous energy and insistence while the others were shaking their heads violently and pointing to the crates.
+
+Ling Qi smelled the fetid stench of rotting reeds.
+
+The angry thoughtform threw up its hands and stomped off, and the garbled noise of the others' communication took over, fearful and nervous. One, with glistening violet scales on its bare arms gestured, and the other two began hauling the crates away.
+
+Ling Qi followed after, wondering how to interpret the scene she had just seen. Had she just witnessed Xia Anxi's subconscious refusing the urge to pass on the parasite, or was it mere resistance against saying whatever uninhibited statement it had made him want to say?
+
+No, the parasite wasn't here. Whatever was contained in the crate now being carried away was tainted by it though.
+
+She darted after the dockworker thoughtform carrying the tainted crate to see where it would go. She had to swerve hard into a nearby alley as she caught sight of a tall figure swaggering down the street. Tall and armored in silvery mail with violet hair and a less blank face, this thoughtform had burning yellow eyes, sweeping and searching the surroundings. She instinctively understood that this represented Xia Anxi's internal awareness.
+
+Slipping back out in the passage of the guard, she searched for the trail of the rot-toting thoughtform. She felt in her mind a little nudge from Sixiang, and with the muse’s assistance, she shifted toward the narrow gap between a pair of warehouses to continue following her targeted thoughtform out of sight of the main streets.
+
+The crevice between the groaning buildings shifted. It would have been easy to be trapped in the buildings’ transformations, pinned between the walls as buildings crawled into new configurations, crushed by collapsing roofs, or swallowed by bucking ground. These tight, narrow spaces lacked the stability of the wide street that ran along the shore.
+
+But eyes didn't fall here.
+
+As she moved, she found her sense of the place refining. The thoughtforms’ faces became less smudgy blurs and their words less incomprehensible noise. It was a slow transition; a peer cultivator's thoughts were more dangerous. If she took too many of them, they would erode her own identity as surely as the surf eroded the shore into sand. But she needed to understand this place—Xia Anxi—better if she was to investigate it properly.
+
+"Treasures wending, winding down to keep…"
+
+"Goddess silent, down to deep…"
+
+"Bounty, bounty for the shore…"
+
+"Palace far, heavens far, black and white with eyes above…”
+
+"Goddess hissing so soft, winds so deep, deep beyond the shore…"
+
+Fragments of the words of a song, or maybe multiple songs, filtered through, carried on the voices of the thoughtforms working so heartily upon the docks. More than the words, she felt the emotions carrying them, wafting on the salt-laden wind.
+
+Nostalgia, bitterness, shame, wistfulness. Happy memories tainted by regret and distance. There was a building pressure in them, stress tinged with rot.
+
+"You will cancel your meetings today. I require you to be close at hand."
+
+Meizhen's voice drifted to her ears on the sound of the waves and the creaking sails of the white ship.
+
+"Of course, Lady Bai. I had thought you wished to humor our enemies and have me take the meeting with the princess. Was it just to insult them by canceling at the last moment? Please instruct me. My lady has commanded that I seek to understand rather than merely obey. I am only following that directive."
+
+"A benefit, certainly, but not my intent. Please avail yourself of the tea. I am certain I will be able to explain fully in a short while."
+
+Ling Qi glanced toward the shore, following along as she was. That was… new.
+
+"Did that come through alright?" Sixiang asked.
+
+It had. Sixiang was responsible then?
+
+"I'm halfway in and out of this mind. Figured I could help by letting some of the outside reach you. Kinda hard since your perception of time is all wonky in there, but I managed!"
+
+Ling Qi was thankful. She was beginning to see the shape of this plot. Depending on how badly Xia Anxi was affected by the parasite, there was certainly a range of reactions Sun Liling could have in response, and having two of their ducal observers come to blows could easily drag the imperial side of negotiations to a halt and dramatically increase the uncertainty and credibility of the White Sky's conservative factions. In addition, if a Sun was allowed to harm a Bai under the Cai’s aegis, whatever the provocation, that would strain relations badly between the Thousand Lakes and the Emerald Seas.
+
+She let these considerations fade to the back of her mind as the thoughtform and its cargo she was tracking entered a dense web of side streets, passing by only a single guard. Nestled at the center of the jumbled buildings was one that stood out. It seemed more real and solid, the wood of its construction detailed with weathering and cracks, its roof tiles discolored and here and there, laboriously repaired. Its sliding doors were open, and there was a great clamor of people inside, and the strains of music flowing over them
+
+Ling Qi slipped in through an open window set with wooden slats, pooling as a shadow in the corner of the warm den inside. People thronged her, filling tables and benches. The rich scent of spices, roasting fish, wines and other drinks she didn't recognize filled the space. In one corner of the room, a rickety raised dais was set off of the sand-strewn floor. There, a musician in patched and ragged robes sawed away at a scuffed guzheng.
+
+It wasn't the music of a master. Ling Qi thought even her mother’s rusty attempts to play when she had first come to White Cloud Town were as technically proficient. But there was an enthusiasm to the music, and it carried a hearty air and carefree joy.
+
+The musician, a haggard looking man with a stubble beard and deep laugh lines on his face, was much more real than the other thoughtforms. Ling Qi could tell immediately that he was something closer to an actual memory, probably of a real person.
+
+With half her attention, she tracked the slow movement of the thoughtform carrying the crate of rot-scented memory. But the other half fell on something else. Among the blurred faces and half legible voices, there was another clear figure. A child was perched up with his feet on one of the roughly carved seats, looking up at the musician with bright eyes. The child’s hair was a solid, slightly dull brown, rather than glittering, dark violet, and there were only a handful of dusty gray patches of scale about his neck and the back of his hands.
+
+This was Xia Anxi. Even without any resemblance to the current version, the feeling around the child, the dense qi that filled the figment she was perceiving, told her that. If it hadn't, she might not have made the connection.
+
+As she watched, the round of music ended, and the man stepped down, waving jauntily to the bar room crowd, receiving jeers and hooting and a few coins thrown down in the leather case open at the bottom of the stage. He reached the boy and ruffled his hair.
+
+"Will you play the [_____] next, [____]?" the boy asked.
+
+The musician chuckled. "Not yet, not yet. That one is special."
+
+"But [____], it’s your best! You get so many coins when you do."
+
+"That's why I shouldn't wear it out, my lad! Now, let's see what the kitchens have for us, eh?"
+
+The sickly sweet smell of the rot grew stronger as the sailor thoughtform reached the bar, hefting the crate onto the counter with a slam. A thoughtform wearing a barkeep's bandana behind the counter shouted something garbled at him, gesturing, and the sailor gestured back, insisting that this was where the crate belonged.
+
+At the table with the boy and the musician, she saw the boy shiver, and his smile fell. His dark eyes flickered yellow and slitted, glancing toward the bar with nervousness and then with anger.
+
+The crate and the sailor alike popped like soap bubbles.

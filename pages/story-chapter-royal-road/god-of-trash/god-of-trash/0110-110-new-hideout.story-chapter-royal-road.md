@@ -1,0 +1,81 @@
+---
+id: b06ef1ed-a279-5053-8751-18a680e42b30
+page-type-slug: story-chapter-royal-road
+title: "110. New Hideout"
+slug: 0110-110-new-hideout
+partOf: god-of-trash
+position: 110
+ownLength: 2272
+unit: words
+publishedAt: 2025-06-24
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2382685/110-new-hideout"
+royalRoadId: "2382685"
+---
+
+As it turned out, the sun was low in the sky, but not yet setting, when they reached their destination, the time somewhere between afternoon and evening. They smelled it well before they reached it, even the coreless mages’ noses wrinkling in disgust. Rhys breathed deep, sucking down the sweet, sweet airborne impurities that came with it. This was going to be a gold mine, for sure.
+
+Filthy water flowed down the barren land where once a burbling brook had flowed. A heap appeared through the trees, a massive, flat field, covered in piles and piles of garbage. Beyond it, a glittering city stood, the Empire’s hastily-built outpost rapidly exploding as mortals and mages alike conceded to the Empress’s rule and made their homes near the seat of her power. Rhys didn’t hold it against them. It was trashy behavior, but people had to act like trash to survive in desperate situations, and someone local might as well benefit from the invasion. Better than all the money going back to the Empire’s citizens and leaving this region totally bereft of economy in its inevitable wake, when the Empire either moved on, or someone finally forced them out of the region and back to their shitty dystopian home country. He preferred the second, and he intended to make his own progress toward that goal, but if someone else came by and overthrew the Empress, he wasn’t going to complain. He’d happily celebrate on the back of someone else’s effort like the garbage human he was.
+
+But until then, as far as he knew, it was up to him. Rhys pushed through the forest and reached the edge of the trash pile, taking a moment to really take it in. It towered overhead. The Empire must have built on top of an old city, because there was old trash in the heart of the pit, but the massive heap of trash atop it was brand new, overflowing with mana, and ripe for the plucking.
+
+So Rhys knelt down, and drew in only the most garbage of the garbage pile, the old trash in the center of the pile that had accumulated from the mortal city and had almost no mana in it. It didn’t matter, so much, how much mana the trash had—or rather, better said, the mana in the trash was a bonus. Right now, the primary property Rhys was concerned with was mass, to keep the trash star ignited. Quantity over quality, though quality was always nice to have.
+
+The pile hollowed. It wasn’t easily visible from the outside, but the center of the pile opened up. The trash overhead groaned, wanting to collapse in, but before it could, Rhys gripped it with his mana. One piece, two, three—his nose bled, and Rhys dropped the attempt. It wasn’t possible. He couldn’t see each piece of trash as itself and attempt to hold it. He didn’t have enough mana, not even after the prison breakout.
+
+But who said he needed to sense each piece of trash? Why not treat it like the garbage it was, like the background scribbles in a low-budget anime that were meant to represent trash? No animator ever wasted their time drawing out each trash object when it was so much easier to just scribble a brown lump and move on. Looking at the pile, Rhys unfocused his eyes, hypnotizing himself: it wasn’t many pieces of trash, but one giant piece of trash. This whole pit, was nothing but one big piece of trash. One singular lump, that he could control alone. It wasn’t a thousand itty bitty pieces, no. It was one. One big, shapeless hunk, and there was no reason to consider it as anything else. Just one… enormous… slop, one big scribble!
+
+The weight of the pile landed on Rhys’s metaphorical shoulders. He grunted, bracing himself as the full heft hit him. The trash star trembled, but held, under yet more immense forces within itself. He Didn’t want to hold it for too long, but instead, gripped it all with Trash Enchanting and fused it all in place. His mana zipped over the pile. Wherever there was metal, it coursed through them, adding heat until they melted together. Wherever there was cloth, it knitted around its neighbor. Wherever there was wood, it took form and braced the trash beside it. On and on, until at last, Rhys released the pile, and it remained in place despite its hollow core, externally identical to how it had been to begin.
+
+Blake stared. “What… what was that for?”
+
+“Our base,” Rhys said matter-of-factly, and walked toward the pile. A half of a table, slapped crookedly at the edge, served as the door from the way he’d carved the trash, and he pulled it open and crawled inside.
+
+Blake pinched his nose. He grimaced. “He can’t be serious.”
+
+Korii walked past him, following Rhys into the trash. As she passed, he caught her arm. “You aren’t following him, are you?”
+
+She looked over her shoulder at him, then at the others, some of whom hesitated as well. “Where else would the Empire overlook so thoroughly? Where else can any of you say would be as good of a hiding spot? We could take up an office in the city, spic and span, but we would be found. We could hide in the woods, but our mana signatures would give us away, and it’s not as if we can claim to be a group of hermits, when all mages are the Empress’s, or nothing. If you’re hesitating, then go, but if you aren’t willing to crawl through this much filth, then you don’t have what it takes to take down the Empress.”
+
+At that, at last, Blake’s eyes widened. “It’s a test! I understand. Thank you, Korii. I was too blind to see the mountain before my eyes.”
+
+Korii gave him a small, knowing smile and a nod, and crawled after Rhys.
+
+Deeper in the pile, Rhys, who’d been listening in, flushed just a little. Er, it wasn’t a test, though? He’d just thought it was a good hiding spot. He rubbed the back of his neck, then shrugged. It wasn’t like everyone could understand the immensity of trash, after all, and Korii was completely right about his reasoning for making this his hiding spot—not to mention that he also got an instant power boost if the Empress found his hiding spot, and he was forced to burn this hiding spot and go all out in battle. The hideout was literally built of his fuel, after all. It was like putting a pyromancer in a wooden house, except he wouldn’t harm himself by burning it all down.
+
+He only had to crawl for a little further over the earth before he found more of the old trash. Rhys absorbed it, hollowing out the inside of the shell of a trash heap he’d created. He climbed to his knees, then his feet. Little rays of sunshine shone through the chinks overhead where the trash didn’t fit perfectly together, and the breeze blew freely through the newly-hollowed space. It wasn’t a perfect shelter, but it would do for now. They could always fix up the holes later.
+
+The others joined him within, staring around at the trash shell overhead in amazement. Rhys gestured them forward. There was no time to waste. “Anyone who doesn’t have a core, line up over here. Those who do, line up over there. I’ll be taking the impurities from those who do have cores, and giving those who don’t have cores new cores. You don’t have to enter the other line after you receive your core,” he added quickly, as one of the recruits raised her hand, “since now that I have time, I can take your impurities and give you a core all at once. After everyone is equipped, we’ll talk strategy. I suspect we’ll mostly be investigating and infiltrating for now, but I welcome any ideas from any of you.”
+
+Korii frowned, deep concern showing on her face. At last, she spoke. “What about you, sir? Where do the impurities go once you have them?”
+
+“Rhys. My name is Rhys. And don’t worry about that. Trade secret.” He winked, but she still didn’t look reassured.
+
+Huh. That always worked in my superhero movies, when the hero just said something snarky and winked. He dropped the silly attitude and smiled at her. “I really do mean it. Don’t worry. Impurities only make me stronger. I know it sounds insane, but it really is true.”
+
+She still looked unconvinced. Come on! I went the Mary-Sue earnest and trusting route, and you still don’t believe me? Rhys wracked his brain, trying to come up with a way to convince her without giving too much away. It wasn’t that he didn’t trust these people, but he had barely met them; he had no reason to trust or distrust them. On the other hand, even if he trusted them all intrinsically, the Empire was an overwhelming power that wasn’t afraid to use horrible means to extract information. Torture, death, even magical torture techniques that trapped the mind in an endless illusion of pain… everything was on the table. He couldn’t simply give out information about his path now, when the Empire might do anything to twist it out of them later.
+
+Of course, he had already told some members of the Empire what his path was to their faces, but that was different. No one would believe him if he said his path was trash, but if someone else said his path was trash? That was totally different, and way more believable. He didn’t really get it, but it was an intrinsic feature of human psychology. Just like how if someone told him the ice cream they made was good, he wouldn’t believe them, but if someone else told him the ice cream that person made was good, well, now that was worth checking out, the news of his path would sound far more legitimate out of anyone else’s mouth, so he couldn’t simply let it get around.
+
+He thought for a few more seconds, then snapped his fingers. “Do you remember those knives I threw?”
+
+She nodded, slowly. “Those were…?”
+
+“They were made of impurities. I use your impurities to make knives like that. They’re highly effective, even on high-Tier enemies. I’d share them, but they’re difficult to wield… if you aren’t highly skilled at the right technique, you’ll end up giving yourself impurities as much as the target. But even so, they’re highly valuable weapons for me, and they let me fight over my Tier.”
+
+Korii’s eyes widened. Her head bobbed up and down. “I understand now. I apologize for drawing out information on your secret technique.” She turned and glared at the other mages. “We heard nothing.”
+
+“Not a thing,” Blake vowed. The other mages shook their heads as well, resolute expressions on their faces.
+
+Rhys raised his eyebrows. It’s not a secret technique… whatever. It wasn’t as if information on that particular technique was valuable, since there was almost no way to keep him from using it even if the opponent knew how it functioned, but if they were going to treat it as a secret, he wasn’t going to stop them. It was always better to have two aces up your sleeve than one. Besides, if any of them did get targeted, they’d think of this moment as his ‘most secret technique,’ and give the interrogators useless information. At the end of the day, it was nothing but beneficial to him.
+
+“If that’s resolved, then come!” he ordered, and the mages quickly fell into two lines.
+
+One after another, the coreless mages stepped forward. Rhys gave them a new core, drawing out their impurities at the same time. To his surprise, he did have enough energy, but on the other hand, he had absorbed nearly the entire prisons’ worth of guards’ energy. He frowned, a little confused, then realized: it was hard for him to quantify how much energy he had, now, because some of it pushed out into that hole in his core. He had a nearly infinite energy storage space now, but at the cost of being unable to easily gauge how much energy he’d stored. Rhys considered, then shrugged. Of all the tradeoffs in the world, it certainly wasn’t the worst one. Infinite anything in return for a finite anything was worthwhile, and when the finite thing was an inability to judge capacity unless he seriously focused, well, it basically didn’t have a drawback!
+
+Except for whatever that shapeless monster thing is that’s lurking back there… Rhys waved the thought away. It was fine. He was way too tiny to be worth that thing’s time. Maybe in a few tiers, he’d have to worry about it, but for now, he was fine, perfectly fine. Yeah. It definitely wasn’t a problem lurking in the back of his mind at all times, that he just couldn’t stop thinking about.
+
+Rhys sighed. I’ve gotta figure out more about that thing. If he knew it, he wouldn’t fear it, even if it was overwhelmingly powerful, since understanding was the first step to defeating. If he didn’t understand it, all he could use against it was raw power, but if he understood it, he could figure out its weak points and how to destroy it.
+
+There was nothing for it. He’d have to find a library (and hopefully, a particular library cat). But first…
+
+He looked at his newly assembled mages and smiled. “Anyone have any grand strategies?”

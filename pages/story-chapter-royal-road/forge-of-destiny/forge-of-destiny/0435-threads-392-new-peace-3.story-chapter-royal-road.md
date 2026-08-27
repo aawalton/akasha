@@ -1,0 +1,161 @@
+---
+id: 63d94a03-ba2a-5a1a-9795-338d5ee33042
+page-type-slug: story-chapter-royal-road
+title: "Threads 392-New Peace 3"
+slug: 0435-threads-392-new-peace-3
+partOf: forge-of-destiny
+position: 435
+ownLength: 2583
+unit: words
+publishedAt: 2024-07-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1728377/threads-392-new-peace-3"
+royalRoadId: "1728377"
+---
+
+Winter consumed.
+
+It put the world to rest, ended the year, and ended lives. The killing cold was merciless. It cut as sure as any blade ever has.
+
+At the same time, winter was only ever a part of life. It birthed the wild floods of spring, which gave life to the warm fields of summer, which, in turn, gave way to the abundance of the harvest, and which finally returned to the chill.
+
+Ling Qi ended something here. She has slain a sort of isolation, so deep that the mainland of the empire has never even considered its presence. What will society look like when the empire realizes truly and fully that it is not alone in the world?
+
+She doesn't know. She doesn't think anyone does. Xin had explained to her the sheer complexity of foreseeing in totality even a few minutes into the future. When acting as a force of change, that ambiguity was something one had to accept. She could hope and plan, but she couldn’t see where every wind would blow. She could only be the killing cold, the end of eras large and small, and see the floodwaters born from her efforts rage down the valleys.
+
+She believed it would be better. She believed it down in her bones. But she could not be the one to solely bear that weight. No one could. Therein lay the truth of the heart of winter.
+
+Cai Renxiang stood across from Jaromila at the rear of the meeting hall. Over the last few days, while delegates had scrutinized every line of translated text to ensure accuracy and every individual word dickered over, the workers had finally gotten a moment to install the rest of the decorative windows and trimmings. Two documents had taken shape, one in the swooping lines of imperial calligraphy and the other in the harsh cut of runic letters.
+
+The great meeting table had been hauled out, leaving space for smaller furnishings, one of which was the small table the two leaders of the delegations had placed their copies upon. Each was a thick stack of legal documentation, of laws and clauses and agreements argued long into the mornings. Each was full of hopes and fears, as strident as a grandmaster's songs and poems.
+
+It wasn't the meter she preferred, but in the end, the words in such documents were no less full of their writer's intent than any other work of art. All of Ling Qi's intentions could be so easily misdirected by a few misplaced characters and pieces of punctuation. How easy it would be for those clans which liked her less or were more distant from these interests to interfere without another catering to their interests. How easy it would have been for their guests to recoil and withdraw without the tireless arguments of her peers on the other side. She was glad Cai Renxiang and the emissaries knew how to compose them so well.
+
+Stories, and those stories which dubbed themselves history, only ever recalled some small few names. She herself, living in this moment, could not possibly name everyone who had contributed.
+
+Ling Qi pursed her lips, glaring down at her own hand, wrapped loosely around the cup on a tray held by her armrest. Her fingers trembled, and she willed herself to grip the cup with all of her might.
+
+"Sis, quit it. You'll spill." Hanyi plucked the cup from her grasp.
+
+Of course, she couldn’t pretend that she had only high-minded thoughts. It had only been a short time since her awakening, and the frustration she felt at her infirmity was already intense. This chair, no matter how fine its make, was already starting to become like a prison to her. She let Hanyi help her drink and looked out over the final ceremony, the culmination of all of her efforts, and she told herself it was worth it.
+
+Cai Renxiang's brush made its final flourish as she completed her signature and straightened up. It was the second time she had laid her mark to paper, each of them marking a copy of the treaty. Jaromila finished her signatures a moment later.
+
+"To everyone who has been part of this, I offer my most effusive thanks," Cai Renxiang addressed. "What we have set in motion here today is momentous. This, I promise."
+
+Jaromila stepped up beside her. "The fate of the mountains, north and south, has been written here. We have set a precedent here that the Polar Nation and the Celestial Empire may coexist and live well as neighbors."
+
+Ling Qi did not begrudge Cai Renxiang her role. She was the face of their efforts, and Ling Qi, for all her own work, was happy enough for it to be so. She was coming to terms with being a leader of sorts, the head of her clan, but this was where Cai Renxiang shone.
+
+"Despite setbacks and disagreement, we have forged forward. Today, we show that the Emerald Seas is a united province, a strong province, one which may stand beside all others. In war and peace, I am proud of the foresight and wisdom of my people in supporting this effort. With our new neighbors, I look forward to a future of peace in the south and an end to the days of raiding and ruin."
+
+"And we look forward to the peaceful exchange between our peoples." Jaromila made her speech in turn. "Knowledge is sharpened by knowledge. Plenty averts strife. We will see these mountains at peace, through our projects and efforts."
+
+One way or the other, the old status quo was gone. In the flying palace city, under imperial boots, or in the warcamps of the Twelve Stars, the tribes of the mountains would change, too. The old way of endless war, tribes raiding and killing and burning settlements, armies marching out to retaliate and exterminate tribes… This, too, was ending. She would reduce the pain of it where she could, to deny the vision of the nightmares she had seen in her liminal adventure with Xuan Shi to the White Sky, but she would not stop.
+
+Sitting behind the signers with the other major figures of the negotiation, Ling Qi looked out over the audience of courtiers and priests and local nobility or equivalent, two groups still firmly separated by nation. There was much cynicism there. She could see it in the thoughts they projected without ever meaning to and in the twists of their auras. She saw the desires for land and wealth and the urges to jockey for position in a new and expansive project.
+
+But the condescension was gone, or nearly so. No one was looking at Cai Renxiang as if she were a callow child, parading around in her mother's boots. And where they looked on the White Sky, it was no longer with the mien of a wolf regarding sheep, or a man with a mad dog snarling up at him. There was wariness, there was calculation, and there was even, in tiny glimmers, respect. In other words, it was no different from the way imperials looked at one another.
+
+"Today, the Treaty of Xin'an is signed into being, to be kept on my honor and the honor of the Cai clan as a law of this land," Cai Renxiang announced. "Let any who would defy or misuse its words think deeply upon the consequences."
+
+Ling Qi did not miss the handful of uncomfortable glances shot toward those Meng who remained at the summit.
+
+"Under the laws of the Hierophant, I have been vested with the authority of Her law. Under the ruling of the Althing, I have been invested with their authority. With my agreement, the will of the White Sky is made manifest. Let none break from the oaths made here this day," Jaromila proclaimed.
+
+They both inhaled, easily syncing up the beginning of their ending words.
+
+"Today, we have peace!"
+
+Ling Qi drummed her trembling fingers on the armrests of her chair as cheers, both honest and false, arose among those attending the ceremony. Only time would tell how well the foundation they had built would withstand the future.
+
+***
+
+"Congratulations, all of you. This work would not have been possible without all of your efforts," Cai Renxiang praised.
+
+"And even less possible without yours," Ling Qi said wryly.
+
+"Yeah! I had no idea what was going on sometimes!" Hanyi chirped.
+
+"Haha, the vagaries of law can be most baffling at times, but then, so can the shifting desires of our people." Gan Guangli chuckled. "Let us leave it at that! All of us were required."
+
+"A unit functions best when all roles are fulfilled. It has been my pleasure to do my part," Xia Lin said.
+
+They all sat now around a small table in the embassy. There were no trappings and finery here, just an out of the way meeting room commandeered for their purpose.
+
+"Come, Lady Cai!” Gan Guangli boomed. “You have earned a moment's respite. Sit with us, and take a bun! I am no master chef, but I think they turned out well."
+
+"Very well," their liege said. "I suppose there is no harm in it."
+
+It was their own little feast. A few bottles of cider and steaming teapots, the contributions of Xia Lin and Cai Renxiang respectively, were set out on the table. The still steaming tray of pork buns brought by Gan Guangli were placed in the center. Ling Qi's own contribution was in the bucket of shaved ice and the fruit flavored extracts to be drizzled over it. Given her injuries, Hanyi had to be the one to maintain the temperature.
+
+"Rustic, but it is well cooked, and the dough crisp," Xia Lin said through a mouthful of bun. "I commend you."
+
+"Haha, my little town could hardly be said to have any delicacies, but we did always have an abundance of pigs," Gan Guangli reminisced. "Even a man such as I can learn through repetition."
+
+"They are pleasingly scented," Cai Renxiang complimented. She looked odd with 'peasant' food held gingerly in her hands, like she wasn't quite sure what to do with it.
+
+Ling Qi found the flavor a bit rich, but the texture was pleasant. She leaned back in her chair as Hanyi took the held-up bun and bit in next to where Ling Qi had, chewing with an odd look of concentration on her face. Cooked food was still a pretty rare indulgence for Hanyi.
+
+"Perhaps some breeding pairs should be acquired for Snowblossom," Xia Lin said. She stared down at her fingers for a moment before glancing at Cai Renxiang, then took a cloth from the table to wipe her fingers. "I would like a cup of shaved ice. Strawberry flavoring."
+
+"Got it!" Hanyi reached for the scoop.
+
+What a dutiful little sister.
+
+"We may have the opportunity to decide on that soon. I have received notice that our efforts in establishing the fief are to be expedited," Cai Renxiang said. "We—I—will now be receiving support closer to what might be expected of a ducal heir elsewhere. Mother has found no faults with our decisions and actions here."
+
+Most heirs would be at least a century or two old before being announced as such, but Cai Renxaiang and the rest of them had proven they were not merely children with the success of this endeavor.
+
+"Oh? We should expect construction to accelerate greatly then," Xia Lin said.
+
+"Haha! To a thriving home!" Gan Guangli cheered, raising his cup.
+
+"I will likely need more staff, and I will need to begin picking individuals for local ministry work," Cai Renxiang thought aloud. She bit carefully into her bun, eyebrows drawing together in concentration as she chewed.
+
+"Perhaps I can help there,” Ling Qi offered. “I can still do interviews for prospective applicants." She intended to stay in White Cloud Town for some time with her family, and doing something useful could keep her mind off her recovery .
+
+"Acceptable," Cai Renxiang allowed. "Meng Dan will be joining us as well. I received notice from Lady Meng Diu."
+
+"It behooves the Meng to show loyalty, and it behooves the Cai to reward those who did show loyalty with position," Xia Lin praised. "He is welcome."
+
+"Indeed!" Gan Guangli nodded firmly. "Sir Meng's skills shall be invaluable."
+
+"I'll be glad to have him back when the Meng situation is settled," Ling Qi agreed. "Do we have any further words from Her Grace?"
+
+"We are to focus on our own duties as small lords. She has no tasks for us at the moment." Cai Renxiang took up the pot near her right hand just as it began to steam, going through the ceremony of pouring the rich tea into her cup. "However, Shu Yue will remain assigned to the fief in the south, both as security and as tutor."
+
+"That is reassuring," Xia Lin said.
+
+"It goes without saying that I will be increasing your stipends. None of you shall go without whatever reagents or spirit stones you require for cultivation.” Cai Renxiang held her cup up to her lips, eyes closed, taking in the scent as she paused. “However, the Cai family rewards meritorious service. So, in particular…"
+
+"None earned quite as much merit as Miss Ling, eh?" Gan Guangli asked rhetorically.
+
+"Undeniable," Xia Lin answered. Ling Qi thought the other girl actually shivered as she closed her mouth around the spoonful of shaved ice.
+
+"Yes," Cai Renxiang agreed. "Baroness Ling Qi, for your service to the Cai clan, we will, of course, continue to fund all needs for your recovery. My honored mother has given you permission for an additional reward as well. In acknowledgement of your performance, the House of Cai grants the House of Ling a vial of low grade Xiangmen sap to be used as you please."
+
+There was silence in the room. Ling Qi was left staring over the cup held up by an increasingly confused Hanyi.
+
+The Great Pillar Xiangmen, the heaven breaching tree, was not the same as a sublime ancestor. It gave more freely, from the simple berries it sprouted for the mortals in the rootways all the way up to the handful of leaves it shed every decade or so. Its sap was produced yearly, if in small amounts. The most common low grade sap from Xiangmen was still a reagent useful for cultivation all the way up to the sixth realm. She did not cultivate wood qi, but…
+
+… Zhengui. She did owe him a gift, if only so that he might forgive her for the state she was in.
+
+"Oh. From the big tree, right?" Hanyi asked, breaking the tension. "Hey, Zhengui should like that!"
+
+"He would," Ling Qi said.
+
+Such a potent qi could only help his growth, so long muddled by remaining under the aegis of the spirit lords of the Argent Peak Sect. Who knew what use he would find for it?
+
+"Haha, a great boon indeed for your house. Congratulations, Miss Ling!" Gan Guangli exclaimed.
+
+"I accept this great reward with much gratitude, Lady Cai," Ling Qi said. "I only hope that I may continue to bring my house and liege much success."
+
+"I expect you will," Cai Renxiang said. "But, enough. For these next few hours, let us take our well deserved moment of respite."
+
+"Agreed."
+
+"Yes, Lady Cai!"
+
+"Of course," Ling Qi said.
+
+By the moon above, they had earned it.

@@ -1,0 +1,125 @@
+---
+id: e21088ef-b076-5dbd-8fc3-ed95cf4a1162
+page-type-slug: story-chapter-royal-road
+title: "Threads 146-Old Ways 1"
+slug: 0175-threads-146-old-ways-1
+partOf: forge-of-destiny
+position: 175
+ownLength: 2000
+unit: words
+publishedAt: 2021-10-25
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/772879/threads-146-old-ways-1"
+royalRoadId: "772879"
+---
+
+Meng Dan spent the better part of an hour examining the map, questioning Ling Qi on her feelings regarding specific sites, flipping through a regional atlas drawn from his storage ring, and scattering odd platinum coins carved with different characters across the map before he delivered his verdict. The signs for best fortune pointed to a site on the southeastern edge of the map, marked by three concentric circles of carved silver trees.
+
+With the destination selected, Ling Qi fell back from the forefront as Cai Renxiang organized the expedition, taking a slow pace to simulate moving carefully through hostile territory. The mini-expedition would be a one day trip. She and Meng Dan were set the task of gathering information on the site from other disciples while Gan Guangli and Xia Lin were set to the task of determining the best route.
+
+Ling Qi rather wished that she had done such research in advance the last time she had made an expedition based on the sect map, but then again, it probably wouldn’t have been so easy before. There were far fewer people willing to give her the time of day back then.
+
+She found her best source of information to be one of the disciples who had been part of the caldera assault group. He had been there at the end, and he was more than willing to share what he knew.
+
+The destination was a defunct trial site where the spirit companion of a deceased elder slept away their remaining days. It was no longer a proper challenge site, but the dreams of the fading spirit that lived there made it dangerous, twisting the forest into a maze and filling it with hostile figments. He had made it to the second circle of trees before leaving and had gotten valuable materials for medicinal crafting, but he had heard from his older brother that the spirit at the center could sometimes awaken and give disciples boons.
+
+Returning to Meng Dan, she delivered her information, and he was able to cross-reference that with his own knowledge and determine that it was likely the place where Elder Lang had fallen, buying time for the Sect’s evacuation when Ogodei had arrived. Meng Dan seemed very enthusiastic about visiting the site.
+
+That had drawn Ling Qi up short. She had heard that name before. It was the name of the elder who had written Xuan Shi’s books. She filed that away for later.
+
+It was strange though. According to Meng Dan’s records, the man was a peerless swordsman from the Alabaster Sands, who had come south to retire after a century of exploring outside the Empire. Ling Qi would not have thought that one of the last men to hold the title of Sword Saint before it passed from common use would be the author of a bunch of silly books.
+
+The trip itself was uneventful, but they used it as practice for coordination. Together with Xia Lin, Ling Qi played outrider, scouting ahead and weaving their way through the interlocking grid of spirit territories to avoid conflict. Xia Lin was surprisingly adept at hiding her presence, and so was the silent war horse she rode.
+
+The others stayed together. Meng Dan used the information they delivered back to further extrapolate their path and avoid snarls that the two of them had missed. When they reached a twisted copse that couldn’t easily be bypassed, Gan Guangli and Xia Lin took point in carving a path while Ling Qi picked off and drank the energy of the lesser spirits that tried to swarm them.
+
+Only Cai Renxiang herself did little, but that, too, was part of the plan. The arts of the Cai were unsubtle and distinctive, and although she could tell that it frustrated her liege, Renxiang stuck to enhancing everyone else's efforts.
+
+They soon reached the site itself, a towering circle of old growth that reached a hundred meters into the sky and whose bark glimmered with veins of steel. Dark fog seeped from between the ancient trunks, and the canopy blotted out the already dim fall sun.
+
+“This place is dying,” Meng Dan said with a rare frown, peering upward at the gentle rain of withered brown leaves.
+
+“According to your information, that should not be a surprise,” Xia Lin said, sliding down from her horse. “The spirit here is supposed to be fading.”
+
+“It is not just one spirit dying here,” Meng Dan corrected.
+
+“This is a place of despair,” Gan Guangli rumbled, crossing his thick arms across his chest. He peered up at the withering trees and the veins of rusted steel that ran through their bark with an expression of dislike. “Miss Ling, Sir Meng, are you certain of your divinations?”
+
+Ling Qi understood his disquiet. The fog felt like Tonghou in the depths of winter. Cheer curled up and died here among the gnarled roots. Yet all the same, the map had never directed her to an unhelpful place.
+
+... Even if she may not have liked all of the results.
+
+<I don’t think this place is dangerous. Not in the same way,> Sixiang murmured.
+
+“I am confident. Don’t let the aura of the place pick at your resolve,” Ling Qi said, idly rubbing her arms. There was a chill here that had nothing to do with temperature.
+
+“Just so. This is but one of the many scents of history,” Meng Dan agreed.
+
+“Indeed,” Renxiang said, stepping up past them all. Her light seared the twisting fingers of mist and scattered the gloom.
+
+Ling Qi felt the chill fade, and in that moment, she fully recognized the pall that hung over this place. It was death of purpose, the cessation of ambition and drive.
+
+No wonder Cai Renxiang so easily parted it.
+
+***
+
+Sixiang was right. This place wasn’t dangerous in a conventional way. They were, as a group, too strong for mere figments to impede. Phantoms of glinting steel melted before them, and twisting passages of dream stuff and bent space parted before her fledgling experience and Meng Dan’s navigational techniques.
+
+No, the trouble was the growing whispers of doubt and ennui in her thoughts whenever she ventured from the group to scout. She could see its effects in everyone, although aside from Renxiang, Gan Guangli seemed to bear it the best. She could tell that he didn’t like this place from the set of his jaw, but there seemed to be an inner light in his eyes, not quite like the harsh and colorless radiance her liege gave off. As they worked their way through the first and second rings of trees, Ling Qi didn’t miss the way all of them seemed to unconsciously shift toward tightening their formation, moving closer to Renxiang, who was the only one untouched by the fog.
+
+Soon, they found their way to the final circle where they saw an archway formed of trees grown together, filled by cloying fog impenetrable to all senses. It was, Ling Qi thought a touch sourly, probably a lot like what she inflicted on other people.
+
+<Not quite so fun on this side, huh?> Sixiang teased half-heartedly. <Ugh. Let’s get this over with. I feel like I’ve been drenched in a bucket of sewage.>
+
+She supposed that to Sixiang, this near palpable aura of listlessness was probably equivalent.
+
+“What is our plan from here, Lady Cai?” she asked.
+
+Her liege frowned at the nearly solid wall of fog. Even her ambient glow failed to penetrate it. “Given the intelligence we have, brute force is a poor choice. The entity here is not an enemy. However, peaceful contact cannot be guaranteed. Gan Guangli, Xia Lin, you will take the point and press through. I will fortify your spirits.”
+
+Xia Lin Lin grimaced, withdrawing her hand from the fog. It clung like liquid mud to her fingers. “By your command.”
+
+Gan Guangli squared his shoulders and gave a simple nod.
+
+“Ling Qi, Meng Dan, prepare your divinatory arts. I will require your assistance to coordinate should our senses be scrambled,” Renxiang ordered.
+
+Ling Qi nodded, silver flickering in her eyes as she renewed her sense-enhancing arts. Meng Dan simply bowed, showing no visible change.
+
+They pressed through the fog and emerged in a graveyard.
+
+They stood on the edge of a great, rounded depression in the ground surrounded by the innermost ring of trees. Below them lay a field of bones. Ling Qi found her grip on her flute tightening as her mind flashed back to another graveyard seen in a dream.
+
+But it wasn’t the same. These bones were half returned to earth, overgrown with moss and buried in loam. She saw the bones of men, horses, and more exotic things, all of which had  been cut. Skulls lay where they had fallen, bisected at the eye sockets, rib cages lay on their sides, cut vertically through the center, and at the bottom, what she took as white moss was a fine powder of bone shards, cut too small to hold any shape.
+
+“Do you see the pattern?” Meng Dan asked, his voice sounding muffled to her ears.
+
+Ling Qi squinted, following where his finger pointed.
+
+She realized then the pattern in the bones traced out the gigantic figure of an old man lying on his side, curled in on himself.
+
+The air thrummed, and she tore her eyes away to zero in on the source. There, lying among the bones, lay a broken sword. It was rust-pitted, its handle bare of padding, but it still hurt her eyes to look at the edge.
+
+“Hoh, is it my time to burn at last, Daughter of Wildfire?” The voice was a corroded whisper, the sound of a smooth draw corrupted by rust.
+
+Ling Qi frowned, glancing around at the others. No one here was a fire cultivator of any note.
+
+“Honored ancestor,” she said, stepping forward and allowing the smooth flow of her Melodies of the Spirit Seekers art to take effect, dulling the cutting edge in the air. “Although we are not all disciples of the Sect, we mean no harm.”
+
+“... Too bad,” the voice whispered. “I had thought the fire cleansing the land had come for me. Why then?”
+
+Ling Qi glanced at Renxiang then, and she thought she understood. One could liken the Duchess to a fire in some aspects. “We are on the eve of an important mission, which may save the Sect from great harm. Divination indicated that this was an auspicious place to explore.”
+
+She eyed the others. Gan Guangli and Xia Lin stood on either side of Renxiang, watching their surroundings intently. Xia Lin’s eyes, though, tracked back to the broken blade again and again, the halberd in her hand seemed to vibrate with dissatisfaction.
+
+Meng Dan was beside her, studying everything with faint interest in his eyes.
+
+“There was no need to come so far then. Harvest materials, sharpen yourselves on my nightmares, I care not,” the voice whispered.
+
+“Why would the Sect leave such a superlative blade to moulder?” Xia Lin hissed to her. “It is a disgrace. If this is meant as a memorial, it is a poor one.”
+
+Ling Qi glanced to her, but before she could reply, the blade itself did.
+
+“I will not cut again, Blade of Glass. I will die here. It is not the scabbard I had hoped for, but it serves well enough,” the voice ground out. “Take that as your lesson, if you like. There is no other end than this for a weapon, no matter how you strive.”
+
+She glanced at the other girl, silently beseeching her to hold her tongue. Xia Lin glared down at the sword, but she didn’t speak.
+
+“There is something of value to be gained here,” Meng Dan murmured. She glanced his way. Although his lips were not moving, his voice whispered directly in her ears. “I am certain of that. It is the specifics of the matter I am unsure of.”

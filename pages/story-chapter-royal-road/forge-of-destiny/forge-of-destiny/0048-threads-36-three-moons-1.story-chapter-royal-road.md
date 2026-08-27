@@ -1,0 +1,155 @@
+---
+id: dc87aad4-d410-5b9b-ba77-76db029b5514
+page-type-slug: story-chapter-royal-road
+title: "Threads 36 Three Moons 1"
+slug: 0048-threads-36-three-moons-1
+partOf: forge-of-destiny
+position: 48
+ownLength: 2665
+unit: words
+publishedAt: 2021-01-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/614988/threads-36-three-moons-1"
+royalRoadId: "614988"
+---
+
+Cultivation always made time fly by.
+
+It was frustrating, Ling Qi could admit. Days could pass by without her noticing while she spent time whirling and dancing among the faded stones of a long dead city to the music of dreams and the cheers of her spirits, advancing toward and achieving the fourth revel of the Phantasmagoria of Lunar Revelry. Only Hanyi’s declaration of boredom and Sixiang’s sheepish agreement that they had lost track of time allowed her to pull herself free from the raucous cheers of the revel’s phantoms.
+
+The cultivation of spirit and body was no different. She knew if she were not careful, she could lose whole weeks to her efforts, drinking in the qi of the stars and shaping it through spirit and body. Still, these were not new problems.
+
+As she advanced it became easier to lose hours instead of minutes, but it remained an issue that she had solved before. Ling Qi was careful to break up her cultivation with time spent on and interacting with the real world. She studied the lines of the noble families of Emerald Seas, she took trips to market with Xiulan, Meizhen, or both of them, and she stopped by Li Suyin’s home to offer encouragement as the girl prepared for her final push to break through to the third realm.
+
+She also spent time at home, coaching her Mother through the first steps of physical cultivation or taking her turn to read bedtime stories to her little sister. Zhengui and Hanyi helped as well, though it was mostly the latter. Left to his own devices, Zhengui could take day-long naps without missing a beat, but Hanyi’s energy and wandering attention was good for keeping him active.
+
+Of course, because she had spent a good portion of her Sect Points in the month before, she had to dedicate at least some of her time to earning more, so that she could once again peruse the more powerful elixirs and pills turned out by the Sect’s pillmakers. She tutored Xiao Fen again, and her other sect jobs, which took her all over the Sect, proved profitable enough, even beyond the Sect Point rewards.
+
+During them, she discovered a breathtaking series of cliffs where wind spirits flew and played through funnel-like holes worn in the rock that made the land whistle with natural music, and deeper in the mountains, she found an isolated basin filled near to the brim with water, forming a crystal clear lake of unnatural stillness. Few beasts were foolish enough to attack her during her travel, so Ling Qi found herself gathering less disagreeable reagents for later sale. It was a minor sum, hardly necessary with the windfall she had received for selling that disturbing mirror, but even so, there was no point in waste if she had the opportunity.
+
+Every night though, the moon stared down at her, as if in expectation, but her meditations brought no new insight. More and more, there was a strange tingling sensation in the back of her mind that only grew more potent every time she sat down to cultivate. Instead, Ling Qi found her eyes drawn to the table where she had set up the map of the Sect. There was somewhere that she needed to be, her instinct told her, and the map would be key.
+
+She sought through one map marker after another. The first markers turned up crumbling ruins, little more than a few broken stones still laying in the same vicinity. When she returned home to look at the map again, she found her eyes drawn to a marker that she was quite sure had not been there before. It hardly stood out, a single mountain peak surrounded by stylized “eight” characters. She supposed that was as close to a sign as she was going to get.
+
+Ling Qi searched the whole of the mountain, enhancing her senses with her arts. But even aided by Sixiang, she found nothing special, no mysterious temple at the peak, no strange formations or vestiges of dream. Indeed, there was only one thing upon the whole of the mountain.
+
+“You’re sure you don’t remember anything about this place?” Ling Qi asked suspiciously as she alighted on the crumbling cliffside.
+
+“I’ve got nothin’,” Sixiang confirmed on the wind, peering out from behind her eyes.
+
+“It’s so dirty,” Hanyi complanied as she materialized off to Ling Qi’s left, her bare feet kicking off the edge of Zhengui’s shell where she sat.
+
+“There’s nothing even a little tasty looking here,” Gui confirmed dubiously, peering back and forth. “At least the last place had the tasty moss.”
+
+Ling Qi huffed out a small laugh, remembering the comical sight of Gui awkwardly gnawing on a chunk of rock, trying to get at the moss clinging to it without filling his mouth with pebbles. Peering ahead, she could not disagree with their assessment. A crumbling path, missing more than half of its cobblestones, led back into what looked to have once been a grove of cherry trees. Now, only a single sad and withered specimen rose from the moldering logs and stumps that characterized the rest.
+
+Much like the grove, the structure set in the back of the ruined grove was no grand ruin, just a crumbling foundation and a partial frame built of wood so old that it was halfway to being stone. Ling Qi felt her eyes tingle as she activated her arts, but there truly was nothing here.
+
+“Zhengui, Hanyi, follow me to the end of the path, then keep watch, okay?” she asked absently as she began to walk toward the ruin. Her map and her instincts had led her here; there had to be something.
+
+With her spirits’ affirmations in her ears, Ling Qi began to search the ruined building. Leaving Hanyi and Zhengui at the end of the path, she began to pick her way through crumbled wood and fallen roof tiles, sweeping her gaze across the debris in search of anything of interest. Eventually, her search took her behind where the building had been into an overgrown yard.
+
+Here, she found an artificial pond. Its bottom was lined with tiles in a mural depicting the cycle of the moon. Many tiles were cracked or missing however, and water weeds and muck pushed crumbling stone apart. Frowning, Ling Qi peered down into the water.
+
+“It’s taken you long enough, Ling Qi,” a teasing voice whispered, tickling her ear with its closeness.
+
+Ling Qi spun around, alarmed at the strange, floaty feeling spreading through her body, the mist that seemed to have consumed everything more than a meter away, and the clouding of her vision by strands of glittering starlight, only to hear a surprised yelp and a splash. Out of the corner of her eye, she saw something bewildering. She saw Sixiang, fully physical, climbing out of the pond, spitting water and looking rather put-out.
+
+Then, she realized the source of the strands clouding her vision. She was standing backward inside of her own body, which stood frozen in perfect stillness, just like the world around them.
+
+She heard tinkling laughter and looked up to see three figures resolving in the mist. To her right stood Xin, giving her an amused but apologetic smile. She wore her gown of red and blue, and her silver hair hung loose in a phantom wind.
+
+Directly in front of her was a tall and willowy woman clad in pale grey silk, her long, inky-black hair tied back in a braid that wrapped twice around her neck and hung down from her shoulder. Her gown was a gauzy thing of billowing silk, cloaking the movements of her limbs. Behind the woman’s black veil, only a wide grin was visible.
+
+Last of all, to her right was a matronly woman with glittering eyes, so much like Sixiang, save for her age and overt femininity. She wore an elaborate gown with a high feathery color, her hue-changing hair woven into a complex web of ornaments.
+
+“Do not tease the girl. A lady is free to be fashionably late,” the rightmost spirit said lightly.
+
+“Hmm... I thought I heard something, but you didn’t say anything, did you, Hidden?” the veiled spirit asked in a sing-song voice.
+
+“Oh, do stop, Grinning. It is hardly unheard of for a human to be aligned with three of us,” Xin said, her manner every inch the put-upon older sister. “I am glad you made it, Ling Qi. It would hardly do for you to waste your potential with an incomplete cultivation art.”
+
+Ling Qi glanced around her, unsettled by the stillness of the misty world she had found herself in. She allowed herself to be comforted by the sight of Sixiang, their expression disgruntled but not fearful. It struck her as odd that all the world would be frozen, but the pool was not. But wait, the waters had stopped moving, ripples freezing in time. Had they really…?
+
+“If you do not use your world-bending power for a bit of fun now and then, there isn’t much point to it,” the veiled spirit said lightly. “Don’t tell me you’ve forgotten that.”
+
+Ling Qi began to reply but paused. “No, I haven’t. Where are my other spirits?”
+
+“Bold as brass,” the Grinning Moon mused. “Let it not be said that you haven’t changed in good ways as well.”
+
+“Zhengui and Hanyi have not been harmed,” Xin soothed. “That said, Dreaming, if you would…?”
+
+“Of course. We can afford a few more guests,” the third spirit said, dipping her head. Somewhere inside her voluminous sleeves, a pair of fingers snapped.
+
+Ling Qi blinked as a sudden weight pressed down on her head followed by a squeaky yelp as it fell off. Reflexively, she reached out to catch it and found herself staring down at Zhengui, shrunk to a size only barely larger than he had been at hatching.
+
+“Wha- Huh?” Gui chirped in confusion.
+
+“Why am I, Zhen, little again?!” his other half hissed in distress, peering around. “Big Sister, what has happened?!”
+
+“Serves you right,” Hanyi huffed at her side. “Auntie Xin is messing around again, huh?”
+
+Ling Qi almost did a double take when she looked down at her other spirit. Patches of Hanyi’s skin were blackened and cracked, particularly on her feet and legs, but Hanyi didn’t seem uncomfortable.
+
+“Nothing physical about where we are right now,” Sixiang said quietly, as if reading her thoughts.
+
+“Auntie Xin, huh?” the Grinning Moon said in amusement. “The new you is a real homebody. I wonder, did you see this fate for yourself, Archivist of Vice?”
+
+“Some of the best things in the world come to us as surprises,” Xin replied evenly. “I will thank you not to use that name, however, little sister. I have a secret or two that I am sure you do not want aired after all.”
+
+As the Grinning Moon raised her hands in mock surrender. Ling Qi cleared her throat. “Ah,. Honored Spirits, are you all really... Um.” She struggled to articulate her thoughts. It boggled her mind that three Great Spirits would come together in one place for her.
+
+“My Sixiang has given you a glimpse behind the curtain, have they not?” the Dreaming Moon queried, raising an eyebrow. “Each of us are only local spirits, actor’s masks through which our Greater Selves might peer, and even then, this is not the whole of our being.”
+
+“Time and space can be a funny old thing when you cut out the material,” the Grinning Moon said. “So worry not. I’ve still got an eye on the province’s urchins and sneaks.”
+
+“You’re not even interrupting dinner,” Xin said. “For which I am glad. I managed to drag that old curmudgeon out of his workshop for once.”
+
+Ling Qi felt herself relax a little, brushing her fingers across Zhen’s head as she used to when he was actually this size. That was at least a slightly less intimidating prospect. “What is all this about then?”
+
+“You have nearly completed the Eight Phases Ceremony,” Xin said solemnly.
+
+“The time has come to mold the next step in your journey,” the Dreaming Moon continued, matching her tone.
+
+“No more aping of the eight, but rather, forging your own,” the Grinning Moon said seriously before shooting a sly look at Dreaming. In a much more irreverent voice, she added, “Of course, there really should only be two of us.”
+
+“Are you, of all spirits, decrying a follower for a bit of indecision?” the Dreaming Moon asked blandly.
+
+“Sisters,” Xin sighed. “Can we not maintain at least a little bit of decorum?”
+
+“Wrong grouping for that!” the Grinning Moon laughed.
+
+At Ling Qi’s side, Hanyi rolled her eyes. “I guess all aunties are silly.”
+
+“I still don’t know what’s going on,” Gui grumbled petulantly, glancing up at Zhen jealously as the little snake leaned into Ling Qi’s absent petting.
+
+“You don’t even know,” Sixiang sighed.
+
+Glancing at the three incredibly potent spirits before her bickering like any other trio of sisters in the world, Ling Qi felt her own patience for decorum slipping away. The part of her that remembered just what they were wondered if that was the point. “So, what do I need to do?”
+
+“Why, you get to participate in our little night out,” said the Grinning Moon, spreading her arms wide.
+
+“We will show you scenarios and allow you to make decisions, which will be the foundations of your own phase,” Xin elaborated.
+
+“Do not treat it lightly though,” the Dreaming Moon admonished. “Though the dream might be fleeting, the truth it reveals in yourself will last long past the morning.”
+
+“I know that,” Ling Qi said. She still remembered the Bloody Moon’s dream.
+
+“Then let’s get started, shall we?” the Grinning Moon asked rhetorically. Turning away, she raised her hands and brushed the mist away, revealing a sheer cliff beneath which stretched what seemed the whole of the province. Ling Qi could see the cities and villages of Emerald Seas, huddled circles of light and smoke crouching amidst a vast sea of green. It struck her then just how scattered and fragile those lights seemed.
+
+“We have picked out a few venues. That will be your first decision,” the Dreaming Moon said.
+
+“Do not worry about excluding any of us,” Xin chuckled, a knowing look in her eyes. “One way or the other, all three of us have our parts within you.”
+
+Ling Qi looked out over the cliffs and saw the crumbling city of Tonghou, turned inward, shrinking by the decade, lit by the light of a grinning crescent, a gleaming tower of light and wood, vast beyond easy comprehension, a bastion of power that cast deep shadows even under the lightless moon, and a little village in the hills, new and yet old, built upon layers of bones but peaceful and full of laughter under the light of a waning moon.
+
+In the end, neither the majesty of the tower nor the joy of the village could hold her eye. Despite the fact that her experiences there seemed like they had happened in a different lifetime, they kept coming back to haunt her. Whether it was old fears clawing their way to the surface, the connections of family, or simple old habits, the source was the same.
+
+It all came back to Tonghou.
+
+“You don’t have to, you know. You don’t have to go back to resolve things,” Sixiang said.
+
+“I know. But I suppose I just want to see it all with fresh eyes,” Ling Qi replied before raising her eyes to meet Xin’s. “You have my answer.”
+
+Xin smiled understandingly. “Very well. Allow me to-”
+
+“Ha, I knew, it! Road trip time, ladies!” the Grinning Moon announced, pumping her fist into the air. Ling Qi had only a moment to blink in confusion before the wind kicked up and carried her and her spirits off the cliff.

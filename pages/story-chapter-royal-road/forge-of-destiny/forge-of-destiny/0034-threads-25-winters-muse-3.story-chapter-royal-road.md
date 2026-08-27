@@ -1,0 +1,107 @@
+---
+id: 35ec858c-a9e4-541e-88bb-c55f11c80e6f
+page-type-slug: story-chapter-royal-road
+title: "Threads 25 Winters Muse 3"
+slug: 0034-threads-25-winters-muse-3
+partOf: forge-of-destiny
+position: 34
+ownLength: 2304
+unit: words
+publishedAt: 2020-12-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/602390/threads-25-winters-muse-3"
+royalRoadId: "602390"
+---
+
+“... ter! Big Sister!”
+
+<C’mon, Qi, don’t do this to me. Wake up! Wake up! This isn’t your dreams,> Sixiang begged her.
+
+Ling Qi shook her head violently, and the blizzard resolved itself again before her eyes. She felt so tired and cold. “... Hanyi? Sixiang…?”
+
+“I thought I saw Mama, and she looked scary, and then you stopped moving,” Hanyi babbled, clutching her neck tightly.
+
+<I dunno about Zeqing, but you just froze up. It was like there was a cage of ice keeping me out of your thoughts,> Sixiang muttered fearfully. <Please get moving.>
+
+Ling Qi shivered, recalling the visions she had apparently experienced. Even as she did, she bounded forward, forcing herself through the wind and snow despite the fatigue dragging at her limbs. She had forgotten exactly what Zeqing was. Zeqing was not just a creature of brute force and snow storms but also a winter siren who could bring those who fell under her spell to death of their own will. She just had to hope that whatever Zeqing was doing to restrain herself did not slip again.
+
+And yet, as she ran through the snow, banking and turning on the command of her charge, her thoughts kept returning to those visions and why she had rejected them. Her heart ached at the memory of it, but she could not help but feel that there was a truth she had realized in the visions.
+
+She could not let herself forget that the important people in her life had thoughts and feelings as important as hers. Just because something would make her happy did not mean it would make them happy. It seemed like such an obvious thing to realize, but Ling Qi wondered just how many people there were that did not truly internalize that into their Way.
+
+Ling Qi had little time to muse further on that insight, not when the storm was picking up and the soft mournful melody that underlaid the winds was growing stronger. The music struck deep in her soul, ringing like the miserable sobs of a loved one, and it took every scrap of will that Ling Qi had to keep running. She knew it was only Sixiang’s efforts that allowed her that much. She could feel the insubstantial spirit’s strain, their qi diffused through her every meridian as it pushed back against the cloying despair that threatened to overwhelm her.
+
+“Why is Momma crying?” Hanyi whispered, her voice trembling. “I-if she really wants us to leave, why is she crying?”
+
+Despite her resistance to the song woven into the storm, Ling Qi felt the tears that welled up in the corners of her eyes, only to freeze solid, still clinging to her cheeks. Despite that, she never allowed her legs to stop moving. “It hurts when someone you love leaves, but sometimes, things have to hurt before they can get better. Hanyi, please, tell me where I need to go next,” she begged, struggling to keep her voice from wavering.
+
+“... Through that drift,” Hanyi muttered, pointing out a high rampart of snow. “If Momma really wanted me to stay, Big Sister would have never even made it this far, huh?”
+
+“You get it, Hanyi,” Ling Qi replied shakily, veering toward the sheer wall of densely packed snow. Her instincts told her to veer away or jump over, but Hanyi had said “through.” Ling Qi just had to trust that her mentor’s daughter knew what she was saying. So, gritting her teeth, Ling Qi charged headlong into the snow.
+
+Ling Qi felt like she had run into a wall. Cold, wet weight crushed against her face and chest, even as she struggled forward, pushing through. Then, in the next instant, it was gone, and Ling Qi rocked on her feet, nearly stumbling as she found herself once again standing in an empty void.
+
+“Left!” Hanyi cried out, her voice echoing in the dark. Ling Qi didn’t even think. She sprang to the left as if her life depended on it. Wind screamed past her ears as she shot down what seemed to be an open corridor. Though her eyes saw only a uniform darkness, Ling Qi could feel the churning, hungry nothing that had consumed the space behind her and even now roiled outward like an invisible mist, devouring everything it touched. Zeqing’s house groaned and shook like a cottage in the middle of a violent storm.
+
+<Oh, to nightmare with that! Run faster, please!> Sixiang shouted in her head, and Ling Qi obliged as she darted around a corner at Hanyi’s direction. Ling Qi heard a crack and a crash like a heavy beam or rafter falling and crashing to the ground, and she launched herself upward at Hanyi’s shout to clamber up the invisible and glasslike surface that presented itself.
+
+With each centimeter she climbed, Hanyi’s weight grew ever greater until her limbs trembled with the effort of holding them both up. For the first time, the mad dash she had been making felt like it was catching up with her. Fatigue dragged at her limbs and dulled her senses, and below, the nothing churned, climbing upward with every moment. Could she really do this? Zeqing’s resistance was growing stronger with each passing moment, and she knew that once it passed a certain point, there was no hope of success.
+
+The darkness yawned infinitely overhead and all around. Ling Qi knew somewhere in her mind that her fatigue wasn’t natural, that the creeping despair that she felt rising wasn’t her own, but it was so hard just to hold on. Even Sixiang’s urgent fear was fading, growing dull under the weight that seemed to suffuse her entire being.
+
+She stiffened as she felt Hanyi’s arms tighten around her and felt the young spirit’s face pressing against the back of her neck. “It hurts,” she whispered, and Ling Qi felt the cold pinprick of tears against her skin. “It’d be better if I stayed, wouldn’t it? You could get away, and I could be part of Mama again. Wouldn’t that be okay?”
+
+“It wouldn’t,” Ling Qi gritted out through clenched teeth, digging her fingers into semi-solid darkness and dragging herself up another handspan. She hated this. For so long, night and darkness had represented safety to her, but now, it rejected her, repelling her qi and pressing down like a smothering blanket.
+
+“Why? It’s my fault Mama is like this,” Hanyi whimpered. “Before I started bothering her for lessons, everyone was happy.”
+
+Ling Qi squeezed her eyes shut, fighting back the growing instinct to agree, to release her charge. She knew there was a reason, but it seemed so very hard to grasp at the moment. “She enjoyed it though,” Ling Qi rasped, finding it difficult to push out words. “It was the same for me. She liked seeing us grow. Didn’t it make you happy too?”
+
+“Obviously not, if this is the result.”
+
+All of the noise and motion and stress seemed to cease, and time slowed. Ling Qi was still moving, still scrambling upward, but it was if everything had slowed down a thousandfold except for her thoughts.
+
+“Why are you so determined to take my daughter from me? Put her down, and live, child.” Zeqing’s voice resounded from all around her. The weight of it was cold and crushing, almost suffocating in its intensity, but there was something lacking to it, something hollow and almost mechanical.
+
+This wasn’t her teacher, or at least, not all of her. It was not the part that had taught her, the part that had sympathized with her, the part that had done something as silly as participating in a birthday party for her sake. Yet it still had power, enough to crush her, if it were unleashed. Ling Qi remembered the last time she had felt crushed by a superior power. Slowly, she opened her eyes and stared upward.
+
+“No.”
+
+<Uh, Ling Qi?> Sixiang whispered weakly, their voice barely audible or present. The cloying despair that threatened to devour her was having a much worse effect on her wholly spiritual companion
+
+“No?” The not-Zeqing repeated, the faintest hint of bemusement entering its voice. “Do you…?”
+
+“Shut up,” Ling Qi hissed, dragging herself upward another centimeter. “I’m not like I was. I’m not!” she bit out. “Zeqing is my teacher, and that makes Hanyi my junior sister. I’m not going to betray that duty because of a… a damn muscle spasm like you!” Because that’s all this voice was in the end. She had spoken to the real, conscious Zeqing. The power trying to stop her was just an involuntary reaction. It was Zeqing’s spiritual nature recoiling and reacting against her will.
+
+Snarling, Ling Qi pushed qi outward from her dantian. Zeqing had taught her so much, given her so much, and she wouldn’t fail to repay her, wouldn’t fail her daughter like that. Darkness beat in her heart and cycled in her lungs. It crackled and flowed through her limbs and spine, and in the next moment, she seized the not-space around her and soared.
+
+Even as she rocketed upward and the darkness outside of her reach shrieked, even as she hardened her body with Thousand Rings Unbreaking against the hail of razor ice that pounded down on her, she instinctively knew that it wasn’t going to be enough. Her energy was already starting to ebb, and the weight on her back was still too much.
+
+“Hanyi! Do you really want things to go back to the way they were? Do you really want to forget the things your mother taught you? To stay the same forever?!” she shouted over the sleet storm that engulfed them.
+
+“I -” the little girl murmured, shaking like a leaf. “I… I want to be like Mama!” Hanyi cried out, and immediately, Ling Qi felt the weight on her back grow lighter. “I want to be strong and smart and pretty and...” Her voice choked off in a sob. “I wanna be able to go and come back!”
+
+Their surroundings went mad. Ling Qi felt herself crash through something, splinters of the barrier leaving deep cuts on her skin even through her defensive technique. For the next several moments, the world was naught but a chaos of light and sound and auras.
+
+Then she crashed into a snowbank and went rolling wildly across a field. Ling Qi pushed herself up off the snowy ground, but she was still dizzy and groggy. Her vision swam, and she staggered as she got back to her feet. There was something missing.
+
+She looked ahead and saw where she was. Ling Qi stood on the mountaintop, and ahead of her lay the ruins of Zeqing’s home. Wood and glass and straw lay strewn across the snow, and it was fading, losing its color and melting like frost on a spring morning. Her eyes were drawn up to where a silent figure floated above the rubble. Zeqing floated there, gown rippling in a phantom breeze and face raised toward the stars. They were at the center of a great storm. Great dark clouds rumbled and churned below their feet, masking the world below the peak from sight.
+
+“... Mama?”
+
+Ling Qi startled as she heard Hanyi, only now noticing that the spirit’s weight was missing from her back. She glanced to her side and saw what she thought was Hanyi struggling to her feet, looking up at Zeqing. The spirit had changed. Hanyi was taller and more slender, although she was still clearly a child, seeming no more than eleven or twelve. Her silver hair hung loose down to her shoulders and rippled in a phantom wind like her mother’s. Her childish dress was gone as well, replaced with a garment of pale blue silk that with billowing sleeves and a hem that dragged against the snow. Unlike her mother though, she had a solid form. Pale blue hands reached up toward Zeqing, and Hanyi left faint tracks in the snow.
+
+Zeqing looked down, and Ling Qi winced at the cracks crisscrossing her face, the gaping hole where her left eye and matching brow should have been. She felt the disorder and damage to her master’s aura and could only swallow and offer a last bow.
+
+Zeqing gave her a shallow nod and turned her gaze to Hanyi. Her cracked lips moved, and though Ling Qi heard nothing, Hanyi let out a quiet sob.
+
+Then Zeqing turned her eyes back upward, and the wind rose once again, a mournful howl that echoed from the mountaintop. When the flurry of kicked-up snowflakes settled to the ground, Zeqing was gone, and all that remained on the mountaintop was the odd little fruit tree and the two of them.
+
+Ling Qi hunched her shoulders and held in the tears that wanted to well up. She had thought this might happen, but… she couldn’t regret it. This was what Zeqing had wanted.
+
+<She’s not totally gone,> Sixiang murmured even as Hanyi fell to her knees atop the snow, crying openly. <But I can’t say whether the spirit that reforms in this place will be her or how long it will be until she reforms.>
+
+Ling Qi gave a faint nod of acknowledgement to the muse’s words and moved over to Hanyi. She knelt in the snow to wrap the young girl in a hug. “I’m sorry, junior sister,” she said quietly. “But… she was happy at the end, wasn’t she?”
+
+“She was,” Hanyi sniffled. “She said she was proud of me, and... she was glad she got to see me grow up.”
+
+Ling Qi closed her eyes and let the younger girl cry her tears out. She had done her duty to her teacher, and now, she had another little sister to take care of.

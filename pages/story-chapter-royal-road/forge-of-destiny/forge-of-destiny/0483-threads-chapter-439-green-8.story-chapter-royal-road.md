@@ -1,0 +1,135 @@
+---
+id: 6bb0f31d-a625-54fa-b8e0-8541ef7a65ad
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 439-Green 8"
+slug: 0483-threads-chapter-439-green-8
+partOf: forge-of-destiny
+position: 483
+ownLength: 2071
+unit: words
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2155886/threads-chapter-439-green-8"
+royalRoadId: "2155886"
+---
+
+Ling Qi watched the flames dance with a critical eye. Zhengui’s roots had woven a barrier, cutting off the path of the fires toward the camp site and the road, but in all other directions, the way was blocked only by scattered groups of their soldiers, sweating heavily with exertion while wearing armor and clothing meant for these cold climes. They formed small knots of resistance, each group with a single cultivator whose qi could bend toward a snuffing element, whether it was scattered water summoned from the still moist air or earth to smother, or even fire to control.
+
+It was not a ruinous fire. The air was cold and wet, and the wood and grass was saturated in that same moisture. The flames guttered, heat licking at trunks and mostly burning in the brush.
+
+She could see why Xia Lin would use this as an exercise. The wildfire spirits born from the sparking flames hurled themselves with reckless abandon at their soldiers, cackling as they sought to spread with the single-minded madness only such a spirit could have.
+
+She had asked for a chance to practice her new art, if Xia Lin found one.
+
+Descending from above, she exhaled. Along with her breath, she cycled the rich, verdant wood qi which ran through a meridian along her spine.
+
+Distant Paradise Resilience.
+
+Her qi spread like a shower of soft leaves over the battlefield, and where it went, men and women straightened up. The scent of clear, fresh pine overwhelmed ash and smoke.
+
+A man on the northern side of the firebreaks was caught out of position as a half-dozen, giggling flame fearies leapt over the earthen rampart. He cut two from the air, little gusts of wind kicking the sparks of the severed faeries away from him, but the third detonated in an eruption of flame before he could raise his guard.
+
+She heard and felt his scream as the searing heat washed over his skin and down his throat. Viridian light flared, and the flames clinging to his clothes subsided. The shape of woven roots glittered in the shell of light around him as he was dragged back from the rampart by his comrades.
+
+Ling Qi felt a prickle on her skin, a small drop of qi burning away.
+
+Then, the weave of green over the soldier's body broke apart into drifting motes. There was not a mark on his flesh.
+
+"I am here. The flames cannot harm you, but I cannot protect you from the pain," she said, her voice clear in every set of ears.
+
+"If Baroness Ling has arrived, then begin the second stage of the operation! Shrink containment, achieve reduction, and prioritize prevention of crown burning." Unlike hers, Xia Lin's voice crackled and buzzed artificially, carried on the power of a simple amplification talisman. "Follow the procedures from your drills."
+
+Ling Qi observed the soldiers snapping into action. To her eyes, they were not well polished, but she could tell they had been drilled. The tiny draw on her qi grew as they began to advance among the fires.
+
+Her technique drew harm which they would have taken unto herself. While she could be a foundation to lean on, however, she was not the final arbiter of their lives. The pain of their choices was their own to suffer. Such was the technique she had put together from her own self and fragments of Kohatu's memories of absolute persistence.
+
+"Where did this fire come from?" she asked. This time, she spoke just to Zhengui and Xia Lin.
+
+"One of the groups testing and laying the groundwork to begin mining caused a deviation in the earth veins," Xia Lin's voice replied in her ear despite the distance.
+
+"Gui warned Miss Chaser, and she brought the people, but we did not arrive before the flame-air went boom!"
+
+"It is not so bad if it stays like this. I, Zhen, see that this place is much overgrown. A little burning is not bad."
+
+She watched as the soldiers moved in, coordinating with each other. She spotted Xia Lin's shining armor among them where the conflagration was at its worst, calmly issuing orders. Heat and prickling needles washed over her here and there, but overall, the men were not growing sloppy under the aegis of her technique.
+
+The small hurts of red realms fighting through peer spirits could hardly dent the qi cycling through her channels. The technique was flawed still in this initial state, but it was a foundation to build on how best to protect.
+
+Like the roots she meditated over, she could not save every sprout and trunk. With her will, though, she could support and keep alive many who might otherwise perish in the pursuit of the distant dream which they now pursued.
+
+A dream even she could not yet see in full.
+
+"Is Big Sister's technique doing what she wants?"
+
+She considered her little brother's question as she bobbed on the currents of air. "I think so. It's hard to test at such low intensity, but… Any injuries reported, Xia Lin?"
+
+"Not since your arrival. It appears fully effective, though there have been two psychologically-induced retreats."
+
+Ah, she had felt one of those. A man had stepped into a smoldering underbrush and been engulfed entirely in flame. Even if she had not let him be hurt, an experience like that could definitely exhaust the mind. His comrades had handled the fire fearies that caused the blast well enough.
+
+There was a strong urge to just do everything herself. She could take care of the problem in an instant of high, clear song and howling icy wind, but Ling Qi and her comrades would not always be on site. The soldiers of Snowblossom needed to be able to handle minor situations like this on their own.
+
+Her presence and shrouding qi was a training aid for that, allowing them to experience the danger while ensuring no one suffered lasting harm. It wasn’t what she had in mind for the technique, but she had to admit it was a useful benefit.
+
+"And your own thoughts, Zhengui?" Ling Qi asked.
+
+"Roots come much quicker when called by Gui. It is easier to see and hear things now."
+
+"I, Zhen, feel our heads are clearer now. It is why we felt this problem before it happened. Annoying that we could not stop it."
+
+"But Gui will get even better!"
+
+"I know you will," Ling Qi said fondly.
+
+The push of the soldiers through the burning underbrush was shrinking the zone of lurid red and orange down step-by-step, leaving gray ash and scorched trunks in their wake. They had done as ordered. Those cultivators with enough qi had concentrated on the task, extinguishing any fires before they could catch on the leaves. There was no crown fire among their woods.
+
+Their comrades trudging below had the more fraught task, smothering the flames while remaining on guard against the sudden assault of freshly born wildfire faeries. As the perimeter shrunk, Shenglu's soldiers grew more effective. Less space between the groups of firefighters meant more support and easier cooperation.
+
+They needed polish, but only that. The foundation Gan Guangli and Xia Lin had laid was good.
+
+"Sister, Gui has a bad feeling. There is not enough flame on the surface."
+
+"Dastardly stink-gas, hiding and waiting. Ready to make a blast much bigger!"
+
+"Xia Lin, Zhengui detects a remaining pocket of gas. I am going to investigate."
+
+"Understood. Which location?"
+
+Communication flickered back and forth, with her as the relay between her little brother and Xia Lin. While she did so, Qiyi rustled around her ankles, taking her out in a lazy arc toward the location Zhengui was worried about.
+
+Now that she focused on it, it did look unnatural. Tree trunks tilted at odd angles, as if the earth had suddenly slumped beneath them, and there were rising streamers of shimmering air, invisible among the heat distortion of flames near the core of the burning zone. Through the grumble and grind of pained tree song and disturbed earth, over the crack and pop of flames and twirling faeries, she heard the quiet and whispering voice of ruin. A spirit of destruction had been catalyzed by the meeting of open wind and flame-imbued air.
+
+It wasn't quite a spirit yet, but if not silenced, it would become one. Its song was rising, completing the first verse of many. She would not allow it to reach wholeness.
+
+The voice beneath tumbled root and burning bush and crumbling earth rose, and the wind whirled inward, tugging at the tongues of ruddy flame in the depression. Ling Qi descended and let vital qi pulse out, an emerald star born amidst and blasting away the ashy smoke.
+
+The proto-spirit of destruction gestating in the pocket detonated with the force to rip trees from the earth and snap bones like matchsticks. Ling Qi's boots struck the collapsing earth directly in the center of the blast with a thump. Green glittered everywhere. It covered half-collapsed trees, burnt out bushes, and boulders alike. It even spread beyond the depression, a thin, woven blanket of vine and root cocooning everything in her reach, all the way out to their soldiers closing in on the epicenter.
+
+The blast died before it could echo beyond the sinking bowl in the earth. It rustled not a single hair or dislodged a single leaf. Ling Qi felt it as countless impacts, like standing under a rain of hailstones.
+
+Compared to the General's flame, it was nothing.
+
+She looked down at her own hand curiously. She, too, was sheathed in green now. She couldn't truly put this second technique, Ruin Scattered Regrowth, to the test against such a lowly attack, but the weave of qi she had created from Kohatu's memory of persistence held steady. Reaching up, she studied a strand of her head, one of the few signs of damage. As she watched, the charred portion flaked away under a glimmer of green, restored to the same silkiness it had when she brushed it this morning.
+
+Her dantian surged, refilling the small loss of qi she had suffered from enduring the force meant for everyone and everything around her. Under her feet, the sparks that could have become a deadly spirit died, denied the kindling of pain and destruction that would have formed its foundation.
+
+"Center neutralized. The rest of the suppression should go smoothly," Ling Qi spoke. This time, she let her voice reach everyone. "Do not let your guard down until the work is done."
+
+She lifted off the earth with a puff of ashen dust as the rippling shell of green retracted, leaving only her connection to the soldiers themselves.
+
+When she descended next, it was down to where Zhengui stood, now carefully dismantling his wall of roots and bringing the earth and trees displaced by them back to where they had been before the eruption of his roots from the earth.
+
+"Welcome, Big Sister. Do not worry. Gui does not feel any more brewing big booms at all." \
+
+"I'm glad." Ling Qi settled in cross-legged on the relatively smooth bit of shell behind Gui's head, threading a pulsed cycle of qi through his own diffused aura affectionately. "The memories and practice of my old art, Thousand Ring Fortress, helped me get a hold of these new techniques, but I think this is as far as I can take this art until I face something more serious to test their limits."
+
+"It is hard to know how hard your shell is without something cracking it first," Zhen agreed, looping his coils loosely around her. "I, Zhen, will support Big Sister if hers ever does."
+
+"And I will do the same for you," Ling Qi promised. She remembered the times when her little brother had been seriously wounded. Every single one was deeply distressing. She supposed he would say the same of each and every time she took a serious wound. "I can't promise I will never get hurt. "Or that I can shield everyone."
+
+"Gui cannot promise that either."
+
+She rested a hand on top of his head. "We can both promise to make anything which tries to separate us suffer miserably and long for it, Little Brother."
+
+"I, Zhen, like the sound of this promise." His ashen tongue flicked over her cheek.
+
+"Then let us persist together, Zhengui.”

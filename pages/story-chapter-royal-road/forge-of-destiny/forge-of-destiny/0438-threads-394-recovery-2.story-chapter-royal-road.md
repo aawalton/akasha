@@ -1,0 +1,163 @@
+---
+id: 887cc527-5dae-50dc-81b9-0d7376448ee1
+page-type-slug: story-chapter-royal-road
+title: "Threads 394-Recovery 2"
+slug: 0438-threads-394-recovery-2
+partOf: forge-of-destiny
+position: 438
+ownLength: 1931
+unit: words
+publishedAt: 2024-08-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1760357/threads-394-recovery-2"
+royalRoadId: "1760357"
+---
+
+"I think the watercourse style would be the best way to start," Ling Qi said thoughtfully. "Using the cliff as a near absolute defense from the southern direction expansion would take us into the way of the waterfall eventually. Best to start as we will continue and build up and in later."
+
+"Given how I’ve been fetching resins and lacquers and paints made in the west, I believe Lady Cai is thinking the same," Bao Qian remarked. "I'm sure I need not tell you that the Meng's fens these days are quite disorderly."
+
+Ling Qi suppressed a wince. "It is understandable. Her Grace was not restrained in her arrival there."
+
+"Luckily, the worst of the work was already done," Bao Qian said. "Still, it's rare for so many civil and military positions to be shuffled around so quickly. All things considered, they are doing quite well with it. I'm sure the snarls in the county ministry will be worked out soon enough."
+
+Cai Shenhua had mainly been there for the conspirators, but the Duchess in her full presence and panopoly had a tendency to overturn even small corruptions by her simple presence.
+
+"And… What is the disposition of the Meng themselves? My own contacts have been vague."
+
+The barons and viscounts of the southern hills were nearly ecstatic with her and the official push of the border so far south. She had received many compliments for her work… Oh, and the deal with the foreigners was nice, too, according to them. However, they did not speak much of their counts’ reactions, only offering assurances that they were not like the dreadful heretics and traitors that had been found out.
+
+Exasperating.
+
+Meng Dan hadn't written either, but she suspected he was very busy.
+
+"They are outwardly highly unified in their repudiation of traitors," Bao Qian said. He dipped the strip of pork in his chopsticks into the little sauce vessel by his plate.
+
+"As they should be,” Ling Qingge said. “Her Grace was exceptionally merciful."
+
+By the standards her mother had lived under with her own family and the Liu, what had happened probably was very merciful.
+
+"A clan as ancient as the Meng has built up much credit. A single blow would never fell them, even if it empties their accounts," Bao Qian said. "I am sure they are thanking their ancestors and spirits for their fortune."
+
+"It was the active efforts of those loyal to the Emerald Seas, not merely good fortune," Ling Qi disputed.
+
+"That would explain Her Grace’s leniency," Bao Qian agreed. "Miss Ling, the best I can say is that the foundations are wavering. Factions are polarized, and I have seen open disagreement among the clan such as I have never known. There is a strong undercurrent of resentment and spite in the central marshes, and even more rejection of outsiders than usual."
+
+Ling Qi frowned. "Unfortunate."
+
+"But spite runs both ways,'' Bao Qian continued. "I met several young Meng crafters and reagent growers who seemed very friendly, almost performatively so. It was awkward being loudly asked about news and fashions from the north while their relatives glowered at us in the distance."
+
+"That sounds strange indeed," her mother said. "Well, youth is always a little rebellious."
+
+"I suppose we are," Ling Qi said. It was amusing. Her mother felt herself old, but among cultivators, she doubted most would see much difference between late teens and thirties. "But it may simply be the way that feelings of unity and pride are manifesting there. Maybe I'm being too prideful, but I have noticed a general shift in attitude among those I write to."
+
+"It is a fine thing to be proud of our Emerald Seas, isn't it?" Bao Qian asked lightly. "Look at what we've done! Even the Xuan cannot say they have done as we have. A worthy accomplishment, indeed."
+
+People came around to diplomacy in the strangest of ways, but yes. Perhaps it was the bias of her selected contacts—people that Meizhen's father had curated for their investment in the Cai and the Emerald Seas as a whole—but now that the agreement with the White Sky was signed and sealed by the Duchess, there seemed to be a digging in of support for it.
+
+"It is good to be proud of your home when it achieves something praiseworthy," Ling Qi agreed. "I am just glad that so many see it to be so. The expanded lines on the map must quiet most of the complaints from the rest."
+
+"That they do," Bao Qian said in satisfaction. "I would not be discouraged by that mindset though."
+
+"I take my accomplishments as they are."
+
+"They are great accomplishments, even for their cost," Ling Qingge gave her a pointed look.
+
+"I will do many things to see our future come to pass," Ling Qi said.
+
+It was fine that mother was still upset with her.
+
+"That attitude has lent you more than a little credit." Bao Qian glanced between the two Ling. "This business with the traitor elder… The only complaint that is said against you is doubt that it actually happened."
+
+"It is a bit hard to believe," Ling Qi said wryly.
+
+"Jerks,” Hanyi huffed. “Big sis literally set herself on fire 'cause of that. How dare they not believe it?!" She puffed out her cheeks as she raised a cup to Ling Qi's lips.
+
+"There's not too much of it,” Bao Qian placated. “The word is too consistent. 'Baroness Ling withstood the Heron General's flame to guide her blade to the traitor's heart' and all that. 'Lady Cai led the soldiers of the province to victory over a tide of nightmares, just as her honored mother did.' The symbolism is rather apt."
+
+"The words of the courts may twist the truth, but it is difficult for them to conceal it whole," Ling Qingge said. "That is a virtue of the Emerald Seas."
+
+Cai Shenhua was not everywhere at once, but her effects on her court still rippled out into the culture of the province. Whole generations of cultivators looked to her path of truth in the aftermath of her rise. It was harder among them to be an outright liar.
+
+It was not so everywhere, of course. Such changes could only trickle down so much, when Xiangmen was so far away.
+
+"Still a bunch of jerks for doubting. Well, all the smart people in the south see it, so it's fine. I have a lot more stops to make this year," Hanyi bragged.
+
+"You really do. I wonder if managing and recording you will be my main business at this rate," Bao Qian mused. "You are becoming quite a fashionable icon in the foundations."
+
+Hanyi beamed.
+
+"I'm glad. When do you think you'll start touring again this year?" Ling Qi asked.
+
+"Hmm. It's the seventh month now. So, four more months with a four month duration," Bao Qian replied. "We want to hit the road as autumn is closing, to give the fortune of a mild winter. You will be busy, but do you think you may be able to make an appearance? At one of the larger venues, of course."
+
+Ling Qi considered. It wasn't a terrible idea. Strange as it was to think, she was popular in the foundations, the hilly foot of the Wall. It could do her some good to solidify any connections with the small lords and ladies in the south. Even if not for that, Hanyi deserved to have her sister come to one of her performances. "I will see what time I can clear, but I think I can make at least one."
+
+"Perhaps we all may go,” Ling Qingge offered. “... It is a family affair, after all."
+
+Ling Qi blinked. "If you would like, Mother."
+
+"It's fine if Big Sis' mom and the littler sis want to come, too. They can see how amazing I am!"
+
+She was glad her sister was warming—well, becoming more attached—to the rest of the family. Hanyi had probably approved when Mother yelled at her. That might have made Hanyi respect her mother more, too.
+
+The rest of dinner passed in quiet conversation around the tentative plans for the trip. It was still stiff and formal in some ways, but it was better than the interviews. Mother had to excuse herself to attend to Biyu and her duties, and Ling Qi was soon being wheeled  down the halls by Hanyi towards the garden, Bao Qian at their side.
+
+"It will sound trite, but how are you, Miss Ling? Truly?"
+
+"Is it not obvious?" she shot back.
+
+"You are exhausted, in pain, and not a little run ragged," Bao Qian replied. "You hide it well. Is it the work or the conditions?"
+
+"Mostly, I am just very, very tired of this chair, no matter how comfortable it is," Ling Qi said.
+
+She felt Hanyi frown behind her.
+
+"Big Sis should just let herself be pampered for a while."
+
+The words were barely audible, but Ling Qi winced at them all the same.
+
+"Understandable. You are an active woman, enough so that you make a man feel lazy and unambitious at times," Bao Qian said ruefully.
+
+"Best work on that then," Ling Qi joked. "But please, I do not want to talk about work. How have you been doing?"
+
+"It's busy and challenging. I enjoy the travel, and I have been running interference for Qingling's business while she has her fugue."
+
+"What’s wrong with Bao Qingling?" Ling Qi asked.
+
+Meizhen's paramour was an odd girl, but her friend had seemed happy, even as she set off back to the Thousand Lakes for a few months.
+
+Bao Qian raised his eyebrows. Ling Qi tried not to look defensive.
+
+"I haven't pried the details out of her, but she's unhappy about her best 'customer' in some way, or at least worked up. It can be hard to tell which is which with her."
+
+Once, Ling Qi might have been able to ignore the particular tone the word “customer” was spoken in. As she was now, he might as well have come right out and said it to her.
+
+"You know?"
+
+"Qingling is not subtle when you know her well."
+
+"Not many know her well," Ling Qi replied.
+
+"True," Bao Qian admitted freely. "I don't suppose you know any more details?"
+
+"Bai Meizhen was in a fine mood when she left."
+
+"Not a conflict then,” Bao Qian concluded. “Something in her own head, or simply missing her match? No, that doesn't quite match that sort of manic fugue. She only does this when she's fixated on a goal."
+
+"We'll have to wait for them to tell us, then," Ling Qi grumbled, a little upset with Meizhen now. She could think of a few causes, but they all seemed very unlikely.
+
+"Frustrating," Bao Qian agreed. "How are we to gossip when they leave us in the dark?"
+
+"It's rude," Ling Qi complained before she could catch herself.
+
+Bao Qian was amused. "It's their business."
+
+"Don't turn away now,” Ling Qi demanded, turning up her nose. “Either walk the Way of the Gossip-monger or don't. I have no use for ditherers." Ling Qi laughed, the faux haughty pose disappearing. It felt good to get even a small one.
+
+"I mean, it's probably some kinda kissy stuff with those two, right?" Hanyi asked.
+
+Ling Qi coughed. "It’s a secret, Hanyi. Don't you feel the screening field? You don't say that outright."
+
+Hanyi looked nonplussed. "Oh, right."
+
+Ling Qi sighed. This girl was absolutely going to get her in trouble one day.

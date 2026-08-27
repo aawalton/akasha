@@ -1,0 +1,83 @@
+---
+id: 815a9200-b70b-5472-9be9-7e3b207cdce1
+page-type-slug: story-chapter-royal-road
+title: "Threads Interlude: Chicken."
+slug: 0420-threads-interlude-chicken
+partOf: forge-of-destiny
+position: 420
+ownLength: 1236
+unit: words
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1639228/threads-interlude-chicken"
+royalRoadId: "1639228"
+---
+
+"You know… You know, I've been thinking I should warn you off that girl, but she's doing pretty good work here."
+
+Xuan Shi sat cross-legged in the inner garden of the building set aside for the Xuan clan upon a flat stone in the center of a pond that was the centerpiece of the garden. His hat, coat, and staff were set aside by the door leading inside, allowing him to feel the cold moisture in the air on his skin.
+
+Kongyou draped their phantom weight over his shoulders, their narrow features close to his, glittering black eyes twinkling and the needelike fangs between their lips exposed by their grin. "Going into our realm, seeing the echoes… and she still pushed out those land claims of yours, huh? Moons, so many people are gonna die. These mountains will be a butcher's shop."
+
+"To stand astride history and scream stop is no virtue. Neither she nor I are weights great enough to halt its advance, only to tilt it one way or the other," Xuan Shi replied placidly. His hands were cupped in front of him, his thick arms tensed with the immense weight they held. The weight that appears as no more than a tiny white egg was held in his palms.
+
+"Hoooo, absolving yourself of responsibility? You aren't usually so cowardly, Shi."
+
+"To take responsibility for the whole of the world is not bravery, but arrogance."
+
+This was a spar they had undergone many times now in one form or another. He breathed out, and the sheen of moisture glistening on his skin flowed away, rivulets running between lines of muscle and then across stone, dribbling back into the pond. He pushed away cold and drew in heat, gathering it in his palms.
+
+"And the future has changed,” he continued. “There is much bloodshed and strife yet, but there is an end now. An end aside from the grave's silence."
+
+"You really think any of this is gonna hold?" Kongyou weeded playfully. Their arms draped over his shoulders and reached for the egg. Sparks the color of granite snapped and bit at the nightmare’s fingertips, stopping them dead. "C'moooon, Shi. I want to help too."
+
+"The words being spoken here hold weight. Perhaps they might buckle or crack, but they are not wind. This one can feel them taking hold. Even those against have more and more trouble being wholly dismissive."
+
+"If one side thinks the other actually has something of value, it only encourages them to take it more. You know that, don't you, Shi? It’s how every large group of people acts. When it's just individuals, sailing in their little boats, one or two swimming where they can be absorbed, the shoals can ignore them. When it's a competing shoal, when the food and living space is at stake, where does it always end?"
+
+Xuan Shi fixed his attention on the egg in his hands. Kongyou's hands hovered over his.
+
+"C'mon, Shi,” Kongyou repeated. “Let me help. You know this little one is more aligned toward me. And with a lineage like that, it's not like I could harm it if I wanted to."
+
+"I know no such thing. Darkness is not fundamentally aligned with nightmares. Nor is sacrifice. Sad things may still be bright, in the end."
+
+"You’re such a stick in the mud." Kongyou sighed. "It really is exquisite though, watching all this setup. It's going to be amazing when it falls apart. I wonder what her face will look like when it does."
+
+"In failure, she will endure. However, though sails might be torn, though the hull may need patched, thou are wrong. This ship is not made to sink. ... It cannot be impossible, this thing called peace. It can exist, if those involved can be bothered to try."
+
+"I feel bad for you, you know. I keep trying to soften the landing, but you just keep climbing higher up that cliff."
+
+"This one is pleased with your sympathy, even if it is misplaced."
+
+Kongyou bit his ear, and he twitched. "Tch, there's only so much bittersweet I can take, you idiot. I want a balanced meal."
+
+Xuan Shi felt a pulse in the flow of energy wrapped so tight around the egg in his hands.
+
+Crack.
+
+Tiny and hair-thin, the cracks spiderwebbed out across the egg. A shard was pushed upward and outward, the little beak within punching a hole.
+
+The inside of the eggshell was the color of the midnight sky, down to the glittering stars, and where the fallen fragments touched his hands, they chilled his flesh. The hole widened, the egg split apart, and the creature within spilled awkwardly into his hands.
+
+Soft blue white down, matted down and sticky with the remains of the egg, bits of shell still clinging to it. Large eyes black as void peering up at him from a too large head as the chick awkwardly clambered to her feet his hand, wobbling back and forth on unsteady legs.
+
+"Fair greetings to you on this your day of birth, little one," Xuan Shi murmured.
+
+All his life, he had been denied a companion. None of the new generation of xuanwu, the snake-tortoises, had wanted him. His unshelled kin had their webs of family that he was not part of. Kongyou… He had thought at first that he had found a companion, but this was a lie. Even if he regretted it not, even if he still staunchly believed it might be made real in time, it was still presently a lie.
+
+This was different. It was simple. Pure. No deception, and no exhausting social maneuvering. Already, he could feel the infant spirit’s cool, dark qi reaching out to him for a connection. He reached back tentatively, presenting himself as cool stone, the sheltering shade of the mountain, sturdy and immovable. Safety.
+
+He couldn't help the grin that spread across his face as his offer was accepted. He felt the small, cold mote of qi nestle into his dantian, bonded and bound.
+
+"Oh, wow. Raggedy little fella." The nightmare’s long fingers remained splayed over the shrouding qi that remained in his palms. "Guess birds be like that though. Ain't you a cute…"
+
+The chick's head tilted further to the side, and its down-covered behind wiggled back and forth. It leaped. Xuan Shi blinked. Kongyou blinked. The chick's beak opened, revealing its inner surface and throat to be lined with tiny, razor sharp teeth, and a blot of inky blackness in the back of her throat pulled on the eye. Then the chick's beak sheared through Xuan Shi's dense qi and clamped down on the nightmare’s immaterial fingertip as if it were real.
+
+Kongyou let out a shocked screech and dispersed immediately. The chick dropped back into Xuan Shi's palm, a little strip of slowly dissolving dreamflesh in her beak. She threw her head back and swallowed, chirping happily up at Xuan Shi with multicolored blood staining her beak.
+
+<Not cute at all!> Kongyou complained, now firmly ensconced behind his eyes. <What the hells!>
+
+"This one would not say that. Perhaps one will be more careful in where one chooses to put their fingers," Xuan Shi said. Very carefully and with much reinforcement, he brushed his thumb over the chick's head.
+
+She chirped, flapping damp, stubby little wings, bobbling in his palm.
+
+He smiled. He would have to decide on a name.

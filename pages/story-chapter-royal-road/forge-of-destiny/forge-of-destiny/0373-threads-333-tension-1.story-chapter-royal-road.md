@@ -1,0 +1,133 @@
+---
+id: 2fea1c4c-f921-511b-924f-08baf85ffb39
+page-type-slug: story-chapter-royal-road
+title: "Threads 333 Tension 1"
+slug: 0373-threads-333-tension-1
+partOf: forge-of-destiny
+position: 373
+ownLength: 1898
+unit: words
+publishedAt: 2023-09-11
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1340086/threads-333-tension-1"
+royalRoadId: "1340086"
+---
+
+There were drums, Ji Rong had said. Drums always beating. Ling Qi pondered that statement as she soared in the sky over mountain and valley, river and cliff.
+
+She was proceeding ahead of the carriage to arrive at the summit location in time to arrange the schedule for Renxiang and to give herself time to think and cultivate. She’d not had much time for cultivation in a while, and it was making her anxious.
+
+Her meeting with Ji Rong and Sun Liling would come soon after her arrival, and the impending event had left her wondering on the nature of what Ji Rong spoke of. She considered the surface-level impression of Sun Liling when the princess had arrived at the summit location. She had felt the fertile, bloody earth, claws bared at the world. But there was a bitterness in it too, buried deep beneath blood and earth and under blade and claw. Bitterness. Resentment. Rage.
+
+The feelings had a familiar tint to them. Ling Qi was loath to turn over the memory of her first nightmare tribulation. The tribulation setting had been the memory of the Mason War and had featured the King of the Wild Hunt. It had been there where her newfound resolve to be better had met reality and failed. She had recovered. She was better now. The fragile Ling Qi of back then could not have faced the Emerald Mourner and stole back Sixiang in her latest tribulation, refusing to follow the nightmare’s will.
+
+But she still remembered her first. Remembered it down in the shard of her soul that she had etched into isolation. She remembered being a rat with bloody teeth and not the slightest shred of kinship, merely a blood-hungry beast that devoured whatever fell in its path.
+
+Sun Liling radiated a different sort of hunger, a different sort of desperation and rage. As a rat, she had been a weak and cowardly vermin that could only move as she was told lest she die. Sun Liling reminded her far more of the hunter whose shadow was like the beasts of the Emerald Seas.
+
+Ling Qi wondered now at that cloak of beasts that the hunter in the first nightmare tribulation had worn. The other phantom Weilu had recognized her Thousand Rings art. If she went now, would the hunter recognize the Dirge of the Beast Kings?
+
+She could see the cut mountain and the observatory rising high ahead. Ling Qi spiraled down toward it as she contemplated blood and hunger, rats and hunters, and jungles and forests.
+
+Unfortunately, what awaited her were not simple procedures.
+
+***
+
+“Excuse me, what happened?” Ling Qi asked with dawning horror.
+
+Jin Tae stroked his chin. “My, Lady Ling should listen more closely.”
+
+Inside the imperial embassy, now fully built out over the Hui bunker, Ling Qi had arrived to some very disturbing news. She had been less than impressed at her arrival when she had been ushered into a dim office, not even fully furnished yet, lit only by a single paper lantern. But its security was complete, which was what mattered, she supposed.
+
+Jin Tae had been waiting for her there, garbed in his dark ministry robes, his white mask tied up to the side of his head. He was entirely too cheerful.
+
+“As I said, during daily work upon the meeting hall, our methods came in conflict with the foreigners’, and as a result of the flaws in such experimental construction, the geomancy of the site was undermined. When an argument broke out over this, one of the foreign guards struck an imperial artisan with her fist. There were some further fisticuffs, but your Xia Lin stopped steel from being drawn. This is quite grave, no? It’s unacceptable behavior.”
+
+Thanks the moon for Xia Lin. If steel had been drawn, she doubted the general would have restrained herself.
+
+Ling Qi narrowed her eyes at him. “Yes, we cannot allow violence between us. Where are the people involved now?”
+
+“The foreigner was rushed off to their redoubt,” Jin Tae said, studying his fingernails. “The poor artisan was taken to the medical pavilion. I am told she is having a tooth regrown.”
+
+“I see.” Ling Qi sighed. “I don’t suppose you know more details, do you, agent of the ministry?”
+
+“Did I not say everything that needs to be known? These barbarians will need to tender an apology at minimum.” Jin Tae said.
+
+She gave him a hard look, and he sighed. “This happened but a few hours ago. Efforts have been focused on preventing conflict from spreading.”
+
+“A simple fight triggered so much chaos?”
+
+“Tensions are high.”
+
+“Ruined geomancy can fray tempers and damage inhibition,” Ling Qi retorted.
+
+“It was considered,” Jin Tae allowed. “Will you accompany my investigation then?”
+
+“I will,” Ling Qi said firmly. “I need to speak with everyone and determine the circumstances.”
+
+“My, you are meticulous. Shall we, Lady Ling?”
+
+“Are the Jin prone to conclusions without seeing all angles?” Ling Qi wondered, following him out of the office as the silencing seals on the doorframe deactivated, letting them out into the embassy.
+
+“We choose to be efficient and seek advantage. Circumstances can matter, but the results of this are clear, no? We must demand a formal apology and punishment of the instigator. To do otherwise would show us as feeble indeed.”
+
+“Most likely,” Ling Qi agreed grumpily. She understood that. Even if there were complicating factors, letting this pass would infuriate quite a lot of imperials participating in the summit. “But we need to understand the whys of it if further incidents are to be prevented.”
+
+“True,” Jin Tae allowed. “I would argue that the better method is to eliminate uncertainty before enacting one's plans.”
+
+“What wonderful advice for the perfect realm where problems arise at your leisure,” Ling Qi said dryly. “Where is Lady Wang, by the by?”
+
+“In consultation with her clan. She is receiving the last materials needed to complete construction,” Jin Tae answered. “And while I admire your quick flippancy, Lady Ling, one cannot blame the currents when one chooses to sail for the rocks.”
+
+Ling Qi sighed, annoyed that he was right. There were always going to be risks with the joint building project, and in the end, one could not expect fortune to fall her way every time. “I won’t engage the metaphor, but the benefits of this project still outweigh the risks. I am certain this situation will be resolved with minimal trouble.”
+
+“I certainly hope so. It would be terrible if such a vast investment could be undone by a single moment of passion.”
+
+“You are remarkably snippy today, Sir Jin.”
+
+“Lady Ling is observant.”
+
+She gave him a flat look as they left the embassy.
+
+“Do you have an eye for formations and geomancy?” Jin Tae asked.
+
+“Only to the level of a hobbyist,” Ling Qi admitted. They would need someone uninvolved who could help on short notice. The less time there was for rumor to build up over this the better off they were. “I know one who might be available.”
+
+Jin Tae’s smile crumpled for a moment, turning into a scowl. “The Xuan?”
+
+“Yes.”
+
+“... Very well. Send a message. We will speak with the victim first.”
+
+The medical pavilion for the construction staff was a small structure sized to hold perhaps twenty people comfortably. Its size showed that major incidents and injuries were not expected. By the time they arrived, Ling Qi had sent off a request to Xuan Shi on a piece of messenger paper borrowed from Jin Tae.
+
+Inside the tent were two rows of carefully arranged beds, divided from each other by cloth walls, and the cabinets were full of medicines and physicians’ tools needed by the staff. There were only a handful of people resting in the beds, and a pair of staff were on duty. They briefly spoke with one of the physicians as they entered, and they were swiftly directed toward the right bed.
+
+The woman in question was a late second realm who looked to be in her mid-twenties physically, but she was certainly some sixty or seventy years by the feel of her spirit. She sat atop her cot, cradling her jaw as they arrived, angrily scribbling into a sketchbook open across her lap. Her jaw and cheek still showed signs of swelling and deep bruising, and her cheek bulged with medical packing to keep her jaw still while the tooth grew back.
+
+The woman paused as they entered, looking up. Her hand jerked, drawing a sharp line across the array sketch on the page with her brush.
+
+“Please do not be alarmed, madam,” Jin Tae said and she was surprised how kind he managed to sound. “This one is only here to collect your account of today’s unfortunate events. As is the baroness. I understand you might still be in pain. Are you able to communicate?”
+
+The woman glanced between them, her anxiety still clear. She gestured to her mouth, and then glanced down to her brush, giving a small shrug.
+
+“Taking it in writing would be acceptable. Do you agree, Lady Ling?” Jin Tae asked.
+
+“That would be fine. I might be able to communicate her memory if she were to allow it, but I understand if that might be uncomfortable.”
+
+The woman looked at her and back atJin Tae. She shook her head just a little and held up her brush.
+
+Ling Qi found herself a seat on a camp chair beside the bed, so as not to loom. While Jin Tae stood near the entrance, the woman flipped to a clear page.
+
+The story that came out was fairly simple. Construction had been difficult. The need to communicate through a handful of translators made progress slow and cumbersome. Disagreements over a number of basic geomantic principles made it more so. The rapidly ticking time limit had made the stress worse.
+
+When she had realized that one of the combined designs was hopelessly compromised, she had tried to warn her partnered White Sky artisan, a young man, to cease placing the component tiles. The disagreement had risen to the level of shouting, and the man had tried to ignore her by continuing to place the tile anyway. She’d grabbed his wrist to stop him. The next thing she had known, she was laying on the floor bleeding. One of those “brute women” had been snarling at her with a fist raised. There was more shouting, and Xia Lin had darted in between people, shouting over everyone to force a calm.
+
+Ling Qi grimaced as she traced her fingers just above the characters on the page. It was an honest account. She could feel the pressure of the woman’s stress and frustration in the woman’s characters. She saw the shadow of the events: the silhouette of the slim young man in white robes, the woman seizing his wrist and jerking his hand away from the array, and the explosion of pain as a bulky woman in armored furs smashed a fist into her jaw.
+
+“Thank you for your time, madam,” Jin Tae said. “Do rest now. Unless Madam Ling has further questions?”
+
+“No, that will be enough.” Ling Qi stood and inclined her head. “Let us not trouble you anymore.”
+
+They left, and Jin Tae glanced her way. “Still seeking complications?”
+
+“We’re not done yet."

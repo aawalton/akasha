@@ -1,0 +1,145 @@
+---
+id: b96dc290-cf03-5276-9ae7-4949c659a475
+page-type-slug: story-chapter-royal-road
+title: "Threads 118-Intermission 8"
+slug: 0143-threads-118-intermission-8
+partOf: forge-of-destiny
+position: 143
+ownLength: 2445
+unit: words
+publishedAt: 2021-08-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/732877/threads-118-intermission-8"
+royalRoadId: "732877"
+---
+
+In her head, she felt Sixiang wince, and her own expression froze. “I would call him a sibling, as you well know.”
+
+“Is the adult sibling who raises the infant alone not a parent? My experience says that it is so,” the other girl replied with a shrug. “Perhaps I am wrong, but to me, your bond does not hold that tenor. My only point is that a parent and a child need not share interests to the same extent. The relationship is different.”
+
+Ling Qi was glad that between herself and Sixiang, they could manage a reasonable social screening technique to avoid eavesdroppers. “While I appreciate the advice, I would also appreciate it if you would not say such things,” Ling Qi said evenly.
+
+Alingge gave her a searching look, seeming nonplussed by her reaction. “Know that I do not mean to… impugn your virtue,” she said as if the words were foreign. “I speak only as one raised by her own sister. Whatever the ties of blood say, it is actions which define relationships.”
+
+Ling Qi paused, brought up a little short. That… It killed her irritation in the crib. It still wasn’t the same, but she could at least understand the chain of logic.
+
+<I think you recognize more than that,> Sixiang grumbled. Ling Qi ignored them.
+
+“It is fine. The line between sibling and parent can be blurry.” It was difficult to say, and Ling Qi could not hide her reluctance in saying it.
+
+“As you say,” Alingge said slowly. The girl was not blind. Alingge could tell when she had offended someone, even if she seemed oblivious as to why. “If I may offer a suggestion?”
+
+“You may,” Ling Qi said as they started toward the pavilion.
+
+Alingge was silent for a time, as if formulating her words carefully. “Having observed you, I have noticed that all of your arts are things of battle or conflict.”
+
+“Every art has such potential,” Ling Qi replied dryly.
+
+“Perhaps, but it is not unusual to practice some minor cultivation of lesser arts as a hobby. Simple first realm things are trivial for we of the third realm to cultivate,” Alingge said. “I am no crafter, but nonetheless, I have mastered some minor artisanal techniques for use in times of peace. If you still feel that you require something more in common with your sibling, this may be a solution.”
+
+Ling Qi nodded once shallowly. “I had considered the same thing.”
+
+After speaking with Zhengui, Ling Qi had reviewed the arts contained within the family art tablet. There were a few arts which might be of use in gardening.
+
+<And of course, most of the ickle firstie arts will take little enough time that you can cram them into the cracks in your schedule,> Sixiang teased her.
+
+... There was that. It didn’t feel like a solution, but perhaps it would do until she found one. “I will give the matter more consideration,” Ling Qi said aloud.
+
+Alingge gave her one last examining look as they reached the pavilion. “I will wish you good luck with your endeavors then. It has been a pleasure to share pointers with you.”
+
+“The pleasure was mine,” Ling Qi said politely.
+
+Ling Qi parted ways with Alingge and made her way to the refreshment table. There, she put her familial troubles out of her mind and observed the other disciples. Over the past week, she had gotten a better feel for those Wang Chao had invited. They were almost all the children of common soldiers or first generation commoners who had now become barons. There were only a handful from established baronial houses and one vicontiel scion.
+
+It had taken some time to recognize, as many of them were doing what she had done, overperforming the roles they now felt they occupied and stumbling for it. It made an unfortunate amount of sense.
+
+The Wang family was a new comital house with new lands. The families which did exist under them did not have nearly as many spare children to throw into the sects. Being so far from the centers of power, many of their people were drawn from the peoples of the southern hills, so while the Wang were a heavily imperial clan in presentation, in practice, many of their vassals were at least tacitly in favor of older traditions. There were upsides to this type of demographic, mainly in that relations seemed relatively simple compared to the complications of Luo’s entourage.
+
+Of course, it was just that. Tacitly. Some few held hard to the trappings of the imperial court, but the vast majority of those from the Wang clan lands were focused on war and the making thereof. She got the feeling that cultural trappings were simply less important overall among these people.
+
+That did have its advantages. Even most of those who seemed to dislike her were rather tepid about it, and her recent martial achievements seemed to count for quite a lot in this crowd.
+
+It was with this backdrop in mind that she had chosen to focus her attention on the people who seemed well inclined to her in the first place. After all, if no one was outright hostile, it made more sense to try and make some people actually like her.
+
+So, she selected a cup of cider and put on a smile before turning to the pair of girls at the end of the table. Stepping closer, their voices went from muffled nonsense to clarity in an instant.
+
+“I just think it is an ill use of time to focus on something I have no talent for,” the first girl said, ducking her head. She was the girl who had spoken in praise of Ling Qi the first day and had reinforced the dummy tower for spars. Nie Ai was a positively tiny girl, of similar height to Li Suyin. Her hair and skin were similar to Ling Qi’s, though she wore her hair loose down to her shoulders.
+
+“And I think your lack of initiative on matters of combat is going to hurt you one day. One in your position cannot seriously afford to neglect such things.” The other girl, Hou Min, was one of her first sparring partners, the one who had wielded iron fans and wind arts. She was a little more striking than the other girl, being only a head shorter than Ling Qi and having much sharper features and longer hair. Her bright green gown stood out in comparison to the other girl’s more earth-toned clothing.
+
+It was at that point that she was noticed, and both paused to bow their heads in her direction, murmuring a shared greeting of “Miss Ling.”
+
+“Miss Hou, Miss Nie,” Ling Qi greeted back. Technically, as an ascended commoner, Nie Ai shared a rank with her, but thanks to Cai Renxiang, their status was different. Hou Min’s family, on the other hand, had been barons for three generations now. “Did something happen on the training field today?”
+
+She had spent the last week getting familiar with many of the attendees, but these two were the ones which she had found it easiest to talk to.
+
+“Only my timidity,” Nie Ai said softly, twisting a strand of her hair nervously. “I am really not suited to martial pursuits.”
+
+Ling Qi caught Hou Min’s growing frown and spoke before she could. “It doesn’t help anyone to be too modest. You might not be leading raids any time soon, but your defensive arts are fine for your level.”
+
+“It isn’t right for a baroness to be too retiring. How many times must I repeat my words?” Hou Min grumbled.
+
+Nie Ai laughed quietly. “My apologies. This thick head of mine sometimes takes time to absorb lessons. So at least once more.”
+
+Ling Qi had kind of caused this pairing by accident. Neither had seemed well inclined toward each other at first, but in some ways, Hou Min had reminded her of Xiulan, and so she had ended up insinuating that it would reflect well on her if she could help Nie Ai find her feet. Nie Ai herself was a production cultivator first and foremost, but Ling Qi could see that rather than being naturally reticent, she was the sort who just needed a bit of a push. So she had arranged to make it so. In the end, she didn’t have the time to make close friends with everyone, but perhaps she could help others become close friends instead.
+
+“I have confidence in the both of you,” Ling Qi said lightly.
+
+“Miss Ling is too kind,” Nie Ai said.
+
+“Most certainly,” Hou Min agreed. “In any case, Miss Ling, are you aware that some miscreants are attempting to paint your accomplishments in the underground as a mere lucky mistake? That you nearly caused the party’s loss? I actually heard two disciples saying so aloud on my morning run!”
+
+“Is that so?” Ling Qi inquired. “Please, tell me about it.”
+
+That it meant that she had more ears out, well, that was just the benefit of having many friends.
+
+***
+
+On the roof of her mother’s home in the sect town, Ling Qi meditated. She allowed her senses to fly far and wide on wisps of silver. There was little activity. The sun was still an hour or more from peaking over the horizon. Seated there, observing the quiet rousing of the many households of the town, Ling Qi cultivated.
+
+Winter’s Hearth Resounding was an interesting little art. Rather than being a melody of its own, the art taught subtle ways of reinforcing the structure of other arts. It was also a philosophical meditation on the nature of home and family. It spoke of warmth in winter and the need to keep family close.
+
+But in the echo of the lessons was history. It spoke of a long winter where treachery, lies, and greed were the primary virtues when structures taken for granted had begun to buckle under the weight of myopic self-interest. It was an unpleasantly familiar beat without even the excuse of desperation to soften it.
+
+Here, in the town at the entrance of the Sect, Ling Qi could feel the thousand small flames that the art’s musing spoke of, each one a hearth in the dark, a small circle of warmth against the cold that lay ever outside. Some were bright, some were dim, some were subtly broken in ways that she could not begin to put into words with only this distant observation. They were each real, each important to those within their light. They were still not hers.
+
+Her hearth was below her in the slow stirring of the morning staff and her mother rising, preparing to cultivate in the garden. It lay on the distant mountains of the Inner Sect, in scattered embers, and far, far away in a desert she had never seen.
+
+Even knowing, feeling the reality of those other lights, they did not warm her as this one did. She suspected that they never would. She had come to believe in Cai Renxiang, but it was still a selfish thing. She wanted her family to live in a province that was like what the heiress envisioned.
+
+However, she did not think that this was wrong. The circles were not separate. She saw her mother quietly greet a woman of similar age, trading quiet words in the pre-dawn light. In turn, she could feel a strand of connection from the other woman to the houses in the outer village. Her mother's circle of warmth was not hers, and her mother’s friend in turn had her own, but there was an intersection there.
+
+That, Ling Qi thought, was probably what Cai Renxiang meant when she spoke of patterns and structures, the intersection of a thousand, thousand lights, all suspended in the cold. That was where comfort and companionship and society arose. Shatter those connections, let them degrade and rot as they did in the streets of Tonghou, and the cold came in, as surely as it would through a broken window or an ill sealed roof.
+
+Even if she couldn’t care about hearths other than her own, she could see the value in them, the value in not forgetting them, and even in letting them share her hearth for a time, however brief. It was only to everyone’s ill that fires were allowed to go out in the cold after all.
+
+<For what it’s worth, I think you’re on the right track,> Sixiang murmured. <The Dream wouldn’t be what it is, we muses wouldn’t be what we are, without the confluence of mortal thought.>
+
+That was comforting, Ling Qi thought. She had worried that she was wandering too far afield. “Do you think I’m making a mistake with Zhengui? That I’m trying to force a connection that isn’t there?”
+
+Sixiang was silent for a time, and Ling Qi meditated.
+
+<I think the two of you are more alike than you think, even if you come at things from different angles. It’s just the ways that you're similar are ways that bring conflict,> Sixiang finally said.
+
+Ling Qi didn’t question what they meant. The answer was obvious enough. They both had a strong protective instinct toward the other, but for so long, Zhengui had been unable to act on it.
+
+<You’re also both stubborn as rocks, sometimes,> Sixiang grumbled.
+
+“Neither of us cultivate earth,” Ling Qi deadpanned.
+
+<Fine. Stubborn as an old oak and glacier then,> Sixiang shot back.
+
+“That’s probably fair,” Ling Qi agreed. “But you didn’t answer my question.”
+
+<I don’t think the idea is a mistake. But whether it gives the result you want will depend on what you do with it.>
+
+“Unhelpful,” Ling Qi huffed, rising to her feet on the dew-slick roof tiles. There was no use fretting more over it until they began. “Do you think I’ll be ready to practice my dream walking soon?”
+
+“Give it till the end of the week,” Sixiang advised, voice drifting on the breeze. “I’d rather be sure, and you still have a little time before that duel with Sparky.”
+
+“Fair enough,” Ling Qi said, walking towards the roof’s edge. She would start cultivating the Laughing Flight of the Wind Thief art tomorrow then.
+
+“Now quit worrying for a bit. The party’s today, remember?” Sixiang said.
+
+Ling Qi smiled at the reminder. It was Biyu’s fourth birthday today. There was nothing extravagant planned, but she was glad to spend the day with her family. “Right. I suppose I should go down and help Mother with her cultivation then.”
+
+Ling Qi stepped off the roof.

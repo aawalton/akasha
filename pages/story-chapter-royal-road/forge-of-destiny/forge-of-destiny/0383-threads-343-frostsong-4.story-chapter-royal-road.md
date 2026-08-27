@@ -1,0 +1,147 @@
+---
+id: 3b1107fa-ba63-5117-a55e-e681526a9e00
+page-type-slug: story-chapter-royal-road
+title: "Threads 343-Frostsong 4"
+slug: 0383-threads-343-frostsong-4
+partOf: forge-of-destiny
+position: 383
+ownLength: 1733
+unit: words
+publishedAt: 2023-10-23
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1383689/threads-343-frostsong-4"
+royalRoadId: "1383689"
+---
+
+They needed more time and some kind of buy-in to keep the Western Territories at low hostility. The situation with the Polar Nations’ Sublime and its fragments was likely the biggest flashpoint. If the Sun were constantly under attack by beings they now knew came from the Twisted Pines and not the jungle, tempers would rise.
+
+“I have a question. I would prefer to ask it now when we are each only ourselves,” Ling Qi began after a long moment of deliberation.
+
+Dzintara peered at her suspiciously and then glanced at Jaromila, who retained her encouraging smile. “I take your meaning, emissary, and will listen in that spirit.”
+
+“Would it be possible to negotiate with you and yours for the rites which may keep your goddess’ wrath away from the Sun civilians? Or at least rituals through which she or her fragments may be appeased?”
+
+The other emissary’s nostrils flared, and she looked unhappy. Her jaw worked for a moment before she replied. “I am pleased that you asked this in a calm environment.”
+
+She didn’t sound pleased at all.
+
+“I get it, you know. The knowledge we’re asking for isn’t small,” Sixiang interjected. “But I gotta admit, nobody is gonna be happy getting attacked all the time, especially if they have a face to assign blame to.”
+
+“That is true, but I understand that the Axemother’s lodges would be difficult to convince,” Jaromila said.
+
+“I only ask if this is something that can be brought up as an item of negotiation. I am not asking for a gift,” Ling Qi continued.
+
+“I understand this.” Dzintara turned  swiftly. Her cloak flapped as she strode off to the stone altar set into the half circle of trees and stared at it.  “It is… possible,” she said reluctantly. “Possible with sufficient concessions. The warding runes placed upon settlement walls are not a deep secret.”
+
+Ling Qi let out a breath. “I see. Thank you very much. I am sure we can come to an agreement.”
+
+“We will see.” Dzintara said.
+
+“It is a good matter to bring up here,” Jaromila supported. “Anything which touches on the power of the priesthoods is fraught.”
+
+“That was what led me to the question, Ling Qi said. “I—”
+
+“This old man will bear the words, if the emissaries will allow it.”
+
+None of them were obviously startled. They were all too poised for that. But she saw Jaromila’s hand twitch toward her belt and Dzintara’s teeth clench. Her own qi rose, poised to rush out in a tide of mist before she clamped down on it.
+
+An old man in a cloak of crow feathers stood between two of the trees in the shrine. Stepping gingerly down the roots while leaning onto a gnarled wooden cane, she could almost believe he really was just a doddering old man.
+
+“Revered One,” Jaromila greeted, recovering first. “It is surprising for you to join us.”
+
+“The young ones’ argument was loud. My stroll only brought me to it,” the scruffy old man said as he reached the base of the tree roots.
+
+“Old Crow, do you agree with this notion?” Dzintara asked. Her expression was stiff.
+
+“It is my notion that the old should argue with the old,” the crow said. “It is less fraught. The runes you speak of are low things. It is the opinion of the Tower that a few such trinkets can be negotiated, if bought fairly.”
+
+“Then I will allow you to carry those words to the mothers as you have asked,” Dzintara agreed.
+
+Ling Qi observed, trying to judge the etiquette on display.
+
+<Seems like no one is going to tell the old man off, so I guess they can go where they like,> Sixiang analyzed.
+
+The general attitude was less submission than she would expect toward a higher cultivator, but Ling Qi could see the respect still. “Allow” a higher realm to carry the words. Hah. And Dzintara accused the imperials of being difficult to decipher.
+
+“That was the only item I still wished to bring up on my side. What is it that the Twisted Pine, the Western White Sky, might ask of us?” Ling Qi asked.
+
+“That you do not push into our mountains, that our realm is recognized, and that there are clear agreements on tolls and travel, even if they may not matter immediately,” Dzintara answered.
+
+“And of course, a clear method to resolve disputes on what we lay out here, as such will inevitably arise,” Jaromila finished.
+
+“Yes,” Dzintara agreed, glancing toward the old man.
+
+“I understand, Ling Qi said. “Should I go now and give you more freedom to discuss?”
+
+“I am unneeded, but if the emissaries wish to talk, this old man will escort our guest.”
+
+Sixiang leaned out over her shoulder, scrutinizing him. <He’s pretty weird. Can feel him on both sides of the line. Wonder if he wants to chat about me?> Sixiang asked her privately.
+
+Ling Qi wondered too.
+
+“If Emissary Ling is comfortable with this,” Jaromila said slowly.
+
+She considered that. Was she? She did not suspect foul play. Not here. It would gain them nothing and even this crow, seemingly fifth realm, would not get away with violence, not when…
+
+Her eyes fell on her own shadow, stretched out behind her. It was perhaps darker than it should be.
+
+“Yes, that would be fine. Honored Elder, I would be pleased to be escorted by you.”
+
+“Then I wish you well. Let us meet soon in the hall we are raising together,” Jaromila said.
+
+Dzintara’s eyes were on the Old Crow’s back as he stepped over to Ling Qi’s side, her brows furrowed in contemplation. When she sensed Ling Qi’s gaze, the fierce looking woman gave her a terse nod. “I look forward to resolving this all.”
+
+“As do I. I wish you good days until then. Shall we go, Honored Elder?”
+
+Sixiang remained half-material, clinging to her shoulder, drifting away into mist from the waist down. Their coal black eyes were narrowed, examining the old man. Their thoughts brushed, and Ling Qi sensed more curiosity than wariness.
+
+“Yes,” rasped the old man. “This way, young one.”
+
+They left the hill behind, Jaromila and Dzintara passing from view. They walked in silence, only the rustle of her gown in the wind and clack of his cane against the ground breaking the natural atmosphere.
+
+“So, like, what’s going on, old timer? You know I’m not some spooky demon, right?” Sixiang asked flippantly.
+
+“You are no demon, but you are a frightening figment of the kind that draws young fools to destroy themselves when they peer too deep into sleep.”
+
+“People are dangerous. They may do truly cruel things with little rhyme or reason. Spirits,I find, are fickle, but no more so than men,” Ling Qi rebutted. “So, sir, I will ask that you not be rude to my companion.”
+
+The old man peered at her with his single eye, the empty socket matching it as black as Sixiang’s eyes. “Agreed. Still, a question, if you will indulge.”
+
+Ling Qi inclined her head. Sixiang tilted theirs.
+
+“How did you come to fear death, figment of chaos?”
+
+Sixiang flinched. Ling Qi gave them a concerned look. She remembered one of the first real conversations she had with Sixiang, trying to make the spirit understand death and what it meant to humans. She thought of everything that had transpired. She thought she knew the answer. But Ling Qi also thought it was Sixiang’s to answer, if they liked.
+
+“Attachment,” Sixiang answered. “That’s what did me in. Sixiang has things that the next dream will not, no matter how much or little of me is in it. I want those things.”
+
+Knowing what they were talking about, Ling Qi still felt uncomfortable. She had avoided thinking about it, even before less platonic elements had come up. Sixiang was not human. Knowing that their entire conception of self-preservation was based on Ling Qi herself…
+
+This was why she wanted Sixiang to go out to make other attachments. Because she was human still, and that was too much for her. She felt trepidation where their thoughts touched. Sixiang didn’t understand why it discomitted her, but they did recognize it at least.
+
+“So simple as that,” said the crow, slowly shaking his head. “Young emissary, you are changing your ice. Molding it. You have told me that you have met Her, the Crone. Yet you are walking away from her. Is it fear? Of Ending? Of Death?”
+
+Ling Qi pursed her lips. “Only a little. Rather, I would share something she said to me that I have come to think is right.”
+
+“Oh?”
+
+“There is no need for humans to worry over final endings, that void at the end of everything,” Ling Qi paraphrased. “When we do, it's almost always just an excuse to sulk.”
+
+“Concern for the future is foolish then?”
+
+“No, but there is a difference between concern for those to come and willfully ignoring the present.”
+
+“Always looking so far ahead that you ignore the crunches and screams underfoot. Not a good look, that,” Sixiang said wryly. “I’m still a creature of the present. I gotta agree with my girl.”
+
+She’d thought on the duchess and on Renxiang. The girl she had first met in the Outer Sect might have been someone whose eyes were fixed too far ahead. She didn’t think Renxiang was the same anymore. The Duchess… She didn’t know. Only Renxiang could.
+
+“It is easy to sacrifice against the World’s Ending, but there are many worlds, most of them small indeed,” the crow said, his twisted crutch tapped against the ground in time with their steps as they walked under the slowly setting sun north toward the chokepoint. “Who is to say which is worth more?”
+
+“Someone will. Someone must,” Ling Qi said. “We are the only ones who can judge. The Great Spirits are even less suited to such judgements than we are.”
+
+The one high above, looking down on tiny things they can barely see. How good could such judgment ever be?
+
+“I wonder at that. Where, then, do you turn your ice?”
+
+“To the endings that make way for new things. My ice is the killing cold that renews the world for a new day.”
+
+Cold and Isolation, and Ending: blade, hilt, and pommel. Through those three lenses, she understood harm and pain.

@@ -1,0 +1,127 @@
+---
+id: 47e4e7c5-d8a2-55ce-81c1-1c3691bc570a
+page-type-slug: story-chapter-royal-road
+title: "Chapter One Hundred Seven: The Dinner"
+slug: 0110-chapter-one-hundred-seven-the-dinner
+partOf: flesh-eater-demon-evolution-litrpg
+position: 110
+ownLength: 2203
+unit: words
+publishedAt: 2026-07-21
+link: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg-book-1-complete/chapter/3705055/chapter-one-hundred-seven-the-dinner"
+royalRoadId: "3705055"
+---
+
+Pyre stabbed her fork into a leaf and stuffed it into her mouth. She’d elected to pile her plate with salad since she couldn’t be bothered to pretend to eat meat right now.
+
+Lord Alardice still hadn’t directly addressed either her or Callan yet, but he did send her a few wary looks from where he sat at the head of the table. The noble was clearly unsettled by her presence here, even if his face remained otherwise stoic.
+
+“You would have ready access to the city and any resources or spell components you need,” Lord Alardice was saying. He sliced into his steak with the sort of practiced grace that had probably come from manner drills or something.
+
+Seated across from Pyre, Callan squinted at the movements and attempted to mimic them. Unlike the demon, he seemed to actually be trying to keep up with all the fancy noble etiquette standards.
+
+“I can have a separate infirmary built on the grounds if you’d prefer to live in a separate building,” Lord Alardice continued. “You would have your own gate entrance and be able to enter and exit whenever you wish.
+
+Pyre internally whistled as she stabbed another pile of leaves. The noble had been droning on for some time now, outlining all the benefits Llyr would get if he took his offer to work at the Alardice estate. He was really pulling out all the stops, including listing a salary that had made Callan’s head snap around so fast that she would’ve worried he’d broken his neck, if not for the whole ghost thing.
+
+Now here he was offering to build a whole building for the healer. Pyre had clearly underestimated both how serious and how persistent Lord Alardice was.
+
+Llyr frowned. “That is very generous,” he began slowly, “and I appreciate the offer, but a number of people in the Outer Ring have come to depend on me for healing. I can’t simply abandon them.” He spoke with the patient tone of someone who’d explained the same thing multiple times already.
+
+“You could continue seeing your own patients,” Lord Alardice said. Llyr blinked at that. This, apparently, was new. “The only condition would be that you conduct your business within the Alardice infirmary.”
+
+“Lord Alardice, you seem very insistent on Llyr moving,” Daphne said primly. She took an elegant sip of her drink (probably wine) and set the glass lightly down on the table. “I believe he’s already told you multiple times that he enjoys his current home. Are you always this persistent, or are these special circumstances?” she said pointedly, a bit of sharpness entering her otherwise smooth voice.
+
+Lord Alardice’s eyes narrowed slightly. “I am only concerned for Llyr’s safety,” the noble said. “Considering the disappearances lately and how widely known Llyr’s location is, I believe it would be wise to exercise a bit of caution.” He nodded at the healer. “Your abilities are irreplaceable. If anything were to happen to you, it would be a great loss not only to Serindell, but to the continent at large.”
+
+Llyr smiled wryly at that. “I wouldn’t go so far, but I appreciate the sentiment. However, it’s unneeded.” He nodded at their group then, his eyes specifically landing on Pyre. She raised an eyebrow. So they were finally addressing the demon in the room.
+
+“I’m quite safe in my current home,” the healer continued, “even more so now that Lady Daphne, Callan, and Pyre are here. They’re all quite formidable in their own ways.”
+
+Callan froze a little at the direct mention, but when Lord Alardice turned to face them for the first time since the dinner had started, his gaze ended up landing on Pyre after a brief glance at the ghost. The corners of his mouth twisted.
+
+“Ah yes, of course, how could I forget,” he muttered. Pyre stabbed another pile of leaves with her fork and shrugged.
+
+“I’m good at my job,” she said simply. The noble’s lips thinned at that, but before he could comment further, Daphne took the opportunity to jump in.
+
+“Are you very familiar with the disappearances?” Her tone was perfectly light and curious. Lord Alardice frowned.
+
+“I’d say everyone in Serindell is, yes.” He snorted and swirled his wine a few times before taking a sip. “I’d be a pathetic excuse of an Alardice if I didn’t.”
+
+Daphne leaned forward a little, brown eyes gleaming in the warm glow of the chandelier. “I must admit, I was quite alarmed to hear about these disappearances when I first arrived in the city. Doubly so after Callan was attacked. Have you learned anything new from that cloaked man?”
+
+“I believe the knights are still questioning him,” Lord Alardice said dismissively. “Last I heard, he hadn’t woken up yet. Dismemberment happens to be a very serious injury,” he added dryly with a pointed glance in Pyre’s direction.
+
+“Have they looked at the tattoos yet?” Callan suddenly piped up. Everyone at the table turned to him. He shifted uncomfortably at the attention, but kept going. “The knights took the severed arm, right? Those tattoos were magical. If they analyze the spell, they might be able to see where the teleportation spell is anchored.”
+
+Lord Alardice gave the ghost a long look, assessing. “I ordered the knights to study the tattoos, but I’m not aware of any progress made on that front,” he finally said. The corner of his mouth quirked up. “These things take time.”
+
+Callan, Daphne, and Llyr exchanged looks at that. After returning to Llyr’s home, Pyre had drawn what she remembered of the tattoo, but it hadn’t netted them much more information than Callan’s original sketch. It mostly just confirmed that it was, indeed, the same marking.
+
+“…Is it possible for us to take a look at it?” Callan said tentatively. “I don’t mean to impose,” he quickly added, “but surely Llyr would be the best person to analyze something like that? The spell tattoo could lose its power now that the arm’s been severed, so the sooner it’s dealt with, the better.”
+
+Llyr nodded. “I certainly wouldn’t mind taking a look,” he agreed. Lord Alardice’s lips thinned.
+
+“As I said before, the knights have it handled. I’ll inform them to hurry their research and preserve the arm if you’re so concerned.” He leaned forward slightly, dark eyes sweeping across the table. “While I appreciate your… enthusiasm, your help is not needed here. Need I remind you that you are yet to be cleared yourselves.” His eyes landed on Pyre then. “You should be receiving your questioning date soon.”
+
+“And we’ll attend when called.” Daphne’s voice was hard. “Until then, I can’t help but worry about these kidnappings. I wouldn’t have expected something like this to go on for so long.”
+
+Lord Alardice’s eyes sharpened at that. “Are you questioning my ability to govern?”
+
+“I simply believe a fresh pair of eyes might be able to see things that may have been missed,” Daphne replied, meeting the man’s gaze steadily. “You and the knights have been investigating for months now, correct? You might be too close to this issue.”
+
+The last sentence was a bit softer than the rest of her words, and a silence fell over the dining hall afterwards. Callan had frozen in his seat, eyes darting between the two nobles currently locked in a staredown. Pyre leaned back in her chair and watched, considering.
+
+At this point, Lord Alardice had to know they were suspicious of him. Questioning him directly would probably get them kicked out, though, and she was acutely aware of all the guards posted outside the room.
+
+Across from Daphne, Llyr cleared his throat. “Returning to the previous subject,” he said lightly, “while I appreciate your offer, Lord Alardice, I’m afraid I must decline.”
+
+Some of the tension deflated, and both nobles sat back. It didn’t fully go away—some of it hung in the air, waiting for a spark to ignite it again. Considering the conversation had started at a job offer, it was safe to say that things had escalated quite quickly. Not that Pyre blamed Daphne or Callan for their questions. To be frank, the longer they sat here the more shady the noble seemed. She’d probably press, too, if she wasn’t positive that doing so would get the guards called on them.
+
+Lord Alardice exhaled, expression returning to its usual flat disinterest. “Well, if you ever change your mind, you know where to find me.” He turned to one of the pillars lining the perimeter of the room. A glass sphere nearly identical to the one beside the gate sat embedded inside the column.
+
+“Bring desert,” he instructed. The sphere flashed violet, and a few moments later, the doors to the kitchen swung open. A few servants holding plates of cake slices stepped inside, setting them down on the table and exiting the dining hall in record speed. It went to show that no one was ever truly alone in the mansion. Pyre wouldn’t be surprised if there were the magical equivalent of security cameras here, too.
+
+Around the table, the nobles (and Llyr) switched forks, which Callan mimicked. Pyre opted to keep using the one she was already holding. It wasn’t like it had touched anything but raw leaves this whole time anyway.
+
+“This is delicious,” Llyr complimented as they ate. Lord Alardice grunted in acknowledgement.
+
+“Of course it is. I only hire the best.”
+
+Pyre could practically hear the pointed, “which is why I want to hire you” part. From the way Daphne snorted lightly as she took a bite of her cake, she clearly wasn’t the only one.
+
+The silence returned, only broken by the clinking of forks. No one seemed particularly inclined to bother with small talk, especially not with the tension from before still lingering. Pyre was considering breaking the quiet herself—maybe asking if Lord Alardice had an exact date for that questioning besides “soon,” just so she could prepare for it—when the orb on the pillar flashed.
+
+The demon’s eyes snapped to it while Lord Alardice frowned and set his fork down. The glass was glowing that same steady purple hue, but this time the light wasn’t fading right away.
+
+“What is it?” the noble asked, a bit of irritation seeping into his voice. “I believe I told you not to disturb me when I’m eating.”
+
+Through the orb, an echoing voice sounded. “My apologies, my lord, but it’s urgent. Knight Captain Agnes is here.”
+
+Lord Alardice’s eyes sharpened at that. “What? Has something happened?”
+
+“I’m not sure, my lord. She’s asking to speak to you. She says it’s important.”
+
+Every person at the table was watching the orb then. Lord Alardice’s lips thinned, but he nodded slowly.
+
+“Send her to the dining hall,” he instructed. The voice muttered an affirmative, and in a flash, the light faded, leaving only the clear, glassy surface of the orb behind.
+
+The tension in the room thickened. Lord Alardice watched the front doors, one finger tapping impatiently along the table, while the rest of them exchanged looks. The air was practically buzzing with anticipation, and when the dining hall doors finally swung open, everyone immediately turned to the figure who stepped inside.
+
+Knight Captain Agnes looked largely the same as she had earlier that day, her armor shining under the chandelier-light. Her brows were furrowed slightly, and there was a subtle hurriedness to her movements that immediately put Pyre on edge. She watched the woman closely as she stopped at the foot of the table.
+
+The knight blinked, taking in the number of people in front of her. The dining hall doors swung shut behind her.
+
+“Good evening, Lord Alardice. I wasn’t aware you had guests.” She nodded at them all one at a time in greeting. “It’s lovely to see you again, Lady Daphne. Llyr, I’m glad to see you’re well.” She paused when she landed on Pyre and Callan, only continuing the greetings when Daphne piped up with their names. The demon gave her a casual wave in response.
+
+“What is going on, Captain Agnes?” Lord Alardice tapped his finger impatiently. “You said it was urgent?”
+
+The knight nodded, expression grim. She paused, glancing at the mansion guests. “Should I…?” Her voice trailed, but it was clear she was asking if he wanted them around to hear her report.
+
+The noble’s jaw tightened. It was hard to tell what he was thinking, but Pyre had a feeling that he was debating if sending them away like he probably wanted to do would just make them more suspicious of him. It was obvious at this point that they didn’t trust him, and while he didn’t seem like the sort of person who’d normally care about such things, Daphne’s status meant he had to at least play at civility.
+
+Of course, they would definitely eavesdrop even if they left the room for this report, but he didn’t need to know that.
+
+“You can state it here,” Lord Alardice finally said. “The Bellheins are friends.” Agnes nodded slowly, not seeming totally convinced, but she continued nonetheless.
+
+“The tattooed man,” she began. Her expression was grim. “The knights found him dead in his room.”

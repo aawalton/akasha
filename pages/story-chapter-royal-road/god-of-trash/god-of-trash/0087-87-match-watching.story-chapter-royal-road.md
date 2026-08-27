@@ -1,0 +1,133 @@
+---
+id: 96d16be6-a01e-53b9-8c91-d7a58e1b5e73
+page-type-slug: story-chapter-royal-road
+title: "87. Match Watching"
+slug: 0087-87-match-watching
+partOf: god-of-trash
+position: 87
+ownLength: 2278
+unit: words
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2307790/87-match-watching"
+royalRoadId: "2307790"
+---
+
+Ernesto burst onto the platform, his robes billowing and a stormy expression on his face. He pointed at Sable. “Behind me. Now!”
+
+Sable looked at him. A sour expression crossed her face. She went to move to his side.
+
+Rhys caught her arm. “Wait. Why are you following him?”
+
+“No one else will teach me. He’s my only option. If he stops sponsoring me, I… might end up like the Strawman.” She gave him a dark look and wrenched her arm free. “Stop meddling and leave me alone.”
+
+“I can’t. If the world’s treating you like trash, then I have a very vested interest. Ernesto might consider you trash, but I want to see you polished,” Rhys insisted.
+
+She ignored him, walking back to Ernesto’s side. Rhys watched her go, feeling a vague sense of interest. Like Mouse, she piqued that part of him that sat up whenever someone who was ‘trash’ walked by, but she piqued it even more strongly than Mouse. It seemed that the more someone was looked down upon or considered unworthy, the more it activated his trash path. Bast, who was an overlooked orphan about to embark on a life of crime, and Sable, the unvalued child of one of the beings declared enemies of the world, were far more ‘filthy’ and ‘trashy’ than a mousy girl who’d been accepted into a mage school and doubtlessly made contributions that someone in the school recognized as worthwhile, who simply liked to hide in social situations.
+
+He made a quiet note in the back of his mind to keep an eye on Sable. It didn’t seem like she was happy under Ernesto, and she was truly a very competent fighter. Plus, as someone born into using curse power, she was an ideal teacher to help him unlock the secrets to processing, storing, and using curse power and curses himself. He’d already figured out the basics, but there was a difference between knowing where the gas and the steering wheel were, and knowing how to drift a car to come out ahead in a street race.
+
+He was against regimented learning that ignored the realities of one’s talents and interests in preference for teaching children social norms, but he had nothing against learning from experts who knew much more than he did. In fact, he wouldn’t mind sparring against Sable. His skills in fighting a humanoid enemy with a normal number of limbs fell apart when faced with a multi-limbed enemy with blades attached to every appendage, fingers and toes included. He was sure that someone with more talent in the sword could have handled the situation just fine, but he had trash talent. Without lots of practice and trial and error, he had very little hope of winning in such a situation. In a world with monsters, beasts, and all sorts of horrors, he needed to learn how to fight non-humans just as much as humans. Sable provided that in a… relatively safe format, depending on her level of association with Ernesto.
+
+“Do you require healing?” the ref offered quietly to Rhys.
+
+“Huh? Oh.” He looked down at his bleeding leg. It was ripped up pretty badly. He waved his hand. “I’ll be fine.” Reaching into his robes, he took out a potion and took a small sip.
+
+She raised her brows. “You’ll need more than that.”
+
+“Probably,” Rhys agreed. Better to do it one sip at a time so Less is More could kick in, though.
+
+Speaking of his first skill… he looked at the potion, then took another tiny sip, thinking back to his use of the filth potion in battle. He hadn’t expected Less is More to work offensively as well as defensively. The filth potion on its own, without Less is More, might have been enough to injure Sable enough to call the match, but as used to impurities as she was, he was pretty sure she could have fought on with only that many impurities in her system. With his potion and Less is More, though, he’d absolutely overwhelmed her Impurity Resist, assuming she even had the skill.
+
+Honestly… I didn’t expect the potion to be that powerful, he thought, putting the health potion away to check his filth potion. This level of filth potion was easy for him to absorb now, so easy he’d subconsciously taken it as ‘weak.’ That, and he hadn’t used very much of it. He’d thought it would turn the tides, not end the battle. True, Less is More did kick it up, and he hadn’t expected it to activate, true, but if he’d been told Less is More would activate on it, he would have said it would go from pain to paralysis, not…severe danger to almost-death.
+
+“Asking him if he needs healing? You should be checking on my student!” Ernesto demanded.
+
+The ref looked Sable up and down. Sable, for her part, had the good graces to look embarrassed. “She looks fine to me.”
+
+“She didn’t a moment ago, when he almost killed her!” Ernesto accused Rhys, jabbing a finger at him.
+
+“Deaths are acceptable in the heat of battle. All contestants understand this,” the ref returned in a bored turn.
+
+“Wait, really?” Rhys asked, a little shocked. He was expecting to face potential death due to his status, but he was expecting it to at least be against the rules when it came. It was totally acceptable to kill in this tournament? Holy shit!
+
+The ref gave Rhys a look. “Before you get any ideas, death is only acceptable in situations where it would injure the attacker to avoid killing their opponent, and will always be deeply investigated.”
+
+Rhys put a hand on his chest. Phew. That was more of what he was expecting. Death was an acceptable consequence of a bad situation, not a normal outcome of a battle.
+
+“He almost killed my student due to gross negligence… or worse, an assassination attempt! He should be disqualified,” Ernesto growled.
+
+“An assassination attempt? Aren’t you two having a champion battle? It would be stranger if he didn’t fight at his full strength,” the ref argued back.
+
+“Champion battle?” Ernesto scoffed. “He clearly cheated. That potion he used must have been given to him by someone else!”
+
+The ref looked at Rhys.
+
+He drew out the filth potion and showed it to her. “I made it. You can check.”
+
+She took the potion from him and scanned it with her aura, then immediately held it out from her body, pinching it between two fingers as if a mere touch would contaminate her. Rhys thought she was being a bit dramatic, since it was his weakest impurity potion. but it was pretty potent, so maybe not.
+
+At last, she gingerly handed it back to him. Rhys accepted the potion and slid it into his storage ring. She shrugged at Ernesto. “It’s his. He made it, fair and square. Are you going to argue that he isn’t allowed equipment in the tournament, next? I’ll point out that most of these contestants did not forge their own swords, and neither did you. Should I strip them all of their weapons?”
+
+Ernesto closed his mouth. He glowered, simmering with rage, then finally spoke again. “I—”
+
+“I have already called this match. If you wish to dispute the results of the match, please file the proper paperwork with the Tournament Bureau.” The ref waved him away, turning toward the next two contestants.
+
+“Maerva! You dare?”
+
+“By the power vested in me by Purple Dawn Academy, I dare.”
+
+Ernesto’s teeth ground. He turned to Rhys, his eyes narrowing. “Watch your back, child.”
+
+“I won, fair and square. What, are you afraid to admit it?” Rhys asked.
+
+Ernesto narrowed his eyes.
+
+“Sable, do you want to stick with a sore loser like this? You should think long and hard about what kind of future you want for yourself… and if a future under Ernesto is the future you seek.”
+
+Sable looked at him. Her red irises glowed faintly in the bright sunlight, coloring her black lashes. Their eyes met for a long moment, and then she looked away.
+
+It was fine to be the moody, emo kid, as long as she broke free of the abusive adult manipulating her at some point. If she didn’t, she was doomed. Rhys really liked her fashion sense, and didn’t want to see an incredible costume like that wasted on a character archetype fated to fade in act two, long before she hit the enduring love a truly iconic design deserved. Rhys watched as she followed Ernesto away, a bit sad to see Sable go. He was always reluctant to see fine, polishable trash leave his hands. At last, he turned away. She’d find him again. He had to trust in that.
+
+He wasn’t that worried about Ernesto fighting his win via paperwork. All he had to do was notify Aquari, and she’d handle that for him, if it got bad; if it didn’t, he’d simply continue with his legitimate win. Alternatively, he could always pull the trashy teacher-teacher move, and shout out to that one legalistic guy in the Alliance, whatever his name was… Griffin, maybe? That overly-upright guy who believed in the rules and laws more than life itself would surely puzzle things out, and in taking the side of the rules, take Rhys’s side. Things would have to be going truly horrible for him to reach out to Griffin, but it was always an option.
+
+Oh well. He’d won. It wasn’t a good win, or an easy win, or a clean win, but a win was a win. That, and he’d discovered just how potent his potions actually were. He retreated to the audience to watch a few rounds and wait for his second battle, not trusting himself to keep track of time unless he was there.
+
+He watched quietly, taking note of all the contestants he could. A few of the battles were close, even excitingly so, but no one truly stood out to him. They were still early enough that most of the victories were quick and decisive. It wasn’t so bad, Rhys reflected, sitting up in the stands and sipping on a health potion like it was a soda. He had his leg stretched out to the row in front of him, and the few mages who considered asking him to move it rethought it when they saw the fresh blood on his robe. His leg slowly knitted back together, and the day dragged on.
+
+At last, one of the refs met his eyes and gestured him down. Leg healed, Rhys hopped up and bounced down the stands to the platform the man indicated. A male student stood opposite, wearing a uniform Rhys didn’t recognize. The two of them faced one another and bowed, and Rhys smiled. A polite reaction, for once.
+
+“May I request you don’t use that poison on me?” the boy in the strange uniform asked. It truly was strange, the more Rhys looked at. A white fabric, but when he moved, it looked black, almost shimmering, but into its inverse. It was like that blue-or-gold dress all over again, but worse.
+
+“You can request anything you want to,” Rhys replied neutrally.
+
+His eyes narrowed. “Then I would like the request you not use that poison.”
+
+“What if I’m a poison master? Am I meant to hang up my primary weapon?”
+
+“You’re not a poison master. Your skin is too healthy, with none of the jaundiced pallor, and your clothes aren’t durable enough.”
+
+“I’m not, but that’s not the point. Isn’t that an exquisitely rude question to ask someone? ‘Hello, please disarm yourself.’ If I asked you to put your sword aside, would you?” Rhys asked, crossing his arms. Quietly, he noted Florian’s rules for how poison masters looked, and made a mental note to seek a few of them out later. It sounded like they were heavily plagued by impurities, and he would love to lend them a helping hand for no reason other than to help them out, and definitely not to try out new, dangerous, and exotic impurities.
+
+“Of course not.”
+
+“Then why should I not use my poisons?”
+
+“If you don’t, I won’t use my trump card, either,” the boy replied.
+
+Rhys pretended to consider for a second, then laughed. “Nah. For all I know, you’re bluffing, and you have no trump card. Show me what it is right now, or I won’t even consider this offer of yours.”
+
+“Why would I show you my trump card?”
+
+“And yet, I’m meant to put mine down? You sure are a selfish git, aren’t you?”
+
+The boy narrowed his eyes. “You dare?”
+
+“I dare? I dare? No, you dare. Honestly. Coming out here and making wild demands, then asking if I dare… holy shit, kid. I hope your parents are rich, because you’re gonna have a tough time in life otherwise.”
+
+The boy retained his firm stance, looking down on Rhys, but a hint of flush appeared in the tips of his ears. “You dare besmirch the Coyale Family? Our noble line has produced mages for many centuries!”
+
+“Oh, so you do come from money. That explains so much.” Rhys paused, then looked at the boy in a new light. He leaned in. “Ten thousand gold, and I put my poisons away.”
+
+The boy spluttered. An aghast look spread over his face. “You mean to ask for bribes, in the light of day?”
+
+“Sure, why not? Come on, it’s just eleven thousand gold. Twelve thousand, and I put my poisons away. Surely a young master like you can spare a mere thirteen thousand?”

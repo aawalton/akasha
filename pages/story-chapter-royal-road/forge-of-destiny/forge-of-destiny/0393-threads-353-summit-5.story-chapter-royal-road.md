@@ -1,0 +1,127 @@
+---
+id: 4690da90-26c2-5187-96fc-48d30053d9ee
+page-type-slug: story-chapter-royal-road
+title: "Threads 353 Summit 5"
+slug: 0393-threads-353-summit-5
+partOf: forge-of-destiny
+position: 393
+ownLength: 1915
+unit: words
+publishedAt: 2023-12-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1447443/threads-353-summit-5"
+royalRoadId: "1447443"
+---
+
+“I thought I understood this until I came here and witnessed it.”
+
+“I agree, but I do not find their methods completely heterodox after spending longer on it,” Dzintara said in response to the priestess. “It is possible to recombine different paths. More than that, Emissary Ling Qi’s words and intentions are matched.”
+
+Ling Qi gave the other woman a surprised, but grateful, glance. Dzintara merely regarded her stonily under her woven headscarf.
+
+“She may,” the older woman reluctantly allowed. “But their walking god is down among these mountains. Every seer in ten thousand leagues can feel her, burning their eyes and deafening their ears. How is this to be taken as peaceful intentions?”
+
+“It is a threat, but not for you,” Ling Qi said. The duchess was here to oversee the war. “Emissary Jaromila must have told you of the Twelve Stars’ titan.”
+
+“That creature was certainly some type of demon,” Jaromila said. “As unsettling as the elders of this Argent Peak Sect were, they could not compare to that foul crumbling star.”
+
+“I have heard this, yes,” the priestess said. “And the portents are bad here. It is true that the Sibiar once allied and mingled with your ancestors…”
+
+It was gratifying to hear that plainly accepted.
+
+“But this whole situation is difficult. Divination is too uncertain here.”
+
+But it was, of course, only ever a foot in the door.
+
+“Divination is a useful tool, but those of us who are still here cannot expect to know everything that is coming. I fear overreliance on future telling.”
+
+“It is not to be treated as the whole truth, only an aid,” Dzintara said. “Still, I understand this discomfort. It is difficult to see peace among all the fires burning here.”
+
+“This is why it is our duty to enact so,” Jaromila said.
+
+“It is,” the priestess agreed. Eyeing Ling Qi, she seemed to come to a conclusion. “You say all these concerns are in good faith. Very well. So are ours. It is not enough for there to be judges alone. Judges can only hear the evidence brought before them, though a good one can see lies for what they are. Most disputes, I imagine, will be about the nomads. There are not yet enough of us in contact. Therefore, your soldiers and our soldiers will need to collaborate as they do here. There must be many eyes to see that there are no lies spread in the ears of judges.”
+
+“I’m not sure that’s possible along the whole border,” Ling Qi replied. “There are simply too many commands.”
+
+“I agree,” Dzintara said. “Perhaps an agreement for sharing duties on outposts that follow designated routes?”
+
+Ling Qi hid a grimace, glancing toward the rough edges of the construction here. That would be a harder sell to the Emerald Seas clans, too.
+
+“I do think an investigative force attached to the judicial one is worth pursuing. I think that the Hierarchy could spare a crow or two on retainer…?” Jaromila asked leadingly.
+
+“Possible. Perhaps I am overestimating how many claims there will be that ‘our’ tribes are making trouble,” the old priestess said.
+
+“So this force would mostly be for distant claims, those that occur well away from here?” Ling Qi wondered. “I’m sure there are more hurdles than I am thinking of, but if we are constructing this from the ground up…”
+
+“Outposts through which all legitimate traffic must travel would do more to remove the problem,” Dzintara proposed. “If you are outside approved routes, then you have forfeited our protection.”
+
+Jaromila gave the younger woman a slightly sour look. “A degree of variation is necessary to survive, migrating in the Wall where the valleys and passes might change from decade to decade. Also, shall the Axemother’s temples open their coffers to chain checkpoints across a continent and man each one?”
+
+It was a surprising show of friction. The White Sky were usually careful to hide such disagreements.
+
+Dzintara flashed sharpened iron fangs at Jaromila. “No, I was not proposing that. I only suggested mutually manned outposts where the routes are likely to cross dangerously close to these northerners and their itchy blade grips. We cannot just grant those who come to us license to continue doing whatever they want.”
+
+“And that is not what I am proposing,” Jaromila said coolly. “Apologies, Emissary Ling Qi, this is untoward of us. I do think pushing an investigative force will be good for everyone.”
+
+Dzintara followed up. “And it is the opinion of the temples that we should minimize the need for it, but we will not oppose its existence. Correct, priestess?”
+
+“That is accurate. To answer Emissary Jaromila’s question, the Hierarchy can both spare a crow and open its coffers to a point,” the old woman said pointedly.
+
+Ling Qi mulled over what she had heard. The glimpse at the foreigners’ own internal friction was a useful insight… It seemed that they weren’t totally united on their approach to the cloud tribes either. Was Jaromila using this to raise that issue in her own confederation’s regard? Gaining control of the tribes in the mountains would be more important, if this succeeded.
+
+“I believe I can advance adding an investigative arm to the deliberations,” Ling Qi said slowly. “At this early juncture, it may be more difficult to convince others about mutually manned checkpoints, rather than separate ones.”
+
+“Separate checkpoints will happen by default,” Dzintara said bluntly. “But it does not solve the problems of communication and duplicity between them.”
+
+“It does not.” Ling Qi sighed. "I think talk of checkpoints and restricting movements is premature. While we must establish identifying methods for allied tribes, I don't think the southernmost tribes routes pass this far north often." Ling Qi glanced toward Jaromila in question.
+
+"There is some variation, especially with your people’s weakening of the northern tribes, and the gathering I have heard of in the east," Jaromila replied. "But… no."
+
+"So, I think proposing this sort of infrastructure is premature. It may well be important in the medium term, but this idea is too soon now when we are just establishing our foundation."
+
+"I believe it is better to begin as you intend to continue, but I see your point," Dzintara said without heat.
+
+"I do believe establishing an investigating force to be important though," Ling Qi said. "And I would welcome your temples and your crows in its establishment to work alongside Xiangmen's rangers and scouts."
+
+She had toyed with the idea of proposing to bring the Ministry in, knowing that giving them more on the back of the decision to allow ministry-approved judges would bring more favor, but she did not want to give the ministry power over both the judiciary and the investigative force. That was simply too much influence over the burgeoning departments. If the ministry had to be placated and cajoled with further influence, Ling Qi would rather spread it thinly and in different areas.
+
+Ling Qi continued, "I have spoken with those men, and though I do not understand your institutions and rituals, I trust their impartiality."
+
+She glanced past the old priestess toward one of the men in a crowfeather cloak. This one had a face like a cracked granite cliff, marked with stubble and scars. She couldn't quite tell if it was one she had talked to before. The memory of their faces was slippery.
+
+Crows. No one ever gave them names, and she remembered what the first one she had spoken to had said. If the Ways of other southerners shrouded them like cloaks and mantles, boots and armor and gear, then the crow looked to her like a mask. They were hollow, but not empty. What had been scooped out was replaced with something else. Their human faces were vessels, a gruff or friendly or mysterious face to make teaching easier.
+
+Nameless. Without ego or ambition. An automaton animated by duty, a harsh edged, sharp lined character with what the southerners called a “rune” burning in the dark behind an empty eye socket.
+
+The old man turned to look at her, and she heard a harsh rasping caw and the flutter of wings. The nature of their duty wasn't hidden. Walk the winter shadows. Mark the roads and trails so that they might not be forgotten under the driving snow. Preserve knowledge. Transmit knowledge. Maintain the boundaries and gates.
+
+He nodded to her, and Ling Qi looked away. She was glad that she was refining her technique. It would be impolite to get a nosebleed right now. Even the ministry, with its own deathly oaths to the ascended Emperor An, were not so dedicated as these crows, at least not of the agents she had met. Of course, like any tool, the hands that wielded them had a say. But a cultivator like that was not just a tool either. They could not be guided against their nature any more than a mortal could force a waterwheel to turn against the river with their bare hands.
+
+"The bearers of His wisdom are ever reliable," the old priestess praised. "I am sure one or two can spare their eyes for this force, if it is to go forward."
+
+"It is the least that is necessary, but if it is where we must begin, very well," Dzintara said.
+
+"I thank you for your patience,” Ling Qi said. “If I may ask a question?"
+
+"Please," Jaromila said.
+
+"Where do you draw your judges from? Ours are apprenticed in a way, rising as junior clerks under the wings of senior magistrate and under the aegis of our ministries, but I have not gotten the details for yours."
+
+"There are judges of different types. For this, I would think we would use the judges of Sudica," Jaromila answered.
+
+"The Scepter’s law matrons would be the best to contact," Dzintara agreed. "This is no matter of small squabbles between families which can be handled by arbitrators, but more akin to the arguments which form between towns and cities. This is the role of the ascetics who devote themselves to the Scepter's law."
+
+"Ah. A particular class of cultivator then?" Ling Qi asked.
+
+"Accurate enough," Dzintara said. "The Axe concedes to the Scepter’s authority in this."
+
+"As does the Cauldron. But there is much that needs to be said on the selection process," the old woman said.
+
+Ling Qi glanced at her, and for the first time, she realized that the priestess felt like a mortal. There was nothing for her eyes to see, just a severe woman who could have been anyone's strict grandmother.
+
+She knew the Polar Nations did have powerful families and clans—Jaromila's story proved that—but more and more, she was feeling like the voices and emissaries dedicated to their gods were the real political unit at play here beneath the provinces.
+
+It was an odd realization. Temples in the empire simply didn't have that kind of authority. Where they were separate entities at all, they were advisory. However, if high realm cultivators and the White Sky gods were viewed as the same type of being, it did still align… It even explained their reticence regarding the duchess and their suspicion of Ling Qi speaking for her.
+
+"I won't intrude any further. It seems that you have your own internal matters to discuss," Ling Qi said, and the three other women acknowledged her words.
+
+"Yes. Thank you, Emissary Ling Qi. I look forward to resuming the meeting," Jaromila said.

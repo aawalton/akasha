@@ -1,0 +1,261 @@
+---
+id: ea4a7dab-fc50-5489-a045-8124ac175825
+page-type-slug: story-chapter-royal-road
+title: "Threads 496-Reception 5"
+slug: 0543-threads-496-reception-5
+partOf: forge-of-destiny
+position: 543
+ownLength: 3426
+unit: words
+publishedAt: 2026-01-27
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2983278/threads-496-reception-5"
+royalRoadId: "2983278"
+---
+
+"It is a rare sort of hobby," Luo Yaling said. "There's been rumors you had a dancer's sway for a while."
+
+Ling Qi smiled. "I've not been practicing seriously for too long, but yes, my graduating tournament probably told on me to a degree."
+
+"Less than you'd think!" Luo Yaling grinned. The sharp edges of her canines glinted like burnished silver. "Plenty of nobles go to a moon revel and come to the next morning with their pants flying from a flagpole and dirty scribbles on their bums. Among those, a decent few get an art out of it. Most don't do much with 'em beyond a dabble."
+
+Meng Dan sighed. "Speaking from experience, Lady Luo?"
+
+"Nah, I don't go getting attached to the party. Just gotta have your fun and move on. No reason to let it stick to ya," Luo Yaling dismissed. "But I've seen cousins and juniors who get caught up. It's not an art that gives you much guidance, is it?"
+
+"No, I suppose not, but then again, it is fundamentally my memory of the revel, written into an art. How could something like that have a clear meaning beyond my own interpretation?"
+
+"And there's the difference." The other woman nodded sagely. "I can see why you learned to dance properly."
+
+"How did you come by it, Lady Luo?" Ling Qi asked. "If you find the revels too much?"
+
+Luo Yaling cupped her chin. "The yearning to be lighter, faster, and freer. I sought to run and run in the open plains of my home, and when even those proved too small, the laughing moon reached out to me to offer the secret of wider plains still, if I could but catch her."
+
+Ling Qi tilted her head. "And?"
+
+"I did not, but in trying, I learned a new way to run. After that, it was off to the Blue Mountain, the respectable place to send your troublemakers."
+
+"That doesn't sound like the introduction the honorable, scholarly Blue Mountain Sect would like at all," Ling Qi said, amused.
+
+"They're great temples. They cater to all of us. Have you met me?" Sixiang whispered, amused themself.
+
+"Our elders would be cross to hear a disciple saying so," Meng Dan agreed dryly. "However, it is true that the Blue Mountain has long been a place of learning for those with difficult circumstances."
+
+Ling Qi nodded slowly, picking up on the meaning. Before the establishment of the Great Sect system, sects were often research groups under the patronage of single large clans,  temples that did not strictly answer to anything but ducal or imperial authority, or other edge-case institutions.
+
+Becoming a priest or a champion of a Great Spirit was also generally considered honorable for noble children of talent who were not well suited to ruling, leading troops, or otherwise inheritance impaired.
+
+Sixiang snorted. "Inheritance impaired? You've been hanging around the wrong crowd too much, Ling Qi."
+
+"I admit some of our patrons are more difficult to appease than others without a little…" Ling Qi trailed off.
+
+"Space to explore," Meng Dan finished diplomatically.
+
+"Good enough if you all want to play coy. I get it; you both have so many eyes on you now. How like you to amuse yourself with a scandal, Meng Dan."
+
+"I'm sure I do not know what you are talking about."
+
+Ling Qi would have been mortified once, but this was all in the court games. Little bits of gossip like this were the lifeblood of keeping contacts for more serious information brokering. Besides, she would be doing whatever this was openly from now on.
+
+"We're getting sidetracked. Baroness Ling, share a tale of your courses. What's the farthest out you've gone?"
+
+She looked back up at Luo Yaling, who was observing her expectantly. She didn't need to ask; she could tell the other woman intended to reciprocate.
+
+"Mm, I was lost in the deep liminal once, beyond the point where it reflects anything recognizable. Does that count?"
+
+"The deeps?" Luo Yaling asked. "I've seen them briefly last time I tried my chase of the moon. I am mostly looking for something vivid and interesting though, and unless you have tread in the court of a Great Spirit, the deeps are not that."
+
+"Agreed," Ling Qi said, thinking of the formless, shifting chaos, with no up or down or left or right, just seething nothing. "I have traveled far, far to the south with my brother Zhengui and Xuan Shi, and I’ve seen the crow-shrouded tower of the southern people's gods and the crone's hut that lives in its shadow. I was invited to tell stories by the avatar of death and winter that resides there. You, Luo Yaling?"
+
+"Oh? Passengers? I admit I am not so good at those kinds of steps. For me, I have run the burning lands where the souls of cities still blaze and heave, overtaken by the dead. There, every piece of ground is seething combat without end, and the wind is a war cry. From its furthest edge, I have seen the great pit where the sun died and the world bleeds. I'm not one to get too fixated on a project, but it would be fun to circle it, to see it from every side one day."
+
+"Not to seek its bottom?" Ling Qi asked.
+
+"Maybe when I am ready to pass from the world and dissolve into the wind!" She laughed. "But no, especially now with you speaking of foreign gods… I do remember seeing glittering storms of starlight in the sky as I ran the burning lands. I itch to see what lies beyond those horizons."
+
+"It's a fine way to see things where the physical world is constrained," Ling Qi said. "Assuming…"
+
+"That you do not make any mistakes," Meng Dan said. "Dreamwalking is a dangerous art."
+
+"You can come with me next time, if it settles your worries," Ling Qi INVITED.
+
+"Who said I was worried?" Meng Dan retorted.
+
+"He finds it queasy, those bits of the library which have lost cohesion," Luo Yaling corrected. "Did you tell her about the first time when you threw up and nearly teared up because you thought you'd ruined that tome?"
+
+"I did not. And there is nothing wrong with being distraught at the destruction of knowledge."
+
+"Oops."
+
+That expression was actively unconvincing of mistaken intent, but then again, Meng Dan was not upset. This might be how an outsider would see some of her conversations with Meizhen and Renxiang. Her eyes flicked to the side, sensing another presence.
+
+She felt Meng Dan's attention shift at almost the same time.
+
+It was the younger of the Guo pair, the ducal clan of the Golden Fields, that she had noted earlier during the wedding. She was a statuesque woman with a sharp face, long, silky red hair, and a well-fitted glittering green gown.
+
+"I don't know if I've just been using your eyes too long, but Moons, I kinda want to feel those biceps."
+
+Ling Qi very carefully controlled the twitch that wanted to go through her eye.
+
+"Hey! I wanted till we were away from the folks who might pick me up. There's a ton of pretty people here, Qi. I got a limit!"
+
+"I caught a portion of your conversation. Rare to see one on the Carefree Way with a bit of sense," the woman said, looking at Luo Yaling.
+
+"I know, right? Holding me back, it is," she joked. "Lady Guo…"
+
+"Guo Xinyan, daughter of Guo Xinhua, Ambassador to Great Xiangmen," she introduced herself formally. "I will not interrupt your conversation for long."
+
+"Oh? And what brings you to interrupt at all, Lady Guo?" Meng Dan asked.
+
+She felt the other woman's intent, and a suspicion bloomed in the back of her mind.
+
+"Only bearing a message, as a favor to a friend," Guo Xinyan said evenly. There was a faint pop, and a relatively thick scroll case appeared in her hand. "Gu Xiulan sends her regards, Baroness Ling Qi. The Ministry of Communication in our province is still overloaded with official traffic."
+
+Ling Qi took the scroll and bowed deeply. "I am most honored that a lady of the great Guo clan would deign to perform such a favor."
+
+"For a worthy vassal and commander, such a favor is small. I intended to pass it along to the Argent Peak Sect, but this works just as well."
+
+Ling Qi straightened up at her gesture. "I am curious what Lady Guo will be doing in the south. Will you be observing the war efforts for your mother?"
+
+"That is a part of it, but I must also familiarize myself with my fiancé, Han Jian. I will likely contact your lady as well from time to time, but let official business come later. Have a good evening, Baroness."
+
+Ling Qi nodded, bowing again, only to blink as she fully processed the words.
+
+Luo Yaling tilted her head. "Is she marrying someone you know?"
+
+"Yes."
+
+Small world. She weighed the scroll in her hands, and then sent it into her storage ring. This message was a long one. She knew what she would be doing on the way back south.
+
+Luo Yaling peered closely at her.
+
+Ling Qi raised an eyebrow.
+
+"No, there's nothing fun to pick at there."
+
+Well, that was true.
+
+"We really will be getting quite a few visitors,” Meng Dan mused. “It's good boon that Shenglu has such a charming profile."
+
+"Hazard of serving the heiress," Ling Qi said. "Lady Luo, you implied that your liminal ability comes entirely from the Grinning Moon, without the influence of the Dreaming Moon. Would you mind talking more about your method?"
+
+"I will turn the question onto you. How would you describe your method?" Luo Yaling gestured to them to follow. By the direction of her steps, it seemed she wanted a drink. "Not to be obnoxious, but to know what metaphor you use to describe the experience."
+
+Ling Qi fell in beside Meng Dan as they followed her, letting the back of her hand brush against his. "You spoke of dancing earlier, so I know there's common ground. I began with darkness, learning motion without moving. This allowed me to think in more directions. To me, it is a matter of finding the right rhythm: I dance, I turn, and I step in a direction that is not up or down, left or right, or anything in between."
+
+Luo Yaling nodded thoughtfully, grabbing a prepared cup of rich spiced cider from a passing server's tray. It looked like glittering liquid amber. "I see, I see. Well, we at least use the same metaphor of movement, of a motion that allows you to transcend the material world. For me, it is running. Speed. The roar of the wind in my ears. The details blurring away until there is no difference between the wind in my hair and the earth passing under my feet. Everything that exists is moving, no matter how still it seems to us; nothing is truly solid, so it is not hard to pass through when you learn that the barrier is but an illusion."
+
+Ling Qi listened. It was not her way, but she could understand it. It brought her back to the memory of letting herself fall from the Dreaming Moon’s tower in the sect without Qiyi, only the wind to catch her, untethered and without concerns beyond the very next moment.
+
+It was very much what she would expect from one wholly dedicated to the Grinning Moon.
+
+"How do you solve the problem of identity bleed? I had the benefit of my muse, Sixiang, helping to reinforce my mind and self. For me, it's a meditation on boundaries and patterns."
+
+"I didn't at first," Luo Yaling said, sipping from her cup. "When I returned from my first real run, I did not even remember my mother's face, the memories of what I was told was my favorite hound, or half of my formal education. I had picked up a great many tricks and valuable but disjointed skills and bits of spiritual ecology in their place, though. My cultivation was disordered for months!"
+
+Meng Dan glanced at her, and she knew she was staring. She had always known, intellectually, that she was on a dangerous path, but it had never been so starkly laid out.
+
+"Ha! You are looking at me as if I had admitted to having an arm lopped off!" Luo Yaling laughed. "That fits what Sir Meng has said about you, too. These memories are all replaceable."
+
+No, they really, really weren't.
+
+She didn't say that out loud, but something in Luo Yaling's eyes told her the other girl recognized the thought.
+
+"You can't be the only one who gets to peek behind the covers a bit," Sixiang said. "In this case, it’s mostly in your eyes."
+
+"Ah, ah, no pity. I shan't say my thoughts on one who had the cusp of freedom in their hands only to take back their chains willingly, and you shan't go thinking me a sad and lonely thing for running free, neh?" Luo Yaling scolded.
+
+"My apologies, Lady Luo. I meant no offense."
+
+"And I'll take none—the first time. I dislike being looked at with such eyes," Luo Yaling said. "Oh, you should try this cider!"
+
+Ling Qi blinked, taking a moment to collect a cup herself. That had been a profound irritation in one moment, and it was gone in the next. She'd thought she'd sincerely offended Luo Yaling for a moment there.
+
+And she supposed she had. She had just met someone even better at letting go of grudges than she.
+
+"You've balanced yourself pretty well on three phases. You’ve got a good tug of war between hoarding secrets and carefree curiosity," Sixiang commented. "You gotta stop and think about how weird ya are sometimes, Qi."
+
+She would take that as a compliment
+
+"To get back to your question,” Luo Yaling continued, “for me, keeping myself, or at least the parts of myself that are important, safe…"
+
+"You did not forget our expedition start date because of your runs. You are simply scatterbrained. I could see that you remembered after I reminded you," Meng Dan offered.
+
+"It is a matter of choosing what to let go and what to let in! The wind ebbs and flows, but where it carries me and where I channel it is my choice!" Luo Yaling said loudly, pointedly ignoring his words.
+
+"I see. You control what bleeds and what is let in by prioritizing the core rather than outright stopping it," Ling Qi realized, letting the byplay pass her by.
+
+"There is the point you are seeking. How you get there, the path, the costs, you can choose from moment to moment, but the distant goal is the core. Wrap yourself around it, and hold onto what is vital for the striving," Luo Yaling explained.
+
+Ling Qi could never countenance such a method. She was simply too greedy; she valued too much. There was something to be said, though, for studying how her steps could be made faster and how she could make herself lighter without losing anything important so as to fly where the wind guided.
+
+She wondered if that was what she had been missing and why she had stagnated with her understanding of the art of the Wind Thief. Lately, she had been giving far more attention to her bonds than her wings.
+
+She was going to have to address this imbalance soon.
+
+"Thank you for sharing your insights," Ling Qi said gratefully. "It has been some time since I really focused on my cultivation of the wind and the grasping hand of its thief."
+
+"Now, there is quite a name to drop! You'll make our friend swoon, hinting at ancient history like that!"
+
+"I have no doubt Lady Ling will share her stories in time," Meng Dan asserted. "And honestly, I do have an inkling of that one. It is a bit too far back to seriously describe as history."
+
+"I appreciate the warning, but it is good to see you recognize the reference. Do you practice the art as well?"
+
+"I do not. The Wind Thief is more a central valley and hilltop tale," Luo Yaling said. "I practice in the tradition of the Gale Princess, who freed the headwaters of the river Jing from the old gods and carved its route north in her flight to freedom. I will probably be questing into the mountains myself in the future."
+
+Ling Qi nodded. She wasn't too familiar with the tale, but…
+
+"Thou canst not bind me with iron collar, with driven nail, with woven words. O frozen god, o god of trapped waters, for thee, this songbird shall never sing."
+
+"I cast off my pierced hands; I cast off my crushed feet; I cast off my soiled heart. Formless in the way of Father I shall ever be, and never again shall I bear unwanted touch. My wings be my blade, perish, o Keeper of Chains!" Luo Yaling finished reciting for her. "Haha, I did see that play, too. It is not so bad, though I think the writer is of Xiangmen. It is a bit too clean for my tastes and places too much emphasis on her role as the mother of the River Jing, when his birth was incidental to her story."
+
+"That is a matter of some debate, depending on the region in question,” Meng Dan explained. “The sources are unclear which version came…"
+
+Luo Yaling waved Meng Dan off. "Nope. They are wrong."
+
+He gave a put-upon sigh.
+
+Ling Qi gave him a comforting pat on the shoulder, only to pause awkwardly when she realized what she had done, but she completed the motion with only a split-second hesitation.
+
+"Totally smooth, Qi."
+
+She knew Sixiang could sound more convincing if they wanted.
+
+"Sure could."
+
+Ling Qi forcefully changed the subject. "Do you write letters?"
+
+"From time to time," Luo Yaling replied. "I shall see if I can remember to write you one. We should probably stop ignoring your guest, though."
+
+They had all felt them in the last minute or so, Ling Qi was sure. She had seen Meng Dan’s eye twitch and saw Luo Yaling’s stance stiffen. No one else in the garden had.
+
+Ling Qi had no such reaction herself. After all, appearing behind her was just what Shu Yue did.
+
+"Teacher, is it time already?"
+
+"It is."
+
+They loomed behind, compressed down to their most human. Their pale round face was framed by long dark hair that hung loose past their slightly stooped shoulders, and their hands were hidden in the depths of voluminous sleeves.
+
+Ling Qi bowed to her companions. "Thank you for the company tonight, Meng Dan, Luo Yaling. I have to take my leave from the reception now."
+
+"Of course. I enjoyed the night greatly. I wish you well. Master Shu, I hope you have also found the night agreeable."
+
+"It has been, but it grows too noisy for this one to enjoy," Shu Yue said, amused. Their eyes fell on Luo Yaling.
+
+The girl stared at Shu Yue like a smaller hound, cautiously inspecting one twice its size. "First apprentice, I am pleased to meet you."
+
+Shu Yue tilted their head. "Young Miss Luo, I am pleased as well. The two of you have a pleasant night."
+
+Ling Qi bowed once more and then turned to follow Shu Yue, hurrying in the wake of their long stride. She didn't miss the way the crowd opened for them without ever seeming to notice their passage, even as they cut through the center of the well-lit fields and beyond the quiet perimeter of security.
+
+They took a step, passing through the palace and all its defenses. She could only sense the slightest flicker of Shu Yue's qi rippling outward to meet the vast and ancient array's attention.
+
+On the next step, they stood beside the yawning entrance down into the trunk district, the lights of the cloud district sparkling behind them.
+
+Ling Qi glanced back toward the palace.
+
+"Do you feel any regret for your choice?" Shu Yue asked conversationally.
+
+Ling Qi considered the ugliness she had seen in the vase, and the no doubt vile emotions she would feel as they immersed themselves in the lesson below.
+
+"I might have enjoyed spending the rest of the night at the reception," Ling Qi replied. "But no, I do not. Let's begin, teacher."

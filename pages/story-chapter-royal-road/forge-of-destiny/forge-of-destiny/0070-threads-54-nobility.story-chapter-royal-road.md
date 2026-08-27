@@ -1,0 +1,115 @@
+---
+id: 4828a68b-fc8d-53e8-9144-07a04563b44c
+page-type-slug: story-chapter-royal-road
+title: "Threads 54-Nobility"
+slug: 0070-threads-54-nobility
+partOf: forge-of-destiny
+position: 70
+ownLength: 2114
+unit: words
+publishedAt: 2021-02-26
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/637714/threads-54-nobility"
+royalRoadId: "637714"
+---
+
+If she were to be honest with herself, Ling Qi was dreading attending the hunting party. Even if Luo Zhong had invited her in good faith, which she was not sure he had, she was still spending the afternoon with a bunch of people who would be contemptuous of her at best. Frankly, she got enough of that at Cai Renxiang’s regular gatherings.
+
+<You’re going in with a bad attitude again,> Sixiang warned. <I know I didn’t exactly help with that last year, but I got better. Have you?>
+
+Sixiang was right. Ling Qi was working herself up before things even got started. Even if she were right in her suppositions, approaching the hunting party in such a negative frame of mind would only hurt her. No, she needed to approach this as if it really were a friendly invitation. She needed to act as if she were not forcing herself to be there; doing so would give insult to her host.
+
+Attending parties like this was the most basic of the duties she had accepted when she became a noble, much less became Cai Renxiang’s retainer. If she could handle going ahead alone to fight an army of bandits and a renegade noble, then, by comparison, this should be simple.
+
+<Good pep talk. Do you actually believe it?> Sixiang asked impishly.
+
+<I thought you were trying to help,> Ling Qi snapped irritably.
+
+<Just quit winding yourself up, you big goof,> Sixiang said. <So what if they don’t like you? They dislike the idea of you, but none of them know you. Just be yourself, and if they still wanna be assholes, then you can start plotting their downfall or whatever.>
+
+“That’s a little too flippant,” Ling Qi muttered under her breath. Still, Sixiang had a point. She took a moment to bring herself to calm. Serenity was the name of the game. She was a noblewoman. She was unruffled by petty rumors and jibes. And she did not have the jitters over joining a gathering of peers more intimate than Cai’s impersonal parties.
+
+<That’s the spirit,> Sixiang chirped.
+
+It was time to stop dawdling on the path. Showing up late would only make this even more awkward. Ling Qi steeled her nerves and resumed her descent into the mountain foothills.
+
+When she arrived at the meeting point, she found a colorful pavilion. It was a mundane structure of wooden poles and brightly colored cloth under which a number of disciples had gathered. Luo Zhong immediately drew her eye. As a formation stage cultivator, he was, by far, the most formidable presence. He was at the center of the group, leaning against the fluffy side of a massive hound.
+
+Luo Zhong’s spirit companion was a stoutly built creature with a short blunt snout and extremely thick fur, particularly around the neck. His fur was black, fading to a lighter grey at the paws and snout. The hound’s head rose to Luo Zhong’s shoulder, even laying down as it was, and the Luo scion was not a short man. Between the hound and the man, their presence overwhelmed most everyone else present.
+
+There were only about a dozen disciples present, most of which were only at the early stages of the third realm. A few were at the second stage, but of the other disciples present, only two drew her attention even half as strongly as Luo Zhong himself. One stood at the edges of the group, fussing over the half dozen odd other spirit beasts present, a mixture of stags and horses of varying breeds. She wore a scandalous garb, a white sleeveless and backless garment and dark grey pants. A thick cloak of white fur hung from her neck, covering her shoulders and back. She had short brown hair and skin of a similar tone to Ling Qi. Two red tattoos shaped like fangs marked her cheeks.
+
+The other was a young man deep in conversation with a few other disciples. He was clearly trying to look like the picture of clean Imperial nobility with black hair bound in a tight topknot, but his features did not quite match the traditional look. He was square-jawed and tanned with a hint of stubble along his jawline and slightly wild eyebrows that gave him a permanently angry look. He wore light armor lacquered forest green over padded cloth of a darker shade.
+
+Conversation between the disciples did not die down as she approached at a polite pace, but the shifts in body language and the flows of qi told her that she had been noticed. As she approached the perimeter of the pavilion, Luo Zhong rose from his position lounging against the side of his spirit beast. He clapped his hands, silencing conversation around him.
+
+“Miss Ling, I see that you have accepted my invitation! This gladdens my heart,” he said.
+
+“I would not wish to trample on your generosity, Sir Luo,” she replied, clasping her hands and giving an appropriate bow for a social peer or slight superior. His was a higher ranking clan, but she was, technically, a clan head while he was simply a lay member of his. The balance between respect and submission was tenuous there.
+
+“I am surprised that you found the time,” the young man attempting to look Imperial said, sauntering up beside Luo Zhong. He was trailed by a few of the other disciples. “I would have thought you had not a free moment to find.” The way he stood by Luo Zhong told her that they were familiar and probably not so distant in status.
+
+“It is true that I am very busy due to the expectations that Duchess Cai has laid upon my shoulders,” Ling Qi replied evenly. “However, I can make time when an invitation is extended.”
+
+Luo Zhong merely laughed, a not unpleasant sound. “I am glad that you were able to find a free moment, Miss Ling. But excuse my rudeness. It seems I have not introduced you to the other guests.” He gestured to the young man at his side. “This is my friend, Wu Jing of the eastern Wu clan, Viscounts of the Russet Valley region.”
+
+Wu Jing gave a short bow, just within the bounds of respect. Ling Qi matched him with an even smile. If she remembered her studies, the Wu were a horse breeding clan, a remnant of one of the larger southern clans destroyed in Ogodei’s invasion.
+
+She continued to nod and smile as Luo Zhong introduced the other young men and women. Most were the children of established barons with one or two individuals like her. Presumably, they had signed up to take up lands in Luo territory.
+
+As the introductions began to putter out, Ling Qi found a hand thrust out toward her. If she had not recently spent time studying old cultures of the Emerald Seas in the Moon dream, she probably would have been confused. Instead, she clasped the offered forearm and held in the wince as the girl she had spied caring for the beasts squeezed back with excessive strength.
+
+“... And this is Alingge of the Daigiya,” Luo Zhong introduced, looking faintly amused as if he could sense her discomfort.
+
+“You are the one who humiliated the Chu, yes?” Alingge asked bluntly, giving her an appraising look.
+
+Ling Qi blinked but restrained the urge to break eye contact. “I do not know if I would use the word ‘humiliated,’” Ling Qi demurred.
+
+“Mocked her aspirations and crushed her without taking a blow in return,” the girl sniffed. “If this is not humiliation, I fear your definition.”
+
+“Your words were somewhat excessive, whatever your personal grudges,” Wu Jing commented. “One should have more decorum in a public duel.”
+
+Alingge shot him an unimpressed look. “We speak of the Chu. No indignity is too great to be heaped upon them. The Daigiya will spit upon them for ten generations for their cowardice during Ogodei’s invasion. Have the survivors of Wu forgotten the grave of Patriarch Ce?”
+
+“No,” Wu Jing admitted. “It is perhaps a poor hill to stake my flag upon. I apologize, Miss Ling. I meant only to warn you against making foes too easily.”
+
+“I take no offense,” Ling Qi said, eyeing the young man and the other disciples watching. “I can admit that in the past, my manners have lacked. I am learning, however, and I am not averse to instruction.”
+
+She was a little lost. Ling Qi had focused her studies on current events, so the events of Ogodei’s invasion were not a subject she was well read upon. She had studied the general gist of the Chu’s downfall after she had met and fought Chu Song at the argent vent last year, but the Chu had been decimated well after Ogodei’s invasion for failing to fall in line with Duchess Cai’s reforms. It seemed that whatever the Chu had done during Ogodei’s invasion, the Chu were still disliked for it.
+
+“And that is sufficient,” Luo Zhong cut in smoothly. “Now, while we wait for our last few stragglers, might you tell us a tale of your excursion with Lady Cai? The rumors have gotten wild.”
+
+Ling Qi dipped her head in acknowledgement, surreptitiously eyeing the disciples around them as she began to speak. Most of them regarded her with suspicion or well concealed envy. She saw it whenever she spoke in a way that implied closeness or familiarity with Cai Renxiang. Ling Qi thought Luo himself was sincere though. He was giving her a chance to make her case to the disciples aligned to him.
+
+<Even that Wu guy seems to be hedging his bets more than anything,> Sixiang hummed.
+
+So Ling Qi told her story and watched her listeners. She embellished very little, and the only outright lie she told was the official one, that the Bai they had encountered was merely a renegade from a local baronial house, seeking to abscond with the treasure trove arts in the shipment. She did not know how the Duchess and the Bai were enforcing that lie, but she was going to stick to it.
+
+Finishing the tale, she accepted Luo Zhong’s invitation to sit down with him, choosing to sit on one of the camp chairs next to Alingge and across from Luo Zhong. There was a tense moment when his hound got up to loom over her, leaning in to sniff her face suspiciously. However, she faced the hound without blinking, and after a moment, the beast let out a satisfied whuff and laid back down without a word.
+
+“Excuse Ta, Miss Ling. My old friend is a wary sort,” Luo Zhong said as he sat down on the reclining beast’s back, practically sinking into the fur.
+
+“I would expect nothing less,” Ling Qi replied easily. She had been worried that the dog might decide to slobber on her when he had let his dark purple tongue loll out, but thankfully, it had not come to that. “I am sure he means only to protect you.”
+
+“As any cultivator’s spirit should,” Alingge said to some muttered agreement. “Will your xuanwu be joining us?”
+
+“I am afraid not,” Ling Qi said.
+
+“Any troubles?” Wu Jing asked. “The incident with you and that Yu girl caused some talk.”
+
+<Looks like not everyone's buying the story,> Sixiang murmured.
+
+“Yu Nuan was very helpful, allowing my spirit to challenge her and gain experience,” Ling Qi said lightly. “But no, Zhengui is too young for more sedate events like this. I was afraid he would disrupt things too much with his youthful enthusiasm and bulk.”
+
+“This is unfortunate,” Alingge said with a frown. “I had wished to see a legendary beast in person.”
+
+“Perhaps next time?” Ling Qi hedged, glancing to Luo Zhong, who inclined his head very slightly. “What are the plans for today’s activities?”
+
+“There is some dispute,” Luo Zhong admitted, “on whether we should spend the day on light competition, hunting lesser beasts, or set ourselves a more ambitious goal and stalk something more difficult together.”
+
+“A little polite competition is good for watering one’s ambitions,” Wu Jing said, drumming his fingers on the armrest of his chair. “Besides, a beast powerful enough to be a danger to all of us? Unlikely.”
+
+“Even the spirits of this tame land deserve respect. I would prefer to stalk more worthy prey,” Alingge countered. “Power is not everything. Let us seek out a cunning foe.”
+
+Ling Qi listened as the others voiced their opinions and found that the disciples were fairly evenly divided in opinion.
+
+Luo Zhong spread his hands and chuckled. “You see, Miss Ling? What is your opinion on the matter?”

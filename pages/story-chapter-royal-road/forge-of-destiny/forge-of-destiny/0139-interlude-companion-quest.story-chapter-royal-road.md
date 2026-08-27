@@ -1,0 +1,81 @@
+---
+id: 6d028491-9d3d-5cf7-9236-66e35caa6562
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Companion Quest"
+slug: 0139-interlude-companion-quest
+partOf: forge-of-destiny
+position: 139
+ownLength: 1029
+unit: words
+publishedAt: 2021-08-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/727416/interlude-companion-quest"
+royalRoadId: "727416"
+---
+
+He truly was a foolish man.
+
+In the shade of a tree outside of White Cloud Town on a hill overlooking the fields, Xuan Shi sat down, careful to be mindful of his injury. He let his head fall back against the trunk with a thunk. His hat tipped forward, falling down over his face, blocking out the world outside.
+
+He did not know what he had expected. He should have learned by now that stories did not reflect reality.
+
+An unusual bloodline only led to isolation.
+
+The distant school, so far from the empty home, was not a place where the friendships of lifetimes were forged. The isolated and lonely heiress who buckled under the weight of expectation did not have any need for love to lighten her burden. Winning tournaments changed nothing. The mysterious and confusing girl who had intruded upon his life had never held any particular interest in him beyond friendly acquaintance, and in fact, his interest had frightened her.
+
+Father had never intended to return for him. It had been a lie from the beginning.
+
+<You’re being too hard on yourself. You just haven’t found your story yet,> a soothing voice whispered. <Your stand was worthy of prose at least, was it not?>
+
+Xuan Shi did not think he had been particularly heroic. He had faced that creature out of desperation, knowing that Lady Bian’s skills were the only ones in their group which could hope to reach others. The pain of the blow he had suffered nearly overwhelmed him, and even now, his thoughts felt slow at the medicinal energies flowing in his veins, dulling the pain as the bones in his lower arm were regrown from shards.
+
+Few Xuan were accustomed to pain, a side effect of their natural toughness. He had nearly fumbled his counter.
+
+<But you did not,> the spirit said patiently. <You remained even though it seemed that you might die and kept the enemy’s ire even as your lifeblood spilled. That is why I came to you after all.>
+
+“This one apologizes, Kongyou. This sulking is unbefitting,” he murmured aloud.
+
+<I understand,> she whispered. <It was a little shocking. From your memories, she certainly never showed herself afraid.>
+
+“In Miss Ling’s position, such fears are not to be advertised,” he said quietly. Still, it hurt. He had thought things were going well.
+
+<Perhaps,> the spirit said, and he almost missed the hint of doubt in her voice. <But you shouldn’t be discouraged, my hero-to-be.>
+
+“This one is unworthy of such titles,” Xuan Shi replied. He sat up and reached up to adjust his hat. “This one is no child that needs constant reassurance.”
+
+<Of course not, but you don’t get to decide what I think is worthy,> Kongyou said archly.
+
+To that, he had no reply. Xuan Shi looked out over the fields where mortals performed their toil in silence. Despite himself, such words felt good. Even from his uncles, kindest of his caretakers, such direct praise was rare and sparing. Attracting the attention of a spirit of dream was the only good thing which had happened to him this year.
+
+“Thank you,” he said quietly.
+
+<Remember, I can’t stay forever though, okay?> Kongyou reminded him gently.
+
+He remembered. She had explained from the beginning that she was a regional spirit and that she would not leave her home here in the south. That was… fine.
+
+<But let's not worry about far-off things,> the muse said lightly. <I said I would help you find a real companion to share your journey, and I keep my promises!>
+
+Xuan Shi let out a dry chuckle. He appreciated the attempt to cheer him. Slowly, he stood back up, holding back a wince as the motion managed to jostle his arm, sending a sharp pain through the veil of medicinal energies in his thoughts. “This one has little idea of where to begin,” he admitted.
+
+In the Savage Seas, children were allowed to mingle with young xuan wu, and the companionships that were born there became spirit bonds. There were ever less xuan wu than Xuans however, and of the four times he had attended the meetings, he had never attracted companionship. No one had taught him what to do after he became too old to attend those meetings.
+
+Such things were a parent’s duty.
+
+“Perhaps this one should study the interactions of the region?” Xuan Shi mused. Understanding the spiritual ecosystem seemed a good place to start in finding a suitable companion.
+
+<Studying is all well and good, and you should definitely do it while you’re healing. But the most important thing you’re going to have to do is get out there and present yourself to prospective partners!> Kongyou chided. <If you spend too long studying how things should be, you’ll make mistakes in how they are.>
+
+There, Xuan Shi was uncertain. While spirits would not be put off by his people’s mode of speech, it was not as if his demeanor and inclinations had earned him friends among his own generation. Adults of the clan liked him well enough, but peers were a different matter.
+
+“Miss Kongyou makes the task sound like such a trifle,” Xuan Shi said dryly as he began to descend the shallow hill he had sat on, returning to the road.
+
+<What did I say about using honorifics?> the spirit grumbled.
+
+“If titles may be applied to this one, they may be applied to thee as well,” Xuan Shi said in amusement.
+
+Kongyou made a sound of irritation, but there was no anger in it. Was this, then, what it was like to banter with a friend?
+
+<You can be awfully annoying for such a straightlaced guy,> Kongyou muttered irritably.
+
+“This one can only apologize,” Xuan Shi said, but despite his renewed cheer, anxiety still chewed at his thoughts. Did he truly have the chance of acquiring a spirit companion? His every attempt to forge connections with others had failed again and again. Why should now be any different?
+
+<Because you have me in your corner now,> Kongyou’s voice was thick with confidence and glee. <Just follow my advice, and everything will work out just fine.>

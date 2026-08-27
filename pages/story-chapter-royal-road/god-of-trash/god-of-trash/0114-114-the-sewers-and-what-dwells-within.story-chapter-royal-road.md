@@ -1,0 +1,149 @@
+---
+id: 023ccfba-25c6-58f2-9175-a61a14183d89
+page-type-slug: story-chapter-royal-road
+title: "114. The Sewers and What Dwells Within"
+slug: 0114-114-the-sewers-and-what-dwells-within
+partOf: god-of-trash
+position: 114
+ownLength: 2583
+unit: words
+publishedAt: 2025-06-28
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2393031/114-the-sewers-and-what-dwells-within"
+royalRoadId: "2393031"
+---
+
+The stench was worse than he could possibly have imagined. Even to someone who was used to trash, who spent all day scrambling over garbage pits, this was something else, another realm of disgusting olfactory experience entirely. He could feel it soaking into his pores and newly-forged robes, and immediately knew that he wouldn’t be free of the stink until he figured out how to fully absorb and process this reeking mess of filth. It was just that virulent, that unstoppable.
+
+Mouse followed after him, carefully climbing down to the side of the sewers, then turning back to replace the cover on the manhole. She turned and gasped. “Rhys! Get out of the sewage! There’s things in there that’ll kill even mages!”
+
+“What do you mean?” Rhys asked.
+
+Mouse gaped, her jaw working, but no sound emerging. As she worked on that, Rhys turned to the trash. There was no time like the present.
+
+Experimentally, he drew in, but to his surprise, aside from the sludge immediately around him, nothing moved. He frowned and tried again. Once more, the filth entered him, then stopped, but this time, he was watching, and noticed a tiny ring of fresh water appear around him, only to immediately dissolve back into the sewage. His eyes widened. Right! Sewage is washed away with clean water, and even disregarding that, sewage is inherently part clean water! When he drew in the trash, the part that had been thrown away entered him—the filth, the shit and everything else, but the whole mixture wasn’t trash. The pure water emerged, separate from the trash. Without something to keep it away from the filth, it immediately vanished back into the filth, but that wasn’t good enough for Rhys. It meant he had to pulse his garbage absorption rather than absorb it smoothly, and that didn’t sit right with him. It was highly inefficient, not only for absorbing trash, but also because of the pure water he generated getting wasted, one, and diluting his trash, two. He needed something to move the pure water away from him.
+
+He could just use Trash Manipulation, he supposed, but something about that felt dirty. Plus, it took more energy. It didn’t feel right that he had to use two skills to absorb a fluid form of trash, that should, hypothetically, be easier to absorb.
+
+“The diseases!” Mouse said at last.
+
+“Aren’t we immune to them?” Rhys replied. Mages were also immune to shitting, eating, and pissing, so hypothetically, this was all mortal refuse.
+
+She shook her head hard. “The Empire has a few dragons and several spirit beasts on their side—you know, large magic beasts capable of great feats?”
+
+“Some can transform into humans?” Rhys guessed.
+
+“Some can, but those who chose bodily power instead of human transformation become massively strong instead. And unlike the beasts who choose human transformation, or human mages, they never lose the need to eat and, um…”
+
+“Shit,” Rhys finished for her.
+
+She nodded. “They dump it in the sewage, just like any other shit, but it’s dangerous, to mortals and mages alike. It can sicken even high Tier mages!”
+
+“Is that so?” Rhys asked.
+
+“Yes! So get out of the sewage!” she insisted, offering him a reluctant hand.
+
+Rhys strode forward through the sewage, absorbing it as he went. It was a manual way to overcome the pure water gap, but one that he didn’t mind. “No, I think I’m good.”
+
+“Rhys!” Mouse cried, exasperated.
+
+Disease Resist 1
+
+Rhys chuckled, not entirely surprised to see the skill pop after her warning. He coughed a little, then sneezed, and his stomach seized, but he kept going. He circulated his mana through his body, focusing on empowering his white blood cells, reinforcing them, helping them find new targets, and attack the right filth with an energy and vigor they were heretofore unable to bring to bear. He wasn’t going to stop at a measly single level in resist, and the trash star was hungry. It had diminished somewhat due to his re-coring of his fellow mages; he’d had to supplement the creation of their cores with his own mana a few times, and sometimes, he’d had to rebuild more than just their core, and those parts he was required to fuel with his own mana, the stolen energy unsuited to be reshaped cleanly into anything but a new core. He was sure he could process it into ordinary mana via the trash star and be fine, but as it was, it wasn’t a bad thing to have some core-making energy sitting around, either.
+
+The sewage burned clean and bright, and the trash star accepted it with a hunger he’d rarely seen outside of ideally combustable trash types. Despite Mouse’s continued exhortations, which he mostly drowned out, he walked on, leaving a wake of clear water behind him. Disease Resist leveled up a few more times, and he stopped feeling the side effects of the filth.
+
+At the same time, a little scrap of an idea manifested in his mind. He looked at Mouse. “Do you have a potion?”
+
+“You need a potion? Here!” She thrust one at him, all to happy to offer it up.
+
+Rhys looked at the full vial. “Er, you wouldn’t have an empty one on you, would you?”
+
+“Huh? No.”
+
+He looked at it again, then shrugged and downed it. Never hurt to top up on a few more potion-impurities. Taking the empty vial, he ran it through the water, scooping up the worst of the filth. Not only that; as he scooped it up, he compressed it, concentrating it into something worse, something more potent, something more virulent. He filtered out the ‘pure’ filth, only inviting in the diseased filth, the stuff that attacked his mage-level system. Once he had a sample of a type of disease, he stopped letting it in and searched for another disease.
+
+It was a concept he’d learned of through trashy horror manga: a bug jar. Pack a bunch of poisonous insects into a small jar, and the survivor, the one that killed and ate all the others, was imbued with not only a more powerful toxin, but also a curse. Of course, these were diseases, and he didn’t expect them to suddenly mutate into a curse, but the idea of taking a bunch of dangerous things and making them compete to become the most dangerous appealed to him. Besides, when it came down to it, he was fighting a massive force, one many times the size of his. If he spread a mage-effecting virus through them, it should absolutely shut them down. They had doctors, he was sure, healers, whatever, but were their healers versed in communicable diseases, when most mages considered themselves immune to disease? He chuckled darkly under his breath, imagining the effect of loosing a virus upon a force entirely unused to dealing with disease of any sort, let alone a virus he’d deliberately made as dangerous as possible.
+
+“W-what are you laughing about?” Mouse asked nervously.
+
+“Oh, just thinking about how the Geneva Convention doesn’t exist here.”
+
+“The Gen… what?”
+
+Rhys waved his hand. “Don’t worry about it. How much further do we have to go?”
+
+“Not much further. We’re almost back,” Mouse assured him. “Are you sure you still want to walk in the sewage?”
+
+“Yep.” Rhys took another step, and his foot slipped on something at the bottom of the sewer. He fell forward, his face descending at speed toward the green-brown sludge.
+
+Mouse screeched in horror and fear. Rhys stumbled forward another step and caught himself, seconds before the gunk entered his every orifice. He straightened, relieved. This stuff couldn’t affect him much when he was walking along, absorbing it as he went, but he wasn’t sure he was ready for a face full of it yet. Maybe in the far future, if he had a burning desire to level up the largely-useless Disease Resist skill.
+
+Disease Resist 4 > 5
+
+Though its rapid progression hinted that such a training regimen might be unnecessary.
+
+The thing continued on underfoot, completely invisible through the thick sewage, providing a continuing stumbling block. Not desiring a shit facial, Rhys fished around with his foot, hooked it under something, and pulled it to the surface.
+
+Mouse screamed.
+
+A woman in once-white robes floated among the sewage, her black hair pooling around her head, face-down in the water. A metal collar wrapped around her neck and connected to a chain bolted to the sewage floor; he couldn’t lift her out of the sewage or pull her any higher without breaking the chain. Rhys, who’d seen plenty of death in the mines, didn’t blink. He flipped her around, knowing her face might be a bowl of spaghetti at this point.
+
+A beautiful, familiar face stared back at him, frozen in an expression of shocked disgust.
+
+“Lira?” Rhys asked, startled. What was she doing in the sewers?
+
+“Is she alive?” Mouse asked.
+
+Rhys was about to retort no, obviously, she’d been at the bottom of the sewers—but then paused. She was a water spirit of some description. She obviously wasn’t happy about her current domicile, if the look on her face was any indication, but weeks—years—of a watery grave wouldn’t necessarily kill her. He sent a pulse of mana into her.
+
+A faint beat of mana answered back, along with a slew of horrific impurities.
+
+Rhys’s expression hardened. Who had done this? What had Lira done, to deserve this punishment? Knowing the Empire, the answer was probably nothing, but it infuriated him anyways. It wasn’t that they were close. He would describe them as acquaintences more than anything. Perhaps partners in crime, if she ever discovered something about Straw. But it was just too much. After so long watching bad things happen to good people, seeing the Empire punish for no reason, destroy lives because someone had been a little insulted, he couldn’t take it anymore. He didn’t know why Lira was like this, or who had done it, but honestly, it didn’t matter. She could have been a stranger. The Empire’s tyranny was too cruel, too all-encompassing. Even if she’d broken a law, he couldn’t imagine this as a fitting punishment, no matter how severe the crime, and knowing Lira, even as little as he knew her, he doubted she had committed some earth-shaking crime against the Empire that he wouldn’t fully agree with.
+
+He gripped the chain in both hands and exerted his full Tier 3 strength on it, breaking it, then lifted Lira out of the sewage and set her in the pure water behind him. With all the strength he had, putting his fury at all the pointlessly horrific things the Empire had done into it, all his sadness at seeing a good thing ruined, all his anger at seeing his friends hurt, all his fear that horrible things had happened to more people he knew and cared for, using Trash Manipulation and whatever else he had to, he drew in all the impurities, all the filth, everything around him, drawing in so powerfully that he lifted his filth jar out of the water and capped it, lest it get drawn in as well. Filth flew toward him. Not just in the water, but off the walls, off the sidewalks next to the sewage, out from under Mouse’s feet, even out of the cracks in the bricks in the floor of the sewage, all of it closed in on Rhys, then hurtled into the trash star.
+
+Mouse yelped as she hit the floor, jerked off her feet by the filth being ripped out from under her, then climbed back to her feet and stared. Her jaw dropped. “Whoa.”
+
+For a hundred meters in all directions, the sewer was clean. Perfectly clean. The stones shone, the mortar was pure white, even the ring marks on the wall from ages of floods and droughts were gone. It was as though the sewer had been built a day ago, and left completely unused. The water was pure, so clean he could see his feet. The walls were clean. The ceiling sparkled. Even Lira and her seemingly uncleanable robes had been restored to their original color, the pale watersprite once more pale and draped in white. The second a piece of filth entered the hundred meters, it instantly flew into Rhys. Nothing was allowed to dirty his radius of clean.
+
+Keeping that going, he turned to Lira. He gripped her by her shoulders and pulled, yanking all the impurities into himself. There was no delicate way to do it, no way to make it hurt less. She was absolutely laden with filth, so completely corrupted that death was knocking at her doorstep. If he didn’t do it now, and do it completely, she might die, and Rhys was unwilling to take that risk.
+
+Lira screamed. She bucked against his grip, trying to pull free. Her whole body tightened, then contorted, thrashing about in the water, splashing it everywhere. Rhys grimaced, pained at hurting his friend, but he didn’t let her go. Letting her go now would be to leave her in danger, still riddled with impurities, and he refused to do that. He would leave her perfect, better than she’d been before.
+
+The last of her impurities entered Rhys, and he let out a little oof. It was a lot. More impurities than he’d ever absorbed at once, and more dense and powerful, too. The trash star darkened, overwhelmed by the sudden influx of impurities and only kept alive by the recent infusion of shit. The impurities worked their way to the center of the star, where they belonged, and the star burst out with greater light than ever before, but Rhys barely noticed, even as his mana surged and his body rejuvenated. He focused on Lira, as her eyes focused and she slowly blinked awake.
+
+“Hey there,” he greeted her.
+
+She rubbed her eyes and blinked at him again. “What? Rhys? But you’re dead.”
+
+“Rumors of my death have been greatly exaggerated,” Rhys said, immensely pleased to get to use that line.
+
+Lira just blinked at him, lost.
+
+He cleared his throat. “I was sent to the mines after the Empress took my core. Long story short, I broke out, found you here, and fixed you up. How are you feeling?”
+
+Mouse leaned in as he explained himself, then looked greatly disappointed to hear ‘long story short.’
+
+Lira frowned. She looked around, then tested her limbs, flipping around in the water. “I feel… great. What did you do to me?”
+
+“Just absorbed all your impurities. Don’t worry about it. I’m glad you’re feeling better, though. What happened? How did you end up here?”
+
+She sighed. “Long story short, I pissed off the Empress.”
+
+Rhys raised his brows. “That’s not a long story short kind of tale.”
+
+Lira nodded at him. “Then you tell yours.”
+
+“It’s not that interesting,” Rhys said, waving his hand.
+
+“It is,” Mouse insisted, edging forward on the stone sidewalk alongside what had once been sewage.
+
+Rhys sighed. He glanced at Lira, only to see a ‘I’m not telling until you tell first’ expression on her face, so he spread his hands. “It really isn’t all that interesting, but I was stuck in the mines for three years—”
+
+“Three years?” Lira repeated, startled.
+
+“Three years,” he confirmed. “That’s how long you’ve been down here.”
+
+Lira twisted her nose in disgust, then nodded at him. “Go on.”
+
+“Right, so…”

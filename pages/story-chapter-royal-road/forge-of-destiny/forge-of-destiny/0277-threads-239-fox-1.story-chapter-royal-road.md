@@ -1,0 +1,169 @@
+---
+id: dfb7130c-1e4f-5504-8abf-cf35546c361c
+page-type-slug: story-chapter-royal-road
+title: "Threads 239-Fox 1"
+slug: 0277-threads-239-fox-1
+partOf: forge-of-destiny
+position: 277
+ownLength: 2421
+unit: words
+publishedAt: 2022-08-18
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/974531/threads-239-fox-1"
+royalRoadId: "974531"
+---
+
+Colors, shapes, lights, and sounds rushed by. Ling QI held tight to her friend's hand against the ethereal wind which pushed back, rejecting the other girl’s stolid, firmly material qi. Ling Qi gritted her teeth in the face of it, tasting red on her tongue and hearing stone and earth in her ears as she focused, grasped the skein of the thin barrier between realms, and pushed.
+
+The first sign of her success was Su Ling letting out an explosive breath as if she had been punched in the gut as the semi-familiar terrain of the liminal realm resolved around them.
+
+Like before, the endlessly tall trees stretched in every direction through heavy winter fog, the dark canopy overhead shrouding it in eternal night. The air was still charged with an electric tingle. Flashes of gold were visible in the pinprick gaps between the leaves and branches like brilliant stars.
+
+But it was not the same either, and Ling Qi found herself drawing her mantle close as a moaning breeze blew through the forest. It carried the faintest scent of fire, smokey and ominous. Below, the faint light of luminescent fungal crowns was visible in the depths of the mist.
+
+“This place makes my skin crawl,” Su Ling said with a shiver. “What the hells is watching us?”
+
+“Sixiang?” Ling Qi asked worriedly, glancing around. She didn’t notice anything of significance observing them. There were little spirits, fairies, and motes of dreams, of course, but…
+
+“I think that’s what she’s talking about,” Sixiang said. Manifested here, they were solid, an androgynous figure in a loose flowing robe with glittering black eyes and pale skin. “Hey, why’s this bugging you so much? It’s not like you don’t see plenty of little spirits at home.”
+
+Su Ling straightened up, her hunched shoulders slowly relaxing. “Is… that what…? Wait, fuck.”
+
+What’s wrong?” Ling Qi asked.
+
+“My spiritual defense art stopped working when you brought me here,” Su Ling answered. “Well, that sorta makes sense. Eightfold Broken Paths is supposed to defend against spiritual attacks by anchoring me more firmly in the ‘reality.’ It makes me solid, so I can’t be moved by the ‘unreal.’”
+
+“Which breaks down when you step out of reality willingly,” Ling Qi concluded. “Will you be alright without it?”
+
+“Yeah, I think so. You’re here, so it's just uncomfortable.”
+
+Ling Qi didn’t let herself smile or acknowledge the trust in that statement. She’d just make sure to live up to it. “Ok then. Sixiang, I have an idea, but do you want to explain how we’re getting where we’re going?
+
+Sixiang nodded as Su Ling straightened up, scanning the endless gray horizon with wary eyes. “Dreaming is more a state of mind than a place. So if you want to get somewhere beyond what you can see right in front of you, you need to have it in mind. Focus on what you're looking for, the same way you’d create a mental image when cultivating an art, keep a hold of Ling Qi, and keep moving forward!”
+
+“Got it,” Su Ling said, scowling as she squeezed her eyes shut. Her grip on Ling Qi’s hand tightened.
+
+Ling Qi began to walk forward, and when she leapt down from the platform of earth and stone they had appeared on to a slowly falling leaf the size of the market square in Tonghou, Su Ling followed.
+
+Leaf to leaf, branch to branch, they went. Coming at last to a thick bough whose upper side held a carved road of dirt and stone, they traveled on. The travel went slow with Su Ling’s eyes screwed shut, but soon, their surroundings began to change.
+
+The branch road shifted from one blink to the next, becoming a bubbling river whose cool water nonetheless supported their feet. It wound down in a spiral through the misty sky, bringing them to a shadowed canopy a league below the greater one where sun dappled trees and soft rolling hills gleamed like an emerald in the shadowy interior of the Emerald Seas.
+
+The shadow of a third tail, black as night and glittering with starlight, swept through the air behind Su Ling like a ghost. Shadows clung to her like mist, casting her hard face in a light that was at once more beautiful and more feral. Predatory. Patient. Watching.
+
+When at last their feet touched grass, Su Ling’s plain brown eyes scattered the glittering green ones which had formed in the shadows on her face.
+
+“We’re here.” Su Ling looked down at her free hand and the shadows clinging there, lit by embers of pale blue foxfire to outline talons. She clenched her fist, and they dispersed. The tail remained. Su Ling’s ears lay flat against the side of her head.
+
+“And where is here?” Sixiang asked. The muse’s expression was serious as they looked around at the bright, but unsettling isle of green in the dark gray mist.
+
+“Not home,” Su Ling answered darkly.”But the closest thing to it. It’s… hers. Her hunting ground. I can feel it.”
+
+“Could Su Ling’s mother be aware of us here?” Ling Qi asked quietly.
+
+“I don’t know what she can do exactly, but it’s not how you're thinking most likely,” Sixiang replied.
+
+There was movement among the trees. Ling Qi’s eyes shot toward it.There, in the shadows, she met a pair of wide but small eyes. A little girl with tangled bushy hair and sun darkened skin crouched there dressed in rags. She fled with a yelp, a dark brown tail the last thing to disappear into the brush.
+
+“That could not be a more obvious trap,” Su Ling said flatly.
+
+“Maybe. This place might not have come from her though.”
+
+Su Ling pursed her lips. “It’s not a memory of mine, if that’s what you're thinking.”
+
+“How are you sure?”
+
+“Granny wasn’t dead when I was that age,” Su Ling explained tersely. "She wouldn’t ha’ left me to get that filthy when she was ‘round.”
+
+Ling Qi chose not to comment on the thickening of Su Ling’s accent or the look in her eyes as she said that. Instead, she let out a breath. “Alright. This is your journey. Where do you think we should go?”
+
+Su Ling looked around. “I recognize this place.I it's where they used to gather mushrooms. If we follow this path, we’ll find… We’ll find the old shrine, assuming this place makes sense at all.”
+
+“It makes as much sense as you can impose on it,” Sixiang said. “It’s warm here.”
+
+“Village was a good ways north and west,” Su Ling grunted, stepping toward the ill kempt dirt path.
+
+“What makes it the ‘old’ shrine?” Ling Qi asked, peering at the shadows under the canopy. She didn’t feel watched, but…
+
+It felt like stalking the den of a sleeping beast.
+
+Su Ling scratched absently at her ear, the two real tails curled about her waist twitching and coiling tight. Her brows furrowed as she searched her memory. “Gran said that a long time ago, the village got wrecked, a big disaster, so it got moved, and when it did, some big priests from the city came down to consecrate a new shrine. The old one got exorcized and abandoned.” Su Ling chuckled, and it was both fond and sad. “She said the old spirits would take away dumbass nosy children too curious for their own good.”
+
+“Did they?” Ling Qi asked, tilting her head.
+
+“Dunno, but most folks stayed away. Made it a good hiding spot when I really needed shelter.” Su Ling shrugged. “But… it is where I met the Ministry of Integrity guy. So maybe Gran wasn’t wrong.”
+
+Ling Qi shared a mirthless laugh with her friend. “How did that go?”
+
+“He let me think my swinging log trap got him, then appeared behind me with his hands on my shoulders. Dramatic fucker.” Su Ling laughed.
+
+Ling Qi smiled wanly. Her own finder had been a little less good humored, striding in the space between eye blinks to capture her as she fled from a heist whose point she no longer remembered. Not so different from how she moved at times now. That, too, was amusing.
+
+In the company of memories, the oppressive feeling of this place was a little less.
+
+It was obvious when they were nearing the shrine. She saw the massive tree at its center, more than ten meters across at the base, stretching more than a hundred into the sky. An ancient growth with deep brownish red bark and wide leaves of a bright vibrant green, it stood out like a sore thumb in the younger growth around it.
+
+“Was it really that big?” Ling Qi asked.
+
+“Yeah,” Su Ling said before correcting herself. “Actually, dunno. Mighta been a little smaller, but not by too much. It really did loom like that.”
+
+Ling Qi nodded as they approached its base.
+
+There was once a clearing here, an area paved with stones and the contours of a garden, but it was now nothing more than weeds, brush, saplings, and broken rocks. Built into the base of the tree was a run down structure. Its tilted roof sagged, shoots of growth rising through the holes. It was clearly a temple once with a high painted archway and hooks for lanterns. It wrapped against the tree, built against it and into it with narrow walkable paths seemingly carved or grown into the thick trunk and dotted with the tattered remnants of rails. Its interior lay in an unnatural shadow, so thick and cloying that tendrils of it spilled from the windows and doorway like rivulets of ink.
+
+“You stayed in there?” Sixiang asked doubtfully, tilting their head.
+
+“It’s never been like that in reality.” Su Ling eyed the liquid darkness that ran down from the broken shutters of a window. “It always felt bad, so I never went into the main building. But there’s a shed around the other side that I slept in sometimes. Had stuff for me to build with, rope and wood and tools.”
+
+Ling Qi saw the image of it shimmering like a mirage, small and overgrown with ivy, crumbling with the passing of days, before it dispersed like mist in the air. “But we’re not heading to the shed, are we, Su Ling?”
+
+“No.” Su Ling stared hard into the darkness. “Always wondered what was inside.”
+
+Ling Qi accepted this. She gathered her power around herself, frost touching the grass and her shadow growing just as inky and black as that which spilled from the old shrine. She was ready to tear them free and hurl them back to the gate at a moment's notice.
+
+Sixiang put a hand over hers, and she gave a small nod, following her friend toward the ruined shrine.
+
+Despite the darkness, the air only grew warmer as they approached until it was a musty, humid heat like the breath pouring out of an open mouth.
+
+Su Ling sighed, nudging the moldy splintered floorboard with her foot, making the ink-like darkness that spilled across it ripple. "This is a pretty obvious trap too, huh?”
+
+“A bit,” Ling Qi conceded. “But with what little you’ve told me about your natural abilities, is that a surprise?”
+
+Su Ling wrinkled her nose, fingers curling into fists. “Traps within traps, labyrinths and illusions… Yeah, I s’pose that’s fair.”
+
+The entrance beckoned, and Su Ling Stepped inside, her sandals touching down on liquid darkness and making a sound like she was treading on wet mud. She passed under the eaves and stepped past the half broken doors. Ling Qi hurried to follow.
+
+The interior was as dank as any swamp. Mold, slick and wet, clung to rotting, sagging walls and liquid of indeterminable origin dripped from the bubbling ceiling. Su Ling gave her an amused look as Ling Qi gathered cool wind around herself, isolating her person from the scent and liquid.
+
+“Didn’t take you for dainty.”
+
+“I’m not,” Ling Qi protested. “What about you? Where did your wariness go?”
+
+“Dunno. I just don’t feel like I’m in danger.”
+
+Ling Qi gave Sixiang a worried look, but the muse shrugged. “Can’t see any outside effects. If you’re feeling weird, it's something that was already there.”
+
+Su Ling’s good humor faded from her face like a heavy stone sinking into a lake. “Right. Let’s keep going.”
+
+They continued through the sagging hall in silence, passing by and through living areas for priests and places of gathering and performance. The black tar that ran and dripped from inside the walls remained ubiquitous.
+
+Ling Qi found herself hunching her shoulders as they went. This place felt… unhealthy, like she was wading through an open wound. “You said you knew stories, but is there really nothing more than that?”
+
+Su Ling rolled her shoulders, showing the same discomfort as they tread the hall toward the paired doors that would lead to the shrine's center within the trunk of the tree. “I think I heard others say that it was a sickness or something. A poison in the earth—”
+
+“In ten years, return with the cure. We don’t wish to cull this garden entirely, pet.”
+
+Su Ling and Ling Qi’s heads whipped around at the sound of that voice. It was sickly sweet,  oozing and dripping as if the filthy tar in this place was rippling and its undulation was sound, but it was too distorted to hear gender or age.
+
+“Why—” Su Ling began, sounding disgusted and pained.
+
+Shadows wavered in the hall like a slick of slime and oil cast across reality. Two people and lumps that might have been bodies once sprawled on the floor. That awful voice came again, rising and falling in volume like the chaotic ripples in disturbed water.
+
+“Why, pet? These poor creatures must be moved to a new reserve for their own good. Left to their own devices, they will rebuild these old barbarian practices when we turn our eyes away. You, their lord, must strike down these petty gods and end these barbaric contracts with your own hands.”
+
+Ling Qi shivered, glaring at the space where the shadow was, now gone and vanished like a popping bubble in a puddle of oil. “Su Ling—”
+
+“Beasts you might have been, but we made you better, did we not, pet?”
+
+Su Ling’s ears were flat against the side of her head, and her expression was twisted in nausea. “C’mon. I want to see the center of the shrine.”
+
+The bent and battered doors opened.

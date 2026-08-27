@@ -1,0 +1,135 @@
+---
+id: ad8bc2dd-3764-5b57-9dac-f828781cea02
+page-type-slug: story-chapter-royal-road
+title: "Threads 210-Opening Day 8"
+slug: 0243-threads-210-opening-day-8
+partOf: forge-of-destiny
+position: 243
+ownLength: 1945
+unit: words
+publishedAt: 2022-04-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/896210/threads-210-opening-day-8"
+royalRoadId: "896210"
+---
+
+“What was it you were saying about convergent development?” Ling Qi redirected the conversation. “I’m not very familiar with the more advanced fields of formations.”
+
+“Fortress formations are a different school from vehicle formations,” Xuan Shi explained, turning his gaze away from the Jin disciple.
+
+“They’ve got some common points,” Wang Chao said, nodding sagely. “Both are assembled from smaller discrete parts, which must be arranged in the proper patterns to function as a whole.”
+
+“... Yes,” Xuan Shi agreed. “A parallel not often explored. Your clan has solved the issue of the Tribulation of Earth’s Law on land vehicles?”
+
+“The what now?” Wang Chao asked. “Oh, I don’t rightly know. It’s just something I’ve heard talked about.”
+
+Ling Qi saw Xuan Shi frowning behind his collar. She interjected, “I admit, I’m not familiar either, but even if the higher theory is beyond us, talking about what might be done with such projects is interesting. You said you were working off inspiration. What was it?”
+
+Xuan Shi didn’t reply right away, drumming his fingers on his armrest. “The point at which crew enhancing and hull enhancing arrays meet. Both are complex and require processing of information far beyond the usual. It was my thought then that it might be possible to build a hull around a man and achieve higher performance.”
+
+“Crew enhancing arrays?” Wang Chao inquired.”Like a foreman’s arts?”
+
+“Of a kind,” Xuan Shi replied. “These are of a more mechanical nature.”
+
+“How might this work? A laborer or a sailor would lack the qi and meridians to take advantage of such things. They would be trapped in their ‘hull,’” Wang Chao said with a frown.
+
+“As this one said, a work in progress.” Xuan Shi shrugged. “The people of the Savage Seas are not prolific, and our lands are not spacious. We must find measures to maintain parity as others grow.”
+
+“Never enough people to do all the work,” Wang Chao commiserated. “Yes, this is a problem for the Wang as well. Many have tried to sell us on construct workforces, but the cost is too high. A useful work puppet drinks stones like water.”
+
+“It is this one’s hope to enhance the individual rather than replace them, that two men of the early realms might do the work of three, or even mortals made useful in the lowest of cultivator labors,” Xuan Shi elaborated, looking back to the tests. “With such conditions, even this one might be able to attain a crew and commission.”
+
+“Well, I don’t know about that, but if you manage, I’d bet the elders would be happy to purchase as many as you could make!” Wang Chao laughed, only to shrink into his seat as a number of older cultivators shot them stern looks.
+
+Xuan Shi chuckled. “Sir Wang is too generous. The fancies sketched in a crafter’s workshop are only that.”
+
+Ling Qi listened with half an ear as the two of them continued to talk. It looked like things were going as she’d hoped. She’d worried that if Xuan Shi saw Wang Chao’s lack of technical understanding, he would think himself merely humored. Instead, the initial awkwardness was past, and now, they were talking comfortably, even if Wang Chao occasionally had to pause and scrunch up his face in thought to decipher some turn of phrase by Xuan Shi.
+
+She turned a portion of her attention to the tests themselves. She watched the disciples mixing ingredients, etching arrays, and inscribing characters. It was admirable to see such dedication. It made her feel bad for her own lackadaisical approach to the art.
+
+<Not your thing,> Sixiang thought. <Besides, I don’t think you’d have landed where you are without being a little freeform.>
+
+She supposed so. She was looking forward to studying the compass and the ring gates more closely, now that she had some more experience with liminal interfaces.
+
+Ling Qi scanned the workstations, pausing as her eyes fell on a face she recognized. In the back was Liu Xin, Xiao Fen’s friend from the Outer Sect. She glanced over his work. His elixir was simmering, and the paper ward tags drying. Right now, he was squinting down at a dagger blade with an inscribing tool. It looked to her like he was in line to finish the projects in the time limit.
+
+“Miss Ling, what do you think?” Wang Chao asked.
+
+Ling Qi paused a moment, letting Sixiang pull up the memory of the last few seconds in her mind to remind her of what had been said. “If my schedule allows, I wouldn’t be against it. Something of a break from formality would be welcome.”
+
+Wang Chao had suggested an informal get-together outside the tournament grounds to have a small spar.
+
+“I have no particular duties beyond attending the Duchess’ appearances,” Xuan Shi mused.
+
+“Her Grace intends a gathering tonight and on the evening before the finals,” Ling Qi said. “I can manage a few hours tomorrow afternoon.”
+
+“Great,” Wang Chao enthused, looking pleased with himself. “But let’s see how our juniors are doing. I don’t want to be too rude.”
+
+Ling Qi struggled for just a moment to keep a straight face as they turned their attention back to the testing.
+
+<Mm, it's a bit dull watching other people work,> Sixiang thought. <What do you think of this little project here? Mr. Boulder’s got his foot in the door. He’s sincere enough.>
+
+Ling Qi thought that this was the end of her direct role. Introducing the two of them and smoothing over an initial misunderstanding was one thing, but she remembered what Xuan Shi had said before as well. She was, in the end, just his friend, not a parent or a caretaker. It would be insulting to meddle too much.
+
+<Ah, look at you being boring and sensible,> Sixiang huffed. <Gotta watch for funny business though.>
+
+Ling Qi would mediate where she could, naturally. That was acceptable for a mutual friend.
+
+They spoke less for the rest of the test. Here and there, Wang Chao would prod at Xuan Shi for an explanation for something he saw the examinees doing, and although he was initially reticent, Wang Chao’s easy acceptance and praise for his explanations seemed to make it hard for Xuan Shi to maintain that, especially when Wang Chao occasionally came up with some insight on practical applications of the things Xuan Shi spoke of. Ling Qi kept herself to small comments here and there when conversation trailed off or became awkward.
+
+Their conversation dropped entirely when the test came to its end and it was time for Elder Su to do the judging. Listening to the elder critique and grade the products of each disciple was more interesting. By the end, about two-thirds of the test entrants had been whittled away. Liu Xin was among those who passed. As stoic as she was, Ling Qi thought Xiao Fen would be upset if he failed.
+
+The Jin scion passed as well. When she heard his name from Elder Su, she filed away the name Jin Tae. She had a feeling she’d see him again sooner or later. Members of ducal houses were never irrelevant.
+
+And with that, the preliminary tests for the crafting competition were finished.
+
+“I can’t say I’m unhappy to see the tests done,” Wang Chao said, stretching his arms overhead as they made their way out.
+
+Ling Qi smiled, covering her mouth with her sleeve. “But Sir Wang, I had thought you were eager to observe.”
+
+“Well, I mean—” Wang Chao stammered, scratching the back of his head and glancing toward Xuan Shi.
+
+Xuan Shi chuckled. “This one appreciates the consideration, Sir Wang, but will admit that the conversation of peers was more interesting. The presentation of personal projects is the true draw.”
+
+Wang Chao squinted at both of them over his shoulder and let out a harrumph. “Hmph, I’d not think you the type for japes, Miss Ling.”
+
+“Only now and then,” she said soothingly. “Besides, it was a good venue to make an acquaintance, wasn’t it, Xuan Shi?”
+
+“Sir Wang’s company was enough. This one is glad to be invited to thy shoal,” Xuan Shi replied.
+
+Wang Chao puffed up at the praise. “No worries. I’m glad to include such an intelligent fellow as yourself, Sir Xuan! It’s not all grunting warriors in my entourage.”
+
+“I should hope not,” Ling Qi said lightly as they left the sect pagoda and entered the main plaza, descending the steps.
+
+“Miss Ling’s elegance is without question,” Wang Chao said immediately. “Ah, that does remind me, I’d intended to introduce you to my older sister Wang Lian like you’d asked, but she—”
+
+“— was kept late in deliberations with our father. I still heard your message, Chao.”
+
+Ling Qi stopped, looking toward the source of the voice. She saw a stout woman with sun-darkened skin and dark brown hair tied back in a severe bun. She wore a dark blue gown with a somewhat mannish cut, embroidered with stylized mountains and whorling clouds. Ling Qi could see the resemblance to Wang Chao in the color of her eyes and the general bulk of her frame, although like her brother, she was shorter than Ling Qi by nearly a head.
+
+“Oh, Sister Lian!” Wang Chao exclaimed, his expression brightening up. “I’d been concerned! This is Lady Ling. We’ve built quite a little court!”
+
+“Your letters said as much.” The older woman gave Ling Qi an assessing look. She looked to be in her mid-twenties or so, but as a cultivator of the fourth realm, that was nearly meaningless.
+
+Beside her, Xuan Shi shifted from foot to foot, clearly feeling out of place.
+
+“Allow me to borrow her for a moment, Chao,” Wang Lian said tersely. She glanced at Xuan Shi and lowered her head slightly. “Sir Xuan, I appreciate your keeping my brother company.”
+
+“It is nothing, Lady Wang,” Xuan Shi said, offering a short bow of his own.
+
+Ling Qi turned and murmured a temporary farewell to Wang Chao and Xuan Shi.
+
+“Thank you for your time, Lady Wang,” Ling Qi said as they stepped away, moving toward the stairs which descended from the plaza.
+
+“It’s a small enough thing considering how Chao’s fortunes have improved this year,” Wang Lian said. “Let it be said that I do not have much time right now. I merely wished to make my greetings. Deeper talks will have to wait until after the Duchess’ arrival tonight.”
+
+“I see,” Ling Qi said. “I understand if I am not the highest priority.”
+
+“It’s not that. Father has been tapped by the Matriarch to reinforce local security,” Wang Lian said. “I am assisting him.”
+
+Ling Qi hummed in reply. That did make some sense. She had dismissed the idea, thinking that attacking such a concentration of high realm cultivators impossibly foolish, but even a disruption of the event could have some effect on morale.
+
+“So, I am Wang Lian, third daughter of the Clan Head of Wang. You are Baroness Ling, who has provided my little brother with a great deal of assistance. You are also the retainer to the heiress of Cai, who has taken on a project many say is beyond her. What is it you want from the Wang clan, Baroness? Our building expertise, our support in word, the backing of our warriors?”
+
+“Any or all of those things would be most welcome,” Ling Qi replied. “But I do not wish to overstep myself.”
+
+Wang Lian nodded, her arms folded behind her back as she walked. “Yes, a favor for a favor is most fair. So, tell me what sort of aid you seek.”

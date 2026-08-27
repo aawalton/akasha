@@ -1,0 +1,117 @@
+---
+id: 5bfbd08a-4bd8-5d4b-aa0a-8f73c976ced5
+page-type-slug: story-chapter-royal-road
+title: "Threads 505-Mending 2"
+slug: 0554-threads-505-mending-2
+partOf: forge-of-destiny
+position: 554
+ownLength: 1803
+unit: words
+publishedAt: 2026-03-13
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3145955/threads-505-mending-2"
+royalRoadId: "3145955"
+---
+
+"What do we want to do?" Ling Qi echoed, looking down at the wild dream avenues.
+
+The sound of groaning wood and breaking stone echoed upward. A building caved in, and laughing spirits spun out, carried on a flood of glitter from some broken source within. A horrible accident in reality was nothing but an amusing jape in the dream, but that was how dream spirits were in their base states. Dreams didn't have consequences, not direct ones.
+
+"I am always the one who decides what 'we' want to do," Ling Qi said. "What do you want to do, Sixiang?"
+
+"I can't decide that. Kinda a two-way street. I get what you're trying to get at, though."
+
+She let out a breath. "I am sorry, Sixiang, for avoiding conversations when we could have had it. So let me ask you this: what do you want? What is the most important thing for you? What do you not want to lose, no matter what?"
+
+"Obviously, it's you. It's always been you. That said, you're not the only one whose senses have gotten sharper. I get when you're using one word to stand in for a bunch more." They went quiet for a time. "Fuck it."
+
+The vulgarity made Ling Qi blink.
+
+"Fuck it," Sixiang repeated. "I was going for this big serious talk time, but that's just not how I work. C'mon, Qi, I see a food stand I want to stop at."
+
+She blinked again and reached out to take Sixiang's extended hand. Her muse stamped their foot, and the platform they had been standing on shattered into glittering motes. They fell, the wind whipping at Qiyi's hems until Ling Qi managed to right herself and land in a quickly scattered clearing in the street. Sixiang landed lightly beside her. The muse immediately threw out a hand to gesture toward the streetside where a massive, bulky deer-headed spirit was squeezed impossibly next to an otherwise normally sized streetside festival grill, wearing a tiny chef's apron over its bulging barrel chest.
+
+"Two skewers!" Sixiang ordered cheerfully.
+
+"You wanted to try those yourself, huh?" Ling Qi accused as the giant passed Sixiang's order over, pinched between two thick fingers.
+
+"Yep!" Sixiang took them and passing one over. Then, they gave her hand a tug as they began to walk. They took a bite and paused, their hair comically standing on end as tears prickled in the corners of his eyes. "Damn. It’s different."
+
+"It is," Ling Qi said, nibbling at her own skewer. The fire qi was just as potent as it had been in reality, but it was subtly different. It was only an idea, seasoned by memory, after all.
+
+"You said that ‘we’ was usually ‘you,’" Sixiang said, chewing thoughtfully as they brushed through the crowd, bumping shoulders with the menagerie of revelers, surrounded by the kind of humid heat that only an immense crowd generated.
+
+She didn't object to the muse’s characterization of her earlier statement.
+
+"It's true. Who I want most to inspire is you. I'm a muse. Even that ass Kongyou is like that, in their own way. Somewhere along the way, I decided I wanted to inspire you to be happy. I wasn't very good at it,” Sixiang confessed. “You're really resistant to being nudged out of bein' gloomy."
+
+Ling Qi huffed, stepping around an impromptu dance-off between two spirits who flared their glittering moth-like wings as they postured at each other through the beginning of their contest. "I will admit to being reserved, probably more than I need to be."
+
+"You have gotten a lot better," Sixiang said fondly. "I dunno if I can take any credit. I did make myself kind of a doormat. You asked what I want most, what I won't let go of. If I dig down, what I absolutely can't accept losing is making you smile. Relaxing with you, joking with you, teasing you about being a gloomy dork, and... I want you to make art more. I feel like you're leaving that behind or letting it become just a tool. I don't want that."
+
+The fire qi burning on her tongue was a good cover for her thoughts, leaving her an excuse to let those words tumble around in her head.
+
+"What I most want to keep,” Ling Qi said, “what I can't accept losing, is the Sixiang who I can freely confer with about anything, who teases me and prods me when I get too wound up in my own head and too focused on utility. I've seen the end of treating everything as a tool to advance your goal. I can probably use a harder knock or two on that. And I want to be better, not just to trample over your wants and advice, whether you let me or not."
+
+"It seems like we both have some matches there," Sixiang said, their bright smile dimming, a little sad, a little thoughtful. "Oh! Look over there. There's some kind of street show. Let's check it out!"
+
+Bumping into passersby and pushing through a crowd was almost nostalgic. She didn't do that anymore in reality. She could move through and around people with such ease, without ever being so crass as to use an active movement technique. This did have its charm.
+
+A rickety stage, erected from stray musings and discarded ideas and the idle scraps of discarded art, rose above the whirling crowds. The components of it flashed and glinted, seeming from moment to moment to shift between hastily hammered scrap wood and haphazardly stitched cloth and half-carved stones. Spirits capered on stage. An ephemerally beautiful faerie woman with silver hair wearing a gown of swarming bees and a small rotund, frog-mouthed spirit wearing a pair of tiny spectacles acted out the grand drama of a fruit merchant navigating the Ministry of Commerce for a lost shipment manifest and finding love with the diligent clerk assisting them. They watched from among the chortling, jostling crowd of admiring dream spirits as the story unfolded.
+
+"Most dreams ain't so grand when you get down to it," Sixiang commented. "And yet, if you tell the story with the right cadence and tone, a trip down to market can sound like an epic quest."
+
+"It would be better to say, every person sees their own trials as a great struggle, worthy of song." Ling Qi observed the dramatics on stage, nibbling at her skewer. "Maybe that's a little exaggerated, but…"
+
+"Nah, I getcha. Some dramatic exaggeration, but you're right at the base. Jeez, this is surprisingly cute as a story, isn't it?"
+
+"It is," Ling Qi said, but despite the absurd spectacle of dream spirits enacting such a mundane drama, her thoughts were elsewhere. "Can I ask you something, Sixiang?"
+
+"Go ahead!"
+
+"What do you understand romantic love to be?"
+
+Sixiang looked away from the show, focusing on her face. The lights of the lanterns and torches lighting the street glinted off of their black eyes. "Huh. That is a pretty good question."
+
+They turned back to the sage, watching the waddling frog man take a comical pratfall, upending a cabinet full of papers that rained down like snow. "It’s, hmm, intimacy, total trust, and confidence that your partner will always have your back, and you'll always have theirs. That you want to spend the rest of your lives together. It's being a bit crazy for the other person, willing to go beyond and changing yourself for them. That's the part that scares you, right? Feeling like you'll be changed rather than deciding to change?"
+
+Ling Qi listened. "Yes. I understand now that people don't actively choose to change most of the time; they just do, bit by bit."
+
+That was why cultivation appealed so much to her. It was much more deliberate.
+
+"When you tease me about attractive men, is that all it is? Or do you actually like looking, too?"
+
+She felt like she wanted to wither up on the spot. Only the rather bawdy shouting of the reveling dreams around her kept her from sinking herself into the street and disappearing, for asking such an explicit question.
+
+Sixiang laughed out loud, high and clear. Her shoulders hunched as she glared at them, until at last they managed to stifle it. They tossed their empty skewer aside, and it dissolved into drifting rainbow dust. "The look on your face. I'm sorry, Qi. I know you're no good with discussions related to sex."
+
+"I am fine and normal about it," Ling Qi protested. Out of the corner of her eye, she saw a few spirits looking toward them. She fixed the rowdy revellers with a look frigid enough to put frost in their fur. They looked away. Good.
+
+"The sad part is that you're not wrong, depending on which part of the real you're standing in. I like looking, yeah. I think you're really pretty. I also think Gan Guangli is hot as hell, too."
+
+"Sixiang!" she hissed.
+
+"What? He is! Su Ling's a lucky gal, and so's this… Jia lady," Sixiang said, before shaking their head. "But, like, I don't…" They paused, scratching the back of their head as their features wavered from a more androgynous look back to a more masculine one. Haltingly, they said, "I don't feel the fleshy stuff."
+
+"Fleshy stuff?" Ling Qi repeated blankly.
+
+"I can be explicit if the lady’s ears can handle it," Sixiang drawled.
+
+Ling Qi grimaced and shook her head.
+
+"What I mean is… I like this face. I like it the same way you like your earrings, if you get me?" Sixiang said.
+
+Ling Qi nodded. She understood what Sixiang was saying. Physicality was mutable to them, instinctively and foundationally so.
+
+"Even then, I appreciate your eyes and your hair. There's an art to looks. I like the look of your spirit even more. It makes me want to hug you all the time and warm you up," Sixiang rambled.
+
+Ling Qi shifted from foot to foot. It was hard not to react to such words.
+
+"But the reproductive bits, nah. I don't really get that. I just know you like being teased about it, within limits," Sixiang said. "Moons, it's hard to talk about this stuff with all the limitations put on it."
+
+"That's the point of them," Ling Qi told them. "To me, those things are tied deeply into romantic love."
+
+"Yeah, I do get that. It's why you couldn't return Meizhen's feelings, right? I thought about trying to look more like the kind of guys you ogle, but that felt manipulative. Not what I wanted to go for," Sixiang said wistfully.
+
+"I appreciate that. How about the tea shop up there next?"
+
+"Mm, deal. I wanna scare up some festival games, but I don't mind taking a minute to sit."

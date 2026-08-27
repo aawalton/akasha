@@ -1,0 +1,135 @@
+---
+id: 7feee980-5b9e-5905-94c6-ed8e040a372e
+page-type-slug: story-chapter-royal-road
+title: "Threads 354 Summit 6"
+slug: 0394-threads-354-summit-6
+partOf: forge-of-destiny
+position: 394
+ownLength: 1984
+unit: words
+publishedAt: 2023-12-22
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1450815/threads-354-summit-6"
+royalRoadId: "1450815"
+---
+
+Ling Qi took her leave, wandering back toward the head of the table. She glanced toward the ducal observers. Zheng Fu sat there with his arms tightly crossed, his foot tapping, looking like he wanted to vibrate out of his seat as his eyes darted from one person to another. Xuan Shi had a book open in one hand and an inkbrush in the other, periodically glancing up. He caught her eye for a moment and smiled behind his collar. Meizhen, of course, was the picture of imperial aloofness with Xiao Fen beside her. Sun Liling… She was staring right at one of the crows, her brow furrowed.
+
+Ling Qi arrived back at Cai Renxiang's side as her liege finished speaking to another functionary of their side.
+
+"Good tidings?" Ling Qi asked with a small smile.
+
+"The even number of judges concept is percolating well. I expect it to be proposed in the next part of the session. Establishing a full-time residence for the judges, so that they become familiar with the area and need not travel for cases, has also been popular."
+
+Ling Qi nodded. This would be the first divot dug on the road to a settlement. Judges would have staff and needs, and those staff would also have needs, which would require servicing, and it would simply be more efficient for these services to be provided on site. In the end, it wasn't a complicated strategy. It was simply using the fact that people were always more comfortable with smaller steps, even if they had an inkling that they were being led.
+
+"Your own conversation?"
+
+"I am getting a better idea of how our guests’ own internal matters work. Their temples are much more political than ours to the extent that I suspect that they take the place of clans in some ways. They will be relevant to our project here."
+
+Cai Renxiang pursed her lips thoughtfully. "I see. I will adjust accordingly. I suppose it does not change much. Both are simply groups of largely like-minded cultivators pursuing communal goals."
+
+Ling Qi looked her liege in the eye, feeling some consternation. "Lady Renxiang, the dynamics are not…" She narrowed her eyes at Cai Renxiang's blank expression. "You are messing with me."
+
+"I observed that you might require it. No, I understand. A religious institution is likely to have a stricter central dogma than a clan, and it will also have different expectations of its members," Cai Reniang said. "I will trust you to maneuver this where needed. I only hope our counterpart has it in hand."
+
+"She does, but it’s clear there are disagreements," Ling Qi said. "For now, we should support and push the investigative arm proposal and cajole our side into accepting their crows into a central role. That will build both our and Jaromila's credit."
+
+"I see. Reasonable,” Cai Renxiang judged. “I think that should be simple to accomplish. The recess is ending soon. Let us discuss how we will present our refined goals."
+
+When the speeches began again, Ling Qi paid closer attention, focusing on the delegates present. What she saw made her cautiously optimistic. There was still heat in the debates, but the overall tension was remarkably low. Even Cao Chun seemed to be somewhat mollified.
+
+The shift from the initial, rotating three judge panel to a more permanent, four judge panel passed by without too much bickering. Presented aloud by Wang Lian to break up a spat over the time of rotation, Cai Renxiang was swift to back it. There was some backchatter from the White Sky side prodding for six judges for greater diversity of opinion, but that proposal was tabled along with talks of more than one panel as possible plans for the future.
+
+Discussion next turned to residency, and here, more resistance was met. Quite a few would prefer to house the judges at nearby cities and only assemble them when needed, but there were enough voices on both sides who simply didn't wish for the delays and expenses of such an undertaking.
+
+With that came discussion of staff, and here, the groups pushing for an investigatory force were stronger. Cao Chun and Meng Deming wished to simply leave the matter in the hands of the affected clans, and there were some rumbles of that among the White Sky, but with the support of Dzintara and Jaromila, they swiftly united.
+
+On their side, Wang Lian was once again useful, offering to take up the support cost for it since it would be their land most affected. Luo Jie was supportive as well in a slightly oblique way, offering some service from Luo pathfinders and their bonded tracking dogs. Their presentation of it as something of a joint clan matter that happened to have ducal support quieted most of the remaining grumbling on the imperial end.
+
+This took up much of the remaining day, but by the time the sun was heading for the horizon, Ling Qi was feeling confident. Although they were far from done, they had hashed out the basic framework for resolving disputes.
+
+Tomorrow, Cai Renxiang would bring in a few experts on imperial law, and the White Sky would do the same. The meeting hall would be filled with scholarly debate as each side presented and reviewed their relevant legal codes and identified points of contention. That was not her battlefield though, and for all that she would be present to smooth ruffled feathers, it left her some freedom to address other issues.
+
+As the debates were winding down for the day, everyone presenting their closing words, she caught Cao Chun ‘s eyes. She received a small nod and a faint gesture toward the doors in return. A meeting at the imperial embassy building then.
+
+She murmured her plans in Renxiang's ear as the meeting was breaking up and received the go-ahead. However, she did find herself surprised as she moved for the exit.
+
+"Yo, Miss Diplomat,” Zheng Fu greeted. “You've got the patience of a sage, don'tcha?"
+
+"I have the patience of a reasonable adult,” Ling Qi retorted. “Today's talks went pretty quickly and smoothly."
+
+Zheng Fu pouted. "You're supposed to accept compliments." He drifted ahead of her, walking backwards without a hitch as they came out on the veranda surrounding the hall. She did recognize that he had a screening technique surrounding them though so it wasn't like he was actually lax.
+
+"Then I'll thank you, Sir Zheng. What do you need? You'll be able to speak with our guests yourself soon."
+
+"Nah, looking forward to that, but this isn’t about that. This is about your bug problem."
+
+"My bug problem?" Ling Qi repeated, stopping by the stairs that led down to the road. It wasn't difficult to guess what he meant.
+
+"Yeah, things buzzing around causing problems, accidents, you know," the veiled man said, leaning on a pillar. "Figured you'd be heading to the exterminators, and I thought I'd offer a hand. I’m pretty good at smoking out bugs. You know how bad the hornet nests get in our orchards sometimes?"
+
+"Awful, I'm sure. Why the offer?"
+
+"Cause I don't like slimy shit, especially when it dumps a bunch of helpless people down into the maw of a pissed off mountain." Zheng Fu shrugged. "And honestly, I'm going stir crazy."
+
+Was this how people felt when she said sincere but absurd sounding things? Zheng Fu’s blunt declaration left her no doubts about his intentions. Under her sight, he was a twisting column of smoke and wind and the howls of a menagerie of beasts. It made him difficult to pin down and read, but that was more from his mercurial nature rather than any intent to hide on his part.
+
+"I don't know that the Ministry of Integrity gets along with the old ducal clans well."
+
+"They don’t, but they can't dismiss us either. If you prefer, I'll buzz off while you're chatting with the exterminators and just bring you leads when I can."
+
+Ling Qi considered. This was her purview so Renxiang would accept her judgment here.
+
+"Well, I suppose we should start walking." It was best not to overcomplicate their efforts. "I have an appointment with the exterminators to keep."
+
+"Ha, alright! You're not half as uptight as you put on!" Zheng Fu exclaimed, pushing himself up straight and bounding down the steps after her.
+
+"And you're probably not completely a rude buffoon." With any other member of the high nobility, she would watch her words more, but her instinct was that it was not only a waste of time with the Zheng, but also actively counterproductive.
+
+"Different people need different approaches.I admit, I had a hard time getting a lock on you, so I just flung out everything and tried to find what worked. Then again, you changed, too,after our first meeting."
+
+"And what worked?"
+
+"Casual and earnest, just a lil bombast, and no innuendo."
+
+"Is it a good idea to admit that you're just using the mannerisms you know won't offend me?" Ling Qi wondered.
+
+"It's what you do, isn't it?" Zheng Fu threw his hands up behind his head as they walked.
+
+"I'm not deceiving anyone."
+
+"You're shaping your words so that they'll receive them better. Ain't that what I'm doing?"
+
+"I suppose, but it's expected that you don't say it outright," Ling Qi said, amused.
+
+"And that's why us silly apes don't get you folks. If everyone knows something, refusing to talk about it is just silly."
+
+"If you tell me the Zheng clan does not have customs which everyone expects to be followed but no one talks about, I am going to call you a liar."
+
+Zheng Fu was silent, and Ling Qi glanced his way, wondering if she'd gone too far.
+
+"Y'know what? That's fair. We might be better about it, but doesn't mean we're not hypocrites in our own way."
+
+"... People hide parts of themselves. It's only natural," Ling Qi said as they stepped out onto the road.
+
+He hummed noncommittally and followed after her, letting conversation lapse for the time it took to arrive at their destination. At the imperial embassy building, she entered to find a blank masked ministry agent waiting for her patiently by the hall leading to the stairs which descended into the old Hui bunker.
+
+"Baroness Ling, you are expected," the agent said. The agent tilted their head, peering past her to Zheng Fu. "Sir Zheng is… surprising."
+
+"Zheng Fu has assisted me with a related matter in the past," Ling Qi said, thinking back to the overgrown sewers. "He has offered me his support in this matter as well, and I trust his intentions."
+
+"I'll keep it reigned in,” Zheng Fu reassured the agent. “You lot of all people should know we can be quiet when we need to."
+
+The agent held a hand up to their ear, silent for a long moment. Finally, the agent gave a nod. "Inspector Cao approves. Please. Follow me."
+
+Ling Qi gave a patient nod and waited a beat for the agent to descend the stairs in front of her before following.
+
+"You're generous with the credit, huh? I barely got to do anything last time," Zheng Fu murmured.
+
+"Your intentions were good and you listened," Ling Qi replied.
+
+Zheng Fu could have easily ignored her instruction and killed the ith-ia gardener, triggering much worse results as its sacrificial ritual completed.
+
+The stairs downward had been cleaned and dried, and the whole underground complex tidied up immensely. She could also sense the faint power in the air of the security formations that had hidden this place for so long, reworked and repowered, turned inward to make this underground bunker disappear. She suspected it would be all but invulnerable to divinatory arts unless some truly powerful technique was used.
+
+As expected for the place the Ministry of Integrity was making their temporary field office.

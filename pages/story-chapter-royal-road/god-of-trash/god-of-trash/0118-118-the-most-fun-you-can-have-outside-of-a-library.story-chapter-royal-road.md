@@ -1,0 +1,115 @@
+---
+id: 2d842dd6-7d8f-5fcf-85b3-4fa8a4105b76
+page-type-slug: story-chapter-royal-road
+title: "118. The Most Fun You Can Have Outside of a Library"
+slug: 0118-118-the-most-fun-you-can-have-outside-of-a-library
+partOf: god-of-trash
+position: 118
+ownLength: 2654
+unit: words
+publishedAt: 2025-07-02
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2404074/118-the-most-fun-you-can-have-outside-of-a-library"
+royalRoadId: "2404074"
+---
+
+As both of them had expected, Lira was waiting for them by the time they reached the bridge outside the library. Not only waiting, in fact, but swimming loops in the water and spouting it out her mouth out of utter boredom. As they approached, she flipped over in the water to face them. “Took you long enough. What was a pair of young mages doing all alone in the woods that could’ve taken them so long, I wonder?”
+
+Mouse blushed. She shook her head and waved both hands. “N-not that!”
+
+“Organizing the logistics for my hostile takeover of the Empire’s weak snack food market, obviously. What else would a couple of young mages do?” Rhys posited, as if he didn’t know what she was hinting at. He nodded. “Come on, show us the way to Ernesto’s lab. I’m excited that we finally have a lead on Straw, and I don’t know how long we have this Academy to ourselves, so let’s keep moving.”
+
+Lira harrumphed and reluctantly climbed out of the water, once more raising her umbrella over her head. “This way. It’s not a long walk.”
+
+Rhys gestured for her to lead the way, and they set off through the abandoned academy. Three figures, all alone. A ghostly figure in white, carrying a white umbrella up front; behind her, a bizarre man with long hair and a twisted smile; in the rear, a small woman with glasses who barely seemed to exist at all. If someone had glimpsed their little party, they might well have suspected it was some mythical procession as much as a mortal one.
+
+As she promised, it wasn’t long before they drew up to a large, nearly-windowless brick building. Tiny slit windows peered down near the top of its three-story height, but that was it. A single door opened at the front, built of sturdy metal and firmly locked shut. It was merely one of a great many buildings lined up along the canal Lira had swam up in, and it didn’t appear particularly different from any of the rest of them, save for its lack of windows and the powerful barrier Rhys could sense, woven into the very bricks of the building. He approached and reached for the lock, only for a spritz of blue energy to force his hand back. He looked at Lira. “So… how’d you get in?”
+
+“Rushed it while Ernesto and his boys were getting out,” she said. She walked up and tried the lock as well, only to get rebuffed by the same barrier that had stopped Rhys. “They didn’t have it locked up yet.”
+
+“Well.” Rhys glanced at Mouse. “You wouldn’t happen to have a barrier-breaking technique up your sleeve, would you?”
+
+She blinked, startled to suddenly have everyone’s attention, and shook her head firmly.
+
+“Lira?”
+
+“Not unless there’s water involved.”
+
+Rhys crossed his arms and took a stpe back, taking in the whole building. The barrier was kind-of visible at this angle, a faint shimmer just over the surface of the bricks. If he wasn’t specifically looking for it, he would have missed it, which was probably why the Empire had missed it; either that, or it was the proverbial needle in a haystack, but one of many enchanted and barriered buildings in Purple Dawn Academy, and the Empire had overlooked it or deliberately neglected it as unimportant. After all, many of the houses and buildings they’d passed also emanated low-level mana auras, either enchanted, strengthened, or covered in barriers, but like this one, they’d been left alone.
+
+Rhys looked over his shoulder, extending his senses back to the library, but as expected, that building’s barrier was shattered, its windows broken, and everything within torn free, just as Az had feared. Libraries were targets, after all, especially for a repressive regime like the Empire. Empress Raelgan didn’t need anyone seeking a path other than the one she set before them. Supposedly, it was ‘her’ path, though Rhys strongly, strongly, strongly suspected that the Empress did not share her personal path with her underlings. After all, core manipulation wasn’t something one stumbled upon by accident, and despite being able to manipulate trash to create new cores himself, Rhys had to admit that he had no idea how he’d go about yanking a core out of someone else. Sure, he could rip their energy out, but there was a difference between sucking energy like some kind of deranged mana vampire and surgically removing and replacing people’s cores like they were disposable batteries, without overly harming or killing the person whose core was removed. It was the difference between being able to drink a soda, which Rhys could do, and being able to fully process and recycle the plastic bottle afterward, which required far more know-how than Rhys’s original life had had, and an industrial facility besides.
+
+All that to say, whatever path the Empress fed her underlings, it almost certainly wasn’t hers, but some ‘safe’ path that she likely considered nonthreatening.
+
+How did I get here? Rhys walked his thoughts back, and found himself once more outside Ernesto’s lab, considering its barrier. He frowned and reached forward, pressing his palm against the barrier. Just like at the mine, it was pure mana, excessively pure and not trashy at all. There was no way he could absorb it. In fact, it was anathema to his path, it was so pure’ he struggled to wrap his mind around it, or understand the barrier fully.
+
+Then again, he didn’t need to. If the barrier was pure, utterly, completely pure, what happened when it was corrupted? Somewhat reluctantly, Rhys drew some impurities out of his core and pushed them into the pure, pure barrier.
+
+A black mark spread over the bright blue energy, expanding from where his hand touched. The corruption chewed up the barrier, quickly spreading over the entire building. In a flash, nothing remained of the barrier at all, save for some remnant energy in the bricks. Rhys fell forward the half-inch that the barrier had kept him back from the building, and rested his hand against the bricks. More pure mana was stored inside them, in some complex enchantment bound to the very construction of the building; this was the source of the barrier. He’d dispelled it, but not destroyed it, and if he waited long enough, the enchantment would draw enough mana from the air to reactivate.
+
+That was fine by Rhys. He walked over to the lock, only for Lira to whirl her umbrella around and, in some mysterious motion his eyes couldn’t quite follow, slice the lock open. The chains rattled as the lock fell to the ground, and she yanked them the last few inches free, then pushed the door open.
+
+It creaked, the hinges rusty after three years of disuse, and swung inward, spilling a narrow slice of light over the dark room within. Stones strewn with straw and a musty smell were both revealed. As it swung further, a workbench and a few chairs appeared, sitting in the big, empty space.
+
+Rhys stepped inside. He instantly swung his mana toward the straws, curious about their origin, but there was no curse power in this straw. It was merely ordinary straw, the kind used to bed animals and provide better footing for people.
+
+A tiny bit of disappointment echoed in his heart, but he pushed it down and kept moving. Of course they wouldn’t have Straw up this early in the workspace. He would’ve discovered his mentor long earlier if that were the case.
+
+Water poured down as Lira followed him in. He turned to find Mouse already standing beside him, cringing just a little, as tiny and quiet as ever. Lira pointed ahead, at the door at the rear of the workspace. It was a cramped, tiny thing, barely half a person wide, but the desks, though seemingly placed at random, had been spaced to leave it wide open and easy to access. “Down there. Keep going.”
+
+“Yes, ma’am.” Rhys opened the door to reveal an equally narrow set of stairs, spiraling into darkness. He snorted to himself. Thank goodness this isn’t my world. Hell, thank goodness I’m not in my old body. I wouldn’t fit.
+
+“What’re you waiting for?”
+
+“Just admiring the view.” Rhys headed down before Lira could ask any more useless questions. He got the impression that she was on edge, though he wasn’t sure why. Enemy territory, maybe? Ernesto’s lab? She was a non-human, a water spirit or sprite of some sort, so, it was possible Ernesto had targeted her. He hadn’t seemed the type to be kind to non-humans. Rather, he was more likely to treat them as experimental subjects. He didn’t know that for sure, he supposed, but given the gusto with which Ernesto had come for Straw, it wouldn’t surprise him, and seeing Lira’s reaction now, it would all make sense. It didn’t make it true, but it would explain a lot.
+
+The stairs swirled down, down, down, into darkness. At the very bottom, a door hung ajar. Thus far, Rhys’s enhanced eyesight had allowed him to see, but below the bottom of the stairs, there was no light at all, nothing that filtered in past the long, spiral staircase. It was as if there was a source of darkness within the room at the bottom of the stairs, something that suppressed light.
+
+All the way down the stairs, bits of straw were strewn, whether tracked down or what, Rhys couldn’t say. As they reached the bottom of the stairs, however, that straw began to take on a familiar color and a familiar aura. He knelt, picking up a piece of the straw. It wasn’t completely Straw’s aura, nor as packed full of curse power as the straw Lira had found, but it was very much familiar to him… as if it were a piece that had fallen off Straw long ago, left in the sun to dry until it lost its aura.
+
+A light shone from behind him. He glanced back to find Lira’s umbrella now glowing, like a raincloud lit from behind by the sun. Rhys raised his brows. “Is there anything that thing can’t do?”
+
+“Do you want to find out?” Lira asked dangerously.
+
+Rhys licked his lips, a little scared of the way she said it. “You know what? I’ll pass.”
+
+“I didn’t make it through that door,” Lira informed him more helpfully. “It’s ajar… that’s a bad sign.”
+
+“It wasn’t last time?”
+
+“No, it was closed. Ernesto’s students yanked me out before I got any further. If it’s open, then they might’ve already removed everything important.”
+
+“Like Straw,” Rhys said. He looked at the door one last time, then took a deep breath and pushed it open. Only one way to find out.
+
+The pale gray light from Lira’s umbrella spread across the floor. More and more straw was revealed. It was strewn about, then a thick coating, then heaps and piles of it, as if this were a stall, ready for horses. Each straw was different, some free of curse power, some full of it. It was less a needle in a haystack, and more a stack of differently-sized needles. He’d half expected blood and filth, but where would there be blood in Straw? The tattered straws were what served as his blood and flesh, and to see them torn apart meant that Straw had been tortured here, just as if he’d found blood, he would know a human had been tortured. He felt sick to his stomach, but what could he do? Ernesto was long gone, and the main mass of Straw’s body with him.
+
+I won’t give up. I’ll find him. This is a step in the right direction, but I never expected it to be the end of the road.
+
+There was little else in the room. A few broken tools, a stool with a missing leg, the tattered remains of manacles. Whatever else there had once been had been ransacked, torn up and stolen away, more likely by Ernesto and his students than by the Empire. This was the trash, the refuse they didn’t need anymore.
+
+“I suppose it was nothing, in the end,” Lira murmured to herself, disappointed.
+
+Rhys knelt. He stretched his hands out, pulling all the trash to him. He absorbed most of it, the stool, the powerless hay, the broken tools and manacles—but merely gathered up the straw that felt like Straw. That, he pulled into a pile, and when he had all of it, he searched the room until he found a stray piece of twine, then bound the straw up into a bundle. The curse power in the un-bound straw had resonated at its own speed, ignoring all the other curse power, but once he bound it up, all the curse power pulsed at the same beat, resonating with the rest of the straw. He raised his brows and put his hand against it, feeding mana into the straw. The straw pulsed stronger and stronger as the curse power fed on the mana and grew. More and more and more, growing stronger and stronger, until at last, the bound-up bundle of straw shuddered and transformed, whirling about on its own power into a small, doll sized version of Straw. Like a doll, it was crude, a rough approximation of Straw with his ragged clothes, rather than the human-passing Straw, as if an amateur had made a toy for a child.
+
+Rhys crouched, gazing at it closely. It laid there, completely motionless and lifeless, no more than a Straw doll.
+
+“What the hell,” Lira muttered. She knelt and reached out her hand toward it.
+
+The doll came to life and slapped her away. Its roughly-shaped face opened a crude mouth and bared jagged teeth at her. It skittered away from the puddle of water forming around Lira as her umbrella continued to work its magic, stumbled across Rhys’s boot, and rapidly clambered up his leg to hug his belt. Since the mines, Rhys had worn a stolen sword at his hip, and the doll found it and wrapped its arms around the hilt, dangling down from the crossguard like a sword charm.
+
+Rhys looked down at it. “Straw? Is that you?”
+
+The doll hissed at him, swaying from the sword’s hilt in a threatening sort of way, then closed its eyes and went still again.
+
+Rhys wanted to touch it, but he liked his fingers better, so he satisfied himself with just looking at the Straw puppet. It had Straw’s aura, without a doubt; he was completely sure of that. Whether it was Straw, and had Straw’s memories and personality was another matter, but for now, he could only be satisfied with what he had, and what he had was better than nothing.
+
+He looked at Lira. “You were right. He was here. But clearly, whatever happened, Ernesto moved him during the Empire’s attack. Do you know if Ernesto got caught?”
+
+Lira wrinkled her nose. “He escaped. Left me to rot and ran off with his precious students and research projects, filth that he is.”
+
+“Typical.” Rhys sighed, then dusted off his robes and nodded to the others. “Anyone else have something they want to do in Purple Dawn, or is it time to head back?”
+
+Mouse shook her head. Lira waved a hand dismissively. Rhys nodded at both of them. “Then let’s go.”
+
+It had been a fruitful search for him. His raw materials for potato chips restored, and a hint, at last, to Straw’s location. Now it was time to act on what he had found, and get everything kicked off. He had big plans, and the sooner they started, the better. After all, he had his work cut out for him.
+
+Rhys grinned. The first time, he’d merely had a potato chip stall. This time, he would have a junk food empire.

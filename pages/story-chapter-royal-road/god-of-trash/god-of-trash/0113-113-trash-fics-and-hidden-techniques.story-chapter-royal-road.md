@@ -1,0 +1,83 @@
+---
+id: 13bc6198-2645-52fe-8901-7c97db061c9a
+page-type-slug: story-chapter-royal-road
+title: "113. Trash Fics and Hidden Techniques"
+slug: 0113-113-trash-fics-and-hidden-techniques
+partOf: god-of-trash
+position: 113
+ownLength: 2141
+unit: words
+publishedAt: 2025-06-27
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2390544/113-trash-fics-and-hidden-techniques"
+royalRoadId: "2390544"
+---
+
+Mouse scurried off, and Rhys headed off to the second story of the library, toward where she’d indicated the void myths awaited him. He kept his head on a swivel, but remained disappointed. No library cats, tuxedo or otherwise.
+
+Rhys sighed. Az had said he’d leave before the Empire got here. The cat had no reason to go back on his word. Although the Empire clearly kept ‘useful’ books, and a few useless myths, he’d seen repressive regimes in his world, and he wasn’t shocked that the Empress burned Az’s favorite smutty fictions, and likely many other books the librarian considered useful, especially when Az seemed like a one-of-each kind of guy, who kept even fake, truly trashy manuals that taught their users how to ruin their potential magehood, but nothing else. Every book was valuable to Az, not just the good, valuable, useful, moral ones. Even if a book ran counter to everything he knew and loved, he would still collect it and share it, if only to show the world an example of what not to do. It was an extreme attitude on Az’s part, but, as a fellow obsessive, albeit one focused on a different topic, it was one Rhys could respect.
+
+Perhaps as expected for books that even Mouse deemed ‘useless,’ the section on Asension and the void was made up of a handful of books. Rhys almost overlooked the entire section, that was how small it was. He picked up every book that even vaguely mentioned the topics, even though he could already sense that most of them would be bereft of information. All of the titles were cautionary, warning the waylaid mage from pursing the fairy tale of Ascension, laughing at the concept of the void as they worked hard to debunk it. Still, there was value to be found there. To debunk something, one had to explain what they debunked. To warn someone off, one had to describe what they cautioned against. Just as he’d read the fake manuals to figure out what they deliberately missaid, he could read these and piece apart what they said and didn’t say about Ascension, to pick out what little tiny scraps of information remained, and figure out from the contrapositive what the truth was.
+
+It was disappointing, but it was better than nothing. Rhys pulled out the final volume and added it to his pile.
+
+Thunk.
+
+Startled, Rhys turned back. A small red volume, just big enough to fit in his hand, laid on the floor. It had been tucked behind the other books—perhaps deliberately, or perhaps pushed to the back accidentally due to its diminutive size. It had no writing on the cover or spine, and when Rhys opened it, he caught sight of a crammed handwriting, filling every page edge-to-edge.
+
+He leaned in. Was it about the void, or Ascension?
+
+BAM! The library’s doors flew open. Rhys turned, gazing over the nearby balcony. A dozen mages in white uniforms strolled in, laughing and chatting, about Rhys or Mouse’s age. At their rear, a powerful mage, at least Tier 4, if not higher, walked inside, wearing a finer uniform with glittering epaulets and shining metals, gold braid lighting up the white. Interestingly, Rhys remembered the Empress’s personal ship’s guards wore only white, with no adornment or medals. This woman was powerful, but she seemed to be of a lower class of powerful than the ones the Empress truly trusted. A noble? For the first time, Rhys found himself wondering about the Empire’s nobility. The Empress seemed dead-set against it, but at the end of the day, it took time for mages to grow. Years. Decades. Centuries. Since she’d taken over, it had been centuries, but how many people could ascend to Tier 4 in that time, let alone higher? Bast, Ev… and reluctantly, he had to admit, himself, were exceptions, considered talents among talents. Cynog and his ilk were more common, where they would have spent a century to reach Tier 3.
+
+The point was, even if the Empress burned it all down and remade it anew, at the end of the day, she and her personal favorite talents-among-talents couldn’t be everywhere, running every part of the country with an iron fist all at once. The nobles who had existed before her rule still existed after she took over. Sure, she had the ability to remove cores and replace them, but the existing noble mages would have not only their magical strength, but also their logistical strength, the stability of the place they historically had ruled over, and the strength of their internal alliances. If every mage in her Empire over Tier 4 or 5 resisted and fought back, as they almost certainly would if she threatened their personal magehoods and paths, she would still have her hands full fighting internal battles… if she could win at all. On the other hand, if she looked the other way a few times, and let a few trusted nobles, ones who likely fought on her side during her takeover or pledged themselves to her cause early, retain their cores, and therefore their magical prowess, and logistical, social, and political networks in and out of the country, she could skip a lot of the internal strife and get right to what she wanted to do: conquest.
+
+The Empress was insanely powerful, to the point Rhys couldn’t even quantify what Tier she was, but at the same time, she wasn’t the only insanely powerful mage in her country. There were bound to be a few hidden dragons and crouching tigers out in the hinterlands. She could either live and let live, or fight to the death and risk the death of her country in the process. When those distant mages had lived for untold aeons, and seen the rise and fall of countless countries and conquerors, not only was there a very real potential that she would fail to beat them, but she would be rubbing the cat the wrong way for no reason, when those very powerful mages were happy to close their eyes to her crimes, as long as they, and the things, people, and clans they cared about, remained untouched.
+
+Of course, he didn’t know that either of these cases were true, but looking at the Tier 4-or-so mage in her flashy uniform and her pompous, no-one-can-touch-me attitude, Rhys was pretty sure he’d nailed it. Between the two, she looked like the type to belong to a noble family who’d backed the Empress from the start and received favoritism as a result, rather than someone who had the backing of some unknown ultra-powerful ancestor, especially since she was powerful in her own right, but Rhys couldn’t know that.
+
+Everything up until that guess had been extrapolation from his basic understanding of politics in his world, and how these kinds of dictatorships usually worked—in short, it was his understanding of how basic corruption and nepotism worked, and how idealist dictators who thought they could get away with anything fell for the same traps that had made them hate their predecessors and seek to replace them as soon as they came into power themselves, and realized why so much corruption and nepotism existed in the government. But as for guessing this woman’s personal situation? That was a shot in the dark.
+
+Her gaze immediately shot to the second floor balcony, and she and Rhys’ eyes met. Instantly, she frowned. “Miss Sasent, I believe I reserved the library for my students today. What is this slackard doing here?”
+
+The librarian looked up. Rhys smiled and waved. “I’ll see myself out.” He turned and swept away, as if he had every right to be in the library. Mentally, he panicked. This was exactly what he didn’t need, getting seen this soon after the breakout, by someone who would probably remember him, and not only that, take it up with someone else. He mapped the quickest exit in his head, but he only knew the front door as a way out, which forced him to pass by the students and the teacher in close confines. What did he do then? He was far enough away that unless the teacher scanned him, she wouldn’t necessarily notice that he lacked an aura, but that close, he’d need to project an aura, since it would be more suspicious to lack one, but if she remembered it, and later sensed him again… ugh. It was a mess.
+
+Stop panicking. It’s fine. There was no way that mage knew his signature. He knew he hadn’t seen her at Purple Dawn or in the mines. This, too, was a section of the town for mages. He was supposed to be a mage here. Sure, it meant liability if she encountered him outside and he had no aura… but it wasn’t as if a single brush with his aura would automatically get him identified as a prisoner. As far as he knew, the Empire didn’t have a way to distribute the auras of wanted mages. As far as he knew, the Empire didn’t know he was alive. This was bad, yes, doubtlessly bad, but in terms of absolute badness, from peachy-keen to oh fuck, this situation was really only medium bad. It could be far worse.
+
+He just had to walk ten feet from a high-tier enemy mage who had every right and motivation to kill him, on the off-chance the Empire had released his face as an escapee and she knew who he was. But it could be far worse! It could be! He couldn’t think of worse things right now, but he was sure, in moments that weren’t these, he probably could think of worse things.
+
+Rhys gulped and headed for the opposite stairs as if he were heading to his execution. Maybe I should’ve been the one to go look at hiding techniques…
+
+“Rhys!”
+
+He turned to find Mouse right beside him, her glasses reflecting the dim sunlight in the library, and startled. “Where’d you come from?”
+
+“I—I’ve been here for a while, didn’t you notice?”
+
+Rhys cleared his throat. He gave her a serious look and a nod. “No, and you should be proud of that.” It’s not I who should be embarrassed that I didn’t see you… haha…
+
+She tugged his sleeve unobtrusively. “This way. There’s a back exit.”
+
+Rhys deflated, all the tension leaving him. “Thank the gods. Thank you, Mouse. Please.”
+
+She nodded and led the way, keeping a hold on his sleeve so he wouldn’t lose track of her again. Moving quickly, darting across the open spaces and clinging tight to the curves, she led him through the library, down the stairs, then down another set into the basements, then down another to a dank, mildew-scented space full of forgotten books that Rhys was pretty certain Az would go insane with rage about, then mad with excitement over the prospect of lost knowledge. Even he was a little curious, but now wasn’t the time. Mouse tugged his sleeve again, and he followed her once more, twisting and twining through the innards of the library that Mouse seemed to know like the back of her hand.
+
+“Spend a lot of time here?” Rhys asked.
+
+Mouse glanced at him, then bobbed her head in a yes. “I’ve spent most of the last three years hiding in the library. I think there’s depths of it that even the Empire doesn’t know about.”
+
+Rhys raised his brows. Oh? If that was the case, then wasn’t it still possible a certain library cat could be somewhere in its bowels with them? “Say, Mouse, have you ever encountered—”
+
+“You’re going to want to not breathe for this next part,” she warned him, and bent, peeling back a rug to reveal a round metal pane set in the floor. She lifted it, and despite her warning not to breathe, the scent still hit Rhys like a bowling ball: the unmistakable, hideous musk of the sewers.
+
+“It’s… it’s the only way out that they won’t be able to find you if they go searching,” she said apologetically.
+
+Rhys rubbed his smarting eyes and swallowed his vomit, and began to smile. “Sewers, huh?”
+
+Effluent. Excrement. The things humans pushed out of themselves were nothing but big old lumps of trash, if he thought about it. Hell, filth could be used as a synonym for trash, showing just how closely the two were related. If he absorbed all this—if he could absorb all this, how much more powerful would he get?
+
+Misunderstanding, Mouse trembled. “It’s really not that bad. And it’s better than nothing. Um, I guess if you’re not that scared, there’s a window that—”
+
+Rhys lifted his hand. “It’s perfect, Mouse.”
+
+“Oh! Then, um, shall we?”
+
+Still grinning, Rhys hopped out of the library and plunged into the sewage.

@@ -1,0 +1,157 @@
+---
+id: 278e28e0-1041-5215-8978-62c747bb4586
+page-type-slug: story-chapter-royal-road
+title: "115. Long Story Short"
+slug: 0115-115-long-story-short
+partOf: god-of-trash
+position: 115
+ownLength: 2078
+unit: words
+publishedAt: 2025-06-29
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2395391/115-long-story-short"
+royalRoadId: "2395391"
+---
+
+Rhys told his tale. He skimmed over some things, like the names of the people he’d broken out, or exactly what he’d done to regain his magic, since he wasn’t sure of Mouse’s allegiance—though he was rapidly leaning toward ‘on his side’—but otherwise told the tale faithfully. The whole time, he kept the water clean for Lira, refusing to let anything break his hundred-meter perimeter. At last, he wrapped up his tale. “And that’s how we ended up in the sewers, and here we are!”
+
+“You’ve been busy,” Lira commented.
+
+Mouse nodded thoroughly, her whole body bobbing with the effort.
+
+Rhys scratched the back of his head, embarrassed to be praised, then laughed a bit. “Compared to my three years of hard labor in the mines, it feels like I’ve been slacking off.”
+
+“Ha,” Lira muttered.
+
+“So what happened to you?” Rhys asked, gesturing at her.
+
+She took a deep breath. “Oh, nothing much. Just, you know, insulted the Empress and personally pissed off one of her best guard dogs. You know.”
+
+Rhys gave her a look. “Lira.”
+
+Lira giggled—something that made Rhys’s heart leap, that she was still able to find humor in things after everything she’d been through—and waved her hand. “Gods. It’s so good to talk to someone. I thought I would be down here forever. I thought I would die in the shit in the dark, and never see anyone ever again…”
+
+Her voice trailed off, and her eyes dimmed.
+
+“Lira. What happened?” Rhys reminded her, bringing her back to the moment. For all that she was in good spirits now, she clearly wasn’t unscathed mentally. Who would be? He paused a moment, then quickly added, “If it’s too hard, you don’t have to say.”
+
+“No, I want to say. I want someone else to hear the bullshit that happened to me, because I’m sick of being mad at it all alone in the dark.” She straightened up, standing out of the water, and steeled herself, then began.
+
+“It was right at the start… right when the Empress was rounding everyone up and scooping their cores out like coring an apple. I got caught, just like everyone else, but when she went to rip my core out, she couldn’t find it. Spirits are built different from humans, and our cores reside somewhere else. She could probably irrecoverably damage my core if she wanted to, but she wanted to take it, and it frustrated her that she couldn’t.”
+
+“So she threw you in the sewers?” Rhys asked.
+
+Lira flashed him an exasperated look, then sighed. “That was probably enough, to be honest, but I was too stupid to let it lie, so I taunted her. One of her deputies stepped forward—”
+
+“A boy with white hair? Little flat ponytail, all neat and straight?” Rhys asked.
+
+This time, Lira just glared. “Can I tell the story?”
+
+Rhys put his hands up, then zipped his lips.
+
+“No. It was a man with wild, bushy red hair that hung past his shoulders and a hook-shaped scar on his cheek. He offered to ‘discipline’ me, and I mocked them both.”
+
+Lira stopped there. Rhys glanced left and right. His cheeks bulged. He tried not to say anything, tried his hardest, then couldn’t hold back any longer and asked, “What did you say?”
+
+On the walkway, Mouse giggled. Rhys glared at her.
+
+Lira laughed. “I was teasing, just teasing. I might have implied that she and he were in a certain kind of punishing relationship, and he was submissive to her.”
+
+Rhys’s mouth turned into an ‘O.’ “You called her a dommy mommy!”
+
+Mouse blinked. “W-what’s that?”
+
+Lira stared at Rhys in shock. “You’re just fifteen… eighteen now, and you know about that kind of thing?”
+
+Rhys coughed. “That is… I, er, spent a lot of time in the library.”
+
+“How’d you learn about that in the library?” Lira asked, even more shocked.
+
+“You don’t go to the library often, do you,” Rhys guessed.
+
+She grimaced. “They don’t appreciate water sprites in the library, believe it or not.”
+
+Rhys nodded slowly. “You’re missing out. I can acquire a few highly informative novels for you, if I can figure out a way to waterproof them.”
+
+“A lady might be interested in that,” Lira said coyly, raising her brows at Rhys.
+
+Rhys smiled. If romantasy and a certain number of gray shades were so popular back in my world, then I’m sure there’s plenty of female-oriented erotica… ahem, romance books in this world, too. And if not… erotica has always been classified as trash literature. His smile turned wily, becoming more of a hungry grin.
+
+“I don’t like that grin,” Lira commented.
+
+“That’s probably fair,” Rhys allowed. He cleared his throat. “So you suggested that Mr. Bushy Hair liked getting stepped on, and the Empress didn’t take kindly to that?”
+
+“To be honest, the Empress seemed mostly amused. About to kill me, sure, but amused about it. The man was the one who stepped in and offered to send me to a fate worse than death instead.”
+
+“Sounds like someone isn’t confident in his sexuality,” Rhys commented, shaking his head. It was better to confront one’s inner desires and accept them sooner rather than later. Like how he was perfectly in tune with his desire to get stepped on, and wouldn’t take offense to it at all. Mr. Bushy Hair should learn to accept his secret desires, rather than reject them. Or, on the other hand, if he knew he didn’t like getting stepped on, then he should simply be able to laugh it off. This over-the-top defensiveness only made it more suspicious that maybe he didn’t just want to be stepped on, but wanted something even more deranged instead.
+
+It was especially wild because Rhys was 99% sure the Empress would happily step on him if he asked. She just had those vibes—where even if she wasn’t into stepping on people, she was at least enough of a dom to be down with debasing any random sub who wanted to receive pain and/or humiliation, those vibes. In other words, Mr. Bushy Hair had nothing to worry about with being accused of being a sub in her presence… unless he was masking, and desperately didn’t want her to notice that he was a soft subby boy.
+
+Honestly, it sounded like a setup from one of his favorite filthy manga. Dominatrix CEO (female) discovers her underling is secretly a sub??? (shocked face) My deputy is a massive M, but I’m an S? Long nights alone in the office. Anything could happen during overtime!
+
+Rhys coughed quickly, waving away the thoughts. Rage, let’s go back to channeling rage at this guy. He was a scumbag who deserved Rhys’s hatred, whether he was also amusingly an erotica trope at the same time or not. He knew some people would find him more despicable for being a highly probable masochist, but that didn’t really change anything to him; it wasn’t like someone’s desire to be forced to their knees and called a naughty boy changed anything about how good or awful they were.
+
+Lira laughed a little, then went flat-faced. “It’s… kind of ridiculous, looking back on it, but it’s… the last three years…” She shuddered, pulling her arms around herself.
+
+Instantly, he was back in rage mode. Lira shouldn’t be in this situation because of some man’s misplaced pride. He was glad she’d escaped death as a result, but locking her in a filthy sewer? Filling her with impurities to the point she would have had no hope of living an ordinary life again, let alone returning to magehood? That was insane. Absolutely over the line. If he saw this man, there was nothing that needed to be said, no questions that needed to be asked. He’d kill that man. Preferably in some horrible, twisted method, that he still hadn’t thought up yet.
+
+Taking a deep breath, he forced down those emotions. Now wasn’t the time. He could use that rage, but later. Right now, he needed to get Lira somewhere safe.
+
+“Come with me. I’ve got a place where you can rest and recuperate,” Rhys offered.
+
+“Rest and recuperate? Is that all?” Lira snarled, her own rage coming out in her voice.
+
+Rhys raised his brows. Never mind, maybe I don’t need to come up with that horrible death for that guy. Sounds like Lira has it under control. He glanced at Mouse, then took a deep breath. She’d helped him out enough, and once, even without prompting. He could trust her. He should trust her.
+
+He shook his head. “No. Not just rest and recuperate. Come on. I’ll introduce you to the others.”
+
+“The others?” Lira tilted her head.
+
+“I didn’t break out alone. And none of us are ready to give up the fight.” Gesturing for her to follow, Rhys started walking again. The circle of clean moved with him as he continued absorbing all the impurities around them. It was hard to maintain, but that was fine by him. It let him continue to train his impurity absorption, and draw in more and more impurities as he strengthened it. Plus, it kept Lira safe from impurities, and Mouse, too, at that.
+
+Lira blinked, then shrugged and followed after him. “You know, I never got to tell you after the tournament, but I found a hint on… him.”
+
+“Who?” Rhys asked instinctively, then realized: Straw. He nodded. “You’ll have to tell me once we’re somewhere quiet.”
+
+“I’m very quiet,” Mouse muttered, mostly to herself.
+
+Lira snorted, glancing at Mouse. She raised her chin and nodded. “You should unbutton that blouse a little. You’d be a real looker with a little more cleavage.”
+
+Mouse froze. Her whole face flushed red, and she shook her head in wordless silence.
+
+“Lira, don’t tease Mouse. Not everyone wants to be as sexy as you,” Rhys chided her gently.
+
+Lira raised her brows. “Me? Sexy? You know, this robe I’m wearing is absolutely conservative by water sprite standards.”
+
+Rhys gave her a look, not sure if she was joking or not, but her expression was deadly serious. “What’s risqué by water sprite standards?” he asked, a little frightened to hear the answer.
+
+“Probably full nudity,” Lira said casually.
+
+Mouse coughed, absolutely taken aback.
+
+Rhys raised his brows. “Where do your friends hang out?”
+
+Lira laughed. “Do you remember those myths you heard?”
+
+“What myths? Oh,” Rhys added, as he abruptly remembered: myths about man-eating. Right. There’s always a catch.
+
+She snorted. “I’m glad it’s you who found me, Rhys.”
+
+“What, for my sparkling personality?” Rhys joked.
+
+Lira nodded. “It would have been easy to hate humans after… that. Write you all off as a species. But you… in your own, trashy way, remind me there’s something good in all that nonsense. Something worth laughing at, at least.”
+
+Rhys chuckled. “Better laughing at us, than trying to kill all of us, that’s what I always say.”
+
+On the edge of the sewer, Mouse nodded aggressively.
+
+“Yeah… yeah,” Lira murmured, closing her eyes for a moment.
+
+Silence fell over the group. In the quiet, and the newly cleaned sewers, Rhys drew out his books, checking over what he’d picked up. A few books on the void, mostly propaganda… and then, at the bottom of the stack, a small red tome.
+
+Rhys blinked. Did I grab that one? He thought back. He’d been looking through the books on the shelf, then found it, then… then the door had slammed open, and…
+
+Did I just slip it onto the pile without thinking? But it was on the bottom, and it’s so small. I would have had to specifically carried it this whole time, and I’m pretty sure I didn’t do that.
+
+He stared at it for a few seconds, then shrugged to himself. He’d meant to grab it anyways, so it wasn’t a bad thing. Still, he made a mental note that the book was probably dangerous, and should be treated with care… but at the same time, probably the most valuable book he’d grabbed today. If the void was so dangerous that it was written off as a myth, then who knew what kind of energy would be imbued in a text actually about the void?
+
+Only one way to find out. He headed through the sewers, aiming for his newfound secret base to find a cozy corner to read his books, and concoct a plan to overthrow the Empire.

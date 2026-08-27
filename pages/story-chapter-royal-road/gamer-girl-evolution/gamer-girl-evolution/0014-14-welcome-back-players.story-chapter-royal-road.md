@@ -1,0 +1,127 @@
+---
+id: 2bcdad68-2c08-514b-bdd7-5d65289af1d1
+page-type-slug: story-chapter-royal-road
+title: "14 - Welcome Back Players"
+slug: 0014-14-welcome-back-players
+partOf: gamer-girl-evolution
+position: 14
+ownLength: 1747
+unit: words
+ownProgress: 1747
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2672190/14-welcome-back-players"
+royalRoadId: "2672190"
+markedReadAt: "2026-06-29T20:06:02.162Z"
+---
+
+The silence pressed down on them, until Ingrid finally spoke, her voice soft but firm. “...We don’t know how much time we’ll have left together, do we?” Her eyes flicked between Celica and Milia, calm on the surface but shadowed with unease. “We should make the most of the time we have.”
+
+Celica paused, the reality of their situation sinking deeper with each word. The full moon was coming, and with it, their return to the game world. Back to the uncertainty of what lay ahead. She didn’t know when they’d be able to return to normal life, or... if they ever would.
+
+Celica nodded slowly, meeting Ingrid’s eyes. "You’re right." She turned to Milia, offering a gentle smile, trying to erase the fear she saw in her sister's eyes. "This time things will be different. You know what's going on now, and so do we. We'll help you take care of things here."
+
+Celica felt her heart tighten. When she returned she had been so focused on the visible UI and using the game’s resources for her business plan that she didn't even consider how others were affected. The business would have to wait, at least for now. Family came first.
+
+"Let’s spend today together," Celica said, her voice steadier now. "We’ll figure everything else out later. How about we go shopping?" For now, the time she had right here and now with Milia and Ingrid was most important.
+
+Celica knew with her abilities it was unlikely anything would happen to her and if she helped Ingrid nothing should happen to her in the near future either. Still... she didn't think that'd always be the case. In the future there'd be times when Celica couldn't help her directly, it'd be up to Ingrid and her alone. It was no wonder she still felt anxious deep down.
+
+They left the house hoping for a change of pace but the streets felt unusually quiet. Almost like it was muffled by the grey skies overhead. The occasional passer-by seemed on edge, walking briskly.
+
+Celica kept her pace steady, but a slight unease settled into her chest. She glanced around as they walked. Something was off, though she couldn’t put her finger on it. Maybe it was just her imagination.
+
+"Let's get some essentials," Celica said, trying to focus on the task at hand. She pushed the uneasy thoughts to the back of her mind.
+
+They made their way into the grocery store, the bell above the door chiming softly as they entered. The aisles felt colder than usual. There was a small line at the checkout, but it wasn’t busy. People moved slowly, their faces heavy with fatigue.
+
+"Let’s get a couple weeks' worth of supplies for Milia," Celica suggested, grabbing a shopping cart. She filled it with the basics: canned goods, pasta, rice, and snacks. It felt routine and mundane, almost comforting, actually.
+
+Ingrid walked beside her, her expression thoughtful as she picked out a few extra items—more than she probably needed, but she knew how quickly things could change.
+
+Milia wandered down the aisles, a frown on her face as she picked up random snacks. It wasn’t the usual carefree selection she’d make. She paused in front of the chips, her fingers brushing over the bags. With a nod from Celica, she ultimately decided to pick them up.
+
+As they walked out of the store, Milia turned her eyes to the sky, her brows furrowed as the grey clouds hung lower than they had before. "It’s a little quiet today, right?" she murmured. Her voice held the same emotion that had been gnawing at Celica since they stepped outside.
+
+"Yeah," Celica agreed, her voice low. "I guess it is."
+
+They walked a little further, passing a few more shops, but this time, the silence seemed to be weighing on them all. Ingrid gave a small, almost imperceptible sigh. "It’s hard to ignore the atmosphere. Everything feels off today."
+
+Milia nodded, a nervous edge creeping into her voice. "You think it’s got to do with... the game? Like, maybe it’s affecting the world more than we realize?"
+
+"Maybe," Celica said, but her mind was absent.
+
+Ingrid gave her signature reassuring smile. "Hey, let’s not worry too much," she said. "We’re together right now, and that’s what matters. Let’s make today a good day, no matter what’s going on."
+
+Celica nodded, feeling a small comfort in Ingrid’s words. Trying to lighten up the mood, Ingrid spoke up again, her voice tinged with a fun sense of curiosity. "So, if you both had to explain it, what makes a game ‘good’? What is it about them that you both love so much?"
+
+Celica smiled, exchanging a glance with Milia before responding. "For me, it’s the lore and the worlds they create. The characters you meet, the stories you play through—"
+
+“—And the grind!” Milia cut in, grinning. “You can’t forget the grind!”
+
+Celica smirked. “Of course you’d say that. Though I will admit, there's something oddly satisfying about maxing out stats. Like really satisfying."
+
+Milia nodded. "It's fun to finally clear a difficult stage, level up, and see your character grow. It's nice to flex your account to noobs too or try for-fun strats and builds. But if I had to pin it down to a single thing," Milia paused, thinking about her next words carefully. "A good game is one you can get lost in."
+
+Ingrid was quiet for a moment, mulling it over. "I guess I can sort of understand. Half of what you both just said." She paused, then looked at Celica. "Do you think I could improve at games? Like, really learn and get into it?"
+
+Celica displayed a rare smile. "Of course. You can start small by focusing on perfecting what you know, and trying to enjoy the game as you learn more. If you do that you'll definitely improve."
+
+Milia grinned, nudging Ingrid playfully. "Plus, you’ll have us to help. You’ll be a pro in no time, just you wait."
+
+Ingrid laughed softly, the tension in her shoulders easing a little. "A pro? That's a little too far. As long as I can be summoned to the gameworld and clear every main quest, that's enough. I'll leave being pros to you two."
+
+After a brief shopping trip, they returned home. The quiet of the apartment was comforting after the strange, almost oppressive atmosphere outside.
+
+"You said you wanted to learn right?" A voice came from the living room. Celica and Milia moved to the couch, setting up some consoles. Ingrid followed, a little hesitantly at first.
+
+She hadn’t played much before, but seeing Celica and Milia so excited sparked something inside her. She knew they'd been wanting to play games with her for the longest time. "Alright, show me how this works," Ingrid said, rolling up her sleeves.
+
+They decided to introduce her to an MMO, since that's what The Ten Realms was. RPG game knowledge would be the most helpful for her when they returned.
+
+Milia and Celica spent a good while explaining different video game terms and common MMORPG mechanics like job changes, skills, item rarity, accessories, passives, guilds and more. To Celica’s surprise, Ingrid absorbed the information like a sponge. Still, once Ingrid felt like her brain was going to explode if she learned anything else, they switched to a party game.
+
+Her first few attempts at controlling the characters were a bit shaky, but within an hour, she was fully immersed in the game, laughing at her own mistakes and trying to catch up with the others. It wasn’t long before the competitive energy in the room began to build. Milia’s usual spark of rivalry flared up, challenging Celica to a one-on-one match.
+
+"You’re going down, sis," Milia teased, a grin spreading across her face as she selected her character. Celica raised an eyebrow, but the playful spirit inside her was ignited. She accepted the challenge, her fingers moving with a practiced ease over the controller.
+
+The next hour was filled with the sounds of virtual battles, laughter, and the occasional, playful argument over who was winning. Celica couldn’t help but smile as Milia did her victory dance, gloating over a particularly hard-fought win (Celica let her win). Ingrid, trying to keep up, was more amused than frustrated by her lack of skill.
+
+Despite the challenges of the day, the air between them felt light, almost like nothing had changed. Even though they knew the full moon was fast approaching, they made the most of the moment.
+
+The light outside had dimmed, the shadows stretching long into the corners of the apartment, and a quiet hum seemed to hang in the air. Celica glanced at the time on her phone, her hands tingling. It was nearly time.
+
+The full moon had risen. Its glow, pale and distant, seemed to pierce through the window. As the minutes slipped away, a faint green light began to fill the room, casting strange shadows on the walls.
+
+Milia’s breath caught in her throat. She stared at Celica and Ingrid, her eyes wide. "You’ll both come back, right?" she whispered, her voice trembling.
+
+Celica’s complexion hardened as she hugged Milia. “We’ll come back, I promise,” she said softly.
+
+Ingrid placed a hand on Milia’s shoulder, giving her a small, comforting squeeze. “We’ll return as soon as we can, Milia. Just be strong, okay? You have all the food we left you and I've even sent you some money. Remember if anything is wrong call the police.”
+
+The digital green light brightened, bathing the room in an eerie glow. It flickered and pulsed, and before Milia could say another word, Celica and Ingrid vanished. The air hummed one final time and then...
+
+Silence.
+
+Milia stood there for a moment, frozen. Her eyes scanned the empty space where they’d just been, as if they'd reappear.
+
+"They’re really gone... just like that..." she whispered to herself, her voice hollow.
+
+***
+
+[SYSTEM ANNOUNCEMENT: Welcome to Earthonia's second floor: The Cyclops' Marsh]
+
+[Congratulations!]
+
+You were one of three players who achieved the fastest dungeon clear time in this area.
+
+You were one of three players who achieved the fastest dungeon clear time in this zone.
+
+You were one of three players who achieved the fastest dungeon clear time in the world.
+
+As a reward for your achievement, you will receive three unique rewards.
+
+***
+
+Just as Celica was getting her bearings, she heard a familiar, slimy voice.
+
+[“Welcome back, Players.”]

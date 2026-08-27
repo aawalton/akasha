@@ -1,0 +1,149 @@
+---
+id: b84a1eae-4d0a-5071-8952-a2f13dba5487
+page-type-slug: story-chapter-royal-road
+title: "Threads 348-Clan 3"
+slug: 0388-threads-348-clan-3
+partOf: forge-of-destiny
+position: 388
+ownLength: 2603
+unit: words
+publishedAt: 2023-11-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1416867/threads-348-clan-3"
+royalRoadId: "1416867"
+---
+
+Planning this celebration was so far from the stresses of the summit that Ling Qi could not help but feel lighter as she drifted through the days. What was a brief conversation with a sect official compared to dealing with the Ministry of Integrity, the foreigners, and the many, many observers? What was some brief instruction to a pair of first realm outer sect disciples given the run of the kitchen compared to searching for a conspiracy to sabotage their efforts?
+
+Mother came through as well. A handful of wait staff from one of the town’s roadhouses were put on retainer to make sure no one in the household had any duties during the feast. As days passed, she cultivated with her mother, played with Biyu, and cultivated with Zhengui to shape the garden.
+
+Even with everyone gathered, families and all, the Ling wasn’t a huge household. It was enough to put out a single long table in the center of the garden under a silk pavilion. There was a second table at the head, a small one just for Ling Qi, her mother, her spirits, and her sister. The successful cultivators and their family would be seated with honor at the end of the larger table near to them, but they would still be among the others.
+
+“It feels weird, finding out about the heavy stuff way later.” Sixiang sighed, leaning on her shoulder.
+
+It was the last day now, and the sun was beginning its descent. The disciples were working away in the kitchens, and the hired staff were on standby. Everything was ready for the gathering.
+
+“I think I’m glad to be able to contemplate by myself. I still want to know your thoughts, but it feels better to tell you about them,” Ling Qi said. Her hands were folded in her sleeves. Waiting out in the garden while mother took care of the last bits of organization made her feel useless, but she could tell mother preferred to be the one handling the people herding, as it were.
+
+“Yeah, I get it.” Sixiang straightened up, walking backwards away from her to hop up and seat themselves on the smaller table. She’d scold them, but it wasn’t as if their body was anything but bent light and diffuse qi. “I don’t know if I agree. I can see how you could find freedom in a system, but…”
+
+“I don’t know if freedom is the correct word, but without some kind of organizing principle, the only freedom that can exist is the freedom of the fist.”
+
+“Ugh. ‘Organizing principle.’ That Cai really has corrupted you!” Sixiang made a face. “In the end, any kind of system has to be enforced. So, does it really matter how many pretty veils you put the fists behind?”
+
+“I think it does. To do whatever you wish without constraints… That’s the fantasy of a child or a monster.”
+
+“Or a nightmare,” Sixiang quipped. “I’d say that I still don’t care much for collars, but it's not like I resisted sliding into yours very much.”
+
+She gave them a flat look. Siiang held up their hands.
+
+“Sorry, sorry, didn’t mean it that way. Just, ugh, being attached to others is hard.”
+
+“It is.” Ling Qi looked down at her hand, opening and closing it. Wind sent the tablecloth fluttering and the flowers swaying. She could still feel the qi trying to trickle through. The spiritual impurity that had congealed there was starting to crack. “I don’t regret it though. Maybe I’d be safer or more free, whatever that means, if I’d stayed the same, but I won’t give up what I’ve made mine.”
+
+Sixiang huffed. “You still gotta bend your words around and make yourself sound like a bad guy, huh?”
+
+“I don’t know what you’re talking about. You count, too. You call me gloomy, but I’ve stopped you from dissolving twice now.”
+
+Sixiang stuck out their tongue. They changed the topic. “What’s the plan here anyway? You going to just give a big speech and then let everyone eat?”
+
+“Well, I’ll be greeting the families first. I want to speak with each of them one on one, or at least speak to the ones who are old enough to make it meaningful.”
+
+“And then the speech?”
+
+“Yes.”
+
+***
+
+The sun was low in the sky, splashing colors across it by the time the feast was ready. At the entrance to the gardens, Ling Qi stood alone as their household began to emerge. Zhengui was back in the garden, grown to a larger but still manageable size, his shell towering over the end of the table he'd set himself beside. Hanyi and Sixiang were seated just to his right. Mother was seated one seat over with Biyu, leaving the center space for Ling Qi herself. She glanced back to see them chatting, briefly catching her mother's eyes.
+
+From inside the manor, she could practically feel the low level anxiety wafting off the household members. They would be dressed up in their best, in robes and gowns all finer than anything they would have had in their lives before, but still quite plain by the standards of what Ling Qi had grown used to being around. As a soft bell was rung by one of the hired servers in the garden, the first of them began to emerge.
+
+Out in the front was the Min family. The older woman, Min Hua, was Biyu's nanny, and she knew the woman was her mother's close friend. Having spoken more to her mother about life in Tonghou, she was grateful to the woman for helping her mother where she could. Ling Qi was glad her granddaughter had shown talent.
+
+That granddaughter, Min Leidi, walked beside her elderly relative. She was a plain and unobtrusive girl, but she looked like she had tried very hard to clean up, and her hair was tied up in braids and adorned by a circlet of flowers. She was looking out into the garden with wide eyes. Ling Qi had lett her mist out a bit, rolling along the paths, and Sixiang had wrangled together a number of little fairies to drift around as lights, little bundles of qi too simple to cause any trouble with a greater moon spirit around.
+
+"Welcome," Ling Qi said as they approached. It was easy to let her voice roll out and carry through the garden. "Welcome here to this feast, this celebration of your merit."
+
+Both of them bowed very low. The young girl spoke up in a choked and nervous voice. "Thank you, Lady Ling. You are very kind. This Min Leidi is only thankful that she might be of some use."
+
+"Please raise your heads. You have all been of use. My family is young and small. Though your contributions might have been small, they, like others’, have been valuable. I am sure your future ones will continue to be so."
+
+"Yes!" the girl said fervently, glancing at her grandmother, who nodded her head as well.
+
+"We will both cherish our duties, whatever they might be," Min Hua said.
+
+Ling Qi took the opportunity given, observing the girl. "And what duties do you wish for, Min Leidi? Please answer honestly." The girl was only just awakened, a sparking scrap of qi in her dantian. She did not have much of a qi identity yet nor a clear aura to read. A faint pine scent, a touch of wood ash maybe?
+
+"If it pleases Lady Ling," the younger girl said, looking up at her with not a little awe. "I tend the gardens and keep the grounds. I would like to continue that, and um, I might like to work with Lord Zhengui to spread his blessings further. I had a little training as a junior priestess before…"
+
+Before a minor social altercation with a wealthier initiate and her own background had seen her kicked from the training, Ling Qi finished silently. She'd gotten the story from her mother.
+
+Ling Qi gave her a small, calm smile. "I see no troubles with that. Zhengui has mentioned you in good terms before. I cannot make permanent arrangements yet, but I understand your wish, and I hope that you will prove equal to the task of grasping it."
+
+She was aware that in the household and in a certain village where he had raised a fortress wall against a tide of impurity, Zhengui was already receiving some amount of prayers. Fertility of the earth, good fortune, and wealth… That last part was probably because of his name.
+
+Even her puns had power. Such a dangerous feeling it was, to have something that simple and childish rippling out.
+
+It was definitely too late to change now. The wind blew forward, not back.
+
+"Go, Min Leidi, Min Hua. Seat yourselves at the head of the table. Tomorrow morning, before I take my leave, I will select a few cultivation arts that might suit you and give some advice."
+
+They both gave one more bow and passed Ling Qi by.
+
+In their place, the Zhang family was next in line. A worn looking woman with long hair streaked gray nervously presented a pair of children. The older of the two was a boy with wiry black hair forcibly tamed into a presentable topknot and a nervous energy about him. His robe was a little ill fitting in a way that implied a recent and sudden growth spurt. The other was a young girl only a few years older than Biyu with loose brown hair tied in pretty black ribbons and a round face, clutching her mother’s hand tightly with both of hers.
+
+"Welcome, Zhang Wen, Zhang Shu, Zhang Feng," Ling Qi greeted, beginning with the oldest, the mother, and proceeding down. "Welcome here to this feast, this celebration of your merit."
+
+There was value in repetition for this ceremony. She studied them. The mother looked terribly harried behind the attempt to clean up. She was clearly torn between elation and stress. Not strange for a mortal woman with two children capable of awakening.
+
+"Lady Ling is kind," the mother, Zhang Wen, said. She bowed deeply and her children followed in their own haunting way. "Your generosity is unmatched."
+
+"I am very grateful for this chance!" the boy exclaimed. She saw a gap in his teeth as he spoke, giving him a little bit of childish lisp and marking the end of childhood. The little girl’s murmured thanks was barely audible.
+
+Ling Qi kept a smile on her face anyway. Her aura was not cold for them, but it was still imposing. There was little she could do about that. "And what do you aspire to, Zhang Shu? I would hear your wish."
+
+"I want to be a soldier!” he announced confidently, puffing his narrow chest out. “Like the people who guard the house and killed the worm thing in the basement!"
+
+"Very honorable," Ling Qi said. "I have to be away quite a lot, so we will need plenty of people to keep everyone safe. It will be hard and scary though. Protecting others is a big responsibility."
+
+"I am brave. I promise I'll do a good job!"
+
+She smiled indulgently. He felt like jumping sparks, lightning and rain. He might change, but at his current rate, he would probably awaken before she was back from the summit.
+
+"And you, Zhang Feng? You are little yet, so it is fine if you don't have an answer."
+
+The little girl quailed under her attention, looking like she wanted to hide her face in her mother’s skirts. A coaxing hand on her head had her speak up. "I like sewing with mother."
+
+"I see," Ling Qi said, making sure to keep her encouraging expression unwavering. "I'm sure you're very good and will only get better. But it's fine to change your mind too. Just keep doing the little exercises with the spirit stones, okay?"
+
+A girl that age would probably only drain even a single spirit stone over the course of months. She didn’t expect her to awaken for some years yet. Zhang Feng was so young that she didn't even have the vague flashes of impression the other two gave.
+
+"As for you, Zheng Shu, I will find something suitable for you to cultivate when you awaken and see about arranging a physical teacher."
+
+Probably just a retired guard from the town for now. At his age, only the most basic instruction was possible.
+
+He thanked her excitedly and passed her by with his mother and sister as she directed them.
+
+The last of the candidate families was a girl and her mother, the Dong family. The older woman was more lively than the mother of the last group with less anxiety and nerves in her eyes. Her gaze flicked over the tables heavy with dishes and drinks with interest.
+
+Ling Qi exchanged a greeting with them, just as she had the others, no more and no less.
+
+The girl, Dong Chyou, had a bigger frame, wide shouldered for a girl. She looked like she'd outgrow her mother in only a few years. Her dark hair was cropped short around her ears.
+
+"I don't know. I am sorry, Lady Ling, but I am good with my characters." The girl’s answer to the question posed had only a little tremble. Metal, oiled steel, that was the clearest thing emerging from her young aura to Ling Qi.
+
+"You would be surprised how much of my time is spent at the writing desk," Ling Qi said kindly. "So study well. And if you find your interest, you can bring it to me. Of course, study itself is valuable too. Dong Chyou, please continue your exercises as well, and when the time comes, I will ask you again."
+
+The girl’s mother laid a hand on her shoulder and bowed deeply along with her daughter.
+
+So much ceremony and pomp for such little things. But they were only little to her. A handful of stones pushed around. A few documents signed, and yet, whole lives changed. She really was starting to understand Renxiang. She could see now that they had power by virtue of these actions and just how many ripples people like them could send by exercising their authority.
+
+… This insight was probably foundational to Cai Renxiang.
+
+She greeted the others. For the other families, the conversation took less time because Ling Qi only greeted them and thanked them for their efforts. And ultimately, there simply weren't that many people in her household still. Even with children, a handful of grandparents, and just as rarely, spouses, there were less than a hundred people here.
+
+She didn't know them, but she was genuinely happy to see their expressions as they took their seats. As they looked over the feast she had made available to them. As they whispered back and forth among each other while she greeted the last among them. As they looked at her with awe.
+
+No, she didn't know them. It would be too much to call them family for her, but… She looked at mother without turning her head, observing the contentment and quiet happiness in her posture and expression. She turned as the last of them went to their seats, looking at all of these people.
+
+Not one person was connected to every other person here. No one was everyone's family or everyone's friend. These people relied on her, and they were who her mother treasured. And they were all a part of this thing that might be called the Ling Clan.

@@ -1,0 +1,117 @@
+---
+id: af6be9cf-2fa9-59f5-81e5-fb6bc766ce7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39-Three Moons 4"
+slug: 0051-chapter-39-three-moons-4
+partOf: forge-of-destiny
+position: 51
+ownLength: 2622
+unit: words
+publishedAt: 2021-01-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/618416/chapter-39-three-moons-4"
+royalRoadId: "618416"
+---
+
+Ling Qi ascended the steps into the fiery archive, Sixiang at her side and Hanyi just behind her. The greyed-out, frozen world seemed to fade away behind them until at last they stood inside of the billowing flames. Ling Qi looked around at the flame-wrought shelves that seemed to stretch out beyond her sight in every direction but back. Reaching out, she brushed her fingers across a fiery shelf and found herself surprised when a charred scroll materialized in her hands.
+
+“Alright,” she said determinedly. “Sixiang, Hanyi, we’re going to split up. Don’t worry about trying to look at everything. Just look for things that interest you.” She had a feeling that would be enough in a place like this. Sixiang gave her a nod, and Hanyi grumbled rebelliously but didn’t disagree.
+
+“What about us?” Zhengui asked, his stubby legs kicking uselessly from his spot under Hanyi’s arm.
+
+“You will be coming with me,” Ling Qi replied, reaching down to take him from Hanyi. “Big Sister is going to start teaching you to read.”
+
+It was just good practice to do two things at once if she could. She considered trying to cultivate as well, but something told her that it wouldn’t work. She wasn’t exactly wholly herself right now given that her body was still back on the mountain.
+
+Ling Qi gave her other spirits a nod, picked a direction, and started walking. As she searched the shelves, Ling Qi passed over paintings, tapestries, and other more visual works. She ignored play scripts and dry histories. Unsurprisingly perhaps, she found herself drawn to songs, stories, and poems.
+
+Here and there, she would pluck a scrap of paper from a tongue of flame or a storybook from the inferno of the shelving. Sometimes, she only glanced at them before tossing them aside, but for others, she would read them to Zhengui, pausing to point out the meanings of characters as she read.
+
+As Ling Qi worked her way further toward the dim back of the archive, the language of the works began to take on a slightly archaic edge. Slight twists on otherwise familiar spirit tales began to diverge more and more, and the songs began to take on an almost foreign cadence.
+
+Despite that, she was still surprised the first time she plucked out a song from the flames and found it written in a wholly foreign tongue, if one that was still familiar to her. She remembered deciphering these characters at Li Suyin’s side last year as they translated the book Ling Qi had taken from that shaman. It was the language of the Hill Tribes, people who had dwelled in Emerald Seas in the long past.
+
+However, that didn’t seem right. The more she looked, the more she found works that were a strange dialect that seemed to mix the Imperial tongue with the Hill languages. She found poems in that tongue that were marked with dates from under the current dynasty even, no more than half a millennia old, though they were few indeed.
+
+The picture they painted was a strange one. They told of a people who wandered and settled depending on the season, who sang songs to spirits of wind and rain, and who played games of riddles and wordplay with terrestrial spirits to barter for boons and cultivation. She found herself laughing at silly scraps of legends about silver-tongued tricksters and clever hunters. She found less cheerful songs as well, written in a strange ritual cadence and whispering of clashes with the Horned Gods of the Deep Groves.
+
+Newer stories praised the sun and moon and spoke of the Weilu more as strange neighbors than monsters in the dark, then as allies against the Cloud Tribes of the south. The songs took a turn for the dark though as they grew more modern. Songs of everyday life turned into melodies of war and then subjugation, pages filled with venom for the conquering Xi. From there, the stories began to disappear, and the songs and poems dwindled in number, growing more melancholy and full of nostalgia for the lost past.
+
+The Hill Tribes weren’t the only lost peoples either. Hanyi brought her a book of rough charcoal illustrations in a foreign style, depicting a people that lived in the high snowy mountains who worshipped the lethal and beautiful spirits that lived there and cultivated through exposure to the fierce blizzards that raged on icy peaks. Sixiang brought her scrolls of poetry written in a dozen odd dialects, almost incomprehensible in their familiarity.
+
+Ling Qi thought she had an inkling now as to why Emerald Seas was such a fractured place.
+
+When she at last emerged from the archive with her spirits, Ling Qi held only one work, a scroll made from many hundreds of wooden strips bound together and rolled up. It held a long form poem, one that she had found many, many different versions of spanning a great deal of time. In varying forms, it told the tale of a hero king figure and his two companions, who played the spirits of the land and mighty beasts against each other. They defeated some and won bargains from others, assuring the prosperity of the king's people.
+
+The details varied depending on the version. Sometimes, the king's companions were human; sometimes, they were spirits or something in between. The king’s name and the exact nature of the spirits he bargained with and antagonized changed as well. This version, however, was the oldest one that had seemed “complete” to her.
+
+It had been a difficult choice to make, but…
+
+“Mine was better,” Hanyi said childishly as they descended the steps, drawing her attention.
+
+“Obviously not, or Big Sister would have picked it,” Zhen replied imperiously from his perch on her shoulder.
+
+“Yeah! This story was way better,” Gui agreed.
+
+Ling Qi had found Hanyi’s finds interesting but frankly, disturbing. The unnamed mountain peoples had been rather explicit in their depictions of the various self-mutilations that were part and parcel to their cultivation. She didn’t think herself squeamish, but she didn’t feel regret in knowing that those traditions weren’t a thing anymore among civilized people. She would remember to be much more cautious with spirits like her mentor Zeqing if she encountered them away from the Empire’s influence though.
+
+Sixiang gave her a sidelong look and a smirk. “I don’t completely agree with your choice, but yeah, not gonna argue with you going for those folks instead.”
+
+As they finished speaking, Ling Qi stepped down onto the gravel, coming face-to-face once more with the three moon spirits. The Hidden Moon sat atop one of the larger boulders in the garden, eyes closed in meditation. The Dreaming stood, surrounded by a cloud of dying embers, humming a faint melody that sounded familiar and foreign all at once. The Grinning Moon had taken a seat atop the shoulder of the frozen scholar, balanced impossibly despite her size. The man’s still features were marked by glowing lines of fluorescent ink, irreverently scribbled.
+
+“Is that still going to be there when we leave?” Ling Qi asked with some concern, looking to the veiled spirit.
+
+“Not in a way anyone will notice,” replied the Grinning Moon. “Well, not right away. I’m sure our friend here will go get the bad fortune cleansed after a week or two.”
+
+The Dreaming Moon inhaled, and the embers and lights around her rushed in, vanishing in an instant. “More importantly, you have made your choice?”
+
+“I have,” Ling Qi replied, stepping forward to present the rolled up scroll in both hands.
+
+“And what were the reasons for your choice?” the Hidden Moon asked, opening Xin’s eyes and regarding Ling Qi with interest.
+
+“I feel like having more ways of dealing with spirits out there can only make things better,” Ling Qi answered after some thought, regarding the scroll in her hands. So many of her successes had come from dealing with spirits that it seemed foolish to lose any wisdom relating to the subject. She was hardly a master of wordplay, but studying the poems and songs back there had given her some insight into the behavior of spirits that the sort of rote genuflection, appeasement, or exorcism more common today lacked.
+
+That wasn’t her only reason either. “The ones who wrote this… They weren’t barbarians. Not really. So it’s a shame for everything about them to fade away. This poem seems like the root of a lot of their ideas, so it’s the best for getting a story about them out there, isn’t it?”
+
+The pale tome she had taken from the shaman showed that the Hill Tribes had a darker side too, one better lost, but Ling Qi couldn’t help but remember the little horrors of the city they were in now and some of the things she had glimpsed and seen hinted at in the archive and in the Bloody Moon’s dream. Even the Empire had its darker sides.
+
+The Dreaming Moon stepped forward, accepting the scroll with a thoughtful hum. “Not a choice I would object to, but difference often breeds conflict. Are you certain?”
+
+“You all said it,” Ling Qi said confidently. “Stagnancy brings harm too. Besides -” she paused, glancing up at the stars in the frozen sky, “- things are going to be changing anyway.”
+
+The days when she only had to worry about herself were long over by now. Right now, it was just her family and her household, but that too would change and grow, especially as she assumed her greater responsibilities as a Baroness or perhaps, even greater. Seeing Tonghou again, she could only feel dissatisfied. Cai Shenhua had started to change the Emerald Seas hinted at in the archive, and her daughter was only going to continue these changes. Ling Qi was going to be at its forefront. That was the choice she had made when she accepted Cai Renxiang’s offer. It was about time that she started acknowledging it.
+
+“Good girl,” the Grinning Moon said fondly. “Just remember to keep your eyes on the prize, and when you sow that storm, do it for yourself. Don’t allow yourself to become someone else’s shadow.”
+
+“Remember the small moments, the little secrets that you create each day,” the Hidden Moon added quietly. “See and study the world before your eyes, and do not fail to account for the little details when building your models, nor come to rely on them overmuch. The future can only be predicted, never read.”
+
+“And of course, keep the power of dreams always in your heart. You will not live forever, and in time, your works will crumble and fade. But ideas and dreams…” the Dreaming Moon said quietly, the scroll in her hands dissolving into glittering dust that rose like a cloud of smoke high into the sky before exploding in a thousand directions, “... can always be reborn.”
+
+Ling Qi blinked as the grey, time-frozen world began to dim, and then felt her eyelids droop, a deep exhaustion setting in. Between the flight, the run, and the search through the archive, she was suddenly so very tired. As the world grew dark, the three great spirits dissolved into motes of glinting light that surrounded her like a cloud of fireflies. As Ling Qi’s eyes drifted shut, she reached out and grasped the ethereal green lights of the Grinning Moon.
+
+***
+
+Ling Qi opened her eyes, and her vision swam. Her knees felt weak, and her stomach churned. For just a moment, the peternatural balance and poise that cultivation had granted her wavered, and she stumbled backwards, dizzy, landing on her backside in the grass.
+
+The memories of her time with the spirits in Tonghou crashed home all at once. The joy of flight and running over rooftops, the melancholy of the streets, and the old horror of the brothel. Ling Qi shuddered, her stomach turning as she saw those scenes again, stripped of the strange calm that she had felt throughout that journey. Somehow, being back in her body made her revulsion so much more real, but as she quieted the pounding of her heart in her ears and regained control of her breathing, she couldn’t say that the observations she had made and the conclusions she had come to were wrong.
+
+In the end, Tonghou and its hazards couldn’t hurt her anymore. Stripped of its threat, it really was just a very sad place.
+
+“I won’t say anything about your theme choices,” Sixiang whispered on the wind. “Well. For a week or two at least.”
+
+“You ass,” Ling Qi laughed despite herself, slipping so easily back into rough speech. She clenched her hands and felt something hard and sharp-edged there. Opening her hand and looking down, she saw twin jade slips, one a pure white and the other a light ethereal green. It took only a moment's concentration to peer into them.
+
+The White Jade held the Songseeker's Ceremony. It was the continuation of her current cultivation art, Eight Phase Ceremony, the thing that she had forged through her spirit quest with the aid of three phases of the moon. Though its functions remained unclear to her at her current cultivation, she knew it would be an art that matched with her desires for the future. It would be a cultivation art that rewarded feats of daring, self-expression, and dealings with the spirits of the world. Her cultivation art would be the art of one who seeks the powers hidden in the world and the beauty of songs old and new.
+
+The other was a gift from the Grinning Moon. The Laughing Flight of the Wind Thief told the story of a time before the rule of men when there were only beasts who called themselves gods and a canny young woman who plotted and planned and stole the Sovereignty of Wind. It was a potent movement art, too powerful for her to cultivate just yet, but with a great deal of promise. It seemed almost tailored to succeed her Sable Crescent Step once she had mastered the lessons of that art.
+
+More immediately relevant, as she closed her eyes again and concentrated, she could feel the missing piece of the seventh phase of her Eight Phase Ceremony cultivation art filled in. She understood now how to weave the threads of qi underlying the expression of music and art into cultivation and to improve her efficiency in cultivation she gained from working within the domains of her patrons, Grinning, Hidden, and Dreaming.
+
+Ling Qi stood up, brushing out the wrinkles in her gown as the fabric expelled dirt and grass stains with tiny bursts of wind.
+
+“Biiiiig Siiiister!” She turned as Zhengui’s voice reached her, spying her big little brother stomping through the ruins of the temple. Hanyi waved to her, perched on the edge of his shell in a reversal of their roles in the dream.
+
+As Ling Qi raised a hand to wave back, she caught motion out of the corner of her eye and changed the motion into a grab, snatching the blurring missile that had been flying toward her out of the air. She arched her eyebrows in surprise as she looked down and found a mail construct. Its paper wings were crumbled by her grasp, and its animation was already fading. Bemused, she prodded the seal in the center, and a single tiny square of folded paper appeared.
+
+Baroness Ling, I require your presence at my home. Do not delay. - Cai Renxiang
+
+Ling Qi stared down at the single line of characters in rising concern as Zhengui stomped closer. “Sorry, little brother,” she said faintly. “It looks like we can’t relax just yet.”

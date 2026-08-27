@@ -1,0 +1,115 @@
+---
+id: b1deeea8-e72c-50f5-80c3-f79f3496a525
+page-type-slug: story-chapter-royal-road
+title: "Threads 300 Identity 5"
+slug: 0340-threads-300-identity-5
+partOf: forge-of-destiny
+position: 340
+ownLength: 1565
+unit: words
+publishedAt: 2023-04-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1191822/threads-300-identity-5"
+royalRoadId: "1191822"
+---
+
+The air around them darkened, and she saw Sixiang stiffen, something cold and cruel and alien seeping into their eyes. The threads dug into her wrist, and the binding grew tighter.
+
+She’d known the problem coming here. Despite her deflection, despite her evasion, and despite her avoidance of the subject, Ling Qi knew the root of the problem. The problem was that her conception of intimacy was wrong. She was too grasping and too afraid all at once.
+
+To see past her misconception, and to make herself accept that she was wrong…… That had to be the solution. Ling Qi loosened her grip on Sixiang’s hand, and their hands came apart.
+
+The pain remained, and the threads under their skin spooled out into the gap that formed.
+
+Ling Qi breathed out and looked up to see Sixiang standing there, looking down at their hands. The muse’s lank, colorless hair hid their face.
+
+“Sixiang. I know—”
+
+“Why d’you always gotta be like this?”
+
+She stopped mid-sentence at the interruption. The greater nightmare was silent.
+
+“You can stand up to anything outside, but the moment you look in, you run away,” Sixiang criticized harshly. “You always assume you’re bad. That you’re greedy, and selfish, and all that other crap. It’s great that you didn’t end up like that big icicle or that starving carpet-to-be. But I am so damn sick of you trashing yourself!”
+
+“Sixiang, I don’t want to control you. I know you don’t want to control me either. We can’t accept the way your grandfather is trying to frame this,” Ling Qi placated, glancing nervously around. “Besides, I’m not that bad. I know my fears, but our relationship isn’t—”
+
+“Ain’t it?” Sixiang snapped. They raised their head, and Ling Qi startled at the sight. Sixiang’s dark eyes weren’t polluted by another entity's presence. Their features seemed harder, sharper than usual, but… they were Sixiang.
+
+“You ever think that I don’t want more distance, huh?” Sixiang continued. “And don’t tell me you don’t control me. How much do I do? All this boring, awful gruntwork you put on me, and I do it. I do it for you! I keep my cool. I don’t go out and pester people or play any pranks, even when I figured out how to without a body! I hung around even after it started to hurt. I’ve been changing myself for you all along! And yeah, I have my hooks in you too cause that’s how it works.”
+
+“That’s not the same thing,” Ling Qi protested. “What he’s showing us is awful and wrong.”
+
+Sixiang snorted. “He’s making it look all scary and gross because of course he is. And that’s enough for you because you think of it like that! You make so many excuses for why your boss doesn’t count, despite all the power she has over you if she wanted to exercise it. You reason out why you can be fine in that Sect or your Empire. But me, I gotta keep quiet and be nice and unthreatening and never let on how much I love—”
+
+As Sixiang spoke, getting more and more worked up, they reached for her hand. The strings tugged, tightened, and grew thicker and more sturdy. Ling Qi’s eyes widened. She jerked her hand back. The strings didn’t tear, but they strained.
+
+“—you!”
+
+Sixiang’s last word echoed in the hall as their hand fell back to their side. They chuckled.
+
+“And that’s all it takes for the fear, huh? Poor turtle boy. Thought it’d be different for me, but you really can’t accept that someone might want you instead of the other way around.What exactly is so bad about being held tight, if that’s what you want?”
+
+“So decided, two tribulations apart.”
+
+That awful voice seeped out of the air again, and the hall came apart. Black leaves blew in, a dense cloud of moldy, rotting vegetation, swiftly obscuring her vision. The distance between her and Sixiang expanded violently. She lunged forward, grabbing for Sixiang’s hand, but this time, the muse didn’t reach back.
+
+A roaring wind took her, burying her in rotting leaves.
+
+When Ling Qi next opened her eyes, she lay on the ground, staring up at a gray smoke-filled sky. She felt the crunch of dead leaves under her head and back. She sat up.
+
+It was a cold fall day, and all around her were corpses and fires. Men and women in ill-fitting armor were scattered across the ground like discarded leaves, staring with empty eyes up at the sky. They were corpses that still breathed.
+
+This was her work, the audience for the Traveler’s End.
+
+Ling Qi sucked in a breath as she forced herself to stand, not letting her eyes meet any of the dead bandits' mindless gazes.
+
+She glanced down at her hand, which still throbbed with pain, and she saw bloodied strings emerging from under her skin. They weren’t broken. They didn’t hang limp. Instead, they extended off into the air, vanishing into nothingness. Ling Qi began to walk towards where they vanished.
+
+“Where was this surety, seeker of thrones?”
+
+One of the corpses at her feet spoke, oily blackness bubbling between its lips. Its empty eyes remained on the smoke-choked sky. Ling Qi averted her eyes, refusing to stop. The words rose in a susurrus of noise, quieting behind her and rising beside her. Each word emerged from new lips.
+
+“I made a mistake,” Ling Qi said. A bare moment of instinctive action, that was all it had taken.
+
+“Recanting so swiftly.”
+
+It wasn’t a question, but a disappointed and contemptuous statement.
+
+“I refuse what you showed me: family, connections, relationships. They don’t have to be like that.” Ling Qi kept her eyes ahead, stepping over the bodies without looking. “That wasn’t my mistake. Only… my reaction.”
+
+“It proves words and thoughts false. You reject your truth without knowing another.”
+
+She neared the pyres, and the burning bones within crackled and stirred. Fleshless jaws blackened and cracked, opened and shut, speaking the voice of nightmare. The wind blew harshly, carrying embers into the sky where they mingled with the faint white of drifting snow.
+
+She was wrong. Ling Qi held onto that like a child holding tight to a warm coal in the depths of winter. Gan Guangli and Su Ling, Bai Meizhen and Bao Qingling, love did not have to be a matter of domination and command.
+
+She stepped past the pyres and into the treeline, following the line.
+
+“To live is to override the will of others, and be overridden in turn.”
+
+Ling Qi clenched her teeth and didn’t answer. Her eyes scanned through the burgeoning snowstorm as the wind picked up. She shielded her eyes as the wind surged.
+
+“Dare you look upon me and say that love does not bind?”
+
+Ling Qi blanched as she heard a voice, not the nightmare, but something beautiful and achingly familiar. She spun to the side.
+
+In the whiteout of snow and leaves was a broken mask. It was the shattered fragments of a beauty’s face. Pale white eyes, crimson lips, and stern features were only briefly reunited by the wind before falling apart again.
+
+“With love, you slew your master and bound her to the course of self-annihilation. Why do you lie so?”
+
+“Don’t use her!” Ling Qi screamed into the void. The fragments of Zeqing’s face disappeared in the wind. Ling Qi’s voice was a shockwave, tearing away snow and leaves. Her hair whipped around her face, unbound and rimed, and under her feet, the soft earth covered in fallen leaves became pure and perfect ice. The wind screamed around her, but no longer did the snow and leaves intrude. She stood alone and pristine in a tiny circle of her own will.
+
+Her scream had shown a flash of silhouette. Something so much more than her, larger, mightier, and dense with power stalked in the storm outside. Slick and green-black, dripping and viscous, it had been inhuman in shape and mein. She heard over the sound of the wind the slithering stride of uncountable hooved feet and the fleshy sound of something heavy and wet dragging across the earth before it vanished into the blizzard. A gaze pierced her from the emptiness.
+
+“One who lives without binding others, but is themselves bound. Is this your wish, seeker of thrones?”
+
+The voice of nightmare remained an overlapping sea of sounds, the voices of her helplessness and terror, but at its core was an older and feminine and harsh voice. Rose petals bloomed, scattered among the leaves.
+
+“The childish liar who pretends at binding none while ignoring the wind of their wings and the cost of their hunger? You know it's foolish.”
+
+Ling Qi saw herself in the storm, young and ragged and hungry, a desperate thief thinking of no one but herself. Pathetic and pitiable.
+
+“I’ve become better than that,” Ling Qi chanted. She felt her heart beating in her ears. Her knees trembled, nearly buckling, the veins in her forehead pulsed, and her meridians groaned at the strain of pushing back against the will of the nightmare.
+
+The mist was full of forms now, so many people, some she knew, some merely faces glimpsed in passing, and all of them were on strings. Her hands wept blood where the threads emerged.
+
+“Then cease whining of lies and wrongness, and speak truth.”

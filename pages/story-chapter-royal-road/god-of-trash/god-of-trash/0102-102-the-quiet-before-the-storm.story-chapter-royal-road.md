@@ -1,0 +1,73 @@
+---
+id: 9ef4f1e8-38f1-5434-847a-cbea54372475
+page-type-slug: story-chapter-royal-road
+title: "102. The Quiet Before the Storm"
+slug: 0102-102-the-quiet-before-the-storm
+partOf: god-of-trash
+position: 102
+ownLength: 2148
+unit: words
+publishedAt: 2025-06-10
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2346303/102-the-quiet-before-the-storm"
+royalRoadId: "2346303"
+---
+
+Rhys was full, but only of food. He still had plenty of room for mana. That, and in the afterglow from that fantastic, cultivation-boosting meal, he wanted to try another round with the curse power-mana transition. His everything had been smoothed, detoxified, strengthened, reinforced, and empowered, and he could still feel some of those subtle and mysterious effects lingering in his body and mana infrastructure. He didn’t know that absorbing a bunch of curse power and turning it into hyper-pure mana under the meal’s effects would do anything, but it was worth a shot. Better than not trying, anyways. As long as he had bonuses active on his body, why not try to squeeze every last ounce of bonus out of those bonuses? The other kids were wasting it, going to dances or whatever. They should go focus on leveling up their magehood, the same as Rhys!
+
+Then again, they probably aren’t trash. Other mages had the leeway to seek out useless skills and spend their time hanging out with friends and having fun. Most of them weren’t so absolutely locked to working on their skills, techniques, and spells all the time to avoid falling behind, unlike Rhys, who had to work hard or lose out.
+
+He walked down the wall of the ravine and down into the depths, where a little hole marked the place the Impure Well had been filled in. As he descended, he came across a man, picking up the loot from the hidey-hole that had previously been hidden in the trash. The man jumped at seeing him, then fumbled out his sword, holding onto the smuggled goods with his other hand.
+
+Rhys walked past with a little wave. “Good evening. Don’t mind me.”
+
+The smuggler followed him with his sword, then, seeing Rhys was about to walk off, hid the smuggled stuff into a storage ring and chased after him, sword bared. “I can’t let you live, now that you’ve seen my face.”
+
+“I saw nothing, but if you touch me, you’ll die,” Rhys replied, still walking away.
+
+The smuggler paused. Their resolve, and consequently their mana, fluctuated, as uncertainty chipped away at their will to fight. They must have been an underling or something, weaker than the real smugglers, because his Tier was only two, the same as Rhys’s, and between the two of them, Rhys’s mana burned brighter. This man was barely a threat to Rhys. Only with some kind of earth-shaking item or gear could he hope to defeat Rhys.
+
+“You saw me in the tournament, right? That was only a thousandth of my true potential.” He turned suddenly, facing the man. This close to the Impure Well, it was easy to draw forth its curse energy, and he fed it into the curse circulating around his core, giving it just enough power to appear, but not fully manifest. Projections of a pair of enormous skeletal hands materialized around him, one hand on either side of him. He smiled at the smuggler as the wind whipped up around him, a dark light playing over his body from the curse power he was using, his eyes in shadow save for the distant gleam of blue mana in their depths. “Out here, where no one will see our battle and no one will ever find your body, would you like to try me?”
+
+The smuggler inadvertently backed away a step, then forced himself to freeze. His shaking hands held the sword tight, and a final sort of resolve burned in his eyes.
+
+“Or you could leave and pretend you never saw me,” Rhys hinted. “I don’t care what you’re up to out here. Smuggling, grift, whatever, doesn’t bother me. I’m not a Purple Dawn student. Purple Dawn’s business isn’t my business, so you can rest assured that I don’t give a single shit about your plans.”
+
+The smuggler hesitated.
+
+Rhys snapped his fingers. The projections rushed forth from beside him and closed in on the smuggler.
+
+The smuggler held his ground until the bones loomed over him, and the cold sensation of the curse fell over him, then turned and ran.
+
+Bluff 7 > 10
+
+Rhys stood there, watching him go. He really didn’t care about the smuggler. He could have beaten him, sure, but there was no need to commit violence if he didn’t have to. Just because the world’s logic was to attack everyone on sight, didn’t mean it had to be Rhys’s logic as well. Scaring off the smuggler worked just as well as killing him—no, better, because no one would come after Rhys later to get vengeance for their dead underling or friend or whatever. Sure, the smuggler could tell someone about Rhys having a curse, but one, he’d already successfully hidden the curse from the Alliance, and he was confident he could do it again, and two, if the man was dumb enough to try it, Rhys would reveal that he was the smuggler. They were comrades, bound by their crimes, and between the two of them, Rhys was confident he could hide his away. Was the smuggler so confident? He doubted it.
+
+With the smuggler taken care of, he descended to the depths of the ravine. The floor had sunken considerably as he’d sucked in the curse power, leaving the floor about six feet below ground level. Rhys hopped in. The muddy earth splashed around him as he landed, and curse power instantly welled up and filled his body. Rhys took a deep breath, sucking it in deeper, all the way into his core. It was time to begin the process once more.
+
+This time, he knew what he was getting into, so he pulled out some tomato seeds ahead of time and held them in his palm. He might as well grow a few more vital tomatoes while he was at it. They invigorated him on their own, but they were also the key component in his very important, no, essential task of making ketchup for his potato fries. A bit curious about what he could grow with this technique, he drew out some potato buds and held them loosely in his other hand. Vitality ketchup on vitality fries? It sounded like a fantastic combination to him. So what if it was a bit of an overload? That was the whole point! Junk food was about excess. Eating to excess, fat to excess, salt to excess, sugar to excess. If he wasn’t going too far, he wasn’t going far enough. That was just how junk food worked.
+
+Once more, he pulled curse power into himself and condensed it into super-lumps of curse power in his core. Just as he had the first time, he added impurity after impurity to his core. Unlike the first time, his core was now half-full of the dense mana. There was less room for the impurities in his core. He filled up every ounce of space with the impurities, then paused, a bit lost. He couldn’t push beyond his limits like this, but he also couldn’t use this new mana yet. He needed to burn as much curse power as he had the first time in order to finish filling his core, plus a little to make up for the droplets he’d gotten outside of this Impure Well, but there was no way to fit any more impurities in his core.
+
+Who says they have to be in my core? Rhys kept condensing impurities, but pushed them into his mana passages. When his passages filled up to the point he could barely circulate mana, he started shoving the condensed impurities into his body, in his muscles and in the gaps around his organs. He’d lose some of the power strengthening his body, but then, was something that strengthened his body really a loss? It sounded like a gain to him.
+
+More and more curse power flowed into his body, until he struggled to draw more energy. The floor had sunken considerably by now, and he now stood ten, maybe fifteen feet below the floor level. It almost felt like this layer of mud was floating on the impurities, and by sucking out the impurities, he was lowering the mud raft. By now, it could go no further, which either meant there was nothing more, or that he had to dig down to find whatever remained at the bottom. No—there was definitely more curse power. He could no longer reach it from here, but he could definitely dig down to find more.
+
+Rhys shoved the last dribble of his ordinary mana into the impurities, and they ignited. Pure mana burst out in every part of his body. It couldn’t even flow through him, since every space and every gap was full of the dense impurities, which were rapidly transforming into pure mana. He was a human-shaped lump of pure mana, and his body and mana passages were suffering for it. It was as if he’d immolated himself inside and out with boiling water. There was no escape. The mana filled him up on all sides, and there was no shedding the heat.
+
+Rhys clenched his hands around the seeds and the buds. The potato buds instantly took root in his body and sucked out some of the excess mana and vitality, since they were ordinary plants that simply needed mana or vitality to grow. The tomato seeds took a little longer to grow. A few of them exploded, and one outright burst into flames, but he’d fished out more seeds this time, and as a consequence, three of them burst to life and helped to suck excess power out of his body.
+
+All the while, Rhys bathed in the pure mana. His whole body was inundated in it, and every ounce of him soaked it in. The pure mana wasn’t destructive, like the earlier energies had been, but instead, it strengthened him on its own, even without his guidance. His body grew stronger, and the vitality he’d ingrained in his cells last time grew more intense.
+
+Self-Regeneration 55 > 60
+
+Heat Resist 18 > 21
+
+In his core, more gold mana condensed. It filled up his core, and he felt a profound transformation take place, one he himself barely understood. The strange sensation rushed over his whole body, and the gold orb in his core solidified, becoming something real. There was something more to it, though. More he could do. Rhys hesitated, then reached out and pushed at the orb. It moved, soft and malleable. Instantly, he knew what to do. He pushed it from all angles, condensing it down as if it were an impurity. Down, down, down, until it was a small orb, bigger than the seed-sized condensed impurities, but far smaller than it had been. Now it was a shiny marble, big enough to pinch between his fingers, but infinitely harder and denser. He could use this mana now; he understood it instinctively. At the same time, he knew that these golden orbs were what he needed to advance. If he used the mana in this golden orb lightly, he might lose his advancement, and if he condensed more in the future, he might advance again. The gold mana was far purer and more powerful than ordinary mana, to the point that it was almost incomparable, but to condense even a droplet of the gold mana required far more input than ordinary mana.
+
+Core Formation (Tier 2) > Golden Orb (Tier 3)
+
+Potato sprouts rose from one hand, and tuber-heavy roots dangled through his fingers. In his other hand, tomato vines coiled up his arms and across his chest, laden with fat red fruits. The second he reached Tier 3, he had no longer needed to vent either mana or vitality; his more powerful body could handle more of both energies now. He stripped the fruit from the tomato vines and removed the tubers from the potato’s roots, then put the plants away. Right now, while the fire was still hot, his buffs were still going, and he’d just advanced, he wanted to focus on continuing to level up. Instead, he drew out his broken shovel and dug down.
+
+His newly Tier 3 body was so strong that the mud splashed away like water. A few digs down, and he broke through the mud into a pool of pure curse power. Down below it, at the very depths, something terrifying yet familiar awaited him. Rhys’s eyes shone, and he grinned. It was time to condense more of the gold orbs, and firm up his Tier. And maybe, if his guess was right, he’d get another bone from that horse-and-rider curse he’d found at the bottom of the first well. He couldn’t use it with one bone, not really, but with two? More? Who knew what he could accomplish.
+
+He took a deep breath, and jumped into the hole.

@@ -1,0 +1,209 @@
+---
+id: 3a2e3101-edfb-5ab6-a051-60b66bd4879e
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Precious Dreams"
+slug: 0133-interlude-precious-dreams
+partOf: forge-of-destiny
+position: 133
+ownLength: 2716
+unit: words
+publishedAt: 2021-07-19
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/719333/interlude-precious-dreams"
+royalRoadId: "719333"
+---
+
+It hurt.
+
+Resonating through two minds, the hole that had been torn in them throbbed. [Growth] failed to restore the memory that was lost. [Renewal] failed to cleanse the oily taint of the predator’s touch from their spirit.
+
+It was hard to think, but Gui hadn’t minded. He was glad to have helped Big Sister. In feeling this pain, he had spared her from it. It had only hurt that she hadn’t appreciated it. Zhen’s temper bled into Gui, and he let out a rumble as his other half hissed.
+
+... and it hadn’t even mattered. Zhengui had tried as hard as he could and fought as hard as he could, and Big Sister had still had to hurt herself to save them. Now they were lost in this weird place with no ground or sky, no beasts or trees.
+
+Gui felt small and blind and hated it.
+
+Zhen felt weak and useless and hated it.
+
+“Fishy Man messed up again!” Gui growled, glaring at their companion.
+
+“I, Zhen, think he is just not trying very hard,” Zhen sneered.
+
+“This one can only apologize,” the not-xuan wu hid his face, and Zhengui felt his fury swell. He had always disliked him and his presumption. Everything about him screamed untrustworthiness. Nest-Mimic. False-Brother. Deepwater-Child. Liar!
+
+“Gui does not want stupid apologies!” he snapped, stomping forward. His other hissed in wordless rage
+
+“Will you just shut up already, you dummy!” Hanyi’s frustrated shout brought him up short, her cold biting at his shell. “Are you really that dumb? He’s not doing this on purpose! Big Sis is…”
+
+Gui closed his eyes, unnaturally aware of the featherlight weight on his back, the tingling feeling of the strands of [Joyful Muse] that clung to his back, anchoring Big Sister. Zhengui had not understood everything the Sixiang had said, but he knew enough. Big Sister was wounded. She had broken something, carrying everyone here.
+
+Hanyi was scared, too. She sounded like she wanted to cry. Zhengui felt the volcanic heat in his shell grow further. She didn’t understand. He knew she didn’t see the not-xuan wu the way he did. He knew instinctively that she couldn’t. Neither could Big Sis. It was why he had never spoken up and simply held himself back to watching the not-xuan wu.
+
+Now, they were lost in the not-place of sleep, and the only one they could rely on was the liar. Even if he was lost, too, that was no reason to trust him! And that was if he was even actually lost instead of leading them in circles!
+
+***
+
+Hanyi looked at the bundle on Zhengui’s back.
+
+It looked like a giant cocoon woven of seven colored silk, anchored to Zhengui’s back by threads of spun dream. Faint silvery mist leaked constantly from it, pooling around their ankles, wrapping around them in wispy strands. Ling Qi, her Big Sis, was hurt. She didn’t understand the stuff Sixiang had babbled as they spun themselves into a cocoon, but she knew that her Sis was in trouble. She had gone too far with her technique and hurt herself dragging everybody into Dream. Sixiang had said that she had to be isolated until they got out or else she would leak and lose important stuff.
+
+It wasn’t fair. Big Sis wasn’t supposed to get hurt like this. Momma never got hurt like this!
+
+In the shimmering nothing that hung around them, a clear night sky shimmered, and cold snowflakes fell. There was a tall outline, a graceful and lovely woman reaching out for her.
+
+Hanyi shut her eyes and tried not to scream. She hated this place. She hated hated hated it! Momma was gone, Papa was gone, and she had promised to grow up. She wasn’t going back.
+
+She couldn’t go back, even if she wanted to.
+
+“Hanyi does not know that,” Gui snapped stubbornly. “Fishy man is—”
+
+“What is even your problem?” Hanyi demanded. “Do you know how to get out? Cause I don’t!” She threw up her hands. Ever since they had gotten here, Zhengui had been like this. She knew he had been hurt and angry, but this was ridiculous. What was his problem with this Xuan guy anyway? She had never seen him do anything bad, but Zhengui treated him like he was a food thief or something.
+
+And he wouldn’t tell her why. It made her so mad! Why couldn't boys just talk?!
+
+“Do not quarrel among yourselves,” Xuan Shi said warily. “Sir Zhengui’s disposition is understandable. This one is not offended.”
+
+She shot him an incredulous look. She had been thinking of trying to help Big Sis bag him since Sis was so bad at it, but she was starting to wonder if she should if Xuan had this little spine. She eyed the slate grey stone under their feet and the cracks running through it.
+
+... Maybe Zhengui had a point. Could they really trust this guy’s will to guide them through here?
+
+“This one will attempt to divine a path forward again,” Xuan Shi said, turning away to face the formless chaos ahead of them. “The others are adrift as well. If we can but link up with Brother Liao, we may yet ride out the storm.”
+
+“We should search for a way out,” Zhen hissed sulkily.
+
+For just a second, Hanyi saw Xuan Shi’s grip on his staff tighten, whitening his knuckles. “This one does not know such ways and has said such before, Sir Zhengui. Perhaps thou might consider cycling thy qi to clear obstructions?”
+
+Not hopeless after all. Hanyi huffed.
+
+Hanyi leapt from the stone to Zhengui’s back, leaving the boys to bicker. She rested a hand on the glittering curtain that enfolded her sister. Sixiang was a jerk who always acted like they were older and better. Look at them now.
+
+Hanyi crouched beside the cocoon. “Couldn’t have maybe given us some directions before you went to sleep, idiot?” she muttered.
+
+She knew it wasn’t that easy though. She had seen Big Sis practice. What she did to step through layers was hard, and it wasn’t like Sixiang knew how to move people back and forth. Hanyi squeezed her eyes shut, racking her memories for any scraps she could recall from watching Ling Qi practice.
+
+You could kinda relate it to music? Something about expression and will. Momma could have gotten them out without a problem, she knew. Momma wasn’t a dumb girl who was too heavy and too solid and too human to act like a real lady. Big Sis had started as a human, and she was still better than Hanyi. Who did she think she was kidding?
+
+The Mist around her thickened, and Hanyi hunched her shoulders. She stared out into the formless Dream around them, ignoring the flickering images that danced in the corners of her vision and began to hum to herself, one of the songs Momma had sung when brushing her hair.
+
+… She had to stop sulking. Big Sis was counting on her, and Zhengui, too. She had promised to trust them, to fight with them. They couldn’t fail her now. There had to be something she could do, if she could just figure out how to move in this place…
+
+Hanyi paused then, blinking. She had just sensed something weird.
+
+“Hey, will you quiet down for a second?” Hanyi interjected, glancing up to Zhen to cut him off mid bicker.
+
+“Hanyi should stop being so rude.” The serpent glowered. “I, Zh—”
+
+“No, keep arguing if you want, afterward,” Hanyi dismissed. “I think I felt something, so I want you to quiet down for a second.”
+
+Zhen looked affronted, but he stayed quiet, and Gui stopped walking. Xuan Shi turned to look at her.
+
+Hanyi huffed and turned away, closing her eyes. She hummed the first bar of the tune again and focused on the ripples it sent out through the dreamspace.
+
+She felt something ripple back, warm and melodious.
+
+Hanyi’s eyes widened. She recognized that! She’d been feeling it all the time these past couple days! “Ah, it’s the Flower Lady!” Hanyi exclaimed, clapping her hands.
+
+“This one feels nothing. What is it you sense?” Xuan Shi asked, frowning behind his collar.
+
+“Don’t worry about it,” Hanyi said smugly, standing up atop Zhengui’s shell. “It’s not your fault that you two are tone-deaf.”
+
+“Is Hanyi sure that she isn’t just imagining things?” Gui asked suspiciously.
+
+Hanyi puffed out her cheeks in irritation. “Of course not!”
+
+“It is a destination, is it not, Sir Zhengui?” Xuan Shi asked. “Brother Liao remains elusive.”
+
+“Maybe Flower Lady will have a better sense of direction than Fishy Man,” Gui grumbled. “Where should Gui walk?”
+
+“This way!” Hanyi instructed haughtily. Not that the physical direction really mattered, but they did have to move to cover distance. She hummed her song again and waited for the response.
+
+They were finally getting somewhere!
+
+***
+
+He did not know how long they spent walking, but Gui had forced himself to keep going on. He forced bubbling irritation and fear down and made himself trust in Hanyi.
+
+And they were rewarded for it. One moment, there had been nothing but chaos and shifting dream landscapes, and then, in front of them were some of Sis’ companions. Bian Ya stood with her hands on her forehead, murmuring under her breath, and beside her stood another woman. Behind them, Su Ling sat, leaning against the side of a large fox and pressing a bandage to her forehead.
+
+“Thank goodness.” Flower Lady was wilted; she looked like she needed a very long nap. “Someone heard.”
+
+“Where’s Ling Qi?” Zhen was glad to see the Su Ling as she leapt to her feet. Her spirit was weird and scarred, but Zhen had no doubts that she was a friend of Big Sis.
+
+The two girls looked battered. Their cloth-shells were ripped and torn and missing pieces. That worried Gui.
+
+“Big Sis is here. She’s just hurt,” Hanyi announced.“Sixiang is taking care of her, but she’ll be fine.”
+
+Gui was thankful for the Sixiang. He would not complain when they teased next time.
+
+“Hehe, how lucky, right? Told ya it was worth the gamble.” Zhen felt a frisson of discomfort as the other thing spoke though. The spirit looked like a fox with a human face, but it wasn’t. It was something wrong.
+
+It was like the not-xuan wu. It was a liar and a nest-mimic. A mask over a mask over a mask.
+
+Gui instantly distrusted it and was glad to see Flower Lady frown at it. At least he was not the only one to distrust it.
+
+Xuan Shi stepped forward and bowed his head. “This one must offer his deepest apologies, Sister Bian. As a defender, this one failed in his task and allowed your concentration to be muddled.”
+
+“Izzat what you think happened?” the spirit chuckled. “What a responsible guy.”
+
+Zhen hissed softly, observing them both. Were they collaborators? Zhen would watch, and Zhen would bite them both.
+
+Bian Ya shot the spirit a quelling look. “It was not your failure, Brother Xuan. Something beyond us interfered. It was only Sister Ling’s emergency maneuver which allowed us to escape unscathed.”
+
+Xuan Shi frowned in dissatisfaction.
+
+Zhengui stomped forward. “How do we get out? Big Sister needs to get out now,” Gui said bluntly, overriding everyone else with his booming voice. He did not want to be here any longer.
+
+“I’m afraid we may need to wait some time yet. If you were able to detect my signal, surely the Sect will as well, but...” Bian Ya began. Zhen felt despair and then anger. The longer they spent here, the more danger they were in!
+
+***
+
+Hanyi’s eyes widened as she felt the volcanic shell beneath her feet warm. Zhen let out a hiss like a steam vent. “Hey, d-dummy! Don’t take it out on everybody else!” she shouted up at him.
+
+“Hanyi…” Zhen hissed in irritation, and for the first time, she felt a little worried by Zhen’s temper.
+
+Su Ling, who had walked closer to peer at Ling Qi, shot him a worried look. “Hey, I want to get out of here too, but at this point, wandering around won’t do any good. This place…”
+
+“Nightmares are quite a thing in the proverbial flesh,” the blonde spirit chuckled, her grin stretching wider than a human face could normally manage. “You held up pretty well, cuz.”
+
+“I ain’t your cousin,” Su Ling snapped.
+
+Hanyi grimaced. Everyone was still fighting. It was really making her head hurt. The churning of the Dream wasn’t helping. She turned away. At least the part they’d come from seemed quiet…
+
+Churning darkness writhed, stilling and devouring raw dreamstuff. Hanyi’s eyes widened as she saw a pale figure rise from the center, surrounded by ribbons of shadow. A single black-veined eye, growing like a pustule from a pulsating heart, spun and met her gaze.
+
+***
+
+“Heh, well the deal was to make your song carry, I never said that no one else would listen in,” said the blonde spirit.
+
+Those words shattered the moment of stillness. Zhengui bellowed in alarm and tried to turn. He had to protect everyone!
+
+***
+
+Above her, Zhen spun and bared searing, white hot fangs as veins of sickly black corruption spread through the psychedelic dreamstuff all around them, pulsing and wet like exposed veins. Gui began to turn ponderously, far too slow as those veins flattened and sharpened, forming ribbons of black and red.
+
+Behind them, that smug spirit cackled and dissolved into drifting motes of pale blue light, and Bian Ya’s eyes widened in alarm. Her hand swept up, a war fan shimmering into existence as the wind kicked up, wrapping around them like a cloak, filling Hanyi with a lightness she had not felt since descending the mountain.
+
+Her fox companion was rising to her feet, and Su Ling was mid turn. Hanyi’s voice was just beginning to rise into Mother’s Aria.
+
+The rat-thing’s power finished gathering. A cage of ribbons closed around it, flat as paper, flatter perhaps as if it would disappear if viewed from the side. Two dozen ribbons writhed, coming together about its head, twisting into a spiralling lance that bloomed with power.
+
+It was power that was too familiar. Hanyi felt her stomach drop. She had tried so hard to access power like that. It was her birthright, it was! She just couldn’t get the hang of it! She could hear the faint wail of the Dream that touched it and felt it disintegrate, felt it End.
+
+The lance of Consumption shot forward, trailing ribbons of darkness, aimed squarely at Bian Ya.
+
+It struck Xuan Shi instead.
+
+It didn’t change course, and Xuan Shi didn’t move. Instead, Hanyi felt something in the world bend, and suddenly, the lance was flying toward Xuan Shi’s outstretched hand instead as if it had never been aimed anywhere else.
+
+The lance struck with a sound like a vast temple gong being struck. The scent of the sea tickled Hanyi’s nose as interlocking pentagonal planes bloomed out from Xuan Shi’s palm. Three layers thick, they exuded weight and solidity, each one looming like the wall of a fortress.
+
+The first layer shattered instantly, ground down, broken, Consumed. Xuan Shi’s sleeve was shredded, revealing a thick arm marked by patchy black scales.
+
+The second shattered, and ribbons of nothing split and splintered, shrinking the spiralling lance. Xuan Shi’s collar tore, and he grimaced as strips of skin were flayed back from wrist to shoulder.
+
+The third layer shattered, and gray lightning rippled out from the diminished lance, now more a beam of solid black. It struck his palm, and for just a moment, it looked as if Xuan Shi had caught the attack and stopped it cold in his hand.
+
+Then there was a spray of blood, and his shoulder erupted in gore as the lance shot off into the sky. But even as his left arm dropped uselessly to his side, he leveled his staff at the rat-thing and growled out a single word.
+
+“Return.”
+
+The will-hewn stone at their feet cracked, and the Dream howled as a hammer of force equal in power to the lance and more roared out like a tsunami.

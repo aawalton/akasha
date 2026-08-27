@@ -1,0 +1,169 @@
+---
+id: 18073048-b7a7-597c-a117-cb9f3febb0fe
+page-type-slug: story-chapter-royal-road
+title: "22 - Let's Teach Ingrid (1)"
+slug: 0022-22-let-s-teach-ingrid-1
+partOf: gamer-girl-evolution
+position: 22
+ownLength: 1974
+unit: words
+ownProgress: 1974
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2709294/22-lets-teach-ingrid-1"
+royalRoadId: "2709294"
+markedReadAt: "2026-06-29T20:06:17.354Z"
+---
+
+Celica took a deep breath in as she eyed the familiar marshlands. With Ingrid next to her, she felt much more energetic than usual. She smiled before she spoke. "Right, let's start with the basics."
+
+"Sure." Ingrid nodded, her body tense as she looked around.
+
+"Just relax, we'll be fine." Celica said as she waved her hand. Unconsciously, her eyes drifted towards the top of her user interface.
+
+[Ingrid - Level 12]
+
+Level 12 wasn't a bad starting point by any means, but it meant that they'd have a lot of work to do if they wanted to finish the main quest today. It would likely take two days, unless Ingrid was a quick learner.
+
+That sort of pace wasn't ideal for Celica as it might mean she wouldn't be able to minmax everything she wanted to, but it was a sacrifice she was willing to make for her carer.
+
+"What about the Cyclops? Didn't Slimonius say if we die to it it would result in true death? Is it dangerous for us to be here?" Ingrid said apprehensively.
+
+"Oh, that's true but... didn't you hear the announcement earlier?" Celica replied. She paused before continuing. "It said that Snapped Sword cleared the boss already."
+
+Ingrid looked shocked but she quickly calmed herself down. "There was an announcement? I must've been distracted..."
+
+I guess if she was in the middle of something the system wouldn't alert her, Celica thought to herself.
+
+"Anyways, we don't have to worry about the boss. For now helping you clear the main quest is the top priority."
+
+"Helping me?" Ingrid said slowly. "Don't you need to clear it too?"
+
+Celica paused before choosing her next words carefully. "I'm just about finished with the main quest. About one more hour and I'll be done. But you haven't even started right?"
+
+Ingrid nodded involuntarily before she exclaimed in shock. "You only need an hour to clear the rest of the main quest? You're much better at this game than I realised."
+
+Celica raised a finger to her nose and scratched it slightly. Her ego had always been her biggest weakness since the beginning of time. "Ahem, let's focus." she said as she cleared her throat, but it was more so said for herself than for Ingrid.
+
+"First, it's important for you to know how aggro works." Celica said, her voice taking on a more instructive tone than usual. "Look, I'll show you with this," she said as she pointed to a huge mass that was approaching them.
+
+[Mud Golem - Lv. 11]
+
+"Ew." Ingrid said with disgust as she eyed the creature. "It's way less cute than the slimes from the first floor."
+
+Unfortunately Ingrid, the mobs are only gonna get uglier from this point onwards, Celica thought to herself. She walked up to the creature and slashed as gently as she could while she spoke. "If I attack it like this, then—"
+
+[+0 EXP]
+
+"......"
+
+Ingrid looked at Celica with her eyebrows raised. "Did you just kill it with one hit?"
+
+Celica froze. She had forgotten she was already level 30. She couldn't get aggro from this monster because she couldn't attack it. If she did, it'd just instantly die.
+
+"Eh, looks like I did, aha... I must've crit or something..." Celica said dryly.
+
+"Crit? What's that?" Ingrid said curiously.
+
+"N-nevermind." Celica said as she shook her head. Looks like we'll have to do this a different way. Without a second thought, Celica unequipped her weapons and armour and all her titles. In the distance she could see more mud golems approaching.
+
+[Mud Golem — Lv. 12]
+
+[Mud Golem — Lv. 10]
+
+"As I was saying, if I attack it like this," she swung her fist out as slowly as possible, aiming to not damage it very much at all. In a flash, the first mud golem's health bar drained until it only had 0.01% HP left.
+
+"Now it will chase after me because I hit it last. In this way, people say I currently hold aggro." Celica said smugly, seeing as how removing all her gear and weapons had worked.
+
+"Uhm, Celica. Didn't you say it'd chase after you?" Ingrid said slowly, confused.
+
+"Yeah, I did say that." Celica said, oblivious.
+
+"Then why... is it running away from you...?" Ingrid said, perplexed.
+
+Celica turned and to her surprise the mob wasn't chasing her, instead both it and the other mud golem she hadn't hit were fleeing for their lives.
+
+"......"
+
+Celica cursed inwardly, the level difference is too high. Mobs aren't dumb, they know I'm not someone they can fight even though I removed all my armour and hit it as lightly as possible.
+
+"I didn't know mobs could feel fear." Ingrid said, wide-eyed.
+
+"Hm... it looks like my level is a bit too high for these mobs. I think it'll work out better if I tell you what to do and how to fight. Like a coach or something." Celica said with a sigh.
+
+She couldn't demonstrate any sort of combos or strats like this, she was just too high levelled. There weren’t any mobs here that she wouldn't one shot.
+
+"Celica, what level are you?" Ingrid said out of pure curiosity.
+
+She hesitated before replying. "Like... 19."
+
+"Woah, that's amazing! No wonder you have so many gold coins!" Ingrid said congratulatorily.
+
+I wonder how she'd react if she knew my real level and the real amount of gold I have, Celica sighed inwardly.
+
+"Okay, I want you to fight the next enemies, but first," Celica said as she reequipped her titles, armour and weapon. "Watch closely."
+
+She raised her sword before swinging downwards. Then she repeated the motion but this time doing so diagonally in both directions. With each swing of her sword a perfect flash of blue light followed.
+
+"That is the Slash skill. Next is Thrust." She held her sword so it was straight ahead and drove it forwards. An azure light followed the thrust as her sword pierced through the air at breakneck speeds. She repeated the motion a few times for Ingrid to see exactly how the skill should be executed.
+
+Of course it wasn't ideal not having a target to demonstrate the skills on but it'd do for now. At this early stage of the game, the enemies' weak points didn't have to be exploited in order to succeed. At best it would just save a bit of time.
+
+"Now you try," Celica said as she looked over at Ingrid.
+
+Ingrid nodded and drew her blade. She raised her sword and swung downwards, but not quite as fast or as decisive as Celica. She hadn't quite managed to activate the skill, but she wasn't far off. When she had started a green flash of light shined briefly until it extinguished mid skill, indicating that it hadn't fully activated.
+
+"Don't slow down the swing," Celica said like a martial arts instructor.
+
+"R-right." Ingrid said, her eyes resolute. She raised her sword and this time as she swung downwards a green light followed her blade.
+
+"Not bad." Celica said with approval. Getting the timing down on the second try was quite good for a new player. Especially one who didn't have experience playing similar games.
+
+"I-I did it." Ingrid said, a smile creeping onto her face.
+
+Sure it wasn't as cool or as perfect as Celica's earlier, but it was progress. For Ingrid that was enough. She wasn't the type to compare herself to others. Rather, she was the type to compare herself to who she was yesterday. And in that regard, she was already doing great.
+
+"Can you try the Thrust skill next?" Celica suggested. Ingrid nodded then mimicked Celica's stance from earlier. With a sudden burst of movement, Ingrid's sword pierced through the air as she rocketed forwards, a green flash of light following her blade.
+
+"First try?" Celica raised an eyebrow. "You might be a natural."
+
+"You think so?" Ingrid said in surprise. Although she'd spoken to Celica, her eyes hadn't left her sword. Celica watched her closely. She could recognise the look on Ingrid's face anywhere. It was the look of someone who was being drawn into the game.
+
+Without warning, Ingrid's sword danced in the mist, flash after flash shone out as she executed thrust and slash after slash. Suddenly, she was already in her own little world. Celica just watched on, choosing not to say anything.
+
+She remembered clearly the first time she played The Nine Realms and how much fun she had using the skills. She definitely wouldn’t want to interrupt Ingrid at a time like this.
+
+After a few minutes passed, as if Ingrid had woken up from a trance, she suddenly stopped dead in her tracks.
+
+"I didn't know I could feel this... cathartic..." Ingrid said as she looked down at her sword. "Especially not from a video game."
+
+"Well..." Celica started. I tried to tell you.
+
+"Looks like you have all the proficiency that you'll need for now. We should start grinding." Celica suggested. Although she said we, she really meant Ingrid only. Because if Celica joined in attacking the mobs it would be closer to boosting than grinding.
+
+For now coaching her from afar was ideal, after all, there'd be times when Celica wasn't there to help her. She had to be able to survive on her own.
+
+They moved deeper into the Marshlands and caught sight of a few more mud golems. This time, Ingrid took the initiative, eager to test out the skills she'd just learned.
+
+"Arrrgh." The droopy golem cried out as Ingrid's slash landed. Instantly it lost 10% of its HP.
+
+Ingrid's eyes widened upon seeing the damage as it was clearly way more than she was expecting. She didn't let it distract her however, she kept thrusting and slashing as much as she could.
+
+Her fighting wasn't perfect by any means but Celica could see potential in her. After about a minute had passed, the mud golem collapsed onto the floor.
+
+"That was amazing!" Celica said, trying to encourage her. "Just a small thing I noticed though is you took a lot of damage in the fight. A mistake new players often make is that they think it's about just doing as much damage as possible and ignore the enemy attacks in order to deal more damage, but actually, dodging is very important."
+
+Ingrid's eyes lit up as she heard the criticism. "Yeah I felt like something was wrong, but I couldn't quite put my finger on it. Now it makes a lot more sense..." she paused thoughtfully. "Alright, I want to try it again!"
+
+They went deeper and they encountered another mud golem. Ingrid continued doing her best executing the skills she'd learned. She wasn't using any combos or animation cancels but for this stage in the game she was doing quite well.
+
+And after hearing Celica's advice she'd began incorporating an elementary form of kiting. She wasn't dodging every attack but she was dodging a lot more than before.
+
+"You're improving really quickly. At this rate you'll be done with the main quest before me!" Celica said, glazing. The way she spoke made it seem like she'd forgotten that she already finished the main quest ages ago.
+
+"I think it's all thanks to your advice and demonstrations." Ingrid said calmly. She knew she wouldn't even have any skills if it wasn't for Celica.
+
+They continued on and Ingrid practiced on tens of mud golems, with her clear speed increasing marginally after each fight. Now she'd levelled up thrice and was already level 15. Seeing this, Celica altered the routing so that they'd end up encountering different mobs.
+
+And soon enough, they found their first obstacle to completing the main quest. It was the perfect challenge for Ingrid considering their levels were now identical.
+
+[Troll - Lv. 15]

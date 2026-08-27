@@ -1,0 +1,127 @@
+---
+id: 4dd97244-c98f-5e5a-a839-32477a267481
+page-type-slug: story-chapter-royal-road
+title: "Threads 478-Grudge 2"
+slug: 0523-threads-478-grudge-2
+partOf: forge-of-destiny
+position: 523
+ownLength: 1759
+unit: words
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2674907/threads-478-grudge-2"
+royalRoadId: "2674907"
+---
+
+Ling Qi, even bodiless, a thing entirely of spirit, felt a wrenching, sick feeling down in her core. She had experienced awful things. She had done awful things. She had scrabbled on the razor's edge of survival for years and years. The nameless roil of emotion that seared its way up the remaining connections between her and the shadow of this woman, Ming Xia, felt like they could drown her.
+
+She took hold of the flow and wove her fingers through the threads of this weave, as she had observed Sixiang doing in the back of her head and as she had done in interacting with the minds of others with her own technique. Pluck the strings, and bend them just so.
+
+Pause.
+
+The weight remained on her surface. She lay at the bottom of a vessel filled with choking tar and merely held her breath. As she paused though, she shut out the boiling sensation, and caught her breath.
+
+"Well, that's prolly a bit of the technique in itself," Sixiang whispered. They hovered over her, not quite touching. There was fear in them still, but she could hear the soft whisper of shimmering rainbow waves and the shoreline of silk and cushions.
+
+Her heart ached. She missed laying on that shore. Why did she take the time for it so rarely before?
+
+"I doubt I can pause a real person," she replied. There were no words, and she had no lips to move, but it helped her aching head to visualize it that way and to translate concepts into human sounds meant for human ears. It grounded her and stilled the throbbing in her head.
+
+"Maybe not. Bet you mess with your perception of time though. Thought moves much faster than flesh, if you can keep it up. Might make future heists go faster."
+
+"How are you so unbothered? Didn't you once think of leaving me and dissolving just to avoid feeling death?" Ling Qi wondered.
+
+"I did. I was nothing but spun sugar at the start, a muse of happy thoughts, born for a moonlit party and dance and meant to fade away with the dawn. That's what I was. But I decided to stay. We both know you can't persist as giggles alone. People don't get to only be one thing."
+
+"I made you like this."
+
+"I made myself like this. I just chose to be more real, so I could stay with you. You don't get to take credit."
+
+There was the ghost of humor there. They'd spoken of this before, but it hadn't truly sunk in what it meant, together with Sixiang's acceptance of the nightmare aspects within them.
+
+"So there's nothing in this…"
+
+"It hurts you. So, it's hurting me."
+
+That wasn't the same, she thought.
+
+"Then explain, please," Sixiang pleaded.
+
+What was a muse for, if not to bounce thoughts from? Sixiang's presence was an encouragement to her, even as her hold on the flow of the grudge deteriorated.
+
+"In an instant, Ming Xia was reduced from a person to an object. Even her own body wasn't hers anymore." Ling Qi shuddered. "And she walked into those chains and was happy in them until the end."
+
+She'd forced herself to step beyond that conception of love, but at least in these memories, love was a chain. Without it, that man's betrayal wouldn't have hurt so. And without it, Ming Xia would probably have dealt with the issue herself with one of the many medicines that could be taken before there was more than one missed moon. And in doing so, her life would have remained her own, or rather, within the cage she had made her life in any way.
+
+That was probably unfair. She had glimpsed the before in the context of Ming Xia's memories. She was not Ling Qingge. She had chosen that life, and found success and pride in it.
+
+Ling Qi had found that love didn't have to be a chain, but the Nightmare King's words did cling on. In the end, she hadn't fully refuted him. Power wove a chain out of mere threads.
+
+"Yeah, I get it. It's like what we could have done to each other. Taken something or changed something with the other having no say."
+
+"I see why this hurts you. I'm sorry, Qi. I hope you really do know. I'd have never done that."
+
+She knew that, in her head. That didn't mean the same part of her that had recoiled in horror from this grudge could fully dismiss the fear.
+
+The oily, sludgy qi of the grudge was beginning to work free from her grip, and she knew she couldn't hold it any longer.
+
+It roiled up and swallowed her anew.
+
+Gray.
+
+It felt as if the entire world had gone hazy, like the shadows cast on the wall by the fire. Immaterial and unreal. The house's physician came and went, bustling through and making comforting noises. They might as well have been the barks of a dog, for all she understood them.
+
+She had once been fond of physician Hong. The old woman had a grandmotherly air and a warm sense of humor. She and the madam were like sisters, or so it was said, and took care of the girls under the madam’s care.
+
+Farmers cared for their livestock. Distant memories of a time long ago drifted up, her father calmly telling her it wasn't good to become too attached to any of the pigs, when the time for slaughtering came. He'd signed her over to the brothel not many years later when the latest blight from the deep roots had wiped out half his stock. She'd not dwelled on that memory for many years. She'd moved past it and gone above it.
+
+She was Ming Xia, the jewel of the southeastern roots.
+
+Now, she realized, she had never once been anything more than a sow, dreaming that her pen was a palace.
+
+She'd wanted something outside it, and kind physician Hong had dosed her like a truculent animal at the madam's direction. For her own good. For the house's good.
+
+… Wei Jun. He had to have said something to the madam. Girls had children sometimes. Failures with the contraceptives happened. This, though, this didn't happen. There was even a place for children, a boarding house kept by the madam where their mothers could visit and raise them, and the customers wouldn't be bothered.
+
+Limp on the sheets, Ming Xia felt her hand clench over her stomach. It felt like it belonged to someone else.
+
+She wanted to die.
+
+She wanted to have bled out on the bed. To have never known the depth of what had been done to her.
+
+Ling Qi curled in on herself. She had known this. Had known despair under a cold winter’s night sky, the urge to just lie still and accept the creeping warmth of a midwinter death. It had always been a fleeting fancy, a net she clawed her way out of with stubborn will.
+
+It had never lasted so long as this.
+
+She didn't know how long she lay there, only that the words of soft encouragement and warmth slowly became more firm and even a little sharp. Ming Xia understood. At a certain point, a sick animal was better put down.
+
+Sharp eyes followed her. So did sneering words and hissed whispers. Ming Xia had never had friends among the others. She was their better. If they clung to her, it was only so they might climb over her head when she faltered. That had been her perspective. They were all, ever and always, in competition. And there was no friendship with rivals.
+
+She was weak and ugly now. Her hair was disheveled, her eyes dark, and her once perfect skin blemished. There was only so much allowance for sickness.
+
+She saw only the hungry eyes of scavengers.
+
+It was wrong. Even with only an echo, the filter of a long-dead woman's senses between them, Ling Qi saw the pity there. She heard the carefully arranged words that tried to offer comfort without breaking propriety. Not many. Not all. Some of the scavengers eyed her with envy, but she was not as alone as she thought.
+
+And it didn't matter one bit, because Ming Xia could no more see that than she could open the window of her room and fly away. Ming Xia would not have been so kind to another in her situation, and so, she could not imagine that anyone else would be.
+
+"No one can save you if you don't want ta save yourself, huh?" Sixiang murmured. "I didn't really understand that, before."
+
+Ming Xia stumbled through her days and through her duties. Her star fell. Distracted, inattentive, uncomely. Rumors snapped at her heels like rats. She found herself running errands for the house, going out to the market to collect orders like she was a girl half as senior as she was.
+
+She had no idea how long it had been. Weeks, months perhaps? Without going out, there was little way to tell in the rootways, and she had less reason to care. Then, one day, in the market, with a sealed scroll of fresh bolts of silk and fine thread under one arm, she saw Wei Jun again.
+
+He was walking arm in arm with a woman. She was younger, though it was hard to say by how much. The dim light of cultivation sparked in her, too. She was smiling up at him, pointing to a display on the side of the street.
+
+Wei Jun was smiling, too, looking at the girl with the same eyes that had once looked at her. There was no sign of anything but contentment on his face.
+
+She felt wetness in her palm, and a droplet of blood fell into the dust at her feet. Her gray, barely coherent world felt as if it was shrinking and crushing her from every side.
+
+How dare he be happy.
+
+Her eyes burned. There were no tears to shed. Ming Xia turned away. In her mind, there was only a roiling black void, like a ball of lashing thorns that wanted to strangle him, and strangle her, too.
+
+She stumbled, ignored the man who she shoved out of the way, and turned her feet toward the ramps that led down and down, to the ugly districts that lay beneath. She could not go back. She could not go back.
+
+No more. No more.
+
+They were going to pay.

@@ -1,0 +1,83 @@
+---
+id: 4319e1bc-d557-5948-9bd4-38bb4009cdb9
+page-type-slug: story-chapter-royal-road
+title: "Interlude: Outer Sect"
+slug: 0077-interlude-outer-sect
+partOf: forge-of-destiny
+position: 77
+ownLength: 1307
+unit: words
+publishedAt: 2021-03-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/646473/interlude-outer-sect"
+royalRoadId: "646473"
+---
+
+“Your support was invaluable as always, Miss Ma.”
+
+“You really are too kind, Sir Gun,” Ma Jun replied, twisting a strand of her hair between her fingers. Gun Jun, Lord Gan’s second, was very handsome; it was difficult to look him in the eye from so close. “I am but a poor replacement for Lady Ling.”
+
+Walking beside her under the dappled light that fell through the canopy of the trees, Gun Jun shook his head. “You do yourself a disservice, Miss Jun. Lady Ling was admirable in many ways, but your melodies bolster a warrior's heart like no other.” He turned his head to look at her, and Ma Jun felt her cheeks grow warm at the honest concern in his eyes. Dressed in robes of pale green rather than his armor, he looked very much the gentleman. “You are truly well, I hope? I saw the stray bolt which reached you.”
+
+Ma Jun shook her head in denial, pulling her eyes away from his face. She fussed with her pale grey gown, feeling flustered more than ever at the plain simplicity of it. Even now, she looked like a plain provincial bumpkin. “I am, Sir Gun. Please do not worry yourself. I did not neglect my defenses.”
+
+“It is a bit shameful that you needed them.” Gun Jun seemed dissatisfied. “I will do better next time.”
+
+Ma Jun looked down. “I thought that Sir Gun did very well.”
+
+It had been the biggest clash that had taken place yet in the year. Resources for second year students were scarce. The sites upon the mountain were barred to them, leaving them to range further and face more challenging foes if they wished to maintain their cultivation. But Lord Gan had led them well and helped them all secure potent cultivation resources.
+
+Naturally, their enemies sought to take those resources for themselves. Between Lord Lu and Lord Gan, the lines of control over the cultivation sites and hunting grounds of the Outer Sect were constantly shifting.
+
+“Now it is you who is too kind. If I had not been so impetuous, we would not have been flanked so badly,” he said, chuckling self-deprecatingly. “It was only by the caprice of that Xiao Fen that we were able to hold the field.”
+
+Ma Jun shivered. Xiao Fen was a frightening girl and made no effort to be less frightening to her allies. She could still remember the time that she had seen the girl entering the Medicine Hall wearing a horrible, empty expression after an ambush, an arrow in her back, cuts and bruises on her face and limbs, and a spearhead in her shoulder. Her attackers had been so much worse off. Yesterday, she had come out of nowhere and blunted the attack of an entire squad of the enemy forces for long enough that Lord Gan’s forces could regroup.
+
+Her sister was braver than her to keep approaching that girl. Honestly, how she could be friends with someone who so regularly left her with fractured bones was beyond her. But then again, Ma Lei had always been one to dive headfirst into thorns and thistles. “It is good that Miss Xiao is on our side.”
+
+“... Yes,” Gun Jun said after a moment, and an awkward silence fell, the earlier atmosphere dispelled as they both contemplated the battle. Soon, they arrived at their destination, a partial clearing in the forest where mossy stones of ancient Weilu construction poked through the earth. The potency of the qi which hung in the air spoke of the power that still dwelled here.
+
+As they passed through the crumbling archway that marked the entrance, Gun Jun straightened his shoulders. “Nonetheless, Miss Ma, you were most impressive yesterday, keeping us bolstered long enough for Lord Gan to arrive. I cannot thank you enough.”
+
+“It was only my duty, and Sir Gun’s leadership was invaluable,” Ma Jun replied quickly, her ill thoughts blowing away under the gust that was his earnest smile. “But I will accept your thanks.”
+
+“Miss Ma’s modesty is admirable,” he replied as they moved deeper into the ruined complex, seeking the pool where a spark of sunlight slept. “I had heard that you were attempting a breakthrough again?”
+
+“Yes. Unfortunately, I was not successful,” she murmured. She had tried again and again, but her only reward had been pain. It was hard not to become discouraged.
+
+But Ma Jun did not intend to give up. Father had worked so hard, exhausting himself to afford the Sect’s tuition. Her older brother was crippled by service in their lord's army, and her mother had never recovered fully from the red lung plague. She would break through before seventeen and receive an imperial writ. She would be able to support them.
+
+It was possible. Lady Ling proved that.
+
+“I believe you will succeed.” She was startled out of her thoughts by the feeling of Gun Jun’s larger calloused hand on her own. W-when had he stepped so close?! Ma Jun felt like her cheeks were on fire as she looked up at him. She couldn’t bring herself to snatch her hand away. B-but this was definitely improper!
+
+“I- Um, I wish you success as well, Sir Gun. I’m sure you will reach the third realm,” Ma Jun stammered.
+
+He laughed. “I certainly hope so. I will have to try not to disappoint you. Miss Jun… No, may I call you Ma Jun?”
+
+He was still holding her hand, and it was growing increasingly difficult to speak, so she nodded dumbly.
+
+Gun Jun smiled. “Then, Ma Jun, once our duties and cultivation are complete, would you like to-”
+
+His words were cut off as a faint whistling sound echoed through the sky, and his head jerked upward toward the sudden intruding presence. In an instant, she felt his qi rising as he interposed himself between her and the descending missile. Ma Jun hastily expressed her zither, a song rising to her lips.
+
+There was a thunderous boom, drowned out by an even more thunderous voice.
+
+“Ho, comrades! I did not think you would have wandered so far afield today!” Lord Gan’s voice echoed through the formerly silent ruin with the force of an explosion as he stepped out of the smoke that rose from his impact point.
+
+Ma Jun stared at him, an indefinable feeling swelling in her chest.
+
+Gun Jun, looking mortified, took a rapid step away from her, opening up the distance between them to something more respectable. “M-my apologies, Lord Gan. It was I who invited Miss Ma out for a stroll. If I had known that we were needed, I -”
+
+Gan Guangli let out a booming laugh and waved his hand in dismissal. “Nay, it is not duty which brings me here, but good news! I wanted to inform the two of you immediately!”
+
+Ma Jun felt her eyebrow twitch and her hand clench. It was definitely wrong to be angry at Lord Gan, but couldn’t he have… Couldn’t he have waited just a few more minutes?!
+
+Even Gun Jun seemed a little taken aback. “I see, Lord Gan. What is the news?”
+
+“Thanks to my lady’s support and everyone's efforts in harvesting our holdings, I have secured the services of a professional alchemist from the Wang clan’s subordinates,” Gan Guangli announced proudly. “I know many have been suffering from breakthrough backlashes. I have commissioned a batch of easing elixirs so that your attempts and that of our other companions’ will be more fruitful!”
+
+Ma Jun knew she should be overjoyed. And she was! Such a boon would greatly increase her chances.
+
+Yet she could not quiet her discontent and found herself standing still as Gan Guangli clapped his hand on Gun Jun’s shoulder and the boys began to excitedly chat about their plans.
+
+... How unfair.

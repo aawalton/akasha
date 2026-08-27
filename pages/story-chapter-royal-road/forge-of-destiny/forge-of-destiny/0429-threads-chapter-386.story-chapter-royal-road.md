@@ -1,0 +1,185 @@
+---
+id: de0a7c43-7701-524f-8d7a-543132e80a6f
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 386"
+slug: 0429-threads-chapter-386
+partOf: forge-of-destiny
+position: 429
+ownLength: 2113
+unit: words
+publishedAt: 2024-06-24
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1691578/threads-chapter-386"
+royalRoadId: "1691578"
+---
+
+"It's funny." Sixiang looked thoughtful after Xuan Shi had left.
+
+"What?"
+
+"He still likes you, but I think he's actually better for taking a step back."
+
+"You shouldn't center your whole life around another person." Ling Qi had seen where that led in Elder Jiao and Meizhen’s father. "It is not fair to them. Or you."
+
+Sixiang hummed noncommittally, resting their chin on their crossed arms, only to sit up straight a moment later.
+
+Ling Qi's eyes darted to the corner of the room where she felt the veil of reality distorting.
+
+Laughter and mist.
+
+"Hello to you too, Zheng Fu. I see they have not revamped the security much."
+
+Stepping out of the shimmering air, Zheng Fu grinned at her behind his scarf. "C'mon, it’s only been ten days. If you're worried though, pretty sure I'd already be dead if I was a baddie given the eyes on this place."
+
+"That's good to know." Ling Qi lifted her head and then down. She just had to get the qi circulating some more. She had promised not to cultivate, not to be completely still.
+
+He looked her up and down appraisingly, and she frowned up at him.
+
+"You really are nutty."
+
+Sixiang chuckled. "She's been reminded."
+
+She glared at the muse and then back at Zheng Fu. "I was not going to allow this summit to fail over an old man's tantrums, no matter how powerful he was. Not if I could do anything about it."
+
+"Nutty," Zheng Fu repeated, stepping up to the foot of her bed. "You wanna visit the ol' dreaming court together when you're fixed up?"
+
+"No, thank you," Ling Qi refused immediately.
+
+"Hah, figured. Worth a shot though." Zheng Fu shrugged. "Anyway, how much did the Xuan guy tell ya?"
+
+"Not too much. We were speaking more personally."
+
+"Guess that's why he blew me off. Ya'll are so stuffy," Zheng Fu complained. "I figured out there was a cultivation network going on and found the traces to where the bigger nodes were hiding in the dream. Spoke with Mister Inspector, and he directed me to Meng Dan."
+
+"So, you didn't just run off into the Liminal alone to punch that woman out," Ling Qi mused.
+
+His eyebrows climbed. "How much did you see?"
+
+"Not much more than that."
+
+He shook his head. "Not even gonna ask. This was a hell of a job, even with everybody working together. Real stuff, too; no one playacting here."
+
+He sounded distant, a little lost in thought.
+
+"Anyway, I'll be hanging around the Emerald Seas for a while, doing stuff for my master and myself.” Zheng Fu strolled around her bedside to the table beside it. He flicked his wrist, and then laid the small scroll that appeared in his hand on the table. "You or your boss need some muscle, or a pair of eyes, you can send to the address there, or use the formation to call me up. That bit will only work once, though."
+
+"Quite an offer from the Zheng clan," Ling Qi said warily.
+
+"Nah. My master thinks it's an investment. We missed out on big Cai, but I think little Cai's gonna shake things up, too, is all... Hrm. I best get out of here if I don't wanna get launched out the window by an irate snake. See ya later there, nutty girl."
+
+And then he was gone, nothing more than a swirl of mist and a shimmer in the air.
+
+"Is it that annoying when I do that?" Ling Qi wondered aloud.
+
+"Probably. You gonna stop doing it?"
+
+"Of course not."
+
+She felt her best friend well before her arrival.
+
+A dark current crashed down the halls, scattering other presences before it. Implacable and cold, it was a river poorly restrained from overflowing its banks.
+
+She braced herself as the door fell open, and slitted golden eyes fell upon her, imperious and full of fury. The wash of presence and pressure over her was like a cool, familiar blanket. "Lady Bai."
+
+"Baroness Ling," Bai Meizhen said, stepping into the room.
+
+Xiao Fen flowed in a step behind like a shadow. Xia Anxi quietly stepping in a few moments later, almost invisible under Meizhen's crushing presence, was more surprising.
+
+Bai Meizhen's cold eyes swept her from head to toe. Meizhen met her eyes, and Ling Qi held her gaze, tilting her chin up just a little.
+
+She was sorry, but she had no regrets. Not even under Meizhen's scolding gaze.
+
+Her best friend let out a breath, and she pinched her nose between her fingers. "It is good that you are well, Baroness Ling. I applaud you in denying foes and traitors even the smallest victory."
+
+"You honor me, Lady Bai. I would not die to such plots, whoever is behind them. I am certain my liege has extended her own apologies, but allow me to do the same. It is shameful that we have allowed our great allies, the Bai clan, to be touched by our internal plots."
+
+Xiao Fen was glowering at the world. Ling Qi felt bad for anyone who so much as twitched toward Meizhen right now. Xia Anxi, on the other hand, stared at her like she was mad, until their eyes met and his gaze flicked away. He readjusted the pile of scrolls and books in his arms uncomfortably.
+
+Meizhen had just diverted from whatever she was in the middle of, hadn't she?
+
+"It is well that you understand the gravity of what has transpired. Given past consideration, reparations are possible."
+
+A man with dark green hair and a Bai's golden eyes, filled with killing intent and then terror as they froze and burst, flashed past in her thoughts. The Bai's internal troubles had touched them, too.
+
+"I request that the Bai clan understand that this was the act of a small faction of rebels."
+
+Her friend nodded grimly. Her gaze flicked over Ling Qi again, and something in her aura spasmed, a dark killing impulse that left Xia Anxi shuddering. "Yes. Baroness, I must ask, will you recover?"
+
+"In good time. My foundations suffered no damage, though my advancement has been slowed. I merely need to recover and cultivate carefully."
+
+She could probably wrangle some small exercises in a month or so.
+
+Sixiang shot her a dirty look that she studiously ignored.
+
+"That is well." Bai Meizhen paused for a long moment. "I have been in talks with my teacher and my aunt over this incident. This matter was handled as well as it could have been."
+
+Xia Anxi grimaced.
+
+"Yet fault remains, and I accept it. Insult was given particularly to you, Xia Anxi, who was directly impacted. I hope that the remainder of your stay in the Emerald Seas is not so fraught."
+
+After Xia Anxi looked to Meizhen for permission to speak, he said, "I doubt two such rebellions will occur in my span here. Not after how well-crushed this one was. My praise, baroness."
+
+"The Emerald Seas, and I, thank the Bai clan for their understanding."
+
+"We will need to speak of reparations soon," Bai Meizhen said, almost apologetically.
+
+"You will have them." Ling Qi knew her friend was taking it easy here, but there were limits to what she could get away with. At the same time, the Meng were in a fragile place right now. "This might not be the place for it."
+
+"Indeed. When you are able, I will present my clan’s… requests to your liege and yourself. For now, rest well, baroness. Like myself, you have much work to do."
+
+***
+
+"Well, that will just about do. Comfortable?"
+
+Ling Qi considered the question, looking down at herself. It had been another two days since she had awoken in the medical pavilion, and she could at least move her head and arms and breathe comfortably while sitting up.
+
+The fact that she could not yet hold a cup or even an inkbrush with proper strength yet was… frustrating. It was partially due to the numbness. She understood that if her body's tactile sense was functioning properly, she would have had to shut it off herself or be overwhelmed by the pain. Right now, there was just a dull ache all over, sharpening with any sense of pressure. Even so, she understood that she had her physicians fretting, even doing this much. But they were cultivators, too. They understood there were limits to how far she could restrain herself.
+
+She was still wrapped in clean fabric bandages, cinched tight onto burnt skin and overlaid with silk talisman tags bearing potent healing formations. Not that anyone could see them, under the plain blue and black gown she had been helped into.
+
+She didn't like it. Objectively, it was well cut, lightweight, and loose. The simple embroidery along the hems was pleasing to the eye. It still felt wrong, rough, and ill fitting, despite her knowing there was no such thing.
+
+But there was no point in feeling sorry for herself.
+
+With great effort, she lifted her hands out of her lap and let them rest on the soft stuffed fabric armrests of her new conveyance. It was built from flexible, dark gray wood paneling, with black cushions beneath her, behind her back and head, and under her arms. Below, her feet rested on a snug cushioned shelf that kept them from the ground. Attached to either side were steel rimmed wheels wrapped in qi-treated leather. It would keep them from damaging floors, or so she understood. She let her head rest back against the high back, noting how well it conformed to her neck and scalp.
+
+"It's very good work, especially on such short notice," she replied.
+
+Bao Qian finished fiddling with whatever component of the wheels he had been adjusting and stood up. He hadn't changed much since she had seen him last.
+
+"Big Sis is so tall," Hanyi grumbled from behind her. "You're lucky I've gotten bigger too!"
+
+"Well, Master Zeqing was even taller than me." Ling Qi glanced back at Hanyi. Her little sister really had been growing quickly these days. She stood now behind Ling Qi with her hands on the push bars of the chair.
+
+"I can add some automation at a later date, but I wanted to focus on the smoothness of the conveyance and the posture support." Bao Qian wiped the metal lubricant from his hands with a cloth, standing up. "I hardly want you to be getting jarred by every little pebble and seam in the floorboards."
+
+When he had first seen her, he hadn't been able to hide the flash of horror at her condition, but then he had immediately started bustling about, taking measurements and notes.
+
+"Still not going to ask for the details of what happened?"
+
+"I'm sure everyone has been asking that. You'll tell me when you wish to. We'll have time. I'll be basing in the Snowblossom area to keep up with Miss Hanyi's rehearsals in the off-season."
+
+"That will be a better time for stories," Ling Qi mused, glancing toward the door of her office. Renxiang, Guangli, and she would be meeting with the White Sky and then the Bai before negotiations reopened properly.
+
+"Mhm. You’d better have them build me a cool shrine, now that Zhengui has that big geyser. An important lady can't be homeless!"
+
+"That would be a scandal." Bao Qian chuckled. "Ling Qi, regardless of whichever of the rumors I have been hearing are true, I am glad you are well, and I am impressed at this operation of yours. There is something heady in the air here."
+
+"Hopefully, not just the scent of smoke. I will be looking forward to projects with lower stakes for a while."
+
+He tilted his head. "You don't mean that. That chair is going to drive you mad, no matter how soft I make the cushions."
+
+She grimaced. "Not wrong, but lower stakes does not mean no stakes. I can still work, even like this."
+
+"You really are a strong one." He shook his head. "You make me feel like a layabout young master."
+
+"You'll just have to put more effort in then." Ling Qi smiled faintly.
+
+He barked a laugh. "I will do that. Looking forward to working with you, Miss Ling."
+
+"I, as well. I really do want to look into our shared ventures more. I've just had so little time," she sighed, shaking her head.
+
+"Of course. But do not let me make you late."
+
+"Indeed. Thank you, Bao Qian. Perhaps we can talk more on the journey back," she said. "Hanyi, do you know where to go?"
+
+"Yep!" Hanyi chirped, pushing her toward the door.

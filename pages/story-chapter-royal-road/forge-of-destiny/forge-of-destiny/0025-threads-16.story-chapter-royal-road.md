@@ -1,0 +1,119 @@
+---
+id: 69474dc4-e54f-5dac-9205-74a2bf373ea0
+page-type-slug: story-chapter-royal-road
+title: "Threads 16"
+slug: 0025-threads-16
+partOf: forge-of-destiny
+position: 25
+ownLength: 2939
+unit: words
+publishedAt: 2020-11-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/592151/threads-16"
+royalRoadId: "592151"
+---
+
+For three mornings every week, Ling Qi would be devoting her time to learning scoutcraft and tactics under the tutelage of her Senior Brother and later, the core disciple in charge. She was somewhat chagrined to learn, upon asking, that Guan Zhi was actually one of Elder Zhou’s nieces. She really did need to stop assuming things.
+
+That aside, she was already learning much. Seeing that she had some basic skill in tracking from time spent with Su Ling last year, Liao Zhu focused on teaching her the more esoteric aspects of tracking that were beyond mortal skill. The qi of a Cloud Tribesman had a different texture to that of an Imperial cultivator, and a keen scout could detect traces of a bound spirit’s partner in the traces they left behind.
+
+She was also learning the ways to detect the disturbances in the background energies of the world left by the passage of higher realm beasts and cultivators as well. It was hard to describe, but potent auras left behind ripples and eddies that could be detected long after their passing. She had begun to dampen the signs of her own passage instinctively over the last year, the lessons of Sable Crescent Step showing dividends.
+
+It was very educational, and Ling Qi was sure that she was on the edge of an advancement in her ability to conceal herself, but it had not come yet.
+
+Letting her idle thoughts drift away, Ling Qi turned her attention back to the present. “This is the place, huh?” she asked. It didn’t look impressive.
+
+They had climbed down into the depths of the new valley, now full of nascent greenery. The river, once haunted and corrupted, bubbled and flowed freely once again, clear and pure. Here, though, at the valley’s deepest point, the resurgence seemed tepid. The grass was yellow and withered, and the other plants stunted. A yawning crack in the ground, three meters long and half that across, stretched deep into the earth. The darkness within was no barrier to Ling Qi’s sight, and she saw only barren rock below. By the crack stood three squat square pillars of stone, carved with formations beyond Ling Qi’s comprehension.
+
+Li Suyin detected her unasked question as she fiddled with one of the many pouches on the harness she wore across her chest. “The reason we can approach and find it so easily is because we have the tokens that bypass the formation. Anyone else would be compelled to avoid this place. It also seals the hole against further contamination from outside, and vice versa.”
+
+“There’s something poisonous in there then?” Ling Qi asked with a frown, peering down at the chalky floor of the cavern visible through the crack.
+
+“It’s more of a mutual toxicity,” Li Suyin answered before gesturing for her attention. Li Suyin handed her a small blue pill. “This should shield you from the effects of the air below for six hours. If we do not go too deep. I have more if we look to be running longer.”
+
+Ling Qi took the pill, and after rolling it between her fingers, popped it in her mouth. It tasted like the fresh, unsullied air of an unspoiled vale, with a hint of mint. Next to her, Li Suyin was doing the same, but with two pills. Presumably, Suyin needed one more due to the difference in their realms.
+
+“Let’s not waste any time then,” Ling Qi said brightly. She’d keep her friend safe, and they’d leave this place laden with loot. She wouldn’t let it end any other way.
+
+She landed on the cavern floor in a puff of dust. The small chamber around her was still and silent. The withered remains of fungal growths clung to the walls and floor, and the scattered bones of vermin lay half-buried in the chalky dust that coated the floor. A faint, sickly sweet scent of rot and decay made her wrinkle her nose.
+
+Li Suyin descended slower, crawling down the wall with no regard for hand holds or grip. Ling Qi saw eight glittering eyes and fuzzy pink legs peering at her out of the girl’s backpack. Zhenli, Li Suyin’s spirit, wasn’t much of a combatant, but she could act as another lookout.
+
+<I guess I should start paying attention now too,> Sixiang murmured. <I’ll keep you free and clear.>
+
+<Thanks,> Ling Qi thought.
+
+“Why do you have that pack and all of those pouches anyway? Did something happen to your storage ring?” she asked as Li Suyin dropped the last few meters, landing with a thud that seemed thunderous to Ling Qi, even if it wasn’t truly loud.
+
+Li Suyin peered at her, and it occurred to Ling Qi then that her friend couldn’t see in the dark as she could. Ling Qi felt a small shift in the other girl’s qi, and the stitched patterns on her eyepatch lit up, casting a dim cone of light from its surface. “I want to save the space for reagents,” she explained. “And storage rings have trouble holding large numbers of complex or volatile formations.”
+
+Right. Something about interference with the ring’s own formations. That was why talismans took up so much more ‘space’ than mundane objects, or even beast cores and such.
+
+“Fair enough,” she acknowledged. “What’s our plan then? This is your expedition.”
+
+“Just a moment,” Li Suyin said. She pressed her hand to the wall, and Ling Qi cocked her head to the side curiously as a half dozen skeletal mice scurried out of her sleeve, skittering away into the cave. They formed a shifting perimeter around the two of them. Li Suyin next threw a pair of pellets to the floor, producing columns of smoke from which emerged two hulking skeletons. Ling Qi raised her eyebrows. Impressive.
+
+The first looked to be an evolution of Suyin’s first guard prototype. It had the skeleton of a bear sculpted into humanoid shape, save for its grinning skull attached low on its broad shoulders. The bones were bound together with silk and armored in overlapping bands of iron, and it clutched a heavy mace in one hand and a thick iron shield in the other. The second looked to have been crafted from a wild boar, its tusked skull sitting so low that it seemed to almost jut from its chest, and was armed with a heavy guandao.
+
+They were only late second realm, but they seemed like solid constructions. Ling Qi wouldn’t have much trouble with them, but they would even or tip the odds for Suyin against any enemy of her own realm.
+
+“Ready?” Ling Qi asked.
+
+“Ready,” Li Suyin replied and stepped toward the tunnel that led further down.
+
+Ling Qi found as they descended the twisting tunnel leading deeper into the earth that the further they delved from the surface and the sun, the more the caverns came alive. It began small. She saw stalks of wriggling, pale white fungus growing from the floors and ceiling, and they grasped weakly at the hems of their skirts as they passed.
+
+Towering columns of fungal flesh stretched from the floor to the ceiling of the next chamber, bloated and putrescent, their size crushing them against the ceiling and sprouting spider webbing growths of pulsing blue white mycelium across the roof. Pale lizards with blind, bulging eyes and mouths that trailed fetid spores darted in and out of the waving tendrils, chasing insectoid puffballs that moved about with jets of spore-choked air.
+
+Li Suyin seemed at ease, moving among the not-trees with a purpose. Ling Qi kept a wary eye open regardless, but it seemed this was not their destination. Li Suyin had already collected plenty of samples from here. Their destination lay deeper.
+
+Ling Qi glanced back as they descended from the first living cavern. “So, what should I be worrying about? Everything has seemed pretty docile so far.”
+
+“The third level is a bit more dangerous, and it is where I’ll begin harvesting,” Li Suyin replied confidently. “Um, the danger is mostly in carnivorous lizards and certain kinds of fungus. There shouldn’t be much real danger yet. Once I’ve harvested what I need, we can descend to the fourth. I turned back last time since I sensed a third realm presence below.”
+
+Ling Qi nodded as they reached the bottom of the tunnel. The growth was thicker here, and the wildlife more aggressive, though still not much of a hindrance. For the first time in a quite a while, Ling Qi had the chance to exercise her skill with throwing knives. Her songs would be far too destructive against such foes. Despite the novelty, it was difficult not to sink into boredom as she made a game of pinning the various lizards and fungus bug things with her knives when they got too close.
+
+Li Suyin’s guards did their share of pest swatting as well, and once, Ling Qi held back and let them handle a larger foe, a relatively strong second realm fungus beast that shambled out of the ‘woods’. The beast must have taken offense to Li Suyin’s cutting and sampling. They performed well enough, the shielded one summoning a barrier of wind that blocked the miasma of spores the creature released while the other efficiently removed its limbs and chopped it to pieces.
+
+“I am sorry if this is a little boring,” Li Suyin said, shooting Ling Qi a nervous smile as the thing stopped spasming. “I have been through these areas several times. Things should get more exciting soon.”
+
+“It’s fine,” Ling Qi dismissed. It wasn’t much of an adventure so far, but after her expedition with Shen Hu last month-
+
+<Do you feel that?> Sixiang asked.
+
+Ling Qi frowned as Li Suyin moved to harvest the dead fungus beast, looking down at the floor, drawn by Sixiang’s silent direction. There was a growing disturbance in the earth qi below her feet. A twisting, snarl with a ravenous, all consuming hunger at its core was approaching. Ling Qi’s eyes darted to the side as  vibrations traveled up the fungus stalks, and a pebble began to rattle.
+
+She flew to Li Suyin’s side, pulling her back as the floor beneath their feet shattered and fell. Her friend let out a surprised yelp but recovered well, landing on the now shattered, sandy slope of the sinkhole that had consumed the cavern for twenty meters around. Her constructs landed with heavy thuds, digging their weapons into the earth to avoid sliding further down. Even as they did, dozens of the beasts they had been casually slaying fell, squealing and fighting, sliding through the newly formed sand toward what lay at the bottom.
+
+What Ling Qi saw down there, unhindered by the darkness, was hideous. Once, she might have thought it nightmarish.
+
+Eleven beady eyes were haphazardly scattered across the misshapen face. It gazed balefully up at them from both sides of its vertical maw. Protruding a full meter from both sides of that maw were a pair of snapping, spiked pincers that gleamed with traces of metal in their chitin. The beast's body lay hidden, half-buried at the bottom of the sinkhole, and was shelled like a beetle's. Its two foremost limbs resembled the arms of an ape with three-fingered stubby, clawed hands large enough to grasp a human around the waist.
+
+The thing inhaled, and Ling Qi braced herself, along with her friend, as a pair of scrambling dog-sized lizards fell shrieking into its gnashing teeth, immediately ground up into gore and meat. The thing let out a ululating shriek then and turned hungry eyes toward the pair of them.
+
+Ling Qi grimaced as she felt a feeling of weight crashing down on her shoulders like the pull of the earth magnified. The feeling washed away in shimmering sparks of moonlight, but she saw Li Suyin grimacing, her shoulders drooping because of the pressure. Above, Ling Qi heard a faint crack, and a narrow fracture appeared in the ceiling.
+
+It looked like they were getting a bit of excitement after all.
+
+The air beside Ling Qi rippled, and her Singing Mist Blade wailed out. Ling Qi had made little use of her flying sword outside of spars yet, but now seemed like as good a time as any to start. As the blade darted toward the beast’s misshapen head and sang its discordant song, Ling Qi flooded her meridians with wood-aligned qi and activated her Deepwood Vitality technique, spreading its aegis across both herself and Li Suyin.
+
+She grimaced as she felt her technique fail to dissipate the heavy chains of qi dragging at her friend’s limbs, but they were both fortified now. Her flying sword made the beast flinch and snap, darting around its head like a bothersome bee, so she moved forward with the next part of her plan. There was no time to talk and make true plans, but she trusted Li Suyin to follow up.
+
+Ling Qi darted forward, passing Li Suyin’s twin guardians as she closed in on the beast. Compared to her, they moved in slow motion. A moment later, the beast loomed above her, malformed and ominous. She ducked under its swiping arm, her limbs shimmering and fading in and out of the cave's darkness. When she stood directly in front of the beast, she brought her flute to her lips and played the Spring’s End Aria.
+
+The beast flinched at the spread of the unnatural cold, frost spreading across its carapace and freezing solid the sand beneath her feet. Eleven glowing eyes fixated upon her, and gaping jaws opened wide, the metal-threaded chitin gleaming in the pale light cast by her friend's eye patch.
+
+Ling Qi heard something flying through the air and a puff as a tiny clay sphere shattered on the massive beast's raised forearm. The scent of fresh air and mint reached Ling Qi’s nose, along with a mild breeze that sent her hair fluttering. The beast found it much more distressing, letting out an earsplitting shriek as it pawed at its face and gnashed its jaws. It released another burst of heavy earth qi, but this time, it washed off of her without effect, and Ling Qi avoided the boulder that fell from above by taking a step to the side.
+
+Capitalizing on and maximizing the creature’s distraction, she sent her flying sword spiralling on a direct course for one of the thing’s glowing eyes, and as it swatted at the blade, drawing a shower of sparks where the edge met chitin, she bent her legs and leaped, carrying herself up until she was level with the beast’s maw. Hoarfrost Caress howled from her flute like a wild blizzard, and the gore, slime, and saliva in the creature’s mouth froze. Chitin split, fangs shattered, and one of the beast's eyes frosted over and exploded violently, showering her in frozen chunks of ocular fluid.
+
+How the beast shrieked! A swinging fist the size of her torso lashed out at Ling Qi’s side, only to careen wildly into the cavern wall as she dodged through it, becoming absence and void. However, the beast was not just flailing wildly.
+
+Even as she fell, her eyes widened as the beast hunkered down, curling in on itself. She had only an instant to see its chitinous flesh writhing, dull spikes on its carapace sharpening and growing in fast motion before they fired in a burst, hundreds of organic arrows firing outward in a moment. She twisted through the deadly rain, avoiding most and letting others flow through her, but several struck regardless. Her shoulder, abdomen, and thigh were hit, and the faint viridian light playing over her skin rippled and shattered, deflecting the last of the projectiles.
+
+Ling Qi’s ears caught no cry of pain from behind her either, only the staccato of impacts on metal and the feeling of her Deepwood Vitality fading. Her friend’s condition was confirmed when a skeletal crow zoomed past overhead and exploded violently in midair above the beast’s head, releasing a misty rain of rust-colored liquid. A little washed over Ling Qi, but it seemed benign to her. The beast on the other hand thrashed and flailed, some of the gleaming metals in its shell turning dingy and corroded, forming cracks in its carapace.
+
+Ling Qi’s flying sword sang again, trailing sparks as it skated across the creature’s carapace, and Ling Qi felt its hunger take hold. Through her connection to the weapon, she felt it hungrily siphon away the beast's qi, venting it into the cavern around them in a miasma of dark grey mist. As the beast raised its head, brackish, frozen blood flowing in slushy chunks from its jaws, Ling Qi struck again. The winds of winter howled, and another two of the beast's eyes exploded, and a fracture formed in one of its great snapping jaws.
+
+The cavern shook as it shrieked again, dust raining from the ceiling as the beast, maddened with pain, lashed out with spike-laden limbs. It swung furiously at the tiny figure darting around in front of it, shattering rock and sending up plumes of sand. The song of her sword carved into it relentlessly, and another clay vessel of fresh air shattered, darkening another eye as the ‘venom’ seeped in through broken chitin.
+
+The next time the blizzard sang, the beast gurgled, its shriek choked off as its wavering aura broke, and blood and saliva froze solid in its throat. The beast spasmed, a pulse of heavy qi erupting again and making the cavern rumble ominously, before shuddering one last time, and falling still.

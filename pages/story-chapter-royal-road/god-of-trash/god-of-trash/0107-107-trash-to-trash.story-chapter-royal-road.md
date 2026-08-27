@@ -1,0 +1,105 @@
+---
+id: f66a7a71-3795-5587-bf8a-e1e3dec0ad09
+page-type-slug: story-chapter-royal-road
+title: "107. Trash to Trash"
+slug: 0107-107-trash-to-trash
+partOf: god-of-trash
+position: 107
+ownLength: 2743
+unit: words
+publishedAt: 2025-06-21
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2374880/107-trash-to-trash"
+royalRoadId: "2374880"
+---
+
+Rhys grabbed a clump of energy that still hadn’t merged into the trash star. There were a few lumps like that, all of them the energy he’d drawn out of the guards. The energy clung to itself, taking a little longer to merge into the trash star than ordinary trash did. The energy passed through his hand and into the woman’s hand, but he didn’t release it yet. He kept dragging, pulling it through her body into the place where her core had been. She scrunched her face in pain and bit her lip, refusing to scream. Rhys sensed the damage inside her, the places where her passages were ripped and torn where the core had been ripped out, but he also sensed what her body wanted to be—what it knew it could be. He activated Trash Intent, and a core took shape inside her, reconnecting to her mana passages. The mana he’d pulled from the guard fueled it, forming its shape. The woman gasped as she felt the core inside her, but Rhys wasn’t done. He narrowed his eyes. He needed to fix it in reality, make it take physical shape, or else the second he released her hand, it would vanish.
+
+He had captured more than just mana from the guard, but also his vitality and any other energy he could absorb. Now, he fed the vitality into the woman, growing new cells from the mana passages. He fed the vitality and mana into her ruined mana passages and repaired them, growing them back along the shape that Trash Intent gave him. A core and mana passages weren’t entirely physical, but they weren’t entirely non-physical, either. Mana and vitality went into forming them, and he poured both into reforming hers.
+
+All the mana he’d gathered from the one guard vanished into reforming her core. Rhys drew out the mana of another guard and kept going, forming the last of her passages, then pushing further, shaping it into her core. At some point, he ran out of energy again, and drew out the mana of yet another guard. He transitioned from using Trash Intent to Trash Enchanting as the core took form.
+
+It was shockingly easy, but only because there was no mana in her body. Without preexisting mana, there was nothing to oppose him as he reformed her core. He could create ghostly rat forms, and if he thought about it, if he used vitality and had some rat cells, there was nothing to keep him from recreating life. In comparison, reforming the woman’s core with vitality and mana, when he had pieces of her mana passages and her natural body to start with, not to mention lots of experience reforging his own core, was almost trivial.
+
+The core he rebuilt wasn’t up to the standards of the one she’d had before. Her body was at least Tier 2, but the core was only Tier 1. Even so, it was a massive jump in power for someone who had been unable to process mana to be able to process mana once again. She could use spells, empower her body with mana, activate any techniques she knew… and potentially even Tier up again, with enough time and effort. It wasn’t a perfect, ideal solution, but it was better than nothing.
+
+And from the look on the woman’s face, better than she’d imagined possible. She gasped and stepped back. Putting a hand on her stomach, she looked up at him. “H-how…?”
+
+“Try it out. I don’t know how long it’ll work, or if it’ll work when I’m not here, but it’s better than nothing.”
+
+“Of course. I… thank you.”
+
+Rhys nodded, smiling earnestly for the first time in a long time. “My pleasure.”
+
+She looked over her shoulder at the other mages. “Can you do it again? For everyone?”
+
+Rhys shook his head. “No.”
+
+“Oh, of course not. I shouldn’t have pushed—”
+
+“Not yet. I need more guards.” Rhys’s eyes shone, and he clenched his fist. He knew how to do it, and he knew what the materials were. Now he just needed to put it all together and get the ball rolling. Nine more people to empower? It’d taken him three guards’ worth of mana to empower the woman. That was twenty-seven guards to go. Easy, simple math.
+
+She nodded, understanding. A flicker of doubt crossed her face, but she quickly pushed it down. “Let’s go.”
+
+Rhys nodded and strode up the passage, gesturing for the others to follow. Their eyes had been dead, full of the resolve of those who had given up, who were going to their graves on their own terms, not fighting for freedom. Now, though, their eyes were bright. Hope shone out from within them, and their hands clenched. The one who’d received a sword from the guards’ bodies drew it, testing it out for the first time, and another one ran backward to fetch the swords from the previous sets of guards.
+
+He didn’t rebuild his own core. Since he could only rebuild them to Tier 1, he was more powerful without it, working on pure garbage. True, he did have to continuously stoke the trash star, but that was fine; that was well within his abilities. To be honest, it was a deliberate decision to not reforge his core. Working on trash and trash alone felt more true to himself and his path, as if, rather than something that held him back, it was something that pushed him to be stronger, to push himself to the limits of his path and beyond, to constantly exercise those spiritual and magical muscles, and he was curious how far he could go with this new, strange mana system he’d built.
+
+He was confident he could reforge a rebuilt core to Tier 3, given enough time and materials, but that wasn’t the point. He wanted to try this new technique out, working on garbage alone.
+
+“I’m Korii, by the way,” the woman said, walking alongside him.
+
+“Rhys,” he replied.
+
+No more was said. No more needed to be said. They strode ahead, climbing the passages, fight burning in their eyes. From ahead came shouting and the clatter of boots. Four guards rounded the corner, weapons already in their hands and mana glowing on the blades. Rhys and Korii charged, while the prisoners with swords formed up around their fellows.
+
+This far down, the guards were still largely low-Tier. Two of them were at Tier 1, and the other two were Tier 2. Rhys closed in on the higher-Tier mages, leaving the lower-Tier ones to Korii. Two hands, and two mages. Each one slashed at him, launching the same well-regulated blast of sword aura at him. He dodged, having seen the regulation attack many times, and closed the gap in an instant. His hands landed on their faces, and the battle was over. Two bodies hit the ground.
+
+Korii clashed with one of the Tier 1 mages. The guard held his own for a few moments, but Korii’s higher-Tier body gave her the upper hand. She overcame his defenses and cut him down. Blood splashed over the wall.
+
+Before the guard could gurgle his last, Rhys rushed up and absorbed his energies. He turned to the final man, only to find that the rats had already taken care of him. Nothing remained but a stark white skeleton.
+
+Rhys checked the energies inside of him, then turned to Korii. “Who else is good at fighting and won’t panic in a pinch?”
+
+The Empire had kept them largely separated from their fellow students and anyone they knew, since it was easier to control them that way. Still, they couldn’t split up all the Purple Dawn students, and he’d seen Korii hanging out with other former Purple Dawn students early in their time in the mines, before they’d been truly ground underfoot, when some people had still held on to hope. Even if she wasn’t, she’d still have a better chance of knowing someone than Rhys, who’d come here with Ev, Az, and no one. He hadn’t seen anyone he’d known down here in the mines. If Ev was captured, she’d been taken to a different camp, though given how tough she was, she might have escaped. Az was… well, Az, and he wasn’t too worried about the cat man. Bast had escaped outright. He hadn’t seen Mouse since he’d descended into the mines; on one hand, he was worried about her, but on the other hand, her path had been to remain unnoticed, to blend into the background. If anyone was going to survive the invasion, it would be unobtrusive Mouse.
+
+Korii glanced back, then nodded at one of the men. “Blake, come here.”
+
+A blond man stepped forward, excitement in his eyes. He kneeled at Rhys’s feet and offered his hand up.
+
+Rhys pulled him back to his feet. “There’s no need for that. We need warriors, not servants.” He gripped Blake by the shoulder, and coursed the energy he’d absorbed into the man, rapidly rebuilding his core.
+
+More boots hurried their way. Korii stepped forward, raising her sword. “I’ll defend you. Stay focused.”
+
+Rhys snapped his fingers, and the rats raced over to Korii’s ankles. “They’ll fight with you.”
+
+“Understood.” Despite her response, Korii gave the rats a slightly uncertain look, but she simply turned back toward the entrance and raised her sword again, resolved to fight no matter what.
+
+Two guards rounded the corner. One had just long enough to shout before the rats overwhelmed it, while Korii rushed the second one and quickly took him down. Another guard raced down the corridor a second later, only to find the two dead guards, an armed prisoner, and a mob of rats. His eyes flew wide and his feet pedaled at the ground, instantly going for the retreat. Korii didn’t let him get far. Her sword flashed, and the man hit the ground with a thump.
+
+Rhys finished with Blake, and one of the armed prisoners offered Blake his sword. Blake nodded his thanks, then turned to Rhys. “I cannot thank you enough. My life is henceforth—”
+
+Rhys raised his hand. “No need. I’m just trash. From here on, your life is going to be worth so much more than trash. Don’t lower yourself by pledging yourself to me.”
+
+Blake’s jaw gaped. He quickly shut his mouth and bobbed in a bow, jogging over next to Korii to hold the line.
+
+Rhys made a quick circle of the chamber, absorbing all the trash that remained, then returned to the front lines again. He strode upward, with the two restored mages on either side of him.
+
+Guards rushed down toward them, and they cut them down. The rats swarmed, running over one another and circling around Rhys. Occasionally, one or two rats crawled out from the walls and the dark cracks and joined the swarm. They moved slowly, taking the time for Rhys to reforge cores for the other prisoners. It was good practice for Rhys, but more than anything, it raised their combat power exponentially for each mage he could return a core to. They couldn’t truly use spells, since they didn’t have any stored mana, but they could at least breathe in and start storing mana, and use it later, or pull the mana from the air and directly use it to empower spells and enhancement techniques. It was an instant boost, and a slow roll as each one regained mana and became able to cast more and more spells and techniques.
+
+As they climbed, they passed other groups of prisoners, working on the mines, sleeping, resting, eating; there was no meaning to the passage of time down here, and any particular prisoner was likely to be on a different day/night schedule than any other. Some of the prisoners just stared at them with dead eyes, no hope left to be moved, no belief left to extend; but some jumped up and joined their climb. Some of the dead-eyed prisoners sat up abruptly as they realized that the climbing prisoners had mana and jumped to join the climb, while some were too insensate to react at all. There was no time to save everyone; reinforcements would come eventually, and even at his strongest, Rhys was one Tier 3 mage. They had to escape before the Empire realized the true scale of this revolt, or all Rhys’s efforts would be for naught.
+
+Upwards. Onwards. A river of blood flowed from the guards, and their energies vanished into Rhys. Once the original ten prisoners had cores, they simply pressed upward. It wasn’t that the other prisoners didn’t deserve cores, but they couldn’t take the time to wait for all of them to get cores. Ten cores was one thing; a hundred cores was another. Ten cores, and they could escape before reinforcements came; a hundred, and they’d be doomed to failure as an Empire warship rolled in. The first ten prisoners shared what Rhys had done with the newcomers, and the newcomers extended the information outward. Some of the things Rhys heard at the end of the game of telephone were frankly insane, painting him as some godlike, saintlike persona. Rhys snorted, rubbing the back of his neck. It was embarrassing, but… for now, there wasn’t any point in fighting it. The prisoners needed something to raise their morale, and he was willing to be that thing, if that was what they needed.
+
+Up, up, up. With ten prisoners with Tier 1 cores slowly filling with mana and bodies far beyond that, Rhys not only had the power advantage over the guards, but also the numbers advantage. Tier 1 and 2 guards melted before them, since effectively, every prisoner was a Tier 1 who could fight over their Tier, and Rhys himself was capable of fighting at least one Tier up. A Tier 3 guard managed to slow them for a good twenty seconds before Rhys and the rats defeated them, and they climbed on. Higher and higher, with more prisoners following them with every passing floor, as the prisoners saw the giant mob of prisoners and decided to take their chances. They set their eyes upward and climbed, believing in a future that wasn’t this mine, endlessly chipping away at rock for resources that other mages would use.
+
+Fresh air. Rhys turned, startled. He’d almost forgotten what it tasted like, down in the eternal dust. He approached it, following that sweet trace. Guards rushed to block his way, and he cut them down, absorbing them, compiling their energies for more cores in the future, once they escaped and were as safe as they could be. Even with the trash star burning, there was plenty of room inside him for their energy. He didn’t quite understand where it was stored, but it was something like the void where his core had been, was still large enough to hold the core that had been, and that core was capable of holding massive amounts of energy, so as a result, the empty space that should have held his core could hold just as much.
+
+A iron door barred their way, rusted and barred. The prisoners stopped. Rhys stepped forward, approaching the door alone. He put his hands to the bar and pushed, lifting it out of its frame, then tossing it aside. One hand to either door, he shoved, and the hinges groaned as the doors gaped.
+
+Sunlight streamed in. Rhys lifted a hand, blinded. Tears streaked down his face, cutting paths through the film of dust that coated him. At last. At last. At last. He was free.
+
+The blindness passed. He lowered his head, looking down from the sky, down to the walls that still barred them in, down to the small army of guards blocking their way, and the Warden at their head. Their eyes locked, and the Warden smirked, drawing his sword. Black metal glimmered in the sunlight. This sword was not the regulation blade all the members of the guard received, but the unique weapon allowed to those who exhibited talent and loyalty toward the Empress. This man had skill enough to be recognized by the Empress. He was a threat like no one else who stood before him.
+
+The Warden leveled his blade at Rhys. “You’ve gone far enough, but this is the end of the road, prisoner.”
+
+“My path doesn’t end here,” Rhys replied, and charged.

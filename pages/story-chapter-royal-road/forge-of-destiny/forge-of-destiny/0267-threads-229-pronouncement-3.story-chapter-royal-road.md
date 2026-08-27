@@ -1,0 +1,135 @@
+---
+id: 7e1db005-fd8b-5fd6-936f-a757d21d55a4
+page-type-slug: story-chapter-royal-road
+title: "Threads 229-Pronouncement 3"
+slug: 0267-threads-229-pronouncement-3
+partOf: forge-of-destiny
+position: 267
+ownLength: 2535
+unit: words
+publishedAt: 2022-07-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/944028/threads-229-pronouncement-3"
+royalRoadId: "944028"
+---
+
+Standing in the sky above the four arenas, Sect Head Yuan He finished praising the virtues of the day’s combatants and of the potential that was to be shown in the finals the next day. He stood as tall as he had the previous year, just as unbowed by age, but the flash of oneness of supreme empathy Diao Linqin had shown her made Ling Qi see the whitening of his hair, the deepening of his wrinkles, and the harder grip on his cane.
+
+Sect Head Yuan He was ancient by any measure. At well over eight hundred years old, he was near the limit of even the lifespan of a seventh realm cultivator. How much longer would he last? And what would it mean when he was gone? She had not chosen the path of the Sect, but the thought still troubled her.
+
+“But before we finish this day’s observance, Her Grace, Duchess Cai Shenhua, has some words for us, both the people of the Emerald Seas and honored guests alike!” The old man’s voice was still a thunderclap, audible everywhere in the great colosseum.
+
+The radiance left their box, leaving only spotty colors in the corners of Linq Qi’s vision, and the Duchess appeared in midair beside the Sect Head. There was just the click of heels upon an invisible surface and the bloom of radiance, washing across the stands in every direction. When Cai Shenhua spoke, her face was invisible past the blinding light cast by her eyes, and her shadow was the silhouette of a rose, traced in immutable black under her feet.
+
+“I must congratulate the Argent Peak Sect once again. Their methods and teaching have produced still more talented cultivators for the realm, exemplars of what the youth should be! I feel more confident than ever in the future prosperity of the Emerald Seas, regardless of the foes who rise against us.”
+
+They were simple words, but the approval that followed them was like the swelling rumble of the sea.
+
+“Yuan He, Sect Head of the Argent Peak, you have my praise and admiration.” The glorious light dimmed as its human shell tipped her head, and Ling Qi could feel the absolute truth and sincerity of those words in her bones. The Sect Head bowed much more deeply in response. “So, I will not steal the thunder of announcing your own plans. Instead, my people, my guests, I have other news.”
+
+The rumble of communal sound subsided into silence, awaiting what she had to say. Beside her, Cai Renxiang stared down at her mother with extreme intensity. Ling Qi felt herself growing nervous in sympathy.
+
+“First, it is my honor as her steward in this province to announce the ascension of her Divine Majesty, the Empress Xiang, into the eighth realm. Welcome news for us all! Some of you may have heard this already through your own means, I am sure, but for the rest, let us all celebrate this happy occasion now!” The Duchess’ voice was jovial, despite still thrumming with power. The roar of approval from the coliseum was tremendous, and the Duchess did not speak for a time, allowing it to pass.
+
+“Less joyously, I must turn my words to the war which assails us from the cloud barbarians and those dark folk beneath our feet, allied against us.” Cai Shenhua’s voice turned more serious. “It is most vexing that the peace won by the bravery of Yuan He and the other heroes of the incursions be brought so short. So little time we have had to rebuild from the ruin wrought by the negligence of the Hui!”
+
+No approval now, just grave and ready silence.
+
+“But our foes are disunited. This Galidan is no Ogodei, despite the spirits he allies. The cloud tribes are not united at his back. Many, knowing the futility of igniting our wrath, have gone far away into the lands of ice. These dark people, these Ith’ia, have no leader, merely squabbling cities. Those who dare to strike us may be extinguished or subjugated at our will.”
+
+Truth, if framed more favorably, Ling Qi thought. No lies, no deception, just facts wrapped in words that people would accept.
+
+“But it has revealed some problems which remain, legacy of the chaos and mistrust wrought by those we rose against,” Cai Shenhua continued without pause, her voice rising. “My White Plumes, for two centuries now, have proven the effectiveness of central training and soldiers who need not go back to other labors when off campaign. It is thus that I announce the creation of another formation. My loyal counts will provide one-eighth of the soldiers and supplies which they have claimed, tithed from their own vassals at their discretion, and these will be trained by my White Plumes. This army, this Horned Legion, will serve all the Emerald Seas, and never again will we suffer a sluggish response to a foe. They will be housed at Xiangmen at the throne's expense. My own presence here upon the front shall offset any troubles from the movement and training of soldiers.”
+
+Ling Qi blinked, raising her eyebrows. The sound from the other stands mirrored her surprise. It was approving, but there was a certain note of uncertainty to it. Ling Qi was certain there would be quite a bit of grumbling back in the pavilions. If there was one thing she was certain of, it was that people with power were loath to give up a single scrap of it.
+
+“Lastly,” said the smiling Duchess, paying no mind to the more muted response, “is more personal news. I plan to set aside my lord consort, Diao Luwen.”
+
+Beside them, the bored looking older man grunted, straightening up in his seat. He stood, not giving them a glance, and appeared below in Cai Shenhua’s shadow. He was not a short man, but beside her, he seemed positively shrunken.
+
+“It has been my honor to serve in this role for so long.” Diao Luwen managed to raise his tone from active disinterest to bland formality. “And neither I nor the Diao clan bear a grudge for this change.”
+
+“You have been most cooperative, and in this action, I mean no insult. It is thus that I request that you remain as my Minister of Works.”
+
+“Nothing would please this humble man more.” Diao Luwen bowed deeply.
+
+“I can see the confusion that is upon you all,” Cai Shenhua said, her voice returning to its more usual languid amusement. “If there is no disagreement or grievance, why? Let me ask a question instead. Many of you have now seen my youngest daughter, complimented her health, and heaped praise upon future talent. Truly, Cai Tienli is a normal, healthy child without blemish as attested by the Medicine Saint and by your own eyes. And so, I must take responsibility and wed her other parent, Prime Minister Diao Linqin.”
+
+Complete silence. She and Cai Renxiang were alone in the box now. Diao Linqin stood beside the Duchess, and where their arms linked, the colorless radiance bled into a pale rose pink.
+
+“It is still a complex procedure,” Cai Shenhua said breezily. “But I have severed one of the last shackles of mortality for those who have reached the fourth realm. I have shown the Medicine Saint and my own highest physician the methods and instructed them to share it freely. I will not bore with technical details. The wedding shall take place on the tenth day of the next year.”
+
+Ling Qi leaned back in her seat under the rising sea of noise as the Duchess’ speech began to go into pleasantries and talking up of war efforts as if she had not just said something absurd. Artificial conception of human life was supposed to be impossible. Ling Qi had learned that in doing research on the nobility. It was why marriage contracts were so important and why relationships like Meizhen’s were frowned upon and pushed to the side.
+
+Cai Renxiang beside her was frowning deeply, so much so that her eyes were nearly squeezed shut. She didn’t speak up.
+
+<Sixiang,> Ling Qi thought, <what in the world was that woman doing?>
+
+<Don’t ask me. I still don't quite get how that stuff works for you. At a guess though… scattering complaint. The new army formation and the wedding are two different angles. It gets people arguing in different directions, maybe?> Sixiang wondered. <But being honest here, Ling Qi, you can’t expect me to know all the layers to what someone like that is doing.>
+
+Ling Qi nodded faintly. To her, it felt weird and strange to think about. To a lot of other people, it was going to be outright outrageous. Maybe even more infuriating than the tithe of soldiers, especially for those outside the Emerald Seas. How would the Bai, who strained so hard against any change, react?
+
+Diao Luwen returned first, appearing at the back of the box and descending without a word. The Duchess and the Prime Minister came next, Diao Linqin smiling for the first time Ling Qi could recall, while the Duchess wore a certain aura of utter satisfaction that Ling Qi found just as alien and uncomfortable as her attention.
+
+“Why, Mother?” Cai Renxiang spoke to Ling Qi’s surprise. “Why spend so much goodwill for this?”
+
+“It is important to remember where you began, my daughter, even if it costs you.” Casting a single blinding glance at them, Cai Shenahua swept away down the stairs. “Do try to remember that as you rise.”
+
+***
+
+“It’s over,” Ling Qi murmured. The wind tugged at her hair and gown, sending them rustling atop the high grassy hill. In the landscape stretching below, Ling Qi could see the increasingly empty fairgrounds, filled with temporary mansions and pavilions in various states of deconstruction. Only the billowing pavilion of the Cai remained untouched. The Duchess would remain, as would her newest daughter. The Prime Minister would be returning to make the arrangements for the state visit of Sun Shao.
+
+“We end in triumph.” Gan Guangli said. His thick arms were crossed over his chest, and he held his head high. His final bout against Han Jian had been explosive, providing a worthy show for the final day of the tournament. Both of the boys had been closely matched, but in the end, it was Han Jian’s blistering speed and piercing sword that had carried the day.
+
+“We have only reached the starting line,” said Cai Renxiang, standing between them. She would have been in their shadow, were it not for the radiance that gleamed between the strands of her dark hair, its light banishing all such things. She stood as she once did long ago the first time they had met, square shouldered, her sword planted tip down in the earth, her hands clasped atop the hilt.
+
+“It is not pride to acknowledge victories.” Gan Guangli did not look away from the departing nobles. “If this is the starting line, then it is for a contest we have fought hard to be included in.”
+
+“As long as you know where we’re going, it’s a contest I’m sure we’ll do well in,” Ling Qi said more lightly. “Lady Cai, about what the Prime Minister said to me…”
+
+“Thank you for informing me of that woman’s interjection. I promise you that we will discuss it all once I have had some time to process my mother’s instruction. I do not believe myself capable of conveying her intent accurately in my current state.”
+
+Ling Qi gave the other girl a worried look out of the corner of her eye. She had shed most of the outward signs of her mental exhaustion, but Ling Qi did not doubt that her liege was still feeling haggard. “Cultivate well, Lady Cai. Just remember my advice.”
+
+“I still recall the girl whose words and conviction tore apart the rationalizations of men a century and more her senior in a decrepit village of the hills. You are strong, Lady Cai, in the ways which truly matter. Though you might doubt yourself, know that this Gan Guangli does not.”
+
+“I thank you both. I cannot promise to rest, Ling Qi. It is not in my nature. Gan Guangli… I cannot promise perfection, not as I once did.”
+
+Gan Guangli’s wide shoulders rolled in a shrug. “You know my belief, Lady Cai. Perfection is something to be reached for, never achieved. The struggle to be better is what matters.”
+
+“I know you well enough, Lady Cai,” Ling Qi said. “But let's have a spar again sometime, or do some light work over tea. I know you have that much in you.”
+
+Cai Renxiang let out a small huff, halfway between amusement and exasperation. “Promise me that the both of you will continue gainsaying me when you believe I am wrong.”
+
+“Always,” Ling Qi said, smiling breezily.
+
+“Of course,” Gan Guangli said gravely.
+
+They stood in silence for a long moment, watching more lanterns flicker out.
+
+“If I may, Lady Cai, do you have any insight into your mother’s intentions with Cai Tienli?” Gan Guangli asked.
+
+“On her unorthodox birth? Little. Her domain has always been the creation of artificial spirits. This seems merely an extension… or perhaps a culmination. Of her continued presence? I suspect she will attract much negative attention. However… I worry.”
+
+“The Sun,” Ling Qi said. “There is something wrong with Sun Liling.”
+
+“There is something wrong with the whole scenario,” Gan Guangli rumbled. “That they have the troops free to go south and that King Sun is intending to visit Xiangmen in person.”
+
+It had always been that Sun Shao did not leave the Western Territories. Ever. That he did so now was unsettling.
+
+Sixiang’s whisper entered her head, Ling Qi glanced to the side, troubled.
+
+“You have a thought, Ling Qi?” Cai Renxiang asked.
+
+“Just… You remember the story of the Sage Emperor? The Priestess of the Red Garden used the life conceived between the two of them to slay him. Lady Bai Suzhen doesn’t have any children, but…”
+
+“Surely the Sun would not consider outright treason?” Gan Guangli frowned. “Although… They are somewhat cornered given the Bai’s resurgence.”
+
+“A thought, indeed,” Cai Renxiang said quietly. “Let us focus on the tasks at hand. For now, the two of you collect yourselves. I require cultivation, and the month ahead shall be very busy.”
+
+Ling Qi gave a small nod, and the three of them split up. Her feet lifted from the grass, and Ling Qi soared away toward the far dimmer, twinkling lights of the town at the base of the Outer Sect mountain.
+
+There, she landed outside the gates of her mother’s house and passed within, walking at a mortal’s pace. Here, there was no indication of the events that had transpired, the connections and wheeling and manipulations. There was just a home and a small garden where she was greeted by her mother and sister. She always found herself itching for their company after encountering the Duchess.
+
+… Perhaps it might not be a bad thing to invite Renxiang over, at least once.
+
+A thought for later. Duty would beckon soon.

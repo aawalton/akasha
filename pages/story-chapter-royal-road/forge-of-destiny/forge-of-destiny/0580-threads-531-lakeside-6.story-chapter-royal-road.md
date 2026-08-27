@@ -1,0 +1,137 @@
+---
+id: 1564cfb3-9bf4-507f-9c74-3f2f29e1c351
+page-type-slug: story-chapter-royal-road
+title: "Threads 531-Lakeside 6"
+slug: 0580-threads-531-lakeside-6
+partOf: forge-of-destiny
+position: 580
+ownLength: 2123
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3687148/threads-531-lakeside-6"
+royalRoadId: "3687148"
+---
+
+They went down, down into the depths where sharp spans of crystal reached out like talons on every side. Ling Qi didn't begrudge Xuan Shi the chance to show his navigation, sailing an elegant spiral that kept any point from so much as scraping the hull.
+
+"What is your answer then? What is your vessel? It's all well and good to say that you want to innovate, to strive, and to advance in careful steps, but what are you journeying toward?" Ling Qi asked.
+
+It was only fair to ask, when he already had.
+
+She was greeted with the rush of water and the creaking of the sails and hull. As they slowly curved around a glowing hot vent in the cavern floor, steadily releasing a stream of steaming bubbles, he answered, "This one wishes to journey to the spaces where the maps are sparse, the places where things are lost or forgotten. This one no longer wishes to disappear over the horizon. There is still much to see, close yet far. More should be able to walk long roads, to travel far, and to glimpse those sights. This one is unsure of the mechanism, but a vessel to open roads to those who may not tread them in the world that is? That seems within this one's means."
+
+To journey without end, without disappearing… Yes, she could understand where he was coming from. She thought of moons and burning libraries, of countless nooks within endless kilometers of roots, and of hidden glaciers and crystal caves. The world was dense with secrets to find and explore.
+
+"It is. So long as you keep clear eyes and don't listen to Kongyou too much, I won't doubt you can reach that."
+
+"A deep grudge indeed. Should this one fear for their companion out amongst the waves?"
+
+"Hardly,” Ling Qi dismissed. “I'm not so underhanded as that, at least, not with friends."
+
+"This one would repeat the question."
+
+She made a face, but conceded the point. She began to reply, only to glance down into the depths of the stone passage boring down into the earth.
+
+That pressure. Wait. What in the moons could they have done to—?
+
+"Um, batten the hatches?"
+
+Xuan Shi blinked. "This vessel does not…"
+
+Then, his eyes widened, too. Ropes snapped tight, and the wheel spun in his hands.
+
+The lakewater roiled, erupting in a stream of pressure from the depths of the cavern they were sailing into. Ling Qi reached out with her thoughts to the waters of the distant dreaming mind of Snowblossom, but there was no anger or malice, or even affront and confusion, in it.
+
+Like a cork erupting from an overpressured wine bottle, they shot upward, spinning and spinning. The dream churned to whitewater all around, making her wary to dance them away. Instinctively, she grabbed on more tightly to Xuan Shi's arm, and he did the same to her, clutching the wheel with a white-knuckled grip and planting his feet immovably to the deck as he painstakingly steered the bow of the ship upward, drawing in the sails and slowing the wild spinning of the ship.
+
+During the frantic seconds, she heard rushing bubbles, churning water, and the faint boom of tons upon tons of water crashing back together in their passage. Then, they erupted from the moonlit surface of the lake. Water rushed up on all sides around them in a shimmering curtain as they soared into the tri-mooned sky, only gradually falling away from them while they flew upward among a glittering sea of droplets. Time seemed to slow as they reached the top of their arc.
+
+It was rather beautiful, looking down at the surface. The wide ripples of their exit scattered over the serene surface.
+
+Then, they began to fall. The wind ripped at the rigging that was still loose. Ling Qi found herself unable to alter the dream to pull them out!
+
+The crescent of silver light hanging in the sky twinkled down at her.
+
+… It seemed that aunties, spirits or no, couldn't help being meddlesome.
+
+She breathed out, and mist gathered around the hull. Holding onto her, Xuan Shi grimaced, keeping the ship's control steady as its arc curved down.
+
+They struck the water with a crash and plunged back into the deep. Ling Qi felt the icy chill of being soaked to the bone rather than moving through the water without letting it touch her.
+
+They bobbed back to the surface a moment later, water pouring from the decks as they broke the surface. Xuan Shi's head snapped up, his hat knocked askew, only hanging onto his head by the chin strap. His eyes shot from mast to mast, searching for damage.
+
+"I wouldn't worry. Someone was just playing a joke on us," Ling Qi commented.
+
+Xuan Shi really was a little strange looking, both in the dark sclera of his eyes, the patchy scales, and the ridged pattern of his scalp under short dark hair. However, the shape of his jaw wasn't bad.
+
+And even if she couldn't see it, she could feel the firmness and strength of the arm around her waist. … They were really, really much too close.
+
+He seemed to realize this at this same moment, and his arm snapped out straight, releasing her like she had suddenly caught fire. She flicked her gaze away, stepping swiftly to the side herself, and reached up to check the ornaments and threading in her hair. It was all askew, but a quick check showed that nothing had been lost.
+
+"A jest?" He sounded utterly bewildered until he followed her eyes up. "... Ah."
+
+Ling Qi plucked at Qiyi's silk, and her dress responded with a quiet, happy hum. She wasn't sure why Ling Qi was wearing her for washing time; she was upset by the lack of soap, though. Ling Qi was very glad at how many layers her gown was made up of. It made Qiyi hang heavy on her, but it kept her modesty well. She still turned away, feeling Xuan Shi's gaze on her.
+
+"Why don't we sail around the surface a little longer, while I dry us out? We probably shouldn't go back to Shenglu like this."
+
+She heard him swallow, turning back to the wheel. "This one agrees. T-there is a quarters space below, if the lady wishes to make use of it."
+
+Even with the surprise, she was glad for this. She liked flying, but sailing wasn't a bad option either. She hoped they could do this again.
+
+***
+
+"I still can't believe you two let my ride just get washed overboard!"
+
+Ling Qi rubbed her forehead and sighed. "I said I was sorry. We went back to look for it, didn't we?"
+
+"And you wouldn't have found it if auntie wasn't feeling nice," Sixiang retorted, crossing their arms over their chest.
+
+"You don't know that!" Ling Qi defended herself, if feebly. It was very convenient that the doll body had washed up on the shore of the dream lake near where they popped back in to look. "My focus probably brought us to it. Li Suyin's work wouldn't dissolve so easily."
+
+"It feels soggy in here," Sixiang complained. A look of exaggerated disgust adorned the puppet body. They shook out their hands, causing droplets of lakewater to fall from their fingertips.
+
+Ling Qi rolled her eyes. "Oh, hush. I can feel you cultivating the lake qi. You'd have expelled it all by now otherwise."
+
+Sixiang stuck out their tongue at her as they crossed the checkpoint that had been erected at the start of the dirt path that wound up toward the worksite.
+
+Small trails of dust stretched into the sky from where the earth was being moved. The sound of workers shouting and heavy loads being dragged echoed down from the hilly region they had chosen for the fire spirit’s outlet.
+
+The site was well back from the land cleared for farms, south and west of Shenglu and Snowblossom. It was nestled between two peaks of low to middling height that would provide some additional, natural shielding to prevent debris and worse from washing out. Like much of the terrain in the region, it had been carved out by the retreat of glaciers, and so, the natural qi of the region was cold and damp, which could be amplified by proper geomancy.
+
+She and Sixiang came into view of the worksite only a few moments after leaving the main road, courtesy of a bit of swift weaving in and out of the liminal to avoid disrupting the ongoing work with a more vulgar form of speed.
+
+Heavy pylons of carved mountain rock had been hammered into the ground at regular intervals across the valley entrance. One lay on a rugged wain still, not yet installed, bound in place by numerous ropes. It was some four meters high and wide enough around that it would take three workers with outstretched arms to encircle it. Dense formation work had been etched in the parts of the pillar that would be driven into the ground, with deeper lines carved into the upper half, spiralling toward the top. Sparser but starker characters carved between those steel inlaid lines.
+
+The workers hauled the yet unplanted pylon toward where it would be placed.
+
+The land beyond had been flattened, the highest hillpoints dug down, and the deepest crevices filled in. The vegetation was stripped away, leaving bare dirt and gravel. This would deny the flames kindling, both physical and spiritual.
+
+Zhengui towered in the middle of the site. There were many beasts on him. Birds perched on the shelves of his shrine, and rodents, foxes, and other smaller beasts lay at his feet. The population of the small vale gathered before their would-be king.
+
+Even if Zhengui intended to regrow the site after the contest with the fire spirit, it was still an intense and traumatic change they were bringing. There was really no way around that.
+
+Deep channels had been dug throughout the flattened vale, lines of formations etched into the earth itself. The channels were being filled by workers who followed behind the digging teams, filling it with a liquid stone imported from the Celestial Peaks. This material would harden and allow the formation of arrays along the surface once it was sanded flat.
+
+The planners were fairly certain that most of the material would be destroyed in the clash, so there was not much worry about having to break it back up after to let natural flows reassert themselves.
+
+She found Xuan Shi near the center of the worksite. He stood by a massive ceramic seal, a round plug set on its side next to the equally-sized opening in the ground. The tunnel plunged straight down, and was also lined with the hardening stone mixture. A simple ladder was set on one side of the tunnel. If she extended her senses, she could feel the tunnel going off toward the cavern reservoir where the flame spirit resided.
+
+Xuan Shi's hat was tilted back, the brim touching his shoulders as he craned his neck, looking up at the designs on the plug. She recognized the dense characters of the oath she had made with the flame spirit, woven through prayers and invocations of other imperial spirits.
+
+"Thank you for agreeing to look things over!" Ling Qi called out as she approached. She flitted up the hillside in a shimmer of shadow and breeze with Sixiang beside her.
+
+"It is no trouble, but Sir Meng is a far greater expert than this one could be in one hundred years," Xuan Shi replied. He brushed his hand over the surface of the plug, flicking away a bit of dust.
+
+"He's much more than one hundred years our elder, so that's no insult," Ling Qi said.
+
+"And he's more restrained in what he does," Sixiang continued. "You think it all looks good?"
+
+"This one has knowledge of foundations, but the art of containing the breath and blood of the earth is a different school than the arts I have pursued. Still, this is potent, as potent as one can be without Law. It will be a deadly fracture if aught goes poor."
+
+"Not going to scold me for inviting such danger upon myself?" Ling Qi asked.
+
+"Is Lady Ling confident in her safety?"
+
+She considered correcting him, but he wasn't going to use her full name without a title out in public like this; he was too formal for that. "I am. Nothing is ever completely certain, but I would not have agreed to this contest if I had any strong doubts about the outcome."
+
+"Then, this one shall trust Lady Ling, too.”

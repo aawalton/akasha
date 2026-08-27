@@ -1,0 +1,193 @@
+---
+id: 7e7f0233-e42c-5155-8418-ba2d5c60daef
+page-type-slug: story-chapter-royal-road
+title: "Threads 92-Diplomacy 1"
+slug: 0113-threads-92-diplomacy-1
+partOf: forge-of-destiny
+position: 113
+ownLength: 2979
+unit: words
+publishedAt: 2021-06-07
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/695546/threads-92-diplomacy-1"
+royalRoadId: "695546"
+---
+
+“So, how are things with your new spirit?” Ling Qi asked as she entered the archive with Yu Nuan.
+
+Yu Nuan had changed since the last time she had seen her. Streaks of blue and white marked her spiked hair, and a few of the little metal studs that pierced her ears and other parts of her face had been switched out for nodes that crackled with thunder and lightning qi. The other girl still seemed a little out of her depth, having taken Ling Qi’s sudden invitation to join her at the archive with bewilderment and hesitant acceptance. Ling Qi wondered if this was what it had felt like to be Xiulan early last year.
+
+“He’s a good boy,” Yu Nuan replied uncertainly. “I expected him to be more rambunctious, but he’s actually kinda…”
+
+“Kinda what?” Ling Qi asked as they passed the entrance desk. They both had permissions for the first floor so there was no reason to stop. She searched the trails of qi drifting through the air before turning down one of the narrow halls between the towering book shelves.
+
+“Kind of a big friendly doof.” Yu Nuan sighed. “Slobbers on everything, leaves scorch marks everywhere. I come outta cultivation and find he’s decided to sprawl on my lap like a giant electrified sandbag.”
+
+Ling Qi gave her a sidelong look. “Not quite what you were looking for?”
+
+“S’not that bad,” Yu Nuan grumbled. “Got into a scuffle in the woods ‘n he pulled his weight. Just not what I expected.”
+
+“Well, I’m glad you're getting along.” Ling Qi glanced at the intersection ahead before turning left.
+
+“What are we here for?” Yu Nuan asked, trailing a step behind her. “I know I said I was going here anyway, but I was intending to go to the upper floor, and the stairs are the other way.”
+
+“Obviously, we have to head up,” Ling Qi said with a snort. “First floor arts are no good for us unless it’s for tinkering.” She hadn’t had a chance to try that yet. Too many obligations getting in the way. “We’re meeting some people.”
+
+“Who—” Yu Nuan began.
+
+Ling Qi interrupted her as they emerged into one of the sitting areas and raised her hand to wave. “Senior Brother Ruan!”
+
+The older boy raised a hand to wave, closing the slim volume he had been scanning through and setting it aside as he stood up from one of the comfortable study chairs. “Junior Sister, was I ever surprised to hear from you.”
+
+“I’ve been getting some things straightened out,” Ling Qi said. She was getting the hang of the rhetorical lessons in the Playful Muse’s Rapport, and she liked to think it was beginning to show. She didn’t have to spill her guts to every person she met, but an air of friendly openness served better than what she had been trying to do before. Though it tied in with the same lessons of affected confidence she had learned on the street, it took her in a different direction than her previous efforts.
+
+<And a more natural one too,> Sixiang murmured. <Isn’t it more comfortable than walking around with a metal pole tied to your back?>
+
+“It seems that’s working out for you. You’re looking good these days, Junior Sister,” the handsome boy said. “Who’s your friend?”
+
+“This is Yu Nuan,” Ling Qi introduced. “I thought she might have an interest in this too. Is Senior Sister Bian not available?”
+
+“She’s deployed at the moment,” Ruan Shen replied, the strumming strings of his spirit wavering. He was worried. “I’m sure she’d love to come some other time.”
+
+That wasn’t ideal, but needs must.
+
+“So, it’s nice to meet you and all,” Yu Nuan said, dipping her head briefly to Ruan Shen. “But again, what are we doing here?”
+
+“Workshopping, I believe, was the plan?” Ruan Shen asked, looking to Ling Qi.
+
+She nodded. “I thought it might be fun to get together with some other music cultivators and talk shop, maybe discuss compositions and arts. I need to replace some of my arts with better fitting ones soon, and I thought to ask for some advice.”
+
+“That’s weird. You’re gonna let other people talk you into what arts you’re gonna use?” Yu Nuan asked, bewildered.
+
+“It’s not that strange, but it’s usually more of a family thing,” Ruan Shen said. “Think of it more like using the conversation as an avenue of reflection.”
+
+“Yes, that,” Ling Qi replied confidently, the Carefree Mantle singing in her meridians. She still wanted to complete her cultivation of the Harmony of Dancing Wind Arts too, and its lessons on the nature of connections could use more active study. “I’m not going to tell you what to do, but if we each talk a little about what we’re doing, there might be some insights, right?”
+
+“I’ve already learned that it looks like my cute, shy Junior Sister is likely to outgrow me within a year or two.” Ruan Shen sighed as he moved to join them. “It’s been a real blow.”
+
+She gave him an unimpressed look as she began to head for the stairs to the next floor. “And how do you think I feel, seeing my Senior Brother slacking off?”
+
+He winced. “Hey, now, that’s just mean.” He sheepishly scratched his head. “I’m working on it!”
+
+Yu Nuan was still watching them with a frown on her lips. “You two are weird.”
+
+“If being good humored is weird, I’ll happily claim the title,” Ruan Shen said lazily. “Anyway, I’m mostly looking to refine my arts into something personal. What are you girls up to?”
+
+“I’m looking for a new movement art. I’m feeling deficient with that right now,” Yu Nuan said, giving Ling Qi a look.
+
+Ling Qi smiled sheepishly. She had a few vague ideas of what she wanted. She wanted a support art that would bolster her music against people like Cai Renxiang, who could wipe out her accumulated effects and force her to start over. She wanted to see if there were arts which could synergize to some degree with Zhengui, making use of the threads of wood and flame now rooted in her dantian, even if the threads were awfully thin. “I was thinking of an art that would enhance my other arts, or perhaps an art that could synergize with Zhengui. But I’m not sure what theme or type I should be looking into. Suggestions?”
+
+***
+
+“I’m surprised that bonding that spirit affected you so much already,” Ling Qi commented, flipping through a book on musical enhancement effects. She had never really considered the way things like the stage, venue, local qi flows, and other little details could alter her performance and its perception. That there were arts which allowed a musician to manipulate those effects to enhance or alter their songs were an obvious leap.
+
+“I just dyed and styled my hair,” Yu Nuan said blankly, giving her an unimpressed look. She kept the wriggling ozone-scented scroll in her hands pinned to the table.
+
+Ling Qi blinked, looking up from her text. “Ah, right. That makes more sense.”
+
+<Such a dork,> Sixiang chuckled. <Oh, maybe you should let me mess around with your look sometime. I bet I could come up with something unique.>
+
+Ling Qi’s eyebrow twitched. She suddenly had the image of her hair done up in a glittering rainbow updo. She would probably pass on that one.
+
+<Spoilsport,> Sixiang huffed.
+
+“Having a disagreement, Junior Sister?” Ruan Shen asked, the pages of the book in his hands flickering by in a blur.
+
+“Nothing like that,” she replied. “Thanks for helping me look into Grandmaster Fu’s works and style.” She had enough actual songs. What she needed were ways to support her performances properly, whether in a fight or a party. Bao Qian’s words had given her a lead, and Ruan Shen had helped her capitalize on it with his familiarity with the subject.
+
+“It’s no trouble,” he said airily. “Stage play and presentation is an important part of a performance. Besides, it’s hard to get enough musicians in one place to do a band or orchestra properly. Gotta make do.”
+
+“I don’t see much point in tryin’ to get a bunch of us together. Just going to give a muddy performance with the clashing ways, isn’t it?” Yu Nuan had relaxed since they had arrived and started studying, seemingly content that there was no ulterior motive to this get-together.
+
+“You would be surprised. Put a few musicians on the spot for an impromptu performance, and you’ll have quite a din. But a little coordination can make some lovely things,” Ruan Shen said. “If the musicians really get each other and gel, you get more out than is put in.”
+
+“That might be interesting to try sometime,” Ling Qi mused. “I guess you only get performances like that in the capital though.”
+
+“Mostly. My clan does a lil’ of that on the side. I’m not much good at it though. I’m more a leading man type,” Ruan Shen replied, setting his book aside.
+
+Ling Qi gave him a look over the top of her own book, the pages flickering by as she absorbed the information at a glance.
+
+“Man, what happened to my shy Junior Sis? You’ve gotten some sass now,” he complained.
+
+“She was shy?” Yu Nuan asked disbelievingly.
+
+“More than you’d believe, I’m sure.” Ruan Shen chuckled, much to Ling Qi’s displeasure.
+
+“You’d be surprised how much of what goes on in here is still awkward flailing,” Sixiang cut in, their voice tickling Ling Qi’s ear.
+
+“That’s enough of that,” Ling Qi groused.
+
+“Oh, but it’s fine to tease me,” Ruan Shen complained good naturedly. “Well, I guess I can let it go.”
+
+“I’m not sure you should,” Yu Nuan said dryly, looking at Ling Qi out of the corner of her eye. Ling Qi glowered at her.
+
+... This really wasn’t such a bad thing, was it? She couldn’t honestly call either of these two good friends. Yet, just relaxing herself, not trying to think too far ahead and tying herself into knots over the proper responses or their reactions. There was something freeing about it. She really wasn’t very well suited to playing someone other than herself.
+
+“You figured out what you’re wanting to work on yet, Junior Sis?” Ruan Shen asked idly, he tossed the book in his hands with a flick of his wrist, and the volume slid back into the empty space on the shelf beside him.
+
+“I’ve narrowed it down,” Ling Qi said, glancing at the four scrolls lying on the table in front of her.
+
+The first was an art that meditated on the nature of home and family. Created by a clan in the southern Emerald Seas during a time of civil strife, Winter Hearth Resounding acted as background music that enhanced the cultivator’s compositions. The second was an art inspired by the interplay of lunar qi and the frozen waters. Created by a cultivator of the western fens, Frozen Lake Gleaming sought to punish others who attempted to dispel the cultivator’s techniques. The third was an art created after observing the resilience of nature after the fire. Created by the eastern clans of Emerald Seas in the wake of the Purifying Sun’s death, Burning Glade Restoration lent the cultivator’s compositions a reverberating quality, allowing them to last beyond the fading of the notes.
+
+Collectively, the options were a little unusual for her, but maybe, that wasn’t such a bad thing. However, she didn’t have time or the meridians to learn them all.
+
+“But I can’t decide which one to focus on,” Ling Qi continued.
+
+“A little dabbling is usually fine,” Ruan Shen said lightly. “So normally, I’d suggest trying out a few of them.”
+
+Ling Qi frowned. “I don’t have…”
+
+He raised a hand to forestall her. “But I know your type now, Junior Sis. You either can’t or won’t slow down. Given your position and your pressures, I get it, but that kind of path has its troubles too.”
+
+Ling Qi understood. Between the Duchess’ ultimatum, the onset of war, and her own ambition, she found it hard to stop cultivating for even a moment. She made herself do it, told herself that other things were important too, but it couldn’t quite kill that niggling itch. She loved her family, so she made time to help and spend time with her mother and sister. She loved Zhengui, so she promised to work even harder to make sure he wasn’t left behind. She loved her friends, so she did frivolous things to spend time with them. She worked for Lady Cai, so she spent time with the nobility and went on da— no, dinners—with people like Bao Qian.
+
+Ruan Shen continued, “That’s why I don’t push myself faster. Even if it means I won’t get to the top, I’ve seen enough folks who push on and set themselves in stone before their second decade. It’s kinda scary.”
+
+“Aren’t you brave,” Yu Nuan commented with a sardonic smirk. “You tryin’ to say something about the folks in charge?”
+
+“Nothing of the sort,” Ruan Shen shot back. “It’s just easy to lose things when you’re in a rush.”
+
+“I get that,” Ling Qi said. Elder Jiao had spoken similar words. Her eyes lingered on the Frozen Lake Gleaming art, but it wasn’t what she was looking for, she felt. In some ways, going too far in that direction might be a mistake. “But it’s too late to slow down, even if I did want to.”
+
+And she did not want to. Even if she was beginning to wonder if there shouldn’t be some greater purpose, even if her spirits’ concerns were valid, she didn’t want to stop. She didn’t want to see Meizhen’s back growing more distant again. She didn’t want to leave Cai Renxiang to walk her path alone. She didn’t want to feel the helpless terror at the sight of a mountain shattering before her eyes again.
+
+There was a cough from her left, and Yu Nuan spoke up. “Might want to dial it back. You’re frosting the table.”
+
+Ling Qi blinked and looked down, then grimaced, hastily brushing the forming frost off the table and scrolls as she restrained herself.
+
+“Sorry ‘bout that,” Ruan Shen apologized. “I figure you have your reasons, and I won’t pry. Well, not more than I need to to give advice. What do you feel like you’re missing?”
+
+“I already answered that,” Ling Qi said.
+
+“Tch. Even I can tell that’s not what he’s talking about,” Yu Nuan drawled, letting the sparking scroll wriggle out of her hands to flutter back to the shelves.
+
+Ling Qi gave her a grumpy look. She knew that. “How about you then? And don’t tell me it’s just dye. What’s with the sudden flip to thunder and lightning?”
+
+Yu Nuan scowled briefly at her. “Been stuck for a while. Figured I’ve just been burning undirected.”
+
+“At least you recognize it. Your first song might as well have been a wildfire,” Sixiang commented.
+
+“Anger and passion are useful things, but being directionless is no good,” Ruan Shen agreed.
+
+“And what do you know?” Yu Nuan challenged. “Never even met you before.”
+
+“I like to keep track of any cute and talented juniors who show a spark for music,” Ruan Shen replied smoothly. “And you certainly did last year.”
+
+The other girl’s cheeks reddened, but her scowl only deepened.
+
+“And what are you looking to do, Senior Brother?” Ling Qi cut in. “I don’t believe you’re really holding back out of fear.”
+
+Ruan Shen considered her. “Will I get an answer in turn if I tell you?”
+
+“Yes,” Ling Qi agreed grudgingly
+
+“Then, for my shy Junior Sis, I’ll give an answer,” he said lightly. “I don’t need something to blast or burn or overwhelm. I just have some conflicts I want to see settled and old wounds I want to see healed. Family isn’t always a happy thing.”
+
+Ling Qi bowed her head at that. She wasn’t going to ask for more details, but she appreciated that even though they were not really close, he had answered. If Ruan Shen was willing to say that much, she could find words for the snarl in her own heart. A moment passed in silence as Sixiang helped her find the words.
+
+“I’ve mostly been alone in life,” Ling Qi picked out. “Here, I’ve tried to work against that, but I default to doing things on my own.” Had she not meditated on the way that loneliness was a keystone of her mind and spirit, a central drive to everything she did? “But I don’t want to. I want to include other people without having to consciously remind myself of it all the time. At the same time, I can’t stop either.”
+
+“You’ve got a bit of a problem there, but if I had to make a suggestion…” Ruan Shen reached across the table, tapping his finger against one of the scrolls. “This one might be a good place to start. Sometimes, you have to make sharp distinctions between parts of your life. Things you do, and things you are. Clan and family. Wants and needs. Allies, enemies, and friends, too, of course.”
+
+Ling Qi took the scroll in her hands. Winter Hearth Resounding… An art with some lessons on boundaries. She had put it on her curated short list because of the duality in it, which she felt might help her better understand Zhengui’s own duality. The aid in parsing her techniques to exclude allies from their negative effects had also attracted her eye. It might be a useful contrast to Harmony of the Dancing Wind. Boundaries to contrast connections, huh? Maybe there was something to that.
+
+“I guess I can give it a try.”

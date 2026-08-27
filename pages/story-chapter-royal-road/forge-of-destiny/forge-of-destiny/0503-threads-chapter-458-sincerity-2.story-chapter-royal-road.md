@@ -1,0 +1,209 @@
+---
+id: 04499b65-d935-5193-aed7-6e1f288b28c1
+page-type-slug: story-chapter-royal-road
+title: "Threads Chapter 458-Sincerity 2"
+slug: 0503-threads-chapter-458-sincerity-2
+partOf: forge-of-destiny
+position: 503
+ownLength: 2206
+unit: words
+publishedAt: 2025-07-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2408710/threads-chapter-458-sincerity-2"
+royalRoadId: "2408710"
+---
+
+Ling Qi had seen what she could do with words. With them, she had brought down a sovereign. Evidence mattered, but only because she was believed.
+
+Sincerity moves mountains, because the mountain itself chooses to move.
+
+“I don't know that I can turn my eyes fully from what you call Radiance. There must be a solid foundation upon which my words are built, else…” Ling Qi trailed off, and concluded in her thoughts, else she risked the delusion which had gripped the province before the Duchess had come.
+
+“This, too, I have heard. You are not my first student in this age. Your choice was not unique. Few are.”
+
+“The patriarch of Jia.”
+
+“Yes. Let that be your assignment, disciple. When you meet your senior upon shining Xiangmen's crown, ask him of the nightmares which nearly drowned the truth, the final gambit of the Supreme Master of Lies.”
+
+Ling Qi batted away the probing qi which made a play for her meridians, redirecting it to flow out and away, along the curve of her spine.
+
+“And if he does not wish to tell?” she asked.
+
+“Then, you will tell him he cedes the rhetorical ground to his poor, abandoned teacher. I will tell you then.”
+
+"I feel like you're buying her some serious trouble here," Sixiang said dryly.
+
+The first probe had been obvious, and the next three were no less so. Predatory, plucking whirls of qi formed and decompiled, grasping at her respiration and using her breath to sneak through into her body. She adjusted her breathing, then cycled her qi in the counter-direction. The more subtle hooks brushed her skin, and she barely had the capacity of thought to disrupt them before they could sink into her meridians and steal her qi away.
+
+“It’s fine, Sixiang. I don't think any of the Duchess' inner circle will be unaware of what we must do.”
+
+Overcome the Duchess. That was her challenge. From what Ling Qi knew of her histories, Shenhua's followers, those spoken of as the Emerald Seas’ Heavenly Kings, had been the Duchess’ retainers, as Ling Qi was to Cai Renxiang.
+
+Heron General Xia Ren: The Crucible, the Blade who Rends History
+
+Matriarch Wang Jun: The Builder.
+
+Patriarch Jia Hong: The Orator.
+
+And her wife, Prime Minister Diao Linqin: The Lover.
+
+No, none of them were unaware of the Duchess' ultimate intentions. Not anymore than they were unaware of Renxiang's.
+
+“This one knows his student. This question will not meet reprisal.”
+
+Ling Qi parried the latest flurry of attempted infiltrations. Twisting wind qi into whorling, trapping loops, she sought to snatch the droplets of qi from Huisheng’s scattered hooks as they dissolved.
+
+“A student may change much in two centuries or more,” she rebutted.
+
+Huisheng's bones creaked, petals falling.
+
+She squeezed Sixiang's hand, and the muse’s qi slid over her skin like a blanket of static, the disruptive, dissolving qi scattering the hundred of feinting attempts at access, leaving Ling Qi the freedom to twist and deflect the three true attempts hidden among their number. One hook broke apart into viscous droplets, stolen by her wind, the second was deflected into the stone beneath her and died, the third skirted around her cycling wind and snatched away a hearty mass of her qi, vanishing back beneath the lake of liquid darkness before she could muster an attempt at recovery.
+
+Ling Qi grimaced, resetting her defenses for the next round, and tried to ignore the deadened pins and needles ache which now covered her lower right ribs.
+
+“Less than one might think, when years becomes as months and decades as years.”
+
+She would just have to trust Huisheng. In the end,  if they were both at the wedding, a sovereign familiar with Huisheng would notice the spirit’s mark on her soul whether she hid it or not. Given their respective positions, the worst the patriarch would do would be to brush her off.
+
+“Teacher, it will be done. This one accepts the assignment and hopes she will learn more of the limitations of Truth.”
+
+“You will seek, now that the hook is baited.”
+
+She tilted her head. “Should you use that suspicious phrasing?”
+
+“Will you not seek the knowledge hinted at?”
+
+She lowered her head, conceding the point. Although she was conflicted about her conception of choice, she could not and would not rely on Huisheng for all the answers. She needed to contemplate her Way herself.
+
+“Does Choice truly arise, even in ignorance, in deception, and in lies?”
+
+“It does. Your path is a brighter one, and yet, one on the path of multitude must accept that much lies beyond their reach.”
+
+“How does this square with the domination of sovereignty?”
+
+“No sovereign rules all things, even under their own feet. They achieve dominion, yet they must know where its borders end. Will absolute, yet knowing weakness, knowing reliance.” Huisheng concluded, “A teetering balance, but it can be done.”
+
+The light glinting off his skull and the shadows hiding between his jaws was stark.
+
+"I can see why it isn't," Ling Qi mused. "The appeal of the peak, of power which cannot be contested in your realm, sands away at that shining goal."
+
+She had once thought of the peak of cultivation as absolute security, the end of fear and uncertainty. Only when she stood on a peak so high that none could loom overhead would the frightened girl with a growling stomach and ragged clothes disappear. Only when none could contest her choices would she be free.
+
+… It had been a childish dream.
+
+She rose and clasped her hands before Huisheng and bowed, as her thoughts on choice coalesced: Choice blossoms in plenty, in solidarity, in empathy. To accept Choice is to accept uncertainty, fear, and the end of her reach.
+
+“The student thanks the teacher. I will try not to be absent for so long next time.”
+
+“Wise is the one who makes no promise they cannot keep.” Huisheng was clearly amused by her phrasing. “The storm around you will not abate.”
+
+"I would be alarmed if it did." Ling Qi said wryly.
+
+She clenched her hand, crushing one last dart of seedling qi, infiltrating through the meridian that exited in her palm.
+
+"We done already?" Sixiang asked warily.
+
+"We are. I will contact the senior disciple, teacher."
+
+They mounted the stairs and emerged back onto her floating isle in the liminal.
+
+Sixiang stopped next to her by the little shrine to the moon. "You satisfied, Qi?"
+
+The discs within the shrine cast a burning, silvery glow. Ling Qi observed them. She had more teachers to speak to. She wondered when their directives and lessons would fully collide.
+
+"As much as I can be. I still have questions, but I'm satisfied. I may wish to talk to Shu Yue about him as well."
+
+"Is that wise?"
+
+"Is there anything I do that is?" Ling Qi teased.
+
+"Can't believe you went out of your way to get more schoolwork, right before the party of millennium. Where've I gone wrong here?" Sixiang lamented.
+
+"Oh, stop that. There will be plenty of time for fun. Probably."
+
+"See, I don't like that word at the end!" Sixiang shot back, poking her in the shoulder.
+
+Ling Qi laughed as she took Sixiang's hand, and they stepped back through the veil into her office.
+
+It was time for another journey now.
+
+***
+
+"I wanna see!"
+
+"You can look, little sister, but you have to hold very still and let me keep a hold of you," Ling Qi chided.
+
+"I'll be good!"
+
+Ling Qi looked up to her mother, seated on the bench across from her, and raised an eyebrow in question. The older woman heaved a sigh but nodded.
+
+Ling Qi tapped the shutters on the wall beside her, and they swung open, revealing the shadowed black of the path whipping by outside. None of the wind outside the carriage made its way past the thin film of qi she could feel.
+
+They had left Shenglu behind yesterday, parting ways from Gan Guangli and Cai Renxiang. Her liege had her own stops to make on the way to Xiangmen, and Ling Qi had promised she would see at least one of her junior sister’s concerts, and this journey to Xiangmen made for a good opportunity.
+
+Besides, her carriage had plenty of security formations in it. The thought of her own carriage was still strange. She'd purchased one for family use with the increased stipend Cai Renxiang afforded her. It was a sleek dark blue color, chased with silver along the wheels and roof. Now, her mother, or even the staff under her, could safely travel back and forth to White Cloud Town, if necessary.
+
+The upkeep on a couple of quality spirit beast horses was barely a fraction of Zhengui's diet budget anyway.
+
+Biyu had been very excited to see the “ponies.” She was sure the groom that she'd hired with them was going to get his ear talked off.
+
+For now, it served to keep them comfortable as they traveled north and west to the land of Viscount Shan, one of her correspondence contacts in the region and the host of Hanyi's current concert. The road they traveled on was ancient, albeit paved with modern road stones, and its foundations dated back to the Weilu days. It had been here so long the forest had grown around it, tree trunks bent to accommodate the width of carriages. The canopy stretched overhead in an arch of green, and dappled sunlight cast small rays of brightness on the shadowed road.
+
+"So fast!" Biyu exclaimed, and Ling Qi tightened her grip around the little girl's waist as she leaned toward the open window. The wind break formation was limited. Even with her protection, Biyu wouldn't enjoy the actual volume of the wind screaming in her ears and ripping at her hair.
+
+"This is why you must keep your hands away from the window," Mother instructed.
+
+Securing her arm around her sister's waist as she watched the blurring scenery, she turned to look at her mother. "How has your leg come along since your last meridian opening attempt?"
+
+Ling Qingge grimaced. "I still receive some pains, but it is only a small ache, like a strained muscle."
+
+"You have made progress,” Ling Qi encouraged. “The blockage in the meridian is much more broken up. You can flush the majority of the impurity with another attempt."
+
+Li Suyin's impurity cleansing rod was too painful for Mother to use, so she was progressing the normal way. Watching her mother’s attempts made her appreciate how absurdly easy opening her earliest meridians had been. She did not know if she could have easily endured having to painfully fail again and again to merely open a single meridian. Even if she found opening meridians much more difficult now, as a third realm, it was trivial to just shut off the sensation around the affected area and sip an elixir while her cycling qi fixed the damage in minutes.
+
+"I suppose I must take your word for it," Mother allowed. "Perhaps I will try again when you return."
+
+"Momma is going to do more stretchies in the garden?" Biyu asked, dragging her eyes away from the outside. "Biyu will help!"
+
+"Of course. Mother appreciates it," Ling Qingge said gently.
+
+Mother’s cultivation technique focused on calm movement and physical balance to match and aid in balancing her qi. Biyu did like to awkwardly mimic her mother, although she couldn't actually hold most of the stances.
+
+"Hey, hey, Sis, will I see Hanyi soon?" Biyu craned her neck to look up at Ling Qi.
+
+"Well, it's going to be some time."
+
+Another six hours or so. They'd be arriving in the evening just a short time before the concert festival. After, she’d split off from them, with Mother and Biyu staying the night under the viscount’s care before returning to Shenglu in the morning. Meanwhile, Ling Qi would be taking a Cai carriage to catch up with her liege overnight.
+
+She'd wanted to just fly instead, but it was considered rude to cross over lands that weren't hers.
+
+"How loooooong?"
+
+"... Most of the day."
+
+Biyu looked at her with wide eyes. "We have to sit ALL day?!"
+
+Mother sighed. Ling Qi gave her an apologetic look. She could only hope Biyu would be well behaved on the way back.
+
+Ling Qi feigned hurt. "You don't want to stay with your Sis all day?"
+
+"I do! But outside!"
+
+"We can't do that. Besides, if we didn't come, Hanyi would be sad. She pretends really well, but she does like you."
+
+Biyu proclaimed, "Icy Sis is silly."
+
+"She really is, but she's a good girl.” Ling Qi gave her sister a squeeze. “Just like Biyu."
+
+"For the most part," Mother interjected. "Biyu, a lady must know patience. I brought along books and your chalk slate."
+
+"No paint?"
+
+Mother laid down the law. "No paint in the carriage."
+
+"But—!"
+
+"No."
+
+Her little sister crossed her arms and pouted. Wisely, Ling Qi didn't say a word. Maybe the carriage could be easily cleaned with a good enough scrubbing reagent, but she wasn't about to contradict Mother here.
+
+"... Kaaaay," Biyu grumbled.

@@ -1,0 +1,149 @@
+---
+id: cd17df7d-87e3-5c70-b132-b54c60ddf9d8
+page-type-slug: story-chapter-royal-road
+title: "Threads 233-Thunder 4"
+slug: 0271-threads-233-thunder-4
+partOf: forge-of-destiny
+position: 271
+ownLength: 2442
+unit: words
+publishedAt: 2022-07-28
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/958526/threads-233-thunder-4"
+royalRoadId: "958526"
+---
+
+These deep halls were quiet. Whether this was because of the party above or a regular occurrence, Ling Qi didn’t know. Worked stone and polished tiles gave way to more natural stone, organic formations of rock shaped by eons of dripping water taking over for the artificial decor from above. They descended a little slower now, the mad dash of the opening moments behind them. Yu Nuan now rode on the back of Qiu, grown to his full horse-like size.
+
+“How did you find out about this?” Ling Qi asked, skirting along beneath the damp “teeth” of rock that lined the roof of the passage.
+
+“The Leigong took me down here for a lesson. It was a reward for a song,” Yu Nuan whispered over the happy panting of the thunder hound she rode, voice carrying on Sixiang’s breeze.
+
+“Seems strange for a spirit of storm and thunder,” Ling Qi said dubiously.
+
+“He said it was about understanding the origin of the storm,” Yu Nuan explained. “And I kinda get it. It all comes back to water. Hey, don’t touch anything off the path!”
+
+Ling Qi blinked, immediately banking to the side to fully avoid a curtain of gleaming stone that seemed like a cascade of water frozen in time. She’d not have touched it physically, but a trail of her qi would have. “Alarms? Traps? I don’t sense anything.”
+
+“No. But if you get your qi into the stones here, it’ll piss off the gardener. We need him sweet to get what we need.”
+
+Ling Qi nodded absently, dropping a little lower and pulling in her aura further, tight against her skin. She focused now and could see the “path” Yu Nuan had mentioned, a corridor of stone with silent, static qi. She vaguely remembered Bao Qian speaking of stone gardens in regards to his clan. “Got it. A big spirit then?”
+
+“Pretty sure the Leigong’s still the boss, but he treated the guy down here with respect. C’mon.”
+
+Down they went, through winding caverns of increasing beauty, past pools lined with living crystals and strange, alien formations of stone, until at last they came to a wide chamber filled with water that bubbled and boiled, an underground lake spotted with isles of stone. There were dozens of isles, each overgrown with glittering crystal in many hues, and in the center was a small stone hut, humble and inconspicuous. Above, steam rose into a shroud near the cavern’s roof, and the air was thick with humidity.
+
+Ling Qi grimaced at the dampness, weaving a tight web of cooler air around her to keep it off. Soft snow fell in her wake, melting instantly when she stepped away. “No lava?”
+
+“Not that kind of stone. Like I said, it’s all about the water. The way it changes, rises, and falls and how heat influences the storm. Least that’s what I got out of it. A storm arises from many factors.”
+
+Ling Qi hummed. She wasn’t going to gainsay another cultivator on something core to her methods, even if she didn’t entirely get it. “Good. What’s our plan? Call out, make an offering?”
+
+“Since it looks like the headstart got us here first, this should be easy,” Yu Nuan said, unlimbering her lute. “This guy liked my songs too, so I think I’ve got this one. Can you prep us to get out though? There’s a vent up there, and we can probably go up quickly if you protect us from the heat and do whatever it is you did earlier.”
+
+“Dreamwalking,” Ling Qi corrected absently, spinning up some more icy qi. She kept an eye and an ear on the passage behind them with a trailing silver wisp while Sixiang kept their attention on the air currents.
+
+Yu Nuan grunted an acknowledgement as she strummed a few testing notes. She then launched into a song. It wasn’t the usual blazing inferno and striking lightning of her works, more like a spring flood put to music. What it lacked in volume and thunder, it made up for with a tonal discord that nonetheless managed to be coherent.
+
+Out on the bubbling lake, the little stone hut rattled, and its door drifted open, revealing a single crystalline eye larger than Ling Qi. Two stony lids appeared as it first looked at them and then shut as the music washed out, a moment of song.
+
+“Little cloud.” The voice reverberated from the rock around them, grinding and heavy. “You were passing. Not fools to slap away from my gardens. Why do you come? The revel roars. Be there. The quiet is not for you.”
+
+Yu Nuan bowed her head. “The Lady Dianmu set us a hunting game, and I think one of your crystals is an answer. Could we bargain for one?”
+
+“That woman,” the stone spirit rumbled. “So thoughtless, sending drunkards to gambol in my gallery. Take one then, and get you gone. One less hoodlum fighting down here will only make it easier to keep order.”
+
+The eye shifted to Ling Qi, squinting. “And take that one with you. The cold will upset the pool.”
+
+“Please. I’d like to not trouble you long, sir,” Ling Qi said.
+
+“See that you don’t, and keep this one out of trouble, you hear?” the curmudgeonly rock gardener rumbled, his voice felt in her bones. One of the crystal-filled islands floated closer, parting the waters like a ship, allowing Yu Nuan to pluck a bright red crystal, still sparkling with superheated qi.
+
+The girl hissed, tossing it from one hand to another for a second before Sixiang snatched it from the air with a gust of wind, sending it to storage.
+
+“We’ll not trouble you any longer, sir,” Yu Nuan said, bowing hurriedly. Ling Qi began to detect some noise coming down the tunnels. “May we use the vent?”
+
+The eye looked dubious. “If you’ll not burn up.”
+
+“We’ll be fine,” Ling Qi reassured, bowing as well. “Yu Nuan?”
+
+Her companion nodded, and they dashed off above the lake, kicking up ripples as they flew into the cloud of steam. Ling Qi spread her aura, a careful application of the lessons lent by her mentor to render it merely hot and uncomfortable rather than heated beyond mortal reason. They passed swiftly through the layer of moisture, following the curvature of the ceiling and flying up and up until they were moving straight up a tube only five or six meters wide.
+
+“The dragon’s breath is probably on the mountain peak,” Yu Nuan called. “You got an idea for the others?”
+
+“Maybe,” Ling Qi called over the hiss of the steam. “Does this place have a library or a poet?”
+
+“Why?” Yu Nuan’s face screwed up for a moment. “Ah, I get it. I was thinking of the little weasels that run around this place with the sharp claws. Yeah, there’s a library. Why’d you think of that?”
+
+“Because Lady Cai’s sword is named Cifeng, spelled with the characters ‘cutting words’,’” Ling Qi explained absently, getting a feel for the folds of dream in this narrow space. Catapulting them straight up shouldn’t be too hard.
+
+“What,” Yu Nuan said dully.
+
+“Nothing wrong with a good pun,” Sixiang said cheerfully. “Or a bad one! Hold onto your insides!”
+
+“Oh n—” Yu Nuan began hunching down on Qiu’s back.
+
+And then they were within a scintillating rainbow of steam and flames, surrounded by dancing shards of rock and crystal, and rising toward roiling thunderheads shot through with kilometers long spans of golden scale. They blinked back into the vent just in time to erupt from its exit in a cloud of superheated vapor.
+
+The chamber they emerged in was all polished wood, save for the stone floor, filled with benches and buckets and hanging plants. All manner of spirits lazed about in a state of ill dress, and… Did she spot a disciple or two scattered about? Was this kind of sauna?
+
+Ling Qi flushed and spied an exit, flashing toward it in a twist of wind and shadow, leaving a burst of frozen air and outraged yelps behind as she darted off down the passage. Qiu thundered after her, paws striking sparks in the air as he galloped after her with his tongue out, Yu Nuan holding frantically to her back.
+
+<Oh, spirits, your face!> Sixiang cackled in her head. <I feel bad for those folks.>
+
+Just ask Yu Nuan where the library was, Ling Qi thought grouchily. And what was up with Yu Nuan? She didn’t look scandalized at all. Had she known where they were going to come out?
+
+Honestly, how shameless.
+
+***
+
+They ran into their first spot of trouble on the way to the Thunder Palace’s library. Their flight path took them through a rowdy brawl spanning a whole palace hall. Ogres and bird men clashed there, sending the whole passage rocking with the thunder of clubs and the beating of wings. She didn’t even think they were other hunters, although the brawl might have been part of the chase game, but that didn’t stop the lightning and diving claws that came their way. Ling Qi and Yu Nuan gave as good as they got, refusing to let it slow them down by much as they moved, dodged, and sprinted through the chaotic riot of bellowing spirits, leaving shocked and half-frozen foes in their wake.
+
+Finally, they escaped down a side passage and found their way to the wide doors of the library.
+
+What they found there was a foggy expanse, shelving visible only as shadows in the mist, and what Ling Qi could only assume was the library’s keeper behind a too small desk. Unlike the other spirits she had seen up close thus far, this one did not seem like a man with some features of a bird, but rather, a bird with some features of a man.
+
+He seemed old, sagging jowls and flaps of skin on his long neck wobbling as the library’s keeper bent to look at them. In one talon, he held up a monocle as he turned his head to the side to peer at them, magnifying his own rheumy black eye in their view.
+
+“What is this then?” he asked, beak clacking out of time with the scratchy words. “Another hunter?”
+
+Ling Qi grimaced. Of course someone else would have this idea. “Yes. Have there been many so far?”
+
+“Just two pairs so far,” the keeper said. “They’ve not come back yet. S’pose I’ll have to check the books tonight. No use letting them get off their diets.”
+
+Yu Nuan coughed into her hand. She was a little more singed than Ling Qi from the brawl. “Do you have a section for satire?”
+
+She glanced toward Ling Qi for approval, who nodded. That kind of dissident writing would definitely be the most cutting.
+
+“A few scrolls, a few poems,” the library keeper said. “This is the Thunder Palace though, young lady. You should know we don’t just give things away. If you’d like your poems, you’ll hunt them down and subdue them yourself like a proper scholar.”
+
+Ling Qi and Yu Nuan both simply nodded.
+
+“C’mon,” Sixiang urged. “Pretty sure I got the scent of something good.”
+
+Giving their respect to the library keeper, they set off into the mist. The shelves were, Ling Qi noted, closed and locked cases with fronts of wood or glass. Each one rattled and shook as they passed, and Ling Qi felt dozens and dozens of qi signatures. This was far beyond the sect archives where the tomes and scrolls were curated to limit and control their development as spirits. The books here were wild and alive.
+
+But she hadn’t yet sensed something sufficiently sharp, and so they went on, deeper into the winding stacks, guided by Sixiang’s sharper sense. Eventually, Ling Qi could feel in the air something of what Sixiang was following, muffled whispers that cut winding trails through the mist, churning and carving short-lived tunnels through it, and they came upon a high and ornate case with sturdy copper shutters over its shelves, locked and barred.
+
+“It doesn’t look so bad.” Ling Qi peered down at the formations inscribed on the metal. She could probably open this, though it might take a while. “Not sure I want to just open it.”
+
+The shelf rattled violently, straining the chains keeping it bound to the wall and floor. There were a lot of fairly potent auras inside of that case.
+
+Yu Nuan squinted. “I think we can take ‘em if we have to, but you’re right. Might not be a good idea. Hunting or not, the keeper might be testy if we make too much of a mess. You think you got this one?”
+
+Ling Qi nodded. “Let me try a technique. If it doesn’t work, I’ll unlock it, you catch the sharpest one you can sense, and then we run for it.”
+
+Yu Nuan blew out a nervous breath, glancing down the stacks as she settled in to wait a moment.
+
+Ling Qi stared at the cabinet doors as if trying to burn a hole in them. She’d done some practice with this technique, and it wasn’t so far from dreamwalking. But the tricky part was… not leaving the material world entirely, but instead, reaching through the dream. It was hard to frame interactions like this in human words.
+
+Biting her bottom lip, Ling Qi put her hand to the sealed doors and concentrated, circulating dream and wind qi through the meridians in her arm. She just needed to sort of wiggle her hand between the spaces in the physical matter like slipping through infinitesimally small bars.
+
+She felt the edge of a page prick her fingertips, and she took in a sharp breath as she grabbed onto a struggling scroll and yanked it back through without triggering the formations locking the cabinet. “Hah, that’s not so bad!”
+
+It was a long way from the real thing given that this was still a physical container, but it was a good start. “Alright, let’s—”
+
+She cut off her words as she sensed a shift in the air, a thread of qi, not her own, intruding on her aura. The qi yanked, tearing the scroll from her grasp as a booming cackle rang out.
+
+Ling Qi looked up in time to see a blur of blue and white carving through the mist on a trail of lightning and one of the Leigong’s sons laughing mockingly as the two zoomed away. The trailing scroll snapped into the cloud-like brother’s outstretched hand on a glittering diamond thread.
+
+That was not going to stand.

@@ -1,0 +1,117 @@
+---
+id: 09e5641c-0518-51fd-841a-4f6f9351fab2
+page-type-slug: story-chapter-royal-road
+title: "Threads 247-Journey 4"
+slug: 0285-threads-247-journey-4
+partOf: forge-of-destiny
+position: 285
+ownLength: 1649
+unit: words
+publishedAt: 2022-09-15
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/994788/threads-247-journey-4"
+royalRoadId: "994788"
+---
+
+“It is my honor to receive such a polite guest,” the older woman said, her own bow less deep and ostentatious. Her gown was much more staid and businesslike than what she had worn at the tournament, a deep green with only plain geometric embroidery along the fitted hems. She raised her head after only a brief few seconds.“I must apologize that you were left waiting so long.”
+
+“This is my own fault,” Ling Qi replied, raising her head. “Though it was a little impudent, I wished to make use of your garden to settle my mind.”
+
+“I see. That is no trouble. The gardens of the ministry are very fine.”
+
+“No doubt due to your family's influence, Lady Diao,” Ling Qi praised.
+
+“Correct,” the older woman agreed. “Will you walk with me then? Perhaps our talks will be improved by the fresh air.”
+
+“Certainly.” Ling Qi stepped out onto the tiled path, and she folded her arms behind her as she walked beside Diao Hualing.
+
+“May I ask what you already know of the ministries?” Diao Hualing asked pleasantly.
+
+“Each is structured around four layers of administration: imperial; provincial; regional; and district. Within each layer are nine ranks which officials are marked by. Advancement and acceptance relies on recommendations from higher ranks or excellent performance in exams administered at the provincial level,” Ling Qi recited. “The only exception is the Ministry of Integrity, which has only an imperial layer outside of the Celestial Peaks and Alabaster Sands.”
+
+“That is all correct. Before the Great Sect system, the ministries were the primary path through which unattached cultivators were able to advance, although this had many flaws,” Diao Hualing said.
+
+Ling Qi gave a small nod. It wasn’t as if potential troublesome talents like, for example, herself or Ji Rong would ever have the chance of patronage under that old system. “The ministries wield significant influence, being parallel rather than superior to the lesser nobility,” Ling Qi tested.
+
+“True. Even a baron may dismiss their advisor and request a new one, but it would be deeply unwise to make an enemy of his District Minister, let alone one of the region,” Diao Hualing observed. “The ministries were greatly defensive of their independence.”
+
+“Were?” Ling Qi asked as they came before a large fountain. Its centerpiece was a glittering, half-transparent green crystal, and the water rained down from its “leaves.”
+
+“The Duchess changed a great deal. A superior may recommend a subordinate, but recommendations no longer provide… weight to the scoring of exams. In addition, the curriculum was changed. Exams are now judged by panels of ministry experts selected by lottery, and the applicant’s identity is not revealed to them during the judgment,” Diao Hualing explained. “It was quite a disruptive decree, and some wondered whether the Duchess could even wield such authority.”
+
+“It seems it was,” Ling Qi said cautiously.
+
+“Indeed!” Diao Hualing said lightly. “It is good that she made her case to Emperor An. I am told he was quite approving. The imperial ministries objected quite strenuously. Even the Empress has had some troubles with this, but perhaps her recent ascension to the eighth realm might change this.”
+
+“While I am no expert in civil matters, it seems this change was good. I have heard few statements extolling the virtue of the Emerald Seas’ past governance.”
+
+“Certainly.” Diao Hualing watched the glittering rays of light that passed through the green crystal. “But it has made the ministries less independent, particularly in the provincial ministries located in Xiangmen where the reform was at its most percussive.”
+
+Ling Qi turned the words over in her mind. Percussive. A funny way to say that the Duchess had personally seen to the physical annihilation of large portions of the upper ranks of the ministries and the mass eviction of most of the rest from their positions. How much entrenched resistance remained in those offices which had not been so thoroughly “cleaned”?
+
+“Reform was needed, but it is not good for the ministries to be too dependent on noble politics,” she offered.
+
+“Words to be considered, I hope,” Diao Hualing replied.
+
+“My lady intends to build on her mother’s work,” Ling Qi agreed. And Moons, did those words now come much harder than they had before.
+
+Diao Hualing must have caught her slight unease because the woman looked at her curiously before continuing. “But we digress. We should speak of your matter. We have begun investigations into the region your source indicated and found some corroborating evidence ourselves. There are some indications of minor fraud and bribery occurring, small matters that are beneath the usual level our office is concerned with.”
+
+Ling Qi considered this. This office was the regional Ministry of Law for the Central Valley. “Is there some problem with the district investigators?”
+
+Diao Hualing pursed her lips. “So far, it has not risen beyond a certain slothfulness, rather than any direct collaboration, but yes, a number of clerks and officers of the lower and middle ranks will be receiving very negative performance reviews.”
+
+“And how does this relate to my issue?” Ling Qi asked.
+
+“We believe the fraudster responsible for a number of other minor crimes is positioned in the district’s Ministry of Communications. We have reduced the possible culprits to a half-dozen or so,” Diao Hualing said. “In a few weeks, we expect to have narrowed this list further.”
+
+“It seems strange that one who had been getting away with minor crimes would escalate,” Ling Qi said thoughtfully as they resumed walking around the fountain, heading into a grove of vibrant cherry trees. “Ah. This fellow is a dupe, am I right?”
+
+“A minor fraudster getting by on little pieces of sabotage and embezzlement up until now? Certainly. He was likely working for someone else in this case. A ‘dupe,’ as you said.”
+
+It wasn’t a new idea for Ling Qi. It was part of why it was dangerous to work for someone else on the streets. There was always the possibility that the boss was throwing a contractor to a bigger wolf to test reactions or just to provide a distraction.
+
+“Unfortunate for him. How may I continue to assist?”
+
+“There is some possibility that if our assumptions are not correct, the culprit may have some methods of escape which would require significant resources to neutralize. Since I know that you wish to involve yourself, perhaps you would like to save the Ministry this expense?”
+
+“Doing the capture?” Ling Qi consulted her spirits. Hanyi seemed to like the idea, but Zhengui seemed more ambivalent.
+
+<It’s probably not bad practice, if nothing else, and you do need to get her on your side,> Sixiang murmured.
+
+“I don’t object, but is that legal? I wouldn’t want to offend the lord who owns the lands,” Ling Qi said.
+
+Diao Hualing shrugged. “Granting temporary arrest power to a contracted agent requires some paperwork, but it is hardly unusual.”
+
+“Done then,” Ling Qi said. A bit of a chase would be good for honing her skills. “How long do I have?”
+
+“Some weeks. It would be well after your auction.”
+
+“Good.” Ling Qi surreptitiously took a deep breath. “There is one other matter I wanted to speak about with you today.”
+
+“And what is that?” her companion asked as they came to a stop, standing beneath the tallest of the cherry trees.
+
+“Madame Gray, the fox spirit that inhabits the Diao’s lands, is my friend’s mother. What do you know about her?”
+
+Diao Hualing’s expression didn’t change. “An unfortunate and difficult to remove pest. It was part of the matter I spoke of to your friend.”
+
+“Well, while I can’t share the specifics, I recently attempted to assist Su Ling through a cultivation snarl,” said Ling Qi diplomatically, looking up at the pale pink leaves of the old cherry tree they had stopped under.
+
+“Most kind of you. It seems you are very good friends,” acknowledged Diao Hualing. She had folded her hands behind her back, and her expression was neutral.
+
+Ling Qi inclined her head. “I have access to some methods of liminal divination which allowed us to explore her past and heritage somewhat, and during these meditations, we discovered a rather unfortunate issue.”
+
+“I see. Something of the present and material, I assume, if you have decided to bring this to the Ministry of Law,” deduced Diao Hualing. “I hope you are aware that such divinations require more concrete proof to produce a suit.”
+
+“I do not believe this issue needs to rise to that level if you do not wish it to, Lady Diao,” Ling Qi said evenly. “The issue we found is that Su Ling is not unique. It seems that Madam Gray leaves a great many ‘gifts’ in her range.”
+
+The older woman turned to frown at her before making a gesture at her to continue.
+
+“It is my belief that this creature uses the abandonment and death of these children as a method of sacrificial cultivation,” said Ling Qi. This was her strongest card. The use of humans as reagents for cultivation had been utterly proscribed in the Empire since the days of the Twilight King and the Cataclysm, and Emperor An’s reforms had seen it cracked down on even more heavily. “From my divination, it is some twisted and broken form of the region’s pre-imperial worship.”
+
+“That is a very serious accusation, Lady Ling,” whispered Diao Hualing, “that something of that sort would be occurring in the lands of the Diao unnoticed.”
+
+“It is certainly a subtle result, and public accusations would not solve the problem,” Ling Qi said blandly. “It is my hope that by bringing this to you, the problem may be solved without any trouble or censure.”
+
+She looked the older cultivator straight in the eye.
+
+Diao Hualing looked back for several long seconds, stone-faced, and a soft breeze scattered petals around them.

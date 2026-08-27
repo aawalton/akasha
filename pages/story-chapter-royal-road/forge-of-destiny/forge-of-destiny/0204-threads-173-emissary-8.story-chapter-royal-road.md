@@ -1,0 +1,155 @@
+---
+id: 90a31c78-69ff-5860-b784-2e857e70ec7e
+page-type-slug: story-chapter-royal-road
+title: "Threads 173-Emissary 8"
+slug: 0204-threads-173-emissary-8
+partOf: forge-of-destiny
+position: 204
+ownLength: 2641
+unit: words
+publishedAt: 2022-01-14
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/824193/threads-173-emissary-8"
+royalRoadId: "824193"
+---
+
+Ling Qi’s eyebrows rose in surprise as she faced her escort in the hall outside of their suite. Ilsur looked back at her impassively, arms crossed over his chest.
+
+“You are prepared for the meeting?” the barbarian asked.
+
+“I am,” Ling Qi replied, squaring her shoulders and meeting his gaze. “I am surprised that you will be my guide.”
+
+“It is a gesture of trust.” Ilsur smiled, but it did not reach his eyes.
+
+<Makes sense, It’s like having a lord’s wife show you around back home,> Sixiang mused.
+
+“Please lead on,” Ling Qi said, dipping her head. It did make sense given what they had learned. She wondered if the nomad’s pride as a man chafed at the role or if he had already come to accept such things.
+
+They began to walk, Ling Qi remaining a step behind, keeping the older man in her sight as they walked. The guards at the bottom of the stair stepped smoothly aside, letting them mount the dark iron stairs.
+
+“You do not care for me, do you, ‘Emissary’?” Ilsur asked as they climbed, not bothering to turn his head.
+
+Ling Qi didn’t allow her expression to change. “I have no conflict with you.”
+
+He snorted in amusement. “Your kin would strike me down if they had the chance. Do not ruin your honesty now, lowlander.”
+
+Ling Qi pursed her lips, acknowledging Sixiang’s prod to not reply too swiftly. “The cloud people and the people of the Empire have fought for a very long time. Your kin raid and steal and kill. It would be stranger if I did like you.”
+
+“This is fair,” Ilsur replied, his footfalls echoing on the metal stairs. “Yet this is true of all people. There is never enough for all. One tribe takes what it can from another, and the one who has been taken from plots to reverse these fortunes. So it has been since the Pure World was shattered.”
+
+Ling Qi did not reply, and Ilsur peered back over his shoulder. “Hah, you understand, of course. I can hear your song of privation, lowlander. You know what it is to have your hollow belly devour all other concerns.”
+
+“People do not need to be that way,” Ling Qi rebutted. “Your kin could trade for the things they need. It is not acceptable in the Empire to kill your neighbors for their things.”
+
+She, of all people, couldn’t say anything about theft.
+
+“It is not?” Ilsur asked. “You are strange then. My wife’s people, they say such things. But in the end, if you tell a village they cannot fight their neighbor’s warriors for the chance to hustle their sheep, it seems to me that they simply make the arrangement of who takes and who is taken from never changes.”
+
+It took a moment for Ling Qi to respond, mostly because she couldn't say that he was wholly wrong. "Sometimes, that is true. But that does not mean that it isn't better than just stealing back and forth forever."
+
+“So my father believes,” Ilsur allowed, mounting the stairs landing. Ahead lay the hall of the redoubt’s second floor. Its iron walls were painted with blue sky overhead and green fields on either side, and the hard floor was carpeted with thick wool. “Follow closely, lowlander.”
+
+Ling Qi nodded coolly, watching his back. Whatever problem Ilsur had with Cai Renxiang, he seemed, if not friendly, then at least less guarded with her. Perhaps she could learn a little more from the odd barbarian.
+
+“Having met and spoken to your wife’s people, I have to wonder what it is like for you, living among them?” Ling Qi asked, following Ilsur into the well lit hall. The cloud tribes were known for being fairly patriarchal; there were no women khans as far as she knew. If even Gan Guangli was bothered by their proscriptions, then surely barbarians must chafe a great deal.
+
+Ilsur did not answer her immediately as he led her past several closed doors. “It is strange, having warmth at all times and unending resources. Their expectations are stranger still, but at least here, only that fussy lump of a sun shaman is bothered by my hunting. I am pleased enough to suffer some discomfort for the future of my tribe.”
+
+Ling Qi frowned. “I had gotten the impression that their opinions on the place of men and women were rather stronger.”
+
+“They are in the south where their citadels stand and among those close to their gods.” Ilsur shrugged. “It is easy to say ‘this is how all things must be’ in the seat of power and comfort.”
+
+“Your wife is one who is close to their gods though,” Ling Qi pointed out.
+
+Ilsur gave a grunt of acknowledgement as they turned a corner. Ling Qi glimpsed a room through an open door, a warmly lit room hung with thick furs and trophy heads of animals both familiar and not. “Jaromila is different. Why do you think she is here among us?”
+
+It confirmed what she had suspected. Those members of the Alaniar assigned here were people who did not fit perfectly with their wider society's beliefs. “Still, I can hardly believe your people have gone along with this all smoothly."
+
+“Access to much richer land and graze and knowledge of rituals to propitiate the worst spirits goes a very long way.”
+
+Her eyebrows rose. “What spirits do you speak of?”
+
+Ilsur looked at her, a mirthless smile on his face. “Crone Winter terrifies the dark itself, but she requires sacrifice. If you are not of her people or fail to perform the correct rituals, she will instead take what she wishes.”
+
+Something about the way he said “sacrifices” sounded ominous. These people seemed so pleasant and civilized, but she supposed considering the girl she had met in the shrine, it made sense.
+
+<It’s a ritual. A human deliberately destroying something they value in your name is like a strong drug,> Sixiang murmured. <It’ll get through to almost anything, and the rush of it is real.>
+
+Ling Qi knew that. Even in the Empire people poured out libations, burned offerings, and sometimes even sacrificed animals, though that was rare in cities outside of big festivals. Still, something else about what he had said bothered her.
+
+“You make it sound like Crone Winter is active in the world, taking things herself. I had thought her to be a great spirit,” Ling Qi said with a frown.
+
+“Because she is. I have seen her vessel twice, once amongst the clouds at my father’s second wedding, and once in the harshest winter of my youth when the tribe lost many children to the cold. It is a horrible thing, and I hope I do not see it again.”
+
+Ling Qi felt disquiet at Ilsur’s words. The fear in them was real, yet how could they be true? Having been in that shrine to the moon and the night, she was certain that the aspects were great spirits. What then had Ilsur seen? Something like Xin perhaps? An avatar of a greater spirit?
+
+“I am sorry to bring up such distressing memories,” Ling Qi acknowledged. She supposed even barbarians weren’t happy to lose their children. Ling Qi elected to change the subject. “Do your people actually interact with the White Sky, or is it just a matter of these marriages?”
+
+“We have joined their alliance. We are ‘wanderers,’ as they put it,” Ilsur answered simply. “It is not so different. Our yearly route is more defined, and we winter now at a gord, and our warriors defend them from demons and hunt beasts that they cannot. It is not unlike defending a very large camp.”
+
+“And there are no problems with that?” Ling Qi asked dubiously. Giving up so much autonomy had to bring trouble, both for the tribe and the men doing it.
+
+“There is strife, and we leave interacting with the settled folk to the women while the men hunt and slay. It makes less trouble for everyone. It is not as if our women are not warriors as well. It is foolish to leave any person defenseless,” Ilsur said, his voice dropping low at the end.
+
+Ling Qi watched as the painted sky overhead began to darken. The hallway they were in was still beautiful, its paneled and painted walls showing a landscape painted in the colors of twilight. “What is it they are trying to protect their men from? I haven’t been able to get a straight answer.”
+
+“There are bodiless demons that may take a man’s mind in the south,” Ilsur explained. “They seem rare, but I gather this was not always so. Their possession makes even weak beasts into terrors. They may make men do terrible things in the dark of winter, even to their own kin. And it is said that the Crone does not take sacrifice idly, but to fuel her war with the malice that lies between the stars which births the demons.”
+
+“You mean of the stars, I presume,” Ling Qi said.
+
+“I do not. The stars are fickle and may be cruel or kind as they wish. It is from the darkness between which malice comes. I do not know if it is true that men who make violence are more easily possessed though. Regardless, it is said that when the tribes fought a great war against these demons and cast them out, the menfolk warriors of the new tribes betrayed the alliance, seeking to break the althing and make themselves kings. It is said this was the demons’ whispers, but...” Ilsur trailed off, offering a shrug.
+
+Ling Qi understood his meaning. That didn’t sound like something that would need a demon’s whispers to happen. Then again, even if her hunch was right… it didn’t actually change the rationale much.
+
+“Let me ask you this, lowlander,” Ilsur said, interrupting her thoughts, “why go through this effort?”
+
+“I think it would be better for less people to lose their lives,” Ling Qi answered. The ceiling overhead glittered with starlight, casting them both in shadow. At the end of the hall, she could feel the presence of Jaromila and something greater, a nexus of cold that felt like a gnarled forest snowed under.
+
+Ilsur let out a bark of laughter. “Hah, simple but honest. I do not dislike that answer.”
+
+“If I may ask, how did your people meet each other? How did you meet your wife?” Ling Qi asked.
+
+“They met us,” Ilsur replied. “Always, we have had tales of the lands of Always Winter, but we thought them spirits, not men.”
+
+“And that is why you shot me when I saved you, yes?” Jaromila asked as they approached. She stood beside a thick door carved from beams of dark wood, its surface covered in frost.
+
+“I had already fallen, my legs broken and my wings lamed. If I was to die, I would prefer to be eaten by a beast or slain in battle than lulled to a final sleep by a hungry ice wraith,” Ilsur said dryly.
+
+Jaromila clicked her tongue and shook her head. “You are such a strange man, Ilsur, though that, too, is charming.”
+
+“There is your answer, lowlander. She sought us out and happened to take a liking to this fool,” Ilsur said with a snort. “May your meeting go well.”
+
+Ling Qi lowered her head, murmuring a farewell as he turned on his heel, marching away from them. She glanced then to Jaromila, who was watching him go with a fond look.
+
+The foreign woman smiled at her. “He is an odd man, far different than any man of the Alaniar. I am perhaps weak to exotic things.”
+
+“Is that really the only reason?” Ling Qi asked cautiously, not just speaking of Ilsur.
+
+“No, but it will have to do for now. The Voice awaits.”
+
+Ling Qi nodded, and Jaromila turned away laying her hand on the rime-crusted door. Silently, it swung open. The room inside was pitch black, much like the shrine had been. The only light came from the faint glint of light from her own hair, reflecting endlessly off the icy formations hanging from the ceiling.
+
+Stepping inside, she found herself treading on an uneven tangle of thick roots and realized swiftly that the columns arrayed along the length of the room seemed to be living trees. Their canopies brushed up against the ceiling, leafless and stark, rustling with unseen movement. Peering closely at the bark, Ling Qi blinked in surprise as she realized that what seemed like tree bark seemed to actually be dark ore, patterned and textured like bark. It had even fooled her qi sense for a moment.
+
+She followed Jaromila, picking over the tangle of roots burrowing into the iron floor. A dusting of snow fell on their heads, falling from the mist-shrouded ceiling overhead. When the door swung shut silently behind them, she didn’t look back or flinch. They were within the aura she had sensed outside the hall now, but still, Ling Qi did not see this Voice.
+
+There were more trees lining the walls, sprouting leaves of copper and brass. At the end of the room was the largest tree, a thick trunk with bark of silver whose roots spread across the shallow steps of the dais it grew upon. There was a powerful qi in the metallic wood, and Ling Qi considered that it may be a sort of throne or portal.
+
+“Voice of the Far Foothills, I bring our guest before you,” Jaromila said politely, lowering her head and curtseying.
+
+Ling Qi brought her hands together and bowed. “Emissary Ling Qi offers her greetings to the Honored Voice.”
+
+She expected someone to step out or a disembodied voice. She did not expect the whole tree to groan and shift, metal bark writhing to life. It twisted and changed until something shaped vaguely like a woman stood before them. She was tall, taller than even Cai Shenhua had been, and her wiry bone white hair nearly brushed the misty ceiling, hanging down well past her shoulders and kept tame by a circlet of black iron and pale green wood curled around one another. The woman's face was deeply lined and looked more like tree bark than skin. Her eyes were deeply sunken knotholes, gleaming with pale blue light within.
+
+The woman wore a dress of fused vines and withered plant life, creating an unsettling rustling as her chest rose and fell. Her hands, curled at her sides, had too long fingers like skeletal branches, each tipped by long iron talons. The roots which grew all along the dais vanished beneath the leafy hem of her dress.
+
+“You are welcomed.” The old woman’s voice was slow and very deliberate, and Ling Qi felt the hairs on the back of her neck rise under the woman’s scrutiny.
+
+Despite everything, she was quite sure that this was a human woman. What’s more, if Ling Qi’s senses were to be believed, she was in the fifth realm.
+
+<I’ve told you there’s not nearly as much difference as you think once you grow a little,> Sixiang grumbled quietly.
+
+“Emissary Lingchee is the representative of the unknown bloodline I have spoken of,” Jaromila said. Ling Qi followed her lead in keeping her eyes down. “While I would not insult you by bringing matters temporal before your eyes, O voice, she has an unusual tale of her godmother which I felt required your interpretation.”
+
+Ling Qi stilled as she felt the full weight of the woman’s gaze fall upon her. “Yes, she claims life from ice. I would like to see this child through human eyes.”
+
+Ling Qi swallowed nervously and gave Hanyi, who had thus far been silent, a nudge. She could only hope that this went well.

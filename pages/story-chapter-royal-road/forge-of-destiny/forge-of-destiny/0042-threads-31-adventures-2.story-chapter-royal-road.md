@@ -1,0 +1,145 @@
+---
+id: a7d8259f-a6ae-56f9-b4ec-8a81e66fe0bc
+page-type-slug: story-chapter-royal-road
+title: "Threads 31-Adventures 2"
+slug: 0042-threads-31-adventures-2
+partOf: forge-of-destiny
+position: 42
+ownLength: 2219
+unit: words
+publishedAt: 2021-01-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/608832/threads-31-adventures-2"
+royalRoadId: "608832"
+---
+
+“Incredible,” Xuan Shi breathed, stepping across the threshold from cloud to stone.
+
+Ling Qi was not sure she would go that far, but it was pretty impressive. Inside the doors was a long pillared hall like a grand temple with a thick red carpet leading up its center. The only light in the room came from the pale glow of shimmering walls of elemental qi that blocked access to the rear of the room. There were eight of the things, and though each one was partially translucent, together, they worked to block her sight and other senses from examining the rear of the room. All she could see was the blurry silhouette of a large, vaguely humanoid shape.
+
+She frowned as she followed Xuan Shi in, examining the area for a way forward. The barriers stretched from pillar to pillar, and access to the “halls” on either side was blocked by iron gates that stretched to the ceiling. While she didn’t care for her chances of going through the crackling wall of semi-solid that made up the first barrier, it seemed like the iron gates might be relatively easy for her to bypass. Of course, that itself might be a trap.
+
+“What do you think?” Ling Qi asked.
+
+<Oh! We could come out and knock the pillars over!> Zhengui answered excitedly.
+
+<You’d knock the whole building down, you doof,> Hanyi responded, giving the impression of rolling her eyes with naught but her tone.
+
+“Reality and script have merged here. Without doubt, we stand within the sealed temple, the final hurdle of the Temple of Storms,” Xuan Shi mused aloud.
+
+“What?” Sixiang asked, sounding amused.
+
+“What?” Ling Qi asked in a rather less enthused tone.
+
+Xuan Shi glanced over at her and tugged his hat down, further shading his eyes. “The author’s words described such a place in his first novel.”
+
+Well, if she took the assumption that the author or a dedicated reader had built this place, she supposed that wasn’t too strange. “What happened in the book then?” Ling Qi asked.
+
+Xuan Shi paused, as if deliberating on something. “This one will keep explanations short. The hero sought a sealed ship within a temple such as this. He reached this place together with the Storm Sorceress Hotene, who intended to take the ship for herself, but in the end, the trials brought them together, and they left the isle together on the ship.”
+
+<Well, obviously,> Hanyi huffed. <Who would just take a dumb boat when you could take the guy too?>
+
+Leaving Hanyi’s comment aside, Ling Qi raised an eyebrow. “What did they face though?”
+
+Xuan Shi considered her question. “This one does not expect the exact details to match. The words were written for the benefit of those who had not yet drunk from the well of the world, as we have. With talents such as ours, the trials of trust and betrayal which they faced would be all too easy to bypass. However, the statue will likely still bring battle upon us.”
+
+Ling Qi squinted at the shadowy figure hidden behind the barriers. “Fair enough. Want me to scout out the ‘trials’ then?”
+
+“It would be appreciated,” he replied, dipping his head. “Allow this one to study the function of the barriers and if they might be pierced.”
+
+Ling Qi nodded. That seemed like a plan. She left Xuan Shi to contemplate the scintillating wall of lightning and headed to the left side of the room to examine the iron gate there. On her way, she paused near the pillar, and after a moment's thought, she let darkness flow through her channels.
+
+That done, she carefully reached a finger into the stone pillar and recoiled at the sharp shock. Ling Qi clicked her tongue. Of course it wouldn’t be that simple.
+
+<Hah. Guess the creator wasn’t a fan of that kind of boring solution, huh?> Sixiang asked, still amused.
+
+<We could just knock down one pillar,> Zhengui grumbled sullenly.
+
+Ling Qi just shook her head in amusement at the byplay. Reaching the gate, she closed her eyes and breathed out, letting the misty, malleable qi of water and moon well up behind her eyes. A moment later, she opened them, and three little bobbing white lights shimmered into existence and slipped through the bars of the gate.
+
+The narrow stone hallway that she found beyond was unlit and unmarked by any decor. Studying its walls, Ling Qi tried first slipping an eye through the outer wall, and for a moment, Ling Qi glimpsed the open blue sky before a nauseous wrenching sensation made her vision swim and the point of view blink out as if she had suddenly moved it out of range.
+
+She supposed this must be a sealed space then. With that in mind, she sent the other two lights bobbing along to examine the rest of the hallway. Sure enough, the walls were covered in arrays, too dense and layered for her to do more than guess at their functions. Letting her eyes gleam silver with the increased flow of qi, Ling Qi saw barriers, illusions, paralysis and more lining the unassuming stone walls in a dense web. She could also see, standing out from the rest, arrays that joined the traps here to the hallway on the right side.
+
+Ling Qi frowned and let the lights blink out, just as an array activated, threads of qi spearing out to shred the fading remains of her wisps. A check on the right side of the room turned up much the same, an interlinked trap-lined hall that Ling Qi was not totally confident that she could bypass.
+
+With her task done, she returned to the middle of the hall where Xuan Shi stood, still as stone, examining the barrier. “The halls look like a slog, even if they're the intended path,” she said bluntly. “We can probably get through between the two of us, but… any luck for you?”
+
+“Perhaps. This one will require your assistance, however,” Xuan Shi said, seeming faintly disappointed. His staff disappeared with a faint ring, and in its place, a pair of iron rods, more like batons really, appeared with inscribed leather wrapping their handles. Their tips narrowed to blunt points.
+
+Ling Qi looked at the one which he handed her, examining the few visible markings. It was a pretty masterfully made talisman. Some kind of anti-lightning effect? “And what do I do with this?”
+
+“Place the tips together,” Xuan Shi said sedately, holding his own baton out. “Keep it so, and then press it to the barrier.”
+
+Curious, Ling Qi did so, following along in unison as he thrust the metal into the wall of lightning. It hissed, sparked, and snarled around the intruding material, but no shock reached her fingers.
+
+“And now, apart.” Xuan Shi drew his to one side, and Ling Qi pulled hers the opposite way.
+
+The barrier parted like a curtain, sparking ragged edges snapping out little arcs of electricity across the gap that they had made, but it remained open all the same. She shared a look with Xuan Shi, and then as one, they stepped through, turning as they did to maintain the batons’ positions until they were through and the barrier could snap shut behind them.
+
+“That’s one,” Ling Qi said brightly. “You made this for Ji Rong, I am guessing,” she said, handing the talisman back.
+
+“The wrath of heaven is better diverted than blocked,” Xuan Shi agreed. “This next obstacle may prove more difficult however.”
+
+Ling Qi looked ahead to the shimmering wall of turquoise qi. It was the concept of water, endless flowing motion that would strip away whatever touched it like the sea wearing away a stone.
+
+... Yet it was the motion which gave it power. Ling Qi smiled to herself, and with a thought, she nudged Hanyi, who gave the impression of grinning as well as she formed in a swirl of frost at Ling Qi’s side.
+
+“I think I have this one,” Ling Qi said lightly.
+
+Together with Hanyi, she sang, and a wide section of the churning water qi began to slow and still, becoming solid and brittle. The frozen section was shrinking at the edges even as it formed, wearing away and melting back into its base state. Still, it gave a long enough window of opportunity for Xuan Shi to catch on, lower his shoulder, and bash his way through the now brittle barrier, leaving an opening for Ling Qi and Hanyi to slip through after.
+
+“And thus, the second passes,” Xuan Shi mused, dusting the frost off his robe. “A thought occurs, however. Though this method may be the simplest, a flaw may exist.”
+
+Ling Qi frowned, examining the next barrier, a shimmering surface that reflected her own face like a lake on a clear day.
+
+<I think I’ve got this one. Worry about what Xuan is saying,> Sixiang murmured, peering out through Ling Qi’s eyes. At her side, Hanyi made faces at her distorted reflection.
+
+<Stupid, tiny spaces,> Zhengui grumbled.
+
+“What’s the problem?” Ling Qi asked, looking Xuan’s way.
+
+“In this sequence, the trials lead not only to treasure and trust, but also the key to the guardian’s defeat,” Xuan Shi explained. “And also, does this task not feel too easy?”
+
+Ling Qi did have to admit that even when she had looked at the trapped hallways, she hadn’t seen a single thing that was genuinely deadly, and the barriers did seem simple. It made her wonder if they were missing something. On the other hand, it wasn’t as if everything discovered had its challenges tailored to an appropriate difficulty.
+
+“I think we’re doing fine so far,” Ling Qi said. She gave Xuan Shi a sidelong look. “Are you regretting not following the heroes’ path here?”
+
+She caught the signs of a frown, despite his high collar. “Nay. We are not they, and this one would not presume.” He shook his head. “All things aside, it would be best to test this one's creations in battle.”
+
+“Did you not do that in your challenge? You made a pretty high jump last month,” Ling Qi noted.
+
+“It was a test of creation, not war,” Xuan Shi answered. “The qi of the firmament is more my realm. Do you believe the lake is yours?”
+
+“Not hers, but mine,” Sixiang said aloud. “Think you two could hold hands for a second?”
+
+Ling Qi narrowed her eyes. <Sixiang, what are you planning?>
+
+<Oh, just gonna try something a little new to get through this barrier,> Sixiang replied innocently. <Need you two close together though.>
+
+Ling Qi shared a look with Xuan Shi, who looked bemused. “Please don’t mind them,” Ling Qi said. “Hanyi, come here please.”
+
+“... Very well,” Xuan Shi said.
+
+She stepped closer to Xuan Shi’s side as Hanyi returned to her dantian. While she still didn’t like cramming herself in close with someone else, this would be fine for a moment. She caught the shorter boy’s sleeve in her hand as Sixiang spread their qi through the air around them.
+
+“Aaaaand forward!” Sixiang announced cheerfully. They stepped forward together, and the rippling lake qi engulfed them, only for its shimmering, distracting light to refract and scatter across the mist of moon qi saturating the air around them. She felt Sixiang straining in her head, letting out continual pulses of dispelling qi as they moved through the barrier, but their passage was swift.
+
+<Oof. Think I need more practice with that before it’ll be battle ready,> Sixiang whispered, sounding drained.
+
+“Is your companion well?” Xuan Shi asked as they faced down the next barrier, a thing of screaming, tearing wind.
+
+“Just tired,” Ling Qi replied. “Now…”
+
+Her words were interrupted as the room went dark, every barrier snapping off at once. While the lighting meant nothing to her, the rumbling groan of stone grinding against stone heralded something of much more concern.
+
+“Hah. It seems that cheating is not appreciated after all,” Xuan Shi said.
+
+Ahead of them, climbing to its feet, was the statue they had glimpsed. Easily ten meters tall, it was carved in the likeness of a brawny, bearded man in archaic armor. From its back rose eight additional arms, each composed of different elemental qi. It stepped off the dais it had been seated on, and the entire temple shook with its weight.
+
+“I’m guessing it didn’t have those arms in the book,” Ling Qi said faintly, her eyes once again gleaming silver as she examined the statue. Even with her techniques however, what she could glean of its power was limited.
+
+“Indeed not,” Xuan Shi replied, raising his staff defensively and taking on a wider stance. “However, this one suspects more than ever that brute force is not the answer.”
+
+“I’m all for ideas,” Ling Qi said, taking stock of their surroundings. Without the barriers, there was room to release Zhengui, and she had every intention of doing so shortly. However, even now, she didn’t feel too worried. The door remained open behind them, so fleeing was always an option given the statue’s lumbering speed.
+
+“It depends,” the boy answered as the statue took another long stride forward, rocking the floor, “on which of us shall bear the guardian’s ire and which shall seek its weakness?”

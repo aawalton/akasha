@@ -1,0 +1,119 @@
+---
+id: 684053fb-2ad5-5335-95f7-a9a086f58911
+page-type-slug: story-chapter-royal-road
+title: "40. Digging Through the Trash"
+slug: 0040-40-digging-through-the-trash
+partOf: god-of-trash
+position: 40
+ownLength: 2757
+unit: words
+publishedAt: 2025-04-03
+link: "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2171995/40-digging-through-the-trash"
+royalRoadId: "2171995"
+---
+
+Rhys dripped three dots of potion on his hand. That was all the more he could handle right now, without having to vent excess mana. As fun as excess mana was, it didn’t do anything for him. Didn’t help rebuild or strengthen his body, expand his core or mana tolerance, anything. Three dots meant he could practice handling more impurities, strengthen his body, and expand his core, all without losing anything… or at least, much of anything. He glanced up. Black smoke still billowed up behind him, but now it was tinner, and more concentrated. Even darker than before, to the point it almost looked like a trail of ink instead of smoke. It would give away his position, but then, he was allowed to be up here. Even if the upper tier staff found out he was here, he had completely legitimate permission to be here.
+
+He gathered the trash into a pile as usual, but now he worked around the outskirts of the upper tier’s central square. Any time he picked up a scrap of paper, he scanned it for information, but obtained nothing useful. Most of what he found was receipts or lists of materials, or crumpled pill wrappers. The pill wrappers he added to his pile instinctively, and the same went for higher-tier potion vials, but for the most part, everything he found landed in the trash pile.
+
+Dragging the melted husk of a cauldron onto the pile, he stood and dusted off his hands, gazing upward. At the top of the central square sat Aquari’s house. That was where he was going to find the most information about Aquari and her decisions, to include her thoughts on this new loaned teacher. Why not go straight to the source? She’d agreed to let him pick up the trash, so it wasn’t like she’d stop him. He’d avoided her house on instinct, because she was the most powerful and could rescind his invitation if she sensed anything awry… but she was also the one person whose notes he really wanted to read.
+
+Fuck it. He’d come up here to gain access to the trash, yes, but he also needed to find out more about the teacher. If he kept flitting about the edges of the area, he’d never figure anything out. Putting his hesitations behind him, Rhys marched up to Aquari’s residence—and stared. His jaw dropped.
+
+He stood in her yard, though ‘yard’ was a crude word for the space he stood in. It was a massive garden, complete with hedges, ponds, fountains, and statuary. It stood outside a manor that would have put most nobles to shame. Fine brick walls, tall towers, and an ornate façade. Picture windows gazed down the mountain, and marble pillars glittered in the sun. The house itself was a work of art, and he could only see the exterior.
+
+The only problem was the absolute mountain of trash that surrounded it and filled it. Drifts of papers pressed up against the windows. Bits of broken furniture tangled in the fountains, and ruined clothing awkwardly draped the statues.
+
+Rhys raised his brows. That’s a task and a half.
+
+On the other hand, there were so many papers. So much she’d thrown out, without even thinking about it. The information he craved was almost certainly there. A smile spread across Rhys’ face, and he rubbed his hands together.
+
+It was time to get down to work.
+
+He started in the garden. Abandoning his old trash pile for a moment, he built a new one just far enough outside her manor that it shouldn’t bother her. After all, there was no need to lug her garbage across hill and dale to his old pile. There was enough here for him to build a whole new one—no, several new ones!
+
+Almost immediately, the old trash pile started sticking in his mind. He looked at his new trash pile, but the old one loomed large in his heart, calling to him, crying out. Why had he abandoned it? Why had he piled it all up, only to give it false hope? Rhys grimaced, then ran to his whole pile and dragged it over to the new one. It took him five loads, but it was worth it. No trash left behind!
+
+Tossed on top of the small amount of Aquari’s garden he’d cleared, it was already enough to count as a full pile. He set it aside and started a new one. I don’t need a new potion right now, and I don’t need to attract Aquari’s attention until I’m done cleaning her place. It would take him days to work through the potion he had, especially with Less is More kicking in. There was no rush on burning the trash and filtering out the impurities. As to the second point, he'd watched enough hoarder shows to know that hoarders often weren’t happy to have someone clean up their garbage. They were attached to it, for whatever reason, and they didn’t want to let it go. When someone’s ancient memaw started hitting the people taking her trash out, the worst that might happen was a happy ride in a car with flashy lights for memaw. When a high-Tier mage got angry about someone taking her trash out…
+
+Rhys took a deep breath and let it out. Yeah. I’ll just be elsewhere when she finds out.
+
+He had two hopes about cleaning up Aquari’s hoarder stash. One, she’d let him in to clean up the trash. That meant she acknowledged it was a problem, even if only incidentally or subconsciously. Consequently, when she saw her cleaned up space, there was a good chance she might be mad immediately, but then pleased with his hard work. Two, he was here to figure out what the deal was with the visiting teacher. Even if Aquari decided to be mad and became violent, it would be worth it, as long as he knew what he was in for. He had Az to vouch for him, so not only could he hide in the library, but as long as he reminded Aquari that the cat was stronger than her, she would likely hesitate to physically punish him.
+
+If she banned him from the upper peak after he burned her trash, it would be a pity, but… He looked over his shoulder, at the two piles of trash he’d already made, then turned around to stare at the garden. He could barely tell where he’d picked up trash. There was so much trash in the garden alone, let alone the drifts of papers and garbage in her house. He’d have enough impurities to brew hundreds of potions by the time he was done with Aquari’s house. By then, he’d almost certainly have enough potions to train himself up to the level that he could begin to absorb the toxic pit’s impurities.
+
+Right now, he was still struggling to absorb drops on his skin. The potions he made from this trash were incredibly potent. Sipping them was still a dream. But that was exactly what he needed if he wanted to step up to the powerful impurities in the pit. And not only that, but lots of them. One potion was never enough. Dozens, hundreds—and all this trash would give him just that.
+
+But first, he had to gather the trash. And to gather the trash, he had to clean Aquari’s house, which was also where he would find the details of that teacher who he was supposed to watch.
+
+Let’s get started.
+
+It was slow going. Rhys dripped potion on his hand in between dragging the trash into piles. The excess energy he poured into his body, steadily forging it stronger and stronger, using the mana to hammer his muscles and bones stronger in the same way a blacksmith would pound metal at a forge. The whole time, he kept piling up trash, setting the piles up in a neat grid. He filled up one line with piles, then added another, five piles deep for each line. When he found suitable cloths that could let the smoke out but keep the impurities in, he tied them up in the trees over the piles in preparation to burn them.
+
+The sound of rain broke his concentration. He paused, wiping his brow, and stared up at the sky. Clear blue skies, a few fluffy white clouds to interrupt the deep blue. Rhys furrowed his brows. Why…?
+
+“You there. You dare clean the Schoolmaster’s property?”
+
+Despite the caustic words, they came from a gentle, fluid female voice, and were delivered without any bite, but instead, almost a joking lilt. Rhys lowered his eyes to find a young lady standing before him. She was a few years older than him, fully grown but still young. Eighteen or nineteen, if he had to guess. Long dark hair hung in flowing curls to her waist. A soft face held full lips and drooping, peaceful eyes that were so nearly closed they appeared to be shut when paired with her thick, dark lashes. She carried a black umbrella and wore layered, loose white robes that fluttered around her limply, wanting to fly but unable to.
+
+Unable to, because she was sopping wet.
+
+Rain poured from the underside of her black umbrella, absolutely soaking her. Her hair dripped with water. Rivulets ran down her face. If not for her perfectly placid expression, he might have thought she was squinting against the rain. Her wet robes clung to a mature body, one which had Rhys locking his eyes on her face and her face alone.
+
+He might love trash, he might be trash, but he drew the line at ogling a woman to her face. If she were a piece of art or an animated character, he would have spent hours lavishing himself on her beauty, waxing eloquent on the finer points of appreciating a wet-robes character on the appropriate forums, and futilely begging the studios to put out figures of her wet-robes form, knowing that the studio had already commissioned every possible figure they could to squeeze the maximum money out of degenerates like himself. But she was a real person. A human being. As someone who had been the subject of stares due to his unfortunate figure in his first life, he knew how bad it felt to be gazed at with disgust and ill intent. He could only imagine how much worse it would be for a woman to be constantly stared at with lascivious eyes.
+
+Of course, she had chosen to wear white and carry a raining umbrella, but until he was explicitly invited to look at her, he intended to avert his gaze. That, and he had already felt a twinge from his fifteen-year-old body that indicated everything was in working order and ready to go, and he had absolutely no desire to embarrass himself on his first day on the upper peak, in front of the Schoolmaster’s mansion and everything.
+
+A second of staring at her face and nothing else later, Rhys belatedly realized she’d asked him a question. He cleared his throat, using it as an excuse to reset his thoughts. “I’m not. That is, I’m not cleaning. I’m collecting the trash.”
+
+“Is picking up the trash not cleaning?” she put to him.
+
+Rhys opened his mouth, then shut it. He tilted his head, considering. Was picking up the trash cleaning? It did have the effect of cleaning up an area, but he didn’t set out to clean. His intent was to gather the trash for himself. It had the side effect of cleaning up an area, but that wasn’t what he set out to do. In fact, his trash-gathering was selfish, for the intent of strengthening himself, where cleaning was altruistic, so he couldn’t claim to be cleaning at all, but equally, to claim to not be cleaning when the results were so clearly obvious. Whether he did it selfishly or not, he picked up the trash and left a clean area behind. His intent didn’t matter. Others could enjoy the trash-free space that he had created all the same as though he’d set out to create a clean space.
+
+Something deep within his core trembled, and Rhys touched a hand to it. The answer of this was important, deeply so. But he didn’t have an answer right now.
+
+She chuckled. “Don’t give yourself a backlash trying to figure it out. If you’re picking up the trash, then pick it up out of her fountain.”
+
+Rhys turned. Aquari’s fountain stood in the center of the garden. It was a grand thing, multiple tiers tall, thigh-deep on the lowest level, and at least ten meters in radius. Like the rest of the garden, it was strewn with trash. A broken chair dangled from its top, and drifts of soaked papers and leaves clung to the walls. The water itself reeked of algae, stillness, and rot, a dark murky brown from all the filth accumulated in it.
+
+“Why?” he asked.
+
+“I want to bathe in it,” she replied, as though it were the most natural thing for her to want, and the most natural thing for him to wish to jump to her every desire.
+
+“Uh huh.” Rhys turned away, back to his dry trash. The wet trash wasn’t high priority. He’d have to wait for it to dry, so there was no reason to waste his time on picking it up early when he had plenty of dry trash to work with right now. Once he ran out of dry trash, he’d get to it, but for now, it was a waste of time.
+
+“You don’t want to see me bathe in it?” the wet girl asked, shocked.
+
+“You’re already wet,” Rhys pointed out.
+
+“So you’re enjoying the sights without offering anything in return!” she replied, hugging her arms around herself in mock protest.
+
+Rhys carried on ignoring her. He knelt, scooping up a big pile of trash, and carried it to his grid.
+
+She stood there for a few moments, arms wrapped around herself and protest on her face, until she realized he really was ignoring her. At that, she immediately changed tactics. “What do you want?”
+
+“Hmm?”
+
+“You must be up here for a reason,” she prodded. “I know much of the goings-on up here. I can tell you anything you want to know. When Aquari bathes, for example…”
+
+Rhys gave her an unimpressed look at that. He wasn’t that excited to see their asshole of a Schoolmaster naked. Some people might get off on that, but he wasn’t really the type to get excited over seeing someone he didn’t like much naked. Besides, the risk of getting murdered was way too high for him to ever consider peeking, especially when he didn’t even want to see the subject in question naked.
+
+“What do you want?” she asked.
+
+He sighed. It wasn’t as if he was against cleaning the fountain. In fact, he intended to eventually, so he might as well get rewarded for work he was going to do anyways. He just wasn’t sure if he wanted this woman to know what he was up here for.
+
+Ah, what’s the risk? All she wants is for me to clean the fountain. He nodded toward Aquari’s residence. “I’ve been assigned to watch the guest teacher who’s coming soon. I want to know more about them, and their school, and their school’s relation with ours. I figured Aquari’s papers would be the best place to find that, but…”
+
+He gazed at her house. Deep behind the windows, a stack of papers collapsed into the wild drifts.
+
+The girl nodded. “I know where she puts her latest papers. That would be the best place to start. If you clean the fountain, I’ll point you in the right direction, And in the meantime, to show my good intent, I can give you the background that I know between our two sects.”
+
+Rhys nodded. He turned and offered the girl his hand. “It’s a deal. I’m Rhys, nice to meet you.”
+
+A cool, wet hand slid into his, soft and slippery as an eel. “Lira. It’s good to meet you.”
+
+“Are you one of those water spirits that lures people to their doom?” Rhys guessed, remembering Ev’s joke.
+
+She smiled. Sharp teeth appeared between her lips. “Would you believe that those stories are mostly myths?”
+
+Rhys smiled back, suddenly a little worried. Am I going to be safe? Do I need an adult?

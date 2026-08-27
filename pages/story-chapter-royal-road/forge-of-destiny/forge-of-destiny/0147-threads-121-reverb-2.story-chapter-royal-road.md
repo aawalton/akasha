@@ -1,0 +1,147 @@
+---
+id: 18d6b8f4-7567-522c-82b6-447bd58fe660
+page-type-slug: story-chapter-royal-road
+title: "Threads 121-Reverb 2"
+slug: 0147-threads-121-reverb-2
+partOf: forge-of-destiny
+position: 147
+ownLength: 2160
+unit: words
+publishedAt: 2021-08-21
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/737735/threads-121-reverb-2"
+royalRoadId: "737735"
+---
+
+As the core disciple overseeing the match raised his hand to signal the start, Ling Qi briefly reviewed her plan. Ling Qi had considered trying to beat Ji Rong at his game, rush him down, freeze and defeat him before he could build up a charge, but that was not what she had spent the month practicing. Playing at his game would allow him to dictate the pace.
+
+The referee’s hand came down, and everything outside the field distorted as it expanded, putting hundreds of meters of distance between them. A trilling wintery melody rang out as her Singing Mist Blade materialized above her head, and the Mist spilled forth.
+
+Across the field, thunder boomed, and a ring of inscribed discs appeared behind Ji Rong’s shoulders. His fists rose, static crackled in whitening hair, and his silhouette seemed to frizz and jump.
+
+In the field between them, Ling Qi felt their domains clash. Both were still formless, nameless. The Mist spilled into the world and sang of winter’s hardship, but Ji Rong projected nothing outward.
+
+He had become the lightning.
+
+In that moment, she met his eyes and found commonality. Neither wind nor lightning could be caged. She would not be able to trap him with laughing revelers again.
+
+Then he was in front of her, his fist outstretched, sparking knuckles nearly touching her nose. Ling Qi became the wind and scattered as the heavenly bolt crashed through her. In the boom of thunder, her laughter could be heard.
+
+Even as her silhouette reformed, she heard glass shatter as his heels dug into the melted dirt and launched himself back at her.
+
+This time, a palisade of writhing wood rose to stymie him, even as a young girl’s laughter mingled with a dragon’s roar.
+
+As new grown wood blackened and bulged inward, Ling Qi used the moment bought and played the first notes of the Spring’s End Aria, calling upon the echoes of true winter. Hoarfrost spread across the ground, and icy mist trailed from the hems of her dress as she ghosted backward, carried on the wind, riding the shockwave of the explosion that tore through Zhengui’s barrier. When Ji Rong ripped through the wall, a battlecry on his lips, she met him with a Hoarfrost Refrain.
+
+The screaming howl of a blizzard lashed him, and the scouring cold poured into his channels. Ji Rong, suspended in midair, shattered like fine glass, a great waterfall of sparks and static falling to earth amidst sparks of ice.
+
+A fraction of a second later, she felt an impact on her cheek. From a scattered crackle of static, Ji Rong’s fist materialized, followed by the rest of him. Her head snapped to the side as heavenly power ripped through layers of defensive qi. The follow-up punch deflected off a ringing note in the air, and the third and fourth crashed through naught but air. The fifth struck her in the chest. Then, within her mind, Sixiang stirred, and chaotic qi rippled out, disrupting Ji Rong’s technique.
+
+They flew apart to re-materialize on the ground. For a second time, their eyes met. Ling Qi’s cheek stung where his hit had landed, and frost clung to strands of Ji Rong’s hair.
+
+Ling Qi smiled thinly behind her flute and flew backward toward Zhengui without turning, flaring her qi in a prearranged signal.
+
+Her little brother was engaged with Ji Rong’s dragon, stabbing roots leaving scrapes and cuts across flying golden coils, but the moment that she gave the signal, he stopped, allowing the beam of liquid lightning that the young dragon spat to splash across his face to no effect.
+
+Hanyi’s voice rose in song and drove Relong back with the voice of winter. She hopped from Zhengui’s shell onto a squirming root, following as he retreated. That was part of the plan. Ling Qi trusted Hanyi to handle the dragon.
+
+Ling Qi had managed that situation perfectly well herself at that level after all. And unlike Heizui, Relong was at the same level as Hanyi rather than one stage above.
+
+As Ji Rong cut through the air, hot on her trail, a massive quantity of qi flowed down through Zhengui’s legs and into the field below.
+
+The earth roiled with life. Roots the size of entire saplings erupted, interposing themselves between her and Ji Rong. A flurry of fists tore apart a score, but a score more sprouted in their place. Ling Qi landed atop Zhengui’s shell, his volcanic heat only a pleasant warmth to her, and played a single ear-piercing note.
+
+As Ling Qi knew from sparring with Wang Chao, even if something could not be stopped, it could be redirected. Ji Rong, rocketing toward her still despite the lashing and obstructing roots, was taken by surprise when an eagle screamed and talons seized his shoulders from behind, using his momentum to fling him across the battlefield above her. Amidst the grasping roots, the phantoms of beasts rose, and the song of her sword and the Mist girded their claws and fangs in frost.
+
+She wondered briefly what she looked like to the audience, shrouded in mist standing atop Zhengui’s back and surrounded by a growing phantasmal army that stalked among root and branch.
+
+Ji Rong landed with a thunderous boom at the end of his flight, and a crackling fan of lightning rippled outward, ripping apart the phantasmal eagle. He glared across the field at her, crackling static pouring down his limbs and blackening the grass as he crouched there.
+
+Two of his nine discs were burning blue.
+
+Then, he did something that surprised her.
+
+His hand rose, two fingers extended. He stabbed them into his own chest, lightning-shrouded fingertips parting flesh like paper, and roared.
+
+It was not a sound which was meant to come from a human throat. Pebbles rattled and rose from the earth, and Ling Qi felt the wind vibrate and shake. Blinding lightning erupted outward in every direction from his position, and bolts fell from the clear sky. Reflexively, Ling Qi called on the Starless Shroud technique, and the bolts which fell upon her and her spirits vanished with nary a ripple.
+
+Ling Qi focused through the lightning, eyes flickering silver, and she saw him. A tracery of curling red lines like tattoos marked his flesh, and the wound in his chest bled freely, a crimson line running down his chest. Sparks crackled around his fingers, and his eyes burned blue.
+
+A third disc was burning.
+
+Ji Rong flung his hand outward, and crimson droplets scattered, each holding a single catalyzing spark, and orbs of lightning the size of a man’s head bloomed in the sky. Beneath her, Zhen’s throat swelled as he spat a boiling mass of glass and magma.
+
+It struck Ji Rong head on, but he erupted from it, bearing no more than scorched clothes and smoking skin.
+
+A fourth disc burned.
+
+Ji Rong charged, a roaring tail of lightning following him as if he were a comet.
+
+Ling Qi leapt down from Zhengui’s shell, her dress trailing behind her limbs like ripples of the night sky, and called forth the memories of revelry, the last link she needed to complete her defenses. Around her, howling beasts rose onto their hind legs, snarls turned into callous laughter, and robes and intricate armor bloomed across fur and hide. Ling Qi felt the brush of a dream.
+
+Zhengui tensed, and ash began to fall like snow. The aches of what few hits Ji Rong had landed began to fade.
+
+Overhead, orbs of lightning pulsed, and Ling Qi prepared herself to defend, only for the jagged bolts that erupted to strike Ji Rong. With each one, his aura flared brighter, and she felt his qi surging, building up power.
+
+A fifth and sixth disc glowed.
+
+He hit the front lines of her phantasmal army and howled like a beast himself as he tore them apart, fists flickering faster than her eye could track. Phantoms were torn into scraps of mist and dream. On his forehead, a third eye blazing with golden radiance burned, and behind his head, she caught a flickering vision of a thousand petaled lotus.
+
+The area he plowed through stayed clear. The Mist rolled back in, but new phantoms and revelers did not arise in his wake.
+
+He was paying for his advance. A great black wolf the size of a horse tore gashes in his right arm with its fangs before lightning ripped it apart, a screaming hawk tore at his face before a fist crushed it, and a striking serpent’s fangs found his leg before he trampled it. Slowly but surely though, he was carving a path of violence toward where she stood.
+
+Zhengui’s roots stabbed at his feet and snatched at his limbs, but they failed to slow him down.
+
+Ji Rong charged, and Ling Qi remained still as the air around her shimmered, faint and dreamlike afterimages trailing her limbs as she raised her flute to her lips once more. Dissolving, she rematerialized behind him.
+
+The pressure of her spirit smashed into him with the weight of a glacier, and ice burns spread across his back, visible under his tattered robe. Ji Rong stumbled, and for a moment, she thought that he would be launched forward, ready to take another plume of magma from Zhengui.
+
+Instead, his feet dug into the earth, and he spun, throwing a punch at the open air.
+
+Ling Qi dissolved, but this time, it didn’t help. A ten meter-wide gash opened in the earth as the wind roared, and Ling Qi felt dizziness as the tremendous force tore apart the currents of wind on which she flowed, scattering, for a brief moment, her perception into a thousand whirling sparks of color and noise.
+
+Dizzy, she was struck a hundred times and more, sparking fists battering her spirit.
+
+Ling Qi reformed, crouching on the ground, feeling as if she had been run over by a cart. Ji Rong stood above her, and Ling Qi prepared to step into dream, dragging them all away to reset the match.
+
+The seventh and eighth disc activated.
+
+Around her, she felt the dream deepen, the world blurring and rippling. In a moment of communication with Sixiang, she understood. As Ji Rong drew back his fist, the world bent, and Sxiang manifested, slender arms wrapping around his chest. Their features were feminine, and as they leaned forward to nip at Ji Rong’s ear, space bent, and his movements slowed.
+
+“Heeeey cutie, things are about to get hot.” Sixiang giggled.
+
+It was at that point that magma concentrated down to a single point erupted under Ji Rong’s feet, and Ling Qi flowed back to her feet, the revelers around her beginning to cheer and stamp their feet.
+
+The ninth disc burst into light, and the magma was blown away.
+
+Ji Rong was far from unharmed. Burns marred his skin, his clothes tattered and charred, and she could see a trembling in his right leg that spoke of coming collapse. None of that changed the ring of scintillating lightning that burned overhead like a god’s crown. None of that changed the exultant cry of falling lightning that fell upon them, a blast which she could only compare to Cai Renxiang’s light in experience.
+
+The silence did.
+
+The roar of lightning, the music and revelry and howls of beasts, and even the distant sound of Hanyi’s laughter all fell silent. Starless Night’s Reflection was an art that mimicked the bottomless lakes of the Thousand Lakes. Its Black Mirror technique was its most potent defense, and she used it now, draining her qi reserves precipitously. Darkness bloomed from Ling Qi and swallowed them all.
+
+A moment later, it shattered, but the lightning was gone. The field lay unchanged as if nothing had happened at all.
+
+Ling Qi stepped forward and laid her hands on the gaping young man’s smoking shoulders.
+
+She sang silence, and the revelers roared.
+
+***​
+
+“It was a good match,” Ling Qi said, offering a hand to her opponent.
+
+It was to Ji Rong’s credit that he hadn’t needed intervention from the Call to Ending. He knelt there, blackened skin cracking under the returned heat. His qi was gone, but he was still conscious.
+
+“Yeah, you win. I yield,” he said through frost-cracked lips.
+
+Off to one side, Hanyi stood proudly atop his defeated dragon. Her dress was a little charred, and she’d gotten some cuts and scrapes from the brawl, but she was in good humor.
+
+Zhengui stood ominously behind her, glaring down at Ji Rong.
+
+Ji Rong stared at her hand as if it might bite him.
+
+“It’s not enough to just fight on my own, is it?” he mumbled.
+
+Ling Qi’s silence was her answer. She thought it was obvious.
+
+Ji Rong took a shuddering breath and took her hand. She helped him to his feet as the referee deactivated the field and the crowd erupted into noise.

@@ -1,0 +1,143 @@
+---
+id: fedab022-bdc2-5a4a-81c1-aa325790a951
+page-type-slug: story-chapter-royal-road
+title: "Threads 507-Ith 1"
+slug: 0556-threads-507-ith-1
+partOf: forge-of-destiny
+position: 556
+ownLength: 2618
+unit: words
+publishedAt: 2026-03-20
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3171432/threads-507-ith-1"
+royalRoadId: "3171432"
+---
+
+It was early, the lower edge of the sun still touching the horizon when she met with the Minister. She came to him at the nondescript but well-appointed office of the Ministry of Spiritual Affairs in the administration district. One might think the Ministry's headquarters in the capital would be less austere, but Ling Qi could see the logic to it.
+
+The Ministry of Spiritual Affairs oversaw a vast web of spirit pacts and served as a congregating place for many varied priesthoods. Anything truly grand could easily offend some spirit or court. So, the headquarters was instead simple lines, dun roof tiles, a clean layout, and just a hint of draconic imagery woven into the scrolling of the rails and painted into wallpaper, quietly asserting the Celestial Dragon's spiritual supremacy.
+
+They met in a simple office, lit brightly by a formation lamp on the ceiling.
+
+"Minister, thank you for granting me the honor of a conversation, even before the time of the meeting with Law," Ling Qi said, paying respect to the cultivator’s position, bowing low.
+
+"As the young heiress' closest spiritual advisor, it seems only sensible that I speak with you, considering the influence you have already shown in the south." Zhu Fan stroked his beard. Although he wore the horned band of his order on his head, his robes were much less intricate than last she met him. They were clean, soft earth tones with some geometric embroidery.
+
+"It is a role I've found came naturally, but not one I received any classical training for," Ling Qi admitted, choosing her words carefully. "I, of course, do not mean to cause disruption, merely to aid where I see it is needed."
+
+"Understandable. When one is young, it is easy to see only numerous problems and easy solutions," Zhu Fan said agreeably, gesturing for her to rise and moving to take a seat himself. "And those youthful eyes are not always wrong. There are many lingering problems left behind from Ogodei's wake."
+
+Ling Qi nodded cautiously. That was a relatively good start to their conversation. It certainly hadn't been the polite rebuke she had feared would be coming her way.
+
+“Pretty conciliatory, but I wouldn't expect him to just pat ya on the head and tell you good job, either. There's gonna be a lot of buts to those words, I'd bet," Sixiang murmured.
+
+Ling Qi ventured, "The calamity of that invasion has left many deep scars. I do not fully understand the hows of it all."
+
+"The cloud tribes do not interact with spirit courts as we do, and so, they have no respect for the rituals and rites and pacts they do not make. When the people of the south were slaughtered and driven from their homes, the spirits they had cultivated as their neighbors were merely collateral, uprooted and replaced by wilder spirits born from the torrential floods."
+
+There was a heavy beat of silence.
+
+Zhu Fan continued, "Great Tsu became the Bountiful Earth and ordered the seasons, which were themselves but expressions of yin and yang energies in the world. Rising heat, highest heat, falling heat, lowest heat. This, he made a cycle, rather than a chaotic jumble, and man's wars cannot disrupt this. But the smaller details…"
+
+Ling Qi filled in the answer to the unspoken question. "When do the rains come? How often, in what quantity? Which rivers flood and where? When does the first crop-killing cold come? These answers are the work of much smaller spirits. This is one of the matters I have sought to stabilize in our fief, or at least, regulate the coming of the snows.”
+
+"It is a unique method," Zhu Fan allowed, dragging his fingers slowly through his beard. "Unstable. Your spirit does not have the potency to be such a far-reaching lord."
+
+"She may grow to be so. Her mother was much more potent than she."
+
+"And yet, that spirit was only the cold of the mountaintop, not a matriarch of winters to stretch across the province," Zhu Fan replied. "Caution. Be wary of what you change. However, I know you act with the blessing of certain interests among the Meng, so there is clearly a plan. I hope you will convey that I would like to hear it."
+
+That was rather pointed, as far as requests went.
+
+"Hanyi's tour seems to be working out, but yeah, it's starting to get kinda serious, too. That's probably a talk we need to have with Granny Meng," Sixiang advised.
+
+"I will raise the matter where I can. If I may, we have some plans to expand to more of a troupe model to spread the authority involved. Hanyi has also been learning to cultivate lesser spirits into local agents who can act in her absence," Ling Qi answered frankly.
+
+"That is somewhat reassuring. A roving court is not a new concept, among man or spirit, but it has its own complications," Zhu Fan said after a moment's consideration. "Primarily, I would like to speak with you about your thoughts on spiritual organization. You are a rising star of the south, and your actions will influence the likely new wave of settlement that will be arriving."
+
+"The Minister thinks so highly of me?"
+
+"I recognize youthful ambition and the success which has granted you influence," Zhu Fan replied neutrally. "The heiress has taken the first steps of solidifying a position. It behooves a wise man to observe the new growth that survives its first winter."
+
+"I cannot say I have no intentions of ordering things toward my own vision of harmony, in the regions that come under my purview," Ling Qi said. "Nor holding myself back from advising my neighbors."
+
+"Who would be influenced by the extensive spiritual infrastructure being raised before they have done much more than break ground, regardless," Zhu Fan observed in a voice as dry as dust.
+
+"I don't know if it could be called extensive."
+
+"It is."
+
+She ducked her head, and Sixiang chuckled. "I will defer to the Minister's judgement."
+
+He did not quite sigh aloud or do anything so crass, but the flicker of irritability in his aura told her he did not believe she would. "There are several strains of thought in the purpose of spirit pacts."
+
+Ling Qi nodded. "Meng Duyi has taught me about this. The Weilu method prioritizes minimizing natural disruption."
+
+"That is how they would put it. I would say, rather, they prioritize taking advantage of and then shaping already present phenomena in the long term. The imperial method prioritizes constructing optimal environments for human safety and health. I will not ask which of these methods you favor, as it is obvious. Instead, I would ask what you believe the priority of a lord and their priests should be in arranging their environment."
+
+Zhu Fan posed hypotheticals. "Is it the ease, health, and happiness of their citizens? Is it the long-term harmony and stability of one's fief, past any mortal man's lifetime, forgoing growth? Is it the productivity of the land, bolstering the wealth it produces? I would like to hear your thoughts on this matter."
+
+Ling Qi rubbed her fingers against the armrest of her chair thoughtfully. That was an interesting way to frame it.
+
+"The productivity and bounty of the land is the most fundamental goal," Ling Qi answered, thinking of Zhengui. It was his enrichment which allowed the otherwise meager land to bloom so well, and it was that blooming which drew in their steady trickle of new citizens, despite the danger. From that growth, the manpower to build and develop more amenities rose.
+
+"Providing that is what enables the rest. Comfortable, content people are steady because the most fundamental happiness is the freedom from deprivation," Ling Qi continued. "This goes for spirits as well. In my role as a priestess, determining what a spirit hungers for, what its wants are, and how they may be aligned with human interests to produce prosperity is the goal of my pacts. I don't think stability, at least in the way you described it, is necessarily desirable. Day-to-day and moment-to-moment, yes, but the world marches on. Trying to cling on to a certain state for too long is just as dangerous as wildly breaking your pacts. Men change, and spirits do, too."
+
+"Contentment is a prize which men can never hold for long,” Minister Zhu Fan warned. “When one generation grows into new luxury, the next will see it as their entitled right and will demand more to be elevated still higher. That is the curse of wealth and expansionism. The Bao have filled whole libraries with discussion on this. The old ways do have their point in curbing this. When one lives as their parents did, as their grandparents did, harmony is achieved wherein pacts and stable lives may continue on for a thousand years or more without disruption."
+
+She thought she saw the shape of this conversation now.
+
+"Ain't about being right or wrong. It's about being able to defend and advance your position, yeah," Sixiang whispered.
+
+"I don't believe so, Honored Minister. I have studied the Weilu. My understanding is that as the age of the first dukes wore on toward their exit, discontent, strife, and contraction were the name of the day. That is the lie that sometimes sneaks into the word stability. There is no perfect stasis. In the absence of growth, decay remains," Ling Qi replied. "If a man has two sons, they must divide his fields between them. If they each have two sons, the fields are divided again. Strife, or at least the demand to clear more fields, is inevitable."
+
+"A surprisingly traditional argument," Zhu Fan said, a touch of amusement into his voice. "And perhaps one born out in the modern day as well."
+
+"One that has been recognized, I am sure," Ling Qi acknowledged, knowing he could only have been referring to the Meng and their recent indiscretions. "I freely admit I am not well read on the traditional arguments.  So many cultivators over so many centuries would come to some of the conclusions I have, thinking on my own. I do understand this. I am not so arrogant to think that my musings are unique."
+
+"It is good you are able to admit that to yourself. I might suggest some tomes for reading, if the Baroness wishes," Zhu Fan offered.
+
+"Please."
+
+"Don't worry, Qi. I can do some voice for ya. Promise. We gotta go out and improv some poems after, though!"
+
+She refrained from snorting. She could take that deal with Sixiang.
+
+"I stand by my words.” Ling Qi returned to the topic. “Abundance is good for both man and spirit, within some guidance against excess. This demands of the citizens an understanding and education on how to interact with the spiritual, but I do not think this is unreasonable."
+
+"It is easy for an expert to assume their expertise is easily spread, for a certain kind of expert," Zhu Fan cautioned. "I have heard of your arrangements. The more complexity one loads upon the laymen, the greater the certainty of error becomes. What will you do when a fisherman or quarryer inevitably makes an error, in the small rites you are devolving to mortals? The spirits will demand recompense, and it will not always be some easy task or item for a civilized mind to stomach."
+
+Ling Qi pursed her lips, remembering the miners buried in the cave in at the summit. There, she had wielded the threat of the General and conciliation to quell the mountain's demand for blood. She had since gained greater insights, and worked through rites, invoking imperial backing, such as those she had wielded against the Lonely Mother.
+
+"I am where the responsibility flows from. I will be the one to make whatever offerings are needed," Ling Qi said.
+
+"A fine sentiment, but not a true answer to the problem. You intertwine man and spirit, but they are not the same. The Weilu method demands that men pay their blood. The imperial method is to bring the spirit into submission to imperial law and the celestial court, routing their grievences through its ritual infrastructure. Spirits take slight at many things which a man would consider unreasonable."
+
+Ling Qi pursed her lips. "I do favor citizens. When the wildfire rages, I extinguish it. When the blizzard comes, I offer it fire and stories to whirl about, but if it came regardless, I would scatter it. My personal connections are different. I admit that this might be hypocritical of me."
+
+Zhu Fan nodded. "So it is with many new cultivators who bear strong spirit companions, though the potency of yours has few precedents. I only ask that you meditate upon this and find a core principle on which to adjudicate rather than arbitrarily decide in the moment based on your feelings. Returning to the topic, you contend that abundance is the greater priority than happiness."
+
+"I would contend that it is a prerequisite,” Ling Qi rejoined. “Perhaps not in the most common sense of abundance, such as the riches of mine and field, but without sufficient abundance to serve their base needs, happiness is only a fleeting thing existing in warm moments before the anxiety of tomorrow's meal and tomorrow's roof steals it away."
+
+"It is crude and base to imply that mere material abundance is the basis of spiritual health."
+
+"It is the thought of a man who has never been hungry to imply that material items are not the foundation of human need," Ling Qi retorted. "It is perhaps satisfying to the refined scholar to imagine men's minds exist on a higher plane than their stomachs, rather than the two being deeply intertwined. For a cultivator of the higher realm, this may even be true, but we are not speaking of such cultivators."
+
+She met Zhu Fan's stern gaze. On this matter, she had no second thoughts.
+
+"Mm, We come then to the principle, amid the pleasing words," Zhu Fan said. "So, it is a lord's utmost duty to provide this foundation to their people, then?"
+
+"My Lady Cai is far wiser in the ways of rulership from on high than I. People have many needs, but I agree with your choice of words, Minister. The most beautiful structure is but a pile of wreckage without a firm foundation. That is why my role as a priestess is to bring about abundance and prosperity, and from there, allow happiness and stability to derive.."
+
+Ling Qi paused, thinking of the nightmares that Shu Yue had shown her.
+
+"In some ways, I think there is a limit to how much happiness can be granted from above or outside. Stability… I think it can be better called consistency. A person must know the laws that govern them and have a notion that they are both fair in nature and unlikely to change without warning. In this, humans are not so different from spirits."
+
+Ling Qi shook her head. "I apologize. That got away from me, sir."
+
+"It is sometimes more informative when a junior allows their thoughts free flow than when they are choosing them carefully," Zhu Fan said. He did not voice approval or disapproval of her words. "I have heard what I require. I will send along that reading list, and I would have you inform me of your thoughts on them.”
+
+"You are too generous, Minister," Ling Qi said.
+
+She really wasn't going to be able to skim these books.
+
+"Perhaps, but an old man may be allowed his hobbies. Regardless, the time for the primary meeting is soon, and the Law delegation is on the approach."

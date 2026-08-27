@@ -1,0 +1,159 @@
+---
+id: 17300d41-4cc1-59bf-9638-cd5c878c308f
+page-type-slug: story-chapter-royal-road
+title: "Threads 213-Friend and Foe 2"
+slug: 0247-threads-213-friend-and-foe-2
+partOf: forge-of-destiny
+position: 247
+ownLength: 2422
+unit: words
+publishedAt: 2022-05-09
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/903967/threads-213-friend-and-foe-2"
+royalRoadId: "903967"
+---
+
+Ling Qi pondered about Shu Yue as she rejoined the party. A follower of an older cultivation method? She wouldn’t have thought such a person would be so close to the Duchess.
+
+She moved through the party for a time, engaging in small talk about the tournament, the plans Renxiang and she were making, and more personal matters. There was less of that this year though. It seemed that she had begun to scare away lesser marriage offerings.
+
+All the while, she kept an eye out. And when the shishigui “envoy” stood alone, she excused herself from her chat with the daughter of a central viscount over the clothing of the southern people. She didn’t spy anyone else seeking to speak with the shishigui on the way. It seemed that interest in this strange “prize” was used up at the moment. Approaching, she made sure not to reflexively hide her aura, not wanting to startle the White Plume guards.
+
+“I greet you, honored one.” The shishigui spoke first as she approached, its hunched back twisting awkwardly to allow it to bow. It spoke clearly in the imperial tongue, sounding like an old woman, creaky and tired. “How might this humble one address you?”
+
+<Ling Qi,> Sixiang murmured.
+
+She held back a grimace at the muse’s prodding. No matter if this shishigui’s presence made her gut churn, if it made her think of her mother’s face, pale and drawn, or if it reminded her of people never emerging from the tunnels, this one was not from the same… city.
+
+It wasn’t fair to judge it—her—any more than it was fair to judge Ilsur for the actions of the barbarians which attacked the Sect. She studied the shishigui in silence for a moment, listening to the faint dry wheezing of her breath as the air bladders on her helmet shrank and grew.
+
+“You may call me Baroness Ling. The Duchess said you were called Tcho-Ri. Is this a title or a name?”
+
+“It is both,” said Tcho-Ri. “Tcho means Mouth of the God. This is my role in the conclave. Ri is my personal name.”
+
+“And how have you come to speak so?”
+
+“The god Cai provided.” Tcho-Ri was eerily still but for the breathing. “This suit makes the words spoken sound like that which your kind expect from this one’s age and status. For your tongue, I have learned since the day the people of Ha-yith-kai chose subordination.”
+
+“Why did you do so?”
+
+Tcho Ri’s eyeless mask regarded her without words.
+
+Ling Qi grimaced, acknowledging that had been a poor question. “Even in the face of the Duchess, did none of your people want to fight, or was it simply impossible?
+
+“The Yith—the People—made consensus. The Voices of the God spoke the will. Even in the small possibility of victory, there was only ruin in the future. The clash of gods is only to be sought in the face of extermination of the People,” Tcho-Ri said slowly. “The god Cai’s demands were not this.”
+
+“You believe you could have fought then?” Ling Qi still did not understand the shishigui nor the extent of their power, and that made her nervous.
+
+Tcho-Ri let out a hissing breath, and her reedy voice gained just a hint of defiance. “We could have fought. Victory was a gleam of hope, but not wholly impossible. Together, as God, the World Corpse would quake in the clash. But your god is mightier than Ha-of-Three-Hearts, and godwar brings only ruin. Baroness Ling, we submit to your league.”
+
+“You call the Duchess that, even knowing that she is subordinate to the Empress and that the Emerald Seas is but part of the Empire?” Ling Qi cocked her head, attempting to gauge just how much this creature was aware of the surface.
+
+“The words are different, but the meanings are the same. You say county; we say city. You say province, and we say league. There are no great leagues here, so far from the holy lands, but this, too, we understand.”
+
+Ling Qi nodded, bowing her head in acceptance. “My apologies if my questions have seemed rude.”
+
+That brought a small hitch to the creature's breathing, and that eyeless head tilted to the side. “This one asks your excuse. Your land is a stressful place.”
+
+“You are not wrong,” Ling Qi agreed. “Ha-of-three Hearts… This is your ‘god,’ and your people, you called ‘yith,’ is that correct? What does ‘kai’ mean then?”
+
+“City. It simply means city.”
+
+“What then do you know of the people of Lith and the god Ya?” Ling Qi asked politely. Ya-lith-kai, Those were and should be the focus of her and the Empire’s ire.
+
+“Ya-the-Seven-Part-Sword dreams of war and a great league,” Tcho-Ri said flatly, their artificial voice conveying a deep dislike. “Their ambition echoes in the tunnels. Many have submitted. Their lands are wide, and their soldiers many. Their Minds are old and hard as stone, and their Eyes see what they wish to see.”
+
+“I have seen some of their land. It seems that they are having great troubles. They have spoken of us poisoning and breaking their harvests.”
+
+Tcho-Ri was silent for a few long moments, and Ling Qi felt their regard more heavily. In her mind’s eye, she recalled the memory of the shishigui priest, nails burning with green fire in empty eye sockets. The soldiers behind the shishigui shifted, hands tightening on pikes and crossbows.
+
+It passed.
+
+“This Baroness Ling is more knowledgeable than her kin. It is true. The sixth and the seventh cities of Ya-lith-kai suffer. The blood of the World Corpse flows sluggishly from her wounds there. Perhaps there is truth and your harvesting conflicts with theirs. More likely, this one thinks that this is an exercise in crafting consensus. A god divided could not stand against your Cai. The Minds of Ya seek glory and a great league. Each city brought to consensus brings might to Ya. They seek to use you as an instrument in this.”
+
+Ling Qi considered Tcho-Ri’s words. A glance around showed that there was not yet anyone else waiting to speak, but she knew her time would be limited.
+
+“You’ve discerned that I have some experiences with the people of Ya-lith-kai. Tell me, what are the worms which you dredge from the rivers, that you implant in your cultivators?”
+
+Tcho-Ri regarded her in silence, the lines of radiance in her suit humming softly under the sound of the party. “How much of the Ceremony of Echoes did you witness?”
+
+“I saw one of your kind on an altar surrounded by dancers. I saw his chest opened, and the priest who carved him open took a worm from the geyser of… blood, I suppose you called it,” Ling Qi said, choosing her words carefully.
+
+“It is the blood of the World Corpse, rushing from the wounds which laid her low. It is from that which we were born and to that which we return.”
+
+“The World Corpse. This is what you call the Nameless Mother?” Ling Qi asked.
+
+“That is your word, yes.” Tcho-Ri shifted from foot to foot. It was a nervous motion.
+
+“Then what are these worms which come from her ‘blood’?” Ling Qi repeated her question. The shishigui was clearly being evasive.
+
+“They are memory congealed in the blood,” the Voice finally answered. “All flesh returns to the World Corpse. All spirit returns to the World-Shroud. The maggots born in the blood are congealed experience. The Hands select maggots of the most value, and these become our, as you say, ‘cultivation.’”
+
+“And those fished from the river by laborers and burned in your furnaces?” Ling Qi felt a horrified churning in her stomach. The maggots were the dead? Just shishigui dead or…?
+
+“... Fuel. You know this cultivation. It is a sacrifice. The body is not meant to contain the memories recycled endlessly in the blood. The Ith-ia—we—prefer works and artifice. These require much fuel for food, for industry, for war. The blood itself has value. It feeds the land, waters the crops, and slakes the thirst, but only the refined blood-memory can fuel the great works of the city centers.”
+
+That all made sense, but Ling Qi found it disturbing. “You burn the dead for fuel and cultivation? Take them from the Nameless and destroy them?”
+
+“All flesh returns to the World Corpse. We are her, and she is us. All gods are mere reflections of her majesty. The maggots are refined, the fuel is burned, and the essence returns. The substance of the World Corpse cannot be destroyed.” Tcho-Ri’s air bladders hissed. Ling Qi perceived confusion there.
+
+Ling Qi’s frown remained. “Still, you say these worms are the dead. You take them from their rest,” she accused.
+
+The ith-ia’s posture became more confused. “The dead do not rest. They are gone. Old flesh becomes new flesh; old spirit becomes new spirit. If they live still, it is only in the thoughts of those who remember them: family, community, and city. What do the cysts and maggots born from their rot have to do with the dead?”
+
+Ling Qi wasn’t certain how to respond. Her own education on spiritual matters was spotty. Mother had taken her to festivals when she was very young, and she had occasionally seen priests do their work. So far as she knew, ancestors watched over their descendants, and the dead existed somehow. Perhaps they existed in the liminal?
+
+<I can’t help with that one. Only the real great spirits know what happens with the dead,> Sixiang murmured.
+
+“I apologize for my outburst,” Ling Qi said. “It seems we have misunderstood one another.”
+
+“Yes, it seems so. This one apologizes as well.” Tcho-Ri’s reedy voice was conciliatory, but Ling Qi was unsure if she was simply being pandered to.
+
+There was a moment of awkward silence before Ling Qi continued. “Hands. You called the ones who implant Hands. This is a role such as yours, being a Voice?”
+
+“Yes, this is correct. The Hands offer the guidance of God, and with their Fingers, they perform the Rite of Echoes and aid the implanted in coming to terms with their sacrifice and the struggles of a warrior's life.” Now on more sure ground, Tcho-Ri seemed to relax.
+
+A fair few people were occasionally casting looks their way now, and Ling Qi doubted she’d be able to keep people from listening in on this conversation at this gathering.
+
+<Yeah, time is running short. I suppose Fingers would refer to those dancing assassins,> Sixiang mused.
+
+“This one sees the Baroness has encountered a Finger in war. Would you tell this one of it?” Tcho-Ri surprised her by asking a question instead of waiting for hers.
+
+“How do you know this?” Ling Qi asked warily.
+
+“This one tastes the touch of a god, old and scabbed over. You have been bitten by a blade of—” Tcho Ri’s human voice flickered into static, and they spoke instead a short yipping sound. They paused a moment. “—a blessed blade. Apologies. The word I sought seems to have no translation.”
+
+“I was stabbed, yes,” Ling Qi said tersely, restraining the urge to rub her collarbone where the faint white scar lingered. “One of your Fingers came to the surface, slew one of my peers, and tried to do the same to a friend and I. They did not survive it.”
+
+“I see,” Tcho-Ri said, sounding troubled. It was the first time they had referred to themselves as “I.”
+
+“You spoke before of Eyes and Minds. Are these like Hands then? Designations for cultivation and role?” Ling Qi asked, taking back the lead of the conversation.
+
+“Eyes are those who observe community, wilderness, and city to determine threats and organize production. This is a high role, for the ability to process so much memory is taxing upon the flesh,” Tcho-Ri said, resuming their dispassionate explanation. “What they see, the Minds learn.”
+
+“Minds are your leaders then?” It had always bothered her that she couldn’t determine that.
+
+“No, Minds are not Ith, not people, any longer. To become a Mind is a sacrifice of the highest order. A Mind subsumes the self entirely into the flesh of god. Minds cannot speak, only process consensus, the will of god. The will of god is ineffable to those still of the flesh, but Minds translate this, and we, the Voices, interface and speak their words. One day, I will give myself and become a Mind when my life grows short.”
+
+They had said their god would probably lose to the Duchess though. So their god wasn’t a great spirit. Well, great spirits couldn’t enter the world fully in the first place. Maybe it was more like an avatar, like Xin or Sixiang’s grandmother?
+
+<Seems pretty weird, but maybe?> Sixiang murmured.
+
+“So everyone obeys what you Voices say?” Ling Qi asked, trying to understand.
+
+The creature’s shoulders shook, and she made a dry wheezing sound, which took a moment for Ling Qi to identify as laughter.
+
+“No, the Voices speak, but the will of god is rarely clear. Voices will contradict and disagree with each other. It is the Voice who gains support from the people who is followed. Only in perfect consensus, when every Voice speaks as one, do all obey. Our god does not walk and speak as yours, but through his people.”
+
+“And it requires perfect consensus to become god?” Ling Qi asked slowly, trying out the foreign phrase.
+
+“Perfect is best, but perfection is not always achievable,” Tcho-Ri said, the humor in their voice fading.
+
+Ling Qi thought that all sounded rather unwieldy and unworkable. “What if a Voice lies about what they think the will is?”
+
+“How can one who has connected themselves to the Mind of God lie?” Tcho-Ri asked, earnestly baffled. “Or do you speak of deception in the debate after?”
+
+“I suppose.”
+
+“This is a problem, a rot in a community, but all communities have degrees of decay. One must be vigilant and surgical in its excisement. This one understands your league had this problem and solved it with the incarnation of your god.”
+
+That was… not totally wrong, Ling Qi had to admit, but it was definitely incorrect in the details. She glanced behind her and met the eyes of a Bao man with a jeweled cup in his hands. He smiled at her and gave a nod, but she got the impression he was waiting for her to finish. She would need to wrap this up soon.

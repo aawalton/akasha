@@ -1,0 +1,179 @@
+---
+id: 400fa6d5-46b0-55d2-a583-a50fc8e39931
+page-type-slug: story-chapter-royal-road
+title: "Threads 318 Parting 4"
+slug: 0358-threads-318-parting-4
+partOf: forge-of-destiny
+position: 358
+ownLength: 2197
+unit: words
+publishedAt: 2023-06-30
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1262063/threads-318-parting-4"
+royalRoadId: "1262063"
+---
+
+“You’re good, Fang. You can do everything I need ya too,” Han Jian comforted. “I guess you were probably always meant for crazy stuff though, huh?”
+
+“Fortune and talent are intertwined.” Ling Qi observed as Hanyi put her hands on her hips and stuck out her tongue at Heijin, the two spirits bickering. She dug her fingers in behind the big cat’s ears and turned the angry rumble into a purr. “I’m going to be busy with all this for a long time.”
+
+“You’ve got a couple projects that you could spend a mortal lifetime or two on by the sounds of it,” Han Jian agreed. “Me, I gotta sit back and wait for my father to approve deployment.”
+
+Ling Qi was surprised. “You requested that?”
+
+Han Fang looked like he’d bitten a lemon. Clearly, he disagreed with Han Jian’s plans.
+
+“I need experiences and merits to bring home,” Han Jian said thoughtfully. “And there’s some interest in what the Han have to offer. It’s not just you. Better ties with the Emerald Seas is important right now.”
+
+The Han family were the experts who had built the system of geomantic oasis that made the recovery of the Golden Fields more than a dream. They would be experienced with the spread of corruptive and insidious energies.
+
+“It’s not fun,” she warned. “It’s not fun at all down in the dark or under a hostile sky. Don’t go into it thinking of merits.”
+
+“Survival. Victory. Glory. In that order," Han Jian agreed. “Sounds about like the advice my father’s been giving.”
+
+That was a good, pithy way of putting it. “Most would probably say victory first.”
+
+“The Golden Fields learned better. A victory that costs too much is just a pretty defeat.” Han Jian shook his head. “Ah, but we’re getting off into serious stuff again. Didja know I’ve got a match in the works?”
+
+“Already? The Fields does things way too soon,” Ling Qi said.
+
+You’d think explosive fallout like Gu Xiulan and Fan Yu’s arrangement would happen enough to ward it off. On the other hand, of all the provinces, the Golden Fields would be the most inclined to make fruitful matches early. They had spent a long time in strife.
+
+“You’re not wrong. We’re just exchanging letters, but she is half-Guo, so it’d be a good alliance.” Han Jian shrugged. “Dunno. She seems nice enough, but I feel way over my head…”
+
+“I can sympathize. I’ve only just started thinking seriously about potential matches.” Ling Qi sighed. “Half-Guo?”
+
+He grimaced. “Zheng being irresponsible.”
+
+“Oh.”
+
+So, his match had been born out of marriage. That habit of the Zhengs still didn’t sit well with her. A person should take responsibility.
+
+“Anyway, you actually got a pick in mind?”
+
+“Moon above, no. I don’t even know where to start.”
+
+***
+
+She stayed there with Han Jian for a time, just chatting about the past, the present, and the future. The future was coming fast for both of them, moreso for her, but all the same. It seemed like the day they had met in the Outer Sect was much more than two years ago now.
+
+“Did you have fun with Heijin?” Ling Qi asked her little sister.
+
+“Ugh, he was annoying the whole time!” Hanyi complained.
+
+“So you had fun,” Ling Qi said knowingly.
+
+Hanyi harrumphed and turned her nose up.
+
+Look at her junior sister, pretending she hadn’t enjoyed needling the haughty tiger to the edge of distraction.
+
+“Zhengui could beat him up.”
+
+Ling Qi blinked at the non sequitur. “I suppose he could. But what does that have to do with anything?”
+
+“Just saying, I can do better.”
+
+Ling Qi furrowed her brows at Hanyi, who smiled angelically.
+
+“No,” Ling Qi said. Whatever that was, she wanted no part of it.
+
+“Hehe, I got you to make the same frowny face the boss lady makes!”
+
+Ling Qi wrapped her arm around Hanyi’s shoulder and dug her knuckles into the little brat’s scalp.
+
+“H-hey. Sis, Big Sis, you can’t just do that!” Hanyi whined, batting at her hand as Ling Qi thoroughly mussed her hair. She didn’t even care that they were still in the square, being stared at by aghast disciples.
+
+“I can, and I will,” Ling Qi corrected, letting her go. Hanyi sprang away, scowling at her and holding her hands over her head. “Now, be good. We have other places to be.”
+
+“Like where?” Hanyi asked mutinously. She muttered, “That stung!”
+
+“We’re going to the medicine hall. Li Suyin will be there,” Ling Qi said.
+
+Her friend was still doing very well in the sect. While she wasn’t an apprentice of any particular elder, thanks to her impurity talisman projects, Li Suyin received a great deal of attention and resources from the sect overall.
+
+“Oh, the skeleton girl?”
+
+Hanyi eyed her suspiciously as if she expected Ling Qi to grab her again. As if being on guard would help if Ling Qi decided that it was time for more sisterly punishment. She smiled sweetly at her little sister and held out her hand.
+
+“... I’ll be good,” Hanyi promised.
+
+Ling Qi took her hand as they began to walk. The medicine hall was a little ways up the eastern path from the main square, set away from the bustle of the sect’s administrative buildings to allow the patients a more restful peace.
+
+“Yes, the ‘skeleton girl,’” she answered the earlier question. “She does plenty of other things though.”
+
+“Spooky girl, then,” Hanyi said flippantly. She swung their clasped hands back and forth.
+
+Ling Qi looked down pointedly at Hanyi. Hanyi had flat white eyes set in a complexion similar to that of a corpse dead from the cold. She emanated a chilling aura.
+
+“I’m not being insulting!” Hanyi protested. “She’s cute! I’m beautiful and elegant.”
+
+Ling Qi let out a quiet huff of laughter. “Fair. Li Suyin definitely has a unique aesthetic.”
+
+She wondered what the nervous stammering girl who had nearly panicked herself in asking for Ling Qi’s help in cultivation early on in the Outer Sect would think of the Li Suyin who existed now.
+
+Hanyi and Ling Qi wove through the thin crowds of inner sect disciples bustling about on their way to lessons or to use sect facilities and followed the winding path of paved silvery stone around and up the slope of the mountain until at last they arrived at the medicine hall. A stately building with a silver tiled roof and surrounded by bountiful gardens, the very air here took on a serene and calming feel, all the better to aid in recovery.
+
+She followed the feel of her friend’s aura out to the gardens in the back. Carefully cultivated flowerbeds full of blooms in soothing colors and trees were arranged to take the blowing breeze just so to produce the right volume of peaceful rustling. It was actually pretty impressive now that she paid attention to it. She had spent quite a bit of time here, but the architecture and arrangement of the building and its surroundings had always been in the background. Something she had taken for granted.
+
+She wasn’t going to be able to do that much longer given she would be the one ultimately responsible for her own home and its surroundings now.
+
+She found Li Suyin seated on one of the many benches placed along the garden paths. She was not alone. An older woman was at her side in a gown of autumn colors, yellow and saffron and darker shades. Her hair was done up in a severe bun, undecorated.
+
+It took her a moment to recognize Elder Su’s ageless but motherly face. The woman was the elder who had taught spiritual cultivation in the Outer Sect and awarded her the first art she had practiced and more. She could not hear what they were talking about as she approached, and she was not so rude as to try.
+
+The soft sound of chirping birds met her ears as she approached until the moment it didn’t. Li Suyin looked up, saw her, and smiled. The distortion of natural sound around them ended, or rather, she sensed that it had been expanded to include Hanyi and her. That was polite of the elder.
+
+“Ling Qi, it’s good to see you!” her friend greeted, rising to her feet.
+
+Even standing up, Suyin barely came up to her chest. Ling Qi really was too tall. Well, that was just the way she was.
+
+Elder Su rose herself. “Miss Ling, I hope you do not mind that I occupied your friend here. Disciple Li is an exemplary student.” The elder was taller than Suyin by a fair margin, but somewhere along the way, Ling Qi had surpassed her in that area.
+
+“Honored elder, I can only be pleased that Li Suyin has your attention. She is deserving of your teachings.”
+
+Li Suyin flushed red. The pupil of her artificial eye widened and shrank, a ring of glimmering light spreading the black. “Please stop, Ling Qi,” Li Suyin muttered.
+
+“Be pleased that you have such good friends, Disciple Li,” Elder Su said, smiling. She turned to face Ling Qi, and Ling Qi felt the faintest tingle on her skin at the elder’s examination. “Ah, Disciple Ling… New and novel damage again, I see.”
+
+Ling Qi grimaced, dipping her head. The elder wasn’t scolding her, but all the same…
+
+Li Suyin looked at her with renewed concern. Her eye flashed, and Ling Qi felt a much less subtle examination, more like being poked at all over by her friend’s fingers. “Hmm… Oh! My goodness, Ling Qi, what did you do to that meridian?!”
+
+“I went under a needed tribulation, and solved it in a novel way,” Ling Qi said evasively. “I strained myself somewhat.”
+
+“Fused shut,” Elder Su said thoughtfully. “It is not my right to pry into one’s tribulation, but it seems you took quite a risk.”
+
+Li Suyin bustled past the elder, looking at her more closely, seeming like she wanted to poke and prod in truth. “Mm, I don’t think the damage is irreversible… Wait, that’s wrong, the meridian may be usable still with work, but it’s permanently marked, somewhat like domain weapon implantation… Oh, you and Su Ling both, using such wild methods of cultivation!”
+
+Her much shorter friend glared up at her, and Ling Qi smiled sheepishly.
+
+“Hey, Big Sis has great methods!” Hanyi defended her.
+
+“They are effective, of course,” Elder Su allowed, resting a hand on her cheek. “It’s good to see students grow. Neither of you are much like the girls who first arrived at my primer course.”
+
+Ling Qi shared a look with Suyin, who wore her high-necked purple gown, a clawed and jeweled gauntlet on her hand, and an aura filled with veins full of coursing blood and the clanking of hundreds of bony feet dancing on those crimson threads. She considered herself, the freezing mist so deep as to cause one to be lost forever in its grasp.
+
+No, they were not.
+
+“We are thankful for the tutelage which has allowed us to come so far,” Ling Qi said politely.
+
+“I wonder at that. What might have changed had I been able to provide a full year course,” Elder Su said, surprising her. The elder sounded both thoughtful and melancholy. “Such useless thoughts.”
+
+A frown crossed Li Suyin’s face, and she reached up for a moment as if to rub her eye, only to force her hand back down. “The Sect has many concerns. I understand.”
+
+Ling Qi considered her own liege and the duchess and the crucible that woman had arranged for Renxiang. It had never been said aloud to her, but she did understand that their year in the Outer Sect had been irregular by the standards of the Argent Peak Sect.
+
+“I am thankful for your instruction. Lady Cai and I both hope that the Sect might be able to act with less disruption in the future.”
+
+“You have grown well. And you may convey that to your lady too. I am hopeful in seeing where the children of that year go.”
+
+“Elder Su is too kind,” Li Suyin demurred.
+
+At Ling Qi’s side, Hanyi started to fidget, clearly getting impatient.
+
+“I am nothing of the sort,” Elder Su said with a humorless smile. “Disciple, no, Lady Ling, though you are leaving us, know that the Argent Peak Sect will welcome you always. At least, it will so far as this Hua Su can guarantee.”
+
+Ling Qi bowed her head. She knew she had caused some troubles and probably annoyed some elders in going over their heads to report directly to the duchess on the matter of her initial meeting with a delegate of the White Sky at the caldera. She was glad that there would still be a connection here, if she chose to indulge it.
+
+“Now, I should be on my way. I am certain you young ladies have things to talk about that do not need an elder listening in. Farewell.”
+
+They murmured their polite partings, and the elder’s frame shimmered and vanished like a reflection broken up by ripples.

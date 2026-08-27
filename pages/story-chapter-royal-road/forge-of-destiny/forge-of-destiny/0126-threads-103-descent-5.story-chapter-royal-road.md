@@ -1,0 +1,143 @@
+---
+id: f4acb43b-e295-5b20-95b6-1468066532b2
+page-type-slug: story-chapter-royal-road
+title: "Threads 103-Descent 5"
+slug: 0126-threads-103-descent-5
+partOf: forge-of-destiny
+position: 126
+ownLength: 2381
+unit: words
+publishedAt: 2021-07-03
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/710206/threads-103-descent-5"
+royalRoadId: "710206"
+---
+
+There was a time and a place to hurry, to bluster and threaten. Ling Qi did not think that now was that time. Liao Zhu had not reported threatening movements from their enemies, and her group was not under immediate threat. And if she messed this up and started a fight, both of those things could change quickly.
+
+Ling Qi looked up at the circling swarm of chittering, inhuman eyes, the quiet harmony of her arts echoing in her thoughts. She needed to understand this thing if she was going to talk to it, and yet, as she reached out with her spiritual senses and tried to submerge herself in the flows of the creature’s qi, she found…
+
+Chaos. Filth. Rot. Ling Qi almost gagged as her spirit brushed against the creature's putrid, churning essence. Without the filter of Sixiang, the creature's voice was like a thousand screaming animals in the midst of slaughtering. She swayed on her feet, and only a quick pulse of reassurance through her bond stopped Zhengui from stepping forward with wrath in his eyes.
+
+“Hey, now. Don’t try to steal my job,” Sixiang joked nervously, the “water” at her feet rippling.
+
+<I needed to try,> Ling Qi thought, wincing.
+
+And her efforts had not been for nothing. She now understood just why Zhengui was so on edge. The core of this creature was something utterly repulsive. It was not death, not consumption, but [Stagnancy]. It was a beast of the dark, a thing of hunger and want, but it did not move. It did not act. It only reacted. It fed on the things which happened to wander within. There was no drive to it other than that.
+
+Ling Qi was feared because she was not food. She was poison, poison which it had never before encountered. The creature was strong, probably stronger than her given its enormous size and well of not-qi, but it was not a creature used to what she would think of as combat.
+
+<Sixiang, keep translating please,> she thought. She did not want to touch this thing again. Even thinking of her physical body touching it made her skin crawl now.
+
+“I understand that prey is scarce,” she said, choosing her words with care. “But my companions and I do not draw sustenance from such things.”
+
+Sixiang rippled beneath her feet, and Ling Qi cocked her head, listening to the dream echoes of her own words and the way the muse subtly altered the imprecise connotations born by spoken language. It wasn’t quite the same as conveying something with music, if only because she wasn’t certain she could really understand the creature’s perspective well enough to convey her feelings to it.
+
+But she watched and listened to Sixiang’s echoes all the same.
+
+[Trespasser not hunger? Lies / deception / prey?]
+
+Alien eyes narrowed and swirled, chittering as pupils split into sharpened teeth and closed in, only to squeal in pain as they brushed against the perimeter of Sixiang’s being. She could feel the creature’s confidence growing, new eyes being born in the dream maelstrom as it began to puff itself up in a blustering display.
+
+“No!” Ling Qi shouted, and cold rippled out through the dream. The creature squealed as images of frozen mountain peaks and howling blizzards, of frozen streets and weeping voices in the dark, wormed through the storm of color.
+
+Beside her, Zhengui let out a bellow, and green surged out, impaling eyes upon writhing roots and branches, and Hanyi puffed out her chest, joining her own voice to Ling Qi’s in a wintery howl.
+
+“We are not prey,” she said harshly, letting her voice ring with a hint of threat. She had been too soft and conciliatory, and the creature had taken it as a sign of weakness. “We do not seek to devour you though. Our prey is elsewhere. We want to pass through, and no more.” The cold wind stopped blowing, and Ling Qi withdrew back into herself, icy mist resting about her shoulders like a cloak. “We do not need to fight each other,” she added more softly, her mind racing as she worked to immerse her thoughts in the creature’s stark mindset.
+
+It was easier than she liked to admit.
+
+“We would only…[expend / tire / wound] without [gain / sustenance].” Ling Qi almost startled as she heard her voice waver into the bizzarre not-words that sometimes punctuated a spirit's speech.
+
+The swarming eyes shied back, and the large goat-like eye glared down at her as it circled around. Some eyes nipped at memories of deathly chill, and others withdrew as frozen teeth shattered. It occurred to her that down here, in the tepid and temperate caves, neither the creature nor its prey had ever experienced such extremes of temperature.
+
+[Not prey / food / sustenance,] the thing agreed grudgingly. [Entropy / Poison / Emptiness and Silver. Seek Elsewhere?]
+
+Ling Qi held in a sigh of relief as she contemplated her next words. While she had wished to stay friendly, she would need to make sure not to speak in a way that implied uncertainty or weakness.
+
+“We seek to go below where the…” She frowned and did her best to picture and convey the image of the assassin thing she had faced. “... dwell. We need you to stop obstructing the path.”
+
+[Silver Dream would Starve US!] The thing's chittering voice was growing clearer in her mind, though it still felt like clammy slime across the surface of her thoughts. [No fight / struggle / kill, but go. Go around. Seek Land of Bones and Worms. Leave US.]
+
+“No,” Ling Qi disagreed, “you would only need to withdraw for a short time. We must go down.” She thought of Bao Qian and moving hills, of prideful rivers and more prideful dragons. “We are not prey, but we can… make an exchange.”
+
+Her words rippled out through the dream realm, carried by Sixiang to propogade as whispers among the swarming eyes.
+
+“Are you sure that was a good idea, Sis?” Hanyi asked quietly. “This thing feels greedy.”
+
+Zhengui rumbled his agreement, watching the swimming eyes suspiciously.
+
+Ling Qi flexed her hand, causing tiny chimes to sound, and drew upon [The Mist], thickening the cloudy mantle around her shoulders. “There is no need to make this come to violence. We need to save our energy for actual enemies.”
+
+[Feed US the shard of Entropy / Desire.]
+
+As if to rebut her words, the thing’s demand and the way its gaze shifted to Hanyi nearly made her lips twist into a snarl. “No. You will not have her or any of my companions,” she said furiously.
+
+The fungal mind let out a keening, displeased wail. Hanyi glared at it.
+
+“There is no need for conflict. That does not mean that we can’t,” Ling Qi said. Drawing upon the lessons of the Playful Muse’s Rapport art, she stared down the large eye and put both power and sincerity into her words. “My leader is far stronger than you or I.”
+
+It was a bluff. Guan Zhi could not afford to fight here, but it wasn’t a lie either. It was merely an omission. It was not her fault that the creature lacked that piece of context. In that way, she could be wholly sincere and yet not convey the fullness of truth.
+
+In her thoughts, a minor conflict between her insights and duties seemed to click. Honesty was not naivety, and sincerity did not mean showing her whole hand. She could be a sincere negotiator while maintaining her advantages.
+
+“Of course,” she continued, “there are many things which I could offer you, dreams which you have never tasted. I am trying to be generous, but if you test me, I may not be able to continue doing so.”
+
+The thing around her rumbled and whispered, its uncertainty returning. Ling Qi leaned forward, pressing on without giving the creature too much time to think.
+
+“If you worry about your belly when withdrawing your nets, you can speed things up by offering the shortest path to your bottom-most exit. It would only be to your benefit, and perhaps more prey might follow us back,” she cajoled, Sixiang’s ripples speeding up to keep up with her more rapid words. “We would both stand to gain.”
+
+The thing hissed violently like dozens of teakettles going off. Ling Qi wisely stopped speaking before she pressed too far.
+
+[A dream. A strong dream for a clear path and the way to the Land of Bones and Worms,] the fungus chittered. [This is our offer, creature of Sky and Stars.]
+
+“Big Sister, you can’t let this thing chew on you!” Gui complained, finally breaking his silence to look at her incredulously. “At least let it take a bit of Gui! He heals quickly!”
+
+“I, Zhen do not like this,” his other half said bluntly, shooting the eyes a dirty look. “But if Big Sister needs this, I comply.”
+
+[Earthblood is fine too,] the eyes crooned hungrily.
+
+Ling Qi frowned. Her immediate instinct was to refuse and do it herself, but…
+
+<I’ll make sure it doesn’t take anything too important regardless,> Sixiang whispered to her.
+
+Ling Qi sucked in a breath through her teeth. In this place on the border of Dream, it did nothing. The body she perceived was no more than a construct of her mind. Even so, it felt steadying. “You’re certain?” she asked. It felt like she was dragging the words from her lungs by force.
+
+“Yes,” Zhen and Gui spoke as one. There was no doubt.
+
+“Sixiang, I want to be connected while you keep watch,” Ling Qi said tersely, not bothering to cloak her words from the listening fungal spirit, which looked on with wary hunger.
+
+“Will do,” Sixiang murmured.
+
+“You’ll have your dream in a moment,” Ling Qi said, addressing the creature. “You will not take anything which is not offered.”
+
+The sibilant chorus of agreement from the swarm scratched painfully at her ears. “Zhengui, do you know what you want to offer?” she asked quietly.
+
+Gui craned his neck to look up at Zhen, and Zhen hissed back irritably, flicking his tongue. “Gui thinks so.”
+
+At her side, Hanyi shifted from foot to foot, unhappy.
+
+“Can I see?” Ling Qi asked gently. “Sixiang and I need to make sure it doesn’t try to take anything else.”
+
+Gui bobbed his head, and she reached out, Sixiang’s multihued mist drifting from her sleeve. She touched his head, and the world whirled away in a stream of images.
+
+Zhengui’s perceptions were difficult for her to parse. It was only her practice with clairvoyance arts which allowed her to understand the multiple points of view he lived his whole life with. Zhen’s view was fuzzy and colorless, constructed more out of sound, scent, and taste than sight.
+
+Gui’s, on the other hand, was indescribably vibrant, rioting with colors that she didn’t have words to describe, but his hearing was dull and muted, and his sense of smell almost alien, blending with his sense for vibrations picked up through the roots which sprung up beneath his feet wherever he went. Down here, surrounded by stone, Gui had felt half-blind and had been relying on Zhen to get around properly.
+
+His thoughts were just as difficult to categorize. One mind with two expressions made for an alien train of thought, yet… She understood him the moment she immersed herself, even if processing the information of his senses took longer. She felt his pride and determination. She felt his stubbornness and affection. She felt the buried scars of fear.
+
+For all that, Zhengui’s mind was young and simple. He wanted to be strong. He wanted to help and impress her, the one who had raised him. He wanted tasty food and to play with Hanyi. He missed spending time with Cui and Linhuo. He wanted to meet new friends when they started their sessions with Wang Chao. He wanted to step on or eat the shishigui because they had hurt her and scared her family. He was excited to have another chance to fight beside and support her.
+
+His feelings flowed around and through her, a thousand, fleeting images passing by in each second. Like a school of startled fish, the fragments of thought and memory scattered as he pushed something else to the fore. It was a project he had been struggling with, something he wanted to do but lacked the knowledge to do properly. It was something he had avoided sharing with her because he wanted it to be a surprise.
+
+His own garden. Zhengui had daydreamed of creating a beautiful place, a place where everyone he liked could come and relax and play. The beatific image in his dreams were marred by flashes of his actual attempts, overgrown clearings that were riots of overgrowth and disorder, contained and removed by his fires. The dream still shone through, a beautiful garden vale filled with ordered and sculpted trees, a babbling brook of clear waters, and flowers and fruit and plenty, not something that was found, but something that he had made.
+
+It made her feel awful to accept the dream and push it out into the hungry storm of eyes and teeth that hung like a stormcloud overhead. But she could feel Zhengui’s certainty and determination.
+
+And she had promised not to be the only one who sacrificed in this family.
+
+Teeth tore into the bright blue sky. They shredded the green grass and the clear waters. They chewed the trees and gnawed at smiling faces. The dream was dragged out into the morass of lost thoughts in which the creature swam, and Ling Qi was once again herself. A whiplike tendril of colorful water snapped out, slapping a mouth away from a drifting figment of Zhengui’s memory.
+
+“You have your payment. Clear the path now,” Ling Qi said. She rested her hand on Zhengui’s shell. He looked fine. He felt fine. But she could tell that he felt drained and morose. Zhen drooped, and Gui hung his head.
+
+For a second, just a second, the fungus ignored her, chittering and whispering and swarming.Her voice cracked out like a sudden gust of frozen wind, echoing with the howl of blizzard. “Now!”

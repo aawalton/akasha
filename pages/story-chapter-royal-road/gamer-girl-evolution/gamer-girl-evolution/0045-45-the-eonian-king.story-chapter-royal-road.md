@@ -1,0 +1,149 @@
+---
+id: 02f785ff-9ccb-59ac-abcb-4bd56b9c6812
+page-type-slug: story-chapter-royal-road
+title: "45 - The Eonian King"
+slug: 0045-45-the-eonian-king
+partOf: gamer-girl-evolution
+position: 45
+ownLength: 1492
+unit: words
+ownProgress: 1492
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/2942716/45-the-eonian-king"
+royalRoadId: "2942716"
+markedReadAt: "2026-06-29T20:07:01.175Z"
+---
+
+"Welcome honourable Players, to the Grand Eonian Empire!" A strong voice boomed from atop the balcony.
+
+It was, of course, the king.
+
+As I thought, this is the third floor's courtyard. Celica took a deep breath in as she looked around. Unconsciously, her posture straightened.
+
+She was calm.
+
+Unfortunately, the miserable players around her, were not so composed.
+
+— "Hello? Why am I still here? In this stupid game!?"
+
+— "Did anyone else see those error messages everywhere? What was that all about?"
+
+— "Can you send me back please? I have a family..."
+
+Hundreds of shouts echoed from the courtyard of players, each voice sounding more aggrieved than the last.
+
+The Eonian King's eyebrows twitched very slightly, but it was imperceptible without a keen eyesight.
+
+Celica, however, noticed it.
+
+"Please calm down, precious Players. All your concerns, and more, will be explained given sufficient time." The Eonian King said slowly, showing quite a bit of courtesy considering the concerning amount of profanities being spewed in his direction.
+
+In an inconspicuous way, he moved his hand, and then the boisterous courtyard turned quiet.
+
+[System Notification: You have been muted by the Eonian King.]
+
+Typical. Celica had expected he'd do something like that. There really wasn't any other way to stop people from voicing their complaints.
+
+"Now that the atmosphere has taken a more serene turn, I can begin explaining the situation. About... what really happened earlier." He stopped and paused for a time too long to be considered natural.
+
+To the audience of players, it was extremely jarring, but not to Celica. She was very familiar with his overly dramatic, suspenseful way of communicating.
+
+"Before we get to the truth, however, let me tell you about myself." The King said leisurely, clearly relishing in the spotlight he was receiving.
+
+"I am King Sebius the first! The monarch of an entire realm! The greatest ruler in the history of Earthonia!" As he finished the last sentence, both his arms rose up in a grand gesture.
+
+Around Celica, several players looked around in dumbfounded amazement. Truthfully, their reactions made sense. It was almost unbelievable that a single person could be the king of an entire realm.
+
+But that was the reality.
+
+It didn't surprise Celica, however. She'd heard this very dialogue numerous times. Not only that, she was the type of player who enjoyed reading the game's lore in her free time, and King Sebius was definitely a character who showed up often in the wiki.
+
+"I am also the reason you were all summoned to this world." King Sebius said casually.
+
+The muted crowd of players hearing his words grew restless, but he continued like it was of no consequence.
+
+"We humans... are at war."
+
+He paused, taking in everyone's reaction before saying his next words. "As you all know, there are ten realms in this world. This is common knowledge, and the guide on floor one should've informed you of at least this much.
+
+Sadly, that isn't the whole story. Not every realm is inhabited by humans. Put simply, only the first to fourth realms are inhabited by humans. The fifth realm is the beginning of what is known as 'The Main Front'. It is the central battlefield where humanity battles the monster race."
+
+Hearing King Sebius' monologue made Celica involuntarily smile.
+
+The Main Front. Waves of elite monsters and bosses rushing at you from all directions, all with unique attack patterns, animations, voice lines, skills... take me back.
+
+"Beyond the fifth realm are four monster inhabited realms. In those realms, humans are by and large the minority, and survival is next to impossible without being inhumanly strong, both physically and mentally."
+
+Perhaps only Celica and a few other VR PvM maniacs were looking forward to the fifth realm and beyond. Most of the crowd didn't seem pleased to hear what King Sebius had to say. They were all sharing the same thought.
+
+'If only two floors of this realm was already this difficult, won't the next realms be way too hard?'
+
+"That brings me to the reason you're all here..." he paused, thoughtfully.
+
+"You, Players, are part of the human resistance. In other words, you're soldiers in my army. In the army of humankind! You all are humans, like us natives of this world, but with a much greater capacity for growth than us. You have been summoned for the sole purpose of becoming an elite special force to clear the monster inhabited realms and save humanity from this war!" King Sebius said proudly, each of his words flowing in quick succession.
+
+If he could hear what the players were saying, his face would turn sour instantly. Fortunately for him, he couldn't. They were muted.
+
+[System Notification: You have been unmuted by King Sebius.]
+
+— "Damned balding king, are you for real!?"
+
+— "Summoned us to fight a stupid war for you!? How is that fair to us!?"
+
+— "Send us back to Earth bullshit NPC!"
+
+"Ahem." He cleared his throat, his face noticeably a tinge redder than before. "I apologise, but it was necessary to ensure the survival of this world. Besides, I didn't make the decision alone. The five human monarchs of each realm agreed to perform the ritual to summon you Players to our world."
+
+King Sebius shrugged, an action usually seen as unbefitting for a king. Although, when he did it, it strangely seemed to fit.
+
+As if remembering something important, his expression suddenly turned graver.
+
+"Now to explain the situation from earlier and also answer a question I believe you all want the answer to. 'Send us back.' The truth is, you can no longer return to your old world."
+
+His words were cold, cruel and abrupt. He hadn't muted the players again, and yet a striking silence enveloped the area. A whimpering voice broke the silence.
+
+— "He's lying. Slimonius lied too, remember?"
+
+That voice being the only one to speak meant everyone heard it loud and clear.
+
+King Sebius' face muscles quivered slightly at the mention of Slimonius, but he recovered quickly.
+
+"Unfortunately, I'm telling the truth. The earlier incident was proof. The connection between this world and yours has thinned greatly. I'm afraid the fact that you couldn't return earlier is proof enough.
+
+Another attempt to send any of you back, could result in you being trapped between both worlds. Permanently.
+
+This world has become your only reality. You have become like us. You will never see Earth again, Players."
+
+Celica, who was listening intently to every word as soon as King Sebius deviated from his usual dialogue, clicked her tongue.
+
+Although King Sebius had his quirks, he wasn't the type to outright lie. He was a dignified Realm King. If he was saying there was no way to return, then that was very likely to be the case.
+
+If I can never return to Earth, what will happen to her? Celica's left hand clenched involuntarily.
+
+King Sebius continued, taking advantage of the player's shared shock. "During the incident earlier, some earthlings, who met the necessary requirement to become Players, have been summoned to this world, too. Make sure to welcome them, as they are the last earthlings that will—no, can be summoned to this world."
+
+Celica's eyes narrowed. Met the necessary requirement? Does that mean...
+
+"Earlier, your highness said four realms are inhabited by monsters. You were referring to realms six through nine, correct? What about the tenth?" A voice shouted from the courtyard.
+
+King Sebius' head turned towards the owner of the voice. Briefly a small smile showed on his face, but then his face returned to neutral. "I don't know."
+
+The owner of the voice was Celica.
+
+As I thought, he's taken note of me. Is it because of the [Grand Eonian Colosseum VIP Ticket] I'm carrying in my inventory? Or is it for another reason? Because I'm Snapped Sword?
+
+It was common for the king to recognise exceptional players later on in the game, but Celica didn't think she'd accomplished anything exceptional in the game just yet worth being taken note of.
+
+"How can we get stronger?" A voice yelled from the crowd.
+
+King Sebius, as if he'd anticipated the question in advance, answered immediately. "Splendid question! Though, before I reply, I will offer a question of my own.
+
+How is it that us humans native to this world, with a significantly worse capacity to grow than you Players, have been able to survive the onslaught of the monster's invasion for centuries?"
+
+Silence ensued. No player there could answer the Eonian King's question.
+
+Except Celica.
+
+"The answer is twofold. The first reason mankind is so tenacious, is the ability to change job class. It allows us to obtain skills, levels, weapons and stat points way beyond what we could acquire normally."
+
+The King paused, a wide grin coating his lips. "Second, and most importantly, the reason humankind has been able to survive against monsters for this long is... evolution."

@@ -1,0 +1,187 @@
+---
+id: aafca913-6a13-5d79-a631-9aca3a208ee7
+page-type-slug: story-chapter-royal-road
+title: "Threads 32-Adventure 3"
+slug: 0043-threads-32-adventure-3
+partOf: forge-of-destiny
+position: 43
+ownLength: 3694
+unit: words
+publishedAt: 2021-01-04
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/609757/threads-32-adventure-3"
+royalRoadId: "609757"
+---
+
+Ling Qi looked up through narrowed eyes, studying the looming shape of the guardian. “I will identify its weakness,” she said. She breathed out, giving Zhengui and Hanyi a nudge. “You won’t be alone in your part though.”
+
+Behind her, a great shadow formed as Zhengui emerged into the world. Zhengui stomped his feet as he grew solid, hunkering down in preparation for combat, even as his serpentine half reared up and hissed, sparks and embers dancing in the heat-warped air around his flickering tongue. Hanyi emerged perched on the jutting outer edge of his shell, one leg crossed over the other.
+
+“I want you two to stay here and help Xuan Shi, got it?” Ling Qi directed seriously, glancing back over her shoulder at them. “Listen to him, alright?”
+
+For a moment, Zhengui looked mutinous. “Big Sister, why can’t we go with you?” Gui complained.
+
+“‘Cause she’s gonna be flying,” Hanyi replied in exasperation. “Don’t be such a big baby. We gotta make sure it doesn’t look at her after all.”
+
+Zhen hissed irritably, flicking his tongue toward Xuan Shi. “Hmph. I, Zhen, will keep Sister safe. Foolish Gui and Xuan Shi had better not hold us back.”
+
+Xuan Shi took his head slowly, expression hidden by the rim of his hat. Flicking his voluminous sleeve, a flock of octogonal clay tiles sprang out to buzz around him like circling insects. “A force to withstand legions stands here. Shame would fall upon us all if thy sister were to come to harm here, honored cousin.”
+
+Ling Qi shot him an amused look even as her cloak flapped in a phantom wind and her feet left the ground. It wasn’t often that she heard the odd boy express pride. From what she could sense of his flaring aura, it was not unfounded.
+
+“Still not your cousin,” Gui grumbled. “But I won’t let Big Sister down!”
+
+“I’ll leave it to you then,” Ling Qi said lightly. <Sixiang, just be the eyes on my back,> she added silently.
+
+<Got it,> said the muse, giving the impression of a flippant salute.
+
+With that, she rose into the air and flickered, vanishing into the shadows to reappear meters away, climbing toward the height of the statue's head. Behind her, she heard Hanyi’s voice rise in song, and she saw a flare of ochre light.
+
+Looking back, she saw Xuan Shi stepping forward, the ring of his staff pointed toward the guardian, and the clanging of the hanging rings echoed throughout the temple. Something shimmered in the air before him, and she felt his qi distort, spreading to engulf both Zhengui and Hanyi. For a moment, Ling Qi almost felt as if she could see the forbidding walls of a mighty fortress in the contours of the air around them.
+
+Then the statue took another earth-shaking step forward, and eight arms punched out as one. A kaleidoscope of light and elemental qi poured out, eight twisting streamers that curved around and through each other as they spiralled in a downward arc toward Xuan Shi, Zhengui, and Hanyi. In the moment before it struck, Zhengui’s shell flared with viridian light, and thick roots rose from the ground, splintering tiles of stone.
+
+The air rocked as the eightfold attack struck home with a thunderous crash as Ling Qi soared past the statue to circle behind it. When the smoke cleared, Xuan Shi and Zhengui both stood wholly unharmed. Ling Qi shook her head. They would be fine. She just had to focus on her task.
+
+Ling Qi circled the statue, weaving through its limbs as it bore down on her companions. Scanning the construct’s stony hide, she let qi flood her eyes and released fluttering lights that darted into the shadow of massive limbs, too close to the body to be easily struck. With her expanded perspective, it became much easier to make sense of the formation patterns traced into the rock and carved into flows of qi that existed beneath the level of the physical.
+
+The array that animated the statue was immensely complex, far beyond her ability to fully comprehend. Yet, as thunder and lightning boomed, and massive fists crashed down upon unyielding roots and walls of stone, Ling Qi focused her attention on the smaller parts. The whole of the array was beyond her, but individual components could be deciphered. Ling Qi darted under a blazing limb made entirely of lightning, following the spiralling line of the array that powered the thing’s many arms. There, in a space less than a handspan wide between its shoulder blades, she found the densest array yet.
+
+Ling Qi raised her flute to her lips and let cold flow through her channels. She played the Hoarfrost Refrain and felt satisfaction as stone turned brittle and crumbled under the weight of the wintery verse. For a moment, the construct faltered, but then, before her very eyes, falling pebbles rose and shattered stone became whole as if time were reversing itself, leaving the statue and the array just as it was before her attack. The clinging, frozen qi that should have suffused it, continuing the damage, was purged as if it had never been.
+
+The statue began to turn, seeking to confront the stinging fly at its back, but a massive root speared upward and curled around its stone limbs, forcing it to face forward as a barrage of clay tiles struck in hail-like patter, striking deliberately at points where Ling Qi had recalled seeing perception arrays.
+
+Ling Qi darted away in the moment of respite that gave her, a frown on her face as she studied the statue again through four points of view. Destroying that array should have at least shut down the power to its extra limbs. What had she missed? Why had it restored itself like that? She had not sensed a technique activating or even another array.
+
+Ling Qi let more moon qi flood into her eyes until she could see the faint silver light they cast on the statue’s broad back. But she still could not see what had caused the regeneration. Perhaps… Ah, the limbs themselves were the backup. She could see the characters connecting them. If she wanted to disable the main array, she would have to break the secondary chains that fed into the limbs first.
+
+Satisfied, Ling Qi struck again, and the dazzling arm of raw lightning sputtered and died. Again, she sang, and the crashing thunder qi fell silent… for barely a moment. Ling Qi’s eyes widened as both of the limbs she had disabled burst back to life, the damage she had dealt erased in an instant!
+
+In front of her, the statue stamped its feet and swung its fists, battering at Xuan Shi and Zhengui alike. Fists the size of small wagons crashed down on barriers of eight-sided tiles and bounced away as if they struck a mountain instead, and fists that came down on Zhengui’s burning shell seemed to barely touch him. Ling Qi did not miss the way that the blows made the fortress-lines traced in the air ripple nor the way that Xuan Shi’s robes wrinkled and bunched up as if he were suffering blows himself.
+
+Hanyi stood behind them both, expression positively smug as she sang, her hands outstretched toward the statue. Ling Qi could feel the threads of her qi curled around the construct’s simple “mind,” but the two who stood in front of Hanyi formed an impassable wall.
+
+Ling Qi could not help but feel as if she were as ineffectual as the statue. Frustration rising, Ling Qi once again darted in, sending her “eyes” spinning and circling all around the statue as she tried to figure out just what she was missing. Her eyes narrowed as she focused down, pushing everything else - the sounds of the fight, the rush of air past her ears, and the bursts of qi clouding her senses - aside. She focused herself entirely on the target of her ire.
+
+Under her intense focus, she found what she was looking for there, layered beneath the other arrays, hidden under layers of conditional triggering effects. The simplicity of the trick made her feel embarrassed to have missed it.
+
+“Zhen!” she called out in her thoughts as she flew into position. “Spit your venom at my light on the count of three!”
+
+Ling Q isaw the fiery serpent twitch in confusion as the words reached him, but the confusion cleared away quickly as she saw his eyes focus on the hovering light right above the statue's left ankle. Satisfied that he knew what she was doing, Ling Qi flew through the tangle of arms to reach a spot just above the nape of the statue's neck and made her count.
+
+Burning venom and hoarfrost song struck at the same time, and the statue seized up. Two limbs flickered out, fire and water both fading to nothingness.
+
+“Xuan Shi! Lightning here -” a flickering wisp blurred to hover above the statue’s left pectoral “- and earth here!” she shouted next. A second wisp hovered over the statue’s navel.
+
+To his credit, the boy understood immediately. A spike of stone slammed upward even as he spun, flinging a metal baton, still charged with a storm's worth of lightning higher still. In an instant, two more limbs were gone, and the restorative functions of the primary array grew weaker still.
+
+Here, she encountered a conundrum. Of the remaining elements, she had little in the way of offensive techniques to shatter their guiding arrays. She did not think that Xuan Shi had any thunder, wind, or lake arts active. Nor did she know whether that mountain art he was using could be used offensively. Perhaps he might have a talisman that could do the trick, but she wanted to finish this herself.
+
+The hem of her cloak snapped in the wind as she soared downward, the air sparkling with droplets of frozen water as she began to hum the Aria of Spring’s End. In seconds, she reached the main array and raised her flute, calling the wintery qi of the Hoarfrost Refrain down. Frost rippled out, and once again, stone cracked and splintered under supernatural cold. This time, however, the recovery was not instantaneous, slowed greatly by the loss of four power sources, and her technique clung to rock and artificial channels for a few crucial seconds.
+
+Just enough time for her to lay her hands on either side of the great splintered crack she had made in the statue’s back and sing the Call to Ending. Her voice echoed loudly in the temple as she sang the wordless power of absolute cold into the world, and beneath her hands, stone exploded violently. Shards of frozen rock pattered like flakes of snow against her dress and face. The statue rocked and reeled, and its four remaining elemental arms winked out at once.
+
+Ling Qi heard a rumbling battle cry and a mighty crash as a massive weight smashed against the statue's shins. Zhengui, charging forward, with his shell aglow with magmatic light, sent the statue tumbling, and over it’ falling shoulder, she spied Xuan Shi standing atop his shell, seemingly unbothered by the smoke rising from his feet. His ringed staff was raised over his head horizontally. As she watched, she felt the qi around the staff distort, and suddenly, the weapon went wholly still, even as Zhengui’s forward momentum tore it from Xuan Shi’s hands.
+
+It hung there in the air, impossibly still, as the statue fell upon it, and remained there, hanging still in a cloud of dust after it had carved clean through the fallen construct’s neck. For a moment, as the echoes of the statue’s fall faded from the temple, Ling Qi hung silently in the air, staring down at the unmoving ruin Xuan Shi and Zhengui had wrought.
+
+Then as Zhengui wriggled his way free of the fallen rock, and she saw Xuan Shi still standing on his shell, hat only slightly askew and dusty, she broke the silence. “I thought I had the offense?” she asked archly, hands on her hips.
+
+Xuan Shi coughed and doffed his hat, revealing a head of short black hair, split by a short ridge of white bone that began at his forehead and disappeared beneath his collar in the back. “Apologies. This one merely sought to grasp opportunity,” he called up, returning his hat to its place as he hopped down from Zhengui’s back, embers still sizzling on his blackened sandals.
+
+“You did say to listen to him, Big Sister,” Gui pointed out as Zhen emerged, grumbling from the back of their shell.
+
+“I can’t believe you both left me alone!” Hanyi cried out from the other side of the broken statue. “I almost got squished, you jerks!”
+
+Ling Qi glanced at Xuan Shi, who shook his head very slightly and flared the earthen qi that filled the channels that ran through his heart.
+
+“But you didn’t jump on when I said so,” Gui pointed out guilelessly. He churned up a whole new cloud of dust as he worked to turn around in the rubble.
+
+“Of course I didn’t! You went charging at that giant thing!” Hanyi complained, struggling her way over the top of the rubble pile as Ling Qi slowly descended.
+
+“Obviously, I, Zhen, would not have agreed if it wasn’t safe. Hanyi should be more brave,” Zhen scoffed.
+
+Ling Qi winced. She could feel the temperature around Hanyi drop from here.
+
+“Why don’t we leave the kiddos to it?” Sixiang commented, amused. “I spied a door behind this thing’s pedestal.”
+
+“I suppose I don’t mind since it worked,” Ling Qi said, ignoring the banter between her spirits for now as she spoke to Xuan Shi. “What was that trick with the staff anyway? It felt weird.”
+
+“Without its time, there is no brute might which could budge an object,” Xuan Shi explained. Raising his hand, he gestured, and the staff shimmered before spinning back to his hand. As it did, Ling Qi saw one of the jade rings which hung from its head shatter. “Time cannot be held back forever however, and the price must be paid. Time arts incur great expense.”
+
+Ling Qi eyes the remaining rings, all made of the very highest quality white jade, expensive enough that even the richest mortal could not dream of owning so much as a fragment of it. “Just how much did it cost last year to restrain Ji Rong like that?”
+
+Xuan Shi seemed embarrassed. “Too much. This one somewhat regrets the ostentatious display.”
+
+“Only somewhat?” Ling Qi asked, raising an eyebrow.
+
+“The punishment was excessive, not unwarranted,” he said shortly. “But this one should not have let the ruffian’s words affect his temper so.”
+
+“Fair enough,” Ling Qi replied, wondering what Ji Rong could have said that would actually lead to Xuan Shi losing his temper while mentally batting away Sixiang’s insistent nudging. “Anyway, it seems we have a hidden door to look at.”
+
+Behind the pedestal where the statue had stood, there was a small hall, just barely wide enough for two people to walk abreast, leading back to a plain wooden door. After a moment’s deliberation, Ling Qi decided to leave Zhengui and Hanyi outside, both to guard the entrance and because she did not want an ill-tempered Hanyi in her head at the moment.
+
+“Thy spirits are a rambunctious sort,” Xuan Shi commented as they reached the door, raising his hat to study the unmarked wood.
+
+“Aw, that’s sweet of you to say,” Sixiang laughed, twisting the wind into words as Ling Qi’s eyes flickered silver and she studied the frame and the surrounding walls.
+
+“I wouldn’t trade them away for the world,” Ling Qi added as she let her technique fade. “I am surprised you don’t even have one though.”
+
+Xuan Shi inclined his head. “There is no practical need, but perhaps I might find one in the future,” he said quietly. “This door has no malicious trappings, it seems.”
+
+Accepting the change of subject, Ling Qi nodded. “I don’t see anything either. Guess we move forward.”
+
+He nodded and jabbed his staff forward, pushing the door open.
+
+Beyond the door lay a dimly lit room hung with streamers of silk. In one far corner, a pool of clear, clean water bubbled, flower petals floating on its surface, and in the other corner was a long couch, wide enough for two people to lie side-by-side. Faint streams of soft, airy music floated on the air, carrying strains of contentment and affection.
+
+Stepping through the door beside Xuan Shi, she glanced left and right, taking in the mostly empty shelf that still had dusty cups and a single bottle of sweet wine, and then back to the full length mirror on the other wall.
+
+“What,” she said dully for the second time this day.
+
+Xuan Shi sank his face into his free hand. “... This one apologizes.”
+
+“Just what kind of books do you read?” Sixiang asked in a delighted, sing-song voice.
+
+“The Voyages of Yu Long are tales of romance and adventure,” Xuan Shi said defensively. “Not this… tastelessness,” he said a bit too quickly, gesturing at the room in general.
+
+“Only because the old goat could not get his original manuscripts published,” said a voice from just behind them.
+
+Ling Qi nearly jumped out of her skin as she spun around. How! She hadn’t felt anything at all!
+
+Behind her stood a figure she had only seen briefly before. Staring down at her with serene gray eyes, Yuan He ran his fingers through his beard, an expression of faint amusement on his ancient face. Or… no, it was just an image of him, she thought, but she couldn’t tell for certain. He was simply so far above her that her senses could not discern the difference.
+
+Immediately, both Ling Qi and Xuan Shi bowed deeply.
+
+“Sect Head Yuan, this one meant no disparagement upon the Sect’s trials,” the boy beside her said immediately.
+
+“Do calm down, disciples. As you have likely guessed, this is less a trial and more an attraction. I suppose it had slipped this old man’s mind that it still stood,” the Sect Head said, looking around with… fond reminiscence? Ling Qi tried very hard not to think about that.
+
+She coughed, straightening up but still keeping her head respectfully low. “Sect Head Yuan, could I ask you to explain please?” she asked haltingly.
+
+He glanced her way, and Ling Qi tensed her shoulders. “Hm, I suppose it must be difficult to imagine,” the old man mused. “But once, the Sect was a much smaller and less ordered place. My Sect Uncle Lang was a good man, but he had opinions on propriety and certain forms of openness that made him… unpopular.”
+
+Xuan Shi had a terribly conflicted look in his eyes. “Do you mean to say that his works were meant for only -”
+
+The bottom of a steel-shod cane cracked against the floor, and thunder rumbled. “Young man, if my uncle’s work spoke to you, then does it matter that it might have been planned to include some illicit content?” the old man asked blithely.
+
+“No,” Xuan Shi acknowledged after a moment.
+
+Ling Qi didn’t know that she agreed. Such things were kept well out of public for a reason; she had seen what it looked like when things like that were not handled with care, far, far from everyday life.
+
+<Ling Qi,> Sixiang sighed.
+
+“My thoughts on the matter aside, I can hardly allow this place to remain open in this day and age,” Yuan He sighed. “Still, the two of you have reminded me of good days, even if the two of you rather missed the point of the place,” he said with a bark of laughter.
+
+“And what is that point?” Ling Qi asked, speaking before her mind could catch up. She didn’t blame Xuan Shi for bringing her here. He was a poor enough liar that she was sure that he genuinely hadn’t intended something untoward.
+
+Yuan He gave her a look, and Ling Qi felt an unpleasant prickling on her skin like he was looking through her. “Young lady, I think you will find that the men and women of this world can take most anything and make it a horror. This place was, however, built to bring young men and women together in joy and comfort away from judging eyes.”
+
+Ling Qi looked away, unable to hold the old man’s gaze. What a surreal conversation this was. But… she supposed it wasn’t impossible. Her experiences aside, she had glimpsed things in Sixiang’s memory. Something so fundamental to the human experience couldn’t be wholly awful. It didn’t make her skin crawl any less, standing here in this room.
+
+“What happened to the author?” Xuan Shi asked, breaking the silence.
+
+“Sect Elder Lang fell in battle with Ogodei, like many others,” Yuan He answered, taking another glance around the room. Once again, he rapped his cane against the earth, and very suddenly, they were back outside the ruin. and Ling Qi could hear Hanyi and Zhengui’s cries of confusion behind them, having been transported with them. “In any case, for bringing this to my attention, I will see the two of you rewarded. Now, get you gone. Sealing off this valley is going to take some time.”
+
+Together, Ling Qi and Xuan Shi bowed again and turned to leave. It was an odd end to an odd adventure. Still, up until its end, she had had fun. And later, when she had a chance to check, she found that she - and presumably Xuan Shi as well - had been rewarded handsomely with ten contribution points and sixty sect points, enough for some potent cultivation medicines or a visit to the higher levels of the archive..
+
+But it was time to get back to her duties. Cai Renxiang’s next social gathering was coming up, and she could feel the insistent tugging of the hole in her cultivation art, demanding that she decide which phase to empower.

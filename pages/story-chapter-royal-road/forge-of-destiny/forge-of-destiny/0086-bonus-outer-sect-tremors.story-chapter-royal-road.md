@@ -1,0 +1,101 @@
+---
+id: 71569b40-ec5f-5385-9873-c8b418a0fb42
+page-type-slug: story-chapter-royal-road
+title: "Bonus: Outer Sect Tremors"
+slug: 0086-bonus-outer-sect-tremors
+partOf: forge-of-destiny
+position: 86
+ownLength: 1601
+unit: words
+publishedAt: 2021-03-31
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/655819/bonus-outer-sect-tremors"
+royalRoadId: "655819"
+---
+
+“Hold. Fast. My. Friend!” Gan Guangli shouted, punctuating each word with a blow of his barrel sized fists. Across from him in the training ring, Gun Jun grimaced, feet widely braced behind the wide steel shield in his hands as the aura of mountain qi that surrounded him shuddered and his feet dug deep divots into the packed earth. All around him, others in the fellowship he had forged from the remains of his Lady’s government did the same, striving against one another in honest combat, or seated at the side resting from their own exertions.
+
+The Sister’s Ma were among those and Gan Guangli, hid his grin behind a bellow of exertion as Gun Jun’s back stiffened and he planted his feet all the harder when one of them called out her encouragement. Despite what his companions might think, he was not actually oblivious.
+
+“OOORA!” as he ended his string of blows he reared back his fist for a heavier strike and Gun Jun tensed further, squaring his shoulders and bolstering his body with heavy qi. His fist struck the iron shield like a gong, and iron caved in under his knuckles, but the man behind it did not, this time, go flying from the ring.
+
+“Haha! Quite an improvement!” Gan Guangli said cheerfully, clapping the other boy on the shoulders even as he sank wheezing to his knees.
+
+“Y-you are too kind, sir Gan,” Gun Jun gasped. “This meager growth is nothing.”
+
+“Too humble by half,” Gan Guangli chuckled. “Miss Ma! Get our friend a cool towel if you would. He has earned a little rest!”
+
+The girl who looked to have been contemplating fetching one on her own, practically jumped in her seat at his mention. “Y-yes, right away Sir Gan!”
+
+Gan Guangli watched her zip off with a faint smile and gave Gun Jun a hand back to his feet. Things were coming along well. If he just…
+
+There was a crack and a thud from the high cliff above their training ground and he snapped his head up, several of the more perceptive among them doing the same. He saw a dark blur emerge from the scraggly trees that lined the upper cliff and come rushing down in a tinder of stones and dust. For a moment he readied himself, only to hold his hand up for calm when he recognized the tumbling blurs qi.
+
+Su Ling crashed down in the middle of their training ground, catching herself on all fours, both of her tails thrashing furiously in the air above her. She scrambled to her feet, unmindful of the smudges of dirt on her clothes or the twigs in her hair. Her eyes zeroed in on him immediately.
+
+“Hoh there Miss Su! You’ve not come here for a spar I take it?” Gan asked, breaking the confused silence. Su Ling was an odd one. She was friendly enough but had refused all offers to join him, preferring to be alone in her workshop, despite the danger that presented from less scrupulous groups who wished access to her elixirs.
+
+“No,” she growled swiping her hair out of her eyes. He thought her rather striking despite her active efforts to seem otherwise. “Look, I need your help, we need to get people down to the village.”
+
+Others looked at each other murmuring, and beside him Gun Jun frowned. Gan Guangli did as well, but he raised his hand again for silence.”Miss Su, I need a little explanation.”
+
+She growled irritably, but visibly calmed herself. “Look, you know I do a little divination on the side right? Well I was doing my usual today and every sign points to a disaster down in the village today. They’re going to need help.”
+
+“Not to doubt you Miss Su, but is that not the sort of thing you should take to the Elder’s or at least one of the Inner Sect disciples on duty?” Gun Jun asked.
+
+“I’ve tried, but none of them are here,” Su Ling hissed. “Medicine Hall, lecture hall, main office, there’s nobody but fucking clerks, and they won’t give me the time of day.”
+
+There was a bit of a stir at her casual vulgarity, but the rest of her statement made gan Guangli frown. There should be at least a few people about.
+
+“Look, I know I probably sound crazy but I’m talking a serious disaster here. I have never turned up portents this bad,” she stressed. “I’m going myself but I’m not going to be enough.”
+
+“Sir Gan, if too many leave the mountain Lu Feng his gang will probably try to take advantage,” one of his subordinates pointed out. “We could lose our supplies or cultivation sites.”
+
+Gan Guangli crossed his arms surveying them all. Each person in the field was looking to him for a decision. He looked to Su Ling who wore a pleading expression ill-suited to the taciturn girl’s face.
+
+“We go to the village,” Gan Guangli said. “If there is even a chance of a disaster there preventing it is worth a few losses…”
+
+Beneath his feet, he felt the mountain shake. Su Ling’s eyes flew wide and she hissed another curse, darting off the field.
+
+As a tree on the edge of the cliff above groaned and toppled with the force of the next quake. Gan Guangli was already crouching as he prepared to leap. “We go!”
+
+***
+
+“If I didn’t know any better I’d say you look like you’re about to break out in a silly grin,” Liu Xin said casually.
+
+“Then it is certainly good that you do,” Xiao Fen replied aloofly. Although her companion was tolerable at most times, he still had many unfortunate misunderstandings of the proper ways of things. Case in point, a Bai did not grin.
+
+“Right, of course,” Liu Xin said. Xiao Fen elected to ignore his ill-hidden sarcasm as a favor. It was too fine a spring day to ruin with admonishments. “Still, I guess that meeting with your liege Lady went well.”
+
+“Lady Meizhen was quite pleased with my recent breakthrough to the third realm, even if it is yet incomplete,” Xiao Fen agreed, and if the corners of her lips quirked up a little, her expression could still not rightly be called anything so undignified as a grin. “Although our castes arts are different, her insights were still very helpful for my branch of the Serpent’s Step arts.”
+
+“Cultivating together huh,” Liu Xin mused, his eyes roaming from left to right of the path. They were walking the lower reaches of the Outer Sect Mountain, on the way back to the residences. The area around them was lightly wooded, and perfect for an ambush. She was glad to see that he had taken her lessons on proper vigilance to heart. “Hm, you really like her don’t you.”
+
+“I hear your implications Liu Xin,” Xiao Fen said, her eyes narrowing. “I have said before that I am whatever Lady Meizhen wishes of me. I have no feelings on the matter.”
+
+Even if she despised these Sect rules which kept her from attending her mistress' side.
+
+“And I gotta wonder how you can live like that,” Liu Xin grumbled.
+
+“Do not ruin a good afternoon with this argument,” Xiao Fen said flatly. Although she had learned that friends were to speak openly with one another in private, so she would not punish him for it, she had no wish to rehash this matter again. Outsider’s even clever ones like Liu Xin, simply did not understand. White Serpent and Black Viper were two halves of one whole and had been since before scribes had learned to put ink to paper.
+
+Black Viper’s did not have parents or siblings for those things could give them cause to betray their masters. Her every waking moment for so long as she had memory was spent in training to perfectly serve her future Mistress in whatever tasks she was given. She had been given that honor years early, how could she be anything but ecstatic? Yet even Liu Xin had been unsettled when she had described the non-secret portions of her upbringing.
+
+Although it was true that she found his own youth repugnant, the sheer lack of structure was horrifying. No wonder outsiders were such unpredictable savages at times.
+
+Liu Xin’s expression screwed up in a frown, but after a second he shook his head. “Yeah, sorry, was just trying to tease you a bit. The important thing is you were happy for the training, right?”
+
+Xiao Fen pursed her lips. “Yes, it was most pleasant. My apologies as well. I misunderstood your attempt at humor.”
+
+“Yeah, I should really be used to that by now,” Liu Xin chuckled. “So, what’s…”
+
+Xiao Fen’s stopped dead, her arm shot out and he walked into it and bounced off with a grunt.
+
+“Xiao Fen?” he asked, rubbing his chest.
+
+“Be silent,” she said harshly, staring down at the ground. “Can you not feel that?”
+
+He opened his mouth and closed it again, following her gaze down to the ground. The leaves were rustling, but there was no wind. The stones on the packed dearth path were shaking, starting to slowly skittering across the ground. “Wait why is the mountain sha…”
+
+The rest of his sentence was lost in the scream of the wind as beside him, as Xiao Fen blurred, throwing him over her shoulder, leapt into the sky. Beneath them the earth roared as stone and dirt split and crumbled opening a deep rent in the mountain.
+
+And in the darkness, pale and quivering things rose.

@@ -1,0 +1,141 @@
+---
+id: 0f568490-d61d-5481-96ac-1419e4dce5ad
+page-type-slug: story-chapter-royal-road
+title: "Threads 360-Maps 1"
+slug: 0400-threads-360-maps-1
+partOf: forge-of-destiny
+position: 400
+ownLength: 2068
+unit: words
+publishedAt: 2024-02-01
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1503183/threads-360-maps-1"
+royalRoadId: "1503183"
+---
+
+"Thank you for taking the time to show us your concerns," Gan Guangli said politely, bowing along with Ling Qi as Lord Luo and Lady Wang left.
+
+"And thank you for assisting,” Gan Guangli said to her. “The two were beginning to add bite to their words."
+
+"It was no trouble. I merely followed my intuition."
+
+It was unsurprising that there would be some friction between the old counts and the new ones.
+
+"I am glad we have such a fine tool as that. To think that I thought you were shy when we first met, Lady Ling!"
+
+"I was, or something like it, back then," Ling Qi said dryly. "Well, I think the representatives from the sects are trying to catch your eye."
+
+"I had noticed, so I will leave you to your business, Lady Ling. To our success!"
+
+"To our success," Ling Qi agreed, and Gan Guangli left.
+
+Taking a moment, Ling Qi scoped out the recess. No other obvious friction points. However, her eyes caught on Rostam and Inzha. Both were present today. They were conversing off near the doors, free of the clouds of clerk equivalents. It was a good opportunity to speak with them, to pick their thoughts for reactions to the “accidents,” as well as get a better feel for the White Sky since Jaromila was busy at the center of small cloud of elderly White Sky men and women, their scholars and law speakers.
+
+She began to move toward them, catching a cup from a roving server on the way. She spoke with her own people and the occasional White Sky courtier along the way until she was able to catch Inzha's eye over her husband’s head. The woman paused and furrowed her brow, but gestured for her to approach. As she came up to them, Rostam was already turning to her, smiling guilelessly, as was his wont.
+
+"Ah, Emissary Ling Qi! I am impressed that talks are going so smoothly. Really, all of these fellows are not much different from place to place, no? They just want to debate their books and codes with anyone who will listen!"
+
+"Any expert must be pleased to discuss their life's work, I'm sure. Emissary Inzha, I am glad that you have been able to return."
+
+"I am happy that my other duties have allowed me to see the final days of negotiation, even if I trust that my Rostam could see all of our interests represented," the tall woman said politely.
+
+"Ahaha! I am a happy man to be so trusted," Rostam said brightly.
+
+"I am pleased that your duties are going so well," Ling Qi said. "Might I inquire about what was taking you away?"
+
+"Matters of engineering and maintenance. Thanks to Emissary Ling Qi's kind warning, I have also discerned some pests which had crept in. Such is life at a new settlement. I am sure you understand," Inzha replied.
+
+Ling Qi nodded slowly. The reference was obvious. "I am glad that our friends in the White Sky have been able to find and root out such infestations."
+
+"Emissary Ling Qi is kind, and the matter is in hand."
+
+Ling Qi observed the two of them for a moment. A little more focus and qi in her vision enhanced the information her eyes could give. What she had been doing by accident before was now done on purpose to read those around her more carefully through their cultivation. She had taken the intrinsic effects of her domain and weaved it into the flow of her old perception art to make something new and better. This would be the Scholar-Thief’s Assessment.
+
+Inzha and her husband were difficult to sense, perhaps because of how much they blended together. When only one of them was present, it was like looking at a painting with half of its colors and half of its elements stripped out at random. Complete nonsense, in other words. But, when they were together…
+
+An elegant machine, like the inner workings of a clock, fine-toothed gears of wood and metal, making a harmonious whole. Both turned around the other, neither in command, but neither complete without their partner. Meticulous minds worked in sync under an outward shell of shining metal and warmly painted wood.
+
+She hadn't the ability to look more deeply, but she found no intent to deceive in what she could see. Inzha was downplaying her ongoing concern, but no more than that.
+
+She met Rostam's eyes. He was still smiling, but there was something sharp there too. "You are maybe a little stressed as well, eh? Had quite a close call yourself?"
+
+"I did," Ling Qi shared. "And no offense was meant."
+
+"Hah! We are all staring at each other, watching for a twitch! Let's not worry too much, yes?"
+
+"I do agree with my husband." Inzha smoothed wrinkles from her dress. "Spirit wardings can be a difficult puzzle, however one might enjoy solving such dilemmas. Let us leave it at that."
+
+"Of course," Ling Qi said. "While I was interested in your findings, I came to you more to seek the White Sky's opinion on the proceedings thus far and to learn whether there were any lingering concerns as we move on to the final steps of this phase."
+
+"And Emissary Jaromila is much occupied with the clergy and their concerns." Rostam stroked his chin. "I find that we of the wide polar plain are satisfied with how this first week has gone. Maybe this panel will prove unworkable in practice, but here? In words? We all agree it is good.
+
+"The matter of the investigating arm will need to be clarified more, but for an initial solution, it is good," Inzha agreed
+
+"I expect it will involve drawing law enforcement officials from the capital on our part," Ling Qi said. "In addition to your crows and what else you decide. Their nature means that we will probably have to discuss this force in tandem with the military matters."
+
+"Yes, that is going to be more difficult. Good that we have avoided most arguments here," Rostam said. "There will be many more there. Even I can already think of a few!"
+
+Ling Qi inclined her head. Dealing the security of the embassy and the negotiations over land claims was going to be far more divisive.
+
+"Being honest with you, emissary, given recent events, the only request which we might ask at this moment is a promise going into this next portion of debate," Inzha said.
+
+"I will hear your words of course, emissary."
+
+"It is on our wardings, our… security." Rostam gestured to the hall around them. "As this all shows, we have quite a ways to go until harmony, no?"
+
+Ling Qi didn't wince, but she did glance at the unfinished windows, the unpolished decor, and the somewhat cludged formation solutions. "It is true, but given the time allowed…"
+
+"We do not need those words, young lady. It was an ambitious project, hobbled by reticence on both sides," Inzha said. "But going forward, these patchwork solutions are not sufficient. We request that your people share more of their common rune and refinement theory, your formation craft and cultivation. We will share as well, of course. But I would ask for the promise of your support for this request when the time comes. Would you do this?"
+
+Even the small amount of foundational theory shared with the White Sky to let them work near each other without disruption had been reluctantly released by her people. The empire would not be keen to share even something as simple as the common formation primers available in the lowest archives of the Argent Peak Sect, let alone anything more.
+
+"I cannot guarantee that I can convince my countrymen to share such. Can you say that you can?"
+
+"I am very persuasive, eh?" Rostam chuckled. "But I understand. People can be tight-fisted. If you try and fail, I do not think it will be held against you. Right now, we only ask for a promise to try to shut down some hecklers, yes?"
+
+Was this something she wanted to begin spending her social capital on? She was sure they were being honest with their intentions, but she also remembered that the White Sky's most valuable contribution to their nation was knowledge. They were certainly seeking some domestic leverage for themselves, in addition to their security concerns.
+
+After a moment, Ling Qi said, "I can promise to support comprehensively sharing our foundations, that is, the base theory of our arts which all experts know."
+
+The empire had shared the absolute minimum that they could get away with here, and that had contributed to the slowed and somewhat haphazard work on the hall. Even now, most of the infrastructure in the valley was cleanly split with only basic connections where they needed to meet and some minor sharing of geomantic theory to avoid outright obstructing each other’s works.
+
+Honestly, if this business was going to last long term and not leave their security full of holes, they were either going to have to secede all infrastructure to one side or the other, or they would have to share the principles of their cultivation and formationwork to a greater extent anyway. The first option simply wasn't viable. So she was going to have some arguments to make. If promising it now bought her a little extra goodwill, so much the better.
+
+"It will be a good point to begin from and to prevent misunderstandings such as what happened here," Inzha said.
+
+Rostam gestured to the hall. "Rough edges aside, it is a good proof of things, yes?"
+
+"Would that everyone saw things that way," Ling Qi said wryly.
+
+"Hah! Not everyone can be as intelligent and handsome as me." Rostam puffed out his chest.
+
+"They cannot," Inzha said fondly. "Better to try something innovative and fall short of a lofty goal than muddle on in mediocrity."
+
+"The conventional wisdom simply says that it is better to succeed than fail."
+
+Inzha shrugged. "There is a difference between coming short and failing. Do we not stand under these eaves, negotiating as intended?"
+
+"It can be improved. So much the better! There is much to learn from missteps, so long as you don't go tumbling into the bog facefirst." Rostam held out his hand. "To better designs?"
+
+"To better cooperation," Ling Qi said, clasping his arm. "I will argue around my people as we need."
+
+"And Emissary Jaromila will be arguing ours," Inzha said, glancing over toward that gathering.
+
+Ling Qi considered Jaromila, who stood with her husband behind her, surrounded by older women and a handful of men. While she naturally could not perceive them with great clarity behind an active social screening technique, there was a certain frost in the air. Stern expressions and very polite words.
+
+"If it is not too rude, may I ask what is being argued over there? It was my impression that there were no significant tangles in negotiations."
+
+"Not with you," Rostam reassured. "Hmm… What can be said?"
+
+"There are some disagreements on which…" Inzha paused, searching for a word. "... sects within Sudica's clergy will be providing our magistrates for this project. I am afraid that there is little more that I may say."
+
+"Understood."
+
+Ling Qi cast one last glance at Jaromila. She could see everyone's faces more clearly now, a sign of the screening being lessened. Jaromila was not happy, but she seemed as if she had won in a way, the air of a victor dragging themselves out of the mud of a bloody battle. There were many pinched expressions among the clergy around her as well, but Ling Qi thought it was grudging rather than rebellious.
+
+"Our time is running out. Thank you for taking the time to speak with me." Ling Qi stopped herself from bowing and instead, only crossed her arms. "I look forward to completing this first step with you so that both of our peoples may prosper."
+
+Inzha smiled faintly. "Of course. I am most interested in seeing where negotiations go. This project that Emissary Jaromila and yourself have begun is fascinating."
+
+"And your wine is quite good!" Rostam chortled, stepping forward to loop his arm through Inzha's. "But we should be getting back to our places, no?"
+
+"We should," Ling Qi said. "Please give the other emissaries my regards."

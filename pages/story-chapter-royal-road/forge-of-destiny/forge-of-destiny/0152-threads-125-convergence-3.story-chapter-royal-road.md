@@ -1,0 +1,93 @@
+---
+id: 596cc618-5721-5348-b5a9-d2d5f93b0b27
+page-type-slug: story-chapter-royal-road
+title: "Threads 125-Convergence 3"
+slug: 0152-threads-125-convergence-3
+partOf: forge-of-destiny
+position: 152
+ownLength: 1539
+unit: words
+publishedAt: 2021-09-02
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/744201/threads-125-convergence-3"
+royalRoadId: "744201"
+---
+
+“Do you believe yourself to be prepared, Ling Qi?” Cai Renxiang asked as they approached the departure point. The forward part of the assault group was hidden in a shallow cave, while the main body waited in a river valley some kilometers back. The moment the signal was given, they would go loud, discarding stealth to move in at top speed, reducing the distance to a matter of a minute or two at most, barring interference.
+
+“I think so,” Ling Qi said. She had been preparing for such missions for a while now. She smiled wistfully. “I am the wind thief after all.”
+
+Cai Renxiang raised an eyebrow, as if asking for an explanation. Ling Qi didn’t give one. The heiress shook her head. “I suppose it is enough that you are confident.”
+
+“Lady Cai’s belief in this one is an honor,” Ling Qi said dryly.
+
+“Failure is forbidden.” The heiress bore an unamused expression. “Do not betray my confidence.”
+
+Ling Qi hummed, not worried by the ominous words. She could feel the thread of emotion weaving through that mechanical statement, hidden from the other disciples warming up for their part in the assault. “Naturally. Am I not your left hand?”
+
+“Indeed,” Cai Renxiang agreed, perfectly serious. “I look forward to your success.”
+
+“And I look forward to not being on the business end of my lady’s techniques for once,” Ling Qi jested.
+
+Cai Renxiang smiled faintly, turning away without a word.
+
+Ling Qi breathed out, turning her attention inward as she strode toward the mouth of the cave.
+
+<Everyone ready?> she thought.
+
+<Zhengui is ready! We trained hard,> her little brother said, determination coloring his voice.
+
+<Yeah, Big Sis always wins. Why should this be any different?> Hanyi said confidently.
+
+<That’s a little much, but I have your back,> Sixiang thought.
+
+There was nothing else to be said then.
+
+When Ling Qi left the camp to soar up the slope of the mountain, it was as a shadow and a breeze. Rain filtered through her as if she were not there. Light bent from her, reflecting back nothing to the eye of the beholder, and in the realm of spirit, her passage caused not a ripple.
+
+And that was before she activated Zephyr’s Mocking Escape and Breeze in the Vault techniques. With them, she was no more than the wind between the raindrops, not even a shadow upon the black stone of the mountain. Behind her eyes, she could feel the determination of the communications disciple observing through her.
+
+She flitted over the rim of the caldera right beneath the hooves of the warriors who guarded it, and saw into the caldera below. Flitting around the rim were more than a hundred second realms, and a scattering of early green riders, six in all by her count, were overseeing them.
+
+Descending further into the caldera, she noticed that in the twenty one people below, there were three obvious groups. And there was a cyan cultivator in one of them.
+
+As she wound down into the shadows, she moved ever so carefully to avoid the idle notice of the higher realm cultivator. As she slunk close enough, she began to make out the guttural speech of the tribesmen.
+
+“Why, then, should the people of the sky trust in one sort of lowlander over another?” asked the mightiest among them. The cyan tribesman was of average height and wore armor of bone and scale. He perched on the back of a massive eagle with dark blue and pale white feathers. Wisps of cloud and rain mist trailed from the bird’s folded wings, and the beast glared balefully down at the other groups. His mask, however, drew her attention. It was a thing of iridescent crystal gleaming with prismatic light, and she felt her eyes recoil from it. It sent a shudder through her, even as it left her eyes burning as if saltwater had been splashed in her face.
+
+“Starstone,” the communications disciple murmured. “Ogodei was said to use it in his arrows. Its properties in inducing rapid entropy in qi constructs are well recorded, but for a mere fourth realm to be using such a large piece is…”
+
+With him were ten warriors, the weakest five a step below her in cultivation. Three matched her, and two were a step above.
+
+“We have said many times that our allies are different, if you—” Another, younger barbarian spoke up, his voice hot and irritated. Surprisingly enough, she recognized him. She remembered the ozone crackle of lightning and the taunting song that had almost baited her into chasing the raiders. There, on his red-maned horse, was the barbarian singer she had faced in defense of the northwest village. He wore a mask of painted bone and thick armor of leather and metal studs.
+
+He was silenced as one of his companions raised a clawed hand. Beside him was a shishigui. It was unusual for its kind, standing straight without the usual hunch. Because of that, it towered over the singer, more than two meters tall. Its spindly body was armored in gleaming blue-black chitin like the carapace of a beetle, an impression only made stronger by the pronged horn that rose from its helm. The creature was at the seventh stage of the third realm.
+
+“The people of Ya-lith-kai have common purpose with the people of the sky,” the thing spoke, its high-pitched voice ill matched to the bass growls of the cloud tribe tongue. “As you are of the sky, we are of the depths. Never do our peoples need to be at cross purposes unlike the plunderers who contaminate, break, and steal.”
+
+There were two other shishigui with him, hunched and crouching as was more common, although they were only at the appraisal stage. The four barbarians with them were a step higher, and their mounts shifted uneasily beneath the gaze of the other tribes’ raptors.
+
+The last group was the smallest with only two people. One was an unassuming barbarian mounted upon a winged horse with pale blue fur and feathered wings as white as a cloud. A sixth stage cultivator, he wore heavy furs in place of armor, and his mask was a thing of glittering ice.
+
+Beside him was a strange, pale woman. She was tall, taller than any of the men present, except for the shishigui speaker. Her hair was a pale yellow shade like faded gold, and it was worn in a thick braid gathered around her throat. Her features were odd and foreign, the shape of her grey eyes strange. She wore a dress of pale blue and white, and while it was made of fur like the other barbarians, it seemed oddly well cut and elegant, for lack of a better word. It was almost like imperial tailor work.
+
+Ling Qi felt uncomfortable looking at her. The woman felt familiar despite her clear foreignness. She felt like a cold winter’s night, fierce and independent like a more aggressive Zeqing, and she was peak third realm. As she watched, the woman leaned in to whisper to the man.
+
+“The White Sky Confederation sees no value in treating with demons,” the man said. Several of the warriors among the first group shot him disgusted looks. “If our brothers in the north are so desperate, the Sky Palace Koliada will welcome them. More hands will only make work proceed faster.”
+
+The cyan cultivator glowered at the pair before turning back to the others. “The Twelve Stars Confederation agrees to an extent. Your strike was foolish. It is too soon, even though you succeeded. Great Khan Galidan is still organizing his strength, and while the First is acclimated, the Third and Seventh are not yet ready for war.”
+
+“We do not ask for your assistance without gifts,” the shishigui barked. “We, the deep people, know what sleeps here.”
+
+“If you have desecrated the cradle of the Twelfth, you will regret it,” the more powerful cultivator threatened.
+
+“We know you seek the fallen stars, son of the skies,” the shishigui growled. It clapped its hands, and the air shimmered. The center of the caldera shook with a weighty thump as a lump of prismatic stone more than ten meters wide rose from the earth as if it were water. “My people are of the deep earth. We can deliver your stars.”
+
+Ling Qi stared at the lump of starstone despite the burning in her eyes as the communication disciple in her head babbled incoherently. The very air around the thing warped, and the stone beneath it began to flow and melt into iridescent ooze as the bonds of qi began to distort and decay. She could feel the energies in the stone, potent beyond anything else in the caldera, yet sleeping.
+
+The communications disciple’s voice was suddenly cut off, replaced by Guan Zhi’s.
+
+“Secondary objective: secure the starstone object.” Her voice was curt.
+
+Ling Qi pulled her eyes away from the thing as she circled the caldera as a breeze. Right, what was one more objective?
+
+She had listened for as long as she could; some of the techniques empowering her were beginning to run out. She needed to choose targets for Guan Zhi and Cai Renxiang.

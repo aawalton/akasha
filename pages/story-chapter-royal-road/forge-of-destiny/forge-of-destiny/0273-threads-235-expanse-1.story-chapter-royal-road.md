@@ -1,0 +1,147 @@
+---
+id: 1d60ae35-9f6d-5bac-9b09-ad6a33e3b299
+page-type-slug: story-chapter-royal-road
+title: "Threads 235-Expanse 1"
+slug: 0273-threads-235-expanse-1
+partOf: forge-of-destiny
+position: 273
+ownLength: 2298
+unit: words
+publishedAt: 2022-08-05
+link: "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/963786/threads-235-expanse-1"
+royalRoadId: "963786"
+---
+
+“Your thoughts, Ling Qi?” Cai Renxiang asked. She stood beside an ornate table set in the middle of the snowy field. A map of high quality lay weighted upon it, and fresh ink was drying in the icy air. Ling Qi glanced across it, taking in the marked out course of the river and a few other locations already spied.
+
+They were not doing this alone. Cartographic teams were already building temporary shelters by the lakeside below, but there were limits to what first and second realms could do.
+
+Ling Qi blew out a breath. “We’ll be exposed, like I said, taking the furthest south region. But this river can definitely be tamed for shipping. It will just need a lot of work in some places. There are many good locations for fields as well, despite the cold. Zhengui thinks there are fires underground, heating the earth and keeping it from freezing entirely.”
+
+“We will be exposed at first,” Cai Renxiang agreed, already knowing her objections. “But we are close to the Wang as well, and the campaigns are not over. Showing that we do not cower from martial duty is important to the success of our more peaceful projects.”
+
+“It is not a pleasant acknowledgement that such views must be catered to, but it does not do to ignore the realities on the ground,” Gan Guangli said, cupping his chin. “There are many good locations for fortification in the south as well. With good planning, we can make this place secure.”
+
+“The news on the soil is pleasant, by the by.” Cai Renxiang looked up from the map. “Does your Zhengui believe these fires under the earth are dangerous?”
+
+<Gui does not think it is that kind of fire. It is hot smelly water and bits of fire-in-earth.>
+
+<I, Zhen, have traced the lines of the earth’s veins. If Big Sister lets us roam, I may keep the pressure light.>
+
+“Mostly, no,” Ling Qi spoke for him. ”And where it is, he thinks he can bleed any dangerous pressure off these veins of the earth.”
+
+“Very good,” Cai Renxiang said. “And the mountain in the southeast, cloaked peak to root in thunderclouds?"
+
+“From asking some contacts,” Ling Qi said, thinking of Yu Nuan and her new spirit, “and my own scouting, I believe Thunderclap Mountain is the winter grazing site of a family or small herd of dragon horses.”
+
+“Troubling,” Gan Guangli glanced toward the dark smudge on the southern sky. “We will have to discern their grazing routes and ensure we are not in their way.”
+
+Dragon horses, or qilin, were very powerful spirits, just shy of actual dragons themselves and with an ornery temperament to match. They were one of the few species of spirit beasts which could naturally attain the sixth realm.
+
+Cai Renxiang’s inkbrush swiftly wrote a note, encircling the dot representing the mountain in a wide zone. “I will inform the cartographers to keep a twenty kilometer distance and to carry gifts of fresh fruit until we can discern their breed and negotiate.”
+
+“Were there any more notable items in your initial flyover?” her liege asked.
+
+“Only a few very large beasts,” Ling Qi replied, moving up to the table to jot down a few more places where she had seen something particularly large and mobile.
+
+“Good. Now, I will be overseeing and organizing the cartographic teams. Ling Qi, Gan Guangli, I charge you with more thoroughly mapping the lines of the river and the places it descends into the earth. I expect daily reports on this,” Cai Renxiang ordered crisply. “If you believe my presence will open a venue you could not handle on your own, inform me, and I will arrive as necessary.”
+
+The two of them voiced their agreement and bowed as Cai Renxiang dismissed both table and map to storage, leaving only four impressions in the snow to show it had ever been there. She bid them farewell and descended to the lake below.
+
+Ling Qi looked at Gan Guangli. “Are you concerned by how long it is taking her to speak of whatever her mother said to her?”
+
+Gan Guangli rolled his broad shoulders, peering up at the sky. “Not as of yet. I trust the resolve in our lady’s eyes. She has not lost her goal. She is only uncertain of the path. She will speak to us when her thoughts are in order.”
+
+“Aren’t you yang cultivators supposed to be the pushy ones?” Ling Qi asked as they began to walk south along the river's edge.
+
+“I give my support freely, openly, and without obfuscation. Is that not enough? Let me turn the question to you, Miss Ling. What scares you so about her silence?”
+
+“The Duchess is terrifying. Yet somehow, Cai Renxiang, who I saw near the edge of breaking, however briefly, under stress, is now so much more…”
+
+“You worry that the Duchess changed something, perhaps by force?”
+
+She let out a long breath. “I do.”
+
+“Well, it is arrogant of me, perhaps, as one who has been absent so long,” Gan Guangli said thoughtfully. “But… I do not believe so. Lady Cai remains Lady Cai, tempered where once she was perhaps brittle, but Lady Cai all the same.”
+
+Ling Qi chuckled. “That’s the first time I’ve ever heard you say something that could even be construed as negative about her, Gan Guangli. Should I be watching you for treason?”
+
+He laughed, the booming sound scaring up birds from the trees. “Alas, I have revealed myself!”
+
+Ling Qi snorted and shook her head. She wished she could have his confidence, but in the end, she just had to trust their lady. Right now, they had a river to explore.
+
+***
+
+Ling Qi lost count of the pockets of air in the stone and earth they found. Most were just that, pockets in the porous stone that lay under the soil in the region, half-flooded and bearing only small populations of odd fish or silt with odd minerals. Others stretched on, forming galleries not unlike those she had seen beneath the thunder palace, with structures of damp stone that nonetheless held a vibrant, lively qi.
+
+In some places where the river and its tributaries went under the earth, they found only claustrophobic tunnels, passages barely wider than the water that flowed through them. In others, they found pools and lakes, hidden grottos among the stone filled with odd plants which they dutifully retrieved cuttings and samples from for testing at the Sect.
+
+In one instance, they found a mountain whose eastern half looked as if it were a sculpture whose maker had ripped a great fistful of clay from. This left it almost hollow in a way that should have led to collapse. Within was a clear, still lake of water, bitter with salt, and surrounded by strange and brittle fungal blooms like scraggly trees, the air filled with visible, drifting spores. The very air seemed to drink in light and heat and sound, and although Gan Guangli was very uncomfortable with the saline grotto, Ling Qi found herself feeling relaxed, especially as she gazed into the shrouded depths of the saltwater pool. The air was thick with darkness and hunger, a silent isolation that resonated with her oldest arts.
+
+But as they traveled south toward the higher mountains and the headwaters of the river, Ling Qi and Gan Guangli found their way to a cavern greater than any they had encountered yet. From it drifted a faint and inhuman piping song.
+
+“I’m sure that’s not ominous at all.” Ling Qi peered into the twisting chasm in the side of the mountain from which the sounds emanated.
+
+“Your mastery of the art of optimism continues to improve, Lady Ling!” Gan Guangli agreed cheerfully. He was kneeling, his hand pressed to the rocky soil outside. “Soon, you shall surpass me!”
+
+“Something to look forward to. Though of course, I will keep a hand on my escape talisman.”
+
+“Well enough. This cavern runs deep, and I sense a very large open space within.”
+
+<Anything you can feel, Zhengui, Sixiang?> Ling Qi asked, examining the striated limestone. It was a very high cliff on the side of a particularly ancient and worn down mountain like a tremendous slumping, white dusted hill rather than a cloud piercing peak.
+
+<There’s a strong breeze, cool and damp,> Sixiang whispered. <Doesn’t feel spooky, but that just means no obvious threat.>
+
+<The fire is very deep and quiet here, Big Sister. Gui thinks this old man is very sleepy,> her little brother chirped.
+
+“No obvious hostile spirits,” Ling Qi agreed aloud, their thoughts confirming hers. “My eyes can go ahead a little?”
+
+“Of course,” Gan Guangli agreed, dusting his hands off as he rose.
+
+Moon qi cycled through Ling Qi’s eyes, a faint silver light in the late afternoon sun, and bobbing wisps appeared. They vanished around a curve in the crevice and Gan Guangli followed, his heavy footfalls surprisingly soft, though still far louder than she was as she drifted in after him.
+
+A few minutes walking, guided by her wisps of moonlight, carried them on as the crevice widened into a high ceilinged natural corridor. All the while, the eerie piping continued, growing louder, more layered and complex.
+
+They moved slowly and with caution, but soon, Ling Qi’s wisps emerged from the crevice, and she stopped behind Gan Guangli with a gasp.
+
+The mountain was hollow.
+
+The chamber was vast, its organic ceiling stretching far overhead, and the stone was shot through with colors, pink and gold, blue and green, with all the shades of the dawn between. Great pillars of limestone, smooth and slick with moisture, stretched from the floor to the high ceiling above, shaped wholly by nature's hand. The floor of the space was a series of deep inky blue pools in scalloped depressions of varying height, rippling softly under the wind that blew through the cavern.
+
+This was a cathedral of winds. Ling Qi felt the movement of air currents above, arriving through holes worn in old stone, and heard the sound of piping as the wind flowed through the complex galleries of growing stone in the ceiling.
+
+In the west of the chamber, above a series of rising platforms of stone that emerged from the water, was a single huge crystal through which the light of the fading sun refracted. There was a presence there, a spirit and a mighty one at that. But, she felt, it was one unconcerned with them. So long as they did not damage the cavern, she thought that it would not rise to greet them.
+
+She could feel other smaller spirits swimming in the pure, clear waters and flitting through the gallery of growing stone above.
+
+She relayed this to Gan Guangli as they came to the entrance themselves.
+
+“A most potent environment,” Gan Guangli said thoughtfully. “And so large and complex. I do not think this can be wholly wild.”
+
+“I agree.” Ling Qi peered at the overlapping pools. She saw pale faces and bodies in the water, glimmering fish scales and fair hair like trailing water weeds. Wide and doe-like eyes peered back with a seeming childish curiosity, and soft bubbling voices rose in song. She shot the luring spirits a sharp look, and they scattered like schools of fish before the net. “We’ll want to keep the lower realms away.”
+
+Gan Guangli nodded in acknowledgment, taking a few steps toward the bright pane of crystal. “Luring spirits are ever troublesome. How do you judge them?”
+
+Ling Qi looked at the spirits, which were now hiding and looking back at her with a wary calculation. “Manageable. They can be talked to.”
+
+<Manageable the same way a hawk is manageable to an eagle,> Sixiang commented. <Well, I’ll go have a bit of a chat?>
+
+Ling Qi gave Sixiang her agreement as she trailed after Gan Guangli. “What do you think of the crystal? There’s no sign of it outside, but it’s clearly a spirit of the receiving sun.”
+
+“An illusion,” Gan Guangli said. He stepped up onto the highest platform, and the light of the shifting crystal pane sent his shadow trailing across the cavern. Ling Qi held hers to more restraint. “Or… no, I think it may just be the material of the earth here.”
+
+“What makes you say that?” Ling Qi stopped beside him. It was hard to tell with the dense aura of the cavern, but she didn’t think the crystal itself was a part of the spirit, but rather, a dwelling in so much as those could be said to be separate things for spirits. She recalled Zeqing’s little house on the peak.
+
+“The rock feels strange and light as if it might float away into the sky on the current that flows through it,” Gan Guangli mused. “And the substance flowing in the stone drinks hungrily of the light and the sun.”
+
+“We’ll have to make a note then. Maybe we should get a sample back to the Sect’s alchemists,” Ling Qi said. She clapped her hands twice and bowed toward the crystal, offering simple respect since she did not yet understand the sleeping spirit's nature.
+
+“Carefully, of course,” Gan Guangli said, following her lead. “Let us not forget the lessons of the argent vents.”
+
+“Of course,” Ling Qi said, straightening up. “Let me guide a little into a container and then—”
+
+She fell silent as Gan Guangli held up a hand, frowning deeply. “Ling Qi, focus. Can you feel that?”
+
+It was at that moment that Ling Qi felt a pressure in her mind, the feeling of Sixiang returning in a sudden rush. <Hey, sorry, looks like there’s some trouble! I swear it's not my fault. Watch the—>
+
+“Gan Guangli, the water!”
